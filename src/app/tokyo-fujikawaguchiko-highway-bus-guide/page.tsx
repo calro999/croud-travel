@@ -100,7 +100,7 @@ export default function HighwayBusArticlePage() {
       },
       {
         "time": "14:30",
-        "title": "河口湖駅前「旅の駅 kawaguchiko base」でお土産購入",
+        "title": "河口湖駅前「旅の駅 kawaguchiko base。」でお土産購入",
         "desc": "山梨県産ワイン、信玄餅、富士山型スイーツを購入。"
       },
       {

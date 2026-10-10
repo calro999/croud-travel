@@ -33,12 +33,12 @@ export default function Page() {
     "hotelMinCharge": 6100,
     "address1": "北海道",
     "address2": "小樽市稲穂2-15-1",
-    "telephoneNo": "0134-27-8100",
+    "telephoneNo": "00",
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/825/825.jpg",
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/825/825_room.jpg",
     "reviewCount": 2052,
     "reviewAverage": 4.37,
-    "userReview": "バーと朝食に大満足、また利用したいホテル内のバーがすごくよかったです。お酒が好きな主人との旅行でしたので、こちらのホテルを選ばせていただきました。朝食もおいしくフロントの女性の方の対応も大…　 ",
+    "userReview": "バーと朝食に大満足、また利用したいホテル内のバーがすごくよかったです。お酒が好きな主人との旅行でしたので、こちらのホテルを選ばせていただきました。朝食もおいしくフロントの女性の方の対応も大。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F825%2F825.html",
     "label": "北海道小樽市ふるさと納税・北一硝子やガラス工房めぐりの拠点「小樽ガラスの街」オーセントホテル小樽",
     "themeTitle": "北海道小樽市ふるさと納税：北一硝子やオルゴール堂へアクセス良好・小樽の気品漂うクラシック「オーセントホテル小樽」",
@@ -64,7 +64,7 @@ export default function Page() {
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/177986/177986_kan1.jpg",
     "reviewCount": 92,
     "reviewAverage": 4.5,
-    "userReview": "お風呂とトイレ別は良いが清掃と接客に難ありお風呂とトイレ別が嬉しかったけど、水周りの清掃が今ひとつ朝ご飯まだ残ってるのに下げられそうになったクチコミの詳細はこちらから　https://re…　 ",
+    "userReview": "お風呂とトイレ別は良いが清掃と接客に難ありお風呂とトイレ別が嬉しかったけど、水周りの清掃が今ひとつ朝ご飯まだ残ってるのに下げられそうになった。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F177986%2F177986.html",
     "label": "東京都墨田区・台東区ふるさと納税・繊細なカットが生む光の芸術「江戸切子」下町情緒と浅草ビューホテル",
     "themeTitle": "東京都台東区・墨田区ふるさと納税：江戸切子の町・墨田浅草の下町文化と粋を体感「浅草ビューホテル アネックス 六区」",
@@ -81,19 +81,19 @@ export default function Page() {
     "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D5305",
     "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D5305",
     "hotelKanaName": "しろやまほてるかごしま",
-    "hotelSpecial": "城山観光ホテルは、「SHIROYAMA HOTEL kagoshima」へ名称変更いたしました。",
+    "hotelSpecial": "城山観光ホテルは、「SHIROYAMA HOTEL kagoshima。」へ名称変更いたしました。",
     "hotelMinCharge": 9100,
     "address1": "鹿児島県",
     "address2": "鹿児島市新照院町41-1",
-    "telephoneNo": "0570-07-4680",
+    "telephoneNo": "80",
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5305/5305.jpg",
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5305/5305_room.jpg",
     "reviewCount": 3837,
     "reviewAverage": 4.63,
-    "userReview": "大きな窓からの景色と美味しい朝食に大満足部屋の窓が大きく、景色も素晴らしい、朝食ビュッフェもとても美味しかったですスタッフのホスピタリティも最高ですこちらのホテルを選んで本当に良か…　 ",
+    "userReview": "大きな窓からの景色と美味しい朝食に大満足部屋の窓が大きく、景色も素晴らしい、朝食ビュッフェもとても美味しかったですスタッフのホスピタリティも最高ですこちらのホテルを選んで本当に良か。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5305%2F5305.html",
     "label": "鹿児島県鹿児島市ふるさと納税・透明ガラスに色ガラスを被せた幻のぼかし美「薩摩切子」桜島一望露天風呂城山ホテル鹿児島",
-    "themeTitle": "鹿児島県鹿児島市ふるさと納税：薩摩切子の美意識と桜島一望の絶景展望露天風呂「SHIROYAMA HOTEL kagoshima（城山ホテル鹿児島）」",
+    "themeTitle": "鹿児島県鹿児島市ふるさと納税：薩摩切子の美意識と桜島一望の絶景展望露天風呂「SHIROYAMA HOTEL kagoshima（城山ホテル鹿児島）。」",
     "themeDesc": "仙巌園の薩摩切子ギャラリーや磯工芸館へのアクセス至便、城山の高台から桜島と錦江湾を正面に望む名門ホテル。地下1,000mから湧き出る展望露天温泉「さつま乃湯」や、鹿児島県産黒豚・黒毛和牛会席、薩摩切子で味わう本格芋焼酎バーが至福の夜を約束します。",
     "revAvg": "4.6",
     "minCharge": "9,100",
@@ -169,7 +169,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「オーセントホテル小樽」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「オーセントホテル小樽」へは、ＪＲ小樽駅より徒歩5分 悪天候時は都通り商店街(屋根付き)をお歩き下さい 近隣コインパーキングも多数。最寄りの小樽駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「オーセントホテル小樽」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「オーセントホテル小樽」は『小樽駅より徒歩5分で観光便利♪海と街を望むノスタルジックなホテル。地産地消の美食も口コミ高』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「オーセントホテル小樽」と「浅草ビューホテル アネックス 六区」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「オーセントホテル小樽」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「オーセントホテル小樽」へは、ＪＲ小樽駅より徒歩5分 悪天候時は都通り商店街(屋根付き)をお歩き下さい 近隣コインパーキングも多数。最寄りの小樽駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「オーセントホテル小樽」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「オーセントホテル小樽」は『小樽駅より徒歩5分で観光便利♪海と街を望むノスタルジックなホテル。地産地消の美食も口コミ高。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「オーセントホテル小樽」と「浅草ビューホテル アネックス 六区」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         
         {/* 特集の魅力セクション */}
@@ -475,7 +475,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「オーセントホテル小樽」は『小樽駅より徒歩5分で観光便利♪海と街を望むノスタルジックなホテル。地産地消の美食も口コミ高』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「オーセントホテル小樽」は『小樽駅より徒歩5分で観光便利♪海と街を望むノスタルジックなホテル。地産地消の美食も口コミ高。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

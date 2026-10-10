@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/traditional-bamboo-forest-path-quiet-onsen-stay"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D27796%26f_flg%3DPLAN",
     "hotelMinCharge": 9400,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/27796/27796.jpg",
-    "userReview": "タイムスリップしたような空間と乳児への配慮昔ながらの旅館という感じでタイムスリップしたような時間を過ごせました。広間での食事の時に乳児用の簡易ベッドも準備してくださりありがたかったです。クチコ…　2026-09-15 15:18:35投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=27796\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "タイムスリップしたような空間と乳児への配慮昔ながらの旅館という感じでタイムスリップしたような時間を過ごせました。広間での食事の時に乳児用の簡易ベッドも準備してくださりありがたかったです。クチコ。",
     "reviewAverage": 4.18,
     "reviewCount": 343,
     "address": "山梨県笛吹市石和町川中島325-1",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D52837%26f_flg%3DPLAN",
     "hotelMinCharge": 5500,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/52837/52837.jpg",
-    "userReview": "料理は絶品、格安で満足のいく内容料理がとても美味しくて、ランクアップして、料理をもっと楽しみたかったです。階段でトイレが階が違ったので、ちょっと気になりましたが、お値段が格安だったので満足でし…　2026-08-14 18:38:08投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=52837\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "料理は絶品、格安で満足のいく内容料理がとても美味しくて、ランクアップして、料理をもっと楽しみたかったです。階段でトイレが階が違ったので、ちょっと気になりましたが、お値段が格安だったので満足でし。",
     "reviewAverage": 4.08,
     "reviewCount": 174,
     "address": "新潟県南蒲原郡田上町田上丙1318-4",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D31865%26f_flg%3DPLAN",
     "hotelMinCharge": 24420,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31865/31865.jpg",
-    "userReview": "よくメンテされた登録文化財施設は漸次更新されており(文化財なので許認可大変だと思います)食事も美味しく仲居さんもフレッシュで素晴らしいと思います。ただし、寝具類がせんべい布団で朝が来るのが待ち…　2026-09-14 20:40:38投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=31865\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "よくメンテされた登録文化財施設は漸次更新されており(文化財なので許認可大変だと思います)食事も美味しく仲居さんもフレッシュで素晴らしいと思います。ただし、寝具類がせんべい布団で朝が来るのが待ち。",
     "reviewAverage": 4.58,
     "reviewCount": 267,
     "address": "静岡県伊豆市修善寺970",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D31796%26f_flg%3DPLAN",
     "hotelMinCharge": 11627,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31796/31796.jpg",
-    "userReview": "食事と温泉は満足、部屋の機械音が残念夕食も朝食も美味しくいただき、温泉も気持ち良かったです部屋の外から機械の音が聞こえて、少し残念でした!クチコミの詳細はこちらから　https://rev…　2026-09-19 22:12:36投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=31796\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "落ち着いた心地よい空間の中、温かい温泉とおいしいお料理で日頃の疲れを癒やすことができました。",
     "reviewAverage": 4.3,
     "reviewCount": 2060,
     "address": "熊本県阿蘇郡南小国町満願寺北黒川6554-1",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D68544%26f_flg%3DPLAN",
     "hotelMinCharge": 13000,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68544/68544.jpg",
-    "userReview": "畳敷きの館内と温泉に癒やされる心地よい時間滞在中ゆったりと過ごすことができました。館内はすべて畳敷きで、良い香りが漂い心地よかったです。大浴場も広々としており、温泉に癒やされました。スタッフの皆様…　2026-08-12 13:36:57投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=68544\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "畳敷きの館内と温泉に癒やされる心地よい時間滞在中ゆったりと過ごすことができました。館内はすべて畳敷きで、良い香りが漂い心地よかったです。大浴場も広々としており、温泉に癒やされました。スタッフの皆様。",
     "reviewAverage": 4.53,
     "reviewCount": 221,
     "address": "石川県加賀市山中温泉菅谷町ロ62",

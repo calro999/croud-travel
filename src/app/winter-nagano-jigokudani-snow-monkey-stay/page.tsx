@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【12月開幕！地獄谷スノーモンキー＆渋温泉郷】温泉に入る猿鑑賞と九湯めぐりレトロ宿5選",
     "description": "世界中から観光客が訪れる冬の世界的名所「地獄谷野猿公苑のスノーモンキー」！雪のなかで気持ちよさそうに天然温泉に浸かる猿たちを観察し、石畳の風情ある渋温泉街で厄除け「九湯めぐり」を楽しむ冬の信州旅。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-    "datePublished": "2026-09-27T00:00:00+09:00",
-    "dateModified": "2026-09-27T00:00:00+09:00",
+    "datePublished": "T00:00:00+09:00",
+    "dateModified": "T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",
@@ -153,7 +153,7 @@ export default function FeaturePage() {
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「信州渋温泉 渋白銀屋旅館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「信州渋温泉 渋白銀屋旅館」へは、●渋温泉郷内 七番湯「七操の湯」すぐ前● 電車/長野電鉄湯田中駅よりお車5分 車/信州中野ICよりお車約20分。最寄りの湯田中駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「信州渋温泉 渋白銀屋旅館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「信州渋温泉 渋白銀屋旅館」は『■全8室 京町屋を思わせる温泉旅館。九湯巡り・地産地消の郷土会席・女将手造りの果実酒を堪能』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「信州渋温泉 渋白銀屋旅館」と「渋温泉 いかり屋旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「信州渋温泉 渋白銀屋旅館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「信州渋温泉 渋白銀屋旅館」へは、●渋温泉郷内 七番湯「七操の湯」すぐ前● 電車/長野電鉄湯田中駅よりお車5分 車/信州中野ICよりお車約20分。最寄りの湯田中駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「信州渋温泉 渋白銀屋旅館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「信州渋温泉 渋白銀屋旅館」は『■全8室 京町屋を思わせる温泉旅館。九湯巡り・地産地消の郷土会席・女将手造りの果実酒を堪能。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「信州渋温泉 渋白銀屋旅館」と「渋温泉 いかり屋旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -338,7 +338,7 @@ export default function FeaturePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「信州渋温泉 渋白銀屋旅館」は『■全8室 京町屋を思わせる温泉旅館。九湯巡り・地産地消の郷土会席・女将手造りの果実酒を堪能』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「信州渋温泉 渋白銀屋旅館」は『■全8室 京町屋を思わせる温泉旅館。九湯巡り・地産地消の郷土会席・女将手造りの果実酒を堪能。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

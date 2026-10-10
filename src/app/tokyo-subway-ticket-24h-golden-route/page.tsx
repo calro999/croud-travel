@@ -210,7 +210,7 @@ export default function TokyoSubwayTicket24hPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「600円で都内観光乗り倒し！元を取るコスパ最強ルート＆駅チカ宿」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「600円で都内観光乗り倒し！元を取るコスパ最強ルート＆駅チカ宿。」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
       />
         {/* セクション1：24時間券の基本スペックと損益分岐点 */}
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-cyan-100">
@@ -277,7 +277,7 @@ export default function TokyoSubwayTicket24hPage() {
           <div className="p-4 rounded-2xl bg-cyan-50 border border-cyan-200">
             <h4 className="text-cyan-900 font-bold text-sm mb-1">🎯 結論：都内観光なら確実に元が取れる！</h4>
             <p className="text-cyan-800 text-xs sm:text-sm leading-relaxed">
-              「浅草観光 → 銀座でカフェ → 六本木で夜景」と移動するだけで既に運賃は570円〜600円に到達。
+              「浅草観光 → 銀座でカフェ → 六本木で夜景。」と移動するだけで既に運賃は570円〜600円に到達。
               これにホテルへの帰宅や翌朝の移動を1回加えるだけで、100%確実に利益（元取れ）が発生します。
             </p>
           </div>
@@ -520,7 +520,7 @@ export default function TokyoSubwayTicket24hPage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「600円で都内観光乗り倒し！元を取るコスパ最強ルート＆駅チカ宿」を効率よく巡るコツは？</span>
+                <span>Q. 「600円で都内観光乗り倒し！元を取るコスパ最強ルート＆駅チカ宿。」を効率よく巡るコツは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">

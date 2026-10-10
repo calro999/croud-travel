@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【宮崎日向夏スイーツ＆宮崎牛】爽やか柑橘と南国リゾート青島温泉の美食名湯宿5選",
     "description": "黄色い皮と白皮の甘みが絶妙な宮崎特産「日向夏（ひゅうがなつ）」の特製パフェと、日本一の栄冠に輝く「宮崎牛」！青島神社や鬼の洗濯板を望む青島温泉のトロトロ美肌湯で、南国の光と風を感じる癒やしステイ。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-    "datePublished": "2026-03-27T00:00:00+09:00",
-    "dateModified": "2026-03-27T00:00:00+09:00",
+    "datePublished": "T00:00:00+09:00",
+    "dateModified": "T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",
@@ -153,7 +153,7 @@ export default function FeaturePage() {
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「天然温泉”たまゆらの湯” 宮崎観光ホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「天然温泉”たまゆらの湯” 宮崎観光ホテル」へは、JR宮崎駅よりタクシーで約5分 宮崎空港より車で約15分 橘通1丁目バス停より徒歩約10分。最寄りの宮崎駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「天然温泉”たまゆらの湯” 宮崎観光ホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉”たまゆらの湯” 宮崎観光ホテル」は『楽天トラベルからお申込み頂いた方専用ラウンジ10/26OPEN★17時からは宮崎の焼酎もご』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉”たまゆらの湯” 宮崎観光ホテル」と「ＡＮＡホリデイ・インリゾート宮崎 ｂｙ ＩＨＧ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「天然温泉”たまゆらの湯” 宮崎観光ホテル。」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「天然温泉”たまゆらの湯” 宮崎観光ホテル。」へは、JR宮崎駅よりタクシーで約5分 宮崎空港より車で約15分 橘通1丁目バス停より徒歩約10分。最寄りの宮崎駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「天然温泉”たまゆらの湯” 宮崎観光ホテル。」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉”たまゆらの湯” 宮崎観光ホテル。」は『楽天トラベルからお申込み頂いた方専用ラウンジ10/26OPEN★17時からは宮崎の焼酎もご。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉”たまゆらの湯” 宮崎観光ホテル。」と「ＡＮＡホリデイ・インリゾート宮崎 ｂｙ ＩＨＧ。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -337,9 +337,9 @@ export default function FeaturePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 宮崎駅よりアクセス。JR宮崎駅よりタクシーで約5分 宮崎空港より車で約15分 橘通1丁目バス停より徒歩約10分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「天然温泉”たまゆらの湯” 宮崎観光ホテル」にチェックイン。楽天トラベルからお申込み頂いた方専用ラウンジ10/26OPEN★17時からは宮崎の焼酎もご用意♪などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「天然温泉”たまゆらの湯” 宮崎観光ホテル」の湯処へ。楽天トラベルからお申込み頂いた方専用ラウンジ10/26OPEN★17時とともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「天然温泉”たまゆらの湯” 宮崎観光ホテル」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「天然温泉”たまゆらの湯” 宮崎観光ホテル。」にチェックイン。楽天トラベルからお申込み頂いた方専用ラウンジ10/26OPEN★17時からは宮崎の焼酎もご用意♪などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「天然温泉”たまゆらの湯” 宮崎観光ホテル。」の湯処へ。楽天トラベルからお申込み頂いた方専用ラウンジ10/26OPEN★17時とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「天然温泉”たまゆらの湯” 宮崎観光ホテル。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -348,9 +348,9 @@ export default function FeaturePage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「天然温泉”たまゆらの湯” 宮崎観光ホテル」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「天然温泉”たまゆらの湯” 宮崎観光ホテル」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ＡＮＡホリデイ・インリゾート宮崎 ｂｙ ＩＨＧ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「天然温泉”たまゆらの湯” 宮崎観光ホテル。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「天然温泉”たまゆらの湯” 宮崎観光ホテル。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ＡＮＡホリデイ・インリゾート宮崎 ｂｙ ＩＨＧ。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -367,20 +367,20 @@ export default function FeaturePage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「天然温泉”たまゆらの湯” 宮崎観光ホテル」へのアクセスや移動方法について</span>
+                <span>Q. 「天然温泉”たまゆらの湯” 宮崎観光ホテル。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「天然温泉”たまゆらの湯” 宮崎観光ホテル」へは、JR宮崎駅よりタクシーで約5分 宮崎空港より車で約15分 橘通1丁目バス停より徒歩約10分。最寄りの宮崎駅からの経路案内も充実しています。
+                A. 「天然温泉”たまゆらの湯” 宮崎観光ホテル。」へは、JR宮崎駅よりタクシーで約5分 宮崎空港より車で約15分 橘通1丁目バス停より徒歩約10分。最寄りの宮崎駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「天然温泉”たまゆらの湯” 宮崎観光ホテル」の魅力や予約時のポイントは？</span>
+                <span>Q. 「天然温泉”たまゆらの湯” 宮崎観光ホテル。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「天然温泉”たまゆらの湯” 宮崎観光ホテル」は『楽天トラベルからお申込み頂いた方専用ラウンジ10/26OPEN★17時からは宮崎の焼酎もご』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「天然温泉”たまゆらの湯” 宮崎観光ホテル。」は『楽天トラベルからお申込み頂いた方専用ラウンジ10/26OPEN★17時からは宮崎の焼酎もご。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -389,7 +389,7 @@ export default function FeaturePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「天然温泉”たまゆらの湯” 宮崎観光ホテル」と「ＡＮＡホリデイ・インリゾート宮崎 ｂｙ ＩＨＧ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「天然温泉”たまゆらの湯” 宮崎観光ホテル。」と「ＡＮＡホリデイ・インリゾート宮崎 ｂｙ ＩＨＧ。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

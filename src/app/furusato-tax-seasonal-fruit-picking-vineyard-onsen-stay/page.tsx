@@ -49,7 +49,7 @@ export default function FurusatoSeasonalFruitPickingStayPage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「石和温泉 みなもと旅館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「石和温泉 みなもと旅館」へは、石和温泉駅より車で5分◇徒歩15分。最寄りの石和温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「石和温泉 みなもと旅館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「石和温泉 みなもと旅館」は『鴨鍋と露天ワイン風呂が自慢の宿◆内湯は24時間入浴OK♪ 露天風呂付き客室有』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「石和温泉 みなもと旅館」と「伊豆長岡温泉 招福の宿 ゑびすや」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「石和温泉 みなもと旅館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「石和温泉 みなもと旅館」へは、石和温泉駅より車で5分◇徒歩15分。最寄りの石和温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「石和温泉 みなもと旅館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「石和温泉 みなもと旅館」は『鴨鍋と露天ワイン風呂が自慢の宿◆内湯は24時間入浴OK♪ 露天風呂付き客室有。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「石和温泉 みなもと旅館」と「伊豆長岡温泉 招福の宿 ゑびすや」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -195,7 +195,7 @@ export default function FurusatoSeasonalFruitPickingStayPage() {
                     山梨県屈指の果樹園地帯・笛吹市石和温泉に位置し、緑豊かな日本庭園と手作りの郷土懐石が評判の温もりある名旅館。石和温泉は日本有数のブドウ・桃の産地に囲まれており、シーズン中はいちご狩りや桃狩り、シャインマスカット狩りの観光農園へ車ですぐの好立地。アルカリ性単純温泉のやわらかな天然温泉を引く大浴場や露天風呂で旅の疲れを癒やした後は、山梨名物の甲州牛やほうとう鍋、地元ワイナリーの銘醸甲州ワインを心ゆくまでお楽しみいただけます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「昭和レトロな空間と温かい接客に大満足女将さんやスタッフさんもとても優しく、昭和を感じさせるお部屋ですごく落ちついて宿泊が出来ました!!タイムスリップした感じで色々と楽しませて頂きました!また、行き… 2026-09-02 18:10:06投…」
+                    「昭和レトロな空間と温かい接客に大満足女将さんやスタッフさんもとても優しく、昭和を感じさせるお部屋ですごく落ちついて宿泊が出来ました!タイムスリップした感じで色々と楽しませて頂きました!また、行き… 投。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -256,7 +256,7 @@ export default function FurusatoSeasonalFruitPickingStayPage() {
                     静岡県屈指のいちごの産地として知られる伊豆の国市に佇み、平安時代から続く名湯「古奈温泉」の源泉かけ流しを誇る老舗料理旅館。周辺には章姫や紅ほっぺを時間無制限で楽しめる人気のいちご狩り施設が多数集結しています。館内にはヒノキの香り漂う貸切風呂や趣ある大浴場が揃い、肌当たり滑らかな美肌の湯を堪能。夕食には駿河湾から直送される鮮魚のお造りや季節の会席料理が美しく並び、心温まる伊豆の休日を満喫できます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「お風呂と食事は満足、部屋は綺麗だが落ち着かずお風呂も食事も満足です。お部屋は新しくされて綺麗ですが、少し落ち着かない感じでした。クチコミの詳細はこちらから 2026-09-03 19:47:57投稿 つづきはこちら…」
+                    「お風呂と食事は満足、部屋は綺麗だが落ち着かずお風呂も食事も満足です。お部屋は新しくされて綺麗ですが、少し落ち着かない感じでした。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -317,7 +317,7 @@ export default function FurusatoSeasonalFruitPickingStayPage() {
                     吾妻連峰の麓に約14kmにわたって広がる果樹園ロード「フルーツライン」の拠点となる飯坂温泉の名旅館。摺上川の清流を望む広大な敷地に、自家源泉から引く開放感あふれる大露天風呂や多彩なサウナ・内湯を完備しています。初夏のさくらんぼ、夏の桃、秋の梨、冬のりんごと、一年を通じて果樹王国ふくしまの恵みを満喫可能。料理人が腕を振るう福島牛や旬の山海の幸を盛り込んだ会席料理は絶品で、極上の癒やしと美食の時間を届けてくれます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「JAグループの宿らしい、きれい清潔で食事が朝も旨い!リピートしたい宿 洋室ツイン「美味の膳」平日24800円/人×2人で利用しました。今年6件目の温泉宿です。 敷地の広さから高級感が感じられま… 2026-08-28 17:58:08投稿 …」
+                    「JAグループの宿らしい、きれい清潔で食事が朝も旨い!リピートしたい宿 洋室ツイン「美味の膳」平日24800円/人×2人で利用しました。今年6件目の温泉宿です。 敷地の広さから高級感が感じられま… …」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -481,7 +481,7 @@ export default function FurusatoSeasonalFruitPickingStayPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「石和温泉 みなもと旅館」は『鴨鍋と露天ワイン風呂が自慢の宿◆内湯は24時間入浴OK♪ 露天風呂付き客室有』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「石和温泉 みなもと旅館」は『鴨鍋と露天ワイン風呂が自慢の宿◆内湯は24時間入浴OK♪ 露天風呂付き客室有。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

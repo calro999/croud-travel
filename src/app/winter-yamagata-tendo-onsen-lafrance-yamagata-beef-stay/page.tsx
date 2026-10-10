@@ -72,8 +72,8 @@ export default function TendoWinterPage() {
         "headline": "【11・12月天童温泉の冬名湯と山形美食】将棋の里・雪見露天風呂と11月旬ラ・フランス＆A5山形牛すき焼きの宿5選",
         "description": "将棋駒の生産量日本一を誇る山形の名湯「天童温泉」。11月から12月にかけて最盛期を迎える果物の女王「ラ・フランス」の芳醇な甘みと、極上の霜降りを誇るブランド黒毛和牛「山形牛」のすき焼き・ステーキ会席。初冬の奥羽山脈の雪見露天風呂、山寺（立石寺）の初冬散策を満喫する厳選名宿5選を徹底解説。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
-        "datePublished": "2026-09-27T00:00:00+09:00",
-        "dateModified": "2026-09-27T00:00:00+09:00",
+        "datePublished": "T00:00:00+09:00",
+        "dateModified": "T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

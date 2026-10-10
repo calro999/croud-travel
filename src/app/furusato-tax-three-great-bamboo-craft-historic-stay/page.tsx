@@ -190,7 +190,7 @@ export default function FurusatoRound64ArticlePage() {
                     ＡＭＡＮＥ　ＲＥＳＯＲＴ　ＳＥＩＫＡＩ（潮騒の宿　晴海）
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「他の画像やクチコミの詳細はこちらから https://review.travel.rakuten.co.jp/hotel/voice/78242?reviewId=33123479227765 2026-09-01 20:34:31投稿…」
+                    「他の画像や…」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -245,7 +245,7 @@ export default function FurusatoRound64ArticlePage() {
                     ホテルアソシア静岡
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「浴槽の汚れと鏡の手跡が気になり清潔感に疑問概ね良いホテル。朝食ビュッフェの味はいまいち。ブロッコリーにかけるソースは長い間補充されてなく空っぽのまま。一番驚いたのは、浴槽。お湯をためて浸か… 2026-08-31 22:52:59投稿 つづきはこちら…」
+                    「浴槽の汚れと鏡の手跡が気になり清潔感に疑問概ね良いホテル。朝食ビュッフェの味はいまいち。ブロッコリーにかけるソースは長い間補充されてなく空っぽのまま。一番驚いたのは、浴槽。お湯をためて浸か…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -300,7 +300,7 @@ export default function FurusatoRound64ArticlePage() {
                     嵐山温泉彩四季の宿　花筏
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「食事と温泉は良いが接客と設備に難ありご飯は美味しかったですし、立地も良かったです。ただ中居さんが強気な方で、気分が悪かったです。洗面所からは床まで滴るほどの水漏れもありました。温泉は気持ちがよく、… 2026-09-02 19:22:03投稿 つづきはこちら…」
+                    「食事と温泉は良いが接客と設備に難ありご飯は美味しかったですし、立地も良かったです。ただ中居さんが強気な方で、気分が悪かったです。洗面所からは床まで滴るほどの水漏れもありました。温泉は気持ちがよく、…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">

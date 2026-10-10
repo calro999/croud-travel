@@ -34,11 +34,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29387/29387map.gif",
     "reviewCount": 2084,
     "reviewAverage": 3.72,
-    "userReview": "食事も部屋も素晴らしく、スタッフも親切夕食もとても美味しくてお部屋も綺麗でした!スタッフさんも親切な方ばかりで良かったです!また来たいと思いました^_^クチコミの詳細はこちらから　ht…　2026-09-14 18:15:50投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=29387\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "食事も部屋も素晴らしく、スタッフも親切夕食もとても美味しくてお部屋も綺麗でした!スタッフさんも親切な方ばかりで良かったです!また来たいと思いました^_^。",
     "hotelMinCharge": 7150,
     "address1": "群馬県",
     "address2": "渋川市伊香保町伊香保557-32",
-    "telephoneNo": "0279-72-3333",
+    "telephoneNo": "33",
     "access": "ＪＲ渋川駅→路線バス（30分）→伊香保バスターミナル下車、またはタクシー（15分）／関越自動車道・渋川伊香保ＩＣ～20分",
     "parkingInformation": "車100台・バイクの方は屋根付き駐車場がございます。料金無料・予約不要",
     "nearestStation": "渋川",
@@ -59,11 +59,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13775/13775map.gif",
     "reviewCount": 671,
     "reviewAverage": 4.43,
-    "userReview": "幼児が喜ぶ宿何度もリピートしています。幼児と行くのにちょうどいいです。子どもが喜ぶ仕掛けを、スタッフの方々が考えてくださっているのが、とても伝わります。建物も古い感じはありますが、掃除…　2026-09-19 21:20:12投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=13775\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "幼児が喜ぶ宿何度もリピートしています。幼児と行くのにちょうどいいです。子どもが喜ぶ仕掛けを、スタッフの方々が考えてくださっているのが、とても伝わります。建物も古い感じはありますが、掃除。",
     "hotelMinCharge": 9900,
     "address1": "佐賀県",
     "address2": "嬉野市嬉野町岩屋川内甲340-1",
-    "telephoneNo": "0954-43-3238",
+    "telephoneNo": "38",
     "access": "『嬉野IC』より車で8分／『武雄温泉駅』より嬉野温泉までバスで30分＊平面駐車場完備でご家族マイカーでの来館も安心です。",
     "parkingInformation": "有り　28台　無料　先着順",
     "nearestStation": "武雄温泉",
@@ -84,11 +84,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10716/10716map.gif",
     "reviewCount": 4963,
     "reviewAverage": 4.42,
-    "userReview": "お風呂が最高飛騨牛がとっても美味しくお風呂も肌がツルツルになりいろんな大浴場があり男女日替わりで楽しむことができて最高でした。クチコミの詳細はこちらから　https://review.…　2026-09-19 19:16:33投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=10716\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "お風呂が最高飛騨牛がとっても美味しくお風呂も肌がツルツルになりいろんな大浴場があり男女日替わりで楽しむことができて最高でした。",
     "hotelMinCharge": 7700,
     "address1": "岐阜県",
     "address2": "下呂市湯之島570",
-    "telephoneNo": "0576-25-3121",
+    "telephoneNo": "21",
     "access": "Ｊ��高山線下呂駅下車(徒歩８分／中央道中津川ＩＣよりＲ２５７で５０ｋｍ　",
     "parkingInformation": "有り　８０台　無料",
     "nearestStation": "下呂",
@@ -109,11 +109,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15772/15772map.gif",
     "reviewCount": 1982,
     "reviewAverage": 4.35,
-    "userReview": "最高夕食は少なめで料理の質を上げていて満足でした。部屋の風呂も見晴らしがよく最高でした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/ho…　2026-09-18 18:43:19投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=15772\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "最高夕食は少なめで料理の質を上げていて満足でした。部屋の風呂も見晴らしがよく最高でした。",
     "hotelMinCharge": 8415,
     "address1": "福岡県",
     "address2": "朝倉市杷木久喜宮1841-1",
-    "telephoneNo": "0946-62-1120",
+    "telephoneNo": "20",
     "access": "福岡市内から約60分！大分自動車道・杷木ＩＣより約5分！名跡『秋月城址』まで車で30分、太宰府まで車で50分",
     "parkingInformation": "無料100台有り■玄関前以外はバレーサービス■ハイルーフ・マイクロでも安心のアスファルト敷平面",
     "nearestStation": "筑後吉井",
@@ -134,11 +134,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/52577/52577map.gif",
     "reviewCount": 176,
     "reviewAverage": 4.36,
-    "userReview": "とろける高級すき焼きと大自然のぬる湯夕飯はすき焼きのお肉にびっくり高��牛肉が5枚大きいお肉がとろけました温泉はトロッとしたぬる湯で湯当たりしません大自然の中ゆったり過ごせましたクチコミ…　2026-08-13 09:06:22投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=52577\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "とろける高級すき焼きと大自然のぬる湯夕飯はすき焼きのお肉にびっくり高��牛肉が5枚大きいお肉がとろけました温泉はトロッとしたぬる湯で湯当たりしません大自然の中ゆったり過ごせましたクチコミ。",
     "hotelMinCharge": 8800,
     "address1": "佐賀県",
     "address2": "佐賀市富士町古湯873",
-    "telephoneNo": "0952-58-2121",
+    "telephoneNo": "21",
     "access": "佐賀大和ICよりお車にて15分、JR長崎本線佐賀駅→昭和バス乗車→古湯温泉前下車→徒歩3分",
     "parkingInformation": "有り　２０台　無料　予約不要",
     "nearestStation": "佐賀",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「伊香保温泉 名物畳風呂と料理自慢の宿 ホテルきむら」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「伊香保温泉 名物畳風呂と料理自慢の宿 ホテルきむら」へは、ＪＲ渋川駅→路線バス（30分）→伊香保バスターミナル下車、またはタクシー（15分）／関越自動車道・渋川伊香保ＩＣ～20分。最寄りの渋川駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「伊香保温泉 名物畳風呂と料理自慢の宿 ホテルきむら」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「伊香保温泉 名物畳風呂と料理自慢の宿 ホテルきむら」は『北関東最大級の畳風呂とメガ貸切露天風呂 伊香保の綺麗な景色を一望！お料理とお風呂自慢の宿』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「伊香保温泉 名物畳風呂と料理自慢の宿 ホテルきむら」と「嬉野温泉 旅館 初音荘」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「伊香保温泉 名物畳風呂と料理自慢の宿 ホテルきむら。」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「伊香保温泉 名物畳風呂と料理自慢の宿 ホテルきむら。」へは、ＪＲ渋川駅→路線バス（30分）→伊香保バスターミナル下車、またはタクシー（15分）／関越自動車道・渋川伊香保ＩＣ～20分。最寄りの渋川駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「伊香保温泉 名物畳風呂と料理自慢の宿 ホテルきむら。」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「伊香保温泉 名物畳風呂と料理自慢の宿 ホテルきむら。」は『北関東最大級の畳風呂とメガ貸切露天風呂 伊香保の綺麗な景色を一望！お料理とお風呂自慢の宿。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「伊香保温泉 名物畳風呂と料理自慢の宿 ホテルきむら。」と「嬉野温泉 旅館 初音荘」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -585,9 +585,9 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 渋川駅よりアクセス。ＪＲ渋川駅→路線バス（30分）→伊香保バスターミナル下車、またはタクシー（15分）／関越自動車道・渋川伊香保ＩＣ～20分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「伊香保温泉 名物畳風呂と料理自慢の宿 ホテルきむら」にチェックイン。北関東最大級の畳風呂とメガ貸切露天風呂 伊香保の綺麗な景色を一望！お料理とお風呂自慢の宿などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「伊香保温泉 名物畳風呂と料理自慢の宿 ホテルきむら」の湯処へ。北関東最大級の畳風呂とメガ貸切露天風呂 伊香保の綺麗な景色を一望！お料とともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「伊香保温泉 名物畳風呂と料理自慢の宿 ホテルきむら」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「伊香保温泉 名物畳風呂と料理自慢の宿 ホテルきむら。」にチェックイン。北関東最大級の畳風呂とメガ貸切露天風呂 伊香保の綺麗な景色を一望！お料理とお風呂自慢の宿などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「伊香保温泉 名物畳風呂と料理自慢の宿 ホテルきむら。」の湯処へ。北関東最大級の畳風呂とメガ貸切露天風呂 伊香保の綺麗な景色を一望！お料とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「伊香保温泉 名物畳風呂と料理自慢の宿 ホテルきむら。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -596,8 +596,8 @@ export default function FeatureDetailPage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「伊香保温泉 名物畳風呂と料理自慢の宿 ホテルきむら」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「伊香保温泉 名物畳風呂と料理自慢の宿 ホテルきむら」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「伊香保温泉 名物畳風呂と料理自慢の宿 ホテルきむら。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「伊香保温泉 名物畳風呂と料理自慢の宿 ホテルきむら。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「嬉野温泉 旅館 初音荘」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
@@ -615,20 +615,20 @@ export default function FeatureDetailPage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「伊香保温泉 名物畳風呂と料理自慢の宿 ホテルきむら」へのアクセスや移動方法について</span>
+                <span>Q. 「伊香保温泉 名物畳風呂と料理自慢の宿 ホテルきむら。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「伊香保温泉 名物畳風呂と料理自慢の宿 ホテルきむら」へは、ＪＲ渋川駅→路線バス（30分）→伊香保バスターミナル下車、またはタクシー（15分）／関越自動車道・渋川伊香保ＩＣ～20分。最寄りの渋川駅からの経路案内も充実しています。
+                A. 「伊香保温泉 名物畳風呂と料理自慢の宿 ホテルきむら。」へは、ＪＲ渋川駅→路線バス（30分）→伊香保バスターミナル下車、またはタクシー（15分）／関越自動車道・渋川伊香保ＩＣ～20分。最寄りの渋川駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「伊香保温泉 名物畳風呂と料理自慢の宿 ホテルきむら」の魅力や予約時のポイントは？</span>
+                <span>Q. 「伊香保温泉 名物畳風呂と料理自慢の宿 ホテルきむら。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「伊香保温泉 名物畳風呂と料理自慢の宿 ホテルきむら」は『北関東最大級の畳風呂とメガ貸切露天風呂 伊香保の綺麗な景色を一望！お料理とお風呂自慢の宿』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「伊香保温泉 名物畳風呂と料理自慢の宿 ホテルきむら。」は『北関東最大級の畳風呂とメガ貸切露天風呂 伊香保の綺麗な景色を一望！お料理とお風呂自慢の宿。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -637,7 +637,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「伊香保温泉 名物畳風呂と料理自慢の宿 ホテルきむら」と「嬉野温泉 旅館 初音荘」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「伊香保温泉 名物畳風呂と料理自慢の宿 ホテルきむら。」と「嬉野温泉 旅館 初音荘」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

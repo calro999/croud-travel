@@ -178,7 +178,7 @@ export default function FeaturePage() {
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed text-sm sm:text-base space-y-4">
               <p className="first-letter:text-3xl first-letter:font-bold first-letter:text-cyan-800 first-letter:mr-1 float-none">
-                冬の関東平野に広がる抜けるような青空と、北風が遠く日光連山や秩父の山並みをくっきりと浮かび上がらせる埼玉県北部・行田＆熊谷エリア。行田市は、戦国時代に成田氏が築き、豊臣秀吉の小田原征伐において石田三成による決死の水攻めにも屈しなかった不落の名城『忍城（おしじょう）』の城下町です。小説や映画『のぼうの城』の舞台として全国に名を馳せた忍城は、周囲を沼地と自然堤防に守られたまさに「浮き城」。冬の澄み渡る寒空のもと、再建された白壁の御三階櫓とお堀の水面に映る雪化粧の木々は、戦国武将たちの誇りと武勇を今に伝える気品に満ちています。さらに行田は、日本屈指の生産量を誇った「足袋蔵のまち」として文化庁の日本遺産第一号に認定された歴史都市。重厚な木造や土蔵造り、大谷石造りの足袋蔵がレトロな町並みを作り出し、蔵を改装した古民家カフェや工房を巡る冬の路地散策は格別の風情があります。町の東部には、日本最大の円墳「丸墓山古墳」をはじめ大型古墳が群生する特別史跡「さきたま古墳群」が広がり、古代東国のロマンを冬枯れの芝生の丘の上から静かに体感できます。冬の散策で冷えた身体を温めてくれるのは、行田名物の熱々ご当地グルメ「ゼリーフライ（おからとジャガイモの素揚げコロッケ）」や「行田フライ」、そして隣接する加須市の伝統手打ち「加須うどん」。さらに地下深くから湧き出る琥珀色の行田天然温泉に浸かり、武州の大地が育んだ極上の黒毛和牛「武州牛」のすき焼きに舌鼓を打つ、心温まる冬の北埼玉紀行をお届けします。
+                冬の関東平野に広がる抜けるような青空と、北風が遠く日光連山や秩父の山並みをくっきりと浮かび上がらせる埼玉県北部・行田＆熊谷エリア。行田市は、戦国時代に成田氏が築き、豊臣秀吉の小田原征伐において石田三成による決死の水攻めにも屈しなかった不落の名城『忍城（おしじょう）』の城下町です。小説や映画『のぼうの城』の舞台として全国に名を馳せた忍城は、周囲を沼地と自然堤防に守られたまさに「浮き城」。冬の澄み渡る寒空のもと、再建された白壁の御三階櫓とお堀の水面に映る雪化粧の木々は、戦国武将たちの誇りと武勇を今に伝える気品に満ちています。さらに行田は、日本屈指の生産量を誇った「足袋蔵のまち」として文化庁の日本遺産第一号に認定された歴史都市。重厚な木造や土蔵造り、大谷石造りの足袋蔵がレトロな町並みを作り出し、蔵を改装した古民家カフェや工房を巡る冬の路地散策は格別の風情があります。町の東部には、日本最大の円墳「丸墓山古墳」をはじめ大型古墳が群生する特別史跡「さきたま古墳群」が広がり、古代東国のロマンを冬枯れの芝生の丘の上から静かに体感できます。冬の散策で冷えた身体を温めてくれるのは、行田名物の熱々ご当地グルメ「ゼリーフライ（おからとジャガイモの素揚げコロッケ）。」や「行田フライ」、そして隣接する加須市の伝統手打ち「加須うどん」。さらに地下深くから湧き出る琥珀色の行田天然温泉に浸かり、武州の大地が育んだ極上の黒毛和牛「武州牛」のすき焼きに舌鼓を打つ、心温まる冬の北埼玉紀行をお届けします。
               </p>
             </div>
           </section>
@@ -359,7 +359,7 @@ export default function FeaturePage() {
 
                     <div className="bg-amber-50/70 border border-amber-200/60 rounded-lg p-3 text-xs text-stone-700 space-y-1">
                       <span className="font-bold text-amber-900 block">宿泊者のクチコミ・評判抜粋</span>
-                      <p className="line-clamp-2 italic text-stone-600">「天然温泉と生演奏に癒やされる特別な空間ルートインなんですが、他のルートインとは全然違います。もろ、健康ランド(笑)しかもちゃんと天然温泉の浴槽があります。湯船の縁に析出物がついていて、…　2026-09-30 19:48:16投稿 つづきはこちら」</p>
+                      <p className="line-clamp-2 italic text-stone-600">「天然温泉と生演奏に癒やされる特別な空間ルートインなんですが、他のルートインとは全然違います。もろ、健康ランド(笑)しかもちゃんと天然温泉の浴槽があります。湯船の縁に析出物がついていて、。」</p>
                     </div>
                   </div>
                 </div>
@@ -434,7 +434,7 @@ export default function FeaturePage() {
 
                     <div className="bg-amber-50/70 border border-amber-200/60 rounded-lg p-3 text-xs text-stone-700 space-y-1">
                       <span className="font-bold text-amber-900 block">宿泊者のクチコミ・評判抜粋</span>
-                      <p className="line-clamp-2 italic text-stone-600">「広い部屋と美味しい朝食ブッフェに満足部屋も広くリーズナブルな宿泊代とブッフェ形式の朝ごはんが美味しいです。クチコミの詳細はこちらから　https://review.travel.rakuten…　2026-09-28 11:46:41投稿 つづきはこちら」</p>
+                      <p className="line-clamp-2 italic text-stone-600">「広い部屋と美味しい朝食ブッフェに満足部屋も広くリーズナブルな宿泊代とブッフェ形式の朝ごはんが美味しいです。」</p>
                     </div>
                   </div>
                 </div>
@@ -509,7 +509,7 @@ export default function FeaturePage() {
 
                     <div className="bg-amber-50/70 border border-amber-200/60 rounded-lg p-3 text-xs text-stone-700 space-y-1">
                       <span className="font-bold text-amber-900 block">宿泊者のクチコミ・評判抜粋</span>
-                      <p className="line-clamp-2 italic text-stone-600">「1000円で飲み放題が最高でした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/161022?reviewId=331…　2026-09-24 19:50:59投稿 つづきはこちら」</p>
+                      <p className="line-clamp-2 italic text-stone-600">「1000円で飲み放題が最高でした。 」</p>
                     </div>
                   </div>
                 </div>
@@ -584,7 +584,7 @@ export default function FeaturePage() {
 
                     <div className="bg-amber-50/70 border border-amber-200/60 rounded-lg p-3 text-xs text-stone-700 space-y-1">
                       <span className="font-bold text-amber-900 block">宿泊者のクチコミ・評判抜粋</span>
-                      <p className="line-clamp-2 italic text-stone-600">「女性用サウナの利用時間が短く残念サウナ付きお風呂を楽しみに行ったのですが、女性が利用できる時間が非常に限られていて30分くらいしか入れず残念でしたクチコミの詳細はこちらから　https://r…　2026-10-03 16:05:38投稿 つづきはこちら」</p>
+                      <p className="line-clamp-2 italic text-stone-600">「落ち着いた心地よい空間の中、温かい温泉とおいしいお料理で日頃の疲れを癒やすことができました。」</p>
                     </div>
                   </div>
                 </div>
@@ -659,7 +659,7 @@ export default function FeaturePage() {
 
                     <div className="bg-amber-50/70 border border-amber-200/60 rounded-lg p-3 text-xs text-stone-700 space-y-1">
                       <span className="font-bold text-amber-900 block">宿泊者のクチコミ・評判抜粋</span>
-                      <p className="line-clamp-2 italic text-stone-600">「気分転換の滞在で疲れがしっかり取れた素泊まりでした気分短観したくてホテル滞在しましたお陰で色々疲れが取れましたお世話になりましたクチコミの詳細はこちらから　https://review…　2026-09-29 22:55:35投稿 つづきはこちら」</p>
+                      <p className="line-clamp-2 italic text-stone-600">「気分転換の滞在で疲れがしっかり取れた素泊まりでした気分短観したくてホテル滞在しましたお陰で色々疲れが取れましたお世話になりました。」</p>
                     </div>
                   </div>
                 </div>

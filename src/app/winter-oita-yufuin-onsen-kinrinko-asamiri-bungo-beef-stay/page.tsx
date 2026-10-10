@@ -72,8 +72,8 @@ export default function YufuinOnsenWinterPage() {
         "headline": "【11・12月由布院温泉の冬名湯と金鱗湖の幻想朝霧】由布岳冠雪・離れ露天風呂と極上豊後牛＆冠地鶏鍋会席の宿5選",
         "description": "11月から12月にかけて大分県・由布院温泉は、冷え込んだ早朝に金鱗湖から立ち昇る幻想的な「朝霧」と、初雪を冠した優美な由布岳の絶景に包まれます。メタケイ酸を豊富に含む弱アルカリ性のまろやかな美肌の湯、全室離れや客室露天風呂で過ごす静謐な冬のプライベートタイム、最高峰ブランド黒毛和牛「おおいた和牛（豊後牛）」の炭火焼きやすき焼き、大分特産「冠地鶏」のあったか地鶏鍋を堪能する至高の名宿5選を徹底解説。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
-        "datePublished": "2026-09-28T00:00:00+09:00",
-        "dateModified": "2026-09-28T00:00:00+09:00",
+        "datePublished": "T00:00:00+09:00",
+        "dateModified": "T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
@@ -600,7 +600,7 @@ export default function YufuinOnsenWinterPage() {
                 <h3 className="font-bold text-slate-900 text-sm sm:text-base">由布院アートギャラリー巡り〜カフェタイムとお土産選び</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
-                チェックアウト後は「COMICO ART MUSEUM YUFUIN」などの現代美術館や民芸村へ。静寂な冬の森に佇む美術館でアート鑑賞を楽しんだ後は、金鱗湖畔のカフェで温かい珈琲とスイーツを堪能。駅前通りで大分名産のカボス製品や柚子胡椒、とり天せんべいなどのお土産を購入し、満足感に包まれながら帰路へ。
+                チェックアウト後は「COMICO ART MUSEUM YUFUIN。」などの現代美術館や民芸村へ。静寂な冬の森に佇む美術館でアート鑑賞を楽しんだ後は、金鱗湖畔のカフェで温かい珈琲とスイーツを堪能。駅前通りで大分名産のカボス製品や柚子胡椒、とり天せんべいなどのお土産を購入し、満足感に包まれながら帰路へ。
               </p>
             </div>
           </div>

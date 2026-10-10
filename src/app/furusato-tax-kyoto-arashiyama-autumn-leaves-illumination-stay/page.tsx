@@ -249,7 +249,7 @@ export default function FurusatoKyotoArashiyamaAutumnLeavesStayPage() {
                     </span>
                   </div>
                   <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    京都　嵐山温泉　花伝抄（共立リゾート）（２０２６年５月１日リニューアルオープン）
+                    京都　嵐山温泉　花伝抄（共立リゾート）（リニューアルオープン）
                   </h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 京都府京都市西京区嵐山西一川町5-4 ｜ 阪急嵐山線「嵐山駅」より徒歩１分。JR「京都駅」より約30分、阪急「梅田駅」より約50分。
@@ -261,7 +261,7 @@ export default function FurusatoKyotoArashiyamaAutumnLeavesStayPage() {
                     <div className="relative aspect-video rounded-2xl overflow-hidden shadow-inner bg-stone-100 group">
                       <img
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/130702/130702.jpg"
-                        alt="京都　嵐山温泉　花伝抄（共立リゾート）（２０２６年５月１日リニューアルオープン）"
+                        alt="京都　嵐山温泉　花伝抄（共立リゾート）（リニューアルオープン）"
                         className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
                         loading="lazy"
                       />

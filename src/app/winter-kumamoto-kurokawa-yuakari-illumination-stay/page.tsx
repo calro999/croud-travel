@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【12月開幕！黒川温泉「湯あかり」竹灯籠】渓流を照らす幻想の竹あかりと名湯宿5選",
     "description": "12月下旬から温泉街を流れる田の原川沿いを幻想的に彩る黒川温泉の冬の風物詩「湯あかり」！数百個の竹灯籠が放つ優しい光と、名物・入湯手形で行く露天風呂めぐり、熊本あか牛を堪能する温もり旅。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-    "datePublished": "2026-09-27T00:00:00+09:00",
-    "dateModified": "2026-09-27T00:00:00+09:00",
+    "datePublished": "T00:00:00+09:00",
+    "dateModified": "T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",
@@ -153,7 +153,7 @@ export default function FeaturePage() {
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「黒川温泉 旅館 美里」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「黒川温泉 旅館 美里」へは、阿蘇駅から車で約４０分／九州横断バスにて約１時間。最寄りの阿蘇駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「黒川温泉 旅館 美里」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「黒川温泉 旅館 美里」は『黒川唯一の時間によって色が変わる不思議な硫黄泉、露天風呂・内湯・家族湯にてご堪能ください♪』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「黒川温泉 旅館 美里」と「黒川温泉 旅館 奥の湯」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「黒川温泉 旅館 美里」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「黒川温泉 旅館 美里」へは、阿蘇駅から車で約４０分／九州横断バスにて約１時間。最寄りの阿蘇駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「黒川温泉 旅館 美里」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「黒川温泉 旅館 美里」は『黒川唯一の時間によって色が変わる不思議な硫黄泉、露天風呂・内湯・家族湯にてご堪能ください♪。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「黒川温泉 旅館 美里」と「黒川温泉 旅館 奥の湯」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -336,7 +336,7 @@ export default function FeaturePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「黒川温泉 旅館 美里」は『黒川唯一の時間によって色が変わる不思議な硫黄泉、露天風呂・内湯・家族湯にてご堪能ください♪』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「黒川温泉 旅館 美里」は『黒川唯一の時間によって色が変わる不思議な硫黄泉、露天風呂・内湯・家族湯にてご堪能ください♪。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

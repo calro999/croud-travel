@@ -34,11 +34,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7027/7027map.gif",
     "reviewCount": 202,
     "reviewAverage": 4.55,
-    "userReview": "趣ある建物と絶品の生ガキに大満足建物は非常に趣があり、興味を持てました。お部屋も昔ながらの雰囲気でよかったです。窓からは天橋立が見えました。ちょっと霞んでいましたが、冬ならもっとはっきり見えるかも…　2026-08-01 09:40:26投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=7027\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "趣ある建物と絶品の生ガキに大満足建物は非常に趣があり、興味を持てました。お部屋も昔ながらの雰囲気でよかったです。窓からは天橋立が見えました。ちょっと霞んでいましたが、冬ならもっとはっきり見えるかも。",
     "hotelMinCharge": 17600,
     "address1": "京都府",
     "address2": "宮津市島崎2039-4",
-    "telephoneNo": "0772-22-2177",
+    "telephoneNo": "77",
     "access": "車：京都縦貫自動車道宮津天橋立ＩＣより約５分　電車：京都丹後鉄道宮津駅より徒歩１０分　高速バス：キセンバ港館より徒歩７分",
     "parkingInformation": "有り　１２台　無料　宿の左斜め前にございます",
     "nearestStation": "宮津（京都）",
@@ -59,7 +59,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13755/13755map.gif",
     "reviewCount": 622,
     "reviewAverage": 4.55,
-    "userReview": "棟方志功縁の宿、料理もサービスも最高棟方志功縁の宿。料理最高サ-ビスも満点。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/vo…　2026-09-16 01:22:15投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=13755\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "棟方志功縁の宿、料理もサービスも最高棟方志功縁の宿。料理最高サ-ビスも満点。",
     "hotelMinCharge": 13200,
     "address1": "青森県",
     "address2": "青森市浅虫内野14",
@@ -84,11 +84,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38847/38847map.gif",
     "reviewCount": 417,
     "reviewAverage": 4.7,
-    "userReview": "十数年ぶりに利用させていだだいたのですが、おもてなしなど変わる事なく、今回の滞在も、のんびりとくつろぐ事ができ、家族にも喜んでもらうことができました。また、利用させていただきたいです。クチコミ…　2026-09-06 16:22:35投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=38847\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "十数年ぶりに利用させていだだいたのですが、おもてなしなど変わる事なく、今回の滞在も、のんびりとくつろぐ事ができ、家族にも喜んでもらうことができました。また、利用させていただきたいです。クチコミ。",
     "hotelMinCharge": 20625,
     "address1": "石川県",
     "address2": "能美市辰口町3-1",
-    "telephoneNo": "0761-51-3111",
+    "telephoneNo": "11",
     "access": "関東方面：IR松任駅より車20分、関西方面：JR小松駅より車20分　小松空港より車25分　※要予約で送迎がございます",
     "parkingInformation": "有り　８０台　無料",
     "nearestStation": "小松",
@@ -109,7 +109,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31801/31801map.gif",
     "reviewCount": 359,
     "reviewAverage": 4.44,
-    "userReview": "金泉と銀泉を堪能、静かで落ち着いた大人の空間有馬温泉の駅からブラブラと道沿いのお店を見ながら、徒歩で宿に向かいましたが、ちょうど良い距離でした。館内は良い香りがして落ち着いた雰囲気。温泉は金泉、銀…　2026-09-14 11:35:14投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=31801\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "金泉と銀泉を堪能、静かで落ち着いた大人の空間有馬温泉の駅からブラブラと道沿いのお店を見ながら、徒歩で宿に向かいましたが、ちょうど良い距離でした。館内は良い香りがして落ち着いた雰囲気。温泉は金泉、銀。",
     "hotelMinCharge": 17545,
     "address1": "兵庫県",
     "address2": "神戸市北区有馬町400-1",
@@ -134,11 +134,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19206/19206map.gif",
     "reviewCount": 1138,
     "reviewAverage": 4.7,
-    "userReview": "天気が悪くても庭や室内が綺麗でとても快適天気はあまりよくありませんでしたが室内や大きな庭がきれいに維持されており気持ちよく過ごすことができました。夜の手品ショーや太鼓の演舞なども良かったで…　2026-09-13 10:28:14投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=19206\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "天気が悪くても庭や室内が綺麗でとても快適天気はあまりよくありませんでしたが室内や大きな庭がきれいに維持されており気持ちよく過ごすことができました。夜の手品ショーや太鼓の演舞なども良かったで。",
     "hotelMinCharge": 22000,
     "address1": "山梨県",
     "address2": "富士吉田市上吉田東9-1-18",
-    "telephoneNo": "0555-22-3168",
+    "telephoneNo": "68",
     "access": "富士急行線富士山駅より１３時～１８時の間無料送迎あり／車８分／駅到着時にお電話下さい／翌日のお送りは８：００より３０分毎",
     "parkingInformation": "有り　5００台　無料",
     "nearestStation": "富士吉田",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「宮津温泉 料理旅館 茶六別館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「宮津温泉 料理旅館 茶六別館」へは、車：京都縦貫自動車道宮津天橋立ＩＣより約５分 電車：京都丹後鉄道宮津駅より徒歩１０分 高速バス：キセンバ港館より徒歩７分。最寄りの宮津（京都）駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「宮津温泉 料理旅館 茶六別館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「宮津温泉 料理旅館 茶六別館」は『天橋立を望む数奇屋造りの料理宿。春夏には岩牡蠣など丹後の海の幸を生かした京風会席をご堪能下』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「宮津温泉 料理旅館 茶六別館」と「浅虫温泉 椿館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「宮津温泉 料理旅館 茶六別館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「宮津温泉 料理旅館 茶六別館」へは、車：京都縦貫自動車道宮津天橋立ＩＣより約５分 電車：京都丹後鉄道宮津駅より徒歩１０分 高速バス：キセンバ港館より徒歩７分。最寄りの宮津（京都）駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「宮津温泉 料理旅館 茶六別館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「宮津温泉 料理旅館 茶六別館」は『天橋立を望む数奇屋造りの料理宿。春夏には岩牡蠣など丹後の海の幸を生かした京風会席をご堪能下。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「宮津温泉 料理旅館 茶六別館」と「浅虫温泉 椿館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -628,7 +628,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「宮津温泉 料理旅館 茶六別館」は『天橋立を望む数奇屋造りの料理宿。春夏には岩牡蠣など丹後の海の幸を生かした京風会席をご堪能下』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「宮津温泉 料理旅館 茶六別館」は『天橋立を望む数奇屋造りの料理宿。春夏には岩牡蠣など丹後の海の幸を生かした京風会席をご堪能下。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

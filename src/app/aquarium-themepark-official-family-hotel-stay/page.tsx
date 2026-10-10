@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/aquarium-themepark-official-family-hotel-stay"
   };
 
@@ -83,11 +83,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/145419/145419map.gif",
     "reviewCount": 950,
     "reviewAverage": 4.56,
-    "userReview": "子連れに最適、部屋のお風呂も広くて快適子連れにはぴったりだと思います。泊まった部屋はフローリングで、歩きたての一歳も伸び伸びお部屋で過ごせました。看護師常駐のエメラルドビーチにも出やすく、ビー…　2026-09-20 00:24:31投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=145419\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "子連れに最適、部屋のお風呂も広くて快適子連れにはぴったりだと思います。泊まった部屋はフローリングで、歩きたての一歳も伸び伸びお部屋で過ごせました。看護師常駐のエメラルドビーチにも出やすく、ビー。",
     "hotelMinCharge": 21120,
     "address1": "沖縄県",
     "address2": "国頭郡本部町備瀬148-1",
-    "telephoneNo": "0980-51-7300",
+    "telephoneNo": "00",
     "access": "那覇空港からお車で高速利用約100分。空港バス利用約150分ホテル前停車。美ら海水族館へ徒歩7分、海洋博公園隣接",
     "parkingInformation": "駐車場無料",
     "nearestStation": "那覇空港",
@@ -108,7 +108,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16654/16654map.gif",
     "reviewCount": 13579,
     "reviewAverage": 4.53,
-    "userReview": "予約金額に宿泊税を含めてほしい予約金額に宿泊税も含めて欲しいクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/1665…　2026-09-19 11:33:41投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=16654\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "予約金額に宿泊税を含めてほしい予約金額に宿泊税も含めて欲しい。",
     "hotelMinCharge": 4655,
     "address1": "大阪府",
     "address2": "大阪市此花区島屋6-2-68",
@@ -133,7 +133,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/71921/71921map.gif",
     "reviewCount": 9711,
     "reviewAverage": 4.59,
-    "userReview": "USJを満喫するのに最高の立地素泊まりでしが、USJを満喫するには最高でした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/v…　2026-09-18 05:33:19投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=71921\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "USJを満喫するのに最高の立地素泊まりでしが、USJを満喫するには最高でした。",
     "hotelMinCharge": 6700,
     "address1": "大阪府",
     "address2": "大阪市此花区島屋6-2-45",

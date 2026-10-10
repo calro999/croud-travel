@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/literary-heritage-bungo-historic-ryokan-stay"
   };
 
@@ -83,7 +83,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/196489/196489map.gif",
     "reviewCount": 135,
     "reviewAverage": 4.44,
-    "userReview": "温泉と朝食に大満足、ゆっくり過ごせた温泉も大変よくまた朝の朝食も大変美味しく頂きました。本当にゆっくり出来るお宿でした。またお泊りしたいです。クチコミの詳細はこちらから　https://rev…　2026-09-08 06:39:26投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=196489\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "温泉と朝食に大満足、ゆっくり過ごせた温泉も大変よくまた朝の朝食も大変美味しく頂きました。本当にゆっくり出来るお宿でした。またお泊りしたいです。",
     "hotelMinCharge": 9900,
     "address1": "山梨県",
     "address2": "甲府市湯村3-10-14",
@@ -91,7 +91,7 @@ export default function Page() {
     "access": "甲府駅よりお車で約10分、中央自動車双葉ＩＣより約10分",
     "parkingInformation": "15台　無料　★要予約※駐車場所についてはご到着先着順です。近くの空地スペースになる場合がございます",
     "nearestStation": "甲府",
-    "hotelSpecial": "2025年8月1日新規オ��プン！信玄の湯とこだわりの朝ごはんで心ほぐれるひと時を。",
+    "hotelSpecial": "新規オ��プン！信玄の湯とこだわりの朝ごはんで心ほぐれるひと時を。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F196489%2F196489.html"
   },
   {
@@ -108,11 +108,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70675/70675map.gif",
     "reviewCount": 130,
     "reviewAverage": 4.73,
-    "userReview": "ほたる観賞と旬の筍料理を堪能できた旅6月下旬で、雨の後,曇りという好条件からほたるが見られました。筍も最後との事で美味しい食事も堪能して今回も素晴らしい滞在になりました。クチコミの詳細はこちら…　2026-07-02 07:47:09投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=70675\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "ほたる観賞と旬の筍料理を堪能できた旅6月下旬で、雨の後,曇りという好条件からほたるが見られました。筍も最後との事で美味しい食事も堪能して今回も素晴らしい滞在になりました。",
     "hotelMinCharge": 13750,
     "address1": "長野県",
     "address2": "小県郡青木村田沢温泉2686",
-    "telephoneNo": "0268-49-2001",
+    "telephoneNo": "01",
     "access": "上信越自動車道上田菅平ＩＣ若しくは長野自動車道麻績より30分／新幹線上田駅下車、バスで30分（タクシー20分）青木行",
     "parkingInformation": "有り　５０台　無料　予約不要",
     "nearestStation": "上田（長野）",
@@ -133,11 +133,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6999/6999map.gif",
     "reviewCount": 646,
     "reviewAverage": 4.52,
-    "userReview": "落ち着いた大人向けの静かな空間若い世代よりも他の旅を楽しむ方が行くところかなクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/vo…　2026-09-13 20:24:42投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=6999\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "落ち着いた大人向けの静かな空間若い世代よりも他の旅を楽しむ方が行くところかな。",
     "hotelMinCharge": 15550,
     "address1": "群馬県",
     "address2": "利根郡みなかみ町谷川524-1",
-    "telephoneNo": "0278-72-2468",
+    "telephoneNo": "68",
     "access": "ＪＲ水上駅より車で７分（送迎あり）、関越自動車道水上ＩＣより１５分",
     "parkingInformation": "有り　５０台　無料",
     "nearestStation": "水上",

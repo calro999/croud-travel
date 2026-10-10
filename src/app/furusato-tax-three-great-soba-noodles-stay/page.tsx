@@ -33,12 +33,12 @@ export default function Page() {
     "hotelMinCharge": 6480,
     "address1": "長野県",
     "address2": "飯山市大字豊田6786",
-    "telephoneNo": "0269-65-2121",
+    "telephoneNo": "21",
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/3020/3020.jpg",
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/3020/3020_heya.jpg",
     "reviewCount": 213,
     "reviewAverage": 4.37,
-    "userReview": "馬刺し蕎麦と温泉を堪能して大満足晩ご飯は、馬刺し蕎麦が付いていて、地元メシが食べれて大満足でした。温泉も好きな時間に入れて大満足。クチコミの詳細はこちらから　https://review.…　 ",
+    "userReview": "馬刺し蕎麦と温泉を堪能して大満足晩ご飯は、馬刺し蕎麦が付いていて、地元メシが食べれて大満足でした。温泉も好きな時間に入れて大満足。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F3020%2F3020.html",
     "label": "長野県長野市ふるさと納税・一本棒丸延ばしとぼっち盛りの極致「戸隠そば」善光寺・戸隠宿坊温泉ステイ",
     "themeTitle": "長野県長野市ふるさと納税：戸隠神社門前・自家製粉の手打ち戸隠そばと家庭的な温もり「手打ちそばの宿 石田屋」",
@@ -59,12 +59,12 @@ export default function Page() {
     "hotelMinCharge": 20900,
     "address1": "島根県",
     "address2": "松江市玉湯町玉造1218-8",
-    "telephoneNo": "0852-62-0331",
+    "telephoneNo": "31",
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7798/7798.jpg",
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7798/7798_wa.jpg",
     "reviewCount": 1476,
     "reviewAverage": 4.67,
-    "userReview": "チェックインから食事まで全てが快適で大満足車で到着してから部屋への誘導が滑らかでスルスルとチェックインできました。部屋からの眺めが日中も夜もよく、快適。椅子とオットマンが体に合っていたのも…　 ",
+    "userReview": "チェックインから食事まで全てが快適で大満足車で到着してから部屋への誘導が滑らかでスルスルとチェックインできました。部屋からの眺めが日中も夜もよく、快適。椅子とオットマンが体に合っていたのも。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7798%2F7798.html",
     "label": "島根県出雲市・松江市ふるさと納税・三段の朱塗り器に香り高い玄そば「出雲割子そば」美肌の湯玉造温泉皆美",
     "themeTitle": "島根県松江市・出雲市ふるさと納税：出雲割子そばと神話の湯・庭園美を誇る老舗名館「玉造温泉 佳翠苑 皆美」",
@@ -81,7 +81,7 @@ export default function Page() {
     "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D80512",
     "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D80512",
     "hotelKanaName": "だいわろいねっとほてるもりおか",
-    "hotelSpecial": "【2025年4月1日全館リニューアル♪「盛岡駅」より路線バスで約10分。繁華街「大通商店街」の好立地",
+    "hotelSpecial": "【全館リニューアル♪「盛岡駅」より路線バスで約10分。繁華街「大通商店街」の好立地",
     "hotelMinCharge": 3500,
     "address1": "岩手県",
     "address2": "盛岡市大通1-8-10",
@@ -90,7 +90,7 @@ export default function Page() {
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/80512/80512_s.jpg",
     "reviewCount": 3407,
     "reviewAverage": 4.34,
-    "userReview": "繁華街がすぐ近くで移動に便利繁華街が近くで便利でした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/80512?r…　 ",
+    "userReview": "繁華街がすぐ近くで移動に便利繁華街が近くで便利でした。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F80512%2F80512.html",
     "label": "岩手県盛岡市ふるさと納税・おもてなしの心と小気味よい掛け声「盛岡わんこそば」盛岡の奥座敷つなぎ温泉ステイ",
     "themeTitle": "岩手県盛岡市ふるさと納税：名物わんこそばの老舗東家至近・盛岡大通りの快適ステイ「ダイワロイネットホテル盛岡」",
@@ -169,7 +169,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「手打ちそばの宿 石田屋」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「手打ちそばの宿 石田屋」へは、公共交通機関またはお車でのアクセスが可能です。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「手打ちそばの宿 石田屋」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「手打ちそばの宿 石田屋」は『旨い蕎麦を目指して２０年、幻の信州そばと国産牛ヒレステーキが好評の温泉宿♪』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「手打ちそばの宿 石田屋」と「玉造温泉 佳翠苑 皆美」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「手打ちそばの宿 石田屋」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「手打ちそばの宿 石田屋」へは、公共交通機関またはお車でのアクセスが可能です。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「手打ちそばの宿 石田屋」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「手打ちそばの宿 石田屋」は『旨い蕎麦を目指して２０年、幻の信州そばと国産牛ヒレステーキが好評の温泉宿♪。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「手打ちそばの宿 石田屋」と「玉造温泉 佳翠苑 皆美」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         
         {/* 特集の魅力セクション */}
@@ -475,7 +475,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「手打ちそばの宿 石田屋」は『旨い蕎麦を目指して２０年、幻の信州そばと国産牛ヒレステーキが好評の温泉宿♪』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「手打ちそばの宿 石田屋」は『旨い蕎麦を目指して２０年、幻の信州そばと国産牛ヒレステーキが好評の温泉宿♪。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

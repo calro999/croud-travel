@@ -49,7 +49,7 @@ export default function FurusatoRound65ArticlePage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ホテル ザ セレスティン京都祇園」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ホテル ザ セレスティン京都祇園」へは、京都駅八条口より無料シャトルバスで約10分。最寄りの京都駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ホテル ザ セレスティン京都祇園」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ホテル ザ セレスティン京都祇園」は『祇園 八坂通りに位置し、京都駅より無料送迎バスで約10分。名店八坂圓堂の食事と大浴場も満喫』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ホテル ザ セレスティン京都祇園」と「松江しんじ湖温泉 なにわ一水」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ホテル ザ セレスティン京都祇園」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ホテル ザ セレスティン京都祇園」へは、京都駅八条口より無料シャトルバスで約10分。最寄りの京都駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ホテル ザ セレスティン京都祇園」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ホテル ザ セレスティン京都祇園」は『祇園 八坂通りに位置し、京都駅より無料送迎バスで約10分。名店八坂圓堂の食事と大浴場も満喫。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ホテル ザ セレスティン京都祇園」と「松江しんじ湖温泉 なにわ一水」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -245,7 +245,7 @@ export default function FurusatoRound65ArticlePage() {
                     松江しんじ湖温泉　なにわ一水
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「他の画像やクチコミの詳細はこちらから https://review.travel.rakuten.co.jp/hotel/voice/52116?reviewId=33123479213818 2026-08-31 13:22:49投稿…」
+                    「他の画像や…」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -300,7 +300,7 @@ export default function FurusatoRound65ArticlePage() {
                     金沢白鳥路　ホテル山楽
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「観光に最適な立地と郷土料理に大満足とにかくロケーションが観光に最適、施設は便利であって欲しいところはすべて新しく(ランドリーの洗濯機は洗剤自動投入など)、とても清潔で、一方で調度品や装飾などは古き… 2026-09-04 17:39:28投稿 つづきはこちら…」
+                    「観光に最適な立地と郷土料理に大満足とにかくロケーションが観光に最適、施設は便利であって欲しいところはすべて新しく(ランドリーの洗濯機は洗剤自動投入など)、とても清潔で、一方で調度品や装飾などは古き…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -463,7 +463,7 @@ export default function FurusatoRound65ArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「ホテル ザ セレスティン京都祇園」は『祇園 八坂通りに位置し、京都駅より無料送迎バスで約10分。名店八坂圓堂の食事と大浴場も満喫』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「ホテル ザ セレスティン京都祇園」は『祇園 八坂通りに位置し、京都駅より無料送迎バスで約10分。名店八坂圓堂の食事と大浴場も満喫。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

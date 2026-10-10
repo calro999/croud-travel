@@ -396,8 +396,7 @@ export default function FurusatoTaxPage() {
                             <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
                               ＴＨＥ　ＨＯＴＥＬ　ＳＡＮＲＡＫＵ　ＫＡＮＡＺＡＷＡ（ザ　ホテル山楽　金沢）
                             </h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
-                              2022年12月21日開業！クラブラウンジや四季を彩る中庭を誇るラグジュアリーホテル
+                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">開業！クラブラウンジや四季を彩る中庭を誇るラグジュアリーホテル
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
                               <span>📍</span>

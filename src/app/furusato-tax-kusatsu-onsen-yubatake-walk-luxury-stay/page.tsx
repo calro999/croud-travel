@@ -62,7 +62,7 @@ export default function FurusatoKusatsuYubatakeWalkStayPage() {
           天下の名湯・草津温泉の真髄を味わう！湯畑徒歩圏＆名物源泉掛け流し名門旅館×ふるさと納税完全攻略ガイド【2026年最新】櫻井・一井・奈良屋
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-09">2026年9月9日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -164,7 +164,7 @@ export default function FurusatoKusatsuYubatakeWalkStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “ファミリー向けバイキングバイキングを楽しみにして行きました。もっと肉肉なのかなーと思ってましたが、そんなに肉の種類が多いとは感じませんでした。ステーキはとてもおいしかったです。それ以外も全世代が満…　2026-09-05 08:43:15投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “ファミリー向けバイキングバイキングを楽しみにして行きました。もっと肉肉なのかなーと思ってましたが、そんなに肉の種類が多いとは感じませんでした。ステーキはとてもおいしかったです。それ以外も全世代が満… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -206,7 +206,7 @@ export default function FurusatoKusatsuYubatakeWalkStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “バイキングとラウンジを満喫、大満足の旅バイキングが食べきれないくらい種類が多く、ライブのお寿司もとても美味しかったです。お部屋は湯畑の見えないら部屋でしたか、湯畑の見えてゆっくりできるラウンジがあ…　2026-09-05 07:03:38投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “バイキングとラウンジを満喫、大満足の旅バイキングが食べきれないくらい種類が多く、ライブのお寿司もとても美味しかったです。お部屋は湯畑の見えないら部屋でしたか、湯畑の見えてゆっくりできるラウンジがあ… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -248,7 +248,7 @@ export default function FurusatoKusatsuYubatakeWalkStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “食事はどの料理も美味しかったです目の前で握っていただけるお寿司も良いパフォーマンスですね部屋にある冷蔵庫に飲みかけの水(部屋に置いてあるペットボトルと同じもの)が入っていたので 前のお客さ…　2026-09-05 17:17:57投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “食事はどの料理も美味しかったです目の前で握っていただけるお寿司も良いパフォーマンスですね部屋にある冷蔵庫に飲みかけの水(部屋に置いてあるペットボトルと同じもの)が入っていたので 前のお客さ… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -323,7 +323,7 @@ export default function FurusatoKusatsuYubatakeWalkStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

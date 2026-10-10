@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/private-sauna-cold-bath-retreat-hotels"
   };
 
@@ -83,11 +83,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/191841/191841map.gif",
     "reviewCount": 112,
     "reviewAverage": 4.48,
-    "userReview": "サウナが最高、荷物置き場の対応に感謝今回で3回目の利用となりますが相変わらずサウナが最高でした。テレビの影響なのか、今回は私の他に3名の方がいらっしゃっいましたが、特に窮屈な感じはなく、リラックス…　2026-09-12 17:16:17投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=191841\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "サウナが最高、荷物置き場の対応に感謝今回で3回目の利用となりますが相変わらずサウナが最高でした。テレビの影響なのか、今回は私の他に3名の方がいらっしゃっいましたが、特に窮屈な感じはなく、リラックス。",
     "hotelMinCharge": 4275,
     "address1": "静岡県",
     "address2": "富士市横割4-8-24",
-    "telephoneNo": "0545-67-2203",
+    "telephoneNo": "03",
     "access": "富士駅より徒歩約13分（JR東海道線・富士駅南口下車）｜新富士駅より徒歩約13分",
     "parkingInformation": "有り　１３台　無料　予約不要",
     "nearestStation": "富士",
@@ -108,7 +108,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/187535/187535map.gif",
     "reviewCount": 41,
     "reviewAverage": 4.44,
-    "userReview": "家族で大満足、アクティビティも充実!とても快適に過ごすことができ、全体的に大満足でした。レセプションの方も感じがよく、丁寧に対応してくださり、施設内の設備もきれいで清潔感があり、とても気持…　2026-08-29 06:32:12投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=187535\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "家族で大満足、アクティビティも充実!とても快適に過ごすことができ、全体的に大満足でした。レセプションの方も感じがよく、丁寧に対応してくださり、施設内の設備もきれいで清潔感があり、とても気持。",
     "hotelMinCharge": 15100,
     "address1": "静岡県",
     "address2": "裾野市須山2427-1",
@@ -137,7 +137,7 @@ export default function Page() {
     "hotelMinCharge": 19405,
     "address1": "山梨県",
     "address2": "南都留郡富士河口湖町大石2533-1",
-    "telephoneNo": "0555-28-7305",
+    "telephoneNo": "05",
     "access": "河口湖駅から車で約20分　河口湖駅から施設までの無料送迎あり（要事前予約）ご利用の場合はご連絡下さい。",
     "parkingInformation": "無料駐車場有り　予約不要",
     "nearestStation": "河口湖",

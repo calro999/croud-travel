@@ -34,13 +34,13 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6001/6001map.gif",
     "reviewCount": 2993,
     "reviewAverage": 4.21,
-    "userReview": "道後温泉が近く、朝イチで行くことができました。良い旅館でした。ありがとうございます。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/…　2026-09-18 21:12:22投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=6001\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "道後温泉が近く、朝イチで行くことができました。良い旅館でした。ありがとうございます。",
     "hotelMinCharge": 9350,
     "address1": "愛媛県",
     "address2": "松山市道後湯之町16-21",
     "telephoneNo": "089-943-0075",
     "access": "伊予鉄道後温泉駅より徒歩5分・ 松山インターより車にて２５分・ 松山空港より車にて30分",
-    "parkingInformation": "1台800円／1日・50台※トラック・キャンピングカー不可※2026/10/1宿泊分より1,000円",
+    "parkingInformation": "1台800円／1日・50台※トラック・キャンピングカー不可※宿泊分より1,000円",
     "nearestStation": "松山空港",
     "hotelSpecial": "◆道後本館まで【坂道なし】徒歩４分◆≪直前予約がお得なプラン販売中♪≫～全館無料Wi-Fi接続可～",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F6001%2F6001.html"
@@ -59,7 +59,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/11332/11332map.gif",
     "reviewCount": 2033,
     "reviewAverage": 4.74,
-    "userReview": "ゴルフ旅行で大満足、また利用したい今回3泊で2度目の滞在夫婦でゴルフ旅行でした。接客も丁寧でお部屋も広くて綺麗だしお料理も美味しくて豪華温泉も良かったしゆっくり出来ました。お料理のアレ…　2026-09-18 20:46:08投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=11332\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "ゴルフ旅行で大満足、また利用したい今回3泊で2度目の滞在夫婦でゴルフ旅行でした。接客も丁寧でお部屋も広くて綺麗だしお料理も美味しくて豪華温泉も良かったしゆっくり出来ました。お料理のアレ。",
     "hotelMinCharge": 19635,
     "address1": "愛媛県",
     "address2": "松山市道後湯之町1-33",
@@ -84,7 +84,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13429/13429map.gif",
     "reviewCount": 2310,
     "reviewAverage": 4.62,
-    "userReview": "今回2度目の宿泊です。前回は娘が家を出る前の最後の宿泊でしたが、娘が体調不良になったのですが素晴らしい配慮をいただきとても良い思い出になりました。今回は名城100選巡りの宿として宿泊させて頂きまし…　2026-09-19 22:35:54投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=13429\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "今回2度目の宿泊です。前回は娘が家を出る前の最後の宿泊でしたが、娘が体調不良になったのですが素晴らしい配慮をいただきとても良い思い出になりました。今回は名城100選巡りの宿として宿泊させて頂きまし。",
     "hotelMinCharge": 20146,
     "address1": "愛媛県",
     "address2": "松山市道後湯之町20-8",
@@ -109,7 +109,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10788/10788map.gif",
     "reviewCount": 2063,
     "reviewAverage": 4.67,
-    "userReview": "スタッフの丁寧な対応と美味しい料理に感動働いているスタッフさんが皆さん丁寧で嬉しかったです。お料理も凄く美味しかったです。部屋もリフォームされていてとても綺麗ですし、正直もっと宿泊費が高く…　2026-09-17 00:19:28投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=10788\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "スタッフの丁寧な対応と美味しい料理に感動働いているスタッフさんが皆さん丁寧で嬉しかったです。お料理も凄く美味しかったです。部屋もリフォームされていてとても綺麗ですし、正直もっと宿泊費が高く。",
     "hotelMinCharge": 15950,
     "address1": "愛媛県",
     "address2": "松山市道後多幸町7-26",
@@ -134,7 +134,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/145017/145017map.gif",
     "reviewCount": 137,
     "reviewAverage": 4.65,
-    "userReview": "趣ある建物と丁寧な対応、美味しい料理に満足趣きのある建物で、部屋の雰囲気も良かったです。従業員の方々も、どなたも明るく感じの良い対応でした。料理も出汁に拘っておられ、とても美味しく頂きまし…　2026-05-26 16:06:52投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=145017\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "趣ある建物と丁寧な対応、美味しい料理に満足趣きのある建物で、部屋の雰囲気も良かったです。従業員の方々も、どなたも明るく感じの良い対応でした。料理も出汁に拘っておられ、とても美味しく頂きまし。",
     "hotelMinCharge": 25000,
     "address1": "愛媛県",
     "address2": "松山市上市2-8-9",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「道後温泉 道後グランドホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「道後温泉 道後グランドホテル」へは、伊予鉄道後温泉駅より徒歩5分・ 松山インターより車にて２５分・ 松山空港より車にて30分。最寄りの松山空港駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「道後温泉 道後グランドホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「道後温泉 道後グランドホテル」は『◆道後本館まで 坂道なし 徒歩４分◆≪直前予約がお得なプラン販売中♪≫～全館無料Wi-Fi』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「道後温泉 道後グランドホテル」と「道後温泉 ふなや」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「道後温泉 道後グランドホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「道後温泉 道後グランドホテル」へは、伊予鉄道後温泉駅より徒歩5分・ 松山インターより車にて２５分・ 松山空港より車にて30分。最寄りの松山空港駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「道後温泉 道後グランドホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「道後温泉 道後グランドホテル」は『◆道後本館まで 坂道なし 徒歩４分◆≪直前予約がお得なプラン販売中♪≫～全館無料Wi-Fi。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「道後温泉 道後グランドホテル」と「道後温泉 ふなや」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -628,7 +628,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「道後温泉 道後グランドホテル」は『◆道後本館まで 坂道なし 徒歩４分◆≪直前予約がお得なプラン販売中♪≫～全館無料Wi-Fi』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「道後温泉 道後グランドホテル」は『◆道後本館まで 坂道なし 徒歩４分◆≪直前予約がお得なプラン販売中♪≫～全館無料Wi-Fi。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

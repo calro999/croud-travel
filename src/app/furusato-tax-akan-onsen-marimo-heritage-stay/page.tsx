@@ -39,8 +39,8 @@ export default function FurusatoArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-10T17:00:00+09:00',
-    dateModified: '2026-09-10T17:00:00+09:00',
+    datePublished: 'T17:00:00+09:00',
+    dateModified: 'T17:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-akan-onsen-marimo-heritage-stay',
   };
 
@@ -49,7 +49,7 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「あかん遊久の里鶴雅」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「あかん遊久の里鶴雅」へは、釧路空港より車で約６０分／女満別空港より車で約９０分。最寄りの釧路駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「あかん遊久の里鶴雅」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「あかん遊久の里鶴雅」は『和のこころ、阿寒のおもてなしをさらに深めて。日本の旅館文化を継承するおもてなしをご堪能くだ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「あかん遊久の里鶴雅」と「阿寒湖温泉 あかん鶴雅別荘鄙の座」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「あかん遊久の里鶴雅」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「あかん遊久の里鶴雅」へは、釧路空港より車で約６０分／女満別空港より車で約９０分。最寄りの釧路駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「あかん遊久の里鶴雅」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「あかん遊久の里鶴雅」は『和のこころ、阿寒のおもてなしをさらに深めて。日本の旅館文化を継承するおもてなしをご堪能くだ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「あかん遊久の里鶴雅」と「阿寒湖温泉 あかん鶴雅別荘鄙の座」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -203,7 +203,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.43点、口コミ3400件超。「展望露天風呂からの阿寒湖の眺めが圧巻」「食事の種類が多くどれも絶品、スタッフの気配りも素晴らしかった」と絶賛の声。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.43点、口コミ3400件超。「展望露天風呂からの阿寒湖の眺めが圧巻」「食事の種類が多くどれも絶品、スタッフの気配りも素晴らしかった。」と絶賛の声。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -287,7 +287,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.83点という驚異的な超高スコア。「お部屋の露天風呂、バーの雰囲気、お料理すべてが人生で一番」「静かに大人の休日を過ごすには最高の宿」と絶賛されています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.83点という驚異的な超高スコア。「お部屋の露天風呂、バーの雰囲気、お料理すべてが人生で一番。」「静かに大人の休日を過ごすには最高の宿」と絶賛されています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.24点、口コミ3800件超。「屋上のインフィニティスパが本当に素晴らしく夕日や星空が最高」「サウナもお風呂もバイキングも大満足」と高評価。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.24点、口コミ3800件超。「屋上のインフィニティスパが本当に素晴らしく夕日や星空が最高。」「サウナもお風呂もバイキングも大満足」と高評価。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -578,7 +578,7 @@ export default function FurusatoArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「あかん遊久の里鶴雅」は『和のこころ、阿寒のおもてなしをさらに深めて。日本の旅館文化を継承するおもてなしをご堪能くだ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「あかん遊久の里鶴雅」は『和のこころ、阿寒のおもてなしをさらに深めて。日本の旅館文化を継承するおもてなしをご堪能くだ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

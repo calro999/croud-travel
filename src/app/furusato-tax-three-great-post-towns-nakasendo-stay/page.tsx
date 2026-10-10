@@ -35,18 +35,18 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6067/6067map.gif",
     "reviewCount": 573,
     "reviewAverage": 4.24,
-    "userReview": "中山道歩きの疲れを癒やす将軍ディナーと温泉中山道を歩き、いただいた将軍ディナーがとてもしみました。部屋風呂でゆっくりして、いい夏旅でしたクチコミの詳細はこちらから　https://review…",
+    "userReview": "中山道歩きの疲れを癒やす将軍ディナーと温泉中山道を歩き、いただいた将軍ディナーがとてもしみました。部屋風呂でゆっくりして、いい夏旅でした。",
     "hotelMinCharge": 8090,
     "address1": "長野県",
     "address2": "木曽郡木曽町福島本町5162",
-    "telephoneNo": "0264-22-2010",
+    "telephoneNo": "10",
     "access": "JR木曽福島駅～徒歩約10分【15：30分16：40分送迎有要予約】伊那IC約40分塩尻IC約60分中津川I約70分",
     "parkingInformation": "有り　20台　無料",
     "nearestStation": "木曽福島",
     "hotelSpecial": "創業300年☆評判料理と木曽川沿い露天風呂【きそふくしま温泉】で心もからだもリフレッシュ♪",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F6067%2F6067.html",
     "label": "長野県南木曽町・木曽町ふるさと納税・江戸時代の風情をそのまま残す木曽路の宿場「妻籠宿」木曽路の宿いわや",
-    "themeTitle": "長野県木曽町・南木曽町ふるさと納税：妻籠宿散策の拠点・木曽川の清流を望む創業三百余年の老舗「きそふくしま温泉 街道浪漫 おん宿 蔦屋」",
+    "themeTitle": "長野県木曽町・南木曽町ふるさと納税：妻籠宿散策の拠点・木曽川の清流を望む創業三百余年の老舗「きそふくしま温泉 街道浪漫 おん宿 蔦屋。」",
     "themeDesc": "木曽川のほとりに佇み、島崎藤村のゆかりの宿としても知られる歴史ある温泉宿。妻籠宿や福島関所跡への散策拠点に最適で、木曽の薬草を活かした展望大浴場や、信州牛ステーキ・手打ちそばを取り入れた街道会席ディナーを堪能できます。",
     "revAvg": "4.2",
     "minCharge": "8,090"
@@ -65,11 +65,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8027/8027map.gif",
     "reviewCount": 1206,
     "reviewAverage": 4.26,
-    "userReview": "クアリゾート使うときは注意久しぶりに利用しました。部屋がリフォームされたのか、すごくきれいになっていました。畳のスペースもあり、素泊まりで、夕食を買っていったので食べるのに便利でした。フロントでも…",
+    "userReview": "クアリゾート使うときは注意久しぶりに利用しました。部屋がリフォームされたのか、すごくきれいになっていました。畳のスペースもあり、素泊まりで、夕食を買っていったので食べるのに便利でした。フロントでも。",
     "hotelMinCharge": 5000,
     "address1": "岐阜県",
     "address2": "中津川市神坂280",
-    "telephoneNo": "0573-69-5111",
+    "telephoneNo": "11",
     "access": "中央自動車道神坂スマートＩＣ約３分、中津川ＩＣ約２０分　駐車場無料　JR中津川駅無料シャトルバス有",
     "parkingInformation": "駐車場無料　最大300台　大型バス可",
     "nearestStation": "中津川",
@@ -99,7 +99,7 @@ export default function Page() {
     "hotelMinCharge": 0,
     "address1": "長野県",
     "address2": "塩尻市奈良井388",
-    "telephoneNo": "0264-34-3051",
+    "telephoneNo": "51",
     "access": "ＪＲ中央西線　奈良井駅から徒歩１０分",
     "parkingInformation": "有り　１０台　無料　予約不要",
     "nearestStation": "奈良井",
@@ -181,7 +181,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「きそふくしま温泉 街道浪漫 おん宿 蔦屋」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「きそふくしま温泉 街道浪漫 おん宿 蔦屋」へは、JR木曽福島駅～徒歩約10分 15：30分16：40分送迎有要予約 伊那IC約40分塩尻IC約60分中津川I約70分。最寄りの木曽福島駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「きそふくしま温泉 街道浪漫 おん宿 蔦屋」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「きそふくしま温泉 街道浪漫 おん宿 蔦屋」は『創業300年☆評判料理と木曽川沿い露天風呂 きそふくしま温泉 で心もからだもリフレッシュ♪』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「きそふくしま温泉 街道浪漫 おん宿 蔦屋」と「ホテル花更紗」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「きそふくしま温泉 街道浪漫 おん宿 蔦屋。」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「きそふくしま温泉 街道浪漫 おん宿 蔦屋。」へは、JR木曽福島駅～徒歩約10分 15：30分16：40分送迎有要予約 伊那IC約40分塩尻IC約60分中津川I約70分。最寄りの木曽福島駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「きそふくしま温泉 街道浪漫 おん宿 蔦屋。」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「きそふくしま温泉 街道浪漫 おん宿 蔦屋。」は『創業300年☆評判料理と木曽川沿い露天風呂 きそふくしま温泉 で心もからだもリフレッシュ♪。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「きそふくしま温泉 街道浪漫 おん宿 蔦屋。」と「ホテル花更紗」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* リードセクション */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-4">
@@ -467,9 +467,9 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 木曽福島駅よりアクセス。JR木曽福島駅～徒歩約10分 15：30分16：40分送迎有要予約 伊那IC約40分塩尻IC約60分中津川I約70分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「きそふくしま温泉 街道浪漫 おん宿 蔦屋」にチェックイン。創業300年☆評判料理と木曽川沿い露天風呂 きそふくしま温泉 で心もからだもリフレッシュ♪などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「きそふくしま温泉 街道浪漫 おん宿 蔦屋」の湯処へ。創業300年☆評判料理と木曽川沿い露天風呂 きそふくしま温泉 で心もかとともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「きそふくしま温泉 街道浪漫 おん宿 蔦屋」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「きそふくしま温泉 街道浪漫 おん宿 蔦屋。」にチェックイン。創業300年☆評判料理と木曽川沿い露天風呂 きそふくしま温泉 で心もからだもリフレッシュ♪などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「きそふくしま温泉 街道浪漫 おん宿 蔦屋。」の湯処へ。創業300年☆評判料理と木曽川沿い露天風呂 きそふくしま温泉 で心もかとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「きそふくしま温泉 街道浪漫 おん宿 蔦屋。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -478,8 +478,8 @@ export default function Page() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「きそふくしま温泉 街道浪漫 おん宿 蔦屋」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「きそふくしま温泉 街道浪漫 おん宿 蔦屋」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「きそふくしま温泉 街道浪漫 おん宿 蔦屋。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「きそふくしま温泉 街道浪漫 おん宿 蔦屋。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ホテル花更紗」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
@@ -497,20 +497,20 @@ export default function Page() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「きそふくしま温泉 街道浪漫 おん宿 蔦屋」へのアクセスや移動方法について</span>
+                <span>Q. 「きそふくしま温泉 街道浪漫 おん宿 蔦屋。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「きそふくしま温泉 街道浪漫 おん宿 蔦屋」へは、JR木曽福島駅～徒歩約10分 15：30分16：40分送迎有要予約 伊那IC約40分塩尻IC約60分中津川I約70分。最寄りの木曽福島駅からの経路案内も充実しています。
+                A. 「きそふくしま温泉 街道浪漫 おん宿 蔦屋。」へは、JR木曽福島駅～徒歩約10分 15：30分16：40分送迎有要予約 伊那IC約40分塩尻IC約60分中津川I約70分。最寄りの木曽福島駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「きそふくしま温泉 街道浪漫 おん宿 蔦屋」の魅力や予約時のポイントは？</span>
+                <span>Q. 「きそふくしま温泉 街道浪漫 おん宿 蔦屋。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「きそふくしま温泉 街道浪漫 おん宿 蔦屋」は『創業300年☆評判料理と木曽川沿い露天風呂 きそふくしま温泉 で心もからだもリフレッシュ♪』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「きそふくしま温泉 街道浪漫 おん宿 蔦屋。」は『創業300年☆評判料理と木曽川沿い露天風呂 きそふくしま温泉 で心もからだもリフレッシュ♪。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -519,7 +519,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「きそふくしま温泉 街道浪漫 おん宿 蔦屋」と「ホテル花更紗」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「きそふくしま温泉 街道浪漫 おん宿 蔦屋。」と「ホテル花更紗」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

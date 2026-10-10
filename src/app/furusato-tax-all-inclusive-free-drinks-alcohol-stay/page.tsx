@@ -4,14 +4,14 @@ import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: '生ビール・地酒・ワインが飲み放題！お財布を気にせず寛ぐオールインクルーシブ名宿×ふるさと納税完全ガイド【2026年最新】作並・松島・伊勢志摩',
-  description: 'チェックインからアウトまで、ラウンジのお酒・スイーツ・湯上がりビール・出来立て料理がすべて宿泊代金込み！追加料金ゼロで贅沢な休日を叶えるオールインクルーシブ温泉宿。「ゆづくしSalon一の坊」「松島一の坊」「グランドメルキュール伊勢志摩リゾート＆スパ」を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
+  description: 'チェックインからアウトまで、ラウンジのお酒・スイーツ・湯上がりビール・出来立て料理がすべて宿泊代金込み！追加料金ゼロで贅沢な休日を叶えるオールインクルーシブ温泉宿。「ゆづくしSalon一の坊」「松島一の坊」「グランドメルキュール伊勢志摩リゾート＆スパ。」を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
   keywords: ["生ビール", "地酒", "2026年最新", "作並", "松島", "伊勢志摩", "温泉宿"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-all-inclusive-free-drinks-alcohol-stay/",
   },
   openGraph: {
     title: '生ビール・地酒・ワインが飲み放題！お財布を気にせず寛ぐオールインクルーシブ名宿×ふるさと納税完全ガイド【2026年最新】作並・松島・伊勢志摩',
-    description: 'チェックインからアウトまで、ラウンジのお酒・スイーツ・湯上がりビール・出来立て料理がすべて宿泊代金込み！追加料金ゼロで贅沢な休日を叶えるオールインクルーシブ温泉宿。「ゆづくしSalon一の坊」「松島一の坊」「グランドメルキュール伊勢志摩リゾート＆スパ」を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
+    description: 'チェックインからアウトまで、ラウンジのお酒・スイーツ・湯上がりビール・出来立て料理がすべて宿泊代金込み！追加料金ゼロで贅沢な休日を叶えるオールインクルーシブ温泉宿。「ゆづくしSalon一の坊」「松島一の坊」「グランドメルキュール伊勢志摩リゾート＆スパ。」を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-all-inclusive-free-drinks-alcohol-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
@@ -25,7 +25,7 @@ export default function FurusatoAllInclusiveFreeDrinksStayPage() {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "生ビール・地酒・ワインが飲み放題！お財布を気にせず寛ぐオールインクルーシブ名宿×ふるさと納税完全ガイド【2026年最新】作並・松島・伊勢志摩",
-    "description": "チェックインからアウトまで、ラウンジのお酒・スイーツ・湯上がりビール・出来立て料理がすべて宿泊代金込み！追加料金ゼロで贅沢な休日を叶えるオールインクルーシブ温泉宿。「ゆづくしSalon一の坊」「松島一の坊」「グランドメルキュール伊勢志摩リゾート＆スパ」を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "description": "チェックインからアウトまで、ラウンジのお酒・スイーツ・湯上がりビール・出来立て料理がすべて宿泊代金込み！追加料金ゼロで贅沢な休日を叶えるオールインクルーシブ温泉宿。「ゆづくしSalon一の坊」「松島一の坊」「グランドメルキュール伊勢志摩リゾート＆スパ。」を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
     "url": "https://croud-travel.pages.dev/furusato-tax-all-inclusive-free-drinks-alcohol-stay/",
     "publisher": {
       "@type": "Organization",
@@ -62,7 +62,7 @@ export default function FurusatoAllInclusiveFreeDrinksStayPage() {
           生ビール・地酒・ワインが飲み放題！お財布を気にせず寛ぐオールインクルーシブ名宿×ふるさと納税完全ガイド【2026年最新】作並・松島・伊勢志摩
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-09">2026年9月9日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -77,7 +77,7 @@ export default function FurusatoAllInclusiveFreeDrinksStayPage() {
           暖炉ラウンジで地酒やワインを片手に読書、湯上がりに冷たい生ビール。お財布フリーで心からくつろぐ至福のリトリートへ
         </h2>
         <p className="text-base md:text-lg text-gray-800 leading-relaxed mb-6">
-          宿泊料金に滞在中の食事、夕朝食時のアルコール・ソフトドリンク、クラブラウンジでの生ビールやスパークリングワイン、おつまみ、スイーツ、アクティビティまで全てが含まれる「オールインクルーシブ（All-Inclusive）」。チェックアウト時の追加精算を気にする必要が一切なく、食べたい時に食べ、飲みたい時に上質なお酒をグラスに注ぎ、好きな場所で気ままに寛ぐ——。これまでの温泉旅館の概念を覆す、自由でストレスフリーな大人の休日スタイルとして今絶大な支持を集めています。本特集では、広瀬川の渓流沿いに建ち、暖炉のあるサイレントラウンジで仙台銘酒や生ビール、挽きたて珈琲を片手に源泉巡りを楽しむ「仙台・作並温泉 ゆづくしSalon一の坊」、日本三景・松島のパノラマビューと生演奏、目の前で料理人が腕を振るうオーダービュッフェ食べ飲み放題が圧巻の「松島温泉 松島一の坊」、そして伊勢志摩の豊かな自然に抱かれ、宿泊者全員が利用できる贅沢なクラブラウンジでアルコールやイブニングソーシャルを堪能できる話題のリブランド名宿「グランドメルキュール伊勢志摩リゾート＆スパ」の3宿を厳選。楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円で最高峰のお財布フリー温泉旅へ出かけましょう。
+          宿泊料金に滞在中の食事、夕朝食時のアルコール・ソフトドリンク、クラブラウンジでの生ビールやスパークリングワイン、おつまみ、スイーツ、アクティビティまで全てが含まれる「オールインクルーシブ（All-Inclusive）。」。チェックアウト時の追加精算を気にする必要が一切なく、食べたい時に食べ、飲みたい時に上質なお酒をグラスに注ぎ、好きな場所で気ままに寛ぐ——。これまでの温泉旅館の概念を覆す、自由でストレスフリーな大人の休日スタイルとして今絶大な支持を集めています。本特集では、広瀬川の渓流沿いに建ち、暖炉のあるサイレントラウンジで仙台銘酒や生ビール、挽きたて珈琲を片手に源泉巡りを楽しむ「仙台・作並温泉 ゆづくしSalon一の坊。」、日本三景・松島のパノラマビューと生演奏、目の前で料理人が腕を振るうオーダービュッフェ食べ飲み放題が圧巻の「松島温泉 松島一の坊」、そして伊勢志摩の豊かな自然に抱かれ、宿泊者全員が利用できる贅沢なクラブラウンジでアルコールやイブニングソーシャルを堪能できる話題のリブランド名宿「グランドメルキュール伊勢志摩リゾート＆スパ。」の3宿を厳選。楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円で最高峰のお財布フリー温泉旅へ出かけましょう。
         </p>
         <div className="bg-white/90 rounded-xl p-4 md:p-5 border border-amber-300 shadow-sm">
           <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5">
@@ -164,7 +164,7 @@ export default function FurusatoAllInclusiveFreeDrinksStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “料理も露天風呂も最高、また利用したいチェックインからゆっくり過ごさせていただきました。お料理もとても美味しく頂きました。露天風呂も良かったです!また利用させていただきたいです!クチコミの詳…　2026-09-05 10:04:33投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “料理も露天風呂も最高、また利用したいチェックインからゆっくり過ごさせていただきました。お料理もとても美味しく頂きました。露天風呂も良かったです!また利用させていただきたいです!クチコミの詳… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -206,7 +206,7 @@ export default function FurusatoAllInclusiveFreeDrinksStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “温泉とビュッフェを満喫、彼も大満足!露天風呂やサウナ、岩盤浴でリフレッシュできたし、ライブキッチンのオーダービュッフェで地元の料理を贅沢にお腹いっぱいいただきました。一緒に行った彼も大満足だっ…　2026-09-05 23:43:52投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “温泉とビュッフェを満喫、彼も大満足!露天風呂やサウナ、岩盤浴でリフレッシュできたし、ライブキッチンのオーダービュッフェで地元の料理を贅沢にお腹いっぱいいただきました。一緒に行った彼も大満足だっ… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -248,7 +248,7 @@ export default function FurusatoAllInclusiveFreeDrinksStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “朝食ビュッフェが美味しくプールも満喫親族8人2部屋で利用しました。朝食のビュッフェも美味しいプールもあったので次回は水着を忘れないようにしようと思います!クチコミの詳細はこちらから　https…　2026-09-06 01:08:04投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “朝食ビュッフェが美味しくプールも満喫親族8人2部屋で利用しました。朝食のビュッフェも美味しいプールもあったので次回は水着を忘れないようにしようと思います!
             </blockquote>
           </div>
           <div className="pt-2">
@@ -323,7 +323,7 @@ export default function FurusatoAllInclusiveFreeDrinksStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

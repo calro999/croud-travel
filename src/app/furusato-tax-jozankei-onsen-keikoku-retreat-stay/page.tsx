@@ -39,8 +39,8 @@ export default function FurusatoArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-10T17:00:00+09:00',
-    dateModified: '2026-09-10T17:00:00+09:00',
+    datePublished: 'T17:00:00+09:00',
+    dateModified: 'T17:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-jozankei-onsen-keikoku-retreat-stay',
   };
 
@@ -49,7 +49,7 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「定山渓温泉 定山渓第一寶亭留 翠山亭」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「定山渓温泉 定山渓第一寶亭留 翠山亭」へは、札幌より無料送迎バス運行（要予約）／ＪＲ札幌駅より車で60分／新千歳空港より車で約2時間。最寄りの札幌駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「定山渓温泉 定山渓第一寶亭留 翠山亭」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「定山渓温泉 定山渓第一寶亭留 翠山亭」は『全室温泉付客室／貸切サウナ誕生／ラウンジ＆ロビーリニューアル』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「定山渓温泉 定山渓第一寶亭留 翠山亭」と「定山渓 ゆらく草庵」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「定山渓温泉 定山渓第一寶亭留 翠山亭」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「定山渓温泉 定山渓第一寶亭留 翠山亭」へは、札幌より無料送迎バス運行（要予約）／ＪＲ札幌駅より車で60分／新千歳空港より車で約2時間。最寄りの札幌駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「定山渓温泉 定山渓第一寶亭留 翠山亭」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「定山渓温泉 定山渓第一寶亭留 翠山亭」は『全室温泉付客室／貸切サウナ誕生／ラウンジ＆ロビーリニューアル。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「定山渓温泉 定山渓第一寶亭留 翠山亭」と「定山渓 ゆらく草庵」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -203,7 +203,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.43点、口コミ2100件超。「お部屋の温泉露天風呂が広く泉質も最高」「スタッフの接客が行き届いており、お料理も一品一品が絶品だった」と高い信頼を獲得。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.43点、口コミ2100件超。「お部屋の温泉露天風呂が広く泉質も最高」「スタッフの接客が行き届いており、お料理も一品一品が絶品だった。」と高い信頼を獲得。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -287,7 +287,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.48点、口コミ1100件超。「部屋のお風呂が檜造りで景色もよく最高」「貸切風呂が無料でたくさんあり、食事もボリューム満点で美味しかった」と大好評。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.48点、口コミ1100件超。「部屋のお風呂が檜造りで景色もよく最高」「貸切風呂が無料でたくさんあり、食事もボリューム満点で美味しかった。」と大好評。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.56点、口コミ2900件超。「ビュッフェの美味しさと種類の多さに感動」「館内全体がアロマの良い香りに包まれ、森の中で本当にリフレッシュできた」と絶賛。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.56点、口コミ2900件超。「ビュッフェの美味しさと種類の多さに感動」「館内全体がアロマの良い香りに包まれ、森の中で本当にリフレッシュできた。」と絶賛。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -578,7 +578,7 @@ export default function FurusatoArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「定山渓温泉 定山渓第一寶亭留 翠山亭」は『全室温泉付客室／貸切サウナ誕生／ラウンジ＆ロビーリニューアル』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「定山渓温泉 定山渓第一寶亭留 翠山亭」は『全室温泉付客室／貸切サウナ誕生／ラウンジ＆ロビーリニューアル。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

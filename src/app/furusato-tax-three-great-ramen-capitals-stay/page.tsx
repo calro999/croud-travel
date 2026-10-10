@@ -29,16 +29,16 @@ export default function Page() {
     "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D20623",
     "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D20623",
     "hotelKanaName": "あいづあしのまきおんせん　まるみねかんこうほてる",
-    "hotelSpecial": "2024年3月1日ビュッフェレストランオープン！山々に抱かれた渓谷美を望む【露天風呂付き客室】が人気",
+    "hotelSpecial": "ビュッフェレストランオープン！山々に抱かれた渓谷美を望む【露天風呂付き客室】が人気",
     "hotelMinCharge": 7000,
     "address1": "福島県",
     "address2": "会津若松市大戸町芦ノ牧下夕平1128",
-    "telephoneNo": "0242-92-2121",
+    "telephoneNo": "21",
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20623/20623.jpg",
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20623/20623_kan.jpg",
     "reviewCount": 3259,
     "reviewAverage": 4.26,
-    "userReview": "心温まる空間で大満足多分3度目、結婚記念日での利用です。毎度変わらずとても気持ちよく利用させていただきました。客室露天も食事も接客もとても満足しています。心が暖かくなる空間です。ま…　 ",
+    "userReview": "心温まる空間で大満足多分3度目、結婚記念日での利用です。毎度変わらずとても気持ちよく利用させていただきました。客室露天も食事も接客もとても満足しています。心が暖かくなる空間です。ま。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F20623%2F20623.html",
     "label": "福島県喜多方市・会津若松市ふるさと納税・朝ラー文化と熟成多加水平打ち縮れ麺「喜多方ラーメン」会津東山温泉名宿",
     "themeTitle": "福島県喜多方市・会津若松市ふるさと納税：喜多方朝ラー巡り拠点・渓流露天風呂と会津馳走「会津芦ノ牧温泉 丸峰観光ホテル」",
@@ -64,7 +64,7 @@ export default function Page() {
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/41399/41399_room.jpg",
     "reviewCount": 2475,
     "reviewAverage": 4.34,
-    "userReview": "路面電車の乗り場が近く市内散策に便利夫婦での1週間の北海道旅行のうち3泊利用しました。お部屋はバージョンアップで広く綺麗で公園もみえ快適でした。車を置い路面電車で市内を散策しましたが乗…　 ",
+    "userReview": "路面電車の乗り場が近く市内散策に便利夫婦での1週間の北海道旅行のうち3泊利用しました。お部屋はバージョンアップで広く綺麗で公園もみえ快適でした。車を置い路面電車で市内を散策しましたが乗。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F41399%2F41399.html",
     "label": "北海道札幌市ふるさと納税・ラード浮かぶ濃厚スープと黄色い縮れ卵麺「札幌味噌ラーメン」すすきの至近美食ステイ",
     "themeTitle": "北海道札幌市ふるさと納税：すすきのラーメン横丁へ徒歩圏内・中島公園の緑を望むシティホテル「プレミアホテル 中島公園 札幌」",
@@ -90,7 +90,7 @@ export default function Page() {
     "roomImageUrl": "",
     "reviewCount": 1738,
     "reviewAverage": 4.2,
-    "userReview": "博多駅近くでセキュリティも安心、備品も充実博多駅からも徒歩圏内にあるホテルカードキー方式になっており、エレベーターもルームカードキーをかざすと宿泊階にしか止まらない仕組みになっている。おの…　 ",
+    "userReview": "博多駅近くでセキュリティも安心、備品も充実博多駅からも徒歩圏内にあるホテルカードキー方式になっており、エレベーターもルームカードキーをかざすと宿泊階にしか止まらない仕組みになっている。おの。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F165706%2F165706.html",
     "label": "福岡県福岡市ふるさと納税・極細ストレート麺と白濁濃厚豚骨スープ「博多ラーメン」中洲屋台街直結プレミアムステイ",
     "themeTitle": "福岡県福岡市ふるさと納税：博多駅・中洲屋台街の絶好拠点・洗練された大人の隠れ家「エスペリアホテル博多」",
@@ -169,7 +169,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「会津芦ノ牧温泉 丸峰観光ホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「会津芦ノ牧温泉 丸峰観光ホテル」へは、会津鉄道・芦ノ牧温泉駅／JR会津若松駅～タクシーで40分／磐越道・会津若松IC～40分/東北道・白河ＩＣ～60分。最寄りの会津若松駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「会津芦ノ牧温泉 丸峰観光ホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「会津芦ノ牧温泉 丸峰観光ホテル」は『2024年3月1日ビュッフェレストランオープン！山々に抱かれた渓谷美を望む 露天風呂付き客』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「会津芦ノ牧温泉 丸峰観光ホテル」と「プレミアホテル 中島公園 札幌」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「会津芦ノ牧温泉 丸峰観光ホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「会津芦ノ牧温泉 丸峰観光ホテル」へは、会津鉄道・芦ノ牧温泉駅／JR会津若松駅～タクシーで40分／磐越道・会津若松IC～40分/東北道・白河ＩＣ～60分。最寄りの会津若松駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「会津芦ノ牧温泉 丸峰観光ホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「会津芦ノ牧温泉 丸峰観光ホテル」は『ビュッフェレストランオープン！山々に抱かれた渓谷美を望む 露天風呂付き客。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「会津芦ノ牧温泉 丸峰観光ホテル」と「プレミアホテル 中島公園 札幌」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         
         {/* 特集の魅力セクション */}
@@ -432,8 +432,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 会津若松駅よりアクセス。会津鉄道・芦ノ牧温泉駅／JR会津若松駅～タクシーで40分／磐越道・会津若松IC～40分/東北道・白河ＩＣ～60分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「会津芦ノ牧温泉 丸峰観光ホテル」にチェックイン。2024年3月1日ビュッフェレストランオープン！山々に抱かれた渓谷美を望む 露天風呂付き客室 が人気などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「会津芦ノ牧温泉 丸峰観光ホテル」の湯処へ。2024年3月1日ビュッフェレストランオープン！山々に抱かれた渓谷美をとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「会津芦ノ牧温泉 丸峰観光ホテル」にチェックイン。ビュッフェレストランオープン！山々に抱かれた渓谷美を望む 露天風呂付き客室 が人気などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「会津芦ノ牧温泉 丸峰観光ホテル」の湯処へ。ビュッフェレストランオープン！山々に抱かれた渓谷美をとともに、夕暮れの特別な寛ぎを満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「会津芦ノ牧温泉 丸峰観光ホテル」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -475,7 +475,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「会津芦ノ牧温泉 丸峰観光ホテル」は『2024年3月1日ビュッフェレストランオープン！山々に抱かれた渓谷美を望む 露天風呂付き客』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「会津芦ノ牧温泉 丸峰観光ホテル」は『ビュッフェレストランオープン！山々に抱かれた渓谷美を望む 露天風呂付き客。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

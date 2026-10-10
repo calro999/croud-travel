@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【超軽量パックラフト冒険】清流の静水と急流を漕ぎ抜ける！奥多摩・みなかみ渓谷温泉宿5選",
     "description": "折りたたんで持ち運べる超軽量ボート「パックラフト」で楽しむ新感覚リバーアクティビティ！エメラルドグリーンの清流を自分のパドルで下った後は、渓谷美を一望する露天風呂とサウナで極上のととのいを。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-    "datePublished": "2026-03-27T00:00:00+09:00",
-    "dateModified": "2026-03-27T00:00:00+09:00",
+    "datePublished": "T00:00:00+09:00",
+    "dateModified": "T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",
@@ -144,7 +144,7 @@ export default function FeaturePage() {
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「水上温泉郷 谷川温泉 旅館たにがわ」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「水上温泉郷 谷川温泉 旅館たにがわ」へは、ＪＲ水上駅より車で７分（送迎あり）、関越自動車道水上ＩＣより１５分。最寄りの水上駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「水上温泉郷 谷川温泉 旅館たにがわ」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「水上温泉郷 谷川温泉 旅館たにがわ」は『太宰治ゆかりの宿 スタッフの笑顔と創作料理・おもてなしの心 ・貸切露天風呂・足湯も大好評』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「水上温泉郷 谷川温泉 旅館たにがわ」と「水上温泉郷 湯檜曽温泉 天空の湯 なかや旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「水上温泉郷 谷川温泉 旅館たにがわ」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「水上温泉郷 谷川温泉 旅館たにがわ」へは、ＪＲ水上駅より車で７分（送迎あり）、関越自動車道水上ＩＣより１５分。最寄りの水上駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「水上温泉郷 谷川温泉 旅館たにがわ」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「水上温泉郷 谷川温泉 旅館たにがわ」は『太宰治ゆかりの宿 スタッフの笑顔と創作料理・おもてなしの心 ・貸切露天風呂・足湯も大好評。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「水上温泉郷 谷川温泉 旅館たにがわ」と「水上温泉郷 湯檜曽温泉 天空の湯 なかや旅館。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -341,7 +341,7 @@ export default function FeaturePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「水上温泉郷 谷川温泉 旅館たにがわ」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「水上温泉郷 谷川温泉 旅館たにがわ」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「水上温泉郷 湯檜曽温泉 天空の湯 なかや旅館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「水上温泉郷 湯檜曽温泉 天空の湯 なかや旅館。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -371,7 +371,7 @@ export default function FeaturePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「水上温泉郷 谷川温泉 旅館たにがわ」は『太宰治ゆかりの宿 スタッフの笑顔と創作料理・おもてなしの心 ・貸切露天風呂・足湯も大好評』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「水上温泉郷 谷川温泉 旅館たにがわ」は『太宰治ゆかりの宿 スタッフの笑顔と創作料理・おもてなしの心 ・貸切露天風呂・足湯も大好評。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -380,7 +380,7 @@ export default function FeaturePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「水上温泉郷 谷川温泉 旅館たにがわ」と「水上温泉郷 湯檜曽温泉 天空の湯 なかや旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「水上温泉郷 谷川温泉 旅館たにがわ」と「水上温泉郷 湯檜曽温泉 天空の湯 なかや旅館。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

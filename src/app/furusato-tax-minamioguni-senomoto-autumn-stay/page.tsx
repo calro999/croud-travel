@@ -39,8 +39,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
-    "datePublished": "2026-09-22",
-    "dateModified": "2026-09-22",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-minamioguni-senomoto-autumn-stay"
   };
 
@@ -441,7 +441,7 @@ export default function Page() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「瀬の本高原の黄金ススキと杖立温泉蒸し湯！阿蘇カルデラ絶景・小国あか牛＆ジャージー乳を味わう秋旅」を効率よく巡るコツは？</span>
+                <span>Q. 「瀬の本高原の黄金ススキと杖立温泉蒸し湯！阿蘇カルデラ絶景・小国あか牛＆ジャージー乳を味わう秋旅。」を効率よく巡るコツは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">

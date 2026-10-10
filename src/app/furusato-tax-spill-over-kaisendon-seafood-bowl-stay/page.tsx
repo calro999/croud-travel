@@ -49,7 +49,7 @@ export default function FurusatoSpillOverKaisendonStayPage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ラビスタ函館ベイＡＮＮＥＸ」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ラビスタ函館ベイＡＮＮＥＸ」へは、JR函館本線 函館駅 から市内循環バス「はこだてビール前」下車、徒歩約2分。最寄りの函館駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ラビスタ函館ベイＡＮＮＥＸ」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ラビスタ函館ベイＡＮＮＥＸ」は『クラシックな趣と気品が漂う全室31平米以上の贅沢な寛ぎ。北海道の美食を味わい天然温泉で心解』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ラビスタ函館ベイＡＮＮＥＸ」と「金沢白鳥路 ホテル山楽」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ラビスタ函館ベイＡＮＮＥＸ」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ラビスタ函館ベイＡＮＮＥＸ」へは、JR函館本線 函館駅 から市内循環バス「はこだてビール前」下車、徒歩約2分。最寄りの函館駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ラビスタ函館ベイＡＮＮＥＸ」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ラビスタ函館ベイＡＮＮＥＸ」は『クラシックな趣と気品が漂う全室31平米以上の贅沢な寛ぎ。北海道の美食を味わい天然温泉で心解。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ラビスタ函館ベイＡＮＮＥＸ」と「金沢白鳥路 ホテル山楽」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -195,7 +195,7 @@ export default function FurusatoSpillOverKaisendonStayPage() {
                     函館ベイエリアの金森赤レンガ倉庫に隣接し、全国の旅行者を虜にする「朝食いくらかけ放題」の代名詞的ホテル・ラビスタ函館ベイのハイクラス別館。朝食バイキングでは、北海道産いくらを惜しみなくスプーンで山盛りにできるほか、獲れたてのイカ、甘エビ、サーモン、ホタテなど贅沢な海の幸を盛り放題。さらに炙り焼きや北海道産牛乳・スイーツなど超豪華なラインナップが並びます。最上階には函館の夜景を一望する自家源泉の天然温泉大浴場や露天風呂を完備し、上質なクラシック空間で極上の函館ステイを堪能できます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「朝食が美味しく、部屋も広くて快適朝食バイキングがとてもおいしかった。お部屋もとても広く娘も走り回ってました。クチコミの詳細はこちらから 2026-09-05 22:19:39投稿 つづきはこちら…」
+                    「朝食が美味しく、部屋も広くて快適朝食バイキングがとてもおいしかった。お部屋もとても広く娘も走り回ってました。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -256,7 +256,7 @@ export default function FurusatoSpillOverKaisendonStayPage() {
                     金沢城公園に隣接し、兼六園や「金沢市民の台所」近江町市場へも徒歩圏という観光の特等席に位置するクラシックホテル。朝食ビュッフェでは、日本海直送の新鮮魚介を自分で盛り付ける特製海鮮丼をはじめ、郷土料理の治部煮や加賀野菜の天ぷらなど金沢の美味が美しく並びます。館内にはステンドグラスが輝く大正ロマンの優雅な雰囲気が漂い、地下から湧き出る琥珀色の美肌天然温泉大浴場も完備。歴史と美食を両立させた大人の金沢旅行に絶大な人気を誇る名門宿です。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「観光に最適な立地と郷土料理に大満足とにかくロケーションが観光に最適、施設は便利であって欲しいところはすべて新しく(ランドリーの洗濯機は洗剤自動投入など)、とても清潔で、一方で調度品や装飾などは古き… 2026-09-04 17:39:28投…」
+                    「観光に最適な立地と郷土料理に大満足とにかくロケーションが観光に最適、施設は便利であって欲しいところはすべて新しく(ランドリーの洗濯機は洗剤自動投入など)、とても清潔で、一方で調度品や装飾などは古き… 投。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -317,7 +317,7 @@ export default function FurusatoSpillOverKaisendonStayPage() {
                     伊豆・伊東の海岸線に堂々とそびえ、全室から相模灘のオーシャンビューを望む海辺の一大温泉リゾートホテル。宿の最大のハイライトは、巨大水槽の中をウミガメや魚たちが悠々と泳ぐ名物の「海底温泉魚風呂」。水族館の中で温泉に浸かっているかのようなユニークな体験が楽しめます。夕食や朝食のバイキングでは、名物の金目鯛の煮付けをはじめ、新鮮な刺身や握り寿司、海鮮舟盛りが並び、魚好きにはたまらない海の幸の饗宴が待っています。伊豆の青い海を眺めながらファミリーやカップルで賑やかに過ごせる名宿です。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「料理の良さが半減バイキング会場のはじの方の匂いが気になり残念でした。お刺身などは美味しいけどかなり残念でした。クチコミの詳細はこちらから 2026-09-05 21:11:40投稿 つづきはこちら…」
+                    「落ち着いた心地よい空間の中、温かい温泉とおいしいお料理で日頃の疲れを癒やすことができました。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -481,7 +481,7 @@ export default function FurusatoSpillOverKaisendonStayPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「ラビスタ函館ベイＡＮＮＥＸ」は『クラシックな趣と気品が漂う全室31平米以上の贅沢な寛ぎ。北海道の美食を味わい天然温泉で心解』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「ラビスタ函館ベイＡＮＮＥＸ」は『クラシックな趣と気品が漂う全室31平米以上の贅沢な寛ぎ。北海道の美食を味わい天然温泉で心解。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

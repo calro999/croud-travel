@@ -109,7 +109,7 @@ export default function FeaturePage() {
   "@context": "https://schema.org",
   "@type": "TouristAttraction",
   "name": "日本海魚のアメ横・寺泊海岸通り（冬のズワイガニと寒ブリ市場）",
-  "description": "寺泊町（てらどまりまち）は、新潟県の中部にかつて存在した三島郡の町。2006年1月1日長岡市に編入され消滅した。西廻り航路の港町、北陸街道の宿場町として知られていた町である。本州の中では佐渡島と最短の距離にあり、佐渡との間を佐渡汽船が定期航路を運航していたほか、古くから佐渡と本土を結ぶ拠点となっていた。",
+  "description": "寺泊町（てらどまりまち）は、新潟県の中部にかつて存在した三島郡の町。長岡市に編入され消滅した。西廻り航路の港町、北陸街道の宿場町として知られていた町である。本州の中では佐渡島と最短の距離にあり、佐渡との間を佐渡汽船が定期航路を運航していたほか、古くから佐渡と本土を結ぶ拠点となっていた。",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Teradomari_Fish_Market_Street_20081013.jpg/1280px-Teradomari_Fish_Market_Street_20081013.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
 };
 
@@ -285,7 +285,7 @@ export default function FeaturePage() {
                     日本海魚のアメ横・寺泊海岸通り（冬のズワイガニと寒ブリ市場）
                   </h3>
                   <p className="text-xs text-stone-300 leading-relaxed">
-                    寺泊町（てらどまりまち）は、新潟県の中部にかつて存在した三島郡の町。2006年1月1日長岡市に編入され消滅した。西廻り航路の港町、北陸街道の宿場町として知られていた町である。本州の中では佐渡島と最短の距離にあり、佐渡との間を佐渡汽船が定期航路を運航していたほか、古くから佐渡と本土を結ぶ拠点となっていた。
+                    寺泊町（てらどまりまち）は、新潟県の中部にかつて存在した三島郡の町。長岡市に編入され消滅した。西廻り航路の港町、北陸街道の宿場町として知られていた町である。本州の中では佐渡島と最短の距離にあり、佐渡との間を佐渡汽船が定期航路を運航していたほか、古くから佐渡と本土を結ぶ拠点となっていた。
                   </p>
                 </div>
                 <div className="text-[11px] text-stone-400 pt-2 border-t border-stone-800 flex items-center justify-between">
@@ -359,7 +359,7 @@ export default function FeaturePage() {
                   
                 <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「大満足ご飯も美味しくお酒も美味しく温泉でのんびりできて、満喫した!って感じです。ご飯を残してしまうのが申し訳ないので少食プラン作って欲しいです。クチコミの詳細はこちらから　https://…　2026-10-03 08:59:25投稿 つづ…」"}</p>
+                  <p className="leading-relaxed">{"「大満足ご飯も美味しくお酒も美味しく温泉でのんびりできて、満喫した!って感じです。ご飯を残してしまうのが申し訳ないので少食プラン作って欲しいです。つづ。」"}</p>
                 </div>
             
 
@@ -424,7 +424,7 @@ export default function FeaturePage() {
                   
                 <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「スタッフの接客と美味しい食事に感動!食事が美味しかったのは言うまでもなく、一番驚いたのはスタッフの皆様の意識の高さです。気遣いを含め、接客が本当に素晴らしく、感動いたしました。ぜひまた伺い…　2026-10-01 23:10:54投稿 つづ…」"}</p>
+                  <p className="leading-relaxed">{"「スタッフの接客と美味しい食事に感動!食事が美味しかったのは言うまでもなく、一番驚いたのはスタッフの皆様の意識の高さです。気遣いを含め、接客が本当に素晴らしく、感動いたしました。ぜひまた伺い… つづ。」"}</p>
                 </div>
             
 
@@ -489,7 +489,7 @@ export default function FeaturePage() {
                   
                 <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「食事も美味しく接客も丁寧で大満足食事が朝夜共に美味しく満足感が高かった。従業員の方がテキパキしていて好感を持てた。周りの人にもお勧めしたいです。クチコミの詳細はこちらから　https://re…　2026-10-01 10:11:46投稿 …」"}</p>
+                  <p className="leading-relaxed">{"「食事も美味しく接客も丁寧で大満足食事が朝夜共に美味しく満足感が高かった。従業員の方がテキパキしていて好感を持てた。周りの人にもお勧めしたいです。」"}</p>
                 </div>
             
 
@@ -518,7 +518,7 @@ export default function FeaturePage() {
                 <div className="md:col-span-5 relative min-h-[220px] md:min-h-[280px]">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/198972/198972.jpg"
-                    alt="ホテルニューグリーンプラザ（２０２６年６月２０日オープン）"
+                    alt="ホテルニューグリーンプラザ（オープン）"
                     className="w-full h-full object-cover"
                     loading="lazy"
                   />
@@ -540,7 +540,7 @@ export default function FeaturePage() {
                     </div>
                     <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors">
                       <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F198972%2F198972.html" target="_blank" rel="noopener noreferrer">
-                        ホテルニューグリーンプラザ（２０２６年６月２０日オープン）
+                        ホテルニューグリーンプラザ（オープン）
                       </a>
                     </h3>
                     <p className="text-xs text-stone-600 leading-relaxed">
@@ -554,7 +554,7 @@ export default function FeaturePage() {
                   
                 <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「リニューアル後の部屋は清潔で快適今回リニューアル後に宿泊しました。部屋も清潔で気に入りました。また利用した際に詳しく書きたいです。クチコミの詳細はこちらから　https://revie…　2026-10-03 20:23:09投稿 つづきは…」"}</p>
+                  <p className="leading-relaxed">{"「リニューアル後の部屋は清潔で快適今回リニューアル後に宿泊しました。部屋も清潔で気に入りました。また利用した際に詳しく書きたいです。つづきは。」"}</p>
                 </div>
             
 
@@ -619,7 +619,7 @@ export default function FeaturePage() {
                   
                 <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「マイナスイオンと温泉、食事に大満足!車を降りてすぐにマイナスイオンの空気に感動!とても、良い時期に来たようです。思わず深呼吸してしまいました。温泉はとろとろ、すべすべ。凄いです!食事は地元…　2026-10-02 09:37:26投稿 つづ…」"}</p>
+                  <p className="leading-relaxed">{"「マイナスイオンと温泉、食事に大満足!車を降りてすぐにマイナスイオンの空気に感動!とても、良い時期に来たようです。思わず深呼吸してしまいました。温泉はとろとろ、すべすべ。凄いです!食事は地元… つづ。」"}</p>
                 </div>
             
 

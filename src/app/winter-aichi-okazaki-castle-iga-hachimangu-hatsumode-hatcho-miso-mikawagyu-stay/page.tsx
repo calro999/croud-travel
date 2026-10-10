@@ -46,8 +46,8 @@ export default function Page() {
       "headline": "【徳川家康生誕の城下町・岡崎城雪景色と伊賀八幡宮新春初詣】2026-2027年冬の愛知・岡崎！本場八丁味噌鍋と三河牛会席名宿5選",
       "description": "徳川家康公生誕の地・岡崎城と徳川将軍家祈願所「伊賀八幡宮」新春開運初詣！二社のみが守る伝統の八丁味噌蔵巡りと、冬に温まる濃厚八丁味噌鍋や三河牛すき焼き。三河の奥座敷や快適シティで過ごす冬の厳選名宿5選。",
       "image": "https://img.travel.rakuten.co.jp/share/HOTEL/1192/1192.jpg",
-      "datePublished": "2026-10-09",
-      "dateModified": "2026-10-09",
+      "datePublished": "",
+      "dateModified": "",
       "author": {
         "@type": "Organization",
         "name": "Japan Travel Curations"
@@ -396,7 +396,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「アクセス良好で岡崎城を望む快適な部屋シルバーウィークに利用させていただきました。徒歩圏内に最寄り駅、コンビニ、飲み屋街があり少し歩きますがアクセスは良いと思います。岡崎城も歩いていけました。シ… 2026-09-24 15:10:48投稿 つづきはこちら」"}</span>
+                  <span>{"「アクセス良好で岡崎城を望む快適な部屋シルバーウィークに利用させていただきました。徒歩圏内に最寄り駅、コンビニ、飲み屋街があり少し歩きますがアクセスは良いと思います。岡崎城も歩いていけました。シ。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -463,7 +463,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「喫煙のにおいが残る以外は満足9階が以前は喫煙室でにおいが残っていました。この点を除けば、他は満足です。クチコミの詳細はこちらから https://review.travel.rakuten.c… 2026-09-23 09:11:29投稿 つづきはこちら」"}</span>
+                  <span>{"「喫煙のにおいが残る以外は満足9階が以前は喫煙室でにおいが残っていました。この点を除けば、他は満足です。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -530,7 +530,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「場所と清潔さに対して価格が安すぎて驚き場所、設備、部屋の清潔さを見て値段が安くてビックリでした。クチコミの詳細はこちらから https://review.travel.rakuten.co.j… 2026-09-05 19:44:19投稿 つづきはこちら」"}</span>
+                  <span>{"「場所と清潔さに対して価格が安すぎて驚き場所、設備、部屋の清潔さを見て値段が安くてビックリでした。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -597,7 +597,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「眺めと食事は最高だが設備とサービスに課題ありお部屋からの眺めがとても良く、お天気が良ければ星もきれいに見えて素敵でした。夕食もとても美味しく、楽しめました。一方で、建物が少し古く、お部屋の中に… 2026-09-28 23:25:57投稿 つづきはこちら」"}</span>
+                  <span>{"「眺めと食事は最高だが設備とサービスに課題ありお部屋からの眺めがとても良く、お天気が良ければ星もきれいに見えて素敵でした。夕食もとても美味しく、楽しめました。一方で、建物が少し古く、お部屋の中に。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -664,7 +664,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「早めの予約で高騰を回避、助かりました結婚式参加の為宿取りました。アジア大会の為、値段が、爆上がりしているな所 早めに取る事が、出来て良かった。クチコミの詳細はこちらから https://rev… 2026-09-28 07:24:43投稿 つづきはこちら」"}</span>
+                  <span>{"「早めの予約で高騰を回避、助かりました結婚式参加の為宿取りました。アジア大会の為、値段が、爆上がりしているな所 早めに取る事が、出来て良かった。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">

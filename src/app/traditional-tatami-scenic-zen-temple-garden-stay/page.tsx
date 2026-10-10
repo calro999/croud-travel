@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/traditional-tatami-scenic-zen-temple-garden-stay"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D15772%26f_flg%3DPLAN",
     "hotelMinCharge": 8415,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15772/15772.jpg",
-    "userReview": "最高夕食は少なめで料理の質を上げていて満足でした。部屋の風呂も見晴らしがよく最高でした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/ho…　2026-09-18 18:43:19投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=15772\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "最高夕食は少なめで料理の質を上げていて満足でした。部屋の風呂も見晴らしがよく最高でした。",
     "reviewAverage": 4.35,
     "reviewCount": 1982,
     "address": "福岡県朝倉市杷木久喜宮1841-1",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D129984%26f_flg%3DPLAN",
     "hotelMinCharge": 19800,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/129984/129984.jpg",
-    "userReview": "丁寧なおもてなしでしたお部屋は、文化財ということで、趣きがありました。古いけど、必要な設備はきちんとあり、清潔にされてました。温泉も気持ちよかったです。肌もツルツルになりました。お抹茶と外…　2026-08-14 23:27:15投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=129984\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "丁寧なおもてなしでしたお部屋は、文化財ということで、趣きがありました。古いけど、必要な設備はきちんとあり、清潔にされてました。温泉も気持ちよかったです。肌もツルツルになりました。お抹茶と外。",
     "reviewAverage": 4.31,
     "reviewCount": 189,
     "address": "山口県山口市緑町4-60",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D15962%26f_flg%3DPLAN",
     "hotelMinCharge": 25300,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15962/15962.jpg",
-    "userReview": "丁寧な接客と美味しい食事、立地も最高到着すぐ、ウェルカムドリンクのサービスがあり、館内の説明からとても丁寧でした。砂蒸し温泉まで徒歩5分程度で、場所もいいです。お食事はちょうどいい量で、お…　2026-09-19 08:20:09投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=15962\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "丁寧な接客と美味しい食事、立地も最高到着すぐ、ウェルカムドリンクのサービスがあり、館内の説明からとても丁寧でした。砂蒸し温泉まで徒歩5分程度で、場所もいいです。お食事はちょうどいい量で、お。",
     "reviewAverage": 4.68,
     "reviewCount": 537,
     "address": "鹿児島県指宿市湯の浜5-27-27",
@@ -337,7 +337,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「原鶴温泉 ホテルパーレンス小野屋」は『楽天トラベルアワード9年連続受賞 創業145年。優しさが詰った畳風呂と、心尽しの美食が人気』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「原鶴温泉 ホテルパーレンス小野屋」は『楽天トラベルアワード9年連続受賞 創業145年。優しさが詰った畳風呂と、心尽しの美食が人気。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

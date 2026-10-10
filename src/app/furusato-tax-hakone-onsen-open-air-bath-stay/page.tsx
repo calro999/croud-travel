@@ -62,7 +62,7 @@ export default function FurusatoHakoneOnsenOpenAirBathStayPage() {
           都心から85分の極上名湯！箱根湯本温泉の絶景大露天風呂＆客室露天名門宿×ふるさと納税完全攻略ガイド【2026年最新】天成園・おかだ・南風荘
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-09">2026年9月9日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -164,7 +164,7 @@ export default function FurusatoHakoneOnsenOpenAirBathStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “食事も温泉も大満足、庭の散策も楽しめた小学生と高齢者と宿泊しました。2回目です。食事、温泉、サービス全て満足です。お庭の散策も楽しめます。クチコミの詳細はこちらから　https…　2026-09-06 02:04:11投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “食事も温泉も大満足、庭の散策も楽しめた小学生と高齢者と宿泊しました。2回目です。食事、温泉、サービス全て満足です。お庭の散策も楽しめます。
             </blockquote>
           </div>
           <div className="pt-2">
@@ -206,7 +206,7 @@ export default function FurusatoHakoneOnsenOpenAirBathStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “お寿司は絶品、ステーキは焼きたてが理想お寿司は美味しいですねステーキが作り置きではなく焼きたてが良いなクチコミの詳細はこちらから　https://review.travel.rakuten…　2026-09-03 18:21:48投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “お寿司は絶品、ステーキは焼きたてが理想お寿司は美味しいですねステーキが作り置きではなく焼きたてが良いな ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -248,7 +248,7 @@ export default function FurusatoHakoneOnsenOpenAirBathStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “露天風呂付き客室とサービスに大満足大大大満足の旅行でした。クーポン利用で安くなりとても助かりました。私たちは露天風呂付き客室が絶対条件。今回2回目なので部屋タイプはお任せにし、前回とは…　2026-09-05 20:19:04投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “露天風呂付き客室とサービスに大満足大大大満足の旅行でした。クーポン利用で安くなりとても助かりました。私たちは露天風呂付き客室が絶対条件。今回2回目なので部屋タイプはお任せにし、前回とは… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -323,7 +323,7 @@ export default function FurusatoHakoneOnsenOpenAirBathStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

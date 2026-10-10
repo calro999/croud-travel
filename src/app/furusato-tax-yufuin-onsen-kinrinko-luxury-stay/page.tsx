@@ -4,14 +4,14 @@ import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: '朝霧煙る金鱗湖と由布岳の絶景！由布院温泉の露天風呂付き離れ＆憧れ名門旅館×ふるさと納税完全攻略ガイド【2026年最新】花由・秀峰館・梅園',
-  description: '女性やカップルに憧れNo.1の温泉リゾート・由布院温泉！幻想的な朝霧が立ちのぼる金鱗湖や湯の坪街道散策。「ゆふいん花由」「ゆふいんホテル秀峰館」「由布院 梅園 GARDEN RESORT」を、大分県由布市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。全室離れ露天風呂、由布岳一望展望大浴場、一万坪庭園を堪能。',
+  description: '女性やカップルに憧れNo.1の温泉リゾート・由布院温泉！幻想的な朝霧が立ちのぼる金鱗湖や湯の坪街道散策。「ゆふいん花由」「ゆふいんホテル秀峰館」「由布院 梅園 GARDEN RESORT。」を、大分県由布市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。全室離れ露天風呂、由布岳一望展望大浴場、一万坪庭園を堪能。',
   keywords: ["2026年最新", "花由", "秀峰館", "梅園", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-yufuin-onsen-kinrinko-luxury-stay/",
   },
   openGraph: {
     title: '朝霧煙る金鱗湖と由布岳の絶景！由布院温泉の露天風呂付き離れ＆憧れ名門旅館×ふるさと納税完全攻略ガイド【2026年最新】花由・秀峰館・梅園',
-    description: '女性やカップルに憧れNo.1の温泉リゾート・由布院温泉！幻想的な朝霧が立ちのぼる金鱗湖や湯の坪街道散策。「ゆふいん花由」「ゆふいんホテル秀峰館」「由布院 梅園 GARDEN RESORT」を、大分県由布市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。全室離れ露天風呂、由布岳一望展望大浴場、一万坪庭園を堪能。',
+    description: '女性やカップルに憧れNo.1の温泉リゾート・由布院温泉！幻想的な朝霧が立ちのぼる金鱗湖や湯の坪街道散策。「ゆふいん花由」「ゆふいんホテル秀峰館」「由布院 梅園 GARDEN RESORT。」を、大分県由布市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。全室離れ露天風呂、由布岳一望展望大浴場、一万坪庭園を堪能。',
     url: 'https://croud-travel.pages.dev/furusato-tax-yufuin-onsen-kinrinko-luxury-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
@@ -25,7 +25,7 @@ export default function FurusatoYufuinOnsenKinrinkoStayPage() {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "朝霧煙る金鱗湖と由布岳の絶景！由布院温泉の露天風呂付き離れ＆憧れ名門旅館×ふるさと納税完全攻略ガイド【2026年最新】花由・秀峰館・梅園",
-    "description": "女性やカップルに憧れNo.1の温泉リゾート・由布院温泉！幻想的な朝霧が立ちのぼる金鱗湖や湯の坪街道散策。「ゆふいん花由」「ゆふいんホテル秀峰館」「由布院 梅園 GARDEN RESORT」を、大分県由布市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。全室離れ露天風呂、由布岳一望展望大浴場、一万坪庭園を堪能。",
+    "description": "女性やカップルに憧れNo.1の温泉リゾート・由布院温泉！幻想的な朝霧が立ちのぼる金鱗湖や湯の坪街道散策。「ゆふいん花由」「ゆふいんホテル秀峰館」「由布院 梅園 GARDEN RESORT。」を、大分県由布市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。全室離れ露天風呂、由布岳一望展望大浴場、一万坪庭園を堪能。",
     "url": "https://croud-travel.pages.dev/furusato-tax-yufuin-onsen-kinrinko-luxury-stay/",
     "publisher": {
       "@type": "Organization",
@@ -62,7 +62,7 @@ export default function FurusatoYufuinOnsenKinrinkoStayPage() {
           朝霧煙る金鱗湖と由布岳の絶景！由布院温泉の露天風呂付き離れ＆憧れ名門旅館×ふるさと納税完全攻略ガイド【2026年最新】花由・秀峰館・梅園
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-09">2026年9月9日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -77,7 +77,7 @@ export default function FurusatoYufuinOnsenKinrinkoStayPage() {
           由布岳の優美な山容と立ちのぼる幻想的な朝霧。自然とアート、極上湯に抱かれる由布院の贅沢な休日へ
         </h2>
         <p className="text-base md:text-lg text-gray-800 leading-relaxed mb-6">
-          豊後富士と称される秀峰「由布岳」の麓に広がる、日本屈指の憧れ温泉リゾート「由布院温泉（湯布院）」。澄んだ湧水と温泉水が混ざり合い、秋冬の早朝には幻想的な湯煙の朝霧が湖面を覆う「金鱗湖」をはじめ、お洒落なスイーツショップやギャラリーが軒を連ねる「湯の坪街道」など、散策するだけで心浮き立つ魅力に溢れています。豊かな湧出量を誇るアルカリ性単純温泉は、さらりとして刺激が少なく、肌をしっとりと包み込む極上の湯触り。静寂の森に点在するプライベート離れ客室、客室専用露天風呂から見上げる由布岳の稜線、そして大分が誇るブランド黒毛和牛「豊後牛（おおいた和牛）」や関アジ・関サバを取り入れた季節の創作会席料理は、旅人を至福の非日常へと誘います。本特集では、高台から由布岳と朝霧の雲海パノラマを一望する全室露天風呂付き離れ宿「ゆふいん花由」、金鱗湖や湯の坪街道へ徒歩圏内で最上階展望風呂が評判の「ゆふいんホテル秀峰館」、そして一万坪の広大な自然庭園の中に佇み名水と巨石露天風呂を誇る「由布院 梅園 GARDEN RESORT」の3大名宿を厳選。大分県由布市への楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円で憧れの由布院温泉ステイをお得に予約しましょう。
+          豊後富士と称される秀峰「由布岳」の麓に広がる、日本屈指の憧れ温泉リゾート「由布院温泉（湯布院）」。澄んだ湧水と温泉水が混ざり合い、秋冬の早朝には幻想的な湯煙の朝霧が湖面を覆う「金鱗湖」をはじめ、お洒落なスイーツショップやギャラリーが軒を連ねる「湯の坪街道」など、散策するだけで心浮き立つ魅力に溢れています。豊かな湧出量を誇るアルカリ性単純温泉は、さらりとして刺激が少なく、肌をしっとりと包み込む極上の湯触り。静寂の森に点在するプライベート離れ客室、客室専用露天風呂から見上げる由布岳の稜線、そして大分が誇るブランド黒毛和牛「豊後牛（おおいた和牛）」や関アジ・関サバを取り入れた季節の創作会席料理は、旅人を至福の非日常へと誘います。本特集では、高台から由布岳と朝霧の雲海パノラマを一望する全室露天風呂付き離れ宿「ゆふいん花由」、金鱗湖や湯の坪街道へ徒歩圏内で最上階展望風呂が評判の「ゆふいんホテル秀峰館」、そして一万坪の広大な自然庭園の中に佇み名水と巨石露天風呂を誇る「由布院 梅園 GARDEN RESORT。」の3大名宿を厳選。大分県由布市への楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円で憧れの由布院温泉ステイをお得に予約しましょう。
         </p>
         <div className="bg-white/90 rounded-xl p-4 md:p-5 border border-amber-300 shadow-sm">
           <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5">
@@ -164,7 +164,7 @@ export default function FurusatoYufuinOnsenKinrinkoStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “高速道路から近く眺望も抜群、食事も大満足高速道路降りて直ぐの場所で便利なうえ、湯布岳の眺望も抜群でした。お部屋は広く離れのためとても静かでとてもくつろげました。食事も創作料理で美味しく大満…　2026-09-05 21:16:45投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “高速道路から近く眺望も抜群、食事も大満足高速道路降りて直ぐの場所で便利なうえ、湯布岳の眺望も抜群でした。お部屋は広く離れのためとても静かでとてもくつろげました。食事も創作料理で美味しく大満… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -206,7 +206,7 @@ export default function FurusatoYufuinOnsenKinrinkoStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “清潔感がありコスパも最高!キチンと清掃されてて、清潔感があるホテルでした。コスパ最高です。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp…　2026-09-05 13:53:53投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “清潔感がありコスパも最高!キチンと清掃されてて、清潔感があるホテルでした。コスパ最高です。 ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -248,7 +248,7 @@ export default function FurusatoYufuinOnsenKinrinkoStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “子供が食べられるメニューが少なめ子どもの食べたいものが少なかった。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/3…　2026-09-03 00:33:14投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “子供が食べられるメニューが少なめ子どもの食べたいものが少なかった。 ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -323,7 +323,7 @@ export default function FurusatoYufuinOnsenKinrinkoStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

@@ -62,7 +62,7 @@ export default function FurusatoKaruizawaLuxuryStayPage() {
           木漏れ日の高原と洗練の森！軽井沢の温泉露天風呂付きラグジュアリーホテル＆本格フレンチ名宿×ふるさと納税完全攻略ガイド【2026年最新】マリオット・プリンスイースト・音羽ノ森
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-10">2026年9月10日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -164,7 +164,7 @@ export default function FurusatoKaruizawaLuxuryStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “スタッフの親切な対応と清潔な部屋に感動ホテルのスタッフの皆さんの対応がとても親切で予約時から私の間違いで迷惑をかけて部屋を入れ替えていただいたり 何度か電話させていただいた際も男性のスタッフ様も女…　2026-08-27 20:32:51投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “スタッフの親切な対応と清潔な部屋に感動ホテルのスタッフの皆さんの対応がとても親切で予約時から私の間違いで迷惑をかけて部屋を入れ替えていただいたり 何度か電話させていただいた際も男性のスタッフ様も女… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -206,7 +206,7 @@ export default function FurusatoKaruizawaLuxuryStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “コスパは合わないショップの営業時間も短い悪くないですが、コスパは合わないですね。冷蔵庫の備付も少ないのにショップが閉まるのも早いです。サービスは送迎の方は良かったですがフロントスタッフは普通…　2026-08-23 12:28:19投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “コスパは合わないショップの営業時間も短い悪くないですが、コスパは合わないですね。冷蔵庫の備付も少ないのにショップが閉まるのも早いです。サービスは送迎の方は良かったですがフロントスタッフは普通… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -248,7 +248,7 @@ export default function FurusatoKaruizawaLuxuryStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “静かで落ち着いた環境がとても良い静かでたいへんよい。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/50619?…　2026-08-15 14:00:38投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “静かで落ち着いた環境がとても良い静かでたいへんよい。 ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -323,7 +323,7 @@ export default function FurusatoKaruizawaLuxuryStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

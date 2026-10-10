@@ -34,11 +34,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13890/13890map.gif",
     "reviewCount": 471,
     "reviewAverage": 4.4,
-    "userReview": "伝統を感じさせる趣のある空間伝統を感じさせる好きなホテルです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/138…　2026-09-17 16:55:09投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=13890\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "伝統を感じさせる趣のある空間伝統を感じさせる好きなホテルです。",
     "hotelMinCharge": 3850,
     "address1": "宮城県",
     "address2": "大崎市鳴子温泉鬼首大清水26-29",
-    "telephoneNo": "0229-86-2011",
+    "telephoneNo": "11",
     "access": "東北自動車道古川ICより47号線を鳴子方面へ、岩下こけし資料館前交差点から108号線を秋田方面に入り約20分",
     "parkingInformation": "有り　８５台　無料",
     "nearestStation": "鳴子温泉",
@@ -59,11 +59,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30048/30048map.gif",
     "reviewCount": 351,
     "reviewAverage": 4.38,
-    "userReview": "大型犬と一緒にどこへも行けて大満足うちの犬は25キロなのですが、そんな大きな犬も食事場所へも、貸切風呂へも、どこでも一緒にいけて、犬も安心して過ごせました。夜は無料の焼きマシュマロや綿あめを楽しん…　2026-09-14 14:58:51投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=30048\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "大型犬と一緒にどこへも行けて大満足うちの犬は25キロなのですが、そんな大きな犬も食事場所へも、貸切風呂へも、どこでも一緒にいけて、犬も安心して過ごせました。夜は無料の焼きマシュマロや綿あめを楽しん。",
     "hotelMinCharge": 17710,
     "address1": "静岡県",
     "address2": "賀茂郡河津町峰1169-13",
-    "telephoneNo": "0558-32-1272",
+    "telephoneNo": "72",
     "access": "東名高速沼津ＩＣから５０ｋｍ、９０分",
     "parkingInformation": "有（上下）　２２台　無料　（上の駐車場がお楽です）",
     "nearestStation": "河津",
@@ -84,11 +84,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38761/38761map.gif",
     "reviewCount": 401,
     "reviewAverage": 4.87,
-    "userReview": "心温まる大好きな場所今回2回目の滞在。台風で大雨の中、前回と同じく下までお迎えにきてくださいました。ありがとうございます。お部屋はメゾネットタイプ。とても素敵で、雨でしたが何度…　2026-09-14 01:13:06投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=38761\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "心温まる大好きな場所今回2回目の滞在。台風で大雨の中、前回と同じく下までお迎えにきてくださいました。ありがとうございます。お部屋はメゾネットタイプ。とても素敵で、雨でしたが何度。",
     "hotelMinCharge": 21360,
     "address1": "静岡県",
     "address2": "伊東市富戸1038-73",
-    "telephoneNo": "0557-51-5041",
+    "telephoneNo": "41",
     "access": "伊豆急行線　伊豆高原駅より車にて１０分／東名　厚木ＩＣより小田原厚木道路経由、Ｒ１３５を下田方面へ１２０分",
     "parkingInformation": "有り　９台　無料",
     "nearestStation": "伊豆高原",
@@ -109,11 +109,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16773/16773map.gif",
     "reviewCount": 1048,
     "reviewAverage": 4.62,
-    "userReview": "2日目の料理が絶品、連泊して大正解連泊させて頂きました、一日目の夕食は、どれも味が薄く物足りないものでしたが、2日目は、メニューが全て違うコースで、どれも全て美味しかったです。一番は、2日目のスー…　2026-09-18 01:18:09投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=16773\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "2日目の料理が絶品、連泊して大正解連泊させて頂きました、一日目の夕食は、どれも味が薄く物足りないものでしたが、2日目は、メニューが全て違うコースで、どれも全て美味しかったです。一番は、2日目のスー。",
     "hotelMinCharge": 18868,
     "address1": "長野県",
     "address2": "北安曇郡白馬村北城14863-6",
-    "telephoneNo": "0261-72-3250",
+    "telephoneNo": "50",
     "access": "JR白馬駅よりホテルバス（要予約）にて10分／長野道安曇野I.Cより60分／糸魚川I.Cより60分",
     "parkingInformation": "乗用車約100台駐車可能。無料",
     "nearestStation": "白馬",
@@ -134,11 +134,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28013/28013map.gif",
     "reviewCount": 704,
     "reviewAverage": 4.54,
-    "userReview": "食事と眺めは最高だが、道が狭く険しい食事は美味しいです。サービスも親切丁寧で申し分なし。部屋も綺麗で、眺めも最高です。唯一の欠点は、ホテルまでの道路です。急な坂道を急カーブで登るだけでなく、車1台…　2026-09-20 01:52:47投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=28013\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "食事と眺めは最高だが、道が狭く険しい食事は美味しいです。サービスも親切丁寧で申し分なし。部屋も綺麗で、眺めも最高です。唯一の欠点は、ホテルまでの道路です。急な坂道を急カーブで登るだけでなく、車1台。",
     "hotelMinCharge": 10700,
     "address1": "静岡県",
     "address2": "熱海市咲見町6-41",
-    "telephoneNo": "0557-84-0555",
+    "telephoneNo": "55",
     "access": "JＲ熱海駅～タクシーで5分／東名・厚木IC～70分／新東名・長泉沼津IC～40分",
     "parkingInformation": "無料",
     "nearestStation": "熱海",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「鬼首温泉 リゾートパーク ホテル オニコウベ」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「鬼首温泉 リゾートパーク ホテル オニコウベ」へは、東北自動車道古川ICより47号線を鳴子方面へ、岩下こけし資料館前交差点から108号線を秋田方面に入り約20分。最寄りの鳴子温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「鬼首温泉 リゾートパーク ホテル オニコウベ」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「鬼首温泉 リゾートパーク ホテル オニコウベ」は『大自然に囲まれたリゾートホテル～宮城県北唯一プールのある施設』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「鬼首温泉 リゾートパーク ホテル オニコウベ」と「ホテル四季の蔵 高台から海を臨む 貸切温泉のペットリゾート」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「鬼首温泉 リゾートパーク ホテル オニコウベ。」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「鬼首温泉 リゾートパーク ホテル オニコウベ。」へは、東北自動車道古川ICより47号線を鳴子方面へ、岩下こけし資料館前交差点から108号線を秋田方面に入り約20分。最寄りの鳴子温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「鬼首温泉 リゾートパーク ホテル オニコウベ。」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「鬼首温泉 リゾートパーク ホテル オニコウベ。」は『大自然に囲まれたリゾートホテル～宮城県北唯一プールのある施設。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「鬼首温泉 リゾートパーク ホテル オニコウベ。」と「ホテル四季の蔵 高台から海を臨む 貸切温泉のペットリゾート。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -584,9 +584,9 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 鳴子温泉駅よりアクセス。東北自動車道古川ICより47号線を鳴子方面へ、岩下こけし資料館前交差点から108号線を秋田方面に入り約20分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「鬼首温泉 リゾートパーク ホテル オニコウベ」にチェックイン。大自然に囲まれたリゾートホテル～宮城県北唯一プールのある施設などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「鬼首温泉 リゾートパーク ホテル オニコウベ」の湯処へ。大自然に囲まれたリゾートホテル～宮城県北唯一プールのある施設とともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「鬼首温泉 リゾートパーク ホテル オニコウベ」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「鬼首温泉 リゾートパーク ホテル オニコウベ。」にチェックイン。大自然に囲まれたリゾートホテル～宮城県北唯一プールのある施設などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「鬼首温泉 リゾートパーク ホテル オニコウベ。」の湯処へ。大自然に囲まれたリゾートホテル～宮城県北唯一プールのある施設とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「鬼首温泉 リゾートパーク ホテル オニコウベ。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -595,9 +595,9 @@ export default function FeatureDetailPage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「鬼首温泉 リゾートパーク ホテル オニコウベ」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「鬼首温泉 リゾートパーク ホテル オニコウベ」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ホテル四季の蔵 高台から海を臨む 貸切温泉のペットリゾート」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「鬼首温泉 リゾートパーク ホテル オニコウベ。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「鬼首温泉 リゾートパーク ホテル オニコウベ。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ホテル四季の蔵 高台から海を臨む 貸切温泉のペットリゾート。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -614,20 +614,20 @@ export default function FeatureDetailPage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「鬼首温泉 リゾートパーク ホテル オニコウベ」へのアクセスや移動方法について</span>
+                <span>Q. 「鬼首温泉 リゾートパーク ホテル オニコウベ。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「鬼首温泉 リゾートパーク ホテル オニコウベ」へは、東北自動車道古川ICより47号線を鳴子方面へ、岩下こけし資料館前交差点から108号線を秋田方面に入り約20分。最寄りの鳴子温泉駅からの経路案内も充実しています。
+                A. 「鬼首温泉 リゾートパーク ホテル オニコウベ。」へは、東北自動車道古川ICより47号線を鳴子方面へ、岩下こけし資料館前交差点から108号線を秋田方面に入り約20分。最寄りの鳴子温泉駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「鬼首温泉 リゾートパーク ホテル オニコウベ」の魅力や予約時のポイントは？</span>
+                <span>Q. 「鬼首温泉 リゾートパーク ホテル オニコウベ。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「鬼首温泉 リゾートパーク ホテル オニコウベ」は『大自然に囲まれたリゾートホテル～宮城県北唯一プールのある施設』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「鬼首温泉 リゾートパーク ホテル オニコウベ。」は『大自然に囲まれたリゾートホテル～宮城県北唯一プールのある施設。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -636,7 +636,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「鬼首温泉 リゾートパーク ホテル オニコウベ」と「ホテル四季の蔵 高台から海を臨む 貸切温泉のペットリゾート」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「鬼首温泉 リゾートパーク ホテル オニコウベ。」と「ホテル四季の蔵 高台から海を臨む 貸切温泉のペットリゾート。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

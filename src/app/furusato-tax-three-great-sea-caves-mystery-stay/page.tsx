@@ -33,12 +33,12 @@ export default function Page() {
     "hotelMinCharge": 8300,
     "address1": "静岡県",
     "address2": "賀茂郡西伊豆町仁科2960",
-    "telephoneNo": "0558-52-0275",
+    "telephoneNo": "75",
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8784/8784.jpg",
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8784/8784_room.jpg",
     "reviewCount": 1633,
     "reviewAverage": 3.87,
-    "userReview": "スタッフの親切な対応と温泉に大満足入口で荷物を降ろしていたらすぐにフロントの方がきてくれカートを貸してくれました とても親切で助かりました温泉用のバックも便利温泉の効能が劇的に良くリラ…　 ",
+    "userReview": "スタッフの親切な対応と温泉に大満足入口で荷物を降ろしていたらすぐにフロントの方がきてくれカートを貸してくれました とても親切で助かりました温泉用のバックも便利温泉の効能が劇的に良くリラ。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8784%2F8784.html",
     "access": "JR特急踊り子号で伊豆急下田駅下車　路線バスで約60分",
     "label": "静岡県西伊豆町ふるさと納税・青の洞窟と天然記念物の天窓「堂ヶ島天窓洞」堂ヶ島温泉ホテル",
@@ -64,7 +64,7 @@ export default function Page() {
     "roomImageUrl": "",
     "reviewCount": 443,
     "reviewAverage": 4.48,
-    "userReview": "地元の食材を使ったバイキングと接客に大満足バイキングは地元の野菜、美味しいお肉、デザート等があり大変満足でした。ホテルのスタッフの方もいい方が多く、気持ちよく宿泊することが出来ました。クチ…　 ",
+    "userReview": "地元の食材を使ったバイキングと接客に大満足バイキングは地元の野菜、美味しいお肉、デザート等があり大変満足でした。ホテルのスタッフの方もいい方が多く、気持ちよく宿泊することが出来ました。クチ。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183099%2F183099.html",
     "access": "「福岡空港」より「筑肥線(波多江駅)」で降り、タクシーで7分",
     "label": "福岡県糸島市ふるさと納税・日本最大の玄武岩柱状節理海食洞「芥屋の大門」糸島美食リゾートステイ",
@@ -85,12 +85,12 @@ export default function Page() {
     "hotelMinCharge": 10300,
     "address1": "佐賀県",
     "address2": "唐津市東唐津4-182",
-    "telephoneNo": "0955-75-3300",
+    "telephoneNo": "00",
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/52129/52129.jpg",
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/52129/52129_you1.jpg",
     "reviewCount": 2445,
     "reviewAverage": 4.6,
-    "userReview": "カブトムシカブトムシをオス・メスペアで頂き、息子が喜んで今も飼育しています。海は荒れていましたが、プールで沢山遊べました。ありがとう御座いました。クチコミの詳細はこちらから　https…　 ",
+    "userReview": "カブトムシカブトムシをオス・メスペアで頂き、息子が喜んで今も飼育しています。海は荒れていましたが、プールで沢山遊べました。ありがとう御座いました。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52129%2F52129.html",
     "access": "ＪＲ　東唐津駅より車にて約３分",
     "label": "佐賀県唐津市ふるさと納税・荒波が穿った七つの神秘の洞門「屋形石の七ツ釜」唐津シーサイド温泉リゾート",
@@ -169,7 +169,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「堂ヶ島唯一の自家源泉掛流宿 堂ヶ島温泉ホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「堂ヶ島唯一の自家源泉掛流宿 堂ヶ島温泉ホテル」へは、JR特急踊り子号で伊豆急下田駅下車 路線バスで約60分。最寄りの修善寺駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「堂ヶ島唯一の自家源泉掛流宿 堂ヶ島温泉ホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「堂ヶ島唯一の自家源泉掛流宿 堂ヶ島温泉ホテル」は『東海バスフリーきっぷまたは西伊豆特急・快速バスの乗車券をご提示で2500円キャッシュバック』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「堂ヶ島唯一の自家源泉掛流宿 堂ヶ島温泉ホテル」と「グローカルホテル糸島」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「堂ヶ島唯一の自家源泉掛流宿 堂ヶ島温泉ホテル。」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「堂ヶ島唯一の自家源泉掛流宿 堂ヶ島温泉ホテル。」へは、JR特急踊り子号で伊豆急下田駅下車 路線バスで約60分。最寄りの修善寺駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「堂ヶ島唯一の自家源泉掛流宿 堂ヶ島温泉ホテル。」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「堂ヶ島唯一の自家源泉掛流宿 堂ヶ島温泉ホテル。」は『東海バスフリーきっぷまたは西伊豆特急・快速バスの乗車券をご提示で2500円キャッシュバック。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「堂ヶ島唯一の自家源泉掛流宿 堂ヶ島温泉ホテル。」と「グローカルホテル糸島」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         
         {/* 特集の魅力セクション */}
@@ -432,9 +432,9 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 修善寺駅よりアクセス。JR特急踊り子号で伊豆急下田駅下車 路線バスで約60分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「堂ヶ島唯一の自家源泉掛流宿 堂ヶ島温泉ホテル」にチェックイン。東海バスフリーきっぷまたは西伊豆特急・快速バスの乗車券をご提示で2500円キャッシュバック♪などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「堂ヶ島唯一の自家源泉掛流宿 堂ヶ島温泉ホテル」の湯処へ。東海バスフリーきっぷまたは西伊豆特急・快速バスの乗車券をご提示で250とともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「堂ヶ島唯一の自家源泉掛流宿 堂ヶ島温泉ホテル」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「堂ヶ島唯一の自家源泉掛流宿 堂ヶ島温泉ホテル。」にチェックイン。東海バスフリーきっぷまたは西伊豆特急・快速バスの乗車券をご提示で2500円キャッシュバック♪などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「堂ヶ島唯一の自家源泉掛流宿 堂ヶ島温泉ホテル。」の湯処へ。東海バスフリーきっぷまたは西伊豆特急・快速バスの乗車券をご提示で250とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「堂ヶ島唯一の自家源泉掛流宿 堂ヶ島温泉ホテル。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -443,8 +443,8 @@ export default function Page() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「堂ヶ島唯一の自家源泉掛流宿 堂ヶ島温泉ホテル」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「堂ヶ島唯一の自家源泉掛流宿 堂ヶ島温泉ホテル」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「堂ヶ島唯一の自家源泉掛流宿 堂ヶ島温泉ホテル。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「堂ヶ島唯一の自家源泉掛流宿 堂ヶ島温泉ホテル。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「グローカルホテル糸島」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
@@ -462,20 +462,20 @@ export default function Page() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「堂ヶ島唯一の自家源泉掛流宿 堂ヶ島温泉ホテル」へのアクセスや移動方法について</span>
+                <span>Q. 「堂ヶ島唯一の自家源泉掛流宿 堂ヶ島温泉ホテル。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「堂ヶ島唯一の自家源泉掛流宿 堂ヶ島温泉ホテル」へは、JR特急踊り子号で伊豆急下田駅下車 路線バスで約60分。最寄りの修善寺駅からの経路案内も充実しています。
+                A. 「堂ヶ島唯一の自家源泉掛流宿 堂ヶ島温泉ホテル。」へは、JR特急踊り子号で伊豆急下田駅下車 路線バスで約60分。最寄りの修善寺駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「堂ヶ島唯一の自家源泉掛流宿 堂ヶ島温泉ホテル」の魅力や予約時のポイントは？</span>
+                <span>Q. 「堂ヶ島唯一の自家源泉掛流宿 堂ヶ島温泉ホテル。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「堂ヶ島唯一の自家源泉掛流宿 堂ヶ島温泉ホテル」は『東海バスフリーきっぷまたは西伊豆特急・快速バスの乗車券をご提示で2500円キャッシュバック』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「堂ヶ島唯一の自家源泉掛流宿 堂ヶ島温泉ホテル。」は『東海バスフリーきっぷまたは西伊豆特急・快速バスの乗車券をご提示で2500円キャッシュバック。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -484,7 +484,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「堂ヶ島唯一の自家源泉掛流宿 堂ヶ島温泉ホテル」と「グローカルホテル糸島」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「堂ヶ島唯一の自家源泉掛流宿 堂ヶ島温泉ホテル。」と「グローカルホテル糸島」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

@@ -39,8 +39,8 @@ export default function FurusatoArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-10T16:48:00+09:00',
-    dateModified: '2026-09-10T16:48:00+09:00',
+    datePublished: 'T16:48:00+09:00',
+    dateModified: 'T16:48:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-shima-onsen-retro-sekizenkan-stay',
   };
 
@@ -203,7 +203,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.62点、口コミ1100件超。「元禄の湯の雰囲気が素晴らしくタイムスリップした感動」「歴史ある建物と佳松亭の静かなお部屋、お料理の美味しさに大満足」と絶賛。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.62点、口コミ1100件超。「元禄の湯の雰囲気が素晴らしくタイムスリップした感動。」「歴史ある建物と佳松亭の静かなお部屋、お料理の美味しさに大満足。」と絶賛。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -287,7 +287,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.43点、口コミ2400件超。「川沿いのお風呂がとにかく最高でずっと入っていたかった」「女将さんの紙芝居も楽しく、お料理も美味しかった」と高評価。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.43点、口コミ2400件超。「川沿いのお風呂がとにかく最高でずっと入っていたかった。」「女将さんの紙芝居も楽しく、お料理も美味しかった。」と高評価。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.34点、口コミ2100件超。「七つのお風呂がどれも個性的で温泉好きにはたまらない」「森の中の露天風呂が静かで最高に癒やされた」と評判です。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.34点、口コミ2100件超。「七つのお風呂がどれも個性的で温泉好きにはたまらない。」「森の中の露天風呂が静かで最高に癒やされた。」と評判です。</p>
               </div>
 
               {/* 宿基本情報 */}

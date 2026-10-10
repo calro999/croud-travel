@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-12T16:15:00+09:00',
-    dateModified: '2026-09-12T16:15:00+09:00',
+    datePublished: 'T16:15:00+09:00',
+    dateModified: 'T16:15:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/beppu-kannawa-solo-retreat-jigokumushi-onsen-stay',
   };
 
@@ -77,7 +77,7 @@ export default function ArticlePage() {
           【別府鉄輪温泉・ひとり湯治おこもり】立ち上る湯けむり・名物地獄蒸し・源泉かけ流し大露天風呂！別府八湯の真髄を味わう厳選3宿
         </h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
-          <time dateTime="2026-09-12">2026.09.12 更新</time>
+          <time dateTime="">2026.09.12 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
         </div>
@@ -164,7 +164,7 @@ export default function ArticlePage() {
                 <span>🌟</span> ひとり滞在・出張で選ばれる理由
               </h3>
               <ul className="text-xs sm:text-sm text-stone-700 space-y-1.5">
-                    <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>2026年3月6日リニューアルオープン</span></li>
+                    <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>リニューアルオープン</span></li>
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>オールインクルーシブラウンジを備えた「竹籠リトリート空間」</span></li>
               </ul>
             </div>
@@ -423,8 +423,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 別府（大分）駅よりアクセス。ＪＲ別府駅より徒歩６分／高速道路別府ＩＣより５．３ｋｍ。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「別府温泉 竹と椿のお宿 花べっぷ」にチェックイン。2026年3月6日リニューアルオープン。オールインクルーシブラウンジを備えた「竹籠リトリート空間」などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「別府温泉 竹と椿のお宿 花べっぷ」の湯処へ。2026年3月6日リニューアルオープン。オールインクルーシブラウンジをとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「別府温泉 竹と椿のお宿 花べっぷ」にチェックイン。リニューアルオープン。オールインクルーシブラウンジを備えた「竹籠リトリート空間」などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「別府温泉 竹と椿のお宿 花べっぷ」の湯処へ。リニューアルオープン。オールインクルーシブラウンジをとともに、夕暮れの特別な寛ぎを満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「別府温泉 竹と椿のお宿 花べっぷ」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>

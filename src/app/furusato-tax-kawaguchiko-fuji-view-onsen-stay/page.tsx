@@ -39,8 +39,8 @@ export default function FurusatoArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-10T16:25:00+09:00',
-    dateModified: '2026-09-10T16:25:00+09:00',
+    datePublished: 'T16:25:00+09:00',
+    dateModified: 'T16:25:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-kawaguchiko-fuji-view-onsen-stay',
   };
 
@@ -49,7 +49,7 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「富士河口湖温泉 秀峰閣 湖月」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「富士河口湖温泉 秀峰閣 湖月」へは、富士急行線 河口湖駅より車で１０分。最寄りの河口湖駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「富士河口湖温泉 秀峰閣 湖月」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「富士河口湖温泉 秀峰閣 湖月」は『河口湖の北岸に建ち、全客室と露天風呂の正面から河口湖と富士山を望む宿』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「富士河口湖温泉 秀峰閣 湖月」と「富士河口湖温泉 若草の宿 丸栄」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「富士河口湖温泉 秀峰閣 湖月」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「富士河口湖温泉 秀峰閣 湖月」へは、富士急行線 河口湖駅より車で１０分。最寄りの河口湖駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「富士河口湖温泉 秀峰閣 湖月」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「富士河口湖温泉 秀峰閣 湖月」は『河口湖の北岸に建ち、全客室と露天風呂の正面から河口湖と富士山を望む宿。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「富士河口湖温泉 秀峰閣 湖月」と「富士河口湖温泉 若草の宿 丸栄」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -203,7 +203,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.76点の超高評価。「部屋からもお風呂からも富士山が目の前にドーンと見えて感動した」「スタッフの接客、湯上がりビール、料理すべてが満点」と圧倒的なリピート率。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.76点の超高評価。「部屋からもお風呂からも富士山が目の前にドーンと見えて感動した。」「スタッフの接客、湯上がりビール、料理すべてが満点。」と圧倒的なリピート率。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -287,7 +287,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.68点、口コミ1300件超。「最上階のお風呂から見た朝日に輝く富士山が忘れられない」「夕食がお部屋食でとても美味しく、接客も丁寧で素晴らしかった」と高い満足度。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.68点、口コミ1300件超。「最上階のお風呂から見た朝日に輝く富士山が忘れられない。」「夕食がお部屋食でとても美味しく、接客も丁寧で素晴らしかった。」と高い満足度。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.60点、口コミ1100件超。「スタッフ全員の気配りが素晴らしく、車椅子でも快適に過ごせた」「湖畔の立地が良く、富士山の眺望と料理も大満足」と高評価を得ています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.60点、口コミ1100件超。「スタッフ全員の気配りが素晴らしく、車椅子でも快適に過ごせた。」「湖畔の立地が良く、富士山の眺望と料理も大満足。」と高評価を得ています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -578,7 +578,7 @@ export default function FurusatoArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「富士河口湖温泉 秀峰閣 湖月」は『河口湖の北岸に建ち、全客室と露天風呂の正面から河口湖と富士山を望む宿』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「富士河口湖温泉 秀峰閣 湖月」は『河口湖の北岸に建ち、全客室と露天風呂の正面から河口湖と富士山を望む宿。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【11・12月！神戸イルミネーション＆1000万ドル夜景】有馬温泉金泉と神戸牛極上宿5選",
     "description": "11月〜12月にかけて街全体が光の芸術に包まれる神戸の冬！六甲山から見下ろす1000万ドルの夜景や神戸旧居留地のイルミネーションを満喫し、車で約30分の日本三古湯・有馬温泉の赤湯「金泉」と極上神戸牛ディナーに酔いしれる贅沢旅。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-    "datePublished": "2026-09-27T00:00:00+09:00",
-    "dateModified": "2026-09-27T00:00:00+09:00",
+    "datePublished": "T00:00:00+09:00",
+    "dateModified": "T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

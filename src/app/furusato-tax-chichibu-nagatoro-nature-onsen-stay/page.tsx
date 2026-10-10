@@ -62,7 +62,7 @@ export default function FurusatoChichibuNagatoroStayPage() {
           名勝岩畳と長瀞ライン下り！秩父・長瀞の横瀬川清流望む露天風呂＆創業190年美肌鉱泉・郷土会席名宿×ふるさと納税完全攻略ガイド【2026年最新】和どう・新木鉱泉・長生館
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-10">2026年9月10日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -77,7 +77,7 @@ export default function FurusatoChichibuNagatoroStayPage() {
           荒川の清流、天然記念物「岩畳」の迫力、秩父の山々に抱かれる静寂。都心から約80分で出会える秩父・長瀞の癒やし旅へ
         </h2>
         <p className="text-base md:text-lg text-gray-800 leading-relaxed mb-6">
-          池袋駅から西武特急ラビューでわずか約77分、都心から最も近い本格的な大自然郷「埼玉県・秩父（ちちぶ）・長瀞（ながとろ）」。国指定の名勝・天然記念物である「長瀞岩畳」の雄大な岩壁や、船頭の竿さばきで荒川の急流を下る「長瀞ライン下り」、パワースポットとして名高い「三峯神社」「秩父神社」「宝登山神社」の秩父三社巡りなど、四季折々の絶景と歴史文化がぎゅっと凝縮された大人気観光エリアです。秩父・長瀞の宿の魅力は、清らかな川のせせらぎに包まれる絶景露天風呂と、古くから湯治場として愛されてきた良質な温泉・鉱泉。日本通貨発祥の地「和同開珎」ゆかりの「薬師の湯」や、創業百九十余年の歴史を持ち「卵水」と呼ばれるトロトロの美肌鉱泉は、日々の疲れを心地よく解きほぐしてくれます。さらに食の魅力も豊富。清流で育った鮎や岩魚の塩焼き、秩父名物の豚みそ漬け焼き、滋味あふれるきのこ鍋、長瀞名物の天然氷のかき氷や流しそうめんなど、里山の温もりあふれる郷土会席が旅人の心とお腹を満たします。本特集では、日本最古の通貨・和同開珎が発掘された聖地に佇み横瀬川の清流を望む露天風呂が評判の「和銅鉱泉 薬師の湯 ゆの宿 和どう」、江戸時代文政十年創業・トロリとした美肌の湯と囲炉裏料理が愛される「秩父七湯 新木鉱泉旅館」、そして長瀞渓谷と名勝岩畳を客室や庭園から一望できる創業大正四年の老舗「長瀞温泉 花のおもてなし 長生館」の3大名宿を厳選。埼玉県秩父市・長瀞町への楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円で秩父・長瀞の癒やし旅をお得に予約しましょう。
+          池袋駅から西武特急ラビューでわずか約77分、都心から最も近い本格的な大自然郷「埼玉県・秩父（ちちぶ）・長瀞（ながとろ）。」。国指定の名勝・天然記念物である「長瀞岩畳」の雄大な岩壁や、船頭の竿さばきで荒川の急流を下る「長瀞ライン下り」、パワースポットとして名高い「三峯神社」「秩父神社」「宝登山神社」の秩父三社巡りなど、四季折々の絶景と歴史文化がぎゅっと凝縮された大人気観光エリアです。秩父・長瀞の宿の魅力は、清らかな川のせせらぎに包まれる絶景露天風呂と、古くから湯治場として愛されてきた良質な温泉・鉱泉。日本通貨発祥の地「和同開珎」ゆかりの「薬師の湯」や、創業百九十余年の歴史を持ち「卵水」と呼ばれるトロトロの美肌鉱泉は、日々の疲れを心地よく解きほぐしてくれます。さらに食の魅力も豊富。清流で育った鮎や岩魚の塩焼き、秩父名物の豚みそ漬け焼き、滋味あふれるきのこ鍋、長瀞名物の天然氷のかき氷や流しそうめんなど、里山の温もりあふれる郷土会席が旅人の心とお腹を満たします。本特集では、日本最古の通貨・和同開珎が発掘された聖地に佇み横瀬川の清流を望む露天風呂が評判の「和銅鉱泉 薬師の湯 ゆの宿 和どう」、江戸時代文政十年創業・トロリとした美肌の湯と囲炉裏料理が愛される「秩父七湯 新木鉱泉旅館」、そして長瀞渓谷と名勝岩畳を客室や庭園から一望できる創業大正四年の老舗「長瀞温泉 花のおもてなし 長生館」の3大名宿を厳選。埼玉県秩父市・長瀞町への楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円で秩父・長瀞の癒やし旅をお得に予約しましょう。
         </p>
         <div className="bg-white/90 rounded-xl p-4 md:p-5 border border-amber-300 shadow-sm">
           <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5">
@@ -164,7 +164,7 @@ export default function FurusatoChichibuNagatoroStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “ここ数年で一番の満足度、ぜひ再訪したい大変、大変満足できました。関東近県あちこちに泊まっていますが、この料金でこの内容、ここ数年で一番の満足度を味わいました。送迎バスから親切で丁寧。ついて…　2026-09-04 13:07:20投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “ここ数年で一番の満足度、ぜひ再訪したい大変、大変満足できました。関東近県あちこちに泊まっていますが、この料金でこの内容、ここ数年で一番の満足度を味わいました。送迎バスから親切で丁寧。ついて… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -206,7 +206,7 @@ export default function FurusatoChichibuNagatoroStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “露天風呂のお湯は最高、洗い場がないのが残念露天風呂付の部屋に宿泊しました。お湯はとても良く、風呂から出た後は顔も体もスベスベとなり、とても満足しました。ただ洗い場がなかった点は残念でした。…　2026-09-05 14:00:15投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “露天風呂のお湯は最高、洗い場がないのが残念露天風呂付の部屋に宿泊しました。お湯はとても良く、風呂から出た後は顔も体もスベスベとなり、とても満足しました。ただ洗い場がなかった点は残念でした。… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -248,7 +248,7 @@ export default function FurusatoChichibuNagatoroStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “家族で大満足、温泉も食事も最高でしたウッドテラス付のお部屋に家族5人で一泊しました。スタッフの方の対応もよく、お部屋も温泉も晩ごはんも最高でした。朝ごはんのできたて豆腐は長男が美味しいとよく食べて…　2026-08-27 12:35:51投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “家族で大満足、温泉も食事も最高でしたウッドテラス付のお部屋に家族5人で一泊しました。スタッフの方の対応もよく、お部屋も温泉も晩ごはんも最高でした。朝ごはんのできたて豆腐は長男が美味しいとよく食べて… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -323,7 +323,7 @@ export default function FurusatoChichibuNagatoroStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

@@ -37,8 +37,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-13T00:00:00+09:00',
-    dateModified: '2026-09-13T00:00:00+09:00',
+    datePublished: 'T00:00:00+09:00',
+    dateModified: 'T00:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/sapporo-susukino-solo-business-sauna-stay',
   };
 
@@ -76,7 +76,7 @@ export default function ArticlePage() {
           【札幌すすきの出張・サウナステイ】サウナ付大浴場・すすきの徒歩すぐ・朝食海鮮丼！北の歓楽街ビジネスを格上げする厳選3宿
         </h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
-          <time dateTime="2026-09-13">2026.09.13 更新</time>
+          <time dateTime="">2026.09.13 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
         </div>
@@ -398,9 +398,9 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> すすきの駅よりアクセス。すすきの駅より徒歩にて約４分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「ベッセルホテルカンパーナすすきの｜サウナ付大浴場」にチェックイン。旅の疲れを癒してくれるサウナ付き大浴場完備。すすきの駅から徒歩４分の好立地などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「ベッセルホテルカンパーナすすきの｜サウナ付大浴場」の湯処へ。旅の疲れを癒してくれるサウナ付き大浴場完備。すすきの駅から徒歩４分の好とともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「ベッセルホテルカンパーナすすきの｜サウナ付大浴場」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「ベッセルホテルカンパーナすすきの｜サウナ付大浴場。」にチェックイン。旅の疲れを癒してくれるサウナ付き大浴場完備。すすきの駅から徒歩４分の好立地などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「ベッセルホテルカンパーナすすきの｜サウナ付大浴場。」の湯処へ。旅の疲れを癒してくれるサウナ付き大浴場完備。すすきの駅から徒歩４分の好とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「ベッセルホテルカンパーナすすきの｜サウナ付大浴場。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -409,8 +409,8 @@ export default function ArticlePage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ベッセルホテルカンパーナすすきの｜サウナ付大浴場」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「ベッセルホテルカンパーナすすきの｜サウナ付大浴場」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ベッセルホテルカンパーナすすきの｜サウナ付大浴場。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「ベッセルホテルカンパーナすすきの｜サウナ付大浴場。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は北海道札幌市中央区南五条西6-16-1の観光名所や特産品店へ立ち寄り。旅の思い出を胸に大満足で帰路へ。</li>
               </ul>
             </div>

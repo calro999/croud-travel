@@ -66,7 +66,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 mt-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「新見 グランドホテルみよしや」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「新見 グランドホテルみよしや」へは、『JR新見駅』より徒歩1分、中国道『新見IC』より1km。最寄りの新見駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「新見 グランドホテルみよしや」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「新見 グランドホテルみよしや」は『新見駅に１番近く、岡山県新見市の中心にありビジネスにも観光にも 洋室はシモンズベッドにデュ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「新見 グランドホテルみよしや」と「磐梯熱海温泉 ホテル華の湯」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「新見 グランドホテルみよしや」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「新見 グランドホテルみよしや」へは、『JR新見駅』より徒歩1分、中国道『新見IC』より1km。最寄りの新見駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「新見 グランドホテルみよしや」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「新見 グランドホテルみよしや」は『新見駅に１番近く、岡山県新見市の中心にありビジネスにも観光にも 洋室はシモンズベッドにデュ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「新見 グランドホテルみよしや」と「磐梯熱海温泉 ホテル華の湯」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* Intro Lead */}
         <section className="bg-slate-900/90 border border-slate-800 rounded-3xl p-6 sm:p-8 backdrop-blur shadow-2xl">
@@ -483,7 +483,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「新見 グランドホテルみよしや」は『新見駅に１番近く、岡山県新見市の中心にありビジネスにも観光にも 洋室はシモンズベッドにデュ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「新見 グランドホテルみよしや」は『新見駅に１番近く、岡山県新見市の中心にありビジネスにも観光にも 洋室はシモンズベッドにデュ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

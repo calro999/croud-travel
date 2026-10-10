@@ -49,7 +49,7 @@ export default function FurusatoRound62ArticlePage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「日本の山岳温泉リゾート 新玉川温泉」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「日本の山岳温泉リゾート 新玉川温泉」へは、カーナビを設定の場合、電話0187-58-3100でお願いします。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「日本の山岳温泉リゾート 新玉川温泉」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「日本の山岳温泉リゾート 新玉川温泉」は上質な客室空間とおもてなしが旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「日本の山岳温泉リゾート 新玉川温泉」と「三朝温泉 依山楼 岩崎」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「日本の山岳温泉リゾート 新玉川温泉」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「日本の山岳温泉リゾート 新玉川温泉」へは、カーナビを設定の場合、電話00でお願いします。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「日本の山岳温泉リゾート 新玉川温泉」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「日本の山岳温泉リゾート 新玉川温泉」は上質な客室空間とおもてなしが旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「日本の山岳温泉リゾート 新玉川温泉」と「三朝温泉 依山楼 岩崎」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -190,11 +190,11 @@ export default function FurusatoRound62ArticlePage() {
                     日本の山岳温泉リゾート　新玉川温泉
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「ファミリーなら新玉川、食事重視なら玉川温泉新玉川温泉と玉川温泉の両方に宿泊しました。ファミリーで利用するなら、新玉川温泉のほうが過ごしやすい印象です。両施設を行き来できるバスもあるので、温… 2026-09-06 01:34:47投稿 つづきはこちら…」
+                    「ファミリーなら新玉川、食事重視なら玉川温泉新玉川温泉と玉川温泉の両方に宿泊しました。ファミリーで利用するなら、新玉川温泉のほうが過ごしやすい印象です。両施設を行き来できるバスもあるので、温…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
-                    <div><strong>アクセス:</strong> カーナビを設定の場合、電話0187-58-3100でお願いします。</div>
+                    <div><strong>アクセス:</strong> カーナビを設定の場合、電話00でお願いします。</div>
                     <div><strong>参考宿泊料金:</strong> 1名あたり約14,107円〜（時期・プランによる）</div>
                   </div>
                 </div>
@@ -245,7 +245,7 @@ export default function FurusatoRound62ArticlePage() {
                     三朝温泉　依山楼　岩崎
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「家族旅行家族旅行で利用しました。高齢の両親も快適に過ごすことが出来る素敵な旅館でした。お部屋の露天風呂も最高で、食事を含めとても良い時が過ごせました。クチコミの詳細はこちらから https:/… 2026-09-01 17:01:14投稿 つづきはこちら…」
+                    「家族旅行家族旅行で利用しました。高齢の両親も快適に過ごすことが出来る素敵な旅館でした。お部屋の露天風呂も最高で、食事を含めとても良い時が過ごせました。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -300,7 +300,7 @@ export default function FurusatoRound62ArticlePage() {
                     草津温泉　奈良屋
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「食事はどの料理も美味しかったです目の前で握っていただけるお寿司も良いパフォーマンスですね部屋にある冷蔵庫に飲みかけの水(部屋に置いてあるペットボトルと同じもの)が入っていたので 前のお客さ… 2026-09-05 17:17:57投稿 つづきはこちら…」
+                    「食事はどの料理も美味しかったです目の前で握っていただけるお寿司も良いパフォーマンスですね部屋にある冷蔵庫に飲みかけの水(部屋に置いてあるペットボトルと同じもの)が入っていたので 前のお客さ…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -419,7 +419,7 @@ export default function FurusatoRound62ArticlePage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">14:00〜</strong> カーナビを設定の場合、電話0187-58-3100でお願いしますで現地へ到着。</li>
+                <li>・<strong className="text-stone-800">14:00〜</strong> カーナビを設定の場合、電話00でお願いしますで現地へ到着。</li>
                 <li>・<strong className="text-stone-800">15:30〜</strong> 「日本の山岳温泉リゾート 新玉川温泉」へチェックイン。落ち着いた空間で旅の荷を解き、ゆったりとした時間をスタート。</li>
                 <li>・<strong className="text-stone-800">17:00〜</strong> 「日本の山岳温泉リゾート 新玉川温泉」の湯処へ。日頃の疲れを癒やす湯浴みとともに、夕暮れの特別な寛ぎを満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「日本の山岳温泉リゾート 新玉川温泉」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
@@ -454,7 +454,7 @@ export default function FurusatoRound62ArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「日本の山岳温泉リゾート 新玉川温泉」へは、カーナビを設定の場合、電話0187-58-3100でお願いします。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。
+                A. 「日本の山岳温泉リゾート 新玉川温泉」へは、カーナビを設定の場合、電話00でお願いします。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

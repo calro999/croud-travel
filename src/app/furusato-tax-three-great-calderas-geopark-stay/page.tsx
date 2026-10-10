@@ -33,12 +33,12 @@ export default function Page() {
     "hotelMinCharge": 7000,
     "address1": "熊本県",
     "address2": "阿蘇市内牧1287",
-    "telephoneNo": "0967-32-0711",
+    "telephoneNo": "11",
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/44868/44868.jpg",
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/44868/44868_wa.jpg",
     "reviewCount": 541,
     "reviewAverage": 3.99,
-    "userReview": "懐石料理は豪華で美味、温泉も快適建物の古さは感じますが清潔感があり快適に過ごすことが出来ました。夕飯の懐石が豪華で大変美味しかったですが、小学三年生の息子には量が多かったため、柔軟に対応しても…　 ",
+    "userReview": "懐石料理は豪華で美味、温泉も快適建物の古さは感じますが清潔感があり快適に過ごすことが出来ました。夕飯の懐石が豪華で大変美味しかったですが、小学三年生の息子には量が多かったため、柔軟に対応しても。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F44868%2F44868.html",
     "access": "ＪＲ阿蘇駅よりバスにて１０分",
     "label": "熊本県阿蘇市ふるさと納税・世界屈指の巨大カルデラと大草原「阿蘇カルデラ」阿蘇内牧温泉阿蘇プラザホテル",
@@ -59,16 +59,16 @@ export default function Page() {
     "hotelMinCharge": 24597,
     "address1": "神奈川県",
     "address2": "足柄下郡箱根町元箱根桃源台160",
-    "telephoneNo": "0460-83-8739",
+    "telephoneNo": "39",
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/162650/162650.jpg",
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/162650/162650_kan1.jpg",
     "reviewCount": 1483,
     "reviewAverage": 4.38,
-    "userReview": "芦ノ湖の絶景と充実のビュッフェに大満足部屋からの芦ノ湖の景色が良く、ビュッフェも充実していて美味しかったです。従業員の方の対応も良く、機会があればまた訪れたいです。クチコミの詳細はこちらから　…　 ",
+    "userReview": "芦ノ湖の絶景と充実のビュッフェに大満足部屋からの芦ノ湖の景色が良く、ビュッフェも充実していて美味しかったです。従業員の方の対応も良く、機会があればまた訪れたいです。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F162650%2F162650.html",
     "access": "桃源台駅より徒歩にて約2分",
     "label": "神奈川県箱根町ふるさと納税・複合成層カルデラと霊峰富士の絶景「箱根カルデラ」芦ノ湖はなをり",
-    "themeTitle": "神奈川県箱根町ふるさと納税：芦ノ湖のカルデラ水面と一体化する水盤テラス「箱根・芦ノ湖 はなをり（オリックスホテルズ＆リゾーツ）」",
+    "themeTitle": "神奈川県箱根町ふるさと納税：芦ノ湖のカルデラ水面と一体化する水盤テラス「箱根・芦ノ湖 はなをり（オリックスホテルズ＆リゾーツ）。」",
     "themeDesc": "芦ノ湖畔に佇み、カルデラ湖を見渡すオープンエアの水盤テラスや足湯が象徴的なモダン温泉リゾート。芦ノ湖を望む展望露天風呂や、二十四節気をテーマにした彩り豊かなブッフェダイニングで優雅な箱根の休日を演出します。",
     "revAvg": "4.4",
     "minCharge": "24,597"
@@ -90,7 +90,7 @@ export default function Page() {
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15401/15401_room.jpg",
     "reviewCount": 950,
     "reviewAverage": 3.95,
-    "userReview": "お湯最高、星空も綺麗お湯が気持ちよかったです。特にいろんな種類があるというわけではないですが、すごく入りやすい。家族旅行でしたが、ご飯も美味しく、札幌から車で長旅した甲斐がありました。星空も見えた…　 ",
+    "userReview": "お湯最高、星空も綺麗お湯が気持ちよかったです。特にいろんな種類があるというわけではないですが、すごく入りやすい。家族旅行でしたが、ご飯も美味しく、札幌から車で長旅した甲斐がありました。星空も見えた。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15401%2F15401.html",
     "access": "ＪＲ釧網本線摩周駅からタクシーで２５分・事前予約制送迎バス有（4月～11月迄）／女満別空港から車で５０分",
     "label": "北海道弟子屈町ふるさと納税・日本最大のカルデラ湖と雲海摩周ブルー「屈斜路・摩周カルデラ」屈斜路プリンスホテル",
@@ -169,7 +169,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「阿蘇内牧温泉 阿蘇プラザホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「阿蘇内牧温泉 阿蘇プラザホテル」へは、ＪＲ阿蘇駅よりバスにて１０分。最寄りの阿蘇駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「阿蘇内牧温泉 阿蘇プラザホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「阿蘇内牧温泉 阿蘇プラザホテル」は『人気の展望露天風呂から阿蘇のパノラマビューを満喫！旬の会席を堪能♪』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「阿蘇内牧温泉 阿蘇プラザホテル」と「箱根・芦ノ湖 はなをり」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「阿蘇内牧温泉 阿蘇プラザホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「阿蘇内牧温泉 阿蘇プラザホテル」へは、ＪＲ阿蘇駅よりバスにて１０分。最寄りの阿蘇駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「阿蘇内牧温泉 阿蘇プラザホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「阿蘇内牧温泉 阿蘇プラザホテル」は『人気の展望露天風呂から阿蘇のパノラマビューを満喫！旬の会席を堪能♪。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「阿蘇内牧温泉 阿蘇プラザホテル」と「箱根・芦ノ湖 はなをり」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         
         {/* 特集の魅力セクション */}
@@ -475,7 +475,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「阿蘇内牧温泉 阿蘇プラザホテル」は『人気の展望露天風呂から阿蘇のパノラマビューを満喫！旬の会席を堪能♪』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「阿蘇内牧温泉 阿蘇プラザホテル」は『人気の展望露天風呂から阿蘇のパノラマビューを満喫！旬の会席を堪能♪。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

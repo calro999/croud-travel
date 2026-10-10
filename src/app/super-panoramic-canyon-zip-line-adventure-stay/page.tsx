@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【爽快アクティビティ】森と渓谷を空中滑走ジップライン！自然体験＆温泉が楽しめる大自然リゾート宿5選",
     "description": "大自然の渓谷や森林の上空を一気に滑走するメガジップライン！爽快なアドベンチャー体験と、疲れた体を癒やす天然温泉・絶景露天風呂を兼ね備えた人気リゾートホテルを厳選紹介。カップルやファミリーにも最適！",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-    "datePublished": "2026-03-27T00:00:00+09:00",
-    "dateModified": "2026-03-27T00:00:00+09:00",
+    "datePublished": "T00:00:00+09:00",
+    "dateModified": "T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",
@@ -153,7 +153,7 @@ export default function FeaturePage() {
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「那須温泉 ホテルサンバレー那須」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「那須温泉 ホテルサンバレー那須」へは、那須塩原駅西口よりホテルまで無料バスにて約40分 要予約 、東北自動車道那須ICより「那須街道」を湯本方面へ約20分。最寄りの黒磯駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「那須温泉 ホテルサンバレー那須」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「那須温泉 ホテルサンバレー那須」は『那須高原の中腹に9の宿泊施設がある北関東最大級の温泉リゾートホテル♪夏休みは温泉プールも営』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「那須温泉 ホテルサンバレー那須」では季節ごとに異なる宿泊プランや料理プランが用意されています。ご旅行の人数や滞在スタイルに合わせて最適なプランをお選びいただけます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「那須温泉 ホテルサンバレー那須」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「那須温泉 ホテルサンバレー那須」へは、那須塩原駅西口よりホテルまで無料バスにて約40分 要予約 、東北自動車道那須ICより「那須街道」を湯本方面へ約20分。最寄りの黒磯駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「那須温泉 ホテルサンバレー那須」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「那須温泉 ホテルサンバレー那須」は『那須高原の中腹に9の宿泊施設がある北関東最大級の温泉リゾートホテル♪夏休みは温泉プールも営。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「那須温泉 ホテルサンバレー那須」では季節ごとに異なる宿泊プランや料理プランが用意されています。ご旅行の人数や滞在スタイルに合わせて最適なプランをお選びいただけます。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -380,7 +380,7 @@ export default function FeaturePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「那須温泉 ホテルサンバレー那須」は『那須高原の中腹に9の宿泊施設がある北関東最大級の温泉リゾートホテル♪夏休みは温泉プールも営』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「那須温泉 ホテルサンバレー那須」は『那須高原の中腹に9の宿泊施設がある北関東最大級の温泉リゾートホテル♪夏休みは温泉プールも営。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

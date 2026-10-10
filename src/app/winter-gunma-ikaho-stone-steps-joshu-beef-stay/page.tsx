@@ -48,8 +48,8 @@ export default function IkahoWinterPage() {
         "headline": "【11・12月伊香保温泉の初冬散策】365段の石段街と黄金の湯・上州牛会席を味わう名旅館5選",
         "description": "11月から12月にかけて榛名山の澄み切った初冬の空気に包まれる群馬・伊香保温泉。365段の風情ある石段街に灯る温かな提灯、鉄分を豊富に含み体を芯から温める茶褐色の「黄金の湯」と柔らかな「白銀の湯」。とろける上州牛のすき焼きや名物水沢うどんの美食を堪能する極上冬旅ガイド。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
-        "datePublished": "2026-09-27T00:00:00+09:00",
-        "dateModified": "2026-09-27T00:00:00+09:00",
+        "datePublished": "T00:00:00+09:00",
+        "dateModified": "T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

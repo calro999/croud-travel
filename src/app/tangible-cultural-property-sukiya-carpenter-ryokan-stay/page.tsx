@@ -44,7 +44,7 @@ export default function Page() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「修善寺温泉 国の登録文化財の宿 新井旅館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「修善寺温泉 国の登録文化財の宿 新井旅館」へは、伊豆箱根鉄道線 修善寺駅よりバスまたはタクシーで10分／東名・新東名高速 沼津ICより伊豆縦貫道経由45分。最寄りの修善寺駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「修善寺温泉 国の登録文化財の宿 新井旅館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「修善寺温泉 国の登録文化財の宿 新井旅館」は『ミシュランで二つ星の竹林の小径まで徒歩2分、修善寺温泉の中心で観光に便利です』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「修善寺温泉 国の登録文化財の宿 新井旅館」と「法師温泉 長寿館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「修善寺温泉 国の登録文化財の宿 新井旅館。」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「修善寺温泉 国の登録文化財の宿 新井旅館。」へは、伊豆箱根鉄道線 修善寺駅よりバスまたはタクシーで10分／東名・新東名高速 沼津ICより伊豆縦貫道経由45分。最寄りの修善寺駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「修善寺温泉 国の登録文化財の宿 新井旅館。」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「修善寺温泉 国の登録文化財の宿 新井旅館。」は『ミシュランで二つ星の竹林の小径まで徒歩2分、修善寺温泉の中心で観光に便利です。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「修善寺温泉 国の登録文化財の宿 新井旅館。」と「法師温泉 長寿館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         {/* パンくずリスト */}
@@ -405,9 +405,9 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 修善寺駅よりアクセス。伊豆箱根鉄道線 修善寺駅よりバスまたはタクシーで10分／東名・新東名高速 沼津ICより伊豆縦貫道経由45分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「修善寺温泉 国の登録文化財の宿 新井旅館」にチェックイン。ミシュランで二つ星の竹林の小径まで徒歩2分、修善寺温泉の中心で観光に便利ですなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「修善寺温泉 国の登録文化財の宿 新井旅館」の湯処へ。ミシュランで二つ星の竹林の小径まで徒歩2分、修善寺温泉の中心で観光に便とともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「修善寺温泉 国の登録文化財の宿 新井旅館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「修善寺温泉 国の登録文化財の宿 新井旅館。」にチェックイン。ミシュランで二つ星の竹林の小径まで徒歩2分、修善寺温泉の中心で観光に便利ですなどの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「修善寺温泉 国の登録文化財の宿 新井旅館。」の湯処へ。ミシュランで二つ星の竹林の小径まで徒歩2分、修善寺温泉の中心で観光に便とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「修善寺温泉 国の登録文化財の宿 新井旅館。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -416,8 +416,8 @@ export default function Page() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「修善寺温泉 国の登録文化財の宿 新井旅館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「修善寺温泉 国の登録文化財の宿 新井旅館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「修善寺温泉 国の登録文化財の宿 新井旅館。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「修善寺温泉 国の登録文化財の宿 新井旅館。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「法師温泉 長寿館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
@@ -435,20 +435,20 @@ export default function Page() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「修善寺温泉 国の登録文化財の宿 新井旅館」へのアクセスや移動方法について</span>
+                <span>Q. 「修善寺温泉 国の登録文化財の宿 新井旅館。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「修善寺温泉 国の登録文化財の宿 新井旅館」へは、伊豆箱根鉄道線 修善寺駅よりバスまたはタクシーで10分／東名・新東名高速 沼津ICより伊豆縦貫道経由45分。最寄りの修善寺駅からの経路案内も充実しています。
+                A. 「修善寺温泉 国の登録文化財の宿 新井旅館。」へは、伊豆箱根鉄道線 修善寺駅よりバスまたはタクシーで10分／東名・新東名高速 沼津ICより伊豆縦貫道経由45分。最寄りの修善寺駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「修善寺温泉 国の登録文化財の宿 新井旅館」の魅力や予約時のポイントは？</span>
+                <span>Q. 「修善寺温泉 国の登録文化財の宿 新井旅館。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「修善寺温泉 国の登録文化財の宿 新井旅館」は『ミシュランで二つ星の竹林の小径まで徒歩2分、修善寺温泉の中心で観光に便利です』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「修善寺温泉 国の登録文化財の宿 新井旅館。」は『ミシュランで二つ星の竹林の小径まで徒歩2分、修善寺温泉の中心で観光に便利です。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -457,7 +457,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「修善寺温泉 国の登録文化財の宿 新井旅館」と「法師温泉 長寿館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「修善寺温泉 国の登録文化財の宿 新井旅館。」と「法師温泉 長寿館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

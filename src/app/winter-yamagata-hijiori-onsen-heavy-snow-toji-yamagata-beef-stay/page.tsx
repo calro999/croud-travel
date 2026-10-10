@@ -177,8 +177,8 @@ export default function WinterYamagataHijioriPage() {
         'description': "11月から12月にかけて、山形県大蔵村の出羽山地に抱かれたカルデラ盆地「肘折温泉（ひじおりおんせん）」は、日本屈指の豪雪地帯ならではの壮麗な白銀世界へと姿を変えます。西暦807年の開湯から1200年以上の歴史を刻むこの秘湯は、肘を折った老僧が湯に入って完治したという伝説から名付けられ、古くから湯治場として栄えてきました。銅山川沿いに木造三階建ての風情ある旅館がひしめき合い、降る雪の中に湯煙が立ち上る光景はまさに日本の原風景。炭酸水素塩泉や塩化物泉など豊富なメタケイ酸を含む名湯は「温まりの湯」「傷治りの湯」として親しまれ、雪冷えした身体を芯から解きほぐします。夕食には山形牛のすき焼きや陶板焼き、寒さが増すほど旨味を深める郷土の熱々芋煮鍋、最上地方の山の幸。雪深き静寂に包まれる肘折温泉で、本物の湯治情緒と温もりに浸る厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
         'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-yamagata-hijiori-onsen-heavy-snow-toji-yamagata-beef-stay',
-        'datePublished': '2026-09-29T00:00:00+09:00',
-        'dateModified': '2026-09-29T00:00:00+09:00',
+        'datePublished': 'T00:00:00+09:00',
+        'dateModified': 'T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
           'name': 'クラドトラベル編集部',

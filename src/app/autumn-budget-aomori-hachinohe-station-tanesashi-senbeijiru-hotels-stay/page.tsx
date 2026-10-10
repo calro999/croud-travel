@@ -78,7 +78,7 @@ export default function AutumnBudgetHotelsPage() {
             <div className="md:col-span-7 space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">司馬遼太郎が称賛した風景・白波が打ち寄せる岩礁と秋の海岸散歩</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-                種差海岸（たねさしかいがん）は、青森県八戸市東部の太平洋沿岸にある景勝地で、国の名勝に指定されています。三陸復興国立公園を代表するスポットで、波打ち際のすぐ際まで広がる広大な天然芝生地が最大の特徴。司馬遼太郎が「どこかの天体から人がやってきたら、真っ先に案内したい」と絶賛したことでも著名。秋には澄み渡る秋空と荒波の白、松林の緑が鮮やかなコントラストを描きます。
+                種差海岸（たねさしかいがん）は、青森県八戸市東部の太平洋沿岸にある景勝地で、国の名勝に指定されています。三陸復興国立公園を代表するスポットで、波打ち際のすぐ際まで広がる広大な天然芝生地が最大の特徴。司馬遼太郎が「どこかの天体から人がやってきたら、真っ先に案内したい。」と絶賛したことでも著名。秋には澄み渡る秋空と荒波の白、松林の緑が鮮やかなコントラストを描きます。
               </p>
               <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
                 <span>出典: フリー百科事典『ウィキペディア（Wikipedia）』</span>

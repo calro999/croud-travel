@@ -34,11 +34,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/11167/11167map.gif",
     "reviewCount": 772,
     "reviewAverage": 3.76,
-    "userReview": "絶景と露天風呂に癒やされ、心身ともにリラックスお部屋からの景色がとてもきれいで、ゆっくり過ごすことができました。特に露天風呂が気持ちよく、温泉を楽しみながらリラックスできたのが良かったです。スタッ…　2026-09-15 17:41:42投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=11167\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "絶景と露天風呂に癒やされ、心身ともにリラックスお部屋からの景色がとてもきれいで、ゆっくり過ごすことができました。特に露天風呂が気持ちよく、温泉を楽しみながらリラックスできたのが良かったです。スタッ。",
     "hotelMinCharge": 11000,
     "address1": "静岡県",
     "address2": "賀茂郡東伊豆町熱川1271",
-    "telephoneNo": "0557-23-2255",
+    "telephoneNo": "55",
     "access": "電車：伊豆急線・伊豆熱川駅から徒歩10分（送迎あり）／お車：東名高速・厚木IC→熱海（R135）→熱川温泉",
     "parkingInformation": "有り　１５台　無料",
     "nearestStation": "伊豆熱川",
@@ -84,11 +84,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/182811/182811map.gif",
     "reviewCount": 61,
     "reviewAverage": 4.77,
-    "userReview": "温泉の泉質は最高、スタッフの対応も親切口コミを見てホテル予約をしました。部屋の清掃が行き届いている、料理が美味しい、温泉が良い。概ねその通りで満足です。特に温泉は本当に泉質が良く何…　2026-08-04 17:10:27投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=182811\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "温泉の泉質は最高、スタッフの対応も親切口コミを見てホテル予約をしました。部屋の清掃が行き届いている、料理が美味しい、温泉が良い。概ねその通りで満足です。特に温泉は本当に泉質が良く何。",
     "hotelMinCharge": 39072,
     "address1": "和歌山県",
     "address2": "西牟婁郡白浜町椿1063-21",
-    "telephoneNo": "0739-33-2223",
+    "telephoneNo": "23",
     "access": "【お車の場合】：道の駅椿はなの湯から約２分【空港、電車等でお越しの場合】：無料の送迎サービスをご利用いただけます",
     "parkingInformation": "有り　15台　無料　予約不要",
     "nearestStation": "椿",
@@ -109,7 +109,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7805/7805map.gif",
     "reviewCount": 858,
     "reviewAverage": 4.12,
-    "userReview": "伊勢海老の船盛と朝食の不備が残念伊勢海老の船盛が伊勢海老は二切れでした。朝食はおかずの入っていない皿があり、交換してもらいました。残念クチコミの詳細はこちらから　https://rev…　2026-09-10 17:36:46投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=7805\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "朝食はおかずの入っていない皿があり、交換してもらいました。",
     "hotelMinCharge": 4800,
     "address1": "香川県",
     "address2": "小豆郡土庄町甲1135",
@@ -134,11 +134,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31209/31209map.gif",
     "reviewCount": 828,
     "reviewAverage": 3.66,
-    "userReview": "コスパ最高、料理も温泉も眺めも大満足コスパ最高すぎです 料理は美味しいし、お風呂も良い なんと言っても眺めが良いクチコミの詳細はこちらから　https://review.travel.raku…　2026-09-17 20:08:21投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=31209\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "コスパ最高、料理も温泉も眺めも大満足コスパ最高すぎです 料理は美味しいし、お風呂も良い なんと言っても眺めが良い。",
     "hotelMinCharge": 8000,
     "address1": "愛知県",
     "address2": "蒲郡市西浦町大山17-1",
-    "telephoneNo": "0533-57-2161",
+    "telephoneNo": "61",
     "access": "名鉄西浦駅より無料送迎バスで１０分（14：20～16：20）／音羽蒲郡ICより車で３０分／ラグーナまで車で３０分",
     "parkingInformation": "無料　１００台　先着順になります。",
     "nearestStation": "西浦",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「熱川温泉 絶景と露天風呂の宿 たかみホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「熱川温泉 絶景と露天風呂の宿 たかみホテル」へは、電車：伊豆急線・伊豆熱川駅から徒歩10分（送迎あり）／お車：東名高速・厚木IC→熱海（R135）→熱川温泉。最寄りの伊豆熱川駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「熱川温泉 絶景と露天風呂の宿 たかみホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「熱川温泉 絶景と露天風呂の宿 たかみホテル」は『展望露天を貸切風呂に 伊豆の海を望む源泉かけ流し天然温泉で、風情ある寛ぎを＜全室オーシャン』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「熱川温泉 絶景と露天風呂の宿 たかみホテル」と「海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「熱川温泉 絶景と露天風呂の宿 たかみホテル。」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「熱川温泉 絶景と露天風呂の宿 たかみホテル。」へは、電車：伊豆急線・伊豆熱川駅から徒歩10分（送迎あり）／お車：東名高速・厚木IC→熱海（R135）→熱川温泉。最寄りの伊豆熱川駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「熱川温泉 絶景と露天風呂の宿 たかみホテル。」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「熱川温泉 絶景と露天風呂の宿 たかみホテル。」は『展望露天を貸切風呂に 伊豆の海を望む源泉かけ流し天然温泉で、風情ある寛ぎを＜全室オーシャン。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「熱川温泉 絶景と露天風呂の宿 たかみホテル。」と「海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -584,9 +584,9 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 伊豆熱川駅よりアクセス。電車：伊豆急線・伊豆熱川駅から徒歩10分（送迎あり）／お車：東名高速・厚木IC→熱海（R135）→熱川温泉。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「熱川温泉 絶景と露天風呂の宿 たかみホテル」にチェックイン。展望露天を貸切風呂に 伊豆の海を望む源泉かけ流し天然温泉で、風情ある寛ぎを＜全室オーシャンビュー＞などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「熱川温泉 絶景と露天風呂の宿 たかみホテル」の湯処へ。展望露天を貸切風呂に 伊豆の海を望む源泉かけ流し天然温泉で、風情ある寛とともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「熱川温泉 絶景と露天風呂の宿 たかみホテル」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「熱川温泉 絶景と露天風呂の宿 たかみホテル。」にチェックイン。展望露天を貸切風呂に 伊豆の海を望む源泉かけ流し天然温泉で、風情ある寛ぎを＜全室オーシャンビュー＞などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「熱川温泉 絶景と露天風呂の宿 たかみホテル。」の湯処へ。展望露天を貸切風呂に 伊豆の海を望む源泉かけ流し天然温泉で、風情ある寛とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「熱川温泉 絶景と露天風呂の宿 たかみホテル。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -595,9 +595,9 @@ export default function FeatureDetailPage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「熱川温泉 絶景と露天風呂の宿 たかみホテル」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「熱川温泉 絶景と露天風呂の宿 たかみホテル」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「熱川温泉 絶景と露天風呂の宿 たかみホテル。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「熱川温泉 絶景と露天風呂の宿 たかみホテル。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -614,20 +614,20 @@ export default function FeatureDetailPage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「熱川温泉 絶景と露天風呂の宿 たかみホテル」へのアクセスや移動方法について</span>
+                <span>Q. 「熱川温泉 絶景と露天風呂の宿 たかみホテル。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「熱川温泉 絶景と露天風呂の宿 たかみホテル」へは、電車：伊豆急線・伊豆熱川駅から徒歩10分（送迎あり）／お車：東名高速・厚木IC→熱海（R135）→熱川温泉。最寄りの伊豆熱川駅からの経路案内も充実しています。
+                A. 「熱川温泉 絶景と露天風呂の宿 たかみホテル。」へは、電車：伊豆急線・伊豆熱川駅から徒歩10分（送迎あり）／お車：東名高速・厚木IC→熱海（R135）→熱川温泉。最寄りの伊豆熱川駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「熱川温泉 絶景と露天風呂の宿 たかみホテル」の魅力や予約時のポイントは？</span>
+                <span>Q. 「熱川温泉 絶景と露天風呂の宿 たかみホテル。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「熱川温泉 絶景と露天風呂の宿 たかみホテル」は『展望露天を貸切風呂に 伊豆の海を望む源泉かけ流し天然温泉で、風情ある寛ぎを＜全室オーシャン』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「熱川温泉 絶景と露天風呂の宿 たかみホテル。」は『展望露天を貸切風呂に 伊豆の海を望む源泉かけ流し天然温泉で、風情ある寛ぎを＜全室オーシャン。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -636,7 +636,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「熱川温泉 絶景と露天風呂の宿 たかみホテル」と「海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「熱川温泉 絶景と露天風呂の宿 たかみホテル。」と「海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

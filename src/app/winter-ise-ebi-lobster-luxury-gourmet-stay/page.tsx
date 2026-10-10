@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/winter-ise-ebi-lobster-luxury-gourmet-stay"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D40786%26f_flg%3DPLAN",
     "hotelMinCharge": 17600,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40786/40786.jpg",
-    "userReview": "食事も温泉も最高、また必ず行きたい宿夕食、朝食どちらも本当においしかったです。味が本当に良い主人は夕食で追加して頼んだだし巻き卵が今まで食べた中で1番美味しいと感動してました。どの料理も美味し過ぎ…　2026-09-19 20:36:38投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=40786\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "食事も温泉も最高、また必ず行きたい宿夕食、朝食どちらも本当においしかったです。味が本当に良い主人は夕食で追加して頼んだだし巻き卵が今まで食べた中で1番美味しいと感動してました。どの料理も美味し過ぎ。",
     "reviewAverage": 4.32,
     "reviewCount": 1232,
     "address": "佐賀県嬉野市嬉野町岩屋川内甲379",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D12599%26f_flg%3DPLAN",
     "hotelMinCharge": 12650,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/12599/12599.jpg",
-    "userReview": "素晴らしい景色と趣ある空間、食事も絶品部屋からの景色が素晴らしいです。食事も凝った内容で量が丁度いい感じです。趣がある宿です。クチコミの詳細はこちらから　https://review.trav…　2026-09-19 19:13:47投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=12599\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "素晴らしい景色と趣ある空間、食事も絶品部屋からの景色が素晴らしいです。食事も凝った内容で量が丁度いい感じです。趣がある宿です。",
     "reviewAverage": 4.62,
     "reviewCount": 1444,
     "address": "三重県三重郡菰野町菰野8585",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D15864%26f_flg%3DPLAN",
     "hotelMinCharge": 30800,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15864/15864.jpg",
-    "userReview": "部屋付き温泉と豪華な食事で大満足部屋に温泉がひいてあって、いつでも温泉を楽しめました。食事も豪華でした。値段分の価値を感じることができました。クチコミの詳細はこちらから　https://rev…　2026-09-16 16:22:28投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=15864\" class=\"3click\">つづきは���ちら</a>",
+    "userReview": "部屋付き温泉と豪華な食事で大満足部屋に温泉がひいてあって、いつでも温泉を楽しめました。食事も豪華でした。値段分の価値を感じることができました。",
     "reviewAverage": 4.78,
     "reviewCount": 666,
     "address": "長野県上田市別所温泉227",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D31822%26f_flg%3DPLAN",
     "hotelMinCharge": 8800,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31822/31822.jpg",
-    "userReview": "温泉の泉質が最高、食事も景色も大満足歴史がある宿、温泉の泉質が最高でした!!食事も高齢者には丁度良い量で美味しくいただきました。お部屋は角部屋で自然の景色で癒されました。また紅葉の季節にう…　2026-09-16 14:25:41投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=31822\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "温泉の泉質が最高、食事も景色も大満足歴史がある宿、温泉の泉質が最高でした!食事も高齢者には丁度良い量で美味しくいただきました。お部屋は角部屋で自然の景色で癒されました。また紅葉の季節にう。",
     "reviewAverage": 4.4,
     "reviewCount": 281,
     "address": "福島県いわき市常磐湯本町吹谷48",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D54665%26f_flg%3DPLAN",
     "hotelMinCharge": 18150,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/54665/54665.jpg",
-    "userReview": "食事は美味しかったが接客にがっかり古さはありますが清潔感は保たれています。部屋はリノベーションされていてきれいでしたが、ソファがいかにも古くて気になりました。お食事は美味しく、夜ごはんはお…　2026-08-28 09:12:54投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=54665\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "部屋はリノベーションされていてきれいでしたが、ソファがいかにも古くて気になりました。お食事は美味しく、夜ごはんはお。",
     "reviewAverage": 4.37,
     "reviewCount": 717,
     "address": "静岡県熱海市東海岸町9-11",
@@ -365,7 +365,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「嬉野温泉 旅館 吉田屋」は『新大浴場露天風呂＆テラス＆客室が誕生！日本宿TOP49・アワード8年連続受賞★ミシュラン３』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「嬉野温泉 旅館 吉田屋」は『新大浴場露天風呂＆テラス＆客室が誕生！日本宿TOP49・アワード8年連続受賞★ミシュラン３。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

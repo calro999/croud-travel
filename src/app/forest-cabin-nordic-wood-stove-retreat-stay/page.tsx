@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/forest-cabin-nordic-wood-stove-retreat-stay"
   };
 
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D136041%26f_flg%3DPLAN",
     "hotelMinCharge": 3500,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/136041/136041.jpg",
-    "userReview": "静かなコテージで仕事も休日も大満喫!静かなところで集中して仕事をしつつリラックスしたいな、、と思いこちらに宿泊しました。イメージどおりの素敵なコテージ!平日だったせいか大きめの棟を貸してく…　2026-09-17 17:44:13投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=136041\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "静かなコテージで仕事も休日も大満喫!静かなところで集中して仕事をしつつリラックスしたいな、、と思いこちらに宿泊しました。イメージどおりの素敵なコテージ!平日だったせいか大きめの棟を貸してく。",
     "reviewAverage": 4.62,
     "reviewCount": 83,
     "address": "長野県安曇野市穂高有明8953",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D7445%26f_flg%3DPLAN",
     "hotelMinCharge": 6690,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7445/7445.jpg",
-    "userReview": "チェックイン時の案内不足があったけれど、お食事とお風呂は大満足でした。自動チェックイン機で18時くらいにチェックインしたのですが、お風呂の時間、朝食の時間、朝食の場所など何もわかりませんでした。チ…　2026-09-19 10:53:36投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=7445\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "チェックイン時の案内不足があったけれど、お食事とお風呂は大満足でした。自動チェックイン機で18時くらいにチェックインしたのですが、お風呂の時間、朝食の時間、朝食の場所など何もわかりませんでした。チ。",
     "reviewAverage": 3.91,
     "reviewCount": 2640,
     "address": "長野県安曇野市穂高牧2230",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D166560%26f_flg%3DPLAN",
     "hotelMinCharge": 14230,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/166560/166560.jpg",
-    "userReview": "愛犬とのお部屋は清潔で眺めも最高!愛犬とはじめて宿泊しました。駐車場からのアクセスは急斜面と階段で少々きつかったです。外観は古めですがお部屋の中はとっても清潔で素敵なお部屋でし…　2026-09-15 23:57:20投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=166560\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "愛犬とのお部屋は清潔で眺めも最高!愛犬とはじめて宿泊しました。駐車場からのアクセスは急斜面と階段で少々きつかったです。外観は古めですがお部屋の中はとっても清潔で素敵なお部屋でし。",
     "reviewAverage": 3.94,
     "reviewCount": 142,
     "address": "長野県安曇野市穂高牧2230",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D196250%26f_flg%3DPLAN",
     "hotelMinCharge": 6200,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/196250/196250.jpg",
-    "userReview": "大人の隠れ家で過ごす、格別なコーヒータイム美瑛・富良野方面の観光のため、妻と2人で1泊させていただきました。3泊4日の行程の中で、1泊はコテージに泊まりたいと考えて探していたところ、一棟貸…　2026-09-19 19:44:07投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=196250\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "大人の隠れ家で過ごす、格別なコーヒータイム美瑛・富良野方面の観光のため、妻と2人で1泊させていただきました。3泊4日の行程の中で、1泊はコテージに泊まりたいと考えて探していたところ、一棟貸。",
     "reviewAverage": 4.81,
     "reviewCount": 83,
     "address": "北海道空知郡中富良野町東4線北14号",
@@ -322,9 +322,9 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 東白石駅から車で約２３分で現地へ到着。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「薪ストーブ付き貸切コテージ【千一の宿】－ ガイアリゾート ＾」へチェックイン。落ち着いた空間で旅の荷を解き、ゆったりとした時間をスタート。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「薪ストーブ付き貸切コテージ【千一の宿】－ ガイアリゾート ＾」の湯処へ。日頃の疲れを癒やす湯浴みとともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「薪ストーブ付き貸切コテージ【千一の宿】－ ガイアリゾート ＾」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「薪ストーブ付き貸切コテージ【千一の宿】－ ガイアリゾート ＾。」へチェックイン。落ち着いた空間で旅の荷を解き、ゆったりとした時間をスタート。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「薪ストーブ付き貸切コテージ【千一の宿】－ ガイアリゾート ＾。」の湯処へ。日頃の疲れを癒やす湯浴みとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「薪ストーブ付き貸切コテージ【千一の宿】－ ガイアリゾート ＾。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -333,9 +333,9 @@ export default function Page() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「薪ストーブ付き貸切コテージ【千一の宿】－ ガイアリゾート ＾」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「薪ストーブ付き貸切コテージ【千一の宿】－ ガイアリゾート ＾」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「カナディアンログコテージＴＡＫＩＴＡＲＯ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「薪ストーブ付き貸切コテージ【千一の宿】－ ガイアリゾート ＾。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「薪ストーブ付き貸切コテージ【千一の宿】－ ガイアリゾート ＾。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「カナディアンログコテージＴＡＫＩＴＡＲＯ。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -352,20 +352,20 @@ export default function Page() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「薪ストーブ付き貸切コテージ【千一の宿】－ ガイアリゾート ＾」へのアクセスや移動方法について</span>
+                <span>Q. 「薪ストーブ付き貸切コテージ【千一の宿】－ ガイアリゾート ＾。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「薪ストーブ付き貸切コテージ【千一の宿】－ ガイアリゾート ＾」へは、東白石駅から車で約２３分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。
+                A. 「薪ストーブ付き貸切コテージ【千一の宿】－ ガイアリゾート ＾。」へは、東白石駅から車で約２３分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「薪ストーブ付き貸切コテージ【千一の宿】－ ガイアリゾート ＾」の魅力や予約時のポイントは？</span>
+                <span>Q. 「薪ストーブ付き貸切コテージ【千一の宿】－ ガイアリゾート ＾。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「薪ストーブ付き貸切コテージ【千一の宿】－ ガイアリゾート ＾」は上質な客室空間とおもてなしが旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「薪ストーブ付き貸切コテージ【千一の宿】－ ガイアリゾート ＾。」は上質な客室空間とおもてなしが旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -374,7 +374,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「薪ストーブ付き貸切コテージ【千一の宿】－ ガイアリゾート ＾」と「カナディアンログコテージＴＡＫＩＴＡＲＯ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「薪ストーブ付き貸切コテージ【千一の宿】－ ガイアリゾート ＾。」と「カナディアンログコテージＴＡＫＩＴＡＲＯ。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

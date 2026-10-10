@@ -39,8 +39,8 @@ export default function FurusatoArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-11T00:10:00+09:00',
-    dateModified: '2026-09-11T00:10:00+09:00',
+    datePublished: 'T00:10:00+09:00',
+    dateModified: 'T00:10:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-minakami-onsen-tanigawadake-stay',
   };
 
@@ -121,7 +121,7 @@ export default function FurusatoArticlePage() {
                   <td className="p-3 text-stone-600">最高峰の格式・贅沢ステイ</td>
                 </tr>
                 <tr>
-                  <td className="p-3 font-bold text-amber-900">大江戸温泉物語Ｐｒｅｍｉｕｍ　松乃井（旧：水上温泉　源泉湯の宿　松乃井）（２０２６年８月７日開業）</td>
+                  <td className="p-3 font-bold text-amber-900">大江戸温泉物語Ｐｒｅｍｉｕｍ　松乃井（旧：水上温泉　源泉湯の宿　松乃井）（開業）</td>
                   <td className="p-3 font-bold">★ 4.09</td>
                   <td className="p-3 text-stone-600">四つの自家源泉と約三万坪の広大な日本庭園！充実の湯めぐりと豪華ライブキッチンバイキング</td>
                   <td className="p-3 text-stone-600">抜群の立地・名湯満喫</td>
@@ -203,7 +203,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.50点、国内外の賞を多数受賞。「谷川岳を望むお部屋の露天風呂と建築の美しさが別格」「接客、お料理、アメニティすべてが一流の最高峰旅館」と絶賛。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.50点、国内外の賞を多数受賞。「谷川岳を望むお部屋の露天風呂と建築の美しさが別格。」「接客、お料理、アメニティすべてが一流の最高峰旅館。」と絶賛。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -232,7 +232,7 @@ export default function FurusatoArticlePage() {
             <div className="relative aspect-video sm:aspect-[16/9] w-full overflow-hidden bg-stone-100">
               <img
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/9290/9290.jpg"
-                alt="大江戸温泉物語Ｐｒｅｍｉｕｍ　松乃井（旧：水上温泉　源泉湯の宿　松乃井）（２０２６年８月７日開業）"
+                alt="大江戸温泉物語Ｐｒｅｍｉｕｍ　松乃井（旧：水上温泉　源泉湯の宿　松乃井）（開業）"
                 className="w-full h-full object-cover"
                 loading="lazy"
               />
@@ -248,7 +248,7 @@ export default function FurusatoArticlePage() {
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">群馬県みなかみ町（水上温泉郷）</span>
                 <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  大江戸温泉物語Ｐｒｅｍｉｕｍ　松乃井（旧：水上温泉　源泉湯の宿　松乃井）（２０２６年８月７日開業）
+                  大江戸温泉物語Ｐｒｅｍｉｕｍ　松乃井（旧：水上温泉　源泉湯の宿　松乃井）（開業）
                 </h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   四つの自家源泉と約三万坪の広大な日本庭園！充実の湯めぐりと豪華ライブキッチンバイキング
@@ -287,7 +287,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.09点、口コミ4700件超。「四つの源泉掛け流しのお風呂が最高で庭園も広い」「リニューアルしてプレミアムになり、バイキングもお部屋も大満足」と高評価。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.09点、口コミ4700件超。「四つの源泉掛け流しのお風呂が最高で庭園も広い。」「リニューアルしてプレミアムになり、バイキングもお部屋も大満足。」と高評価。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -305,7 +305,7 @@ export default function FurusatoArticlePage() {
                   rel="noopener noreferrer"
                   className="block w-full text-center bg-gradient-to-r from-amber-700 to-amber-900 hover:from-amber-800 hover:to-stone-900 text-white font-bold py-3.5 px-6 rounded-xl shadow transition"
                 >
-                  【楽天トラベル】大江戸温泉物語Ｐｒｅｍｉｕｍ　松乃井（旧：水上温泉　源泉湯の宿　松乃井）（２０２６年８月７日開業） の宿泊プランとクーポン適用はこちら →
+                  【楽天トラベル】大江戸温泉物語Ｐｒｅｍｉｕｍ　松乃井（旧：水上温泉　源泉湯の宿　松乃井）（開業） の宿泊プランとクーポン適用はこちら →
                 </a>
               </div>
             </div>
@@ -371,7 +371,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.08点、口コミ2500件超。「利根川のすぐそばにある露天風呂が開放感抜群」「館内のお風呂がとにかくたくさんあって飽きない」と温泉好きに人気。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.08点、口コミ2500件超。「利根川のすぐそばにある露天風呂が開放感抜群。」「館内のお風呂がとにかくたくさんあって飽きない。」と温泉好きに人気。</p>
               </div>
 
               {/* 宿基本情報 */}

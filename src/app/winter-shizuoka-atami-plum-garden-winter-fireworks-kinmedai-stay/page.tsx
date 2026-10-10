@@ -34,8 +34,8 @@ export default function WinterFeaturePage() {
         'url': 'https://croud-travel.pages.dev/ogp-image.jpg'
       }
     },
-    'datePublished': '2026-10-08T00:00:00+09:00',
-    'dateModified': '2026-10-08T00:00:00+09:00'
+    'datePublished': 'T00:00:00+09:00',
+    'dateModified': 'T00:00:00+09:00'
   };
 
   const faqJsonLd = {
@@ -265,7 +265,7 @@ export default function WinterFeaturePage() {
                       宿泊者の生の声・クチコミ抜粋
                     </h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
-                      「清潔で料理も美味しく、おもてなしに感動歴史ある旅館なのに、掃除が行き届いてとても清潔でした。夕・朝食とも大変おいしく大満足でした。量はもう少し少な目でも十分かもしれません。おもてなしの心が、細やか… 2026-09-27 18:08:06投稿 つづきはこちら」
+                      「清潔で料理も美味しく、おもてなしに感動歴史ある旅館なのに、掃除が行き届いてとても清潔でした。夕・朝食とも大変おいしく大満足でした。量はもう少し少な目でも十分かもしれません。おもてなしの心が、細やか。」
                     </p>
                   </div>
                   <div className="pt-2">
@@ -313,7 +313,7 @@ export default function WinterFeaturePage() {
 
                 <p className="text-xs sm:text-sm text-stone-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
-                  <span>静岡県熱海市伊豆山1048-4（アクセス：ＪＲ熱海駅よりお車にて約１５分  タクシーで１,５００円程度　　　改装　：2024年8月1日リニューアルOPEN）</span>
+                  <span>静岡県熱海市伊豆山1048-4（アクセス：ＪＲ熱海駅よりお車にて約１５分  タクシーで１,５００円程度　　　改装　：リニューアルOPEN）</span>
                 </p>
 
                 <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
@@ -359,7 +359,7 @@ export default function WinterFeaturePage() {
                       宿泊者の生の声・クチコミ抜粋
                     </h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
-                      「とても最高です!年1のご褒美に食べ物よし、お風呂よし!眺めよし!部屋よし!ホスピタリティよし!いうことない!クチコミの詳細はこちらから https://review.travel.rakute… 2026-09-28 17:59:29投稿 つづきはこちら」
+                      「とても最高です!年1のご褒美に食べ物よし、お風呂よし!眺めよし!部屋よし!ホスピタリティよし!いうことない!」
                     </p>
                   </div>
                   <div className="pt-2">
@@ -453,7 +453,7 @@ export default function WinterFeaturePage() {
                       宿泊者の生の声・クチコミ抜粋
                     </h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
-                      「食事は満足だが館内の移動が少し複雑スタッフの方々の対応は大変良かったです。夕食・朝食もビュッフェスタイルで、少し食べすぎました。ただ、ホテルの立地条件で場所の移動が大変でした。エレベーターの乗… 2026-10-01 22:37:35投稿 つづきはこちら」
+                      「食事は満足だが館内の移動が少し複雑スタッフの方々の対応は大変良かったです。夕食・朝食もビュッフェスタイルで、少し食べすぎました。ただ、ホテルの立地条件で場所の移動が大変でした。エレベーターの乗。」
                     </p>
                   </div>
                   <div className="pt-2">
@@ -547,7 +547,7 @@ export default function WinterFeaturePage() {
                       宿泊者の生の声・クチコミ抜粋
                     </h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
-                      「地ビールと熱海プリンケーキに大満足子ども連れは露天風呂は楽しめないシステムなので、子どもが中学生になったらまた訪れたいです。部屋は和室でゆったり過ごせました。夕食朝食共に品数が少ないような… 2026-10-03 16:34:57投稿 つづきはこちら」
+                      「地ビールと熱海プリンケーキに大満足子ども連れは露天風呂は楽しめないシステムなので、子どもが中学生になったらまた訪れたいです。部屋は和室でゆったり過ごせました。夕食朝食共に品数が少ないような。」
                     </p>
                   </div>
                   <div className="pt-2">
@@ -641,7 +641,7 @@ export default function WinterFeaturePage() {
                       宿泊者の生の声・クチコミ抜粋
                     </h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
-                      「駅近で便利、平日のお風呂とサウナは快適駅近で便利です。平日のだったので、お風呂もサウナも空いていてよかったです。クチコミの詳細はこちらから https://review.travel.ra… 2026-10-03 21:10:34投稿 つづきはこちら」
+                      「駅近で便利、平日のお風呂とサウナは快適駅近で便利です。平日のだったので、お風呂もサウナも空いていてよかったです。」
                     </p>
                   </div>
                   <div className="pt-2">

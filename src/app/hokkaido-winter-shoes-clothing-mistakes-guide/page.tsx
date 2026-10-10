@@ -142,7 +142,7 @@ export default function HokkaidoWinterShoesClothingGuidePage() {
               札幌駅から大通・すすきのまで続く巨大な地下街「チ・カ・ホ」や商業施設はTシャツでも過ごせるほどの暖かさ。インナーに超極暖を着て厚手のセーターを重ねていると、ダウンを脱いでも汗が止まらなくなります。
             </p>
             <div className="bg-slate-100 p-3 rounded-xl text-xs text-slate-800 font-medium">
-              ✅ 解決策：トップスは<strong>「薄手の長袖＋前開きカーディガン＋本格防風ダウン」</strong>のように前開きで素早く温度調整できるレイヤリングが正解。
+              ✅ 解決策：トップスは<strong>「薄手の長袖＋前開きカーディガン＋本格防風ダウン。」</strong>のように前開きで素早く温度調整できるレイヤリングが正解。
             </div>
           </div>
 

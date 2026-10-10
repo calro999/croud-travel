@@ -35,7 +35,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1027/1027map.gif",
     "reviewCount": 2462,
     "reviewAverage": 4.22,
-    "userReview": "観光に便利な立地、レトロな雰囲気で静かサッカー観戦のため長崎へ前回行けなかった軍艦島クルーズの乗り場から近くスタジアムに行く前にチェックインできるようホテルを選びました。路面電車の駅からも近く大浦…",
+    "userReview": "観光に便利な立地、レトロな雰囲気で静かサッカー観戦のため長崎へ前回行けなかった軍艦島クルーズの乗り場から近くスタジアムに行く前にチェックインできるようホテルを選びました。路面電車の駅からも近く大浦。",
     "hotelMinCharge": 4200,
     "address1": "長崎県",
     "address2": "長崎市大浦町1-22",
@@ -65,11 +65,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/165115/165115map.gif",
     "reviewCount": 331,
     "reviewAverage": 4.31,
-    "userReview": "清潔で設備充実、快適な滞在でしたトイレとお風呂が場所は一緒ですが、別でした。部屋はとても綺麗で壁紙も素敵でした。足のマッサージ機もあって至れり尽くせり。ありがとうございました。クチコミの詳細は…",
+    "userReview": "清潔で設備充実、快適な滞在でしたトイレとお風呂が場所は一緒ですが、別でした。部屋はとても綺麗で壁紙も素敵でした。足のマッサージ機もあって至れり尽くせり。ありがとうございました。クチコミの詳細は。",
     "hotelMinCharge": 5450,
     "address1": "長崎県",
     "address2": "諫早市多良見町化屋331-1",
-    "telephoneNo": "0957-43-7722",
+    "telephoneNo": "22",
     "access": "ＪＲ　喜々津駅より徒歩にて約５分",
     "parkingInformation": "有　乗用車1室1台無料（2台目より1台500円/日）、大型車有料　※事前にご連絡ください。",
     "nearestStation": "喜々津",
@@ -95,11 +95,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67258/67258map.gif",
     "reviewCount": 447,
     "reviewAverage": 4.62,
-    "userReview": "宿泊者限定の内湯は落ち着けて良かった外湯巡りが出来る温泉地なので、人の出入りが当たり前にある旅館なのですが、宿泊者限定の内湯があるのは落ち着けて良かったですクチコミの詳細はこちらから　http…",
+    "userReview": "宿泊者限定の内湯は落ち着けて良かった外湯巡りが出来る温泉地なので、人の出入りが当たり前にある旅館なのですが、宿泊者限定の内湯があるのは落ち着けて良かったです。",
     "hotelMinCharge": 11000,
     "address1": "熊本県",
     "address2": "阿蘇郡南小国町満願寺6690",
-    "telephoneNo": "0967-44-0331",
+    "telephoneNo": "31",
     "access": "阿蘇駅から車で約４０分／九州横断バスにて約１時間",
     "parkingInformation": "有り　１３台　無料　予約不要",
     "nearestStation": "阿蘇",
@@ -181,7 +181,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ホテルモントレ長崎」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ホテルモントレ長崎」へは、ＪＲ長崎駅から車で5分。最寄りの長崎（長崎）駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ホテルモントレ長崎」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ホテルモントレ長崎」は『グラバー園に程近いオランダ通りに面した白いホテル。 全室Wi-Fi / 加湿機能付空気清浄』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ホテルモントレ長崎」と「喜々津ステーションホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ホテルモントレ長崎」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ホテルモントレ長崎」へは、ＪＲ長崎駅から車で5分。最寄りの長崎（長崎）駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ホテルモントレ長崎」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ホテルモントレ長崎」は『グラバー園に程近いオランダ通りに面した白いホテル。全室Wi-Fi / 加湿機能付空気清浄。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ホテルモントレ長崎」と「喜々津ステーションホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* リードセクション */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-4">
@@ -510,7 +510,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「ホテルモントレ長崎」は『グラバー園に程近いオランダ通りに面した白いホテル。 全室Wi-Fi / 加湿機能付空気清浄』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「ホテルモントレ長崎」は『グラバー園に程近いオランダ通りに面した白いホテル。全室Wi-Fi / 加湿機能付空気清浄。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

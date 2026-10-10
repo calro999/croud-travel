@@ -67,11 +67,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4804/4804map.gif",
     "reviewCount": 1554,
     "reviewAverage": 4.31,
-    "userReview": "お部屋は綺麗で景観も最高、温泉も大満足お宿の外観は古そうに思いましたが、お部屋はリフォーム後だったのかとてもきれいで、峡谷側で景観もとてもよく大満足です。夕食は...カジュアルプランだったのも…　 ",
+    "userReview": "お部屋は綺麗で景観も最高、温泉も大満足お宿の外観は古そうに思いましたが、お部屋はリフォーム後だったのかとてもきれいで、峡谷側で景観もとてもよく大満足です。夕食は...カジュアルプランだったのも。",
     "hotelMinCharge": 13200,
     "address1": "富山県",
     "address2": "黒部市宇奈月温泉53",
-    "telephoneNo": "0765-62-1234",
+    "telephoneNo": "34",
     "access": "北陸自動車道黒部 Ｉ．Ｃより２０分。富山地方鉄道「宇奈月温泉駅」より徒歩５分。",
     "parkingInformation": "有り　5０台　無料",
     "nearestStation": "宇奈月温泉",
@@ -102,7 +102,7 @@ export default function Page() {
     "hotelMinCharge": 4200,
     "address1": "三重県",
     "address2": "松阪市京町516-1",
-    "telephoneNo": "0598-23-8585",
+    "telephoneNo": "85",
     "access": "ＪＲ・近鉄松阪駅北口より徒歩１分",
     "parkingInformation": "有り　無料",
     "nearestStation": "松阪",
@@ -185,7 +185,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「清津峡温泉 いろりとほたるの宿せとぐち」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「清津峡温泉 いろりとほたるの宿せとぐち」へは、上越新幹線越後湯沢駅下車 車で２５分／関越自動車道 ・塩沢石打インターより 車で２０分。最寄りの越後湯沢駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「清津峡温泉 いろりとほたるの宿せとぐち」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「清津峡温泉 いろりとほたるの宿せとぐち」は『最大22時間滞在可能 昭和初期の建築で過ごす 囲炉裏の空間で田舎料理 美しい景色 蛍の季節』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「清津峡温泉 いろりとほたるの宿せとぐち」と「宇奈月温泉の老舗旅館 延対寺荘」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「清津峡温泉 いろりとほたるの宿せとぐち」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「清津峡温泉 いろりとほたるの宿せとぐち」へは、上越新幹線越後湯沢駅下車 車で２５分／関越自動車道 ・塩沢石打インターより 車で２０分。最寄りの越後湯沢駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「清津峡温泉 いろりとほたるの宿せとぐち」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「清津峡温泉 いろりとほたるの宿せとぐち」は『最大22時間滞在可能 昭和初期の建築で過ごす 囲炉裏の空間で田舎料理 美しい景色 蛍の季節。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「清津峡温泉 いろりとほたるの宿せとぐち」と「宇奈月温泉の老舗旅館 延対寺荘」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         
         {/* 特集の魅力セクション */}
@@ -491,7 +491,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「清津峡温泉 いろりとほたるの宿せとぐち」は『最大22時間滞在可能 昭和初期の建築で過ごす 囲炉裏の空間で田舎料理 美しい景色 蛍の季節』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「清津峡温泉 いろりとほたるの宿せとぐち」は『最大22時間滞在可能 昭和初期の建築で過ごす 囲炉裏の空間で田舎料理 美しい景色 蛍の季節。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

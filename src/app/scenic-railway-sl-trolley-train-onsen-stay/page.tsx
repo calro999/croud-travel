@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/scenic-railway-sl-trolley-train-onsen-stay"
   };
 
@@ -83,11 +83,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40625/40625map.gif",
     "reviewCount": 1246,
     "reviewAverage": 4.45,
-    "userReview": "お風呂のメッセージとスタッフの温かい見送りとても良かったです。お風呂の入り口に貼ってあるメッセージも感動しました。あれは貰って良かったのかな?ご飯も美味しく、お腹いっぱいになりました。チェ…　2026-09-16 22:25:29投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=40625\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "お風呂のメッセージとスタッフの温かい見送りとても良かったです。お風呂の入り口に貼ってあるメッセージも感動しました。あれは貰って良かったのかな?ご飯も美味しく、お腹いっぱいになりました。チェ。",
     "hotelMinCharge": 6600,
     "address1": "富山県",
     "address2": "黒部市宇奈月温泉７番地",
-    "telephoneNo": "0765-62-1331",
+    "telephoneNo": "31",
     "access": "北陸新幹線黒部宇奈月温泉駅から富山地鉄乗り換え25分。 宇奈月温泉駅から歩10分／北陸道 黒部ＩＣから約20分。",
     "parkingInformation": "有り　40台　無料 （トロッコ観光中もお預かりいたします）",
     "nearestStation": "宇奈月温泉",
@@ -108,11 +108,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/41374/41374map.gif",
     "reviewCount": 124,
     "reviewAverage": 4.19,
-    "userReview": "親切なおもてなしと美味しい料理に満足親切なおもてなしでした。料理も美味しかったです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hote…　2026-08-23 17:00:59投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=41374\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "親切なおもてなしと美味しい料理に満足親切なおもてなしでした。料理も美味しかったです。",
     "hotelMinCharge": 10120,
     "address1": "富山県",
     "address2": "下新川郡朝日町宮崎3239-1",
-    "telephoneNo": "0765-82-0768",
+    "telephoneNo": "68",
     "access": "JR越中宮崎駅より徒歩１分",
     "parkingInformation": "有り　50台　無料　先着順",
     "nearestStation": "越中宮崎",
@@ -133,15 +133,15 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9591/9591map.gif",
     "reviewCount": 4242,
     "reviewAverage": 4.31,
-    "userReview": "夕食のデザートがどれも美味しくて大満足夕食のデザートはどれも美味しかった。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voi…　2026-09-18 15:30:55投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=9591\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "夕食のデザートがどれも美味しくて大満足夕食のデザートはどれも美味しかった。",
     "hotelMinCharge": 10800,
     "address1": "富山県",
     "address2": "黒部市宇奈月温泉352番地7",
-    "telephoneNo": "0765-62-1311",
+    "telephoneNo": "11",
     "access": "富山地方鉄道「宇奈月温泉駅」下車徒歩３分　無料送迎バス有※要確認／北陸自動車道黒部IC下車約２０分",
     "parkingInformation": "140台の無料駐車スペースがございます。",
     "nearestStation": "宇奈月温泉",
-    "hotelSpecial": "おかげさまで連続受賞！「楽天トラベル 日本の宿アワード2025 TOP47」♪",
+    "hotelSpecial": "おかげさまで連続受賞！「楽天トラベル 日本の宿アワード2025 TOP47。」♪",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9591%2F9591.html"
   }
 ];

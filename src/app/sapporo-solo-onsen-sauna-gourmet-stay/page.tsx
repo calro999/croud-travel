@@ -7,11 +7,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/sapporo-solo-onsen-sauna-gourmet-stay/" },
   title: '【札幌ひとり旅・ご褒美泊】登別カルルス温泉直送・本格ロウリュサウナ・シメパフェ巡り！大人のリフレッシュ宿 厳選3選',
-  description: '「北の大地で美味いものを食べ、静かに雪や緑を眺めながら温泉に浸かりたい」。一人旅や出張で訪れる大人の札幌ステイへ。大通公園近くで登別カルルス温泉を引く和の旅館「ONSEN RYOKAN 由縁 札幌」、北海道庁旧本庁舎（赤れんが）を望む優雅な「ソラリア西鉄ホテル札幌」、ススキノ至近でセルフロウリュサウナが自慢の「天然温泉 プレミアホテル-CABIN-札幌」を徹底特集。',
+  description: '「北の大地で美味いものを食べ、静かに雪や緑を眺めながら温泉に浸かりたい。」。一人旅や出張で訪れる大人の札幌ステイへ。大通公園近くで登別カルルス温泉を引く和の旅館「ONSEN RYOKAN 由縁 札幌」、北海道庁旧本庁舎（赤れんが）を望む優雅な「ソラリア西鉄ホテル札幌」、ススキノ至近でセルフロウリュサウナが自慢の「天然温泉 プレミアホテル-CABIN-札幌。」を徹底特集。',
   keywords: '札幌 一人旅 ホテル おすすめ,札幌 温泉 サウナ ホテル,由縁 札幌 宿泊,ソラリア西鉄ホテル札幌 大浴場,プレミアホテルキャビン札幌 サウナ',
   openGraph: {
     title: '【札幌ひとり旅・ご褒美泊】登別カルルス温泉直送・本格ロウリュサウナ・シメパフェ巡り！大人のリフレッシュ宿 厳選3選',
-    description: '「北の大地で美味いものを食べ、静かに雪や緑を眺めながら温泉に浸かりたい」。一人旅や出張で訪れる大人の札幌ステイへ。大通公園近くで登別カルルス温泉を引く和の旅館「ONSEN RYOKAN 由縁 札幌」、北海道庁旧本庁舎（赤れんが）を望む優雅な「ソラリア西鉄ホテル札幌」、ススキノ至近でセルフロウリュサウナが自慢の「天然温泉 プレミアホテル-CABIN-札幌」を徹底特集。',
+    description: '「北の大地で美味いものを食べ、静かに雪や緑を眺めながら温泉に浸かりたい。」。一人旅や出張で訪れる大人の札幌ステイへ。大通公園近くで登別カルルス温泉を引く和の旅館「ONSEN RYOKAN 由縁 札幌」、北海道庁旧本庁舎（赤れんが）を望む優雅な「ソラリア西鉄ホテル札幌」、ススキノ至近でセルフロウリュサウナが自慢の「天然温泉 プレミアホテル-CABIN-札幌。」を徹底特集。',
     url: 'https://croud-travel.pages.dev/sapporo-solo-onsen-sauna-gourmet-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -24,7 +24,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【札幌ひとり旅・ご褒美泊】登別カルルス温泉直送・本格ロウリュサウナ・シメパフェ巡り！大人のリフレッシュ宿 厳選3選',
-    description: '「北の大地で美味いものを食べ、静かに雪や緑を眺めながら温泉に浸かりたい」。一人旅や出張で訪れる大人の札幌ステイへ。大通公園近くで登別カルルス温泉を引く和の旅館「ONSEN RYOKAN 由縁 札幌」、北海道庁旧本庁舎（赤れんが）を望む優雅な「ソラリア西鉄ホテル札幌」、ススキノ至近でセルフロウリュサウナが自慢の「天然温泉 プレミアホテル-CABIN-札幌」を徹底特集。',
+    description: '「北の大地で美味いものを食べ、静かに雪や緑を眺めながら温泉に浸かりたい。」。一人旅や出張で訪れる大人の札幌ステイへ。大通公園近くで登別カルルス温泉を引く和の旅館「ONSEN RYOKAN 由縁 札幌」、北海道庁旧本庁舎（赤れんが）を望む優雅な「ソラリア西鉄ホテル札幌」、ススキノ至近でセルフロウリュサウナが自慢の「天然温泉 プレミアホテル-CABIN-札幌。」を徹底特集。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・ホテル調査班',
@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-11T02:30:00+09:00',
-    dateModified: '2026-09-11T02:30:00+09:00',
+    datePublished: 'T02:30:00+09:00',
+    dateModified: 'T02:30:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/sapporo-solo-onsen-sauna-gourmet-stay',
   };
 
@@ -48,7 +48,7 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ＯＮＳＥＮ ＲＹＯＫＡＮ 由縁 札幌」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ＯＮＳＥＮ ＲＹＯＫＡＮ 由縁 札幌」へは、JR札幌駅・地下鉄さっぽろ駅から徒歩約13分／地下鉄大通駅から徒歩約8分。最寄りのさっぽろ駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ＯＮＳＥＮ ＲＹＯＫＡＮ 由縁 札幌」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ＯＮＳＥＮ ＲＹＯＫＡＮ 由縁 札幌」は『2020年8月開業 札幌都心で天然温泉が楽しめる、露天風呂付温泉ホテル旅館。大通駅から徒歩』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ＯＮＳＥＮ ＲＹＯＫＡＮ 由縁 札幌」では季節ごとに異なる宿泊プランや料理プランが用意されています。ご旅行の人数や滞在スタイルに合わせて最適なプランをお選びいただけます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ＯＮＳＥＮ ＲＹＯＫＡＮ 由縁 札幌」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ＯＮＳＥＮ ＲＹＯＫＡＮ 由縁 札幌」へは、JR札幌駅・地下鉄さっぽろ駅から徒歩約13分／地下鉄大通駅から徒歩約8分。最寄りのさっぽろ駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ＯＮＳＥＮ ＲＹＯＫＡＮ 由縁 札幌」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ＯＮＳＥＮ ＲＹＯＫＡＮ 由縁 札幌」は『2020年8月開業 札幌都心で天然温泉が楽しめる、露天風呂付温泉ホテル旅館。大通駅から徒歩。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ＯＮＳＥＮ ＲＹＯＫＡＮ 由縁 札幌」では季節ごとに異なる宿泊プランや料理プランが用意されています。ご旅行の人数や滞在スタイルに合わせて最適なプランをお選びいただけます。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -78,7 +78,7 @@ export default function ArticlePage() {
           【札幌ひとり旅・ご褒美泊】登別カルルス温泉直送・本格ロウリュサウナ・シメパフェ巡り！大人のリフレッシュ宿 厳選3選
         </h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
-          「北の大地で美味いものを食べ、静かに雪や緑を眺めながら温泉に浸かりたい」。一人旅や出張で訪れる大人の札幌ステイへ。大通公園近くで登別カルルス温泉を引く和の旅館「ONSEN RYOKAN 由縁 札幌」、北海道庁旧本庁舎（赤れんが）を望む優雅な「ソラリア西鉄ホテル札幌」、ススキノ至近でセルフロウリュサウナが自慢の「天然温泉 プレミアホテル-CABIN-札幌」を徹底特集。
+          「北の大地で美味いものを食べ、静かに雪や緑を眺めながら温泉に浸かりたい。」。一人旅や出張で訪れる大人の札幌ステイへ。大通公園近くで登別カルルス温泉を引く和の旅館「ONSEN RYOKAN 由縁 札幌」、北海道庁旧本庁舎（赤れんが）を望む優雅な「ソラリア西鉄ホテル札幌」、ススキノ至近でセルフロウリュサウナが自慢の「天然温泉 プレミアホテル-CABIN-札幌。」を徹底特集。
         </p>
       </header>
 
@@ -161,7 +161,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.52点。「札幌の街中にいることを忘れるほど静かで、登別の温泉とサウナが最高でした」「スタッフさんの気配りも素晴らしく、一人で贅沢な時間を過ごせました」と高評価。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.52点。「札幌の街中にいることを忘れるほど静かで、登別の温泉とサウナが最高でした。」「スタッフさんの気配りも素晴らしく、一人で贅沢な時間を過ごせました。」と高評価。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -236,7 +236,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.49点。「札幌駅から近くて道庁の景色が綺麗、大浴場も清潔で言うことなし」「朝食のレベルが非常に高く、一人でも落ち着いて食べられました」と定評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.49点。「札幌駅から近くて道庁の景色が綺麗、大浴場も清潔で言うことなし。」「朝食のレベルが非常に高く、一人でも落ち着いて食べられました。」と定評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -311,7 +311,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.20点。「サウナのクオリティが札幌トップクラス。セルフロウリュと水風呂が最高でした」「すすきのの飲み歩きの拠点として最強の温泉宿」とサウナファン・一人旅に大人気。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.20点。「サウナのクオリティが札幌トップクラス。セルフロウリュと水風呂が最高でした。」「すすきのの飲み歩きの拠点として最強の温泉宿。」とサウナファン・一人旅に大人気。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -482,7 +482,7 @@ export default function ArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「ＯＮＳＥＮ ＲＹＯＫＡＮ 由縁 札幌」は『2020年8月開業 札幌都心で天然温泉が楽しめる、露天風呂付温泉ホテル旅館。大通駅から徒歩』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「ＯＮＳＥＮ ＲＹＯＫＡＮ 由縁 札幌」は『2020年8月開業 札幌都心で天然温泉が楽しめる、露天風呂付温泉ホテル旅館。大通駅から徒歩。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

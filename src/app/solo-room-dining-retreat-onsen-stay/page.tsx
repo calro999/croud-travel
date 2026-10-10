@@ -7,11 +7,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/solo-room-dining-retreat-onsen-stay/" },
   title: '【おひとりさま部屋食温泉宿】夕食・朝食をお部屋で贅沢に！誰にも邪魔されない極上おこもりひとり旅宿 厳選3選',
-  description: '「周りの目を気にせず、浴衣のままマイペースに部屋食を楽しみたい」「静寂の中で名湯をひとり占めしたい」というソロトラベラーへ。草津温泉の老舗「望雲」、四万川の清流を望む「四万温泉 豊島屋」、箱根湯本駅徒歩すぐで川沿いの部屋食が自慢の「箱根水明荘」を徹底特集。おひとりさま歓迎の贅沢ステイガイド。',
+  description: '「周りの目を気にせず、浴衣のままマイペースに部屋食を楽しみたい。」「静寂の中で名湯をひとり占めしたい」というソロトラベラーへ。草津温泉の老舗「望雲」、四万川の清流を望む「四万温泉 豊島屋」、箱根湯本駅徒歩すぐで川沿いの部屋食が自慢の「箱根水明荘」を徹底特集。おひとりさま歓迎の贅沢ステイガイド。',
   keywords: '一人旅 温泉 部屋食,おひとりさま 温泉宿,草津温泉 望雲 一人旅,四万温泉 豊島屋 部屋食,箱根 ひとり旅 部屋食',
   openGraph: {
     title: '【おひとりさま部屋食温泉宿】夕食・朝食をお部屋で贅沢に！誰にも邪魔されない極上おこもりひとり旅宿 厳選3選',
-    description: '「周りの目を気にせず、浴衣のままマイペースに部屋食を楽しみたい」「静寂の中で名湯をひとり占めしたい」というソロトラベラーへ。草津温泉の老舗「望雲」、四万川の清流を望む「四万温泉 豊島屋」、箱根湯本駅徒歩すぐで川沿いの部屋食が自慢の「箱根水明荘」を徹底特集。おひとりさま歓迎の贅沢ステイガイド。',
+    description: '「周りの目を気にせず、浴衣のままマイペースに部屋食を楽しみたい。」「静寂の中で名湯をひとり占めしたい」というソロトラベラーへ。草津温泉の老舗「望雲」、四万川の清流を望む「四万温泉 豊島屋」、箱根湯本駅徒歩すぐで川沿いの部屋食が自慢の「箱根水明荘」を徹底特集。おひとりさま歓迎の贅沢ステイガイド。',
     url: 'https://croud-travel.pages.dev/solo-room-dining-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -24,7 +24,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【おひとりさま部屋食温泉宿】夕食・朝食をお部屋で贅沢に！誰にも邪魔されない極上おこもりひとり旅宿 厳選3選',
-    description: '「周りの目を気にせず、浴衣のままマイペースに部屋食を楽しみたい」「静寂の中で名湯をひとり占めしたい」というソロトラベラーへ。草津温泉の老舗「望雲」、四万川の清流を望む「四万温泉 豊島屋」、箱根湯本駅徒歩すぐで川沿いの部屋食が自慢の「箱根水明荘」を徹底特集。おひとりさま歓迎の贅沢ステイガイド。',
+    description: '「周りの目を気にせず、浴衣のままマイペースに部屋食を楽しみたい。」「静寂の中で名湯をひとり占めしたい」というソロトラベラーへ。草津温泉の老舗「望雲」、四万川の清流を望む「四万温泉 豊島屋」、箱根湯本駅徒歩すぐで川沿いの部屋食が自慢の「箱根水明荘」を徹底特集。おひとりさま歓迎の贅沢ステイガイド。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・ホテル調査班',
@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-11T02:20:00+09:00',
-    dateModified: '2026-09-11T02:20:00+09:00',
+    datePublished: 'T02:20:00+09:00',
+    dateModified: 'T02:20:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/solo-room-dining-retreat-onsen-stay',
   };
 
@@ -78,7 +78,7 @@ export default function ArticlePage() {
           【おひとりさま部屋食温泉宿】夕食・朝食をお部屋で贅沢に！誰にも邪魔されない極上おこもりひとり旅宿 厳選3選
         </h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
-          「周りの目を気にせず、浴衣のままマイペースに部屋食を楽しみたい」「静寂の中で名湯をひとり占めしたい」というソロトラベラーへ。草津温泉の老舗「望雲」、四万川の清流を望む「四万温泉 豊島屋」、箱根湯本駅徒歩すぐで川沿いの部屋食が自慢の「箱根水明荘」を徹底特集。おひとりさま歓迎の贅沢ステイガイド。
+          「周りの目を気にせず、浴衣のままマイペースに部屋食を楽しみたい。」「静寂の中で名湯をひとり占めしたい」というソロトラベラーへ。草津温泉の老舗「望雲」、四万川の清流を望む「四万温泉 豊島屋」、箱根湯本駅徒歩すぐで川沿いの部屋食が自慢の「箱根水明荘」を徹底特集。おひとりさま歓迎の贅沢ステイガイド。
         </p>
       </header>
 
@@ -161,7 +161,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.65点。「一人旅で利用しましたが、スタッフの距離感が絶妙で心地よく、部屋食も温かい状態で一品ずついただけて大満足でした」「源泉掛け流しのお湯が素晴らしく、静かにリフレッシュできました」とソロ客からも絶賛の声が寄せられています。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.65点。「一人旅で利用しましたが、スタッフの距離感が絶妙で心地よく、部屋食も温かい状態で一品ずついただけて大満足でした。」「源泉掛け流しのお湯が素晴らしく、静かにリフレッシュできました。」とソロ客からも絶賛の声が寄せられています。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -236,7 +236,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.50点。「四万川の景色を眺めながらの部屋食は最高のご褒美」「一人でも温かくもてなしてくれて、渓流露天風呂の開放感が忘れられない」とリピーター多数。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.50点。「四万川の景色を眺めながらの部屋食は最高のご褒美。」「一人でも温かくもてなしてくれて、渓流露天風呂の開放感が忘れられない。」とリピーター多数。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -311,7 +311,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.41点。「駅から近くて一人旅の荷物でも楽々移動できた」「お部屋食でゆっくり地酒を飲めて、スタッフさんの対応もとても丁寧で癒やされました」と定評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.41点。「駅から近くて一人旅の荷物でも楽々移動できた。」「お部屋食でゆっくり地酒を飲めて、スタッフさんの対応もとても丁寧で癒やされました。」と定評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">

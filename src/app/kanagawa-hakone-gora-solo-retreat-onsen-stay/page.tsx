@@ -37,8 +37,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-14T00:00:00+09:00',
-    dateModified: '2026-09-14T00:00:00+09:00',
+    datePublished: 'T00:00:00+09:00',
+    dateModified: 'T00:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/kanagawa-hakone-gora-solo-retreat-onsen-stay',
   };
 
@@ -79,7 +79,7 @@ export default function ArticlePage() {
             【箱根強羅温泉ひとり旅・濁り湯アートおこもり】箱根登山鉄道・大涌谷白濁温泉・創作フレンチ会席！箱根屈指の高級別荘地で癒やされる厳選3宿
           </h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
-            更新日：2026年9月14日 | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
+            更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -250,14 +250,14 @@ export default function ArticlePage() {
             </div>
 
             <p className="text-sm text-stone-700 leading-relaxed mb-6 font-medium">
-              温かみのあるおもてなしと絶景に心癒される湯宿。２０１４年７月１２日オープン。
+              温かみのあるおもてなしと絶景に心癒される湯宿。オープン。
             </p>
 
             <div className="bg-stone-50 p-4 rounded-xl mb-6">
               <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント</h3>
               <ul className="text-xs text-stone-600 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>温かみのあるおもてなしと絶景に心癒される湯宿</span></li>
-                    <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>２０１４年７月１２日オープン</span></li>
+                    <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>オープン</span></li>
               </ul>
             </div>
 
@@ -362,8 +362,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 箱根湯本駅よりアクセス。箱根湯本駅から箱根登山バスにて約３０分、箱根カントリー入口下車（バス停からは送迎有り・要予約）。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「絶景の癒しの湯宿 箱根 星のあかり」にチェックイン。温かみのあるおもてなしと絶景に心癒される湯宿。２０１４年７月１２日オープン。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「絶景の癒しの湯宿 箱根 星のあかり」の湯処へ。温かみのあるおもてなしと絶景に心癒される湯宿。２０１４年７月１２日オーとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「絶景の癒しの湯宿 箱根 星のあかり」にチェックイン。温かみのあるおもてなしと絶景に心癒される湯宿。オープン。などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「絶景の癒しの湯宿 箱根 星のあかり」の湯処へ。温かみのあるおもてなしと絶景に心癒される湯宿。オーとともに、夕暮れの特別な寛ぎを満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「絶景の癒しの湯宿 箱根 星のあかり」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>

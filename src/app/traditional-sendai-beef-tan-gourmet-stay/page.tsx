@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【2026最新】極上厚切り牛タン炭火焼き＆A5仙台牛会席！宮城・秋保＆松島の名湯美食宿5選",
     "description": "炭火で香ばしく焼き上げる名物極上牛タンと、とろけるA5ランク仙台牛を味わい尽くす！開湯1500年の秋保温泉や絶景の松島で、東北屈指の極上肉料理と美肌名湯を堪能できる至高の温泉宿を厳選紹介。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-    "datePublished": "2026-03-27T00:00:00+09:00",
-    "dateModified": "2026-03-27T00:00:00+09:00",
+    "datePublished": "T00:00:00+09:00",
+    "dateModified": "T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

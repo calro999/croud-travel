@@ -4,14 +4,14 @@ import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: '大観覧車とベイブリッジの煌めく夜景！横浜みなとみらい夜景ラグジュアリーホテル×ふるさと納税完全攻略ガイド【2026年最新】Pier8・グランドインターコンチ・ベイ東急',
-  description: 'きらめく大観覧車「コスモクロック21」と東京湾・横浜港のパノラマ夜景！「インターコンチネンタル横浜Pier 8」「ヨコハマ グランド インターコンチネンタル ホテル」「横浜ベイホテル東急」を、神奈川県横浜市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。ルーフトップテラス、全室バルコニー付き客室、クラブフロアで至高の記念日ステイ。',
+  description: 'きらめく大観覧車「コスモクロック21」と東京湾・横浜港のパノラマ夜景！「インターコンチネンタル横浜Pier 8」「ヨコハマ グランド インターコンチネンタル ホテル。」「横浜ベイホテル東急」を、神奈川県横浜市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。ルーフトップテラス、全室バルコニー付き客室、クラブフロアで至高の記念日ステイ。',
   keywords: ["2026年最新", "Pier8", "グランドインターコンチ", "ベイ東急", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-yokohama-minatomirai-nightview-luxury-stay/",
   },
   openGraph: {
     title: '大観覧車とベイブリッジの煌めく夜景！横浜みなとみらい夜景ラグジュアリーホテル×ふるさと納税完全攻略ガイド【2026年最新】Pier8・グランドインターコンチ・ベイ東急',
-    description: 'きらめく大観覧車「コスモクロック21」と東京湾・横浜港のパノラマ夜景！「インターコンチネンタル横浜Pier 8」「ヨコハマ グランド インターコンチネンタル ホテル」「横浜ベイホテル東急」を、神奈川県横浜市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。ルーフトップテラス、全室バルコニー付き客室、クラブフロアで至高の記念日ステイ。',
+    description: 'きらめく大観覧車「コスモクロック21」と東京湾・横浜港のパノラマ夜景！「インターコンチネンタル横浜Pier 8」「ヨコハマ グランド インターコンチネンタル ホテル。」「横浜ベイホテル東急」を、神奈川県横浜市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。ルーフトップテラス、全室バルコニー付き客室、クラブフロアで至高の記念日ステイ。',
     url: 'https://croud-travel.pages.dev/furusato-tax-yokohama-minatomirai-nightview-luxury-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
@@ -25,7 +25,7 @@ export default function FurusatoYokohamaNightviewStayPage() {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "大観覧車とベイブリッジの煌めく夜景！横浜みなとみらい夜景ラグジュアリーホテル×ふるさと納税完全攻略ガイド【2026年最新】Pier8・グランドインターコンチ・ベイ東急",
-    "description": "きらめく大観覧車「コスモクロック21」と東京湾・横浜港のパノラマ夜景！「インターコンチネンタル横浜Pier 8」「ヨコハマ グランド インターコンチネンタル ホテル」「横浜ベイホテル東急」を、神奈川県横浜市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。ルーフトップテラス、全室バルコニー付き客室、クラブフロアで至高の記念日ステイ。",
+    "description": "きらめく大観覧車「コスモクロック21」と東京湾・横浜港のパノラマ夜景！「インターコンチネンタル横浜Pier 8」「ヨコハマ グランド インターコンチネンタル ホテル。」「横浜ベイホテル東急」を、神奈川県横浜市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。ルーフトップテラス、全室バルコニー付き客室、クラブフロアで至高の記念日ステイ。",
     "url": "https://croud-travel.pages.dev/furusato-tax-yokohama-minatomirai-nightview-luxury-stay/",
     "publisher": {
       "@type": "Organization",
@@ -62,7 +62,7 @@ export default function FurusatoYokohamaNightviewStayPage() {
           大観覧車とベイブリッジの煌めく夜景！横浜みなとみらい夜景ラグジュアリーホテル×ふるさと納税完全攻略ガイド【2026年最新】Pier8・グランドインターコンチ・ベイ東急
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-09">2026年9月9日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -77,7 +77,7 @@ export default function FurusatoYokohamaNightviewStayPage() {
           水面に反射する大観覧車のイルミネーションと潮風。横浜みなとみらいの特等席で過ごす、洗練された大人のナイトステイへ
         </h2>
         <p className="text-base md:text-lg text-gray-800 leading-relaxed mb-6">
-          異国情緒漂う港町の歴史と、未来的なウォーターフロント都市が美しく調和する「横浜みなとみらい21」。夕暮れとともに赤レンガ倉庫やベイブリッジ、大観覧車「コスモクロック21」がライトアップされ、水面に宝石を散りばめたような眩い夜景が広がります。記念日や誕生日、週末のプレミアムなご褒美ステイとして、客室のバルコニーや大きなピクチャーウィンドウから夜景を独占できるホテルステイは圧倒的な人気を誇ります。クラブラウンジでシャンパンを傾け、一流シェフによるフレンチや中国料理のディナーを堪能し、翌朝は海風を感じながらベイサイドのブレックファストを味わう——。本特集では、三方を海に囲まれた埠頭に佇み、宿泊者限定ルーフトップテラスを誇る国内最高峰の埠頭ホテル「インターコンチネンタル横浜Pier 8」、みなとみらいのシンボル「ヨットの帆」の形でおなじみのランドマーク「ヨコハマ グランド インターコンチネンタル ホテル」、そして全室バルコニー完備で大観覧車が目の前に迫る抜群の臨場感を誇る「横浜ベイホテル東急」の3大ホテルを厳選。神奈川県横浜市への楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円で憧れの横浜夜景ホテルステイを叶えましょう。
+          異国情緒漂う港町の歴史と、未来的なウォーターフロント都市が美しく調和する「横浜みなとみらい21」。夕暮れとともに赤レンガ倉庫やベイブリッジ、大観覧車「コスモクロック21」がライトアップされ、水面に宝石を散りばめたような眩い夜景が広がります。記念日や誕生日、週末のプレミアムなご褒美ステイとして、客室のバルコニーや大きなピクチャーウィンドウから夜景を独占できるホテルステイは圧倒的な人気を誇ります。クラブラウンジでシャンパンを傾け、一流シェフによるフレンチや中国料理のディナーを堪能し、翌朝は海風を感じながらベイサイドのブレックファストを味わう——。本特集では、三方を海に囲まれた埠頭に佇み、宿泊者限定ルーフトップテラスを誇る国内最高峰の埠頭ホテル「インターコンチネンタル横浜Pier 8」、みなとみらいのシンボル「ヨットの帆」の形でおなじみのランドマーク「ヨコハマ グランド インターコンチネンタル ホテル。」、そして全室バルコニー完備で大観覧車が目の前に迫る抜群の臨場感を誇る「横浜ベイホテル東急」の3大ホテルを厳選。神奈川県横浜市への楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円で憧れの横浜夜景ホテルステイを叶えましょう。
         </p>
         <div className="bg-white/90 rounded-xl p-4 md:p-5 border border-amber-300 shadow-sm">
           <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5">
@@ -164,7 +164,7 @@ export default function FurusatoYokohamaNightviewStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “期待していた内容と異なり残念とても残念でした!クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/177505?revi…　2026-09-04 18:17:07投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “期待していた内容と異なり残念とても残念でした! ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -206,7 +206,7 @@ export default function FurusatoYokohamaNightviewStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “なだ万の朝食がとても美味しくて大満足なだ万の朝食は、とても美味しかったです。ホテルだから仕方ないですが、エアコンの調整は難しく、夜中に何回も起きてしまいました。クチコミの詳細はこちらか…　2026-09-05 20:58:48投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “なだ万の朝食がとても美味しくて大満足なだ万の朝食は、とても美味しかったです。ホテルだから仕方ないですが、エアコンの調整は難しく、夜中に何回も起きてしまいました。
             </blockquote>
           </div>
           <div className="pt-2">
@@ -248,7 +248,7 @@ export default function FurusatoYokohamaNightviewStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “また泊まりたい清潔感があり、良いホテルに宿泊出来たと思える実感があります。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/v…　2026-09-05 09:39:09投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “また泊まりたい清潔感があり、良いホテルに宿泊出来たと思える実感があります。 ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -323,7 +323,7 @@ export default function FurusatoYokohamaNightviewStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

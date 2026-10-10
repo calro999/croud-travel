@@ -44,7 +44,7 @@ export default function FurusatoTaxArticle() {
     <main className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「別府鉄輪温泉 山荘 神和苑」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「別府鉄輪温泉 山荘 神和苑」へは、JR別府駅から車・20分／鉄輪口バス停・徒歩５分／別府IC・車で５分 ※送迎サービス有（定期便／条件・注意事項 要確認）。最寄りの別府（大分）駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「別府鉄輪温泉 山荘 神和苑」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「別府鉄輪温泉 山荘 神和苑」は『「能楽堂」や「茅葺の茶室」を設け、庭園には歴史的な有形指定文化財の史跡や石塔も有する温泉宿』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「別府鉄輪温泉 山荘 神和苑」と「別府最大級の露天風呂の宿 おにやまホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「別府鉄輪温泉 山荘 神和苑」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「別府鉄輪温泉 山荘 神和苑」へは、JR別府駅から車・20分／鉄輪口バス停・徒歩５分／別府IC・車で５分 ※送迎サービス有（定期便／条件・注意事項 要確認）。最寄りの別府（大分）駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「別府鉄輪温泉 山荘 神和苑」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「別府鉄輪温泉 山荘 神和苑」は『「能楽堂」や「茅葺の茶室」を設け、庭園には歴史的な有形指定文化財の史跡や石塔も有する温泉宿』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「別府鉄輪温泉 山荘 神和苑」と「別府最大級の露天風呂の宿 おにやまホテル。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       {/* ヒーローヘッダー */}
       <header className="relative bg-gradient-to-br from-stone-900 via-amber-950 to-stone-900 text-amber-50 py-16 px-4 md:px-8 border-b border-amber-900/50 shadow-2xl">
@@ -185,7 +185,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.51点。「お部屋、庭園、能舞台、すべてが別次元の素晴らしさ」「温泉のとろみと肌触りが最高で何度も入った」とラグジュアリーステイを求める旅行者から絶賛されています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.51点。「お部屋、庭園、能舞台、すべてが別次元の素晴らしさ。」「温泉のとろみと肌触りが最高で何度も入った。」とラグジュアリーステイを求める旅行者から絶賛されています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -279,7 +279,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.48点。「大露天風呂の広さと開放感が圧巻」「屋上の展望風呂からの湯けむり景色が素晴らしかった」と温泉の充実度が高く評価されています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.48点。「大露天風呂の広さと開放感が圧巻」「屋上の展望風呂からの湯けむり景色が素晴らしかった。」と温泉の充実度が高く評価されています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -543,7 +543,7 @@ export default function FurusatoTaxArticle() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「別府鉄輪温泉 山荘 神和苑」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「別府鉄輪温泉 山荘 神和苑」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「別府最大級の露天風呂の宿 おにやまホテル」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「別府最大級の露天風呂の宿 おにやまホテル。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -582,7 +582,7 @@ export default function FurusatoTaxArticle() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「別府鉄輪温泉 山荘 神和苑」と「別府最大級の露天風呂の宿 おにやまホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「別府鉄輪温泉 山荘 神和苑」と「別府最大級の露天風呂の宿 おにやまホテル。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

@@ -7,11 +7,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/toyama-solo-business-tateyama-sauna-stay/" },
   title: '【富山出張＆立山連峰ビュー】富山駅近・天然温泉サウナ・白えび美食！「天然の生簀」富山湾を味わう極上宿 厳選3選',
-  description: '北陸新幹線で東京から約2時間8分！富山湾の神秘と雄大な立山連峰が抱く街・富山。「全館畳敷きで天然温泉大浴場と海鮮いくら朝食」を誇る「御宿 野乃富山」、展望大浴場サウナと立山連峰パノラマビューが自慢の老舗「富山マンテンホテル」、富山駅前至近の「ホテルグランテラス富山」を徹底特集。',
+  description: '北陸新幹線で東京から約2時間8分！富山湾の神秘と雄大な立山連峰が抱く街・富山。「全館畳敷きで天然温泉大浴場と海鮮いくら朝食。」を誇る「御宿 野乃富山」、展望大浴場サウナと立山連峰パノラマビューが自慢の老舗「富山マンテンホテル」、富山駅前至近の「ホテルグランテラス富山」を徹底特集。',
   keywords: '富山 出張 ホテル サウナ,富山 一人旅 ホテル おすすめ,御宿野乃富山 朝食,富山マンテンホテル 大浴場,富山駅 温泉 ホテル',
   openGraph: {
     title: '【富山出張＆立山連峰ビュー】富山駅近・天然温泉サウナ・白えび美食！「天然の生簀」富山湾を味わう極上宿 厳選3選',
-    description: '北陸新幹線で東京から約2時間8分！富山湾の神秘と雄大な立山連峰が抱く街・富山。「全館畳敷きで天然温泉大浴場と海鮮いくら朝食」を誇る「御宿 野乃富山」、展望大浴場サウナと立山連峰パノラマビューが自慢の老舗「富山マンテンホテル」、富山駅前至近の「ホテルグランテラス富山」を徹底特集。',
+    description: '北陸新幹線で東京から約2時間8分！富山湾の神秘と雄大な立山連峰が抱く街・富山。「全館畳敷きで天然温泉大浴場と海鮮いくら朝食。」を誇る「御宿 野乃富山」、展望大浴場サウナと立山連峰パノラマビューが自慢の老舗「富山マンテンホテル」、富山駅前至近の「ホテルグランテラス富山」を徹底特集。',
     url: 'https://croud-travel.pages.dev/toyama-solo-business-tateyama-sauna-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -24,7 +24,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【富山出張＆立山連峰ビュー】富山駅近・天然温泉サウナ・白えび美食！「天然の生簀」富山湾を味わう極上宿 厳選3選',
-    description: '北陸新幹線で東京から約2時間8分！富山湾の神秘と雄大な立山連峰が抱く街・富山。「全館畳敷きで天然温泉大浴場と海鮮いくら朝食」を誇る「御宿 野乃富山」、展望大浴場サウナと立山連峰パノラマビューが自慢の老舗「富山マンテンホテル」、富山駅前至近の「ホテルグランテラス富山」を徹底特集。',
+    description: '北陸新幹線で東京から約2時間8分！富山湾の神秘と雄大な立山連峰が抱く街・富山。「全館畳敷きで天然温泉大浴場と海鮮いくら朝食。」を誇る「御宿 野乃富山」、展望大浴場サウナと立山連峰パノラマビューが自慢の老舗「富山マンテンホテル」、富山駅前至近の「ホテルグランテラス富山」を徹底特集。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・出張調査班',
@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-11T03:30:00+09:00',
-    dateModified: '2026-09-11T03:30:00+09:00',
+    datePublished: 'T03:30:00+09:00',
+    dateModified: 'T03:30:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/toyama-solo-business-tateyama-sauna-stay',
   };
 
@@ -78,7 +78,7 @@ export default function ArticlePage() {
           【富山出張＆立山連峰ビュー】富山駅近・天然温泉サウナ・白えび美食！「天然の生簀」富山湾を味わう極上宿 厳選3選
         </h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
-          北陸新幹線で東京から約2時間8分！富山湾の神秘と雄大な立山連峰が抱く街・富山。「全館畳敷きで天然温泉大浴場と海鮮いくら朝食」を誇る「御宿 野乃富山」、展望大浴場サウナと立山連峰パノラマビューが自慢の老舗「富山マンテンホテル」、富山駅前至近の「ホテルグランテラス富山」を徹底特集。
+          北陸新幹線で東京から約2時間8分！富山湾の神秘と雄大な立山連峰が抱く街・富山。「全館畳敷きで天然温泉大浴場と海鮮いくら朝食。」を誇る「御宿 野乃富山」、展望大浴場サウナと立山連峰パノラマビューが自慢の老舗「富山マンテンホテル」、富山駅前至近の「ホテルグランテラス富山」を徹底特集。
         </p>
       </header>
 
@@ -161,7 +161,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.49点。「全館畳敷きが本当に気持ちよく、温泉とサウナのクオリティが別格でした」「朝食の海鮮丼が美味しく、富山出張の際は必ず泊まっています」とリピーター多数。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.49点。「全館畳敷きが本当に気持ちよく、温泉とサウナのクオリティが別格でした。」「朝食の海鮮丼が美味しく、富山出張の際は必ず泊まっています。」とリピーター多数。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -236,7 +236,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.14点。「大浴場とサウナが広くて快適、露天スペースからの風が気持ちよかった」「路面電車の電停が目の前で市内観光や食事にも便利」と定評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.14点。「大浴場とサウナが広くて快適、露天スペースからの風が気持ちよかった。」「路面電車の電停が目の前で市内観光や食事にも便利。」と定評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -311,7 +311,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価3.89点。「駅から近くてわかりやすく、スタッフの対応も親切でした」「コスパが良く、出張の定宿として使い勝手が良い」と好評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価3.89点。「駅から近くてわかりやすく、スタッフの対応も親切でした。」「コスパが良く、出張の定宿として使い勝手が良い。」と好評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">

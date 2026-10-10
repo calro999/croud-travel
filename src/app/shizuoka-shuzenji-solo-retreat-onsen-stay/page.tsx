@@ -37,8 +37,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-14T00:00:00+09:00',
-    dateModified: '2026-09-14T00:00:00+09:00',
+    datePublished: 'T00:00:00+09:00',
+    dateModified: 'T00:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/shizuoka-shuzenji-solo-retreat-onsen-stay',
   };
 
@@ -64,7 +64,7 @@ export default function ArticlePage() {
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で修善寺の歴史ある文化財旅館に泊まるなら？","acceptedAnswer":{"@type":"Answer","text":"「修善寺温泉 国の登録文化財の宿 新井旅館」は客室や浴堂など随所が国の有形文化財に指定。文豪たちが愛した本物の和の美を一人旅でも贅沢に体感できます。"}},{"@type":"Question","name":"自然豊かな庭園とモダンな温泉露天風呂を楽しみたい時は？","acceptedAnswer":{"@type":"Answer","text":"「修善寺温泉 宙 SORA 渡月荘金龍」は広大な庭園とスタイリッシュなデザイナーズ空間が魅力。静かに過ごしたい大人の一人旅に大人気です。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で修善寺の歴史ある文化財旅館に泊まるなら？","acceptedAnswer":{"@type":"Answer","text":"「修善寺温泉 国の登録文化財の宿 新井旅館。」は客室や浴堂など随所が国の有形文化財に指定。文豪たちが愛した本物の和の美を一人旅でも贅沢に体感できます。"}},{"@type":"Question","name":"自然豊かな庭園とモダンな温泉露天風呂を楽しみたい時は？","acceptedAnswer":{"@type":"Answer","text":"「修善寺温泉 宙 SORA 渡月荘金龍」は広大な庭園とスタイリッシュなデザイナーズ空間が魅力。静かに過ごしたい大人の一人旅に大人気です。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -79,7 +79,7 @@ export default function ArticlePage() {
             【修善寺温泉ひとり旅・伊豆小京都おこもり】竹林の小径・国の登録文化財・桂川渓流露天！千二百年の歴史に抱かれる大人の隠れ宿厳選3宿
           </h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
-            更新日：2026年9月14日 | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
+            更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -312,7 +312,7 @@ export default function ArticlePage() {
                 <span>一人旅で修善寺の歴史ある文化財旅館に泊まるなら？</span>
               </h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
-                「修善寺温泉 国の登録文化財の宿 新井旅館」は客室や浴堂など随所が国の有形文化財に指定。文豪たちが愛した本物の和の美を一人旅でも贅沢に体感できます。
+                「修善寺温泉 国の登録文化財の宿 新井旅館。」は客室や浴堂など随所が国の有形文化財に指定。文豪たちが愛した本物の和の美を一人旅でも贅沢に体感できます。
               </p>
             </div>
             <div className="bg-white p-4 sm:p-5 rounded-xl border border-stone-200">
@@ -362,9 +362,9 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 修善寺駅よりアクセス。伊豆箱根鉄道線 修善寺駅よりバスまたはタクシーで10分／東名・新東名高速 沼津ICより伊豆縦貫道経由45分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「修善寺温泉 国の登録文化財の宿 新井旅館」にチェックイン。ミシュランで二つ星の竹林の小径まで徒歩2分、修善寺温泉の中心で観光に便利ですなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「修善寺温泉 国の登録文化財の宿 新井旅館」の湯処へ。ミシュランで二つ星の竹林の小径まで徒歩2分、修善寺温泉の中心で観光に便とともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「修善寺温泉 国の登録文化財の宿 新井旅館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「修善寺温泉 国の登録文化財の宿 新井旅館。」にチェックイン。ミシュランで二つ星の竹林の小径まで徒歩2分、修善寺温泉の中心で観光に便利ですなどの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「修善寺温泉 国の登録文化財の宿 新井旅館。」の湯処へ。ミシュランで二つ星の竹林の小径まで徒歩2分、修善寺温泉の中心で観光に便とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「修善寺温泉 国の登録文化財の宿 新井旅館。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -373,8 +373,8 @@ export default function ArticlePage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「修善寺温泉 国の登録文化財の宿 新井旅館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「修善寺温泉 国の登録文化財の宿 新井旅館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「修善寺温泉 国の登録文化財の宿 新井旅館。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「修善寺温泉 国の登録文化財の宿 新井旅館。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「修善寺温泉 宙ＳＯＲＡ 渡月荘金龍」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>

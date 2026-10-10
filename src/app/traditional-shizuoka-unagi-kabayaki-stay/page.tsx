@@ -34,7 +34,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2092/2092map.gif",
     "reviewCount": 838,
     "reviewAverage": 4.36,
-    "userReview": "広々とした清潔な部屋と露天風呂に大満足部屋が広く清掃が行きどどいてました。露天風呂に夜入ったのですがとても気持ち良かったです。クチコミの詳細はこちらから　https://review.…　2026-09-13 17:24:53投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=2092\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "広々とした清潔な部屋と露天風呂に大満足部屋が広く清掃が行きどどいてました。露天風呂に夜入ったのですがとても気持ち良かったです。",
     "hotelMinCharge": 8250,
     "address1": "静岡県",
     "address2": "浜松市中央区舘山寺町398番地",
@@ -109,11 +109,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/39935/39935map.gif",
     "reviewCount": 146,
     "reviewAverage": 4.25,
-    "userReview": "伊勢湾フェリーの利用に便利、魚料理も絶品翌日に伊勢湾フェリーを利用するために、宿泊しました。一階部分の食堂で夕飯を頂きました。直距離の運転だったので、ビールが最高に旨かったです。魚料理は、お刺身が…　2026-08-26 14:21:44投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=39935\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "伊勢湾フェリーの利用に便利、魚料理も絶品翌日に伊勢湾フェリーを利用するために、宿泊しました。一階部分の食堂で夕飯を頂きました。直距離の運転だったので、ビールが最高に旨かったです。魚料理は、お刺身が。",
     "hotelMinCharge": 4400,
     "address1": "愛知県",
     "address2": "田原市福江町中紺屋瀬古22-1",
-    "telephoneNo": "0531-32-0234",
+    "telephoneNo": "34",
     "access": "豊橋よりバスにて６０分～福江バス停で下車～徒歩１分／当館の入口は、通りに面したレンガの壁が目印です",
     "parkingInformation": "有り　２０台　無料　先着順",
     "nearestStation": "豊橋",
@@ -181,7 +181,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「浜名湖かんざんじ温泉 ホテル鞠水亭」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「浜名湖かんざんじ温泉 ホテル鞠水亭」へは、ＪＲ浜松駅より路線バスで４５分（舘山寺温泉行き） 東名高速、舘山寺スマートＩＣより約５分。最寄りの浜松駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「浜名湖かんざんじ温泉 ホテル鞠水亭」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「浜名湖かんざんじ温泉 ホテル鞠水亭」は『浜名湖内浦湾と大草山を一望できる湖畔の宿。石造りと御殿風檜造りの2種類の展望露天風呂が自慢』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「浜名湖かんざんじ温泉 ホテル鞠水亭」と「月の名勝地 割烹旅館 琴水」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「浜名湖かんざんじ温泉 ホテル鞠水亭」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「浜名湖かんざんじ温泉 ホテル鞠水亭」へは、ＪＲ浜松駅より路線バスで４５分（舘山寺温泉行き） 東名高速、舘山寺スマートＩＣより約５分。最寄りの浜松駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「浜名湖かんざんじ温泉 ホテル鞠水亭」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「浜名湖かんざんじ温泉 ホテル鞠水亭」は『浜名湖内浦湾と大草山を一望できる湖畔の宿。石造りと御殿風檜造りの2種類の展望露天風呂が自慢。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「浜名湖かんざんじ温泉 ホテル鞠水亭」と「月の名勝地 割烹旅館 琴水」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -544,7 +544,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「浜名湖かんざんじ温泉 ホテル鞠水亭」は『浜名湖内浦湾と大草山を一望できる湖畔の宿。石造りと御殿風檜造りの2種類の展望露天風呂が自慢』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「浜名湖かんざんじ温泉 ホテル鞠水亭」は『浜名湖内浦湾と大草山を一望できる湖畔の宿。石造りと御殿風檜造りの2種類の展望露天風呂が自慢。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

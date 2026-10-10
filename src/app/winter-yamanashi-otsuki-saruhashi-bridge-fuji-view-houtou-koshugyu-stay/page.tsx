@@ -359,7 +359,7 @@ export default function FeaturePage() {
 
                     <div className="bg-amber-50/70 border border-amber-200/60 rounded-lg p-3 text-xs text-stone-700 space-y-1">
                       <span className="font-bold text-amber-900 block">宿泊者のクチコミ・評判抜粋</span>
-                      <p className="line-clamp-2 italic text-stone-600">「道は迷ったが、施設は綺麗で接客も丁寧初めて利用した駅ということもあって、ホテルまでの道が少し迷いましたが、とても綺麗で接客がとても丁寧でしたクチコミの詳細はこちらから　https://revi…　2026-10-01 08:37:27投稿 つづきはこちら」</p>
+                      <p className="line-clamp-2 italic text-stone-600">「道は迷ったが、施設は綺麗で接客も丁寧初めて利用した駅ということもあって、ホテルまでの道が少し迷いましたが、とても綺麗で接客がとても丁寧でした。」</p>
                     </div>
                   </div>
                 </div>
@@ -434,7 +434,7 @@ export default function FeaturePage() {
 
                     <div className="bg-amber-50/70 border border-amber-200/60 rounded-lg p-3 text-xs text-stone-700 space-y-1">
                       <span className="font-bold text-amber-900 block">宿泊者のクチコミ・評判抜粋</span>
-                      <p className="line-clamp-2 italic text-stone-600">「温泉とサウナが最高、アロマの香りに癒される温泉の泉質が良いです。サウナは広く、オートロウリュウもあり、熱さも抜群。朝食も美味しく、何泊もしたくなる宿です。また、アロマの匂いが所々感じられ癒…　2026-09-26 21:43:50投稿 つづきはこちら」</p>
+                      <p className="line-clamp-2 italic text-stone-600">「温泉とサウナが最高、アロマの香りに癒される温泉の泉質が良いです。サウナは広く、オートロウリュウもあり、熱さも抜群。朝食も美味しく、何泊もしたくなる宿です。また、アロマの匂いが所々感じられ癒。」</p>
                     </div>
                   </div>
                 </div>
@@ -509,7 +509,7 @@ export default function FeaturePage() {
 
                     <div className="bg-amber-50/70 border border-amber-200/60 rounded-lg p-3 text-xs text-stone-700 space-y-1">
                       <span className="font-bold text-amber-900 block">宿泊者のクチコミ・評判抜粋</span>
-                      <p className="line-clamp-2 italic text-stone-600">「夕食と富士山に感動、スタッフの対応も素敵夕飯がとても美味しかったです。担当してくれた仲居さんがとても素晴らしく さらに満足な夕食でした。大浴場の洗い場が30人分以上で40近いかもしれませんので…　2026-10-03 15:46:03投稿 つづきはこちら」</p>
+                      <p className="line-clamp-2 italic text-stone-600">「夕食と富士山に感動、スタッフの対応も素敵夕飯がとても美味しかったです。担当してくれた仲居さんがとても素晴らしく さらに満足な夕食でした。大浴場の洗い場が30人分以上で40近いかもしれませんので。」</p>
                     </div>
                   </div>
                 </div>
@@ -584,7 +584,7 @@ export default function FeaturePage() {
 
                     <div className="bg-amber-50/70 border border-amber-200/60 rounded-lg p-3 text-xs text-stone-700 space-y-1">
                       <span className="font-bold text-amber-900 block">宿泊者のクチコミ・評判抜粋</span>
-                      <p className="line-clamp-2 italic text-stone-600">「割高バイキングは良かったですが、部屋の広さとお風呂の狭さが気になりました。2部屋で15万は高すぎでしたね。クチコミの詳細はこちらから　https://review.travel.rakut…　2026-10-02 20:20:25投稿 つづきはこちら」</p>
+                      <p className="line-clamp-2 italic text-stone-600">「割高バイキングは良かったですが、部屋の広さとお風呂の狭さが気になりました。2部屋で15万は高すぎでしたね。」</p>
                     </div>
                   </div>
                 </div>
@@ -659,7 +659,7 @@ export default function FeaturePage() {
 
                     <div className="bg-amber-50/70 border border-amber-200/60 rounded-lg p-3 text-xs text-stone-700 space-y-1">
                       <span className="font-bold text-amber-900 block">宿泊者のクチコミ・評判抜粋</span>
-                      <p className="line-clamp-2 italic text-stone-600">「サウナ増設に感激、食事は満足だが改善点も3年ぶりの宿泊。富嶽サウナ増設知らず感激。天候は恵まれず次会に期待。妻は女性軽視と落胆。交替入浴検討しては。夕食ルーブル満足。朝食ビュッフェはアイテム減って…　2026-10-02 18:52:41投稿 つづきはこちら」</p>
+                      <p className="line-clamp-2 italic text-stone-600">「サウナ増設に感激、食事は満足だが改善点も3年ぶりの宿泊。富嶽サウナ増設知らず感激。天候は恵まれず次会に期待。妻は女性軽視と落胆。交替入浴検討しては。夕食ルーブル満足。朝食ビュッフェはアイテム減って。」</p>
                     </div>
                   </div>
                 </div>

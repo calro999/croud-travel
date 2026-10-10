@@ -37,8 +37,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-13T00:00:00+09:00',
-    dateModified: '2026-09-13T00:00:00+09:00',
+    datePublished: 'T00:00:00+09:00',
+    dateModified: 'T00:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/hakodate-yunokawa-solo-retreat-onsen-stay',
   };
 
@@ -76,7 +76,7 @@ export default function ArticlePage() {
           【函館・湯の川温泉ひとり旅】津軽海峡イカ釣り漁火・名湯掛け流し・海鮮ビュッフェ！歴史薫る北の温泉街おこもり厳選3宿
         </h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
-          <time dateTime="2026-09-13">2026.09.13 更新</time>
+          <time dateTime="">2026.09.13 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
         </div>
@@ -410,7 +410,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「函館・湯の川温泉 ホテル万惣」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「函館・湯の川温泉 ホテル万惣」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「Ｔａｂｉｓｔ 竹葉新葉亭 函館 湯の川温泉」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「Ｔａｂｉｓｔ 竹葉新葉亭 函館 湯の川温泉。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>

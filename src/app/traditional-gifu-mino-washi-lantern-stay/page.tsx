@@ -34,7 +34,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/144969/144969map.gif",
     "reviewCount": 309,
     "reviewAverage": 4.28,
-    "userReview": "鵜飼観覧と親切な対応で両親も大満足鵜飼観覧を目的に義理の両親も誘い多人数で伺いました。親切にしてもらえました。皆で夜はお酒たしなみながらでしたので氷等色々お借りしました際も気持ちよく対応していただ…　2026-09-14 17:51:02投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=144969\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "鵜飼観覧と親切な対応で両親も大満足鵜飼観覧を目的に義理の両親も誘い多人数で伺いました。親切にしてもらえました。皆で夜はお酒たしなみながらでしたので氷等色々お借りしました際も気持ちよく対応していただ。",
     "hotelMinCharge": 5500,
     "address1": "岐阜県",
     "address2": "岐阜市長良112",
@@ -59,7 +59,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2979/2979map.gif",
     "reviewCount": 1856,
     "reviewAverage": 4.62,
-    "userReview": "接客もお風呂も鵜飼も全て大満足接客/お風呂/鵜飼 全て満足クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/2979?…　2026-09-18 21:07:32投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=2979\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "接客もお風呂も鵜飼も全て大満足接客/お風呂/鵜飼 全て満足。",
     "hotelMinCharge": 8250,
     "address1": "岐阜県",
     "address2": "岐阜市湊町１０番地",
@@ -84,7 +84,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5879/5879map.gif",
     "reviewCount": 1111,
     "reviewAverage": 4.22,
-    "userReview": "絶景と飛騨牛、温泉を満喫して大満足お部屋は最上階角部屋で、2面の窓がとても広くて、長良川、金華山と岐阜城が一望できます。最高でした。夕食の飛騨牛も柔らかくてとてもおいしかったです。フリードリン…　2026-09-15 18:37:47投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=5879\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "絶景と飛騨牛、温泉を満喫して大満足お部屋は最上階角部屋で、2面の窓がとても広くて、長良川、金華山と岐阜城が一望できます。最高でした。夕食の飛騨牛も柔らかくてとてもおいしかったです。フリードリン。",
     "hotelMinCharge": 11000,
     "address1": "岐阜県",
     "address2": "岐阜市湊町397-2",
@@ -113,7 +113,7 @@ const hotels: any[] = [
     "hotelMinCharge": 7700,
     "address1": "岐阜県",
     "address2": "美濃市安毛31-5",
-    "telephoneNo": "0575-33-0426",
+    "telephoneNo": "26",
     "access": "美濃市駅より車で7分/美濃ＩＣから7分",
     "parkingInformation": "有り　60台　　無料",
     "nearestStation": "梅山",
@@ -138,7 +138,7 @@ const hotels: any[] = [
     "hotelMinCharge": 29700,
     "address1": "岐阜県",
     "address2": "高山市奥飛騨温泉郷神坂405",
-    "telephoneNo": "0578-89-2046",
+    "telephoneNo": "46",
     "access": "高山駅前「高山濃飛バスセンター」よりバス「新穂高温泉行き」乗車、「新穂高温泉口」下車徒歩0分(^^♪　当館正面",
     "parkingInformation": "有り　１４台　無料　予約不要",
     "nearestStation": "高山",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「長良川温泉 石金」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「長良川温泉 石金」へは、ＪＲ 岐阜駅よりバス（岐阜バスターミナル１２番１３番乗り場）にて１５分、『鵜飼屋』下車し徒歩３分。最寄りの岐阜駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「長良川温泉 石金」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「長良川温泉 石金」は『源泉かけ流し 長良川と金華山の絶景◆地元食材を堪能できる会席料理 全16室の歴史ある温泉宿』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「長良川温泉 石金」と「長良川温泉 十八楼」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「長良川温泉 石金」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「長良川温泉 石金」へは、ＪＲ 岐阜駅よりバス（岐阜バスターミナル１２番１３番乗り場）にて１５分、『鵜飼屋』下車し徒歩３分。最寄りの岐阜駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「長良川温泉 石金」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「長良川温泉 石金」は『源泉かけ流し 長良川と金華山の絶景◆地元食材を堪能できる会席料理 全16室の歴史ある温泉宿。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「長良川温泉 石金」と「長良川温泉 十八楼」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -628,7 +628,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「長良川温泉 石金」は『源泉かけ流し 長良川と金華山の絶景◆地元食材を堪能できる会席料理 全16室の歴史ある温泉宿』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「長良川温泉 石金」は『源泉かけ流し 長良川と金華山の絶景◆地元食材を堪能できる会席料理 全16室の歴史ある温泉宿。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

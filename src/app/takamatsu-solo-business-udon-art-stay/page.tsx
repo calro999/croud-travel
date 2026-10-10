@@ -7,11 +7,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/takamatsu-solo-business-udon-art-stay/" },
   title: '【高松出張＆讃岐うどんひとり旅】高松港・サンポートビュー・天然温泉・名物うどん朝食！瀬戸内の風を感じる快適宿 厳選3選',
-  description: '本州と四国を結ぶ海の玄関口・香川県高松市！「高松駅＆高松港直結・瀬戸内海の島々を見渡す最高峰シティホテル」を誇る「JRホテルクレメント高松」、全室ライブラリーラウンジ付きで上質な滞在を約束する「ロイヤルパークホテル高松」、瓦町駅近くで自家源泉天然温泉と夜鳴きそば完備の「さぬきの湯 ドーミーイン高松」を徹底比較。',
+  description: '本州と四国を結ぶ海の玄関口・香川県高松市！「高松駅＆高松港直結・瀬戸内海の島々を見渡す最高峰シティホテル。」を誇る「JRホテルクレメント高松」、全室ライブラリーラウンジ付きで上質な滞在を約束する「ロイヤルパークホテル高松」、瓦町駅近くで自家源泉天然温泉と夜鳴きそば完備の「さぬきの湯 ドーミーイン高松」を徹底比較。',
   keywords: '高松 出張 ホテル おすすめ,高松 一人旅 ホテル,JRホテルクレメント高松 宿泊,ロイヤルパークホテル高松 ラウンジ,ドーミーイン高松 温泉',
   openGraph: {
     title: '【高松出張＆讃岐うどんひとり旅】高松港・サンポートビュー・天然温泉・名物うどん朝食！瀬戸内の風を感じる快適宿 厳選3選',
-    description: '本州と四国を結ぶ海の玄関口・香川県高松市！「高松駅＆高松港直結・瀬戸内海の島々を見渡す最高峰シティホテル」を誇る「JRホテルクレメント高松」、全室ライブラリーラウンジ付きで上質な滞在を約束する「ロイヤルパークホテル高松」、瓦町駅近くで自家源泉天然温泉と夜鳴きそば完備の「さぬきの湯 ドーミーイン高松」を徹底比較。',
+    description: '本州と四国を結ぶ海の玄関口・香川県高松市！「高松駅＆高松港直結・瀬戸内海の島々を見渡す最高峰シティホテル。」を誇る「JRホテルクレメント高松」、全室ライブラリーラウンジ付きで上質な滞在を約束する「ロイヤルパークホテル高松」、瓦町駅近くで自家源泉天然温泉と夜鳴きそば完備の「さぬきの湯 ドーミーイン高松」を徹底比較。',
     url: 'https://croud-travel.pages.dev/takamatsu-solo-business-udon-art-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -24,7 +24,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【高松出張＆讃岐うどんひとり旅】高松港・サンポートビュー・天然温泉・名物うどん朝食！瀬戸内の風を感じる快適宿 厳選3選',
-    description: '本州と四国を結ぶ海の玄関口・香川県高松市！「高松駅＆高松港直結・瀬戸内海の島々を見渡す最高峰シティホテル」を誇る「JRホテルクレメント高松」、全室ライブラリーラウンジ付きで上質な滞在を約束する「ロイヤルパークホテル高松」、瓦町駅近くで自家源泉天然温泉と夜鳴きそば完備の「さぬきの湯 ドーミーイン高松」を徹底比較。',
+    description: '本州と四国を結ぶ海の玄関口・香川県高松市！「高松駅＆高松港直結・瀬戸内海の島々を見渡す最高峰シティホテル。」を誇る「JRホテルクレメント高松」、全室ライブラリーラウンジ付きで上質な滞在を約束する「ロイヤルパークホテル高松」、瓦町駅近くで自家源泉天然温泉と夜鳴きそば完備の「さぬきの湯 ドーミーイン高松」を徹底比較。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・出張調査班',
@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-11T03:30:00+09:00',
-    dateModified: '2026-09-11T03:30:00+09:00',
+    datePublished: 'T03:30:00+09:00',
+    dateModified: 'T03:30:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/takamatsu-solo-business-udon-art-stay',
   };
 
@@ -78,7 +78,7 @@ export default function ArticlePage() {
           【高松出張＆讃岐うどんひとり旅】高松港・サンポートビュー・天然温泉・名物うどん朝食！瀬戸内の風を感じる快適宿 厳選3選
         </h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
-          本州と四国を結ぶ海の玄関口・香川県高松市！「高松駅＆高松港直結・瀬戸内海の島々を見渡す最高峰シティホテル」を誇る「JRホテルクレメント高松」、全室ライブラリーラウンジ付きで上質な滞在を約束する「ロイヤルパークホテル高松」、瓦町駅近くで自家源泉天然温泉と夜鳴きそば完備の「さぬきの湯 ドーミーイン高松」を徹底比較。
+          本州と四国を結ぶ海の玄関口・香川県高松市！「高松駅＆高松港直結・瀬戸内海の島々を見渡す最高峰シティホテル。」を誇る「JRホテルクレメント高松」、全室ライブラリーラウンジ付きで上質な滞在を約束する「ロイヤルパークホテル高松」、瓦町駅近くで自家源泉天然温泉と夜鳴きそば完備の「さぬきの湯 ドーミーイン高松」を徹底比較。
         </p>
       </header>
 
@@ -161,7 +161,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.48点。「駅からも港からもすぐで立地が完璧。お部屋からの瀬戸内海の景色が素晴らしかった」「スタッフの対応も一流で、高松出張の定宿です」と絶賛。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.48点。「駅からも港からもすぐで立地が完璧。お部屋からの瀬戸内海の景色が素晴らしかった。」「スタッフの対応も一流で、高松出張の定宿です。」と絶賛。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -236,7 +236,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.38点。「ラウンジでお酒をいただきながらゆっくり本を読めて最高でした」「お部屋の内装がとてもお洒落で、朝食の和定食も美味しかったです」と大好評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.38点。「ラウンジでお酒をいただきながらゆっくり本を読めて最高でした。」「お部屋の内装がとてもお洒落で、朝食の和定食も美味しかったです。」と大好評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -311,7 +311,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.39点。「繁華街に近くて温泉とサウナに入れるのがありがたい」「朝食で自分で作る讃岐うどんが美味しく、夜鳴きそばも安定の味でした」と好評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.39点。「繁華街に近くて温泉とサウナに入れるのがありがたい。」「朝食で自分で作る讃岐うどんが美味しく、夜鳴きそばも安定の味でした。」と好評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">

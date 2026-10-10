@@ -47,8 +47,8 @@ export default function Page() {
       "headline": "【藍商人の白壁美・うだつの町並みと四国霊場切幡寺初詣】2026-2027年冬の徳島・美馬＆吉野川！阿波尾鶏地鶏鍋と清流温泉名宿5選",
       "description": "江戸〜明治の藍商人たちが築いた重伝建「脇町・うだつの上がる町並み」の凛とした冬景色！四国八十八箇所第十番札所・切幡寺の五重塔新春初詣。徳島が誇る最高峰地鶏「阿波尾鶏」の水炊き・すき焼きと吉野川流域の美肌温泉に癒やされる冬の厳選名宿5選。",
       "image": "https://img.travel.rakuten.co.jp/share/HOTEL/181667/181667.jpg",
-      "datePublished": "2026-10-09",
-      "dateModified": "2026-10-09",
+      "datePublished": "",
+      "dateModified": "",
       "author": {
         "@type": "Organization",
         "name": "Japan Travel Curations"
@@ -463,7 +463,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「半露天風呂と女将さんの心遣いに大満足半露天風呂付きのお部屋を予約しましたがチェックアウトまで温度管理がされていて、とても快適で気持ちの良いお風呂で温泉宿を満喫出来ました。女将さんが夕食の時色々…　2026-09-28 00:36:26投稿 <a href=”https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=13994” class=”3click”>つづきはこちら</a>」"}</span>
+                  <span>{"「半露天風呂と女将さんの心遣いに大満足半露天風呂付きのお部屋を予約しましたがチェックアウトまで温度管理がされていて、とても快適で気持ちの良いお風呂で温泉宿を満喫出来ました。女将さんが夕食の時色々。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -530,7 +530,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「禁煙室なのに廊下からタバコの煙が入り込む一階の部屋は禁煙部屋でも廊下からタバコの煙が入ってきて部屋中が臭くなる。クチコミの詳細はこちらから　https://review.travel.raku…　2026-09-26 07:14:42投稿 <a href=”https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=9409” class=”3click”>つづきはこちら</a>」"}</span>
+                  <span>{"「禁煙室なのに廊下からタバコの煙が入り込む一階の部屋は禁煙部屋でも廊下からタバコの煙が入ってきて部屋中が臭くなる。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -597,7 +597,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「駅近で部屋も広くバスタブも大きく大満足素泊まりで2泊しましたが、駅近と言うロケーションですが、価格が安いし、部屋はこの値段ではほぉ～というくらい広いですし、バスタブも大きくて大満足でした。また…　2026-09-29 19:17:33投稿 <a href=”https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=40401” class=”3click”>つづきはこちら</a>」"}</span>
+                  <span>{"「駅近で部屋も広くバスタブも大きく大満足素泊まりで2泊しましたが、駅近と言うロケーションですが、価格が安いし、部屋はこの値段ではほぉ～というくらい広いですし、バスタブも大きくて大満足でした。また。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -664,7 +664,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「虫の侵入と清掃不足が目立ち残念部屋に蜘蛛が2匹と小さい虫も飛んでいました。バスタブにお湯をためようかと思いましたが、バスタブを指でこすると垢がすごかったのでやめました。洗面所のコップにも汚…　2026-10-01 21:13:54投稿 <a href=”https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=67851” class=”3click”>つづきはこちら</a>」"}</span>
+                  <span>{"「バスタブにお湯をためようかと思いましたが、バスタブを指でこすると垢がすごかったのでやめました。洗面所のコップにも汚。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">

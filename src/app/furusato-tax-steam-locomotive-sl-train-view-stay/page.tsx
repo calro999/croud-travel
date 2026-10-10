@@ -62,7 +62,7 @@ export default function FurusatoSteamLocomotiveSLTrainStayPage() {
           黒煙と汽笛が旅情を揺さぶる！大井川鐵道・秩父鉄道・磐越西線のSL・蒸気機関車ビューステイ×ふるさと納税完全ガイド【2026年最新】島田・秩父・会津若松
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-09">2026年9月9日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -164,7 +164,7 @@ export default function FurusatoSteamLocomotiveSLTrainStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “料理のクオリティが最高で全てに大満足何もかも最高でした。特に料理のクオリティが最高でしたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/…　2026-09-05 14:55:20投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “料理のクオリティが最高で全てに大満足何もかも最高でした。特に料理のクオリティが最高でした ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -206,7 +206,7 @@ export default function FurusatoSteamLocomotiveSLTrainStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “とても満足です2回目の利用ですが、今回もベテランのスタッフが多く活躍されており、宿の安心感と各種サービスの安定感がありました。スタンダードな食事を選択しましたが、見た目の細かなところにも繊細な気配…　2026-09-05 21:27:28投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “とても満足です2回目の利用ですが、今回もベテランのスタッフが多く活躍されており、宿の安心感と各種サービスの安定感がありました。スタンダードな食事を選択しましたが、見た目の細かなところにも繊細な気配… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -248,7 +248,7 @@ export default function FurusatoSteamLocomotiveSLTrainStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “また行きます!食事美味しい!つきたて餅最高!お部屋も素敵!温泉最高!湯上りのソフトクリームとビールも最高!従業員の方々もとても優しい!また行きまーすクチコミの詳細はこちらか…　2026-09-06 00:31:18投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “また行きます!食事美味しい!つきたて餅最高!お部屋も素敵!温泉最高!湯上りのソフトクリームとビールも最高!従業員の方々もとても優しい!また行きまーす
             </blockquote>
           </div>
           <div className="pt-2">
@@ -323,7 +323,7 @@ export default function FurusatoSteamLocomotiveSLTrainStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。年末の駆け込み寄付でクーポンを確保しておき、翌年以降の記念日や旅行シーズンにゆっくり利用できます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。年末の駆け込み寄付でクーポンを確保しておき、翌年以降の記念日や旅行シーズンにゆっくり利用できます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">
@@ -332,7 +332,7 @@ export default function FurusatoSteamLocomotiveSLTrainStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              トラベルクーポンは楽天トラベル上の「宿泊プラン代金（事前決済または現地決済の宿泊費）」に対して適用されます。現地での追加注文をお得にしたい場合は、夕食時のドリンクインクルーシブプランやエステ付き宿泊プランをあらかじめ選んで予約するのが賢い方法です。
+              トラベルクーポンは楽天トラベル上の「宿泊プラン代金（事前決済または現地決済の宿泊費）。」に対して適用されます。現地での追加注文をお得にしたい場合は、夕食時のドリンクインクルーシブプランやエステ付き宿泊プランをあらかじめ選んで予約するのが賢い方法です。
             </p>
           </details>
         </div>

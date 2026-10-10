@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-27",
-    "dateModified": "2026-09-27",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/organic-forest-sauna-cold-water-stream-stay"
   };
 
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D41071%26f_flg%3DPLAN",
     "hotelMinCharge": 8023,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/41071/41071.jpg",
-    "userReview": "バイキングも美味しいし、サウナもお風呂も最高でした。また、行きたいです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/…　2026-09-17 20:53:55投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=41071\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "バイキングも美味しいし、サウナもお風呂も最高でした。また、行きたいです。",
     "reviewAverage": 4.37,
     "reviewCount": 6828,
     "address": "東京都中央区新川2－20－4",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D14736%26f_flg%3DPLAN",
     "hotelMinCharge": 8800,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14736/14736.jpg",
-    "userReview": "清潔感ある館内と温泉、美味しい食事に大満足建物自体は古かったですが、全体に清潔感があり、気持ち良く滞在できました。温泉もお湯がオーバーフローしていて気持ち良かったです。夕食もどれも綺麗に盛り付…　2026-09-17 17:55:55投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=14736\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "清潔感ある館内と温泉、美味しい食事に大満足建物自体は古かったですが、全体に清潔感があり、気持ち良く滞在できました。温泉もお湯がオーバーフローしていて気持ち良かったです。夕食もどれも綺麗に盛り付。",
     "reviewAverage": 4.11,
     "reviewCount": 1237,
     "address": "神奈川県静岡県熱海市泉266",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D8385%26f_flg%3DPLAN",
     "hotelMinCharge": 6160,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8385/8385.jpg",
-    "userReview": "目の前で上がる花火と鵜飼に感動鵜飼が始まる時に花火が上がったんですが、目の前で上がって良かったです。他の画像やクチコミの詳細はこちらから　https://review.travel.rakut…　2026-09-17 18:17:35投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=8385\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "目の前で上がる花火と鵜飼に感動鵜飼が始まる時に花火が上がったんですが、目の前で上がって良かったです。他の画像や。",
     "reviewAverage": 4.37,
     "reviewCount": 2805,
     "address": "岐阜県岐阜市長良648",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D80792%26f_flg%3DPLAN",
     "hotelMinCharge": 22000,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/80792/80792.jpg",
-    "userReview": "日本語が堪能なスタッフと心遣いに感謝スタッフは外国人でしたが、日本語がとてもお上手で、浴衣も夫と私のピッタリサイズを持って来て頂いて、気持ちよく過ごせました。クチコミの詳細はこちらから　htt…　2026-09-17 17:23:47投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=80792\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "日本語が堪能なスタッフと心遣いに感謝スタッフは外国人でしたが、日本語がとてもお上手で、浴衣も夫と私のピッタリサイズを持って来て頂いて、気持ちよく過ごせました。",
     "reviewAverage": 4.7,
     "reviewCount": 211,
     "address": "熊本県阿蘇郡南小国町満願寺6700",
@@ -322,9 +322,9 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 伊豆北川駅から徒歩で約１１分で現地へ到着。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「空と海が満ちる高台の天然温泉サウナＳＰＡ Ｖｉｌｌａ ＾」へチェックイン。落ち着いた空間で旅の荷を解き、ゆったりとした時間をスタート。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「空と海が満ちる高台の天然温泉サウナＳＰＡ Ｖｉｌｌａ ＾」の湯処へ。日頃の疲れを癒やす湯浴みとともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「空と海が満ちる高台の天然温泉サウナＳＰＡ Ｖｉｌｌａ ＾」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「空と海が満ちる高台の天然温泉サウナＳＰＡ Ｖｉｌｌａ ＾。」へチェックイン。落ち着いた空間で旅の荷を解き、ゆったりとした時間をスタート。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「空と海が満ちる高台の天然温泉サウナＳＰＡ Ｖｉｌｌａ ＾。」の湯処へ。日頃の疲れを癒やす湯浴みとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「空と海が満ちる高台の天然温泉サウナＳＰＡ Ｖｉｌｌａ ＾。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -333,9 +333,9 @@ export default function Page() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「空と海が満ちる高台の天然温泉サウナＳＰＡ Ｖｉｌｌａ ＾」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「空と海が満ちる高台の天然温泉サウナＳＰＡ Ｖｉｌｌａ ＾」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「亀島川温泉 新川の湯 ドーミーイン東京八丁堀」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「空と海が満ちる高台の天然温泉サウナＳＰＡ Ｖｉｌｌａ ＾。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「空と海が満ちる高台の天然温泉サウナＳＰＡ Ｖｉｌｌａ ＾。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「亀島川温泉 新川の湯 ドーミーイン東京八丁堀。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -352,20 +352,20 @@ export default function Page() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「空と海が満ちる高台の天然温泉サウナＳＰＡ Ｖｉｌｌａ ＾」へのアクセスや移動方法について</span>
+                <span>Q. 「空と海が満ちる高台の天然温泉サウナＳＰＡ Ｖｉｌｌａ ＾。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「空と海が満ちる高台の天然温泉サウナＳＰＡ Ｖｉｌｌａ ＾」へは、伊豆北川駅から徒歩で約１１分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。
+                A. 「空と海が満ちる高台の天然温泉サウナＳＰＡ Ｖｉｌｌａ ＾。」へは、伊豆北川駅から徒歩で約１１分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「空と海が満ちる高台の天然温泉サウナＳＰＡ Ｖｉｌｌａ ＾」の魅力や予約時のポイントは？</span>
+                <span>Q. 「空と海が満ちる高台の天然温泉サウナＳＰＡ Ｖｉｌｌａ ＾。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「空と海が満ちる高台の天然温泉サウナＳＰＡ Ｖｉｌｌａ ＾」は上質な客室空間とおもてなしが旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「空と海が満ちる高台の天然温泉サウナＳＰＡ Ｖｉｌｌａ ＾。」は上質な客室空間とおもてなしが旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -374,7 +374,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「空と海が満ちる高台の天然温泉サウナＳＰＡ Ｖｉｌｌａ ＾」と「亀島川温泉 新川の湯 ドーミーイン東京八丁堀」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「空と海が満ちる高台の天然温泉サウナＳＰＡ Ｖｉｌｌａ ＾。」と「亀島川温泉 新川の湯 ドーミーイン東京八丁堀。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

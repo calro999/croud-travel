@@ -44,7 +44,7 @@ export default function FurusatoTaxArticle() {
     <main className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「黒川温泉 山あいの宿 山みず木」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「黒川温泉 山あいの宿 山みず木」へは、大分自動車道・日田ICより国道212号線を熊本方面へ約70分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「黒川温泉 山あいの宿 山みず木」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「黒川温泉 山あいの宿 山みず木」は『自然豊かな渓流のせせらぎに包まれ、源泉かけ流しの迫力ある露天風呂と旬の会席料理を味わう温泉』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「黒川温泉 山あいの宿 山みず木」と「黒川温泉 旅館 わかば」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「黒川温泉 山あいの宿 山みず木」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「黒川温泉 山あいの宿 山みず木」へは、大分自動車道・日田ICより国道212号線を熊本方面へ約70分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「黒川温泉 山あいの宿 山みず木」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「黒川温泉 山あいの宿 山みず木」は『自然豊かな渓流のせせらぎに包まれ、源泉かけ流しの迫力ある露天風呂と旬の会席料理を味わう温泉。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「黒川温泉 山あいの宿 山みず木」と「黒川温泉 旅館 わかば」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       {/* ヒーローヘッダー */}
       <header className="relative bg-gradient-to-br from-stone-900 via-amber-950 to-stone-900 text-amber-50 py-16 px-4 md:px-8 border-b border-amber-900/50 shadow-2xl">
@@ -77,7 +77,7 @@ export default function FurusatoTaxArticle() {
             雑木林に溶け込む里山情緒、渓流のせせらぎと湯巡り手形——黒川温泉で過ごす至高の隠れ家ステイ
           </h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
-            阿蘇山と九重連山に抱かれた緑豊かな山あいに佇む黒川温泉。「街全体が一軒の宿、通りは廊下、旅館は客室、木々は庭の植木」という統一された景観づくりと自然保護の理念のもと、すべての旅館が木と土の温もりを大切にした純和風の佇まいを守り続けています。看板やネオンを排し、里山の原風景を残した温泉街を浴衣に下駄履きで歩く時間は、日本人が忘れかけていた旅の原点を思い出させてくれます。
+            阿蘇山と九重連山に抱かれた緑豊かな山あいに佇む黒川温泉。「街全体が一軒の宿、通りは廊下、旅館は客室、木々は庭の植木。」という統一された景観づくりと自然保護の理念のもと、すべての旅館が木と土の温もりを大切にした純和風の佇まいを守り続けています。看板やネオンを排し、里山の原風景を残した温泉街を浴衣に下駄履きで歩く時間は、日本人が忘れかけていた旅の原点を思い出させてくれます。
           </p>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             黒川温泉の最大の魅力は、地元特産の小国杉で作られた「入湯手形」を使って、各宿自慢の趣向を凝らした露天風呂を巡れること。渓流沿いの大野天風呂、巨岩をくり抜いた野趣あふれる湯船、神秘的な洞窟風呂など、泉質も景観も異なる名湯が旅人を迎えます。そして夕食には、阿蘇の大自然が育んだブランド和牛「あか牛」やヤマメ、山菜を使った贅沢な会席料理。南小国町へのふるさと納税を活用すれば、寄付額の30%相当が宿泊クーポンとして還元され、憧れの隠れ家旅館へ驚くほどお得に滞在できます。
@@ -185,7 +185,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.62点。「川沿いの露天風呂が言葉を失うほど美しかった」「スタッフの物腰が柔らかく、本当に心が洗われる滞在になった」と絶賛の口コミが絶えません。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.62点。「川沿いの露天風呂が言葉を失うほど美しかった。」「スタッフの物腰が柔らかく、本当に心が洗われる滞在になった。」と絶賛の口コミが絶えません。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -279,7 +279,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.56点、口コミ約700件。「化粧水の湯の名前通り肌がつるつるになった」「スタッフの温かい気配りと食事が本当に美味しかった」とリピーターが多数。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.56点、口コミ約700件。「化粧水の湯の名前通り肌がつるつるになった。」「スタッフの温かい気配りと食事が本当に美味しかった。」とリピーターが多数。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -373,7 +373,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.65点。「洞窟風呂のアドベンチャー感と泉質の良さが最高」「古い木造建築の風情と川のせせらぎに癒やされた」と高い評価を獲得しています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.65点。「洞窟風呂のアドベンチャー感と泉質の良さが最高。」「古い木造建築の風情と川のせせらぎに癒やされた。」と高い評価を獲得しています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -573,7 +573,7 @@ export default function FurusatoTaxArticle() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「黒川温泉 山あいの宿 山みず木」は『自然豊かな渓流のせせらぎに包まれ、源泉かけ流しの迫力ある露天風呂と旬の会席料理を味わう温泉』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「黒川温泉 山あいの宿 山みず木」は『自然豊かな渓流のせせらぎに包まれ、源泉かけ流しの迫力ある露天風呂と旬の会席料理を味わう温泉。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

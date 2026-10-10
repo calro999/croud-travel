@@ -45,8 +45,8 @@ export default function OkayamaKurashikiBikanWinterPage() {
     headline: "【11・12・1月岡山】冬の倉敷美観地区・白壁土蔵の夜間景観照明＆国宝吉備津神社新春初詣・名物下津井真蛸と幻の千屋牛を堪能する名宿5選",
     description: "11月から1月、岡山県倉敷市の「倉敷美観地区」は、観光客で賑わう日中とは打って変わり、澄み切った冬の夜気の中で世界的な照明デザイナー石井幹子氏監修の「夜間景観照明」に照らされ、静寂と幽玄の美を湛えます。倉敷川の水面に映る白壁土蔵と柳並木の影、桃太郎伝説の舞台・国宝「吉備津神社」の全長398mに及ぶ大回廊を歩く厳かな新春初詣。そして冬の瀬戸内海で獲れる弾力抜群の「下津井真蛸」や、日本最古の蔓牛の血統を受け継ぐ幻の黒毛和牛「千屋牛」の極上会席。心洗われる冬の倉敷旅を叶える厳選名宿5選と1泊2日の冬のモデルコースを徹底解説します。",
     image: 'https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=80',
-    datePublished: '2026-10-02',
-    dateModified: '2026-10-02',
+    datePublished: '',
+    dateModified: '',
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',

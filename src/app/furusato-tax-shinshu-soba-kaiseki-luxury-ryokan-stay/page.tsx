@@ -49,7 +49,7 @@ export default function FurusatoShinshuSobaKaisekiStayPage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「戸隠のそば宿・宿坊極意」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「戸隠のそば宿・宿坊極意」へは、ＪＲ長野駅から戸隠行きバスで約５０分／戸隠中社下車徒歩１分。最寄りの長野駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「戸隠のそば宿・宿坊極意」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「戸隠のそば宿・宿坊極意」は『築２００年葺ぶき屋根の宿。精進料理をメインに当館特製細打ちそばをご堪能くださいませ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「戸隠のそば宿・宿坊極意」と「安曇野 にし屋別荘」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「戸隠のそば宿・宿坊極意」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「戸隠のそば宿・宿坊極意」へは、ＪＲ長野駅から戸隠行きバスで約５０分／戸隠中社下車徒歩１分。最寄りの長野駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「戸隠のそば宿・宿坊極意」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「戸隠のそば宿・宿坊極意」は『築２００年葺ぶき屋根の宿。精進料理をメインに当館特製細打ちそばをご堪能くださいませ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「戸隠のそば宿・宿坊極意」と「安曇野 にし屋別荘」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -192,10 +192,10 @@ export default function FurusatoShinshuSobaKaisekiStayPage() {
                     戸隠のそば宿・宿坊極意
                   </h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
-                    修験道の聖地・戸隠神社の門前に位置し、江戸時代から二百有余年にわたり神職の宿坊として歴史を紡ぐ名旅館。日本三大蕎麦の一つである「戸隠そば」の伝統を守り、店主自らが手打ちする戸隠名物の「ぼっち盛り（一口サイズに束ねた盛り付け）」の十割蕎麦は、香り・コシ・喉越しのすべてが完璧な逸品です。宿坊ならではの神職料理をベースに、季節の山菜や岩魚、戸隠の大根など地元食材を取り入れた滋味深い手作り会席料理が並びます。国の登録有形文化財にも指定された茅葺き屋根の風格ある館内で、神聖な祈りと本物の蕎麦文化を体感できます。
+                    修験道の聖地・戸隠神社の門前に位置し、江戸時代から二百有余年にわたり神職の宿坊として歴史を紡ぐ名旅館。日本三大蕎麦の一つである「戸隠そば」の伝統を守り、店主自らが手打ちする戸隠名物の「ぼっち盛り（一口サイズに束ねた盛り付け）。」の十割蕎麦は、香り・コシ・喉越しのすべてが完璧な逸品です。宿坊ならではの神職料理をベースに、季節の山菜や岩魚、戸隠の大根など地元食材を取り入れた滋味深い手作り会席料理が並びます。国の登録有形文化財にも指定された茅葺き屋根の風格ある館内で、神聖な祈りと本物の蕎麦文化を体感できます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「戸隠中社のすぐそば、散歩と蕎麦を満喫戸隠中社のすぐそばで、ロケーションは抜群です。清々しい空気の中で、朝食前の中社の散歩は最高でした。お料理もとても美味しく、戸隠蕎麦をたくさんいただきました。… 2026-09-04 22:47:29投稿 …」
+                    「戸隠中社のすぐそば、散歩と蕎麦を満喫戸隠中社のすぐそばで、ロケーションは抜群です。清々しい空気の中で、朝食前の中社の散歩は最高でした。お料理もとても美味しく、戸隠蕎麦をたくさんいただきました。…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -317,7 +317,7 @@ export default function FurusatoShinshuSobaKaisekiStayPage() {
                     国宝松本城から車で約10分、開湯千三百年を誇る浅間温泉に位置し、全館すべて畳敷きで素足のまま寛げる和モダン温泉旅館。夕食の会席料理では、信州八ヶ岳山麓や安曇野の契約農家から届く厳選そば粉を石臼で挽き、熟練の料理人が打ち上げる本格手打ち蕎麦を提供。信州牛のすき焼きや旬の川魚料理とともに、信州の地酒とのペアリングも存分に楽しめます。美肌効果の高い浅間温泉の柔らかな湯を湛えた大浴場や露天風呂で旅の疲れを癒やし、城下町の歴史散策と蕎麦美食を心ゆくまで満喫できます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「産前最後の旅行、心温まるおもてなしに感謝産前最後の旅行として利用しましたが、お心遣いをたくさんいただき、お部屋も広々、お料理も大変おいしく、温泉も貸切家族風呂にのんびりつかれて、最後の旅行にとても… 2026-08-13 17:41:15投…」
+                    「産前最後の旅行、心温まるおもてなしに感謝産前最後の旅行として利用しましたが、お心遣いをたくさんいただき、お部屋も広々、お料理も大変おいしく、温泉も貸切家族風呂にのんびりつかれて、最後の旅行にとても… 投。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -481,7 +481,7 @@ export default function FurusatoShinshuSobaKaisekiStayPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「戸隠のそば宿・宿坊極意」は『築２００年葺ぶき屋根の宿。精進料理をメインに当館特製細打ちそばをご堪能くださいませ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「戸隠のそば宿・宿坊極意」は『築２００年葺ぶき屋根の宿。精進料理をメインに当館特製細打ちそばをご堪能くださいませ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

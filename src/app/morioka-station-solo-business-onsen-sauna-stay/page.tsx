@@ -37,8 +37,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-13T00:00:00+09:00',
-    dateModified: '2026-09-13T00:00:00+09:00',
+    datePublished: 'T00:00:00+09:00',
+    dateModified: 'T00:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/morioka-station-solo-business-onsen-sauna-stay',
   };
 
@@ -47,7 +47,7 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"盛岡市中心街で天然温泉大浴場とサウナがあるホテルは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 さんさの湯 ドーミーイン盛岡」は繁華街・中央通に面し、最上階の天然温泉大浴場、高温サウナ、名物夜鳴きそばが完備されています。"}},{"@type":"Question","name":"盛岡駅前でリーズナブルに天然温泉に入れるビジネスホテルは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 りんどうの湯 スーパーホテル盛岡」は盛岡駅前徒歩圏内。男女別天然温泉大浴場と健康朝食バイキングが無料で付いておりコスパ抜群です。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"盛岡市中心街で天然温泉大浴場とサウナがあるホテルは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 さんさの湯 ドーミーイン盛岡」は繁華街・中央通に面し、最上階の天然温泉大浴場、高温サウナ、名物夜鳴きそばが完備されています。"}},{"@type":"Question","name":"盛岡駅前でリーズナブルに天然温泉に入れるビジネスホテルは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 りんどうの湯 スーパーホテル盛岡。」は盛岡駅前徒歩圏内。男女別天然温泉大浴場と健康朝食バイキングが無料で付いておりコスパ抜群です。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -76,7 +76,7 @@ export default function ArticlePage() {
           【盛岡出張・天然温泉ステイ】東北新幹線・天然温泉さんさの湯・三大麺グルメ！北東北の文化拠点に泊まる厳選3宿
         </h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
-          <time dateTime="2026-09-13">2026.09.13 更新</time>
+          <time dateTime="">2026.09.13 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
         </div>
@@ -351,7 +351,7 @@ export default function ArticlePage() {
                 <span>盛岡駅前でリーズナブルに天然温泉に入れるビジネスホテルは？</span>
               </h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
-                「天然温泉 りんどうの湯 スーパーホテル盛岡」は盛岡駅前徒歩圏内。男女別天然温泉大浴場と健康朝食バイキングが無料で付いておりコスパ抜群です。
+                「天然温泉 りんどうの湯 スーパーホテル盛岡。」は盛岡駅前徒歩圏内。男女別天然温泉大浴場と健康朝食バイキングが無料で付いておりコスパ抜群です。
               </p>
             </div>
           </div>

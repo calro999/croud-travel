@@ -437,7 +437,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
               <span>🏰</span> <span>【{prefInfo.name}】一度は訪れたい有名な場所・王道観光名所まとめ</span>
             </h2>
             <p className="text-xs text-rose-900/80 leading-relaxed font-medium">
-              {prefInfo.name}を象徴する世界遺産・国宝・歴史名所から絶景景勝地まで、「{prefInfo.name}旅行で絶対に外せない有名な場所」を厳選ガイド。
+              {prefInfo.name}を象徴する世界遺産・国宝・歴史名所から絶景景勝地まで、「{prefInfo.name}旅行で絶対に外せない有名な場所。」を厳選ガイド。
             </p>
           </div>
 
@@ -591,7 +591,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
                   💡 {subArea.areaName}を宿泊拠点に選ぶメリット＆おすすめの過ごし方
                 </span>
                 <p className="text-emerald-950/80 leading-relaxed font-medium">
-                  {subArea.areaName}は、{prefInfo.name}観光の中でも特に「{subArea.spots.map(s => s.name).slice(0, 2).join('や')}」へのアクセスが抜群。朝の混雑前に名所を訪れたり、夕暮れのライトアップやご当地ディナーをゆったり堪能した後にすぐ宿へ戻れるのが最大の魅力です。
+                  {subArea.areaName}は、{prefInfo.name}観光の中でも特に「{subArea.spots.map(s => s.name).slice(0, 2).join('や')}。」へのアクセスが抜群。朝の混雑前に名所を訪れたり、夕暮れのライトアップやご当地ディナーをゆったり堪能した後にすぐ宿へ戻れるのが最大の魅力です。
                 </p>
                 <div className="flex flex-wrap gap-2 pt-1 text-[11px] font-bold text-teal-950">
                   <span className="bg-white border border-teal-800/10 px-3 py-1 rounded-lg">🚅 主要駅・ICからのアクセス良好</span>
@@ -933,7 +933,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
           nextQuestions.push({
             question: `【${prefInfo.name}】評価の高いおすすめ人気ホテル・温泉旅館は？`,
             badge: "厳選宿泊施設ルポ",
-            answerSnippet: `「${topHotel.hotel_name}」をはじめ、${prefInfo.name}の極上ステイを叶える宿泊ルポ記事を公開中。`,
+            answerSnippet: `「${topHotel.hotel_name}。」をはじめ、${prefInfo.name}の極上ステイを叶える宿泊ルポ記事を公開中。`,
             linkText: `【${topHotel.hotel_name}】宿泊ルポ記事を見る`,
             href: `/posts/${topHotel.id}`
           });

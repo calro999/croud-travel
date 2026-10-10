@@ -5,14 +5,14 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: '【沖縄・恩納村×ふるさと納税】西海岸エメラルドビーチ＆最高峰ラグジュアリー！プールヴィラ特集｜ハレクラニ・ハイアット瀬良垣・ルネッサンス',
-  description: '日本屈指の美ら海リゾート・沖縄県恩納村を楽天ふるさと納税でお得に極上バケーション！ハワイ名門の天国の館「ハレクラニ沖縄」、360度海に囲まれた島リゾート「ハイアット リージェンシー 瀬良垣アイランド 沖縄」、イルカと遊べる「ルネッサンスリゾートオキナワ」を徹底比較。恩納村トラベルクーポン活用術を網羅。',
+  description: '日本屈指の美ら海リゾート・沖縄県恩納村を楽天ふるさと納税でお得に極上バケーション！ハワイ名門の天国の館「ハレクラニ沖縄」、360度海に囲まれた島リゾート「ハイアット リージェンシー 瀬良垣アイランド 沖縄。」、イルカと遊べる「ルネッサンスリゾートオキナワ」を徹底比較。恩納村トラベルクーポン活用術を網羅。',
   keywords: '恩納村 ふるさと納税,ハレクラニ沖縄 クーポン,ハイアット瀬良垣 ふるさと納税,ルネッサンス沖縄 宿泊,恩納村 ふるさと納税 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-okinawa-onna-beach-resort-stay/",
   },
   openGraph: {
     title: '【沖縄・恩納村×ふるさと納税】西海岸エメラルドビーチ＆最高峰ラグジュアリー！プールヴィラ特集｜ハレクラニ・ハイアット瀬良垣・ルネッサンス',
-    description: '日本屈指の美ら海リゾート・沖縄県恩納村を楽天ふるさと納税でお得に極上バケーション！ハワイ名門の天国の館「ハレクラニ沖縄」、360度海に囲まれた島リゾート「ハイアット リージェンシー 瀬良垣アイランド 沖縄」、イルカと遊べる「ルネッサンスリゾートオキナワ」を徹底比較。恩納村トラベルクーポン活用術を網羅。',
+    description: '日本屈指の美ら海リゾート・沖縄県恩納村を楽天ふるさと納税でお得に極上バケーション！ハワイ名門の天国の館「ハレクラニ沖縄」、360度海に囲まれた島リゾート「ハイアット リージェンシー 瀬良垣アイランド 沖縄。」、イルカと遊べる「ルネッサンスリゾートオキナワ」を徹底比較。恩納村トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-okinawa-onna-beach-resort-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -25,7 +25,7 @@ export default function FurusatoArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【沖縄・恩納村×ふるさと納税】西海岸エメラルドビーチ＆最高峰ラグジュアリー！プールヴィラ特集｜ハレクラニ・ハイアット瀬良垣・ルネッサンス',
-    description: '日本屈指の美ら海リゾート・沖縄県恩納村を楽天ふるさと納税でお得に極上バケーション！ハワイ名門の天国の館「ハレクラニ沖縄」、360度海に囲まれた島リゾート「ハイアット リージェンシー 瀬良垣アイランド 沖縄」、イルカと遊べる「ルネッサンスリゾートオキナワ」を徹底比較。恩納村トラベルクーポン活用術を網羅。',
+    description: '日本屈指の美ら海リゾート・沖縄県恩納村を楽天ふるさと納税でお得に極上バケーション！ハワイ名門の天国の館「ハレクラニ沖縄」、360度海に囲まれた島リゾート「ハイアット リージェンシー 瀬良垣アイランド 沖縄。」、イルカと遊べる「ルネッサンスリゾートオキナワ」を徹底比較。恩納村トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル 観光・ふるさと納税調査班',
@@ -39,8 +39,8 @@ export default function FurusatoArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-11T00:20:00+09:00',
-    dateModified: '2026-09-11T00:20:00+09:00',
+    datePublished: 'T00:20:00+09:00',
+    dateModified: 'T00:20:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-okinawa-onna-beach-resort-stay',
   };
 
@@ -49,7 +49,7 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ハレクラニ沖縄」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ハレクラニ沖縄」へは、那覇空港よりお車にて約７５分。最寄りの那覇空港駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ハレクラニ沖縄」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ハレクラニ沖縄」は『ハワイで育まれたラグジュアリーリゾート「ハレクラニ」が沖縄に誕生』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ハレクラニ沖縄」と「ハイアットリージェンシー瀬良垣アイランド沖縄」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ハレクラニ沖縄」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ハレクラニ沖縄」へは、那覇空港よりお車にて約７５分。最寄りの那覇空港駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ハレクラニ沖縄」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ハレクラニ沖縄」は『ハワイで育まれたラグジュアリーリゾート「ハレクラニ」が沖縄に誕生』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ハレクラニ沖縄」と「ハイアットリージェンシー瀬良垣アイランド沖縄。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -79,7 +79,7 @@ export default function FurusatoArticlePage() {
           【沖縄・恩納村×ふるさと納税】西海岸エメラルドビーチ＆最高峰ラグジュアリー！プールヴィラ特集｜ハレクラニ・ハイアット瀬良垣・ルネッサンス
         </h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed">
-          日本屈指の美ら海リゾート・沖縄県恩納村を楽天ふるさと納税でお得に極上バケーション！ハワイ名門の天国の館「ハレクラニ沖縄」、360度海に囲まれた島リゾート「ハイアット リージェンシー 瀬良垣アイランド 沖縄」、イルカと遊べる「ルネッサンスリゾートオキナワ」を徹底比較。恩納村トラベルクーポン活用術を網羅。
+          日本屈指の美ら海リゾート・沖縄県恩納村を楽天ふるさと納税でお得に極上バケーション！ハワイ名門の天国の館「ハレクラニ沖縄」、360度海に囲まれた島リゾート「ハイアット リージェンシー 瀬良垣アイランド 沖縄。」、イルカと遊べる「ルネッサンスリゾートオキナワ」を徹底比較。恩納村トラベルクーポン活用術を網羅。
         </p>
       </header>
 
@@ -203,7 +203,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.81点、口コミ絶賛の嵐。「ホスピタリティ、客室、プール、お料理すべてが完璧でまさに天国」「沖縄で最高の思い出になった」と憧れの最高峰。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.81点、口コミ絶賛の嵐。「ホスピタリティ、客室、プール、お料理すべてが完璧でまさに天国。」「沖縄で最高の思い出になった」と憧れの最高峰。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -287,7 +287,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.63点、口コミ高評価。「島全体がリゾートで雰囲気が抜群」「プールの居心地が最高でスタッフの気配りも素晴らしい」とカップル・ファミリーに大好評。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.63点、口コミ高評価。「島全体がリゾートで雰囲気が抜群」「プールの居心地が最高でスタッフの気配りも素晴らしい。」とカップル・ファミリーに大好評。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.66点、口コミ2800件超。「子供向けのアクティビティが豊富でイルカ体験に大喜び」「朝食バイキングが最高で連泊しても飽きない」とファミリー層から絶大な支持。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.66点、口コミ2800件超。「子供向けのアクティビティが豊富でイルカ体験に大喜び。」「朝食バイキングが最高で連泊しても飽きない。」とファミリー層から絶大な支持。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -548,7 +548,7 @@ export default function FurusatoArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ハレクラニ沖縄」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「ハレクラニ沖縄」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ハイアットリージェンシー瀬良垣アイランド沖縄」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ハイアットリージェンシー瀬良垣アイランド沖縄。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -587,7 +587,7 @@ export default function FurusatoArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「ハレクラニ沖縄」と「ハイアットリージェンシー瀬良垣アイランド沖縄」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「ハレクラニ沖縄」と「ハイアットリージェンシー瀬良垣アイランド沖縄。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

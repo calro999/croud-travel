@@ -48,8 +48,8 @@ export default function KagaWinterPage() {
         "headline": "【11・12月加賀温泉郷の冬の贅と加能ガニ解禁】山代・山中温泉の歴史名湯と九谷焼で味わう極上ズワイガニ会席の宿5選",
         "description": "11月6日の北陸冬の風物詩・ズワイガニ漁解禁とともに美食の最盛期を迎える石川県・加賀温泉郷（山代温泉・山中温泉）。開湯1300年の歴史を誇る名湯巡りと、青いタグが輝く石川ブランド「加能ガニ」や内子・外子が濃厚な「香箱ガニ」。九谷焼や山中塗の絢爛な器で冬の日本海会席を味わう極上の大人旅ガイド。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
-        "datePublished": "2026-09-27T00:00:00+09:00",
-        "dateModified": "2026-09-27T00:00:00+09:00",
+        "datePublished": "T00:00:00+09:00",
+        "dateModified": "T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

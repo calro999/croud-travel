@@ -32,7 +32,7 @@ export default function MicroTouristHubPage() {
     "key": "hakuba_mountain_harbor",
     "title": "1. 白馬岩岳マウンテンリゾート〜HAKUBA MOUNTAIN HARBOR（天空テラスの絶景）",
     "timing": "通年（秋の三段紅葉・夏の避暑テラス・冬の絶景スノーテラス）",
-    "desc": "ゴンドラリフトで標高1,289mの山頂へ。北アルプス白馬三山を一望するウッドデッキテラス「HAKUBA MOUNTAIN HARBOR」。「THE CITY BAKERY」のクロワッサンサンドや、山に飛び出す「ヤッホー！スウィング」を満喫。",
+    "desc": "ゴンドラリフトで標高1,289mの山頂へ。北アルプス白馬三山を一望するウッドデッキテラス「HAKUBA MOUNTAIN HARBOR。」。「THE CITY BAKERY」のクロワッサンサンドや、山に飛び出す「ヤッホー！スウィング」を満喫。",
     "spots": "HAKUBA MOUNTAIN HARBOR、THE CITY BAKERY白馬店、ヤッホー！スウィング（巨大ブランコ）、白馬ヒトトキノモリ",
     "access": "JR大糸線「白馬駅」よりシャトルバス・車で約10分。北陸新幹線長野駅より特急バス約70分。",
     "tip": "巨大ブランコ「ヤッホー！スウィング」に乗ると、まるで北アルプスの大空へ飛び立つような大迫力の動画が撮影できます。"
@@ -53,7 +53,7 @@ export default function MicroTouristHubPage() {
     "desc": "1998年長野冬季五輪の舞台「白馬八方尾根スキー場」をはじめとするHAKUBA VALLEY。極上のパウダースノー（JAPOW）と北欧風の山岳リゾートホテル。暖炉のあるラウンジで信州ワインやクラフトビールを堪能。",
     "spots": "白馬八方尾根スキー場、Hakuba47・白馬五竜、スノーピーク LAND STATION HAKUBA",
     "access": "白馬八方バスターミナルより各スキー場シャトルバス運行。",
-    "tip": "「スノーピーク LAND STATION HAKUBA」では、隈研吾設計の建築美の中で信州の食材を使った薪火料理やグランピングカフェを楽しめます。"
+    "tip": "「スノーピーク LAND STATION HAKUBA。」では、隈研吾設計の建築美の中で信州の食材を使った薪火料理やグランピングカフェを楽しめます。"
   }
 ];
 

@@ -39,8 +39,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
-    "datePublished": "2026-09-20",
-    "dateModified": "2026-09-20",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-daisen-kagikaketoge-autumn-stay"
   };
 
@@ -469,9 +469,9 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 米子駅よりアクセス。米子自動車道・米子ＩＣより車で約10分、ＪＲ米子駅よりタクシー又はバスで約15分、米子空港よりタクシー又はバスで約20分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「皆生温泉 皆生シーサイドホテル 海の四季」にチェックイン。楽天アワード2025受賞 14年連続＆通算17回目！全室オーシャンフロント！などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「皆生温泉 皆生シーサイドホテル 海の四季」の湯処へ。楽天アワード2025受賞 14年連続＆通算17回目！全室オーシャンフロとともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「皆生温泉 皆生シーサイドホテル 海の四季」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「皆生温泉 皆生シーサイドホテル 海の四季。」にチェックイン。楽天アワード2025受賞 14年連続＆通算17回目！全室オーシャンフロント！などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「皆生温泉 皆生シーサイドホテル 海の四季。」の湯処へ。楽天アワード2025受賞 14年連続＆通算17回目！全室オーシャンフロとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「皆生温泉 皆生シーサイドホテル 海の四季。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -480,8 +480,8 @@ export default function Page() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「皆生温泉 皆生シーサイドホテル 海の四季」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「皆生温泉 皆生シーサイドホテル 海の四季」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「皆生温泉 皆生シーサイドホテル 海の四季。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「皆生温泉 皆生シーサイドホテル 海の四季。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「皆生温泉 皆生菊乃家」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>

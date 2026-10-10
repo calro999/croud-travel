@@ -44,7 +44,7 @@ export default function Page() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「山代温泉 ゆのくに天祥」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「山代温泉 ゆのくに天祥」へは、車 北陸自動車道加賀IC、片山津ICより約15分 電車 JR・IRいしかわ鉄道加賀温泉駅より無料送迎 予約制。最寄りの加賀温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「山代温泉 ゆのくに天祥」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「山代温泉 ゆのくに天祥」は『プロが選ぶホテル・旅館100選(全国総合4位) 楽天・日本の宿アワード2025 W受賞！風』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「山代温泉 ゆのくに天祥」と「山代温泉 料理自慢の宿 ホテルききょう」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「山代温泉 ゆのくに天祥」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「山代温泉 ゆのくに天祥」へは、車 北陸自動車道加賀IC、片山津ICより約15分 電車 JR・IRいしかわ鉄道加賀温泉駅より無料送迎 予約制。最寄りの加賀温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「山代温泉 ゆのくに天祥」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「山代温泉 ゆのくに天祥」は『プロが選ぶホテル・旅館100選(全国総合4位) 楽天・日本の宿アワード2025 W受賞！風。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「山代温泉 ゆのくに天祥」と「山代温泉 料理自慢の宿 ホテルききょう」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         {/* パンくずリスト */}
@@ -448,7 +448,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「山代温泉 ゆのくに天祥」は『プロが選ぶホテル・旅館100選(全国総合4位) 楽天・日本の宿アワード2025 W受賞！風』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「山代温泉 ゆのくに天祥」は『プロが選ぶホテル・旅館100選(全国総合4位) 楽天・日本の宿アワード2025 W受賞！風。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

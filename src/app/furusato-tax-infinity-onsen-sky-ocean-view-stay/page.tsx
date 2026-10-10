@@ -44,7 +44,7 @@ export default function Page() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「稲取温泉 石花海」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「稲取温泉 石花海」へは、伊豆稲取駅より徒歩にて１５分／お車にて５分。最寄りの伊豆稲取駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「稲取温泉 石花海」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「稲取温泉 石花海」は『★プロが認定★伊豆の絶景温泉宿に石花海が選ばれました！最上階から望む絶景をぜひお楽しみくだ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「稲取温泉 石花海」と「絶景温泉と魚介満腹の宿 稲取東海ホテル湯苑」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「稲取温泉 石花海」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「稲取温泉 石花海」へは、伊豆稲取駅より徒歩にて１５分／お車にて５分。最寄りの伊豆稲取駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「稲取温泉 石花海」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「稲取温泉 石花海」は『★プロが認定★伊豆の絶景温泉宿に石花海が選ばれました！最上階から望む絶景をぜひお楽しみくだ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「稲取温泉 石花海」と「絶景温泉と魚介満腹の宿 稲取東海ホテル湯苑。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         {/* パンくずリスト */}
@@ -564,7 +564,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「稲取温泉 石花海」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「稲取温泉 石花海」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「絶景温泉と魚介満腹の宿 稲取東海ホテル湯苑」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「絶景温泉と魚介満腹の宿 稲取東海ホテル湯苑。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -594,7 +594,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「稲取温泉 石花海」は『★プロが認定★伊豆の絶景温泉宿に石花海が選ばれました！最上階から望む絶景をぜひお楽しみくだ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「稲取温泉 石花海」は『★プロが認定★伊豆の絶景温泉宿に石花海が選ばれました！最上階から望む絶景をぜひお楽しみくだ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -603,7 +603,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「稲取温泉 石花海」と「絶景温泉と魚介満腹の宿 稲取東海ホテル湯苑」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「稲取温泉 石花海」と「絶景温泉と魚介満腹の宿 稲取東海ホテル湯苑。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

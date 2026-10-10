@@ -34,11 +34,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7592/7592map.gif",
     "reviewCount": 2360,
     "reviewAverage": 4.48,
-    "userReview": "豪華なバイキングと温泉に大満足!夕食のバイキングが豪華で温泉も気持ちよかったし清潔でサービスも行き届いていて大満足です。また泊まりたいと思う良いホテルでした!クチコミの詳細はこちらから　h…　2026-09-17 22:52:12投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=7592\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "豪華なバイキングと温泉に大満足!夕食のバイキングが豪華で温泉も気持ちよかったし清潔でサービスも行き届いていて大満足です。また泊まりたいと思う良いホテルでした!",
     "hotelMinCharge": 6700,
     "address1": "香川県",
     "address2": "小豆郡土庄町屋形崎甲63-1",
-    "telephoneNo": "0879-65-2311",
+    "telephoneNo": "11",
     "access": "★土庄港より車で約15分★土庄港より無料定期送迎あり（予約要）",
     "parkingInformation": "有り　１５０台　無料",
     "nearestStation": "日生",
@@ -59,7 +59,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7805/7805map.gif",
     "reviewCount": 858,
     "reviewAverage": 4.12,
-    "userReview": "伊勢海老の船盛と朝食の不備が残念伊勢海老の船盛が伊勢海老は二切れでした。朝食はおかずの入っていない皿があり、交換してもらいました。残念クチコミの詳細はこちらから　https://rev…　2026-09-10 17:36:46投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=7805\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "朝食はおかずの入っていない皿があり、交換してもらいました。",
     "hotelMinCharge": 4800,
     "address1": "香川県",
     "address2": "小豆郡土庄町甲1135",
@@ -88,7 +88,7 @@ const hotels: any[] = [
     "hotelMinCharge": 7150,
     "address1": "香川県",
     "address2": "小豆郡土庄町甲2111-1",
-    "telephoneNo": "0879-62-1323",
+    "telephoneNo": "23",
     "access": "土庄港（とのしょうこう）より２㎞ 車で約５分【送迎15：00～17：30有り・要予約】",
     "parkingInformation": "有り　３０台　無料",
     "nearestStation": "高松（香川）",
@@ -109,11 +109,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/44874/44874map.gif",
     "reviewCount": 1939,
     "reviewAverage": 4.27,
-    "userReview": "プールや縁日、食事も充実した夏の思い出夏休みに利用しました。14時に手続きだけして子どもたちとプールへ。低学年と未就学児にはちょうどよいサイズで、監視員のお兄さん達も子どもたちと遊んでくださり、子…　2026-09-17 23:28:39投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=44874\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "プールや縁日、食事も充実した夏の思い出夏休みに利用しました。14時に手続きだけして子どもたちとプールへ。低学年と未就学児にはちょうどよいサイズで、監視員のお兄さん達も子どもたちと遊んでくださり、子。",
     "hotelMinCharge": 5500,
     "address1": "香川県",
     "address2": "小豆郡小豆島町古江乙16-3",
-    "telephoneNo": "0879-82-5000",
+    "telephoneNo": "00",
     "access": "（車）坂手港3分/福田港30分/土庄港30分/草壁港10分/池田港20分★大部港以外の無料送迎有（2日前までに予約要）",
     "parkingInformation": "有り　６０台　無料",
     "nearestStation": "坂出",
@@ -134,11 +134,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28288/28288map.gif",
     "reviewCount": 1116,
     "reviewAverage": 4.27,
-    "userReview": "絶品の朝食牛丼と高台からの夕陽に感動 朝食に牛丼が食べられるなんて、初めててしたし、この牛丼がめちゃくちゃおいしかった。 高台に宿があるのて、夕陽の写真はバッチリで、今年のペストショットになり…　2026-09-18 16:50:51投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=28288\" class=\"3click\">つづ��はこちら</a>",
+    "userReview": "絶品の朝食牛丼と高台からの夕陽に感動 朝食に牛丼が食べられるなんて、初めててしたし、この牛丼がめちゃくちゃおいしかった。高台に宿があるのて、夕陽の写真はバッチリで、今年のペストショットになり。",
     "hotelMinCharge": 4550,
     "address1": "香川県",
     "address2": "小豆郡小豆島町池田1500-4",
-    "telephoneNo": "0879-75-1115",
+    "telephoneNo": "15",
     "access": "池田港より車で5分（池田港バス停より無料送迎。要連絡）、土庄港より車で15分、坂手港より車で25分、福田港より車で40分",
     "parkingInformation": "有り　40台　無料　先着順",
     "nearestStation": "高松（香川）",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「小豆島温泉 オリビアン小豆島 夕陽ヶ丘ホテル ＜小豆島＞」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「小豆島温泉 オリビアン小豆島 夕陽ヶ丘ホテル ＜小豆島＞」へは、公共交通機関またはお車でのアクセスが可能です。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「小豆島温泉 オリビアン小豆島 夕陽ヶ丘ホテル ＜小豆島＞」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「小豆島温泉 オリビアン小豆島 夕陽ヶ丘ホテル ＜小豆島＞」は『瀬戸内海を望む23万㎡の高台リゾートホテル。絶景の夕陽と天然温泉、小豆島の味覚を満喫。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「小豆島温泉 オリビアン小豆島 夕陽ヶ丘ホテル ＜小豆島＞」と「小豆島温泉 天空のオーシャンビューホテル 海廬 ＜小豆島＞」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「小豆島温泉 オリビアン小豆島 夕陽ヶ丘ホテル ＜小豆島＞。」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「小豆島温泉 オリビアン小豆島 夕陽ヶ丘ホテル ＜小豆島＞。」へは、公共交通機関またはお車でのアクセスが可能です。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「小豆島温泉 オリビアン小豆島 夕陽ヶ丘ホテル ＜小豆島＞。」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「小豆島温泉 オリビアン小豆島 夕陽ヶ丘ホテル ＜小豆島＞。」は『瀬戸内海を望む23万㎡の高台リゾートホテル。絶景の夕陽と天然温泉、小豆島の味覚を満喫。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「小豆島温泉 オリビアン小豆島 夕陽ヶ丘ホテル ＜小豆島＞。」と「小豆島温泉 天空のオーシャンビューホテル 海廬 ＜小豆島＞。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -585,9 +585,9 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 香川県小豆郡土庄町屋形崎甲63-1へ到着後、チェックイン前の散策へ。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「小豆島温泉 オリビアン小豆島 夕陽ヶ丘ホテル ＜小豆島＞」にチェックイン。瀬戸内海を望む23万㎡の高台リゾートホテル。絶景の夕陽と天然温泉、小豆島の味覚を満喫。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「小豆島温泉 オリビアン小豆島 夕陽ヶ丘ホテル ＜小豆島＞」の湯処へ。瀬戸内海を望む23万㎡の高台リゾートホテル。絶景の夕陽と天然温泉、小豆とともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「小豆島温泉 オリビアン小豆島 夕陽ヶ丘ホテル ＜小豆島＞」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「小豆島温泉 オリビアン小豆島 夕陽ヶ丘ホテル ＜小豆島＞。」にチェックイン。瀬戸内海を望む23万㎡の高台リゾートホテル。絶景の夕陽と天然温泉、小豆島の味覚を満喫。などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「小豆島温泉 オリビアン小豆島 夕陽ヶ丘ホテル ＜小豆島＞。」の湯処へ。瀬戸内海を望む23万㎡の高台リゾートホテル。絶景の夕陽と天然温泉、小豆とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「小豆島温泉 オリビアン小豆島 夕陽ヶ丘ホテル ＜小豆島＞。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -596,9 +596,9 @@ export default function FeatureDetailPage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「小豆島温泉 オリビアン小豆島 夕陽ヶ丘ホテル ＜小豆島＞」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「小豆島温泉 オリビアン小豆島 夕陽ヶ丘ホテル ＜小豆島＞」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「小豆島温泉 天空のオーシャンビューホテル 海廬 ＜小豆島＞」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「小豆島温泉 オリビアン小豆島 夕陽ヶ丘ホテル ＜小豆島＞。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「小豆島温泉 オリビアン小豆島 夕陽ヶ丘ホテル ＜小豆島＞。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「小豆島温泉 天空のオーシャンビューホテル 海廬 ＜小豆島＞。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -615,20 +615,20 @@ export default function FeatureDetailPage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「小豆島温泉 オリビアン小豆島 夕陽ヶ丘ホテル ＜小豆島＞」へのアクセスや移動方法について</span>
+                <span>Q. 「小豆島温泉 オリビアン小豆島 夕陽ヶ丘ホテル ＜小豆島＞。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「小豆島温泉 オリビアン小豆島 夕陽ヶ丘ホテル ＜小豆島＞」へは、公共交通機関またはお車でのアクセスが可能です。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。
+                A. 「小豆島温泉 オリビアン小豆島 夕陽ヶ丘ホテル ＜小豆島＞。」へは、公共交通機関またはお車でのアクセスが可能です。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「小豆島温泉 オリビアン小豆島 夕陽ヶ丘ホテル ＜小豆島＞」の魅力や予約時のポイントは？</span>
+                <span>Q. 「小豆島温泉 オリビアン小豆島 夕陽ヶ丘ホテル ＜小豆島＞。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「小豆島温泉 オリビアン小豆島 夕陽ヶ丘ホテル ＜小豆島＞」は『瀬戸内海を望む23万㎡の高台リゾートホテル。絶景の夕陽と天然温泉、小豆島の味覚を満喫。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「小豆島温泉 オリビアン小豆島 夕陽ヶ丘ホテル ＜小豆島＞。」は『瀬戸内海を望む23万㎡の高台リゾートホテル。絶景の夕陽と天然温泉、小豆島の味覚を満喫。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -637,7 +637,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「小豆島温泉 オリビアン小豆島 夕陽ヶ丘ホテル ＜小豆島＞」と「小豆島温泉 天空のオーシャンビューホテル 海廬 ＜小豆島＞」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「小豆島温泉 オリビアン小豆島 夕陽ヶ丘ホテル ＜小豆島＞。」と「小豆島温泉 天空のオーシャンビューホテル 海廬 ＜小豆島＞。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

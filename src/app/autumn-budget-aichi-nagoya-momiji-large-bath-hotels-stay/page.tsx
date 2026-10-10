@@ -85,7 +85,7 @@ export default function NagoyaBudgetAutumnPage() {
             </div>
             <div className="md:col-span-7 space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">名城・名古屋城と名勝本丸御殿の歴史と見どころ</h3>
-              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">名古屋城（なごやじょう）は、尾張国愛知郡名古屋（現愛知県名古屋市中区本丸・北区名城）にある日本の城。「名城（めいじょう）」「金鯱城（きんこじょう、きんしゃちじょう）」「金城（きんじょう）」の異名を持つ。日本100名城に選定されており、国の特別史跡に指定されている。</p>
+              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">名古屋城（なごやじょう）は、尾張国愛知郡名古屋（現愛知県名古屋市中区本丸・北区名城）にある日本の城。「名城（めいじょう）」「金鯱城（きんこじょう、きんしゃちじょう）。」「金城（きんじょう）」の異名を持つ。日本100名城に選定されており、国の特別史跡に指定されている。</p>
               <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
                 <span>出典: フリー百科事典『ウィキペディア（Wikipedia）』</span>
                 <span className="text-teal-700 font-semibold">現地観光・散策推奨スポット</span>

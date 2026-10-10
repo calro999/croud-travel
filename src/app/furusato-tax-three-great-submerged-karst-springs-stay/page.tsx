@@ -49,7 +49,7 @@ export default function FurusatoRound63ArticlePage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「富士山と湖を望むリゾート ホテル マウント富士」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「富士山と湖を望むリゾート ホテル マウント富士」へは、富士山駅より御殿場方面の路線バスへ乗り、ホテルマウント富士入口にて下車。最寄りの富士吉田駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「富士山と湖を望むリゾート ホテル マウント富士」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「富士山と湖を望むリゾート ホテル マウント富士」は『1,100ｍの高台に建つ、ホテル中庭から望む “雄大な富士山” をぜひご堪能下さい。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「富士山と湖を望むリゾート ホテル マウント富士」と「富士山三島東急ホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「富士山と湖を望むリゾート ホテル マウント富士。」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「富士山と湖を望むリゾート ホテル マウント富士。」へは、富士山駅より御殿場方面の路線バスへ乗り、ホテルマウント富士入口にて下車。最寄りの富士吉田駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「富士山と湖を望むリゾート ホテル マウント富士。」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「富士山と湖を望むリゾート ホテル マウント富士。」は『1,100ｍの高台に建つ、ホテル中庭から望む “雄大な富士山” をぜひご堪能下さい。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「富士山と湖を望むリゾート ホテル マウント富士。」と「富士山三島東急ホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -190,7 +190,7 @@ export default function FurusatoRound63ArticlePage() {
                     富士山と湖を望むリゾート　ホテル　マウント富士
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「富士山を望む絶景と美味しい食事に大満足2階の温泉から富士山がよく見えました!お部屋からも、朝からキレイな富士山がよく見えて満足です。夕飯朝食とも美味しいお食事がいただけて、良い旅行になりました… 2026-09-04 15:44:49投稿 つづきはこちら…」
+                    「富士山を望む絶景と美味しい食事に大満足2階の温泉から富士山がよく見えました!お部屋からも、朝からキレイな富士山がよく見えて満足です。夕飯朝食とも美味しいお食事がいただけて、良い旅行になりました…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -245,7 +245,7 @@ export default function FurusatoRound63ArticlePage() {
                     富士山三島東急ホテル
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「三島駅を見下ろす眺望と豪華な朝食に満足いつも利用している三島駅を上空から眺める楽しい滞在を家族と過ごしました。朝食も豪華でとても良かった。クチコミの詳細はこちらから https://revie… 2026-08-30 21:51:08投稿 つづきはこちら…」
+                    「三島駅を見下ろす眺望と豪華な朝食に満足いつも利用している三島駅を上空から眺める楽しい滞在を家族と過ごしました。朝食も豪華でとても良かった。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -300,7 +300,7 @@ export default function FurusatoRound63ArticlePage() {
                     穂高温泉郷　安曇野穂高ビューホテル
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「ワインのコイン返却でリンゴジュースをゲットワインのコインを利用しなかったので、チェックアウトの時返したらリンゴジュース(缶)をもらいました。おいしかった。クチコミの詳細はこちらから https… 2026-09-05 19:57:56投稿 つづきはこちら…」
+                    「ワインのコイン返却でリンゴジュースをゲットワインのコインを利用しなかったので、チェックアウトの時返したらリンゴジュース(缶)をもらいました。おいしかった。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -420,9 +420,9 @@ export default function FurusatoRound63ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 富士吉田駅よりアクセス。富士山駅より御殿場方面の路線バスへ乗り、ホテルマウント富士入口にて下車。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「富士山と湖を望むリゾート ホテル マウント富士」にチェックイン。1,100ｍの高台に建つ、ホテル中庭から望む “雄大な富士山” をぜひご堪能下さい。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「富士山と湖を望むリゾート ホテル マウント富士」の湯処へ。1,100ｍの高台に建つ、ホテル中庭から望む “雄大な富士山” をぜひとともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「富士山と湖を望むリゾート ホテル マウント富士」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「富士山と湖を望むリゾート ホテル マウント富士。」にチェックイン。1,100ｍの高台に建つ、ホテル中庭から望む “雄大な富士山” をぜひご堪能下さい。などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「富士山と湖を望むリゾート ホテル マウント富士。」の湯処へ。1,100ｍの高台に建つ、ホテル中庭から望む “雄大な富士山” をぜひとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「富士山と湖を望むリゾート ホテル マウント富士。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -431,8 +431,8 @@ export default function FurusatoRound63ArticlePage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「富士山と湖を望むリゾート ホテル マウント富士」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「富士山と湖を望むリゾート ホテル マウント富士」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「富士山と湖を望むリゾート ホテル マウント富士。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「富士山と湖を望むリゾート ホテル マウント富士。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「富士山三島東急ホテル」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
@@ -450,20 +450,20 @@ export default function FurusatoRound63ArticlePage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「富士山と湖を望むリゾート ホテル マウント富士」へのアクセスや移動方法について</span>
+                <span>Q. 「富士山と湖を望むリゾート ホテル マウント富士。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「富士山と湖を望むリゾート ホテル マウント富士」へは、富士山駅より御殿場方面の路線バスへ乗り、ホテルマウント富士入口にて下車。最寄りの富士吉田駅からの経路案内も充実しています。
+                A. 「富士山と湖を望むリゾート ホテル マウント富士。」へは、富士山駅より御殿場方面の路線バスへ乗り、ホテルマウント富士入口にて下車。最寄りの富士吉田駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「富士山と湖を望むリゾート ホテル マウント富士」の魅力や予約時のポイントは？</span>
+                <span>Q. 「富士山と湖を望むリゾート ホテル マウント富士。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「富士山と湖を望むリゾート ホテル マウント富士」は『1,100ｍの高台に建つ、ホテル中庭から望む “雄大な富士山” をぜひご堪能下さい。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「富士山と湖を望むリゾート ホテル マウント富士。」は『1,100ｍの高台に建つ、ホテル中庭から望む “雄大な富士山” をぜひご堪能下さい。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -472,7 +472,7 @@ export default function FurusatoRound63ArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「富士山と湖を望むリゾート ホテル マウント富士」と「富士山三島東急ホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「富士山と湖を望むリゾート ホテル マウント富士。」と「富士山三島東急ホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

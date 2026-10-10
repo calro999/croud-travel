@@ -38,7 +38,7 @@ const hotels: any[] = [
     "hotelMinCharge": 9400,
     "address1": "福井県",
     "address2": "三方上中郡若狭町海山64-9-1",
-    "telephoneNo": "0770-47-1727",
+    "telephoneNo": "27",
     "access": "【お車】ＪＲ三方駅より約１０分　【路線バス】ＪＲ三方駅前バス停橙色のバス「三方－常神線」（約１５分）海山下車後、徒歩１分",
     "parkingInformation": "有り　２０台　無料　先着順",
     "nearestStation": "三方",
@@ -59,7 +59,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9412/9412map.gif",
     "reviewCount": 817,
     "reviewAverage": 3.9,
-    "userReview": "朝食のクロワッサンが美味しかった、部屋は狭め朝食ビュッフェは郷土料理や洋食もあり、近隣の店で食べるより(お店もなさそうだったので)朝食付プランにしてよかったです。色々取って食べたら、お腹いっぱいで…　2026-09-09 15:48:43投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=9412\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "朝食のクロワッサンが美味しかった、部屋は狭め朝食ビュッフェは郷土料理や洋食もあり、近隣の店で食べるより(お店もなさそうだったので)朝食付プランにしてよかったです。色々取って食べたら、お腹いっぱいで。",
     "hotelMinCharge": 9025,
     "address1": "山形県",
     "address2": "上山市新湯1-23",
@@ -84,7 +84,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67443/67443map.gif",
     "reviewCount": 567,
     "reviewAverage": 3.94,
-    "userReview": "施設は古いが清掃は丁寧、食事もゆっくり満喫施設は古いですが、お掃除は行き届いていました。お風呂に、露天とか家族風呂とかあればと思いました。食事は、朝夕ともバイキングでしたので、ゆっくりお食事で…　2026-09-18 21:59:43投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=67443\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "施設は古いが清掃は丁寧、食事もゆっくり満喫施設は古いですが、お掃除は行き届いていました。お風呂に、露天とか家族風呂とかあればと思いました。食事は、朝夕ともバイキングでしたので、ゆっくりお食事で。",
     "hotelMinCharge": 8800,
     "address1": "岩手県",
     "address2": "岩手郡雫石町鶯宿7-47",
@@ -109,11 +109,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50253/50253map.gif",
     "reviewCount": 1331,
     "reviewAverage": 4.11,
-    "userReview": "滝の見える露天風呂と充実の飲み放題に満足宿のすぐ近くにバス停あり。バスで行かれることをおすすめする。歩きでいけなくはないが、坂道のうえ歩道がせまく、車通りが多い。露天風呂は2つあり男女交互…　2026-09-19 21:59:25投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=50253\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "滝の見える露天風呂と充実の飲み放題に満足宿のすぐ近くにバス停あり。バスで行かれることをおすすめする。歩きでいけなくはないが、坂道のうえ歩道がせまく、車通りが多い。露天風呂は2つあり男女交互。",
     "hotelMinCharge": 9500,
     "address1": "神奈川県",
     "address2": "足柄下郡湯河原町宮上679",
-    "telephoneNo": "0465-63-3111",
+    "telephoneNo": "11",
     "access": "ＪＲ湯河原駅より奥湯河原行きバスで20分奥湯河原入口下車・車で8分／東名厚木ＩＣより小田原厚木・135号線経由で約60分",
     "parkingInformation": "有り　20台　無料　",
     "nearestStation": "湯河原",
@@ -134,11 +134,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/144958/144958map.gif",
     "reviewCount": 131,
     "reviewAverage": 4.5,
-    "userReview": "やっと泊まれた妻の還暦祝いで予約!2回程、宿泊の機会をキャンセルせざるを得ない事情があり、待望のすみれ宿泊となりました。当日は雨が降ったり止んだりの空模様だったので、少し前倒しのチェックインに…　2026-09-16 20:24:56投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=144958\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "やっと泊まれた妻の還暦祝いで予約!2回程、宿泊の機会をキャンセルせざるを得ない事情があり、待望のすみれ宿泊となりました。当日は雨が降ったり止んだりの空模様だったので、少し前倒しのチェックインに。",
     "hotelMinCharge": 28900,
     "address1": "山形県",
     "address2": "米沢市関根12703-4",
-    "telephoneNo": "0238-35-2234",
+    "telephoneNo": "34",
     "access": "ＪＲ米沢駅より車15分・送迎要予約　車：東北中央道福島大笹生ICから米沢八幡原ＩＣ下車、関根水窪ダム方面へ車で10分程",
     "parkingInformation": "有り　１５台　無料　予約不要",
     "nearestStation": "米沢",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「湯河原温泉 青巒荘」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「湯河原温泉 青巒荘」へは、ＪＲ湯河原駅より奥湯河原行きバスで20分奥湯河原入口下車・車で8分／東名厚木ＩＣより小田原厚木・135号線経由で約60分。最寄りの湯河原駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「湯河原温泉 青巒荘」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「湯河原温泉 青巒荘」は『奥湯河原の自然に囲まれ、滝の直下にある仙境野天風呂が自慢の宿。館内オールインクルーシブで飲』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「湯河原温泉 青巒荘」と「湯の沢温泉 時の宿すみれ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「湯河原温泉 青巒荘」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「湯河原温泉 青巒荘」へは、ＪＲ湯河原駅より奥湯河原行きバスで20分奥湯河原入口下車・車で8分／東名厚木ＩＣより小田原厚木・135号線経由で約60分。最寄りの湯河原駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「湯河原温泉 青巒荘」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「湯河原温泉 青巒荘」は『奥湯河原の自然に囲まれ、滝の直下にある仙境野天風呂が自慢の宿。館内オールインクルーシブで飲。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「湯河原温泉 青巒荘」と「湯の沢温泉 時の宿すみれ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -627,7 +627,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「湯河原温泉 青巒荘」は『奥湯河原の自然に囲まれ、滝の直下にある仙境野天風呂が自慢の宿。館内オールインクルーシブで飲』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「湯河原温泉 青巒荘」は『奥湯河原の自然に囲まれ、滝の直下にある仙境野天風呂が自慢の宿。館内オールインクルーシブで飲。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

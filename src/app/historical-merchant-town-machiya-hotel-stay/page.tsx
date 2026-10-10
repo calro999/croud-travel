@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/historical-merchant-town-machiya-hotel-stay"
   };
 
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D158784%26f_flg%3DPLAN",
     "hotelMinCharge": 11560,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/158784/158784.jpg",
-    "userReview": "蔵を改装した落ち着く空間と街全体のおもてなしまちや倶楽部の別邸KOLMIOに泊まりました。大正時代のお屋敷の中に明治時代の蔵があり、そこが部屋でした。とても落ち着いた空間でのんびりすることができま…　2026-09-02 20:44:31投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=158784\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "蔵を改装した落ち着く空間と街全体のおもてなしまちや倶楽部の別邸KOLMIOに泊まりました。大正時代のお屋敷の中に明治時代の蔵があり、そこが部屋でした。とても落ち着いた空間でのんびりすることができま。",
     "reviewAverage": 4.63,
     "reviewCount": 152,
     "address": "滋賀県近江八幡市仲屋町中21",

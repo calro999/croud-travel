@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/autumn-chestnut-gourmet-montblanc-stay"
   };
 
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D8733%26f_flg%3DPLAN",
     "hotelMinCharge": 5500,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8733/8733.jpg",
-    "userReview": "スタッフの対応と朝食は満足、温泉は手すりが少なく不安スタッフの方皆様親切で気持ち良く過ごせました温泉も気持ち良かったですが、足が悪いのでつかまるところが少なくて怖かったのが少しマイナスです…　2026-09-17 23:08:18投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=8733\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "スタッフの対応と朝食は満足、温泉は手すりが少なく不安スタッフの方皆様親切で気持ち良く過ごせました温泉も気持ち良かったですが、足が悪いのでつかまるところが少なくて怖かったのが少しマイナスです。",
     "reviewAverage": 3.91,
     "reviewCount": 394,
     "address": "大阪府東大阪市上石切町1-11-12",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D79268%26f_flg%3DPLAN",
     "hotelMinCharge": 11700,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/79268/79268.jpg",
-    "userReview": "クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/79268?reviewId=33123479352716　2026-09-12 08:13:36投稿",
+    "userReview": "",
     "reviewAverage": 4.59,
     "reviewCount": 279,
     "address": "島根県江津市有福温泉町955",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D18924%26f_flg%3DPLAN",
     "hotelMinCharge": 11860,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18924/18924.jpg",
-    "userReview": "水槽の魚掬いが制限されており残念三度目の利用でした。以前は鯛などの大きい魚も真ん中の大きい水槽の側で掬えましたが、現在は木の踏み台の腐食を理由にアコウ、アジなどの小さい水槽に移し、小さい網でし…　2026-08-31 11:10:19投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=18924\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "以前は鯛などの大きい魚も真ん中の大きい水槽の側で掬えましたが、現在は木の踏み台の腐食を理由にアコウ、アジなどの小さい水槽に移し、小さい網でし。",
     "reviewAverage": 3.86,
     "reviewCount": 580,
     "address": "兵庫県赤穂市さつき町35-5",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D13871%26f_flg%3DPLAN",
     "hotelMinCharge": 7350,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13871/13871.jpg",
-    "userReview": "食事、お風呂最高90代の母2人連れて行きました娘よりよく食べ、美味しい食事を満喫しました。お風呂も気持ちよくはいりました。元湯のチケットももらいお得でした。お湯はとってもスベスベでした…　2026-09-19 08:37:46投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=13871\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "食事、お風呂最高90代の母2人連れて行きました娘よりよく食べ、美味しい食事を満喫しました。お風呂も気持ちよくはいりました。元湯のチケットももらいお得でした。お湯はとってもスベスベでした。",
     "reviewAverage": 4.41,
     "reviewCount": 136,
     "address": "島根県浜田市金城町追原7-2",

@@ -36,7 +36,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40434/40434map.gif",
     "reviewCount": 1267,
     "reviewAverage": 4.36,
-    "userReview": "期待していた分、全体的に普通で残念な印象初めて星野リゾートのホテルを利用するので楽しみにしていましたが、案外普通だったなという印象です。大浴場も特にこれといった特色もなく、1日目は露天風呂に枯…　 ",
+    "userReview": "大浴場も特にこれといった特色もなく、1日目は露天風呂に枯。",
     "hotelMinCharge": 27500,
     "address1": "青森県",
     "address2": "十和田市奥瀬栃久保231",
@@ -67,11 +67,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/181765/181765map.gif",
     "reviewCount": 133,
     "reviewAverage": 3.89,
-    "userReview": "世界一の地ビールを堪能、オーナーとの会話も楽しい6種類の準備料、全部堪能しました。そのうち3種類は世界一を取った地ビールだそうです。気に入る1杯は見つかると思いますここのオーナーと話をしながら少し…　 ",
+    "userReview": "世界一の地ビールを堪能、オーナーとの会話も楽しい6種類の準備料、全部堪能しました。そのうち3種類は世界一を取った地ビールだそうです。気に入る1杯は見つかると思いますここのオーナーと話をしながら少し。",
     "hotelMinCharge": 5750,
     "address1": "秋田県",
     "address2": "大仙市太田町太田字惣行大谷地10-5",
-    "telephoneNo": "0187-88-1717",
+    "telephoneNo": "17",
     "access": "秋田空港より車で約60分、大曲I.Cより車で約30分、大曲駅より車で約25分、角館駅より車で約20分",
     "parkingInformation": "有り　150台　無料　予約不要",
     "nearestStation": "角館",
@@ -98,7 +98,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/167241/167241map.gif",
     "reviewCount": 900,
     "reviewAverage": 4.4,
-    "userReview": "ゆっくりできて夕食バイキングも満足ゆっくりできます。 夕食のバイキングがいいです。季節柄今回は、トマトがなかった?と思います。これ以上ない評価ですが、プラスを言うなら、個人的には、梨やスイカ、…　 ",
+    "userReview": "ゆっくりできて夕食バイキングも満足ゆっくりできます。夕食のバイキングがいいです。季節柄今回は、トマトがなかった?と思います。これ以上ない評価ですが、プラスを言うなら、個人的には、梨やスイカ、。",
     "hotelMinCharge": 19800,
     "address1": "長野県",
     "address2": "木曽郡南木曽町吾妻2278",
@@ -185,7 +185,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「奥入瀬渓流ホテル ｂｙ 星野リゾート」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「奥入瀬渓流ホテル ｂｙ 星野リゾート」へは、東北新幹線 八戸駅／無料送迎バス（要予約）、青森駅／有料送迎バス（要予約）、ＪＲバス 十和田湖行き、焼山下車。最寄りの八戸駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「奥入瀬渓流ホテル ｂｙ 星野リゾート」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「奥入瀬渓流ホテル ｂｙ 星野リゾート」は『日本屈指の景勝地奥入瀬渓流。その畔に佇むリゾートホテルで大自然が演出する非日常空間をご堪能』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「奥入瀬渓流ホテル ｂｙ 星野リゾート」と「川口温泉 奥羽山荘」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「奥入瀬渓流ホテル ｂｙ 星野リゾート」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「奥入瀬渓流ホテル ｂｙ 星野リゾート」へは、東北新幹線 八戸駅／無料送迎バス（要予約）、青森駅／有料送迎バス（要予約）、ＪＲバス 十和田湖行き、焼山下車。最寄りの八戸駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「奥入瀬渓流ホテル ｂｙ 星野リゾート」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「奥入瀬渓流ホテル ｂｙ 星野リゾート」は『日本屈指の景勝地奥入瀬渓流。その畔に佇むリゾートホテルで大自然が演出する非日常空間をご堪能。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「奥入瀬渓流ホテル ｂｙ 星野リゾート」と「川口温泉 奥羽山荘」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         
         {/* 特集の魅力セクション */}
@@ -491,7 +491,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「奥入瀬渓流ホテル ｂｙ 星野リゾート」は『日本屈指の景勝地奥入瀬渓流。その畔に佇むリゾートホテルで大自然が演出する非日常空間をご堪能』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「奥入瀬渓流ホテル ｂｙ 星野リゾート」は『日本屈指の景勝地奥入瀬渓流。その畔に佇むリゾートホテルで大自然が演出する非日常空間をご堪能。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -37,8 +37,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-13T00:00:00+09:00',
-    dateModified: '2026-09-13T00:00:00+09:00',
+    datePublished: 'T00:00:00+09:00',
+    dateModified: 'T00:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/tochigi-kinugawa-solo-retreat-onsen-stay',
   };
 
@@ -64,7 +64,7 @@ export default function ArticlePage() {
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で鬼怒川の渓谷絶景と観光に便利な宿は？","acceptedAnswer":{"@type":"Answer","text":"「鬼怒川温泉 ホテルサンシャイン鬼怒川」は鬼怒楯岩大吊橋のすぐ隣に位置し、客室や大浴場から鬼怒川渓谷の絶景を楽しめます。"}},{"@type":"Question","name":"落ち着いた雰囲気で美味しい料理と温泉を満喫したいなら？","acceptedAnswer":{"@type":"Answer","text":"「鬼怒川温泉 鬼怒川グランドホテル 夢の季」は美しい日本庭園と上質な会席料理、多彩な温浴施設が揃い、ソロリトリートに最適です。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で鬼怒川の渓谷絶景と観光に便利な宿は？","acceptedAnswer":{"@type":"Answer","text":"「鬼怒川温泉 ホテルサンシャイン鬼怒川」は鬼怒楯岩大吊橋のすぐ隣に位置し、客室や大浴場から鬼怒川渓谷の絶景を楽しめます。"}},{"@type":"Question","name":"落ち着いた雰囲気で美味しい料理と温泉を満喫したいなら？","acceptedAnswer":{"@type":"Answer","text":"「鬼怒川温泉 鬼怒川グランドホテル 夢の季。」は美しい日本庭園と上質な会席料理、多彩な温浴施設が揃い、ソロリトリートに最適です。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -79,7 +79,7 @@ export default function ArticlePage() {
             【鬼怒川温泉ひとり旅・渓谷美おこもり】スペーシアX直通・鬼怒川渓谷露天・とちぎ和牛！都心から2時間の極上ソロ湯治厳選3宿
           </h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
-            更新日：2026年9月13日 | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
+            更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -322,7 +322,7 @@ export default function ArticlePage() {
                 <span>落ち着いた雰囲気で美味しい料理と温泉を満喫したいなら？</span>
               </h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
-                「鬼怒川温泉 鬼怒川グランドホテル 夢の季」は美しい日本庭園と上質な会席料理、多彩な温浴施設が揃い、ソロリトリートに最適です。
+                「鬼怒川温泉 鬼怒川グランドホテル 夢の季。」は美しい日本庭園と上質な会席料理、多彩な温浴施設が揃い、ソロリトリートに最適です。
               </p>
             </div>
           </div>
@@ -376,7 +376,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「鬼怒川温泉 ホテルサンシャイン鬼怒川」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「鬼怒川温泉 ホテルサンシャイン鬼怒川」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「鬼怒川温泉 鬼怒川グランドホテル 夢の季」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「鬼怒川温泉 鬼怒川グランドホテル 夢の季。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>

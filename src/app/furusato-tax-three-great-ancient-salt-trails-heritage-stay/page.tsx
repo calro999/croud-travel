@@ -49,7 +49,7 @@ export default function FurusatoRound64ArticlePage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「白馬姫川温泉 白馬ハイランドホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「白馬姫川温泉 白馬ハイランドホテル」へは、ＪＲ白馬駅より徒歩２０分（無料送迎あり）／長野自動車道安曇野ＩＣより６０分／上信越自動車道長野ＩＣより６０分。最寄りの白馬駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「白馬姫川温泉 白馬ハイランドホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「白馬姫川温泉 白馬ハイランドホテル」は『地消地産！ こだわり料理＆白馬唯一、白馬三山を一望できる２つの露天風呂で心も体もポカポカに』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「白馬姫川温泉 白馬ハイランドホテル」と「昼神温泉 湯多利の里 伊那華」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「白馬姫川温泉 白馬ハイランドホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「白馬姫川温泉 白馬ハイランドホテル」へは、ＪＲ白馬駅より徒歩２０分（無料送迎あり）／長野自動車道安曇野ＩＣより６０分／上信越自動車道長野ＩＣより６０分。最寄りの白馬駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「白馬姫川温泉 白馬ハイランドホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「白馬姫川温泉 白馬ハイランドホテル」は『地消地産！こだわり料理＆白馬唯一、白馬三山を一望できる２つの露天風呂で心も体もポカポカに。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「白馬姫川温泉 白馬ハイランドホテル」と「昼神温泉 湯多利の里 伊那華」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
                 <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -190,7 +190,7 @@ export default function FurusatoRound64ArticlePage() {
                     白馬姫川温泉　白馬ハイランドホテル
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「お風呂は綺麗で食事も美味しく接客も丁寧ホテルは少し古さを感じましたが、お風呂は改装されて?かなり綺麗でした。特に宿泊者専用のお風呂は広くとても快適でした。(お風呂まで少し遠いですが)朝食・夕食… 2026-08-30 09:06:58投稿 つづきはこちら…」
+                    「お風呂は綺麗で食事も美味しく接客も丁寧ホテルは少し古さを感じましたが、お風呂は改装されて?かなり綺麗でした。特に宿泊者専用のお風呂は広くとても快適でした。(お風呂まで少し遠いですが)朝食・夕食…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -245,7 +245,7 @@ export default function FurusatoRound64ArticlePage() {
                     昼神温泉　湯多利の里　伊那華
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「昼神温泉 【いなか】最高!!約12年ぶりに、昼神温泉へ。親がよく利用しているとのことで、私は2回目の宿泊。12年ぶりだったために、食事のメニューとかもすっかり忘れ、山菜がメインであった様な、、、そ… 2026-09-02 22:42:28投稿 つづきはこちら…」
+                    「昼神温泉 【いなか】最高!約12年ぶりに、昼神温泉へ。親がよく利用しているとのことで、私は2回目の宿泊。12年ぶりだったために、食事のメニューとかもすっかり忘れ、山菜がメインであった様な、、、そ…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -300,7 +300,7 @@ export default function FurusatoRound64ArticlePage() {
                     高遠温泉　高遠さくらホテル
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「高遠湖の景色と温泉、スマートな接客に大満足高遠湖を臨むお部屋は、景色を眺めとてもリラックスすることができました。 美肌効果のある温泉はとっても気持ちよかったです。レストランは夕食 朝食ともに 、ち… 2026-08-26 21:43:37投稿 つづきはこちら…」
+                    「高遠湖の景色と温泉、スマートな接客に大満足高遠湖を臨むお部屋は、景色を眺めとてもリラックスすることができました。美肌効果のある温泉はとっても気持ちよかったです。レストランは夕食 朝食ともに 、ち…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -463,7 +463,7 @@ export default function FurusatoRound64ArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「白馬姫川温泉 白馬ハイランドホテル」は『地消地産！ こだわり料理＆白馬唯一、白馬三山を一望できる２つの露天風呂で心も体もポカポカに』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「白馬姫川温泉 白馬ハイランドホテル」は『地消地産！こだわり料理＆白馬唯一、白馬三山を一望できる２つの露天風呂で心も体もポカポカに。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

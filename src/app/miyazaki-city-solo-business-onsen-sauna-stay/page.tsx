@@ -37,8 +37,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-13T00:00:00+09:00',
-    dateModified: '2026-09-13T00:00:00+09:00',
+    datePublished: 'T00:00:00+09:00',
+    dateModified: 'T00:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/miyazaki-city-solo-business-onsen-sauna-stay',
   };
 
@@ -76,7 +76,7 @@ export default function ArticlePage() {
           【宮崎出張・天然温泉サウナ】南国リゾート・天然温泉日向の湯・宮崎地鶏炭火焼き！橘通ビジネス街を制する厳選3宿
         </h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
-          <time dateTime="2026-09-13">2026.09.13 更新</time>
+          <time dateTime="">2026.09.13 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
         </div>

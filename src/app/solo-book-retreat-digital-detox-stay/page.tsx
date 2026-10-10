@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-11T02:20:00+09:00',
-    dateModified: '2026-09-11T02:20:00+09:00',
+    datePublished: 'T02:20:00+09:00',
+    dateModified: 'T02:20:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/solo-book-retreat-digital-detox-stay',
   };
 
@@ -89,7 +89,7 @@ export default function ArticlePage() {
             紙の温もりをめくる音と、ほのかに漂う檜と源泉の香り——言葉の森に迷い込み、自分を取り戻す「静寂の読書リトリート」
           </h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
-            毎日のように届くメッセージ、SNSのタイムライン、仕事のメール……気付けば私たちは1日中画面をスクロールし、脳が絶え間ない情報過多に晒されています。「一度頭を空っぽにして、じっくり本の世界に浸りたい」「誰の連絡も気にせず、心に残る一冊と向き合いたい」。そんな現代人の願いを叶えるのが、「読書特化型ホテル」や「文豪たちが愛した歴史ある湯宿」です。
+            毎日のように届くメッセージ、SNSのタイムライン、仕事のメール……気付けば私たちは1日中画面をスクロールし、脳が絶え間ない情報過多に晒されています。「一度頭を空っぽにして、じっくり本の世界に浸りたい。」「誰の連絡も気にせず、心に残る一冊と向き合いたい。」。そんな現代人の願いを叶えるのが、「読書特化型ホテル」や「文豪たちが愛した歴史ある湯宿」です。
           </p>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             壁一面を埋め尽くす本棚から直感で選んだ本をベッドに持ち込む贅沢。あるいは、百年以上の歴史を誇る木造建築の縁側で、庭の緑を眺めながら行間を味わう時間。そこには日常では決して味わえない、澄み渡るような静寂と知的好奇心を満たす至福の旅があります。今回は大人がひとり籠もるのにふさわしい、本と湯を愛する宿3選を厳選しました。
@@ -161,7 +161,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価3.80点。「ロビーや吹き抜けに並ぶ本が圧巻で、本好きにはたまらない空間でした」「静かな客室で一晩中読書に集中できて、とても贅沢な休日になりました」と読書家から熱い支持。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価3.80点。「ロビーや吹き抜けに並ぶ本が圧巻で、本好きにはたまらない空間でした。」「静かな客室で一晩中読書に集中できて、とても贅沢な休日になりました。」と読書家から熱い支持。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -236,7 +236,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.59点。「文化財の建物が素晴らしく、静かで本を読むのに最高の環境でした」「源泉掛け流しのお湯がとても優しく、一人旅を温かく受け入れてくれる名宿」と絶賛。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.59点。「文化財の建物が素晴らしく、静かで本を読むのに最高の環境でした。」「源泉掛け流しのお湯がとても優しく、一人旅を温かく受け入れてくれる名宿。」と絶賛。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -311,7 +311,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価5.00点満点。「文豪たちが愛した理由が心から理解できる、日本のおもてなしの頂点」「一人で庭園を眺めながら読書をして過ごす時間は言葉にできないほど贅沢でした」と感嘆の声。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価5.00点満点。「文豪たちが愛した理由が心から理解できる、日本のおもてなしの頂点。」「一人で庭園を眺めながら読書をして過ごす時間は言葉にできないほど贅沢でした。」と感嘆の声。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">

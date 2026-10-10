@@ -34,11 +34,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/11339/11339map.gif",
     "reviewCount": 159,
     "reviewAverage": 4.56,
-    "userReview": "設備は古めだが清掃が行き届いた温泉宿久しぶりに和室の温泉旅館に泊まりました。特に観光目的ではなかったため、周囲に何があるかは把握していませんが、温泉だけならとてもいい宿です。設備は新しくな…　2026-09-06 10:26:04投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=11339\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "設備は古めだが清掃が行き届いた温泉宿久しぶりに和室の温泉旅館に泊まりました。特に観光目的ではなかったため、周囲に何があるかは把握していませんが、温泉だけならとてもいい宿です。設備は新しくな。",
     "hotelMinCharge": 13200,
     "address1": "山形県",
     "address2": "東根市温泉町二丁目１－１",
-    "telephoneNo": "0237-42-1711",
+    "telephoneNo": "11",
     "access": "JR山形新幹線さくらんぼ東根駅車８分／東北中央道東根北ＩＣ車１０分／山形駅車５０分/銀山温泉車５０分／山形空港車１２分",
     "parkingInformation": "有り。旅館の道を挟んで向かい側に１つ、２０台ほどのスペースがあります。無料",
     "nearestStation": "東根",
@@ -63,7 +63,7 @@ const hotels: any[] = [
     "hotelMinCharge": 9350,
     "address1": "山形県",
     "address2": "鶴岡市湯田川乙52",
-    "telephoneNo": "0235-35-2301",
+    "telephoneNo": "01",
     "access": "ＪＲ　鶴岡駅よりタクシーにて２０分／バスにて３０分　庄内空港より車30分",
     "parkingInformation": "有り　無料　予約不要　ペット連れのお客様は楽天トラベルからは予約不可。公式HPより予約下さい",
     "nearestStation": "鶴岡",
@@ -84,7 +84,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/197453/197453map.gif",
     "reviewCount": 94,
     "reviewAverage": 4.57,
-    "userReview": "サウナ好きにはたまらない、リピ確定の旅館部屋も温泉もサウナも全てが最高でした!サウナ好きにはたまらない!リピ確定の旅館です!クチコミの詳細はこちらから　https://review…　2026-09-15 09:42:06投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=197453\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "サウナ好きにはたまらない、リピ確定の旅館部屋も温泉もサウナも全てが最高でした!サウナ好きにはたまらない!リピ確定の旅館です!",
     "hotelMinCharge": 7600,
     "address1": "山形県",
     "address2": "東根市温泉町1-9-13",
@@ -109,11 +109,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147604/147604map.gif",
     "reviewCount": 117,
     "reviewAverage": 4.18,
-    "userReview": "源泉かけ流しの熱いお湯と気さくな仲居さん夏休みの平日にお邪魔しました。お部屋は新しくはないですが、掃除は行き届いていました。お風呂は源泉かけ流しだから、熱い熱い。水でうめて3回入りました。癖に…　2026-09-15 18:02:23投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=147604\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "源泉かけ流しの熱いお湯と気さくな仲居さん夏休みの平日にお邪魔しました。お部屋は新しくはないですが、掃除は行き届いていました。お風呂は源泉かけ流しだから、熱い熱い。水でうめて3回入りました。癖に。",
     "hotelMinCharge": 7350,
     "address1": "山形県",
     "address2": "東根市温泉町1-9-3",
-    "telephoneNo": "0237-42-0043",
+    "telephoneNo": "43",
     "access": "東根駅よりお車にて約３分。",
     "parkingInformation": "有り　３５台　無料　予約不要",
     "nearestStation": "東根",
@@ -134,7 +134,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9412/9412map.gif",
     "reviewCount": 817,
     "reviewAverage": 3.9,
-    "userReview": "朝食のクロワッサンが美味しかった、部屋は狭め朝食ビュッフェは郷土料理や洋食もあり、近隣の店で食べるより(お店もなさそうだったので)朝食付プランにしてよかったです。色々取って食べたら、お腹いっぱいで…　2026-09-09 15:48:43投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=9412\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "朝食のクロワッサンが美味しかった、部屋は狭め朝食ビュッフェは郷土料理や洋食もあり、近隣の店で食べるより(お店もなさそうだったので)朝食付プランにしてよかったです。色々取って食べたら、お腹いっぱいで。",
     "hotelMinCharge": 9025,
     "address1": "山形県",
     "address2": "上山市新湯1-23",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「さくらんぼ東根温泉 のゝか本郷館(ののか)」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「さくらんぼ東根温泉 のゝか本郷館(ののか)」へは、JR山形新幹線さくらんぼ東根駅車８分／東北中央道東根北ＩＣ車１０分／山形駅車５０分/銀山温泉車５０分／山形空港車１２分。最寄りの東根駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「さくらんぼ東根温泉 のゝか本郷館(ののか)」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「さくらんぼ東根温泉 のゝか本郷館(ののか)」は『＼地元次年子焼きの貸切風呂が自慢！！／旬の素材を取り入れた和懐石をお楽しみください♪』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「さくらんぼ東根温泉 のゝか本郷館(ののか)」と「湯田川温泉 つかさや旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「さくらんぼ東根温泉 のゝか本郷館(ののか)。」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「さくらんぼ東根温泉 のゝか本郷館(ののか)。」へは、JR山形新幹線さくらんぼ東根駅車８分／東北中央道東根北ＩＣ車１０分／山形駅車５０分/銀山温泉車５０分／山形空港車１２分。最寄りの東根駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「さくらんぼ東根温泉 のゝか本郷館(ののか)。」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「さくらんぼ東根温泉 のゝか本郷館(ののか)。」は『＼地元次年子焼きの貸切風呂が自慢！／旬の素材を取り入れた和懐石をお楽しみください♪。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「さくらんぼ東根温泉 のゝか本郷館(ののか)。」と「湯田川温泉 つかさや旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -585,9 +585,9 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 東根駅よりアクセス。JR山形新幹線さくらんぼ東根駅車８分／東北中央道東根北ＩＣ車１０分／山形駅車５０分/銀山温泉車５０分／山形空港車１２分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「さくらんぼ東根温泉 のゝか本郷館(ののか)」にチェックイン。＼地元次年子焼きの貸切風呂が自慢！！／旬の素材を取り入れた和懐石をお楽しみください♪などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「さくらんぼ東根温泉 のゝか本郷館(ののか)」の湯処へ。＼地元次年子焼きの貸切風呂が自慢！！／旬の素材を取り入れた和懐石をお楽とともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「さくらんぼ東根温泉 のゝか本郷館(ののか)」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「さくらんぼ東根温泉 のゝか本郷館(ののか)。」にチェックイン。＼地元次年子焼きの貸切風呂が自慢！！／旬の素材を取り入れた和懐石をお楽しみください♪などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「さくらんぼ東根温泉 のゝか本郷館(ののか)。」の湯処へ。＼地元次年子焼きの貸切風呂が自慢！！／旬の素材を取り入れた和懐石をお楽とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「さくらんぼ東根温泉 のゝか本郷館(ののか)。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -596,8 +596,8 @@ export default function FeatureDetailPage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「さくらんぼ東根温泉 のゝか本郷館(ののか)」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「さくらんぼ東根温泉 のゝか本郷館(ののか)」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「さくらんぼ東根温泉 のゝか本郷館(ののか)。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「さくらんぼ東根温泉 のゝか本郷館(ののか)。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「湯田川温泉 つかさや旅館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
@@ -615,20 +615,20 @@ export default function FeatureDetailPage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「さくらんぼ東根温泉 のゝか本郷館(ののか)」へのアクセスや移動方法について</span>
+                <span>Q. 「さくらんぼ東根温泉 のゝか本郷館(ののか)。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「さくらんぼ東根温泉 のゝか本郷館(ののか)」へは、JR山形新幹線さくらんぼ東根駅車８分／東北中央道東根北ＩＣ車１０分／山形駅車５０分/銀山温泉車５０分／山形空港車１２分。最寄りの東根駅からの経路案内も充実しています。
+                A. 「さくらんぼ東根温泉 のゝか本郷館(ののか)。」へは、JR山形新幹線さくらんぼ東根駅車８分／東北中央道東根北ＩＣ車１０分／山形駅車５０分/銀山温泉車５０分／山形空港車１２分。最寄りの東根駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「さくらんぼ東根温泉 のゝか本郷館(ののか)」の魅力や予約時のポイントは？</span>
+                <span>Q. 「さくらんぼ東根温泉 のゝか本郷館(ののか)。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「さくらんぼ東根温泉 のゝか本郷館(ののか)」は『＼地元次年子焼きの貸切風呂が自慢！！／旬の素材を取り入れた和懐石をお楽しみください♪』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「さくらんぼ東根温泉 のゝか本郷館(ののか)。」は『＼地元次年子焼きの貸切風呂が自慢！／旬の素材を取り入れた和懐石をお楽しみください♪。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -637,7 +637,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「さくらんぼ東根温泉 のゝか本郷館(ののか)」と「湯田川温泉 つかさや旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「さくらんぼ東根温泉 のゝか本郷館(ののか)。」と「湯田川温泉 つかさや旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

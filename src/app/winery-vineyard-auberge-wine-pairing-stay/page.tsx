@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/winery-vineyard-auberge-wine-pairing-stay"
   };
 
@@ -87,7 +87,7 @@ export default function Page() {
     "hotelMinCharge": 58250,
     "address1": "新潟県",
     "address2": "新潟市西蒲区角田浜1661　カーブドッチ",
-    "telephoneNo": "0256-77-5460",
+    "telephoneNo": "60",
     "access": "JR越後線内野駅からタクシーでカーブドッチへ約20～30分程",
     "parkingInformation": "有り　10台　無料　予約不要",
     "nearestStation": "内野",
@@ -108,7 +108,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9045/9045map.gif",
     "reviewCount": 1573,
     "reviewAverage": 4.77,
-    "userReview": "接客・食事・温泉すべてが最高で大満足もともと口コミが良かったので、今回一泊お世話になりました。口コミ通り接客、食事(朝夕共に)、温泉、設備どれをとっても最高な宿でした。布団も気持ちよく朝ま…　2026-09-17 09:02:53投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=9045\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "接客・食事・温泉すべてが最高で大満足もともと口コミが良かったので、今回一泊お世話になりました。口コミ通り接客、食事(朝夕共に)、温泉、設備どれをとっても最高な宿でした。布団も気持ちよく朝ま。",
     "hotelMinCharge": 20900,
     "address1": "山梨県",
     "address2": "甲府市湯村2-5-21",
@@ -137,7 +137,7 @@ export default function Page() {
     "hotelMinCharge": 7150,
     "address1": "京都府",
     "address2": "宮津市文珠460",
-    "telephoneNo": "0772-22-2141",
+    "telephoneNo": "41",
     "access": "京都丹後鉄道（丹鉄）天橋立駅よりすぐ",
     "parkingInformation": "有り　8台（7名乗り乗用車まで／中型バス不可）　先着順無料　※1グループ2台。それ以上は要電話",
     "nearestStation": "天橋立",

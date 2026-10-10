@@ -48,8 +48,8 @@ export default function FukuokaChristmasPage() {
         "headline": "【11・12月福岡クリスマスアドベント】博多駅・天神の光の街と本場もつ鍋・水炊き極上宿5選",
         "description": "11月中旬から博多駅・天神・中洲が煌めく日本最大級の祭典「福岡クリスマスアドベント」！限定マグカップで楽しむホットワインと冬の博多名物（もつ鍋・水炊き）、冷えた体を芯から温める天然温泉・大浴場付きの厳選ホテルステイ。",
         "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-        "datePublished": "2026-09-27T00:00:00+09:00",
-        "dateModified": "2026-09-27T00:00:00+09:00",
+        "datePublished": "T00:00:00+09:00",
+        "dateModified": "T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
@@ -137,7 +137,7 @@ export default function FukuokaChristmasPage() {
           {
             "@type": "ListItem",
             "position": 5,
-            "name": "天然温泉　御笠の湯　ドーミーイン博多祇園（２０２６年４月１日リニューアルオープン）",
+            "name": "天然温泉　御笠の湯　ドーミーイン博多祇園（リニューアルオープン）",
             "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F76404%2F76404.html"
           }
         ]
@@ -224,7 +224,7 @@ export default function FukuokaChristmasPage() {
             },
             {
               id: 5,
-              name: "天然温泉　御笠の湯　ドーミーイン博多祇園（２０２６年４月１日リニューアルオープン）",
+              name: "天然温泉　御笠の湯　ドーミーイン博多祇園（リニューアルオープン）",
               img: "https://img.travel.rakuten.co.jp/share/HOTEL/76404/76404.jpg",
               rating: 4.27,
               reviews: 4835,
@@ -234,7 +234,7 @@ export default function FukuokaChristmasPage() {
               url: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F76404%2F76404.html",
               story: "地下鉄祇園駅3番出口から徒歩わずか1分、博多駅からも徒歩10分という好立地にあり、2026年4月にリニューアルオープンを遂げた大人気ホテル。最上階に備えられた天然温泉「御笠の湯」は、内湯・露天風呂・水風呂・高温サウナが揃った本格派。男湯にはドライサウナ、女湯にはスチームサウナが完備され、旅の疲れを徹底的にリセットできます。湯上がり処では夜間にアイスキャンディー、朝には乳酸菌飲料が無料で振る舞われるほか、名物の特製醤油ラーメン「夜鳴きそば」の無料提供も大好評。中洲の屋台街やキャナルシティ博多へも歩いてすぐのロケーションです。",
               roomTip: "サータ社製ベッドを配した機能的な客室は、コンパクトながらデスクや電源配置が工夫され、一人旅からビジネス・観光まで抜群の快適性を誇ります。",
-              gourmetTip: "朝食ビュッフェの看板メニューは「ご当地逸品 揚げたて天ぷらと季節の炊き込みご飯」。博多名物の辛子明太子や水炊き風スープも用意され、朝から福岡グルメの真髄を味わえます。",
+              gourmetTip: "朝食ビュッフェの看板メニューは「ご当地逸品 揚げたて天ぷらと季節の炊き込みご飯。」。博多名物の辛子明太子や水炊き風スープも用意され、朝から福岡グルメの真髄を味わえます。",
               highlights: [
                 "祗園駅徒歩1分＆キャナルシティ徒歩圏内！天然温泉大浴場と名物夜鳴きそば",
                 "湯上がりアイス・乳酸菌飲料無料サービスと夜遅くのサウナ満喫",

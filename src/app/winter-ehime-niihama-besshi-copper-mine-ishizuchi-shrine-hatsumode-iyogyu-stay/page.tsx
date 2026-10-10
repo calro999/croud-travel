@@ -47,8 +47,8 @@ export default function Page() {
       "headline": "【東洋のマチュピチュ・別子銅山の冬霧氷と石鎚神社新春初詣】2026-2027年冬の愛媛・新居浜＆西条！名水うちぬきの里と伊予牛会席名宿5選",
       "description": "標高750mに聳える産業遺産・別子銅山「東平」の雪化粧と、霊峰石鎚山を仰ぐ石鎚神社新春開運初詣！日本名水百選・西条「うちぬき」が育む地酒と瀬戸内海の旬魚介、極上の霜降り伊予牛に舌鼓。道後温泉に次ぐ名湯・本谷温泉や快適ホテルで寛ぐ冬の東予・新居浜＆西条厳選名宿5選。",
       "image": "https://img.travel.rakuten.co.jp/share/HOTEL/110/110.jpg",
-      "datePublished": "2026-10-09T08:00:00+09:00",
-      "dateModified": "2026-10-09T08:00:00+09:00",
+      "datePublished": "T08:00:00+09:00",
+      "dateModified": "T08:00:00+09:00",
       "author": {
         "@type": "Organization",
         "name": "旅宿クラウド 冬の日本厳選旅取材班",
@@ -389,7 +389,7 @@ export default function Page() {
                     </p>
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-4 text-xs text-amber-950/90 leading-relaxed italic">
-                  「窓の汚れと備え付けの紙コップにがっかり窓の内側が手の跡だらけで汚かった。窓拭きしたことがないという感じでした。洗面所のコップが紙コップなのはまだしも、部屋のグラスやマグカップもなく、紙コップと…　2026-10-01 12:41:59投稿 つづきはこちら」
+                  「窓拭きしたことがないという感じでした。洗面所のコップが紙コップなのはまだしも、部屋のグラスやマグカップもなく、紙コップと。」
                 </div>
                   </div>
                 </div>
@@ -455,7 +455,7 @@ export default function Page() {
                     </p>
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-4 text-xs text-amber-950/90 leading-relaxed italic">
-                  「朝食のバイキングが良きです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/28430?reviewId=3312347…　2026-09-26 07:02:03投稿 つづきはこちら」
+                  「朝食のバイキングが良きです。 」
                 </div>
                   </div>
                 </div>
@@ -521,7 +521,7 @@ export default function Page() {
                     </p>
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-4 text-xs text-amber-950/90 leading-relaxed italic">
-                  「隣室や上階の音が響き、騒がしく落ち着かない施設が古いので、部屋で隣の部屋と上の部屋の音が丸聞こえ。お客さんの民度が次第であるが、団体客に挟まれると地獄。家族間の交流があって、フロア中、ドラえもんや…　2026-09-19 16:22:13投稿 つづきはこちら」
+                  「隣室や上階の音が響き、騒がしく落ち着かない施設が古いので、部屋で隣の部屋と上の部屋の音が丸聞こえ。お客さんの民度が次第であるが、団体客に挟まれると地獄。家族間の交流があって、フロア中、ドラえもんや。」
                 </div>
                   </div>
                 </div>
@@ -587,7 +587,7 @@ export default function Page() {
                     </p>
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-4 text-xs text-amber-950/90 leading-relaxed italic">
-                  「お風呂は満足だが設備や衛生面に難あり初めて利用しました。近いのですぐ行けるところは良かったですが、古い宿なのでゴキの訪問などありました。すぐ退治しましたが。部屋の電気が部屋を出なければ無い…　2026-09-14 04:07:14投稿 つづきはこちら」
+                  「お風呂は満足だが設備や衛生面に難あり初めて利用しました。近いのですぐ行けるところは良かったですが、古い宿なのでゴキの訪問などありました。すぐ退治しましたが。部屋の電気が部屋を出なければ無い。」
                 </div>
                   </div>
                 </div>
@@ -653,7 +653,7 @@ export default function Page() {
                     </p>
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-4 text-xs text-amber-950/90 leading-relaxed italic">
-                  「車だとアクセス良くアルコールバーも充実立地としては新居浜駅から若干離れていますが、そもそも新居浜の市街地的に明確な中心部が無いのでまあこんなもんでしょうと駐車場は豊富にあるので問題ありませんで…　2026-09-29 22:50:30投稿 つづきはこちら」
+                  「車だとアクセス良くアルコールバーも充実立地としては新居浜駅から若干離れていますが、そもそも新居浜の市街地的に明確な中心部が無いのでまあこんなもんでしょうと駐車場は豊富にあるので問題ありませんで。」
                 </div>
                   </div>
                 </div>

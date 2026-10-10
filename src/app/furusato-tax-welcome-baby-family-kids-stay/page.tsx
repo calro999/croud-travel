@@ -44,7 +44,7 @@ export default function Page() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「熱海温泉 ホテル サンミ倶楽部」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「熱海温泉 ホテル サンミ倶楽部」へは、JR東海道線『熱海駅』より東海バス『マリンスパあたみ』下車 徒歩1分。最寄りの熱海駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「熱海温泉 ホテル サンミ倶楽部」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「熱海温泉 ホテル サンミ倶楽部」は『オーシャンビュー客室に海一望の温泉も人気！館内には24 Hコンビニ有り♪』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「熱海温泉 ホテル サンミ倶楽部」と「伊豆大島を正面に臨む 眺望絶佳の宿 熱川館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「熱海温泉 ホテル サンミ倶楽部」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「熱海温泉 ホテル サンミ倶楽部」へは、JR東海道線『熱海駅』より東海バス『マリンスパあたみ』下車 徒歩1分。最寄りの熱海駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「熱海温泉 ホテル サンミ倶楽部」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「熱海温泉 ホテル サンミ倶楽部」は『オーシャンビュー客室に海一望の温泉も人気！館内には24 Hコンビニ有り♪。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「熱海温泉 ホテル サンミ倶楽部」と「伊豆大島を正面に臨む 眺望絶佳の宿 熱川館。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         {/* パンくずリスト */}
@@ -63,7 +63,7 @@ export default function Page() {
             【赤ちゃん・未就学児連れ安心×ふるさと納税】ウェルカムベビー認定宿＆離乳食・貸切風呂完備の家族温泉旅ガイド
           </h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl mb-6">
-            「赤ちゃんが生まれてから、毎日育児に追われて温泉なんて夢のまた夢…」「泣き声で周りに迷惑をかけないか心配」「大浴場に連れて行くのは衛生面や温度が不安」。そんな新米パパ・ママの不安を100％解消してくれるのが、ミキハウス子育て総研認定の「ウェルカムベビーのお宿」や、乳幼児連れファミリー専用のサポートプランを用意している温泉旅館です。客室にはおむつ用ゴミ箱、調乳ポット、空気清浄機、ベビーバスが完備され、夕食はお部屋食または個室ダイニングで月齢に応じた手作り離乳食が提供されます。こうした細やかなサービスが充実した宿は通常プランより設備費用がかかりますが、楽天ふるさと納税のトラベルクーポン（30％補助）を使えば実質自己負担2,000円で無理なくアップグレード可能。赤ちゃんの温泉デビューを家族みんなの最高の笑顔で飾りましょう。
+            「赤ちゃんが生まれてから、毎日育児に追われて温泉なんて夢のまた夢。」「泣き声で周りに迷惑をかけないか心配」「大浴場に連れて行くのは衛生面や温度が不安。」。そんな新米パパ・ママの不安を100％解消してくれるのが、ミキハウス子育て総研認定の「ウェルカムベビーのお宿」や、乳幼児連れファミリー専用のサポートプランを用意している温泉旅館です。客室にはおむつ用ゴミ箱、調乳ポット、空気清浄機、ベビーバスが完備され、夕食はお部屋食または個室ダイニングで月齢に応じた手作り離乳食が提供されます。こうした細やかなサービスが充実した宿は通常プランより設備費用がかかりますが、楽天ふるさと納税のトラベルクーポン（30％補助）を使えば実質自己負担2,000円で無理なくアップグレード可能。赤ちゃんの温泉デビューを家族みんなの最高の笑顔で飾りましょう。
           </p>
           <div className="flex flex-wrap gap-4 pt-4 border-t border-amber-900/50 text-xs text-amber-200/90 font-medium">
             <span>✓ 寄付額の最大30％相当を宿泊クーポン還元</span>
@@ -129,7 +129,7 @@ export default function Page() {
               <span>ポイント③：育休中の思い出作りや出産祝いのプレゼント旅行にも最適</span>
             </h3>
             <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-11">
-              「ママの日頃の育児疲れをねぎらいたい」「育休が終わる前に平日のお得な時期に旅行へ行きたい」。有効期限3年のふるさと納税クーポンなら、赤ちゃんの体調や成長のタイミングに合わせて柔軟に予約できます。
+              「ママの日頃の育児疲れをねぎらいたい」「育休が終わる前に平日のお得な時期に旅行へ行きたい。」。有効期限3年のふるさと納税クーポンなら、赤ちゃんの体調や成長のタイミングに合わせて柔軟に予約できます。
             </p>
           </div>
   
@@ -564,7 +564,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「熱海温泉 ホテル サンミ倶楽部」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「熱海温泉 ホテル サンミ倶楽部」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「伊豆大島を正面に臨む 眺望絶佳の宿 熱川館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「伊豆大島を正面に臨む 眺望絶佳の宿 熱川館。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -594,7 +594,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「熱海温泉 ホテル サンミ倶楽部」は『オーシャンビュー客室に海一望の温泉も人気！館内には24 Hコンビニ有り♪』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「熱海温泉 ホテル サンミ倶楽部」は『オーシャンビュー客室に海一望の温泉も人気！館内には24 Hコンビニ有り♪。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -603,7 +603,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「熱海温泉 ホテル サンミ倶楽部」と「伊豆大島を正面に臨む 眺望絶佳の宿 熱川館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「熱海温泉 ホテル サンミ倶楽部」と「伊豆大島を正面に臨む 眺望絶佳の宿 熱川館。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

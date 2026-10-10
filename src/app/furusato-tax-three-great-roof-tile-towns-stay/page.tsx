@@ -36,11 +36,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9567/9567map.gif",
     "reviewCount": 1545,
     "reviewAverage": 4.62,
-    "userReview": "子供におすすめ小学生の子供が大満足。今まで行ったホテルで1番楽しかったとのこと。また行きたいと言っている。クチコミの詳細はこちらから　https://review.travel.rakuten…　 ",
+    "userReview": "子供におすすめ小学生の子供が大満足。今まで行ったホテルで1番楽しかったとのこと。また行きたいと言っている。",
     "hotelMinCharge": 13910,
     "address1": "兵庫県",
     "address2": "洲本市小路谷1053-17　",
-    "telephoneNo": "0799-26-0111",
+    "telephoneNo": "11",
     "access": "全室Wi-Fi無料　【お車】洲本I.C.下りて約15分【高速バス】ＪＲ三宮、新神戸より洲本BCまで約９０分",
     "parkingInformation": "有り　 80台 　無料",
     "nearestStation": "洲本",
@@ -67,11 +67,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13882/13882map.gif",
     "reviewCount": 1237,
     "reviewAverage": 3.75,
-    "userReview": "スタッフの対応が冷たくて驚いた味噌汁をこぼしたら、スタッフの女性に「忙しいから自分で拭いて」と言われた...マジか?と思ったクチコミの詳細はこちらから　https://review.tra…　 ",
+    "userReview": "スタッフの対応が冷たくて驚いた味噌汁をこぼしたら、スタッフの女性に「忙しいから自分で拭いて」と言われた...マジか?と思った。",
     "hotelMinCharge": 4350,
     "address1": "愛知県",
     "address2": "刈谷市若松町2-54",
-    "telephoneNo": "0566-26-5611",
+    "telephoneNo": "11",
     "access": "JR・名鉄刈谷駅南出口よりウィングデッキ徒歩3分／伊勢湾岸道豊田南ＩＣより車で２０分／刈谷市総合文化センター西隣",
     "parkingInformation": "台数限定平面駐車場完備 先着順　普通車のみ",
     "nearestStation": "刈谷",
@@ -98,11 +98,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/172875/172875map.gif",
     "reviewCount": 841,
     "reviewAverage": 4.5,
-    "userReview": "スモールラグジュアリーなホテルスモールラグジュアリーを体現したようなホテルでした。客室は清潔で快適。大浴場も広く、脱衣所にはスキンケアやウォーターサーバーがあり、ゆっくり身支度できます。朝食は、フ…　 ",
+    "userReview": "スモールラグジュアリーなホテルスモールラグジュアリーを体現したようなホテルでした。客室は清潔で快適。大浴場も広く、脱衣所にはスキンケアやウォーターサーバーがあり、ゆっくり身支度できます。朝食は、フ。",
     "hotelMinCharge": 4400,
     "address1": "島根県",
     "address2": "益田市駅前町30-20",
-    "telephoneNo": "0856-25-7331",
+    "telephoneNo": "31",
     "access": "益田駅より徒歩にて約5分 ／ 萩・石見空港から車で約10分",
     "parkingInformation": "有り　普通車800円（税込／泊）先着順　　中型・大型車2000円（税込／泊）事前予約",
     "nearestStation": "益田",
@@ -110,7 +110,7 @@ export default function Page() {
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172875%2F172875.html",
     "featureKey": "tile_sekishu",
     "featureLabel": "島根県江津市・浜田市ふるさと納税・赤瓦が日本海の夕日に映える伝統工芸「石州瓦の町」開湯1300年の名湯有福温泉ステイ",
-    "themeTitle": "島根県江津市・益田市ふるさと納税：赤瓦が美しい石州街道のモダン温泉ホテル「MASCOS HOTEL（マスコスホテル）」",
+    "themeTitle": "島根県江津市・益田市ふるさと納税：赤瓦が美しい石州街道のモダン温泉ホテル「MASCOS HOTEL（マスコスホテル）。」",
     "themeDesc": "赤瓦が街並みを彩る石見地方に位置し、石州瓦や地元木材、伝統工芸を取り入れたデザインホテル。地下から湧き出る天然温泉大浴場を備え、山陰日本海直送の極上のどぐろや石見ポークを活かしたクラフトダイニングを楽しめます。",
     "revAvg": "4.5",
     "minCharge": "4,400"
@@ -185,7 +185,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「あわかん～釣りと家族の体験型旅館～」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「あわかん～釣りと家族の体験型旅館～」へは、全室Wi-Fi無料 お車 洲本I.C.下りて約15分 高速バス ＪＲ三宮、新神戸より洲本BCまで約９０分。最寄りの洲本駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「あわかん～釣りと家族の体験型旅館～」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「あわかん～釣りと家族の体験型旅館～」は『お子様支持率NO1の理由はお子様は王様なのだ！あわかん～釣りと家族の体験型旅館～』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「あわかん～釣りと家族の体験型旅館～」と「エースイン刈谷」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「あわかん～釣りと家族の体験型旅館～」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「あわかん～釣りと家族の体験型旅館～」へは、全室Wi-Fi無料 お車 洲本I.C.下りて約15分 高速バス ＪＲ三宮、新神戸より洲本BCまで約９０分。最寄りの洲本駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「あわかん～釣りと家族の体験型旅館～」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「あわかん～釣りと家族の体験型旅館～」は『お子様支持率NO1の理由はお子様は王様なのだ！あわかん～釣りと家族の体験型旅館～。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「あわかん～釣りと家族の体験型旅館～」と「エースイン刈谷」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         
         {/* 特集の魅力セクション */}
@@ -491,7 +491,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「あわかん～釣りと家族の体験型旅館～」は『お子様支持率NO1の理由はお子様は王様なのだ！あわかん～釣りと家族の体験型旅館～』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「あわかん～釣りと家族の体験型旅館～」は『お子様支持率NO1の理由はお子様は王様なのだ！あわかん～釣りと家族の体験型旅館～。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

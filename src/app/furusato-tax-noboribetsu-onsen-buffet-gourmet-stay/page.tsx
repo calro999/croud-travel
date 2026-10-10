@@ -39,8 +39,8 @@ export default function FurusatoArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-10T16:25:00+09:00',
-    dateModified: '2026-09-10T16:25:00+09:00',
+    datePublished: 'T16:25:00+09:00',
+    dateModified: 'T16:25:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-noboribetsu-onsen-buffet-gourmet-stay',
   };
 
@@ -203,7 +203,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.24点、口コミ5300件超。「とにかくカニの身がぎっしりで美味しく、お風呂の広さと種類の多さに圧倒された」「子供も大人も大満足」と絶賛の声が寄せられています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.24点、口コミ5300件超。「とにかくカニの身がぎっしりで美味しく、お風呂の広さと種類の多さに圧倒された。」「子供も大人も大満足」と絶賛の声が寄せられています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -287,7 +287,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.56点、口コミ6200件超。「お風呂のスケールが世界一レベルで素晴らしい」「地獄谷が目の前で散策にも最高、ビュッフェも種類豊富で美味しい」と名門ならではの絶賛評価。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.56点、口コミ6200件超。「お風呂のスケールが世界一レベルで素晴らしい。」「地獄谷が目の前で散策にも最高、ビュッフェも種類豊富で美味しい。」と名門ならではの絶賛評価。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.45点、口コミ3800件超。「鬼サウナの熱波と水風呂が最高で庭園露天風呂も素晴らしい」「料理のクオリティが高く、館内の落ち着いたクラシカルな雰囲気が心地よい」と評判です。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.45点、口コミ3800件超。「鬼サウナの熱波と水風呂が最高で庭園露天風呂も素晴らしい。」「料理のクオリティが高く、館内の落ち着いたクラシカルな雰囲気が心地よい。」と評判です。</p>
               </div>
 
               {/* 宿基本情報 */}

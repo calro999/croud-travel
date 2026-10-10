@@ -186,7 +186,7 @@ export default function SapporoShimeParfaitLateNightGuidePage() {
     <main className="min-h-screen bg-slate-950 text-slate-100 selection:bg-teal-500 selection:text-slate-950 font-sans pb-24">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「深夜2時まで営業！飲んだ後のシメ文化完全攻略」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「深夜2時まで営業！飲んだ後のシメ文化完全攻略。」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
       />
       {/* ヒーローセクション（ナイトティール＆オーロラ調） */}
       <section className="relative overflow-hidden bg-gradient-to-b from-teal-950/70 via-slate-900 to-slate-950 pt-16 pb-20 border-b border-teal-500/20">
@@ -245,7 +245,7 @@ export default function SapporoShimeParfaitLateNightGuidePage() {
             <p>
               酪農王国・北海道の濃厚で新鮮な生乳やアイスクリーム、冷涼な気候で育つベリー類。
               もともと上質な素材に恵まれていた札幌のバーテンダーやパティシエたちが、
-              「お酒を飲んだ後の口内を爽やかにリセットできる、甘さ控えめでビターなパフェ」を開発したのがシメパフェの始まりです。
+              「お酒を飲んだ後の口内を爽やかにリセットできる、甘さ控えめでビターなパフェ。」を開発したのがシメパフェの始まりです。
             </p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-2">
               <div className="p-4 rounded-2xl bg-slate-950/70 border border-teal-900/50">
@@ -535,7 +535,7 @@ export default function SapporoShimeParfaitLateNightGuidePage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「深夜2時まで営業！飲んだ後のシメ文化完全攻略」を効率よく巡るコツは？</span>
+                <span>Q. 「深夜2時まで営業！飲んだ後のシメ文化完全攻略。」を効率よく巡るコツは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">

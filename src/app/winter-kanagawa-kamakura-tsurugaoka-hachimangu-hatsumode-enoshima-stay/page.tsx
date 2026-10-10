@@ -58,8 +58,8 @@ export default function KamakuraTsurugaokaPage() {
     headline: '【鎌倉・鶴岡八幡宮初詣＆湘南の宝石】冬牡丹咲く古都の祈りと江の島イルミネーション！小町通り冬グルメ＆相模湾絶景宿5選',
     description: '源氏ゆかりの武家古都「鶴岡八幡宮」の新春初詣と神苑ぼたん庭園に咲く可憐な冬牡丹（正月牡丹）。関東三大イルミネーション「江の島 湘南の宝石」シーキャンドルの光の大空間、小町通りの焼きたて団子と相模湾の冬魚グルメ。鎌倉・七里ヶ浜・由比ヶ浜・江の島島内の厳選ホテル5選。',
     image: 'https://img.travel.rakuten.co.jp/share/HOTEL/1679/1679.jpg',
-    datePublished: '2026-10-06T00:00:00+09:00',
-    dateModified: '2026-10-06T00:00:00+09:00',
+    datePublished: 'T00:00:00+09:00',
+    dateModified: 'T00:00:00+09:00',
     author: {
       '@type': 'Organization',
       name: 'トラベルマップ編集部',

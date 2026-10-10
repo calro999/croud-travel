@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/traditional-craft-pottery-artisan-village-stay"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D5174%26f_flg%3DPLAN",
     "hotelMinCharge": 7040,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5174/5174.jpg",
-    "userReview": "高校の友達と食事を楽しみ、大浴場も満喫高校の友達6人と宿泊しました。ゆっくりできて食事美味しかったです。大浴場のお湯が熱かったですが、楽しい思い出になりました。クチコミの詳細はこちらから　ht…　2026-09-08 17:07:48投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=5174\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "高校の友達と食事を楽しみ、大浴場も満喫高校の友達6人と宿泊しました。ゆっくりできて食事美味しかったです。大浴場のお湯が熱かったですが、楽しい思い出になりました。",
     "reviewAverage": 4.03,
     "reviewCount": 990,
     "address": "石川県加賀市山代温泉桔梗ヶ丘2-121-3",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D16078%26f_flg%3DPLAN",
     "hotelMinCharge": 4650,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16078/16078.jpg",
-    "userReview": "スタッフの礼儀正しい接客に大満足スタッフの方々の礼儀正しい接客に大変満足しています。良い思い出ができました。ありがとうございました。クチコミの詳細はこちらから　https://revi…　2026-07-09 17:54:29投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=16078\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "スタッフの礼儀正しい接客に大満足スタッフの方々の礼儀正しい接客に大変満足しています。良い思い出ができました。ありがとうございました。",
     "reviewAverage": 4.35,
     "reviewCount": 296,
     "address": "長野県千曲市上山田温泉2-15-1",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D29110%26f_flg%3DPLAN",
     "hotelMinCharge": 8250,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29110/29110.jpg",
-    "userReview": "ご飯と味噌汁が絶品、とてもくつろげた旅館の宣伝通り、ご飯と味噌汁がすごく美味しかった。お湯も滑らかで肌にも優しい感じがしました。設備は古いですが隅々まで清掃されており、また、旅館の人も親切で、とて…　2026-09-18 19:03:52投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=29110\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "ご飯と味噌汁が絶品、とてもくつろげた旅館の宣伝通り、ご飯と味噌汁がすごく美味しかった。お湯も滑らかで肌にも優しい感じがしました。設備は古いですが隅々まで清掃されており、また、旅館の人も親切で、とて。",
     "reviewAverage": 4.15,
     "reviewCount": 201,
     "address": "長野県上田市西内1262",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D11200%26f_flg%3DPLAN",
     "hotelMinCharge": 12650,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/11200/11200.jpg",
-    "userReview": "食事も温泉も最高、女将さんの親切に感謝夕飯、朝食と大変美味しい食事で満足でした!お部屋でもゆっくりと過ごせて、大変良い時間を過ごせました。お風呂の温泉の湯もとても良く、大満足でした…　2026-09-16 16:17:40投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=11200\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "食事も温泉も最高、女将さんの親切に感謝夕飯、朝食と大変美味しい食事で満足でした!お部屋でもゆっくりと過ごせて、大変良い時間を過ごせました。お風呂の温泉の湯もとても良く、大満足でした。",
     "reviewAverage": 4.27,
     "reviewCount": 144,
     "address": "群馬県吾妻郡中之条町四万4367-6",
@@ -365,7 +365,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「温泉めい想倶楽部 富士屋旅館」は『料理高評価 ライブラリ・ギャラリー・無料卓球・など嬉しいがいっぱい♪◆楽天トラベルアワード』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「温泉めい想倶楽部 富士屋旅館」は『料理高評価 ライブラリ・ギャラリー・無料卓球・など嬉しいがいっぱい♪◆楽天トラベルアワード。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -62,7 +62,7 @@ export default function FurusatoAtamiOceanViewFireworksStayPage() {
           客室から大迫力の花火を特等席鑑賞！熱海オーシャンビュー温泉ホテル×ふるさと納税完全攻略ガイド【2026年最新】後楽園・ニューアカオ・パールスター
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-09">2026年9月9日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -164,7 +164,7 @@ export default function FurusatoAtamiOceanViewFireworksStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “バイキングは最高、デザートが食べられず残念バイキングが最高でした。唯一残念なのが、デザートが、無くなってから、新しく届く前に時間制限が来て、食べられなかった事。プリンのケーキが食べられなかったのは…　2026-09-05 23:51:31投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “バイキングは最高、デザートが食べられず残念バイキングが最高でした。唯一残念なのが、デザートが、無くなってから、新しく届く前に時間制限が来て、食べられなかった事。プリンのケーキが食べられなかったのは… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -206,7 +206,7 @@ export default function FurusatoAtamiOceanViewFireworksStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “お風呂は小さめだが食事は美味しく大満足お風呂が3ヶ所あったので楽しみにしてましたが、入ってみると思ったより小さく写真と全然違うなと思いました。ご飯は美味しく、会場も広いのでとてもわくわわくしま…　2026-09-05 20:18:35投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “お風呂は小さめだが食事は美味しく大満足お風呂が3ヶ所あったので楽しみにしてましたが、入ってみると思ったより小さく写真と全然違うなと思いました。ご飯は美味しく、会場も広いのでとてもわくわわくしま… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -248,7 +248,7 @@ export default function FurusatoAtamiOceanViewFireworksStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “前回と比べてサービスや部屋の臭いが残念2.3年前母の誕生日旅行の際訪れ細やかな気配りやサービス、お料理等全てに感動し、今回は私の誕生日旅行で母がプレゼントしてくれました。この日をとても楽しみに…　2026-09-05 02:28:26投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “前回と比べてサービスや部屋の臭いが残念2.3年前母の誕生日旅行の際訪れ細やかな気配りやサービス、お料理等全てに感動し、今回は私の誕生日旅行で母がプレゼントしてくれました。この日をとても楽しみに… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -323,7 +323,7 @@ export default function FurusatoAtamiOceanViewFireworksStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

@@ -185,7 +185,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価3.79点、口コミ2100件超。「露天風呂からの景色と夜の満天の星空が圧巻」「乳白色の硫黄泉に入ると肌がすべすべになり体の芯から温まる」と絶景温泉の評価が極めて高い名門宿です。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価3.79点、口コミ2100件超。「露天風呂からの景色と夜の満天の星空が圧巻。」「乳白色の硫黄泉に入ると肌がすべすべになり体の芯から温まる。」と絶景温泉の評価が極めて高い名門宿です。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -279,7 +279,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.08点、口コミ2000件超。「百泉の湯の種類の多さと開放感が素晴らしい」「姉妹館のプリンスホテルの風呂にも入れてお得感が抜群」と温泉好きから熱烈な支持を集めています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.08点、口コミ2000件超。「百泉の湯の種類の多さと開放感が素晴らしい。」「姉妹館のプリンスホテルの風呂にも入れてお得感が抜群。」と温泉好きから熱烈な支持を集めています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -373,7 +373,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.23点、口コミ約2500件。「お湯の質は全国の温泉でも間違いなくトップクラス」「長寿の湯と極楽湯の雰囲気が最高で何泊もしたくなる」と根強い湯治ファンに愛されています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.23点、口コミ約2500件。「お湯の質は全国の温泉でも間違いなくトップクラス。」「長寿の湯と極楽湯の雰囲気が最高で何泊もしたくなる。」と根強い湯治ファンに愛されています。</p>
               </div>
 
               {/* 宿基本情報 */}

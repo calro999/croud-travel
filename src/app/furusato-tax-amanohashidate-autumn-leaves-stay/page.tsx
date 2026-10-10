@@ -46,7 +46,7 @@ export default function FeatureArticlePage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「天橋立温泉 和のリゾート 文珠荘」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「天橋立温泉 和のリゾート 文珠荘」へは、京都丹後鉄道 天橋立駅より徒歩3分。最寄りの天橋立駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「天橋立温泉 和のリゾート 文珠荘」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「天橋立温泉 和のリゾート 文珠荘」は『日本三景天橋立の運河に佇む宿。2023年春サウナ付大浴場誕生。新しい和のリゾートをお楽しみ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「天橋立温泉 和のリゾート 文珠荘」と「天橋立温泉 天橋立ホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「天橋立温泉 和のリゾート 文珠荘」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「天橋立温泉 和のリゾート 文珠荘」へは、京都丹後鉄道 天橋立駅より徒歩3分。最寄りの天橋立駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「天橋立温泉 和のリゾート 文珠荘」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「天橋立温泉 和のリゾート 文珠荘」は『日本三景天橋立の運河に佇む宿。2023年春サウナ付大浴場誕生。新しい和のリゾートをお楽しみ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「天橋立温泉 和のリゾート 文珠荘」と「天橋立温泉 天橋立ホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       {/* パンくずナビ */}
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
@@ -470,7 +470,7 @@ export default function FeatureArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「天橋立温泉 和のリゾート 文珠荘」は『日本三景天橋立の運河に佇む宿。2023年春サウナ付大浴場誕生。新しい和のリゾートをお楽しみ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「天橋立温泉 和のリゾート 文珠荘」は『日本三景天橋立の運河に佇む宿。2023年春サウナ付大浴場誕生。新しい和のリゾートをお楽しみ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

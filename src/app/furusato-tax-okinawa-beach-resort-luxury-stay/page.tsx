@@ -62,7 +62,7 @@ export default function FurusatoOkinawaBeachResortStayPage() {
           美ら海と白い砂浜が目の前！沖縄本島最高峰ビーチリゾートホテル×ふるさと納税完全攻略ガイド【2026年最新】ハレクラニ・ルネッサンス・ロワジール
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-09">2026年9月9日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -155,7 +155,7 @@ export default function FurusatoOkinawaBeachResortStayPage() {
             <div><strong>楽天評価:</strong> <span className="text-amber-600 font-bold text-base">★ 4.81</span> (717件)</div>
             <div><strong>参考価格:</strong> 1名あたり約36,021円〜</div>
           </div>
-          <p className="text-base text-gray-800 leading-relaxed mb-6">沖縄海岸国定公園の美しい海岸線沿いに佇む、世界屈指のラグジュアリーリゾートホテル。「天国にふさわしい館」を意味するハレクラニの名の通り、全360室が東シナ海を望むオーシャンビュー設計。ホテルのシンボルである約150万枚のモザイクタイルで描かれた「オーキッドプール」をはじめ、静寂の大人専用クワイエットプールなど5つのプールを完備。客室は「セブンシェイズ・オブ・ホワイト（7色の白）」を基調とした洗練の極み。ミシュラン二つ星シェフ監修のイノベーティブフレンチ「SHIROUX（シルー）」やサンセットバーで過ごす時間は、人生最高のバカンスを約束してくれます。</p>
+          <p className="text-base text-gray-800 leading-relaxed mb-6">沖縄海岸国定公園の美しい海岸線沿いに佇む、世界屈指のラグジュアリーリゾートホテル。「天国にふさわしい館」を意味するハレクラニの名の通り、全360室が東シナ海を望むオーシャンビュー設計。ホテルのシンボルである約150万枚のモザイクタイルで描かれた「オーキッドプール」をはじめ、静寂の大人専用クワイエットプールなど5つのプールを完備。客室は「セブンシェイズ・オブ・ホワイト（7色の白）。」を基調とした洗練の極み。ミシュラン二つ星シェフ監修のイノベーティブフレンチ「SHIROUX（シルー）」やサンセットバーで過ごす時間は、人生最高のバカンスを約束してくれます。</p>
           <div className="hotel-special-wrapper">
             <div className="bg-amber-50 border-l-4 border-amber-600 p-4 rounded-r-xl mb-6 text-sm text-amber-950">
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
@@ -164,7 +164,7 @@ export default function FurusatoOkinawaBeachResortStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “サンセットと朝の眺めが最高、清潔感も抜群サンセットビーチvillaに宿泊しました。朝の眺めも日が落ちる瞬間も最高に綺麗でした!お部屋も清潔感があり安心して泊まることができました!クチコミの詳細…　2026-09-05 18:36:27投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “サンセットと朝の眺めが最高、清潔感も抜群サンセットビーチvillaに宿泊しました。朝の眺めも日が落ちる瞬間も最高に綺麗でした!お部屋も清潔感があり安心して泊まることができました!クチコミの詳細… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -206,7 +206,7 @@ export default function FurusatoOkinawaBeachResortStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “リニューアルで綺麗、また泊まりたいホテル自体はリニューアルされててとても綺麗になってました。ただ、朝食の生搾りオレンジジュースを子供が楽しみにしてたので機械になってたのが残念でした。アメニ…　2026-09-04 21:02:20投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “リニューアルで綺麗、また泊まりたいホテル自体はリニューアルされててとても綺麗になってました。ただ、朝食の生搾りオレンジジュースを子供が楽しみにしてたので機械になってたのが残念でした。アメニ… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -248,7 +248,7 @@ export default function FurusatoOkinawaBeachResortStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/16443?reviewId=33123479226105　2026-09-01 17:31:51投稿”
+              <strong>宿泊者の声:</strong> “”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -323,7 +323,7 @@ export default function FurusatoOkinawaBeachResortStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

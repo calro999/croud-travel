@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/cherry-blossom-viewing-private-bath-spring-stay"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D5900%26f_flg%3DPLAN",
     "hotelMinCharge": 10450,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5900/5900.jpg",
-    "userReview": "バイキングがとにかく美味しいです!!クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/5900?reviewId=3312…　2026-09-17 21:18:50投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=5900\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "バイキングがとにかく美味しいです!",
     "reviewAverage": 4.59,
     "reviewCount": 2032,
     "address": "香川県仲多度郡琴平町977-1",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D181693%26f_flg%3DPLAN",
     "hotelMinCharge": 5700,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/181693/181693.jpg",
-    "userReview": "女性専用で安心、清潔で立地も最高!女性専用ドミトリー使用です。女性ドリトミーの部屋はオートロックとなっている大きな部屋の中に、壁と仕切りで小部屋が作られています。鍵付きのコインロッカーもあるの…　2026-08-30 18:59:17投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=181693\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "女性専用で安心、清潔で立地も最高!女性専用ドミトリー使用です。女性ドリトミーの部屋はオートロックとなっている大きな部屋の中に、壁と仕切りで小部屋が作られています。鍵付きのコインロッカーもあるの。",
     "reviewAverage": 3.54,
     "reviewCount": 94,
     "address": "岐阜県下呂市湯之島868-1",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D16280%26f_flg%3DPLAN",
     "hotelMinCharge": 7700,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16280/16280.jpg",
-    "userReview": "広々とした落ち着く部屋と素敵な中庭お部屋がとても広く落ち着く内装で良き古さも感じられリラックスできました中庭も素敵でしたクチコミの詳細はこちらから　https://review.t…　2026-09-11 20:36:48投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=16280\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "広々とした落ち着く部屋と素敵な中庭お部屋がとても広く落ち着く内装で良き古さも感じられリラックスできました中庭も素敵でした。",
     "reviewAverage": 4.55,
     "reviewCount": 129,
     "address": "熊本県人吉市上青井町180",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D16668%26f_flg%3DPLAN",
     "hotelMinCharge": 38280,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16668/16668.jpg",
-    "userReview": "母との旅行で部屋食と露天風呂を満喫脚の悪い母との旅行だったため、朝夕ともに部屋食で、露天風呂付きのお部屋という点に魅力を感じ、こちらにお世話になりました。結果、こちらを選んで大正解でした。…　2026-09-17 17:10:33投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=16668\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "母との旅行で部屋食と露天風呂を満喫脚の悪い母との旅行だったため、朝夕ともに部屋食で、露天風呂付きのお部屋という点に魅力を感じ、こちらにお世話になりました。結果、こちらを選んで大正解でした。",
     "reviewAverage": 4.86,
     "reviewCount": 571,
     "address": "静岡県熱海市東海岸町5-24",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D40046%26f_flg%3DPLAN",
     "hotelMinCharge": 14300,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40046/40046.jpg",
-    "userReview": "重要文化財の佇まいと最高の泉質に感動重要文化財の宿の廊下を歩いてると、外を歩いてる人々がカメラにおさめてました。正面玄関カッちょいーです。なんといってもお風呂!洞窟みたいなお風呂もさること…　2026-09-05 22:04:24投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=40046\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "重要文化財の佇まいと最高の泉質に感動重要文化財の宿の廊下を歩いてると、外を歩いてる人々がカメラにおさめてました。正面玄関カッちょいーです。なんといってもお風呂!洞窟みたいなお風呂もさること。",
     "reviewAverage": 4.42,
     "reviewCount": 278,
     "address": "鳥取県東伯郡三朝町三朝302-1",
@@ -322,9 +322,9 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 琴平駅よりアクセス。全室Wi-Fi無料/ＪＲ琴平駅下車、徒歩約15分（無料送迎有・要予約）。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「こんぴら温泉 琴平グランドホテル 桜の抄」にチェックイン。金刀比羅宮に続く参道まで徒歩1分で参拝に便利な温泉宿。和洋約50種類の朝食バイキング好評。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「こんぴら温泉 琴平グランドホテル 桜の抄」の湯処へ。金刀比羅宮に続く参道まで徒歩1分で参拝に便利な温泉宿。和洋約50種類のとともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「こんぴら温泉 琴平グランドホテル 桜の抄」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「こんぴら温泉 琴平グランドホテル 桜の抄。」にチェックイン。金刀比羅宮に続く参道まで徒歩1分で参拝に便利な温泉宿。和洋約50種類の朝食バイキング好評。などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「こんぴら温泉 琴平グランドホテル 桜の抄。」の湯処へ。金刀比羅宮に続く参道まで徒歩1分で参拝に便利な温泉宿。和洋約50種類のとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「こんぴら温泉 琴平グランドホテル 桜の抄。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -333,9 +333,9 @@ export default function Page() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「こんぴら温泉 琴平グランドホテル 桜の抄」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「こんぴら温泉 琴平グランドホテル 桜の抄」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「桜 Ｒｉｖｅｒ Ｓｉｄｅ Ｓｔａｙ 下呂温泉」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「こんぴら温泉 琴平グランドホテル 桜の抄。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「こんぴら温泉 琴平グランドホテル 桜の抄。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「桜 Ｒｉｖｅｒ Ｓｉｄｅ Ｓｔａｙ 下呂温泉。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -352,20 +352,20 @@ export default function Page() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「こんぴら温泉 琴平グランドホテル 桜の抄」へのアクセスや移動方法について</span>
+                <span>Q. 「こんぴら温泉 琴平グランドホテル 桜の抄。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「こんぴら温泉 琴平グランドホテル 桜の抄」へは、全室Wi-Fi無料/ＪＲ琴平駅下車、徒歩約15分（無料送迎有・要予約）。最寄りの琴平駅からの経路案内も充実しています。
+                A. 「こんぴら温泉 琴平グランドホテル 桜の抄。」へは、全室Wi-Fi無料/ＪＲ琴平駅下車、徒歩約15分（無料送迎有・要予約）。最寄りの琴平駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「こんぴら温泉 琴平グランドホテル 桜の抄」の魅力や予約時のポイントは？</span>
+                <span>Q. 「こんぴら温泉 琴平グランドホテル 桜の抄。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「こんぴら温泉 琴平グランドホテル 桜の抄」は『金刀比羅宮に続く参道まで徒歩1分で参拝に便利な温泉宿。和洋約50種類の朝食バイキング好評。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「こんぴら温泉 琴平グランドホテル 桜の抄。」は『金刀比羅宮に続く参道まで徒歩1分で参拝に便利な温泉宿。和洋約50種類の朝食バイキング好評。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -374,7 +374,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「こんぴら温泉 琴平グランドホテル 桜の抄」と「桜 Ｒｉｖｅｒ Ｓｉｄｅ Ｓｔａｙ 下呂温泉」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「こんぴら温泉 琴平グランドホテル 桜の抄。」と「桜 Ｒｉｖｅｒ Ｓｉｄｅ Ｓｔａｙ 下呂温泉。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

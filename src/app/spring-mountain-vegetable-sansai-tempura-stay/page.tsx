@@ -34,11 +34,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30970/30970map.gif",
     "reviewCount": 941,
     "reviewAverage": 4.43,
-    "userReview": "お風呂が最高で大満足!お風呂が最高でした!クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/30970?reviewI…　2026-09-17 12:58:54投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=30970\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "お風呂が最高で大満足!お風呂が最高でした!",
     "hotelMinCharge": 10000,
     "address1": "北海道",
     "address2": "千歳市幌美内7番地",
-    "telephoneNo": "0123-25-2341",
+    "telephoneNo": "41",
     "access": "ＪＲ千歳駅／新千歳空港より車で５０分、札幌市内、エスコンフィールド、苫小牧港から車で６０分",
     "parkingInformation": "駐車場は50台分ございます。料金は無料です。",
     "nearestStation": "千歳（北海道）",
@@ -59,11 +59,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/39975/39975map.gif",
     "reviewCount": 559,
     "reviewAverage": 4.28,
-    "userReview": "料理と温泉はとってもいいです!料理も美味しいし、温泉も気持ち良かったんですが...玄関に特大のゲジゲジの死体があって...死体だったので清掃で気づかなかったのかなぁ...と。少し残念で…　2026-09-09 17:19:19投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=39975\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "料理と温泉はとってもいいです!料理も美味しいし、温泉も気持ち良かったんですが...玄関に特大のゲジゲジの死体があって...死体だったので清掃で気づかなかったのかなぁ...と。",
     "hotelMinCharge": 17420,
     "address1": "千葉県",
     "address2": "夷隅郡大多喜町粟又5",
-    "telephoneNo": "0470-85-0101",
+    "telephoneNo": "01",
     "access": "小湊鉄道線　養老渓谷駅よりバスで２５分／いすみ鉄道又は小湊鉄道　上総中野駅より車で１０分",
     "parkingInformation": "有り　道路沿い-大型バス兼宿泊者専用駐車場もしくはフロント前にお停め下さいませ。",
     "nearestStation": "養老渓谷",
@@ -84,11 +84,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/73931/73931map.gif",
     "reviewCount": 214,
     "reviewAverage": 4.36,
-    "userReview": "温泉好きにはたまらない、また行きたい場所建物は古いが承知の上だったので不満はなし。食事は派手さはないものの優しい味で好ましい。お湯は最高に良い。設備の古さや虫の多さは否めないので、観光客向きと…　2026-09-11 19:43:52投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=73931\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "食事は派手さはないものの優しい味で好ましい。お湯は最高に良い。設備の古さや虫の多さは否めないので、観光客向きと。",
     "hotelMinCharge": 10650,
     "address1": "新潟県",
     "address2": "妙高市関山6087",
-    "telephoneNo": "0255-82-3136",
+    "telephoneNo": "36",
     "access": "関山駅からバス乗車し20分。妙高高原ICより車で30分(冬季45���)",
     "parkingInformation": "有り　１４台　無料　予約不要",
     "nearestStation": "関山",
@@ -109,11 +109,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/149172/149172map.gif",
     "reviewCount": 341,
     "reviewAverage": 4.47,
-    "userReview": "本来泊まる予定の宿に泊まれなくなり急遽の予約だったので、谷地温泉リサーチ不足でしたがかなり奥地の秘湯温泉でした。同伴者は宿の古さにびっくりしておましたが、お湯は良いとのことでした。この宿の…　2026-09-17 16:33:04投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=149172\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "本来泊まる予定の宿に泊まれなくなり急遽の予約だったので、谷地温泉リサーチ不足でしたがかなり奥地の秘湯温泉でした。同伴者は宿の古さにびっくりしておましたが、お湯は良いとのことでした。この宿の。",
     "hotelMinCharge": 20080,
     "address1": "青森県",
     "address2": "十和田市法量谷地1",
-    "telephoneNo": "0176-74-1181",
+    "telephoneNo": "81",
     "access": "JR青森駅よりJRバス約120分／青森空港から車で60分／無料バス有※要予約（夏季：青森駅-新青森駅／冬季：八戸駅より）",
     "parkingInformation": "有り　６０台　無料　予約不要【マップコード：704 471 581*58】",
     "nearestStation": "青森",
@@ -134,11 +134,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5144/5144map.gif",
     "reviewCount": 275,
     "reviewAverage": 4.48,
-    "userReview": "温泉は最高、玄関の衛生面が少し気になるお風呂(温泉)が温度も適温、硫黄の匂いがあり、温泉に入ってるなぁっと実感できました。猫ちゃんもとっても人懐っこく、保護猫には見えないぐらいでした。ただ…　2026-09-15 12:09:19投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=5144\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "温泉は最高、玄関の衛生面が少し気になるお風呂(温泉)が温度も適温、硫黄の匂いがあり、温泉に入ってるなぁっと実感できました。猫ちゃんもとっても人懐っこく、保護猫には見えないぐらいでした。ただ。",
     "hotelMinCharge": 8360,
     "address1": "栃木県",
     "address2": "那須塩原市湯本塩原101",
-    "telephoneNo": "0287-32-3155",
+    "telephoneNo": "55",
     "access": "JR塩原温泉バスターミナルよりタクシーで１３分。",
     "parkingInformation": "有り　４０台　無料",
     "nearestStation": "上三依塩原",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館」へは、ＪＲ千歳駅／新千歳空港より車で５０分、札幌市内、エスコンフィールド、苫小牧港から車で６０分。最寄りの千歳（北海道）駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館」は『2024,2025年連続アワード受賞宿 2024年リニューアル、国立公園の絶景温泉とサウナ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館」と「養老温泉 秘湯の宿 滝見苑」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館。」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館。」へは、ＪＲ千歳駅／新千歳空港より車で５０分、札幌市内、エスコンフィールド、苫小牧港から車で６０分。最寄りの千歳（北海道）駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館。」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館。」は『2024,2025年連続アワード受賞宿 2024年リニューアル、国立公園の絶景温泉とサウナ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館。」と「養老温泉 秘湯の宿 滝見苑」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -585,9 +585,9 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 千歳（北海道）駅よりアクセス。ＪＲ千歳駅／新千歳空港より車で５０分、札幌市内、エスコンフィールド、苫小牧港から車で６０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館」にチェックイン。2024,2025年連続アワード受賞宿 2024年リニューアル、国立公園の絶景温泉とサウナが自慢などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館」の湯処へ。2024,2025年連続アワード受賞宿 2024年リニューアル、国立公とともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館。」にチェックイン。2024,2025年連続アワード受賞宿 2024年リニューアル、国立公園の絶景温泉とサウナが自慢などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館。」の湯処へ。2024,2025年連続アワード受賞宿 2024年リニューアル、国立公とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -596,8 +596,8 @@ export default function FeatureDetailPage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「養老温泉 秘湯の宿 滝見苑」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
@@ -615,20 +615,20 @@ export default function FeatureDetailPage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館」へのアクセスや移動方法について</span>
+                <span>Q. 「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館」へは、ＪＲ千歳駅／新千歳空港より車で５０分、札幌市内、エスコンフィールド、苫小牧港から車で６０分。最寄りの千歳（北海道）駅からの経路案内も充実しています。
+                A. 「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館。」へは、ＪＲ千歳駅／新千歳空港より車で５０分、札幌市内、エスコンフィールド、苫小牧港から車で６０分。最寄りの千歳（北海道）駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館」の魅力や予約時のポイントは？</span>
+                <span>Q. 「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館」は『2024,2025年連続アワード受賞宿 2024年リニューアル、国立公園の絶景温泉とサウナ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館。」は『2024,2025年連続アワード受賞宿 2024年リニューアル、国立公園の絶景温泉とサウナ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -637,7 +637,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館」と「養老温泉 秘湯の宿 滝見苑」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館。」と「養老温泉 秘湯の宿 滝見苑」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

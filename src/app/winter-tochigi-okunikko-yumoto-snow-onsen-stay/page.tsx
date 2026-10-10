@@ -48,8 +48,8 @@ export default function OkunikkoWinterPage() {
         "headline": "【11・12月奥日光の白銀世界と濃厚にごり湯】日本屈指のエメラルド硫黄泉と日光湯波会席宿5選",
         "description": "11月中旬から雪化粧が始まり、12月には息を呑む白銀の静寂が広がる標高約1500mの奥日光・湯元温泉。日本で4番目に濃いエメラルドグリーンから乳白色へ変わる神秘の硫黄泉露天風呂と、伝統の日光湯波・とちぎ和牛に舌鼓を打つ極上の雪見温泉旅。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
-        "datePublished": "2026-09-27T00:00:00+09:00",
-        "dateModified": "2026-09-27T00:00:00+09:00",
+        "datePublished": "T00:00:00+09:00",
+        "dateModified": "T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

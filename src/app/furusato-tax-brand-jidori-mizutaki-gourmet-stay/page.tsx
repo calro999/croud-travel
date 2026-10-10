@@ -88,7 +88,7 @@ export default function FurusatoTaxPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「縄文のふる里 大湯温泉 ホテル鹿角」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「縄文のふる里 大湯温泉 ホテル鹿角」へは、■十和田湖より車で30分■ＪＲ花輪線十和田南駅から車で１２分■東北道十和田ＩＣから国道１０３号線を十和田湖方面へ１２分。最寄りの十和田南駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「縄文のふる里 大湯温泉 ホテル鹿角」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「縄文のふる里 大湯温泉 ホテル鹿角」は『開湯800年の名湯と四季折々の彩りが添えられた料理を楽しむ。箱根・富士屋ホテルや花巻温泉も』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「縄文のふる里 大湯温泉 ホテル鹿角」と「龍門亭 千葉旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「縄文のふる里 大湯温泉 ホテル鹿角」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「縄文のふる里 大湯温泉 ホテル鹿角」へは、■十和田湖より車で30分■ＪＲ花輪線十和田南駅から車で１２分■東北道十和田ＩＣから国道１０３号線を十和田湖方面へ１２分。最寄りの十和田南駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「縄文のふる里 大湯温泉 ホテル鹿角」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「縄文のふる里 大湯温泉 ホテル鹿角」は『開湯800年の名湯と四季折々の彩りが添えられた料理を楽しむ。箱根・富士屋ホテルや花巻温泉も。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「縄文のふる里 大湯温泉 ホテル鹿角」と「龍門亭 千葉旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* リード文ブロック */}
         <section className="bg-slate-900/80 border border-slate-800 rounded-3xl p-6 md:p-10 shadow-xl relative overflow-hidden">
@@ -564,7 +564,7 @@ export default function FurusatoTaxPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「縄文のふる里 大湯温泉 ホテル鹿角」は『開湯800年の名湯と四季折々の彩りが添えられた料理を楽しむ。箱根・富士屋ホテルや花巻温泉も』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「縄文のふる里 大湯温泉 ホテル鹿角」は『開湯800年の名湯と四季折々の彩りが添えられた料理を楽しむ。箱根・富士屋ホテルや花巻温泉も。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

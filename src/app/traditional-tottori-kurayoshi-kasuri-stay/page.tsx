@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【倉吉絣と鳥取和牛】白壁土蔵群の伝統美と三朝温泉ラジウム名湯宿5選",
     "description": "江戸・明治の風情が残る倉吉白壁土蔵群の伝統織物「倉吉絣」と、品評会日本一に輝いた「鳥取和牛」！世界屈指の高濃度ラジウム温泉として名高い三朝温泉で、免疫力を高める湯治と美食を堪能する極上ステイ。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-    "datePublished": "2026-03-27T00:00:00+09:00",
-    "dateModified": "2026-03-27T00:00:00+09:00",
+    "datePublished": "T00:00:00+09:00",
+    "dateModified": "T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

@@ -49,7 +49,7 @@ export default function FurusatoNightSkyBarLoungeStayPage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「横浜ベイホテル東急」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「横浜ベイホテル東急」へは、みなとみらい線みなとみらい駅徒歩約１分／ＪＲ・市営地下鉄線桜木町駅徒歩１０分。最寄りの桜木町駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「横浜ベイホテル東急」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「横浜ベイホテル東急」は『横浜港を一望できるアーバンリゾートで最上のくつろぎを』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「横浜ベイホテル東急」と「ガーデンテラス長崎ホテル＆リゾート」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「横浜ベイホテル東急」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「横浜ベイホテル東急」へは、みなとみらい線みなとみらい駅徒歩約１分／ＪＲ・市営地下鉄線桜木町駅徒歩１０分。最寄りの桜木町駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「横浜ベイホテル東急」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「横浜ベイホテル東急」は『横浜港を一望できるアーバンリゾートで最上のくつろぎを。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「横浜ベイホテル東急」と「ガーデンテラス長崎ホテル＆リゾート」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -72,7 +72,7 @@ export default function FurusatoNightSkyBarLoungeStayPage() {
             地上数十階から望む宝石の夜景パノラマ＆天空スカイバー・クラブラウンジ名門ホテル×ふるさと納税完全ガイド【2026年最新】横浜・長崎・大阪
           </h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
-            エレベーターで一気に高層階へ昇ると、そこに広がるのは息を呑むほどドラマチックな夜景パノラマ。街の喧騒が静寂へと変わり、眼下に広がる宝石箱のような都市の灯りや港の漁火を眺めながら、バーテンダーが作る極上のカクテルや上質なシャンパンを傾ける――「天空スカイバー＆クラブラウンジ付きホテル」での滞在は、大切な人との記念日やプロポーズ、自分へのご褒美にふさわしい最高峰のロマンチックな体験です。横浜みなとみらいの中心に位置し大観覧車のイルミネーションを目の前に望むバー「ジャックス」やバルコニー付き客室を備える「横浜ベイホテル東急」、稲佐山の中腹に建ち世界新三大夜景に選ばれた長崎の港夜景を一望する全室クラブフロア仕様の「ガーデンテラス長崎ホテル＆リゾート」、そして中之島フェスティバルタワーの最上層に位置し地上200mから大阪の摩天楼を見下ろすラグジュアリーホテル「コンラッド大阪」。特別な夜をさらに輝かせる絶景ホテルを、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して実質自己負担2,000円で賢く予約し、大人の贅沢な夜景ステイへ出かけましょう。
+            エレベーターで一気に高層階へ昇ると、そこに広がるのは息を呑むほどドラマチックな夜景パノラマ。街の喧騒が静寂へと変わり、眼下に広がる宝石箱のような都市の灯りや港の漁火を眺めながら、バーテンダーが作る極上のカクテルや上質なシャンパンを傾ける――「天空スカイバー＆クラブラウンジ付きホテル。」での滞在は、大切な人との記念日やプロポーズ、自分へのご褒美にふさわしい最高峰のロマンチックな体験です。横浜みなとみらいの中心に位置し大観覧車のイルミネーションを目の前に望むバー「ジャックス」やバルコニー付き客室を備える「横浜ベイホテル東急」、稲佐山の中腹に建ち世界新三大夜景に選ばれた長崎の港夜景を一望する全室クラブフロア仕様の「ガーデンテラス長崎ホテル＆リゾート」、そして中之島フェスティバルタワーの最上層に位置し地上200mから大阪の摩天楼を見下ろすラグジュアリーホテル「コンラッド大阪」。特別な夜をさらに輝かせる絶景ホテルを、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して実質自己負担2,000円で賢く予約し、大人の贅沢な夜景ステイへ出かけましょう。
           </p>
           <div className="flex flex-wrap gap-4 pt-4 border-t border-amber-900/50 text-xs text-amber-200/90 font-medium">
             <span>✓ 寄付額の最大30％相当が宿泊クーポンに</span>
@@ -195,7 +195,7 @@ export default function FurusatoNightSkyBarLoungeStayPage() {
                     横浜みなとみらいの中心「クイーンズスクエア横浜」内に位置し、横浜港と大観覧車「コスモクロック21」を目前に望む名門ホテル。みなとみらい地区で唯一バルコニーを擁する客室からは、潮風を感じながら輝く夜景を間近に独占できます。館内には横浜の社交場として歴史を刻むシックなメインバー「ジャックス」や、フレンチの名店「クイーン・アリス」を完備。きらびやかな夜景を眺めながらトップバーテンダーが創るカクテルを味わう、ロマンチックな大人の横浜ステイが叶います。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「また泊まりたい清潔感があり、良いホテルに宿泊出来たと思える実感があります。クチコミの詳細はこちらから 2026-09-05 09:39:09投稿 つづきはこちら…」
+                    「また泊まりたい清潔感があり、良いホテルに宿泊出来たと思える実感があります。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -256,7 +256,7 @@ export default function FurusatoNightSkyBarLoungeStayPage() {
                     世界新三大夜景に選ばれた長崎港のすり鉢状の夜景を一望する稲佐山の中腹に佇む、建築家・隈研吾氏設計によるスタイリッシュなデザイナーズリゾート。全客室が広々としたオーシャン＆夜景ビューのテラス付きで、宿泊者は専用クラブラウンジでシャンパンや長崎銘菓を自由に楽しめます。最上階の天空バーや創作鉄板焼きレストランからは、宝石箱をひっくり返したかのような長崎1000万ドルの夜景が広がり、日常のすべてを忘れさせる非日常の贅沢に包まれます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「ロケーション、部屋からの眺めは最高です。長崎駅からの送迎もあって便利です。唯一残念だったのが部屋の掃除。ベットの隙間に前に宿泊していた方のヘアブラシが落ちてたり、バスタブに水アカが残ってい… 2026-08-18 15:29:54投稿 つづ…」
+                    「ロケーション、部屋からの眺めは最高です。長崎駅からの送迎もあって便利です。ベットの隙間に前に宿泊していた方のヘアブラシが落ちてたり、バスタブに水アカが残ってい… つづ。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -481,7 +481,7 @@ export default function FurusatoNightSkyBarLoungeStayPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「横浜ベイホテル東急」は『横浜港を一望できるアーバンリゾートで最上のくつろぎを』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「横浜ベイホテル東急」は『横浜港を一望できるアーバンリゾートで最上のくつろぎを。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

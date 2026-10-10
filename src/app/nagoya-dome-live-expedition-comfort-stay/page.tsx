@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-11T02:30:00+09:00',
-    dateModified: '2026-09-11T02:30:00+09:00',
+    datePublished: 'T02:30:00+09:00',
+    dateModified: 'T02:30:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/nagoya-dome-live-expedition-comfort-stay',
   };
 
@@ -92,7 +92,7 @@ export default function ArticlePage() {
             5大ドームツアーの重要拠点である「バンテリンドーム ナゴヤ」や、数々の熱いライブが繰り広げられる「Zepp Nagoya」。名古屋への遠征は新幹線のアクセスも良く大人気ですが、最大の課題となるのが「終演後の地下鉄東山線・名城線の大混雑」です。約5万人の観客が一斉に駅へ殺到するため、改札口に入るまでに何十分も待たされることも珍しくありません。
           </p>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
-            だからこそ、名古屋遠征では「名古屋駅周辺（名駅エリア）」または「会場へのアクセスが良く、終演後に荷物をすぐピックアップできるホテル」を抑えるのが鉄則です。新幹線で到着してすぐに荷物を預け、ライブ後は駅近の快適な客室でペンライトやうちわを広げて余韻に浸る。今回は遠征の満足度を最高レベルに引き上げる、名駅・伏見エリアの厳選3宿をご紹介します。
+            だからこそ、名古屋遠征では「名古屋駅周辺（名駅エリア）」または「会場へのアクセスが良く、終演後に荷物をすぐピックアップできるホテル。」を抑えるのが鉄則です。新幹線で到着してすぐに荷物を預け、ライブ後は駅近の快適な客室でペンライトやうちわを広げて余韻に浸る。今回は遠征の満足度を最高レベルに引き上げる、名駅・伏見エリアの厳選3宿をご紹介します。
           </p>
         </section>
 
@@ -161,7 +161,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.62点。「Zeppのライブ参戦で利用しました。ライブ後すぐに部屋に戻れて、窓からの夜景が綺麗すぎて感動しました」「お部屋が広くて綺麗で、遠征の疲れが完全に取れました」とライブ遠征組から絶賛。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.62点。「Zeppのライブ参戦で利用しました。ライブ後すぐに部屋に戻れて、窓からの夜景が綺麗すぎて感動しました。」「お部屋が広くて綺麗で、遠征の疲れが完全に取れました。」とライブ遠征組から絶賛。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -236,7 +236,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.55点。「伝統あるホテルだけあってスタッフの方々の気配りが素晴らしく、安心して泊まれました」「ドーム遠征で利用しましたが、立地も良くとても静かで大満足です」と大好評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.55点。「伝統あるホテルだけあってスタッフの方々の気配りが素晴らしく、安心して泊まれました。」「ドーム遠征で利用しましたが、立地も良くとても静かで大満足です。」と大好評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -311,7 +311,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.07点。「何より駅直結で立地が最強。新幹線ギリギリまで部屋でゆっくりできました」「ライブ遠征の荷物が多くても移動が本当に楽でした」と利便性重視派に大人気。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.07点。「何より駅直結で立地が最強。新幹線ギリギリまで部屋でゆっくりできました。」「ライブ遠征の荷物が多くても移動が本当に楽でした。」と利便性重視派に大人気。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">

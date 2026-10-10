@@ -7,11 +7,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/event-expedition-oshi-live-comfort-stay/" },
   title: '【ライブ・舞台遠征泊】会場徒歩すぐ＆大画面ミラーリング・推し活応援！遠征民のための快適拠点ホテル 厳選3選',
-  description: '東京ドーム、Zepp Shinjuku、ぴあアリーナMM・Kアリーナ横浜などでのライブや観劇・フェス遠征を最高の思い出に！ドーム目の前でうちわも入る限定プランがある「東京ドームホテル」、歌舞伎町タワー直結で大画面スピーカー搭載の「HOTEL GROOVE SHINJUKU」、みなとみらいのライブ会場へ徒歩圏の「横浜東急REIホテル」を徹底特集。',
+  description: '東京ドーム、Zepp Shinjuku、ぴあアリーナMM・Kアリーナ横浜などでのライブや観劇・フェス遠征を最高の思い出に！ドーム目の前でうちわも入る限定プランがある「東京ドームホテル」、歌舞伎町タワー直結で大画面スピーカー搭載の「HOTEL GROOVE SHINJUKU。」、みなとみらいのライブ会場へ徒歩圏の「横浜東急REIホテル」を徹底特集。',
   keywords: '東京ドーム 遠征 ホテル,推し活 ホテル 東京,ライブ遠征 ホテル おすすめ,ぴあアリーナ ホテル,HOTEL GROOVE SHINJUKU 遠征',
   openGraph: {
     title: '【ライブ・舞台遠征泊】会場徒歩すぐ＆大画面ミラーリング・推し活応援！遠征民のための快適拠点ホテル 厳選3選',
-    description: '東京ドーム、Zepp Shinjuku、ぴあアリーナMM・Kアリーナ横浜などでのライブや観劇・フェス遠征を最高の思い出に！ドーム目の前でうちわも入る限定プランがある「東京ドームホテル」、歌舞伎町タワー直結で大画面スピーカー搭載の「HOTEL GROOVE SHINJUKU」、みなとみらいのライブ会場へ徒歩圏の「横浜東急REIホテル」を徹底特集。',
+    description: '東京ドーム、Zepp Shinjuku、ぴあアリーナMM・Kアリーナ横浜などでのライブや観劇・フェス遠征を最高の思い出に！ドーム目の前でうちわも入る限定プランがある「東京ドームホテル」、歌舞伎町タワー直結で大画面スピーカー搭載の「HOTEL GROOVE SHINJUKU。」、みなとみらいのライブ会場へ徒歩圏の「横浜東急REIホテル」を徹底特集。',
     url: 'https://croud-travel.pages.dev/event-expedition-oshi-live-comfort-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -24,7 +24,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【ライブ・舞台遠征泊】会場徒歩すぐ＆大画面ミラーリング・推し活応援！遠征民のための快適拠点ホテル 厳選3選',
-    description: '東京ドーム、Zepp Shinjuku、ぴあアリーナMM・Kアリーナ横浜などでのライブや観劇・フェス遠征を最高の思い出に！ドーム目の前でうちわも入る限定プランがある「東京ドームホテル」、歌舞伎町タワー直結で大画面スピーカー搭載の「HOTEL GROOVE SHINJUKU」、みなとみらいのライブ会場へ徒歩圏の「横浜東急REIホテル」を徹底特集。',
+    description: '東京ドーム、Zepp Shinjuku、ぴあアリーナMM・Kアリーナ横浜などでのライブや観劇・フェス遠征を最高の思い出に！ドーム目の前でうちわも入る限定プランがある「東京ドームホテル」、歌舞伎町タワー直結で大画面スピーカー搭載の「HOTEL GROOVE SHINJUKU。」、みなとみらいのライブ会場へ徒歩圏の「横浜東急REIホテル」を徹底特集。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・ホテル調査班',
@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-11T02:20:00+09:00',
-    dateModified: '2026-09-11T02:20:00+09:00',
+    datePublished: 'T02:20:00+09:00',
+    dateModified: 'T02:20:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/event-expedition-oshi-live-comfort-stay',
   };
 
@@ -78,7 +78,7 @@ export default function ArticlePage() {
           【ライブ・舞台遠征泊】会場徒歩すぐ＆大画面ミラーリング・推し活応援！遠征民のための快適拠点ホテル 厳選3選
         </h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
-          東京ドーム、Zepp Shinjuku、ぴあアリーナMM・Kアリーナ横浜などでのライブや観劇・フェス遠征を最高の思い出に！ドーム目の前でうちわも入る限定プランがある「東京ドームホテル」、歌舞伎町タワー直結で大画面スピーカー搭載の「HOTEL GROOVE SHINJUKU」、みなとみらいのライブ会場へ徒歩圏の「横浜東急REIホテル」を徹底特集。
+          東京ドーム、Zepp Shinjuku、ぴあアリーナMM・Kアリーナ横浜などでのライブや観劇・フェス遠征を最高の思い出に！ドーム目の前でうちわも入る限定プランがある「東京ドームホテル」、歌舞伎町タワー直結で大画面スピーカー搭載の「HOTEL GROOVE SHINJUKU。」、みなとみらいのライブ会場へ徒歩圏の「横浜東急REIホテル」を徹底特集。
         </p>
       </header>
 
@@ -92,7 +92,7 @@ export default function ArticlePage() {
             待ちに待った推しのライブ、大好きな舞台の千秋楽。当落発表から準備を重ねて迎える遠征の日は、人生で最も胸が高鳴る特別な瞬間です。しかし、熱狂のライブが終わった後に待っているのが「地獄の混雑」。何万人もの観客が一斉に最寄り駅へ押し寄せ、入場規制で電車に乗るまでに1時間以上、満員電車に揺られてヘトヘトになってホテルに着く頃には日付が変わっている……そんな経験をした方も多いのではないでしょうか。
           </p>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
-            遠征を120％楽しむための最大の秘訣は、「会場から徒歩圏内、または駅直結のホテルを押さえること」。終演後すぐにホテルへ戻り、グッズを広げて戦利品を並べ、客室の大画面テレビで推しの映像を流しながら仲間やSNSで語り合う。翌朝もチェックアウトまでゆったり過ごせる拠点を確保すれば、遠征は単なる移動から「最高の推し活ホリデー」へと変わります。今回は主要ライブ会場へのアクセスと推し活快適度を極めた3宿をご紹介します。
+            遠征を120％楽しむための最大の秘訣は、「会場から徒歩圏内、または駅直結のホテルを押さえること。」。終演後すぐにホテルへ戻り、グッズを広げて戦利品を並べ、客室の大画面テレビで推しの映像を流しながら仲間やSNSで語り合う。翌朝もチェックアウトまでゆったり過ごせる拠点を確保すれば、遠征は単なる移動から「最高の推し活ホリデー」へと変わります。今回は主要ライブ会場へのアクセスと推し活快適度を極めた3宿をご紹介します。
           </p>
         </section>
 
@@ -161,7 +161,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.54点。「ドーム公演参戦で利用しました。規制退場の後すぐに部屋に戻れてベッドにダイブできる幸せは格別！」「ドームが見える部屋でライブの余韻が冷めず最高でした」と遠征組から圧倒的支持。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.54点。「ドーム公演参戦で利用しました。規制退場の後すぐに部屋に戻れてベッドにダイブできる幸せは格別！」「ドームが見える部屋でライブの余韻が冷めず最高でした。」と遠征組から圧倒的支持。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -236,7 +236,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価3.67点、洗練された設備。「Zeppでのライブ後にすぐ部屋へ戻れて本当に助かった」「テレビにスマホを繋げてYouTubeを大画面で見られるのが最高に推し活向き」とライブファンから大好評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価3.67点、洗練された設備。「Zeppでのライブ後にすぐ部屋へ戻れて本当に助かった。」「テレビにスマホを繋げてYouTubeを大画面で見られるのが最高に推し活向き。」とライブファンから大好評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -311,7 +311,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.40点。「ぴあアリーナのライブ後に歩いてすぐ戻れて、大浴場でお風呂に入れたのが最高でした」「横浜駅からも歩けて綺麗でコスパも抜群」とアリーナ遠征民のリピーター多数。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.40点。「ぴあアリーナのライブ後に歩いてすぐ戻れて、大浴場でお風呂に入れたのが最高でした。」「横浜駅からも歩けて綺麗でコスパも抜群」とアリーナ遠征民のリピーター多数。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">

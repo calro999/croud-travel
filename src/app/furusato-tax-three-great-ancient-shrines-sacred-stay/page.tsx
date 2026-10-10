@@ -23,7 +23,7 @@ export default function Page() {
   const hotels = [
   {
     "hotelNo": 142809,
-    "hotelName": "いにしえの宿　伊久（共立リゾート）（２０２６年４月１日リニューアルオープン）",
+    "hotelName": "いにしえの宿　伊久（共立リゾート）（リニューアルオープン）",
     "hotelKanaName": "いにしえのやど　いきゅう（きょうりつりぞーと）（２０２６ねん４がつ１にちりにゅーあるおーぷん）",
     "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D142809",
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D142809%26f_flg%3DPLAN",
@@ -35,11 +35,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/142809/142809map.gif",
     "reviewCount": 1265,
     "reviewAverage": 4.63,
-    "userReview": "温かい接客と美味しい食事に大満足!接客、サービスがとても素晴らしく、温かい心遣いがとても良かったです。朔日参りと朔日餅を今回初めて経験しようと思い、フロントで色々教えて頂き、当日は無事に全て経…",
+    "userReview": "温かい接客と美味しい食事に大満足!接客、サービスがとても素晴らしく、温かい心遣いがとても良かったです。朔日参りと朔日餅を今回初めて経験しようと思い、フロントで色々教えて頂き、当日は無事に全て経。",
     "hotelMinCharge": 25960,
     "address1": "三重県",
     "address2": "伊勢市宇治館町岩井田山679-2",
-    "telephoneNo": "0596-20-3777",
+    "telephoneNo": "77",
     "access": "近鉄五十鈴川駅より送迎あり※詳しくは【よくある質問】Q.伊久までの送迎はありますか？をご覧ください。",
     "parkingInformation": "無料駐車場　24台",
     "nearestStation": "宇治山田",
@@ -65,11 +65,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/137361/137361map.gif",
     "reviewCount": 521,
     "reviewAverage": 4.66,
-    "userReview": "30年ぶりの再訪、リノベで綺麗になり食事も満足30年前に家族で宿泊し懐かしくなってまた宿泊しました。リノベーションされてとても綺麗になっていました。出雲大社や稲佐の浜にも近く朝ご飯前に参拝できて良…",
+    "userReview": "30年ぶりの再訪、リノベで綺麗になり食事も満足30年前に家族で宿泊し懐かしくなってまた宿泊しました。リノベーションされてとても綺麗になっていました。出雲大社や稲佐の浜にも近く朝ご飯前に参拝できて良。",
     "hotelMinCharge": 18600,
     "address1": "島根県",
     "address2": "出雲市大社町杵築南857",
-    "telephoneNo": "0853-53-3131",
+    "telephoneNo": "31",
     "access": "JR出雲市駅よりお車・バスにて約20分",
     "parkingInformation": "有 20台(無料 / 予約不要)",
     "nearestStation": "出雲市",
@@ -95,11 +95,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14788/14788map.gif",
     "reviewCount": 128,
     "reviewAverage": 4.37,
-    "userReview": "窓からの景色とヒグラシの音色に癒やされる窓から見える外の風景と夕方のヒグラシの鳴き声が非常に良い旅情をかきたてている。ホテルの方達も皆優しく居心地の良いホテル。お風呂もかなり広くリラックスできた。…",
+    "userReview": "窓からの景色とヒグラシの音色に癒やされる窓から見える外の風景と夕方のヒグラシの鳴き声が非常に良い旅情をかきたてている。ホテルの方達も皆優しく居心地の良いホテル。お風呂もかなり広くリラックスできた。",
     "hotelMinCharge": 8700,
     "address1": "奈良県",
     "address2": "桜井市多武峰432",
-    "telephoneNo": "0744-49-0111",
+    "telephoneNo": "11",
     "access": "近鉄JR桜井駅より車で15分（事前予約で送迎応相談）、またはバスで25分→徒歩3分　天理IC、美原JCTより車約45分",
     "parkingInformation": "乗用車は原則無料。一部有料駐車場は当館管轄外ですのでご注意ください。",
     "nearestStation": "桜井（奈良）",
@@ -181,7 +181,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「いにしえの宿 伊久」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「いにしえの宿 伊久」へは、近鉄五十鈴川駅より送迎あり※詳しくは よくある質問 Q.伊久までの送迎はありますか？をご覧ください。最寄りの宇治山田駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「いにしえの宿 伊久」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「いにしえの宿 伊久」は『内宮までゆっくり歩いて15分の全室露天風呂付のお宿』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「いにしえの宿 伊久」と「竹野屋旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「いにしえの宿 伊久」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「いにしえの宿 伊久」へは、近鉄五十鈴川駅より送迎あり※詳しくは よくある質問 Q.伊久までの送迎はありますか？をご覧ください。最寄りの宇治山田駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「いにしえの宿 伊久」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「いにしえの宿 伊久」は『内宮までゆっくり歩いて15分の全室露天風呂付のお宿。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「いにしえの宿 伊久」と「竹野屋旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* リードセクション */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-4">
@@ -510,7 +510,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「いにしえの宿 伊久」は『内宮までゆっくり歩いて15分の全室露天風呂付のお宿』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「いにしえの宿 伊久」は『内宮までゆっくり歩いて15分の全室露天風呂付のお宿。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

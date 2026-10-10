@@ -62,7 +62,7 @@ export default function FurusatoFuranoBieiLuxuryStayPage() {
           紫に染まるラベンダー畑と神秘の青い池！富良野・美瑛の十勝岳連峰一望リゾート＆源泉かけ流し名湯×ふるさと納税完全攻略ガイド【2026年最新】新富良野プリンス・オリカ・白金温泉ゆゆ
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-10">2026年9月10日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -164,7 +164,7 @@ export default function FurusatoFuranoBieiLuxuryStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “期待外れな点もあったけど...もろもろ満足5階の部屋に3泊しました。高台にあるので眺めを期待していたのですが、木々とうっすら山が見える程度。少し残念でした。洗面台コーナーが狭いので仕方がないのです…　2026-09-05 15:11:21投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “期待外れな点もあったけど...もろもろ満足5階の部屋に3泊しました。高台にあるので眺めを期待していたのですが、木々とうっすら山が見える程度。少し残念でした。洗面台コーナーが狭いので仕方がないのです… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -248,7 +248,7 @@ export default function FurusatoFuranoBieiLuxuryStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “白髭の滝と濁り湯は最高、デザートは残念ホテルからすぐのとこに歩いて白髭の滝が見れます!旬の食材のバイキングが楽しめて良かったです!デザートの盛り付けがオシャレでどれも美味しいそうで、最後に…　2026-08-24 12:49:24投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “白髭の滝と濁り湯は最高、デザートは残念ホテルからすぐのとこに歩いて白髭の滝が見れます!旬の食材のバイキングが楽しめて良かったです!デザートの盛り付けがオシャレでどれも美味しいそうで、最後に… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -323,7 +323,7 @@ export default function FurusatoFuranoBieiLuxuryStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

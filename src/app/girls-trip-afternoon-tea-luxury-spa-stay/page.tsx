@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/girls-trip-afternoon-tea-luxury-spa-stay"
   };
 
@@ -83,15 +83,15 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/182630/182630map.gif",
     "reviewCount": 895,
     "reviewAverage": 4.47,
-    "userReview": "ビーチとバイキングは最高、説明は簡潔にバイキングスタイルのレストランも、最寄りビーチも大変良かったです。ただ余りに色々と多岐多彩に充実している為、チェックインの際の説明情報が過剰になっている。もう…　2026-09-19 15:58:48投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=182630\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "ビーチとバイキングは最高、説明は簡潔にバイキングスタイルのレストランも、最寄りビーチも大変良かったです。ただ余りに色々と多岐多彩に充実している為、チェックインの際の説明情報が過剰になっている。もう。",
     "hotelMinCharge": 14050,
     "address1": "沖縄県",
     "address2": "名護市喜瀬1490-1",
-    "telephoneNo": "0980-51-1000",
+    "telephoneNo": "00",
     "access": "那覇空港より最短で約70分。沖縄美ら海水族館まで60分、ジャングリア沖縄まで40分と沖縄観光に最適なホテルです。",
     "parkingInformation": "有　1滞在1,000円",
     "nearestStation": "那覇空港",
-    "hotelSpecial": "2024年4月23日客室リニューアル。世界自然遺産「やんばる」を体験する旅の拠点にふさわしいホテルへ",
+    "hotelSpecial": "客室リニューアル。世界自然遺産「やんばる」を体験する旅の拠点にふさわしいホテルへ",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182630%2F182630.html"
   },
   {
@@ -108,7 +108,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/141596/141596map.gif",
     "reviewCount": 840,
     "reviewAverage": 4.64,
-    "userReview": "清潔感のある部屋と親切なスタッフの対応キレイなお部屋  スタッフの方も親切でした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel…　2026-09-15 20:23:52投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=141596\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "清潔感のある部屋と親切なスタッフの対応キレイなお部屋 スタッフの方も親切でした。",
     "hotelMinCharge": 18500,
     "address1": "沖縄県",
     "address2": "国頭郡恩納村字冨着1550-1",
@@ -133,11 +133,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/153269/153269map.gif",
     "reviewCount": 1627,
     "reviewAverage": 4.37,
-    "userReview": "プールとバイキングを満喫、都内から近く便利富士見亭に宿泊しました。子供はプールに大はしゃぎでした。プールは年季が入っていますが清潔感がありました。バイキングのお刺身は美味しく、お料理にも満…　2026-09-16 17:28:52投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=153269\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "プールとバイキングを満喫、都内から近く便利富士見亭に宿泊しました。子供はプールに大はしゃぎでした。プールは年季が入っていますが清潔感がありました。バイキングのお刺身は美味しく、お料理にも満。",
     "hotelMinCharge": 22572,
     "address1": "千葉県",
     "address2": "木更津市北浜町1",
-    "telephoneNo": "0438-41-8111",
+    "telephoneNo": "11",
     "access": "アクアライン木更津金田ＩＣ下車約５分　ＪＲ木更津駅　高速金田バスターミナル　より無料送迎バス",
     "parkingInformation": "宿泊:無料　日帰りスパ：5時間まで無料、以降300円/h　※税込み",
     "nearestStation": "木更津",

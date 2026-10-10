@@ -34,11 +34,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4890/4890map.gif",
     "reviewCount": 241,
     "reviewAverage": 4.45,
-    "userReview": "部屋は普通だが温泉と食事には満足部屋は普通でした。温泉は前日泊がよかったので、普通ですが満足でした。食事は良かったと思います。クチコミの詳細はこちらから　https://review.…　2026-09-05 13:42:46投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=4890\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "部屋は普通だが温泉と食事には満足部屋は普通でした。温泉は前日泊がよかったので、普通ですが満足でした。食事は良かったと思います。",
     "hotelMinCharge": 9300,
     "address1": "山形県",
     "address2": "米沢市小野川温泉2493",
-    "telephoneNo": "0238-32-2611",
+    "telephoneNo": "11",
     "access": "山形新幹線 米沢駅より路線バスで26分。東北自動車道 飯坂ICより60分　小野川温泉の中心に位置する宿です。",
     "parkingInformation": "■玄関前無料駐車場あり。（30台分）10名様以上の場合、米沢市内の送迎サービス【全館Wi-Fi完備】",
     "nearestStation": "米沢",
@@ -59,11 +59,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/53064/53064map.gif",
     "reviewCount": 274,
     "reviewAverage": 4.06,
-    "userReview": "米沢牛の夕食がとても美味しかった米沢牛付きの夕食がおいしかったですクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/5…　2026-09-05 18:03:19投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=53064\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "米沢牛の夕食がとても美味しかった米沢牛付きの夕食がおいしかったです。",
     "hotelMinCharge": 12600,
     "address1": "山形県",
     "address2": "南陽市赤湯1003",
-    "telephoneNo": "0238-43-3070",
+    "telephoneNo": "70",
     "access": "山形新幹線　赤湯駅より車で７分",
     "parkingInformation": "有り　３０台　無料　予約不要",
     "nearestStation": "赤湯",
@@ -88,7 +88,7 @@ const hotels: any[] = [
     "hotelMinCharge": 6600,
     "address1": "山形県",
     "address2": "米沢市小野川町2486",
-    "telephoneNo": "0238-32-2211",
+    "telephoneNo": "11",
     "access": "ＪＲ米沢駅よりバスで30分／福島飯坂ＩＣ⇒Ｒ13号、Ｒ121号⇒小野川温泉／会津若松ＩＣ⇒Ｒ121号⇒小野川温泉へ",
     "parkingInformation": "有り　３０台　無料　先着順",
     "nearestStation": "米沢",
@@ -109,11 +109,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/27908/27908map.gif",
     "reviewCount": 154,
     "reviewAverage": 4.4,
-    "userReview": "食事が最高、食べ応え十分朝晩ともにお食事が良かったです。地元のものもあり、お肉もあり、食べ応えバッチリです。4人での食事ですが個室で、気兼ねなくのんびり食べることができました。部屋…　2026-09-10 11:56:08投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=27908\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "食事が最高、食べ応え十分朝晩ともにお食事が良かったです。地元のものもあり、お肉もあり、食べ応えバッチリです。4人での食事ですが個室で、気兼ねなくのんびり食べることができました。部屋。",
     "hotelMinCharge": 11000,
     "address1": "山形県",
     "address2": "米沢市小野川町2432",
-    "telephoneNo": "0238-32-2522",
+    "telephoneNo": "22",
     "access": "ＪＲ米沢駅より白布温泉行バスで３０分（小野川温泉降車）　東北中央自動車道米沢中央ICより車で２０分",
     "parkingInformation": "道路向いに当館専用駐車場有り　6台無料先着順　（なるべく左右に寄せて縦列駐車）",
     "nearestStation": "米沢",
@@ -134,11 +134,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/146112/146112map.gif",
     "reviewCount": 142,
     "reviewAverage": 4.62,
-    "userReview": "食事は全て絶品、お湯も滑らかで最高食事が全て素晴らしい。お湯も滑らかで気持ちいい。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel…　2026-09-11 18:09:48投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=146112\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "食事は全て絶品、お湯も滑らかで最高食事が全て素晴らしい。お湯も滑らかで気持ちいい。",
     "hotelMinCharge": 9900,
     "address1": "山形県",
     "address2": "米沢市関1537",
-    "telephoneNo": "0238-55-2011",
+    "telephoneNo": "11",
     "access": "ＪＲ米沢駅より「白布天元台行」路線バスにて約50分　　送迎バス：ＪＲ米沢駅発　14:30　旅館発　10:00　要予約",
     "parkingInformation": "有り　３０台　無料　予約不要",
     "nearestStation": "米沢",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「小野川温泉 鈴の宿 登府屋旅館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「小野川温泉 鈴の宿 登府屋旅館」へは、山形新幹線 米沢駅より路線バスで26分。最寄りの米沢駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「小野川温泉 鈴の宿 登府屋旅館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「小野川温泉 鈴の宿 登府屋旅館」は『■ご家族で”親孝行たび”をお考えの方へ♪バリアフリーで車イスもラクラク安心♪掛け流し温泉&amp;』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「小野川温泉 鈴の宿 登府屋旅館」と「赤湯温泉 旅館 大文字屋」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「小野川温泉 鈴の宿 登府屋旅館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「小野川温泉 鈴の宿 登府屋旅館」へは、山形新幹線 米沢駅より路線バスで26分。最寄りの米沢駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「小野川温泉 鈴の宿 登府屋旅館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「小野川温泉 鈴の宿 登府屋旅館」は『■ご家族で”親孝行たび”をお考えの方へ♪バリアフリーで車イスもラクラク安心♪掛け流し温泉&amp;。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「小野川温泉 鈴の宿 登府屋旅館」と「赤湯温泉 旅館 大文字屋」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -628,7 +628,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「小野川温泉 鈴の宿 登府屋旅館」は『■ご家族で”親孝行たび”をお考えの方へ♪バリアフリーで車イスもラクラク安心♪掛け流し温泉&amp;』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「小野川温泉 鈴の宿 登府屋旅館」は『■ご家族で”親孝行たび”をお考えの方へ♪バリアフリーで車イスもラクラク安心♪掛け流し温泉&amp;。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

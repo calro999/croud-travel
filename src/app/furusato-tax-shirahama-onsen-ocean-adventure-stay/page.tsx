@@ -39,8 +39,8 @@ export default function FurusatoArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-10T17:25:00+09:00',
-    dateModified: '2026-09-10T17:25:00+09:00',
+    datePublished: 'T17:25:00+09:00',
+    dateModified: 'T17:25:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-shirahama-onsen-ocean-adventure-stay',
   };
 
@@ -49,7 +49,7 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「白浜温泉 ホテル川久」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「白浜温泉 ホテル川久」へは、JR白浜駅から車で約10分※無料送迎バス運行／南紀白浜空港から車で約10分／大阪から車で阪和道南紀田辺IC経由で約2時間。最寄りの白浜駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「白浜温泉 ホテル川久」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「白浜温泉 ホテル川久」は『紀州の食材をふんだんに使った 王様のビュッフェ 開宴！オーシャンビュースイートの宮殿リゾー』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「白浜温泉 ホテル川久」と「紀州・白浜温泉 むさし」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「白浜温泉 ホテル川久」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「白浜温泉 ホテル川久」へは、JR白浜駅から車で約10分※無料送迎バス運行／南紀白浜空港から車で約10分／大阪から車で阪和道南紀田辺IC経由で約2時間。最寄りの白浜駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「白浜温泉 ホテル川久」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「白浜温泉 ホテル川久」は『紀州の食材をふんだんに使った 王様のビュッフェ 開宴！オーシャンビュースイートの宮殿リゾー。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「白浜温泉 ホテル川久」と「紀州・白浜温泉 むさし」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -203,7 +203,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.60点、口コミ3400件超。「王様のビュッフェが圧巻のクオリティで建物もまさに宮殿」「お部屋が広すぎて別世界、一生の思い出になった」と大絶賛。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.60点、口コミ3400件超。「王様のビュッフェが圧巻のクオリティで建物もまさに宮殿。」「お部屋が広すぎて別世界、一生の思い出になった。」と大絶賛。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -287,7 +287,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.33点、口コミ5200件超。「白良浜が目の前で海遊びに最高」「お風呂のお湯が良く、バイキングも種類豊富で美味しかった」とファミリーに大人気。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.33点、口コミ5200件超。「白良浜が目の前で海遊びに最高」「お風呂のお湯が良く、バイキングも種類豊富で美味しかった。」とファミリーに大人気。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.45点、口コミ3100件超。「部屋とお風呂からの白良浜の眺めが最高」「お料理のクエがとても美味しく、接客も丁寧で大満足」と高評価。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.45点、口コミ3100件超。「部屋とお風呂からの白良浜の眺めが最高」「お料理のクエがとても美味しく、接客も丁寧で大満足。」と高評価。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -578,7 +578,7 @@ export default function FurusatoArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「白浜温泉 ホテル川久」は『紀州の食材をふんだんに使った 王様のビュッフェ 開宴！オーシャンビュースイートの宮殿リゾー』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「白浜温泉 ホテル川久」は『紀州の食材をふんだんに使った 王様のビュッフェ 開宴！オーシャンビュースイートの宮殿リゾー。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

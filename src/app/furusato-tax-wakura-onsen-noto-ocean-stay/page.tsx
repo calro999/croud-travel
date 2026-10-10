@@ -39,8 +39,8 @@ export default function FurusatoArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-10T17:00:00+09:00',
-    dateModified: '2026-09-10T17:00:00+09:00',
+    datePublished: 'T17:00:00+09:00',
+    dateModified: 'T17:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-wakura-onsen-noto-ocean-stay',
   };
 
@@ -49,7 +49,7 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「和倉温泉 日本の宿 のと楽」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「和倉温泉 日本の宿 のと楽」へは、ＪＲ 和倉温泉駅より車で５分／能越道和倉ＩＣより車で約７分。最寄りの和倉温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「和倉温泉 日本の宿 のと楽」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「和倉温泉 日本の宿 のと楽」は『波静かな七尾湾を望む露天風呂で檜の香りを満喫。海の見えるお部屋で能登の旬をごゆっくりご堪能』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「和倉温泉 日本の宿 のと楽」と「和倉温泉 ゆけむりの宿美湾荘」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「和倉温泉 日本の宿 のと楽」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「和倉温泉 日本の宿 のと楽」へは、ＪＲ 和倉温泉駅より車で５分／能越道和倉ＩＣより車で約７分。最寄りの和倉温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「和倉温泉 日本の宿 のと楽」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「和倉温泉 日本の宿 のと楽」は『波静かな七尾湾を望む露天風呂で檜の香りを満喫。海の見えるお部屋で能登の旬をごゆっくりご堪能。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「和倉温泉 日本の宿 のと楽」と「和倉温泉 ゆけむりの宿美湾荘」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -203,7 +203,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.33点、口コミ1500件超。「露天風呂からの七尾湾の景色が最高」「お料理がボリュームたっぷりで能登牛も魚もとても美味しかった」と好評です。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.33点、口コミ1500件超。「露天風呂からの七尾湾の景色が最高」「お料理がボリュームたっぷりで能登牛も魚もとても美味しかった。」と好評です。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -287,7 +287,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.40点、口コミ1800件超。「部屋からもお風呂からも海が目の前に見えて感動」「スタッフの温かいおもてなしと美味しいご飯に癒やされた」とリピーター多数。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.40点、口コミ1800件超。「部屋からもお風呂からも海が目の前に見えて感動。」「スタッフの温かいおもてなしと美味しいご飯に癒やされた。」とリピーター多数。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.25点。「総湯がすぐ隣でとても便利だった」「接客がとても親切でお料理も家庭的で美味しかった」と温かい口コミが寄せられています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.25点。「総湯がすぐ隣でとても便利だった」「接客がとても親切でお料理も家庭的で美味しかった。」と温かい口コミが寄せられています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -578,7 +578,7 @@ export default function FurusatoArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「和倉温泉 日本の宿 のと楽」は『波静かな七尾湾を望む露天風呂で檜の香りを満喫。海の見えるお部屋で能登の旬をごゆっくりご堪能』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「和倉温泉 日本の宿 のと楽」は『波静かな七尾湾を望む露天風呂で檜の香りを満喫。海の見えるお部屋で能登の旬をごゆっくりご堪能。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

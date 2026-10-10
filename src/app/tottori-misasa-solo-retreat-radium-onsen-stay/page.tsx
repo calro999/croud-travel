@@ -37,8 +37,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-16T00:00:00+09:00',
-    dateModified: '2026-09-16T00:00:00+09:00',
+    datePublished: 'T00:00:00+09:00',
+    dateModified: 'T00:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/tottori-misasa-solo-retreat-radium-onsen-stay',
   };
 
@@ -79,12 +79,12 @@ export default function ArticlePage() {
             【三朝温泉ひとり旅・世界屈指ラジウム泉おこもり】三徳山投入堂・回遊式大庭園露天風呂・鳥取和牛！三日目の朝に病が消える現代湯治厳選3宿
           </h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
-            更新日：2026年9月16日 | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
+            更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
             <p className="font-bold text-amber-950 text-base sm:text-lg">
-              「三朝の湯に浸かり、吸い、飲むことで三日目の朝には病が消える」。三朝川のせせらぎと湯煙に包まれ、新陳代謝を促すホルミシス効果に心身が目覚める究極のソロ湯治
+              「三朝の湯に浸かり、吸い、飲むことで三日目の朝には病が消える。」。三朝川のせせらぎと湯煙に包まれ、新陳代謝を促すホルミシス効果に心身が目覚める究極のソロ湯治
             </p>
             <p>
               平安末期、源義朝の家臣・大久保左馬之祐が白狼を助けた恩返しに発見されたと伝わる鳥取県・三朝（みささ）温泉。高濃度のラドンを含む放射能泉は世界屈指の品質を誇り、浸かるだけでなく湯気吸入や飲泉によって身体の免疫力・自然治癒力を高める現代湯治リトリートとして絶大な支持を集めています。

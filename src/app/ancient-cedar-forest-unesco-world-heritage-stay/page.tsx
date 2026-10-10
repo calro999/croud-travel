@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/ancient-cedar-forest-unesco-world-heritage-stay"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D68262%26f_flg%3DPLAN",
     "hotelMinCharge": 15466,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68262/68262.jpg",
-    "userReview": "縁側で癒やされたが、離れの部屋はジメジメ秋雨前線の影響で雨続きでしたが、幸い宿泊中は、天気に恵まれどろ川温泉を楽しむことが出来ました。お宿の方はとても良い方達ばかりで、ゆっくり滞在出来まし…　2026-09-15 13:05:22投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=68262\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "縁側で癒やされたが、離れの部屋はジメジメ秋雨前線の影響で雨続きでしたが、幸い宿泊中は、天気に恵まれどろ川温泉を楽しむことが出来ました。お宿の方はとても良い方達ばかりで、ゆっくり滞在出来まし。",
     "reviewAverage": 4.13,
     "reviewCount": 133,
     "address": "奈良県吉野郡天川村洞川189",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D129554%26f_flg%3DPLAN",
     "hotelMinCharge": 10890,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/129554/129554.jpg",
-    "userReview": "趣のある空間と温泉、丁寧な接客に大満足趣があり、立地も最高、お風呂も本当によかったです。仲居さんたちもフランクでありながらも丁寧でした。また伺いたいと思います。クチコミの詳細はこちらか…　2026-09-15 17:48:51投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=129554\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "趣のある空間と温泉、丁寧な接客に大満足趣があり、立地も最高、お風呂も本当によかったです。仲居さんたちもフランクでありながらも丁寧でした。また伺いたいと思います。",
     "reviewAverage": 4.48,
     "reviewCount": 152,
     "address": "和歌山県田辺市本宮町湯峰122",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D144560%26f_flg%3DPLAN",
     "hotelMinCharge": 3040,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/144560/144560.jpg",
-    "userReview": "白良浜に近く朝食も最高、来年もまた行きたいここ数年、夏に利用させて頂いてます。白良浜からも近く海から出ても直ぐですし、ハマギンザへも歩いて直ぐ。部屋も広くてキレイ。スタッフの方々の接客も気持ちが良…　2026-09-19 22:52:00投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=144560\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "白良浜に近く朝食も最高、来年もまた行きたいここ数年、夏に利用させて頂いてます。白良浜からも近く海から出ても直ぐですし、ハマギンザへも歩いて直ぐ。部屋も広くてキレイ。スタッフの方々の接客も気持ちが良。",
     "reviewAverage": 4.16,
     "reviewCount": 339,
     "address": "和歌山県西牟婁郡白浜町2411-1",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D9133%26f_flg%3DPLAN",
     "hotelMinCharge": 6050,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9133/9133.jpg",
-    "userReview": "料理と温泉は最高だが館内の匂いが気になるゆっくり過ごさせていただきましたお料理は地元の食材をふんだんに利用した素敵な内容でした温泉も良いお湯でした残念だったのは脱衣所や廊下等での匂いが…　2026-09-16 18:59:51投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=9133\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "落ち着いた心地よい空間の中、温かい温泉とおいしいお料理で日頃の疲れを癒やすことができました。",
     "reviewAverage": 4.5,
     "reviewCount": 1328,
     "address": "和歌山県西牟婁郡白浜町1870",

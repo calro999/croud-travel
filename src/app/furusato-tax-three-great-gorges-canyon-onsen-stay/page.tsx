@@ -413,7 +413,7 @@ export default function FurusatoFeaturePage() {
                     黒部・宇奈月温泉　やまのは（オリックスホテルズ＆リゾーツ）
                   </h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
-                    おかげさまで連続受賞！「楽天トラベル 日本の宿アワード2025 TOP47」♪
+                    おかげさまで連続受賞！「楽天トラベル 日本の宿アワード2025 TOP47。」♪
                   </p>
                   
                   <div className="mt-auto pt-4 border-t border-stone-800/80 flex items-center justify-between">

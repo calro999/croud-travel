@@ -44,7 +44,7 @@ export default function Page() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「民宿 神楽の館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「民宿 神楽の館」へは、たかちほ号 「高千穂バスセンター」下車後、ふれあいバス 岩戸線 乗車「天岩戸温泉入り口バス停」下車 より徒歩にて約５分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「民宿 神楽の館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「民宿 神楽の館」は『高千穂牛を味わえる宿。戸を開けると、そこには神楽が舞う神秘な場所。天岩戸神社まで車で１０分』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「民宿 神楽の館」と「～あなご料理専門店～ 民宿 青島」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「民宿 神楽の館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「民宿 神楽の館」へは、たかちほ号 「高千穂バスセンター」下車後、ふれあいバス 岩戸線 乗車「天岩戸温泉入り口バス停」下車 より徒歩にて約５分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「民宿 神楽の館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「民宿 神楽の館」は『高千穂牛を味わえる宿。戸を開けると、そこには神楽が舞う神秘な場所。天岩戸神社まで車で１０分。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「民宿 神楽の館」と「～あなご料理専門店～ 民宿 青島」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         {/* パンくずリスト */}
@@ -63,7 +63,7 @@ export default function Page() {
             【舌鼓を打つ美食旅】高千穂牛・あなご・伊勢海老！ご当地グルメ宿をふるさと納税で堪能する旅
           </h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl mb-6">
-            「旅先での一番の楽しみは、その土地ならではの美味しい料理」。そんな食通トラベラーにこそ強くおすすめしたいのが、地方の食材や郷土の味を極めた料理自慢の宿へのふるさと納税ステイです。楽天ふるさと納税で自治体に寄付し、返礼品として手に入れたトラベルクーポンを使えば、地元でしか出回らない希少なブランド牛や、港町で揚がったばかりの天然あなご、獲れたての伊勢海老・鮑を贅沢に使った特別会席が実質負担を抑えて楽しめます。自治体の生産者や料理人の情熱が詰まったごちそうを宿で心ゆくまで味わい、そのまま温かいお風呂に入って眠りにつく――これ以上ない贅沢な美食の旅をご紹介します。
+            「旅先での一番の楽しみは、その土地ならではの美味しい料理。」。そんな食通トラベラーにこそ強くおすすめしたいのが、地方の食材や郷土の味を極めた料理自慢の宿へのふるさと納税ステイです。楽天ふるさと納税で自治体に寄付し、返礼品として手に入れたトラベルクーポンを使えば、地元でしか出回らない希少なブランド牛や、港町で揚がったばかりの天然あなご、獲れたての伊勢海老・鮑を贅沢に使った特別会席が実質負担を抑えて楽しめます。自治体の生産者や料理人の情熱が詰まったごちそうを宿で心ゆくまで味わい、そのまま温かいお風呂に入って眠りにつく――これ以上ない贅沢な美食の旅をご紹介します。
           </p>
           <div className="flex flex-wrap gap-4 pt-4 border-t border-amber-900/50 text-xs text-amber-200/90 font-medium">
             <span>✓ 寄付額の最大30％相当を宿泊クーポン還元</span>
@@ -594,7 +594,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「民宿 神楽の館」は『高千穂牛を味わえる宿。戸を開けると、そこには神楽が舞う神秘な場所。天岩戸神社まで車で１０分』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「民宿 神楽の館」は『高千穂牛を味わえる宿。戸を開けると、そこには神楽が舞う神秘な場所。天岩戸神社まで車で１０分。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -4,14 +4,14 @@ import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: '都心から70分！湯河原温泉・万葉公園の紅葉散策＆文豪が愛した名湯旅館×ふるさと納税完全ガイド【2026年最新秋旅】神奈川',
-  description: '11月中旬〜12月上旬に見頃を迎える神奈川・湯河原温泉の紅葉！リニューアルした万葉公園「湯河原惣湯 Books and Retreat」のせせらぎ散策、夏目漱石や島崎藤村が逗留した老舗旅館「伊藤屋」「富士屋旅館」「ふきや」で弱食塩泉の極上美肌湯と相模湾の朝獲れ地魚会席を堪能。楽天ふるさと納税で実質2,000円。',
+  description: '11月中旬〜12月上旬に見頃を迎える神奈川・湯河原温泉の紅葉！リニューアルした万葉公園「湯河原惣湯 Books and Retreat。」のせせらぎ散策、夏目漱石や島崎藤村が逗留した老舗旅館「伊藤屋」「富士屋旅館」「ふきや」で弱食塩泉の極上美肌湯と相模湾の朝獲れ地魚会席を堪能。楽天ふるさと納税で実質2,000円。',
   keywords: ["都心から70分！湯河原温泉", "万葉公園の紅葉散策", "2026年最新秋旅", "神奈川", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-yugawara-autumn-leaves-stay/"
   },
   openGraph: {
     title: '都心から70分！湯河原温泉・万葉公園の紅葉散策＆文豪が愛した名湯旅館×ふるさと納税完全ガイド【2026年最新秋旅】神奈川',
-    description: '11月中旬〜12月上旬に見頃を迎える神奈川・湯河原温泉の紅葉！リニューアルした万葉公園「湯河原惣湯 Books and Retreat」のせせらぎ散策、夏目漱石や島崎藤村が逗留した老舗旅館「伊藤屋」「富士屋旅館」「ふきや」で弱食塩泉の極上美肌湯と相模湾の朝獲れ地魚会席を堪能。楽天ふるさと納税で実質2,000円。',
+    description: '11月中旬〜12月上旬に見頃を迎える神奈川・湯河原温泉の紅葉！リニューアルした万葉公園「湯河原惣湯 Books and Retreat。」のせせらぎ散策、夏目漱石や島崎藤村が逗留した老舗旅館「伊藤屋」「富士屋旅館」「ふきや」で弱食塩泉の極上美肌湯と相模湾の朝獲れ地魚会席を堪能。楽天ふるさと納税で実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-yugawara-autumn-leaves-stay',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
@@ -25,7 +25,7 @@ export default function FeatureArticlePage() {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "都心から70分！湯河原温泉・万葉公園の紅葉散策＆文豪が愛した名湯旅館×ふるさと納税完全ガイド【2026年最新秋旅】神奈川",
-    "description": "11月中旬〜12月上旬に見頃を迎える神奈川・湯河原温泉の紅葉！リニューアルした万葉公園「湯河原惣湯 Books and Retreat」のせせらぎ散策、夏目漱石や島崎藤村が逗留した老舗旅館「伊藤屋」「富士屋旅館」「ふきや」で弱食塩泉の極上美肌湯と相模湾の朝獲れ地魚会席を堪能。楽天ふるさと納税で実質2,000円。",
+    "description": "11月中旬〜12月上旬に見頃を迎える神奈川・湯河原温泉の紅葉！リニューアルした万葉公園「湯河原惣湯 Books and Retreat。」のせせらぎ散策、夏目漱石や島崎藤村が逗留した老舗旅館「伊藤屋」「富士屋旅館」「ふきや」で弱食塩泉の極上美肌湯と相模湾の朝獲れ地魚会席を堪能。楽天ふるさと納税で実質2,000円。",
     "url": "https://croud-travel.pages.dev/furusato-tax-yugawara-autumn-leaves-stay/",
     "publisher": {
       "@type": "Organization",
@@ -46,7 +46,7 @@ export default function FeatureArticlePage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「湯河原温泉 島崎藤村ゆかりの宿 伊藤屋」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「湯河原温泉 島崎藤村ゆかりの宿 伊藤屋」へは、ＪＲ東海道線「湯河原駅」より「温泉場・奥湯河原方面行」バスにて約１3分公園入口下車／小田原厚木道路石橋ＩＣより２５分。最寄りの湯河原駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「湯河原温泉 島崎藤村ゆかりの宿 伊藤屋」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「湯河原温泉 島崎藤村ゆかりの宿 伊藤屋」は『貸切風呂は無料・予約不要。万葉公園入口2分、美術館5分で散策便利。門柱・石垣と本館一部は登』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「湯河原温泉 島崎藤村ゆかりの宿 伊藤屋」と「富士屋旅館 湯河原」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「湯河原温泉 島崎藤村ゆかりの宿 伊藤屋」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「湯河原温泉 島崎藤村ゆかりの宿 伊藤屋」へは、ＪＲ東海道線「湯河原駅」より「温泉場・奥湯河原方面行」バスにて約１3分公園入口下車／小田原厚木道路石橋ＩＣより２５分。最寄りの湯河原駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「湯河原温泉 島崎藤村ゆかりの宿 伊藤屋」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「湯河原温泉 島崎藤村ゆかりの宿 伊藤屋」は『貸切風呂は無料・予約不要。万葉公園入口2分、美術館5分で散策便利。門柱・石垣と本館一部は登。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「湯河原温泉 島崎藤村ゆかりの宿 伊藤屋」と「富士屋旅館 湯河原」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       {/* パンくずナビ */}
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
@@ -68,7 +68,7 @@ export default function FeatureArticlePage() {
               都心から70分！湯河原温泉・万葉公園の紅葉散策＆文豪が愛した名湯旅館×ふるさと納税完全ガイド【2026年最新秋旅】神奈川
             </h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
-              11月中旬〜12月上旬に見頃を迎える神奈川・湯河原温泉の紅葉！リニューアルした万葉公園「湯河原惣湯 Books and Retreat」のせせらぎ散策、夏目漱石や島崎藤村が逗留した老舗旅館「伊藤屋」「富士屋旅館」「ふきや」で弱食塩泉の極上美肌湯と相模湾の朝獲れ地魚会席を堪能。楽天ふるさと納税で実質2,000円。
+              11月中旬〜12月上旬に見頃を迎える神奈川・湯河原温泉の紅葉！リニューアルした万葉公園「湯河原惣湯 Books and Retreat。」のせせらぎ散策、夏目漱石や島崎藤村が逗留した老舗旅館「伊藤屋」「富士屋旅館」「ふきや」で弱食塩泉の極上美肌湯と相模湾の朝獲れ地魚会席を堪能。楽天ふるさと納税で実質2,000円。
             </p>
             <div className="pt-2 flex flex-wrap items-center gap-4 text-xs md:text-sm text-amber-200/90 font-medium">
               <span className="flex items-center gap-1.5">
@@ -102,7 +102,7 @@ export default function FeatureArticlePage() {
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
               <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
                 <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
-                万葉公園「湯河原惣湯 Books and Retreat」の紅葉散策
+                万葉公園「湯河原惣湯 Books and Retreat。」の紅葉散策
               </h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 千歳川の渓流沿いに広がる緑豊かな公園。滝や木製デッキテラスが整備され、カフェでコーヒーを片手に頭上を覆う鮮やかなモミジを眺めながら優雅な時間を過ごせます。
@@ -470,7 +470,7 @@ export default function FeatureArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「湯河原温泉 島崎藤村ゆかりの宿 伊藤屋」は『貸切風呂は無料・予約不要。万葉公園入口2分、美術館5分で散策便利。門柱・石垣と本館一部は登』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「湯河原温泉 島崎藤村ゆかりの宿 伊藤屋」は『貸切風呂は無料・予約不要。万葉公園入口2分、美術館5分で散策便利。門柱・石垣と本館一部は登。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

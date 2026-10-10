@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/summer-hydrangea-temple-garden-healing-stay"
   };
 
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D72870%26f_flg%3DPLAN",
     "hotelMinCharge": 9900,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/72870/72870.jpg",
-    "userReview": "猫たちが思い思いに過ごす姿に癒された猫が各々過ごしてて癒されたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/728…　2026-09-08 08:20:42投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=72870\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "猫たちが思い思いに過ごす姿に癒された猫が各々過ごしてて癒された。",
     "reviewAverage": 4.89,
     "reviewCount": 115,
     "address": "長野県下高井郡野沢温泉村豊郷8714-2",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D16386%26f_flg%3DPLAN",
     "hotelMinCharge": 6600,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16386/16386.jpg",
-    "userReview": "ボリューム満点の夕食と貸切風呂に大満足お世話になりましたありがとうございました夕飯は ボリューム感あり 食べきれないほどでしたお風呂も いつでも 入浴出来ましたし 時間的に 貸切も可能…　2026-09-16 18:26:09投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=16386\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "ボリューム満点の夕食と貸切風呂に大満足お世話になりましたありがとうございました夕飯は ボリューム感あり 食べきれないほどでしたお風呂も いつでも 入浴出来ましたし 時間的に 貸切も可能。",
     "reviewAverage": 4.32,
     "reviewCount": 286,
     "address": "群馬県渋川市伊香保町伊香保165-23",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D138041%26f_flg%3DPLAN",
     "hotelMinCharge": 26000,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/138041/138041.jpg",
-    "userReview": "テラスからの景色に癒やされ、また来たいとてもゆったりと過ごさせていただきました。部屋のテラスに座って、景色を見ていると時間を忘れるほどぼーっとできました。食事もとてもおいしいかったですが、唯一お米…　2026-09-04 06:47:07投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=138041\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "テラスからの景色に癒やされ、また来たいとてもゆったりと過ごさせていただきました。部屋のテラスに座って、景色を見ていると時間を忘れるほどぼーっとできました。食事もとてもおいしいかったですが、唯一お米。",
     "reviewAverage": 4.76,
     "reviewCount": 253,
     "address": "兵庫県神戸市灘区六甲山町南六甲1034-181",

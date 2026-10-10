@@ -37,8 +37,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-16T00:00:00+09:00',
-    dateModified: '2026-09-16T00:00:00+09:00',
+    datePublished: 'T00:00:00+09:00',
+    dateModified: 'T00:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/shizuoka-inatori-solo-retreat-ocean-onsen-stay',
   };
 
@@ -64,7 +64,7 @@ export default function ArticlePage() {
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で海と一体になれるインフィニティ絶景露天風呂とサウナを満喫できる宿は？","acceptedAnswer":{"@type":"Answer","text":"「海一望絶景の宿 いなとり荘」は最上階展望露天風呂や絶景サウナを備え、楽天口コミ★4.5超。水平線を眺めながらととのう至福の一人旅が叶います。"}},{"@type":"Question","name":"一人旅で稲取名物の金目鯛料理を心ゆくまで満喫したいなら？","acceptedAnswer":{"@type":"Answer","text":"「絶景温泉と魚介満腹の宿 稲取東海ホテル湯苑」は全室オーシャンフロントで、自慢の金目鯛姿煮とお造りを一人旅でも贅沢に味わえます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で海と一体になれるインフィニティ絶景露天風呂とサウナを満喫できる宿は？","acceptedAnswer":{"@type":"Answer","text":"「海一望絶景の宿 いなとり荘」は最上階展望露天風呂や絶景サウナを備え、楽天口コミ★4.5超。水平線を眺めながらととのう至福の一人旅が叶います。"}},{"@type":"Question","name":"一人旅で稲取名物の金目鯛料理を心ゆくまで満喫したいなら？","acceptedAnswer":{"@type":"Answer","text":"「絶景温泉と魚介満腹の宿 稲取東海ホテル湯苑。」は全室オーシャンフロントで、自慢の金目鯛姿煮とお造りを一人旅でも贅沢に味わえます。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -79,7 +79,7 @@ export default function ArticlePage() {
             【東伊豆・稲取温泉ひとり旅・太平洋インフィニティ絶景おこもり】波打ち際露天風呂・金目鯛煮付け発祥の地・雛のつるし飾り！伊豆急直通の海リトリート厳選3宿
           </h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
-            更新日：2026年9月16日 | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
+            更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -321,7 +321,7 @@ export default function ArticlePage() {
                 <span>一人旅で稲取名物の金目鯛料理を心ゆくまで満喫したいなら？</span>
               </h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
-                「絶景温泉と魚介満腹の宿 稲取東海ホテル湯苑」は全室オーシャンフロントで、自慢の金目鯛姿煮とお造りを一人旅でも贅沢に味わえます。
+                「絶景温泉と魚介満腹の宿 稲取東海ホテル湯苑。」は全室オーシャンフロントで、自慢の金目鯛姿煮とお造りを一人旅でも贅沢に味わえます。
               </p>
             </div>
           </div>
@@ -375,7 +375,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「海一望絶景の宿 いなとり荘」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「海一望絶景の宿 いなとり荘」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「絶景温泉と魚介満腹の宿 稲取東海ホテル湯苑」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「絶景温泉と魚介満腹の宿 稲取東海ホテル湯苑。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>

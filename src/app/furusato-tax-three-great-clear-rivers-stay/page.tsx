@@ -40,7 +40,7 @@ export default function Page() {
     "hotelMinCharge": 15000,
     "address1": "高知県",
     "address2": "四万十市中村1815為松公園頂上",
-    "telephoneNo": "0880-35-3184",
+    "telephoneNo": "84",
     "access": "土佐くろしお鉄道中村駅下車　タクシーで約１０分（徒歩４０分） / 高知自動車道四万十町中央ICより国道５６号線で約６０分",
     "parkingInformation": "有り　１５台　無料",
     "nearestStation": "中村",
@@ -66,7 +66,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2979/2979map.gif",
     "reviewCount": 1833,
     "reviewAverage": 4.61,
-    "userReview": "露天風呂と食事に感動、鵜飼いも近く大満足露天風呂付の部屋で眺めも最高でした。スタッフの接待も心地よく良い時間が流れました。食事も十分に豪華で美味しかったです。長良川の鵜飼い船のリば…　 ",
+    "userReview": "露天風呂と食事に感動、鵜飼いも近く大満足露天風呂付の部屋で眺めも最高でした。スタッフの接待も心地よく良い時間が流れました。食事も十分に豪華で美味しかったです。長良川の鵜飼い船のリば。",
     "hotelMinCharge": 8250,
     "address1": "岐阜県",
     "address2": "岐阜市湊町１０番地",
@@ -96,7 +96,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/128491/128491map.gif",
     "reviewCount": 3073,
     "reviewAverage": 4.44,
-    "userReview": "バイクを玄関横に置けて大浴場も快適ツーリングで利用しました。バイクは安心の玄関横に置かせていただきました。お部屋も綺麗、大浴場も眺めが良い。勿論夜鳴きそばも美味しい。また泊まりに来ますクチコミ…　 ",
+    "userReview": "バイクを玄関横に置けて大浴場も快適ツーリングで利用しました。バイクは安心の玄関横に置かせていただきました。お部屋も綺麗、大浴場も眺めが良い。勿論夜鳴きそばも美味しい。また泊まりに来ますクチコミ。",
     "hotelMinCharge": 9040,
     "address1": "静岡県",
     "address2": "三島市大宮町3-18-33",
@@ -182,7 +182,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「新安並温泉 なごみ宿 安住庵」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「新安並温泉 なごみ宿 安住庵」へは、土佐くろしお鉄道中村駅下車 タクシーで約１０分（徒歩４０分） / 高知自動車道四万十町中央ICより国道５６号線で約６０分。最寄りの中村駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「新安並温泉 なごみ宿 安住庵」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「新安並温泉 なごみ宿 安住庵」は『城山の山頂に建つ四万十の川と街を眼下に望む一軒宿』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「新安並温泉 なごみ宿 安住庵」と「長良川温泉 十八楼」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「新安並温泉 なごみ宿 安住庵」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「新安並温泉 なごみ宿 安住庵」へは、土佐くろしお鉄道中村駅下車 タクシーで約１０分（徒歩４０分） / 高知自動車道四万十町中央ICより国道５６号線で約６０分。最寄りの中村駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「新安並温泉 なごみ宿 安住庵」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「新安並温泉 なごみ宿 安住庵」は『城山の山頂に建つ四万十の川と街を眼下に望む一軒宿。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「新安並温泉 なごみ宿 安住庵」と「長良川温泉 十八楼」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         
         {/* 特集の魅力セクション */}
@@ -488,7 +488,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「新安並温泉 なごみ宿 安住庵」は『城山の山頂に建つ四万十の川と街を眼下に望む一軒宿』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「新安並温泉 なごみ宿 安住庵」は『城山の山頂に建つ四万十の川と街を眼下に望む一軒宿。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

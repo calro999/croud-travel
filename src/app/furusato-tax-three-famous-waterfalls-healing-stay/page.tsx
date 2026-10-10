@@ -33,12 +33,12 @@ export default function Page() {
     "hotelMinCharge": 11000,
     "address1": "静岡県",
     "address2": "富士宮市佐折634",
-    "telephoneNo": "0544-54-5200",
+    "telephoneNo": "00",
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76861/76861.jpg",
     "roomImageUrl": "",
     "reviewCount": 499,
     "reviewAverage": 4.53,
-    "userReview": "ひとり旅には少し割高?いつも満足している。ただ、私はひとり旅なので、もう少し値段が安くなればと思う?コテージもしかりです。クチコミの詳細はこちらから　https://review.travel…　 ",
+    "userReview": "ひとり旅には少し割高?いつも満足している。ただ、私はひとり旅なので、もう少し値段が安くなればと思う?コテージもしかりです。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F76861%2F76861.html",
     "access": "ＪＲ身延線　富士宮駅より休暇村富士行き路線バスにて約４５分",
     "label": "静岡県富士宮市ふるさと納税・富士山の伏流水が幾筋もの絹糸となって流れ落ちる「白糸の滝」田貫湖畔休暇村富士",
@@ -59,12 +59,12 @@ export default function Page() {
     "hotelMinCharge": 15246,
     "address1": "群馬県",
     "address2": "沼田市利根町大楊2-1",
-    "telephoneNo": "0278-56-2601",
+    "telephoneNo": "01",
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8427/8427.jpg",
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8427/8427_room.jpg",
     "reviewCount": 455,
     "reviewAverage": 4.43,
-    "userReview": "女将のこだわりが随所に感じられるおもてなしです。吹割の滝散策で疲れてしまいチェックイン30分前に到着しても快くロビーで待たせていただきました。お部屋も館内も食事処も清潔感溢れ気持ち良く過ごすことが…　 ",
+    "userReview": "女将のこだわりが随所に感じられるおもてなしです。吹割の滝散策で疲れてしまいチェックイン30分前に到着しても快くロビーで待たせていただきました。お部屋も館内も食事処も清潔感溢れ気持ち良く過ごすことが。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8427%2F8427.html",
     "access": "関越道沼田ICより約18Km車で約20分。上毛高原駅14:00～沼田駅経由14:20の無料送迎バス有（※要問い合わせ）",
     "label": "群馬県沼田市ふるさと納税・東洋のナイアガラと称される大迫力の瀑布「吹割の滝」老神温泉仙郷",
@@ -85,12 +85,12 @@ export default function Page() {
     "hotelMinCharge": 9900,
     "address1": "長崎県",
     "address2": "雲仙市小浜町南本町10-8",
-    "telephoneNo": "0957-74-3500",
+    "telephoneNo": "00",
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18245/18245.jpg",
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18245/18245_wa1.jpg",
     "reviewCount": 274,
     "reviewAverage": 4.55,
-    "userReview": "趣きある離れと美味しい料理に大満足2度目です趣きがあり、大変良い旅館です離れに宿泊しました、料理も程よい量でスタッフも気持ち良く、また、訪れたい宿です他の画像やクチコミの詳細は…　 ",
+    "userReview": "趣きある離れと美味しい料理に大満足2度目です趣きがあり、大変良い旅館です離れに宿泊しました、料理も程よい量でスタッフも気持ち良く、また、訪れたい宿ですの詳細は。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18245%2F18245.html",
     "access": "ＪＲ諫早駅より車で６０分　ＪＲ長崎駅・ＪＲ諫早駅より、口之津方面行き乗車。公立小浜病院前下車。",
     "label": "長崎県南島原市・雲仙市ふるさと納税・名水百選の清流と豪快な岩肌を穿つ「鮎帰りの滝」小浜温泉旅館國崎",
@@ -169,7 +169,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「休暇村富士」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「休暇村富士」へは、ＪＲ身延線 富士宮駅より休暇村富士行き路線バスにて約４５分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「休暇村富士」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「休暇村富士」は『富士山の西麓、田貫湖のほとりに立地する当館ではすべてのお部屋から美しい富士山を望むことがで』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「休暇村富士」と「群馬県・老神温泉 仙郷」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「休暇村富士」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「休暇村富士」へは、ＪＲ身延線 富士宮駅より休暇村富士行き路線バスにて約４５分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「休暇村富士」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「休暇村富士」は『富士山の西麓、田貫湖のほとりに立地する当館ではすべてのお部屋から美しい富士山を望むことがで。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「休暇村富士」と「群馬県・老神温泉 仙郷」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         
         {/* 特集の魅力セクション */}
@@ -475,7 +475,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「休暇村富士」は『富士山の西麓、田貫湖のほとりに立地する当館ではすべてのお部屋から美しい富士山を望むことがで』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「休暇村富士」は『富士山の西麓、田貫湖のほとりに立地する当館ではすべてのお部屋から美しい富士山を望むことがで。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【満天の星降る夜】客室専用星空テラス＆寝湯露天風呂！阿智村・八ヶ岳の夜空独占温泉宿5選",
     "description": "日本一の星空と称される長野県阿智村や八ヶ岳の高原リゾート。客室専用の星空テラスや寝湯露天風呂から、誰にも邪魔されず夜空いっぱいに広がる天の川を鑑賞できるロマンチックな隠れ宿を厳選。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-    "datePublished": "2026-03-27T00:00:00+09:00",
-    "dateModified": "2026-03-27T00:00:00+09:00",
+    "datePublished": "T00:00:00+09:00",
+    "dateModified": "T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",
@@ -98,7 +98,7 @@ export default function FeaturePage() {
               reviews: 113,
               price: "¥8,140〜",
               access: "ＪＲ飯田線　天竜峡駅／中央自動車道飯田ＩＣ・Ｒ１５１経由県道２３７号",
-              features: ["「お客様の倖せを　千代に永遠に　お不動さんのお宿」奥天竜は千代【不動温泉】天竜峡に程近い山郷の一軒宿", "飯田市千代2303-1", "楽天アワード受賞歴"]
+              features: ["「お客様の倖せを 千代に永遠に お不動さんのお宿。」奥天竜は千代【不動温泉】天竜峡に程近い山郷の一軒宿", "飯田市千代2303-1", "楽天アワード受賞歴"]
             },
             {
               name: "天竜水神温泉　花薫る宿　よし乃亭",
@@ -153,7 +153,7 @@ export default function FeaturePage() {
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「昼神温泉 信州公共の宿 鶴巻荘」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「昼神温泉 信州公共の宿 鶴巻荘」へは、天竜峡駅よりお車にて約３０分（車でお迎えあり）。最寄りの天竜峡駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「昼神温泉 信州公共の宿 鶴巻荘」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「昼神温泉 信州公共の宿 鶴巻荘」は『やわらかな畳敷きの浴場で和の粋と深いやさしさに包まれる、ツルツルの温泉と豊かな自然に囲まれ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「昼神温泉 信州公共の宿 鶴巻荘」と「昼神温泉 癒楽の宿 清風苑」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「昼神温泉 信州公共の宿 鶴巻荘」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「昼神温泉 信州公共の宿 鶴巻荘」へは、天竜峡駅よりお車にて約３０分（車でお迎えあり）。最寄りの天竜峡駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「昼神温泉 信州公共の宿 鶴巻荘」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「昼神温泉 信州公共の宿 鶴巻荘」は『やわらかな畳敷きの浴場で和の粋と深いやさしさに包まれる、ツルツルの温泉と豊かな自然に囲まれ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「昼神温泉 信州公共の宿 鶴巻荘」と「昼神温泉 癒楽の宿 清風苑」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -380,7 +380,7 @@ export default function FeaturePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「昼神温泉 信州公共の宿 鶴巻荘」は『やわらかな畳敷きの浴場で和の粋と深いやさしさに包まれる、ツルツルの温泉と豊かな自然に囲まれ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「昼神温泉 信州公共の宿 鶴巻荘」は『やわらかな畳敷きの浴場で和の粋と深いやさしさに包まれる、ツルツルの温泉と豊かな自然に囲まれ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

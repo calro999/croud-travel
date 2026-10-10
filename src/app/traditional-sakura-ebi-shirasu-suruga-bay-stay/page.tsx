@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/traditional-sakura-ebi-shirasu-suruga-bay-stay"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D16668%26f_flg%3DPLAN",
     "hotelMinCharge": 38280,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16668/16668.jpg",
-    "userReview": "母との旅行で部屋食と露天風呂を満喫脚の悪い母との旅行だったため、朝夕ともに部屋食で、露天風呂付きのお部屋という点に魅力を感じ、こちらにお世話になりました。結果、こちらを選んで大正解でした。…　2026-09-17 17:10:33投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=16668\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "母との旅行で部屋食と露天風呂を満喫脚の悪い母との旅行だったため、朝夕ともに部屋食で、露天風呂付きのお部屋という点に魅力を感じ、こちらにお世話になりました。結果、こちらを選んで大正解でした。",
     "reviewAverage": 4.86,
     "reviewCount": 571,
     "address": "静岡県熱海市東海岸町5-24",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D7960%26f_flg%3DPLAN",
     "hotelMinCharge": 8250,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7960/7960.jpg",
-    "userReview": "個室での食事と広いお部屋で大満足!家族4人で宿泊しました。夕食は家族だけで食べられる個室のようなところで、順番に運んでいただいたのですが、大好きなお刺身はもちろんどれもとっても美味しかったです…　2026-08-21 17:23:50投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=7960\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "個室での食事と広いお部屋で大満足!家族4人で宿泊しました。夕食は家族だけで食べられる個室のようなところで、順番に運んでいただいたのですが、大好きなお刺身はもちろんどれもとっても美味しかったです。",
     "reviewAverage": 3.88,
     "reviewCount": 126,
     "address": "愛知県名古屋市千種区千種2-1-17",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D2974%26f_flg%3DPLAN",
     "hotelMinCharge": 6000,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2974/2974.jpg",
-    "userReview": "建物は古いが居心地が良く食事も美味しい少し建物は古いけれど、居心地が良かったです。食事も美味しかったです。クチコミの詳細はこちらから　https://review.travel.rakut…　2026-09-19 16:41:37投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=2974\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "建物は古いが居心地が良く食事も美味しい少し建物は古いけれど、居心地が良かったです。食事も美味しかったです。",
     "reviewAverage": 4.17,
     "reviewCount": 1517,
     "address": "秋田県鹿角市十和田大湯字中谷地５－１",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D17912%26f_flg%3DPLAN",
     "hotelMinCharge": 20900,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/17912/17912.jpg",
-    "userReview": "おもてなしの接客からお食事、温泉、客室まで全てにおいて完璧でした。非常に快適な宿泊になりました、ありがとうございます。急遽予約しての宿泊で、前後の移動もありバタバタとした宿泊になってしまいまし…　2026-09-19 19:20:56投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=17912\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "おもてなしの接客からお食事、温泉、客室まで全てにおいて完璧でした。非常に快適な宿泊になりました、ありがとうございます。急遽予約しての宿泊で、前後の移動もありバタバタとした宿泊になってしまいまし。",
     "reviewAverage": 4.74,
     "reviewCount": 769,
     "address": "島根県安来市古川町478-1",
@@ -365,7 +365,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「熱海温泉 古屋旅館」は『創業220周年 安心の全室部屋食！2026年7月新タイプの露天付き客室OPEN！源泉かけ流』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「熱海温泉 古屋旅館」は『創業220周年 安心の全室部屋食！2026年7月新タイプの露天付き客室OPEN！源泉かけ流。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -7,11 +7,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/shizuoka-solo-business-maguro-fujiview-stay/" },
   title: '【静岡出張＆富士山ひとり旅】新幹線直結・清水港まぐろ・静岡茶ラウンジ！名峰の絶景に癒やされる極上ホテル 厳選3選',
-  description: '東海道新幹線ひかり停車・静岡県の県庁所在地！「JR静岡駅北口広場直結の格式あるランドマーク」を誇る「ホテルアソシア静岡」、南口徒歩1分で高層階から富士山や駿河湾を一望する「ホテルグランヒルズ静岡」、創業1916年で静岡グルメバイキングが自慢の「中島屋グランドホテル」を徹底特集。',
+  description: '東海道新幹線ひかり停車・静岡県の県庁所在地！「JR静岡駅北口広場直結の格式あるランドマーク。」を誇る「ホテルアソシア静岡」、南口徒歩1分で高層階から富士山や駿河湾を一望する「ホテルグランヒルズ静岡」、創業1916年で静岡グルメバイキングが自慢の「中島屋グランドホテル」を徹底特集。',
   keywords: '静岡 出張 ホテル おすすめ,静岡 一人旅 ホテル,ホテルアソシア静岡 宿泊,ホテルグランヒルズ静岡 富士山ビュー,静岡駅 まぐろ ホテル',
   openGraph: {
     title: '【静岡出張＆富士山ひとり旅】新幹線直結・清水港まぐろ・静岡茶ラウンジ！名峰の絶景に癒やされる極上ホテル 厳選3選',
-    description: '東海道新幹線ひかり停車・静岡県の県庁所在地！「JR静岡駅北口広場直結の格式あるランドマーク」を誇る「ホテルアソシア静岡」、南口徒歩1分で高層階から富士山や駿河湾を一望する「ホテルグランヒルズ静岡」、創業1916年で静岡グルメバイキングが自慢の「中島屋グランドホテル」を徹底特集。',
+    description: '東海道新幹線ひかり停車・静岡県の県庁所在地！「JR静岡駅北口広場直結の格式あるランドマーク。」を誇る「ホテルアソシア静岡」、南口徒歩1分で高層階から富士山や駿河湾を一望する「ホテルグランヒルズ静岡」、創業1916年で静岡グルメバイキングが自慢の「中島屋グランドホテル」を徹底特集。',
     url: 'https://croud-travel.pages.dev/shizuoka-solo-business-maguro-fujiview-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -24,7 +24,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【静岡出張＆富士山ひとり旅】新幹線直結・清水港まぐろ・静岡茶ラウンジ！名峰の絶景に癒やされる極上ホテル 厳選3選',
-    description: '東海道新幹線ひかり停車・静岡県の県庁所在地！「JR静岡駅北口広場直結の格式あるランドマーク」を誇る「ホテルアソシア静岡」、南口徒歩1分で高層階から富士山や駿河湾を一望する「ホテルグランヒルズ静岡」、創業1916年で静岡グルメバイキングが自慢の「中島屋グランドホテル」を徹底特集。',
+    description: '東海道新幹線ひかり停車・静岡県の県庁所在地！「JR静岡駅北口広場直結の格式あるランドマーク。」を誇る「ホテルアソシア静岡」、南口徒歩1分で高層階から富士山や駿河湾を一望する「ホテルグランヒルズ静岡」、創業1916年で静岡グルメバイキングが自慢の「中島屋グランドホテル」を徹底特集。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・出張調査班',
@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-11T12:30:00+09:00',
-    dateModified: '2026-09-11T12:30:00+09:00',
+    datePublished: 'T12:30:00+09:00',
+    dateModified: 'T12:30:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/shizuoka-solo-business-maguro-fujiview-stay',
   };
 
@@ -78,7 +78,7 @@ export default function ArticlePage() {
           【静岡出張＆富士山ひとり旅】新幹線直結・清水港まぐろ・静岡茶ラウンジ！名峰の絶景に癒やされる極上ホテル 厳選3選
         </h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
-          東海道新幹線ひかり停車・静岡県の県庁所在地！「JR静岡駅北口広場直結の格式あるランドマーク」を誇る「ホテルアソシア静岡」、南口徒歩1分で高層階から富士山や駿河湾を一望する「ホテルグランヒルズ静岡」、創業1916年で静岡グルメバイキングが自慢の「中島屋グランドホテル」を徹底特集。
+          東海道新幹線ひかり停車・静岡県の県庁所在地！「JR静岡駅北口広場直結の格式あるランドマーク。」を誇る「ホテルアソシア静岡」、南口徒歩1分で高層階から富士山や駿河湾を一望する「ホテルグランヒルズ静岡」、創業1916年で静岡グルメバイキングが自慢の「中島屋グランドホテル」を徹底特集。
         </p>
       </header>
 
@@ -161,7 +161,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.42点。「駅直結で立地最高、スタッフの接客も洗練されていて安心して泊まれました」「お部屋も清潔でベッドの寝心地が良く出張の定宿です」と絶賛。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.42点。「駅直結で立地最高、スタッフの接客も洗練されていて安心して泊まれました。」「お部屋も清潔でベッドの寝心地が良く出張の定宿です。」と絶賛。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -236,7 +236,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.34点。「高層階の部屋から見えた富士山が圧巻でした」「駅近で部屋も広く、出張利用でしたがとても贅沢な気分になれました」と高評価。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.34点。「高層階の部屋から見えた富士山が圧巻でした。」「駅近で部屋も広く、出張利用でしたがとても贅沢な気分になれました。」と高評価。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -311,7 +311,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.12点。「朝食のまぐろ丼とおでんがとても美味しく、スタッフの方も親切でした」「繁華街に近くて夜の食事が楽しかった」と好評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.12点。「朝食のまぐろ丼とおでんがとても美味しく、スタッフの方も親切でした。」「繁華街に近くて夜の食事が楽しかった」と好評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">

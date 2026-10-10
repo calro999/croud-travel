@@ -62,7 +62,7 @@ export default function FurusatoCrabAllYouCanEatBuffetStayPage() {
           冬の味覚の王様！本場カニ食べ放題＆極上松葉ガニ名門宿×ふるさと納税完全攻略ガイド【2026年最新】夕日ヶ浦・城崎温泉で絶品カニ旅
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-09">2026年9月9日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -164,7 +164,7 @@ export default function FurusatoCrabAllYouCanEatBuffetStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “7階からの景色と食事が素晴らしく静かな時間7階だったので景色が良かったです(その日は夕日は見えませんでしたが)。部屋風呂は良かったですがちょっと熱すぎました。夕食と朝食も素晴らしかったです。後…　2026-09-03 11:53:55投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “7階からの景色と食事が素晴らしく静かな時間7階だったので景色が良かったです(その日は夕日は見えませんでしたが)。部屋風呂は良かったですがちょっと熱すぎました。夕食と朝食も素晴らしかったです。後… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -248,7 +248,7 @@ export default function FurusatoCrabAllYouCanEatBuffetStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “スタッフの対応と朝食は最高、部屋への移動は少し大変スタッフの皆様がとてもあたたかく迎えてくれました。お風呂も綺麗ですし、朝食も大変美味しかったです。部屋も綺麗でしたが、部屋までの道のりが思…　2026-08-24 20:28:39投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “スタッフの対応と朝食は最高、部屋への移動は少し大変スタッフの皆様がとてもあたたかく迎えてくれました。お風呂も綺麗ですし、朝食も大変美味しかったです。部屋も綺麗でしたが、部屋までの道のりが思… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -323,7 +323,7 @@ export default function FurusatoCrabAllYouCanEatBuffetStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

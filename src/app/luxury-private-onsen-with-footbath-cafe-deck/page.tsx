@@ -34,11 +34,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31896/31896map.gif",
     "reviewCount": 294,
     "reviewAverage": 4.4,
-    "userReview": "温泉は心地よく満足、夕食探しは一苦労予約で食事なしを、朝食だけでも可能かと聞きましたが駄目でした。近くにコンビにあり、そこで購入して済ませました。夕食は、地図をいただき、説明受けて、いざお店に!!…　2026-09-15 14:55:32投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=31896\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "温泉は心地よく満足、夕食探しは一苦労予約で食事なしを、朝食だけでも可能かと聞きましたが駄目でした。近くにコンビにあり、そこで購入して済ませました。夕食は、地図をいただき、説明受けて、いざお店に!",
     "hotelMinCharge": 7700,
     "address1": "福島県",
     "address2": "いわき市常磐湯本町笠井1",
-    "telephoneNo": "0246-42-2151",
+    "telephoneNo": "51",
     "access": "ＪＲ常磐線湯本駅より徒歩８分　常磐自動車道いわき湯本ＩＣから４ｋｍ（車で７分）　ハワイアンズまで車で約７分　",
     "parkingInformation": "普通乗用車タイプ28台、無料、道路を挟んで旅館の向かい側。",
     "nearestStation": "湯本",
@@ -59,11 +59,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5839/5839map.gif",
     "reviewCount": 2105,
     "reviewAverage": 4.15,
-    "userReview": "朝夕のバイキングに大満足、部屋も清潔で快適朝夕のバイキング!とても満足でした!部屋も清潔感があり、またぜひ利用させて頂きたいです!クチコミの詳細はこちらから　https://review.tr…　2026-09-17 16:45:03投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=5839\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "朝夕のバイキングに大満足、部屋も清潔で快適朝夕のバイキング!とても満足でした!部屋も清潔感があり、またぜひ利用させて頂きたいです!",
     "hotelMinCharge": 7150,
     "address1": "栃木県",
     "address2": "日光市鬼怒川温泉大原1437-1",
-    "telephoneNo": "0288-77-2727",
+    "telephoneNo": "27",
     "access": "東北自動車道宇都宮ICから宇都宮・日光有料道路今市IC下車R121より30分",
     "parkingInformation": "有り　100台　無料（先着順）",
     "nearestStation": "鬼怒川温泉",
@@ -84,11 +84,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/75162/75162map.gif",
     "reviewCount": 1109,
     "reviewAverage": 4.38,
-    "userReview": "リフォームされた綺麗な館内と二種の源泉西の河原公園の近くにあります。草津温泉に旅行した際に宿泊しました。夕食なし朝食のみのプランです。歴史ある建物ですが、中はリフォームされていて大…　2026-09-07 21:56:23投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=75162\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "リフォームされた綺麗な館内と二種の源泉西の河原公園の近くにあります。草津温泉に旅行した際に宿泊しました。夕食なし朝食のみのプランです。歴史ある建物ですが、中はリフォームされていて大。",
     "hotelMinCharge": 12100,
     "address1": "群馬県",
     "address2": "吾妻郡草津町草津479",
-    "telephoneNo": "0279-88-5011",
+    "telephoneNo": "11",
     "access": "長野原草津口駅よりＪＲバスに２５分乗車 徒歩8分（長野原までのシャトルバスはございません、最終バスは���４８pm発です）",
     "parkingInformation": "敷地内に４０台 無料",
     "nearestStation": "長野原草津口",
@@ -109,11 +109,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19271/19271map.gif",
     "reviewCount": 3271,
     "reviewAverage": 4.54,
-    "userReview": "変わらずの気配りと美味しいアップルパイ2年ぶりに利用させていただきました。到着時から細やかな気配りをしていただき、チェックアウトまでリラックスして過ごすことができました。夕食デザートの…　2026-09-20 00:27:37投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=19271\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "変わらずの気配りと美味しいアップルパイ2年ぶりに利用させていただきました。到着時から細やかな気配りをしていただき、チェックアウトまでリラックスして過ごすことができました。夕食デザートの。",
     "hotelMinCharge": 14000,
     "address1": "群馬県",
     "address2": "渋川市伊香保町伊香保164",
-    "telephoneNo": "0279-72-3306",
+    "telephoneNo": "06",
     "access": "ＪＲ上越線渋川駅よりバスで見晴下下車／関越自動車道渋川・伊香保ＩＣより約１０ｋｍ",
     "parkingInformation": "有り　100台　無料　余裕有り",
     "nearestStation": "渋川",
@@ -134,7 +134,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/44948/44948map.gif",
     "reviewCount": 534,
     "reviewAverage": 4.56,
-    "userReview": "細やかな配慮と温かいおもてなしに感動温泉宿でおいしいものが食べたいけど、病み上がりで食事の量に不安があり、なかなか宿泊できずにいました。丁寧なHPと36時間ステイ、夕食少量が決め手で予約。当日…　2026-09-17 19:48:23投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=44948\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "細やかな配慮と温かいおもてなしに感動温泉宿でおいしいものが食べたいけど、病み上がりで食事の量に不安があり、なかなか宿泊できずにいました。丁寧なHPと36時間ステイ、夕食少量が決め手で予約。当日。",
     "hotelMinCharge": 12590,
     "address1": "北海道",
     "address2": "札幌市南区定山渓温泉西3-57",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「いわき湯本温泉 旅館 こいと」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「いわき湯本温泉 旅館 こいと」へは、ＪＲ常磐線湯本駅より徒歩８分 常磐自動車道いわき湯本ＩＣから４ｋｍ（車で７分） ハワイアンズまで車で約７分。最寄りの湯本駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「いわき湯本温泉 旅館 こいと」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「いわき湯本温泉 旅館 こいと」は『こだわりの湯使い、本当の源泉かけ流しをご堪能ください&amp;amp;#9832;』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「いわき湯本温泉 旅館 こいと」と「鬼怒川温泉 ホテルサンシャイン鬼怒川」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「いわき湯本温泉 旅館 こいと」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「いわき湯本温泉 旅館 こいと」へは、ＪＲ常磐線湯本駅より徒歩８分 常磐自動車道いわき湯本ＩＣから４ｋｍ（車で７分） ハワイアンズまで車で約７分。最寄りの湯本駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「いわき湯本温泉 旅館 こいと」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「いわき湯本温泉 旅館 こいと」は『こだわりの湯使い、本当の源泉かけ流しをご堪能ください&amp;amp;#9832;。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「いわき湯本温泉 旅館 こいと」と「鬼怒川温泉 ホテルサンシャイン鬼怒川」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -628,7 +628,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「いわき湯本温泉 旅館 こいと」は『こだわりの湯使い、本当の源泉かけ流しをご堪能ください&amp;amp;#9832;』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「いわき湯本温泉 旅館 こいと」は『こだわりの湯使い、本当の源泉かけ流しをご堪能ください&amp;amp;#9832;。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -34,11 +34,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/51176/51176map.gif",
     "reviewCount": 221,
     "reviewAverage": 4,
-    "userReview": "3連泊の夕食が毎日変わり大満足奈良県からお里帰りで姉と孫の2人で3連泊させてもらいました。旅館は少し古いですが、3日間夕食の献立が違い大変良かったです。価格もリーズナブルですしまた利用した…　2026-08-25 22:13:51投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=51176\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "3連泊の夕食が毎日変わり大満足奈良県からお里帰りで姉と孫の2人で3連泊させてもらいました。旅館は少し古いですが、3日間夕食の献立が違い大変良かったです。価格もリーズナブルですしまた利用した。",
     "hotelMinCharge": 4400,
     "address1": "鳥取県",
     "address2": "米子市皆生温泉4-24-21",
-    "telephoneNo": "0859-22-3210",
+    "telephoneNo": "10",
     "access": "JR米子駅より皆生温泉行きバス約20分、観光センターバスターミナルより徒歩約1分／米子道米子ICより車で10分",
     "parkingInformation": "有り　２０台　無料　予約不要",
     "nearestStation": "米子",
@@ -59,11 +59,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40046/40046map.gif",
     "reviewCount": 278,
     "reviewAverage": 4.42,
-    "userReview": "重要文化財の佇まいと最高の泉質に感動重要文化財の宿の廊下を歩いてると、外を歩いてる人々がカメラにおさめてました。正面玄関カッちょいーです。なんといってもお風呂!洞窟みたいなお風呂もさること…　2026-09-05 22:04:24投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=40046\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "重要文化財の佇まいと最高の泉質に感動重要文化財の宿の廊下を歩いてると、外を歩いてる人々がカメラにおさめてました。正面玄関カッちょいーです。なんといってもお風呂!洞窟みたいなお風呂もさること。",
     "hotelMinCharge": 14300,
     "address1": "鳥取県",
     "address2": "東伯郡三朝町三朝302-1",
-    "telephoneNo": "0858-43-0211",
+    "telephoneNo": "11",
     "access": "JR山陰本線-倉吉駅下車～バス20分／中国道-院庄ICよりＲ１７９号を倉吉方面に約50分/ANA羽田～鳥取～バス～倉吉",
     "parkingInformation": "有り　3０台　無料",
     "nearestStation": "倉吉",
@@ -84,11 +84,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19672/19672map.gif",
     "reviewCount": 618,
     "reviewAverage": 4.38,
-    "userReview": "温泉は良いが設備や接客に改善の余地あり楽天の評価は、正直、高過ぎる印象。朝食は普通。セルフサービスのコーヒーの案内は、2日ともなかったです。部屋は音漏れがひどいので、気になる方は耳栓があっ…　2026-09-16 12:05:26投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=19672\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "温泉は良いが設備や接客に改善の余地あり楽天の評価は、正直、高過ぎる印象。朝食は普通。セルフサービスのコーヒーの案内は、2日ともなかったです。部屋は音漏れがひどいので、気になる方は耳栓があっ。",
     "hotelMinCharge": 8250,
     "address1": "鳥取県",
     "address2": "鳥取市永楽温泉町458",
-    "telephoneNo": "0857-23-1311",
+    "telephoneNo": "11",
     "access": "JR鳥取駅北出口から右（東）方面に徒歩5分／中国自動車道佐用ＪＣＴ→鳥取ＩＣ（無料）左���後市内へ車で約9分",
     "parkingInformation": "建物の隣にございます　20台　無料　出し入れ自由です",
     "nearestStation": "鳥取",
@@ -113,7 +113,7 @@ const hotels: any[] = [
     "hotelMinCharge": 13000,
     "address1": "鳥取県",
     "address2": "鳥取市吉岡温泉町765",
-    "telephoneNo": "0857-57-0023",
+    "telephoneNo": "23",
     "access": "JR鳥取駅より車で約20分/鳥取空港より車で約15分",
     "parkingInformation": "有　無料　※少し離れておりますので、玄関先まで車でお越し下さい。ご案内致します。",
     "nearestStation": "",
@@ -138,7 +138,7 @@ const hotels: any[] = [
     "hotelMinCharge": 5000,
     "address1": "鳥取県",
     "address2": "東伯郡湯梨浜町はわい温泉6-1",
-    "telephoneNo": "0858-35-3521",
+    "telephoneNo": "21",
     "access": "山陰本線倉吉駅より車で１０分。",
     "parkingInformation": "駐車場無料。バイク歓迎、屋根付き部分あり。大型車可。自転車館内保管。",
     "nearestStation": "倉吉",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「皆生温泉 旅館三井」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「皆生温泉 旅館三井」へは、JR米子駅より皆生温泉行きバス約20分、観光センターバスターミナルより徒歩約1分／米子道米子ICより車で10分。最寄りの米子駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「皆生温泉 旅館三井」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「皆生温泉 旅館三井」は『夕食はお部屋食！カニコースが好評です。海まで３分！潮の香りに心やすらぐ、癒しとくつろぎの純』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「皆生温泉 旅館三井」と「三朝温泉 旅館 大橋」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「皆生温泉 旅館三井」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「皆生温泉 旅館三井」へは、JR米子駅より皆生温泉行きバス約20分、観光センターバスターミナルより徒歩約1分／米子道米子ICより車で10分。最寄りの米子駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「皆生温泉 旅館三井」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「皆生温泉 旅館三井」は『夕食はお部屋食！カニコースが好評です。海まで３分！潮の香りに心やすらぐ、癒しとくつろぎの純。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「皆生温泉 旅館三井」と「三朝温泉 旅館 大橋」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -628,7 +628,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「皆生温泉 旅館三井」は『夕食はお部屋食！カニコースが好評です。海まで３分！潮の香りに心やすらぐ、癒しとくつろぎの純』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「皆生温泉 旅館三井」は『夕食はお部屋食！カニコースが好評です。海まで３分！潮の香りに心やすらぐ、癒しとくつろぎの純。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

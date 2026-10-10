@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/spring-water-soba-tofu-gourmet-onsen-stay"
   };
 
@@ -83,11 +83,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/44852/44852map.gif",
     "reviewCount": 147,
     "reviewAverage": 4.85,
-    "userReview": "古くからある木造建築ながら、内装と清掃が行き届いていてとっても好感がもてる清潔感。お風呂も低調性アルカリ泉質の肌にやさしいお湯でありがたい。そして何と言っても山菜たっぷりの朝食が豪華だった。チ…　2026-09-18 09:18:35投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=44852\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "古くからある木造建築ながら、内装と清掃が行き届いていてとっても好感がもてる清潔感。お風呂も低調性アルカリ泉質の肌にやさしいお湯でありがたい。そして何と言っても山菜たっぷりの朝食が豪華だった。チ。",
     "hotelMinCharge": 8800,
     "address1": "岩手県",
     "address2": "和賀郡西和賀町湯川52-108-1",
-    "telephoneNo": "0197-82-2304",
+    "telephoneNo": "04",
     "access": "ＪＲ北上線　ほっとゆだ駅から車で５分又はゆけむりタクシー萬鷹前下車すぐ／秋田自動車道　湯田ＩＣから車で１０分",
     "parkingInformation": "有り　１０台　無料　予約不要",
     "nearestStation": "ほっとゆだ",

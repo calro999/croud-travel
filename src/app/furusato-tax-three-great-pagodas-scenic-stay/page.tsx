@@ -35,11 +35,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/12577/12577map.gif",
     "reviewCount": 2640,
     "reviewAverage": 4.58,
-    "userReview": "心温まるたくさんのおもてなしに感謝たくさんのおもてなしありがとうございますクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voi…",
+    "userReview": "心温まるたくさんのおもてなしに感謝たくさんのおもてなしありがとうございます。",
     "hotelMinCharge": 11000,
     "address1": "山形県",
     "address2": "鶴岡市湯温海丁1",
-    "telephoneNo": "0570-00-8598",
+    "telephoneNo": "98",
     "access": "日本海東北自動車道 あつみ温泉ICから車5分/ＪＲ羽越本線 あつみ温泉駅からタクシー５分/庄内空港から車40分",
     "parkingInformation": "有り　３００台　無料　先着順",
     "nearestStation": "あつみ温泉",
@@ -65,7 +65,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/109362/109362map.gif",
     "reviewCount": 192,
     "reviewAverage": 4.71,
-    "userReview": "のんびりと贅沢な時間をありがとうございました毎年夏の思い出に高齢の両親と宿泊させていただいています。スタッフさんがとても丁寧で笑顔で対応してくださり感じの良い接客で居心地が良いです。夕食は…",
+    "userReview": "のんびりと贅沢な時間をありがとうございました毎年夏の思い出に高齢の両親と宿泊させていただいています。スタッフさんがとても丁寧で笑顔で対応してくださり感じの良い接客で居心地が良いです。夕食は。",
     "hotelMinCharge": 34100,
     "address1": "山口県",
     "address2": "山口市湯田温泉2-7-1",
@@ -95,7 +95,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/178440/178440map.gif",
     "reviewCount": 601,
     "reviewAverage": 4.68,
-    "userReview": "予約ミスにも迅速対応、家族でゆっくり過ごせた今回は家族4人で2度目の宿泊でした。前回も泊まったエミオンフォースで。予約時に誤って4名ではなく1名で予約をしてしまったらしく、チェックイン時にフロント…",
+    "userReview": "予約ミスにも迅速対応、家族でゆっくり過ごせた今回は家族4人で2度目の宿泊でした。前回も泊まったエミオンフォースで。予約時に誤って4名ではなく1名で予約をしてしまったらしく、チェックイン時にフロント。",
     "hotelMinCharge": 3990,
     "address1": "京都府",
     "address2": "京都市下京区朱雀堂ノ口町20-4",
@@ -181,7 +181,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「温海温泉 萬国屋」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「温海温泉 萬国屋」へは、日本海東北自動車道 あつみ温泉ICから車5分/ＪＲ羽越本線 あつみ温泉駅からタクシー５分/庄内空港から車40分。最寄りのあつみ温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「温海温泉 萬国屋」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「温海温泉 萬国屋」は『山里のどこか懐かしい風情とおもてなしの心に癒される老舗旅館。所々に飾られた生花が心を和ませ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「温海温泉 萬国屋」と「やまぐち・湯田温泉 古稀庵」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「温海温泉 萬国屋」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「温海温泉 萬国屋」へは、日本海東北自動車道 あつみ温泉ICから車5分/ＪＲ羽越本線 あつみ温泉駅からタクシー５分/庄内空港から車40分。最寄りのあつみ温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「温海温泉 萬国屋」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「温海温泉 萬国屋」は『山里のどこか懐かしい風情とおもてなしの心に癒される老舗旅館。所々に飾られた生花が心を和ませ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「温海温泉 萬国屋」と「やまぐち・湯田温泉 古稀庵」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* リードセクション */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-4">
@@ -510,7 +510,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「温海温泉 萬国屋」は『山里のどこか懐かしい風情とおもてなしの心に癒される老舗旅館。所々に飾られた生花が心を和ませ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「温海温泉 萬国屋」は『山里のどこか懐かしい風情とおもてなしの心に癒される老舗旅館。所々に飾られた生花が心を和ませ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

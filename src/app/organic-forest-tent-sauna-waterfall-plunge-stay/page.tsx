@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【滝壺ダイブ＆テントサウナ】天然滝の水風呂で極限のととのい！大自然アドベンチャースパ宿5選",
     "description": "轟く名瀑のすぐそばに設置された薪テントサウナで限界まで体を温め、天然の滝壺水風呂へダイブ！マイナスイオンのミストと森のフィトンチッドに包まれる、究極のアウトドアサウナ体験ができる宿を厳選。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-    "datePublished": "2026-03-27T00:00:00+09:00",
-    "dateModified": "2026-03-27T00:00:00+09:00",
+    "datePublished": "T00:00:00+09:00",
+    "dateModified": "T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",
@@ -153,7 +153,7 @@ export default function FeaturePage() {
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「蓼科温泉 蓼科グランドホテル滝の湯」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「蓼科温泉 蓼科グランドホテル滝の湯」へは、東京より：車／諏訪南ICより約30分、関西より：車／諏訪ICよりビーナスライン経由で約30分 電車：茅野駅よりバス30分。最寄りの茅野駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「蓼科温泉 蓼科グランドホテル滝の湯」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「蓼科温泉 蓼科グランドホテル滝の湯」は『楽天トラベル ゴールドアワード2025 受賞！渓流露天風呂＆庭園大浴場＆約70種ビュッフェ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「蓼科温泉 蓼科グランドホテル滝の湯」と「登別温泉 第一滝本館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「蓼科温泉 蓼科グランドホテル滝の湯」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「蓼科温泉 蓼科グランドホテル滝の湯」へは、東京より：車／諏訪南ICより約30分、関西より：車／諏訪ICよりビーナスライン経由で約30分 電車：茅野駅よりバス30分。最寄りの茅野駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「蓼科温泉 蓼科グランドホテル滝の湯」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「蓼科温泉 蓼科グランドホテル滝の湯」は『楽天トラベル ゴールドアワード2025 受賞！渓流露天風呂＆庭園大浴場＆約70種ビュッフェ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「蓼科温泉 蓼科グランドホテル滝の湯」と「登別温泉 第一滝本館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -380,7 +380,7 @@ export default function FeaturePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「蓼科温泉 蓼科グランドホテル滝の湯」は『楽天トラベル ゴールドアワード2025 受賞！渓流露天風呂＆庭園大浴場＆約70種ビュッフェ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「蓼科温泉 蓼科グランドホテル滝の湯」は『楽天トラベル ゴールドアワード2025 受賞！渓流露天風呂＆庭園大浴場＆約70種ビュッフェ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -39,8 +39,8 @@ export default function FurusatoArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-10T16:45:00+09:00',
-    dateModified: '2026-09-10T16:45:00+09:00',
+    datePublished: 'T16:45:00+09:00',
+    dateModified: 'T16:45:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-dogo-onsen-honkan-heritage-stay',
   };
 
@@ -49,7 +49,7 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「道後温泉 ふなや」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「道後温泉 ふなや」へは、道後温泉駅から徒歩3分 松山ＩＣより車で25分 ＪＲ松山駅前から市内電車で30分 空港からリムジンバスで35分。最寄りの松山市駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「道後温泉 ふなや」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「道後温泉 ふなや」は『★文人ゆかりの宿・道後一の老舗★ 日本庭園には、自然の川が流れ四季折々の風情がお楽しみいた』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「道後温泉 ふなや」と「道後御湯」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「道後温泉 ふなや」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「道後温泉 ふなや」へは、道後温泉駅から徒歩3分 松山ＩＣより車で25分 ＪＲ松山駅前から市内電車で30分 空港からリムジンバスで35分。最寄りの松山市駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「道後温泉 ふなや」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「道後温泉 ふなや」は『★文人ゆかりの宿・道後一の老舗★ 日本庭園には、自然の川が流れ四季折々の風情がお楽しみいた。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「道後温泉 ふなや」と「道後御湯」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -203,7 +203,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.67点、口コミ1400件超。「庭園の美しさと静けさ、スタッフの接客の洗練さに感動」「料理が素晴らしく道後で泊まるなら絶対ここ」と絶大な信頼を得ています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.67点、口コミ1400件超。「庭園の美しさと静けさ、スタッフの接客の洗練さに感動。」「料理が素晴らしく道後で泊まるなら絶対ここ。」と絶大な信頼を得ています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -287,7 +287,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.77点の最高峰スコア。「部屋のお風呂が最高で何度も入った」「ラウンジからの松山城の景色が美しく、料理も接客もパーフェクト」と大人の旅行者に大人気。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.77点の最高峰スコア。「部屋のお風呂が最高で何度も入った」「ラウンジからの松山城の景色が美しく、料理も接客もパーフェクト。」と大人の旅行者に大人気。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.43点、口コミ2600件超。「本館のすぐ隣で観光にとても便利」「屋上露天風呂が開放的で気持ちよく、お食事も美味しかった」と高い人気。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.43点、口コミ2600件超。「本館のすぐ隣で観光にとても便利」「屋上露天風呂が開放的で気持ちよく、お食事も美味しかった。」と高い人気。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -578,7 +578,7 @@ export default function FurusatoArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「道後温泉 ふなや」は『★文人ゆかりの宿・道後一の老舗★ 日本庭園には、自然の川が流れ四季折々の風情がお楽しみいた』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「道後温泉 ふなや」は『★文人ゆかりの宿・道後一の老舗★ 日本庭園には、自然の川が流れ四季折々の風情がお楽しみいた。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

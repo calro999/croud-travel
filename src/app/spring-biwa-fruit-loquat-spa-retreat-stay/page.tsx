@@ -34,11 +34,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/32247/32247map.gif",
     "reviewCount": 135,
     "reviewAverage": 3.3,
-    "userReview": "田舎の隠れ家で温泉を貸し切り気分で満喫隠れ家的な立地の田舎のおじいちゃんおばあちゃんの家、という感じの宿でした。24時間自由に入れる温泉を貸し切り同然で使えてラッキーでした。クチコミの詳細…　2026-09-08 21:05:19投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=32247\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "田舎の隠れ家で温泉を貸し切り気分で満喫隠れ家的な立地の田舎のおじいちゃんおばあちゃんの家、という感じの宿でした。24時間自由に入れる温泉を貸し切り同然で使えてラッキーでした。クチコミの詳細。",
     "hotelMinCharge": 4400,
     "address1": "千葉県",
     "address2": "南房総市富浦町豊岡124-1",
-    "telephoneNo": "0470-33-2268",
+    "telephoneNo": "68",
     "access": "ＪＲ内房線　富浦駅／館山道　富浦ＩＣより５分／アクアライン～１２７号（１時間）",
     "parkingInformation": "有　１０台　無料　先着順",
     "nearestStation": "富浦（千葉）",
@@ -59,11 +59,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2955/2955map.gif",
     "reviewCount": 2532,
     "reviewAverage": 4.43,
-    "userReview": "おいしい料理で大満足2泊お世話になりました。すべてにおいてホテル側の心意気が伝わってくる良い時間を過ごすことができました。施設内は清潔でしたし、食事に関しては素材を活かすコンセプトを感じる…　2026-09-19 17:17:51投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=2955\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "おいしい料理で大満足2泊お世話になりました。すべてにおいてホテル側の心意気が伝わってくる良い時間を過ごすことができました。施設内は清潔でしたし、食事に関しては素材を活かすコンセプトを感じる。",
     "hotelMinCharge": 14800,
     "address1": "千葉県",
     "address2": "南房総市千倉町瀬戸2980-133",
-    "telephoneNo": "0470-44-2000",
+    "telephoneNo": "00",
     "access": "館山道富浦ＩＣより車で約２５分、ＪＲ千倉駅よりタクシーで３分位、ご宿泊のお客様はお迎えのバスあり（１４時～１８時）",
     "parkingInformation": "無料駐車場あり　８０台（駐車場入り口は国道４１０号線沿い",
     "nearestStation": "千倉",
@@ -84,11 +84,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/193323/193323map.gif",
     "reviewCount": 26,
     "reviewAverage": 4.23,
-    "userReview": "海を眺める露天風呂と硫黄香る内湯に癒される露天風呂は温泉ではありませんでしたが、ウグイスの鳴き声の中、内房の海を眺めながらのロケーションは素晴らしく、大変に癒されました内湯は鉱泉の沸か…　2026-08-05 21:51:33投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=193323\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "海を眺める露天風呂と硫黄香る内湯に癒される露天風呂は温泉ではありませんでしたが、ウグイスの鳴き声の中、内房の海を眺めながらのロケーションは素晴らしく、大変に癒されました内湯は鉱泉の沸か。",
     "hotelMinCharge": 19800,
     "address1": "千葉県",
     "address2": "南房総市小浦487-3",
-    "telephoneNo": "0470-57-2528",
+    "telephoneNo": "28",
     "access": "【車】岩井駅---施設(10分)。【車】館山自動車道鋸南富山IC---施設(20分)",
     "parkingInformation": "有り　５台　無料　予��不要",
     "nearestStation": "岩井",
@@ -156,7 +156,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「初夏の極上フルーツ！房州名産びわ会席＆びわ葉エキス温浴スパの風情宿5選」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「初夏の極上フルーツ！房州名産びわ会席＆びわ葉エキス温浴スパの風情宿5選。」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -415,7 +415,7 @@ export default function FeatureDetailPage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「初夏の極上フルーツ！房州名産びわ会席＆びわ葉エキス温浴スパの風情宿5選」を効率よく巡るコツは？</span>
+                <span>Q. 「初夏の極上フルーツ！房州名産びわ会席＆びわ葉エキス温浴スパの風情宿5選。」を効率よく巡るコツは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">

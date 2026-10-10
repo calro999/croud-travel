@@ -62,7 +62,7 @@ export default function FurusatoLegolandOfficialHotelStayPage() {
           子どもが主役の夢の国！レゴランド・ジャパン公式ホテル＆名古屋ファミリー名宿×ふるさと納税完全攻略ガイド【2026年最新】レゴランドホテル・マリオット・ベッセル
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-09">2026年9月9日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -164,7 +164,7 @@ export default function FurusatoLegolandOfficialHotelStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “男児大歓喜男児大歓喜の楽しさでした!また行きたい!レゴランドホテルで泊まりたい!と毎日のように言っています。夏休みだったのでお高かったですが、その価値はあります。また来たいです。クチコミの…　2026-09-04 19:29:52投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “男児大歓喜男児大歓喜の楽しさでした!また行きたい!レゴランドホテルで泊まりたい!と毎日のように言っています。夏休みだったのでお高かったですが、その価値はあります。また来たいです。クチコミの… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -206,7 +206,7 @@ export default function FurusatoLegolandOfficialHotelStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “名古屋駅直結で幼児連れの移動が楽でした名古屋駅直結で、幼児連れの旅行には、移動が少なく助かりました。他の宿泊者は、インバウンドのアジアの方が多い印象でした。クチコミの詳細はこちらから　http…　2026-09-05 08:43:15投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “名古屋駅直結で幼児連れの移動が楽でした名古屋駅直結で、幼児連れの旅行には、移動が少なく助かりました。他の宿泊者は、インバウンドのアジアの方が多い印象でした。
             </blockquote>
           </div>
           <div className="pt-2">
@@ -248,7 +248,7 @@ export default function FurusatoLegolandOfficialHotelStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “レゴランド前泊に最適レゴランドの前泊で利用しました。朝ごはんをゆっくり食べても、開園まで十分間に合いました。お盆期間中でしたが、早い時間の朝食にしたためかそこまで混み合わず、朝からマグロ丼が食べら…　2026-09-04 21:13:04投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “レゴランド前泊に最適レゴランドの前泊で利用しました。朝ごはんをゆっくり食べても、開園まで十分間に合いました。お盆期間中でしたが、早い時間の朝食にしたためかそこまで混み合わず、朝からマグロ丼が食べら… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -323,7 +323,7 @@ export default function FurusatoLegolandOfficialHotelStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

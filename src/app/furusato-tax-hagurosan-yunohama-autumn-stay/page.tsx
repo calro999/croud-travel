@@ -39,8 +39,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
-    "datePublished": "2026-09-20",
-    "dateModified": "2026-09-20",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-hagurosan-yunohama-autumn-stay"
   };
 
@@ -441,7 +441,7 @@ export default function Page() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「羽黒山杉並木紅葉と湯野浜温泉の夕日！秋の庄内味覚（新米つや姫・寒鱈・庄内豚）と開運温泉旅」を効率よく巡るコツは？</span>
+                <span>Q. 「羽黒山杉並木紅葉と湯野浜温泉の夕日！秋の庄内味覚（新米つや姫・寒鱈・庄内豚）と開運温泉旅。」を効率よく巡るコツは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">

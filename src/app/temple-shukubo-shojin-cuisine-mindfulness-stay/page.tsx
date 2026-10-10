@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/temple-shukubo-shojin-cuisine-mindfulness-stay"
   };
 
@@ -83,7 +83,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/135569/135569map.gif",
     "reviewCount": 151,
     "reviewAverage": 4.42,
-    "userReview": "ベッドヘッドの埃と連絡のつかない対応に不安黒いベッドヘッドが埃で全面真っ白でした。拭き残しなどというレベルではありませんでしたので、気づいてないのかもしれませんが、拭いたお風呂タオルは真っ黒に…　2026-08-06 08:01:26投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=135569\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "ベッドヘッドの埃と連絡のつかない対応に不安黒いベッドヘッドが埃で全面真っ白でした。拭き残しなどというレベルではありませんでしたので、気づいてないのかもしれませんが、拭いたお風呂タオルは真っ黒に。",
     "hotelMinCharge": 13800,
     "address1": "長野県",
     "address2": "長野市元善町657",
@@ -108,11 +108,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13751/13751map.gif",
     "reviewCount": 593,
     "reviewAverage": 4.53,
-    "userReview": "以前より値上がりし料理の質も低下宿坊なのにこの金額は高過ぎる。以前は1万円代で泊まれた。食事もガラリと変わり全然美味しくない。以前の料理の方が良かった。クチコミの詳細はこちらか…　2026-09-10 16:03:12投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=13751\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "以前より値上がりし料理の質も低下宿坊なのにこの金額は高過ぎる。以前は1万円代で泊まれた。食事もガラリと変わり全然美味しくない。以前の料理の方が良かった。",
     "hotelMinCharge": 35000,
     "address1": "和歌山県",
     "address2": "伊都郡高野町高野山497",
-    "telephoneNo": "0736-56-2514",
+    "telephoneNo": "14",
     "access": "南海『難波駅』より南海電鉄高野線で『高野山駅』より南海バス10分",
     "parkingInformation": "有り　30台　無料　先着順",
     "nearestStation": "極楽橋",
@@ -137,7 +137,7 @@ export default function Page() {
     "hotelMinCharge": 11000,
     "address1": "山形県",
     "address2": "鶴岡市羽黒町手向95",
-    "telephoneNo": "0235-62-2372",
+    "telephoneNo": "72",
     "access": "羽越線鶴岡駅より車で20分／庄内空港より車で30分／山形自動車道 庄内あさひICより車で40分",
     "parkingInformation": "屋外駐車場30台完備　無料　予約不要",
     "nearestStation": "鶴岡",

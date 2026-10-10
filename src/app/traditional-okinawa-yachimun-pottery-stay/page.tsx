@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【やちむんの温もり】沖縄伝統の陶器で味わう琉球フレンチ＆美ら海オーシャンビューリゾート宿5選",
     "description": "ぽってりとした温かみのある沖縄伝統陶器「やちむん」に美しく盛り付けられた琉球フレンチや創作料理。読谷村や恩納村のエメラルドグリーンの海を望む極上リゾートで、沖縄の文化と美食に浸る旅を。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-    "datePublished": "2026-03-27T00:00:00+09:00",
-    "dateModified": "2026-03-27T00:00:00+09:00",
+    "datePublished": "T00:00:00+09:00",
+    "dateModified": "T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",
@@ -153,7 +153,7 @@ export default function FeaturePage() {
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「グランディスタイル 沖縄 読谷 ホテル＆リゾート」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「グランディスタイル 沖縄 読谷 ホテル＆リゾート」へは、那覇空港よりお車にて約５０分。最寄りの那覇空港駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「グランディスタイル 沖縄 読谷 ホテル＆リゾート」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「グランディスタイル 沖縄 読谷 ホテル＆リゾート」は『■温水プール通年OK・クラブラウンジ付■＜13歳以上限定＞“時間に縛られない”自由で贅沢な』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「グランディスタイル 沖縄 読谷 ホテル＆リゾート」と「レフ沖縄アリーナｂｙベッセルホテルズ｜ＲＥＦ沖縄アリーナ｜プール＆ＢＡＲ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「グランディスタイル 沖縄 読谷 ホテル＆リゾート。」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「グランディスタイル 沖縄 読谷 ホテル＆リゾート。」へは、那覇空港よりお車にて約５０分。最寄りの那覇空港駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「グランディスタイル 沖縄 読谷 ホテル＆リゾート。」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「グランディスタイル 沖縄 読谷 ホテル＆リゾート。」は『■温水プール通年OK・クラブラウンジ付■＜13歳以上限定＞“時間に縛られない”自由で贅沢な。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「グランディスタイル 沖縄 読谷 ホテル＆リゾート。」と「レフ沖縄アリーナｂｙベッセルホテルズ｜ＲＥＦ沖縄アリーナ｜プール＆ＢＡＲ。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -337,9 +337,9 @@ export default function FeaturePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 那覇空港駅よりアクセス。那覇空港よりお車にて約５０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「グランディスタイル 沖縄 読谷 ホテル＆リゾート」にチェックイン。■温水プール通年OK・クラブラウンジ付■＜13歳以上限定＞“時間に縛られない”自由で贅沢な大人の休日などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「グランディスタイル 沖縄 読谷 ホテル＆リゾート」の湯処へ。■温水プール通年OK・クラブラウンジ付■＜13歳以上限定＞“時間に縛らとともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「グランディスタイル 沖縄 読谷 ホテル＆リゾート」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「グランディスタイル 沖縄 読谷 ホテル＆リゾート。」にチェックイン。■温水プール通年OK・クラブラウンジ付■＜13歳以上限定＞“時間に縛られない”自由で贅沢な大人の休日などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「グランディスタイル 沖縄 読谷 ホテル＆リゾート。」の湯処へ。■温水プール通年OK・クラブラウンジ付■＜13歳以上限定＞“時間に縛らとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「グランディスタイル 沖縄 読谷 ホテル＆リゾート。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -348,9 +348,9 @@ export default function FeaturePage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「グランディスタイル 沖縄 読谷 ホテル＆リゾート」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「グランディスタイル 沖縄 読谷 ホテル＆リゾート」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「レフ沖縄アリーナｂｙベッセルホテルズ｜ＲＥＦ沖縄アリーナ｜プール＆ＢＡＲ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「グランディスタイル 沖縄 読谷 ホテル＆リゾート。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「グランディスタイル 沖縄 読谷 ホテル＆リゾート。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「レフ沖縄アリーナｂｙベッセルホテルズ｜ＲＥＦ沖縄アリーナ｜プール＆ＢＡＲ。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -367,20 +367,20 @@ export default function FeaturePage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「グランディスタイル 沖縄 読谷 ホテル＆リゾート」へのアクセスや移動方法について</span>
+                <span>Q. 「グランディスタイル 沖縄 読谷 ホテル＆リゾート。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「グランディスタイル 沖縄 読谷 ホテル＆リゾート」へは、那覇空港よりお車にて約５０分。最寄りの那覇空港駅からの経路案内も充実しています。
+                A. 「グランディスタイル 沖縄 読谷 ホテル＆リゾート。」へは、那覇空港よりお車にて約５０分。最寄りの那覇空港駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「グランディスタイル 沖縄 読谷 ホテル＆リゾート」の魅力や予約時のポイントは？</span>
+                <span>Q. 「グランディスタイル 沖縄 読谷 ホテル＆リゾート。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「グランディスタイル 沖縄 読谷 ホテル＆リゾート」は『■温水プール通年OK・クラブラウンジ付■＜13歳以上限定＞“時間に縛られない”自由で贅沢な』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「グランディスタイル 沖縄 読谷 ホテル＆リゾート。」は『■温水プール通年OK・クラブラウンジ付■＜13歳以上限定＞“時間に縛られない”自由で贅沢な。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -389,7 +389,7 @@ export default function FeaturePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「グランディスタイル 沖縄 読谷 ホテル＆リゾート」と「レフ沖縄アリーナｂｙベッセルホテルズ｜ＲＥＦ沖縄アリーナ｜プール＆ＢＡＲ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「グランディスタイル 沖縄 読谷 ホテル＆リゾート。」と「レフ沖縄アリーナｂｙベッセルホテルズ｜ＲＥＦ沖縄アリーナ｜プール＆ＢＡＲ。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

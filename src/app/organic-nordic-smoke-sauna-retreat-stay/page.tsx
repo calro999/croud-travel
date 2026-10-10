@@ -34,7 +34,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1642/1642map.gif",
     "reviewCount": 1165,
     "reviewAverage": 4.33,
-    "userReview": "風呂とサウナは快適だが部屋の設備に改善の余地あり宿泊はオマケみたいな感じで、風呂やサウナがメインという感じでした。風呂とサウナの管理をしっかりしているので安心して利用できました。リラックススペース…　2026-09-19 01:43:39投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=1642\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "風呂とサウナは快適だが部屋の設備に改善の余地あり宿泊はオマケみたいな感じで、風呂やサウナがメインという感じでした。風呂とサウナの管理をしっかりしているので安心して利用できました。リラックススペース。",
     "hotelMinCharge": 3502,
     "address1": "鹿児島県",
     "address2": "鹿児島市千日町13-24",
@@ -59,11 +59,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31683/31683map.gif",
     "reviewCount": 514,
     "reviewAverage": 4.88,
-    "userReview": "さいっこうの場所!!駐車場まで迎えにきてくれ、ロビーに行くまでの少しの時間もお話ししてくれたりと初めからすごい好印象でした!チェックイン時もすごい丁寧で笑顔が素敵で心が暖かい気持ちになりました…　2026-09-15 13:56:17投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=31683\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "さいっこうの場所!駐車場まで迎えにきてくれ、ロビーに行くまでの少しの時間もお話ししてくれたりと初めからすごい好印象でした!チェックイン時もすごい丁寧で笑顔が素敵で心が暖かい気持ちになりました。",
     "hotelMinCharge": 27000,
     "address1": "山梨県",
     "address2": "南都留郡山中湖村山中172",
-    "telephoneNo": "0555-62-1563",
+    "telephoneNo": "63",
     "access": "【都心から中央道or東名道で車2時間】【新宿からのアクセス◎→高速バス：バスタ新宿→山中局入口徒歩5秒】",
     "parkingInformation": "無料駐車場25台、屋根付き駐車場無、バイク専用駐車場無",
     "nearestStation": "",
@@ -84,7 +84,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20516/20516map.gif",
     "reviewCount": 3253,
     "reviewAverage": 4.52,
-    "userReview": "コスパ最高、静かな部屋への配慮に感謝コスパ最高!いつも端(人通りが少ない)の部屋を確保いただき、ご配慮本当に感謝しております。今後ともよろしくお願いいたします。クチコミの詳細はこちらから　ht…　2026-09-14 12:31:23投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=20516\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "コスパ最高、静かな部屋への配慮に感謝コスパ最高!いつも端(人通りが少ない)の部屋を確保いただき、ご配慮本当に感謝しております。今後ともよろしくお願いいたします。",
     "hotelMinCharge": 6200,
     "address1": "兵庫県",
     "address2": "神戸市中央区下山手通2-2-10",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「天然温泉サウナ ニューニシノ」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「天然温泉サウナ ニューニシノ」へは、★JR鹿児島中央駅から車で５分 ★市電「天文館」電停より徒歩３分 ★天文館の中心にあり、交通に便利！。最寄りの鹿児島中央駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「天然温泉サウナ ニューニシノ」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉サウナ ニューニシノ」は『天文館電停3分！大浴場＆フィンランドサウナで非日常体験◆観光・ビジネスの拠点に最適 男性専』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉サウナ ニューニシノ」と「富士山の見える全室個室サウナ付旅館 しずく」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「天然温泉サウナ ニューニシノ」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「天然温泉サウナ ニューニシノ」へは、★JR鹿児島中央駅から車で５分 ★市電「天文館」電停より徒歩３分 ★天文館の中心にあり、交通に便利！。最寄りの鹿児島中央駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「天然温泉サウナ ニューニシノ」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉サウナ ニューニシノ」は『天文館電停3分！大浴場＆フィンランドサウナで非日常体験◆観光・ビジネスの拠点に最適 男性専。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉サウナ ニューニシノ」と「富士山の見える全室個室サウナ付旅館 しずく。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -598,7 +598,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「天然温泉サウナ ニューニシノ」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「天然温泉サウナ ニューニシノ」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「富士山の見える全室個室サウナ付旅館 しずく」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「富士山の見える全室個室サウナ付旅館 しずく。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -628,7 +628,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「天然温泉サウナ ニューニシノ」は『天文館電停3分！大浴場＆フィンランドサウナで非日常体験◆観光・ビジネスの拠点に最適 男性専』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「天然温泉サウナ ニューニシノ」は『天文館電停3分！大浴場＆フィンランドサウナで非日常体験◆観光・ビジネスの拠点に最適 男性専。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -637,7 +637,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「天然温泉サウナ ニューニシノ」と「富士山の見える全室個室サウナ付旅館 しずく」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「天然温泉サウナ ニューニシノ」と「富士山の見える全室個室サウナ付旅館 しずく。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

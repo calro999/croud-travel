@@ -36,11 +36,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76913/76913map.gif",
     "reviewCount": 539,
     "reviewAverage": 4.5,
-    "userReview": "清潔で雰囲気の良い館内と最高の景色に感動館内は清潔で雰囲気も良く素敵な宿でした特別室に滞在しましたが、部屋のお風呂や窓からの景色が最高に良かったですリピートしたいと思いますクチコミの詳…　 ",
+    "userReview": "清潔で雰囲気の良い館内と最高の景色に感動館内は清潔で雰囲気も良く素敵な宿でした特別室に滞在しましたが、部屋のお風呂や窓からの景色が最高に良かったですリピートしたいと思いますクチコミの詳。",
     "hotelMinCharge": 16500,
     "address1": "京都府",
     "address2": "宮津市字文珠510",
-    "telephoneNo": "0772-22-7111",
+    "telephoneNo": "11",
     "access": "京都丹後鉄道　天橋立駅より徒歩3分",
     "parkingInformation": "有り　３０台　無料　予約不要",
     "nearestStation": "天橋立",
@@ -66,7 +66,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13913/13913map.gif",
     "reviewCount": 1074,
     "reviewAverage": 4.68,
-    "userReview": "花火に癒やされ、リラックスして大会へ翌日の陸上大会の為宿泊しました夜には10分程花火が上がり最高でしたお部屋もリラックス出来る空間でしっかりと疲れも睡眠もとれ大会に挑むことが出来ました…　 ",
+    "userReview": "花火に癒やされ、リラックスして大会へ翌日の陸上大会の為宿泊しました夜には10分程花火が上がり最高でしたお部屋もリラックス出来る空間でしっかりと疲れも睡眠もとれ大会に挑むことが出来ました。",
     "hotelMinCharge": 8100,
     "address1": "静岡県",
     "address2": "静岡市清水区馬走1500-2",
@@ -96,7 +96,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70274/70274map.gif",
     "reviewCount": 1590,
     "reviewAverage": 4,
-    "userReview": "駅近で便利、朝食は少し時間をずらすのがコツ敦賀訪問時は常宿にしています。駅に近く、コンビニやスーパーも徒歩圏内にあり非常に便利な立地です。設備は少し古めですが、清掃はこまめに行われていて清潔感はあ…　 ",
+    "userReview": "駅近で便利、朝食は少し時間をずらすのがコツ敦賀訪問時は常宿にしています。駅に近く、コンビニやスーパーも徒歩圏内にあり非常に便利な立地です。設備は少し古めですが、清掃はこまめに行われていて清潔感はあ。",
     "hotelMinCharge": 5650,
     "address1": "福井県",
     "address2": "敦賀市鉄輪町1-6-2",
@@ -182,7 +182,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「天橋立温泉 和のリゾート 文珠荘」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「天橋立温泉 和のリゾート 文珠荘」へは、京都丹後鉄道 天橋立駅より徒歩3分。最寄りの天橋立駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「天橋立温泉 和のリゾート 文珠荘」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「天橋立温泉 和のリゾート 文珠荘」は『日本三景天橋立の運河に佇む宿。2023年春サウナ付大浴場誕生。新しい和のリゾートをお楽しみ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「天橋立温泉 和のリゾート 文珠荘」と「日本平ホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「天橋立温泉 和のリゾート 文珠荘」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「天橋立温泉 和のリゾート 文珠荘」へは、京都丹後鉄道 天橋立駅より徒歩3分。最寄りの天橋立駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「天橋立温泉 和のリゾート 文珠荘」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「天橋立温泉 和のリゾート 文珠荘」は『日本三景天橋立の運河に佇む宿。2023年春サウナ付大浴場誕生。新しい和のリゾートをお楽しみ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「天橋立温泉 和のリゾート 文珠荘」と「日本平ホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         
         {/* 特集の魅力セクション */}
@@ -488,7 +488,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「天橋立温泉 和のリゾート 文珠荘」は『日本三景天橋立の運河に佇む宿。2023年春サウナ付大浴場誕生。新しい和のリゾートをお楽しみ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「天橋立温泉 和のリゾート 文珠荘」は『日本三景天橋立の運河に佇む宿。2023年春サウナ付大浴場誕生。新しい和のリゾートをお楽しみ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

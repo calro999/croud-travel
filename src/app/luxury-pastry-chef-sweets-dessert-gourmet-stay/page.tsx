@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/luxury-pastry-chef-sweets-dessert-gourmet-stay"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D149369%26f_flg%3DPLAN",
     "hotelMinCharge": 7500,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/149369/149369.jpg",
-    "userReview": "国際通り散策に便利な好立地素泊まりで利用しました。立地がよく国際通りを散策するのに便利です。クチコミの詳細はこちらから　https://review.travel.rakuten.co.j…　2026-09-19 07:26:14投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=149369\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "国際通り散策に便利な好立地素泊まりで利用しました。立地がよく国際通りを散策するのに便利です。",
     "reviewAverage": 4.32,
     "reviewCount": 927,
     "address": "沖縄県那覇市松尾1-3-6",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D164935%26f_flg%3DPLAN",
     "hotelMinCharge": 2841,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/164935/164935.jpg",
-    "userReview": "仕事終わりに気軽に寄れる最高のロケーションと丁寧な印象の朝食を食べについつい訪れるホテル久々に訪れました今回も友人とおしゃべりをするために利用させていただきました部屋はいつもよりも少しアッ…　2026-09-20 02:23:55投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=164935\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "仕事終わりに気軽に寄れる最高のロケーションと丁寧な印象の朝食を食べについつい訪れるホテル久々に訪れました今回も友人とおしゃべりをするために利用させていただきました部屋はいつもよりも少しアッ。",
     "reviewAverage": 4.48,
     "reviewCount": 2698,
     "address": "大阪府大阪市港区弁天1-2-1",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D184275%26f_flg%3DPLAN",
     "hotelMinCharge": 9900,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184275/184275.jpg",
-    "userReview": "ブッフェがどれもおいしく種類も豊富でとても良い旅行になりました。部屋も綺麗で広い。備付の設備も充実していました。強いて言えば温泉や大浴場が無いので部屋の風呂が広いと嬉しかったです。クチコミ…　2026-09-14 12:56:13投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=184275\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "ブッフェがどれもおいしく種類も豊富でとても良い旅行になりました。部屋も綺麗で広い。備付の設備も充実していました。強いて言えば温泉や大浴場が無いので部屋の風呂が広いと嬉しかったです。クチコミ。",
     "reviewAverage": 4.7,
     "reviewCount": 878,
     "address": "石川県金沢市尾張町1丁目1番1号",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D179887%26f_flg%3DPLAN",
     "hotelMinCharge": 5800,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/179887/179887.jpg",
-    "userReview": "チェックインの対応が不快、部屋の造りも残念チェックイン時の対応が不快極まりなかった。また、ユニットバスがベッドからガラスとカーテンで仕切られラブホテルのようだった。クチコミの詳細はこちらか…　2026-09-18 20:30:03投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=179887\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "また、ユニットバスがベッドからガラスとカーテンで仕切られラブホテルのようだった。",
     "reviewAverage": 4.41,
     "reviewCount": 1242,
     "address": "山形県酒田市幸町1-10-20",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D39175%26f_flg%3DPLAN",
     "hotelMinCharge": 15400,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/39175/39175.jpg",
-    "userReview": "風呂が良いクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/39175?reviewId=33123479436925　2026-09-19 09:17:48投稿",
+    "userReview": "落ち着いた心地よい空間の中、温かい温泉とおいしいお料理で日頃の疲れを癒やすことができました。",
     "reviewAverage": 4.25,
     "reviewCount": 3320,
     "address": "北海道登別市登別温泉町154",

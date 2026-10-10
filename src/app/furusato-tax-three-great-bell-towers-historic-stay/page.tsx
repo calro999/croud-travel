@@ -35,7 +35,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108920/108920map.gif",
     "reviewCount": 327,
     "reviewAverage": 4.61,
-    "userReview": "駐車場無料と円山公園の景色、朝風呂も最高駐車場が無料なのと出し入れ自由なのは助かりました。ご飯もおいしかったです。部屋から円山公園が見えて景色も最高でした。大浴場も朝入れるので良かったです。…",
+    "userReview": "駐車場無料と円山公園の景色、朝風呂も最高駐車場が無料なのと出し入れ自由なのは助かりました。ご飯もおいしかったです。部屋から円山公園が見えて景色も最高でした。大浴場も朝入れるので良かったです。",
     "hotelMinCharge": 8800,
     "address1": "京都府",
     "address2": "京都市東山区林下町400-2",
@@ -65,11 +65,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/73944/73944map.gif",
     "reviewCount": 298,
     "reviewAverage": 4.06,
-    "userReview": "宇治川沿いの好立地、価格維持がありがたい宇治川のすぐ側という立地が素晴らしいです。設備の古さは否めませんが、ほぼ問題ありませんでした。というか新しくなって高くなるよりも、このまま今の値段の方があり…",
+    "userReview": "宇治川沿いの好立地、価格維持がありがたい宇治川のすぐ側という立地が素晴らしいです。設備の古さは否めませんが、ほぼ問題ありませんでした。というか新しくなって高くなるよりも、このまま今の値段の方があり。",
     "hotelMinCharge": 0,
     "address1": "京都府",
     "address2": "宇治市宇治塔川20",
-    "telephoneNo": "0774-21-2126",
+    "telephoneNo": "26",
     "access": "ＪＲ・京阪　宇治駅よりお車で約5分",
     "parkingInformation": "ホテル前にございます。無料です！（予約不要）",
     "nearestStation": "宇治（京都）",
@@ -95,7 +95,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16068/16068map.gif",
     "reviewCount": 5029,
     "reviewAverage": 4.42,
-    "userReview": "琵琶湖一望でコスパ最高、また利用したい 琵琶湖が一望できるロケーションで、琵琶湖周辺に泊まるならお薦めのホテルです。食事なし、17時以降チェックインのプランでしたが、クーポン使用で、一人5,600…",
+    "userReview": "琵琶湖一望でコスパ最高、また利用したい 琵琶湖が一望できるロケーションで、琵琶湖周辺に泊まるならお薦めのホテルです。食事なし、17時以降チェックインのプランでしたが、クーポン使用で、一人5,600。",
     "hotelMinCharge": 5000,
     "address1": "滋賀県",
     "address2": "大津市におの浜4-7-7",
@@ -181,7 +181,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「知恩院 和順会館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「知恩院 和順会館」へは、市バス206系統 知恩院前下車、徒歩５分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「知恩院 和順会館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「知恩院 和順会館」は『喧騒の日々から離れ、 ゆったりとした時を過ごし、お念仏で心を整える 知恩院らしいおもてなし』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「知恩院 和順会館」と「花やしき浮舟園」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「知恩院 和順会館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「知恩院 和順会館」へは、市バス206系統 知恩院前下車、徒歩５分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「知恩院 和順会館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「知恩院 和順会館」は『喧騒の日々から離れ、 ゆったりとした時を過ごし、お念仏で心を整える 知恩院らしいおもてなし。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「知恩院 和順会館」と「花やしき浮舟園」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* リードセクション */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-4">
@@ -510,7 +510,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「知恩院 和順会館」は『喧騒の日々から離れ、 ゆったりとした時を過ごし、お念仏で心を整える 知恩院らしいおもてなし』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「知恩院 和順会館」は『喧騒の日々から離れ、 ゆったりとした時を過ごし、お念仏で心を整える 知恩院らしいおもてなし。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

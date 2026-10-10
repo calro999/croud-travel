@@ -135,7 +135,7 @@ export default function FeaturePage() {
             【今すぐ予約したい！秋の黒川温泉】<br className="hidden sm:inline" />入湯手形露天風呂巡りとあか牛会席の名旅館5選
           </h1>
           <p className="max-w-2xl mx-auto text-sm md:text-base text-stone-200 leading-relaxed">
-            「街全体が一つの宿、通りは廊下、旅館は客室」。名物の木製入湯手形を手に、色づく渓流沿いの露天風呂を浴衣姿で巡る贅沢な秋旅。今すぐ予約して訪れたい極上宿をご案内。
+            「街全体が一つの宿、通りは廊下、旅館は客室。」。名物の木製入湯手形を手に、色づく渓流沿いの露天風呂を浴衣姿で巡る贅沢な秋旅。今すぐ予約して訪れたい極上宿をご案内。
           </p>
         </div>
       </header>

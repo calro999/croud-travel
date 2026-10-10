@@ -34,11 +34,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/158471/158471map.gif",
     "reviewCount": 1118,
     "reviewAverage": 4.36,
-    "userReview": "部屋からの眺めと食事が最高で大満足部屋はキレイで眺めも良く、食事は夕食・朝食ともに非常に美味しく、食べ過ぎてしまいました。クチコミの詳細はこちらから　https://review.travel…　2026-09-17 18:54:47投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=158471\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "部屋からの眺めと食事が最高で大満足部屋はキレイで眺めも良く、食事は夕食・朝食ともに非常に美味しく、食べ過ぎてしまいました。",
     "hotelMinCharge": 10640,
     "address1": "山梨県",
     "address2": "富士吉田市新倉2654",
-    "telephoneNo": "0555-21-7510",
+    "telephoneNo": "10",
     "access": "富士急ハイランド駅より徒歩５分♪ 　富士急行線河口湖駅より徒歩１６分 　中央自動車道河口湖ICより車で１０分",
     "parkingInformation": "有　７４台　無料　事前のご連絡不要　空いてる区画スペースにお停めください。",
     "nearestStation": "富士急ハイランド",
@@ -59,11 +59,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/71926/71926map.gif",
     "reviewCount": 2366,
     "reviewAverage": 4.24,
-    "userReview": "清潔感がありコスパは良いが虫の匂いが気になる全体的に清潔感のあるホテルで満足ですが、ロビー以外の場所でそこはかとなくカメムシの香りがします。それが気にならない方ならとてもコスパの良いホテルです…　2026-09-19 18:28:06投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=71926\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "清潔感がありコスパは良いが虫の匂いが気になる全体的に清潔感のあるホテルで満足ですが、ロビー以外の場所でそこはかとなくカメムシの香りがします。それが気にならない方ならとてもコスパの良いホテルです。",
     "hotelMinCharge": 4250,
     "address1": "三重県",
     "address2": "亀山市小野町北割532-2",
-    "telephoneNo": "0595-84-1300",
+    "telephoneNo": "00",
     "access": "亀山ＩＣより大津方面へ車で１分　ＪＲ亀山駅よりタクシーで１０分　ＪＲ関駅よりタクシーで５分　　目の前のコンビニが目印！",
     "parkingInformation": "106台まで無料（平面・予約不要）、大型車（4トン以上クラス）は有料",
     "nearestStation": "亀山（三重）",
@@ -84,7 +84,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/187619/187619map.gif",
     "reviewCount": 621,
     "reviewAverage": 4.37,
-    "userReview": "朝食が美味しく、細やかなサービスに満足山奥。雨の日だったのであまり景色は見えませんでしたが、晴れの日に行ったら景色は綺麗だと思います。近くに公園もあります。お風呂は露天風呂がありますが、景色は…　2026-09-17 19:57:16投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=187619\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "朝食が美味しく、細やかなサービスに満足山奥。雨の日だったのであまり景色は見えませんでしたが、晴れの日に行ったら景色は綺麗だと思います。近くに公園もあります。お風呂は露天風呂がありますが、景色は。",
     "hotelMinCharge": 4500,
     "address1": "徳島県",
     "address2": "徳島市八万町中津山3-70",
@@ -109,7 +109,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/148952/148952map.gif",
     "reviewCount": 2381,
     "reviewAverage": 4.22,
-    "userReview": "駐車場は遠いが、それ以外は最高!駐車場が少し遠い為、荷物が多いと不便。それ以外は最高!チェックインもスムーズ、部屋も清潔、大浴場もあり、立地も良かった気がします。松山行く時はまた泊まり…　2026-09-19 10:36:29投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=148952\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "駐車場は遠いが、それ以外は最高!駐車場が少し遠い為、荷物が多いと不便。それ以外は最高!チェックインもスムーズ、部屋も清潔、大浴場もあり、立地も良かった気がします。松山行く時はまた泊まり。",
     "hotelMinCharge": 6300,
     "address1": "愛媛県",
     "address2": "松山市大街道2-5-12　",
@@ -134,7 +134,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/79432/79432map.gif",
     "reviewCount": 421,
     "reviewAverage": 4.51,
-    "userReview": "静かな山の中で落ち着いた大人向けの空間山の中で静かなところで、落ち着いた大人向けの宿でした。奥入瀬から酸ヶ湯を経由してきました。新青森にもスムーズに行けました!クチコミの詳細はこちらから　ht…　2026-09-19 20:52:12投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=79432\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "静かな山の中で落ち着いた大人向けの空間山の中で静かなところで、落ち着いた大人向けの宿でした。奥入瀬から酸ヶ湯を経由してきました。新青森にもスムーズに行けました!",
     "hotelMinCharge": 5900,
     "address1": "青森県",
     "address2": "青森市荒川八甲田山中",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ホテルマイステイズ富士山 展望温泉」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ホテルマイステイズ富士山 展望温泉」へは、富士急ハイランド駅より徒歩５分♪ 富士急行線河口湖駅より徒歩１６分 中央自動車道河口湖ICより車で１０分。最寄りの富士急ハイランド駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ホテルマイステイズ富士山 展望温泉」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ホテルマイステイズ富士山 展望温泉」は『富士急ハイランドまで徒歩５分、大浴場・露天風呂あり！全室禁煙です』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ホテルマイステイズ富士山 展望温泉」と「ＣＡＮＤＥＯ ＨＯＴＥＬＳ松山大街道」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ホテルマイステイズ富士山 展望温泉」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ホテルマイステイズ富士山 展望温泉」へは、富士急ハイランド駅より徒歩５分♪ 富士急行線河口湖駅より徒歩１６分 中央自動車道河口湖ICより車で１０分。最寄りの富士急ハイランド駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ホテルマイステイズ富士山 展望温泉」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ホテルマイステイズ富士山 展望温泉」は『富士急ハイランドまで徒歩５分、大浴場・露天風呂あり！全室禁煙です。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ホテルマイステイズ富士山 展望温泉」と「ＣＡＮＤＥＯ ＨＯＴＥＬＳ松山大街道」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -628,7 +628,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「ホテルマイステイズ富士山 展望温泉」は『富士急ハイランドまで徒歩５分、大浴場・露天風呂あり！全室禁煙です』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「ホテルマイステイズ富士山 展望温泉」は『富士急ハイランドまで徒歩５分、大浴場・露天風呂あり！全室禁煙です。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -46,8 +46,8 @@ export default function Page() {
       "headline": "【讃岐の風待ち港町・引田の商家町と白鳥神社新春初詣】2026-2027年冬の香川・東かがわ！安戸池の冬オリーブハマチと瀬戸内温泉名宿5選",
       "description": "日本初のハマチ養殖発祥・安戸池の冬オリーブハマチと、日本武尊白鳥伝説の白鳥神社新春初詣！風待ち港町・引田のレトロ商家町散策。瀬戸内海の潮騒と美肌温泉で心身を解きほぐす冬の東かがわ・さぬき厳選名宿5選。",
       "image": "https://img.travel.rakuten.co.jp/share/HOTEL/68660/68660.jpg",
-      "datePublished": "2026-10-09",
-      "dateModified": "2026-10-09",
+      "datePublished": "",
+      "dateModified": "",
       "author": {
         "@type": "Organization",
         "name": "Japan Travel Curations"
@@ -396,7 +396,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「素晴らしい景観と美味しい朝食に大満足本当は息子家族と来る予定でしたが体調不良もありわたしたちだけの宿泊になりました。朝食付きですが、てんこ盛りの釜揚げしらすとご飯、美味しいうどん、食べきれず残して… 2026-09-24 09:06:29投稿 つづきはこちら」"}</span>
+                  <span>{"「素晴らしい景観と美味しい朝食に大満足本当は息子家族と来る予定でしたが体調不良もありわたしたちだけの宿泊になりました。朝食付きですが、てんこ盛りの釜揚げしらすとご飯、美味しいうどん、食べきれず残して。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -463,7 +463,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「期待外れの食事と清掃不備にがっかり「【竹】* 満腹牛肉と鮮魚の“いいとこ取り”会席 2食付当館イチオシ!人気もナンバーワン」 とのことで とても期待したが 刺身や煮物は普通で、牛肉は、単4電池… 2026-10-03 14:45:09投稿 つづきはこちら」"}</span>
+                  <span>{"「期待外れの食事と清掃不備にがっかり「【竹】* 満腹牛肉と鮮魚の“いいとこ取り”会席 2食付当館イチオシ!人気もナンバーワン。」 とのことで とても期待したが 刺身や煮物は普通で、牛肉は、単4電池… 」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -530,7 +530,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「モチモチのベーグルが美味しく部屋も清潔朝のベーグルはモチモチで美味しかったです。ベーコンはついてたのですが、ジャムやバターなどあるとよりよいと思いました。部屋は清潔感あって過ごしやすかったですし、… 2026-09-23 12:50:03投稿 つづきはこちら」"}</span>
+                  <span>{"「モチモチのベーグルが美味しく部屋も清潔朝のベーグルはモチモチで美味しかったです。ベーコンはついてたのですが、ジャムやバターなどあるとよりよいと思いました。部屋は清潔感あって過ごしやすかったですし、。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -597,7 +597,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「ゆっくり過ごすことができましたご飯がとても美味しかったです。夕ご飯は1つずつお料理の説明をして下さり、スタッフの方の対応も丁寧でゆっくり楽しむことができました。ただ、ホテルに着いた際、車を停め… 2026-09-27 12:42:35投稿 つづきはこちら」"}</span>
+                  <span>{"「ゆっくり過ごすことができましたご飯がとても美味しかったです。夕ご飯は1つずつお料理の説明をして下さり、スタッフの方の対応も丁寧でゆっくり楽しむことができました。ただ、ホテルに着いた際、車を停め。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -664,7 +664,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「広くて綺麗な部屋、段差がなく快適な空間部屋が広くて綺麗でした。繁華街からは離れていたのかもしれませんが、車の乗り入れが簡単で良かったです。部屋の段差が無くて、使い心地も良かったです。ク… 2026-10-02 14:45:59投稿 つづきはこちら」"}</span>
+                  <span>{"「広くて綺麗な部屋、段差がなく快適な空間部屋が広くて綺麗でした。繁華街からは離れていたのかもしれませんが、車の乗り入れが簡単で良かったです。部屋の段差が無くて、使い心地も良かったです。ク。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">

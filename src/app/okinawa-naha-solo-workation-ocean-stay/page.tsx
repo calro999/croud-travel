@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-11T02:40:00+09:00',
-    dateModified: '2026-09-11T02:40:00+09:00',
+    datePublished: 'T02:40:00+09:00',
+    dateModified: 'T02:40:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/okinawa-naha-solo-workation-ocean-stay',
   };
 
@@ -161,7 +161,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.49点。「立ち湯露天風呂からの夕日と飛行機の景色が感動的で、一人で何時間でも過ごせました」「ウミカジテラスもすぐで最高のワーケーションになりました」と大絶賛。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.49点。「立ち湯露天風呂からの夕日と飛行機の景色が感動的で、一人で何時間でも過ごせました。」「ウミカジテラスもすぐで最高のワーケーションになりました。」と大絶賛。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -236,7 +236,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.58点。「国際通りすぐで立地が最高なのに、館内は静かでラウンジでのPC作業が非常に捗りました」「お部屋も広く朝食も美味しくて一人旅の定宿です」と高評価。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.58点。「国際通りすぐで立地が最高なのに、館内は静かでラウンジでのPC作業が非常に捗りました。」「お部屋も広く朝食も美味しくて一人旅の定宿です。」と高評価。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -311,7 +311,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.35点。「部屋の窓からの港の景色が素晴らしく、静かで仕事にとても集中できました」「アートに囲まれた空間がお洒落で、朝食のパスタやサラダも絶品」とクリエイターから大好評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.35点。「部屋の窓からの港の景色が素晴らしく、静かで仕事にとても集中できました。」「アートに囲まれた空間がお洒落で、朝食のパスタやサラダも絶品。」とクリエイターから大好評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">

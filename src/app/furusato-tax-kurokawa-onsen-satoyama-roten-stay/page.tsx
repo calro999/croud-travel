@@ -39,8 +39,8 @@ export default function FurusatoArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-10T17:10:00+09:00',
-    dateModified: '2026-09-10T17:10:00+09:00',
+    datePublished: 'T17:10:00+09:00',
+    dateModified: 'T17:10:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-kurokawa-onsen-satoyama-roten-stay',
   };
 
@@ -49,7 +49,7 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「黒川温泉 お宿のし湯」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「黒川温泉 お宿のし湯」へは、車で福岡空港から2時間半、熊本空港から1時間半。最寄りの阿蘇駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「黒川温泉 お宿のし湯」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「黒川温泉 お宿のし湯」は『のしを付けて献上したいという思いをこめた宿。木の温もりと緑の木々に包まれてゆっくりお過ごし』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「黒川温泉 お宿のし湯」と「黒川温泉 旅館 山河」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「黒川温泉 お宿のし湯」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「黒川温泉 お宿のし湯」へは、車で福岡空港から2時間半、熊本空港から1時間半。最寄りの阿蘇駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「黒川温泉 お宿のし湯」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「黒川温泉 お宿のし湯」は『のしを付けて献上したいという思いをこめた宿。木の温もりと緑の木々に包まれてゆっくりお過ごし。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「黒川温泉 お宿のし湯」と「黒川温泉 旅館 山河」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -90,7 +90,7 @@ export default function FurusatoArticlePage() {
             田の原川のせせらぎと茅葺き屋根の情緒——杉木立の小径を入湯手形で巡る至高の里山リトリート
           </h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
-            熊本県阿蘇郡南小国町、阿蘇カルデラの北側、標高約700メートルの山間に湧き出る黒川（くろかわ）温泉。「街全体が一つの宿、通りは廊下、旅館は客室」という景観づくりの哲学のもと、派手な看板を排し、黒を基調とした木造建築と豊かな雑木林が調和した日本屈指の美しい里山温泉地です。ミシュラン・グリーンガイド・ジャポンでも二つ星を獲得し、国内外の温泉ファンから「一度は訪れたい憧れの秘湯」として熱狂的な支持を集めています。
+            熊本県阿蘇郡南小国町、阿蘇カルデラの北側、標高約700メートルの山間に湧き出る黒川（くろかわ）温泉。「街全体が一つの宿、通りは廊下、旅館は客室。」という景観づくりの哲学のもと、派手な看板を排し、黒を基調とした木造建築と豊かな雑木林が調和した日本屈指の美しい里山温泉地です。ミシュラン・グリーンガイド・ジャポンでも二つ星を獲得し、国内外の温泉ファンから「一度は訪れたい憧れの秘湯」として熱狂的な支持を集めています。
           </p>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             黒川温泉の名物といえば、地元産小国杉で作られた木製の「入湯手形」。加盟旅館の多彩な露天風呂の中から好きな3箇所を自由にめぐることができ、川沿いの野天風呂や竹林風呂、洞窟風呂など、大自然と一体化する湯浴みを楽しめます。夕食には阿蘇の雄大な草原で育ったヘルシーで旨味豊かなブランド牛「あか牛」のステーキや炭火焼き、山菜や川魚を取り入れた山里会席を堪能。熊本県南小国町へのふるさと納税を利用すれば、30%相当の楽天トラベルクーポンにより憧れの隠れ宿へお得に宿泊でき、心洗われる休日が叶います。
@@ -203,7 +203,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.66点、口コミ800件超。「雑木林の雰囲気が素晴らしくお風呂も最高」「接客が親切で料理も美味しく、本当にリラックスできた」と熱烈な支持。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.66点、口コミ800件超。「雑木林の雰囲気が素晴らしくお風呂も最高」「接客が親切で料理も美味しく、本当にリラックスできた。」と熱烈な支持。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -287,7 +287,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.68点、口コミ1300件超。「二種類の源泉がどちらも素晴らしく森の中の露天風呂が最高」「スタッフの温かさと美味しいあか牛に大満足」と絶賛。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.68点、口コミ1300件超。「二種類の源泉がどちらも素晴らしく森の中の露天風呂が最高。」「スタッフの温かさと美味しいあか牛に大満足。」と絶賛。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.63点、口コミ1100件超。「びょうぶ岩を眺めながら入る露天風呂が圧巻」「お部屋の雰囲気も食事も素晴らしく黒川で最高の宿」と高評価。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.63点、口コミ1100件超。「びょうぶ岩を眺めながら入る露天風呂が圧巻。」「お部屋の雰囲気も食事も素晴らしく黒川で最高の宿。」と高評価。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -578,7 +578,7 @@ export default function FurusatoArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「黒川温泉 お宿のし湯」は『のしを付けて献上したいという思いをこめた宿。木の温もりと緑の木々に包まれてゆっくりお過ごし』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「黒川温泉 お宿のし湯」は『のしを付けて献上したいという思いをこめた宿。木の温もりと緑の木々に包まれてゆっくりお過ごし。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

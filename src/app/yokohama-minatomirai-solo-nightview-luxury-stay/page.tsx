@@ -7,11 +7,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/yokohama-minatomirai-solo-nightview-luxury-stay/" },
   title: '【横浜・みなとみらいひとり旅】大観覧車バルコニー・天空プール・Kアリーナ遠征！大人が心奪われる極上夜景ホテル 厳選3選',
-  description: '「コスモクロックのイルミネーションを部屋のバルコニーから独り占めしたい」「KアリーナやぴあアリーナMMでのライブ終演後、ラグジュアリーな空間で優雅に余韻に浸りたい」。大人ソロトラベラーへ。みなとみらい唯一のバルコニー付き「横浜ベイホテル東急」、ウェルネスを極めた最新ライフスタイル「ウェスティンホテル横浜」、20階スカイプールと絶景ロビーを誇る「三井ガーデンホテル横浜みなとみらいプレミア」を徹底特集。',
+  description: '「コスモクロックのイルミネーションを部屋のバルコニーから独り占めしたい。」「KアリーナやぴあアリーナMMでのライブ終演後、ラグジュアリーな空間で優雅に余韻に浸りたい。」。大人ソロトラベラーへ。みなとみらい唯一のバルコニー付き「横浜ベイホテル東急」、ウェルネスを極めた最新ライフスタイル「ウェスティンホテル横浜」、20階スカイプールと絶景ロビーを誇る「三井ガーデンホテル横浜みなとみらいプレミア。」を徹底特集。',
   keywords: '横浜 みなとみらい 一人旅 ホテル,横浜 夜景 ホテル 一人,横浜ベイホテル東急 バルコニー,ウェスティンホテル横浜 宿泊,Kアリーナ 遠征 ホテル 横浜',
   openGraph: {
     title: '【横浜・みなとみらいひとり旅】大観覧車バルコニー・天空プール・Kアリーナ遠征！大人が心奪われる極上夜景ホテル 厳選3選',
-    description: '「コスモクロックのイルミネーションを部屋のバルコニーから独り占めしたい」「KアリーナやぴあアリーナMMでのライブ終演後、ラグジュアリーな空間で優雅に余韻に浸りたい」。大人ソロトラベラーへ。みなとみらい唯一のバルコニー付き「横浜ベイホテル東急」、ウェルネスを極めた最新ライフスタイル「ウェスティンホテル横浜」、20階スカイプールと絶景ロビーを誇る「三井ガーデンホテル横浜みなとみらいプレミア」を徹底特集。',
+    description: '「コスモクロックのイルミネーションを部屋のバルコニーから独り占めしたい。」「KアリーナやぴあアリーナMMでのライブ終演後、ラグジュアリーな空間で優雅に余韻に浸りたい。」。大人ソロトラベラーへ。みなとみらい唯一のバルコニー付き「横浜ベイホテル東急」、ウェルネスを極めた最新ライフスタイル「ウェスティンホテル横浜」、20階スカイプールと絶景ロビーを誇る「三井ガーデンホテル横浜みなとみらいプレミア。」を徹底特集。',
     url: 'https://croud-travel.pages.dev/yokohama-minatomirai-solo-nightview-luxury-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -24,7 +24,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【横浜・みなとみらいひとり旅】大観覧車バルコニー・天空プール・Kアリーナ遠征！大人が心奪われる極上夜景ホテル 厳選3選',
-    description: '「コスモクロックのイルミネーションを部屋のバルコニーから独り占めしたい」「KアリーナやぴあアリーナMMでのライブ終演後、ラグジュアリーな空間で優雅に余韻に浸りたい」。大人ソロトラベラーへ。みなとみらい唯一のバルコニー付き「横浜ベイホテル東急」、ウェルネスを極めた最新ライフスタイル「ウェスティンホテル横浜」、20階スカイプールと絶景ロビーを誇る「三井ガーデンホテル横浜みなとみらいプレミア」を徹底特集。',
+    description: '「コスモクロックのイルミネーションを部屋のバルコニーから独り占めしたい。」「KアリーナやぴあアリーナMMでのライブ終演後、ラグジュアリーな空間で優雅に余韻に浸りたい。」。大人ソロトラベラーへ。みなとみらい唯一のバルコニー付き「横浜ベイホテル東急」、ウェルネスを極めた最新ライフスタイル「ウェスティンホテル横浜」、20階スカイプールと絶景ロビーを誇る「三井ガーデンホテル横浜みなとみらいプレミア。」を徹底特集。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・出張調査班',
@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-11T02:50:00+09:00',
-    dateModified: '2026-09-11T02:50:00+09:00',
+    datePublished: 'T02:50:00+09:00',
+    dateModified: 'T02:50:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/yokohama-minatomirai-solo-nightview-luxury-stay',
   };
 
@@ -78,7 +78,7 @@ export default function ArticlePage() {
           【横浜・みなとみらいひとり旅】大観覧車バルコニー・天空プール・Kアリーナ遠征！大人が心奪われる極上夜景ホテル 厳選3選
         </h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
-          「コスモクロックのイルミネーションを部屋のバルコニーから独り占めしたい」「KアリーナやぴあアリーナMMでのライブ終演後、ラグジュアリーな空間で優雅に余韻に浸りたい」。大人ソロトラベラーへ。みなとみらい唯一のバルコニー付き「横浜ベイホテル東急」、ウェルネスを極めた最新ライフスタイル「ウェスティンホテル横浜」、20階スカイプールと絶景ロビーを誇る「三井ガーデンホテル横浜みなとみらいプレミア」を徹底特集。
+          「コスモクロックのイルミネーションを部屋のバルコニーから独り占めしたい。」「KアリーナやぴあアリーナMMでのライブ終演後、ラグジュアリーな空間で優雅に余韻に浸りたい。」。大人ソロトラベラーへ。みなとみらい唯一のバルコニー付き「横浜ベイホテル東急」、ウェルネスを極めた最新ライフスタイル「ウェスティンホテル横浜」、20階スカイプールと絶景ロビーを誇る「三井ガーデンホテル横浜みなとみらいプレミア。」を徹底特集。
         </p>
       </header>
 
@@ -161,7 +161,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.63点。「バルコニーからの大観覧車の夜景が信じられないほど綺麗で、一人で何時間も眺めていました」「お部屋も広くスタッフの気配りも完璧」とリピーター多数。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.63点。「バルコニーからの大観覧車の夜景が信じられないほど綺麗で、一人で何時間も眺めていました。」「お部屋も広くスタッフの気配りも完璧」とリピーター多数。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -236,7 +236,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.70点。「ヘブンリーベッドの寝心地が最高で、プールやサウナも綺麗で大満足」「一人ステイケーションにこれ以上ない洗練された空間」と絶賛。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.70点。「ヘブンリーベッドの寝心地が最高で、プールやサウナも綺麗で大満足。」「一人ステイケーションにこれ以上ない洗練された空間。」と絶賛。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -311,7 +311,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.70点。「20階ロビーやプールからの景色が圧巻！お部屋もピカピカでベッドも快適でした」「Kアリーナのライブ後に泊まりましたが最高でした」と大人気。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.70点。「20階ロビーやプールからの景色が圧巻！お部屋もピカピカでベッドも快適でした。」「Kアリーナのライブ後に泊まりましたが最高でした。」と大人気。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">

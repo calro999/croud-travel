@@ -39,8 +39,8 @@ export default function FurusatoArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-11T00:10:00+09:00',
-    dateModified: '2026-09-11T00:10:00+09:00',
+    datePublished: 'T00:10:00+09:00',
+    dateModified: 'T00:10:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-yugawara-onsen-ryotei-kaiseki-stay',
   };
 
@@ -49,7 +49,7 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「山翠楼SANSUIROU」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「山翠楼SANSUIROU」へは、お車の場合、西湘ＢＰ石橋ＩＣより真鶴道路経由約３５分。最寄りの湯河原駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「山翠楼SANSUIROU」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「山翠楼SANSUIROU」は『奥湯河原温泉の雄大な自然を270度満喫できる 展望露天風呂 が自慢。個室食事処で四季折々の』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「山翠楼SANSUIROU」と「湯河原温泉 ふきや」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「山翠楼SANSUIROU」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「山翠楼SANSUIROU」へは、お車の場合、西湘ＢＰ石橋ＩＣより真鶴道路経由約３５分。最寄りの湯河原駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「山翠楼SANSUIROU」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「山翠楼SANSUIROU」は『奥湯河原温泉の雄大な自然を270度満喫できる 展望露天風呂 が自慢。個室食事処で四季折々の。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「山翠楼SANSUIROU」と「湯河原温泉 ふきや」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -203,7 +203,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.48点。「奥湯河原の自然と数寄屋の佇まいに癒やされた」「お料理が一口ごとに感動する美味しさで、サービスも完璧」と記念日利用に大絶賛。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.48点。「奥湯河原の自然と数寄屋の佇まいに癒やされた。」「お料理が一口ごとに感動する美味しさで、サービスも完璧。」と記念日利用に大絶賛。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -287,7 +287,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.31点、口コミ1400件超。「展望露天風呂からの景色が最高でお湯も肌に優しい」「名物の湯葉料理が絶品で、接客も温かく素晴らしい宿」とリピーター多数。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.31点、口コミ1400件超。「展望露天風呂からの景色が最高でお湯も肌に優しい。」「名物の湯葉料理が絶品で、接客も温かく素晴らしい宿。」とリピーター多数。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.46点。「貸切露天風呂からの景色が素晴らしく、お風呂巡りが楽しかった」「お部屋食の懐石料理がどれも美味しく、細やかな心遣いに感動した」と高い満足度。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.46点。「貸切露天風呂からの景色が素晴らしく、お風呂巡りが楽しかった。」「お部屋食の懐石料理がどれも美味しく、細やかな心遣いに感動した。」と高い満足度。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -406,7 +406,7 @@ export default function FurusatoArticlePage() {
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
               <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
                 <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                リニューアルした万葉公園「湯河原惣湯 Books and Retreat」
+                リニューアルした万葉公園「湯河原惣湯 Books and Retreat。」
               </h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 渓流沿いの森林浴と源泉掛け流し足湯、カフェが融合した人気スポット。木漏れ日の中で読書やカフェタイムを優雅に楽しめます。
@@ -578,7 +578,7 @@ export default function FurusatoArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「山翠楼SANSUIROU」は『奥湯河原温泉の雄大な自然を270度満喫できる 展望露天風呂 が自慢。個室食事処で四季折々の』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「山翠楼SANSUIROU」は『奥湯河原温泉の雄大な自然を270度満喫できる 展望露天風呂 が自慢。個室食事処で四季折々の。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

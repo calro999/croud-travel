@@ -39,8 +39,8 @@ export default function FurusatoArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-10T16:48:00+09:00',
-    dateModified: '2026-09-10T16:48:00+09:00',
+    datePublished: 'T16:48:00+09:00',
+    dateModified: 'T16:48:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-tsukioka-onsen-emerald-bihada-stay',
   };
 
@@ -49,7 +49,7 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「月岡温泉 白玉の湯 華鳳」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「月岡温泉 白玉の湯 華鳳」へは、新潟駅や空港から最も近い温泉地／JR新発田駅より有料定時シャトルバス運行。最寄りの豊栄駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「月岡温泉 白玉の湯 華鳳」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「月岡温泉 白玉の湯 華鳳」は『2025年プロが選ぶ日本のホテル・旅館100選★総合1位★白玉の湯は全国屈指の硫黄含有量』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「月岡温泉 白玉の湯 華鳳」と「月岡温泉 白玉の湯 泉慶」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「月岡温泉 白玉の湯 華鳳」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「月岡温泉 白玉の湯 華鳳」へは、新潟駅や空港から最も近い温泉地／JR新発田駅より有料定時シャトルバス運行。最寄りの豊栄駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「月岡温泉 白玉の湯 華鳳」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「月岡温泉 白玉の湯 華鳳」は『2025年プロが選ぶ日本のホテル・旅館100選★総合1位★白玉の湯は全国屈指の硫黄含有量。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「月岡温泉 白玉の湯 華鳳」と「月岡温泉 白玉の湯 泉慶」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -203,7 +203,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.77点という圧倒的な最高峰スコア。「お風呂のお湯が本当にエメラルドグリーンで肌がつるつるになった」「スタッフの接客もお料理も建物もすべてが一流で感動」と絶賛されています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.77点という圧倒的な最高峰スコア。「お風呂のお湯が本当にエメラルドグリーンで肌がつるつるになった。」「スタッフの接客もお料理も建物もすべてが一流で感動。」と絶賛されています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -287,7 +287,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.65点、口コミ2500件超。「お湯が素晴らしく肌がしっとりすべすべになった」「お料理の品数と味が素晴らしく、また必ず泊まりたい」と高いリピート率。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.65点、口コミ2500件超。「お湯が素晴らしく肌がしっとりすべすべになった。」「お料理の品数と味が素晴らしく、また必ず泊まりたい。」と高いリピート率。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.11点、口コミ1200件超。「露天風呂のお湯が本格的でとても気持ちよかった」「コスパが良く温泉街の散策にも便利だった」と好評です。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.11点、口コミ1200件超。「露天風呂のお湯が本格的でとても気持ちよかった。」「コスパが良く温泉街の散策にも便利だった」と好評です。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -578,7 +578,7 @@ export default function FurusatoArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「月岡温泉 白玉の湯 華鳳」は『2025年プロが選ぶ日本のホテル・旅館100選★総合1位★白玉の湯は全国屈指の硫黄含有量』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「月岡温泉 白玉の湯 華鳳」は『2025年プロが選ぶ日本のホテル・旅館100選★総合1位★白玉の湯は全国屈指の硫黄含有量。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -66,7 +66,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 mt-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「松之山温泉 ひなの宿 ちとせ」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「松之山温泉 ひなの宿 ちとせ」へは、ほくほく線まつだい駅より定時送迎あり（要予約）/ 関越道・塩沢石打ICより353号約50分/無料屋内駐車場（最大17台）。最寄りのまつだい駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「松之山温泉 ひなの宿 ちとせ」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「松之山温泉 ひなの宿 ちとせ」は『日本三大薬湯、地産料理、里山朝ごはん、靴を脱いだら畳敷きの館内。素朴さが贅沢な心にも身体に』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「松之山温泉 ひなの宿 ちとせ」と「草津温泉 望雲」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「松之山温泉 ひなの宿 ちとせ」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「松之山温泉 ひなの宿 ちとせ」へは、ほくほく線まつだい駅より定時送迎あり（要予約）/ 関越道・塩沢石打ICより353号約50分/無料屋内駐車場（最大17台）。最寄りのまつだい駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「松之山温泉 ひなの宿 ちとせ」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「松之山温泉 ひなの宿 ちとせ」は『日本三大薬湯、地産料理、里山朝ごはん、靴を脱いだら畳敷きの館内。素朴さが贅沢な心にも身体に。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「松之山温泉 ひなの宿 ちとせ」と「草津温泉 望雲」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* Intro Lead */}
         <section className="bg-slate-900/90 border border-slate-800 rounded-3xl p-6 sm:p-8 backdrop-blur shadow-2xl">
@@ -483,7 +483,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「松之山温泉 ひなの宿 ちとせ」は『日本三大薬湯、地産料理、里山朝ごはん、靴を脱いだら畳敷きの館内。素朴さが贅沢な心にも身体に』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「松之山温泉 ひなの宿 ちとせ」は『日本三大薬湯、地産料理、里山朝ごはん、靴を脱いだら畳敷きの館内。素朴さが贅沢な心にも身体に。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

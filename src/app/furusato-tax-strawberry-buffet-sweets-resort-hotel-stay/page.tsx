@@ -49,7 +49,7 @@ export default function FurusatoStrawberryBuffetSweetsStayPage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「那須温泉 ホテルエピナール那須」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「那須温泉 ホテルエピナール那須」へは、お車で 那須I.Cより10分、 JRで 東北新幹線・東北本線 那須塩原駅から無料シャトルバスで30分（要予約）。最寄りの那須塩原駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「那須温泉 ホテルエピナール那須」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「那須温泉 ホテルエピナール那須」は『地元の旬菜にこだわる食事＆施設充実のトップリゾート』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「那須温泉 ホテルエピナール那須」と「神戸ベイシェラトンホテル＆タワーズ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「那須温泉 ホテルエピナール那須」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「那須温泉 ホテルエピナール那須」へは、お車で 那須I.Cより10分、 JRで 東北新幹線・東北本線 那須塩原駅から無料シャトルバスで30分（要予約）。最寄りの那須塩原駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「那須温泉 ホテルエピナール那須」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「那須温泉 ホテルエピナール那須」は『地元の旬菜にこだわる食事＆施設充実のトップリゾート。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「那須温泉 ホテルエピナール那須」と「神戸ベイシェラトンホテル＆タワーズ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -195,7 +195,7 @@ export default function FurusatoStrawberryBuffetSweetsStayPage() {
                     那須高原の雄大な自然に囲まれた総合リゾートホテル。いちごの生産量日本一を誇る栃木県ならではの、地元契約農家から届くとちおとめやスカイベリーをふんだんに使用した大人気のストロベリーフェアを開催。ホテル名物のバイキングレストラン「エルバージュ」では、数十種類のいちごスイーツに加え、握り寿司や那須高原野菜、焼き立てステーキなど豪華な料理が並びます。敷地内から湧き出る天然温泉の大型大浴場や露天風呂、温水プール、キッズコーナーなども完備し、ファミリーからカップルまで圧倒的な満足度を誇る名宿です。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「バイキングと便利な設備で3回目のリピートバイキングがどれも美味しかったです。特にローストビーフと、那須牛乳を使ったバニラアイスが最高でした。また、廊下に氷とウォーターサーバーが設置してあるので… 2026-09-05 21:35:05投稿 …」
+                    「バイキングと便利な設備で3回目のリピートバイキングがどれも美味しかったです。特にローストビーフと、那須牛乳を使ったバニラアイスが最高でした。また、廊下に氷とウォーターサーバーが設置してあるので…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -256,7 +256,7 @@ export default function FurusatoStrawberryBuffetSweetsStayPage() {
                     神戸の六甲アイランドに位置し、世界基準のラグジュアリーと和の温もりが融合する名門シェラトンホテル。春先には館内レストラン「ガーデンカフェ」で毎年大人気のストロベリースイーツビュッフェが開催され、華やかな苺スイーツやシェフ特製の本格料理が並びます。最大の魅力は、敷地内の地下1,600mから湧き出る本格的な自家源泉の天然温泉スパ「濱泉（はまいずみ）」。打たせ湯や露天風呂、サウナを完備した優雅な湯処でリフレッシュした後にいただく甘酸っぱいいちごスイーツは、至極の贅沢体験です。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「温泉とラウンジ、食事を存分に満喫!温泉、ラウンジ、食事など満喫しました。クチコミの詳細はこちらから 2026-09-05 22:42:55投稿 つづきはこちら…」
+                    「温泉とラウンジ、食事を存分に満喫!温泉、ラウンジ、食事など満喫しました。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -317,7 +317,7 @@ export default function FurusatoStrawberryBuffetSweetsStayPage() {
                     東京湾を望む幕張新都心に位置し、ホテルニューオータニの伝統を受け継ぐ洗練されたホスピタリティを誇るシティ＆リゾートホテル。ホテルニューオータニの代名詞とも言える「博多あまおう」を贅沢に使った「スーパーあまおうショートケーキ」やロールケーキ、タルトなどがビュッフェ形式で惜しみなく提供されるストロベリーフェアは、全国から予約が殺到する伝説的イベント。緑豊かな日本庭園や開放的な客室、貝殻型プールなどを備え、都心からのアクセスも良好な都会のオアシスで至福のスイーツステイを堪能できます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「おすすめのホテルクチコミの詳細はこちらから 2026-09-05 20:17:33投稿…」
+                    「落ち着いた心地よい空間の中、温かい温泉とおいしいお料理で日頃の疲れを癒やすことができました。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -481,7 +481,7 @@ export default function FurusatoStrawberryBuffetSweetsStayPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「那須温泉 ホテルエピナール那須」は『地元の旬菜にこだわる食事＆施設充実のトップリゾート』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「那須温泉 ホテルエピナール那須」は『地元の旬菜にこだわる食事＆施設充実のトップリゾート。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -39,8 +39,8 @@ export default function FurusatoArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-10T17:25:00+09:00',
-    dateModified: '2026-09-10T17:25:00+09:00',
+    datePublished: 'T17:25:00+09:00',
+    dateModified: 'T17:25:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-nozawa-onsen-sotoyu-heritage-stay',
   };
 
@@ -49,7 +49,7 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「野沢温泉 旅館 さかや」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「野沢温泉 旅館 さかや」へは、北陸長野新幹線飯山駅下車→シャトルバス「野沢温泉ライナー」25分→野沢温泉下車→徒歩3分。最寄りの戸狩野沢温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「野沢温泉 旅館 さかや」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「野沢温泉 旅館 さかや」は『野沢温泉の憧れの老舗温泉旅館。自然湧出する自家源泉は贅沢に掛け流され、抜群の効能を誇ってい』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「野沢温泉 旅館 さかや」と「野沢温泉 河一屋旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「野沢温泉 旅館 さかや」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「野沢温泉 旅館 さかや」へは、北陸長野新幹線飯山駅下車→シャトルバス「野沢温泉ライナー」25分→野沢温泉下車→徒歩3分。最寄りの戸狩野沢温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「野沢温泉 旅館 さかや」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「野沢温泉 旅館 さかや」は『野沢温泉の憧れの老舗温泉旅館。自然湧出する自家源泉は贅沢に掛け流され、抜群の効能を誇ってい。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「野沢温泉 旅館 さかや」と「野沢温泉 河一屋旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -203,7 +203,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.66点、口コミ1300件超。「鷹の湯の木造建築とお湯の素晴らしさに感動」「おもてなし、お部屋、お料理すべてが一流で最高峰の宿」と絶賛。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.66点、口コミ1300件超。「鷹の湯の木造建築とお湯の素晴らしさに感動。」「おもてなし、お部屋、お料理すべてが一流で最高峰の宿。」と絶賛。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -287,7 +287,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.60点、口コミ1100件超。「露天風呂の真湯のお湯が最高で肌がつるつるになった」「信州牛が絶品でスタッフの対応も素晴らしかった」と高評価。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.60点、口コミ1100件超。「露天風呂の真湯のお湯が最高で肌がつるつるになった。」「信州牛が絶品でスタッフの対応も素晴らしかった。」と高評価。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.56点。「麻釜のすぐ隣で雰囲気が最高」「自家源泉のお湯が素晴らしく、民芸調の落ち着いた館内とお料理に癒やされた」と好評。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.56点。「麻釜のすぐ隣で雰囲気が最高」「自家源泉のお湯が素晴らしく、民芸調の落ち着いた館内とお料理に癒やされた。」と好評。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -578,7 +578,7 @@ export default function FurusatoArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「野沢温泉 旅館 さかや」は『野沢温泉の憧れの老舗温泉旅館。自然湧出する自家源泉は贅沢に掛け流され、抜群の効能を誇ってい』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「野沢温泉 旅館 さかや」は『野沢温泉の憧れの老舗温泉旅館。自然湧出する自家源泉は贅沢に掛け流され、抜群の効能を誇ってい。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

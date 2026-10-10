@@ -153,7 +153,7 @@ export default function KyotoArashiyamaAutumnPage() {
               <div className="md:w-5/12 relative h-56 md:h-auto min-h-[220px]">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/130702/130702.jpg"
-                  alt="京都　嵐山温泉　花伝抄（共立リゾート）（２０２６年５月１日リニューアルオープン）"
+                  alt="京都　嵐山温泉　花伝抄（共立リゾート）（リニューアルオープン）"
                   fill
                   sizes="(max-width: 768px) 100vw, 40vw"
                   className="object-cover"
@@ -169,7 +169,7 @@ export default function KyotoArashiyamaAutumnPage() {
                     <span className="text-stone-400 text-xs">(1983件のクチコミ)</span>
                   </div>
                   <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    京都　嵐山温泉　花伝抄（共立リゾート）（２０２６年５月１日リニューアルオープン）
+                    京都　嵐山温泉　花伝抄（共立リゾート）（リニューアルオープン）
                   </h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 嵐山（阪急）駅 / 阪急嵐山線「嵐山駅」より徒歩１分。JR「京都駅」より約30分、阪急「梅田駅」より約50分。

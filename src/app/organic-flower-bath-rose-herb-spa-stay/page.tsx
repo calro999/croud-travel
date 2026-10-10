@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/organic-flower-bath-rose-herb-spa-stay"
   };
 
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D29364%26f_flg%3DPLAN",
     "hotelMinCharge": 10000,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29364/29364.jpg",
-    "userReview": "設備が老朽化し清潔感に欠ける残念な環境部屋のトイレ便座はガタつき 風呂場の扉は壊れて閉まらない 洗面台の下に風呂のフタが敷かれていたあちこちにゴキリキャップが設置されて 冷蔵庫下の床は捲れ上が…　2026-08-13 05:19:47投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=29364\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "落ち着いた心地よい空間の中、温かい温泉とおいしいお料理で日頃の疲れを癒やすことができました。",
     "reviewAverage": 4.2,
     "reviewCount": 80,
     "address": "茨城県笠間市笠間14-1",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D108575%26f_flg%3DPLAN",
     "hotelMinCharge": 12060,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108575/108575.jpg",
-    "userReview": "趣あるレトロな雰囲気と豪華な食事に満足キングダムコラボ目当てで宿泊しました。旅館は趣があり、レトロな雰囲気がとても素敵でした!夕食朝食共に豪華で美味しかったです。大満足しました。他の宿…　2026-09-08 08:26:54投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=108575\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "趣あるレトロな雰囲気と豪華な食事に満足キングダムコラボ目当てで宿泊しました。旅館は趣があり、レトロな雰囲気がとても素敵でした!夕食朝食共に豪華で美味しかったです。大満足しました。他の宿。",
     "reviewAverage": 4.62,
     "reviewCount": 320,
     "address": "佐賀県佐賀市富士町古湯860",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D31249%26f_flg%3DPLAN",
     "hotelMinCharge": 8400,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31249/31249.jpg",
-    "userReview": "施設は古いが清潔、記念日の心遣いに感動施設は古いですが館内は清潔で綺麗です。記念日の連絡はしませんでしたが、覚えていてくれたか赤飯のサービスと記念撮影をしていただきました。クチコミの詳細は…　2026-09-07 20:04:01投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=31249\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "施設は古いが清潔、記念日の心遣いに感動施設は古いですが館内は清潔で綺麗です。記念日の連絡はしませんでしたが、覚えていてくれたか赤飯のサービスと記念撮影をしていただきました。クチコミの詳細は。",
     "reviewAverage": 4.17,
     "reviewCount": 1611,
     "address": "愛知県額田郡幸田町荻遠峰10",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D52574%26f_flg%3DPLAN",
     "hotelMinCharge": 7700,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/52574/52574.jpg",
-    "userReview": "食事と夕日が最高、温泉は少し物足りない淡路島は初めてでしたが、関東と違い出汁が利いていて魚も新鮮で食事が美味しかったです。部屋も綺麗で夕日もよかったです。熱湯でお湯に個性がある温泉好きには物足りな…　2026-09-13 17:30:13投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=52574\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "食事と夕日が最高、温泉は少し物足りない淡路島は初めてでしたが、関東と違い出汁が利いていて魚も新鮮で食事が美味しかったです。部屋も綺麗で夕日もよかったです。熱湯でお湯に個性がある温泉好きには物足りな。",
     "reviewAverage": 4.19,
     "reviewCount": 900,
     "address": "兵庫県南あわじ市福良甲21-1",

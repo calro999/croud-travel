@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-12T16:00:00+09:00',
-    dateModified: '2026-09-12T16:00:00+09:00',
+    datePublished: 'T16:00:00+09:00',
+    dateModified: 'T16:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/ito-onsen-solo-retreat-ocean-seafood-stay',
   };
 
@@ -77,7 +77,7 @@ export default function ArticlePage() {
           【伊東温泉ひとり旅・海望おこもり】相模灘オーシャンビュー・金目鯛会席・7本の自家源泉！東京から特急で叶う極上湯治リトリート 厳選3選
         </h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
-          <time dateTime="2026-09-12">2026.09.12 更新</time>
+          <time dateTime="">2026.09.12 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
         </div>

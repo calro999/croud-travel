@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【2026最新】ぷりぷり広島牡蠣＆極上あなごめし！宮島・瀬戸内海を一望する絶景美食温泉宿5選",
     "description": "身が引き締まり旨味が凝縮した極上広島牡蠣の焼き・鍋・フライと、ふっくら香ばしい名物あなごめし！世界遺産・厳島神社を望む宮島や瀬戸内海のオーシャンビュー名湯で味わう至福の美食宿を厳選。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-    "datePublished": "2026-03-27T00:00:00+09:00",
-    "dateModified": "2026-03-27T00:00:00+09:00",
+    "datePublished": "T00:00:00+09:00",
+    "dateModified": "T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

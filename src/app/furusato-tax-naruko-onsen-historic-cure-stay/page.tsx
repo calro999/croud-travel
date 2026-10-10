@@ -44,7 +44,7 @@ export default function FurusatoTaxArticle() {
     <main className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「鳴子温泉 湯元 吉祥」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「鳴子温泉 湯元 吉祥」へは、鳴子温泉駅より徒歩にて約７分。最寄りの鳴子温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「鳴子温泉 湯元 吉祥」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「鳴子温泉 湯元 吉祥」は『《ブロンズアワード2023受賞》4種の 無料貸切風呂 や夜鳴きそばなど 無料サービス も充』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「鳴子温泉 湯元 吉祥」と「鳴子温泉 源蔵の湯 鳴子観光ホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「鳴子温泉 湯元 吉祥」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「鳴子温泉 湯元 吉祥」へは、鳴子温泉駅より徒歩にて約７分。最寄りの鳴子温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「鳴子温泉 湯元 吉祥」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「鳴子温泉 湯元 吉祥」は『《ブロンズアワード2023受賞》4種の 無料貸切風呂 や夜鳴きそばなど 無料サービス も充。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「鳴子温泉 湯元 吉祥」と「鳴子温泉 源蔵の湯 鳴子観光ホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       {/* ヒーローヘッダー */}
       <header className="relative bg-gradient-to-br from-stone-900 via-amber-950 to-stone-900 text-amber-50 py-16 px-4 md:px-8 border-b border-amber-900/50 shadow-2xl">
@@ -185,7 +185,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.37点、口コミ1500件超。「4つの貸切風呂が素晴らしく温泉を心ゆくまで堪能できた」「夕食・朝食ともに品数が多く味も大満足」と高い支持を得ています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.37点、口コミ1500件超。「4つの貸切風呂が素晴らしく温泉を心ゆくまで堪能できた。」「夕食・朝食ともに品数が多く味も大満足」と高い支持を得ています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -279,7 +279,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.25点、口コミ1100件超。「お湯のトロトロ感と硫黄の香りが最高で感動した」「スタッフの方々の温かい笑顔と挨拶に癒やされた」と温泉と接客に定評があります。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.25点、口コミ1100件超。「お湯のトロトロ感と硫黄の香りが最高で感動した。」「スタッフの方々の温かい笑顔と挨拶に癒やされた。」と温泉と接客に定評があります。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -373,7 +373,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価3.87点、口コミ2100件超。「お洒落な雰囲気で夫婦やカップル旅行にぴったり」「ライブキッチンのステーキがとても美味しかった」と落ち着いた滞在を求める層に人気です。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価3.87点、口コミ2100件超。「お洒落な雰囲気で夫婦やカップル旅行にぴったり。」「ライブキッチンのステーキがとても美味しかった。」と落ち着いた滞在を求める層に人気です。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -573,7 +573,7 @@ export default function FurusatoTaxArticle() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「鳴子温泉 湯元 吉祥」は『《ブロンズアワード2023受賞》4種の 無料貸切風呂 や夜鳴きそばなど 無料サービス も充』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「鳴子温泉 湯元 吉祥」は『《ブロンズアワード2023受賞》4種の 無料貸切風呂 や夜鳴きそばなど 無料サービス も充。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【11・12月幻想の朝霧！由布院金鱗湖＆由布岳】湯けむり包む由布院温泉の離れ客室露天宿5選",
     "description": "秋から初冬の早朝にだけ現れる金鱗湖の神秘的な「朝霧（湯気霧）」！湖底から温泉が湧き出ることで生まれる幻想的な霧の風景と、雄大な由布岳を望む離れ客室専用露天風呂で誰にも邪魔されない極上ステイ。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-    "datePublished": "2026-09-27T00:00:00+09:00",
-    "dateModified": "2026-09-27T00:00:00+09:00",
+    "datePublished": "T00:00:00+09:00",
+    "dateModified": "T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

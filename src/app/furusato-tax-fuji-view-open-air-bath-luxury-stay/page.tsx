@@ -4,14 +4,14 @@ import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: '霊峰富士の絶景を湯船から一望！富士山＆河口湖ビュー露天風呂名門宿×ふるさと納税完全攻略ガイド【2026年最新】鐘山苑・うぶや・湖南荘',
-  description: '世界遺産・富士山の圧倒的な美しさを露天風呂から眼前に見渡す感動体験！「庭園と感動の宿 富士山温泉 ホテル鐘山苑」「河口湖温泉 うぶや」「富士河口湖温泉 湖南荘」を、山梨県富士吉田市・富士河口湖町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。三段構造の深湯露天風呂、全室富士山ビュー、屋上展望足湯を堪能。',
+  description: '世界遺産・富士山の圧倒的な美しさを露天風呂から眼前に見渡す感動体験！「庭園と感動の宿 富士山温泉 ホテル鐘山苑。」「河口湖温泉 うぶや」「富士河口湖温泉 湖南荘」を、山梨県富士吉田市・富士河口湖町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。三段構造の深湯露天風呂、全室富士山ビュー、屋上展望足湯を堪能。',
   keywords: ["2026年最新", "鐘山苑", "うぶや", "湖南荘", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-fuji-view-open-air-bath-luxury-stay/",
   },
   openGraph: {
     title: '霊峰富士の絶景を湯船から一望！富士山＆河口湖ビュー露天風呂名門宿×ふるさと納税完全攻略ガイド【2026年最新】鐘山苑・うぶや・湖南荘',
-    description: '世界遺産・富士山の圧倒的な美しさを露天風呂から眼前に見渡す感動体験！「庭園と感動の宿 富士山温泉 ホテル鐘山苑」「河口湖温泉 うぶや」「富士河口湖温泉 湖南荘」を、山梨県富士吉田市・富士河口湖町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。三段構造の深湯露天風呂、全室富士山ビュー、屋上展望足湯を堪能。',
+    description: '世界遺産・富士山の圧倒的な美しさを露天風呂から眼前に見渡す感動体験！「庭園と感動の宿 富士山温泉 ホテル鐘山苑。」「河口湖温泉 うぶや」「富士河口湖温泉 湖南荘」を、山梨県富士吉田市・富士河口湖町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。三段構造の深湯露天風呂、全室富士山ビュー、屋上展望足湯を堪能。',
     url: 'https://croud-travel.pages.dev/furusato-tax-fuji-view-open-air-bath-luxury-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
@@ -25,7 +25,7 @@ export default function FurusatoFujiViewOpenAirBathStayPage() {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "霊峰富士の絶景を湯船から一望！富士山＆河口湖ビュー露天風呂名門宿×ふるさと納税完全攻略ガイド【2026年最新】鐘山苑・うぶや・湖南荘",
-    "description": "世界遺産・富士山の圧倒的な美しさを露天風呂から眼前に見渡す感動体験！「庭園と感動の宿 富士山温泉 ホテル鐘山苑」「河口湖温泉 うぶや」「富士河口湖温泉 湖南荘」を、山梨県富士吉田市・富士河口湖町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。三段構造の深湯露天風呂、全室富士山ビュー、屋上展望足湯を堪能。",
+    "description": "世界遺産・富士山の圧倒的な美しさを露天風呂から眼前に見渡す感動体験！「庭園と感動の宿 富士山温泉 ホテル鐘山苑。」「河口湖温泉 うぶや」「富士河口湖温泉 湖南荘」を、山梨県富士吉田市・富士河口湖町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。三段構造の深湯露天風呂、全室富士山ビュー、屋上展望足湯を堪能。",
     "url": "https://croud-travel.pages.dev/furusato-tax-fuji-view-open-air-bath-luxury-stay/",
     "publisher": {
       "@type": "Organization",
@@ -62,7 +62,7 @@ export default function FurusatoFujiViewOpenAirBathStayPage() {
           霊峰富士の絶景を湯船から一望！富士山＆河口湖ビュー露天風呂名門宿×ふるさと納税完全攻略ガイド【2026年最新】鐘山苑・うぶや・湖南荘
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-09">2026年9月9日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -164,7 +164,7 @@ export default function FurusatoFujiViewOpenAirBathStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “家族全員が大満足、また季節を変えて訪れたい「素晴らしい」の一言です。私ら夫婦、16歳と10歳の子供、83歳の父を連れての旅行に利用させていただきました。お部屋、庭園、お風呂、食事、太鼓のア…　2026-09-04 09:40:01投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “家族全員が大満足、また季節を変えて訪れたい「素晴らしい」の一言です。私ら夫婦、16歳と10歳の子供、83歳の父を連れての旅行に利用させていただきました。お部屋、庭園、お風呂、食事、太鼓のア… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -206,7 +206,7 @@ export default function FurusatoFujiViewOpenAirBathStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “食事も美味しく、お部屋もとても綺麗!ご飯もとても美味しく、お部屋もとても綺麗でした!クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hote…　2026-09-01 21:06:49投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “食事も美味しく、お部屋もとても綺麗!ご飯もとても美味しく、お部屋もとても綺麗でした! ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -323,7 +323,7 @@ export default function FurusatoFujiViewOpenAirBathStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

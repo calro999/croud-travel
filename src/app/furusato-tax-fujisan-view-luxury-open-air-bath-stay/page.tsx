@@ -49,7 +49,7 @@ export default function FurusatoFujisanViewLuxuryStayPage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「富士河口湖温泉 富士山の見える温泉旅館 大池ホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「富士河口湖温泉 富士山の見える温泉旅館 大池ホテル」へは、駅から無料送迎有■駐車場無料■河口湖駅から車で4分■富士急から車で7分河口湖ICから車で12分新宿駅からバスで約120分。最寄りの河口湖駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「富士河口湖温泉 富士山の見える温泉旅館 大池ホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「富士河口湖温泉 富士山の見える温泉旅館 大池ホテル」は『山梨 富士山 河口湖 露天風呂 温泉 バイキング ブッフェ 温泉 貸切露天風呂』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「富士河口湖温泉 富士山の見える温泉旅館 大池ホテル」と「庭園と感動の宿 富士山温泉 ホテル鐘山苑」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「富士河口湖温泉 富士山の見える温泉旅館 大池ホテル。」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「富士河口湖温泉 富士山の見える温泉旅館 大池ホテル。」へは、駅から無料送迎有■駐車場無料■河口湖駅から車で4分■富士急から車で7分河口湖ICから車で12分新宿駅からバスで約120分。最寄りの河口湖駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「富士河口湖温泉 富士山の見える温泉旅館 大池ホテル。」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「富士河口湖温泉 富士山の見える温泉旅館 大池ホテル。」は『山梨 富士山 河口湖 露天風呂 温泉 バイキング ブッフェ 温泉 貸切露天風呂。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「富士河口湖温泉 富士山の見える温泉旅館 大池ホテル。」と「庭園と感動の宿 富士山温泉 ホテル鐘山苑。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -72,7 +72,7 @@ export default function FurusatoFujisanViewLuxuryStayPage() {
             富士山を望む絶景露天風呂＆天空テラスの至高の宿×ふるさと納税完全ガイド【2026年最新】河口湖・山中湖・西伊豆土肥
           </h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
-            古来より人々を魅了し続け、四季折々の荘厳な美しさを魅せる日本の象徴・富士山。その雄大な姿を眺めるだけでも特別な体験ですが、「湯船に身を浸しながら、手前に広がる湖や海越しに富士山を真正面に愛でる」という時間は、日常の喧騒を忘れさせる最高峰の贅沢です。河口湖畔に建ち最上階展望風呂から遮るもののない富士の全景が迫る「大池ホテル」。富士吉田の広大な日本庭園を有し、富士山を望む露天風呂「こもれびの湯」で至極の癒やしを提供する名門「ホテル鐘山苑」。そして駿河湾越しに夕陽と富士山の壮麗なシルエットが浮かび上がる西伊豆・土肥温泉の「土肥ふじやホテル」。これらの富士山ビュー特等席の客室や展望露天風呂付きプランは年間を通じて人気が高く予約争奪戦となりますが、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期間3年）を活用すれば、実質自己負担2,000円で驚くほどお得にリザーブ可能です。人生で一度は体験したい、富士山と名湯が織りなす感動の絶景旅へ出かけましょう。
+            古来より人々を魅了し続け、四季折々の荘厳な美しさを魅せる日本の象徴・富士山。その雄大な姿を眺めるだけでも特別な体験ですが、「湯船に身を浸しながら、手前に広がる湖や海越しに富士山を真正面に愛でる。」という時間は、日常の喧騒を忘れさせる最高峰の贅沢です。河口湖畔に建ち最上階展望風呂から遮るもののない富士の全景が迫る「大池ホテル」。富士吉田の広大な日本庭園を有し、富士山を望む露天風呂「こもれびの湯」で至極の癒やしを提供する名門「ホテル鐘山苑」。そして駿河湾越しに夕陽と富士山の壮麗なシルエットが浮かび上がる西伊豆・土肥温泉の「土肥ふじやホテル」。これらの富士山ビュー特等席の客室や展望露天風呂付きプランは年間を通じて人気が高く予約争奪戦となりますが、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期間3年）を活用すれば、実質自己負担2,000円で驚くほどお得にリザーブ可能です。人生で一度は体験したい、富士山と名湯が織りなす感動の絶景旅へ出かけましょう。
           </p>
           <div className="flex flex-wrap gap-4 pt-4 border-t border-amber-900/50 text-xs text-amber-200/90 font-medium">
             <span>✓ 寄付額の最大30％相当が宿泊クーポンに</span>
@@ -195,7 +195,7 @@ export default function FurusatoFujisanViewLuxuryStayPage() {
                     河口湖畔の絶好のロケーションに位置し、本館最上階の展望大浴場や露天風呂、富士山ビュースイートから正面にそびえる雄大な富士山を仰ぎ見る老舗旅館。湯船から湯煙越しに眺める富士の姿は圧巻の一言。ジャグジー付き客室露天風呂や広々とした和洋室など多彩なお部屋が揃い、カップルからファミリーまで幅広く支持されています。夕食には山梨県産の厳選牛や甲斐サーモンなど地産地消の旬味覚を活かした本格会席を堪能できます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「至れり尽くせりの接客と美味しい料理に感動車で15時に到着すると、雨が降っていたので、ホテルの前まで車を誘導してくださり、荷物も一緒に降ろすのを手伝ってくれました。ホテルに入るとウェルカムドリンクに… 2026-09-04 20:49:12投…」
+                    「至れり尽くせりの接客と美味しい料理に感動車で15時に到着すると、雨が降っていたので、ホテルの前まで車を誘導してくださり、荷物も一緒に降ろすのを手伝ってくれました。ホテルに入るとウェルカムドリンクに… 投。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -256,7 +256,7 @@ export default function FurusatoFujisanViewLuxuryStayPage() {
                     約2万5000坪もの広大で美しい日本庭園を誇る、富士五湖エリア屈指の名門温泉旅館。宿の目玉である屋上露天風呂「露天風呂 富士山」からは、遮るものが何一つない圧倒的なスケールで富士山の雄姿を目の前に拝むことができます。夕暮れ時には庭園で名物の霊峰太鼓ショーが毎夜開催され、館内全体が活気とおもてなしの心で包まれます。四季折々の茶室体験や贅を尽くした季節の創作会席料理とともに、心に残る最高峰の宿泊体験が約束されます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「家族全員が大満足、また季節を変えて訪れたい「素晴らしい」の一言です。私ら夫婦、16歳と10歳の子供、83歳の父を連れての旅行に利用させていただきました。お部屋、庭園、お風呂、食事、太鼓のア… 2026-09-04 09:40:01投稿 つづ…」
+                    「家族全員が大満足、また季節を変えて訪れたい「素晴らしい」の一言です。私ら夫婦、16歳と10歳の子供、83歳の父を連れての旅行に利用させていただきました。お部屋、庭園、お風呂、食事、太鼓のア… つづ…」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -317,7 +317,7 @@ export default function FurusatoFujisanViewLuxuryStayPage() {
                     西伊豆随一の湯量を誇る歴史ある土肥温泉に佇み、夕陽に染まる駿河湾の海の向こうに富士山の秀麗な山影を望む絶景宿。名湯・土肥温泉の源泉を引いた展望大浴場や貸切露天風呂からは、水平線に夕日が沈むマジックアワーと富士山の共演が楽しめます。駿河湾で獲れたばかりの新鮮な地魚のお造りや伊勢海老、鮑の踊り焼きなど、西伊豆ならではの豪快で鮮度抜群の海の恵みを心ゆくまでご堪能ください。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「海が近く温泉も良かったです。クチコミの詳細はこちらから 2026-09-05 13:09:18投稿 つづきはこちら…」
+                    「落ち着いた心地よい空間の中、温かい温泉とおいしいお料理で日頃の疲れを癒やすことができました。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -438,9 +438,9 @@ export default function FurusatoFujisanViewLuxuryStayPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 河口湖駅よりアクセス。駅から無料送迎有■駐車場無料■河口湖駅から車で4分■富士急から車で7分河口湖ICから車で12分新宿駅からバスで約120分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「富士河口湖温泉 富士山の見える温泉旅館 大池ホテル」にチェックイン。山梨 富士山 河口湖 露天風呂 温泉 バイキング ブッフェ 温泉 貸切露天風呂などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「富士河口湖温泉 富士山の見える温泉旅館 大池ホテル」の湯処へ。山梨 富士山 河口湖 露天風呂 温泉 バイキング ブッフェ 温泉 貸切とともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「富士河口湖温泉 富士山の見える温泉旅館 大池ホテル」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「富士河口湖温泉 富士山の見える温泉旅館 大池ホテル。」にチェックイン。山梨 富士山 河口湖 露天風呂 温泉 バイキング ブッフェ 温泉 貸切露天風呂などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「富士河口湖温泉 富士山の見える温泉旅館 大池ホテル。」の湯処へ。山梨 富士山 河口湖 露天風呂 温泉 バイキング ブッフェ 温泉 貸切とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「富士河口湖温泉 富士山の見える温泉旅館 大池ホテル。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -449,9 +449,9 @@ export default function FurusatoFujisanViewLuxuryStayPage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「富士河口湖温泉 富士山の見える温泉旅館 大池ホテル」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「富士河口湖温泉 富士山の見える温泉旅館 大池ホテル」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「庭園と感動の宿 富士山温泉 ホテル鐘山苑」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「富士河口湖温泉 富士山の見える温泉旅館 大池ホテル。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「富士河口湖温泉 富士山の見える温泉旅館 大池ホテル。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「庭園と感動の宿 富士山温泉 ホテル鐘山苑。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -468,20 +468,20 @@ export default function FurusatoFujisanViewLuxuryStayPage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「富士河口湖温泉 富士山の見える温泉旅館 大池ホテル」へのアクセスや移動方法について</span>
+                <span>Q. 「富士河口湖温泉 富士山の見える温泉旅館 大池ホテル。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「富士河口湖温泉 富士山の見える温泉旅館 大池ホテル」へは、駅から無料送迎有■駐車場無料■河口湖駅から車で4分■富士急から車で7分河口湖ICから車で12分新宿駅からバスで約120分。最寄りの河口湖駅からの経路案内も充実しています。
+                A. 「富士河口湖温泉 富士山の見える温泉旅館 大池ホテル。」へは、駅から無料送迎有■駐車場無料■河口湖駅から車で4分■富士急から車で7分河口湖ICから車で12分新宿駅からバスで約120分。最寄りの河口湖駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「富士河口湖温泉 富士山の見える温泉旅館 大池ホテル」の魅力や予約時のポイントは？</span>
+                <span>Q. 「富士河口湖温泉 富士山の見える温泉旅館 大池ホテル。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「富士河口湖温泉 富士山の見える温泉旅館 大池ホテル」は『山梨 富士山 河口湖 露天風呂 温泉 バイキング ブッフェ 温泉 貸切露天風呂』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「富士河口湖温泉 富士山の見える温泉旅館 大池ホテル。」は『山梨 富士山 河口湖 露天風呂 温泉 バイキング ブッフェ 温泉 貸切露天風呂。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -490,7 +490,7 @@ export default function FurusatoFujisanViewLuxuryStayPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「富士河口湖温泉 富士山の見える温泉旅館 大池ホテル」と「庭園と感動の宿 富士山温泉 ホテル鐘山苑」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「富士河口湖温泉 富士山の見える温泉旅館 大池ホテル。」と「庭園と感動の宿 富士山温泉 ホテル鐘山苑。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

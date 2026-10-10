@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【但馬牛ステーキ＆香住ガニ】兵庫・城崎温泉の七湯めぐりと極上グルメ宿5選",
     "description": "すべての黒毛和牛のルーツ「但馬牛」の極上サーロインステーキと、春の味覚「香住ガニ」！柳並木が美しい城崎温泉の外湯めぐり（七湯）を浴衣と下駄で楽しみ、関西最高峰の美食と温泉情緒に浸る贅沢ステイ。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-    "datePublished": "2026-03-27T00:00:00+09:00",
-    "dateModified": "2026-03-27T00:00:00+09:00",
+    "datePublished": "T00:00:00+09:00",
+    "dateModified": "T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",
@@ -153,7 +153,7 @@ export default function FeaturePage() {
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「城崎温泉 旅館 つばき乃」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「城崎温泉 旅館 つばき乃」へは、中国自動車道及び山陽道から播但自動車道 こうのとり但馬空港I.C.より30分。最寄りの城崎駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「城崎温泉 旅館 つばき乃」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「城崎温泉 旅館 つばき乃」は『温泉街の入り口・外湯地蔵湯のそば。外湯めぐりや観光に便利な立地』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「城崎温泉 旅館 つばき乃」と「城崎温泉 西村屋ホテル招月庭」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「城崎温泉 旅館 つばき乃」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「城崎温泉 旅館 つばき乃」へは、中国自動車道及び山陽道から播但自動車道 こうのとり但馬空港I.C.より30分。最寄りの城崎駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「城崎温泉 旅館 つばき乃」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「城崎温泉 旅館 つばき乃」は『温泉街の入り口・外湯地蔵湯のそば。外湯めぐりや観光に便利な立地。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「城崎温泉 旅館 つばき乃」と「城崎温泉 西村屋ホテル招月庭」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -380,7 +380,7 @@ export default function FeaturePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「城崎温泉 旅館 つばき乃」は『温泉街の入り口・外湯地蔵湯のそば。外湯めぐりや観光に便利な立地』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「城崎温泉 旅館 つばき乃」は『温泉街の入り口・外湯地蔵湯のそば。外湯めぐりや観光に便利な立地。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

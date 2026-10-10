@@ -62,7 +62,7 @@ export default function FurusatoDogoOnsenHonkanStayPage() {
           三千年の歴史を誇る日本最古の名湯！道後温泉本館徒歩圏＆名門旅館×ふるさと納税完全攻略ガイド【2026年最新】ふなや・道後御湯・道後プリンス
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-09">2026年9月9日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -164,7 +164,7 @@ export default function FurusatoDogoOnsenHonkanStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “料理も温泉も最高、家族全員大満足の旅家族4人で利用しました。これまでの旅館の中で最高と言える経験でした。料理はとても美味しく丁寧に作られていて感動しました。配膳を担当してくださった方は、親切丁寧に…　2026-08-30 16:53:49投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “料理も温泉も最高、家族全員大満足の旅家族4人で利用しました。これまでの旅館の中で最高と言える経験でした。料理はとても美味しく丁寧に作られていて感動しました。配膳を担当してくださった方は、親切丁寧に… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -206,7 +206,7 @@ export default function FurusatoDogoOnsenHonkanStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “家族旅行で伺いました。到着した時から温かく迎えてくださり、若いスタッフさんもとても礼儀正しく言葉遣いも綺麗で食事の内容も一品ずつ細かく丁寧に笑顔で説明してくださいました。お料理、お部屋も最高です。大浴…　2026-08-29 15:08:52投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “家族旅行で伺いました。到着した時から温かく迎えてくださり、若いスタッフさんもとても礼儀正しく言葉遣いも綺麗で食事の内容も一品ずつ細かく丁寧に笑顔で説明してくださいました。お料理、お部屋も最高です。大浴… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -248,7 +248,7 @@ export default function FurusatoDogoOnsenHonkanStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “リピーターです2回目の利用。お風呂は大浴場が広くてお湯も温度が私にはちょうど良く(40度ぐらい)気持ちいいです。シャンプーの種類が豊富で悩ましい。朝食は美味しくつい食べ過ぎてしまいます。だし巻…　2026-09-02 17:48:05投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “リピーターです2回目の利用。お風呂は大浴場が広くてお湯も温度が私にはちょうど良く(40度ぐらい)気持ちいいです。シャンプーの種類が豊富で悩ましい。朝食は美味しくつい食べ過ぎてしまいます。だし巻… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -323,7 +323,7 @@ export default function FurusatoDogoOnsenHonkanStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

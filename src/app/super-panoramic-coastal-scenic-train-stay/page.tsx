@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【絶景観光列車と温泉旅】五能線・リゾートしらかみ沿線！日本海パノラマ夕日と不老ふ死温泉宿5選",
     "description": "日本一の人気ローカル線「JR五能線」や観光列車「リゾートしらかみ」で行く憧れの鉄道旅！波打ち際のひょうたん露天風呂で有名な黄金崎不老ふ死温泉や、日本海の夕日を望む名湯宿を徹底解説。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-    "datePublished": "2026-03-27T00:00:00+09:00",
-    "dateModified": "2026-03-27T00:00:00+09:00",
+    "datePublished": "T00:00:00+09:00",
+    "dateModified": "T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",
@@ -153,7 +153,7 @@ export default function FeaturePage() {
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「鯵ヶ沢温泉 水軍の宿」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「鯵ヶ沢温泉 水軍の宿」へは、JR五能線「鰺ケ沢駅」より徒歩にて５分、送迎有（要予約）。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「鯵ヶ沢温泉 水軍の宿」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「鯵ヶ沢温泉 水軍の宿」は『三十万年前の海水が、温泉として滾々と湧き出る中世浪漫の隠れ宿水軍の宿へようこそ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「鯵ヶ沢温泉 水軍の宿」と「鯵ヶ沢温泉 ホテルグランメール 山海荘」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「鯵ヶ沢温泉 水軍の宿」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「鯵ヶ沢温泉 水軍の宿」へは、JR五能線「鰺ケ沢駅」より徒歩にて５分、送迎有（要予約）。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「鯵ヶ沢温泉 水軍の宿」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「鯵ヶ沢温泉 水軍の宿」は『三十万年前の海水が、温泉として滾々と湧き出る中世浪漫の隠れ宿水軍の宿へようこそ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「鯵ヶ沢温泉 水軍の宿」と「鯵ヶ沢温泉 ホテルグランメール 山海荘」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -380,7 +380,7 @@ export default function FeaturePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「鯵ヶ沢温泉 水軍の宿」は『三十万年前の海水が、温泉として滾々と湧き出る中世浪漫の隠れ宿水軍の宿へようこそ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「鯵ヶ沢温泉 水軍の宿」は『三十万年前の海水が、温泉として滾々と湧き出る中世浪漫の隠れ宿水軍の宿へようこそ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

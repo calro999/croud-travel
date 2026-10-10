@@ -49,7 +49,7 @@ export default function FurusatoFreshSushiKaisekiStayPage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「山中温泉 かがり吉祥亭」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「山中温泉 かがり吉祥亭」へは、加賀温泉駅・小松空港から無料送迎あり（要予約/定時便） 車 加賀ICより16分。最寄りの加賀温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「山中温泉 かがり吉祥亭」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「山中温泉 かがり吉祥亭」は『≪全室リバービュー・夕食時飲み放題≫渓流沿いの露天風呂と旬の加賀料理を堪能。こおろぎ橋・ゆ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「山中温泉 かがり吉祥亭」と「伊豆熱川温泉 六つの貸切風呂を湯めぐり ふたりの湯宿 湯花満開」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「山中温泉 かがり吉祥亭」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「山中温泉 かがり吉祥亭」へは、加賀温泉駅・小松空港から無料送迎あり（要予約/定時便） 車 加賀ICより16分。最寄りの加賀温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「山中温泉 かがり吉祥亭」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「山中温泉 かがり吉祥亭」は『≪全室リバービュー・夕食時飲み放題≫渓流沿いの露天風呂と旬の加賀料理を堪能。こおろぎ橋・ゆ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「山中温泉 かがり吉祥亭」と「伊豆熱川温泉 六つの貸切風呂を湯めぐり ふたりの湯宿 湯花満開。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -195,7 +195,7 @@ export default function FurusatoFreshSushiKaisekiStayPage() {
                     山中温泉の名勝「鶴仙渓」の渓谷沿いに佇み、美しい自然と伝統芸能の加賀太鼓ショーが楽しめる人気の温泉旅館。夕食では北陸の豊かな海で獲れた新鮮な魚介を惜しみなく使った会席料理が振る舞われ、揚げたての天ぷら食べ放題や地魚の握り寿司など美食の数々がテーブルを彩ります。鶴仙渓のせせらぎを聞きながら浸かる開放的な立ち湯露天風呂やヒノキ風呂で身体を芯まで温め、加賀の美食と名湯に癒やされる優雅なひとときをお過ごしください。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「お風呂と食事が最高、家族みんな大満足お風呂がとてもよかったです。食事もおいしく、家族みんな大変満足していました。また、利用したいです。クチコミの詳細はこちらから 2026-09-04 23:50:06投稿 つづきはこちら…」
+                    「お風呂と食事が最高、家族みんな大満足お風呂がとてもよかったです。食事もおいしく、家族みんな大変満足していました。また、利用したいです。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -256,7 +256,7 @@ export default function FurusatoFreshSushiKaisekiStayPage() {
                     伊豆熱川温泉の海沿いに位置し、敷地内に湧き出る良質な自家源泉を六つもの個性的な貸切風呂で何度でも無料で湯めぐりできる大人の隠れ宿。夕食には相模湾で獲れた新鮮な地魚の握り寿司や金目鯛の姿煮、伊勢海老のお造りなど伊豆の海の幸が贅沢に並ぶ極上会席をご用意。全館畳敷きの温もりある空間で、大切な人と二人きりで温泉三昧と獲れたての寿司美食を心ゆくまで満喫できる至極の温泉ステイが叶います。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「お湯が出ず困ったが食事や接客は満足貸切風呂のシャワーがお湯にならない 2か所目もお湯にならない 部屋に帰り部屋の風呂のシャワーもお湯が出ない フロントに連絡するとタンクからお湯が来るまで時間がかか… 2026-09-02 22:13:34投…」
+                    「お湯が出ず困ったが食事や接客は満足貸切風呂のシャワーがお湯にならない 2か所目もお湯にならない 部屋に帰り部屋の風呂のシャワーもお湯が出ない フロントに連絡するとタンクからお湯が来るまで時間がかか… 投。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -317,7 +317,7 @@ export default function FurusatoFreshSushiKaisekiStayPage() {
                     伊東温泉の高台から相模灘の広大な水平線を見下ろす、料理自慢の隠れ家温泉旅館。毎朝伊東港で水揚げされるピチピチの地魚を厳選し、熟練の板前が握る本格寿司会席はリピーターからも絶賛される逸品です。海を一望する絶景の源泉かけ流し露天風呂や貸切風呂で名湯を浴びた後は、窓一面に広がる海景色を眺めながら旬の握りと地酒に舌鼓。伊豆の海の恵みを五感で味わう至福の休日が約束されます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「自然に囲まれた離れで源泉かけ流しを満喫自然豊かで心が休まる最高の環境でした!!部屋はザ・和室で畳がひかれていました。各お部屋が離れているところにあるので、お隣のお客さんを気にしなくていいので子… 2026-08-05 19:13:00投稿 …」
+                    「自然に囲まれた離れで源泉かけ流しを満喫自然豊かで心が休まる最高の環境でした!部屋はザ・和室で畳がひかれていました。各お部屋が離れているところにあるので、お隣のお客さんを気にしなくていいので子…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -451,7 +451,7 @@ export default function FurusatoFreshSushiKaisekiStayPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「山中温泉 かがり吉祥亭」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「山中温泉 かがり吉祥亭」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「伊豆熱川温泉 六つの貸切風呂を湯めぐり ふたりの湯宿 湯花満開」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「伊豆熱川温泉 六つの貸切風呂を湯めぐり ふたりの湯宿 湯花満開。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -481,7 +481,7 @@ export default function FurusatoFreshSushiKaisekiStayPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「山中温泉 かがり吉祥亭」は『≪全室リバービュー・夕食時飲み放題≫渓流沿いの露天風呂と旬の加賀料理を堪能。こおろぎ橋・ゆ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「山中温泉 かがり吉祥亭」は『≪全室リバービュー・夕食時飲み放題≫渓流沿いの露天風呂と旬の加賀料理を堪能。こおろぎ橋・ゆ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -490,7 +490,7 @@ export default function FurusatoFreshSushiKaisekiStayPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「山中温泉 かがり吉祥亭」と「伊豆熱川温泉 六つの貸切風呂を湯めぐり ふたりの湯宿 湯花満開」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「山中温泉 かがり吉祥亭」と「伊豆熱川温泉 六つの貸切風呂を湯めぐり ふたりの湯宿 湯花満開。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

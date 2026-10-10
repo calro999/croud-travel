@@ -7,11 +7,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/shiga-biwako-solo-retreat-lakeview-onsen-stay/" },
   title: '【琵琶湖ひとり旅・絶景おこもり】全室レイクビュー・天然温泉るりの湯・近江牛会席！日本最大の湖に癒やされる極上リゾート宿 厳選3選',
-  description: '京都駅からJR新快速でわずか約9〜20分！「全室バルコニー付きレイクビュー＆天然温泉大浴場」を誇る「琵琶湖ホテル」、丹下健三設計の38階超高層パノラマタワー「びわ湖大津プリンスホテル」、客室露天風呂と湖畔の朝夕部屋食が自慢の「おごと温泉 びわこ緑水亭」を徹底特集。',
+  description: '京都駅からJR新快速でわずか約9〜20分！「全室バルコニー付きレイクビュー＆天然温泉大浴場。」を誇る「琵琶湖ホテル」、丹下健三設計の38階超高層パノラマタワー「びわ湖大津プリンスホテル」、客室露天風呂と湖畔の朝夕部屋食が自慢の「おごと温泉 びわこ緑水亭」を徹底特集。',
   keywords: '琵琶湖 一人旅 ホテル,琵琶湖ホテル 宿泊,びわ湖大津プリンスホテル レイクビュー,おごと温泉 びわこ緑水亭 一人,滋賀 温泉 ひとり旅',
   openGraph: {
     title: '【琵琶湖ひとり旅・絶景おこもり】全室レイクビュー・天然温泉るりの湯・近江牛会席！日本最大の湖に癒やされる極上リゾート宿 厳選3選',
-    description: '京都駅からJR新快速でわずか約9〜20分！「全室バルコニー付きレイクビュー＆天然温泉大浴場」を誇る「琵琶湖ホテル」、丹下健三設計の38階超高層パノラマタワー「びわ湖大津プリンスホテル」、客室露天風呂と湖畔の朝夕部屋食が自慢の「おごと温泉 びわこ緑水亭」を徹底特集。',
+    description: '京都駅からJR新快速でわずか約9〜20分！「全室バルコニー付きレイクビュー＆天然温泉大浴場。」を誇る「琵琶湖ホテル」、丹下健三設計の38階超高層パノラマタワー「びわ湖大津プリンスホテル」、客室露天風呂と湖畔の朝夕部屋食が自慢の「おごと温泉 びわこ緑水亭」を徹底特集。',
     url: 'https://croud-travel.pages.dev/shiga-biwako-solo-retreat-lakeview-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -24,7 +24,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【琵琶湖ひとり旅・絶景おこもり】全室レイクビュー・天然温泉るりの湯・近江牛会席！日本最大の湖に癒やされる極上リゾート宿 厳選3選',
-    description: '京都駅からJR新快速でわずか約9〜20分！「全室バルコニー付きレイクビュー＆天然温泉大浴場」を誇る「琵琶湖ホテル」、丹下健三設計の38階超高層パノラマタワー「びわ湖大津プリンスホテル」、客室露天風呂と湖畔の朝夕部屋食が自慢の「おごと温泉 びわこ緑水亭」を徹底特集。',
+    description: '京都駅からJR新快速でわずか約9〜20分！「全室バルコニー付きレイクビュー＆天然温泉大浴場。」を誇る「琵琶湖ホテル」、丹下健三設計の38階超高層パノラマタワー「びわ湖大津プリンスホテル」、客室露天風呂と湖畔の朝夕部屋食が自慢の「おごと温泉 びわこ緑水亭」を徹底特集。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・出張調査班',
@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-12T15:45:00+09:00',
-    dateModified: '2026-09-12T15:45:00+09:00',
+    datePublished: 'T15:45:00+09:00',
+    dateModified: 'T15:45:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/shiga-biwako-solo-retreat-lakeview-onsen-stay',
   };
 
@@ -78,7 +78,7 @@ export default function ArticlePage() {
           【琵琶湖ひとり旅・絶景おこもり】全室レイクビュー・天然温泉るりの湯・近江牛会席！日本最大の湖に癒やされる極上リゾート宿 厳選3選
         </h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
-          京都駅からJR新快速でわずか約9〜20分！「全室バルコニー付きレイクビュー＆天然温泉大浴場」を誇る「琵琶湖ホテル」、丹下健三設計の38階超高層パノラマタワー「びわ湖大津プリンスホテル」、客室露天風呂と湖畔の朝夕部屋食が自慢の「おごと温泉 びわこ緑水亭」を徹底特集。
+          京都駅からJR新快速でわずか約9〜20分！「全室バルコニー付きレイクビュー＆天然温泉大浴場。」を誇る「琵琶湖ホテル」、丹下健三設計の38階超高層パノラマタワー「びわ湖大津プリンスホテル」、客室露天風呂と湖畔の朝夕部屋食が自慢の「おごと温泉 びわこ緑水亭」を徹底特集。
         </p>
       </header>
 
@@ -161,7 +161,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.53点。「全室レイクビューでバルコニーからの眺めが最高でした。温泉も気持ちよく、一人旅に最高のホテルです」「スタッフの気配りが素晴らしかった」と絶賛。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.53点。「全室レイクビューでバルコニーからの眺めが最高でした。温泉も気持ちよく、一人旅に最高のホテルです。」「スタッフの気配りが素晴らしかった」と絶賛。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -236,7 +236,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.42点。「高層階からの琵琶湖の景色が圧巻で、部屋も広くて大満足でした」「京都から近いのにとても静かでリフレッシュできました」と高評価。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.42点。「高層階からの琵琶湖の景色が圧巻で、部屋も広くて大満足でした。」「京都から近いのにとても静かでリフレッシュできました。」と高評価。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -311,7 +311,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.66点。「客室露天風呂からの琵琶湖の眺めと近江牛のお料理が最高でした」「一人でも温かくもてなしていただき、最高の休日になりました」と定評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.66点。「客室露天風呂からの琵琶湖の眺めと近江牛のお料理が最高でした。」「一人でも温かくもてなしていただき、最高の休日になりました。」と定評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">

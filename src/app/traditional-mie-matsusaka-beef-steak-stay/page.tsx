@@ -34,7 +34,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/12599/12599map.gif",
     "reviewCount": 1444,
     "reviewAverage": 4.62,
-    "userReview": "素晴らしい景色と趣ある空間、食事も絶品部屋からの景色が素晴らしいです。食事も凝った内容で量が丁度いい感じです。趣がある宿です。クチコミの詳細はこちらから　https://review.trav…　2026-09-19 19:13:47投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=12599\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "素晴らしい景色と趣ある空間、食事も絶品部屋からの景色が素晴らしいです。食事も凝った内容で量が丁度いい感じです。趣がある宿です。",
     "hotelMinCharge": 12650,
     "address1": "三重県",
     "address2": "三重郡菰野町菰野8585",
@@ -59,7 +59,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/37898/37898map.gif",
     "reviewCount": 769,
     "reviewAverage": 3.97,
-    "userReview": "榊原温泉を満喫榊原温泉満喫しました。混雑なくゆっくり温泉楽しみました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voi…　2026-09-16 18:52:21投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=37898\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "榊原温泉を満喫榊原温泉満喫しました。混雑なくゆっくり温泉楽しみました。",
     "hotelMinCharge": 8250,
     "address1": "三重県",
     "address2": "津市榊原町6010",
@@ -84,11 +84,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15042/15042map.gif",
     "reviewCount": 215,
     "reviewAverage": 4.5,
-    "userReview": "雰囲気抜群の温泉と食事に大満足、また来たい建物の外観、内観ともに雰囲気があり、とても素敵な温泉旅館です。お部屋も大変快適に過ごすことができました。温泉も最高で、食事も大満足です。自信をもっておすす…　2026-09-16 16:59:06投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=15042\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "雰囲気抜群の温泉と食事に大満足、また来たい建物の外観、内観ともに雰囲気があり、とても素敵な温泉旅館です。お部屋も大変快適に過ごすことができました。温泉も最高で、食事も大満足です。自信をもっておすす。",
     "hotelMinCharge": 9900,
     "address1": "兵庫県",
     "address2": "姫路市夢前町塩田287",
-    "telephoneNo": "07933-6-0020",
+    "telephoneNo": "020",
     "access": "ＪＲ姫路→神姫バス塩田温泉～前之庄３５分　中国道福崎ＩＣ２０分　山陽道姫路西ＩＣ���５分  中国道夢前スマートＩＣ５分",
     "parkingInformation": "有り　50台",
     "nearestStation": "姫路",
@@ -109,11 +109,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5677/5677map.gif",
     "reviewCount": 750,
     "reviewAverage": 4.47,
-    "userReview": "丁寧な接客と美味しい食事、温泉に大満足接客が丁寧で食事もとても美味しかったです。温泉はぬるめで長く浸かるのにちょうど良い感じでした。宿泊したのは本館ですが、機会があれば庭付きの方にも泊まってみたい…　2026-09-12 07:21:40投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=5677\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "丁寧な接客と美味しい食事、温泉に大満足接客が丁寧で食事もとても美味しかったです。温泉はぬるめで長く浸かるのにちょうど良い感じでした。宿泊したのは本館ですが、機会があれば庭付きの方にも泊まってみたい。",
     "hotelMinCharge": 15950,
     "address1": "福井県",
     "address2": "あわら市温泉2-205",
-    "telephoneNo": "0776-78-5555",
+    "telephoneNo": "55",
     "access": "ＪＲ北陸本線芦原温泉駅から路線バスにて１５分/無料送迎あり。北陸道金津ＩＣより車で１５分。駐車場無料(係が案内します。)",
     "parkingInformation": "有り　１００台　無料 （エントランスにはスロープもございます。係がご案内いたします。）",
     "nearestStation": "芦原温泉",
@@ -134,11 +134,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15941/15941map.gif",
     "reviewCount": 816,
     "reviewAverage": 4.28,
-    "userReview": "ゆったりと良い時間を過ごせましたゆっくりゆったり良い時間過ごしよかったです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hote…　2026-09-03 16:36:21投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=15941\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "ゆったりと良い時間を過ごせましたゆっくりゆったり良い時間過ごしよかったです。",
     "hotelMinCharge": 8800,
     "address1": "三重県",
     "address2": "志摩市磯部町渡鹿野517",
-    "telephoneNo": "0599-57-2910",
+    "telephoneNo": "10",
     "access": "近鉄「鵜方駅」下車、送迎バス（予約制）１５分～船３分(有料）、伊勢自動車道　伊勢西ＩＣ～６０分～船３分(有料）",
     "parkingInformation": "有り　１００台　無料",
     "nearestStation": "鵜方",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「湯の山温泉 旅館寿亭」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「湯の山温泉 旅館寿亭」へは、車 新名神：菰野ＩＣ（※ＥＴＣ専用）約１０分 東名阪：四日市ＩＣ約２５分 電車 湯の山温泉駅から無料送迎（約１０分）。最寄りの湯の山温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「湯の山温泉 旅館寿亭」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「湯の山温泉 旅館寿亭」は『楽天トラベルゴールドアワード受賞｜御在所で涼む夏休み。お部屋・個室の夕食と6種の貸切風呂』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「湯の山温泉 旅館寿亭」と「榊原温泉 旅館 清少納言」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「湯の山温泉 旅館寿亭」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「湯の山温泉 旅館寿亭」へは、車 新名神：菰野ＩＣ（※ＥＴＣ専用）約１０分 東名阪：四日市ＩＣ約２５分 電車 湯の山温泉駅から無料送迎（約１０分）。最寄りの湯の山温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「湯の山温泉 旅館寿亭」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「湯の山温泉 旅館寿亭」は『楽天トラベルゴールドアワード受賞｜御在所で涼む夏休み。お部屋・個室の夕食と6種の貸切風呂。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「湯の山温泉 旅館寿亭」と「榊原温泉 旅館 清少納言」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -628,7 +628,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「湯の山温泉 旅館寿亭」は『楽天トラベルゴールドアワード受賞｜御在所で涼む夏休み。お部屋・個室の夕食と6種の貸切風呂』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「湯の山温泉 旅館寿亭」は『楽天トラベルゴールドアワード受賞｜御在所で涼む夏休み。お部屋・個室の夕食と6種の貸切風呂。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

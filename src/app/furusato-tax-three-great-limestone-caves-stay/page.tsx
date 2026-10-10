@@ -36,11 +36,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/64789/64789map.gif",
     "reviewCount": 1556,
     "reviewAverage": 4.44,
-    "userReview": "トイレの換気扇と窓の外の景観が残念部屋のトイレの換気扇が弱すぎて臭いがひどい。せっかくの景観なのに部屋の窓、外側に大きな蜘蛛の巣があり、また雑草がかなり生い茂っていてちょっと残念でした。値…　 ",
+    "userReview": "落ち着いた心地よい空間の中、温かい温泉とおいしいお料理で日頃の疲れを癒やすことができました。",
     "hotelMinCharge": 11110,
     "address1": "岩手県",
     "address2": "宮古市日立浜町32-4",
-    "telephoneNo": "0193-62-2321",
+    "telephoneNo": "21",
     "access": "ＪＲ山田線　宮古駅から奥浄土ヶ浜行きバスにて１５分、浄土ヶ浜ビジターセンター下車後、徒歩５分。【ペットと宿泊可※小型犬】",
     "parkingInformation": "有り　１００台　無料　先着順",
     "nearestStation": "宮古",
@@ -66,11 +66,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8178/8178map.gif",
     "reviewCount": 1457,
     "reviewAverage": 4.79,
-    "userReview": "朝食が最高、夕食も温泉も大満足でまた行きたい朝食が素晴らしいかったですもちろん夕食も温泉も良かったです絶対また行きたいと思っていますクチコミの詳細はこちらから　https://revi…　 ",
+    "userReview": "朝食が最高、夕食も温泉も大満足でまた行きたい朝食が素晴らしいかったですもちろん夕食も温泉も良かったです絶対また行きたいと思っています。",
     "hotelMinCharge": 22000,
     "address1": "山口県",
     "address2": "長門市深川湯本2208",
-    "telephoneNo": "0837-25-3300",
+    "telephoneNo": "00",
     "access": "お車で角島・JR新山口駅へ60分／宇部空港へ70分／絶景元乃隅神社・萩へ35分／JR長門湯本駅より無料送迎5分",
     "parkingInformation": "無料　90台 収容　屋内駐車場もございます。背の高いお車でもご安心ください。",
     "nearestStation": "長門湯本",
@@ -96,7 +96,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8075/8075map.gif",
     "reviewCount": 3621,
     "reviewAverage": 4.62,
-    "userReview": "リニューアル和室と藁焼きのサービスに感動リューアルされた和室に宿泊しました。従業員の皆さんの教育はしっかりなされているようで安定のサービスと感じました。特に部屋に荷物も運んでくれた若い女性は素晴ら…　 ",
+    "userReview": "リニューアル和室と藁焼きのサービスに感動リューアルされた和室に宿泊しました。従業員の皆さんの教育はしっかりなされているようで安定のサービスと感じました。特に部屋に荷物も運んでくれた若い女性は素晴ら。",
     "hotelMinCharge": 11999,
     "address1": "高知県",
     "address2": "高知市上町2-5-34",
@@ -159,7 +159,7 @@ export default function Page() {
             日本三大鍾乳洞＆地底神秘美・名湯宿×ふるさと納税ガイド
           </h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
-            悠久の歳月をかけて地下水が石灰岩を溶かし、奇跡のような地底宮殿を形作った「日本三大鍾乳洞」――世界有数の透明度を誇るドラゴンブルーの地底湖が吸い込まれそうな青のグラデーションを描く岩手岩泉の「龍泉洞」、日本最大級のカルスト台地・秋吉台の地下100mに広がり無数の皿状石灰段丘「百枚皿」や黄金柱が圧巻のスケールを誇る山口美祢の「秋芳洞」、そして一億年の鍾乳石とともに太古の弥生人が暮らした痕跡「神壺（土器が鍾乳石と一体化した世界唯一の遺構）」が残る高知香美の「龍河洞」。洞内は年中ひんやりとした清涼な空気が漂い、夏は涼しく冬は暖かく、冒険心をくすぐる別世界が広がります。地底探検の後は、三陸・長門湯本・土佐の贅を尽くした温泉宿でゆったりと湯に浸かり、ご当地の山海の幸を味わう贅沢なひとときを楽天ふるさと納税でお楽しみください。
+            悠久の歳月をかけて地下水が石灰岩を溶かし、奇跡のような地底宮殿を形作った「日本三大鍾乳洞」――世界有数の透明度を誇るドラゴンブルーの地底湖が吸い込まれそうな青のグラデーションを描く岩手岩泉の「龍泉洞」、日本最大級のカルスト台地・秋吉台の地下100mに広がり無数の皿状石灰段丘「百枚皿」や黄金柱が圧巻のスケールを誇る山口美祢の「秋芳洞」、そして一億年の鍾乳石とともに太古の弥生人が暮らした痕跡「神壺（土器が鍾乳石と一体化した世界唯一の遺構）。」が残る高知香美の「龍河洞」。洞内は年中ひんやりとした清涼な空気が漂い、夏は涼しく冬は暖かく、冒険心をくすぐる別世界が広がります。地底探検の後は、三陸・長門湯本・土佐の贅を尽くした温泉宿でゆったりと湯に浸かり、ご当地の山海の幸を味わう贅沢なひとときを楽天ふるさと納税でお楽しみください。
           </p>
 
           <div className="pt-6">
@@ -182,7 +182,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「浄土ヶ浜パークホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「浄土ヶ浜パークホテル」へは、ＪＲ山田線 宮古駅から奥浄土ヶ浜行きバスにて１５分、浄土ヶ浜ビジターセンター下車後、徒歩５分。最寄りの宮古駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「浄土ヶ浜パークホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「浄土ヶ浜パークホテル」は『浄土ヶ浜の高台に建つ和の景観と四季の恵みあふれるホテル。三陸の海の幸をご用意してお待ちして』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「浄土ヶ浜パークホテル」と「山口県 長門湯本温泉 大谷山荘」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「浄土ヶ浜パークホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「浄土ヶ浜パークホテル」へは、ＪＲ山田線 宮古駅から奥浄土ヶ浜行きバスにて１５分、浄土ヶ浜ビジターセンター下車後、徒歩５分。最寄りの宮古駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「浄土ヶ浜パークホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「浄土ヶ浜パークホテル」は『浄土ヶ浜の高台に建つ和の景観と四季の恵みあふれるホテル。三陸の海の幸をご用意してお待ちして。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「浄土ヶ浜パークホテル」と「山口県 長門湯本温泉 大谷山荘」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         
         {/* 特集の魅力セクション */}
@@ -488,7 +488,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「浄土ヶ浜パークホテル」は『浄土ヶ浜の高台に建つ和の景観と四季の恵みあふれるホテル。三陸の海の幸をご用意してお待ちして』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「浄土ヶ浜パークホテル」は『浄土ヶ浜の高台に建つ和の景観と四季の恵みあふれるホテル。三陸の海の幸をご用意してお待ちして。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

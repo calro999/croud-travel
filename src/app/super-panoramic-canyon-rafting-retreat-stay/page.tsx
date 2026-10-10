@@ -34,11 +34,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16280/16280map.gif",
     "reviewCount": 129,
     "reviewAverage": 4.55,
-    "userReview": "広々とした落ち着く部屋と素敵な中庭お部屋がとても広く落ち着く内装で良き古さも感じられリラックスできました中庭も素敵でしたクチコミの詳細はこちらから　https://review.t…　2026-09-11 20:36:48投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=16280\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "広々とした落ち着く部屋と素敵な中庭お部屋がとても広く落ち着く内装で良き古さも感じられリラックスできました中庭も素敵でした。",
     "hotelMinCharge": 7700,
     "address1": "熊本県",
     "address2": "人吉市上青井町180",
-    "telephoneNo": "0966-22-2244",
+    "telephoneNo": "44",
     "access": "人吉ICより車で約8分",
     "parkingInformation": "有り　30台　無料　先着順",
     "nearestStation": "人吉",
@@ -59,11 +59,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9340/9340map.gif",
     "reviewCount": 797,
     "reviewAverage": 4.05,
-    "userReview": "露天風呂三昧と美味しい食事でゆったり満喫1人で露天風呂付きのお風呂に2泊宿泊させていただきました。部屋の露天風呂に入ったり、貸切露天風呂に入ったり、またまた大浴場に行ったりとゆったりと過ご…　2026-09-15 23:41:28投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=9340\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "露天風呂三昧と美味しい食事でゆったり満喫1人で露天風呂付きのお風呂に2泊宿泊させていただきました。部屋の露天風呂に入ったり、貸切露天風呂に入ったり、またまた大浴場に行ったりとゆったりと過ご。",
     "hotelMinCharge": 8800,
     "address1": "群馬県",
     "address2": "利根郡みなかみ町藤原4957-1",
-    "telephoneNo": "0278-75-2321",
+    "telephoneNo": "21",
     "access": "車で関越自動車道・水上ＩＣから３０分・ＪＲで上越線　水上駅より　湯ノ小屋行きバスで藤原スキー場入口下車900M",
     "parkingInformation": "有り ３００台 無料 先着順",
     "nearestStation": "水上",
@@ -84,11 +84,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/144534/144534map.gif",
     "reviewCount": 71,
     "reviewAverage": 4.6,
-    "userReview": "こだわりのインテリアと静かな空間に感動部屋数が少ないので選んだ。インテリアのこだわりが感じられて、珍しいもてなしを受けた感じ。大きなホテルや旅館ではありえない静かな時間と空間を経験できた。クチ…　2026-08-02 17:07:45投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=144534\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "こだわりのインテリアと静かな空間に感動部屋数が少ないので選んだ。インテリアのこだわりが感じられて、珍しいもてなしを受けた感じ。大きなホテルや旅館ではありえない静かな時間と空間を経験できた。クチ。",
     "hotelMinCharge": 20480,
     "address1": "静岡県",
     "address2": "富士宮市内房385",
-    "telephoneNo": "0544-65-0366",
+    "telephoneNo": "66",
     "access": "新東名新清水インター��りお車で７分。東名高速富士川サービスエリアよりお車で２０分。ＪＲ芝川駅よりタクシーで１０分",
     "parkingInformation": "有り　１０台　無料　予約不要",
     "nearestStation": "芝川",
@@ -109,11 +109,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30696/30696map.gif",
     "reviewCount": 2359,
     "reviewAverage": 4.17,
-    "userReview": "最上階で景色を眺めながら贅沢な夕食を堪能夏休みの時期だったので、少し奮発して1日目はイタリアン、2日目はしゃぶしゃぶの夕食に。最上階レストランで景色も眺めながらゆったりした時間を過ごせました。サー…　2026-09-19 11:27:45投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=30696\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "最上階で景色を眺めながら贅沢な夕食を堪能夏休みの時期だったので、少し奮発して1日目はイタリアン、2日目はしゃぶしゃぶの夕食に。最上階レストランで景色も眺めながらゆったりした時間を過ごせました。サー。",
     "hotelMinCharge": 10450,
     "address1": "群馬県",
     "address2": "利根郡みなかみ町藤原6152-1",
-    "telephoneNo": "0278-75-2222",
+    "telephoneNo": "22",
     "access": "関越自動車道「水上ＩＣ」から19ｋｍ（30分）／上越新幹線「上毛高原駅」から送迎シャトルバス有(3日前までの要事前予約)",
     "parkingInformation": "有　７００台　無料",
     "nearestStation": "上毛高原",
@@ -134,11 +134,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/109036/109036map.gif",
     "reviewCount": 698,
     "reviewAverage": 4.23,
-    "userReview": "食事の質と量は満足、朝食の混雑は改善希望北海道ツーリングの際に利用しました。5年以上前に利用して以来で久しぶりの宿泊です。建物はそれなりに経年を感じられますが、客室やレストラン、温泉設備にくたびれ…　2026-09-15 22:50:02投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=109036\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "食事の質と量は満足、朝食の混雑は改善希望北海道ツーリングの際に利用しました。5年以上前に利用して以来で久しぶりの宿泊です。建物はそれなりに経年を感じられますが、客室やレストラン、温泉設備にくたびれ。",
     "hotelMinCharge": 3000,
     "address1": "北海道",
     "address2": "上川郡新得町屈足808番地",
-    "telephoneNo": "0156-65-2141",
+    "telephoneNo": "41",
     "access": "新得駅から車で約20分／札幌北IC～高速トマムIC経由：約2時間30分／千歳東IC～高速トマムIC経由：約2時間",
     "parkingInformation": "有り　60台　無料　予約不要",
     "nearestStation": "新得",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「国登録有形文化財の宿 人吉温泉 芳野旅館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「国登録有形文化財の宿 人吉温泉 芳野旅館」へは、人吉ICより車で約8分。最寄りの人吉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「国登録有形文化財の宿 人吉温泉 芳野旅館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「国登録有形文化財の宿 人吉温泉 芳野旅館」は『国登録有形文化財の宿 歴史感じる純和風旅館 源泉掛け流し天然温泉と旬の会席料理で心和むひと』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「国登録有形文化財の宿 人吉温泉 芳野旅館」と「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「国登録有形文化財の宿 人吉温泉 芳野旅館。」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「国登録有形文化財の宿 人吉温泉 芳野旅館。」へは、人吉ICより車で約8分。最寄りの人吉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「国登録有形文化財の宿 人吉温泉 芳野旅館。」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「国登録有形文化財の宿 人吉温泉 芳野旅館。」は『国登録有形文化財の宿 歴史感じる純和風旅館 源泉掛け流し天然温泉と旬の会席料理で心和むひと。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「国登録有形文化財の宿 人吉温泉 芳野旅館。」と「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -584,9 +584,9 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 人吉駅よりアクセス。人吉ICより車で約8分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「国登録有形文化財の宿 人吉温泉 芳野旅館」にチェックイン。国登録有形文化財の宿 歴史感じる純和風旅館 源泉掛け流し天然温泉と旬の会席料理で心和むひと時をなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「国登録有形文化財の宿 人吉温泉 芳野旅館」の湯処へ。国登録有形文化財の宿 歴史感じる純和風旅館 源泉掛け流し天然温泉と旬のとともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「国登録有形文化財の宿 人吉温泉 芳野旅館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「国登録有形文化財の宿 人吉温泉 芳野旅館。」にチェックイン。国登録有形文化財の宿 歴史感じる純和風旅館 源泉掛け流し天然温泉と旬の会席料理で心和むひと時をなどの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「国登録有形文化財の宿 人吉温泉 芳野旅館。」の湯処へ。国登録有形文化財の宿 歴史感じる純和風旅館 源泉掛け流し天然温泉と旬のとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「国登録有形文化財の宿 人吉温泉 芳野旅館。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -595,9 +595,9 @@ export default function FeatureDetailPage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「国登録有形文化財の宿 人吉温泉 芳野旅館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「国登録有形文化財の宿 人吉温泉 芳野旅館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「国登録有形文化財の宿 人吉温泉 芳野旅館。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「国登録有形文化財の宿 人吉温泉 芳野旅館。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -614,20 +614,20 @@ export default function FeatureDetailPage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「国登録有形文化財の宿 人吉温泉 芳野旅館」へのアクセスや移動方法について</span>
+                <span>Q. 「国登録有形文化財の宿 人吉温泉 芳野旅館。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「国登録有形文化財の宿 人吉温泉 芳野旅館」へは、人吉ICより車で約8分。最寄りの人吉駅からの経路案内も充実しています。
+                A. 「国登録有形文化財の宿 人吉温泉 芳野旅館。」へは、人吉ICより車で約8分。最寄りの人吉駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「国登録有形文化財の宿 人吉温泉 芳野旅館」の魅力や予約時のポイントは？</span>
+                <span>Q. 「国登録有形文化財の宿 人吉温泉 芳野旅館。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「国登録有形文化財の宿 人吉温泉 芳野旅館」は『国登録有形文化財の宿 歴史感じる純和風旅館 源泉掛け流し天然温泉と旬の会席料理で心和むひと』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「国登録有形文化財の宿 人吉温泉 芳野旅館。」は『国登録有形文化財の宿 歴史感じる純和風旅館 源泉掛け流し天然温泉と旬の会席料理で心和むひと。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -636,7 +636,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「国登録有形文化財の宿 人吉温泉 芳野旅館」と「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「国登録有形文化財の宿 人吉温泉 芳野旅館。」と「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

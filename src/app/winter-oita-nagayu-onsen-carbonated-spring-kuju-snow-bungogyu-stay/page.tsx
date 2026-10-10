@@ -177,8 +177,8 @@ export default function WinterOitaNagayuPage() {
         'description': "11月から12月にかけて、大分県竹田市の芹川沿いに広がる長湯温泉は、初雪を冠した雄大なくじゅう連山のパノラマと、世界屈指の湧出量・高濃度を誇る「奇跡の天然炭酸泉」が旅人を魅了します。ぬるめの湯に浸かると全身が銀色の炭酸泡に包まれ、血行促進と芯からのポカポカ感が持続する日本有数の名湯。「飲んで効き 浴ちて効く」長湯の名湯巡りやラムネ温泉館を堪能した後は、芹川の清流が育んだ「清流の女王エノハ（ヤマメ）」の塩焼きや骨酒、極上のおおいた豊後牛会席に舌鼓。初冬の静寂と滋味あふれる名宿5選を徹底解説します。",
         'inLanguage': 'ja',
         'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-oita-nagayu-onsen-carbonated-spring-kuju-snow-bungogyu-stay',
-        'datePublished': '2026-09-28T00:00:00+09:00',
-        'dateModified': '2026-09-28T00:00:00+09:00',
+        'datePublished': 'T00:00:00+09:00',
+        'dateModified': 'T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
           'name': 'クラドトラベル編集部',

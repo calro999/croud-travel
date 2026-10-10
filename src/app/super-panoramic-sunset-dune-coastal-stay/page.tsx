@@ -34,7 +34,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/178912/178912map.gif",
     "reviewCount": 641,
     "reviewAverage": 3.91,
-    "userReview": "夜ご飯のバイキングでお酒も楽しめたバイキング形式の夜ご飯で、お酒の提供があってよかったです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/…　2026-09-10 05:11:42投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=178912\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "夜ご飯のバイキングでお酒も楽しめたバイキング形式の夜ご飯で、お酒の提供があってよかったです。",
     "hotelMinCharge": 7898,
     "address1": "静岡県",
     "address2": "賀茂郡西伊豆町宇久須2102-1",
@@ -59,11 +59,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147160/147160map.gif",
     "reviewCount": 1537,
     "reviewAverage": 4.22,
-    "userReview": "食事は美味しく接客も良いが予約と備品に不満家族旅行なので、一緒に食事はわかってもらえてると思い込んでいたのに、夕食の設定が出来ていなかった。双方の確認が必要だったのか、ホテル側の念押しもあっても良…　2026-09-18 22:33:31投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=147160\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "双方の確認が必要だったのか、ホテル側の念押しもあっても良。",
     "hotelMinCharge": 11000,
     "address1": "山口県",
     "address2": "萩市堀内485-2",
-    "telephoneNo": "0838-21-7121",
+    "telephoneNo": "21",
     "access": "「JR東萩駅」より車で約5分／世界遺産「萩城下町」は徒歩圏内／「美祢東JCT」経由「絵堂IC」より車で約30分",
     "parkingInformation": "50台（無料）／予約不要",
     "nearestStation": "東萩",
@@ -84,7 +84,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/191950/191950map.gif",
     "reviewCount": 50,
     "reviewAverage": 4.19,
-    "userReview": "建物は古いが部屋は広く、��岸も近くて便利建物は古めですが部屋も広く清掃はしっかりされていました韓国系のオーナーなのか関連したグッズが廊下や部屋に置いてありました部屋は広くてゆったり使えます…　2026-09-19 06:26:20投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=191950\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "建物は古いが部屋は広く、��岸も近くて便利建物は古めですが部屋も広く清掃はしっかりされていました韓国系のオーナーなのか関連したグッズが廊下や部屋に置いてありました部屋は広くてゆったり使えます。",
     "hotelMinCharge": 4800,
     "address1": "山形県",
     "address2": "鶴岡市湯野浜1-3-36",
@@ -109,11 +109,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/161194/161194map.gif",
     "reviewCount": 781,
     "reviewAverage": 3.09,
-    "userReview": "受付の不在や朝風呂の廃止など不満が残る内容受付に長時間人がいない、緊急電話も繋がらない、テレビはBSだけと書いておいてほしかったです。お風呂は良かったですが、朝風呂がなくなったことはHPでも更新し…　2026-09-15 19:47:16投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=161194\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "お風呂は良かったですが、朝風呂がなくなったことはHPでも更新し。",
     "hotelMinCharge": 6500,
     "address1": "和歌山県",
     "address2": "西牟婁郡白浜町1688-2",
-    "telephoneNo": "0739-82-3578",
+    "telephoneNo": "78",
     "access": "白浜駅からお車で約15分,JR難波から高速バス約3時間千畳口下車１分,　南紀白浜IC・白浜空港から約10分。",
     "parkingInformation": "有　無料",
     "nearestStation": "白浜",
@@ -181,7 +181,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「宇久須温泉 西伊豆クリスタルビューホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「宇久須温泉 西伊豆クリスタルビューホテル」へは、修善寺駅よりお車にて約７５分。最寄りの修善寺駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「宇久須温泉 西伊豆クリスタルビューホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「宇久須温泉 西伊豆クリスタルビューホテル」は『クリスタルビーチを眼下に望む温泉リゾート。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「宇久須温泉 西伊豆クリスタルビューホテル」と「萩温泉郷 海が奏でる癒しの宿 リゾートホテル美萩」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「宇久須温泉 西伊豆クリスタルビューホテル。」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「宇久須温泉 西伊豆クリスタルビューホテル。」へは、修善寺駅よりお車にて約７５分。最寄りの修善寺駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「宇久須温泉 西伊豆クリスタルビューホテル。」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「宇久須温泉 西伊豆クリスタルビューホテル。」は『クリスタルビーチを眼下に望む温泉リゾート。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「宇久須温泉 西伊豆クリスタルビューホテル。」と「萩温泉郷 海が奏でる癒しの宿 リゾートホテル美萩。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -500,9 +500,9 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 修善寺駅よりアクセス。修善寺駅よりお車にて約７５分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「宇久須温泉 西伊豆クリスタルビューホテル」にチェックイン。クリスタルビーチを眼下に望む温泉リゾート。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「宇久須温泉 西伊豆クリスタルビューホテル」の湯処へ。クリスタルビーチを眼下に望む温泉リゾート。とともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「宇久須温泉 西伊豆クリスタルビューホテル」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「宇久須温泉 西伊豆クリスタルビューホテル。」にチェックイン。クリスタルビーチを眼下に望む温泉リゾート。などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「宇久須温泉 西伊豆クリスタルビューホテル。」の湯処へ。クリスタルビーチを眼下に望む温泉リゾート。とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「宇久須温泉 西伊豆クリスタルビューホテル。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -511,9 +511,9 @@ export default function FeatureDetailPage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「宇久須温泉 西伊豆クリスタルビューホテル」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「宇久須温泉 西伊豆クリスタルビューホテル」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「萩温泉郷 海が奏でる癒しの宿 リゾートホテル美萩」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「宇久須温泉 西伊豆クリスタルビューホテル。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「宇久須温泉 西伊豆クリスタルビューホテル。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「萩温泉郷 海が奏でる癒しの宿 リゾートホテル美萩。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -530,20 +530,20 @@ export default function FeatureDetailPage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「宇久須温泉 西伊豆クリスタルビューホテル」へのアクセスや移動方法について</span>
+                <span>Q. 「宇久須温泉 西伊豆クリスタルビューホテル。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「宇久須温泉 西伊豆クリスタルビューホテル」へは、修善寺駅よりお車にて約７５分。最寄りの修善寺駅からの経路案内も充実しています。
+                A. 「宇久須温泉 西伊豆クリスタルビューホテル。」へは、修善寺駅よりお車にて約７５分。最寄りの修善寺駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「宇久須温泉 西伊豆クリスタルビューホテル」の魅力や予約時のポイントは？</span>
+                <span>Q. 「宇久須温泉 西伊豆クリスタルビューホテル。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「宇久須温泉 西伊豆クリスタルビューホテル」は『クリスタルビーチを眼下に望む温泉リゾート。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「宇久須温泉 西伊豆クリスタルビューホテル。」は『クリスタルビーチを眼下に望む温泉リゾート。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -552,7 +552,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「宇久須温泉 西伊豆クリスタルビューホテル」と「萩温泉郷 海が奏でる癒しの宿 リゾートホテル美萩」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「宇久須温泉 西伊豆クリスタルビューホテル。」と「萩温泉郷 海が奏でる癒しの宿 リゾートホテル美萩。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

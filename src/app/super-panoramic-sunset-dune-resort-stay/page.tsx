@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/super-panoramic-sunset-dune-resort-stay"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D8778%26f_flg%3DPLAN",
     "hotelMinCharge": 14000,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8778/8778.jpg",
-    "userReview": "木立に囲まれたロケーションが最高です。まず、木立に囲まれたロケーションが良かった。お部屋はシンプルで落ちつく。2人掛けのソファもイイよね。食事も口コミどうり良かった。露天風呂でゆったりくつろぐ…　2026-09-06 18:10:38投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=8778\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "木立に囲まれたロケーションが最高です。まず、木立に囲まれたロケーションが良かった。お部屋はシンプルで落ちつく。2人掛けのソファもイイよね。食事も口コミどうり良かった。露天風呂でゆったりくつろぐ。",
     "reviewAverage": 4.04,
     "reviewCount": 789,
     "address": "兵庫県豊岡市日高町栗栖野55",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D14007%26f_flg%3DPLAN",
     "hotelMinCharge": 35200,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14007/14007.jpg",
-    "userReview": "早めのチェックインと優雅なサービスに大満足1時間近く早めに到着しましたがチェックインも前倒しで受け入れて下さいました。喫茶でのウェルカムドリンク、ガーデンプール、とても優雅な気分で楽しめました…　2026-09-18 22:49:34投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=14007\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "早めのチェックインと優雅なサービスに大満足1時間近く早めに到着しましたがチェックインも前倒しで受け入れて下さいました。喫茶でのウェルカムドリンク、ガーデンプール、とても優雅な気分で楽しめました。",
     "reviewAverage": 4.72,
     "reviewCount": 1179,
     "address": "兵庫県豊岡市城崎町湯島1016-2",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D591%26f_flg%3DPLAN",
     "hotelMinCharge": 6800,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/591/591.jpg",
-    "userReview": "広々とした部屋でコスパ最高!部屋が広くて、このお値段は最高!クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/591?…　2026-09-19 22:44:18投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=591\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "広々とした部屋でコスパ最高!部屋が広くて、このお値段は最高!",
     "reviewAverage": 4.17,
     "reviewCount": 2236,
     "address": "鳥取県鳥取市永楽温泉町403",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D176748%26f_flg%3DPLAN",
     "hotelMinCharge": 4700,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/176748/176748.jpg",
-    "userReview": "1週間でリピートするほど大満足の定宿毎度毎度毎度毎度の定宿!いつもお世話になっております。前の週にプライベート(夏休み)でも訪れて、1週間でのリピート。それでもそれでも大満足のGRクオリティはシン…　2026-09-18 15:45:29投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=176748\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "1週間でリピートするほど大満足の定宿毎度毎度毎度毎度の定宿!いつもお世話になっております。前の週にプライベート(夏休み)でも訪れて、1週間でのリピート。それでもそれでも大満足のGRクオリティはシン。",
     "reviewAverage": 4.2,
     "reviewCount": 886,
     "address": "鳥取県鳥取市永楽温泉町102-6",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D19884%26f_flg%3DPLAN",
     "hotelMinCharge": 7500,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19884/19884.jpg",
-    "userReview": "バイキングと温泉は良いが設備に難ありバイキングは朝、夜ともボリュームもありよかったのですが、鳥取といえば二十世紀梨と思うのですが、全然でてなかったのでそこは残念です。部屋はレトロな感じでした。トイ…　2026-09-09 18:25:22投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=19884\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "部屋はレトロな感じでした。トイ。",
     "reviewAverage": 3.65,
     "reviewCount": 1660,
     "address": "鳥取県東伯郡三朝町大瀬1210",
@@ -322,9 +322,9 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 江原駅よりアクセス。播但連絡道路・北近畿豊岡自動車道 日高神鍋高原ＩＣより １５分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「神鍋温泉 自然に癒される高原ホテル ブルーリッジホテル」にチェックイン。アワビや国産牛の夏バイキング！安心の屋内プールや庭遊び、星空露天と源泉１００％の湯で至福の休息を。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「神鍋温泉 自然に癒される高原ホテル ブルーリッジホテル」の湯処へ。アワビや国産牛の夏バイキング！安心の屋内プールや庭遊び、星空露天と源泉とともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「神鍋温泉 自然に癒される高原ホテル ブルーリッジホテル」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「神鍋温泉 自然に癒される高原ホテル ブルーリッジホテル。」にチェックイン。アワビや国産牛の夏バイキング！安心の屋内プールや庭遊び、星空露天と源泉１００％の湯で至福の休息を。などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「神鍋温泉 自然に癒される高原ホテル ブルーリッジホテル。」の湯処へ。アワビや国産牛の夏バイキング！安心の屋内プールや庭遊び、星空露天と源泉とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「神鍋温泉 自然に癒される高原ホテル ブルーリッジホテル。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -333,8 +333,8 @@ export default function Page() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「神鍋温泉 自然に癒される高原ホテル ブルーリッジホテル」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「神鍋温泉 自然に癒される高原ホテル ブルーリッジホテル」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「神鍋温泉 自然に癒される高原ホテル ブルーリッジホテル。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「神鍋温泉 自然に癒される高原ホテル ブルーリッジホテル。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「城崎温泉 西村屋ホテル招月庭」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
@@ -352,20 +352,20 @@ export default function Page() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「神鍋温泉 自然に癒される高原ホテル ブルーリッジホテル」へのアクセスや移動方法について</span>
+                <span>Q. 「神鍋温泉 自然に癒される高原ホテル ブルーリッジホテル。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「神鍋温泉 自然に癒される高原ホテル ブルーリッジホテル」へは、播但連絡道路・北近畿豊岡自動車道 日高神鍋高原ＩＣより １５分。最寄りの江原駅からの経路案内も充実しています。
+                A. 「神鍋温泉 自然に癒される高原ホテル ブルーリッジホテル。」へは、播但連絡道路・北近畿豊岡自動車道 日高神鍋高原ＩＣより １５分。最寄りの江原駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「神鍋温泉 自然に癒される高原ホテル ブルーリッジホテル」の魅力や予約時のポイントは？</span>
+                <span>Q. 「神鍋温泉 自然に癒される高原ホテル ブルーリッジホテル。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「神鍋温泉 自然に癒される高原ホテル ブルーリッジホテル」は『アワビや国産牛の夏バイキング！安心の屋内プールや庭遊び、星空露天と源泉１００％の湯で至福の』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「神鍋温泉 自然に癒される高原ホテル ブルーリッジホテル。」は『アワビや国産牛の夏バイキング！安心の屋内プールや庭遊び、星空露天と源泉１００％の湯で至福の。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -374,7 +374,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「神鍋温泉 自然に癒される高原ホテル ブルーリッジホテル」と「城崎温泉 西村屋ホテル招月庭」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「神鍋温泉 自然に癒される高原ホテル ブルーリッジホテル。」と「城崎温泉 西村屋ホテル招月庭」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

@@ -73,7 +73,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ホテルルートイン丸亀」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ホテルルートイン丸亀」へは、ＪＲ 丸亀駅よりお車で５分。最寄りの丸亀駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ホテルルートイン丸亀」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ホテルルートイン丸亀」は『ＷＯＷＯＷ全室で無料視聴可■男女別大浴場完備■朝食バイキング無料！24時間チェックインOK』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ホテルルートイン丸亀」と「スーパーホテル丸亀駅前 天然温泉「京極の湯」」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ホテルルートイン丸亀」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ホテルルートイン丸亀」へは、ＪＲ 丸亀駅よりお車で５分。最寄りの丸亀駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ホテルルートイン丸亀」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ホテルルートイン丸亀」は『ＷＯＷＯＷ全室で無料視聴可■男女別大浴場完備■朝食バイキング無料！24時間チェックインOK。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ホテルルートイン丸亀」と「スーパーホテル丸亀駅前 天然温泉「京極の湯」」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
 
         {/* セクション 1 */}
@@ -335,7 +335,7 @@ export default function Page() {
             </div>
             <div className="bg-stone-950/60 p-4 rounded-2xl border border-stone-800">
               <span className="text-amber-400 font-bold block mb-1">💡 旅のワンポイント・秘訣</span>
-              <span className="text-stone-300">超有名店「日の出製麺所（坂出市）」の店頭うどん営業時間は「昼の11:30〜12:30のわずか1時間」という幻のうどん店として有名です。</span>
+              <span className="text-stone-300">超有名店「日の出製麺所（坂出市）」の店頭うどん営業時間は「昼の11:30〜12:30のわずか1時間。」という幻のうどん店として有名です。</span>
             </div>
           </div>
 
@@ -803,7 +803,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「ホテルルートイン丸亀」は『ＷＯＷＯＷ全室で無料視聴可■男女別大浴場完備■朝食バイキング無料！24時間チェックインOK』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「ホテルルートイン丸亀」は『ＷＯＷＯＷ全室で無料視聴可■男女別大浴場完備■朝食バイキング無料！24時間チェックインOK。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

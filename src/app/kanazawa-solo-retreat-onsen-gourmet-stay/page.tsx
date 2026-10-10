@@ -7,11 +7,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kanazawa-solo-retreat-onsen-gourmet-stay/" },
   title: '【金沢ひとり旅・美食おこもり】近江町市場徒歩すぐ・最上階天然温泉・のどぐろ会席！加賀百万石の極上ステイ 厳選3選',
-  description: '「北陸新幹線でふらりと金沢へ出かけ、静かにアートと名湯、日本海の海の幸に浸りたい」。大人ソロトラベラーへ。全館畳敷きで最上階に天然温泉大浴場といくら乗せ放題朝食を誇る「御宿 野乃 金沢」、尾山神社すぐ隣で武家屋敷の美意識を宿す「三井ガーデンホテル金沢」、金沢駅兼六園口徒歩3分で客室マッサージ機完備の「ホテルフォルツァ金沢」を徹底特集。',
+  description: '「北陸新幹線でふらりと金沢へ出かけ、静かにアートと名湯、日本海の海の幸に浸りたい。」。大人ソロトラベラーへ。全館畳敷きで最上階に天然温泉大浴場といくら乗せ放題朝食を誇る「御宿 野乃 金沢」、尾山神社すぐ隣で武家屋敷の美意識を宿す「三井ガーデンホテル金沢」、金沢駅兼六園口徒歩3分で客室マッサージ機完備の「ホテルフォルツァ金沢」を徹底特集。',
   keywords: '金沢 一人旅 ホテル おすすめ,金沢 温泉 ホテル 一人,御宿野乃金沢 朝食,三井ガーデンホテル金沢 宿泊,金沢駅 ひとり旅 ホテル',
   openGraph: {
     title: '【金沢ひとり旅・美食おこもり】近江町市場徒歩すぐ・最上階天然温泉・のどぐろ会席！加賀百万石の極上ステイ 厳選3選',
-    description: '「北陸新幹線でふらりと金沢へ出かけ、静かにアートと名湯、日本海の海の幸に浸りたい」。大人ソロトラベラーへ。全館畳敷きで最上階に天然温泉大浴場といくら乗せ放題朝食を誇る「御宿 野乃 金沢」、尾山神社すぐ隣で武家屋敷の美意識を宿す「三井ガーデンホテル金沢」、金沢駅兼六園口徒歩3分で客室マッサージ機完備の「ホテルフォルツァ金沢」を徹底特集。',
+    description: '「北陸新幹線でふらりと金沢へ出かけ、静かにアートと名湯、日本海の海の幸に浸りたい。」。大人ソロトラベラーへ。全館畳敷きで最上階に天然温泉大浴場といくら乗せ放題朝食を誇る「御宿 野乃 金沢」、尾山神社すぐ隣で武家屋敷の美意識を宿す「三井ガーデンホテル金沢」、金沢駅兼六園口徒歩3分で客室マッサージ機完備の「ホテルフォルツァ金沢」を徹底特集。',
     url: 'https://croud-travel.pages.dev/kanazawa-solo-retreat-onsen-gourmet-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -24,7 +24,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【金沢ひとり旅・美食おこもり】近江町市場徒歩すぐ・最上階天然温泉・のどぐろ会席！加賀百万石の極上ステイ 厳選3選',
-    description: '「北陸新幹線でふらりと金沢へ出かけ、静かにアートと名湯、日本海の海の幸に浸りたい」。大人ソロトラベラーへ。全館畳敷きで最上階に天然温泉大浴場といくら乗せ放題朝食を誇る「御宿 野乃 金沢」、尾山神社すぐ隣で武家屋敷の美意識を宿す「三井ガーデンホテル金沢」、金沢駅兼六園口徒歩3分で客室マッサージ機完備の「ホテルフォルツァ金沢」を徹底特集。',
+    description: '「北陸新幹線でふらりと金沢へ出かけ、静かにアートと名湯、日本海の海の幸に浸りたい。」。大人ソロトラベラーへ。全館畳敷きで最上階に天然温泉大浴場といくら乗せ放題朝食を誇る「御宿 野乃 金沢」、尾山神社すぐ隣で武家屋敷の美意識を宿す「三井ガーデンホテル金沢」、金沢駅兼六園口徒歩3分で客室マッサージ機完備の「ホテルフォルツァ金沢」を徹底特集。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・出張調査班',
@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-11T02:40:00+09:00',
-    dateModified: '2026-09-11T02:40:00+09:00',
+    datePublished: 'T02:40:00+09:00',
+    dateModified: 'T02:40:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/kanazawa-solo-retreat-onsen-gourmet-stay',
   };
 
@@ -78,7 +78,7 @@ export default function ArticlePage() {
           【金沢ひとり旅・美食おこもり】近江町市場徒歩すぐ・最上階天然温泉・のどぐろ会席！加賀百万石の極上ステイ 厳選3選
         </h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
-          「北陸新幹線でふらりと金沢へ出かけ、静かにアートと名湯、日本海の海の幸に浸りたい」。大人ソロトラベラーへ。全館畳敷きで最上階に天然温泉大浴場といくら乗せ放題朝食を誇る「御宿 野乃 金沢」、尾山神社すぐ隣で武家屋敷の美意識を宿す「三井ガーデンホテル金沢」、金沢駅兼六園口徒歩3分で客室マッサージ機完備の「ホテルフォルツァ金沢」を徹底特集。
+          「北陸新幹線でふらりと金沢へ出かけ、静かにアートと名湯、日本海の海の幸に浸りたい。」。大人ソロトラベラーへ。全館畳敷きで最上階に天然温泉大浴場といくら乗せ放題朝食を誇る「御宿 野乃 金沢」、尾山神社すぐ隣で武家屋敷の美意識を宿す「三井ガーデンホテル金沢」、金沢駅兼六園口徒歩3分で客室マッサージ機完備の「ホテルフォルツァ金沢」を徹底特集。
         </p>
       </header>
 
@@ -161,7 +161,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.55点。「全館畳敷きが本当に快適で、最上階の温泉と朝食の海鮮丼が感動レベルでした」「一人旅でも居心地がよく、近江町市場すぐで最高の立地」とリピーター続出。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.55点。「全館畳敷きが本当に快適で、最上階の温泉と朝食の海鮮丼が感動レベルでした。」「一人旅でも居心地がよく、近江町市場すぐで最高の立地。」とリピーター続出。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -236,7 +236,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.58点。「大浴場からの眺望が素晴らしく、お部屋の設えも上品で落ち着けました」「観光名所へどこへでも歩いて行けて一人旅に最適でした」と大好評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.58点。「大浴場からの眺望が素晴らしく、お部屋の設えも上品で落ち着けました。」「観光名所へどこへでも歩いて行けて一人旅に最適でした。」と大好評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -311,7 +311,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.48点。「部屋にマッサージチェアがあって歩き疲れた体に最高でした」「駅近で新しく綺麗、一人で泊まるのにこれ以上ない快適さ」と定評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.48点。「部屋にマッサージチェアがあって歩き疲れた体に最高でした。」「駅近で新しく綺麗、一人で泊まるのにこれ以上ない快適さ。」と定評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">

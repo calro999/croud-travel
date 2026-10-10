@@ -37,8 +37,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-16T00:00:00+09:00',
-    dateModified: '2026-09-16T00:00:00+09:00',
+    datePublished: 'T00:00:00+09:00',
+    dateModified: 'T00:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/shizuoka-atagawa-solo-retreat-steam-onsen-stay',
   };
 
@@ -79,7 +79,7 @@ export default function ArticlePage() {
             【東伊豆・熱川温泉ひとり旅・自噴湯けむりおこもり】自家源泉100度超・六つの貸切露天風呂・金目鯛姿煮！伊豆急直通の海辺厳選3宿
           </h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
-            更新日：2026年9月16日 | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
+            更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -366,9 +366,9 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 伊豆熱川駅よりアクセス。伊豆急行線・伊豆熱川温泉駅／Ｒ１３５を通り、熱海から約１時間。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「伊豆熱川温泉 六つの貸切風呂を湯めぐり ふたりの湯宿 湯花満開」にチェックイン。2023年12月半露天風呂付き客室誕生！6つの源泉掛け流し温泉、海の幸のお食事が人気。伊豆熱川駅5分などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「伊豆熱川温泉 六つの貸切風呂を湯めぐり ふたりの湯宿 湯花満開」の湯処へ。2023年12月半露天風呂付き客室誕生！6つの源泉掛け流し温泉、海の幸とともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「伊豆熱川温泉 六つの貸切風呂を湯めぐり ふたりの湯宿 湯花満開」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「伊豆熱川温泉 六つの貸切風呂を湯めぐり ふたりの湯宿 湯花満開。」にチェックイン。2023年12月半露天風呂付き客室誕生！6つの源泉掛け流し温泉、海の幸のお食事が人気。伊豆熱川駅5分などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「伊豆熱川温泉 六つの貸切風呂を湯めぐり ふたりの湯宿 湯花満開。」の湯処へ。2023年12月半露天風呂付き客室誕生！6つの源泉掛け流し温泉、海の幸とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「伊豆熱川温泉 六つの貸切風呂を湯めぐり ふたりの湯宿 湯花満開。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -377,8 +377,8 @@ export default function ArticlePage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「伊豆熱川温泉 六つの貸切風呂を湯めぐり ふたりの湯宿 湯花満開」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「伊豆熱川温泉 六つの貸切風呂を湯めぐり ふたりの湯宿 湯花満開」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「伊豆熱川温泉 六つの貸切風呂を湯めぐり ふたりの湯宿 湯花満開。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「伊豆熱川温泉 六つの貸切風呂を湯めぐり ふたりの湯宿 湯花満開。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「熱川温泉 熱川プリンスホテル」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>

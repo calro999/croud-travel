@@ -88,7 +88,7 @@ export default function FurusatoTaxPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「フォートリート＋那須高原」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「フォートリート＋那須高原」へは、東北自動車道那須ICより車で約20分／那須塩原駅より路線バス有り（有料／要予約）詳しくはホテルまでお問い合わせ下さい。最寄りの那須塩原駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「フォートリート＋那須高原」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「フォートリート＋那須高原」は『那須高原の絶景に癒される大人の高原リゾート旅。鹿の湯源泉の白濁硫黄泉で心ほどけるひとときを』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「フォートリート＋那須高原」と「那須高原の貸し切り温泉 ペンション タム！」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「フォートリート＋那須高原」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「フォートリート＋那須高原」へは、東北自動車道那須ICより車で約20分／那須塩原駅より路線バス有り（有料／要予約）詳しくはホテルまでお問い合わせ下さい。最寄りの那須塩原駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「フォートリート＋那須高原」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「フォートリート＋那須高原」は『那須高原の絶景に癒される大人の高原リゾート旅。鹿の湯源泉の白濁硫黄泉で心ほどけるひとときを。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「フォートリート＋那須高原」と「那須高原の貸し切り温泉 ペンション タム！」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* リード文ブロック */}
         <section className="bg-slate-900/80 border border-slate-800 rounded-3xl p-6 md:p-10 shadow-xl relative overflow-hidden">
@@ -432,8 +432,7 @@ export default function FurusatoTaxPage() {
                             <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
                               清里高原リゾート（旧：清里高原ホテル）
                             </h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
-                              2026年5月1日（金）リニューアルオープン ―天空の青音リトリート‐Calm Blue―
+                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">（金）リニューアルオープン ―天空の青音リトリート‐Calm Blue―
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
                               <span>📍</span>
@@ -824,7 +823,7 @@ export default function FurusatoTaxPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「フォートリート＋那須高原」は『那須高原の絶景に癒される大人の高原リゾート旅。鹿の湯源泉の白濁硫黄泉で心ほどけるひとときを』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「フォートリート＋那須高原」は『那須高原の絶景に癒される大人の高原リゾート旅。鹿の湯源泉の白濁硫黄泉で心ほどけるひとときを。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

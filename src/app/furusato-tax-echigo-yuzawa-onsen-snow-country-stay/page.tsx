@@ -74,7 +74,7 @@ export default function FurusatoTaxArticle() {
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
           <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">
-            「国境の長いトンネルを抜けると雪国であった」——越後湯沢温泉で巡る文学の足跡と極上の米・酒・湯治ステイ
+            「国境の長いトンネルを抜けると雪国であった。」——越後湯沢温泉で巡る文学の足跡と極上の米・酒・湯治ステイ
           </h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             ノーベル文学賞作家・川端康成が不朽の名作『雪国』を執筆したことで世界的に知られる越後湯沢温泉。東京駅から上越新幹線でわずか約70分という抜群のアクセスを誇りながら、谷川連峰の雄大な山々に抱かれた白銀の別世界が広がります。平安時代末期に源泉が発見されたと伝わる歴史ある湯は、肌に優しく柔らかなアルカリ性単純温泉。湯上がりの肌がしっとりと潤い、長旅の疲れをじんわりと解きほぐしてくれます。
@@ -185,7 +185,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.72点。「源泉掛け流しのお湯が本当に素晴らしく何度でも入りたくなる」「かすみ草の間の見学と高台からの越後湯沢の景色に感動した」と高い支持を得ています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.72点。「源泉掛け流しのお湯が本当に素晴らしく何度でも入りたくなる。」「かすみ草の間の見学と高台からの越後湯沢の景色に感動した。」と高い支持を得ています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -279,7 +279,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.53点。「全館畳敷きが本当に快適でリラックスできた」「ご飯が驚くほど美味しくスタッフの接客も温かい」とファミリーや夫婦旅行に大好評です。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.53点。「全館畳敷きが本当に快適でリラックスできた。」「ご飯が驚くほど美味しくスタッフの接客も温かい。」とファミリーや夫婦旅行に大好評です。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -373,7 +373,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.44点、口コミ2100件超。「バイキングのローストビーフとケーキが絶品」「スキー場直結で温泉も広く家族全員が大満足」と高評価を集めています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.44点、口コミ2100件超。「バイキングのローストビーフとケーキが絶品。」「スキー場直結で温泉も広く家族全員が大満足。」と高評価を集めています。</p>
               </div>
 
               {/* 宿基本情報 */}

@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/isolated-island-remote-paradise-resort-stay"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D145332%26f_flg%3DPLAN",
     "hotelMinCharge": 4300,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/145332/145332.jpg",
-    "userReview": "オーシャンビューと朝食に感動、コスパ最高!沖縄旅行2日目に2名で宿泊しました。夜到着のため朝起きて窓からの素晴らしいオーシャンビューに大感動しました。夜、宿泊者用専用の卓球やダーツを楽しみまし…　2026-09-19 09:38:42投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=145332\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "オーシャンビューと朝食に感動、コスパ最高!沖縄旅行2日目に2名で宿泊しました。夜到着のため朝起きて窓からの素晴らしいオーシャンビューに大感動しました。夜、宿泊者用専用の卓球やダーツを楽しみまし。",
     "reviewAverage": 4.18,
     "reviewCount": 1188,
     "address": "沖縄県うるま市与那城伊計1286",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D44874%26f_flg%3DPLAN",
     "hotelMinCharge": 5500,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/44874/44874.jpg",
-    "userReview": "プールや縁日、食事も充実した夏の思い出夏休みに利用しました。14時に手続きだけして子どもたちとプールへ。低学年と未就学児にはちょうどよいサイズで、監視員のお兄さん達も子どもたちと遊んでくださり、子…　2026-09-17 23:28:39投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=44874\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "プールや縁日、食事も充実した夏の思い出夏休みに利用しました。14時に手続きだけして子どもたちとプールへ。低学年と未就学児にはちょうどよいサイズで、監視員のお兄さん達も子どもたちと遊んでくださり、子。",
     "reviewAverage": 4.27,
     "reviewCount": 1939,
     "address": "香川県小豆郡小豆島町古江乙16-3",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D54209%26f_flg%3DPLAN",
     "hotelMinCharge": 7898,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/54209/54209.jpg",
-    "userReview": "リピーターです麻雀が好きで4人で何度も利用してます。麻雀好きな方は2泊がオススメ、初日は13:00より0:00まで可、2日目も朝食後一日中0:00まで可 3日目も朝食後11:00まで可、麻雀の合間…　2026-09-19 19:38:46投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=54209\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "リピーターです麻雀が好きで4人で何度も利用してます。麻雀好きな方は2泊がオススメ、初日は13:00より0:00まで可、2日目も朝食後一日中0:00まで可 3日目も朝食後11:00まで可、麻雀の合間。",
     "reviewAverage": 3.92,
     "reviewCount": 2197,
     "address": "静岡県熱海市和田浜南町3-9",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D75267%26f_flg%3DPLAN",
     "hotelMinCharge": 5698,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/75267/75267.jpg",
-    "userReview": "眺望と露天風呂が最高、コスパも良く満足2食付きのプランで宿泊しました。3階の客室でしたが眺望も素晴らしく、この価格を考えるとコストパフォーマンスも良く、全体的に満足できました。そのうえで、…　2026-09-19 21:18:42投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=75267\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "眺望と露天風呂が最高、コスパも良く満足2食付きのプランで宿泊しました。3階の客室でしたが眺望も素晴らしく、この価格を考えるとコストパフォーマンスも良く、全体的に満足できました。そのうえで、。",
     "reviewAverage": 3.72,
     "reviewCount": 974,
     "address": "静岡県熱海市和田浜南町7-2",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D44112%26f_flg%3DPLAN",
     "hotelMinCharge": 10098,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/44112/44112.jpg",
-    "userReview": "料理は期待外れで部屋の清掃も不十分ミニ懐石を期待していましたが美味しい料理が何一つ無かったです。部屋もホコリだらけ、特に窓やドアのガラスはとても清掃しているとは思えない程汚いです。伊東園の…　2026-09-19 16:39:02投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=44112\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "料理は期待外れで部屋の清掃も不十分ミニ懐石を期待していましたが美味しい料理が何一つ無かったです。伊東園の。",
     "reviewAverage": 3.89,
     "reviewCount": 806,
     "address": "静岡県熱海市咲見町6-1",
@@ -322,9 +322,9 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 那覇空港から沖縄自動車道利用で約９０分（沖縄北ＩＣより海中道路県道１０号経由約５０分）で現地へ到着。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「伊計島温泉 AJリゾートアイランド伊計島」へチェックイン。落ち着いた空間で旅の荷を解き、ゆったりとした時間をスタート。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「伊計島温泉 AJリゾートアイランド伊計島」の湯処へ。日頃の疲れを癒やす湯浴みとともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「伊計島温泉 AJリゾートアイランド伊計島」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「伊計島温泉 AJリゾートアイランド伊計島。」へチェックイン。落ち着いた空間で旅の荷を解き、ゆったりとした時間をスタート。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「伊計島温泉 AJリゾートアイランド伊計島。」の湯処へ。日頃の疲れを癒やす湯浴みとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「伊計島温泉 AJリゾートアイランド伊計島。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -333,8 +333,8 @@ export default function Page() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「伊計島温泉 AJリゾートアイランド伊計島」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「伊計島温泉 AJリゾートアイランド伊計島」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「伊計島温泉 AJリゾートアイランド伊計島。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「伊計島温泉 AJリゾートアイランド伊計島。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ベイリゾートホテル小豆島」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
@@ -352,20 +352,20 @@ export default function Page() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「伊計島温泉 AJリゾートアイランド伊計島」へのアクセスや移動方法について</span>
+                <span>Q. 「伊計島温泉 AJリゾートアイランド伊計島。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「伊計島温泉 AJリゾートアイランド伊計島」へは、那覇空港から沖縄自動車道利用で約９０分（沖縄北ＩＣより海中道路県道１０号経由約５０分）。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。
+                A. 「伊計島温泉 AJリゾートアイランド伊計島。」へは、那覇空港から沖縄自動車道利用で約９０分（沖縄北ＩＣより海中道路県道１０号経由約５０分）。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「伊計島温泉 AJリゾートアイランド伊計島」の魅力や予約時のポイントは？</span>
+                <span>Q. 「伊計島温泉 AJリゾートアイランド伊計島。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「伊計島温泉 AJリゾートアイランド伊計島」は上質な客室空間とおもてなしが旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「伊計島温泉 AJリゾートアイランド伊計島。」は上質な客室空間とおもてなしが旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -374,7 +374,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「伊計島温泉 AJリゾートアイランド伊計島」と「ベイリゾートホテル小豆島」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「伊計島温泉 AJリゾートアイランド伊計島。」と「ベイリゾートホテル小豆島」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

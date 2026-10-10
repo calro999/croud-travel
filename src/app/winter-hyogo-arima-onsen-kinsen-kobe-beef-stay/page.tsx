@@ -48,8 +48,8 @@ export default function ArimaWinterPage() {
         "headline": "【11・12月有馬温泉の金泉銀泉と六甲山夜景】日本最古の名湯で芯から温まる冬・最高峰神戸牛会席を味わう老舗宿5選",
         "description": "日本三古湯・三名泉の筆頭として豊臣秀吉もこよなく愛した兵庫・有馬温泉。11月の瑞宝寺公園の紅葉の余韻から、12月の六甲山から望む澄み切った1000万ドルの冬夜景。海水の約2倍の塩分と鉄分を含み冬でも湯冷め知らずの赤茶色の名湯「金泉」と、世界最高峰「神戸牛」の贅沢なすき焼き・ステーキ会席を堪能する極上冬宿ガイド。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
-        "datePublished": "2026-09-27T00:00:00+09:00",
-        "dateModified": "2026-09-27T00:00:00+09:00",
+        "datePublished": "T00:00:00+09:00",
+        "dateModified": "T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

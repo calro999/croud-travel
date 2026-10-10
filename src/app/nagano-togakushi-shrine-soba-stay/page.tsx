@@ -7,7 +7,7 @@ import path from "path";
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagano-togakushi-shrine-soba-stay/" },
   title: "【長野・戸隠＆飯綱高原】戸隠神社五社巡り・奥社杉並木＆日本三大戸隠そば宿 完全ガイド ｜ 日本全国・旅宿クラウド",
-  description: "神話と巨樹の霊山・長野戸隠エリア完全特化！天照大御神の岩戸伝説息づく「戸隠神社五社（奥社・中社・宝光社・九頭龍社・火之御子社）」、樹齢400年奥社杉並木、日本三大そば「戸隠そば（ぼっち盛り）」、戸隠温泉・宿坊旅館を徹底解説。",
+  description: "神話と巨樹の霊山・長野戸隠エリア完全特化！天照大御神の岩戸伝説息づく「戸隠神社五社（奥社・中社・宝光社・九頭龍社・火之御子社）。」、樹齢400年奥社杉並木、日本三大そば「戸隠そば（ぼっち盛り）」、戸隠温泉・宿坊旅館を徹底解説。",
   keywords: ["長野", "戸隠", "飯綱高原", "戸隠神社五社巡り", "奥社杉並木", "日本三大戸隠そば宿", "温泉宿"],
 };
 
@@ -62,7 +62,7 @@ export default function MicroTouristHubPage() {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "【長野・戸隠＆飯綱高原】戸隠神社五社巡り・奥社杉並木＆日本三大戸隠そば宿 完全ガイド ｜ 日本全国・旅宿クラウド",
-    "description": "神話と巨樹の霊山・長野戸隠エリア完全特化！天照大御神の岩戸伝説息づく「戸隠神社五社（奥社・中社・宝光社・九頭龍社・火之御子社）」、樹齢400年奥社杉並木、日本三大そば「戸隠そば（ぼっち盛り）」、戸隠温泉・宿坊旅館を徹底解説。",
+    "description": "神話と巨樹の霊山・長野戸隠エリア完全特化！天照大御神の岩戸伝説息づく「戸隠神社五社（奥社・中社・宝光社・九頭龍社・火之御子社）。」、樹齢400年奥社杉並木、日本三大そば「戸隠そば（ぼっち盛り）」、戸隠温泉・宿坊旅館を徹底解説。",
     "url": "https://croud-travel.pages.dev/nagano-togakushi-shrine-soba-stay/",
     "publisher": {
       "@type": "Organization",

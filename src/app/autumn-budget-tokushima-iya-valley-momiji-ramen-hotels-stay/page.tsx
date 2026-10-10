@@ -100,7 +100,7 @@ export default function AutumnBudgetTokushimaHotelsPage() {
               </div>
             </div>
             <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ＣＯＺＹ　ＣＯＭＦＯＲＴＳ　ＨＯＴＥＬ（コージーコンフォーツホテル）２０２６年８月８日新規オープン
+              ＣＯＺＹ　ＣＯＭＦＯＲＴＳ　ＨＯＴＥＬ（コージーコンフォーツホテル）新規オープン
             </h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -108,11 +108,10 @@ export default function AutumnBudgetTokushimaHotelsPage() {
             </div>
             <div className="grid md:grid-cols-2 gap-4 pt-2">
               <div className="relative aspect-video rounded-xl overflow-hidden bg-slate-100">
-                <Image src="https://img.travel.rakuten.co.jp/share/HOTEL/202210/202210.jpg" alt="ＣＯＺＹ　ＣＯＭＦＯＲＴＳ　ＨＯＴＥＬ（コージーコンフォーツホテル）２０２６年８月８日新規オープン" fill className="object-cover" unoptimized />
+                <Image src="https://img.travel.rakuten.co.jp/share/HOTEL/202210/202210.jpg" alt="ＣＯＺＹ　ＣＯＭＦＯＲＴＳ　ＨＯＴＥＬ（コージーコンフォーツホテル）新規オープン" fill className="object-cover" unoptimized />
               </div>
               <div className="flex flex-col justify-between space-y-3">
-                <p className="text-xs text-slate-600 leading-relaxed">
-                  2026年8月8日新規オープンの最新ホテル！ピカピカの清潔な客室と最新の設備で、4,000円台前半とは思えない抜群の快適性を誇る注目の一軒です。
+                <p className="text-xs text-slate-600 leading-relaxed">新規オープンの最新ホテル！ピカピカの清潔な客室と最新の設備で、4,000円台前半とは思えない抜群の快適性を誇る注目の一軒です。
                 </p>
                 <div className="bg-slate-50 p-3 rounded-xl border border-slate-100">
                   <div className="text-xs text-slate-500">最安参考料金（1名利用時）</div>

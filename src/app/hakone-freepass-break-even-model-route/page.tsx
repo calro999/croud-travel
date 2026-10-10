@@ -196,7 +196,7 @@ export default function HakoneFreepassBreakEvenRoutePage() {
     {
       num: "03",
       title: "混雑時は「逆回り（時計回り）」でロープウェイ行列を回避",
-      desc: "大半の観光客は「湯本→強羅→大涌谷→芦ノ湖」と反時計回りに進むため、午前11時〜13時の早雲山ロープウェイは最大40〜60分待ちに。逆に「湯本→元箱根（バス）→海賊船→桃源台→大涌谷」と時計回りに回ると、全工程ほぼ待ち時間ゼロで快適周遊が可能です。",
+      desc: "大半の観光客は「湯本→強羅→大涌谷→芦ノ湖」と反時計回りに進むため、午前11時〜13時の早雲山ロープウェイは最大40〜60分待ちに。逆に「湯本→元箱根（バス）→海賊船→桃源台→大涌谷。」と時計回りに回ると、全工程ほぼ待ち時間ゼロで快適周遊が可能です。",
     },
   ];
 
@@ -281,7 +281,7 @@ export default function HakoneFreepassBreakEvenRoutePage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「徹底検証！通常運賃との差額シミュレーション＆1泊2日黄金ルート」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「徹底検証！通常運賃との差額シミュレーション＆1泊2日黄金ルート。」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
       />
         {/* セクション1：通常運賃 vs 箱根フリーパス 徹底数字検証 */}
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-emerald-100">
@@ -550,7 +550,7 @@ export default function HakoneFreepassBreakEvenRoutePage() {
                 ロマンスカーに乗る場合、追加料金は必要ですか？
               </h3>
               <p className="text-xs sm:text-sm text-slate-600 mt-2 leading-relaxed">
-                フリーパスには乗車券部分（普通運賃）が含まれているため、別途「特急券（新宿〜箱根湯本間 片道1,200円）」を購入するだけでロマンスカーに乗車できます。小田急アプリや券売機で特急券のみ追加購入してください。
+                フリーパスには乗車券部分（普通運賃）が含まれているため、別途「特急券（新宿〜箱根湯本間 片道1,200円）。」を購入するだけでロマンスカーに乗車できます。小田急アプリや券売機で特急券のみ追加購入してください。
               </p>
             </div>
             <div className="p-4 rounded-2xl bg-emerald-50/60 border border-emerald-100">
@@ -618,7 +618,7 @@ export default function HakoneFreepassBreakEvenRoutePage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「徹底検証！通常運賃との差額シミュレーション＆1泊2日黄金ルート」を効率よく巡るコツは？</span>
+                <span>Q. 「徹底検証！通常運賃との差額シミュレーション＆1泊2日黄金ルート。」を効率よく巡るコツは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">

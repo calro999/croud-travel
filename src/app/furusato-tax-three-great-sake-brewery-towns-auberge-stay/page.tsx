@@ -190,7 +190,7 @@ export default function FurusatoRound62ArticlePage() {
                     からすま京都ホテル
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「立地とスタッフの対応が素晴らしく快適立地もよく何度も利用させてもらっています。受付、駐車場案内人共に素晴らしい方ばかりでいつも心地よい滞在が出来ています。ユニットバスなので若干狭さは感じますが、そ… 2026-09-05 10:39:53投稿 つづきはこちら…」
+                    「立地とスタッフの対応が素晴らしく快適立地もよく何度も利用させてもらっています。受付、駐車場案内人共に素晴らしい方ばかりでいつも心地よい滞在が出来ています。ユニットバスなので若干狭さは感じますが、そ…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -245,7 +245,7 @@ export default function FurusatoRound62ArticlePage() {
                     ベッセルホテル東広島（東広島駅前）
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「赤ちゃん連れでも快適一歳に満たない子連れでの宿泊でしたが、ベビーベッドを入れていただいたり、おむつポットも準備していただき快適に過ごせました。和室じゃなくても、ベッセルなら赤ちゃん連れでも大丈夫で… 2026-08-17 09:39:57投稿 つづきはこちら…」
+                    「赤ちゃん連れでも快適一歳に満たない子連れでの宿泊でしたが、ベビーベッドを入れていただいたり、おむつポットも準備していただき快適に過ごせました。和室じゃなくても、ベッセルなら赤ちゃん連れでも大丈夫で…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -300,7 +300,7 @@ export default function FurusatoRound62ArticlePage() {
                     神戸みなと温泉　蓮
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「立地にやや不便さが、、他は満足するホテル1.立地元町まで少しあるのと、周りにコンビニがないのでちょっとお腹が空いたりお酒飲みたくなった時には不便かもしれません。ただ、三ノ宮の方までシャトルバス… 2026-09-03 16:37:10投稿 つづきはこちら…」
+                    「立地にやや不便さが、、他は満足するホテル1.立地元町まで少しあるのと、周りにコンビニがないのでちょっとお腹が空いたりお酒飲みたくなった時には不便かもしれません。ただ、三ノ宮の方までシャトルバス…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">

@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【11月解禁！松島・三陸の極上生牡蠣＆焼き牡蠣】日本三景パノラマと海の幸会席名湯宿5選",
     "description": "11月から本格シーズンを迎える日本三景・松島の冬の名物「松島かき」！大粒で濃厚なクリーミーさを誇る生牡蠣、香ばしい焼き牡蠣、熱々の牡蠣鍋と、松島湾に昇る絶景の朝日を望む展望露天風呂を堪能する宮城の冬旅。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-    "datePublished": "2026-09-27T00:00:00+09:00",
-    "dateModified": "2026-09-27T00:00:00+09:00",
+    "datePublished": "T00:00:00+09:00",
+    "dateModified": "T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",
@@ -153,7 +153,7 @@ export default function FeaturePage() {
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「飯坂温泉 松島屋 桃香」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「飯坂温泉 松島屋 桃香」へは、ＪＲ福島駅より電車、タクシー共に約25分。最寄りの福島（福島）駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「飯坂温泉 松島屋 桃香」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「飯坂温泉 松島屋 桃香」は『おかげさまで全館リニューアル！！お子様、ペット大歓迎！夕朝食共お部屋でゆっくりお召し上がり』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「飯坂温泉 松島屋 桃香」と「松島温泉 天草渚亭」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「飯坂温泉 松島屋 桃香」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「飯坂温泉 松島屋 桃香」へは、ＪＲ福島駅より電車、タクシー共に約25分。最寄りの福島（福島）駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「飯坂温泉 松島屋 桃香」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「飯坂温泉 松島屋 桃香」は『おかげさまで全館リニューアル！お子様、ペット大歓迎！夕朝食共お部屋でゆっくりお召し上がり。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「飯坂温泉 松島屋 桃香」と「松島温泉 天草渚亭」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -339,7 +339,7 @@ export default function FeaturePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「飯坂温泉 松島屋 桃香」は『おかげさまで全館リニューアル！！お子様、ペット大歓迎！夕朝食共お部屋でゆっくりお召し上がり』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「飯坂温泉 松島屋 桃香」は『おかげさまで全館リニューアル！お子様、ペット大歓迎！夕朝食共お部屋でゆっくりお召し上がり。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -34,11 +34,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/191880/191880map.gif",
     "reviewCount": 141,
     "reviewAverage": 3.98,
-    "userReview": "安定のマンゴー部屋の広さがお気に入り。ゆったりできる。派手さはないが、安定のマンゴーホテル。安心して利用できる。クチコミの詳細はこちらから　https://review.travel.…　2026-08-11 23:43:43投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=191880\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "安定のマンゴー部屋の広さがお気に入り。ゆったりできる。派手さはないが、安定のマンゴーホテル。安心して利用できる。",
     "hotelMinCharge": 2925,
     "address1": "宮崎県",
     "address2": "宮崎市橘通東1-5-8",
-    "telephoneNo": "0985-65-8640",
+    "telephoneNo": "40",
     "access": "ＪＲ日豊本線　宮崎駅から車で約１０分。宮崎空港から空港リムジンバスで約１５分。",
     "parkingInformation": "有/有料【普通車まで】1泊1000円/予約不可先着順【中型車】1泊3000円/要予約【駐輪】無料",
     "nearestStation": "宮崎",
@@ -59,11 +59,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/138067/138067map.gif",
     "reviewCount": 160,
     "reviewAverage": 4.63,
-    "userReview": "念願の滞在、図書室も朝食も大満足泊まってみたいの以前から思っていましたところ、念願かなって宿泊できました。華美な装飾などはありませんが、大変落ち着く館内でした。今回の部屋は和室でしたが、洋室にも泊…　2026-09-05 19:58:38投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=138067\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "念願の滞在、図書室も朝食も大満足泊まってみたいの以前から思っていましたところ、念願かなって宿泊できました。華美な装飾などはありませんが、大変落ち着く館内でした。今回の部屋は和室でしたが、洋室にも泊。",
     "hotelMinCharge": 11900,
     "address1": "宮崎県",
     "address2": "宮崎市下原町247-18",
-    "telephoneNo": "0985-78-0777",
+    "telephoneNo": "77",
     "access": "宮崎駅東口から徒歩10分。宮崎駅から要予約で送迎可。(16時～18時/9時～12時)宮崎自動車道宮崎ＩＣから車で20分。",
     "parkingInformation": "平面駐車場完備(無���)/24時間出し入れ自由。",
     "nearestStation": "宮崎",
@@ -84,11 +84,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/182521/182521map.gif",
     "reviewCount": 103,
     "reviewAverage": 3.69,
-    "userReview": "フリードリンクなどサービスが充実今回は利用しませんでしたが、フリードリンクなどサービスが充実してきました。クチコミの詳細はこちらから　https://review.travel.rakuten…　2026-09-09 17:13:49投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=182521\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "フリードリンクなどサービスが充実今回は利用しませんでしたが、フリードリンクなどサービスが充実してきました。",
     "hotelMinCharge": 3450,
     "address1": "宮崎県",
     "address2": "日南市岩崎3-3-13",
-    "telephoneNo": "0987-23-9111",
+    "telephoneNo": "11",
     "access": "JR日南線油津駅より徒歩７分、宮崎ICより車約50分。宮崎空港より車で約50分。",
     "parkingInformation": "有り　43台　1泊1台：1000円　先着順",
     "nearestStation": "油津",
@@ -109,11 +109,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30939/30939map.gif",
     "reviewCount": 787,
     "reviewAverage": 4.11,
-    "userReview": "シャワーがボタン式で少し戸惑ったシャワーがボタン式に気づきませんでした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voic…　2026-09-17 13:48:32投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=30939\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "シャワーがボタン式で少し戸惑ったシャワーがボタン式に気づきませんでした。",
     "hotelMinCharge": 4860,
     "address1": "宮崎県",
     "address2": "日南市園田3-11-1",
-    "telephoneNo": "0987-22-5151",
+    "telephoneNo": "51",
     "access": "宮崎ICから車で約40分/宮崎空港より車で約50分・宮崎交通バス梅ヶ浜下車徒歩3分/日南線JR油津駅より車で約3分",
     "parkingInformation": "有　第一駐車場38台　第二駐車場12台　無料　先着順",
     "nearestStation": "油津",
@@ -134,7 +134,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19738/19738map.gif",
     "reviewCount": 1627,
     "reviewAverage": 3.96,
-    "userReview": "笑顔の出迎えと広い部屋、駐車場も便利到着時のフロントの方に笑顔でお出迎えいらだきツインをトリプルの広い部屋を案内して頂き助かりました。また自走式の立体駐車場からフロンまでが近く便利でした。立地も熊…　2026-09-15 11:52:13投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=19738\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "笑顔の出迎えと広い部屋、駐車場も便利到着時のフロントの方に笑顔でお出迎えいらだきツインをトリプルの広い部屋を案内して頂き助かりました。また自走式の立体駐車場からフロンまでが近く便利でした。立地も熊。",
     "hotelMinCharge": 6475,
     "address1": "熊本県",
     "address2": "熊本市西区春日1-14-19",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「マンゴーホテル日南」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「マンゴーホテル日南」へは、JR日南線油津駅より徒歩７分、宮崎ICより車約50分。最寄りの油津駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「マンゴーホテル日南」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「マンゴーホテル日南」は『日南の市街地、国道沿いに位置しアクセス抜群。都会的なシンプルなデザインと清潔感あふれる内装』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「マンゴーホテル日南」と「ホテルシーズン日南」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「マンゴーホテル日南」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「マンゴーホテル日南」へは、JR日南線油津駅より徒歩７分、宮崎ICより車約50分。最寄りの油津駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「マンゴーホテル日南」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「マンゴーホテル日南」は『日南の市街地、国道沿いに位置しアクセス抜群。都会的なシンプルなデザインと清潔感あふれる内装。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「マンゴーホテル日南」と「ホテルシーズン日南」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -628,7 +628,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「マンゴーホテル日南」は『日南の市街地、国道沿いに位置しアクセス抜群。都会的なシンプルなデザインと清潔感あふれる内装』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「マンゴーホテル日南」は『日南の市街地、国道沿いに位置しアクセス抜群。都会的なシンプルなデザインと清潔感あふれる内装。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -34,11 +34,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6000/6000map.gif",
     "reviewCount": 351,
     "reviewAverage": 4.07,
-    "userReview": "料理は満足だがお風呂が熱すぎて残念お料理は料金相応でおいしかったですが、楽しみにしていたお風呂が内風呂も露天風呂も熱すぎてゆっくり入れず、残念でした。冬ならいいのかもですね。クチコミの詳細はこ…　2026-09-15 19:34:59投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=6000\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "冬ならいいのかもですね。クチコミの詳細はこ。",
     "hotelMinCharge": 9900,
     "address1": "長崎県",
     "address2": "雲仙市小浜町雲仙318",
-    "telephoneNo": "0957-73-3338",
+    "telephoneNo": "38",
     "access": "JR長崎本線諌早駅よりバスにて80分（雲仙行）",
     "parkingInformation": "有り　25台　無料",
     "nearestStation": "諫早",
@@ -59,11 +59,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/41803/41803map.gif",
     "reviewCount": 546,
     "reviewAverage": 4.48,
-    "userReview": "母の誕生日祝いに大満足、心遣いに感謝母の誕生日のお祝いで利用しました。担当の方のご対応に大満足でした。心遣い、言葉等、ありがとうございました。料理の演出も素敵でした。クチコミの詳細はこちらから…　2026-09-14 18:49:35投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=41803\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "母の誕生日祝いに大満足、心遣いに感謝母の誕生日のお祝いで利用しました。担当の方のご対応に大満足でした。心遣い、言葉等、ありがとうございました。料理の演出も素敵でした。",
     "hotelMinCharge": 11385,
     "address1": "長崎県",
     "address2": "雲仙市小浜町雲仙181",
-    "telephoneNo": "0957-73-2588",
+    "telephoneNo": "88",
     "access": "諫早駅より路線バスで８０分",
     "parkingInformation": "８０台収容の自社無料駐車場がございます。（予約不要）",
     "nearestStation": "諫早",
@@ -84,11 +84,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31933/31933map.gif",
     "reviewCount": 396,
     "reviewAverage": 3.77,
-    "userReview": "掃除が行き届いておらず残念掃除が行き届いていない。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/31933?rev…　2026-08-22 10:39:32投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=31933\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "落ち着いた心地よい空間の中、温かい温泉とおいしいお料理で日頃の疲れを癒やすことができました。",
     "hotelMinCharge": 15750,
     "address1": "長崎県",
     "address2": "雲仙市小浜町雲仙323-1",
-    "telephoneNo": "0957-73-3345",
+    "telephoneNo": "45",
     "access": "島鉄バス　雲仙営業所前／長崎自動車道　諫早インターより車にて６０分／島原港より車にて４０分",
     "parkingInformation": "有　２０台　無料　先着順",
     "nearestStation": "",
@@ -109,11 +109,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31749/31749map.gif",
     "reviewCount": 715,
     "reviewAverage": 4.51,
-    "userReview": "落ち着いた空間と最高のおもてなしに感動ここのホテルで過ごした時間はとても幸せでした。外観は老舗旅館のような感じだが、中に入るととても綺麗で落ち着いた雰囲気でした。スタッフの方々も穏やかで丁…　2026-09-18 01:35:39投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=31749\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "落ち着いた空間と最高のおもてなしに感動ここのホテルで過ごした時間はとても幸せでした。外観は老舗旅館のような感じだが、中に入るととても綺麗で落ち着いた雰囲気でした。スタッフの方々も穏やかで丁。",
     "hotelMinCharge": 8893,
     "address1": "長崎県",
     "address2": "雲仙市小浜町雲仙320",
-    "telephoneNo": "0957-73-3301",
+    "telephoneNo": "01",
     "access": "ＪＲ諫早駅より車で60分、長崎空港から車で90分",
     "parkingInformation": "５０台まで、無料でご利用いただけます。　※先着順でご案内",
     "nearestStation": "諫早",
@@ -134,11 +134,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28126/28126map.gif",
     "reviewCount": 871,
     "reviewAverage": 4.92,
-    "userReview": "すっきりとした空間と地元の旬料理に大満足館内は華美な装飾とかなくて、すっきりとした空間で、とても落ち着いて過ごせる雰囲気がよかった。食事も地元の旬な食材を生かした料理を堪能しました。他の画…　2026-09-08 12:28:15投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=28126\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "すっきりとした空間と地元の旬料理に大満足館内は華美な装飾とかなくて、すっきりとした空間で、とても落ち着いて過ごせる雰囲気がよかった。食事も地元の旬な食材を生かした料理を堪能しました。他の画。",
     "hotelMinCharge": 30530,
     "address1": "長崎県",
     "address2": "雲仙市小浜町雲仙320番地",
-    "telephoneNo": "0957-73-3331",
+    "telephoneNo": "31",
     "access": "ＪＲ諫早駅下車バス８０分、長崎自動車道諫早ICより島原道路へ乗換え長野ICより車で５０分",
     "parkingInformation": "有り　３９台　有料1台1泊500円",
     "nearestStation": "諫早",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「雲仙温泉 名湯の宿 雲仙いわき旅館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「雲仙温泉 名湯の宿 雲仙いわき旅館」へは、JR長崎本線諌早駅よりバスにて80分（雲仙行）。最寄りの諫早駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「雲仙温泉 名湯の宿 雲仙いわき旅館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「雲仙温泉 名湯の宿 雲仙いわき旅館」は『避暑にもオススメの雲仙エリア！ 雲仙地獄まで徒歩3分！源泉100%かけ流しの名湯をどうぞ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「雲仙温泉 名湯の宿 雲仙いわき旅館」と「雲仙温泉・源泉かけ流し＆おしどりの池を望む美食の宿 東園」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「雲仙温泉 名湯の宿 雲仙いわき旅館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「雲仙温泉 名湯の宿 雲仙いわき旅館」へは、JR長崎本線諌早駅よりバスにて80分（雲仙行）。最寄りの諫早駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「雲仙温泉 名湯の宿 雲仙いわき旅館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「雲仙温泉 名湯の宿 雲仙いわき旅館」は『避暑にもオススメの雲仙エリア！雲仙地獄まで徒歩3分！源泉100%かけ流しの名湯をどうぞ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「雲仙温泉 名湯の宿 雲仙いわき旅館」と「雲仙温泉・源泉かけ流し＆おしどりの池を望む美食の宿 東園。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -598,7 +598,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「雲仙温泉 名湯の宿 雲仙いわき旅館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「雲仙温泉 名湯の宿 雲仙いわき旅館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「雲仙温泉・源泉かけ流し＆おしどりの池を望む美食の宿 東園」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「雲仙温泉・源泉かけ流し＆おしどりの池を望む美食の宿 東園。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -628,7 +628,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「雲仙温泉 名湯の宿 雲仙いわき旅館」は『避暑にもオススメの雲仙エリア！ 雲仙地獄まで徒歩3分！源泉100%かけ流しの名湯をどうぞ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「雲仙温泉 名湯の宿 雲仙いわき旅館」は『避暑にもオススメの雲仙エリア！雲仙地獄まで徒歩3分！源泉100%かけ流しの名湯をどうぞ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -637,7 +637,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「雲仙温泉 名湯の宿 雲仙いわき旅館」と「雲仙温泉・源泉かけ流し＆おしどりの池を望む美食の宿 東園」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「雲仙温泉 名湯の宿 雲仙いわき旅館」と「雲仙温泉・源泉かけ流し＆おしどりの池を望む美食の宿 東園。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

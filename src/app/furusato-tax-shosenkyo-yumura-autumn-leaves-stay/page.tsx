@@ -47,7 +47,7 @@ export default function FurusatoShosenkyoYumuraAutumnLeavesStayPage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「信玄の湯 湯村温泉 常磐ホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「信玄の湯 湯村温泉 常磐ホテル」へは、中央自動車道、甲府昭和ICから20分／甲府駅南口バスターミナル4番線15分「湯村温泉入口」下車。最寄りの甲府駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「信玄の湯 湯村温泉 常磐ホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「信玄の湯 湯村温泉 常磐ホテル」は『日本旅館の感性と、都市型ホテルの利便性を兼備えた、皇室もご利用なさる甲府の迎賓館』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「信玄の湯 湯村温泉 常磐ホテル」と「信玄の湯 湯村温泉 旅館明治 太宰治ゆかりの宿」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「信玄の湯 湯村温泉 常磐ホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「信玄の湯 湯村温泉 常磐ホテル」へは、中央自動車道、甲府昭和ICから20分／甲府駅南口バスターミナル4番線15分「湯村温泉入口」下車。最寄りの甲府駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「信玄の湯 湯村温泉 常磐ホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「信玄の湯 湯村温泉 常磐ホテル」は『日本旅館の感性と、都市型ホテルの利便性を兼備えた、皇室もご利用なさる甲府の迎賓館。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「信玄の湯 湯村温泉 常磐ホテル」と「信玄の湯 湯村温泉 旅館明治 太宰治ゆかりの宿。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       {/* パンくずナビ */}
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
@@ -272,7 +272,7 @@ export default function FurusatoShosenkyoYumuraAutumnLeavesStayPage() {
                       昭和初期に文豪・太宰治が約1ヶ月間滞在し『パンドラの匣』を書き上げた部屋が今も残る歴史ある温泉旅館。敷地内から湧き出る自家源泉を贅沢に100％掛け流した大浴場「信玄の湯」は、24時間いつでも生まれたての名湯を堪能できます。夕食には甲州名物の馬刺しやほうとう、手作りの季節会席が並び、文学の薫りと温かなおもてなしに包まれる特別なひとときを過ごせます。
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 温泉・特徴：</strong> 2025年8月1日新規オープン！信玄の湯とこだわりの朝ごはんで心ほぐれるひと時を。</div>
+                      <div><strong className="text-stone-800">♨️ 温泉・特徴：</strong>新規オープン！信玄の湯とこだわりの朝ごはんで心ほぐれるひと時を。</div>
                       <div><strong className="text-stone-800">🚗 駐車場：</strong> 15台　無料　★要予約※駐車場所についてはご到着先着順です。近くの空地スペースになる場合がございます</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 9,900円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -485,7 +485,7 @@ export default function FurusatoShosenkyoYumuraAutumnLeavesStayPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「信玄の湯 湯村温泉 常磐ホテル」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「信玄の湯 湯村温泉 常磐ホテル」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「信玄の湯 湯村温泉 旅館明治 太宰治ゆかりの宿」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「信玄の湯 湯村温泉 旅館明治 太宰治ゆかりの宿。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -515,7 +515,7 @@ export default function FurusatoShosenkyoYumuraAutumnLeavesStayPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「信玄の湯 湯村温泉 常磐ホテル」は『日本旅館の感性と、都市型ホテルの利便性を兼備えた、皇室もご利用なさる甲府の迎賓館』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「信玄の湯 湯村温泉 常磐ホテル」は『日本旅館の感性と、都市型ホテルの利便性を兼備えた、皇室もご利用なさる甲府の迎賓館。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -524,7 +524,7 @@ export default function FurusatoShosenkyoYumuraAutumnLeavesStayPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「信玄の湯 湯村温泉 常磐ホテル」と「信玄の湯 湯村温泉 旅館明治 太宰治ゆかりの宿」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「信玄の湯 湯村温泉 常磐ホテル」と「信玄の湯 湯村温泉 旅館明治 太宰治ゆかりの宿。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

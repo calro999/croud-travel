@@ -34,11 +34,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5901/5901map.gif",
     "reviewCount": 1772,
     "reviewAverage": 4.6,
-    "userReview": "4回目も大満足、愛犬と過ごす癒やしの時間今回4回目です家族とゆっくり過ごしたい時に泊まってます部屋も綺麗で料理も美味しいですわんこにも従業員の方が気を遣ってくれて本当に過ごしやすいとこ…　2026-09-15 19:20:21投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=5901\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "4回目も大満足、愛犬と過ごす癒やしの時間今回4回目です家族とゆっくり過ごしたい時に泊まってます部屋も綺麗で料理も美味しいですわんこにも従業員の方が気を遣ってくれて本当に過ごしやすいとこ。",
     "hotelMinCharge": 12100,
     "address1": "香川県",
     "address2": "仲多度郡琴平町556-1",
-    "telephoneNo": "0877-75-1111",
+    "telephoneNo": "11",
     "access": "ＪＲ琴平駅下車、徒歩5分（無料送迎有・要予約）。車：道善通寺ＩＣ下車約15分。高松空港より約40分",
     "parkingInformation": "有り：70台（無料）／EV充電器設置",
     "nearestStation": "琴平",
@@ -59,11 +59,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/752/752map.gif",
     "reviewCount": 395,
     "reviewAverage": 3.71,
-    "userReview": "2027金比羅さんの旅お盆の時期にもかかわらず息子と2人でリーズナブルに宿泊できました。無料の朝食はごはんはなかったのですがクロワッサンとロールパンはとても美味しく、サラダやソーセージ、スクランブ…　2026-08-13 19:50:31投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=752\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "2027金比羅さんの旅お盆の時期にもかかわらず息子と2人でリーズナブルに宿泊できました。無料の朝食はごはんはなかったのですがクロワッサンとロールパンはとても美味しく、サラダやソーセージ、スクランブ。",
     "hotelMinCharge": 5830,
     "address1": "香川県",
     "address2": "仲多度郡琴平町246-1",
-    "telephoneNo": "0877-75-1880",
+    "telephoneNo": "80",
     "access": "ＪＲ土讃線「琴平駅」徒歩４分。車／高松自動車道「善通寺IC」約15分。「高松空港」約40分。",
     "parkingInformation": "有/無料（8台）",
     "nearestStation": "琴平",
@@ -84,11 +84,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5900/5900map.gif",
     "reviewCount": 2032,
     "reviewAverage": 4.59,
-    "userReview": "バイキングがとにかく美味しいです!!クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/5900?reviewId=3312…　2026-09-17 21:18:50投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=5900\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "バイキングがとにかく美味しいです!",
     "hotelMinCharge": 10450,
     "address1": "香川県",
     "address2": "仲多度郡琴平町977-1",
-    "telephoneNo": "0877-75-3218",
+    "telephoneNo": "18",
     "access": "全室Wi-Fi無料/ＪＲ琴平駅下車、徒歩約15分（無料送迎有・要予約）。車/善通寺��Ｃより約15分　高松空港より約40分",
     "parkingInformation": "40台（有料）・利用時間14時～翌11時・予約必須・詳細は桜の抄公式HPをご確認ください",
     "nearestStation": "琴平",
@@ -109,7 +109,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/84770/84770map.gif",
     "reviewCount": 1675,
     "reviewAverage": 4.42,
-    "userReview": "キレイな部屋と無料駐車場、移動も便利高松での宿泊先は先ず、パールガーデンを検索します。キレイなお部屋、トイレ・お風呂は別々で快適です。買い物や繁華街から離れていますが、近くにバス停があるので移動は…　2026-09-19 11:27:06投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=84770\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "キレイな部屋と無料駐車場、移動も便利高松での宿泊先は先ず、パールガーデンを検索します。キレイなお部屋、トイレ・お風呂は別々で快適です。買い物や繁華街から離れていますが、近くにバス停があるので移動は。",
     "hotelMinCharge": 4100,
     "address1": "香川県",
     "address2": "高松市福岡町2-2-1",
@@ -181,7 +181,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「湯元こんぴら温泉華の湯 紅梅亭」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「湯元こんぴら温泉華の湯 紅梅亭」へは、ＪＲ琴平駅下車、徒歩5分（無料送迎有・要予約）。最寄りの琴平駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「湯元こんぴら温泉華の湯 紅梅亭」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「湯元こんぴら温泉華の湯 紅梅亭」は『露天風呂付スイートOPEN◆2種の源泉を楽しむ＜3箇所15種類の湯処＞でのんびり湯巡り』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「湯元こんぴら温泉華の湯 紅梅亭」と「こんぴら温泉 琴平リバーサイドホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「湯元こんぴら温泉華の湯 紅梅亭」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「湯元こんぴら温泉華の湯 紅梅亭」へは、ＪＲ琴平駅下車、徒歩5分（無料送迎有・要予約）。最寄りの琴平駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「湯元こんぴら温泉華の湯 紅梅亭」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「湯元こんぴら温泉華の湯 紅梅亭」は『露天風呂付スイートOPEN◆2種の源泉を楽しむ＜3箇所15種類の湯処＞でのんびり湯巡り。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「湯元こんぴら温泉華の湯 紅梅亭」と「こんぴら温泉 琴平リバーサイドホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -544,7 +544,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「湯元こんぴら温泉華の湯 紅梅亭」は『露天風呂付スイートOPEN◆2種の源泉を楽しむ＜3箇所15種類の湯処＞でのんびり湯巡り』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「湯元こんぴら温泉華の湯 紅梅亭」は『露天風呂付スイートOPEN◆2種の源泉を楽しむ＜3箇所15種類の湯処＞でのんびり湯巡り。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

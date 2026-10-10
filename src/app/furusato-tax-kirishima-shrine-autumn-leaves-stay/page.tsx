@@ -94,7 +94,7 @@ export default function FeatureArticlePage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「霧島温泉郷 霧島ホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「霧島温泉郷 霧島ホテル」へは、ＪＲ 日豊本線 霧島神宮駅から車で２５分／鹿児島空港から車で３０分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「霧島温泉郷 霧島ホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「霧島温泉郷 霧島ホテル」は『★5つ星の宿★最大 男性13種・女性19種の湯舟 に サウナ が堪能できる自慢のかけ流し庭』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「霧島温泉郷 霧島ホテル」と「霧島温泉 霧島 旅行人山荘」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「霧島温泉郷 霧島ホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「霧島温泉郷 霧島ホテル」へは、ＪＲ 日豊本線 霧島神宮駅から車で２５分／鹿児島空港から車で３０分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「霧島温泉郷 霧島ホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「霧島温泉郷 霧島ホテル」は『★5つ星の宿★最大 男性13種・女性19種の湯舟 に サウナ が堪能できる自慢のかけ流し庭。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「霧島温泉郷 霧島ホテル」と「霧島温泉 霧島 旅行人山荘」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       {/* パンくずナビ */}
       <nav className="max-w-6xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-600 flex items-center gap-2 flex-wrap">
@@ -482,7 +482,7 @@ export default function FeatureArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「霧島温泉郷 霧島ホテル」は『★5つ星の宿★最大 男性13種・女性19種の湯舟 に サウナ が堪能できる自慢のかけ流し庭』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「霧島温泉郷 霧島ホテル」は『★5つ星の宿★最大 男性13種・女性19種の湯舟 に サウナ が堪能できる自慢のかけ流し庭。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

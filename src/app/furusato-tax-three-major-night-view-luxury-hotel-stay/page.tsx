@@ -88,7 +88,7 @@ export default function FurusatoTaxPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「稲佐山温泉 ホテルアマンディ ～長崎の日本三大夜景を一望～」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「稲佐山温泉 ホテルアマンディ ～長崎の日本三大夜景を一望～」へは、JR長崎駅からお車で7分。最寄りの長崎（長崎）駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「稲佐山温泉 ホテルアマンディ ～長崎の日本三大夜景を一望～」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「稲佐山温泉 ホテルアマンディ ～長崎の日本三大夜景を一望～」は『日本三大夜景を一望！100％源泉の露天風呂や岩盤浴が人気のリゾートホテル。駐車場無料・Wi』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「稲佐山温泉 ホテルアマンディ ～長崎の日本三大夜景を一望～」と「稲佐山観光ホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「稲佐山温泉 ホテルアマンディ ～長崎の日本三大夜景を一望～。」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「稲佐山温泉 ホテルアマンディ ～長崎の日本三大夜景を一望～。」へは、JR長崎駅からお車で7分。最寄りの長崎（長崎）駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「稲佐山温泉 ホテルアマンディ ～長崎の日本三大夜景を一望～。」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「稲佐山温泉 ホテルアマンディ ～長崎の日本三大夜景を一望～。」は『日本三大夜景を一望！100％源泉の露天風呂や岩盤浴が人気のリゾートホテル。駐車場無料・Wi。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「稲佐山温泉 ホテルアマンディ ～長崎の日本三大夜景を一望～。」と「稲佐山観光ホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* リード文ブロック */}
         <section className="bg-slate-900/80 border border-slate-800 rounded-3xl p-6 md:p-10 shadow-xl relative overflow-hidden">
@@ -295,7 +295,7 @@ export default function FurusatoTaxPage() {
                             
                               <Image
                                 src="https://img.travel.rakuten.co.jp/share/HOTEL/198507/198507.jpg"
-                                alt="大江戸温泉物語Ｐｒｅｍｉｕｍ　長崎ホテル清風（２０２６年４月２９日リニューアルオープン）"
+                                alt="大江戸温泉物語Ｐｒｅｍｉｕｍ　長崎ホテル清風（リニューアルオープン）"
                                 fill
                                 sizes="(max-width: 768px) 100vw, 33vw"
                                 className="object-cover group-hover:scale-105 transition duration-500"
@@ -310,7 +310,7 @@ export default function FurusatoTaxPage() {
                           </div>
                           <div className="p-4 space-y-2">
                             <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              大江戸温泉物語Ｐｒｅｍｉｕｍ　長崎ホテル清風（２０２６年４月２９日リニューアルオープン）
+                              大江戸温泉物語Ｐｒｅｍｉｕｍ　長崎ホテル清風（リニューアルオープン）
                             </h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               露天風呂や客室、プレミアムラウンジから世界新三大夜景を望む温泉ホテル
@@ -781,9 +781,9 @@ export default function FurusatoTaxPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 長崎（長崎）駅よりアクセス。JR長崎駅からお車で7分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「稲佐山温泉 ホテルアマンディ ～長崎の日本三大夜景を一望～」にチェックイン。日本三大夜景を一望！100％源泉の露天風呂や岩盤浴が人気のリゾートホテル。駐車場無料・Wi-Fi完備などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「稲佐山温泉 ホテルアマンディ ～長崎の日本三大夜景を一望～」の湯処へ。日本三大夜景を一望！100％源泉の露天風呂や岩盤浴が人気のリゾートホテとともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「稲佐山温泉 ホテルアマンディ ～長崎の日本三大夜景を一望～」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「稲佐山温泉 ホテルアマンディ ～長崎の日本三大夜景を一望～。」にチェックイン。日本三大夜景を一望！100％源泉の露天風呂や岩盤浴が人気のリゾートホテル。駐車場無料・Wi-Fi完備などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「稲佐山温泉 ホテルアマンディ ～長崎の日本三大夜景を一望～。」の湯処へ。日本三大夜景を一望！100％源泉の露天風呂や岩盤浴が人気のリゾートホテとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「稲佐山温泉 ホテルアマンディ ～長崎の日本三大夜景を一望～。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -792,8 +792,8 @@ export default function FurusatoTaxPage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「稲佐山温泉 ホテルアマンディ ～長崎の日本三大夜景を一望～」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「稲佐山温泉 ホテルアマンディ ～長崎の日本三大夜景を一望～」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「稲佐山温泉 ホテルアマンディ ～長崎の日本三大夜景を一望～。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「稲佐山温泉 ホテルアマンディ ～長崎の日本三大夜景を一望～。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「稲佐山観光ホテル」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
@@ -811,20 +811,20 @@ export default function FurusatoTaxPage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「稲佐山温泉 ホテルアマンディ ～長崎の日本三大夜景を一望～」へのアクセスや移動方法について</span>
+                <span>Q. 「稲佐山温泉 ホテルアマンディ ～長崎の日本三大夜景を一望～。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「稲佐山温泉 ホテルアマンディ ～長崎の日本三大夜景を一望～」へは、JR長崎駅からお車で7分。最寄りの長崎（長崎）駅からの経路案内も充実しています。
+                A. 「稲佐山温泉 ホテルアマンディ ～長崎の日本三大夜景を一望～。」へは、JR長崎駅からお車で7分。最寄りの長崎（長崎）駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「稲佐山温泉 ホテルアマンディ ～長崎の日本三大夜景を一望～」の魅力や予約時のポイントは？</span>
+                <span>Q. 「稲佐山温泉 ホテルアマンディ ～長崎の日本三大夜景を一望～。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「稲佐山温泉 ホテルアマンディ ～長崎の日本三大夜景を一望～」は『日本三大夜景を一望！100％源泉の露天風呂や岩盤浴が人気のリゾートホテル。駐車場無料・Wi』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「稲佐山温泉 ホテルアマンディ ～長崎の日本三大夜景を一望～。」は『日本三大夜景を一望！100％源泉の露天風呂や岩盤浴が人気のリゾートホテル。駐車場無料・Wi。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -833,7 +833,7 @@ export default function FurusatoTaxPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「稲佐山温泉 ホテルアマンディ ～長崎の日本三大夜景を一望～」と「稲佐山観光ホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「稲佐山温泉 ホテルアマンディ ～長崎の日本三大夜景を一望～。」と「稲佐山観光ホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

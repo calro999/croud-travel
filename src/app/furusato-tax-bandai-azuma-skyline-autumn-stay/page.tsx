@@ -39,8 +39,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
-    "datePublished": "2026-09-20",
-    "dateModified": "2026-09-20",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-bandai-azuma-skyline-autumn-stay"
   };
 

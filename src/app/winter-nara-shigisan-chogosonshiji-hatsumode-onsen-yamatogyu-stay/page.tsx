@@ -359,7 +359,7 @@ export default function FeaturePage() {
                   
                 <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「室内風呂でゆっくり、細やかな気遣いに感謝室内風呂付きに泊まるのは初めてですが、自分の好きなタイミングで入れゆっくり過ごすことが出来ました。ご飯を豪華にしたかったので、マタニティプランにはしなかった…　2026-09-06 21:52:24投…」"}</p>
+                  <p className="leading-relaxed">{"「室内風呂でゆっくり、細やかな気遣いに感謝室内風呂付きに泊まるのは初めてですが、自分の好きなタイミングで入れゆっくり過ごすことが出来ました。ご飯を豪華にしたかったので、マタニティプランにはしなかった… 投。」"}</p>
                 </div>
             
 
@@ -424,7 +424,7 @@ export default function FeaturePage() {
                   
                 <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「家から電車で送迎もあり、手軽に利用してます。リーズナブルなお値段とアットホーム的な接客も気に入ってます。特に気に入ってるのは、露天風呂です。こじんまりしてますが、開放的です。クチコミの詳細はこ…　2026-10-02 09:04:34投稿 …」"}</p>
+                  <p className="leading-relaxed">{"「家から電車で送迎もあり、手軽に利用してます。リーズナブルなお値段とアットホーム的な接客も気に入ってます。特に気に入ってるのは、露天風呂です。こじんまりしてますが、開放的です。クチコミの詳細はこ…。」"}</p>
                 </div>
             
 
@@ -489,7 +489,7 @@ export default function FeaturePage() {
                   
                 <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「愛犬と一緒に快適に過ごせて大満足愛犬と、仲良く旅行できて、設備も整っていて満足しました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/ho…　2026-10-03 16:54:58投稿 …」"}</p>
+                  <p className="leading-relaxed">{"「愛犬と一緒に快適に過ごせて大満足愛犬と、仲良く旅行できて、設備も整っていて満足しました。」"}</p>
                 </div>
             
 

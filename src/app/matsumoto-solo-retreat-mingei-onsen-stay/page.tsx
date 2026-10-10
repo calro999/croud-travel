@@ -7,11 +7,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/matsumoto-solo-retreat-mingei-onsen-stay/" },
   title: '【松本ひとり旅・民芸おこもり】国宝松本城・民芸家具クラシック・美ヶ原温泉！北アルプスの麓で心を整える名宿 厳選3選',
-  description: '特急あずさ・しなの直結！北アルプスの山々に抱かれた信州の学都・長野県松本市。「国宝松本城徒歩すぐ・松本民芸家具に囲まれる名門クラシックホテル」を誇る「松本ホテル花月」、美ヶ原温泉の高台から北アルプスと松本市街を一望する「信州松本 美ヶ原温泉 翔峰」、駅前で天然温泉とサウナ・名物蕎麦朝食が嬉しい「ドーミーイン松本」を徹底特集。',
+  description: '特急あずさ・しなの直結！北アルプスの山々に抱かれた信州の学都・長野県松本市。「国宝松本城徒歩すぐ・松本民芸家具に囲まれる名門クラシックホテル。」を誇る「松本ホテル花月」、美ヶ原温泉の高台から北アルプスと松本市街を一望する「信州松本 美ヶ原温泉 翔峰」、駅前で天然温泉とサウナ・名物蕎麦朝食が嬉しい「ドーミーイン松本」を徹底特集。',
   keywords: '松本 一人旅 ホテル おすすめ,松本ホテル花月 宿泊,美ヶ原温泉 翔峰 一人,松本城 ひとり旅 宿,ドーミーイン松本 温泉',
   openGraph: {
     title: '【松本ひとり旅・民芸おこもり】国宝松本城・民芸家具クラシック・美ヶ原温泉！北アルプスの麓で心を整える名宿 厳選3選',
-    description: '特急あずさ・しなの直結！北アルプスの山々に抱かれた信州の学都・長野県松本市。「国宝松本城徒歩すぐ・松本民芸家具に囲まれる名門クラシックホテル」を誇る「松本ホテル花月」、美ヶ原温泉の高台から北アルプスと松本市街を一望する「信州松本 美ヶ原温泉 翔峰」、駅前で天然温泉とサウナ・名物蕎麦朝食が嬉しい「ドーミーイン松本」を徹底特集。',
+    description: '特急あずさ・しなの直結！北アルプスの山々に抱かれた信州の学都・長野県松本市。「国宝松本城徒歩すぐ・松本民芸家具に囲まれる名門クラシックホテル。」を誇る「松本ホテル花月」、美ヶ原温泉の高台から北アルプスと松本市街を一望する「信州松本 美ヶ原温泉 翔峰」、駅前で天然温泉とサウナ・名物蕎麦朝食が嬉しい「ドーミーイン松本」を徹底特集。',
     url: 'https://croud-travel.pages.dev/matsumoto-solo-retreat-mingei-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -24,7 +24,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【松本ひとり旅・民芸おこもり】国宝松本城・民芸家具クラシック・美ヶ原温泉！北アルプスの麓で心を整える名宿 厳選3選',
-    description: '特急あずさ・しなの直結！北アルプスの山々に抱かれた信州の学都・長野県松本市。「国宝松本城徒歩すぐ・松本民芸家具に囲まれる名門クラシックホテル」を誇る「松本ホテル花月」、美ヶ原温泉の高台から北アルプスと松本市街を一望する「信州松本 美ヶ原温泉 翔峰」、駅前で天然温泉とサウナ・名物蕎麦朝食が嬉しい「ドーミーイン松本」を徹底特集。',
+    description: '特急あずさ・しなの直結！北アルプスの山々に抱かれた信州の学都・長野県松本市。「国宝松本城徒歩すぐ・松本民芸家具に囲まれる名門クラシックホテル。」を誇る「松本ホテル花月」、美ヶ原温泉の高台から北アルプスと松本市街を一望する「信州松本 美ヶ原温泉 翔峰」、駅前で天然温泉とサウナ・名物蕎麦朝食が嬉しい「ドーミーイン松本」を徹底特集。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・出張調査班',
@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-11T03:30:00+09:00',
-    dateModified: '2026-09-11T03:30:00+09:00',
+    datePublished: 'T03:30:00+09:00',
+    dateModified: 'T03:30:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/matsumoto-solo-retreat-mingei-onsen-stay',
   };
 
@@ -78,7 +78,7 @@ export default function ArticlePage() {
           【松本ひとり旅・民芸おこもり】国宝松本城・民芸家具クラシック・美ヶ原温泉！北アルプスの麓で心を整える名宿 厳選3選
         </h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
-          特急あずさ・しなの直結！北アルプスの山々に抱かれた信州の学都・長野県松本市。「国宝松本城徒歩すぐ・松本民芸家具に囲まれる名門クラシックホテル」を誇る「松本ホテル花月」、美ヶ原温泉の高台から北アルプスと松本市街を一望する「信州松本 美ヶ原温泉 翔峰」、駅前で天然温泉とサウナ・名物蕎麦朝食が嬉しい「ドーミーイン松本」を徹底特集。
+          特急あずさ・しなの直結！北アルプスの山々に抱かれた信州の学都・長野県松本市。「国宝松本城徒歩すぐ・松本民芸家具に囲まれる名門クラシックホテル。」を誇る「松本ホテル花月」、美ヶ原温泉の高台から北アルプスと松本市街を一望する「信州松本 美ヶ原温泉 翔峰」、駅前で天然温泉とサウナ・名物蕎麦朝食が嬉しい「ドーミーイン松本」を徹底特集。
         </p>
       </header>
 
@@ -161,7 +161,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.46点。「民芸家具が醸し出す雰囲気が最高で、一人で本を読みながらのんびり過ごせました」「松本城もすぐで朝の散歩が気持ちよかった」と文化系ソロ旅から絶賛。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.46点。「民芸家具が醸し出す雰囲気が最高で、一人で本を読みながらのんびり過ごせました。」「松本城もすぐで朝の散歩が気持ちよかった」と文化系ソロ旅から絶賛。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -236,7 +236,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.63点。「露天風呂からの北アルプスの眺めが圧巻！お料理も美味しくスタッフの接客も完璧でした」「自分への最高のご褒美旅行になりました」と高評価。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.63点。「露天風呂からの北アルプスの眺めが圧巻！お料理も美味しくスタッフの接客も完璧でした。」「自分への最高のご褒美旅行になりました」と高評価。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -311,7 +311,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.45点。「松本駅近で天然温泉とサウナに入れて最高」「朝食の信州蕎麦が美味しく、夜鳴きそばのサービスも嬉しかった」と安定の人気。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.45点。「松本駅近で天然温泉とサウナに入れて最高」「朝食の信州蕎麦が美味しく、夜鳴きそばのサービスも嬉しかった。」と安定の人気。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">

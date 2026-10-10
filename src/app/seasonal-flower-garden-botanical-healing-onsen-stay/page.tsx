@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/seasonal-flower-garden-botanical-healing-onsen-stay"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D68475%26f_flg%3DPLAN",
     "hotelMinCharge": 5500,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68475/68475.jpg",
-    "userReview": "部屋はきれいで広く、お風呂も心地良いエントランス辺りは雑然としていたが、部屋はきれいで広かった。お風呂はとても心地良かった。食事はないので、公共交通機関で来る方は気をつけてください。ク…　2026-09-16 12:31:30投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=68475\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "部屋はきれいで広く、お風呂も心地良いエントランス辺りは雑然としていたが、部屋はきれいで広かった。お風呂はとても心地良かった。食事はないので、公共交通機関で来る方は気をつけてください。ク。",
     "reviewAverage": 3.09,
     "reviewCount": 229,
     "address": "福島県耶麻郡猪苗代町蚕養沼尻山甲2855-111",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D106139%26f_flg%3DPLAN",
     "hotelMinCharge": 13530,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/106139/106139.jpg",
-    "userReview": "またゆきたい設備は古いが、清潔に保たれてます。夕食とても美味しかったです。離れた所にある露天風呂も良い。蒸し風呂(サウナ)に入れます方法が内湯から入れるようになると入りやすいと思います…　2026-09-12 11:02:52投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=106139\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "またゆきたい設備は古いが、清潔に保たれてます。夕食とても美味しかったです。離れた所にある露天風呂も良い。蒸し風呂(サウナ)に入れます方法が内湯から入れるようになると入りやすいと思います。",
     "reviewAverage": 4.58,
     "reviewCount": 614,
     "address": "宮城県大崎市鳴子温泉赤湯34",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D80709%26f_flg%3DPLAN",
     "hotelMinCharge": 7000,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/80709/80709.jpg",
-    "userReview": "庭園の景色と温泉、食事に両親も大満足部屋から見える庭園の景色が良く、池の鯉を眺めて癒やされました。温泉の温度が熱すぎず、ゆったり入浴できてとても気持ちよかったです。夜と朝の食事は大変美味しく、スタ…　2026-09-17 00:05:43投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=80709\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "庭園の景色と温泉、食事に両親も大満足部屋から見える庭園の景色が良く、池の鯉を眺めて癒やされました。温泉の温度が熱すぎず、ゆったり入浴できてとても気持ちよかったです。夜と朝の食事は大変美味しく、スタ。",
     "reviewAverage": 4.21,
     "reviewCount": 293,
     "address": "熊本県玉名市河崎1-1",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D19206%26f_flg%3DPLAN",
     "hotelMinCharge": 22000,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19206/19206.jpg",
-    "userReview": "天気が悪くても庭や室内が綺麗でとても快適天気はあまりよくありませんでしたが室内や大きな庭がきれいに維持されており気持ちよく過ごすことができました。夜の手品ショーや太鼓の演舞なども良かったで…　2026-09-13 10:28:14投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=19206\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "天気が悪くても庭や室内が綺麗でとても快適天気はあまりよくありませんでしたが室内や大きな庭がきれいに維持されており気持ちよく過ごすことができました。夜の手品ショーや太鼓の演舞なども良かったで。",
     "reviewAverage": 4.7,
     "reviewCount": 1138,
     "address": "山梨県富士吉田市上吉田東9-1-18",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D31681%26f_flg%3DPLAN",
     "hotelMinCharge": 22000,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31681/31681.jpg",
-    "userReview": "赤ちゃん連れに最適、部屋食と設備が充実赤ちゃん連れで宿泊しましたが、とても快適に過ごせました!オムツやオムツ用のゴミ箱、ベビーベッド、ベビーソープなど、赤ちゃん向けの設備が整っていて助かり…　2026-08-17 09:31:36投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=31681\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "赤ちゃん連れに最適、部屋食と設備が充実赤ちゃん連れで宿泊しましたが、とても快適に過ごせました!オムツやオムツ用のゴミ箱、ベビーベッド、ベビーソープなど、赤ちゃん向けの設備が整っていて助かり。",
     "reviewAverage": 4.59,
     "reviewCount": 558,
     "address": "神奈川県足柄下郡箱根町湯本茶屋35",
@@ -322,9 +322,9 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> ＪＲ磐越西線 猪苗代駅より路線バスで３０分、又は車で２０分で現地へ到着。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「中ノ沢温泉 庭園露天風呂の宿 朝日屋旅館」へチェックイン。落ち着いた空間で旅の荷を解き、ゆったりとした時間をスタート。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「中ノ沢温泉 庭園露天風呂の宿 朝日屋旅館」の湯処へ。日頃の疲れを癒やす湯浴みとともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「中ノ沢温泉 庭園露天風呂の宿 朝日屋旅館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「中ノ沢温泉 庭園露天風呂の宿 朝日屋旅館。」へチェックイン。落ち着いた空間で旅の荷を解き、ゆったりとした時間をスタート。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「中ノ沢温泉 庭園露天風呂の宿 朝日屋旅館。」の湯処へ。日頃の疲れを癒やす湯浴みとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「中ノ沢温泉 庭園露天風呂の宿 朝日屋旅館。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -333,9 +333,9 @@ export default function Page() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「中ノ沢温泉 庭園露天風呂の宿 朝日屋旅館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「中ノ沢温泉 庭園露天風呂の宿 朝日屋旅館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「鳴子温泉郷 極上の貸切露天風呂 旅館大沼」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「中ノ沢温泉 庭園露天風呂の宿 朝日屋旅館。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「中ノ沢温泉 庭園露天風呂の宿 朝日屋旅館。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「鳴子温泉郷 極上の貸切露天風呂 旅館大沼。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -352,20 +352,20 @@ export default function Page() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「中ノ沢温泉 庭園露天風呂の宿 朝日屋旅館」へのアクセスや移動方法について</span>
+                <span>Q. 「中ノ沢温泉 庭園露天風呂の宿 朝日屋旅館。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「中ノ沢温泉 庭園露天風呂の宿 朝日屋旅館」へは、ＪＲ磐越西線 猪苗代駅より路線バスで３０分、又は車で２０分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。
+                A. 「中ノ沢温泉 庭園露天風呂の宿 朝日屋旅館。」へは、ＪＲ磐越西線 猪苗代駅より路線バスで３０分、又は車で２０分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「中ノ沢温泉 庭園露天風呂の宿 朝日屋旅館」の魅力や予約時のポイントは？</span>
+                <span>Q. 「中ノ沢温泉 庭園露天風呂の宿 朝日屋旅館。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「中ノ沢温泉 庭園露天風呂の宿 朝日屋旅館」は上質な客室空間とおもてなしが旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「中ノ沢温泉 庭園露天風呂の宿 朝日屋旅館。」は上質な客室空間とおもてなしが旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -374,7 +374,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「中ノ沢温泉 庭園露天風呂の宿 朝日屋旅館」と「鳴子温泉郷 極上の貸切露天風呂 旅館大沼」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「中ノ沢温泉 庭園露天風呂の宿 朝日屋旅館。」と「鳴子温泉郷 極上の貸切露天風呂 旅館大沼。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

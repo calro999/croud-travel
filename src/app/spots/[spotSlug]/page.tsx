@@ -213,7 +213,7 @@ export default async function SpotDetailPage({ params }: { params: Promise<{ spo
         </div>
       </section>
 
-      {/* 🏨 2. コンバージョン最高点！「この観光施設に近く徒歩・車で行けるおすすめ宿」 */}
+      {/* 🏨 2. コンバージョン最高点！「この観光施設に近く徒歩・車で行けるおすすめ宿。」 */}
       <section className="bg-white border border-emerald-950/10 rounded-3xl p-6 md:p-10 space-y-6 shadow-sm">
         <div className="space-y-2 border-b border-emerald-950/10 pb-4">
           <span className="text-[10px] font-extrabold text-teal-800 bg-teal-50 border border-teal-200 px-3 py-0.5 rounded-full uppercase tracking-widest inline-block">
@@ -347,7 +347,7 @@ export default async function SpotDetailPage({ params }: { params: Promise<{ spo
           nextQuestions.push({
             question: `【${spot.name}周辺】一番近くで評価が高いおすすめホテル・温泉旅館は？`,
             badge: "周辺宿泊施設ガイド",
-            answerSnippet: `「${topHotel.hotel_name}」をはじめ、${spot.name}からスムーズにアクセスできる厳選ホテル・旅館が充実。滞在スタイルに合わせた客室・露天風呂プランが人気です。`,
+            answerSnippet: `「${topHotel.hotel_name}。」をはじめ、${spot.name}からスムーズにアクセスできる厳選ホテル・旅館が充実。滞在スタイルに合わせた客室・露天風呂プランが人気です。`,
             linkText: `【${topHotel.hotel_name}】宿泊ルポ記事を見る`,
             href: `/posts/${topHotel.id}`
           });

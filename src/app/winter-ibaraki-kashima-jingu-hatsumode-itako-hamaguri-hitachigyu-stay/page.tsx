@@ -360,7 +360,7 @@ export default function FeaturePage() {
                   
                 <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「新築で清潔感があり、お風呂も部屋も快適急な神栖への出張で利用しました。新築らしくキレイ。お風呂も部屋もキレイでした。また、利用したいと思います。クチコミの詳細はこちらから　http…　2026-09-26 18:05:18投稿 つづきはこち…」"}</p>
+                  <p className="leading-relaxed">{"「新築で清潔感があり、お風呂も部屋も快適急な神栖への出張で利用しました。新築らしくキレイ。お風呂も部屋もキレイでした。また、利用したいと思います。」"}</p>
                 </div>
             
 
@@ -425,7 +425,7 @@ export default function FeaturePage() {
                   
                 <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「清潔感ある部屋と親切丁寧なフロント対応いつも利用させて頂きありがとうございます清潔感ある部屋親切丁寧なフロント対応朝食午前6時より利用できてコストパフォーマンス良いホテルまたご…　2026-10-02 06:36:13投稿 つづきはこちら」"}</p>
+                  <p className="leading-relaxed">{"「清潔感ある部屋と親切丁寧なフロント対応いつも利用させて頂きありがとうございます清潔感ある部屋親切丁寧なフロント対応朝食午前6時より利用できてコストパフォーマンス良いホテルまたご。」"}</p>
                 </div>
             
 
@@ -490,7 +490,7 @@ export default function FeaturePage() {
                   
                 <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「温泉も朝食も大満足、またリピートしたい夫婦二人でビジネスホテルへ宿泊は不安でしたが当日予約で泊まれて温泉も部屋も朝食もコンパクトですが、とても良かったです!またリピートしたいと思います!クチコ…　2026-09-29 16:50:00投稿 …」"}</p>
+                  <p className="leading-relaxed">{"「温泉も朝食も大満足、またリピートしたい夫婦二人でビジネスホテルへ宿泊は不安でしたが当日予約で泊まれて温泉も部屋も朝食もコンパクトですが、とても良かったです!またリピートしたいと思います!クチコ…。」"}</p>
                 </div>
             
 
@@ -555,7 +555,7 @@ export default function FeaturePage() {
                   
                 <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「チェックインの待ち時間と接客にがっかりチェックイン対応ひとりでやられていたので結構待たされました。丁寧な説明でしたが、前の方にはされていた、タンメンの話しはなかった。GoToPassの説明していた…　2026-10-03 23:46:50投…」"}</p>
+                  <p className="leading-relaxed">{"「丁寧な説明でしたが、前の方にはされていた、タンメンの話しはなかった。GoToPassの説明していた… 投。」"}</p>
                 </div>
             
 

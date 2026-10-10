@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/organic-medicinal-herb-sauna-detox-stay"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D183550%26f_flg%3DPLAN",
     "hotelMinCharge": 21440,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183550/183550.jpg",
-    "userReview": "自分を労わる体験とヘルシーな食事に満足瞑想や自分でできるお灸など、自分を労わる体験がとてもよかったです。また自分の状況に合わせたお茶も自由にブレンドして飲めたり、バスタオルやお水も自分もペースで頂…　2026-09-06 16:27:20投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=183550\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "自分を労わる体験とヘルシーな食事に満足瞑想や自分でできるお灸など、自分を労わる体験がとてもよかったです。また自分の状況に合わせたお茶も自由にブレンドして飲めたり、バスタオルやお水も自分もペースで頂。",
     "reviewAverage": 4.55,
     "reviewCount": 133,
     "address": "栃木県那須塩原市板室841-14",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D44948%26f_flg%3DPLAN",
     "hotelMinCharge": 12590,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/44948/44948.jpg",
-    "userReview": "細やかな配慮と温かいおもてなしに感動温泉宿でおいしいものが食べたいけど、病み上がりで食事の量に不安があり、なかなか宿泊できずにいました。丁寧なHPと36時間ステイ、夕食少量が決め手で予約。当日…　2026-09-17 19:48:23投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=44948\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "細やかな配慮と温かいおもてなしに感動温泉宿でおいしいものが食べたいけど、病み上がりで食事の量に不安があり、なかなか宿泊できずにいました。丁寧なHPと36時間ステイ、夕食少量が決め手で予約。当日。",
     "reviewAverage": 4.56,
     "reviewCount": 534,
     "address": "北海道札幌市南区定山渓温泉西3-57",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D38783%26f_flg%3DPLAN",
     "hotelMinCharge": 10450,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38783/38783.jpg",
-    "userReview": "お客様ファーストで食事も美味しい90点の宿家族経営の旅館は、基本?って思う所が多い中なか、双葉荘はちゃんとお客様ファーストのいい旅館でした。夜は近江牛、朝は地元の佃煮や温泉玉子、海苔、点数をつける…　2026-09-18 06:39:02投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=38783\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "お客様ファーストで食事も美味しい90点の宿家族経営の旅館は、基本?って思う所が多い中なか、双葉荘はちゃんとお客様ファーストのいい旅館でした。夜は近江牛、朝は地元の佃煮や温泉玉子、海苔、点数をつける。",
     "reviewAverage": 4.6,
     "reviewCount": 131,
     "address": "滋賀県彦根市松原町網代口1377",

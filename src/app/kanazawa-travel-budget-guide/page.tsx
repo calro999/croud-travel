@@ -245,7 +245,7 @@ export default function KanazawaBudgetGuide() {
         </div>
         <script
           type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"金沢旅行1泊2日の総額はいくら必要ですか？","acceptedAnswer":{"@type":"Answer","text":"東京・大阪からの往復新幹線・特急代（約20,000円〜28,000円）、駅前ホテル宿泊（約8,000円〜15,000円）、近江町市場の海鮮丼や金沢おでんなどの食費（約10,000円〜15,000円）、兼六園等の入場料・交通費を含め、1人あたり約40,000円〜60,000円が標準的な目安です。高速バスを利用すれば3万円台前半まで抑えられます。"}},{"@type":"Question","name":"金沢市内の移動でおすすめの交通手段は？","acceptedAnswer":{"@type":"Answer","text":"主要名所が中心部にまとまっているため、「城下まち金沢周遊バス（1日フリー乗車券800円）」または公共シェアサイクル「まちのり（1回165円）」の利用が最も便利でコスパ抜群です。"}}]}) }}
+          dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"金沢旅行1泊2日の総額はいくら必要ですか？","acceptedAnswer":{"@type":"Answer","text":"東京・大阪からの往復新幹線・特急代（約20,000円〜28,000円）、駅前ホテル宿泊（約8,000円〜15,000円）、近江町市場の海鮮丼や金沢おでんなどの食費（約10,000円〜15,000円）、兼六園等の入場料・交通費を含め、1人あたり約40,000円〜60,000円が標準的な目安です。高速バスを利用すれば3万円台前半まで抑えられます。"}},{"@type":"Question","name":"金沢市内の移動でおすすめの交通手段は？","acceptedAnswer":{"@type":"Answer","text":"主要名所が中心部にまとまっているため、「城下まち金沢周遊バス（1日フリー乗車券800円）。」または公共シェアサイクル「まちのり（1回165円）」の利用が最も便利でコスパ抜群です。"}}]}) }}
         />
       </section>
     

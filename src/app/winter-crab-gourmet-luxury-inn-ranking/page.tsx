@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/winter-crab-gourmet-luxury-inn-ranking"
   };
 
@@ -83,11 +83,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147534/147534map.gif",
     "reviewCount": 116,
     "reviewAverage": 4.28,
-    "userReview": "おせわになりました。外湯へのアクセスが良かったです。花火も開始2分前にバタバタ出ましたがピッタリ間に合い堪能しました。他所でカニ食べる予定で、夕食はしゃぶしゃぶコースを選択していました。お…　2026-08-21 08:49:01投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=147534\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "おせわになりました。外湯へのアクセスが良かったです。花火も開始2分前にバタバタ出ましたがピッタリ間に合い堪能しました。他所でカニ食べる予定で、夕食はしゃぶしゃぶコースを選択していました。お。",
     "hotelMinCharge": 9900,
     "address1": "兵庫県",
     "address2": "豊岡市城崎町湯島690",
-    "telephoneNo": "0796-32-2008",
+    "telephoneNo": "08",
     "access": "ＪＲ　城崎温泉駅より徒歩にて約７分。　大阪方面より中国道～舞鶴道～北近畿豊岡自動車道～但馬空港ＩＣ下車　約30分",
     "parkingInformation": "契約駐車場有り(受け入れ15～18時、翌10時まで）　有料1,650円　　要予約",
     "nearestStation": "",
@@ -112,7 +112,7 @@ export default function Page() {
     "hotelMinCharge": 18030,
     "address1": "兵庫県",
     "address2": "豊岡市城崎町湯島652",
-    "telephoneNo": "0796-32-3111",
+    "telephoneNo": "11",
     "access": "ＪＲ城崎駅より徒歩１０分、最寄りIC：日高神鍋高原IC",
     "parkingInformation": "有り　1５台　先着順",
     "nearestStation": "城崎",
@@ -133,11 +133,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14007/14007map.gif",
     "reviewCount": 1179,
     "reviewAverage": 4.72,
-    "userReview": "早めのチェックインと優雅なサービスに大満足1時間近く早めに到着しましたがチェックインも前倒しで受け入れて下さいました。喫茶でのウェルカムドリンク、ガーデンプール、とても優雅な気分で楽しめました…　2026-09-18 22:49:34投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=14007\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "早めのチェックインと優雅なサービスに大満足1時間近く早めに到着しましたがチェックインも前倒しで受け入れて下さいました。喫茶でのウェルカムドリンク、ガーデンプール、とても優雅な気分で楽しめました。",
     "hotelMinCharge": 35200,
     "address1": "兵庫県",
     "address2": "豊岡市城崎町湯島1016-2",
-    "telephoneNo": "0796-32-3535",
+    "telephoneNo": "35",
     "access": "【電車】JR城崎温泉駅から旅館組合無料乗合バスで5～15分【車】北近畿豊岡自動車道・豊岡出石ICから約18分",
     "parkingInformation": "無料駐車場有（100台・予約不要）バイクも可",
     "nearestStation": "城崎",

@@ -49,7 +49,7 @@ export default function FurusatoDogFriendlyResortStayPage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原」へは、お車 小田原厚木道路小田原ICより国道135号線約105分/ 電車 伊豆高原駅より車で10分（タクシー代一部補助あり）。最寄りの伊豆高原駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原」は『30kg以上 大型犬 ２頭以上 でも泊まれる温泉リゾート。愛犬と一緒に海外旅行気分を満喫』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原」と「那須温泉 ホテルフォレストヒルズ那須 ｗｉｔｈ ＤＯＧＳ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原。」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原。」へは、お車 小田原厚木道路小田原ICより国道135号線約105分/ 電車 伊豆高原駅より車で10分（タクシー代一部補助あり）。最寄りの伊豆高原駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原。」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原。」は『30kg以上 大型犬 ２頭以上 でも泊まれる温泉リゾート。愛犬と一緒に海外旅行気分を満喫。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原。」と「那須温泉 ホテルフォレストヒルズ那須 ｗｉｔｈ ＤＯＧＳ。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -72,7 +72,7 @@ export default function FurusatoDogFriendlyResortStayPage() {
             愛犬とずっと一緒！天然芝ドッグラン＆愛犬同伴温泉リゾート名宿×ふるさと納税完全ガイド【2026年最新】伊豆高原・那須高原・びわ湖長浜
           </h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
-            旅行に行きたいけれど、大切な家族である愛犬をペットホテルに預けるのはかわいそう……そんな愛犬家の願いを100％叶えてくれるのが「愛犬同伴特化型ラグジュアリー温泉リゾート」です。客室はもちろん、ロビー、レストラン、テラスに至るまで愛犬と一緒に過ごせるよう設計されており、ノーリードで思いきり走り回れる広大な天然芝ドッグランやアジリティ、雨の日でも安心な屋内ドッグランを完備。さらに愛犬専用の天然温泉バスタブや、プロの料理人が栄養バランスを考えて手作りする愛犬用ビュッフェまで用意されています。伊豆高原の静かな森に佇みバリ島のウブドを思わせる癒やしの空間と充実の愛犬サービスを誇る「ウブドの森 伊豆高原」、那須高原の豊かな自然林に囲まれ全室がコテージ仕様でプライベートドッグラン付き客室も揃う「ホテルフォレストヒルズ那須 with DOGS」、そして日本最大の湖・琵琶湖の湖畔に建ち全室が温泉露天風呂付き＆愛犬と琵琶湖を一望できる「レジーナリゾートびわ湖長浜」。愛犬との絆を深める極上のリゾート旅を、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を使って実質自己負担2,000円で賢く予約し、家族みんなで笑顔になれる旅へ出かけましょう。
+            旅行に行きたいけれど、大切な家族である愛犬をペットホテルに預けるのはかわいそう……そんな愛犬家の願いを100％叶えてくれるのが「愛犬同伴特化型ラグジュアリー温泉リゾート。」です。客室はもちろん、ロビー、レストラン、テラスに至るまで愛犬と一緒に過ごせるよう設計されており、ノーリードで思いきり走り回れる広大な天然芝ドッグランやアジリティ、雨の日でも安心な屋内ドッグランを完備。さらに愛犬専用の天然温泉バスタブや、プロの料理人が栄養バランスを考えて手作りする愛犬用ビュッフェまで用意されています。伊豆高原の静かな森に佇みバリ島のウブドを思わせる癒やしの空間と充実の愛犬サービスを誇る「ウブドの森 伊豆高原」、那須高原の豊かな自然林に囲まれ全室がコテージ仕様でプライベートドッグラン付き客室も揃う「ホテルフォレストヒルズ那須 with DOGS。」、そして日本最大の湖・琵琶湖の湖畔に建ち全室が温泉露天風呂付き＆愛犬と琵琶湖を一望できる「レジーナリゾートびわ湖長浜」。愛犬との絆を深める極上のリゾート旅を、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を使って実質自己負担2,000円で賢く予約し、家族みんなで笑顔になれる旅へ出かけましょう。
           </p>
           <div className="flex flex-wrap gap-4 pt-4 border-t border-amber-900/50 text-xs text-amber-200/90 font-medium">
             <span>✓ 寄付額の最大30％相当が宿泊クーポンに</span>
@@ -195,7 +195,7 @@ export default function FurusatoDogFriendlyResortStayPage() {
                     伊豆高原の閑静な森の中に位置し、バリ島の高級リゾート「ウブド」の静寂と和の温もりが融合した愛犬同伴専用の極上温泉宿。ウッドチップ敷きの屋外ドッグランと雨でも安心の屋内ドッグランを完備し、愛犬用コミュニティラウンジでは無料の愛犬用おやつや特製ブッフェを用意。飼い主にはアルカリ性単純温泉の貸切露天風呂や大浴場が備わり、夕食には伊豆の新鮮な海の幸や特選牛の創作会席を愛犬同伴で堪能できます。愛犬専用の作務衣やフォトスタジオなど細部まで愛犬ファーストのおもてなしが徹底された名宿です。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「愛犬も人も大満足、至れり尽くせりの時間愛犬家にとって至れり尽くせりのお宿でした。犬のおやつ、内外のドッグラン、グルーミングルーム、フォトスポット。人間にもフリードリンク、アイスキャンディー(食べる… 2026-08-24 23:21:47投…」
+                    「愛犬も人も大満足、至れり尽くせりの時間愛犬家にとって至れり尽くせりのお宿でした。犬のおやつ、内外のドッグラン、グルーミングルーム、フォトスポット。人間にもフリードリンク、アイスキャンディー(食べる… 投。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -256,7 +256,7 @@ export default function FurusatoDogFriendlyResortStayPage() {
                     那須岳の山麓、標高約1,000mの静かな森の中に約2万平米もの敷地を有する全室愛犬同伴のコテージリゾート。テニスコート2面分を誇る広大な天然芝ドッグランや森の散歩道があり、愛犬が思いきり走り回れる自然豊かな環境です。客室は全室に温泉引き込みの内湯や露天風呂、テラスを完備し、プライベートドッグラン付きコテージも大人気。夕食は那須高原野菜や特選那須牛を使った本格洋食コースをお部屋食または愛犬同伴レストランでゆったりと味わえます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「森林浴と美味しい食事、愛犬も大満足の休日森の中の宿で、部屋で森林浴が楽しめました。フレンチの夕食は、1品づつが丁寧に作られていてとても美味しかったです。朝食ブッフェも野菜が豊富で、那須の牛… 2026-09-05 18:11:16投稿 つづ…」
+                    「森林浴と美味しい食事、愛犬も大満足の休日森の中の宿で、部屋で森林浴が楽しめました。フレンチの夕食は、1品づつが丁寧に作られていてとても美味しかったです。朝食ブッフェも野菜が豊富で、那須の牛… つづ。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -317,7 +317,7 @@ export default function FurusatoDogFriendlyResortStayPage() {
                     琵琶湖の北東部・長浜城歴史公園に隣接し、全客室から雄大な琵琶湖の夕陽とパノラマを望むハイクラスな愛犬同伴リゾート。客室のテラスには長浜太閤温泉を引いた客室専用露天風呂を備え、愛犬と一緒に琵琶湖の絶景を眺めながら極上のプライベートステイが楽しめます。館内には滑りにくい床材や愛犬用設備が完備され、夕食には近江牛や琵琶湖の湖魚を取り入れた本格日本料理を愛犬と一緒にレストランで満喫。一流のホスピタリティと快適性が約束された最高峰宿です。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「ペットと快適に過ごせ、部屋の露天風呂が最高初めて利用しました。ペットと泊まれる宿ですが、部屋は綺麗で料理もおいしかったです。部屋で落ち着いて過ごせました。ペットもくつろいでいました。部屋に露天風呂… 2026-09-05 20:18:51投…」
+                    「ペットと快適に過ごせ、部屋の露天風呂が最高初めて利用しました。ペットと泊まれる宿ですが、部屋は綺麗で料理もおいしかったです。部屋で落ち着いて過ごせました。ペットもくつろいでいました。部屋に露天風呂… 投。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -438,9 +438,9 @@ export default function FurusatoDogFriendlyResortStayPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 伊豆高原駅よりアクセス。お車 小田原厚木道路小田原ICより国道135号線約105分/ 電車 伊豆高原駅より車で10分（タクシー代一部補助あり）。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原」にチェックイン。30kg以上 大型犬 ２頭以上 でも泊まれる温泉リゾート。愛犬と一緒に海外旅行気分を満喫などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原」の湯処へ。30kg以上 大型犬 ２頭以上 でも泊まれる温泉リゾート。愛犬と一緒にとともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原。」にチェックイン。30kg以上 大型犬 ２頭以上 でも泊まれる温泉リゾート。愛犬と一緒に海外旅行気分を満喫などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原。」の湯処へ。30kg以上 大型犬 ２頭以上 でも泊まれる温泉リゾート。愛犬と一緒にとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -449,9 +449,9 @@ export default function FurusatoDogFriendlyResortStayPage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「那須温泉 ホテルフォレストヒルズ那須 ｗｉｔｈ ＤＯＧＳ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「那須温泉 ホテルフォレストヒルズ那須 ｗｉｔｈ ＤＯＧＳ。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -468,20 +468,20 @@ export default function FurusatoDogFriendlyResortStayPage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原」へのアクセスや移動方法について</span>
+                <span>Q. 「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原」へは、お車 小田原厚木道路小田原ICより国道135号線約105分/ 電車 伊豆高原駅より車で10分（タクシー代一部補助あり）。最寄りの伊豆高原駅からの経路案内も充実しています。
+                A. 「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原。」へは、お車 小田原厚木道路小田原ICより国道135号線約105分/ 電車 伊豆高原駅より車で10分（タクシー代一部補助あり）。最寄りの伊豆高原駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原」の魅力や予約時のポイントは？</span>
+                <span>Q. 「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原」は『30kg以上 大型犬 ２頭以上 でも泊まれる温泉リゾート。愛犬と一緒に海外旅行気分を満喫』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原。」は『30kg以上 大型犬 ２頭以上 でも泊まれる温泉リゾート。愛犬と一緒に海外旅行気分を満喫。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -490,7 +490,7 @@ export default function FurusatoDogFriendlyResortStayPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原」と「那須温泉 ホテルフォレストヒルズ那須 ｗｉｔｈ ＤＯＧＳ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原。」と「那須温泉 ホテルフォレストヒルズ那須 ｗｉｔｈ ＤＯＧＳ。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

@@ -34,11 +34,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38542/38542map.gif",
     "reviewCount": 195,
     "reviewAverage": 4.54,
-    "userReview": "本当に全てのサービスが星5つ!!家族4人2泊3日でお世話になりました。館内・お部屋共に清潔に保たれており、床材がとても素敵でした。お風呂は家族風呂が無料で入ることができ、朝・夜とも入らせて…　2026-08-23 12:23:31投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=38542\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "本当に全てのサービスが星5つ!家族4人2泊3日でお世話になりました。館内・お部屋共に清潔に保たれており、床材がとても素敵でした。お風呂は家族風呂が無料で入ることができ、朝・夜とも入らせて。",
     "hotelMinCharge": 14100,
     "address1": "熊本県",
     "address2": "阿蘇市内牧1354",
-    "telephoneNo": "0967-32-0330",
+    "telephoneNo": "30",
     "access": "肥後豊肥線　阿蘇駅より車で１５分程／肥後豊肥線　内牧駅より車で１５分程",
     "parkingInformation": "有り　２０台　無料　先着順",
     "nearestStation": "阿蘇",
@@ -59,7 +59,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/52882/52882map.gif",
     "reviewCount": 1575,
     "reviewAverage": 4.26,
-    "userReview": "食事とアルコール飲み放題に大満足夕・朝食バイキング、内容にも大変満足しました。夜、アルコールがフリーなのも良いですね。少し施設が古いところはしょうがない。また利用したいと思います。クチコミの詳…　2026-09-19 22:01:09投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=52882\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "食事とアルコール飲み放題に大満足夕・朝食バイキング、内容にも大変満足しました。夜、アルコールがフリーなのも良いですね。少し施設が古いところはしょうがない。また利用したいと思います。クチコミの詳。",
     "hotelMinCharge": 12540,
     "address1": "熊本県",
     "address2": "阿蘇郡南阿蘇村下野147-10",
@@ -92,7 +92,7 @@ const hotels: any[] = [
     "access": "熊本空港からお車で約30分、南阿蘇鉄道/長陽駅よりお車で約9分",
     "parkingInformation": "あり 14台　無料　先着順",
     "nearestStation": "熊本空港",
-    "hotelSpecial": "【2026年11月2日開業】人間本来の感覚を取り戻す、原始の記憶を辿る滞在",
+    "hotelSpecial": "【開業】人間本来の感覚を取り戻す、原始の記憶を辿る滞在",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F202120%2F202120.html"
   },
   {
@@ -109,7 +109,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31796/31796map.gif",
     "reviewCount": 2060,
     "reviewAverage": 4.3,
-    "userReview": "食事と温泉は満足、部屋の機械音が残念夕食も朝食も美味しくいただき、温泉も気持ち良かったです部屋の外から機械の音が聞こえて、少し残念でした!クチコミの詳細はこちらから　https://rev…　2026-09-19 22:12:36投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=31796\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "落ち着いた心地よい空間の中、温かい温泉とおいしいお料理で日頃の疲れを癒やすことができました。",
     "hotelMinCharge": 11627,
     "address1": "熊本県",
     "address2": "阿蘇郡南小国町満願寺北黒川6554-1",
@@ -134,7 +134,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68266/68266map.gif",
     "reviewCount": 1479,
     "reviewAverage": 4.08,
-    "userReview": "丁寧な接客と美味しい朝食、大浴場の汚れが残念部屋に入ったときに、生臭いにおいがしましたが、エアコンを入れるとほどなく気にならなくなりました。フロントの方はよい感じで、無理なお願いにも笑顔で快く…　2026-09-07 18:38:19投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=68266\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "フロントの方はよい感じで、無理なお願いにも笑顔で快く。",
     "hotelMinCharge": 5980,
     "address1": "熊本県",
     "address2": "菊池郡大津町室736-1",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「阿蘇内牧温泉 御料理旅館 親和苑」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「阿蘇内牧温泉 御料理旅館 親和苑」へは、肥後豊肥線 阿蘇駅より車で１５分程／肥後豊肥線 内牧駅より車で１５分程。最寄りの阿蘇駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「阿蘇内牧温泉 御料理旅館 親和苑」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「阿蘇内牧温泉 御料理旅館 親和苑」は『料理長が贈る美味しい芸術！ 源泉掛け流し 露天風呂（男女別）／貸切家族風呂／離れ露天風呂付』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「阿蘇内牧温泉 御料理旅館 親和苑」と「阿蘇 梅園 ＳＰＡ ＲＥＳＯＲＴ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「阿蘇内牧温泉 御料理旅館 親和苑」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「阿蘇内牧温泉 御料理旅館 親和苑」へは、肥後豊肥線 阿蘇駅より車で１５分程／肥後豊肥線 内牧駅より車で１５分程。最寄りの阿蘇駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「阿蘇内牧温泉 御料理旅館 親和苑」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「阿蘇内牧温泉 御料理旅館 親和苑」は『料理長が贈る美味しい芸術！源泉掛け流し 露天風呂（男女別）／貸切家族風呂／離れ露天風呂付。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「阿蘇内牧温泉 御料理旅館 親和苑」と「阿蘇 梅園 ＳＰＡ ＲＥＳＯＲＴ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -396,7 +396,7 @@ export default function FeatureDetailPage() {
                       <span className="text-xs font-bold text-emerald-600 bg-emerald-50 px-2 py-0.5 rounded border border-emerald-100">楽天高評価</span>
                     </div>
                     <ul className="space-y-1 mb-4 text-xs text-slate-600 bg-slate-50 p-3 rounded-lg">
-                      <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>【2026年11月2日開業】人間本来の感覚を取り戻す、原始の記憶を辿る滞在…</span></li>
+                      <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>【開業】人間本来の感覚を取り戻す、原始の記憶を辿る滞在…</span></li>
                       <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>アクセス: 熊本空港からお車で約30分、南阿蘇鉄道/長陽駅よりお車で約9分</span></li>
                       <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>楽天トラベル総合評価: ★4.50（レビュー 0件）</span></li>
                     </ul>
@@ -628,7 +628,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「阿蘇内牧温泉 御料理旅館 親和苑」は『料理長が贈る美味しい芸術！ 源泉掛け流し 露天風呂（男女別）／貸切家族風呂／離れ露天風呂付』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「阿蘇内牧温泉 御料理旅館 親和苑」は『料理長が贈る美味しい芸術！源泉掛け流し 露天風呂（男女別）／貸切家族風呂／離れ露天風呂付。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

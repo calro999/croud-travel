@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: '白馬八方尾根・北アルプス冠雪と山麓紅葉の「三段紅葉」＆日本屈指の強アルカリ美肌温泉ステイ | クラウドトラベルふるさと納税',
-  description: '10月〜11月限定の奇跡の絶景「白馬の三段紅葉（北アルプスの初雪・山腹の紅葉・山麓の深緑）」。pH11超の高アルカリ白馬八方温泉と信州サーモン・信州牛をふるさと納税で堪能する秋旅特集。',
+  description: '10月〜11月限定の奇跡の絶景「白馬の三段紅葉（北アルプスの初雪・山腹の紅葉・山麓の深緑）。」。pH11超の高アルカリ白馬八方温泉と信州サーモン・信州牛をふるさと納税で堪能する秋旅特集。',
   keywords: ["白馬八方尾根", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-hakuba-three-stage-autumn-leaves-stay/",
   },
   openGraph: {
     title: '白馬八方尾根・北アルプス冠雪と山麓紅葉の「三段紅葉」＆日本屈指の強アルカリ美肌温泉ステイ',
-    description: '10月〜11月限定の奇跡の絶景「白馬の三段紅葉（北アルプスの初雪・山腹の紅葉・山麓の深緑）」。pH11超の高アルカリ白馬八方温泉と信州サーモン・信州牛をふるさと納税で堪能する秋旅特集。',
+    description: '10月〜11月限定の奇跡の絶景「白馬の三段紅葉（北アルプスの初雪・山腹の紅葉・山麓の深緑）。」。pH11超の高アルカリ白馬八方温泉と信州サーモン・信州牛をふるさと納税で堪能する秋旅特集。',
     url: 'https://croud-travel.pages.dev/furusato-tax-hakuba-three-stage-autumn-leaves-stay',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
     type: 'article',
@@ -26,7 +26,7 @@ export default function Page() {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "白馬八方尾根・北アルプス冠雪と山麓紅葉の「三段紅葉」＆日本屈指の強アルカリ美肌温泉ステイ",
-    "description": "10月〜11月限定の奇跡の絶景「白馬の三段紅葉（北アルプスの初雪・山腹の紅葉・山麓の深緑）」。pH11超の高アルカリ白馬八方温泉と信州サーモン・信州牛をふるさと納税で堪能する秋旅特集。",
+    "description": "10月〜11月限定の奇跡の絶景「白馬の三段紅葉（北アルプスの初雪・山腹の紅葉・山麓の深緑）。」。pH11超の高アルカリ白馬八方温泉と信州サーモン・信州牛をふるさと納税で堪能する秋旅特集。",
     "author": {
       "@type": "Organization",
       "name": "クラウドトラベル編集部"
@@ -39,8 +39,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
-    "datePublished": "2026-09-19",
-    "dateModified": "2026-09-19",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-hakuba-three-stage-autumn-leaves-stay"
   };
 

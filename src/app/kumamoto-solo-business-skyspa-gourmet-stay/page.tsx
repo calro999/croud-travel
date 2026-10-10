@@ -7,11 +7,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kumamoto-solo-business-skyspa-gourmet-stay/" },
   title: '【熊本出張＆城下町ひとり旅】最上階展望スカイスパ・天然温泉・熊本城ビュー！名物馬刺しを満喫する極上宿 厳選3選',
-  description: 'TSMC進出で沸く九州の中枢ビジネス都市・熊本！「最上階スカイスパと露天風呂で星空をととのえる」新ランドマーク「CANDEO HOTELS 熊本新市街」、サクラマチクマモト直結で天然温泉大浴場と夜鳴きそば完備の「天然温泉 六花の湯 ドーミーイン熊本」、熊本城を正面に望む格式の迎賓ホテル「熊本ホテルキャッスル」を徹底比較。',
+  description: 'TSMC進出で沸く九州の中枢ビジネス都市・熊本！「最上階スカイスパと露天風呂で星空をととのえる。」新ランドマーク「CANDEO HOTELS 熊本新市街」、サクラマチクマモト直結で天然温泉大浴場と夜鳴きそば完備の「天然温泉 六花の湯 ドーミーイン熊本」、熊本城を正面に望む格式の迎賓ホテル「熊本ホテルキャッスル」を徹底比較。',
   keywords: '熊本 出張 ホテル おすすめ,熊本 一人旅 ホテル,カンデオホテルズ熊本新市街 サウナ,ドーミーイン熊本 温泉,熊本ホテルキャッスル 熊本城ビュー',
   openGraph: {
     title: '【熊本出張＆城下町ひとり旅】最上階展望スカイスパ・天然温泉・熊本城ビュー！名物馬刺しを満喫する極上宿 厳選3選',
-    description: 'TSMC進出で沸く九州の中枢ビジネス都市・熊本！「最上階スカイスパと露天風呂で星空をととのえる」新ランドマーク「CANDEO HOTELS 熊本新市街」、サクラマチクマモト直結で天然温泉大浴場と夜鳴きそば完備の「天然温泉 六花の湯 ドーミーイン熊本」、熊本城を正面に望む格式の迎賓ホテル「熊本ホテルキャッスル」を徹底比較。',
+    description: 'TSMC進出で沸く九州の中枢ビジネス都市・熊本！「最上階スカイスパと露天風呂で星空をととのえる。」新ランドマーク「CANDEO HOTELS 熊本新市街」、サクラマチクマモト直結で天然温泉大浴場と夜鳴きそば完備の「天然温泉 六花の湯 ドーミーイン熊本」、熊本城を正面に望む格式の迎賓ホテル「熊本ホテルキャッスル」を徹底比較。',
     url: 'https://croud-travel.pages.dev/kumamoto-solo-business-skyspa-gourmet-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -24,7 +24,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【熊本出張＆城下町ひとり旅】最上階展望スカイスパ・天然温泉・熊本城ビュー！名物馬刺しを満喫する極上宿 厳選3選',
-    description: 'TSMC進出で沸く九州の中枢ビジネス都市・熊本！「最上階スカイスパと露天風呂で星空をととのえる」新ランドマーク「CANDEO HOTELS 熊本新市街」、サクラマチクマモト直結で天然温泉大浴場と夜鳴きそば完備の「天然温泉 六花の湯 ドーミーイン熊本」、熊本城を正面に望む格式の迎賓ホテル「熊本ホテルキャッスル」を徹底比較。',
+    description: 'TSMC進出で沸く九州の中枢ビジネス都市・熊本！「最上階スカイスパと露天風呂で星空をととのえる。」新ランドマーク「CANDEO HOTELS 熊本新市街」、サクラマチクマモト直結で天然温泉大浴場と夜鳴きそば完備の「天然温泉 六花の湯 ドーミーイン熊本」、熊本城を正面に望む格式の迎賓ホテル「熊本ホテルキャッスル」を徹底比較。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・出張調査班',
@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-11T02:50:00+09:00',
-    dateModified: '2026-09-11T02:50:00+09:00',
+    datePublished: 'T02:50:00+09:00',
+    dateModified: 'T02:50:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/kumamoto-solo-business-skyspa-gourmet-stay',
   };
 
@@ -78,7 +78,7 @@ export default function ArticlePage() {
           【熊本出張＆城下町ひとり旅】最上階展望スカイスパ・天然温泉・熊本城ビュー！名物馬刺しを満喫する極上宿 厳選3選
         </h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
-          TSMC進出で沸く九州の中枢ビジネス都市・熊本！「最上階スカイスパと露天風呂で星空をととのえる」新ランドマーク「CANDEO HOTELS 熊本新市街」、サクラマチクマモト直結で天然温泉大浴場と夜鳴きそば完備の「天然温泉 六花の湯 ドーミーイン熊本」、熊本城を正面に望む格式の迎賓ホテル「熊本ホテルキャッスル」を徹底比較。
+          TSMC進出で沸く九州の中枢ビジネス都市・熊本！「最上階スカイスパと露天風呂で星空をととのえる。」新ランドマーク「CANDEO HOTELS 熊本新市街」、サクラマチクマモト直結で天然温泉大浴場と夜鳴きそば完備の「天然温泉 六花の湯 ドーミーイン熊本」、熊本城を正面に望む格式の迎賓ホテル「熊本ホテルキャッスル」を徹底比較。
         </p>
       </header>
 
@@ -161,7 +161,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.29点。「新市街の真ん中で立地最強、最上階のサウナと露天風呂が最高でした」「新しくてお部屋も綺麗、熊本出張なら絶対ここ」とビジネス・サウナーから絶賛。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.29点。「新市街の真ん中で立地最強、最上階のサウナと露天風呂が最高でした。」「新しくてお部屋も綺麗、熊本出張なら絶対ここ。」とビジネス・サウナーから絶賛。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -236,13 +236,13 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.37点。「サクラマチクマモトの目の前で空港バス利用に最高に便利」「温泉とサウナが気持ちよく、朝食のタイピーエンも美味しかった」と安定の人気。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.37点。「サクラマチクマモトの目の前で空港バス利用に最高に便利。」「温泉とサウナが気持ちよく、朝食のタイピーエンも美味しかった。」と安定の人気。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
                 <div className="text-xs text-stone-500 space-y-0.5 text-center sm:text-left">
                   <p>📍 熊本県熊本市中央区辛島町3-1</p>
-                  <p>🚆 ◆空港よりバス「熊本桜町バスターミナル(旧称熊本交通センター)」下車徒歩1分◆ＪＲ熊本駅から路面電車「辛島町」下車2分</p>
+                  <p>🚆 ◆空港よりバス「熊本桜町バスターミナル(旧称熊本交通センター)。」下車徒歩1分◆ＪＲ熊本駅から路面電車「辛島町」下車2分</p>
                 </div>
                 <div className="flex items-center gap-3 w-full sm:w-auto">
                   <a
@@ -311,7 +311,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.44点。「お部屋からライトアップされた熊本城が見えて感動しました」「桃花源の麻婆豆腐が絶品で、スタッフの方々の対応も素晴らしかった」と好評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.44点。「お部屋からライトアップされた熊本城が見えて感動しました。」「桃花源の麻婆豆腐が絶品で、スタッフの方々の対応も素晴らしかった。」と好評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -437,7 +437,7 @@ export default function ArticlePage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">14:00〜</strong> 熊本駅よりアクセス。◆空港よりバス「熊本桜町バスターミナル(旧称熊本交通センター)」下車徒歩1分◆ＪＲ熊本駅から路面電車「辛島町」下車2分。</li>
+                <li>・<strong className="text-stone-800">14:00〜</strong> 熊本駅よりアクセス。◆空港よりバス「熊本桜町バスターミナル(旧称熊本交通センター)。」下車徒歩1分◆ＪＲ熊本駅から路面電車「辛島町」下車2分。</li>
                 <li>・<strong className="text-stone-800">15:30〜</strong> 「天然温泉 六花の湯 ドーミーイン熊本」にチェックイン。■最上階に露天風呂付！天然温泉大浴場（サウナ完備）■桜町バスターミナルの目の前■繁華街へも徒歩圏内などの宿の特徴に期待を高めつつ客室へ。</li>
                 <li>・<strong className="text-stone-800">17:00〜</strong> 「天然温泉 六花の湯 ドーミーイン熊本」の湯処へ。■最上階に露天風呂付！天然温泉大浴場（サウナ完備）■桜町バスターミナルとともに、夕暮れの特別な寛ぎを満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「天然温泉 六花の湯 ドーミーイン熊本」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>

@@ -34,7 +34,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19403/19403map.gif",
     "reviewCount": 1381,
     "reviewAverage": 4.45,
-    "userReview": "クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/19403?reviewId=33123479420008　2026-09-17 15:34:16投稿",
+    "userReview": "",
     "hotelMinCharge": 13200,
     "address1": "兵庫県",
     "address2": "赤穂市御崎2-8",
@@ -59,11 +59,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/182811/182811map.gif",
     "reviewCount": 61,
     "reviewAverage": 4.77,
-    "userReview": "温泉の泉質は最高、スタッフの対応も親切口コミを見てホテル予約をしました。部屋の清掃が行き届いている、料理が美味しい、温泉が良い。概ねその通りで満足です。特に温泉は本当に泉質が良く何…　2026-08-04 17:10:27投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=182811\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "温泉の泉質は最高、スタッフの対応も親切口コミを見てホテル予約をしました。部屋の清掃が行き届いている、料理が美味しい、温泉が良い。概ねその通りで満足です。特に温泉は本当に泉質が良く何。",
     "hotelMinCharge": 39072,
     "address1": "和歌山県",
     "address2": "西牟婁郡白浜町椿1063-21",
-    "telephoneNo": "0739-33-2223",
+    "telephoneNo": "23",
     "access": "【お車の場合】：道の駅椿はなの湯から約２分【空港、電車等でお越しの場合】：無料の送迎サービスをご利用いただけます",
     "parkingInformation": "有り　15台　無料　予約不要",
     "nearestStation": "椿",
@@ -84,11 +84,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31209/31209map.gif",
     "reviewCount": 828,
     "reviewAverage": 3.66,
-    "userReview": "コスパ最高、料理も温泉も眺めも大満足コスパ最高すぎです 料理は美味しいし、お風呂も良い なんと言っても眺めが良いクチコミの詳細はこちらから　https://review.travel.raku…　2026-09-17 20:08:21投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=31209\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "コスパ最高、料理も温泉も眺めも大満足コスパ最高すぎです 料理は美味しいし、お風呂も良い なんと言っても眺めが良い。",
     "hotelMinCharge": 8000,
     "address1": "愛知県",
     "address2": "蒲郡市西浦町大山17-1",
-    "telephoneNo": "0533-57-2161",
+    "telephoneNo": "61",
     "access": "名鉄西浦駅より無料送迎バスで１０分（14：20～16：20）／音羽蒲郡ICより車で３０分／ラグーナまで車で３０分",
     "parkingInformation": "無料　１００台　先着順になります。",
     "nearestStation": "西浦",
@@ -109,11 +109,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13515/13515map.gif",
     "reviewCount": 948,
     "reviewAverage": 4.47,
-    "userReview": "温泉とサウナ、素晴らしい接客に癒されたゆっくり温泉に浸かり、サウナに入って、ご馳走に舌鼓、、、時間がゆっくり流れてるいる感覚に癒されました。スタッフに外国の方が多かったですが、とても素晴らしい…　2026-09-18 13:13:17投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=13515\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "温泉とサウナ、素晴らしい接客に癒されたゆっくり温泉に浸かり、サウナに入って、ご馳走に舌鼓、、、時間がゆっくり流れてるいる感覚に癒されました。スタッフに外国の方が多かったですが、とても素晴らしい。",
     "hotelMinCharge": 8250,
     "address1": "鳥取県",
     "address2": "東伯郡湯梨浜町はわい温泉4-62",
-    "telephoneNo": "0858-35-3731",
+    "telephoneNo": "31",
     "access": "中国自動車道『院庄IC』より179号線70km／JR山陰本線『倉吉駅』より無料送迎あり。タクシー10分『はわい温泉』",
     "parkingInformation": "無料駐車場(60台)",
     "nearestStation": "倉吉",
@@ -134,11 +134,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5261/5261map.gif",
     "reviewCount": 964,
     "reviewAverage": 4.51,
-    "userReview": "湯質と料理が最高、海を望む半露天風呂も格別とにかく湯質が良い。料理もボリューミーで美味い。部屋の半露天風呂は小さいながら海原が一望できる温泉。送迎バスもスムースな発着でドライバーの方も親切。…　2026-09-15 07:43:28投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=5261\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "湯質と料理が最高、海を望む半露天風呂も格別とにかく湯質が良い。料理もボリューミーで美味い。部屋の半露天風呂は小さいながら海原が一望できる温泉。送迎バスもスムースな発着でドライバーの方も親切。",
     "hotelMinCharge": 10000,
     "address1": "静岡県",
     "address2": "賀茂郡東伊豆町稲取1599-1",
-    "telephoneNo": "0557-95-2121",
+    "telephoneNo": "21",
     "access": "伊豆急線伊豆稲取駅下車。徒歩約１５分。無料送迎バスあり　※要事前予約（13：30～18：00）　明朝は定期便あります。",
     "parkingInformation": "有り　50台　無料",
     "nearestStation": "伊豆稲取",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「赤穂温泉 絶景露天風呂の宿 銀波荘」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「赤穂温泉 絶景露天風呂の宿 銀波荘」へは、JR山陽本線・播州赤穂駅より路線バス約20分「御崎バス停」より徒歩1分・無料送迎あり／山陽自動車道・赤穂ＩＣより約10分。最寄りの播州赤穂駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「赤穂温泉 絶景露天風呂の宿 銀波荘」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「赤穂温泉 絶景露天風呂の宿 銀波荘」は『ＴＶや雑誌でも多数掲載！海と温泉が一体になって全身を包みこむ体験を堪能できる絶景露天風呂が』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「赤穂温泉 絶景露天風呂の宿 銀波荘」と「海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「赤穂温泉 絶景露天風呂の宿 銀波荘」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「赤穂温泉 絶景露天風呂の宿 銀波荘」へは、JR山陽本線・播州赤穂駅より路線バス約20分「御崎バス停」より徒歩1分・無料送迎あり／山陽自動車道・赤穂ＩＣより約10分。最寄りの播州赤穂駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「赤穂温泉 絶景露天風呂の宿 銀波荘」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「赤穂温泉 絶景露天風呂の宿 銀波荘」は『ＴＶや雑誌でも多数掲載！海と温泉が一体になって全身を包みこむ体験を堪能できる絶景露天風呂が。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「赤穂温泉 絶景露天風呂の宿 銀波荘」と「海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -598,7 +598,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「赤穂温泉 絶景露天風呂の宿 銀波荘」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「赤穂温泉 絶景露天風呂の宿 銀波荘」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -628,7 +628,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「赤穂温泉 絶景露天風呂の宿 銀波荘」は『ＴＶや雑誌でも多数掲載！海と温泉が一体になって全身を包みこむ体験を堪能できる絶景露天風呂が』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「赤穂温泉 絶景露天風呂の宿 銀波荘」は『ＴＶや雑誌でも多数掲載！海と温泉が一体になって全身を包みこむ体験を堪能できる絶景露天風呂が。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -637,7 +637,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「赤穂温泉 絶景露天風呂の宿 銀波荘」と「海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「赤穂温泉 絶景露天風呂の宿 銀波荘」と「海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/traditional-ayu-sweetfish-charcoal-grill-stay"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D38417%26f_flg%3DPLAN",
     "hotelMinCharge": 11550,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38417/38417.jpg",
-    "userReview": "中居さんの気遣いに感謝、露天風呂も最高嫁と2人で久々の旅行でした。楽しみにしていた晩御飯でしたが嫁が体調を崩して食事の途中に部屋にもどり自分だけ豪華な食事いただきました。中居さんが気遣ってくれてお…　2026-09-15 00:21:09投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=38417\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "中居さんの気遣いに感謝、露天風呂も最高嫁と2人で久々の旅行でした。楽しみにしていた晩御飯でしたが嫁が体調を崩して食事の途中に部屋にもどり自分だけ豪華な食事いただきました。中居さんが気遣ってくれてお。",
     "reviewAverage": 4.37,
     "reviewCount": 368,
     "address": "熊本県阿蘇郡南阿蘇村河陽4284",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D16280%26f_flg%3DPLAN",
     "hotelMinCharge": 7700,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16280/16280.jpg",
-    "userReview": "広々とした落ち着く部屋と素敵な中庭お部屋がとても広く落ち着く内装で良き古さも感じられリラックスできました中庭も素敵でしたクチコミの詳細はこちらから　https://review.t…　2026-09-11 20:36:48投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=16280\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "広々とした落ち着く部屋と素敵な中庭お部屋がとても広く落ち着く内装で良き古さも感じられリラックスできました中庭も素敵でした。",
     "reviewAverage": 4.55,
     "reviewCount": 129,
     "address": "熊本県人吉市上青井町180",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D14509%26f_flg%3DPLAN",
     "hotelMinCharge": 7000,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14509/14509.jpg",
-    "userReview": "とても気持ちが休まる良いお宿でした平日だった為か、お宿にゆとりがあったそうで予約のお部屋より広いお部屋を用意していただけました。佇まいは古いけれど、どこもとても綺麗に掃除をされていて気持ちよく…　2026-09-09 14:52:07投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=14509\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "とても気持ちが休まる良いお宿でした平日だった為か、お宿にゆとりがあったそうで予約のお部屋より広いお部屋を用意していただけました。佇まいは古いけれど、どこもとても綺麗に掃除をされていて気持ちよく。",
     "reviewAverage": 4.35,
     "reviewCount": 293,
     "address": "群馬県藤岡市下日野1254-1",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D136952%26f_flg%3DPLAN",
     "hotelMinCharge": 8000,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/136952/136952.jpg",
-    "userReview": "癖になるお湯3度目の宿泊。お湯もお食事も気に入っています。欲を言えば...夜の〆のご飯はキノコご飯などの炊き込みご飯だともっとうれしいです。なぜなら、美味しいおかずたちはほとんどお酒のおつ…　2026-09-12 15:00:19投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=136952\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "癖になるお湯3度目の宿泊。お湯もお食事も気に入っています。欲を言えば...夜の〆のご飯はキノコご飯などの炊き込みご飯だともっとうれしいです。なぜなら、美味しいおかずたちはほとんどお酒のおつ。",
     "reviewAverage": 4.79,
     "reviewCount": 109,
     "address": "福島県東白川郡塙町大字湯岐字湯岐１７",
@@ -335,7 +335,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「栃木温泉 鮎返りの滝を望む宿 小山旅館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「栃木温泉 鮎返りの滝を望む宿 小山旅館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「国登録有形文化財の宿 人吉温泉 芳野旅館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「国登録有形文化財の宿 人吉温泉 芳野旅館。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -374,7 +374,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「栃木温泉 鮎返りの滝を望む宿 小山旅館」と「国登録有形文化財の宿 人吉温泉 芳野旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「栃木温泉 鮎返りの滝を望む宿 小山旅館」と「国登録有形文化財の宿 人吉温泉 芳野旅館。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

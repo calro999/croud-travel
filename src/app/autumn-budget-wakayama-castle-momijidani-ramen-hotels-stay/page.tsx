@@ -180,7 +180,7 @@ export default function AutumnBudgetWakayamaHotelsPage() {
               </div>
             </div>
             <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              コンフォートホテル和歌山（２０２６年３月３０日　リニューアル）
+              コンフォートホテル和歌山（　リニューアル）
             </h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -188,7 +188,7 @@ export default function AutumnBudgetWakayamaHotelsPage() {
             </div>
             <div className="grid md:grid-cols-2 gap-4 pt-2">
               <div className="relative aspect-video rounded-xl overflow-hidden bg-slate-100">
-                <Image src="https://img.travel.rakuten.co.jp/share/HOTEL/149215/149215.jpg" alt="コンフォートホテル和歌山（２０２６年３月３０日　リニューアル）" fill className="object-cover" unoptimized />
+                <Image src="https://img.travel.rakuten.co.jp/share/HOTEL/149215/149215.jpg" alt="コンフォートホテル和歌山（　リニューアル）" fill className="object-cover" unoptimized />
               </div>
               <div className="flex flex-col justify-between space-y-3">
                 <p className="text-xs text-slate-600 leading-relaxed">

@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【信楽焼の器美学と近江牛懐石】日本最古の銘柄牛！おごと温泉・信楽・琵琶湖畔の名湯宿5選",
     "description": "日本六古窯の一つとして温かみある土の風合いが魅力の「信楽焼（しがらきやき）」！信楽焼の特注プレートで味わう日本最古のブランド牛「近江牛」と、琵琶湖を一望するおごと温泉の美肌湯に寛ぐ雅な休日。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-    "datePublished": "2026-03-27T00:00:00+09:00",
-    "dateModified": "2026-03-27T00:00:00+09:00",
+    "datePublished": "T00:00:00+09:00",
+    "dateModified": "T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

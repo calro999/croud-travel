@@ -7,11 +7,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/yamagata-solo-business-yamagatagyu-ramen-stay/" },
   title: '【山形出張＆麺王国ひとり旅】山形駅直結・シモンズベッド・絶品山形牛！ラーメン消費量日本一の街を満喫する極上ホテル 厳選3選',
-  description: '山形新幹線つばさ直結・ラーメンの聖地＆果樹王国「山形」！「JR山形駅東西自由通路直結のフラッグシップ」の「ホテルメトロポリタン山形」、駅西口徒歩2分で全室シモンズベッド完備の「リッチモンドホテル山形駅前」、七日町歓楽街近くの「山形グランドホテル」を徹底特集。',
+  description: '山形新幹線つばさ直結・ラーメンの聖地＆果樹王国「山形」！「JR山形駅東西自由通路直結のフラッグシップ。」の「ホテルメトロポリタン山形」、駅西口徒歩2分で全室シモンズベッド完備の「リッチモンドホテル山形駅前」、七日町歓楽街近くの「山形グランドホテル」を徹底特集。',
   keywords: '山形 出張 ホテル おすすめ,山形 一人旅 ホテル,ホテルメトロポリタン山形 宿泊,リッチモンドホテル山形駅前 朝食,山形 ラーメン ホテル',
   openGraph: {
     title: '【山形出張＆麺王国ひとり旅】山形駅直結・シモンズベッド・絶品山形牛！ラーメン消費量日本一の街を満喫する極上ホテル 厳選3選',
-    description: '山形新幹線つばさ直結・ラーメンの聖地＆果樹王国「山形」！「JR山形駅東西自由通路直結のフラッグシップ」の「ホテルメトロポリタン山形」、駅西口徒歩2分で全室シモンズベッド完備の「リッチモンドホテル山形駅前」、七日町歓楽街近くの「山形グランドホテル」を徹底特集。',
+    description: '山形新幹線つばさ直結・ラーメンの聖地＆果樹王国「山形」！「JR山形駅東西自由通路直結のフラッグシップ。」の「ホテルメトロポリタン山形」、駅西口徒歩2分で全室シモンズベッド完備の「リッチモンドホテル山形駅前」、七日町歓楽街近くの「山形グランドホテル」を徹底特集。',
     url: 'https://croud-travel.pages.dev/yamagata-solo-business-yamagatagyu-ramen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -24,7 +24,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【山形出張＆麺王国ひとり旅】山形駅直結・シモンズベッド・絶品山形牛！ラーメン消費量日本一の街を満喫する極上ホテル 厳選3選',
-    description: '山形新幹線つばさ直結・ラーメンの聖地＆果樹王国「山形」！「JR山形駅東西自由通路直結のフラッグシップ」の「ホテルメトロポリタン山形」、駅西口徒歩2分で全室シモンズベッド完備の「リッチモンドホテル山形駅前」、七日町歓楽街近くの「山形グランドホテル」を徹底特集。',
+    description: '山形新幹線つばさ直結・ラーメンの聖地＆果樹王国「山形」！「JR山形駅東西自由通路直結のフラッグシップ。」の「ホテルメトロポリタン山形」、駅西口徒歩2分で全室シモンズベッド完備の「リッチモンドホテル山形駅前」、七日町歓楽街近くの「山形グランドホテル」を徹底特集。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・出張調査班',
@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-12T15:45:00+09:00',
-    dateModified: '2026-09-12T15:45:00+09:00',
+    datePublished: 'T15:45:00+09:00',
+    dateModified: 'T15:45:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/yamagata-solo-business-yamagatagyu-ramen-stay',
   };
 
@@ -48,7 +48,7 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ホテルメトロポリタン山形」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ホテルメトロポリタン山形」へは、JR山形駅東口直結◆タクシー、バス、山形空港ライナー乗場から徒歩0分◆蔵王ICから車で15分。最寄りの山形駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ホテルメトロポリタン山形」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ホテルメトロポリタン山形」は『山形駅直結、エリアトップクラスの広い客室で寛ぎの時間を。駅ビル隣接でお食事＆お買物に便利』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ホテルメトロポリタン山形」では季節ごとに異なる宿泊プランや料理プランが用意されています。ご旅行の人数や滞在スタイルに合わせて最適なプランをお選びいただけます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ホテルメトロポリタン山形」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ホテルメトロポリタン山形」へは、JR山形駅東口直結◆タクシー、バス、山形空港ライナー乗場から徒歩0分◆蔵王ICから車で15分。最寄りの山形駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ホテルメトロポリタン山形」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ホテルメトロポリタン山形」は『山形駅直結、エリアトップクラスの広い客室で寛ぎの時間を。駅ビル隣接でお食事＆お買物に便利。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ホテルメトロポリタン山形」では季節ごとに異なる宿泊プランや料理プランが用意されています。ご旅行の人数や滞在スタイルに合わせて最適なプランをお選びいただけます。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -78,7 +78,7 @@ export default function ArticlePage() {
           【山形出張＆麺王国ひとり旅】山形駅直結・シモンズベッド・絶品山形牛！ラーメン消費量日本一の街を満喫する極上ホテル 厳選3選
         </h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
-          山形新幹線つばさ直結・ラーメンの聖地＆果樹王国「山形」！「JR山形駅東西自由通路直結のフラッグシップ」の「ホテルメトロポリタン山形」、駅西口徒歩2分で全室シモンズベッド完備の「リッチモンドホテル山形駅前」、七日町歓楽街近くの「山形グランドホテル」を徹底特集。
+          山形新幹線つばさ直結・ラーメンの聖地＆果樹王国「山形」！「JR山形駅東西自由通路直結のフラッグシップ。」の「ホテルメトロポリタン山形」、駅西口徒歩2分で全室シモンズベッド完備の「リッチモンドホテル山形駅前」、七日町歓楽街近くの「山形グランドホテル」を徹底特集。
         </p>
       </header>
 
@@ -161,7 +161,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.43点。「駅直結で立地が最強。南館の部屋が新しくお風呂もセパレートで最高でした」「朝食の芋煮とつや姫が美味しく、出張ならここ一択」と大絶賛。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.43点。「駅直結で立地が最強。南館の部屋が新しくお風呂もセパレートで最高でした。」「朝食の芋煮とつや姫が美味しく、出張ならここ一択。」と大絶賛。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -236,7 +236,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.44点。「駅近で部屋も広く、スタッフの接客がとても丁寧でした」「朝食の芋煮が美味しく、デスクワークもしやすくて大満足」と高評価。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.44点。「駅近で部屋も広く、スタッフの接客がとても丁寧でした。」「朝食の芋煮が美味しく、デスクワークもしやすくて大満足。」と高評価。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -311,7 +311,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.05点。「七日町に近くて飲食店が多く便利でした」「スタッフの対応が親切で落ち着いて過ごせました」と定評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.05点。「七日町に近くて飲食店が多く便利でした」「スタッフの対応が親切で落ち着いて過ごせました。」と定評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -482,7 +482,7 @@ export default function ArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「ホテルメトロポリタン山形」は『山形駅直結、エリアトップクラスの広い客室で寛ぎの時間を。駅ビル隣接でお食事＆お買物に便利』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「ホテルメトロポリタン山形」は『山形駅直結、エリアトップクラスの広い客室で寛ぎの時間を。駅ビル隣接でお食事＆お買物に便利。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

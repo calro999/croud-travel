@@ -312,7 +312,7 @@ export default async function CityDetailPage({ params }: { params: Promise<{ pre
           nextQuestions.push({
             question: `【${cityInfo.cityName}】口コミ高評価の泊まるべきおすすめホテル・旅館は？`,
             badge: "宿泊施設・ホテルルポ",
-            answerSnippet: `「${topHotel.hotel_name}」をはじめ、${cityInfo.cityName}の観光や温泉を満喫できる人気宿泊施設の詳細ルポを掲載中。`,
+            answerSnippet: `「${topHotel.hotel_name}。」をはじめ、${cityInfo.cityName}の観光や温泉を満喫できる人気宿泊施設の詳細ルポを掲載中。`,
             linkText: `【${topHotel.hotel_name}】宿泊ルポ記事を見る`,
             href: `/posts/${topHotel.id}`
           });
@@ -338,7 +338,7 @@ export default async function CityDetailPage({ params }: { params: Promise<{ pre
 
         return (
           <NextSearchQuestions
-            title={`🔍 「${cityInfo.cityName}」の観光を調べた人が次に検索している疑問＆先回りガイド`}
+            title={`🔍 「${cityInfo.cityName}。」の観光を調べた人が次に検索している疑問＆先回りガイド`}
             subtitle={`${cityInfo.cityName}への旅行計画をさらに深めるため、具体的な観光名所の解説、おすすめホテル、県内他エリア、旅行テーマ特集を先回り提示します。`}
             items={nextQuestions}
           />

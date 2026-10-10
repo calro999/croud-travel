@@ -71,8 +71,8 @@ export default function AwaraWinterPage() {
         "headline": "【11・12月あわら温泉の冬名湯と越前がに】関西の奥座敷・庭園露天風呂と黄色いタグ付き越前蟹＆若狭牛会席の宿5選",
         "description": "11月6日の越前がに解禁で歓喜に沸く福井の名湯「あわら温泉」。明治の開湯以来、各宿が独自源泉を所有する贅沢な湯巡りと、三國港直送の黄色タグ付き越前がにフルコース、極上若狭牛を堪能。庭園露天風呂が彩る初冬の極上温泉宿5選を徹底解説。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
-        "datePublished": "2026-09-27T00:00:00+09:00",
-        "dateModified": "2026-09-27T00:00:00+09:00",
+        "datePublished": "T00:00:00+09:00",
+        "dateModified": "T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

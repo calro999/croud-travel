@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kanazawa-station-solo-business-sauna-onsen-stay/" },
   title: '【金沢駅前出張・天然温泉サウナ】鼓門・天然温泉白鳥の湯・近江町市場海鮮丼！加賀百万石の伝統とビジネスを両立する厳選3宿',
-  description: '北陸新幹線「かがやき」で東京から約2時間30分！金沢駅金沢港口徒歩1分で露天風呂＆高温サウナを備える「金沢マンテンホテル駅前」、兼六園口徒歩1分で大浴場・サウナ・露天風呂が充実の「アパホテル〈金沢駅前〉」、百万石通り沿いでデザイン大浴場が評判の「トリフィート ホテル＆ポッド 金沢百万石通」を徹底比較。',
+  description: '北陸新幹線「かがやき」で東京から約2時間30分！金沢駅金沢港口徒歩1分で露天風呂＆高温サウナを備える「金沢マンテンホテル駅前」、兼六園口徒歩1分で大浴場・サウナ・露天風呂が充実の「アパホテル〈金沢駅前〉」、百万石通り沿いでデザイン大浴場が評判の「トリフィート ホテル＆ポッド 金沢百万石通。」を徹底比較。',
   keywords: '金沢 出張 ホテル,金沢駅 サウナ ホテル,金沢マンテンホテル駅前,アパホテル金沢駅前,トリフィート金沢百万石通,金沢 温泉 一人旅',
   openGraph: {
     title: '【金沢駅前出張・天然温泉サウナ】鼓門・天然温泉白鳥の湯・近江町市場海鮮丼！加賀百万石の伝統とビジネスを両立する厳選3宿',
-    description: '北陸新幹線「かがやき」で東京から約2時間30分！金沢駅金沢港口徒歩1分で露天風呂＆高温サウナを備える「金沢マンテンホテル駅前」、兼六園口徒歩1分で大浴場・サウナ・露天風呂が充実の「アパホテル〈金沢駅前〉」、百万石通り沿いでデザイン大浴場が評判の「トリフィート ホテル＆ポッド 金沢百万石通」を徹底比較。',
+    description: '北陸新幹線「かがやき」で東京から約2時間30分！金沢駅金沢港口徒歩1分で露天風呂＆高温サウナを備える「金沢マンテンホテル駅前」、兼六園口徒歩1分で大浴場・サウナ・露天風呂が充実の「アパホテル〈金沢駅前〉」、百万石通り沿いでデザイン大浴場が評判の「トリフィート ホテル＆ポッド 金沢百万石通。」を徹底比較。',
     url: 'https://croud-travel.pages.dev/kanazawa-station-solo-business-sauna-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【金沢駅前出張・天然温泉サウナ】鼓門・天然温泉白鳥の湯・近江町市場海鮮丼！加賀百万石の伝統とビジネスを両立する厳選3宿',
-    description: '北陸新幹線「かがやき」で東京から約2時間30分！金沢駅金沢港口徒歩1分で露天風呂＆高温サウナを備える「金沢マンテンホテル駅前」、兼六園口徒歩1分で大浴場・サウナ・露天風呂が充実の「アパホテル〈金沢駅前〉」、百万石通り沿いでデザイン大浴場が評判の「トリフィート ホテル＆ポッド 金沢百万石通」を徹底比較。',
+    description: '北陸新幹線「かがやき」で東京から約2時間30分！金沢駅金沢港口徒歩1分で露天風呂＆高温サウナを備える「金沢マンテンホテル駅前」、兼六園口徒歩1分で大浴場・サウナ・露天風呂が充実の「アパホテル〈金沢駅前〉」、百万石通り沿いでデザイン大浴場が評判の「トリフィート ホテル＆ポッド 金沢百万石通。」を徹底比較。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・出張調査班',
@@ -37,8 +37,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-13T00:00:00+09:00',
-    dateModified: '2026-09-13T00:00:00+09:00',
+    datePublished: 'T00:00:00+09:00',
+    dateModified: 'T00:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/kanazawa-station-solo-business-sauna-onsen-stay',
   };
 
@@ -76,7 +76,7 @@ export default function ArticlePage() {
           【金沢駅前出張・天然温泉サウナ】鼓門・天然温泉白鳥の湯・近江町市場海鮮丼！加賀百万石の伝統とビジネスを両立する厳選3宿
         </h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
-          <time dateTime="2026-09-13">2026.09.13 更新</time>
+          <time dateTime="">2026.09.13 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
         </div>

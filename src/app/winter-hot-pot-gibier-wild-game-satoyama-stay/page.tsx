@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/winter-hot-pot-gibier-wild-game-satoyama-stay"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D29695%26f_flg%3DPLAN",
     "hotelMinCharge": 20850,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29695/29695.jpg",
-    "userReview": "3年連続で通うほどお気に入りの美人の湯お墓参りの帰りに、今年も寄らせてもらいました!気づけば3年連続です。大女将さんも女将さんも本当に愛嬌があって、いつも温かく迎えてくださるから、日頃の疲…　2026-08-15 11:38:14投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=29695\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "3年連続で通うほどお気に入りの美人の湯お墓参りの帰りに、今年も寄らせてもらいました!気づけば3年連続です。大女将さんも女将さんも本当に愛嬌があって、いつも温かく迎えてくださるから、日頃の疲。",
     "reviewAverage": 4.63,
     "reviewCount": 404,
     "address": "神奈川県厚木市飯山4916",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D9362%26f_flg%3DPLAN",
     "hotelMinCharge": 14500,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9362/9362.jpg",
-    "userReview": "温泉街の風情と料理を満喫、立地も最高昔ながらの温泉街という風情が、とってもよかった。お料理も、美味しく量があり、高齢者には少し多いかなと思いましたが、40代の息子が平らげました。名所も近く、向…　2026-09-15 18:27:11投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=9362\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "温泉街の風情と料理を満喫、立地も最高昔ながらの温泉街という風情が、とってもよかった。お料理も、美味しく量があり、高齢者には少し多いかなと思いましたが、40代の息子が平らげました。名所も近く、向。",
     "reviewAverage": 4.58,
     "reviewCount": 220,
     "address": "奈良県吉野郡天川村洞川248",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D15042%26f_flg%3DPLAN",
     "hotelMinCharge": 9900,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15042/15042.jpg",
-    "userReview": "雰囲気抜群の温泉と食事に大満足、また来たい建物の外観、内観ともに雰囲気があり、とても素敵な温泉旅館です。お部屋も大変快適に過ごすことができました。温泉も最高で、食事も大満足です。自信をもっておすす…　2026-09-16 16:59:06投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=15042\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "雰囲気抜群の温泉と食事に大満足、また来たい建物の外観、内観ともに雰囲気があり、とても素敵な温泉旅館です。お部屋も大変快適に過ごすことができました。温泉も最高で、食事も大満足です。自信をもっておすす。",
     "reviewAverage": 4.5,
     "reviewCount": 215,
     "address": "兵庫県姫路市夢前町塩田287",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D7840%26f_flg%3DPLAN",
     "hotelMinCharge": 13800,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7840/7840.jpg",
-    "userReview": "珍しい食事に大満足、夜の街歩きも最高めずらしいお食事をいただけて満足です!夜に街をぶらぶらしましたが雰囲気がよかったですクチコミの詳細はこちらから　https://review.t…　2026-09-15 19:56:14投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=7840\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "珍しい食事に大満足、夜の街歩きも最高めずらしいお食事をいただけて満足です!夜に街をぶらぶらしましたが雰囲気がよかったです。",
     "reviewAverage": 4.23,
     "reviewCount": 307,
     "address": "奈良県吉野郡天川村洞川222-1",

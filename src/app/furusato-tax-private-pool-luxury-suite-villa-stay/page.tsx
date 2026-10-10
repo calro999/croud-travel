@@ -8,12 +8,12 @@ const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.
 
 export const metadata: Metadata = {
   title: '客室専用プライベートプール＆温水ジャグジー付き極上ヴィラ宿×ふるさと納税完全ガイド【2026年最新】沖縄・宮古島・千葉鴨川',
-  description: '誰の目も気にせず青空と水辺を独占！沖縄本島やんばるの海を望む独立型ヴィラ「プライベートプールヴィラもとぶ」、都心から気軽に行けるプライベートプール＆本格サウナ完備「Rakuten STAY VILLA 鴨川」、宮古ブルーの海が目前に広がる南国最高峰リゾート「プライベートプールヴィラ イムギャーリゾート」。恋人とのリゾートバカンスや家族旅行に最高の贅沢を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
+  description: '誰の目も気にせず青空と水辺を独占！沖縄本島やんばるの海を望む独立型ヴィラ「プライベートプールヴィラもとぶ」、都心から気軽に行けるプライベートプール＆本格サウナ完備「Rakuten STAY VILLA 鴨川。」、宮古ブルーの海が目前に広がる南国最高峰リゾート「プライベートプールヴィラ イムギャーリゾート。」。恋人とのリゾートバカンスや家族旅行に最高の贅沢を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
   keywords: ["客室専用プライベートプール", "2026年最新", "沖縄", "宮古島", "千葉鴨川", "温泉宿", "宿泊予約"],
   alternates: { canonical: baseUrl + '/furusato-tax-private-pool-luxury-suite-villa-stay/' },
   openGraph: {
     title: '客室専用プライベートプール＆温水ジャグジー付き極上ヴィラ宿×ふるさと納税完全ガイド【2026年最新】沖縄・宮古島・千葉鴨川',
-    description: '誰の目も気にせず青空と水辺を独占！沖縄本島やんばるの海を望む独立型ヴィラ「プライベートプールヴィラもとぶ」、都心から気軽に行けるプライベートプール＆本格サウナ完備「Rakuten STAY VILLA 鴨川」、宮古ブルーの海が目前に広がる南国最高峰リゾート「プライベートプールヴィラ イムギャーリゾート」。恋人とのリゾートバカンスや家族旅行に最高の贅沢を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
+    description: '誰の目も気にせず青空と水辺を独占！沖縄本島やんばるの海を望む独立型ヴィラ「プライベートプールヴィラもとぶ」、都心から気軽に行けるプライベートプール＆本格サウナ完備「Rakuten STAY VILLA 鴨川。」、宮古ブルーの海が目前に広がる南国最高峰リゾート「プライベートプールヴィラ イムギャーリゾート。」。恋人とのリゾートバカンスや家族旅行に最高の贅沢を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
     url: baseUrl + '/furusato-tax-private-pool-luxury-suite-villa-stay',
     siteName: '旅宿クラウド',
     type: 'article',
@@ -36,7 +36,7 @@ export default function FurusatoPrivatePoolLuxuryStayPage() {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "客室専用プライベートプール＆温水ジャグジー付き極上ヴィラ宿×ふるさと納税完全ガイド【2026年最新】沖縄・宮古島・千葉鴨川",
-    "description": "誰の目も気にせず青空と水辺を独占！沖縄本島やんばるの海を望む独立型ヴィラ「プライベートプールヴィラもとぶ」、都心から気軽に行けるプライベートプール＆本格サウナ完備「Rakuten STAY VILLA 鴨川」、宮古ブルーの海が目前に広がる南国最高峰リゾート「プライベートプールヴィラ イムギャーリゾート」。恋人とのリゾートバカンスや家族旅行に最高の贅沢を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "description": "誰の目も気にせず青空と水辺を独占！沖縄本島やんばるの海を望む独立型ヴィラ「プライベートプールヴィラもとぶ」、都心から気軽に行けるプライベートプール＆本格サウナ完備「Rakuten STAY VILLA 鴨川。」、宮古ブルーの海が目前に広がる南国最高峰リゾート「プライベートプールヴィラ イムギャーリゾート。」。恋人とのリゾートバカンスや家族旅行に最高の贅沢を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
     "url": "https://croud-travel.pages.dev/furusato-tax-private-pool-luxury-suite-villa-stay/",
     "publisher": {
       "@type": "Organization",
@@ -49,7 +49,7 @@ export default function FurusatoPrivatePoolLuxuryStayPage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「プライベートプールヴィラもとぶ」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「プライベートプールヴィラもとぶ」へは、那覇空港から、沖縄自動車道を経由して約１００分。最寄りの那覇空港駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「プライベートプールヴィラもとぶ」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「プライベートプールヴィラもとぶ」は『完全プライベートプール・サウナ付ヴィラ 家具家電キッチン完備♪美ら海水族館へ車で約5分♪』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「プライベートプールヴィラもとぶ」と「Ｒａｋｕｔｅｎ ＳＴＡＹ ＶＩＬＬＡ 鴨川」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「プライベートプールヴィラもとぶ」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「プライベートプールヴィラもとぶ」へは、那覇空港から、沖縄自動車道を経由して約１００分。最寄りの那覇空港駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「プライベートプールヴィラもとぶ」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「プライベートプールヴィラもとぶ」は『完全プライベートプール・サウナ付ヴィラ 家具家電キッチン完備♪美ら海水族館へ車で約5分♪。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「プライベートプールヴィラもとぶ」と「Ｒａｋｕｔｅｎ ＳＴＡＹ ＶＩＬＬＡ 鴨川。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -72,7 +72,7 @@ export default function FurusatoPrivatePoolLuxuryStayPage() {
             客室専用プライベートプール＆温水ジャグジー付き極上ヴィラ宿×ふるさと納税完全ガイド【2026年最新】沖縄・宮古島・千葉鴨川
           </h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
-            海外リゾートの邸宅のように、客室のテラスに専用のプールが備えられた「プライベートプール付きヴィラ」。他の宿泊客との共用プールとは異なり、水着に着替えてテラスの扉を開ければ、そこは自分たちだけの青いオアシス。朝目覚めてすぐにプールサイドでコーヒーを味わい、日中は太陽の光を浴びて水遊びや読書、夜にはライトアップされた水面を眺めながら満天の星空の下でカクテルを傾ける――そんな映画のワンシーンのような極上リゾートステイが日本国内でも体験できます。美ら海水族館にも近くやんばるの大自然に抱かれる沖縄「プライベートプールヴィラもとぶ」、首都圏から車でアクセスできプール＆サウナが両方楽しめる千葉・外房「Rakuten STAY VILLA 鴨川」、そして東洋一美しいと称される宮古ブルーの海が広がる「プライベートプールヴィラ イムギャーリゾート」。こうした超高級プールヴィラは宿泊単価が高額ですが、楽天ふるさと納税のトラベルクーポン（寄付額の最大30％割引）を活用すれば、実質自己負担2,000円で驚くほどお得に予約可能。人生最高の非日常感を味わう、ラグジュアリープールステイへ出かけましょう。
+            海外リゾートの邸宅のように、客室のテラスに専用のプールが備えられた「プライベートプール付きヴィラ」。他の宿泊客との共用プールとは異なり、水着に着替えてテラスの扉を開ければ、そこは自分たちだけの青いオアシス。朝目覚めてすぐにプールサイドでコーヒーを味わい、日中は太陽の光を浴びて水遊びや読書、夜にはライトアップされた水面を眺めながら満天の星空の下でカクテルを傾ける――そんな映画のワンシーンのような極上リゾートステイが日本国内でも体験できます。美ら海水族館にも近くやんばるの大自然に抱かれる沖縄「プライベートプールヴィラもとぶ」、首都圏から車でアクセスできプール＆サウナが両方楽しめる千葉・外房「Rakuten STAY VILLA 鴨川。」、そして東洋一美しいと称される宮古ブルーの海が広がる「プライベートプールヴィラ イムギャーリゾート。」。こうした超高級プールヴィラは宿泊単価が高額ですが、楽天ふるさと納税のトラベルクーポン（寄付額の最大30％割引）を活用すれば、実質自己負担2,000円で驚くほどお得に予約可能。人生最高の非日常感を味わう、ラグジュアリープールステイへ出かけましょう。
           </p>
           <div className="flex flex-wrap gap-4 pt-4 border-t border-amber-900/50 text-xs text-amber-200/90 font-medium">
             <span>✓ 寄付額の最大30％相当が宿泊クーポンに</span>
@@ -256,7 +256,7 @@ export default function FurusatoPrivatePoolLuxuryStayPage() {
                     東京湾アクアラインを利用して都心から約90分、千葉県外房の美しい海岸近くに誕生した話題のラグジュアリーヴィラ。全棟に専用の大型プライベートプールと本格フィンランド式サウナ、水風呂、外気浴テラスを完備した贅沢極まりない設計です。人工温泉の内風呂や広々としたリビング、最新家電が揃い、最大定員も多いため家族やグループでの旅行に大人気。テラスでの千葉県産銘柄肉BBQとともに最高峰のバカンスをお楽しみいただけます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「広さと清潔さは満足、屋上の視線が少し気になる広さ、清潔さともに満足でした。屋上は隣の宿泊者から見えるため少し気になりました。クチコミの詳細はこちらから 2026-09-04 16:22:44投稿 つづきはこちら…」
+                    「広さと清潔さは満足、屋上の視線が少し気になる広さ、清潔さともに満足でした。屋上は隣の宿泊者から見えるため少し気になりました。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -451,7 +451,7 @@ export default function FurusatoPrivatePoolLuxuryStayPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「プライベートプールヴィラもとぶ」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「プライベートプールヴィラもとぶ」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「Ｒａｋｕｔｅｎ ＳＴＡＹ ＶＩＬＬＡ 鴨川」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「Ｒａｋｕｔｅｎ ＳＴＡＹ ＶＩＬＬＡ 鴨川。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -481,7 +481,7 @@ export default function FurusatoPrivatePoolLuxuryStayPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「プライベートプールヴィラもとぶ」は『完全プライベートプール・サウナ付ヴィラ 家具家電キッチン完備♪美ら海水族館へ車で約5分♪』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「プライベートプールヴィラもとぶ」は『完全プライベートプール・サウナ付ヴィラ 家具家電キッチン完備♪美ら海水族館へ車で約5分♪。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -490,7 +490,7 @@ export default function FurusatoPrivatePoolLuxuryStayPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「プライベートプールヴィラもとぶ」と「Ｒａｋｕｔｅｎ ＳＴＡＹ ＶＩＬＬＡ 鴨川」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「プライベートプールヴィラもとぶ」と「Ｒａｋｕｔｅｎ ＳＴＡＹ ＶＩＬＬＡ 鴨川。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

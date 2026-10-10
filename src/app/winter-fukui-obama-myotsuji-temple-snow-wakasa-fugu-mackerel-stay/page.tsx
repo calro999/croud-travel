@@ -46,8 +46,8 @@ export default function Page() {
       "headline": "【御食国の冬味覚・明通寺国宝本堂の静寂と若狭ふぐ】2026-2027年冬の福井・若狭小浜！名物若狭とらふぐフルコースと雪見温泉名宿5選",
       "description": "国宝・明通寺本堂と三重塔が雪化粧をまとう冬の若狭小浜！朝廷に食を献上した御食国の至宝「若狭ふぐ（とらふぐコース）」や名物焼き鯖、若狭牛に舌鼓。若狭湾の絶景と柔らかな湯に心ほどける冬の福井・小浜厳選名宿5選。",
       "image": "https://img.travel.rakuten.co.jp/share/HOTEL/687/687.jpg",
-      "datePublished": "2026-10-09",
-      "dateModified": "2026-10-09",
+      "datePublished": "",
+      "dateModified": "",
       "author": {
         "@type": "Organization",
         "name": "Japan Travel Curations"
@@ -326,7 +326,7 @@ export default function Page() {
                   【国宝・明通寺（坂上田村麻呂開創・深山に佇む本堂と三重塔の冬雪景）の見どころと歴史】
                 </h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  明通寺（みょうつうじ）は、福井県小浜市門前字棡谷（ゆずりだに）（遠敷郡門前村棡谷、松永村門前）にある真言宗御室派の寺院。山号は棡山（ゆずりさん）。本尊は薬師如来。 大同元年（806年）、坂上田村麻呂によって創建されたと伝えられる。本堂と三重塔は、建造物としては福井県内で唯一国宝に指定されている。2015年（平成27年）4月24日、「海と都をつなぐ若狭の往来文化遺産群 - 御食国（みけつくに）若狭と鯖街道 - 」の構成文化財として日本遺産に認定される。
+                  明通寺（みょうつうじ）は、福井県小浜市門前字棡谷（ゆずりだに）（遠敷郡門前村棡谷、松永村門前）にある真言宗御室派の寺院。山号は棡山（ゆずりさん）。本尊は薬師如来。 大同元年（806年）、坂上田村麻呂によって創建されたと伝えられる。本堂と三重塔は、建造物としては福井県内で唯一国宝に指定されている。2015年（平成27年）4月24日、「海と都をつなぐ若狭の往来文化遺産群 - 御食国（みけつくに）若狭と鯖街道 -。」の構成文化財として日本遺産に認定される。
                 </p>
                 <div className="text-[11px] text-stone-400">
                   出典：フリー百科事典『ウィキペディア（Wikipedia）』より
@@ -396,7 +396,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「食事は美味しく、部屋からの夕日が絶景夕食朝食共に美味しかったです。部屋は普通ですね、部屋から観る夕日はとても綺麗でした。お風呂は窓も無く露天風呂も特に景色も見えないし期待外れでした。クチコ… 2026-10-03 22:35:26投稿 つづきはこちら」"}</span>
+                  <span>{"「食事は美味しく、部屋からの夕日が絶景夕食朝食共に美味しかったです。部屋は普通ですね、部屋から観る夕日はとても綺麗でした。お風呂は窓も無く露天風呂も特に景色も見えないし期待外れでした。クチコ。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -463,7 +463,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「細やかな配慮と静かな環境でゆったり過ごせた母親の敬老祝いで宿泊しました。事前に苦手な食材のこと、母親が足が悪いためエレベーター近くの部屋にして欲しい旨連絡し、ちゃんと対応頂きました。湖畔にあり… 2026-09-30 14:48:12投稿 つづきはこちら」"}</span>
+                  <span>{"「細やかな配慮と静かな環境でゆったり過ごせた母親の敬老祝いで宿泊しました。事前に苦手な食材のこと、母親が足が悪いためエレベーター近くの部屋にして欲しい旨連絡し、ちゃんと対応頂きました。湖畔にあり。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -594,7 +594,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「絶品料理の数々に大満足お料理が最高でした。小鯛の姿造りが少し多すぎたけど、どのお料理も味は絶品でした。クチコミの詳細はこちらから https://review.travel.rakuten.c… 2026-10-01 17:24:12投稿 つづきはこちら」"}</span>
+                  <span>{"「絶品料理の数々に大満足お料理が最高でした。小鯛の姿造りが少し多すぎたけど、どのお料理も味は絶品でした。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">

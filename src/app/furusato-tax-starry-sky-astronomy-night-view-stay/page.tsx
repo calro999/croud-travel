@@ -49,7 +49,7 @@ export default function FurusatoStarrySkyAstronomyStayPage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「昼神温泉 信州公共の宿 鶴巻荘」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「昼神温泉 信州公共の宿 鶴巻荘」へは、天竜峡駅よりお車にて約３０分（車でお迎えあり）。最寄りの天竜峡駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「昼神温泉 信州公共の宿 鶴巻荘」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「昼神温泉 信州公共の宿 鶴巻荘」は『やわらかな畳敷きの浴場で和の粋と深いやさしさに包まれる、ツルツルの温泉と豊かな自然に囲まれ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「昼神温泉 信州公共の宿 鶴巻荘」と「八ヶ岳グレイスホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「昼神温泉 信州公共の宿 鶴巻荘」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「昼神温泉 信州公共の宿 鶴巻荘」へは、天竜峡駅よりお車にて約３０分（車でお迎えあり）。最寄りの天竜峡駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「昼神温泉 信州公共の宿 鶴巻荘」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「昼神温泉 信州公共の宿 鶴巻荘」は『やわらかな畳敷きの浴場で和の粋と深いやさしさに包まれる、ツルツルの温泉と豊かな自然に囲まれ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「昼神温泉 信州公共の宿 鶴巻荘」と「八ヶ岳グレイスホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -195,7 +195,7 @@ export default function FurusatoStarrySkyAstronomyStayPage() {
                     環境省認定の「日本一星空が美しい村」長野県阿智村に佇み、名湯・昼神温泉の良質な美肌の湯を湛える温もりある温泉宿。阿智村名物の「天空の楽園 日本一の星空ナイトツアー」へのアクセス拠点として最適で、ゴンドラで標高1,400mの山頂へ登れば、街の光が完全に消えた漆黒の夜空に圧倒的な星の大パノラマが広がります。pH9.7を誇るアルカリ性単純硫黄泉の大浴場で身体をしっとりと潤し、信州牛や地元の山の幸を使った手作り会席に舌鼓を打つ、心癒やされる星空温泉旅が楽しめます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「また行きたくなるお宿です。すごく接客態度が良く、ホスピタリティの高いお宿です。「夜の星空観測」は是非とも行くべき。いい企画だと思いました。クチコミの詳細はこちらから 2026-08-28 19:32:15投稿 つづきはこちら…」
+                    「また行きたくなるお宿です。すごく接客態度が良く、ホスピタリティの高いお宿です。「夜の星空観測」は是非とも行くべき。いい企画だと思いました。
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -256,7 +256,7 @@ export default function FurusatoStarrySkyAstronomyStayPage() {
                     日本屈指の天体観測地として知られる標高1,300mの八ヶ岳野辺山高原に位置し、全客室から雄大な八ヶ岳連峰のパノラマを望むリゾートホテル。毎夜開催される無料の「星空観察会」では、星空案内人による解説とともに大型天体望遠鏡で惑星や星雲を観察可能。晴天率が非常に高く、肉眼でも満天の星屑と天の川がくっきりと見渡せます。八ヶ岳山麓の新鮮な高原野菜や信州サーモン、上質な甲州ワインを取り入れたディナーも大好評で、星と大自然を愛する旅人に愛され続けています。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「雨でも星ソムリエの解説で大満足!満点の星空を見たくて予約しましたが、あいにく一晩中、雨でした。しかし、このホテルの売りの星ソムリエの方が、室内の簡易プラネタリウムで、ここから見える夜空を開設してい… 2026-08-31 17:21:50投…」
+                    「雨でも星ソムリエの解説で大満足!満点の星空を見たくて予約しましたが、あいにく一晩中、雨でした。しかし、このホテルの売りの星ソムリエの方が、室内の簡易プラネタリウムで、ここから見える夜空を開設してい… 投。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -317,7 +317,7 @@ export default function FurusatoStarrySkyAstronomyStayPage() {
                     国際ダークスカイ協会により日本で初めて認定された「星空保護区」西表石垣国立公園内に位置し、東シナ海を望む絶好のオーシャンフロントリゾート。ホテルの星空テラスや海へと繋がるインフィニティプールからは、南国の心地よい潮風を感じながら、全天88星座中84星座と憧れの「南十字星」を観測できます。客室はバルコニー付きで穏やかな波音が心地よい寛ぎの空間。石垣牛のステーキや島野菜、近海魚のフレンチ・郷土ディナーとともに、南国の星空バカンスを満喫できます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「海と空を望む絶景とプールで癒やされる台風の影響で急遽西表島から石垣島に退避することになり、2泊3日で予約させていただきました。中庭のプールと海との一体感がとても気持ちよかったです。また、新… 2026-08-30 21:59:58投稿 つづ…」
+                    「海と空を望む絶景とプールで癒やされる台風の影響で急遽西表島から石垣島に退避することになり、2泊3日で予約させていただきました。中庭のプールと海との一体感がとても気持ちよかったです。また、新… つづ。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -481,7 +481,7 @@ export default function FurusatoStarrySkyAstronomyStayPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「昼神温泉 信州公共の宿 鶴巻荘」は『やわらかな畳敷きの浴場で和の粋と深いやさしさに包まれる、ツルツルの温泉と豊かな自然に囲まれ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「昼神温泉 信州公共の宿 鶴巻荘」は『やわらかな畳敷きの浴場で和の粋と深いやさしさに包まれる、ツルツルの温泉と豊かな自然に囲まれ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

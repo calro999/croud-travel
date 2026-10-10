@@ -62,7 +62,7 @@ export default function FurusatoTateyamaAlpenRouteStayPage() {
           標高2000m超の雲上リゾート！立山黒部アルペンルートの夕日・満天の星と高山植物トレッキング名宿×ふるさと納税完全攻略ガイド【2026年最新】弥陀ヶ原・立山高原・森の風
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-10">2026年9月10日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -164,7 +164,7 @@ export default function FurusatoTateyamaAlpenRouteStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “とても楽しい滞在でした立山黒部を訪れる時にどこかで1泊したいと思い、こちらのホテルを選びました。弥陀ヶ原湿原のガイドツアーやスライドショーなど、滞在中のイベントが盛りだくさんでとても楽しめまし…　2026-09-03 17:28:53投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “とても楽しい滞在でした立山黒部を訪れる時にどこかで1泊したいと思い、こちらのホテルを選びました。弥陀ヶ原湿原のガイドツアーやスライドショーなど、滞在中のイベントが盛りだくさんでとても楽しめまし… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -248,7 +248,7 @@ export default function FurusatoTateyamaAlpenRouteStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “創作料理とスタッフの心遣いに癒される時間夕食の創作料理は、料理長の思いが込められており、とても美味しくいただけました。さらにスタッフの皆様の親切丁寧なもてなしにも癒されました。眺望がない部屋でした…　2026-08-26 08:01:10投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “創作料理とスタッフの心遣いに癒される時間夕食の創作料理は、料理長の思いが込められており、とても美味しくいただけました。さらにスタッフの皆様の親切丁寧なもてなしにも癒されました。眺望がない部屋でした… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -323,7 +323,7 @@ export default function FurusatoTateyamaAlpenRouteStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

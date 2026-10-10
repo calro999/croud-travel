@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/firefly-squid-toyama-spring-gourmet-onsen-stay"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D39202%26f_flg%3DPLAN",
     "hotelMinCharge": 5650,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/39202/39202.jpg",
-    "userReview": "5/11(月)に宿泊しました。ビジネスで利用し、私含めて3名3室利用の滞在でした。部屋は清掃が行き届いていて少し狭いながらも快適でした。夜鳴きそば/ラーメン や、大浴室前のアイス食べ放題は温泉上がりに…　2026-09-05 16:28:07投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=39202\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "5/11(月)に宿泊しました。ビジネスで利用し、私含めて3名3室利用の滞在でした。部屋は清掃が行き届いていて少し狭いながらも快適でした。夜鳴きそば/ラーメン や、大浴室前のアイス食べ放題は温泉上がりに。",
     "reviewAverage": 4.37,
     "reviewCount": 7886,
     "address": "富山県富山市大手町4-8",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D1032%26f_flg%3DPLAN",
     "hotelMinCharge": 4680,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1032/1032.jpg",
-    "userReview": "駅から徒歩圏内、朝食と大浴場に満足駅から少し歩くが徒歩圏内。朝食が美味しく、生卵がまだおいてるよいホテル。大浴場もよい。フロントの方々も、他の全国チェーンホテルより質が高い。富山の定宿クチコミ…　2026-09-19 15:48:46投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=1032\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "駅から徒歩圏内、朝食と大浴場に満足駅から少し歩くが徒歩圏内。朝食が美味しく、生卵がまだおいてるよいホテル。大浴場もよい。フロントの方々も、他の全国チェーンホテルより質が高い。富山の定宿クチコミ。",
     "reviewAverage": 4.15,
     "reviewCount": 4232,
     "address": "富山県富山市本町2-17",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D10934%26f_flg%3DPLAN",
     "hotelMinCharge": 5400,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10934/10934.jpg",
-    "userReview": "富山の産物を使った朝食が本当に美味しい年間に何度も富山へ参りますが、このホテルに宿泊しています。朝の食事、本当に美味しいです。富山の産物、良いですねえ。クチコミの詳細はこちらから　http…　2026-09-19 18:20:11投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=10934\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "富山の産物を使った朝食が本当に美味しい年間に何度も富山へ参りますが、このホテルに宿泊しています。朝の食事、本当に美味しいです。富山の産物、良いですねえ。",
     "reviewAverage": 4.19,
     "reviewCount": 3938,
     "address": "富山県富山市桜町1-1-1",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D10634%26f_flg%3DPLAN",
     "hotelMinCharge": 24200,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10634/10634.jpg",
-    "userReview": "掃除が行き届き、食事も美味しくお風呂も快適古い建物ですが掃除が行き届いておりました。夕食はとても美味しく食べ切れない程です。混雑しておらずお風呂もゆっくり入れました。クチコミの詳細はこちら…　2026-09-14 00:05:14投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=10634\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "掃除が行き届き、食事も美味しくお風呂も快適古い建物ですが掃除が行き届いておりました。夕食はとても美味しく食べ切れない程です。混雑しておらずお風呂もゆっくり入れました。",
     "reviewAverage": 4.45,
     "reviewCount": 1176,
     "address": "富山県黒部市宇奈月温泉22-1",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D70252%26f_flg%3DPLAN",
     "hotelMinCharge": 33000,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70252/70252.jpg",
-    "userReview": "Wi-Fi完備で快適、食事も温泉も大満足2回目でした。1回目は携帯が全く繋がりませんでしたが、今回はWi-Fiで繋がって良かったです。露天風呂の温度がちょうど良い感じで、ずっと入っていたかったです…　2026-09-17 11:44:23投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=70252\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "Wi-Fi完備で快適、食事も温泉も大満足2回目でした。1回目は携帯が全く繋がりませんでしたが、今回はWi-Fiで繋がって良かったです。露天風呂の温度がちょうど良い感じで、ずっと入っていたかったです。",
     "reviewAverage": 4.41,
     "reviewCount": 269,
     "address": "富山県南砺市利賀村大牧44",

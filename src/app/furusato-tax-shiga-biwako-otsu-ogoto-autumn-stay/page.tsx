@@ -39,8 +39,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
-    "datePublished": "2026-09-23",
-    "dateModified": "2026-09-23",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-shiga-biwako-otsu-ogoto-autumn-stay"
   };
 
@@ -448,7 +448,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「おごと温泉 暖灯館 きくのや」は『地元食材を使った会席料理■テラスラウンジでフリードリンク■8/31-12/5貸切風呂リニュ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「おごと温泉 暖灯館 きくのや」は『地元食材を使った会席料理■テラスラウンジでフリードリンク■8/31-12/5貸切風呂リニュ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

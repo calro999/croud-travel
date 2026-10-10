@@ -34,11 +34,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/137023/137023map.gif",
     "reviewCount": 2416,
     "reviewAverage": 4.42,
-    "userReview": "海を一望できる絶景とバイキングに大満足海が一望。大浴場にはサウナ付き、水風呂もぬるめの設置だけどそれがまたのんびりできる。最上階の露天風呂は少し手狭な感じだが充分。卓球やゲームも出来て家族で楽しめ…　2026-09-19 17:15:16投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=137023\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "海を一望できる絶景とバイキングに大満足海が一望。大浴場にはサウナ付き、水風呂もぬるめの設置だけどそれがまたのんびりできる。最上階の露天風呂は少し手狭な感じだが充分。卓球やゲームも出来て家族で楽しめ。",
     "hotelMinCharge": 4641,
     "address1": "北海道",
     "address2": "函館市湯川町3-1-17",
-    "telephoneNo": "0138-57-9161",
+    "telephoneNo": "61",
     "access": "『函館空港』からお車にて約6分/『函館駅』よりお車にて約12分/バス停『熱帯植物園前』から徒歩約3分",
     "parkingInformation": "有り　無料　約90台　湯の川最大級青空平面",
     "nearestStation": "函館",
@@ -59,11 +59,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1477/1477map.gif",
     "reviewCount": 1843,
     "reviewAverage": 3.78,
-    "userReview": "夜のお寿司と朝食のシーフードカレーが絶品夜のお寿司3貫、朝食のシーフードカレーもサービスとコスパ最強を謳うだけあると思います。クチコミの詳細はこちらから　https://review.trav…　2026-09-17 16:40:13投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=1477\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "夜のお寿司と朝食のシーフードカレーが絶品夜のお寿司3貫、朝食のシーフードカレーもサービスとコスパ最強を謳うだけあると思います。",
     "hotelMinCharge": 3500,
     "address1": "北海道",
     "address2": "函館市若松町19-11",
-    "telephoneNo": "0138-22-0121",
+    "telephoneNo": "21",
     "access": "ＪＲ函館駅から徒歩で5分。函館空港よりシャトルバスで20分。",
     "parkingInformation": "1台１泊800円　 数に限りあり　 GWなど特別期間は別料金。",
     "nearestStation": "函館",
@@ -84,11 +84,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1341/1341map.gif",
     "reviewCount": 4049,
     "reviewAverage": 4.32,
-    "userReview": "バス付きは昭和のユニットバスバス付き=昭和のユニットバスおまけにトイレの水漏れ最悪予約時ユニットバスと明記すべきです フロントはチェックインで常に行列で市電一日券購入では面倒くさそうな扱い…　2026-09-19 22:01:35投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=1341\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "落ち着いた心地よい空間の中、温かい温泉とおいしいお料理で日頃の疲れを癒やすことができました。",
     "hotelMinCharge": 8316,
     "address1": "北海道",
     "address2": "函館市大手町5-10",
-    "telephoneNo": "0138-23-5151",
+    "telephoneNo": "51",
     "access": "ＪＲ函館駅から徒歩約8分／函館空港から車で約20分 バスで約30分（函館国際ホテル前下車 バス停目の前）",
     "parkingInformation": "1泊1000円 (宿泊日当日の11時～出発日の14時まで出し入れ自由／先着順）",
     "nearestStation": "函館",
@@ -109,15 +109,15 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/168681/168681map.gif",
     "reviewCount": 3966,
     "reviewAverage": 4.66,
-    "userReview": "朝食の質と寝湯の設計に改善の余地あり朝食バイキングのマグロの質が前回より落ちたような。。。また露天風呂の寝湯ですが、枕部分に頭を乗せるとお湯に浸りあっという間にのぼせてしまう仕様で、設計者はその事…　2026-09-18 17:15:03投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=168681\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "朝食の質と寝湯の設計に改善の余地あり朝食バイキングのマグロの質が前回より落ちたような。また露天風呂の寝湯ですが、枕部分に頭を乗せるとお湯に浸りあっという間にのぼせてしまう仕様で、設計者はその事。",
     "hotelMinCharge": 15400,
     "address1": "北海道",
     "address2": "函館市大手町22-13",
-    "telephoneNo": "0138-23-2121",
+    "telephoneNo": "21",
     "access": "ＪＲ　函館駅より徒歩にて約５分　　函館空港より車にて約２０分",
     "parkingInformation": "有り(1,000円/日）",
     "nearestStation": "函館",
-    "hotelSpecial": "2026年5月1日で開業7周年！　宿泊者専用の無料フィットネスジムを新設♪",
+    "hotelSpecial": "で開業7周年！　宿泊者専用の無料フィットネスジムを新設♪",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F168681%2F168681.html"
   },
   {
@@ -134,11 +134,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67479/67479map.gif",
     "reviewCount": 323,
     "reviewAverage": 4.28,
-    "userReview": "落ち着いた温泉旅館で友人の誕生日をお祝いとても、落ち着いた温泉旅館でした。友達の誕生日に利用しました。別料金で頼んだ、ケーキもすごく美味しかったです。クチコミの詳細はこちらから　h…　2026-09-18 13:50:25投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=67479\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "落ち着いた温泉旅館で友人の誕生日をお祝いとても、落ち着いた温泉旅館でした。友達の誕生日に利用しました。別料金で頼んだ、ケーキもすごく美味しかったです。",
     "hotelMinCharge": 3500,
     "address1": "北海道",
     "address2": "函館市湯川町2-6-22",
-    "telephoneNo": "0138-57-5171",
+    "telephoneNo": "71",
     "access": "ＪＲ　函館駅から車で１５分／函館空港から車で５分",
     "parkingInformation": "有り　２０台　無料　予約不要",
     "nearestStation": "函館",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「イマジンホテル＆リゾート函館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「イマジンホテル＆リゾート函館」へは、『函館空港』からお車にて約6分/『函館駅』よりお車にて約12分/バス停『熱帯植物園前』から徒歩約3分。最寄りの函館駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「イマジンホテル＆リゾート函館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「イマジンホテル＆リゾート函館」は『楽天トラベルゴールドアワード2025受賞！ 海と星空が広がる 絶景露天風呂』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「イマジンホテル＆リゾート函館」と「Ｔａｂｉｓｔ 竹葉新葉亭 函館 湯の川温泉」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「イマジンホテル＆リゾート函館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「イマジンホテル＆リゾート函館」へは、『函館空港』からお車にて約6分/『函館駅』よりお車にて約12分/バス停『熱帯植物園前』から徒歩約3分。最寄りの函館駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「イマジンホテル＆リゾート函館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「イマジンホテル＆リゾート函館」は『楽天トラベルゴールドアワード2025受賞！海と星空が広がる 絶景露天風呂。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「イマジンホテル＆リゾート函館」と「Ｔａｂｉｓｔ 竹葉新葉亭 函館 湯の川温泉。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -455,7 +455,7 @@ export default function FeatureDetailPage() {
                       <span className="text-xs font-bold text-emerald-600 bg-emerald-50 px-2 py-0.5 rounded border border-emerald-100">楽天高評価</span>
                     </div>
                     <ul className="space-y-1 mb-4 text-xs text-slate-600 bg-slate-50 p-3 rounded-lg">
-                      <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>2026年5月1日で開業7周年！　宿泊者専用の無料フィットネスジムを新設♪…</span></li>
+                      <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>で開業7周年！　宿泊者専用の無料フィットネスジムを新設♪…</span></li>
                       <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>アクセス: ＪＲ　函館駅より徒歩にて約５分　　函館空港より車にて約２０分</span></li>
                       <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>楽天トラベル総合評価: ★4.66（レビュー 3966件）</span></li>
                     </ul>
@@ -598,7 +598,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「イマジンホテル＆リゾート函館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「イマジンホテル＆リゾート函館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「Ｔａｂｉｓｔ 竹葉新葉亭 函館 湯の川温泉」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「Ｔａｂｉｓｔ 竹葉新葉亭 函館 湯の川温泉。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -628,7 +628,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「イマジンホテル＆リゾート函館」は『楽天トラベルゴールドアワード2025受賞！ 海と星空が広がる 絶景露天風呂』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「イマジンホテル＆リゾート函館」は『楽天トラベルゴールドアワード2025受賞！海と星空が広がる 絶景露天風呂。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -637,7 +637,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「イマジンホテル＆リゾート函館」と「Ｔａｂｉｓｔ 竹葉新葉亭 函館 湯の川温泉」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「イマジンホテル＆リゾート函館」と「Ｔａｂｉｓｔ 竹葉新葉亭 函館 湯の川温泉。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

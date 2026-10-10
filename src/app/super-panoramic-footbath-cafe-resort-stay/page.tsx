@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/super-panoramic-footbath-cafe-resort-stay"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D146144%26f_flg%3DPLAN",
     "hotelMinCharge": 5698,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/146144/146144.jpg",
-    "userReview": "隅々まで清潔に保たれていました清潔に保たれてました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/146144?r…　2026-09-18 11:11:56投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=146144\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "隅々まで清潔に保たれていました清潔に保たれてました。",
     "reviewAverage": 3.81,
     "reviewCount": 755,
     "address": "長野県下高井郡山ノ内町平穏2941",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D172310%26f_flg%3DPLAN",
     "hotelMinCharge": 17800,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/172310/172310.jpg",
-    "userReview": "駅から近くて田舎者には分かり易くて大変良かったです。ウェルカムドリンクも最高でした。涼しくなってからも利用したいと思います。クチコミの詳細はこちらから　https://review.tra…　2026-09-16 17:10:32投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=172310\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "駅から近くて田舎者には分かり易くて大変良かったです。ウェルカムドリンクも最高でした。涼しくなってからも利用したいと思います。",
     "reviewAverage": 4.61,
     "reviewCount": 1159,
     "address": "福岡県福岡市博多区博多駅東2-1-1",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D70310%26f_flg%3DPLAN",
     "hotelMinCharge": 15600,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70310/70310.jpg",
-    "userReview": "Excellent View テラスや食堂からの眺めが素晴らしい。温泉も泉質が良く、気持ち良かったです。クチコミの詳細はこちらから　https://review.travel.rakute…　2026-09-19 18:09:56投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=70310\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "Excellent View テラスや食堂からの眺めが素晴らしい。温泉も泉質が良く、気持ち良かったです。",
     "reviewAverage": 4.44,
     "reviewCount": 534,
     "address": "岩手県岩手郡雫石町網張温泉",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D179785%26f_flg%3DPLAN",
     "hotelMinCharge": 42500,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/179785/179785.jpg",
-    "userReview": "スタッフの対応と朝食は最高、夕食は改善の余地あり台風が近づいていてお天気が心配でしたが、晴れ間があり景色を楽しむことができました。スタッフの方々は皆さま大変丁寧で感じがよかったです。ウェルカム…　2026-08-13 16:47:28投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=179785\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "スタッフの対応と朝食は最高、夕食は改善の余地あり台風が近づいていてお天気が心配でしたが、晴れ間があり景色を楽しむことができました。スタッフの方々は皆さま大変丁寧で感じがよかったです。ウェルカム。",
     "reviewAverage": 4.61,
     "reviewCount": 77,
     "address": "静岡県賀茂郡東伊豆町奈良本1457-30　リゾートパーク伊豆あたがわ別荘地内",
@@ -365,7 +365,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「湯田中渋温泉郷 ホテル水明館」は『東に志賀高原の山並み、西に北アルプスを一望.源泉掛け流しの大浴場・露天風呂。湯の香漂うおも』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「湯田中渋温泉郷 ホテル水明館」は『東に志賀高原の山並み、西に北アルプスを一望.源泉掛け流しの大浴場・露天風呂。湯の香漂うおも。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -72,7 +72,7 @@ export default function FamilyKanazawaModelCoursePage() {
         {
           time: "15:45",
           tag: "名勝散策",
-          title: "兼六園：桂坂口から入る「車椅子・ベビーカー優先バリアフリールート」",
+          title: "兼六園：桂坂口から入る「車椅子・ベビーカー優先バリアフリールート。」",
           desc: "日本三名園の兼六園は砂利道や石段が多い印象ですが、実は公式推奨の「車椅子・ベビーカーらくらく散策マップ」が用意されています。桂坂口料金所からことじ灯籠、霞ヶ池をぐるりと周回する舗装路メインのルートなら、ガタガタ揺れずに快適。池の鯉に子どもも興味津々です。",
           badge: "公式スロープルート利用"
         },
@@ -188,7 +188,7 @@ export default function FamilyKanazawaModelCoursePage() {
           </h1>
 
           <p className="text-sm md:text-base text-emerald-100/90 leading-relaxed font-normal pt-1">
-            歴史と伝統が息づく街・金沢。「石段や段差が多くてベビーカーは大変そう…」「子どもが騒いでも安心な和室ホテルはある？」と悩むパパママへ。21世紀美術館の授乳室情報から、兼六園のバリアフリールート、近江町市場の混雑回避ランチ、添い寝無料の金沢駅前おすすめ宿まで、リアルな子連れノウハウを凝縮しました！
+            歴史と伝統が息づく街・金沢。「石段や段差が多くてベビーカーは大変そう。」「子どもが騒いでも安心な和室ホテルはある？」と悩むパパママへ。21世紀美術館の授乳室情報から、兼六園のバリアフリールート、近江町市場の混雑回避ランチ、添い寝無料の金沢駅前おすすめ宿まで、リアルな子連れノウハウを凝縮しました！
           </p>
 
           <div className="pt-2 flex flex-wrap items-center gap-4 text-xs md:text-sm text-emerald-200">
@@ -439,7 +439,7 @@ export default function FamilyKanazawaModelCoursePage() {
           <li className="bg-white/5 border border-white/10 rounded-2xl p-4 space-y-1">
             <span className="font-bold text-amber-300 block text-sm">1. ベッドの壁付け・ガード</span>
             <p className="text-emerald-200 leading-relaxed text-xs">
-              洋室利用時は「ベッドを壁側に寄せて隙間をなくしてほしい」または「ベッドガードの貸出希望」を予約時に記載しておくと、落下の心配なく安眠できます。
+              洋室利用時は「ベッドを壁側に寄せて隙間をなくしてほしい。」または「ベッドガードの貸出希望」を予約時に記載しておくと、落下の心配なく安眠できます。
             </p>
           </li>
           <li className="bg-white/5 border border-white/10 rounded-2xl p-4 space-y-1">

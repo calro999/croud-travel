@@ -39,8 +39,8 @@ export default function FurusatoArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-10T17:10:00+09:00',
-    dateModified: '2026-09-10T17:10:00+09:00',
+    datePublished: 'T17:10:00+09:00',
+    dateModified: 'T17:10:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-beppu-onsen-suginoi-jigoku-stay',
   };
 
@@ -193,7 +193,7 @@ export default function FurusatoArticlePage() {
                     <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
                       <span className="text-amber-600">✓</span> シェフが目の前で腕を振るう豪華プレミアムビュッフェ
                     </h5>
-                    <p className="text-stone-600 leading-relaxed">和洋中の出来立て料理や刺身、ステーキ、デザートが並ぶ圧巻のビュッフェレストラン「TERRACE & DINING SORA」。全世代が大満足できる美食空間です。</p>
+                    <p className="text-stone-600 leading-relaxed">和洋中の出来立て料理や刺身、ステーキ、デザートが並ぶ圧巻のビュッフェレストラン「TERRACE & DINING SORA。」。全世代が大満足できる美食空間です。</p>
                   </div>
                 </div>
               </div>
@@ -203,7 +203,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.60点、口コミ11000件超という異次元の圧倒的実績。「棚湯からの別府湾の眺めが最高」「噴水ショーもビュッフェもすべてが桁違いに楽しかった」と絶大な人気。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.60点、口コミ11000件超という異次元の圧倒的実績。「棚湯からの別府湾の眺めが最高」「噴水ショーもビュッフェもすべてが桁違いに楽しかった。」と絶大な人気。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -287,7 +287,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.66点、口コミ2600件超。「全室露天風呂付きで海が目の前、スタッフの接客も料理も超一流」「大人の贅沢ステイにこれ以上の宿はない」と絶賛。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.66点、口コミ2600件超。「全室露天風呂付きで海が目の前、スタッフの接客も料理も超一流。」「大人の贅沢ステイにこれ以上の宿はない」と絶賛。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.70点の超高スコア。「庭園と能舞台の雰囲気が圧巻で別世界」「温泉もお料理も素晴らしく、最高の記念日になった」と高い評価を得ています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.70点の超高スコア。「庭園と能舞台の雰囲気が圧巻で別世界」「温泉もお料理も素晴らしく、最高の記念日になった。」と高い評価を得ています。</p>
               </div>
 
               {/* 宿基本情報 */}

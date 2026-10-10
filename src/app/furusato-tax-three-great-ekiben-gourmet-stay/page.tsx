@@ -38,11 +38,11 @@ export default function Page() {
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29194/29194_kan.jpg",
     "reviewCount": 1915,
     "reviewAverage": 4.36,
-    "userReview": "露天風呂と朝食バイキングが最高でした!家族旅行で利用しました。露天風呂がとても良かったです。風呂嫌いの子どもも何度も入っていました。朝食バイキングは料理人さんがおにぎりを握ってくれたり、だし巻き卵…　 ",
+    "userReview": "露天風呂と朝食バイキングが最高でした!家族旅行で利用しました。露天風呂がとても良かったです。風呂嫌いの子どもも何度も入っていました。朝食バイキングは料理人さんがおにぎりを握ってくれたり、だし巻き卵。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29194%2F29194.html",
     "access": "JR磯部駅から徒歩５分／上信越高速道 松井田・妙義IC～R18号で10分／北陸新幹線　安中棒名駅～タクシー25分",
     "label": "群馬県安中市ふるさと納税・益子焼陶器に山の幸を炊き込んだ元祖「峠の釜めし」磯部温泉ホテル磯部ガーデン",
-    "themeTitle": "群馬県安中市ふるさと納税：峠の釜めし本店へ好アクセス・舌切雀伝説の温泉名宿「磯部温泉 舌切雀のお宿 ホテル磯部ガーデン」",
+    "themeTitle": "群馬県安中市ふるさと納税：峠の釜めし本店へ好アクセス・舌切雀伝説の温泉名宿「磯部温泉 舌切雀のお宿 ホテル磯部ガーデン。」",
     "themeDesc": "温泉マーク発祥の地・磯部温泉に建ち、おぎのや横川本店へのアクセスも便利な大型和風旅館。美肌効果の高い塩化物泉の大浴場や露天風呂、上州牛や地元野菜を取り入れた豪華会席料理で、昔話の世界に浸る温かな休日を過ごせます。",
     "revAvg": "4.4",
     "minCharge": "15,400"
@@ -59,12 +59,12 @@ export default function Page() {
     "hotelMinCharge": 7000,
     "address1": "北海道",
     "address2": "函館市若松町12-8",
-    "telephoneNo": "0138-84-8861",
+    "telephoneNo": "61",
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/177009/177009.jpg",
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/177009/177009_kan1.jpg",
     "reviewCount": 1755,
     "reviewAverage": 4.39,
-    "userReview": "海と電車の景色と朝食に大満足、また行きたい客室当日空きありでグレードアップしていただき海と電車の見えるお部屋で大変満足です 海の景色はいくら見ていても飽きませんでした 朝食も海鮮丼 蝦夷鹿のカレー…　 ",
+    "userReview": "海と電車の景色と朝食に大満足、また行きたい客室当日空きありでグレードアップしていただき海と電車の見えるお部屋で大変満足です 海の景色はいくら見ていても飽きませんでした 朝食も海鮮丼 蝦夷鹿のカレー。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F177009%2F177009.html",
     "access": "ＪＲ函館駅から徒歩1分・函館空港からバス約20分",
     "label": "北海道森町・函館市ふるさと納税・もち米と真イカの秘伝タレ炊き込み「元祖森名物いかめし」ラ・ジェント・ステイ函館駅前",
@@ -85,12 +85,12 @@ export default function Page() {
     "hotelMinCharge": 4400,
     "address1": "三重県",
     "address2": "松阪市京町１区28-2",
-    "telephoneNo": "0598-50-5820",
+    "telephoneNo": "20",
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38891/38891.jpg",
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38891/38891_k1.jpg",
     "reviewCount": 3927,
     "reviewAverage": 4.11,
-    "userReview": "設備は古く朝食やエレベーターに不満あり部屋と風呂は広いが、設備がやや古く照明は暗めでベッド周りのコンセントが離れており不便だった。朝食はパンと少しのおかずがワンプレートに盛り付けてあり、パンは…　 ",
+    "userReview": "朝食はパンと少しのおかずがワンプレートに盛り付けてあり、パンは。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38891%2F38891.html",
     "access": "松阪駅（北口：近鉄側）より徒歩2分、繁華街まで約10分の好立地！伊勢サンアリーナに行くなら松阪で焼肉食べましょに！",
     "label": "三重県松阪市ふるさと納税・モー太郎弁当と極上黒毛和牛の贅「松阪牛駅弁」ホテルAU松阪",
@@ -169,7 +169,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「磯部温泉 舌切雀のお宿 ホテル磯部ガーデン」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「磯部温泉 舌切雀のお宿 ホテル磯部ガーデン」へは、JR磯部駅から徒歩５分／上信越高速道 松井田・妙義IC～R18号で10分／北陸新幹線 安中棒名駅～タクシー25分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「磯部温泉 舌切雀のお宿 ホテル磯部ガーデン」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「磯部温泉 舌切雀のお宿 ホテル磯部ガーデン」は『只今割引クーポン配布中 富岡製糸場・軽井沢の近く舌切雀伝説のお宿。4つの大浴場、露天付客室』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「磯部温泉 舌切雀のお宿 ホテル磯部ガーデン」と「ラ・ジェント・ステイ函館駅前」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「磯部温泉 舌切雀のお宿 ホテル磯部ガーデン。」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「磯部温泉 舌切雀のお宿 ホテル磯部ガーデン。」へは、JR磯部駅から徒歩５分／上信越高速道 松井田・妙義IC～R18号で10分／北陸新幹線 安中棒名駅～タクシー25分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「磯部温泉 舌切雀のお宿 ホテル磯部ガーデン。」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「磯部温泉 舌切雀のお宿 ホテル磯部ガーデン。」は『只今割引クーポン配布中 富岡製糸場・軽井沢の近く舌切雀伝説のお宿。4つの大浴場、露天付客室。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「磯部温泉 舌切雀のお宿 ホテル磯部ガーデン。」と「ラ・ジェント・ステイ函館駅前」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         
         {/* 特集の魅力セクション */}
@@ -432,9 +432,9 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> JR磯部駅から徒歩５分／上信越高速道 松井田・妙義IC～R18号で10分／北陸新幹線 安中棒名駅～タクシー25分で現地へ到着。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「磯部温泉 舌切雀のお宿 ホテル磯部ガーデン」にチェックイン。只今割引クーポン配布中 富岡製糸場・軽井沢の近く舌切雀伝説のお宿。4つの大浴場、露天付客室も充実などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「磯部温泉 舌切雀のお宿 ホテル磯部ガーデン」の湯処へ。只今割引クーポン配布中 富岡製糸場・軽井沢の近く舌切雀伝説のお宿。4つとともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「磯部温泉 舌切雀のお宿 ホテル磯部ガーデン」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「磯部温泉 舌切雀のお宿 ホテル磯部ガーデン。」にチェックイン。只今割引クーポン配布中 富岡製糸場・軽井沢の近く舌切雀伝説のお宿。4つの大浴場、露天付客室も充実などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「磯部温泉 舌切雀のお宿 ホテル磯部ガーデン。」の湯処へ。只今割引クーポン配布中 富岡製糸場・軽井沢の近く舌切雀伝説のお宿。4つとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「磯部温泉 舌切雀のお宿 ホテル磯部ガーデン。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -443,8 +443,8 @@ export default function Page() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「磯部温泉 舌切雀のお宿 ホテル磯部ガーデン」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「磯部温泉 舌切雀のお宿 ホテル磯部ガーデン」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「磯部温泉 舌切雀のお宿 ホテル磯部ガーデン。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「磯部温泉 舌切雀のお宿 ホテル磯部ガーデン。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ラ・ジェント・ステイ函館駅前」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
@@ -462,20 +462,20 @@ export default function Page() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「磯部温泉 舌切雀のお宿 ホテル磯部ガーデン」へのアクセスや移動方法について</span>
+                <span>Q. 「磯部温泉 舌切雀のお宿 ホテル磯部ガーデン。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「磯部温泉 舌切雀のお宿 ホテル磯部ガーデン」へは、JR磯部駅から徒歩５分／上信越高速道 松井田・妙義IC～R18号で10分／北陸新幹線 安中棒名駅～タクシー25分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。
+                A. 「磯部温泉 舌切雀のお宿 ホテル磯部ガーデン。」へは、JR磯部駅から徒歩５分／上信越高速道 松井田・妙義IC～R18号で10分／北陸新幹線 安中棒名駅～タクシー25分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「磯部温泉 舌切雀のお宿 ホテル磯部ガーデン」の魅力や予約時のポイントは？</span>
+                <span>Q. 「磯部温泉 舌切雀のお宿 ホテル磯部ガーデン。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「磯部温泉 舌切雀のお宿 ホテル磯部ガーデン」は『只今割引クーポン配布中 富岡製糸場・軽井沢の近く舌切雀伝説のお宿。4つの大浴場、露天付客室』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「磯部温泉 舌切雀のお宿 ホテル磯部ガーデン。」は『只今割引クーポン配布中 富岡製糸場・軽井沢の近く舌切雀伝説のお宿。4つの大浴場、露天付客室。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -484,7 +484,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「磯部温泉 舌切雀のお宿 ホテル磯部ガーデン」と「ラ・ジェント・ステイ函館駅前」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「磯部温泉 舌切雀のお宿 ホテル磯部ガーデン。」と「ラ・ジェント・ステイ函館駅前」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

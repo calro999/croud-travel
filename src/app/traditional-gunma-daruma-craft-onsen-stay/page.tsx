@@ -34,11 +34,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38692/38692map.gif",
     "reviewCount": 1204,
     "reviewAverage": 4.26,
-    "userReview": "お風呂と食事に大満足、温かい接客に感謝お風呂、お食事ともに家族に大変好評でした。お部屋も広すぎず狭すぎず、ちょうどよい広さ。お部屋でいただいた夕食も、大きなお膳にきれいに盛り付けられて…　2026-09-18 15:59:21投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=38692\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "お風呂と食事に大満足、温かい接客に感謝お風呂、お食事ともに家族に大変好評でした。お部屋でいただいた夕食も、大きなお膳にきれいに盛り付けられて。",
     "hotelMinCharge": 6600,
     "address1": "群馬県",
     "address2": "渋川市伊香保町伊香保210-2",
-    "telephoneNo": "0279-72-2575",
+    "telephoneNo": "75",
     "access": "JR上越線　渋川駅より伊香保温泉行きバス、又は車で２０分。関越自動車道 渋川伊香保ＩＣより３０分。",
     "parkingInformation": "有り　８０台　無料　予約不要　チェックイン前ご利用可能",
     "nearestStation": "渋川",
@@ -59,11 +59,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/17741/17741map.gif",
     "reviewCount": 2298,
     "reviewAverage": 4.26,
-    "userReview": "お風呂も清潔で食事も美味しく大満足大満足です。お風呂の脱衣所もきれいでロッカーもキー付きで安心でした食事も行き届いていて、とってもおいしかったです。クチコミの詳細はこちらから　https://…　2026-09-17 16:32:26投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=17741\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "お風呂も清潔で食事も美味しく大満足大満足です。お風呂の脱衣所もきれいでロッカーもキー付きで安心でした食事も行き届いていて、とってもおいしかったです。",
     "hotelMinCharge": 13700,
     "address1": "群馬県",
     "address2": "渋川市伊香保町伊香保60",
-    "telephoneNo": "0279-72-2601",
+    "telephoneNo": "01",
     "access": "ＪＲ渋川駅下車バスで25分！新宿から高速バスで2時間半！伊香保の名物石段街から徒歩３分と好立地♪散策に抜群の好立地",
     "parkingInformation": "有（無料）",
     "nearestStation": "渋川",
@@ -84,11 +84,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19362/19362map.gif",
     "reviewCount": 1687,
     "reviewAverage": 4.52,
-    "userReview": "食事も美味しく貸切風呂でゆっくりできた また宿泊したい食事は夕食も朝食もおいしくいただきましたお風呂は4カ所すべてが貸し切りでゆっくり入浴できましたが、部屋のタブレットで空き情報が見られるだけ…　2026-09-06 17:04:21投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=19362\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "食事も美味しく貸切風呂でゆっくりできた また宿泊したい食事は夕食も朝食もおいしくいただきましたお風呂は4カ所すべてが貸し切りでゆっくり入浴できましたが、部屋のタブレットで空き情報が見られるだけ。",
     "hotelMinCharge": 10450,
     "address1": "群馬県",
     "address2": "渋川市伊香保町伊香保383",
-    "telephoneNo": "0279-72-3308",
+    "telephoneNo": "08",
     "access": "ＪＲ上越線渋川駅よりバスで約２０分、見晴下 下車／関越道渋川・伊香保ＩＣより約１０ｋｍ",
     "parkingInformation": "有り　30台　無料　",
     "nearestStation": "渋川",
@@ -113,7 +113,7 @@ const hotels: any[] = [
     "hotelMinCharge": 3500,
     "address1": "群馬県",
     "address2": "渋川市伊香保町伊香保49",
-    "telephoneNo": "0279-72-2378",
+    "telephoneNo": "78",
     "access": "渋川駅よりバスで約30分／渋川伊香保I.Cより約２0分",
     "parkingInformation": "無。市営物聞駐車場又は徳冨 蘆花記念文学館駐車場をご利用下さい（1泊（15時～翌10時）800円）",
     "nearestStation": "渋川",
@@ -134,11 +134,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68523/68523map.gif",
     "reviewCount": 893,
     "reviewAverage": 4.34,
-    "userReview": "Wi-Fiがロビーのみで少し不便wifiは1階のロビーのみでしたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/68…　2026-09-16 17:11:27投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=68523\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "Wi-Fiがロビーのみで少し不便wifiは1階のロビーのみでした。",
     "hotelMinCharge": 7700,
     "address1": "群馬県",
     "address2": "渋川市伊香保町伊香保67",
-    "telephoneNo": "0279-72-3121",
+    "telephoneNo": "21",
     "access": "ＪＲ上越線　渋川駅前より伊香保温泉行バス乗車にて終点「伊香保温泉」下車で徒歩５分　【石段まで徒歩1分】",
     "parkingInformation": "有り　・旅館前５～６台(入り口大変狭し)・少し離れた場所に３０台(送迎有り)　無料　予約不要",
     "nearestStation": "渋川",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「伊香保温泉 旅館 さくらい」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「伊香保温泉 旅館 さくらい」へは、JR上越線 渋川駅より伊香保温泉行きバス、又は車で２０分。最寄りの渋川駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「伊香保温泉 旅館 さくらい」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「伊香保温泉 旅館 さくらい」は『喧騒を離れた小宿。4名まで夕食お部屋出し。小ぶりながら上州の山々を一望する展望露天風呂』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「伊香保温泉 旅館 さくらい」と「伊香保温泉 森秋旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「伊香保温泉 旅館 さくらい」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「伊香保温泉 旅館 さくらい」へは、JR上越線 渋川駅より伊香保温泉行きバス、又は車で２０分。最寄りの渋川駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「伊香保温泉 旅館 さくらい」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「伊香保温泉 旅館 さくらい」は『喧騒を離れた小宿。4名まで夕食お部屋出し。小ぶりながら上州の山々を一望する展望露天風呂。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「伊香保温泉 旅館 さくらい」と「伊香保温泉 森秋旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -628,7 +628,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「伊香保温泉 旅館 さくらい」は『喧騒を離れた小宿。4名まで夕食お部屋出し。小ぶりながら上州の山々を一望する展望露天風呂』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「伊香保温泉 旅館 さくらい」は『喧騒を離れた小宿。4名まで夕食お部屋出し。小ぶりながら上州の山々を一望する展望露天風呂。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

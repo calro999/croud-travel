@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-12T18:00:00+09:00',
-    dateModified: '2026-09-12T18:00:00+09:00',
+    datePublished: 'T18:00:00+09:00',
+    dateModified: 'T18:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/uji-fushimi-solo-retreat-tea-sake-stay',
   };
 
@@ -77,7 +77,7 @@ export default function ArticlePage() {
           【宇治・伏見ひとり旅・歴史おこもり】宇治川のせせらぎ・世界遺産平等院鳳凰堂・伏見酒蔵めぐり！京の奥座敷で心調律する厳選3宿
         </h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
-          <time dateTime="2026-09-12">2026.09.12 更新</time>
+          <time dateTime="">2026.09.12 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
         </div>

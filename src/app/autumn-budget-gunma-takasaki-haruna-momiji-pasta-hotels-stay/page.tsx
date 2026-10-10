@@ -100,7 +100,7 @@ export default function AutumnBudgetTakasakiHotelsPage() {
               </div>
             </div>
             <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              アパホテル＜高崎駅東口＞２０２６年１１月２日ＯＰＥＮ
+              アパホテル＜高崎駅東口＞ＯＰＥＮ
             </h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -108,11 +108,10 @@ export default function AutumnBudgetTakasakiHotelsPage() {
             </div>
             <div className="grid md:grid-cols-2 gap-4 pt-2">
               <div className="relative aspect-video rounded-xl overflow-hidden bg-slate-100">
-                <Image src="https://img.travel.rakuten.co.jp/share/HOTEL/197229/197229.jpg" alt="アパホテル＜高崎駅東口＞２０２６年１１月２日ＯＰＥＮ" fill className="object-cover" unoptimized />
+                <Image src="https://img.travel.rakuten.co.jp/share/HOTEL/197229/197229.jpg" alt="アパホテル＜高崎駅東口＞ＯＰＥＮ" fill className="object-cover" unoptimized />
               </div>
               <div className="flex flex-col justify-between space-y-3">
-                <p className="text-xs text-slate-600 leading-relaxed">
-                  2026年11月2日グランドオープンの最新ホテル！ピカピカの最新客室設備と快眠ベッドで、3,000円台後半とは思えない抜群の快適性を誇る最注目の一軒です。
+                <p className="text-xs text-slate-600 leading-relaxed">グランドオープンの最新ホテル！ピカピカの最新客室設備と快眠ベッドで、3,000円台後半とは思えない抜群の快適性を誇る最注目の一軒です。
                 </p>
                 <div className="bg-slate-50 p-3 rounded-xl border border-slate-100">
                   <div className="text-xs text-slate-500">最安参考料金（1名利用時）</div>

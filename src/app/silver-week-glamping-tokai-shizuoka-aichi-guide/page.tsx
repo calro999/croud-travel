@@ -422,7 +422,7 @@ export default function SilverWeekGlampingTokaiShizuokaAichiPage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「静岡・伊豆・愛知おすすめ！海鮮BBQ＆みかん狩り体験」を効率よく巡るコツは？</span>
+                <span>Q. 「静岡・伊豆・愛知おすすめ！海鮮BBQ＆みかん狩り体験。」を効率よく巡るコツは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">

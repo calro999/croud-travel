@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/luxury-private-onsen-with-art-gallery-stay"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D8766%26f_flg%3DPLAN",
     "hotelMinCharge": 13200,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8766/8766.jpg",
-    "userReview": "記念日のサプライズ対応と料理に大満足今回は記念日旅行で利用させていただきました。サプライズも考えていたので、宿泊前から旅館の方と連絡を取らせていただいていましたがその際からとても親切で当日がとても…　2026-08-01 20:10:51投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=8766\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "記念日のサプライズ対応と料理に大満足今回は記念日旅行で利用させていただきました。サプライズも考えていたので、宿泊前から旅館の方と連絡を取らせていただいていましたがその際からとても親切で当日がとても。",
     "reviewAverage": 4.66,
     "reviewCount": 247,
     "address": "兵庫県豊岡市城崎町湯島573",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D9696%26f_flg%3DPLAN",
     "hotelMinCharge": 24200,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9696/9696.jpg",
-    "userReview": "工夫された食事と露天風呂付きの広い部屋お食事内容が大変工夫されていました。お味も見た目の美しさも量も種類も満足にいただきました。露天風呂付きお部屋でしたが、広く落ち着いた雰囲気で湯量もたっぷり出て…　2026-09-17 02:13:54投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=9696\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "工夫された食事と露天風呂付きの広い部屋お食事内容が大変工夫されていました。お味も見た目の美しさも量も種類も満足にいただきました。露天風呂付きお部屋でしたが、広く落ち着いた雰囲気で湯量もたっぷり出て。",
     "reviewAverage": 4.38,
     "reviewCount": 279,
     "address": "京都府亀岡市湯の花温泉",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D108973%26f_flg%3DPLAN",
     "hotelMinCharge": 11000,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108973/108973.jpg",
-    "userReview": "川の音に癒やされ、スタッフの心遣いに感謝周りには何も無いですが、何も無いがあります!のんびりしたいなら最適です。館内はスタッフの方々が本当に親切で、カフェインが苦手だと伝えると麦茶を出して…　2026-09-17 14:09:15投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=108973\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "川の音に癒やされ、スタッフの心遣いに感謝周りには何も無いですが、何も無いがあります!のんびりしたいなら最適です。館内はスタッフの方々が本当に親切で、カフェインが苦手だと伝えると麦茶を出して。",
     "reviewAverage": 4.77,
     "reviewCount": 458,
     "address": "栃木県那須塩原市黒磯402-2",
@@ -337,7 +337,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「城崎温泉 つちや旅館」は『2025温泉宿総選挙全国第3位 但馬牛をはじめ、旬を極める料理旅館』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「城崎温泉 つちや旅館」は『2025温泉宿総選挙全国第3位 但馬牛をはじめ、旬を極める料理旅館。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

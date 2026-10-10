@@ -49,7 +49,7 @@ export default function FurusatoFootbathCafeAshiyuStayPage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「東府やＲｅｓｏｒｔ＆Ｓｐａ－Ｉｚｕ」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「東府やＲｅｓｏｒｔ＆Ｓｐａ－Ｉｚｕ」へは、◆電車 伊豆箱根鉄道「修善寺駅」からバス20分「吉奈温泉口」下車後、送迎あり ◆車 東名沼津ICから約45分（38キロ）。最寄りの修善寺駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「東府やＲｅｓｏｒｔ＆Ｓｐａ－Ｉｚｕ」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「東府やＲｅｓｏｒｔ＆Ｓｐａ－Ｉｚｕ」は『伝統&amp;amp;モダンの上質な空間で日本情緒と風情を感じるリゾートステイ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「東府やＲｅｓｏｒｔ＆Ｓｐａ－Ｉｚｕ」と「黒川温泉 やまびこ旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「東府やＲｅｓｏｒｔ＆Ｓｐａ－Ｉｚｕ」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「東府やＲｅｓｏｒｔ＆Ｓｐａ－Ｉｚｕ」へは、◆電車 伊豆箱根鉄道「修善寺駅」からバス20分「吉奈温泉口」下車後、送迎あり ◆車 東名沼津ICから約45分（38キロ）。最寄りの修善寺駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「東府やＲｅｓｏｒｔ＆Ｓｐａ－Ｉｚｕ」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「東府やＲｅｓｏｒｔ＆Ｓｐａ－Ｉｚｕ」は『伝統&amp;amp;モダンの上質な空間で日本情緒と風情を感じるリゾートステイ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「東府やＲｅｓｏｒｔ＆Ｓｐａ－Ｉｚｕ」と「黒川温泉 やまびこ旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -195,7 +195,7 @@ export default function FurusatoFootbathCafeAshiyuStayPage() {
                     中伊豆・吉奈温泉の清流・吉奈川沿いに三万六千坪もの広大な敷地を誇る、日本の伝統美とモダンリゾートが融合した名宿。敷地内にある「Bakery & Table 東府や」の足湯テラス席は全国から観光客が訪れる大人気スポットで、清流を眺めながら足湯に浸かり、米粉のカレーパンや自家製スイーツを堪能できます。全客室が川沿いやヴィラタイプで温泉内風呂や露天風呂を完備。男女別の大浴場や貸切露天風呂では徳川家康の側室・お万の方ゆかりの「子宝の湯」として名高い名湯を満喫でき、伊豆の四季の味覚を彩る和会席とともに大人の優雅な休日をお過ごしいただけます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「季節の料理と貸切風呂でゆっくり過ごせた夫婦と6歳の娘の三人で利用させていただきました。娘には食事の量が多かったようですが、季節を感じさせる料理はどれも美味しく、色んな種類の料理をいただくことが… 2026-07-22 06:21:52投稿 …」
+                    「季節の料理と貸切風呂でゆっくり過ごせた夫婦と6歳の娘の三人で利用させていただきました。娘には食事の量が多かったようですが、季節を感じさせる料理はどれも美味しく、色んな種類の料理をいただくことが…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -256,7 +256,7 @@ export default function FurusatoFootbathCafeAshiyuStayPage() {
                     黒川温泉を流れる田の原川の渓流沿いに佇み、茅葺き屋根の門をくぐると看板犬が温かく出迎えてくれる風情豊かな名旅館。川沿いには誰でも気軽に立ち寄れる足湯が設けられており、川のせせらぎに耳を澄ませながら足元からポカポカと温まることができます。宿の名物は黒川温泉で一番の広さを誇る大露天風呂「仙人風呂」や立ち湯、プライベートな貸切風呂。夕食には熊本名物の馬刺しや肥後あか牛のステーキ、地元小国の高原野菜を使った心尽くしの会席料理が並び、温かな九州の温泉情緒に包まれます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「お風呂や料理は最高だが、接客と臭いが残念黒川温泉別のお宿で何度か行きましたが、今回こちらに予約がとれたので宿泊しました。お風呂お料理、お部屋も川に面してとても良かったです。夕食はお腹いっぱ… 2026-08-10 14:46:08投稿 つづ…」
+                    「お風呂お料理、お部屋も川に面してとても良かったです。夕食はお腹いっぱ… つづ。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -317,7 +317,7 @@ export default function FurusatoFootbathCafeAshiyuStayPage() {
                     神々が降り立つ地と称される北アルプスの特別名勝・上高地の奥に位置し、開湯百四十余年の歴史を誇る老舗温泉リゾートホテル。梓川の清流と霞沢岳を仰ぐウッドデッキには趣ある木製の「樽風呂足湯」が設置され、上高地トレッキングで疲れた足を心地よい名湯で癒やせます。上高地で唯一の3本の自家源泉を持ち、加水・加温一切なしの源泉かけ流し露天風呂を完備。夕食には信州牛や岩魚、安曇野の採れたて野菜を使った手作り和食会席を味わえ、手つかずの大自然と名湯に身を委ねる極上の山岳リトリートが叶います。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「140年の歴史と趣、絶品料理と温泉に癒やされる高校の修学旅行以来、約40年ぶりに訪れました。新しいホテルと比べると建物の古さは否めませんが、その分、140年の歴史と趣を感じることができ、とても… 2026-08-31 17:06:32投稿 …」
+                    「140年の歴史と趣、絶品料理と温泉に癒やされる高校の修学旅行以来、約40年ぶりに訪れました。新しいホテルと比べると建物の古さは否めませんが、その分、140年の歴史と趣を感じることができ、とても…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -481,7 +481,7 @@ export default function FurusatoFootbathCafeAshiyuStayPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「東府やＲｅｓｏｒｔ＆Ｓｐａ－Ｉｚｕ」は『伝統&amp;amp;モダンの上質な空間で日本情緒と風情を感じるリゾートステイ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「東府やＲｅｓｏｒｔ＆Ｓｐａ－Ｉｚｕ」は『伝統&amp;amp;モダンの上質な空間で日本情緒と風情を感じるリゾートステイ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

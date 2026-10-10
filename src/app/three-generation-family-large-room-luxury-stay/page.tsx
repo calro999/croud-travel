@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/three-generation-family-large-room-luxury-stay"
   };
 
@@ -83,11 +83,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2370/2370map.gif",
     "reviewCount": 528,
     "reviewAverage": 4.68,
-    "userReview": "大満足!!生後9ヶ月の子供を連れて泊まりにいかせていただきました!!もう全てにおいて大満足でした!ウェルカムドリンクも夕食も朝食も貸切露天風呂もお部屋も!!また泊まりたいと思える宿でし…　2026-09-09 18:24:24投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=2370\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "大満足!生後9ヶ月の子供を連れて泊まりにいかせていただきました!もう全てにおいて大満足でした!ウェルカムドリンクも夕食も朝食も貸切露天風呂もお部屋も!また泊まりたいと思える宿でし。",
     "hotelMinCharge": 7700,
     "address1": "群馬県",
     "address2": "利根郡みなかみ町湯桧曽93",
-    "telephoneNo": "0278-72-3516",
+    "telephoneNo": "16",
     "access": "車：水上ICから約15分　車以外：上越線ゆびそ駅より徒歩5分、又は水上駅よりバス・タクシーで約10分　",
     "parkingInformation": "有り　16台　無料",
     "nearestStation": "上毛高原",
@@ -108,11 +108,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5677/5677map.gif",
     "reviewCount": 750,
     "reviewAverage": 4.47,
-    "userReview": "丁寧な接客と美味しい食事、温泉に大満足接客が丁寧で食事もとても美味しかったです。温泉はぬるめで長く浸かるのにちょうど良い感じでした。宿泊したのは本館ですが、機会があれば庭付きの方にも泊まってみたい…　2026-09-12 07:21:40投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=5677\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "丁寧な接客と美味しい食事、温泉に大満足接客が丁寧で食事もとても美味しかったです。温泉はぬるめで長く浸かるのにちょうど良い感じでした。宿泊したのは本館ですが、機会があれば庭付きの方にも泊まってみたい。",
     "hotelMinCharge": 15950,
     "address1": "福井県",
     "address2": "あわら市温泉2-205",
-    "telephoneNo": "0776-78-5555",
+    "telephoneNo": "55",
     "access": "ＪＲ北陸本線芦原温泉駅から路線バスにて１５分/無料送迎あり。北陸道金津ＩＣより車で１５分。駐車場無料(係が案内します。)",
     "parkingInformation": "有り　１００台　無料 （エントランスにはスロープもございます。係がご案内いたします。）",
     "nearestStation": "芦原温泉",

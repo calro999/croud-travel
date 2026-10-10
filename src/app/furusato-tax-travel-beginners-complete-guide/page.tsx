@@ -7,7 +7,7 @@ const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.
 
 export const metadata: Metadata = {
   title: '【超初心者向け】ふるさと納税で旅行・ホテルに安く泊まる完全マニュアル｜仕組み・お金の流れ・失敗しない使い方を徹底解説【2026年最新】',
-  description: 'ふるさと納税を一度も使ったことがない完全初心者でも大丈夫！「なぜ旅行代金が安くなるのか」「実質2,000円ってどういうこと？」「確定申告なしでスマホで終わるワンストップ特例」「予約済みの宿へのあとから適用方法」まで、失敗ゼロで誰でもできる手順をステップバイステップで完全解説。',
+  description: 'ふるさと納税を一度も使ったことがない完全初心者でも大丈夫！「なぜ旅行代金が安くなるのか」「実質2,000円ってどういうこと？」「確定申告なしでスマホで終わるワンストップ特例。」「予約済みの宿へのあとから適用方法」まで、失敗ゼロで誰でもできる手順をステップバイステップで完全解説。',
   keywords: ["超初心者向け", "ふるさと納税で旅行", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: { canonical: baseUrl + '/furusato-tax-travel-beginners-complete-guide/' },
   openGraph: {
@@ -29,7 +29,7 @@ export default function FurusatoTaxTravelBeginnersGuide() {
         name: 'ふるさと納税で旅行できる仕組みはどうなっていますか？',
         acceptedAnswer: {
           '@type': 'Answer',
-          text: '旅行先の自治体に寄付を行うと、返礼品として「楽天トラベルクーポン（寄付額の最大30％相当）」が即時〜数日で付与されます。さらに、寄付した金額のうち2,000円を超える部分は翌年の所得税・住民税から控除されるため、実質2,000円の負担だけで数万円分の旅行割引を受けられます。',
+          text: '旅行先の自治体に寄付を行うと、返礼品として「楽天トラベルクーポン（寄付額の最大30％相当）。」が即時〜数日で付与されます。さらに、寄付した金額のうち2,000円を超える部分は翌年の所得税・住民税から控除されるため、実質2,000円の負担だけで数万円分の旅行割引を受けられます。',
         },
       },
       {
@@ -61,7 +61,7 @@ export default function FurusatoTaxTravelBeginnersGuide() {
         name: '初心者が特に注意すべき失敗ポイントは何ですか？',
         acceptedAnswer: {
           '@type': 'Answer',
-          text: '最も多い失敗は「寄付先自治体とホテルの所在地の不一致」「楽天IDと住民税を払っている本人の名義違い」「年間控除上限額の超過」の3点です。泊まりたい宿がどの市町村にあるかを必ず確認し、寄付上限額シミュレーターで上限を確認した上で、税金を納めている本人の楽天アカウントから寄付を行ってください。',
+          text: '最も多い失敗は「寄付先自治体とホテルの所在地の不一致」「楽天IDと住民税を払っている本人の名義違い。」「年間控除上限額の超過」の3点です。泊まりたい宿がどの市町村にあるかを必ず確認し、寄付上限額シミュレーターで上限を確認した上で、税金を納めている本人の楽天アカウントから寄付を行ってください。',
         },
       },
     ],
@@ -82,7 +82,7 @@ export default function FurusatoTaxTravelBeginnersGuide() {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "【超初心者向け】ふるさと納税で旅行・ホテルに安く泊まる完全マニュアル｜仕組み・お金の流れ・失敗しない使い方を徹底解説【2026年最新】",
-    "description": "ふるさと納税を一度も使ったことがない完全初心者でも大丈夫！「なぜ旅行代金が安くなるのか」「実質2,000円ってどういうこと？」「確定申告なしでスマホで終わるワンストップ特例」「予約済みの宿へのあとから適用方法」まで、失敗ゼロで誰でもできる手順をステップバイステップで完全解説。",
+    "description": "ふるさと納税を一度も使ったことがない完全初心者でも大丈夫！「なぜ旅行代金が安くなるのか」「実質2,000円ってどういうこと？」「確定申告なしでスマホで終わるワンストップ特例。」「予約済みの宿へのあとから適用方法」まで、失敗ゼロで誰でもできる手順をステップバイステップで完全解説。",
     "url": "https://croud-travel.pages.dev/furusato-tax-travel-beginners-complete-guide/",
     "publisher": {
       "@type": "Organization",
@@ -115,7 +115,7 @@ export default function FurusatoTaxTravelBeginnersGuide() {
             【超初心者向け】ふるさと納税で旅行・ホテルに安く泊まる完全マニュアル
           </h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed mb-6">
-            「ふるさと納税って聞くけど、手続きが難しそう…」「確定申告なんてやったことがない」「本当に安くなるの？」とためらっていませんか？<br />
+            「ふるさと納税って聞くけど、手続きが難しそう。」「確定申告なんてやったことがない」「本当に安くなるの？」とためらっていませんか？<br />
             実は、会社員なら<strong>マイナンバーカードをスマホでピッとするだけ（確定申告なし）</strong>で、たった2,000円の自己負担で憧れの温泉旅館や高級リゾートに数万円引きで泊まることができます。<br />
             この記事では、これまで一度もふるさと納税をやったことがない方に向けて、お金の流れから具体的なスマホ操作、失敗しない注意点まで、誰でもわかる言葉で徹底解説します。
           </p>
@@ -179,12 +179,12 @@ export default function FurusatoTaxTravelBeginnersGuide() {
               ふるさと納税というと、「お米」や「お肉」などの特産品が自宅に届くイメージをお持ちの方が多いかもしれません。
             </p>
             <p>
-              しかし、楽天ふるさと納税では<strong>「全国の自治体にあるホテル・温泉旅館で使える電子宿泊クーポン」</strong>が返礼品として用意されています。
+              しかし、楽天ふるさと納税では<strong>「全国の自治体にあるホテル・温泉旅館で使える電子宿泊クーポン。」</strong>が返礼品として用意されています。
             </p>
             <div className="bg-amber-50/80 rounded-xl p-4 border border-amber-200">
               <h3 className="font-bold text-amber-900 mb-2">💡 一言で言うと…</h3>
               <p className="text-amber-950 font-medium">
-                「旅行先の市町村に寄付すると、その寄付額の最大30％相当の宿泊クーポンがもらえて、寄付したお金は翌年の税金から引かれる」制度です。
+                「旅行先の市町村に寄付すると、その寄付額の最大30％相当の宿泊クーポンがもらえて、寄付したお金は翌年の税金から引かれる。」制度です。
               </p>
             </div>
             <p>
@@ -205,7 +205,7 @@ export default function FurusatoTaxTravelBeginnersGuide() {
           <div className="bg-white rounded-2xl shadow-sm border border-stone-200/80 p-6 md:p-8 space-y-6 text-sm text-stone-700 leading-relaxed">
             <p>
               「実質2,000円って怪しくない？」「あとから請求が来るんじゃないの？」と不安に思う初心者の方も非常に多いです。
-              実態はとてもシンプルで、<strong>「来年どうせ支払う住民税を、いま旅行代金に前払いしているだけ」</strong>なのです。
+              実態はとてもシンプルで、<strong>「来年どうせ支払う住民税を、いま旅行代金に前払いしているだけ。」</strong>なのです。
             </p>
 
             {/* お金の流れボックス */}
@@ -260,7 +260,7 @@ export default function FurusatoTaxTravelBeginnersGuide() {
           </div>
           <div className="bg-white rounded-2xl shadow-sm border border-stone-200/80 p-6 md:p-8 space-y-4 text-sm text-stone-700 leading-relaxed">
             <p>
-              ふるさと納税で最も重要なのは、<strong>「自分が自己負担2,000円で寄付できる上限額（控除限度額）」</strong>を知ることです。
+              ふるさと納税で最も重要なのは、<strong>「自分が自己負担2,000円で寄付できる上限額（控除限度額）。」</strong>を知ることです。
               上限を超えた金額はただの自腹（寄付）になってしまうので、必ず上限額の範囲内で寄付を行いましょう。
             </p>
 
@@ -556,7 +556,7 @@ export default function FurusatoTaxTravelBeginnersGuide() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「ふるさと納税で旅行・ホテルに安く泊まる完全マニュアル」を効率よく巡るコツは？</span>
+                <span>Q. 「ふるさと納税で旅行・ホテルに安く泊まる完全マニュアル。」を効率よく巡るコツは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">

@@ -36,7 +36,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2975/2975map.gif",
     "reviewCount": 1193,
     "reviewAverage": 3.9,
-    "userReview": "立地が便利でかき氷や朝食も楽しめた設備は古い感じかしますが、隣にコンビニやお土産屋などもあり立地的には便利でした。ウェルカムかき氷などもあり嬉しいサービスもありました。朝食は最低限ですがセ…　 ",
+    "userReview": "立地が便利でかき氷や朝食も楽しめた設備は古い感じかしますが、隣にコンビニやお土産屋などもあり立地的には便利でした。ウェルカムかき氷などもあり嬉しいサービスもありました。朝食は最低限ですがセ。",
     "hotelMinCharge": 5000,
     "address1": "青森県",
     "address2": "むつ市下北町2-46",
@@ -67,11 +67,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/141606/141606map.gif",
     "reviewCount": 195,
     "reviewAverage": 4.37,
-    "userReview": "停電のアクシデントも夕食と雰囲気で満足大雨により停電が発生し、朝のお風呂がお湯が出ないアクシデントがありましたが、全体的に落ち着ける宿です。夕食も工夫されており、満足できました。また、利用…　 ",
+    "userReview": "停電のアクシデントも夕食と雰囲気で満足大雨により停電が発生し、朝のお風呂がお湯が出ないアクシデントがありましたが、全体的に落ち着ける宿です。夕食も工夫されており、満足できました。また、利用。",
     "hotelMinCharge": 7850,
     "address1": "秋田県",
     "address2": "山本郡藤里町藤琴上湯ノ沢1-2",
-    "telephoneNo": "0185-79-1070",
+    "telephoneNo": "70",
     "access": "JR二ツ井駅より路線バスもしくは車で約20分・大館能代空港から車で約35分・秋田空港より車で約1時間40分",
     "parkingInformation": "有り　１００台　無料　予約不要",
     "nearestStation": "",
@@ -98,11 +98,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6067/6067map.gif",
     "reviewCount": 573,
     "reviewAverage": 4.24,
-    "userReview": "中山道歩きの疲れを癒やす将軍ディナーと温泉中山道を歩き、いただいた将軍ディナーがとてもしみました。部屋風呂でゆっくりして、いい夏旅でしたクチコミの詳細はこちらから　https://review…　 ",
+    "userReview": "中山道歩きの疲れを癒やす将軍ディナーと温泉中山道を歩き、いただいた将軍ディナーがとてもしみました。部屋風呂でゆっくりして、いい夏旅でした。",
     "hotelMinCharge": 8090,
     "address1": "長野県",
     "address2": "木曽郡木曽町福島本町5162",
-    "telephoneNo": "0264-22-2010",
+    "telephoneNo": "10",
     "access": "JR木曽福島駅～徒歩約10分【15：30分16：40分送迎有要予約】伊那IC約40分塩尻IC約60分中津川I約70分",
     "parkingInformation": "有り　20台　無料",
     "nearestStation": "木曽福島",
@@ -110,7 +110,7 @@ export default function Page() {
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F6067%2F6067.html",
     "featureKey": "forest_hinoki",
     "featureLabel": "長野県木曽町・南木曽町ふるさと納税・伊勢神宮のご神木を育む伊勢神宮御杣山「木曽ヒノキ美林」木曽路温泉郷ステイ",
-    "themeTitle": "長野県木曽町ふるさと納税：木曽ヒノキの香る宿場町・創業三百余年の歴史を紡ぐ「きそふくしま温泉 街道浪漫 おん宿 蔦屋」",
+    "themeTitle": "長野県木曽町ふるさと納税：木曽ヒノキの香る宿場町・創業三百余年の歴史を紡ぐ「きそふくしま温泉 街道浪漫 おん宿 蔦屋。」",
     "themeDesc": "中山道福島宿の木曽川沿いに建つ、江戸享保年間創業の老舗温泉宿。木曽ヒノキをふんだんに使った大浴場や露天風呂で心地よいアロマに包まれ、夕食は極上の信州牛ステーキや木曽川のイワナ塩焼き、信州十割蕎麦を風情ある個室で楽しめます。",
     "revAvg": "4.2",
     "minCharge": "8,090"
@@ -185,7 +185,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「プラザホテル むつ ＪＲ大湊線下北駅前」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「プラザホテル むつ ＪＲ大湊線下北駅前」へは、ＪＲ大湊線下北駅から徒歩3分。最寄りの下北駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「プラザホテル むつ ＪＲ大湊線下北駅前」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「プラザホテル むつ ＪＲ大湊線下北駅前」は『★浴室に窓のついたビューバスルームあり★JR下北駅より徒歩3分！恐山観光にも便利な好立地♪』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「プラザホテル むつ ＪＲ大湊線下北駅前」と「白神山地 ホテルゆとりあ藤里」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「プラザホテル むつ ＪＲ大湊線下北駅前」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「プラザホテル むつ ＪＲ大湊線下北駅前」へは、ＪＲ大湊線下北駅から徒歩3分。最寄りの下北駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「プラザホテル むつ ＪＲ大湊線下北駅前」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「プラザホテル むつ ＪＲ大湊線下北駅前」は『★浴室に窓のついたビューバスルームあり★JR下北駅より徒歩3分！恐山観光にも便利な好立地♪。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「プラザホテル むつ ＪＲ大湊線下北駅前」と「白神山地 ホテルゆとりあ藤里」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         
         {/* 特集の魅力セクション */}
@@ -491,7 +491,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「プラザホテル むつ ＪＲ大湊線下北駅前」は『★浴室に窓のついたビューバスルームあり★JR下北駅より徒歩3分！恐山観光にも便利な好立地♪』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「プラザホテル むつ ＪＲ大湊線下北駅前」は『★浴室に窓のついたビューバスルームあり★JR下北駅より徒歩3分！恐山観光にも便利な好立地♪。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -4,14 +4,14 @@ import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: 'エメラルドグリーンの海と満天の星！石垣島の天然ビーチ直結リゾート＆赤瓦プライベートヴィラ×ふるさと納税完全攻略ガイド【2026年最新】フサキ・ANAインターコンチネンタル・グランヴィリオ',
-  description: '日本屈指の南国アイランド・沖縄県石垣島！エメラルドの川平湾、八重山諸島の絶景パノラマ。「フサキビーチリゾート」「ANAインターコンチネンタル石垣リゾート」「グランヴィリオリゾート石垣島」を、沖縄県石垣市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。天然ビーチ直結、県内最大級ウォータースライダー、石垣牛ステーキを満喫。',
+  description: '日本屈指の南国アイランド・沖縄県石垣島！エメラルドの川平湾、八重山諸島の絶景パノラマ。「フサキビーチリゾート」「ANAインターコンチネンタル石垣リゾート。」「グランヴィリオリゾート石垣島」を、沖縄県石垣市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。天然ビーチ直結、県内最大級ウォータースライダー、石垣牛ステーキを満喫。',
   keywords: ["2026年最新", "フサキ", "ANAインターコンチネンタル", "グランヴィリオ", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-ishigakijima-resort-villa-luxury-stay/",
   },
   openGraph: {
     title: 'エメラルドグリーンの海と満天の星！石垣島の天然ビーチ直結リゾート＆赤瓦プライベートヴィラ×ふるさと納税完全攻略ガイド【2026年最新】フサキ・ANAインターコンチネンタル・グランヴィリオ',
-    description: '日本屈指の南国アイランド・沖縄県石垣島！エメラルドの川平湾、八重山諸島の絶景パノラマ。「フサキビーチリゾート」「ANAインターコンチネンタル石垣リゾート」「グランヴィリオリゾート石垣島」を、沖縄県石垣市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。天然ビーチ直結、県内最大級ウォータースライダー、石垣牛ステーキを満喫。',
+    description: '日本屈指の南国アイランド・沖縄県石垣島！エメラルドの川平湾、八重山諸島の絶景パノラマ。「フサキビーチリゾート」「ANAインターコンチネンタル石垣リゾート。」「グランヴィリオリゾート石垣島」を、沖縄県石垣市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。天然ビーチ直結、県内最大級ウォータースライダー、石垣牛ステーキを満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-ishigakijima-resort-villa-luxury-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
@@ -25,7 +25,7 @@ export default function FurusatoIshigakijimaLuxuryStayPage() {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "エメラルドグリーンの海と満天の星！石垣島の天然ビーチ直結リゾート＆赤瓦プライベートヴィラ×ふるさと納税完全攻略ガイド【2026年最新】フサキ・ANAインターコンチネンタル・グランヴィリオ",
-    "description": "日本屈指の南国アイランド・沖縄県石垣島！エメラルドの川平湾、八重山諸島の絶景パノラマ。「フサキビーチリゾート」「ANAインターコンチネンタル石垣リゾート」「グランヴィリオリゾート石垣島」を、沖縄県石垣市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。天然ビーチ直結、県内最大級ウォータースライダー、石垣牛ステーキを満喫。",
+    "description": "日本屈指の南国アイランド・沖縄県石垣島！エメラルドの川平湾、八重山諸島の絶景パノラマ。「フサキビーチリゾート」「ANAインターコンチネンタル石垣リゾート。」「グランヴィリオリゾート石垣島」を、沖縄県石垣市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。天然ビーチ直結、県内最大級ウォータースライダー、石垣牛ステーキを満喫。",
     "url": "https://croud-travel.pages.dev/furusato-tax-ishigakijima-resort-villa-luxury-stay/",
     "publisher": {
       "@type": "Organization",
@@ -62,7 +62,7 @@ export default function FurusatoIshigakijimaLuxuryStayPage() {
           エメラルドグリーンの海と満天の星！石垣島の天然ビーチ直結リゾート＆赤瓦プライベートヴィラ×ふるさと納税完全攻略ガイド【2026年最新】フサキ・ANAインターコンチネンタル・グランヴィリオ
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-10">2026年9月10日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -77,7 +77,7 @@ export default function FurusatoIshigakijimaLuxuryStayPage() {
           透き通るエメラルドグリーンの美ら海、夜空を埋め尽くす満天の天の川。南の楽園・石垣島で叶える極上リゾートステイへ
         </h2>
         <p className="text-base md:text-lg text-gray-800 leading-relaxed mb-6">
-          八重山諸島の玄関口であり、世界屈指の透明度を誇る海に囲まれた南国の楽園「沖縄県・石垣島（いしがきじま）」。世界的ガイドブックで最高評価三ツ星を獲得した景勝地「川平湾」のエメラルドグリーンのグラデーションをはじめ、亜熱帯のマングローブ林、そして日本初の星空保護区に認定された満天の星空と南十字星——。五感のすべてを解き放つ大自然の魅力に溢れています。石垣島のリゾート滞在の醍醐味は、手付かずの天然白砂ビーチに直結した広大な敷地、沖縄伝統の赤瓦屋根が連なるプライベートヴィラ、そして水平線に沈む夕日を一望するインフィニティプール。日常の喧騒から完全に隔絶された南国時間が流れています。さらに食の感動も見逃せません。温暖な気候とミネラル豊富な牧草で育った幻の最高級黒毛和牛「石垣牛（いしがきぎゅう）」のジューシーな炭火ステーキや鉄板焼き、獲れたて新鮮な島魚のお造り、香り高い八重山そばや島野菜など、南国ならではの豊かな恵みを贅沢に堪能できます。本特集では、天然ビーチ直結で赤瓦ヴィラと県内最大級のスプラッシュパークがファミリー・カップルに絶大な人気を誇る「フサキビーチリゾート ホテル＆ヴィラズ」、マエサトビーチを望みワンランク上のクラブインターコンチネンタル棟を擁する世界水準の「ANAインターコンチネンタル石垣リゾート」、そして八重山諸島を見晴らすパノラマと充実の露天風呂・岩盤浴スパが魅力の「グランヴィリオリゾート石垣島」の3大リゾートを厳選。沖縄県石垣市への楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円で憧れの石垣島リゾート旅をお得に予約しましょう。
+          八重山諸島の玄関口であり、世界屈指の透明度を誇る海に囲まれた南国の楽園「沖縄県・石垣島（いしがきじま）」。世界的ガイドブックで最高評価三ツ星を獲得した景勝地「川平湾」のエメラルドグリーンのグラデーションをはじめ、亜熱帯のマングローブ林、そして日本初の星空保護区に認定された満天の星空と南十字星——。五感のすべてを解き放つ大自然の魅力に溢れています。石垣島のリゾート滞在の醍醐味は、手付かずの天然白砂ビーチに直結した広大な敷地、沖縄伝統の赤瓦屋根が連なるプライベートヴィラ、そして水平線に沈む夕日を一望するインフィニティプール。日常の喧騒から完全に隔絶された南国時間が流れています。さらに食の感動も見逃せません。温暖な気候とミネラル豊富な牧草で育った幻の最高級黒毛和牛「石垣牛（いしがきぎゅう）」のジューシーな炭火ステーキや鉄板焼き、獲れたて新鮮な島魚のお造り、香り高い八重山そばや島野菜など、南国ならではの豊かな恵みを贅沢に堪能できます。本特集では、天然ビーチ直結で赤瓦ヴィラと県内最大級のスプラッシュパークがファミリー・カップルに絶大な人気を誇る「フサキビーチリゾート ホテル＆ヴィラズ」、マエサトビーチを望みワンランク上のクラブインターコンチネンタル棟を擁する世界水準の「ANAインターコンチネンタル石垣リゾート。」、そして八重山諸島を見晴らすパノラマと充実の露天風呂・岩盤浴スパが魅力の「グランヴィリオリゾート石垣島」の3大リゾートを厳選。沖縄県石垣市への楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円で憧れの石垣島リゾート旅をお得に予約しましょう。
         </p>
         <div className="bg-white/90 rounded-xl p-4 md:p-5 border border-amber-300 shadow-sm">
           <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5">
@@ -164,7 +164,7 @@ export default function FurusatoIshigakijimaLuxuryStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “プールや大浴場に近く、食事も美味しく大満足スタンダードヴィラでしたが、プールや大浴場、フロントにも近く、大変便利でした。水着はベランダに干せました。大浴場は子供連れで混んでいたので、部屋でサッ…　2026-09-04 21:03:59投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “プールや大浴場に近く、食事も美味しく大満足スタンダードヴィラでしたが、プールや大浴場、フロントにも近く、大変便利でした。水着はベランダに干せました。大浴場は子供連れで混んでいたので、部屋でサッ… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -206,7 +206,7 @@ export default function FurusatoIshigakijimaLuxuryStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “サービスも食事も大満足の素晴らしい内容サービス、ご飯も大満足でした!クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/…　2026-09-05 21:07:35投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “サービスも食事も大満足の素晴らしい内容サービス、ご飯も大満足でした! ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -248,7 +248,7 @@ export default function FurusatoIshigakijimaLuxuryStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “家族旅行でゆったり過ごせた最高の思い出毎年恒例の夏の旅行に初めての石垣島!そして息子が高校3年できっと最後になるであろう家族揃っての旅行を計画し、今回はヴィラタイプを選びました。ウェルカムドリンク…　2026-08-30 00:03:46投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “家族旅行でゆったり過ごせた最高の思い出毎年恒例の夏の旅行に初めての石垣島!そして息子が高校3年できっと最後になるであろう家族揃っての旅行を計画し、今回はヴィラタイプを選びました。ウェルカムドリンク… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -323,7 +323,7 @@ export default function FurusatoIshigakijimaLuxuryStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

@@ -44,7 +44,7 @@ export default function Page() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「法師温泉 長寿館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「法師温泉 長寿館」へは、上越新幹線 上毛高原駅より猿ヶ京乗り換え法師温泉行きバスで５０分／関越自動車道 月夜野ＩＣより２５ｋｍ（約４０分）。最寄りの上毛高原駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「法師温泉 長寿館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「法師温泉 長寿館」は『≪国登録有形文化財≫敷き詰められた玉石の間から湧き上がる純度100％の源泉かけ流し温泉』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「法師温泉 長寿館」と「新祖谷温泉 ホテルかずら橋」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「法師温泉 長寿館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「法師温泉 長寿館」へは、上越新幹線 上毛高原駅より猿ヶ京乗り換え法師温泉行きバスで５０分／関越自動車道 月夜野ＩＣより２５ｋｍ（約４０分）。最寄りの上毛高原駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「法師温泉 長寿館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「法師温泉 長寿館」は『≪国登録有形文化財≫敷き詰められた玉石の間から湧き上がる純度100％の源泉かけ流し温泉。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「法師温泉 長寿館」と「新祖谷温泉 ホテルかずら橋」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         {/* パンくずリスト */}
@@ -410,7 +410,7 @@ export default function Page() {
                 <span>秘湯宿はスマートフォンやインターネットの電波は通じますか？</span>
               </h3>
               <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                山奥の秘湯では、携帯キャリアによって圏外になる場所や、館内ロビー周辺のみWi-Fiが繋がる宿が多いです。あらかじめ仕事の連絡を済ませ、「意図的にスマホを見ないデジタルデトックスの休日」として滞在するのが最高の過ごし方です。
+                山奥の秘湯では、携帯キャリアによって圏外になる場所や、館内ロビー周辺のみWi-Fiが繋がる宿が多いです。あらかじめ仕事の連絡を済ませ、「意図的にスマホを見ないデジタルデトックスの休日。」として滞在するのが最高の過ごし方です。
               </p>
             </div>
 
@@ -594,7 +594,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「法師温泉 長寿館」は『≪国登録有形文化財≫敷き詰められた玉石の間から湧き上がる純度100％の源泉かけ流し温泉』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「法師温泉 長寿館」は『≪国登録有形文化財≫敷き詰められた玉石の間から湧き上がる純度100％の源泉かけ流し温泉。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

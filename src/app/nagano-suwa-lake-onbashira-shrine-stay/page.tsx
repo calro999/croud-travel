@@ -7,7 +7,7 @@ import path from "path";
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagano-suwa-lake-onbashira-shrine-stay/" },
   title: "【長野・諏訪湖＆諏訪大社】四社まいり・片倉館千人風呂＆地酒宿 完全ガイド ｜ 日本全国・旅宿クラウド",
-  description: "日本最古の神社の一つ「信濃國一之宮 諏訪大社（上社・下社四社）」、映画のモデルとも言われる「諏訪湖」の絶景パノラマ、重要文化財「片倉館」の千人風呂、甲州街道沿いの「諏訪五蔵」酒蔵めぐりを徹底解説。湖畔温泉ホテルや老舗旅館を厳選。",
+  description: "日本最古の神社の一つ「信濃國一之宮 諏訪大社（上社・下社四社）。」、映画のモデルとも言われる「諏訪湖」の絶景パノラマ、重要文化財「片倉館」の千人風呂、甲州街道沿いの「諏訪五蔵」酒蔵めぐりを徹底解説。湖畔温泉ホテルや老舗旅館を厳選。",
   keywords: ["長野", "諏訪湖", "諏訪大社", "四社まいり", "片倉館千人風呂", "地酒宿", "温泉宿"],
 };
 
@@ -65,7 +65,7 @@ export default function MicroTouristHubPage() {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "【長野・諏訪湖＆諏訪大社】四社まいり・片倉館千人風呂＆地酒宿 完全ガイド ｜ 日本全国・旅宿クラウド",
-    "description": "日本最古の神社の一つ「信濃國一之宮 諏訪大社（上社・下社四社）」、映画のモデルとも言われる「諏訪湖」の絶景パノラマ、重要文化財「片倉館」の千人風呂、甲州街道沿いの「諏訪五蔵」酒蔵めぐりを徹底解説。湖畔温泉ホテルや老舗旅館を厳選。",
+    "description": "日本最古の神社の一つ「信濃國一之宮 諏訪大社（上社・下社四社）。」、映画のモデルとも言われる「諏訪湖」の絶景パノラマ、重要文化財「片倉館」の千人風呂、甲州街道沿いの「諏訪五蔵」酒蔵めぐりを徹底解説。湖畔温泉ホテルや老舗旅館を厳選。",
     "url": "https://croud-travel.pages.dev/nagano-suwa-lake-onbashira-shrine-stay/",
     "publisher": {
       "@type": "Organization",

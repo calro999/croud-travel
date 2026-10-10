@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/private-observatory-planetarium-luxury-villa-stay"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D188816%26f_flg%3DPLAN",
     "hotelMinCharge": 5000,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/188816/188816.jpg",
-    "userReview": "せっかく自然の多い秩父に泊まるということで、雰囲気の良さげな宿を予約しました。風呂トイレは共用ですが、部屋の数が3部屋のみのため混みあうこともなく、風呂は時間帯で交代性でとても良かったです。夜はバ…　2026-09-16 06:37:33投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=188816\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "せっかく自然の多い秩父に泊まるということで、雰囲気の良さげな宿を予約しました。風呂トイレは共用ですが、部屋の数が3部屋のみのため混みあうこともなく、風呂は時間帯で交代性でとても良かったです。夜はバ。",
     "reviewAverage": 4.25,
     "reviewCount": 74,
     "address": "埼玉県秩父市定峰245",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D149038%26f_flg%3DPLAN",
     "hotelMinCharge": 5600,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/149038/149038.jpg",
-    "userReview": "近くのゴルフ場が雷の為中断になり早めにチェックインさせて頂きました助かりました。料理も量もちょうどよくとてもおいしかったです。スタッフの方達も皆さん 感じがよく安いプランなどあれば…　2026-09-15 14:04:58投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=149038\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "近くのゴルフ場が雷の為中断になり早めにチェックインさせて頂きました助かりました。料理も量もちょうどよくとてもおいしかったです。スタッフの方達も皆さん 感じがよく安いプランなどあれば。",
     "reviewAverage": 4.56,
     "reviewCount": 192,
     "address": "広島県三原市大和町箱川4007-7",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D38754%26f_flg%3DPLAN",
     "hotelMinCharge": 8925,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38754/38754.jpg",
-    "userReview": "スタッフの対応と食事が最高、また行きたい皆さんのレビュー通り、スタッフの方々は感じのよい方ばかりで、お部屋は古いながらも清潔で掃除が行き届いており、お食事が全てとても美味しく、大変気持ちよく利用さ…　2026-09-16 17:27:24投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=38754\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "スタッフの対応と食事が最高、また行きたい皆さんのレビュー通り、スタッフの方々は感じのよい方ばかりで、お部屋は古いながらも清潔で掃除が行き届いており、お食事が全てとても美味しく、大変気持ちよく利用さ。",
     "reviewAverage": 4.53,
     "reviewCount": 2208,
     "address": "長野県南佐久郡南牧村野辺山217-1",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D28045%26f_flg%3DPLAN",
     "hotelMinCharge": 11495,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28045/28045.jpg",
-    "userReview": "送迎や細やかな心遣いに感謝、最高の旅行に電車で行きましたが、駅までお迎えに来てくださりありがとうございました。お部屋は広くて快適で、窓から海が見え、朝食もとてもおいしかったです。次の日は大雨の…　2026-09-19 16:58:06投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=28045\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "送迎や細やかな心遣いに感謝、最高の旅行に電車で行きましたが、駅までお迎えに来てくださりありがとうございました。お部屋は広くて快適で、窓から海が見え、朝食もとてもおいしかったです。次の日は大雨の。",
     "reviewAverage": 4.5,
     "reviewCount": 594,
     "address": "千葉県長生郡一宮町一宮10000",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D184118%26f_flg%3DPLAN",
     "hotelMinCharge": 10440,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184118/184118.jpg",
-    "userReview": "海を望む眺望と広い浴室、朝食も大満足部屋からすぐ近くで海が見えるので眺めは良かったです。天気が良ければ夕日もきれいに見えそうです。浴室が広くてゆっくりできました。朝食のビュッフェもおいしか…　2026-09-19 09:29:19投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=184118\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "海を望む眺望と広い浴室、朝食も大満足部屋からすぐ近くで海が見えるので眺めは良かったです。天気が良ければ夕日もきれいに見えそうです。浴室が広くてゆっくりできました。朝食のビュッフェもおいしか。",
     "reviewAverage": 4.39,
     "reviewCount": 239,
     "address": "沖縄県宮古島市伊良部佐和田前原1725",
@@ -322,9 +322,9 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 西武秩父駅よりアクセス。西武秩父駅よりお車で約１５分 西武秩父駅より終点バス停（定峰）から徒歩1分 関越自動車道花園ＩＣよりお車で約３０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「星空と清流の森 グランピングＩＲＯＤＯＲＩ」にチェックイン。秩父の森の中を流れる、清流に沿った古民家やグランピングに宿泊！アクティビティ体験型リゾートです。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「星空と清流の森 グランピングＩＲＯＤＯＲＩ」の湯処へ。秩父の森の中を流れる、清流に沿った古民家やグランピングに宿泊！アクティとともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「星空と清流の森 グランピングＩＲＯＤＯＲＩ」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「星空と清流の森 グランピングＩＲＯＤＯＲＩ。」にチェックイン。秩父の森の中を流れる、清流に沿った古民家やグランピングに宿泊！アクティビティ体験型リゾートです。などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「星空と清流の森 グランピングＩＲＯＤＯＲＩ。」の湯処へ。秩父の森の中を流れる、清流に沿った古民家やグランピングに宿泊！アクティとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「星空と清流の森 グランピングＩＲＯＤＯＲＩ。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -333,8 +333,8 @@ export default function Page() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「星空と清流の森 グランピングＩＲＯＤＯＲＩ」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「星空と清流の森 グランピングＩＲＯＤＯＲＩ」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「星空と清流の森 グランピングＩＲＯＤＯＲＩ。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「星空と清流の森 グランピングＩＲＯＤＯＲＩ。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ホテル 白竜湖リゾート」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
@@ -352,20 +352,20 @@ export default function Page() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「星空と清流の森 グランピングＩＲＯＤＯＲＩ」へのアクセスや移動方法について</span>
+                <span>Q. 「星空と清流の森 グランピングＩＲＯＤＯＲＩ。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「星空と清流の森 グランピングＩＲＯＤＯＲＩ」へは、西武秩父駅よりお車で約１５分 西武秩父駅より終点バス停（定峰）から徒歩1分 関越自動車道花園ＩＣよりお車で約３０分。最寄りの西武秩父駅からの経路案内も充実しています。
+                A. 「星空と清流の森 グランピングＩＲＯＤＯＲＩ。」へは、西武秩父駅よりお車で約１５分 西武秩父駅より終点バス停（定峰）から徒歩1分 関越自動車道花園ＩＣよりお車で約３０分。最寄りの西武秩父駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「星空と清流の森 グランピングＩＲＯＤＯＲＩ」の魅力や予約時のポイントは？</span>
+                <span>Q. 「星空と清流の森 グランピングＩＲＯＤＯＲＩ。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「星空と清流の森 グランピングＩＲＯＤＯＲＩ」は『秩父の森の中を流れる、清流に沿った古民家やグランピングに宿泊！アクティビティ体験型リゾート』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「星空と清流の森 グランピングＩＲＯＤＯＲＩ。」は『秩父の森の中を流れる、清流に沿った古民家やグランピングに宿泊！アクティビティ体験型リゾート。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -374,7 +374,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「星空と清流の森 グランピングＩＲＯＤＯＲＩ」と「ホテル 白竜湖リゾート」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「星空と清流の森 グランピングＩＲＯＤＯＲＩ。」と「ホテル 白竜湖リゾート」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

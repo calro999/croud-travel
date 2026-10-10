@@ -62,7 +62,7 @@ export default function FurusatoNagashimaSpalandOfficialHotelStayPage() {
           遊園地・なばなの里・湯あみの島直結！ナガシマスパーランド公式オフィシャルホテル×ふるさと納税完全攻略ガイド【2026年最新】花水木・ホテルナガシマ・オリーブ
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-09">2026年9月9日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -164,7 +164,7 @@ export default function FurusatoNagashimaSpalandOfficialHotelStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “朝食はバイキング、種類豊富で美味しい料理が多かった。部屋が和室二室で広々でした。畳の匂いがあって、慣れなくて厳しかった。他の画像やクチコミの詳細はこちらから　https://review.trav…　2026-08-31 14:56:54投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “朝食はバイキング、種類豊富で美味しい料理が多かった。部屋が和室二室で広々でした。畳の匂いがあって、慣れなくて厳しかった。他の画像や ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -206,7 +206,7 @@ export default function FurusatoNagashimaSpalandOfficialHotelStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “バイキングが豪華でナガシマ観光に最適バイキングが豪華すぎて、過去一でした。ナガシマスパーランドで遊ぶには最高すぎるホテルでした。クチコミの詳細はこちらから　https://review.tra…　2026-09-02 17:01:05投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “バイキングが豪華でナガシマ観光に最適バイキングが豪華すぎて、過去一でした。ナガシマスパーランドで遊ぶには最高すぎるホテルでした。 ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -248,7 +248,7 @@ export default function FurusatoNagashimaSpalandOfficialHotelStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “設備や食事は良いがスタッフの対応が残念ホテルマンが研修中なのか質問しても上司の方に聞いてくるのではなく返答がうやむやで遊園地の行く方向を教えて頂いたのだが全然違った。アーリーで入れたのだが結局普通…　2026-08-29 17:02:58投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “設備や食事は良いがスタッフの対応が残念ホテルマンが研修中なのか質問しても上司の方に聞いてくるのではなく返答がうやむやで遊園地の行く方向を教えて頂いたのだが全然違った。アーリーで入れたのだが結局普通… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -323,7 +323,7 @@ export default function FurusatoNagashimaSpalandOfficialHotelStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

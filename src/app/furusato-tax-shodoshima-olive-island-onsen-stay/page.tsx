@@ -39,8 +39,8 @@ export default function FurusatoArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-11T00:20:00+09:00',
-    dateModified: '2026-09-11T00:20:00+09:00',
+    datePublished: 'T00:20:00+09:00',
+    dateModified: 'T00:20:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-shodoshima-olive-island-onsen-stay',
   };
 
@@ -49,7 +49,7 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「島宿真里＜小豆島＞」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「島宿真里＜小豆島＞」へは、高松駅よりお車でフェリーを使い約100分。最寄りの高松（香川）駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「島宿真里＜小豆島＞」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「島宿真里＜小豆島＞」は『醤の香り漂う 醤油蔵通りをぬけるとそこは… 味わう、もろみの島宿。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「島宿真里＜小豆島＞」と「小豆島温泉 オリビアン小豆島 夕陽ヶ丘ホテル ＜小豆島＞」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「島宿真里＜小豆島＞」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「島宿真里＜小豆島＞」へは、高松駅よりお車でフェリーを使い約100分。最寄りの高松（香川）駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「島宿真里＜小豆島＞」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「島宿真里＜小豆島＞」は『醤の香り漂う 醤油蔵通りをぬけるとそこは… 味わう、もろみの島宿。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「島宿真里＜小豆島＞」と「小豆島温泉 オリビアン小豆島 夕陽ヶ丘ホテル ＜小豆島＞。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -203,7 +203,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価5.00点、満点評価の伝説宿。「醤油会席が一口ごとに感動の美味しさ」「お部屋、お風呂、接客すべてが最高峰で、日本の旅館の素晴らしさを実感した」と大絶賛。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価5.00点、満点評価の伝説宿。「醤油会席が一口ごとに感動の美味しさ」「お部屋、お風呂、接客すべてが最高峰で、日本の旅館の素晴らしさを実感した。」と大絶賛。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -287,7 +287,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.49点、口コミ3400件超。「露天風呂からの夕日の絶景に感動した」「お料理のバイキングがとても美味しく、広々としたお部屋でリフレッシュできた」と高評価。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.49点、口コミ3400件超。「露天風呂からの夕日の絶景に感動した」「お料理のバイキングがとても美味しく、広々としたお部屋でリフレッシュできた。」と高評価。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.29点、口コミ2900件超。「お部屋とお風呂からの海の眺めが素晴らしい」「貸切露天風呂が気持ちよく、オリーブ牛のお料理もとても美味しかった」と好評。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.29点、口コミ2900件超。「お部屋とお風呂からの海の眺めが素晴らしい。」「貸切露天風呂が気持ちよく、オリーブ牛のお料理もとても美味しかった。」と好評。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -548,7 +548,7 @@ export default function FurusatoArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「島宿真里＜小豆島＞」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「島宿真里＜小豆島＞」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「小豆島温泉 オリビアン小豆島 夕陽ヶ丘ホテル ＜小豆島＞」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「小豆島温泉 オリビアン小豆島 夕陽ヶ丘ホテル ＜小豆島＞。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -587,7 +587,7 @@ export default function FurusatoArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「島宿真里＜小豆島＞」と「小豆島温泉 オリビアン小豆島 夕陽ヶ丘ホテル ＜小豆島＞」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「島宿真里＜小豆島＞」と「小豆島温泉 オリビアン小豆島 夕陽ヶ丘ホテル ＜小豆島＞。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

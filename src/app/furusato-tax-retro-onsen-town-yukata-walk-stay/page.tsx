@@ -49,7 +49,7 @@ export default function FurusatoRetroOnsenTownYukataStayPage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「城崎温泉 料理旅館 よしはる」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「城崎温泉 料理旅館 よしはる」へは、ＪＲ 城崎温泉駅より徒歩にて３分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「城崎温泉 料理旅館 よしはる」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「城崎温泉 料理旅館 よしはる」は『楽天トラベルアワード2012受賞★口コミ5つ星！城崎温泉駅徒歩３分。貸切風呂・男女デザイン』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「城崎温泉 料理旅館 よしはる」と「渋温泉 いかり屋旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「城崎温泉 料理旅館 よしはる」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「城崎温泉 料理旅館 よしはる」へは、ＪＲ 城崎温泉駅より徒歩にて３分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「城崎温泉 料理旅館 よしはる」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「城崎温泉 料理旅館 よしはる」は『楽天トラベルアワード2012受賞★口コミ5つ星！城崎温泉駅徒歩３分。貸切風呂・男女デザイン。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「城崎温泉 料理旅館 よしはる」と「渋温泉 いかり屋旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -256,7 +256,7 @@ export default function FurusatoRetroOnsenTownYukataStayPage() {
                     千三百年の歴史を誇る信州渋温泉のメインストリート・石畳の小路沿いに佇む風情あふれる温泉宿。渋温泉名物の「九湯めぐり（厄除巡浴外湯めぐり）」の鍵を受け取り、手ぬぐいにスタンプを押しながら九つの外湯を巡る伝統体験が楽しめます。宿自慢の源泉かけ流し天然温泉は肌当たり滑らかで、身体の芯からポカポカに温まります。信州サーモンや信州牛、地元高原野菜を使った素朴で心温まる田舎会席料理が、旅情を優しく包み込みます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「温泉が素晴らしく、夏でも涼しく快適温泉が素晴らしいです。お部屋も十分満足です。真夏の8月にクーラーを使わずに寝られるほどに涼しく、朝夕は外湯めぐりにおすすめです。クチコミの詳細はこちら… 2026-08-12 06:02:36投稿 つづきは…」
+                    「温泉が素晴らしく、夏でも涼しく快適温泉が素晴らしいです。お部屋も十分満足です。真夏の8月にクーラーを使わずに寝られるほどに涼しく、朝夕は外湯めぐりにおすすめです。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -481,7 +481,7 @@ export default function FurusatoRetroOnsenTownYukataStayPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「城崎温泉 料理旅館 よしはる」は『楽天トラベルアワード2012受賞★口コミ5つ星！城崎温泉駅徒歩３分。貸切風呂・男女デザイン』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「城崎温泉 料理旅館 よしはる」は『楽天トラベルアワード2012受賞★口コミ5つ星！城崎温泉駅徒歩３分。貸切風呂・男女デザイン。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

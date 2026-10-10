@@ -34,11 +34,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1971/1971map.gif",
     "reviewCount": 881,
     "reviewAverage": 4.21,
-    "userReview": "料理も温泉も最高、スタッフの対応も親切お料理も美味しく、お風呂も最高。お部屋も掃除が行き届き、とても綺麗でした!スタッフの方もとても親切で、とても良かったです。クチコミの詳細はこちらか…　2026-09-16 18:10:28投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=1971\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "料理も温泉も最高、スタッフの対応も親切お料理も美味しく、お風呂も最高。お部屋も掃除が行き届き、とても綺麗でした!スタッフの方もとても親切で、とても良かったです。",
     "hotelMinCharge": 7700,
     "address1": "富山県",
     "address2": "下新川郡朝日町湯ノ瀬１",
-    "telephoneNo": "0765-84-8111",
+    "telephoneNo": "11",
     "access": "北陸自動車道朝日インター下車２０分。無料送迎サービスあり（北陸新幹線黒部宇奈月温泉駅、あいの風鉄道泊駅）",
     "parkingInformation": "有り　１００台　無料　北陸自動車道朝日ＩＣより１５分。",
     "nearestStation": "泊（富山）",
@@ -59,11 +59,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/106139/106139map.gif",
     "reviewCount": 614,
     "reviewAverage": 4.58,
-    "userReview": "またゆきたい設備は古いが、清潔に保たれてます。夕食とても美味しかったです。離れた所にある露天風呂も良い。蒸し風呂(サウナ)に入れます方法が内湯から入れるようになると入りやすいと思います…　2026-09-12 11:02:52投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=106139\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "またゆきたい設備は古いが、清潔に保たれてます。夕食とても美味しかったです。離れた所にある露天風呂も良い。蒸し風呂(サウナ)に入れます方法が内湯から入れるようになると入りやすいと思います。",
     "hotelMinCharge": 13530,
     "address1": "宮城県",
     "address2": "大崎市鳴子温泉赤湯34",
-    "telephoneNo": "0229-83-3052",
+    "telephoneNo": "52",
     "access": "東北新幹線『古川駅』よりＪＲ陸羽東線に乗り換え、『鳴子御殿湯駅』下車、徒歩５分。鳴子温泉からはタクシーで約5分。",
     "parkingInformation": "有り　１５台　無料　予約不要",
     "nearestStation": "鳴子御殿湯",
@@ -88,7 +88,7 @@ const hotels: any[] = [
     "hotelMinCharge": 6000,
     "address1": "北海道",
     "address2": "磯谷郡蘭越町字湯里六七三番地",
-    "telephoneNo": "0136-58-2707",
+    "telephoneNo": "07",
     "access": "ニセコ駅よりニセコバス「山の家行き」に乗車、終点下車で徒歩にて５分(夏季のみ運行)",
     "parkingInformation": "有り　５０台　無料　予約不要",
     "nearestStation": "ニセコ",
@@ -109,11 +109,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/56197/56197map.gif",
     "reviewCount": 124,
     "reviewAverage": 3.62,
-    "userReview": "夕食のボリュームが...思わずミニ会席コースで予約したっけ?と思うほど、夕ご飯が寂しかった。決して大食いではないですが、「え?これだけ?」って思いました。写真のスタンダート会席とは全然違いました。…　2026-08-31 19:22:07投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=56197\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "夕食のボリュームが...思わずミニ会席コースで予約したっけ?と思うほど、夕ご飯が寂しかった。決して大食いではないですが、「え?これだけ?」って思いました。写真のスタンダート会席とは全然違いました。",
     "hotelMinCharge": 8080,
     "address1": "山口県",
     "address2": "長門市俵山温泉湯町5139",
-    "telephoneNo": "0837-29-0231",
+    "telephoneNo": "31",
     "access": "ＪＲ美祢線　長門湯本駅よりバスにて２０分、「俵山温泉」下車、徒歩１分",
     "parkingInformation": "有り　２０台　無料　予約不要",
     "nearestStation": "長門湯本",
@@ -134,11 +134,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38986/38986map.gif",
     "reviewCount": 615,
     "reviewAverage": 4.07,
-    "userReview": "食事は満足だが説明不足、温泉はぬるめ食事内容は満足でしたが、料理の説明が無く、お品書きのみでしたので、出てくる料理の順が解らなかった。温泉は掛け流し100%でしたが、大雨せいかぬるすぎて永くは…　2026-09-18 14:41:53投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=38986\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "食事は満足だが説明不足、温泉はぬるめ食事内容は満足でしたが、料理の説明が無く、お品書きのみでしたので、出てくる料理の順が解らなかった。温泉は掛け流し100%でしたが、大雨せいかぬるすぎて永くは。",
     "hotelMinCharge": 9900,
     "address1": "長野県",
     "address2": "松本市安曇4202-6",
-    "telephoneNo": "0263-93-2331",
+    "telephoneNo": "31",
     "access": "松本ICより沢渡経由で車で60分。国道158号線→沢渡（さわんど）より県道300号線が最短ルートです。",
     "parkingInformation": "有り　約２０台　無料　先着順",
     "nearestStation": "新島々",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ」へは、北陸自動車道朝日インター下車２０分。最寄りの泊（富山）駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ」は『開湯400周年を優に超える越中四名湯にも数えられた歴史ある小川温泉 山間の一軒宿 ホテルお』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ」と「鳴子温泉郷 極上の貸切露天風呂 旅館大沼」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ。」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ。」へは、北陸自動車道朝日インター下車２０分。最寄りの泊（富山）駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ。」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ。」は『開湯400周年を優に超える越中四名湯にも数えられた歴史ある小川温泉 山間の一軒宿 ホテルお。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ。」と「鳴子温泉郷 極上の貸切露天風呂 旅館大沼。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -585,9 +585,9 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 泊（富山）駅よりアクセス。北陸自動車道朝日インター下車２０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ」にチェックイン。開湯400周年を優に超える越中四名湯にも数えられた歴史ある小川温泉 山間の一軒宿 ホテルおがわなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ」の湯処へ。開湯400周年を優に超える越中四名湯にも数えられた歴史ある小川温泉 山とともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ。」にチェックイン。開湯400周年を優に超える越中四名湯にも数えられた歴史ある小川温泉 山間の一軒宿 ホテルおがわなどの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ。」の湯処へ。開湯400周年を優に超える越中四名湯にも数えられた歴史ある小川温泉 山とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -596,9 +596,9 @@ export default function FeatureDetailPage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「鳴子温泉郷 極上の貸切露天風呂 旅館大沼」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「鳴子温泉郷 極上の貸切露天風呂 旅館大沼。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -615,20 +615,20 @@ export default function FeatureDetailPage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ」へのアクセスや移動方法について</span>
+                <span>Q. 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ」へは、北陸自動車道朝日インター下車２０分。最寄りの泊（富山）駅からの経路案内も充実しています。
+                A. 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ。」へは、北陸自動車道朝日インター下車２０分。最寄りの泊（富山）駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ」の魅力や予約時のポイントは？</span>
+                <span>Q. 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ」は『開湯400周年を優に超える越中四名湯にも数えられた歴史ある小川温泉 山間の一軒宿 ホテルお』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ。」は『開湯400周年を優に超える越中四名湯にも数えられた歴史ある小川温泉 山間の一軒宿 ホテルお。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -637,7 +637,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ」と「鳴子温泉郷 極上の貸切露天風呂 旅館大沼」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ。」と「鳴子温泉郷 極上の貸切露天風呂 旅館大沼。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

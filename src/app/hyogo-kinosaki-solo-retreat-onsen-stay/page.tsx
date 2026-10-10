@@ -37,8 +37,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-13T00:00:00+09:00',
-    dateModified: '2026-09-13T00:00:00+09:00',
+    datePublished: 'T00:00:00+09:00',
+    dateModified: 'T00:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/hyogo-kinosaki-solo-retreat-onsen-stay',
   };
 
@@ -79,7 +79,7 @@ export default function ArticlePage() {
             【城崎温泉ひとり旅・七田外湯めぐりおこもり】大谿川柳並木・浴衣散策・松葉ガニ＆但馬牛！千三百年続く文学と名湯の街厳選3宿
           </h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
-            更新日：2026年9月13日 | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
+            更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -87,7 +87,7 @@ export default function ArticlePage() {
               柳並木が揺れる大谿川と、からんころんと響く下駄の音。浴衣を着て七つの外湯を気ままに巡り、日本海の幸と但馬牛に酔いしれるソロトリップ
             </p>
             <p>
-              開湯1300年の歴史を持ち、志賀直哉をはじめ文豪たちに愛された兵庫県・城崎温泉。「駅は玄関、道路は廊下、宿は客室、外湯は大浴場」という言葉通り、街全体が一つの大きな旅館のような温もりに満ちており、一人旅でも気兼ねなく街歩きと湯めぐりを楽しめます。
+              開湯1300年の歴史を持ち、志賀直哉をはじめ文豪たちに愛された兵庫県・城崎温泉。「駅は玄関、道路は廊下、宿は客室、外湯は大浴場。」という言葉通り、街全体が一つの大きな旅館のような温もりに満ちており、一人旅でも気兼ねなく街歩きと湯めぐりを楽しめます。
             </p>
             <p>
               外湯めぐりの中心に位置し昔ながらの温かいもてなしが心地よい宿から、絶品但馬牛や旬の松葉ガニを贅沢に味わえる美食宿まで、楽天トラベル公式APIより直接取得した最新データをもとに厳選紹介します。

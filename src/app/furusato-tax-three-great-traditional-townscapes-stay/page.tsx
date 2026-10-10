@@ -35,7 +35,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108991/108991map.gif",
     "reviewCount": 162,
     "reviewAverage": 4.9,
-    "userReview": "全ての料理が美味しく大満足料理が全て美味しかったです他の画像やクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/108…",
+    "userReview": "全ての料理が美味しく大満足料理が全て美味しかったです他の画像や。",
     "hotelMinCharge": 23050,
     "address1": "岡山県",
     "address2": "倉敷市中央1-3-15",
@@ -65,7 +65,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29539/29539map.gif",
     "reviewCount": 1791,
     "reviewAverage": 4.15,
-    "userReview": "部屋に入ってホッと落ち着くホテル部屋グレードアップして頂き初めての川越散策、快適に過ごせました。部屋へ入るなり広かったせいか落ち着く感じでした。角部屋で騒音もありませんでした。また川越散策する際は…",
+    "userReview": "部屋に入ってホッと落ち着くホテル部屋グレードアップして頂き初めての川越散策、快適に過ごせました。部屋へ入るなり広かったせいか落ち着く感じでした。角部屋で騒音もありませんでした。また川越散策する際は。",
     "hotelMinCharge": 5143,
     "address1": "埼玉県",
     "address2": "川越市新富町1-22",
@@ -95,11 +95,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147937/147937map.gif",
     "reviewCount": 576,
     "reviewAverage": 4.37,
-    "userReview": "観光地や飲食店が近く、買い物も便利観光名所、飲食店、スーパー、コンビニが近くて便利。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hote…",
+    "userReview": "観光地や飲食店が近く、買い物も便利観光名所、飲食店、スーパー、コンビニが近くて便利。",
     "hotelMinCharge": 6750,
     "address1": "広島県",
     "address2": "竹原市中央4-2-18",
-    "telephoneNo": "0846-22-1355",
+    "telephoneNo": "55",
     "access": "ＪＲ竹原駅すぐそば。　広島空港から竹原駅方面行き乗合バスで竹原駅前まで約25分、駅前バス停すぐそば。",
     "parkingInformation": "８０台駐車可能。宿泊者無料。　※場内でイベント開催時は駐車不可の場合有り。",
     "nearestStation": "竹原",
@@ -181,7 +181,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「料理旅館 鶴形」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「料理旅館 鶴形」へは、倉敷駅から徒歩で約15分／お車で約5分。最寄りの倉敷駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「料理旅館 鶴形」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「料理旅館 鶴形」は『1744年創建の商家に逗留し瀬戸内の新鮮な魚、旬の食材を使った料理と倉敷の風情をお楽しみ下』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「料理旅館 鶴形」と「川越プリンスホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「料理旅館 鶴形」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「料理旅館 鶴形」へは、倉敷駅から徒歩で約15分／お車で約5分。最寄りの倉敷駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「料理旅館 鶴形」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「料理旅館 鶴形」は『1744年創建の商家に逗留し瀬戸内の新鮮な魚、旬の食材を使った料理と倉敷の風情をお楽しみ下。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「料理旅館 鶴形」と「川越プリンスホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* リードセクション */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-4">
@@ -510,7 +510,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「料理旅館 鶴形」は『1744年創建の商家に逗留し瀬戸内の新鮮な魚、旬の食材を使った料理と倉敷の風情をお楽しみ下』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「料理旅館 鶴形」は『1744年創建の商家に逗留し瀬戸内の新鮮な魚、旬の食材を使った料理と倉敷の風情をお楽しみ下。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

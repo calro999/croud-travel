@@ -48,8 +48,8 @@ export default function HigashiyamaWinterPage() {
         "headline": "【11・12月会津東山温泉の初雪と武家文化】雪化粧の湯川渓谷露天と会津地鶏・極上馬刺し会席の宿5選",
         "description": "11月下旬の初雪から12月の白銀世界へと移ろう福島・会津の奥座敷「東山温泉」。開湯1300年、湯川の渓流沿いに佇む風情ある木造建築群と渓谷美。雪化粧した山肌を望む雪見露天風呂と、会津漆器でいただく本場極上馬刺し・会津地鶏・郷土料理こづゆ、そして全国新酒鑑評会金賞の会津美酒を堪能する冬旅ガイド。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
-        "datePublished": "2026-09-27T00:00:00+09:00",
-        "dateModified": "2026-09-27T00:00:00+09:00",
+        "datePublished": "T00:00:00+09:00",
+        "dateModified": "T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

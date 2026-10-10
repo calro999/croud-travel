@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/organic-citrus-yuzu-mikan-aroma-spa-stay"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D128473%26f_flg%3DPLAN",
     "hotelMinCharge": 5750,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/128473/128473.jpg",
-    "userReview": "源泉掛け流しの湯と親切な接客に大満足素泊りで宿泊しました。まずは源泉掛け流しの湯が良いですね。貸切風呂の利用もできて大満足。ご家族経営かと思いますが、皆さんとても親切で接客も素晴らしい。次回は食事…　2026-09-10 01:46:02投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=128473\" class=\"3click\">つづ��はこちら</a>",
+    "userReview": "源泉掛け流しの湯と親切な接客に大満足素泊りで宿泊しました。まずは源泉掛け流しの湯が良いですね。貸切風呂の利用もできて大満足。ご家族経営かと思いますが、皆さんとても親切で接客も素晴らしい。次回は食事。",
     "reviewAverage": 4.7,
     "reviewCount": 91,
     "address": "山形県最上郡最上町大堀990",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D37898%26f_flg%3DPLAN",
     "hotelMinCharge": 8250,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/37898/37898.jpg",
-    "userReview": "榊原温泉を満喫榊原温泉満喫しました。混雑なくゆっくり温泉楽しみました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voi…　2026-09-16 18:52:21投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=37898\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "榊原温泉を満喫榊原温泉満喫しました。混雑なくゆっくり温泉楽しみました。",
     "reviewAverage": 3.97,
     "reviewCount": 769,
     "address": "三重県津市榊原町6010",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D29364%26f_flg%3DPLAN",
     "hotelMinCharge": 10000,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29364/29364.jpg",
-    "userReview": "設備が老朽化し清潔感に欠ける残念な環境部屋のトイレ便座はガタつき 風呂場の扉は壊れて閉まらない 洗面台の下に風呂のフタが敷かれていたあちこちにゴキリキャップが設置されて 冷蔵庫下の床は捲れ上が…　2026-08-13 05:19:47投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=29364\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "落ち着いた心地よい空間の中、温かい温泉とおいしいお料理で日頃の疲れを癒やすことができました。",
     "reviewAverage": 4.2,
     "reviewCount": 80,
     "address": "茨城県笠間市笠間14-1",

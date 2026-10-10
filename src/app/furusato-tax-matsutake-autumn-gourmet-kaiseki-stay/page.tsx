@@ -49,7 +49,7 @@ export default function FurusatoMatsutakeAutumnGourmetStayPage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「別所温泉 観音様となりの宿 かしわや本店」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「別所温泉 観音様となりの宿 かしわや本店」へは、上田交通 別所温泉駅より無料シャトルバスが運行。最寄りの別所温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「別所温泉 観音様となりの宿 かしわや本店」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「別所温泉 観音様となりの宿 かしわや本店」は『～創業百余年。美肌温泉と館内全て畳敷きの情緒漂う歴史感じるやすらぎの宿～』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「別所温泉 観音様となりの宿 かしわや本店」と「丹波篠山 近又」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「別所温泉 観音様となりの宿 かしわや本店。」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「別所温泉 観音様となりの宿 かしわや本店。」へは、上田交通 別所温泉駅より無料シャトルバスが運行。最寄りの別所温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「別所温泉 観音様となりの宿 かしわや本店。」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「別所温泉 観音様となりの宿 かしわや本店。」は『～創業百余年。美肌温泉と館内全て畳敷きの情緒漂う歴史感じるやすらぎの宿～。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「別所温泉 観音様となりの宿 かしわや本店。」と「丹波篠山 近又」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -195,7 +195,7 @@ export default function FurusatoMatsutakeAutumnGourmetStayPage() {
                     信州最古の温泉地・別所温泉の北向観音の隣に佇み、百有余年の歴史を刻む数寄屋造りの格調高い老舗名門宿。秋には周辺の山々で採れる良質な信州松茸をふんだんに盛り込んだ「松茸会席」が目玉で、炭火焼きや土瓶蒸し、信州牛とのすき焼きなど贅を尽くした料理が食通を魅了します。全館畳敷きの心地よい空間、四季の彩り豊かな日本庭園を望む客室、ほのかに硫黄の香る弱アルカリ性単純硫黄泉の大浴場や檜露天風呂など、純和風の極上のおもてなしに心から癒やされる秋旅が叶います。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「食事も接客も最高!満室にも関わらず何度か利用した大浴場はいつも貸し切り状態でとてもリラックスできました。眺めのいい個室で朝夕美味しいお料理も堪能して、ラウンジでは日本酒やワインの試飲やコーヒーもい… 2026-08-13 00:01:57投…」
+                    「食事も接客も最高!満室にも関わらず何度か利用した大浴場はいつも貸し切り状態でとてもリラックスできました。眺めのいい個室で朝夕美味しいお料理も堪能して、ラウンジでは日本酒やワインの試飲やコーヒーもい… 投。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -256,7 +256,7 @@ export default function FurusatoMatsutakeAutumnGourmetStayPage() {
                     日本農業遺産・丹波篠山の城下町に位置し、慶長十四年創業・四百年以上の歴史を誇る国の登録有形文化財の料理旅館。松茸の最高級ブランドとして古来皇室や貴族にも献上されてきた「丹波松茸」を本場で味わう至福の体験を提供。秋には芳醇な薫香が漂う丹波松茸尽くし会席や名物ぼたん鍋との競演が楽しめます。職人の技が息づく繊細な料理と歴史ある佇まい、丹波篠山城跡や古い町並み散策の拠点としても最適で、日本の食文化の頂点を体感できます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「篠山の由緒ある旅館400年の老舗旅館。篠山城に近く一番にぎやかな通りに位置しており、歴史ある街歩きを楽しめました。夕食のボタン鍋はしっ地元のお野菜たくさんで、しっかり味噌味でしたが胃にももたれずと… 2026-06-12 21:25:02投…」
+                    「篠山の由緒ある旅館400年の老舗旅館。篠山城に近く一番にぎやかな通りに位置しており、歴史ある街歩きを楽しめました。夕食のボタン鍋はしっ地元のお野菜たくさんで、しっかり味噌味でしたが胃にももたれずと… 投。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -317,7 +317,7 @@ export default function FurusatoMatsutakeAutumnGourmetStayPage() {
                     京都の奥座敷・湯の花温泉の豊かな自然に包まれた、大人の静かな休日にふさわしい数寄屋風の名旅館。秋の特別献立では、丹波の山々で採れる朝獲れ地松茸を惜しみなく使用した京会席が登場。ソムリエが厳選するオーストリアワインとのペアリングも提案され、洗練された美食の時間を過ごせます。広々とした露天風呂や専用露天付き客室、ライブラリーラウンジなど上質なファシリティを備え、古都の喧騒を離れて秋の豊かな味覚と温泉に浸る贅沢な滞在が叶います。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「障子が明るく早起きに、テーブルも欲しい部屋の障子が明るくて、朝早く目が覚める。部屋にテーブルが欲しい。クチコミの詳細はこちらから 2026-08-10 17:12:27投稿 つづきはこちら…」
+                    「障子が明るく早起きに、テーブルも欲しい部屋の障子が明るくて、朝早く目が覚める。部屋にテーブルが欲しい。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -438,9 +438,9 @@ export default function FurusatoMatsutakeAutumnGourmetStayPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 別所温泉駅よりアクセス。上田交通 別所温泉駅より無料シャトルバスが運行。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「別所温泉 観音様となりの宿 かしわや本店」にチェックイン。～創業百余年。美肌温泉と館内全て畳敷きの情緒漂う歴史感じるやすらぎの宿～などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「別所温泉 観音様となりの宿 かしわや本店」の湯処へ。～創業百余年。美肌温泉と館内全て畳敷きの情緒漂う歴史感じるやすらぎの宿とともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「別所温泉 観音様となりの宿 かしわや本店」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「別所温泉 観音様となりの宿 かしわや本店。」にチェックイン。～創業百余年。美肌温泉と館内全て畳敷きの情緒漂う歴史感じるやすらぎの宿～などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「別所温泉 観音様となりの宿 かしわや本店。」の湯処へ。～創業百余年。美肌温泉と館内全て畳敷きの情緒漂う歴史感じるやすらぎの宿とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「別所温泉 観音様となりの宿 かしわや本店。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -449,8 +449,8 @@ export default function FurusatoMatsutakeAutumnGourmetStayPage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「別所温泉 観音様となりの宿 かしわや本店」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「別所温泉 観音様となりの宿 かしわや本店」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「別所温泉 観音様となりの宿 かしわや本店。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「別所温泉 観音様となりの宿 かしわや本店。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「丹波篠山 近又」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
@@ -468,20 +468,20 @@ export default function FurusatoMatsutakeAutumnGourmetStayPage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「別所温泉 観音様となりの宿 かしわや本店」へのアクセスや移動方法について</span>
+                <span>Q. 「別所温泉 観音様となりの宿 かしわや本店。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「別所温泉 観音様となりの宿 かしわや本店」へは、上田交通 別所温泉駅より無料シャトルバスが運行。最寄りの別所温泉駅からの経路案内も充実しています。
+                A. 「別所温泉 観音様となりの宿 かしわや本店。」へは、上田交通 別所温泉駅より無料シャトルバスが運行。最寄りの別所温泉駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「別所温泉 観音様となりの宿 かしわや本店」の魅力や予約時のポイントは？</span>
+                <span>Q. 「別所温泉 観音様となりの宿 かしわや本店。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「別所温泉 観音様となりの宿 かしわや本店」は『～創業百余年。美肌温泉と館内全て畳敷きの情緒漂う歴史感じるやすらぎの宿～』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「別所温泉 観音様となりの宿 かしわや本店。」は『～創業百余年。美肌温泉と館内全て畳敷きの情緒漂う歴史感じるやすらぎの宿～。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -490,7 +490,7 @@ export default function FurusatoMatsutakeAutumnGourmetStayPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「別所温泉 観音様となりの宿 かしわや本店」と「丹波篠山 近又」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「別所温泉 観音様となりの宿 かしわや本店。」と「丹波篠山 近又」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/luxury-chartered-yacht-cruising-resort-stay"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D108118%26f_flg%3DPLAN",
     "hotelMinCharge": 9900,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108118/108118.jpg",
-    "userReview": "何度泊まっても最高、本当におすすめ!もう何回目かわからないくらい泊まってます!最高の一言に尽きます。全てが素晴らしい本当におすすめです。他の画像やクチコミの詳細はこちらから　https…　2026-09-15 12:10:47投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=108118\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "何度泊まっても最高、本当におすすめ!もう何回目かわからないくらい泊まってます!最高の一言に尽きます。全てが素晴らしい本当におすすめです。",
     "reviewAverage": 4.46,
     "reviewCount": 1208,
     "address": "兵庫県洲本市小路谷1277-5",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D183875%26f_flg%3DPLAN",
     "hotelMinCharge": 4850,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183875/183875.jpg",
-    "userReview": "温泉に浸かって良い一日を過ごせた久々にゆったりと温泉に浸かり、のんびりした気持ちになり、とても良い一日を過ごせました。クチコミの詳細はこちらから　https://review.travel.r…　2026-09-15 13:16:26投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=183875\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "温泉に浸かって良い一日を過ごせた久々にゆったりと温泉に浸かり、のんびりした気持ちになり、とても良い一日を過ごせました。",
     "reviewAverage": 4.01,
     "reviewCount": 170,
     "address": "北海道小樽市朝里川温泉2-670",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D54978%26f_flg%3DPLAN",
     "hotelMinCharge": 15500,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/54978/54978.jpg",
-    "userReview": "中禅寺湖の絶景と2種類の温泉に癒される中禅寺湖の眼の前で、眺めが最高!朝起きたら朝日が湖に、光って癒されました。温泉も硫黄泉と肌によい弱アルカリ泉と、2種類あり、ゆったりできました。地元の野菜のせ…　2026-09-12 17:19:44投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=54978\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "中禅寺湖の絶景と2種類の温泉に癒される中禅寺湖の眼の前で、眺めが最高!朝起きたら朝日が湖に、光って癒されました。温泉も硫黄泉と肌によい弱アルカリ泉と、2種類あり、ゆったりできました。地元の野菜のせ。",
     "reviewAverage": 4.64,
     "reviewCount": 1291,
     "address": "栃木県日光市中宮祠2480",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D17916%26f_flg%3DPLAN",
     "hotelMinCharge": 5500,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/17916/17916.jpg",
-    "userReview": "朝食の種類が豊富で、部屋もゆったり快適夜は、有名店のチキン南蛮を食べたかったので、朝食付きのプランにしました。ツインのお部屋は、ゆったりした広さで良かったです部屋の鍵が2つ、又…　2026-09-19 14:11:41投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=17916\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "朝食の種類が豊富で、部屋もゆったり快適夜は、有名店のチキン南蛮を食べたかったので、朝食付きのプランにしました。ツインのお部屋は、ゆったりした広さで良かったです部屋の鍵が2つ、又。",
     "reviewAverage": 4.17,
     "reviewCount": 2657,
     "address": "宮崎県宮崎市松山1-1-1",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D187181%26f_flg%3DPLAN",
     "hotelMinCharge": 6500,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/187181/187181.jpg",
-    "userReview": "6回目の利用、サウナ後のビールと食事が最高今回6回目の利用です、相変わらず居心地が良くてスタッフも親切 風呂の脱衣所のロッカーも新しいのが納入されていて良かった(前回は鍵の無いロッカーが多くて難儀…　2026-09-18 16:26:37投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=187181\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "6回目の利用、サウナ後のビールと食事が最高今回6回目の利用です、相変わらず居心地が良くてスタッフも親切 風呂の脱衣所のロッカーも新しいのが納入されていて良かった(前回は鍵の無いロッカーが多くて難儀。",
     "reviewAverage": 4.09,
     "reviewCount": 151,
     "address": "富山県砺波市庄川町庄4984-1",
@@ -365,7 +365,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「洲本温泉 海のホテル 島花 ＜淡路島＞」は『マリーナに臨む海辺のホテルで心と身体を満たすリゾートステイ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「洲本温泉 海のホテル 島花 ＜淡路島＞」は『マリーナに臨む海辺のホテルで心と身体を満たすリゾートステイ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

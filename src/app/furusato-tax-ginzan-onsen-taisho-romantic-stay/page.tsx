@@ -62,7 +62,7 @@ export default function FurusatoGinzanOnsenRomanticStayPage() {
           ガス灯揺らめく大正ロマンの木造楼閣！銀山温泉の川沿い名門旅館＆極上尾花沢牛会席×ふるさと納税完全攻略ガイド【2026年最新】能登屋・銀山荘・古勢起屋
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-10">2026年9月10日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -206,7 +206,7 @@ export default function FurusatoGinzanOnsenRomanticStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “他の画像やクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/111234?reviewId=33123479253845　2026-09-04 21:04:07投稿”
+              <strong>宿泊者の声:</strong> “他の画像や”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -243,7 +243,7 @@ export default function FurusatoGinzanOnsenRomanticStayPage() {
           <div className="hotel-special-wrapper">
             <div className="bg-amber-50 border-l-4 border-amber-600 p-4 rounded-r-xl mb-6 text-sm text-amber-950">
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
-              『2011年度・お客様が選んだ4つ星以上の人気宿』大正浪漫の雪景色・銀山荘の露天風呂もご利用可能
+              『2011年度・お客様が選んだ4つ星以上の人気宿。』大正浪漫の雪景色・銀山荘の露天風呂もご利用可能
             </div>
           </div>
           <div className="user-review-wrapper">
@@ -323,7 +323,7 @@ export default function FurusatoGinzanOnsenRomanticStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

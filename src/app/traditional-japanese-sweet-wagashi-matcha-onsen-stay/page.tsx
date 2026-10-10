@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/traditional-japanese-sweet-wagashi-matcha-onsen-stay"
   };
 
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D7027%26f_flg%3DPLAN",
     "hotelMinCharge": 17600,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7027/7027.jpg",
-    "userReview": "趣ある建物と絶品の生ガキに大満足建物は非常に趣があり、興味を持てました。お部屋も昔ながらの雰囲気でよかったです。窓からは天橋立が見えました。ちょっと霞んでいましたが、冬ならもっとはっきり見えるかも…　2026-08-01 09:40:26投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=7027\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "趣ある建物と絶品の生ガキに大満足建物は非常に趣があり、興味を持てました。お部屋も昔ながらの雰囲気でよかったです。窓からは天橋立が見えました。ちょっと霞んでいましたが、冬ならもっとはっきり見えるかも。",
     "reviewAverage": 4.55,
     "reviewCount": 202,
     "address": "京都府宮津市島崎2039-4",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D29093%26f_flg%3DPLAN",
     "hotelMinCharge": 22000,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29093/29093.jpg",
-    "userReview": "食事と抹茶のおもてなしは最高、お風呂は修繕希望宿に着いてから、抹茶のおもてなし、食事は大変美味しく、出来立てを順番に出していただける丁寧な夕食でした。お風呂は部屋と借り切り、大浴場と沢山ありま…　2026-09-13 10:00:01投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=29093\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "食事と抹茶のおもてなしは最高、お風呂は修繕希望宿に着いてから、抹茶のおもてなし、食事は大変美味しく、出来立てを順番に出していただける丁寧な夕食でした。お風呂は部屋と借り切り、大浴場と沢山ありま。",
     "reviewAverage": 4.58,
     "reviewCount": 311,
     "address": "石川県能美市緑が丘5-31-40",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D108973%26f_flg%3DPLAN",
     "hotelMinCharge": 11000,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108973/108973.jpg",
-    "userReview": "川の音に癒やされ、スタッフの心遣いに感謝周りには何も無いですが、何も無いがあります!のんびりしたいなら最適です。館内はスタッフの方々が本当に親切で、カフェインが苦手だと伝えると麦茶を出して…　2026-09-17 14:09:15投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=108973\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "川の音に癒やされ、スタッフの心遣いに感謝周りには何も無いですが、何も無いがあります!のんびりしたいなら最適です。館内はスタッフの方々が本当に親切で、カフェインが苦手だと伝えると麦茶を出して。",
     "reviewAverage": 4.77,
     "reviewCount": 458,
     "address": "栃木県那須塩原市黒磯402-2",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D10714%26f_flg%3DPLAN",
     "hotelMinCharge": 6600,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10714/10714.jpg",
-    "userReview": "温泉も食事も接客も素晴らしく大満足初めての湯村温泉でしたが温泉、食事、スタッフさんの対応等、どれもとても素晴らしく大変良かったです。(食事時には女将さんの丁寧なご挨拶もありました!)帰りに気付…　2026-09-19 22:28:17投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=10714\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "温泉も食事も接客も素晴らしく大満足初めての湯村温泉でしたが温泉、食事、スタッフさんの対応等、どれもとても素晴らしく大変良かったです。(食事時には女将さんの丁寧なご挨拶もありました!)帰りに気付。",
     "reviewAverage": 4.57,
     "reviewCount": 1194,
     "address": "兵庫県美方郡新温泉町湯1269",

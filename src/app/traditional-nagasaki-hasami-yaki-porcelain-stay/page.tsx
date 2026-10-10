@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【波佐見焼のモダン器美学】お洒落なうつわで味わう長崎創作フレンチ＆嬉野・雲仙温泉宿5選",
     "description": "若手クリエイターにも大人気のモダンな伝統陶磁器「波佐見焼（はさみやき）」！洗練された器に美しく盛り付けられた創作フレンチや長崎和牛、そして嬉野・雲仙の名湯に心癒やされるスタイリッシュな温泉旅。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-    "datePublished": "2026-03-27T00:00:00+09:00",
-    "dateModified": "2026-03-27T00:00:00+09:00",
+    "datePublished": "T00:00:00+09:00",
+    "dateModified": "T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",
@@ -153,7 +153,7 @@ export default function FeaturePage() {
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「嬉野温泉 旅館 吉田屋」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「嬉野温泉 旅館 吉田屋」へは、博多駅～70分/長崎空港～車40分/SAGAアリーナ～車50分/御船山らかんの湯～車20分/ハウステンボス～車40分。最寄りの武雄温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「嬉野温泉 旅館 吉田屋」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「嬉野温泉 旅館 吉田屋」は『新大浴場露天風呂＆テラス＆客室が誕生！日本宿TOP49・アワード8年連続受賞★ミシュラン３』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「嬉野温泉 旅館 吉田屋」と「嬉野温泉 割烹旅館 鯉登苑」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「嬉野温泉 旅館 吉田屋」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「嬉野温泉 旅館 吉田屋」へは、博多駅～70分/長崎空港～車40分/SAGAアリーナ～車50分/御船山らかんの湯～車20分/ハウステンボス～車40分。最寄りの武雄温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「嬉野温泉 旅館 吉田屋」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「嬉野温泉 旅館 吉田屋」は『新大浴場露天風呂＆テラス＆客室が誕生！日本宿TOP49・アワード8年連続受賞★ミシュラン３。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「嬉野温泉 旅館 吉田屋」と「嬉野温泉 割烹旅館 鯉登苑」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -380,7 +380,7 @@ export default function FeaturePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「嬉野温泉 旅館 吉田屋」は『新大浴場露天風呂＆テラス＆客室が誕生！日本宿TOP49・アワード8年連続受賞★ミシュラン３』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「嬉野温泉 旅館 吉田屋」は『新大浴場露天風呂＆テラス＆客室が誕生！日本宿TOP49・アワード8年連続受賞★ミシュラン３。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

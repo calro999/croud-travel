@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【清流せせらぎデッキ】川の音を間近に聴くプライベート露天風呂！癒やしの渓流隠れ宿5選",
     "description": "客室の専用ウッドデッキから清流を間近に望み、せせらぎの音と澄んだ空気に包まれるプライベート露天風呂。誰にも邪魔されない離れの客室で、大自然のマイナスイオンに癒やされる贅沢な休日を。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-    "datePublished": "2026-03-27T00:00:00+09:00",
-    "dateModified": "2026-03-27T00:00:00+09:00",
+    "datePublished": "T00:00:00+09:00",
+    "dateModified": "T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",
@@ -153,7 +153,7 @@ export default function FeaturePage() {
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「箱根湯本温泉 離れ山家荘」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「箱根湯本温泉 離れ山家荘」へは、箱根湯本駅より徒歩にて約１０分。最寄りの箱根湯本駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「箱根湯本温泉 離れ山家荘」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「箱根湯本温泉 離れ山家荘」は『全室離れお部屋食の宿』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「箱根湯本温泉 離れ山家荘」と「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「箱根湯本温泉 離れ山家荘」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「箱根湯本温泉 離れ山家荘」へは、箱根湯本駅より徒歩にて約１０分。最寄りの箱根湯本駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「箱根湯本温泉 離れ山家荘」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「箱根湯本温泉 離れ山家荘」は『全室離れお部屋食の宿』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「箱根湯本温泉 離れ山家荘」と「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -350,7 +350,7 @@ export default function FeaturePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「箱根湯本温泉 離れ山家荘」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「箱根湯本温泉 離れ山家荘」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -389,7 +389,7 @@ export default function FeaturePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「箱根湯本温泉 離れ山家荘」と「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「箱根湯本温泉 離れ山家荘」と「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

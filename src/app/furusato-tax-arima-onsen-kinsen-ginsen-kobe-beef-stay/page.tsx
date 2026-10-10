@@ -44,7 +44,7 @@ export default function FurusatoTaxArticle() {
     <main className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「有馬温泉 兵衛向陽閣」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「有馬温泉 兵衛向陽閣」へは、神戸より電車で約３０分／神戸電鉄有馬温泉駅・バス有馬温泉駅より徒歩約６分／阪神高速道路北神戸線有馬口出口より約５分。最寄りの有馬温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「有馬温泉 兵衛向陽閣」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「有馬温泉 兵衛向陽閣」は『創業700年の老舗旅館。有馬温泉の高台に位置し、有���最大級の悠々とした三大浴場でお寛ぎ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「有馬温泉 兵衛向陽閣」と「有馬温泉 月光園 鴻朧館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「有馬温泉 兵衛向陽閣」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「有馬温泉 兵衛向陽閣」へは、神戸より電車で約３０分／神戸電鉄有馬温泉駅・バス有馬温泉駅より徒歩約６分／阪神高速道路北神戸線有馬口出口より約５分。最寄りの有馬温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「有馬温泉 兵衛向陽閣」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「有馬温泉 兵衛向陽閣」は『創業700年の老舗旅館。有馬温泉の高台に位置し、有���最大級の悠々とした三大浴場でお寛ぎ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「有馬温泉 兵衛向陽閣」と「有馬温泉 月光園 鴻朧館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       {/* ヒーローヘッダー */}
       <header className="relative bg-gradient-to-br from-stone-900 via-amber-950 to-stone-900 text-amber-50 py-16 px-4 md:px-8 border-b border-amber-900/50 shadow-2xl">
@@ -185,7 +185,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.55点、口コミ2500件超。「三つの大浴場の金泉がどれも最高で大満足」「お料理の神戸牛が驚くほど柔らかく美味しかった」と世代を問わず絶賛されています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.55点、口コミ2500件超。「三つの大浴場の金泉がどれも最高で大満足」「お料理の神戸牛が驚くほど柔らかく美味しかった。」と世代を問わず絶賛されています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -279,7 +279,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.55点、口コミ1600件超。「部屋や大浴場からの落葉山の紅葉が息をのむ美しさだった」「料理が一品一品繊細で感動した」とリピーターが多数。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.55点、口コミ1600件超。「部屋や大浴場からの落葉山の紅葉が息をのむ美しさだった。」「料理が一品一品繊細で感動した」とリピーターが多数。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -373,7 +373,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.44点。「唯一無二のノスタルジックな雰囲気に魅了された」「金泉のお湯の濃さと但馬牛の美味しさは他では味わえない」と熱狂的なファンに支持されています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.44点。「唯一無二のノスタルジックな雰囲気に魅了された。」「金泉のお湯の濃さと但馬牛の美味しさは他では味わえない。」と熱狂的なファンに支持されています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -573,7 +573,7 @@ export default function FurusatoTaxArticle() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「有馬温泉 兵衛向陽閣」は『創業700年の老舗旅館。有馬温泉の高台に位置し、有���最大級の悠々とした三大浴場でお寛ぎ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「有馬温泉 兵衛向陽閣」は『創業700年の老舗旅館。有馬温泉の高台に位置し、有���最大級の悠々とした三大浴場でお寛ぎ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

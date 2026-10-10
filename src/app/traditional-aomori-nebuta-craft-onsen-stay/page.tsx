@@ -34,11 +34,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/142919/142919map.gif",
     "reviewCount": 376,
     "reviewAverage": 4.78,
-    "userReview": "源泉の真上の温泉と食事が最高、また伺いたい露天風呂好きの私ですが、源泉の真上に風呂があり、屋内温泉でしたが、その室内空間がなぜか居心地良く大変気に入りました。食事も良かったです。周りの散策も素敵で…　2026-09-16 13:21:00投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=142919\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "源泉の真上の温泉と食事が最高、また伺いたい露天風呂好きの私ですが、源泉の真上に風呂があり、屋内温泉でしたが、その室内空間がなぜか居心地良く大変気に入りました。食事も良かったです。周りの散策も素敵で。",
     "hotelMinCharge": 20900,
     "address1": "青森県",
     "address2": "十和田市奥瀬蔦野湯1",
-    "telephoneNo": "0176-74-2311",
+    "telephoneNo": "11",
     "access": "七戸十和田駅よりお車にて１時間／青森駅よりお車にて1時間20分",
     "parkingInformation": "有り　50台　無料　予約不要",
     "nearestStation": "青森",
@@ -59,7 +59,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/41009/41009map.gif",
     "reviewCount": 1535,
     "reviewAverage": 4.41,
-    "userReview": "歴史ある建物と温泉に癒やされ、次は数泊したい酸ヶ湯温泉はお風呂だけでも最高ですが、歴史を積んだ建物の中にいるだけで体の中が清められていくのを感じます。ピカピカに磨き上げられた廊下は裸足で歩きたいく…　2026-09-18 15:40:17投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=41009\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "歴史ある建物と温泉に癒やされ、次は数泊したい酸ヶ湯温泉はお風呂だけでも最高ですが、歴史を積んだ建物の中にいるだけで体の中が清められていくのを感じます。ピカピカに磨き上げられた廊下は裸足で歩きたいく。",
     "hotelMinCharge": 15675,
     "address1": "青森県",
     "address2": "青森市荒川字南荒川山国有林小字酸湯沢50",
@@ -84,7 +84,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7026/7026map.gif",
     "reviewCount": 515,
     "reviewAverage": 4.2,
-    "userReview": "親切な接客と食事に満足、ドライヤーは不足スタッフの方もとても親切でご飯もとてもおいしかったお風呂のドライヤーが1つしかないのはちょい辛い。クチコミの詳細はこちらから　https…　2026-09-16 04:59:24投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=7026\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "親切な接客と食事に満足、ドライヤーは不足スタッフの方もとても親切でご飯もとてもおいしかったお風呂のドライヤーが1つしかないのはちょい辛い。",
     "hotelMinCharge": 11350,
     "address1": "青森県",
     "address2": "青森市大字浅虫字山下236",
@@ -109,11 +109,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108987/108987map.gif",
     "reviewCount": 166,
     "reviewAverage": 4.41,
-    "userReview": "温泉が最高で心身ともにリフレッシュ温泉が最高クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/108987?revie…　2026-09-16 22:59:05投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=108987\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "温泉が最高で心身ともにリフレッシュ温泉が最高。",
     "hotelMinCharge": 11850,
     "address1": "群馬県",
     "address2": "吾妻郡中之条町上沢渡甲2301",
-    "telephoneNo": "0279-66-2011",
+    "telephoneNo": "11",
     "access": "ＪＲ　中之条駅よりバスで２５分",
     "parkingInformation": "有り　２０台　無料　予約不要",
     "nearestStation": "中之条",
@@ -138,7 +138,7 @@ const hotels: any[] = [
     "hotelMinCharge": 14300,
     "address1": "青森県",
     "address2": "黒石市温湯鶴泉60",
-    "telephoneNo": "0172-54-8303",
+    "telephoneNo": "03",
     "access": "黒石駅よりバスにて20分／東北道黒石ICより10分",
     "parkingInformation": "無料の駐車場12台分ご用意しています（※要予約）",
     "nearestStation": "黒石（青森）",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「蔦温泉旅館－足元から源泉湧出の自噴温泉－」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「蔦温泉旅館－足元から源泉湧出の自噴温泉－」へは、七戸十和田駅よりお車にて１時間／青森駅よりお車にて1時間20分。最寄りの青森駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「蔦温泉旅館－足元から源泉湧出の自噴温泉－」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「蔦温泉旅館－足元から源泉湧出の自噴温泉－」は『約千年前から源泉のやさしい湯が湧き出てくる全国でも希少な「源泉湧き流し」の湯をお楽しみ下さ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「蔦温泉旅館－足元から源泉湧出の自噴温泉－」と「酸ヶ湯温泉旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「蔦温泉旅館－足元から源泉湧出の自噴温泉－。」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「蔦温泉旅館－足元から源泉湧出の自噴温泉－。」へは、七戸十和田駅よりお車にて１時間／青森駅よりお車にて1時間20分。最寄りの青森駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「蔦温泉旅館－足元から源泉湧出の自噴温泉－。」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「蔦温泉旅館－足元から源泉湧出の自噴温泉－。」は『約千年前から源泉のやさしい湯が湧き出てくる全国でも希少な「源泉湧き流し」の湯をお楽しみ下さ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「蔦温泉旅館－足元から源泉湧出の自噴温泉－。」と「酸ヶ湯温泉旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -585,9 +585,9 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 青森駅よりアクセス。七戸十和田駅よりお車にて１時間／青森駅よりお車にて1時間20分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「蔦温泉旅館－足元から源泉湧出の自噴温泉－」にチェックイン。約千年前から源泉のやさしい湯が湧き出てくる全国でも希少な「源泉湧き流し」の湯をお楽しみ下さいなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「蔦温泉旅館－足元から源泉湧出の自噴温泉－」の湯処へ。約千年前から源泉のやさしい湯が湧き出てくる全国でも希少な「源泉湧き流しとともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「蔦温泉旅館－足元から源泉湧出の自噴温泉－」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「蔦温泉旅館－足元から源泉湧出の自噴温泉－。」にチェックイン。約千年前から源泉のやさしい湯が湧き出てくる全国でも希少な「源泉湧き流し」の湯をお楽しみ下さいなどの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「蔦温泉旅館－足元から源泉湧出の自噴温泉－。」の湯処へ。約千年前から源泉のやさしい湯が湧き出てくる全国でも希少な「源泉湧き流しとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「蔦温泉旅館－足元から源泉湧出の自噴温泉－。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -596,8 +596,8 @@ export default function FeatureDetailPage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「蔦温泉旅館－足元から源泉湧出の自噴温泉－」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「蔦温泉旅館－足元から源泉湧出の自噴温泉－」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「蔦温泉旅館－足元から源泉湧出の自噴温泉－。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「蔦温泉旅館－足元から源泉湧出の自噴温泉－。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「酸ヶ湯温泉旅館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
@@ -615,20 +615,20 @@ export default function FeatureDetailPage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「蔦温泉旅館－足元から源泉湧出の自噴温泉－」へのアクセスや移動方法について</span>
+                <span>Q. 「蔦温泉旅館－足元から源泉湧出の自噴温泉－。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「蔦温泉旅館－足元から源泉湧出の自噴温泉－」へは、七戸十和田駅よりお車にて１時間／青森駅よりお車にて1時間20分。最寄りの青森駅からの経路案内も充実しています。
+                A. 「蔦温泉旅館－足元から源泉湧出の自噴温泉－。」へは、七戸十和田駅よりお車にて１時間／青森駅よりお車にて1時間20分。最寄りの青森駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「蔦温泉旅館－足元から源泉湧出の自噴温泉－」の魅力や予約時のポイントは？</span>
+                <span>Q. 「蔦温泉旅館－足元から源泉湧出の自噴温泉－。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「蔦温泉旅館－足元から源泉湧出の自噴温泉－」は『約千年前から源泉のやさしい湯が湧き出てくる全国でも希少な「源泉湧き流し」の湯をお楽しみ下さ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「蔦温泉旅館－足元から源泉湧出の自噴温泉－。」は『約千年前から源泉のやさしい湯が湧き出てくる全国でも希少な「源泉湧き流し」の湯をお楽しみ下さ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -637,7 +637,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「蔦温泉旅館－足元から源泉湧出の自噴温泉－」と「酸ヶ湯温泉旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「蔦温泉旅館－足元から源泉湧出の自噴温泉－。」と「酸ヶ湯温泉旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

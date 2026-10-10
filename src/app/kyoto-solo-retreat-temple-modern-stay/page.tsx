@@ -7,11 +7,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kyoto-solo-retreat-temple-modern-stay/" },
   title: '【京都ひとり旅・静寂おこもり】朝のお勤め・枯山水庭園・祇園の隠れ家！大人が心洗われる極上和モダン宿 厳選3選',
-  description: '「賑やかな観光地から一歩離れて、静かに京都の美意識に浸りたい」「朝の静寂なお寺散策や写経で心をリセットしたい」。大人のソロトラベラーへ。建仁寺・祇園の風情に溶け込む「ホテル ザ セレスティン京都祇園」、500年の歴史を誇る名刹に泊まる「三井ガーデンホテル京都河原町浄教寺」、ラウンジの無料お茶漬けや大浴場が嬉しい「ホテルインターゲート京都 四条新町」を徹底特集。',
+  description: '「賑やかな観光地から一歩離れて、静かに京都の美意識に浸りたい。」「朝の静寂なお寺散策や写経で心をリセットしたい。」。大人のソロトラベラーへ。建仁寺・祇園の風情に溶け込む「ホテル ザ セレスティン京都祇園」、500年の歴史を誇る名刹に泊まる「三井ガーデンホテル京都河原町浄教寺」、ラウンジの無料お茶漬けや大浴場が嬉しい「ホテルインターゲート京都 四条新町」を徹底特集。',
   keywords: '京都 一人旅 ホテル おすすめ,京都 おこもり宿 一人,京都 寺 泊まる,ホテル ザ セレスティン京都祇園 一人,三井ガーデンホテル京都河原町浄教寺 宿泊',
   openGraph: {
     title: '【京都ひとり旅・静寂おこもり】朝のお勤め・枯山水庭園・祇園の隠れ家！大人が心洗われる極上和モダン宿 厳選3選',
-    description: '「賑やかな観光地から一歩離れて、静かに京都の美意識に浸りたい」「朝の静寂なお寺散策や写経で心をリセットしたい」。大人のソロトラベラーへ。建仁寺・祇園の風情に溶け込む「ホテル ザ セレスティン京都祇園」、500年の歴史を誇る名刹に泊まる「三井ガーデンホテル京都河原町浄教寺」、ラウンジの無料お茶漬けや大浴場が嬉しい「ホテルインターゲート京都 四条新町」を徹底特集。',
+    description: '「賑やかな観光地から一歩離れて、静かに京都の美意識に浸りたい。」「朝の静寂なお寺散策や写経で心をリセットしたい。」。大人のソロトラベラーへ。建仁寺・祇園の風情に溶け込む「ホテル ザ セレスティン京都祇園」、500年の歴史を誇る名刹に泊まる「三井ガーデンホテル京都河原町浄教寺」、ラウンジの無料お茶漬けや大浴場が嬉しい「ホテルインターゲート京都 四条新町」を徹底特集。',
     url: 'https://croud-travel.pages.dev/kyoto-solo-retreat-temple-modern-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -24,7 +24,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【京都ひとり旅・静寂おこもり】朝のお勤め・枯山水庭園・祇園の隠れ家！大人が心洗われる極上和モダン宿 厳選3選',
-    description: '「賑やかな観光地から一歩離れて、静かに京都の美意識に浸りたい」「朝の静寂なお寺散策や写経で心をリセットしたい」。大人のソロトラベラーへ。建仁寺・祇園の風情に溶け込む「ホテル ザ セレスティン京都祇園」、500年の歴史を誇る名刹に泊まる「三井ガーデンホテル京都河原町浄教寺」、ラウンジの無料お茶漬けや大浴場が嬉しい「ホテルインターゲート京都 四条新町」を徹底特集。',
+    description: '「賑やかな観光地から一歩離れて、静かに京都の美意識に浸りたい。」「朝の静寂なお寺散策や写経で心をリセットしたい。」。大人のソロトラベラーへ。建仁寺・祇園の風情に溶け込む「ホテル ザ セレスティン京都祇園」、500年の歴史を誇る名刹に泊まる「三井ガーデンホテル京都河原町浄教寺」、ラウンジの無料お茶漬けや大浴場が嬉しい「ホテルインターゲート京都 四条新町」を徹底特集。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・ホテル調査班',
@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-11T02:30:00+09:00',
-    dateModified: '2026-09-11T02:30:00+09:00',
+    datePublished: 'T02:30:00+09:00',
+    dateModified: 'T02:30:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/kyoto-solo-retreat-temple-modern-stay',
   };
 
@@ -78,7 +78,7 @@ export default function ArticlePage() {
           【京都ひとり旅・静寂おこもり】朝のお勤め・枯山水庭園・祇園の隠れ家！大人が心洗われる極上和モダン宿 厳選3選
         </h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
-          「賑やかな観光地から一歩離れて、静かに京都の美意識に浸りたい」「朝の静寂なお寺散策や写経で心をリセットしたい」。大人のソロトラベラーへ。建仁寺・祇園の風情に溶け込む「ホテル ザ セレスティン京都祇園」、500年の歴史を誇る名刹に泊まる「三井ガーデンホテル京都河原町浄教寺」、ラウンジの無料お茶漬けや大浴場が嬉しい「ホテルインターゲート京都 四条新町」を徹底特集。
+          「賑やかな観光地から一歩離れて、静かに京都の美意識に浸りたい。」「朝の静寂なお寺散策や写経で心をリセットしたい。」。大人のソロトラベラーへ。建仁寺・祇園の風情に溶け込む「ホテル ザ セレスティン京都祇園」、500年の歴史を誇る名刹に泊まる「三井ガーデンホテル京都河原町浄教寺」、ラウンジの無料お茶漬けや大浴場が嬉しい「ホテルインターゲート京都 四条新町」を徹底特集。
         </p>
       </header>
 
@@ -161,7 +161,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.67点。「一人旅で利用しましたが、エントランスから漂うお香の香りとスタッフの気品ある対応に感動しました」「圓堂の天ぷら朝食が絶品で、夜も静かでぐっすり眠れました」と大人ソロ旅から大絶賛。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.67点。「一人旅で利用しましたが、エントランスから漂うお香の香りとスタッフの気品ある対応に感動しました。」「圓堂の天ぷら朝食が絶品で、夜も静かでぐっすり眠れました。」と大人ソロ旅から大絶賛。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -236,7 +236,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.65点。「朝のお勤め体験が本当に素晴らしく、心が洗われました」「四条河原町すぐで買い物にも便利なのに、お寺の静けさと大浴場があって最高でした」と一人旅のリピーター続出。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.65点。「朝のお勤め体験が本当に素晴らしく、心が洗われました。」「四条河原町すぐで買い物にも便利なのに、お寺の静けさと大浴場があって最高でした。」と一人旅のリピーター続出。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -311,7 +311,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.52点。「ラウンジでお酒やお茶漬けをいただけるのが最高でした」「大浴場があって一人でも居心地がよく、スタッフさんの笑顔に癒やされました」とコスパと快適性を両立した名宿。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.52点。「ラウンジでお酒やお茶漬けをいただけるのが最高でした。」「大浴場があって一人でも居心地がよく、スタッフさんの笑顔に癒やされました。」とコスパと快適性を両立した名宿。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">

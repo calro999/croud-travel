@@ -47,8 +47,8 @@ export default function Page() {
       "headline": "【琉球最高の聖地・斎場御嶽新春祈願と知念岬初日の出】2026-2027年冬の沖縄・南城！美ら海絶景と琉球温泉・あぐー豚名宿5選",
       "description": "琉球王国最高の聖地・世界遺産「斎場御嶽」の新春開運祈願と、神の島・久高島を仰ぐ知念岬の感動初日の出！冬でも平均気温18℃前後の心地よい南城市。太平洋を望む絶景天然温泉やあぐー豚しゃぶしゃぶ・近海魚料理に癒やされる冬の南沖縄厳選リゾート名宿5選。",
       "image": "https://img.travel.rakuten.co.jp/share/HOTEL/187553/187553.jpg",
-      "datePublished": "2026-10-09T08:00:00+09:00",
-      "dateModified": "2026-10-09T08:00:00+09:00",
+      "datePublished": "T08:00:00+09:00",
+      "dateModified": "T08:00:00+09:00",
       "author": {
         "@type": "Organization",
         "name": "旅宿クラウド 冬の日本厳選旅取材班",
@@ -389,7 +389,7 @@ export default function Page() {
                     </p>
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-4 text-xs text-amber-950/90 leading-relaxed italic">
-                  「貸切風呂から眺める海の景色が最高貸切風呂に入りながらの海の景色が最高でした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/vo…　2026-09-20 07:06:06投稿 つづきはこちら」
+                  「貸切風呂から眺める海の景色が最高貸切風呂に入りながらの海の景色が最高でした。」
                 </div>
                   </div>
                 </div>
@@ -455,7 +455,7 @@ export default function Page() {
                     </p>
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-4 text-xs text-amber-950/90 leading-relaxed italic">
-                  「温泉とアクティビティが充実、家族で満喫子供達もお気に入りで沖縄旅行の最終日に何度か利用させていただいています。夕食も、朝食も猿人の湯もとても良いです。沖縄でこのような温泉があるホテル等なか…　2026-09-30 23:27:20投稿 つづきはこちら」
+                  「温泉とアクティビティが充実、家族で満喫子供達もお気に入りで沖縄旅行の最終日に何度か利用させていただいています。夕食も、朝食も猿人の湯もとても良いです。沖縄でこのような温泉があるホテル等なか。」
                 </div>
                   </div>
                 </div>
@@ -521,7 +521,7 @@ export default function Page() {
                     </p>
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-4 text-xs text-amber-950/90 leading-relaxed italic">
-                  「朝食と露天風呂は最高、和室に椅子が欲しい初めて宿泊しました!朝食も美味しく、部屋の露天風呂もスパも良かったです。残念なのは、和室に、座椅子ではなく、くつろげる椅子かソファの方が良いかなと思…　2026-09-23 14:30:55投稿 つづきはこちら」
+                  「朝食と露天風呂は最高、和室に椅子が欲しい初めて宿泊しました!朝食も美味しく、部屋の露天風呂もスパも良かったです。」
                 </div>
                   </div>
                 </div>
@@ -587,7 +587,7 @@ export default function Page() {
                     </p>
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-4 text-xs text-amber-950/90 leading-relaxed italic">
-                  「清潔感がありプールは楽しめたが朝食は混雑サービスや施設の充実度は期待より低かったが、清潔感がありプールもあるのでこどもたちは楽しんでいました。ビュッフェはたのしみにしていたが、朝食では混み合っ…　2026-10-02 23:05:27投稿 つづきはこちら」
+                  「清潔感がありプールは楽しめたが朝食は混雑サービスや施設の充実度は期待より低かったが、清潔感がありプールもあるのでこどもたちは楽しんでいました。ビュッフェはたのしみにしていたが、朝食では混み合っ。」
                 </div>
                   </div>
                 </div>
@@ -653,7 +653,7 @@ export default function Page() {
                     </p>
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-4 text-xs text-amber-950/90 leading-relaxed italic">
-                  「立地と朝食を考えればコスパは十分この立地で、朝食付きでこのお値段ならコスパはいいと思います。コンビニなどは少し歩く必要があるので、あらかじめ時間に余裕を持っておくか、事前に買い物を済ませておく…　2026-10-03 11:04:17投稿 つづきはこちら」
+                  「立地と朝食を考えればコスパは十分この立地で、朝食付きでこのお値段ならコスパはいいと思います。コンビニなどは少し歩く必要があるので、あらかじめ時間に余裕を持っておくか、事前に買い物を済ませておく。」
                 </div>
                   </div>
                 </div>

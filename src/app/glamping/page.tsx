@@ -163,7 +163,7 @@ export default function GlampingHubPage() {
           </div>
           <div className="bg-white rounded-3xl p-6 md:p-8 shadow-sm border border-slate-200">
             <p className="text-slate-700 leading-relaxed mb-6 text-sm md:text-base">
-              グランピング（Glamping）は、「Glamorous（魅力的な・華やかな）」と「Camping（キャンプ）」を組み合わせた言葉です。
+              グランピング（Glamping）は、「Glamorous（魅力的な・華やかな）。」と「Camping（キャンプ）」を組み合わせた言葉です。
               テントの設営や火起こし、寝袋の用意といった作業を最小限に抑え、常設されたドームテントやヴィラ、キャビンなどで快適にアウトドアの雰囲気を楽しむ宿泊形態を指します。
               ただし、設備やサービスの範囲は施設ごとに幅があるため、事前に確認することが重要です。
             </p>

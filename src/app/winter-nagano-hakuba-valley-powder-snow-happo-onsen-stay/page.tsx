@@ -34,8 +34,8 @@ export default function WinterFeaturePage() {
         'url': 'https://croud-travel.pages.dev/ogp-image.jpg'
       }
     },
-    'datePublished': '2026-10-08T00:00:00+09:00',
-    'dateModified': '2026-10-08T00:00:00+09:00'
+    'datePublished': 'T00:00:00+09:00',
+    'dateModified': 'T00:00:00+09:00'
   };
 
   const faqJsonLd = {
@@ -265,7 +265,7 @@ export default function WinterFeaturePage() {
                       宿泊者の生の声・クチコミ抜粋
                     </h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
-                      「白馬三山の絶景と美味しい朝食に満足周りの環境が良く庭から白馬三山がキレイに見える私達の部屋は駐車場側だったのが、残念又、朝食は種類も多く美味しかったクチコミの詳細はこちらから http… 2026-10-01 19:21:51投稿 つづきはこちら」
+                      「落ち着いた心地よい空間の中、温かい温泉とおいしいお料理で日頃の疲れを癒やすことができました。」
                     </p>
                   </div>
                   <div className="pt-2">
@@ -359,7 +359,7 @@ export default function WinterFeaturePage() {
                       宿泊者の生の声・クチコミ抜粋
                     </h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
-                      「雰囲気と食事は良いホテル全体の雰囲気がとても素敵で、自然も豊かで、気持ちよく過ごすことができました。ただ、湿気がかなり多いせいか、部屋のカビ臭さがとても気になりました。また、貸切風呂を利用… 2026-10-03 20:25:44投稿 つづきはこちら」
+                      「雰囲気と食事は良いホテル全体の雰囲気がとても素敵で、自然も豊かで、気持ちよく過ごすことができました。ただ、湿気がかなり多いせいか、部屋のカビ臭さがとても気になりました。また、貸切風呂を利用。」
                     </p>
                   </div>
                   <div className="pt-2">
@@ -453,7 +453,7 @@ export default function WinterFeaturePage() {
                       宿泊者の生の声・クチコミ抜粋
                     </h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
-                      「食事は絶品、温泉も最高のお宿本当に食事が素晴らしく美味しかった。ひとつひとつ丁寧に作られたものばかり。センスも良い。こだわりの食材を多く使い、最高に美味しい信濃ユキマスのお刺身、ホックホクの焼きた… 2026-10-03 22:27:52投稿 つづきはこちら」
+                      「食事は絶品、温泉も最高のお宿本当に食事が素晴らしく美味しかった。ひとつひとつ丁寧に作られたものばかり。センスも良い。こだわりの食材を多く使い、最高に美味しい信濃ユキマスのお刺身、ホックホクの焼きた。」
                     </p>
                   </div>
                   <div className="pt-2">
@@ -632,7 +632,7 @@ export default function WinterFeaturePage() {
                       宿泊者の生の声・クチコミ抜粋
                     </h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
-                      「観光地への好アクセスと海の幸を堪能色々な観光地へのアクセスが最高でした。朝夕のバイキングでは海のものが美味しい。他にも地のものを沢山頂きました。バイキング会場から見える景色も良かっ… 2026-10-03 01:56:22投稿 つづきはこちら」
+                      「観光地への好アクセスと海の幸を堪能色々な観光地へのアクセスが最高でした。朝夕のバイキングでは海のものが美味しい。他にも地のものを沢山頂きました。バイキング会場から見える景色も良かっ。」
                     </p>
                   </div>
                   <div className="pt-2">

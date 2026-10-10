@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-12T16:15:00+09:00',
-    dateModified: '2026-09-12T16:15:00+09:00',
+    datePublished: 'T16:15:00+09:00',
+    dateModified: 'T16:15:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/kushiro-solo-business-sunset-robata-stay',
   };
 
@@ -48,7 +48,7 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"釧路市街で天然温泉大浴場とサウナがあるホテルは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 幣舞の湯 ドーミーインPREMIUM釧路」は最上階に天然温泉大浴場と高温サウナを完備。釧路川の夜景を眺めながらととのうことができます。"}},{"@type":"Question","name":"ビジネス利用でデスクワークがしやすく部屋が快適なホテルは？","acceptedAnswer":{"@type":"Answer","text":"「ＡＮＡクラウンプラザホテル釧路」は広々としたワークデスクと高速Wi-Fi、快適なベッドを備え、IHGブランドの安心感と港の景色が魅力です。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"釧路市街で天然温泉大浴場とサウナがあるホテルは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 幣舞の湯 ドーミーインPREMIUM釧路。」は最上階に天然温泉大浴場と高温サウナを完備。釧路川の夜景を眺めながらととのうことができます。"}},{"@type":"Question","name":"ビジネス利用でデスクワークがしやすく部屋が快適なホテルは？","acceptedAnswer":{"@type":"Answer","text":"「ＡＮＡクラウンプラザホテル釧路」は広々としたワークデスクと高速Wi-Fi、快適なベッドを備え、IHGブランドの安心感と港の景色が魅力です。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -77,7 +77,7 @@ export default function ArticlePage() {
           【釧路出張・男一人旅】天然温泉幣舞の湯・世界三大夕日パノラマ・本場炉端焼き！道東拠点でととのう厳選3宿
         </h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
-          <time dateTime="2026-09-12">2026.09.12 更新</time>
+          <time dateTime="">2026.09.12 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
         </div>
@@ -366,7 +366,7 @@ export default function ArticlePage() {
                 <span>釧路市街で天然温泉大浴場とサウナがあるホテルは？</span>
               </h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
-                「天然温泉 幣舞の湯 ドーミーインPREMIUM釧路」は最上階に天然温泉大浴場と高温サウナを完備。釧路川の夜景を眺めながらととのうことができます。
+                「天然温泉 幣舞の湯 ドーミーインPREMIUM釧路。」は最上階に天然温泉大浴場と高温サウナを完備。釧路川の夜景を眺めながらととのうことができます。
               </p>
             </div>
             <div className="bg-white p-4 sm:p-5 rounded-xl border border-stone-200">
@@ -421,9 +421,9 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 釧路駅よりアクセス。■ＪＲ釧路駅より徒歩10分 ■ＭＯＯバスターミナルより徒歩１分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「天然温泉 幣舞の湯 ドーミーインＰＲＥＭＩＵＭ釧路」にチェックイン。最上階には太平洋も一望できる男女別天然温泉大浴場を完備。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「天然温泉 幣舞の湯 ドーミーインＰＲＥＭＩＵＭ釧路」の湯処へ。最上階には太平洋も一望できる男女別天然温泉大浴場を完備。とともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「天然温泉 幣舞の湯 ドーミーインＰＲＥＭＩＵＭ釧路」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「天然温泉 幣舞の湯 ドーミーインＰＲＥＭＩＵＭ釧路。」にチェックイン。最上階には太平洋も一望できる男女別天然温泉大浴場を完備。などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「天然温泉 幣舞の湯 ドーミーインＰＲＥＭＩＵＭ釧路。」の湯処へ。最上階には太平洋も一望できる男女別天然温泉大浴場を完備。とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「天然温泉 幣舞の湯 ドーミーインＰＲＥＭＩＵＭ釧路。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -432,9 +432,9 @@ export default function ArticlePage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「天然温泉 幣舞の湯 ドーミーインＰＲＥＭＩＵＭ釧路」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「天然温泉 幣舞の湯 ドーミーインＰＲＥＭＩＵＭ釧路」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ＡＮＡクラウンプラザホテル釧路 ｂｙ ＩＨＧ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「天然温泉 幣舞の湯 ドーミーインＰＲＥＭＩＵＭ釧路。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「天然温泉 幣舞の湯 ドーミーインＰＲＥＭＩＵＭ釧路。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ＡＮＡクラウンプラザホテル釧路 ｂｙ ＩＨＧ。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>

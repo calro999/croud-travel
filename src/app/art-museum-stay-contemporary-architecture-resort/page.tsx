@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/art-museum-stay-contemporary-architecture-resort"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D40045%26f_flg%3DPLAN",
     "hotelMinCharge": 19541,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40045/40045.jpg",
-    "userReview": "バイキングも温泉も混雑知らずで快適バイキングが和洋折衷よりどりみどりですお盆で違うホテルの場合ですと激混みだわ...席待ちするわ...料理取るのも一苦労でしたが、こちらのホテルは座席数も多くバイキ…　2026-09-19 21:17:12投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=40045\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "バイキングも温泉も混雑知らずで快適バイキングが和洋折衷よりどりみどりですお盆で違うホテルの場合ですと激混みだわ...席待ちするわ...料理取るのも一苦労でしたが、こちらのホテルは座席数も多くバイキ。",
     "reviewAverage": 4.5,
     "reviewCount": 1864,
     "address": "北海道釧路市阿寒町阿寒湖温泉4-6-10",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D41416%26f_flg%3DPLAN",
     "hotelMinCharge": 15950,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/41416/41416.jpg",
-    "userReview": "高台からの絶景と丁寧な接客に満足ちょっと高台にあるホテルで、駐車場から見える景色がきれいでした。ホテルに到着してすぐに係の方がお出迎えしてくださり、荷物を部屋まで運んでいただきました。景色…　2026-09-16 17:41:52投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=41416\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "高台からの絶景と丁寧な接客に満足ちょっと高台にあるホテルで、駐車場から見える景色がきれいでした。ホテルに到着してすぐに係の方がお出迎えしてくださり、荷物を部屋まで運んでいただきました。景色。",
     "reviewAverage": 4.55,
     "reviewCount": 1046,
     "address": "香川県高松市西宝町3-5-10",
@@ -337,7 +337,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「あかん遊久の里鶴雅」は『和のこころ、阿寒のおもてなしをさらに深めて。日本の旅館文化を継承するおもてなしをご堪能くだ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「あかん遊久の里鶴雅」は『和のこころ、阿寒のおもてなしをさらに深めて。日本の旅館文化を継承するおもてなしをご堪能くだ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

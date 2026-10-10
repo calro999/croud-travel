@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/super-panoramic-gondola-ski-snow-resort"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D13890%26f_flg%3DPLAN",
     "hotelMinCharge": 3850,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13890/13890.jpg",
-    "userReview": "伝統を感じさせる趣のある空間伝統を感じさせる好きなホテルです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/138…　2026-09-17 16:55:09投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=13890\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "伝統を感じさせる趣のある空間伝統を感じさせる好きなホテルです。",
     "reviewAverage": 4.4,
     "reviewCount": 471,
     "address": "宮城県大崎市鳴子温泉鬼首大清水26-29",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D11010%26f_flg%3DPLAN",
     "hotelMinCharge": 10185,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/11010/11010.jpg",
-    "userReview": "誕生日のお祝いに最適、ラウンジも大満足恋人の誕生日に利用しました!サービスもとても良くて、ご飯も美味しくて幸せな時間を過ごせました、ありがとうございます。デザートのプレートにメッセージを入れること…　2026-09-19 23:49:15投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=11010\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "誕生日のお祝いに最適、ラウンジも大満足恋人の誕生日に利用しました!サービスもとても良くて、ご飯も美味しくて幸せな時間を過ごせました、ありがとうございます。デザートのプレートにメッセージを入れること。",
     "reviewAverage": 4.28,
     "reviewCount": 1742,
     "address": "長野県北安曇郡小谷村千国乙12860-1",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D5757%26f_flg%3DPLAN",
     "hotelMinCharge": 7000,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5757/5757.jpg",
-    "userReview": "バイク置き場が安心、清潔で快適な和室ライダー向け企画にて利用。施設内の乾燥室がバイク置き場として提供され、防犯は勿論、天候にも左右されず大変満足。客室は和室に通された。建物自体は新しくはないが…　2026-08-13 13:03:01投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=5757\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "バイク置き場が安心、清潔で快適な和室ライダー向け企画にて利用。施設内の乾燥室がバイク置き場として提供され、防犯は勿論、天候にも左右されず大変満足。客室は和室に通された。建物自体は新しくはないが。",
     "reviewAverage": 3.67,
     "reviewCount": 216,
     "address": "長野県下高井郡山ノ内町志賀高原高天ヶ原",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D15934%26f_flg%3DPLAN",
     "hotelMinCharge": 10500,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15934/15934.jpg",
-    "userReview": "玄関を彩る色とりどりの花に癒やされるこちらのホテルの一番素晴らしいところは玄関です。色とりどりの花がお出迎え、お見送りをしてくれます。あいにくの土砂降りで白馬三山は眺めることができませんでした。残…　2026-09-19 07:52:11投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=15934\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "玄関を彩る色とりどりの花に癒やされるこちらのホテルの一番素晴らしいところは玄関です。色とりどりの花がお出迎え、お見送りをしてくれます。あいにくの土砂降りで白馬三山は眺めることができませんでした。残。",
     "reviewAverage": 4.43,
     "reviewCount": 1297,
     "address": "長野県北安曇郡白馬村北城5470-1",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D2160%26f_flg%3DPLAN",
     "hotelMinCharge": 7000,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2160/2160.jpg",
-    "userReview": "ジャンプ台を眺め、当時のスキー熱が再燃スキージャンプ台を見上げる位置にあり若いころスキーに夢中になり八方尾根に通っていた頃を思い出しました。今回は夏の八方尾根でしたがまた冬のスキー場へ行ってみたく…　2026-09-18 15:01:18投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=2160\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "ジャンプ台を眺め、当時のスキー熱が再燃スキージャンプ台を見上げる位置にあり若いころスキーに夢中になり八方尾根に通っていた頃を思い出しました。今回は夏の八方尾根でしたがまた冬のスキー場へ行ってみたく。",
     "reviewAverage": 4,
     "reviewCount": 129,
     "address": "長野県北安曇郡白馬村北城3477",
@@ -322,9 +322,9 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 鳴子温泉駅よりアクセス。東北自動車道古川ICより47号線を鳴子方面へ、岩下こけし資料館前交差点から108号線を秋田方面に入り約20分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「鬼首温泉 リゾートパーク ホテル オニコウベ」にチェックイン。大自然に囲まれたリゾートホテル～宮城県北唯一プールのある施設などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「鬼首温泉 リゾートパーク ホテル オニコウベ」の湯処へ。大自然に囲まれたリゾートホテル～宮城県北唯一プールのある施設とともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「鬼首温泉 リゾートパーク ホテル オニコウベ」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「鬼首温泉 リゾートパーク ホテル オニコウベ。」にチェックイン。大自然に囲まれたリゾートホテル～宮城県北唯一プールのある施設などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「鬼首温泉 リゾートパーク ホテル オニコウベ。」の湯処へ。大自然に囲まれたリゾートホテル～宮城県北唯一プールのある施設とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「鬼首温泉 リゾートパーク ホテル オニコウベ。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -333,8 +333,8 @@ export default function Page() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「鬼首温泉 リゾートパーク ホテル オニコウベ」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「鬼首温泉 リゾートパーク ホテル オニコウベ」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「鬼首温泉 リゾートパーク ホテル オニコウベ。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「鬼首温泉 リゾートパーク ホテル オニコウベ。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「奥白馬温泉 ホテルグリーンプラザ白馬」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
@@ -352,20 +352,20 @@ export default function Page() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「鬼首温泉 リゾートパーク ホテル オニコウベ」へのアクセスや移動方法について</span>
+                <span>Q. 「鬼首温泉 リゾートパーク ホテル オニコウベ。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「鬼首温泉 リゾートパーク ホテル オニコウベ」へは、東北自動車道古川ICより47号線を鳴子方面へ、岩下こけし資料館前交差点から108号線を秋田方面に入り約20分。最寄りの鳴子温泉駅からの経路案内も充実しています。
+                A. 「鬼首温泉 リゾートパーク ホテル オニコウベ。」へは、東北自動車道古川ICより47号線を鳴子方面へ、岩下こけし資料館前交差点から108号線を秋田方面に入り約20分。最寄りの鳴子温泉駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「鬼首温泉 リゾートパーク ホテル オニコウベ」の魅力や予約時のポイントは？</span>
+                <span>Q. 「鬼首温泉 リゾートパーク ホテル オニコウベ。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「鬼首温泉 リゾートパーク ホテル オニコウベ」は『大自然に囲まれたリゾートホテル～宮城県北唯一プールのある施設』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「鬼首温泉 リゾートパーク ホテル オニコウベ。」は『大自然に囲まれたリゾートホテル～宮城県北唯一プールのある施設。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -374,7 +374,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「鬼首温泉 リゾートパーク ホテル オニコウベ」と「奥白馬温泉 ホテルグリーンプラザ白馬」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「鬼首温泉 リゾートパーク ホテル オニコウベ。」と「奥白馬温泉 ホテルグリーンプラザ白馬」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

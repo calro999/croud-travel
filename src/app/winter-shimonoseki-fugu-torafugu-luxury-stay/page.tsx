@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【冬の味覚の王様・下関天然とらふぐ】てっさ・てっちり・白子焼き！山口名湯宿5選",
     "description": "11月〜12月に旬のピークを迎える本場・下関の極上「とらふぐ」！透き通る芸術的なてっさ（ふぐ刺し）、プリプリのてっちり（ふぐ鍋）、濃厚にとろける白子焼きと香ばしいひれ酒を、山口・湯田温泉の名湯とともに。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-    "datePublished": "2026-09-27T00:00:00+09:00",
-    "dateModified": "2026-09-27T00:00:00+09:00",
+    "datePublished": "T00:00:00+09:00",
+    "dateModified": "T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

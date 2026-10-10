@@ -39,8 +39,8 @@ export default function FurusatoArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-11T00:10:00+09:00',
-    dateModified: '2026-09-11T00:10:00+09:00',
+    datePublished: 'T00:10:00+09:00',
+    dateModified: 'T00:10:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-fukuoka-hakata-luxury-gourmet-stay',
   };
 
@@ -203,7 +203,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.62点、口コミ1400件超。「駅直結で立地最高、屋上の温泉スパプールが素晴らしかった」「お部屋も綺麗で広く、朝食もとても美味しかった」と絶賛。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.62点、口コミ1400件超。「駅直結で立地最高、屋上の温泉スパプールが素晴らしかった。」「お部屋も綺麗で広く、朝食もとても美味しかった。」と絶賛。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -287,7 +287,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.48点、口コミ2000件超。「スタッフのホスピタリティが一流で安心感がある」「お部屋のバスタブが大きくて快適、中洲の屋台へも歩いて行けて最高」と高評価。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.48点、口コミ2000件超。「スタッフのホスピタリティが一流で安心感がある。」「お部屋のバスタブが大きくて快適、中洲の屋台へも歩いて行けて最高。」と高評価。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.16点、口コミ11,000件超。「部屋からの博多湾と夜景の眺めが素晴らしい」「ドーム直結でライブ遠征に最高、アトリウムの朝食も種類豊富で大満足」と大人気。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.16点、口コミ11,000件超。「部屋からの博多湾と夜景の眺めが素晴らしい。」「ドーム直結でライブ遠征に最高、アトリウムの朝食も種類豊富で大満足。」と大人気。</p>
               </div>
 
               {/* 宿基本情報 */}

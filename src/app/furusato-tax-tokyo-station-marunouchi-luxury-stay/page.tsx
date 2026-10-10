@@ -39,8 +39,8 @@ export default function FurusatoArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-11T01:00:00+09:00',
-    dateModified: '2026-09-11T01:00:00+09:00',
+    datePublished: 'T01:00:00+09:00',
+    dateModified: 'T01:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-tokyo-station-marunouchi-luxury-stay',
   };
 
@@ -49,7 +49,7 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「東京ステーションホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「東京ステーションホテル」へは、JR東京駅丸の内南口直結。最寄りの東京駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「東京ステーションホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「東京ステーションホテル」は『JR東京駅丸の内南口直結 東京駅のクラシックホテル』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「東京ステーションホテル」と「パレスホテル東京」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「東京ステーションホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「東京ステーションホテル」へは、JR東京駅丸の内南口直結。最寄りの東京駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「東京ステーションホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「東京ステーションホテル」は『JR東京駅丸の内南口直結 東京駅のクラシックホテル。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「東京ステーションホテル」と「パレスホテル東京」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -203,7 +203,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.83点、口コミ絶賛の最高峰。「重要文化財の中に泊まる特別感とお部屋のクラシカルな美しさに感動」「朝食ブッフェの美味しさとスタッフの対応が別格」と憧れの宿。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.83点、口コミ絶賛の最高峰。「重要文化財の中に泊まる特別感とお部屋のクラシカルな美しさに感動。」「朝食ブッフェの美味しさとスタッフの対応が別格。」と憧れの宿。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -287,7 +287,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.71点、口コミ高評価。「テラスからの皇居の景色が美しく、都会のオアシスそのもの」「スタッフの立ち振る舞いが完璧で最高のご褒美になった」と大絶賛。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.71点、口コミ高評価。「テラスからの皇居の景色が美しく、都会のオアシスそのもの。」「スタッフの立ち振る舞いが完璧で最高のご褒美になった。」と大絶賛。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.70点、口コミ3000件超。「老舗ならではの安心感とスタッフのプロフェッショナルな対応に感動」「バイキングのローストビーフが絶品で一生の思い出になった」と信頼の評価。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.70点、口コミ3000件超。「老舗ならではの安心感とスタッフのプロフェッショナルな対応に感動。」「バイキングのローストビーフが絶品で一生の思い出になった。」と信頼の評価。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -578,7 +578,7 @@ export default function FurusatoArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「東京ステーションホテル」は『JR東京駅丸の内南口直結 東京駅のクラシックホテル』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「東京ステーションホテル」は『JR東京駅丸の内南口直結 東京駅のクラシックホテル。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

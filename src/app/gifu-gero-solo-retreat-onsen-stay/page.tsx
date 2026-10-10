@@ -37,8 +37,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-13T00:00:00+09:00',
-    dateModified: '2026-09-13T00:00:00+09:00',
+    datePublished: 'T00:00:00+09:00',
+    dateModified: 'T00:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/gifu-gero-solo-retreat-onsen-stay',
   };
 
@@ -64,7 +64,7 @@ export default function ArticlePage() {
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で下呂温泉の絶景と多彩な風呂を楽しめる宿は？","acceptedAnswer":{"@type":"Answer","text":"「下呂温泉 湯あそびの宿 下呂観光ホテル本館」は高台に位置し、飛騨川と温泉街の夜景を見渡す展望露天風呂や貸切露天風呂が充実しています。"}},{"@type":"Question","name":"静かで落ち着いた雰囲気のおこもり宿に泊まりたい時は？","acceptedAnswer":{"@type":"Answer","text":"「下呂温泉 こころをなでる静寂 みやこ」は緑豊かな庭園に佇む大人の隠れ家。丁寧なもてなしと極上の料理で一人リトリートに最適です。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で下呂温泉の絶景と多彩な風呂を楽しめる宿は？","acceptedAnswer":{"@type":"Answer","text":"「下呂温泉 湯あそびの宿 下呂観光ホテル本館。」は高台に位置し、飛騨川と温泉街の夜景を見渡す展望露天風呂や貸切露天風呂が充実しています。"}},{"@type":"Question","name":"静かで落ち着いた雰囲気のおこもり宿に泊まりたい時は？","acceptedAnswer":{"@type":"Answer","text":"「下呂温泉 こころをなでる静寂 みやこ」は緑豊かな庭園に佇む大人の隠れ家。丁寧なもてなしと極上の料理で一人リトリートに最適です。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -79,7 +79,7 @@ export default function ArticlePage() {
             【下呂温泉ひとり旅・美肌名湯おこもり】日本三名泉つるつる美人の湯・飛騨川パノラマ・飛騨牛会席！飛騨路の山里でととのう厳選3宿
           </h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
-            更新日：2026年9月13日 | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
+            更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -313,7 +313,7 @@ export default function ArticlePage() {
                 <span>一人旅で下呂温泉の絶景と多彩な風呂を楽しめる宿は？</span>
               </h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
-                「下呂温泉 湯あそびの宿 下呂観光ホテル本館」は高台に位置し、飛騨川と温泉街の夜景を見渡す展望露天風呂や貸切露天風呂が充実しています。
+                「下呂温泉 湯あそびの宿 下呂観光ホテル本館。」は高台に位置し、飛騨川と温泉街の夜景を見渡す展望露天風呂や貸切露天風呂が充実しています。
               </p>
             </div>
             <div className="bg-white p-4 sm:p-5 rounded-xl border border-stone-200">
@@ -363,9 +363,9 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 下呂駅よりアクセス。JR 高山線下呂駅から徒歩1５分 車 中央道中津川I.Cより車で50分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「下呂温泉 湯あそびの宿 下呂観光ホテル本館」にチェックイン。絶景ランキング1位！インバウンド比率6.6％。団体客無しでゆっくりとくつろげる全室夜景自慢の宿。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「下呂温泉 湯あそびの宿 下呂観光ホテル本館」の湯処へ。絶景ランキング1位！インバウンド比率6.6％。団体客無しでゆっくりとくとともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「下呂温泉 湯あそびの宿 下呂観光ホテル本館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「下呂温泉 湯あそびの宿 下呂観光ホテル本館。」にチェックイン。絶景ランキング1位！インバウンド比率6.6％。団体客無しでゆっくりとくつろげる全室夜景自慢の宿。などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「下呂温泉 湯あそびの宿 下呂観光ホテル本館。」の湯処へ。絶景ランキング1位！インバウンド比率6.6％。団体客無しでゆっくりとくとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「下呂温泉 湯あそびの宿 下呂観光ホテル本館。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -374,8 +374,8 @@ export default function ArticlePage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「下呂温泉 湯あそびの宿 下呂観光ホテル本館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「下呂温泉 湯あそびの宿 下呂観光ホテル本館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「下呂温泉 湯あそびの宿 下呂観光ホテル本館。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「下呂温泉 湯あそびの宿 下呂観光ホテル本館。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「下呂温泉 紗々羅」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>

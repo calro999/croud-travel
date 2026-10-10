@@ -7,11 +7,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/niigata-solo-business-sake-seafood-stay/" },
   title: '【新潟出張＆地酒ひとり旅】信濃川パノラマ・天然温泉サウナ・ぽんしゅ館利き酒！日本海美食を堪能する極上宿 厳選3選',
-  description: '上越新幹線で東京から最短約1時間29分！日本一の米どころ・酒どころである新潟。「信濃川と日本海を見下ろす地上140mのランドマーク」を誇る「ホテル日航新潟」、新潟駅万代口徒歩すぐで天然温泉大浴場と夜鳴きそば完備の「ドーミーイン新潟」、新幹線直結の好アクセスを誇る「アートホテル新潟駅前」を徹底特集。',
+  description: '上越新幹線で東京から最短約1時間29分！日本一の米どころ・酒どころである新潟。「信濃川と日本海を見下ろす地上140mのランドマーク。」を誇る「ホテル日航新潟」、新潟駅万代口徒歩すぐで天然温泉大浴場と夜鳴きそば完備の「ドーミーイン新潟」、新幹線直結の好アクセスを誇る「アートホテル新潟駅前」を徹底特集。',
   keywords: '新潟 出張 ホテル 温泉,新潟 一人旅 ホテル おすすめ,ホテル日航新潟 宿泊,ドーミーイン新潟 温泉,ぽんしゅ館 新潟駅 ホテル',
   openGraph: {
     title: '【新潟出張＆地酒ひとり旅】信濃川パノラマ・天然温泉サウナ・ぽんしゅ館利き酒！日本海美食を堪能する極上宿 厳選3選',
-    description: '上越新幹線で東京から最短約1時間29分！日本一の米どころ・酒どころである新潟。「信濃川と日本海を見下ろす地上140mのランドマーク」を誇る「ホテル日航新潟」、新潟駅万代口徒歩すぐで天然温泉大浴場と夜鳴きそば完備の「ドーミーイン新潟」、新幹線直結の好アクセスを誇る「アートホテル新潟駅前」を徹底特集。',
+    description: '上越新幹線で東京から最短約1時間29分！日本一の米どころ・酒どころである新潟。「信濃川と日本海を見下ろす地上140mのランドマーク。」を誇る「ホテル日航新潟」、新潟駅万代口徒歩すぐで天然温泉大浴場と夜鳴きそば完備の「ドーミーイン新潟」、新幹線直結の好アクセスを誇る「アートホテル新潟駅前」を徹底特集。',
     url: 'https://croud-travel.pages.dev/niigata-solo-business-sake-seafood-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -24,7 +24,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【新潟出張＆地酒ひとり旅】信濃川パノラマ・天然温泉サウナ・ぽんしゅ館利き酒！日本海美食を堪能する極上宿 厳選3選',
-    description: '上越新幹線で東京から最短約1時間29分！日本一の米どころ・酒どころである新潟。「信濃川と日本海を見下ろす地上140mのランドマーク」を誇る「ホテル日航新潟」、新潟駅万代口徒歩すぐで天然温泉大浴場と夜鳴きそば完備の「ドーミーイン新潟」、新幹線直結の好アクセスを誇る「アートホテル新潟駅前」を徹底特集。',
+    description: '上越新幹線で東京から最短約1時間29分！日本一の米どころ・酒どころである新潟。「信濃川と日本海を見下ろす地上140mのランドマーク。」を誇る「ホテル日航新潟」、新潟駅万代口徒歩すぐで天然温泉大浴場と夜鳴きそば完備の「ドーミーイン新潟」、新幹線直結の好アクセスを誇る「アートホテル新潟駅前」を徹底特集。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・出張調査班',
@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-11T03:30:00+09:00',
-    dateModified: '2026-09-11T03:30:00+09:00',
+    datePublished: 'T03:30:00+09:00',
+    dateModified: 'T03:30:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/niigata-solo-business-sake-seafood-stay',
   };
 
@@ -78,7 +78,7 @@ export default function ArticlePage() {
           【新潟出張＆地酒ひとり旅】信濃川パノラマ・天然温泉サウナ・ぽんしゅ館利き酒！日本海美食を堪能する極上宿 厳選3選
         </h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
-          上越新幹線で東京から最短約1時間29分！日本一の米どころ・酒どころである新潟。「信濃川と日本海を見下ろす地上140mのランドマーク」を誇る「ホテル日航新潟」、新潟駅万代口徒歩すぐで天然温泉大浴場と夜鳴きそば完備の「ドーミーイン新潟」、新幹線直結の好アクセスを誇る「アートホテル新潟駅前」を徹底特集。
+          上越新幹線で東京から最短約1時間29分！日本一の米どころ・酒どころである新潟。「信濃川と日本海を見下ろす地上140mのランドマーク。」を誇る「ホテル日航新潟」、新潟駅万代口徒歩すぐで天然温泉大浴場と夜鳴きそば完備の「ドーミーイン新潟」、新幹線直結の好アクセスを誇る「アートホテル新潟駅前」を徹底特集。
         </p>
       </header>
 
@@ -161,7 +161,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.58点。「お部屋からの夜景が息をのむ美しさで、朝食のお米の美味しさは別格でした」「朱鷺メッセ直結で出張利用に最高峰のホテル」と絶賛。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.58点。「お部屋からの夜景が息をのむ美しさで、朝食のお米の美味しさは別格でした。」「朱鷺メッセ直結で出張利用に最高峰のホテル。」と絶賛。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -236,7 +236,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.26点。「新潟駅周辺で温泉とサウナに入れるのがありがたい」「万代シテイにも近くて飲食店が多く、一人でも過ごしやすかった」と定評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.26点。「新潟駅周辺で温泉とサウナに入れるのがありがたい。」「万代シテイにも近くて飲食店が多く、一人でも過ごしやすかった。」と定評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -311,7 +311,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.28点。「新幹線を降りてすぐチェックインできて本当に便利」「朝食のお米食べ比べが楽しく、お部屋も広くて清潔でした」とビジネス客に人気。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.28点。「新幹線を降りてすぐチェックインできて本当に便利。」「朝食のお米食べ比べが楽しく、お部屋も広くて清潔でした。」とビジネス客に人気。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">

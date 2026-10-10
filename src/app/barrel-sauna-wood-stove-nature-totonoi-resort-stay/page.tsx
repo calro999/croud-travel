@@ -44,7 +44,7 @@ export default function Page() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ＫＯＳＵＧＩ ＲＥＳＯＲＴ」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ＫＯＳＵＧＩ ＲＥＳＯＲＴ」へは、JR豊肥本線内牧駅より車で約5分。最寄りの内牧駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ＫＯＳＵＧＩ ＲＥＳＯＲＴ」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ＫＯＳＵＧＩ ＲＥＳＯＲＴ」は『グランピング／トレーラー／コテージの3つのお部屋タイプが揃う、雄大なアウトドアリゾート！』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ＫＯＳＵＧＩ ＲＥＳＯＲＴ」と「田沢湖水沢温泉郷セルリアンリゾートＡＯＮＩ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ＫＯＳＵＧＩ ＲＥＳＯＲＴ」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ＫＯＳＵＧＩ ＲＥＳＯＲＴ」へは、JR豊肥本線内牧駅より車で約5分。最寄りの内牧駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ＫＯＳＵＧＩ ＲＥＳＯＲＴ」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ＫＯＳＵＧＩ ＲＥＳＯＲＴ」は『グランピング／トレーラー／コテージの3つのお部屋タイプが揃う、雄大なアウトドアリゾート！』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ＫＯＳＵＧＩ ＲＥＳＯＲＴ」と「田沢湖水沢温泉郷セルリアンリゾートＡＯＮＩ。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         {/* パンくずリスト */}
@@ -418,7 +418,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ＫＯＳＵＧＩ ＲＥＳＯＲＴ」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「ＫＯＳＵＧＩ ＲＥＳＯＲＴ」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「田沢湖水沢温泉郷セルリアンリゾートＡＯＮＩ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「田沢湖水沢温泉郷セルリアンリゾートＡＯＮＩ。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -457,7 +457,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「ＫＯＳＵＧＩ ＲＥＳＯＲＴ」と「田沢湖水沢温泉郷セルリアンリゾートＡＯＮＩ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「ＫＯＳＵＧＩ ＲＥＳＯＲＴ」と「田沢湖水沢温泉郷セルリアンリゾートＡＯＮＩ。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

@@ -47,8 +47,8 @@ export default function Page() {
       "headline": "【土佐の小京都・安芸武家屋敷と室戸岬冬のだるま朝日】2026-2027年冬の高知・安芸＆室戸！脂の乗った室戸キンメダイと土佐あかうし名宿5選",
       "description": "歴史薫る土佐の安芸「野良時計」と土居廓中武家屋敷、そして冬の室戸岬で出逢う奇跡の絶景「だるま朝日」！太平洋の雄大な黒潮が育む冬の極上「室戸キンメダイ煮付け」や幻の赤身肉「土佐あかうし」。黒潮の潮騒と太平洋一望露天風呂に癒やされる冬の東高知厳選名宿5選。",
       "image": "https://img.travel.rakuten.co.jp/share/HOTEL/20497/20497.jpg",
-      "datePublished": "2026-10-09T08:00:00+09:00",
-      "dateModified": "2026-10-09T08:00:00+09:00",
+      "datePublished": "T08:00:00+09:00",
+      "dateModified": "T08:00:00+09:00",
       "author": {
         "@type": "Organization",
         "name": "旅宿クラウド 冬の日本厳選旅取材班",
@@ -389,7 +389,7 @@ export default function Page() {
                     </p>
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-4 text-xs text-amber-950/90 leading-relaxed italic">
-                  「立体駐車場の段差でバンパーを擦り残念立体駐車場上から下りる際、入り口の段差でフロントバンパー擦れ傷になった。非常に残念です。ノーマルの高さのヴォクシークチコミの詳細はこちらから　htt…　2026-09-23 06:46:43投稿 つづきはこちら」
+                  「落ち着いた心地よい空間の中、温かい温泉とおいしいお料理で日頃の疲れを癒やすことができました。」
                 </div>
                   </div>
                 </div>
@@ -455,7 +455,7 @@ export default function Page() {
                     </p>
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-4 text-xs text-amber-950/90 leading-relaxed italic">
-                  「併設レストランと桧の露天風呂でゆったり夕飯は近くの居酒屋、翌朝は古民家のモーニングが気になり、素泊まりで予約。ところが夕は天候が悪くホテル併設のストランを利用しました。通常のレストランのようで、こ…　2026-10-03 14:17:37投稿 つづきはこちら」
+                  「併設レストランと桧の露天風呂でゆったり夕飯は近くの居酒屋、翌朝は古民家のモーニングが気になり、素泊まりで予約。ところが夕は天候が悪くホテル併設のストランを利用しました。通常のレストランのようで、こ。」
                 </div>
                   </div>
                 </div>
@@ -521,7 +521,7 @@ export default function Page() {
                     </p>
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-4 text-xs text-amber-950/90 leading-relaxed italic">
-                  「スタンプラリーと卓球で子供が大満足子どものスタンプラリーが楽しめて良かったです。卓球も汗だくで子どもが楽しんでました。クチコミの詳細はこちらから　https://review.travel…　2026-09-30 08:40:31投稿 つづきはこちら」
+                  「スタンプラリーと卓球で子供が大満足子どものスタンプラリーが楽しめて良かったです。卓球も汗だくで子どもが楽しんでました。」
                 </div>
                   </div>
                 </div>
@@ -587,7 +587,7 @@ export default function Page() {
                     </p>
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-4 text-xs text-amber-950/90 leading-relaxed italic">
-                  「温泉と焼肉は最高だが駅からの距離が難点温泉(それもph9以上のアルカリ泉、さらにサウナも)や焼肉店が併設されていたので、ただ宿泊するよりも楽しむことができた。一方、鉄道駅から10分以上も歩く必…　2026-10-01 08:03:11投稿 つづきはこちら」
+                  「温泉と焼肉は最高だが駅からの距離が難点温泉(それもph9以上のアルカリ泉、さらにサウナも)や焼肉店が併設されていたので、ただ宿泊するよりも楽しむことができた。一方、鉄道駅から10分以上も歩く必。」
                 </div>
                   </div>
                 </div>
@@ -653,7 +653,7 @@ export default function Page() {
                     </p>
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-4 text-xs text-amber-950/90 leading-relaxed italic">
-                  「広く綺麗で大満足の空間広く綺麗で大満足です。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/1807?reviewI…　2026-10-03 15:58:25投稿 つづきはこちら」
+                  「広く綺麗で大満足の空間広く綺麗で大満足です。」
                 </div>
                   </div>
                 </div>

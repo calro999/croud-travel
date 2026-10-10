@@ -315,7 +315,7 @@ export default function AutumnBudgetHotelsPage() {
           </div>
         </div>
 
-        {/* 宿5: アパホテル＜高崎駅東口＞２０２６年１１月２日ＯＰＥＮ */}
+        {/* 宿5: アパホテル＜高崎駅東口＞ＯＰＥＮ */}
         <div className="bg-white rounded-2xl border border-slate-200 overflow-hidden shadow-sm hover:shadow-md transition">
           <div className="p-6 space-y-4">
             <div className="flex flex-wrap items-center justify-between gap-2 border-b border-slate-100 pb-3">
@@ -330,7 +330,7 @@ export default function AutumnBudgetHotelsPage() {
               <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/197229/197229.jpg"
-                  alt="アパホテル＜高崎駅東口＞２０２６年１１月２日ＯＰＥＮ"
+                  alt="アパホテル＜高崎駅東口＞ＯＰＥＮ"
                   fill
                   className="object-cover"
                   sizes="(max-width: 768px) 100vw, 360px"
@@ -338,7 +338,7 @@ export default function AutumnBudgetHotelsPage() {
               </div>
               <div className="md:col-span-7 space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  アパホテル＜高崎駅東口＞２０２６年１１月２日ＯＰＥＮ
+                  アパホテル＜高崎駅東口＞ＯＰＥＮ
                 </h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />

@@ -47,8 +47,8 @@ export default function Page() {
       "headline": "【日本最古の神域・三輪明神大神神社新春初詣と山の辺の道】2026-2027年冬の奈良・桜井！本場三輪にゅうめんと大和牛すき焼き名宿5選",
       "description": "日本最古の神社と称される大和国一之宮「大神神社（三輪明神）」新春開運初詣！三輪山をご神体とする神秘の森と冬の静けさに包まれる日本最古の道「山の辺の道」。伝統の手延べ「三輪にゅうめん」と極上霜降り大和牛に心温まる、古代史のロマンあふれる冬の奈良・桜井厳選名宿5選。",
       "image": "https://img.travel.rakuten.co.jp/share/HOTEL/14788/14788.jpg",
-      "datePublished": "2026-10-09T08:00:00+09:00",
-      "dateModified": "2026-10-09T08:00:00+09:00",
+      "datePublished": "T08:00:00+09:00",
+      "dateModified": "T08:00:00+09:00",
       "author": {
         "@type": "Organization",
         "name": "旅宿クラウド 冬の日本厳選旅取材班",
@@ -389,7 +389,7 @@ export default function Page() {
                     </p>
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-4 text-xs text-amber-950/90 leading-relaxed italic">
-                  「温かい接客と美味しい義経鍋に大満足ホテルの方々がとても暖かく接してくださって気持ちよく過ごせました。義経鍋も美味しかったし、色々な食材を食べることができてよかったです。クチコミの詳細はこちらか…　2026-09-27 01:46:42投稿 つづきはこちら」
+                  「温かい接客と美味しい義経鍋に大満足ホテルの方々がとても暖かく接してくださって気持ちよく過ごせました。義経鍋も美味しかったし、色々な食材を食べることができてよかったです。」
                 </div>
                   </div>
                 </div>
@@ -455,7 +455,7 @@ export default function Page() {
                     </p>
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-4 text-xs text-amber-950/90 leading-relaxed italic">
-                  「駅近で清潔、大浴場もあり眺めも良好駅から近く、清潔でした。大浴場有難いです。出発時間が早く、残念ながら朝食無しプランにしましたが、眺めが良く、朝食美味しかったら星5つかなと思います。…　2026-09-28 14:09:58投稿 つづきはこちら」
+                  「駅近で清潔、大浴場もあり眺めも良好駅から近く、清潔でした。大浴場有難いです。」
                 </div>
                   </div>
                 </div>
@@ -521,7 +521,7 @@ export default function Page() {
                     </p>
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-4 text-xs text-amber-950/90 leading-relaxed italic">
-                  「ラウンジと朝食は最高だが清掃が残念ラウンジで過ごす時間が楽しすぎました。朝ごはんも色々あって美味しくいただきました。部屋の備品にホコリが積もっているのが気になりました。水を入れるポットの蓋…　2026-10-03 10:51:59投稿 つづきはこちら」
+                  「朝ごはんも色々あって美味しくいただきました。部屋の備品にホコリが積もっているのが気になりました。水を入れるポットの蓋。」
                 </div>
                   </div>
                 </div>
@@ -587,7 +587,7 @@ export default function Page() {
                     </p>
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-4 text-xs text-amber-950/90 leading-relaxed italic">
-                  「駅近で便利、朝食と大浴場が最高に快適観光の拠点として、駅至近の大変便利な場所にあり助かります。 ホテルルートインは朝食付きで大浴場があるのでとてもお気に入りです。クチコミの詳細はこちらから　h…　2026-10-03 10:05:13投稿 つづきはこちら」
+                  「駅近で便利、朝食と大浴場が最高に快適観光の拠点として、駅至近の大変便利な場所にあり助かります。ホテルルートインは朝食付きで大浴場があるのでとてもお気に入りです。」
                 </div>
                   </div>
                 </div>

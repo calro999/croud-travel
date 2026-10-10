@@ -177,8 +177,8 @@ export default function WinterAichiGamagoriPage() {
         'description': "11月から12月にかけて、愛知県・三河湾の風光明媚な海岸線に広がる蒲郡温泉郷（蒲郡・三谷・西浦温泉）は、冬の澄み渡る青空と穏やかな海、国指定天然記念物「竹島」を染める真紅のサンセットが最も美しい季節を迎えます。全国屈指の深海魚水揚げを誇る蒲郡漁港で冬に最盛期を迎える名物「メヒカリ（目光）」のサクサク唐揚げや、水深200m超の深海から水揚げされる幻の美味「アカザエビ（深海手長エビ）」の刺身、とろける霜降りのブランド黒毛和牛「三河牛」、冬のラグーナテンボス・イルミネーション。三河湾を一望する絶景オーシャンビュー露天風呂とともに、温暖な冬旅を約束する厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
         'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-aichi-gamagori-onsen-mikawawan-mehikari-akazaebi-stay',
-        'datePublished': '2026-09-28T00:00:00+09:00',
-        'dateModified': '2026-09-28T00:00:00+09:00',
+        'datePublished': 'T00:00:00+09:00',
+        'dateModified': 'T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
           'name': 'クラドトラベル編集部',

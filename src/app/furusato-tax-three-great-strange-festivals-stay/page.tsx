@@ -36,7 +36,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/3076/3076map.gif",
     "reviewCount": 815,
     "reviewAverage": 3.99,
-    "userReview": "湖岸まで近く花火大会の拠点に最適花火大会を見るためにいつも利用してます。湖岸まで近いので大変便利ですクチコミの詳細はこちらから　https://review.travel.rakuten.co…　 ",
+    "userReview": "湖岸まで近く花火大会の拠点に最適花火大会を見るためにいつも利用してます。湖岸まで近いので大変便利です。",
     "hotelMinCharge": 6025,
     "address1": "長野県",
     "address2": "諏訪市湖岸通り4-9-25",
@@ -67,11 +67,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8713/8713map.gif",
     "reviewCount": 353,
     "reviewAverage": 4.08,
-    "userReview": "駐車場が便利で、駅に程よく近い家族が泊まりにくる時に利用させていただいております。駐車場もチェックイン前からチェックイン後まで停めさせてもらえるのでとても助かっています!いつも泊まっている…　 ",
+    "userReview": "駐車場が便利で、駅に程よく近い家族が泊まりにくる時に利用させていただいております。駐車場もチェックイン前からチェックイン後まで停めさせてもらえるのでとても助かっています!いつも泊まっている。",
     "hotelMinCharge": 5747,
     "address1": "愛知県",
     "address2": "稲沢市長野2-10-8",
-    "telephoneNo": "0587-23-5565",
+    "telephoneNo": "65",
     "access": "JR東海道本線稲沢駅より徒歩５分・名神高速 一宮I.C.より車で10分",
     "parkingInformation": "大駐車場有り：50台（無料・先着順）到着されたらフロントにて場所をご確認下さい。",
     "nearestStation": "稲沢",
@@ -98,11 +98,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/52102/52102map.gif",
     "reviewCount": 688,
     "reviewAverage": 4.1,
-    "userReview": "温泉は良いが清掃と食事の改善を希望温泉は良かったですが、ソファの影にお菓子が落ちていたり、洗面所が詰まっていたり、と残念でした。食事の味付けなども工夫が欲しいです。クチコミの詳細はこちらか…　 ",
+    "userReview": "食事の味付けなども工夫が欲しいです。",
     "hotelMinCharge": 11110,
     "address1": "秋田県",
     "address2": "男鹿市北浦湯本草木原50-1",
-    "telephoneNo": "0185-33-2131",
+    "telephoneNo": "31",
     "access": "秋田自動車道秋田北IC下車６０ｋｍ７０分／JR羽立駅～路線バスで４５分／JR男鹿駅～無料送迎バスあり詳しくは公式HPへ",
     "parkingInformation": "有り　２０台　無料　予約不要",
     "nearestStation": "羽立",
@@ -110,7 +110,7 @@ export default function Page() {
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52102%2F52102.html",
     "featureKey": "matsuri_namahage",
     "featureLabel": "秋田県男鹿市ふるさと納税・ユネスコ無形文化遺産・泣く子はいねがの咆哮「男鹿のナマハゲ」男鹿温泉郷別邸つばき",
-    "themeTitle": "秋田県男鹿市ふるさと納税：男鹿ナマハゲ伝承館至近・名物石焼料理と名湯「男鹿温泉 湯けむりリゾート セイコーグランドホテル」",
+    "themeTitle": "秋田県男鹿市ふるさと納税：男鹿ナマハゲ伝承館至近・名物石焼料理と名湯「男鹿温泉 湯けむりリゾート セイコーグランドホテル。」",
     "themeDesc": "ナマハゲ発祥の地・男鹿半島の温泉リゾート。男鹿温泉郷の源泉かけ流し大浴場と露天風呂で温まり、夕食は真っ赤に焼けた溶岩石を桶に投入して一瞬で煮立てる名物「男鹿名物石焼料理」や日本海の新鮮な海の幸を豪快に堪能できます。",
     "revAvg": "4.1",
     "minCharge": "11,110"
@@ -185,7 +185,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「上諏訪天然温泉「七釜混合」ホテルルートイン上諏訪」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「上諏訪天然温泉「七釜混合」ホテルルートイン上諏訪」へは、上諏訪駅より徒歩５分、中央道諏訪Ｉ．Ｃより約15分。最寄りの上諏訪駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「上諏訪天然温泉「七釜混合」ホテルルートイン上諏訪」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「上諏訪天然温泉「七釜混合」ホテルルートイン上諏訪」は『天然温泉大浴場◆駐車場無料◆WiFi接続無料◆朝食バイキング無料』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「上諏訪天然温泉「七釜混合」ホテルルートイン上諏訪」と「お宿 和陽館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「上諏訪天然温泉「七釜混合」ホテルルートイン上諏訪」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「上諏訪天然温泉「七釜混合」ホテルルートイン上諏訪」へは、上諏訪駅より徒歩５分、中央道諏訪Ｉ．Ｃより約15分。最寄りの上諏訪駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「上諏訪天然温泉「七釜混合」ホテルルートイン上諏訪」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「上諏訪天然温泉「七釜混合」ホテルルートイン上諏訪」は『天然温泉大浴場◆駐車場無料◆WiFi接続無料◆朝食バイキング無料。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「上諏訪天然温泉「七釜混合」ホテルルートイン上諏訪」と「お宿 和陽館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         
         {/* 特集の魅力セクション */}
@@ -491,7 +491,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「上諏訪天然温泉「七釜混合」ホテルルートイン上諏訪」は『天然温泉大浴場◆駐車場無料◆WiFi接続無料◆朝食バイキング無料』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「上諏訪天然温泉「七釜混合」ホテルルートイン上諏訪」は『天然温泉大浴場◆駐車場無料◆WiFi接続無料◆朝食バイキング無料。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

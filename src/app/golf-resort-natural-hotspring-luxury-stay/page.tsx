@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/golf-resort-natural-hotspring-luxury-stay"
   };
 
@@ -83,11 +83,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/53749/53749map.gif",
     "reviewCount": 202,
     "reviewAverage": 4.13,
-    "userReview": "露天風呂がなくても、十分いいお風呂でゆっくりできた。料理もおいしく、肉魚両方あって、静かに眠れた。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp…　2026-06-22 17:10:07投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=53749\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "露天風呂がなくても、十分いいお風呂でゆっくりできた。料理もおいしく、肉魚両方あって、静かに眠れた。",
     "hotelMinCharge": 4060,
     "address1": "静岡県",
     "address2": "伊豆市湯ヶ島2571-10",
-    "telephoneNo": "0558-85-2100",
+    "telephoneNo": "00",
     "access": "伊豆箱根鉄道駿豆線：修善寺駅から送迎バス運行　約25分　(ご利用日前日までに要予約)　詳細はお電話にてお問合せください。",
     "parkingInformation": "有り　１２０台　無料",
     "nearestStation": "修善寺",
@@ -108,11 +108,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8631/8631map.gif",
     "reviewCount": 1060,
     "reviewAverage": 4.2,
-    "userReview": "温泉と料理、幻想的な空間で非日常を満喫温泉がすごくよかったです。温めなのでゆっくり浸かれてお肌がしっとりしました。また料理もすごく美味しく食堂から窓の外のロケーションもよく廊下も灯りが幻想的で…　2026-09-05 11:19:31投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=8631\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "温泉と料理、幻想的な空間で非日常を満喫温泉がすごくよかったです。温めなのでゆっくり浸かれてお肌がしっとりしました。また料理もすごく美味しく食堂から窓の外のロケーションもよく廊下も灯りが幻想的で。",
     "hotelMinCharge": 17600,
     "address1": "岐阜県",
     "address2": "高山市荘川町新渕892-11",
-    "telephoneNo": "05769-2-2611",
+    "telephoneNo": "011",
     "access": "車で名古屋から約90分（東海北陸自動車道「荘川I.C」より約7分）車でJR高山駅まで約50分、白川郷まで約45分",
     "parkingInformation": "有り　100台(無料)",
     "nearestStation": "高山",
@@ -133,7 +133,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13487/13487map.gif",
     "reviewCount": 4338,
     "reviewAverage": 4.7,
-    "userReview": "愛犬と広々コテージで大満足の休日初めてご利用させて頂きました。愛犬と一緒に過ごしたいなと思いコテージ利用させていただきました。十分すぎる広さでウェルカムドリンクも沢山用意してあり感動です。愛犬もと…　2026-09-19 21:05:37投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=13487\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "愛犬と広々コテージで大満足の休日初めてご利用させて頂きました。愛犬と一緒に過ごしたいなと思いコテージ利用させていただきました。十分すぎる広さでウェルカムドリンクも沢山用意してあり感動です。愛犬もと。",
     "hotelMinCharge": 10340,
     "address1": "新潟県",
     "address2": "十日町市珠川",

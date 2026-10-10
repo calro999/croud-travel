@@ -39,8 +39,8 @@ export default function FurusatoArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-10T17:15:00+09:00',
-    dateModified: '2026-09-10T17:15:00+09:00',
+    datePublished: 'T17:15:00+09:00',
+    dateModified: 'T17:15:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-nyuto-onsen-secret-milky-stay',
   };
 
@@ -49,7 +49,7 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「休暇村 乳頭温泉郷」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「休暇村 乳頭温泉郷」へは、ＪＲ 田沢湖駅より羽後交通乳頭温泉行「休暇村」下車、徒歩０分。最寄りの田沢湖駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「休暇村 乳頭温泉郷」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「休暇村 乳頭温泉郷」は『美しいブナ林に囲まれた静かな宿です。温泉浴や森林浴が楽しめ、ここでは時間がゆっくりと流れて』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「休暇村 乳頭温泉郷」と「天然温泉 田沢湖レイクリゾート」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「休暇村 乳頭温泉郷」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「休暇村 乳頭温泉郷」へは、ＪＲ 田沢湖駅より羽後交通乳頭温泉行「休暇村」下車、徒歩０分。最寄りの田沢湖駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「休暇村 乳頭温泉郷」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「休暇村 乳頭温泉郷」は『美しいブナ林に囲まれた静かな宿です。温泉浴や森林浴が楽しめ、ここでは時間がゆっくりと流れて。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「休暇村 乳頭温泉郷」と「天然温泉 田沢湖レイクリゾート」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -203,7 +203,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.51点、口コミ1200件超。「二種類の温泉がどちらも最高で肌がすべすべになった」「森に囲まれた環境と秋田の郷土料理バイキングに大満足」と絶賛。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.51点、口コミ1200件超。「二種類の温泉がどちらも最高で肌がすべすべになった。」「森に囲まれた環境と秋田の郷土料理バイキングに大満足。」と絶賛。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -287,7 +287,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.33点、口コミ1400件超。「お部屋が広くて清潔、お風呂も広々として気持ちよかった」「バイキングの品数が多く郷土料理が美味しかった」と好評。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.33点、口コミ1400件超。「お部屋が広くて清潔、お風呂も広々として気持ちよかった。」「バイキングの品数が多く郷土料理が美味しかった。」と好評。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.63点、口コミ700件超。「鶴の湯への送迎サービスが素晴らしく、宿のお風呂も料理も十割そばも最高」「静かで温かい最高の隠れ宿」と熱狂的なリピーター多数。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.63点、口コミ700件超。「鶴の湯への送迎サービスが素晴らしく、宿のお風呂も料理も十割そばも最高。」「静かで温かい最高の隠れ宿」と熱狂的なリピーター多数。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -578,7 +578,7 @@ export default function FurusatoArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「休暇村 乳頭温泉郷」は『美しいブナ林に囲まれた静かな宿です。温泉浴や森林浴が楽しめ、ここでは時間がゆっくりと流れて』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「休暇村 乳頭温泉郷」は『美しいブナ林に囲まれた静かな宿です。温泉浴や森林浴が楽しめ、ここでは時間がゆっくりと流れて。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

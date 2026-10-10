@@ -73,7 +73,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「戸隠山宿坊 妙光院 武田旅館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「戸隠山宿坊 妙光院 武田旅館」へは、長野駅より戸隠キャンプ場又は戸隠スキー場行バス（５５分）中社大門下車徒歩２分。最寄りの長野駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「戸隠山宿坊 妙光院 武田旅館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「戸隠山宿坊 妙光院 武田旅館」は『武田信玄ゆかりの萱葺屋根が残り、どこか懐かしい雰囲気を持つ本館。何泊しても楽しみな料理自慢』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「戸隠山宿坊 妙光院 武田旅館」と「宿坊旅館 大西」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「戸隠山宿坊 妙光院 武田旅館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「戸隠山宿坊 妙光院 武田旅館」へは、長野駅より戸隠キャンプ場又は戸隠スキー場行バス（５５分）中社大門下車徒歩２分。最寄りの長野駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「戸隠山宿坊 妙光院 武田旅館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「戸隠山宿坊 妙光院 武田旅館」は『武田信玄ゆかりの萱葺屋根が残り、どこか懐かしい雰囲気を持つ本館。何泊しても楽しみな料理自慢。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「戸隠山宿坊 妙光院 武田旅館」と「宿坊旅館 大西」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
 
         {/* セクション 1 */}
@@ -562,7 +562,7 @@ export default function Page() {
             </div>
             <div className="bg-stone-950/60 p-4 rounded-2xl border border-stone-800">
               <span className="text-amber-400 font-bold block mb-1">🚗 交通アクセス</span>
-              <span className="text-stone-300">長野電鉄「小布施駅」下車徒歩約10分。上信越道「小布施ハイウェイオアシス（スマートIC）」すぐ。</span>
+              <span className="text-stone-300">長野電鉄「小布施駅」下車徒歩約10分。上信越道「小布施ハイウェイオアシス（スマートIC）。」すぐ。</span>
             </div>
             <div className="bg-stone-950/60 p-4 rounded-2xl border border-stone-800">
               <span className="text-amber-400 font-bold block mb-1">💡 旅のワンポイント・秘訣</span>
@@ -757,7 +757,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「戸隠山宿坊 妙光院 武田旅館」は『武田信玄ゆかりの萱葺屋根が残り、どこか懐かしい雰囲気を持つ本館。何泊しても楽しみな料理自慢』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「戸隠山宿坊 妙光院 武田旅館」は『武田信玄ゆかりの萱葺屋根が残り、どこか懐かしい雰囲気を持つ本館。何泊しても楽しみな料理自慢。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

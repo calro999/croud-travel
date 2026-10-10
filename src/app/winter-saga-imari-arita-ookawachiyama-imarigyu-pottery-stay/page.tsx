@@ -294,7 +294,7 @@ export default function Page() {
 
                   <div className="mt-3 p-3 bg-stone-50 rounded-lg border border-stone-200/60 text-xs text-stone-600 italic">
                     <p className="font-semibold text-[11px] text-stone-500 not-italic mb-0.5">宿泊者のクチコミ抜粋：</p>
-                    「バイク駐車可能、近くにスーパーもあり便利バイク駐車可能入り口横の空きスペースに駐めさせてもらえます。すぐ隣に優先駐車スペースがあるので、注意が必要です。隣接してる温浴施設は、広…　2026-10-03 11:48:38投稿 つづきはこちら」
+                    「バイク駐車可能、近くにスーパーもあり便利バイク駐車可能入り口横の空きスペースに駐めさせてもらえます。すぐ隣に優先駐車スペースがあるので、注意が必要です。隣接してる温浴施設は、広。」
                   </div>
 
                   <div className="mt-3 pt-3 border-t border-stone-100 text-[11px] text-stone-500 space-y-0.5">
@@ -361,7 +361,7 @@ export default function Page() {
 
                   <div className="mt-3 p-3 bg-stone-50 rounded-lg border border-stone-200/60 text-xs text-stone-600 italic">
                     <p className="font-semibold text-[11px] text-stone-500 not-italic mb-0.5">宿泊者のクチコミ抜粋：</p>
-                    「とても満足できる内容良いクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/72059?reviewId=33123…　2026-10-03 03:37:41投稿 つづきはこちら」
+                    「とても満足できる内容良い 」
                   </div>
 
                   <div className="mt-3 pt-3 border-t border-stone-100 text-[11px] text-stone-500 space-y-0.5">
@@ -428,7 +428,7 @@ export default function Page() {
 
                   <div className="mt-3 p-3 bg-stone-50 rounded-lg border border-stone-200/60 text-xs text-stone-600 italic">
                     <p className="font-semibold text-[11px] text-stone-500 not-italic mb-0.5">宿泊者のクチコミ抜粋：</p>
-                    「とても快適で心地よい時間を過ごせたとても快適に過ごせました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/1479…　2026-09-29 15:52:41投稿 つづきはこちら」
+                    「とても快適で心地よい時間を過ごせたとても快適に過ごせました。」
                   </div>
 
                   <div className="mt-3 pt-3 border-t border-stone-100 text-[11px] text-stone-500 space-y-0.5">

@@ -36,7 +36,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6113/6113map.gif",
     "reviewCount": 915,
     "reviewAverage": 4,
-    "userReview": "花火会場への好立地と充実したサービスが魅力越前市サマーフェスティバルのために宿泊しました。花火会場に行くには立地は最高でした。部屋などはよくあるビジネスホテルといった感じで良くも悪くもなく…　 ",
+    "userReview": "花火会場への好立地と充実したサービスが魅力越前市サマーフェスティバルのために宿泊しました。花火会場に行くには立地は最高でした。部屋などはよくあるビジネスホテルといった感じで良くも悪くもなく。",
     "hotelMinCharge": 4400,
     "address1": "福井県",
     "address2": "越前市府中1-2-3",
@@ -70,7 +70,7 @@ export default function Page() {
     "hotelMinCharge": 7700,
     "address1": "岐阜県",
     "address2": "美濃市安毛31-5",
-    "telephoneNo": "0575-33-0426",
+    "telephoneNo": "26",
     "access": "美濃市駅より車で7分/美濃ＩＣから7分",
     "parkingInformation": "有り　60台　　無料",
     "nearestStation": "梅山",
@@ -96,7 +96,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/75287/75287map.gif",
     "reviewCount": 278,
     "reviewAverage": 4.43,
-    "userReview": "接客とロケーションが最高、食事も大満足接客対応がとても素晴らしくロケーションも抜群でした。朝食、夕食ともとても美味しく是非また利用したいです。色々、高知の宿を迷いましたが、ここにして良かったです。…　 ",
+    "userReview": "接客とロケーションが最高、食事も大満足接客対応がとても素晴らしくロケーションも抜群でした。朝食、夕食ともとても美味しく是非また利用したいです。色々、高知の宿を迷いましたが、ここにして良かったです。",
     "hotelMinCharge": 10850,
     "address1": "高知県",
     "address2": "吾川郡いの町鹿敷1226",
@@ -182,7 +182,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ホテルクラウンヒルズ武生駅前」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ホテルクラウンヒルズ武生駅前」へは、ハピラインふくい武生駅下車徒歩1分！ 北陸自動車道武生IC車で10分。最寄りの武生駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ホテルクラウンヒルズ武生駅前」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ホテルクラウンヒルズ武生駅前」は『ハピライン武生駅より徒歩1分以内の好立地。9Fスカイレストランからは、越前市街を一望できま』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ホテルクラウンヒルズ武生駅前」と「料理旅館いずみ荘」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ホテルクラウンヒルズ武生駅前」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ホテルクラウンヒルズ武生駅前」へは、ハピラインふくい武生駅下車徒歩1分！ 北陸自動車道武生IC車で10分。最寄りの武生駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ホテルクラウンヒルズ武生駅前」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ホテルクラウンヒルズ武生駅前」は『ハピライン武生駅より徒歩1分以内の好立地。9Fスカイレストランからは、越前市街を一望できま。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ホテルクラウンヒルズ武生駅前」と「料理旅館いずみ荘」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         
         {/* 特集の魅力セクション */}
@@ -488,7 +488,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「ホテルクラウンヒルズ武生駅前」は『ハピライン武生駅より徒歩1分以内の好立地。9Fスカイレストランからは、越前市街を一望できま』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「ホテルクラウンヒルズ武生駅前」は『ハピライン武生駅より徒歩1分以内の好立地。9Fスカイレストランからは、越前市街を一望できま。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

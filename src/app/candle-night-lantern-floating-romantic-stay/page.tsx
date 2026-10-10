@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/candle-night-lantern-floating-romantic-stay"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D29110%26f_flg%3DPLAN",
     "hotelMinCharge": 8250,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29110/29110.jpg",
-    "userReview": "ご飯と味噌汁が絶品、とてもくつろげた旅館の宣伝通り、ご飯と味噌汁がすごく美味しかった。お湯も滑らかで肌にも優しい感じがしました。設備は古いですが隅々まで清掃されており、また、旅館の人も親切で、とて…　2026-09-18 19:03:52投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=29110\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "ご飯と味噌汁が絶品、とてもくつろげた旅館の宣伝通り、ご飯と味噌汁がすごく美味しかった。お湯も滑らかで肌にも優しい感じがしました。設備は古いですが隅々まで清掃されており、また、旅館の人も親切で、とて。",
     "reviewAverage": 4.15,
     "reviewCount": 201,
     "address": "長野県上田市西内1262",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D31249%26f_flg%3DPLAN",
     "hotelMinCharge": 8400,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31249/31249.jpg",
-    "userReview": "施設は古いが清潔、記念日の心遣いに感動施設は古いですが館内は清潔で綺麗です。記念日の連絡はしませんでしたが、覚えていてくれたか赤飯のサービスと記念撮影をしていただきました。クチコミの詳細は…　2026-09-07 20:04:01投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=31249\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "施設は古いが清潔、記念日の心遣いに感動施設は古いですが館内は清潔で綺麗です。記念日の連絡はしませんでしたが、覚えていてくれたか赤飯のサービスと記念撮影をしていただきました。クチコミの詳細は。",
     "reviewAverage": 4.17,
     "reviewCount": 1611,
     "address": "愛知県額田郡幸田町荻遠峰10",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D29387%26f_flg%3DPLAN",
     "hotelMinCharge": 7150,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29387/29387.jpg",
-    "userReview": "食事も部屋も素晴らしく、スタッフも親切夕食もとても美味しくてお部屋も綺麗でした!スタッフさんも親切な方ばかりで良かったです!また来たいと思いました^_^クチコミの詳細はこちらから　ht…　2026-09-14 18:15:50投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=29387\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "食事も部屋も素晴らしく、スタッフも親切夕食もとても美味しくてお部屋も綺麗でした!スタッフさんも親切な方ばかりで良かったです!また来たいと思いました^_^。",
     "reviewAverage": 3.72,
     "reviewCount": 2084,
     "address": "群馬県渋川市伊香保町伊香保557-32",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D2628%26f_flg%3DPLAN",
     "hotelMinCharge": 14000,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2628/2628.jpg",
-    "userReview": "奥四万ダムに近く、温泉と地産料理に癒される奥四万ダムから比較的近いです。料理は量がちょうどよく群馬の食材をつかっておりとても美味しかったです。温泉の湯質は最高でした。何もすることが…　2026-09-19 12:41:07投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=2628\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "奥四万ダムに近く、温泉と地産料理に癒される奥四万ダムから比較的近いです。料理は量がちょうどよく群馬の食材をつかっておりとても美味しかったです。温泉の湯質は最高でした。何もすることが。",
     "reviewAverage": 4.61,
     "reviewCount": 243,
     "address": "群馬県吾妻郡中之条町四万4358-11",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D56778%26f_flg%3DPLAN",
     "hotelMinCharge": 7920,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/56778/56778.jpg",
-    "userReview": "温泉とショーに大満足、また行きたい!アジアンスイートを利用させていただきましたが、スタッフさん方はみなさん丁寧に接客してくれますし、温泉も最高でしたし、平日限定の湯上がりサロンのビールがめちゃくち…　2026-09-19 08:21:55投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=56778\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "温泉とショーに大満足、また行きたい!アジアンスイートを利用させていただきましたが、スタッフさん方はみなさん丁寧に接客してくれますし、温泉も最高でしたし、平日限定の湯上がりサロンのビールがめちゃくち。",
     "reviewAverage": 4.2,
     "reviewCount": 4750,
     "address": "岐阜県下呂市幸田1811",
@@ -335,7 +335,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「鹿教湯温泉 旅館 斉北荘」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「鹿教湯温泉 旅館 斉北荘」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「蒲郡温泉 銀河伝説煌めく天空の宿 天の丸」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「蒲郡温泉 銀河伝説煌めく天空の宿 天の丸。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -374,7 +374,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「鹿教湯温泉 旅館 斉北荘」と「蒲郡温泉 銀河伝説煌めく天空の宿 天の丸」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「鹿教湯温泉 旅館 斉北荘」と「蒲郡温泉 銀河伝説煌めく天空の宿 天の丸。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

@@ -374,7 +374,7 @@ export default function FeaturePage() {
                     
                 <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「食事がとても美味しく大満足御飯がとてもおいしかったです。お風呂も気持ちよかった。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/…　2026-09-29 18:30:48投稿 …」"}</p>
+                  <p className="leading-relaxed">{"「食事がとても美味しく大満足御飯がとてもおいしかったです。お風呂も気持ちよかった。」"}</p>
                 </div>
             
                   </div>
@@ -435,7 +435,7 @@ export default function FeaturePage() {
                     
                 <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「宮崎牛のしゃぶしゃぶが美味しく量も適度宮崎牛のしゃぶしゃぶおいしかったです。 料理の量も適度でした。クチコミの詳細はこちらから　https://review.travel.rakuten.co…　2026-09-27 21:40:24投稿 …」"}</p>
+                  <p className="leading-relaxed">{"「宮崎牛のしゃぶしゃぶが美味しく量も適度宮崎牛のしゃぶしゃぶおいしかったです。料理の量も適度でした。」"}</p>
                 </div>
             
                   </div>
@@ -552,7 +552,7 @@ export default function FeaturePage() {
                     
                 <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「高濃度炭酸泉と清潔なサウナでゆったり温泉最高でした。冷泉の高濃度炭酸が最高に気持ち良いです。サウナも広くて清潔でした。日帰り入浴の方も多いので、泊まりの利用はすいている、夜遅い時間と朝がゆ…　2026-09-23 16:54:57投稿 つづ…」"}</p>
+                  <p className="leading-relaxed">{"「高濃度炭酸泉と清潔なサウナでゆったり温泉最高でした。冷泉の高濃度炭酸が最高に気持ち良いです。サウナも広くて清潔でした。日帰り入浴の方も多いので、泊まりの利用はすいている、夜遅い時間と朝がゆ… つづ。」"}</p>
                 </div>
             
                   </div>

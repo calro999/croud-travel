@@ -62,7 +62,7 @@ export default function FurusatoIndoorPoolKidsFamilyStayPage() {
           雨の日も冬も年中泳げる！室内温水プール＆子ども向け設備充実の大型温泉リゾート×ふるさと納税完全ガイド【2026年最新】那須・草津・別府
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-09">2026年9月9日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -77,7 +77,7 @@ export default function FurusatoIndoorPoolKidsFamilyStayPage() {
           雨でも雪でもへっちゃら！一年中泳げる室内温水プールと巨大キッズパークで、家族みんなの笑顔が輝く休日へ
         </h2>
         <p className="text-base md:text-lg text-gray-800 leading-relaxed mb-6">
-          せっかくの家族旅行、当日あいにくの雨や寒さでお出かけプランが台無しになってしまった……という経験はありませんか？天候や季節に左右されず、子どもたちが思いきり体を動かして遊べる「全天候型・室内温水プール完備の大型温泉リゾート」なら、年中いつでも安心・快適な休日が約束されます。浅瀬の幼児用プールや浮き輪の持ち込みOKな温水プール、屋内の巨大キッズパーク、ゲームコーナー、ボウリング場、そしてパパ・ママを癒やす本格的な天然温泉大浴場や露天風呂、シェフが目の前で焼き上げるキッズフレンドリーな豪華ディナーバイキングまで、一カ所で全てが完結する圧倒的な充実度が魅力です。本特集では、25m室内温水プールや託児所、託児ルーム、ウェルカムベビー認定客室でファミリー人気No.1を誇る「那須温泉 ホテルエピナール那須」、敷地内に温水プール「テルメテルメ」やフォレストステージ、ボウリング場を備えた大自然アクティビティ宿「草津温泉 ホテルヴィレッジ」、そして屋内波の出るプール「アクアビート」や大展望露天風呂「棚湯」、全天候型噴水ショーを誇る九州屈指のエンタメ巨大リゾート「別府温泉 杉乃井ホテル」の3大名宿を厳選。楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円でお得に家族の思い出旅行を叶えましょう。
+          せっかくの家族旅行、当日あいにくの雨や寒さでお出かけプランが台無しになってしまった……という経験はありませんか？天候や季節に左右されず、子どもたちが思いきり体を動かして遊べる「全天候型・室内温水プール完備の大型温泉リゾート。」なら、年中いつでも安心・快適な休日が約束されます。浅瀬の幼児用プールや浮き輪の持ち込みOKな温水プール、屋内の巨大キッズパーク、ゲームコーナー、ボウリング場、そしてパパ・ママを癒やす本格的な天然温泉大浴場や露天風呂、シェフが目の前で焼き上げるキッズフレンドリーな豪華ディナーバイキングまで、一カ所で全てが完結する圧倒的な充実度が魅力です。本特集では、25m室内温水プールや託児所、託児ルーム、ウェルカムベビー認定客室でファミリー人気No.1を誇る「那須温泉 ホテルエピナール那須」、敷地内に温水プール「テルメテルメ」やフォレストステージ、ボウリング場を備えた大自然アクティビティ宿「草津温泉 ホテルヴィレッジ」、そして屋内波の出るプール「アクアビート」や大展望露天風呂「棚湯」、全天候型噴水ショーを誇る九州屈指のエンタメ巨大リゾート「別府温泉 杉乃井ホテル」の3大名宿を厳選。楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円でお得に家族の思い出旅行を叶えましょう。
         </p>
         <div className="bg-white/90 rounded-xl p-4 md:p-5 border border-amber-300 shadow-sm">
           <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5">
@@ -164,7 +164,7 @@ export default function FurusatoIndoorPoolKidsFamilyStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “バイキングと便利な設備で3回目のリピートバイキングがどれも美味しかったです。特にローストビーフと、那須牛乳を使ったバニラアイスが最高でした。また、廊下に氷とウォーターサーバーが設置してあるので…　2026-09-05 21:35:05投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “バイキングと便利な設備で3回目のリピートバイキングがどれも美味しかったです。特にローストビーフと、那須牛乳を使ったバニラアイスが最高でした。また、廊下に氷とウォーターサーバーが設置してあるので… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -206,7 +206,7 @@ export default function FurusatoIndoorPoolKidsFamilyStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “バイキングは種類豊富で大満足、サウナ希望夕朝食ともバイキングが種類も豊富でたいへおいしかった。温泉にサウナを設置していただきたい。クチコミの詳細はこちらから　https://revie…　2026-09-05 22:06:28投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “バイキングは種類豊富で大満足、サウナ希望夕朝食ともバイキングが種類も豊富でたいへおいしかった。温泉にサウナを設置していただきたい。 ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -248,7 +248,7 @@ export default function FurusatoIndoorPoolKidsFamilyStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “毎年来たいホテルNo. 1初めての杉乃井ホテル仕事場の上司に勧められて来ましたが想像以上に満足できるホテルで、毎年遊びに来たいと思えるホテルです。一日中遊べて子供も大人も楽しめます。ク…　2026-09-05 14:42:36投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “毎年来たいホテルNo. 1初めての杉乃井ホテル仕事場の上司に勧められて来ましたが想像以上に満足できるホテルで、毎年遊びに来たいと思えるホテルです。一日中遊べて子供も大人も楽しめます。ク… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -323,7 +323,7 @@ export default function FurusatoIndoorPoolKidsFamilyStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

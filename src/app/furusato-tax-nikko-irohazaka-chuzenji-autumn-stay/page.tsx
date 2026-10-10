@@ -39,8 +39,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
-    "datePublished": "2026-09-19",
-    "dateModified": "2026-09-19",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-nikko-irohazaka-chuzenji-autumn-stay"
   };
 
@@ -469,9 +469,9 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 東武日光駅よりアクセス。東武日光駅バス湯元温泉行下車5分 日光東照宮車60分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「日光湯元温泉 日光グランドホテル ほのかな宿樹林」にチェックイン。全室WiFi完備 ★日光湯元白濁硫黄泉・源泉掛け流し♪自然と温泉のテーマパーク★などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「日光湯元温泉 日光グランドホテル ほのかな宿樹林」の湯処へ。全室WiFi完備 ★日光湯元白濁硫黄泉・源泉掛け流し♪自然と温泉のテーとともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「日光湯元温泉 日光グランドホテル ほのかな宿樹林」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「日光湯元温泉 日光グランドホテル ほのかな宿樹林。」にチェックイン。全室WiFi完備 ★日光湯元白濁硫黄泉・源泉掛け流し♪自然と温泉のテーマパーク★などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「日光湯元温泉 日光グランドホテル ほのかな宿樹林。」の湯処へ。全室WiFi完備 ★日光湯元白濁硫黄泉・源泉掛け流し♪自然と温泉のテーとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「日光湯元温泉 日光グランドホテル ほのかな宿樹林。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -480,8 +480,8 @@ export default function Page() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「日光湯元温泉 日光グランドホテル ほのかな宿樹林」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「日光湯元温泉 日光グランドホテル ほのかな宿樹林」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「日光湯元温泉 日光グランドホテル ほのかな宿樹林。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「日光湯元温泉 日光グランドホテル ほのかな宿樹林。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「日光湯元温泉 奥日光パークロッジ深山」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>

@@ -39,8 +39,8 @@ export default function FurusatoArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-10T18:00:00+09:00',
-    dateModified: '2026-09-10T18:00:00+09:00',
+    datePublished: 'T18:00:00+09:00',
+    dateModified: 'T18:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-kamakura-shonan-ocean-history-stay',
   };
 
@@ -203,7 +203,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.37点、口コミ2600件超。「部屋からの七里ヶ浜と江の島の景色が本当に素晴らしい」「夕日が富士山の向こうに沈むグラデーションに感動した」とリゾート感満載。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.37点、口コミ2600件超。「部屋からの七里ヶ浜と江の島の景色が本当に素晴らしい。」「夕日が富士山の向こうに沈むグラデーションに感動した。」とリゾート感満載。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -287,7 +287,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.89点、口コミ極めて高評価。「松原庵のお料理とお蕎麦がとにかく絶品」「お部屋の雰囲気、スタッフのホスピタリティ、海の近さすべてが完璧」と大人気。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.89点、口コミ極めて高評価。「松原庵のお料理とお蕎麦がとにかく絶品」「お部屋の雰囲気、スタッフのホスピタリティ、海の近さすべてが完璧。」と大人気。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.69点、口コミ1300件超。「駅近で鶴岡八幡宮の参拝に便利すぎる」「お部屋がおしゃれで清潔感があり、スタッフの気配りも素晴らしい」とリピーター多数。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.69点、口コミ1300件超。「駅近で鶴岡八幡宮の参拝に便利すぎる」「お部屋がおしゃれで清潔感があり、スタッフの気配りも素晴らしい。」とリピーター多数。</p>
               </div>
 
               {/* 宿基本情報 */}

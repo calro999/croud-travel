@@ -49,7 +49,7 @@ export default function FurusatoFireflyViewingStayPage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「菊池温泉 木立ちの中の宿 清流荘」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「菊池温泉 木立ちの中の宿 清流荘」へは、九州道/植木ICより約20分(菊水ICより約40分) 肥後大津駅からタクシーで約30分 熊本空港から車で約30分。最寄りの熊本駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「菊池温泉 木立ちの中の宿 清流荘」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「菊池温泉 木立ちの中の宿 清流荘」は『清流・迫間川のほとりに建つ全9室、源泉掛け流しの癒しの湯宿。菊池米を使った美しい創作料理を』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「菊池温泉 木立ちの中の宿 清流荘」と「神鍋温泉 自然に癒される高原ホテル ブルーリッジホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「菊池温泉 木立ちの中の宿 清流荘」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「菊池温泉 木立ちの中の宿 清流荘」へは、九州道/植木ICより約20分(菊水ICより約40分) 肥後大津駅からタクシーで約30分 熊本空港から車で約30分。最寄りの熊本駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「菊池温泉 木立ちの中の宿 清流荘」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「菊池温泉 木立ちの中の宿 清流荘」は『清流・迫間川のほとりに建つ全9室、源泉掛け流しの癒しの湯宿。菊池米を使った美しい創作料理を。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「菊池温泉 木立ちの中の宿 清流荘」と「神鍋温泉 自然に癒される高原ホテル ブルーリッジホテル。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -72,7 +72,7 @@ export default function FurusatoFireflyViewingStayPage() {
             闇夜に舞う無数の光の幻想！初夏のホタル観賞＆清流のせせらぎ温泉宿×ふるさと納税完全ガイド【2026年最新】熊本菊池・兵庫神鍋・神奈川湯河原
           </h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
-            初夏（5月下旬〜6月下旬）のわずか数週間だけ、水清らかな渓流沿いで見られる奇跡の風物詩「ホタル（ゲンジボタル・ヘイケボタル）の乱舞」。都市部では決して見ることのできなくなった無数の光の筋が、水辺の草むらや夜空に優雅に舞い上がる光景は、息を呑むほど幻想的でノスタルジックな感動を呼び起こします。名水百選に輝く菊池渓谷から清らかな水が流れ込み、宿の目の前の川辺でホタルを鑑賞できる熊本県・菊池温泉の「木立ちの中の宿 清流荘」、神鍋高原の雄大な自然に囲まれ清流沿いのホタル散策と高原温泉リゾートを満喫できる兵庫県の「神鍋温泉 ブルーリッジホテル」、そして万葉集の時代から愛される湯河原温泉で、千歳川のせせらぎに耳を澄まし「万葉公園 ほたるの宴」へ徒歩で出かけられる名宿「万葉の里 白雲荘」。夜には幻想的なホタル鑑賞ツアーや夜風の散策を楽しみ、美肌の天然温泉と旬の初夏会席を味わう時間は、心洗われる最高のリフレッシュとなります。大人気の初夏限定ホタル観賞ステイを、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引）を使って実質2,000円負担で賢く予約し、光のアートに包まれる旅へ出かけましょう。
+            初夏（5月下旬〜6月下旬）のわずか数週間だけ、水清らかな渓流沿いで見られる奇跡の風物詩「ホタル（ゲンジボタル・ヘイケボタル）の乱舞。」。都市部では決して見ることのできなくなった無数の光の筋が、水辺の草むらや夜空に優雅に舞い上がる光景は、息を呑むほど幻想的でノスタルジックな感動を呼び起こします。名水百選に輝く菊池渓谷から清らかな水が流れ込み、宿の目の前の川辺でホタルを鑑賞できる熊本県・菊池温泉の「木立ちの中の宿 清流荘」、神鍋高原の雄大な自然に囲まれ清流沿いのホタル散策と高原温泉リゾートを満喫できる兵庫県の「神鍋温泉 ブルーリッジホテル」、そして万葉集の時代から愛される湯河原温泉で、千歳川のせせらぎに耳を澄まし「万葉公園 ほたるの宴」へ徒歩で出かけられる名宿「万葉の里 白雲荘」。夜には幻想的なホタル鑑賞ツアーや夜風の散策を楽しみ、美肌の天然温泉と旬の初夏会席を味わう時間は、心洗われる最高のリフレッシュとなります。大人気の初夏限定ホタル観賞ステイを、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引）を使って実質2,000円負担で賢く予約し、光のアートに包まれる旅へ出かけましょう。
           </p>
           <div className="flex flex-wrap gap-4 pt-4 border-t border-amber-900/50 text-xs text-amber-200/90 font-medium">
             <span>✓ 寄付額の最大30％相当が宿泊クーポンに</span>
@@ -195,7 +195,7 @@ export default function FurusatoFireflyViewingStayPage() {
                     名水百選・菊池渓谷の豊かな水に育まれた熊本の奥座敷・菊池温泉に佇む、緑の木立に囲まれた静かな温泉旅館。宿のすぐ脇を流れる清流沿いには初夏になると自生するゲンジボタルが飛び交い、夜の散策で息をのむ幻想的な光の乱舞に出逢えます。菊池温泉名物の「日本の名湯百選」にも選ばれるアルカリ性単純温泉は、まるで化粧水に浸かっているかのようなトロトロの肌触りで美肌効果抜群。熊本名物の馬刺しや肥後あか牛、菊池の清流米を使った彩り豊かな郷土会席とともに、心温まる九州の温泉情緒に浸れます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「レトロな雰囲気と美味しい食事、貸切風呂を満喫レトロな感じの旅館です お部屋は古さがありますがゆっくり眠れました。夕飯は美味しくお腹いっぱいになりました。お風呂は貸切風呂は良かったです露… 2026-07-03 05:36:04投稿 つづきは…」
+                    「レトロな雰囲気と美味しい食事、貸切風呂を満喫レトロな感じの旅館です お部屋は古さがありますがゆっくり眠れました。夕飯は美味しくお腹いっぱいになりました。お風呂は貸切風呂は良かったです露… つづきは。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -256,7 +256,7 @@ export default function FurusatoFireflyViewingStayPage() {
                     神鍋高原の豊かな森と澄んだ空気に包まれた、北欧の山岳ロッジを思わせる洗練された高原リゾートホテル。初夏にはホテルの周辺を流れる稲石川などの清流沿いでホタルが舞い、澄み切った満天の星空とともに大自然の美しい夜を体験できます。敷地内から湧出する神鍋温泉「ブルーリッジの湯」は筋肉疲労や冷え性に効能豊かな天然温泉で、開放的な露天風呂やサウナを完備。但馬牛のグリルステーキや地元契約農家の高原野菜を贅沢に取り入れたフレンチやバイキングディナーも大好評です。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「高齢の母と和会食を満喫、大浴場の階段は難点96歳の高齢の母と一緒の旅でした。ホテルは木立の中にあり、涼しく爽やかな印象を受けました。ホテルスタッフも皆さん、気持ちのよい挨拶をしてくださいました。お… 2026-09-02 05:13:52投…」
+                    「高齢の母と和会食を満喫、大浴場の階段は難点96歳の高齢の母と一緒の旅でした。ホテルは木立の中にあり、涼しく爽やかな印象を受けました。ホテルスタッフも皆さん、気持ちのよい挨拶をしてくださいました。お… 投。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -317,7 +317,7 @@ export default function FurusatoFireflyViewingStayPage() {
                     文豪たちに愛された名湯・湯河原温泉を流れる千歳川の清流沿いに佇む、全17室の落ち着きある大人の隠れ家旅館。毎年6月上旬に開催される風物詩「万葉公園 ほたるの宴」会場へのアクセスも良く、竹林のライトアップとともに飛び交うホタルの幽玄な世界を満喫できます。客室露天風呂や貸切風呂、広々とした大浴場で弱アルカリ性の柔らかな湯河原の名湯に浸かり、相模湾の獲れたて地魚や厳選された黒毛和牛を使った職人技が光る月替わり会席を心ゆくまでご堪能いただけます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「部屋の設備と風呂の温度に不満が残る結果Aタイプの部屋は、客室風呂がないものの、足湯が楽しめるものだと、写真から思っていたため、足湯がない部屋が割り当てられて、非常にショックでした。部屋… 2026-08-31 11:28:28投稿 つづきは…」
+                    「落ち着いた心地よい空間の中、温かい温泉とおいしいお料理で日頃の疲れを癒やすことができました。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -451,7 +451,7 @@ export default function FurusatoFireflyViewingStayPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「菊池温泉 木立ちの中の宿 清流荘」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「菊池温泉 木立ちの中の宿 清流荘」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「神鍋温泉 自然に癒される高原ホテル ブルーリッジホテル」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「神鍋温泉 自然に癒される高原ホテル ブルーリッジホテル。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -481,7 +481,7 @@ export default function FurusatoFireflyViewingStayPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「菊池温泉 木立ちの中の宿 清流荘」は『清流・迫間川のほとりに建つ全9室、源泉掛け流しの癒しの湯宿。菊池米を使った美しい創作料理を』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「菊池温泉 木立ちの中の宿 清流荘」は『清流・迫間川のほとりに建つ全9室、源泉掛け流しの癒しの湯宿。菊池米を使った美しい創作料理を。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -490,7 +490,7 @@ export default function FurusatoFireflyViewingStayPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「菊池温泉 木立ちの中の宿 清流荘」と「神鍋温泉 自然に癒される高原ホテル ブルーリッジホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「菊池温泉 木立ちの中の宿 清流荘」と「神鍋温泉 自然に癒される高原ホテル ブルーリッジホテル。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

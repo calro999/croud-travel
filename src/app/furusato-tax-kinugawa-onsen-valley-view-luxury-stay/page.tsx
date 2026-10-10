@@ -62,7 +62,7 @@ export default function FurusatoKinugawaOnsenValleyStayPage() {
           鬼怒川渓谷の絶景と名湯！空中庭園露天風呂＆豪華100種バイキング・最高峰老舗旅館×ふるさと納税完全攻略ガイド【2026年最新】あさや・金谷ホテル・ホテル三日月
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-10">2026年9月10日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -164,7 +164,7 @@ export default function FurusatoKinugawaOnsenValleyStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “バイキングが最高、また必ず泊まりたいバイキング最高でした。また鬼怒川行く時は絶対あさやに泊まりたいと思います。クチコミの詳細はこちらから　https://review.travel…　2026-09-05 23:46:12投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “バイキングが最高、また必ず泊まりたいバイキング最高でした。また鬼怒川行く時は絶対あさやに泊まりたいと思います。 ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -206,7 +206,7 @@ export default function FurusatoKinugawaOnsenValleyStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “鬼怒川の絶景と創作料理、心温まる接客に感動クラブフロアのスイートの部屋に宿泊しました。部屋のお風呂、大きな窓から眼下に広がる鬼怒川の景観が素晴らしく、厳選された素材を使っての創作料理もとても美…　2026-07-16 20:30:39投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “鬼怒川の絶景と創作料理、心温まる接客に感動クラブフロアのスイートの部屋に宿泊しました。部屋のお風呂、大きな窓から眼下に広がる鬼怒川の景観が素晴らしく、厳選された素材を使っての創作料理もとても美… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -248,7 +248,7 @@ export default function FurusatoKinugawaOnsenValleyStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “駅まで徒歩圏内だが接客と食事は期待外れチェックインでは、対応された方の案内等が不十分だなと感じました。また、あまり愛想も良くないし、こちらの質問に対してもめんどくさそう?と感じるほどでした。料理は…　2026-09-06 00:44:39投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “駅まで徒歩圏内だが接客と食事は期待外れチェックインでは、対応された方の案内等が不十分だなと感じました。また、あまり愛想も良くないし、こちらの質問に対してもめんどくさそう?と感じるほどでした。料理は… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -323,7 +323,7 @@ export default function FurusatoKinugawaOnsenValleyStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

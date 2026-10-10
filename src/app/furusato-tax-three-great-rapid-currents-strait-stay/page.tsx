@@ -36,7 +36,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/17766/17766map.gif",
     "reviewCount": 3101,
     "reviewAverage": 4.45,
-    "userReview": "鳴門大橋と潮の流れを望む絶景の角部屋部屋からの眺めが最高でした鳴門大橋を行き交う車そして潮の流れが目の前にちなみに部屋は7階の角部屋ウェルカムドリンクも充実していました…　 ",
+    "userReview": "鳴門大橋と潮の流れを望む絶景の角部屋部屋からの眺めが最高でした鳴門大橋を行き交う車そして潮の流れが目の前にちなみに部屋は7階の角部屋ウェルカムドリンクも充実していました。",
     "hotelMinCharge": 6000,
     "address1": "徳島県",
     "address2": "鳴門市鳴門町土佐泊浦福池65-7",
@@ -66,11 +66,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10758/10758map.gif",
     "reviewCount": 1770,
     "reviewAverage": 4.28,
-    "userReview": "鯛料理と貸切風呂に癒やされる定宿いつも帰省の時に泊まっています。追加で朝食や夕食がとれます。いつもながらの鯛のとうばん焼きや、鯛釜飯も美味しくいただきました。貸切風呂もよくてゆっくりできました…　 ",
+    "userReview": "鯛料理と貸切風呂に癒やされる定宿いつも帰省の時に泊まっています。追加で朝食や夕食がとれます。いつもながらの鯛のとうばん焼きや、鯛釜飯も美味しくいただきました。貸切風呂もよくてゆっくりできました。",
     "hotelMinCharge": 3640,
     "address1": "愛媛県",
     "address2": "今治市中浜町1-2-5",
-    "telephoneNo": "0898-23-3330",
+    "telephoneNo": "30",
     "access": "【平面駐車場無料】／JR今治駅徒歩15分・車5分／しまなみ海道【今治IC】車10分／しまなみライナー【今治桟橋】徒歩1分",
     "parkingInformation": "無料平面駐車場59台（出入自由）／バイク屋根付／自転車客室持込可／大型車応相談",
     "nearestStation": "今治",
@@ -96,7 +96,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7013/7013map.gif",
     "reviewCount": 1549,
     "reviewAverage": 4.28,
-    "userReview": "最上階角部屋の眺望とコスパに大満足一泊朝食付きで宿泊させていただきました。部屋は最上階の3人部屋で角部屋だったんですが部屋からの眺めが最高でした。接客、清掃、サービス言うことなしでしかも料金も…　 ",
+    "userReview": "最上階角部屋の眺望とコスパに大満足一泊朝食付きで宿泊させていただきました。部屋は最上階の3人部屋で角部屋だったんですが部屋からの眺めが最高でした。接客、清掃、サービス言うことなしでしかも料金も。",
     "hotelMinCharge": 4500,
     "address1": "山口県",
     "address2": "下関市南部町31-2",
@@ -182,7 +182,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ベイリゾートホテル 鳴門海月」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ベイリゾートホテル 鳴門海月」へは、高速道路 鳴門北ICより車で６分。最寄りの鳴門駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ベイリゾートホテル 鳴門海月」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ベイリゾートホテル 鳴門海月」は『部屋食で鳴門の会席を♪鳴門うず潮に一番近い景色に感動の旅館』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ベイリゾートホテル 鳴門海月」と「ホテル菊水今治」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ベイリゾートホテル 鳴門海月」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ベイリゾートホテル 鳴門海月」へは、高速道路 鳴門北ICより車で６分。最寄りの鳴門駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ベイリゾートホテル 鳴門海月」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ベイリゾートホテル 鳴門海月」は『部屋食で鳴門の会席を♪鳴門うず潮に一番近い景色に感動の旅館。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ベイリゾートホテル 鳴門海月」と「ホテル菊水今治」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         
         {/* 特集の魅力セクション */}
@@ -488,7 +488,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「ベイリゾートホテル 鳴門海月」は『部屋食で鳴門の会席を♪鳴門うず潮に一番近い景色に感動の旅館』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「ベイリゾートホテル 鳴門海月」は『部屋食で鳴門の会席を♪鳴門うず潮に一番近い景色に感動の旅館。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

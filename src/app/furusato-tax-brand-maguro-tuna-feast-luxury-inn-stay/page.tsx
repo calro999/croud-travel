@@ -49,7 +49,7 @@ export default function FurusatoBrandMaguroTunaStayPage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「下風呂観光ホテル 三浦屋」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「下風呂観光ホテル 三浦屋」へは、はまなすベイライン大湊線JR下北駅から車で約32km、50分、バスで70分。最寄りの下北駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「下風呂観光ホテル 三浦屋」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「下風呂観光ホテル 三浦屋」は『津軽海峡を望む海辺の濁り湯の温泉宿／旬の魚介料理とご夕食時のお酒を含むフリードリンク制が大』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「下風呂観光ホテル 三浦屋」と「碧き島の宿 熊野別邸 中の島」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「下風呂観光ホテル 三浦屋」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「下風呂観光ホテル 三浦屋」へは、はまなすベイライン大湊線JR下北駅から車で約32km、50分、バスで70分。最寄りの下北駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「下風呂観光ホテル 三浦屋」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「下風呂観光ホテル 三浦屋」は『津軽海峡を望む海辺の濁り湯の温泉宿／旬の魚介料理とご夕食時のお酒を含むフリードリンク制が大。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「下風呂観光ホテル 三浦屋」と「碧き島の宿 熊野別邸 中の島」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -195,7 +195,7 @@ export default function FurusatoBrandMaguroTunaStayPage() {
                     本州最北端・下北半島の津軽海峡沿いに位置する歴史ある下風呂温泉郷に佇み、名物の津軽海峡本マグロ（大間マグロ）と濃厚な硫黄泉を心ゆくまで堪能できる温泉旅館。夕食には大間産本マグロの大トロ・中トロ・赤身を惜しみなく盛り込んだお造りや、旬の海峡魚介、地元名物のイカ刺しが並び、魚好きを唸らせる圧巻の料理が評判です。源泉かけ流しの乳白色の硫黄泉は大浴場に豊富に注がれ、湯治場として栄えた確かな湯力を実感。津軽海峡の漁火を眺めながら静かな本州最果ての旅情に浸れます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「下北の味覚と温泉を堪能、最高の旅でした最北の宿目指して来ました温泉は女風呂の硫黄泉は隣りの日帰り温泉の熱湯より更に熱いので水で薄めて入りましたいい湯でした夕飯はウニ甘かった鮑も最高でした 沢山… 2026-09-05 06:55:13投稿 …」
+                    「下北の味覚と温泉を堪能、最高の旅でした最北の宿目指して来ました温泉は女風呂の硫黄泉は隣りの日帰り温泉の熱湯より更に熱いので水で薄めて入りましたいい湯でした夕飯はウニ甘かった鮑も最高でした 沢山…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -256,7 +256,7 @@ export default function FurusatoBrandMaguroTunaStayPage() {
                     南紀勝浦港から専用送迎船でわずか数分、波静かな勝浦湾に浮かぶ周囲数キロの島全体がひとつのリゾートとなっている非日常の宿。日本有数の生マグロ水揚げ港・勝浦ならではの、獲れたて生マグロを中心とした贅沢会席が自慢で、冷凍では絶対に味わえない極上の食感と脂の甘みを満喫できます。最大のハイライトは、潮の満ち引きで表情を変える海中露天風呂「紀州潮聞之湯」。打ち寄せる波の音を間近に聴きながら源泉かけ流しの美肌湯に浸かる時間は、まさに夢のような至福のひとときです。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「露天風呂露天風呂は 広々とした方が午後3時から当日女性が入れます。何度もゆったりと海を眺めながら 湯浴み着で安心にのびのび温泉三昧できます。食事もお刺身はもっちりしていて 後のお肉もお楽し… 2026-08-31 20:49:24投稿 つづ…」
+                    「露天風呂露天風呂は 広々とした方が午後3時から当日女性が入れます。何度もゆったりと海を眺めながら 湯浴み着で安心にのびのび温泉三昧できます。食事もお刺身はもっちりしていて 後のお肉もお楽し… つづ。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -317,7 +317,7 @@ export default function FurusatoBrandMaguroTunaStayPage() {
                     都心から約1時間、三浦海岸駅より徒歩約6分の好立地に建ち、全室オーシャンビューの本館をはじめ広々とした客室を誇る人気温泉リゾート。夕食バイキングでは、三浦三崎港直送の上質なマグロを刺身やお寿司で心ゆくまで味わえる「まぐろ食べ放題」が大好評。自家源泉の天然温泉大浴場や露天風呂、屋内温水プールなど充実したウェルネス施設も魅力です。都心からのアクセスが抜群で、気軽に本場の三崎まぐろと温泉旅を両立させたいファミリーやカップルに圧倒的な支持を集めています。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「部屋が広く接客も丁寧で大満足部屋がとても広く大変満足しました。フロントの接客も丁寧で問題にも早急に対応していただけました。クチコミの詳細はこちらから 2026-09-05 18:14:11投稿 つづきはこちら…」
+                    「部屋が広く接客も丁寧で大満足部屋がとても広く大変満足しました。フロントの接客も丁寧で問題にも早急に対応していただけました。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -481,7 +481,7 @@ export default function FurusatoBrandMaguroTunaStayPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「下風呂観光ホテル 三浦屋」は『津軽海峡を望む海辺の濁り湯の温泉宿／旬の魚介料理とご夕食時のお酒を含むフリードリンク制が大』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「下風呂観光ホテル 三浦屋」は『津軽海峡を望む海辺の濁り湯の温泉宿／旬の魚介料理とご夕食時のお酒を含むフリードリンク制が大。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

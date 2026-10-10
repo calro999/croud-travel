@@ -44,7 +44,7 @@ export default function FurusatoTaxArticle() {
     <main className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「箱根強羅 白檀」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「箱根強羅 白檀」へは、箱根登山鉄道 小涌谷駅よりご送迎承ります（車で約5分：事前にご連絡ください） 箱根バス「緑の村入り口」下車 徒歩2分。最寄りの小涌谷駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「箱根強羅 白檀」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「箱根強羅 白檀」は『全室設置の源泉掛け流し露天と旬を彩る至極の懐石料理 雄大な箱根連山を眺めながら最上のひとと』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「箱根強羅 白檀」と「季の湯 雪月花」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「箱根強羅 白檀」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「箱根強羅 白檀」へは、箱根登山鉄道 小涌谷駅よりご送迎承ります（車で約5分：事前にご連絡ください） 箱根バス「緑の村入り口」下車 徒歩2分。最寄りの小涌谷駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「箱根強羅 白檀」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「箱根強羅 白檀」は『全室設置の源泉掛け流し露天と旬を彩る至極の懐石料理 雄大な箱根連山を眺めながら最上のひとと。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「箱根強羅 白檀」と「季の湯 雪月花」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       {/* ヒーローヘッダー */}
       <header className="relative bg-gradient-to-br from-stone-900 via-amber-950 to-stone-900 text-amber-50 py-16 px-4 md:px-8 border-b border-amber-900/50 shadow-2xl">
@@ -185,7 +185,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.70点の超高評価。「お部屋の露天風呂からの景色とお湯が最高」「白檀の香りと静けさに日常のストレスがすべて消えた」「料理のクオリティが素晴らしい」と絶賛されています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.70点の超高評価。「お部屋の露天風呂からの景色とお湯が最高」「白檀の香りと静けさに日常のストレスがすべて消えた。」「料理のクオリティが素晴らしい」と絶賛されています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -279,7 +279,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベルレビュー数多数の超人気宿。「駅前でアクセス抜群なのに温泉情緒がすごい」「貸切風呂が無料で利用でき、客室露天風呂も快適だった」と高い満足度を獲得しています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベルレビュー数多数の超人気宿。「駅前でアクセス抜群なのに温泉情緒がすごい。」「貸切風呂が無料で利用でき、客室露天風呂も快適だった。」と高い満足度を獲得しています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -373,7 +373,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.08点。「大涌谷のにごり湯が本当に素晴らしく体が芯から温まる」「スタッフの温かい接客と静かな環境に癒やされた」と泉質重視派から絶賛されています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.08点。「大涌谷のにごり湯が本当に素晴らしく体が芯から温まる。」「スタッフの温かい接客と静かな環境に癒やされた。」と泉質重視派から絶賛されています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -573,7 +573,7 @@ export default function FurusatoTaxArticle() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「箱根強羅 白檀」は『全室設置の源泉掛け流し露天と旬を彩る至極の懐石料理 雄大な箱根連山を眺めながら最上のひとと』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「箱根強羅 白檀」は『全室設置の源泉掛け流し露天と旬を彩る至極の懐石料理 雄大な箱根連山を眺めながら最上のひとと。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

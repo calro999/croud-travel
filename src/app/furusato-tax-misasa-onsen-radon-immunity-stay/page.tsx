@@ -44,7 +44,7 @@ export default function FurusatoTaxArticle() {
     <main className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「三朝温泉 依山楼 岩崎」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「三朝温泉 依山楼 岩崎」へは、◆車 中国道院庄IC60分／山陰道泊東郷IC20分 ◆JR 倉吉駅送迎バス14時20分～18時 ※要予約（前日まで）。最寄りの倉吉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「三朝温泉 依山楼 岩崎」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「三朝温泉 依山楼 岩崎」は『1920年(大正9年)創業★文人墨客に愛された三朝の老舗宿で回遊式大庭園風呂と山陰の旬味覚』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「三朝温泉 依山楼 岩崎」と「三朝温泉 三朝館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「三朝温泉 依山楼 岩崎」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「三朝温泉 依山楼 岩崎」へは、◆車 中国道院庄IC60分／山陰道泊東郷IC20分 ◆JR 倉吉駅送迎バス14時20分～18時 ※要予約（前日まで）。最寄りの倉吉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「三朝温泉 依山楼 岩崎」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「三朝温泉 依山楼 岩崎」は『1920年(大正9年)創業★文人墨客に愛された三朝の老舗宿で回遊式大庭園風呂と山陰の旬味覚。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「三朝温泉 依山楼 岩崎」と「三朝温泉 三朝館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       {/* ヒーローヘッダー */}
       <header className="relative bg-gradient-to-br from-stone-900 via-amber-950 to-stone-900 text-amber-50 py-16 px-4 md:px-8 border-b border-amber-900/50 shadow-2xl">
@@ -185,7 +185,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.43点、口コミ2100件超。「お風呂の種類が豊富でラドン温泉の効能を実感した」「川沿いの静かなロケーションと丁寧な接客に癒やされた」と絶賛されています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.43点、口コミ2100件超。「お風呂の種類が豊富でラドン温泉の効能を実感した。」「川沿いの静かなロケーションと丁寧な接客に癒やされた。」と絶賛されています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -279,7 +279,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.45点、口コミ2200件超。「庭園露天風呂の広さと雰囲気が最高」「バラ風呂がとても優雅で料理も美味しかった」と女性客やカップルから大人気です。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.45点、口コミ2200件超。「庭園露天風呂の広さと雰囲気が最高」「バラ風呂がとても優雅で料理も美味しかった。」と女性客やカップルから大人気です。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -373,7 +373,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.40点。「掛け流しの温泉の泉質が素晴らしく体が軽くなった」「お料理がとても繊細で美しく、スタッフの心遣いに感謝」と高評価です。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.40点。「掛け流しの温泉の泉質が素晴らしく体が軽くなった。」「お料理がとても繊細で美しく、スタッフの心遣いに感謝。」と高評価です。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -573,7 +573,7 @@ export default function FurusatoTaxArticle() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「三朝温泉 依山楼 岩崎」は『1920年(大正9年)創業★文人墨客に愛された三朝の老舗宿で回遊式大庭園風呂と山陰の旬味覚』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「三朝温泉 依山楼 岩崎」は『1920年(大正9年)創業★文人墨客に愛された三朝の老舗宿で回遊式大庭園風呂と山陰の旬味覚。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

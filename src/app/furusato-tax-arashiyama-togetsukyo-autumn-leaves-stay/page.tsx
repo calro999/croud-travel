@@ -36,7 +36,7 @@ const HOTEL_DATA = {
     access: '阪急嵐山駅より徒歩５分（渡月橋渡らず）、ＪＲ嵯峨嵐山駅より徒歩約１５分(渡月橋渡る)。JR京都駅３０分、阪急梅田駅５０分'
   },
   arashiyama_kadokura: {
-    name: '京都　嵐山温泉　花伝抄（共立リゾート）（２０２６年５月１日リニューアルオープン）',
+    name: '京都　嵐山温泉　花伝抄（共立リゾート）（リニューアルオープン）',
     no: 130702,
     url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D130702',
     planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D130702%26f_flg%3DPLAN',

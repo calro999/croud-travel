@@ -44,8 +44,8 @@ export default function MiyazakiMiyakonojoWinterPage() {
         "headline": "【11・12・1月宮崎】都城＆小林・えびの！白銀の霧島連山ジオパークと神話の「狭野神社・霧島東神社」初詣・日本一の肉のまち「都城産宮崎牛」＆美肌温泉宿5選",
         "description": "冬の澄み渡る大空に白銀の冠雪をいただく霧島連山の大パノラマと、天孫降臨神話が息づく11〜1月の宮崎・都城＆高原・小林エリア特集。神武天皇生誕の地・狭野神社や天逆鉾を遥拝する霧島東神社での厳かな初詣。日本一の肉のまち・都城が誇る最高峰ブランド「都城産宮崎牛」の贅沢鉄板焼きやすき焼き、本場本格芋焼酎の芳醇な味わい。そして高濃度炭酸泉やえびの高原の美肌温泉に癒やされる厳選名宿5選を徹底解説します。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80",
-        "datePublished": "2026-10-05T00:00:00+09:00",
-        "dateModified": "2026-10-05T00:00:00+09:00",
+        "datePublished": "T00:00:00+09:00",
+        "dateModified": "T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "旅クラウド編集部",

@@ -49,7 +49,7 @@ export default function FurusatoRound65ArticlePage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ホテルノイシュロス小樽」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ホテルノイシュロス小樽」へは、小樽駅より無料送迎有 要予約（電話対応） ＪＲ小樽駅よりバス２０分 千歳空港よりお車で９０分 小樽ＩＣよりお車で２５分。最寄りの小樽駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ホテルノイシュロス小樽」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ホテルノイシュロス小樽」は『全室露天風呂（窓開閉式）付きオーシャンビューリゾート。ディナーはフレンチコース料理をご堪能』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ホテルノイシュロス小樽」と「ＳＨＩＲＯＹＡＭＡ ＨＯＴＥＬ ｋａｇｏｓｈｉｍａ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ホテルノイシュロス小樽」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ホテルノイシュロス小樽」へは、小樽駅より無料送迎有 要予約（電話対応） ＪＲ小樽駅よりバス２０分 千歳空港よりお車で９０分 小樽ＩＣよりお車で２５分。最寄りの小樽駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ホテルノイシュロス小樽」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ホテルノイシュロス小樽」は『全室露天風呂（窓開閉式）付きオーシャンビューリゾート。ディナーはフレンチコース料理をご堪能。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ホテルノイシュロス小樽」と「ＳＨＩＲＯＹＡＭＡ ＨＯＴＥＬ ｋａｇｏｓｈｉｍａ。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -190,7 +190,7 @@ export default function FurusatoRound65ArticlePage() {
                     ホテルノイシュロス小樽
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「食事や景色は最高、接客の向上に期待お食事もお風呂もお部屋も景色も最高でした。送迎も融通をきかせていただくなど、接客に関しては素晴らしい面もありましたが、敢えて申し上げると若いスタッフの方への教育に… 2026-08-29 15:50:23投稿 つづきはこちら…」
+                    「食事や景色は最高、接客の向上に期待お食事もお風呂もお部屋も景色も最高でした。送迎も融通をきかせていただくなど、接客に関しては素晴らしい面もありましたが、敢えて申し上げると若いスタッフの方への教育に…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -245,7 +245,7 @@ export default function FurusatoRound65ArticlePage() {
                     ＳＨＩＲＯＹＡＭＡ　ＨＯＴＥＬ　ｋａｇｏｓｈｉｍａ（城山ホテル鹿児島）
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「大きな窓からの景色と美味しい朝食に大満足部屋の窓が大きく、景色も素晴らしい、朝食ビュッフェもとても美味しかったですスタッフのホスピタリティも最高ですこちらのホテルを選んで本当に良か… 2026-09-05 22:24:41投稿 つづきはこちら…」
+                    「大きな窓からの景色と美味しい朝食に大満足部屋の窓が大きく、景色も素晴らしい、朝食ビュッフェもとても美味しかったですスタッフのホスピタリティも最高ですこちらのホテルを選んで本当に良か…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -300,7 +300,7 @@ export default function FurusatoRound65ArticlePage() {
                     ロッテシティホテル錦糸町
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「スカイツリーが見える広い部屋と便利な立地東京スカイツリーの見えるお部屋で、ロケーションがとにかく最高でした。東京スカイツリーまではホテルから地下鉄で一駅なので移動も楽です。お部屋もきれいで大変広く… 2026-09-05 06:13:01投稿 つづきはこちら…」
+                    「スカイツリーが見える広い部屋と便利な立地東京スカイツリーの見えるお部屋で、ロケーションがとにかく最高でした。東京スカイツリーまではホテルから地下鉄で一駅なので移動も楽です。お部屋もきれいで大変広く…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -433,7 +433,7 @@ export default function FurusatoRound65ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ホテルノイシュロス小樽」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「ホテルノイシュロス小樽」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ＳＨＩＲＯＹＡＭＡ ＨＯＴＥＬ ｋａｇｏｓｈｉｍａ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ＳＨＩＲＯＹＡＭＡ ＨＯＴＥＬ ｋａｇｏｓｈｉｍａ。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -463,7 +463,7 @@ export default function FurusatoRound65ArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「ホテルノイシュロス小樽」は『全室露天風呂（窓開閉式）付きオーシャンビューリゾート。ディナーはフレンチコース料理をご堪能』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「ホテルノイシュロス小樽」は『全室露天風呂（窓開閉式）付きオーシャンビューリゾート。ディナーはフレンチコース料理をご堪能。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -472,7 +472,7 @@ export default function FurusatoRound65ArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「ホテルノイシュロス小樽」と「ＳＨＩＲＯＹＡＭＡ ＨＯＴＥＬ ｋａｇｏｓｈｉｍａ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「ホテルノイシュロス小樽」と「ＳＨＩＲＯＹＡＭＡ ＨＯＴＥＬ ｋａｇｏｓｈｉｍａ。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

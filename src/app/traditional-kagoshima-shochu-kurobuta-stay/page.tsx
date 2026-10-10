@@ -34,11 +34,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/171946/171946map.gif",
     "reviewCount": 509,
     "reviewAverage": 4.61,
-    "userReview": "温泉の成分が湯船に折出るほど良いお湯で、チェックインして、夕食前、就寝前、起床後の三度、堪能しました。部屋に温泉がある幸せを満喫できます。次はサウナ付きの部屋に泊まってみたいですね。夕食も…　2026-09-19 21:17:13投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=171946\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "温泉の成分が湯船に折出るほど良いお湯で、チェックインして、夕食前、就寝前、起床後の三度、堪能しました。部屋に温泉がある幸せを満喫できます。次はサウナ付きの部屋に泊まってみたいですね。夕食も。",
     "hotelMinCharge": 4620,
     "address1": "鹿児島県",
     "address2": "霧島市隼人町松永2625",
-    "telephoneNo": "0995-43-4046",
+    "telephoneNo": "46",
     "access": "鹿児島空港より車で約15分【19時までなら鹿児島空港・国分駅まで無料送迎（要予約）】",
     "parkingInformation": "有り（無料）",
     "nearestStation": "日当山",
@@ -59,11 +59,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13872/13872map.gif",
     "reviewCount": 633,
     "reviewAverage": 4.24,
-    "userReview": "源泉掛け流しの温泉と親切な対応で満足源泉掛け流しの温泉は、入浴後にシャワーで流さなくてもよく、美肌効果も期待できるとのことで、とても良かったです。部屋はかなり狭く、トイレは付いていますが、シャワー…　2026-09-11 17:12:10投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=13872\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "源泉掛け流しの温泉と親切な対応で満足源泉掛け流しの温泉は、入浴後にシャワーで流さなくてもよく、美肌効果も期待できるとのことで、とても良かったです。部屋はかなり狭く、トイレは付いていますが、シャワー。",
     "hotelMinCharge": 5500,
     "address1": "鹿児島県",
     "address2": "薩摩川内市樋脇町市比野4134",
-    "telephoneNo": "0996-38-1012",
+    "telephoneNo": "12",
     "access": "ＪＲ川内駅より車で２０分",
     "parkingInformation": "有り　６０台　先着順　無料　　バイクの場合は屋根付きスペースを確保します（要連絡）",
     "nearestStation": "川内（鹿児島）",
@@ -84,11 +84,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/53420/53420map.gif",
     "reviewCount": 95,
     "reviewAverage": 4.53,
-    "userReview": "愛犬と温泉を満喫、囲炉裏の夕食も最高ワンコ達と一緒に食事も取れて、お部屋に温泉もあるのですごくゆっくり出来ました。夕飯は囲炉裏で焼くお肉が最高でした。クチコミの詳細はこちらから　https…　2026-09-05 16:04:19投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=53420\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "愛犬と温泉を満喫、囲炉裏の夕食も最高ワンコ達と一緒に食事も取れて、お部屋に温泉もあるのですごくゆっくり出来ました。夕飯は囲炉裏で焼くお肉が最高でした。",
     "hotelMinCharge": 8800,
     "address1": "鹿児島県",
     "address2": "伊佐市菱刈川北2280-14",
-    "telephoneNo": "0995-26-1141",
+    "telephoneNo": "41",
     "access": "肥薩線　栗野駅より南国交通バスで１２～１３分／鹿児島本線　水俣駅より南国交通バスで１時間",
     "parkingInformation": "有り　２０台　無料　予約不要",
     "nearestStation": "栗野",
@@ -109,7 +109,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4873/4873map.gif",
     "reviewCount": 701,
     "reviewAverage": 4.3,
-    "userReview": "食事も美味しくお土産コーナーも充実夕食も朝食も美味しかったです。お土産コーナーも充実していました。ありがとうございました。クチコミの詳細はこちらから　https://review.tr…　2026-09-06 15:59:16投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=4873\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "食事も美味しくお土産コーナーも充実夕食も朝食も美味しかったです。お土産コーナーも充実していました。ありがとうございました。",
     "hotelMinCharge": 6600,
     "address1": "鹿児島県",
     "address2": "鹿児島市照国町15-19",
@@ -134,11 +134,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/44034/44034map.gif",
     "reviewCount": 553,
     "reviewAverage": 4.4,
-    "userReview": "心温まる神対応に感動、また妻と伺います従業員全員の対応が素晴らしくて感動しました。食事も素晴らしかったです。でも食道がん術後の私には多すぎ残しました。術後のことを話していたので、残した食事を再度料…　2026-09-06 11:53:31投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=44034\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "心温まる神対応に感動、また妻と伺います従業員全員の対応が素晴らしくて感動しました。食事も素晴らしかったです。でも食道がん術後の私には多すぎ残しました。術後のことを話していたので、残した食事を再度料。",
     "hotelMinCharge": 10350,
     "address1": "鹿児島県",
     "address2": "霧島市牧園町高千穂3900-3",
-    "telephoneNo": "0995-78-2655",
+    "telephoneNo": "55",
     "access": "JR霧島神宮駅より車で15分/霧島温泉駅より車で15分　横川ICより車で20分/溝辺鹿児島空港ICより車で25分",
     "parkingInformation": "有り　２０台　無料　予約不要",
     "nearestStation": "霧島神宮",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」へは、鹿児島空港より車で約15分 19時までなら鹿児島空港・国分駅まで無料送迎（要予約）。最寄りの日当山駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」は『温泉宿・グラン���ング全室で源泉掛け流しの天然炭酸泉が満喫できます。ペットOKの客室もご』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」と「旅館 薩摩の里」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉。」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉。」へは、鹿児島空港より車で約15分 19時までなら鹿児島空港・国分駅まで無料送迎（要予約）。最寄りの日当山駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉。」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉。」は『温泉宿・グラン���ング全室で源泉掛け流しの天然炭酸泉が満喫できます。ペットOKの客室もご。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉。」と「旅館 薩摩の里」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -585,9 +585,9 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 日当山駅よりアクセス。鹿児島空港より車で約15分 19時までなら鹿児島空港・国分駅まで無料送迎（要予約）。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」にチェックイン。温泉宿・グラン���ング全室で源泉掛け流しの天然炭酸泉が満喫できます。ペットOKの客室もございます。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」の湯処へ。温泉宿・グラン���ング全室で源泉掛け流しの天然炭酸泉が満喫できます。とともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉。」にチェックイン。温泉宿・グラン���ング全室で源泉掛け流しの天然炭酸泉が満喫できます。ペットOKの客室もございます。などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉。」の湯処へ。温泉宿・グラン���ング全室で源泉掛け流しの天然炭酸泉が満喫できます。とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -596,8 +596,8 @@ export default function FeatureDetailPage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「旅館 薩摩の里」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
@@ -615,20 +615,20 @@ export default function FeatureDetailPage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」へのアクセスや移動方法について</span>
+                <span>Q. 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」へは、鹿児島空港より車で約15分 19時までなら鹿児島空港・国分駅まで無料送迎（要予約）。最寄りの日当山駅からの経路案内も充実しています。
+                A. 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉。」へは、鹿児島空港より車で約15分 19時までなら鹿児島空港・国分駅まで無料送迎（要予約）。最寄りの日当山駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」の魅力や予約時のポイントは？</span>
+                <span>Q. 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」は『温泉宿・グラン���ング全室で源泉掛け流しの天然炭酸泉が満喫できます。ペットOKの客室もご』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉。」は『温泉宿・グラン���ング全室で源泉掛け流しの天然炭酸泉が満喫できます。ペットOKの客室もご。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -637,7 +637,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」と「旅館 薩摩の里」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉。」と「旅館 薩摩の里」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

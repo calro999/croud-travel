@@ -45,8 +45,8 @@ export default function WakayamaKoyasanShukuboWinterPage() {
     headline: "【11・12・1月和歌山】世界遺産・高野山の白銀「壇上伽藍＆奥之院」雪景色と宿坊阿字観体験＆冬の滋味精進料理・新春初詣名宿5選",
     description: "11月から1月、標高約800mの山上盆地に位置する真言密教の聖地・世界遺産「高野山」は、厳かな白銀の雪化粧に包まれる静謐な季節を迎えます。弘法大師空海が開創した「壇上伽藍」根本大塔の雪景色、樹齢数百年の杉巨木が立ち並ぶ「奥之院」参道の白銀古道。歴史ある由緒寺院の宿坊に泊まり、心を整える阿字観（瞑想）や早朝の勤行・護摩祈祷を体験。冬の身体に優しく染み渡る胡麻豆腐や高野豆腐をはじめとする伝統の「冬の精進料理」と、新春の初詣。俗世の喧騒を離れ、心身を清める冬の高野山宿坊ステイ5選をお届けします。",
     image: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80',
-    datePublished: '2026-10-02',
-    dateModified: '2026-10-02',
+    datePublished: '',
+    dateModified: '',
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',

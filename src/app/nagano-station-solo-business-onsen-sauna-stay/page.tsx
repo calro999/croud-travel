@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagano-station-solo-business-onsen-sauna-stay/" },
   title: '【長野駅前出張・天然温泉サウナ】北陸新幹線・善光寺門前町・天然温泉善光の湯！信州の山並みを仰ぐ厳選3宿',
-  description: '北陸新幹線「かがやき」で東京から約1時間20分！長野駅善光寺口すぐで最上階天然温泉＆本格サウナ・信州そば朝食を誇る「ドーミーイン長野」、東口至近で手頃に天然温泉大浴場とサウナを楽しめる「ホテルリブマックスPREMIUM長野駅前」、白馬直送天然温泉の「アイランドホテル」を徹底比較。',
+  description: '北陸新幹線「かがやき」で東京から約1時間20分！長野駅善光寺口すぐで最上階天然温泉＆本格サウナ・信州そば朝食を誇る「ドーミーイン長野」、東口至近で手頃に天然温泉大浴場とサウナを楽しめる「ホテルリブマックスPREMIUM長野駅前。」、白馬直送天然温泉の「アイランドホテル」を徹底比較。',
   keywords: '長野 出張 ホテル,長野駅 温泉 ホテル,ドーミーイン長野,ホテルリブマックスPREMIUM長野駅前,アイランドホテル長野,善光寺 一人旅',
   openGraph: {
     title: '【長野駅前出張・天然温泉サウナ】北陸新幹線・善光寺門前町・天然温泉善光の湯！信州の山並みを仰ぐ厳選3宿',
-    description: '北陸新幹線「かがやき」で東京から約1時間20分！長野駅善光寺口すぐで最上階天然温泉＆本格サウナ・信州そば朝食を誇る「ドーミーイン長野」、東口至近で手頃に天然温泉大浴場とサウナを楽しめる「ホテルリブマックスPREMIUM長野駅前」、白馬直送天然温泉の「アイランドホテル」を徹底比較。',
+    description: '北陸新幹線「かがやき」で東京から約1時間20分！長野駅善光寺口すぐで最上階天然温泉＆本格サウナ・信州そば朝食を誇る「ドーミーイン長野」、東口至近で手頃に天然温泉大浴場とサウナを楽しめる「ホテルリブマックスPREMIUM長野駅前。」、白馬直送天然温泉の「アイランドホテル」を徹底比較。',
     url: 'https://croud-travel.pages.dev/nagano-station-solo-business-onsen-sauna-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【長野駅前出張・天然温泉サウナ】北陸新幹線・善光寺門前町・天然温泉善光の湯！信州の山並みを仰ぐ厳選3宿',
-    description: '北陸新幹線「かがやき」で東京から約1時間20分！長野駅善光寺口すぐで最上階天然温泉＆本格サウナ・信州そば朝食を誇る「ドーミーイン長野」、東口至近で手頃に天然温泉大浴場とサウナを楽しめる「ホテルリブマックスPREMIUM長野駅前」、白馬直送天然温泉の「アイランドホテル」を徹底比較。',
+    description: '北陸新幹線「かがやき」で東京から約1時間20分！長野駅善光寺口すぐで最上階天然温泉＆本格サウナ・信州そば朝食を誇る「ドーミーイン長野」、東口至近で手頃に天然温泉大浴場とサウナを楽しめる「ホテルリブマックスPREMIUM長野駅前。」、白馬直送天然温泉の「アイランドホテル」を徹底比較。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・出張調査班',
@@ -37,8 +37,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-13T00:00:00+09:00',
-    dateModified: '2026-09-13T00:00:00+09:00',
+    datePublished: 'T00:00:00+09:00',
+    dateModified: 'T00:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/nagano-station-solo-business-onsen-sauna-stay',
   };
 
@@ -79,7 +79,7 @@ export default function ArticlePage() {
             【長野駅前出張・天然温泉サウナ】北陸新幹線・善光寺門前町・天然温泉善光の湯！信州の山並みを仰ぐ厳選3宿
           </h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
-            更新日：2026年9月13日 | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
+            更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -361,9 +361,9 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 長野駅よりアクセス。ＪＲ信越線／北陸新幹線 長野駅より徒歩にて約３分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「天然温泉ホテルリブマックスＰＲＥＭＩＵＭ長野駅前」にチェックイン。2020年10月OPEN ＪＲ信越線、北陸新幹線「長野」駅東口より徒歩約３分 ◇天然温泉＆サウナ◇などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「天然温泉ホテルリブマックスＰＲＥＭＩＵＭ長野駅前」の湯処へ。2020年10月OPEN ＪＲ信越線、北陸新幹線「長野」駅東口より徒歩とともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「天然温泉ホテルリブマックスＰＲＥＭＩＵＭ長野駅前」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「天然温泉ホテルリブマックスＰＲＥＭＩＵＭ長野駅前。」にチェックイン。2020年10月OPEN ＪＲ信越線、北陸新幹線「長野」駅東口より徒歩約３分 ◇天然温泉＆サウナ◇などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「天然温泉ホテルリブマックスＰＲＥＭＩＵＭ長野駅前。」の湯処へ。2020年10月OPEN ＪＲ信越線、北陸新幹線「長野」駅東口より徒歩とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「天然温泉ホテルリブマックスＰＲＥＭＩＵＭ長野駅前。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -372,8 +372,8 @@ export default function ArticlePage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「天然温泉ホテルリブマックスＰＲＥＭＩＵＭ長野駅前」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「天然温泉ホテルリブマックスＰＲＥＭＩＵＭ長野駅前」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「天然温泉ホテルリブマックスＰＲＥＭＩＵＭ長野駅前。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「天然温泉ホテルリブマックスＰＲＥＭＩＵＭ長野駅前。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は長野県長野市大字栗田2145の観光名所や特産品店へ立ち寄り。旅の思い出を胸に大満足で帰路へ。</li>
               </ul>
             </div>

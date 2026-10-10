@@ -49,7 +49,7 @@ export default function FurusatoSoloTravelRetreatStayPage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「箱根湯本温泉 ホテル南風荘」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「箱根湯本温泉 ホテル南風荘」へは、箱根湯本駅より有料旅館共同バス７分片道大人２００円小学生１００円。最寄りの箱根湯本駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「箱根湯本温泉 ホテル南風荘」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「箱根湯本温泉 ホテル南風荘」は『花崗や青石をふんだんに用いた大浴場や露天風呂で箱根の自然を満喫 旬の味覚を揃えたお料理をご』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「箱根湯本温泉 ホテル南風荘」と「草津温泉 薬師の湯 湯元館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「箱根湯本温泉 ホテル南風荘」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「箱根湯本温泉 ホテル南風荘」へは、箱根湯本駅より有料旅館共同バス７分片道大人２００円小学生１００円。最寄りの箱根湯本駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「箱根湯本温泉 ホテル南風荘」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「箱根湯本温泉 ホテル南風荘」は『花崗や青石をふんだんに用いた大浴場や露天風呂で箱根の自然を満喫 旬の味覚を揃えたお料理をご。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「箱根湯本温泉 ホテル南風荘」と「草津温泉 薬師の湯 湯元館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -72,7 +72,7 @@ export default function FurusatoSoloTravelRetreatStayPage() {
             一人旅歓迎！誰にも気兼ねせず自分を癒やす極上おこもり温泉宿×ふるさと納税完全ガイド【2026年最新】箱根湯本・草津・由布院
           </h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
-            仕事や家事に追われる日々の中で、ふと「一人きりになって静かな場所でゆっくり休みたい」と感じる瞬間はありませんか？近年、一人旅を歓迎する上質な温泉旅館が急速に増えており、客室露天風呂付きのお部屋や部屋食プラン、落ち着いた読書ライブラリーを備えた宿が働く女性や大人の一人旅派から熱烈な支持を集めています。誰にも気兼ねすることなく、深夜や早朝の好きな時に湯船に浸かり、ベッドで本を読み耽り、美味しいお酒と料理をじっくり味わう――それは何者にも代えがたい最高峰のセルフケアです。都心から好アクセスで須雲川のせせらぎに癒やされる箱根湯本の「ホテル南風荘」、日本一の自然湧出量を誇る草津の湯元近くで名湯を堪能する「薬師の湯 湯元館」、そして由布岳の大自然の中で神秘のミルキーブルーの青湯と静寂に浸る大分由布院の「束ノ間」。一人旅向けの宿泊プランは割高になりがちですが、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引）を使えば、実質自己負担2,000円で驚くほどリーズナブルに憧れのおこもりステイが実現します。自分へのご褒美にふさわしい、至福のソロ温泉リトリートへ出かけましょう。
+            仕事や家事に追われる日々の中で、ふと「一人きりになって静かな場所でゆっくり休みたい。」と感じる瞬間はありませんか？近年、一人旅を歓迎する上質な温泉旅館が急速に増えており、客室露天風呂付きのお部屋や部屋食プラン、落ち着いた読書ライブラリーを備えた宿が働く女性や大人の一人旅派から熱烈な支持を集めています。誰にも気兼ねすることなく、深夜や早朝の好きな時に湯船に浸かり、ベッドで本を読み耽り、美味しいお酒と料理をじっくり味わう――それは何者にも代えがたい最高峰のセルフケアです。都心から好アクセスで須雲川のせせらぎに癒やされる箱根湯本の「ホテル南風荘」、日本一の自然湧出量を誇る草津の湯元近くで名湯を堪能する「薬師の湯 湯元館」、そして由布岳の大自然の中で神秘のミルキーブルーの青湯と静寂に浸る大分由布院の「束ノ間」。一人旅向けの宿泊プランは割高になりがちですが、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引）を使えば、実質自己負担2,000円で驚くほどリーズナブルに憧れのおこもりステイが実現します。自分へのご褒美にふさわしい、至福のソロ温泉リトリートへ出かけましょう。
           </p>
           <div className="flex flex-wrap gap-4 pt-4 border-t border-amber-900/50 text-xs text-amber-200/90 font-medium">
             <span>✓ 寄付額の最大30％相当が宿泊クーポンに</span>
@@ -195,7 +195,7 @@ export default function FurusatoSoloTravelRetreatStayPage() {
                     箱根湯本駅から車で約7分、須雲川のせせらぎと緑豊かな山々に包まれた落ち着きある温泉ホテル。一人旅歓迎の露天風呂付き客室プランが用意されており、テラスの信楽焼浴槽で箱根の天然温泉を独り占めできます。アルカリ性単純温泉のやわらかな湯は美肌効果が高く、長時間の入浴でも疲れ知らず。夕食はお部屋または個室風の落ち着いた食事処で季節の会席料理を味わえ、周囲を気にせずマイペースに寛ぐ大人のリトリートステイに最適です。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「露天風呂付き客室とサービスに大満足大大大満足の旅行でした。クーポン利用で安くなりとても助かりました。私たちは露天風呂付き客室が絶対条件。今回2回目なので部屋タイプはお任せにし、前回とは… 2026-09-05 20:19:04投稿 つづきは…」
+                    「露天風呂付き客室とサービスに大満足大大大満足の旅行でした。クーポン利用で安くなりとても助かりました。私たちは露天風呂付き客室が絶対条件。今回2回目なので部屋タイプはお任せにし、前回とは… つづきは。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -481,7 +481,7 @@ export default function FurusatoSoloTravelRetreatStayPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「箱根湯本温泉 ホテル南風荘」は『花崗や青石をふんだんに用いた大浴場や露天風呂で箱根の自然を満喫 旬の味覚を揃えたお料理をご』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「箱根湯本温泉 ホテル南風荘」は『花崗や青石をふんだんに用いた大浴場や露天風呂で箱根の自然を満喫 旬の味覚を揃えたお料理をご。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -150,7 +150,7 @@ export default function KantoBabyFriendlyOnsenGuidePage() {
           </h1>
 
           <p className="text-sm md:text-base text-rose-100/90 leading-relaxed font-normal pt-1">
-            「赤ちゃんの初めての温泉、大浴場で泣いたらどうしよう…」「食事中にぐずったら周りに迷惑がかかるかも…」そんな不安をすべて解消！箱根・伊香保など都心からアクセス抜群のエリアから、夕食部屋出し確約、源泉かけ流しの貸切風呂、畳敷き浴場、ベビーグッズ完備の至れり尽くせり旅館を厳選してご紹介します。
+            「赤ちゃんの初めての温泉、大浴場で泣いたらどうしよう。」「食事中にぐずったら周りに迷惑がかかるかも。」そんな不安をすべて解消！箱根・伊香保など都心からアクセス抜群のエリアから、夕食部屋出し確約、源泉かけ流しの貸切風呂、畳敷き浴場、ベビーグッズ完備の至れり尽くせり旅館を厳選してご紹介します。
           </p>
 
           <div className="pt-2 flex flex-wrap items-center gap-4 text-xs md:text-sm text-rose-200">

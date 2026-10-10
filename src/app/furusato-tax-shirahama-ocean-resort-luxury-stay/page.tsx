@@ -44,7 +44,7 @@ export default function FurusatoTaxArticle() {
     <main className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「白浜温泉 ホテル川久」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「白浜温泉 ホテル川久」へは、JR白浜駅から車で約10分※無料送迎バス運行／南紀白浜空港から車で約10分／大阪から車で阪和道南紀田辺IC経由で約2時間。最寄りの白浜駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「白浜温泉 ホテル川久」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「白浜温泉 ホテル川久」は『紀州の食材をふんだんに使った 王様のビュッフェ 開宴！オーシャンビュースイートの宮殿リゾー』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「白浜温泉 ホテル川久」と「紀州・白浜温泉 むさし」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「白浜温泉 ホテル川久」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「白浜温泉 ホテル川久」へは、JR白浜駅から車で約10分※無料送迎バス運行／南紀白浜空港から車で約10分／大阪から車で阪和道南紀田辺IC経由で約2時間。最寄りの白浜駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「白浜温泉 ホテル川久」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「白浜温泉 ホテル川久」は『紀州の食材をふんだんに使った 王様のビュッフェ 開宴！オーシャンビュースイートの宮殿リゾー。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「白浜温泉 ホテル川久」と「紀州・白浜温泉 むさし」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       {/* ヒーローヘッダー */}
       <header className="relative bg-gradient-to-br from-stone-900 via-amber-950 to-stone-900 text-amber-50 py-16 px-4 md:px-8 border-b border-amber-900/50 shadow-2xl">
@@ -185,7 +185,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.56点、口コミ3700件超。「建物の重厚さと美しさに圧倒された」「王様のビュッフェは名前負けしない人生最高のバイキング」と熱狂的なファンを抱えています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.56点、口コミ3700件超。「建物の重厚さと美しさに圧倒された」「王様のビュッフェは名前負けしない人生最高のバイキング。」と熱狂的なファンを抱えています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -573,7 +573,7 @@ export default function FurusatoTaxArticle() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「白浜温泉 ホテル川久」は『紀州の食材をふんだんに使った 王様のビュッフェ 開宴！オーシャンビュースイートの宮殿リゾー』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「白浜温泉 ホテル川久」は『紀州の食材をふんだんに使った 王様のビュッフェ 開宴！オーシャンビュースイートの宮殿リゾー。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

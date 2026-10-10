@@ -51,11 +51,11 @@ export default function SilverWeekGlampingLargeGroupCharterPage() {
     },
     {
       q: "1人あたりの料金コスパや、割り勘精算時のメリットは？",
-      a: "大型一棟貸しヴィラや古民家グランピングは「1棟貸切定額（または人数増で1人あたり単価が大幅に下がる設定）」が多く、10名以上で利用すると1人あたり1万円台〜2万円前後でハイグレードな施設に泊まれるケースが多々あります。食材やドリンクを持ち寄り形式にすることで、高級ホテルに個別に泊まるよりトータル費用を約30〜40%抑制可能です。",
+      a: "大型一棟貸しヴィラや古民家グランピングは「1棟貸切定額（または人数増で1人あたり単価が大幅に下がる設定）。」が多く、10名以上で利用すると1人あたり1万円台〜2万円前後でハイグレードな施設に泊まれるケースが多々あります。食材やドリンクを持ち寄り形式にすることで、高級ホテルに個別に泊まるよりトータル費用を約30〜40%抑制可能です。",
     },
     {
       q: "夜遅くまでの宴会やBBQの音出し、消音ルールはどうなっていますか？",
-      a: "敷地全体を貸し切る完全プライベート施設であっても、自然豊かな別荘地や集落内にある場合は近隣配慮のため「屋外でのBBQ・音楽再生・歓談は21:00〜22:00まで」とサイレントタイムが定められている施設が標準です。夜遅くまで語り合いたい場合は、防音性の高いリビングルームや屋内ダイニングスペースを備えた一棟貸しヴィラを選ぶと安心です。",
+      a: "敷地全体を貸し切る完全プライベート施設であっても、自然豊かな別荘地や集落内にある場合は近隣配慮のため「屋外でのBBQ・音楽再生・歓談は21:00〜22:00まで。」とサイレントタイムが定められている施設が標準です。夜遅くまで語り合いたい場合は、防音性の高いリビングルームや屋内ダイニングスペースを備えた一棟貸しヴィラを選ぶと安心です。",
     },
     {
       q: "車複数台でのアクセス時、駐車スペースの確保はどうすればいいですか？",
@@ -389,7 +389,7 @@ export default function SilverWeekGlampingLargeGroupCharterPage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「シルバーウィーク全棟貸切・サークル合宿・3世代家族旅行」を効率よく巡るコツは？</span>
+                <span>Q. 「シルバーウィーク全棟貸切・サークル合宿・3世代家族旅行。」を効率よく巡るコツは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">

@@ -49,7 +49,7 @@ export default function FurusatoTraditionalUnagiEelStayPage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「浜名湖かんざんじ温泉 ホテル鞠水亭」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「浜名湖かんざんじ温泉 ホテル鞠水亭」へは、ＪＲ浜松駅より路線バスで４５分（舘山寺温泉行き） 東名高速、舘山寺スマートＩＣより約５分。最寄りの浜松駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「浜名湖かんざんじ温泉 ホテル鞠水亭」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「浜名湖かんざんじ温泉 ホテル鞠水亭」は『浜名湖内浦湾と大草山を一望できる湖畔の宿。石造りと御殿風檜造りの2種類の展望露天風呂が自慢』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「浜名湖かんざんじ温泉 ホテル鞠水亭」と「天然温泉 富嶽の湯 ドーミーイン三島」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「浜名湖かんざんじ温泉 ホテル鞠水亭」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「浜名湖かんざんじ温泉 ホテル鞠水亭」へは、ＪＲ浜松駅より路線バスで４５分（舘山寺温泉行き） 東名高速、舘山寺スマートＩＣより約５分。最寄りの浜松駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「浜名湖かんざんじ温泉 ホテル鞠水亭」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「浜名湖かんざんじ温泉 ホテル鞠水亭」は『浜名湖内浦湾と大草山を一望できる湖畔の宿。石造りと御殿風檜造りの2種類の展望露天風呂が自慢。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「浜名湖かんざんじ温泉 ホテル鞠水亭」と「天然温泉 富嶽の湯 ドーミーイン三島」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -195,7 +195,7 @@ export default function FurusatoTraditionalUnagiEelStayPage() {
                     風光明媚な浜名湖かんざんじ温泉の湖畔に位置し、客室や最上階展望露天風呂から穏やかな湖を一望できる老舗温泉旅館。夕食には浜名湖名物のうなぎを贅沢に使った本格会席プランをご用意。職人が丁寧に焼き上げた香ばしいうなぎ蒲焼をはじめ、旬の魚介や遠州の野菜を取り入れた四季折々の料理がテーブルを華やかに彩ります。夕暮れ時に黄金色に染まる浜名湖の絶景を眺めながら名湯に身を浸す、贅沢な湖畔ステイを満喫できます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「飾らない雰囲気と親切な対応で何度も利用何度も利用させて頂いてます。いつも、昼前に車を置かせてもらい、近くの鰻屋さんで昼呑みしながら、美味しい鰻を食べてます。飾らない雰囲気が良いし、係の方も皆、親切… 2026-08-27 15:04:46投…」
+                    「飾らない雰囲気と親切な対応で何度も利用何度も利用させて頂いてます。いつも、昼前に車を置かせてもらい、近くの鰻屋さんで昼呑みしながら、美味しい鰻を食べてます。飾らない雰囲気が良いし、係の方も皆、親切… 投。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -256,7 +256,7 @@ export default function FurusatoTraditionalUnagiEelStayPage() {
                     JR三島駅南口から徒歩すぐ、最上階に富士山を望む展望天然温泉大浴場を備えた大人気ホテル。三島は富士山の湧水で数日間泥抜きされた「三島うなぎ」が全国的に有名で、宿の周辺には行列ができる老舗のうなぎ専門店が多数点在。ホテル自慢の広々としたサウナと内湯・露天風呂でしっかりととのった後、名店でふっくら極上のうな重を味わう「うなぎサウナ旅」の拠点として絶大な支持を集めています。名物「夜鳴きそば」の無料サービスも大好評です。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「朝食も大浴場も満足、息子は電車に大興奮朝食バイキングがとても満足の品揃えでした!帰省で宿泊しましたが、次回もお世話になりたいです。お風呂も清潔でしたし、スタッフさんの雰囲気も良かったです。… 2026-09-05 20:17:56投稿 つづ…」
+                    「朝食も大浴場も満足、息子は電車に大興奮朝食バイキングがとても満足の品揃えでした!帰省で宿泊しましたが、次回もお世話になりたいです。お風呂も清潔でしたし、スタッフさんの雰囲気も良かったです。… つづ。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -317,7 +317,7 @@ export default function FurusatoTraditionalUnagiEelStayPage() {
                     掘割が縦横に巡る情緒豊かな水郷・柳川に位置し、天然温泉の恵みを湛える落ち着いた和風ホテル。柳川といえば、甘辛いタレをまぶしたご飯の上に蒲焼と錦糸卵を乗せて蒸篭で蒸し上げる「うなぎのせいろ蒸し」の発祥地。宿の夕食でも熱々ふっくらの極上せいろ蒸しを心ゆくまで堪能できます。どんこ舟で川下りを楽しんだ後は、アルカリ性単純温泉のやわらかな湯で旅の疲れを癒やす、九州の風情あふれる温泉旅行が叶います。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「駐車場が広く館内も綺麗だがトイレが不便和室4名利用。レンタカーで行きましたが駐車場が広くて良かったです。フロントの方の対応も丁寧で親切でした。館内は改装真新しい感じで気持ち良く過ごせました。部屋の… 2026-08-26 01:35:23投…」
+                    「駐車場が広く館内も綺麗だがトイレが不便和室4名利用。レンタカーで行きましたが駐車場が広くて良かったです。フロントの方の対応も丁寧で親切でした。館内は改装真新しい感じで気持ち良く過ごせました。部屋の… 投。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -481,7 +481,7 @@ export default function FurusatoTraditionalUnagiEelStayPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「浜名湖かんざんじ温泉 ホテル鞠水亭」は『浜名湖内浦湾と大草山を一望できる湖畔の宿。石造りと御殿風檜造りの2種類の展望露天風呂が自慢』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「浜名湖かんざんじ温泉 ホテル鞠水亭」は『浜名湖内浦湾と大草山を一望できる湖畔の宿。石造りと御殿風檜造りの2種類の展望露天風呂が自慢。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

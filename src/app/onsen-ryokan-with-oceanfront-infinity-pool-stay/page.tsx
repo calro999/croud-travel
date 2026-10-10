@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/onsen-ryokan-with-oceanfront-infinity-pool-stay"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D107696%26f_flg%3DPLAN",
     "hotelMinCharge": 6600,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/107696/107696.jpg",
-    "userReview": "施設は綺麗で楽しめたが、食事と対応に不満グランピングの食事の写真がよく撮られすぎていて、実物を見てガッカリでした。味もイマイチでした。また、事前にカード決済済だったのに、追いかけられて支払…　2026-09-19 19:31:08投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=107696\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "味もイマイチでした。また、事前にカード決済済だったのに、追いかけられて支払。",
     "reviewAverage": 4.4,
     "reviewCount": 1955,
     "address": "静岡県伊東市赤沢浮山163-1",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D178706%26f_flg%3DPLAN",
     "hotelMinCharge": 12312,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/178706/178706.jpg",
-    "userReview": "フロントの対応とサービスが良く、部屋も快適フロントの対応がとても良かったです。ドリンクバーとクッキーのサービスがうれしかったです。部屋も綺麗で広く、ゆっくり出来ました。還りは空港までのバスを利用し…　2026-09-18 12:50:09投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=178706\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "フロントの対応とサービスが良く、部屋も快適フロントの対応がとても良かったです。ドリンクバーとクッキーのサービスがうれしかったです。部屋も綺麗で広く、ゆっくり出来ました。還りは空港までのバスを利用し。",
     "reviewAverage": 4.6,
     "reviewCount": 882,
     "address": "沖縄県中頭郡北谷町美浜34-2",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D30048%26f_flg%3DPLAN",
     "hotelMinCharge": 17710,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30048/30048.jpg",
-    "userReview": "大型犬と一緒にどこへも行けて大満足うちの犬は25キロなのですが、そんな大きな犬も食事場所へも、貸切風呂へも、どこでも一緒にいけて、犬も安心して過ごせました。夜は無料の焼きマシュマロや綿あめを楽しん…　2026-09-14 14:58:51投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=30048\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "大型犬と一緒にどこへも行けて大満足うちの犬は25キロなのですが、そんな大きな犬も食事場所へも、貸切風呂へも、どこでも一緒にいけて、犬も安心して過ごせました。夜は無料の焼きマシュマロや綿あめを楽しん。",
     "reviewAverage": 4.38,
     "reviewCount": 351,
     "address": "静岡県賀茂郡河津町峰1169-13",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D31539%26f_flg%3DPLAN",
     "hotelMinCharge": 11550,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31539/31539.jpg",
-    "userReview": "あたたかな接客と海を望む露天風呂が最高駐車場で到着を待ってくださっていたりお部屋まで荷物を運んでくださったり終始あたたかな接客でした。露天風呂付きのお部屋を予約しました。温泉の泉質…　2026-09-12 08:05:34投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=31539\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "あたたかな接客と海を望む露天風呂が最高駐車場で到着を待ってくださっていたりお部屋まで荷物を運んでくださったり終始あたたかな接客でした。露天風呂付きのお部屋を予約しました。温泉の泉質。",
     "reviewAverage": 4.5,
     "reviewCount": 1619,
     "address": "和歌山県西牟婁郡白浜町2020",
@@ -132,11 +132,11 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D49347%26f_flg%3DPLAN",
     "hotelMinCharge": 13200,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/49347/49347.jpg",
-    "userReview": "接客は最高だが朝食の海鮮には期待外れホスピタリティはさすが!という感じだった。ただ、朝ごはんが少し期待外れだった。温泉宿に来たなら旨い海鮮を朝から食べたいと思ってしまいました。クチコミの詳…　2026-09-16 20:07:39投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=49347\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "接客は最高だが朝食の海鮮には期待外れホスピタリティはさすが!という感じだった。ただ、朝ごはんが少し期待外れだった。温泉宿に来たなら旨い海鮮を朝から食べたいと思ってしまいました。クチコミの詳。",
     "reviewAverage": 4.63,
     "reviewCount": 1565,
     "address": "鹿児島県指宿市湯の浜5-26-29",
-    "access": "車やレンタカー：カーナビに0993-22-3231をご設定下さい　タクシー：ＪＲ指宿駅から４分　",
+    "access": "車やレンタカー：カーナビに31をご設定下さい　タクシー：ＪＲ指宿駅から４分　",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F49347%2F49347.html"
   }
 ];
@@ -335,7 +335,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「プレジャーリゾート伊豆赤沢温泉」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「プレジャーリゾート伊豆赤沢温泉」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「北谷温泉 レクー沖縄北谷スパ＆リゾート｜ＬｅＱｕ 沖縄北谷｜ベッセルホテルズ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「北谷温泉 レクー沖縄北谷スパ＆リゾート｜ＬｅＱｕ 沖縄北谷｜ベッセルホテルズ。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -374,7 +374,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「プレジャーリゾート伊豆赤沢温泉」と「北谷温泉 レクー沖縄北谷スパ＆リゾート｜ＬｅＱｕ 沖縄北谷｜ベッセルホテルズ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「プレジャーリゾート伊豆赤沢温泉」と「北谷温泉 レクー沖縄北谷スパ＆リゾート｜ＬｅＱｕ 沖縄北谷｜ベッセルホテルズ。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

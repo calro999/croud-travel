@@ -4,14 +4,14 @@ import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: '朝日と海の絶景インフィニティ温泉！淡路島の全室オーシャンビュー名門宿＆極上淡路牛・天然鯛会席×ふるさと納税完全攻略ガイド【2026年最新】ホテルニューアワジ・夢海游・グランシャリオ',
-  description: '御食国（みけつくに）の豊かな美味と大阪湾・紀淡海峡のパノラマ！兵庫県淡路島。「ホテルニューアワジ」「夢海游 淡路島」「GRAND CHARIOT 北斗七星135°」を、兵庫県洲本市・淡路市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。棚田状インフィニティ露天風呂、極上淡路牛ステーキ、天然鯛・鱧会席を満喫。',
+  description: '御食国（みけつくに）の豊かな美味と大阪湾・紀淡海峡のパノラマ！兵庫県淡路島。「ホテルニューアワジ」「夢海游 淡路島」「GRAND CHARIOT 北斗七星135°。」を、兵庫県洲本市・淡路市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。棚田状インフィニティ露天風呂、極上淡路牛ステーキ、天然鯛・鱧会席を満喫。',
   keywords: ["極上淡路牛", "2026年最新", "ホテルニューアワジ", "夢海游", "グランシャリオ", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-awajishima-ocean-view-luxury-stay/",
   },
   openGraph: {
     title: '朝日と海の絶景インフィニティ温泉！淡路島の全室オーシャンビュー名門宿＆極上淡路牛・天然鯛会席×ふるさと納税完全攻略ガイド【2026年最新】ホテルニューアワジ・夢海游・グランシャリオ',
-    description: '御食国（みけつくに）の豊かな美味と大阪湾・紀淡海峡のパノラマ！兵庫県淡路島。「ホテルニューアワジ」「夢海游 淡路島」「GRAND CHARIOT 北斗七星135°」を、兵庫県洲本市・淡路市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。棚田状インフィニティ露天風呂、極上淡路牛ステーキ、天然鯛・鱧会席を満喫。',
+    description: '御食国（みけつくに）の豊かな美味と大阪湾・紀淡海峡のパノラマ！兵庫県淡路島。「ホテルニューアワジ」「夢海游 淡路島」「GRAND CHARIOT 北斗七星135°。」を、兵庫県洲本市・淡路市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。棚田状インフィニティ露天風呂、極上淡路牛ステーキ、天然鯛・鱧会席を満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-awajishima-ocean-view-luxury-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
@@ -25,7 +25,7 @@ export default function FurusatoAwajishimaOceanStayPage() {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "朝日と海の絶景インフィニティ温泉！淡路島の全室オーシャンビュー名門宿＆極上淡路牛・天然鯛会席×ふるさと納税完全攻略ガイド【2026年最新】ホテルニューアワジ・夢海游・グランシャリオ",
-    "description": "御食国（みけつくに）の豊かな美味と大阪湾・紀淡海峡のパノラマ！兵庫県淡路島。「ホテルニューアワジ」「夢海游 淡路島」「GRAND CHARIOT 北斗七星135°」を、兵庫県洲本市・淡路市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。棚田状インフィニティ露天風呂、極上淡路牛ステーキ、天然鯛・鱧会席を満喫。",
+    "description": "御食国（みけつくに）の豊かな美味と大阪湾・紀淡海峡のパノラマ！兵庫県淡路島。「ホテルニューアワジ」「夢海游 淡路島」「GRAND CHARIOT 北斗七星135°。」を、兵庫県洲本市・淡路市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。棚田状インフィニティ露天風呂、極上淡路牛ステーキ、天然鯛・鱧会席を満喫。",
     "url": "https://croud-travel.pages.dev/furusato-tax-awajishima-ocean-view-luxury-stay/",
     "publisher": {
       "@type": "Organization",
@@ -62,7 +62,7 @@ export default function FurusatoAwajishimaOceanStayPage() {
           朝日と海の絶景インフィニティ温泉！淡路島の全室オーシャンビュー名門宿＆極上淡路牛・天然鯛会席×ふるさと納税完全攻略ガイド【2026年最新】ホテルニューアワジ・夢海游・グランシャリオ
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-10">2026年9月10日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -77,7 +77,7 @@ export default function FurusatoAwajishimaOceanStayPage() {
           水平線から昇る神々しい朝陽、紀淡海峡の波音。古の御食国・淡路島で味わう絶景温泉と極上山海ステイへ
         </h2>
         <p className="text-base md:text-lg text-gray-800 leading-relaxed mb-6">
-          本州と四国の間に位置し、国生み神話の舞台として知られる兵庫県「淡路島（あわじしま）」。神戸や大阪から明石海峡大橋を渡ってわずか1時間前後という抜群のアクセスを誇り、関西を代表する大人気リゾートアイランドです。淡路島東海岸の洲本温泉は、目の前にどこまでも広がる紀淡海峡と大阪湾のパノラマビューが最大の自慢。海と空が一体化するインフィニティ露天風呂や、棚田のように広がる絶景大浴場に浸かり、水平線から昇る黄金の朝陽を眺める瞬間は息を呑む感動を呼び起こします。さらに淡路島は、古代より朝廷に御食材を献上してきた「御食国（みけつくに）」としての歴史を持つ食の宝庫。神戸ビーフや松阪牛の素牛として知られる最高峰の黒毛和牛「淡路牛（淡路ビーフ）」の霜降りステーキ、激しい鳴門海峡の潮流に揉まれて身が引き締まった「淡路島天然真鯛」、夏の風物詩である「淡路島鱧（はも）」のしゃぶしゃぶやすき鍋、そして甘み際立つ名物淡路島玉ねぎなど、贅を尽くした山海の幸が食卓に並びます。本特集では、全室オーシャンビューと棚田状の絶景露天風呂「淡路棚田の湯」が全国的な知名度を誇る象徴的リゾート「洲本温泉 ホテルニューアワジ」、白砂青松の大浜海岸に隣接し森と海の2つのスパが人気の「洲本温泉 夢海游 淡路島」、そして淡路島の大自然の丘陵に繭型コクーン客室が点在し満天の星と最高級淡路ビーフを味わうグランピング「GRAND CHARIOT 北斗七星135°」の3宿を厳選。兵庫県洲本市・淡路市への楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円で憧れの淡路島リゾート旅をお得に予約しましょう。
+          本州と四国の間に位置し、国生み神話の舞台として知られる兵庫県「淡路島（あわじしま）」。神戸や大阪から明石海峡大橋を渡ってわずか1時間前後という抜群のアクセスを誇り、関西を代表する大人気リゾートアイランドです。淡路島東海岸の洲本温泉は、目の前にどこまでも広がる紀淡海峡と大阪湾のパノラマビューが最大の自慢。海と空が一体化するインフィニティ露天風呂や、棚田のように広がる絶景大浴場に浸かり、水平線から昇る黄金の朝陽を眺める瞬間は息を呑む感動を呼び起こします。さらに淡路島は、古代より朝廷に御食材を献上してきた「御食国（みけつくに）」としての歴史を持つ食の宝庫。神戸ビーフや松阪牛の素牛として知られる最高峰の黒毛和牛「淡路牛（淡路ビーフ）」の霜降りステーキ、激しい鳴門海峡の潮流に揉まれて身が引き締まった「淡路島天然真鯛」、夏の風物詩である「淡路島鱧（はも）」のしゃぶしゃぶやすき鍋、そして甘み際立つ名物淡路島玉ねぎなど、贅を尽くした山海の幸が食卓に並びます。本特集では、全室オーシャンビューと棚田状の絶景露天風呂「淡路棚田の湯」が全国的な知名度を誇る象徴的リゾート「洲本温泉 ホテルニューアワジ」、白砂青松の大浜海岸に隣接し森と海の2つのスパが人気の「洲本温泉 夢海游 淡路島」、そして淡路島の大自然の丘陵に繭型コクーン客室が点在し満天の星と最高級淡路ビーフを味わうグランピング「GRAND CHARIOT 北斗七星135°。」の3宿を厳選。兵庫県洲本市・淡路市への楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円で憧れの淡路島リゾート旅をお得に予約しましょう。
         </p>
         <div className="bg-white/90 rounded-xl p-4 md:p-5 border border-amber-300 shadow-sm">
           <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5">
@@ -164,7 +164,7 @@ export default function FurusatoAwajishimaOceanStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “高齢の家族とゆったり過ごせたお祝い旅行御祝いで利用しました。高齢なので大きな施設でゆったりすごせました。クチコミの詳細はこちらから　https://review.travel.rakute…　2026-09-05 16:39:17投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “高齢の家族とゆったり過ごせたお祝い旅行御祝いで利用しました。高齢なので大きな施設でゆったりすごせました。 ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -206,7 +206,7 @@ export default function FurusatoAwajishimaOceanStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “寂しい見送り料理はまずまず!酒の品揃えが少ない上、価格が高い。土佐鶴とかうまい酒があればもっと美味しく過ごせたかな。遠いパーキングまで送迎なし!クチコミの詳細はこちらから　https:…　2026-09-04 18:30:42投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “寂しい見送り料理はまずまず!酒の品揃えが少ない上、価格が高い。土佐鶴とかうまい酒があればもっと美味しく過ごせたかな。遠いパーキングまで送迎なし!
             </blockquote>
           </div>
           <div className="pt-2">
@@ -248,7 +248,7 @@ export default function FurusatoAwajishimaOceanStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “食事は絶品だが、夏場の虫と景色には注意念願の星のコクーンを利用。朝食は、洋食プレート。夜はBBQでしたが、いずれも地産地消の食材を使いどれもみなとても美味しかったです。質も量も大満足でした。…　2026-08-01 23:35:09投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “食事は絶品だが、夏場の虫と景色には注意念願の星のコクーンを利用。朝食は、洋食プレート。夜はBBQでしたが、いずれも地産地消の食材を使いどれもみなとても美味しかったです。質も量も大満足でした。… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -323,7 +323,7 @@ export default function FurusatoAwajishimaOceanStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

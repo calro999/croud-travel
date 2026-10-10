@@ -36,11 +36,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5822/5822map.gif",
     "reviewCount": 2936,
     "reviewAverage": 3.93,
-    "userReview": "ウェルカムドリンクは豊富だが設備に難ありウェルカムドリンクがアルコールからソフトドリンクまで種類豊富でよかったです。朝食がついていたのですが、こちらの出発の都合で食べられなかったのは残念です。…　 ",
+    "userReview": "ウェルカムドリンクは豊富だが設備に難ありウェルカムドリンクがアルコールからソフトドリンクまで種類豊富でよかったです。",
     "hotelMinCharge": 3800,
     "address1": "三重県",
     "address2": "松阪市京町516-1",
-    "telephoneNo": "0598-25-2311",
+    "telephoneNo": "11",
     "access": "JR・近鉄松阪駅南口から徒歩1分。松阪ICから車で10分。伊勢神宮内宮までお車で約40分",
     "parkingInformation": "□館周り無料駐車場8台【先着優先】※満車等の場合は近隣有料パーキングをご案内致します。",
     "nearestStation": "松阪",
@@ -66,7 +66,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1206/1206map.gif",
     "reviewCount": 2796,
     "reviewAverage": 4.39,
-    "userReview": "喜寿のお祝いに豪華な食事、お風呂は残念今回、父親の喜寿のお祝いに客室露天風呂付きのいいお部屋に宿泊しましたお料理は神戸牛のステーキに和牛しゃぶしゃぶ他にも沢山品数もあり食べきれない程でした。金…　 ",
+    "userReview": "落ち着いた心地よい空間の中、温かい温泉とおいしいお料理で日頃の疲れを癒やすことができました。",
     "hotelMinCharge": 9900,
     "address1": "兵庫県",
     "address2": "神戸市北区有馬町1296",
@@ -77,7 +77,7 @@ export default function Page() {
     "hotelSpecial": "【楽天ゴールド＆日本の宿アワード受賞】部屋食プラン多数★温泉街すぐ！金銀２種の温泉と神戸牛が自慢♪",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1206%2F1206.html",
     "label": "兵庫県神戸市北区ふるさと納税・きめ細やかなサシと芳醇な香り「神戸ビーフ」金泉名湯と有馬温泉兵衛向陽閣",
-    "themeTitle": "兵庫県神戸市・有馬温泉ふるさと納税：世界最高峰「神戸牛」と金泉名湯「神戸牛と有馬温泉 天然金泉・銀泉の宿 有馬御苑」",
+    "themeTitle": "兵庫県神戸市・有馬温泉ふるさと納税：世界最高峰「神戸牛」と金泉名湯「神戸牛と有馬温泉 天然金泉・銀泉の宿 有馬御苑。」",
     "themeDesc": "神戸ビーフ取扱指定店として極上の神戸牛料理を提供する有馬温泉の老舗宿。きめ細やかなサシがとろける神戸牛のしゃぶしゃぶやすき焼きを部屋食で味わい、赤褐色の名湯「金泉」と無色透明の「銀泉」のダブル温泉で癒やされます。",
     "revAvg": "4.4",
     "minCharge": "9,900"
@@ -96,11 +96,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76886/76886map.gif",
     "reviewCount": 781,
     "reviewAverage": 4.31,
-    "userReview": "微妙だった点プールの更衣室がかなり蒸し暑く、着替えるスペースも小さいすのこが1.2枚ひかれてるだけでした。ほかに一人いると、着替えにくい広さでした。小学生(身長135cm)の子どもに合…　 ",
+    "userReview": "微妙だった点プールの更衣室がかなり蒸し暑く、着替えるスペースも小さいすのこが1.2枚ひかれてるだけでした。ほかに一人いると、着替えにくい広さでした。小学生(身長135cm)の子どもに合。",
     "hotelMinCharge": 13000,
     "address1": "滋賀県",
     "address2": "近江八幡市沖島町宮ヶ浜",
-    "telephoneNo": "0748-32-3138",
+    "telephoneNo": "38",
     "access": "JR　近江八幡駅より近江鉄道バス休暇村行きにて約43分　※近江鉄道バス休暇村行き、土日祝日運休",
     "parkingInformation": "有り　５００台　無料　予約不要",
     "nearestStation": "近江八幡",
@@ -182,7 +182,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「エースイン・松阪」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「エースイン・松阪」へは、ＪＲ・近鉄松阪駅北口より徒歩１分。最寄りの松阪駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「エースイン・松阪」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「エースイン・松阪」は『日本百名谷・大杉谷峡谷への玄関口。松阪牛の名店巡りと無料朝食バイキングが魅力の快適ホテル。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「エースイン・松阪」と「神戸牛と有馬温泉 天然金泉・銀泉の宿 有馬御苑」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「エースイン・松阪」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「エースイン・松阪」へは、ＪＲ・近鉄松阪駅北口より徒歩１分。最寄りの松阪駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「エースイン・松阪」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「エースイン・松阪」は『日本百名谷・大杉谷峡谷への玄関口。松阪牛の名店巡りと無料朝食バイキングが魅力の快適ホテル。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「エースイン・松阪」と「神戸牛と有馬温泉 天然金泉・銀泉の宿 有馬御苑。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         
         {/* 特集の魅力セクション */}
@@ -458,7 +458,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「エースイン・松阪」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「エースイン・松阪」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「神戸牛と有馬温泉 天然金泉・銀泉の宿 有馬御苑」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「神戸牛と有馬温泉 天然金泉・銀泉の宿 有馬御苑。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -497,7 +497,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「エースイン・松阪」と「神戸牛と有馬温泉 天然金泉・銀泉の宿 有馬御苑」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「エースイン・松阪」と「神戸牛と有馬温泉 天然金泉・銀泉の宿 有馬御苑。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

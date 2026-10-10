@@ -504,7 +504,7 @@ export default function Page() {
                     🚆 富山地方鉄道「宇奈月温泉駅」下車徒歩３分　無料送迎バス有※要確認／北陸自動車道黒部IC下車約２０分
                   </p>
                   <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
-                    おかげさまで連続受賞！「楽天トラベル 日本の宿アワード2025 TOP47」♪
+                    おかげさまで連続受賞！「楽天トラベル 日本の宿アワード2025 TOP47。」♪
                   </p>
                 </div>
 

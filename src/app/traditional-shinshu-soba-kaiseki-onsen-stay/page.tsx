@@ -34,11 +34,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6064/6064map.gif",
     "reviewCount": 1514,
     "reviewAverage": 4.53,
-    "userReview": "豪勢な食事とスタッフの丁寧な気遣い食事が豪勢でおいしい!職員さんたちも皆丁寧で気遣いも素晴らしかったですクチコミの詳細はこちらから　https://review.travel.rakuten.…　2026-09-16 08:27:37投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=6064\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "豪勢な食事とスタッフの丁寧な気遣い食事が豪勢でおいしい!職員さんたちも皆丁寧で気遣いも素晴らしかったです。",
     "hotelMinCharge": 7947,
     "address1": "長野県",
     "address2": "上田市別所温泉1628",
-    "telephoneNo": "0268-38-2300",
+    "telephoneNo": "00",
     "access": "JR北陸新幹線上田駅にて上田電鉄別所線に乗換、終点別所温泉駅より徒歩10分。",
     "parkingInformation": "有り　20台　無料",
     "nearestStation": "別所温泉",
@@ -59,11 +59,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15864/15864map.gif",
     "reviewCount": 666,
     "reviewAverage": 4.78,
-    "userReview": "部屋付き温泉と豪華な食事で大満足部屋に温泉がひいてあって、いつでも温泉を楽しめました。食事も豪華でした。値段分の価値を感じることができました。クチコミの詳細はこちらから　https://rev…　2026-09-16 16:22:28投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=15864\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "部屋付き温泉と豪華な食事で大満足部屋に温泉がひいてあって、いつでも温泉を楽しめました。食事も豪華でした。値段分の価値を感じることができました。",
     "hotelMinCharge": 30800,
     "address1": "長野県",
     "address2": "上田市別所温泉227",
-    "telephoneNo": "0268-38-3015",
+    "telephoneNo": "15",
     "access": "北陸新幹線上田駅乗り換え、別所温泉駅より徒歩7分（14時～17時は無料送迎バス有）、上信越道「上田菅平IC」から車30分",
     "parkingInformation": "有り　３０台　無料",
     "nearestStation": "上田（長野）",
@@ -84,11 +84,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38989/38989map.gif",
     "reviewCount": 320,
     "reviewAverage": 4.22,
-    "userReview": "クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/38989?reviewId=33123479212566　2026-08-31 10:59:38投稿",
+    "userReview": "",
     "hotelMinCharge": 8500,
     "address1": "長野県",
     "address2": "安曇野市穂高有明8969",
-    "telephoneNo": "0263-83-2802",
+    "telephoneNo": "02",
     "access": "長野自動車道安曇野ICより車で２０分、JR穂高駅より車で１５分",
     "parkingInformation": "有り　1００台　無料",
     "nearestStation": "有明（長野）",
@@ -109,11 +109,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38902/38902map.gif",
     "reviewCount": 128,
     "reviewAverage": 4.04,
-    "userReview": "鹿教湯温泉の優しいお湯に癒やされた鹿教湯温泉の優しいお湯に入れて良かったです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/h…　2026-09-18 04:57:18投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=38902\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "鹿教湯温泉の優しいお湯に癒やされた鹿教湯温泉の優しいお湯に入れて良かったです。",
     "hotelMinCharge": 5500,
     "address1": "長野県",
     "address2": "上田市鹿教湯温泉1422",
-    "telephoneNo": "0268-44-2236",
+    "telephoneNo": "36",
     "access": "ＪＲ長野新幹線　上田駅より車で３０分／ＪＲ　松本駅より車で３０分",
     "parkingInformation": "有り　２０台　無料　すべて可能",
     "nearestStation": "上田（長野）",
@@ -134,11 +134,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38930/38930map.gif",
     "reviewCount": 3131,
     "reviewAverage": 4.63,
-    "userReview": "料理と館内の工夫に満足、また泊まりたい事前に泊まる客室の間取りを見ていたものの想像よりも狭く感じた。布団を3組敷いたら少し手狭に。ミストサウナ付きだったけど使うタイミングがなく、大浴場だけで満足で…　2026-09-18 20:16:23投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=38930\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "料理と館内の工夫に満足、また泊まりたい事前に泊まる客室の間取りを見ていたものの想像よりも狭く感じた。布団を3組敷いたら少し手狭に。ミストサウナ付きだったけど使うタイミングがなく、大浴場だけで満足で。",
     "hotelMinCharge": 14300,
     "address1": "長野県",
     "address2": "松本市里山辺527",
-    "telephoneNo": "0263-38-7711",
+    "telephoneNo": "11",
     "access": "ＪＲ　松本駅から車で20分／松本駅前バスターミナルより美ヶ原温泉行きのバスで20分",
     "parkingInformation": "有り　１５０台　無料",
     "nearestStation": "松本",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「信州別所温泉 旅宿 上松や」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「信州別所温泉 旅宿 上松や」へは、JR北陸新幹線上田駅にて上田電鉄別所線に乗換、終点別所温泉駅より徒歩10分。最寄りの別所温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「信州別所温泉 旅宿 上松や」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「信州別所温泉 旅宿 上松や」は『楽天トラベルアワード7年連続受賞！（2025 シルバーアワード）』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「信州別所温泉 旅宿 上松や」と「信州別所温泉 玉屋旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「信州別所温泉 旅宿 上松や」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「信州別所温泉 旅宿 上松や」へは、JR北陸新幹線上田駅にて上田電鉄別所線に乗換、終点別所温泉駅より徒歩10分。最寄りの別所温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「信州別所温泉 旅宿 上松や」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「信州別所温泉 旅宿 上松や」は『楽天トラベルアワード7年連続受賞！（2025 シルバーアワード）。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「信州別所温泉 旅宿 上松や」と「信州別所温泉 玉屋旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -628,7 +628,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「信州別所温泉 旅宿 上松や」は『楽天トラベルアワード7年連続受賞！（2025 シルバーアワード）』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「信州別所温泉 旅宿 上松や」は『楽天トラベルアワード7年連続受賞！（2025 シルバーアワード）。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

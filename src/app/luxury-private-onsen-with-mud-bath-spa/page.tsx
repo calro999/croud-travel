@@ -34,11 +34,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/141266/141266map.gif",
     "reviewCount": 118,
     "reviewAverage": 4.5,
-    "userReview": "二度目の訪問、料理も美味しく部屋も綺麗二度目の訪問です。前回はステーキももっと大きかったかなぁと思いましたが、十分な量でした。料理も美味しく、部屋も奇麗、泥湯の露天風呂は、下に砂利があるので歩くと…　2026-07-09 18:29:49投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=141266\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "二度目の訪問、料理も美味しく部屋も綺麗二度目の訪問です。前回はステーキももっと大きかったかなぁと思いましたが、十分な量でした。料理も美味しく、部屋も奇麗、泥湯の露天風呂は、下に砂利があるので歩くと。",
     "hotelMinCharge": 26400,
     "address1": "秋田県",
     "address2": "湯沢市高松泥湯沢25",
-    "telephoneNo": "0183-79-3021",
+    "telephoneNo": "21",
     "access": "JR奥羽本線湯沢駅下車、車で50分。国道13号、県道51号を経て泥湯へ。",
     "parkingInformation": "有り　１５台　無料　予約不要",
     "nearestStation": "湯沢",
@@ -59,11 +59,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15081/15081map.gif",
     "reviewCount": 924,
     "reviewAverage": 4.4,
-    "userReview": "泥パックで肌ツルツル、黒豚とプリンも絶品おじさんですが、泥でパックしてお肌ツルツルです。温泉も最高でした。食事も黒豚しゃぶしゃぶ美味しく頂きました。デザートの自家製プリンも美味しかった。また来ます…　2026-09-14 19:51:06投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=15081\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "泥パックで肌ツルツル、黒豚とプリンも絶品おじさんですが、泥でパックしてお肌ツルツルです。温泉も最高でした。食事も黒豚しゃぶしゃぶ美味しく頂きました。デザートの自家製プリンも美味しかった。また来ます。",
     "hotelMinCharge": 10500,
     "address1": "鹿児島県",
     "address2": "霧島市霧島田口2324-7",
-    "telephoneNo": "0995-57-1227",
+    "telephoneNo": "27",
     "access": "【ＪＲ霧島神宮駅】下車タクシー10分。【鹿児島空港】から車で40分。【鹿児島市内】より車で1時間10分",
     "parkingInformation": "有り　１００台　無料　先着順",
     "nearestStation": "霧島神宮",
@@ -84,11 +84,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5121/5121map.gif",
     "reviewCount": 720,
     "reviewAverage": 4,
-    "userReview": "清潔な部屋と美味しい食事、備品も充実お部屋も清潔で、バイキングの夕食、朝食共にとても美味しかった!お風呂のシャワーやドライヤーも、リファのシリーズで嬉しかった。有料ではありません。使い放題。シャン…　2026-08-23 23:24:08投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=5121\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "清潔な部屋と美味しい食事、備品も充実お部屋も清潔で、バイキングの夕食、朝食共にとても美味しかった!お風呂のシャワーやドライヤーも、リファのシリーズで嬉しかった。有料ではありません。使い放題。シャン。",
     "hotelMinCharge": 8500,
     "address1": "新潟県",
     "address2": "妙高市関川2452",
-    "telephoneNo": "0255-86-3180",
+    "telephoneNo": "80",
     "access": "北しなの線　妙高高原駅より車で10分／上信越道 妙高高��ＩＣ～国道１８号線を通過、直進後突き当りを左折し、2.5キロ先",
     "parkingInformation": "有り / 200台 / 宿泊者無料",
     "nearestStation": "妙高高原",
@@ -153,7 +153,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「泥湯温泉 奥山旅館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「泥湯温泉 奥山旅館」へは、JR奥羽本線湯沢駅下車、車で50分。最寄りの湯沢駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「泥湯温泉 奥山旅館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「泥湯温泉 奥山旅館」は『手つかずの自然という贅沢が当館のおもてなし。3種の源泉からかけ流しの泥湯温泉が自慢、秘境の』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「泥湯温泉 奥山旅館」と「どろ湯の旅籠さくらさくら温泉 霧島神宮温泉郷」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「泥湯温泉 奥山旅館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「泥湯温泉 奥山旅館」へは、JR奥羽本線湯沢駅下車、車で50分。最寄りの湯沢駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「泥湯温泉 奥山旅館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「泥湯温泉 奥山旅館」は『手つかずの自然という贅沢が当館のおもてなし。3種の源泉からかけ流しの泥湯温泉が自慢、秘境の。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「泥湯温泉 奥山旅館」と「どろ湯の旅籠さくらさくら温泉 霧島神宮温泉郷。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
           <h2 className="text-xl sm:text-2xl font-bold text-slate-900 flex items-center gap-2">
@@ -423,7 +423,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「泥湯温泉 奥山旅館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「泥湯温泉 奥山旅館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「どろ湯の旅籠さくらさくら温泉 霧島神宮温泉郷」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「どろ湯の旅籠さくらさくら温泉 霧島神宮温泉郷。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -453,7 +453,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「泥湯温泉 奥山旅館」は『手つかずの自然という贅沢が当館のおもてなし。3種の源泉からかけ流しの泥湯温泉が自慢、秘境の』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「泥湯温泉 奥山旅館」は『手つかずの自然という贅沢が当館のおもてなし。3種の源泉からかけ流しの泥湯温泉が自慢、秘境の。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -462,7 +462,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「泥湯温泉 奥山旅館」と「どろ湯の旅籠さくらさくら温泉 霧島神宮温泉郷」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「泥湯温泉 奥山旅館」と「どろ湯の旅籠さくらさくら温泉 霧島神宮温泉郷。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

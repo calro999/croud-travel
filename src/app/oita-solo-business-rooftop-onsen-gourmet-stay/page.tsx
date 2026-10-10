@@ -7,11 +7,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/oita-solo-business-rooftop-onsen-gourmet-stay/" },
   title: '【大分出張＆豊後ソログルメ泊】大分駅直結・地上80m屋上インフィニティ天然温泉・関アジ関サバ！名物とり天を満喫する極上ホテル 厳選3選',
-  description: 'おんせん県おおいたの県庁所在地・大分市！「JR大分駅直結・最上階21階に天空露天温泉CITY SPAてんくうを擁する」の「JR九州ホテル ブラッサム大分」、大分市中心街のランドマークホテル「ホテル日航大分 オアシスタワー」、府内町ビジネス街至近の「ダイワロイネットホテル大分」を徹底特集。',
+  description: 'おんせん県おおいたの県庁所在地・大分市！「JR大分駅直結・最上階21階に天空露天温泉CITY SPAてんくうを擁する。」の「JR九州ホテル ブラッサム大分」、大分市中心街のランドマークホテル「ホテル日航大分 オアシスタワー」、府内町ビジネス街至近の「ダイワロイネットホテル大分」を徹底特集。',
   keywords: '大分 出張 ホテル 温泉,大分 一人旅 ホテル おすすめ,ブラッサム大分 温泉,ホテル日航大分 オアシスタワー 宿泊,大分 関アジ 関サバ ホテル',
   openGraph: {
     title: '【大分出張＆豊後ソログルメ泊】大分駅直結・地上80m屋上インフィニティ天然温泉・関アジ関サバ！名物とり天を満喫する極上ホテル 厳選3選',
-    description: 'おんせん県おおいたの県庁所在地・大分市！「JR大分駅直結・最上階21階に天空露天温泉CITY SPAてんくうを擁する」の「JR九州ホテル ブラッサム大分」、大分市中心街のランドマークホテル「ホテル日航大分 オアシスタワー」、府内町ビジネス街至近の「ダイワロイネットホテル大分」を徹底特集。',
+    description: 'おんせん県おおいたの県庁所在地・大分市！「JR大分駅直結・最上階21階に天空露天温泉CITY SPAてんくうを擁する。」の「JR九州ホテル ブラッサム大分」、大分市中心街のランドマークホテル「ホテル日航大分 オアシスタワー」、府内町ビジネス街至近の「ダイワロイネットホテル大分」を徹底特集。',
     url: 'https://croud-travel.pages.dev/oita-solo-business-rooftop-onsen-gourmet-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -24,7 +24,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【大分出張＆豊後ソログルメ泊】大分駅直結・地上80m屋上インフィニティ天然温泉・関アジ関サバ！名物とり天を満喫する極上ホテル 厳選3選',
-    description: 'おんせん県おおいたの県庁所在地・大分市！「JR大分駅直結・最上階21階に天空露天温泉CITY SPAてんくうを擁する」の「JR九州ホテル ブラッサム大分」、大分市中心街のランドマークホテル「ホテル日航大分 オアシスタワー」、府内町ビジネス街至近の「ダイワロイネットホテル大分」を徹底特集。',
+    description: 'おんせん県おおいたの県庁所在地・大分市！「JR大分駅直結・最上階21階に天空露天温泉CITY SPAてんくうを擁する。」の「JR九州ホテル ブラッサム大分」、大分市中心街のランドマークホテル「ホテル日航大分 オアシスタワー」、府内町ビジネス街至近の「ダイワロイネットホテル大分」を徹底特集。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・出張調査班',
@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-12T15:40:00+09:00',
-    dateModified: '2026-09-12T15:40:00+09:00',
+    datePublished: 'T15:40:00+09:00',
+    dateModified: 'T15:40:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/oita-solo-business-rooftop-onsen-gourmet-stay',
   };
 
@@ -48,7 +48,7 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「大分駅直結・地上80m屋上インフィニティ天然温泉・関アジ関サバ！名物とり天を満喫する極上ホテル 厳選3選」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「大分駅直結・地上80m屋上インフィニティ天然温泉・関アジ関サバ！名物とり天を満喫する極上ホテル 厳選3選。」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -78,7 +78,7 @@ export default function ArticlePage() {
           【大分出張＆豊後ソログルメ泊】大分駅直結・地上80m屋上インフィニティ天然温泉・関アジ関サバ！名物とり天を満喫する極上ホテル 厳選3選
         </h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
-          おんせん県おおいたの県庁所在地・大分市！「JR大分駅直結・最上階21階に天空露天温泉CITY SPAてんくうを擁する」の「JR九州ホテル ブラッサム大分」、大分市中心街のランドマークホテル「ホテル日航大分 オアシスタワー」、府内町ビジネス街至近の「ダイワロイネットホテル大分」を徹底特集。
+          おんせん県おおいたの県庁所在地・大分市！「JR大分駅直結・最上階21階に天空露天温泉CITY SPAてんくうを擁する。」の「JR九州ホテル ブラッサム大分」、大分市中心街のランドマークホテル「ホテル日航大分 オアシスタワー」、府内町ビジネス街至近の「ダイワロイネットホテル大分」を徹底特集。
         </p>
       </header>
 
@@ -161,7 +161,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.55点。「屋上の露天風呂からの景色が圧巻で、これ以上の出張ホテルはありません」「駅直結で部屋も上質、大分出張の際は必ず泊まります」と絶賛の嵐。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.55点。「屋上の露天風呂からの景色が圧巻で、これ以上の出張ホテルはありません。」「駅直結で部屋も上質、大分出張の際は必ず泊まります。」と絶賛の嵐。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -236,7 +236,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.40点。「高層階からの眺めが素晴らしく部屋も広くて清潔でした」「スタッフの対応がとても丁寧で安心して宿泊できました」と定評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.40点。「高層階からの眺めが素晴らしく部屋も広くて清潔でした。」「スタッフの対応がとても丁寧で安心して宿泊できました。」と定評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -311,7 +311,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.31点。「立地が良く部屋も綺麗で、デスクワークがとてもしやすかった」「飲食店街にも近くて一人出張に最適でした」と好評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.31点。「立地が良く部屋も綺麗で、デスクワークがとてもしやすかった。」「飲食店街にも近くて一人出張に最適でした」と好評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -437,7 +437,7 @@ export default function ArticlePage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「大分駅直結・地上80m屋上インフィニティ天然温泉・関アジ関サバ！名物とり天を満喫する極上ホテル 厳選3選」を効率よく巡るコツは？</span>
+                <span>Q. 「大分駅直結・地上80m屋上インフィニティ天然温泉・関アジ関サバ！名物とり天を満喫する極上ホテル 厳選3選。」を効率よく巡るコツは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">

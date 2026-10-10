@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【初夏のホタル乱舞＆清流露天】客室デッキや庭園から幻想的な光を愛でる名湯宿5選",
     "description": "清らかな小川のほとりで優美に光を放つ初夏のホタル！宿の敷地内を流れる小川や客室露天風呂から、闇夜に舞う幻想的なホタルの光を鑑賞できる全国屈指の情緒あふれる温泉宿を厳選紹介。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-    "datePublished": "2026-03-27T00:00:00+09:00",
-    "dateModified": "2026-03-27T00:00:00+09:00",
+    "datePublished": "T00:00:00+09:00",
+    "dateModified": "T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",
@@ -153,7 +153,7 @@ export default function FeaturePage() {
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「平山温泉 ほたるの長屋」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「平山温泉 ほたるの長屋」へは、ＪＲ鹿児島本線 大牟田駅または玉名駅より車で４５分／福岡空港より高速道路 植木ＩＣより車で２５分。最寄りの瀬高駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「平山温泉 ほたるの長屋」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「平山温泉 ほたるの長屋」は『女性オーナーシェフが手がける、ミシュランガイド掲載旅館の創作料理。全5棟の客室に源泉100』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「平山温泉 ほたるの長屋」と「由布院温泉 旅館 ほたるの宿 仙洞」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「平山温泉 ほたるの長屋」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「平山温泉 ほたるの長屋」へは、ＪＲ鹿児島本線 大牟田駅または玉名駅より車で４５分／福岡空港より高速道路 植木ＩＣより車で２５分。最寄りの瀬高駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「平山温泉 ほたるの長屋」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「平山温泉 ほたるの長屋」は『女性オーナーシェフが手がける、ミシュランガイド掲載旅館の創作料理。全5棟の客室に源泉100。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「平山温泉 ほたるの長屋」と「由布院温泉 旅館 ほたるの宿 仙洞」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -380,7 +380,7 @@ export default function FeaturePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「平山温泉 ほたるの長屋」は『女性オーナーシェフが手がける、ミシュランガイド掲載旅館の創作料理。全5棟の客室に源泉100』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「平山温泉 ほたるの長屋」は『女性オーナーシェフが手がける、ミシュランガイド掲載旅館の創作料理。全5棟の客室に源泉100。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

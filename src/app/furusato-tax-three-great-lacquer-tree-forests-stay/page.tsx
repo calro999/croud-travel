@@ -49,7 +49,7 @@ export default function FurusatoRound65ArticlePage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「安比八幡平の食の宿 四季館 彩冬」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「安比八幡平の食の宿 四季館 彩冬」へは、ＪＲ花輪線『赤坂田駅』（盛岡駅→いわて銀河鉄道大館行き乗車） より無料送迎バスにて約２分（要予約）。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「安比八幡平の食の宿 四季館 彩冬」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「安比八幡平の食の宿 四季館 彩冬」は上質な客室空間とおもてなしが旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「安比八幡平の食の宿 四季館 彩冬」と「創作料理が自慢の宿 会津 喜多方 熱塩温泉 山形屋」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「安比八幡平の食の宿 四季館 彩冬」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「安比八幡平の食の宿 四季館 彩冬」へは、ＪＲ花輪線『赤坂田駅』（盛岡駅→いわて銀河鉄道大館行き乗車） より無料送迎バスにて約２分（要予約）。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「安比八幡平の食の宿 四季館 彩冬」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「安比八幡平の食の宿 四季館 彩冬」は上質な客室空間とおもてなしが旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「安比八幡平の食の宿 四季館 彩冬」と「創作料理が自慢の宿 会津 喜多方 熱塩温泉 山形屋。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -190,7 +190,7 @@ export default function FurusatoRound65ArticlePage() {
                     安比八幡平の食の宿　四季館　彩冬
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「朝食のクオリティーが凄い部屋、大浴場ともにお風呂はとても寛げます。夕食は、鮑、ステーキ、しゃぶしゃぶの3品をセレクトするプランでしたが、全体的に量が多いので、完食するのに大変でした。朝食のブッ… 2026-09-02 19:28:42投稿 つづきはこちら…」
+                    「朝食のクオリティーが凄い部屋、大浴場ともにお風呂はとても寛げます。夕食は、鮑、ステーキ、しゃぶしゃぶの3品をセレクトするプランでしたが、全体的に量が多いので、完食するのに大変でした。朝食のブッ…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -245,7 +245,7 @@ export default function FurusatoRound65ArticlePage() {
                     創作料理が自慢の宿　会津　喜多方　熱塩温泉　山形屋
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「食事は美味しくロケーションも最高夕朝食共に美味しかった。風呂は水風呂がサウナが使える時間の女性の方にしかなくて残念、男性の方が使うのでは?と思いました。ロケーションはゆっくりするには最適で… 2026-09-05 22:01:33投稿 つづきはこちら…」
+                    「食事は美味しくロケーションも最高夕朝食共に美味しかった。と思いました。ロケーションはゆっくりするには最適で…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -300,7 +300,7 @@ export default function FurusatoRound65ArticlePage() {
                     天橋立温泉　対橋楼
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「食事と眺望に満足、また利用したい夕食も朝食も美味しく食べ過ぎてしまいました。お風呂が狭くて入った時は混雑してました。お部屋からの眺望は橋が見え、船が通る時の旋回も見ることができました。… 2026-07-02 14:47:44投稿 つづきはこちら…」
+                    「食事と眺望に満足、また利用したい夕食も朝食も美味しく食べ過ぎてしまいました。お風呂が狭くて入った時は混雑してました。お部屋からの眺望は橋が見え、船が通る時の旋回も見ることができました。…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -433,7 +433,7 @@ export default function FurusatoRound65ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「安比八幡平の食の宿 四季館 彩冬」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「安比八幡平の食の宿 四季館 彩冬」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「創作料理が自慢の宿 会津 喜多方 熱塩温泉 山形屋」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「創作料理が自慢の宿 会津 喜多方 熱塩温泉 山形屋。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -472,7 +472,7 @@ export default function FurusatoRound65ArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「安比八幡平の食の宿 四季館 彩冬」と「創作料理が自慢の宿 会津 喜多方 熱塩温泉 山形屋」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「安比八幡平の食の宿 四季館 彩冬」と「創作料理が自慢の宿 会津 喜多方 熱塩温泉 山形屋。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

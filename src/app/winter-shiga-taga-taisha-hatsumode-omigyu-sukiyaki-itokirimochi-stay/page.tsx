@@ -47,8 +47,8 @@ export default function Page() {
       "headline": "【近江国第一の古社・多賀大社新春初詣と名物糸切餅】2026-2027年冬の滋賀・多賀＆彦根！冬の極上近江牛すき焼きと美肌天然温泉名宿5選",
       "description": "「お伊勢参らばお多賀へ参れ」と称えられる近江国随一の古社「多賀大社」新春初詣！延命長寿のお多賀杓子と名物糸切餅、国宝彦根城の冬景色。冬の極上霜降り「近江牛すき焼き」や鴨鍋、湖東の豊かな天然温泉で身体の芯から温まる冬の厳選名宿5選。",
       "image": "https://img.travel.rakuten.co.jp/share/HOTEL/149302/149302.jpg",
-      "datePublished": "2026-10-09",
-      "dateModified": "2026-10-09",
+      "datePublished": "",
+      "dateModified": "",
       "author": {
         "@type": "Organization",
         "name": "Japan Travel Curations"
@@ -248,7 +248,7 @@ export default function Page() {
               <h2>冬の多賀・彦根・八日市探訪：静寂と温もりに包まれる旅の魅力</h2>
             </div>
             <p className="text-xs sm:text-sm text-stone-700 leading-relaxed">
-              霊峰・伊吹山と鈴鹿山脈から冷たい冬風「伊吹おろし」が琵琶湖へと吹き抜ける初冬から厳冬期、滋賀県東部の湖東地域は、静謐な祈りの気配と豊かな歴史の息吹に満たされます。古くから「お伊勢参らばお多賀へ参れ、お伊勢お多賀の子でござる」と俗謡に歌い継がれてきた名刹「多賀大社（たがたいしゃ）」は、伊勢神宮に祀られる天照大神の親神にあたる伊邪那岐命（いざなぎのみこと）と伊邪那美命（いざなみのみこと）の夫婦神を祀る近江国随一の古社。生命の源、延命長寿、良縁結び、家内安全を司る大社として全国から崇敬を集め、新春正月三が日には約50万人もの参拝客で大いに賑わいます。杉木立に囲まれた境内には、重文の太鼓橋（そり橋）や風格ある本殿がたたずみ、新春の清らかな空気が参拝者の心を洗い清めます。参道に連なる門前町では、蒙古襲来の際に奉納された弓の弦で切り分けたと伝わる銘菓「糸切餅（いときりもち）」の米粉の香りと上品な漉し餡の甘みが漂い、名物の延命長寿「お多賀杓子（おたまじゃくしの語源）」が新年の福を招きます。多賀から車でわずか15分、雪の白壁と天守が神々しい国宝「彦根城」や、冬の静寂に包まれる湖東三山（西明寺・金剛輪寺・百済寺）を巡る歴史旅。そして冷え切った身体を温めてくれるのが、日本三大和牛の最高峰「近江牛（おうみぎゅう）」の極上すき焼きと、琵琶湖の恵み・天然鴨鍋。湖東の豊かな天然温泉に浸かり、芳醇な霜降り肉の甘みに酔いしれる、大人の冬の近江路へ誘います。
+              霊峰・伊吹山と鈴鹿山脈から冷たい冬風「伊吹おろし」が琵琶湖へと吹き抜ける初冬から厳冬期、滋賀県東部の湖東地域は、静謐な祈りの気配と豊かな歴史の息吹に満たされます。古くから「お伊勢参らばお多賀へ参れ、お伊勢お多賀の子でござる。」と俗謡に歌い継がれてきた名刹「多賀大社（たがたいしゃ）」は、伊勢神宮に祀られる天照大神の親神にあたる伊邪那岐命（いざなぎのみこと）と伊邪那美命（いざなみのみこと）の夫婦神を祀る近江国随一の古社。生命の源、延命長寿、良縁結び、家内安全を司る大社として全国から崇敬を集め、新春正月三が日には約50万人もの参拝客で大いに賑わいます。杉木立に囲まれた境内には、重文の太鼓橋（そり橋）や風格ある本殿がたたずみ、新春の清らかな空気が参拝者の心を洗い清めます。参道に連なる門前町では、蒙古襲来の際に奉納された弓の弦で切り分けたと伝わる銘菓「糸切餅（いときりもち）」の米粉の香りと上品な漉し餡の甘みが漂い、名物の延命長寿「お多賀杓子（おたまじゃくしの語源）」が新年の福を招きます。多賀から車でわずか15分、雪の白壁と天守が神々しい国宝「彦根城」や、冬の静寂に包まれる湖東三山（西明寺・金剛輪寺・百済寺）を巡る歴史旅。そして冷え切った身体を温めてくれるのが、日本三大和牛の最高峰「近江牛（おうみぎゅう）」の極上すき焼きと、琵琶湖の恵み・天然鴨鍋。湖東の豊かな天然温泉に浸かり、芳醇な霜降り肉の甘みに酔いしれる、大人の冬の近江路へ誘います。
             </p>
           </section>
 
@@ -399,7 +399,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「掃除が行き届き快適、食事も美味しく大満足掃除が行き届いており快適に過ごせました!ご飯もとても美味しく大満足でしたまた利用したいです!!!クチコミの詳細はこちらから　https://re…　2026-09-28 23:13:19投稿 <a href=”https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=149302” class=”3click”>つづきはこちら</a>」"}</span>
+                  <span>{"「掃除が行き届き快適、食事も美味しく大満足掃除が行き届いており快適に過ごせました!ご飯もとても美味しく大満足でしたまた利用したいです!」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -466,7 +466,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「彦根城前の好立地、お風呂からの眺めも最高ビワイチと観光を兼ねた旅行で2泊しました。彦根城の前ということでロケーションは最高でした。ホテルのサービスも丁寧で気持ちの良い接客で、安心して過ごせました。…　2026-10-01 20:59:16投稿 <a href=”https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=145042” class=”3click”>つづきはこちら</a>」"}</span>
+                  <span>{"「彦根城前の好立地、お風呂からの眺めも最高ビワイチと観光を兼ねた旅行で2泊しました。彦根城の前ということでロケーションは最高でした。ホテルのサービスも丁寧で気持ちの良い接客で、安心して過ごせました。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -533,7 +533,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「愛犬とずっと一緒に過ごせる、心温まる最高のホテルでした! 先日、愛犬と一緒に宿泊させていただきました。多くのホテルでは食事の際に犬をお部屋のクレートでお留守番させなければなりませんが、こちらはご飯…　2026-09-28 18:40:58投稿 <a href=”https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=188914” class=”3click”>つづきはこちら</a>」"}</span>
+                  <span>{"「愛犬とずっと一緒に過ごせる、心温まる最高のホテルでした!先日、愛犬と一緒に宿泊させていただきました。多くのホテルでは食事の際に犬をお部屋のクレートでお留守番させなければなりませんが、こちらはご飯。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -600,7 +600,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「紅葉の眺めと泉質の良いお風呂に満足部屋からの眺め:紅葉の時期はとてもいいと思います。お風呂:泉質も良く、サウナも良かったです。クチコミの詳細はこちらから　https://review.trav…　2026-10-03 18:26:14投稿 <a href=”https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=147618” class=”3click”>つづきはこちら</a>」"}</span>
+                  <span>{"「紅葉の眺めと泉質の良いお風呂に満足部屋からの眺め:紅葉の時期はとてもいいと思います。お風呂:泉質も良く、サウナも良かったです。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -667,7 +667,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「広い部屋と抜群のロケーションでゆったりひろーい部屋でロケーション抜群ゆったりと過ごせましたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp…　2026-10-01 19:43:58投稿 <a href=”https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=106249” class=”3click”>つづきはこちら</a>」"}</span>
+                  <span>{"「広い部屋と抜群のロケーションでゆったりひろーい部屋でロケーション抜群ゆったりと過ごせました。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">

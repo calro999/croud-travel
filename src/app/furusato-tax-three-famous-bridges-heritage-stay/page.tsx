@@ -258,7 +258,7 @@ export default function FurusatoFeaturePage() {
                 <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/198507/198507.jpg"
-                    alt="大江戸温泉物語Ｐｒｅｍｉｕｍ　長崎ホテル清風（２０２６年４月２９日リニューアルオープン）"
+                    alt="大江戸温泉物語Ｐｒｅｍｉｕｍ　長崎ホテル清風（リニューアルオープン）"
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                     loading="lazy"
                   />
@@ -272,7 +272,7 @@ export default function FurusatoFeaturePage() {
                     長崎県長崎市大鳥町523
                   </span>
                   <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    大江戸温泉物語Ｐｒｅｍｉｕｍ　長崎ホテル清風（２０２６年４月２９日リニューアルオープン）
+                    大江戸温泉物語Ｐｒｅｍｉｕｍ　長崎ホテル清風（リニューアルオープン）
                   </h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     露天風呂や客室、プレミアムラウンジから世界新三大夜景を望む温泉ホテル

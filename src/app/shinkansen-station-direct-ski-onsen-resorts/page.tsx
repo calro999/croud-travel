@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/shinkansen-station-direct-ski-onsen-resorts"
   };
 
@@ -83,11 +83,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5735/5735map.gif",
     "reviewCount": 695,
     "reviewAverage": 4.13,
-    "userReview": "24時間入れる温泉最高2回目の訪問です。今回は素泊まりプランで湯沢の食べ歩きを楽しみました!のんびり出来ました。またお仕事頑張れそうです。ありがとうございました。クチコミの詳細…　2026-09-07 12:56:09投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=5735\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "24時間入れる温泉最高2回目の訪問です。今回は素泊まりプランで湯沢の食べ歩きを楽しみました!のんびり出来ました。またお仕事頑張れそうです。ありがとうございました。クチコミの詳細。",
     "hotelMinCharge": 5500,
     "address1": "新潟県",
     "address2": "南魚沼郡湯沢町湯沢419",
-    "telephoneNo": "0257-84-3412",
+    "telephoneNo": "12",
     "access": "JR上越新幹線、越後湯沢駅西口より徒歩７分。関越自動車道、越後湯沢ＩＣより、越後湯沢駅方面に向かって約6分。駐車場完備。",
     "parkingInformation": "有り　15台　無料",
     "nearestStation": "越後湯沢",
@@ -108,7 +108,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16403/16403map.gif",
     "reviewCount": 1509,
     "reviewAverage": 4.43,
-    "userReview": "料理が美味しくアメニティの心遣いも素敵口コミが良かったのでお料理を楽しみにしていました。ご飯が美味しくローストビーフも柔らかくて美味しいです。全種類を少しずつ食べてバイキングを楽しみました。ク…　2026-09-13 17:07:15投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=16403\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "料理が美味しくアメニティの心遣いも素敵口コミが良かったのでお料理を楽しみにしていました。ご飯が美味しくローストビーフも柔らかくて美味しいです。全種類を少しずつ食べてバイキングを楽しみました。ク。",
     "hotelMinCharge": 8800,
     "address1": "新潟県",
     "address2": "南魚沼市舞子2056-108",
@@ -133,7 +133,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7518/7518map.gif",
     "reviewCount": 342,
     "reviewAverage": 4.15,
-    "userReview": "フロントの対応が丁寧で好印象フロントの対応が良かったです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/7518?…　2026-09-10 21:38:43投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=7518\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "フロントの対応が丁寧で好印象フロントの対応が良かったです。",
     "hotelMinCharge": 3980,
     "address1": "新潟県",
     "address2": "南魚沼郡湯沢町大字土樽6301-7",

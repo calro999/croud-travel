@@ -49,7 +49,7 @@ export default function FurusatoTorafuguKaisekiStayPage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「下関グランドホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「下関グランドホテル」へは、ＪＲ下関から車で５分、ＪＲ門司港駅横から船で５分。最寄りの下関駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「下関グランドホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「下関グランドホテル」は『目の前は関門海峡☆徒歩圏内に唐戸市場、海響館と便利です♪』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「下関グランドホテル」と「日間賀島 漁師民宿やまに」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「下関グランドホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「下関グランドホテル」へは、ＪＲ下関から車で５分、ＪＲ門司港駅横から船で５分。最寄りの下関駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「下関グランドホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「下関グランドホテル」は『目の前は関門海峡☆徒歩圏内に唐戸市場、海響館と便利です♪。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「下関グランドホテル」と「日間賀島 漁師民宿やまに」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -195,7 +195,7 @@ export default function FurusatoTorafuguKaisekiStayPage() {
                     本州最西端・関門海峡の目の前に建ち、昭和天皇をはじめ国内外のVIPを迎えてきた歴史と格式を誇る下関の迎賓館ホテル。唐戸市場まで徒歩すぐの好立地に位置し、下関名物「天然とらふぐ」を熟練の料理人が腕によりをかけて仕立てる極上フルコースが大好評。大皿に菊花のように美しく盛られたてっさ、ふぐちり鍋、香ばしいひれ酒など本場ならではの深い味わいを堪能できます。客室やレストランの大きな窓から行き交う巨大客船や関門橋のライトアップを眺めながら、洗練されたひとときをお過ごしいただけます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「唐戸市場に近く、豪華で綺麗な空間綺麗で豪華なホテルでした。唐戸市場にも近くて満足です。クチコミの詳細はこちらから 2026-09-05 18:36:56投稿 つづきはこちら…」
+                    「唐戸市場に近く、豪華で綺麗な空間綺麗で豪華なホテルでした。唐戸市場にも近くて満足です。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -481,7 +481,7 @@ export default function FurusatoTorafuguKaisekiStayPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「下関グランドホテル」は『目の前は関門海峡☆徒歩圏内に唐戸市場、海響館と便利です♪』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「下関グランドホテル」は『目の前は関門海峡☆徒歩圏内に唐戸市場、海響館と便利です♪。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

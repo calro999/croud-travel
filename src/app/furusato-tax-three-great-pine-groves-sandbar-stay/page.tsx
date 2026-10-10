@@ -66,7 +66,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 mt-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「天橋立温泉 和のリゾート 文珠荘」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「天橋立温泉 和のリゾート 文珠荘」へは、京都丹後鉄道 天橋立駅より徒歩3分。最寄りの天橋立駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「天橋立温泉 和のリゾート 文珠荘」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「天橋立温泉 和のリゾート 文珠荘」は『日本三景天橋立の運河に佇む宿。2023年春サウナ付大浴場誕生。新しい和のリゾートをお楽しみ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「天橋立温泉 和のリゾート 文珠荘」と「敦賀トンネル温泉 北国グランドホテル＜福井県＞」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「天橋立温泉 和のリゾート 文珠荘」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「天橋立温泉 和のリゾート 文珠荘」へは、京都丹後鉄道 天橋立駅より徒歩3分。最寄りの天橋立駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「天橋立温泉 和のリゾート 文珠荘」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「天橋立温泉 和のリゾート 文珠荘」は『日本三景天橋立の運河に佇む宿。2023年春サウナ付大浴場誕生。新しい和のリゾートをお楽しみ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「天橋立温泉 和のリゾート 文珠荘」と「敦賀トンネル温泉 北国グランドホテル＜福井県＞。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* Intro Lead */}
         <section className="bg-slate-900/90 border border-slate-800 rounded-3xl p-6 sm:p-8 backdrop-blur shadow-2xl">
@@ -453,7 +453,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「天橋立温泉 和のリゾート 文珠荘」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「天橋立温泉 和のリゾート 文珠荘」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「敦賀トンネル温泉 北国グランドホテル＜福井県＞」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「敦賀トンネル温泉 北国グランドホテル＜福井県＞。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -483,7 +483,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「天橋立温泉 和のリゾート 文珠荘」は『日本三景天橋立の運河に佇む宿。2023年春サウナ付大浴場誕生。新しい和のリゾートをお楽しみ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「天橋立温泉 和のリゾート 文珠荘」は『日本三景天橋立の運河に佇む宿。2023年春サウナ付大浴場誕生。新しい和のリゾートをお楽しみ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -492,7 +492,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「天橋立温泉 和のリゾート 文珠荘」と「敦賀トンネル温泉 北国グランドホテル＜福井県＞」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「天橋立温泉 和のリゾート 文珠荘」と「敦賀トンネル温泉 北国グランドホテル＜福井県＞。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

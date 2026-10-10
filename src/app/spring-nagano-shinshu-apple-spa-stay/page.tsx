@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【信州スイーツ＆名湯】焼きたて信州アップルパイ＆果実の香るりんご風呂！長野の美食温泉宿5選",
     "description": "甘酸っぱい香りに包まれる名物「りんご風呂」と、サクサクの自家製焼きたてアップルパイ！信州サーモンや信州牛とともに、長野の豊かな果実と美肌温泉を丸ごと味わえる魅力あふれる宿を徹底解説。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-    "datePublished": "2026-03-27T00:00:00+09:00",
-    "dateModified": "2026-03-27T00:00:00+09:00",
+    "datePublished": "T00:00:00+09:00",
+    "dateModified": "T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",
@@ -153,7 +153,7 @@ export default function FeaturePage() {
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「中尾山温泉松仙閣＜長野県＞」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「中尾山温泉松仙閣＜長野県＞」へは、長野駅より車で２０分約９㎞、JR今井駅より車で５分約２.５ｋｍ、長野Ｉ．Ｃより車で１５分。最寄りの篠ノ井駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「中尾山温泉松仙閣＜長野県＞」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「中尾山温泉松仙閣＜長野県＞」は『お夕食と肌スベ天然温泉が人気。お見合い露天風呂」やカラオケ風呂のユニーク風呂も♪無線LAN』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「中尾山温泉松仙閣＜長野県＞」と「信州渋温泉 渋白銀屋旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「中尾山温泉松仙閣＜長野県＞」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「中尾山温泉松仙閣＜長野県＞」へは、長野駅より車で２０分約９㎞、JR今井駅より車で５分約２.５ｋｍ、長野Ｉ．Ｃより車で１５分。最寄りの篠ノ井駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「中尾山温泉松仙閣＜長野県＞」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「中尾山温泉松仙閣＜長野県＞」は『お夕食と肌スベ天然温泉が人気。お見合い露天風呂。」やカラオケ風呂のユニーク風呂も♪無線LAN』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「中尾山温泉松仙閣＜長野県＞」と「信州渋温泉 渋白銀屋旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -380,7 +380,7 @@ export default function FeaturePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「中尾山温泉松仙閣＜長野県＞」は『お夕食と肌スベ天然温泉が人気。お見合い露天風呂」やカラオケ風呂のユニーク風呂も♪無線LAN』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「中尾山温泉松仙閣＜長野県＞」は『お夕食と肌スベ天然温泉が人気。お見合い露天風呂。」やカラオケ風呂のユニーク風呂も♪無線LAN』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

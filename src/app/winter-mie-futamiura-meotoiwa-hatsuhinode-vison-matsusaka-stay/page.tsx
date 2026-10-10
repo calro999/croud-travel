@@ -39,8 +39,8 @@ export default function Page() {
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Futamiokitama_jinja_Haiden.jpg/1280px-Futamiokitama_jinja_Haiden.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
         "https://img.travel.rakuten.co.jp/share/HOTEL/40332/40332.jpg"
       ],
-      "datePublished": "2026-10-08",
-      "dateModified": "2026-10-08",
+      "datePublished": "",
+      "dateModified": "",
       "author": {
         "@type": "Organization",
         "name": "Japan Travel Curations"
@@ -415,7 +415,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「景色も料理も最高、細やかな配慮に感謝窓からの景色も最高でした!苦手や生ものを変更して頂いたり、朝食もみなさんで共有して頂いていて、本当にありがとうございました。料理も美味しく、お風呂も最高… つづきはこちら」"}</span>
+                  <span>{"「景色も料理も最高、細やかな配慮に感謝窓からの景色も最高でした!苦手や生ものを変更して頂いたり、朝食もみなさんで共有して頂いていて、本当にありがとうございました。料理も美味しく、お風呂も最高。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -482,7 +482,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「お部屋の臭いが辛かったです。湿気なのか、生乾きなのか不明ですが水の嫌な臭いがずっとしていて気持ち悪かったです。カーペットからか?どこからかもイマイチわからず。空気清浄機と消臭スプレーをかけ… つづきはこちら」"}</span>
+                  <span>{"「カーペットからか?どこからかもイマイチわからず。空気清浄機と消臭スプレーをかけ。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -549,7 +549,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「食事は最高だが設備と騒音に難ありレトロな感じの雰囲気好きにはたまらない良い感じのお部屋でした。晩ご飯も伊勢海老、鮑、松阪牛と大満足でした。ただ、朝部屋でシャワーをしようと思ったら、6時までお湯が出… つづきはこちら」"}</span>
+                  <span>{"「食事は最高だが設備と騒音に難ありレトロな感じの雰囲気好きにはたまらない良い感じのお部屋でした。晩ご飯も伊勢海老、鮑、松阪牛と大満足でした。ただ、朝部屋でシャワーをしようと思ったら、6時までお湯が出。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -616,7 +616,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「貸し切り風呂と美味しい食事に大満足宿泊先を決めずに旅行。貸し切り風呂にひかれて急遽予約しました。貸し切り風呂はキレイだし、ウェルカムドリンクや貸し出しゲーム。新聞も見れてよかったです。… つづきはこちら」"}</span>
+                  <span>{"「貸し切り風呂と美味しい食事に大満足宿泊先を決めずに旅行。貸し切り風呂にひかれて急遽予約しました。貸し切り風呂はキレイだし、ウェルカムドリンクや貸し出しゲーム。新聞も見れてよかったです。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -683,7 +683,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「食事内容が期待外れで説明も不十分夕食は伊勢エビ鍋の他ビュッフェになっていたので楽しみにしていましたが、天ぷらも決められた3種類のみ。その他は茶碗蒸し、お新香、ババロアのみで食事処の看板とも内容は異… つづきはこちら」"}</span>
+                  <span>{"「食事内容が期待外れで説明も不十分夕食は伊勢エビ鍋の他ビュッフェになっていたので楽しみにしていましたが、天ぷらも決められた3種類のみ。その他は茶碗蒸し、お新香、ババロアのみで食事処の看板とも内容は異。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">

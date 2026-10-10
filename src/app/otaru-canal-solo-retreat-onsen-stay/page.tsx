@@ -37,8 +37,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-13T00:00:00+09:00',
-    dateModified: '2026-09-13T00:00:00+09:00',
+    datePublished: 'T00:00:00+09:00',
+    dateModified: 'T00:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/otaru-canal-solo-retreat-onsen-stay',
   };
 
@@ -47,7 +47,7 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"小樽駅周辺で天然温泉とサウナ、豪華な朝食がある宿は？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 灯の湯 ドーミーインPREMIUM小樽」は小樽駅の目の前。自家源泉の大浴場とサウナ、朝食の海鮮勝手丼や夜鳴きそばサービスなど一人旅の充実度が抜群です。"}},{"@type":"Question","name":"小樽運河の目の前で最も風情あるおこもり宿は？","acceptedAnswer":{"@type":"Answer","text":"「運河の宿 おたる ふる川」は運河の目の前に建ち、明治の商家をイメージした木造の温もりとステンドグラス、自家源泉の露天風呂が揃う大人の隠れ家宿です。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"小樽駅周辺で天然温泉とサウナ、豪華な朝食がある宿は？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 灯の湯 ドーミーインPREMIUM小樽。」は小樽駅の目の前。自家源泉の大浴場とサウナ、朝食の海鮮勝手丼や夜鳴きそばサービスなど一人旅の充実度が抜群です。"}},{"@type":"Question","name":"小樽運河の目の前で最も風情あるおこもり宿は？","acceptedAnswer":{"@type":"Answer","text":"「運河の宿 おたる ふる川」は運河の目の前に建ち、明治の商家をイメージした木造の温もりとステンドグラス、自家源泉の露天風呂が揃う大人の隠れ家宿です。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -76,7 +76,7 @@ export default function ArticlePage() {
           【小樽運河ひとり旅・レトロ温泉おこもり】ガス灯揺れる石造り倉庫街・自家源泉の湯・極上握り寿司！歴史と硝子の街に癒やされる厳選3宿
         </h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
-          <time dateTime="2026-09-13">2026.09.13 更新</time>
+          <time dateTime="">2026.09.13 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
         </div>
@@ -102,7 +102,7 @@ export default function ArticlePage() {
             <span>📑</span> 本記事でご紹介する厳選ホテル
           </h2>
           <ul className="space-y-2 text-sm text-stone-700">
-            <li><a href="#hotel-1" className="text-amber-800 hover:underline">▶ 1. 天然温泉　灯の湯　ドーミーインＰＲＥＭＩＵＭ小樽（２０２６年８月１日リニューアルオープン）（★4.32 / 最低目安：7,232円〜）</a></li>
+            <li><a href="#hotel-1" className="text-amber-800 hover:underline">▶ 1. 天然温泉　灯の湯　ドーミーインＰＲＥＭＩＵＭ小樽（リニューアルオープン）（★4.32 / 最低目安：7,232円〜）</a></li>
             <li><a href="#hotel-2" className="text-amber-800 hover:underline">▶ 2. 朝里川温泉　小樽朝里クラッセホテル（★4.18 / 最低目安：5,500円〜）</a></li>
             <li><a href="#hotel-3" className="text-amber-800 hover:underline">▶ 3. 運河の宿　おたる　ふる川（★4.76 / 最低目安：12,000円〜）</a></li>
             <li>
@@ -128,7 +128,7 @@ export default function ArticlePage() {
               <span className="text-xs text-stone-500 font-medium">小樽周辺</span>
             </div>
             <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-2">
-              天然温泉　灯の湯　ドーミーインＰＲＥＭＩＵＭ小樽（２０２６年８月１日リニューアルオープン）
+              天然温泉　灯の湯　ドーミーインＰＲＥＭＩＵＭ小樽（リニューアルオープン）
             </h2>
             <div className="flex flex-wrap items-center gap-4 text-sm mb-4">
               <span className="text-amber-600 font-bold flex items-center gap-1 text-base">
@@ -143,7 +143,7 @@ export default function ArticlePage() {
               <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/76876/76876.jpg"
-                  alt="天然温泉　灯の湯　ドーミーインＰＲＥＭＩＵＭ小樽（２０２６年８月１日リニューアルオープン） 外観・館内"
+                  alt="天然温泉　灯の湯　ドーミーインＰＲＥＭＩＵＭ小樽（リニューアルオープン） 外観・館内"
                   className="w-full h-full object-cover"
                   loading="lazy"
                 />
@@ -151,7 +151,7 @@ export default function ArticlePage() {
               <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/76876/76876_kya.jpg"
-                  alt="天然温泉　灯の湯　ドーミーインＰＲＥＭＩＵＭ小樽（２０２６年８月１日リニューアルオープン） 客室・お風呂"
+                  alt="天然温泉　灯の湯　ドーミーインＰＲＥＭＩＵＭ小樽（リニューアルオープン） 客室・お風呂"
                   className="w-full h-full object-cover"
                   loading="lazy"
                 />
@@ -368,7 +368,7 @@ export default function ArticlePage() {
                 <span>小樽駅周辺で天然温泉とサウナ、豪華な朝食がある宿は？</span>
               </h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
-                「天然温泉 灯の湯 ドーミーインPREMIUM小樽」は小樽駅の目の前。自家源泉の大浴場とサウナ、朝食の海鮮勝手丼や夜鳴きそばサービスなど一人旅の充実度が抜群です。
+                「天然温泉 灯の湯 ドーミーインPREMIUM小樽。」は小樽駅の目の前。自家源泉の大浴場とサウナ、朝食の海鮮勝手丼や夜鳴きそばサービスなど一人旅の充実度が抜群です。
               </p>
             </div>
             <div className="bg-white p-4 sm:p-5 rounded-xl border border-stone-200">
@@ -423,9 +423,9 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 小樽駅よりアクセス。ＪＲ小樽駅より徒歩にて1分◆小樽ICより約７分◆小樽運河まで徒歩８分◆寿司屋通まで徒歩１０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「天然温泉 灯の湯 ドーミーインＰＲＥＭＩＵＭ小樽」にチェックイン。☆朝食のおいしいホテルランキング 4年連続受賞☆大正ロマンを奏でるホテル★天然温泉大浴場完備などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「天然温泉 灯の湯 ドーミーインＰＲＥＭＩＵＭ小樽」の湯処へ。☆朝食のおいしいホテルランキング 4年連続受賞☆大正ロマンを奏でるホテとともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「天然温泉 灯の湯 ドーミーインＰＲＥＭＩＵＭ小樽」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「天然温泉 灯の湯 ドーミーインＰＲＥＭＩＵＭ小樽。」にチェックイン。☆朝食のおいしいホテルランキング 4年連続受賞☆大正ロマンを奏でるホテル★天然温泉大浴場完備などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「天然温泉 灯の湯 ドーミーインＰＲＥＭＩＵＭ小樽。」の湯処へ。☆朝食のおいしいホテルランキング 4年連続受賞☆大正ロマンを奏でるホテとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「天然温泉 灯の湯 ドーミーインＰＲＥＭＩＵＭ小樽。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -434,8 +434,8 @@ export default function ArticlePage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「天然温泉 灯の湯 ドーミーインＰＲＥＭＩＵＭ小樽」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「天然温泉 灯の湯 ドーミーインＰＲＥＭＩＵＭ小樽」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「天然温泉 灯の湯 ドーミーインＰＲＥＭＩＵＭ小樽。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「天然温泉 灯の湯 ドーミーインＰＲＥＭＩＵＭ小樽。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「朝里川温泉 小樽朝里クラッセホテル」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>

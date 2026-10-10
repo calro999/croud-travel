@@ -185,7 +185,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.56点、口コミ3800件超。「温泉の広さと種類の多さに圧倒された」「地獄谷を見ながらのお風呂は人生最高の体験」と不動の支持を集めています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.56点、口コミ3800件超。「温泉の広さと種類の多さに圧倒された」「地獄谷を見ながらのお風呂は人生最高の体験。」と不動の支持を集めています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -279,7 +279,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.26点、口コミ3200件超。「鬼サウナが最高すぎてサウナ好きにはたまらない」「ローマ風呂の天井が高く開放的で料理も美味しい」と高評価です。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.26点、口コミ3200件超。「鬼サウナが最高すぎてサウナ好きにはたまらない。」「ローマ風呂の天井が高く開放的で料理も美味しい。」と高評価です。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -373,7 +373,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.30点、口コミ2800件超。「三大蟹の食べ放題が豪華すぎて大満足」「お風呂がとても広く子どもからシニアまで全員楽しめた」と絶賛されています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.30点、口コミ2800件超。「三大蟹の食べ放題が豪華すぎて大満足」「お風呂がとても広く子どもからシニアまで全員楽しめた。」と絶賛されています。</p>
               </div>
 
               {/* 宿基本情報 */}

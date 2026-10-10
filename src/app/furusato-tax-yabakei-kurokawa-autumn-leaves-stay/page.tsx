@@ -47,7 +47,7 @@ export default function FurusatoYabakeiKurokawaAutumnLeavesStayPage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「黒川温泉 旅館 奥の湯」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「黒川温泉 旅館 奥の湯」へは、車 熊本ＩＣより約100分、日田ＩＣより約60分。最寄りの阿蘇駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「黒川温泉 旅館 奥の湯」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「黒川温泉 旅館 奥の湯」は『渓流沿いの混浴露天風呂をはじめ、全9種の湯巡りと3つの無料貸切風呂、温泉熱プールが楽しめる』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「黒川温泉 旅館 奥の湯」と「黒川温泉 旅館 山河」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「黒川温泉 旅館 奥の湯」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「黒川温泉 旅館 奥の湯」へは、車 熊本ＩＣより約100分、日田ＩＣより約60分。最寄りの阿蘇駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「黒川温泉 旅館 奥の湯」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「黒川温泉 旅館 奥の湯」は『渓流沿いの混浴露天風呂をはじめ、全9種の湯巡りと3つの無料貸切風呂、温泉熱プールが楽しめる。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「黒川温泉 旅館 奥の湯」と「黒川温泉 旅館 山河」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       {/* パンくずナビ */}
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
@@ -269,7 +269,7 @@ export default function FurusatoYabakeiKurokawaAutumnLeavesStayPage() {
                   </div>
                   <div className="md:col-span-6 space-y-4">
                     <p className="text-stone-700 text-sm md:text-base leading-relaxed">
-                      黒川温泉の雑木林の奥深くにひっそりと佇む大人の隠れ家旅館。敷地内に「薬師の湯（単純硫黄泉）」と「美肌の湯（ナトリウム-塩化物・炭酸水素塩・硫酸塩泉）」という2つの自家源泉を引いており、渓流沿いの混浴大露天風呂「もやいの湯」や女性専用露天「四季の湯」、複数の貸切風呂で極上の湯巡りが叶います。落ち着きある数寄屋造りの客室と、季節の移ろいを丁寧に映した繊細な山里会席が旅情を深めてくれます。
+                      黒川温泉の雑木林の奥深くにひっそりと佇む大人の隠れ家旅館。敷地内に「薬師の湯（単純硫黄泉）」と「美肌の湯（ナトリウム-塩化物・炭酸水素塩・硫酸塩泉）。」という2つの自家源泉を引いており、渓流沿いの混浴大露天風呂「もやいの湯」や女性専用露天「四季の湯」、複数の貸切風呂で極上の湯巡りが叶います。落ち着きある数寄屋造りの客室と、季節の移ろいを丁寧に映した繊細な山里会席が旅情を深めてくれます。
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
                       <div><strong className="text-stone-800">♨️ 温泉・特徴：</strong> 黒川温泉の下手にある山河旅館。温泉街とはまた違った風情をお楽しみいただけます。</div>
@@ -515,7 +515,7 @@ export default function FurusatoYabakeiKurokawaAutumnLeavesStayPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「黒川温泉 旅館 奥の湯」は『渓流沿いの混浴露天風呂をはじめ、全9種の湯巡りと3つの無料貸切風呂、温泉熱プールが楽しめる』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「黒川温泉 旅館 奥の湯」は『渓流沿いの混浴露天風呂をはじめ、全9種の湯巡りと3つの無料貸切風呂、温泉熱プールが楽しめる。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

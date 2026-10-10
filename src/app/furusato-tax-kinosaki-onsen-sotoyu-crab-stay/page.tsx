@@ -39,8 +39,8 @@ export default function FurusatoArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-10T16:45:00+09:00',
-    dateModified: '2026-09-10T16:45:00+09:00',
+    datePublished: 'T16:45:00+09:00',
+    dateModified: 'T16:45:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-kinosaki-onsen-sotoyu-crab-stay',
   };
 
@@ -49,7 +49,7 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「城崎温泉 西村屋本館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「城崎温泉 西村屋本館」へは、車 北近畿豊岡自動車道 豊岡出石ICより約18分 電車 城崎温泉駅より徒歩15分（旅館組合無料バス有）。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「城崎温泉 西村屋本館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「城崎温泉 西村屋本館」は『◆売切れの日は公式サイトもご確認下さい◆江戸安政期創業、山陰隋一の純日本旅館として皆様をお』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「城崎温泉 西村屋本館」と「城崎温泉 西村屋ホテル招月庭」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「城崎温泉 西村屋本館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「城崎温泉 西村屋本館」へは、車 北近畿豊岡自動車道 豊岡出石ICより約18分 電車 城崎温泉駅より徒歩15分（旅館組合無料バス有）。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「城崎温泉 西村屋本館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「城崎温泉 西村屋本館」は『◆売切れの日は公式サイトもご確認下さい◆江戸安政期創業、山陰隋一の純日本旅館として皆様をお。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「城崎温泉 西村屋本館」と「城崎温泉 西村屋ホテル招月庭」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -90,7 +90,7 @@ export default function FurusatoArticlePage() {
             浴衣に下駄でカランコロン——柳揺れる大谿川と七つの外湯、冬の味覚の王様・松葉ガニに酔いしれる
           </h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
-            兵庫県豊岡市城崎町、日本海へと注ぐ大谿川（おおたにがわ）沿いに広がる城崎（きのさき）温泉。奈良時代の開湯以来千三百年の歴史を誇り、「駅は玄関、道路は廊下、旅館は客室、外湯は大浴場」という共生の理念のもと、温泉街全体が一つの大きな宿として旅人を温かく迎え入れます。柳並木と太鼓橋が織りなす情緒あふれる景観の中、色とりどりの浴衣に下駄を鳴らして「一の湯」「御所の湯」「鴻の湯」など趣の異なる七つの外湯をめぐる時間は、まさに日本の温泉旅の原点です。
+            兵庫県豊岡市城崎町、日本海へと注ぐ大谿川（おおたにがわ）沿いに広がる城崎（きのさき）温泉。奈良時代の開湯以来千三百年の歴史を誇り、「駅は玄関、道路は廊下、旅館は客室、外湯は大浴場。」という共生の理念のもと、温泉街全体が一つの大きな宿として旅人を温かく迎え入れます。柳並木と太鼓橋が織りなす情緒あふれる景観の中、色とりどりの浴衣に下駄を鳴らして「一の湯」「御所の湯」「鴻の湯」など趣の異なる七つの外湯をめぐる時間は、まさに日本の温泉旅の原点です。
           </p>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             城崎温泉の冬の主役といえば、日本海で水揚げされる冬の味覚の王様「松葉ガニ（ズワイガニ）」です。タグ付きの活松葉ガニを贅沢に使った焼きガニ、カニ刺し、カニ鍋、甲羅味噌焼き、そして幻の高級和牛「但馬牛」のステーキやしゃぶしゃぶとの饗宴は至福の極み。兵庫県豊岡市へのふるさと納税を利用すれば、30%相当の楽天トラベルクーポンにより憧れの最高峰老舗旅館へお得に宿泊でき、一生の思い出に残る美食と温泉の旅が叶います。
@@ -203,7 +203,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.77点という圧倒的な名門スコア。「庭園の眺め、建物、接客、そしてカニ料理のすべてが人生最高峰の体験」「一度は泊まるべき日本の宝」と絶賛されています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.77点という圧倒的な名門スコア。「庭園の眺め、建物、接客、そしてカニ料理のすべてが人生最高峰の体験。」「一度は泊まるべき日本の宝」と絶賛されています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -287,7 +287,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.66点、口コミ2100件超。「森林に囲まれたお風呂が最高に気持ちよく、お料理も大満足」「スタッフの親切な対応と清潔感のある館内が素晴らしい」と高い評価を獲得しています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.66点、口コミ2100件超。「森林に囲まれたお風呂が最高に気持ちよく、お料理も大満足。」「スタッフの親切な対応と清潔感のある館内が素晴らしい。」と高い評価を獲得しています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.73点、口コミ800件超。「建物の歴史とモダンな居心地の良さが共存している」「庭園の美しさと静けさ、お料理の美味しさに感動した」とリピーター多数。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.73点、口コミ800件超。「建物の歴史とモダンな居心地の良さが共存している。」「庭園の美しさと静けさ、お料理の美味しさに感動した。」とリピーター多数。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -578,7 +578,7 @@ export default function FurusatoArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「城崎温泉 西村屋本館」は『◆売切れの日は公式サイトもご確認下さい◆江戸安政期創業、山陰隋一の純日本旅館として皆様をお』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「城崎温泉 西村屋本館」は『◆売切れの日は公式サイトもご確認下さい◆江戸安政期創業、山陰隋一の純日本旅館として皆様をお。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

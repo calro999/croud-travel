@@ -44,7 +44,7 @@ export default function FurusatoTaxArticle() {
     <main className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「由布院温泉 旅亭 田乃倉」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「由布院温泉 旅亭 田乃倉」へは、駅よりタクシーで5分 金鱗湖徒歩２分。最寄りの由布院駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「由布院温泉 旅亭 田乃倉」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「由布院温泉 旅亭 田乃倉」は『■料理 温泉 由布院散策 ■お部屋食 ■静かな宿 ■金鱗湖2分 ■おおいた和牛堪能』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「由布院温泉 旅亭 田乃倉」と「由布院温泉 朝霧のみえる宿 ゆふいん花由」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「由布院温泉 旅亭 田乃倉」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「由布院温泉 旅亭 田乃倉」へは、駅よりタクシーで5分 金鱗湖徒歩２分。最寄りの由布院駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「由布院温泉 旅亭 田乃倉」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「由布院温泉 旅亭 田乃倉」は『■料理 温泉 由布院散策 ■お部屋食 ■静かな宿 ■金鱗湖2分 ■おおいた和牛堪能。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「由布院温泉 旅亭 田乃倉」と「由布院温泉 朝霧のみえる宿 ゆふいん花由。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       {/* ヒーローヘッダー */}
       <header className="relative bg-gradient-to-br from-stone-900 via-amber-950 to-stone-900 text-amber-50 py-16 px-4 md:px-8 border-b border-amber-900/50 shadow-2xl">
@@ -185,7 +185,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.79点。「お料理が一品一品本当に美味しくお部屋食でゆっくり堪能できた」「金鱗湖に近く朝の散歩が最高だった」と最高峰の評価を得ています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.79点。「お料理が一品一品本当に美味しくお部屋食でゆっくり堪能できた。」「金鱗湖に近く朝の散歩が最高だった」と最高峰の評価を得ています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -279,7 +279,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.70点。「部屋の露天風呂から見る由布岳の朝霧が息をのむ美しさだった」「スタッフの接客も温かく記念日に最高の滞在になった」と絶賛されています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.70点。「部屋の露天風呂から見る由布岳の朝霧が息をのむ美しさだった。」「スタッフの接客も温かく記念日に最高の滞在になった。」と絶賛されています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -373,7 +373,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価3.88点。「吊り橋を渡る演出とお部屋の露天風呂の雰囲気が最高」「静かな自然に囲まれてゆっくり休めた」とプライベート感を求める旅行者に愛されています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価3.88点。「吊り橋を渡る演出とお部屋の露天風呂の雰囲気が最高。」「静かな自然に囲まれてゆっくり休めた」とプライベート感を求める旅行者に愛されています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -433,7 +433,7 @@ export default function FurusatoTaxArticle() {
               <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
                 <span className="text-amber-600">◆</span> COMICO ART MUSEUM YUFUINと名建築・アート巡り
               </h3>
-              <p className="text-stone-700 text-sm leading-relaxed">建築家・隈研吾氏が設計を手掛け、草間彌生氏や村上隆氏らの現代アートを展示する「COMICO ART MUSEUM YUFUIN」。由布岳を借景にした美しい美術館で知的な時間を過ごせます。</p>
+              <p className="text-stone-700 text-sm leading-relaxed">建築家・隈研吾氏が設計を手掛け、草間彌生氏や村上隆氏らの現代アートを展示する「COMICO ART MUSEUM YUFUIN。」。由布岳を借景にした美しい美術館で知的な時間を過ごせます。</p>
             </div>
           </div>
         </section>
@@ -543,7 +543,7 @@ export default function FurusatoTaxArticle() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「由布院温泉 旅亭 田乃倉」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「由布院温泉 旅亭 田乃倉」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「由布院温泉 朝霧のみえる宿 ゆふいん花由」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「由布院温泉 朝霧のみえる宿 ゆふいん花由。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -573,7 +573,7 @@ export default function FurusatoTaxArticle() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「由布院温泉 旅亭 田乃倉」は『■料理 温泉 由布院散策 ■お部屋食 ■静かな宿 ■金鱗湖2分 ■おおいた和牛堪能』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「由布院温泉 旅亭 田乃倉」は『■料理 温泉 由布院散策 ■お部屋食 ■静かな宿 ■金鱗湖2分 ■おおいた和牛堪能。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -582,7 +582,7 @@ export default function FurusatoTaxArticle() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「由布院温泉 旅亭 田乃倉」と「由布院温泉 朝霧のみえる宿 ゆふいん花由」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「由布院温泉 旅亭 田乃倉」と「由布院温泉 朝霧のみえる宿 ゆふいん花由。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

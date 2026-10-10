@@ -48,8 +48,8 @@ export default function YuzawaWinterPage() {
         "headline": "【11・12月越後湯沢温泉の雪国情緒と地酒巡り】川端康成ゆかりの名湯・南魚沼産コシヒカリ新米と越後もち豚会席の宿5選",
         "description": "東京から新幹線で最速約70分、川端康成の小説『雪国』の舞台として名高い新潟・越後湯沢温泉。11月の収穫期を祝う日本一の南魚沼産コシヒカリ新米と新酒の季節、12月に入ると始まる息をのむ白銀の雪国世界。越後地酒の利き酒や名物日本酒風呂、越後もち豚しゃぶしゃぶに舌鼓を打つ極上の初冬温泉旅ガイド。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
-        "datePublished": "2026-09-27T00:00:00+09:00",
-        "dateModified": "2026-09-27T00:00:00+09:00",
+        "datePublished": "T00:00:00+09:00",
+        "dateModified": "T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
@@ -271,7 +271,7 @@ export default function YuzawaWinterPage() {
             川端康成ゆかりの名湯・南魚沼産コシヒカリ新米と越後もち豚会席の宿5選
           </h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
-            「国境の長いトンネルを抜けると雪国であった」。東京から新幹線で最速約70分。谷川連峰を越えた先に広がる純白の白銀世界。日本一の南魚沼産コシヒカリ新米の甘み、ぽんしゅ館の地酒呑み比べ、柔らかな湯が芯まで温める至福の冬旅へ。
+            「国境の長いトンネルを抜けると雪国であった。」。東京から新幹線で最速約70分。谷川連峰を越えた先に広がる純白の白銀世界。日本一の南魚沼産コシヒカリ新米の甘み、ぽんしゅ館の地酒呑み比べ、柔らかな湯が芯まで温める至福の冬旅へ。
           </p>
           <div className="mt-8 flex items-center justify-center gap-4 text-xs text-stone-300">
             <span className="flex items-center gap-1.5"><Calendar className="w-4 h-4 text-indigo-400" /> 取材・更新: 2026年9月最新</span>

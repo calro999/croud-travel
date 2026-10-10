@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/couples-anniversary-private-villa-hanare"
   };
 
@@ -83,11 +83,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/72871/72871map.gif",
     "reviewCount": 264,
     "reviewAverage": 4.76,
-    "userReview": "また行きたい!誕生日旅行で利用させて頂きました。車を駐車するとすぐお迎えが来てそこから中の案内と客室の説明を丁寧にして頂けました。部屋もとても過ごしやすくとてもリラックスして過ごすことが出…　2026-08-25 02:04:09投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=72871\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "また行きたい!誕生日旅行で利用させて頂きました。車を駐車するとすぐお迎えが来てそこから中の案内と客室の説明を丁寧にして頂けました。部屋もとても過ごしやすくとてもリラックスして過ごすことが出。",
     "hotelMinCharge": 33000,
     "address1": "大分県",
     "address2": "由布市湯布院町川上302-7",
-    "telephoneNo": "0977-28-8815",
+    "telephoneNo": "15",
     "access": "車/湯布院ICから県道216号。湯布院幹部交番を左折（7分）電車/JR由布院駅下車、車で約5分（2.5km）",
     "parkingInformation": "無料で15台停められます。予約は不要です。",
     "nearestStation": "由布院",
@@ -108,11 +108,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76377/76377map.gif",
     "reviewCount": 1095,
     "reviewAverage": 4.7,
-    "userReview": "高速道路から近く眺望も抜群、食事も大満足高速道路降りて直ぐの場所で便利なうえ、湯布岳の眺望も抜群でした。お部屋は広く離れのためとても静かでとてもくつろげました。食事も創作料理で美味しく大満…　2026-09-05 21:16:45投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=76377\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "高速道路から近く眺望も抜群、食事も大満足高速道路降りて直ぐの場所で便利なうえ、湯布岳の眺望も抜群でした。お部屋は広く離れのためとても静かでとてもくつろげました。食事も創作料理で美味しく大満。",
     "hotelMinCharge": 25520,
     "address1": "大分県",
     "address2": "由布市湯布院町川北913-11",
-    "telephoneNo": "0977-85-5000",
+    "telephoneNo": "00",
     "access": "■湯布院ＩＣから車1分■由布院駅から車で７分程でございます。■無料送迎もございます（電話にて要予約）",
     "parkingInformation": "■20台程停められる広めの無料駐車場があり、予約は不要です。【フロント・ロビー/Wi-Fi完備】",
     "nearestStation": "由布院",
@@ -137,7 +137,7 @@ export default function Page() {
     "hotelMinCharge": 10500,
     "address1": "大分県",
     "address2": "由布市湯布院町川上2868-5",
-    "telephoneNo": "0977-28-2700",
+    "telephoneNo": "00",
     "access": "ＪＲ　由布院駅より徒歩にて約5分",
     "parkingInformation": "有り　9台　無料",
     "nearestStation": "由布院",

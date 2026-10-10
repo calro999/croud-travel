@@ -236,7 +236,7 @@ export default function Page() {
             {secData['koshien_hanshin_modernism_stay']?.label || '甲子園ホテル・阪神間モダニズムの系譜'}
           </h2>
           <p className="text-stone-700 leading-relaxed mb-8 text-base md:text-lg">
-            フランク・ロイド・ライトの愛弟子・遠藤新が設計した「甲子園ホテル（現・武庫川女子大学甲子園会館）」で知られる西宮・阪神間。ライト式スクラッチタイルや幾何学装飾の息吹を感じながら、洗練された都市リゾートホテルで優雅な滞在が叶います。
+            フランク・ロイド・ライトの愛弟子・遠藤新が設計した「甲子園ホテル（現・武庫川女子大学甲子園会館）。」で知られる西宮・阪神間。ライト式スクラッチタイルや幾何学装飾の息吹を感じながら、洗練された都市リゾートホテルで優雅な滞在が叶います。
           </p>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">

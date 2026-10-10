@@ -36,7 +36,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13913/13913map.gif",
     "reviewCount": 1078,
     "reviewAverage": 4.7,
-    "userReview": "天気が曇りで富士山は見えなかったがそれでも部屋からの景色は最高でした、ご飯も非常に美味しかったです、また行きたいと思える良いホテルですクチコミの詳細はこちらから　https://review.tr…　 ",
+    "userReview": "天気が曇りで富士山は見えなかったがそれでも部屋からの景色は最高でした、ご飯も非常に美味しかったです、また行きたいと思える良いホテルです。",
     "hotelMinCharge": 8100,
     "address1": "静岡県",
     "address2": "静岡市清水区馬走1500-2",
@@ -66,7 +66,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4629/4629map.gif",
     "reviewCount": 1138,
     "reviewAverage": 4.43,
-    "userReview": "観光の拠点に最適、清潔で便利な立地駅に近く市街地の中心部にあるので、観光の拠点として便利。施設も清潔感があり、コンビニも近い。また、機会があったら利用したい。クチコミの詳細はこちらから…　 ",
+    "userReview": "観光の拠点に最適、清潔で便利な立地駅に近く市街地の中心部にあるので、観光の拠点として便利。施設も清潔感があり、コンビニも近い。また、機会があったら利用したい。",
     "hotelMinCharge": 4400,
     "address1": "長崎県",
     "address2": "長崎市大黒町14-5",
@@ -96,7 +96,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8978/8978map.gif",
     "reviewCount": 7239,
     "reviewAverage": 4.51,
-    "userReview": "朝食ビュッフェが豪華で部屋も快適朝食ビュッフェは豪華で品数も多く、ゆっくりと美味しくいただきました。満足です。部屋も4人で宿泊したので少し狭かったけど、クーラーもよく効いて過ごしやすかったです…　 ",
+    "userReview": "朝食ビュッフェが豪華で部屋も快適朝食ビュッフェは豪華で品数も多く、ゆっくりと美味しくいただきました。満足です。部屋も4人で宿泊したので少し狭かったけど、クーラーもよく効いて過ごしやすかったです。",
     "hotelMinCharge": 6250,
     "address1": "兵庫県",
     "address2": "神戸市中央区波止場町5-6  【ホテルコード10】0570-051-153",
@@ -182,7 +182,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「日本平ホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「日本平ホテル」へは、ＪＲ静岡駅よりバス４０分・タクシー25分（駅からシャトルバス有り）／静岡・清水ＩＣより車で25分。最寄りの静岡駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「日本平ホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「日本平ホテル」は『日本平が日本夜景遺産に認定★三保の松原を眼下に富士山を望む絶景を堪能』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「日本平ホテル」と「ホテルニュー長崎」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「日本平ホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「日本平ホテル」へは、ＪＲ静岡駅よりバス４０分・タクシー25分（駅からシャトルバス有り）／静岡・清水ＩＣより車で25分。最寄りの静岡駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「日本平ホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「日本平ホテル」は『日本平が日本夜景遺産に認定★三保の松原を眼下に富士山を望む絶景を堪能。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「日本平ホテル」と「ホテルニュー長崎」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         
         {/* 特集の魅力セクション */}
@@ -488,7 +488,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「日本平ホテル」は『日本平が日本夜景遺産に認定★三保の松原を眼下に富士山を望む絶景を堪能』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「日本平ホテル」は『日本平が日本夜景遺産に認定★三保の松原を眼下に富士山を望む絶景を堪能。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

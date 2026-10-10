@@ -35,11 +35,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50619/50619map.gif",
     "reviewCount": 387,
     "reviewAverage": 4.56,
-    "userReview": "静かで落ち着いた環境がとても良い静かでたいへんよい。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/50619?…",
+    "userReview": "静かで落ち着いた環境がとても良い静かでたいへんよい。",
     "hotelMinCharge": 11781,
     "address1": "長野県",
     "address2": "北佐久郡軽井沢町軽井沢1323-980",
-    "telephoneNo": "0267-42-7711",
+    "telephoneNo": "11",
     "access": "鉄道：軽井沢駅北口タクシー約3分、徒歩約１２分。車：東京方面、碓氷軽井沢ＩＣ約２０分。長野・愛知方面、小諸ＩＣ約３０分",
     "parkingInformation": "有り無料40台　予約不要（先着順）チェックイン前・チェックアウト後の無料利用可。",
     "nearestStation": "軽井沢",
@@ -69,7 +69,7 @@ export default function Page() {
     "hotelMinCharge": 15000,
     "address1": "神奈川県",
     "address2": "足柄下郡箱根町元箱根139",
-    "telephoneNo": "0460-83-1121",
+    "telephoneNo": "21",
     "access": "ＪＲ東海道線小田原駅より無料送迎バス(予約制)にて40分、小田急箱根湯本駅よりタクシーで30分",
     "parkingInformation": "38台（ご宿泊者および日帰りご利用客専用）、無料",
     "nearestStation": "箱根湯本",
@@ -95,7 +95,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67097/67097map.gif",
     "reviewCount": 699,
     "reviewAverage": 4.43,
-    "userReview": "館内で食べた赤ラーメンが美味しかったお陰様でまったりのほほんと過ごす事が出来ました。夕食をつけないプランにしたので、食事どうしようかな～と考えながら館内のご案内を見ていたらホテル内にある『花わ…",
+    "userReview": "館内で食べた赤ラーメンが美味しかったお陰様でまったりのほほんと過ごす事が出来ました。夕食をつけないプランにしたので、食事どうしようかな～と考えながら館内のご案内を見ていたらホテル内にある『花わ。",
     "hotelMinCharge": 11000,
     "address1": "静岡県",
     "address2": "伊豆の国市長岡431-1",
@@ -181,7 +181,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「旧軽井沢 ホテル音羽ノ森」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「旧軽井沢 ホテル音羽ノ森」へは、鉄道：軽井沢駅北口タクシー約3分、徒歩約１２分。最寄りの軽井沢駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「旧軽井沢 ホテル音羽ノ森」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「旧軽井沢 ホテル音羽ノ森」は『軽井沢駅・旧軽井沢銀座まで徒歩約13分。自然豊かな旧軽井沢の景観と伝統を兼ね備えた隠れ家ホ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「旧軽井沢 ホテル音羽ノ森」と「龍宮殿」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「旧軽井沢 ホテル音羽ノ森」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「旧軽井沢 ホテル音羽ノ森」へは、鉄道：軽井沢駅北口タクシー約3分、徒歩約１２分。最寄りの軽井沢駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「旧軽井沢 ホテル音羽ノ森」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「旧軽井沢 ホテル音羽ノ森」は『軽井沢駅・旧軽井沢銀座まで徒歩約13分。自然豊かな旧軽井沢の景観と伝統を兼ね備えた隠れ家ホ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「旧軽井沢 ホテル音羽ノ森」と「龍宮殿」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* リードセクション */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-4">
@@ -510,7 +510,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「旧軽井沢 ホテル音羽ノ森」は『軽井沢駅・旧軽井沢銀座まで徒歩約13分。自然豊かな旧軽井沢の景観と伝統を兼ね備えた隠れ家ホ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「旧軽井沢 ホテル音羽ノ森」は『軽井沢駅・旧軽井沢銀座まで徒歩約13分。自然豊かな旧軽井沢の景観と伝統を兼ね備えた隠れ家ホ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

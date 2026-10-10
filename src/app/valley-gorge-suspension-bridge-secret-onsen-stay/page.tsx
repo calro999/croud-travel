@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/valley-gorge-suspension-bridge-secret-onsen-stay"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D173176%26f_flg%3DPLAN",
     "hotelMinCharge": 30000,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/173176/173176.jpg",
-    "userReview": "温泉好き必見、貸切状態でゆったり満喫温泉好きなら、一度は行っておきたい旅館我が家は善光寺など長野周辺の観光とセットにしました大きい建物で満室でしたが、客室が少なくほとんど他のお客さんと顔会…　2026-08-15 09:49:38投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=173176\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "温泉好き必見、貸切状態でゆったり満喫温泉好きなら、一度は行っておきたい旅館我が家は善光寺など長野周辺の観光とセットにしました大きい建物で満室でしたが、客室が少なくほとんど他のお客さんと顔会。",
     "reviewAverage": 4.6,
     "reviewCount": 54,
     "address": "長野県上高井郡高山村山田温泉3604",
@@ -90,11 +90,11 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D28021%26f_flg%3DPLAN",
     "hotelMinCharge": 21700,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28021/28021.jpg",
-    "userReview": "信州の懐かしい味と露天風呂で良い思い出にお食事が、丁寧で、美味しい。信州の名産をいただきました。私が北信出身で、成人した子達とトレッキング目的で宿泊しました。朝食のシソジュース、たけのこ汁、夕食の…　2026-09-05 14:49:09投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=28021\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "信州の懐かしい味と露天風呂で良い思い出にお食事が、丁寧で、美味しい。信州の名産をいただきました。私が北信出身で、成人した子達とトレッキング目的で宿泊しました。朝食のシソジュース、たけのこ汁、夕食の。",
     "reviewAverage": 4.8,
     "reviewCount": 182,
-    "address": "長野県下高井郡山ノ内町大字平穏7148 　※カーナビは【電話0269-34-2207】でご設定ください",
-    "access": "信州中野ICお車30分　ナビは0269-34-2207でご設定下さい/JR長野駅バス70分志賀高原山の駅下車、送迎有り",
+    "address": "長野県下高井郡山ノ内町大字平穏7148 　※カーナビは【電話07】でご設定ください",
+    "access": "信州中野ICお車30分　ナビは07でご設定下さい/JR長野駅バス70分志賀高原山の駅下車、送迎有り",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28021%2F28021.html"
   },
   {
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D188070%26f_flg%3DPLAN",
     "hotelMinCharge": 13700,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/188070/188070.jpg",
-    "userReview": "子供への細やかな配慮と対応に大満足家族あげての旅行で利用しました。 露天風呂は小さな子たちはお風呂のおもちゃで思う存分遊べて良かったです。あげく、お風呂におもちゃを忘れて連絡までいただき助かり…　2026-09-18 21:57:47投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=188070\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "子供への細やかな配慮と対応に大満足家族あげての旅行で利用しました。露天風呂は小さな子たちはお風呂のおもちゃで思う存分遊べて良かったです。あげく、お風呂におもちゃを忘れて連絡までいただき助かり。",
     "reviewAverage": 4.33,
     "reviewCount": 188,
     "address": "栃木県那須塩原市塩原1330",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D9340%26f_flg%3DPLAN",
     "hotelMinCharge": 8800,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9340/9340.jpg",
-    "userReview": "露天風呂三昧と美味しい食事でゆったり満喫1人で露天風呂付きのお風呂に2泊宿泊させていただきました。部屋の露天風呂に入ったり、貸切露天風呂に入ったり、またまた大浴場に行ったりとゆったりと過ご…　2026-09-15 23:41:28投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=9340\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "露天風呂三昧と美味しい食事でゆったり満喫1人で露天風呂付きのお風呂に2泊宿泊させていただきました。部屋の露天風呂に入ったり、貸切露天風呂に入ったり、またまた大浴場に行ったりとゆったりと過ご。",
     "reviewAverage": 4.05,
     "reviewCount": 797,
     "address": "群馬県利根郡みなかみ町藤原4957-1",
@@ -365,7 +365,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「松川渓谷に佇む宿 信州山田温泉 山田館」は『全室渓谷ビュー。松川渓谷が織り成す絶景、心づくしのお料理と山田の湯で五感を潤すご滞在を叶え』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「松川渓谷に佇む宿 信州山田温泉 山田館」は『全室渓谷ビュー。松川渓谷が織り成す絶景、心づくしのお料理と山田の湯で五感を潤すご滞在を叶え。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

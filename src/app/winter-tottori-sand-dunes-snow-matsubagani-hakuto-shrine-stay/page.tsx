@@ -58,8 +58,8 @@ export default function TottoriSandDunesPage() {
     headline: '【冬の鳥取砂丘＆白兎神社初詣】雪砂丘と神秘の風紋！因幡の白兎縁結び＆本場松葉ガニ・鳥取温泉を味わい尽くす厳選宿5選',
     description: '冬の日本海からの寒風が織りなす奇跡の絶景「雪の鳥取砂丘」と神秘の風紋。日本神話『因幡の白兎』ゆかりの「白兎神社」新春縁結び初詣、冬の味覚の王様・11月解禁の本場「松葉ガニ」フルコースと鳥取和牛。開湯120年の鳥取温泉自家源泉掛け流し宿など、冬の山陰を満喫する厳選ホテル5選。',
     image: 'https://img.travel.rakuten.co.jp/share/HOTEL/14072/14072.jpg',
-    datePublished: '2026-10-06T00:00:00+09:00',
-    dateModified: '2026-10-06T00:00:00+09:00',
+    datePublished: 'T00:00:00+09:00',
+    dateModified: 'T00:00:00+09:00',
     author: {
       '@type': 'Organization',
       name: 'トラベルマップ編集部',

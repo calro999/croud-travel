@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/firefly-viewing-summer-stream-night-walk-stay"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D129598%26f_flg%3DPLAN",
     "hotelMinCharge": 7150,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/129598/129598.jpg",
-    "userReview": "山間の静かな環境でリフレッシュ、食事も満足山間の静かな環境で、しっかりリフレッシュできました。夕食も美味しくいただき、満足でした。クチコミの詳細はこちらから　https://review.tr…　2026-07-21 08:50:05投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=129598\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "山間の静かな環境でリフレッシュ、食事も満足山間の静かな環境で、しっかりリフレッシュできました。夕食も美味しくいただき、満足でした。",
     "reviewAverage": 4.5,
     "reviewCount": 124,
     "address": "大分県由布市湯布院町湯平503-18",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D31938%26f_flg%3DPLAN",
     "hotelMinCharge": 6435,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31938/31938.jpg",
-    "userReview": "食事は満足だが部屋が寒く設備も古めお食事は朝食も夕飯も良かったです。部屋が寒かったですね。夏なのに...設備は、昭和感が否めません。しかしながら、お値段を考えれば...クチコミの詳…　2026-09-19 07:05:25投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=31938\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "食事は満足だが部屋が寒く設備も古めお食事は朝食も夕飯も良かったです。部屋が寒かったですね。夏なのに...設備は、昭和感が否めません。しかしながら、お値段を考えれば...クチコミの詳。",
     "reviewAverage": 4.38,
     "reviewCount": 1432,
     "address": "山形県最上郡最上町大堀987",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D5191%26f_flg%3DPLAN",
     "hotelMinCharge": 6900,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5191/5191.jpg",
-    "userReview": "柔軟な対応とボリュームある食事に満足チェックイン時間が早くなったにもかかわらず、いやな顔一つせずに対応していただけました。部屋、設備、お風呂など特に華美な感じはありませんでしたが、値段相応以上に気…　2026-09-13 22:55:12投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=5191\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "柔軟な対応とボリュームある食事に満足チェックイン時間が早くなったにもかかわらず、いやな顔一つせずに対応していただけました。部屋、設備、お風呂など特に華美な感じはありませんでしたが、値段相応以上に気。",
     "reviewAverage": 4.35,
     "reviewCount": 520,
     "address": "長野県松本市里山辺484-1",

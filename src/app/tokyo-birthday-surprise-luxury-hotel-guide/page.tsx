@@ -173,7 +173,7 @@ export default function TokyoBirthdaySurpriseHotelPage() {
       <main className="max-w-4xl mx-auto px-4 py-10 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「夜景ビュー・ホールケーキ＆バルーン装飾確約プラン」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「夜景ビュー・ホールケーキ＆バルーン装飾確約プラン。」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
       />
         {/* サプライズ演出のスタイル選び */}
         <section className="bg-white rounded-3xl p-6 md:p-8 shadow-sm border border-amber-200/80 space-y-6">
@@ -391,7 +391,7 @@ export default function TokyoBirthdaySurpriseHotelPage() {
             <div className="bg-white/5 border border-white/10 rounded-2xl p-5 space-y-2">
               <span className="text-amber-400 font-bold text-sm block">1. 高層階・方角（夜景）の希望</span>
               <p className="text-stone-300 leading-relaxed text-xs">
-                予約時の備考欄に「彼女の誕生日記念です。可能であれば高層階、または夜景の綺麗な東京タワー側/ベイブリッジ側を希望します」と一言添えるだけで、空室状況に応じて配慮してもらえる確率が高まります。
+                予約時の備考欄に「彼女の誕生日記念です。可能であれば高層階、または夜景の綺麗な東京タワー側/ベイブリッジ側を希望します。」と一言添えるだけで、空室状況に応じて配慮してもらえる確率が高まります。
               </p>
             </div>
             <div className="bg-white/5 border border-white/10 rounded-2xl p-5 space-y-2">
@@ -427,7 +427,7 @@ export default function TokyoBirthdaySurpriseHotelPage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「夜景ビュー・ホールケーキ＆バルーン装飾確約プラン」を効率よく巡るコツは？</span>
+                <span>Q. 「夜景ビュー・ホールケーキ＆バルーン装飾確約プラン。」を効率よく巡るコツは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">

@@ -39,8 +39,8 @@ export default function Page() {
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Sumiyoshi-taisha%2C_keidai-2.jpg/1280px-Sumiyoshi-taisha%2C_keidai-2.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
         "https://img.travel.rakuten.co.jp/share/HOTEL/144947/144947.jpg"
       ],
-      "datePublished": "2026-10-08",
-      "dateModified": "2026-10-08",
+      "datePublished": "",
+      "dateModified": "",
       "author": {
         "@type": "Organization",
         "name": "Japan Travel Curations"
@@ -232,7 +232,7 @@ export default function Page() {
               <span>冬の住吉・堺・天王寺探訪：静寂と温もりに包まれる旅の魅力</span>
             </div>
             <p className="text-xs sm:text-sm text-stone-700 leading-relaxed">
-              商都・大阪の活気と、古代からの神話・歴史が息づく大阪南部・堺エリア。年の初めに200万人を超える初詣客で賑わうのが、全国に約2,300社ある住吉神社の総本宮「摂津国一之宮 住吉大社」です。神功皇后の御代に創建されたと伝わる境内には、海上の守護神・和歌の神・農耕の神として祀られる四棟の国宝本殿が鎮座。日本最古の神社建築様式のひとつ「住吉造」の荘厳な姿を今に伝えます。参道で圧倒的な存在感を放つのが、最大傾斜約48度を誇る象徴的な「反橋（太鼓橋）」。冬の澄んだ水面に朱塗りの橋が鏡のように映り込む景観は息を呑む美しさで、「渡るだけで心身の罪や穢れが祓い清められる」という信仰から、新春の開運を願う参拝者が列をなします。そして住吉大社から紀州街道を下れば、千利休が生まれ茶の湯文化が大成した自由都市・堺。冬の大阪の味覚の頂点に君臨するのが、明治初期から合鴨の改良を重ねて生み出された極上のブランド鴨肉「河内鴨（かわちがも）」。ストレスのない環境で長期飼育された河内鴨は、臭みが一切なく、赤身の芳醇な旨味と口の中で甘く溶ける上質な脂が特徴。特製出汁と冬の極太根深ねぎで煮込む「河内鴨すき鍋」や鴨南蛮は、一度味わえば忘れられない冬の至福の滋味です。世界遺産・百舌鳥古墳群の壮大な歴史、大阪平野を見渡す高層ホテルの夜景とともに、味わい深い大阪の冬旅へご案内します。
+              商都・大阪の活気と、古代からの神話・歴史が息づく大阪南部・堺エリア。年の初めに200万人を超える初詣客で賑わうのが、全国に約2,300社ある住吉神社の総本宮「摂津国一之宮 住吉大社」です。神功皇后の御代に創建されたと伝わる境内には、海上の守護神・和歌の神・農耕の神として祀られる四棟の国宝本殿が鎮座。日本最古の神社建築様式のひとつ「住吉造」の荘厳な姿を今に伝えます。参道で圧倒的な存在感を放つのが、最大傾斜約48度を誇る象徴的な「反橋（太鼓橋）」。冬の澄んだ水面に朱塗りの橋が鏡のように映り込む景観は息を呑む美しさで、「渡るだけで心身の罪や穢れが祓い清められる。」という信仰から、新春の開運を願う参拝者が列をなします。そして住吉大社から紀州街道を下れば、千利休が生まれ茶の湯文化が大成した自由都市・堺。冬の大阪の味覚の頂点に君臨するのが、明治初期から合鴨の改良を重ねて生み出された極上のブランド鴨肉「河内鴨（かわちがも）」。ストレスのない環境で長期飼育された河内鴨は、臭みが一切なく、赤身の芳醇な旨味と口の中で甘く溶ける上質な脂が特徴。特製出汁と冬の極太根深ねぎで煮込む「河内鴨すき鍋」や鴨南蛮は、一度味わえば忘れられない冬の至福の滋味です。世界遺産・百舌鳥古墳群の壮大な歴史、大阪平野を見渡す高層ホテルの夜景とともに、味わい深い大阪の冬旅へご案内します。
             </p>
           </div>
         </section>
@@ -415,7 +415,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「ラウンジの食事と夜景に感動、次は連泊したいクラブフロアのラウンジがとても良かったです。カクテルタイムのラウンジはおつまみ程度を想像していたのですが、しっかりとしたお料理が並んでいて、美味しかったで… つづきはこちら」"}</span>
+                  <span>{"「ラウンジの食事と夜景に感動、次は連泊したいクラブフロアのラウンジがとても良かったです。カクテルタイムのラウンジはおつまみ程度を想像していたのですが、しっかりとしたお料理が並んでいて、美味しかったで。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -482,7 +482,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「部屋の選定ミス、浴室の配慮が足りない毎年、連泊で利用してますが、部屋の選定を間違えました。浴室の気配りが無い。来年はこの部屋は利用しません。クチコミの詳細はこちらから https://… つづきはこちら」"}</span>
+                  <span>{"「部屋の選定ミス、浴室の配慮が足りない毎年、連泊で利用してますが、部屋の選定を間違えました。浴室の気配りが無い。来年はこの部屋は利用しません。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -549,7 +549,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「交通の便が良く、四川料理とワインに大満足交通の便が良い。夕食の四川料理に満足しました。ワインも料理に合わせて選んで下さいました。是非、又宿泊したいホテル。クチコミの詳細はこちらから https… つづきはこちら」"}</span>
+                  <span>{"「交通の便が良く、四川料理とワインに大満足交通の便が良い。夕食の四川料理に満足しました。ワインも料理に合わせて選んで下さいました。是非、又宿泊したいホテル。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -616,7 +616,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「リピです。周辺環境が便利で清掃も行き届いた快適な部屋駅、飲食店、スーパー、コンビニが5分圏内で全てあり便利です。お風呂はUBなので評価はしてませんが、お部屋全てに清掃が行き届いています。アメニティ… つづきはこちら」"}</span>
+                  <span>{"「リピです。周辺環境が便利で清掃も行き届いた快適な部屋駅、飲食店、スーパー、コンビニが5分圏内で全てあり便利です。お風呂はUBなので評価はしてませんが、お部屋全てに清掃が行き届いています。アメニティ。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -683,7 +683,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「駅近で大阪周辺への移動が非常に便利駅から近く大阪周辺地域への移動がとても便利でした。クチコミの詳細はこちらから https://review.travel.rakuten.co.jp/hote… つづきはこちら」"}</span>
+                  <span>{"「駅近で大阪周辺への移動が非常に便利駅から近く大阪周辺地域への移動がとても便利でした。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">

@@ -37,8 +37,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-16T00:00:00+09:00',
-    dateModified: '2026-09-16T00:00:00+09:00',
+    datePublished: 'T00:00:00+09:00',
+    dateModified: 'T00:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/kanagawa-yugawara-solo-retreat-onsen-stay',
   };
 
@@ -79,7 +79,7 @@ export default function ArticlePage() {
             【湯河原温泉ひとり旅・万葉集ゆかり名湯おこもり】相模湾一望・自家源泉かけ流し・伊豆の旬懐石！都心60分の文豪リトリート厳選3宿
           </h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
-            更新日：2026年9月16日 | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
+            更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -287,7 +287,7 @@ export default function ArticlePage() {
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">万葉公園「湯河原惣湯 Books and Retreat」で森林読書</h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">万葉公園「湯河原惣湯 Books and Retreat。」で森林読書</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">渓流沿いの自然林に溶け込むブックカフェ＆日帰り温泉。テラス席でせせらぎを聞きながらコーヒーと本に没頭する時間は、一人旅最高の至福です。</p>
             </div>
             <div className="space-y-2">

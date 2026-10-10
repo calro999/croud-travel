@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/organic-farm-stay-vegetable-gastronomy-resort"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D38542%26f_flg%3DPLAN",
     "hotelMinCharge": 14100,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38542/38542.jpg",
-    "userReview": "本当に全てのサービスが星5つ!!家族4人2泊3日でお世話になりました。館内・お部屋共に清潔に保たれており、床材がとても素敵でした。お風呂は家族風呂が無料で入ることができ、朝・夜とも入らせて…　2026-08-23 12:23:31投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=38542\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "本当に全てのサービスが星5つ!家族4人2泊3日でお世話になりました。館内・お部屋共に清潔に保たれており、床材がとても素敵でした。お風呂は家族風呂が無料で入ることができ、朝・夜とも入らせて。",
     "reviewAverage": 4.54,
     "reviewCount": 195,
     "address": "熊本県阿蘇市内牧1354",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D108608%26f_flg%3DPLAN",
     "hotelMinCharge": 6600,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108608/108608.jpg",
-    "userReview": "温泉と食事が満足、立地も良い宿一泊二食のプランで利用しました。それでこのお値段はお安いと思います。小さめですが、内湯も温泉で24h入れますし。夕食も朝食もお腹いっぱいです。夕食時は、おしな…　2026-06-21 16:43:40投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=108608\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "温泉と食事が満足、立地も良い宿一泊二食のプランで利用しました。それでこのお値段はお安いと思います。小さめですが、内湯も温泉で24h入れますし。夕食も朝食もお腹いっぱいです。夕食時は、おしな。",
     "reviewAverage": 4.67,
     "reviewCount": 65,
     "address": "福井県坂井市三国町宿3-7-25",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D128473%26f_flg%3DPLAN",
     "hotelMinCharge": 5750,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/128473/128473.jpg",
-    "userReview": "源泉掛け流しの湯と親切な接客に大満足素泊りで宿泊しました。まずは源泉掛け流しの湯が良いですね。貸切風呂の利用もできて大満足。ご家族経営かと思いますが、皆さんとても親切で接客も素晴らしい。次回は食事…　2026-09-10 01:46:02投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=128473\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "源泉掛け流しの湯と親切な接客に大満足素泊りで宿泊しました。まずは源泉掛け流しの湯が良いですね。貸切風呂の利用もできて大満足。ご家族経営かと思いますが、皆さんとても親切で接客も素晴らしい。次回は食事。",
     "reviewAverage": 4.7,
     "reviewCount": 91,
     "address": "山形県最上郡最上町大堀990",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D149096%26f_flg%3DPLAN",
     "hotelMinCharge": 7850,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/149096/149096.jpg",
-    "userReview": "お湯は最高、夕食はボリューム満点お湯はとても良い。夕飯の量が多すぎて食べきれない。仙台牛も美味しかった。クチコミの詳細はこちらから　https://review.travel.rakuten.…　2026-09-06 17:03:12投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=149096\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "お湯は最高、夕食はボリューム満点お湯はとても良い。夕飯の量が多すぎて食べきれない。仙台牛も美味しかった。",
     "reviewAverage": 4.66,
     "reviewCount": 183,
     "address": "宮城県大崎市鳴子温泉川渡24-9",
@@ -365,7 +365,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「阿蘇内牧温泉 御料理旅館 親和苑」は『料理長が贈る美味しい芸術！ 源泉掛け流し 露天風呂（男女別）／貸切家族風呂／離れ露天風呂付』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「阿蘇内牧温泉 御料理旅館 親和苑」は『料理長が贈る美味しい芸術！源泉掛け流し 露天風呂（男女別）／貸切家族風呂／離れ露天風呂付。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

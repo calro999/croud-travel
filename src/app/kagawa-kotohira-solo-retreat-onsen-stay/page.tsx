@@ -37,8 +37,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-16T00:00:00+09:00',
-    dateModified: '2026-09-16T00:00:00+09:00',
+    datePublished: 'T00:00:00+09:00',
+    dateModified: 'T00:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/kagawa-kotohira-solo-retreat-onsen-stay',
   };
 
@@ -64,7 +64,7 @@ export default function ArticlePage() {
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"金刀比羅宮の参道に近く、展望露天風呂とハイグレードな空間を楽しめる宿は？","acceptedAnswer":{"@type":"Answer","text":"「こんぴら温泉 琴平グランドホテル 桜の抄」は参道22段目に位置し、展望露天風呂や贅沢な客室、讃岐の味覚が揃った最高峰のおこもり宿です。"}},{"@type":"Question","name":"館内で多彩な湯巡りを楽しめる温泉自慢の宿は？","acceptedAnswer":{"@type":"Answer","text":"「湯元こんぴら温泉華の湯 紅梅亭」は2つの大浴場と多彩な露天風呂を備え、広々とした庭園の中で心ゆくまで湯巡りを満喫できます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"金刀比羅宮の参道に近く、展望露天風呂とハイグレードな空間を楽しめる宿は？","acceptedAnswer":{"@type":"Answer","text":"「こんぴら温泉 琴平グランドホテル 桜の抄。」は参道22段目に位置し、展望露天風呂や贅沢な客室、讃岐の味覚が揃った最高峰のおこもり宿です。"}},{"@type":"Question","name":"館内で多彩な湯巡りを楽しめる温泉自慢の宿は？","acceptedAnswer":{"@type":"Answer","text":"「湯元こんぴら温泉華の湯 紅梅亭」は2つの大浴場と多彩な露天風呂を備え、広々とした庭園の中で心ゆくまで湯巡りを満喫できます。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -79,7 +79,7 @@ export default function ArticlePage() {
             【こんぴら温泉郷ひとり旅・金刀比羅宮門前おこもり】石段街を望む展望露天・美肌の名湯・讃岐牛＆手打ちうどん！四国随一の霊峰リトリート厳選3宿
           </h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
-            更新日：2026年9月16日 | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
+            更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -313,7 +313,7 @@ export default function ArticlePage() {
                 <span>金刀比羅宮の参道に近く、展望露天風呂とハイグレードな空間を楽しめる宿は？</span>
               </h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
-                「こんぴら温泉 琴平グランドホテル 桜の抄」は参道22段目に位置し、展望露天風呂や贅沢な客室、讃岐の味覚が揃った最高峰のおこもり宿です。
+                「こんぴら温泉 琴平グランドホテル 桜の抄。」は参道22段目に位置し、展望露天風呂や贅沢な客室、讃岐の味覚が揃った最高峰のおこもり宿です。
               </p>
             </div>
             <div className="bg-white p-4 sm:p-5 rounded-xl border border-stone-200">
@@ -363,9 +363,9 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 琴平駅よりアクセス。全室Wi-Fi無料/ＪＲ琴平駅下車、徒歩約15分（無料送迎有・要予約）。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「こんぴら温泉 琴平グランドホテル 桜の抄」にチェックイン。金刀比羅宮に続く参道まで徒歩1分で参拝に便利な温泉宿。和洋約50種類の朝食バイキング好評。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「こんぴら温泉 琴平グランドホテル 桜の抄」の湯処へ。金刀比羅宮に続く参道まで徒歩1分で参拝に便利な温泉宿。和洋約50種類のとともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「こんぴら温泉 琴平グランドホテル 桜の抄」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「こんぴら温泉 琴平グランドホテル 桜の抄。」にチェックイン。金刀比羅宮に続く参道まで徒歩1分で参拝に便利な温泉宿。和洋約50種類の朝食バイキング好評。などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「こんぴら温泉 琴平グランドホテル 桜の抄。」の湯処へ。金刀比羅宮に続く参道まで徒歩1分で参拝に便利な温泉宿。和洋約50種類のとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「こんぴら温泉 琴平グランドホテル 桜の抄。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -374,8 +374,8 @@ export default function ArticlePage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「こんぴら温泉 琴平グランドホテル 桜の抄」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「こんぴら温泉 琴平グランドホテル 桜の抄」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「こんぴら温泉 琴平グランドホテル 桜の抄。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「こんぴら温泉 琴平グランドホテル 桜の抄。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「湯元こんぴら温泉華の湯 紅梅亭」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>

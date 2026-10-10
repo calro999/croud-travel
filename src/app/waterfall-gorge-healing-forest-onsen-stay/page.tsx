@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/waterfall-gorge-healing-forest-onsen-stay"
   };
 
@@ -83,7 +83,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/168675/168675map.gif",
     "reviewCount": 257,
     "reviewAverage": 4.52,
-    "userReview": "ワインが進む絶品料理、ハーフボトルも充実兎に角、飯が美味い。ワインが呑みたくなる料理。グラス提供は無いが、スパークリング・赤白共、ハーフボトルが1種類ずつあるので1人宿泊だったが、ギリセーフ。…　2026-09-18 21:14:05投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=168675\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "ワインが進む絶品料理、ハーフボトルも充実兎に角、飯が美味い。ワインが呑みたくなる料理。グラス提供は無いが、スパークリング・赤白共、ハーフボトルが1種類ずつあるので1人宿泊だったが、ギリセーフ。",
     "hotelMinCharge": 12000,
     "address1": "青森県",
     "address2": "十和田市法量焼山64-108",
@@ -108,11 +108,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14851/14851map.gif",
     "reviewCount": 512,
     "reviewAverage": 4.53,
-    "userReview": "食事も温泉も最高、館内は裸足で快適食事が美味しかったです。館内を裸足で歩けて、気持ち良かったです。掃除が行き届いてないとできない事かと思います。温泉も少しトロッとしていて温まりました。…　2026-08-22 20:44:57投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=14851\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "食事も温泉も最高、館内は裸足で快適食事が美味しかったです。館内を裸足で歩けて、気持ち良かったです。掃除が行き届いてないとできない事かと思います。温泉も少しトロッとしていて温まりました。",
     "hotelMinCharge": 11250,
     "address1": "青森県",
     "address2": "十和田市法量字焼山64",
-    "telephoneNo": "0176-74-2345",
+    "telephoneNo": "45",
     "access": "東北自動車道十和田ＩＣより１時間３０分／奥入瀬渓流温泉（バス停）",
     "parkingInformation": "有り ５０台 無料 先着順",
     "nearestStation": "十和田市",
@@ -133,7 +133,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40434/40434map.gif",
     "reviewCount": 1269,
     "reviewAverage": 4.35,
-    "userReview": "美味しい朝食りんごキッチン 帆立の塩ラーメンやフレンチトースト.搾りたてリンゴジュース等出来立てをいただけてとても美味しかったです。バイキング朝食でも、お食事する場所が分かれていて快適な時間を過ご…　2026-09-07 12:06:52投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=40434\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "美味しい朝食りんごキッチン 帆立の塩ラーメンやフレンチトースト.搾りたてリンゴジュース等出来立てをいただけてとても美味しかったです。バイキング朝食でも、お食事する場所が分かれていて快適な時間を過ご。",
     "hotelMinCharge": 31500,
     "address1": "青森県",
     "address2": "十和田市奥瀬栃久保231",

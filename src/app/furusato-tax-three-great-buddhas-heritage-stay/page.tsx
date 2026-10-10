@@ -36,11 +36,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8692/8692map.gif",
     "reviewCount": 681,
     "reviewAverage": 4.56,
-    "userReview": "車椅子でも安心、親切な対応で良い思い出に親子三世代で宿泊させていただきました。高齢者車椅子利用でしたが、とても親切に対応していただき、良き思い出になりました。立地も良く迷う事なく東大寺や奈良公園ま…　 ",
+    "userReview": "車椅子でも安心、親切な対応で良い思い出に親子三世代で宿泊させていただきました。高齢者車椅子利用でしたが、とても親切に対応していただき、良き思い出になりました。立地も良く迷う事なく東大寺や奈良公園ま。",
     "hotelMinCharge": 11000,
     "address1": "奈良県",
     "address2": "奈良市北半田東町1",
-    "telephoneNo": "0742-23-5858",
+    "telephoneNo": "58",
     "access": "車：名神高速道路京都南ICより60分　電車：近鉄奈良線近鉄奈良駅",
     "parkingInformation": "有り　車40台バス6台　15時から１０時無料（時間外有料）",
     "nearestStation": "近鉄奈良",
@@ -67,11 +67,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31648/31648map.gif",
     "reviewCount": 1317,
     "reviewAverage": 4.43,
-    "userReview": "2回目の利用だが今回は残念な点が多かった2回目の利用。夏休みに家族で利用。部屋に入った際、トイレなのか非常に匂った。洋食の夕食はイマイチだった。ここは恐らく和食の方が腕がいい。今回は残念な点が多か…　 ",
+    "userReview": "夏休みに家族で利用。部屋に入った際、トイレなのか非常に匂った。洋食の夕食はイマイチだった。ここは恐らく和食の方が腕がいい。",
     "hotelMinCharge": 9350,
     "address1": "神奈川県",
     "address2": "鎌倉市坂ノ下33-6",
-    "telephoneNo": "0467-25-5121",
+    "telephoneNo": "21",
     "access": "ＪＲ鎌倉駅よりタクシーにて１０～１５分(平常時）。江ノ電長谷駅より徒歩約１３分。",
     "parkingInformation": "有 ６０台。チェックイン日は午前中から無料、チェックアウト後は１４時まで無料、それ以降は有料です。",
     "nearestStation": "鎌倉",
@@ -98,7 +98,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/146844/146844map.gif",
     "reviewCount": 798,
     "reviewAverage": 3.95,
-    "userReview": "至れり尽くせりのサービスで最高でしたウェルカムドリンクやお茶漬けサービス等至れり尽くせりでサイコーのビジホでした。今回は車でしたが、駅近で列車旅にも良いかもしれません。他の画像やクチコミの詳細…　 ",
+    "userReview": "至れり尽くせりのサービスで最高でしたウェルカムドリンクやお茶漬けサービス等至れり尽くせりでサイコーのビジホでした。今回は車でしたが、駅近で列車旅にも良いかもしれません。の詳細。",
     "hotelMinCharge": 3600,
     "address1": "富山県",
     "address2": "高岡市駅南5-3-3",
@@ -185,7 +185,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ホテルニューわかさ」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ホテルニューわかさ」へは、車：名神高速道路京都南ICより60分 電車：近鉄奈良線近鉄奈良駅。最寄りの近鉄奈良駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ホテルニューわかさ」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ホテルニューわかさ」は『奈良公園・東大寺まで徒歩5分！世界遺産を見渡せる屋上庭園や華やかな懐石料理で奈良をたっぷり』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ホテルニューわかさ」と「鎌倉パークホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ホテルニューわかさ」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ホテルニューわかさ」へは、車：名神高速道路京都南ICより60分 電車：近鉄奈良線近鉄奈良駅。最寄りの近鉄奈良駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ホテルニューわかさ」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ホテルニューわかさ」は『奈良公園・東大寺まで徒歩5分！世界遺産を見渡せる屋上庭園や華やかな懐石料理で奈良をたっぷり。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ホテルニューわかさ」と「鎌倉パークホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         
         {/* 特集の魅力セクション */}
@@ -491,7 +491,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「ホテルニューわかさ」は『奈良公園・東大寺まで徒歩5分！世界遺産を見渡せる屋上庭園や華やかな懐石料理で奈良をたっぷり』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「ホテルニューわかさ」は『奈良公園・東大寺まで徒歩5分！世界遺産を見渡せる屋上庭園や華やかな懐石料理で奈良をたっぷり。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

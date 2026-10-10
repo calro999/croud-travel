@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/super-panoramic-cloud-sea-glamping-stay"
   };
 
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D109464%26f_flg%3DPLAN",
     "hotelMinCharge": 10395,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/109464/109464.jpg",
-    "userReview": "BBQと星空の露天風呂で大満足の旅友達との旅行で利用しました!夜ご飯のBBQは色んなお肉や野菜などが食べられてとても満足でき、お風呂もチェックイン、チェックアウト後も利用できたため、何回もお風呂に…　2026-09-16 16:15:43投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=109464\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "BBQと星空の露天風呂で大満足の旅友達との旅行で利用しました!夜ご飯のBBQは色んなお肉や野菜などが食べられてとても満足でき、お風呂もチェックイン、チェックアウト後も利用できたため、何回もお風呂に。",
     "reviewAverage": 4.35,
     "reviewCount": 1024,
     "address": "北海道芦別市旭町油谷1",
@@ -335,7 +335,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「グランピングスパ・わいた」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「グランピングスパ・わいた」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ＬＵＯＮＴＥ 霧の高原 Ｇｌａｍｐｉｎｇ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ＬＵＯＮＴＥ 霧の高原 Ｇｌａｍｐｉｎｇ。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -365,7 +365,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「グランピングスパ・わいた」は『白濁湯の露天風呂にサウナ、焚火で愉しむＢＢＱ。満点の星空とともに過ごす未体験の上質グランピ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「グランピングスパ・わいた」は『白濁湯の露天風呂にサウナ、焚火で愉しむＢＢＱ。満点の星空とともに過ごす未体験の上質グランピ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -374,7 +374,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「グランピングスパ・わいた」と「ＬＵＯＮＴＥ 霧の高原 Ｇｌａｍｐｉｎｇ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「グランピングスパ・わいた」と「ＬＵＯＮＴＥ 霧の高原 Ｇｌａｍｐｉｎｇ。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

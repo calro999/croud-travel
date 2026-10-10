@@ -44,7 +44,7 @@ export default function Page() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「越後湯沢温泉 湯沢グランドホテル＜新潟県＞」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「越後湯沢温泉 湯沢グランドホテル＜新潟県＞」へは、駅から徒歩3分＆湯沢ＩＣから5分！入口はセブンイレブンが目印！※ホテル前の坂道は急なので遠慮なく送迎をご依頼ください。最寄りの越後湯沢駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「越後湯沢温泉 湯沢グランドホテル＜新潟県＞」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「越後湯沢温泉 湯沢グランドホテル＜新潟県＞」は『★楽天シルバーアワード3年連続受賞★湯沢旅館部門売上1位★出来立ての美味しさが自慢のバイキ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「越後湯沢温泉 湯沢グランドホテル＜新潟県＞」と「越後湯沢温泉 音羽屋旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「越後湯沢温泉 湯沢グランドホテル＜新潟県＞。」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「越後湯沢温泉 湯沢グランドホテル＜新潟県＞。」へは、駅から徒歩3分＆湯沢ＩＣから5分！入口はセブンイレブンが目印！※ホテル前の坂道は急なので遠慮なく送迎をご依頼ください。最寄りの越後湯沢駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「越後湯沢温泉 湯沢グランドホテル＜新潟県＞。」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「越後湯沢温泉 湯沢グランドホテル＜新潟県＞。」は『★楽天シルバーアワード3年連続受賞★湯沢旅館部門売上1位★出来立ての美味しさが自慢のバイキ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「越後湯沢温泉 湯沢グランドホテル＜新潟県＞。」と「越後湯沢温泉 音羽屋旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         {/* パンくずリスト */}
@@ -63,7 +63,7 @@ export default function Page() {
             【車なし・雪道運転不要】新幹線駅直結＆駅徒歩圏内の名湯温泉旅館ふるさと納税ガイド
           </h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl mb-6">
-            「地方の名湯に泊まりたいけれど、慣れない土地でのレンタカー運転が苦手」「冬の温泉に行きたいけれど、凍結した雪道を運転するのが怖い」「免許を返納した親を温泉に連れて行ってあげたい」。そんな旅行者から絶大な支持を集めているのが、新幹線の駅から徒歩圏内、または駅前から無料送迎が直結している駅近名湯宿です。移動中の渋滞や運転のプレッシャーが一切なく、駅弁をつまみながら地酒を飲み、新幹線を降りたらすぐに旅館の温かいお出迎えを受けられます。さらに楽天ふるさと納税のトラベルクーポンを活用すれば、新幹線停車駅を擁する湯沢町、熱海市、加賀市などの名門温泉旅館に実質30％割引でステイ可能。手軽さと贅沢を両立したスマートな温泉旅をご紹介します。
+            「地方の名湯に泊まりたいけれど、慣れない土地でのレンタカー運転が苦手。」「冬の温泉に行きたいけれど、凍結した雪道を運転するのが怖い。」「免許を返納した親を温泉に連れて行ってあげたい。」。そんな旅行者から絶大な支持を集めているのが、新幹線の駅から徒歩圏内、または駅前から無料送迎が直結している駅近名湯宿です。移動中の渋滞や運転のプレッシャーが一切なく、駅弁をつまみながら地酒を飲み、新幹線を降りたらすぐに旅館の温かいお出迎えを受けられます。さらに楽天ふるさと納税のトラベルクーポンを活用すれば、新幹線停車駅を擁する湯沢町、熱海市、加賀市などの名門温泉旅館に実質30％割引でステイ可能。手軽さと贅沢を両立したスマートな温泉旅をご紹介します。
           </p>
           <div className="flex flex-wrap gap-4 pt-4 border-t border-amber-900/50 text-xs text-amber-200/90 font-medium">
             <span>✓ 寄付額の最大30％相当を宿泊クーポン還元</span>
@@ -410,7 +410,7 @@ export default function Page() {
                 <span>駅からの無料送迎バスは事前予約が必要ですか？</span>
               </h3>
               <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                多くの宿では新幹線の到着時刻に合わせた送迎バスを運行していますが、宿によって「完全事前予約制」の場合と「駅到着時に電話すれば随時迎えに来てくれる」場合があります。宿泊予約時に送迎の利用条件を確認しておくと安心です。
+                多くの宿では新幹線の到着時刻に合わせた送迎バスを運行していますが、宿によって「完全事前予約制」の場合と「駅到着時に電話すれば随時迎えに来てくれる。」場合があります。宿泊予約時に送迎の利用条件を確認しておくと安心です。
               </p>
             </div>
 
@@ -430,7 +430,7 @@ export default function Page() {
                 <span>新幹線のチケット代もふるさと納税クーポンに含まれますか？</span>
               </h3>
               <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                楽天トラベルクーポンは「宿泊代金（または新幹線＋宿泊のJR楽パック）」に対して適用されます。楽天トラベルの「JR楽パック」対象プランであれば、新幹線チケット代と宿泊代金のセット総額に対してクーポンが適用できるため、交通費も含めて大幅に節約できます。
+                楽天トラベルクーポンは「宿泊代金（または新幹線＋宿泊のJR楽パック）。」に対して適用されます。楽天トラベルの「JR楽パック」対象プランであれば、新幹線チケット代と宿泊代金のセット総額に対してクーポンが適用できるため、交通費も含めて大幅に節約できます。
               </p>
             </div>
           </div>
@@ -551,9 +551,9 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 越後湯沢駅よりアクセス。駅から徒歩3分＆湯沢ＩＣから5分！入口はセブンイレブンが目印！※ホテル前の坂道は急なので遠慮なく送迎をご依頼ください。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「越後湯沢温泉 湯沢グランドホテル＜新潟県＞」にチェックイン。★楽天シルバーアワード3年連続受賞★湯沢旅館部門売上1位★出来立ての美味しさが自慢のバイキング★などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「越後湯沢温泉 湯沢グランドホテル＜新潟県＞」の湯処へ。★楽天シルバーアワード3年連続受賞★湯沢旅館部門売上1位★出来立ての美とともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「越後湯沢温泉 湯沢グランドホテル＜新潟県＞」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「越後湯沢温泉 湯沢グランドホテル＜新潟県＞。」にチェックイン。★楽天シルバーアワード3年連続受賞★湯沢旅館部門売上1位★出来立ての美味しさが自慢のバイキング★などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「越後湯沢温泉 湯沢グランドホテル＜新潟県＞。」の湯処へ。★楽天シルバーアワード3年連続受賞★湯沢旅館部門売上1位★出来立ての美とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「越後湯沢温泉 湯沢グランドホテル＜新潟県＞。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -562,8 +562,8 @@ export default function Page() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「越後湯沢温泉 湯沢グランドホテル＜新潟県＞」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「越後湯沢温泉 湯沢グランドホテル＜新潟県＞」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「越後湯沢温泉 湯沢グランドホテル＜新潟県＞。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「越後湯沢温泉 湯沢グランドホテル＜新潟県＞。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「越後湯沢温泉 音羽屋旅館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
@@ -581,20 +581,20 @@ export default function Page() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「越後湯沢温泉 湯沢グランドホテル＜新潟県＞」へのアクセスや移動方法について</span>
+                <span>Q. 「越後湯沢温泉 湯沢グランドホテル＜新潟県＞。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「越後湯沢温泉 湯沢グランドホテル＜新潟県＞」へは、駅から徒歩3分＆湯沢ＩＣから5分！入口はセブンイレブンが目印！※ホテル前の坂道は急なので遠慮なく送迎をご依頼ください。最寄りの越後湯沢駅からの経路案内も充実しています。
+                A. 「越後湯沢温泉 湯沢グランドホテル＜新潟県＞。」へは、駅から徒歩3分＆湯沢ＩＣから5分！入口はセブンイレブンが目印！※ホテル前の坂道は急なので遠慮なく送迎をご依頼ください。最寄りの越後湯沢駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「越後湯沢温泉 湯沢グランドホテル＜新潟県＞」の魅力や予約時のポイントは？</span>
+                <span>Q. 「越後湯沢温泉 湯沢グランドホテル＜新潟県＞。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「越後湯沢温泉 湯沢グランドホテル＜新潟県＞」は『★楽天シルバーアワード3年連続受賞★湯沢旅館部門売上1位★出来立ての美味しさが自慢のバイキ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「越後湯沢温泉 湯沢グランドホテル＜新潟県＞。」は『★楽天シルバーアワード3年連続受賞★湯沢旅館部門売上1位★出来立ての美味しさが自慢のバイキ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -603,7 +603,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「越後湯沢温泉 湯沢グランドホテル＜新潟県＞」と「越後湯沢温泉 音羽屋旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「越後湯沢温泉 湯沢グランドホテル＜新潟県＞。」と「越後湯沢温泉 音羽屋旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

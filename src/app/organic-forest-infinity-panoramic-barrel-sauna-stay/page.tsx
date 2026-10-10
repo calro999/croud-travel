@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【絶景ガラス張りバレルサウナ】天空のパノラマビュー＆天然湧水水風呂の温泉宿5選",
     "description": "前面が総ガラス張りの最新木製バレルサウナ！サウナ室の中から絶景の山並みや湖、星空を眺めながらのアロマロウリュ。地下水かけ流しの水風呂と天空デッキでの外気浴が自慢の全国屈指のサウナ宿を厳選。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-    "datePublished": "2026-03-27T00:00:00+09:00",
-    "dateModified": "2026-03-27T00:00:00+09:00",
+    "datePublished": "T00:00:00+09:00",
+    "dateModified": "T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",
@@ -80,7 +80,7 @@ export default function FeaturePage() {
               reviews: 1955,
               price: "¥6,600〜",
               access: "伊豆高原駅、南口より無料送迎バスで約１５分※ダイヤは事前にご確認ください。",
-              features: ["2026年4月27日OPEN！湯のぬくもりと遊び尽くせない多彩なレジャーがあふれる海辺の温泉リゾート", "伊東市赤沢浮山163-1", "楽天アワード受賞歴"]
+              features: ["OPEN！湯のぬくもりと遊び尽くせない多彩なレジャーがあふれる海辺の温泉リゾート", "伊東市赤沢浮山163-1", "楽天アワード受賞歴"]
             },
             {
               name: "洲本温泉　淡路インターナショナルホテル　ザ・サンプラザ　＜淡路島＞",

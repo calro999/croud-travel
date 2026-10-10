@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/super-panoramic-canyon-train-onsen-stay"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D40625%26f_flg%3DPLAN",
     "hotelMinCharge": 6600,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40625/40625.jpg",
-    "userReview": "お風呂のメッセージとスタッフの温かい見送りとても良かったです。お風呂の入り口に貼ってあるメッセージも感動しました。あれは貰って良かったのかな?ご飯も美味しく、お腹いっぱいになりました。チェ…　2026-09-16 22:25:29投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=40625\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "お風呂のメッセージとスタッフの温かい見送りとても良かったです。お風呂の入り口に貼ってあるメッセージも感動しました。あれは貰って良かったのかな?ご飯も美味しく、お腹いっぱいになりました。チェ。",
     "reviewAverage": 4.45,
     "reviewCount": 1246,
     "address": "富山県黒部市宇奈月温泉７番地",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D9273%26f_flg%3DPLAN",
     "hotelMinCharge": 20900,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9273/9273.jpg",
-    "userReview": "露天風呂と牡丹鍋、縁側でのんびり満喫露天風呂付きのお部屋で、ゆっくり過ごす事が出来ました!料理も牡丹鍋など、とても美味しかったです。どうしても鮎の塩焼きが食べたかったので、追加で注文させて頂き…　2026-09-07 21:01:09投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=9273\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "露天風呂と牡丹鍋、縁側でのんびり満喫露天風呂付きのお部屋で、ゆっくり過ごす事が出来ました!料理も牡丹鍋など、とても美味しかったです。どうしても鮎の塩焼きが食べたかったので、追加で注文させて頂き。",
     "reviewAverage": 4.73,
     "reviewCount": 295,
     "address": "奈良県吉野郡天川村洞川240",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D17905%26f_flg%3DPLAN",
     "hotelMinCharge": 22080,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/17905/17905.jpg",
-    "userReview": "食事が絶品、雪の時期に再訪したい朝晩の食事がとっても美味しいです。なので、連泊での昼軽食を ”まかない” で食せるプラン(特注)があるといいですねー。 雪の時期にぜひ再訪したいです。クチコミの…　2026-09-17 19:26:05投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=17905\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "食事が絶品、雪の時期に再訪したい朝晩の食事がとっても美味しいです。なので、連泊での昼軽食を ”まかない” で食せるプラン(特注)があるといいですねー。雪の時期にぜひ再訪したいです。クチコミの。",
     "reviewAverage": 4.75,
     "reviewCount": 262,
     "address": "福島県南会津郡下郷町湯野上舘本乙1338",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D69393%26f_flg%3DPLAN",
     "hotelMinCharge": 9900,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/69393/69393.jpg",
-    "userReview": "食事も部屋も文句なし、また泊まりたい食事朝も夜も美味しく頂きました部屋も設備も文句なしですまた泊まりたいホテルですクチコミの詳細はこちらから　https://review.trav…　2026-09-14 13:41:03投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=69393\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "食事も部屋も文句なし、また泊まりたい食事朝も夜も美味しく頂きました部屋も設備も文句なしですまた泊まりたいホテルです。",
     "reviewAverage": 4.08,
     "reviewCount": 1072,
     "address": "富山県中新川郡上市町湯上野1",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D71930%26f_flg%3DPLAN",
     "hotelMinCharge": 11000,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/71930/71930.jpg",
-    "userReview": "3月中旬に利用三連休で初めて洞川温泉へ行った際に利用させていただきました。施設は全体的に年季の入ったお宿でエントランスはキレイで畳のスリッパは履き心地が良かったです。構造上仕方ないのかもし…　2026-03-24 23:37:57投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=71930\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "3月中旬に利用三連休で初めて洞川温泉へ行った際に利用させていただきました。施設は全体的に年季の入ったお宿でエントランスはキレイで畳のスリッパは履き心地が良かったです。構造上仕方ないのかもし。",
     "reviewAverage": 3.5,
     "reviewCount": 52,
     "address": "奈良県吉野郡天川村洞川209",

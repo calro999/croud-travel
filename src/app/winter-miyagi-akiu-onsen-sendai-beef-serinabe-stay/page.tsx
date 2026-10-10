@@ -67,8 +67,8 @@ export default function AkiuWinterPage() {
         "headline": "【11・12月秋保温泉の初冬渓谷美と名湯】伊達政宗公ゆかりの奥座敷・最高峰A5仙台牛＆名物せり鍋の宿5選",
         "description": "杜の都・仙台の奥座敷として開湯1500年の歴史を誇り、日本三御湯の一つに数えられる秋保温泉。11月中旬の磊々峡の晩秋から12月の初雪へと移ろう初冬、名取川渓谷を望む露天風呂と、宮城の冬の風物詩「仙台せり鍋」、霜降り極上のA5仙台牛ステーキを心ゆくまで堪能する名宿ガイド。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
-        "datePublished": "2026-09-27T00:00:00+09:00",
-        "dateModified": "2026-09-27T00:00:00+09:00",
+        "datePublished": "T00:00:00+09:00",
+        "dateModified": "T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

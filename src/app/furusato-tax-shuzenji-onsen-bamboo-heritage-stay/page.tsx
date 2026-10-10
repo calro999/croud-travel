@@ -39,8 +39,8 @@ export default function FurusatoArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-10T17:00:00+09:00',
-    dateModified: '2026-09-10T17:00:00+09:00',
+    datePublished: 'T17:00:00+09:00',
+    dateModified: 'T17:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-shuzenji-onsen-bamboo-heritage-stay',
   };
 
@@ -49,7 +49,7 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「湯回廊 菊屋」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「湯回廊 菊屋」へは、伊豆箱根鉄道 修善寺駅よりバス約８分※送迎無し／東名高速 沼津ICから国道１号線、国道１３６号線 伊豆中央道経由約３５分。最寄りの修善寺駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「湯回廊 菊屋」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「湯回廊 菊屋」は『文豪も愛した本館、源泉かけ流し風呂付の離れ、2021年～水の語り部(温泉風呂付）、風の語り』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「湯回廊 菊屋」と「修善寺温泉 国の登録文化財の宿 新井旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「湯回廊 菊屋」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「湯回廊 菊屋」へは、伊豆箱根鉄道 修善寺駅よりバス約８分※送迎無し／東名高速 沼津ICから国道１号線、国道１３６号線 伊豆中央道経由約３５分。最寄りの修善寺駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「湯回廊 菊屋」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「湯回廊 菊屋」は『文豪も愛した本館、源泉かけ流し風呂付の離れ、2021年～水の語り部(温泉風呂付）、風の語り。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「湯回廊 菊屋」と「修善寺温泉 国の登録文化財の宿 新井旅館。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -203,7 +203,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.62点、口コミ2800件超。「回廊の雰囲気が素晴らしく風情満点」「お風呂の数が多く貸切風呂も無料で最高、食事も大変美味しかった」と絶大な人気。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.62点、口コミ2800件超。「回廊の雰囲気が素晴らしく風情満点」「お風呂の数が多く貸切風呂も無料で最高、食事も大変美味しかった。」と絶大な人気。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -287,7 +287,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.63点、口コミ1200件超。「建物自体が美術品のようで感動した」「天平大浴堂の素晴らしさは言葉にできない、スタッフのおもてなしも一流」と絶賛。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.63点、口コミ1200件超。「建物自体が美術品のようで感動した」「天平大浴堂の素晴らしさは言葉にできない、スタッフのおもてなしも一流。」と絶賛。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.60点、口コミ1800件超。「お庭が息を呑むほど綺麗で散策が楽しかった」「お風呂からの景色と夜のライトアップが幻想的で、お料理も大満足」と高評価。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.60点、口コミ1800件超。「お庭が息を呑むほど綺麗で散策が楽しかった。」「お風呂からの景色と夜のライトアップが幻想的で、お料理も大満足。」と高評価。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -548,7 +548,7 @@ export default function FurusatoArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「湯回廊 菊屋」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「湯回廊 菊屋」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「修善寺温泉 国の登録文化財の宿 新井旅館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「修善寺温泉 国の登録文化財の宿 新井旅館。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -578,7 +578,7 @@ export default function FurusatoArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「湯回廊 菊屋」は『文豪も愛した本館、源泉かけ流し風呂付の離れ、2021年～水の語り部(温泉風呂付）、風の語り』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「湯回廊 菊屋」は『文豪も愛した本館、源泉かけ流し風呂付の離れ、2021年～水の語り部(温泉風呂付）、風の語り。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -587,7 +587,7 @@ export default function FurusatoArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「湯回廊 菊屋」と「修善寺温泉 国の登録文化財の宿 新井旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「湯回廊 菊屋」と「修善寺温泉 国の登録文化財の宿 新井旅館。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

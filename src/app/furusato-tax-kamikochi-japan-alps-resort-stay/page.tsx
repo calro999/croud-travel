@@ -62,7 +62,7 @@ export default function FurusatoKamikochiLuxuryStayPage() {
           神降ちる清流と穂高連峰の絶景！上高地の大正池・梓川温泉＆本格山岳フレンチ名宿×ふるさと納税完全攻略ガイド【2026年最新】ルミエスタ・大正池ホテル・上高地温泉ホテル
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-10">2026年9月10日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -164,7 +164,7 @@ export default function FurusatoKamikochiLuxuryStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “新婚旅行で大満足、スタッフの対応と料理が最高新婚旅行で利用したが、とっても良かった!スタッフさんが一から丁寧にせつめいしてくれたり、夜行バスで到着しメイクしたい私のために、温泉やトイレを案内してく…　2026-08-29 11:40:02投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “新婚旅行で大満足、スタッフの対応と料理が最高新婚旅行で利用したが、とっても良かった!スタッフさんが一から丁寧にせつめいしてくれたり、夜行バスで到着しメイクしたい私のために、温泉やトイレを案内してく… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -206,7 +206,7 @@ export default function FurusatoKamikochiLuxuryStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “雨の大正池も風情があり、食事も美味雨が降っていたので残念でしたが、部屋の窓から見える雨の大正池も良かったです。次は晴れてる時に泊まりたいです。夕食も朝食も美味しかったです。クチコミ…　2026-09-02 16:58:12投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “雨の大正池も風情があり、食事も美味雨が降っていたので残念でしたが、部屋の窓から見える雨の大正池も良かったです。次は晴れてる時に泊まりたいです。夕食も朝食も美味しかったです。クチコミ… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -248,7 +248,7 @@ export default function FurusatoKamikochiLuxuryStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “140年の歴史と趣、絶品料理と温泉に癒やされる高校の修学旅行以来、約40年ぶりに訪れました。新しいホテルと比べると建物の古さは否めませんが、その分、140年の歴史と趣を感じることができ、とても…　2026-08-31 17:06:32投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “140年の歴史と趣、絶品料理と温泉に癒やされる高校の修学旅行以来、約40年ぶりに訪れました。新しいホテルと比べると建物の古さは否めませんが、その分、140年の歴史と趣を感じることができ、とても… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -323,7 +323,7 @@ export default function FurusatoKamikochiLuxuryStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

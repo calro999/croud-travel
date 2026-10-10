@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【12月標高1800mの白銀世界！万座温泉にごり湯】日本一の濃厚硫黄泉と雪見絶景宿5選",
     "description": "標高1800mの雲上に位置する「星に一番近い温泉・万座温泉」！日本一の硫黄含有量を誇る乳白色のにごり湯露天風呂から、一面の白銀世界と満天の星空を眺める、これぞ本物の冬の雪見温泉体験。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-    "datePublished": "2026-09-27T00:00:00+09:00",
-    "dateModified": "2026-09-27T00:00:00+09:00",
+    "datePublished": "T00:00:00+09:00",
+    "dateModified": "T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

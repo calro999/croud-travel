@@ -35,11 +35,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/69254/69254map.gif",
     "reviewCount": 1098,
     "reviewAverage": 4.25,
-    "userReview": "食事は美味しく満足、隣の音が気になる食事は美味しく満足しました部屋の壁が薄いのか、隣の声、音が聞こえるので自分達も気を使ったクチコミの詳細はこちらから　https://review.tra…",
+    "userReview": "食事は美味しく満足、隣の音が気になる食事は美味しく満足しました部屋の壁が薄いのか、隣の声、音が聞こえるので自分達も気を使った。",
     "hotelMinCharge": 13800,
     "address1": "長野県",
     "address2": "駒ヶ根市赤穂5-1086",
-    "telephoneNo": "0265-82-8511",
+    "telephoneNo": "11",
     "access": "中央道駒ヶ根ICより車で３分 / JR飯田線駒ヶ根駅よりバス15分　/　左記まで無料送迎有り　10:00～17:00",
     "parkingInformation": "有り　６０台　無料　予約不要",
     "nearestStation": "",
@@ -95,15 +95,15 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147481/147481map.gif",
     "reviewCount": 651,
     "reviewAverage": 4.48,
-    "userReview": "露天風呂と食事が最高、必ずリピートします。今月27日に宿泊させていただきました。客室露天風呂(温泉)で食事も美味しく、リーズナブルな値段で宿泊できることに感動しました。特に露天風呂からの景…",
+    "userReview": "露天風呂と食事が最高、必ずリピートします。今月27日に宿泊させていただきました。客室露天風呂(温泉)で食事も美味しく、リーズナブルな値段で宿泊できることに感動しました。特に露天風呂からの景。",
     "hotelMinCharge": 24035,
     "address1": "神奈川県",
     "address2": "足柄下郡箱根町仙石原1245-432",
-    "telephoneNo": "0288-53-6050",
+    "telephoneNo": "50",
     "access": "箱根湯本駅から箱根登山バスにて約３０分、箱根カントリー入口下車（バス停からは送迎有り・要予約）",
     "parkingInformation": "有り　１４台　無料　予約不要",
     "nearestStation": "箱根湯本",
-    "hotelSpecial": "温かみのあるおもてなしと絶景に心癒される湯宿。２０１４年７月１２日オープン。",
+    "hotelSpecial": "温かみのあるおもてなしと絶景に心癒される湯宿。オープン。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147481%2F147481.html",
     "label": "神奈川県箱根町ふるさと納税・富士山と芦ノ湖を眼下に望む「箱根駒ヶ岳ロープウェイ」箱根星のあかり",
     "themeTitle": "神奈川県箱根町ふるさと納税：芦ノ湖駒ヶ岳ロープウェイ至近・全客室露天風呂から箱根連山一望「絶景の癒しの湯宿 箱根 星のあかり」",
@@ -181,7 +181,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「早太郎温泉 駒ヶ根高原リゾートリンクス」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「早太郎温泉 駒ヶ根高原リゾートリンクス」へは、中央道駒ヶ根ICより車で３分 / JR飯田線駒ヶ根駅よりバス15分 / 左記まで無料送迎有り 10:00～17:00。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「早太郎温泉 駒ヶ根高原リゾートリンクス」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「早太郎温泉 駒ヶ根高原リゾートリンクス」は『自然に温泉にあっぷる豚に！！大人のリゾートホテルで寛ぎのひとときをどうぞ★』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「早太郎温泉 駒ヶ根高原リゾートリンクス」と「ホテル立山」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「早太郎温泉 駒ヶ根高原リゾートリンクス」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「早太郎温泉 駒ヶ根高原リゾートリンクス」へは、中央道駒ヶ根ICより車で３分 / JR飯田線駒ヶ根駅よりバス15分 / 左記まで無料送迎有り 10:00～17:00。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「早太郎温泉 駒ヶ根高原リゾートリンクス」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「早太郎温泉 駒ヶ根高原リゾートリンクス」は『自然に温泉にあっぷる豚に！大人のリゾートホテルで寛ぎのひとときをどうぞ★。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「早太郎温泉 駒ヶ根高原リゾートリンクス」と「ホテル立山」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* リードセクション */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-4">
@@ -510,7 +510,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「早太郎温泉 駒ヶ根高原リゾートリンクス」は『自然に温泉にあっぷる豚に！！大人のリゾートホテルで寛ぎのひとときをどうぞ★』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「早太郎温泉 駒ヶ根高原リゾートリンクス」は『自然に温泉にあっぷる豚に！大人のリゾートホテルで寛ぎのひとときをどうぞ★。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

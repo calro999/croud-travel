@@ -7,11 +7,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tokushima-solo-business-awataisen-onsen-stay/" },
   title: '【徳島出張＆眉山ひとり旅】徳島駅直結・リバーサイド天然温泉・阿波尾鶏＆徳島ラーメン！四国の東玄関で癒やされる極上ホテル 厳選3選',
-  description: '本州（神戸・淡路島）から高速バス直結・阿波おどりの本場「徳島」！「JR徳島駅直結で眉山を望むランドマークホテル」の「JRホテルクレメント徳島」、新町川のリバーサイドに天然温泉大浴場を備えた「徳島グランヴィリオホテル」、徳島駅前徒歩1分で安心ステイの「ダイワロイネットホテル徳島駅前」を徹底比較。',
+  description: '本州（神戸・淡路島）から高速バス直結・阿波おどりの本場「徳島」！「JR徳島駅直結で眉山を望むランドマークホテル。」の「JRホテルクレメント徳島」、新町川のリバーサイドに天然温泉大浴場を備えた「徳島グランヴィリオホテル」、徳島駅前徒歩1分で安心ステイの「ダイワロイネットホテル徳島駅前」を徹底比較。',
   keywords: '徳島 出張 ホテル おすすめ,徳島 一人旅 ホテル,JRホテルクレメント徳島 宿泊,徳島グランヴィリオホテル 温泉,徳島ラーメン ホテル 駅前',
   openGraph: {
     title: '【徳島出張＆眉山ひとり旅】徳島駅直結・リバーサイド天然温泉・阿波尾鶏＆徳島ラーメン！四国の東玄関で癒やされる極上ホテル 厳選3選',
-    description: '本州（神戸・淡路島）から高速バス直結・阿波おどりの本場「徳島」！「JR徳島駅直結で眉山を望むランドマークホテル」の「JRホテルクレメント徳島」、新町川のリバーサイドに天然温泉大浴場を備えた「徳島グランヴィリオホテル」、徳島駅前徒歩1分で安心ステイの「ダイワロイネットホテル徳島駅前」を徹底比較。',
+    description: '本州（神戸・淡路島）から高速バス直結・阿波おどりの本場「徳島」！「JR徳島駅直結で眉山を望むランドマークホテル。」の「JRホテルクレメント徳島」、新町川のリバーサイドに天然温泉大浴場を備えた「徳島グランヴィリオホテル」、徳島駅前徒歩1分で安心ステイの「ダイワロイネットホテル徳島駅前」を徹底比較。',
     url: 'https://croud-travel.pages.dev/tokushima-solo-business-awataisen-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -24,7 +24,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【徳島出張＆眉山ひとり旅】徳島駅直結・リバーサイド天然温泉・阿波尾鶏＆徳島ラーメン！四国の東玄関で癒やされる極上ホテル 厳選3選',
-    description: '本州（神戸・淡路島）から高速バス直結・阿波おどりの本場「徳島」！「JR徳島駅直結で眉山を望むランドマークホテル」の「JRホテルクレメント徳島」、新町川のリバーサイドに天然温泉大浴場を備えた「徳島グランヴィリオホテル」、徳島駅前徒歩1分で安心ステイの「ダイワロイネットホテル徳島駅前」を徹底比較。',
+    description: '本州（神戸・淡路島）から高速バス直結・阿波おどりの本場「徳島」！「JR徳島駅直結で眉山を望むランドマークホテル。」の「JRホテルクレメント徳島」、新町川のリバーサイドに天然温泉大浴場を備えた「徳島グランヴィリオホテル」、徳島駅前徒歩1分で安心ステイの「ダイワロイネットホテル徳島駅前」を徹底比較。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・出張調査班',
@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-12T15:30:00+09:00',
-    dateModified: '2026-09-12T15:30:00+09:00',
+    datePublished: 'T15:30:00+09:00',
+    dateModified: 'T15:30:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/tokushima-solo-business-awataisen-onsen-stay',
   };
 
@@ -78,7 +78,7 @@ export default function ArticlePage() {
           【徳島出張＆眉山ひとり旅】徳島駅直結・リバーサイド天然温泉・阿波尾鶏＆徳島ラーメン！四国の東玄関で癒やされる極上ホテル 厳選3選
         </h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
-          本州（神戸・淡路島）から高速バス直結・阿波おどりの本場「徳島」！「JR徳島駅直結で眉山を望むランドマークホテル」の「JRホテルクレメント徳島」、新町川のリバーサイドに天然温泉大浴場を備えた「徳島グランヴィリオホテル」、徳島駅前徒歩1分で安心ステイの「ダイワロイネットホテル徳島駅前」を徹底比較。
+          本州（神戸・淡路島）から高速バス直結・阿波おどりの本場「徳島」！「JR徳島駅直結で眉山を望むランドマークホテル。」の「JRホテルクレメント徳島」、新町川のリバーサイドに天然温泉大浴場を備えた「徳島グランヴィリオホテル」、徳島駅前徒歩1分で安心ステイの「ダイワロイネットホテル徳島駅前」を徹底比較。
         </p>
       </header>
 
@@ -161,7 +161,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.34点。「駅直結で高速バス乗り場も目の前で本当に便利でした」「スタッフの対応がとても丁寧で部屋も広く快適でした」と絶賛。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.34点。「駅直結で高速バス乗り場も目の前で本当に便利でした。」「スタッフの対応がとても丁寧で部屋も広く快適でした。」と絶賛。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -236,7 +236,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.12点。「天然温泉の大浴場があって露天風呂が気持ちよかった」「駐車場が無料で川沿いの景色も綺麗でした」と好評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.12点。「天然温泉の大浴場があって露天風呂が気持ちよかった。」「駐車場が無料で川沿いの景色も綺麗でした」と好評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -311,7 +311,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.35点。「駅前すぐで迷わず行けました。部屋が綺麗でデスクワークもしやすかった」「スタッフも親切で清潔感があり安心」と定評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.35点。「駅前すぐで迷わず行けました。部屋が綺麗でデスクワークもしやすかった。」「スタッフも親切で清潔感があり安心」と定評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">

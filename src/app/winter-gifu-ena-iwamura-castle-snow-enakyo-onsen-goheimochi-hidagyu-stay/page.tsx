@@ -46,8 +46,8 @@ export default function Page() {
       "headline": "【日本三大山城・岩村城跡の霧氷美と女城主の里重伝建】2026-2027年冬の岐阜・恵那！恵那峡温泉の絶景露天と飛騨牛朴葉味噌・五平餅名宿5選",
       "description": "霧氷と白雪に抱かれる日本三大山城「岩村城跡」と江戸情緒残る城下町重伝建地区！冬の奇岩パノラマ恵那峡温泉の絶景露天風呂。香ばしい郷土の五平餅や極上飛騨牛の朴葉味噌焼きに満たされる冬の東濃・恵那の厳選名宿5選。",
       "image": "https://img.travel.rakuten.co.jp/share/HOTEL/80774/80774.jpg",
-      "datePublished": "2026-10-09",
-      "dateModified": "2026-10-09",
+      "datePublished": "",
+      "dateModified": "",
       "author": {
         "@type": "Organization",
         "name": "Japan Travel Curations"
@@ -396,7 +396,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「料理に温泉日本酒1人旅にも優しい良い宿ですクチコミの詳細はこちらから https://review.travel.rakuten.co.jp/hotel/voice/80774?reviewId=… 2026-09-24 18:40:47投稿 つづきはこちら」"}</span>
+                  <span>{"「料理に温泉日本酒1人旅にも優しい良い宿です。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -463,7 +463,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「飛騨牛づくしの食事とマッサージチェアで大満足主人の誕生日旅行の為、奮発してマッサージチェア付きの部屋で飛騨牛のプランにしました。夕食はほんとに肉づくし、刺身の内容の中にもサーモン、カツオにロースト… 2026-10-03 00:15:02投稿 つづきはこちら」"}</span>
+                  <span>{"「飛騨牛づくしの食事とマッサージチェアで大満足主人の誕生日旅行の為、奮発してマッサージチェア付きの部屋で飛騨牛のプランにしました。夕食はほんとに肉づくし、刺身の内容の中にもサーモン、カツオにロースト。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -530,7 +530,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「バイクの屋根付き駐車場雨は降っていませんでしたが、バイクは屋根の下に駐車でき有り難かったです。リーズナブルということで食事の量はちょっと少なめだけど、品数もありちょうどいい感じで、美味しかった… 2026-09-30 20:14:08投稿 つづきはこちら」"}</span>
+                  <span>{"「バイクの屋根付き駐車場雨は降っていませんでしたが、バイクは屋根の下に駐車でき有り難かったです。リーズナブルということで食事の量はちょっと少なめだけど、品数もありちょうどいい感じで、美味しかった。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -597,7 +597,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「中津川や馬籠への観光に便利な立地中津川宿、馬籠宿に便利。館内は、スリッパで綺麗、茶漬けサービスは良いよ他の画像やクチコミの詳細はこちらから https://review.travel.ra… 2026-09-30 16:35:01投稿 つづきはこちら」"}</span>
+                  <span>{"「中津川や馬籠への観光に便利な立地中津川宿、馬籠宿に便利。館内は、スリッパで綺麗、茶漬けサービスは良いよ他の画像や。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">

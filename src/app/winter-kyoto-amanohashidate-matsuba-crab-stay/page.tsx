@@ -48,8 +48,8 @@ export default function AmanohashidateWinterPage() {
         "headline": "【11・12月天橋立の白砂青松雪景色とカニ漁解禁】日本三景を望む冬の美肌湯・幻の間人ガニ＆寒ブリしゃぶしゃぶの宿5選",
         "description": "日本三景の筆頭・京都府丹後天橋立。11月6日の冬のズワイガニ漁解禁とともに美食の最高峰シーズンが開幕。松並木にうっすらと初雪が降り積もる「白砂青松の幻雪景」、地下1,500mから湧き出る茶褐色の美肌湯「天橋立温泉」、そして幻の極上「間人ガニ（たいざがに）」や丹後若狭湾の寒ブリしゃぶしゃぶを味わう至高の冬名宿ガイド。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
-        "datePublished": "2026-09-27T00:00:00+09:00",
-        "dateModified": "2026-09-27T00:00:00+09:00",
+        "datePublished": "T00:00:00+09:00",
+        "dateModified": "T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

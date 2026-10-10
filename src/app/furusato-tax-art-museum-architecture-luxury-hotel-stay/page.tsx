@@ -49,7 +49,7 @@ export default function FurusatoArtMuseumHotelStayPage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ベネッセハウス ＜直島＞」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ベネッセハウス ＜直島＞」へは、宮浦港から車で約１０分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「ベネッセハウス ＜直島＞」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ベネッセハウス ＜直島＞」は『ベネッセハウスは美術館とホテルが一体となった施設です。2022年には新ギャラリーもオープン』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ベネッセハウス ＜直島＞」と「箱根・強羅 佳ら久」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ベネッセハウス ＜直島＞」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ベネッセハウス ＜直島＞」へは、宮浦港から車で約１０分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「ベネッセハウス ＜直島＞」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ベネッセハウス ＜直島＞」は『ベネッセハウスは美術館とホテルが一体となった施設です。2022年には新ギャラリーもオープン。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ベネッセハウス ＜直島＞」と「箱根・強羅 佳ら久」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -72,7 +72,7 @@ export default function FurusatoArtMuseumHotelStayPage() {
             安藤忠雄建築や現代アートと眠る美術館ホテル＆アートリゾート×ふるさと納税完全ガイド【2026年最新】直島・箱根強羅・青森
           </h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
-            絵画や彫刻をただ眺めるだけでなく、美術館そのものに泊まり、夜の閉館後の静けさの中でアートと対話し、朝陽に照らされる名建築の美しさに目覚める――それが「美術館ホテル（ミュージアムホテル・アートリゾート）」の醍醐味です。瀬戸内海に浮かぶアートの聖地・直島で、世界的建築家・安藤忠雄氏の設計によるコンクリート打放しの建築とモネや草間彌生をはじめとする現代アートが融合した世界的名宿「ベネッセハウス」、箱根の山並みを望む強羅の地に佇み彫刻の森美術館やポーラ美術館のアート巡りの拠点として全室温泉露天風呂を備えるラグジュアリー旅館「箱根・強羅 佳ら久」、そして十和田市現代美術館や奥入瀬のアート散策拠点となり、岡本太郎作の巨大暖炉や職人によるねぶた絵画が館内を彩る「星野リゾート 青森屋」。日常の喧騒から離れ、感性を豊かに刺激する美の空間での滞在を、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を使って実質自己負担2,000円で賢く予約し、知的好奇心を満たす贅沢なアート紀行へ出かけましょう。
+            絵画や彫刻をただ眺めるだけでなく、美術館そのものに泊まり、夜の閉館後の静けさの中でアートと対話し、朝陽に照らされる名建築の美しさに目覚める――それが「美術館ホテル（ミュージアムホテル・アートリゾート）。」の醍醐味です。瀬戸内海に浮かぶアートの聖地・直島で、世界的建築家・安藤忠雄氏の設計によるコンクリート打放しの建築とモネや草間彌生をはじめとする現代アートが融合した世界的名宿「ベネッセハウス」、箱根の山並みを望む強羅の地に佇み彫刻の森美術館やポーラ美術館のアート巡りの拠点として全室温泉露天風呂を備えるラグジュアリー旅館「箱根・強羅 佳ら久」、そして十和田市現代美術館や奥入瀬のアート散策拠点となり、岡本太郎作の巨大暖炉や職人によるねぶた絵画が館内を彩る「星野リゾート 青森屋」。日常の喧騒から離れ、感性を豊かに刺激する美の空間での滞在を、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を使って実質自己負担2,000円で賢く予約し、知的好奇心を満たす贅沢なアート紀行へ出かけましょう。
           </p>
           <div className="flex flex-wrap gap-4 pt-4 border-t border-amber-900/50 text-xs text-amber-200/90 font-medium">
             <span>✓ 寄付額の最大30％相当が宿泊クーポンに</span>
@@ -317,12 +317,12 @@ export default function FurusatoArtMuseumHotelStayPage() {
                     青森の豊かな自然と伝統文化をまるごと体感できる星野リゾートの温泉宿。草間彌生やロン・ミュエクの巨大彫刻で世界的に注目される「十和田市現代美術館」への観光拠点として絶好の立地です。宿のラウンジには岡本太郎作の巨大な暖炉「森の神話」「河神」が堂々と鎮座し、館内各所に伝統のねぶた絵画や津軽裂織のアートが散りばめられています。池に浮かぶような開放的な露天風呂「浮湯」で源泉かけ流しの名湯に浸かり、青森名物のホタテや牛肉、郷土料理を味わうビュッフェとともに、北国のダイナミックな芸術文化に浸ることができます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「海鮮食べ放題と露天風呂、ねぶたショーに大満足海鮮のほたてとイカ、海老が入れ放題で大満足でした。ホタテがめっちゃ美味しかったです。露天風呂も最高な景色でした。ねぶたのショーもとても良かったです。… 2026-09-03 22:00:14投稿 …」
+                    「海鮮食べ放題と露天風呂、ねぶたショーに大満足海鮮のほたてとイカ、海老が入れ放題で大満足でした。ホタテがめっちゃ美味しかったです。露天風呂も最高な景色でした。ねぶたのショーもとても良かったです。…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
                     <div><strong>所在地:</strong> 青森県三沢市字古間木山56</div>
-                    <div><strong>アクセス:</strong> 三沢駅と三沢空港から無料送迎バスあり（3日前まで要予約）カーナビ用案内番号：0176-51-1111</div>
+                    <div><strong>アクセス:</strong> 三沢駅と三沢空港から無料送迎バスあり（3日前まで要予約）カーナビ用案内番号：11</div>
                     <div><strong>参考宿泊料金:</strong> 1名あたり約17,000円〜（時期・プランによる）</div>
                   </div>
                 </div>
@@ -481,7 +481,7 @@ export default function FurusatoArtMuseumHotelStayPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「ベネッセハウス ＜直島＞」は『ベネッセハウスは美術館とホテルが一体となった施設です。2022年には新ギャラリーもオープン』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「ベネッセハウス ＜直島＞」は『ベネッセハウスは美術館とホテルが一体となった施設です。2022年には新ギャラリーもオープン。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

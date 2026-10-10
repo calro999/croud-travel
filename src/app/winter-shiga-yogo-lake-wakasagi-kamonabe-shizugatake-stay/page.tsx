@@ -318,7 +318,7 @@ export default function FeaturePage() {
                     
                 <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「夕食の提供が遅く、価格に見合わない内容夕食のスタッフが不足しており、なかなか出てこなかった。夕食を楽しみにしていたので残念だった。総合的に普通だが、宿泊代は安くはないため星2とした。クチコミの…　2026-09-29 23:45:36投稿 …」"}</p>
+                  <p className="leading-relaxed">{"「夕食の提供が遅く、価格に見合わない内容夕食のスタッフが不足しており、なかなか出てこなかった。総合的に普通だが、宿泊代は安くはないため星2とした。クチコミの…。」"}</p>
                 </div>
             
                   </div>
@@ -491,7 +491,7 @@ export default function FeaturePage() {
                     
                 <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「素敵なホテルですクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/179000?reviewId=331234794996…　2026-09-24 09:36:55投…」"}</p>
+                  <p className="leading-relaxed">{"「落ち着いた心地よい空間の中、温かい温泉とおいしいお料理で日頃の疲れを癒やすことができました。」"}</p>
                 </div>
             
                   </div>
@@ -552,7 +552,7 @@ export default function FeaturePage() {
                     
                 <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「送迎や丁寧な接客、豪華な食事に大満足夫婦でお世話になりました。駅までの送迎はもちろん、観光地までの送迎もしていただき、大変助かりました。お部屋のサービスも行き届いており、スタッフの方の丁寧なお心遣…　2026-09-23 06:55:05投…」"}</p>
+                  <p className="leading-relaxed">{"「送迎や丁寧な接客、豪華な食事に大満足夫婦でお世話になりました。駅までの送迎はもちろん、観光地までの送迎もしていただき、大変助かりました。お部屋のサービスも行き届いており、スタッフの方の丁寧なお心遣… 投。」"}</p>
                 </div>
             
                   </div>

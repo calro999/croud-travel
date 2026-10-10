@@ -232,7 +232,7 @@ export default function WinterFeaturePage() {
 
             <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700 leading-relaxed">
               <span className="font-bold text-amber-900 block mb-1">宿泊者のクチコミ抜粋:</span>
-              「丁寧な対応と美味しい食事で心地よい時間とても丁寧に対応いただき、細かな配慮もありがたく、心地よく過ごすことができました。お食事も美味しく、とても良い時間を過ごせました。クチコミの詳細はこち… 2026-08-15 05:59:01投稿 つづきはこちら」
+              「丁寧な対応と美味しい食事で心地よい時間とても丁寧に対応いただき、細かな配慮もありがたく、心地よく過ごすことができました。お食事も美味しく、とても良い時間を過ごせました。クチコミの詳細はこち。」
             </div>
 
                   <div className="mt-3 pt-3 border-t border-stone-100 text-[11px] text-stone-500 space-y-0.5">
@@ -360,7 +360,7 @@ export default function WinterFeaturePage() {
 
             <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700 leading-relaxed">
               <span className="font-bold text-amber-900 block mb-1">宿泊者のクチコミ抜粋:</span>
-              「吉野山散策の食事と心遣いに大満足吉野山散策の折に友人とお世話になりました。お食事がとても良かったです!夜は量少なめのプランでしたが友人ともども大満足でした。個性的なお料理で美味しかったです。送迎も… 2026-09-21 09:49:24投稿 つづきはこちら」
+              「吉野山散策の食事と心遣いに大満足吉野山散策の折に友人とお世話になりました。お食事がとても良かったです!夜は量少なめのプランでしたが友人ともども大満足でした。個性的なお料理で美味しかったです。送迎も。」
             </div>
 
                   <div className="mt-3 pt-3 border-t border-stone-100 text-[11px] text-stone-500 space-y-0.5">
@@ -426,7 +426,7 @@ export default function WinterFeaturePage() {
 
             <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700 leading-relaxed">
               <span className="font-bold text-amber-900 block mb-1">宿泊者のクチコミ抜粋:</span>
-              「料理と接客は最高だが部屋のニオイが残念まず料理が素晴らしかったです。一品一品丁寧に作られており、見た目も綺麗で味もとても美味しく、食材も地のものが色々使われていたり、鹿のたたきなんかもあってどれも… 2026-09-08 00:15:46投稿 つづきはこちら」
+              「一品一品丁寧に作られており、見た目も綺麗で味もとても美味しく、食材も地のものが色々使われていたり、鹿のたたきなんかもあってどれも。」
             </div>
 
                   <div className="mt-3 pt-3 border-t border-stone-100 text-[11px] text-stone-500 space-y-0.5">

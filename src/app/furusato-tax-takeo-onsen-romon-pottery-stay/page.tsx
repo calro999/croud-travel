@@ -39,8 +39,8 @@ export default function FurusatoArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-10T16:48:00+09:00',
-    dateModified: '2026-09-10T16:48:00+09:00',
+    datePublished: 'T16:48:00+09:00',
+    dateModified: 'T16:48:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-takeo-onsen-romon-pottery-stay',
   };
 
@@ -49,7 +49,7 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「武雄温泉 大正浪漫の宿 京都屋」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「武雄温泉 大正浪漫の宿 京都屋」へは、JR佐世保線武雄温泉駅下車徒歩8分。最寄りの武雄温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「武雄温泉 大正浪漫の宿 京都屋」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「武雄温泉 大正浪漫の宿 京都屋」は『古き良き大正時代を思わせる宿。無料モーニングサービスあり。25年6月男女大浴場にドライサウ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「武雄温泉 大正浪漫の宿 京都屋」と「武雄温泉 ホテル春慶屋」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「武雄温泉 大正浪漫の宿 京都屋」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「武雄温泉 大正浪漫の宿 京都屋」へは、JR佐世保線武雄温泉駅下車徒歩8分。最寄りの武雄温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「武雄温泉 大正浪漫の宿 京都屋」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「武雄温泉 大正浪漫の宿 京都屋」は『古き良き大正時代を思わせる宿。無料モーニングサービスあり。25年6月男女大浴場にドライサウ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「武雄温泉 大正浪漫の宿 京都屋」と「武雄温泉 ホテル春慶屋」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -203,7 +203,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.39点、口コミ1200件超。「レトロなアンティークの雰囲気が最高で珈琲も美味しい」「お風呂のお湯がトロトロで接客も温かかった」と大人気です。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.39点、口コミ1200件超。「レトロなアンティークの雰囲気が最高で珈琲も美味しい。」「お風呂のお湯がトロトロで接客も温かかった。」と大人気です。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -287,7 +287,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.42点、口コミ1100件超。「最上階のお風呂からの眺めが素晴らしくお湯も最高」「お料理の佐賀牛がとても美味しくスタッフも親切だった」と評判。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.42点、口コミ1100件超。「最上階のお風呂からの眺めが素晴らしくお湯も最高。」「お料理の佐賀牛がとても美味しくスタッフも親切だった。」と評判。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.33点。「楼門が目の前で観光に最高のロケーション」「女将さんの接客が温かく、お風呂もお湯が良くてとても落ち着けた」と好評です。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.33点。「楼門が目の前で観光に最高のロケーション」「女将さんの接客が温かく、お風呂もお湯が良くてとても落ち着けた。」と好評です。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -578,7 +578,7 @@ export default function FurusatoArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「武雄温泉 大正浪漫の宿 京都屋」は『古き良き大正時代を思わせる宿。無料モーニングサービスあり。25年6月男女大浴場にドライサウ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「武雄温泉 大正浪漫の宿 京都屋」は『古き良き大正時代を思わせる宿。無料モーニングサービスあり。25年6月男女大浴場にドライサウ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

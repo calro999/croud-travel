@@ -72,8 +72,8 @@ export default function KusatsuOnsenWinterPage() {
         "headline": "【11・12月草津温泉の冬名湯と湯畑ライトアップ】湯畑の冬幻想イルミ・湯けむり露天と極上上州牛すき焼き・群馬地酒の宿5選",
         "description": "11月から12月にかけて日本屈指の名湯・草津温泉は湯畑から立ち上る真っ白な湯煙と初冬の幻想的なイルミネーションに包まれます。標高1,200mの澄んだ冷気の中で楽しむ酸性・含硫黄・アルミニウム・硫酸塩・塩化物温泉の圧倒的な温まり効果、天下の名湯「湯畑源泉」「万代鉱源泉」「西の河原源泉」の湯巡り、最高級「上州牛」のすき焼きや陶板ステーキ、群馬の銘酒を堪能する極上名宿5選を徹底解説。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
-        "datePublished": "2026-09-28T00:00:00+09:00",
-        "dateModified": "2026-09-28T00:00:00+09:00",
+        "datePublished": "T00:00:00+09:00",
+        "dateModified": "T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

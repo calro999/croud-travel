@@ -185,7 +185,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.30点、口コミ1700件超。「石段街直結の立地が最高で二つの源泉にも大満足」「お部屋の眺望が良くスタッフの対応も格式を感じた」と高い評価を得ています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.30点、口コミ1700件超。「石段街直結の立地が最高で二つの源泉にも大満足。」「お部屋の眺望が良くスタッフの対応も格式を感じた。」と高い評価を得ています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -279,7 +279,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.75点という驚異の高スコア。「お風呂の種類がとにかく多く温泉好きにはパラダイス」「館内が非常に清潔で料理も美味しく接客も満点」と圧倒的な満足度を誇ります。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.75点という驚異の高スコア。「お風呂の種類がとにかく多く温泉好きにはパラダイス。」「館内が非常に清潔で料理も美味しく接客も満点。」と圧倒的な満足度を誇ります。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -373,7 +373,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.49点、口コミ1600件超。「黄金の湯のお湯が本当に素晴らしく体が温まる」「石段街のすぐ横で観光に最高だった」と根強いリピーターを抱えています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.49点、口コミ1600件超。「黄金の湯のお湯が本当に素晴らしく体が温まる。」「石段街のすぐ横で観光に最高だった」と根強いリピーターを抱えています。</p>
               </div>
 
               {/* 宿基本情報 */}

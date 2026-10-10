@@ -67,8 +67,8 @@ export default function ShirahoneWinterPage() {
         "headline": "【11・12月白骨温泉の北アルプス初冬雪景色と乳白色秘湯】3日入れば3年風邪ひかぬ霊泉・信州プレミアム牛＆投汁そばの宿5選",
         "description": "北アルプス乗鞍岳の山懐、標高1,400メートルの深い原生林に抱かれた日本屈指の秘湯「白骨温泉」。「3日入れば3年風邪をひかない」と謳われる乳白色の炭酸水素塩泉。11月中旬の初雪から12月の白銀静寂世界に浸る雪見露天風呂と、信州プレミアム牛＆名物投汁そばに心温まる名宿ガイド。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
-        "datePublished": "2026-09-27T00:00:00+09:00",
-        "dateModified": "2026-09-27T00:00:00+09:00",
+        "datePublished": "T00:00:00+09:00",
+        "dateModified": "T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

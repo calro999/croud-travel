@@ -55,7 +55,7 @@ export default function FujiClimbingPackingRegretsPage() {
       mistake: "スニーカーで登る、または登山靴の紐を登りの緩い状態のまま下り始める。",
       solution: [
         "普段の靴より0.5〜1.0cm大きめのトレッキングシューズ＋厚手ウール登山靴下を着用する",
-        "下山開始前に『かかとをトントンして密着させ、甲〜足首を固めに締め直す』",
+        "下山開始前に『かかとをトントンして密着させ、甲〜足首を固めに締め直す。』",
         "トレッキングポール（ストック2本）を使って下半身への衝撃を両腕に分散させる",
         "ショートスパッツ（ゲイター）を装着し、砂利が靴内に入って靴擦れを起こすのを完全遮断する",
       ],
@@ -81,7 +81,7 @@ export default function FujiClimbingPackingRegretsPage() {
       catchphrase: "御来光アタックの午前1時は真っ暗闇。スマホライト登攀はマナー違反＆重大事故の元",
       reality:
         "山小屋から山頂を目指す深夜1時〜3時は、街灯など一切ない完全な漆黒の世界。岩場をよじ登る八合目〜本八合目では両手を開けて三点支持を保つ必要があります。スマホのライトを片手に持って登るとバランスを崩した際に滑落する危険がある上、氷点下近くの低温でスマホのバッテリーが急激に0%に落ち、遭難・撮影不能になります。",
-      mistake: "「スマホのライトがあるからヘッドランプは買わなくても大丈夫」と過信。",
+      mistake: "「スマホのライトがあるからヘッドランプは買わなくても大丈夫。」と過信。",
       solution: [
         "200ルーメン以上の明るさを持つ登山用ヘッドライトを必ず準備する",
         "低温下でも作動する新品アルカリ乾電池、または予備バッテリーを胸ポケット（体温で保温）に携帯",
@@ -245,7 +245,7 @@ export default function FujiClimbingPackingRegretsPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「高山病・下山時の爪割れ・ヘッドライト忘れ！登頂成功の持ち物チェックリスト」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「高山病・下山時の爪割れ・ヘッドライト忘れ！登頂成功の持ち物チェックリスト。」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
       />
         <SpecialCouponBanner variant="prominent" />
 
@@ -586,7 +586,7 @@ export default function FujiClimbingPackingRegretsPage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「高山病・下山時の爪割れ・ヘッドライト忘れ！登頂成功の持ち物チェックリスト」を効率よく巡るコツは？</span>
+                <span>Q. 「高山病・下山時の爪割れ・ヘッドライト忘れ！登頂成功の持ち物チェックリスト。」を効率よく巡るコツは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">

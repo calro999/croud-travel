@@ -73,7 +73,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「旅館 松島」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「旅館 松島」へは、新幹線 新横浜駅より横浜市営地下鉄で蒔田駅下車徒歩3分 その他路線 横浜駅より横浜市営地下鉄乗り換えで徒歩3分。最寄りの蒔田（神奈川）駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「旅館 松島」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「旅館 松島」は『閑静な環境ですが、地下鉄一本で観光地・繁華街へ出られます☆畳と木のぬくもりの中で寛ぎのひと』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「旅館 松島」と「松島温泉 ホテル大松荘」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「旅館 松島」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「旅館 松島」へは、新幹線 新横浜駅より横浜市営地下鉄で蒔田駅下車徒歩3分 その他路線 横浜駅より横浜市営地下鉄乗り換えで徒歩3分。最寄りの蒔田（神奈川）駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「旅館 松島」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「旅館 松島」は『閑静な環境ですが、地下鉄一本で観光地・繁華街へ出られます☆畳と木のぬくもりの中で寛ぎのひと。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「旅館 松島」と「松島温泉 ホテル大松荘」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
 
         {/* セクション 1 */}
@@ -757,7 +757,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「旅館 松島」は『閑静な環境ですが、地下鉄一本で観光地・繁華街へ出られます☆畳と木のぬくもりの中で寛ぎのひと』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「旅館 松島」は『閑静な環境ですが、地下鉄一本で観光地・繁華街へ出られます☆畳と木のぬくもりの中で寛ぎのひと。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

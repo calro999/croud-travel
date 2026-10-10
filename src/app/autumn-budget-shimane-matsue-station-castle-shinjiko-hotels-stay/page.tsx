@@ -147,7 +147,7 @@ export default function AutumnBudgetHotelsPage() {
           </div>
         </div>
 
-        {/* 宿2: ダイワロイネットホテル松江駅前（２０２６年８月６日新規開業） */}
+        {/* 宿2: ダイワロイネットホテル松江駅前（新規開業） */}
         <div className="bg-white rounded-2xl border border-slate-200 overflow-hidden shadow-sm hover:shadow-md transition">
           <div className="p-6 space-y-4">
             <div className="flex flex-wrap items-center justify-between gap-2 border-b border-slate-100 pb-3">
@@ -162,7 +162,7 @@ export default function AutumnBudgetHotelsPage() {
               <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/198873/198873.jpg"
-                  alt="ダイワロイネットホテル松江駅前（２０２６年８月６日新規開業）"
+                  alt="ダイワロイネットホテル松江駅前（新規開業）"
                   fill
                   className="object-cover"
                   sizes="(max-width: 768px) 100vw, 360px"
@@ -170,7 +170,7 @@ export default function AutumnBudgetHotelsPage() {
               </div>
               <div className="md:col-span-7 space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  ダイワロイネットホテル松江駅前（２０２６年８月６日新規開業）
+                  ダイワロイネットホテル松江駅前（新規開業）
                 </h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />

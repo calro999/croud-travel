@@ -185,7 +185,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.14点、口コミ1300件超。「広大な館内の雰囲気が素晴らしい」「お湯が本当に化粧水のようで、お茶のカフェラウンジも居心地最高だった」と高い満足度を獲得しています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.14点、口コミ1300件超。「広大な館内の雰囲気が素晴らしい」「お湯が本当に化粧水のようで、お茶のカフェラウンジも居心地最高だった。」と高い満足度を獲得しています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -279,7 +279,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.46点、口コミ1200件超。「建物の美しさと清潔感、スタッフの洗練された所作に感動した」「朝の湯豆腐の美味しさは一生忘れられない」と絶賛されています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.46点、口コミ1200件超。「建物の美しさと清潔感、スタッフの洗練された所作に感動した。」「朝の湯豆腐の美味しさは一生忘れられない」と絶賛されています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -373,7 +373,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.33点。「お茶風呂の香りがとても良く肌がツルツルになった」「お茶の演出が随所にあり料理も美味しく大満足」と女性やカップルから大好評です。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.33点。「お茶風呂の香りがとても良く肌がツルツルになった。」「お茶の演出が随所にあり料理も美味しく大満足。」と女性やカップルから大好評です。</p>
               </div>
 
               {/* 宿基本情報 */}

@@ -62,7 +62,7 @@ export default function FurusatoGeroOnsenBihadaStayPage() {
           日本三名泉・天下の名湯！下呂温泉の美肌の湯めぐり＆国登録有形文化財・極上飛騨牛会席×ふるさと納税完全攻略ガイド【2026年最新】水明館・望川館・湯之島館
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-10">2026年9月10日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -164,7 +164,7 @@ export default function FurusatoGeroOnsenBihadaStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “館内の素晴らしさと温泉三昧で大満足水明館は一人旅にはちょっと泊まりにくい宿のイメージがあり今回初の宿泊をさせてもらいました。さすがに館内素晴らしく驚嘆せざるを得ませんでした.三箇所ある温泉もどれも…　2026-09-05 19:47:53投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “館内の素晴らしさと温泉三昧で大満足水明館は一人旅にはちょっと泊まりにくい宿のイメージがあり今回初の宿泊をさせてもらいました。さすがに館内素晴らしく驚嘆せざるを得ませんでした.三箇所ある温泉もどれも… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -206,7 +206,7 @@ export default function FurusatoGeroOnsenBihadaStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “間近で見る花火と改装後の快適な部屋花火が間近に見られる部屋で、料金も非常にリーズナブルでした。部屋も改装後で大変快適に過ごすことができました。クチコミの詳細はこちらから　https://r…　2026-09-05 08:16:58投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “間近で見る花火と改装後の快適な部屋花火が間近に見られる部屋で、料金も非常にリーズナブルでした。部屋も改装後で大変快適に過ごすことができました。 ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -248,7 +248,7 @@ export default function FurusatoGeroOnsenBihadaStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “レトロとモダンな館内と温泉に大満足下呂に行ったら一度は泊まってみたい旅館でした。スタンプラリーがあるおかげで遠慮なく館内が散策できてよかったです。レトロとモダンを堪能できました。部屋は本館で、入っ…　2026-09-02 20:34:26投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “レトロとモダンな館内と温泉に大満足下呂に行ったら一度は泊まってみたい旅館でした。スタンプラリーがあるおかげで遠慮なく館内が散策できてよかったです。レトロとモダンを堪能できました。部屋は本館で、入っ… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -323,7 +323,7 @@ export default function FurusatoGeroOnsenBihadaStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

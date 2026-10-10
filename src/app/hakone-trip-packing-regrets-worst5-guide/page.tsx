@@ -51,12 +51,12 @@ export default function HakoneTripPackingRegretsPage() {
       title: "大涌谷ロープウェイが強風・火山ガスで突然運休！山中で立ち往生",
       catchphrase: "箱根の山頂は別世界。下界が晴天でも風速15m超や火山性ガス濃度上昇で即停止",
       reality:
-        "箱根観光のハイライト「早雲山〜大涌谷〜桃源台」を結ぶ箱根ロープウェイは、山特有の突風や濃霧、火山ガスの基準値超過で年間数十日運休します。「ロープウェイで芦ノ湖へ抜けて海賊船に乗る」黄金ルートを前提に組んでいた旅行者が早雲山駅で足止めされ、代替バスを待つ長蛇の列で2時間以上浪費する悲劇が日常茶飯事です。",
+        "箱根観光のハイライト「早雲山〜大涌谷〜桃源台」を結ぶ箱根ロープウェイは、山特有の突風や濃霧、火山ガスの基準値超過で年間数十日運休します。「ロープウェイで芦ノ湖へ抜けて海賊船に乗る。」黄金ルートを前提に組んでいた旅行者が早雲山駅で足止めされ、代替バスを待つ長蛇の列で2時間以上浪費する悲劇が日常茶飯事です。",
       mistake: "運行状況を朝チェックせず、運休時の「迂回バスルート」を把握していない。",
       solution: [
         "旅行当日の朝、箱根ナビ（Hakone Navi）のリアルタイム運行情報を必ずブックマーク確認する",
         "早雲山で運休になった場合、直ちに箱根登山バス（強羅駅経由または直行代行バス）へ切り替える",
-        "強風予報の日は「強羅・小涌谷の屋内美術館（ポーラ美術館、彫刻の森、岡田美術館）」をメインに再編する",
+        "強風予報の日は「強羅・小涌谷の屋内美術館（ポーラ美術館、彫刻の森、岡田美術館）。」をメインに再編する",
         "天候が不安定な日は、反時計回り（元箱根・芦ノ湖側から先に攻める）で大涌谷を午後一番に通過する",
       ],
       mustItem: "箱根ナビ運行情報ブックマーク ＋ 防寒ウインドブレーカー（山の突風対策）",
@@ -66,7 +66,7 @@ export default function HakoneTripPackingRegretsPage() {
       title: "17時で全店クローズ！夕食難民になりコンビニ飯で済ませる悲劇",
       catchphrase: "箱根の夜は驚くほど早い。箱根湯本駅前も強羅も、17時〜18時にはシャッター街に",
       reality:
-        "東京近郊の感覚で「夕方温泉に入って、19時頃に駅前で名物の蕎麦や海鮮丼を食べよう」と考えて素泊まりプランにすると痛い目を見ます。箱根湯本商店街も強羅駅前も、大半の飲食店やカフェは17:00〜17:30にラストオーダー。夜間営業している数軒の居酒屋やレストランは予約客で満席、山間の坂道で夜間真っ暗な中、コンビニを求めて彷徨う観光客が後を絶ちません。",
+        "東京近郊の感覚で「夕方温泉に入って、19時頃に駅前で名物の蕎麦や海鮮丼を食べよう。」と考えて素泊まりプランにすると痛い目を見ます。箱根湯本商店街も強羅駅前も、大半の飲食店やカフェは17:00〜17:30にラストオーダー。夜間営業している数軒の居酒屋やレストランは予約客で満席、山間の坂道で夜間真っ暗な中、コンビニを求めて彷徨う観光客が後を絶ちません。",
       mistake: "朝食のみ・素泊まりで宿を予約し、夕食の店を予約せずに現地入りする。",
       solution: [
         "箱根の旅館・ホテルは原則『1泊2食付き（夕朝食付き）』プランを強く推奨",
@@ -100,7 +100,7 @@ export default function HakoneTripPackingRegretsPage() {
       mistake: "行きの切符だけ買って、帰りのロマンスカーを現地で買おうと後回しにする。",
       solution: [
         "旅行の1ヶ月前（乗車日1ヶ月前の午前10:00予約開始）に帰りのロマンスカー指定席を最優先確保する",
-        "満席の場合は『小田原駅発の東海道新幹線（こだま/ひかり）』に切り替えると東京駅まで35分で座って帰れる",
+        "満席の場合は『小田原駅発の東海道新幹線（こだま/ひかり）。』に切り替えると東京駅まで35分で座って帰れる",
         "小田急「e-Romancecar」サイトで当日直前のキャンセル戻り席を粘り強くリロードする",
       ],
       mustItem: "小田急e-Romancecarブックマーク ＋ EX予約アプリ（小田原〜新幹線バックアップ）",
@@ -221,7 +221,7 @@ export default function HakoneTripPackingRegretsPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「大涌谷ロープウェイ強風運休＆夕方カフェ難民！渋滞回避の知恵袋」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「大涌谷ロープウェイ強風運休＆夕方カフェ難民！渋滞回避の知恵袋。」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
       />
         <SpecialCouponBanner variant="prominent" />
 
@@ -539,7 +539,7 @@ export default function HakoneTripPackingRegretsPage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「大涌谷ロープウェイ強風運休＆夕方カフェ難民！渋滞回避の知恵袋」を効率よく巡るコツは？</span>
+                <span>Q. 「大涌谷ロープウェイ強風運休＆夕方カフェ難民！渋滞回避の知恵袋。」を効率よく巡るコツは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">

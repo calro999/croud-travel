@@ -49,7 +49,7 @@ export default function FurusatoRound63ArticlePage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「二日市温泉 大丸別荘」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「二日市温泉 大丸別荘」へは、「福岡空港」より高速バスで約30分 「博多駅」よりＪＲ線利用で20分 「福岡天神駅」より西鉄電車利用で30分。最寄りの二日市駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「二日市温泉 大丸別荘」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「二日市温泉 大丸別荘」は『◇博多駅から20分◇源泉かけ流し天然温泉◇和の心を継ぐ宿 福岡 ◇』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「二日市温泉 大丸別荘」と「京都ブライトンホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「二日市温泉 大丸別荘」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「二日市温泉 大丸別荘」へは、「福岡空港」より高速バスで約30分 「博多駅」よりＪＲ線利用で20分 「福岡天神駅」より西鉄電車利用で30分。最寄りの二日市駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「二日市温泉 大丸別荘」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「二日市温泉 大丸別荘」は『◇博多駅から20分◇源泉かけ流し天然温泉◇和の心を継ぐ宿 福岡 ◇。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「二日市温泉 大丸別荘」と「京都ブライトンホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -190,7 +190,7 @@ export default function FurusatoRound63ArticlePage() {
                     二日市温泉　大丸別荘
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「部屋も料理も温泉も最高、両親も大満足!部屋・料理・温泉のすべてが最高で、両親も大満足の旅になりました!クチコミの詳細はこちらから https://review.travel.rakuten.c… 2026-08-30 15:00:56投稿 つづきはこちら…」
+                    「部屋も料理も温泉も最高、両親も大満足!部屋・料理・温泉のすべてが最高で、両親も大満足の旅になりました!」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -245,7 +245,7 @@ export default function FurusatoRound63ArticlePage() {
                     京都ブライトンホテル
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「GOODでした。ホテルの方の対応、大変心地よく素晴らしかったです。朝食付きプランで、和食懐石を選んでみました。物足りなかったらどうしよう、と思っていましたが、1つ1つに拘りが感じられて… 2026-09-05 17:32:45投稿 つづきはこちら…」
+                    「GOODでした。ホテルの方の対応、大変心地よく素晴らしかったです。朝食付きプランで、和食懐石を選んでみました。物足りなかったらどうしよう、と思っていましたが、1つ1つに拘りが感じられて…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -300,7 +300,7 @@ export default function FurusatoRound63ArticlePage() {
                     防府グランドホテル
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「朝食は美味しく防音も万全だが融通は利かず当日、結婚式に出席するために利用しました。気温が暑いことが予想されたので、早めにお部屋を使わせてもらえないかと連絡してみましたが、答えはNOでした。待た… 2026-09-01 16:22:28投稿 つづきはこちら…」
+                    「朝食は美味しく防音も万全だが融通は利かず当日、結婚式に出席するために利用しました。気温が暑いことが予想されたので、早めにお部屋を使わせてもらえないかと連絡してみましたが、答えはNOでした。待た…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -463,7 +463,7 @@ export default function FurusatoRound63ArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「二日市温泉 大丸別荘」は『◇博多駅から20分◇源泉かけ流し天然温泉◇和の心を継ぐ宿 福岡 ◇』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「二日市温泉 大丸別荘」は『◇博多駅から20分◇源泉かけ流し天然温泉◇和の心を継ぐ宿 福岡 ◇。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

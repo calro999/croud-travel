@@ -4,14 +4,14 @@ import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: '渡月橋と竹林の小径の静寂！京都嵐山温泉の保津川一望ラグジュアリー＆老舗料理旅館×ふるさと納税完全攻略ガイド【2026年最新】翠嵐・花伝抄・辨慶',
-  description: '四季折々の雅が息づく平安の保養地・京都嵐山！渡月橋の借景と竹林の小径散策。「翠嵐 ラグジュアリーコレクションホテル 京都」「京都 嵐山温泉 花伝抄」「嵐山温泉 嵐山辨慶」を、京都府京都市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。露天風呂付客室、五つの貸切風呂、本格京料理会席を満喫。',
+  description: '四季折々の雅が息づく平安の保養地・京都嵐山！渡月橋の借景と竹林の小径散策。「翠嵐 ラグジュアリーコレクションホテル 京都。」「京都 嵐山温泉 花伝抄」「嵐山温泉 嵐山辨慶」を、京都府京都市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。露天風呂付客室、五つの貸切風呂、本格京料理会席を満喫。',
   keywords: ["2026年最新", "翠嵐", "花伝抄", "辨慶", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kyoto-arashiyama-bamboo-luxury-stay/",
   },
   openGraph: {
     title: '渡月橋と竹林の小径の静寂！京都嵐山温泉の保津川一望ラグジュアリー＆老舗料理旅館×ふるさと納税完全攻略ガイド【2026年最新】翠嵐・花伝抄・辨慶',
-    description: '四季折々の雅が息づく平安の保養地・京都嵐山！渡月橋の借景と竹林の小径散策。「翠嵐 ラグジュアリーコレクションホテル 京都」「京都 嵐山温泉 花伝抄」「嵐山温泉 嵐山辨慶」を、京都府京都市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。露天風呂付客室、五つの貸切風呂、本格京料理会席を満喫。',
+    description: '四季折々の雅が息づく平安の保養地・京都嵐山！渡月橋の借景と竹林の小径散策。「翠嵐 ラグジュアリーコレクションホテル 京都。」「京都 嵐山温泉 花伝抄」「嵐山温泉 嵐山辨慶」を、京都府京都市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。露天風呂付客室、五つの貸切風呂、本格京料理会席を満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kyoto-arashiyama-bamboo-luxury-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
@@ -25,7 +25,7 @@ export default function FurusatoKyotoArashiyamaBambooStayPage() {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "渡月橋と竹林の小径の静寂！京都嵐山温泉の保津川一望ラグジュアリー＆老舗料理旅館×ふるさと納税完全攻略ガイド【2026年最新】翠嵐・花伝抄・辨慶",
-    "description": "四季折々の雅が息づく平安の保養地・京都嵐山！渡月橋の借景と竹林の小径散策。「翠嵐 ラグジュアリーコレクションホテル 京都」「京都 嵐山温泉 花伝抄」「嵐山温泉 嵐山辨慶」を、京都府京都市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。露天風呂付客室、五つの貸切風呂、本格京料理会席を満喫。",
+    "description": "四季折々の雅が息づく平安の保養地・京都嵐山！渡月橋の借景と竹林の小径散策。「翠嵐 ラグジュアリーコレクションホテル 京都。」「京都 嵐山温泉 花伝抄」「嵐山温泉 嵐山辨慶」を、京都府京都市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。露天風呂付客室、五つの貸切風呂、本格京料理会席を満喫。",
     "url": "https://croud-travel.pages.dev/furusato-tax-kyoto-arashiyama-bamboo-luxury-stay/",
     "publisher": {
       "@type": "Organization",
@@ -62,7 +62,7 @@ export default function FurusatoKyotoArashiyamaBambooStayPage() {
           渡月橋と竹林の小径の静寂！京都嵐山温泉の保津川一望ラグジュアリー＆老舗料理旅館×ふるさと納税完全攻略ガイド【2026年最新】翠嵐・花伝抄・辨慶
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-10">2026年9月10日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -77,7 +77,7 @@ export default function FurusatoKyotoArashiyamaBambooStayPage() {
           保津川のせせらぎ、渡月橋を渡る風、青々と茂る竹林の小径。千年の雅に包まれる嵐山温泉の極上休日へ
         </h2>
         <p className="text-base md:text-lg text-gray-800 leading-relaxed mb-6">
-          かつて平安貴族たちが別荘を構え、風流を尽くした風光明媚の地「京都・嵐山（あらしやま）」。大堰川（保津川）に優美に架かる「渡月橋」、青竹が天を覆い涼やかな木漏れ日が降り注ぐ「竹林の小径」、そして世界遺産・天龍寺の壮大な回遊式庭園など、歩く先々で日本の美意識の粋に出会える古都屈指の観光名所です。この嵐山の奥座敷で愛され続けているのが、しっとりとした湯触りが心地よい「嵐山温泉」。弱アルカリ性の単純温泉は「美肌の湯」として親しまれ、観光で歩き疲れた体をやさしく包み込んで解きほぐしてくれます。夕暮れの保津川沿いで鵜飼の篝火を眺めたり、早朝の観光客が少ない竹林を散策したりできるのは、嵐山に宿泊する旅人だけに許された特別な贅沢。さらに食事は、京都の伝統工芸のような美しさを誇る本格京料理会席。旬の京野菜、湯葉、生麩、厳選された京都肉を、四季の彩りとともに器に映し出した料理の数々は、まさに五感で味わう芸術品です。本特集では、保津川のほとりに佇みプライベート温泉露天風呂付き客室と歴史的建造物カフェを誇る世界最高峰のラグジュアリーホテル「翠嵐 ラグジュアリーコレクションホテル 京都」、阪急嵐山駅徒歩1分・全館畳敷きで5つの趣異なる無料貸切風呂と四季の京会席が評判の「京都 嵐山温泉 花伝抄」、そして大堰川の清流を正面に望み伝統の京懐石と嵐山温泉の檜露天風呂を堪能できる老舗料理旅館「嵐山温泉 嵐山辨慶」の3宿を厳選。京都府京都市への楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円で憧れの嵐山ステイをお得に予約しましょう。
+          かつて平安貴族たちが別荘を構え、風流を尽くした風光明媚の地「京都・嵐山（あらしやま）」。大堰川（保津川）に優美に架かる「渡月橋」、青竹が天を覆い涼やかな木漏れ日が降り注ぐ「竹林の小径」、そして世界遺産・天龍寺の壮大な回遊式庭園など、歩く先々で日本の美意識の粋に出会える古都屈指の観光名所です。この嵐山の奥座敷で愛され続けているのが、しっとりとした湯触りが心地よい「嵐山温泉」。弱アルカリ性の単純温泉は「美肌の湯」として親しまれ、観光で歩き疲れた体をやさしく包み込んで解きほぐしてくれます。夕暮れの保津川沿いで鵜飼の篝火を眺めたり、早朝の観光客が少ない竹林を散策したりできるのは、嵐山に宿泊する旅人だけに許された特別な贅沢。さらに食事は、京都の伝統工芸のような美しさを誇る本格京料理会席。旬の京野菜、湯葉、生麩、厳選された京都肉を、四季の彩りとともに器に映し出した料理の数々は、まさに五感で味わう芸術品です。本特集では、保津川のほとりに佇みプライベート温泉露天風呂付き客室と歴史的建造物カフェを誇る世界最高峰のラグジュアリーホテル「翠嵐 ラグジュアリーコレクションホテル 京都。」、阪急嵐山駅徒歩1分・全館畳敷きで5つの趣異なる無料貸切風呂と四季の京会席が評判の「京都 嵐山温泉 花伝抄」、そして大堰川の清流を正面に望み伝統の京懐石と嵐山温泉の檜露天風呂を堪能できる老舗料理旅館「嵐山温泉 嵐山辨慶」の3宿を厳選。京都府京都市への楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円で憧れの嵐山ステイをお得に予約しましょう。
         </p>
         <div className="bg-white/90 rounded-xl p-4 md:p-5 border border-amber-300 shadow-sm">
           <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5">
@@ -108,7 +108,7 @@ export default function FurusatoKyotoArashiyamaBambooStayPage() {
         <ol className="list-decimal list-inside space-y-2 text-sm text-gray-700">
           <li><a href="#three-points" className="text-amber-800 hover:underline font-medium">京都嵐山 渡月橋＆名門旅館特集が選ばれる3つの理由</a></li>
           <li><a href="#hotel-1" className="text-amber-800 hover:underline font-medium">【第1選】翠嵐ラグジュアリーコレクションホテル京都</a></li>
-          <li><a href="#hotel-2" className="text-amber-800 hover:underline font-medium">【第2選】京都　嵐山温泉　花伝抄（共立リゾート）（２０２６年５月１日リニューアルオープン）</a></li>
+          <li><a href="#hotel-2" className="text-amber-800 hover:underline font-medium">【第2選】京都　嵐山温泉　花伝抄（共立リゾート）（リニューアルオープン）</a></li>
           <li><a href="#hotel-3" className="text-amber-800 hover:underline font-medium">【第3選】嵐山温泉　嵐山辨慶</a></li>
           <li><a href="#furusato-step" className="text-amber-800 hover:underline font-medium">実質自己負担2,000円で予約する簡単4ステップ手順</a></li>
           <li><a href="#faq" className="text-amber-800 hover:underline font-medium">よくある質問（Q&A）</a></li>
@@ -186,7 +186,7 @@ export default function FurusatoKyotoArashiyamaBambooStayPage() {
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第2選</span>
           <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            京都　嵐山温泉　花伝抄（共立リゾート）（２０２６年５月１日リニューアルオープン）
+            京都　嵐山温泉　花伝抄（共立リゾート）（リニューアルオープン）
           </h2>
           <p className="text-xs md:text-sm text-amber-100">京都府京都市・阪急嵐山駅徒歩1分の好立地！全館畳敷きの和の心地よさ＆5つの趣異なる無料貸切風呂と豪華京会席（共立リゾート）</p>
         </div>
@@ -206,7 +206,7 @@ export default function FurusatoKyotoArashiyamaBambooStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “天ぷらとおばんざいが絶品、また泊まりたい懐石料理を頼みました天ぷらはすっごく美味しかったです!!おばんざいも京都ならではの優しいお出汁と湯葉が美味しかったです!次回も旅行の際は泊まりたいです…　2026-09-01 22:32:51投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “天ぷらとおばんざいが絶品、また泊まりたい懐石料理を頼みました天ぷらはすっごく美味しかったです!!おばんざいも京都ならではの優しいお出汁と湯葉が美味しかったです!次回も旅行の際は泊まりたいです… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -323,7 +323,7 @@ export default function FurusatoKyotoArashiyamaBambooStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

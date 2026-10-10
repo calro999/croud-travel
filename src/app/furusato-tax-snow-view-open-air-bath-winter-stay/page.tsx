@@ -49,7 +49,7 @@ export default function FurusatoSnowViewOpenAirBathStayPage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「万座温泉 万座プリンスホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「万座温泉 万座プリンスホテル」へは、北陸新幹線「軽井沢駅南口」より送迎バスあり（約９０分：要事前予約）／上信越自動車道「碓氷軽井沢IC」より約６４km。最寄りの万座・鹿沢口駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「万座温泉 万座プリンスホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「万座温泉 万座プリンスホテル」は『極上にごり湯と、標高1800ｍの絶景。地元食材を取り入れたバラエティ豊かなブッフェを堪能。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「万座温泉 万座プリンスホテル」と「越後湯沢温泉 湯沢グランドホテル＜新潟県＞」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「万座温泉 万座プリンスホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「万座温泉 万座プリンスホテル」へは、北陸新幹線「軽井沢駅南口」より送迎バスあり（約９０分：要事前予約）／上信越自動車道「碓氷軽井沢IC」より約６４km。最寄りの万座・鹿沢口駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「万座温泉 万座プリンスホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「万座温泉 万座プリンスホテル」は『極上にごり湯と、標高1800ｍの絶景。地元食材を取り入れたバラエティ豊かなブッフェを堪能。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「万座温泉 万座プリンスホテル」と「越後湯沢温泉 湯沢グランドホテル＜新潟県＞。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -195,7 +195,7 @@ export default function FurusatoSnowViewOpenAirBathStayPage() {
                     上信越高原国立公園内の標高1,800mに位置し、日本屈指の硫黄含有量を誇る名湯・万座温泉のシンボルホテル。遮るものが何一つない大自然の中に設けられた名物露天風呂「こまくさの湯」からは、真っ白に雪化粧した山々のパノラマと満天の星空が一望できます。乳白色に濁る濃厚な硫黄泉は身体の芯まで温め、湯冷め知らずの心地よさ。ゲレンデ直結の立地のため、スキーやスノーボードを楽しんだ後のアフタースノー温泉ステイとしても絶大な人気を誇ります。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「温泉は最高だが混浴ルールとカニが残念家族で利用しました。妻と娘2人。温泉は凄く良かったですが、団体客なのか混浴ルールが守られておらず家族での混浴はやめました。万座高原ホテルではちゃんとルールが… 2026-09-02 19:47:53投稿 …」
+                    「妻と娘2人。温泉は凄く良かったですが、団体客なのか混浴ルールが守られておらず家族での混浴はやめました。万座高原ホテルではちゃんとルールが…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -256,7 +256,7 @@ export default function FurusatoSnowViewOpenAirBathStayPage() {
                     JR越後湯沢駅から徒歩約3分、川端康成の小説『雪国』の舞台となった歴史ある温泉街に建つ大型名門ホテル。宿の自慢は約500坪の広大な庭園露天風呂で、冬になると庭園の木々や岩が純白の雪で覆われ、湯煙立ち上る幻想的な雪見風呂を満喫できます。大型のサウナやジャグジーも完備。夕食には新潟が誇るコシヒカリや日本海の新鮮魚介、にいがた和牛をふんだんに使った贅沢バイキングや本格会席が振る舞われ、雪国の温かなもてなしに心癒やされます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「リニューアルされた部屋と食事に大満足今回は誕生日祝いもかねて宿泊させて頂きました。部屋はリニューアルされたとても広くてきれいな部屋で、ゆっくりくつろぐ事が出来ました。大浴場と露天風呂、朝夕バイキン… 2026-09-05 23:18:40投…」
+                    「リニューアルされた部屋と食事に大満足今回は誕生日祝いもかねて宿泊させて頂きました。部屋はリニューアルされたとても広くてきれいな部屋で、ゆっくりくつろぐ事が出来ました。大浴場と露天風呂、朝夕バイキン… 投。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -317,7 +317,7 @@ export default function FurusatoSnowViewOpenAirBathStayPage() {
                     札幌の奥座敷・定山渓温泉の豊平川渓谷沿いに佇み、創業90年の歴史を刻む名門温泉旅館。全客室が渓谷に面しており、窓の外には水墨画のように美しい白銀の雪渓が広がります。源泉かけ流しの露天風呂からは、川のせせらぎと雪が舞い散る風情ある景色を間近に楽しめます。蜂蜜バイキングや夕刻の湯上がりビール、夜のバータイムなど滞在を豊かに彩るラウンジサービスも充実。北海道の旬の味覚を散りばめた創作和食会席とともに贅沢な冬の休日をお過ごしいただけます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「料理が大変おいしかったです。クチコミの詳細はこちらから 2026-09-05 09:04:31投稿 つづきはこちら…」
+                    「落ち着いた心地よい空間の中、温かい温泉とおいしいお料理で日頃の疲れを癒やすことができました。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -451,7 +451,7 @@ export default function FurusatoSnowViewOpenAirBathStayPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「万座温泉 万座プリンスホテル」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「万座温泉 万座プリンスホテル」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「越後湯沢温泉 湯沢グランドホテル＜新潟県＞」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「越後湯沢温泉 湯沢グランドホテル＜新潟県＞。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -490,7 +490,7 @@ export default function FurusatoSnowViewOpenAirBathStayPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「万座温泉 万座プリンスホテル」と「越後湯沢温泉 湯沢グランドホテル＜新潟県＞」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「万座温泉 万座プリンスホテル」と「越後湯沢温泉 湯沢グランドホテル＜新潟県＞。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

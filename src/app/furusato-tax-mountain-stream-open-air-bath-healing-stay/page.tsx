@@ -49,7 +49,7 @@ export default function FurusatoMountainStreamOpenAirStayPage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「奥入瀬渓流ホテル ｂｙ 星野リゾート」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「奥入瀬渓流ホテル ｂｙ 星野リゾート」へは、東北新幹線 八戸駅／無料送迎バス（要予約）、青森駅／有料送迎バス（要予約）、ＪＲバス 十和田湖行き、焼山下車。最寄りの八戸駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「奥入瀬渓流ホテル ｂｙ 星野リゾート」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「奥入瀬渓流ホテル ｂｙ 星野リゾート」は『日本屈指の景勝地奥入瀬渓流。その畔に佇むリゾートホテルで大自然が演出する非日常空間をご堪能』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「奥入瀬渓流ホテル ｂｙ 星野リゾート」と「黒川温泉 旅館 奥の湯」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「奥入瀬渓流ホテル ｂｙ 星野リゾート」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「奥入瀬渓流ホテル ｂｙ 星野リゾート」へは、東北新幹線 八戸駅／無料送迎バス（要予約）、青森駅／有料送迎バス（要予約）、ＪＲバス 十和田湖行き、焼山下車。最寄りの八戸駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「奥入瀬渓流ホテル ｂｙ 星野リゾート」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「奥入瀬渓流ホテル ｂｙ 星野リゾート」は『日本屈指の景勝地奥入瀬渓流。その畔に佇むリゾートホテルで大自然が演出する非日常空間をご堪能。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「奥入瀬渓流ホテル ｂｙ 星野リゾート」と「黒川温泉 旅館 奥の湯」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -195,7 +195,7 @@ export default function FurusatoMountainStreamOpenAirStayPage() {
                     十和田八幡平国立公園の特別名勝・奥入瀬渓流のほとりに唯一建つ、星野リゾートが手掛ける極上のネイチャーリゾート。八甲田山から湧き出る優しい泉質の温泉を引いた「渓流露天風呂」からは、手が届きそうなほど間近に迫る奥入瀬の清流と原生林の絶景が広がります。岡本太郎作の巨大暖炉が迎えるロビーラウンジ、渓流沿いのテラスでいただく朝食、青森の特産リンゴをふんだんに使った贅沢ビュッフェなど、自然と共生する上質なリゾートライフをご体験いただけます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「期待していた分、全体的に普通で残念な印象初めて星野リゾートのホテルを利用するので楽しみにしていましたが、案外普通だったなという印象です。大浴場も特にこれといった特色もなく、1日目は露天風呂に枯… 2026-08-26 08:10:07投稿 …」
+                    「大浴場も特にこれといった特色もなく、1日目は露天風呂に枯…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -256,7 +256,7 @@ export default function FurusatoMountainStreamOpenAirStayPage() {
                     阿蘇の山々に囲まれた全国屈指の人気温泉地・黒川温泉の最奥部に位置し、茅葺き屋根と竹林の静寂が旅人を迎える隠れ宿。田の原川の清流を望む広大な敷地には、野趣あふれる混浴露天風呂や女性専用露天風呂、川のせせらぎを間近に感じる手湯や貸切風呂など多彩な湯殿が点在。川の音をBGMに源泉かけ流しの名湯を心ゆくまで満喫できます。夕食には熊本名物の馬刺しや肥後赤牛、地元小国の高原野菜を使った手作り会席が並び、心温まる九州の温泉情緒に包まれます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「黒川温泉の象徴、庭と露天風呂が最高な宿熊本地震があってキャンセルが多かったみたいで黒川温泉は閑散としてました 前日予約しましたが普段ならなかなか取れないと思います地震後の復興のため皆さんには是… 2026-08-28 08:31:37投稿 …」
+                    「黒川温泉の象徴、庭と露天風呂が最高な宿熊本地震があってキャンセルが多かったみたいで黒川温泉は閑散としてました 前日予約しましたが普段ならなかなか取れないと思います地震後の復興のため皆さんには是…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -317,7 +317,7 @@ export default function FurusatoMountainStreamOpenAirStayPage() {
                     塩原十一湯の一つ、歴史ある大網温泉に位置し、箒川の深い渓谷を見下ろす断崖に佇む老舗名旅館。宿の名物は、渓谷の底に向かって約300段の石段を下りた先にある野天風呂。川の流れとほぼ同じ目線で浸かる天然温泉は、大自然と一体化する圧倒的な開放感を誇ります。創業百余年の歴史が育んだ行き届いたおもてなしと、囲炉裏炭火でじっくり焼き上げる鮎や地場産食材を使った山里料理が評判で、本物の秘湯と渓流美を愛する旅人に支持されています。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「料理は美味しく野天風呂は最高でした夕食のメニューに河豚天麩羅・鴨鍋と記載があったので楽しみに行ったのですが仕入状況によりの為か普通のメニューで残念でしたが全体的に料理は味は美味しかった… 2026-08-19 22:11:08投稿 つづきは…」
+                    「落ち着いた心地よい空間の中、温かい温泉とおいしいお料理で日頃の疲れを癒やすことができました。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -481,7 +481,7 @@ export default function FurusatoMountainStreamOpenAirStayPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「奥入瀬渓流ホテル ｂｙ 星野リゾート」は『日本屈指の景勝地奥入瀬渓流。その畔に佇むリゾートホテルで大自然が演出する非日常空間をご堪能』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「奥入瀬渓流ホテル ｂｙ 星野リゾート」は『日本屈指の景勝地奥入瀬渓流。その畔に佇むリゾートホテルで大自然が演出する非日常空間をご堪能。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

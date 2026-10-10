@@ -44,7 +44,7 @@ export default function Page() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ホテルニューグランド」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ホテルニューグランド」へは、みなとみらい線元町・中華街駅1番出口より徒歩1分。最寄りの石川町駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ホテルニューグランド」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ホテルニューグランド」は『横浜スタンダードをいまに伝える、欧州の香りと趣。開港当時の横浜の面影を残すクラシックホテル』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ホテルニューグランド」と「熱海温泉 金城館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ホテルニューグランド」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ホテルニューグランド」へは、みなとみらい線元町・中華街駅1番出口より徒歩1分。最寄りの石川町駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ホテルニューグランド」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ホテルニューグランド」は『横浜スタンダードをいまに伝える、欧州の香りと趣。開港当時の横浜の面影を残すクラシックホテル。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ホテルニューグランド」と「熱海温泉 金城館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         {/* パンくずリスト */}
@@ -448,7 +448,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「ホテルニューグランド」は『横浜スタンダードをいまに伝える、欧州の香りと趣。開港当時の横浜の面影を残すクラシックホテル』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「ホテルニューグランド」は『横浜スタンダードをいまに伝える、欧州の香りと趣。開港当時の横浜の面影を残すクラシックホテル。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

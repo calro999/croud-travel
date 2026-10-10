@@ -160,8 +160,7 @@ export default function Page() {
                       <span>📍</span>
                       <span>新潟県長岡市城内町1-1-5</span>
                     </p>
-                    <p className="text-slate-300 text-xs sm:text-sm leading-relaxed mb-4 bg-slate-900/60 p-3.5 rounded-xl border border-slate-800/60">
-                      2024年2月10日（土）リニューアルオープン！JR長岡駅より徒歩約3分
+                    <p className="text-slate-300 text-xs sm:text-sm leading-relaxed mb-4 bg-slate-900/60 p-3.5 rounded-xl border border-slate-800/60">（土）リニューアルオープン！JR長岡駅より徒歩約3分
                     </p>
                   </div>
 

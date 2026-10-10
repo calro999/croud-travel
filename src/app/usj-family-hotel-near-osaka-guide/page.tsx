@@ -156,7 +156,7 @@ export default function UsjFamilyHotelGuidePage() {
           </h1>
 
           <p className="text-sm md:text-base text-teal-50/90 leading-relaxed font-normal pt-1">
-            スーパー・ニンテンドー・ワールドにミニオン・パーク！大熱狂のUSJ（ユニバーサル・スタジオ・ジャパン）子連れ旅行では、ホテル選びがパークの勝敗を分けます。「パーク目の前のオフィシャルホテルで昼寝＆早朝開園待ち」か「大阪グルメも楽しむ梅田・なんばのコスパ宿」か、徹底比較します。
+            スーパー・ニンテンドー・ワールドにミニオン・パーク！大熱狂のUSJ（ユニバーサル・スタジオ・ジャパン）子連れ旅行では、ホテル選びがパークの勝敗を分けます。「パーク目の前のオフィシャルホテルで昼寝＆早朝開園待ち。」か「大阪グルメも楽しむ梅田・なんばのコスパ宿。」か、徹底比較します。
           </p>
 
           <div className="pt-2 flex flex-wrap items-center gap-4 text-xs md:text-sm text-teal-100">

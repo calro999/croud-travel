@@ -36,11 +36,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/53097/53097map.gif",
     "reviewCount": 594,
     "reviewAverage": 4.72,
-    "userReview": "有明海の絶景と竹崎ガニ、サウナの熱さには注意佐賀と長崎の県境の有明海に面して、島原半島の雲仙岳を遠方する絶景のロケーションです。穏やかな有明海を堪能でき、スタッフも親切で、何よりホテル名にもな…　 ",
+    "userReview": "有明海の絶景と竹崎ガニ、サウナの熱さには注意佐賀と長崎の県境の有明海に面して、島原半島の雲仙岳を遠方する絶景のロケーションです。穏やかな有明海を堪能でき、スタッフも親切で、何よりホテル名にもな。",
     "hotelMinCharge": 39930,
     "address1": "佐賀県",
     "address2": "藤津郡太良町大浦乙316-3",
-    "telephoneNo": "0954-68-2260",
+    "telephoneNo": "60",
     "access": "武雄北方ＩＣ車で６０分（４９８号線を鹿島方面に２０７号線を諫早方面に）・長崎本線肥前大浦駅より無料送迎有　要予約",
     "parkingInformation": "電気自動車５台。普通車35台。",
     "nearestStation": "肥前大浦",
@@ -66,11 +66,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6000/6000map.gif",
     "reviewCount": 344,
     "reviewAverage": 4.08,
-    "userReview": "泉質と食事は最高、接客の距離感に改善希望お風呂の泉質、温度、清潔さは最高でした。部屋も広々でゆっくり過ごせました。食事も美味しく、急なグルテンフリーに対応して頂きました。親切で温かいもてなしに感謝…　 ",
+    "userReview": "泉質と食事は最高、接客の距離感に改善希望お風呂の泉質、温度、清潔さは最高でした。部屋も広々でゆっくり過ごせました。食事も美味しく、急なグルテンフリーに対応して頂きました。親切で温かいもてなしに感謝。",
     "hotelMinCharge": 9900,
     "address1": "長崎県",
     "address2": "雲仙市小浜町雲仙318",
-    "telephoneNo": "0957-73-3338",
+    "telephoneNo": "38",
     "access": "JR長崎本線諌早駅よりバスにて80分（雲仙行）",
     "parkingInformation": "有り　25台　無料",
     "nearestStation": "諫早",
@@ -96,7 +96,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/3164/3164map.gif",
     "reviewCount": 3649,
     "reviewAverage": 4.48,
-    "userReview": "クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/3164?reviewId=33123479167150　",
+    "userReview": "",
     "hotelMinCharge": 6035,
     "address1": "福岡県",
     "address2": "北九州市門司区港町9-11",
@@ -182,7 +182,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「太良嶽温泉ホテル 蟹御殿」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「太良嶽温泉ホテル 蟹御殿」へは、武雄北方ＩＣ車で６０分（４９８号線を鹿島方面に２０７号線を諫早方面に）・長崎本線肥前大浦駅より無料送迎有 要予約。最寄りの肥前大浦駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「太良嶽温泉ホテル 蟹御殿」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「太良嶽温泉ホテル 蟹御殿」は『竹崎蟹、サウナ、有明海の絶景を楽しめる新客室。非日常な景色で心身を開放するプレミアムリゾー』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「太良嶽温泉ホテル 蟹御殿」と「雲仙温泉 名湯の宿 雲仙いわき旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「太良嶽温泉ホテル 蟹御殿」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「太良嶽温泉ホテル 蟹御殿」へは、武雄北方ＩＣ車で６０分（４９８号線を鹿島方面に２０７号線を諫早方面に）・長崎本線肥前大浦駅より無料送迎有 要予約。最寄りの肥前大浦駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「太良嶽温泉ホテル 蟹御殿」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「太良嶽温泉ホテル 蟹御殿」は『竹崎蟹、サウナ、有明海の絶景を楽しめる新客室。非日常な景色で心身を開放するプレミアムリゾー。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「太良嶽温泉ホテル 蟹御殿」と「雲仙温泉 名湯の宿 雲仙いわき旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         
         {/* 特集の魅力セクション */}
@@ -488,7 +488,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「太良嶽温泉ホテル 蟹御殿」は『竹崎蟹、サウナ、有明海の絶景を楽しめる新客室。非日常な景色で心身を開放するプレミアムリゾー』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「太良嶽温泉ホテル 蟹御殿」は『竹崎蟹、サウナ、有明海の絶景を楽しめる新客室。非日常な景色で心身を開放するプレミアムリゾー。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

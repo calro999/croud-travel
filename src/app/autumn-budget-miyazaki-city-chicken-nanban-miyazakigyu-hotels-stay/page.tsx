@@ -65,7 +65,7 @@ export default function AutumnBudgetFeaturePage() {
           <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
             <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
-                src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/2021-01-07_Aoshima_Island_%28Miyazaki%29Aerial_photography%E9%9D%92%E5%B3%B6_%28%E5%AE%AE%E5%B4%8E%E7%9C%8C%29DJI_0249_%282%29%E7%A9%BA%E6%92%AE.jpg/1280px-2021-01-07_Aoshima_Island_%28Miyazaki%29Aerial_photography%E9%9D%92%E5%B3%B6_%28%E5%AE%AE%E5%B4%8E%E7%9C%8C%29DJI_0249_%282%29%E7%A9%BA%E6%92%AE.jpg"
+                src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/_Aoshima_Island_%28Miyazaki%29Aerial_photography%E9%9D%92%E5%B3%B6_%28%E5%AE%AE%E5%B4%8E%E7%9C%8C%29DJI_0249_%282%29%E7%A9%BA%E6%92%AE.jpg/1280px-_Aoshima_Island_%28Miyazaki%29Aerial_photography%E9%9D%92%E5%B3%B6_%28%E5%AE%AE%E5%B4%8E%E7%9C%8C%29DJI_0249_%282%29%E7%A9%BA%E6%92%AE.jpg"
                 alt="鬼の洗濯板に囲まれた神話の島・青島と青島神社"
                 fill
                 className="object-cover hover:scale-105 transition duration-500"

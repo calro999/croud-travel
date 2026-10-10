@@ -39,8 +39,8 @@ export default function Page() {
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Yoshinogari-iseki_zenkei.JPG/1280px-Yoshinogari-iseki_zenkei.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
         "https://img.travel.rakuten.co.jp/share/HOTEL/166515/166515.jpg"
       ],
-      "datePublished": "2026-10-08",
-      "dateModified": "2026-10-08",
+      "datePublished": "",
+      "dateModified": "",
       "author": {
         "@type": "Organization",
         "name": "Japan Travel Curations"
@@ -415,7 +415,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「スタッフの対応と充実の飲み物、日本酒風呂に大満足スタッフの方の対応も良く、清潔感もあって、とても過ごしやすかったです!飲み物のサービスがとても充実していて、楽しく美味しくいただけました。日… つづきはこちら」"}</span>
+                  <span>{"「スタッフの対応と充実の飲み物、日本酒風呂に大満足スタッフの方の対応も良く、清潔感もあって、とても過ごしやすかったです!飲み物のサービスがとても充実していて、楽しく美味しくいただけました。日。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -482,7 +482,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「最高の温泉と部屋部屋風呂と朝夕の食事は感激しました。部屋からの眺め、温泉からの眺めも思ってた以上に良くて、都会とは違った雰囲気を味わえました。他の画像やクチコミの詳細はこちらから http… つづきはこちら」"}</span>
+                  <span>{"「最高の温泉と部屋部屋風呂と朝夕の食事は感激しました。部屋からの眺め、温泉からの眺めも思ってた以上に良くて、都会とは違った雰囲気を味わえました。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -549,7 +549,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「佐賀出張の定宿、駐車場無料で部屋も快適佐賀出張の時はいつも利用しています。駐車場も無料で利用でき、部屋も広く快適です。風呂の設備も充実しており、ゆっくりくつろげます。また機会があれば利用しようと思… つづきはこちら」"}</span>
+                  <span>{"「佐賀出張の定宿、駐車場無料で部屋も快適佐賀出張の時はいつも利用しています。駐車場も無料で利用でき、部屋も広く快適です。風呂の設備も充実しており、ゆっくりくつろげます。また機会があれば利用しようと思。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -616,7 +616,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「受付の対応は残念だが温泉は最高最初に受け付けで放置された時は頭にきましたが、それ以外は満足です。部屋は離れのじぼう2。元は家族風呂と言うことで広々としたかけ流しの温泉が楽しめました。部屋はやや狭い… つづきはこちら」"}</span>
+                  <span>{"「部屋は離れのじぼう2。元は家族風呂と言うことで広々としたかけ流しの温泉が楽しめました。部屋はやや狭い。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -683,7 +683,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「スタッフの丁寧な対応と綺麗な部屋に満足急遽泊まることにしたので、外食のお店を聞いたら、自分の要望に合う美味しいお店を紹介頂けました。スタッフの皆さんも丁寧で嬉しかったです。知人からオススメ… つづきはこちら」"}</span>
+                  <span>{"「スタッフの丁寧な対応と綺麗な部屋に満足急遽泊まることにしたので、外食のお店を聞いたら、自分の要望に合う美味しいお店を紹介頂けました。スタッフの皆さんも丁寧で嬉しかったです。知人からオススメ。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">

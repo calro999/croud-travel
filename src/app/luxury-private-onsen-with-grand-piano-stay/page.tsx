@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/luxury-private-onsen-with-grand-piano-stay"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D40246%26f_flg%3DPLAN",
     "hotelMinCharge": 6248,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40246/40246.jpg",
-    "userReview": "施設の老朽化が残念でした部屋のお風呂のお湯が出なかった部屋の外の廊下がカビ臭かった畳が軋んでいたエアコンを入れて寝たが布団が厚く眠れなかった食事は夕食朝食も種類も多く飲み放題でおい…　2026-09-16 12:33:10投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=40246\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "落ち着いた心地よい空間の中、温かい温泉とおいしいお料理で日頃の疲れを癒やすことができました。",
     "reviewAverage": 3.76,
     "reviewCount": 693,
     "address": "静岡県伊東市松川町1-12",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D176808%26f_flg%3DPLAN",
     "hotelMinCharge": 10890,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/176808/176808.jpg",
-    "userReview": "道後温泉へのアクセスも良く、全てが完璧道後温泉・アーケードへの動線もよく部屋も綺麗。全てにおいて完璧な宿だった。クチコミの詳細はこちらから　https://review.travel.raku…　2026-09-17 11:16:53投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=176808\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "道後温泉へのアクセスも良く、全てが完璧道後温泉・アーケードへの動線もよく部屋も綺麗。全てにおいて完璧な宿だった。",
     "reviewAverage": 4.67,
     "reviewCount": 773,
     "address": "愛媛県松山市道後鷺谷町1-1",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D72719%26f_flg%3DPLAN",
     "hotelMinCharge": 8030,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/72719/72719.jpg",
-    "userReview": "シャワーからお湯が出ず困ったお風呂のシャワーのお湯が出なかった。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/72…　2026-09-17 19:41:27投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=72719\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "シャワーからお湯が出ず困ったお風呂のシャワーのお湯が出なかった。",
     "reviewAverage": 3.46,
     "reviewCount": 206,
     "address": "山梨県笛吹市石和町川中島538",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D19206%26f_flg%3DPLAN",
     "hotelMinCharge": 22000,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19206/19206.jpg",
-    "userReview": "天気が悪くても庭や室内が綺麗でとても快適天気はあまりよくありませんでしたが室内や大きな庭がきれいに維持されており気持ちよく過ごすことができました。夜の手品ショーや太鼓の演舞なども良かったで…　2026-09-13 10:28:14投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=19206\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "天気が悪くても庭や室内が綺麗でとても快適天気はあまりよくありませんでしたが室内や大きな庭がきれいに維持されており気持ちよく過ごすことができました。夜の手品ショーや太鼓の演舞なども良かったで。",
     "reviewAverage": 4.7,
     "reviewCount": 1138,
     "address": "山梨県富士吉田市上吉田東9-1-18",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D19786%26f_flg%3DPLAN",
     "hotelMinCharge": 8500,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19786/19786.jpg",
-    "userReview": "期待以上の素晴らしさで心身ともにリフレッシュ日頃の疲れを癒やすために宿泊しましたが、期待���大きく上回る素晴らしさでした。お部屋は清潔感があり広々としていて、到着時に用意していただいたウェルカム…　2026-09-19 21:11:25投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=19786\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "期待以上の素晴らしさで心身ともにリフレッシュ日頃の疲れを癒やすために宿泊しましたが、期待���大きく上回る素晴らしさでした。お部屋は清潔感があり広々としていて、到着時に用意していただいたウェルカム。",
     "reviewAverage": 4.55,
     "reviewCount": 6648,
     "address": "神奈川県足柄下郡箱根町湯本468-1",

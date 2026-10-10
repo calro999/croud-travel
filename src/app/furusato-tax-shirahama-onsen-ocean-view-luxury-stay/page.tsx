@@ -4,14 +4,14 @@ import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: '青い海と真っ白な砂浜！南紀白浜温泉の絶景オーシャンビュー露天風呂＆幻のクエ・熊野牛名門旅館×ふるさと納税完全攻略ガイド【2026年最新】むさし・海舟・シーモア',
-  description: '万葉の時代から愛される日本三古湯・南紀白浜温泉！真っ白な白良浜と太平洋の絶景パノラマ。「紀州・白浜温泉 むさし」「浜千鳥の湯 海舟」「SHIRAHAMA KEY TERRACE HOTEL SEAMORE」を、和歌山県白浜町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。海混浴露天風呂、インフィニティ足湯、幻のクエ鍋・熊野牛を満喫。',
+  description: '万葉の時代から愛される日本三古湯・南紀白浜温泉！真っ白な白良浜と太平洋の絶景パノラマ。「紀州・白浜温泉 むさし」「浜千鳥の湯 海舟」「SHIRAHAMA KEY TERRACE HOTEL SEAMORE。」を、和歌山県白浜町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。海混浴露天風呂、インフィニティ足湯、幻のクエ鍋・熊野牛を満喫。',
   keywords: ["幻のクエ", "2026年最新", "むさし", "海舟", "シーモア", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-shirahama-onsen-ocean-view-luxury-stay/",
   },
   openGraph: {
     title: '青い海と真っ白な砂浜！南紀白浜温泉の絶景オーシャンビュー露天風呂＆幻のクエ・熊野牛名門旅館×ふるさと納税完全攻略ガイド【2026年最新】むさし・海舟・シーモア',
-    description: '万葉の時代から愛される日本三古湯・南紀白浜温泉！真っ白な白良浜と太平洋の絶景パノラマ。「紀州・白浜温泉 むさし」「浜千鳥の湯 海舟」「SHIRAHAMA KEY TERRACE HOTEL SEAMORE」を、和歌山県白浜町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。海混浴露天風呂、インフィニティ足湯、幻のクエ鍋・熊野牛を満喫。',
+    description: '万葉の時代から愛される日本三古湯・南紀白浜温泉！真っ白な白良浜と太平洋の絶景パノラマ。「紀州・白浜温泉 むさし」「浜千鳥の湯 海舟」「SHIRAHAMA KEY TERRACE HOTEL SEAMORE。」を、和歌山県白浜町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。海混浴露天風呂、インフィニティ足湯、幻のクエ鍋・熊野牛を満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-shirahama-onsen-ocean-view-luxury-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
@@ -25,7 +25,7 @@ export default function FurusatoShirahamaOnsenOceanStayPage() {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "青い海と真っ白な砂浜！南紀白浜温泉の絶景オーシャンビュー露天風呂＆幻のクエ・熊野牛名門旅館×ふるさと納税完全攻略ガイド【2026年最新】むさし・海舟・シーモア",
-    "description": "万葉の時代から愛される日本三古湯・南紀白浜温泉！真っ白な白良浜と太平洋の絶景パノラマ。「紀州・白浜温泉 むさし」「浜千鳥の湯 海舟」「SHIRAHAMA KEY TERRACE HOTEL SEAMORE」を、和歌山県白浜町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。海混浴露天風呂、インフィニティ足湯、幻のクエ鍋・熊野牛を満喫。",
+    "description": "万葉の時代から愛される日本三古湯・南紀白浜温泉！真っ白な白良浜と太平洋の絶景パノラマ。「紀州・白浜温泉 むさし」「浜千鳥の湯 海舟」「SHIRAHAMA KEY TERRACE HOTEL SEAMORE。」を、和歌山県白浜町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。海混浴露天風呂、インフィニティ足湯、幻のクエ鍋・熊野牛を満喫。",
     "url": "https://croud-travel.pages.dev/furusato-tax-shirahama-onsen-ocean-view-luxury-stay/",
     "publisher": {
       "@type": "Organization",
@@ -62,7 +62,7 @@ export default function FurusatoShirahamaOnsenOceanStayPage() {
           青い海と真っ白な砂浜！南紀白浜温泉の絶景オーシャンビュー露天風呂＆幻のクエ・熊野牛名門旅館×ふるさと納税完全攻略ガイド【2026年最新】むさし・海舟・シーモア
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-10">2026年9月10日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -77,7 +77,7 @@ export default function FurusatoShirahamaOnsenOceanStayPage() {
           青く澄み渡る太平洋、白良浜のパウダースノー。海と波音に抱かれる日本三古湯・南紀白浜の贅沢リゾートへ
         </h2>
         <p className="text-base md:text-lg text-gray-800 leading-relaxed mb-6">
-          本州屈指の南国リゾートであり、飛鳥・奈良時代の歴代天皇も湯治に訪れた日本三古湯の一つ「南紀白浜温泉（なんきしらはまおんせん）」。エメラルドグリーンの澄んだ海と真っ白なサラサラの砂浜が続く名所「白良浜（しららはま）」をはじめ、荒波に削られた大迫力の「千畳敷」や「三段壁」、海上に沈む夕陽が美しい「円月島」など、息を呑む絶景が凝縮された温泉地です。白浜温泉の魅力は、千三百年以上湧き続ける塩分濃度の高いナトリウム-塩化物泉。湯上がりに肌がしっとりと潤い、体の芯までポカポカと温もりが持続します。海に突き出た岬の先端で波しぶきを感じながら入浴する大露天風呂や、水平線に沈む夕日を一望するインフィニティ温泉は、白浜でしか体験できない至高の感動。さらにグルメも全国トップクラス。紀伊水道の荒波で育った「幻の高級魚・天然クエ（九絵）」の鍋や薄造り、南紀の豊かな自然が育んだ極上黒毛和牛「熊野牛」のステーキ、ぷりぷりの伊勢海老やアワビなど、海の幸と山の幸を尽くした贅沢な料理が旅人の舌を唸らせます。本特集では、白良浜へ徒歩1分の好立地で二つの異なる自家源泉と本格和食会席を誇る老舗「紀州・白浜温泉 むさし」、岬の突端に佇み海と一体になる絶景露天風呂「浜千鳥の湯」とクエ・熊野牛会席が人気の共立リゾート「浜千鳥の湯 海舟」、そして長さ30mのインフィニティ足湯テラスと太平洋一望の絶景ラウンジ・温泉サウナが評判の「SHIRAHAMA KEY TERRACE HOTEL SEAMORE」の3大名宿を厳選。和歌山県白浜町への楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円で南紀白浜温泉の憧れリゾート旅をお得に予約しましょう。
+          本州屈指の南国リゾートであり、飛鳥・奈良時代の歴代天皇も湯治に訪れた日本三古湯の一つ「南紀白浜温泉（なんきしらはまおんせん）」。エメラルドグリーンの澄んだ海と真っ白なサラサラの砂浜が続く名所「白良浜（しららはま）」をはじめ、荒波に削られた大迫力の「千畳敷」や「三段壁」、海上に沈む夕陽が美しい「円月島」など、息を呑む絶景が凝縮された温泉地です。白浜温泉の魅力は、千三百年以上湧き続ける塩分濃度の高いナトリウム-塩化物泉。湯上がりに肌がしっとりと潤い、体の芯までポカポカと温もりが持続します。海に突き出た岬の先端で波しぶきを感じながら入浴する大露天風呂や、水平線に沈む夕日を一望するインフィニティ温泉は、白浜でしか体験できない至高の感動。さらにグルメも全国トップクラス。紀伊水道の荒波で育った「幻の高級魚・天然クエ（九絵）」の鍋や薄造り、南紀の豊かな自然が育んだ極上黒毛和牛「熊野牛」のステーキ、ぷりぷりの伊勢海老やアワビなど、海の幸と山の幸を尽くした贅沢な料理が旅人の舌を唸らせます。本特集では、白良浜へ徒歩1分の好立地で二つの異なる自家源泉と本格和食会席を誇る老舗「紀州・白浜温泉 むさし」、岬の突端に佇み海と一体になる絶景露天風呂「浜千鳥の湯」とクエ・熊野牛会席が人気の共立リゾート「浜千鳥の湯 海舟」、そして長さ30mのインフィニティ足湯テラスと太平洋一望の絶景ラウンジ・温泉サウナが評判の「SHIRAHAMA KEY TERRACE HOTEL SEAMORE。」の3大名宿を厳選。和歌山県白浜町への楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円で南紀白浜温泉の憧れリゾート旅をお得に予約しましょう。
         </p>
         <div className="bg-white/90 rounded-xl p-4 md:p-5 border border-amber-300 shadow-sm">
           <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5">
@@ -164,7 +164,7 @@ export default function FurusatoShirahamaOnsenOceanStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “綺麗かつ広い部屋で不満ゼロでした。素晴らしかったです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/19739?r…　2026-09-05 22:53:27投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “綺麗かつ広い部屋で不満ゼロでした。素晴らしかったです。 ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -206,7 +206,7 @@ export default function FurusatoShirahamaOnsenOceanStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “すべてのサービスが最高でした全サービス最高クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/68224?revie…　2026-09-05 22:48:38投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “すべてのサービスが最高でした全サービス最高 ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -248,7 +248,7 @@ export default function FurusatoShirahamaOnsenOceanStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “ロケーションは最高だが移動や騒音が気になる二度目の利用です。温泉のある本館へは徒歩で行くことができますが、やはり夏場は夜遅くでも暑く、朝風呂に行くには日傘必須でした。部屋はコンクリート壁で…　2026-08-31 22:21:05投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “ロケーションは最高だが移動や騒音が気になる二度目の利用です。温泉のある本館へは徒歩で行くことができますが、やはり夏場は夜遅くでも暑く、朝風呂に行くには日傘必須でした。部屋はコンクリート壁で… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -323,7 +323,7 @@ export default function FurusatoShirahamaOnsenOceanStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

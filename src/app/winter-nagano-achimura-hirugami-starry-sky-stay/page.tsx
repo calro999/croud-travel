@@ -48,8 +48,8 @@ export default function HirugamiWinterPage() {
         "headline": "【11・12月阿智村の日本一の星空ナイトツアー】昼神温泉の極上美肌湯と南信州冬の味覚宿5選",
         "description": "環境省が認定した「日本一星が輝いて見える村」長野県阿智村。11月・12月は空気が最も澄み渡り、息をのむ満天の天の川と星座が広がるベストシーズン。「美肌の湯」として名高いpH9.7の昼神温泉と、信州プレミアム牛や炉端会席を堪能する感動の星空冬旅ガイド。",
         "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80",
-        "datePublished": "2026-09-27T00:00:00+09:00",
-        "dateModified": "2026-09-27T00:00:00+09:00",
+        "datePublished": "T00:00:00+09:00",
+        "dateModified": "T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
@@ -101,7 +101,7 @@ export default function HirugamiWinterPage() {
             "name": "星空ツアーのチケット予約や宿からのアクセス方法は？",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "冬期のウインターナイトツアーは事前日時指定予約制が基本です。昼神温泉の多くの宿泊施設では「ツアーチケット確約＋会場までの無料送迎バス付き宿泊プラン」を用意しているため、個人で手配するよりも宿の提携パックを利用するのが最も確実で移動も楽です。"
+              "text": "冬期のウインターナイトツアーは事前日時指定予約制が基本です。昼神温泉の多くの宿泊施設では「ツアーチケット確約＋会場までの無料送迎バス付き宿泊プラン。」を用意しているため、個人で手配するよりも宿の提携パックを利用するのが最も確実で移動も楽です。"
             }
           }
         ]
@@ -495,7 +495,7 @@ export default function HirugamiWinterPage() {
             <div>
               <span className="text-xs font-bold text-indigo-700 uppercase tracking-widest">Recommended Itinerary</span>
               <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                初冬の阿智村を満喫する「1泊2日 日本一の星空＆美肌湯モデルコース」
+                初冬の阿智村を満喫する「1泊2日 日本一の星空＆美肌湯モデルコース。」
               </h2>
             </div>
           </div>

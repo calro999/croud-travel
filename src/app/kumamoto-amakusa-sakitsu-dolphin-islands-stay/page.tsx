@@ -73,7 +73,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「松島温泉 天草渚亭」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「松島温泉 天草渚亭」へは、ＪＲ 三角駅より車で２０分（送迎あり）／九州産交バス 松島停留所から車で５分。最寄りの三角駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「松島温泉 天草渚亭」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「松島温泉 天草渚亭」は『天草でも珍しいオーシャンフロント旅館★鮮度バツグンの海鮮料理、魚釣り…いざ！渚亭』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「松島温泉 天草渚亭」と「天草下田温泉 富士広旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「松島温泉 天草渚亭」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「松島温泉 天草渚亭」へは、ＪＲ 三角駅より車で２０分（送迎あり）／九州産交バス 松島停留所から車で５分。最寄りの三角駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「松島温泉 天草渚亭」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「松島温泉 天草渚亭」は『天草でも珍しいオーシャンフロント旅館★鮮度バツグンの海鮮料理、魚釣り…いざ！渚亭。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「松島温泉 天草渚亭」と「天草下田温泉 富士広旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
 
         {/* セクション 1 */}
@@ -803,7 +803,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「松島温泉 天草渚亭」は『天草でも珍しいオーシャンフロント旅館★鮮度バツグンの海鮮料理、魚釣り…いざ！渚亭』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「松島温泉 天草渚亭」は『天草でも珍しいオーシャンフロント旅館★鮮度バツグンの海鮮料理、魚釣り…いざ！渚亭。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

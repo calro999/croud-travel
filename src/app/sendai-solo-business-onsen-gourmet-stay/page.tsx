@@ -7,11 +7,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/sendai-solo-business-onsen-gourmet-stay/" },
   title: '【仙台出張＆ご褒美ひとり旅】仙台駅近・天然温泉サウナ・牛タン美食！疲れを癒やす杜の都の極上ホテル 厳選3選',
-  description: '東北最大のメガターミナル・仙台！「杜の都の高層パノラマと最高峰クラブラウンジ」を誇る「ウェスティンホテル仙台」、仙台駅西口徒歩すぐで天然温泉大浴場とサウナ・夜鳴きそば完備の「ドーミーイン仙台駅前」、中欧プラハを思わせるクラシック温泉スパ付き「ホテルモントレ仙台」を徹底特集。',
+  description: '東北最大のメガターミナル・仙台！「杜の都の高層パノラマと最高峰クラブラウンジ。」を誇る「ウェスティンホテル仙台」、仙台駅西口徒歩すぐで天然温泉大浴場とサウナ・夜鳴きそば完備の「ドーミーイン仙台駅前」、中欧プラハを思わせるクラシック温泉スパ付き「ホテルモントレ仙台」を徹底特集。',
   keywords: '仙台 出張 ホテル 温泉,仙台 一人旅 ホテル おすすめ,ウェスティンホテル仙台 宿泊,ドーミーイン仙台駅前 サウナ,ホテルモントレ仙台 スパ',
   openGraph: {
     title: '【仙台出張＆ご褒美ひとり旅】仙台駅近・天然温泉サウナ・牛タン美食！疲れを癒やす杜の都の極上ホテル 厳選3選',
-    description: '東北最大のメガターミナル・仙台！「杜の都の高層パノラマと最高峰クラブラウンジ」を誇る「ウェスティンホテル仙台」、仙台駅西口徒歩すぐで天然温泉大浴場とサウナ・夜鳴きそば完備の「ドーミーイン仙台駅前」、中欧プラハを思わせるクラシック温泉スパ付き「ホテルモントレ仙台」を徹底特集。',
+    description: '東北最大のメガターミナル・仙台！「杜の都の高層パノラマと最高峰クラブラウンジ。」を誇る「ウェスティンホテル仙台」、仙台駅西口徒歩すぐで天然温泉大浴場とサウナ・夜鳴きそば完備の「ドーミーイン仙台駅前」、中欧プラハを思わせるクラシック温泉スパ付き「ホテルモントレ仙台」を徹底特集。',
     url: 'https://croud-travel.pages.dev/sendai-solo-business-onsen-gourmet-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -24,7 +24,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【仙台出張＆ご褒美ひとり旅】仙台駅近・天然温泉サウナ・牛タン美食！疲れを癒やす杜の都の極上ホテル 厳選3選',
-    description: '東北最大のメガターミナル・仙台！「杜の都の高層パノラマと最高峰クラブラウンジ」を誇る「ウェスティンホテル仙台」、仙台駅西口徒歩すぐで天然温泉大浴場とサウナ・夜鳴きそば完備の「ドーミーイン仙台駅前」、中欧プラハを思わせるクラシック温泉スパ付き「ホテルモントレ仙台」を徹底特集。',
+    description: '東北最大のメガターミナル・仙台！「杜の都の高層パノラマと最高峰クラブラウンジ。」を誇る「ウェスティンホテル仙台」、仙台駅西口徒歩すぐで天然温泉大浴場とサウナ・夜鳴きそば完備の「ドーミーイン仙台駅前」、中欧プラハを思わせるクラシック温泉スパ付き「ホテルモントレ仙台」を徹底特集。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・出張調査班',
@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-11T02:40:00+09:00',
-    dateModified: '2026-09-11T02:40:00+09:00',
+    datePublished: 'T02:40:00+09:00',
+    dateModified: 'T02:40:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/sendai-solo-business-onsen-gourmet-stay',
   };
 
@@ -78,7 +78,7 @@ export default function ArticlePage() {
           【仙台出張＆ご褒美ひとり旅】仙台駅近・天然温泉サウナ・牛タン美食！疲れを癒やす杜の都の極上ホテル 厳選3選
         </h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
-          東北最大のメガターミナル・仙台！「杜の都の高層パノラマと最高峰クラブラウンジ」を誇る「ウェスティンホテル仙台」、仙台駅西口徒歩すぐで天然温泉大浴場とサウナ・夜鳴きそば完備の「ドーミーイン仙台駅前」、中欧プラハを思わせるクラシック温泉スパ付き「ホテルモントレ仙台」を徹底特集。
+          東北最大のメガターミナル・仙台！「杜の都の高層パノラマと最高峰クラブラウンジ。」を誇る「ウェスティンホテル仙台」、仙台駅西口徒歩すぐで天然温泉大浴場とサウナ・夜鳴きそば完備の「ドーミーイン仙台駅前」、中欧プラハを思わせるクラシック温泉スパ付き「ホテルモントレ仙台」を徹底特集。
         </p>
       </header>
 
@@ -161,7 +161,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.46点。「お部屋からの夜景が圧巻で、ヘブンリーベッドの寝心地が本当に素晴らしい」「スタッフの対応が洗練されており、仙台出張のご褒美として定宿にしています」と高評価。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.46点。「お部屋からの夜景が圧巻で、ヘブンリーベッドの寝心地が本当に素晴らしい。」「スタッフの対応が洗練されており、仙台出張のご褒美として定宿にしています。」と高評価。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -236,7 +236,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.20点。「駅近で天然温泉とサウナに入れるのがありがたい」「朝食の牛タンカレーが美味しく、夜鳴きそばも安定の美味しさでした」と出張族に絶大な安心感。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.20点。「駅近で天然温泉とサウナに入れるのがありがたい。」「朝食の牛タンカレーが美味しく、夜鳴きそばも安定の美味しさでした。」と出張族に絶大な安心感。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -311,7 +311,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.40点。「クラシックな館内がとても素敵で、最上階の温泉スパが最高に気持ちよかった」「仙台駅から近くて一人でも安心して過ごせました」と好評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.40点。「クラシックな館内がとても素敵で、最上階の温泉スパが最高に気持ちよかった。」「仙台駅から近くて一人でも安心して過ごせました。」と好評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">

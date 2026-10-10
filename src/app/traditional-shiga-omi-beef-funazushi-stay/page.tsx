@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【極上近江牛ステーキ＆伝統鮒ずし】琵琶湖の恵みと名湯！おごと温泉の絶景美食宿5選",
     "description": "日本三大和牛「近江牛」のとろける霜降りステーキやしゃぶしゃぶ、そして千年の歴史を誇る伝統発酵食「鮒ずし」！琵琶湖を一望する名湯・おごと温泉で、滋賀の豊かな食文化とレイクビュー露天風呂を堪能。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-    "datePublished": "2026-03-27T00:00:00+09:00",
-    "dateModified": "2026-03-27T00:00:00+09:00",
+    "datePublished": "T00:00:00+09:00",
+    "dateModified": "T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",
@@ -126,7 +126,7 @@ export default function FeaturePage() {
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「おごと温泉 びわこ緑水亭」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「おごと温泉 びわこ緑水亭」へは、名神京都東Ｉ．Ｃから湖西道路経由で20分。最寄りの雄琴駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「おごと温泉 びわこ緑水亭」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「おごと温泉 びわこ緑水亭」は『滋賀県おごと温泉、琵琶湖畔の旅館、露天風呂付客室や近江牛のプラン、家族・カップルに人気の旅』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「おごと温泉 びわこ緑水亭」と「湖畔の宿 雄琴荘」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「おごと温泉 びわこ緑水亭」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「おごと温泉 びわこ緑水亭」へは、名神京都東Ｉ．Ｃから湖西道路経由で20分。最寄りの雄琴駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「おごと温泉 びわこ緑水亭」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「おごと温泉 びわこ緑水亭」は『滋賀県おごと温泉、琵琶湖畔の旅館、露天風呂付客室や近江牛のプラン、家族・カップルに人気の旅。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「おごと温泉 びわこ緑水亭」と「湖畔の宿 雄琴荘」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -353,7 +353,7 @@ export default function FeaturePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「おごと温泉 びわこ緑水亭」は『滋賀県おごと温泉、琵琶湖畔の旅館、露天風呂付客室や近江牛のプラン、家族・カップルに人気の旅』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「おごと温泉 びわこ緑水亭」は『滋賀県おごと温泉、琵琶湖畔の旅館、露天風呂付客室や近江牛のプラン、家族・カップルに人気の旅。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

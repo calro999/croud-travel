@@ -39,8 +39,8 @@ export default function FurusatoArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-10T18:00:00+09:00',
-    dateModified: '2026-09-10T18:00:00+09:00',
+    datePublished: 'T18:00:00+09:00',
+    dateModified: 'T18:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-miyajima-itsukushima-shrine-luxury-stay',
   };
 
@@ -49,7 +49,7 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「宮島潮湯温泉 錦水館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「宮島潮湯温泉 錦水館」へは、宮島口駅よりフェリーで約10分。最寄りの宮島口駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「宮島潮湯温泉 錦水館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「宮島潮湯温泉 錦水館」は『★2025年、温泉付スイートOPEN！●ルーフトップテラス・半露天風呂付客室・お部屋食プラ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「宮島潮湯温泉 錦水館」と「みやじまの宿 岩惣」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「宮島潮湯温泉 錦水館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「宮島潮湯温泉 錦水館」へは、宮島口駅よりフェリーで約10分。最寄りの宮島口駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「宮島潮湯温泉 錦水館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「宮島潮湯温泉 錦水館」は『★2025年、温泉付スイートOPEN！●ルーフトップテラス・半露天風呂付客室・お部屋食プラ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「宮島潮湯温泉 錦水館」と「みやじまの宿 岩惣」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -203,7 +203,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.66点、口コミ2600件超。「宮島で唯一の天然温泉がとても気持ち良かった」「夜の大鳥居のライトアップを見に行くのに最高の立地とおもてなし」と絶賛。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.66点、口コミ2600件超。「宮島で唯一の天然温泉がとても気持ち良かった。」「夜の大鳥居のライトアップを見に行くのに最高の立地とおもてなし。」と絶賛。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -287,7 +287,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.45点。「歴史の重みを感じる佇まいともみじ谷の緑が素晴らしかった」「接客のきめ細やかさと静寂な空間は宮島屈指」と格別の評価。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.45点。「歴史の重みを感じる佇まいともみじ谷の緑が素晴らしかった。」「接客のきめ細やかさと静寂な空間は宮島屈指。」と格別の評価。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.58点、口コミ1500件超。「神社まで本当に近くて夜の散歩が最高だった」「お部屋が広くて綺麗、お料理も牡蠣やお肉がとても美味しかった」と大好評。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.58点、口コミ1500件超。「神社まで本当に近くて夜の散歩が最高だった。」「お部屋が広くて綺麗、お料理も牡蠣やお肉がとても美味しかった。」と大好評。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -578,7 +578,7 @@ export default function FurusatoArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「宮島潮湯温泉 錦水館」は『★2025年、温泉付スイートOPEN！●ルーフトップテラス・半露天風呂付客室・お部屋食プラ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「宮島潮湯温泉 錦水館」は『★2025年、温泉付スイートOPEN！●ルーフトップテラス・半露天風呂付客室・お部屋食プラ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

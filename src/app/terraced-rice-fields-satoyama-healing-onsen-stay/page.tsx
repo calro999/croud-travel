@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/terraced-rice-fields-satoyama-healing-onsen-stay"
   };
 
@@ -87,7 +87,7 @@ export default function Page() {
     "hotelMinCharge": 6600,
     "address1": "兵庫県",
     "address2": "美方郡香美町村岡区大笹688",
-    "telephoneNo": "0796-96-1111",
+    "telephoneNo": "11",
     "access": "お車：北近畿豊岡自動車道・八鹿氷ノ山ＩＣ～Ｒ9鳥取方面へ30分／電車：ＪＲ八鹿駅より車で40分",
     "parkingInformation": "8台　平日1,000円・土日祝1,500円(税込み／泊　１台)　※スキーシーズン以外は無料",
     "nearestStation": "八鹿",
@@ -108,15 +108,15 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31988/31988map.gif",
     "reviewCount": 113,
     "reviewAverage": 4.63,
-    "userReview": "部屋からの景色と洞窟風呂が面白い部屋もきれいで景色もよかったです。また、洞窟風呂は、なかなか面白かったです。クチコミの詳細はこちらから　https://review.travel.rakute…　2026-09-17 19:48:53投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=31988\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "部屋からの景色と洞窟風呂が面白い部屋もきれいで景色もよかったです。また、洞窟風呂は、なかなか面白かったです。",
     "hotelMinCharge": 8140,
     "address1": "長野県",
     "address2": "飯田市千代2303-1",
-    "telephoneNo": "0265-59-2122",
+    "telephoneNo": "22",
     "access": "ＪＲ飯田線　天竜峡駅／中央自動車道飯田ＩＣ・Ｒ１５１経由県道２３７号",
     "parkingInformation": "有　５０台　無料　先着順  【EV・PHEV用の充電設備を新設致しました】",
     "nearestStation": "天竜峡",
-    "hotelSpecial": "「お客様の倖せを　千代に永遠に　お不動さんのお宿」奥天竜は千代【不動温泉】天竜峡に程近い山郷の一軒宿",
+    "hotelSpecial": "「お客様の倖せを 千代に永遠に お不動さんのお宿。」奥天竜は千代【不動温泉】天竜峡に程近い山郷の一軒宿",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31988%2F31988.html"
   }
 ];

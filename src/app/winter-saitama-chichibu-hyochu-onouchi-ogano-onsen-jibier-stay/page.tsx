@@ -318,7 +318,7 @@ export default function FeaturePage() {
                     
                 <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「アットホームな雰囲気と素敵なスタッフに癒やされるアットホームな雰囲気で、滞在中はとてもリラックス出来て過ごせました。働いていらっしゃる方たちが皆素敵ですね～また利用したいと思いました。クチコミ…　2026-10-02 21:30:35投稿 …」"}</p>
+                  <p className="leading-relaxed">{"「アットホームな雰囲気と素敵なスタッフに癒やされるアットホームな雰囲気で、滞在中はとてもリラックス出来て過ごせました。働いていらっしゃる方たちが皆素敵ですね～また利用したいと思いました。クチコミ…。」"}</p>
                 </div>
             
                   </div>
@@ -435,7 +435,7 @@ export default function FeaturePage() {
                     
                 <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「部屋は清潔で温泉も食事も大満足部屋がとてもきれい。温泉も食事も満足できました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/v…　2026-09-30 21:12:24投稿 …」"}</p>
+                  <p className="leading-relaxed">{"「部屋は清潔で温泉も食事も大満足部屋がとてもきれい。温泉も食事も満足できました。」"}</p>
                 </div>
             
                   </div>
@@ -496,7 +496,7 @@ export default function FeaturePage() {
                     
                 <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「スタッフの方達の細やかなお気遣いにほっこり。とても静かにのんびりくつろげます。ちゃんこ鍋をはじめお食事も美味しくて、川魚の塩焼きの焼き加減も最高に抜群でしたお風呂も気持ちよくとてもゆっ…　2026-09-16 07:20:04投稿 つづきは…」"}</p>
+                  <p className="leading-relaxed">{"「スタッフの方達の細やかなお気遣いにほっこり。とても静かにのんびりくつろげます。ちゃんこ鍋をはじめお食事も美味しくて、川魚の塩焼きの焼き加減も最高に抜群でしたお風呂も気持ちよくとてもゆっ… つづきは。」"}</p>
                 </div>
             
                   </div>
@@ -557,7 +557,7 @@ export default function FeaturePage() {
                     
                 <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「ずっと気になってた新木鉱泉さんの枠が空いてたので利用させていただきました。お風呂は自慢の鉱泉だけあって、滑らかに身体に馴染みます。外の露天風呂と源泉の水風呂の交互浴を繰り返し入ることで気持…　2026-09-30 15:03:41投稿 つづ…」"}</p>
+                  <p className="leading-relaxed">{"「ずっと気になってた新木鉱泉さんの枠が空いてたので利用させていただきました。お風呂は自慢の鉱泉だけあって、滑らかに身体に馴染みます。外の露天風呂と源泉の水風呂の交互浴を繰り返し入ることで気持… つづ。」"}</p>
                 </div>
             
                   </div>

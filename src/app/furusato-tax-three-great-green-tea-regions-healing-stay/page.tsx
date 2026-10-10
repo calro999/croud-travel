@@ -74,7 +74,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ホテルルートイン島田駅前」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ホテルルートイン島田駅前」へは、東海道本線『島田駅』より徒歩8分/『東名吉田IC』より車で15分/『富士山静岡空港』より車で約25分。最寄りの島田（静岡）駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ホテルルートイン島田駅前」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ホテルルートイン島田駅前」は『車でも電車でも飛行機でも！！交通に便利なホテルです☆』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ホテルルートイン島田駅前」と「宇治壱番宿にがうり」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ホテルルートイン島田駅前」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ホテルルートイン島田駅前」へは、東海道本線『島田駅』より徒歩8分/『東名吉田IC』より車で15分/『富士山静岡空港』より車で約25分。最寄りの島田（静岡）駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ホテルルートイン島田駅前」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ホテルルートイン島田駅前」は『車でも電車でも飛行機でも！交通に便利なホテルです☆。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ホテルルートイン島田駅前」と「宇治壱番宿にがうり」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* Intro Card */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200/80">
@@ -82,7 +82,7 @@ export default function Page() {
             はじめに
           </h2>
           <p className="text-slate-700 leading-relaxed text-base sm:text-lg">
-            「色は静岡、香りは宇治よ、味は狭山（あるいは朝宮）でとどめさす」と茶摘み唄に歌い継がれてきた「日本三大銘茶（銘茶産地）」――富士山を背景に日本最大の大茶園が広がる静岡の「静岡茶（牧之原・掛川）」、宇治川の朝霧と茶道文化が磨き上げた最高峰の玉露・抹茶を誇る京都の「宇治茶」、そして最澄が唐から持ち帰った茶の種を植えた日本最古の歴史を誇る滋賀・信楽の「朝宮茶（近江茶）」。新緑の季節には瑞々しい新芽が輝き、宿の客室に入れば茶香炉から漂う焙じたての緑茶の香りが旅の疲れを優しく解き放ちます。茶葉を贅沢に使った茶しゃぶしゃぶやお茶スイーツ、煎茶のペアリングを味わう極上の休日を楽天ふるさと納税でお楽しみください。
+            「色は静岡、香りは宇治よ、味は狭山（あるいは朝宮）でとどめさす。」と茶摘み唄に歌い継がれてきた「日本三大銘茶（銘茶産地）」――富士山を背景に日本最大の大茶園が広がる静岡の「静岡茶（牧之原・掛川）」、宇治川の朝霧と茶道文化が磨き上げた最高峰の玉露・抹茶を誇る京都の「宇治茶」、そして最澄が唐から持ち帰った茶の種を植えた日本最古の歴史を誇る滋賀・信楽の「朝宮茶（近江茶）」。新緑の季節には瑞々しい新芽が輝き、宿の客室に入れば茶香炉から漂う焙じたての緑茶の香りが旅の疲れを優しく解き放ちます。茶葉を贅沢に使った茶しゃぶしゃぶやお茶スイーツ、煎茶のペアリングを味わう極上の休日を楽天ふるさと納税でお楽しみください。
           </p>
 
           <div className="mt-8 bg-gradient-to-r from-amber-50 to-orange-50 border border-amber-200 rounded-xl p-5 sm:p-6">
@@ -754,7 +754,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「ホテルルートイン島田駅前」は『車でも電車でも飛行機でも！！交通に便利なホテルです☆』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「ホテルルートイン島田駅前」は『車でも電車でも飛行機でも！交通に便利なホテルです☆。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

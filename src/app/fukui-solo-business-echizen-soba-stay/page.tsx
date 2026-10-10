@@ -7,11 +7,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/fukui-solo-business-echizen-soba-stay/" },
   title: '【福井出張＆越前美食ひとり旅】北陸新幹線福井駅前・マリオット最新開業・天然温泉大浴場！越前おろしそばとソースカツ丼を満喫する極上宿 厳選3選',
-  description: '北陸新幹線延伸で東京から直結・恐竜王国＆ものづくりの街「福井」！「2024年開業・福井駅前広場正面の最新最高峰」の「コートヤード・バイ・マリオット福井」、福井駅西口徒歩1分で露天風呂付き大浴場とサウナが自慢の「福井マンテンホテル駅前」、駅前大浴場付き「ホテルルートイン福井駅前」を徹底特集。',
+  description: '北陸新幹線延伸で東京から直結・恐竜王国＆ものづくりの街「福井」！「2024年開業・福井駅前広場正面の最新最高峰。」の「コートヤード・バイ・マリオット福井」、福井駅西口徒歩1分で露天風呂付き大浴場とサウナが自慢の「福井マンテンホテル駅前」、駅前大浴場付き「ホテルルートイン福井駅前」を徹底特集。',
   keywords: '福井 出張 ホテル おすすめ,福井 一人旅 ホテル,コートヤードバイマリオット福井 宿泊,福井マンテンホテル駅前 サウナ,福井 越前そば ホテル',
   openGraph: {
     title: '【福井出張＆越前美食ひとり旅】北陸新幹線福井駅前・マリオット最新開業・天然温泉大浴場！越前おろしそばとソースカツ丼を満喫する極上宿 厳選3選',
-    description: '北陸新幹線延伸で東京から直結・恐竜王国＆ものづくりの街「福井」！「2024年開業・福井駅前広場正面の最新最高峰」の「コートヤード・バイ・マリオット福井」、福井駅西口徒歩1分で露天風呂付き大浴場とサウナが自慢の「福井マンテンホテル駅前」、駅前大浴場付き「ホテルルートイン福井駅前」を徹底特集。',
+    description: '北陸新幹線延伸で東京から直結・恐竜王国＆ものづくりの街「福井」！「2024年開業・福井駅前広場正面の最新最高峰。」の「コートヤード・バイ・マリオット福井」、福井駅西口徒歩1分で露天風呂付き大浴場とサウナが自慢の「福井マンテンホテル駅前」、駅前大浴場付き「ホテルルートイン福井駅前」を徹底特集。',
     url: 'https://croud-travel.pages.dev/fukui-solo-business-echizen-soba-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -24,7 +24,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【福井出張＆越前美食ひとり旅】北陸新幹線福井駅前・マリオット最新開業・天然温泉大浴場！越前おろしそばとソースカツ丼を満喫する極上宿 厳選3選',
-    description: '北陸新幹線延伸で東京から直結・恐竜王国＆ものづくりの街「福井」！「2024年開業・福井駅前広場正面の最新最高峰」の「コートヤード・バイ・マリオット福井」、福井駅西口徒歩1分で露天風呂付き大浴場とサウナが自慢の「福井マンテンホテル駅前」、駅前大浴場付き「ホテルルートイン福井駅前」を徹底特集。',
+    description: '北陸新幹線延伸で東京から直結・恐竜王国＆ものづくりの街「福井」！「2024年開業・福井駅前広場正面の最新最高峰。」の「コートヤード・バイ・マリオット福井」、福井駅西口徒歩1分で露天風呂付き大浴場とサウナが自慢の「福井マンテンホテル駅前」、駅前大浴場付き「ホテルルートイン福井駅前」を徹底特集。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・出張調査班',
@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-12T15:45:00+09:00',
-    dateModified: '2026-09-12T15:45:00+09:00',
+    datePublished: 'T15:45:00+09:00',
+    dateModified: 'T15:45:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/fukui-solo-business-echizen-soba-stay',
   };
 
@@ -78,7 +78,7 @@ export default function ArticlePage() {
           【福井出張＆越前美食ひとり旅】北陸新幹線福井駅前・マリオット最新開業・天然温泉大浴場！越前おろしそばとソースカツ丼を満喫する極上宿 厳選3選
         </h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
-          北陸新幹線延伸で東京から直結・恐竜王国＆ものづくりの街「福井」！「2024年開業・福井駅前広場正面の最新最高峰」の「コートヤード・バイ・マリオット福井」、福井駅西口徒歩1分で露天風呂付き大浴場とサウナが自慢の「福井マンテンホテル駅前」、駅前大浴場付き「ホテルルートイン福井駅前」を徹底特集。
+          北陸新幹線延伸で東京から直結・恐竜王国＆ものづくりの街「福井」！「2024年開業・福井駅前広場正面の最新最高峰。」の「コートヤード・バイ・マリオット福井」、福井駅西口徒歩1分で露天風呂付き大浴場とサウナが自慢の「福井マンテンホテル駅前」、駅前大浴場付き「ホテルルートイン福井駅前」を徹底特集。
         </p>
       </header>
 
@@ -161,7 +161,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.40点。「新しくて部屋が広く、福井駅前でダントツにラグジュアリーでした」「スタッフの対応も洗練されており、出張利用に最高峰のホテル」と絶賛。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.40点。「新しくて部屋が広く、福井駅前でダントツにラグジュアリーでした。」「スタッフの対応も洗練されており、出張利用に最高峰のホテル。」と絶賛。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -236,7 +236,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.35点。「駅前すぐで大浴場とサウナがあるのが本当にありがたい」「お部屋も清潔でベッドも快適、福井出張の定宿です」と高評価。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.35点。「駅前すぐで大浴場とサウナがあるのが本当にありがたい。」「お部屋も清潔でベッドも快適、福井出張の定宿です。」と高評価。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -311,7 +311,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価3.93点。「駅から近くて大浴場もあり、コストパフォーマンスが良い」「安定のルートインクオリティで安心感がありました」と好評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価3.93点。「駅から近くて大浴場もあり、コストパフォーマンスが良い。」「安定のルートインクオリティで安心感がありました。」と好評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">

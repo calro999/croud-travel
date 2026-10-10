@@ -7,11 +7,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kobe-solo-luxury-oceanview-onsen-stay/" },
   title: '【神戸ひとり旅・港町ご褒美泊】ハーバーランド夜景・地下天然温泉・極上朝食！海風に癒やされる大人のおこもり宿 厳選3選',
-  description: '「異国情緒あふれる神戸港の夜景を眺めながら、静かにワインを傾けたい」「上質な天然温泉とスパで心身を極限までリフレッシュしたい」。そんなソロトラベラーへ。270度海に囲まれた天然温泉旅館「神戸みなと温泉 蓮」、全室70㎡以上・ジャグジー付きの最高峰「ホテル ラ・スイート神戸ハーバーランド」、全室バルコニー付きで海に浮かぶような「神戸メリケンパークオリエンタルホテル」を徹底特集。',
+  description: '「異国情緒あふれる神戸港の夜景を眺めながら、静かにワインを傾けたい。」「上質な天然温泉とスパで心身を極限までリフレッシュしたい。」。そんなソロトラベラーへ。270度海に囲まれた天然温泉旅館「神戸みなと温泉 蓮」、全室70㎡以上・ジャグジー付きの最高峰「ホテル ラ・スイート神戸ハーバーランド」、全室バルコニー付きで海に浮かぶような「神戸メリケンパークオリエンタルホテル」を徹底特集。',
   keywords: '神戸 一人旅 ホテル 高級,神戸 温泉 ホテル 一人,神戸みなと温泉 蓮 宿泊,ホテル ラ・スイート神戸ハーバーランド 一人,神戸港 夜景 ホテル',
   openGraph: {
     title: '【神戸ひとり旅・港町ご褒美泊】ハーバーランド夜景・地下天然温泉・極上朝食！海風に癒やされる大人のおこもり宿 厳選3選',
-    description: '「異国情緒あふれる神戸港の夜景を眺めながら、静かにワインを傾けたい」「上質な天然温泉とスパで心身を極限までリフレッシュしたい」。そんなソロトラベラーへ。270度海に囲まれた天然温泉旅館「神戸みなと温泉 蓮」、全室70㎡以上・ジャグジー付きの最高峰「ホテル ラ・スイート神戸ハーバーランド」、全室バルコニー付きで海に浮かぶような「神戸メリケンパークオリエンタルホテル」を徹底特集。',
+    description: '「異国情緒あふれる神戸港の夜景を眺めながら、静かにワインを傾けたい。」「上質な天然温泉とスパで心身を極限までリフレッシュしたい。」。そんなソロトラベラーへ。270度海に囲まれた天然温泉旅館「神戸みなと温泉 蓮」、全室70㎡以上・ジャグジー付きの最高峰「ホテル ラ・スイート神戸ハーバーランド」、全室バルコニー付きで海に浮かぶような「神戸メリケンパークオリエンタルホテル」を徹底特集。',
     url: 'https://croud-travel.pages.dev/kobe-solo-luxury-oceanview-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -24,7 +24,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【神戸ひとり旅・港町ご褒美泊】ハーバーランド夜景・地下天然温泉・極上朝食！海風に癒やされる大人のおこもり宿 厳選3選',
-    description: '「異国情緒あふれる神戸港の夜景を眺めながら、静かにワインを傾けたい」「上質な天然温泉とスパで心身を極限までリフレッシュしたい」。そんなソロトラベラーへ。270度海に囲まれた天然温泉旅館「神戸みなと温泉 蓮」、全室70㎡以上・ジャグジー付きの最高峰「ホテル ラ・スイート神戸ハーバーランド」、全室バルコニー付きで海に浮かぶような「神戸メリケンパークオリエンタルホテル」を徹底特集。',
+    description: '「異国情緒あふれる神戸港の夜景を眺めながら、静かにワインを傾けたい。」「上質な天然温泉とスパで心身を極限までリフレッシュしたい。」。そんなソロトラベラーへ。270度海に囲まれた天然温泉旅館「神戸みなと温泉 蓮」、全室70㎡以上・ジャグジー付きの最高峰「ホテル ラ・スイート神戸ハーバーランド」、全室バルコニー付きで海に浮かぶような「神戸メリケンパークオリエンタルホテル」を徹底特集。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・出張調査班',
@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-11T02:40:00+09:00',
-    dateModified: '2026-09-11T02:40:00+09:00',
+    datePublished: 'T02:40:00+09:00',
+    dateModified: 'T02:40:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/kobe-solo-luxury-oceanview-onsen-stay',
   };
 
@@ -78,7 +78,7 @@ export default function ArticlePage() {
           【神戸ひとり旅・港町ご褒美泊】ハーバーランド夜景・地下天然温泉・極上朝食！海風に癒やされる大人のおこもり宿 厳選3選
         </h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
-          「異国情緒あふれる神戸港の夜景を眺めながら、静かにワインを傾けたい」「上質な天然温泉とスパで心身を極限までリフレッシュしたい」。そんなソロトラベラーへ。270度海に囲まれた天然温泉旅館「神戸みなと温泉 蓮」、全室70㎡以上・ジャグジー付きの最高峰「ホテル ラ・スイート神戸ハーバーランド」、全室バルコニー付きで海に浮かぶような「神戸メリケンパークオリエンタルホテル」を徹底特集。
+          「異国情緒あふれる神戸港の夜景を眺めながら、静かにワインを傾けたい。」「上質な天然温泉とスパで心身を極限までリフレッシュしたい。」。そんなソロトラベラーへ。270度海に囲まれた天然温泉旅館「神戸みなと温泉 蓮」、全室70㎡以上・ジャグジー付きの最高峰「ホテル ラ・スイート神戸ハーバーランド」、全室バルコニー付きで海に浮かぶような「神戸メリケンパークオリエンタルホテル」を徹底特集。
         </p>
       </header>
 
@@ -161,7 +161,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.62点。「温泉の泉質が素晴らしく、テラスから見える夜景が最高のご褒美でした」「一人でも温かく迎え入れてくれて、日頃のストレスが完全に消えました」と大人女子・ソロ客から絶賛。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.62点。「温泉の泉質が素晴らしく、テラスから見える夜景が最高のご褒美でした。」「一人でも温かく迎え入れてくれて、日頃のストレスが完全に消えました。」と大人女子・ソロ客から絶賛。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -236,7 +236,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.74点。「自分へのご褒美ステイで宿泊しましたが、お部屋、ジャグジー、朝食すべてが完璧でした」「スタッフの細やかな気配りに感動しました」と圧倒的な高評価。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.74点。「自分へのご褒美ステイで宿泊しましたが、お部屋、ジャグジー、朝食すべてが完璧でした。」「スタッフの細やかな気配りに感動しました」と圧倒的な高評価。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -311,7 +311,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.51点。「バルコニーからの夜景がロマンチックで、海の上に泊まっているような感覚でした」「一人ステイケーションに最適でリフレッシュできました」と定評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.51点。「バルコニーからの夜景がロマンチックで、海の上に泊まっているような感覚でした。」「一人ステイケーションに最適でリフレッシュできました。」と定評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">

@@ -39,8 +39,8 @@ export default function FurusatoArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-10T17:25:00+09:00',
-    dateModified: '2026-09-10T17:25:00+09:00',
+    datePublished: 'T17:25:00+09:00',
+    dateModified: 'T17:25:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-zao-onsen-acid-sulfur-stay',
   };
 
@@ -203,7 +203,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.67点、口コミ900件超。「お風呂の雰囲気が映画のワンシーンのようで素晴らしくお湯も最高」「お料理も接客もすべてが名門にふさわしく感動した」と絶賛。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.67点、口コミ900件超。「お風呂の雰囲気が映画のワンシーンのようで素晴らしくお湯も最高。」「お料理も接客もすべてが名門にふさわしく感動した。」と絶賛。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -287,7 +287,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.56点、口コミ2400件超。「八右衛門の湯が素晴らしく乳白色のお湯に感動」「スタッフの接客が親切でお料理もとても美味しかった」と高評価。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.56点、口コミ2400件超。「八右衛門の湯が素晴らしく乳白色のお湯に感動。」「スタッフの接客が親切でお料理もとても美味しかった。」と高評価。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.43点、口コミ1900件超。「離れの百八歩の湯の雰囲気が最高で白濁湯を満喫できた」「館内が静かで落ち着いており、食事も美味しかった」と好評。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.43点、口コミ1900件超。「離れの百八歩の湯の雰囲気が最高で白濁湯を満喫できた。」「館内が静かで落ち着いており、食事も美味しかった。」と好評。</p>
               </div>
 
               {/* 宿基本情報 */}

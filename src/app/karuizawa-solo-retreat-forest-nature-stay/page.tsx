@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-12T16:15:00+09:00',
-    dateModified: '2026-09-12T16:15:00+09:00',
+    datePublished: 'T16:15:00+09:00',
+    dateModified: 'T16:15:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/karuizawa-solo-retreat-forest-nature-stay',
   };
 
@@ -77,7 +77,7 @@ export default function ArticlePage() {
           【軽井沢ひとり旅・森林リトリート】浅間山ビュー・天然温泉＆スパ・洗練リゾートステイ！都心から1時間の高原おこもり厳選3宿
         </h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
-          <time dateTime="2026-09-12">2026.09.12 更新</time>
+          <time dateTime="">2026.09.12 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
         </div>

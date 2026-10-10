@@ -62,7 +62,7 @@ export default function FurusatoZaoOnsenOkamaStayPage() {
           エメラルドの火口湖「御釜」と冬の樹氷スノーモンスター！山形蔵王温泉の乳白色強酸性硫黄泉＆極上山形牛名門宿×ふるさと納税完全攻略ガイド【2026年最新】蔵王国際・四季のホテル・高見屋
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-10">2026年9月10日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -77,7 +77,7 @@ export default function FurusatoZaoOnsenOkamaStayPage() {
           エメラルドグリーンに輝く御釜、冬を彩る巨大な樹氷。日本屈指の強酸性美肌にごり湯に包まれる山形蔵王の旅へ
         </h2>
         <p className="text-base md:text-lg text-gray-800 leading-relaxed mb-6">
-          山形県と宮城県にまたがる雄峰・蔵王連峰の山腹に位置し、西暦110年（日本武尊の東征の折）に開湯したと伝わる東北最古級の名湯「山形・蔵王温泉（ざおうおんせん）」。エメラルドグリーンの湖水が神秘的な表情を見せる火口湖「御釜（おかま）」をはじめ、冬に針葉樹アオモリトドマツが氷と雪に覆われて巨大化する世界的な奇観「スノーモンスター（樹氷）」、そして標高の高い高原ならではの高山植物や大パノラマの雲海など、息を呑む大自然が広がります。蔵王温泉の代名詞は、日本屈指の強酸性（pH1.5〜2.0前後）を誇る乳白色の「天然硫黄泉」。「皮膚を強くし、肌を白く滑らかにする美人づくりの湯」として全国に名を轟かせ、湯船を満たす白濁した濃厚なお湯と立ちのぼる硫黄の香りは、まさに本物の温泉地ならではの醍醐味です。宿の木造露天風呂に身を沈めれば、高原の澄んだ空気とともに日頃の疲れが完全に消え去ります。さらに山形の食文化は全国トップクラス。厳しい寒暖差が育んだ極上の黒毛和牛「山形牛」のステーキやすき焼き、山形名物の芋煮鍋、山菜やキノコ、つや姫のご飯など、里山の豊かな実りを盛り込んだ贅沢な会席料理が旅人の舌を魅了します。本特集では、総木造り丸太梁の圧巻の大浴場「八右衛門の湯」と口コミ4.7超を誇る「蔵王国際ホテル」、百松河原に佇む風流な離れ湯「白金の湯」が人気の「蔵王四季のホテル」、そして創業三百年・純和風木造数寄屋造りの風格と自家源泉かけ流しを誇る「深山荘 高見屋」の3宿を厳選。山形県山形市への楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円で憧れの蔵王温泉ステイをお得に予約しましょう。
+          山形県と宮城県にまたがる雄峰・蔵王連峰の山腹に位置し、西暦110年（日本武尊の東征の折）に開湯したと伝わる東北最古級の名湯「山形・蔵王温泉（ざおうおんせん）」。エメラルドグリーンの湖水が神秘的な表情を見せる火口湖「御釜（おかま）」をはじめ、冬に針葉樹アオモリトドマツが氷と雪に覆われて巨大化する世界的な奇観「スノーモンスター（樹氷）」、そして標高の高い高原ならではの高山植物や大パノラマの雲海など、息を呑む大自然が広がります。蔵王温泉の代名詞は、日本屈指の強酸性（pH1.5〜2.0前後）を誇る乳白色の「天然硫黄泉」。「皮膚を強くし、肌を白く滑らかにする美人づくりの湯。」として全国に名を轟かせ、湯船を満たす白濁した濃厚なお湯と立ちのぼる硫黄の香りは、まさに本物の温泉地ならではの醍醐味です。宿の木造露天風呂に身を沈めれば、高原の澄んだ空気とともに日頃の疲れが完全に消え去ります。さらに山形の食文化は全国トップクラス。厳しい寒暖差が育んだ極上の黒毛和牛「山形牛」のステーキやすき焼き、山形名物の芋煮鍋、山菜やキノコ、つや姫のご飯など、里山の豊かな実りを盛り込んだ贅沢な会席料理が旅人の舌を魅了します。本特集では、総木造り丸太梁の圧巻の大浴場「八右衛門の湯」と口コミ4.7超を誇る「蔵王国際ホテル」、百松河原に佇む風流な離れ湯「白金の湯」が人気の「蔵王四季のホテル」、そして創業三百年・純和風木造数寄屋造りの風格と自家源泉かけ流しを誇る「深山荘 高見屋」の3宿を厳選。山形県山形市への楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円で憧れの蔵王温泉ステイをお得に予約しましょう。
         </p>
         <div className="bg-white/90 rounded-xl p-4 md:p-5 border border-amber-300 shadow-sm">
           <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5">
@@ -164,7 +164,7 @@ export default function FurusatoZaoOnsenOkamaStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “母も安心の設備と温泉、食事に大満足初めての蔵王温泉、高齢の母と宿泊しました。すてきなお部屋、かつ手すりなどもあり母も動きやすそうでした。お食事は少なめプランでも十分満足でき、朝夕共に地元のお料理や…　2026-09-03 11:56:29投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “母も安心の設備と温泉、食事に大満足初めての蔵王温泉、高齢の母と宿泊しました。すてきなお部屋、かつ手すりなどもあり母も動きやすそうでした。お食事は少なめプランでも十分満足でき、朝夕共に地元のお料理や… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -206,7 +206,7 @@ export default function FurusatoZaoOnsenOkamaStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “量より質の夕食と親切なスタッフに大満足今回量より質の夕食プランでお願いしました。程よく適量なお食事は、男性でも満足のいくボリュームと豪華さで大満足です。スタッフの皆様もとても親切で、居…　2026-09-05 19:39:14投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “量より質の夕食と親切なスタッフに大満足今回量より質の夕食プランでお願いしました。程よく適量なお食事は、男性でも満足のいくボリュームと豪華さで大満足です。スタッフの皆様もとても親切で、居… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -248,7 +248,7 @@ export default function FurusatoZaoOnsenOkamaStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “他の画像やクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/38534?reviewId=33123479254140　2026-09-04 21:22:48投稿”
+              <strong>宿泊者の声:</strong> “他の画像や”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -323,7 +323,7 @@ export default function FurusatoZaoOnsenOkamaStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

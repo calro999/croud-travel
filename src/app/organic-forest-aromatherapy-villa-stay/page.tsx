@@ -34,7 +34,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70934/70934map.gif",
     "reviewCount": 396,
     "reviewAverage": 4.32,
-    "userReview": "夜景が素晴らしく 感激しました。音楽ルームや図書室、瞑想ルームもあり、非日常を感じました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.…　2026-09-14 11:45:47投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=70934\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "夜景が素晴らしく 感激しました。音楽ルームや図書室、瞑想ルームもあり、非日常を感じました。",
     "hotelMinCharge": 8800,
     "address1": "兵庫県",
     "address2": "姫路市広嶺山224-26",
@@ -63,7 +63,7 @@ const hotels: any[] = [
     "hotelMinCharge": 19600,
     "address1": "東京都",
     "address2": "八丈島八丈町三根1412-1",
-    "telephoneNo": "04996-2-1745",
+    "telephoneNo": "045",
     "access": "八丈島空港よりお車にて約７分 底土港よりお車にて約１分 八重根港よりお車にて約1０分",
     "parkingInformation": "有り　４台　無料　予約不要",
     "nearestStation": "八丈島空港",
@@ -109,7 +109,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/151049/151049map.gif",
     "reviewCount": 43,
     "reviewAverage": 4.53,
-    "userReview": "温泉と食事が最高、鮎の美味しさに感動!大変お世話になりました。温泉は無色透明なんだけど、入るとツルツルして気持ちよかったです。食事と地酒美味しかったです。今まで鮎は苦手で食べることができませんでし…　2026-08-12 11:19:29投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=151049\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "温泉と食事が最高、鮎の美味しさに感動!大変お世話になりました。温泉は無色透明なんだけど、入るとツルツルして気持ちよかったです。食事と地酒美味しかったです。今まで鮎は苦手で食べることができませんでし。",
     "hotelMinCharge": 15000,
     "address1": "宮城県",
     "address2": "黒川郡大和町宮床高山18-13",
@@ -134,11 +134,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/56748/56748map.gif",
     "reviewCount": 257,
     "reviewAverage": 4.79,
-    "userReview": "カップルでゆったり過ごす贅沢な時間非日常を味わえる所が1番かな。チェックインも早目に出来るから日の高い内から持参したお酒とおつまみで夕食まで存分に楽しめるし、合間に温泉、プールも満喫出…　2026-09-03 21:18:49投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=56748\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "カップルでゆったり過ごす贅沢な時間非日常を味わえる所が1番かな。チェックインも早目に出来るから日の高い内から持参したお酒とおつまみで夕食まで存分に楽しめるし、合間に温泉、プールも満喫出。",
     "hotelMinCharge": 19250,
     "address1": "鹿児島県",
     "address2": "指宿市十二町6771-6",
-    "telephoneNo": "0993-22-2217",
+    "telephoneNo": "17",
     "access": "ＪＲ指宿駅よりタクシーで１３分 ★お越しの際はGoogleマップにて『悠離庵』とご設定下さい★",
     "parkingInformation": "有り　１７台　無料　予約不要",
     "nearestStation": "指宿",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「軽井沢森四季ＶＩＬＬＡ」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「軽井沢森四季ＶＩＬＬＡ」へは、星野温泉・ハルニレテラスまで1km徒歩圏、中軽井沢駅から車で約３分（２．６ｋｍ）。最寄りの中軽井沢駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「軽井沢森四季ＶＩＬＬＡ」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「軽井沢森四季ＶＩＬＬＡ」は『軽井沢の森に佇む上質な一棟貸し別荘。 苔庭でBBQや焚き火、炭火料理と24時間対応の安心滞』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「軽井沢森四季ＶＩＬＬＡ」では季節ごとに異なる宿泊プランや料理プランが用意されています。ご旅行の人数や滞在スタイルに合わせて最適なプランをお選びいただけます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「軽井沢森四季ＶＩＬＬＡ」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「軽井沢森四季ＶＩＬＬＡ」へは、星野温泉・ハルニレテラスまで1km徒歩圏、中軽井沢駅から車で約３分（２．６ｋｍ）。最寄りの中軽井沢駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「軽井沢森四季ＶＩＬＬＡ」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「軽井沢森四季ＶＩＬＬＡ」は『軽井沢の森に佇む上質な一棟貸し別荘。苔庭でBBQや焚き火、炭火料理と24時間対応の安心滞。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「軽井沢森四季ＶＩＬＬＡ」では季節ごとに異なる宿泊プランや料理プランが用意されています。ご旅行の人数や滞在スタイルに合わせて最適なプランをお選びいただけます。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -628,7 +628,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「軽井沢森四季ＶＩＬＬＡ」は『軽井沢の森に佇む上質な一棟貸し別荘。 苔庭でBBQや焚き火、炭火料理と24時間対応の安心滞』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「軽井沢森四季ＶＩＬＬＡ」は『軽井沢の森に佇む上質な一棟貸し別荘。苔庭でBBQや焚き火、炭火料理と24時間対応の安心滞。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

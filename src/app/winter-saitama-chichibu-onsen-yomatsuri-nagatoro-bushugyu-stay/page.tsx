@@ -177,8 +177,8 @@ export default function WinterSaitamaChichibuPage() {
         'description': "11月から12月にかけて、都心から特急でわずか80分あまりの近さにありながら、奥武蔵の山々に抱かれた埼玉県「秩父・長瀞」は、冬ならではの活気と幽玄な静けさが同居する最もドラマチックな季節を迎えます。12月2日・3日にはユネスコ無形文化遺産に登録された日本三大曳山祭の一つ「秩父夜祭」が開催され、絢爛豪華な屋台や笠鉾が街を練り歩き、冬の澄み渡る夜空に壮大な花火が打ち上がります。荒川の清流を暖かなぬくもりで巡る「長瀞こたつ舟」、日本通貨発祥の地に湧く和銅鉱泉をはじめとする肌触り滑らかな名湯。夕食には埼玉が誇る最高峰の黒毛和牛「武州和牛（ぶしゅうわぎゅう）」のすき焼き、秩父伝統の「豚肉の味噌漬け」、秩父名水手打ち蕎麦。秩父路の冬情緒を心ゆくまで堪能できる厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
         'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay',
-        'datePublished': '2026-09-29T00:00:00+09:00',
-        'dateModified': '2026-09-29T00:00:00+09:00',
+        'datePublished': 'T00:00:00+09:00',
+        'dateModified': 'T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
           'name': 'クラドトラベル編集部',

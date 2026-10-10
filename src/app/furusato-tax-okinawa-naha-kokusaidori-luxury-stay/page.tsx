@@ -39,8 +39,8 @@ export default function FurusatoArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-11T01:10:00+09:00',
-    dateModified: '2026-09-11T01:10:00+09:00',
+    datePublished: 'T01:10:00+09:00',
+    dateModified: 'T01:10:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-okinawa-naha-kokusaidori-luxury-stay',
   };
 
@@ -49,7 +49,7 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ハイアットリージェンシー那覇沖縄」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ハイアットリージェンシー那覇沖縄」へは、那覇空港から車で約20分、ゆいレール「牧志駅」から徒歩8分 、国際通りまで徒歩3分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「ハイアットリージェンシー那覇沖縄」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ハイアットリージェンシー那覇沖縄」は『国際通り徒歩圏内、洗練された空間と心地よいおもてなしで上質な滞在を』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ハイアットリージェンシー那覇沖縄」と「ホテルコレクティブ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ハイアットリージェンシー那覇沖縄」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ハイアットリージェンシー那覇沖縄」へは、那覇空港から車で約20分、ゆいレール「牧志駅」から徒歩8分 、国際通りまで徒歩3分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「ハイアットリージェンシー那覇沖縄」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ハイアットリージェンシー那覇沖縄」は『国際通り徒歩圏内、洗練された空間と心地よいおもてなしで上質な滞在を。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ハイアットリージェンシー那覇沖縄」と「ホテルコレクティブ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -203,7 +203,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.44点、口コミ2000件超。「国際通りが近くて便利、最上階のラウンジからの景色が最高」「スタッフの気配りが素晴らしく、お部屋のベッドも快適」と絶賛。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.44点、口コミ2000件超。「国際通りが近くて便利、最上階のラウンジからの景色が最高。」「スタッフの気配りが素晴らしく、お部屋のベッドも快適。」と絶賛。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -287,7 +287,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.64点、口コミ高評価。「国際通り直結で立地が最強、大浴場やプールもあって最高だった」「お部屋が広くて綺麗、朝食ビュッフェのレベルが高い」と大人気。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.64点、口コミ高評価。「国際通り直結で立地が最強、大浴場やプールもあって最高だった。」「お部屋が広くて綺麗、朝食ビュッフェのレベルが高い。」と大人気。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.33点、口コミ高評価。「那覇で本格的な天然温泉に入れるのが素晴らしい」「空港から近くて移動が楽、お部屋も広くてくつろげた」とシニア・家族連れに人気。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.33点、口コミ高評価。「那覇で本格的な天然温泉に入れるのが素晴らしい。」「空港から近くて移動が楽、お部屋も広くてくつろげた。」とシニア・家族連れに人気。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -578,7 +578,7 @@ export default function FurusatoArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「ハイアットリージェンシー那覇沖縄」は『国際通り徒歩圏内、洗練された空間と心地よいおもてなしで上質な滞在を』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「ハイアットリージェンシー那覇沖縄」は『国際通り徒歩圏内、洗練された空間と心地よいおもてなしで上質な滞在を。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

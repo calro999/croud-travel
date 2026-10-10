@@ -73,7 +73,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「都リゾート 奥志摩 アクアフォレスト」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「都リゾート 奥志摩 アクアフォレスト」へは、近鉄賢島駅よりシャトルバスで25分／伊勢神宮から車で50分／志摩スペイン村オフィシャルホテル★プレミアムパス有★車25分。最寄りの賢島駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「都リゾート 奥志摩 アクアフォレスト」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「都リゾート 奥志摩 アクアフォレスト」は『豊かな大自然と美しい英虞湾に囲まれたシーサイドリゾート 天然温泉、天文館 わんちゃん宿泊可』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「都リゾート 奥志摩 アクアフォレスト」と「グランドメルキュール伊勢志摩リゾート＆スパ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「都リゾート 奥志摩 アクアフォレスト」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「都リゾート 奥志摩 アクアフォレスト」へは、近鉄賢島駅よりシャトルバスで25分／伊勢神宮から車で50分／志摩スペイン村オフィシャルホテル★プレミアムパス有★車25分。最寄りの賢島駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「都リゾート 奥志摩 アクアフォレスト」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「都リゾート 奥志摩 アクアフォレスト」は『豊かな大自然と美しい英虞湾に囲まれたシーサイドリゾート 天然温泉、天文館 わんちゃん宿泊可。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「都リゾート 奥志摩 アクアフォレスト」と「グランドメルキュール伊勢志摩リゾート＆スパ。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
 
         {/* セクション 1 */}
@@ -689,7 +689,7 @@ export default function Page() {
                         伊勢志摩国立公園・二見浦　二見温泉　蘇民の湯　ホテル清海
                       </h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
-                        ※【重要なご案内】2017年3月14日より、ご夕食のお品書きを季節に応じたお料理に変更いたします。
+                        ※【重要なご案内】より、ご夕食のお品書きを季節に応じたお料理に変更いたします。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
                         📍 三重県伊勢市二見町松下1349－136
@@ -819,7 +819,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「都リゾート 奥志摩 アクアフォレスト」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「都リゾート 奥志摩 アクアフォレスト」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「グランドメルキュール伊勢志摩リゾート＆スパ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「グランドメルキュール伊勢志摩リゾート＆スパ。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -849,7 +849,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「都リゾート 奥志摩 アクアフォレスト」は『豊かな大自然と美しい英虞湾に囲まれたシーサイドリゾート 天然温泉、天文館 わんちゃん宿泊可』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「都リゾート 奥志摩 アクアフォレスト」は『豊かな大自然と美しい英虞湾に囲まれたシーサイドリゾート 天然温泉、天文館 わんちゃん宿泊可。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -858,7 +858,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「都リゾート 奥志摩 アクアフォレスト」と「グランドメルキュール伊勢志摩リゾート＆スパ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「都リゾート 奥志摩 アクアフォレスト」と「グランドメルキュール伊勢志摩リゾート＆スパ。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

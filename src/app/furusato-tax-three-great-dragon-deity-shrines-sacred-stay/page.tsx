@@ -49,7 +49,7 @@ export default function FurusatoRound63ArticlePage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「奈良ホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「奈良ホテル」へは、近鉄奈良駅東改札口B出口より徒歩約15分。最寄りの近鉄奈良駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「奈良ホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「奈良ホテル」は『関西の迎賓館として1909年創業。伝統のおもてなしで心に残る旅を。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「奈良ホテル」と「京都“元祖川床”発祥の老舗料理旅館 貴船ふじや」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「奈良ホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「奈良ホテル」へは、近鉄奈良駅東改札口B出口より徒歩約15分。最寄りの近鉄奈良駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「奈良ホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「奈良ホテル」は『関西の迎賓館として1909年創業。伝統のおもてなしで心に残る旅を。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「奈良ホテル」と「京都“元祖川床”発祥の老舗料理旅館 貴船ふじや。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -190,7 +190,7 @@ export default function FurusatoRound63ArticlePage() {
                     奈良ホテル
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「朝食スタッフの笑顔と心配りに感激!朝食時のスタッフの対応の美しさと心配りに感激しました!素晴らしい笑顔とスムーズな動きでした! クチコミの詳細はこちらから https://review.tra… 2026-09-03 16:27:04投稿 つづきはこちら…」
+                    「朝食スタッフの笑顔と心配りに感激!朝食時のスタッフの対応の美しさと心配りに感激しました!素晴らしい笑顔とスムーズな動きでした!」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -300,7 +300,7 @@ export default function FurusatoRound63ArticlePage() {
                     小田急　山のホテル
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「丁寧な食事対応と温泉に癒やされるひとときとても丁寧な対応で嬉しかったです!食事制限のある家族と共に宿泊させて頂きましたが、丁寧に対応して頂くことが出来ました。景色や温泉も良くて癒されました!ま… 2026-08-29 20:03:52投稿 つづきはこちら…」
+                    「丁寧な食事対応と温泉に癒やされるひとときとても丁寧な対応で嬉しかったです!食事制限のある家族と共に宿泊させて頂きましたが、丁寧に対応して頂くことが出来ました。景色や温泉も良くて癒されました!ま…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -433,7 +433,7 @@ export default function FurusatoRound63ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「奈良ホテル」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「奈良ホテル」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「京都“元祖川床”発祥の老舗料理旅館 貴船ふじや」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「京都“元祖川床”発祥の老舗料理旅館 貴船ふじや。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -472,7 +472,7 @@ export default function FurusatoRound63ArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「奈良ホテル」と「京都“元祖川床”発祥の老舗料理旅館 貴船ふじや」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「奈良ホテル」と「京都“元祖川床”発祥の老舗料理旅館 貴船ふじや。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

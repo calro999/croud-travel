@@ -309,7 +309,7 @@ export default function KusatsuVsIkahoPage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「泉質・街歩き・アクセス・宿を7項目で徹底比較」を効率よく巡るコツは？</span>
+                <span>Q. 「泉質・街歩き・アクセス・宿を7項目で徹底比較。」を効率よく巡るコツは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">

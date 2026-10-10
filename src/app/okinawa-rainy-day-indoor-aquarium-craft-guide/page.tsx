@@ -128,7 +128,7 @@ export default function OkinawaRainyDayIndoorAquariumCraftGuidePage() {
     <main className="min-h-screen bg-cyan-950/20 text-slate-800 selection:bg-cyan-500 selection:text-white pb-24">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「美ら海水族館・DMMかりゆし・やちむん通り陶芸体験＆屋内プール付きホテル」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「美ら海水族館・DMMかりゆし・やちむん通り陶芸体験＆屋内プール付きホテル。」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
       />
       {/* ヒーローセクション（Cyan / ディープオーシャンブルー系統） */}
       <section className="relative overflow-hidden bg-gradient-to-b from-slate-950 via-cyan-950 to-slate-900 text-white py-16 sm:py-24 border-b border-cyan-800/40">
@@ -393,7 +393,7 @@ export default function OkinawaRainyDayIndoorAquariumCraftGuidePage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「美ら海水族館・DMMかりゆし・やちむん通り陶芸体験＆屋内プール付きホテル」を効率よく巡るコツは？</span>
+                <span>Q. 「美ら海水族館・DMMかりゆし・やちむん通り陶芸体験＆屋内プール付きホテル。」を効率よく巡るコツは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">

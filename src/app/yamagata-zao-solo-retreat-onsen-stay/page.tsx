@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/yamagata-zao-solo-retreat-onsen-stay/" },
   title: '【蔵王温泉ひとり旅・強酸性美肌の湯おこもり】大露天風呂・樹氷パノラマ・山形牛すき焼き！白濁硫黄泉に包まれる高原ソロリトリート厳選3宿',
-  description: '日本屈指の強酸性硫黄泉・蔵王！豊かな白樺林に囲まれ野趣あふれる露天風呂が自慢の「森のホテル ヴァルトベルク」、手軽に源泉かけ流し温泉を満喫できるモダンな「BED\'n ONSEN HAMMOND」、山形牛料理と天然温泉が自慢の「ル・ベール蔵王」を楽天API最新データに基づき徹底比較。',
+  description: '日本屈指の強酸性硫黄泉・蔵王！豊かな白樺林に囲まれ野趣あふれる露天風呂が自慢の「森のホテル ヴァルトベルク」、手軽に源泉かけ流し温泉を満喫できるモダンな「BED\'n ONSEN HAMMOND。」、山形牛料理と天然温泉が自慢の「ル・ベール蔵王」を楽天API最新データに基づき徹底比較。',
   keywords: '蔵王温泉 一人旅 宿,蔵王 ホテル 一人 温泉,森のホテル ヴァルトベルク,HAMMOND 蔵王,ル・ベール蔵王,蔵王 樹氷 温泉 ひとり旅',
   openGraph: {
     title: '【蔵王温泉ひとり旅・強酸性美肌の湯おこもり】大露天風呂・樹氷パノラマ・山形牛すき焼き！白濁硫黄泉に包まれる高原ソロリトリート厳選3宿',
-    description: '日本屈指の強酸性硫黄泉・蔵王！豊かな白樺林に囲まれ野趣あふれる露天風呂が自慢の「森のホテル ヴァルトベルク」、手軽に源泉かけ流し温泉を満喫できるモダンな「BED\'n ONSEN HAMMOND」、山形牛料理と天然温泉が自慢の「ル・ベール蔵王」を楽天API最新データに基づき徹底比較。',
+    description: '日本屈指の強酸性硫黄泉・蔵王！豊かな白樺林に囲まれ野趣あふれる露天風呂が自慢の「森のホテル ヴァルトベルク」、手軽に源泉かけ流し温泉を満喫できるモダンな「BED\'n ONSEN HAMMOND。」、山形牛料理と天然温泉が自慢の「ル・ベール蔵王」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/yamagata-zao-solo-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【蔵王温泉ひとり旅・強酸性美肌の湯おこもり】大露天風呂・樹氷パノラマ・山形牛すき焼き！白濁硫黄泉に包まれる高原ソロリトリート厳選3宿',
-    description: '日本屈指の強酸性硫黄泉・蔵王！豊かな白樺林に囲まれ野趣あふれる露天風呂が自慢の「森のホテル ヴァルトベルク」、手軽に源泉かけ流し温泉を満喫できるモダンな「BED\'n ONSEN HAMMOND」、山形牛料理と天然温泉が自慢の「ル・ベール蔵王」を楽天API最新データに基づき徹底比較。',
+    description: '日本屈指の強酸性硫黄泉・蔵王！豊かな白樺林に囲まれ野趣あふれる露天風呂が自慢の「森のホテル ヴァルトベルク」、手軽に源泉かけ流し温泉を満喫できるモダンな「BED\'n ONSEN HAMMOND。」、山形牛料理と天然温泉が自慢の「ル・ベール蔵王」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・出張調査班',
@@ -37,8 +37,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-14T00:00:00+09:00',
-    dateModified: '2026-09-14T00:00:00+09:00',
+    datePublished: 'T00:00:00+09:00',
+    dateModified: 'T00:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/yamagata-zao-solo-retreat-onsen-stay',
   };
 
@@ -64,7 +64,7 @@ export default function ArticlePage() {
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で森の静けさと露天風呂を贅沢に楽しめる宿は？","acceptedAnswer":{"@type":"Answer","text":"「蔵王温泉 堺屋森のホテルヴァルトベルク」は静寂の森に囲まれ、丸太造りの露天風呂や豊かな自然を満喫できる一人旅に大人気の宿です。"}},{"@type":"Question","name":"気軽に一人で連泊・テレワークもできる源泉宿は？","acceptedAnswer":{"@type":"Answer","text":"「蔵王温泉 BED&apos;n ONSEN HAMMOND」はカジュアルかつ快適な滞在を提供し、自慢の白濁天然温泉を心ゆくまで堪能できます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で森の静けさと露天風呂を贅沢に楽しめる宿は？","acceptedAnswer":{"@type":"Answer","text":"「蔵王温泉 堺屋森のホテルヴァルトベルク」は静寂の森に囲まれ、丸太造りの露天風呂や豊かな自然を満喫できる一人旅に大人気の宿です。"}},{"@type":"Question","name":"気軽に一人で連泊・テレワークもできる源泉宿は？","acceptedAnswer":{"@type":"Answer","text":"「蔵王温泉 BED&apos;n ONSEN HAMMOND。」はカジュアルかつ快適な滞在を提供し、自慢の白濁天然温泉を心ゆくまで堪能できます。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -79,7 +79,7 @@ export default function ArticlePage() {
             【蔵王温泉ひとり旅・強酸性美肌の湯おこもり】大露天風呂・樹氷パノラマ・山形牛すき焼き！白濁硫黄泉に包まれる高原ソロリトリート厳選3宿
           </h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
-            更新日：2026年9月14日 | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
+            更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -320,7 +320,7 @@ export default function ArticlePage() {
                 <span>気軽に一人で連泊・テレワークもできる源泉宿は？</span>
               </h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
-                「蔵王温泉 BED&apos;n ONSEN HAMMOND」はカジュアルかつ快適な滞在を提供し、自慢の白濁天然温泉を心ゆくまで堪能できます。
+                「蔵王温泉 BED&apos;n ONSEN HAMMOND。」はカジュアルかつ快適な滞在を提供し、自慢の白濁天然温泉を心ゆくまで堪能できます。
               </p>
             </div>
           </div>

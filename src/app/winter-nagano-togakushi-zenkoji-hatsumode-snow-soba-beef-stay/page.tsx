@@ -45,8 +45,8 @@ export default function NaganoTogakushiZenkojiWinterPage() {
     headline: "【11・12・1月長野】白銀の戸隠神社・奥社杉並木と冬の戸隠新そば＆国宝善光寺「お朝事」初詣・信州牛を堪能する名宿5選",
     description: "11月から1月、信州の冬は静謐と祈りに満ちた神聖な季節を迎えます。樹齢400年を超える杉並木が一面の雪化粧に包まれる日本屈指の聖地「戸隠神社・奥社」の白銀古道と、秋収穫の風味豊かな「戸隠手打ち新そば」。そして約1400年の歴史を誇り「一生に一度は善光寺参り」と称される国宝「善光寺」での冬の朝のお朝事（あさじ）・お数珠頂戴と新春初詣。善光寺門前の歴史ある宿坊や格式高いシティホテル、信州プレミアム牛肉のすき焼きと信州味噌仕立ての温かな郷土料理に癒やされる冬の名宿5選をお届けします。",
     image: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80',
-    datePublished: '2026-10-02',
-    dateModified: '2026-10-02',
+    datePublished: '',
+    dateModified: '',
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',

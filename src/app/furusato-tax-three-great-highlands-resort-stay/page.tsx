@@ -36,11 +36,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7379/7379map.gif",
     "reviewCount": 286,
     "reviewAverage": 3.65,
-    "userReview": "温泉の泉質だけは満足できた温泉だけは良かったクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/7379?reviewI…　 ",
+    "userReview": "温泉の泉質だけは満足できた温泉だけは良かった。",
     "hotelMinCharge": 6800,
     "address1": "長野県",
     "address2": "下高井郡山ノ内町大字平穏7148-31",
-    "telephoneNo": "0269-34-2031",
+    "telephoneNo": "31",
     "access": "上信越道信州中野ＩＣより国道２９２号線にて４５分。ＪＲ長野駅より急行バス８０分又は長電特急電車５０分＆バス利用４５分。",
     "parkingInformation": "有り　５０台。　当館前が満車の場合は徒歩３～４分の共同駐車場となります。共に無料",
     "nearestStation": "長野",
@@ -66,7 +66,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/109519/109519map.gif",
     "reviewCount": 1405,
     "reviewAverage": 3.98,
-    "userReview": "清潔な部屋と充実した備品で大満足部屋も清潔で、大変満足です。備品等も充実、また、是非利用したいです。クチコミの詳細はこちらから　https://review.travel.rakuten.co…　 ",
+    "userReview": "清潔な部屋と充実した備品で大満足部屋も清潔で、大変満足です。備品等も充実、また、是非利用したいです。",
     "hotelMinCharge": 6070,
     "address1": "長野県",
     "address2": "北佐久郡軽井沢町軽井沢1178-1135",
@@ -96,7 +96,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/72037/72037map.gif",
     "reviewCount": 854,
     "reviewAverage": 3.68,
-    "userReview": "料理は美味しいがエアコンの効きが悪く暑い料理は美味しかった。部屋のエアコンが通路側のベッドにまで届かなくて暑くて飛び起きました。クチコミの詳細はこちらから　https://review.tra…　 ",
+    "userReview": "料理は美味しいがエアコンの効きが悪く暑い料理は美味しかった。部屋のエアコンが通路側のベッドにまで届かなくて暑くて飛び起きました。",
     "hotelMinCharge": 6248,
     "address1": "長野県",
     "address2": "北佐久郡立科町芦田八ヶ野白樺湖1525",
@@ -182,7 +182,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「志賀高原 ホテル一望閣」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「志賀高原 ホテル一望閣」へは、上信越道信州中野ＩＣより国道２９２号線にて４５分。最寄りの長野駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「志賀高原 ホテル一望閣」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「志賀高原 ホテル一望閣」は『2023年コンドミニアム新客室OPEN★乳緑色が珍しい100％天然かけ流し温泉が自慢★日本』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「志賀高原 ホテル一望閣」と「アパホテル〈軽井沢駅前〉軽井沢荘」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「志賀高原 ホテル一望閣」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「志賀高原 ホテル一望閣」へは、上信越道信州中野ＩＣより国道２９２号線にて４５分。最寄りの長野駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「志賀高原 ホテル一望閣」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「志賀高原 ホテル一望閣」は『2023年コンドミニアム新客室OPEN★乳緑色が珍しい100％天然かけ流し温泉が自慢★日本。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「志賀高原 ホテル一望閣」と「アパホテル〈軽井沢駅前〉軽井沢荘」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         
         {/* 特集の魅力セクション */}
@@ -488,7 +488,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「志賀高原 ホテル一望閣」は『2023年コンドミニアム新客室OPEN★乳緑色が珍しい100％天然かけ流し温泉が自慢★日本』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「志賀高原 ホテル一望閣」は『2023年コンドミニアム新客室OPEN★乳緑色が珍しい100％天然かけ流し温泉が自慢★日本。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

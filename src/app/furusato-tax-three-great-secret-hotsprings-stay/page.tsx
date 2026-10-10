@@ -36,11 +36,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/149172/149172map.gif",
     "reviewCount": 331,
     "reviewAverage": 4.54,
-    "userReview": "クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/149172?reviewId=33123479209551　",
+    "userReview": "",
     "hotelMinCharge": 16560,
     "address1": "青森県",
     "address2": "十和田市法量谷地1",
-    "telephoneNo": "0176-74-1181",
+    "telephoneNo": "81",
     "access": "JR青森駅よりJRバス約120分／青森空港から車で60分／無料バス有※要予約（夏季：青森駅-新青森駅／冬季：八戸駅より）",
     "parkingInformation": "有り　６０台　無料　予約不要【マップコード：704 471 581*58】",
     "nearestStation": "青森",
@@ -67,11 +67,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20228/20228map.gif",
     "reviewCount": 986,
     "reviewAverage": 4.71,
-    "userReview": "心配りが行き届き、かずら橋ツアーも最高スタッフの方、お料理、温泉等、みんな心配りが行き届いており、とても良かったです。両親もすごく満足してくれました。また、夜のかずら橋ツアーは、ホテルのボンネット…　 ",
+    "userReview": "心配りが行き届き、かずら橋ツアーも最高スタッフの方、お料理、温泉等、みんな心配りが行き届いており、とても良かったです。両親もすごく満足してくれました。また、夜のかずら橋ツアーは、ホテルのボンネット。",
     "hotelMinCharge": 19250,
     "address1": "徳島県",
     "address2": "三好市西祖谷山村善徳３３－１",
-    "telephoneNo": "0883-87-2171",
+    "telephoneNo": "71",
     "access": "ＪＲのお客様 大歩危駅～路線バス20分（タクシー15分）・お車のお客様　徳島自動車道井川池田ＩＣより大歩危経由で５０分　",
     "parkingInformation": "有り　３０台　無料　",
     "nearestStation": "大歩危",
@@ -98,11 +98,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/130001/130001map.gif",
     "reviewCount": 67,
     "reviewAverage": 4.4,
-    "userReview": "田沢湖温泉のロッジ、食事も温泉も大満足田沢湖温泉の一角のロッジ。入り口の道はやや細くて、少し心配になった。玄関の横に車を停め、中に入ったが、中は立派で、綺麗に整備されていた。19:15に到着で、す…　 ",
+    "userReview": "田沢湖温泉のロッジ、食事も温泉も大満足田沢湖温泉の一角のロッジ。入り口の道はやや細くて、少し心配になった。玄関の横に車を停め、中に入ったが、中は立派で、綺麗に整備されていた。19:15に到着で、す。",
     "hotelMinCharge": 7500,
     "address1": "秋田県",
     "address2": "仙北市田沢湖生保内駒ヶ岳2-139",
-    "telephoneNo": "0187-58-1101",
+    "telephoneNo": "01",
     "access": "田沢湖駅よりお車にて３０分",
     "parkingInformation": "有り　１５台　無料　予約不要",
     "nearestStation": "田沢湖",
@@ -185,7 +185,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「日本三秘湯 谷地温泉」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「日本三秘湯 谷地温泉」へは、JR青森駅よりJRバス約120分／青森空港から車で60分／無料バス有※要予約（夏季：青森駅-新青森駅／冬季：八戸駅より）。最寄りの青森駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「日本三秘湯 谷地温泉」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「日本三秘湯 谷地温泉」は『八甲田山中にある開湯４００年の歴史を誇る温泉で、日本三秘湯としても知られる。足下自噴の源泉』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「日本三秘湯 谷地温泉」と「新祖谷温泉 ホテルかずら橋」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「日本三秘湯 谷地温泉」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「日本三秘湯 谷地温泉」へは、JR青森駅よりJRバス約120分／青森空港から車で60分／無料バス有※要予約（夏季：青森駅-新青森駅／冬季：八戸駅より）。最寄りの青森駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「日本三秘湯 谷地温泉」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「日本三秘湯 谷地温泉」は『八甲田山中にある開湯４００年の歴史を誇る温泉で、日本三秘湯としても知られる。足下自噴の源泉。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「日本三秘湯 谷地温泉」と「新祖谷温泉 ホテルかずら橋」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         
         {/* 特集の魅力セクション */}
@@ -491,7 +491,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「日本三秘湯 谷地温泉」は『八甲田山中にある開湯４００年の歴史を誇る温泉で、日本三秘湯としても知られる。足下自噴の源泉』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「日本三秘湯 谷地温泉」は『八甲田山中にある開湯４００年の歴史を誇る温泉で、日本三秘湯としても知られる。足下自噴の源泉。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

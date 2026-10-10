@@ -37,8 +37,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-17T00:00:00+09:00',
-    dateModified: '2026-09-17T00:00:00+09:00',
+    datePublished: 'T00:00:00+09:00',
+    dateModified: 'T00:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/niigata-echigo-yuzawa-solo-retreat-snow-country-onsen-stay',
   };
 
@@ -79,12 +79,12 @@ export default function ArticlePage() {
             【新潟・越後湯沢温泉ひとり旅・川端康成『雪国』の文学湯治おこもり】新幹線直結・谷川連峰一望の露天風呂・魚沼産コシヒカリ会席！白銀の温泉郷厳選3宿
           </h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
-            更新日：2026年9月17日 | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
+            更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
             <p className="font-bold text-amber-950 text-base sm:text-lg">
-              「国境の長いトンネルを抜けると雪国であった」。新幹線駅から徒歩圏に広がる湯の町で、やわらかなアルカリ性単純温泉と魚沼産コシヒカリ・越後の地酒に浸る贅沢な休日
+              「国境の長いトンネルを抜けると雪国であった。」。新幹線駅から徒歩圏に広がる湯の町で、やわらかなアルカリ性単純温泉と魚沼産コシヒカリ・越後の地酒に浸る贅沢な休日
             </p>
             <p>
               東京駅から上越新幹線で1本、改札を出れば駅ナカ「ぽんしゅ館」で新潟全蔵元の地酒利き酒体験が迎えてくれる越後湯沢。古くは平安時代から続く歴史ある温泉は、肌に優しくさらりとした無色透明の単純温泉。冬は銀世界の山々、春から秋は眩しい新緑と黄金色の稲穂を眺めながら、文豪たちが愛した静寂の空間で心身を解きほぐせます。

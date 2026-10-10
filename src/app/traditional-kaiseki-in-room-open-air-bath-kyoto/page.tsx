@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/traditional-kaiseki-in-room-open-air-bath-kyoto"
   };
 
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D32464%26f_flg%3DPLAN",
     "hotelMinCharge": 11495,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/32464/32464.jpg",
-    "userReview": "料理が絶品、2日目のアレンジも大満足料理がどれもすごく美味しかった。2日目はアレンジ料理を提供してくれて、大満足だった。クチコミの詳細はこちらから　https://review.trave…　2026-09-18 20:40:49投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=32464\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "料理が絶品、2日目のアレンジも大満足料理がどれもすごく美味しかった。2日目はアレンジ料理を提供してくれて、大満足だった。",
     "reviewAverage": 4.27,
     "reviewCount": 366,
     "address": "京都府南丹市園部町大河内広谷1-8",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D9696%26f_flg%3DPLAN",
     "hotelMinCharge": 24200,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9696/9696.jpg",
-    "userReview": "工夫された食事と露天風呂付きの広い部屋お食事内容が大変工夫されていました。お味も見た目の美しさも量も種類も満足にいただきました。露天風呂付きお部屋でしたが、広く落ち着いた雰囲気で湯量もたっぷり出て…　2026-09-17 02:13:54投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=9696\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "工夫された食事と露天風呂付きの広い部屋お食事内容が大変工夫されていました。お味も見た目の美しさも量も種類も満足にいただきました。露天風呂付きお部屋でしたが、広く落ち着いた雰囲気で湯量もたっぷり出て。",
     "reviewAverage": 4.38,
     "reviewCount": 279,
     "address": "京都府亀岡市湯の花温泉",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D171986%26f_flg%3DPLAN",
     "hotelMinCharge": 26059,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/171986/171986.jpg",
-    "userReview": "温泉と庭園、食事に接客すべてが大満足お部屋も綺麗で温泉もすごく気持ちよかったです!外の庭園も綺麗で、夜にはライトアップされていて素敵でした!夕食は大変おいしくて、見た目もすごくきれいでした!!…　2026-09-20 00:21:22投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=171986\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "温泉と庭園、食事に接客すべてが大満足お部屋も綺麗で温泉もすごく気持ちよかったです!外の庭園も綺麗で、夜にはライトアップされていて素敵でした!夕食は大変おいしくて、見た目もすごくきれいでした!",
     "reviewAverage": 4.45,
     "reviewCount": 201,
     "address": "鹿児島県霧島市隼人町姫城3-124",

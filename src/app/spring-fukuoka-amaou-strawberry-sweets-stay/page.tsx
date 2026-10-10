@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【あまおう苺スイーツ＆博多水炊き】福岡特産いちごパフェと原鶴・秋月温泉の美食名湯宿5選",
     "description": "「あかい・まるい・おおきい・うまい」最高峰ブランド苺「博多あまおう」を贅沢に使った特製パフェやスイーツ！W美肌の湯として名高い原鶴温泉や小京都・秋月の風情ある名宿で、福岡の美食と美肌湯に癒やされる旅。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-    "datePublished": "2026-03-27T00:00:00+09:00",
-    "dateModified": "2026-03-27T00:00:00+09:00",
+    "datePublished": "T00:00:00+09:00",
+    "dateModified": "T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

@@ -36,11 +36,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/135889/135889map.gif",
     "reviewCount": 346,
     "reviewAverage": 4.26,
-    "userReview": "スタッフの優しさと露天風呂に癒されるとても癒されるました!スタッフの方もとても優しくて嬉しかったです。温泉も最高に気持ちよかったです。露天風呂がかなり良かったです。クチコミの詳細は…　 ",
+    "userReview": "スタッフの優しさと露天風呂に癒されるとても癒されるました!スタッフの方もとても優しくて嬉しかったです。温泉も最高に気持ちよかったです。露天風呂がかなり良かったです。クチコミの詳細は。",
     "hotelMinCharge": 9000,
     "address1": "鹿児島県",
     "address2": "姶良市蒲生町久末434-1",
-    "telephoneNo": "0120-52-1218",
+    "telephoneNo": "18",
     "access": "【九州自動車道】姶良インターよりお車で10分◆鹿児島空港より25分◆【ＪＲ日豊線】重富駅からお車で15分（約１０ｋｍ）",
     "parkingInformation": "有り　１４６台　無料　予約不要",
     "nearestStation": "重富",
@@ -66,7 +66,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14442/14442map.gif",
     "reviewCount": 263,
     "reviewAverage": 4.36,
-    "userReview": "邪馬台国阿波説探訪邪馬台国阿波説探訪に丁度良い温泉ホテルでした。近くに上一宮大粟神社や雨乞の滝もあり、日本の田舎の夏を満喫致しました。又、邪馬台国阿波説探訪に是非訪れたいと思っております。有難うご…　 ",
+    "userReview": "邪馬台国阿波説探訪邪馬台国阿波説探訪に丁度良い温泉ホテルでした。近くに上一宮大粟神社や雨乞の滝もあり、日本の田舎の夏を満喫致しました。又、邪馬台国阿波説探訪に是非訪れたいと思っております。有難うご。",
     "hotelMinCharge": 6490,
     "address1": "徳島県",
     "address2": "名西郡神山町神領本上角80-2",
@@ -96,11 +96,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/80717/80717map.gif",
     "reviewCount": 1236,
     "reviewAverage": 4.47,
-    "userReview": "海を望む露天風呂は最高、食事も美味しい海に触れながら入る露天風呂は最高です。こんなお風呂はここしかないです!食事も美味しいです!ちょっと保温が足りないのが残念。クチコミの詳細はこちらか…　 ",
+    "userReview": "海を望む露天風呂は最高、食事も美味しい海に触れながら入る露天風呂は最高です。こんなお風呂はここしかないです!食事も美味しいです!",
     "hotelMinCharge": 10450,
     "address1": "青森県",
     "address2": "西津軽郡深浦町舮作下清滝15",
-    "telephoneNo": "0173-74-3500",
+    "telephoneNo": "00",
     "access": "ウェスパ椿山駅よりお車で５分。",
     "parkingInformation": "有り　100台　無料　予約不要",
     "nearestStation": "ウェスパ椿山",
@@ -159,7 +159,7 @@ export default function Page() {
             日本三大巨樹＆神木パワースポット宿×ふるさと納税ガイド
           </h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
-            環境省の巨樹・巨木林調査において日本を代表する最高峰の神木「日本三大巨樹」――幹周り24.2メートル、樹齢約1500年を誇り国特別天然記念物に指定される日本一の巨樹・鹿児島の「蒲生の大楠（蒲生八幡神社）」、徳島の深い山懐にそびえ立ち国の天然記念物として神聖な威厳を放つ樹齢千年の「阿川の大杉」、そして幹周り22メートル、秋には黄金色の葉を纏い「ビッグイエロー」として親しまれる日本最大のイチョウ・青森の「北金ヶ沢の大イチョウ（垂乳根のイチョウ）」。気の遠くなるような年月を生き抜いてきた巨樹の根元に立つと、言葉を失うほどの圧倒的な包容力と生命の神秘に包まれます。巨樹の里の温泉宿や海辺の絶景露天風呂を拠点に、郷土の味覚と澄み切った森の空気に癒やされる特別な休日を楽天ふるさと納税でお楽しみください。
+            環境省の巨樹・巨木林調査において日本を代表する最高峰の神木「日本三大巨樹」――幹周り24.2メートル、樹齢約1500年を誇り国特別天然記念物に指定される日本一の巨樹・鹿児島の「蒲生の大楠（蒲生八幡神社）」、徳島の深い山懐にそびえ立ち国の天然記念物として神聖な威厳を放つ樹齢千年の「阿川の大杉」、そして幹周り22メートル、秋には黄金色の葉を纏い「ビッグイエロー」として親しまれる日本最大のイチョウ・青森の「北金ヶ沢の大イチョウ（垂乳根のイチョウ）。」。気の遠くなるような年月を生き抜いてきた巨樹の根元に立つと、言葉を失うほどの圧倒的な包容力と生命の神秘に包まれます。巨樹の里の温泉宿や海辺の絶景露天風呂を拠点に、郷土の味覚と澄み切った森の空気に癒やされる特別な休日を楽天ふるさと納税でお楽しみください。
           </p>
 
           <div className="pt-6">
@@ -182,7 +182,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「フォンタナの丘かもう」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「フォンタナの丘かもう」へは、九州自動車道 姶良インターよりお車で10分◆鹿児島空港より25分◆ ＪＲ日豊線 重富駅からお車で15分（約１０ｋｍ）。最寄りの重富駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「フォンタナの丘かもう」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「フォンタナの丘かもう」は『クチコミ★4!地域の健康交流拠点として親しまれる温泉ホテルです』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「フォンタナの丘かもう」と「神山温泉 ホテル四季の里＆いやしの湯」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「フォンタナの丘かもう」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「フォンタナの丘かもう」へは、九州自動車道 姶良インターよりお車で10分◆鹿児島空港より25分◆ ＪＲ日豊線 重富駅からお車で15分（約１０ｋｍ）。最寄りの重富駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「フォンタナの丘かもう」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「フォンタナの丘かもう」は『クチコミ★4!地域の健康交流拠点として親しまれる温泉ホテルです。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「フォンタナの丘かもう」と「神山温泉 ホテル四季の里＆いやしの湯」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         
         {/* 特集の魅力セクション */}
@@ -488,7 +488,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「フォンタナの丘かもう」は『クチコミ★4!地域の健康交流拠点として親しまれる温泉ホテルです』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「フォンタナの丘かもう」は『クチコミ★4!地域の健康交流拠点として親しまれる温泉ホテルです。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

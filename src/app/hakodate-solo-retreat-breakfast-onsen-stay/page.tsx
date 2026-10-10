@@ -7,11 +7,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hakodate-solo-retreat-breakfast-onsen-stay/" },
   title: '【函館ひとり旅・美食ご褒美泊】朝食バイキング全国1位争い・インフィニティ天空温泉・赤レンガ倉庫！港町で癒やされる極上ホテル 厳選3選',
-  description: '「日本一の朝食バイキングでいくら盛り放題を堪能したい」「最上階の露天風呂から函館山と夜景を見下ろしながら静かに過ごしたい」。大人ソロトラベラーへ。150種超のプレミアム朝食と天空露天風呂「スパ・マリーナ」を誇る「センチュリーマリーナ函館」、貸切風呂と名物海鮮丼の最高峰「ラビスタ函館ベイANNEX」、大正ロマン薫る湯の川温泉の高級宿「HAKODATE 海峡の風」を徹底特集。',
+  description: '「日本一の朝食バイキングでいくら盛り放題を堪能したい。」「最上階の露天風呂から函館山と夜景を見下ろしながら静かに過ごしたい。」。大人ソロトラベラーへ。150種超のプレミアム朝食と天空露天風呂「スパ・マリーナ」を誇る「センチュリーマリーナ函館」、貸切風呂と名物海鮮丼の最高峰「ラビスタ函館ベイANNEX」、大正ロマン薫る湯の川温泉の高級宿「HAKODATE 海峡の風」を徹底特集。',
   keywords: '函館 一人旅 ホテル 朝食,センチュリーマリーナ函館 宿泊,ラビスタ函館ベイ ANNEX 一人,函館 温泉 ホテル いくら,函館ひとり旅 ご褒美',
   openGraph: {
     title: '【函館ひとり旅・美食ご褒美泊】朝食バイキング全国1位争い・インフィニティ天空温泉・赤レンガ倉庫！港町で癒やされる極上ホテル 厳選3選',
-    description: '「日本一の朝食バイキングでいくら盛り放題を堪能したい」「最上階の露天風呂から函館山と夜景を見下ろしながら静かに過ごしたい」。大人ソロトラベラーへ。150種超のプレミアム朝食と天空露天風呂「スパ・マリーナ」を誇る「センチュリーマリーナ函館」、貸切風呂と名物海鮮丼の最高峰「ラビスタ函館ベイANNEX」、大正ロマン薫る湯の川温泉の高級宿「HAKODATE 海峡の風」を徹底特集。',
+    description: '「日本一の朝食バイキングでいくら盛り放題を堪能したい。」「最上階の露天風呂から函館山と夜景を見下ろしながら静かに過ごしたい。」。大人ソロトラベラーへ。150種超のプレミアム朝食と天空露天風呂「スパ・マリーナ」を誇る「センチュリーマリーナ函館」、貸切風呂と名物海鮮丼の最高峰「ラビスタ函館ベイANNEX」、大正ロマン薫る湯の川温泉の高級宿「HAKODATE 海峡の風」を徹底特集。',
     url: 'https://croud-travel.pages.dev/hakodate-solo-retreat-breakfast-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -24,7 +24,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【函館ひとり旅・美食ご褒美泊】朝食バイキング全国1位争い・インフィニティ天空温泉・赤レンガ倉庫！港町で癒やされる極上ホテル 厳選3選',
-    description: '「日本一の朝食バイキングでいくら盛り放題を堪能したい」「最上階の露天風呂から函館山と夜景を見下ろしながら静かに過ごしたい」。大人ソロトラベラーへ。150種超のプレミアム朝食と天空露天風呂「スパ・マリーナ」を誇る「センチュリーマリーナ函館」、貸切風呂と名物海鮮丼の最高峰「ラビスタ函館ベイANNEX」、大正ロマン薫る湯の川温泉の高級宿「HAKODATE 海峡の風」を徹底特集。',
+    description: '「日本一の朝食バイキングでいくら盛り放題を堪能したい。」「最上階の露天風呂から函館山と夜景を見下ろしながら静かに過ごしたい。」。大人ソロトラベラーへ。150種超のプレミアム朝食と天空露天風呂「スパ・マリーナ」を誇る「センチュリーマリーナ函館」、貸切風呂と名物海鮮丼の最高峰「ラビスタ函館ベイANNEX」、大正ロマン薫る湯の川温泉の高級宿「HAKODATE 海峡の風」を徹底特集。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・出張調査班',
@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-12T15:30:00+09:00',
-    dateModified: '2026-09-12T15:30:00+09:00',
+    datePublished: 'T15:30:00+09:00',
+    dateModified: 'T15:30:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/hakodate-solo-retreat-breakfast-onsen-stay',
   };
 
@@ -78,7 +78,7 @@ export default function ArticlePage() {
           【函館ひとり旅・美食ご褒美泊】朝食バイキング全国1位争い・インフィニティ天空温泉・赤レンガ倉庫！港町で癒やされる極上ホテル 厳選3選
         </h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
-          「日本一の朝食バイキングでいくら盛り放題を堪能したい」「最上階の露天風呂から函館山と夜景を見下ろしながら静かに過ごしたい」。大人ソロトラベラーへ。150種超のプレミアム朝食と天空露天風呂「スパ・マリーナ」を誇る「センチュリーマリーナ函館」、貸切風呂と名物海鮮丼の最高峰「ラビスタ函館ベイANNEX」、大正ロマン薫る湯の川温泉の高級宿「HAKODATE 海峡の風」を徹底特集。
+          「日本一の朝食バイキングでいくら盛り放題を堪能したい。」「最上階の露天風呂から函館山と夜景を見下ろしながら静かに過ごしたい。」。大人ソロトラベラーへ。150種超のプレミアム朝食と天空露天風呂「スパ・マリーナ」を誇る「センチュリーマリーナ函館」、貸切風呂と名物海鮮丼の最高峰「ラビスタ函館ベイANNEX」、大正ロマン薫る湯の川温泉の高級宿「HAKODATE 海峡の風」を徹底特集。
         </p>
       </header>
 
@@ -161,7 +161,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.66点。「朝食のレベルが異次元でいくらも海鮮も最高でした」「最上階の露天風呂からの函館山の眺望に感動し、一人旅のご褒美にぴったりでした」と絶賛の嵐。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.66点。「朝食のレベルが異次元でいくらも海鮮も最高でした。」「最上階の露天風呂からの函館山の眺望に感動し、一人旅のご褒美にぴったりでした。」と絶賛の嵐。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -236,7 +236,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.65点。「貸切風呂が無料で利用でき、お部屋もクラシカルで落ち着けました」「赤レンガ倉庫も目の前で立地最高、朝食も大満足でした」と高評価。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.65点。「貸切風呂が無料で利用でき、お部屋もクラシカルで落ち着けました。」「赤レンガ倉庫も目の前で立地最高、朝食も大満足でした。」と高評価。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -311,7 +311,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.38点。「部屋がとにかく広くて贅沢な気分になれました」「お風呂も食事も素晴らしく、静かに一人でリフレッシュするのに最高でした」と定評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.38点。「部屋がとにかく広くて贅沢な気分になれました。」「お風呂も食事も素晴らしく、静かに一人でリフレッシュするのに最高でした。」と定評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">

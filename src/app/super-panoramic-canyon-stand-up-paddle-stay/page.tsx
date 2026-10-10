@@ -38,7 +38,7 @@ const hotels: any[] = [
     "hotelMinCharge": 33600,
     "address1": "群馬県",
     "address2": "利根郡みなかみ町相俣1731",
-    "telephoneNo": "0278-66-0880",
+    "telephoneNo": "80",
     "access": "上毛高原駅より、猿ヶ京方面行きバスにて３０分（学校下駅下車）",
     "parkingInformation": "有り　１３台　無料　",
     "nearestStation": "上毛高原",
@@ -59,11 +59,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/11199/11199map.gif",
     "reviewCount": 844,
     "reviewAverage": 4.89,
-    "userReview": "心と身体が癒やされる、至福の料理旅館旅館は、リノベーションしていてキレイでびっくりしました。朝夕共にお部屋食、温泉も貸切でゆっくり入れました。あー!気持ちいい!と声が出てしまいました。観光も何もし…　2026-09-15 09:18:34投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=11199\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "心と身体が癒やされる、至福の料理旅館旅館は、リノベーションしていてキレイでびっくりしました。朝夕共にお部屋食、温泉も貸切でゆっくり入れました。あー!気持ちいい!と声が出てしまいました。観光も何もし。",
     "hotelMinCharge": 12200,
     "address1": "群馬県",
     "address2": "利根郡みなかみ町猿ヶ京1167",
-    "telephoneNo": "0278-66-1500",
+    "telephoneNo": "00",
     "access": "車　月夜野ＩＣから新潟方面へ２０分　猿ヶ京温泉信号右　新幹線⇒上毛高原駅　在来線⇒後閑駅下車",
     "parkingInformation": "【無料】当館前に駐車　7台　",
     "nearestStation": "上毛高原",
@@ -84,11 +84,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/162793/162793map.gif",
     "reviewCount": 93,
     "reviewAverage": 4.32,
-    "userReview": "料理と接客が最高!!全てにおいて文句なしの宿9月13日に小学生の息子と2人で宿泊しました。いつもはバイキング形式の宿が多いのですが初めての秋田ということもあり ちょっと奮発して きりたんぽ鍋付…　2026-09-16 16:46:08投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=162793\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "料理と接客が最高!全てにおいて文句なしの宿9月13日に小学生の息子と2人で宿泊しました。いつもはバイキング形式の宿が多いのですが初めての秋田ということもあり ちょっと奮発して きりたんぽ鍋付。",
     "hotelMinCharge": 6600,
     "address1": "秋田県",
     "address2": "仙北市田沢湖田沢春山197-15",
-    "telephoneNo": "0187-43-1200",
+    "telephoneNo": "00",
     "access": "ＪＲ　田沢湖駅よりお車にて約１２分",
     "parkingInformation": "無料・予約不要。建物横の春山第一駐車場または正面玄関前に駐車し、そのままフロントへお越しください。",
     "nearestStation": "田沢湖",
@@ -113,7 +113,7 @@ const hotels: any[] = [
     "hotelMinCharge": 6050,
     "address1": "山梨県",
     "address2": "南都留郡山中湖村平野126",
-    "telephoneNo": "0555-65-7745",
+    "telephoneNo": "45",
     "access": "河口湖駅より富士急行バス乗り継ぎにて平野停下車、徒歩にて３分。",
     "parkingInformation": "有り　６０台　無料　予約不要",
     "nearestStation": "河口湖",
@@ -138,7 +138,7 @@ const hotels: any[] = [
     "hotelMinCharge": 0,
     "address1": "福島県",
     "address2": "耶麻郡北塩原村桧原曽原山1096-442",
-    "telephoneNo": "0241-32-3536",
+    "telephoneNo": "36",
     "access": "猪苗代駅　／　東北道郡山ＩＣより磐越道猪苗代ＩＣ、Ｒ４５９",
     "parkingInformation": "有　２０台　無料　先着順",
     "nearestStation": "猪苗代",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「猿ヶ京温泉 ル・ヴァンベール 湖郷」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「猿ヶ京温泉 ル・ヴァンベール 湖郷」へは、上毛高原駅より、猿ヶ京方面行きバスにて３０分（学校下駅下車）。最寄りの上毛高原駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「猿ヶ京温泉 ル・ヴァンベール 湖郷」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「猿ヶ京温泉 ル・ヴァンベール 湖郷」は『料理で選ばれる、大人のオールインクルーシブ温泉宿』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「猿ヶ京温泉 ル・ヴァンベール 湖郷」と「山中湖ホテル インターリゾート東屋」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「猿ヶ京温泉 ル・ヴァンベール 湖郷」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「猿ヶ京温泉 ル・ヴァンベール 湖郷」へは、上毛高原駅より、猿ヶ京方面行きバスにて３０分（学校下駅下車）。最寄りの上毛高原駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「猿ヶ京温泉 ル・ヴァンベール 湖郷」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「猿ヶ京温泉 ル・ヴァンベール 湖郷」は『料理で選ばれる、大人のオールインクルーシブ温泉宿。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「猿ヶ京温泉 ル・ヴァンベール 湖郷」と「山中湖ホテル インターリゾート東屋」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -627,7 +627,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「猿ヶ京温泉 ル・ヴァンベール 湖郷」は『料理で選ばれる、大人のオールインクルーシブ温泉宿』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「猿ヶ京温泉 ル・ヴァンベール 湖郷」は『料理で選ばれる、大人のオールインクルーシブ温泉宿。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

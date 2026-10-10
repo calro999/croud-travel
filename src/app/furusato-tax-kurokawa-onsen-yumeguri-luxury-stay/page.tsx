@@ -62,7 +62,7 @@ export default function FurusatoKurokawaOnsenYumeguriStayPage() {
           阿蘇の秘湯・黒川温泉の入湯手形めぐり＆渓流絶景露天風呂×ふるさと納税完全攻略ガイド【2026年最新】山みず木・奥の湯・新明館
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-10">2026年9月10日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -77,7 +77,7 @@ export default function FurusatoKurokawaOnsenYumeguriStayPage() {
           渓流のせせらぎ、木漏れ日と立ちのぼる湯煙。入湯手形を手に巡る阿蘇・黒川温泉の極上癒やし旅へ
         </h2>
         <p className="text-base md:text-lg text-gray-800 leading-relaxed mb-6">
-          熊本県阿蘇郡南小国町、標高700メートルの山あいにひっそりと佇む「黒川温泉（くろかわおんせん）」。かつて全国的な過疎の危機を乗り越え、「街全体が一つの宿、通りは廊下、旅館は客室、木々は庭の植木」という一貫した景観哲学のもと再生を遂げ、ミシュラン・グリーンガイド・ジャポンで異例の2つ星評価を獲得した日本屈指の名湯です。黒川温泉を代表する名物が、杉の間伐材で作られた「入湯手形」。これを手にすれば、加盟旅館の中から好きな露天風呂を自由に3箇所めぐることができ、雑木林の小道や川端通りを浴衣と下駄で歩く風情はまさに日本の原風景そのものです。田の原川の清流がすぐ目の前に迫る野趣あふれるダイナミックな渓流露天風呂、職人が長い年月をかけて手彫りした幻想的な洞窟風呂、茅葺き屋根と竹林に包まれた静寂の空間など、宿ごとに全く異なる魅力が凝縮。夕食には、阿蘇の大草原で育ったヘルシーで旨味濃厚な「肥後あか牛」の炭火焼きや陶板焼き、熊本名物の極上馬刺し、清流のヤマメや鮎など、里山の豊かな恵みを五感で堪能できます。本特集では、渓流と森が一体化した圧倒的な露天風呂を誇る「山あいの宿 山みず木」、竹林と茅葺き門に迎えられる多彩な湯処の名宿「旅館 奥の湯」、そして名物「手掘り洞窟風呂」と風情ある川端通りのシンボル「山の宿 新明館」の3大名宿を厳選。熊本県南小国町への楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円で憧れの黒川温泉ステイをお得に予約しましょう。
+          熊本県阿蘇郡南小国町、標高700メートルの山あいにひっそりと佇む「黒川温泉（くろかわおんせん）」。かつて全国的な過疎の危機を乗り越え、「街全体が一つの宿、通りは廊下、旅館は客室、木々は庭の植木。」という一貫した景観哲学のもと再生を遂げ、ミシュラン・グリーンガイド・ジャポンで異例の2つ星評価を獲得した日本屈指の名湯です。黒川温泉を代表する名物が、杉の間伐材で作られた「入湯手形」。これを手にすれば、加盟旅館の中から好きな露天風呂を自由に3箇所めぐることができ、雑木林の小道や川端通りを浴衣と下駄で歩く風情はまさに日本の原風景そのものです。田の原川の清流がすぐ目の前に迫る野趣あふれるダイナミックな渓流露天風呂、職人が長い年月をかけて手彫りした幻想的な洞窟風呂、茅葺き屋根と竹林に包まれた静寂の空間など、宿ごとに全く異なる魅力が凝縮。夕食には、阿蘇の大草原で育ったヘルシーで旨味濃厚な「肥後あか牛」の炭火焼きや陶板焼き、熊本名物の極上馬刺し、清流のヤマメや鮎など、里山の豊かな恵みを五感で堪能できます。本特集では、渓流と森が一体化した圧倒的な露天風呂を誇る「山あいの宿 山みず木」、竹林と茅葺き門に迎えられる多彩な湯処の名宿「旅館 奥の湯」、そして名物「手掘り洞窟風呂」と風情ある川端通りのシンボル「山の宿 新明館」の3大名宿を厳選。熊本県南小国町への楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円で憧れの黒川温泉ステイをお得に予約しましょう。
         </p>
         <div className="bg-white/90 rounded-xl p-4 md:p-5 border border-amber-300 shadow-sm">
           <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5">
@@ -164,7 +164,7 @@ export default function FurusatoKurokawaOnsenYumeguriStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “露天風呂と繊細な料理、心遣いに大満足多種多様なお風呂が楽しめます。とくに川のせせらぎの音と鳥や虫の声の中で入る露風呂は本当に最高です。食事も一つ一つが繊細で全て美味しくいただきました。…　2026-08-26 13:24:20投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “露天風呂と繊細な料理、心遣いに大満足多種多様なお風呂が楽しめます。とくに川のせせらぎの音と鳥や虫の声の中で入る露風呂は本当に最高です。食事も一つ一つが繊細で全て美味しくいただきました。… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -206,7 +206,7 @@ export default function FurusatoKurokawaOnsenYumeguriStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “黒川温泉の象徴、庭と露天風呂が最高な宿熊本地震があってキャンセルが多かったみたいで黒川温泉は閑散としてました 前日予約しましたが普段ならなかなか取れないと思います地震後の復興のため皆さんには是…　2026-08-28 08:31:37投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “黒川温泉の象徴、庭と露天風呂が最高な宿熊本地震があってキャンセルが多かったみたいで黒川温泉は閑散としてました 前日予約しましたが普段ならなかなか取れないと思います地震後の復興のため皆さんには是… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -248,7 +248,7 @@ export default function FurusatoKurokawaOnsenYumeguriStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “洞窟温泉と囲炉裏料理に癒やされる旅洞窟温泉が楽しみでした。内湯で身体を洗ってから移動。洞窟は薄暗く1人だったので少々怖かったですw  お一人が10年以上かけて手で掘った洞窟は本当に素晴らし…　2026-09-05 02:01:47投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “洞窟温泉と囲炉裏料理に癒やされる旅洞窟温泉が楽しみでした。内湯で身体を洗ってから移動。洞窟は薄暗く1人だったので少々怖かったですw  お一人が10年以上かけて手で掘った洞窟は本当に素晴らし… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -323,7 +323,7 @@ export default function FurusatoKurokawaOnsenYumeguriStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

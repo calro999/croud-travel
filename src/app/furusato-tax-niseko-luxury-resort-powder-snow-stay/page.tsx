@@ -5,14 +5,14 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: '【ニセコ×ふるさと納税】世界最高峰パウダースノー＆ラグジュアリーステイ！羊蹄山ビュー名門ホテル特集｜パークハイアット・雪ニセコ・坐忘林',
-  description: '世界中のスキーヤーや富裕層を魅了する国際的スノーリゾート・北海道ニセコ（倶知安町・ニセコ町）を楽天ふるさと納税でお得に贅沢滞在！ゲレンデ直結の世界的ラグジュアリー「パークハイアット ニセコ HANAZONO」、羊蹄山ビューと上質スパの「雪ニセコ」、白樺林に抱かれた源泉掛け流し離れ宿「坐忘林」を徹底比較。高額還元トラベルクーポン活用術を網羅。',
+  description: '世界中のスキーヤーや富裕層を魅了する国際的スノーリゾート・北海道ニセコ（倶知安町・ニセコ町）を楽天ふるさと納税でお得に贅沢滞在！ゲレンデ直結の世界的ラグジュアリー「パークハイアット ニセコ HANAZONO。」、羊蹄山ビューと上質スパの「雪ニセコ」、白樺林に抱かれた源泉掛け流し離れ宿「坐忘林」を徹底比較。高額還元トラベルクーポン活用術を網羅。',
   keywords: 'ニセコ ふるさと納税,パークハイアットニセコ ふるさと納税,雪ニセコ クーポン,坐忘林 ふるさと納税,倶知安町 ふるさと納税 宿泊',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-niseko-luxury-resort-powder-snow-stay/",
   },
   openGraph: {
     title: '【ニセコ×ふるさと納税】世界最高峰パウダースノー＆ラグジュアリーステイ！羊蹄山ビュー名門ホテル特集｜パークハイアット・雪ニセコ・坐忘林',
-    description: '世界中のスキーヤーや富裕層を魅了する国際的スノーリゾート・北海道ニセコ（倶知安町・ニセコ町）を楽天ふるさと納税でお得に贅沢滞在！ゲレンデ直結の世界的ラグジュアリー「パークハイアット ニセコ HANAZONO」、羊蹄山ビューと上質スパの「雪ニセコ」、白樺林に抱かれた源泉掛け流し離れ宿「坐忘林」を徹底比較。高額還元トラベルクーポン活用術を網羅。',
+    description: '世界中のスキーヤーや富裕層を魅了する国際的スノーリゾート・北海道ニセコ（倶知安町・ニセコ町）を楽天ふるさと納税でお得に贅沢滞在！ゲレンデ直結の世界的ラグジュアリー「パークハイアット ニセコ HANAZONO。」、羊蹄山ビューと上質スパの「雪ニセコ」、白樺林に抱かれた源泉掛け流し離れ宿「坐忘林」を徹底比較。高額還元トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-niseko-luxury-resort-powder-snow-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -25,7 +25,7 @@ export default function FurusatoArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【ニセコ×ふるさと納税】世界最高峰パウダースノー＆ラグジュアリーステイ！羊蹄山ビュー名門ホテル特集｜パークハイアット・雪ニセコ・坐忘林',
-    description: '世界中のスキーヤーや富裕層を魅了する国際的スノーリゾート・北海道ニセコ（倶知安町・ニセコ町）を楽天ふるさと納税でお得に贅沢滞在！ゲレンデ直結の世界的ラグジュアリー「パークハイアット ニセコ HANAZONO」、羊蹄山ビューと上質スパの「雪ニセコ」、白樺林に抱かれた源泉掛け流し離れ宿「坐忘林」を徹底比較。高額還元トラベルクーポン活用術を網羅。',
+    description: '世界中のスキーヤーや富裕層を魅了する国際的スノーリゾート・北海道ニセコ（倶知安町・ニセコ町）を楽天ふるさと納税でお得に贅沢滞在！ゲレンデ直結の世界的ラグジュアリー「パークハイアット ニセコ HANAZONO。」、羊蹄山ビューと上質スパの「雪ニセコ」、白樺林に抱かれた源泉掛け流し離れ宿「坐忘林」を徹底比較。高額還元トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル 観光・ふるさと納税調査班',
@@ -39,8 +39,8 @@ export default function FurusatoArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-10T18:00:00+09:00',
-    dateModified: '2026-09-10T18:00:00+09:00',
+    datePublished: 'T18:00:00+09:00',
+    dateModified: 'T18:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-niseko-luxury-resort-powder-snow-stay',
   };
 
@@ -49,7 +49,7 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「パークハイアットニセコＨＡＮＡＺＯＮＯ」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「パークハイアットニセコＨＡＮＡＺＯＮＯ」へは、倶知安駅よりお車にて約１０分。最寄りの倶知安駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「パークハイアットニセコＨＡＮＡＺＯＮＯ」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「パークハイアットニセコＨＡＮＡＺＯＮＯ」は『2024年10月販売開始予定 最高峰のラグジュアリーマウンテンリゾート』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「パークハイアットニセコＨＡＮＡＺＯＮＯ」では季節ごとに異なる宿泊プランや料理プランが用意されています。ご旅行の人数や滞在スタイルに合わせて最適なプランをお選びいただけます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「パークハイアットニセコＨＡＮＡＺＯＮＯ」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「パークハイアットニセコＨＡＮＡＺＯＮＯ」へは、倶知安駅よりお車にて約１０分。最寄りの倶知安駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「パークハイアットニセコＨＡＮＡＺＯＮＯ」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「パークハイアットニセコＨＡＮＡＺＯＮＯ」は『2024年10月販売開始予定 最高峰のラグジュアリーマウンテンリゾート。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「パークハイアットニセコＨＡＮＡＺＯＮＯ」では季節ごとに異なる宿泊プランや料理プランが用意されています。ご旅行の人数や滞在スタイルに合わせて最適なプランをお選びいただけます。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -79,7 +79,7 @@ export default function FurusatoArticlePage() {
           【ニセコ×ふるさと納税】世界最高峰パウダースノー＆ラグジュアリーステイ！羊蹄山ビュー名門ホテル特集｜パークハイアット・雪ニセコ・坐忘林
         </h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed">
-          世界中のスキーヤーや富裕層を魅了する国際的スノーリゾート・北海道ニセコ（倶知安町・ニセコ町）を楽天ふるさと納税でお得に贅沢滞在！ゲレンデ直結の世界的ラグジュアリー「パークハイアット ニセコ HANAZONO」、羊蹄山ビューと上質スパの「雪ニセコ」、白樺林に抱かれた源泉掛け流し離れ宿「坐忘林」を徹底比較。高額還元トラベルクーポン活用術を網羅。
+          世界中のスキーヤーや富裕層を魅了する国際的スノーリゾート・北海道ニセコ（倶知安町・ニセコ町）を楽天ふるさと納税でお得に贅沢滞在！ゲレンデ直結の世界的ラグジュアリー「パークハイアット ニセコ HANAZONO。」、羊蹄山ビューと上質スパの「雪ニセコ」、白樺林に抱かれた源泉掛け流し離れ宿「坐忘林」を徹底比較。高額還元トラベルクーポン活用術を網羅。
         </p>
       </header>
 
@@ -203,7 +203,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">世界最高峰のホスピタリティと現代アートが融合した空間。「ゲレンデ直結の利便性とホテルの豪華さが圧巻」「お部屋からのアンヌプリの雪景色と温泉が最高」と国内外の旅行者から絶賛。</p>
+                <p className="text-stone-700 leading-relaxed">世界最高峰のホスピタリティと現代アートが融合した空間。「ゲレンデ直結の利便性とホテルの豪華さが圧巻。」「お部屋からのアンヌプリの雪景色と温泉が最高。」と国内外の旅行者から絶賛。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -287,7 +287,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.77点、口コミ高評価。「羊蹄山の眺めが素晴らしく、温泉とサウナの設備も超一流」「スタッフの接客とお料理の美味しさに感動した」と高い満足度。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.77点、口コミ高評価。「羊蹄山の眺めが素晴らしく、温泉とサウナの設備も超一流。」「スタッフの接客とお料理の美味しさに感動した。」と高い満足度。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">日本の旅館文化とモダンデザインが融合した奇跡の隠れ宿。「全室に露天風呂と内風呂がありお湯も最高」「雪の白樺林を眺めながら静かに過ごす時間は一生の宝物」と最高峰の評価。</p>
+                <p className="text-stone-700 leading-relaxed">日本の旅館文化とモダンデザインが融合した奇跡の隠れ宿。「全室に露天風呂と内風呂がありお湯も最高」「雪の白樺林を眺めながら静かに過ごす時間は一生の宝物。」と最高峰の評価。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -578,7 +578,7 @@ export default function FurusatoArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「パークハイアットニセコＨＡＮＡＺＯＮＯ」は『2024年10月販売開始予定 最高峰のラグジュアリーマウンテンリゾート』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「パークハイアットニセコＨＡＮＡＺＯＮＯ」は『2024年10月販売開始予定 最高峰のラグジュアリーマウンテンリゾート。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

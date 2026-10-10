@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/private-sauna-self-loyly-barrel-sauna-stay"
   };
 
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D2937%26f_flg%3DPLAN",
     "hotelMinCharge": 5980,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2937/2937.jpg",
-    "userReview": "コスパ最高!ロフト付きの部屋と食事に大満足いや~とにかく最高の一言!!コスパ最高!!部屋は別館のロフト付きに泊まりました年甲斐もなくロフトで遊びはしゃぎまくり食事のしゃぶし…　2026-09-15 13:41:40投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=2937\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "コスパ最高!ロフト付きの部屋と食事に大満足いや~とにかく最高の一言!コスパ最高!部屋は別館のロフト付きに泊まりました年甲斐もなくロフトで遊びはしゃぎまくり食事のしゃぶし。",
     "reviewAverage": 4.38,
     "reviewCount": 404,
     "address": "栃木県那須郡那須町高久乙3814-17",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D109464%26f_flg%3DPLAN",
     "hotelMinCharge": 10395,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/109464/109464.jpg",
-    "userReview": "BBQと星空の露天風呂で大満足の旅友達との旅行で利用しました!夜ご飯のBBQは色んなお肉や野菜などが食べられてとても満足でき、お風呂もチェックイン、チェックアウト後も利用できたため、何回もお風呂に…　2026-09-16 16:15:43投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=109464\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "BBQと星空の露天風呂で大満足の旅友達との旅行で利用しました!夜ご飯のBBQは色んなお肉や野菜などが食べられてとても満足でき、お風呂もチェックイン、チェックアウト後も利用できたため、何回もお風呂に。",
     "reviewAverage": 4.35,
     "reviewCount": 1024,
     "address": "北海道芦別市旭町油谷1",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D878%26f_flg%3DPLAN",
     "hotelMinCharge": 11000,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/878/878.jpg",
-    "userReview": "食事もお風呂も満足、アメニティも充実お食事もお風呂も、たいへんよかったです。アメニティも十分用意されており、ありがたいです。チェックアウトの時間がもう1時間遅ければなおよいですが、がんばっておられ…　2026-09-16 13:44:49投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=878\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "食事もお風呂も満足、アメニティも充実お食事もお風呂も、たいへんよかったです。アメニティも十分用意されており、ありがたいです。チェックアウトの時間がもう1時間遅ければなおよいですが、がんばっておられ。",
     "reviewAverage": 4.67,
     "reviewCount": 2793,
     "address": "長崎県島原市弁天町2-7331-1",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D106139%26f_flg%3DPLAN",
     "hotelMinCharge": 13530,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/106139/106139.jpg",
-    "userReview": "またゆきたい設備は古いが、清潔に保たれてます。夕食とても美味しかったです。離れた所にある露天風呂も良い。蒸し風呂(サウナ)に入れます方法が内湯から入れるようになると入りやすいと思います…　2026-09-12 11:02:52投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=106139\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "またゆきたい設備は古いが、清潔に保たれてます。夕食とても美味しかったです。離れた所にある露天風呂も良い。蒸し風呂(サウナ)に入れます方法が内湯から入れるようになると入りやすいと思います。",
     "reviewAverage": 4.58,
     "reviewCount": 614,
     "address": "宮城県大崎市鳴子温泉赤湯34",
@@ -322,9 +322,9 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 駿河小山駅から車で約２７分で現地へ到着。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「富士山一望 サウナ、ＢＢＱ、露天風呂を楽しむ大型高級貸切別荘 ｔｊ ｒｅｓｏｒｔ 【最大２５名／民泊」へチェックイン。落ち着いた空間で旅の荷を解き、ゆったりとした時間をスタート。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「富士山一望 サウナ、ＢＢＱ、露天風呂を楽しむ大型高級貸切別荘 ｔｊ ｒｅｓｏｒｔ 【最大２５名／民泊」の湯処へ。日頃の疲れを癒やす湯浴みとともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「富士山一望 サウナ、ＢＢＱ、露天風呂を楽しむ大型高級貸切別荘 ｔｊ ｒｅｓｏｒｔ 【最大２５名／民泊」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「富士山一望 サウナ、ＢＢＱ、露天風呂を楽しむ大型高級貸切別荘 ｔｊ ｒｅｓｏｒｔ 【最大２５名／民泊。」へチェックイン。落ち着いた空間で旅の荷を解き、ゆったりとした時間をスタート。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「富士山一望 サウナ、ＢＢＱ、露天風呂を楽しむ大型高級貸切別荘 ｔｊ ｒｅｓｏｒｔ 【最大２５名／民泊。」の湯処へ。日頃の疲れを癒やす湯浴みとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「富士山一望 サウナ、ＢＢＱ、露天風呂を楽しむ大型高級貸切別荘 ｔｊ ｒｅｓｏｒｔ 【最大２５名／民泊。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -333,9 +333,9 @@ export default function Page() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「富士山一望 サウナ、ＢＢＱ、露天風呂を楽しむ大型高級貸切別荘 ｔｊ ｒｅｓｏｒｔ 【最大２５名／民泊」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「富士山一望 サウナ、ＢＢＱ、露天風呂を楽しむ大型高級貸切別荘 ｔｊ ｒｅｓｏｒｔ 【最大２５名／民泊」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ベル・ザ・キャット 貸切温泉５サウナ付２豚しゃぶお酒食べ飲み放題」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「富士山一望 サウナ、ＢＢＱ、露天風呂を楽しむ大型高級貸切別荘 ｔｊ ｒｅｓｏｒｔ 【最大２５名／民泊。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「富士山一望 サウナ、ＢＢＱ、露天風呂を楽しむ大型高級貸切別荘 ｔｊ ｒｅｓｏｒｔ 【最大２５名／民泊。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ベル・ザ・キャット 貸切温泉５サウナ付２豚しゃぶお酒食べ飲み放題。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -352,20 +352,20 @@ export default function Page() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「富士山一望 サウナ、ＢＢＱ、露天風呂を楽しむ大型高級貸切別荘 ｔｊ ｒｅｓｏｒｔ 【最大２５名／民泊」へのアクセスや移動方法について</span>
+                <span>Q. 「富士山一望 サウナ、ＢＢＱ、露天風呂を楽しむ大型高級貸切別荘 ｔｊ ｒｅｓｏｒｔ 【最大２５名／民泊。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「富士山一望 サウナ、ＢＢＱ、露天風呂を楽しむ大型高級貸切別荘 ｔｊ ｒｅｓｏｒｔ 【最大２５名／民泊」へは、駿河小山駅から車で約２７分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。
+                A. 「富士山一望 サウナ、ＢＢＱ、露天風呂を楽しむ大型高級貸切別荘 ｔｊ ｒｅｓｏｒｔ 【最大２５名／民泊。」へは、駿河小山駅から車で約２７分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「富士山一望 サウナ、ＢＢＱ、露天風呂を楽しむ大型高級貸切別荘 ｔｊ ｒｅｓｏｒｔ 【最大２５名／民泊」の魅力や予約時のポイントは？</span>
+                <span>Q. 「富士山一望 サウナ、ＢＢＱ、露天風呂を楽しむ大型高級貸切別荘 ｔｊ ｒｅｓｏｒｔ 【最大２５名／民泊。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「富士山一望 サウナ、ＢＢＱ、露天風呂を楽しむ大型高級貸切別荘 ｔｊ ｒｅｓｏｒｔ 【最大２５名／民泊」は上質な客室空間とおもてなしが旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「富士山一望 サウナ、ＢＢＱ、露天風呂を楽しむ大型高級貸切別荘 ｔｊ ｒｅｓｏｒｔ 【最大２５名／民泊。」は上質な客室空間とおもてなしが旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -374,7 +374,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「富士山一望 サウナ、ＢＢＱ、露天風呂を楽しむ大型高級貸切別荘 ｔｊ ｒｅｓｏｒｔ 【最大２５名／民泊」と「ベル・ザ・キャット 貸切温泉５サウナ付２豚しゃぶお酒食べ飲み放題」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「富士山一望 サウナ、ＢＢＱ、露天風呂を楽しむ大型高級貸切別荘 ｔｊ ｒｅｓｏｒｔ 【最大２５名／民泊。」と「ベル・ザ・キャット 貸切温泉５サウナ付２豚しゃぶお酒食べ飲み放題。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【水上サウナ＆浮遊外気浴】湖や池に浮かぶフローティングサウナと温泉宿5選",
     "description": "穏やかな湖面や池の上に浮かぶフローティングサウナ！水面に直接降りられる階段から飛び込む天然水風呂、そして水上のデッキチェアで揺られながらの外気浴。究極の浮遊感を体験できる最新リゾートを厳選。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-    "datePublished": "2026-03-27T00:00:00+09:00",
-    "dateModified": "2026-03-27T00:00:00+09:00",
+    "datePublished": "T00:00:00+09:00",
+    "dateModified": "T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

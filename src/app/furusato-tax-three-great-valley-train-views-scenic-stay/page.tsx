@@ -245,7 +245,7 @@ export default function FurusatoRound64ArticlePage() {
                     翠紅苑
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「山奥の秘湯感と大正浪漫の雰囲気に癒やされる辿り着くまでにすれ違い不可道路を延々と走らなければならないような山奥にありますがこれはこれで秘湯っぽくて私個人としては良かったです 施設は古いですが清掃も… 2026-09-05 19:34:46投稿 つづきはこちら…」
+                    「山奥の秘湯感と大正浪漫の雰囲気に癒やされる辿り着くまでにすれ違い不可道路を延々と走らなければならないような山奥にありますがこれはこれで秘湯っぽくて私個人としては良かったです 施設は古いですが清掃も…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -300,7 +300,7 @@ export default function FurusatoRound64ArticlePage() {
                     会津柳津温泉　瀞流の宿　かわち
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「接客と温泉が素晴らしく、また必ず伺いたい2回目の宿泊でした。前回は冬でしたので違う季節を楽しみに伺いました。川霧は幻想的で子どももはしゃいでました。食事は朝夕とても美味しくて、温泉はと… 2026-08-29 19:45:15投稿 つづきはこちら…」
+                    「接客と温泉が素晴らしく、また必ず伺いたい2回目の宿泊でした。前回は冬でしたので違う季節を楽しみに伺いました。川霧は幻想的で子どももはしゃいでました。食事は朝夕とても美味しくて、温泉はと…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">

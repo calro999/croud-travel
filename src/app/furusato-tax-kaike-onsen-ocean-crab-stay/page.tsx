@@ -39,8 +39,8 @@ export default function FurusatoArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-10T16:48:00+09:00',
-    dateModified: '2026-09-10T16:48:00+09:00',
+    datePublished: 'T16:48:00+09:00',
+    dateModified: 'T16:48:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-kaike-onsen-ocean-crab-stay',
   };
 
@@ -49,7 +49,7 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「皆生温泉 皆生つるや 四季を奏でるさらさの宿」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「皆生温泉 皆生つるや 四季を奏でるさらさの宿」へは、ICより431号直進15分、空港から車、タクシー20分。最寄りの米子駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「皆生温泉 皆生つるや 四季を奏でるさらさの宿」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「皆生温泉 皆生つるや 四季を奏でるさらさの宿」は『大山と日本海を遠望できる東館、庭園を眺める風情ある南館など多彩な客室を有する、料理自慢の温』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「皆生温泉 皆生つるや 四季を奏でるさらさの宿」と「皆生温泉 華水亭」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「皆生温泉 皆生つるや 四季を奏でるさらさの宿。」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「皆生温泉 皆生つるや 四季を奏でるさらさの宿。」へは、ICより431号直進15分、空港から車、タクシー20分。最寄りの米子駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「皆生温泉 皆生つるや 四季を奏でるさらさの宿。」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「皆生温泉 皆生つるや 四季を奏でるさらさの宿。」は『大山と日本海を遠望できる東館、庭園を眺める風情ある南館など多彩な客室を有する、料理自慢の温。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「皆生温泉 皆生つるや 四季を奏でるさらさの宿。」と「皆生温泉 華水亭」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -203,7 +203,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.60点、口コミ1300件超。「スタッフのおもてなしが素晴らしく料理も一つひとつ丁寧で美味しい」「お風呂のお湯が良くてぐっすり眠れた」と大好評。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.60点、口コミ1300件超。「スタッフのおもてなしが素晴らしく料理も一つひとつ丁寧で美味しい。」「お風呂のお湯が良くてぐっすり眠れた」と大好評。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -287,7 +287,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.66点、口コミ1500件超。「部屋からの海の眺めが息を呑むほど美しく、お風呂も最高」「お料理もサービスも一流で大満足の滞在だった」と高評価。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.66点、口コミ1500件超。「部屋からの海の眺めが息を呑むほど美しく、お風呂も最高。」「お料理もサービスも一流で大満足の滞在だった。」と高評価。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.52点、口コミ1100件超。「全館畳敷きがとても気持ちよく、部屋のお風呂からの海の景色が最高」「お料理がボリューム満点で美味しかった」と評判です。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.52点、口コミ1100件超。「全館畳敷きがとても気持ちよく、部屋のお風呂からの海の景色が最高。」「お料理がボリューム満点で美味しかった」と評判です。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -535,9 +535,9 @@ export default function FurusatoArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 米子駅よりアクセス。ICより431号直進15分、空港から車、タクシー20分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「皆生温泉 皆生つるや 四季を奏でるさらさの宿」にチェックイン。大山と日本海を遠望できる東館、庭園を眺める風情ある南館など多彩な客室を有する、料理自慢の温泉宿。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「皆生温泉 皆生つるや 四季を奏でるさらさの宿」の湯処へ。大山と日本海を遠望できる東館、庭園を眺める風情ある南館など多彩な客室をとともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「皆生温泉 皆生つるや 四季を奏でるさらさの宿」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「皆生温泉 皆生つるや 四季を奏でるさらさの宿。」にチェックイン。大山と日本海を遠望できる東館、庭園を眺める風情ある南館など多彩な客室を有する、料理自慢の温泉宿。などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「皆生温泉 皆生つるや 四季を奏でるさらさの宿。」の湯処へ。大山と日本海を遠望できる東館、庭園を眺める風情ある南館など多彩な客室をとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「皆生温泉 皆生つるや 四季を奏でるさらさの宿。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -546,8 +546,8 @@ export default function FurusatoArticlePage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「皆生温泉 皆生つるや 四季を奏でるさらさの宿」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「皆生温泉 皆生つるや 四季を奏でるさらさの宿」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「皆生温泉 皆生つるや 四季を奏でるさらさの宿。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「皆生温泉 皆生つるや 四季を奏でるさらさの宿。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「皆生温泉 華水亭」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
@@ -565,20 +565,20 @@ export default function FurusatoArticlePage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「皆生温泉 皆生つるや 四季を奏でるさらさの宿」へのアクセスや移動方法について</span>
+                <span>Q. 「皆生温泉 皆生つるや 四季を奏でるさらさの宿。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「皆生温泉 皆生つるや 四季を奏でるさらさの宿」へは、ICより431号直進15分、空港から車、タクシー20分。最寄りの米子駅からの経路案内も充実しています。
+                A. 「皆生温泉 皆生つるや 四季を奏でるさらさの宿。」へは、ICより431号直進15分、空港から車、タクシー20分。最寄りの米子駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「皆生温泉 皆生つるや 四季を奏でるさらさの宿」の魅力や予約時のポイントは？</span>
+                <span>Q. 「皆生温泉 皆生つるや 四季を奏でるさらさの宿。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「皆生温泉 皆生つるや 四季を奏でるさらさの宿」は『大山と日本海を遠望できる東館、庭園を眺める風情ある南館など多彩な客室を有する、料理自慢の温』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「皆生温泉 皆生つるや 四季を奏でるさらさの宿。」は『大山と日本海を遠望できる東館、庭園を眺める風情ある南館など多彩な客室を有する、料理自慢の温。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -587,7 +587,7 @@ export default function FurusatoArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「皆生温泉 皆生つるや 四季を奏でるさらさの宿」と「皆生温泉 華水亭」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「皆生温泉 皆生つるや 四季を奏でるさらさの宿。」と「皆生温泉 華水亭」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

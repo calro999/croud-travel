@@ -39,8 +39,8 @@ export default function FurusatoArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-10T16:45:00+09:00',
-    dateModified: '2026-09-10T16:45:00+09:00',
+    datePublished: 'T16:45:00+09:00',
+    dateModified: 'T16:45:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-gero-onsen-bihada-hida-beef-stay',
   };
 
@@ -203,7 +203,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.43点、口コミ5200件超。「三つのお風呂がどれも泉質最高で館内巡りが楽しい」「スタッフの対応が一流で飛騨牛も絶品だった」と圧倒的な支持。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.43点、口コミ5200件超。「三つのお風呂がどれも泉質最高で館内巡りが楽しい。」「スタッフの対応が一流で飛騨牛も絶品だった。」と圧倒的な支持。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -287,7 +287,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.62点、口コミ1300件超。「昭和初期の歴史的建築が圧巻でタイムスリップしたよう」「お湯が素晴らしくとろとろで、お料理も美味しかった」と絶賛の声。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.62点、口コミ1300件超。「昭和初期の歴史的建築が圧巻でタイムスリップしたよう。」「お湯が素晴らしくとろとろで、お料理も美味しかった。」と絶賛の声。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.39点、口コミ4300件超。「畳風呂が温かく足触りが良くて子供や高齢者にも安心」「お湯がとろとろで飛騨牛も最高に美味しかった」と大好評。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.39点、口コミ4300件超。「畳風呂が温かく足触りが良くて子供や高齢者にも安心。」「お湯がとろとろで飛騨牛も最高に美味しかった。」と大好評。</p>
               </div>
 
               {/* 宿基本情報 */}

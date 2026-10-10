@@ -49,7 +49,7 @@ export default function FurusatoRadiumRadonHotspringStayPage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「三朝温泉 依山楼 岩崎」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「三朝温泉 依山楼 岩崎」へは、◆車 中国道院庄IC60分／山陰道泊東郷IC20分 ◆JR 倉吉駅送迎バス14時20分～18時 ※要予約（前日まで）。最寄りの倉吉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「三朝温泉 依山楼 岩崎」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「三朝温泉 依山楼 岩崎」は『1920年(大正9年)創業★文人墨客に愛された三朝の老舗宿で回遊式大庭園風呂と山陰の旬味覚』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「三朝温泉 依山楼 岩崎」と「しあわせ隠れ里 猿投温泉 癒しの宿 金泉閣」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「三朝温泉 依山楼 岩崎」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「三朝温泉 依山楼 岩崎」へは、◆車 中国道院庄IC60分／山陰道泊東郷IC20分 ◆JR 倉吉駅送迎バス14時20分～18時 ※要予約（前日まで）。最寄りの倉吉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「三朝温泉 依山楼 岩崎」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「三朝温泉 依山楼 岩崎」は『1920年(大正9年)創業★文人墨客に愛された三朝の老舗宿で回遊式大庭園風呂と山陰の旬味覚。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「三朝温泉 依山楼 岩崎」と「しあわせ隠れ里 猿投温泉 癒しの宿 金泉閣。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -195,7 +195,7 @@ export default function FurusatoRadiumRadonHotspringStayPage() {
                     開湯八百五十年を誇る名湯・三朝温泉の中心に位置し、創業大正九年の伝統を誇る名門温泉旅館。宿のシンボルは、回遊式大庭園風呂「山の湯」に配された露天風呂、洞窟風呂、歩行湯、ラドン蒸気風呂など趣の異なる12の湯殿。世界有数のラドン含有量を誇る源泉を贅沢に掛け流し、浸かって良し、吸って良しの極上のホルミシス体験が叶います。夕食には日本海の冬の味覚・松葉蟹やのどぐろ、鳥取和牛オレイン55など贅を尽くした山陰会席を提供。文豪・島崎藤村や与謝野鉄幹・晶子夫妻にも愛された歴史ある名宿です。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「家族旅行家族旅行で利用しました。高齢の両親も快適に過ごすことが出来る素敵な旅館でした。お部屋の露天風呂も最高で、食事を含めとても良い時が過ごせました。クチコミの詳細はこちらから https:/… 2026-09-01 17:01:14投稿 …」
+                    「家族旅行家族旅行で利用しました。高齢の両親も快適に過ごすことが出来る素敵な旅館でした。お部屋の露天風呂も最高で、食事を含めとても良い時が過ごせました。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -256,7 +256,7 @@ export default function FurusatoRadiumRadonHotspringStayPage() {
                     名古屋から車で約40分、愛知県の天然記念物・猿投山の麓に広がる手つかずの自然に囲まれた静かな一軒宿。地下1,200mから湧き出る天然ラドン温泉は、愛知県で初めて飲泉許可を取得し、「医者がすすめる温泉」として全国の湯治ファンに広く知られています。加水なしの100％天然ラドン泉を湛えた大浴場や露天風呂、飲泉処を完備。夕食には三河湾の鮮魚や三河牛、季節の山菜を取り入れた心づくしの郷土会席が並び、都会の喧騒を離れて深い安らぎと健康を取り戻す休日をお過ごしいただけます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「露天風呂と地元の食事が大満足の旅施設は少し古いですが、綺麗にリフォームされていますが、廊下、ラウンジなどで独特の匂いがありました。食事は温泉水や地元食材を使われており、美味しく満足でした。… 2026-08-19 16:24:56投稿 つづ…」
+                    「露天風呂と地元の食事が大満足の旅施設は少し古いですが、綺麗にリフォームされていますが、廊下、ラウンジなどで独特の匂いがありました。食事は温泉水や地元食材を使われており、美味しく満足でした。… つづ。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -317,7 +317,7 @@ export default function FurusatoRadiumRadonHotspringStayPage() {
                     五頭連峰の山裾、開湯六百六十年の歴史を持つ越後名湯・村杉温泉に位置する四千坪の壮大な日本庭園を抱く老舗旅館。宿自慢の大浴場「滝の湯」と日本最大級の広さを誇る庭園大露天風呂には、全国トップクラスのラドン含有量を誇る自家源泉がこんこんと注がれ、庭園の四季折々の草花を眺めながらの湯浴みは格別の贅沢です。館内には吸気浴専用ラウンジや飲泉所も完備。夕食には日本一の米どころ・魚沼コシヒカリと新潟の日本海鮮魚、にいがた和牛を味わえる極上会席が並びます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「お風呂も食事も送迎も丁寧で居心地最高以前から一度泊まってみたかったお宿で、お風呂も食事も送迎も、大変丁寧で居心地の良いお宿でした。クチコミの詳細はこちらから 2026-09-05 11:39:50投稿 つづきはこちら…」
+                    「お風呂も食事も送迎も丁寧で居心地最高以前から一度泊まってみたかったお宿で、お風呂も食事も送迎も、大変丁寧で居心地の良いお宿でした。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -451,7 +451,7 @@ export default function FurusatoRadiumRadonHotspringStayPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「三朝温泉 依山楼 岩崎」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「三朝温泉 依山楼 岩崎」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「しあわせ隠れ里 猿投温泉 癒しの宿 金泉閣」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「しあわせ隠れ里 猿投温泉 癒しの宿 金泉閣。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -481,7 +481,7 @@ export default function FurusatoRadiumRadonHotspringStayPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「三朝温泉 依山楼 岩崎」は『1920年(大正9年)創業★文人墨客に愛された三朝の老舗宿で回遊式大庭園風呂と山陰の旬味覚』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「三朝温泉 依山楼 岩崎」は『1920年(大正9年)創業★文人墨客に愛された三朝の老舗宿で回遊式大庭園風呂と山陰の旬味覚。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -490,7 +490,7 @@ export default function FurusatoRadiumRadonHotspringStayPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「三朝温泉 依山楼 岩崎」と「しあわせ隠れ里 猿投温泉 癒しの宿 金泉閣」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「三朝温泉 依山楼 岩崎」と「しあわせ隠れ里 猿投温泉 癒しの宿 金泉閣。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

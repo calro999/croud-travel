@@ -7,11 +7,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/osaka-solo-business-sky-sauna-retreat-stay/" },
   title: '【大阪出張・梅田ご褒美泊】地上130mスカイスパ・展望サウナ・夜景クラブラウンジ完備！ビジネス＆ソロステイ 厳選3選',
-  description: '西日本のビジネス中心地・大阪で、仕事の疲れを極限まで吹き飛ばし最高のインスピレーションを得る。「日本一高いインフィニティスカイスパ」を備えた最新ランドマーク「カンデオホテルズ大阪ザ・タワー」、全室高層階・英国調ラグジュアリーの極致「ホテル阪急インターナショナル」、難波のど真ん中で天然温泉とサウナを満喫する「ドーミーインPREMIUMなんばANNEX」を徹底特集。',
+  description: '西日本のビジネス中心地・大阪で、仕事の疲れを極限まで吹き飛ばし最高のインスピレーションを得る。「日本一高いインフィニティスカイスパ」を備えた最新ランドマーク「カンデオホテルズ大阪ザ・タワー」、全室高層階・英国調ラグジュアリーの極致「ホテル阪急インターナショナル」、難波のど真ん中で天然温泉とサウナを満喫する「ドーミーインPREMIUMなんばANNEX。」を徹底特集。',
   keywords: '大阪 出張 ホテル サウナ,梅田 ビジネスホテル 大浴場,カンデオホテルズ大阪ザタワー サウナ,ホテル阪急インターナショナル 一人,大阪 高級ホテル 一人ステイ',
   openGraph: {
     title: '【大阪出張・梅田ご褒美泊】地上130mスカイスパ・展望サウナ・夜景クラブラウンジ完備！ビジネス＆ソロステイ 厳選3選',
-    description: '西日本のビジネス中心地・大阪で、仕事の疲れを極限まで吹き飛ばし最高のインスピレーションを得る。「日本一高いインフィニティスカイスパ」を備えた最新ランドマーク「カンデオホテルズ大阪ザ・タワー」、全室高層階・英国調ラグジュアリーの極致「ホテル阪急インターナショナル」、難波のど真ん中で天然温泉とサウナを満喫する「ドーミーインPREMIUMなんばANNEX」を徹底特集。',
+    description: '西日本のビジネス中心地・大阪で、仕事の疲れを極限まで吹き飛ばし最高のインスピレーションを得る。「日本一高いインフィニティスカイスパ」を備えた最新ランドマーク「カンデオホテルズ大阪ザ・タワー」、全室高層階・英国調ラグジュアリーの極致「ホテル阪急インターナショナル」、難波のど真ん中で天然温泉とサウナを満喫する「ドーミーインPREMIUMなんばANNEX。」を徹底特集。',
     url: 'https://croud-travel.pages.dev/osaka-solo-business-sky-sauna-retreat-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -24,7 +24,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【大阪出張・梅田ご褒美泊】地上130mスカイスパ・展望サウナ・夜景クラブラウンジ完備！ビジネス＆ソロステイ 厳選3選',
-    description: '西日本のビジネス中心地・大阪で、仕事の疲れを極限まで吹き飛ばし最高のインスピレーションを得る。「日本一高いインフィニティスカイスパ」を備えた最新ランドマーク「カンデオホテルズ大阪ザ・タワー」、全室高層階・英国調ラグジュアリーの極致「ホテル阪急インターナショナル」、難波のど真ん中で天然温泉とサウナを満喫する「ドーミーインPREMIUMなんばANNEX」を徹底特集。',
+    description: '西日本のビジネス中心地・大阪で、仕事の疲れを極限まで吹き飛ばし最高のインスピレーションを得る。「日本一高いインフィニティスカイスパ」を備えた最新ランドマーク「カンデオホテルズ大阪ザ・タワー」、全室高層階・英国調ラグジュアリーの極致「ホテル阪急インターナショナル」、難波のど真ん中で天然温泉とサウナを満喫する「ドーミーインPREMIUMなんばANNEX。」を徹底特集。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・ホテル調査班',
@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-11T02:30:00+09:00',
-    dateModified: '2026-09-11T02:30:00+09:00',
+    datePublished: 'T02:30:00+09:00',
+    dateModified: 'T02:30:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/osaka-solo-business-sky-sauna-retreat-stay',
   };
 
@@ -48,7 +48,7 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「地上130mスカイスパ・展望サウナ・夜景クラブラウンジ完備！ビジネス＆ソロステイ 厳選3選」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「地上130mスカイスパ・展望サウナ・夜景クラブラウンジ完備！ビジネス＆ソロステイ 厳選3選。」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -78,7 +78,7 @@ export default function ArticlePage() {
           【大阪出張・梅田ご褒美泊】地上130mスカイスパ・展望サウナ・夜景クラブラウンジ完備！ビジネス＆ソロステイ 厳選3選
         </h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
-          西日本のビジネス中心地・大阪で、仕事の疲れを極限まで吹き飛ばし最高のインスピレーションを得る。「日本一高いインフィニティスカイスパ」を備えた最新ランドマーク「カンデオホテルズ大阪ザ・タワー」、全室高層階・英国調ラグジュアリーの極致「ホテル阪急インターナショナル」、難波のど真ん中で天然温泉とサウナを満喫する「ドーミーインPREMIUMなんばANNEX」を徹底特集。
+          西日本のビジネス中心地・大阪で、仕事の疲れを極限まで吹き飛ばし最高のインスピレーションを得る。「日本一高いインフィニティスカイスパ」を備えた最新ランドマーク「カンデオホテルズ大阪ザ・タワー」、全室高層階・英国調ラグジュアリーの極致「ホテル阪急インターナショナル」、難波のど真ん中で天然温泉とサウナを満喫する「ドーミーインPREMIUMなんばANNEX。」を徹底特集。
         </p>
       </header>
 
@@ -89,7 +89,7 @@ export default function ArticlePage() {
             地上数十階から見下ろす水都・大阪の夜景と、吹き抜ける夜風でととのう天空サウナ——出張を最高のリフレッシュに変える「大阪極上ステイ」
           </h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
-            新大阪駅や伊丹・関空からのアクセスが良く、西日本ビジネスの心臓部である大阪。連日の打ち合わせやイベント出展、商談で1日中歩き回った後は、心身ともに深い疲労が残ります。ただシャワーを浴びて寝るだけの出張では、翌日のプレゼンや判断力に十分な集中力を発揮できません。「大阪出張の夜だからこそ、圧倒的な夜景を眺めながらサウナで整いたい」「上質なベッドと静かなデスクで仕事を片付けたい」。
+            新大阪駅や伊丹・関空からのアクセスが良く、西日本ビジネスの心臓部である大阪。連日の打ち合わせやイベント出展、商談で1日中歩き回った後は、心身ともに深い疲労が残ります。ただシャワーを浴びて寝るだけの出張では、翌日のプレゼンや判断力に十分な集中力を発揮できません。「大阪出張の夜だからこそ、圧倒的な夜景を眺めながらサウナで整いたい。」「上質なベッドと静かなデスクで仕事を片付けたい。」。
           </p>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             近年、大阪中心部には従来のビジネスホテルの枠を大きく超えた「展望露天風呂」「本格サウナ」「高層クラブラウンジ」を備えた進化系ホテルが続々と登場しています。今回は、仕事のモチベーションを高め、極上の休息を約束してくれる梅田・中之島・難波の厳選3ホテルをご紹介します。
@@ -161,7 +161,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.49点。「天空露天風呂からの夜景とサウナが異次元の素晴らしさ」「出張で利用しましたが、ここ数年で一番感動したホテルでした」とサウナー・ビジネスマンから絶賛の嵐。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.49点。「天空露天風呂からの夜景とサウナが異次元の素晴らしさ。」「出張で利用しましたが、ここ数年で一番感動したホテルでした。」とサウナー・ビジネスマンから絶賛の嵐。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -236,7 +236,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.66点。「お部屋からの夜景が素晴らしく、ベッドの寝心地も最高でした」「スタッフの方々のホスピタリティが完璧で、自分への最高のご褒美出張になりました」と感動の声多数。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.66点。「お部屋からの夜景が素晴らしく、ベッドの寝心地も最高でした。」「スタッフの方々のホスピタリティが完璧で、自分への最高のご褒美出張になりました。」と感動の声多数。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -311,7 +311,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.40点。「なんば周辺の出張で定宿にしています。温泉とサウナで疲れが取れて、夜鳴きそばも美味しい」「部屋が綺麗で静かで快適」と高い信頼を獲得。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.40点。「なんば周辺の出張で定宿にしています。温泉とサウナで疲れが取れて、夜鳴きそばも美味しい。」「部屋が綺麗で静かで快適」と高い信頼を獲得。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -437,7 +437,7 @@ export default function ArticlePage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「地上130mスカイスパ・展望サウナ・夜景クラブラウンジ完備！ビジネス＆ソロステイ 厳選3選」を効率よく巡るコツは？</span>
+                <span>Q. 「地上130mスカイスパ・展望サウナ・夜景クラブラウンジ完備！ビジネス＆ソロステイ 厳選3選。」を効率よく巡るコツは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">

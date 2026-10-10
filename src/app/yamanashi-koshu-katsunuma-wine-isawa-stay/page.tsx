@@ -73,7 +73,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「富士櫻温泉旅館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「富士櫻温泉旅館」へは、中央自動車道 一宮御坂ICより車で10分。最寄りの石和温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「富士櫻温泉旅館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「富士櫻温泉旅館」は『桜並木の川辺に佇む、癒しの温泉と贅沢な露天風呂を楽しむ至福のひととき。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「富士櫻温泉旅館」と「石和温泉 美と健康と癒しの宿 ホテル八田」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「富士櫻温泉旅館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「富士櫻温泉旅館」へは、中央自動車道 一宮御坂ICより車で10分。最寄りの石和温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「富士櫻温泉旅館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「富士櫻温泉旅館」は『桜並木の川辺に佇む、癒しの温泉と贅沢な露天風呂を楽しむ至福のひととき。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「富士櫻温泉旅館」と「石和温泉 美と健康と癒しの宿 ホテル八田。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
 
         {/* セクション 1 */}
@@ -635,7 +635,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「富士櫻温泉旅館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「富士櫻温泉旅館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「石和温泉 美と健康と癒しの宿 ホテル八田」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「石和温泉 美と健康と癒しの宿 ホテル八田。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -674,7 +674,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「富士櫻温泉旅館」と「石和温泉 美と健康と癒しの宿 ホテル八田」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「富士櫻温泉旅館」と「石和温泉 美と健康と癒しの宿 ホテル八田。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

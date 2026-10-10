@@ -39,8 +39,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
-    "datePublished": "2026-09-22",
-    "dateModified": "2026-09-22",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-unazuki-kurobe-trolley-autumn-stay"
   };
 
@@ -441,7 +441,7 @@ export default function Page() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「黒部峡谷トロッコ電車の紅葉パノラマと宇奈月温泉！富山湾の紅ズワイガニ・白えびと日本屈指の透明美肌湯」を効率よく巡るコツは？</span>
+                <span>Q. 「黒部峡谷トロッコ電車の紅葉パノラマと宇奈月温泉！富山湾の紅ズワイガニ・白えびと日本屈指の透明美肌湯。」を効率よく巡るコツは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">

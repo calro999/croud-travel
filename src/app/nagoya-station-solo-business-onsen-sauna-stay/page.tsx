@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagoya-station-solo-business-onsen-sauna-stay/" },
   title: '【名古屋出張・サウナ温泉ステイ】名駅・栄アクセス・天然温泉錦鯱の湯・聖地ウェルビー今池！中部ビジネスを制する厳選3宿',
-  description: '東海道新幹線「のぞみ」停車・中部国際空港からも直通！栄の繁華街中心で天然温泉大浴場と高温サウナを完備する「ドーミーインPREMIUM名古屋栄」、全国サウナーの聖地でからふろや露天外気浴が揃う「ウェルビー今池」、丸の内ビジネス街で手頃に天然温泉を堪能できる「ホテルリブマックスPREMIUM名古屋丸の内」を徹底比較。',
+  description: '東海道新幹線「のぞみ」停車・中部国際空港からも直通！栄の繁華街中心で天然温泉大浴場と高温サウナを完備する「ドーミーインPREMIUM名古屋栄」、全国サウナーの聖地でからふろや露天外気浴が揃う「ウェルビー今池」、丸の内ビジネス街で手頃に天然温泉を堪能できる「ホテルリブマックスPREMIUM名古屋丸の内。」を徹底比較。',
   keywords: '名古屋 出張 ホテル,名古屋 サウナ ホテル,ドーミーインPREMIUM名古屋栄,ウェルビー今池,名古屋 温泉 ビジネス,名駅 ひとり旅',
   openGraph: {
     title: '【名古屋出張・サウナ温泉ステイ】名駅・栄アクセス・天然温泉錦鯱の湯・聖地ウェルビー今池！中部ビジネスを制する厳選3宿',
-    description: '東海道新幹線「のぞみ」停車・中部国際空港からも直通！栄の繁華街中心で天然温泉大浴場と高温サウナを完備する「ドーミーインPREMIUM名古屋栄」、全国サウナーの聖地でからふろや露天外気浴が揃う「ウェルビー今池」、丸の内ビジネス街で手頃に天然温泉を堪能できる「ホテルリブマックスPREMIUM名古屋丸の内」を徹底比較。',
+    description: '東海道新幹線「のぞみ」停車・中部国際空港からも直通！栄の繁華街中心で天然温泉大浴場と高温サウナを完備する「ドーミーインPREMIUM名古屋栄」、全国サウナーの聖地でからふろや露天外気浴が揃う「ウェルビー今池」、丸の内ビジネス街で手頃に天然温泉を堪能できる「ホテルリブマックスPREMIUM名古屋丸の内。」を徹底比較。',
     url: 'https://croud-travel.pages.dev/nagoya-station-solo-business-onsen-sauna-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【名古屋出張・サウナ温泉ステイ】名駅・栄アクセス・天然温泉錦鯱の湯・聖地ウェルビー今池！中部ビジネスを制する厳選3宿',
-    description: '東海道新幹線「のぞみ」停車・中部国際空港からも直通！栄の繁華街中心で天然温泉大浴場と高温サウナを完備する「ドーミーインPREMIUM名古屋栄」、全国サウナーの聖地でからふろや露天外気浴が揃う「ウェルビー今池」、丸の内ビジネス街で手頃に天然温泉を堪能できる「ホテルリブマックスPREMIUM名古屋丸の内」を徹底比較。',
+    description: '東海道新幹線「のぞみ」停車・中部国際空港からも直通！栄の繁華街中心で天然温泉大浴場と高温サウナを完備する「ドーミーインPREMIUM名古屋栄」、全国サウナーの聖地でからふろや露天外気浴が揃う「ウェルビー今池」、丸の内ビジネス街で手頃に天然温泉を堪能できる「ホテルリブマックスPREMIUM名古屋丸の内。」を徹底比較。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・出張調査班',
@@ -37,8 +37,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-13T00:00:00+09:00',
-    dateModified: '2026-09-13T00:00:00+09:00',
+    datePublished: 'T00:00:00+09:00',
+    dateModified: 'T00:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/nagoya-station-solo-business-onsen-sauna-stay',
   };
 
@@ -47,7 +47,7 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「天然温泉 錦鯱の湯 ドーミーインＰＲＥＭＩＵＭ名古屋栄」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 錦鯱の湯 ドーミーインＰＲＥＭＩＵＭ名古屋栄」へは、栄駅8番出口徒歩約8分（エスカレーター、エレベーター有り）伏見駅2番出口徒歩約4分（エスカレーター、エレベーター無し）。最寄りの栄（愛知）駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「天然温泉 錦鯱の湯 ドーミーインＰＲＥＭＩＵＭ名古屋栄」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 錦鯱の湯 ドーミーインＰＲＥＭＩＵＭ名古屋栄」は『ゴールドアワード2021受賞！天然温泉大浴場(サウナ＆水風呂)が魅力！』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 錦鯱の湯 ドーミーインＰＲＥＭＩＵＭ名古屋栄」と「サウナ＆カプセルホテル ウェルビー今池」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「天然温泉 錦鯱の湯 ドーミーインＰＲＥＭＩＵＭ名古屋栄。」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 錦鯱の湯 ドーミーインＰＲＥＭＩＵＭ名古屋栄。」へは、栄駅8番出口徒歩約8分（エスカレーター、エレベーター有り）伏見駅2番出口徒歩約4分（エスカレーター、エレベーター無し）。最寄りの栄（愛知）駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「天然温泉 錦鯱の湯 ドーミーインＰＲＥＭＩＵＭ名古屋栄。」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 錦鯱の湯 ドーミーインＰＲＥＭＩＵＭ名古屋栄。」は『ゴールドアワード2021受賞！天然温泉大浴場(サウナ＆水風呂)が魅力！』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 錦鯱の湯 ドーミーインＰＲＥＭＩＵＭ名古屋栄。」と「サウナ＆カプセルホテル ウェルビー今池」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -76,7 +76,7 @@ export default function ArticlePage() {
           【名古屋出張・サウナ温泉ステイ】名駅・栄アクセス・天然温泉錦鯱の湯・聖地ウェルビー今池！中部ビジネスを制する厳選3宿
         </h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
-          <time dateTime="2026-09-13">2026.09.13 更新</time>
+          <time dateTime="">2026.09.13 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
         </div>
@@ -365,7 +365,7 @@ export default function ArticlePage() {
                 <span>栄エリアで天然温泉とサウナ、ご当地朝食が楽しめるホテルは？</span>
               </h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
-                「天然温泉 錦鯱の湯 ドーミーインPREMIUM名古屋栄」は地下鉄伏見駅・栄駅から徒歩圏内。天然温泉大浴場、高温サウナ、ひつまぶし風ご飯などの名古屋めし朝食が好評です。
+                「天然温泉 錦鯱の湯 ドーミーインPREMIUM名古屋栄。」は地下鉄伏見駅・栄駅から徒歩圏内。天然温泉大浴場、高温サウナ、ひつまぶし風ご飯などの名古屋めし朝食が好評です。
               </p>
             </div>
             <div className="bg-white p-4 sm:p-5 rounded-xl border border-stone-200">
@@ -421,9 +421,9 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 栄（愛知）駅よりアクセス。栄駅8番出口徒歩約8分（エスカレーター、エレベーター有り）伏見駅2番出口徒歩約4分（エスカレーター、エレベーター無し）。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「天然温泉 錦鯱の湯 ドーミーインＰＲＥＭＩＵＭ名古屋栄」にチェックイン。ゴールドアワード2021受賞！天然温泉大浴場(サウナ＆水風呂)が魅力！などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「天然温泉 錦鯱の湯 ドーミーインＰＲＥＭＩＵＭ名古屋栄」の湯処へ。ゴールドアワード2021受賞！天然温泉大浴場(サウナ＆水風呂)が魅力！とともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「天然温泉 錦鯱の湯 ドーミーインＰＲＥＭＩＵＭ名古屋栄」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「天然温泉 錦鯱の湯 ドーミーインＰＲＥＭＩＵＭ名古屋栄。」にチェックイン。ゴールドアワード2021受賞！天然温泉大浴場(サウナ＆水風呂)が魅力！などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「天然温泉 錦鯱の湯 ドーミーインＰＲＥＭＩＵＭ名古屋栄。」の湯処へ。ゴールドアワード2021受賞！天然温泉大浴場(サウナ＆水風呂)が魅力！とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「天然温泉 錦鯱の湯 ドーミーインＰＲＥＭＩＵＭ名古屋栄。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -432,8 +432,8 @@ export default function ArticlePage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「天然温泉 錦鯱の湯 ドーミーインＰＲＥＭＩＵＭ名古屋栄」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「天然温泉 錦鯱の湯 ドーミーインＰＲＥＭＩＵＭ名古屋栄」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「天然温泉 錦鯱の湯 ドーミーインＰＲＥＭＩＵＭ名古屋栄。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「天然温泉 錦鯱の湯 ドーミーインＰＲＥＭＩＵＭ名古屋栄。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「サウナ＆カプセルホテル ウェルビー今池」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
@@ -451,20 +451,20 @@ export default function ArticlePage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「天然温泉 錦鯱の湯 ドーミーインＰＲＥＭＩＵＭ名古屋栄」へのアクセスや移動方法について</span>
+                <span>Q. 「天然温泉 錦鯱の湯 ドーミーインＰＲＥＭＩＵＭ名古屋栄。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「天然温泉 錦鯱の湯 ドーミーインＰＲＥＭＩＵＭ名古屋栄」へは、栄駅8番出口徒歩約8分（エスカレーター、エレベーター有り）伏見駅2番出口徒歩約4分（エスカレーター、エレベーター無し）。最寄りの栄（愛知）駅からの経路案内も充実しています。
+                A. 「天然温泉 錦鯱の湯 ドーミーインＰＲＥＭＩＵＭ名古屋栄。」へは、栄駅8番出口徒歩約8分（エスカレーター、エレベーター有り）伏見駅2番出口徒歩約4分（エスカレーター、エレベーター無し）。最寄りの栄（愛知）駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「天然温泉 錦鯱の湯 ドーミーインＰＲＥＭＩＵＭ名古屋栄」の魅力や予約時のポイントは？</span>
+                <span>Q. 「天然温泉 錦鯱の湯 ドーミーインＰＲＥＭＩＵＭ名古屋栄。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「天然温泉 錦鯱の湯 ドーミーインＰＲＥＭＩＵＭ名古屋栄」は『ゴールドアワード2021受賞！天然温泉大浴場(サウナ＆水風呂)が魅力！』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「天然温泉 錦鯱の湯 ドーミーインＰＲＥＭＩＵＭ名古屋栄。」は『ゴールドアワード2021受賞！天然温泉大浴場(サウナ＆水風呂)が魅力！』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -473,7 +473,7 @@ export default function ArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「天然温泉 錦鯱の湯 ドーミーインＰＲＥＭＩＵＭ名古屋栄」と「サウナ＆カプセルホテル ウェルビー今池」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「天然温泉 錦鯱の湯 ドーミーインＰＲＥＭＩＵＭ名古屋栄。」と「サウナ＆カプセルホテル ウェルビー今池」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

@@ -62,7 +62,7 @@ export default function FurusatoShuzenjiBambooStayPage() {
           伊豆最古の小京都！修善寺温泉の竹林の小径散策＆桂川のせせらぎ望む老舗旅館×ふるさと納税完全攻略ガイド【2026年最新】湯回廊菊屋・宙SORA・桂川
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-10">2026年9月10日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -164,7 +164,7 @@ export default function FurusatoShuzenjiBambooStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “全てが素晴らしく大満足のひととき本当に、全てが良かったです...。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/7…　2026-09-05 13:33:41投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “全てが素晴らしく大満足のひととき本当に、全てが良かったです...。 ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -206,7 +206,7 @@ export default function FurusatoShuzenjiBambooStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “エアコンの音がうるさく、少し気になった総合的には満足でしたがエアコンの音がうるさく感じられたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/…　2026-09-01 13:01:12投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “エアコンの音がうるさく、少し気になった総合的には満足でしたがエアコンの音がうるさく感じられた ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -239,7 +239,7 @@ export default function FurusatoShuzenjiBambooStayPage() {
             <div><strong>楽天評価:</strong> <span className="text-amber-600 font-bold text-base">★ 4.34</span> (1944件)</div>
             <div><strong>参考価格:</strong> 1名あたり約11,800円〜</div>
           </div>
-          <p className="text-base text-gray-800 leading-relaxed mb-6">修禅寺や桂川の散策拠点として最高のロケーションに位置する、共立リゾートがプロデュースする温泉ホテル。最大の魅力は、館内に用意された「七つの無料貸切風呂（檜、信楽焼、岩風呂など）」。空いていれば予約なしで何度でも湯巡りができ、家族やカップルでプライベートな温泉時間を満喫できます。客室は和の温もりを感じる洗練された和洋室。夕食は旬の刺身や天ぷら、伊豆の郷土料理が彩り豊かに並ぶハーフバイキングや和食会席が選べ、共立リゾート名物の夜鳴きそばサービスとともに滞在の満足感を高めてくれます。</p>
+          <p className="text-base text-gray-800 leading-relaxed mb-6">修禅寺や桂川の散策拠点として最高のロケーションに位置する、共立リゾートがプロデュースする温泉ホテル。最大の魅力は、館内に用意された「七つの無料貸切風呂（檜、信楽焼、岩風呂など）。」。空いていれば予約なしで何度でも湯巡りができ、家族やカップルでプライベートな温泉時間を満喫できます。客室は和の温もりを感じる洗練された和洋室。夕食は旬の刺身や天ぷら、伊豆の郷土料理が彩り豊かに並ぶハーフバイキングや和食会席が選べ、共立リゾート名物の夜鳴きそばサービスとともに滞在の満足感を高めてくれます。</p>
           <div className="hotel-special-wrapper">
             <div className="bg-amber-50 border-l-4 border-amber-600 p-4 rounded-r-xl mb-6 text-sm text-amber-950">
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
@@ -248,7 +248,7 @@ export default function FurusatoShuzenjiBambooStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “7つの貸切風呂と海鮮料理に大満足貸切風呂が7個もあり、どのお風呂に入るか悩む楽しみがあり、名前にある通り湯めぐりが楽しめる宿でした。みんな貸切風呂に行くからか、大浴場に誰もおらず独り占めでき、贅沢…　2026-09-05 20:44:49投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “7つの貸切風呂と海鮮料理に大満足貸切風呂が7個もあり、どのお風呂に入るか悩む楽しみがあり、名前にある通り湯めぐりが楽しめる宿でした。みんな貸切風呂に行くからか、大浴場に誰もおらず独り占めでき、贅沢… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -323,7 +323,7 @@ export default function FurusatoShuzenjiBambooStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

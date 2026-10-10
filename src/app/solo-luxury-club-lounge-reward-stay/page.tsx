@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-11T02:20:00+09:00',
-    dateModified: '2026-09-11T02:20:00+09:00',
+    datePublished: 'T02:20:00+09:00',
+    dateModified: 'T02:20:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/solo-luxury-club-lounge-reward-stay',
   };
 
@@ -161,7 +161,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.75点。「お部屋からの浜離宮の眺めが圧巻で、一人でぼーっと景色を眺めているだけで心が洗われました」「スタッフのホスピタリティが素晴らしく、ラウンジのお料理も一流でした」と大絶賛。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.75点。「お部屋からの浜離宮の眺めが圧巻で、一人でぼーっと景色を眺めているだけで心が洗われました。」「スタッフのホスピタリティが素晴らしく、ラウンジのお料理も一流でした。」と大絶賛。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -236,7 +236,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価5.00点満点。「紀尾井町の高層階からの夜景は息をのむ美しさ。クラブラウンジのクオリティも日本トップクラス」「一人で静かに自分と向き合う最高の時間になりました」と極めて高い満足度。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価5.00点満点。「紀尾井町の高層階からの夜景は息をのむ美しさ。クラブラウンジのクオリティも日本トップクラス。」「一人で静かに自分と向き合う最高の時間になりました。」と極めて高い満足度。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -311,7 +311,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.24点。「品川駅からすぐなのに庭園が広くて静か。ラウンジを巡る体験がとても楽しく、一人でも居心地抜群でした」「バルコニー付きのお部屋が気持ちよくてリフレッシュできた」と評判。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.24点。「品川駅からすぐなのに庭園が広くて静か。ラウンジを巡る体験がとても楽しく、一人でも居心地抜群でした。」「バルコニー付きのお部屋が気持ちよくてリフレッシュできた。」と評判。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">

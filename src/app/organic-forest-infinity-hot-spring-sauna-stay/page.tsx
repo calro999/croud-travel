@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【絶景インフィニティ温泉×森サウナ】天空の水平線と溶け合う極上スパリゾート宿5選",
     "description": "視界を遮るもののないインフィニティ露天風呂と、森の香りに包まれる本格セルフロウリュサウナ！空や海、森林のパノラマと一体化する圧倒的開放感の中で、最高峰のディープリラックスを約束するスパリゾート。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-    "datePublished": "2026-03-27T00:00:00+09:00",
-    "dateModified": "2026-03-27T00:00:00+09:00",
+    "datePublished": "T00:00:00+09:00",
+    "dateModified": "T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

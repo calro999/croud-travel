@@ -34,7 +34,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/106122/106122map.gif",
     "reviewCount": 828,
     "reviewAverage": 4.16,
-    "userReview": "大満足到着してから出発するまでに関わったスタッフの方々が全員とても親切で感じが良く、気持ちの良い滞在になりました。夕食も朝食も新鮮で美味しいものばかりでした。大浴場は2箇所あり、お風呂も脱衣所も清…　2026-09-13 12:37:12投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=106122\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "大満足到着してから出発するまでに関わったスタッフの方々が全員とても親切で感じが良く、気持ちの良い滞在になりました。夕食も朝食も新鮮で美味しいものばかりでした。大浴場は2箇所あり、お風呂も脱衣所も清。",
     "hotelMinCharge": 12540,
     "address1": "滋賀県",
     "address2": "大津市雄琴6-5-1",
@@ -59,7 +59,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4843/4843map.gif",
     "reviewCount": 2712,
     "reviewAverage": 4.52,
-    "userReview": "朝食バイキングが団体客と一緒になり1朝食バイキングが中国の団体客と一緒になり、物凄くうるさく(隣のテーブルに行って立って食べていたり) せっかくの朝食が台無しでした。席を日本人席のスペースと分ける…　2026-09-19 13:33:36投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=4843\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "席を日本人席のスペースと分ける。",
     "hotelMinCharge": 8500,
     "address1": "滋賀県",
     "address2": "大津市浜町2-40",
@@ -84,13 +84,13 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/160835/160835map.gif",
     "reviewCount": 624,
     "reviewAverage": 4.25,
-    "userReview": "パジャマや浄水器がありアメニティも充実部屋着は浴衣でなくパジャマが良かった。バスローブがあるホテルは初めてでした。タオル類は充分にあって助かりました。また、浄水器もあり良かったです。氷は各階になか…　2026-09-19 18:05:34投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=160835\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "パジャマや浄水器がありアメニティも充実部屋着は浴衣でなくパジャマが良かった。バスローブがあるホテルは初めてでした。タオル類は充分にあって助かりました。また、浄水器もあり良かったです。氷は各階になか。",
     "hotelMinCharge": 7660,
     "address1": "滋賀県",
     "address2": "守山市今浜町十軒家2876",
     "telephoneNo": "077-585-6100",
     "access": "JR堅田駅より無料シャトルバス運行【時刻表等の詳細はホテルHPへ】",
-    "parkingInformation": "駐車場有 185台 2026年8月1日より有料となります。500円/1泊　予約不要",
+    "parkingInformation": "駐車場有 185台より有料となります。500円/1泊　予約不要",
     "nearestStation": "堅田",
     "hotelSpecial": "目の前に雄大な琵琶湖と比良山系を眺めながら快適な滞在をお楽しみいただけます。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F160835%2F160835.html"
@@ -109,11 +109,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9254/9254map.gif",
     "reviewCount": 585,
     "reviewAverage": 4.02,
-    "userReview": "琵琶湖を眺めながらの食事ができます琵琶湖のほとりにあり、琵琶湖を眺めながら食事ができます。次回は琵琶湖で泳いでみたいと思います。クチコミの詳細はこちらから　https://review.t…　2026-09-13 19:35:49投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=9254\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "琵琶湖を眺めながらの食事ができます琵琶湖のほとりにあり、琵琶湖を眺めながら食事ができます。次回は琵琶湖で泳いでみたいと思います。",
     "hotelMinCharge": 7200,
     "address1": "滋賀県",
     "address2": "高島市マキノ町西浜763-2",
-    "telephoneNo": "0740-28-1111",
+    "telephoneNo": "11",
     "access": "JR湖西線『マキノ駅』下車、徒歩約12分 無料駐車場",
     "parkingInformation": "有り　150台　無料　先着順",
     "nearestStation": "マキノ（滋賀）",
@@ -134,11 +134,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2922/2922map.gif",
     "reviewCount": 5544,
     "reviewAverage": 4.06,
-    "userReview": "エレベーター近くで便利、花火も絶景エレベーター直ぐ近くのお部屋で年齢的にとても助かりました。お部屋からの花火も見事で素晴らしかったです。大浴場は人が沢山いらして今回は利用出来ませんでしたが来年…　2026-09-19 21:51:53投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=2922\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "エレベーター近くで便利、花火も絶景エレベーター直ぐ近くのお部屋で年齢的にとても助かりました。お部屋からの花火も見事で素晴らしかったです。大浴場は人が沢山いらして今回は利用出来ませんでしたが来年。",
     "hotelMinCharge": 5160,
     "address1": "滋賀県",
     "address2": "長浜市大島町38",
-    "telephoneNo": "0749-64-2000",
+    "telephoneNo": "00",
     "access": "長浜駅から(西出口)徒歩約10分(無料定時送迎有）米原駅から車約20分　長浜ＩＣから車約15分　米原ＩＣから車約20分",
     "parkingInformation": "屋外150台有料：普通車1泊500円（大型要問合せ）",
     "nearestStation": "長浜",
@@ -203,7 +203,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「琵琶湖グランドホテル・京近江」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「琵琶湖グランドホテル・京近江」へは、ＪＲ湖西線おごと温泉駅下車、車5分(送迎有) 名神高速道路、京都東ＩＣより湖西道路経由仰木雄琴より5分無料駐車場有り。最寄りの雄琴駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「琵琶湖グランドホテル・京近江」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「琵琶湖グランドホテル・京近江」は『お1人様～カップル・ファミリー・グループ様大歓迎。大切な方と琵琶湖ステイ。京都や延暦寺へア』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「琵琶湖グランドホテル・京近江」と「琵琶湖ホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「琵琶湖グランドホテル・京近江」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「琵琶湖グランドホテル・京近江」へは、ＪＲ湖西線おごと温泉駅下車、車5分(送迎有) 名神高速道路、京都東ＩＣより湖西道路経由仰木雄琴より5分無料駐車場有り。最寄りの雄琴駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「琵琶湖グランドホテル・京近江」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「琵琶湖グランドホテル・京近江」は『お1人様～カップル・ファミリー・グループ様大歓迎。大切な方と琵琶湖ステイ。京都や延暦寺へア。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「琵琶湖グランドホテル・京近江」と「琵琶湖ホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
           <h2 className="text-xl sm:text-2xl font-bold text-slate-900 flex items-center gap-2">
@@ -620,7 +620,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「琵琶湖グランドホテル・京近江」は『お1人様～カップル・ファミリー・グループ様大歓迎。大切な方と琵琶湖ステイ。京都や延暦寺へア』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「琵琶湖グランドホテル・京近江」は『お1人様～カップル・ファミリー・グループ様大歓迎。大切な方と琵琶湖ステイ。京都や延暦寺へア。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

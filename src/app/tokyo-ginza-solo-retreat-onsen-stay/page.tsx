@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tokyo-ginza-solo-retreat-onsen-stay/" },
   title: '【銀座ひとり旅・大浴場おこもり】歌舞伎座・洗練モダン大浴殿・極上江戸前グルメ！大人の憧れ街で心満たされる厳選3宿',
-  description: '東銀座駅・銀座駅から徒歩数分！歌舞伎座木挽町広場すぐで和モダン大浴場を備える「三井ガーデンホテル銀座五丁目」、スタイリッシュな銀座の隠れ家スパ「ザ・スクエアホテル銀座」、銀座中央通りも至近で抜群の洗練空間を誇る「ダイワロイネットホテル銀座 PREMIER」を徹底比較。',
+  description: '東銀座駅・銀座駅から徒歩数分！歌舞伎座木挽町広場すぐで和モダン大浴場を備える「三井ガーデンホテル銀座五丁目」、スタイリッシュな銀座の隠れ家スパ「ザ・スクエアホテル銀座」、銀座中央通りも至近で抜群の洗練空間を誇る「ダイワロイネットホテル銀座 PREMIER。」を徹底比較。',
   keywords: '銀座 一人旅 ホテル,銀座 ホテル 大浴場,三井ガーデンホテル銀座五丁目,ザスクエアホテル銀座,ダイワロイネットホテル銀座PREMIER,銀座 おこもり 宿',
   openGraph: {
     title: '【銀座ひとり旅・大浴場おこもり】歌舞伎座・洗練モダン大浴殿・極上江戸前グルメ！大人の憧れ街で心満たされる厳選3宿',
-    description: '東銀座駅・銀座駅から徒歩数分！歌舞伎座木挽町広場すぐで和モダン大浴場を備える「三井ガーデンホテル銀座五丁目」、スタイリッシュな銀座の隠れ家スパ「ザ・スクエアホテル銀座」、銀座中央通りも至近で抜群の洗練空間を誇る「ダイワロイネットホテル銀座 PREMIER」を徹底比較。',
+    description: '東銀座駅・銀座駅から徒歩数分！歌舞伎座木挽町広場すぐで和モダン大浴場を備える「三井ガーデンホテル銀座五丁目」、スタイリッシュな銀座の隠れ家スパ「ザ・スクエアホテル銀座」、銀座中央通りも至近で抜群の洗練空間を誇る「ダイワロイネットホテル銀座 PREMIER。」を徹底比較。',
     url: 'https://croud-travel.pages.dev/tokyo-ginza-solo-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【銀座ひとり旅・大浴場おこもり】歌舞伎座・洗練モダン大浴殿・極上江戸前グルメ！大人の憧れ街で心満たされる厳選3宿',
-    description: '東銀座駅・銀座駅から徒歩数分！歌舞伎座木挽町広場すぐで和モダン大浴場を備える「三井ガーデンホテル銀座五丁目」、スタイリッシュな銀座の隠れ家スパ「ザ・スクエアホテル銀座」、銀座中央通りも至近で抜群の洗練空間を誇る「ダイワロイネットホテル銀座 PREMIER」を徹底比較。',
+    description: '東銀座駅・銀座駅から徒歩数分！歌舞伎座木挽町広場すぐで和モダン大浴場を備える「三井ガーデンホテル銀座五丁目」、スタイリッシュな銀座の隠れ家スパ「ザ・スクエアホテル銀座」、銀座中央通りも至近で抜群の洗練空間を誇る「ダイワロイネットホテル銀座 PREMIER。」を徹底比較。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・出張調査班',
@@ -37,8 +37,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-13T00:00:00+09:00',
-    dateModified: '2026-09-13T00:00:00+09:00',
+    datePublished: 'T00:00:00+09:00',
+    dateModified: 'T00:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/tokyo-ginza-solo-retreat-onsen-stay',
   };
 
@@ -47,7 +47,7 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「歌舞伎座・洗練モダン大浴殿・極上江戸前グルメ！大人の憧れ街で心満たされる厳選3宿」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「歌舞伎座・洗練モダン大浴殿・極上江戸前グルメ！大人の憧れ街で心満たされる厳選3宿。」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -76,7 +76,7 @@ export default function ArticlePage() {
           【銀座ひとり旅・大浴場おこもり】歌舞伎座・洗練モダン大浴殿・極上江戸前グルメ！大人の憧れ街で心満たされる厳選3宿
         </h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
-          <time dateTime="2026-09-13">2026.09.13 更新</time>
+          <time dateTime="">2026.09.13 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
         </div>
@@ -277,7 +277,7 @@ export default function ArticlePage() {
                 <span>🌟</span> ひとり滞在・出張で選ばれる理由
               </h3>
               <ul className="text-xs sm:text-sm text-stone-700 space-y-1.5">
-                    <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>2026年４月１日全館リニューアル！ もっと快適に、 上質な時間へ</span></li>
+                    <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>全館リニューアル！ もっと快適に、 上質な時間へ</span></li>
               </ul>
             </div>
 
@@ -395,7 +395,7 @@ export default function ArticlePage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「歌舞伎座・洗練モダン大浴殿・極上江戸前グルメ！大人の憧れ街で心満たされる厳選3宿」を効率よく巡るコツは？</span>
+                <span>Q. 「歌舞伎座・洗練モダン大浴殿・極上江戸前グルメ！大人の憧れ街で心満たされる厳選3宿。」を効率よく巡るコツは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">

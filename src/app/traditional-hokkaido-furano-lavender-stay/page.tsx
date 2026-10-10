@@ -34,11 +34,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16240/16240map.gif",
     "reviewCount": 455,
     "reviewAverage": 4.06,
-    "userReview": "食事もイベントも充実、大満足の思い出!夕食も朝食も種類が多くて、どれも美味しかったです夕食のお肉、柔らかくて最高でしたー!マシュマロを焼くことが出来たり、夜にブランコに乗ったり、普通のホテルで…　2026-09-17 12:56:44投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=16240\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "食事もイベントも充実、大満足の思い出!夕食も朝食も種類が多くて、どれも美味しかったです夕食のお肉、柔らかくて最高でしたー!マシュマロを焼くことが出来たり、夜にブランコに乗ったり、普通のホテルで。",
     "hotelMinCharge": 6000,
     "address1": "北海道",
     "address2": "富良野市北の峰町9-20",
-    "telephoneNo": "0167-22-1161",
+    "telephoneNo": "61",
     "access": "札幌ICから道央自動車道、三笠ICまで約30分、道道116号岩見沢三笠線/国道38号線、北の峰経由で約1時間30分",
     "parkingInformation": "有り　５０台　無料　先着順",
     "nearestStation": "富良野",
@@ -59,11 +59,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/75270/75270map.gif",
     "reviewCount": 1454,
     "reviewAverage": 4.14,
-    "userReview": "作りたてのハンバーガーが絶品、カツゲンも嬉しい作りたてのハンバーガーがおいしかった。カツゲンがあるのはうれしい。クチコミの詳細はこちらから　https://review.travel.…　2026-09-20 00:30:14投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=75270\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "作りたてのハンバーガーが絶品、カツゲンも嬉しい作りたてのハンバーガーがおいしかった。カツゲンがあるのはうれしい。",
     "hotelMinCharge": 7150,
     "address1": "北海道",
     "address2": "富良野市北の峰町14-46",
-    "telephoneNo": "0167-22-1211",
+    "telephoneNo": "11",
     "access": "車札幌から約3時間、旭川・旭山動物園から約1時間/旭川空港 富良野バス（旭川-富良野駅）で1時間",
     "parkingInformation": "有り（もちろんハイルーフ車もOK）　無料　予約不要",
     "nearestStation": "富良野",
@@ -84,11 +84,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30804/30804map.gif",
     "reviewCount": 1604,
     "reviewAverage": 4.36,
-    "userReview": "最高でしたお部屋は高層階で大自然の山々や街並みが広々と見れて絶景でした!!朝食のみいただきました。少しメニューが少なめに感じましたが...美味しかったです。お風呂も良かったですキレイでした。あ…　2026-09-19 16:33:04投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=30804\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "最高でしたお部屋は高層階で大自然の山々や街並みが広々と見れて絶景でした!朝食のみいただきました。少しメニューが少なめに感じましたが...美味しかったです。お風呂も良かったですキレイでした。あ。",
     "hotelMinCharge": 5834,
     "address1": "北海道",
     "address2": "富良野市中御料",
-    "telephoneNo": "0167-22-1111",
+    "telephoneNo": "11",
     "access": "ＪＲ富良野駅タクシー10分／道央自動車道 三笠ＩＣより車で約60分／旭川空港・新千歳空港から路線バスあり（終点当ホテル）",
     "parkingInformation": "有　390台　無料　先着順",
     "nearestStation": "富良野",
@@ -113,7 +113,7 @@ const hotels: any[] = [
     "hotelMinCharge": 32120,
     "address1": "北海道",
     "address2": "空知郡中富良野町西2線北17号",
-    "telephoneNo": "0167-44-3000",
+    "telephoneNo": "00",
     "access": "■新千歳空港からお車で約2時間30分　■札幌からお車で約2時間　■旭川空港からお車で約45分",
     "parkingInformation": "有（無料）　162台まで収容可能（事前予約不要）",
     "nearestStation": "中富良野",
@@ -134,11 +134,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/69358/69358map.gif",
     "reviewCount": 175,
     "reviewAverage": 3.65,
-    "userReview": "ロケーションは最高だが食事メニューが残念以前よく泊まっていたので、久しぶりに利用しました。駅からのバスも廃止になっていて車でなくては来られませんが、ラベンダー畑の遠方に十勝岳連峰を望めるロケー…　2026-08-28 08:21:37投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=69358\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "駅からのバスも廃止になっていて車でなくては来られませんが、ラベンダー畑の遠方に十勝岳連峰を望めるロケー。",
     "hotelMinCharge": 6600,
     "address1": "北海道",
     "address2": "富良野市島ノ下",
-    "telephoneNo": "0167-22-5700",
+    "telephoneNo": "00",
     "access": "JR富良野駅下車、タクシーで１５分",
     "parkingInformation": "有り　２５０台　無料　予約不要",
     "nearestStation": "富良野",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「富良野リゾートホテル エーデルヴェルメ」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「富良野リゾートホテル エーデルヴェルメ」へは、札幌ICから道央自動車道、三笠ICまで約30分、道道116号岩見沢三笠線/国道38号線、北の峰経由で約1時間30分。最寄りの富良野駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「富良野リゾートホテル エーデルヴェルメ」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「富良野リゾートホテル エーデルヴェルメ」は『大雪山・十勝岳連峰と富良野の雄大な景色を堪能できる北欧風リゾートホテルでコンセプトルームを』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「富良野リゾートホテル エーデルヴェルメ」と「ホテル ナトゥールヴァルト富良野」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「富良野リゾートホテル エーデルヴェルメ」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「富良野リゾートホテル エーデルヴェルメ」へは、札幌ICから道央自動車道、三笠ICまで約30分、道道116号岩見沢三笠線/国道38号線、北の峰経由で約1時間30分。最寄りの富良野駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「富良野リゾートホテル エーデルヴェルメ」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「富良野リゾートホテル エーデルヴェルメ」は『大雪山・十勝岳連峰と富良野の雄大な景色を堪能できる北欧風リゾートホテルでコンセプトルームを。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「富良野リゾートホテル エーデルヴェルメ」と「ホテル ナトゥールヴァルト富良野」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -628,7 +628,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「富良野リゾートホテル エーデルヴェルメ」は『大雪山・十勝岳連峰と富良野の雄大な景色を堪能できる北欧風リゾートホテルでコンセプトルームを』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「富良野リゾートホテル エーデルヴェルメ」は『大雪山・十勝岳連峰と富良野の雄大な景色を堪能できる北欧風リゾートホテルでコンセプトルームを。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

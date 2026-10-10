@@ -39,8 +39,8 @@ export default function FurusatoArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-10T17:15:00+09:00',
-    dateModified: '2026-09-10T17:15:00+09:00',
+    datePublished: 'T17:15:00+09:00',
+    dateModified: 'T17:15:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-nasu-onsen-shikanoyu-resort-stay',
   };
 
@@ -49,7 +49,7 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「那須温泉山楽」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「那須温泉山楽」へは、那須塩原駅より車で約３５分／東北自動車道 那須ＩＣより約１５分/無料送迎バスあり。最寄りの那須塩原駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「那須温泉山楽」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「那須温泉山楽」は『五感で四季を感じられる会席料理と大露天風呂。日本情緒あふれる純和風のご滞在をご満喫いただけ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「那須温泉山楽」と「那須温泉 ホテルエピナール那須」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「那須温泉山楽」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「那須温泉山楽」へは、那須塩原駅より車で約３５分／東北自動車道 那須ＩＣより約１５分/無料送迎バスあり。最寄りの那須塩原駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「那須温泉山楽」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「那須温泉山楽」は『五感で四季を感じられる会席料理と大露天風呂。日本情緒あふれる純和風のご滞在をご満喫いただけ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「那須温泉山楽」と「那須温泉 ホテルエピナール那須」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -203,7 +203,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.67点、口コミ1300件超。「大露天風呂の開放感とお湯の良さが素晴らしく、お料理も芸術品のように美味しい」「接客が洗練されていて感動」と絶賛。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.67点、口コミ1300件超。「大露天風呂の開放感とお湯の良さが素晴らしく、お料理も芸術品のように美味しい。」「接客が洗練されていて感動」と絶賛。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -287,7 +287,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.56点、口コミ9200件超という圧倒的実績。「お風呂もプールもバイキングも大満足」「スタッフの子供への気配りが素晴らしく三世代旅行に最高」と大好評。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.56点、口コミ9200件超という圧倒的実績。「お風呂もプールもバイキングも大満足」「スタッフの子供への気配りが素晴らしく三世代旅行に最高。」と大好評。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.24点、口コミ5400件超。「お風呂の種類が多くて硫黄泉が本格的」「バイキングが美味しく子供もプールで大はしゃぎだった」とファミリーに大人気。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.24点、口コミ5400件超。「お風呂の種類が多くて硫黄泉が本格的」「バイキングが美味しく子供もプールで大はしゃぎだった。」とファミリーに大人気。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -578,7 +578,7 @@ export default function FurusatoArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「那須温泉山楽」は『五感で四季を感じられる会席料理と大露天風呂。日本情緒あふれる純和風のご滞在をご満喫いただけ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「那須温泉山楽」は『五感で四季を感じられる会席料理と大露天風呂。日本情緒あふれる純和風のご滞在をご満喫いただけ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

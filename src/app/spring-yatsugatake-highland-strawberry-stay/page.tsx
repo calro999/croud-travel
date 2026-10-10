@@ -38,7 +38,7 @@ const hotels: any[] = [
     "hotelMinCharge": 4400,
     "address1": "山梨県",
     "address2": "北杜市高根町清里３５４５－９４３　コートドゥヴェール内",
-    "telephoneNo": "0551-48-3405",
+    "telephoneNo": "05",
     "access": "JR小海線・清里駅から車で5分／中央道・長坂ICから25分",
     "parkingInformation": "有り　５０台　無料　先着順",
     "nearestStation": "清里",
@@ -59,11 +59,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/37944/37944map.gif",
     "reviewCount": 356,
     "reviewAverage": 4.3,
-    "userReview": "食事はボリューム満点新館宿泊で食事は洋食でした。美味しかったのですが、量が多すぎるという嬉しい誤算。スタッフのミスでトラブルもありましたが、リカバリしていただき、総合評価は良い方に落ち着きました。…　2026-09-14 19:22:35投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=37944\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "食事はボリューム満点新館宿泊で食事は洋食でした。美味しかったのですが、量が多すぎるという嬉しい誤算。スタッフのミスでトラブルもありましたが、リカバリしていただき、総合評価は良い方に落ち着きました。",
     "hotelMinCharge": 7800,
     "address1": "長野県",
     "address2": "諏訪郡原村原山17217-1729",
-    "telephoneNo": "0266-74-2311",
+    "telephoneNo": "11",
     "access": "中央道諏訪南ＩＣより車で15分 ＪＲ茅野駅より車30分/JRすずらんの里駅より10分＜団体ご予約は送迎可能＞",
     "parkingInformation": "有り　１００台　無料　先着順",
     "nearestStation": "茅野",
@@ -84,11 +84,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/53178/53178map.gif",
     "reviewCount": 1867,
     "reviewAverage": 4.53,
-    "userReview": "お部屋も最高、大満足のオールインクルーシブお部屋がとても良かったです。大満足のオールインクルーシブでした。クチコミの詳細はこちらから　https://review.travel.rakuten…　2026-09-18 17:40:11投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=53178\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "お部屋も最高、大満足のオールインクルーシブお部屋がとても良かったです。大満足のオールインクルーシブでした。",
     "hotelMinCharge": 11900,
     "address1": "山梨県",
     "address2": "北杜市小淵沢町上の原3989-1",
-    "telephoneNo": "0551-36-6414",
+    "telephoneNo": "14",
     "access": "ＪＲ中央本線　小淵沢駅より車で7分／中央自動車道　小淵沢ＩＣより車で4分",
     "parkingInformation": "有り　35台　無料　予約不要　満車の場合は第２駐車場をご利用下さい。",
     "nearestStation": "小淵沢",
@@ -109,11 +109,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16099/16099map.gif",
     "reviewCount": 787,
     "reviewAverage": 3.31,
-    "userReview": "囲炉裏の炭火焼きと温泉は最高だが設備は古め夕食、朝食の際に、囲炉裏で炭火で食材を焼くのは、独特で楽しい。また、温泉も眺めがよく、気持ち良い。ただ、設備の老朽化が進んでいるのが残念。クチコミの詳…　2026-09-17 01:45:51投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=16099\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "囲炉裏の炭火焼きと温泉は最高だが設備は古め夕食、朝食の際に、囲炉裏で炭火で食材を焼くのは、独特で楽しい。また、温泉も眺めがよく、気持ち良い。クチコミの詳。",
     "hotelMinCharge": 4950,
     "address1": "長野県",
     "address2": "茅野市北山5522",
-    "telephoneNo": "0266-67-2600",
+    "telephoneNo": "00",
     "access": "ＪＲ茅野駅下車タクシー２０分バス３０分／中央道諏訪ＩＣより約３０分",
     "parkingInformation": "■有り200台無料　■全館Wi-Fi対応　■禁煙・喫煙ルームあり",
     "nearestStation": "茅野",
@@ -134,7 +134,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/72037/72037map.gif",
     "reviewCount": 899,
     "reviewAverage": 3.72,
-    "userReview": "毎年恒例の夏休み、食事も飲み放題も大満足毎年お世話になっています。今回も子供達のリクエストで、夏休みに伺いました。朝食も夕食もお料理がなくなるとすぐに追加してくれます。飲み放題つきなのもありがたい…　2026-09-17 15:35:23投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=72037\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "毎年恒例の夏休み、食事も飲み放題も大満足毎年お世話になっています。今回も子供達のリクエストで、夏休みに伺いました。朝食も夕食もお料理がなくなるとすぐに追加してくれます。飲み放題つきなのもありがたい。",
     "hotelMinCharge": 6248,
     "address1": "長野県",
     "address2": "北佐久郡立科町芦田八ヶ野白樺湖1525",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里」へは、JR小海線・清里駅から車で5分／中央道・長坂ICから25分。最寄りの清里駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里」は『自家農園野菜を使ったレストランが人気！牧場、工房、農園など体験も充実のホテル』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里」と「八ヶ岳温泉 樅の木荘」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里。」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里。」へは、JR小海線・清里駅から車で5分／中央道・長坂ICから25分。最寄りの清里駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里。」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里。」は『自家農園野菜を使ったレストランが人気！牧場、工房、農園など体験も充実のホテル。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里。」と「八ヶ岳温泉 樅の木荘」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -585,9 +585,9 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 清里駅よりアクセス。JR小海線・清里駅から車で5分／中央道・長坂ICから25分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里」にチェックイン。自家農園野菜を使ったレストランが人気！牧場、工房、農園など体験も充実のホテルなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里」の湯処へ。自家農園野菜を使ったレストランが人気！牧場、工房、農園など体験も充実のとともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里。」にチェックイン。自家農園野菜を使ったレストランが人気！牧場、工房、農園など体験も充実のホテルなどの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里。」の湯処へ。自家農園野菜を使ったレストランが人気！牧場、工房、農園など体験も充実のとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -596,8 +596,8 @@ export default function FeatureDetailPage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「八ヶ岳温泉 樅の木荘」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
@@ -615,20 +615,20 @@ export default function FeatureDetailPage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里」へのアクセスや移動方法について</span>
+                <span>Q. 「八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里」へは、JR小海線・清里駅から車で5分／中央道・長坂ICから25分。最寄りの清里駅からの経路案内も充実しています。
+                A. 「八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里。」へは、JR小海線・清里駅から車で5分／中央道・長坂ICから25分。最寄りの清里駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里」の魅力や予約時のポイントは？</span>
+                <span>Q. 「八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里」は『自家農園野菜を使ったレストランが人気！牧場、工房、農園など体験も充実のホテル』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里。」は『自家農園野菜を使ったレストランが人気！牧場、工房、農園など体験も充実のホテル。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -637,7 +637,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里」と「八ヶ岳温泉 樅の木荘」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里。」と「八ヶ岳温泉 樅の木荘」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

@@ -74,7 +74,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「岩手の名湯 侍の湯 おぼない」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「岩手の名湯 侍の湯 おぼない」へは、金田一温泉駅よりバスで約７分。最寄りの金田一温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「岩手の名湯 侍の湯 おぼない」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「岩手の名湯 侍の湯 おぼない」は『八戸港から直仕入れる魚介類。築８０年の昭和レトロと380年の湯宿』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「岩手の名湯 侍の湯 おぼない」と「鉛温泉「藤三旅館・別邸」心の刻 十三月」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「岩手の名湯 侍の湯 おぼない」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「岩手の名湯 侍の湯 おぼない」へは、金田一温泉駅よりバスで約７分。最寄りの金田一温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「岩手の名湯 侍の湯 おぼない」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「岩手の名湯 侍の湯 おぼない」は『八戸港から直仕入れる魚介類。築８０年の昭和レトロと380年の湯宿。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「岩手の名湯 侍の湯 おぼない」と「鉛温泉「藤三旅館・別邸」心の刻 十三月」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* Intro Card */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200/80">
@@ -878,7 +878,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「岩手の名湯 侍の湯 おぼない」は『八戸港から直仕入れる魚介類。築８０年の昭和レトロと380年の湯宿』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「岩手の名湯 侍の湯 おぼない」は『八戸港から直仕入れる魚介類。築８０年の昭和レトロと380年の湯宿。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

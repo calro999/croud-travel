@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【12月雪化粧の世界遺産！白川郷合掌造り＆飛騨高山】白銀の原風景と飛騨牛・下呂名湯宿5選",
     "description": "12月から一面の雪景色に包まれる世界遺産・白川郷の合掌造り集落！茅葺き屋根に積もる白雪と温かい灯りが織りなす日本の原風景を散策し、飛騨高山の古い町並みや日本三名泉・下呂温泉のトロトロ美肌湯で寛ぐ冬旅。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-    "datePublished": "2026-09-27T00:00:00+09:00",
-    "dateModified": "2026-09-27T00:00:00+09:00",
+    "datePublished": "T00:00:00+09:00",
+    "dateModified": "T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",
@@ -153,7 +153,7 @@ export default function FeaturePage() {
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「飛騨高山 旅館 一の松」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「飛騨高山 旅館 一の松」へは、高山駅西口より徒歩にて約6分。最寄りの高山駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「飛騨高山 旅館 一の松」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「飛騨高山 旅館 一の松」は『ジャパニーズモダンな館内、客室は和を基調としたモダンなつくりで、ゆっくりとお寛ぎいただけま』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「飛騨高山 旅館 一の松」と「奥飛騨 平湯温泉 岡田旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「飛騨高山 旅館 一の松」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「飛騨高山 旅館 一の松」へは、高山駅西口より徒歩にて約6分。最寄りの高山駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「飛騨高山 旅館 一の松」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「飛騨高山 旅館 一の松」は『ジャパニーズモダンな館内、客室は和を基調としたモダンなつくりで、ゆっくりとお寛ぎいただけま。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「飛騨高山 旅館 一の松」と「奥飛騨 平湯温泉 岡田旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -338,7 +338,7 @@ export default function FeaturePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「飛騨高山 旅館 一の松」は『ジャパニーズモダンな館内、客室は和を基調としたモダンなつくりで、ゆっくりとお寛ぎいただけま』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「飛騨高山 旅館 一の松」は『ジャパニーズモダンな館内、客室は和を基調としたモダンなつくりで、ゆっくりとお寛ぎいただけま。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

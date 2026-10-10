@@ -74,7 +74,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「有馬温泉 旅湯 アブリーゴ」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「有馬温泉 旅湯 アブリーゴ」へは、有馬温泉駅より徒歩にて５分。最寄りの有馬温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「有馬温泉 旅湯 アブリーゴ」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「有馬温泉 旅湯 アブリーゴ」は『ポルトガル語で「隠れ家」という意味を持つ当館は一棟貸切なので、有馬温泉に別荘を持った気分♪』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「有馬温泉 旅湯 アブリーゴ」と「六甲山麓有馬温泉 山と自然と温泉を愛する人の宿ホテルモルゲンロート」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「有馬温泉 旅湯 アブリーゴ」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「有馬温泉 旅湯 アブリーゴ」へは、有馬温泉駅より徒歩にて５分。最寄りの有馬温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「有馬温泉 旅湯 アブリーゴ」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「有馬温泉 旅湯 アブリーゴ」は『ポルトガル語で「隠れ家」という意味を持つ当館は一棟貸切なので、有馬温泉に別荘を持った気分♪』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「有馬温泉 旅湯 アブリーゴ」と「六甲山麓有馬温泉 山と自然と温泉を愛する人の宿ホテルモルゲンロート。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* Intro Card */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200/80">
@@ -848,7 +848,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「有馬温泉 旅湯 アブリーゴ」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「有馬温泉 旅湯 アブリーゴ」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「六甲山麓有馬温泉 山と自然と温泉を愛する人の宿ホテルモルゲンロート」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「六甲山麓有馬温泉 山と自然と温泉を愛する人の宿ホテルモルゲンロート。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -887,7 +887,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「有馬温泉 旅湯 アブリーゴ」と「六甲山麓有馬温泉 山と自然と温泉を愛する人の宿ホテルモルゲンロート」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「有馬温泉 旅湯 アブリーゴ」と「六甲山麓有馬温泉 山と自然と温泉を愛する人の宿ホテルモルゲンロート。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

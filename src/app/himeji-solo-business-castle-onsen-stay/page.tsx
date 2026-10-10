@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-12T15:30:00+09:00',
-    dateModified: '2026-09-12T15:30:00+09:00',
+    datePublished: 'T15:30:00+09:00',
+    dateModified: 'T15:30:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/himeji-solo-business-castle-onsen-stay',
   };
 
@@ -161,7 +161,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.46点。「駅直結でサウナ付きの大浴場があり最高でした」「お部屋から姫路城が見えて綺麗で、出張の定宿にしています」とビジネス客から大絶賛。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.46点。「駅直結でサウナ付きの大浴場があり最高でした。」「お部屋から姫路城が見えて綺麗で、出張の定宿にしています。」とビジネス客から大絶賛。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -236,7 +236,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.41点。「駅近で天然温泉とサウナに入れて疲れが取れました」「朝食のアーモンドトーストが美味しく夜鳴きそばも安定の味でした」と高評価。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.41点。「駅近で天然温泉とサウナに入れて疲れが取れました。」「朝食のアーモンドトーストが美味しく夜鳴きそばも安定の味でした。」と高評価。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -311,7 +311,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.32点。「駅の目の前でアクセス抜群、スタッフの対応も一流でした」「お部屋が広くて清潔で、とても快適に過ごせました」と定評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.32点。「駅の目の前でアクセス抜群、スタッフの対応も一流でした。」「お部屋が広くて清潔で、とても快適に過ごせました。」と定評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">

@@ -37,8 +37,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-17T00:00:00+09:00',
-    dateModified: '2026-09-17T00:00:00+09:00',
+    datePublished: 'T00:00:00+09:00',
+    dateModified: 'T00:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/niigata-tsukioka-solo-retreat-emerald-onsen-stay',
   };
 
@@ -79,7 +79,7 @@ export default function ArticlePage() {
             【新潟・月岡温泉ひとり旅・エメラルドグリーンの美肌湯おこもり】硫黄含有量全国屈指・自家源泉庭園露天・越後贅沢会席！名湯美肌ステイ厳選3宿
           </h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
-            更新日：2026年9月17日 | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
+            更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -291,7 +291,7 @@ export default function ArticlePage() {
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">温泉街の中心にある無料の足湯広場。夜になると色とりどりの和傘が照らし出され、一人静かに夕涼みを楽しめます。</p>
             </div>
             <div className="space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">「プレミアムポルポ（新潟地酒・干物・煎餅の試食散策）」</h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">「プレミアムポルポ（新潟地酒・干物・煎餅の試食散策）。」</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">月岡温泉街には新潟の地酒を試飲できる「蔵」や、自分で煎餅を手焼きできる「田」などユニークな専門店が並びます。</p>
             </div>
             <div className="space-y-2">

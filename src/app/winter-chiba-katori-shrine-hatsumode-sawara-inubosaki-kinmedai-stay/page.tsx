@@ -47,8 +47,8 @@ export default function Page() {
       "headline": "【下総国一宮・香取神宮新春初詣と小江戸佐原の雪情話】2026-2027年冬の千葉・香取＆犬吠埼！本州最速初日の出と極上寒金目鯛名宿5選",
       "description": "全国約400社ある香取神社の総本社・下総国一之宮「香取神宮」新春初詣！江戸情緒残る水郷・佐原の重伝建の町並みと本州で最も早い初日の出を望む犬吠埼温泉。冬に脂が乗る銚子の至宝「寒つり金目鯛」や極上和牛に心奪われる北総・東総の厳選名宿5選。",
       "image": "https://img.travel.rakuten.co.jp/share/HOTEL/166043/166043.jpg",
-      "datePublished": "2026-10-09",
-      "dateModified": "2026-10-09",
+      "datePublished": "",
+      "dateModified": "",
       "author": {
         "@type": "Organization",
         "name": "Japan Travel Curations"
@@ -463,7 +463,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「出張の定番、温泉と朝食が最高で駐車場も広い毎回出張で利用していますが、非常に綺麗ですし、温泉も広くて温度もちょうどよく、朝食も美味しいのでいうことなしです。第二駐車場があるので、車もたくさん止めら…　2026-10-02 20:47:16投稿 <a href=”https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=176708” class=”3click”>つづきはこちら</a>」"}</span>
+                  <span>{"「出張の定番、温泉と朝食が最高で駐車場も広い毎回出張で利用していますが、非常に綺麗ですし、温泉も広くて温度もちょうどよく、朝食も美味しいのでいうことなしです。第二駐車場があるので、車もたくさん止めら。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -530,7 +530,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「価格を考えれば十分満足できる内容価格から考えても全く不満はありません。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice…　2026-09-30 23:24:17投稿 <a href=”https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=40498” class=”3click”>つづきはこちら</a>」"}</span>
+                  <span>{"「落ち着いた心地よい空間の中、温かい温泉とおいしいお料理で日頃の疲れを癒やすことができました。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -597,7 +597,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「水道の水圧が弱く、手洗いに不便を感じた部屋の水道 水圧弱いのか、チョロチョロとしか出ず手洗いなど、充分にできず残念でした。クチコミの詳細はこちらから　https://review.trav…　2026-10-01 19:56:13投稿 <a href=”https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=4691” class=”3click”>つづきはこちら</a>」"}</span>
+                  <span>{"「落ち着いた心地よい空間の中、温かい温泉とおいしいお料理で日頃の疲れを癒やすことができました。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -664,7 +664,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「大浴場への道のりと食事内容にがっかり大浴場は本館から遠く、人気が無く、1人では不気味でとても行けないような場所にあり、しかも脱衣所はまるでスポーツジムのようなロッカーで、広さと数があるわりに照明が…　2026-09-23 18:08:51投稿 <a href=”https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=147705” class=”3click”>つづきはこちら</a>」"}</span>
+                  <span>{"「落ち着いた心地よい空間の中、温かい温泉とおいしいお料理で日頃の疲れを癒やすことができました。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">

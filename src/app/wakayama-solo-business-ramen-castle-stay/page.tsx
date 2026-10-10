@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-12T15:45:00+09:00',
-    dateModified: '2026-09-12T15:45:00+09:00',
+    datePublished: 'T15:45:00+09:00',
+    dateModified: 'T15:45:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/wakayama-solo-business-ramen-castle-stay',
   };
 
@@ -48,7 +48,7 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"和歌山駅周辺で天然温泉大浴場があるおすすめホテルは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 紀州の湯 ドーミーインPREMIUM和歌山」はJR和歌山駅中央口から徒歩約5分。本格的な天然温泉大浴場と高温サウナを完備しています。"}},{"@type":"Question","name":"客室から和歌山城の景色が見えるホテルはどこですか？","acceptedAnswer":{"@type":"Answer","text":"「ダイワロイネットホテル和歌山」のキャッスルビュー客室からは、和歌山城天守閣と広大な公園の四季折々の絶景を一望できます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"和歌山駅周辺で天然温泉大浴場があるおすすめホテルは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 紀州の湯 ドーミーインPREMIUM和歌山。」はJR和歌山駅中央口から徒歩約5分。本格的な天然温泉大浴場と高温サウナを完備しています。"}},{"@type":"Question","name":"客室から和歌山城の景色が見えるホテルはどこですか？","acceptedAnswer":{"@type":"Answer","text":"「ダイワロイネットホテル和歌山」のキャッスルビュー客室からは、和歌山城天守閣と広大な公園の四季折々の絶景を一望できます。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -77,7 +77,7 @@ export default function ArticlePage() {
           【和歌山出張・ひとり旅】天然温泉紀州の湯・和歌山城パノラマ・濃厚豚骨醤油中華そば！城下町でととのう快適出張宿 厳選3選
         </h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
-          <time dateTime="2026-09-12">2026.09.12 更新</time>
+          <time dateTime="">2026.09.12 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
         </div>
@@ -367,7 +367,7 @@ export default function ArticlePage() {
                 <span>和歌山駅周辺で天然温泉大浴場があるおすすめホテルは？</span>
               </h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
-                「天然温泉 紀州の湯 ドーミーインPREMIUM和歌山」はJR和歌山駅中央口から徒歩約5分。本格的な天然温泉大浴場と高温サウナを完備しています。
+                「天然温泉 紀州の湯 ドーミーインPREMIUM和歌山。」はJR和歌山駅中央口から徒歩約5分。本格的な天然温泉大浴場と高温サウナを完備しています。
               </p>
             </div>
             <div className="bg-white p-4 sm:p-5 rounded-xl border border-stone-200">

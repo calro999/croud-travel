@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【黄色い絨毯ひまわり畑】客室テラスから望む一面のひまわりと絶景露天風呂！夏秋のパノラマ宿5選",
     "description": "青空の下に広がる何十万本もの満開のひまわり畑！客室専用ウッドデッキや展望露天風呂から黄色い花の絨毯を一望できる、開放感と元気に満ちた全国屈指のフラワーカーペット温泉宿を厳選紹介。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-    "datePublished": "2026-03-27T00:00:00+09:00",
-    "dateModified": "2026-03-27T00:00:00+09:00",
+    "datePublished": "T00:00:00+09:00",
+    "dateModified": "T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",
@@ -153,7 +153,7 @@ export default function FeaturePage() {
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「富良野リゾートホテル エーデルヴェルメ」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「富良野リゾートホテル エーデルヴェルメ」へは、札幌ICから道央自動車道、三笠ICまで約30分、道道116号岩見沢三笠線/国道38号線、北の峰経由で約1時間30分。最寄りの富良野駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「富良野リゾートホテル エーデルヴェルメ」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「富良野リゾートホテル エーデルヴェルメ」は『大雪山・十勝岳連峰と富良野の雄大な景色を堪能できる北欧風リゾートホテルでコンセプトルームを』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「富良野リゾートホテル エーデルヴェルメ」と「芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館 満天の星空×サウナリゾート」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「富良野リゾートホテル エーデルヴェルメ」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「富良野リゾートホテル エーデルヴェルメ」へは、札幌ICから道央自動車道、三笠ICまで約30分、道道116号岩見沢三笠線/国道38号線、北の峰経由で約1時間30分。最寄りの富良野駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「富良野リゾートホテル エーデルヴェルメ」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「富良野リゾートホテル エーデルヴェルメ」は『大雪山・十勝岳連峰と富良野の雄大な景色を堪能できる北欧風リゾートホテルでコンセプトルームを。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「富良野リゾートホテル エーデルヴェルメ」と「芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館 満天の星空×サウナリゾート。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -350,7 +350,7 @@ export default function FeaturePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「富良野リゾートホテル エーデルヴェルメ」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「富良野リゾートホテル エーデルヴェルメ」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館 満天の星空×サウナリゾート」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館 満天の星空×サウナリゾート。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -380,7 +380,7 @@ export default function FeaturePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「富良野リゾートホテル エーデルヴェルメ」は『大雪山・十勝岳連峰と富良野の雄大な景色を堪能できる北欧風リゾートホテルでコンセプトルームを』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「富良野リゾートホテル エーデルヴェルメ」は『大雪山・十勝岳連峰と富良野の雄大な景色を堪能できる北欧風リゾートホテルでコンセプトルームを。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -389,7 +389,7 @@ export default function FeaturePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「富良野リゾートホテル エーデルヴェルメ」と「芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館 満天の星空×サウナリゾート」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「富良野リゾートホテル エーデルヴェルメ」と「芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館 満天の星空×サウナリゾート。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

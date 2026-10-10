@@ -39,8 +39,8 @@ export default function FurusatoArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-10T16:25:00+09:00',
-    dateModified: '2026-09-10T16:25:00+09:00',
+    datePublished: 'T16:25:00+09:00',
+    dateModified: 'T16:25:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-shirahone-onsen-milky-secret-stay',
   };
 
@@ -49,7 +49,7 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「白骨温泉 湯元齋藤旅館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「白骨温泉 湯元齋藤旅館」へは、お車で松本ICから60分、高山ICから70分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「白骨温泉 湯元齋藤旅館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「白骨温泉 湯元齋藤旅館」は『二百八十余年の間源泉を守り続ける湯守の宿。レトロモダンな造りの館内には寛ぎの空間が広がって』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「白骨温泉 湯元齋藤旅館」と「白骨温泉 小梨の湯 笹屋」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「白骨温泉 湯元齋藤旅館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「白骨温泉 湯元齋藤旅館」へは、お車で松本ICから60分、高山ICから70分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「白骨温泉 湯元齋藤旅館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「白骨温泉 湯元齋藤旅館」は『二百八十余年の間源泉を守り続ける湯守の宿。レトロモダンな造りの館内には寛ぎの空間が広がって。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「白骨温泉 湯元齋藤旅館」と「白骨温泉 小梨の湯 笹屋」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -203,7 +203,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.63点、口コミ800件超。「乳白色のお湯が本当に素晴らしく、何度も入浴した」「スタッフの接客が洗練されており、食事も部屋もすべてが最高峰」と絶賛されています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.63点、口コミ800件超。「乳白色のお湯が本当に素晴らしく、何度も入浴した。」「スタッフの接客が洗練されており、食事も部屋もすべてが最高峰。」と絶賛されています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -287,7 +287,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.75点の高得点。「貸切露天風呂の風情とお湯の良さが感動的」「囲炉裏料理がどれも絶品で、静かに温泉を堪能したい人には最高の宿」とリピーターが絶えません。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.75点の高得点。「貸切露天風呂の風情とお湯の良さが感動的」「囲炉裏料理がどれも絶品で、静かに温泉を堪能したい人には最高の宿。」とリピーターが絶えません。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.50点、口コミ500件超。「桂の木の下のお風呂の雰囲気が最高で、白濁したお湯も素晴らしい」「家庭的なおもてなしと美味しい郷土料理に癒やされた」と秘湯ファンから愛されています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.50点、口コミ500件超。「桂の木の下のお風呂の雰囲気が最高で、白濁したお湯も素晴らしい。」「家庭的なおもてなしと美味しい郷土料理に癒やされた。」と秘湯ファンから愛されています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -578,7 +578,7 @@ export default function FurusatoArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「白骨温泉 湯元齋藤旅館」は『二百八十余年の間源泉を守り続ける湯守の宿。レトロモダンな造りの館内には寛ぎの空間が広がって』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「白骨温泉 湯元齋藤旅館」は『二百八十余年の間源泉を守り続ける湯守の宿。レトロモダンな造りの館内には寛ぎの空間が広がって。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

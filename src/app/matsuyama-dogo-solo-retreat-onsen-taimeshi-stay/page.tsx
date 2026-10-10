@@ -7,11 +7,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/matsuyama-dogo-solo-retreat-onsen-taimeshi-stay/" },
   title: '【松山・道後温泉ひとり旅】日本最古の名湯・坊っちゃん湯・松山城・絶品鯛めし！文学と名湯に浸る大人のおこもり宿 厳選3選',
-  description: '日本三古湯の一つ・3000年の歴史を誇る愛媛県松山市「道後温泉」！「夏目漱石や皇室を迎えてきた創業390年の名旅館」の「ふなや」、能舞台を備え数寄屋造りの風格が漂う「大和屋本店」、大街道の真ん中で松山城を望む最上階スカイスパ「CANDEO HOTELS 松山大街道」を徹底特集。',
+  description: '日本三古湯の一つ・3000年の歴史を誇る愛媛県松山市「道後温泉」！「夏目漱石や皇室を迎えてきた創業390年の名旅館。」の「ふなや」、能舞台を備え数寄屋造りの風格が漂う「大和屋本店」、大街道の真ん中で松山城を望む最上階スカイスパ「CANDEO HOTELS 松山大街道」を徹底特集。',
   keywords: '道後温泉 一人旅 宿,松山 ホテル 一人旅 おすすめ,道後温泉 ふなや 宿泊,大和屋本店 一人,松山 鯛めし 温泉 ホテル',
   openGraph: {
     title: '【松山・道後温泉ひとり旅】日本最古の名湯・坊っちゃん湯・松山城・絶品鯛めし！文学と名湯に浸る大人のおこもり宿 厳選3選',
-    description: '日本三古湯の一つ・3000年の歴史を誇る愛媛県松山市「道後温泉」！「夏目漱石や皇室を迎えてきた創業390年の名旅館」の「ふなや」、能舞台を備え数寄屋造りの風格が漂う「大和屋本店」、大街道の真ん中で松山城を望む最上階スカイスパ「CANDEO HOTELS 松山大街道」を徹底特集。',
+    description: '日本三古湯の一つ・3000年の歴史を誇る愛媛県松山市「道後温泉」！「夏目漱石や皇室を迎えてきた創業390年の名旅館。」の「ふなや」、能舞台を備え数寄屋造りの風格が漂う「大和屋本店」、大街道の真ん中で松山城を望む最上階スカイスパ「CANDEO HOTELS 松山大街道」を徹底特集。',
     url: 'https://croud-travel.pages.dev/matsuyama-dogo-solo-retreat-onsen-taimeshi-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -24,7 +24,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【松山・道後温泉ひとり旅】日本最古の名湯・坊っちゃん湯・松山城・絶品鯛めし！文学と名湯に浸る大人のおこもり宿 厳選3選',
-    description: '日本三古湯の一つ・3000年の歴史を誇る愛媛県松山市「道後温泉」！「夏目漱石や皇室を迎えてきた創業390年の名旅館」の「ふなや」、能舞台を備え数寄屋造りの風格が漂う「大和屋本店」、大街道の真ん中で松山城を望む最上階スカイスパ「CANDEO HOTELS 松山大街道」を徹底特集。',
+    description: '日本三古湯の一つ・3000年の歴史を誇る愛媛県松山市「道後温泉」！「夏目漱石や皇室を迎えてきた創業390年の名旅館。」の「ふなや」、能舞台を備え数寄屋造りの風格が漂う「大和屋本店」、大街道の真ん中で松山城を望む最上階スカイスパ「CANDEO HOTELS 松山大街道」を徹底特集。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・出張調査班',
@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-11T12:30:00+09:00',
-    dateModified: '2026-09-11T12:30:00+09:00',
+    datePublished: 'T12:30:00+09:00',
+    dateModified: 'T12:30:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/matsuyama-dogo-solo-retreat-onsen-taimeshi-stay',
   };
 
@@ -78,7 +78,7 @@ export default function ArticlePage() {
           【松山・道後温泉ひとり旅】日本最古の名湯・坊っちゃん湯・松山城・絶品鯛めし！文学と名湯に浸る大人のおこもり宿 厳選3選
         </h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
-          日本三古湯の一つ・3000年の歴史を誇る愛媛県松山市「道後温泉」！「夏目漱石や皇室を迎えてきた創業390年の名旅館」の「ふなや」、能舞台を備え数寄屋造りの風格が漂う「大和屋本店」、大街道の真ん中で松山城を望む最上階スカイスパ「CANDEO HOTELS 松山大街道」を徹底特集。
+          日本三古湯の一つ・3000年の歴史を誇る愛媛県松山市「道後温泉」！「夏目漱石や皇室を迎えてきた創業390年の名旅館。」の「ふなや」、能舞台を備え数寄屋造りの風格が漂う「大和屋本店」、大街道の真ん中で松山城を望む最上階スカイスパ「CANDEO HOTELS 松山大街道」を徹底特集。
         </p>
       </header>
 
@@ -92,7 +92,7 @@ export default function ArticlePage() {
             羽田から松山空港まで約1時間25分、新大阪から新幹線と特急しおかぜで約3時間半。日本最古の歴史を誇る「道後温泉」と、現存天守がそびえる名城「松山城」を擁する四国随一の観光都市・松山。夏目漱石の小説『坊っちゃん』の舞台であり、俳人・正岡子規の故郷でもあるこの街には、至るところに文学の薫りと温かなもてなしの心が息づいています。
           </p>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
-            そんな松山滞在の醍醐味は、アルカリ性単純温泉のまろやかな美肌の湯に浸かり、愛媛名物の「宇和島鯛めし（生卵とタレで和える刺身風）」や「松山鯛めし（炊き込みご飯）」に舌鼓を打つ至福のひととき。伝統ある老舗旅館でのおこもり湯浴みや、繁華街大街道の展望スカイスパなど、大人がひとりで豊かに羽を伸ばせる松山の厳選3宿をご紹介します。
+            そんな松山滞在の醍醐味は、アルカリ性単純温泉のまろやかな美肌の湯に浸かり、愛媛名物の「宇和島鯛めし（生卵とタレで和える刺身風）。」や「松山鯛めし（炊き込みご飯）」に舌鼓を打つ至福のひととき。伝統ある老舗旅館でのおこもり湯浴みや、繁華街大街道の展望スカイスパなど、大人がひとりで豊かに羽を伸ばせる松山の厳選3宿をご紹介します。
           </p>
         </section>
 
@@ -161,7 +161,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.74点。「お庭の散歩が素晴らしく、温泉もお料理も一流でした」「一人旅でもとても丁寧にもてなしていただき、最高の滞在になりました」と絶賛。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.74点。「お庭の散歩が素晴らしく、温泉もお料理も一流でした。」「一人旅でもとても丁寧にもてなしていただき、最高の滞在になりました。」と絶賛。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -236,7 +236,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.62点。「道後温泉本館のすぐ隣で便利、館内の能舞台も圧巻でした」「温泉の泉質が良く、一人でも居心地の良い名旅館です」と高評価。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.62点。「道後温泉本館のすぐ隣で便利、館内の能舞台も圧巻でした。」「温泉の泉質が良く、一人でも居心地の良い名旅館です。」と高評価。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -311,7 +311,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.22点。「最上階のお風呂から見える松山城の夜景が最高でした」「大街道の目の前で飲食店が多く、ビジネス・一人旅に抜群の立地」と好評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.22点。「最上階のお風呂から見える松山城の夜景が最高でした。」「大街道の目の前で飲食店が多く、ビジネス・一人旅に抜群の立地。」と好評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">

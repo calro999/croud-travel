@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/organic-honey-bee-farm-sweet-spa-stay"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D1922%26f_flg%3DPLAN",
     "hotelMinCharge": 11511,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1922/1922.jpg",
-    "userReview": "海を望む絶景と蟹しゃぶに大満足!部屋からの眺めが最高でした、海きれい!夕食ビュッフェの蟹しゃぶ最高でした。クチコミの詳細はこちらから　https://review.travel.rakut…　2026-09-18 18:10:55投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=1922\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "海を望む絶景と蟹しゃぶに大満足!部屋からの眺めが最高でした、海きれい!夕食ビュッフェの蟹しゃぶ最高でした。",
     "reviewAverage": 4.04,
     "reviewCount": 1651,
     "address": "静岡県下田市柿崎633",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D187393%26f_flg%3DPLAN",
     "hotelMinCharge": 33880,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/187393/187393.jpg",
-    "userReview": "大人だけでゆっくり過ごしたい料理の美味しい宿母の誕生日のお祝いで、大人2人・子ども2人で宿泊しました。お料理がとても良く、母にも喜んでもらえて、誕生日のお祝いとして素敵な時間を過ごすことが…　2026-09-19 04:34:54投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=187393\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "大人だけでゆっくり過ごしたい料理の美味しい宿母の誕生日のお祝いで、大人2人・子ども2人で宿泊しました。お料理がとても良く、母にも喜んでもらえて、誕生日のお祝いとして素敵な時間を過ごすことが。",
     "reviewAverage": 4.6,
     "reviewCount": 104,
     "address": "佐賀県武雄市武雄町大字永島15750-1",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D1524%26f_flg%3DPLAN",
     "hotelMinCharge": 7040,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1524/1524.jpg",
-    "userReview": "温泉と食事、スタッフの対応に大満足温泉があり、食事も美味しく、スタッフ皆さんのホスピタリティも抜群でした。家族でゆっくり滞在できて大変良かったです。クチコミの詳細はこちらから　https://…　2026-09-19 21:23:24投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=1524\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "温泉と食事、スタッフの対応に大満足温泉があり、食事も美味しく、スタッフ皆さんのホスピタリティも抜群でした。家族でゆっくり滞在できて大変良かったです。",
     "reviewAverage": 4.47,
     "reviewCount": 4867,
     "address": "兵庫県神戸市東灘区向洋町中2-13",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D1371%26f_flg%3DPLAN",
     "hotelMinCharge": 4450,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1371/1371.jpg",
-    "userReview": "駅前でロケーション最高、朝食も絶品名門ホテルという感じです。スタッフの皆さんは対応はいいと思います。駅前なのでロケーションは最高でした。外観とは違い部屋内も綺麗なため過ごしやすいと思います。朝食ビ…　2026-09-17 08:09:30投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=1371\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "駅前でロケーション最高、朝食も絶品名門ホテルという感じです。スタッフの皆さんは対応はいいと思います。駅前なのでロケーションは最高でした。外観とは違い部屋内も綺麗なため過ごしやすいと思います。朝食ビ。",
     "reviewAverage": 4.47,
     "reviewCount": 1681,
     "address": "石川県金沢市堀川新町1-1",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D1657%26f_flg%3DPLAN",
     "hotelMinCharge": 8250,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1657/1657.jpg",
-    "userReview": "景観ゼロの部屋があることを明記してほしいこのような景観ゼロの部屋があり、オーシャンビューの部屋と同じ価格で提供されていることを明記して頂きたかったです。クチコミの詳細はこちらから　https:…　2026-09-16 16:23:21投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=1657\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "景観ゼロの部屋があることを明記してほしいこのような景観ゼロの部屋があり、オーシャンビューの部屋と同じ価格で提供されていることを明記して頂きたかったです。",
     "reviewAverage": 4.41,
     "reviewCount": 2416,
     "address": "兵庫県洲本市山手1-1-50",
@@ -335,7 +335,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「下田温泉 下田ビューホテル」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「下田温泉 下田ビューホテル」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「うらり武雄 Ｇａｒｄｅｎ Ｔｅｒｒａｃｅ Ｓｐａ Ｒｅｓｏｒｔｓ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「うらり武雄 Ｇａｒｄｅｎ Ｔｅｒｒａｃｅ Ｓｐａ Ｒｅｓｏｒｔｓ。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -365,7 +365,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「下田温泉 下田ビューホテル」は『伊豆七島を望む下田随一の絶景をお楽しみいただけます。 天然温泉と旬の味覚をお楽しみください』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「下田温泉 下田ビューホテル」は『伊豆七島を望む下田随一の絶景をお楽しみいただけます。天然温泉と旬の味覚をお楽しみください。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -374,7 +374,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「下田温泉 下田ビューホテル」と「うらり武雄 Ｇａｒｄｅｎ Ｔｅｒｒａｃｅ Ｓｐａ Ｒｅｓｏｒｔｓ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「下田温泉 下田ビューホテル」と「うらり武雄 Ｇａｒｄｅｎ Ｔｅｒｒａｃｅ Ｓｐａ Ｒｅｓｏｒｔｓ。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

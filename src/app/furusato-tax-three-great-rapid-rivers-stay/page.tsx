@@ -36,7 +36,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147592/147592map.gif",
     "reviewCount": 405,
     "reviewAverage": 4.25,
-    "userReview": "川の眺めは良いが工事の視線が気になったお風呂が残念部屋から目の前の川がよく見える所でよかったが反対側で工事をしている作業員が10名ほどこれ以上言わなくてもわかると思いますがチェックイン…　 ",
+    "userReview": "落ち着いた心地よい空間の中、温かい温泉とおいしいお料理で日頃の疲れを癒やすことができました。",
     "hotelMinCharge": 10450,
     "address1": "山形県",
     "address2": "最上郡戸沢村古口3058",
@@ -67,7 +67,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/158683/158683map.gif",
     "reviewCount": 1028,
     "reviewAverage": 4.27,
-    "userReview": "お風呂も朝食も接客も大満足のちょい旅お風呂も良い!朝食も良い!そしてスタッフも良い!とても良いちょい旅になりました。クチコミの詳細はこちらから　https://review.travel.ra…　 ",
+    "userReview": "お風呂も朝食も接客も大満足のちょい旅お風呂も良い!朝食も良い!そしてスタッフも良い!とても良いちょい旅になりました。",
     "hotelMinCharge": 6300,
     "address1": "静岡県",
     "address2": "富士市永田町2-81-1",
@@ -98,11 +98,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16280/16280map.gif",
     "reviewCount": 127,
     "reviewAverage": 4.52,
-    "userReview": "10年ぶりの再訪、貸切風呂と温泉に大満足10年ぶりにお世話になりました。台風被害を経て、古き良きと新しさと清潔感のお宿にバージョンアップされておりました。やっぱり人吉のお湯は最高ですね…　 ",
+    "userReview": "10年ぶりの再訪、貸切風呂と温泉に大満足10年ぶりにお世話になりました。台風被害を経て、古き良きと新しさと清潔感のお宿にバージョンアップされておりました。やっぱり人吉のお湯は最高ですね。",
     "hotelMinCharge": 7700,
     "address1": "熊本県",
     "address2": "人吉市上青井町180",
-    "telephoneNo": "0966-22-2244",
+    "telephoneNo": "44",
     "access": "人吉ICより車で約8分",
     "parkingInformation": "有り　30台　無料　先着順",
     "nearestStation": "人吉",
@@ -185,7 +185,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「高見屋 最上川別邸 紅」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「高見屋 最上川別邸 紅」へは、東京・仙台方面→東北自動車道→村田JCT→山形自動車道→山形北IC→国道13号→国道47号→宿。最寄りの高屋駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「高見屋 最上川別邸 紅」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「高見屋 最上川別邸 紅」は『～名湯一門 高見屋～全ての窓から最上川の風雅な景色を眺める、寛ぎの温泉旅館-ＢＥＮＩ-』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「高見屋 最上川別邸 紅」と「ホテルルートイン富士中央公園東」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「高見屋 最上川別邸 紅」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「高見屋 最上川別邸 紅」へは、東京・仙台方面→東北自動車道→村田JCT→山形自動車道→山形北IC→国道13号→国道47号→宿。最寄りの高屋駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「高見屋 最上川別邸 紅」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「高見屋 最上川別邸 紅」は『～名湯一門 高見屋～全ての窓から最上川の風雅な景色を眺める、寛ぎの温泉旅館-ＢＥＮＩ-。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「高見屋 最上川別邸 紅」と「ホテルルートイン富士中央公園東」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         
         {/* 特集の魅力セクション */}
@@ -491,7 +491,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「高見屋 最上川別邸 紅」は『～名湯一門 高見屋～全ての窓から最上川の風雅な景色を眺める、寛ぎの温泉旅館-ＢＥＮＩ-』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「高見屋 最上川別邸 紅」は『～名湯一門 高見屋～全ての窓から最上川の風雅な景色を眺める、寛ぎの温泉旅館-ＢＥＮＩ-。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

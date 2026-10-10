@@ -36,11 +36,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/39705/39705map.gif",
     "reviewCount": 3251,
     "reviewAverage": 4.62,
-    "userReview": "バイキングとラウンジを満喫、大満足の旅バイキングが食べきれないくらい種類が多く、ライブのお寿司もとても美味しかったです。お部屋は湯畑の見えないら部屋でしたか、湯畑の見えてゆっくりできるラウンジがあ…　 ",
+    "userReview": "バイキングとラウンジを満喫、大満足の旅バイキングが食べきれないくらい種類が多く、ライブのお寿司もとても美味しかったです。お部屋は湯畑の見えないら部屋でしたか、湯畑の見えてゆっくりできるラウンジがあ。",
     "hotelMinCharge": 18700,
     "address1": "群馬県",
     "address2": "吾妻郡草津町草津411",
-    "telephoneNo": "0279-88-0011",
+    "telephoneNo": "11",
     "access": "ＪＲ吾妻線　長野原草津口駅より路線バス２５分",
     "parkingInformation": "有り　駐車は正午12時～翌正午12時まで　駐車料金：1律1泊1台あたり500円　バレーパーキング",
     "nearestStation": "長野原草津口",
@@ -66,7 +66,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8636/8636map.gif",
     "reviewCount": 2592,
     "reviewAverage": 4.55,
-    "userReview": "憧れのお宿で心温まるおもてなしと温泉を満喫憧れのお宿に泊まることができて、とても嬉しかったです。こちらの事情で、チェックインが遅くなり、夕飯が遅いスタートになってしまったのですが、荷物や車など様々…　 ",
+    "userReview": "憧れのお宿で心温まるおもてなしと温泉を満喫憧れのお宿に泊まることができて、とても嬉しかったです。こちらの事情で、チェックインが遅くなり、夕飯が遅いスタートになってしまったのですが、荷物や車など様々。",
     "hotelMinCharge": 15950,
     "address1": "兵庫県",
     "address2": "神戸市北区有馬町1904",
@@ -96,7 +96,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14679/14679map.gif",
     "reviewCount": 368,
     "reviewAverage": 4.58,
-    "userReview": "ゆっくり過ごせる最高の宿夜ご飯、朝ご飯共に最高でした。お風呂もとても気持ちよかったです。 松之山温泉自体落ち着いた温泉街でとてもゆっくりできました。オススメの宿です。クチコミの詳細…　 ",
+    "userReview": "ゆっくり過ごせる最高の宿夜ご飯、朝ご飯共に最高でした。お風呂もとても気持ちよかったです。松之山温泉自体落ち着いた温泉街でとてもゆっくりできました。オススメの宿です。クチコミの詳細。",
     "hotelMinCharge": 20200,
     "address1": "新潟県",
     "address2": "十日町市松之山湯本49-1",
@@ -182,7 +182,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「草津温泉 ホテル一井」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「草津温泉 ホテル一井」へは、ＪＲ吾妻線 長野原草津口駅より路線バス２５分。最寄りの長野原草津口駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「草津温泉 ホテル一井」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「草津温泉 ホテル一井」は『20室のみの湯畑眺望客室は希少！すき焼きやライブキッチンでのお寿司などを楽しめるビュッフェ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「草津温泉 ホテル一井」と「有馬温泉 兵衛向陽閣」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「草津温泉 ホテル一井」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「草津温泉 ホテル一井」へは、ＪＲ吾妻線 長野原草津口駅より路線バス２５分。最寄りの長野原草津口駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「草津温泉 ホテル一井」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「草津温泉 ホテル一井」は『20室のみの湯畑眺望客室は希少！すき焼きやライブキッチンでのお寿司などを楽しめるビュッフェ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「草津温泉 ホテル一井」と「有馬温泉 兵衛向陽閣」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         
         {/* 特集の魅力セクション */}
@@ -488,7 +488,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「草津温泉 ホテル一井」は『20室のみの湯畑眺望客室は希少！すき焼きやライブキッチンでのお寿司などを楽しめるビュッフェ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「草津温泉 ホテル一井」は『20室のみの湯畑眺望客室は希少！すき焼きやライブキッチンでのお寿司などを楽しめるビュッフェ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

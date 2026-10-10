@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【12月初雪の湯畑ライトアップ】名湯草津の雪見露天風呂と湯もみ体験！源泉かけ流し宿5選",
     "description": "12月になると湯けむりと白い雪が幻想的なコントラストを描く日本一の名湯・草津温泉！湯畑の幻想的なライトアップ散策と、酸性度の高い強烈な名湯を源泉かけ流しで楽しむ至福の雪見温泉ステイ。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-    "datePublished": "2026-09-27T00:00:00+09:00",
-    "dateModified": "2026-09-27T00:00:00+09:00",
+    "datePublished": "T00:00:00+09:00",
+    "dateModified": "T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

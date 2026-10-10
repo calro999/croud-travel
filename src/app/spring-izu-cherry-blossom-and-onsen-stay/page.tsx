@@ -34,11 +34,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/158403/158403map.gif",
     "reviewCount": 861,
     "reviewAverage": 4.31,
-    "userReview": "ロビーからの富士山とドリンク飲み放題に大満足朝ロビーから富士山を見ることができました。ラウンジにも飲み物があり、お食事の時も後の支払いを気にすることなくドリンクが飲むことができ、大満足でした。…　2026-09-16 23:49:00投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=158403\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "ロビーからの富士山とドリンク飲み放題に大満足朝ロビーから富士山を見ることができました。ラウンジにも飲み物があり、お食事の時も後の支払いを気にすることなくドリンクが飲むことができ、大満足でした。",
     "hotelMinCharge": 9900,
     "address1": "静岡県",
     "address2": "伊東市吉田901-75",
-    "telephoneNo": "0557-44-2111",
+    "telephoneNo": "11",
     "access": "【最寄り駅】川奈駅より車で約15分（※無料送迎／予約制）【最寄りIC】小田原西ICから車で約90分",
     "parkingInformation": "有り　35台（無料）予約不要　　　Wi-fi　：有り（館内全て）",
     "nearestStation": "川奈（静岡）",
@@ -59,11 +59,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/128493/128493map.gif",
     "reviewCount": 336,
     "reviewAverage": 4.69,
-    "userReview": "初めて宿泊しました。特別室は、ゆったりくつろぐことができました。なにより、客室露天風呂が最高でした。部屋食も充実していました。Wi-Fiはあまりつながりませんでしたが、それがまたよかったです。スタッフ…　2026-08-05 19:52:26投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=128493\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "初めて宿泊しました。特別室は、ゆったりくつろぐことができました。なにより、客室露天風呂が最高でした。部屋食も充実していました。Wi-Fiはあまりつながりませんでしたが、それがまたよかったです。スタッフ。",
     "hotelMinCharge": 18800,
     "address1": "静岡県",
     "address2": "伊東市富戸1160-11",
-    "telephoneNo": "0557-51-5808",
+    "telephoneNo": "08",
     "access": "富戸駅より送迎可能（要予約）徒歩２０分／東名厚木ＩＣ、沼津ＩＣより約９０分 電気自動車でお越しの方 充電可能！",
     "parkingInformation": "有り　　無料　",
     "nearestStation": "富戸",
@@ -84,11 +84,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/52947/52947map.gif",
     "reviewCount": 137,
     "reviewAverage": 3.88,
-    "userReview": "夕食メインディッシュ格別に上手い!居心地が良い夕食のメインディッシュが格別に上手い!クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/…　2026-06-26 05:04:31投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=52947\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "夕食メインディッシュ格別に上手い!居心地が良い夕食のメインディッシュが格別に上手い!",
     "hotelMinCharge": 4800,
     "address1": "静岡県",
     "address2": "賀茂郡河津町谷津233-7",
-    "telephoneNo": "0558-32-3006",
+    "telephoneNo": "06",
     "access": "伊豆急河津駅より徒歩１０分。伊豆高原よりR135車で30分、���津ICからR414車で90分。",
     "parkingInformation": "有　敷地内22台　無料　予約不要",
     "nearestStation": "河津",
@@ -109,11 +109,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/128262/128262map.gif",
     "reviewCount": 67,
     "reviewAverage": 4.31,
-    "userReview": "魚料理が最高、店主の気配りも温かい宿 夕食の魚料理が最高でした。宿は店主自ら夕食時に各テーブルを回るなど気配りや、イレギュラーにも応えてくれでとても良い時間を過ごせました。建物自体は古いも…　2026-08-17 22:06:53投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=128262\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "魚料理が最高、店主の気配りも温かい宿 夕食の魚料理が最高でした。宿は店主自ら夕食時に各テーブルを回るなど気配りや、イレギュラーにも応えてくれでとても良い時間を過ごせました。建物自体は古いも。",
     "hotelMinCharge": 8800,
     "address1": "静岡県",
     "address2": "賀茂郡河津町谷津333",
-    "telephoneNo": "0558-32-1291",
+    "telephoneNo": "91",
     "access": "河津駅より徒歩５分　河津桜並木迄徒歩1分",
     "parkingInformation": "専用無料駐車場　車３０台　大型バス駐車可能　バイク専用屋内駐輪場 駐車場２０台",
     "nearestStation": "河津",
@@ -134,11 +134,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/138065/138065map.gif",
     "reviewCount": 58,
     "reviewAverage": 4.22,
-    "userReview": "食事の美味しさに大満足ご飯美味しかったですクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/138065?review…　2026-08-16 22:53:58投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=138065\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "食事の美味しさに大満足ご飯美味しかったです。",
     "hotelMinCharge": 8800,
     "address1": "静岡県",
     "address2": "下田市西本郷1-5-30",
-    "telephoneNo": "0558-22-2126",
+    "telephoneNo": "26",
     "access": "伊豆急下田駅から徒歩３分　降車改札を出て右に進む、線路沿いを進みビジネスホテルTSUMEKIの角を左に曲がり道路を渡る。",
     "parkingInformation": "同敷地内旅館建物沿い裏手に屋外駐車場有り　宿泊者無料",
     "nearestStation": "伊豆急下田",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「伊豆高原温泉ホテル 森の泉」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「伊豆高原温泉ホテル 森の泉」へは、最寄り駅 川奈駅より車で約15分（※無料送迎／予約制） 最寄りIC 小田原西ICから車で約90分。最寄りの川奈（静岡）駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「伊豆高原温泉ホテル 森の泉」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「伊豆高原温泉ホテル 森の泉」は『広大な大自然に佇む大人の癒し空間でオールインクルーシブを満喫◇伊豆の味覚と四季折々の景色を』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「伊豆高原温泉ホテル 森の泉」と「伊豆高原 記念日を祝う宿 自然家．Ｈａｃｏ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「伊豆高原温泉ホテル 森の泉」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「伊豆高原温泉ホテル 森の泉」へは、最寄り駅 川奈駅より車で約15分（※無料送迎／予約制） 最寄りIC 小田原西ICから車で約90分。最寄りの川奈（静岡）駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「伊豆高原温泉ホテル 森の泉」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「伊豆高原温泉ホテル 森の泉」は『広大な大自然に佇む大人の癒し空間でオールインクルーシブを満喫◇伊豆の味覚と四季折々の景色を。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「伊豆高原温泉ホテル 森の泉」と「伊豆高原 記念日を祝う宿 自然家．Ｈａｃｏ。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -598,7 +598,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「伊豆高原温泉ホテル 森の泉」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「伊豆高原温泉ホテル 森の泉」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「伊豆高原 記念日を祝う宿 自然家．Ｈａｃｏ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「伊豆高原 記念日を祝う宿 自然家．Ｈａｃｏ。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -628,7 +628,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「伊豆高原温泉ホテル 森の泉」は『広大な大自然に佇む大人の癒し空間でオールインクルーシブを満喫◇伊豆の味覚と四季折々の景色を』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「伊豆高原温泉ホテル 森の泉」は『広大な大自然に佇む大人の癒し空間でオールインクルーシブを満喫◇伊豆の味覚と四季折々の景色を。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -637,7 +637,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「伊豆高原温泉ホテル 森の泉」と「伊豆高原 記念日を祝う宿 自然家．Ｈａｃｏ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「伊豆高原温泉ホテル 森の泉」と「伊豆高原 記念日を祝う宿 自然家．Ｈａｃｏ。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

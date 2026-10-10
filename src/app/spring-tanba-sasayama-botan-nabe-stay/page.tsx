@@ -59,11 +59,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8534/8534map.gif",
     "reviewCount": 88,
     "reviewAverage": 4.42,
-    "userReview": "篠山の由緒ある旅館400年の老舗旅館。篠山城に近く一番にぎやかな通りに位置しており、歴史ある街歩きを楽しめました。夕食のボタン鍋はしっ地元のお野菜たくさんで、しっかり味噌味でしたが胃にももたれずと…　2026-06-12 21:25:02投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=8534\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "篠山の由緒ある旅館400年の老舗旅館。篠山城に近く一番にぎやかな通りに位置しており、歴史ある街歩きを楽しめました。夕食のボタン鍋はしっ地元のお野菜たくさんで、しっかり味噌味でしたが胃にももたれずと。",
     "hotelMinCharge": 15600,
     "address1": "兵庫県",
     "address2": "丹波篠山市二階町81",
-    "telephoneNo": "0795-52-2191",
+    "telephoneNo": "91",
     "access": "舞鶴若狭自動車道「丹南篠山口I.C」より3km/JR福知山線「篠山口」駅よりバス約15分",
     "parkingInformation": "有り　4台　無料",
     "nearestStation": "篠山口",
@@ -113,7 +113,7 @@ const hotels: any[] = [
     "hotelMinCharge": 9100,
     "address1": "奈良県",
     "address2": "生駒市門前町15-12",
-    "telephoneNo": "0743-73-4717",
+    "telephoneNo": "17",
     "access": "近鉄ケーブル線宝山寺駅から徒歩5分/近鉄生駒駅から車またはタクシーで5分/第二阪奈壱分ICから15分",
     "parkingInformation": "駐車場（2台）はアルス駐車場（生駒市門前町16-52）26・27番/その他旅館組合の駐車場あり　無料",
     "nearestStation": "",
@@ -134,7 +134,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/52878/52878map.gif",
     "reviewCount": 212,
     "reviewAverage": 3.87,
-    "userReview": "個室での夕食とスタッフの優しさに感動以前からカフェの利用をさせていただいていました。今回、宿泊は初めてで家族ととてものんびり過ごせました。夕食は個室でいただきました。思っていたより量も…　2026-08-25 16:54:01投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=52878\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "個室での夕食とスタッフの優しさに感動以前からカフェの利用をさせていただいていました。今回、宿泊は初めてで家族ととてものんびり過ごせました。夕食は個室でいただきました。思っていたより量も。",
     "hotelMinCharge": 5400,
     "address1": "兵庫県",
     "address2": "丹波篠山市遠方122-1",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「丹波篠山・料理旅館 たかさご」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「丹波篠山・料理旅館 たかさご」へは、ＪＲ福知山線 篠山口駅よりお車で約15分/舞鶴若狭自動車道 丹南篠山口よりお車で約10分。最寄りの篠山口駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「丹波篠山・料理旅館 たかさご」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「丹波篠山・料理旅館 たかさご」は『今から約１６０年前の嘉永元年に開業。篠山観光の中心に位置し、観光拠点にもオススメの老舗旅館』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「丹波篠山・料理旅館 たかさご」と「丹波篠山 近又」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「丹波篠山・料理旅館 たかさご」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「丹波篠山・料理旅館 たかさご」へは、ＪＲ福知山線 篠山口駅よりお車で約15分/舞鶴若狭自動車道 丹南篠山口よりお車で約10分。最寄りの篠山口駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「丹波篠山・料理旅館 たかさご」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「丹波篠山・料理旅館 たかさご」は『今から約１６０年前の嘉永元年に開業。篠山観光の中心に位置し、観光拠点にもオススメの老舗旅館。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「丹波篠山・料理旅館 たかさご」と「丹波篠山 近又」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -628,7 +628,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「丹波篠山・料理旅館 たかさご」は『今から約１６０年前の嘉永元年に開業。篠山観光の中心に位置し、観光拠点にもオススメの老舗旅館』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「丹波篠山・料理旅館 たかさご」は『今から約１６０年前の嘉永元年に開業。篠山観光の中心に位置し、観光拠点にもオススメの老舗旅館。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

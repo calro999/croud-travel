@@ -268,8 +268,7 @@ export default function OkinawaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 那覇空港 / ゆいレール「旭橋駅」出入口2より徒歩3分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
-                    2022年4月1日開業。国際通りまで徒歩圏の絶好の立地。大浴場を備え、上質なくつろぎをご提供。
+                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">開業。国際通りまで徒歩圏の絶好の立地。大浴場を備え、上質なくつろぎをご提供。
                   </p>
                 </div>
                 <div className="pt-3 border-t border-stone-100 flex items-center justify-between">

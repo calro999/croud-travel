@@ -259,8 +259,7 @@ export default function FurusatoFeaturePage() {
                   <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
                     皆生温泉　華水亭
                   </h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
-                    2026年7月18日お食事処リニューアルオープン♪日本海の眺望と季節の会席が愉しめる自家源泉の宿
+                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">お食事処リニューアルオープン♪日本海の眺望と季節の会席が愉しめる自家源泉の宿
                   </p>
                   
                   <div className="mt-auto pt-4 border-t border-stone-800/80 flex items-center justify-between">

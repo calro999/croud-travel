@@ -49,7 +49,7 @@ export default function FurusatoFragrantHinokiBathStayPage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「木曽路の宿 いわや」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「木曽路の宿 いわや」へは、JR木曽福島駅より徒歩10分／中央自動車道：塩尻ICより60分、中津川ICより60分。最寄りの木曽福島駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「木曽路の宿 いわや」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「木曽路の宿 いわや」は『宮家の方々や文人に愛された、木曽路で最も古い老舗。木曽川眺望、総檜造りのお部屋や展望露天な』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「木曽路の宿 いわや」と「谷川の湯 あせび野」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「木曽路の宿 いわや」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「木曽路の宿 いわや」へは、JR木曽福島駅より徒歩10分／中央自動車道：塩尻ICより60分、中津川ICより60分。最寄りの木曽福島駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「木曽路の宿 いわや」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「木曽路の宿 いわや」は『宮家の方々や文人に愛された、木曽路で最も古い老舗。木曽川眺望、総檜造りのお部屋や展望露天な。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「木曽路の宿 いわや」と「谷川の湯 あせび野」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -195,7 +195,7 @@ export default function FurusatoFragrantHinokiBathStayPage() {
                     中山道・福島宿に位置し、江戸時代初期の寛永年間創業・三百七十余年の歴史を誇る老舗旅館。宿の名物は、伊勢神宮の式年遷宮にも用いられる高級木材「木曽ヒノキ」の樹齢数百年の一枚板を贅沢に使用した大名総檜風呂。浴場全体に広がる清々しいヒノキの香りと柔らかな肌触りの湯に包まれる時間はまさに極楽。夕食には信州名物の木曽牛ステーキや岩魚の塩焼き、季節の山菜料理など、中山道の旅情豊かな郷土会席を堪能できます。木曽路の歴史と豊かな森林文化を肌で感じる名湯旅が叶います。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「スタッフの心遣いに感謝。食事も大満足子供の体調がいまいちでレストランで夕食を食べられず...「お部屋に運んで後で食べることもできますよ」と教えていただき、お部屋に持っていくことに。娘はお風呂に入る… 2026-08-25 12:13:45投…」
+                    「スタッフの心遣いに感謝。食事も大満足子供の体調がいまいちでレストランで夕食を食べられず...「お部屋に運んで後で食べることもできますよ。」と教えていただき、お部屋に持っていくことに。娘はお風呂に入る…投…」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -256,7 +256,7 @@ export default function FurusatoFragrantHinokiBathStayPage() {
                     中伊豆・天城湯ヶ島の豊かな山林を流れる猫越川のほとりに佇む、全国の温泉ファンから絶賛される大人の隠れ宿。全客室のテラスに自家源泉かけ流しの贅沢な総檜専用露天風呂を備え、川のせせらぎと野鳥の声を聴きながら24時間いつでもヒノキの香りと名湯に浸かることができます。館内には渓流沿いの貸切露天風呂や広々とした大浴場も点在。駿河湾の新鮮な海の幸や伊豆の山の幸を取り入れた月替わりの創作会席料理とともに、静寂と贅沢に満ちた究極のプライベートステイをお過ごしいただけます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「川沿いの立地と食事は満足だが設備管理が惜しい10年ぶりでしたが、川沿いの素晴らしい立地で、とても心地の良い滞在になりました。個室でいただく、食事の量と質も十分で満足でした。ただ、至るところで設備の… 2026-08-31 17:25:07投…」
+                    「川沿いの立地と食事は満足だが設備管理が惜しい10年ぶりでしたが、川沿いの素晴らしい立地で、とても心地の良い滞在になりました。個室でいただく、食事の量と質も十分で満足でした。ただ、至るところで設備の… 投。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -317,7 +317,7 @@ export default function FurusatoFragrantHinokiBathStayPage() {
                     全国屈指の温泉地・黒川温泉で最も古い歴史を持ち、江戸時代には肥後細川藩の御前湯（藩主専用の温泉）を務めた創業三百年の老舗宿。歴史の重みを感じる本館には、木肌の優しい総檜風呂「御前湯」をはじめ、里の湯や貸切風呂など多彩な湯殿を完備し、良質な単純温泉を源泉かけ流しで満喫できます。夕食には地元小国郷土の味を大切にした肥後赤牛のステーキやすき焼き、契約農家から届く新鮮な野菜を使った手作り田舎会席が並び、温もりあふれる九州の温泉情話に心洗われます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「食事と風呂は満足だが冷蔵庫が冷えない食事、部屋、お風呂は大満足ですでも、部屋の冷蔵庫は全然冷えませんクチコミの詳細はこちらから 2026-08-31 20:19:51投稿 つづきはこちら…」
+                    「食事と風呂は満足だが冷蔵庫が冷えない食事、部屋、お風呂は大満足ですでも、部屋の冷蔵庫は全然冷えません。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -481,7 +481,7 @@ export default function FurusatoFragrantHinokiBathStayPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「木曽路の宿 いわや」は『宮家の方々や文人に愛された、木曽路で最も古い老舗。木曽川眺望、総檜造りのお部屋や展望露天な』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「木曽路の宿 いわや」は『宮家の方々や文人に愛された、木曽路で最も古い老舗。木曽川眺望、総檜造りのお部屋や展望露天な。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

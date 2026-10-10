@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/super-panoramic-lake-canoe-kayak-resort-stay"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D4869%26f_flg%3DPLAN",
     "hotelMinCharge": 7425,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4869/4869.jpg",
-    "userReview": "クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/4869?reviewId=33123479365627　2026-09-13 12:10:47投稿",
+    "userReview": "",
     "reviewAverage": 4.34,
     "reviewCount": 939,
     "address": "山梨県南都留郡富士河口湖町長浜395",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D10731%26f_flg%3DPLAN",
     "hotelMinCharge": 10197,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10731/10731.jpg",
-    "userReview": "スタッフの対応も食事も素晴らしく大満足9/8連泊させて頂きました。温かく迎えてもらいチェックイン時のサァビスも大変良かった。スタッフの対応も大変良かった。食事も大変美味しくいただきました。部屋も大…　2026-09-11 13:30:02投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=10731\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "スタッフの対応も食事も素晴らしく大満足9/8連泊させて頂きました。温かく迎えてもらいチェックイン時のサァビスも大変良かった。スタッフの対応も大変良かった。食事も大変美味しくいただきました。部屋も大。",
     "reviewAverage": 4.31,
     "reviewCount": 378,
     "address": "山梨県南都留郡富士河口湖町浅川630-1",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D41095%26f_flg%3DPLAN",
     "hotelMinCharge": 8500,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/41095/41095.jpg",
-    "userReview": "ホスピタリティとドリンクに大満足まずホスピタリティが素晴らしい細やかな付属設備がいいですドリンク類が文句なしありがとうございましたクチコミの詳細はこちらから　https://rev…　2026-09-08 13:27:15投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=41095\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "ホスピタリティとドリンクに大満足まずホスピタリティが素晴らしい細やかな付属設備がいいですドリンク類が文句なしありがとうございました。",
     "reviewAverage": 4.28,
     "reviewCount": 264,
     "address": "山梨県南都留郡富士河口湖町船津6713-6",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D14467%26f_flg%3DPLAN",
     "hotelMinCharge": 5500,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14467/14467.jpg",
-    "userReview": "トイレの入り口に段差があり中も狭いトイレ入り口の段差があり入りづらく、中が狭かった。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hote…　2026-09-19 18:11:40投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=14467\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "トイレの入り口に段差があり中も狭いトイレ入り口の段差があり入りづらく、中が狭かった。",
     "reviewAverage": 4.12,
     "reviewCount": 490,
     "address": "北海道虻田郡洞爺湖町洞爺湖温泉 144",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D18658%26f_flg%3DPLAN",
     "hotelMinCharge": 6750,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18658/18658.jpg",
-    "userReview": "スタッフの親切な対応と充実した共有施設チェックインの際からスタッフの方が親切でした^ ^卓球台やウォーターサーバも共有施設にあり、良かったです。クチコミの詳細はこちらから　https://re…　2026-09-14 12:08:35投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=18658\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "スタッフの親切な対応と充実した共有施設チェックインの際からスタッフの方が親切でした^ ^卓球台やウォーターサーバも共有施設にあり、良かったです。",
     "reviewAverage": 3.86,
     "reviewCount": 524,
     "address": "山梨県南都留郡山中湖村平野506-296",

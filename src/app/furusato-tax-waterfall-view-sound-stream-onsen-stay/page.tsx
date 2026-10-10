@@ -62,7 +62,7 @@ export default function FurusatoWaterfallViewStreamStayPage() {
           滝の轟きとマイナスイオンに包まれる！名瀑・清流を望む絶景露天風呂旅館×ふるさと納税完全ガイド【2026年最新】伊豆天城・那須板室・熊本黒川
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-09">2026年9月9日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -164,7 +164,7 @@ export default function FurusatoWaterfallViewStreamStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “スタッフの献身的な対応と気配りに感動従業員の方々の、献身的で心休まるひとときを過ごせました。外国籍の方々の、真面目さ、気配り、日本語を一生懸命に使い伝えてくれるその直向きさに、元気をいただ…　2026-08-30 05:56:42投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “スタッフの献身的な対応と気配りに感動従業員の方々の、献身的で心休まるひとときを過ごせました。外国籍の方々の、真面目さ、気配り、日本語を一生懸命に使い伝えてくれるその直向きさに、元気をいただ… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -206,7 +206,7 @@ export default function FurusatoWaterfallViewStreamStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “建物は古いが清潔、静かな環境で源泉掛け流し古い建物ではあるが清潔。源泉掛け流しでお湯は新鮮。薬効はあまり感じなかった。山の中で静か。クチコミの詳細はこちらから　https://review…　2026-08-29 15:11:26投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “建物は古いが清潔、静かな環境で源泉掛け流し古い建物ではあるが清潔。源泉掛け流しでお湯は新鮮。薬効はあまり感じなかった。山の中で静か。 ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -248,7 +248,7 @@ export default function FurusatoWaterfallViewStreamStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “とてもくつろげたので、また行きたいとてもくつろげました。また行きたいです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voi…　2026-09-04 20:56:14投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “とてもくつろげたので、また行きたいとてもくつろげました。また行きたいです。 ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -323,7 +323,7 @@ export default function FurusatoWaterfallViewStreamStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。年末の駆け込み寄付でクーポンを確保しておき、翌年以降の記念日や旅行シーズンにゆっくり利用できます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。年末の駆け込み寄付でクーポンを確保しておき、翌年以降の記念日や旅行シーズンにゆっくり利用できます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">
@@ -332,7 +332,7 @@ export default function FurusatoWaterfallViewStreamStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              トラベルクーポンは楽天トラベル上の「宿泊プラン代金（事前決済または現地決済の宿泊費）」に対して適用されます。現地での追加注文をお得にしたい場合は、夕食時のドリンクインクルーシブプランやエステ付き宿泊プランをあらかじめ選んで予約するのが賢い方法です。
+              トラベルクーポンは楽天トラベル上の「宿泊プラン代金（事前決済または現地決済の宿泊費）。」に対して適用されます。現地での追加注文をお得にしたい場合は、夕食時のドリンクインクルーシブプランやエステ付き宿泊プランをあらかじめ選んで予約するのが賢い方法です。
             </p>
           </details>
         </div>

@@ -81,7 +81,7 @@ export default function OsakaAmazingPassPage() {
             電車乗り放題＋40施設無料！<span className="text-rose-300">通常10,000円超がこの1枚</span>
           </h1>
           <p className="mt-5 text-base sm:text-lg text-rose-100/90 leading-relaxed">
-            Osaka Metro（地下鉄全線）と大阪シティバス、さらに私鉄各線の乗り放題に加え、空中庭園展望台（1,500円）や大阪城天守閣（600円）、道頓堀リバークルーズ（1,200円）など40ヶ所以上の超人気スポットが無料パスになる「大阪周遊パス（デジタル版/磁気版 3,300円）」。
+            Osaka Metro（地下鉄全線）と大阪シティバス、さらに私鉄各線の乗り放題に加え、空中庭園展望台（1,500円）や大阪城天守閣（600円）、道頓堀リバークルーズ（1,200円）など40ヶ所以上の超人気スポットが無料パスになる「大阪周遊パス（デジタル版/磁気版 3,300円）。」。
             スポットを3つ巡るだけで即座にプラスに転じる、日本トップクラスの爆得パスの徹底攻略法です。
           </p>
           <div className="mt-6 flex flex-wrap gap-4 text-xs sm:text-sm text-rose-200">
@@ -96,7 +96,7 @@ export default function OsakaAmazingPassPage() {
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「電車乗り放題＋40ヶ所以上の観光施設が無料！1万円分得するモデルコース」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「電車乗り放題＋40ヶ所以上の観光施設が無料！1万円分得するモデルコース。」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
       />
 
         {/* Section 1: 周遊パスの仕組みと元取りの基本 */}
@@ -115,7 +115,7 @@ export default function OsakaAmazingPassPage() {
 
           <div className="text-slate-700 leading-relaxed space-y-4">
             <p>
-              多くの観光1日券は「交通機関のフリーパス」にとどまりますが、大阪周遊パスの真骨頂は<strong>「メイン観光名所の入場チケットそのものが付属している」</strong>点にあります。
+              多くの観光1日券は「交通機関のフリーパス」にとどまりますが、大阪周遊パスの真骨頂は<strong>「メイン観光名所の入場チケットそのものが付属している。」</strong>点にあります。
             </p>
             <p>
               例えば、梅田スカイビル 空中庭園展望台（1,500円 ※16時まで無料入場）と大阪水上バス アクアライナー（1,800円）の2つに乗るだけで合計3,300円。なんと<strong>この2箇所だけでパス代3,300円を回収</strong>できてしまいます。電車代やその他の観光施設はすべて「無料ボーナス」という驚異の仕組みです。
@@ -442,7 +442,7 @@ export default function OsakaAmazingPassPage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「電車乗り放題＋40ヶ所以上の観光施設が無料！1万円分得するモデルコース」を効率よく巡るコツは？</span>
+                <span>Q. 「電車乗り放題＋40ヶ所以上の観光施設が無料！1万円分得するモデルコース。」を効率よく巡るコツは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">

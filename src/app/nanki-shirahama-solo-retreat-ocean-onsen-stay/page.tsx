@@ -7,11 +7,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nanki-shirahama-solo-retreat-ocean-onsen-stay/" },
   title: '【南紀白浜ひとり旅・海望おこもり】太平洋オーシャンビュー・古都白浜温泉・インフィニティ足湯！南国の絶景に癒やされる厳選3宿',
-  description: '南紀白浜空港へ東京羽田からわずか約70分！海に突き出る西洋の城で総工費400億の宮殿温泉ステイ「白浜温泉 ホテル川久」、太平洋を一望するインフィニティ足湯テラスと快適ワーケーションが話題の「SHIRAHAMA KEY TERRACE HOTEL SEAMORE」、白良浜の白い砂浜が目の前に広がる「白良荘グランドホテル」を徹底比較。',
+  description: '南紀白浜空港へ東京羽田からわずか約70分！海に突き出る西洋の城で総工費400億の宮殿温泉ステイ「白浜温泉 ホテル川久」、太平洋を一望するインフィニティ足湯テラスと快適ワーケーションが話題の「SHIRAHAMA KEY TERRACE HOTEL SEAMORE。」、白良浜の白い砂浜が目の前に広がる「白良荘グランドホテル」を徹底比較。',
   keywords: '南紀白浜 一人旅 ホテル,ホテル川久 ひとり,ホテルシーモア 宿泊,白良荘グランドホテル,南紀白浜 温泉 おこもり 白良浜',
   openGraph: {
     title: '【南紀白浜ひとり旅・海望おこもり】太平洋オーシャンビュー・古都白浜温泉・インフィニティ足湯！南国の絶景に癒やされる厳選3宿',
-    description: '南紀白浜空港へ東京羽田からわずか約70分！海に突き出る西洋の城で総工費400億の宮殿温泉ステイ「白浜温泉 ホテル川久」、太平洋を一望するインフィニティ足湯テラスと快適ワーケーションが話題の「SHIRAHAMA KEY TERRACE HOTEL SEAMORE」、白良浜の白い砂浜が目の前に広がる「白良荘グランドホテル」を徹底比較。',
+    description: '南紀白浜空港へ東京羽田からわずか約70分！海に突き出る西洋の城で総工費400億の宮殿温泉ステイ「白浜温泉 ホテル川久」、太平洋を一望するインフィニティ足湯テラスと快適ワーケーションが話題の「SHIRAHAMA KEY TERRACE HOTEL SEAMORE。」、白良浜の白い砂浜が目の前に広がる「白良荘グランドホテル」を徹底比較。',
     url: 'https://croud-travel.pages.dev/nanki-shirahama-solo-retreat-ocean-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -24,7 +24,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【南紀白浜ひとり旅・海望おこもり】太平洋オーシャンビュー・古都白浜温泉・インフィニティ足湯！南国の絶景に癒やされる厳選3宿',
-    description: '南紀白浜空港へ東京羽田からわずか約70分！海に突き出る西洋の城で総工費400億の宮殿温泉ステイ「白浜温泉 ホテル川久」、太平洋を一望するインフィニティ足湯テラスと快適ワーケーションが話題の「SHIRAHAMA KEY TERRACE HOTEL SEAMORE」、白良浜の白い砂浜が目の前に広がる「白良荘グランドホテル」を徹底比較。',
+    description: '南紀白浜空港へ東京羽田からわずか約70分！海に突き出る西洋の城で総工費400億の宮殿温泉ステイ「白浜温泉 ホテル川久」、太平洋を一望するインフィニティ足湯テラスと快適ワーケーションが話題の「SHIRAHAMA KEY TERRACE HOTEL SEAMORE。」、白良浜の白い砂浜が目の前に広がる「白良荘グランドホテル」を徹底比較。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・出張調査班',
@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-12T17:40:00+09:00',
-    dateModified: '2026-09-12T17:40:00+09:00',
+    datePublished: 'T17:40:00+09:00',
+    dateModified: 'T17:40:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/nanki-shirahama-solo-retreat-ocean-onsen-stay',
   };
 
@@ -48,7 +48,7 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一度は泊まってみたい非日常のラグジュアリーホテルは？","acceptedAnswer":{"@type":"Answer","text":"「白浜温泉 ホテル川久」は田辺湾に面した全室スイート仕様の洋城。金箔の天井や豪華なスパ大浴場、最高峰の王様のビュッフェが非日常を演出します。"}},{"@type":"Question","name":"ワーケーションや一人旅で海を見ながら過ごしたいならどこ？","acceptedAnswer":{"@type":"Answer","text":"「SHIRAHAMA KEY TERRACE HOTEL SEAMORE」は海を望むインフィニティ足湯テラスやコワーキングスペース、ベーカリーカフェが充実しており、一人旅に大人気です。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一度は泊まってみたい非日常のラグジュアリーホテルは？","acceptedAnswer":{"@type":"Answer","text":"「白浜温泉 ホテル川久」は田辺湾に面した全室スイート仕様の洋城。金箔の天井や豪華なスパ大浴場、最高峰の王様のビュッフェが非日常を演出します。"}},{"@type":"Question","name":"ワーケーションや一人旅で海を見ながら過ごしたいならどこ？","acceptedAnswer":{"@type":"Answer","text":"「SHIRAHAMA KEY TERRACE HOTEL SEAMORE。」は海を望むインフィニティ足湯テラスやコワーキングスペース、ベーカリーカフェが充実しており、一人旅に大人気です。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -77,7 +77,7 @@ export default function ArticlePage() {
           【南紀白浜ひとり旅・海望おこもり】太平洋オーシャンビュー・古都白浜温泉・インフィニティ足湯！南国の絶景に癒やされる厳選3宿
         </h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
-          <time dateTime="2026-09-12">2026.09.12 更新</time>
+          <time dateTime="">2026.09.12 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
         </div>
@@ -375,7 +375,7 @@ export default function ArticlePage() {
                 <span>ワーケーションや一人旅で海を見ながら過ごしたいならどこ？</span>
               </h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
-                「SHIRAHAMA KEY TERRACE HOTEL SEAMORE」は海を望むインフィニティ足湯テラスやコワーキングスペース、ベーカリーカフェが充実しており、一人旅に大人気です。
+                「SHIRAHAMA KEY TERRACE HOTEL SEAMORE。」は海を望むインフィニティ足湯テラスやコワーキングスペース、ベーカリーカフェが充実しており、一人旅に大人気です。
               </p>
             </div>
           </div>
@@ -434,7 +434,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「白浜温泉 ホテル川久」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「白浜温泉 ホテル川久」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ＳＨＩＲＡＨＡＭＡ ＫＥＹ ＴＥＲＲＡＣＥ ＳＥＡＭＯＲＥ ＲＥＳＩＤＥＮＣＥ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ＳＨＩＲＡＨＡＭＡ ＫＥＹ ＴＥＲＲＡＣＥ ＳＥＡＭＯＲＥ ＲＥＳＩＤＥＮＣＥ。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>

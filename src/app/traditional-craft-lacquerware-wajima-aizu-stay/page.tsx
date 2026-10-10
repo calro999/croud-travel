@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/traditional-craft-lacquerware-wajima-aizu-stay"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D39377%26f_flg%3DPLAN",
     "hotelMinCharge": 12100,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/39377/39377.jpg",
-    "userReview": "広々とした展望露天風呂が最高!部屋の展望露天風呂が広々として最高でした!クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voic…　2026-09-09 07:38:14投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=39377\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "広々とした展望露天風呂が最高!部屋の展望露天風呂が広々として最高でした!",
     "reviewAverage": 4.35,
     "reviewCount": 395,
     "address": "福島県会津若松市東山町湯本247",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D67124%26f_flg%3DPLAN",
     "hotelMinCharge": 16500,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67124/67124.jpg",
-    "userReview": "美味しい食事と誕生日への配慮に大満足食事もとても美味しかったです。誕生日のケーキなど色々配慮して下さってとても楽しく過ごせました。お風呂もとても気持ちよかったです。クチコミの詳細はこちらか…　2026-09-16 22:30:33投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=67124\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "美味しい食事と誕生日への配慮に大満足食事もとても美味しかったです。誕生日のケーキなど色々配慮して下さってとても楽しく過ごせました。お風呂もとても気持ちよかったです。",
     "reviewAverage": 4.73,
     "reviewCount": 1657,
     "address": "石川県加賀市山中温泉東町1-ホ14-3",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D69244%26f_flg%3DPLAN",
     "hotelMinCharge": 21200,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/69244/69244.jpg",
-    "userReview": "食事は楽しめたが、すだれの交換を希望楽しい食事をさせてもらいました。すだれは交換した方がいいとおもいます。クチコミの詳細はこちらから　https://review.travel.rakut…　2026-08-10 12:41:13投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=69244\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "食事は楽しめたが、すだれの交換を希望楽しい食事をさせてもらいました。すだれは交換した方がいいとおもいます。",
     "reviewAverage": 4.56,
     "reviewCount": 285,
     "address": "福島県郡山市熱海町5-271",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D6067%26f_flg%3DPLAN",
     "hotelMinCharge": 8090,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6067/6067.jpg",
-    "userReview": "駐車場の案内が不親切で非常に危険だった駐車場について、隣の奥を案内されたが、バックで進入しなければならず非常に狭く危うく壁にぶつかりそうになった。後からチェックインした人が宿の前のスペースに駐車さ…　2026-09-13 19:14:31投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=6067\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "駐車場の案内が不親切で非常に危険だった駐車場について、隣の奥を案内されたが、バックで進入しなければならず非常に狭く危うく壁にぶつかりそうになった。後からチェックインした人が宿の前のスペースに駐車さ。",
     "reviewAverage": 4.25,
     "reviewCount": 582,
     "address": "長野県木曽郡木曽町福島本町5162",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D18143%26f_flg%3DPLAN",
     "hotelMinCharge": 6600,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18143/18143.jpg",
-    "userReview": "駅近で温泉も無料、ベッドも快適で満足付近の徒歩2～3分の温泉施設が無料で使えるため、快適でした。1人部屋でしたがベッドはフカフカですしそれなりの清潔さです。駅の目の前にあるため、公共交通機…　2026-09-17 17:47:49投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=18143\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "駅近で温泉も無料、ベッドも快適で満足付近の徒歩2～3分の温泉施設が無料で使えるため、快適でした。1人部屋でしたがベッドはフカフカですしそれなりの清潔さです。駅の目の前にあるため、公共交通機。",
     "reviewAverage": 4,
     "reviewCount": 3306,
     "address": "福島県会津若松市駅前町5-25",

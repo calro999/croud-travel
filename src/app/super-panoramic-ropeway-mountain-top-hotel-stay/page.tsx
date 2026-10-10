@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/super-panoramic-ropeway-mountain-top-hotel-stay"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D54556%26f_flg%3DPLAN",
     "hotelMinCharge": 8250,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/54556/54556.jpg",
-    "userReview": "お客様目線の接客で気持ちよく過ごせたお客様目線の接客で、気持ちよく泊まることができました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/h…　2026-09-19 13:06:01投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=54556\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "お客様目線の接客で気持ちよく過ごせたお客様目線の接客で、気持ちよく泊まることができました。",
     "reviewAverage": 4.22,
     "reviewCount": 6399,
     "address": "和歌山県東牟婁郡那智勝浦町勝浦1165-2",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D79432%26f_flg%3DPLAN",
     "hotelMinCharge": 5900,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/79432/79432.jpg",
-    "userReview": "静かな山の中で落ち着いた大人向けの空間山の中で静かなところで、落ち着いた大人向けの宿でした。奥入瀬から酸ヶ湯を経由してきました。新青森にもスムーズに行けました!クチコミの詳細はこちらから　ht…　2026-09-19 20:52:12投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=79432\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "静かな山の中で落ち着いた大人向けの空間山の中で静かなところで、落ち着いた大人向けの宿でした。奥入瀬から酸ヶ湯を経由してきました。新青森にもスムーズに行けました!",
     "reviewAverage": 4.51,
     "reviewCount": 421,
     "address": "青森県青森市荒川八甲田山中",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D50545%26f_flg%3DPLAN",
     "hotelMinCharge": 6248,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50545/50545.jpg",
-    "userReview": "湯温が丁度よく、気持ちよく入浴できた風呂の湯温が丁度よく気持ち良く入浴できましたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/…　2026-09-15 17:07:08投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=50545\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "湯温が丁度よく、気持ちよく入浴できた風呂の湯温が丁度よく気持ち良く入浴できました。",
     "reviewAverage": 3.78,
     "reviewCount": 1170,
     "address": "静岡県下田市武が浜6-12",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D13890%26f_flg%3DPLAN",
     "hotelMinCharge": 3850,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13890/13890.jpg",
-    "userReview": "伝統を感じさせる趣のある空間伝統を感じさせる好きなホテルです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/138…　2026-09-17 16:55:09投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=13890\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "伝統を感じさせる趣のある空間伝統を感じさせる好きなホテルです。",
     "reviewAverage": 4.4,
     "reviewCount": 471,
     "address": "宮城県大崎市鳴子温泉鬼首大清水26-29",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D68532%26f_flg%3DPLAN",
     "hotelMinCharge": 9500,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68532/68532.jpg",
-    "userReview": "お天気に恵まれまし���今回は連泊しましたが、ビュッフェメニューも豊富で良かったです。朝のお散歩は土日しかないとのことで残念でしたが、夏休み期間は毎日やって欲しいです。また季節を変えて訪ね…　2026-09-19 16:49:05投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=68532\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "お天気に恵まれまし���今回は連泊しましたが、ビュッフェメニューも豊富で良かったです。また季節を変えて訪ね。",
     "reviewAverage": 4.32,
     "reviewCount": 1349,
     "address": "長野県北安曇郡白馬村北城21582",
@@ -335,7 +335,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「南紀勝浦温泉 ホテル浦島」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「南紀勝浦温泉 ホテル浦島」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「八甲田城ヶ倉温泉 ホテル城ヶ倉－ＨＯＴＥＬ Ｊｏｇａｋｕｒａ－」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「八甲田城ヶ倉温泉 ホテル城ヶ倉－ＨＯＴＥＬ Ｊｏｇａｋｕｒａ－。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -365,7 +365,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「南紀勝浦温泉 ホテル浦島」は『楽天トラベルゴールドアワード受賞 圧倒的なスケールと開放感！天然洞窟温泉など湯巡りを楽しも』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「南紀勝浦温泉 ホテル浦島」は『楽天トラベルゴールドアワード受賞 圧倒的なスケールと開放感！天然洞窟温泉など湯巡りを楽しも。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -374,7 +374,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「南紀勝浦温泉 ホテル浦島」と「八甲田城ヶ倉温泉 ホテル城ヶ倉－ＨＯＴＥＬ Ｊｏｇａｋｕｒａ－」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「南紀勝浦温泉 ホテル浦島」と「八甲田城ヶ倉温泉 ホテル城ヶ倉－ＨＯＴＥＬ Ｊｏｇａｋｕｒａ－。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

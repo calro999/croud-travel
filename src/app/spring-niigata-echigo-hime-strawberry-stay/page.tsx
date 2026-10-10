@@ -34,11 +34,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29424/29424map.gif",
     "reviewCount": 1768,
     "reviewAverage": 4.17,
-    "userReview": "夕食バイキングとマジックショーに大満足夕食バイキングが品数豊富で大満足でした。ステーキとお寿司最高です。夕食後にはマジックショーがあり、昔懐かしいマジックでしたが1番の思い出になりました。…　2026-09-17 00:42:26投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=29424\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "夕食バイキングとマジックショーに大満足夕食バイキングが品数豊富で大満足でした。ステーキとお寿司最高です。夕食後にはマジックショーがあり、昔懐かしいマジックでしたが1番の思い出になりました。",
     "hotelMinCharge": 11000,
     "address1": "新潟県",
     "address2": "新発田市月岡278-2",
-    "telephoneNo": "0254-32-2000",
+    "telephoneNo": "00",
     "access": "ＪＲ月岡駅より車で約５分／ＪＲ豊栄駅より車で１５分／磐越道　安田ＩＣより車で約１５分",
     "parkingInformation": "有り　３５０台　無料　",
     "nearestStation": "豊栄",
@@ -59,11 +59,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/53073/53073map.gif",
     "reviewCount": 211,
     "reviewAverage": 4.5,
-    "userReview": "丁寧な料理と温泉でゆったり、また来たい割烹旅館なので食事のハードルを上げすぎたかもしれませんが評判通り丁寧で美味しかったです新発田牛は柔らかくとても美味しかったし一皿づつ運ばれてきたので良…　2026-09-18 13:14:57投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=53073\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "丁寧な料理と温泉でゆったり、また来たい割烹旅館なので食事のハードルを上げすぎたかもしれませんが評判通り丁寧で美味しかったです新発田牛は柔らかくとても美味しかったし一皿づつ運ばれてきたので良。",
     "hotelMinCharge": 23690,
     "address1": "新潟県",
     "address2": "新発田市月岡温泉350",
-    "telephoneNo": "0254-32-3000",
+    "telephoneNo": "00",
     "access": "豊栄駅・新発田駅より車で２０分、月岡駅より１０分（豊栄駅に限り無料送迎有り、３日前まで要連絡）",
     "parkingInformation": "有り　１５台　無料　予約不要",
     "nearestStation": "月岡（新潟）",
@@ -84,11 +84,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/136986/136986map.gif",
     "reviewCount": 195,
     "reviewAverage": 4.62,
-    "userReview": "スタッフの心遣いと料理に感動、部屋も快適スタッフ皆様のおもてなしの心に感動いたしました。特に少し足の不自由な妻に色々と配慮していただき、有り難く感じました。宿泊した部屋もエレベーターの近くで妻にも…　2026-09-18 18:03:50投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=136986\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "スタッフの心遣いと料理に感動、部屋も快適スタッフ皆様のおもてなしの心に感動いたしました。特に少し足の不自由な妻に色々と配慮していただき、有り難く感じました。宿泊した部屋もエレベーターの近くで妻にも。",
     "hotelMinCharge": 41800,
     "address1": "新潟県",
     "address2": "新発田市月岡温泉134",
-    "telephoneNo": "0254-32-1515",
+    "telephoneNo": "15",
     "access": "ＪＲ新潟駅より月岡温泉行きの路線バスあり（片道1,500円/現金のみ）",
     "parkingInformation": "有り　１５０台　無料　予約不要",
     "nearestStation": "豊栄",
@@ -109,11 +109,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29709/29709map.gif",
     "reviewCount": 1833,
     "reviewAverage": 4.74,
-    "userReview": "さすが泉慶、至れり尽くせりで最高!ホテル泉慶には初宿泊でした!さすが泉慶でした!至れり尽くせりで最高のお宿でした!機会があれはまた宿泊しますクチコミの詳細はこちらから　https:…　2026-09-19 17:51:59投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=29709\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "さすが泉慶、至れり尽くせりで最高!ホテル泉慶には初宿泊でした!さすが泉慶でした!至れり尽くせりで最高のお宿でした!機会があれはまた宿泊します。",
     "hotelMinCharge": 17600,
     "address1": "新潟県",
     "address2": "新発田市月岡温泉453番地",
-    "telephoneNo": "0254-32-1111",
+    "telephoneNo": "11",
     "access": "ＪＲ月岡駅より車で１０分／ＪＲ豊栄駅より車で２０分／磐越道　安田ＩＣより車で２０分",
     "parkingInformation": "有　１５０台　無料　",
     "nearestStation": "月岡（新潟）",
@@ -134,11 +134,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/32388/32388map.gif",
     "reviewCount": 1687,
     "reviewAverage": 4.77,
-    "userReview": "全体的に大満足でしたお風呂がとても良かったし、夕食もとても良かった。部屋からは田圃と山々が見えて、癒されました。安くはありませんでしたが、全体的に大満足でした。クチコミの詳細はこちらから　ht…　2026-09-19 22:55:23投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=32388\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "全体的に大満足でしたお風呂がとても良かったし、夕食もとても良かった。部屋からは田圃と山々が見えて、癒されました。安くはありませんでしたが、全体的に大満足でした。",
     "hotelMinCharge": 23100,
     "address1": "新潟県",
     "address2": "新発田市月岡温泉134",
-    "telephoneNo": "0254-32-1515",
+    "telephoneNo": "15",
     "access": "新潟駅や空港から最も近い温泉地／JR新発田駅より有料定時シャトルバス運行",
     "parkingInformation": "有り　１５０台　無料",
     "nearestStation": "豊栄",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「月岡温泉 ホテル清風苑」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「月岡温泉 ホテル清風苑」へは、ＪＲ月岡駅より車で約５分／ＪＲ豊栄駅より車で１５分／磐越道 安田ＩＣより車で約１５分。最寄りの豊栄駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「月岡温泉 ホテル清風苑」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「月岡温泉 ホテル清風苑」は『5つ星の宿〇プロが選ぶ日本の旅館１００選受賞！ビュッフェスタイルから特撰会席まで多彩なお料』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「月岡温泉 ホテル清風苑」と「月岡温泉 白玉の湯 泉慶」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「月岡温泉 ホテル清風苑」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「月岡温泉 ホテル清風苑」へは、ＪＲ月岡駅より車で約５分／ＪＲ豊栄駅より車で１５分／磐越道 安田ＩＣより車で約１５分。最寄りの豊栄駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「月岡温泉 ホテル清風苑」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「月岡温泉 ホテル清風苑」は『5つ星の宿〇プロが選ぶ日本の旅館１００選受賞！ビュッフェスタイルから特撰会席まで多彩なお料。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「月岡温泉 ホテル清風苑」と「月岡温泉 白玉の湯 泉慶」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -628,7 +628,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「月岡温泉 ホテル清風苑」は『5つ星の宿〇プロが選ぶ日本の旅館１００選受賞！ビュッフェスタイルから特撰会席まで多彩なお料』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「月岡温泉 ホテル清風苑」は『5つ星の宿〇プロが選ぶ日本の旅館１００選受賞！ビュッフェスタイルから特撰会席まで多彩なお料。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/car-free-train-access-girls-trip-stay"
   };
 
@@ -83,7 +83,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/191668/191668map.gif",
     "reviewCount": 1074,
     "reviewAverage": 4.48,
-    "userReview": "機能的な部屋と最高の温泉、仙台らしい朝食部屋は狭いですが機能的で無駄がなくよかったです。温泉が最高に気持ち良く体に良さそうです。朝食は種類は少ないけど 仙台らしいものが複数あり 焼きたてパンも美味…　2026-09-19 11:40:40投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=191668\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "機能的な部屋と最高の温泉、仙台らしい朝食部屋は狭いですが機能的で無駄がなくよかったです。温泉が最高に気持ち良く体に良さそうです。朝食は種類は少ないけど 仙台らしいものが複数あり 焼きたてパンも美味。",
     "hotelMinCharge": 5320,
     "address1": "宮城県",
     "address2": "仙台市宮城野区名掛丁203-12",
@@ -108,11 +108,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50750/50750map.gif",
     "reviewCount": 5272,
     "reviewAverage": 4.22,
-    "userReview": "旭川でゆっくり、お風呂と朝食が最高初めての旭川。2泊。ゆっくり楽しめました。風呂、朝食が、ポイント高いですクチコミの詳細はこちらから　https://review.travel.rakuten…　2026-09-19 12:11:49投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=50750\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "旭川でゆっくり、お風呂と朝食が最高初めての旭川。2泊。ゆっくり楽しめました。風呂、朝食が、ポイント高いです。",
     "hotelMinCharge": 2688,
     "address1": "北海道",
     "address2": "旭川市1条通7丁目",
-    "telephoneNo": "0166-73-7430",
+    "telephoneNo": "30",
     "access": "ＪＲ旭川駅『北口(西側)』より徒歩３分",
     "parkingInformation": "先着順800円~1,100円車種により異なります。満車時とワゴン、バイクは徒歩圏内の提携先へご案内。",
     "nearestStation": "旭川",
@@ -133,7 +133,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/168794/168794map.gif",
     "reviewCount": 736,
     "reviewAverage": 4.06,
-    "userReview": "駅近で恐竜が可愛く、お風呂とトイレが別で快適近鉄難波駅や道頓堀も近く、恐竜のお出迎えが可愛くてまた行きたくなりました何よりお風呂とトイレが分かれているのが良かったです。クチコミの詳細はこちらか…　2026-09-16 16:31:29投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=168794\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "駅近で恐竜が可愛く、お風呂とトイレが別で快適近鉄難波駅や道頓堀も近く、恐竜のお出迎えが可愛くてまた行きたくなりました何よりお風呂とトイレが分かれているのが良かったです。",
     "hotelMinCharge": 4050,
     "address1": "大阪府",
     "address2": "大阪市中央区西心斎橋2-10-16",

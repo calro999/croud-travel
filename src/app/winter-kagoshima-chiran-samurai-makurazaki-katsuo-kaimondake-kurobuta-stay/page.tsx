@@ -359,7 +359,7 @@ export default function FeaturePage() {
 
                     <div className="bg-amber-50/70 border border-amber-200/60 rounded-lg p-3 text-xs text-stone-700 space-y-1">
                       <span className="font-bold text-amber-900 block">宿泊者のクチコミ・評判抜粋</span>
-                      <p className="line-clamp-2 italic text-stone-600">「景色が最高で素晴らしい眺め景色最高でした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/50792?reviewI…　2026-09-14 16:19:34投稿 つづきはこちら」</p>
+                      <p className="line-clamp-2 italic text-stone-600">「景色が最高で素晴らしい眺め景色最高でした。」</p>
                     </div>
                   </div>
                 </div>
@@ -434,7 +434,7 @@ export default function FeaturePage() {
 
                     <div className="bg-amber-50/70 border border-amber-200/60 rounded-lg p-3 text-xs text-stone-700 space-y-1">
                       <span className="font-bold text-amber-900 block">宿泊者のクチコミ・評判抜粋</span>
-                      <p className="line-clamp-2 italic text-stone-600">「砂蒸し温泉と丁寧なおもてなしに大満足白水館とても良かったです。車を玄関近くまで入ることができ、お出迎えしていただきました。部屋も海辺が見え眺めが良かったです。何より温泉は広く砂蒸しも指宿の潮の香り…　2026-10-02 22:23:42投稿 つづきはこちら」</p>
+                      <p className="line-clamp-2 italic text-stone-600">「砂蒸し温泉と丁寧なおもてなしに大満足白水館とても良かったです。車を玄関近くまで入ることができ、お出迎えしていただきました。部屋も海辺が見え眺めが良かったです。何より温泉は広く砂蒸しも指宿の潮の香り。」</p>
                     </div>
                   </div>
                 </div>
@@ -509,7 +509,7 @@ export default function FeaturePage() {
 
                     <div className="bg-amber-50/70 border border-amber-200/60 rounded-lg p-3 text-xs text-stone-700 space-y-1">
                       <span className="font-bold text-amber-900 block">宿泊者のクチコミ・評判抜粋</span>
-                      <p className="line-clamp-2 italic text-stone-600">「部屋露天風呂からの絶景と揚げたて薩摩揚げ初の鹿児島宿泊に吟松を選びました。理由は1源泉掛け流しの部屋露天風呂からの眺望2目の前で作られる薩摩揚げ3砂蒸温泉部屋露天風呂:眼下に海(錦…　2026-10-02 11:58:18投稿 つづきはこちら」</p>
+                      <p className="line-clamp-2 italic text-stone-600">「部屋露天風呂からの絶景と揚げたて薩摩揚げ初の鹿児島宿泊に吟松を選びました。理由は1源泉掛け流しの部屋露天風呂からの眺望2目の前で作られる薩摩揚げ3砂蒸温泉部屋露天風呂:眼下に海(錦。」</p>
                     </div>
                   </div>
                 </div>
@@ -520,7 +520,7 @@ export default function FeaturePage() {
                       <MapPin className="w-3.5 h-3.5 text-rose-500" />
                       <span>鹿児島県 指宿市湯の浜5-26-29</span>
                     </div>
-                    <div className="text-stone-700 pl-4.5">車やレンタカー：カーナビに0993-22-3231をご設定下さい　タクシー：ＪＲ指宿駅から４分　</div>
+                    <div className="text-stone-700 pl-4.5">車やレンタカー：カーナビに31をご設定下さい　タクシー：ＪＲ指宿駅から４分　</div>
                     <div className="text-stone-700 pl-4.5 font-medium">目安料金: <span className="text-cyan-800 font-bold">¥14,300〜</span>（1名あたり/時期により変動）</div>
                   </div>
                   <a
@@ -584,7 +584,7 @@ export default function FeaturePage() {
 
                     <div className="bg-amber-50/70 border border-amber-200/60 rounded-lg p-3 text-xs text-stone-700 space-y-1">
                       <span className="font-bold text-amber-900 block">宿泊者のクチコミ・評判抜粋</span>
-                      <p className="line-clamp-2 italic text-stone-600">「家族旅行で使用しました名高い指宿温泉ですがちょっと市街地からは離れているので静かです近くにコンビニはないので予め買っておくのが良いでしょう駐車場は施設の前で安心ですお部屋は海側できれいな景色でした温泉…　2026-10-01 18:08:03投稿 つづきはこちら」</p>
+                      <p className="line-clamp-2 italic text-stone-600">「家族旅行で使用しました名高い指宿温泉ですがちょっと市街地からは離れているので静かです近くにコンビニはないので予め買っておくのが良いでしょう駐車場は施設の前で安心ですお部屋は海側できれいな景色でした温泉。」</p>
                     </div>
                   </div>
                 </div>
@@ -659,7 +659,7 @@ export default function FeaturePage() {
 
                     <div className="bg-amber-50/70 border border-amber-200/60 rounded-lg p-3 text-xs text-stone-700 space-y-1">
                       <span className="font-bold text-amber-900 block">宿泊者のクチコミ・評判抜粋</span>
-                      <p className="line-clamp-2 italic text-stone-600">「リニューアルされてキレイ夕食のお刺身が新鮮でおいしかった。到着時間が伝えてあるにもかかわらず、部屋に入るとエアコンはついていなくて残念でした。クチコミの詳細はこちらから　https://r…　2026-09-12 06:31:36投稿 つづきはこちら」</p>
+                      <p className="line-clamp-2 italic text-stone-600">「リニューアルされてキレイ夕食のお刺身が新鮮でおいしかった。」</p>
                     </div>
                   </div>
                 </div>

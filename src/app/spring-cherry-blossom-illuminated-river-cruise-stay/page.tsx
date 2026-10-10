@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-27",
-    "dateModified": "2026-09-27",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/spring-cherry-blossom-illuminated-river-cruise-stay"
   };
 
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D182122%26f_flg%3DPLAN",
     "hotelMinCharge": 28600,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/182122/182122.jpg",
-    "userReview": "また利用したいと思える場所他の画像やクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/182122?reviewId=33…　2026-09-16 20:47:03投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=182122\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "また利用したいと思える場所他の画像や。",
     "reviewAverage": 4.58,
     "reviewCount": 76,
     "address": "北海道函館市湯川町1-2-27",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D9273%26f_flg%3DPLAN",
     "hotelMinCharge": 20900,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9273/9273.jpg",
-    "userReview": "露天風呂と牡丹鍋、縁側でのんびり満喫露天風呂付きのお部屋で、ゆっくり過ごす事が出来ました!料理も牡丹鍋など、とても美味しかったです。どうしても鮎の塩焼きが食べたかったので、追加で注文させて頂き…　2026-09-07 21:01:09投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=9273\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "露天風呂と牡丹鍋、縁側でのんびり満喫露天風呂付きのお部屋で、ゆっくり過ごす事が出来ました!料理も牡丹鍋など、とても美味しかったです。どうしても鮎の塩焼きが食べたかったので、追加で注文させて頂き。",
     "reviewAverage": 4.73,
     "reviewCount": 295,
     "address": "奈良県吉野郡天川村洞川240",

@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/retro-showa-nostalgic-hotspring-inn-stay"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D5263%26f_flg%3DPLAN",
     "hotelMinCharge": 7150,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5263/5263.jpg",
-    "userReview": "建物は古いが清潔、温泉と食事に大満足 宿泊された皆さんが言われる様に建物はねんきが入っていますが、清潔で管理されていました 今回2階でしたが畳新しく水廻り新しい感じです移動に階段の上り下りが結…　2026-09-19 23:28:07投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=5263\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "建物は古いが清潔、温泉と食事に大満足 宿泊された皆さんが言われる様に建物はねんきが入っていますが、清潔で管理されていました 今回2階でしたが畳新しく水廻り新しい感じです移動に階段の上り下りが結。",
     "reviewAverage": 4.35,
     "reviewCount": 341,
     "address": "長野県松本市浅間温泉3-4-12",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D41009%26f_flg%3DPLAN",
     "hotelMinCharge": 15675,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/41009/41009.jpg",
-    "userReview": "歴史ある建物と温泉に癒やされ、次は数泊したい酸ヶ湯温泉はお風呂だけでも最高ですが、歴史を積んだ建物の中にいるだけで体の中が清められていくのを感じます。ピカピカに磨き上げられた廊下は裸足で歩きたいく…　2026-09-18 15:40:17投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=41009\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "歴史ある建物と温泉に癒やされ、次は数泊したい酸ヶ湯温泉はお風呂だけでも最高ですが、歴史を積んだ建物の中にいるだけで体の中が清められていくのを感じます。ピカピカに磨き上げられた廊下は裸足で歩きたいく。",
     "reviewAverage": 4.41,
     "reviewCount": 1535,
     "address": "青森県青森市荒川字南荒川山国有林小字酸湯沢50",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D75165%26f_flg%3DPLAN",
     "hotelMinCharge": 9900,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/75165/75165.jpg",
-    "userReview": "昭和の趣と清潔感、貸切温泉が魅力建物は古いのですがよい意味で昭和を感じさせます。また清掃が行き届いており清潔感があります。風呂は2カ所ですが温泉の香りが良く、そして入れば貸し切りとなります。部屋の…　2026-08-28 19:18:54投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=75165\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "昭和の趣と清潔感、貸切温泉が魅力建物は古いのですがよい意味で昭和を感じさせます。また清掃が行き届いており清潔感があります。風呂は2カ所ですが温泉の香りが良く、そして入れば貸し切りとなります。部屋の。",
     "reviewAverage": 4.85,
     "reviewCount": 118,
     "address": "長野県千曲市上山田温泉1-69-1",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D40046%26f_flg%3DPLAN",
     "hotelMinCharge": 14300,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40046/40046.jpg",
-    "userReview": "重要文化財の佇まいと最高の泉質に感動重要文化財の宿の廊下を歩いてると、外を歩いてる人々がカメラにおさめてました。正面玄関カッちょいーです。なんといってもお風呂!洞窟みたいなお風呂もさること…　2026-09-05 22:04:24投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=40046\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "重要文化財の佇まいと最高の泉質に感動重要文化財の宿の廊下を歩いてると、外を歩いてる人々がカメラにおさめてました。正面玄関カッちょいーです。なんといってもお風呂!洞窟みたいなお風呂もさること。",
     "reviewAverage": 4.42,
     "reviewCount": 278,
     "address": "鳥取県東伯郡三朝町三朝302-1",

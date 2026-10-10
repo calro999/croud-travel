@@ -37,8 +37,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-17T00:00:00+09:00',
-    dateModified: '2026-09-17T00:00:00+09:00',
+    datePublished: 'T00:00:00+09:00',
+    dateModified: 'T00:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/kanagawa-hakone-sengokuhara-autumn-solo-retreat-onsen-stay',
   };
 
@@ -79,7 +79,7 @@ export default function ArticlePage() {
             【10月・11月秋の箱根仙石原ひとり旅・黄金色ススキ草原と白濁硫黄泉おこもり】全室露天風呂・北海道×箱根の極上和懐石！秋深まる高原リトリート厳選3宿
           </h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
-            更新日：2026年9月17日 | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
+            更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -363,9 +363,9 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 箱根湯本駅よりアクセス。箱根湯本駅よりお車にて約25分、東名高速道路御殿場ICからお車で約25分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「全室露天風呂付客室 仙石原温泉 センチュリオン箱根別邸」にチェックイン。◆自然に囲まれた13室の隠れ温泉宿◆全室客室露天風呂完備 オーナーこだわりの世界をお愉しみ下さい。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「全室露天風呂付客室 仙石原温泉 センチュリオン箱根別邸」の湯処へ。◆自然に囲まれた13室の隠れ温泉宿◆全室客室露天風呂完備 オーナーこだとともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「全室露天風呂付客室 仙石原温泉 センチュリオン箱根別邸」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「全室露天風呂付客室 仙石原温泉 センチュリオン箱根別邸。」にチェックイン。◆自然に囲まれた13室の隠れ温泉宿◆全室客室露天風呂完備 オーナーこだわりの世界をお愉しみ下さい。などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「全室露天風呂付客室 仙石原温泉 センチュリオン箱根別邸。」の湯処へ。◆自然に囲まれた13室の隠れ温泉宿◆全室客室露天風呂完備 オーナーこだとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「全室露天風呂付客室 仙石原温泉 センチュリオン箱根別邸。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -374,8 +374,8 @@ export default function ArticlePage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「全室露天風呂付客室 仙石原温泉 センチュリオン箱根別邸」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「全室露天風呂付客室 仙石原温泉 センチュリオン箱根別邸」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「全室露天風呂付客室 仙石原温泉 センチュリオン箱根別邸。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「全室露天風呂付客室 仙石原温泉 センチュリオン箱根別邸。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「仙石原温泉 きたの風茶寮」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>

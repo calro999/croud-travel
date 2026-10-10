@@ -49,7 +49,7 @@ export default function FurusatoSetouchiIslandResortStayPage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「小豆島国際ホテル ＜小豆島＞」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「小豆島国際ホテル ＜小豆島＞」へは、土庄港よりお車にて約７分。最寄りの高松（香川）駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「小豆島国際ホテル ＜小豆島＞」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「小豆島国際ホテル ＜小豆島＞」は『小豆島で最もエンジェルロードに近いオーシャンビュー絶景リゾート』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「小豆島国際ホテル ＜小豆島＞」と「鞆の浦温泉 汀邸 遠音近音」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「小豆島国際ホテル ＜小豆島＞」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「小豆島国際ホテル ＜小豆島＞」へは、土庄港よりお車にて約７分。最寄りの高松（香川）駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「小豆島国際ホテル ＜小豆島＞」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「小豆島国際ホテル ＜小豆島＞」は『小豆島で最もエンジェルロードに近いオーシャンビュー絶景リゾート。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「小豆島国際ホテル ＜小豆島＞」と「鞆の浦温泉 汀邸 遠音近音」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -195,7 +195,7 @@ export default function FurusatoSetouchiIslandResortStayPage() {
                     小豆島の象徴的な観光名所であり、「大切な人と手を繋いで渡ると願いが叶う」とされるエンジェルロードに最も近い全室オーシャンビューのリゾートホテル。客室の窓や海沿いの露天風呂からは、潮の満ち引きによって現れたり消えたりする砂の道を間近に見下ろすことができます。肌にしっとりと馴染む小豆島温泉の大浴場、小豆島名産のオリーブ牛や讃岐うどん、瀬戸内の新鮮な海の幸を贅沢に盛り込んだ会席料理も大好評。瀬戸内海の穏やかな潮風に吹かれながらロマンチックで贅沢な島時間を満喫できます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「エンジェルロードを望む絶景と美味しいご飯エンジェルロード真横で部屋から状況が見れるのがとても良かったです!晩御飯のお魚もとっても美味しくて、醤油の名産地ということもあり3種類準備されていて色ん… 2026-09-02 19:35:56投稿 …」
+                    「エンジェルロードを望む絶景と美味しいご飯エンジェルロード真横で部屋から状況が見れるのがとても良かったです!晩御飯のお魚もとっても美味しくて、醤油の名産地ということもあり3種類準備されていて色ん…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -256,7 +256,7 @@ export default function FurusatoSetouchiIslandResortStayPage() {
                     日本屈指の景勝地・鞆の浦の海岸線に佇み、江戸時代の面影を残す歴史情緒と現代の快適性が調和した大人のための全室温泉露天風呂付き名旅館。全客室のテラスに備えられた客室露天風呂からは、波静かな鞆の浦の海とパワースポットとして知られる仙酔島が一望できます。夕食には瀬戸内名物の小鯛や渡り蟹、アコウなど鞆の浦漁港で揚がった最高鮮度の魚介を職人が丁寧に仕立てる会席料理を提供。海を眺めながら静寂の中で温泉に浸かる、プライベート感あふれる極上の休日をお過ごしいただけます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「料理も温泉も最高、帰りたくないほど満足全部美味しくいただきましたがその中でも1番と2番を選びました!料理はもちろんお風呂やおもてなし、清潔感全てが最高で帰りたくないほどでした。また行きたい… 2026-07-07 16:49:21投稿 つづ…」
+                    「料理も温泉も最高、帰りたくないほど満足全部美味しくいただきましたがその中でも1番と2番を選びました!料理はもちろんお風呂やおもてなし、清潔感全てが最高で帰りたくないほどでした。また行きたい… つづ。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -481,7 +481,7 @@ export default function FurusatoSetouchiIslandResortStayPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「小豆島国際ホテル ＜小豆島＞」は『小豆島で最もエンジェルロードに近いオーシャンビュー絶景リゾート』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「小豆島国際ホテル ＜小豆島＞」は『小豆島で最もエンジェルロードに近いオーシャンビュー絶景リゾート。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

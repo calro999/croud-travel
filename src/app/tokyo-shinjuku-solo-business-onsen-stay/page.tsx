@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tokyo-shinjuku-solo-business-onsen-stay/" },
   title: '【新宿出張・大浴場スパステイ】高層ビル夜景・都心展望スパ・新宿御苑！世界最大のターミナルを制する厳選3宿',
-  description: 'JR・私鉄各線が乗り入れる世界最大の乗降客数を誇る新宿駅！高層ビル街でハイクラスな滞在と快適デスクを誇る「ダイワロイネットホテル西新宿 PREMIER」、新宿御苑前駅すぐで人工温泉大浴殿を完備した「アパホテル〈新宿御苑前〉」、展望プールと露天風呂付き大浴場を備える「アパホテル＆リゾート〈西新宿五丁目駅前タワー〉」を徹底比較。',
+  description: 'JR・私鉄各線が乗り入れる世界最大の乗降客数を誇る新宿駅！高層ビル街でハイクラスな滞在と快適デスクを誇る「ダイワロイネットホテル西新宿 PREMIER。」、新宿御苑前駅すぐで人工温泉大浴殿を完備した「アパホテル〈新宿御苑前〉」、展望プールと露天風呂付き大浴場を備える「アパホテル＆リゾート〈西新宿五丁目駅前タワー〉。」を徹底比較。',
   keywords: '新宿 出張 ホテル,新宿 ホテル 大浴場,ダイワロイネット西新宿PREMIER,アパホテル新宿御苑前,アパホテル西新宿五丁目駅前タワー,新宿 ひとり旅',
   openGraph: {
     title: '【新宿出張・大浴場スパステイ】高層ビル夜景・都心展望スパ・新宿御苑！世界最大のターミナルを制する厳選3宿',
-    description: 'JR・私鉄各線が乗り入れる世界最大の乗降客数を誇る新宿駅！高層ビル街でハイクラスな滞在と快適デスクを誇る「ダイワロイネットホテル西新宿 PREMIER」、新宿御苑前駅すぐで人工温泉大浴殿を完備した「アパホテル〈新宿御苑前〉」、展望プールと露天風呂付き大浴場を備える「アパホテル＆リゾート〈西新宿五丁目駅前タワー〉」を徹底比較。',
+    description: 'JR・私鉄各線が乗り入れる世界最大の乗降客数を誇る新宿駅！高層ビル街でハイクラスな滞在と快適デスクを誇る「ダイワロイネットホテル西新宿 PREMIER。」、新宿御苑前駅すぐで人工温泉大浴殿を完備した「アパホテル〈新宿御苑前〉」、展望プールと露天風呂付き大浴場を備える「アパホテル＆リゾート〈西新宿五丁目駅前タワー〉。」を徹底比較。',
     url: 'https://croud-travel.pages.dev/tokyo-shinjuku-solo-business-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【新宿出張・大浴場スパステイ】高層ビル夜景・都心展望スパ・新宿御苑！世界最大のターミナルを制する厳選3宿',
-    description: 'JR・私鉄各線が乗り入れる世界最大の乗降客数を誇る新宿駅！高層ビル街でハイクラスな滞在と快適デスクを誇る「ダイワロイネットホテル西新宿 PREMIER」、新宿御苑前駅すぐで人工温泉大浴殿を完備した「アパホテル〈新宿御苑前〉」、展望プールと露天風呂付き大浴場を備える「アパホテル＆リゾート〈西新宿五丁目駅前タワー〉」を徹底比較。',
+    description: 'JR・私鉄各線が乗り入れる世界最大の乗降客数を誇る新宿駅！高層ビル街でハイクラスな滞在と快適デスクを誇る「ダイワロイネットホテル西新宿 PREMIER。」、新宿御苑前駅すぐで人工温泉大浴殿を完備した「アパホテル〈新宿御苑前〉」、展望プールと露天風呂付き大浴場を備える「アパホテル＆リゾート〈西新宿五丁目駅前タワー〉。」を徹底比較。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・出張調査班',
@@ -37,8 +37,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-13T00:00:00+09:00',
-    dateModified: '2026-09-13T00:00:00+09:00',
+    datePublished: 'T00:00:00+09:00',
+    dateModified: 'T00:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/tokyo-shinjuku-solo-business-onsen-stay',
   };
 
@@ -47,7 +47,7 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"西新宿のオフィス街で最も快適な滞在ができるホテルは？","acceptedAnswer":{"@type":"Answer","text":"「ダイワロイネットホテル西新宿 PREMIER」は全室バス・トイレ別のセパレートタイプ。広々としたデスクと充実の客室アメニティで出張に最適です。"}},{"@type":"Question","name":"新宿周辺で大浴場と露天風呂が付いているホテルは？","acceptedAnswer":{"@type":"Answer","text":"「アパホテル＆リゾート〈西新宿五丁目駅前タワー〉」は最上階に大浴殿「玄要の湯」と露天風呂を完備し、都会にいながら本格リゾート気分を味わえます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"西新宿のオフィス街で最も快適な滞在ができるホテルは？","acceptedAnswer":{"@type":"Answer","text":"「ダイワロイネットホテル西新宿 PREMIER。」は全室バス・トイレ別のセパレートタイプ。広々としたデスクと充実の客室アメニティで出張に最適です。"}},{"@type":"Question","name":"新宿周辺で大浴場と露天風呂が付いているホテルは？","acceptedAnswer":{"@type":"Answer","text":"「アパホテル＆リゾート〈西新宿五丁目駅前タワー〉。」は最上階に大浴殿「玄要の湯」と露天風呂を完備し、都会にいながら本格リゾート気分を味わえます。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -76,7 +76,7 @@ export default function ArticlePage() {
           【新宿出張・大浴場スパステイ】高層ビル夜景・都心展望スパ・新宿御苑！世界最大のターミナルを制する厳選3宿
         </h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
-          <time dateTime="2026-09-13">2026.09.13 更新</time>
+          <time dateTime="">2026.09.13 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
         </div>
@@ -341,7 +341,7 @@ export default function ArticlePage() {
                 <span>西新宿のオフィス街で最も快適な滞在ができるホテルは？</span>
               </h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
-                「ダイワロイネットホテル西新宿 PREMIER」は全室バス・トイレ別のセパレートタイプ。広々としたデスクと充実の客室アメニティで出張に最適です。
+                「ダイワロイネットホテル西新宿 PREMIER。」は全室バス・トイレ別のセパレートタイプ。広々としたデスクと充実の客室アメニティで出張に最適です。
               </p>
             </div>
             <div className="bg-white p-4 sm:p-5 rounded-xl border border-stone-200">
@@ -350,7 +350,7 @@ export default function ArticlePage() {
                 <span>新宿周辺で大浴場と露天風呂が付いているホテルは？</span>
               </h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
-                「アパホテル＆リゾート〈西新宿五丁目駅前タワー〉」は最上階に大浴殿「玄要の湯」と露天風呂を完備し、都会にいながら本格リゾート気分を味わえます。
+                「アパホテル＆リゾート〈西新宿五丁目駅前タワー〉。」は最上階に大浴殿「玄要の湯」と露天風呂を完備し、都会にいながら本格リゾート気分を味わえます。
               </p>
             </div>
           </div>

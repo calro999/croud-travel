@@ -7,11 +7,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/morioka-solo-business-noodles-onsen-stay/" },
   title: '【盛岡出張＆麺都ひとり旅】盛岡駅近・天然温泉大浴場・盛岡三大麺（冷麺・じゃじゃ麺・わんこそば）！北東北の要所で整う極上宿 厳選3選',
-  description: '東北・秋田新幹線の結節点・岩手県盛岡市！「JR盛岡駅前徒歩すぐで広々バスルーム完備」の「ダイワロイネットホテル盛岡駅前」、最上階に自家源泉の天然温泉大浴場と夜鳴きそば完備の「ドーミーイン盛岡」、駅直結で快適なワーク環境を誇る老舗「ホテルメトロポリタン盛岡 本館」を徹底比較。',
+  description: '東北・秋田新幹線の結節点・岩手県盛岡市！「JR盛岡駅前徒歩すぐで広々バスルーム完備。」の「ダイワロイネットホテル盛岡駅前」、最上階に自家源泉の天然温泉大浴場と夜鳴きそば完備の「ドーミーイン盛岡」、駅直結で快適なワーク環境を誇る老舗「ホテルメトロポリタン盛岡 本館」を徹底比較。',
   keywords: '盛岡 出張 ホテル おすすめ,盛岡 一人旅 ホテル,ドーミーイン盛岡 温泉,ダイワロイネットホテル盛岡駅前 宿泊,盛岡 冷麺 ホテル',
   openGraph: {
     title: '【盛岡出張＆麺都ひとり旅】盛岡駅近・天然温泉大浴場・盛岡三大麺（冷麺・じゃじゃ麺・わんこそば）！北東北の要所で整う極上宿 厳選3選',
-    description: '東北・秋田新幹線の結節点・岩手県盛岡市！「JR盛岡駅前徒歩すぐで広々バスルーム完備」の「ダイワロイネットホテル盛岡駅前」、最上階に自家源泉の天然温泉大浴場と夜鳴きそば完備の「ドーミーイン盛岡」、駅直結で快適なワーク環境を誇る老舗「ホテルメトロポリタン盛岡 本館」を徹底比較。',
+    description: '東北・秋田新幹線の結節点・岩手県盛岡市！「JR盛岡駅前徒歩すぐで広々バスルーム完備。」の「ダイワロイネットホテル盛岡駅前」、最上階に自家源泉の天然温泉大浴場と夜鳴きそば完備の「ドーミーイン盛岡」、駅直結で快適なワーク環境を誇る老舗「ホテルメトロポリタン盛岡 本館」を徹底比較。',
     url: 'https://croud-travel.pages.dev/morioka-solo-business-noodles-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -24,7 +24,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【盛岡出張＆麺都ひとり旅】盛岡駅近・天然温泉大浴場・盛岡三大麺（冷麺・じゃじゃ麺・わんこそば）！北東北の要所で整う極上宿 厳選3選',
-    description: '東北・秋田新幹線の結節点・岩手県盛岡市！「JR盛岡駅前徒歩すぐで広々バスルーム完備」の「ダイワロイネットホテル盛岡駅前」、最上階に自家源泉の天然温泉大浴場と夜鳴きそば完備の「ドーミーイン盛岡」、駅直結で快適なワーク環境を誇る老舗「ホテルメトロポリタン盛岡 本館」を徹底比較。',
+    description: '東北・秋田新幹線の結節点・岩手県盛岡市！「JR盛岡駅前徒歩すぐで広々バスルーム完備。」の「ダイワロイネットホテル盛岡駅前」、最上階に自家源泉の天然温泉大浴場と夜鳴きそば完備の「ドーミーイン盛岡」、駅直結で快適なワーク環境を誇る老舗「ホテルメトロポリタン盛岡 本館」を徹底比較。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・出張調査班',
@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-12T15:30:00+09:00',
-    dateModified: '2026-09-12T15:30:00+09:00',
+    datePublished: 'T15:30:00+09:00',
+    dateModified: 'T15:30:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/morioka-solo-business-noodles-onsen-stay',
   };
 
@@ -78,7 +78,7 @@ export default function ArticlePage() {
           【盛岡出張＆麺都ひとり旅】盛岡駅近・天然温泉大浴場・盛岡三大麺（冷麺・じゃじゃ麺・わんこそば）！北東北の要所で整う極上宿 厳選3選
         </h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
-          東北・秋田新幹線の結節点・岩手県盛岡市！「JR盛岡駅前徒歩すぐで広々バスルーム完備」の「ダイワロイネットホテル盛岡駅前」、最上階に自家源泉の天然温泉大浴場と夜鳴きそば完備の「ドーミーイン盛岡」、駅直結で快適なワーク環境を誇る老舗「ホテルメトロポリタン盛岡 本館」を徹底比較。
+          東北・秋田新幹線の結節点・岩手県盛岡市！「JR盛岡駅前徒歩すぐで広々バスルーム完備。」の「ダイワロイネットホテル盛岡駅前」、最上階に自家源泉の天然温泉大浴場と夜鳴きそば完備の「ドーミーイン盛岡」、駅直結で快適なワーク環境を誇る老舗「ホテルメトロポリタン盛岡 本館」を徹底比較。
         </p>
       </header>
 
@@ -161,7 +161,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.52点。「駅近で部屋が広く、お風呂とトイレが別でとても快適でした」「新しく清潔で、盛岡出張の際は必ずここに泊まります」とビジネス客から大絶賛。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.52点。「駅近で部屋が広く、お風呂とトイレが別でとても快適でした。」「新しく清潔で、盛岡出張の際は必ずここに泊まります。」とビジネス客から大絶賛。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -236,7 +236,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.53点。「繁華街すぐで温泉とサウナに入れるのが最高でした」「朝食の冷麺が美味しく、夜鳴きそばのサービスも嬉しかった」と高評価。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.53点。「繁華街すぐで温泉とサウナに入れるのが最高でした。」「朝食の冷麺が美味しく、夜鳴きそばのサービスも嬉しかった。」と高評価。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -311,7 +311,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.37点。「駅直結でこれ以上便利な立地はない。スタッフの対応も親切で安心感がありました」「雨の日でも濡れずにチェックインできて助かりました」と定評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.37点。「駅直結でこれ以上便利な立地はない。スタッフの対応も親切で安心感がありました。」「雨の日でも濡れずにチェックインできて助かりました。」と定評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">

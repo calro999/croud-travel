@@ -62,7 +62,7 @@ export default function FurusatoEchigoYuzawaOnsenStayPage() {
           川端康成『雪国』の舞台！越後湯沢温泉の展望絶景露天風呂＆本場魚沼産コシヒカリ・越後地酒名門宿×ふるさと納税完全攻略ガイド【2026年最新】双葉・NASPAニューオータニ・いなもと
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-10">2026年9月10日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -77,7 +77,7 @@ export default function FurusatoEchigoYuzawaOnsenStayPage() {
           国境の長いトンネルを抜けると雪国であった。名峰・谷川連峰のパノラマと本場の米・酒に酔いしれる湯沢の休日へ
         </h2>
         <p className="text-base md:text-lg text-gray-800 leading-relaxed mb-6">
-          ノーベル文学賞作家・川端康成の名作小説『雪国』の冒頭「国境の長いトンネルを抜けると雪国であった」の舞台として名高い、新潟県を代表する温泉郷「越後湯沢温泉（えちごゆざわおんせん）」。上越新幹線で東京駅から最速約70分という驚異的なアクセスの良さを誇りながら、冬は白銀のパウダースノーが山々を包み込み、春から秋には清々しい緑と澄んだ空気が広がる四季の彩り豊かな温泉地です。越後湯沢温泉のお湯は、無色透明でさらりとした肌あたりの単純温泉や弱アルカリ性低張性温泉。神経痛や冷え性に優れ、旅の疲れを芯から解きほぐしてくれます。雪見露天風呂に身を沈めながら、目の前に広がる谷川連峰の山並みを眺める時間はまさに至福のひととき。さらに越後湯沢の最大の醍醐味は、日本一の米どころ・酒どころが誇る圧倒的な美食文化です。炊き立てで艶やかに輝く本場「魚沼産コシヒカリ」の銀シャリ、清らかな雪解け水と伝統の杜氏技が醸し出す新潟の銘酒（八海山、鶴齢、上善如水など）の利き酒、そして日本海の荒波で育った新鮮な海の幸や山菜料理が、旅の満足度を最高潮に高めてくれます。本特集では、館内に二十八もの多彩な湯船が揃い最上階展望露天風呂「空の湯」が評判の「水が織りなす越後の宿 双葉」、広さ250坪の天然温泉大浴場と名門ニューオータニ伝統のフレンチ・和食が光るリゾート「NASPAニューオータニ」、そして駅西口徒歩2分の好立地で100％源泉掛け流し露天風呂が自慢の「越後のお宿 いなもと」の3宿を厳選。新潟県湯沢町への楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円で越後湯沢温泉の極上旅をお得に予約しましょう。
+          ノーベル文学賞作家・川端康成の名作小説『雪国』の冒頭「国境の長いトンネルを抜けると雪国であった。」の舞台として名高い、新潟県を代表する温泉郷「越後湯沢温泉（えちごゆざわおんせん）」。上越新幹線で東京駅から最速約70分という驚異的なアクセスの良さを誇りながら、冬は白銀のパウダースノーが山々を包み込み、春から秋には清々しい緑と澄んだ空気が広がる四季の彩り豊かな温泉地です。越後湯沢温泉のお湯は、無色透明でさらりとした肌あたりの単純温泉や弱アルカリ性低張性温泉。神経痛や冷え性に優れ、旅の疲れを芯から解きほぐしてくれます。雪見露天風呂に身を沈めながら、目の前に広がる谷川連峰の山並みを眺める時間はまさに至福のひととき。さらに越後湯沢の最大の醍醐味は、日本一の米どころ・酒どころが誇る圧倒的な美食文化です。炊き立てで艶やかに輝く本場「魚沼産コシヒカリ」の銀シャリ、清らかな雪解け水と伝統の杜氏技が醸し出す新潟の銘酒（八海山、鶴齢、上善如水など）の利き酒、そして日本海の荒波で育った新鮮な海の幸や山菜料理が、旅の満足度を最高潮に高めてくれます。本特集では、館内に二十八もの多彩な湯船が揃い最上階展望露天風呂「空の湯」が評判の「水が織りなす越後の宿 双葉」、広さ250坪の天然温泉大浴場と名門ニューオータニ伝統のフレンチ・和食が光るリゾート「NASPAニューオータニ」、そして駅西口徒歩2分の好立地で100％源泉掛け流し露天風呂が自慢の「越後のお宿 いなもと」の3宿を厳選。新潟県湯沢町への楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円で越後湯沢温泉の極上旅をお得に予約しましょう。
         </p>
         <div className="bg-white/90 rounded-xl p-4 md:p-5 border border-amber-300 shadow-sm">
           <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5">
@@ -164,7 +164,7 @@ export default function FurusatoEchigoYuzawaOnsenStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “銀婚式の祝い膳とスタッフの細やかな気配り旅行プラン以外でのサービスを感謝。銀婚式の祝い膳やお土産のプレゼント等、気持ち良い気遣いをして頂きました。連泊で宿泊したのですが、個室の夕食の担当し…　2026-09-04 16:56:59投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “銀婚式の祝い膳とスタッフの細やかな気配り旅行プラン以外でのサービスを感謝。銀婚式の祝い膳やお土産のプレゼント等、気持ち良い気遣いをして頂きました。連泊で宿泊したのですが、個室の夕食の担当し… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -206,7 +206,7 @@ export default function FurusatoEchigoYuzawaOnsenStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “清潔なプールと温泉、親切な接客に大満足プールはロッカーも含めて清潔でした。ホテルの方々が皆親切でした。温泉は大変気持ちよかったです飲み放題はその場で作ってくださり、ついつい飲みすぎまし…　2026-09-05 20:54:17投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “清潔なプールと温泉、親切な接客に大満足プールはロッカーも含めて清潔でした。ホテルの方々が皆親切でした。温泉は大変気持ちよかったです飲み放題はその場で作ってくださり、ついつい飲みすぎまし… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -248,7 +248,7 @@ export default function FurusatoEchigoYuzawaOnsenStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “良い温泉が、駅近にアリ越後湯沢には何回も来ていましたが、宿泊は0回。源泉掛け流しと聞き、初宿泊です。良かった点・外観等から、お部屋も古いと思いきや、キレイです。・露天風呂が、気持ちよか…　2026-08-28 09:27:52投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “良い温泉が、駅近にアリ越後湯沢には何回も来ていましたが、宿泊は0回。源泉掛け流しと聞き、初宿泊です。良かった点・外観等から、お部屋も古いと思いきや、キレイです。・露天風呂が、気持ちよか… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -323,7 +323,7 @@ export default function FurusatoEchigoYuzawaOnsenStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

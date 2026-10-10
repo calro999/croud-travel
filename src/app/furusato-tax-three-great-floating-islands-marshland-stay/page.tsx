@@ -190,7 +190,7 @@ export default function FurusatoRound64ArticlePage() {
                     丸沼温泉　環湖荘（かんこそう）
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「地物の食事とニジマス風呂に癒やされる時間 日々の喧騒を忘れ、ゆったりした時間を過ごすことができました。食事は地物の頂鱒をはじめ美味しく、大満足でした。温泉のニジマス風呂はオブジェも楽しく、水槽の… 2026-08-25 23:34:15投稿 つづきはこちら…」
+                    「地物の食事とニジマス風呂に癒やされる時間 日々の喧騒を忘れ、ゆったりした時間を過ごすことができました。食事は地物の頂鱒をはじめ美味しく、大満足でした。温泉のニジマス風呂はオブジェも楽しく、水槽の…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -245,7 +245,7 @@ export default function FurusatoRound64ArticlePage() {
                     天童温泉　ほほえみの宿　滝の湯
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「豪華な夕食と温泉で心身ともにリフレッシュ15時少し前に到着し、店員さんがお出迎えして下さりチェックインしました。親子4人で利用しました。夕食は豪華な料理で堪能し、お腹一杯になり大満足でした。だ… 2026-09-05 14:35:09投稿 つづきはこちら…」
+                    「豪華な夕食と温泉で心身ともにリフレッシュ15時少し前に到着し、店員さんがお出迎えして下さりチェックインしました。親子4人で利用しました。夕食は豪華な料理で堪能し、お腹一杯になり大満足でした。だ…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -300,7 +300,7 @@ export default function FurusatoRound64ArticlePage() {
                     ザ・プリンス　京都宝ヶ池、オートグラフコレクション
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「祇園祭の丁寧な案内と静かな環境でリラックスたまたま祇園祭の期間にとまりました。フロントにお祭りの説明があり、フロントの方がとても丁寧に説明してくれました。京都市なのにしずかな場所にあるので、の… 2026-09-05 09:54:25投稿 つづきはこちら…」
+                    「祇園祭の丁寧な案内と静かな環境でリラックスたまたま祇園祭の期間にとまりました。フロントにお祭りの説明があり、フロントの方がとても丁寧に説明してくれました。京都市なのにしずかな場所にあるので、の…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">

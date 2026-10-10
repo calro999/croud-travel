@@ -34,11 +34,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8498/8498map.gif",
     "reviewCount": 593,
     "reviewAverage": 4.53,
-    "userReview": "清潔な部屋と絶品の料理、泉質も最高部屋は新しくはないものの、清潔に清掃されていました。トイレと手洗い場が一緒なのは少々残念でした。お風呂の泉質は非常に良かった。料理は夜も朝も出てくるもの全て100…　2026-08-16 18:57:15投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=8498\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "清潔な部屋と絶品の料理、泉質も最高部屋は新しくはないものの、清潔に清掃されていました。お風呂の泉質は非常に良かった。料理は夜も朝も出てくるもの全て100。",
     "hotelMinCharge": 11000,
     "address1": "兵庫県",
     "address2": "南あわじ市福良乙4",
-    "telephoneNo": "0799-52-0017",
+    "telephoneNo": "17",
     "access": "ＪＲ三宮駅またはＪＲ舞子駅より福良行きバス　終点より徒歩5分",
     "parkingInformation": "有り　３０台　無料",
     "nearestStation": "三宮",
@@ -63,7 +63,7 @@ const hotels: any[] = [
     "hotelMinCharge": 5300,
     "address1": "徳島県",
     "address2": "三好市池田町白地本名76-2",
-    "telephoneNo": "0883-74-0311",
+    "telephoneNo": "11",
     "access": "徳島自動車道　井川・池田ＩＣより高知方面へ5.8ｋｍ   大歩危祖谷観光やラフティングにも最適です。",
     "parkingInformation": "有り　１５台　無料　先着順",
     "nearestStation": "阿波池田",
@@ -88,7 +88,7 @@ const hotels: any[] = [
     "hotelMinCharge": 14600,
     "address1": "香川県",
     "address2": "さぬき市多和竹屋敷123-1",
-    "telephoneNo": "0879-56-2288",
+    "telephoneNo": "88",
     "access": "高松空港より車で約50分/高松自動車道さぬき志度ICより30分/徳島自動車道脇町ICより30分",
     "parkingInformation": "有り　40台　無料　※専用駐車場です。",
     "nearestStation": "長尾（香川）",
@@ -109,11 +109,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/192038/192038map.gif",
     "reviewCount": 29,
     "reviewAverage": 4.64,
-    "userReview": "お料理も美味しくて、景観も良かったし、お部屋も綺麗でした。ありがとうございました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel…　2026-09-18 19:22:49投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=192038\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "お料理も美味しくて、景観も良かったし、お部屋も綺麗でした。ありがとうございました。",
     "hotelMinCharge": 6600,
     "address1": "徳島県",
     "address2": "那賀郡那賀町百合字松の木310-1",
-    "telephoneNo": "0884-62-1289",
+    "telephoneNo": "89",
     "access": "車：国道195号線から細渕橋を入り看板を目印に道なりに進む。交差点を左に百合トンネルに入ると到着。",
     "parkingInformation": "有り　１０台　無料　予約不要",
     "nearestStation": "新野（徳島）",
@@ -134,11 +134,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9133/9133map.gif",
     "reviewCount": 1328,
     "reviewAverage": 4.5,
-    "userReview": "料理と温泉は最高だが館内の匂いが気になるゆっくり過ごさせていただきましたお料理は地元の食材をふんだんに利用した素敵な内容でした温泉も良いお湯でした残念だったのは脱衣所や廊下等での匂いが…　2026-09-16 18:59:51投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=9133\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "落ち着いた心地よい空間の中、温かい温泉とおいしいお料理で日頃の疲れを癒やすことができました。",
     "hotelMinCharge": 6050,
     "address1": "和歌山県",
     "address2": "西牟婁郡白浜町1870",
-    "telephoneNo": "0739-42-3360",
+    "telephoneNo": "60",
     "access": "ＪＲ白浜駅：車で約１１分／南紀白浜空港：車で約７分／南紀白浜ＩＣ：車で約１5分／アドベンチャーワールド：車で約１０分",
     "parkingInformation": "有り　40台　無料　先着順",
     "nearestStation": "白浜",
@@ -203,7 +203,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「南あわじ温泉郷 潮崎の湯 やぶ萬旅館 ＜淡路島＞」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「南あわじ温泉郷 潮崎の湯 やぶ萬旅館 ＜淡路島＞」へは、ＪＲ三宮駅またはＪＲ舞子駅より福良行きバス 終点より徒歩5分。最寄りの三宮駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「南あわじ温泉郷 潮崎の湯 やぶ萬旅館 ＜淡路島＞」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「南あわじ温泉郷 潮崎の湯 やぶ萬旅館 ＜淡路島＞」は『創業160年の老舗料理旅館！当館名物料理「鯛めん」＆美肌の湯 潮崎温泉 を堪能あれ◎』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「南あわじ温泉郷 潮崎の湯 やぶ萬旅館 ＜淡路島＞」と「白地温泉 小西旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「南あわじ温泉郷 潮崎の湯 やぶ萬旅館 ＜淡路島＞。」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「南あわじ温泉郷 潮崎の湯 やぶ萬旅館 ＜淡路島＞。」へは、ＪＲ三宮駅またはＪＲ舞子駅より福良行きバス 終点より徒歩5分。最寄りの三宮駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「南あわじ温泉郷 潮崎の湯 やぶ萬旅館 ＜淡路島＞。」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「南あわじ温泉郷 潮崎の湯 やぶ萬旅館 ＜淡路島＞。」は『創業160年の老舗料理旅館！当館名物料理「鯛めん」＆美肌の湯 潮崎温泉 を堪能あれ◎』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「南あわじ温泉郷 潮崎の湯 やぶ萬旅館 ＜淡路島＞。」と「白地温泉 小西旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
           <h2 className="text-xl sm:text-2xl font-bold text-slate-900 flex items-center gap-2">
@@ -578,9 +578,9 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 三宮駅よりアクセス。ＪＲ三宮駅またはＪＲ舞子駅より福良行きバス 終点より徒歩5分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「南あわじ温泉郷 潮崎の湯 やぶ萬旅館 ＜淡路島＞」にチェックイン。創業160年の老舗料理旅館！当館名物料理「鯛めん」＆美肌の湯 潮崎温泉 を堪能あれ◎などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「南あわじ温泉郷 潮崎の湯 やぶ萬旅館 ＜淡路島＞」の湯処へ。創業160年の老舗料理旅館！当館名物料理「鯛めん」＆美肌の湯 潮崎温泉とともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「南あわじ温泉郷 潮崎の湯 やぶ萬旅館 ＜淡路島＞」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「南あわじ温泉郷 潮崎の湯 やぶ萬旅館 ＜淡路島＞。」にチェックイン。創業160年の老舗料理旅館！当館名物料理「鯛めん」＆美肌の湯 潮崎温泉 を堪能あれ◎などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「南あわじ温泉郷 潮崎の湯 やぶ萬旅館 ＜淡路島＞。」の湯処へ。創業160年の老舗料理旅館！当館名物料理「鯛めん」＆美肌の湯 潮崎温泉とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「南あわじ温泉郷 潮崎の湯 やぶ萬旅館 ＜淡路島＞。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -589,8 +589,8 @@ export default function FeatureDetailPage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「南あわじ温泉郷 潮崎の湯 やぶ萬旅館 ＜淡路島＞」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「南あわじ温泉郷 潮崎の湯 やぶ萬旅館 ＜淡路島＞」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「南あわじ温泉郷 潮崎の湯 やぶ萬旅館 ＜淡路島＞。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「南あわじ温泉郷 潮崎の湯 やぶ萬旅館 ＜淡路島＞。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「白地温泉 小西旅館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
@@ -608,20 +608,20 @@ export default function FeatureDetailPage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「南あわじ温泉郷 潮崎の湯 やぶ萬旅館 ＜淡路島＞」へのアクセスや移動方法について</span>
+                <span>Q. 「南あわじ温泉郷 潮崎の湯 やぶ萬旅館 ＜淡路島＞。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「南あわじ温泉郷 潮崎の湯 やぶ萬旅館 ＜淡路島＞」へは、ＪＲ三宮駅またはＪＲ舞子駅より福良行きバス 終点より徒歩5分。最寄りの三宮駅からの経路案内も充実しています。
+                A. 「南あわじ温泉郷 潮崎の湯 やぶ萬旅館 ＜淡路島＞。」へは、ＪＲ三宮駅またはＪＲ舞子駅より福良行きバス 終点より徒歩5分。最寄りの三宮駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「南あわじ温泉郷 潮崎の湯 やぶ萬旅館 ＜淡路島＞」の魅力や予約時のポイントは？</span>
+                <span>Q. 「南あわじ温泉郷 潮崎の湯 やぶ萬旅館 ＜淡路島＞。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「南あわじ温泉郷 潮崎の湯 やぶ萬旅館 ＜淡路島＞」は『創業160年の老舗料理旅館！当館名物料理「鯛めん」＆美肌の湯 潮崎温泉 を堪能あれ◎』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「南あわじ温泉郷 潮崎の湯 やぶ萬旅館 ＜淡路島＞。」は『創業160年の老舗料理旅館！当館名物料理「鯛めん」＆美肌の湯 潮崎温泉 を堪能あれ◎』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -630,7 +630,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「南あわじ温泉郷 潮崎の湯 やぶ萬旅館 ＜淡路島＞」と「白地温泉 小西旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「南あわじ温泉郷 潮崎の湯 やぶ萬旅館 ＜淡路島＞。」と「白地温泉 小西旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

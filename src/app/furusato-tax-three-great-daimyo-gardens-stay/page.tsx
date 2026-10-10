@@ -36,7 +36,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/141247/141247map.gif",
     "reviewCount": 1794,
     "reviewAverage": 4.43,
-    "userReview": "水回りが清潔でリファのシャワーも最高水回りがとても良かった。お風呂が家のお風呂のようにきちんと洗い場もあって、しかもシャワーヘッドはリファ!台風の中到着したので、ゆったりと入浴できました。…　 ",
+    "userReview": "水回りが清潔でリファのシャワーも最高水回りがとても良かった。お風呂が家のお風呂のようにきちんと洗い場もあって、しかもシャワーヘッドはリファ!台風の中到着したので、ゆったりと入浴できました。",
     "hotelMinCharge": 5500,
     "address1": "茨城県",
     "address2": "水戸市大工町1-2-1",
@@ -66,7 +66,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9004/9004map.gif",
     "reviewCount": 2831,
     "reviewAverage": 4.55,
-    "userReview": "観光に最適な立地と郷土料理に大満足とにかくロケーションが観光に最適、施設は便利であって欲しいところはすべて新しく(ランドリーの洗濯機は洗剤自動投入など)、とても清潔で、一方で調度品や装飾などは古き…　 ",
+    "userReview": "観光に最適な立地と郷土料理に大満足とにかくロケーションが観光に最適、施設は便利であって欲しいところはすべて新しく(ランドリーの洗濯機は洗剤自動投入など)、とても清潔で、一方で調度品や装飾などは古き。",
     "hotelMinCharge": 7250,
     "address1": "石川県",
     "address2": "金沢市丸の内6-3",
@@ -96,7 +96,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5890/5890map.gif",
     "reviewCount": 626,
     "reviewAverage": 3.8,
-    "userReview": "落ち着いて過ごせました家族で利用させてもらいました。子どもが朝食のバイキングがあるホテルに泊まりたいと言うので、事前にホテルに電話連絡し確認。いつもは和洋食選べれる朝食ですが、泊まる予定日は夏休み…　 ",
+    "userReview": "落ち着いて過ごせました家族で利用させてもらいました。子どもが朝食のバイキングがあるホテルに泊まりたいと言うので、事前にホテルに電話連絡し確認。いつもは和洋食選べれる朝食ですが、泊まる予定日は夏休み。",
     "hotelMinCharge": 4400,
     "address1": "岡山県",
     "address2": "岡山市中区浜2-3-12",
@@ -182,7 +182,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ホテル・ザ・ウエストヒルズ・水戸」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ホテル・ザ・ウエストヒルズ・水戸」へは、ＪＲ水戸駅から路線バス大工町下車（約10分）◇常磐道水戸I.Cより約15分、北関東自動車道水戸南I.Cより約25分。最寄りの水戸駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ホテル・ザ・ウエストヒルズ・水戸」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ホテル・ザ・ウエストヒルズ・水戸」は『国営ひたち海浜公園へ車で約30分。水戸信用金庫スタジアムへ車で約25分。館内にコンビニ有り』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ホテル・ザ・ウエストヒルズ・水戸」と「金沢白鳥路 ホテル山楽」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ホテル・ザ・ウエストヒルズ・水戸」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ホテル・ザ・ウエストヒルズ・水戸」へは、ＪＲ水戸駅から路線バス大工町下車（約10分）◇常磐道水戸I.Cより約15分、北関東自動車道水戸南I.Cより約25分。最寄りの水戸駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ホテル・ザ・ウエストヒルズ・水戸」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ホテル・ザ・ウエストヒルズ・水戸」は『国営ひたち海浜公園へ車で約30分。水戸信用金庫スタジアムへ車で約25分。館内にコンビニ有り。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ホテル・ザ・ウエストヒルズ・水戸」と「金沢白鳥路 ホテル山楽」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         
         {/* 特集の魅力セクション */}
@@ -488,7 +488,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「ホテル・ザ・ウエストヒルズ・水戸」は『国営ひたち海浜公園へ車で約30分。水戸信用金庫スタジアムへ車で約25分。館内にコンビニ有り』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「ホテル・ザ・ウエストヒルズ・水戸」は『国営ひたち海浜公園へ車で約30分。水戸信用金庫スタジアムへ車で約25分。館内にコンビニ有り。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

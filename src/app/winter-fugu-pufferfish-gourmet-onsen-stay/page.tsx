@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/winter-fugu-pufferfish-gourmet-onsen-stay"
   };
 
@@ -83,11 +83,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/54096/54096map.gif",
     "reviewCount": 5237,
     "reviewAverage": 4.36,
-    "userReview": "絶景と食事に大満足、設備も細やかで最高オーシャンビューでロケーションもよく、夕食、朝食とも大満足。いつもは満腹にならない夫もお腹いっぱいになりました。岩風呂もすごかったです。そして…　2026-09-08 19:53:03投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=54096\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "絶景と食事に大満足、設備も細やかで最高オーシャンビューでロケーションもよく、夕食、朝食とも大満足。いつもは満腹にならない夫もお腹いっぱいになりました。岩風呂もすごかったです。そして。",
     "hotelMinCharge": 11000,
     "address1": "山口県",
     "address2": "萩市椿東越ヶ浜6509",
-    "telephoneNo": "0838-25-0121",
+    "telephoneNo": "21",
     "access": "「JR東萩駅」より車で10分／世界遺産「松下村塾」より車で10分／無料送迎サービスも有り！詳細はお気軽に問合せ下さい。",
     "parkingInformation": "60台（無料）／予約不要",
     "nearestStation": "東萩",
@@ -108,11 +108,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18848/18848map.gif",
     "reviewCount": 1288,
     "reviewAverage": 4.56,
-    "userReview": "管弦祭の時期に最適、部屋食も最高でした毎年管弦祭の時に宿泊させてもらってます。回廊からも近く眺め最高今回は初めて部屋での夕食でしたが、とても美味しかったです。また利用させてもらいます。…　2026-09-17 13:47:30投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=18848\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "管弦祭の時期に最適、部屋食も最高でした毎年管弦祭の時に宿泊させてもらってます。回廊からも近く眺め最高今回は初めて部屋での夕食でしたが、とても美味しかったです。また利用させてもらいます。",
     "hotelMinCharge": 14200,
     "address1": "広島県",
     "address2": "廿日市市宮島町南町364",
-    "telephoneNo": "0829-44-2411",
+    "telephoneNo": "11",
     "access": "宮島口桟橋よりフェリーで１０分～宮島桟橋よりマイクロバスにて送迎",
     "parkingInformation": "有り　５台　無料　先着順",
     "nearestStation": "宮島口",

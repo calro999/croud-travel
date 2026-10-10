@@ -7,11 +7,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kirishima-solo-retreat-doroyu-onsen-stay/" },
   title: '【霧島温泉ひとり旅・神話の湯治泊】14源泉の大浴場・桜島展望露天・天然泥パック！坂本龍馬ゆかりの地で魂を再生する名宿 厳選3選',
-  description: '日本初の国立公園・天孫降臨神話が息づく南九州随一の名湯「鹿児島県霧島温泉郷」！「14源泉・1日1400万リットルの圧巻の大浴場硫黄谷庭園大風呂」を誇る「霧島ホテル」、全室客室露天風呂付き南欧風プレミアムリゾート「ラビスタ霧島ヒルズ」、森の露天風呂と天然泥パックが自慢の「旅行人山荘」を徹底特集。',
+  description: '日本初の国立公園・天孫降臨神話が息づく南九州随一の名湯「鹿児島県霧島温泉郷」！「14源泉・1日1400万リットルの圧巻の大浴場硫黄谷庭園大風呂。」を誇る「霧島ホテル」、全室客室露天風呂付き南欧風プレミアムリゾート「ラビスタ霧島ヒルズ」、森の露天風呂と天然泥パックが自慢の「旅行人山荘」を徹底特集。',
   keywords: '霧島温泉 一人旅 宿,霧島ホテル 宿泊,ラビスタ霧島ヒルズ 一人,旅行人山荘 露天風呂,霧島 湯治 ひとり旅',
   openGraph: {
     title: '【霧島温泉ひとり旅・神話の湯治泊】14源泉の大浴場・桜島展望露天・天然泥パック！坂本龍馬ゆかりの地で魂を再生する名宿 厳選3選',
-    description: '日本初の国立公園・天孫降臨神話が息づく南九州随一の名湯「鹿児島県霧島温泉郷」！「14源泉・1日1400万リットルの圧巻の大浴場硫黄谷庭園大風呂」を誇る「霧島ホテル」、全室客室露天風呂付き南欧風プレミアムリゾート「ラビスタ霧島ヒルズ」、森の露天風呂と天然泥パックが自慢の「旅行人山荘」を徹底特集。',
+    description: '日本初の国立公園・天孫降臨神話が息づく南九州随一の名湯「鹿児島県霧島温泉郷」！「14源泉・1日1400万リットルの圧巻の大浴場硫黄谷庭園大風呂。」を誇る「霧島ホテル」、全室客室露天風呂付き南欧風プレミアムリゾート「ラビスタ霧島ヒルズ」、森の露天風呂と天然泥パックが自慢の「旅行人山荘」を徹底特集。',
     url: 'https://croud-travel.pages.dev/kirishima-solo-retreat-doroyu-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -24,7 +24,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【霧島温泉ひとり旅・神話の湯治泊】14源泉の大浴場・桜島展望露天・天然泥パック！坂本龍馬ゆかりの地で魂を再生する名宿 厳選3選',
-    description: '日本初の国立公園・天孫降臨神話が息づく南九州随一の名湯「鹿児島県霧島温泉郷」！「14源泉・1日1400万リットルの圧巻の大浴場硫黄谷庭園大風呂」を誇る「霧島ホテル」、全室客室露天風呂付き南欧風プレミアムリゾート「ラビスタ霧島ヒルズ」、森の露天風呂と天然泥パックが自慢の「旅行人山荘」を徹底特集。',
+    description: '日本初の国立公園・天孫降臨神話が息づく南九州随一の名湯「鹿児島県霧島温泉郷」！「14源泉・1日1400万リットルの圧巻の大浴場硫黄谷庭園大風呂。」を誇る「霧島ホテル」、全室客室露天風呂付き南欧風プレミアムリゾート「ラビスタ霧島ヒルズ」、森の露天風呂と天然泥パックが自慢の「旅行人山荘」を徹底特集。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・出張調査班',
@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-12T15:45:00+09:00',
-    dateModified: '2026-09-12T15:45:00+09:00',
+    datePublished: 'T15:45:00+09:00',
+    dateModified: 'T15:45:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/kirishima-solo-retreat-doroyu-onsen-stay',
   };
 
@@ -78,7 +78,7 @@ export default function ArticlePage() {
           【霧島温泉ひとり旅・神話の湯治泊】14源泉の大浴場・桜島展望露天・天然泥パック！坂本龍馬ゆかりの地で魂を再生する名宿 厳選3選
         </h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
-          日本初の国立公園・天孫降臨神話が息づく南九州随一の名湯「鹿児島県霧島温泉郷」！「14源泉・1日1400万リットルの圧巻の大浴場硫黄谷庭園大風呂」を誇る「霧島ホテル」、全室客室露天風呂付き南欧風プレミアムリゾート「ラビスタ霧島ヒルズ」、森の露天風呂と天然泥パックが自慢の「旅行人山荘」を徹底特集。
+          日本初の国立公園・天孫降臨神話が息づく南九州随一の名湯「鹿児島県霧島温泉郷」！「14源泉・1日1400万リットルの圧巻の大浴場硫黄谷庭園大風呂。」を誇る「霧島ホテル」、全室客室露天風呂付き南欧風プレミアムリゾート「ラビスタ霧島ヒルズ」、森の露天風呂と天然泥パックが自慢の「旅行人山荘」を徹底特集。
         </p>
       </header>
 
@@ -161,7 +161,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.63点。「硫黄谷庭園大風呂の迫力と泉質の素晴らしさは日本一！温泉好きなら絶対に一度は行くべき」「一人で心ゆくまで温泉三昧できました」と絶賛。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.63点。「硫黄谷庭園大風呂の迫力と泉質の素晴らしさは日本一！温泉好きなら絶対に一度は行くべき。」「一人で心ゆくまで温泉三昧できました」と絶賛。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -236,7 +236,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.54点。「部屋の露天風呂から見る桜島が美しすぎて感動しました」「貸切風呂も無料で食事も美味しく、自分への最高のご褒美になりました」と大人気。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.54点。「部屋の露天風呂から見る桜島が美しすぎて感動しました。」「貸切風呂も無料で食事も美味しく、自分への最高のご褒美になりました。」と大人気。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -311,7 +311,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.79点。「赤松の湯の静けさと泥パックが素晴らしかった」「スタッフの皆様がとても親切で、一人旅を温かく包み込んでくれる素晴らしいお宿」と感動の声多数。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.79点。「赤松の湯の静けさと泥パックが素晴らしかった。」「スタッフの皆様がとても親切で、一人旅を温かく包み込んでくれる素晴らしいお宿。」と感動の声多数。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">

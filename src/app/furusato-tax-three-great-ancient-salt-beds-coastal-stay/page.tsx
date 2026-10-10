@@ -190,7 +190,7 @@ export default function FurusatoRound66ArticlePage() {
                     和倉温泉　ホテル海望
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「変わらぬ絶景と温かいおもてなしに感謝母の墓参りで帰省したついでに、息子家族を連れて久々ぶりに宿泊。地震の爪跡が残る中で、最大のおもてなしを受けさせていただきました。部屋や大浴場からの眺めは地震前と… 2026-08-18 02:50:28投稿 つづきはこちら…」
+                    「変わらぬ絶景と温かいおもてなしに感謝母の墓参りで帰省したついでに、息子家族を連れて久々ぶりに宿泊。地震の爪跡が残る中で、最大のおもてなしを受けさせていただきました。部屋や大浴場からの眺めは地震前と…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -245,7 +245,7 @@ export default function FurusatoRound66ArticlePage() {
                     アオアヲナルトリゾート
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「子供も大人も大満足、海辺の遊びと食事を満喫家族で伺いました。チェックインは15時でしたが.12時にホテルにつきチェックインまで海辺や、釣りぼり、職業体験などでとても楽しむことができました。… 2026-09-05 20:05:36投稿 つづきはこちら…」
+                    「子供も大人も大満足、海辺の遊びと食事を満喫家族で伺いました。チェックインは15時でしたが.12時にホテルにつきチェックインまで海辺や、釣りぼり、職業体験などでとても楽しむことができました。…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -300,7 +300,7 @@ export default function FurusatoRound66ArticlePage() {
                     赤穂温泉　絶景露天風呂の宿　銀波荘
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「瀬戸内海を望む露天風呂と食事に大満足瀬戸内海を望む露天風呂からの景色が素晴らしくいつまでも温泉を堪能できます。無料の最新のマッサージチェアもありリラックスできます。食事も美味しく満足度も高いです。… 2026-08-29 13:52:07投稿 つづきはこちら…」
+                    「瀬戸内海を望む露天風呂と食事に大満足瀬戸内海を望む露天風呂からの景色が素晴らしくいつまでも温泉を堪能できます。無料の最新のマッサージチェアもありリラックスできます。食事も美味しく満足度も高いです。…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">

@@ -51,7 +51,7 @@ export default function UsjTripPackingRegretsWorst5Page() {
       title: "「入場さえすれば入れる」と大誤解！マリオ（ニンテンドー）エリアに一歩も入れず門前払い",
       tag: "エリア入場確約券・整理券の罠",
       incident:
-        "スーパー・ニンテンドー・ワールドは大混雑時に入場制限がかかります。『USJのチケットがあるからいつでも入れる』と思い込み、昼前に悠々と到着したところ、当日分の無料入場整理券はすでに配布終了。抽選券も落選し、旅行最大の目的だったマリオカートに乗れず子供が大号泣するケースが後を絶ちません。",
+        "スーパー・ニンテンドー・ワールドは大混雑時に入場制限がかかります。『USJのチケットがあるからいつでも入れる。』と思い込み、昼前に悠々と到着したところ、当日分の無料入場整理券はすでに配布終了。抽選券も落選し、旅行最大の目的だったマリオカートに乗れず子供が大号泣するケースが後を絶ちません。",
       countermeasure:
         "確約券付きエクスプレス・パスを事前購入するか、開園1〜2時間前に並んで朝一番のフリー入場枠に飛び込むか、入園直後に公式アプリで即「エリア入場整理券」を奪取するのが必須。",
       regretScore: "98%"
@@ -93,7 +93,7 @@ export default function UsjTripPackingRegretsWorst5Page() {
       incident:
         "USJの公式開園時間は8:30や9:00と発表されていても、実際は混雑状況に応じて1時間〜1時間半前倒し（7:30頃）でゲートが開くのが日常茶飯事。大阪市内の遠いホテルから朝の超満員電車（環状線・ゆめ咲線）で向かったところ、駅に着いた時にはすでに一般開園済みでマリオ整理券が壊滅していたという失敗談。",
       countermeasure:
-        "USJは「ユニバーサルシティ駅直結のオフィシャルホテル」に前泊するのが勝利への最短ルート。徒歩1〜2分でゲート前に陣取れるアドバンテージは計り知れません。",
+        "USJは「ユニバーサルシティ駅直結のオフィシャルホテル。」に前泊するのが勝利への最短ルート。徒歩1〜2分でゲート前に陣取れるアドバンテージは計り知れません。",
       regretScore: "89%"
     }
   ];
@@ -159,7 +159,7 @@ export default function UsjTripPackingRegretsWorst5Page() {
     <main className="min-h-screen bg-[#f5f7ff] text-slate-800 antialiased pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「エクスプレスパスなしで大絶望！？ニンテンドー入場整理券＆必須持ち物」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「エクスプレスパスなしで大絶望！ニンテンドー入場整理券＆必須持ち物。」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
       />
       {/* ヒーローヘッダー */}
       <header className="relative bg-gradient-to-b from-indigo-950 via-indigo-900 to-slate-900 text-white pt-16 pb-24 px-4 overflow-hidden">
@@ -405,7 +405,7 @@ export default function UsjTripPackingRegretsWorst5Page() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「エクスプレスパスなしで大絶望！？ニンテンドー入場整理券＆必須持ち物」を効率よく巡るコツは？</span>
+                <span>Q. 「エクスプレスパスなしで大絶望！ニンテンドー入場整理券＆必須持ち物。」を効率よく巡るコツは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">

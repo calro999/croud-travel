@@ -7,11 +7,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kagoshima-solo-retreat-sakurajima-onsen-stay/" },
   title: '【鹿児島ひとり旅＆出張】錦江湾に浮かぶ桜島一望・展望露天温泉・黒豚しゃぶしゃぶ！南国の雄大な自然に抱かれる極上宿 厳選3選',
-  description: '九州新幹線の終着駅・鹿児島！「標高108mの城山高台から桜島と錦江湾を見下ろす絶景露天温泉」を誇る最高峰「SHIROYAMA HOTEL kagoshima（城山ホテル鹿児島）」、鹿児島中央駅直結で桜島ビュー客室を持つ「ソラリア西鉄ホテル鹿児島」、天文館の真ん中で天然温泉と黒豚朝食が嬉しい「天然温泉 霧桜の湯 ドーミーイン鹿児島」を徹底特集。',
+  description: '九州新幹線の終着駅・鹿児島！「標高108mの城山高台から桜島と錦江湾を見下ろす絶景露天温泉。」を誇る最高峰「SHIROYAMA HOTEL kagoshima（城山ホテル鹿児島）。」、鹿児島中央駅直結で桜島ビュー客室を持つ「ソラリア西鉄ホテル鹿児島」、天文館の真ん中で天然温泉と黒豚朝食が嬉しい「天然温泉 霧桜の湯 ドーミーイン鹿児島」を徹底特集。',
   keywords: '鹿児島 一人旅 ホテル おすすめ,鹿児島 出張 ホテル 温泉,城山ホテル鹿児島 温泉,ソラリア西鉄ホテル鹿児島 宿泊,鹿児島 桜島ビュー ホテル',
   openGraph: {
     title: '【鹿児島ひとり旅＆出張】錦江湾に浮かぶ桜島一望・展望露天温泉・黒豚しゃぶしゃぶ！南国の雄大な自然に抱かれる極上宿 厳選3選',
-    description: '九州新幹線の終着駅・鹿児島！「標高108mの城山高台から桜島と錦江湾を見下ろす絶景露天温泉」を誇る最高峰「SHIROYAMA HOTEL kagoshima（城山ホテル鹿児島）」、鹿児島中央駅直結で桜島ビュー客室を持つ「ソラリア西鉄ホテル鹿児島」、天文館の真ん中で天然温泉と黒豚朝食が嬉しい「天然温泉 霧桜の湯 ドーミーイン鹿児島」を徹底特集。',
+    description: '九州新幹線の終着駅・鹿児島！「標高108mの城山高台から桜島と錦江湾を見下ろす絶景露天温泉。」を誇る最高峰「SHIROYAMA HOTEL kagoshima（城山ホテル鹿児島）。」、鹿児島中央駅直結で桜島ビュー客室を持つ「ソラリア西鉄ホテル鹿児島」、天文館の真ん中で天然温泉と黒豚朝食が嬉しい「天然温泉 霧桜の湯 ドーミーイン鹿児島」を徹底特集。',
     url: 'https://croud-travel.pages.dev/kagoshima-solo-retreat-sakurajima-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -24,7 +24,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【鹿児島ひとり旅＆出張】錦江湾に浮かぶ桜島一望・展望露天温泉・黒豚しゃぶしゃぶ！南国の雄大な自然に抱かれる極上宿 厳選3選',
-    description: '九州新幹線の終着駅・鹿児島！「標高108mの城山高台から桜島と錦江湾を見下ろす絶景露天温泉」を誇る最高峰「SHIROYAMA HOTEL kagoshima（城山ホテル鹿児島）」、鹿児島中央駅直結で桜島ビュー客室を持つ「ソラリア西鉄ホテル鹿児島」、天文館の真ん中で天然温泉と黒豚朝食が嬉しい「天然温泉 霧桜の湯 ドーミーイン鹿児島」を徹底特集。',
+    description: '九州新幹線の終着駅・鹿児島！「標高108mの城山高台から桜島と錦江湾を見下ろす絶景露天温泉。」を誇る最高峰「SHIROYAMA HOTEL kagoshima（城山ホテル鹿児島）。」、鹿児島中央駅直結で桜島ビュー客室を持つ「ソラリア西鉄ホテル鹿児島」、天文館の真ん中で天然温泉と黒豚朝食が嬉しい「天然温泉 霧桜の湯 ドーミーイン鹿児島」を徹底特集。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・出張調査班',
@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-11T02:50:00+09:00',
-    dateModified: '2026-09-11T02:50:00+09:00',
+    datePublished: 'T02:50:00+09:00',
+    dateModified: 'T02:50:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/kagoshima-solo-retreat-sakurajima-onsen-stay',
   };
 
@@ -78,7 +78,7 @@ export default function ArticlePage() {
           【鹿児島ひとり旅＆出張】錦江湾に浮かぶ桜島一望・展望露天温泉・黒豚しゃぶしゃぶ！南国の雄大な自然に抱かれる極上宿 厳選3選
         </h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
-          九州新幹線の終着駅・鹿児島！「標高108mの城山高台から桜島と錦江湾を見下ろす絶景露天温泉」を誇る最高峰「SHIROYAMA HOTEL kagoshima（城山ホテル鹿児島）」、鹿児島中央駅直結で桜島ビュー客室を持つ「ソラリア西鉄ホテル鹿児島」、天文館の真ん中で天然温泉と黒豚朝食が嬉しい「天然温泉 霧桜の湯 ドーミーイン鹿児島」を徹底特集。
+          九州新幹線の終着駅・鹿児島！「標高108mの城山高台から桜島と錦江湾を見下ろす絶景露天温泉。」を誇る最高峰「SHIROYAMA HOTEL kagoshima（城山ホテル鹿児島）。」、鹿児島中央駅直結で桜島ビュー客室を持つ「ソラリア西鉄ホテル鹿児島」、天文館の真ん中で天然温泉と黒豚朝食が嬉しい「天然温泉 霧桜の湯 ドーミーイン鹿児島」を徹底特集。
         </p>
       </header>
 
@@ -92,7 +92,7 @@ export default function ArticlePage() {
             九州新幹線「みずほ」「さくら」の終着駅であり、南九州の政治・経済の中枢・鹿児島。活火山「桜島」が錦江湾越しに日常の風景としてそびえ立ち、南国特有の陽光とヤシの並木が旅人を迎えます。西郷隆盛や大久保利通を輩出した明治維新の熱気が息づく街であり、夜になれば南九州最大の歓楽街「天文館」から漂う黒豚しゃぶしゃぶ、地鶏の炭火焼き、キビナゴの刺身、そして本場芋焼酎の芳醇な香りが五感を満たします。
           </p>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
-            そんな鹿児島ステイの最大のハイライトは、「部屋や露天風呂から眺める桜島のダイナミックな景観」です。朝陽に染まる桜島を眺めながら地下深くから湧き出す美肌温泉に浸かり、名物の黒豚やさつま揚げが並ぶ朝食でエネルギーを補給する。日常のストレスを一気に吹き飛ばしてくれる鹿児島の厳選3宿をご紹介します。
+            そんな鹿児島ステイの最大のハイライトは、「部屋や露天風呂から眺める桜島のダイナミックな景観。」です。朝陽に染まる桜島を眺めながら地下深くから湧き出す美肌温泉に浸かり、名物の黒豚やさつま揚げが並ぶ朝食でエネルギーを補給する。日常のストレスを一気に吹き飛ばしてくれる鹿児島の厳選3宿をご紹介します。
           </p>
         </section>
 
@@ -161,7 +161,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.63点。「露天風呂からの桜島の景色が息をのむ美しさで感動しました」「朝食も美味しくスタッフの接客も完璧。鹿児島に来たら絶対泊まるべき名宿」と大絶賛。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.63点。「露天風呂からの桜島の景色が息をのむ美しさで感動しました。」「朝食も美味しくスタッフの接客も完璧。鹿児島に来たら絶対泊まるべき名宿。」と大絶賛。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -236,7 +236,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.36点。「鹿児島中央駅の真ん前で立地最強。桜島が見える部屋で景色も最高でした」「お風呂とトイレが別でとても使いやすかった」とビジネス・一人旅に大人気。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.36点。「鹿児島中央駅の真ん前で立地最強。桜島が見える部屋で景色も最高でした。」「お風呂とトイレが別でとても使いやすかった。」とビジネス・一人旅に大人気。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -311,7 +311,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.38点。「天文館のど真ん中で飲食店が多く便利。温泉とサウナで疲れが取れて朝食の黒豚しゃぶしゃぶも絶品でした」とリピーター多数。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.38点。「天文館のど真ん中で飲食店が多く便利。温泉とサウナで疲れが取れて朝食の黒豚しゃぶしゃぶも絶品でした。」とリピーター多数。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -438,9 +438,9 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 鹿児島中央駅よりアクセス。鹿児島中央からタクシー約１０分 鹿児島中央駅や天文館等を経由する無料のシャトルバスを30分間隔で運行。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「ＳＨＩＲＯＹＡＭＡ ＨＯＴＥＬ ｋａｇｏｓｈｉｍａ」にチェックイン。城山観光ホテルは、「SHIROYAMA HOTEL kagoshima」へ名称変更いたしました。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「ＳＨＩＲＯＹＡＭＡ ＨＯＴＥＬ ｋａｇｏｓｈｉｍａ」の湯処へ。城山観光ホテルは、「SHIROYAMA HOTEL kagoshimaとともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「ＳＨＩＲＯＹＡＭＡ ＨＯＴＥＬ ｋａｇｏｓｈｉｍａ」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「ＳＨＩＲＯＹＡＭＡ ＨＯＴＥＬ ｋａｇｏｓｈｉｍａ。」にチェックイン。城山観光ホテルは、「SHIROYAMA HOTEL kagoshima。」へ名称変更いたしました。などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「ＳＨＩＲＯＹＡＭＡ ＨＯＴＥＬ ｋａｇｏｓｈｉｍａ。」の湯処へ。城山観光ホテルは、「SHIROYAMA HOTEL kagoshimaとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「ＳＨＩＲＯＹＡＭＡ ＨＯＴＥＬ ｋａｇｏｓｈｉｍａ。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -449,8 +449,8 @@ export default function ArticlePage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ＳＨＩＲＯＹＡＭＡ ＨＯＴＥＬ ｋａｇｏｓｈｉｍａ」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「ＳＨＩＲＯＹＡＭＡ ＨＯＴＥＬ ｋａｇｏｓｈｉｍａ」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ＳＨＩＲＯＹＡＭＡ ＨＯＴＥＬ ｋａｇｏｓｈｉｍａ。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「ＳＨＩＲＯＹＡＭＡ ＨＯＴＥＬ ｋａｇｏｓｈｉｍａ。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ソラリア西鉄ホテル鹿児島」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>

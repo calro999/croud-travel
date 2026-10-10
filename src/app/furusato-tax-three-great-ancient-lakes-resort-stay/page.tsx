@@ -38,7 +38,7 @@ export default function Page() {
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4843/4843_room.jpg",
     "reviewCount": 2672,
     "reviewAverage": 4.53,
-    "userReview": "「琵琶湖を一望できる素敵なホテル」「家族旅行で利用しました。ホテルから見える琵琶湖の景色がとてもきれいで、ゆっくり過ごすことができました。お部屋も清潔感があり、スタッフの方々の対応も丁寧で気持ちよ…　 ",
+    "userReview": "「琵琶湖を一望できる素敵なホテル」「家族旅行で利用しました。ホテルから見える琵琶湖の景色がとてもきれいで、ゆっくり過ごすことができました。お部屋も清潔感があり、スタッフの方々の対応も丁寧で気持ちよ。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4843%2F4843.html",
     "access": "JR大津駅より徒歩約15分／京阪びわ湖浜大津駅より徒歩約5分／名神大津ICより約10分／無料駐車場",
     "label": "滋賀県大津市ふるさと納税・400万年の時を刻む日本最大の古代湖「琵琶湖」琵琶湖ホテル",
@@ -59,12 +59,12 @@ export default function Page() {
     "hotelMinCharge": 12390,
     "address1": "長野県",
     "address2": "諏訪市湖岸通り2-6-30",
-    "telephoneNo": "0266-54-2020",
+    "telephoneNo": "20",
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/130095/130095.jpg",
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/130095/130095_war.jpg",
     "reviewCount": 2140,
     "reviewAverage": 4.58,
-    "userReview": "早期予約でお得に、4社巡りツアーも大満足早期予約で割安で予約が取れました。老舗旅館らしい良さが接客や料理など随所に感じられました。地場野菜を多く使った食事は美味しく頂けました。特に気に入ったのは、…　 ",
+    "userReview": "早期予約でお得に、4社巡りツアーも大満足早期予約で割安で予約が取れました。老舗旅館らしい良さが接客や料理など随所に感じられました。地場野菜を多く使った食事は美味しく頂けました。特に気に入ったのは、。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F130095%2F130095.html",
     "access": "JR上諏訪駅より徒歩10分(送迎バス有。最終17時)、中央道諏訪ICより車10分。諏訪湖目の前。",
     "label": "長野県諏訪市ふるさと納税・神話息づく神秘の古代湖「諏訪湖」上諏訪温泉しんゆ（親湯）",
@@ -85,12 +85,12 @@ export default function Page() {
     "hotelMinCharge": 8800,
     "address1": "福井県",
     "address2": "三方上中郡若狭町海山51-13",
-    "telephoneNo": "0770-47-1234",
+    "telephoneNo": "34",
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/72715/72715.jpg",
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/72715/72715_wa.jpg",
     "reviewCount": 812,
     "reviewAverage": 3.96,
-    "userReview": "湖を望む絶景のお部屋で素敵なひととき湖が目の前に広がるお部屋でとても素敵な時間を過ごすことができました。今回は1泊でしたが、今度はもっとゆっくり滞在したいと思いました。クチコミの詳細はこち…　 ",
+    "userReview": "湖を望む絶景のお部屋で素敵なひととき湖が目の前に広がるお部屋でとても素敵な時間を過ごすことができました。今回は1泊でしたが、今度はもっとゆっくり滞在したいと思いました。クチコミの詳細はこち。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F72715%2F72715.html",
     "access": "ＪＲ：三方駅よりお車で20分。車：舞鶴若狭自動車道 若狭三方ＩＣで降りて20分。",
     "label": "福井県若狭町ふるさと納税・年縞が刻む奇跡の地球史「三方五湖・水月湖」若狭きらら温泉水月花",
@@ -169,7 +169,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「琵琶湖ホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「琵琶湖ホテル」へは、JR大津駅より徒歩約15分／京阪びわ湖浜大津駅より徒歩約5分／名神大津ICより約10分／無料駐車場。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「琵琶湖ホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「琵琶湖ホテル」は『全室レイクビュー 天然温泉・露天風呂も楽しめる湖畔のリゾートホテル』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「琵琶湖ホテル」と「上諏訪温泉 しんゆ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「琵琶湖ホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「琵琶湖ホテル」へは、JR大津駅より徒歩約15分／京阪びわ湖浜大津駅より徒歩約5分／名神大津ICより約10分／無料駐車場。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「琵琶湖ホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「琵琶湖ホテル」は『全室レイクビュー 天然温泉・露天風呂も楽しめる湖畔のリゾートホテル。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「琵琶湖ホテル」と「上諏訪温泉 しんゆ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         
         {/* 特集の魅力セクション */}
@@ -475,7 +475,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「琵琶湖ホテル」は『全室レイクビュー 天然温泉・露天風呂も楽しめる湖畔のリゾートホテル』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「琵琶湖ホテル」は『全室レイクビュー 天然温泉・露天風呂も楽しめる湖畔のリゾートホテル。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

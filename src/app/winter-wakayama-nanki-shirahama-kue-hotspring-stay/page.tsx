@@ -67,8 +67,8 @@ export default function ShirahamaWinterPage() {
         "headline": "【11・12月南紀白浜温泉の太平洋絶景と名湯】白良浜夕陽と日本三古湯・幻の天然本クエ鍋＆熊野牛の宿5選",
         "description": "万葉集や日本書紀にも記された日本三古湯の一つ、和歌山県・南紀白浜温泉。11月から12月にかけて脂が乗り切る幻の超高級魚「紀州本クエ鍋」、太平洋を茜色に染める雄大な冬の夕陽、波打ち際の絶景露天風呂、そして特選熊野牛を味わい尽くす冬の名宿ガイド。",
         "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
-        "datePublished": "2026-09-27T00:00:00+09:00",
-        "dateModified": "2026-09-27T00:00:00+09:00",
+        "datePublished": "T00:00:00+09:00",
+        "dateModified": "T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

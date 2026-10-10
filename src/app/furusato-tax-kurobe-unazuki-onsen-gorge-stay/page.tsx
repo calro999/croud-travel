@@ -62,7 +62,7 @@ export default function FurusatoKurobeUnazukiStayPage() {
           黒部峡谷トロッコ列車とエメラルドの清流！宇奈月温泉の断崖絶景露天風呂＆富山湾キトキト海の幸名宿×ふるさと納税完全攻略ガイド【2026年最新】延対寺荘・やまのは・延楽
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-10">2026年9月10日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -164,7 +164,7 @@ export default function FurusatoKurobeUnazukiStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “お部屋は綺麗で景観も最高、温泉も大満足お宿の外観は古そうに思いましたが、お部屋はリフォーム後だったのかとてもきれいで、峡谷側で景観もとてもよく大満足です。夕食は...カジュアルプランだったのも…　2026-09-05 21:29:58投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “お部屋は綺麗で景観も最高、温泉も大満足お宿の外観は古そうに思いましたが、お部屋はリフォーム後だったのかとてもきれいで、峡谷側で景観もとてもよく大満足です。夕食は...カジュアルプランだったのも… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -201,12 +201,12 @@ export default function FurusatoKurobeUnazukiStayPage() {
           <div className="hotel-special-wrapper">
             <div className="bg-amber-50 border-l-4 border-amber-600 p-4 rounded-r-xl mb-6 text-sm text-amber-950">
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
-              おかげさまで連続受賞！「楽天トラベル 日本の宿アワード2025 TOP47」♪
+              おかげさまで連続受賞！「楽天トラベル 日本の宿アワード2025 TOP47。」♪
             </div>
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “朝夕食のクオリティが他にはない高さ全体的に満足ですが、特に朝夕食のクオリティは他ではなかなか無いくらい高く感じました。クチコミの詳細はこちらから　https://review.travel.r…　2026-09-05 08:49:09投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “朝夕食のクオリティが他にはない高さ全体的に満足ですが、特に朝夕食のクオリティは他ではなかなか無いくらい高く感じました。 ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -248,7 +248,7 @@ export default function FurusatoKurobeUnazukiStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “富山の食材を使った料理は絶品で大満足北海道から黒部ダムとおわら観光が目的で来た従兄夫婦、金沢に住む実母と一緒に5人で宿泊。富山の食材を使った料理はどれも美味しく、特にのどぐろ、白エビが絶品で従…　2026-09-03 12:32:30投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “富山の食材を使った料理は絶品で大満足北海道から黒部ダムとおわら観光が目的で来た従兄夫婦、金沢に住む実母と一緒に5人で宿泊。富山の食材を使った料理はどれも美味しく、特にのどぐろ、白エビが絶品で従… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -323,7 +323,7 @@ export default function FurusatoKurobeUnazukiStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

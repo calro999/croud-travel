@@ -46,7 +46,7 @@ export default function FeatureArticlePage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「赤湯温泉 上杉の御湯 御殿守」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「赤湯温泉 上杉の御湯 御殿守」へは、JR奥羽本線赤湯駅／車：東北自動車道で米沢方面へ※福島大笹生ＩＣ－米沢北ＩＣ間無料～南陽高畠ＩＣで下り赤湯温泉へ車5分程。最寄りの赤湯駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「赤湯温泉 上杉の御湯 御殿守」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「赤湯温泉 上杉の御湯 御殿守」は『赤湯温泉の源泉かけ流しを含む全12種類のお風呂！お風呂上りには米沢牛会席で食材王国山形を満』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「赤湯温泉 上杉の御湯 御殿守」と「赤湯温泉 森の湯」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「赤湯温泉 上杉の御湯 御殿守」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「赤湯温泉 上杉の御湯 御殿守」へは、JR奥羽本線赤湯駅／車：東北自動車道で米沢方面へ※福島大笹生ＩＣ－米沢北ＩＣ間無料～南陽高畠ＩＣで下り赤湯温泉へ車5分程。最寄りの赤湯駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「赤湯温泉 上杉の御湯 御殿守」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「赤湯温泉 上杉の御湯 御殿守」は『赤湯温泉の源泉かけ流しを含む全12種類のお風呂！お風呂上りには米沢牛会席で食材王国山形を満。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「赤湯温泉 上杉の御湯 御殿守」と「赤湯温泉 森の湯」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       {/* パンくずナビ */}
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
@@ -470,7 +470,7 @@ export default function FeatureArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「赤湯温泉 上杉の御湯 御殿守」は『赤湯温泉の源泉かけ流しを含む全12種類のお風呂！お風呂上りには米沢牛会席で食材王国山形を満』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「赤湯温泉 上杉の御湯 御殿守」は『赤湯温泉の源泉かけ流しを含む全12種類のお風呂！お風呂上りには米沢牛会席で食材王国山形を満。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/organic-herbal-steam-bed-ayurveda-resort"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D78094%26f_flg%3DPLAN",
     "hotelMinCharge": 7368,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/78094/78094.jpg",
-    "userReview": "部屋は広くて綺麗、温泉と利便性も抜群部屋も綺麗で広くて最高です。特に温泉が最高。全体的に清潔感があり、1階にコンビニやお土産屋もありとても便利。クチコミの詳細はこちらから　http…　2026-09-05 20:45:17投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=78094\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "部屋は広くて綺麗、温泉と利便性も抜群部屋も綺麗で広くて最高です。特に温泉が最高。全体的に清潔感があり、1階にコンビニやお土産屋もありとても便利。",
     "reviewAverage": 4.35,
     "reviewCount": 695,
     "address": "沖縄県那覇市西3-2-1",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D192183%26f_flg%3DPLAN",
     "hotelMinCharge": 12000,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/192183/192183.jpg",
-    "userReview": "チェックアウト時間の表記が分かりにくいチェックアウトが午前7時のプランであるとチェックインの際に初め知った。よく見ればたしかに予約画面には「チェックアウト7時。早めの出発でも味わえるスマートス…　2026-09-18 13:25:54投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=192183\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "チェックアウト時間の表記が分かりにくいチェックアウトが午前7時のプランであるとチェックインの際に初め知った。よく見ればたしかに予約画面には「チェックアウト7時。早めの出発でも味わえるスマートス。",
     "reviewAverage": 4.59,
     "reviewCount": 212,
     "address": "青森県青森市柳川1-1-5",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D1657%26f_flg%3DPLAN",
     "hotelMinCharge": 8250,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1657/1657.jpg",
-    "userReview": "景観ゼロの部屋があることを明記してほしいこのような景観ゼロの部屋があり、オーシャンビューの部屋と同じ価格で提供されていることを明記して頂きたかったです。クチコミの詳細はこちらから　https:…　2026-09-16 16:23:21投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=1657\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "景観ゼロの部屋があることを明記してほしいこのような景観ゼロの部屋があり、オーシャンビューの部屋と同じ価格で提供されていることを明記して頂きたかったです。",
     "reviewAverage": 4.41,
     "reviewCount": 2416,
     "address": "兵庫県洲本市山手1-1-50",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D158555%26f_flg%3DPLAN",
     "hotelMinCharge": 14155,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/158555/158555.jpg",
-    "userReview": "緑に囲まれた落ち着く空間と親切なスタッフ緑に囲まれてとても落ち着く空間でした。カフェや温泉もあって、どこも清潔感があり、スタッフの方も親切です。また利用したいと思います。クチコミの詳細はこちら…　2026-07-30 13:08:19投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=158555\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "緑に囲まれた落ち着く空間と親切なスタッフ緑に囲まれてとても落ち着く空間でした。カフェや温泉もあって、どこも清潔感があり、スタッフの方も親切です。また利用したいと思います。",
     "reviewAverage": 4.42,
     "reviewCount": 343,
     "address": "神奈川県足柄下郡箱根町仙石原1286-116",
@@ -335,7 +335,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ロワジールスパタワー那覇」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「ロワジールスパタワー那覇」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ＲｅＬａｂｏ ＭｅｄｉｃａｌＳｐａ＆Ｓｔａｙ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ＲｅＬａｂｏ ＭｅｄｉｃａｌＳｐａ＆Ｓｔａｙ。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -365,7 +365,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「ロワジールスパタワー那覇」は『天然温泉を24時間楽しめる客室有！全室バルコニー付、24時間利用できるフィットネスジム完備』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「ロワジールスパタワー那覇」は『天然温泉を24時間楽しめる客室有！全室バルコニー付、24時間利用できるフィットネスジム完備。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -374,7 +374,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「ロワジールスパタワー那覇」と「ＲｅＬａｂｏ ＭｅｄｉｃａｌＳｐａ＆Ｓｔａｙ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「ロワジールスパタワー那覇」と「ＲｅＬａｂｏ ＭｅｄｉｃａｌＳｐａ＆Ｓｔａｙ。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

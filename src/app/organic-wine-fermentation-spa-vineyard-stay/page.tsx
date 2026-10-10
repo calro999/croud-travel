@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/organic-wine-fermentation-spa-vineyard-stay"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D142842%26f_flg%3DPLAN",
     "hotelMinCharge": 6600,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/142842/142842.jpg",
-    "userReview": "絶品夕食とオーシャンビューに大満足!夕食の絶品コース最高すぎました!何を食べても全部美味しかったです!作ってくれた方の手間と愛情をたっぷり受け取りました!花火大会は残念でしたが、来て良かったです!…　2026-08-14 13:16:34投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=142842\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "絶品夕食とオーシャンビューに大満足!夕食の絶品コース最高すぎました!何を食べても全部美味しかったです!作ってくれた方の手間と愛情をたっぷり受け取りました!",
     "reviewAverage": 4.29,
     "reviewCount": 161,
     "address": "福井県坂井市三国町梶26-45-1",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D15864%26f_flg%3DPLAN",
     "hotelMinCharge": 30800,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15864/15864.jpg",
-    "userReview": "部屋付き温泉と豪華な食事で大満足部屋に温泉がひいてあって、いつでも温泉を楽しめました。食事も豪華でした。値段分の価値を感じることができました。クチコミの詳細はこちらから　https://rev…　2026-09-16 16:22:28投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=15864\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "部屋付き温泉と豪華な食事で大満足部屋に温泉がひいてあって、いつでも温泉を楽しめました。食事も豪華でした。値段分の価値を感じることができました。",
     "reviewAverage": 4.78,
     "reviewCount": 666,
     "address": "長野県上田市別所温泉227",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D41737%26f_flg%3DPLAN",
     "hotelMinCharge": 11500,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/41737/41737.jpg",
-    "userReview": "道中の小さな看板ででさらに迷ってしまったナビで車で向かったのですが途中で出てくる小さな看板に惑わされ狭い農道をうろうろすること20分 ナビの道に戻ったら何度もゴールがかきかえられドキドキしながら到…　2026-09-19 18:07:45投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=41737\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "道中の小さな看板ででさらに迷ってしまったナビで車で向かったのですが途中で出てくる小さな看板に惑わされ狭い農道をうろうろすること20分 ナビの道に戻ったら何度もゴールがかきかえられドキドキしながら到。",
     "reviewAverage": 4.29,
     "reviewCount": 509,
     "address": "熊本県山鹿市平山4156",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D32486%26f_flg%3DPLAN",
     "hotelMinCharge": 16500,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/32486/32486.jpg",
-    "userReview": "部屋は広くて綺麗だが動線と案内に課題あり家族で宿泊させていただきました。案内されたのは桃李の間という14畳ある大きいお部屋で、とても広く綺麗な客室でした。(プラスポイント)〇旅館は全体…　2026-09-09 06:02:16投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=32486\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "部屋は広くて綺麗だが動線と案内に課題あり家族で宿泊させていただきました。案内されたのは桃李の間という14畳ある大きいお部屋で、とても広く綺麗な客室でした。(プラスポイント)〇旅館は全体。",
     "reviewAverage": 4.44,
     "reviewCount": 368,
     "address": "長野県松本市里山辺1145",
@@ -322,9 +322,9 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 芦原温泉駅よりアクセス。ＪＲ 芦原温泉駅よりお車にて１０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「三国温泉 展望自慢の料理旅館 はれや旅館」にチェックイン。美しいオーシャンビューを独り占め！温泉展望露天風呂と新鮮魚介の会席料理が自慢の全15室の料理宿などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「三国温泉 展望自慢の料理旅館 はれや旅館」の湯処へ。美しいオーシャンビューを独り占め！温泉展望露天風呂と新鮮魚介の会席料理とともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「三国温泉 展望自慢の料理旅館 はれや旅館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「三国温泉 展望自慢の料理旅館 はれや旅館。」にチェックイン。美しいオーシャンビューを独り占め！温泉展望露天風呂と新鮮魚介の会席料理が自慢の全15室の料理宿などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「三国温泉 展望自慢の料理旅館 はれや旅館。」の湯処へ。美しいオーシャンビューを独り占め！温泉展望露天風呂と新鮮魚介の会席料理とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「三国温泉 展望自慢の料理旅館 はれや旅館。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -333,8 +333,8 @@ export default function Page() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「三国温泉 展望自慢の料理旅館 はれや旅館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「三国温泉 展望自慢の料理旅館 はれや旅館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「三国温泉 展望自慢の料理旅館 はれや旅館。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「三国温泉 展望自慢の料理旅館 はれや旅館。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「信州別所温泉 玉屋旅館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
@@ -352,20 +352,20 @@ export default function Page() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「三国温泉 展望自慢の料理旅館 はれや旅館」へのアクセスや移動方法について</span>
+                <span>Q. 「三国温泉 展望自慢の料理旅館 はれや旅館。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「三国温泉 展望自慢の料理旅館 はれや旅館」へは、ＪＲ 芦原温泉駅よりお車にて１０分。最寄りの芦原温泉駅からの経路案内も充実しています。
+                A. 「三国温泉 展望自慢の料理旅館 はれや旅館。」へは、ＪＲ 芦原温泉駅よりお車にて１０分。最寄りの芦原温泉駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「三国温泉 展望自慢の料理旅館 はれや旅館」の魅力や予約時のポイントは？</span>
+                <span>Q. 「三国温泉 展望自慢の料理旅館 はれや旅館。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「三国温泉 展望自慢の料理旅館 はれや旅館」は『美しいオーシャンビューを独り占め！温泉展望露天風呂と新鮮魚介の会席料理が自慢の全15室の料』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「三国温泉 展望自慢の料理旅館 はれや旅館。」は『美しいオーシャンビューを独り占め！温泉展望露天風呂と新鮮魚介の会席料理が自慢の全15室の料。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -374,7 +374,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「三国温泉 展望自慢の料理旅館 はれや旅館」と「信州別所温泉 玉屋旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「三国温泉 展望自慢の料理旅館 はれや旅館。」と「信州別所温泉 玉屋旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

@@ -4,14 +4,14 @@ import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: '舞浜直結！東京ディズニーリゾート公式オフィシャルホテル×ふるさと納税完全攻略ガイド【2026年最新】シェラトン・ヒルトン・グランドニッコーで夢の国をお得に満喫',
-  description: 'パークの目の前に泊まる夢の体験！ディズニーリゾートライン駅前でパーク直通シャトル運行、入園保証やホテル内バゲッジデリバリーなど特典満載のオフィシャルホテル。「シェラトン・グランデ・トーキョーベイ・ホテル」「ヒルトン東京ベイ」「グランドニッコー東京ベイ 舞浜」を、千葉県浦安市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。',
+  description: 'パークの目の前に泊まる夢の体験！ディズニーリゾートライン駅前でパーク直通シャトル運行、入園保証やホテル内バゲッジデリバリーなど特典満載のオフィシャルホテル。「シェラトン・グランデ・トーキョーベイ・ホテル。」「ヒルトン東京ベイ」「グランドニッコー東京ベイ 舞浜」を、千葉県浦安市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。',
   keywords: ["2026年最新", "シェラトン", "ヒルトン", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-tokyo-disney-resort-official-hotel-stay/",
   },
   openGraph: {
     title: '舞浜直結！東京ディズニーリゾート公式オフィシャルホテル×ふるさと納税完全攻略ガイド【2026年最新】シェラトン・ヒルトン・グランドニッコーで夢の国をお得に満喫',
-    description: 'パークの目の前に泊まる夢の体験！ディズニーリゾートライン駅前でパーク直通シャトル運行、入園保証やホテル内バゲッジデリバリーなど特典満載のオフィシャルホテル。「シェラトン・グランデ・トーキョーベイ・ホテル」「ヒルトン東京ベイ」「グランドニッコー東京ベイ 舞浜」を、千葉県浦安市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。',
+    description: 'パークの目の前に泊まる夢の体験！ディズニーリゾートライン駅前でパーク直通シャトル運行、入園保証やホテル内バゲッジデリバリーなど特典満載のオフィシャルホテル。「シェラトン・グランデ・トーキョーベイ・ホテル。」「ヒルトン東京ベイ」「グランドニッコー東京ベイ 舞浜」を、千葉県浦安市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-tokyo-disney-resort-official-hotel-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
@@ -25,7 +25,7 @@ export default function FurusatoTokyoDisneyOfficialHotelStayPage() {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "舞浜直結！東京ディズニーリゾート公式オフィシャルホテル×ふるさと納税完全攻略ガイド【2026年最新】シェラトン・ヒルトン・グランドニッコーで夢の国をお得に満喫",
-    "description": "パークの目の前に泊まる夢の体験！ディズニーリゾートライン駅前でパーク直通シャトル運行、入園保証やホテル内バゲッジデリバリーなど特典満載のオフィシャルホテル。「シェラトン・グランデ・トーキョーベイ・ホテル」「ヒルトン東京ベイ」「グランドニッコー東京ベイ 舞浜」を、千葉県浦安市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。",
+    "description": "パークの目の前に泊まる夢の体験！ディズニーリゾートライン駅前でパーク直通シャトル運行、入園保証やホテル内バゲッジデリバリーなど特典満載のオフィシャルホテル。「シェラトン・グランデ・トーキョーベイ・ホテル。」「ヒルトン東京ベイ」「グランドニッコー東京ベイ 舞浜」を、千葉県浦安市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。",
     "url": "https://croud-travel.pages.dev/furusato-tax-tokyo-disney-resort-official-hotel-stay/",
     "publisher": {
       "@type": "Organization",
@@ -62,7 +62,7 @@ export default function FurusatoTokyoDisneyOfficialHotelStayPage() {
           舞浜直結！東京ディズニーリゾート公式オフィシャルホテル×ふるさと納税完全攻略ガイド【2026年最新】シェラトン・ヒルトン・グランドニッコーで夢の国をお得に満喫
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-09">2026年9月9日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -77,7 +77,7 @@ export default function FurusatoTokyoDisneyOfficialHotelStayPage() {
           閉園後も夢の余韻に包まれて。オフィシャルホテルならではの手厚い特典とラグジュアリーステイをふるさと納税で賢く実現
         </h2>
         <p className="text-base md:text-lg text-gray-800 leading-relaxed mb-6">
-          朝から夜まで一日中遊び尽くしたい東京ディズニーランド＆東京ディズニーシー。パークで思いきり楽しんだ後、満員電車に揺られることなく、わずか数分でホテルのお部屋へ戻り、ふかふかのベッドやベイサイドの夜景に癒やされる贅沢は格別です。東京ディズニーリゾート・オフィシャルホテルなら、リゾートクルーザー（無料シャトルバス）の運行やJR舞浜駅前のウェルカムセンターでの荷物預かり・ホテルへの無料配送、ホテル内ディズニーファンタジーショップ完備など、宿泊者だけの特別な利便性が満載。本特集では、巨大屋内プールやオアシス棟、ファミリー客室が絶賛される「シェラトン・グランデ・トーキョーベイ・ホテル」、童話の世界を再現したハッピーマジックルームや海一望のバルコニーを誇る「ヒルトン東京ベイ」、そして日本最大級の開放的な南欧風アトリウムと口コミ4.6超の贅沢モーニングビュッフェで話題の「グランドニッコー東京ベイ 舞浜」の3大人気宿を厳選。千葉県浦安市への楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、家族旅行やカップル記念日のディズニー旅行を実質自己負担2,000円でお得に予約しましょう。
+          朝から夜まで一日中遊び尽くしたい東京ディズニーランド＆東京ディズニーシー。パークで思いきり楽しんだ後、満員電車に揺られることなく、わずか数分でホテルのお部屋へ戻り、ふかふかのベッドやベイサイドの夜景に癒やされる贅沢は格別です。東京ディズニーリゾート・オフィシャルホテルなら、リゾートクルーザー（無料シャトルバス）の運行やJR舞浜駅前のウェルカムセンターでの荷物預かり・ホテルへの無料配送、ホテル内ディズニーファンタジーショップ完備など、宿泊者だけの特別な利便性が満載。本特集では、巨大屋内プールやオアシス棟、ファミリー客室が絶賛される「シェラトン・グランデ・トーキョーベイ・ホテル。」、童話の世界を再現したハッピーマジックルームや海一望のバルコニーを誇る「ヒルトン東京ベイ」、そして日本最大級の開放的な南欧風アトリウムと口コミ4.6超の贅沢モーニングビュッフェで話題の「グランドニッコー東京ベイ 舞浜」の3大人気宿を厳選。千葉県浦安市への楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、家族旅行やカップル記念日のディズニー旅行を実質自己負担2,000円でお得に予約しましょう。
         </p>
         <div className="bg-white/90 rounded-xl p-4 md:p-5 border border-amber-300 shadow-sm">
           <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5">
@@ -164,7 +164,7 @@ export default function FurusatoTokyoDisneyOfficialHotelStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “ガーデンプールが最高、来年もまた行きたいガーデンプールが最高でした!チェックインからアウトまでホテルステイで満喫させていただきました!来年もプール、行きたいです!クチコミの詳細はこちらから　h…　2026-09-05 16:57:53投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “ガーデンプールが最高、来年もまた行きたいガーデンプールが最高でした!チェックインからアウトまでホテルステイで満喫させていただきました!来年もプール、行きたいです!
             </blockquote>
           </div>
           <div className="pt-2">
@@ -206,7 +206,7 @@ export default function FurusatoTokyoDisneyOfficialHotelStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “事前の要望が反映されず朝食も期待外れ添い寝がいるのでベッドをくっつけて欲しいと事前にメッセージを送り、チェックインでフロントさんからもくっつけときました!と言われたのに部屋に行ったら全部離れていま…　2026-09-05 22:22:02投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “事前の要望が反映されず朝食も期待外れ添い寝がいるのでベッドをくっつけて欲しいと事前にメッセージを送り、チェックインでフロントさんからもくっつけときました!と言われたのに部屋に行ったら全部離れていま… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -248,7 +248,7 @@ export default function FurusatoTokyoDisneyOfficialHotelStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “お部屋や食事は快適、立地も便利で満足とっても素敵なお部屋ですごせました。レストランは予約なしで入店できお味もよく種類も豊富でした。ベイサイド-ステーションも近くで24時間のお店もあったので…　2026-09-05 22:44:36投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “お部屋や食事は快適、立地も便利で満足とっても素敵なお部屋ですごせました。レストランは予約なしで入店できお味もよく種類も豊富でした。ベイサイド-ステーションも近くで24時間のお店もあったので… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -323,7 +323,7 @@ export default function FurusatoTokyoDisneyOfficialHotelStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

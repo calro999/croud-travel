@@ -39,8 +39,8 @@ export default function FurusatoArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-10T16:35:00+09:00',
-    dateModified: '2026-09-10T16:35:00+09:00',
+    datePublished: 'T16:35:00+09:00',
+    dateModified: 'T16:35:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-kusatsu-onsen-yubatake-heritage-stay',
   };
 
@@ -49,7 +49,7 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「草津温泉 望雲」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「草津温泉 望雲」へは、ＪＲ吾妻線長野原草津口駅から車で２０分。最寄りの長野原草津口駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「草津温泉 望雲」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「草津温泉 望雲」は『創業慶長4年。６つのお風呂と2つの源泉が楽しめる、数々の文人に愛された、落ち着いた佇まいの』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「草津温泉 望雲」と「草津温泉 ホテル一井」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「草津温泉 望雲」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「草津温泉 望雲」へは、ＪＲ吾妻線長野原草津口駅から車で２０分。最寄りの長野原草津口駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「草津温泉 望雲」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「草津温泉 望雲」は『創業慶長4年。６つのお風呂と2つの源泉が楽しめる、数々の文人に愛された、落ち着いた佇まいの。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「草津温泉 望雲」と「草津温泉 ホテル一井」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -203,7 +203,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.67点、口コミ2400件超。「お風呂の泉質が素晴らしく肌がツルツルになった」「湯畑にも近く静かで、スタッフのおもてなしとお料理が最高」と大絶賛されています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.67点、口コミ2400件超。「お風呂の泉質が素晴らしく肌がツルツルになった。」「湯畑にも近く静かで、スタッフのおもてなしとお料理が最高。」と大絶賛されています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -287,7 +287,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.39点、口コミ4700件超。「湯畑が本当に目の前で観光に最高」「大浴場の白濁したお湯が本格的で、湯畑の夜景にも感動した」と圧倒的な人気を誇ります。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.39点、口コミ4700件超。「湯畑が本当に目の前で観光に最高」「大浴場の白濁したお湯が本格的で、湯畑の夜景にも感動した。」と圧倒的な人気を誇ります。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.61点、口コミ1200件超。「お湯が本当に柔らかく、これまで入った草津の湯で一番」「宿全体の雰囲気が洗練されており素晴らしい滞在だった」と熱烈な支持。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.61点、口コミ1200件超。「お湯が本当に柔らかく、これまで入った草津の湯で一番。」「宿全体の雰囲気が洗練されており素晴らしい滞在だった。」と熱烈な支持。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -578,7 +578,7 @@ export default function FurusatoArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「草津温泉 望雲」は『創業慶長4年。６つのお風呂と2つの源泉が楽しめる、数々の文人に愛された、落ち着いた佇まいの』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「草津温泉 望雲」は『創業慶長4年。６つのお風呂と2つの源泉が楽しめる、数々の文人に愛された、落ち着いた佇まいの。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -39,8 +39,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
-    "datePublished": "2026-09-22",
-    "dateModified": "2026-09-22",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-kirishima-jingu-autumn-stay"
   };
 
@@ -441,7 +441,7 @@ export default function Page() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「霧島神宮の紅葉参道と天孫降臨の森！霧島温泉郷の多彩な泉質・鹿児島黒豚・黒牛溶岩焼きを味わう秋の南九州旅」を効率よく巡るコツは？</span>
+                <span>Q. 「霧島神宮の紅葉参道と天孫降臨の森！霧島温泉郷の多彩な泉質・鹿児島黒豚・黒牛溶岩焼きを味わう秋の南九州旅。」を効率よく巡るコツは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">

@@ -36,11 +36,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5901/5901map.gif",
     "reviewCount": 1747,
     "reviewAverage": 4.61,
-    "userReview": "3度目の利用、愛犬と家族で大満足のひととき今回は3度目の宿泊でわんちゃんと家族と一緒に泊まりました。いつも美味しい食事と綺麗なお部屋と従業員の方の心遣いで楽しい時間を過ごせてますクチコミの詳細…　 ",
+    "userReview": "3度目の利用、愛犬と家族で大満足のひととき今回は3度目の宿泊でわんちゃんと家族と一緒に泊まりました。いつも美味しい食事と綺麗なお部屋と従業員の方の心遣いで楽しい時間を過ごせてますクチコミの詳細。",
     "hotelMinCharge": 12100,
     "address1": "香川県",
     "address2": "仲多度郡琴平町556-1",
-    "telephoneNo": "0877-75-1111",
+    "telephoneNo": "11",
     "access": "ＪＲ琴平駅下車、徒歩5分（無料送迎有・要予約）。車：道善通寺ＩＣ下車約15分。高松空港より約40分",
     "parkingInformation": "有り：70台（無料）／EV充電器設置",
     "nearestStation": "琴平",
@@ -66,11 +66,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/141266/141266map.gif",
     "reviewCount": 116,
     "reviewAverage": 4.47,
-    "userReview": "二度目の訪問、料理も美味しく部屋も綺麗二度目の訪問です。前回はステーキももっと大きかったかなぁと思いましたが、十分な量でした。料理も美味しく、部屋も奇麗、泥湯の露天風呂は、下に砂利があるので歩くと…　 ",
+    "userReview": "二度目の訪問、料理も美味しく部屋も綺麗二度目の訪問です。前回はステーキももっと大きかったかなぁと思いましたが、十分な量でした。料理も美味しく、部屋も奇麗、泥湯の露天風呂は、下に砂利があるので歩くと。",
     "hotelMinCharge": 24200,
     "address1": "秋田県",
     "address2": "湯沢市高松泥湯沢25",
-    "telephoneNo": "0183-79-3021",
+    "telephoneNo": "21",
     "access": "JR奥羽本線湯沢駅下車、車で50分。国道13号、県道51号を経て泥湯へ。",
     "parkingInformation": "有り　１５台　無料　予約不要",
     "nearestStation": "湯沢",
@@ -96,11 +96,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16581/16581map.gif",
     "reviewCount": 277,
     "reviewAverage": 3.96,
-    "userReview": "夕食は満足だが子供の食事と朝食は残念初めて利用しました。夕食は五島牛のすき焼きはとても美味しかった。刺し身も良かった。しかし、子供のワンプレートの食事は他のホテルと比較すると、手抜き感が際立ってい…　 ",
+    "userReview": "夕食は五島牛のすき焼きはとても美味しかった。刺し身も良かった。しかし、子供のワンプレートの食事は他のホテルと比較すると、手抜き感が際立ってい。",
     "hotelMinCharge": 9225,
     "address1": "長崎県",
     "address2": "五島市上大津町2413",
-    "telephoneNo": "0959-72-1348",
+    "telephoneNo": "48",
     "access": "福江港から福江空港方面へ 途中の広域農道の案内看板に従い左折し、約3ｋｍ",
     "parkingInformation": "有り（200台／無料／先着順）",
     "nearestStation": "福江空港",
@@ -182,7 +182,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「湯元こんぴら温泉華の湯 紅梅亭」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「湯元こんぴら温泉華の湯 紅梅亭」へは、ＪＲ琴平駅下車、徒歩5分（無料送迎有・要予約）。最寄りの琴平駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「湯元こんぴら温泉華の湯 紅梅亭」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「湯元こんぴら温泉華の湯 紅梅亭」は『露天風呂付スイートOPEN◆2種の源泉を楽しむ＜3箇所15種類の湯処＞でのんびり湯巡り』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「湯元こんぴら温泉華の湯 紅梅亭」と「泥湯温泉 奥山旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「湯元こんぴら温泉華の湯 紅梅亭」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「湯元こんぴら温泉華の湯 紅梅亭」へは、ＪＲ琴平駅下車、徒歩5分（無料送迎有・要予約）。最寄りの琴平駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「湯元こんぴら温泉華の湯 紅梅亭」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「湯元こんぴら温泉華の湯 紅梅亭」は『露天風呂付スイートOPEN◆2種の源泉を楽しむ＜3箇所15種類の湯処＞でのんびり湯巡り。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「湯元こんぴら温泉華の湯 紅梅亭」と「泥湯温泉 奥山旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         
         {/* 特集の魅力セクション */}
@@ -488,7 +488,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「湯元こんぴら温泉華の湯 紅梅亭」は『露天風呂付スイートOPEN◆2種の源泉を楽しむ＜3箇所15種類の湯処＞でのんびり湯巡り』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「湯元こんぴら温泉華の湯 紅梅亭」は『露天風呂付スイートOPEN◆2種の源泉を楽しむ＜3箇所15種類の湯処＞でのんびり湯巡り。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

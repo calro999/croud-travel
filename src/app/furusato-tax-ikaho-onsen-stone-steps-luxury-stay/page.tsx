@@ -62,7 +62,7 @@ export default function FurusatoIkahoOnsenStoneStepsStayPage() {
           365段の石段街と情緒あふれる湯滝！伊香保温泉の「黄金の湯」「白銀の湯」名門旅館＆上州牛会席×ふるさと納税完全攻略ガイド【2026年最新】福一・岸権・木暮
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-10">2026年9月10日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -164,7 +164,7 @@ export default function FurusatoIkahoOnsenStoneStepsStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “部屋は綺麗でラボットに子供も大喜び!部屋もとても綺麗で、ロビーには子供が喜ぶラボットがいました。石段街へのアクセスも抜群に良く、大変満足でした。また機会があれば利用したいと思います。クチコミの…　2026-08-30 20:52:13投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “部屋は綺麗でラボットに子供も大喜び!部屋もとても綺麗で、ロビーには子供が喜ぶラボットがいました。石段街へのアクセスも抜群に良く、大変満足でした。また機会があれば利用したいと思います。クチコミの… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -206,7 +206,7 @@ export default function FurusatoIkahoOnsenStoneStepsStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “心に残る素敵な旅になりましたすごく素敵な旅になりました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/6267?r…　2026-09-01 22:19:19投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “心に残る素敵な旅になりましたすごく素敵な旅になりました。 ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -248,7 +248,7 @@ export default function FurusatoIkahoOnsenStoneStepsStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “ウェルカムドリンクや食事、眺望に大満足!チェックインを待つ間のウェルカムドリンクがいろいろな種類があり美味しかったです。部屋に持ち帰れる紙コップの気遣い、嬉しかったです。お部屋は掃除がされてい…　2026-09-05 12:05:12投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “ウェルカムドリンクや食事、眺望に大満足!チェックインを待つ間のウェルカムドリンクがいろいろな種類があり美味しかったです。部屋に持ち帰れる紙コップの気遣い、嬉しかったです。お部屋は掃除がされてい… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -323,7 +323,7 @@ export default function FurusatoIkahoOnsenStoneStepsStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

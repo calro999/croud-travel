@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-27",
-    "dateModified": "2026-09-27",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/luxury-private-onsen-with-infinity-edge-footbath"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D31539%26f_flg%3DPLAN",
     "hotelMinCharge": 11550,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31539/31539.jpg",
-    "userReview": "あたたかな接客と海を望む露天風呂が最高駐車場で到着を待ってくださっていたりお部屋まで荷物を運んでくださったり終始あたたかな接客でした。露天風呂付きのお部屋を予約しました。温泉の泉質…　2026-09-12 08:05:34投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=31539\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "あたたかな接客と海を望む露天風呂が最高駐車場で到着を待ってくださっていたりお部屋まで荷物を運んでくださったり終始あたたかな接客でした。露天風呂付きのお部屋を予約しました。温泉の泉質。",
     "reviewAverage": 4.5,
     "reviewCount": 1619,
     "address": "和歌山県西牟婁郡白浜町2020",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D19271%26f_flg%3DPLAN",
     "hotelMinCharge": 14000,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19271/19271.jpg",
-    "userReview": "変わらずの気配りと美味しいアップルパイ2年ぶりに利用させていただきました。到着時から細やかな気配りをしていただき、チェックアウトまでリラックスして過ごすことができました。夕食デザートの…　2026-09-20 00:27:37投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=19271\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "変わらずの気配りと美味しいアップルパイ2年ぶりに利用させていただきました。到着時から細やかな気配りをしていただき、チェックアウトまでリラックスして過ごすことができました。夕食デザートの。",
     "reviewAverage": 4.54,
     "reviewCount": 3271,
     "address": "群馬県渋川市伊香保町伊香保164",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D108905%26f_flg%3DPLAN",
     "hotelMinCharge": 11800,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108905/108905.jpg",
-    "userReview": "少し気になる点がありましたラウンジがあるのはありがたかったですが、席数が少ないのですぐいっぱいでした。部屋にめちゃくちゃ大きいムカデが出ました、、、(    )3歳の子供がいたので夜とか寝…　2026-09-19 14:44:12投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=108905\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "少し気になる点がありましたラウンジがあるのはありがたかったですが、席数が少ないのですぐいっぱいでした。部屋にめちゃくちゃ大きいムカデが出ました、、、( )3歳の子供がいたので夜とか寝。",
     "reviewAverage": 3.86,
     "reviewCount": 1216,
     "address": "三重県鳥羽市小浜町城山610",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D5892%26f_flg%3DPLAN",
     "hotelMinCharge": 13490,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5892/5892.jpg",
-    "userReview": "佐渡島は最高だが温泉宿は求めないように温泉の定義をよく知らず泊まったのですが単純泉も温泉なのかぁ～。が本音です。やはり、それなりの金額を払う時は温泉と食事が気になりますね。佐渡島は…　2026-09-20 00:00:19投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=5892\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "佐渡島は最高だが温泉宿は求めないように温泉の定義をよく知らず泊まったのですが単純泉も温泉なのかぁ～。が本音です。やはり、それなりの金額を払う時は温泉と食事が気になりますね。佐渡島は。",
     "reviewAverage": 4.46,
     "reviewCount": 800,
     "address": "新潟県佐渡市相川鹿伏288番地2",
@@ -351,7 +351,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「白浜温泉 ホテル天山閣 海ゆぅ庭」は『高台から望む全室オーシャンビュー。全室露天風呂付きの宿で紀州の幸を贅沢に味わう』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「白浜温泉 ホテル天山閣 海ゆぅ庭」は『高台から望む全室オーシャンビュー。全室露天風呂付きの宿で紀州の幸を贅沢に味わう。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

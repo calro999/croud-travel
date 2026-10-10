@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/luxury-a5-matsusaka-yonezawa-beef-shabu-sukiyaki-stay"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D37898%26f_flg%3DPLAN",
     "hotelMinCharge": 8250,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/37898/37898.jpg",
-    "userReview": "榊原温泉を満喫榊原温泉満喫しました。混雑なくゆっくり温泉楽しみました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voi…　2026-09-16 18:52:21投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=37898\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "榊原温泉を満喫榊原温泉満喫しました。混雑なくゆっくり温泉楽しみました。",
     "reviewAverage": 3.97,
     "reviewCount": 769,
     "address": "三重県津市榊原町6010",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D15042%26f_flg%3DPLAN",
     "hotelMinCharge": 9900,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15042/15042.jpg",
-    "userReview": "雰囲気抜群の温泉と食事に大満足、また来たい建物の外観、内観ともに雰囲気があり、とても素敵な温泉旅館です。お部屋も大変快適に過ごすことができました。温泉も最高で、食事も大満足です。自信をもっておすす…　2026-09-16 16:59:06投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=15042\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "雰囲気抜群の温泉と食事に大満足、また来たい建物の外観、内観ともに雰囲気があり、とても素敵な温泉旅館です。お部屋も大変快適に過ごすことができました。温泉も最高で、食事も大満足です。自信をもっておすす。",
     "reviewAverage": 4.5,
     "reviewCount": 215,
     "address": "兵庫県姫路市夢前町塩田287",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D183218%26f_flg%3DPLAN",
     "hotelMinCharge": 7500,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183218/183218.jpg",
-    "userReview": "料理旅館の食事とアットホームな接客に大満足料理旅館は初めてでしたが、大人も子どももおいしく頂けました。接客もアットホームな感じで気さくにお話しできました。また三重に行く時は利用したいてす。クチ…　2026-08-16 09:37:22投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=183218\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "料理旅館の食事とアットホームな接客に大満足料理旅館は初めてでしたが、大人も子どももおいしく頂けました。接客もアットホームな感じで気さくにお話しできました。また三重に行く時は利用したいてす。クチ。",
     "reviewAverage": 4.16,
     "reviewCount": 57,
     "address": "三重県鈴鹿市庄野共進1-4-51",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D7624%26f_flg%3DPLAN",
     "hotelMinCharge": 9900,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7624/7624.jpg",
-    "userReview": "一人でも快適、食事や風呂も大満足一人でも宿泊できるのが良いです。一人部屋は普通ですが、食事、風呂、接客サービスなど、大変満足しました。クチコミの詳細はこちらから　https://review.…　2026-09-10 09:48:43投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=7624\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "一人でも快適、食事や風呂も大満足一人でも宿泊できるのが良いです。一人部屋は普通ですが、食事、風呂、接客サービスなど、大変満足しました。",
     "reviewAverage": 4.47,
     "reviewCount": 498,
     "address": "三重県名張市赤目町柏原1203",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D5644%26f_flg%3DPLAN",
     "hotelMinCharge": 7260,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5644/5644.jpg",
-    "userReview": "清掃が行き届いておらずほこりだらけ設備は古く階段のアップダウンがあるので足の悪い方にはおすすめできません。その辺りは事前に調べればわかるので問題なかったのですが、清掃が全く行き届いておらず、共有の…　2026-08-15 22:55:21投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=5644\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "清掃が行き届いておらずほこりだらけ設備は古く階段のアップダウンがあるので足の悪い方にはおすすめできません。その辺りは事前に調べればわかるので問題なかったのですが、清掃が全く行き届いておらず、共有の。",
     "reviewAverage": 3.52,
     "reviewCount": 265,
     "address": "三重県津市半田2860-1",
@@ -365,7 +365,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「榊原温泉 旅館 清少納言」は『枕草子にも 三大名泉 と謳われた、湯治にも最適の湯宿。温泉自慢！ 堂々の クチコミ★4.0』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「榊原温泉 旅館 清少納言」は『枕草子にも 三大名泉 と謳われた、湯治にも最適の湯宿。温泉自慢！堂々の クチコミ★4.0。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

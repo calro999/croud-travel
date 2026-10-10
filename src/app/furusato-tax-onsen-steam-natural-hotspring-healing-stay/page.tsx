@@ -49,7 +49,7 @@ export default function FurusatoOnsenSteamHealingStayPage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋」へは、「みゆき坂」から「いでゆ坂」へ下り、湯けむり通りへ入る。最寄りの別府（大分）駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋」は『湯けむりにつつまれる鉄輪。旅館ならではの、女将厳選の大分の食材でおもてなし。Wifi完備』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋」と「鹿児島 砂むし温泉 指宿白水館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋。」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋。」へは、「みゆき坂」から「いでゆ坂」へ下り、湯けむり通りへ入る。最寄りの別府（大分）駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋。」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋。」は『湯けむりにつつまれる鉄輪。旅館ならではの、女将厳選の大分の食材でおもてなし。Wifi完備。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋。」と「鹿児島 砂むし温泉 指宿白水館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -256,7 +256,7 @@ export default function FurusatoOnsenSteamHealingStayPage() {
                     錦江湾に面した広大な敷地と約170メートルの大回廊を誇る、南九州を代表する名門温泉旅館。館内には波打ち際の本格的な専用「天然砂むし温泉」が併設されており、外に出ることなく快適に砂むし入浴を体験できます。さらに江戸時代の風呂文化を現代に再現した圧巻の千坪大浴場「元禄風呂」では、打たせ湯や釜風呂など多彩なお風呂を満喫可能。鹿児島が誇る黒豚や黒毛和牛、きびなごなどの豪華薩摩会席とともに至福のひとときを約束します。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「・こんなにバイキング料理が充実してるのは初めて!1つ1つ美味しいし会場の席案内や 料理も スーツのスタッフさんがちゃんとみていて 食事の時間が楽しく過ごせる様に 気を利かせてらっしゃいました。… 2026-09-04 12:34:53投稿 …」
+                    「・こんなにバイキング料理が充実してるのは初めて!1つ1つ美味しいし会場の席案内や 料理も スーツのスタッフさんがちゃんとみていて 食事の時間が楽しく過ごせる様に 気を利かせてらっしゃいました。…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -317,7 +317,7 @@ export default function FurusatoOnsenSteamHealingStayPage() {
                     雲仙天草国立公園内に位置し、立ち上る雲仙地獄の噴気と穏やかなおしどりの池の湖畔に佇む上質な料理旅館。自家源泉から引かれる乳白色の濃厚な硫黄温泉は、美肌効果が高く湯上がりの肌がしっとりすべすべになると評判です。客室や露天風呂からは絵画のように美しい湖と山々の大自然が一望でき、四季折々の野鳥の声に心が洗われます。島原半島の豊かな山の幸と有明海の海の幸を融合させた極上の会席料理が旅を華やかに彩ります。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「心に残る避暑の旅車椅子の子どもと一緒の宿泊でしたが、終始、大変お気遣いいただき、快適に過ごすことができました。特に食事の際は1品ずつ目と舌で楽しませていただき、またサービス担当の方の丁… 2026-08-30 18:14:59投稿 つづきは…」
+                    「心に残る避暑の旅車椅子の子どもと一緒の宿泊でしたが、終始、大変お気遣いいただき、快適に過ごすことができました。特に食事の際は1品ずつ目と舌で楽しませていただき、またサービス担当の方の丁… つづきは。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -438,9 +438,9 @@ export default function FurusatoOnsenSteamHealingStayPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 別府（大分）駅よりアクセス。「みゆき坂」から「いでゆ坂」へ下り、湯けむり通りへ入る。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋」にチェックイン。湯けむりにつつまれる鉄輪。旅館ならではの、女将厳選の大分の食材でおもてなし。Wifi完備などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋」の湯処へ。湯けむりにつつまれる鉄輪。旅館ならではの、女将厳選の大分の食材でおもてとともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋。」にチェックイン。湯けむりにつつまれる鉄輪。旅館ならではの、女将厳選の大分の食材でおもてなし。Wifi完備などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋。」の湯処へ。湯けむりにつつまれる鉄輪。旅館ならではの、女将厳選の大分の食材でおもてとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -449,8 +449,8 @@ export default function FurusatoOnsenSteamHealingStayPage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「鹿児島 砂むし温泉 指宿白水館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
@@ -468,20 +468,20 @@ export default function FurusatoOnsenSteamHealingStayPage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋」へのアクセスや移動方法について</span>
+                <span>Q. 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋」へは、「みゆき坂」から「いでゆ坂」へ下り、湯けむり通りへ入る。最寄りの別府（大分）駅からの経路案内も充実しています。
+                A. 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋。」へは、「みゆき坂」から「いでゆ坂」へ下り、湯けむり通りへ入る。最寄りの別府（大分）駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋」の魅力や予約時のポイントは？</span>
+                <span>Q. 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋」は『湯けむりにつつまれる鉄輪。旅館ならではの、女将厳選の大分の食材でおもてなし。Wifi完備』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋。」は『湯けむりにつつまれる鉄輪。旅館ならではの、女将厳選の大分の食材でおもてなし。Wifi完備。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -490,7 +490,7 @@ export default function FurusatoOnsenSteamHealingStayPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋」と「鹿児島 砂むし温泉 指宿白水館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋。」と「鹿児島 砂むし温泉 指宿白水館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

@@ -34,11 +34,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/171946/171946map.gif",
     "reviewCount": 509,
     "reviewAverage": 4.61,
-    "userReview": "温泉の成分が湯船に折出るほど良いお湯で、チェックインして、夕食前、就寝前、起床後の三度、堪能しました。部屋に温泉がある幸せを満喫できます。次はサウナ付きの部屋に泊まってみたいですね。夕食も…　2026-09-19 21:17:13投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=171946\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "温泉の成分が湯船に折出るほど良いお湯で、チェックインして、夕食前、就寝前、起床後の三度、堪能しました。部屋に温泉がある幸せを満喫できます。次はサウナ付きの部屋に泊まってみたいですね。夕食も。",
     "hotelMinCharge": 4620,
     "address1": "鹿児島県",
     "address2": "霧島市隼人町松永2625",
-    "telephoneNo": "0995-43-4046",
+    "telephoneNo": "46",
     "access": "鹿児島空港より車で約15分【19時までなら鹿児島空港・国分駅まで無料送迎（要予約）】",
     "parkingInformation": "有り（無料）",
     "nearestStation": "日当山",
@@ -63,7 +63,7 @@ const hotels: any[] = [
     "hotelMinCharge": 18900,
     "address1": "大分県",
     "address2": "由布市湯布院町川上1314-1",
-    "telephoneNo": "0977-85-7822",
+    "telephoneNo": "22",
     "access": "ＪＲ由布院駅よりお車にて約7分/金鱗湖から車で5分",
     "parkingInformation": "有り　６台　無料　予約不要でございます。",
     "nearestStation": "由布院",
@@ -84,11 +84,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/180797/180797map.gif",
     "reviewCount": 86,
     "reviewAverage": 4.56,
-    "userReview": "初のグランピング、設備も食事も大満足!初のグランピングで利用させていただきました。結果、とても良かったです!部屋もとても綺麗で広く、冷房もあり、快適に過ごせました!冷蔵庫もついていたので良かっ…　2026-08-22 17:06:57投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=180797\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "初のグランピング、設備も食事も大満足!初のグランピングで利用させていただきました。結果、とても良かったです!部屋もとても綺麗で広く、冷房もあり、快適に過ごせました!冷蔵庫もついていたので良かっ。",
     "hotelMinCharge": 17725,
     "address1": "大分県",
     "address2": "由布市湯布院町川上1996-1",
-    "telephoneNo": "0977-75-9201",
+    "telephoneNo": "01",
     "access": "JR由布院駅から車で6分。湯布院インターチェンジから車で12分。金鱗湖まで車で8分。",
     "parkingInformation": "有り　１０台　予約不要",
     "nearestStation": "由布院",
@@ -109,11 +109,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/149269/149269map.gif",
     "reviewCount": 236,
     "reviewAverage": 3.39,
-    "userReview": "部屋と温泉は最高だが運営が残念部屋と温泉がすごく良いのに、オペレーションが全くボロボロなのが残念!もったいない!クチコミの詳細はこちらから　https://review.travel.raku…　2026-08-30 16:51:53投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=149269\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "落ち着いた心地よい空間の中、温かい温泉とおいしいお料理で日頃の疲れを癒やすことができました。",
     "hotelMinCharge": 6100,
     "address1": "神奈川県",
     "address2": "足柄上郡山北町中川448-2",
-    "telephoneNo": "0465-78-3621",
+    "telephoneNo": "21",
     "access": "新松田駅またはＪＲ谷峨駅から富士急湘南バス丹沢ホテル時之栖入口駅下車徒歩3分　車の場合大井松田ＩＣより車で30分",
     "parkingInformation": "有り　４０台　無料",
     "nearestStation": "新松田",
@@ -134,11 +134,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184489/184489map.gif",
     "reviewCount": 228,
     "reviewAverage": 4.26,
-    "userReview": "初めてのグランピング体験と食事の量に驚き初めてのグランピングだったので、貴重な体験ができた。朝ごはんがおいしかった。気になった点。夏の暑い日で車の中に入れたままにしたくないものがあり、チェ…　2026-09-18 06:38:53投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=184489\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "初めてのグランピング体験と食事の量に驚き初めてのグランピングだったので、貴重な体験ができた。朝ごはんがおいしかった。気になった点。夏の暑い日で車の中に入れたままにしたくないものがあり、チェ。",
     "hotelMinCharge": 9600,
     "address1": "栃木県",
     "address2": "那須郡那須町高久甲5461-1",
-    "telephoneNo": "0287-63-0325",
+    "telephoneNo": "25",
     "access": "JR那須塩原駅より車で30分",
     "parkingInformation": "有り　20台　無料　予約不要",
     "nearestStation": "那須塩原",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」へは、鹿児島空港より車で約15分 19時までなら鹿児島空港・国分駅まで無料送迎（要予約）。最寄りの日当山駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」は『温泉宿・グラン���ング全室で源泉掛け流しの天然炭酸泉が満喫できます。ペットOKの客室もご』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」と「由布院温泉グランピング 風の響き」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉。」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉。」へは、鹿児島空港より車で約15分 19時までなら鹿児島空港・国分駅まで無料送迎（要予約）。最寄りの日当山駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉。」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉。」は『温泉宿・グラン���ング全室で源泉掛け流しの天然炭酸泉が満喫できます。ペットOKの客室もご。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉。」と「由布院温泉グランピング 風の響き」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -585,9 +585,9 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 日当山駅よりアクセス。鹿児島空港より車で約15分 19時までなら鹿児島空港・国分駅まで無料送迎（要予約）。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」にチェックイン。温泉宿・グラン���ング全室で源泉掛け流しの天然炭酸泉が満喫できます。ペットOKの客室もございます。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」の湯処へ。温泉宿・グラン���ング全室で源泉掛け流しの天然炭酸泉が満喫できます。とともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉。」にチェックイン。温泉宿・グラン���ング全室で源泉掛け流しの天然炭酸泉が満喫できます。ペットOKの客室もございます。などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉。」の湯処へ。温泉宿・グラン���ング全室で源泉掛け流しの天然炭酸泉が満喫できます。とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -596,8 +596,8 @@ export default function FeatureDetailPage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「由布院温泉グランピング 風の響き」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
@@ -615,20 +615,20 @@ export default function FeatureDetailPage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」へのアクセスや移動方法について</span>
+                <span>Q. 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」へは、鹿児島空港より車で約15分 19時までなら鹿児島空港・国分駅まで無料送迎（要予約）。最寄りの日当山駅からの経路案内も充実しています。
+                A. 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉。」へは、鹿児島空港より車で約15分 19時までなら鹿児島空港・国分駅まで無料送迎（要予約）。最寄りの日当山駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」の魅力や予約時のポイントは？</span>
+                <span>Q. 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」は『温泉宿・グラン���ング全室で源泉掛け流しの天然炭酸泉が満喫できます。ペットOKの客室もご』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉。」は『温泉宿・グラン���ング全室で源泉掛け流しの天然炭酸泉が満喫できます。ペットOKの客室もご。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -637,7 +637,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」と「由布院温泉グランピング 風の響き」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉。」と「由布院温泉グランピング 風の響き」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

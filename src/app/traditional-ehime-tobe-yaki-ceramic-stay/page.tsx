@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【砥部焼のうつわ美＆伊予牛】白磁の伝統美と道後・奥道後温泉の極上癒やし宿5選",
     "description": "白磁に藍色の手描き模様が美しい愛媛の伝統陶磁器「砥部焼（とべやき）」の器で味わう、極上「伊予牛」の陶板焼き会席！日本最古の名湯・道後温泉や奥道後温泉で、伝統工芸と美肌湯に心ほどける大人の温泉旅。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-    "datePublished": "2026-03-27T00:00:00+09:00",
-    "dateModified": "2026-03-27T00:00:00+09:00",
+    "datePublished": "T00:00:00+09:00",
+    "dateModified": "T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

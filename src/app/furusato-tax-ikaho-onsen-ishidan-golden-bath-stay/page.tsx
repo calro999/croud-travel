@@ -39,8 +39,8 @@ export default function FurusatoArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-10T16:35:00+09:00',
-    dateModified: '2026-09-10T16:35:00+09:00',
+    datePublished: 'T16:35:00+09:00',
+    dateModified: 'T16:35:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-ikaho-onsen-ishidan-golden-bath-stay',
   };
 
@@ -203,7 +203,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.56点、口コミ1900件超。「石段街直結で観光に便利、お風呂も二種類の源泉に入れて最高」「スタッフの接客が洗練されていてお料理も大変美味しかった」と名門ならではの高評価。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.56点、口コミ1900件超。「石段街直結で観光に便利、お風呂も二種類の源泉に入れて最高。」「スタッフの接客が洗練されていてお料理も大変美味しかった。」と名門ならではの高評価。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -287,7 +287,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.40点、口コミ2100件超。「石段街がすぐそこで便利、お湯が正真正銘の茶褐色の黄金の湯で最高だった」「接客が親切で居心地が良かった」と好評です。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.40点、口コミ2100件超。「石段街がすぐそこで便利、お湯が正真正銘の茶褐色の黄金の湯で最高だった。」「接客が親切で居心地が良かった」と好評です。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.60点、口コミ1100件超。「黄金の湯の湯量が桁違いで最高のお湯」「無料の貸切風呂がたくさんあり、石段街も近くて最高だった」と熱心な温泉ファンから支持。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.60点、口コミ1100件超。「黄金の湯の湯量が桁違いで最高のお湯」「無料の貸切風呂がたくさんあり、石段街も近くて最高だった。」と熱心な温泉ファンから支持。</p>
               </div>
 
               {/* 宿基本情報 */}

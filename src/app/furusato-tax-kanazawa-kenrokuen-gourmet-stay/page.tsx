@@ -5,14 +5,14 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: '【金沢×ふるさと納税】兼六園の美景＆近江町市場の海の幸！加賀百万石の名門ホテル特集｜ホテル日航金沢・白鳥路山楽・THE HOTEL SANRAKU',
-  description: '北陸新幹線で東京から最速約2時間15分！加賀百万石の城下町・石川県金沢市を楽天ふるさと納税でお得に贅沢ステイ。金沢駅東口直結のランドマーク「ホテル日航金沢」、兼六園すぐ隣で天然温泉が湧くクラシック宿「金沢白鳥路 ホテル山楽」、近江町市場徒歩すぐの中庭庭園ホテル「THE HOTEL SANRAKU KANAZAWA」を徹底比較。金沢市トラベルクーポン活用術を網羅。',
+  description: '北陸新幹線で東京から最速約2時間15分！加賀百万石の城下町・石川県金沢市を楽天ふるさと納税でお得に贅沢ステイ。金沢駅東口直結のランドマーク「ホテル日航金沢」、兼六園すぐ隣で天然温泉が湧くクラシック宿「金沢白鳥路 ホテル山楽」、近江町市場徒歩すぐの中庭庭園ホテル「THE HOTEL SANRAKU KANAZAWA。」を徹底比較。金沢市トラベルクーポン活用術を網羅。',
   keywords: '金沢 ホテル ふるさと納税,ホテル日航金沢 ふるさと納税,金沢白鳥路ホテル山楽 クーポン,THE HOTEL SANRAKU KANAZAWA 宿泊,金沢市 ふるさと納税 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kanazawa-kenrokuen-gourmet-stay/",
   },
   openGraph: {
     title: '【金沢×ふるさと納税】兼六園の美景＆近江町市場の海の幸！加賀百万石の名門ホテル特集｜ホテル日航金沢・白鳥路山楽・THE HOTEL SANRAKU',
-    description: '北陸新幹線で東京から最速約2時間15分！加賀百万石の城下町・石川県金沢市を楽天ふるさと納税でお得に贅沢ステイ。金沢駅東口直結のランドマーク「ホテル日航金沢」、兼六園すぐ隣で天然温泉が湧くクラシック宿「金沢白鳥路 ホテル山楽」、近江町市場徒歩すぐの中庭庭園ホテル「THE HOTEL SANRAKU KANAZAWA」を徹底比較。金沢市トラベルクーポン活用術を網羅。',
+    description: '北陸新幹線で東京から最速約2時間15分！加賀百万石の城下町・石川県金沢市を楽天ふるさと納税でお得に贅沢ステイ。金沢駅東口直結のランドマーク「ホテル日航金沢」、兼六園すぐ隣で天然温泉が湧くクラシック宿「金沢白鳥路 ホテル山楽」、近江町市場徒歩すぐの中庭庭園ホテル「THE HOTEL SANRAKU KANAZAWA。」を徹底比較。金沢市トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kanazawa-kenrokuen-gourmet-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -25,7 +25,7 @@ export default function FurusatoArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【金沢×ふるさと納税】兼六園の美景＆近江町市場の海の幸！加賀百万石の名門ホテル特集｜ホテル日航金沢・白鳥路山楽・THE HOTEL SANRAKU',
-    description: '北陸新幹線で東京から最速約2時間15分！加賀百万石の城下町・石川県金沢市を楽天ふるさと納税でお得に贅沢ステイ。金沢駅東口直結のランドマーク「ホテル日航金沢」、兼六園すぐ隣で天然温泉が湧くクラシック宿「金沢白鳥路 ホテル山楽」、近江町市場徒歩すぐの中庭庭園ホテル「THE HOTEL SANRAKU KANAZAWA」を徹底比較。金沢市トラベルクーポン活用術を網羅。',
+    description: '北陸新幹線で東京から最速約2時間15分！加賀百万石の城下町・石川県金沢市を楽天ふるさと納税でお得に贅沢ステイ。金沢駅東口直結のランドマーク「ホテル日航金沢」、兼六園すぐ隣で天然温泉が湧くクラシック宿「金沢白鳥路 ホテル山楽」、近江町市場徒歩すぐの中庭庭園ホテル「THE HOTEL SANRAKU KANAZAWA。」を徹底比較。金沢市トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル 観光・ふるさと納税調査班',
@@ -39,8 +39,8 @@ export default function FurusatoArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-11T01:10:00+09:00',
-    dateModified: '2026-09-11T01:10:00+09:00',
+    datePublished: 'T01:10:00+09:00',
+    dateModified: 'T01:10:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-kanazawa-kenrokuen-gourmet-stay',
   };
 
@@ -49,7 +49,7 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ホテル日航金沢」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ホテル日航金沢」へは、JR金沢駅兼六園口（東口）より地下道で直結、徒歩3分程／小松空港より車で約40分。最寄りの金沢駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ホテル日航金沢」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ホテル日航金沢」は『ＪＲ金沢駅兼六園口（東口）より徒歩３分程の高層ホテル。客室は全て１７階以上／全室Wi-Fi』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ホテル日航金沢」と「金沢白鳥路 ホテル山楽」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ホテル日航金沢」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ホテル日航金沢」へは、JR金沢駅兼六園口（東口）より地下道で直結、徒歩3分程／小松空港より車で約40分。最寄りの金沢駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ホテル日航金沢」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ホテル日航金沢」は『ＪＲ金沢駅兼六園口（東口）より徒歩３分程の高層ホテル。客室は全て１７階以上／全室Wi-Fi。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ホテル日航金沢」と「金沢白鳥路 ホテル山楽」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -79,7 +79,7 @@ export default function FurusatoArticlePage() {
           【金沢×ふるさと納税】兼六園の美景＆近江町市場の海の幸！加賀百万石の名門ホテル特集｜ホテル日航金沢・白鳥路山楽・THE HOTEL SANRAKU
         </h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed">
-          北陸新幹線で東京から最速約2時間15分！加賀百万石の城下町・石川県金沢市を楽天ふるさと納税でお得に贅沢ステイ。金沢駅東口直結のランドマーク「ホテル日航金沢」、兼六園すぐ隣で天然温泉が湧くクラシック宿「金沢白鳥路 ホテル山楽」、近江町市場徒歩すぐの中庭庭園ホテル「THE HOTEL SANRAKU KANAZAWA」を徹底比較。金沢市トラベルクーポン活用術を網羅。
+          北陸新幹線で東京から最速約2時間15分！加賀百万石の城下町・石川県金沢市を楽天ふるさと納税でお得に贅沢ステイ。金沢駅東口直結のランドマーク「ホテル日航金沢」、兼六園すぐ隣で天然温泉が湧くクラシック宿「金沢白鳥路 ホテル山楽」、近江町市場徒歩すぐの中庭庭園ホテル「THE HOTEL SANRAKU KANAZAWA。」を徹底比較。金沢市トラベルクーポン活用術を網羅。
         </p>
       </header>
 
@@ -203,7 +203,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.70点、口コミ7000件超。「駅直結で立地最高、お部屋からの眺望と朝食の美味しさが異次元」「スタッフのサービスが洗練されていて金沢ならここ一択」と絶賛。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.70点、口コミ7000件超。「駅直結で立地最高、お部屋からの眺望と朝食の美味しさが異次元。」「スタッフのサービスが洗練されていて金沢ならここ一択。」と絶賛。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -287,7 +287,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.55点、口コミ3400件超。「兼六園がすぐ隣で観光に最高、天然温泉がお肌すべすべになった」「クラシカルなステンドグラスが美しくお料理も絶品」と大好評。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.55点、口コミ3400件超。「兼六園がすぐ隣で観光に最高、天然温泉がお肌すべすべになった。」「クラシカルなステンドグラスが美しくお料理も絶品。」と大好評。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.70点、口コミ極めて高評価。「近江町市場の目の前で便利、中庭の滝を見ながら過ごすラウンジが最高」「お部屋の内装が豪華でスタッフも親切」とリピーター続出。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.70点、口コミ極めて高評価。「近江町市場の目の前で便利、中庭の滝を見ながら過ごすラウンジが最高。」「お部屋の内装が豪華でスタッフも親切」とリピーター続出。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -578,7 +578,7 @@ export default function FurusatoArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「ホテル日航金沢」は『ＪＲ金沢駅兼六園口（東口）より徒歩３分程の高層ホテル。客室は全て１７階以上／全室Wi-Fi』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「ホテル日航金沢」は『ＪＲ金沢駅兼六園口（東口）より徒歩３分程の高層ホテル。客室は全て１７階以上／全室Wi-Fi。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

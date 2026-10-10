@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kobe-sannomiya-solo-business-sauna-onsen-stay/" },
   title: '【神戸三宮出張・極上サウナステイ】サウナシュラン殿堂の聖地・異人館港町夜景・神戸牛！関西屈指の洗練都市を極める厳選3宿',
-  description: '新神戸駅から地下鉄で1駅、大阪梅田からもJR新快速で21分！日本サウナ界の至宝・フィンランドサウナ＆露天水風呂を誇る「神戸サウナ＆スパ」、ライフスタイル型のお洒落ラウンジと快適ステイの「ザ ロイヤルパーク キャンバス 神戸三宮」、駅近で抜群の安心感と広々客室を誇る「ダイワロイネットホテル神戸三宮」を徹底比較。',
+  description: '新神戸駅から地下鉄で1駅、大阪梅田からもJR新快速で21分！日本サウナ界の至宝・フィンランドサウナ＆露天水風呂を誇る「神戸サウナ＆スパ」、ライフスタイル型のお洒落ラウンジと快適ステイの「ザ ロイヤルパーク キャンバス 神戸三宮。」、駅近で抜群の安心感と広々客室を誇る「ダイワロイネットホテル神戸三宮」を徹底比較。',
   keywords: '神戸 三宮 出張 ホテル,神戸 サウナ ホテル,神戸サウナ＆スパ,ザロイヤルパークキャンバス神戸三宮,ダイワロイネットホテル神戸三宮,三宮 サウナ ひとり旅',
   openGraph: {
     title: '【神戸三宮出張・極上サウナステイ】サウナシュラン殿堂の聖地・異人館港町夜景・神戸牛！関西屈指の洗練都市を極める厳選3宿',
-    description: '新神戸駅から地下鉄で1駅、大阪梅田からもJR新快速で21分！日本サウナ界の至宝・フィンランドサウナ＆露天水風呂を誇る「神戸サウナ＆スパ」、ライフスタイル型のお洒落ラウンジと快適ステイの「ザ ロイヤルパーク キャンバス 神戸三宮」、駅近で抜群の安心感と広々客室を誇る「ダイワロイネットホテル神戸三宮」を徹底比較。',
+    description: '新神戸駅から地下鉄で1駅、大阪梅田からもJR新快速で21分！日本サウナ界の至宝・フィンランドサウナ＆露天水風呂を誇る「神戸サウナ＆スパ」、ライフスタイル型のお洒落ラウンジと快適ステイの「ザ ロイヤルパーク キャンバス 神戸三宮。」、駅近で抜群の安心感と広々客室を誇る「ダイワロイネットホテル神戸三宮」を徹底比較。',
     url: 'https://croud-travel.pages.dev/kobe-sannomiya-solo-business-sauna-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【神戸三宮出張・極上サウナステイ】サウナシュラン殿堂の聖地・異人館港町夜景・神戸牛！関西屈指の洗練都市を極める厳選3宿',
-    description: '新神戸駅から地下鉄で1駅、大阪梅田からもJR新快速で21分！日本サウナ界の至宝・フィンランドサウナ＆露天水風呂を誇る「神戸サウナ＆スパ」、ライフスタイル型のお洒落ラウンジと快適ステイの「ザ ロイヤルパーク キャンバス 神戸三宮」、駅近で抜群の安心感と広々客室を誇る「ダイワロイネットホテル神戸三宮」を徹底比較。',
+    description: '新神戸駅から地下鉄で1駅、大阪梅田からもJR新快速で21分！日本サウナ界の至宝・フィンランドサウナ＆露天水風呂を誇る「神戸サウナ＆スパ」、ライフスタイル型のお洒落ラウンジと快適ステイの「ザ ロイヤルパーク キャンバス 神戸三宮。」、駅近で抜群の安心感と広々客室を誇る「ダイワロイネットホテル神戸三宮」を徹底比較。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・出張調査班',
@@ -37,8 +37,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-13T00:00:00+09:00',
-    dateModified: '2026-09-13T00:00:00+09:00',
+    datePublished: 'T00:00:00+09:00',
+    dateModified: 'T00:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/kobe-sannomiya-solo-business-sauna-onsen-stay',
   };
 
@@ -76,7 +76,7 @@ export default function ArticlePage() {
           【神戸三宮出張・極上サウナステイ】サウナシュラン殿堂の聖地・異人館港町夜景・神戸牛！関西屈指の洗練都市を極める厳選3宿
         </h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
-          <time dateTime="2026-09-13">2026.09.13 更新</time>
+          <time dateTime="">2026.09.13 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
         </div>
@@ -344,7 +344,7 @@ export default function ArticlePage() {
                 <span>三宮で日本を代表する本格サウナに泊まりたいならどこ？</span>
               </h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
-                「神戸サウナ＆スパ（ホテルカプセルイン神戸）」は男性専用のサウナ聖地。24時間サウナ・温泉入り放題で、充実した館内サウナ飯も堪能できます。
+                「神戸サウナ＆スパ（ホテルカプセルイン神戸）。」は男性専用のサウナ聖地。24時間サウナ・温泉入り放題で、充実した館内サウナ飯も堪能できます。
               </p>
             </div>
             <div className="bg-white p-4 sm:p-5 rounded-xl border border-stone-200">
@@ -353,7 +353,7 @@ export default function ArticlePage() {
                 <span>三宮駅前で女性の一人旅やカップル・通常宿泊にも最適なデザインホテルは？</span>
               </h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
-                「ザ ロイヤルパーク キャンバス 神戸三宮」は地下鉄三宮駅徒歩約2分。スタイリッシュなキャンバスラウンジや大浴場（提携施設）を備え、快適な滞在を提供します。
+                「ザ ロイヤルパーク キャンバス 神戸三宮。」は地下鉄三宮駅徒歩約2分。スタイリッシュなキャンバスラウンジや大浴場（提携施設）を備え、快適な滞在を提供します。
               </p>
             </div>
           </div>

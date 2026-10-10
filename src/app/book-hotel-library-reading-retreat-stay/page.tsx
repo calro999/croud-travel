@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/book-hotel-library-reading-retreat-stay"
   };
 
@@ -83,7 +83,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/25295/25295map.gif",
     "reviewCount": 1310,
     "reviewAverage": 4.46,
-    "userReview": "部屋食と温泉、サプライズのお祝いに大満足自宅から1時間かからない近くの温泉でゆっくりする目的で利用しました。夕食事は部屋食でゆっくり出来てとてもよかったです。地元の食材やジビエと量…　2026-09-17 11:06:27投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=25295\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "部屋食と温泉、サプライズのお祝いに大満足自宅から1時間かからない近くの温泉でゆっくりする目的で利用しました。夕食事は部屋食でゆっくり出来てとてもよかったです。地元の食材やジビエと量。",
     "hotelMinCharge": 8250,
     "address1": "三重県",
     "address2": "三重郡菰野町菰野8497",
@@ -108,11 +108,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184034/184034map.gif",
     "reviewCount": 1087,
     "reviewAverage": 4.64,
-    "userReview": "朝食の揚げたて天ぷらが絶品で大満足!朝食の天ぷらがとても美味しかったです。係の方が一つひとつ丁寧に揚げてくれて朝から得した気分になりました!また、利用させていただきますクチコミの詳細は…　2026-09-17 23:28:45投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=184034\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "朝食の揚げたて天ぷらが絶品で大満足!朝食の天ぷらがとても美味しかったです。係の方が一つひとつ丁寧に揚げてくれて朝から得した気分になりました!また、利用させていただきますクチコミの詳細は。",
     "hotelMinCharge": 10452,
     "address1": "長野県",
     "address2": "松本市深志1-5-17",
-    "telephoneNo": "0263-37-5489",
+    "telephoneNo": "89",
     "access": "松本駅　徒歩5分",
     "parkingInformation": "有28台(15:00～翌12:00）1泊1400円/台(途中出庫は有料）バイクは詳細確認ください",
     "nearestStation": "松本",
@@ -133,7 +133,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108257/108257map.gif",
     "reviewCount": 727,
     "reviewAverage": 3.94,
-    "userReview": "夜景と温泉に感動、忘れ物の対応も迅速平日でお部屋が空いているとの事でランクアップしてもらいました。お部屋に入ったとたん、みな、うわあと声を上げるほどの夜景。お食事も長崎ならではのお料理を堪能でき、…　2026-09-17 22:53:45投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=108257\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "夜景と温泉に感動、忘れ物の対応も迅速平日でお部屋が空いているとの事でランクアップしてもらいました。お部屋に入ったとたん、みな、うわあと声を上げるほどの夜景。お食事も長崎ならではのお料理を堪能でき、。",
     "hotelMinCharge": 4500,
     "address1": "長崎県",
     "address2": "長崎市曙町39-38",

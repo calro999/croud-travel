@@ -48,8 +48,8 @@ export default function ShuzenjiWinterPage() {
         "headline": "【11・12月修善寺温泉の遅咲き紅葉と竹林】伊豆の小京都で桂川の静寂と伊豆牛会席を堪能する極上湯宿5選",
         "description": "日本で最も遅い11月中旬から12月上旬にかけて見頃を迎える伊豆最古の名湯・修善寺温泉の紅葉。桂川のせせらぎに寄り添う「竹林の小径」と朱塗りの橋、弘法大師ゆかりの独鈷の湯。天城の清流が育む本生わさびと芳醇な伊豆牛ステーキ、駿河湾の冬魚を味わう静寂の初冬ステイ。",
         "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80",
-        "datePublished": "2026-09-27T00:00:00+09:00",
-        "dateModified": "2026-09-27T00:00:00+09:00",
+        "datePublished": "T00:00:00+09:00",
+        "dateModified": "T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

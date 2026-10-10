@@ -4,14 +4,14 @@ import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: '浴衣と下駄で七つの外湯を巡る！城崎温泉の柳並木通り＆最高峰但馬牛・カニ名宿×ふるさと納税完全攻略ガイド【2026年最新】招月庭・小宿縁・つちや旅館',
-  description: '「駅は玄関、道路は廊下、宿は客室、外湯は大浴場」！浴衣に下駄を鳴らして巡る城崎温泉の七湯。「西村屋ホテル招月庭」「但馬牛極みの宿 小宿 縁」「城崎温泉 つちや旅館」を、兵庫県豊岡市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。外湯無料パス、五万坪森林庭園、但馬牛ステーキ、カニ料理を満喫。',
+  description: '「駅は玄関、道路は廊下、宿は客室、外湯は大浴場。」！浴衣に下駄を鳴らして巡る城崎温泉の七湯。「西村屋ホテル招月庭」「但馬牛極みの宿 小宿 縁」「城崎温泉 つちや旅館」を、兵庫県豊岡市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。外湯無料パス、五万坪森林庭園、但馬牛ステーキ、カニ料理を満喫。',
   keywords: ["最高峰但馬牛", "2026年最新", "招月庭", "小宿縁", "つちや旅館", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kinosaki-onsen-sotoyu-meguri-ryokan-stay/",
   },
   openGraph: {
     title: '浴衣と下駄で七つの外湯を巡る！城崎温泉の柳並木通り＆最高峰但馬牛・カニ名宿×ふるさと納税完全攻略ガイド【2026年最新】招月庭・小宿縁・つちや旅館',
-    description: '「駅は玄関、道路は廊下、宿は客室、外湯は大浴場」！浴衣に下駄を鳴らして巡る城崎温泉の七湯。「西村屋ホテル招月庭」「但馬牛極みの宿 小宿 縁」「城崎温泉 つちや旅館」を、兵庫県豊岡市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。外湯無料パス、五万坪森林庭園、但馬牛ステーキ、カニ料理を満喫。',
+    description: '「駅は玄関、道路は廊下、宿は客室、外湯は大浴場。」！浴衣に下駄を鳴らして巡る城崎温泉の七湯。「西村屋ホテル招月庭」「但馬牛極みの宿 小宿 縁」「城崎温泉 つちや旅館」を、兵庫県豊岡市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。外湯無料パス、五万坪森林庭園、但馬牛ステーキ、カニ料理を満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kinosaki-onsen-sotoyu-meguri-ryokan-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
@@ -25,7 +25,7 @@ export default function FurusatoKinosakiSotoyuMeguriStayPage() {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "浴衣と下駄で七つの外湯を巡る！城崎温泉の柳並木通り＆最高峰但馬牛・カニ名宿×ふるさと納税完全攻略ガイド【2026年最新】招月庭・小宿縁・つちや旅館",
-    "description": "「駅は玄関、道路は廊下、宿は客室、外湯は大浴場」！浴衣に下駄を鳴らして巡る城崎温泉の七湯。「西村屋ホテル招月庭」「但馬牛極みの宿 小宿 縁」「城崎温泉 つちや旅館」を、兵庫県豊岡市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。外湯無料パス、五万坪森林庭園、但馬牛ステーキ、カニ料理を満喫。",
+    "description": "「駅は玄関、道路は廊下、宿は客室、外湯は大浴場。」！浴衣に下駄を鳴らして巡る城崎温泉の七湯。「西村屋ホテル招月庭」「但馬牛極みの宿 小宿 縁」「城崎温泉 つちや旅館」を、兵庫県豊岡市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。外湯無料パス、五万坪森林庭園、但馬牛ステーキ、カニ料理を満喫。",
     "url": "https://croud-travel.pages.dev/furusato-tax-kinosaki-onsen-sotoyu-meguri-ryokan-stay/",
     "publisher": {
       "@type": "Organization",
@@ -62,7 +62,7 @@ export default function FurusatoKinosakiSotoyuMeguriStayPage() {
           浴衣と下駄で七つの外湯を巡る！城崎温泉の柳並木通り＆最高峰但馬牛・カニ名宿×ふるさと納税完全攻略ガイド【2026年最新】招月庭・小宿縁・つちや旅館
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-09">2026年9月9日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -77,7 +77,7 @@ export default function FurusatoKinosakiSotoyuMeguriStayPage() {
           カランコロンと響く下駄の音、大溪川の柳並木と石橋。七つの外湯が旅人を迎える城崎温泉の風流な休日へ
         </h2>
         <p className="text-base md:text-lg text-gray-800 leading-relaxed mb-6">
-          大溪川（おおたにがわ）沿いに揺れる緑の柳並木、太鼓橋の情緒、そして浴衣姿の旅人たちが行き交う温泉街——。開湯千三百年を誇る兵庫県の「城崎温泉（きのさき）」は、「街全体が一つの大きな温泉旅館」という独特の文化を受け継ぐ日本随一の風情ある名湯です。城崎の醍醐味は、宿泊者に配られる無料パス「ゆめぱ」を使って巡る「七つの外湯めぐり（一の湯、御所の湯、まんだら湯、さとの湯、柳湯、地蔵湯、鴻の湯）」。それぞれ趣やご利益が異なる名湯を巡り、湯上がりに川沿いのカフェで地ビールやジェラートを味わう時間は、日本旅行の原点とも言える幸せに満ちています。さらに食の魅力も全国トップクラス。冬の松葉ガニはもちろん、年間を通じて最高峰の黒毛和牛のルーツ「但馬牛（たじまぎゅう）」の炭火ステーキやしゃぶしゃぶが旅人を虜にします。本特集では、老舗西村屋の伝統を受け継ぎ五万坪の森林庭園と極上スパ・大浴場を誇るリゾート「西村屋ホテル招月庭」、城崎駅徒歩3分・但馬牛専門レストランを併設したスタイリッシュな大人の隠れ宿「但馬牛極みの宿 小宿 縁」、そして一の湯徒歩1分・柳並木通りに面した創業百余年の木造名門「城崎温泉 つちや旅館」の3宿を厳選。兵庫県豊岡市への楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円で城崎温泉の極上旅を予約しましょう。
+          大溪川（おおたにがわ）沿いに揺れる緑の柳並木、太鼓橋の情緒、そして浴衣姿の旅人たちが行き交う温泉街——。開湯千三百年を誇る兵庫県の「城崎温泉（きのさき）」は、「街全体が一つの大きな温泉旅館」という独特の文化を受け継ぐ日本随一の風情ある名湯です。城崎の醍醐味は、宿泊者に配られる無料パス「ゆめぱ」を使って巡る「七つの外湯めぐり（一の湯、御所の湯、まんだら湯、さとの湯、柳湯、地蔵湯、鴻の湯）。」。それぞれ趣やご利益が異なる名湯を巡り、湯上がりに川沿いのカフェで地ビールやジェラートを味わう時間は、日本旅行の原点とも言える幸せに満ちています。さらに食の魅力も全国トップクラス。冬の松葉ガニはもちろん、年間を通じて最高峰の黒毛和牛のルーツ「但馬牛（たじまぎゅう）」の炭火ステーキやしゃぶしゃぶが旅人を虜にします。本特集では、老舗西村屋の伝統を受け継ぎ五万坪の森林庭園と極上スパ・大浴場を誇るリゾート「西村屋ホテル招月庭」、城崎駅徒歩3分・但馬牛専門レストランを併設したスタイリッシュな大人の隠れ宿「但馬牛極みの宿 小宿 縁」、そして一の湯徒歩1分・柳並木通りに面した創業百余年の木造名門「城崎温泉 つちや旅館」の3宿を厳選。兵庫県豊岡市への楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円で城崎温泉の極上旅を予約しましょう。
         </p>
         <div className="bg-white/90 rounded-xl p-4 md:p-5 border border-amber-300 shadow-sm">
           <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5">
@@ -164,7 +164,7 @@ export default function FurusatoKinosakiSotoyuMeguriStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “食事の美味しさとスタッフの温かい対応に感動食事の美味しさに何より驚きました。さすが西村屋だなと思いました。夕食はもちろんのこと、朝食ビュッフェで何気なく並んでいるおばんざいも美味しくて、子供が大き…　2026-08-23 16:38:25投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “食事の美味しさとスタッフの温かい対応に感動食事の美味しさに何より驚きました。さすが西村屋だなと思いました。夕食はもちろんのこと、朝食ビュッフェで何気なく並んでいるおばんざいも美味しくて、子供が大き… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -206,7 +206,7 @@ export default function FurusatoKinosakiSotoyuMeguriStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “但馬牛のコース料理と親切な接客に大満足但馬牛の料理が、コースで出来たてで美味しく食べれて、とても良かったです。従業員の方々も、とても親切で良かったです。クチコミの詳細はこちらから　http…　2026-08-29 03:16:22投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “但馬牛のコース料理と親切な接客に大満足但馬牛の料理が、コースで出来たてで美味しく食べれて、とても良かったです。従業員の方々も、とても親切で良かったです。
             </blockquote>
           </div>
           <div className="pt-2">
@@ -248,7 +248,7 @@ export default function FurusatoKinosakiSotoyuMeguriStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “記念日のサプライズ対応と料理に大満足今回は記念日旅行で利用させていただきました。サプライズも考えていたので、宿泊前から旅館の方と連絡を取らせていただいていましたがその際からとても親切で当日がとても…　2026-08-01 20:10:51投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “記念日のサプライズ対応と料理に大満足今回は記念日旅行で利用させていただきました。サプライズも考えていたので、宿泊前から旅館の方と連絡を取らせていただいていましたがその際からとても親切で当日がとても… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -323,7 +323,7 @@ export default function FurusatoKinosakiSotoyuMeguriStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

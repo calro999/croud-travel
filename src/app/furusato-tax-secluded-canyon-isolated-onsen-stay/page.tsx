@@ -313,7 +313,7 @@ export default function FurusatoTaxPage() {
                               黒部・宇奈月温泉　やまのは（オリックスホテルズ＆リゾーツ）
                             </h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
-                              おかげさまで連続受賞！「楽天トラベル 日本の宿アワード2025 TOP47」♪
+                              おかげさまで連続受賞！「楽天トラベル 日本の宿アワード2025 TOP47。」♪
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
                               <span>📍</span>

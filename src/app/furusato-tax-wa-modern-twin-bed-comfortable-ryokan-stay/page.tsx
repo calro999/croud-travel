@@ -49,7 +49,7 @@ export default function FurusatoWaModernTwinBedStayPage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「黒川温泉 旅館湯本荘」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「黒川温泉 旅館湯本荘」へは、大分道日田ＩＣから小国方面へ車で５０分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「黒川温泉 旅館湯本荘」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「黒川温泉 旅館湯本荘」は『温泉街、川沿いに建つレトロなお宿。源泉掛け流しの露天風呂他に家族湯が３つ。夕食は素材豊かな』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「黒川温泉 旅館湯本荘」と「季の湯 雪月花」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「黒川温泉 旅館湯本荘」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「黒川温泉 旅館湯本荘」へは、大分道日田ＩＣから小国方面へ車で５０分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「黒川温泉 旅館湯本荘」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「黒川温泉 旅館湯本荘」は『温泉街、川沿いに建つレトロなお宿。源泉掛け流しの露天風呂他に家族湯が３つ。夕食は素材豊かな。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「黒川温泉 旅館湯本荘」と「季の湯 雪月花」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -72,7 +72,7 @@ export default function FurusatoWaModernTwinBedStayPage() {
             畳の温もりと高級ベッドの極上快眠！和モダンツインベッド客室温泉旅館×ふるさと納税完全ガイド【2026年最新】黒川・箱根強羅・京都嵐山
           </h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
-            「旅館の落ち着いた和の風情や畳の香りは大好きだけれど、床に敷いた布団から立ち上がるのは足腰に負担がかかる」「食事の前後にお布団の上げ下げで仲居さんが部屋に入ってくるのが少し落ち着かない」――そんな現代の旅行者のニーズに応えて大人気となっているのが「和モダンツインベッド（ローベッド）客室」です。琉球畳や無垢材のフローリングの上に、シモンズやシーリー、サータなど世界の一流ホテルが採用する高品質なマットレスを設置。日中は畳の上で足を伸ばしてのんびりと寛ぎ、夜は身体の負担を軽減するベッドで朝までぐっすり熟睡できるという、旅館とホテルの“いいとこ取り”の滞在スタイルが実現します。阿蘇の清流沿いに建ちシモンズ社製ベッド完備の和モダン客室を誇る「黒川温泉 旅館湯本荘」、強羅駅前すぐの好立地で全客室に檜の温泉露天風呂と快適な低床ベッドを備える「季の湯 雪月花」、そして全館畳敷きで素足のまま歩け嵐山の観光拠点として五つの貸切風呂を満喫できる「京都 嵐山温泉 花伝抄」。ご両親への親孝行旅行やご夫婦の記念日旅に最適な名宿を、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を使って実質2,000円で賢く予約し、快適至極の温泉旅行へ出かけましょう。
+            「旅館の落ち着いた和の風情や畳の香りは大好きだけれど、床に敷いた布団から立ち上がるのは足腰に負担がかかる。」「食事の前後にお布団の上げ下げで仲居さんが部屋に入ってくるのが少し落ち着かない。」――そんな現代の旅行者のニーズに応えて大人気となっているのが「和モダンツインベッド（ローベッド）客室」です。琉球畳や無垢材のフローリングの上に、シモンズやシーリー、サータなど世界の一流ホテルが採用する高品質なマットレスを設置。日中は畳の上で足を伸ばしてのんびりと寛ぎ、夜は身体の負担を軽減するベッドで朝までぐっすり熟睡できるという、旅館とホテルの“いいとこ取り”の滞在スタイルが実現します。阿蘇の清流沿いに建ちシモンズ社製ベッド完備の和モダン客室を誇る「黒川温泉 旅館湯本荘」、強羅駅前すぐの好立地で全客室に檜の温泉露天風呂と快適な低床ベッドを備える「季の湯 雪月花」、そして全館畳敷きで素足のまま歩け嵐山の観光拠点として五つの貸切風呂を満喫できる「京都 嵐山温泉 花伝抄」。ご両親への親孝行旅行やご夫婦の記念日旅に最適な名宿を、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を使って実質2,000円で賢く予約し、快適至極の温泉旅行へ出かけましょう。
           </p>
           <div className="flex flex-wrap gap-4 pt-4 border-t border-amber-900/50 text-xs text-amber-200/90 font-medium">
             <span>✓ 寄付額の最大30％相当が宿泊クーポンに</span>
@@ -195,7 +195,7 @@ export default function FurusatoWaModernTwinBedStayPage() {
                     黒川温泉街の中央を流れる田の原川のほとりに位置し、木造の温もりある佇まいが人気の温泉旅館。リニューアルされた和モダン客室には、快眠を約束するシモンズ社製の高級ベッドを完備し、和室の風情そのままに快適な眠りを提供しています。川のせせらぎを間近に感じる大浴場や露天風呂、無料で利用できる趣の異なる貸切風呂も大好評。夕食には熊本特産の霜降り馬刺しや肥後あか牛、地元小国の採れたて山菜を使った繊細な手作り会席が並び、心温まる九州の温泉情緒に包まれます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「温かいおもてなしに癒やされる良い時間子供たちから両親へのプレゼントとして利用させていただきました。建物は歴史を感じる趣のある造りですが、かわいらしい飾り付けがあったり、無料のコーヒーサービスが… 2026-08-04 20:14:27投稿 …」
+                    「温かいおもてなしに癒やされる良い時間子供たちから両親へのプレゼントとして利用させていただきました。建物は歴史を感じる趣のある造りですが、かわいらしい飾り付けがあったり、無料のコーヒーサービスが…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -256,7 +256,7 @@ export default function FurusatoWaModernTwinBedStayPage() {
                     箱根登山鉄道・強羅駅の目の前に建ち、全客室のテラスに檜造りの客室露天風呂を備えた共立リゾート屈指の人気宿。客室には快適なローベッドが配置され、和の寛ぎとベッドの寝心地の良さを両立しています。大浴場では強羅温泉の異なる二つの源泉を楽しめるほか、庭園に点在する3つの無料貸切露天風呂も完備。夕食には「和食会席」または「国産牛しゃぶしゃぶ・寿司」の2つのコースから好みに合わせて選択可能で、カップルやご夫婦の快適な箱根旅行に絶大な支持を集めています。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「移動が多く足腰の弱い母には少し大変でした母が足腰弱いのでお部屋にお風呂、家族風呂もある所、そして息子はサウナが好きなのでその両方を満たせるようにと思いこの宿を選びました。ホテルに着くと部屋までが遠… 2026-09-02 09:34:58投…」
+                    「移動が多く足腰の弱い母には少し大変でした母が足腰弱いのでお部屋にお風呂、家族風呂もある所、そして息子はサウナが好きなのでその両方を満たせるようにと思いこの宿を選びました。ホテルに着くと部屋までが遠… 投。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -293,7 +293,7 @@ export default function FurusatoWaModernTwinBedStayPage() {
               <div className="relative h-64 sm:h-72 w-full overflow-hidden bg-stone-100">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/130702/130702.jpg"
-                  alt="京都　嵐山温泉　花伝抄（共立リゾート）（２０２６年５月１日リニューアルオープン）"
+                  alt="京都　嵐山温泉　花伝抄（共立リゾート）（リニューアルオープン）"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                   loading="lazy"
                 />
@@ -311,13 +311,13 @@ export default function FurusatoWaModernTwinBedStayPage() {
                     京都府京都市・阪急嵐山駅前！全館畳敷きの和モダンローベッド客室と五つの無料貸切温泉
                   </div>
                   <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    京都　嵐山温泉　花伝抄（共立リゾート）（２０２６年５月１日リニューアルオープン）
+                    京都　嵐山温泉　花伝抄（共立リゾート）（リニューアルオープン）
                   </h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     阪急嵐山駅の目の前に位置し、玄関で靴を脱いだら全館すべて畳敷きの心地よい空間が広がる和モダン温泉宿。客室は京都の伝統的な京町家の風情を残しながら、快適な低床ツインベッドを配置し、旅の疲れを優しく癒やします。天然温泉の大浴場に加え、趣の異なる5つの貸切風呂（檜・陶器・岩・竹・レンガ）を予約不要・無料で何度でも湯めぐり可能。夕食には四季折々の京会席と揚げたて天ぷらのオーダーバイキングを堪能でき、古都・嵐山の風雅な夜を満喫できます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「天ぷらとおばんざいが絶品、また泊まりたい懐石料理を頼みました天ぷらはすっごく美味しかったです!!おばんざいも京都ならではの優しいお出汁と湯葉が美味しかったです!次回も旅行の際は泊まりたいです… 2026-09-01 22:32:51投稿 つ…」
+                    「天ぷらとおばんざいが絶品、また泊まりたい懐石料理を頼みました天ぷらはすっごく美味しかったです!おばんざいも京都ならではの優しいお出汁と湯葉が美味しかったです!次回も旅行の際は泊まりたいです… つ。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -481,7 +481,7 @@ export default function FurusatoWaModernTwinBedStayPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「黒川温泉 旅館湯本荘」は『温泉街、川沿いに建つレトロなお宿。源泉掛け流しの露天風呂他に家族湯が３つ。夕食は素材豊かな』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「黒川温泉 旅館湯本荘」は『温泉街、川沿いに建つレトロなお宿。源泉掛け流しの露天風呂他に家族湯が３つ。夕食は素材豊かな。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

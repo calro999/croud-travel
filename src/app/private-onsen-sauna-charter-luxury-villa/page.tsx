@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/private-onsen-sauna-charter-luxury-villa"
   };
 
@@ -87,7 +87,7 @@ export default function Page() {
     "hotelMinCharge": 22940,
     "address1": "三重県",
     "address2": "鳥羽市安楽島町字高山1075-11",
-    "telephoneNo": "0599-21-1700",
+    "telephoneNo": "00",
     "access": "近鉄鳥羽駅よりお車にて約8分",
     "parkingInformation": "あり　8台　無料",
     "nearestStation": "鳥羽",

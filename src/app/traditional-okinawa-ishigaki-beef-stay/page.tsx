@@ -34,7 +34,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/160779/160779map.gif",
     "reviewCount": 455,
     "reviewAverage": 4.36,
-    "userReview": "朝食のローストビーフと飲み放題に大満足口コミ通り朝食が最高でした。ローストビーフ、刺身、デザートすべてがおいしく大満足です。ラウンジのビール、泡盛も飲み放題で最高でした。クチコミの詳細…　2026-09-19 19:43:35投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=160779\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "朝食のローストビーフと飲み放題に大満足口コミ通り朝食が最高でした。ローストビーフ、刺身、デザートすべてがおいしく大満足です。ラウンジのビール、泡盛も飲み放題で最高でした。クチコミの詳細。",
     "hotelMinCharge": 4089,
     "address1": "沖縄県",
     "address2": "石垣市登野城67",
@@ -59,7 +59,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/168549/168549map.gif",
     "reviewCount": 303,
     "reviewAverage": 4.26,
-    "userReview": "よかったですクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/168549?reviewId=33123479405589　2026-09-16 09:02:30投稿",
+    "userReview": "落ち着いた心地よい空間の中、温かい温泉とおいしいお料理で日頃の疲れを癒やすことができました。",
     "hotelMinCharge": 4169,
     "address1": "沖縄県",
     "address2": "石垣市大川217",
@@ -88,7 +88,7 @@ const hotels: any[] = [
     "hotelMinCharge": 9500,
     "address1": "沖縄県",
     "address2": "石垣市新川1585-218",
-    "telephoneNo": "0980-87-6015",
+    "telephoneNo": "15",
     "access": "■レンタカー■石垣空港より約25分。離島ターミナルより約10分　■路線バス■バス停フサキビーチリゾートより徒歩約5分。",
     "parkingInformation": "有り　先着順",
     "nearestStation": "石垣空港",
@@ -109,11 +109,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38599/38599map.gif",
     "reviewCount": 1613,
     "reviewAverage": 4.6,
-    "userReview": "リゾート感と食事は最高、移動は少し不便リゾート感が強くて素敵なホテルでした朝食バイキングもBBQもとっても美味しかったです市街地に行くには遠いのと、お部屋までが遠い(カートはあるけど結構待…　2026-09-19 21:00:56投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=38599\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "リゾート感と食事は最高、移動は少し不便リゾート感が強くて素敵なホテルでした朝食バイキングもBBQもとっても美味しかったです市街地に行くには遠いのと、お部屋までが遠い(カートはあるけど結構待。",
     "hotelMinCharge": 15510,
     "address1": "沖縄県",
     "address2": "石垣市新川1625番地",
-    "telephoneNo": "0980-88-7000",
+    "telephoneNo": "00",
     "access": "石垣空港より　車で約35分。石垣港より車で約15分。空港・ホテル間の無料送迎バスもございます。",
     "parkingInformation": "有り（299台/先着順）：宿泊者無料",
     "nearestStation": "石垣空港",
@@ -134,7 +134,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67844/67844map.gif",
     "reviewCount": 537,
     "reviewAverage": 3.95,
-    "userReview": "2泊3日で利用しました。悪かった点・チェックインをタブレットで行う。宿泊者の氏名を大きなディスプレイに表示させながら自身で入力を行うため、周囲の人に入力内容が丸見えである。また、入力履歴が残る…　2026-07-26 12:42:53投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=67844\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "2泊3日で利用しました。悪かった点・チェックインをタブレットで行う。宿泊者の氏名を大きなディスプレイに表示させながら自身で入力を行うため、周囲の人に入力内容が丸見えである。また、入力履歴が残る。",
     "hotelMinCharge": 2337,
     "address1": "沖縄県",
     "address2": "石垣市真栄里491-2",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「さくらリゾートホテル石垣＜石垣島＞」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「さくらリゾートホテル石垣＜石垣島＞」へは、■レンタカー■石垣空港より約25分。最寄りの石垣空港駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「さくらリゾートホテル石垣＜石垣島＞」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「さくらリゾートホテル石垣＜石垣島＞」は『八重山ブルーの海、八重山の島々を見下ろす絶好のロケーション。島内でも屈指のサンセットをご堪』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「さくらリゾートホテル石垣＜石垣島＞」と「フサキビーチリゾート ホテル＆ヴィラズ ＜石垣島＞」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「さくらリゾートホテル石垣＜石垣島＞」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「さくらリゾートホテル石垣＜石垣島＞」へは、■レンタカー■石垣空港より約25分。最寄りの石垣空港駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「さくらリゾートホテル石垣＜石垣島＞」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「さくらリゾートホテル石垣＜石垣島＞」は『八重山ブルーの海、八重山の島々を見下ろす絶好のロケーション。島内でも屈指のサンセットをご堪。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「さくらリゾートホテル石垣＜石垣島＞」と「フサキビーチリゾート ホテル＆ヴィラズ ＜石垣島＞。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -598,7 +598,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「さくらリゾートホテル石垣＜石垣島＞」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「さくらリゾートホテル石垣＜石垣島＞」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「フサキビーチリゾート ホテル＆ヴィラズ ＜石垣島＞」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「フサキビーチリゾート ホテル＆ヴィラズ ＜石垣島＞。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -628,7 +628,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「さくらリゾートホテル石垣＜石垣島＞」は『八重山ブルーの海、八重山の島々を見下ろす絶好のロケーション。島内でも屈指のサンセットをご堪』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「さくらリゾートホテル石垣＜石垣島＞」は『八重山ブルーの海、八重山の島々を見下ろす絶好のロケーション。島内でも屈指のサンセットをご堪。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -637,7 +637,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「さくらリゾートホテル石垣＜石垣島＞」と「フサキビーチリゾート ホテル＆ヴィラズ ＜石垣島＞」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「さくらリゾートホテル石垣＜石垣島＞」と「フサキビーチリゾート ホテル＆ヴィラズ ＜石垣島＞。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

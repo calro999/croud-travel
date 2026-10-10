@@ -39,8 +39,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
-    "datePublished": "2026-09-23",
-    "dateModified": "2026-09-23",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-tottori-dune-sand-museum-stay"
   };
 
@@ -441,7 +441,7 @@ export default function Page() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「鳥取砂丘の夕日と砂の美術館！鳥取温泉の源泉かけ流し・11月解禁の松葉がにと鳥取和牛を味わう秋旅」を効率よく巡るコツは？</span>
+                <span>Q. 「鳥取砂丘の夕日と砂の美術館！鳥取温泉の源泉かけ流し・11月解禁の松葉がにと鳥取和牛を味わう秋旅。」を効率よく巡るコツは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">

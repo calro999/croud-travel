@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-27",
-    "dateModified": "2026-09-27",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/traditional-hida-beef-houba-miso-grill-stay"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D30848%26f_flg%3DPLAN",
     "hotelMinCharge": 9900,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30848/30848.jpg",
-    "userReview": "夕食が絶品、温泉で山歩きの疲れも解消食事、特に夕食がとても美味しくいただきました。長い山歩きの後宿泊しました。温泉もゆったり入れ、疲れが取れました。機会があれば是非また泊まりたいと思います。ク…　2026-09-09 11:20:00投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=30848\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "夕食が絶品、温泉で山歩きの疲れも解消食事、特に夕食がとても美味しくいただきました。長い山歩きの後宿泊しました。温泉もゆったり入れ、疲れが取れました。機会があれば是非また泊まりたいと思います。ク。",
     "reviewAverage": 4.7,
     "reviewCount": 303,
     "address": "岐阜県高山市奥飛騨温泉郷平湯８５－１０",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D4992%26f_flg%3DPLAN",
     "hotelMinCharge": 12650,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4992/4992.jpg",
-    "userReview": "階段が多くサービスも行き届かず残念全てが階段で部屋も入り組んでいるので年配のかたは困難です。サービスのドリンク等も見回りもしないのか空で放置状態食事の際のドリンクもスタッフ…　2026-09-11 19:58:34投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=4992\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "サービスのドリンク等も見回りもしないのか空で放置状態食事の際のドリンクもスタッフ。",
     "reviewAverage": 4.59,
     "reviewCount": 283,
     "address": "岐阜県高山市西之一色町3-829",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D38508%26f_flg%3DPLAN",
     "hotelMinCharge": 7150,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38508/38508.jpg",
-    "userReview": "源泉掛け流しの湯と親切な接客に大満足源泉掛け流しの湯が最高に気持ちよかったスタッフの方も親切で質問に真摯に対応くださって大変気持ちよかったです。立地もメイン通りに近く散策しやすかったですクチコ…　2026-09-08 20:52:48投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=38508\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "源泉掛け流しの湯と親切な接客に大満足源泉掛け流しの湯が最高に気持ちよかったスタッフの方も親切で質問に真摯に対応くださって大変気持ちよかったです。立地もメイン通りに近く散策しやすかったですクチコ。",
     "reviewAverage": 4.44,
     "reviewCount": 224,
     "address": "岐阜県下呂市湯之島281",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D20046%26f_flg%3DPLAN",
     "hotelMinCharge": 6600,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20046/20046.jpg",
-    "userReview": "心地よい旅館一番の感想は、スタッフの方々の笑顔が多くて接客が心地良いです。貸切露天風呂は洗い場が無いので、お部屋か大浴場で一度体を洗ってから服を着て移動する必要がありますが、予約制じゃないから…　2026-09-19 09:20:20投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=20046\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "心地よい旅館一番の感想は、スタッフの方々の笑顔が多くて接客が心地良いです。貸切露天風呂は洗い場が無いので、お部屋か大浴場で一度体を洗ってから服を着て移動する必要がありますが、予約制じゃないから。",
     "reviewAverage": 4.16,
     "reviewCount": 357,
     "address": "岐阜県高山市奥飛騨温泉郷一重ヶ根522-1",

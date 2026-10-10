@@ -188,8 +188,8 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
     "headline": post.title,
     "description": post.description || post.title,
     "image": post.image ? [post.image] : [],
-    "datePublished": post.date || "2026-01-01",
-    "dateModified": post.date || "2026-01-01",
+    "datePublished": post.date || "",
+    "dateModified": post.date || "",
     "author": { "@type": "Organization", "name": "日本全国・旅宿クラウド編集部" },
     "publisher": {
       "@type": "Organization",
@@ -251,7 +251,7 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
       q: `${post.hotel_name}は${post.prefecture}のどのエリアにありますか？`,
       a: `${post.hotel_name}は${post.prefecture}の${post.area}エリアに位置しています。${
         post.nearby_tourist_spots && post.nearby_tourist_spots.length > 0
-          ? `周辺には「${post.nearby_tourist_spots.slice(0, 2).join('」「')}」などの観光スポットが徒歩圏内にあり、観光拠点として最適です。`
+          ? `周辺には「${post.nearby_tourist_spots.slice(0, 2).join('。」「')}」などの観光スポットが徒歩圏内にあり、観光拠点として最適です。`
           : "周辺観光地へのアクセスも良好で、旅の拠点に最適な立地です。"
       }`
     },
@@ -278,7 +278,7 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
     {
       q: `${post.prefecture}で味わいたいご当地グルメや名産品は何ですか？`,
       a: post.nearby_gourmet && post.nearby_gourmet.length > 0
-        ? `${post.prefecture}ならではの新鮮な地場食材を使った料理や名物グルメが豊富です。特に宿周辺で楽しめる「${post.nearby_gourmet.join('」や「')}」などは旅行者から大人気で、ぜひ現地で味わっていただきたい逸品です。`
+        ? `${post.prefecture}ならではの新鮮な地場食材を使った料理や名物グルメが豊富です。特に宿周辺で楽しめる「${post.nearby_gourmet.join('。」や「')}」などは旅行者から大人気で、ぜひ現地で味わっていただきたい逸品です。`
         : `${post.prefecture}ならではの新鮮な地場食材を使った料理や名物グルメが豊富です。ホテル周辺や観光地近くの飲食店で、ぜひ地元の味覚をご堪能ください。`
     }
   ];

@@ -39,8 +39,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
-    "datePublished": "2026-09-24",
-    "dateModified": "2026-09-24",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-shizuoka-ito-izukogen-autumn-stay"
   };
 
@@ -215,7 +215,7 @@ export default function Page() {
             <div className="space-y-3">
               <h4 className="font-bold text-stone-900 text-sm">宿の魅力と秋の過ごし方</h4>
               <p className="text-sm text-stone-700 leading-relaxed">
-                【2025年12月22日リニューアルオープン】里山を再現した湯宿☆3種の貸切風呂は全て無料
+                【リニューアルオープン】里山を再現した湯宿☆3種の貸切風呂は全て無料
               </p>
               <div className="bg-stone-50 p-3 rounded text-xs text-stone-600 space-y-1">
                 <p><span className="font-semibold text-stone-800">アクセス:</span> 車：伊豆高原駅より送迎バスで約7分　車：小田原厚木道路『石橋IC』～国道135号線『中大見口』より県道112号線へ。</p>
@@ -405,8 +405,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 伊豆高原駅よりアクセス。車：伊豆高原駅より送迎バスで約7分 車：小田原厚木道路『石橋IC』～国道135号線『中大見口』より県道112号線へ。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「杜の湯 きらの里」にチェックイン。2025年12月22日リニューアルオープン 里山を再現した湯宿☆3種の貸切風呂は全て無料などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「杜の湯 きらの里」の湯処へ。2025年12月22日リニューアルオープン 里山を再現した湯宿☆3種のとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「杜の湯 きらの里」にチェックイン。リニューアルオープン 里山を再現した湯宿☆3種の貸切風呂は全て無料などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「杜の湯 きらの里」の湯処へ。リニューアルオープン 里山を再現した湯宿☆3種のとともに、夕暮れの特別な寛ぎを満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「杜の湯 きらの里」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -418,7 +418,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「杜の湯 きらの里」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「杜の湯 きらの里」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「伊豆高原温泉 客室露天風呂付リゾートホテル コルテラルゴ伊豆高原」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「伊豆高原温泉 客室露天風呂付リゾートホテル コルテラルゴ伊豆高原。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -448,7 +448,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「杜の湯 きらの里」は『2025年12月22日リニューアルオープン 里山を再現した湯宿☆3種の貸切風呂は全て無料』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「杜の湯 きらの里」は『リニューアルオープン 里山を再現した湯宿☆3種の貸切風呂は全て無料。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -457,7 +457,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「杜の湯 きらの里」と「伊豆高原温泉 客室露天風呂付リゾートホテル コルテラルゴ伊豆高原」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「杜の湯 きらの里」と「伊豆高原温泉 客室露天風呂付リゾートホテル コルテラルゴ伊豆高原。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

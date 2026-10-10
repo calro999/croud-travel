@@ -62,7 +62,7 @@ export default function FurusatoArimaOnsenKinsenGinsenStayPage() {
           日本最古の名湯！有馬温泉の金泉・銀泉めぐり＆最高峰神戸牛会席老舗旅館×ふるさと納税完全攻略ガイド【2026年最新】兵衛向陽閣・御所坊・月光園鴻朧館
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-10">2026年9月10日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -164,7 +164,7 @@ export default function FurusatoArimaOnsenKinsenGinsenStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “憧れのお宿で心温まるおもてなしと温泉を満喫憧れのお宿に泊まることができて、とても嬉しかったです。こちらの事情で、チェックインが遅くなり、夕飯が遅いスタートになってしまったのですが、荷物や車など様々…　2026-09-05 08:23:30投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “憧れのお宿で心温まるおもてなしと温泉を満喫憧れのお宿に泊まることができて、とても嬉しかったです。こちらの事情で、チェックインが遅くなり、夕飯が遅いスタートになってしまったのですが、荷物や車など様々… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -206,7 +206,7 @@ export default function FurusatoArimaOnsenKinsenGinsenStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “蒸し風呂も楽しめる!とにかく濃厚な温泉を楽しみに5度目くらい?の利用です。母がとても気に入っており、有馬に行きたい!となると必ずお世話になっています。お宿としての雰囲気、空間、サービスも最高で…　2026-08-03 22:35:14投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “蒸し風呂も楽しめる!とにかく濃厚な温泉を楽しみに5度目くらい?の利用です。母がとても気に入っており、有馬に行きたい!となると必ずお世話になっています。お宿としての雰囲気、空間、サービスも最高で… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -248,7 +248,7 @@ export default function FurusatoArimaOnsenKinsenGinsenStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “上品な会席料理と部屋風呂で記念日を祝福会席料理が前菜からデザートまですごく上品で美味しかったです。部屋風呂も清潔に保たれており、リラックスして過ごすことができました。結婚記念日に旅行に行ったのです…　2026-09-01 22:20:48投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “上品な会席料理と部屋風呂で記念日を祝福会席料理が前菜からデザートまですごく上品で美味しかったです。部屋風呂も清潔に保たれており、リラックスして過ごすことができました。結婚記念日に旅行に行ったのです… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -323,7 +323,7 @@ export default function FurusatoArimaOnsenKinsenGinsenStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

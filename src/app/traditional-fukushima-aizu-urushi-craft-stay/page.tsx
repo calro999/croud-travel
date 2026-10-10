@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【会津漆器の艶やかな器と郷土会席】伝統美学！東山温泉・芦ノ牧温泉の歴史名湯宿5選",
     "description": "400年以上の歴史を誇る会津の伝統工芸「会津漆器」！漆のしっとりとした手触りと上品な艶をたたえる器で味わう福島牛や会津郷土料理、そして竹久夢二や与謝野晶子も愛した東山温泉の名湯に浸かる風雅な旅。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-    "datePublished": "2026-03-27T00:00:00+09:00",
-    "dateModified": "2026-03-27T00:00:00+09:00",
+    "datePublished": "T00:00:00+09:00",
+    "dateModified": "T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

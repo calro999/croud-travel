@@ -48,8 +48,8 @@ export default function IzukogenWinterPage() {
         "headline": "【11・12月伊豆高原グランイルミ】日本一の体験型イルミと伊東温泉・金目鯛姿煮宿5選",
         "description": "11月中旬から本格シーズンを迎える全国ランキング第1位の体験型ナイトエンターテインメント「伊豆高原グランイルミ」！光の地上絵やジップラインを満喫した後は、伊東・伊豆高原の美肌温泉露天風呂と、冬に脂が最高に乗る名物・金目鯛の姿煮に舌鼓を打つ極上リゾートステイ。",
         "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-        "datePublished": "2026-09-27T00:00:00+09:00",
-        "dateModified": "2026-09-27T00:00:00+09:00",
+        "datePublished": "T00:00:00+09:00",
+        "dateModified": "T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

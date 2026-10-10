@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【11・12月！さっぽろホワイトイルミネーション】光の祭典と定山渓・小樽雪見温泉宿5選",
     "description": "11月下旬から札幌の夜をロマンチックに彩る日本初のイルミネーション「さっぽろホワイトイルミネーション」！大通公園の光の芸術を鑑賞した後は、札幌の奥座敷・定山渓温泉の雪見露天風呂と北海道冬グルメを堪能する旅。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-    "datePublished": "2026-09-27T00:00:00+09:00",
-    "dateModified": "2026-09-27T00:00:00+09:00",
+    "datePublished": "T00:00:00+09:00",
+    "dateModified": "T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

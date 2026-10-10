@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-12T17:40:00+09:00',
-    dateModified: '2026-09-12T17:40:00+09:00',
+    datePublished: 'T17:40:00+09:00',
+    dateModified: 'T17:40:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/naruto-tokushima-solo-retreat-whirlpool-museum-stay',
   };
 
@@ -77,7 +77,7 @@ export default function ArticlePage() {
           【鳴門・徳島ひとり旅・南欧風おこもり】鳴門の渦潮・大塚国際美術館・全室客室露天風呂！鳴門海峡を望む極上リゾート厳選3宿
         </h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
-          <time dateTime="2026-09-12">2026.09.12 更新</time>
+          <time dateTime="">2026.09.12 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
         </div>

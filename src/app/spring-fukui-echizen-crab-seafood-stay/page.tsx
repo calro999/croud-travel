@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【越前がにと若狭ふぐ】日本海の冬春極上味覚！福井・あわら温泉と三方五湖の美食名湯宿5選",
     "description": "黄色いタグ付き最高級「越前がに」の茹でたてアツアツと、ぷりぷりの歯ごたえがたまらない「若狭ふぐ」！関西の奥座敷・あわら温泉の風情あふれる庭園旅館で、北陸最高峰の冬春グルメを堪能する旅。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-    "datePublished": "2026-03-27T00:00:00+09:00",
-    "dateModified": "2026-03-27T00:00:00+09:00",
+    "datePublished": "T00:00:00+09:00",
+    "dateModified": "T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",
@@ -153,7 +153,7 @@ export default function FeaturePage() {
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「愛犬と添い寝できる温泉旅館 あわら温泉 月香」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「愛犬と添い寝できる温泉旅館 あわら温泉 月香」へは、ＪＲ あわら温泉駅よりお車にて約１５分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「愛犬と添い寝できる温泉旅館 あわら温泉 月香」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「愛犬と添い寝できる温泉旅館 あわら温泉 月香」は『愛犬と温泉旅館で過ごすという贅沢。お食事のときも寛ぎのときもワンちゃんと一緒にお過ごしいた』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「愛犬と添い寝できる温泉旅館 あわら温泉 月香」と「越前あわら温泉 長谷川」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「愛犬と添い寝できる温泉旅館 あわら温泉 月香。」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「愛犬と添い寝できる温泉旅館 あわら温泉 月香。」へは、ＪＲ あわら温泉駅よりお車にて約１５分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「愛犬と添い寝できる温泉旅館 あわら温泉 月香。」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「愛犬と添い寝できる温泉旅館 あわら温泉 月香。」は『愛犬と温泉旅館で過ごすという贅沢。お食事のときも寛ぎのときもワンちゃんと一緒にお過ごしいた。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「愛犬と添い寝できる温泉旅館 あわら温泉 月香。」と「越前あわら温泉 長谷川」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -337,9 +337,9 @@ export default function FeaturePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> ＪＲ あわら温泉駅よりお車にて約１５分で現地へ到着。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「愛犬と添い寝できる温泉旅館 あわら温泉 月香」にチェックイン。愛犬と温泉旅館で過ごすという贅沢。お食事のときも寛ぎのときもワンちゃんと一緒にお過ごしいただけます。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「愛犬と添い寝できる温泉旅館 あわら温泉 月香」の湯処へ。愛犬と温泉旅館で過ごすという贅沢。お食事のときも寛ぎのときもワンちゃんとともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「愛犬と添い寝できる温泉旅館 あわら温泉 月香」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「愛犬と添い寝できる温泉旅館 あわら温泉 月香。」にチェックイン。愛犬と温泉旅館で過ごすという贅沢。お食事のときも寛ぎのときもワンちゃんと一緒にお過ごしいただけます。などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「愛犬と添い寝できる温泉旅館 あわら温泉 月香。」の湯処へ。愛犬と温泉旅館で過ごすという贅沢。お食事のときも寛ぎのときもワンちゃんとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「愛犬と添い寝できる温泉旅館 あわら温泉 月香。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -348,8 +348,8 @@ export default function FeaturePage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「愛犬と添い寝できる温泉旅館 あわら温泉 月香」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「愛犬と添い寝できる温泉旅館 あわら温泉 月香」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「愛犬と添い寝できる温泉旅館 あわら温泉 月香。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「愛犬と添い寝できる温泉旅館 あわら温泉 月香。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「越前あわら温泉 長谷川」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
@@ -367,20 +367,20 @@ export default function FeaturePage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「愛犬と添い寝できる温泉旅館 あわら温泉 月香」へのアクセスや移動方法について</span>
+                <span>Q. 「愛犬と添い寝できる温泉旅館 あわら温泉 月香。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「愛犬と添い寝できる温泉旅館 あわら温泉 月香」へは、ＪＲ あわら温泉駅よりお車にて約１５分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。
+                A. 「愛犬と添い寝できる温泉旅館 あわら温泉 月香。」へは、ＪＲ あわら温泉駅よりお車にて約１５分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「愛犬と添い寝できる温泉旅館 あわら温泉 月香」の魅力や予約時のポイントは？</span>
+                <span>Q. 「愛犬と添い寝できる温泉旅館 あわら温泉 月香。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「愛犬と添い寝できる温泉旅館 あわら温泉 月香」は『愛犬と温泉旅館で過ごすという贅沢。お食事のときも寛ぎのときもワンちゃんと一緒にお過ごしいた』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「愛犬と添い寝できる温泉旅館 あわら温泉 月香。」は『愛犬と温泉旅館で過ごすという贅沢。お食事のときも寛ぎのときもワンちゃんと一緒にお過ごしいた。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -389,7 +389,7 @@ export default function FeaturePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「愛犬と添い寝できる温泉旅館 あわら温泉 月香」と「越前あわら温泉 長谷川」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「愛犬と添い寝できる温泉旅館 あわら温泉 月香。」と「越前あわら温泉 長谷川」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

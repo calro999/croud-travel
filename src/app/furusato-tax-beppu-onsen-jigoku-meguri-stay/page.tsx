@@ -62,7 +62,7 @@ export default function FurusatoBeppuOnsenJigokuStayPage() {
           源泉数・湧出量日本一！別府八湯＆地獄めぐりと大パノラマ露天風呂名門ホテル×ふるさと納税完全攻略ガイド【2026年最新】杉乃井・山水館・亀の井
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-10">2026年9月10日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -164,7 +164,7 @@ export default function FurusatoBeppuOnsenJigokuStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “毎年来たいホテルNo. 1初めての杉乃井ホテル仕事場の上司に勧められて来ましたが想像以上に満足できるホテルで、毎年遊びに来たいと思えるホテルです。一日中遊べて子供も大人も楽しめます。ク…　2026-09-05 14:42:36投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “毎年来たいホテルNo. 1初めての杉乃井ホテル仕事場の上司に勧められて来ましたが想像以上に満足できるホテルで、毎年遊びに来たいと思えるホテルです。一日中遊べて子供も大人も楽しめます。ク… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -206,7 +206,7 @@ export default function FurusatoBeppuOnsenJigokuStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “部屋は綺麗で展望風呂と大浴場を満喫部屋は綺麗で、窓際が和室になっていてとてもよかったです温泉は展望風呂と大浴場の2種類があって楽しめます欲を言えばぬる湯が一箇所でもあるといいなと思いました…　2026-08-25 16:40:07投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “部屋は綺麗で展望風呂と大浴場を満喫部屋は綺麗で、窓際が和室になっていてとてもよかったです温泉は展望風呂と大浴場の2種類があって楽しめます欲を言えばぬる湯が一箇所でもあるといいなと思いました… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -248,7 +248,7 @@ export default function FurusatoBeppuOnsenJigokuStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “駅近でリーズナブル、スタッフの対応も良好3回目の利用です。別府の駅から近くて便利です。古さは感じますが、掃除が行き届いていて、スタッフがとても感じが良く、料金もリーズナブルです。今回は…　2026-09-05 18:44:22投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “駅近でリーズナブル、スタッフの対応も良好3回目の利用です。別府の駅から近くて便利です。古さは感じますが、掃除が行き届いていて、スタッフがとても感じが良く、料金もリーズナブルです。今回は… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -323,7 +323,7 @@ export default function FurusatoBeppuOnsenJigokuStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

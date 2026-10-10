@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/craft-gin-whisky-distillery-boutique-stay"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D56778%26f_flg%3DPLAN",
     "hotelMinCharge": 7920,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/56778/56778.jpg",
-    "userReview": "温泉とショーに大満足、また行きたい!アジアンスイートを利用させていただきましたが、スタッフさん方はみなさん丁寧に接客してくれますし、温泉も最高でしたし、平日限定の湯上がりサロンのビールがめちゃくち…　2026-09-19 08:21:55投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=56778\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "温泉とショーに大満足、また行きたい!アジアンスイートを利用させていただきましたが、スタッフさん方はみなさん丁寧に接客してくれますし、温泉も最高でしたし、平日限定の湯上がりサロンのビールがめちゃくち。",
     "reviewAverage": 4.2,
     "reviewCount": 4750,
     "address": "岐阜県下呂市幸田1811",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D38879%26f_flg%3DPLAN",
     "hotelMinCharge": 9300,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38879/38879.jpg",
-    "userReview": "接客もサービスも最高、カニと海鮮に大満足!綺麗で接客も過去イチな宿!無料の卓球、おでん、アイスなどのサービスが充実し、夕食のカニ、海鮮食べ放題も絶品でした!家族4人で快適に滞在できました。絶対にま…　2026-09-15 13:42:19投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=38879\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "接客もサービスも最高、カニと海鮮に大満足!綺麗で接客も過去イチな宿!無料の卓球、おでん、アイスなどのサービスが充実し、夕食のカニ、海鮮食べ放題も絶品でした!家族4人で快適に滞在できました。絶対にま。",
     "reviewAverage": 3.77,
     "reviewCount": 712,
     "address": "石川県加賀市山代温泉東山町16番地の1",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D13536%26f_flg%3DPLAN",
     "hotelMinCharge": 9900,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13536/13536.jpg",
-    "userReview": "両親との旅行に最適、料理も部屋も大満足当日雨で、早く到着してしまいましたが快くロビーへ案内くださいました。高齢の両親を連れていましたので本当に助かりました。ありがとうございました。夕飯…　2026-09-15 10:56:02投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=13536\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "両親との旅行に最適、料理も部屋も大満足当日雨で、早く到着してしまいましたが快くロビーへ案内くださいました。高齢の両親を連れていましたので本当に助かりました。ありがとうございました。夕飯。",
     "reviewAverage": 4.54,
     "reviewCount": 814,
     "address": "三重県三重郡菰野町菰野8520-1",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D73998%26f_flg%3DPLAN",
     "hotelMinCharge": 13500,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/73998/73998.jpg",
-    "userReview": "ゆったりとした食事会場と果てまで続く高原の眺望は得難いもの那須の同種の某リゾートより部屋数が多いしと期待値を下げていったのですが、広い分、ゆったり感は優っており、特に朝夕食会場のテーブルが余裕を持…　2026-09-09 16:26:05投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=73998\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "ゆったりとした食事会場と果てまで続く高原の眺望は得難いもの那須の同種の某リゾートより部屋数が多いしと期待値を下げていったのですが、広い分、ゆったり感は優っており、特に朝夕食会場のテーブルが余裕を持。",
     "reviewAverage": 4.34,
     "reviewCount": 685,
     "address": "栃木県那須郡那須町高久丙1792",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D39175%26f_flg%3DPLAN",
     "hotelMinCharge": 15400,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/39175/39175.jpg",
-    "userReview": "風呂が良いクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/39175?reviewId=33123479436925　2026-09-19 09:17:48投稿",
+    "userReview": "落ち着いた心地よい空間の中、温かい温泉とおいしいお料理で日頃の疲れを癒やすことができました。",
     "reviewAverage": 4.25,
     "reviewCount": 3320,
     "address": "北海道登別市登別温泉町154",
@@ -365,7 +365,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「下呂温泉 ホテルくさかべアルメリア」は『下呂市街を一望出来る展望露天風呂！和洋中50種を超えるバイキングや飛騨牛を使用したフルコー』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「下呂温泉 ホテルくさかべアルメリア」は『下呂市街を一望出来る展望露天風呂！和洋中50種を超えるバイキングや飛騨牛を使用したフルコー。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

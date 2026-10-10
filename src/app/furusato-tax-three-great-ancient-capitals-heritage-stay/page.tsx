@@ -35,7 +35,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/59645/59645map.gif",
     "reviewCount": 292,
     "reviewAverage": 4.45,
-    "userReview": "親切なスタッフに感謝、また泊まりたい宿の方々がとても親切な宿で、色々助かりました。また泊まりたいと思います。クチコミの詳細はこちらから　https://review.travel.rakute…",
+    "userReview": "親切なスタッフに感謝、また泊まりたい宿の方々がとても親切な宿で、色々助かりました。また泊まりたいと思います。",
     "hotelMinCharge": 14025,
     "address1": "京都府",
     "address2": "京都市東山区東大路新橋西入",
@@ -65,11 +65,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9404/9404map.gif",
     "reviewCount": 1504,
     "reviewAverage": 4.15,
-    "userReview": "立地抜群で接客も良く、朝食も美味しい家族4人で利用させて頂きました。接客サービスが良くて、大変満足出来ました。奈良駅と東大寺、奈良公園の中間くらいにあり立地条件は抜群だと思いました。…",
+    "userReview": "立地抜群で接客も良く、朝食も美味しい家族4人で利用させて頂きました。接客サービスが良くて、大変満足出来ました。奈良駅と東大寺、奈良公園の中間くらいにあり立地条件は抜群だと思いました。",
     "hotelMinCharge": 3830,
     "address1": "奈良県",
     "address2": "奈良市油阪町1-58",
-    "telephoneNo": "0742-22-2577",
+    "telephoneNo": "77",
     "access": "JR奈良駅東口より徒歩約5分、近鉄奈良駅7番出口より徒歩約7分",
     "parkingInformation": "1台1300円/泊※1週間前より予約可能、当日は14時から駐車可能です　※近隣コインパーキング有",
     "nearestStation": "近鉄奈良",
@@ -95,11 +95,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31648/31648map.gif",
     "reviewCount": 1317,
     "reviewAverage": 4.43,
-    "userReview": "2回目の利用だが今回は残念な点が多かった2回目の利用。夏休みに家族で利用。部屋に入った際、トイレなのか非常に匂った。洋食の夕食はイマイチだった。ここは恐らく和食の方が腕がいい。今回は残念な点が多か…",
+    "userReview": "夏休みに家族で利用。部屋に入った際、トイレなのか非常に匂った。洋食の夕食はイマイチだった。ここは恐らく和食の方が腕がいい。",
     "hotelMinCharge": 9350,
     "address1": "神奈川県",
     "address2": "鎌倉市坂ノ下33-6",
-    "telephoneNo": "0467-25-5121",
+    "telephoneNo": "21",
     "access": "ＪＲ鎌倉駅よりタクシーにて１０～１５分(平常時）。江ノ電長谷駅より徒歩約１３分。",
     "parkingInformation": "有 ６０台。チェックイン日は午前中から無料、チェックアウト後は１４時まで無料、それ以降は有料です。",
     "nearestStation": "鎌倉",
@@ -181,7 +181,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「春夏秋雪 京乃宿 ギオン福住」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「春夏秋雪 京乃宿 ギオン福住」へは、京都駅バスターミナルD乗り場より、市バス１００（快速）・２０６系統祇園バス停下車、進行方向に約５０メートル左側。最寄りの京都駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「春夏秋雪 京乃宿 ギオン福住」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「春夏秋雪 京乃宿 ギオン福住」は『知恩院門前、八坂神社徒歩２分、清水寺や高台寺への東山散策に最適。東山を望む展望風呂と本格京』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「春夏秋雪 京乃宿 ギオン福住」と「ホテル アジール・奈良」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「春夏秋雪 京乃宿 ギオン福住」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「春夏秋雪 京乃宿 ギオン福住」へは、京都駅バスターミナルD乗り場より、市バス１００（快速）・２０６系統祇園バス停下車、進行方向に約５０メートル左側。最寄りの京都駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「春夏秋雪 京乃宿 ギオン福住」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「春夏秋雪 京乃宿 ギオン福住」は『知恩院門前、八坂神社徒歩２分、清水寺や高台寺への東山散策に最適。東山を望む展望風呂と本格京。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「春夏秋雪 京乃宿 ギオン福住」と「ホテル アジール・奈良」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* リードセクション */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-4">
@@ -510,7 +510,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「春夏秋雪 京乃宿 ギオン福住」は『知恩院門前、八坂神社徒歩２分、清水寺や高台寺への東山散策に最適。東山を望む展望風呂と本格京』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「春夏秋雪 京乃宿 ギオン福住」は『知恩院門前、八坂神社徒歩２分、清水寺や高台寺への東山散策に最適。東山を望む展望風呂と本格京。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

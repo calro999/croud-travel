@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/pet-friendly-private-dogrun-luxury-villa"
   };
 
@@ -83,11 +83,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14737/14737map.gif",
     "reviewCount": 1061,
     "reviewAverage": 4.75,
-    "userReview": "お料理と露天風呂に癒やされ愛犬も大満足初めて2泊で宿泊しましたスタッフの方に大変お世話なり、まったりと過ごさせていただきました。お料理が美味しいですまた行きたいです愛犬もスタッフさんに遊んで欲…　2026-09-19 17:37:25投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=14737\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "お料理と露天風呂に癒やされ愛犬も大満足初めて2泊で宿泊しましたスタッフの方に大変お世話なり、まったりと過ごさせていただきました。お料理が美味しいですまた行きたいです愛犬もスタッフさんに遊んで欲。",
     "hotelMinCharge": 16200,
     "address1": "静岡県",
     "address2": "伊東市大室高原6-650",
-    "telephoneNo": "0557-51-8716",
+    "telephoneNo": "16",
     "access": "小田原厚木道路石橋ＩＣ・東名沼津ＩＣより約９０分／伊豆急・伊豆高原駅よりタクシーで５分",
     "parkingInformation": "部屋数分、全て無料となっております。",
     "nearestStation": "伊豆高原",
@@ -108,11 +108,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/107823/107823map.gif",
     "reviewCount": 576,
     "reviewAverage": 4.84,
-    "userReview": "伊豆牛と金目鯛に舌鼓、露天風呂で癒やされる伊豆牛のすき焼きと金目鯛のしゃぶしゃぶ、お刺身がとても美味しいです。でも一番のお気に入りは、露天風呂です。設備はいつもビカビカで、柔らかいお湯に浸かりなが…　2026-09-14 10:45:34投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=107823\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "伊豆牛と金目鯛に舌鼓、露天風呂で癒やされる伊豆牛のすき焼きと金目鯛のしゃぶしゃぶ、お刺身がとても美味しいです。でも一番のお気に入りは、露天風呂です。設備はいつもビカビカで、柔らかいお湯に浸かりなが。",
     "hotelMinCharge": 18150,
     "address1": "静岡県",
     "address2": "伊東市赤沢258-87",
-    "telephoneNo": "0557-54-1882",
+    "telephoneNo": "82",
     "access": "伊豆高原駅からお車で約１０分 別荘地入口に関係者以外進入禁止とありますがそのままお入りください",
     "parkingInformation": "有り　6台　無料　予約不要",
     "nearestStation": "伊豆高原",
@@ -137,7 +137,7 @@ export default function Page() {
     "hotelMinCharge": 0,
     "address1": "静岡県",
     "address2": "伊東市富戸1317-3921　ペット連れもＯＫの一棟貸し貸別荘　アニマーレ　ｉｎ　伊豆高原",
-    "telephoneNo": "0288-53-6300",
+    "telephoneNo": "00",
     "access": "城ヶ崎海岸駅から徒歩で約７分",
     "parkingInformation": "有り",
     "nearestStation": "城ヶ崎海岸",

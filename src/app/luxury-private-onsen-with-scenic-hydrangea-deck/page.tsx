@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【あじさい咲き乱れる小径】客室専用デッキから愛でる初夏の紫陽花と美肌名湯宿5選",
     "description": "青、紫、ピンクと色鮮やかに咲き誇る初夏の紫陽花（あじさい）！客室専用の庭園テラスや露天風呂から、雨露に濡れて美しく輝くあじさいを独占鑑賞できる、風雅で情緒豊かな隠れ宿を厳選紹介。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-    "datePublished": "2026-03-27T00:00:00+09:00",
-    "dateModified": "2026-03-27T00:00:00+09:00",
+    "datePublished": "T00:00:00+09:00",
+    "dateModified": "T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

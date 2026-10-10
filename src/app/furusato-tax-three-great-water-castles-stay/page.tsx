@@ -36,7 +36,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14862/14862map.gif",
     "reviewCount": 4256,
     "reviewAverage": 4.49,
-    "userReview": "部屋のメイン照明が薄暗かった。窓付近のソファーに座ると本当に暗かった。窓からは、海と街が見え景色はとてもよかった。朝のバイキングは取ったものを乗せるためのトレーが追いついていなくて私以…　 ",
+    "userReview": "部屋のメイン照明が薄暗かった。窓付近のソファーに座ると本当に暗かった。窓からは、海と街が見え景色はとてもよかった。朝のバイキングは取ったものを乗せるためのトレーが追いついていなくて私以。",
     "hotelMinCharge": 6700,
     "address1": "香川県",
     "address2": "高松市浜ノ町1-1",
@@ -66,11 +66,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1036/1036map.gif",
     "reviewCount": 2048,
     "reviewAverage": 4.45,
-    "userReview": "プールとジムを満喫、朝食の鯛茶漬けも絶品プールやジムが綺麗で満喫できました。今治城がすぐ近くに見え、瀬戸内海からの日の出が綺麗に見えて感動しました。朝食の鯛茶漬けが特に美味しかったのと、ポンジ…　 ",
+    "userReview": "プールとジムを満喫、朝食の鯛茶漬けも絶品プールやジムが綺麗で満喫できました。今治城がすぐ近くに見え、瀬戸内海からの日の出が綺麗に見えて感動しました。朝食の鯛茶漬けが特に美味しかったのと、ポンジ。",
     "hotelMinCharge": 7830,
     "address1": "愛媛県",
     "address2": "今治市旭町2-3-4",
-    "telephoneNo": "0898-36-1111",
+    "telephoneNo": "11",
     "access": "予讃線今治駅から徒歩で10分。",
     "parkingInformation": "有料　１泊　　800円（車高2.1Ｍまで。250台収容可能。車イス専用駐車場完備）",
     "nearestStation": "今治",
@@ -96,11 +96,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18954/18954map.gif",
     "reviewCount": 952,
     "reviewAverage": 3.98,
-    "userReview": "アクセスは抜群だが接客と設備に課題あり出張で数日間お世話になりました。昔ながらのシティホテルといった雰囲気のお宿です。きちんとした車寄せ、ロビーにティーラウンジや居酒屋を備えていて、館…　 ",
+    "userReview": "アクセスは抜群だが接客と設備に課題あり出張で数日間お世話になりました。昔ながらのシティホテルといった雰囲気のお宿です。きちんとした車寄せ、ロビーにティーラウンジや居酒屋を備えていて、館。",
     "hotelMinCharge": 4500,
     "address1": "大分県",
     "address2": "中津市東本町1-2",
-    "telephoneNo": "0979-24-7111",
+    "telephoneNo": "11",
     "access": "ＪＲ日豊本線・中津駅より徒歩３分／大分自動車道・日田ＩＣよりお車で６０分　",
     "parkingInformation": "有り　80台　無料　先着順",
     "nearestStation": "中津（大分）",
@@ -182,7 +182,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ＪＲホテルクレメント高松」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ＪＲホテルクレメント高松」へは、ＪＲ高松駅徒歩１分 高松空港よりバスにて４５分 タクシーにて３０分 サンポートホール隣接 レクザムホール徒歩８分。最寄りの高松空港駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ＪＲホテルクレメント高松」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ＪＲホテルクレメント高松」は『高松駅徒歩1分 瀬戸内海や高松市内を一望出来る地上２０階建てのシティホテル。ＷｉＦｉ＆有線』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ＪＲホテルクレメント高松」と「今治国際ホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ＪＲホテルクレメント高松」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ＪＲホテルクレメント高松」へは、ＪＲ高松駅徒歩１分 高松空港よりバスにて４５分 タクシーにて３０分 サンポートホール隣接 レクザムホール徒歩８分。最寄りの高松空港駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ＪＲホテルクレメント高松」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ＪＲホテルクレメント高松」は『高松駅徒歩1分 瀬戸内海や高松市内を一望出来る地上２０階建てのシティホテル。ＷｉＦｉ＆有線。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ＪＲホテルクレメント高松」と「今治国際ホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         
         {/* 特集の魅力セクション */}
@@ -488,7 +488,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「ＪＲホテルクレメント高松」は『高松駅徒歩1分 瀬戸内海や高松市内を一望出来る地上２０階建てのシティホテル。ＷｉＦｉ＆有線』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「ＪＲホテルクレメント高松」は『高松駅徒歩1分 瀬戸内海や高松市内を一望出来る地上２０階建てのシティホテル。ＷｉＦｉ＆有線。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

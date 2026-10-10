@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【滝壺マイナスイオン】客室専用テラスから名瀑を望む！絶景滝見露天風呂の贅沢宿5選",
     "description": "轟く名瀑の音と舞い上がる水しぶき、降り注ぐマイナスイオン！客室露天風呂や専用ウッドデッキから迫力ある滝の絶景を独占できる、自然のエネルギーに満ちた全国屈指の滝見温泉宿を厳選紹介。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-    "datePublished": "2026-03-27T00:00:00+09:00",
-    "dateModified": "2026-03-27T00:00:00+09:00",
+    "datePublished": "T00:00:00+09:00",
+    "dateModified": "T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

@@ -175,7 +175,7 @@ export default function OsakaBudgetAutumnPage() {
                     アクセス: 阿波座駅 / 地下鉄中央線・千日前線【阿波座駅】出口⑨右へ徒歩約5分/JR【大阪駅】大阪市営バス88系天保山行「土佐堀三丁目」下車
                   </p>
                   <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
-                    【2024年2月14日】リニューアルオープン！本物の天然温泉とオートロウリュ付きサウナをご体感下さい
+                    【】リニューアルオープン！本物の天然温泉とオートロウリュ付きサウナをご体感下さい
                   </p>
                 </div>
                 <div className="pt-3 border-t border-stone-100 flex items-center justify-between">

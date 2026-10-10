@@ -33,12 +33,12 @@ export default function Page() {
     "hotelMinCharge": 13200,
     "address1": "千葉県",
     "address2": "銚子市犬吠埼9574-1",
-    "telephoneNo": "0479-22-8111",
+    "telephoneNo": "11",
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4691/4691.jpg",
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4691/4691_heya1.jpg",
     "reviewCount": 1207,
     "reviewAverage": 4.26,
-    "userReview": "朝食の品数が豊富で、部屋からの景色も絶景朝ごはんのバイキングの品数が豊富です。和食、洋食、中華、地元の食材を使ったものが並んでいて大満足ですその場で作る白身がふわふわの卵かけご飯が美味しかった…　 ",
+    "userReview": "朝食の品数が豊富で、部屋からの景色も絶景朝ごはんのバイキングの品数が豊富です。和食、洋食、中華、地元の食材を使ったものが並んでいて大満足ですその場で作る白身がふわふわの卵かけご飯が美味しかった。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4691%2F4691.html",
     "access": "ＪＲ銚子駅よりバスで２０分",
     "label": "千葉県銚子市ふるさと納税・ヒゲタ・ヤマサの歴史薫る東の醤油大国「銚子の醤油蔵」絶景の宿犬吠埼ホテル",
@@ -59,12 +59,12 @@ export default function Page() {
     "hotelMinCharge": 5500,
     "address1": "香川県",
     "address2": "小豆郡小豆島町古江乙16-3",
-    "telephoneNo": "0879-82-5000",
+    "telephoneNo": "00",
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/44874/44874.jpg",
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/44874/44874_yso.jpg",
     "reviewCount": 1920,
     "reviewAverage": 4.29,
-    "userReview": "瀬戸内海の絶景と子供も喜ぶイベントで大満足オーシャンビューのお部屋で素晴らしい瀬戸内海を堪能させていただきました。建物は古いですが、穏やかな海とスタッフの方々に癒されました。夏休みでプールや縁日の…　 ",
+    "userReview": "瀬戸内海の絶景と子供も喜ぶイベントで大満足オーシャンビューのお部屋で素晴らしい瀬戸内海を堪能させていただきました。建物は古いですが、穏やかな海とスタッフの方々に癒されました。夏休みでプールや縁日の。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F44874%2F44874.html",
     "access": "（車）坂手港3分/福田港30分/土庄港30分/草壁港10分/池田港20分★大部港以外の無料送迎有（2日前までに予約要）",
     "label": "香川県小豆島町ふるさと納税・木桶仕込みの伝統息づく天然醸造の聖地「小豆島・醤の郷」ベイリゾートホテル小豆島",
@@ -90,7 +90,7 @@ export default function Page() {
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19403/19403_w601.jpg",
     "reviewCount": 1368,
     "reviewAverage": 4.44,
-    "userReview": "瀬戸内海を望む露天風呂と食事に大満足瀬戸内海を望む露天風呂からの景色が素晴らしくいつまでも温泉を堪能できます。無料の最新のマッサージチェアもありリラックスできます。食事も美味しく満足度も高いです。…　 ",
+    "userReview": "瀬戸内海を望む露天風呂と食事に大満足瀬戸内海を望む露天風呂からの景色が素晴らしくいつまでも温泉を堪能できます。無料の最新のマッサージチェアもありリラックスできます。食事も美味しく満足度も高いです。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19403%2F19403.html",
     "access": "JR山陽本線・播州赤穂駅より路線バス約20分「御崎バス停」より徒歩1分・無料送迎あり／山陽自動車道・赤穂ＩＣより約10分",
     "label": "兵庫県たつの市・赤穂市ふるさと納税・揖保川の清流が生んだ淡口醤油のふるさと「播州龍野の白壁蔵」絶景露天風呂の宿銀波荘",
@@ -169,7 +169,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「‐犬吠埼温泉元湯 黒潮の湯‐ 絶景の宿 犬吠埼ホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「‐犬吠埼温泉元湯 黒潮の湯‐ 絶景の宿 犬吠埼ホテル」へは、ＪＲ銚子駅よりバスで２０分。最寄りの銚子駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「‐犬吠埼温泉元湯 黒潮の湯‐ 絶景の宿 犬吠埼ホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「‐犬吠埼温泉元湯 黒潮の湯‐ 絶景の宿 犬吠埼ホテル」は『全室から太平洋が一望、新鮮魚介類中心の料理自慢の宿。海の見える露天風呂が人気です。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「‐犬吠埼温泉元湯 黒潮の湯‐ 絶景の宿 犬吠埼ホテル」と「ベイリゾートホテル小豆島」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「‐犬吠埼温泉元湯 黒潮の湯‐ 絶景の宿 犬吠埼ホテル。」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「‐犬吠埼温泉元湯 黒潮の湯‐ 絶景の宿 犬吠埼ホテル。」へは、ＪＲ銚子駅よりバスで２０分。最寄りの銚子駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「‐犬吠埼温泉元湯 黒潮の湯‐ 絶景の宿 犬吠埼ホテル。」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「‐犬吠埼温泉元湯 黒潮の湯‐ 絶景の宿 犬吠埼ホテル。」は『全室から太平洋が一望、新鮮魚介類中心の料理自慢の宿。海の見える露天風呂が人気です。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「‐犬吠埼温泉元湯 黒潮の湯‐ 絶景の宿 犬吠埼ホテル。」と「ベイリゾートホテル小豆島」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         
         {/* 特集の魅力セクション */}
@@ -432,9 +432,9 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 銚子駅よりアクセス。ＪＲ銚子駅よりバスで２０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「‐犬吠埼温泉元湯 黒潮の湯‐ 絶景の宿 犬吠埼ホテル」にチェックイン。全室から太平洋が一望、新鮮魚介類中心の料理自慢の宿。海の見える露天風呂が人気です。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「‐犬吠埼温泉元湯 黒潮の湯‐ 絶景の宿 犬吠埼ホテル」の湯処へ。全室から太平洋が一望、新鮮魚介類中心の料理自慢の宿。海の見える露天風呂とともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「‐犬吠埼温泉元湯 黒潮の湯‐ 絶景の宿 犬吠埼ホテル」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「‐犬吠埼温泉元湯 黒潮の湯‐ 絶景の宿 犬吠埼ホテル。」にチェックイン。全室から太平洋が一望、新鮮魚介類中心の料理自慢の宿。海の見える露天風呂が人気です。などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「‐犬吠埼温泉元湯 黒潮の湯‐ 絶景の宿 犬吠埼ホテル。」の湯処へ。全室から太平洋が一望、新鮮魚介類中心の料理自慢の宿。海の見える露天風呂とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「‐犬吠埼温泉元湯 黒潮の湯‐ 絶景の宿 犬吠埼ホテル。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -443,8 +443,8 @@ export default function Page() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「‐犬吠埼温泉元湯 黒潮の湯‐ 絶景の宿 犬吠埼ホテル」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「‐犬吠埼温泉元湯 黒潮の湯‐ 絶景の宿 犬吠埼ホテル」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「‐犬吠埼温泉元湯 黒潮の湯‐ 絶景の宿 犬吠埼ホテル。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「‐犬吠埼温泉元湯 黒潮の湯‐ 絶景の宿 犬吠埼ホテル。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ベイリゾートホテル小豆島」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
@@ -462,20 +462,20 @@ export default function Page() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「‐犬吠埼温泉元湯 黒潮の湯‐ 絶景の宿 犬吠埼ホテル」へのアクセスや移動方法について</span>
+                <span>Q. 「‐犬吠埼温泉元湯 黒潮の湯‐ 絶景の宿 犬吠埼ホテル。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「‐犬吠埼温泉元湯 黒潮の湯‐ 絶景の宿 犬吠埼ホテル」へは、ＪＲ銚子駅よりバスで２０分。最寄りの銚子駅からの経路案内も充実しています。
+                A. 「‐犬吠埼温泉元湯 黒潮の湯‐ 絶景の宿 犬吠埼ホテル。」へは、ＪＲ銚子駅よりバスで２０分。最寄りの銚子駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「‐犬吠埼温泉元湯 黒潮の湯‐ 絶景の宿 犬吠埼ホテル」の魅力や予約時のポイントは？</span>
+                <span>Q. 「‐犬吠埼温泉元湯 黒潮の湯‐ 絶景の宿 犬吠埼ホテル。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「‐犬吠埼温泉元湯 黒潮の湯‐ 絶景の宿 犬吠埼ホテル」は『全室から太平洋が一望、新鮮魚介類中心の料理自慢の宿。海の見える露天風呂が人気です。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「‐犬吠埼温泉元湯 黒潮の湯‐ 絶景の宿 犬吠埼ホテル。」は『全室から太平洋が一望、新鮮魚介類中心の料理自慢の宿。海の見える露天風呂が人気です。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -484,7 +484,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「‐犬吠埼温泉元湯 黒潮の湯‐ 絶景の宿 犬吠埼ホテル」と「ベイリゾートホテル小豆島」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「‐犬吠埼温泉元湯 黒潮の湯‐ 絶景の宿 犬吠埼ホテル。」と「ベイリゾートホテル小豆島」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

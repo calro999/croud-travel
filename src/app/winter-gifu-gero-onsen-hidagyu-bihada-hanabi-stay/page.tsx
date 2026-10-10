@@ -177,8 +177,8 @@ export default function WinterGifuGeroOnsenPage() {
         'description': "11月から12月にかけて、室町時代の儒学者・万里集九や江戸時代の儒学者・林羅山によって有馬・草津と並ぶ「日本三名泉」に称えられた岐阜県の下呂温泉（げろおんせん）は、澄み切った初冬の空気と幻想的な温泉街の明かりが旅情をそそる最高の季節を迎えます。pH9.2前後のアルカリ性単純温泉は、入浴した瞬間に肌がツルツルと滑らかになる天然の石鹸効果を誇る「美肌の湯」。12月に入ると飛騨川河畔で毎週土曜日に「下呂温泉花火物語（冬花火）」が開催され、冬の夜空に大輪の華が咲き誇ります。夕食にはきめ細やかなサシと芳醇な香りがとろける最高級「飛騨牛」のすき焼きや陶板焼き、香ばしい「朴葉味噌（ほおばみそ）」焼き。初冬の飛騨路で極上のぬくもりに浸る厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
         'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-gifu-gero-onsen-hidagyu-bihada-hanabi-stay',
-        'datePublished': '2026-09-29T00:00:00+09:00',
-        'dateModified': '2026-09-29T00:00:00+09:00',
+        'datePublished': 'T00:00:00+09:00',
+        'dateModified': 'T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
           'name': 'クラドトラベル編集部',

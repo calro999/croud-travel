@@ -72,8 +72,8 @@ export default function HakodateYunokawaWinterPage() {
         "headline": "【11・12月函館湯の川温泉の冬名湯と漁火海鮮】津軽海峡インフィニティ露天と函館クリスマスファンタジー・冬イカ＆毛蟹会席の宿5選",
         "description": "11月から12月にかけて津軽海峡にイカ釣り漁船の幻想的な漁火（いさりび）が瞬く北海道三大温泉郷「湯の川温泉」。海と一体化するインフィニティ露天風呂、赤レンガ倉庫を彩る巨大ツリー「函館クリスマスファンタジー」、函館朝市直送の透き通る冬イカ刺しや濃厚な毛蟹、大沼牛を堪能。初冬の函館を満喫する極上名宿5選を徹底解説。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
-        "datePublished": "2026-09-27T00:00:00+09:00",
-        "dateModified": "2026-09-27T00:00:00+09:00",
+        "datePublished": "T00:00:00+09:00",
+        "dateModified": "T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

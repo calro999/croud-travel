@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【西陣織と伝統美】着物レンタル＆町家数寄屋造りの雅な滞在！京都・嵐山の風情溢れる温泉旅館5選",
     "description": "京都の伝統工芸「西陣織」の帯や着物を身にまとい、歴史ある数寄屋造りや京町家で過ごす優雅な休日。嵐山温泉や湯の花温泉の名湯と、彩り鮮やかな本格京懐石を心ゆくまで堪能できる名宿を厳選紹介。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-    "datePublished": "2026-03-27T00:00:00+09:00",
-    "dateModified": "2026-03-27T00:00:00+09:00",
+    "datePublished": "T00:00:00+09:00",
+    "dateModified": "T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",
@@ -74,7 +74,7 @@ export default function FeaturePage() {
               features: ["【料亭旅館】嵐山・嵯峨野散策に最適な京都・嵐山温泉の宿。", "京都市西京区嵐山中尾下町54-4（渡月橋南詰め）", "楽天アワード受賞歴"]
             },
             {
-              name: "京都　嵐山温泉　花伝抄（共立リゾート）（２０２６年５月１日リニューアルオープン）",
+              name: "京都　嵐山温泉　花伝抄（共立リゾート）（リニューアルオープン）",
               img: "https://img.travel.rakuten.co.jp/share/HOTEL/130702/130702.jpg",
               rating: 4.4,
               reviews: 1970,

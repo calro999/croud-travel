@@ -39,8 +39,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
-    "datePublished": "2026-09-20",
-    "dateModified": "2026-09-20",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-yabakei-hitomehakkei-autumn-stay"
   };
 
@@ -469,9 +469,9 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 中津（大分）駅よりアクセス。ＪＲ日豊本線 中津駅（南口）徒歩３分 歩いて100mコンビニあります♪。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「天然温泉 扇城の湯 スーパーホテル大分・中津駅前」にチェックイン。平面駐車場無料(先着57台)☆地域唯一の天然温泉＆朝食ビュッフェ無料☆などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「天然温泉 扇城の湯 スーパーホテル大分・中津駅前」の湯処へ。平面駐車場無料(先着57台)☆地域唯一の天然温泉＆朝食ビュッフェ無料☆とともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「天然温泉 扇城の湯 スーパーホテル大分・中津駅前」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「天然温泉 扇城の湯 スーパーホテル大分・中津駅前。」にチェックイン。平面駐車場無料(先着57台)☆地域唯一の天然温泉＆朝食ビュッフェ無料☆などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「天然温泉 扇城の湯 スーパーホテル大分・中津駅前。」の湯処へ。平面駐車場無料(先着57台)☆地域唯一の天然温泉＆朝食ビュッフェ無料☆とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「天然温泉 扇城の湯 スーパーホテル大分・中津駅前。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -480,8 +480,8 @@ export default function Page() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「天然温泉 扇城の湯 スーパーホテル大分・中津駅前」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「天然温泉 扇城の湯 スーパーホテル大分・中津駅前」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「天然温泉 扇城の湯 スーパーホテル大分・中津駅前。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「天然温泉 扇城の湯 スーパーホテル大分・中津駅前。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ホテルルートイン中津駅前」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>

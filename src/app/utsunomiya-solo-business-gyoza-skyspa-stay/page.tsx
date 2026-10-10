@@ -7,11 +7,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/utsunomiya-solo-business-gyoza-skyspa-stay/" },
   title: '【宇都宮出張＆餃子ひとり旅】最上階展望スカイスパ・駅直結・名物餃子食べ比べ！北関東の要所で整う極上ホテル 厳選3選',
-  description: '東北・秋田・山形新幹線停車！北関東最大の工業・ビジネス拠点である栃木県宇都宮市。「駅東口直結・最上階スカイスパでととのう新ランドマーク」の「CANDEO HOTELS 宇都宮」、宇都宮駅ビル直結でシモンズベッド完備の「ＪＲ東日本ホテルメッツ 宇都宮」、大谷石ラウンジと広々客室が自慢の「ホテルマイステイズ宇都宮」を徹底特集。',
+  description: '東北・秋田・山形新幹線停車！北関東最大の工業・ビジネス拠点である栃木県宇都宮市。「駅東口直結・最上階スカイスパでととのう新ランドマーク。」の「CANDEO HOTELS 宇都宮」、宇都宮駅ビル直結でシモンズベッド完備の「ＪＲ東日本ホテルメッツ 宇都宮」、大谷石ラウンジと広々客室が自慢の「ホテルマイステイズ宇都宮」を徹底特集。',
   keywords: '宇都宮 出張 ホテル おすすめ,宇都宮 一人旅 ホテル,カンデオホテルズ宇都宮 サウナ,ホテルメッツ宇都宮 宿泊,宇都宮 餃子 ホテル',
   openGraph: {
     title: '【宇都宮出張＆餃子ひとり旅】最上階展望スカイスパ・駅直結・名物餃子食べ比べ！北関東の要所で整う極上ホテル 厳選3選',
-    description: '東北・秋田・山形新幹線停車！北関東最大の工業・ビジネス拠点である栃木県宇都宮市。「駅東口直結・最上階スカイスパでととのう新ランドマーク」の「CANDEO HOTELS 宇都宮」、宇都宮駅ビル直結でシモンズベッド完備の「ＪＲ東日本ホテルメッツ 宇都宮」、大谷石ラウンジと広々客室が自慢の「ホテルマイステイズ宇都宮」を徹底特集。',
+    description: '東北・秋田・山形新幹線停車！北関東最大の工業・ビジネス拠点である栃木県宇都宮市。「駅東口直結・最上階スカイスパでととのう新ランドマーク。」の「CANDEO HOTELS 宇都宮」、宇都宮駅ビル直結でシモンズベッド完備の「ＪＲ東日本ホテルメッツ 宇都宮」、大谷石ラウンジと広々客室が自慢の「ホテルマイステイズ宇都宮」を徹底特集。',
     url: 'https://croud-travel.pages.dev/utsunomiya-solo-business-gyoza-skyspa-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -24,7 +24,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【宇都宮出張＆餃子ひとり旅】最上階展望スカイスパ・駅直結・名物餃子食べ比べ！北関東の要所で整う極上ホテル 厳選3選',
-    description: '東北・秋田・山形新幹線停車！北関東最大の工業・ビジネス拠点である栃木県宇都宮市。「駅東口直結・最上階スカイスパでととのう新ランドマーク」の「CANDEO HOTELS 宇都宮」、宇都宮駅ビル直結でシモンズベッド完備の「ＪＲ東日本ホテルメッツ 宇都宮」、大谷石ラウンジと広々客室が自慢の「ホテルマイステイズ宇都宮」を徹底特集。',
+    description: '東北・秋田・山形新幹線停車！北関東最大の工業・ビジネス拠点である栃木県宇都宮市。「駅東口直結・最上階スカイスパでととのう新ランドマーク。」の「CANDEO HOTELS 宇都宮」、宇都宮駅ビル直結でシモンズベッド完備の「ＪＲ東日本ホテルメッツ 宇都宮」、大谷石ラウンジと広々客室が自慢の「ホテルマイステイズ宇都宮」を徹底特集。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・出張調査班',
@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-11T12:30:00+09:00',
-    dateModified: '2026-09-11T12:30:00+09:00',
+    datePublished: 'T12:30:00+09:00',
+    dateModified: 'T12:30:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/utsunomiya-solo-business-gyoza-skyspa-stay',
   };
 
@@ -48,7 +48,7 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「最上階展望スカイスパ・駅直結・名物餃子食べ比べ！北関東の要所で整う極上ホテル 厳選3選」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「最上階展望スカイスパ・駅直結・名物餃子食べ比べ！北関東の要所で整う極上ホテル 厳選3選。」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -78,7 +78,7 @@ export default function ArticlePage() {
           【宇都宮出張＆餃子ひとり旅】最上階展望スカイスパ・駅直結・名物餃子食べ比べ！北関東の要所で整う極上ホテル 厳選3選
         </h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
-          東北・秋田・山形新幹線停車！北関東最大の工業・ビジネス拠点である栃木県宇都宮市。「駅東口直結・最上階スカイスパでととのう新ランドマーク」の「CANDEO HOTELS 宇都宮」、宇都宮駅ビル直結でシモンズベッド完備の「ＪＲ東日本ホテルメッツ 宇都宮」、大谷石ラウンジと広々客室が自慢の「ホテルマイステイズ宇都宮」を徹底特集。
+          東北・秋田・山形新幹線停車！北関東最大の工業・ビジネス拠点である栃木県宇都宮市。「駅東口直結・最上階スカイスパでととのう新ランドマーク。」の「CANDEO HOTELS 宇都宮」、宇都宮駅ビル直結でシモンズベッド完備の「ＪＲ東日本ホテルメッツ 宇都宮」、大谷石ラウンジと広々客室が自慢の「ホテルマイステイズ宇都宮」を徹底特集。
         </p>
       </header>
 
@@ -161,7 +161,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.44点。「駅直結で最上階のサウナと露天風呂が素晴らしすぎた」「部屋も新しく綺麗で、宇都宮出張のクオリティが劇的に上がりました」と大絶賛。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.44点。「駅直結で最上階のサウナと露天風呂が素晴らしすぎた。」「部屋も新しく綺麗で、宇都宮出張のクオリティが劇的に上がりました。」と大絶賛。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -236,7 +236,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.41点。「新幹線改札からすぐで本当に便利。お部屋も静かでベッドの寝心地が最高でした」「スタッフも親切で清潔感があり安心」と好評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.41点。「新幹線改札からすぐで本当に便利。お部屋も静かでベッドの寝心地が最高でした。」「スタッフも親切で清潔感があり安心」と好評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -311,7 +311,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.21点。「部屋が広くてデスクワークがとてもしやすかった」「駅近でジムもあり、朝食の餃子も美味しかった」と定評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.21点。「部屋が広くてデスクワークがとてもしやすかった。」「駅近でジムもあり、朝食の餃子も美味しかった。」と定評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -437,7 +437,7 @@ export default function ArticlePage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「最上階展望スカイスパ・駅直結・名物餃子食べ比べ！北関東の要所で整う極上ホテル 厳選3選」を効率よく巡るコツは？</span>
+                <span>Q. 「最上階展望スカイスパ・駅直結・名物餃子食べ比べ！北関東の要所で整う極上ホテル 厳選3選。」を効率よく巡るコツは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">

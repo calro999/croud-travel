@@ -34,11 +34,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16581/16581map.gif",
     "reviewCount": 284,
     "reviewAverage": 3.92,
-    "userReview": "温泉がなくなったのは残念、試飲は感動的温泉がなくなってしまったのは本当に悲しいワイナリーの試飲は感動しますクチコミの詳細はこちらから　https://review.travel.rakut…　2026-09-19 22:36:24投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=16581\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "落ち着いた心地よい空間の中、温かい温泉とおいしいお料理で日頃の疲れを癒やすことができました。",
     "hotelMinCharge": 10412,
     "address1": "長崎県",
     "address2": "五島市上大津町2413",
-    "telephoneNo": "0959-72-1348",
+    "telephoneNo": "48",
     "access": "福江港から福江空港方面へ 途中の広域農道の案内看板に従い左折し、約3ｋｍ",
     "parkingInformation": "有り（200台／無料／先着順）",
     "nearestStation": "福江空港",
@@ -59,11 +59,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9060/9060map.gif",
     "reviewCount": 502,
     "reviewAverage": 4.09,
-    "userReview": "郷土料理のバイキングは少し物足りない地元の出身としては、バイキングの郷土料理が物足りない感じがしました。クチコミの詳細はこちらから　https://review.travel.rakuten.…　2026-09-07 15:14:53投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=9060\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "郷土料理のバイキングは少し物足りない地元の出身としては、バイキングの郷土料理が物足りない感じがしました。",
     "hotelMinCharge": 9900,
     "address1": "青森県",
     "address2": "南津軽郡大鰐町島田滝の沢100-9",
-    "telephoneNo": "0172-48-2881",
+    "telephoneNo": "81",
     "access": "JR大鰐温泉駅～ホテル間の無料送迎バス有【2日前までの予約制】　9:00～18:45の間で運行。公式HPに時刻表有。",
     "parkingInformation": "有り　100台　無料",
     "nearestStation": "大鰐温泉",
@@ -84,7 +84,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/72719/72719map.gif",
     "reviewCount": 206,
     "reviewAverage": 3.46,
-    "userReview": "シャワーからお湯が出ず困ったお風呂のシャワーのお湯が出なかった。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/72…　2026-09-17 19:41:27投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=72719\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "シャワーからお湯が出ず困ったお風呂のシャワーのお湯が出なかった。",
     "hotelMinCharge": 8030,
     "address1": "山梨県",
     "address2": "笛吹市石和町川中島538",
@@ -109,11 +109,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68084/68084map.gif",
     "reviewCount": 1261,
     "reviewAverage": 3.98,
-    "userReview": "泉質抜群の温泉とカニ料理に大満足部屋はコメント欄に有るようにビジネスホテルの様な感じお風呂は、泉質がとても良い肌がツルツル感がします。夕食のカニも甘く美味しかった。バイキングもまあまあ…　2026-09-09 12:51:30投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=68084\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "泉質抜群の温泉とカニ料理に大満足部屋はコメント欄に有るようにビジネスホテルの様な感じお風呂は、泉質がとても良い肌がツルツル感がします。夕食のカニも甘く美味しかった。バイキングもまあまあ。",
     "hotelMinCharge": 8250,
     "address1": "山梨県",
     "address2": "笛吹市春日居町鎮目178",
-    "telephoneNo": "0553-26-3811",
+    "telephoneNo": "11",
     "access": "JR中央本線 石和温泉駅より車で5分／中央自動車道 一宮御坂ICより車で10分／中央高速バス 石和バス停より車で5分",
     "parkingInformation": "有り 100台 無料 予約不要",
     "nearestStation": "石和温泉",
@@ -134,7 +134,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/39460/39460map.gif",
     "reviewCount": 1789,
     "reviewAverage": 4.04,
-    "userReview": "昭和の趣ある宿、温泉で快適に過ごせた勝沼の行きつけのブドウ農園を訪ねる前泊宿として投宿外飲み前提なので食事なしにて建物外観やロビー・中庭などの設えは、完全に昭和の観光ホテルそのもの客室…　2026-09-15 23:14:18投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=39460\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "昭和の趣ある宿、温泉で快適に過ごせた勝沼の行きつけのブドウ農園を訪ねる前泊宿として投宿外飲み前提なので食事なしにて建物外観やロビー・中庭などの設えは、完全に昭和の観光ホテルそのもの客室。",
     "hotelMinCharge": 6050,
     "address1": "山梨県",
     "address2": "笛吹市石和町川中島1607",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「五島コンカナ王国ワイナリー＆リゾート ＜五島・福江島＞」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「五島コンカナ王国ワイナリー＆リゾート ＜五島・福江島＞」へは、福江港から福江空港方面へ 途中の広域農道の案内看板に従い左折し、約3ｋｍ。最寄りの福江空港駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「五島コンカナ王国ワイナリー＆リゾート ＜五島・福江島＞」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「五島コンカナ王国ワイナリー＆リゾート ＜五島・福江島＞」は『五島の大自然に囲まれ、自社農園のワインと島食材の美食を堪能。異国情緒溢れる空間で寛ぐ離島リ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「五島コンカナ王国ワイナリー＆リゾート ＜五島・福江島＞」と「大鰐温泉郷 青森ワイナリーホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「五島コンカナ王国ワイナリー＆リゾート ＜五島・福江島＞。」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「五島コンカナ王国ワイナリー＆リゾート ＜五島・福江島＞。」へは、福江港から福江空港方面へ 途中の広域農道の案内看板に従い左折し、約3ｋｍ。最寄りの福江空港駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「五島コンカナ王国ワイナリー＆リゾート ＜五島・福江島＞。」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「五島コンカナ王国ワイナリー＆リゾート ＜五島・福江島＞。」は『五島の大自然に囲まれ、自社農園のワインと島食材の美食を堪能。異国情緒溢れる空間で寛ぐ離島リ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「五島コンカナ王国ワイナリー＆リゾート ＜五島・福江島＞。」と「大鰐温泉郷 青森ワイナリーホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -584,9 +584,9 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 福江空港駅よりアクセス。福江港から福江空港方面へ 途中の広域農道の案内看板に従い左折し、約3ｋｍ。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「五島コンカナ王国ワイナリー＆リゾート ＜五島・福江島＞」にチェックイン。五島の大自然に囲まれ、自社農園のワインと島食材の美食を堪能。異国情緒溢れる空間で寛ぐ離島リゾート。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「五島コンカナ王国ワイナリー＆リゾート ＜五島・福江島＞」の湯処へ。五島の大自然に囲まれ、自社農園のワインと島食材の美食を堪能。異国情緒溢とともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「五島コンカナ王国ワイナリー＆リゾート ＜五島・福江島＞」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「五島コンカナ王国ワイナリー＆リゾート ＜五島・福江島＞。」にチェックイン。五島の大自然に囲まれ、自社農園のワインと島食材の美食を堪能。異国情緒溢れる空間で寛ぐ離島リゾート。などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「五島コンカナ王国ワイナリー＆リゾート ＜五島・福江島＞。」の湯処へ。五島の大自然に囲まれ、自社農園のワインと島食材の美食を堪能。異国情緒溢とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「五島コンカナ王国ワイナリー＆リゾート ＜五島・福江島＞。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -595,8 +595,8 @@ export default function FeatureDetailPage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「五島コンカナ王国ワイナリー＆リゾート ＜五島・福江島＞」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「五島コンカナ王国ワイナリー＆リゾート ＜五島・福江島＞」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「五島コンカナ王国ワイナリー＆リゾート ＜五島・福江島＞。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「五島コンカナ王国ワイナリー＆リゾート ＜五島・福江島＞。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「大鰐温泉郷 青森ワイナリーホテル」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
@@ -614,20 +614,20 @@ export default function FeatureDetailPage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「五島コンカナ王国ワイナリー＆リゾート ＜五島・福江島＞」へのアクセスや移動方法について</span>
+                <span>Q. 「五島コンカナ王国ワイナリー＆リゾート ＜五島・福江島＞。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「五島コンカナ王国ワイナリー＆リゾート ＜五島・福江島＞」へは、福江港から福江空港方面へ 途中の広域農道の案内看板に従い左折し、約3ｋｍ。最寄りの福江空港駅からの経路案内も充実しています。
+                A. 「五島コンカナ王国ワイナリー＆リゾート ＜五島・福江島＞。」へは、福江港から福江空港方面へ 途中の広域農道の案内看板に従い左折し、約3ｋｍ。最寄りの福江空港駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「五島コンカナ王国ワイナリー＆リゾート ＜五島・福江島＞」の魅力や予約時のポイントは？</span>
+                <span>Q. 「五島コンカナ王国ワイナリー＆リゾート ＜五島・福江島＞。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「五島コンカナ王国ワイナリー＆リゾート ＜五島・福江島＞」は『五島の大自然に囲まれ、自社農園のワインと島食材の美食を堪能。異国情緒溢れる空間で寛ぐ離島リ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「五島コンカナ王国ワイナリー＆リゾート ＜五島・福江島＞。」は『五島の大自然に囲まれ、自社農園のワインと島食材の美食を堪能。異国情緒溢れる空間で寛ぐ離島リ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -636,7 +636,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「五島コンカナ王国ワイナリー＆リゾート ＜五島・福江島＞」と「大鰐温泉郷 青森ワイナリーホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「五島コンカナ王国ワイナリー＆リゾート ＜五島・福江島＞。」と「大鰐温泉郷 青森ワイナリーホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

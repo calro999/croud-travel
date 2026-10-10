@@ -73,7 +73,7 @@ export default function BeppuBudgetAutumnPage() {
           <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
             <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
-                src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/2020-02-24_Kannawa_Onsen_%E9%89%84%E8%BC%AA%E6%B8%A9%E6%B3%89%E5%85%A8%E6%99%AF_DSCF8631.jpg/1280px-2020-02-24_Kannawa_Onsen_%E9%89%84%E8%BC%AA%E6%B8%A9%E6%B3%89%E5%85%A8%E6%99%AF_DSCF8631.jpg"
+                src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/_Kannawa_Onsen_%E9%89%84%E8%BC%AA%E6%B8%A9%E6%B3%89%E5%85%A8%E6%99%AF_DSCF8631.jpg/1280px-_Kannawa_Onsen_%E9%89%84%E8%BC%AA%E6%B8%A9%E6%B3%89%E5%85%A8%E6%99%AF_DSCF8631.jpg"
                 alt="湯けむり立ち上る別府の湯治場・鉄輪温泉と地獄蒸し"
                 fill
                 className="object-cover hover:scale-105 transition duration-500"

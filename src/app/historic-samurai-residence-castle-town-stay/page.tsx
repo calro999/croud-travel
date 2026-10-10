@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/historic-samurai-residence-castle-town-stay"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D6023%26f_flg%3DPLAN",
     "hotelMinCharge": 5170,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6023/6023.jpg",
-    "userReview": "朝食の卵かけご飯当日予約で朝食付きはラッキーでした。一晩中入れる人工温泉もひとりでゆっくり利用ができ旅の疲れもとれました。朝食は焼き魚しっかりとした鮭、新鮮な卵おすすめの卵かけご飯でい…　2026-09-10 13:53:48投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=6023\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "朝食の卵かけご飯当日予約で朝食付きはラッキーでした。一晩中入れる人工温泉もひとりでゆっくり利用ができ旅の疲れもとれました。朝食は焼き魚しっかりとした鮭、新鮮な卵おすすめの卵かけご飯でい。",
     "reviewAverage": 4.28,
     "reviewCount": 105,
     "address": "長野県上田市中央4-13-9",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D31193%26f_flg%3DPLAN",
     "hotelMinCharge": 7150,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31193/31193.jpg",
-    "userReview": "予約時の手違いに追加料金、納得のいかない対応妻が膝の具合が悪いのでベ��ド付きの部屋を予約。ところがベッドなしの布団だけの部屋でした。妻がクレームを入れたところ「確かにその部屋はありますが、…　2026-09-15 14:53:45投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=31193\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "予約時の手違いに追加料金、納得のいかない対応妻が膝の具合が悪いのでベ��ド付きの部屋を予約。ところがベッドなしの布団だけの部屋でした。妻がクレームを入れたところ「確かにその部屋はありますが、。",
     "reviewAverage": 3.45,
     "reviewCount": 129,
     "address": "北海道松前郡松前町福山123番地",

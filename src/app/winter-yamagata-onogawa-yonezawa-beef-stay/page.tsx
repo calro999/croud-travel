@@ -48,8 +48,8 @@ export default function OnogawaWinterPage() {
         "headline": "【11・12月米沢牛すき焼きと小野川温泉】小野小町ゆかりの美肌名湯とかまくら雪見宿5選",
         "description": "11月下旬から里山が白銀の静寂に包まれる山形・米沢の奥座敷「小野川温泉」。平安の美女・小野小町が病を癒やしたと伝わる美肌の硫黄泉露天風呂と、とろける甘みの日本三大和牛「米沢牛すき焼き」、温泉熱で育つ冬限定のシャキシャキ小野川豆もやしを堪能する温もり旅。",
         "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-        "datePublished": "2026-09-27T00:00:00+09:00",
-        "dateModified": "2026-09-27T00:00:00+09:00",
+        "datePublished": "T00:00:00+09:00",
+        "dateModified": "T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

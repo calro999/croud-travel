@@ -37,8 +37,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-13T00:00:00+09:00',
-    dateModified: '2026-09-13T00:00:00+09:00',
+    datePublished: 'T00:00:00+09:00',
+    dateModified: 'T00:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/fukuoka-hakata-solo-business-onsen-sauna-stay',
   };
 
@@ -47,7 +47,7 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"博多駅近くで天然温泉大浴場が最も広くて快適なホテルは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 八百治の湯 八百治博多ホテル」は博多駅から徒歩約5分。地下1,250mから湧出する豊富な湯量を誇る広々とした天然温泉大浴場とサウナを完備しています。"}},{"@type":"Question","name":"中洲の歓楽街にも近く、サウナと夜食サービスが充実している宿は？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 御笠の湯 ドーミーイン博多祇園」は地下鉄祇園駅すぐ、中洲へも徒歩圏内。自家源泉の天然温泉大浴場、高温サウナ、名物夜鳴きそばが無料で楽しめます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"博多駅近くで天然温泉大浴場が最も広くて快適なホテルは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 八百治の湯 八百治博多ホテル」は博多駅から徒歩約5分。地下1,250mから湧出する豊富な湯量を誇る広々とした天然温泉大浴場とサウナを完備しています。"}},{"@type":"Question","name":"中洲の歓楽街にも近く、サウナと夜食サービスが充実している宿は？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 御笠の湯 ドーミーイン博多祇園。」は地下鉄祇園駅すぐ、中洲へも徒歩圏内。自家源泉の天然温泉大浴場、高温サウナ、名物夜鳴きそばが無料で楽しめます。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -76,7 +76,7 @@ export default function ArticlePage() {
           【福岡博多出張・天然温泉サウナ】博多駅直結・自家源泉の湯・中洲屋台＆もつ鍋！九州の美食とビジネスターミナルを極める厳選3宿
         </h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
-          <time dateTime="2026-09-13">2026.09.13 更新</time>
+          <time dateTime="">2026.09.13 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
         </div>
@@ -103,7 +103,7 @@ export default function ArticlePage() {
           </h2>
           <ul className="space-y-2 text-sm text-stone-700">
             <li><a href="#hotel-1" className="text-amber-800 hover:underline">▶ 1. 天然温泉　八百治の湯　八百治博多ホテル（★4.19 / 最低目安：7,450円〜）</a></li>
-            <li><a href="#hotel-2" className="text-amber-800 hover:underline">▶ 2. 天然温泉　御笠の湯　ドーミーイン博多祇園（２０２６年４月１日リニューアルオープン）（★4.26 / 最低目安：8,192円〜）</a></li>
+            <li><a href="#hotel-2" className="text-amber-800 hover:underline">▶ 2. 天然温泉　御笠の湯　ドーミーイン博多祇園（リニューアルオープン）（★4.26 / 最低目安：8,192円〜）</a></li>
             <li><a href="#hotel-3" className="text-amber-800 hover:underline">▶ 3. 西鉄ホテル　クルーム博多（★4.25 / 最低目安：8,500円〜）</a></li>
             <li>
               <a href="#area-tips" className="text-amber-800 hover:underline">
@@ -197,7 +197,7 @@ export default function ArticlePage() {
               <span className="text-xs text-stone-500 font-medium">祇園（福岡）周辺</span>
             </div>
             <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-2">
-              天然温泉　御笠の湯　ドーミーイン博多祇園（２０２６年４月１日リニューアルオープン）
+              天然温泉　御笠の湯　ドーミーイン博多祇園（リニューアルオープン）
             </h2>
             <div className="flex flex-wrap items-center gap-4 text-sm mb-4">
               <span className="text-amber-600 font-bold flex items-center gap-1 text-base">
@@ -212,7 +212,7 @@ export default function ArticlePage() {
               <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/76404/76404.jpg"
-                  alt="天然温泉　御笠の湯　ドーミーイン博多祇園（２０２６年４月１日リニューアルオープン） 外観・館内"
+                  alt="天然温泉　御笠の湯　ドーミーイン博多祇園（リニューアルオープン） 外観・館内"
                   className="w-full h-full object-cover"
                   loading="lazy"
                 />
@@ -220,7 +220,7 @@ export default function ArticlePage() {
               <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/76404/76404_d.jpg"
-                  alt="天然温泉　御笠の湯　ドーミーイン博多祇園（２０２６年４月１日リニューアルオープン） 客室・お風呂"
+                  alt="天然温泉　御笠の湯　ドーミーイン博多祇園（リニューアルオープン） 客室・お風呂"
                   className="w-full h-full object-cover"
                   loading="lazy"
                 />
@@ -374,7 +374,7 @@ export default function ArticlePage() {
                 <span>中洲の歓楽街にも近く、サウナと夜食サービスが充実している宿は？</span>
               </h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
-                「天然温泉 御笠の湯 ドーミーイン博多祇園」は地下鉄祇園駅すぐ、中洲へも徒歩圏内。自家源泉の天然温泉大浴場、高温サウナ、名物夜鳴きそばが無料で楽しめます。
+                「天然温泉 御笠の湯 ドーミーイン博多祇園。」は地下鉄祇園駅すぐ、中洲へも徒歩圏内。自家源泉の天然温泉大浴場、高温サウナ、名物夜鳴きそばが無料で楽しめます。
               </p>
             </div>
           </div>
@@ -433,7 +433,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「天然温泉 八百治の湯 八百治博多ホテル」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「天然温泉 八百治の湯 八百治博多ホテル」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「天然温泉 御笠の湯 ドーミーイン博多祇園」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「天然温泉 御笠の湯 ドーミーイン博多祇園。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>

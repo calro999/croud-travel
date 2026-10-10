@@ -268,8 +268,7 @@ export default function ToyamaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 富山駅 / JR富山駅より環状線セントラムで国際会議場前電停下車徒歩2分／富山空港から路線バスで「総曲輪」バス停下車すぐ
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
-                    2026年9月16日リフレッシュオープン♪男性大浴場の高温サウナには「オートロウリュ」を新たに導入。
+                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">リフレッシュオープン♪男性大浴場の高温サウナには「オートロウリュ」を新たに導入。
                   </p>
                 </div>
                 <div className="pt-3 border-t border-stone-100 flex items-center justify-between">
@@ -315,8 +314,7 @@ export default function ToyamaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 富山駅 / ＪＲ富山駅南口（中央改札）より徒歩3分。富山地方鉄道富山駅より徒歩4分。富山I.C車で15分。富山西I.C車で25分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
-                    2024/2/14リニューアルオープン！富山駅南口徒歩3分。ＷＯＷＯＷ全室で無料視聴可！
+                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">リニューアルオープン！富山駅南口徒歩3分。ＷＯＷＯＷ全室で無料視聴可！
                   </p>
                 </div>
                 <div className="pt-3 border-t border-stone-100 flex items-center justify-between">

@@ -33,12 +33,12 @@ export default function Page() {
     "hotelMinCharge": 10065,
     "address1": "山梨県",
     "address2": "山梨市江曽原1388　笛吹川フルーツ公園内",
-    "telephoneNo": "0553-22-8811",
+    "telephoneNo": "11",
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1221/1221.jpg",
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1221/1221_twn.jpg",
     "reviewCount": 779,
     "reviewAverage": 4.59,
-    "userReview": "また訪れたい場所ワイナリー巡り目的で家族と宿泊しました。残念ながら当日は曇りで、富士山は一部しか眺められませんでしたが、ホテルからの夜景は素晴らしく、周辺も自然豊かで、リラックスした時間を過ごせま…　 ",
+    "userReview": "また訪れたい場所ワイナリー巡り目的で家族と宿泊しました。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1221%2F1221.html",
     "access": "ＪＲ中央線山梨市駅から車で7分。",
     "label": "山梨県山梨市・笛吹市ふるさと納税・桃とぶどうの生産量日本一を誇る甲府盆地「山梨フルーツ王国」華やぎの章慶山",
@@ -64,7 +64,7 @@ export default function Page() {
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/53746/53746_ro.jpg",
     "reviewCount": 1030,
     "reviewAverage": 4.58,
-    "userReview": "豪華な夕食と温泉で心身ともにリフレッシュ15時少し前に到着し、店員さんがお出迎えして下さりチェックインしました。親子4人で利用しました。夕食は豪華な料理で堪能し、お腹一杯になり大満足でした。だ…　 ",
+    "userReview": "豪華な夕食と温泉で心身ともにリフレッシュ15時少し前に到着し、店員さんがお出迎えして下さりチェックインしました。親子4人で利用しました。夕食は豪華な料理で堪能し、お腹一杯になり大満足でした。だ。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F53746%2F53746.html",
     "access": "ＪＲ山形新幹線　天童駅より車にて３分、徒歩にて１５分（無料送迎あり）　山形北ＩＣより２０分",
     "label": "山形県天童市・寒河江市ふるさと納税・赤いルビー佐藤錦とラ・フランスの極み「山形フルーツ街道」天童温泉滝の湯",
@@ -169,7 +169,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「フルーツパーク富士屋ホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「フルーツパーク富士屋ホテル」へは、ＪＲ中央線山梨市駅から車で7分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「フルーツパーク富士屋ホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「フルーツパーク富士屋ホテル」は『小高い丘のホテルからは富士山などの山々を望む大パノラマと、宝石のような夜景・星空を四季折々』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「フルーツパーク富士屋ホテル」と「天童温泉 ほほえみの宿 滝の湯」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「フルーツパーク富士屋ホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「フルーツパーク富士屋ホテル」へは、ＪＲ中央線山梨市駅から車で7分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「フルーツパーク富士屋ホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「フルーツパーク富士屋ホテル」は『小高い丘のホテルからは富士山などの山々を望む大パノラマと、宝石のような夜景・星空を四季折々。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「フルーツパーク富士屋ホテル」と「天童温泉 ほほえみの宿 滝の湯」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         
         {/* 特集の魅力セクション */}
@@ -475,7 +475,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「フルーツパーク富士屋ホテル」は『小高い丘のホテルからは富士山などの山々を望む大パノラマと、宝石のような夜景・星空を四季折々』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「フルーツパーク富士屋ホテル」は『小高い丘のホテルからは富士山などの山々を望む大パノラマと、宝石のような夜景・星空を四季折々。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

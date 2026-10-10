@@ -7,11 +7,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hachinohe-solo-business-miroku-seafood-stay/" },
   title: '【八戸出張＆横丁ひとり旅】みろく横丁徒歩すぐ・八食センター・日本一のイカ美食！東北新幹線直結の快適宿 厳選3選',
-  description: '東北新幹線はやぶさ停車・青森県第2の工業・水産都市「八戸」！「中心街・みろく横丁へ徒歩1分の抜群の好立地」を誇る「ダイワロイネットホテル八戸」、八戸駅東口徒歩2分で無料朝食が嬉しい「コンフォートホテル八戸」、八戸の歴史を紡ぐ老舗迎賓ホテル「八戸グランドホテル」を徹底特集。',
+  description: '東北新幹線はやぶさ停車・青森県第2の工業・水産都市「八戸」！「中心街・みろく横丁へ徒歩1分の抜群の好立地。」を誇る「ダイワロイネットホテル八戸」、八戸駅東口徒歩2分で無料朝食が嬉しい「コンフォートホテル八戸」、八戸の歴史を紡ぐ老舗迎賓ホテル「八戸グランドホテル」を徹底特集。',
   keywords: '八戸 出張 ホテル おすすめ,八戸 一人旅 ホテル,みろく横丁 ホテル 八戸,ダイワロイネットホテル八戸 宿泊,八食センター ホテル',
   openGraph: {
     title: '【八戸出張＆横丁ひとり旅】みろく横丁徒歩すぐ・八食センター・日本一のイカ美食！東北新幹線直結の快適宿 厳選3選',
-    description: '東北新幹線はやぶさ停車・青森県第2の工業・水産都市「八戸」！「中心街・みろく横丁へ徒歩1分の抜群の好立地」を誇る「ダイワロイネットホテル八戸」、八戸駅東口徒歩2分で無料朝食が嬉しい「コンフォートホテル八戸」、八戸の歴史を紡ぐ老舗迎賓ホテル「八戸グランドホテル」を徹底特集。',
+    description: '東北新幹線はやぶさ停車・青森県第2の工業・水産都市「八戸」！「中心街・みろく横丁へ徒歩1分の抜群の好立地。」を誇る「ダイワロイネットホテル八戸」、八戸駅東口徒歩2分で無料朝食が嬉しい「コンフォートホテル八戸」、八戸の歴史を紡ぐ老舗迎賓ホテル「八戸グランドホテル」を徹底特集。',
     url: 'https://croud-travel.pages.dev/hachinohe-solo-business-miroku-seafood-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -24,7 +24,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【八戸出張＆横丁ひとり旅】みろく横丁徒歩すぐ・八食センター・日本一のイカ美食！東北新幹線直結の快適宿 厳選3選',
-    description: '東北新幹線はやぶさ停車・青森県第2の工業・水産都市「八戸」！「中心街・みろく横丁へ徒歩1分の抜群の好立地」を誇る「ダイワロイネットホテル八戸」、八戸駅東口徒歩2分で無料朝食が嬉しい「コンフォートホテル八戸」、八戸の歴史を紡ぐ老舗迎賓ホテル「八戸グランドホテル」を徹底特集。',
+    description: '東北新幹線はやぶさ停車・青森県第2の工業・水産都市「八戸」！「中心街・みろく横丁へ徒歩1分の抜群の好立地。」を誇る「ダイワロイネットホテル八戸」、八戸駅東口徒歩2分で無料朝食が嬉しい「コンフォートホテル八戸」、八戸の歴史を紡ぐ老舗迎賓ホテル「八戸グランドホテル」を徹底特集。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・出張調査班',
@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-11T12:30:00+09:00',
-    dateModified: '2026-09-11T12:30:00+09:00',
+    datePublished: 'T12:30:00+09:00',
+    dateModified: 'T12:30:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/hachinohe-solo-business-miroku-seafood-stay',
   };
 
@@ -78,7 +78,7 @@ export default function ArticlePage() {
           【八戸出張＆横丁ひとり旅】みろく横丁徒歩すぐ・八食センター・日本一のイカ美食！東北新幹線直結の快適宿 厳選3選
         </h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
-          東北新幹線はやぶさ停車・青森県第2の工業・水産都市「八戸」！「中心街・みろく横丁へ徒歩1分の抜群の好立地」を誇る「ダイワロイネットホテル八戸」、八戸駅東口徒歩2分で無料朝食が嬉しい「コンフォートホテル八戸」、八戸の歴史を紡ぐ老舗迎賓ホテル「八戸グランドホテル」を徹底特集。
+          東北新幹線はやぶさ停車・青森県第2の工業・水産都市「八戸」！「中心街・みろく横丁へ徒歩1分の抜群の好立地。」を誇る「ダイワロイネットホテル八戸」、八戸駅東口徒歩2分で無料朝食が嬉しい「コンフォートホテル八戸」、八戸の歴史を紡ぐ老舗迎賓ホテル「八戸グランドホテル」を徹底特集。
         </p>
       </header>
 
@@ -161,7 +161,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.30点。「みろく横丁の目の前で夜の飲食に最高の立地！部屋も広く清潔で文句なし」「出張で八戸に来る時は必ず利用しています」と絶大な支持。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.30点。「みろく横丁の目の前で夜の飲食に最高の立地！部屋も広く清潔で文句なし。」「出張で八戸に来る時は必ず利用しています」と絶大な支持。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -236,7 +236,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.20点。「八戸駅からすぐで新幹線の時間ギリギリまで部屋でくつろげました」「無料の朝食やコーヒーサービスが嬉しかった」と好評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.20点。「八戸駅からすぐで新幹線の時間ギリギリまで部屋でくつろげました。」「無料の朝食やコーヒーサービスが嬉しかった。」と好評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -311,7 +311,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.17点。「老舗ならではの落ち着いた雰囲気とスタッフの親切な対応が素晴らしい」「部屋からの眺望が良く静かに過ごせました」と定評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.17点。「老舗ならではの落ち着いた雰囲気とスタッフの親切な対応が素晴らしい。」「部屋からの眺望が良く静かに過ごせました」と定評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -368,7 +368,7 @@ export default function ArticlePage() {
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
               <h3 className="text-sm font-bold text-amber-300">
-                3. 日曜朝なら日本最大級の朝市「館鼻岸壁朝市（たてはながんぺきあさいち）」へ
+                3. 日曜朝なら日本最大級の朝市「館鼻岸壁朝市（たてはながんぺきあさいち）。」へ
               </h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 約300店が並ぶ圧巻の巨大朝市。夜明けとともに賑わい、名物の焼きウニや手羽先唐揚げをほおばるお祭り騒ぎを体感できます。

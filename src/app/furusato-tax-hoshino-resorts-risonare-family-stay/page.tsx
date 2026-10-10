@@ -62,7 +62,7 @@ export default function FurusatoHoshinoRisonareStayPage() {
           家族の最高の思い出を！星野リゾート「リゾナーレ」×ふるさと納税完全攻略ガイド【2026年最新】八ヶ岳・熱海・那須で洗練された非日常ステイ
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-09">2026年9月9日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -164,7 +164,7 @@ export default function FurusatoHoshinoRisonareStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “ヨーロッパの街並みがとても素敵ヨーロッパの街並みが素敵 クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/2948…　2026-09-05 10:47:38投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “ヨーロッパの街並みがとても素敵ヨーロッパの街並みが素敵  ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -206,7 +206,7 @@ export default function FurusatoHoshinoRisonareStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “食事もアクティビティも最高、子連れに最適バイキングの食事がどれもおいしくホテルアクティビティも最高で2日間ホテルだけで楽しく過ごせました。また部屋もとても素敵でした。小さい子ども赤ちゃん連れにもと…　2026-09-05 18:05:45投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “食事もアクティビティも最高、子連れに最適バイキングの食事がどれもおいしくホテルアクティビティも最高で2日間ホテルだけで楽しく過ごせました。また部屋もとても素敵でした。小さい子ども赤ちゃん連れにもと… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -248,7 +248,7 @@ export default function FurusatoHoshinoRisonareStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “自然の中で子供と楽しめたが、車がないと不便施設内は自然がいっぱいで、子供にも色々な昆虫や植物を見せてあげられたのが、とても良かった。また、小さいながらも、遊び場があったり絵本があったり、ピザや…　2026-08-08 10:02:50投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “自然の中で子供と楽しめたが、車がないと不便施設内は自然がいっぱいで、子供にも色々な昆虫や植物を見せてあげられたのが、とても良かった。また、小さいながらも、遊び場があったり絵本があったり、ピザや… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -323,7 +323,7 @@ export default function FurusatoHoshinoRisonareStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

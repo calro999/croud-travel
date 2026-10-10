@@ -39,8 +39,8 @@ export default function FurusatoArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-10T16:35:00+09:00',
-    dateModified: '2026-09-10T16:35:00+09:00',
+    datePublished: 'T16:35:00+09:00',
+    dateModified: 'T16:35:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-arima-onsen-gold-silver-kobe-beef-stay',
   };
 
@@ -49,7 +49,7 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「有馬温泉 兵衛向陽閣」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「有馬温泉 兵衛向陽閣」へは、神戸より電車で約３０分／神戸電鉄有馬温泉駅・バス有馬温泉駅より徒歩約６分／阪神高速道路北神戸線有馬口出口より約５分。最寄りの有馬温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「有馬温泉 兵衛向陽閣」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「有馬温泉 兵衛向陽閣」は『創業700年の老舗旅館。有馬温泉の高台に位置し、有���最大級の悠々とした三大浴場でお寛ぎ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「有馬温泉 兵衛向陽閣」と「有馬温泉 欽山」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「有馬温泉 兵衛向陽閣」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「有馬温泉 兵衛向陽閣」へは、神戸より電車で約３０分／神戸電鉄有馬温泉駅・バス有馬温泉駅より徒歩約６分／阪神高速道路北神戸線有馬口出口より約５分。最寄りの有馬温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「有馬温泉 兵衛向陽閣」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「有馬温泉 兵衛向陽閣」は『創業700年の老舗旅館。有馬温泉の高台に位置し、有���最大級の悠々とした三大浴場でお寛ぎ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「有馬温泉 兵衛向陽閣」と「有馬温泉 欽山」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -203,7 +203,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.46点、口コミ4700件超。「三つのお風呂がどれも素晴らしく金泉を満喫できた」「お料理が美味しくスタッフの接客も丁寧で大満足」と高い信頼を獲得しています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.46点、口コミ4700件超。「三つのお風呂がどれも素晴らしく金泉を満喫できた。」「お料理が美味しくスタッフの接客も丁寧で大満足。」と高い信頼を獲得しています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -287,7 +287,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.73点という圧倒的高スコア。「お料理が芸術品のように美味しく感動した」「静かで落ち着いた雰囲気とおもてなしの素晴らしさはさすが名門」と絶賛されています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.73点という圧倒的高スコア。「お料理が芸術品のように美味しく感動した」「静かで落ち着いた雰囲気とおもてなしの素晴らしさはさすが名門。」と絶賛されています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.75点の最高峰評価。「金泉と銀泉の両方に入ることができて最高」「おもてなしのレベルが高く、静かにゆったりと過ごせる最高の宿」と熱い支持。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.75点の最高峰評価。「金泉と銀泉の両方に入ることができて最高」「おもてなしのレベルが高く、静かにゆったりと過ごせる最高の宿。」と熱い支持。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -578,7 +578,7 @@ export default function FurusatoArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「有馬温泉 兵衛向陽閣」は『創業700年の老舗旅館。有馬温泉の高台に位置し、有���最大級の悠々とした三大浴場でお寛ぎ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「有馬温泉 兵衛向陽閣」は『創業700年の老舗旅館。有馬温泉の高台に位置し、有���最大級の悠々とした三大浴場でお寛ぎ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

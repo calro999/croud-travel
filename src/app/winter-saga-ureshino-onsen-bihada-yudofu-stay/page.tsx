@@ -67,8 +67,8 @@ export default function UreshinoWinterPage() {
         "headline": "【11・12月嬉野温泉の日本三大美肌湯と冬情緒】嬉野茶の香りと名物とろける温泉湯豆腐＆極上佐賀牛の宿5選",
         "description": "斐乃上温泉、喜連川温泉と並び「日本三大美肌の湯」として名高い佐賀県・嬉野温泉。11月から12月にかけて恋しくなる冬の名物「とろける温泉湯豆腐」、嬉野茶の茶香炉が漂う風情豊かな温泉街、とろみのある重曹泉の露天風呂、そして最高峰A5ランク佐賀牛を心ゆくまで堪能する名宿ガイド。",
         "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-        "datePublished": "2026-09-27T00:00:00+09:00",
-        "dateModified": "2026-09-27T00:00:00+09:00",
+        "datePublished": "T00:00:00+09:00",
+        "dateModified": "T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

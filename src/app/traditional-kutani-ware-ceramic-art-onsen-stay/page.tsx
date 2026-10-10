@@ -34,11 +34,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5174/5174map.gif",
     "reviewCount": 990,
     "reviewAverage": 4.03,
-    "userReview": "高校の友達と食事を楽しみ、大浴場も満喫高校の友達6人と宿泊しました。ゆっくりできて食事美味しかったです。大浴場のお湯が熱かったですが、楽しい思い出になりました。クチコミの詳細はこちらから　ht…　2026-09-08 17:07:48投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=5174\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "高校の友達と食事を楽しみ、大浴場も満喫高校の友達6人と宿泊しました。ゆっくりできて食事美味しかったです。大浴場のお湯が熱かったですが、楽しい思い出になりました。",
     "hotelMinCharge": 7040,
     "address1": "石川県",
     "address2": "加賀市山代温泉桔梗ヶ丘2-121-3",
-    "telephoneNo": "0761-77-1122",
+    "telephoneNo": "22",
     "access": "【ＪＲ】北陸本線加賀温泉駅より送迎有（１4：３０～１８：００）要事前予約／【車】北陸道加賀IC又は片山津ICより約20分",
     "parkingInformation": "有り　５０台　無料",
     "nearestStation": "加賀温泉",
@@ -59,11 +59,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/54103/54103map.gif",
     "reviewCount": 915,
     "reviewAverage": 3.93,
-    "userReview": "食事の美味しさに感動、また利用したい大変満足です。ご飯がとても美味しくて驚愕もんです。エレベーターの匂いが少し気になりましたがそれ以外で打ち消されました。またよろしくお願い…　2026-09-19 19:16:03投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=54103\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "食事の美味しさに感動、また利用したい大変満足です。ご飯がとても美味しくて驚愕もんです。エレベーターの匂いが少し気になりましたがそれ以外で打ち消されました。またよろしくお願い。",
     "hotelMinCharge": 13200,
     "address1": "石川県",
     "address2": "加賀市山代温泉東山町3番地　",
-    "telephoneNo": "0761-77-1515",
+    "telephoneNo": "15",
     "access": "JR加賀温泉駅 車15分　無料送迎有　完全予約制　前日18時迄　迎え　14：50　15：50　16：50",
     "parkingInformation": "ご宿泊のお客様は「無料」でご利用いただけます。正面玄関前が駐車場です。屋外にて車高制限はございません",
     "nearestStation": "加賀温泉",
@@ -84,11 +84,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6191/6191map.gif",
     "reviewCount": 1483,
     "reviewAverage": 4.28,
-    "userReview": "海鮮丼が絶品、食事もお風呂も最高!夕食も朝食も美味しく中でも海鮮丼が美味しかったです。お風呂も最高でした。クチコミの詳細はこちらから　https://review.travel.rakuten…　2026-09-04 16:33:44投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=6191\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "海鮮丼が絶品、食事もお風呂も最高!夕食も朝食も美味しく中でも海鮮丼が美味しかったです。お風呂も最高でした。",
     "hotelMinCharge": 7623,
     "address1": "石川県",
     "address2": "加賀市山代温泉19-58-1",
-    "telephoneNo": "0761-77-2323",
+    "telephoneNo": "23",
     "access": "【ＪＲ】「加賀温泉駅」より無料送迎バス有（詳細は公式HP）【車】北陸道「加賀IC」or「片山津IC」より約20分",
     "parkingInformation": "有り　無料200台���※正面玄関へお越しください。スタッフが駐車場をご案内いたします。",
     "nearestStation": "加賀温泉",
@@ -109,11 +109,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6003/6003map.gif",
     "reviewCount": 649,
     "reviewAverage": 4.21,
-    "userReview": "個室での食事とノドグロの干物が美味北陸旅行の初日、山代温泉の白山菖蒲亭さんにお世話になりました。ホテルの建物は車通りの多い道路に面しており、景観や情緒という面では少しばかり魅力にかけます。また、山…　2026-09-14 10:25:26投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=6003\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "個室での食事とノドグロの干物が美味北陸旅行の初日、山代温泉の白山菖蒲亭さんにお世話になりました。ホテルの建物は車通りの多い道路に面しており、景観や情緒という面では少しばかり魅力にかけます。また、山。",
     "hotelMinCharge": 8316,
     "address1": "石川県",
     "address2": "加賀市山代温泉桔梗丘4-34-1",
-    "telephoneNo": "0761-77-0335",
+    "telephoneNo": "35",
     "access": "北陸自動車道加賀ＩＣより車で約10分。加賀温泉駅下車　送迎バス約10分",
     "parkingInformation": "有り　１５０台　無料　予約不要",
     "nearestStation": "加賀温泉",
@@ -134,11 +134,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67124/67124map.gif",
     "reviewCount": 1657,
     "reviewAverage": 4.73,
-    "userReview": "美味しい食事と誕生日への配慮に大満足食事もとても美味しかったです。誕生日のケーキなど色々配慮して下さってとても楽しく過ごせました。お風呂もとても気持ちよかったです。クチコミの詳細はこちらか…　2026-09-16 22:30:33投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=67124\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "美味しい食事と誕生日への配慮に大満足食事もとても美味しかったです。誕生日のケーキなど色々配慮して下さってとても楽しく過ごせました。お風呂もとても気持ちよかったです。",
     "hotelMinCharge": 16500,
     "address1": "石川県",
     "address2": "加賀市山中温泉東町1-ホ14-3",
-    "telephoneNo": "0761-78-5656",
+    "telephoneNo": "56",
     "access": "加賀温泉駅・小松空港から無料送迎あり（要予約/定時便）【車】加賀ICより14分。金沢・福井へは車で1時間",
     "parkingInformation": "有（無料）２０台　※正面玄関前にお越しください。スタッフがご案内いたします。",
     "nearestStation": "加賀温泉",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「温泉めい想倶楽部 富士屋旅館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「温泉めい想倶楽部 富士屋旅館」へは、ＪＲ 北陸本線加賀温泉駅より送迎有（１4：３０～１８：００）要事前予約／ 車 北陸道加賀IC又は片山津ICより約20分。最寄りの加賀温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「温泉めい想倶楽部 富士屋旅館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「温泉めい想倶楽部 富士屋旅館」は『料理高評価 ライブラリ・ギャラリー・無料卓球・など嬉しいがいっぱい♪◆楽天トラベルアワード』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「温泉めい想倶楽部 富士屋旅館」と「加賀山代温泉 みどりの宿 萬松閣」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「温泉めい想倶楽部 富士屋旅館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「温泉めい想倶楽部 富士屋旅館」へは、ＪＲ 北陸本線加賀温泉駅より送迎有（１4：３０～１８：００）要事前予約／ 車 北陸道加賀IC又は片山津ICより約20分。最寄りの加賀温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「温泉めい想倶楽部 富士屋旅館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「温泉めい想倶楽部 富士屋旅館」は『料理高評価 ライブラリ・ギャラリー・無料卓球・など嬉しいがいっぱい♪◆楽天トラベルアワード。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「温泉めい想倶楽部 富士屋旅館」と「加賀山代温泉 みどりの宿 萬松閣」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -628,7 +628,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「温泉めい想倶楽部 富士屋旅館」は『料理高評価 ライブラリ・ギャラリー・無料卓球・など嬉しいがいっぱい♪◆楽天トラベルアワード』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「温泉めい想倶楽部 富士屋旅館」は『料理高評価 ライブラリ・ギャラリー・無料卓球・など嬉しいがいっぱい♪◆楽天トラベルアワード。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

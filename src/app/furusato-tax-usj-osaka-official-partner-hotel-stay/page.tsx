@@ -62,7 +62,7 @@ export default function FurusatoUSJOfficialPartnerHotelStayPage() {
           パーク徒歩圏＆天然温泉！USJオフィシャルホテル×ふるさと納税完全攻略ガイド【2026年最新】近鉄・京阪タワー・リーベルで大阪旅行をお得に満喫
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-09">2026年9月9日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -164,7 +164,7 @@ export default function FurusatoUSJOfficialPartnerHotelStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “USJ目の前で便利だがチェックインの行列が疲れるチェックイン時に1時間ほど並びました。USJの目の前で便利がよく清潔、お値段以上のロケーションですがパークを出た後に並ぶのは疲れます。…　2026-09-05 23:42:29投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “USJ目の前で便利だがチェックインの行列が疲れるチェックイン時に1時間ほど並びました。USJの目の前で便利がよく清潔、お値段以上のロケーションですがパークを出た後に並ぶのは疲れます。… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -206,7 +206,7 @@ export default function FurusatoUSJOfficialPartnerHotelStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “31階の朝食は種類豊富でオレンジジュースが最高ここ毎年ユニバに行く時はお世話になっておりますが、31階の朝食は沢山の種類があり良かった!搾りたてのオレンジジュースはテンションが上がりましたクチ…　2026-09-05 23:34:54投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “31階の朝食は種類豊富でオレンジジュースが最高ここ毎年ユニバに行く時はお世話になっておりますが、31階の朝食は沢山の種類があり良かった!搾りたてのオレンジジュースはテンションが上がりましたクチ… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -248,7 +248,7 @@ export default function FurusatoUSJOfficialPartnerHotelStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “朝食も温泉も大満足、また利用したい朝食バイキング2日間違う所で食べました。両方とも美味しいですが1階のレストランは落ち着いた雰囲気でよかったです。温泉では同じ階にマッサージチャアーもあるのでだいぶ…　2026-09-05 13:00:21投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “朝食も温泉も大満足、また利用したい朝食バイキング2日間違う所で食べました。両方とも美味しいですが1階のレストランは落ち着いた雰囲気でよかったです。温泉では同じ階にマッサージチャアーもあるのでだいぶ… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -323,7 +323,7 @@ export default function FurusatoUSJOfficialPartnerHotelStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

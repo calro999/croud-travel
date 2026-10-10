@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kanagawa-hakone-sengokuhara-solo-retreat-pampas-onsen-stay/" },
   title: '【箱根仙石原温泉ひとり旅・ススキ草原白濁おこもり】黄金色のススキ・大涌谷引湯白濁露天・極上フレンチ！標高700mの高原アートリゾート厳選3宿',
-  description: '秋のススキ草原と美術館が彩る高原・仙石原！全室温泉風呂付き＆ひらまつが誇る最高峰イタリアンフレンチの「THE HIRAMATSU HOTELS & RESORTS 仙石原」、大正浪漫薫る数寄屋造りと名湯白濁露天の「仙郷楼」、手頃に源泉温泉を楽しめる「箱根ホテル花月園」を徹底比較。',
+  description: '秋のススキ草原と美術館が彩る高原・仙石原！全室温泉風呂付き＆ひらまつが誇る最高峰イタリアンフレンチの「THE HIRAMATSU HOTELS & RESORTS 仙石原。」、大正浪漫薫る数寄屋造りと名湯白濁露天の「仙郷楼」、手頃に源泉温泉を楽しめる「箱根ホテル花月園」を徹底比較。',
   keywords: '仙石原 一人旅 宿,箱根 仙石原 ホテル 一人,ひらまつ仙石原,仙郷楼,箱根ホテル花月園,仙石原 ススキ 温泉 ひとり旅',
   openGraph: {
     title: '【箱根仙石原温泉ひとり旅・ススキ草原白濁おこもり】黄金色のススキ・大涌谷引湯白濁露天・極上フレンチ！標高700mの高原アートリゾート厳選3宿',
-    description: '秋のススキ草原と美術館が彩る高原・仙石原！全室温泉風呂付き＆ひらまつが誇る最高峰イタリアンフレンチの「THE HIRAMATSU HOTELS & RESORTS 仙石原」、大正浪漫薫る数寄屋造りと名湯白濁露天の「仙郷楼」、手頃に源泉温泉を楽しめる「箱根ホテル花月園」を徹底比較。',
+    description: '秋のススキ草原と美術館が彩る高原・仙石原！全室温泉風呂付き＆ひらまつが誇る最高峰イタリアンフレンチの「THE HIRAMATSU HOTELS & RESORTS 仙石原。」、大正浪漫薫る数寄屋造りと名湯白濁露天の「仙郷楼」、手頃に源泉温泉を楽しめる「箱根ホテル花月園」を徹底比較。',
     url: 'https://croud-travel.pages.dev/kanagawa-hakone-sengokuhara-solo-retreat-pampas-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【箱根仙石原温泉ひとり旅・ススキ草原白濁おこもり】黄金色のススキ・大涌谷引湯白濁露天・極上フレンチ！標高700mの高原アートリゾート厳選3宿',
-    description: '秋のススキ草原と美術館が彩る高原・仙石原！全室温泉風呂付き＆ひらまつが誇る最高峰イタリアンフレンチの「THE HIRAMATSU HOTELS & RESORTS 仙石原」、大正浪漫薫る数寄屋造りと名湯白濁露天の「仙郷楼」、手頃に源泉温泉を楽しめる「箱根ホテル花月園」を徹底比較。',
+    description: '秋のススキ草原と美術館が彩る高原・仙石原！全室温泉風呂付き＆ひらまつが誇る最高峰イタリアンフレンチの「THE HIRAMATSU HOTELS & RESORTS 仙石原。」、大正浪漫薫る数寄屋造りと名湯白濁露天の「仙郷楼」、手頃に源泉温泉を楽しめる「箱根ホテル花月園」を徹底比較。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・出張調査班',
@@ -37,8 +37,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-14T00:00:00+09:00',
-    dateModified: '2026-09-14T00:00:00+09:00',
+    datePublished: 'T00:00:00+09:00',
+    dateModified: 'T00:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/kanagawa-hakone-sengokuhara-solo-retreat-pampas-onsen-stay',
   };
 
@@ -64,7 +64,7 @@ export default function ArticlePage() {
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で究極の美食と客室温泉をラグジュアリーに楽しむなら？","acceptedAnswer":{"@type":"Answer","text":"「THE HIRAMATSU HOTELS & RESORTS 仙石原」は全室に源泉かけ流し温泉風呂を完備。最高峰のフランス料理と細やかなサービスで極上のおこもりが叶います。"}},{"@type":"Question","name":"歴史ある白濁の露天風呂と落ち着いた和の空間を求めるなら？","acceptedAnswer":{"@type":"Answer","text":"「仙石原温泉 仙郷楼」は創業明治の老舗。大涌谷から引く白濁の濁り湯露天風呂と、四季折々の庭園美が一人旅の心を潤します。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で究極の美食と客室温泉をラグジュアリーに楽しむなら？","acceptedAnswer":{"@type":"Answer","text":"「THE HIRAMATSU HOTELS & RESORTS 仙石原。」は全室に源泉かけ流し温泉風呂を完備。最高峰のフランス料理と細やかなサービスで極上のおこもりが叶います。"}},{"@type":"Question","name":"歴史ある白濁の露天風呂と落ち着いた和の空間を求めるなら？","acceptedAnswer":{"@type":"Answer","text":"「仙石原温泉 仙郷楼」は創業明治の老舗。大涌谷から引く白濁の濁り湯露天風呂と、四季折々の庭園美が一人旅の心を潤します。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -79,7 +79,7 @@ export default function ArticlePage() {
             【箱根仙石原温泉ひとり旅・ススキ草原白濁おこもり】黄金色のススキ・大涌谷引湯白濁露天・極上フレンチ！標高700mの高原アートリゾート厳選3宿
           </h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
-            更新日：2026年9月14日 | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
+            更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -313,7 +313,7 @@ export default function ArticlePage() {
                 <span>一人旅で究極の美食と客室温泉をラグジュアリーに楽しむなら？</span>
               </h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
-                「THE HIRAMATSU HOTELS & RESORTS 仙石原」は全室に源泉かけ流し温泉風呂を完備。最高峰のフランス料理と細やかなサービスで極上のおこもりが叶います。
+                「THE HIRAMATSU HOTELS & RESORTS 仙石原。」は全室に源泉かけ流し温泉風呂を完備。最高峰のフランス料理と細やかなサービスで極上のおこもりが叶います。
               </p>
             </div>
             <div className="bg-white p-4 sm:p-5 rounded-xl border border-stone-200">

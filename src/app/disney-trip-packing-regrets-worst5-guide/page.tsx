@@ -159,7 +159,7 @@ export default function DisneyTripPackingRegretsWorst5Page() {
     <main className="min-h-screen bg-[#fff5f5] text-stone-800 antialiased pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「スマホ電池切れ・開園待ち寒暖差・靴擦れで地獄を見たリアル失敗談」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「スマホ電池切れ・開園待ち寒暖差・靴擦れで地獄を見たリアル失敗談。」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
       />
       {/* ヒーローヘッダー */}
       <header className="relative bg-gradient-to-b from-rose-950 via-rose-900 to-rose-800 text-white pt-16 pb-24 px-4 overflow-hidden">
@@ -405,7 +405,7 @@ export default function DisneyTripPackingRegretsWorst5Page() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「スマホ電池切れ・開園待ち寒暖差・靴擦れで地獄を見たリアル失敗談」を効率よく巡るコツは？</span>
+                <span>Q. 「スマホ電池切れ・開園待ち寒暖差・靴擦れで地獄を見たリアル失敗談。」を効率よく巡るコツは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">

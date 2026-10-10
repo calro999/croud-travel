@@ -49,7 +49,7 @@ export default function FurusatoAquariumFamilyResortStayPage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「鴨川シーワールドホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「鴨川シーワールドホテル」へは、電車）安房鴨川駅から無料バスで5分。最寄りの安房鴨川駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「鴨川シーワールドホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「鴨川シーワールドホテル」は『人気の鴨川シーワールドに隣接！入館無料！全ての客室がオーシャンビューのリゾートホテル。子供』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「鴨川シーワールドホテル」と「鳥羽国際ホテル 潮路亭」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「鴨川シーワールドホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「鴨川シーワールドホテル」へは、電車）安房鴨川駅から無料バスで5分。最寄りの安房鴨川駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「鴨川シーワールドホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「鴨川シーワールドホテル」は『人気の鴨川シーワールドに隣接！入館無料！全ての客室がオーシャンビューのリゾートホテル。子供。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「鴨川シーワールドホテル」と「鳥羽国際ホテル 潮路亭」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -195,7 +195,7 @@ export default function FurusatoAquariumFamilyResortStayPage() {
                     房総半島の太平洋沿いに建ち、日本有数の海洋テーマパーク「鴨川シーワールド」に専用連絡通路で直結する公式ホテル。宿泊客はチェックイン日からチェックアウト日まで何度でも無料で水族館に入館できるパスポート付きで、朝一番のシャチパフォーマンスやナイトアドベンチャーなど公式ホテルだけの特別体験も充実しています。全客室が太平洋を望むオーシャンビューで、館内には天然温泉大浴場やキッズアメニティも完備。房総の新鮮な海の幸を取り入れたディナーバイキングとともに、家族みんなが笑顔になれる至高の水族館ステイが叶います。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「フロントにいる従業員の接客もよく、夕飯でブリの解体ショーがあり、解体したブリで作ったお寿司がとても美味しかった。クチコミの詳細はこちらから 2026-09-05 17:58:44投稿 つづきはこちら…」
+                    「フロントにいる従業員の接客もよく、夕飯でブリの解体ショーがあり、解体したブリで作ったお寿司がとても美味しかった。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -256,7 +256,7 @@ export default function FurusatoAquariumFamilyResortStayPage() {
                     波静かな鳥羽湾を望み、日本一の生きものの種類数を誇る「鳥羽水族館」へ車でわずか約3分の好立地に建つ和モダンリゾート。宿の最大のハイライトは、ミキモト コスメティックスが手掛けた世界初の「パールオーロラ風呂」。真珠由来の美容成分が溶け込んだキラキラと輝く湯船に浸かれば、お肌がしっとりと潤う至福の湯浴みが体験できます。夕食には伊勢海老や鮑、松阪牛など伊勢志摩の最高級食材をオープンキッチンで豪快かつ繊細に仕上げる会席料理が並び、大人も子どもも贅沢な休日を満喫できます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「食事が美味しい良い宿です お風呂も素敵でした「白石」のお食事、朝ごはん、どちらもとても美味しかった。食材本来の味がいかされており調味料は控えめ、そのため最後までさっぱりと美味しくいただけました。た… 2026-09-05 21:57:51投…」
+                    「食事が美味しい良い宿です お風呂も素敵でした「白石」のお食事、朝ごはん、どちらもとても美味しかった。食材本来の味がいかされており調味料は控えめ、そのため最後までさっぱりと美味しくいただけました。た…投…」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -317,7 +317,7 @@ export default function FurusatoAquariumFamilyResortStayPage() {
                     沖縄本島北部・本部半島の美しいエメラルドビーチの正面に位置し、世界的な名所「沖縄美ら海水族館」へ徒歩約7分・備瀬のフクギ並木へも徒歩圏という絶好のロケーションを誇る最高峰リゾート。全客室が50平米以上の広々としたオーシャンフロントバルコニー付きで、伊江島の城山（タッチュー）と東シナ海に沈むサンセットを一望できます。地下1,500mから湧出する天然温泉大浴場「ジュラ紀温泉」やインドアプール、沖縄県産食材をふんだんに使った贅沢ビュッフェやバーベキューなど、南国の極上バカンスをお過ごしいただけます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「すべてが最高で、また必ず泊まりたい8月の末に利用させていただきました。クラブウィング側に宿泊しました。チェックインがスムーズだったこと、マカロンのおいしさに感動こと、クラブラウンジが静かで上質… 2026-08-31 08:58:44投稿 …」
+                    「すべてが最高で、また必ず泊まりたい8月の末に利用させていただきました。クラブウィング側に宿泊しました。チェックインがスムーズだったこと、マカロンのおいしさに感動こと、クラブラウンジが静かで上質…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -481,7 +481,7 @@ export default function FurusatoAquariumFamilyResortStayPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「鴨川シーワールドホテル」は『人気の鴨川シーワールドに隣接！入館無料！全ての客室がオーシャンビューのリゾートホテル。子供』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「鴨川シーワールドホテル」は『人気の鴨川シーワールドに隣接！入館無料！全ての客室がオーシャンビューのリゾートホテル。子供。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

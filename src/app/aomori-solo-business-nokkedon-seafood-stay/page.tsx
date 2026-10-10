@@ -7,11 +7,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/aomori-solo-business-nokkedon-seafood-stay/" },
   title: '【青森出張＆港町ひとり旅】青森駅近・のっけ丼・陸奥湾ホタテ・十和田牛！本州最北の拠点で整う極上ホテル 厳選3選',
-  description: '本州最北のターミナル・青森県青森市！「新町通り中心・広々バスルームと快適デスク完備」の「ダイワロイネットホテル青森」、アスパム通り沿いでシモンズベッドと青森りんご朝食が自慢の「リッチモンドホテル青森」、ウォーターフロント至近の「ホテルJALシティ青森」を徹底特集。',
+  description: '本州最北のターミナル・青森県青森市！「新町通り中心・広々バスルームと快適デスク完備。」の「ダイワロイネットホテル青森」、アスパム通り沿いでシモンズベッドと青森りんご朝食が自慢の「リッチモンドホテル青森」、ウォーターフロント至近の「ホテルJALシティ青森」を徹底特集。',
   keywords: '青森 出張 ホテル おすすめ,青森 一人旅 ホテル,のっけ丼 ホテル 青森駅,ダイワロイネットホテル青森 宿泊,リッチモンドホテル青森 朝食',
   openGraph: {
     title: '【青森出張＆港町ひとり旅】青森駅近・のっけ丼・陸奥湾ホタテ・十和田牛！本州最北の拠点で整う極上ホテル 厳選3選',
-    description: '本州最北のターミナル・青森県青森市！「新町通り中心・広々バスルームと快適デスク完備」の「ダイワロイネットホテル青森」、アスパム通り沿いでシモンズベッドと青森りんご朝食が自慢の「リッチモンドホテル青森」、ウォーターフロント至近の「ホテルJALシティ青森」を徹底特集。',
+    description: '本州最北のターミナル・青森県青森市！「新町通り中心・広々バスルームと快適デスク完備。」の「ダイワロイネットホテル青森」、アスパム通り沿いでシモンズベッドと青森りんご朝食が自慢の「リッチモンドホテル青森」、ウォーターフロント至近の「ホテルJALシティ青森」を徹底特集。',
     url: 'https://croud-travel.pages.dev/aomori-solo-business-nokkedon-seafood-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -24,7 +24,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【青森出張＆港町ひとり旅】青森駅近・のっけ丼・陸奥湾ホタテ・十和田牛！本州最北の拠点で整う極上ホテル 厳選3選',
-    description: '本州最北のターミナル・青森県青森市！「新町通り中心・広々バスルームと快適デスク完備」の「ダイワロイネットホテル青森」、アスパム通り沿いでシモンズベッドと青森りんご朝食が自慢の「リッチモンドホテル青森」、ウォーターフロント至近の「ホテルJALシティ青森」を徹底特集。',
+    description: '本州最北のターミナル・青森県青森市！「新町通り中心・広々バスルームと快適デスク完備。」の「ダイワロイネットホテル青森」、アスパム通り沿いでシモンズベッドと青森りんご朝食が自慢の「リッチモンドホテル青森」、ウォーターフロント至近の「ホテルJALシティ青森」を徹底特集。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・出張調査班',
@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-12T15:40:00+09:00',
-    dateModified: '2026-09-12T15:40:00+09:00',
+    datePublished: 'T15:40:00+09:00',
+    dateModified: 'T15:40:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/aomori-solo-business-nokkedon-seafood-stay',
   };
 
@@ -48,7 +48,7 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ダイワロイネットホテル青森」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ダイワロイネットホテル青森」へは、「青森駅」より徒歩約5分。最寄りの青森駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ダイワロイネットホテル青森」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ダイワロイネットホテル青森」は『駅から徒歩約5分の好立地◆全室バス・トイレ別◆フィットネスジム◆コンビニ◆自然豊かな青森で』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ダイワロイネットホテル青森」では季節ごとに異なる宿泊プランや料理プランが用意されています。ご旅行の人数や滞在スタイルに合わせて最適なプランをお選びいただけます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ダイワロイネットホテル青森」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ダイワロイネットホテル青森」へは、「青森駅」より徒歩約5分。最寄りの青森駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ダイワロイネットホテル青森」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ダイワロイネットホテル青森」は『駅から徒歩約5分の好立地◆全室バス・トイレ別◆フィットネスジム◆コンビニ◆自然豊かな青森で。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ダイワロイネットホテル青森」では季節ごとに異なる宿泊プランや料理プランが用意されています。ご旅行の人数や滞在スタイルに合わせて最適なプランをお選びいただけます。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -78,7 +78,7 @@ export default function ArticlePage() {
           【青森出張＆港町ひとり旅】青森駅近・のっけ丼・陸奥湾ホタテ・十和田牛！本州最北の拠点で整う極上ホテル 厳選3選
         </h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
-          本州最北のターミナル・青森県青森市！「新町通り中心・広々バスルームと快適デスク完備」の「ダイワロイネットホテル青森」、アスパム通り沿いでシモンズベッドと青森りんご朝食が自慢の「リッチモンドホテル青森」、ウォーターフロント至近の「ホテルJALシティ青森」を徹底特集。
+          本州最北のターミナル・青森県青森市！「新町通り中心・広々バスルームと快適デスク完備。」の「ダイワロイネットホテル青森」、アスパム通り沿いでシモンズベッドと青森りんご朝食が自慢の「リッチモンドホテル青森」、ウォーターフロント至近の「ホテルJALシティ青森」を徹底特集。
         </p>
       </header>
 
@@ -161,7 +161,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.56点。「部屋が広くお風呂とトイレが別でとても快適でした」「新町通りの真ん中で飲食店も多く出張の定宿です」と大絶賛。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.56点。「部屋が広くお風呂とトイレが別でとても快適でした。」「新町通りの真ん中で飲食店も多く出張の定宿です。」と大絶賛。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -236,7 +236,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.45点。「スタッフの笑顔と丁寧な接客が素晴らしかった」「朝食のりんごジュースやホタテ料理がとても美味しかったです」と好評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.45点。「スタッフの笑顔と丁寧な接客が素晴らしかった。」「朝食のりんごジュースやホタテ料理がとても美味しかったです。」と好評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -311,7 +311,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.29点。「立地が良く部屋も清潔で快適に過ごせました」「スタッフの対応が親切で安心して泊まれるホテルです」と定評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.29点。「立地が良く部屋も清潔で快適に過ごせました。」「スタッフの対応が親切で安心して泊まれるホテルです。」と定評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -482,7 +482,7 @@ export default function ArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「ダイワロイネットホテル青森」は『駅から徒歩約5分の好立地◆全室バス・トイレ別◆フィットネスジム◆コンビニ◆自然豊かな青森で』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「ダイワロイネットホテル青森」は『駅から徒歩約5分の好立地◆全室バス・トイレ別◆フィットネスジム◆コンビニ◆自然豊かな青森で。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

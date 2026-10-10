@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【愛媛みかん＆柑橘の癒やし】爽やかな生搾り柑橘ジュースと果実風呂！道後温泉の極上癒やし宿5選",
     "description": "湯上がりに味わう蛇口から出る生搾りみかんジュースや、甘酸っぱい香りの柑橘露天風呂！日本最古の名湯・道後温泉で、瀬戸内の豊かな恵みと温かいおもてなしに心ほどける極上旅館を厳選紹介。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-    "datePublished": "2026-03-27T00:00:00+09:00",
-    "dateModified": "2026-03-27T00:00:00+09:00",
+    "datePublished": "T00:00:00+09:00",
+    "dateModified": "T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",
@@ -153,7 +153,7 @@ export default function FeaturePage() {
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「道後温泉 道後グランドホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「道後温泉 道後グランドホテル」へは、伊予鉄道後温泉駅より徒歩5分・ 松山インターより車にて２５分・ 松山空港より車にて30分。最寄りの松山空港駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「道後温泉 道後グランドホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「道後温泉 道後グランドホテル」は『◆道後本館まで 坂道なし 徒歩４分◆≪直前予約がお得なプラン販売中♪≫～全館無料Wi-Fi』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「道後温泉 道後グランドホテル」と「道後温泉 道後舘」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「道後温泉 道後グランドホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「道後温泉 道後グランドホテル」へは、伊予鉄道後温泉駅より徒歩5分・ 松山インターより車にて２５分・ 松山空港より車にて30分。最寄りの松山空港駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「道後温泉 道後グランドホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「道後温泉 道後グランドホテル」は『◆道後本館まで 坂道なし 徒歩４分◆≪直前予約がお得なプラン販売中♪≫～全館無料Wi-Fi。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「道後温泉 道後グランドホテル」と「道後温泉 道後舘」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -380,7 +380,7 @@ export default function FeaturePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「道後温泉 道後グランドホテル」は『◆道後本館まで 坂道なし 徒歩４分◆≪直前予約がお得なプラン販売中♪≫～全館無料Wi-Fi』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「道後温泉 道後グランドホテル」は『◆道後本館まで 坂道なし 徒歩４分◆≪直前予約がお得なプラン販売中♪≫～全館無料Wi-Fi。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

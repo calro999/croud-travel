@@ -47,8 +47,8 @@ export default function Page() {
       "headline": "【雪見の名泉・美作三湯と津山城下町の冬叙情】2026-2027年冬の岡山・津山＆湯原・奥津！名物そずり鍋と幻の千屋牛会席名宿5選",
       "description": "西日本を代表する名湯「美作三湯（湯原・奥津・湯郷）」の雪見露天風呂！津山城鶴山公園の雄大な石垣美とレトロ城下町散策。骨周りの旨味が凝縮した冬の郷土鍋「津山そずり鍋」や日本最古の蔓牛「千屋牛」に満たされる冬の岡山・美作の厳選名宿5選。",
       "image": "https://img.travel.rakuten.co.jp/share/HOTEL/168420/168420.jpg",
-      "datePublished": "2026-10-09",
-      "dateModified": "2026-10-09",
+      "datePublished": "",
+      "dateModified": "",
       "author": {
         "@type": "Organization",
         "name": "Japan Travel Curations"
@@ -248,7 +248,7 @@ export default function Page() {
               <h2>冬の津山・美作・湯原探訪：静寂と温もりに包まれる旅の魅力</h2>
             </div>
             <p className="text-xs sm:text-sm text-stone-700 leading-relaxed">
-              中国山地の雄大な峰々に抱かれた岡山県北部「美作（みまさか）地方」。冬の冷え込みとともに山々がうっすらと白銀に染まる頃、この地は湯煙と歴史ロマン、そして滋味あふれる郷土の温もりに包まれます。津山藩十万石の城下町として栄えた津山市の中心にそびえる「津山城（鶴山公園）」は、初代藩主・森忠政公が12年の歳月をかけて築き上げた日本三大平山城のひとつ。地上約45mに及ぶ幾重もの重厚な石垣群は圧巻の迫力を誇り、冬の雪化粧をまとった姿は息を呑むほどの気品と迫力を放ちます。復元された白壁の「備中櫓」からは、城東・城西の伝統的な町家が立ち並ぶ古い城下町が一望でき、散策の足取りを弾ませます。そして津山から車を走らせれば、古くから西日本屈指の名湯として愛されてきた「美作三湯（みまさかさんとう）＝湯原温泉・奥津温泉・湯郷温泉」が待っています。旭川の川底から滾々と湧き出る名物混浴露天風呂「砂湯」で雪見風呂を満喫できる湯原温泉、足踏み洗濯の風情と足元湧出の美肌湯「鍵湯」で知られる奥津温泉、白鷺が傷を癒やした伝説が残る美肌の湯郷温泉。さらに冬の美作を訪れたなら絶対に外せないのが、牛肉の骨周りの旨味を削ぎ落とした肉を旬野菜と甘辛く煮込む津山独自の伝統郷土鍋「そずり鍋」と、日本最古の蔓牛の血統を引く極上の「千屋牛（ちやぎゅう）」。温泉で芯から温まり、滋味深い肉料理と地酒に酔いしれる、大人の冬の隠れ家旅へとご案内します。
+              中国山地の雄大な峰々に抱かれた岡山県北部「美作（みまさか）地方」。冬の冷え込みとともに山々がうっすらと白銀に染まる頃、この地は湯煙と歴史ロマン、そして滋味あふれる郷土の温もりに包まれます。津山藩十万石の城下町として栄えた津山市の中心にそびえる「津山城（鶴山公園）」は、初代藩主・森忠政公が12年の歳月をかけて築き上げた日本三大平山城のひとつ。地上約45mに及ぶ幾重もの重厚な石垣群は圧巻の迫力を誇り、冬の雪化粧をまとった姿は息を呑むほどの気品と迫力を放ちます。復元された白壁の「備中櫓」からは、城東・城西の伝統的な町家が立ち並ぶ古い城下町が一望でき、散策の足取りを弾ませます。そして津山から車を走らせれば、古くから西日本屈指の名湯として愛されてきた「美作三湯（みまさかさんとう）＝湯原温泉・奥津温泉・湯郷温泉。」が待っています。旭川の川底から滾々と湧き出る名物混浴露天風呂「砂湯」で雪見風呂を満喫できる湯原温泉、足踏み洗濯の風情と足元湧出の美肌湯「鍵湯」で知られる奥津温泉、白鷺が傷を癒やした伝説が残る美肌の湯郷温泉。さらに冬の美作を訪れたなら絶対に外せないのが、牛肉の骨周りの旨味を削ぎ落とした肉を旬野菜と甘辛く煮込む津山独自の伝統郷土鍋「そずり鍋」と、日本最古の蔓牛の血統を引く極上の「千屋牛（ちやぎゅう）」。温泉で芯から温まり、滋味深い肉料理と地酒に酔いしれる、大人の冬の隠れ家旅へとご案内します。
             </p>
           </section>
 
@@ -399,7 +399,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「津山城にとても近かった毎年十五夜に催される”観月と邦楽の夕べ”に行くために津山城に近いこのホテルを選びました。残念ながら月は出ませんでしたがとても快適なこのホテルで大満足の旅になりました。クチ…　2026-10-02 22:35:24投稿 <a href=”https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=168420” class=”3click”>つづきはこちら</a>」"}</span>
+                  <span>{"「津山城にとても近かった毎年十五夜に催される”観月と邦楽の夕べ”に行くために津山城に近いこのホテルを選びました。クチ。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -530,7 +530,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「接客も食事も良く、気持ちよく過ごせた1泊で親戚の人達と利用させていただきました。接客も良し。食事がコースでしたが暖かい焼き魚等で美味しくいただきました。帰りもちゃんと挨拶していただき気…　2026-09-28 17:00:12投稿 <a href=”https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=177949” class=”3click”>つづきはこちら</a>」"}</span>
+                  <span>{"「接客も食事も良く、気持ちよく過ごせた1泊で親戚の人達と利用させていただきました。接客も良し。食事がコースでしたが暖かい焼き魚等で美味しくいただきました。帰りもちゃんと挨拶していただき気。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -597,7 +597,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「大浴場と露天風呂、美味しい食事に大満足夫婦で宿泊しました。大浴場は思ったより大きく、屋上露天風呂もとても気持ちよく入りました。また部屋のお風呂も景色がよく、ゆっくり入浴することができました。夕食は…　2026-09-21 17:30:12投稿 <a href=”https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=147649” class=”3click”>つづきはこちら</a>」"}</span>
+                  <span>{"「大浴場と露天風呂、美味しい食事に大満足夫婦で宿泊しました。大浴場は思ったより大きく、屋上露天風呂もとても気持ちよく入りました。また部屋のお風呂も景色がよく、ゆっくり入浴することができました。夕食は。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -664,7 +664,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「南欧風の建物と美味しい食事でリゾート気分建物全体が南欧風で統一されており、たっぷりリゾート感を味わえます。食事も美味しく、大満足でした。また、機会があれば利用したいです。クチコミの詳細はこちら…　2026-09-23 08:52:08投稿 <a href=”https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=17794” class=”3click”>つづきはこちら</a>」"}</span>
+                  <span>{"「南欧風の建物と美味しい食事でリゾート気分建物全体が南欧風で統一されており、たっぷりリゾート感を味わえます。食事も美味しく、大満足でした。また、機会があれば利用したいです。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">

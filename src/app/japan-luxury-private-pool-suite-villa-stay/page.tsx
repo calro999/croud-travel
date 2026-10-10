@@ -44,7 +44,7 @@ export default function LuxuryPremiumHubPage() {
     "desc": "国立公園に隣接する手つかずの原生林と白砂ビーチの境界に建つ隠れ家ヴィラ。テラスから直接砂浜へ降りられるオンザビーチ設計。奄美大島の大島紬や伝統建築の意匠を取り入れたモダンインテリア。波音だけが響く静寂の極致。",
     "spots": "JUSANDI（ユサンディ石垣島）、Miru Amami、伝泊 The Beachfront MIJORA",
     "access": "新石垣空港または奄美空港よりレンタカー・送迎車。",
-    "tip": "奄美大島の「伝泊 The Beachfront MIJORA」では、ガラス一面に広がる穏やかな海を眺めながら、島のハーブを使ったアロマバスや出張シマ料理を堪能できます。"
+    "tip": "奄美大島の「伝泊 The Beachfront MIJORA。」では、ガラス一面に広がる穏やかな海を眺めながら、島のハーブを使ったアロマバスや出張シマ料理を堪能できます。"
   },
   {
     "key": "kanto_shizuoka_heated_pool_villa",

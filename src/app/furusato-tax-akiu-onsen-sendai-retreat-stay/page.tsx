@@ -185,7 +185,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.41点、口コミ2100件超。「お風呂の風情と名取川の景色が素晴らしく千年の歴史を感じた」「お料理の仙台牛が絶品で仲居さんの気配りも満点」と圧倒的な支持を集めています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.41点、口コミ2100件超。「お風呂の風情と名取川の景色が素晴らしく千年の歴史を感じた。」「お料理の仙台牛が絶品で仲居さんの気配りも満点。」と圧倒的な支持を集めています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -279,7 +279,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.25点、口コミ1400件超。「夜の篝火露天風呂の雰囲気が最高」「広い庭園の景色が素晴らしく朝の散歩が楽しかった」と高い評価を得ています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.25点、口コミ1400件超。「夜の篝火露天風呂の雰囲気が最高」「広い庭園の景色が素晴らしく朝の散歩が楽しかった。」と高い評価を得ています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -373,7 +373,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.31点、口コミ約2800件。「お風呂がたくさんあって館内湯巡りが本当に楽しかった」「プールや食事も充実して三世代旅行にぴったり」と絶賛されています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.31点、口コミ約2800件。「お風呂がたくさんあって館内湯巡りが本当に楽しかった。」「プールや食事も充実して三世代旅行にぴったり。」と絶賛されています。</p>
               </div>
 
               {/* 宿基本情報 */}

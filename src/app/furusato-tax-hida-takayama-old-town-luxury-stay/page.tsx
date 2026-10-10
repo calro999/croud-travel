@@ -62,7 +62,7 @@ export default function FurusatoHidaTakayamaStayPage() {
           出格子の町家と宮川朝市！飛騨高山の古い町並み徒歩圏＆とろとろ美肌温泉・最高峰飛騨牛会席名宿×ふるさと納税完全攻略ガイド【2026年最新】花兆庵・花扇・光風館
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-10">2026年9月10日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -164,7 +164,7 @@ export default function FurusatoHidaTakayamaStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “リピーターも大満足、食事と接客が素晴らしい昨年に引き続き今年はリピータとして9月4日に宿泊した60代と50代の夫婦です。総合評価は今回も大満足でした。来年も機会あえば是非とも利用したいと思いま…　2026-09-05 17:36:16投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “リピーターも大満足、食事と接客が素晴らしい昨年に引き続き今年はリピータとして9月4日に宿泊した60代と50代の夫婦です。総合評価は今回も大満足でした。来年も機会あえば是非とも利用したいと思いま… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -206,7 +206,7 @@ export default function FurusatoHidaTakayamaStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “初めての利用で大満足、価格高騰が少し残念私は初めて行きましたがとってもよかったです!でも、インバウンドの影響でどんどん値段が上がってるみたいでなかなか行けなくなるのが悲しいです。ゆっくり、まったり…　2026-09-04 23:13:10投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “初めての利用で大満足、価格高騰が少し残念私は初めて行きましたがとってもよかったです!でも、インバウンドの影響でどんどん値段が上がってるみたいでなかなか行けなくなるのが悲しいです。ゆっくり、まったり… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -248,7 +248,7 @@ export default function FurusatoHidaTakayamaStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “食事も部屋も快適で立地も良く大満足食事も美味しく、部屋、風呂なども快適で大満足です。また、街歩きの基点として良好な基点で、立地も良いです。クチコミの詳細はこちらから　https://revie…　2026-09-01 17:54:56投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “食事も部屋も快適で立地も良く大満足食事も美味しく、部屋、風呂なども快適で大満足です。また、街歩きの基点として良好な基点で、立地も良いです。 ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -323,7 +323,7 @@ export default function FurusatoHidaTakayamaStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

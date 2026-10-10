@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/award-winning-breakfast-gourmet-hotel-ranking"
   };
 
@@ -83,11 +83,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/137023/137023map.gif",
     "reviewCount": 2416,
     "reviewAverage": 4.42,
-    "userReview": "海を一望できる絶景とバイキングに大満足海が一望。大浴場にはサウナ付き、水風呂もぬるめの設置だけどそれがまたのんびりできる。最上階の露天風呂は少し手狭な感じだが充分。卓球やゲームも出来て家族で楽しめ…　2026-09-19 17:15:16投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=137023\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "海を一望できる絶景とバイキングに大満足海が一望。大浴場にはサウナ付き、水風呂もぬるめの設置だけどそれがまたのんびりできる。最上階の露天風呂は少し手狭な感じだが充分。卓球やゲームも出来て家族で楽しめ。",
     "hotelMinCharge": 4641,
     "address1": "北海道",
     "address2": "函館市湯川町3-1-17",
-    "telephoneNo": "0138-57-9161",
+    "telephoneNo": "61",
     "access": "『函館空港』からお車にて約6分/『函館駅』よりお車にて約12分/バス停『熱帯植物園前』から徒歩約3分",
     "parkingInformation": "有り　無料　約90台　湯の川最大級青空平面",
     "nearestStation": "函館",
@@ -108,15 +108,15 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/168681/168681map.gif",
     "reviewCount": 3966,
     "reviewAverage": 4.66,
-    "userReview": "朝食の質と寝湯の設計に改善の余地あり朝食バイキングのマグロの質が前回より落ちたような。。。また露天風呂の寝湯ですが、枕部分に頭を乗せるとお湯に浸りあっという間にのぼせてしまう仕様で、設計者はその事…　2026-09-18 17:15:03投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=168681\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "朝食の質と寝湯の設計に改善の余地あり朝食バイキングのマグロの質が前回より落ちたような。また露天風呂の寝湯ですが、枕部分に頭を乗せるとお湯に浸りあっという間にのぼせてしまう仕様で、設計者はその事。",
     "hotelMinCharge": 15400,
     "address1": "北海道",
     "address2": "函館市大手町22-13",
-    "telephoneNo": "0138-23-2121",
+    "telephoneNo": "21",
     "access": "ＪＲ　函館駅より徒歩にて約５分　　函館空港より車にて約２０分",
     "parkingInformation": "有り(1,000円/日）",
     "nearestStation": "函館",
-    "hotelSpecial": "2026年5月1日で開業7周年！　宿泊者専用の無料フィットネスジムを新設♪",
+    "hotelSpecial": "で開業7周年！　宿泊者専用の無料フィットネスジムを新設♪",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F168681%2F168681.html"
   },
   {
@@ -133,11 +133,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1341/1341map.gif",
     "reviewCount": 4049,
     "reviewAverage": 4.32,
-    "userReview": "バス付きは昭和のユニットバスバス付き=昭和のユニットバスおまけにトイレの水漏れ最悪予約時ユニットバスと明記すべきです フロントはチェックインで常に行列で市電一日券購入では面倒くさそうな扱い…　2026-09-19 22:01:35投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=1341\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "落ち着いた心地よい空間の中、温かい温泉とおいしいお料理で日頃の疲れを癒やすことができました。",
     "hotelMinCharge": 8316,
     "address1": "北海道",
     "address2": "函館市大手町5-10",
-    "telephoneNo": "0138-23-5151",
+    "telephoneNo": "51",
     "access": "ＪＲ函館駅から徒歩約8分／函館空港から車で約20分 バスで約30分（函館国際ホテル前下車 バス停目の前）",
     "parkingInformation": "1泊1000円 (宿泊日当日の11時～出発日の14時まで出し入れ自由／先着順）",
     "nearestStation": "函館",

@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/natural-hotspring-with-authentic-stone-spa-ganbanyoku"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D40786%26f_flg%3DPLAN",
     "hotelMinCharge": 17600,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40786/40786.jpg",
-    "userReview": "食事も温泉も最高、また必ず行きたい宿夕食、朝食どちらも本当においしかったです。味が本当に良い主人は夕食で追加して頼んだだし巻き卵が今まで食べた中で1番美味しいと感動してました。どの料理も美味し過ぎ…　2026-09-19 20:36:38投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=40786\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "食事も温泉も最高、また必ず行きたい宿夕食、朝食どちらも本当においしかったです。味が本当に良い主人は夕食で追加して頼んだだし巻き卵が今まで食べた中で1番美味しいと感動してました。どの料理も美味し過ぎ。",
     "reviewAverage": 4.32,
     "reviewCount": 1232,
     "address": "佐賀県嬉野市嬉野町岩屋川内甲379",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D31854%26f_flg%3DPLAN",
     "hotelMinCharge": 16500,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31854/31854.jpg",
-    "userReview": "夕食は少し重かったが、安定の満足感全体的には満足でしたが夕食の最後方で少し胸焼け...で食べきれなかったため星4とさせていただきました。黒川温泉の他の旅館にも今までかなり宿泊させて頂きましたが安心…　2026-08-31 21:47:59投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=31854\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "夕食は少し重かったが、安定の満足感全体的には満足でしたが夕食の最後方で少し胸焼け...で食べきれなかったため星4とさせていただきました。黒川温泉の他の旅館にも今までかなり宿泊させて頂きましたが安心。",
     "reviewAverage": 4.58,
     "reviewCount": 695,
     "address": "熊本県阿蘇郡南小国町満願寺6431",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D56702%26f_flg%3DPLAN",
     "hotelMinCharge": 6000,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/56702/56702.jpg",
-    "userReview": "美人の女将をはじめ老若男女のスタッフの皆さんの笑顔と気配りが素敵なお宿でした(    ` ) お料理もひとつひとつが丁寧に作られていてとても美味しく、夕食も朝食も完食しました! チェックイン時の上品な…　2026-09-16 22:06:19投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=56702\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "美人の女将をはじめ老若男女のスタッフの皆さんの笑顔と気配りが素敵なお宿でした( ` ) お料理もひとつひとつが丁寧に作られていてとても美味しく、夕食も朝食も完食しました!チェックイン時の上品な。",
     "reviewAverage": 4.46,
     "reviewCount": 543,
     "address": "埼玉県秩父郡小鹿野町小鹿野1815",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D5677%26f_flg%3DPLAN",
     "hotelMinCharge": 15950,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5677/5677.jpg",
-    "userReview": "丁寧な接客と美味しい食事、温泉に大満足接客が丁寧で食事もとても美味しかったです。温泉はぬるめで長く浸かるのにちょうど良い感じでした。宿泊したのは本館ですが、機会があれば庭付きの方にも泊まってみたい…　2026-09-12 07:21:40投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=5677\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "丁寧な接客と美味しい食事、温泉に大満足接客が丁寧で食事もとても美味しかったです。温泉はぬるめで長く浸かるのにちょうど良い感じでした。宿泊したのは本館ですが、機会があれば庭付きの方にも泊まってみたい。",
     "reviewAverage": 4.47,
     "reviewCount": 750,
     "address": "福井県あわら市温泉2-205",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D27908%26f_flg%3DPLAN",
     "hotelMinCharge": 11000,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/27908/27908.jpg",
-    "userReview": "食事が最高、食べ応え十分朝晩ともにお食事が良かったです。地元のものもあり、お肉もあり、食べ応えバッチリです。4人での食事ですが個室で、気兼ねなくのんびり食べることができました。部屋…　2026-09-10 11:56:08投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=27908\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "食事が最高、食べ応え十分朝晩ともにお食事が良かったです。地元のものもあり、お肉もあり、食べ応えバッチリです。4人での食事ですが個室で、気兼ねなくのんびり食べることができました。部屋。",
     "reviewAverage": 4.4,
     "reviewCount": 154,
     "address": "山形県米沢市小野川町2432",
@@ -365,7 +365,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「嬉野温泉 旅館 吉田屋」は『新大浴場露天風呂＆テラス＆客室が誕生！日本宿TOP49・アワード8年連続受賞★ミシュラン３』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「嬉野温泉 旅館 吉田屋」は『新大浴場露天風呂＆テラス＆客室が誕生！日本宿TOP49・アワード8年連続受賞★ミシュラン３。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

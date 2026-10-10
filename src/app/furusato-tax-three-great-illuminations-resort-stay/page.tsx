@@ -412,8 +412,7 @@ export default function FurusatoFeaturePage() {
                   <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
                     ホテルフラッグス佐世保九十九島
                   </h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
-                    2025年5月1日『the BEKKAN』リニューアル！長崎グルメ満載な朝食＆夕食ビュッフェ！
+                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">『the BEKKAN』リニューアル！長崎グルメ満載な朝食＆夕食ビュッフェ！
                   </p>
                   
                   <div className="mt-auto pt-4 border-t border-stone-800/80 flex items-center justify-between">

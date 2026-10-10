@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/private-pool-luxury-resort-villa-stay"
   };
 
@@ -108,11 +108,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38599/38599map.gif",
     "reviewCount": 1613,
     "reviewAverage": 4.6,
-    "userReview": "リゾート感と食事は最高、移動は少し不便リゾート感が強くて素敵なホテルでした朝食バイキングもBBQもとっても美味しかったです市街地に行くには遠いのと、お部屋までが遠い(カートはあるけど結構待…　2026-09-19 21:00:56投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=38599\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "リゾート感と食事は最高、移動は少し不便リゾート感が強くて素敵なホテルでした朝食バイキングもBBQもとっても美味しかったです市街地に行くには遠いのと、お部屋までが遠い(カートはあるけど結構待。",
     "hotelMinCharge": 15510,
     "address1": "沖縄県",
     "address2": "石垣市新川1625番地",
-    "telephoneNo": "0980-88-7000",
+    "telephoneNo": "00",
     "access": "石垣空港より　車で約35分。石垣港より車で約15分。空港・ホテル間の無料送迎バスもございます。",
     "parkingInformation": "有り（299台/先着順）：宿泊者無料",
     "nearestStation": "石垣空港",

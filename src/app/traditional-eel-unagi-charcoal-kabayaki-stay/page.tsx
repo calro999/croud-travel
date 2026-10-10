@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/traditional-eel-unagi-charcoal-kabayaki-stay"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D141230%26f_flg%3DPLAN",
     "hotelMinCharge": 6500,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/141230/141230.jpg",
-    "userReview": "ぬる湯と熱湯の交互浴が最高、名湯名宿ぬる湯と熱湯の2槽あって交互に入浴、特にぬる湯はツルトロで時間があれば半日でも入っていたいお風呂。リーズナブルで旅情あふれる名湯名宿。下部は本当に大…　2026-09-18 18:51:38投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=141230\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "ぬる湯と熱湯の交互浴が最高、名湯名宿ぬる湯と熱湯の2槽あって交互に入浴、特にぬる湯はツルトロで時間があれば半日でも入っていたいお風呂。リーズナブルで旅情あふれる名湯名宿。下部は本当に大。",
     "reviewAverage": 3.82,
     "reviewCount": 201,
     "address": "山梨県南巨摩郡身延町下部80-1",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D4688%26f_flg%3DPLAN",
     "hotelMinCharge": 10780,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4688/4688.jpg",
-    "userReview": "新勝寺の目の前、ウナギ料理と気遣いが嬉しい新勝寺の目の前という好立地の場所です。自分の場合は成田駅から歩き、表参道のお店や街並みを楽しみながら歩き15分ほどで宿に到着しました。大雨でしたが、宿…　2026-09-10 09:06:06投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=4688\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "新勝寺の目の前、ウナギ料理と気遣いが嬉しい新勝寺の目の前という好立地の場所です。自分の場合は成田駅から歩き、表参道のお店や街並みを楽しみながら歩き15分ほどで宿に到着しました。大雨でしたが、宿。",
     "reviewAverage": 4.55,
     "reviewCount": 396,
     "address": "千葉県成田市本町355",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D139823%26f_flg%3DPLAN",
     "hotelMinCharge": 4400,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/139823/139823.jpg",
-    "userReview": "森の中のサウナで最高に整ったとにかくサウナが最高です。森の中で整いましたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voic…　2026-09-18 01:56:21投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=139823\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "森の中のサウナで最高に整ったとにかくサウナが最高です。森の中で整いました。",
     "reviewAverage": 3.94,
     "reviewCount": 279,
     "address": "島根県出雲市斐川町学頭1369",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D84819%26f_flg%3DPLAN",
     "hotelMinCharge": 18700,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/84819/84819.jpg",
-    "userReview": "うな丼と過去最高に美味しいしじみ汁うな丼が美味しかったです。夕飯のしじみも、しじみ汁史上最高に美味しかったです。クチコミの詳細はこちらから　https://review.travel.ra…　2026-08-30 17:56:05投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=84819\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "うな丼と過去最高に美味しいしじみ汁うな丼が美味しかったです。夕飯のしじみも、しじみ汁史上最高に美味しかったです。",
     "reviewAverage": 4.57,
     "reviewCount": 134,
     "address": "千葉県夷隅郡大多喜町葛藤932",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D38827%26f_flg%3DPLAN",
     "hotelMinCharge": 22468,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38827/38827.jpg",
-    "userReview": "趣のある庭園と丁寧な接客でゆったりと趣きがありゆっくりできました。庭園がとても綺麗でした。スタッフも丁寧で親切に対応してくれました。クチコミの詳細はこちらから　https://revi…　2026-09-12 21:15:29投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=38827\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "趣のある庭園と丁寧な接客でゆったりと趣きがありゆっくりできました。庭園がとても綺麗でした。スタッフも丁寧で親切に対応してくれました。",
     "reviewAverage": 4.57,
     "reviewCount": 418,
     "address": "新潟県新潟市西蒲区岩室温泉678甲",

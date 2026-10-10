@@ -34,11 +34,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9340/9340map.gif",
     "reviewCount": 797,
     "reviewAverage": 4.05,
-    "userReview": "露天風呂三昧と美味しい食事でゆったり満喫1人で露天風呂付きのお風呂に2泊宿泊させていただきました。部屋の露天風呂に入ったり、貸切露天風呂に入ったり、またまた大浴場に行ったりとゆったりと過ご…　2026-09-15 23:41:28投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=9340\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "露天風呂三昧と美味しい食事でゆったり満喫1人で露天風呂付きのお風呂に2泊宿泊させていただきました。部屋の露天風呂に入ったり、貸切露天風呂に入ったり、またまた大浴場に行ったりとゆったりと過ご。",
     "hotelMinCharge": 8800,
     "address1": "群馬県",
     "address2": "利根郡みなかみ町藤原4957-1",
-    "telephoneNo": "0278-75-2321",
+    "telephoneNo": "21",
     "access": "車で関越自動車道・水上ＩＣから３０分・ＪＲで上越線　水上駅より　湯ノ小屋行きバスで藤原スキー場入口下車900M",
     "parkingInformation": "有り ３００台 無料 先着順",
     "nearestStation": "水上",
@@ -59,11 +59,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68475/68475map.gif",
     "reviewCount": 229,
     "reviewAverage": 3.09,
-    "userReview": "部屋はきれいで広く、お風呂も心地良いエントランス辺りは雑然としていたが、部屋はきれいで広かった。お風呂はとても心地良かった。食事はないので、公共交通機関で来る方は気をつけてください。ク…　2026-09-16 12:31:30投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=68475\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "部屋はきれいで広く、お風呂も心地良いエントランス辺りは雑然としていたが、部屋はきれいで広かった。お風呂はとても心地良かった。食事はないので、公共交通機関で来る方は気をつけてください。ク。",
     "hotelMinCharge": 5500,
     "address1": "福島県",
     "address2": "耶麻郡猪苗代町蚕養沼尻山甲2855-111",
-    "telephoneNo": "0242-64-3111",
+    "telephoneNo": "11",
     "access": "ＪＲ磐越西線　猪苗代駅より路線バスで３０分、又は車で２０分",
     "parkingInformation": "有り　３０台　無料　予約不要",
     "nearestStation": "猪苗代",
@@ -84,11 +84,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9536/9536map.gif",
     "reviewCount": 2672,
     "reviewAverage": 4.46,
-    "userReview": "川のせせらぎと温泉、食事に大満足部屋は川沿いの2階でした。建物は古いけれど、中は新しく手を入れてありました。部屋から滝と渓流が眺められ、せせらぎが聞こえました。風呂は五つもあり、川のそばの露天風呂…　2026-09-14 14:32:50投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=9536\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "川のせせらぎと温泉、食事に大満足部屋は川沿いの2階でした。建物は古いけれど、中は新しく手を入れてありました。部屋から滝と渓流が眺められ、せせらぎが聞こえました。風呂は五つもあり、川のそばの露天風呂。",
     "hotelMinCharge": 6600,
     "address1": "岩手県",
     "address2": "花巻市鉛中平75-1",
-    "telephoneNo": "0198-25-2311",
+    "telephoneNo": "11",
     "access": "新花巻駅より４０分・花巻駅より３０分（送迎��スあり、協力金：片道100円、予約必須）。花巻南ＩＣよりお車で２０分。",
     "parkingInformation": "有り　60台先着順無料　湯治部のご利用は第2駐車場を��利用ください",
     "nearestStation": "花巻",
@@ -109,11 +109,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147774/147774map.gif",
     "reviewCount": 203,
     "reviewAverage": 4.5,
-    "userReview": "お風呂の種類がたくさんあって良かったです。お部屋のお風呂も最高でした!ご飯も美味しかったです!クチコミの詳細はこちらから　https://review.travel.rakuten.co.…　2026-08-11 23:06:57投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=147774\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "お風呂の種類がたくさんあって良かったです。お部屋のお風呂も最高でした!ご飯も美味しかったです!",
     "hotelMinCharge": 18340,
     "address1": "岩手県",
     "address2": "花巻市鉛中平75-1",
-    "telephoneNo": "0198-29-6222",
+    "telephoneNo": "22",
     "access": "ＪＲ　花巻駅よりお車にて約２０分,（送迎バスあり、協力金：片道100円、予約必須）",
     "parkingInformation": "有り　１４台　無料　予約不要",
     "nearestStation": "花巻",
@@ -134,11 +134,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2948/2948map.gif",
     "reviewCount": 571,
     "reviewAverage": 4.57,
-    "userReview": "上州牛プランなのに肉料理がなく残念二泊で予約しました。朝食が9時から選べたのは良かった、チェックアウトが12時なのも良かったです。上州牛と群馬の恵と銘打ったプランで予約をしたにもかかわ…　2026-09-04 20:48:52投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=2948\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "朝食が9時から選べたのは良かった、チェックアウトが12時なのも良かったです。上州牛と群馬の恵と銘打ったプランで予約をしたにもかかわ。",
     "hotelMinCharge": 21000,
     "address1": "群馬県",
     "address2": "吾妻郡中之条町四万3829",
-    "telephoneNo": "0279-64-2255",
+    "telephoneNo": "55",
     "access": "車：関越道渋川伊香保ICよりR17、353を四万温泉方面６０分。電車：中之条駅から四万温泉行バス３５分、清流の湯入口下車",
     "parkingInformation": "有り　15台　無料",
     "nearestStation": "中之条",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」へは、車で関越自動車道・水上ＩＣから３０分・ＪＲで上越線 水上駅より 湯ノ小屋行きバスで藤原スキー場入口下車900M。最寄りの水上駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」は『１１種の貸切露天風呂や滝を望む高台の露天風呂など湯めぐりを満喫！高原ＢＢＱプランも大人気！』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」と「中ノ沢温泉 庭園露天風呂の宿 朝日屋旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード。」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード。」へは、車で関越自動車道・水上ＩＣから３０分・ＪＲで上越線 水上駅より 湯ノ小屋行きバスで藤原スキー場入口下車900M。最寄りの水上駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード。」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード。」は『１１種の貸切露天風呂や滝を望む高台の露天風呂など湯めぐりを満喫！高原ＢＢＱプランも大人気！』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード。」と「中ノ沢温泉 庭園露天風呂の宿 朝日屋旅館。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -585,9 +585,9 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 水上駅よりアクセス。車で関越自動車道・水上ＩＣから３０分・ＪＲで上越線 水上駅より 湯ノ小屋行きバスで藤原スキー場入口下車900M。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」にチェックイン。１１種の貸切露天風呂や滝を望む高台の露天風呂など湯めぐりを満喫！高原ＢＢＱプランも大人気！などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」の湯処へ。１１種の貸切露天風呂や滝を望む高台の露天風呂など湯めぐりを満喫！高原Ｂとともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード。」にチェックイン。１１種の貸切露天風呂や滝を望む高台の露天風呂など湯めぐりを満喫！高原ＢＢＱプランも大人気！などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード。」の湯処へ。１１種の貸切露天風呂や滝を望む高台の露天風呂など湯めぐりを満喫！高原Ｂとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -596,9 +596,9 @@ export default function FeatureDetailPage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「中ノ沢温泉 庭園露天風呂の宿 朝日屋旅館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「中ノ沢温泉 庭園露天風呂の宿 朝日屋旅館。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -615,20 +615,20 @@ export default function FeatureDetailPage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」へのアクセスや移動方法について</span>
+                <span>Q. 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」へは、車で関越自動車道・水上ＩＣから３０分・ＪＲで上越線 水上駅より 湯ノ小屋行きバスで藤原スキー場入口下車900M。最寄りの水上駅からの経路案内も充実しています。
+                A. 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード。」へは、車で関越自動車道・水上ＩＣから３０分・ＪＲで上越線 水上駅より 湯ノ小屋行きバスで藤原スキー場入口下車900M。最寄りの水上駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」の魅力や予約時のポイントは？</span>
+                <span>Q. 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」は『１１種の貸切露天風呂や滝を望む高台の露天風呂など湯めぐりを満喫！高原ＢＢＱプランも大人気！』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード。」は『１１種の貸切露天風呂や滝を望む高台の露天風呂など湯めぐりを満喫！高原ＢＢＱプランも大人気！』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -637,7 +637,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」と「中ノ沢温泉 庭園露天風呂の宿 朝日屋旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード。」と「中ノ沢温泉 庭園露天風呂の宿 朝日屋旅館。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

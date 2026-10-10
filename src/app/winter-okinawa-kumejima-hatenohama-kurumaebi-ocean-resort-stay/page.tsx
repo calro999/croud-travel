@@ -233,7 +233,7 @@ export default function WinterFeaturePage() {
 
             <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700 leading-relaxed">
               <span className="font-bold text-amber-900 block mb-1">宿泊者のクチコミ抜粋:</span>
-              「親切な対応に感謝ホテルの方は親切でよかったです。温泉が子供にはちょうどいい温度でしたが、好みかもしれませんが、もう少し温度が高くてもいいなと思いました。クチコミの詳細はこちらから http… 2026-10-03 21:41:05投稿 つづきはこちら」
+              「親切な対応に感謝ホテルの方は親切でよかったです。温泉が子供にはちょうどいい温度でしたが、好みかもしれませんが、もう少し温度が高くてもいいなと思いました。」
             </div>
 
                   <div className="mt-3 pt-3 border-t border-stone-100 text-[11px] text-stone-500 space-y-0.5">
@@ -299,7 +299,7 @@ export default function WinterFeaturePage() {
 
             <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700 leading-relaxed">
               <span className="font-bold text-amber-900 block mb-1">宿泊者のクチコミ抜粋:</span>
-              「忘れ物の迅速な対応に感謝、また利用したい2泊でお世話になりました。イーフビーチはとても近く、コンビニも徒歩圏内。本島のような華やかさはないけど、のんびり過ごしたい方や、マリンスポーツを楽し… 2026-09-24 10:08:57投稿 つづきはこちら」
+              「忘れ物の迅速な対応に感謝、また利用したい2泊でお世話になりました。イーフビーチはとても近く、コンビニも徒歩圏内。本島のような華やかさはないけど、のんびり過ごしたい方や、マリンスポーツを楽し。」
             </div>
 
                   <div className="mt-3 pt-3 border-t border-stone-100 text-[11px] text-stone-500 space-y-0.5">
@@ -365,7 +365,7 @@ export default function WinterFeaturePage() {
 
             <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700 leading-relaxed">
               <span className="font-bold text-amber-900 block mb-1">宿泊者のクチコミ抜粋:</span>
-              「台風時の館内サービスや工夫がもっと欲しい台風であまり外には出れませんでした。台風時は、何かホテル側から宿泊客向けにサービスがあるといいと思います。食事会場を使ったワンコインサービスとか カフェのサ… 2026-10-02 12:01:52投稿 つづきはこちら」
+              「台風時の館内サービスや工夫がもっと欲しい台風であまり外には出れませんでした。台風時は、何かホテル側から宿泊客向けにサービスがあるといいと思います。食事会場を使ったワンコインサービスとか カフェのサ。」
             </div>
 
                   <div className="mt-3 pt-3 border-t border-stone-100 text-[11px] text-stone-500 space-y-0.5">
@@ -431,7 +431,7 @@ export default function WinterFeaturePage() {
 
             <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700 leading-relaxed">
               <span className="font-bold text-amber-900 block mb-1">宿泊者のクチコミ抜粋:</span>
-              「ロケーションと花火は最高、設備は古め兼城港から徒歩5分の位置にあり、バス停も近いことからロケーションは抜群です。久米島まつり会場(ふれあい公園)ととても近く、花火はホテル裏手の方からよく見えました… 2026-09-23 14:50:48投稿 つづきはこちら」
+              「ロケーションと花火は最高、設備は古め兼城港から徒歩5分の位置にあり、バス停も近いことからロケーションは抜群です。久米島まつり会場(ふれあい公園)ととても近く、花火はホテル裏手の方からよく見えました。」
             </div>
 
                   <div className="mt-3 pt-3 border-t border-stone-100 text-[11px] text-stone-500 space-y-0.5">

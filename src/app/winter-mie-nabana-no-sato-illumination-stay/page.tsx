@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【11・12月！なばなの里イルミネーション】光のトンネルと湯の山温泉・長島リゾート宿5選",
     "description": "日本最大級のスケールを誇る「なばなの里イルミネーション」！長さ200メートルの光のトンネルや水上イルミネーションを鑑賞し、開湯1300年の名湯・湯の山温泉の美肌湯や伊勢湾の海の幸に寛ぐ極上旅。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-    "datePublished": "2026-09-27T00:00:00+09:00",
-    "dateModified": "2026-09-27T00:00:00+09:00",
+    "datePublished": "T00:00:00+09:00",
+    "dateModified": "T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",
@@ -153,7 +153,7 @@ export default function FeaturePage() {
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「湯の山温泉 旅館寿亭」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「湯の山温泉 旅館寿亭」へは、車 新名神：菰野ＩＣ（※ＥＴＣ専用）約１０分 東名阪：四日市ＩＣ約２５分 電車 湯の山温泉駅から無料送迎（約１０分）。最寄りの湯の山温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「湯の山温泉 旅館寿亭」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「湯の山温泉 旅館寿亭」は『楽天トラベルゴールドアワード受賞｜御在所で涼む夏休み。お部屋・個室の夕食と6種の貸切風呂』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「湯の山温泉 旅館寿亭」と「湯の山温泉 三峯園」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「湯の山温泉 旅館寿亭」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「湯の山温泉 旅館寿亭」へは、車 新名神：菰野ＩＣ（※ＥＴＣ専用）約１０分 東名阪：四日市ＩＣ約２５分 電車 湯の山温泉駅から無料送迎（約１０分）。最寄りの湯の山温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「湯の山温泉 旅館寿亭」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「湯の山温泉 旅館寿亭」は『楽天トラベルゴールドアワード受賞｜御在所で涼む夏休み。お部屋・個室の夕食と6種の貸切風呂。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「湯の山温泉 旅館寿亭」と「湯の山温泉 三峯園」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -340,7 +340,7 @@ export default function FeaturePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「湯の山温泉 旅館寿亭」は『楽天トラベルゴールドアワード受賞｜御在所で涼む夏休み。お部屋・個室の夕食と6種の貸切風呂』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「湯の山温泉 旅館寿亭」は『楽天トラベルゴールドアワード受賞｜御在所で涼む夏休み。お部屋・個室の夕食と6種の貸切風呂。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

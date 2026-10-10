@@ -36,7 +36,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1445/1445map.gif",
     "reviewCount": 4469,
     "reviewAverage": 4.01,
-    "userReview": "部屋は狭いけれど価格が安く大満足部屋は狭かったですが、何といっても安かったので、大満足です。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/…　 ",
+    "userReview": "部屋は狭いけれど価格が安く大満足部屋は狭かったですが、何といっても安かったので、大満足です。",
     "hotelMinCharge": 3740,
     "address1": "京都府",
     "address2": "京都市伏見区深草西浦町4-59",
@@ -71,7 +71,7 @@ export default function Page() {
     "hotelMinCharge": 4180,
     "address1": "愛知県",
     "address2": "豊川市市田町東堤上1-66",
-    "telephoneNo": "0533-89-6161",
+    "telephoneNo": "61",
     "access": "東名豊川ＩＣから約１５分・音羽蒲郡ＩＣから約２０分。　名鉄本線　国府駅よりお車。",
     "parkingInformation": "有り　４０台　無料　予約不要",
     "nearestStation": "国府（愛知）",
@@ -98,11 +98,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40527/40527map.gif",
     "reviewCount": 1328,
     "reviewAverage": 4.14,
-    "userReview": "部屋の臭いと空調の効きが悪く残念予約していた部屋の臭いが我慢出来ずにフロントに連絡し、同価格の部屋に移動させてもらいましたが、ランクダウンした気がします。廊下など空調が効いてなく、暑かったです。…　 ",
+    "userReview": "廊下など空調が効いてなく、暑かったです。",
     "hotelMinCharge": 9900,
     "address1": "佐賀県",
     "address2": "嬉野市嬉野町下宿乙738",
-    "telephoneNo": "0954-42-0210",
+    "telephoneNo": "10",
     "access": "JR嬉野温泉駅から車で5分/長崎自動車道 嬉野ICより約5分",
     "parkingInformation": "ご宿泊者の方は無料でご利用頂けます。",
     "nearestStation": "武雄温泉",
@@ -185,7 +185,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「アーバンホテル京都」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「アーバンホテル京都」へは、車：京都南ＩＣ5分、京都駅10分 電車：JR稲荷10分、京阪龍谷大前深草5分、地下鉄くいな橋12分 バス龍谷大学前3分。最寄りの京都駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「アーバンホテル京都」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「アーバンホテル京都」は『伏見稲荷徒歩約10分／Wi-Fi完備／Ｐ有（先着順・大型要予約）／全室禁煙（1階喫煙スペー』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「アーバンホテル京都」と「豊川グランドホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「アーバンホテル京都」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「アーバンホテル京都」へは、車：京都南ＩＣ5分、京都駅10分 電車：JR稲荷10分、京阪龍谷大前深草5分、地下鉄くいな橋12分 バス龍谷大学前3分。最寄りの京都駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「アーバンホテル京都」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「アーバンホテル京都」は『伏見稲荷徒歩約10分／Wi-Fi完備／Ｐ有（先着順・大型要予約）／全室禁煙（1階喫煙スペー。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「アーバンホテル京都」と「豊川グランドホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         
         {/* 特集の魅力セクション */}
@@ -491,7 +491,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「アーバンホテル京都」は『伏見稲荷徒歩約10分／Wi-Fi完備／Ｐ有（先着順・大型要予約）／全室禁煙（1階喫煙スペー』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「アーバンホテル京都」は『伏見稲荷徒歩約10分／Wi-Fi完備／Ｐ有（先着順・大型要予約）／全室禁煙（1階喫煙スペー。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -37,8 +37,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-13T00:00:00+09:00',
-    dateModified: '2026-09-13T00:00:00+09:00',
+    datePublished: 'T00:00:00+09:00',
+    dateModified: 'T00:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/toyama-station-solo-business-onsen-sauna-stay',
   };
 
@@ -76,7 +76,7 @@ export default function ArticlePage() {
           【富山駅前出張・天然温泉サウナ】立山連峰ビュー・天然温泉剱の湯・富山湾鮨＆白えび！北陸屈指の産業拠点を制する厳選3宿
         </h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
-          <time dateTime="2026-09-13">2026.09.13 更新</time>
+          <time dateTime="">2026.09.13 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
         </div>
@@ -216,7 +216,7 @@ export default function ArticlePage() {
                 <span>🌟</span> ひとり滞在・出張で選ばれる理由
               </h3>
               <ul className="text-xs sm:text-sm text-stone-700 space-y-1.5">
-                    <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>2026年9月16日リフレッシュオープン♪男性大浴場の高温サウナには「オートロウリュ」を新たに導入</span></li>
+                    <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>リフレッシュオープン♪男性大浴場の高温サウナには「オートロウリュ」を新たに導入</span></li>
               </ul>
             </div>
 

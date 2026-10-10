@@ -49,7 +49,7 @@ export default function FurusatoRound63ArticlePage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「旅館 橋本屋」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「旅館 橋本屋」へは、金沢駅～車20分・9番乗り場からバス20分（「26番」系統のバス以外）渋滞時は所要時間が延びます。最寄りの金沢駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「旅館 橋本屋」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「旅館 橋本屋」は『◆創業100周年◆満足度◎治部煮など金沢美食と心温まるサービスで日常の疲れを癒し、贅沢なひ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「旅館 橋本屋」と「会津東山温泉 向瀧」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「旅館 橋本屋」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「旅館 橋本屋」へは、金沢駅～車20分・9番乗り場からバス20分（「26番」系統のバス以外）渋滞時は所要時間が延びます。最寄りの金沢駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「旅館 橋本屋」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「旅館 橋本屋」は『◆創業100周年◆満足度◎治部煮など金沢美食と心温まるサービスで日常の疲れを癒し、贅沢なひ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「旅館 橋本屋」と「会津東山温泉 向瀧」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -190,7 +190,7 @@ export default function FurusatoRound63ArticlePage() {
                     旅館　橋本屋
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「手作りの食事が美味しく、接客も丁寧で大満足皆さんとても優しく説明も丁寧でした。夕食も朝食もご家族で手作りされていると聞きました。一品ずつでてくるので時間はかかりますが、どれも美味しく、とて… 2026-08-12 22:37:03投稿 つづきはこちら…」
+                    「手作りの食事が美味しく、接客も丁寧で大満足皆さんとても優しく説明も丁寧でした。夕食も朝食もご家族で手作りされていると聞きました。一品ずつでてくるので時間はかかりますが、どれも美味しく、とて…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -245,7 +245,7 @@ export default function FurusatoRound63ArticlePage() {
                     会津東山温泉　向瀧
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「アレルギー対応の確認ミス?8月30日に宿泊しました。事前に「食品アレルギー」の有無をメールで尋ねられ、アレルギー無しと伝えてあったのですが、夕食時の説明で「エビアレルギーとの事でエビを抜いてありま… 2026-09-02 14:26:53投稿 つづきはこちら…」
+                    「アレルギー対応の確認ミス?8月30日に宿泊しました。事前に「食品アレルギー」の有無をメールで尋ねられ、アレルギー無しと伝えてあったのですが、夕食時の説明で「エビアレルギーとの事でエビを抜いてありま…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -300,7 +300,7 @@ export default function FurusatoRound63ArticlePage() {
                     山中温泉　吉祥やまなか
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「豪華な建物と温泉、鉄板焼きに大満足遅い夏休み旅行として家族四人で利用しました。建物も加賀らしく豪華絢爛で素晴らしく、温泉、食事(鉄板焼き)も非常に良かったです。雨の次の日であったため、川が… 2026-09-05 09:32:12投稿 つづきはこちら…」
+                    「豪華な建物と温泉、鉄板焼きに大満足遅い夏休み旅行として家族四人で利用しました。建物も加賀らしく豪華絢爛で素晴らしく、温泉、食事(鉄板焼き)も非常に良かったです。雨の次の日であったため、川が…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -463,7 +463,7 @@ export default function FurusatoRound63ArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「旅館 橋本屋」は『◆創業100周年◆満足度◎治部煮など金沢美食と心温まるサービスで日常の疲れを癒し、贅沢なひ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「旅館 橋本屋」は『◆創業100周年◆満足度◎治部煮など金沢美食と心温まるサービスで日常の疲れを癒し、贅沢なひ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

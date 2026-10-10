@@ -33,12 +33,12 @@ export default function Page() {
     "hotelMinCharge": 9300,
     "address1": "奈良県",
     "address2": "西方館：生駒郡班鳩町法隆寺1-5-32  東方館：生駒郡班鳩町法隆寺1-4-46",
-    "telephoneNo": "0745-70-1155",
+    "telephoneNo": "55",
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/177058/177058.jpg",
     "roomImageUrl": "",
     "reviewCount": 409,
     "reviewAverage": 4.58,
-    "userReview": "法隆寺のすぐそばで立地最高、案内も充実法隆寺のすぐそばで立地最高でした。無料での案内も非常に良かったです。時期を変えまた法隆寺の案内を聞きたいです。部屋も綺麗でしたが家族4人で泊まるに…　 ",
+    "userReview": "法隆寺のすぐそばで立地最高、案内も充実法隆寺のすぐそばで立地最高でした。無料での案内も非常に良かったです。時期を変えまた法隆寺の案内を聞きたいです。部屋も綺麗でしたが家族4人で泊まるに。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F177058%2F177058.html",
     "access": "JR法隆寺駅よりお車にて約５分／徒歩にて約１８分",
     "label": "奈良県斑鳩町・奈良市ふるさと納税・世界最古の木造五重塔「法隆寺五重塔」奈良ホテル・和空ステイ",
@@ -64,7 +64,7 @@ export default function Page() {
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108/108_stwn.jpg",
     "reviewCount": 7171,
     "reviewAverage": 4.26,
-    "userReview": "一流です。レストランすばらしい、接客もよかった。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/108?revi…　 ",
+    "userReview": "一流です。レストランすばらしい、接客もよかった。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108%2F108.html",
     "access": "京都駅より徒歩約７分、名神京都南ICから車で１０分",
     "label": "京都府京都市ふるさと納税・日本一の高さを誇る木造塔「東寺五重塔」リーガロイヤルホテル京都",
@@ -85,12 +85,12 @@ export default function Page() {
     "hotelMinCharge": 9020,
     "address1": "山形県",
     "address2": "鶴岡市湯田川乙19",
-    "telephoneNo": "0235-35-2777",
+    "telephoneNo": "77",
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/12536/12536.jpg",
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/12536/12536_ky.jpg",
     "reviewCount": 375,
     "reviewAverage": 4.81,
-    "userReview": "全てが素晴らしく、その場で次回の予約を入れた接客や料理、部屋の設備や清潔さ全て良かったので、チエックアウト時に次の予約を入れました。良さを維持しているスタッフの皆さんありがとうございました…　 ",
+    "userReview": "全てが素晴らしく、その場で次回の予約を入れた接客や料理、部屋の設備や清潔さ全て良かったので、チエックアウト時に次の予約を入れました。良さを維持しているスタッフの皆さんありがとうございました。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F12536%2F12536.html",
     "access": "ＪＲ羽越線鶴岡駅よりバス25分／庄内空港よりタクシー30分／山形自動車道鶴岡ＩＣより15分",
     "label": "山形県鶴岡市ふるさと納税・杉木立に佇む国宝の美「羽黒山五重塔」庄内名湯湯野浜温泉亀や",
@@ -169,7 +169,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「門前宿 和空法隆寺」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「門前宿 和空法隆寺」へは、JR法隆寺駅よりお車にて約５分／徒歩にて約１８分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「門前宿 和空法隆寺」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「門前宿 和空法隆寺」は『◆日本唯一のハイクラス門前旅館◆名店神田川の懐石◆文化体験◆語り部と巡る法隆寺ツアー』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「門前宿 和空法隆寺」と「リーガロイヤルホテル京都」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「門前宿 和空法隆寺」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「門前宿 和空法隆寺」へは、JR法隆寺駅よりお車にて約５分／徒歩にて約１８分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「門前宿 和空法隆寺」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「門前宿 和空法隆寺」は『◆日本唯一のハイクラス門前旅館◆名店神田川の懐石◆文化体験◆語り部と巡る法隆寺ツアー。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「門前宿 和空法隆寺」と「リーガロイヤルホテル京都」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         
         {/* 特集の魅力セクション */}
@@ -475,7 +475,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「門前宿 和空法隆寺」は『◆日本唯一のハイクラス門前旅館◆名店神田川の懐石◆文化体験◆語り部と巡る法隆寺ツアー』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「門前宿 和空法隆寺」は『◆日本唯一のハイクラス門前旅館◆名店神田川の懐石◆文化体験◆語り部と巡る法隆寺ツアー。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -38,7 +38,7 @@ export default function Page() {
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7520/7520_bath.jpg",
     "reviewCount": 606,
     "reviewAverage": 3.84,
-    "userReview": "部屋が狭くフロントまでの階段が負担部屋が狭くてびっくりした!部屋に入ると既に布団がひいてあり余計に部屋が狭く感じた!後、建物じょう仕方ないと思うがフロントに行くまで階段が数段あり 高齢者の…　 ",
+    "userReview": "部屋が狭くフロントまでの階段が負担部屋が狭くてびっくりした!部屋に入ると既に布団がひいてあり余計に部屋が狭く感じた!後、建物じょう仕方ないと思うがフロントに行くまで階段が数段あり 高齢者の。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7520%2F7520.html",
     "access": "JR松山駅から私鉄乗り継ぎ伊予鉄道後温泉駅下車、徒歩5分。",
     "label": "愛媛県松山市・八幡浜市ふるさと納税・太陽の光と潮風が育む温州みかんと高級柑橘「愛媛みかん海道」道後温泉茶玻瑠",
@@ -59,12 +59,12 @@ export default function Page() {
     "hotelMinCharge": 11900,
     "address1": "和歌山県",
     "address2": "西牟婁郡白浜町3212-1",
-    "telephoneNo": "0739-43-6000",
+    "telephoneNo": "00",
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18253/18253.jpg",
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18253/18253_onsen.jpg",
     "reviewCount": 5673,
     "reviewAverage": 4.42,
-    "userReview": "バイキングは豊富で美味、扉の汚れが気になるバイキングのメニューは豊富で、どれも美味しかったです。建物の造りが古いのか、部屋の入口の扉に汚れが目立つのが気になりました。クチコミの詳細はこ…　 ",
+    "userReview": "バイキングは豊富で美味、扉の汚れが気になるバイキングのメニューは豊富で、どれも美味しかったです。建物の造りが古いのか、部屋の入口の扉に汚れが目立つのが気になりました。クチコミの詳細はこ。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18253%2F18253.html",
     "access": "JR白浜駅から車で約10分※無料送迎バス運行中／南紀白浜空港から車で約8分／大阪から車で阪和道南紀田辺IC経由で約2時間",
     "label": "和歌山県白浜町・有田市ふるさと納税・有田みかんと紀州の味覚・全室オーシャンビューリゾート「和歌山柑橘ロード」白浜古賀の井リゾート＆スパ",
@@ -90,7 +90,7 @@ export default function Page() {
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/54209/54209_k.jpg",
     "reviewCount": 2145,
     "reviewAverage": 3.93,
-    "userReview": "館内の清掃不足と危険な温度設定に不満建物の老朽は致し方のないことですが、館内室内の清潔さは努力できると思います。ロビーに置かれた椅子は長年お客様に愛用されてきた暁なのでしょうか、背もたれの首の…　 ",
+    "userReview": "ロビーに置かれた椅子は長年お客様に愛用されてきた暁なのでしょうか、背もたれの首の。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54209%2F54209.html",
     "access": "熱海駅より路線バス（乗り場７）にて、「マリンスパあたみ」下車　／　車で「長泉IC」から伊豆縦貫・函熱道路で６０分",
     "label": "静岡県熱海市・伊東市ふるさと納税・三ヶ日みかんとニューサマーオレンジ香る「静岡柑橘リゾート」熱海温泉ホテル大野屋",
@@ -169,7 +169,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「道後温泉 ホテルルナパーク」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「道後温泉 ホテルルナパーク」へは、JR松山駅から私鉄乗り継ぎ伊予鉄道後温泉駅下車、徒歩5分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「道後温泉 ホテルルナパーク」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「道後温泉 ホテルルナパーク」は『道後温泉本館まで徒歩2分の便利な立地。晴れた夜には、展望露天風呂から星や月をご覧いただけま』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「道後温泉 ホテルルナパーク」と「白浜古賀の井リゾート＆スパ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「道後温泉 ホテルルナパーク」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「道後温泉 ホテルルナパーク」へは、JR松山駅から私鉄乗り継ぎ伊予鉄道後温泉駅下車、徒歩5分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「道後温泉 ホテルルナパーク」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「道後温泉 ホテルルナパーク」は『道後温泉本館まで徒歩2分の便利な立地。晴れた夜には、展望露天風呂から星や月をご覧いただけま。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「道後温泉 ホテルルナパーク」と「白浜古賀の井リゾート＆スパ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         
         {/* 特集の魅力セクション */}
@@ -475,7 +475,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「道後温泉 ホテルルナパーク」は『道後温泉本館まで徒歩2分の便利な立地。晴れた夜には、展望露天風呂から星や月をご覧いただけま』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「道後温泉 ホテルルナパーク」は『道後温泉本館まで徒歩2分の便利な立地。晴れた夜には、展望露天風呂から星や月をご覧いただけま。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

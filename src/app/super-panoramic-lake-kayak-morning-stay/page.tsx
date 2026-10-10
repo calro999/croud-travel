@@ -34,11 +34,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/11199/11199map.gif",
     "reviewCount": 844,
     "reviewAverage": 4.89,
-    "userReview": "心と身体が癒やされる、至福の料理旅館旅館は、リノベーションしていてキレイでびっくりしました。朝夕共にお部屋食、温泉も貸切でゆっくり入れました。あー!気持ちいい!と声が出てしまいました。観光も何もし…　2026-09-15 09:18:34投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=11199\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "心と身体が癒やされる、至福の料理旅館旅館は、リノベーションしていてキレイでびっくりしました。朝夕共にお部屋食、温泉も貸切でゆっくり入れました。あー!気持ちいい!と声が出てしまいました。観光も何もし。",
     "hotelMinCharge": 12200,
     "address1": "群馬県",
     "address2": "利根郡みなかみ町猿ヶ京1167",
-    "telephoneNo": "0278-66-1500",
+    "telephoneNo": "00",
     "access": "車　月夜野ＩＣから新潟方面へ２０分　猿ヶ京温泉信号右　新幹線⇒上毛高原駅　在来線⇒後閑駅下車",
     "parkingInformation": "【無料】当館前に駐車　7台　",
     "nearestStation": "上毛高原",
@@ -84,7 +84,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8883/8883map.gif",
     "reviewCount": 2468,
     "reviewAverage": 3.91,
-    "userReview": "丁寧に対応していただきましたいつも安心して宿泊できる、最高の宿ですクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/8…　2026-09-19 10:32:19投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=8883\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "丁寧に対応していただきましたいつも安心して宿泊できる、最高の宿です。",
     "hotelMinCharge": 3000,
     "address1": "福島県",
     "address2": "福島市曾根田町10-6",
@@ -109,11 +109,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50833/50833map.gif",
     "reviewCount": 188,
     "reviewAverage": 4.47,
-    "userReview": "自然に囲まれて美味しい料理とワインを堪能ご飯の美味しいお宿です。ずっと以前からお邪魔させていただいていますが、自然に囲まれた環境でぐっすり眠れ、さらにおいしい料理でおいしいワインで、ほんとにゆっく…　2026-09-14 21:39:45投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=50833\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "自然に囲まれて美味しい料理とワインを堪能ご飯の美味しいお宿です。ずっと以前からお邪魔させていただいていますが、自然に囲まれた環境でぐっすり眠れ、さらにおいしい料理でおいしいワインで、ほんとにゆっく。",
     "hotelMinCharge": 12000,
     "address1": "長野県",
     "address2": "南佐久郡小海町豊里5907-1",
-    "telephoneNo": "0267-93-2656",
+    "telephoneNo": "56",
     "access": "上信越道→中部横断道八千穂高原ＩＣより２０分／中央自動車道須玉又は長坂ＩＣより５０分／ＪＲ小海線小海駅より車で２０分",
     "parkingInformation": "無料　玄関と反対側の道路を挟んだ向かい側にあります。荷物積み下ろしは玄関前にお車をお付け下さい。",
     "nearestStation": "小海",
@@ -138,7 +138,7 @@ const hotels: any[] = [
     "hotelMinCharge": 10800,
     "address1": "群馬県",
     "address2": "利根郡みなかみ町藤原3831-7",
-    "telephoneNo": "0278-75-2828",
+    "telephoneNo": "28",
     "access": "関越道水上Ｉ．Ｃよりお車で30分。ＪＲ上越線水上駅、もしくは、上越新幹線上毛高原駅よりバス。バス停まで送迎有。（要予約）",
     "parkingInformation": "有り　２０台　無料",
     "nearestStation": "水上",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「リゾート イン ボンシック」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「リゾート イン ボンシック」へは、上信越道→中部横断道八千穂高原ＩＣより２０分／中央自動車道須玉又は長坂ＩＣより５０分／ＪＲ小海線小海駅より車で２０分。最寄りの小海駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「リゾート イン ボンシック」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「リゾート イン ボンシック」は『静かで落ち着く小粋な宿・地産地消のお料理自慢のゲストハウス・Wi-Fi完備』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「リゾート イン ボンシック」では季節ごとに異なる宿泊プランや料理プランが用意されています。ご旅行の人数や滞在スタイルに合わせて最適なプランをお選びいただけます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「リゾート イン ボンシック」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「リゾート イン ボンシック」へは、上信越道→中部横断道八千穂高原ＩＣより２０分／中央自動車道須玉又は長坂ＩＣより５０分／ＪＲ小海線小海駅より車で２０分。最寄りの小海駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「リゾート イン ボンシック」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「リゾート イン ボンシック」は『静かで落ち着く小粋な宿・地産地消のお料理自慢のゲストハウス・Wi-Fi完備。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「リゾート イン ボンシック」では季節ごとに異なる宿泊プランや料理プランが用意されています。ご旅行の人数や滞在スタイルに合わせて最適なプランをお選びいただけます。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -628,7 +628,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「リゾート イン ボンシック」は『静かで落ち着く小粋な宿・地産地消のお料理自慢のゲストハウス・Wi-Fi完備』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「リゾート イン ボンシック」は『静かで落ち着く小粋な宿・地産地消のお料理自慢のゲストハウス・Wi-Fi完備。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

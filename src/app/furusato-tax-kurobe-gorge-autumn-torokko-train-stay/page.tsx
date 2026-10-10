@@ -272,7 +272,7 @@ export default function FurusatoKurobeGorgeAutumnTorokkoStayPage() {
                       宇奈月温泉駅から徒歩3分、黒部川に架かる新山彦橋を望む絶好のロケーションに建つ大型リゾートホテル。最大の自慢は、棚田のように段違いに広がる展望大露天風呂「棚湯」で、開放感あふれる湯船から黒部峡谷の紅葉と山彦橋を渡るトロッコ電車を眺めることができます。夕食は富山の旬の食材を使ったオープンキッチンの豪華バイキングや落ち着いた会席料理が好評で、ファミリーからシニアまで大人気です。
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 温泉・特徴：</strong> おかげさまで連続受賞！「楽天トラベル 日本の宿アワード2025 TOP47」♪</div>
+                      <div><strong className="text-stone-800">♨️ 温泉・特徴：</strong> おかげさまで連続受賞！「楽天トラベル 日本の宿アワード2025 TOP47。」♪</div>
                       <div><strong className="text-stone-800">🚗 駐車場：</strong> 140台の無料駐車スペースがございます。</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 11,300円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>

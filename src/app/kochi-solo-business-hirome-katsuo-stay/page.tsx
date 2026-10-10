@@ -7,11 +7,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kochi-solo-business-hirome-katsuo-stay/" },
   title: '【高知出張＆土佐酒ひとり旅】ひろめ市場徒歩すぐ・天然温泉露天風呂・絶品カツオ藁焼き！南国土佐で魂を解放する名宿 厳選3選',
-  description: '黒潮躍る太平洋と坂本龍馬のふるさと・高知！「ひろめ市場徒歩5分・最上階に天然温泉大浴場と夜鳴きそば完備」の「ドーミーイン高知」、創業140余年・皇族も迎える名門旅館「城西館」、高知駅前徒歩2分の好立地を誇る「JRクレメントイン高知」を徹底特集。',
+  description: '黒潮躍る太平洋と坂本龍馬のふるさと・高知！「ひろめ市場徒歩5分・最上階に天然温泉大浴場と夜鳴きそば完備。」の「ドーミーイン高知」、創業140余年・皇族も迎える名門旅館「城西館」、高知駅前徒歩2分の好立地を誇る「JRクレメントイン高知」を徹底特集。',
   keywords: '高知 出張 ホテル おすすめ,高知 一人旅 ホテル,ドーミーイン高知 温泉,ひろめ市場 ホテル 高知,高知 カツオ塩たたき ホテル',
   openGraph: {
     title: '【高知出張＆土佐酒ひとり旅】ひろめ市場徒歩すぐ・天然温泉露天風呂・絶品カツオ藁焼き！南国土佐で魂を解放する名宿 厳選3選',
-    description: '黒潮躍る太平洋と坂本龍馬のふるさと・高知！「ひろめ市場徒歩5分・最上階に天然温泉大浴場と夜鳴きそば完備」の「ドーミーイン高知」、創業140余年・皇族も迎える名門旅館「城西館」、高知駅前徒歩2分の好立地を誇る「JRクレメントイン高知」を徹底特集。',
+    description: '黒潮躍る太平洋と坂本龍馬のふるさと・高知！「ひろめ市場徒歩5分・最上階に天然温泉大浴場と夜鳴きそば完備。」の「ドーミーイン高知」、創業140余年・皇族も迎える名門旅館「城西館」、高知駅前徒歩2分の好立地を誇る「JRクレメントイン高知」を徹底特集。',
     url: 'https://croud-travel.pages.dev/kochi-solo-business-hirome-katsuo-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -24,7 +24,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【高知出張＆土佐酒ひとり旅】ひろめ市場徒歩すぐ・天然温泉露天風呂・絶品カツオ藁焼き！南国土佐で魂を解放する名宿 厳選3選',
-    description: '黒潮躍る太平洋と坂本龍馬のふるさと・高知！「ひろめ市場徒歩5分・最上階に天然温泉大浴場と夜鳴きそば完備」の「ドーミーイン高知」、創業140余年・皇族も迎える名門旅館「城西館」、高知駅前徒歩2分の好立地を誇る「JRクレメントイン高知」を徹底特集。',
+    description: '黒潮躍る太平洋と坂本龍馬のふるさと・高知！「ひろめ市場徒歩5分・最上階に天然温泉大浴場と夜鳴きそば完備。」の「ドーミーイン高知」、創業140余年・皇族も迎える名門旅館「城西館」、高知駅前徒歩2分の好立地を誇る「JRクレメントイン高知」を徹底特集。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・出張調査班',
@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-12T15:40:00+09:00',
-    dateModified: '2026-09-12T15:40:00+09:00',
+    datePublished: 'T15:40:00+09:00',
+    dateModified: 'T15:40:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/kochi-solo-business-hirome-katsuo-stay',
   };
 
@@ -78,7 +78,7 @@ export default function ArticlePage() {
           【高知出張＆土佐酒ひとり旅】ひろめ市場徒歩すぐ・天然温泉露天風呂・絶品カツオ藁焼き！南国土佐で魂を解放する名宿 厳選3選
         </h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
-          黒潮躍る太平洋と坂本龍馬のふるさと・高知！「ひろめ市場徒歩5分・最上階に天然温泉大浴場と夜鳴きそば完備」の「ドーミーイン高知」、創業140余年・皇族も迎える名門旅館「城西館」、高知駅前徒歩2分の好立地を誇る「JRクレメントイン高知」を徹底特集。
+          黒潮躍る太平洋と坂本龍馬のふるさと・高知！「ひろめ市場徒歩5分・最上階に天然温泉大浴場と夜鳴きそば完備。」の「ドーミーイン高知」、創業140余年・皇族も迎える名門旅館「城西館」、高知駅前徒歩2分の好立地を誇る「JRクレメントイン高知」を徹底特集。
         </p>
       </header>
 
@@ -161,7 +161,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.42点。「ひろめ市場から歩いてすぐで立地最強！最上階の温泉とサウナも最高でした」「夜鳴きそばも美味しく高知出張の定宿です」と大絶賛。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.42点。「ひろめ市場から歩いてすぐで立地最強！最上階の温泉とサウナも最高でした。」「夜鳴きそばも美味しく高知出張の定宿です」と大絶賛。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -236,7 +236,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.63点。「スタッフの方々の接客が素晴らしく、お風呂からの景色も最高でした」「藁焼きカツオが信じられないほど美味しく感動しました」と絶賛。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.63点。「スタッフの方々の接客が素晴らしく、お風呂からの景色も最高でした。」「藁焼きカツオが信じられないほど美味しく感動しました。」と絶賛。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -311,7 +311,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.39点。「高知駅から近くて新しく部屋も綺麗でした」「ベッドの寝心地が良くデスクワークもしやすかった」と好評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.39点。「高知駅から近くて新しく部屋も綺麗でした」「ベッドの寝心地が良くデスクワークもしやすかった。」と好評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">

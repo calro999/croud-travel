@@ -49,7 +49,7 @@ export default function FurusatoHighlandRanchFarmStayPage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「那須温泉 ホテルサンバレー那須」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「那須温泉 ホテルサンバレー那須」へは、那須塩原駅西口よりホテルまで無料バスにて約40分 要予約 、東北自動車道那須ICより「那須街道」を湯本方面へ約20分。最寄りの黒磯駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「那須温泉 ホテルサンバレー那須」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「那須温泉 ホテルサンバレー那須」は『那須高原の中腹に9の宿泊施設がある北関東最大級の温泉リゾートホテル♪夏休みは温泉プールも営』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「那須温泉 ホテルサンバレー那須」と「リゾナーレトマム」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「那須温泉 ホテルサンバレー那須」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「那須温泉 ホテルサンバレー那須」へは、那須塩原駅西口よりホテルまで無料バスにて約40分 要予約 、東北自動車道那須ICより「那須街道」を湯本方面へ約20分。最寄りの黒磯駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「那須温泉 ホテルサンバレー那須」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「那須温泉 ホテルサンバレー那須」は『那須高原の中腹に9の宿泊施設がある北関東最大級の温泉リゾートホテル♪夏休みは温泉プールも営。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「那須温泉 ホテルサンバレー那須」と「リゾナーレトマム」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -195,7 +195,7 @@ export default function FurusatoHighlandRanchFarmStayPage() {
                     那須高原の美しい森の中に広がる、温泉・宿泊・アクティビティが融合した大型温泉リゾートホテル。「那須高原 南ヶ丘牧場」やりんどう湖ファミリー牧場へ車ですぐの絶好のロケーションに建ち、牧場巡りの拠点として抜群の人気を誇ります。敷地内には硫黄泉・弱アルカリ泉・マグネシウム泉という3つの異なる天然源泉が湧出する大型スパ施設「湯遊天国」を完備。夕食には新鮮な那須高原野菜やシェフが焼き上げるステーキ、中華・和食・洋食の本格バイキングが楽しめ、三世代家族やグループ旅行にも最高の満足度を提供してくれます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「枕を選べて安眠でき、サービスも充実枕交換していただけるので、安眠が約束されました。ウェルカムドリンクコーナーには、パウンドケーキやソフトクリーム、梅酒もあり種類豊富な上にソファでゆったり寛げる… 2026-09-05 22:42:25投稿 …」
+                    「枕を選べて安眠でき、サービスも充実枕交換していただけるので、安眠が約束されました。ウェルカムドリンクコーナーには、パウンドケーキやソフトクリーム、梅酒もあり種類豊富な上にソファでゆったり寛げる…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -256,7 +256,7 @@ export default function FurusatoHighlandRanchFarmStayPage() {
                     北海道の大自然に囲まれた約1,000ヘクタールもの広大な敷地を誇る星野リゾートのフラッグシップ施設。約100ヘクタールの「ファーム星野」では、牛や羊、馬がのんびり暮らす牧歌的な風景が広がり、本物の牧草でできた「牧草ベッド」や「羊とお昼寝ハンモック」などユニークな体験が目白押しです。全客室が100平米以上のスイートルーム仕様で、展望ジェットバスとプライベートサウナを完備。雲海テラスや日本最大級のインドアウェイブプール「ミナミナビーチ」など、世界基準のプレミアムな休日をお過ごしいただけます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「価格に見合うサービスや改善を期待したいお部屋設備の古さは感じましたが綺麗でした。水周りがとても綺麗で好感を持てました。お部屋の中のジャグジーやサウナもよかったです。お部屋内のカーペ… 2026-09-04 15:06:39投稿 つづきはこち…」
+                    「価格に見合うサービスや改善を期待したいお部屋設備の古さは感じましたが綺麗でした。水周りがとても綺麗で好感を持てました。お部屋の中のジャグジーやサウナもよかったです。お部屋内のカーペ… つづきはこち。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -317,7 +317,7 @@ export default function FurusatoHighlandRanchFarmStayPage() {
                     世界最大級のカルデラを誇る阿蘇の大草原に位置し、阿蘇ミルク牧場や草千里ヶ浜の放牧体験へのアクセス拠点として愛される老舗温泉旅館。宿の最大の自慢は、屋上にある展望露天風呂「峯峰の湯」。遮るもののない大パノラマで阿蘇五岳（根子岳・高岳・中岳・烏帽子岳・杵島岳）の雄大な山並みを一望しながら良質な内牧温泉に浸かる贅沢が味わえます。夕食には熊本名物の馬刺しや肥後あか牛の溶岩焼き、阿蘇のジャージー牛乳を使ったデザートなど郷土の豊かな恵みを堪能でき、阿蘇の雄大な自然をまるごと体感できます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「懐石料理は豪華で美味、温泉も快適建物の古さは感じますが清潔感があり快適に過ごすことが出来ました。夕飯の懐石が豪華で大変美味しかったですが、小学三年生の息子には量が多かったため、柔軟に対応しても… 2026-08-11 07:16:38投稿 …」
+                    「懐石料理は豪華で美味、温泉も快適建物の古さは感じますが清潔感があり快適に過ごすことが出来ました。夕飯の懐石が豪華で大変美味しかったですが、小学三年生の息子には量が多かったため、柔軟に対応しても…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -481,7 +481,7 @@ export default function FurusatoHighlandRanchFarmStayPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「那須温泉 ホテルサンバレー那須」は『那須高原の中腹に9の宿泊施設がある北関東最大級の温泉リゾートホテル♪夏休みは温泉プールも営』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「那須温泉 ホテルサンバレー那須」は『那須高原の中腹に9の宿泊施設がある北関東最大級の温泉リゾートホテル♪夏休みは温泉プールも営。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

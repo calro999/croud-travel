@@ -49,7 +49,7 @@ export default function FurusatoRound66ArticlePage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「道後温泉 茶玻瑠」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「道後温泉 茶玻瑠」へは、私鉄伊予鉄道線道後温泉下車徒歩５分／ＪＲ予讃線松山駅下車タクシー１５分／松山空港から車で３０分。最寄りの道後温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「道後温泉 茶玻瑠」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「道後温泉 茶玻瑠」は『道後温泉徒歩1分の好立地！露天風呂からの眺めが自慢』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「道後温泉 茶玻瑠」と「有馬温泉 兵衛向陽閣」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「道後温泉 茶玻瑠」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「道後温泉 茶玻瑠」へは、私鉄伊予鉄道線道後温泉下車徒歩５分／ＪＲ予讃線松山駅下車タクシー１５分／松山空港から車で３０分。最寄りの道後温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「道後温泉 茶玻瑠」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「道後温泉 茶玻瑠」は『道後温泉徒歩1分の好立地！露天風呂からの眺めが自慢。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「道後温泉 茶玻瑠」と「有馬温泉 兵衛向陽閣」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -190,7 +190,7 @@ export default function FurusatoRound66ArticlePage() {
                     道後温泉　茶玻瑠
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「食事は満足、立地も最高で散策に便利夕食も朝食も種類が豊富で大変満足でした。また、道後温泉も目の前で温泉街散策にも、とてもいい立地でした。1つお願いがあるとしたら、夕食に子ども用メイン料理がつく… 2026-08-31 09:55:50投稿 つづきはこちら…」
+                    「食事は満足、立地も最高で散策に便利夕食も朝食も種類が豊富で大変満足でした。また、道後温泉も目の前で温泉街散策にも、とてもいい立地でした。1つお願いがあるとしたら、夕食に子ども用メイン料理がつく…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -245,7 +245,7 @@ export default function FurusatoRound66ArticlePage() {
                     有馬温泉　兵衛向陽閣
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「憧れのお宿で心温まるおもてなしと温泉を満喫憧れのお宿に泊まることができて、とても嬉しかったです。こちらの事情で、チェックインが遅くなり、夕飯が遅いスタートになってしまったのですが、荷物や車など様々… 2026-09-05 08:23:30投稿 つづきはこちら…」
+                    「憧れのお宿で心温まるおもてなしと温泉を満喫憧れのお宿に泊まることができて、とても嬉しかったです。こちらの事情で、チェックインが遅くなり、夕飯が遅いスタートになってしまったのですが、荷物や車など様々…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -300,7 +300,7 @@ export default function FurusatoRound66ArticlePage() {
                     浜千鳥の湯　海舟（共立リゾート）
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「すべてのサービスが最高でした全サービス最高クチコミの詳細はこちらから https://review.travel.rakuten.co.jp/hotel/voice/68224?revie… 2026-09-05 22:48:38投稿 つづきはこちら…」
+                    「すべてのサービスが最高でした全サービス最高。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -463,7 +463,7 @@ export default function FurusatoRound66ArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「道後温泉 茶玻瑠」は『道後温泉徒歩1分の好立地！露天風呂からの眺めが自慢』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「道後温泉 茶玻瑠」は『道後温泉徒歩1分の好立地！露天風呂からの眺めが自慢。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

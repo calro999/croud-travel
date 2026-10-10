@@ -62,7 +62,7 @@ export default function FurusatoNikkoWorldHeritageStayPage() {
           世界遺産日光東照宮の歴史と中禅寺湖の絶景！奥日光の乳白色硫黄泉＆日本最古クラシックホテル×ふるさと納税完全攻略ガイド【2026年最新】千姫物語・日光金谷ホテル・ホテル四季彩
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-10">2026年9月10日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -77,7 +77,7 @@ export default function FurusatoNikkoWorldHeritageStayPage() {
           徳川家康公を祀る日光東照宮、神聖な男体山と中禅寺湖。千年の祈りと大自然に抱かれる日光の優雅な休日へ
         </h2>
         <p className="text-base md:text-lg text-gray-800 leading-relaxed mb-6">
-          世界遺産「日光の社寺（日光東照宮・日光二荒山神社・日光山輪王寺）」を擁し、四季を通じて国内外の旅行者が訪れる国際的景勝地「栃木県・日光（にっこう）」。絢爛豪華な陽明門や国宝の眠り猫をはじめとする彫刻美、いろは坂を登った先に広がる大迫力の「華厳の滝」、そして霊峰・男体山を湖面に映す「中禅寺湖」など、歴史遺産と雄大な大自然が完璧に調和した日本屈指の観光地です。日光エリアの宿泊の魅力は、東照宮周辺の格式あるクラシックホテルや温泉旅館、そして奥日光に湧出する白濁の「奥日光湯元温泉（乳白色硫黄泉）」。空気に触れると乳白色に濁る濃厚な硫黄泉は、日本屈指の美肌・血行促進効果を誇り、原生林に囲まれた露天風呂での湯浴みは至福の極みです。さらに食事は、日光の伝統食材「日光湯波（ゆば）」の煮物やお造り、栃木が誇るブランド黒毛和牛「とちぎ和牛」のステーキやすき焼き、日本最古の西洋式クラシックホテルが受け継ぐ伝統のフランス料理など、日光ならではの洗練された美食が旅を彩ります。本特集では、日光東照宮へ徒歩約10分の好立地で女性に優しい美肌温泉と本格懐石料理が評判の「日光温泉 日光千姫物語」、アインシュタインやヘレン・ケラーら世界の偉人が逗留した日本最古のリゾートクラシック「日光金谷ホテル」、そして中禅寺湖畔の静寂な森に佇み乳白色のにごり湯露天風呂を誇る「奥日光 ホテル四季彩」の3宿を厳選。栃木県日光市への楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円で憧れの日光ステイをお得に予約しましょう。
+          世界遺産「日光の社寺（日光東照宮・日光二荒山神社・日光山輪王寺）。」を擁し、四季を通じて国内外の旅行者が訪れる国際的景勝地「栃木県・日光（にっこう）」。絢爛豪華な陽明門や国宝の眠り猫をはじめとする彫刻美、いろは坂を登った先に広がる大迫力の「華厳の滝」、そして霊峰・男体山を湖面に映す「中禅寺湖」など、歴史遺産と雄大な大自然が完璧に調和した日本屈指の観光地です。日光エリアの宿泊の魅力は、東照宮周辺の格式あるクラシックホテルや温泉旅館、そして奥日光に湧出する白濁の「奥日光湯元温泉（乳白色硫黄泉）」。空気に触れると乳白色に濁る濃厚な硫黄泉は、日本屈指の美肌・血行促進効果を誇り、原生林に囲まれた露天風呂での湯浴みは至福の極みです。さらに食事は、日光の伝統食材「日光湯波（ゆば）」の煮物やお造り、栃木が誇るブランド黒毛和牛「とちぎ和牛」のステーキやすき焼き、日本最古の西洋式クラシックホテルが受け継ぐ伝統のフランス料理など、日光ならではの洗練された美食が旅を彩ります。本特集では、日光東照宮へ徒歩約10分の好立地で女性に優しい美肌温泉と本格懐石料理が評判の「日光温泉 日光千姫物語」、アインシュタインやヘレン・ケラーら世界の偉人が逗留した日本最古のリゾートクラシック「日光金谷ホテル」、そして中禅寺湖畔の静寂な森に佇み乳白色のにごり湯露天風呂を誇る「奥日光 ホテル四季彩」の3宿を厳選。栃木県日光市への楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円で憧れの日光ステイをお得に予約しましょう。
         </p>
         <div className="bg-white/90 rounded-xl p-4 md:p-5 border border-amber-300 shadow-sm">
           <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5">
@@ -164,7 +164,7 @@ export default function FurusatoNikkoWorldHeritageStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “美味しい食事を堪能し、ゆっくり過ごせた食事がおいしくゆっくりできました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voic…　2026-09-05 16:06:26投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “美味しい食事を堪能し、ゆっくり過ごせた食事がおいしくゆっくりできました。 ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -197,7 +197,7 @@ export default function FurusatoNikkoWorldHeritageStayPage() {
             <div><strong>楽天評価:</strong> <span className="text-amber-600 font-bold text-base">★ 4.49</span> (893件)</div>
             <div><strong>参考価格:</strong> 1名あたり約11,135円〜</div>
           </div>
-          <p className="text-base text-gray-800 leading-relaxed mb-6">明治6年（1873年）創業、日本における西洋式リゾートホテルの草分けとして世界的に知られる名門クラシックホテル。国の登録有形文化財に指定された木造洋館には、アインシュタイン、ヘレン・ケラー、イザベラ・バードら歴史上の偉人が宿泊した記録が残ります。館内には日光東照宮の彫刻を思わせる和洋折衷の木彫装飾や回転ドア、暖炉が配され、まるでタイムスリップしたかのような優雅な空気が漂います。宿の代名詞であるメインダイニングルームでは、歴代料理長が受け継いできた「伝統のフランス料理フルコース（虹鱒のソテー金谷風や大正コロッケなど）」を味わえ、一生の記憶に残るクラシックステイを提供します。</p>
+          <p className="text-base text-gray-800 leading-relaxed mb-6">明治6年（1873年）創業、日本における西洋式リゾートホテルの草分けとして世界的に知られる名門クラシックホテル。国の登録有形文化財に指定された木造洋館には、アインシュタイン、ヘレン・ケラー、イザベラ・バードら歴史上の偉人が宿泊した記録が残ります。館内には日光東照宮の彫刻を思わせる和洋折衷の木彫装飾や回転ドア、暖炉が配され、まるでタイムスリップしたかのような優雅な空気が漂います。宿の代名詞であるメインダイニングルームでは、歴代料理長が受け継いできた「伝統のフランス料理フルコース（虹鱒のソテー金谷風や大正コロッケなど）。」を味わえ、一生の記憶に残るクラシックステイを提供します。</p>
           <div className="hotel-special-wrapper">
             <div className="bg-amber-50 border-l-4 border-amber-600 p-4 rounded-r-xl mb-6 text-sm text-amber-950">
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
@@ -206,7 +206,7 @@ export default function FurusatoNikkoWorldHeritageStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “派手さの無い本物本当に落ち着く部屋でした。夕食の後のバーも雰囲気があって本当に良かったです。必ずまた行きます。出来れば数泊することをお勧めします。クチコミの詳細はこちらから　https://r…　2026-09-01 08:05:07投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “派手さの無い本物本当に落ち着く部屋でした。夕食の後のバーも雰囲気があって本当に良かったです。必ずまた行きます。出来れば数泊することをお勧めします。 ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -239,7 +239,7 @@ export default function FurusatoNikkoWorldHeritageStayPage() {
             <div><strong>楽天評価:</strong> <span className="text-amber-600 font-bold text-base">★ 4.33</span> (2396件)</div>
             <div><strong>参考価格:</strong> 1名あたり約14,300円〜</div>
           </div>
-          <p className="text-base text-gray-800 leading-relaxed mb-6">中禅寺湖のほとり、ミズナラやシラカバの原生林に包まれた静寂な高台に建つ温泉リゾートホテル。宿最大の自慢は、日光湯元温泉から引湯する源泉100％掛け流しの「乳白色のにごり湯（含硫黄-ナトリウム・カルシウム-硫酸塩・炭酸水素塩温泉）」。大浴場や森にせり出す大露天風呂に浸かれば、立ちのぼる硫黄の香りと木々のざわめきに包まれ、極上の癒やしを実感できます。全室から中禅寺湖畔の四季の森を一望。夕食はブランド和牛「とちぎ和牛」のステーキや日光湯波、旬の山海の恵みを職人が繊細に仕立てた季節の和食会席料理で、都会の喧騒から離れた大人の静寂旅に最適です。</p>
+          <p className="text-base text-gray-800 leading-relaxed mb-6">中禅寺湖のほとり、ミズナラやシラカバの原生林に包まれた静寂な高台に建つ温泉リゾートホテル。宿最大の自慢は、日光湯元温泉から引湯する源泉100％掛け流しの「乳白色のにごり湯（含硫黄-ナトリウム・カルシウム-硫酸塩・炭酸水素塩温泉）。」。大浴場や森にせり出す大露天風呂に浸かれば、立ちのぼる硫黄の香りと木々のざわめきに包まれ、極上の癒やしを実感できます。全室から中禅寺湖畔の四季の森を一望。夕食はブランド和牛「とちぎ和牛」のステーキや日光湯波、旬の山海の恵みを職人が繊細に仕立てた季節の和食会席料理で、都会の喧騒から離れた大人の静寂旅に最適です。</p>
           <div className="hotel-special-wrapper">
             <div className="bg-amber-50 border-l-4 border-amber-600 p-4 rounded-r-xl mb-6 text-sm text-amber-950">
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
@@ -248,7 +248,7 @@ export default function FurusatoNikkoWorldHeritageStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “緑に囲まれた温泉と自然を望む食事処が最高温泉は内湯と露天風呂、緑に囲まれて湯加減も熱すぎず最高でした。お食事処も、窓が大きく自然に囲まれながら頂きました。クチコミの詳細はこちらから　htt…　2026-09-05 18:47:53投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “緑に囲まれた温泉と自然を望む食事処が最高温泉は内湯と露天風呂、緑に囲まれて湯加減も熱すぎず最高でした。お食事処も、窓が大きく自然に囲まれながら頂きました。
             </blockquote>
           </div>
           <div className="pt-2">
@@ -323,7 +323,7 @@ export default function FurusatoNikkoWorldHeritageStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

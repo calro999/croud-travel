@@ -7,11 +7,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/okayama-kurashiki-solo-retreat-culture-stay/" },
   title: '【岡山・倉敷ひとり旅＆出張】岡山駅直結・倉敷美観地区・大浴場！白壁の街と日本庭園に癒やされる大人のおこもり宿 厳選3選',
-  description: '山陽新幹線のハブステーション・岡山と、白壁土蔵が連なる風情の街・倉敷！「岡山駅直結で四国・山陰連絡にも最強のランドマーク」を誇る「ホテルグランヴィア岡山」、倉敷美観地区すぐ隣で木造クラシカルの風格を持つ「倉敷国際ホテル」、最上階に庭園大浴場を備えた「三井ガーデンホテル岡山」を徹底特集。',
+  description: '山陽新幹線のハブステーション・岡山と、白壁土蔵が連なる風情の街・倉敷！「岡山駅直結で四国・山陰連絡にも最強のランドマーク。」を誇る「ホテルグランヴィア岡山」、倉敷美観地区すぐ隣で木造クラシカルの風格を持つ「倉敷国際ホテル」、最上階に庭園大浴場を備えた「三井ガーデンホテル岡山」を徹底特集。',
   keywords: '岡山 出張 ホテル おすすめ,倉敷 一人旅 ホテル,ホテルグランヴィア岡山 宿泊,倉敷国際ホテル 美観地区,三井ガーデンホテル岡山 大浴場',
   openGraph: {
     title: '【岡山・倉敷ひとり旅＆出張】岡山駅直結・倉敷美観地区・大浴場！白壁の街と日本庭園に癒やされる大人のおこもり宿 厳選3選',
-    description: '山陽新幹線のハブステーション・岡山と、白壁土蔵が連なる風情の街・倉敷！「岡山駅直結で四国・山陰連絡にも最強のランドマーク」を誇る「ホテルグランヴィア岡山」、倉敷美観地区すぐ隣で木造クラシカルの風格を持つ「倉敷国際ホテル」、最上階に庭園大浴場を備えた「三井ガーデンホテル岡山」を徹底特集。',
+    description: '山陽新幹線のハブステーション・岡山と、白壁土蔵が連なる風情の街・倉敷！「岡山駅直結で四国・山陰連絡にも最強のランドマーク。」を誇る「ホテルグランヴィア岡山」、倉敷美観地区すぐ隣で木造クラシカルの風格を持つ「倉敷国際ホテル」、最上階に庭園大浴場を備えた「三井ガーデンホテル岡山」を徹底特集。',
     url: 'https://croud-travel.pages.dev/okayama-kurashiki-solo-retreat-culture-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -24,7 +24,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【岡山・倉敷ひとり旅＆出張】岡山駅直結・倉敷美観地区・大浴場！白壁の街と日本庭園に癒やされる大人のおこもり宿 厳選3選',
-    description: '山陽新幹線のハブステーション・岡山と、白壁土蔵が連なる風情の街・倉敷！「岡山駅直結で四国・山陰連絡にも最強のランドマーク」を誇る「ホテルグランヴィア岡山」、倉敷美観地区すぐ隣で木造クラシカルの風格を持つ「倉敷国際ホテル」、最上階に庭園大浴場を備えた「三井ガーデンホテル岡山」を徹底特集。',
+    description: '山陽新幹線のハブステーション・岡山と、白壁土蔵が連なる風情の街・倉敷！「岡山駅直結で四国・山陰連絡にも最強のランドマーク。」を誇る「ホテルグランヴィア岡山」、倉敷美観地区すぐ隣で木造クラシカルの風格を持つ「倉敷国際ホテル」、最上階に庭園大浴場を備えた「三井ガーデンホテル岡山」を徹底特集。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・出張調査班',
@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-11T02:50:00+09:00',
-    dateModified: '2026-09-11T02:50:00+09:00',
+    datePublished: 'T02:50:00+09:00',
+    dateModified: 'T02:50:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/okayama-kurashiki-solo-retreat-culture-stay',
   };
 
@@ -78,7 +78,7 @@ export default function ArticlePage() {
           【岡山・倉敷ひとり旅＆出張】岡山駅直結・倉敷美観地区・大浴場！白壁の街と日本庭園に癒やされる大人のおこもり宿 厳選3選
         </h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
-          山陽新幹線のハブステーション・岡山と、白壁土蔵が連なる風情の街・倉敷！「岡山駅直結で四国・山陰連絡にも最強のランドマーク」を誇る「ホテルグランヴィア岡山」、倉敷美観地区すぐ隣で木造クラシカルの風格を持つ「倉敷国際ホテル」、最上階に庭園大浴場を備えた「三井ガーデンホテル岡山」を徹底特集。
+          山陽新幹線のハブステーション・岡山と、白壁土蔵が連なる風情の街・倉敷！「岡山駅直結で四国・山陰連絡にも最強のランドマーク。」を誇る「ホテルグランヴィア岡山」、倉敷美観地区すぐ隣で木造クラシカルの風格を持つ「倉敷国際ホテル」、最上階に庭園大浴場を備えた「三井ガーデンホテル岡山」を徹底特集。
         </p>
       </header>
 
@@ -161,7 +161,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.40点。「岡山駅直結でこれ以上便利な宿はない。お部屋も綺麗でスタッフの気配りも一流」「新幹線利用の出張ならここ一択です」と絶大な信頼。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.40点。「岡山駅直結でこれ以上便利な宿はない。お部屋も綺麗でスタッフの気配りも一流。」「新幹線利用の出張ならここ一択です」と絶大な信頼。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -236,7 +236,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.25点。「美観地区がすぐ隣で、夜と朝の静かな散歩が最高でした」「クラシカルな落ち着きがあり、棟方志功の版画も圧巻」と文化・歴史ファンから高評価。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.25点。「美観地区がすぐ隣で、夜と朝の静かな散歩が最高でした。」「クラシカルな落ち着きがあり、棟方志功の版画も圧巻。」と文化・歴史ファンから高評価。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -311,7 +311,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.15点。「駅近で大浴場があるのが本当にありがたい」「リニューアルされてお部屋がとても綺麗で、朝食も美味しく大満足でした」と好評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.15点。「駅近で大浴場があるのが本当にありがたい」「リニューアルされてお部屋がとても綺麗で、朝食も美味しく大満足でした。」と好評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">

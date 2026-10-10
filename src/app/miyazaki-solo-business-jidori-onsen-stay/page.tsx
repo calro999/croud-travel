@@ -7,11 +7,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/miyazaki-solo-business-jidori-onsen-stay/" },
   title: '【宮崎出張＆南国ソログルメ泊】橘通り中心街・天然温泉大浴場・地鶏炭火焼！チキン南蛮を満喫する極上ホテル 厳選3選',
-  description: '温暖な気候と青い空が広がる南国・宮崎市！「繁華街・橘通りの真ん中で天然温泉大浴場と冷汁朝食」を誇る「天然温泉 日向の湯 ドーミーイン宮崎」、大淀川のほとりに佇み名湯たまゆらの湯が湧く老舗「宮崎観光ホテル」、宮崎駅西口すぐでシティビューを望む「アートホテル宮崎 スカイタワー」を徹底特集。',
+  description: '温暖な気候と青い空が広がる南国・宮崎市！「繁華街・橘通りの真ん中で天然温泉大浴場と冷汁朝食。」を誇る「天然温泉 日向の湯 ドーミーイン宮崎」、大淀川のほとりに佇み名湯たまゆらの湯が湧く老舗「宮崎観光ホテル」、宮崎駅西口すぐでシティビューを望む「アートホテル宮崎 スカイタワー」を徹底特集。',
   keywords: '宮崎 出張 ホテル 温泉,宮崎 一人旅 ホテル おすすめ,ドーミーイン宮崎 宿泊,宮崎観光ホテル たまゆらの湯,宮崎 地鶏炭火焼 ホテル',
   openGraph: {
     title: '【宮崎出張＆南国ソログルメ泊】橘通り中心街・天然温泉大浴場・地鶏炭火焼！チキン南蛮を満喫する極上ホテル 厳選3選',
-    description: '温暖な気候と青い空が広がる南国・宮崎市！「繁華街・橘通りの真ん中で天然温泉大浴場と冷汁朝食」を誇る「天然温泉 日向の湯 ドーミーイン宮崎」、大淀川のほとりに佇み名湯たまゆらの湯が湧く老舗「宮崎観光ホテル」、宮崎駅西口すぐでシティビューを望む「アートホテル宮崎 スカイタワー」を徹底特集。',
+    description: '温暖な気候と青い空が広がる南国・宮崎市！「繁華街・橘通りの真ん中で天然温泉大浴場と冷汁朝食。」を誇る「天然温泉 日向の湯 ドーミーイン宮崎」、大淀川のほとりに佇み名湯たまゆらの湯が湧く老舗「宮崎観光ホテル」、宮崎駅西口すぐでシティビューを望む「アートホテル宮崎 スカイタワー」を徹底特集。',
     url: 'https://croud-travel.pages.dev/miyazaki-solo-business-jidori-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -24,7 +24,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '【宮崎出張＆南国ソログルメ泊】橘通り中心街・天然温泉大浴場・地鶏炭火焼！チキン南蛮を満喫する極上ホテル 厳選3選',
-    description: '温暖な気候と青い空が広がる南国・宮崎市！「繁華街・橘通りの真ん中で天然温泉大浴場と冷汁朝食」を誇る「天然温泉 日向の湯 ドーミーイン宮崎」、大淀川のほとりに佇み名湯たまゆらの湯が湧く老舗「宮崎観光ホテル」、宮崎駅西口すぐでシティビューを望む「アートホテル宮崎 スカイタワー」を徹底特集。',
+    description: '温暖な気候と青い空が広がる南国・宮崎市！「繁華街・橘通りの真ん中で天然温泉大浴場と冷汁朝食。」を誇る「天然温泉 日向の湯 ドーミーイン宮崎」、大淀川のほとりに佇み名湯たまゆらの湯が湧く老舗「宮崎観光ホテル」、宮崎駅西口すぐでシティビューを望む「アートホテル宮崎 スカイタワー」を徹底特集。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・出張調査班',
@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-11T12:30:00+09:00',
-    dateModified: '2026-09-11T12:30:00+09:00',
+    datePublished: 'T12:30:00+09:00',
+    dateModified: 'T12:30:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/miyazaki-solo-business-jidori-onsen-stay',
   };
 
@@ -78,7 +78,7 @@ export default function ArticlePage() {
           【宮崎出張＆南国ソログルメ泊】橘通り中心街・天然温泉大浴場・地鶏炭火焼！チキン南蛮を満喫する極上ホテル 厳選3選
         </h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
-          温暖な気候と青い空が広がる南国・宮崎市！「繁華街・橘通りの真ん中で天然温泉大浴場と冷汁朝食」を誇る「天然温泉 日向の湯 ドーミーイン宮崎」、大淀川のほとりに佇み名湯たまゆらの湯が湧く老舗「宮崎観光ホテル」、宮崎駅西口すぐでシティビューを望む「アートホテル宮崎 スカイタワー」を徹底特集。
+          温暖な気候と青い空が広がる南国・宮崎市！「繁華街・橘通りの真ん中で天然温泉大浴場と冷汁朝食。」を誇る「天然温泉 日向の湯 ドーミーイン宮崎」、大淀川のほとりに佇み名湯たまゆらの湯が湧く老舗「宮崎観光ホテル」、宮崎駅西口すぐでシティビューを望む「アートホテル宮崎 スカイタワー」を徹底特集。
         </p>
       </header>
 
@@ -161,7 +161,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.41点。「ニシタチの目の前で夜の飲食に最高の立地！最上階の温泉とサウナが気持ちよすぎました」「朝食の冷汁とチキン南蛮も絶品」と大絶賛。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.41点。「ニシタチの目の前で夜の飲食に最高の立地！最上階の温泉とサウナが気持ちよすぎました。」「朝食の冷汁とチキン南蛮も絶品」と大絶賛。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -236,7 +236,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.17点。「大淀川を眺めながら入る露天風呂が最高でした」「老舗の風格がありスタッフの対応も素晴らしく、とても落ち着けました」と定評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.17点。「大淀川を眺めながら入る露天風呂が最高でした。」「老舗の風格がありスタッフの対応も素晴らしく、とても落ち着けました。」と定評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -311,7 +311,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.05点。「宮崎駅から近くてわかりやすく、部屋も高層階で綺麗でした」「コスパが良くビジネス利用にとても使いやすいホテル」と好評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.05点。「宮崎駅から近くてわかりやすく、部屋も高層階で綺麗でした。」「コスパが良くビジネス利用にとても使いやすいホテル。」と好評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -451,7 +451,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「天然温泉 日向の湯 ドーミーイン宮崎」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「天然温泉 日向の湯 ドーミーイン宮崎」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「天然温泉”たまゆらの湯” 宮崎観光ホテル」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「天然温泉”たまゆらの湯” 宮崎観光ホテル。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>

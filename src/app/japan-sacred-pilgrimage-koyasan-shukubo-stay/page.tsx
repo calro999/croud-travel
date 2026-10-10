@@ -7,7 +7,7 @@ import path from "path";
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-sacred-pilgrimage-koyasan-shukubo-stay/" },
   title: "【世界遺産・霊場巡り＆宿坊体験宿】高野山宿坊・熊野古道・比叡山延暦寺 完全ガイド ｜ 日本全国・旅宿クラウド",
-  description: "千年の祈りと静寂に包まれる聖地巡礼完全特化！弘法大師空海が開いた天空の宗教都市「高野山宿坊（精進料理・阿字観・朝のお勤め）」、神々が宿る「熊野三山＆熊野古道歩き」、天台宗総本山「比叡山延暦寺 延暦寺会館」を徹底解説。",
+  description: "千年の祈りと静寂に包まれる聖地巡礼完全特化！弘法大師空海が開いた天空の宗教都市「高野山宿坊（精進料理・阿字観・朝のお勤め）。」、神々が宿る「熊野三山＆熊野古道歩き」、天台宗総本山「比叡山延暦寺 延暦寺会館」を徹底解説。",
   keywords: ["世界遺産", "霊場巡り", "宿坊体験宿", "高野山宿坊", "熊野古道", "比叡山延暦寺", "温泉宿"],
 };
 
@@ -62,7 +62,7 @@ export default function HistoryHeritageHubPage() {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "【世界遺産・霊場巡り＆宿坊体験宿】高野山宿坊・熊野古道・比叡山延暦寺 完全ガイド ｜ 日本全国・旅宿クラウド",
-    "description": "千年の祈りと静寂に包まれる聖地巡礼完全特化！弘法大師空海が開いた天空の宗教都市「高野山宿坊（精進料理・阿字観・朝のお勤め）」、神々が宿る「熊野三山＆熊野古道歩き」、天台宗総本山「比叡山延暦寺 延暦寺会館」を徹底解説。",
+    "description": "千年の祈りと静寂に包まれる聖地巡礼完全特化！弘法大師空海が開いた天空の宗教都市「高野山宿坊（精進料理・阿字観・朝のお勤め）。」、神々が宿る「熊野三山＆熊野古道歩き」、天台宗総本山「比叡山延暦寺 延暦寺会館」を徹底解説。",
     "url": "https://croud-travel.pages.dev/japan-sacred-pilgrimage-koyasan-shukubo-stay/",
     "publisher": {
       "@type": "Organization",

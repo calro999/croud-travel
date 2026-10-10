@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/ancient-jomon-forest-cave-onsen-stay"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D1971%26f_flg%3DPLAN",
     "hotelMinCharge": 7700,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1971/1971.jpg",
-    "userReview": "料理も温泉も最高、スタッフの対応も親切お料理も美味しく、お風呂も最高。お部屋も掃除が行き届き、とても綺麗でした!スタッフの方もとても親切で、とても良かったです。クチコミの詳細はこちらか…　2026-09-16 18:10:28投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=1971\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "料理も温泉も最高、スタッフの対応も親切お料理も美味しく、お風呂も最高。お部屋も掃除が行き届き、とても綺麗でした!スタッフの方もとても親切で、とても良かったです。",
     "reviewAverage": 4.21,
     "reviewCount": 881,
     "address": "富山県下新川郡朝日町湯ノ瀬１",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D31988%26f_flg%3DPLAN",
     "hotelMinCharge": 8140,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31988/31988.jpg",
-    "userReview": "部屋からの景色と洞窟風呂が面白い部屋もきれいで景色もよかったです。また、洞窟風呂は、なかなか面白かったです。クチコミの詳細はこちらから　https://review.travel.rakute…　2026-09-17 19:48:53投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=31988\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "部屋からの景色と洞窟風呂が面白い部屋もきれいで景色もよかったです。また、洞窟風呂は、なかなか面白かったです。",
     "reviewAverage": 4.63,
     "reviewCount": 113,
     "address": "長野県飯田市千代2303-1",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D39306%26f_flg%3DPLAN",
     "hotelMinCharge": 12870,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/39306/39306.jpg",
-    "userReview": "バリアフリールームは快適、車椅子利用に改善の余地あり【良かった点】バリアフリールームのお部屋はとても快適で過ごしやすかったです。夕食の食堂では個室にご案内いただき、落ち着いて美味しい食事を楽し…　2026-08-24 20:08:40投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=39306\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "バリアフリールームは快適、車椅子利用に改善の余地あり【良かった点】バリアフリールームのお部屋はとても快適で過ごしやすかったです。夕食の食堂では個室にご案内いただき、落ち着いて美味しい食事を楽し。",
     "reviewAverage": 4.37,
     "reviewCount": 545,
     "address": "新潟県魚沼���大湯温泉301",
@@ -294,9 +294,9 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 泊（富山）駅よりアクセス。北陸自動車道朝日インター下車２０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ」にチェックイン。開湯400周年を優に超える越中四名湯にも数えられた歴史ある小川温泉 山間の一軒宿 ホテルおがわなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ」の湯処へ。開湯400周年を優に超える越中四名湯にも数えられた歴史ある小川温泉 山とともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ。」にチェックイン。開湯400周年を優に超える越中四名湯にも数えられた歴史ある小川温泉 山間の一軒宿 ホテルおがわなどの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ。」の湯処へ。開湯400周年を優に超える越中四名湯にも数えられた歴史ある小川温泉 山とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -305,8 +305,8 @@ export default function Page() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「奥天竜不動温泉 佐和屋」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
@@ -324,20 +324,20 @@ export default function Page() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ」へのアクセスや移動方法について</span>
+                <span>Q. 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ」へは、北陸自動車道朝日インター下車２０分。最寄りの泊（富山）駅からの経路案内も充実しています。
+                A. 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ。」へは、北陸自動車道朝日インター下車２０分。最寄りの泊（富山）駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ」の魅力や予約時のポイントは？</span>
+                <span>Q. 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ」は『開湯400周年を優に超える越中四名湯にも数えられた歴史ある小川温泉 山間の一軒宿 ホテルお』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ。」は『開湯400周年を優に超える越中四名湯にも数えられた歴史ある小川温泉 山間の一軒宿 ホテルお。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -346,7 +346,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ」と「奥天竜不動温泉 佐和屋」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ。」と「奥天竜不動温泉 佐和屋」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

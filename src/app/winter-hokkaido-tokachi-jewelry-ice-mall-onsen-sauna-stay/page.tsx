@@ -34,8 +34,8 @@ export default function WinterFeaturePage() {
         'url': 'https://croud-travel.pages.dev/ogp-image.jpg'
       }
     },
-    'datePublished': '2026-10-08T00:00:00+09:00',
-    'dateModified': '2026-10-08T00:00:00+09:00'
+    'datePublished': 'T00:00:00+09:00',
+    'dateModified': 'T00:00:00+09:00'
   };
 
   const faqJsonLd = {
@@ -265,7 +265,7 @@ export default function WinterFeaturePage() {
                       宿泊者の生の声・クチコミ抜粋
                     </h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
-                      「高齢者への配慮ある食事に感謝、良い思い出に家族旅行の良い想い出を作ることができました。お食事も高齢者を考慮した切り方などに対応していただきとても感謝しております。クチコミの詳細はこちらから… 2026-10-02 20:48:47投稿 つづきはこちら」
+                      「高齢者への配慮ある食事に感謝、良い思い出に家族旅行の良い想い出を作ることができました。お食事も高齢者を考慮した切り方などに対応していただきとても感謝しております。」
                     </p>
                   </div>
                   <div className="pt-2">
@@ -359,7 +359,7 @@ export default function WinterFeaturePage() {
                       宿泊者の生の声・クチコミ抜粋
                     </h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
-                      「一人旅でも落ち着けるカウンター席が最高 2回目の利用。一人旅での利用でビュッフェスタイルの食事の場合、落ち着いて食事が難しい場合もあるが、この宿は一人での利用者用に風景を見つつ食事ができるカウンタ… 2026-10-03 21:02:42投稿 つづきはこちら」
+                      「一人旅でも落ち着けるカウンター席が最高 2回目の利用。一人旅での利用でビュッフェスタイルの食事の場合、落ち着いて食事が難しい場合もあるが、この宿は一人での利用者用に風景を見つつ食事ができるカウンタ。」
                     </p>
                   </div>
                   <div className="pt-2">
@@ -453,7 +453,7 @@ export default function WinterFeaturePage() {
                       宿泊者の生の声・クチコミ抜粋
                     </h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
-                      「温泉付き客室が快適、庭にはリスの姿も大浴場が苦手な子どもがいるので、温泉付きのお部屋を選びました。もっと小さいお風呂かと思いきや、ゆったり入ることができる立派なお風呂でした!大浴場も利用し… 2026-09-29 14:49:39投稿 つづきはこちら」
+                      「温泉付き客室が快適、庭にはリスの姿も大浴場が苦手な子どもがいるので、温泉付きのお部屋を選びました。もっと小さいお風呂かと思いきや、ゆったり入ることができる立派なお風呂でした!大浴場も利用し。」
                     </p>
                   </div>
                   <div className="pt-2">
@@ -547,7 +547,7 @@ export default function WinterFeaturePage() {
                       宿泊者の生の声・クチコミ抜粋
                     </h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
-                      「サウナと温泉が快適、朝食も種類豊富で満足サウナもあり温泉も快適です。朝食にバリエーションがあり楽しめました。クチコミの詳細はこちらから https://review.travel.rakute… 2026-10-03 07:38:03投稿 つづきはこちら」
+                      「サウナと温泉が快適、朝食も種類豊富で満足サウナもあり温泉も快適です。朝食にバリエーションがあり楽しめました。」
                     </p>
                   </div>
                   <div className="pt-2">
@@ -641,7 +641,7 @@ export default function WinterFeaturePage() {
                       宿泊者の生の声・クチコミ抜粋
                     </h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
-                      「食事もデザートも充実、バーの対応も最高朝食、夕食共種類豊富でデザートも充実してて良かったし、飲み放題を頼んだのですがバーテンダーの方も気さくに対応してくださってとても満足でしたクチコミの詳細は… 2026-10-02 23:44:08投稿 つづきはこちら」
+                      「食事もデザートも充実、バーの対応も最高朝食、夕食共種類豊富でデザートも充実してて良かったし、飲み放題を頼んだのですがバーテンダーの方も気さくに対応してくださってとても満足でしたクチコミの詳細は。」
                     </p>
                   </div>
                   <div className="pt-2">

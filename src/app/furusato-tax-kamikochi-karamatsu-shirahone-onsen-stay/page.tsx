@@ -94,7 +94,7 @@ export default function FeatureArticlePage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「白骨温泉 小梨の湯 笹屋」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「白骨温泉 小梨の湯 笹屋」へは、ＪＲ 松本駅より、松本電鉄 新島々下車、バスにて６０分。最寄りの松本駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「白骨温泉 小梨の湯 笹屋」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「白骨温泉 小梨の湯 笹屋」は『白骨唯一貸切露天無料！源泉掛け流しの良質な温泉と地元旬鮮食材にこだわる１０室の宿』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「白骨温泉 小梨の湯 笹屋」と「白骨温泉 お宿つるや」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「白骨温泉 小梨の湯 笹屋」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「白骨温泉 小梨の湯 笹屋」へは、ＪＲ 松本駅より、松本電鉄 新島々下車、バスにて６０分。最寄りの松本駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「白骨温泉 小梨の湯 笹屋」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「白骨温泉 小梨の湯 笹屋」は『白骨唯一貸切露天無料！源泉掛け流しの良質な温泉と地元旬鮮食材にこだわる１０室の宿。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「白骨温泉 小梨の湯 笹屋」と「白骨温泉 お宿つるや」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       {/* パンくずナビ */}
       <nav className="max-w-6xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-600 flex items-center gap-2 flex-wrap">
@@ -482,7 +482,7 @@ export default function FeatureArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「白骨温泉 小梨の湯 笹屋」は『白骨唯一貸切露天無料！源泉掛け流しの良質な温泉と地元旬鮮食材にこだわる１０室の宿』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「白骨温泉 小梨の湯 笹屋」は『白骨唯一貸切露天無料！源泉掛け流しの良質な温泉と地元旬鮮食材にこだわる１０室の宿。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

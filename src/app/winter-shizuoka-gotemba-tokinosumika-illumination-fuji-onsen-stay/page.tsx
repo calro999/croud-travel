@@ -58,8 +58,8 @@ export default function GotembaTokinosumikaPage() {
     headline: '【御殿場・時之栖イルミネーション】ひかりのすみか550万球の光の回廊と白銀の富士山！クラフトビール＆天然温泉を満喫する冬の名宿5選',
     description: '静岡・御殿場の冬を彩る日本屈指の光の祭典「時之栖イルミネーション ひかりのすみか」完全ガイド。全長300mの光のトンネル、日本一の高さを誇る噴水レーザーショー、富士山伏流水の御殿場高原ビールとバイキング、天然温泉「気楽坊」の死海風呂。御殿場アウトレット至近の厳選ホテル・リゾート5選。',
     image: 'https://img.travel.rakuten.co.jp/share/HOTEL/67487/67487.jpg',
-    datePublished: '2026-10-06T00:00:00+09:00',
-    dateModified: '2026-10-06T00:00:00+09:00',
+    datePublished: 'T00:00:00+09:00',
+    dateModified: 'T00:00:00+09:00',
     author: {
       '@type': 'Organization',
       name: 'トラベルマップ編集部',

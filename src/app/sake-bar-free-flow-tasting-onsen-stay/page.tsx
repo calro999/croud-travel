@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/sake-bar-free-flow-tasting-onsen-stay"
   };
 
@@ -83,11 +83,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/32051/32051map.gif",
     "reviewCount": 481,
     "reviewAverage": 4.61,
-    "userReview": "レトロな雰囲気は良いが、設備改善を希望レトロな感じが非常によかった。特別室に宿泊したが部屋にソファーが欲しいと感じた混浴風呂の川床が玉石敷になっているが目潰しに小玉砂利を追加願いたいク…　2026-09-18 17:31:41投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=32051\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "レトロな雰囲気は良いが、設備改善を希望レトロな感じが非常によかった。特別室に宿泊したが部屋にソファーが欲しいと感じた混浴風呂の川床が玉石敷になっているが目潰しに小玉砂利を追加願いたいク。",
     "hotelMinCharge": 15700,
     "address1": "栃木県",
     "address2": "那須郡那須町湯本269",
-    "telephoneNo": "0287-76-3050",
+    "telephoneNo": "50",
     "access": "那須塩原駅・黒磯駅より、路線バス有料送迎サービス有約70分(2日前迄に要予約）／東北自動車道《那須IC》より車で約30分",
     "parkingInformation": "有　３０台　無料　※旅館手前の県営大丸駐車場になります。",
     "nearestStation": "那須塩原",
@@ -108,11 +108,11 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76354/76354map.gif",
     "reviewCount": 215,
     "reviewAverage": 4.65,
-    "userReview": "雨の日の静かな時間と美味しい食事に癒やされる雨の日の一泊でしたが、静かに時が流れ、それもまた風情がありよかったです。ジャズが流れていますが、会話を邪魔しない絶妙な音量!お食事も全て美味しくいただき…　2026-09-12 22:24:55投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=76354\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "雨の日の静かな時間と美味しい食事に癒やされる雨の日の一泊でしたが、静かに時が流れ、それもまた風情がありよかったです。ジャズが流れていますが、会話を邪魔しない絶妙な音量!お食事も全て美味しくいただき。",
     "hotelMinCharge": 13440,
     "address1": "長野県",
     "address2": "松本市里山辺451-7",
-    "telephoneNo": "0263-32-3379",
+    "telephoneNo": "79",
     "access": "ＪＲ　松本駅よりお車で１５分",
     "parkingInformation": "有り　３０台　無料　予約不要",
     "nearestStation": "松本",
@@ -137,7 +137,7 @@ export default function Page() {
     "hotelMinCharge": 26343,
     "address1": "岐阜県",
     "address2": "高山市奥飛騨温泉郷一重ケ根212-84",
-    "telephoneNo": "0578-89-2517",
+    "telephoneNo": "17",
     "access": "JR高山線・高山駅～バスで70分「新平湯禅通寺���」下車徒歩3分／JR中央線・松本駅～バスで100分／東海北陸道・清見IC",
     "parkingInformation": "有り　２０台　無料",
     "nearestStation": "高山",

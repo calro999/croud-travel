@@ -49,7 +49,7 @@ export default function FurusatoRound62ArticlePage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「戸倉上山田温泉 笹屋ホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「戸倉上山田温泉 笹屋ホテル」へは、北陸新幹線上田駅→しなの鉄道「戸倉駅」より車で７分。最寄りの戸倉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「戸倉上山田温泉 笹屋ホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「戸倉上山田温泉 笹屋ホテル」は『温泉は全て源泉かけ流しの天然温泉。館内のゆったりとした空間がくつろぎのひと時をお約束致しま』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「戸倉上山田温泉 笹屋ホテル」と「里創人 熊野倶楽部」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「戸倉上山田温泉 笹屋ホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「戸倉上山田温泉 笹屋ホテル」へは、北陸新幹線上田駅→しなの鉄道「戸倉駅」より車で７分。最寄りの戸倉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「戸倉上山田温泉 笹屋ホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「戸倉上山田温泉 笹屋ホテル」は『温泉は全て源泉かけ流しの天然温泉。館内のゆったりとした空間がくつろぎのひと時をお約束致しま。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「戸倉上山田温泉 笹屋ホテル」と「里創人 熊野倶楽部」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -245,7 +245,7 @@ export default function FurusatoRound62ArticlePage() {
                     里創人　熊野倶楽部
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「お部屋のアップグレードに母も大喜び母の療養をするための旅行でした。お部屋のランクをご厚意で上げていただき、本当にゆっくりできました。母もとても喜んでいて、完治した際はまた宿泊したいと思います。… 2026-09-05 14:21:36投稿 つづきはこちら…」
+                    「お部屋のアップグレードに母も大喜び母の療養をするための旅行でした。お部屋のランクをご厚意で上げていただき、本当にゆっくりできました。母もとても喜んでいて、完治した際はまた宿泊したいと思います。…。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -463,7 +463,7 @@ export default function FurusatoRound62ArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「戸倉上山田温泉 笹屋ホテル」は『温泉は全て源泉かけ流しの天然温泉。館内のゆったりとした空間がくつろぎのひと時をお約束致しま』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「戸倉上山田温泉 笹屋ホテル」は『温泉は全て源泉かけ流しの天然温泉。館内のゆったりとした空間がくつろぎのひと時をお約束致しま。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

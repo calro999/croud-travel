@@ -142,7 +142,7 @@ export default function OkinawaPackingMistakesGuidePage() {
           </h1>
 
           <p className="text-sm md:text-base text-cyan-100/90 max-w-2xl mx-auto leading-relaxed">
-            青い海と白い砂浜！忘れられない特別な時間になるはずが「日焼けで皮膚科送り」「レンタカー渋滞で那覇空港の飛行機に乗り遅れ」…沖縄旅行経験者が「これだけは知っておきたかった」と悔やむリアルな落とし穴と対策を総まとめ。
+            青い海と白い砂浜！忘れられない特別な時間になるはずが「日焼けで皮膚科送り」「レンタカー渋滞で那覇空港の飛行機に乗り遅れ。」…沖縄旅行経験者が「これだけは知っておきたかった」と悔やむリアルな落とし穴と対策を総まとめ。
           </p>
 
           <div className="flex flex-wrap justify-center gap-3 pt-2 text-xs font-bold text-cyan-200">
@@ -158,7 +158,7 @@ export default function OkinawaPackingMistakesGuidePage() {
       <main className="max-w-4xl mx-auto px-4 sm:px-6 pt-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「本州の3倍の紫外線で大火傷！？レンタカー返却渋滞＆必須持ち物」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「本州の3倍の紫外線で大火傷！レンタカー返却渋滞＆必須持ち物。」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
       />
         {/* ⚠️ 後悔ワースト5 詳細解説 */}
         <section className="space-y-8">
@@ -482,7 +482,7 @@ export default function OkinawaPackingMistakesGuidePage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「本州の3倍の紫外線で大火傷！？レンタカー返却渋滞＆必須持ち物」を効率よく巡るコツは？</span>
+                <span>Q. 「本州の3倍の紫外線で大火傷！レンタカー返却渋滞＆必須持ち物。」を効率よく巡るコツは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">

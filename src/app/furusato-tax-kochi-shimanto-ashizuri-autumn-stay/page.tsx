@@ -39,8 +39,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
-    "datePublished": "2026-09-23",
-    "dateModified": "2026-09-23",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-kochi-shimanto-ashizuri-autumn-stay"
   };
 
@@ -315,7 +315,7 @@ export default function Page() {
             <div className="space-y-3">
               <h4 className="font-bold text-stone-900 text-sm">宿の魅力と秋の過ごし方</h4>
               <p className="text-sm text-stone-700 leading-relaxed">
-                「海・星・サウナ。すべてが満ちる、太平洋を望む極上の休日」
+                「海・星・サウナ。すべてが満ちる、太平洋を望む極上の休日。」
               </p>
               <div className="bg-stone-50 p-3 rounded text-xs text-stone-600 space-y-1">
                 <p><span className="font-semibold text-stone-800">アクセス:</span> 車（四万十中央ＩＣから約２時間）または公共交通機関（最終連絡はバス）にて足摺岬まで</p>
@@ -448,7 +448,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「新ロイヤルホテル四万十」は『中村の繁華街まで徒歩約１分★周囲は飲食店多数の好立地！大浴場温泉有♪（時間帯で男女入替有）』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「新ロイヤルホテル四万十」は『中村の繁華街まで徒歩約１分★周囲は飲食店多数の好立地！大浴場温泉有♪（時間帯で男女入替有）。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

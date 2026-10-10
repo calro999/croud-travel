@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/traditional-sea-bream-rice-taimeshi-gourmet-stay"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D14505%26f_flg%3DPLAN",
     "hotelMinCharge": 12100,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14505/14505.jpg",
-    "userReview": "お風呂は良いが水が有料で食事の配膳が雑お風呂はすごく良かったです。接客は普通。部屋も綺麗で良かったですが水まで有料なところにびっくりです。今まで泊まった旅館で水が有料だったところはなかったので…　2026-09-16 16:54:06投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=14505\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "お風呂は良いが水が有料で食事の配膳が雑お風呂はすごく良かったです。接客は普通。部屋も綺麗で良かったですが水まで有料なところにびっくりです。今まで泊まった旅館で水が有料だったところはなかったので。",
     "reviewAverage": 4.15,
     "reviewCount": 525,
     "address": "静岡県熱海市昭和町5-13",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D39597%26f_flg%3DPLAN",
     "hotelMinCharge": 7700,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/39597/39597.jpg",
-    "userReview": "クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/39597?reviewId=33123479159571　2026-08-26 19:39:45投稿",
+    "userReview": "",
     "reviewAverage": 4.22,
     "reviewCount": 386,
     "address": "京都府京丹後市網野町浜詰351",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D144560%26f_flg%3DPLAN",
     "hotelMinCharge": 3040,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/144560/144560.jpg",
-    "userReview": "白良浜に近く朝食も最高、来年もまた行きたいここ数年、夏に利用させて頂いてます。白良浜からも近く海から出ても直ぐですし、ハマギンザへも歩いて直ぐ。部屋も広くてキレイ。スタッフの方々の接客も気持ちが良…　2026-09-19 22:52:00投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=144560\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "白良浜に近く朝食も最高、来年もまた行きたいここ数年、夏に利用させて頂いてます。白良浜からも近く海から出ても直ぐですし、ハマギンザへも歩いて直ぐ。部屋も広くてキレイ。スタッフの方々の接客も気持ちが良。",
     "reviewAverage": 4.16,
     "reviewCount": 339,
     "address": "和歌山県西牟婁郡白浜町2411-1",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D76822%26f_flg%3DPLAN",
     "hotelMinCharge": 8650,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76822/76822.jpg",
-    "userReview": "ふく料理と骨酒が最高、お風呂も充実朝夕共にお食事がふく料理でとっても美味しかったです。お酒の種類も色々あり選ぶ楽しみもあります。ふくの骨酒最高でした!貸切風呂や食事で宿を決めたい方に是非泊まってほ…　2026-09-18 22:59:10投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=76822\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "ふく料理と骨酒が最高、お風呂も充実朝夕共にお食事がふく料理でとっても美味しかったです。お酒の種類も色々あり選ぶ楽しみもあります。ふくの骨酒最高でした!貸切風呂や食事で宿を決めたい方に是非泊まってほ。",
     "reviewAverage": 4.54,
     "reviewCount": 174,
     "address": "山口県下関市竹崎町3-13-23",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D12577%26f_flg%3DPLAN",
     "hotelMinCharge": 11000,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/12577/12577.jpg",
-    "userReview": "フロントの心温まる対応と温泉に大満足旅館に到着して同伴の方が乗り物酔いで体調崩してしまい困っていたところ、フロントの方に酔い止め薬を頂いてほんと助かりました。良いお湯の温泉で温まったうえに心温まる…　2026-09-18 22:48:18投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=12577\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "フロントの心温まる対応と温泉に大満足旅館に到着して同伴の方が乗り物酔いで体調崩してしまい困っていたところ、フロントの方に酔い止め薬を頂いてほんと助かりました。良いお湯の温泉で温まったうえに心温まる。",
     "reviewAverage": 4.59,
     "reviewCount": 2668,
     "address": "山形県鶴岡市湯温海丁1",

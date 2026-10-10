@@ -44,7 +44,7 @@ export default function FurusatoTaxArticle() {
     <main className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「熱海温泉 熱海後楽園ホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「熱海温泉 熱海後楽園ホテル」へは、東京から新幹線で50分！熱海駅よりタクシーで約10分。最寄りの熱海駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「熱海温泉 熱海後楽園ホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「熱海温泉 熱海後楽園ホテル」は『熱海の夜景と相模灘を眼前に望める絶好のロケーション！源泉を使用した大展望風呂で、ゆっくりと』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「熱海温泉 熱海後楽園ホテル」と「熱海温泉 古屋旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「熱海温泉 熱海後楽園ホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「熱海温泉 熱海後楽園ホテル」へは、東京から新幹線で50分！熱海駅よりタクシーで約10分。最寄りの熱海駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「熱海温泉 熱海後楽園ホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「熱海温泉 熱海後楽園ホテル」は『熱海の夜景と相模灘を眼前に望める絶好のロケーション！源泉を使用した大展望風呂で、ゆっくりと。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「熱海温泉 熱海後楽園ホテル」と「熱海温泉 古屋旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       {/* ヒーローヘッダー */}
       <header className="relative bg-gradient-to-br from-stone-900 via-amber-950 to-stone-900 text-amber-50 py-16 px-4 md:px-8 border-b border-amber-900/50 shadow-2xl">
@@ -185,7 +185,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.40点、口コミ3100件超。「部屋からの海の景色と花火の迫力が最高」「Fuuaの立ち湯露天風呂が開放感抜群で何時間でもいられた」と大絶賛されています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.40点、口コミ3100件超。「部屋からの海の景色と花火の迫力が最高」「Fuuaの立ち湯露天風呂が開放感抜群で何時間でもいられた。」と大絶賛されています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -279,7 +279,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.86点という驚異的な高スコア。「お湯の質、お部屋食の料理、接客のすべてが完璧」「熱海で一番の宿だと確信した」と熱狂的な支持を集めています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.86点という驚異的な高スコア。「お湯の質、お部屋食の料理、接客のすべてが完璧。」「熱海で一番の宿だと確信した」と熱狂的な支持を集めています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -373,7 +373,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.61点、口コミ1400件超。「屋上露天風呂からの景色が最高」「お料理がどれも美味しく、花火を部屋から見られて感動した」と高い人気を誇ります。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.61点、口コミ1400件超。「屋上露天風呂からの景色が最高」「お料理がどれも美味しく、花火を部屋から見られて感動した。」と高い人気を誇ります。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -573,7 +573,7 @@ export default function FurusatoTaxArticle() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「熱海温泉 熱海後楽園ホテル」は『熱海の夜景と相模灘を眼前に望める絶好のロケーション！源泉を使用した大展望風呂で、ゆっくりと』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「熱海温泉 熱海後楽園ホテル」は『熱海の夜景と相模灘を眼前に望める絶好のロケーション！源泉を使用した大展望風呂で、ゆっくりと。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

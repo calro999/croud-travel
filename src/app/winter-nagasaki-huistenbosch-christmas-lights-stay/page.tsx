@@ -48,8 +48,8 @@ export default function HuistenboschChristmasPage() {
         "headline": "【11・12月長崎ハウステンボス】日本一1300万球「光の街のクリスマス」とヨーロッパ風リゾート宿5選",
         "description": "11月上旬から開幕する世界最大級1300万球の祭典「光の街のクリスマス」！高さ12mの巨大ツリー群、日本初の運河アイススケート、夜空を彩るクリスマス花火を堪能。直営クラシックホテルや源泉温泉付きリゾートで過ごす特別な冬休み。",
         "image": "https://images.unsplash.com/photo-1513297887119-d46091b24bfa?auto=format&fit=crop&w=1200&q=80",
-        "datePublished": "2026-09-27T00:00:00+09:00",
-        "dateModified": "2026-09-27T00:00:00+09:00",
+        "datePublished": "T00:00:00+09:00",
+        "dateModified": "T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
@@ -550,7 +550,7 @@ export default function HuistenboschChristmasPage() {
                 光の滝とアンブレラストリートは日没直後がベスト
               </h3>
               <p>
-                完全な夜景も綺麗ですが、空が深い青色に染まる「マジックアワー（17:15〜17:45頃）」に撮影すると、ヨーロッパの石造りの街並みとイルミネーションのコントラストが最もドラマチックに写ります。
+                完全な夜景も綺麗ですが、空が深い青色に染まる「マジックアワー（17:15〜17:45頃）。」に撮影すると、ヨーロッパの石造りの街並みとイルミネーションのコントラストが最もドラマチックに写ります。
               </p>
             </div>
             <div className="space-y-2 bg-stone-50 p-5 rounded-2xl border border-stone-100">

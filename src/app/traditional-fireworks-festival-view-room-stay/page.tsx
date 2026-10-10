@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/traditional-fireworks-festival-view-room-stay"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D9340%26f_flg%3DPLAN",
     "hotelMinCharge": 8800,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9340/9340.jpg",
-    "userReview": "露天風呂三昧と美味しい食事でゆったり満喫1人で露天風呂付きのお風呂に2泊宿泊させていただきました。部屋の露天風呂に入ったり、貸切露天風呂に入ったり、またまた大浴場に行ったりとゆったりと過ご…　2026-09-15 23:41:28投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=9340\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "露天風呂三昧と美味しい食事でゆったり満喫1人で露天風呂付きのお風呂に2泊宿泊させていただきました。部屋の露天風呂に入ったり、貸切露天風呂に入ったり、またまた大浴場に行ったりとゆったりと過ご。",
     "reviewAverage": 4.05,
     "reviewCount": 797,
     "address": "群馬県利根郡みなかみ町藤原4957-1",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D11167%26f_flg%3DPLAN",
     "hotelMinCharge": 11000,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/11167/11167.jpg",
-    "userReview": "絶景と露天風呂に癒やされ、心身ともにリラックスお部屋からの景色がとてもきれいで、ゆっくり過ごすことができました。特に露天風呂が気持ちよく、温泉を楽しみながらリラックスできたのが良かったです。スタッ…　2026-09-15 17:41:42投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=11167\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "絶景と露天風呂に癒やされ、心身ともにリラックスお部屋からの景色がとてもきれいで、ゆっくり過ごすことができました。特に露天風呂が気持ちよく、温泉を楽しみながらリラックスできたのが良かったです。スタッ。",
     "reviewAverage": 3.76,
     "reviewCount": 772,
     "address": "静岡県賀茂郡東伊豆町熱川1271",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D18768%26f_flg%3DPLAN",
     "hotelMinCharge": 20350,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18768/18768.jpg",
-    "userReview": "静かな環境と美味しい食事、開放感ある露天風呂とても静かな場所でゆっくり過ごせました。フロントや食事場所のスタッフさんもとても丁寧に対応してくださって気持ち良く宿泊出来ました。食事も美味しくてボリュ…　2026-07-19 14:36:49投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=18768\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "静かな環境と美味しい食事、開放感ある露天風呂とても静かな場所でゆっくり過ごせました。フロントや食事場所のスタッフさんもとても丁寧に対応してくださって気持ち良く宿泊出来ました。食事も美味しくてボリュ。",
     "reviewAverage": 4.56,
     "reviewCount": 300,
     "address": "和歌山県田辺市本宮町渡瀬45-1",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D18769%26f_flg%3DPLAN",
     "hotelMinCharge": 14850,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18769/18769.jpg",
-    "userReview": "温泉と送迎が充実、夕食の胡麻豆腐が絶品ささゆりとやまゆりのお風呂に入れる。ロビーにコーヒーサービスがある。サイトに記載されていた白浜駅への送迎に加えて、発心門王子や熊野本宮大社への送迎サー…　2026-07-19 19:24:41投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=18769\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "温泉と送迎が充実、夕食の胡麻豆腐が絶品ささゆりとやまゆりのお風呂に入れる。ロビーにコーヒーサービスがある。サイトに記載されていた白浜駅への送迎に加えて、発心門王子や熊野本宮大社への送迎サー。",
     "reviewAverage": 4.51,
     "reviewCount": 447,
     "address": "和歌山県田辺市本宮町渡瀬45-1",
@@ -322,9 +322,9 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 水上駅よりアクセス。車で関越自動車道・水上ＩＣから３０分・ＪＲで上越線 水上駅より 湯ノ小屋行きバスで藤原スキー場入口下車900M。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」にチェックイン。１１種の貸切露天風呂や滝を望む高台の露天風呂など湯めぐりを満喫！高原ＢＢＱプランも大人気！などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」の湯処へ。１１種の貸切露天風呂や滝を望む高台の露天風呂など湯めぐりを満喫！高原Ｂとともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード。」にチェックイン。１１種の貸切露天風呂や滝を望む高台の露天風呂など湯めぐりを満喫！高原ＢＢＱプランも大人気！などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード。」の湯処へ。１１種の貸切露天風呂や滝を望む高台の露天風呂など湯めぐりを満喫！高原Ｂとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -333,9 +333,9 @@ export default function Page() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「露天風呂の宿 開運の湯 ロイヤルホテル河口湖」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「露天風呂の宿 開運の湯 ロイヤルホテル河口湖。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -352,20 +352,20 @@ export default function Page() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」へのアクセスや移動方法について</span>
+                <span>Q. 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」へは、車で関越自動車道・水上ＩＣから３０分・ＪＲで上越線 水上駅より 湯ノ小屋行きバスで藤原スキー場入口下車900M。最寄りの水上駅からの経路案内も充実しています。
+                A. 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード。」へは、車で関越自動車道・水上ＩＣから３０分・ＪＲで上越線 水上駅より 湯ノ小屋行きバスで藤原スキー場入口下車900M。最寄りの水上駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」の魅力や予約時のポイントは？</span>
+                <span>Q. 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」は『１１種の貸切露天風呂や滝を望む高台の露天風呂など湯めぐりを満喫！高原ＢＢＱプランも大人気！』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード。」は『１１種の貸切露天風呂や滝を望む高台の露天風呂など湯めぐりを満喫！高原ＢＢＱプランも大人気！』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -374,7 +374,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」と「露天風呂の宿 開運の湯 ロイヤルホテル河口湖」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード。」と「露天風呂の宿 開運の湯 ロイヤルホテル河口湖。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

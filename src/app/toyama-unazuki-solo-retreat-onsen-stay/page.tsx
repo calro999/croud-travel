@@ -37,8 +37,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-16T00:00:00+09:00',
-    dateModified: '2026-09-16T00:00:00+09:00',
+    datePublished: 'T00:00:00+09:00',
+    dateModified: 'T00:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/toyama-unazuki-solo-retreat-onsen-stay',
   };
 
@@ -79,7 +79,7 @@ export default function ArticlePage() {
             【宇奈月温泉ひとり旅・黒部峡谷秘境おこもり】日本一の透明度・峡谷美露天風呂・富山湾の白えび＆寒鰤！トロッコ電車玄関口の名湯厳選3宿
           </h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
-            更新日：2026年9月16日 | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
+            更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -194,14 +194,13 @@ export default function ArticlePage() {
               </div>
             </div>
 
-            <p className="text-sm text-stone-700 leading-relaxed mb-6 font-medium">
-              2022年9月28日(水)OPEN！天然温泉大浴場を備えたリゾートホテルで癒しのひとときを
+            <p className="text-sm text-stone-700 leading-relaxed mb-6 font-medium">(水)OPEN！天然温泉大浴場を備えたリゾートホテルで癒しのひとときを
             </p>
 
             <div className="bg-stone-50 p-4 rounded-xl mb-6">
               <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント</h3>
               <ul className="text-xs text-stone-600 space-y-1.5">
-                    <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>2022年9月28日(水)OPEN！天然温泉大浴場を備えたリゾートホテルで癒しのひとときを</span></li>
+                    <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>(水)OPEN！天然温泉大浴場を備えたリゾートホテルで癒しのひとときを</span></li>
               </ul>
             </div>
 
@@ -363,9 +362,9 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 宇奈月温泉駅よりアクセス。富山地方鉄道 宇奈月温泉駅から送迎車あり。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「人気の露天風呂客室と富山の旬菜美味 宇奈月温泉サン柳亭」にチェックイン。令和5年3月オープン☆川側特別室 宇奈月の山々と眼下に清流黒部川 貸切岩盤浴や貸切露天風呂も好評！などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「人気の露天風呂客室と富山の旬菜美味 宇奈月温泉サン柳亭」の湯処へ。令和5年3月オープン☆川側特別室 宇奈月の山々と眼下に清流黒部川 貸切とともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「人気の露天風呂客室と富山の旬菜美味 宇奈月温泉サン柳亭」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「人気の露天風呂客室と富山の旬菜美味 宇奈月温泉サン柳亭。」にチェックイン。令和5年3月オープン☆川側特別室 宇奈月の山々と眼下に清流黒部川 貸切岩盤浴や貸切露天風呂も好評！などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「人気の露天風呂客室と富山の旬菜美味 宇奈月温泉サン柳亭。」の湯処へ。令和5年3月オープン☆川側特別室 宇奈月の山々と眼下に清流黒部川 貸切とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「人気の露天風呂客室と富山の旬菜美味 宇奈月温泉サン柳亭。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -374,8 +373,8 @@ export default function ArticlePage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「人気の露天風呂客室と富山の旬菜美味 宇奈月温泉サン柳亭」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「人気の露天風呂客室と富山の旬菜美味 宇奈月温泉サン柳亭」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「人気の露天風呂客室と富山の旬菜美味 宇奈月温泉サン柳亭。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「人気の露天風呂客室と富山の旬菜美味 宇奈月温泉サン柳亭。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「宇奈月温泉の老舗旅館 延対寺荘」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>

@@ -37,8 +37,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-16T00:00:00+09:00',
-    dateModified: '2026-09-16T00:00:00+09:00',
+    datePublished: 'T00:00:00+09:00',
+    dateModified: 'T00:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/gunma-minakami-solo-retreat-valley-onsen-stay',
   };
 
@@ -64,7 +64,7 @@ export default function ArticlePage() {
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で満天の星空を仰ぐ絶景露天風呂と温かいもてなしを体験できる宿は？","acceptedAnswer":{"@type":"Answer","text":"「水上温泉郷 湯檜曽温泉 天空の湯 なかや旅館」は屋上露天風呂からの星空ビューと細やかなサービスで楽天口コミ★4.6超の絶賛を集めています。"}},{"@type":"Question","name":"太宰治ゆかりの文学散歩と落ち着いた純和風の滞在を求めるなら？","acceptedAnswer":{"@type":"Answer","text":"「水上温泉郷 谷川温泉 旅館たにがわ」は太宰治ミニギャラリーを備え、谷川岳の静寂に包まれた極上の温泉ステイが一人旅に大好評です。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で満天の星空を仰ぐ絶景露天風呂と温かいもてなしを体験できる宿は？","acceptedAnswer":{"@type":"Answer","text":"「水上温泉郷 湯檜曽温泉 天空の湯 なかや旅館。」は屋上露天風呂からの星空ビューと細やかなサービスで楽天口コミ★4.6超の絶賛を集めています。"}},{"@type":"Question","name":"太宰治ゆかりの文学散歩と落ち着いた純和風の滞在を求めるなら？","acceptedAnswer":{"@type":"Answer","text":"「水上温泉郷 谷川温泉 旅館たにがわ」は太宰治ミニギャラリーを備え、谷川岳の静寂に包まれた極上の温泉ステイが一人旅に大好評です。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -79,7 +79,7 @@ export default function ArticlePage() {
             【水上温泉郷ひとり旅・谷川岳大自然おこもり】利根川源流の渓谷美・満天星空露天風呂・太宰治逗留の歴史！上越新幹線直通のリフレッシュ厳選3宿
           </h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
-            更新日：2026年9月16日 | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
+            更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -313,7 +313,7 @@ export default function ArticlePage() {
                 <span>一人旅で満天の星空を仰ぐ絶景露天風呂と温かいもてなしを体験できる宿は？</span>
               </h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
-                「水上温泉郷 湯檜曽温泉 天空の湯 なかや旅館」は屋上露天風呂からの星空ビューと細やかなサービスで楽天口コミ★4.6超の絶賛を集めています。
+                「水上温泉郷 湯檜曽温泉 天空の湯 なかや旅館。」は屋上露天風呂からの星空ビューと細やかなサービスで楽天口コミ★4.6超の絶賛を集めています。
               </p>
             </div>
             <div className="bg-white p-4 sm:p-5 rounded-xl border border-stone-200">
@@ -363,9 +363,9 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 上毛高原駅よりアクセス。車：水上ICから約15分 車以外：上越線ゆびそ駅より徒歩5分、又は水上駅よりバス・タクシーで約10分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「水上温泉郷 湯檜曽温泉 天空の湯 なかや旅館」にチェックイン。4万組以上のママパパに選ばれた赤ちゃんファーストの温泉宿★安心の設備でママもほっと一息できる癒し時間などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「水上温泉郷 湯檜曽温泉 天空の湯 なかや旅館」の湯処へ。4万組以上のママパパに選ばれた赤ちゃんファーストの温泉宿★安心の設備でとともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「水上温泉郷 湯檜曽温泉 天空の湯 なかや旅館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「水上温泉郷 湯檜曽温泉 天空の湯 なかや旅館。」にチェックイン。4万組以上のママパパに選ばれた赤ちゃんファーストの温泉宿★安心の設備でママもほっと一息できる癒し時間などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「水上温泉郷 湯檜曽温泉 天空の湯 なかや旅館。」の湯処へ。4万組以上のママパパに選ばれた赤ちゃんファーストの温泉宿★安心の設備でとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「水上温泉郷 湯檜曽温泉 天空の湯 なかや旅館。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -374,8 +374,8 @@ export default function ArticlePage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「水上温泉郷 湯檜曽温泉 天空の湯 なかや旅館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「水上温泉郷 湯檜曽温泉 天空の湯 なかや旅館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「水上温泉郷 湯檜曽温泉 天空の湯 なかや旅館。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「水上温泉郷 湯檜曽温泉 天空の湯 なかや旅館。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「水上温泉郷 谷川温泉 旅館たにがわ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>

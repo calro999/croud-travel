@@ -37,8 +37,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-13T00:00:00+09:00',
-    dateModified: '2026-09-13T00:00:00+09:00',
+    datePublished: 'T00:00:00+09:00',
+    dateModified: 'T00:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/fukui-station-solo-business-onsen-sauna-stay',
   };
 
@@ -47,7 +47,7 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「北陸新幹線延伸・越前の湯・越前ガニ＆ソースカツ丼！新幹線新拠点を制する厳選3宿」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「北陸新幹線延伸・越前の湯・越前ガニ＆ソースカツ丼！新幹線新拠点を制する厳選3宿。」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -76,7 +76,7 @@ export default function ArticlePage() {
           【福井駅前出張・天然温泉サウナ】北陸新幹線延伸・越前の湯・越前ガニ＆ソースカツ丼！新幹線新拠点を制する厳選3宿
         </h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
-          <time dateTime="2026-09-13">2026.09.13 更新</time>
+          <time dateTime="">2026.09.13 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
         </div>
@@ -102,7 +102,7 @@ export default function ArticlePage() {
             <span>📑</span> 本記事でご紹介する厳選ホテル
           </h2>
           <ul className="space-y-2 text-sm text-stone-700">
-            <li><a href="#hotel-1" className="text-amber-800 hover:underline">▶ 1. 天然温泉　越前の湯　御宿　野乃福井（２０２６年２月１８日ＯＰＥＮ）（★4.64 / 最低目安：8,316円〜）</a></li>
+            <li><a href="#hotel-1" className="text-amber-800 hover:underline">▶ 1. 天然温泉　越前の湯　御宿　野乃福井（ＯＰＥＮ）（★4.64 / 最低目安：8,316円〜）</a></li>
             <li><a href="#hotel-2" className="text-amber-800 hover:underline">▶ 2. 天然温泉　羽二重の湯　ドーミーインＰＲＥＭＩＵＭ福井（ドーミーイン・御宿野乃　ホテルズグループ）（★4.44 / 最低目安：6,780円〜）</a></li>
             <li><a href="#hotel-3" className="text-amber-800 hover:underline">▶ 3. ホテルルートイン福井駅前（★3.95 / 最低目安：6,100円〜）</a></li>
             <li>
@@ -128,7 +128,7 @@ export default function ArticlePage() {
               <span className="text-xs text-stone-500 font-medium">福井県 福井市大手3-7-2周辺</span>
             </div>
             <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-2">
-              天然温泉　越前の湯　御宿　野乃福井（２０２６年２月１８日ＯＰＥＮ）
+              天然温泉　越前の湯　御宿　野乃福井（ＯＰＥＮ）
             </h2>
             <div className="flex flex-wrap items-center gap-4 text-sm mb-4">
               <span className="text-amber-600 font-bold flex items-center gap-1 text-base">
@@ -143,7 +143,7 @@ export default function ArticlePage() {
               <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100 sm:col-span-2">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/197927/197927.jpg"
-                  alt="天然温泉　越前の湯　御宿　野乃福井（２０２６年２月１８日ＯＰＥＮ） 外観・館内"
+                  alt="天然温泉　越前の湯　御宿　野乃福井（ＯＰＥＮ） 外観・館内"
                   className="w-full h-full object-cover"
                   loading="lazy"
                 />
@@ -352,7 +352,7 @@ export default function ArticlePage() {
                 <span>新幹線改札から近く、出張に便利な温泉付きホテルは？</span>
               </h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
-                「天然温泉 羽二重の湯 ドーミーインPREMIUM福井」はJR福井駅西口徒歩約7分。天然温泉大浴場と高温サウナ、夜鳴きそばサービスが好評です。
+                「天然温泉 羽二重の湯 ドーミーインPREMIUM福井。」はJR福井駅西口徒歩約7分。天然温泉大浴場と高温サウナ、夜鳴きそばサービスが好評です。
               </p>
             </div>
           </div>
@@ -397,7 +397,7 @@ export default function ArticlePage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「北陸新幹線延伸・越前の湯・越前ガニ＆ソースカツ丼！新幹線新拠点を制する厳選3宿」を効率よく巡るコツは？</span>
+                <span>Q. 「北陸新幹線延伸・越前の湯・越前ガニ＆ソースカツ丼！新幹線新拠点を制する厳選3宿。」を効率よく巡るコツは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">

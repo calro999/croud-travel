@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/ski-in-ski-out-powder-snow-luxury-resort"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D6011%26f_flg%3DPLAN",
     "hotelMinCharge": 6800,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6011/6011.jpg",
-    "userReview": "部屋もお風呂も快適、鏡が多く女性に嬉しい部屋もお風呂も良かった部屋に鏡が多く、女性は嬉しいと思うクチコミの詳細はこちらから　https://review.travel.rakuten.co…　2026-09-18 18:42:12投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=6011\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "部屋もお風呂も快適、鏡が多く女性に嬉しい部屋もお風呂も良かった部屋に鏡が多く、女性は嬉しいと思う。",
     "reviewAverage": 4.43,
     "reviewCount": 2152,
     "address": "新潟県南魚沼郡湯沢町湯沢2117-9",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D5121%26f_flg%3DPLAN",
     "hotelMinCharge": 8500,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5121/5121.jpg",
-    "userReview": "清潔な部屋と美味しい食事、備品も充実お部屋も清潔で、バイキングの夕食、朝食共にとても美味しかった!お風呂のシャワーやドライヤーも、リファのシリーズで嬉しかった。有料ではありません。使い放題。シャン…　2026-08-23 23:24:08投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=5121\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "清潔な部屋と美味しい食事、備品も充実お部屋も清潔で、バイキングの夕食、朝食共にとても美味しかった!お風呂のシャワーやドライヤーも、リファのシリーズで嬉しかった。有料ではありません。使い放題。シャン。",
     "reviewAverage": 4,
     "reviewCount": 720,
     "address": "新潟県妙高市関川2452",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D14585%26f_flg%3DPLAN",
     "hotelMinCharge": 12100,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14585/14585.jpg",
-    "userReview": "温泉と食事に大満足、また行きたい!温泉は言わずもがな、最高でしたさすが蔵王温泉です、4回くらい入りました夕飯の芋煮、朝飯の豚汁どちらも具がたくさんでとてもとても美味しかったです夕飯時ア…　2026-09-19 15:21:10投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=14585\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "温泉と食事に大満足、また行きたい!温泉は言わずもがな、最高でしたさすが蔵王温泉です、4回くらい入りました夕飯の芋煮、朝飯の豚汁どちらも具がたくさんでとてもとても美味しかったです夕飯時ア。",
     "reviewAverage": 4.28,
     "reviewCount": 814,
     "address": "山形県山形市蔵王温泉814",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D25143%26f_flg%3DPLAN",
     "hotelMinCharge": 2160,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/25143/25143.jpg",
-    "userReview": "食事も美味しく、スタッフの対応も親切ご飯が美味しかったです。子ども達の対応にも、店員さんが皆親切にしてくださいました。団体さんがおられました。迷路は大人でも難しく、良い運動になります。ありがとうご…　2026-09-08 10:26:07投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=25143\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "食事も美味しく、スタッフの対応も親切ご飯が美味しかったです。子ども達の対応にも、店員さんが皆親切にしてくださいました。団体さんがおられました。迷路は大人でも難しく、良い運動になります。ありがとうご。",
     "reviewAverage": 3.95,
     "reviewCount": 283,
     "address": "岐阜県郡上市高鷲町鷲見2363-395",
@@ -365,7 +365,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「越後湯沢温泉 ＮＡＳＰＡニューオータニ」は『窓からは雄大な自然が広がる客室。 滋味溢れる地元食材を楽しみ、天然温泉で疲れを癒してくださ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「越後湯沢温泉 ＮＡＳＰＡニューオータニ」は『窓からは雄大な自然が広がる客室。滋味溢れる地元食材を楽しみ、天然温泉で疲れを癒してくださ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

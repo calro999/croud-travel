@@ -62,7 +62,7 @@ export default function FurusatoNoboribetsuJigokudaniStayPage() {
           湯量毎分3000L・9種の源泉デパート！登別温泉の地獄谷一望大浴場＆カニ食べ放題名門宿×ふるさと納税完全攻略ガイド【2026年最新】第一滝本館・まほろば・グランドホテル
         </h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
-          <time dateTime="2026-09-09">2026年9月9日公開</time>
+          <time dateTime="">公開</time>
           <span>•</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式連携</span>
           <span>•</span>
@@ -164,7 +164,7 @@ export default function FurusatoNoboribetsuJigokudaniStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “お風呂が広く、駐車や送迎のサービスも充実お風呂が予想通り広くて良かったです。熊牧場に行ったのですが、その間駐車もさせてくれお迎えもありサービスも良かったです。素泊まりしかプランがなくバイキングコー…　2026-09-05 15:42:04投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “お風呂が広く、駐車や送迎のサービスも充実お風呂が予想通り広くて良かったです。熊牧場に行ったのですが、その間駐車もさせてくれお迎えもありサービスも良かったです。素泊まりしかプランがなくバイキングコー… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -206,7 +206,7 @@ export default function FurusatoNoboribetsuJigokudaniStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “露天風呂とバイキング朝も美味しかったですが、夜のバイキングが絶品でした。海鮮、肉、すべての食事が美味しかったです。全部食べきれませんでした。お風呂は露天風呂の眺望が最高でした。年甲斐も…　2026-09-05 17:51:09投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “露天風呂とバイキング朝も美味しかったですが、夜のバイキングが絶品でした。海鮮、肉、すべての食事が美味しかったです。全部食べきれませんでした。お風呂は露天風呂の眺望が最高でした。年甲斐も… ”
             </blockquote>
           </div>
           <div className="pt-2">
@@ -248,7 +248,7 @@ export default function FurusatoNoboribetsuJigokudaniStayPage() {
           </div>
           <div className="user-review-wrapper">
             <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “バイキング料理に大満足、イカの塩辛も欲しいバイキングの料理が美味しかったー!!大満足でしたー!!強いて言えば、あさもイカの塩辛置いて欲しいです!クチコミの詳細はこちらから　https:…　2026-09-02 01:15:37投稿 つづきはこちら”
+              <strong>宿泊者の声:</strong> “バイキング料理に大満足、イカの塩辛も欲しいバイキングの料理が美味しかったー!!大満足でしたー!!強いて言えば、あさもイカの塩辛置いて欲しいです!
             </blockquote>
           </div>
           <div className="pt-2">
@@ -323,7 +323,7 @@ export default function FurusatoNoboribetsuJigokudaniStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

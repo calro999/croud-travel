@@ -45,8 +45,8 @@ export default function KochiCityTosaKueWinterPage() {
     headline: "【11・12・1月高知】冬の幻の高級魚「天然クエ鍋」と脂の乗る戻り鰹・土佐あかうし＆高知城冬ライトアップ・桂浜初日の出・天然温泉宿5選",
     description: "11月から1月、南国土佐・高知は、荒波の太平洋が育む幻の高級魚「天然クエ（九絵）」の濃厚な旨みと、脂の乗り切った戻り鰹の藁焼き塩タタキ、赤身の芸術「土佐あかうし」が集う冬の美食天国となります。美しくライトアップされる現存天守・高知城の夜景やひろめ市場の熱気、桂浜から望む太平洋の雄大な初日の出。高知城下の歴史ある天然温泉や老舗旅館、海辺のリゾートで土佐の豪快な郷土料理と酒文化に酔いしれる厳選名宿5選を徹底ガイドします。",
     image: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
-    datePublished: '2026-10-02',
-    dateModified: '2026-10-02',
+    datePublished: '',
+    dateModified: '',
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',

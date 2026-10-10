@@ -473,8 +473,7 @@ export default function FurusatoFeaturePage() {
                   <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
                     トレイルイン彦根城（Ｔｒａｉｌ　ｉｎｎ　彦根城）
                   </h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
-                    2024/8/1オープン！！各室完全独立型のトレーラーホテル！洗濯機・電子レンジ完備！！
+                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">オープン！！各室完全独立型のトレーラーホテル！洗濯機・電子レンジ完備！！
                   </p>
                   
                   <div className="mt-auto pt-4 border-t border-stone-800/80 flex items-center justify-between">

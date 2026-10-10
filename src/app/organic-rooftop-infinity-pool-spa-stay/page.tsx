@@ -34,7 +34,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/178447/178447map.gif",
     "reviewCount": 1208,
     "reviewAverage": 4.02,
-    "userReview": "駐車場が満車、夜遅くまで騒がしく眠れずホテルの駐車場が止められない。5階だったがプールで遊ぶ声が23時までずっと響いて眠れなかた。クチコミの詳細はこちらから　https://review.tr…　2026-09-19 07:49:07投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=178447\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "駐車場が満車、夜遅くまで騒がしく眠れずホテルの駐車場が止められない。5階だったがプールで遊ぶ声が23時までずっと響いて眠れなかた。",
     "hotelMinCharge": 3312,
     "address1": "沖縄県",
     "address2": "那覇市辻2-25-1",
@@ -59,7 +59,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184030/184030map.gif",
     "reviewCount": 3904,
     "reviewAverage": 4.3,
-    "userReview": "外観とお風呂は最高、エレベーター待ちが難点外観もお風呂も大満足でした。ただエレベーターが物凄く待ったのがネックでした。クチコミの詳細はこちらから　https://review.travel.r…　2026-09-19 22:11:27投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=184030\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "外観とお風呂は最高、エレベーター待ちが難点外観もお風呂も大満足でした。ただエレベーターが物凄く待ったのがネックでした。",
     "hotelMinCharge": 4617,
     "address1": "大阪府",
     "address2": "大阪市北区曽根崎2-8-32",
@@ -84,7 +84,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/172310/172310map.gif",
     "reviewCount": 1159,
     "reviewAverage": 4.61,
-    "userReview": "駅から近くて田舎者には分かり易くて大変良かったです。ウェルカムドリンクも最高でした。涼しくなってからも利用したいと思います。クチコミの詳細はこちらから　https://review.tra…　2026-09-16 17:10:32投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=172310\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "駅から近くて田舎者には分かり易くて大変良かったです。ウェルカムドリンクも最高でした。涼しくなってからも利用したいと思います。",
     "hotelMinCharge": 17800,
     "address1": "福岡県",
     "address2": "福岡市博多区博多駅東2-1-1",
@@ -109,11 +109,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/178590/178590map.gif",
     "reviewCount": 911,
     "reviewAverage": 4.21,
-    "userReview": "部屋は広々快適だが食事会場は混雑気味オーシャンスイートに泊まりました。部屋は広々しており居心地も良く設備等含め快適でした。食事はバイキング会場が狭く隣との間隔があまりないので、テーブルを仕切っ…　2026-09-19 15:26:12投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=178590\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "部屋は広々快適だが食事会場は混雑気味オーシャンスイートに泊まりました。部屋は広々しており居心地も良く設備等含め快適でした。食事はバイキング会場が狭く隣との間隔があまりないので、テーブルを仕切っ。",
     "hotelMinCharge": 12250,
     "address1": "広島県",
     "address2": "廿日市市宮浜温泉2-13-10",
-    "telephoneNo": "0829-50-0070",
+    "telephoneNo": "70",
     "access": "山陽本線 [大野浦駅]から車で5分・[玖波駅]から車で5分・[宮島口駅]から車で15分　岩国空港から車で30分",
     "parkingInformation": "屋外駐車場有り　４０台　無料",
     "nearestStation": "大野浦",
@@ -134,7 +134,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/149298/149298map.gif",
     "reviewCount": 1206,
     "reviewAverage": 4.64,
-    "userReview": "料理が美味しく、部屋も広くて清潔料理内容がよく、部屋は広く清潔感あるクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/…　2026-09-18 16:57:51投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=149298\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "料理が美味しく、部屋も広くて清潔料理内容がよく、部屋は広く清潔感ある。",
     "hotelMinCharge": 10230,
     "address1": "兵庫県",
     "address2": "神戸市中央区新港町1-1",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ＨＯＴＥＬ ＳＡＮＳＵＩ ＮＡＨＡ 琉球温泉 波之上の湯」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ＨＯＴＥＬ ＳＡＮＳＵＩ ＮＡＨＡ 琉球温泉 波之上の湯」へは、空港から車で約8分◆ホテルと那覇空港を結ぶシャトルバスも運行中◆崖の上の「縁結びパワースポット」波上宮まで 徒歩4分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「ＨＯＴＥＬ ＳＡＮＳＵＩ ＮＡＨＡ 琉球温泉 波之上の湯」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ＨＯＴＥＬ ＳＡＮＳＵＩ ＮＡＨＡ 琉球温泉 波之上の湯」は上質な客室空間とおもてなしが旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ＨＯＴＥＬ ＳＡＮＳＵＩ ＮＡＨＡ 琉球温泉 波之上の湯」と「都ホテル博多」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ＨＯＴＥＬ ＳＡＮＳＵＩ ＮＡＨＡ 琉球温泉 波之上の湯。」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ＨＯＴＥＬ ＳＡＮＳＵＩ ＮＡＨＡ 琉球温泉 波之上の湯。」へは、空港から車で約8分◆ホテルと那覇空港を結ぶシャトルバスも運行中◆崖の上の「縁結びパワースポット」波上宮まで 徒歩4分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「ＨＯＴＥＬ ＳＡＮＳＵＩ ＮＡＨＡ 琉球温泉 波之上の湯。」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ＨＯＴＥＬ ＳＡＮＳＵＩ ＮＡＨＡ 琉球温泉 波之上の湯。」は上質な客室空間とおもてなしが旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ＨＯＴＥＬ ＳＡＮＳＵＩ ＮＡＨＡ 琉球温泉 波之上の湯。」と「都ホテル博多」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -584,9 +584,9 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 空港から車で約8分◆ホテルと那覇空港を結ぶシャトルバスも運行中◆崖の上の「縁結びパワースポット」波上宮まで 徒歩4分で現地へ到着。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「ＨＯＴＥＬ ＳＡＮＳＵＩ ＮＡＨＡ 琉球温泉 波之上の湯」へチェックイン。落ち着いた空間で旅の荷を解き、ゆったりとした時間をスタート。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「ＨＯＴＥＬ ＳＡＮＳＵＩ ＮＡＨＡ 琉球温泉 波之上の湯」の湯処へ。日頃の疲れを癒やす湯浴みとともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「ＨＯＴＥＬ ＳＡＮＳＵＩ ＮＡＨＡ 琉球温泉 波之上の湯」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「ＨＯＴＥＬ ＳＡＮＳＵＩ ＮＡＨＡ 琉球温泉 波之上の湯。」へチェックイン。落ち着いた空間で旅の荷を解き、ゆったりとした時間をスタート。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「ＨＯＴＥＬ ＳＡＮＳＵＩ ＮＡＨＡ 琉球温泉 波之上の湯。」の湯処へ。日頃の疲れを癒やす湯浴みとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「ＨＯＴＥＬ ＳＡＮＳＵＩ ＮＡＨＡ 琉球温泉 波之上の湯。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -595,8 +595,8 @@ export default function FeatureDetailPage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ＨＯＴＥＬ ＳＡＮＳＵＩ ＮＡＨＡ 琉球温泉 波之上の湯」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「ＨＯＴＥＬ ＳＡＮＳＵＩ ＮＡＨＡ 琉球温泉 波之上の湯」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ＨＯＴＥＬ ＳＡＮＳＵＩ ＮＡＨＡ 琉球温泉 波之上の湯。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「ＨＯＴＥＬ ＳＡＮＳＵＩ ＮＡＨＡ 琉球温泉 波之上の湯。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「都ホテル博多」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
@@ -614,20 +614,20 @@ export default function FeatureDetailPage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「ＨＯＴＥＬ ＳＡＮＳＵＩ ＮＡＨＡ 琉球温泉 波之上の湯」へのアクセスや移動方法について</span>
+                <span>Q. 「ＨＯＴＥＬ ＳＡＮＳＵＩ ＮＡＨＡ 琉球温泉 波之上の湯。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「ＨＯＴＥＬ ＳＡＮＳＵＩ ＮＡＨＡ 琉球温泉 波之上の湯」へは、空港から車で約8分◆ホテルと那覇空港を結ぶシャトルバスも運行中◆崖の上の「縁結びパワースポット」波上宮まで 徒歩4分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。
+                A. 「ＨＯＴＥＬ ＳＡＮＳＵＩ ＮＡＨＡ 琉球温泉 波之上の湯。」へは、空港から車で約8分◆ホテルと那覇空港を結ぶシャトルバスも運行中◆崖の上の「縁結びパワースポット」波上宮まで 徒歩4分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「ＨＯＴＥＬ ＳＡＮＳＵＩ ＮＡＨＡ 琉球温泉 波之上の湯」の魅力や予約時のポイントは？</span>
+                <span>Q. 「ＨＯＴＥＬ ＳＡＮＳＵＩ ＮＡＨＡ 琉球温泉 波之上の湯。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「ＨＯＴＥＬ ＳＡＮＳＵＩ ＮＡＨＡ 琉球温泉 波之上の湯」は上質な客室空間とおもてなしが旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「ＨＯＴＥＬ ＳＡＮＳＵＩ ＮＡＨＡ 琉球温泉 波之上の湯。」は上質な客室空間とおもてなしが旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -636,7 +636,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「ＨＯＴＥＬ ＳＡＮＳＵＩ ＮＡＨＡ 琉球温泉 波之上の湯」と「都ホテル博多」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「ＨＯＴＥＬ ＳＡＮＳＵＩ ＮＡＨＡ 琉球温泉 波之上の湯。」と「都ホテル博多」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

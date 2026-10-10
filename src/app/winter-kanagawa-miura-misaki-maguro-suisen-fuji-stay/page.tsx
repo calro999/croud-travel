@@ -45,8 +45,8 @@ export default function KanagawaMiuraMisakiWinterPage() {
     headline: "【11・12・1月神奈川】冬の三浦半島・城ヶ島30万本の水仙まつりと富士山絶景・名物三崎まぐろ尽くし＆朝獲れ地魚を味わう三浦名宿5選",
     description: "11月から1月、三浦半島最南端の城ヶ島や三浦海岸は、冬の澄み渡る青空の下で相模湾越しに純白の富士山が鮮やかに浮かび上がる絶景の季節を迎えます。城ヶ島公園では約30万株の八重咲水仙が甘い香りを漂わせる「水仙まつり」が開催され、三崎漁港では脂が乗り切った天然本まぐろや金目鯛、朝獲れの地魚が水揚げされます。地下深くから湧き出す天然温泉や展望風呂で温まり、極上の三崎まぐろ料理と三浦大根を堪能できる厳選名宿5選と冬のドライブモデルコースをご案内します。",
     image: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80',
-    datePublished: '2026-10-02',
-    dateModified: '2026-10-02',
+    datePublished: '',
+    dateModified: '',
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',

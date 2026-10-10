@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【大和牛すき焼き＆名物茶粥】古都奈良の歴史浪漫と飛鳥・吉野・奈良町の名湯美食宿5選",
     "description": "鎌倉時代からの銘牛の血統を継ぐ「大和牛」の極上すき焼きと、ほうじ茶香る伝統の「奈良茶粥」！東大寺や春日大社、ならまち散策と合わせて楽しむ、古都の風情あふれる名湯美食旅館を厳選紹介。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-    "datePublished": "2026-03-27T00:00:00+09:00",
-    "dateModified": "2026-03-27T00:00:00+09:00",
+    "datePublished": "T00:00:00+09:00",
+    "dateModified": "T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",
@@ -153,7 +153,7 @@ export default function FeaturePage() {
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「湯の山温泉 三峯園」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「湯の山温泉 三峯園」へは、車…新名神・菰野ICより15分 電車…近鉄・湯の山温泉駅よりタクシー8分 バス…湯の山温泉・御在所RW前より徒歩25分。最寄りの湯の山温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「湯の山温泉 三峯園」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「湯の山温泉 三峯園」は『湯の山温泉の一番奥にたたずむ小さな湯宿。自慢の食事とせせらぎが心地よい温泉が好評です』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「湯の山温泉 三峯園」と「洞川温泉 行者の宿 角甚」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「湯の山温泉 三峯園」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「湯の山温泉 三峯園」へは、車…新名神・菰野ICより15分 電車…近鉄・湯の山温泉駅よりタクシー8分 バス…湯の山温泉・御在所RW前より徒歩25分。最寄りの湯の山温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「湯の山温泉 三峯園」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「湯の山温泉 三峯園」は『湯の山温泉の一番奥にたたずむ小さな湯宿。自慢の食事とせせらぎが心地よい温泉が好評です。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「湯の山温泉 三峯園」と「洞川温泉 行者の宿 角甚」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -380,7 +380,7 @@ export default function FeaturePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「湯の山温泉 三峯園」は『湯の山温泉の一番奥にたたずむ小さな湯宿。自慢の食事とせせらぎが心地よい温泉が好評です』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「湯の山温泉 三峯園」は『湯の山温泉の一番奥にたたずむ小さな湯宿。自慢の食事とせせらぎが心地よい温泉が好評です。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -39,8 +39,8 @@ export default function Page() {
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Menuma_Shouden_Kangi-in_201810a.jpg/1280px-Menuma_Shouden_Kangi-in_201810a.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
         "https://img.travel.rakuten.co.jp/share/HOTEL/67407/67407.jpg"
       ],
-      "datePublished": "2026-10-08",
-      "dateModified": "2026-10-08",
+      "datePublished": "",
+      "dateModified": "",
       "author": {
         "@type": "Organization",
         "name": "Japan Travel Curations"
@@ -232,7 +232,7 @@ export default function Page() {
               <span>冬の熊谷・深谷・本庄探訪：静寂と温もりに包まれる旅の魅力</span>
             </div>
             <p className="text-xs sm:text-sm text-stone-700 leading-relaxed">
-              北関東の冷たいからっ風「赤城おろし」が吹き抜ける初冬から厳冬期、埼玉県北部の熊谷市・深谷市・行田市は、この季節ならではの豊かな風情と極上の味覚に包まれます。熊谷市の北端、利根川を間近に臨む「妻沼聖天山（めぬましょうでんざん）歓喜院」は、名将・斎藤別当実盛が開創した日本三大聖天のひとつ。本殿「歓喜院聖天堂」は、日光東照宮の修復を手掛けた名工たちが24年の歳月をかけて彫り上げた極彩色の彫刻美を誇り、2012年に国宝に指定されました。「埼玉の日光」と称されるこの社殿には、新春の縁結びや家内安全を願う参拝客が各地から訪れます。そして冬の埼玉北部を語る上で欠かせないのが、霜が降りる11月下旬から1月に甘みのピークを迎える名産「深谷ねぎ」。冷え込みによって糖度が15度近くまで上がり、加熱するととろけるような甘みと旨味が口いっぱいに広がります。新一万円札の肖像となった渋沢栄一の生家やゆかりの洋館を訪ね、滋味あふれる「煮ぼうとう」や極上の「武州和牛」すき焼きに舌鼓を打ち、芯から温まる天然温泉に身を委ねる。首都圏から日帰り圏内でありながら、知る人ぞ知る贅沢な冬の隠れ家旅へ誘います。
+              北関東の冷たいからっ風「赤城おろし」が吹き抜ける初冬から厳冬期、埼玉県北部の熊谷市・深谷市・行田市は、この季節ならではの豊かな風情と極上の味覚に包まれます。熊谷市の北端、利根川を間近に臨む「妻沼聖天山（めぬましょうでんざん）歓喜院。」は、名将・斎藤別当実盛が開創した日本三大聖天のひとつ。本殿「歓喜院聖天堂」は、日光東照宮の修復を手掛けた名工たちが24年の歳月をかけて彫り上げた極彩色の彫刻美を誇り、2012年に国宝に指定されました。「埼玉の日光」と称されるこの社殿には、新春の縁結びや家内安全を願う参拝客が各地から訪れます。そして冬の埼玉北部を語る上で欠かせないのが、霜が降りる11月下旬から1月に甘みのピークを迎える名産「深谷ねぎ」。冷え込みによって糖度が15度近くまで上がり、加熱するととろけるような甘みと旨味が口いっぱいに広がります。新一万円札の肖像となった渋沢栄一の生家やゆかりの洋館を訪ね、滋味あふれる「煮ぼうとう」や極上の「武州和牛」すき焼きに舌鼓を打ち、芯から温まる天然温泉に身を委ねる。首都圏から日帰り圏内でありながら、知る人ぞ知る贅沢な冬の隠れ家旅へ誘います。
             </p>
           </div>
         </section>
@@ -415,7 +415,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「温泉施設、四季の湯に、時々以下の輩がいる。入れ墨NGにしているのなら、しっかり管理しないとならないのでは?それが出来ないレベルの宿なら、入れ墨OKにすべきではないか。しっかり… つづきはこちら」"}</span>
+                  <span>{"「温泉施設、四季の湯に、時々以下の輩がいる。入れ墨NGにしているのなら、しっかり管理しないとならないのでは?それが出来ないレベルの宿なら、入れ墨OKにすべきではないか。しっかり。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -482,7 +482,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「広い部屋と美味しい朝食ブッフェに満足部屋も広くリーズナブルな宿泊代とブッフェ形式の朝ごはんが美味しいです。クチコミの詳細はこちらから https://review.travel.rakuten… つづきはこちら」"}</span>
+                  <span>{"「広い部屋と美味しい朝食ブッフェに満足部屋も広くリーズナブルな宿泊代とブッフェ形式の朝ごはんが美味しいです。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -549,7 +549,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「お気に入りの場所、朝の温泉と朝食が最高お気に入りのホテルなので何度も宿泊しています!お部屋はコンパクトですがとても綺麗ですし、温泉もとても良いです。夜は混んでいることが多いですが、朝は空い… つづきはこちら」"}</span>
+                  <span>{"「お気に入りの場所、朝の温泉と朝食が最高お気に入りのホテルなので何度も宿泊しています!お部屋はコンパクトですがとても綺麗ですし、温泉もとても良いです。夜は混んでいることが多いですが、朝は空い。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -616,7 +616,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「清潔感ある部屋と美味しい朝食、電波は微妙部屋は、とても清潔感があって、無料の朝食は、手抜き感なく、どれもおいしかったです。ただ、電波の入り具合が、ちょっと微妙でした。その他は、何も… つづきはこちら」"}</span>
+                  <span>{"「清潔感ある部屋と美味しい朝食、電波は微妙部屋は、とても清潔感があって、無料の朝食は、手抜き感なく、どれもおいしかったです。ただ、電波の入り具合が、ちょっと微妙でした。その他は、何も。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -683,7 +683,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「夕食はボリューム満点、お風呂も清潔で快適夕食がボリュームありました。お刺身も鮮度良かったです。定食が6種あり、ハンバーグとミックスフライを選びました。ほかのテーブルで釜めしを注… つづきはこちら」"}</span>
+                  <span>{"「夕食はボリューム満点、お風呂も清潔で快適夕食がボリュームありました。お刺身も鮮度良かったです。定食が6種あり、ハンバーグとミックスフライを選びました。ほかのテーブルで釜めしを注。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">

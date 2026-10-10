@@ -34,8 +34,8 @@ export default function WinterFeaturePage() {
         'url': 'https://croud-travel.pages.dev/ogp-image.jpg'
       }
     },
-    'datePublished': '2026-10-08T00:00:00+09:00',
-    'dateModified': '2026-10-08T00:00:00+09:00'
+    'datePublished': 'T00:00:00+09:00',
+    'dateModified': 'T00:00:00+09:00'
   };
 
   const faqJsonLd = {
@@ -265,7 +265,7 @@ export default function WinterFeaturePage() {
                       宿泊者の生の声・クチコミ抜粋
                     </h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
-                      「丁寧な接客と美味しい夕食、にごり湯に満足全体的に丁寧な接客でした。夕食は、手が掛かった料理で美味しかったです。朝食は一般的なものでした。温泉は奥日光のにごり湯で、他のホテル同様に満足するもので… 2026-09-26 15:47:32投稿 つづきはこちら」
+                      「丁寧な接客と美味しい夕食、にごり湯に満足全体的に丁寧な接客でした。夕食は、手が掛かった料理で美味しかったです。朝食は一般的なものでした。温泉は奥日光のにごり湯で、他のホテル同様に満足するもので。」
                     </p>
                   </div>
                   <div className="pt-2">
@@ -359,7 +359,7 @@ export default function WinterFeaturePage() {
                       宿泊者の生の声・クチコミ抜粋
                     </h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
-                      「夕食で熱燗を注文したのですが無いと言われ冷やならあると言われました...それを温めてもらいたいと言ったらしふしぶ温めて来ました。メニューに熱燗も書いてあったので面倒臭いならメニューに載せなければいいの… 2026-09-23 12:59:45投稿 つづきはこち…」
+                      「夕食で熱燗を注文したのですが無いと言われ冷やならあると言われました...それを温めてもらいたいと言ったらしふしぶ温めて来ました。」
                     </p>
                   </div>
                   <div className="pt-2">
@@ -538,7 +538,7 @@ export default function WinterFeaturePage() {
                       宿泊者の生の声・クチコミ抜粋
                     </h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
-                      「みんなのことまんぞく到着時のお出迎えから、フロントスタッフの丁寧で細やかな説明まで、とても親切に対応していただきました。歴史を感じるホテルではありますが、館内はとても清潔に手入れされており、何… 2026-09-25 21:50:35投稿 つづきはこちら」
+                      「みんなのことまんぞく到着時のお出迎えから、フロントスタッフの丁寧で細やかな説明まで、とても親切に対応していただきました。歴史を感じるホテルではありますが、館内はとても清潔に手入れされており、何。」
                     </p>
                   </div>
                   <div className="pt-2">
@@ -632,7 +632,7 @@ export default function WinterFeaturePage() {
                       宿泊者の生の声・クチコミ抜粋
                     </h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
-                      「6回目の滞在、お湯も料理も最高で癒やされる6回目の宿泊ですスタッフの方もきさくで優しく、館内は清潔、お湯もお料理も最高!静かな奥湯元こちらのホテルにはただただ癒されまクチコミの詳細… 2026-10-02 07:22:26投稿 つづきはこちら」
+                      「6回目の滞在、お湯も料理も最高で癒やされる6回目の宿泊ですスタッフの方もきさくで優しく、館内は清潔、お湯もお料理も最高!静かな奥湯元こちらのホテルにはただただ癒されまクチコミの詳細。」
                     </p>
                   </div>
                   <div className="pt-2">

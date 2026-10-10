@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/traditional-soba-making-experience-onsen-stay"
   };
 
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D7198%26f_flg%3DPLAN",
     "hotelMinCharge": 9800,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7198/7198.jpg",
-    "userReview": "泉質は良い平日利用。無料の共同浴場は比較的近いが、2食付きの場合チェックアウト後は不可等時間的アクセス悪い。美肌の湯で泉質はいいが共同浴場の掛け流しで湯の花があり、硫黄臭の泉質から比べると循環濾過…　2026-08-28 16:51:48投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=7198\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "泉質は良い平日利用。無料の共同浴場は比較的近いが、2食付きの場合チェックアウト後は不可等時間的アクセス悪い。美肌の湯で泉質はいいが共同浴場の掛け流しで湯の花があり、硫黄臭の泉質から比べると循環濾過。",
     "reviewAverage": 4.49,
     "reviewCount": 261,
     "address": "群馬県吾妻郡中之条町大字上沢渡2163-3",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D2510%26f_flg%3DPLAN",
     "hotelMinCharge": 6600,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2510/2510.jpg",
-    "userReview": "格安で温泉も最高、部屋も綺麗で快適通常料金よりかなり安い価格でしたので予約しました。客室に案内されると部屋にトイレは無く、部屋の構造から推測するに2人部屋の従業員用の部屋を客室に流用しているように…　2026-09-08 21:07:08投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=2510\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "格安で温泉も最高、部屋も綺麗で快適通常料金よりかなり安い価格でしたので予約しました。客室に案内されると部屋にトイレは無く、部屋の構造から推測するに2人部屋の従業員用の部屋を客室に流用しているように。",
     "reviewAverage": 3.96,
     "reviewCount": 1167,
     "address": "山梨県甲斐市竜地17",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D29274%26f_flg%3DPLAN",
     "hotelMinCharge": 6600,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29274/29274.jpg",
-    "userReview": "レトロな雰囲気と便利な立地が魅力ウェルカムカクテルを利用させていただきました。子ども向けのジュースがもう少し山梨らしいものがあったらいいなと思いました。建物は古いですがレトロな感じで私は好きで…　2026-09-07 00:14:33投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=29274\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "レトロな雰囲気と便利な立地が魅力ウェルカムカクテルを利用させていただきました。子ども向けのジュースがもう少し山梨らしいものがあったらいいなと思いました。建物は古いですがレトロな感じで私は好きで。",
     "reviewAverage": 4.03,
     "reviewCount": 1504,
     "address": "山梨県笛吹市石和町松本1409",
@@ -365,7 +365,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「肘折温泉 松井旅館」は『～貸切温泉は24時間入浴可能♪～ノスタルジックな当館をお楽しみください～』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「肘折温泉 松井旅館」は『～貸切温泉は24時間入浴可能♪～ノスタルジックな当館をお楽しみください～。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -49,7 +49,7 @@ export default function FurusatoLakeviewOnsenResortStayPage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「琵琶湖ホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「琵琶湖ホテル」へは、JR大津駅より徒歩約15分／京阪びわ湖浜大津駅より徒歩約5分／名神大津ICより約10分／無料駐車場。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「琵琶湖ホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「琵琶湖ホテル」は『全室レイクビュー 天然温泉・露天風呂も楽しめる湖畔のリゾートホテル』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「琵琶湖ホテル」と「ザ・レイクスイート湖の栖」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「琵琶湖ホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「琵琶湖ホテル」へは、JR大津駅より徒歩約15分／京阪びわ湖浜大津駅より徒歩約5分／名神大津ICより約10分／無料駐車場。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「琵琶湖ホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「琵琶湖ホテル」は『全室レイクビュー 天然温泉・露天風呂も楽しめる湖畔のリゾートホテル。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「琵琶湖ホテル」と「ザ・レイクスイート湖の栖」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -195,7 +195,7 @@ export default function FurusatoLakeviewOnsenResortStayPage() {
                     京都駅からJRでわずか約10分、日本最大の湖・琵琶湖のほとりに佇むランドマークホテル。全客室が琵琶湖に面したオーシャンならぬレイクフロントビューで、広々としたプライベートバルコニーから雄大な湖のパノラマを一望できます。館内には自家源泉の天然温泉大浴場「るりの湯」を完備し、琵琶湖を眺めながらゆったりと湯浴みを楽しめます。夕食には滋賀名産の近江牛や湖魚、地元契約農家の無農薬野菜を使ったフレンチ、鉄板焼き、日本料理など多彩な美食を選択可能。都心からのアクセスも良好な上質レイクリゾートです。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「「琵琶湖を一望できる素敵なホテル」「家族旅行で利用しました。ホテルから見える琵琶湖の景色がとてもきれいで、ゆっくり過ごすことができました。お部屋も清潔感があり、スタッフの方々の対応も丁寧で気持ちよ… 2026-09-05 21:16:50投…」
+                    「「琵琶湖を一望できる素敵なホテル」「家族旅行で利用しました。ホテルから見える琵琶湖の景色がとてもきれいで、ゆっくり過ごすことができました。お部屋も清潔感があり、スタッフの方々の対応も丁寧で気持ちよ… 投。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -256,7 +256,7 @@ export default function FurusatoLakeviewOnsenResortStayPage() {
                     支笏洞爺国立公園の美しい洞爺湖畔に建ち、湖に突き出すように設計された大人のための最高峰温泉リゾート。最上階に位置する大浴場「星の湯」のインフィニティ露天風呂からは、水盤と洞爺湖、羊蹄山の山並みがシームレスに繋がり、空を飛んでいるかのような圧倒的スケール感を味わえます。全客室に温泉露天風呂と開放的なバルコニーを備え、夏から秋にかけて毎夜開催される「洞爺湖ロングラン花火大会」も部屋の特等席から鑑賞可能。北海道の旬の幸を取り入れたビュッフェや会席料理も極上評価を獲得しています。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「洞爺湖の絶景と花火、インフィニティ温泉を満喫洞爺湖目の前のロケーションが最高です。部屋から花火が見れる。ブュッフェは種類豊富で悩むレベル。8階のインフィニティ温泉は極上の気分を味わえます。… 2026-09-02 17:18:28投稿 つづ…」
+                    「洞爺湖の絶景と花火、インフィニティ温泉を満喫洞爺湖目の前のロケーションが最高です。部屋から花火が見れる。ブュッフェは種類豊富で悩むレベル。8階のインフィニティ温泉は極上の気分を味わえます。… つづ。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -481,7 +481,7 @@ export default function FurusatoLakeviewOnsenResortStayPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「琵琶湖ホテル」は『全室レイクビュー 天然温泉・露天風呂も楽しめる湖畔のリゾートホテル』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「琵琶湖ホテル」は『全室レイクビュー 天然温泉・露天風呂も楽しめる湖畔のリゾートホテル。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

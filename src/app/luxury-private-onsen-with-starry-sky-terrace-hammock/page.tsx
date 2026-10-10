@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/luxury-private-onsen-with-starry-sky-terrace-hammock"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D109464%26f_flg%3DPLAN",
     "hotelMinCharge": 10395,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/109464/109464.jpg",
-    "userReview": "BBQと星空の露天風呂で大満足の旅友達との旅行で利用しました!夜ご飯のBBQは色んなお肉や野菜などが食べられてとても満足でき、お風呂もチェックイン、チェックアウト後も利用できたため、何回もお風呂に…　2026-09-16 16:15:43投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=109464\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "BBQと星空の露天風呂で大満足の旅友達との旅行で利用しました!夜ご飯のBBQは色んなお肉や野菜などが食べられてとても満足でき、お風呂もチェックイン、チェックアウト後も利用できたため、何回もお風呂に。",
     "reviewAverage": 4.35,
     "reviewCount": 1024,
     "address": "北海道芦別市旭町油谷1",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D29835%26f_flg%3DPLAN",
     "hotelMinCharge": 9070,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29835/29835.jpg",
-    "userReview": "とても良かったです!快適に過ごすことが出来ました!バイキングの料理もおいしかったです朝も夜もとてもよかったです種類も豊富で!この辺りを観光するなら、とてもいい宿だと思いますお風呂も…　2026-09-16 03:08:30投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=29835\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "とても良かったです!快適に過ごすことが出来ました!バイキングの料理もおいしかったです朝も夜もとてもよかったです種類も豊富で!この辺りを観光するなら、とてもいい宿だと思いますお風呂も。",
     "reviewAverage": 4.27,
     "reviewCount": 1914,
     "address": "群馬県富岡市妙義町菅原2678",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D59633%26f_flg%3DPLAN",
     "hotelMinCharge": 12857,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/59633/59633.jpg",
-    "userReview": "ロケーション抜群、朝食とアクティビティを満喫ローケーション抜群!当日予約だったので夕食をつけることができませんでし��が、朝食バイキングは抜群でした。カンパチのお刺身が個人的には1番でした。到着する…　2026-09-18 09:56:02投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=59633\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "ロケーション抜群、朝食とアクティビティを満喫ローケーション抜群!当日予約だったので夕食をつけることができませんでし��が、朝食バイキングは抜群でした。カンパチのお刺身が個人的には1番でした。到着する。",
     "reviewAverage": 4.39,
     "reviewCount": 362,
     "address": "新潟県佐渡市相川大浦548-1",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D184085%26f_flg%3DPLAN",
     "hotelMinCharge": 6655,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184085/184085.jpg",
-    "userReview": "アレルギーにも対応してくれました。家族で何度か利用させてもらっています。今回は子供が友人と泊まりたいといことで2泊お世話になりました。友人が乳製品アレルギーということで何度か問合せしたようで、アレ…　2026-09-15 22:31:15投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=184085\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "アレルギーにも対応してくれました。家族で何度か利用させてもらっています。今回は子供が友人と泊まりたいといことで2泊お世話になりました。友人が乳製品アレルギーということで何度か問合せしたようで、アレ。",
     "reviewAverage": 4.4,
     "reviewCount": 354,
     "address": "京都府南丹市園部町大河内広谷1-20",
@@ -322,9 +322,9 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 芦別駅よりアクセス。芦別駅から10分／旭川駅から約60分／旭川空港から約80分／札幌・新千歳空港から約120分（車移動）。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館 満天の星空×サウナリゾート」にチェックイン。おふろcafeでのんびり！星空露天風呂と３種のサウナでととのう旅を♪ 空知・旭川・富良野美瑛観光に！などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館 満天の星空×サウナリゾート」の湯処へ。おふろcafeでのんびり！星空露天風呂と３種のサウナでととのう旅を♪ とともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館 満天の星空×サウナリゾート」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館 満天の星空×サウナリゾート。」にチェックイン。おふろcafeでのんびり！星空露天風呂と３種のサウナでととのう旅を♪ 空知・旭川・富良野美瑛観光に！などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館 満天の星空×サウナリゾート。」の湯処へ。おふろcafeでのんびり！星空露天風呂と３種のサウナでととのう旅を♪ とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館 満天の星空×サウナリゾート。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -333,8 +333,8 @@ export default function Page() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館 満天の星空×サウナリゾート」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館 満天の星空×サウナリゾート」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館 満天の星空×サウナリゾート。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館 満天の星空×サウナリゾート。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「妙義温泉 妙義グリーンホテル＆テラス」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
@@ -352,20 +352,20 @@ export default function Page() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館 満天の星空×サウナリゾート」へのアクセスや移動方法について</span>
+                <span>Q. 「芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館 満天の星空×サウナリゾート。」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館 満天の星空×サウナリゾート」へは、芦別駅から10分／旭川駅から約60分／旭川空港から約80分／札幌・新千歳空港から約120分（車移動）。最寄りの芦別駅からの経路案内も充実しています。
+                A. 「芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館 満天の星空×サウナリゾート。」へは、芦別駅から10分／旭川駅から約60分／旭川空港から約80分／札幌・新千歳空港から約120分（車移動）。最寄りの芦別駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館 満天の星空×サウナリゾート」の魅力や予約時のポイントは？</span>
+                <span>Q. 「芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館 満天の星空×サウナリゾート。」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館 満天の星空×サウナリゾート」は『おふろcafeでのんびり！星空露天風呂と３種のサウナでととのう旅を♪ 空知・旭川・富良野美』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館 満天の星空×サウナリゾート。」は『おふろcafeでのんびり！星空露天風呂と３種のサウナでととのう旅を♪ 空知・旭川・富良野美。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -374,7 +374,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館 満天の星空×サウナリゾート」と「妙義温泉 妙義グリーンホテル＆テラス」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館 満天の星空×サウナリゾート。」と「妙義温泉 妙義グリーンホテル＆テラス」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

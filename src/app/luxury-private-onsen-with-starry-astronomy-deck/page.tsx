@@ -34,11 +34,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5978/5978map.gif",
     "reviewCount": 893,
     "reviewAverage": 4.39,
-    "userReview": "売店で買った梨が美味しく、食事も満足売店で売ってた梨が美味しい天気はあいにくやったんで星は見れなかったけどそれでもよかったです!夕食は味付け濃いめでしたクチコミの詳細はこちらから　…　2026-09-18 23:19:27投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=5978\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "売店で買った梨が美味しく、食事も満足売店で売ってた梨が美味しい天気はあいにくやったんで星は見れなかったけどそれでもよかったです!夕食は味付け濃いめでした。",
     "hotelMinCharge": 8800,
     "address1": "長野県",
     "address2": "下伊那郡阿智村智里567-10",
-    "telephoneNo": "0265-43-4321",
+    "telephoneNo": "21",
     "access": "中央自動車道・園原ICより車にて10分(名古屋・関西方面)、中央自動車道・飯田山本ICより車にて10分(関東・長野方面)",
     "parkingInformation": "有り　150台　無料",
     "nearestStation": "天竜峡",
@@ -59,11 +59,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68642/68642map.gif",
     "reviewCount": 355,
     "reviewAverage": 4.6,
-    "userReview": "スタッフの心遣いと絶品料理に大満足きれいな星空を見たくて1泊で予約しました。「ヘブンスそのはら」という施設に行って星を鑑賞しますが、出かける際に芝生に座る時のマットと雨の時の傘を、「矛盾しますが.…　2026-09-16 18:46:52投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=68642\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "スタッフの心遣いと絶品料理に大満足きれいな星空を見たくて1泊で予約しました。「ヘブンスそのはら」という施設に行って星を鑑賞しますが、出かける際に芝生に座る時のマットと雨の時の傘を、「矛盾しますが.。",
     "hotelMinCharge": 21945,
     "address1": "長野県",
     "address2": "下伊那郡阿智村智里530-1",
-    "telephoneNo": "0265-43-2700",
+    "telephoneNo": "00",
     "access": "飯田駅より路線バスにて３０分",
     "parkingInformation": "有り　３０台　無料　予約不��",
     "nearestStation": "飯田（長野）",
@@ -84,11 +84,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/153619/153619map.gif",
     "reviewCount": 294,
     "reviewAverage": 4.36,
-    "userReview": "お湯は最高、朝市も近く便利でしたお部屋のカーテンがやや年季が入っていました。お食事は全般的に味が濃かったです。お湯は非常に良かったです。朝市もすぐそばで便利でした。クチコミの詳細は…　2026-09-15 13:05:40投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=153619\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "お湯は最高、朝市も近く便利でしたお部屋のカーテンがやや年季が入っていました。お食事は全般的に味が濃かったです。お湯は非常に良かったです。朝市もすぐそばで便利でした。クチコミの詳細は。",
     "hotelMinCharge": 10000,
     "address1": "長野県",
     "address2": "下伊那郡阿智村智里332-4",
-    "telephoneNo": "0265-43-2320",
+    "telephoneNo": "20",
     "access": "天竜峡駅よりお車にて約３０分（車でお迎えあり）",
     "parkingInformation": "有り　３０台　無料　予約不要",
     "nearestStation": "天竜峡",
@@ -109,11 +109,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4655/4655map.gif",
     "reviewCount": 1063,
     "reviewAverage": 4.36,
-    "userReview": "スタッフの心遣いと温泉に癒やされる旅スタッフの方の心遣いが素晴らしい!星空が見えなくて残念でしたが、ご飯も美味しくて温泉もとても良かったのでまた泊まりに行きたいと思います。クチコミの詳細は…　2026-09-17 19:11:58投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=4655\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "スタッフの心遣いと温泉に癒やされる旅スタッフの方の心遣いが素晴らしい!クチコミの詳細は。",
     "hotelMinCharge": 19250,
     "address1": "長野県",
     "address2": "下伊那郡阿智村智里490",
-    "telephoneNo": "0265-43-3211",
+    "telephoneNo": "11",
     "access": "【お車でお越しの方】中央道　飯田山本ICから約15分・園原ICから約5分【電車でお越しの方】飯田駅からバス等で約30分",
     "parkingInformation": "有り　３０台　無料",
     "nearestStation": "飯田（長野）",
@@ -134,11 +134,11 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5624/5624map.gif",
     "reviewCount": 594,
     "reviewAverage": 4.24,
-    "userReview": "雨で星は見られず露天風呂も休止で残念家族旅行でしたが、星を見るプランでしたが雨で残念でした。が、部屋、食事は特に良かったです!山の食材満載で食べきれないほどでした!風呂が露天風呂がやってい…　2026-09-08 20:28:20投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=5624\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "が、部屋、食事は特に良かったです!山の食材満載で食べきれないほどでした!風呂が露天風呂がやってい。",
     "hotelMinCharge": 14300,
     "address1": "長野県",
     "address2": "下伊那郡阿智村智里425",
-    "telephoneNo": "0265-43-3500",
+    "telephoneNo": "00",
     "access": "JR飯田駅より無料送迎（要事前予約最終17:00） 中央道飯田山本ICより10分。園原ICより10分。",
     "parkingInformation": "有り　30台　無料",
     "nearestStation": "飯田（長野）",
@@ -206,7 +206,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「昼神温泉 ひるがみの森」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「昼神温泉 ひるがみの森」へは、中央自動車道・園原ICより車にて10分(名古屋・関西方面)、中央自動車道・飯田山本ICより車にて10分(関東・長野方面)。最寄りの天竜峡駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「昼神温泉 ひるがみの森」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「昼神温泉 ひるがみの森」は『日本一の星空ナイトツアー：当日の天気次第でもチケットキャンセルが対応可な宿★彡』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「昼神温泉 ひるがみの森」と「昼神温泉四季の織 はなや」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「昼神温泉 ひるがみの森」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「昼神温泉 ひるがみの森」へは、中央自動車道・園原ICより車にて10分(名古屋・関西方面)、中央自動車道・飯田山本ICより車にて10分(関東・長野方面)。最寄りの天竜峡駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「昼神温泉 ひるがみの森」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「昼神温泉 ひるがみの森」は『日本一の星空ナイトツアー：当日の天気次第でもチケットキャンセルが対応可な宿★彡。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「昼神温泉 ひるがみの森」と「昼神温泉四季の織 はなや」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -628,7 +628,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「昼神温泉 ひるがみの森」は『日本一の星空ナイトツアー：当日の天気次第でもチケットキャンセルが対応可な宿★彡』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「昼神温泉 ひるがみの森」は『日本一の星空ナイトツアー：当日の天気次第でもチケットキャンセルが対応可な宿★彡。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

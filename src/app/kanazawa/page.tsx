@@ -432,7 +432,7 @@ export default function KanazawaGuidePage() {
           <div className="p-5 bg-amber-50/40 rounded-2xl border border-amber-200 space-y-2">
             <h3 className="text-sm font-bold text-amber-950">🍣 金沢 寿司 ランチ・海鮮丼</h3>
             <p className="text-emerald-950/80 leading-relaxed">
-              金沢港・七尾港直送の「回転寿司（まいもん寿司・もりもり寿司・すし食いねぇ！）」は回らない寿司に匹敵する極上のクオリティ。近江町市場の豪華海鮮丼も必食。
+              金沢港・七尾港直送の「回転寿司（まいもん寿司・もりもり寿司・すし食いねぇ！）。」は回らない寿司に匹敵する極上のクオリティ。近江町市場の豪華海鮮丼も必食。
             </p>
           </div>
 

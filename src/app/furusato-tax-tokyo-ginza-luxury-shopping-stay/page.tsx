@@ -39,8 +39,8 @@ export default function FurusatoArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-11T01:10:00+09:00',
-    dateModified: '2026-09-11T01:10:00+09:00',
+    datePublished: 'T01:10:00+09:00',
+    dateModified: 'T01:10:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-tokyo-ginza-luxury-shopping-stay',
   };
 
@@ -49,7 +49,7 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「三井ガーデンホテル銀座プレミア」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「三井ガーデンホテル銀座プレミア」へは、東京メトロ銀座線 新橋駅1番出口より徒歩5分、銀座駅A3番出口より徒歩10分、東銀座駅A1出口より徒歩5分。最寄りの新橋駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「三井ガーデンホテル銀座プレミア」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「三井ガーデンホテル銀座プレミア」は『JR新橋駅より徒歩5分。銀座で唯一のタワー型デザインホテル。こだわり空間と眺望を堪能できま』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「三井ガーデンホテル銀座プレミア」と「ミレニアム三井ガーデンホテル東京」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「三井ガーデンホテル銀座プレミア」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「三井ガーデンホテル銀座プレミア」へは、東京メトロ銀座線 新橋駅1番出口より徒歩5分、銀座駅A3番出口より徒歩10分、東銀座駅A1出口より徒歩5分。最寄りの新橋駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「三井ガーデンホテル銀座プレミア」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「三井ガーデンホテル銀座プレミア」は『JR新橋駅より徒歩5分。銀座で唯一のタワー型デザインホテル。こだわり空間と眺望を堪能できま。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「三井ガーデンホテル銀座プレミア」と「ミレニアム三井ガーデンホテル東京」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -191,7 +191,7 @@ export default function FurusatoArticlePage() {
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
                     <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 16階「RISTORANTE E&apos;VOLTA il Cielo」での極上イタリアン
+                      <span className="text-amber-600">✓</span> 16階「RISTORANTE E&apos;VOLTA il Cielo。」での極上イタリアン
                     </h5>
                     <p className="text-stone-600 leading-relaxed">厳選された日本の食材と本場イタリアの技法が融合したコース。東京の夜景を眺めながら優雅なディナーを味わえます。</p>
                   </div>
@@ -203,7 +203,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.45点、口コミ3800件超。「ビューバスから見える東京タワーの夜景が最高にロマンチック」「銀座の買い物にも便利でスタッフの接客も洗練されている」とカップル・記念日に大人気。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.45点、口コミ3800件超。「ビューバスから見える東京タワーの夜景が最高にロマンチック。」「銀座の買い物にも便利でスタッフの接客も洗練されている。」とカップル・記念日に大人気。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -287,7 +287,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価3.83点、利便性抜群。「歌舞伎座のすぐそばで観劇に最高だった」「銀座の真ん中でどこに行くにも便利、お部屋も清潔で快適」と好評。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価3.83点、利便性抜群。「歌舞伎座のすぐそばで観劇に最高だった」「銀座の真ん中でどこに行くにも便利、お部屋も清潔で快適。」と好評。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.12点、口コミ2900件超。「クラシカルなヨーロッパ調の内装が可愛くて落ち着く」「銀座駅からも近くて静かでコスパも良い」と女子旅やビジネスに好評。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.12点、口コミ2900件超。「クラシカルなヨーロッパ調の内装が可愛くて落ち着く。」「銀座駅からも近くて静かでコスパも良い」と女子旅やビジネスに好評。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -578,7 +578,7 @@ export default function FurusatoArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「三井ガーデンホテル銀座プレミア」は『JR新橋駅より徒歩5分。銀座で唯一のタワー型デザインホテル。こだわり空間と眺望を堪能できま』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「三井ガーデンホテル銀座プレミア」は『JR新橋駅より徒歩5分。銀座で唯一のタワー型デザインホテル。こだわり空間と眺望を堪能できま。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

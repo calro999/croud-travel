@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "2026-09-26",
-    "dateModified": "2026-09-26",
+    "datePublished": "",
+    "dateModified": "",
     "mainEntityOfPage": "https://croud-travel.pages.dev/ocean-view-seafood-bbq-hamayaki-onsen-stay"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D73924%26f_flg%3DPLAN",
     "hotelMinCharge": 8800,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/73924/73924.jpg",
-    "userReview": "料理と温泉を満喫、砂浜での花火も最高の思い出料理も美味しく、温泉もたくさんあって良かった色んな旅館が協力して、砂浜で家族で花火も出来たのも思い出になったクチコミの詳細はこちらから　http…　2026-09-04 21:57:41投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=73924\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "料理と温泉を満喫、砂浜での花火も最高の思い出料理も美味しく、温泉もたくさんあって良かった色んな旅館が協力して、砂浜で家族で花火も出来たのも思い出になった。",
     "reviewAverage": 4.44,
     "reviewCount": 564,
     "address": "静岡県熱海市下多賀1484-19",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D53414%26f_flg%3DPLAN",
     "hotelMinCharge": 8800,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/53414/53414.jpg",
-    "userReview": "兜揚げが絶品、日没の景色も最高でした以前家族と旅行に来て良い記憶がありました。今回はパートナーと利用。兜揚げは過去1おいしくて感動しました。手は確実に汚れますね(^^)/女将さんの対応が少…　2026-08-26 23:30:52投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=53414\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "兜揚げが絶品、日没の景色も最高でした以前家族と旅行に来て良い記憶がありました。今回はパートナーと利用。兜揚げは過去1おいしくて感動しました。手は確実に汚れますね(^^)/女将さんの対応が少。",
     "reviewAverage": 3.75,
     "reviewCount": 476,
     "address": "山形県鶴岡市湯野浜温泉1-9-25",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D38764%26f_flg%3DPLAN",
     "hotelMinCharge": 9680,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38764/38764.jpg",
-    "userReview": "クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/38764?reviewId=33123479438468　2026-09-19 12:24:01投稿",
+    "userReview": "",
     "reviewAverage": 4.53,
     "reviewCount": 2470,
     "address": "新潟県南魚沼郡湯沢町大字湯沢2494",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D140798%26f_flg%3DPLAN",
     "hotelMinCharge": 7700,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/140798/140798.jpg",
-    "userReview": "スタッフの気遣いと食事が良く、子連れに最適小学生の子どもと一緒に海水浴でお世話になりました。宿は築年数なりに古さはあるものの、スタッフさんのお気遣いなどもあり快適に過ごす事ができました。ご飯も…　2026-08-16 02:38:23投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=140798\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "スタッフの気遣いと食事が良く、子連れに最適小学生の子どもと一緒に海水浴でお世話になりました。宿は築年数なりに古さはあるものの、スタッフさんのお気遣いなどもあり快適に過ごす事ができました。ご飯も。",
     "reviewAverage": 3.87,
     "reviewCount": 476,
     "address": "愛知県知多郡南知多町内海新田48",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D5644%26f_flg%3DPLAN",
     "hotelMinCharge": 7260,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5644/5644.jpg",
-    "userReview": "清掃が行き届いておらずほこりだらけ設備は古く階段のアップダウンがあるので足の悪い方にはおすすめできません。その辺りは事前に調べればわかるので問題なかったのですが、清掃が全く行き届いておらず、共有の…　2026-08-15 22:55:21投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=5644\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "清掃が行き届いておらずほこりだらけ設備は古く階段のアップダウンがあるので足の悪い方にはおすすめできません。その辺りは事前に調べればわかるので問題なかったのですが、清掃が全く行き届いておらず、共有の。",
     "reviewAverage": 3.52,
     "reviewCount": 265,
     "address": "三重県津市半田2860-1",
@@ -365,7 +365,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「熱海温泉 海辺の宿 長濱苑」は『潮風に吹かれる温泉宿で伊豆の新鮮な海の幸を堪能！天然温泉の貸切風呂で優雅なひと時をお過ごし』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「熱海温泉 海辺の宿 長濱苑」は『潮風に吹かれる温泉宿で伊豆の新鮮な海の幸を堪能！天然温泉の貸切風呂で優雅なひと時をお過ごし。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
