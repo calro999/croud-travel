@@ -284,7 +284,8 @@ export default function TransitNavigationSection() {
         {currentHub.items.map((item) => (
           <Link
             key={item.slug}
-            href={`/${item.slug}`}
+            href={`/${item.slug}/`}
+            prefetch={false}
             className="group block p-5 rounded-2xl bg-white hover:bg-slate-50/80 border border-slate-200/90 hover:border-teal-500 shadow-sm hover:shadow-md transition duration-200 space-y-3 relative overflow-hidden"
           >
             {/* 上部バッジ＆区間 */}

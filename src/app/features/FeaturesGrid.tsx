@@ -182,7 +182,8 @@ export default function FeaturesGrid({ initialPosts }: { initialPosts: FeaturePo
           {visiblePosts.map((post) => (
             <Link
               key={post.id}
-              href={`/posts/${post.id}`}
+              href={`/posts/${post.id}/`}
+              prefetch={false}
               className="group flex flex-col bg-white rounded-3xl overflow-hidden border border-emerald-950/5 shadow-sm hover:shadow-xl transition-all duration-300 hover:-translate-y-1"
             >
               <div className="relative aspect-[16/10] overflow-hidden bg-emerald-50">

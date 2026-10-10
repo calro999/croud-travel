@@ -132,7 +132,8 @@ export default function FeatureTrendsSection() {
           {visibleTopics.map((item) => (
             <Link
               key={item.slug}
-              href={`/${item.slug}`}
+              href={`/${item.slug}/`}
+              prefetch={false}
               className="group bg-white p-5 rounded-2xl border border-emerald-950/10 hover:border-teal-700/40 hover:shadow-md transition space-y-2 block"
             >
               <span className="text-[9px] font-extrabold text-teal-800 bg-teal-50 px-2.5 py-0.5 rounded-full inline-block">
