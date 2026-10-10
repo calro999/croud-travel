@@ -1,4 +1,14 @@
-# 長野県の宿泊・観光記事（81件）
+# 長野県の宿泊・観光記事（82件）
+
+## 野沢温泉の冬雪景色と13の外湯めぐり・道祖神祭り！麻釜の湯煙と本場野沢菜・信州牛すき焼きを愉しむ雪国名宿ガイド
+- 記事: https://croud-travel.pages.dev/posts/nozawa-onsen-soto-yu-meguri-dosojin-matsuri-winter-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/nozawa-onsen-soto-yu-meguri-dosojin-matsuri-winter-guide.md
+- 宿泊施設名: ～野沢温泉発祥　熊の手洗湯　唯一の宿～　お宿てらゆ
+- エリア: 野沢温泉・飯山
+- 参考価格: ¥5050〜
+- 評価: 4.54
+
+12月〜1月の野沢温泉を大特集！江戸時代から続く13の天然外湯（大湯・熊の手洗湯など）の泉質と歩き方、1月15日の日本三大奇祭「道祖神祭り」、天然記念物「麻釜」の本場野沢菜漬け、信州プレミアム牛すき焼きを味わう厳選名宿と1泊2日モデルプランを徹底解説。
 
 ## 地獄谷野猿公苑スノーモンキーと渋温泉・湯田中温泉郷の旅！九湯めぐりと冬の信州牛会席を満喫する名旅館厳選ガイド
 - 記事: https://croud-travel.pages.dev/posts/snow-monkey-jigokudani-shibu-yudanaka-onsen-guide/

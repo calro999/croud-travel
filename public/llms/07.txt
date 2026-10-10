@@ -1,4 +1,14 @@
-# 福島県の宿泊・観光記事（53件）
+# 福島県の宿泊・観光記事（54件）
+
+## 大内宿の白銀茅葺き雪まつりと会津若松・東山温泉！鶴ヶ城の雪化粧と名物ねぎそば・極上会津馬刺しを味わう名宿ガイド
+- 記事: https://croud-travel.pages.dev/posts/aizu-higashiyama-onsen-ouchijuku-snow-tsurugajo-winter-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/aizu-higashiyama-onsen-ouchijuku-snow-tsurugajo-winter-guide.md
+- 宿泊施設名: 会津東山温泉　月のあかり
+- エリア: 会津若松・東山温泉
+- 参考価格: ¥4950〜
+- 評価: 3.71
+
+12月〜1月の会津若松・東山温泉＆大内宿を大特集！白銀に輝く茅葺き屋根の宿場町「大内宿」と名物一本ねぎそば、国内唯一の赤瓦天守が雪化粧する「鶴ヶ城」、開湯1300年の東山温泉渓流雪見露天、極上会津赤身馬刺しと日本一の金賞地酒を味わう厳選名宿ガイド。
 
 ## 福島県・東北観光：名所と旬のグルメを満喫する周遊おすすめモデルコースガイド
 - 記事: https://croud-travel.pages.dev/posts/149344/

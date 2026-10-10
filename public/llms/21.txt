@@ -1,4 +1,23 @@
-# 岐阜県の宿泊・観光記事（58件）
+# 岐阜県の宿泊・観光記事（60件）
+
+## 奥飛騨温泉郷の青だる氷瀑ライトアップと新穂高ロープウェイ冠雪美！大自然の雪見露天風呂と飛騨牛囲炉裏会席名宿ガイド
+- 記事: https://croud-travel.pages.dev/posts/okuhida-onsen-kyo-aodaru-hyobaku-lightup-shinhotaka-winter-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/okuhida-onsen-kyo-aodaru-hyobaku-lightup-shinhotaka-winter-guide.md
+- 宿泊施設名: 奥飛騨温泉郷　ひなの湯宿　松乃井
+- エリア: 奥飛騨・新穂高
+- 参考価格: ¥22000〜
+- 評価: 4.1
+
+12月〜1月の奥飛騨温泉郷を大特集！福地温泉の巨大氷瀑「青だる」ライトアップ、標高2,156m新穂高ロープウェイ西穂高口の冠雪大パノラマ、源泉掛け流しの雪見露天風呂、囲炉裏の飛騨牛朴葉味噌焼きを堪能する厳選名宿と1泊2日モデルプランを徹底解説。
+
+## 【岐阜】全室サウナ付！SAUNA HOTEL GIFUで極上のととのい体験を
+- 記事: https://croud-travel.pages.dev/posts/195990/
+- 全文Markdown: https://croud-travel.pages.dev/ai/195990.md
+- 宿泊施設名: ＳＡＵＮＡ　ＨＯＴＥＬ　ＧＩＦＵ（サウナホテル岐阜）
+- エリア: 東海
+- 評価: 4.72
+
+岐阜市街に佇むSAUNA HOTEL GIFUは、全客室に110度まで調節可能な本格サウナと冷水チラー付浴槽を完備したサウナ特化型ホテル。誰にも邪魔されないプライベートな空間で、自分好みのととのいを極める究極の滞在が叶います。岐阜観光の拠点としても最適な極上の隠れ家をご紹介します。
 
 ## 岐阜県・東海観光：名所と旬のグルメを満喫する周遊おすすめモデルコースガイド
 - 記事: https://croud-travel.pages.dev/posts/195907/

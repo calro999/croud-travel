@@ -1,4 +1,14 @@
-# 北海道の宿泊・観光記事（116件）
+# 北海道の宿泊・観光記事（117件）
+
+## 阿寒湖の奇跡フロストフラワーと氷上フェスティバル！アイヌコタン雪灯りと源泉かけ流し雪見温泉・道東美味宿ガイド
+- 記事: https://croud-travel.pages.dev/posts/akan-lake-frost-flower-ice-festival-ainu-kotan-winter-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/akan-lake-frost-flower-ice-festival-ainu-kotan-winter-guide.md
+- 宿泊施設名: 阿寒湖温泉　あかん鶴雅別荘鄙の座
+- エリア: 阿寒・摩周・屈斜路
+- 参考価格: ¥42531〜
+- 評価: 4.9
+
+12月〜1月の阿寒湖温泉を大特集！マイナス15℃以下の早朝に湖面に咲く奇跡の「フロストフラワー（霜の花）」、氷上フェスティバルICE・愛す・阿寒の冬花火、阿寒アイヌコタンの幻想雪灯り、湖水一望の源泉かけ流し雪見露天風呂と阿寒モシリ牛・ワカサギ天ぷらを味わう厳選名宿ガイド。
 
 ## 小樽ゆき物語「青の運河」と朝里川温泉の旅！冬の小樽寿司通り握りと白樺の雪見露天風呂を堪能するおすすめホテル・旅館厳選ガイド
 - 記事: https://croud-travel.pages.dev/posts/otaru-snow-story-canal-illumination-asarigawa-onsen-guide/

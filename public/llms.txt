@@ -309,12 +309,18 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [大内宿の白銀茅葺き雪まつりと会津若松・東山温泉！鶴ヶ城の雪化粧と名物ねぎそば・極上会津馬刺しを味わう名宿ガイド](https://croud-travel.pages.dev/posts/aizu-higashiyama-onsen-ouchijuku-snow-tsurugajo-winter-guide): 会津東山温泉　月のあかり（福島県）
+- [阿寒湖の奇跡フロストフラワーと氷上フェスティバル！アイヌコタン雪灯りと源泉かけ流し雪見温泉・道東美味宿ガイド](https://croud-travel.pages.dev/posts/akan-lake-frost-flower-ice-festival-ainu-kotan-winter-guide): 阿寒湖温泉　あかん鶴雅別荘鄙の座（北海道）
 - [指宿 vs 霧島 どっちに泊まる？泉質・砂むし・絶景・観光スタイルで選ぶ鹿児島の二大温泉地比較ガイド](https://croud-travel.pages.dev/posts/ibusuki-vs-kirishima-which-stay): 指宿・霧島温泉 厳選6宿（鹿児島県）
 - [兼六園の雪吊りと旬の香箱ガニ（せいこがに）解禁！冬の金沢・加賀温泉郷で極上カニ尽くしと名湯を堪能する大人の湯宿ガイド](https://croud-travel.pages.dev/posts/kenrokuen-yukitsuri-kanazawa-koubakogani-kaga-onsen-guide): 山中温泉　白鷺湯たわらや（石川県）
 - [貴船神社の積雪日限定ライトアップと冬の京都奥座敷！名物ぼたん鍋と静寂の雪見温泉・大人の風情を愉しむ料理宿ガイド](https://croud-travel.pages.dev/posts/kifune-shrine-snow-lightup-botannabe-kyoto-onsen-guide): 大原温泉湯元　旬味草菜　お宿　芹生（京都府）
 - [草津温泉の冬の湯畑ライトアップと西の河原雪見露天風呂！氷点下に立ち上る湯けむりと上州牛会席を味わうおすすめ名宿ガイド](https://croud-travel.pages.dev/posts/kusatsu-onsen-yubatake-winter-lightup-snow-bath-guide): 草津温泉　ペンション　ベルクラント（群馬県）
+- [野沢温泉の冬雪景色と13の外湯めぐり・道祖神祭り！麻釜の湯煙と本場野沢菜・信州牛すき焼きを愉しむ雪国名宿ガイド](https://croud-travel.pages.dev/posts/nozawa-onsen-soto-yu-meguri-dosojin-matsuri-winter-guide): ～野沢温泉発祥　熊の手洗湯　唯一の宿～　お宿てらゆ（長野県）
 - [乳頭温泉郷の白銀秘湯めぐりと冬の囲炉裏きりたんぽ鍋！田沢湖・八幡平の豪雪露天と比内地鶏を堪能する厳選名宿ガイド](https://croud-travel.pages.dev/posts/nyuto-onsen-kyo-snow-secret-bath-kiritanpo-akita-guide): 田沢湖高原温泉　ロッジアイリス（秋田県）
+- [奥飛騨温泉郷の青だる氷瀑ライトアップと新穂高ロープウェイ冠雪美！大自然の雪見露天風呂と飛騨牛囲炉裏会席名宿ガイド](https://croud-travel.pages.dev/posts/okuhida-onsen-kyo-aodaru-hyobaku-lightup-shinhotaka-winter-guide): 奥飛騨温泉郷　ひなの湯宿　松乃井（岐阜県）
+- [下関の本場とらふぐフルコースと長門湯本温泉！元乃隅神社開運初詣と冬の日本海絶景を巡る大人の美食湯宿ガイド](https://croud-travel.pages.dev/posts/shimonoseki-torafugu-nagato-yumoto-onsen-motonosumi-winter-guide): 長門湯本温泉　山村別館（山口県）
 - [蔵王温泉の樹氷ライトアップ・スノーモンスター体験と強酸性硫黄泉！雪見露天と山形牛会席を愉しむ冬の厳選宿ガイド](https://croud-travel.pages.dev/posts/zao-onsen-snow-monster-juhyo-lightup-winter-guide): 蔵王温泉　ＫＫＲ蔵王　白銀荘（国家公務員共済組合連合会蔵王保養所）（山形県）
+- [【岐阜】全室サウナ付！SAUNA HOTEL GIFUで極上のととのい体験を](https://croud-travel.pages.dev/posts/195990): ＳＡＵＮＡ　ＨＯＴＥＬ　ＧＩＦＵ（サウナホテル岐阜）（岐阜県）
 - [【和歌山】ノスタルジー溢れる歴史散歩！黒江・湯浅の街並みと厳選宿3選](https://croud-travel.pages.dev/posts/166123): 大江戸温泉物語　南紀串本（和歌山県）
 - [【熊本】山鹿温泉 清流荘宿泊記｜極上の創作会席と名湯に浸かる贅沢な休日](https://croud-travel.pages.dev/posts/16334): 山鹿温泉　清流荘（熊本県）
 - [伊勢神宮の初詣・年末年始参拝と鳥羽温泉郷！旬の伊勢海老・的矢牡蠣会席と開運絶景露天風呂を愉しむおすすめ宿厳選ガイド](https://croud-travel.pages.dev/posts/ise-jingu-newyear-hatsumode-toba-onsen-ise-ebi-guide): 伊勢志摩国立公園　／　鳥羽温泉郷　戸田家（三重県）
@@ -353,9 +359,3 @@
 - [山形県・東北観光：名所と旬のグルメを満喫する周遊おすすめモデルコースガイド](https://croud-travel.pages.dev/posts/74573): ホテルイン鶴岡（山形県）
 - [おすすめ宿：滝ノ原温泉 四季の味宿 割烹ちどり荘の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/151049): 滝ノ原温泉　四季の味宿　割烹ちどり荘（宮城県）
 - [宮崎県・九州観光：名所と旬のグルメを満喫する周遊おすすめモデルコースガイド](https://croud-travel.pages.dev/posts/37519): 宮崎グリーンホテル（宮崎県）
-- [おすすめ宿：ホテルプラム（ＨＯＴＥＬ ＰＬＵＭＭ）横浜の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/1428): ホテルプラム（ＨＯＴＥＬ　ＰＬＵＭＭ）横浜（神奈川県）
-- [山形県・東北観光：名所と旬のグルメを満喫する周遊おすすめモデルコースガイド](https://croud-travel.pages.dev/posts/139919): 川西温泉　川西町浴浴センターまどか（山形県）
-- [おすすめ宿：温泉ホテル中原別荘（客室禁煙・耐震改修済）の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/4873): 温泉ホテル中原別荘（客室禁煙・耐震改修済）（鹿児島県）
-- [熊本県・九州観光：名所と旬のグルメを満喫する周遊おすすめモデルコースガイド](https://croud-travel.pages.dev/posts/37891): 天ヶ瀬温泉　成天閣（熊本県）
-- [おすすめ宿：鳴子温泉郷 勘七湯の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/40453): 鳴子温泉郷　勘七湯（宮城県）
-- [三重県・東海観光：名所と旬のグルメを満喫する周遊おすすめモデルコースガイド](https://croud-travel.pages.dev/posts/38402): 霧生温泉　メナード青山リゾート（三重県）

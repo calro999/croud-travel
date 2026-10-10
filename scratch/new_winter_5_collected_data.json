@@ -1,0 +1,627 @@
+{
+  "theme_1_nozawa": {
+    "id": "theme_1_nozawa",
+    "slug": "nozawa-onsen-soto-yu-meguri-dosojin-matsuri-winter-guide",
+    "title": "野沢温泉の冬雪景色と13の外湯めぐり・道祖神祭り！麻釜の湯煙と本場野沢菜・信州牛すき焼きを愉しむ雪国名宿ガイド",
+    "prefecture": "長野県",
+    "area": "野沢温泉・飯山",
+    "rakutenKeyword": "野沢温泉",
+    "wikiSpots": [
+      "野沢温泉",
+      "野沢温泉村",
+      "道祖神"
+    ],
+    "hotels": [
+      {
+        "hotelNo": 144509,
+        "hotelName": "～野沢温泉発祥　熊の手洗湯　唯一の宿～　お宿てらゆ",
+        "hotelKanaName": "のざわおんせんはっしょう　くまのてあらいゆ　ゆいいつのやど　おやどてらゆ",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/144509/144509.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/144509/144509_syo1.jpg",
+        "reviewCount": 274,
+        "reviewAverage": 4.54,
+        "hotelMinCharge": 5050,
+        "address1": "長野県",
+        "address2": "下高井郡野沢温泉村豊郷8969",
+        "access": "上信越自動車道 豊田飯山ICより約30分。北陸新幹線　飯山駅よりバスで２5分。外湯「熊の手洗湯」横",
+        "hotelSpecial": "「熊の手洗湯」の内湯と外湯巡り。温かいおもてなしと、野沢の郷土料理が自慢のアットホームな宿",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F144509%2F144509.html"
+      },
+      {
+        "hotelNo": 2850,
+        "hotelName": "野沢温泉　自家源泉の宿　げんたろう屋",
+        "hotelKanaName": "のざわおんせん　じかげんせんのやど　げんたろうや",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2850/2850.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2850/2850_heya1.jpg",
+        "reviewCount": 37,
+        "reviewAverage": 4.5,
+        "hotelMinCharge": 4500,
+        "address1": "長野県",
+        "address2": "下高井郡野沢温泉村大字豊郷９５３９",
+        "access": "上信越道豊田飯山ＩＣからＲ１１７にて車で30分、北陸新幹線 飯山駅から野沢温泉ライナーで25分",
+        "hotelSpecial": "天然温泉はまじりっけなしの１００％、温泉街のど真ん中、散策に便利。カラフルな壁画が目印です！",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2850%2F2850.html"
+      },
+      {
+        "hotelNo": 20404,
+        "hotelName": "野沢温泉　ＬＯＤＧＥでんべえ",
+        "hotelKanaName": "のざわおんせん　ろっじでんべえ",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20404/20404.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20404/20404_da.jpg",
+        "reviewCount": 137,
+        "reviewAverage": 4.64,
+        "hotelMinCharge": 8500,
+        "address1": "長野県",
+        "address2": "下高井郡野沢温泉村豊郷8284-2",
+        "access": "北陸新幹線飯山駅よりバスで野沢温泉へ（約25分）／上信越道豊田飯山ＩＣより約30分",
+        "hotelSpecial": "雄大な景色を楽しみ、白濁温泉に浸かる、自然の恵みを凝縮した山の休日でリフレッシュしましょう！",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F20404%2F20404.html"
+      },
+      {
+        "hotelNo": 197414,
+        "hotelName": "野沢温泉ロッヂ",
+        "hotelKanaName": "のざわおんせんろっぢ",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/197414/197414.jpg",
+        "roomImageUrl": "",
+        "reviewCount": 4,
+        "reviewAverage": 0,
+        "hotelMinCharge": 6164,
+        "address1": "長野県",
+        "address2": "下高井郡野沢温泉村豊郷大湯7812",
+        "access": "飯山駅より野沢温泉中央バスターミナルまでバスで20分。野沢温泉中央バスターミナルから徒歩10分。",
+        "hotelSpecial": "1969年に建てられた国登録文化財建築の宿。野沢温泉スキー場目前で、交流広がるアットホーム空間。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F197414%2F197414.html"
+      },
+      {
+        "hotelNo": 31573,
+        "hotelName": "野沢温泉　朝日屋旅館",
+        "hotelKanaName": "のざわおんせん　あさひや",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31573/31573.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31573/31573_r1.jpg",
+        "reviewCount": 413,
+        "reviewAverage": 4.04,
+        "hotelMinCharge": 8085,
+        "address1": "長野県",
+        "address2": "下高井郡野沢温泉村9501",
+        "access": "飯山駅より野沢温泉まで直通バス「野沢温泉ライナー」で25分",
+        "hotelSpecial": "【野沢温泉スキー場へ徒歩7分】【外湯の多くも徒歩5分以内】24時間源泉かけ流し温泉♪",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31573%2F31573.html"
+      },
+      {
+        "hotelNo": 27764,
+        "hotelName": "野沢温泉　お宿　あけびや",
+        "hotelKanaName": "おやど　あけびや",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/27764/27764.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/27764/27764_heya.jpg",
+        "reviewCount": 258,
+        "reviewAverage": 4.66,
+        "hotelMinCharge": 5100,
+        "address1": "長野県",
+        "address2": "下高井郡野沢温泉村新田",
+        "access": "ＪＲ飯山駅より野沢温泉行きバスで２５分、新田バス停下車歩いて１分弱／上信越道　豊田飯山ＩＣより野沢温泉方面へ３０分",
+        "hotelSpecial": "～信州産コシヒカリに地元の山菜、野菜を使った味自慢の宿！～１３箇所の外湯巡りにも最適な場所です☆",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F27764%2F27764.html"
+      }
+    ],
+    "wikiSpotsData": [
+      {
+        "spotName": "野沢温泉",
+        "wikiTitle": "野沢温泉",
+        "extract": "野沢温泉（のざわおんせん）は、長野県北部の下高井郡野沢温泉村にある温泉。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Nozawa_Onsen_01.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      },
+      {
+        "spotName": "野沢温泉村",
+        "wikiTitle": "野沢温泉村",
+        "extract": "野沢温泉村（のざわおんせんむら）は、長野県の北東部に位置する村。野沢温泉で知られる。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Nozawa_Onsen_01.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      },
+      {
+        "spotName": "道祖神",
+        "wikiTitle": "道祖神",
+        "extract": "道祖神（どうそじん、どうそしん）は、村境、峠などの路傍にあって外来の疫病や悪霊を防ぐ神である。のちには縁結びの神、旅行安全の神、子どもと親しい神とされ、男根形の自然石、石に文字や像を刻んだものなどがある。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Kashimasama.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      }
+    ]
+  },
+  "theme_2_okuhida": {
+    "id": "theme_2_okuhida",
+    "slug": "okuhida-onsen-kyo-aodaru-hyobaku-lightup-shinhotaka-winter-guide",
+    "title": "奥飛騨温泉郷の青だる氷瀑ライトアップと新穂高ロープウェイ冠雪美！大自然の雪見露天風呂と飛騨牛囲炉裏会席名宿ガイド",
+    "prefecture": "岐阜県",
+    "area": "奥飛騨・新穂高",
+    "rakutenKeyword": "奥飛騨温泉郷",
+    "wikiSpots": [
+      "奥飛騨温泉郷",
+      "新穂高ロープウェイ",
+      "新穂高温泉"
+    ],
+    "hotels": [
+      {
+        "hotelNo": 50913,
+        "hotelName": "奥飛騨温泉郷　ペットと泊まれる素泊まり温泉宿　こんじ旅館",
+        "hotelKanaName": "おくひだおんせんごう　ぺっとととまれるすどまりおんせんやど　こんじりょかん",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50913/50913.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50913/50913_wa.jpg",
+        "reviewCount": 487,
+        "reviewAverage": 4.6,
+        "hotelMinCharge": 9625,
+        "address1": "岐阜県",
+        "address2": "高山市奥飛騨温泉郷一重ヶ根1545-3",
+        "access": "名古屋～高山ICより60分／関東～松本ICより70分／北陸～富山ICより90分【11月下旬～3月下旬まで冬用タイヤ必須】",
+        "hotelSpecial": "ペット同伴素泊まり専門宿☆ペット宿泊無料☆源泉かけ流しの内湯と露天風呂24時間入浴可☆火水定休です☆",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F50913%2F50913.html"
+      },
+      {
+        "hotelNo": 9166,
+        "hotelName": "奥飛騨温泉郷　ひなの湯宿　松乃井",
+        "hotelKanaName": "おくひだおんせんきょう　ひなのゆやど　まつのい",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9166/9166.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9166/9166_lrb.jpg",
+        "reviewCount": 479,
+        "reviewAverage": 4.1,
+        "hotelMinCharge": 22000,
+        "address1": "岐阜県",
+        "address2": "高山市奥飛騨温泉郷新平湯温泉",
+        "access": "長野自動車道　松本ICよりR158→R471経由90分/ 中部縦貫自動車道　高山ICよりR158→R471経由60分",
+        "hotelSpecial": "◆室数限定、個室食可◆内湯・露天を備えた貸切風呂２ヶ所。飛騨牛と掛流しの温泉を愉しむ寛ぎの大人宿。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9166%2F9166.html"
+      },
+      {
+        "hotelNo": 168306,
+        "hotelName": "奥飛騨温泉郷いろりの宿かつら木の郷",
+        "hotelKanaName": "おくひだおんせんごういろりのやどかつらぎのさと",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/168306/168306.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/168306/168306_kan1.jpg",
+        "reviewCount": 32,
+        "reviewAverage": 4.33,
+        "hotelMinCharge": 24200,
+        "address1": "岐阜県",
+        "address2": "高山市奥飛騨温泉郷福地10",
+        "access": "高山駅より新穂高��ープウェー行きバスにて70分。Ｈ40福地温泉下車　徒歩3分",
+        "hotelSpecial": "全室離れのお部屋。内湯付貸切露天無料。緑に囲まれた四千坪のプライベート空間。囲炉裏で飛騨の味覚を堪能",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F168306%2F168306.html"
+      },
+      {
+        "hotelNo": 63413,
+        "hotelName": "奥飛騨温泉郷　花ごころ万喜（ばんき）",
+        "hotelKanaName": "しんひらゆおんせん　はなごころばんき",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/63413/63413.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/63413/63413_kya.jpg",
+        "reviewCount": 472,
+        "reviewAverage": 4.3,
+        "hotelMinCharge": 9350,
+        "address1": "岐阜県",
+        "address2": "高山市奥飛騨温泉郷一重ヶ根781",
+        "access": "長野道・松本IC→R158・安房トンネル・R471→新平湯温泉／中部縦貫道・高山IC→R158・R471→新平湯温泉",
+        "hotelSpecial": "《日本の宿アワード ＆楽天シルバーアワード2020W受賞》板蔵の貸切露天、花をテーマにしたおもてなし",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F63413%2F63413.html"
+      },
+      {
+        "hotelNo": 76370,
+        "hotelName": "奥飛騨温泉郷　新穂高温泉　静寂の湯宿　かみたから荘",
+        "hotelKanaName": "おくひだおんせんごう　しんほたかおんせん　せいじゃくのゆやど　かみたからそう",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76370/76370.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76370/76370_kya.jpg",
+        "reviewCount": 38,
+        "reviewAverage": 5,
+        "hotelMinCharge": 8800,
+        "address1": "岐阜県",
+        "address2": "高山市奥飛騨温泉郷中尾120",
+        "access": "ＪＲ　高山駅より濃飛バス乗車９０分",
+        "hotelSpecial": "主人自ら厳選した地物の食材を中心とする創作料理。こだわりの地酒、焼酎等品揃えも豊富です。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F76370%2F76370.html"
+      },
+      {
+        "hotelNo": 63424,
+        "hotelName": "奥飛騨温泉郷　新平湯温泉　美山荘",
+        "hotelKanaName": "おくひだおんせんごう　しんひらゆおんせん　みやまそう",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/63424/63424.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/63424/63424_ky.jpg",
+        "reviewCount": 145,
+        "reviewAverage": 3.73,
+        "hotelMinCharge": 7150,
+        "address1": "岐阜県",
+        "address2": "高山市奥飛騨温泉郷一重ヶ根622",
+        "access": "ＪＲ高山駅（高山濃飛バスセンター）よりバス「平湯・新穂高線」にて1時間１５分、「HO48新平湯温泉」下車、徒歩１分",
+        "hotelSpecial": "飛騨の温もりが感じられる安らぎの宿。四季によって表情を変える露天風呂が自慢です。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F63424%2F63424.html"
+      }
+    ],
+    "wikiSpotsData": [
+      {
+        "spotName": "奥飛騨温泉郷",
+        "wikiTitle": "奥飛騨温泉郷",
+        "extract": "奥飛騨温泉郷（おくひだおんせんごう）は、岐阜県高山市（旧国飛騨国）にある5つの温泉の総称（温泉郷）である。平湯温泉、福地温泉、新平湯温泉、栃尾温泉、新穂高温泉から構成されている。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Japan_Gifu_hida_relief_location_map.webp?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      },
+      {
+        "spotName": "新穂高ロープウェイ",
+        "wikiTitle": "新穂高ロープウェイ",
+        "extract": "新穂高ロープウェイ（しんほたかロープウェイ）は、名鉄グループの奥飛観光開発株式会社が運営する索道（ロープウェイ）。中部山岳国立公園内の北アルプスの千石尾根に敷設されており、岐阜県側から西穂高岳へのアクセスルートの一部になっている。所在地は岐阜県高山市。",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Shinhotaka_Ropeway_logo.svg/langja-250px-Shinhotaka_Ropeway_logo.svg.png?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "spotName": "新穂高温泉",
+        "wikiTitle": "新穂高温泉",
+        "extract": "新穂高温泉（しんほたかおんせん）は、岐阜県高山市（旧国飛騨国）奥飛騨温泉郷にある温泉。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/ShinHodaka-no-Yu.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      }
+    ]
+  },
+  "theme_3_akan": {
+    "id": "theme_3_akan",
+    "slug": "akan-lake-frost-flower-ice-festival-ainu-kotan-winter-guide",
+    "title": "阿寒湖の奇跡フロストフラワーと氷上フェスティバル！アイヌコタン雪灯りと源泉かけ流し雪見温泉・道東美味宿ガイド",
+    "prefecture": "北海道",
+    "area": "阿寒・摩周・屈斜路",
+    "rakutenKeyword": "阿寒湖温泉",
+    "wikiSpots": [
+      "阿寒湖",
+      "阿寒湖温泉",
+      "マリモ"
+    ],
+    "hotels": [
+      {
+        "hotelNo": 37362,
+        "hotelName": "阿寒湖温泉　あかん鶴雅別荘鄙の座",
+        "hotelKanaName": "あかんこおんせん　あかんつるがべっそう　ひなのざ",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/37362/37362.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/37362/37362_kan.jpg",
+        "reviewCount": 246,
+        "reviewAverage": 4.9,
+        "hotelMinCharge": 42531,
+        "address1": "北海道",
+        "address2": "釧路市阿寒町阿寒湖温泉2丁目8-1",
+        "access": "釧路空港より車で約６０分／女満別空港より車で約９０分。　※アクセスの詳細は公式サイトの「アクセスページ」をご覧ください。",
+        "hotelSpecial": "【全25室 温泉露天風呂付き客室】鄙とは故郷のこと。鄙の座は皆様のこころの故郷としてお迎えいたします",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F37362%2F37362.html"
+      },
+      {
+        "hotelNo": 44382,
+        "hotelName": "ホテル　御前水",
+        "hotelKanaName": "ごぜんすい",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/44382/44382.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/44382/44382_en.jpg",
+        "reviewCount": 715,
+        "reviewAverage": 3.94,
+        "hotelMinCharge": 8250,
+        "address1": "北海道",
+        "address2": "釧路市阿寒町阿寒湖温泉4-5-1",
+        "access": "釧路空港より車で６０分／ＪＲ根室本線　釧路駅より車で約８０分／",
+        "hotelSpecial": "ロビーいっぱいに広がる阿寒湖の景色と源泉１００％の温泉で身も心もリフレッシュ頂けます。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F44382%2F44382.html"
+      },
+      {
+        "hotelNo": 41841,
+        "hotelName": "ＴＨＥ　ＦＯＲＥＳＴ阿寒　ＴＳＵＲＵＧＡＲＥＳＯＲＴ（旧：阿寒の森鶴雅リゾート���ゆう香）",
+        "hotelKanaName": "ざ　ふぉれすとあかん　つるがりぞーと　きゅう　あかんのもりつるがりぞーとはなゆうか",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/41841/41841.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/41841/41841_kan.jpg",
+        "reviewCount": 553,
+        "reviewAverage": 4.14,
+        "hotelMinCharge": 12644,
+        "address1": "北海道",
+        "address2": "釧路市阿寒町阿寒湖温泉1-6-1",
+        "access": "釧路空港より車で約６０分／女満別空港より車で約９０分。　※アクセスの詳細は公式サイトの「アクセスページ」をご覧ください。",
+        "hotelSpecial": "フォレスト阿寒は源泉かけ流し！阿寒の森と湖に佇むカジュアルリゾート【トゥラノのご予約もこちらから】",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F41841%2F41841.html"
+      },
+      {
+        "hotelNo": 40045,
+        "hotelName": "あかん遊久の里鶴雅",
+        "hotelKanaName": "あかんゆくのさとつるが",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40045/40045.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40045/40045_kan.jpg",
+        "reviewCount": 1902,
+        "reviewAverage": 4.49,
+        "hotelMinCharge": 14520,
+        "address1": "北海道",
+        "address2": "釧路市阿寒町阿寒湖温泉4-6-10",
+        "access": "釧路空港より車で約６０分／女満別空港より車で約９０分。　※アクセスの詳細は公式サイトの「アクセスページ」をご覧ください。",
+        "hotelSpecial": "和のこころ、阿寒のおもてなしをさらに深めて。日本の旅館文化を継承するおもてなしをご堪能ください。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40045%2F40045.html"
+      },
+      {
+        "hotelNo": 170992,
+        "hotelName": "ファームイン　トーチ　Ｂ棟　＾",
+        "hotelKanaName": "",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/170992/170992.jpg",
+        "roomImageUrl": "",
+        "reviewCount": 0,
+        "reviewAverage": 0,
+        "hotelMinCharge": 9512,
+        "address1": "北海道",
+        "address2": "阿寒郡鶴居村字雪裡原野北26線西13-3　Ｆａｒｍ　ｉｎ　Ｔｏｒｃｈ　Ｂ",
+        "access": "釧路駅から車で約４０分",
+        "hotelSpecial": "＊２０２１年９月１０日リスティング公開した、オープンしたばかりの宿です＊",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F170992%2F170992.html"
+      },
+      {
+        "hotelNo": 170947,
+        "hotelName": "ファームイン　トーチ　Ａ棟　＾",
+        "hotelKanaName": "",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/170947/170947.jpg",
+        "roomImageUrl": "",
+        "reviewCount": 1,
+        "reviewAverage": 0,
+        "hotelMinCharge": 9512,
+        "address1": "北海道",
+        "address2": "阿寒郡鶴居村字雪裡原野北26線西13-3　Ｆａｒｍ　ｉｎ　Ｔｏｒｃｈ　Ａ",
+        "access": "釧路駅から車で約４5分",
+        "hotelSpecial": "牧草地帯にそっと建つ、一棟貸切の北欧住宅のコテージです。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F170947%2F170947.html"
+      }
+    ],
+    "wikiSpotsData": [
+      {
+        "spotName": "阿寒湖",
+        "wikiTitle": "阿寒湖",
+        "extract": "阿寒湖（あかんこ）は、北海道東部、釧路市北部に位置する湖。全域が阿寒摩周国立公園に含まれ、道東を代表する観光地となっている。淡水湖としては北海道で5番目に大きい。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Akanko.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      },
+      {
+        "spotName": "阿寒湖温泉",
+        "wikiTitle": "阿寒湖温泉",
+        "extract": "阿寒湖温泉（あかんこおんせん）は、北海道釧路市阿寒町阿寒湖温泉にある温泉である。阿寒湖畔に温泉街が形成されている。本項では町名である阿寒町阿寒湖温泉についても記載する。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Mt._Oakan_from_Akanko_spa.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      },
+      {
+        "spotName": "マリモ",
+        "wikiTitle": "マリモ",
+        "extract": "マリモ とは、シオグサ目アオミソウ科マリモ属に分類される淡水性の緑藻の1種である。藻体はふつう長さ数センチメートル程度の分枝糸状体であり、基本的には湖底の石などに付着しているが（着生型）、ときに小さな藻塊として湖底を浮遊しており（浮遊型）、また条件によっては大きな球状の塊（集合型）になる（図1）。生物学的にはこれらすべてがマリモであるが、一般的には球形の集合型のものをマリモとよんでいる。北半球北部の湖沼に散在的に分布しているが、集合型を形成することはまれであり、大きなものは日本の阿寒湖のみで見られる。藻体は大きな円筒形の多核細胞が1列につながってときに分枝し、葉緑体は網状でピレノイドを多数含む。日本では絶滅危惧IA類に指定されており、また阿寒湖（北海道）のマリモは美しく大きな集合体を形成するため、特別天然記念物に指定されている。マリモ属のタイプ種であり、学名の種小名である brownii はイギリスの植物学者であるロバート・ブラウンへの献名である。和名である「マリモ」は、球形の集合型の形に由来する。同様の球状体を形成する類似種が、いくつか知られている。日本ではマリモはよく知られた存在であり、阿寒湖や北海道を象徴する存在となっている。また、人工的に丸めたマリモが、観賞用として流通している。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Marimo_lake_akann.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      }
+    ]
+  },
+  "theme_4_shimonoseki_nagato": {
+    "id": "theme_4_shimonoseki_nagato",
+    "slug": "shimonoseki-torafugu-nagato-yumoto-onsen-motonosumi-winter-guide",
+    "title": "下関の本場とらふぐフルコースと長門湯本温泉！元乃隅神社開運初詣と冬の日本海絶景を巡る大人の美食湯宿ガイド",
+    "prefecture": "山口県",
+    "area": "下関・長門湯本",
+    "rakutenKeyword": "長門湯本温泉",
+    "wikiSpots": [
+      "唐戸市場",
+      "長門湯本温泉",
+      "元乃隅神社"
+    ],
+    "hotels": [
+      {
+        "hotelNo": 5670,
+        "hotelName": "長門湯本温泉　山村別館",
+        "hotelKanaName": "ながとゆもとおんせん　やまむらべっかん",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5670/5670.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5670/5670_heya1.jpg",
+        "reviewCount": 1035,
+        "reviewAverage": 4.29,
+        "hotelMinCharge": 9700,
+        "address1": "山口県",
+        "address2": "長門市深川湯本字川尻533-1",
+        "access": "マイカー・中国縦貫自動車道美称ＩＣより長門湯本車で３０分 ＪＲ長門湯本駅より徒歩１３分（送迎あり）",
+        "hotelSpecial": "本場フィンランドのロウリュウ式バレルサウナ！四季を観望できる洋風造りの露天風呂を備えた宿です",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5670%2F5670.html"
+      },
+      {
+        "hotelNo": 7243,
+        "hotelName": "長門湯本温泉　湯本観光ホテル　西京",
+        "hotelKanaName": "ながとゆもとおんせん　ゆもとかんこうほてる　さいきょう",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7243/7243.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7243/7243_heya.jpg",
+        "reviewCount": 941,
+        "reviewAverage": 4,
+        "hotelMinCharge": 6800,
+        "address1": "山口県",
+        "address2": "長門市深川湯本1051",
+        "access": "中国道美称ICより車で30分／JR美祢線長門湯本駅より徒歩10分",
+        "hotelSpecial": "広々とした大浴場や多彩な館内施設をお楽しみいただける温泉旅館■無料屋外駐車場100台収容可能！",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7243%2F7243.html"
+      },
+      {
+        "hotelNo": 14980,
+        "hotelName": "長門湯本温泉　楊貴妃浪漫の宿　玉仙閣",
+        "hotelKanaName": "ながとゆもとおんせん　ようきひろまんのやど　ぎょくせんかく",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14980/14980.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14980/14980_room.jpg",
+        "reviewCount": 789,
+        "reviewAverage": 4.41,
+        "hotelMinCharge": 12100,
+        "address1": "山口県",
+        "address2": "長門市深川湯本1234",
+        "access": "ＪＲ長門湯本駅より徒歩約７分 送迎有、要予約／中国自動車道美祢ＩＣより３０分／路線バス停：門前（もんぜん）より徒歩１分",
+        "hotelSpecial": "２０２４年にお食事会場と客室４室をリノベーション、ライトアップされた長門湯本温泉街まで徒歩5分！",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14980%2F14980.html"
+      },
+      {
+        "hotelNo": 41864,
+        "hotelName": "長門湯本温泉　原田屋旅館",
+        "hotelKanaName": "ながとゆもとおんせん　はらだやりょかん",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/41864/41864.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/41864/41864_kya.jpg",
+        "reviewCount": 75,
+        "reviewAverage": 4.38,
+        "hotelMinCharge": 14300,
+        "address1": "山口県",
+        "address2": "長門市深川湯本2269",
+        "access": "美祢線　長門湯本駅より徒歩８分／中国自動車道　美祢ＩＣより３０分",
+        "hotelSpecial": "木の香漂う和風の旅館。掛けながしの天然温泉と女将の心のこもった手料理でおもてなしいたします。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F41864%2F41864.html"
+      },
+      {
+        "hotelNo": 172082,
+        "hotelName": "長門湯本温泉　源泉かけ流し温泉付客室の宿　しぇふず",
+        "hotelKanaName": "ながとゆもとおんせん　げんせんかけながしおんせんつききゃくしつのやど　しぇふず",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/172082/172082.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/172082/172082_kan1.jpg",
+        "reviewCount": 178,
+        "reviewAverage": 4.6,
+        "hotelMinCharge": 14300,
+        "address1": "山口県",
+        "address2": "長門市深川湯本2479-3",
+        "access": "ＪＲ　長門湯本駅より徒歩にて約１３分",
+        "hotelSpecial": "全客室源泉かけ流しの内湯温泉付。四季折々の創作会席を堪能し、気兼ねの無い湯浴みをお楽しみ下さい。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172082%2F172082.html"
+      },
+      {
+        "hotelNo": 80652,
+        "hotelName": "長門湯本温泉　別邸　音信",
+        "hotelKanaName": "ながとゆもとおんせん　べってい　おとずれ",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/80652/80652.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/80652/80652_h.jpg",
+        "reviewCount": 157,
+        "reviewAverage": 4.64,
+        "hotelMinCharge": 53900,
+        "address1": "山口県",
+        "address2": "長門市深川湯本2208",
+        "access": "★ＪＲ長門湯本駅より無料送迎あり（無料）※事前予約制",
+        "hotelSpecial": "昔ながらの湯治宿の風情と、機能的で上質なリゾートのエッセンスが融合した「湯治モダン」がコンセプトです",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F80652%2F80652.html"
+      }
+    ],
+    "wikiSpotsData": [
+      {
+        "spotName": "唐戸市場",
+        "wikiTitle": "唐戸市場",
+        "extract": "唐戸市場（からといちば）は、山口県下関市唐戸町にある地方卸売市場。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/%E5%94%90%E6%88%B8%E5%B8%82%E5%A0%B4202309.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      },
+      {
+        "spotName": "長門湯本温泉",
+        "wikiTitle": "長門湯本温泉",
+        "extract": "\n\n長門湯本温泉 は、山口県北部（旧長門国）の長門市に存在する温泉地である。山口県を代表する温泉とされる「防長四湯」の1つに数えられる。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Yumoto-ontoh.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      },
+      {
+        "spotName": "元乃隅神社",
+        "wikiTitle": "元乃隅神社",
+        "extract": "元乃隅神社（もとのすみじんじゃ）は、山口県長門市油谷津黄にある神社。旧称は元乃隅稲成神社（もとのすみいなりじんじゃ）。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/%E5%85%83%E4%B9%83%E9%9A%85%E7%A8%B2%E6%88%90%E7%A5%9E%E7%A4%BE_Motonosumi-Inari-jinja_20090504.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      }
+    ]
+  },
+  "theme_5_aizu_higashiyama": {
+    "id": "theme_5_aizu_higashiyama",
+    "slug": "aizu-higashiyama-onsen-ouchijuku-snow-tsurugajo-winter-guide",
+    "title": "大内宿の白銀茅葺き雪まつりと会津若松・東山温泉！鶴ヶ城の雪化粧と名物ねぎそば・極上会津馬刺しを味わう名宿ガイド",
+    "prefecture": "福島県",
+    "area": "会津若松・東山温泉",
+    "rakutenKeyword": "会津若松 東山温泉",
+    "wikiSpots": [
+      "大内宿",
+      "東山温泉",
+      "若松城"
+    ],
+    "hotels": [
+      {
+        "hotelNo": 168418,
+        "hotelName": "会津東山温泉　月のあかり",
+        "hotelKanaName": "あいづ　ひがしやまおんせん　つきのあかり",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/168418/168418.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/168418/168418_kan1.jpg",
+        "reviewCount": 628,
+        "reviewAverage": 3.71,
+        "hotelMinCharge": 4950,
+        "address1": "福島県",
+        "address2": "会津若松市東山町湯本下原257-3（月のあかり）",
+        "access": "【車】磐越道会津若松IC下車、国道49号線を東山温泉方面へ【車以外】東北新幹線郡山駅、磐越西線郡山駅、JR会津若松駅",
+        "hotelSpecial": "『ノンサービス施設』『２０２３年大浴場リニューアル』『事前に各種注意事項にご同意の上ご予約下さい』",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F168418%2F168418.html"
+      },
+      {
+        "hotelNo": 39376,
+        "hotelName": "会津東山温泉　原瀧（はらたき）",
+        "hotelKanaName": "あいづひがしやまおんせん　はらたき",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/39376/39376.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/39376/39376_te.jpg",
+        "reviewCount": 1148,
+        "reviewAverage": 4.18,
+        "hotelMinCharge": 9900,
+        "address1": "福島県",
+        "address2": "会津若松市東山町湯本下原235",
+        "access": "ＪＲ磐越西線　会津若松駅からタクシーで１５分、バス（東山温泉行）で２０分／磐越自動車道　会津若松ＩＣから２０分",
+        "hotelSpecial": "自家源泉掛け流し　貸切展望風呂が◎　春～夏は水辺のダイニング川どこがオープン",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F39376%2F39376.html"
+      },
+      {
+        "hotelNo": 32124,
+        "hotelName": "東山温泉　東山パークホテル新風月（伊東園ホテルズ）",
+        "hotelKanaName": "ひがしやまおんせん　ひがしやま　ぱーくほてる　しんふうげつ",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/32124/32124.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/32124/32124_r1.jpg",
+        "reviewCount": 1380,
+        "reviewAverage": 3.85,
+        "hotelMinCharge": 6248,
+        "address1": "福島県",
+        "address2": "会津若松市東山町湯本積り99",
+        "access": "ＪＲ磐越西線　会津若松駅よりタクシーで１５分　路線バスで２０分／磐越自動車道　会津若松ＩＣより車で２０分",
+        "hotelSpecial": "自家源泉を持ち東山温泉随一の露天風呂と大浴場をお楽しみいただけます。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F32124%2F32124.html"
+      },
+      {
+        "hotelNo": 39377,
+        "hotelName": "会津東山温泉　今昔亭（こんじゃくてい）",
+        "hotelKanaName": "あいづひがしやまおんせん　こんじゃくてい",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/39377/39377.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/39377/39377_ba.jpg",
+        "reviewCount": 399,
+        "reviewAverage": 4.34,
+        "hotelMinCharge": 13200,
+        "address1": "福島県",
+        "address2": "会津若松市東山町湯本247",
+        "access": "ＪＲ磐越西線　会津若松駅からタクシーで１５分／磐越自動車道　会津若松ＩＣから２０分☆送迎は要連絡☆",
+        "hotelSpecial": "美しき隠れ家「今昔亭」へようこそ。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F39377%2F39377.html"
+      },
+      {
+        "hotelNo": 7330,
+        "hotelName": "東山温泉　元湯有馬屋",
+        "hotelKanaName": "ひがしやまおんせん　もとゆありまや",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7330/7330.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7330/7330_war.jpg",
+        "reviewCount": 80,
+        "reviewAverage": 4.63,
+        "hotelMinCharge": 13200,
+        "address1": "福島県",
+        "address2": "会津若松市東山町湯本居平118",
+        "access": "JR磐越西線会津若松駅よりバスで20分／磐越自動車道会津若松ICより車で15分",
+        "hotelSpecial": "囲炉裏でのお食事と源泉掛け流しの宿",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7330%2F7330.html"
+      },
+      {
+        "hotelNo": 5738,
+        "hotelName": "会津東山温泉　庄助の宿　瀧の湯",
+        "hotelKanaName": "あいづひがしやまおんせん　しょうすけのやど　たきのゆ",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5738/5738.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5738/5738_yuka.jpg",
+        "reviewCount": 4265,
+        "reviewAverage": 4.41,
+        "hotelMinCharge": 8910,
+        "address1": "福島県",
+        "address2": "会津若松市東山町湯本滝ノ湯108番地（庄助の宿 瀧の湯）",
+        "access": "【電車】ＪＲ磐越西線「会津若松駅」下車タクシー１０分【お車】「磐越自動車道」会津若松ＩＣより国道４９号線経由 約１５分",
+        "hotelSpecial": "【楽天トラベル ゴー���ドアワード2025】【楽天トラベル 日本の宿アワードTOP47 2024】",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5738%2F5738.html"
+      }
+    ],
+    "wikiSpotsData": [
+      {
+        "spotName": "大内宿",
+        "wikiTitle": "大内宿",
+        "extract": "大内宿（おおうちじゅく）は、福島県南会津郡下郷町大字大内にある、江戸時代における会津西街道 の「半農半宿」の宿場の呼称。明治期の鉄道開通に伴って宿場としての地位を失ったが、茅葺屋根の民家が街道沿いに建ち並ぶ同集落の通称、あるいは観光地名として現在も受け継がれている。1981年（昭和56年）に重要伝統的建造物群保存地区として選定され、福島県を代表する観光地の1つとなっている（一部に宿泊施設復活）。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Ja-fukushima-ohuchijuku-4.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      },
+      {
+        "spotName": "東山温泉",
+        "wikiTitle": "東山温泉",
+        "extract": "東山温泉（ひがしやまおんせん）とは、福島県会津若松市にある温泉。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Higashiyama_Onsen_01.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      },
+      {
+        "spotName": "若松城",
+        "wikiTitle": "若松城",
+        "extract": "若松城（わかまつじょう）は、福島県会津若松市追手町にあった日本の城。別名鶴ヶ城（つるがじょう）で、地元ではこの名で呼ばれることが多い。また、同名の城が他にあるため、会津若松城 とも呼ばれる。さらに文献では黒川城（くろかわじょう）や、会津城（あいづじょう）とされることもある。現在は、「若松城跡（わかまつじょうせき/わかまつじょうあと）」として国の史跡に指定されている。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/%E8%8B%A5%E6%9D%BE%E5%9F%8E%EF%BC%88%E9%B6%B4%E3%83%B6%E5%9F%8E%EF%BC%8920220917-P1003471.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      }
+    ]
+  }
+}
