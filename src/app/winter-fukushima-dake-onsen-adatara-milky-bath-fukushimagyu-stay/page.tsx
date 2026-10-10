@@ -700,7 +700,7 @@ export default function FukushimaDakeWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-fukushima-bandaiatami-onsen-toji-fukushimagyu-stay"
+              href="/winter-fukushima-bandaiatami-onsen-hagihime-fukushimagyu-stay"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-blue-300 bg-blue-400/20 px-2 py-0.5 rounded-full inline-block">福島・郡山奥座敷</span>

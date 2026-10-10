@@ -329,13 +329,13 @@ export default function FurusatoAllInclusiveFreeDrinksStayPage() {
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link
-            href="/furusato-tax-wine-brewery-winery-resort-stay"
+            href="/furusato-tax-koshu-winery-harvest-autumn-wine-resort-stay"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【ワイナリー直営＆ワインペアリング宿×ふるさと納税】勝沼・十勝・余市
           </Link>
           <Link
-            href="/furusato-tax-craft-beer-brewery-onsen-stay"
+            href="/craft-beer-brewery-hotel-ranking-stay"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【クラフトビール醸造所直営・地ビール飲み放題宿×ふるさと納税】

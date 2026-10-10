@@ -416,7 +416,7 @@ export default function KyotoAutumnLeavesNightLightupPage() {
             </Link>
 
             <Link
-              href="/kyoto-rainy-day-indoor-guide"
+              href="/hakone-rainy-day-indoor-model-course"
               className="p-4 rounded-xl bg-stone-900/60 border border-stone-800 hover:border-rose-500/40 transition block group"
             >
               <span className="text-rose-400 text-xs font-bold">雨天・悪天候対策</span>

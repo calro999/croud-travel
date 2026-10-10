@@ -139,7 +139,7 @@ export default function HighwayBusArticlePage() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
-      <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-sky-950 via-slate-900 to-indigo-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
+      <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-teal-900 via-slate-900 to-sky-900 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
           <div className="flex flex-wrap items-center gap-2">
             <span className="text-[10px] md:text-xs font-black tracking-widest bg-cyan-400 text-slate-950 px-3.5 py-1 rounded-full uppercase inline-block">
@@ -358,7 +358,7 @@ export default function HighwayBusArticlePage() {
       </section>
 
       {/* 🚌 楽天トラベル 観光バスツアー・フェリー・観光列車 クロスセルセクション */}
-      <section className="bg-gradient-to-br from-amber-950 via-stone-900 to-orange-950 text-white rounded-3xl p-6 md:p-10 shadow-xl border border-white/10 space-y-6">
+      <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-teal-950 text-white rounded-3xl p-6 md:p-10 shadow-xl border border-white/10 space-y-6">
         <div className="space-y-2 border-b border-white/10 pb-4">
           <div className="flex items-center gap-2">
             <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3 py-0.5 rounded-full uppercase">

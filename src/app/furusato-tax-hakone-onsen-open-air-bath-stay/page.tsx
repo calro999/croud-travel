@@ -335,7 +335,7 @@ export default function FurusatoHakoneOnsenOpenAirBathStayPage() {
             ▸ 【駅徒歩圏内・車なし電車で行ける温泉宿×ふるさと納税】アクセス抜群の名宿
           </Link>
           <Link
-            href="/furusato-tax-river-stream-canyon-view-onsen-stay"
+            href="/furusato-tax-waterfall-view-sound-stream-onsen-stay"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【清流・渓谷美を望む絶景露天風呂×ふるさと納税】水音と自然に包まれる旅

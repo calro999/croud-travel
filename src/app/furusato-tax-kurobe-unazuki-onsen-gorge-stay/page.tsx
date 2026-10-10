@@ -341,7 +341,7 @@ export default function FurusatoKurobeUnazukiStayPage() {
             ▸ 【鬼怒川温泉 渓谷美＆名門旅館×ふるさと納税】あさや・金谷ホテル・ホテル三日月
           </Link>
           <Link
-            href="/furusato-tax-scenic-open-air-trolley-train-resort-stay"
+            href="/scenic-open-air-trolley-train-resort-stay"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【絶景トロッコ列車＆秘境温泉宿×ふるさと納税】大自然パノラマ

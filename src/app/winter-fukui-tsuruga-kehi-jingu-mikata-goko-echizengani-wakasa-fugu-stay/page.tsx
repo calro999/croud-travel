@@ -661,7 +661,7 @@ export default function FukuiTsurugaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-toyama-takaoka-zuiryuji-hatsumode-himi-kanburi-stay"
+              href="/winter-toyama-amaharashi-tateyama-snow-zuiryuji-hatsumode-kanburi-stay"
               className="p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:bg-indigo-50/30 transition block space-y-1"
             >
               <span className="font-bold text-indigo-950 block">【富山】国宝瑞龍寺初詣と氷見の寒ブリ名宿</span>

@@ -341,7 +341,7 @@ export default function FurusatoKyotoArashiyamaBambooStayPage() {
             ▸ 【京都町家一棟貸切プライベート旅館×ふるさと納税】Nazuna椿通・二条城・お宿花
           </Link>
           <Link
-            href="/furusato-tax-tangible-cultural-property-sukiya-carpenter-ryokan-stay"
+            href="/tangible-cultural-property-sukiya-carpenter-ryokan-stay"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【登録有形文化財・宮大工数寄屋造り旅館×ふるさと納税】木造建築美の宿

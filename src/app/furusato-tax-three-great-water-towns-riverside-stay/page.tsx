@@ -783,7 +783,7 @@ export default function Page() {
             
             <Link
               key="1"
-              href="/furusato-tax-little-edo-kyoto-castle-town-stay"
+              href="/furusato-tax-castle-town-heritage-onsen-stay"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">

@@ -52,7 +52,7 @@
 - [沖縄県（58件）](https://croud-travel.pages.dev/llms/47.txt)
 - [全国・複数県（425件）](https://croud-travel.pages.dev/llms/48.txt)
 
-## 特集記事（2225件）
+## 特集記事（2226件）
 - https://croud-travel.pages.dev/aichi-chita-minamichita-himakajima-stay/
 - https://croud-travel.pages.dev/airport-access-direct-resort-stay/
 - https://croud-travel.pages.dev/akita-oga-peninsula-namahage-nyudozaki-stay/
@@ -1421,6 +1421,7 @@
 - https://croud-travel.pages.dev/planetarium-private-cinema-theater-room-hotel-stay/
 - https://croud-travel.pages.dev/power-spot-shrine-temple-fortune-solo-stay/
 - https://croud-travel.pages.dev/premium-business-trip-sauna-onsen-stay/
+- https://croud-travel.pages.dev/privacy/
 - https://croud-travel.pages.dev/private-beach-secluded-cove-luxury-villa-stay/
 - https://croud-travel.pages.dev/private-observatory-planetarium-luxury-villa-stay/
 - https://croud-travel.pages.dev/private-onsen-sauna-charter-luxury-villa/

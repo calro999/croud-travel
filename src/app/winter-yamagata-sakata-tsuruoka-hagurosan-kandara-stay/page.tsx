@@ -542,7 +542,7 @@ export default function YamagataSakataTsuruokaPage() {
             <Link href="/winter-niigata-senami-onsen-sunset-ocean-salmon-murakami-beef-stay" className="p-3 bg-white rounded-xl hover:text-sky-700 shadow-xs transition">
               🌊 瀬波温泉！日本海夕日と塩引き鮭・村上牛名宿
             </Link>
-            <Link href="/campaigns/autumn-gourmet-travel" className="p-3 bg-white rounded-xl hover:text-sky-700 shadow-xs transition">
+            <Link href="/campaigns" className="p-3 bg-white rounded-xl hover:text-sky-700 shadow-xs transition">
               🍁 全国の旬の味覚＆極上温泉宿特集まとめ
             </Link>
           </div>

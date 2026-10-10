@@ -628,7 +628,7 @@ export default function FukushimaInawashiroBandaiWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-fukushima-aizu-higashiyama-ashinomaki-snow-tsurugajo-stay"
+              href="/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-cyan-400 block mb-1">会津東山・芦ノ牧冬特集</span>

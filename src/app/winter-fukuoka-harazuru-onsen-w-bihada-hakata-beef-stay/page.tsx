@@ -620,7 +620,7 @@ export default function FukuokaHarazuruWinterFeature() {
               <h3 className="text-sm font-bold group-hover:text-violet-200 transition">本場とらふぐ解禁美食と元祖瓦そば・開湯八百年ラジウム泉の宿</h3>
             </Link>
             <Link 
-              href="/winter-ibusuki-onsen-sand-bath-stay"
+              href="/ibusuki-vs-kirishima-which-stay"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-violet-300 font-semibold block mb-1">鹿児島・指宿温泉</span>

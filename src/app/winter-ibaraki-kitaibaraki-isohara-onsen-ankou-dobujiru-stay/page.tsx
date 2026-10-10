@@ -572,14 +572,14 @@ export default function IbarakiKitaibarakiWinterFeature() {
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">初冬松島湾絶景と解禁松島牡蠣・日本三景日の出展望露天の宿</h3>
             </Link>
             <Link 
-              href="/winter-tochigi-nasu-onsen-snow-nasu-wagyu-stay"
+              href="/winter-tochigi-nasu-onsen-shikanoyu-snow-stay"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">栃木・那須温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">開湯千三百年那須鹿の湯と極上那須和牛・冬の高原リゾート宿</h3>
             </Link>
             <Link 
-              href="/winter-gunma-ikaho-onsen-golden-water-joshu-beef-stay"
+              href="/winter-gunma-houshi-sarugakyo-onsen-snow-joshu-beef-stay"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">群馬・伊香保温泉</span>

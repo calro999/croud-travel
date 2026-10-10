@@ -673,7 +673,7 @@ export default function MieIseshimaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-aichi-toyokawa-inari-hatsumode-mikawa-unagi-stay"
+              href="/winter-aichi-toyokawa-inari-hatsumode-yuya-onsen-stay"
               className="p-4 rounded-xl border border-slate-200 hover:border-amber-400 hover:bg-amber-50/30 transition block space-y-1"
             >
               <span className="font-bold text-amber-950 block">【愛知】豊川稲荷新春初詣と三河一色うなぎ名宿</span>

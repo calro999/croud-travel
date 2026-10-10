@@ -609,14 +609,14 @@ export default function HokkaidoSounkyoWinterFeature() {
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">白銀の地獄谷と名湯九泉・初冬雪見露天風呂の宿</h3>
             </Link>
             <Link 
-              href="/winter-hokkaido-niseko-powder-snow-resort-stay"
+              href="/winter-hokkaido-niseko-onsen-powder-snow-yotei-stay"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">北海道・ニセコ温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">極上パウダースノーと羊蹄山ビュー露天・美食リゾートの宿</h3>
             </Link>
             <Link 
-              href="/winter-aomori-asamushi-onsen-mutsu-bay-hotate-stay"
+              href="/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">青森・浅虫温泉</span>

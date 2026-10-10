@@ -551,14 +551,14 @@ export default function YamaguchiShimonosekiWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-yamaguchi-nagato-yumoto-onsen-snow-choshu-chicken-stay"
+              href="/winter-yamaguchi-nagato-yumoto-onsen-fugu-stay"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">山口・長門湯本温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">音信川の冬灯りと長州黒かしわ・開湯六百年美肌恩湯の宿</h3>
             </Link>
             <Link 
-              href="/winter-yamaguchi-hagi-onsen-snow-choshu-beef-stay"
+              href="/winter-yamaguchi-hagi-onsen-fugu-choshu-beef-stay"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">山口・萩温泉郷</span>
@@ -572,14 +572,14 @@ export default function YamaguchiShimonosekiWinterFeature() {
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">神在月参拝と初冬解禁日本海の幸・しまね和牛会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-fukuoka-hakata-onsen-mizutaki-motsunabe-stay"
+              href="/winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">福岡・博多温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">本場水炊き・もつ鍋と天然温泉・冬の屋台めぐりステイ</h3>
             </Link>
             <Link 
-              href="/winter-hyogo-ako-onsen-oyster-inland-sea-sunset-stay"
+              href="/winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">兵庫・赤穂温泉</span>

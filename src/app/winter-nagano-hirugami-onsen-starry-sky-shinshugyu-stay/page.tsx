@@ -577,7 +577,7 @@ export default function NaganoHirugamiOnsenWinterPage() {
               <p className="font-bold text-stone-800 line-clamp-2">諏訪湖の湖畔絶景と信州牛すき焼き・冬の澄んだ空気と名湯めぐり</p>
             </Link>
             <Link 
-              href="/winter-gifu-gero-onsen-bihada-hidagyu-stay" 
+              href="/winter-gifu-gero-onsen-hidagyu-bihada-hanabi-stay" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-indigo-700 font-bold block text-[10px]">岐阜・下呂温泉</span>

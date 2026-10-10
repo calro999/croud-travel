@@ -326,7 +326,7 @@ export default function Page() {
             <li>→ <Link href="/winter-miyagi-matsushima-onsen-kaki-matsushimawan-view-stay" className="text-blue-600 hover:underline">冬の松島・牡蠣と温泉で過ごす宮城の海絶景宿</Link></li>
             <li>→ <Link href="/winter-miyagi-naruko-onsen-yukimi-sendai-beef-stay" className="text-blue-600 hover:underline">冬の鳴子温泉・雪見露天と仙台牛の贅沢湯治旅</Link></li>
             <li>→ <Link href="/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay" className="text-blue-600 hover:underline">冬の秋保温泉・せり鍋と仙台牛で温まる名湯宿</Link></li>
-            <li>→ <Link href="/winter-iwate-hiraizumi-geibikei-wanko-soba-maesawagyu-stay" className="text-blue-600 hover:underline">冬の平泉・世界遺産と前沢牛・わんこそばの岩手旅</Link></li>
+            <li>→ <Link href="/winter-iwate-hiraizumi-chusonji-geibikei-maesawagyu-stay" className="text-blue-600 hover:underline">冬の平泉・世界遺産と前沢牛・わんこそばの岩手旅</Link></li>
             <li>→ <Link href="/winter-yamagata-ginzan-onsen-snow-taisho-stay" className="text-blue-600 hover:underline">冬の銀山温泉・大正ロマン雪見と山形牛の極上旅</Link></li>
           </ul>
         </section>

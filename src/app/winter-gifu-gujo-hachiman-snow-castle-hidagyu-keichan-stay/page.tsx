@@ -593,7 +593,7 @@ export default function GifuGujoHachimanPage() {
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link
-              href="/winter-gifu-hida-takayama-sanmachi-snow-hidagyu-stay"
+              href="/winter-gifu-hida-takayama-onsen-snow-beef-stay"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-cyan-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-cyan-600 block"
             >
               【飛騨高山・さんまち通り】冬の雪景色と名酒蔵巡り・極上飛騨牛名宿

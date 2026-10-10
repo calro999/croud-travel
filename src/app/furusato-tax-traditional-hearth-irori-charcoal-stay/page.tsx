@@ -329,25 +329,25 @@ export default function FurusatoTraditionalHearthIroriStayPage() {
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link
-            href="/furusato-tax-tangible-cultural-property-sukiya-carpenter-ryokan-stay"
+            href="/tangible-cultural-property-sukiya-carpenter-ryokan-stay"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【登録有形文化財・宮大工数寄屋造り旅館×ふるさと納税】木造建築美の宿
           </Link>
           <Link
-            href="/furusato-tax-secret-hot-spring-secluded-onsen-stay"
+            href="/furusato-tax-secret-hotspring-lamp-retreat-stay"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【秘湯を守る会・ランプの宿×ふるさと納税】山奥の隠れ家温泉リトリート
           </Link>
           <Link
-            href="/furusato-tax-local-brand-wagyu-beef-gourmet-stay"
+            href="/furusato-tax-three-great-wagyu-beef-gourmet-stay"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【ブランド和牛食べ比べ温泉宿×ふるさと納税】飛騨牛・米沢牛・阿波牛
           </Link>
           <Link
-            href="/furusato-tax-fire-fireplace-woodstove-autumn-winter-stay"
+            href="/autumn-winter-fireplace-cafe-resort"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【暖炉・薪ストーブのある極上リゾート×ふるさと納税】揺らぐ炎と冬の温泉

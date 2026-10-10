@@ -367,7 +367,7 @@ export default function FurusatoSoloTravelRetreatStayPage() {
   
 
               <li key="furusato-tax-pure-kakenagashi-secret-hotspring-stay">
-                <Link href="/furusato-tax-pure-kakenagashi-secret-hotspring-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                <Link href="/furusato-tax-secret-hotspring-lamp-retreat-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                   <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                   <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【源泉かけ流し秘湯×ふるさと納税】加水・加温なしの本物の湯力を堪能する名宿</span>
                 </Link>
@@ -383,7 +383,7 @@ export default function FurusatoSoloTravelRetreatStayPage() {
   
 
               <li key="furusato-tax-shakyo-meditation-mindfulness-temple-stay">
-                <Link href="/furusato-tax-shakyo-meditation-mindfulness-temple-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                <Link href="/shakyo-meditation-mindfulness-sacred-temple-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                   <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                   <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【写経・座禅体験＆寺院宿坊×ふるさと納税】心と身体のデトックス宿</span>
                 </Link>

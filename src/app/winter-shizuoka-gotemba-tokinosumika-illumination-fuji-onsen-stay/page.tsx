@@ -205,7 +205,7 @@ export default function GotembaTokinosumikaPage() {
               冷たい夜風で冷えた身体を包み込んでくれるのが、敷地内に湧く天然温泉「気楽坊（きらくぼう）」です。日本屈指の浮遊体験ができる高濃度塩分のお風呂「死海風呂」をはじめ、炭酸泉や薬草湯、富士山を望む大露天風呂など、多彩な湯船が揃います。さらに、富士山の伏流水で丁寧に醸造される「御殿場高原ビール」は、フルーティーなヴァイツェンやキレのあるピルスナーなど本場仕込みのクラフトビールが揃い、地元のブランド肉や窯焼き料理とともに味わえば、冬の寒さも一気に幸福感へと変わります。
             </p>
             <p>
-              昼は国内最大級の店舗数を誇る「御殿場プレミアム・アウトレット」で冬のファッションや生活雑貨のショッピングを楽しみ、夕暮れからは富士の裾野でイルミネーションと美食に浸る。都心から車や高速バスで約1時間半という抜群のアクセスも相まって、カップルのデートやファミリーの冬旅行にこれ以上ない充実度を誇ります。周辺には、空気が澄み渡る冬ならではの<Link href="/winter-clear-air-fuji-view-hotels" className="text-amber-600 hover:underline font-bold">富士山ビュー絶景温泉ホテル</Link>や、新春開運祈願で賑わう<Link href="/winter-shizuoka-fujinomiya-taisha-hatsumode-fujisan-view-stay" className="text-amber-600 hover:underline font-bold">富士山本宮浅間大社の初詣</Link>、さらには温暖な海岸線で楽しむ<Link href="/winter-atami-fireworks-ocean-view-stay" className="text-amber-600 hover:underline font-bold">熱海海上冬花火</Link>など、多彩な冬の旅先が揃っています。
+              昼は国内最大級の店舗数を誇る「御殿場プレミアム・アウトレット」で冬のファッションや生活雑貨のショッピングを楽しみ、夕暮れからは富士の裾野でイルミネーションと美食に浸る。都心から車や高速バスで約1時間半という抜群のアクセスも相まって、カップルのデートやファミリーの冬旅行にこれ以上ない充実度を誇ります。周辺には、空気が澄み渡る冬ならではの<Link href="/winter-clear-air-fuji-view-hotels" className="text-amber-600 hover:underline font-bold">富士山ビュー絶景温泉ホテル</Link>や、新春開運祈願で賑わう<Link href="/winter-shizuoka-fujinomiya-sengen-taisha-fuji-view-wagyu-stay" className="text-amber-600 hover:underline font-bold">富士山本宮浅間大社の初詣</Link>、さらには温暖な海岸線で楽しむ<Link href="/winter-atami-fireworks-ocean-view-stay" className="text-amber-600 hover:underline font-bold">熱海海上冬花火</Link>など、多彩な冬の旅先が揃っています。
             </p>
           </div>
 
@@ -750,14 +750,14 @@ export default function GotembaTokinosumikaPage() {
               <ChevronRight className="w-4 h-4 text-slate-400 shrink-0" />
             </Link>
             <Link 
-              href="/winter-shizuoka-fujinomiya-taisha-hatsumode-fujisan-view-stay"
+              href="/winter-shizuoka-fujinomiya-sengen-taisha-fuji-view-wagyu-stay"
               className="p-3 bg-slate-800/80 hover:bg-slate-700/80 rounded-xl border border-slate-700 transition-colors flex items-center justify-between"
             >
               <span>富士山本宮浅間大社新春初詣＆富士宮やきそば・展望名宿</span>
               <ChevronRight className="w-4 h-4 text-slate-400 shrink-0" />
             </Link>
             <Link 
-              href="/winter-shizuoka-hamamatsu-flowerpark-illumination-unagi-stay"
+              href="/winter-shizuoka-gotemba-tokinosumika-illumination-fuji-onsen-stay"
               className="p-3 bg-slate-800/80 hover:bg-slate-700/80 rounded-xl border border-slate-700 transition-colors flex items-center justify-between"
             >
               <span>浜松フラワーパーク光の祭典＆本場浜名湖うなぎ・舘山寺温泉名宿</span>

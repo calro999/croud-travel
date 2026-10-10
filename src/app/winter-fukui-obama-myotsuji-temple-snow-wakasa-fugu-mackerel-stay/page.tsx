@@ -780,7 +780,7 @@ export default function Page() {
                 </Link>
               </li>
               <li>
-                <Link href="/winter-kyoto-amanohashidate-ine-funaya-winter-burishabu-stay" className="hover:underline flex items-center gap-1">
+                <Link href="/winter-kyoto-tango-amanohashidate-ine-funaya-taizagani-kanburi-stay" className="hover:underline flex items-center gap-1">
                   <span>→</span>
                   <span>【京都】天橋立＆伊根の舟屋雪景色と冬の寒ブリしゃぶ名宿5選</span>
                 </Link>

@@ -701,7 +701,7 @@ export default function AomoriAjigasawaFukauraWinterPage() {
               <p className="font-bold text-stone-800 line-clamp-2">津軽の熱の湯と陸奥湾の冬マグロ・津軽三味線が響く老舗宿</p>
             </Link>
             <Link 
-              href="/winter-akita-oga-peninsula-namahage-nyudozaki-stay" 
+              href="/akita-oga-peninsula-namahage-nyudozaki-stay" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">秋田・男鹿半島</span>

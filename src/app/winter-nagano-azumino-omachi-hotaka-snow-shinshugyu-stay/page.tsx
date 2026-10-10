@@ -542,7 +542,7 @@ export default function NaganoAzuminoOmachiPage() {
             <Link href="/winter-nagano-karuizawa-hoshino-illumination-tonbonoyu-shinshugyu-stay" className="p-3 bg-white rounded-xl hover:text-emerald-700 shadow-xs transition">
               ✨ 軽井沢星野イルミネーション＆トンボの湯リゾートステイ
             </Link>
-            <Link href="/campaigns/autumn-gourmet-travel" className="p-3 bg-white rounded-xl hover:text-emerald-700 shadow-xs transition">
+            <Link href="/campaigns" className="p-3 bg-white rounded-xl hover:text-emerald-700 shadow-xs transition">
               🍁 全国の旬の味覚＆極上温泉宿特集まとめ
             </Link>
           </div>

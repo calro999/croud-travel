@@ -329,13 +329,13 @@ export default function FurusatoCaveBathNaturalGrottoStayPage() {
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link
-            href="/furusato-tax-ocean-view-infinity-bath-luxury-stay"
+            href="/infinity-open-air-bath-ocean-view-stay"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【海一望インフィニティ温泉×ふるさと納税】波打ち際と水平線に溶け込む宿
           </Link>
           <Link
-            href="/furusato-tax-pure-100-percent-kakenagashi-onsen-stay"
+            href="/pure-100-percent-kakenagashi-onsen-stay"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【源泉かけ流し100％名湯×ふるさと納税】加水加温なしの本物の温泉宿
@@ -347,7 +347,7 @@ export default function FurusatoCaveBathNaturalGrottoStayPage() {
             ▸ 【ラジウム・ラドン名湯温泉湯治×ふるさと納税】三朝・猿投・村杉の名宿
           </Link>
           <Link
-            href="/furusato-tax-world-heritage-historic-site-luxury-stay"
+            href="/furusato-tax-literary-heritage-historic-onsen-stay"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【世界遺産と名所を巡る名門宿×ふるさと納税】熊野・白川郷・日光の旅

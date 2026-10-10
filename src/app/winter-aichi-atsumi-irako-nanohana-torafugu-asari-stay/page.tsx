@@ -617,7 +617,7 @@ export default function AichiAtsumiIrakoWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">
             <Link 
-              href="/winter-shizuoka-hamamatsu-hamanako-fugu-eel-stay"
+              href="/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-amber-400 block mb-1">浜名湖冬特集</span>

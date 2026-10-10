@@ -542,7 +542,7 @@ export default function FukuiEchizenCoastPage() {
             <Link href="/winter-tottori-daisen-kaike-onsen-matsubagani-snow-stay" className="p-3 bg-white rounded-xl hover:text-amber-700 shadow-xs transition">
               🏔️ 伯耆大山雪景色＆皆生温泉・松葉ガニ名宿
             </Link>
-            <Link href="/campaigns/autumn-gourmet-travel" className="p-3 bg-white rounded-xl hover:text-amber-700 shadow-xs transition">
+            <Link href="/campaigns" className="p-3 bg-white rounded-xl hover:text-amber-700 shadow-xs transition">
               🍁 全国の旬の味覚＆極上温泉宿特集まとめ
             </Link>
           </div>

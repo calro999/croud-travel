@@ -592,7 +592,7 @@ export default function MiyazakiAoshimaWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-ibusuki-onsen-sand-bath-stay"
+              href="/ibusuki-vs-kirishima-which-stay"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">鹿児島・指宿温泉</span>

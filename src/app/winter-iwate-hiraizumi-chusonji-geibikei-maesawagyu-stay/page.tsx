@@ -629,7 +629,7 @@ export default function IwateHiraizumiGeibikeiPage() {
             </Link>
 
             <Link 
-              href="/winter-miyagi-kesennuma-mekajiki-fuyu-onsen-stay" 
+              href="/winter-miyagi-kesennuma-minamisanriku-mekajiki-ikuradon-stay" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">宮城・気仙沼</span>
@@ -649,7 +649,7 @@ export default function IwateHiraizumiGeibikeiPage() {
             </Link>
 
             <Link 
-              href="/winter-fukushima-aizu-ouchijuku-snow-negi-soba-stay" 
+              href="/winter-fukushima-aizu-ouchijuku-yunokami-ashinomaki-stay" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">福島・会津大内宿</span>

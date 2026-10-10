@@ -551,14 +551,14 @@ export default function OkayamaYubaraWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-tottori-misasa-onsen-snow-radium-matsuba-crab-stay"
+              href="/winter-tottori-misasa-onsen-matsuba-crab-stay"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">鳥取・三朝温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">高濃度ラジウム泉と11月解禁松葉ガニ・初冬の河原風呂の宿</h3>
             </Link>
             <Link 
-              href="/winter-shimane-tamatsukuri-onsen-cosmetic-water-matsuba-crab-stay"
+              href="/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">島根・玉造温泉</span>
@@ -572,7 +572,7 @@ export default function OkayamaYubaraWinterFeature() {
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">本場とらふぐ解禁美食と元祖瓦そば・開湯八百年ラジウム泉の宿</h3>
             </Link>
             <Link 
-              href="/winter-hyogo-kinosaki-onsen-snow-7-baths-matsuba-crab-stay"
+              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">兵庫・城崎温泉</span>
@@ -586,7 +586,7 @@ export default function OkayamaYubaraWinterFeature() {
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">初冬びわ湖景観と開湯千二百年美肌霊泉・特選近江牛の宿</h3>
             </Link>
             <Link 
-              href="/winter-ehime-dogo-onsen-snow-botan-taimeshi-stay"
+              href="/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">愛媛・道後温泉</span>

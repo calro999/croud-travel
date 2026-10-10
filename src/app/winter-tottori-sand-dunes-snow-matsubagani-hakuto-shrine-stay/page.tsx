@@ -205,7 +205,7 @@ export default function TottoriSandDunesPage() {
               砂丘から海岸沿いに西へ車を走らせると、白波打ち寄せる白兎海岸の丘の上に鎮座する「白兎神社（はくとじんじゃ）」に到着します。日本神話『因幡の白兎』で知られ、大国主命に助けられた白兎が八上姫との婚姻を予言したという物語から、日本最古のラブストーリーの舞台・最強の縁結びパワースポットとして全国から参拝客を集めます。新春には「結び石」と呼ばれる白い小石を鳥居の上や境内のウサギの像に奉納し、良縁や健康、家内安全を祈願する人々の温かい祈りに包まれます。
             </p>
             <p>
-              そして、冬の鳥取旅の真骨頂といえば、11月上旬に解禁される山陰の味覚の王者「松葉ガニ（ズワイガニ）」です。冷たい日本海の深海で育った松葉ガニは、引き締まった身の甘みと、濃厚でコクのあるカニ味噌が別格。香ばしい焼きガニ、プリプリのカニ刺し、熱々のカニすき鍋、そしてカニ味噌に地酒を注いで温める甲羅酒は、旅の記憶に一生刻まれる極上の口福です。さらに市街地中心部に湧き出る開湯120年の「鳥取温泉」に浸かれば、冬の寒さも心地よい温もりへと昇華されます。山陰の冬旅では、世界屈指のラドン含有量を誇る名湯<Link href="/winter-tottori-misasa-onsen-radon-matsubagani-stay" className="text-amber-600 hover:underline font-bold">三朝温泉の松葉ガニ宿</Link>や、海沿いの美肌湯<Link href="/winter-tottori-kaike-onsen-matsuba-crab-daisen-stay" className="text-amber-600 hover:underline font-bold">皆生温泉と大山雪景色</Link>、さらには新春の神話の都<Link href="/winter-shimane-izumo-taisha-kamiarizuki-shimane-wagyu-stay" className="text-amber-600 hover:underline font-bold">出雲大社としまね和牛</Link>、砂像アートが輝く<Link href="/furusato-tax-tottori-dune-sand-museum-stay" className="text-amber-600 hover:underline font-bold">鳥取砂丘と砂の美術館</Link>など、冬の日本海ならではの美食と温泉を満喫する周遊コースも大人気です。
+              そして、冬の鳥取旅の真骨頂といえば、11月上旬に解禁される山陰の味覚の王者「松葉ガニ（ズワイガニ）」です。冷たい日本海の深海で育った松葉ガニは、引き締まった身の甘みと、濃厚でコクのあるカニ味噌が別格。香ばしい焼きガニ、プリプリのカニ刺し、熱々のカニすき鍋、そしてカニ味噌に地酒を注いで温める甲羅酒は、旅の記憶に一生刻まれる極上の口福です。さらに市街地中心部に湧き出る開湯120年の「鳥取温泉」に浸かれば、冬の寒さも心地よい温もりへと昇華されます。山陰の冬旅では、世界屈指のラドン含有量を誇る名湯<Link href="/winter-tottori-daisen-kaike-onsen-matsubagani-snow-stay" className="text-amber-600 hover:underline font-bold">三朝温泉の松葉ガニ宿</Link>や、海沿いの美肌湯<Link href="/winter-tottori-daisen-kaike-onsen-matsubagani-snow-stay" className="text-amber-600 hover:underline font-bold">皆生温泉と大山雪景色</Link>、さらには新春の神話の都<Link href="/winter-shimane-izumo-taisha-kamiarizuki-shimane-wagyu-stay" className="text-amber-600 hover:underline font-bold">出雲大社としまね和牛</Link>、砂像アートが輝く<Link href="/furusato-tax-tottori-dune-sand-museum-stay" className="text-amber-600 hover:underline font-bold">鳥取砂丘と砂の美術館</Link>など、冬の日本海ならではの美食と温泉を満喫する周遊コースも大人気です。
             </p>
           </div>
 
@@ -743,14 +743,14 @@ export default function TottoriSandDunesPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs sm:text-sm">
             <Link 
-              href="/winter-tottori-misasa-onsen-radon-matsubagani-stay"
+              href="/winter-tottori-daisen-kaike-onsen-matsubagani-snow-stay"
               className="p-3 bg-slate-800/80 hover:bg-slate-700/80 rounded-xl border border-slate-700 transition-colors flex items-center justify-between"
             >
               <span>三朝温泉世界屈指のラドン熱泉＆松葉ガニ三昧・免疫向上名宿</span>
               <ChevronRight className="w-4 h-4 text-slate-400 shrink-0" />
             </Link>
             <Link 
-              href="/winter-tottori-kaike-onsen-matsuba-crab-daisen-stay"
+              href="/winter-tottori-daisen-kaike-onsen-matsubagani-snow-stay"
               className="p-3 bg-slate-800/80 hover:bg-slate-700/80 rounded-xl border border-slate-700 transition-colors flex items-center justify-between"
             >
               <span>皆生温泉美肌の塩化物泉＆伯耆大山雪景色・松葉ガニ会席名宿</span>

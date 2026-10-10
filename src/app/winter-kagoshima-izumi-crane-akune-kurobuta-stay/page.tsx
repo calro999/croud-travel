@@ -542,7 +542,7 @@ export default function KagoshimaIzumiAkunePage() {
             <Link href="/winter-kumamoto-kurokawa-onsen-yuakari-stay" className="p-3 bg-white rounded-xl hover:text-rose-700 shadow-xs transition">
               🏮 黒川温泉湯あかり！竹灯籠イルミネーションと露天巡り
             </Link>
-            <Link href="/campaigns/autumn-gourmet-travel" className="p-3 bg-white rounded-xl hover:text-rose-700 shadow-xs transition">
+            <Link href="/campaigns" className="p-3 bg-white rounded-xl hover:text-rose-700 shadow-xs transition">
               🍁 全国の旬の味覚＆極上温泉宿特集まとめ
             </Link>
           </div>

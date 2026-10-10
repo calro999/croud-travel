@@ -591,7 +591,7 @@ export default function IbarakiMitoKasamaPage() {
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link
-              href="/winter-ibaraki-fukuroda-ice-waterfall-daigo-onsen-hitachi-beef-stay"
+              href="/winter-ibaraki-fukuroda-waterfall-ice-onsen-shamo-stay"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-amber-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-amber-600 block"
             >
               【袋田の滝・大子温泉】冬の氷瀑絶景と常陸牛・奥久慈軍鶏名宿

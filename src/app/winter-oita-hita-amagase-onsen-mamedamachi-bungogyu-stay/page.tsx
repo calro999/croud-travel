@@ -687,7 +687,7 @@ export default function OitaHitaAmagaseWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-oita-sujiyu-onsen-kuju-bungo-beef-stay"
+              href="/winter-oita-sujiyu-onsen-kuju-snow-bungo-beef-stay"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-300 bg-teal-400/20 px-2 py-0.5 rounded-full inline-block">大分・九重筋湯</span>
@@ -700,7 +700,7 @@ export default function OitaHitaAmagaseWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-kumamoto-tsuetate-waita-onsen-steam-akagyu-stay"
+              href="/winter-kumamoto-tsuetate-waita-onsen-steaming-higogyu-stay"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-300 bg-teal-400/20 px-2 py-0.5 rounded-full inline-block">熊本・杖立わいた</span>

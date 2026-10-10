@@ -542,7 +542,7 @@ export default function KagawaZentsujiMarugamePage() {
             <Link href="/winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay" className="p-3 bg-white rounded-xl hover:text-orange-700 shadow-xs transition">
               🌀 鳴門温泉＆渦潮！冬の鳴門鯛と絶景リゾート
             </Link>
-            <Link href="/campaigns/autumn-gourmet-travel" className="p-3 bg-white rounded-xl hover:text-orange-700 shadow-xs transition">
+            <Link href="/campaigns" className="p-3 bg-white rounded-xl hover:text-orange-700 shadow-xs transition">
               🍁 全国の旬の味覚＆極上温泉宿特集まとめ
             </Link>
           </div>

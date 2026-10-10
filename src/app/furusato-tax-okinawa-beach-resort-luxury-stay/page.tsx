@@ -335,7 +335,7 @@ export default function FurusatoOkinawaBeachResortStayPage() {
             ▸ 【一年中泳げる室内温水プール宿×ふるさと納税】那須・草津・別府リゾート
           </Link>
           <Link
-            href="/furusato-tax-ocean-view-infinity-bath-luxury-stay"
+            href="/infinity-open-air-bath-ocean-view-stay"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【海一望インフィニティ温泉×ふるさと納税】波打ち際と水平線に溶け込む宿

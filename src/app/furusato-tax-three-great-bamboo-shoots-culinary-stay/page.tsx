@@ -365,7 +365,7 @@ export default function FurusatoRound66ArticlePage() {
     
 
               <li key="furusato-tax-three-great-vegetable-kingdoms-stay">
-                <Link href="/furusato-tax-three-great-vegetable-kingdoms-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                <Link href="/furusato-tax-three-great-citrus-kingdoms-resort-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                   <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                   <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大高原野菜＆採れたて野菜オーベルジュ宿</span>
                 </Link>

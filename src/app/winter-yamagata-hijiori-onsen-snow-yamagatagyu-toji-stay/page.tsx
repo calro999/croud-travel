@@ -574,7 +574,7 @@ export default function YamagataHijioriOnsenWinterPage() {
               <p className="font-bold text-stone-800 line-clamp-2">幻想の樹氷ライトアップと強酸性美肌硫黄泉・極上山形牛を味わう名宿</p>
             </Link>
             <Link 
-              href="/winter-yamagata-ginzan-onsen-snow-taisho-romantic-stay" 
+              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">山形・銀山温泉</span>

@@ -581,7 +581,7 @@ export default function IwateSanrikuMiyakoWinterPage() {
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
               <Link
-                href="/winter-iwate-morioka-tsunagi-wagyu-stay"
+                href="/winter-iwate-morioka-tsunagi-onsen-hatsumode-wagyu-stay"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-amber-400 text-xs font-bold block mb-1">岩手特集</span>
@@ -589,7 +589,7 @@ export default function IwateSanrikuMiyakoWinterPage() {
                 <span className="text-xs text-slate-300">盛岡の奥座敷・繋温泉の源泉と名牛ステーキ…</span>
               </Link>
               <Link
-                href="/winter-iwate-hiraizumi-geibikei-maesawagyu-stay"
+                href="/winter-iwate-hiraizumi-chusonji-geibikei-maesawagyu-stay"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-emerald-400 text-xs font-bold block mb-1">岩手特集</span>
@@ -605,7 +605,7 @@ export default function IwateSanrikuMiyakoWinterPage() {
                 <span className="text-xs text-slate-300">三陸北端の港町八戸の絶品銀サバと朝市…</span>
               </Link>
               <Link
-                href="/winter-miyagi-kesennuma-mekajiki-stay"
+                href="/winter-miyagi-kesennuma-minamisanriku-mekajiki-ikuradon-stay"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-rose-400 text-xs font-bold block mb-1">宮城特集</span>

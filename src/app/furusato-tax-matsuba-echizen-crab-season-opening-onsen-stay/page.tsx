@@ -393,7 +393,7 @@ export default function FurusatoMatsubaEchizenCrabSeasonStayPage() {
 
             <li key="furusato-tax-pure-kakenagashi-secret-hotspring-stay">
               <Link
-                href="/furusato-tax-pure-kakenagashi-secret-hotspring-stay"
+                href="/furusato-tax-secret-hotspring-lamp-retreat-stay"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>

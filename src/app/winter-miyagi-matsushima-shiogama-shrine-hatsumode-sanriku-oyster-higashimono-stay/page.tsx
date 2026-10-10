@@ -665,7 +665,7 @@ export default function MiyagiMatsushimaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-iwate-sanriku-miyako-jodogahama-hatsumode-donguri-oyster-stay"
+              href="/winter-iwate-sanriku-miyako-jodogahama-kegani-stay"
               className="p-4 rounded-xl border border-slate-200 hover:border-cyan-400 hover:bg-cyan-50/30 transition block space-y-1"
             >
               <span className="font-bold text-cyan-950 block">【岩手】三陸宮古・浄土ヶ浜冬景色と三陸毛ガニ・名湯名宿</span>

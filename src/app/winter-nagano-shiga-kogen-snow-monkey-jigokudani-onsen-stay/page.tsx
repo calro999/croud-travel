@@ -196,7 +196,7 @@ export default function ShigaKogenSnowMonkeyPage() {
 
           <div className="space-y-5 text-sm sm:text-base text-slate-700 leading-relaxed">
             <p>
-              長野県北東部、上信越高原国立公園の中核をなす山ノ内町。冬になると日本海からの湿った季節風が志賀連峰にぶつかり、標高1,500mから2,300mに及ぶ高原地帯には、湿り気のないサラサラとした世界最高水準の「プラチナパウダースノー」が降り積もります。全18ものスキー場が連結し、単一のリゾートエリアとしては日本最大規模を誇る志賀高原は、パウダースノーを愛するスキーヤー・スノーボーダーにとって紛れもない冬の聖地です。信州の冬旅では、門前町が賑わう<Link href="/winter-nagano-zenkoji-hatsumode-soba-onsen-stay" className="text-blue-600 hover:underline font-bold">長野・善光寺の初詣</Link>や、隣接する<Link href="/winter-nagano-obuse-shibu-onsen-shinshugyu-apple-stay" className="text-blue-600 hover:underline font-bold">小布施の栗と渋温泉</Link>、さらには歴史ある<Link href="/nagano-nozawa-solo-retreat-onsen-stay" className="text-blue-600 hover:underline font-bold">野沢温泉の外湯めぐり</Link>と組み合わせた周遊ルートも絶大な人気を集めています。
+              長野県北東部、上信越高原国立公園の中核をなす山ノ内町。冬になると日本海からの湿った季節風が志賀連峰にぶつかり、標高1,500mから2,300mに及ぶ高原地帯には、湿り気のないサラサラとした世界最高水準の「プラチナパウダースノー」が降り積もります。全18ものスキー場が連結し、単一のリゾートエリアとしては日本最大規模を誇る志賀高原は、パウダースノーを愛するスキーヤー・スノーボーダーにとって紛れもない冬の聖地です。信州の冬旅では、門前町が賑わう<Link href="/winter-nagano-togakushi-zenkoji-hatsumode-snow-soba-beef-stay" className="text-blue-600 hover:underline font-bold">長野・善光寺の初詣</Link>や、隣接する<Link href="/winter-nagano-obuse-shibu-onsen-shinshugyu-apple-stay" className="text-blue-600 hover:underline font-bold">小布施の栗と渋温泉</Link>、さらには歴史ある<Link href="/nagano-nozawa-solo-retreat-onsen-stay" className="text-blue-600 hover:underline font-bold">野沢温泉の外湯めぐり</Link>と組み合わせた周遊ルートも絶大な人気を集めています。
             </p>
             <p>
               その志賀高原の麓、横湯川の険しい渓谷沿いに位置するのが世界的に知られる「地獄谷野猿公苑（Jigokudani Monkey Park）。」です。冬の厳しい寒さと豪雪を耐え抜くため、野生のニホンザルが天然露天風呂に肩まで浸かって目を細める姿は、米TIME誌の表紙を飾るなど地球上で唯一無二の絶景として知られます。頭の上に雪を積もらせながら仲間同士で身を寄せ合い、湯煙の中で温まる愛らしい姿は、厳しい自然の中で生きる生命の温もりを直に感じさせてくれます。
@@ -740,7 +740,7 @@ export default function ShigaKogenSnowMonkeyPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs sm:text-sm">
             <Link 
-              href="/winter-nagano-zenkoji-hatsumode-soba-onsen-stay"
+              href="/winter-nagano-togakushi-zenkoji-hatsumode-snow-soba-beef-stay"
               className="p-3 bg-slate-800/80 hover:bg-slate-700/80 rounded-xl border border-slate-700 transition-colors flex items-center justify-between"
             >
               <span>長野・善光寺新春初詣＆戸隠そば・信州温泉名宿</span>

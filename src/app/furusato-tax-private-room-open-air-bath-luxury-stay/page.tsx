@@ -383,7 +383,7 @@ export default function FurusatoPrivateRoomOpenAirStayPage() {
   
 
               <li key="furusato-tax-onsen-couple-private-luxury-stay">
-                <Link href="/furusato-tax-onsen-couple-private-luxury-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                <Link href="/furusato-tax-gora-onsen-private-roten-luxury-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                   <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                   <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【夫婦・カップル温泉旅行×ふるさと納税】貸切風呂と極上ステイ完全ガイド</span>
                 </Link>

@@ -341,7 +341,7 @@ export default function FurusatoNoboribetsuJigokudaniStayPage() {
             ▸ 【由布院温泉＆金鱗湖名門宿×ふるさと納税】花由・秀峰館・梅園
           </Link>
           <Link
-            href="/furusato-tax-pure-100-percent-kakenagashi-onsen-stay"
+            href="/pure-100-percent-kakenagashi-onsen-stay"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【源泉かけ流し100％名湯×ふるさと納税】加水加温なしの本物の温泉宿

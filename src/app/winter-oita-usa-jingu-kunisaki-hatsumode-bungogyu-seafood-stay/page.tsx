@@ -602,7 +602,7 @@ export default function OitaUsaKunisakiPage() {
               【別府・鉄輪温泉】冬の立ち上る湯煙と地獄蒸し・豊後牛名宿
             </Link>
             <Link
-              href="/winter-fukuoka-dazaifu-tenmangu-futsukaichi-onsen-hakata-wagyu-stay"
+              href="/winter-fukuoka-dazaifu-tenmangu-hatsumode-futsukaichi-beef-stay"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-emerald-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-emerald-600 block"
             >
               【太宰府天満宮＆二日市温泉】飛梅と新春初詣・博多和牛名宿
@@ -614,7 +614,7 @@ export default function OitaUsaKunisakiPage() {
               【佐賀・太良＆祐徳稲荷】冬の竹崎カニと三大稲荷初詣・美肌温泉名宿
             </Link>
             <Link
-              href="/winter-kumamoto-kurokawa-onsen-yuakari-snow-stay"
+              href="/winter-kumamoto-kurokawa-onsen-yuakari-stay"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-emerald-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-emerald-600 block"
             >
               【黒川温泉】冬の竹あかり幻想露天風呂とあか牛・入湯手形名宿

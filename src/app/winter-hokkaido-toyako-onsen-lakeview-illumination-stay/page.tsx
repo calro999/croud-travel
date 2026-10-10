@@ -551,35 +551,35 @@ export default function HokkaidoToyakoWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-hokkaido-noboribetsu-onsen-snow-crab-stay"
+              href="/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">北海道・登別温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">地獄谷の雪景色と九種の多彩な泉質・冬蟹食べ放題の宿</h3>
             </Link>
             <Link 
-              href="/winter-hokkaido-jozankei-onsen-snow-gourmet-stay"
+              href="/winter-hokkaido-jozankei-onsen-snow-keikoku-stay"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">北海道・定山渓温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">雪灯路の幻想美と豊平川雪見露天・札幌奥座敷の名旅館</h3>
             </Link>
             <Link 
-              href="/winter-hokkaido-hakodate-yunokawa-onsen-snow-monkeys-squid-stay"
+              href="/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">北海道・湯の川温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">函館山雪夜景と津軽海峡活イカ・温泉サルに癒やされる宿</h3>
             </Link>
             <Link 
-              href="/winter-hokkaido-niseko-onsen-powder-snow-luxury-stay"
+              href="/winter-hokkaido-niseko-onsen-powder-snow-yotei-stay"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">北海道・ニセコ温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">パウダースノーと源泉掛け流し・羊蹄山を望む最高峰リゾート</h3>
             </Link>
             <Link 
-              href="/winter-aomori-oirase-keiryu-onsen-frozen-waterfall-stay"
+              href="/winter-aomori-oirase-hakkoda-onsen-frozen-waterfall-stay"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">青森・奥入瀬渓流温泉</span>

@@ -400,7 +400,7 @@ export default function Page() {
             </Link>
             <Link
               key="2"
-              href="/furusato-tax-three-great-bridges-riverside-stay"
+              href="/furusato-tax-three-great-fireworks-riverside-stay"
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>

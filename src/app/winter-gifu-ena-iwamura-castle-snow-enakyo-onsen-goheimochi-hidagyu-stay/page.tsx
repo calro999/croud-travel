@@ -783,7 +783,7 @@ export default function Page() {
                 </Link>
               </li>
               <li>
-                <Link href="/winter-nagano-kiso-valley-magome-tsumago-snow-soba-stay" className="hover:underline flex items-center gap-1">
+                <Link href="/winter-nagano-kisoji-narai-tsumago-snow-toujisoba-stay" className="hover:underline flex items-center gap-1">
                   <span>→</span>
                   <span>【長野】木曽路馬籠・妻籠宿の雪景色と信州そば名宿5選</span>
                 </Link>

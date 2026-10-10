@@ -88,7 +88,7 @@ export default async function FeaturesPage() {
           </p>
         </div>
         <Link
-          href="/campaigns/autumn-gourmet-travel"
+          href="/campaigns"
           className="w-full md:w-auto px-8 py-4 bg-white text-amber-900 hover:bg-amber-50 font-black text-xs md:text-sm rounded-2xl shadow-md transition text-center whitespace-nowrap"
         >
           秋の味覚 35選まとめを見る →

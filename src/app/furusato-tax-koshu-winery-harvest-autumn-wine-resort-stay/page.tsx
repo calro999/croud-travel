@@ -393,7 +393,7 @@ export default function FurusatoKoshuWineryHarvestStayPage() {
 
             <li key="furusato-tax-french-italian-auberge-luxury-stay">
               <Link
-                href="/furusato-tax-french-italian-auberge-luxury-stay"
+                href="/furusato-tax-highland-resort-french-auberge-stay"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>

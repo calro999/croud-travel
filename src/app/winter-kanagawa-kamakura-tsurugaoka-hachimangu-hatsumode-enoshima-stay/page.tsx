@@ -205,7 +205,7 @@ export default function KamakuraTsurugaokaPage() {
               小町通りで温かい湯気が立ち上る焼きたてのお団子や鎌倉コロッケを味わい、江ノ電に乗り込んで湘南海岸へ。海沿いのカーブを抜ける車窓には、冬の澄んだ水平線の向こうに雪化粧した富士山の秀麗なシルエットが浮かび上がります。
             </p>
             <p>
-              そして夕暮れ、江の島へ渡れば、関東三大イルミネーションとして名高い「湘南の宝石」の幕開けです。江の島シーキャンドル（展望灯台）を中心に島全体がクリスタルビーズと最高峰のイルミネーションに包まれ、頭上から降り注ぐ光のシャンデリアと、足元に広がる相模湾の夜景パノラマが融合。歴史ある古都の厳粛な祈りと、最先端の光のエンターテインメントが織りなす冬のコントラストは、この地ならではの唯一無二の贅沢です。神奈川・首都圏の冬旅では、湖畔に鳥居が映える<Link href="/winter-kanagawa-hakone-jinja-hatsumode-ashinoko-fujisan-stay" className="text-rose-600 hover:underline font-bold">箱根神社・九頭龍神社の初詣</Link>や、厄除けで名高い<Link href="/winter-kanagawa-kawasaki-daishi-hatsumode-kuzumochi-onsen-stay" className="text-rose-600 hover:underline font-bold">川崎大師の初詣</Link>、華やかな夜景が広がる<Link href="/winter-kanagawa-yokohama-minatomirai-illumination-chinatown-stay" className="text-rose-600 hover:underline font-bold">横浜みなとみらいのイルミネーション</Link>と組み合わせた湘南・神奈川周遊も大変おすすめです。
+              そして夕暮れ、江の島へ渡れば、関東三大イルミネーションとして名高い「湘南の宝石」の幕開けです。江の島シーキャンドル（展望灯台）を中心に島全体がクリスタルビーズと最高峰のイルミネーションに包まれ、頭上から降り注ぐ光のシャンデリアと、足元に広がる相模湾の夜景パノラマが融合。歴史ある古都の厳粛な祈りと、最先端の光のエンターテインメントが織りなす冬のコントラストは、この地ならではの唯一無二の贅沢です。神奈川・首都圏の冬旅では、湖畔に鳥居が映える<Link href="/winter-kanagawa-hakone-yumoto-ashinoko-shrine-fuji-stay" className="text-rose-600 hover:underline font-bold">箱根神社・九頭龍神社の初詣</Link>や、厄除けで名高い<Link href="/winter-kanagawa-kawasaki-daishi-hatsumode-factory-nightview-haneda-onsen-stay" className="text-rose-600 hover:underline font-bold">川崎大師の初詣</Link>、華やかな夜景が広がる<Link href="/winter-kanagawa-yokohama-minatomirai-illumination-chinatown-stay" className="text-rose-600 hover:underline font-bold">横浜みなとみらいのイルミネーション</Link>と組み合わせた湘南・神奈川周遊も大変おすすめです。
             </p>
           </div>
 
@@ -743,14 +743,14 @@ export default function KamakuraTsurugaokaPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs sm:text-sm">
             <Link 
-              href="/winter-kanagawa-hakone-jinja-hatsumode-ashinoko-fujisan-stay"
+              href="/winter-kanagawa-hakone-yumoto-ashinoko-shrine-fuji-stay"
               className="p-3 bg-slate-800/80 hover:bg-slate-700/80 rounded-xl border border-slate-700 transition-colors flex items-center justify-between"
             >
               <span>箱根神社・九頭龍神社新春初詣＆芦ノ湖雪景色・名湯名宿</span>
               <ChevronRight className="w-4 h-4 text-slate-400 shrink-0" />
             </Link>
             <Link 
-              href="/winter-kanagawa-kawasaki-daishi-hatsumode-kuzumochi-onsen-stay"
+              href="/winter-kanagawa-kawasaki-daishi-hatsumode-factory-nightview-haneda-onsen-stay"
               className="p-3 bg-slate-800/80 hover:bg-slate-700/80 rounded-xl border border-slate-700 transition-colors flex items-center justify-between"
             >
               <span>川崎大師（平間寺）厄除け初詣＆名物久寿餅・黒湯温泉名宿</span>

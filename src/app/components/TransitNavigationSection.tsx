@@ -226,22 +226,22 @@ export default function TransitNavigationSection() {
   const currentHub = TRANSIT_HUBS_BY_ORIGIN[activeTab] || TRANSIT_HUBS_BY_ORIGIN.tokyo;
 
   return (
-    <section className="bg-gradient-to-br from-slate-900 via-sky-950 to-indigo-950 text-white rounded-3xl p-6 md:p-10 shadow-2xl border border-white/10 space-y-6">
+    <section className="bg-gradient-to-br from-slate-50 via-teal-50/40 to-sky-50 text-slate-900 rounded-3xl p-6 md:p-10 shadow-lg border border-teal-900/10 space-y-6">
       {/* 見出し */}
-      <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 border-b border-white/10 pb-5">
+      <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 border-b border-teal-900/10 pb-5">
         <div className="space-y-1.5">
           <div className="flex items-center gap-2">
-            <span className="text-[10px] md:text-xs font-black tracking-widest bg-gradient-to-r from-amber-400 to-orange-400 text-slate-950 px-3 py-0.5 rounded-full uppercase">
+            <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-500 text-white px-3 py-0.5 rounded-full uppercase shadow-xs">
               SMART TRANSIT & COST COMPARISON
             </span>
-            <span className="text-xs text-cyan-300 font-bold hidden sm:inline">
+            <span className="text-xs text-teal-800 font-extrabold hidden sm:inline">
               交通費を浮かせて宿をランクアップ！
             </span>
           </div>
-          <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-white tracking-tight flex items-center gap-2.5">
+          <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-slate-900 tracking-tight flex items-center gap-2.5">
             <span>🚅</span> <span>新幹線 vs 高速バス 安く行く方法＆1泊2日モデルコース</span>
           </h2>
-          <p className="text-xs md:text-sm text-cyan-100/80 leading-relaxed font-medium">
+          <p className="text-xs md:text-sm text-slate-600 leading-relaxed font-medium">
             「新幹線と高速バス、どっちが安い？」「乗り換えなしで行く方法は？」移動費を1万円以上節約して、現地の美味しいグルメや温泉宿を贅沢にするスマートな旅の意思決定ガイド。
           </p>
         </div>
@@ -250,7 +250,7 @@ export default function TransitNavigationSection() {
           href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2F"
           target="_blank"
           rel="noopener noreferrer"
-          className="self-start md:self-auto px-5 py-2.5 bg-gradient-to-r from-amber-500 to-orange-600 hover:from-amber-400 hover:to-orange-500 text-white font-black text-xs rounded-xl shadow-md transition flex items-center gap-1.5 whitespace-nowrap"
+          className="self-start md:self-auto px-5 py-2.5 bg-gradient-to-r from-amber-500 to-orange-500 hover:from-amber-600 hover:to-orange-600 text-white font-black text-xs rounded-xl shadow-md transition flex items-center gap-1.5 whitespace-nowrap"
         >
           <span>🎫</span>
           <span>楽天トラベル 高速バスクーポン</span>
@@ -266,10 +266,10 @@ export default function TransitNavigationSection() {
             <button
               key={key}
               onClick={() => setActiveTab(key)}
-              className={`px-5 py-2.5 rounded-2xl text-xs md:text-sm font-black transition duration-200 flex items-center gap-2 border ${
+              className={`px-5 py-2.5 rounded-2xl text-xs md:text-sm font-black transition duration-200 flex items-center gap-2 border shadow-xs ${
                 isActive
-                  ? "bg-gradient-to-r from-cyan-500 to-blue-600 text-white border-cyan-400 shadow-lg scale-105"
-                  : "bg-white/5 hover:bg-white/10 text-slate-300 border-white/10"
+                  ? "bg-teal-800 text-white border-teal-900 shadow-md scale-105"
+                  : "bg-white hover:bg-teal-50 text-slate-700 border-slate-200"
               }`}
             >
               <span>{data.icon}</span>
@@ -285,11 +285,11 @@ export default function TransitNavigationSection() {
           <Link
             key={item.slug}
             href={`/${item.slug}`}
-            className="group block p-5 rounded-2xl bg-white/5 hover:bg-white/10 border border-white/10 hover:border-cyan-400/60 transition duration-200 space-y-3 relative overflow-hidden"
+            className="group block p-5 rounded-2xl bg-white hover:bg-slate-50/80 border border-slate-200/90 hover:border-teal-500 shadow-sm hover:shadow-md transition duration-200 space-y-3 relative overflow-hidden"
           >
             {/* 上部バッジ＆区間 */}
             <div className="flex items-center justify-between text-[11px]">
-              <span className="font-extrabold text-cyan-300 bg-cyan-950/90 px-2.5 py-0.5 rounded border border-cyan-700/60">
+              <span className="font-extrabold text-teal-800 bg-teal-50 px-2.5 py-0.5 rounded border border-teal-200">
                 📍 {item.fromTo}
               </span>
               <span className="text-[10px] font-black bg-amber-400 text-slate-950 px-2 py-0.5 rounded-full">
@@ -298,22 +298,22 @@ export default function TransitNavigationSection() {
             </div>
 
             {/* タイトル */}
-            <h3 className="text-sm md:text-base font-black text-white group-hover:text-cyan-200 transition font-journal-serif line-clamp-2 leading-snug">
+            <h3 className="text-sm md:text-base font-black text-slate-900 group-hover:text-teal-800 transition font-journal-serif line-clamp-2 leading-snug">
               {item.title}
             </h3>
 
             {/* 料金目安 */}
-            <div className="text-[11px] font-bold text-amber-300 bg-amber-950/40 border border-amber-500/30 px-3 py-1 rounded-lg">
+            <div className="text-[11px] font-bold text-amber-800 bg-amber-50 border border-amber-200 px-3 py-1 rounded-lg">
               💰 {item.priceNote}
             </div>
 
             {/* 説明文 */}
-            <p className="text-xs text-slate-300/90 line-clamp-2 leading-relaxed font-medium">
+            <p className="text-xs text-slate-600 line-clamp-2 leading-relaxed font-medium">
               {item.desc}
             </p>
 
             {/* リンク誘導 */}
-            <div className="text-[11px] font-bold text-cyan-400 group-hover:text-cyan-300 group-hover:translate-x-1 transition flex items-center gap-1 pt-1 border-t border-white/5">
+            <div className="text-[11px] font-bold text-teal-700 group-hover:text-teal-900 group-hover:translate-x-1 transition flex items-center gap-1 pt-1 border-t border-slate-100">
               <span>料金比較＆1泊2日モデルコースを見る</span>
               <span>→</span>
             </div>

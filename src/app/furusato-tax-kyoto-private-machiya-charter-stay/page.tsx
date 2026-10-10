@@ -335,13 +335,13 @@ export default function FurusatoKyotoMachiyaCharterStayPage() {
             ▸ 【京都嵐山温泉＆名門京町家旅館×ふるさと納税】渡月亭・翠嵐・花伝抄
           </Link>
           <Link
-            href="/furusato-tax-traditional-crafts-pottery-gold-leaf-washi-stay"
+            href="/traditional-crafts-pottery-gold-leaf-washi-stay"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【伝統工芸・日本文化体験宿×ふるさと納税】京都・金沢の名門旅館
           </Link>
           <Link
-            href="/furusato-tax-tangible-cultural-property-sukiya-carpenter-ryokan-stay"
+            href="/tangible-cultural-property-sukiya-carpenter-ryokan-stay"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【登録有形文化財・宮大工数寄屋造り旅館×ふるさと納税】木造建築美の宿

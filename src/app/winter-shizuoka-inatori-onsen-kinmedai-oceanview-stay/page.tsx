@@ -606,7 +606,7 @@ export default function ShizuokaInatoriWinterFeature() {
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">伊豆の小京都・遅咲き名残の紅葉と竹林の小径・名湯和宿</h3>
             </Link>
             <Link 
-              href="/winter-shizuoka-yaizu-onsen-tuna-fujiview-stay"
+              href="/winter-shizuoka-izunagaoka-onsen-fujiview-kinmedai-izugyu-stay"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">静岡・焼津温泉</span>

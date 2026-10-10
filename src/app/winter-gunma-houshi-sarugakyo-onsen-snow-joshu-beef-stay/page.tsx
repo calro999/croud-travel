@@ -675,7 +675,7 @@ export default function GunmaHoushiSarugakyoPage() {
             </Link>
 
             <Link 
-              href="/winter-gunma-kusatsu-onsen-snow-yubatake-joshu-beef-stay"
+              href="/winter-gunma-kusatsu-onsen-yubatake-joshu-beef-stay"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">群馬・草津温泉</span>

@@ -197,7 +197,7 @@ export default function MonbetsuDriftIcePage() {
 
           <div className="space-y-5 text-sm sm:text-base text-slate-700 leading-relaxed">
             <p>
-              ユーラシア大陸のアムール川からオホーツク海へと流れ込んだ淡水が、冷酷な北風に晒されて結氷し、南下しながら成長を続ける「流氷」。1月下旬、白い帯となって水平線を覆い尽くし、やがて北海道の北東岸へと押し寄せる光景は、地球規模の気候のダイナミズムを目の当たりにする奇跡の絶景です。道東の冬は、オホーツク海沿岸を巡る<Link href="/winter-hokkaido-shiretoko-abashiri-onsen-crab-kinki-stay" className="text-cyan-600 hover:underline font-bold">知床・網走の流氷とキンキ・毛ガニ名宿</Link>や、白銀の原野に舞う<Link href="/winter-hokkaido-kushiro-shitsugen-tancho-robata-stay" className="text-cyan-600 hover:underline font-bold">釧路湿原のタンチョウ鶴と炉端焼き</Link>、さらには幻想的な<Link href="/winter-hokkaido-otaru-snow-light-path-canal-seafood-stay" className="text-cyan-600 hover:underline font-bold">小樽雪あかりの路と運河グルメ</Link>など、一生に一度は見たい冬景色が目白押しです。
+              ユーラシア大陸のアムール川からオホーツク海へと流れ込んだ淡水が、冷酷な北風に晒されて結氷し、南下しながら成長を続ける「流氷」。1月下旬、白い帯となって水平線を覆い尽くし、やがて北海道の北東岸へと押し寄せる光景は、地球規模の気候のダイナミズムを目の当たりにする奇跡の絶景です。道東の冬は、オホーツク海沿岸を巡る<Link href="/winter-hokkaido-shiretoko-abashiri-onsen-crab-kinki-stay" className="text-cyan-600 hover:underline font-bold">知床・網走の流氷とキンキ・毛ガニ名宿</Link>や、白銀の原野に舞う<Link href="/winter-hokkaido-kushiro-tancho-crane-snow-nusamaibashi-sunset-robata-stay" className="text-cyan-600 hover:underline font-bold">釧路湿原のタンチョウ鶴と炉端焼き</Link>、さらには幻想的な<Link href="/winter-hokkaido-otaru-canal-illumination-sushi-asarigawa-stay" className="text-cyan-600 hover:underline font-bold">小樽雪あかりの路と運河グルメ</Link>など、一生に一度は見たい冬景色が目白押しです。
             </p>
             <p>
               その白銀の氷海へ勇敢に繰り出すのが、紋別が誇る流氷砕氷船「ガリンコ号III IMERU（イメル）」です。通常の砕氷船が船体の自重で氷を割り進むのに対し、ガリンコ号は船首下部に備えた2本の巨大な「アルキメディアン・スクリュー（螺旋状のドリル）。」を高速回転させ、氷に乗り上げてバリバリと粉砕しながら前進します。甲板に伝わる力強い振動と、青白い氷塊が砕け散る迫力、時折氷の上で羽を休める天然記念物のオオワシやオジロワシの神々しい姿は、言葉を失うほどの感動を呼び起こします。
@@ -751,14 +751,14 @@ export default function MonbetsuDriftIcePage() {
               <ChevronRight className="w-4 h-4 text-slate-400 shrink-0" />
             </Link>
             <Link 
-              href="/winter-hokkaido-kushiro-shitsugen-tancho-robata-stay"
+              href="/winter-hokkaido-kushiro-tancho-crane-snow-nusamaibashi-sunset-robata-stay"
               className="p-3 bg-slate-800/80 hover:bg-slate-700/80 rounded-xl border border-slate-700 transition-colors flex items-center justify-between"
             >
               <span>釧路湿原のタンチョウ鶴＆勝手丼・炉端焼き冬の道東名宿</span>
               <ChevronRight className="w-4 h-4 text-slate-400 shrink-0" />
             </Link>
             <Link 
-              href="/winter-hokkaido-otaru-snow-light-path-canal-seafood-stay"
+              href="/winter-hokkaido-otaru-canal-illumination-sushi-asarigawa-stay"
               className="p-3 bg-slate-800/80 hover:bg-slate-700/80 rounded-xl border border-slate-700 transition-colors flex items-center justify-between"
             >
               <span>小樽雪あかりの路＆冬の運河ガス灯・極上寿司と温泉ホテル</span>

@@ -622,7 +622,7 @@ export default function NaraParkKasugaWinterPage() {
               <span className="text-[11px] text-emerald-600 font-medium mt-2 flex items-center gap-1">京都・伏見宇治特集を読む →</span>
             </Link>
             <Link 
-              href="/winter-mie-suzuka-tsubaki-shrine-nabana-hamaguri-stay"
+              href="/winter-mie-suzuka-tsubaki-shrine-nabana-kuwana-hamaguri-stay"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-emerald-400 hover:shadow-xs transition flex flex-col justify-between"
             >
               <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">椿大神社開運初詣＆なばなの里イルミ！桑名蛤と天然温泉宿</span>

@@ -738,7 +738,7 @@ export default function Page() {
             
             <Link
               key="2"
-              href="/furusato-tax-three-hidden-hot-springs-retreat-stay"
+              href="/furusato-tax-japan-three-great-hot-springs-heritage-stay"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">

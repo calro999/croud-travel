@@ -369,16 +369,16 @@ export default function Page() {
         <section className="bg-amber-50/50 p-6 rounded-xl border border-amber-200 space-y-4">
           <h2 className="text-lg font-bold text-stone-900">こちらもチェック！秋のふるさと納税特集</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs md:text-sm">
-            <Link href="/furusato-tax-mie-matsusaka-beef-autumn-stay" className="text-emerald-800 hover:underline">
+            <Link href="/furusato-tax-mie-ise-matsusaka-autumn-stay" className="text-emerald-800 hover:underline">
               → 三重・松阪（松阪城跡紅葉＆松阪牛会席）特集
             </Link>
-            <Link href="/furusato-tax-gifu-enakyo-nakatsugawa-autumn-stay" className="text-emerald-800 hover:underline">
+            <Link href="/furusato-tax-gifu-ena-nakatsugawa-autumn-stay" className="text-emerald-800 hover:underline">
               → 岐阜・恵那峡＆中津川（紅葉遊覧船＆栗きんとん）特集
             </Link>
             <Link href="/furusato-tax-nagano-azumino-hotaka-autumn-stay" className="text-emerald-800 hover:underline">
               → 長野・安曇野＆穂高温泉郷（北アルプス紅葉＆信州サーモン）特集
             </Link>
-            <Link href="/furusato-tax-aomori-oirase-towada-autumn-stay" className="text-emerald-800 hover:underline">
+            <Link href="/autumn-aomori-oirase-gorge-towada-lake-momiji-hotels-stay" className="text-emerald-800 hover:underline">
               → 青森・奥入瀬渓流＆十和田湖（紅葉散策＆十和田湖ひめます）特集
             </Link>
           </div>
