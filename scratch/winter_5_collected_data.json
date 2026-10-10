@@ -1,0 +1,564 @@
+{
+  "theme_1_shibu": {
+    "hotels": [
+      {
+        "hotelNo": 134773,
+        "hotelName": "信州渋温泉　渋白銀屋旅館",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D134773",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/134773/134773.jpg",
+        "reviewCount": 188,
+        "reviewAverage": 4.27,
+        "hotelMinCharge": 10500,
+        "address1": "長野県",
+        "address2": "下高井郡山ノ内町平穏2054",
+        "access": "●渋温泉郷内 七番湯「七操の湯」すぐ前● 電車/長野電鉄湯田中駅よりお車5分 車/信州中野ICよりお車約20分",
+        "hotelSpecial": "■全8室 京町屋を思わせる温泉旅館。九湯巡り・地産地消の郷土会席・女将手造りの果実酒を堪能■",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/134773/134773.html"
+      },
+      {
+        "hotelNo": 6175,
+        "hotelName": "渋温泉　大陽館　ヤマト屋",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D6175",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6175/6175.jpg",
+        "reviewCount": 131,
+        "reviewAverage": 4.54,
+        "hotelMinCharge": 18500,
+        "address1": "長野県",
+        "address2": "下高井郡山ノ内町大字平穏1140-5",
+        "access": "上信越道信州中野ＩＣ、国道２９２志賀高原方面１３ｋｍ。黒川橋手前の交差点は直進、 渋湯橋を渡り右折の道順でお越しください",
+        "hotelSpecial": "「小さな宿の大きなやすらぎ」女将の造る手料理の宿",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/6175/6175.html"
+      },
+      {
+        "hotelNo": 18386,
+        "hotelName": "渋温泉　いかり屋旅館",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D18386",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18386/18386.jpg",
+        "reviewCount": 338,
+        "reviewAverage": 4.67,
+        "hotelMinCharge": 11000,
+        "address1": "長野県",
+        "address2": "下高井郡山ノ内町渋温泉",
+        "access": "電車：湯田中駅→長野電鉄バス・渋温泉和合橋下車徒歩２分／車：信州中野ＩＣ～Ｒ２９２号線　佐野角間ＩＣより５分",
+        "hotelSpecial": "創業１００余年の純和風温泉旅館／小さな宿ならではの素朴さ大切に手作り料理の宿",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/18386/18386.html"
+      },
+      {
+        "hotelNo": 134868,
+        "hotelName": "渋温泉　新栄館　＜長野県＞",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D134868",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/134868/134868.jpg",
+        "reviewCount": 65,
+        "reviewAverage": 4.31,
+        "hotelMinCharge": 7350,
+        "address1": "長野県",
+        "address2": "下高井郡山ノ内町平穏2077",
+        "access": "湯田中駅よりバス：長電バス上林線乗車、「渋和合橋」下車、徒歩3分。上信越自動車道　信州中野ICより車で約30分。",
+        "hotelSpecial": "石畳の温泉街奥に佇む全７室の小さな湯宿。女将の手作り料理はお客様に好評です。《全室温水洗浄トイレ付》",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/134868/134868.html"
+      },
+      {
+        "hotelNo": 38584,
+        "hotelName": "信州湯田中温泉　ホテルゆだなか　～大浴場「吉の湯」～",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D38584",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38584/38584.jpg",
+        "reviewCount": 293,
+        "reviewAverage": 3.65,
+        "hotelMinCharge": 6380,
+        "address1": "長野県",
+        "address2": "下高井郡山ノ内町平穏3246-2　湯田中温泉",
+        "access": "長野電鉄　湯田中駅から車で１分、徒歩で３分『ホテルゆだなか』ソラテラスやスノーモンキーアクセス抜群",
+        "hotelSpecial": "エリア最大級の温泉大浴場　湯田中駅から徒歩3分『源泉掛け流しの宿』良質な温泉とサウナを楽しめる♪",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/38584/38584.html"
+      },
+      {
+        "hotelNo": 7120,
+        "hotelName": "湯田中温泉　白雲楼旅館",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D7120",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7120/7120.jpg",
+        "reviewCount": 199,
+        "reviewAverage": 4.09,
+        "hotelMinCharge": 13000,
+        "address1": "長野県",
+        "address2": "下高井郡山ノ内町大字平穏3265",
+        "access": "上信越自動車道　信州中野ICより２０分　ＪＲ長野より長野電鉄　湯田中駅より徒歩２分",
+        "hotelSpecial": "1",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/7120/7120.html"
+      },
+      {
+        "hotelNo": 41634,
+        "hotelName": "信州・湯田中温泉　清風荘",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D41634",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/41634/41634.jpg",
+        "reviewCount": 110,
+        "reviewAverage": 4.1,
+        "hotelMinCharge": 11000,
+        "address1": "長野県",
+        "address2": "下高井郡山ノ内町平穏3268",
+        "access": "長野電鉄　湯田中駅より徒歩２分／上信越自動車道　信州中野ＩＣよりＲ２９２経由で１５分。",
+        "hotelSpecial": "★無料貸切風呂や天然温泉の露天風呂。卓球台もあります。人気の信州牛も☆食事は個室",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/41634/41634.html"
+      },
+      {
+        "hotelNo": 2441,
+        "hotelName": "湯田中温泉　一茶のこみち　美湯の宿",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D2441",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2441/2441.jpg",
+        "reviewCount": 455,
+        "reviewAverage": 4.19,
+        "hotelMinCharge": 19200,
+        "address1": "長野県",
+        "address2": "下高井郡山ノ内町平穏2951-1　湯田中温泉",
+        "access": "旧ロマンスカー走る長野電鉄の湯田中駅より徒歩７分／北陸自動車道　信州中野I.C.より志賀高原方面へ向かって約２０分。",
+        "hotelSpecial": "自慢の源泉かけ流し100%の温泉は、美容にも湯治目的にも大変人気！",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/2441/2441.html"
+      }
+    ],
+    "spots": {
+      "地獄谷野猿公苑": {
+        "title": "地獄谷野猿公苑",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Jigokudani_hotspring_in_Nagano_Japan_001.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "extract": "地獄谷野猿公苑（じごくだにやえんこうえん）は、長野県下高井郡山ノ内町の地獄谷温泉にある、野生ニホンザルの観察のための公園。冬にはサルが温泉に浸かる様子が知られる、国際的な観光地。英語圏ではSnow Monkey Mountainとも呼ばれる。"
+      },
+      "渋温泉": {
+        "title": "渋温泉",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Shibu-onsen02s3200.jpg/1280px-Shibu-onsen02s3200.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "extract": "渋温泉（しぶおんせん）は、長野県下高井郡山ノ内町にある温泉。一帯は「湯田中渋温泉郷」と呼ばれる温泉郷である。"
+      },
+      "志賀高原": {
+        "title": "志賀高原",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/ShigaYokote.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "extract": "志賀高原（しがこうげん）は、上信越高原国立公園の一部である長野県下高井郡山ノ内町とその周辺一帯に広がる高原である。"
+      }
+    }
+  },
+  "theme_2_shimoda": {
+    "hotels": [
+      {
+        "hotelNo": 5645,
+        "hotelName": "下田温泉　下田ベイクロシオ",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D5645",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5645/5645.jpg",
+        "reviewCount": 528,
+        "reviewAverage": 4.66,
+        "hotelMinCharge": 7500,
+        "address1": "静岡県",
+        "address2": "下田市柿崎4-1",
+        "access": "伊豆急下田駅より送迎はご連絡をお願いいたします。お車はＲ135「柿崎西」信号付近のセブンイレブン横の坂を上る",
+        "hotelSpecial": "伊豆急下田駅から1.3km・白浜海岸まで3.5Km　海抜16mの高台から下田湾が一望",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/5645/5645.html"
+      },
+      {
+        "hotelNo": 50545,
+        "hotelName": "下田温泉　下田伊東園ホテルはな岬",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D50545",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50545/50545.jpg",
+        "reviewCount": 1188,
+        "reviewAverage": 3.79,
+        "hotelMinCharge": 6248,
+        "address1": "静岡県",
+        "address2": "下田市武が浜6-12",
+        "access": "伊豆急行　伊豆急下田駅より徒歩５分",
+        "hotelSpecial": "海を見下ろす落ち着いた雰囲気の和室と開放感のある露天風呂。海の幸中心の多彩なバイキング形式のお食事。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/50545/50545.html"
+      },
+      {
+        "hotelNo": 16744,
+        "hotelName": "下田温泉　温泉民宿　浜屋",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D16744",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16744/16744.jpg",
+        "reviewCount": 27,
+        "reviewAverage": 4,
+        "hotelMinCharge": 4830,
+        "address1": "静岡県",
+        "address2": "下田市須崎1474-6",
+        "access": "伊豆急下田駅より須崎行バスにて１０分「須崎」下車徒歩５分／沼津ＩＣより２時間",
+        "hotelSpecial": "新鮮な海の幸満載のお食事♪海一望の絶景温泉民宿です。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/16744/16744.html"
+      },
+      {
+        "hotelNo": 14774,
+        "hotelName": "下田温泉　ホテル伊豆急",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D14774",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14774/14774.jpg",
+        "reviewCount": 1629,
+        "reviewAverage": 4.41,
+        "hotelMinCharge": 5500,
+        "address1": "静岡県",
+        "address2": "下田市白浜2732-7",
+        "access": "伊豆急下田駅から送迎あり。時刻はホテル伊豆急ホームページを参照。（10名以上要予約）。Ｒ135号沿い白浜海岸前。",
+        "hotelSpecial": "海の幸と二種類の温泉が楽しめる白浜海岸目の前のスパリゾート。美しい海を眺めながらとっておきの時間を。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/14774/14774.html"
+      },
+      {
+        "hotelNo": 39621,
+        "hotelName": "源泉一途　南伊豆（旧　下賀茂温泉　花のおもてなし南楽）",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D39621",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/39621/39621.jpg",
+        "reviewCount": 374,
+        "reviewAverage": 4.51,
+        "hotelMinCharge": 12200,
+        "address1": "静岡県",
+        "address2": "賀茂郡南伊豆町下賀茂130-1",
+        "access": "JR伊豆急 下田駅より車で１５分＜毎日無料送迎有＞／新東名長泉沼津IC～中伊豆道路湯ヶ島IC経由で100分",
+        "hotelSpecial": "2026年6月1日始動。加水一切なしの「生きた源泉」を7の貸切風呂で。本能が潤う、一途な湯と食を。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/39621/39621.html"
+      },
+      {
+        "hotelNo": 67430,
+        "hotelName": "南伊豆弓ヶ浜温泉　季一遊",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D67430",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67430/67430.jpg",
+        "reviewCount": 735,
+        "reviewAverage": 4.54,
+        "hotelMinCharge": 13750,
+        "address1": "静岡県",
+        "address2": "賀茂郡南伊豆町湊川口902-1",
+        "access": "伊豆急下田駅より送迎バスにて約20分",
+        "hotelSpecial": "旅館のスタイルにこだわらない自由な発想。南伊豆の「今日の美味」をお届けします。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/67430/67430.html"
+      },
+      {
+        "hotelNo": 72672,
+        "hotelName": "南伊豆弓ヶ浜温泉　なごみ詩",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D72672",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/72672/72672.jpg",
+        "reviewCount": 215,
+        "reviewAverage": 4.6,
+        "hotelMinCharge": 7700,
+        "address1": "静岡県",
+        "address2": "賀茂郡南伊豆町湊891-12",
+        "access": "伊豆東海岸道路 伊東～下田 ●東名沼津～伊豆縦貫道～下田～弓ヶ浜//電車利用伊豆急下田からバス４番線",
+        "hotelSpecial": "海と松と波音に癒されるお部屋です 白を基調にしたリゾート満喫 　海まで徒歩30秒",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/72672/72672.html"
+      },
+      {
+        "hotelNo": 13496,
+        "hotelName": "下賀茂温泉　温泉民宿　南伊豆",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D13496",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13496/13496.jpg",
+        "reviewCount": 178,
+        "reviewAverage": 4.71,
+        "hotelMinCharge": 7300,
+        "address1": "静岡県",
+        "address2": "賀茂郡南伊豆町下賀茂",
+        "access": "東京－小田原－伊東－下田－南伊豆／伊豆急下田駅より車で約20分　　　",
+        "hotelSpecial": "静かな山の上でのんびり心と体を癒してみてはいかがですか？　運が良ければ流れ★が見えるかも。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/13496/13496.html"
+      }
+    ],
+    "spots": {
+      "爪木崎": {
+        "title": "爪木崎",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Shimoda_Port_Shimodau_Shizuoka_pref_Japan02s.jpg/1280px-Shimoda_Port_Shimodau_Shizuoka_pref_Japan02s.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "extract": "爪木崎（つめきざき）は、静岡県下田市にある岬。伊豆半島の南東部にあり、俗に須崎半島とも呼ばれる海に突き出た地域の先端にあたる。\n岬には爪木崎灯台が置かれ、海水浴場や爪木崎自然公園が整備されている。スイセンの群生地があり、冬季には12月下旬から2月上旬にかけて水仙まつりが催され観光客を集める。\n公園の駐車場は有料で約200台が駐車可能。爪木崎のある須崎地区には、1971年（昭和46年）から須崎御用邸が置かれ、皇族が静養時に使用する。\n2018年4月17日に後述する俵磯とシルが伊豆半島の他地域と共に、国際連合教育科学文化機関（ユネスコ）から国内9地域目の世界ジオパークに認定され、伊豆半島ジオパークとして保護されている"
+      },
+      "下田港": {
+        "title": "下田港",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Shimoda_Port_Shimodau_Shizuoka_pref_Japan01s.jpg/1280px-Shimoda_Port_Shimodau_Shizuoka_pref_Japan01s.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "extract": "下田港（しもだこう）は、静岡県下田市にある港湾である。港湾管理者は静岡県。避難港・地方港湾の指定を受けている。"
+      }
+    }
+  },
+  "theme_3_ise_toba": {
+    "hotels": [
+      {
+        "hotelNo": 78101,
+        "hotelName": "鳥羽の宿　錦屋旅館",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D78101",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/78101/78101.jpg",
+        "reviewCount": 27,
+        "reviewAverage": null,
+        "hotelMinCharge": null,
+        "address1": "三重県",
+        "address2": "鳥羽市鳥羽3-32-8",
+        "access": "近鉄志摩線　中之郷駅より徒歩にて1分",
+        "hotelSpecial": "駅徒歩1分×鳥羽水族館徒歩3分♪全室WiFi完備！ビジネス・観光に好立地！リーズナブル価格！",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/78101/78101.html"
+      },
+      {
+        "hotelNo": 9272,
+        "hotelName": "鳥羽　吉田屋　湯坊旅籠　和光",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D9272",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9272/9272.jpg",
+        "reviewCount": 199,
+        "reviewAverage": 3.56,
+        "hotelMinCharge": 5500,
+        "address1": "三重県",
+        "address2": "鳥羽市鳥羽1-13-1",
+        "access": "近鉄・JR鳥羽駅下車",
+        "hotelSpecial": "鳥羽駅に近く観光拠点に便利なお宿。。リーズナブルに利用できる素泊まり専門のお宿です。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/9272/9272.html"
+      },
+      {
+        "hotelNo": 15780,
+        "hotelName": "湯めぐり海百景　鳥羽シーサイドホテル",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D15780",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15780/15780.jpg",
+        "reviewCount": 1627,
+        "reviewAverage": 4.42,
+        "hotelMinCharge": 7700,
+        "address1": "三重県",
+        "address2": "鳥羽市安楽島町1084",
+        "access": "近鉄・ＪＲ鳥羽駅より車で１０分（無料送迎有・定期運行）／伊勢自動車道　伊勢ＩＣ→伊勢二見鳥羽ライン２５分",
+        "hotelSpecial": "伊勢神宮まで車で３０分　☆お客様が選ぶ４つ星以上の人気宿☆",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/15780/15780.html"
+      },
+      {
+        "hotelNo": 8529,
+        "hotelName": "鳥羽国際ホテル",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D8529",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8529/8529.jpg",
+        "reviewCount": 1126,
+        "reviewAverage": 4.48,
+        "hotelMinCharge": 13552,
+        "address1": "三重県",
+        "address2": "鳥羽市鳥羽1-23-1",
+        "access": "ＪＲ及び近鉄「鳥羽駅」より車で3分。近鉄鳥羽駅から無料シャトルバス有。（12:30～18:00の間毎時0分・30分）",
+        "hotelSpecial": "鳥羽駅からシャトルバスで5分。神宮から車で約20分。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/8529/8529.html"
+      },
+      {
+        "hotelNo": 137490,
+        "hotelName": "大江戸温泉物語Ｐｒｅｍｉｕｍ　伊勢志摩",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D137490",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/137490/137490.jpg",
+        "reviewCount": 1129,
+        "reviewAverage": 4.14,
+        "hotelMinCharge": 11400,
+        "address1": "三重県",
+        "address2": "志摩市浜島町浜島1035",
+        "access": "近鉄 鵜方駅よりお車にて約20分 鵜方駅より有料送迎バスあり(事前予約制)",
+        "hotelSpecial": "英虞湾を望む絶景露天風呂と海の幸バイキングが自慢の温泉宿",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/137490/137490.html"
+      },
+      {
+        "hotelNo": 4761,
+        "hotelName": "伊勢志摩国立公園　／　鳥羽温泉郷　戸田家",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D4761",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4761/4761.jpg",
+        "reviewCount": 2310,
+        "reviewAverage": 4.42,
+        "hotelMinCharge": 9240,
+        "address1": "三重県",
+        "address2": "鳥羽市鳥羽1丁目24-26",
+        "access": "【電車】近鉄・JR鳥羽駅より徒歩3分（送迎有）【お車】伊勢道伊勢ICより伊勢二見鳥羽ライン経由約15分",
+        "hotelSpecial": "【鳥羽駅徒歩圏内の温泉旅館】鳥羽湾一望の客室と13の湯めぐり、地魚解体ショーが人気",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/4761/4761.html"
+      },
+      {
+        "hotelNo": 7848,
+        "hotelName": "伊勢志摩国立公園・二見浦　二見温泉　蘇民の湯　ホテル清海",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D7848",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7848/7848.jpg",
+        "reviewCount": 682,
+        "reviewAverage": 3.44,
+        "hotelMinCharge": 8800,
+        "address1": "三重県",
+        "address2": "伊勢市二見町松下1349－136",
+        "access": "伊勢自動車道伊勢鳥羽ライン二見ＩＣから鳥羽方向５分。伊勢二見駅からの送迎は要電話。（1０時～１５時送迎不可）",
+        "hotelSpecial": "※【重要なご案内】2017年3月14日より、ご夕食のお品書きを季節に応じたお料理に変更いたします。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/7848/7848.html"
+      },
+      {
+        "hotelNo": 15941,
+        "hotelName": "風待ちの湯福寿荘　伊勢志摩の温泉旅館＜渡鹿野島＞",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D15941",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15941/15941.jpg",
+        "reviewCount": 824,
+        "reviewAverage": 4.27,
+        "hotelMinCharge": 8800,
+        "address1": "三重県",
+        "address2": "志摩市磯部町渡鹿野517",
+        "access": "近鉄「鵜方駅」下車、送迎バス（予約制）１５分～船３分(有料）、伊勢自動車道　伊勢西ＩＣ～６０分～船３分(有料）",
+        "hotelSpecial": "◆船で3分の温泉宿◆地下1,300メートルから湧く天然療養温泉と伊勢海老・松阪牛・旬の海の幸を満喫！",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/15941/15941.html"
+      }
+    ],
+    "spots": {
+      "伊勢神宮": {
+        "title": "伊勢神宮",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Naiku_001.jpg/1280px-Naiku_001.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "extract": "伊勢神宮（いせじんぐう）は、日本の三重県伊勢市にある神社。正式名称は「神宮」（じんぐう）である。他の神宮と区別するために、「伊勢」の地名を冠し伊勢神宮と通称される。出雲国は天照大神であるが、持統天皇から天照大御神を祀り天皇は祭祀とされるようになる。\n「伊勢の神宮」、または親しみを込めて「お伊勢さん」「大神宮さん」とも称される。古来、最高の特別格の宮とされ、現在は神社本庁の本宗（ほんそう。全ての神社の上に立つ神社）であり、「日本国民の総氏神」とされる。\n律令国家体制における神祇体系のうちで最高位を占め、平安時代には二十二社の中のさらに上七社の1社となった。また、神階が授与されたことのない神社の一つ。明治時代から大東亜戦争前までの近代社格制度においては、全ての神社の上に位置する神社として社格の対象外とされた。"
+      },
+      "おかげ横丁": {
+        "title": "おかげ横丁",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Okage_Yokocho01.JPG/1280px-Okage_Yokocho01.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "extract": "おかげ横丁（おかげよこちょう）は、三重県伊勢市の伊勢神宮皇大神宮（内宮）前にあるお蔭参り（お伊勢参り）で賑わった江戸時代末期から明治時代初期の鳥居前町の町並みを再現した観光地である。運営は伊勢名物赤福餅を生産・販売する株式会社赤福の子会社である株式会社伊勢福が行う。\nおはらい町の中ほどにあり、伊勢志摩を代表する観光地となっている。"
+      },
+      "二見興玉神社": {
+        "title": "二見興玉神社",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Futamiokitama_jinja_Haiden.jpg/1280px-Futamiokitama_jinja_Haiden.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "extract": "二見興玉神社（ふたみおきたまじんじゃ）は、三重県伊勢市二見町江にある神社である。旧社格は村社で、現在は神社本庁の別表神社。境内の磯合にある夫婦岩（めおといわ）で知られる。\n興玉大神（猿田彦大神）と宇迦御魂大神（ここでは神宮外宮の豊受大神の別名とされる）を祭神とする。"
+      }
+    }
+  },
+  "theme_4_yunishigawa": {
+    "hotels": [
+      {
+        "hotelNo": 2338,
+        "hotelName": "湯西川温泉　彩り湯かしき　花と華",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D2338",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2338/2338.jpg",
+        "reviewCount": 1752,
+        "reviewAverage": 4.07,
+        "hotelMinCharge": 16000,
+        "address1": "栃木県",
+        "address2": "日光市湯西川601",
+        "access": "東武鉄道・野岩鉄道にて湯西川温泉駅下車。路線バスにて20分。（1日1回無料送迎バス運行有※要事前電話予約）",
+        "hotelSpecial": "深山の里の「美肌の湯」で湯めぐりを☆伝統の囲炉裏料理「平家お狩場焼」に舌鼓",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/2338/2338.html"
+      },
+      {
+        "hotelNo": 149268,
+        "hotelName": "湯西川温泉　ホテル湯西川（伊東園ホテルズ）",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D149268",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/149268/149268.jpg",
+        "reviewCount": 964,
+        "reviewAverage": 4.05,
+        "hotelMinCharge": 6798,
+        "address1": "栃木県",
+        "address2": "日光市湯西川597",
+        "access": "湯西川温泉駅よりバスにて約20分（ホテル湯西川前下車）",
+        "hotelSpecial": "平家の落人伝説の残る温泉地。Ph9.2のアルカリ性単純泉『美肌の湯』と言われています。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/149268/149268.html"
+      },
+      {
+        "hotelNo": 67417,
+        "hotelName": "湯西川温泉　元湯　湯西川館本館",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D67417",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67417/67417.jpg",
+        "reviewCount": 201,
+        "reviewAverage": 4.33,
+        "hotelMinCharge": 8950,
+        "address1": "栃木県",
+        "address2": "日光市湯西川783-2",
+        "access": "湯西川温泉駅から車で２５分",
+        "hotelSpecial": "マツコの知らない世界「美肌温泉の世界」で紹介されました！２種源泉◆全泉100%源泉かけ流し♪",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/67417/67417.html"
+      },
+      {
+        "hotelNo": 15011,
+        "hotelName": "湯西川温泉　湯西川白雲の宿　山城屋",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D15011",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15011/15011.jpg",
+        "reviewCount": 556,
+        "reviewAverage": 4.12,
+        "hotelMinCharge": 10890,
+        "address1": "栃木県",
+        "address2": "日光市湯西川715",
+        "access": "東武電車湯西川温泉駅より東武バスにて２５分／日光有料道路今市ＩＣから５０ｋｍ",
+        "hotelSpecial": "自然に囲まれた秘湯「湯西川白雲の宿 山城屋」で大自然と貸切温泉に癒やされるひとときを。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/15011/15011.html"
+      }
+    ],
+    "spots": {
+      "湯西川温泉": {
+        "title": "湯西川温泉",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Heikesyuraku2011-10-23.jpg/1280px-Heikesyuraku2011-10-23.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "extract": "湯西川温泉（ゆにしがわおんせん）は、栃木県日光市（旧下野国）の日光国立公園内にある温泉である。温泉地名の由来ともなった湯西川（一級河川利根川水系）の渓谷沿いに旅館や民家が立ち並ぶ温泉地。"
+      },
+      "平家の里": {
+        "title": "日光市平家の里",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Heike-no-sato.JPG/1280px-Heike-no-sato.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "extract": "日光市平家の里（にっこうしへいけのさと）は、栃木県日光市湯西川にある、市立の観光文化施設。一般には単に平家の里と呼ばれる。平家の落人伝説が残り、独特の風習を継承する湯西川地区の生活の一端を伝える施設であり、各種催事・祭事の会場としても利用される。"
+      },
+      "日光東照宮": {
+        "title": "日光東照宮",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Nikko_Toshogu_Yomeimon_Gate_2024.jpg/1280px-Nikko_Toshogu_Yomeimon_Gate_2024.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "extract": "日光東照宮（にっこうとうしょうぐう）は、栃木県日光市にある神社。江戸幕府の初代将軍・徳川家康を神格化した東照大権現（とうしょうだいごんげん）を主祭神として祀る、日本全国の東照宮の総本社的存在である。また久能山東照宮・上野東照宮と共に三大東照宮の一つに数えられる。正式名称は地名などを冠称しない「東照宮」であるが、他の東照宮との区別のために「日光東照宮」とも呼ばれ、東照宮の公式サイトにも「日光東照宮」と記載されている。\n隣接する仏教寺院の輪王寺は、勝道による日光山開山を奈良時代の天平神護2年（766年）とする。その後、関東地方の霊場として尊崇を集め、鎌倉幕府創始者の源頼朝からも寄進を受けた。頼朝は、母方の熱田大宮司家の出身者を別当に据えて以来、鎌倉幕府、関東公方、後北条氏の歴代を通じて、東国の宗教的権威となっていた。こうした歴史を背景に、徳川氏は東照宮を造営したと考えられる。\n輪王寺、日光二荒山神社を含めた二社一寺は「日光の社寺」としてユネスコ世界文化遺産に登録されている。JR日光駅、東武日光駅にかけて門前町が形成され、参拝者や外国人を含む観光客が多く訪れる。"
+      }
+    }
+  },
+  "theme_5_otaru": {
+    "hotels": [
+      {
+        "hotelNo": 5490,
+        "hotelName": "朝里川温泉　小樽朝里クラッセホテル",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D5490",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5490/5490.jpg",
+        "reviewCount": 1290,
+        "reviewAverage": 4.15,
+        "hotelMinCharge": 6050,
+        "address1": "北海道",
+        "address2": "小樽市朝里川温泉2-676-1",
+        "access": "新千歳空港からＪＲで小樽築港駅、駅よりバスで２０分。朝里ＩＣより車で１０分",
+        "hotelSpecial": "小樽市内唯一の温泉付リゾートホテル。大浴場はもちろんスポーツ施設も充実。小樽・札幌への観光も便利。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/5490/5490.html"
+      },
+      {
+        "hotelNo": 31139,
+        "hotelName": "小樽・朝里川温泉　ウィンケル　ビレッジ",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D31139",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31139/31139.jpg",
+        "reviewCount": 118,
+        "reviewAverage": 4.74,
+        "hotelMinCharge": 5610,
+        "address1": "北海道",
+        "address2": "小樽市朝里川温泉2-686",
+        "access": "ＪＲ小樽築港駅より中央バスにて15分／札樽道　朝里ＩＣより車で5分",
+        "hotelSpecial": "温泉客室露天風呂付コンドミニアム、別荘とアウトドア派には最適！全棟にBBQ用テラス完備。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/31139/31139.html"
+      },
+      {
+        "hotelNo": 51226,
+        "hotelName": "小樽朝里川温泉　ホテル武蔵亭",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D51226",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/51226/51226.jpg",
+        "reviewCount": 297,
+        "reviewAverage": 3.8,
+        "hotelMinCharge": 8900,
+        "address1": "北海道",
+        "address2": "小樽市朝里川温泉２丁目６８６－４",
+        "access": "ＪＲ小樽築港駅より車で１０分",
+        "hotelSpecial": "小樽の新鮮な魚介類、朝里の山菜を堪能できる料理自慢の温泉宿",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/51226/51226.html"
+      },
+      {
+        "hotelNo": 183875,
+        "hotelName": "朝里川温泉ホテル",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D183875",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183875/183875.jpg",
+        "reviewCount": 179,
+        "reviewAverage": 4.01,
+        "hotelMinCharge": 5350,
+        "address1": "北海道",
+        "address2": "小樽市朝里川温泉2-670",
+        "access": "小樽築港駅より路線バスで20分。お車にて約15分。",
+        "hotelSpecial": "小樽市街より車で20分。温泉大浴場・露天風呂・貸切風呂が完備。季節のそばに泊る楽しみを感じて下さい。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/183875/183875.html"
+      },
+      {
+        "hotelNo": 76876,
+        "hotelName": "天然温泉　灯の湯　ドーミーインＰＲＥＭＩＵＭ小樽（２０２６年８月１日リニューアルオープン）",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D76876",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76876/76876.jpg",
+        "reviewCount": 4050,
+        "reviewAverage": 4.35,
+        "hotelMinCharge": 6405,
+        "address1": "北海道",
+        "address2": "小樽市稲穂3丁目9-1",
+        "access": "ＪＲ小樽駅より徒歩にて1分◆小樽ICより約７分◆小樽運河まで徒歩８分◆寿司屋通まで徒歩１０分",
+        "hotelSpecial": "☆朝食のおいしいホテルランキング 4年連続受賞☆大正ロマンを奏でるホテル★天然温泉大浴場完備",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/76876/76876.html"
+      }
+    ],
+    "spots": {
+      "小樽運河": {
+        "title": "小樽運河",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Otaru_Hokkaido_Japan.jpg/1280px-Otaru_Hokkaido_Japan.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "extract": "小樽運河（おたるうんが）は、北海道小樽市にある運河。現在は物流機能としての使命を終えており、文化庁選定日本遺産「北海道の『心臓』と呼ばれたまち・小樽」を構成する遺産のひとつ。\n1923年（大正12年）完成。日本国内唯一となる海岸の沖合い埋立て方式で造られており、緩やかに湾曲しているのが特徴になっている。全長1,140 mあり、幅は臨港線沿いは20 m、北部（通称：北運河）は当時のままの40 mになっている。\n1986年（昭和61年）に運河の一部を埋立てて幅の半分が道路となって散策路が整備されると小樽市の観光資源になり、周辺地区を含めて観光地へと変貌した。散策路には63基のガス灯が設置されている。運河沿いにある木骨石造倉庫群は当時の姿を残しており、夕暮れ時からライトアップしている。また、運河周辺では『小樽雪あかりの路』『おたる☆浅草橋オールディーズナイト』などのイベントを開催している。"
+      },
+      "朝里川温泉": {
+        "title": "朝里川温泉",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/130824_Asarigawa_Onsen_Otaru_Hokkaido_Japan07s3.jpg/1280px-130824_Asarigawa_Onsen_Otaru_Hokkaido_Japan07s3.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "extract": "朝里川温泉（あさりがわおんせん）は、北海道小樽市にある温泉。"
+      },
+      "余市蒸溜所": {
+        "title": "余市蒸溜所",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/130823Nikka_Wisky_Yoichi_Distillery_Hokkaido_Japan01s3.jpg/1280px-130823Nikka_Wisky_Yoichi_Distillery_Hokkaido_Japan01s3.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "extract": "余市蒸溜所（よいちじょうりゅうしょ、英: Yoichi Distillery）は、北海道余市郡余市町にあるアサヒグループホールディングスの機能子会社であるニッカウヰスキーの工場（蒸溜所）。正式名称は、ニッカウヰスキー北海道工場余市蒸溜所。10棟が国の重要文化財に指定されている。\n\n"
+      }
+    }
+  }
+}

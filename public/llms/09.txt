@@ -1,4 +1,14 @@
-# 栃木県の宿泊・観光記事（55件）
+# 栃木県の宿泊・観光記事（56件）
+
+## 日光・湯西川温泉「かまくら祭」の雪あかりと平家落人の里！秘湯の雪見露天風呂と囲炉裏炭火焼き会席を味わうおすすめ宿厳選ガイド
+- 記事: https://croud-travel.pages.dev/posts/yunishigawa-onsen-kamakura-festival-snow-heike-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/yunishigawa-onsen-kamakura-festival-snow-heike-guide.md
+- 宿泊施設名: 湯西川温泉　彩り湯かしき　花と華
+- エリア: 日光・鬼怒川・湯西川
+- 参考価格: ¥16000〜
+- 評価: 4.07
+
+日本夜景遺産認定・湯西川温泉かまくら祭の幻想的なミニかまくらの灯火と、800年の歴史を持つ平家落人の秘境を徹底ガイド！雪見露天風呂、名物「お狩場焼（囲炉裏料理）」と青竹酒、浅草から東武特急リバティ直通のアクセスと厳選宿を特集。
 
 ## 那須温泉：清水屋宿泊ルポ！鹿の湯源泉かけ流し白濁湯と絶品懐石膳
 - 記事: https://croud-travel.pages.dev/posts/109132/

@@ -309,6 +309,12 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【熊本】山鹿温泉 清流荘宿泊記｜極上の創作会席と名湯に浸かる贅沢な休日](https://croud-travel.pages.dev/posts/16334): 山鹿温泉　清流荘（熊本県）
+- [伊勢神宮の初詣・年末年始参拝と鳥羽温泉郷！旬の伊勢海老・的矢牡蠣会席と開運絶景露天風呂を愉しむおすすめ宿厳選ガイド](https://croud-travel.pages.dev/posts/ise-jingu-newyear-hatsumode-toba-onsen-ise-ebi-guide): 伊勢志摩国立公園　／　鳥羽温泉郷　戸田家（三重県）
+- [小樽ゆき物語「青の運河」と朝里川温泉の旅！冬の小樽寿司通り握りと白樺の雪見露天風呂を堪能するおすすめホテル・旅館厳選ガイド](https://croud-travel.pages.dev/posts/otaru-snow-story-canal-illumination-asarigawa-onsen-guide): 朝里川温泉　小樽朝里クラッセホテル（北海道）
+- [伊豆・下田温泉で300万本の爪木崎水仙まつりと極上金目鯛煮付けを堪能！冬の南伊豆オーシャンビュー名旅館厳選ガイド](https://croud-travel.pages.dev/posts/shimoda-tsumekizaki-narcissus-kinmedai-winter-onsen-guide): 下田温泉　下田ベイクロシオ（静岡県）
+- [地獄谷野猿公苑スノーモンキーと渋温泉・湯田中温泉郷の旅！九湯めぐりと冬の信州牛会席を満喫する名旅館厳選ガイド](https://croud-travel.pages.dev/posts/snow-monkey-jigokudani-shibu-yudanaka-onsen-guide): 渋温泉　大陽館　ヤマト屋（長野県）
+- [日光・湯西川温泉「かまくら祭」の雪あかりと平家落人の里！秘湯の雪見露天風呂と囲炉裏炭火焼き会席を味わうおすすめ宿厳選ガイド](https://croud-travel.pages.dev/posts/yunishigawa-onsen-kamakura-festival-snow-heike-guide): 湯西川温泉　彩り湯かしき　花と華（栃木県）
 - [山口：映えスポットとパワースポット巡り！女子旅おすすめモデルコースと厳選宿3選](https://croud-travel.pages.dev/posts/7243): 長門湯本温泉　湯本観光ホテル　西京（山口県）
 - [兵庫県：ホテルオークラ神戸宿泊ガイド！神戸ポートタワーのとなり、35階建て・アクセス＆魅力ルポ](https://croud-travel.pages.dev/posts/1648): ホテルオークラ神戸（兵庫県）
 - [北海道：絶品グルメと地酒を巡る！心満たされる美食旅モデルコースと厳選宿3選](https://croud-travel.pages.dev/posts/67259): クロスホテル札幌（オリックスホテルズ＆リゾーツ）（北海道）
@@ -353,9 +359,3 @@
 - [リーガロイヤルホテル新居浜（愛媛県）の基本情報・アクセス・料金の目安](https://croud-travel.pages.dev/posts/110): リーガロイヤルホテル新居浜（愛媛県）
 - [高知県・四国観光：名所と旬のグルメを満喫する周遊おすすめモデルコースガイド](https://croud-travel.pages.dev/posts/107685): 中津渓谷　ゆの森（高知県）
 - [おすすめ宿：小山グランドホテルの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/3113): 小山グランドホテル（栃木県）
-- [大分県・九州観光：名所と旬のグルメを満喫する周遊おすすめモデルコースガイド](https://croud-travel.pages.dev/posts/10673): ホテルクドウ大分（大分県）
-- [おすすめ宿：蔵王温泉 ＫＫＲ蔵王 白銀荘（国家公務員共済組合連合会蔵王保養所）の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/40164): 蔵王温泉　ＫＫＲ蔵王　白銀荘（国家公務員共済組合連合会蔵王保養所）（山形県）
-- [福井県・北陸観光：名所と旬のグルメを満喫する周遊おすすめモデルコースガイド](https://croud-travel.pages.dev/posts/37366): ＪＡＭ福井勝山東急ホテル＆リゾーツ（旧：東急リゾートホテルハーヴェストスキージャム勝山）（福井県）
-- [おすすめ宿：ホテル タウン錦川の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/18153): ホテル　タウン錦川（高知県）
-- [熊本県・九州観光：名所と旬のグルメを満喫する周遊おすすめモデルコースガイド](https://croud-travel.pages.dev/posts/704): アークホテル熊本城前　－ルートインホテルズ－（熊本県）
-- [おすすめ宿：筑後川温泉 清乃屋の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/78128): 筑後川温泉　清乃屋（熊本県）

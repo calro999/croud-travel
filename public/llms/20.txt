@@ -1,4 +1,14 @@
-# 長野県の宿泊・観光記事（80件）
+# 長野県の宿泊・観光記事（81件）
+
+## 地獄谷野猿公苑スノーモンキーと渋温泉・湯田中温泉郷の旅！九湯めぐりと冬の信州牛会席を満喫する名旅館厳選ガイド
+- 記事: https://croud-travel.pages.dev/posts/snow-monkey-jigokudani-shibu-yudanaka-onsen-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/snow-monkey-jigokudani-shibu-yudanaka-onsen-guide.md
+- 宿泊施設名: 渋温泉　大陽館　ヤマト屋
+- エリア: 志賀高原・湯田中・渋
+- 参考価格: ¥18500〜
+- 評価: 4.54
+
+世界中が憧れる地獄谷野猿公苑のスノーモンキー（温泉猿）のベストシーズン11月〜1月を徹底ガイド！石畳に下駄の音が響く渋温泉の厄除け九湯めぐり、湯田中温泉の雪見露天風呂、信州牛会席が自慢の老舗名旅館を厳選特集。
 
 ## おすすめ宿：田沢温泉 ますや旅館＜長野県小県郡＞の魅力と見どころをご紹介
 - 記事: https://croud-travel.pages.dev/posts/70675/
