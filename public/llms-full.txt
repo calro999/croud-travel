@@ -48,11 +48,11 @@
 - [熊本県（69件）](https://croud-travel.pages.dev/llms/43.txt)
 - [大分県（47件）](https://croud-travel.pages.dev/llms/44.txt)
 - [宮崎県（29件）](https://croud-travel.pages.dev/llms/45.txt)
-- [鹿児島県（50件）](https://croud-travel.pages.dev/llms/46.txt)
+- [鹿児島県（51件）](https://croud-travel.pages.dev/llms/46.txt)
 - [沖縄県（58件）](https://croud-travel.pages.dev/llms/47.txt)
 - [全国・複数県（425件）](https://croud-travel.pages.dev/llms/48.txt)
 
-## 特集記事（2224件）
+## 特集記事（2225件）
 - https://croud-travel.pages.dev/aichi-chita-minamichita-himakajima-stay/
 - https://croud-travel.pages.dev/airport-access-direct-resort-stay/
 - https://croud-travel.pages.dev/akita-oga-peninsula-namahage-nyudozaki-stay/
@@ -1077,6 +1077,7 @@
 - https://croud-travel.pages.dev/hyogo-takeda-castle-asago-ikuno-stay/
 - https://croud-travel.pages.dev/hyogo-yumura-solo-retreat-tajima-onsen-stay/
 - https://croud-travel.pages.dev/ibaraki-oarai-solo-retreat-ocean-seafood-stay/
+- https://croud-travel.pages.dev/ibusuki-vs-kirishima-which-stay/
 - https://croud-travel.pages.dev/ikaho-autumn-leaves-kajikabashi-lightup-guide/
 - https://croud-travel.pages.dev/ine-funaya-solo-retreat-ocean-seafood-stay/
 - https://croud-travel.pages.dev/infinity-ocean-onsen-panoramic-luxury-stay/

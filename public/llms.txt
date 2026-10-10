@@ -309,6 +309,7 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [指宿 vs 霧島 どっちに泊まる？泉質・砂むし・絶景・観光スタイルで選ぶ鹿児島の二大温泉地比較ガイド](https://croud-travel.pages.dev/posts/ibusuki-vs-kirishima-which-stay): 指宿・霧島温泉 厳選6宿（鹿児島県）
 - [【熊本】山鹿温泉 清流荘宿泊記｜極上の創作会席と名湯に浸かる贅沢な休日](https://croud-travel.pages.dev/posts/16334): 山鹿温泉　清流荘（熊本県）
 - [伊勢神宮の初詣・年末年始参拝と鳥羽温泉郷！旬の伊勢海老・的矢牡蠣会席と開運絶景露天風呂を愉しむおすすめ宿厳選ガイド](https://croud-travel.pages.dev/posts/ise-jingu-newyear-hatsumode-toba-onsen-ise-ebi-guide): 伊勢志摩国立公園　／　鳥羽温泉郷　戸田家（三重県）
 - [小樽ゆき物語「青の運河」と朝里川温泉の旅！冬の小樽寿司通り握りと白樺の雪見露天風呂を堪能するおすすめホテル・旅館厳選ガイド](https://croud-travel.pages.dev/posts/otaru-snow-story-canal-illumination-asarigawa-onsen-guide): 朝里川温泉　小樽朝里クラッセホテル（北海道）
@@ -358,4 +359,3 @@
 - [久美浜温泉 湯元館（京都府）の基本情報・アクセス・料金の目安](https://croud-travel.pages.dev/posts/146832): 久美浜温泉　湯元館（京都府）
 - [リーガロイヤルホテル新居浜（愛媛県）の基本情報・アクセス・料金の目安](https://croud-travel.pages.dev/posts/110): リーガロイヤルホテル新居浜（愛媛県）
 - [高知県・四国観光：名所と旬のグルメを満喫する周遊おすすめモデルコースガイド](https://croud-travel.pages.dev/posts/107685): 中津渓谷　ゆの森（高知県）
-- [おすすめ宿：小山グランドホテルの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/3113): 小山グランドホテル（栃木県）
