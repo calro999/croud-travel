@@ -25,3 +25,4 @@ showcase_nagano
 noto-airport-pokemon-footbath-guide
 showcase_kagoshima
 october-travel-city-kusatsu-onsen-kids-family-guide
+showcase_fukuoka
