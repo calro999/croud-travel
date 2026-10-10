@@ -231,8 +231,8 @@
 「山陰本線の絶景海沿いルートや道の駅ゆうひパーク三隅観光に便利で、日本海の活イカ・紅ズワイガニが美味しい宿は？」「MASCOS HOTEL、荒磯温泉荒磯館、ルートイン益田の違いは？」島根西部の知られざる美食とクラフトホテルを徹底比較！全施設楽天トラベル公式最新空室リンク付き。
 
 ## 松江しんじ湖温泉 夕日絶景＆七珍美食の本音口コミ＆リアル宿泊ガイドガイド
-- 記事: https://croud-travel.pages.dev/posts/matsue-shinjiko-onsen-sunset-seven-delicacies-hotels-guide.json/
-- 全文Markdown: https://croud-travel.pages.dev/ai/matsue-shinjiko-onsen-sunset-seven-delicacies-hotels-guide.json.md
+- 記事: https://croud-travel.pages.dev/posts/matsue-shinjiko-onsen-sunset-seven-delicacies-hotels-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/matsue-shinjiko-onsen-sunset-seven-delicacies-hotels-guide.md
 - 宿泊施設名: 松江しんじ湖温泉 夕日絶景＆七珍美食宿セレクション
 - エリア: 松江市（松江城・宍道湖温泉・松江水郷祭・堀川遊覧船）
 - 参考価格: ¥13000〜

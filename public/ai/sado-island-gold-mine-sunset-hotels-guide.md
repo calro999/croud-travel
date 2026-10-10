@@ -1,6 +1,6 @@
 # 佐渡島 世界遺産佐渡金山＆夕日絶景宿の本音口コミ＆リアル宿泊ガイドガイド
 
-- URL: https://croud-travel.pages.dev/posts/sado-island-gold-mine-sunset-hotels-guide.json/
+- URL: https://croud-travel.pages.dev/posts/sado-island-gold-mine-sunset-hotels-guide/
 - 宿泊施設名: 佐渡島 世界遺産佐渡金山＆夕日絶景宿セレクション
 - 都道府県: 新潟県
 - エリア: 佐渡市（世界遺産佐渡金山・北沢浮遊選鉱場・尖閣湾・七浦海岸・トキの森公園）

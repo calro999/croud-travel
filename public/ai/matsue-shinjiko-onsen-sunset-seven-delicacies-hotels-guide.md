@@ -1,6 +1,6 @@
 # 松江しんじ湖温泉 夕日絶景＆七珍美食の本音口コミ＆リアル宿泊ガイドガイド
 
-- URL: https://croud-travel.pages.dev/posts/matsue-shinjiko-onsen-sunset-seven-delicacies-hotels-guide.json/
+- URL: https://croud-travel.pages.dev/posts/matsue-shinjiko-onsen-sunset-seven-delicacies-hotels-guide/
 - 宿泊施設名: 松江しんじ湖温泉 夕日絶景＆七珍美食宿セレクション
 - 都道府県: 島根県
 - エリア: 松江市（松江城・宍道湖温泉・松江水郷祭・堀川遊覧船）
