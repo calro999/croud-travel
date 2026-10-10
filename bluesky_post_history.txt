@@ -21,3 +21,4 @@ showcase_oita
 october-travel-city-chofu-fuchu-kids-family-guide
 showcase_aomori
 atami-izu-ocean-pool-hot-spring-hotels-guide
+showcase_nagano
