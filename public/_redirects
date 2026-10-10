@@ -17,10 +17,12 @@
 /campaigns/index.txt/ /campaigns/ 301
 /sitemap/index.txt /sitemap/ 301
 /sitemap/index.txt/ /sitemap/ 301
-/:path*/index.txt /:path*/ 301
-/:path*/index.txt/ /:path*/ 301
 /index.txt / 301
 /index.txt/ / 301
+
+# Wildcard fallback for index.txt
+/:splat/index.txt /:splat/ 301
+/:splat/index.txt/ /:splat/ 301
 
 # 2. Normalize trailing slashes to unify GSC indexing and SEO signals
 /posts/:slug /posts/:slug/ 301
@@ -28,4 +30,3 @@
 /spots/:slug /spots/:slug/ 301
 /furusato/:slug /furusato/:slug/ 301
 /furusato-tax-:slug /furusato-tax-:slug/ 301
-
