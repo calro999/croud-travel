@@ -1,0 +1,627 @@
+{
+  "theme_1_zao": {
+    "id": "theme_1_zao",
+    "slug": "zao-onsen-snow-monster-juhyo-lightup-winter-guide",
+    "title": "蔵王温泉の樹氷ライトアップ・スノーモンスター体験と強酸性硫黄泉！雪見露天と山形牛会席を愉しむ冬の厳選宿ガイド",
+    "prefecture": "山形県",
+    "area": "山形・蔵王",
+    "rakutenKeyword": "蔵王温泉",
+    "wikiSpots": [
+      "蔵王温泉",
+      "蔵王連峰",
+      "御釜 (蔵王連峰)"
+    ],
+    "hotels": [
+      {
+        "hotelNo": 40164,
+        "hotelName": "蔵王温泉　ＫＫＲ蔵王　白銀荘（国家公務員共済組合連合会蔵王保養所）",
+        "hotelKanaName": "ざおうおんせん　けーけーあーる　ざおう　しろがねそう",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40164/40164.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40164/40164_gr.jpg",
+        "reviewCount": 102,
+        "reviewAverage": 3.97,
+        "hotelMinCharge": 5350,
+        "address1": "山形県",
+        "address2": "山形市蔵王温泉904-8",
+        "access": "山形駅からバス蔵王温泉行き乗車４０分蔵王温泉下車徒歩５分／東北自動車道村田ＪＣから山形自動車道山形蔵王　　ＩＣより２０分",
+        "hotelSpecial": "かけ流し温泉が終夜入浴可！スキー場ロープウェイ乗場が目の前！蔵王牛や生ラムはじめ料理も自慢の公共の宿",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40164%2F40164.html"
+      },
+      {
+        "hotelNo": 39565,
+        "hotelName": "蔵王温泉　名湯リゾート　ルーセントタカミヤ",
+        "hotelKanaName": "ざおうおんせん　るーせんと　たかみや",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/39565/39565.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/39565/39565_room.jpg",
+        "reviewCount": 1557,
+        "reviewAverage": 4.16,
+        "hotelMinCharge": 8800,
+        "address1": "山形県",
+        "address2": "山形市蔵王温泉942",
+        "access": "ＪＲ山形駅より蔵王温泉行きのバス乗車後、終点蔵王温泉下車、徒歩５分 （送迎有）",
+        "hotelSpecial": "～名湯一門　高見屋～★蔵王の中心で蔵王を遊びつくす温泉宿★蔵王温泉を多彩な湯舟で♪",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F39565%2F39565.html"
+      },
+      {
+        "hotelNo": 8084,
+        "hotelName": "蔵王温泉　最上高湯　善七乃湯（旧：蔵王温泉　大平ホテル）",
+        "hotelKanaName": "ざおうおんせん　もがみたかゆ　ぜんしちのゆ（きゅう：ざおうおんせん　おおひらほてる）",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8084/8084.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8084/8084_room1.jpg",
+        "reviewCount": 658,
+        "reviewAverage": 4.48,
+        "hotelMinCharge": 16500,
+        "address1": "山形県",
+        "address2": "山形市蔵王温泉825",
+        "access": "JR山形駅より定期バス45分／山形蔵王ICより車で25分／山形駅からの無料送迎（予約サイト・EGBY12月～3月）",
+        "hotelSpecial": "【温泉4.9】5つの無料貸切風呂完備｜強酸性硫黄泉×源泉かけ流しの極上湯を堪能◆ペット同伴客室あり◆",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8084%2F8084.html"
+      },
+      {
+        "hotelNo": 12587,
+        "hotelName": "蔵王温泉　蔵王・和歌（うた）の宿　わかまつや",
+        "hotelKanaName": "ざおうおんせん　ざおう・うたのやど　わかまつや",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/12587/12587.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/12587/12587_war.jpg",
+        "reviewCount": 823,
+        "reviewAverage": 4.73,
+        "hotelMinCharge": 15950,
+        "address1": "山形県",
+        "address2": "山形市蔵王温泉951-1",
+        "access": "JR山形新幹線「山形駅」より蔵王温泉行バス45分　バス停から随時送迎 / 山形道 山形蔵王ICより16km(25分）",
+        "hotelSpecial": "旬の地物を手作りした和会席と自家源泉からかけ流しの温泉で人気!貸切風呂無料～斎藤茂吉ゆかりの老舗宿",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F12587%2F12587.html"
+      },
+      {
+        "hotelNo": 14585,
+        "hotelName": "蔵王温泉　ＪＵＲＩＮ",
+        "hotelKanaName": "ざおうおんせん　じゅりん",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14585/14585.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14585/14585_room.jpg",
+        "reviewCount": 835,
+        "reviewAverage": 4.27,
+        "hotelMinCharge": 12100,
+        "address1": "山形県",
+        "address2": "山形市蔵王温泉814",
+        "access": "山形自動車道『山形蔵王IC』で下り、西蔵王高原ライン経由約30分／『山形駅』『上山駅』",
+        "hotelSpecial": "～名湯一門　高見屋～「木々と暮らす、薪火リゾート」グリーンシーズンは「小学生半額」「幼児無料」",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14585%2F14585.html"
+      },
+      {
+        "hotelNo": 40033,
+        "hotelName": "蔵王温泉　ＢＥＤ＇ｎ　ＯＮＳＥＮ　ＨＡＭＭＯＮＤ（ハモンド）",
+        "hotelKanaName": "ざおうおんせん　べっどん　おんせんはもんど",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40033/40033.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40033/40033_wa.jpg",
+        "reviewCount": 445,
+        "reviewAverage": 4.27,
+        "hotelMinCharge": 6000,
+        "address1": "山形県",
+        "address2": "山形市蔵王温泉上ノ代94-1",
+        "access": "山形新幹線にて山形駅下車、路線バスにて蔵王温泉 ターミナル下車　徒歩10分※9時から18時限定で送迎あり（到着時連絡）",
+        "hotelSpecial": "～名湯一門　高見屋～素泊まりでお得に蔵王温泉×７つの湯舎めぐりが無料♪湯治場ホテル",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40033%2F40033.html"
+      }
+    ],
+    "wikiSpotsData": [
+      {
+        "spotName": "蔵王温泉",
+        "wikiTitle": "蔵王温泉",
+        "extract": "蔵王温泉（ざおうおんせん）は、西暦110年開湯と言われ1910年の歴史を持つ、山形県（旧出羽国、明治以降は羽前国）の山形市南東部、蔵王連峰の西麓にある温泉。標高880mに位置し、古くは最上高湯、高湯（たかゆ）と呼ばれた。同県の白布温泉、福島県の高湯温泉と共に奥羽三高湯の一つに数えられる。",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/220430_ZaoOnsen_Yamagata_Yamagata_pref_Japan24s3.jpg/3840px-220430_ZaoOnsen_Yamagata_Yamagata_pref_Japan24s3.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "spotName": "蔵王連峰",
+        "wikiTitle": "蔵王連峰",
+        "extract": "蔵王連峰（ざおうれんぽう）は、東北地方の中央を南北に連なる奥羽山脈の中にあって、宮城県と山形県の両県南部の県境に位置する連峰。奥羽山脈において時と場所を移しながら次々と繰り返された火山活動によって形成された複合火山群である。",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Mount_Za%C5%8D_and_Sakura_01.jpg/3840px-Mount_Za%C5%8D_and_Sakura_01.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "spotName": "御釜 (蔵王連峰)",
+        "wikiTitle": "御釜 (蔵王連峰)",
+        "extract": "御釜（おかま）は、宮城県刈田郡蔵王町と同県柴田郡川崎町の境界付近（境界未定地域）、蔵王中の刈田岳側にある火口湖で、五色沼（ごしきぬま）とも呼ばれる。蔵王連峰の中央部の最も標高の高いエリアにあり、しばしば蔵王連峰の象徴として見られている。宮城県と山形県の県境から至近であり、宮城県のみならず山形県の名所としても紹介される。年間30万人が訪れる。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Zao_L.Okama.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      }
+    ]
+  },
+  "theme_2_kanazawa_kaga": {
+    "id": "theme_2_kanazawa_kaga",
+    "slug": "kenrokuen-yukitsuri-kanazawa-koubakogani-kaga-onsen-guide",
+    "title": "兼六園の雪吊りと旬の香箱ガニ（せいこがに）解禁！冬の金沢・加賀温泉郷で極上カニ尽くしと名湯を堪能する大人の湯宿ガイド",
+    "prefecture": "石川県",
+    "area": "金沢・加賀",
+    "rakutenKeyword": "加賀温泉",
+    "wikiSpots": [
+      "兼六園",
+      "ひがし茶屋街",
+      "山中温泉"
+    ],
+    "hotels": [
+      {
+        "hotelNo": 5174,
+        "hotelName": "温泉めい想倶楽部　富士屋旅館",
+        "hotelKanaName": "やましろおんせん　おんせんめいそうくらぶ　ふじや",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5174/5174.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5174/5174_ro.jpg",
+        "reviewCount": 993,
+        "reviewAverage": 3.99,
+        "hotelMinCharge": 7040,
+        "address1": "石川県",
+        "address2": "加賀市山代温泉桔梗ヶ丘2-121-3",
+        "access": "【ＪＲ】北陸本線加賀温泉駅より送迎有（１4：３０～１８：００）要事前予約／【車】北陸道加賀IC又は片山津ICより約20分",
+        "hotelSpecial": "【料理高評価】ライブラリ・ギャラリー・無料卓球・など嬉しいがいっぱい♪◆楽天トラベルアワード受賞の宿",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5174%2F5174.html"
+      },
+      {
+        "hotelNo": 4997,
+        "hotelName": "片山津温泉　源泉元湯の宿　かのや光楽苑",
+        "hotelKanaName": "かたやまづおんせん　げんせんもとゆのやど　かのやこうらくえん",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4997/4997.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4997/4997_rm.jpg",
+        "reviewCount": 750,
+        "reviewAverage": 4.19,
+        "hotelMinCharge": 8800,
+        "address1": "石川県",
+        "address2": "加賀市片山津温泉乙64-1",
+        "access": "JR加賀温泉駅より車で10分（無料送迎有／定時運行／要事前予約）、北陸自動車道片山津ＩＣより10分",
+        "hotelSpecial": "柴山潟に面し、客室からは湖が望めます。源泉を流し込む湯量豊富な温泉と加賀料理が自慢の元湯の宿",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4997%2F4997.html"
+      },
+      {
+        "hotelNo": 17927,
+        "hotelName": "森の栖リゾート＆スパ",
+        "hotelKanaName": "もりのすみかりぞーとあんどすぱ",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/17927/17927.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/17927/17927_wa.jpg",
+        "reviewCount": 501,
+        "reviewAverage": 4.62,
+        "hotelMinCharge": 6600,
+        "address1": "石川県",
+        "address2": "加賀市山代温泉14-27",
+        "access": "ＪＲ北陸線加賀温泉駅／高速北陸道加賀 片山津ＩＣか��� 約１５分。",
+        "hotelSpecial": "静寂な時間を愉しむことが、このえない贅沢であって欲しい",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F17927%2F17927.html"
+      },
+      {
+        "hotelNo": 14380,
+        "hotelName": "粟津温泉　旅亭懐石　のとや",
+        "hotelKanaName": "あわづおんせん　りょていかいせき　のとや",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14380/14380.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14380/14380_ky.jpg",
+        "reviewCount": 6399,
+        "reviewAverage": 4.29,
+        "hotelMinCharge": 12936,
+        "address1": "石川県",
+        "address2": "小松市粟津温泉　ワ85",
+        "access": "北陸道加賀ＩＣより２５分　加賀温泉駅・粟津駅・小松空港までの送迎もお問い合わせください",
+        "hotelSpecial": "伝統と現代の融合、700年こんこんと湧き続ける純生の湯の老舗宿！活蟹プラン販売中！",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14380%2F14380.html"
+      },
+      {
+        "hotelNo": 28073,
+        "hotelName": "粟津温泉　法師",
+        "hotelKanaName": "あわづおんせん　ほうし",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28073/28073.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28073/28073_heya1.jpg",
+        "reviewCount": 1779,
+        "reviewAverage": 4.08,
+        "hotelMinCharge": 8938,
+        "address1": "石川県",
+        "address2": "小松市粟津温泉ワ46",
+        "access": "加賀温泉駅・粟津駅無料送迎有（要事前予約）／北陸自動車道 加賀ＩＣより２０分",
+        "hotelSpecial": "養老二年開湯！伝承一千三百年の歴史ある日本の宿。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28073%2F28073.html"
+      },
+      {
+        "hotelNo": 40312,
+        "hotelName": "山中温泉　白鷺湯たわらや",
+        "hotelKanaName": "やまなかおんせん　しらさぎゆ　たわらや",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40312/40312.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40312/40312_ya.jpg",
+        "reviewCount": 999,
+        "reviewAverage": 4.55,
+        "hotelMinCharge": 11000,
+        "address1": "石川県",
+        "address2": "加賀市山中温泉東町２丁目ヘ-1",
+        "access": "ＪＲ加賀温泉駅からバスで山中温泉バスターミナル２５分。さらに徒歩３分。（無料送迎有。要予約１４：００～１８：００）。",
+        "hotelSpecial": "【2023年4月・露天風呂付特別室OPEN】創業800年/老舗/渓流露天風呂/蟹/のどぐろ/能登牛",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40312%2F40312.html"
+      }
+    ],
+    "wikiSpotsData": [
+      {
+        "spotName": "兼六園",
+        "wikiTitle": "兼六園",
+        "extract": "兼六園（けんろくえん）は、石川県金沢市に存在する日本庭園。国の特別名勝に指定されている。広さは約11.7ヘクタール。明治期から大正期にかけて名称を「兼六公園」としていたこともある（後述）。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Kenrokuen10-r.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      },
+      {
+        "spotName": "ひがし茶屋街",
+        "wikiTitle": "東山ひがし",
+        "extract": "東山ひがし（ひがしやまひがし）は、石川県金沢市の地区名。重要伝統的建造物群保存地区であり、ひがし茶屋街（ひがしちゃやがい）の名称で知られる。南北約130m、東西約180m、約1.8haで、保存地区内の建築物140のうち約3分の2が伝統的建造物であり、茶屋町創設時から明治初期に建築された茶屋様式の町家が多く残る。金沢の主な観光地の1つになっている。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Higashiyamahigashi_2015.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      },
+      {
+        "spotName": "山中温泉",
+        "wikiTitle": "山中温泉",
+        "extract": "山中温泉（やまなかおんせん）は、石川県加賀市の旧山中町にある温泉。ならびに加賀市の町名の一つ。古くから歴史のある温泉の地であり、加賀温泉郷の一角を占める。",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/260606_Kikuno-yu_Yamanaka_Onsen_Kaga_Ishikawa_pref_Japan01s3.jpg/3840px-260606_Kikuno-yu_Yamanaka_Onsen_Kaga_Ishikawa_pref_Japan01s3.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      }
+    ]
+  },
+  "theme_3_kusatsu": {
+    "id": "theme_3_kusatsu",
+    "slug": "kusatsu-onsen-yubatake-winter-lightup-snow-bath-guide",
+    "title": "草津温泉の冬の湯畑ライトアップと西の河原雪見露天風呂！氷点下に立ち上る湯けむりと上州牛会席を味わうおすすめ名宿ガイド",
+    "prefecture": "群馬県",
+    "area": "草津・白根",
+    "rakutenKeyword": "草津温泉",
+    "wikiSpots": [
+      "草津温泉",
+      "湯畑",
+      "草津白根山"
+    ],
+    "hotels": [
+      {
+        "hotelNo": 7166,
+        "hotelName": "草津温泉　５種貸切風呂の宿　湯宿　きんだい",
+        "hotelKanaName": "くさつおんせん　５しゅかしきりぶろのやど　ゆやど　きんだい",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7166/7166.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7166/7166_yor.jpg",
+        "reviewCount": 537,
+        "reviewAverage": 4.42,
+        "hotelMinCharge": 13000,
+        "address1": "群馬県",
+        "address2": "吾妻郡草津町草津542-5",
+        "access": "関越自動車道渋川伊香保ICから中之条を経て約60km。",
+        "hotelSpecial": "５つの貸切温泉風呂と専属シェフが作るカジュアルフレンチスタイル料理が自慢の老舗ペンション",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7166%2F7166.html"
+      },
+      {
+        "hotelNo": 108634,
+        "hotelName": "草津温泉　源泉かけ流しの宿　ひのき亭　牧水",
+        "hotelKanaName": "くさつおんせん　げんせんかけながしのやど　ひのきてい　ぼくすい",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108634/108634.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108634/108634_wa1.jpg",
+        "reviewCount": 196,
+        "reviewAverage": 4.35,
+        "hotelMinCharge": 10500,
+        "address1": "群馬県",
+        "address2": "吾妻郡草津町草津19-9",
+        "access": "ＪＲ　長野原草津口駅からバスで２０分 草津温泉バスターミナルから徒歩2分",
+        "hotelSpecial": "草津温泉にある全室木曽檜で数寄屋造の純和風旅館。源泉かけ流しの3つの無料貸切風呂",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108634%2F108634.html"
+      },
+      {
+        "hotelNo": 2398,
+        "hotelName": "草津温泉　ホテルスパックス草津",
+        "hotelKanaName": "くさつおんせん　ほてるぱっくす　くさつ",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2398/2398.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2398/2398_heya1.jpg",
+        "reviewCount": 1529,
+        "reviewAverage": 4.13,
+        "hotelMinCharge": 11000,
+        "address1": "群馬県",
+        "address2": "吾妻郡草津町大字草津470-1",
+        "access": "JR長野原草津口駅からJRバスで２５分（草津バスターミナル～ホテル間随時送迎あり）・渋川Ｉ．Ｃより車で９０分。",
+        "hotelSpecial": "【2024年楽天トラベル☆ゴールドアワード＆日本の宿アワード☆】ダブル受賞を致しました！",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2398%2F2398.html"
+      },
+      {
+        "hotelNo": 28305,
+        "hotelName": "草津温泉　ペンション　レザン",
+        "hotelKanaName": "くさつおんせん　れざん",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28305/28305.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28305/28305_kan.jpg",
+        "reviewCount": 198,
+        "reviewAverage": 4,
+        "hotelMinCharge": 13750,
+        "address1": "群馬県",
+        "address2": "吾妻郡草津町草津558-2",
+        "access": "ＪＲ長野原草津口駅／関越自動車道・渋川伊香保ＩＣよりＲ３５３・Ｒ１４５・Ｒ２９２経由８０分",
+        "hotelSpecial": "草津でただ一人のソムリエが営む、ワインと料理のハーモニーを楽しめるかけ流し温泉ペンション",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28305%2F28305.html"
+      },
+      {
+        "hotelNo": 29510,
+        "hotelName": "草津温泉　ペンション　ベルクラント",
+        "hotelKanaName": "べるくらんと",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29510/29510.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29510/29510_kya.jpg",
+        "reviewCount": 40,
+        "reviewAverage": 4.69,
+        "hotelMinCharge": 6550,
+        "address1": "群馬県",
+        "address2": "吾妻郡草津町草津464-1075",
+        "access": "JR吾妻線長野原草津口下車、接続バス終点草津温泉バスターミナルから送迎がございます(要事前予約)",
+        "hotelSpecial": "【露天風呂完備】草津温泉「万代鉱源泉」掛け流しの温泉とアットホームな雰囲気が心地よい宿",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29510%2F29510.html"
+      },
+      {
+        "hotelNo": 67285,
+        "hotelName": "草津温泉　群龍館",
+        "hotelKanaName": "くさつおんせん　ぐんりゅうかん",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67285/67285.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67285/67285_ky.jpg",
+        "reviewCount": 214,
+        "reviewAverage": 4.5,
+        "hotelMinCharge": 12100,
+        "address1": "群馬県",
+        "address2": "吾妻郡草津町大字草津394-2",
+        "access": "ＪＲ吾妻線　長野原草津口からＪＲバスに乗車→草津温泉バスターミナル下車、徒歩５分",
+        "hotelSpecial": "湯畑まで徒歩１分。温泉街散策に便利な宿。白旗源泉掛け流しの湯。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67285%2F67285.html"
+      }
+    ],
+    "wikiSpotsData": [
+      {
+        "spotName": "草津温泉",
+        "wikiTitle": "草津温泉",
+        "extract": "草津温泉（くさつおんせん）は、群馬県吾妻郡草津町草津界隈（江戸時代における上野国吾妻郡草津村界隈、幕藩体制下の上州御料草津村界隈〈初期は沼田藩知行〉）に所在する温泉である。草津白根山東麓に位置する。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Yubatake_%28Kusatsu_Onsen%29.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      },
+      {
+        "spotName": "湯畑",
+        "wikiTitle": "湯畑",
+        "extract": "湯畑（ゆばたけ）とは、温泉の源泉を曝気するために地表や木製の樋に掛け流すもの。硫化水素を含む硫黄泉を利用するための設備であり、湯の花の採取場ともなる。群馬県の草津温泉のものが有名であり、源泉地の名称にも使われている。",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Kusatsu_gunma_yubatake_-_2020_3_1.webm/1280px--Kusatsu_gunma_yubatake_-_2020_3_1.webm.jpg"
+      },
+      {
+        "spotName": "草津白根山",
+        "wikiTitle": "草津白根山",
+        "extract": "草津白根山 は、日本の北関東、群馬県吾妻郡草津町に所在する山。複数の火砕丘からなる複合火砕丘である。正式名称は白根山であるが、他の白根山と区別する必要のある場合の名称として地域名「草津」を冠した草津白根山の名で呼ばれる。標高は2,160メートル。",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Kusatsu-Shiranesan03s5s4272.jpg/3840px-Kusatsu-Shiranesan03s5s4272.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      }
+    ]
+  },
+  "theme_4_kifune_kyoto": {
+    "id": "theme_4_kifune_kyoto",
+    "slug": "kifune-shrine-snow-lightup-botannabe-kyoto-onsen-guide",
+    "title": "貴船神社の積雪日限定ライトアップと冬の京都奥座敷！名物ぼたん鍋と静寂の雪見温泉・大人の風情を愉しむ料理宿ガイド",
+    "prefecture": "京都府",
+    "area": "鞍馬・貴船・大原",
+    "rakutenKeyword": "京都 温泉 露天",
+    "wikiSpots": [
+      "貴船神社",
+      "鞍馬寺",
+      "三千院"
+    ],
+    "hotels": [
+      {
+        "hotelNo": 50250,
+        "hotelName": "伊豆高原温泉　全室露天付客室の隠れ宿　花の雲",
+        "hotelKanaName": "いずこうげんおんせん　ぜんしつろてんぶろつききゃくしつのかくれやど　はなのくも",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50250/50250.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50250/50250_kan.jpg",
+        "reviewCount": 506,
+        "reviewAverage": 4.43,
+        "hotelMinCharge": 25600,
+        "address1": "静岡県",
+        "address2": "伊東市富戸925-48",
+        "access": "伊豆急行線　伊豆高原駅より車で５分／東名高速道　厚木ＩＣより小田原厚木－国道１３５号線下田方面へ",
+        "hotelSpecial": "温泉が溢れる露天付の本館は全5室。2棟の－別荘 Suite Villa－は贅沢な古民家風隠れ家。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F50250%2F50250.html"
+      },
+      {
+        "hotelNo": 70670,
+        "hotelName": "客室露天風呂の宿　奥伊根温泉　油屋別館　和亭",
+        "hotelKanaName": "きゃくしつろてんぶろのやど　おくいねおんせん　あぶらやべっかん　なごみてい",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70670/70670.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70670/70670_kan.jpg",
+        "reviewCount": 635,
+        "reviewAverage": 4.68,
+        "hotelMinCharge": 27500,
+        "address1": "京都府",
+        "address2": "与謝郡伊根町津母570",
+        "access": "■電車:天橋立駅より車で約45分　■自動車:京都縦貫自動車道　与謝天橋立ICより国道178号線で約45分。目標物：伊根",
+        "hotelSpecial": "日本海を望む高台に佇む隠れ宿。大人のくつろぎをテーマに一品出しのお部屋食と露天風呂付客室が自慢です。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F70670%2F70670.html"
+      },
+      {
+        "hotelNo": 129556,
+        "hotelName": "京都北白川天然ラジウム温泉　えいせん京",
+        "hotelKanaName": "きょうときたしらかわてんねんらじうむおんせん　えいせんきょう",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/129556/129556.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/129556/129556_ru1.jpg",
+        "reviewCount": 329,
+        "reviewAverage": 4.88,
+        "hotelMinCharge": 35300,
+        "address1": "京都府",
+        "address2": "京都市左京区北白川地蔵谷町1-125",
+        "access": "三条京阪・出町柳駅より京阪バスにて【地蔵谷】バス停下車すぐ■京阪出町柳駅・市バス銀閣寺道より無料お迎えサービスあり",
+        "hotelSpecial": "全国トップクラスのラジウム含有量を誇る天然温泉■オリジナルの京料理は絶品！露天付客室がおススメです。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F129556%2F129556.html"
+      },
+      {
+        "hotelNo": 14574,
+        "hotelName": "京都大原の民宿～１００年続く希少味噌～大原温泉　大原の里",
+        "hotelKanaName": "きょうとおおはらのみんしゅく　１００ねんつづくきしょうみそ　おおはらおんせん　おおはらのさと",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14574/14574.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14574/14574_fu.jpg",
+        "reviewCount": 507,
+        "reviewAverage": 4.17,
+        "hotelMinCharge": 8800,
+        "address1": "京都府",
+        "address2": "京都市左京区大原草生町41",
+        "access": "JR京都駅より京都バス 大原行きで「大原」下車 徒歩１２分★「四条河原町」～「大原」はバスで約５０分♪",
+        "hotelSpecial": "大原温泉湯元。露天・五右衛門風呂がある大原名物「味噌鍋」本家の民宿。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14574%2F14574.html"
+      },
+      {
+        "hotelNo": 8838,
+        "hotelName": "京都　嵐山温泉　渡月亭",
+        "hotelKanaName": "きょうと　あらしやまおんせん　とげつてい",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8838/8838.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8838/8838_gen.jpg",
+        "reviewCount": 255,
+        "reviewAverage": 3.92,
+        "hotelMinCharge": 23400,
+        "address1": "京都府",
+        "address2": "京都市西京区嵐山中尾下町54-4（渡月橋南詰め）",
+        "access": "京都駅よりＪＲ嵯峨野線嵯峨嵐山駅下車徒歩１５分。阪急京都線桂駅より嵐山線嵐山駅下車徒歩５分。名神京都南ＩＣより約４０分",
+        "hotelSpecial": "【料亭旅館】嵐山・嵯峨野散策に最適な京都・嵐山温泉の宿。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8838%2F8838.html"
+      },
+      {
+        "hotelNo": 130702,
+        "hotelName": "京都　嵐山温泉　花伝抄（共立リゾート）（２０２６年５月１日リニューアルオープン）",
+        "hotelKanaName": "きょうと あらしやまおんせん　かでんしょう",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/130702/130702.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/130702/130702_ru1.jpg",
+        "reviewCount": 1983,
+        "reviewAverage": 4.46,
+        "hotelMinCharge": 18100,
+        "address1": "京都府",
+        "address2": "京都市西京区嵐山西一川町5-4",
+        "access": "阪急嵐山線「嵐山駅」より徒歩１分。JR「京都駅」より約30分、阪急「梅田駅」より約50分。",
+        "hotelSpecial": "渡月橋まで徒歩約5分！目の前の阪急嵐山駅より京都の中心街まですぐ！天然温泉と5つの貸切風呂が無料！",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F130702%2F130702.html"
+      }
+    ],
+    "wikiSpotsData": [
+      {
+        "spotName": "貴船神社",
+        "wikiTitle": "貴船神社",
+        "extract": "貴船神社（きふねじんじゃ）は、京都市左京区鞍馬貴船町にある神社。式内社（名神大社）、二十二社（下八社）の一社。旧社格は官幣中社で、現在は神社本庁の別表神社。全国に二千社を数える水神の総本宮である。地域名の貴船「きぶね」とは違い、水神であることから濁らず「きふね」という。付近は紅葉の名所のひとつでもある。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Kibune_Shinto_Shrine001.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      },
+      {
+        "spotName": "鞍馬寺",
+        "wikiTitle": "鞍馬寺",
+        "extract": "鞍馬寺（くらまでら）は、京都市左京区鞍馬本町にある鞍馬弘教の総本山の寺院。山号は鞍馬山（くらまやま）、本尊は「尊天」。「尊天」とは毘沙門天王、千手観世音菩薩、護法魔王尊の三身一体の本尊であるという。開山は鑑真の高弟・鑑禎（がんてい）。新西国三十三箇所第19番札所。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Kurama-dera_sanmon.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      },
+      {
+        "spotName": "三千院",
+        "wikiTitle": "三千院",
+        "extract": "三千院（さんぜんいん）は、京都市左京区大原来迎院町にある天台宗の寺院。山号は魚山（ぎょざん）。本尊は薬師如来。三千院門跡とも称する。京都市街の北東に位置する山中、かつては貴人や仏教修行者の隠棲の地であった大原の里にある。青蓮院、妙法院とともに、天台宗三門跡の1つに数えられている。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Sanzen%27in_01.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      }
+    ]
+  },
+  "theme_5_nyuto_akita": {
+    "id": "theme_5_nyuto_akita",
+    "slug": "nyuto-onsen-kyo-snow-secret-bath-kiritanpo-akita-guide",
+    "title": "乳頭温泉郷の白銀秘湯めぐりと冬の囲炉裏きりたんぽ鍋！田沢湖・八幡平の豪雪露天と比内地鶏を堪能する厳選名宿ガイド",
+    "prefecture": "秋田県",
+    "area": "田沢湖・角館・乳頭温泉郷",
+    "rakutenKeyword": "田沢湖 温泉",
+    "wikiSpots": [
+      "乳頭温泉郷",
+      "田沢湖",
+      "角館"
+    ],
+    "hotels": [
+      {
+        "hotelNo": 4624,
+        "hotelName": "天然温泉　田沢湖レイクリゾート",
+        "hotelKanaName": "てんねんおんせん　たざわこれいくりぞーと",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4624/4624.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4624/4624_room.jpg",
+        "reviewCount": 1990,
+        "reviewAverage": 4.16,
+        "hotelMinCharge": 6342,
+        "address1": "秋田県",
+        "address2": "仙北市田沢湖生保内字下高野82-117",
+        "access": "JR秋田新幹線田沢湖駅からバスで２０分、盛岡Ｉ．Ｃから５０分。田沢湖駅から送迎バスにて約15分（要事前予約）",
+        "hotelSpecial": "静寂の美、田沢湖まで車で約15分　わんちゃんと一緒の宿泊も人気です♪",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4624%2F4624.html"
+      },
+      {
+        "hotelNo": 70772,
+        "hotelName": "田沢湖水沢温泉郷セルリアンリゾートＡＯＮＩ",
+        "hotelKanaName": "たざわこみずさわおんせんきょうせるりあんりぞーとあおに",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70772/70772.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70772/70772_meal.jpg",
+        "reviewCount": 339,
+        "reviewAverage": 4.19,
+        "hotelMinCharge": 12400,
+        "address1": "秋田県",
+        "address2": "仙北市田沢湖生保内下高野73-13",
+        "access": "田沢湖駅よりバスで約２５分（乳頭線、水沢温泉郷で降車）、タクシーで約１５分",
+        "hotelSpecial": "★2024年露天風呂リニューアル！美肌成分豊富な源泉かけ流しの露天風呂付き大浴場と地元食材の料理",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F70772%2F70772.html"
+      },
+      {
+        "hotelNo": 130001,
+        "hotelName": "田沢湖高原温泉　ロッジアイリス",
+        "hotelKanaName": "たざわここうげんおんせん　ろっじあいりす",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/130001/130001.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/130001/130001_wa.jpg",
+        "reviewCount": 73,
+        "reviewAverage": 4.43,
+        "hotelMinCharge": 7500,
+        "address1": "秋田県",
+        "address2": "仙北市田沢湖生保内駒ヶ岳2-139",
+        "access": "田沢湖駅よりお車にて３０分",
+        "hotelSpecial": "四季豊かなこころを満たす時間がここにあります。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F130001%2F130001.html"
+      },
+      {
+        "hotelNo": 16520,
+        "hotelName": "田沢湖高原温泉　田沢高原ホテル",
+        "hotelKanaName": "たざわここうげんおんせん　たざわこうげんほてる",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16520/16520.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16520/16520_w8.jpg",
+        "reviewCount": 312,
+        "reviewAverage": 4.46,
+        "hotelMinCharge": 8250,
+        "address1": "秋田県",
+        "address2": "仙北市田沢湖生保内駒ヶ岳2",
+        "access": "田沢湖駅前バスターミナルより高原温泉バス停下車、隣りになります。",
+        "hotelSpecial": "家族で営む、山の温泉宿。　施設は古くなってまいりましたが、ハードよりハートを大切にしております。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16520%2F16520.html"
+      },
+      {
+        "hotelNo": 31604,
+        "hotelName": "田沢湖高原温泉　どんぐり山荘",
+        "hotelKanaName": "たざわここうげんおんせん　どんぐりさんそう",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31604/31604.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31604/31604_sy.jpg",
+        "reviewCount": 51,
+        "reviewAverage": 4.33,
+        "hotelMinCharge": 10000,
+        "address1": "秋田県",
+        "address2": "仙北市田沢湖生保内下高野72-30",
+        "access": "ＪＲ田沢湖駅",
+        "hotelSpecial": "温泉と山菜、キノコ料理の宿。田沢湖スキー場のリフト一日券（大人）割引します。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31604%2F31604.html"
+      },
+      {
+        "hotelNo": 11222,
+        "hotelName": "亀の井ホテル　田沢湖",
+        "hotelKanaName": "かめのいほてる たざわこ",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/11222/11222.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/11222/11222_war.jpg",
+        "reviewCount": 1697,
+        "reviewAverage": 4.03,
+        "hotelMinCharge": 5376,
+        "address1": "秋田県",
+        "address2": "仙北市田沢湖生保内駒ケ岳2-32",
+        "access": "JR田沢湖駅より乳頭温泉行バス約35分「杉谷地」下車　駒ケ岳登山口行きバス停まで徒歩約10分　乳頭温泉まで車で約10分",
+        "hotelSpecial": "ブナの森に包まれる泉質自慢の温泉と旬の郷土料理を味わうくつろぎの宿",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F11222%2F11222.html"
+      }
+    ],
+    "wikiSpotsData": [
+      {
+        "spotName": "乳頭温泉郷",
+        "wikiTitle": "乳頭温泉郷",
+        "extract": "乳頭温泉郷（にゅうとうおんせんきょう）は、秋田県仙北市、十和田八幡平国立公園内乳頭山の山麓に点在する温泉の総称、温泉郷である。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Pathway_to_the_Qkamura_Nyuto_Onsenkyo.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      },
+      {
+        "spotName": "田沢湖",
+        "wikiTitle": "田沢湖",
+        "extract": "田沢湖（たざわこ）は、秋田県仙北市にある淡水湖。一級河川雄物川水系に属する。日本で最も深い湖であり、日本で19番目に広い湖沼でもある。その全域が田沢湖抱返り県立自然公園に指定されており、日本百景にも選ばれている景勝地である。1956年（昭和31年）から2005年（平成17年）まで存在した自治体である田沢湖町の名の由来であり、現在も旧田沢湖町の区域の地名冠称として使われている。",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Lake_Tazawa_and_Kansa-g%C5%AB_20210213.jpg/3840px-Lake_Tazawa_and_Kansa-g%C5%AB_20210213.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "spotName": "角館",
+        "wikiTitle": "角館",
+        "extract": "角館（かくのだて、秋田弁:かぐんだで、かぐだで）は、秋田県仙北市の地名、および国の重要伝統的建造物群保存地区の名称。現在も藩政時代の地割が踏襲され、武家屋敷等の建造物が数多く残されており、「みちのくの小京都」とも呼ばれる。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Bukeyashiki_Street_in_Kakunodate_20180428b.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      }
+    ]
+  }
+}

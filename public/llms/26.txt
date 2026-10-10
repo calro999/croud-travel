@@ -1,4 +1,14 @@
-# 京都府の宿泊・観光記事（46件）
+# 京都府の宿泊・観光記事（47件）
+
+## 貴船神社の積雪日限定ライトアップと冬の京都奥座敷！名物ぼたん鍋と静寂の雪見温泉・大人の風情を愉しむ料理宿ガイド
+- 記事: https://croud-travel.pages.dev/posts/kifune-shrine-snow-lightup-botannabe-kyoto-onsen-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/kifune-shrine-snow-lightup-botannabe-kyoto-onsen-guide.md
+- 宿泊施設名: 大原温泉湯元　旬味草菜　お宿　芹生
+- エリア: 鞍馬・貴船・大原
+- 参考価格: ¥38582〜
+- 評価: 4.78
+
+12月〜1月の京都・貴船神社「積雪日限定ライトアップ」と奥京都を大特集！朱塗りの春日灯篭が照らす白銀の参道、大原三千院の静寂の雪景色、冬の京都名物「本場ぼたん鍋（猪肉）」、美肌の天然温泉露天風呂と大人の1泊2日モデルプランを徹底解説。
 
 ## おすすめ宿：天然温泉 「旅人の湯」ホテルルートイン京都舞鶴 ー西舞鶴駅前ーの魅力と見どころをご紹介
 - 記事: https://croud-travel.pages.dev/posts/187150/

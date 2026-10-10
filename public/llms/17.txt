@@ -1,4 +1,14 @@
-# 石川県の宿泊・観光記事（62件）
+# 石川県の宿泊・観光記事（63件）
+
+## 兼六園の雪吊りと旬の香箱ガニ（せいこがに）解禁！冬の金沢・加賀温泉郷で極上カニ尽くしと名湯を堪能する大人の湯宿ガイド
+- 記事: https://croud-travel.pages.dev/posts/kenrokuen-yukitsuri-kanazawa-koubakogani-kaga-onsen-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/kenrokuen-yukitsuri-kanazawa-koubakogani-kaga-onsen-guide.md
+- 宿泊施設名: 山中温泉　白鷺湯たわらや
+- エリア: 金沢・加賀
+- 参考価格: ¥11000〜
+- 評価: 4.55
+
+11月〜1月の金沢・兼六園雪吊りと加賀温泉郷を大特集！11月解禁の冬の味覚の女王「香箱ガニ（せいこがに）」の甲羅盛り、ひがし茶屋街の雪景色、山中・山代・片山津温泉の渓流雪見露天風呂、極上カニ会席宿と大人の1泊2日モデルプランを徹底解説。
 
 ## 加賀・山中温泉 すゞや今日楼の宿泊ルポ＆見どころガイド｜石川県
 - 記事: https://croud-travel.pages.dev/posts/28791/
