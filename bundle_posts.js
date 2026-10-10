@@ -209,19 +209,38 @@ function main() {
 Allow: /
 Disallow: /private/
 
+# DuckDuckGo Crawler
+User-agent: DuckDuckBot
+Allow: /
+
+# OpenAI / ChatGPT / SearchGPT Crawlers
 User-agent: GPTBot
 Allow: /
 
 User-agent: ChatGPT-User
 Allow: /
 
+User-agent: OAI-SearchBot
+Allow: /
+
+# Google AI Overviews & Gemini Crawlers
 User-agent: Google-Extended
 Allow: /
 
+# Anthropic / Claude Crawlers
 User-agent: ClaudeBot
 Allow: /
 
+# Perplexity AI Crawler
 User-agent: PerplexityBot
+Allow: /
+
+# Apple Intelligence Crawler
+User-agent: Applebot-Extended
+Allow: /
+
+# Cohere AI
+User-agent: cohere-ai
 Allow: /
 
 User-agent: Bytespider
