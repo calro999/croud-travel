@@ -1,4 +1,4 @@
-# 【全国の有名観光地＆ご当地名物・お土産ガイド】47都道府県の人気スポット・銘菓・名物グルメ完全総まとめ
+# 全国47都道府県の名物・ご当地グルメ＆お土産決定版！絶対に外さない名所と人気銘菓まとめ
 
 - URL: https://croud-travel.pages.dev/posts/famous-spots-and-souvenirs-japan-prefecture-guide/
 - 宿泊施設名: 別府最大級の露天風呂の宿　おにやまホテル

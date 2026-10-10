@@ -1,4 +1,4 @@
-# 【河口湖 もみじ回廊 露天風呂 おすすめ宿】富士河口湖紅葉まつりと富士山絶景ビュー温泉ホテル10選
+# 河口湖もみじ回廊のライトアップへ！富士山を一望する露天風呂と秋の美味を味わう温泉ホテル10選
 
 - URL: https://croud-travel.pages.dev/posts/autumn-yamanashi-kawaguchiko-10selection/
 - 宿泊施設名: 河口湖・富士五湖おすすめ温泉宿10選

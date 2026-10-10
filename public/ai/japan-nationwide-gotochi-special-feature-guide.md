@@ -1,4 +1,4 @@
-# 【日本全国ご当地特集 2026-2027年最新】47都道府県の絶景・名湯・旬グルメを完全網羅！失敗しない国内旅行ガイド
+# 日本全国47都道府県のご当地特集！旬の味覚・名湯温泉・季節の絶景を巡る大人の国内旅行ガイド
 
 - URL: https://croud-travel.pages.dev/posts/japan-nationwide-gotochi-special-feature-guide/
 - 宿泊施設名: 別府最大級の露天風呂の宿　おにやまホテル

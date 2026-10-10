@@ -1,4 +1,4 @@
-# 【城崎温泉 カニ 旅行 おすすめ宿】七つの外湯めぐりと冬の活松葉ガニ会席！失敗しない名旅館ランキング7選
+# 城崎温泉カニ旅行ならここ！七つの外湯めぐりと冬の極上松葉ガニ会席を堪能する名旅館7選
 
 - URL: https://croud-travel.pages.dev/posts/kinosaki-onsen-seven-baths-yukata-guide/
 - 宿泊施設名: 城崎温泉 料理旅館 よしはる
