@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            鳥羽・伊勢志摩の秋味覚「伊勢海老漁解禁」＆リアス海岸美・絶景オーシャンビュー温泉
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">鳥羽・伊勢志摩の秋味覚「伊勢海老漁解禁」＆リアス海岸美・絶景オーシャンビュー温泉</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の三重・鳥羽＆伊勢志摩特集！10月に本場解禁を迎える活伊勢海老の姿造りや鬼殻焼き、伊勢湾・鳥羽湾を望む絶景オーシャンビュー露天風呂、伊勢神宮参拝とリアス式海岸の秋旅をふるさと納税トラベルクーポンでお得に満喫する贅沢ガイド。
           </p>

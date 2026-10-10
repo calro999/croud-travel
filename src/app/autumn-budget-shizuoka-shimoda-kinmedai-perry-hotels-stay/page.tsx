@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【伊豆下田】旬の金目鯛煮付け＆名湯満喫！3,000円台〜泊まれる格安温泉ホテル5選',
+  title: '伊豆下田：旬の金目鯛煮付け＆名湯満喫！3,000円台〜泊まれる格安温泉ホテル5選',
   description: '秋に脂が乗り最高潮の旨味を誇る下田名物「金目鯛の煮付け」と黒船来航の歴史情緒を満喫！伊豆急下田駅周辺・下田温泉で3,000円台〜泊まれる格安・高コスパ宿厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetShimodaKinmedaiHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>南伊豆・秋の金目鯛グルメ＆黒船の港町</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【伊豆下田】旬の脂乗り金目鯛＆歴史ある名湯！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ温泉宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「伊豆下田」旬の脂乗り金目鯛＆歴史ある名湯！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ温泉宿5選</h1>
           <p className="text-sm md:text-base text-rose-100/90 max-w-2xl mx-auto leading-relaxed">
             日本一の水揚げ量を誇る下田港の「金目鯛」。秋は産卵を終えて脂を蓄え、身がほろりと解ける煮付けや鮮度抜群の地魚握りが一年で最も旨い季節です。ペリー提督一行が歩いた風情ある石畳のペリーロードや黒船の港風景を巡り、3,000円台〜泊まれる格安・良質宿を厳選紹介。
           </p>

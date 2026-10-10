@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】鉄瓶で沸かすまろやかな白湯。南部鉄器の美と花巻・つなぎ温泉の風情名宿5選 | 日本全国・旅宿クラウド',
+  title: '2026年：鉄瓶で沸かすまろやかな白湯。南部鉄器の美と花巻・つなぎ温泉の風情名宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！四百年の歴史を誇る岩手の伝統工芸「南部鉄器」！鉄瓶で丁寧に淹れたお茶と前沢牛・三陸海鮮会席、名湯花巻温泉郷で日本の職人技に触れる宿5選。',
   keywords: ["2026年", "つなぎ温泉の風情名宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: '【2026年】鉄瓶で沸かすまろやかな白湯。南部鉄器の美と花巻・つなぎ温泉の風情名宿5選',
+    title: '2026年：鉄瓶で沸かすまろやかな白湯。南部鉄器の美と花巻・つなぎ温泉の風情名宿5選',
     description: '2026年最新！四百年の歴史を誇る岩手の伝統工芸「南部鉄器」！鉄瓶で丁寧に淹れたお茶と前沢牛・三陸海鮮会席、名湯花巻温泉郷で日本の職人技に触れる宿5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/traditional-iwate-nanbu-ironware-onsen-stay',
@@ -193,9 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> 伝統南部鉄器×花巻温泉郷名湯
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】鉄瓶で沸かすまろやかな白湯。南部鉄器の美と花巻・つなぎ温泉の風情名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」鉄瓶で沸かすまろやかな白湯。南部鉄器の美と花巻・つなぎ温泉の風情名宿5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             使い込むほどに深い味わいを増す岩手の伝統工芸「南部鉄器」。重厚な鉄瓶で沸かした白湯やお茶のまろやかな口当たりを味わい、宮沢賢治ゆかりの花巻温泉郷や盛岡つなぎ温泉のやわらかな名湯で癒やされる東北のクラフト旅。
           </p>

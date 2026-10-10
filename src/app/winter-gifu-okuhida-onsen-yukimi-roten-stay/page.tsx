@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月奥飛騨温泉郷】飛騨牛朴葉味噌焼き会席！名宿5選',
+  title: '奥飛騨温泉郷で過ごす冬の旅（11・12月）！飛騨牛朴葉味噌焼き会席！名宿5選',
   description: '北アルプス穂高連峰の懐に抱かれた日本屈指の温泉天国・岐阜県奥飛騨温泉郷。11月下旬の初冠雪から12月の白銀世界へと移ろう初冬。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '奥飛騨温泉郷 宿泊 11月 12月, 奥飛騨 雪見露天風呂, 平湯温泉 福地温泉 新穂高温泉, 飛騨牛 朴葉味噌 旅館, 深山桜庵 孫九郎 槍見館, 新穂高ロープウェイ 冬, 奥飛騨 冬 ドライブ スタッドレスタイヤ',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-gifu-okuhida-onsen-yukimi-roten-stay/",
   },
   openGraph: {
-    title: '【11・12月奥飛騨温泉郷】飛騨牛朴葉味噌焼き会席！名宿5選',
+    title: '奥飛騨温泉郷で過ごす冬の旅（11・12月）！飛騨牛朴葉味噌焼き会席！名宿5選',
     description: '北アルプス穂高連峰の懐に抱かれた日本屈指の温泉天国・岐阜県奥飛騨温泉郷。11月下旬の初冠雪から12月の白銀世界へと移ろう初冬。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-gifu-okuhida-onsen-yukimi-roten-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月奥飛騨温泉郷の雪見露天と北アルプス絶景】圧倒的湯量と雄大な山岳美・飛騨牛朴葉味噌焼き会席の宿5選",
+    title: "奥飛騨温泉郷の雪見露天と北アルプス絶景で過ごす冬の旅（11・12月）！圧倒的湯量と雄大な山岳美・飛騨牛朴葉味噌焼き会席の宿5選",
     description: "北アルプス穂高連峰の懐に抱かれた日本屈指の温泉天国・岐阜県奥飛騨温泉郷。11月下旬の初冠雪から12月の白銀世界へと移ろう初冬、毎分44,000リットルを超える圧倒的な湯量を誇る雪見大露天風呂と、極上A5等級飛騨牛の香ばしい朴葉味噌焼き・囲炉裏会席を五感で堪能する冬の名宿ガイド。",
   }
 };
@@ -266,10 +266,7 @@ export default function OkuhidaWinterPage() {
             <Mountain className="w-4 h-4 text-emerald-300" />
             <span>11月・12月限定 北アルプス白銀の山岳美と日本一の雪見露天特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月奥飛騨温泉郷の雪見露天と北アルプス絶景】<br className="hidden sm:inline" />
-            圧倒的湯量と雄大な山岳美・飛騨牛朴葉味噌焼き会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">奥飛騨温泉郷の雪見露天と北アルプス絶景で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 圧倒的湯量と雄大な山岳美・飛騨牛朴葉味噌焼き会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             槍ヶ岳・穂高連峰の麓に湧く毎分44,000Lの天然名湯。11月下旬の初雪から12月の白銀世界へと染まる渓谷で、息をのむ大自然と湯けむりに包まれる雪見露天風呂。香ばしい飛騨牛朴葉味噌焼きと囲炉裏の温もりに浸る至福の冬旅。
           </p>

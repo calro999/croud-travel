@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-kominka-heritage-townhouse-auberge-stay/" },
-  title: '【古民家再生・町家オーベルジュ×ふるさと納税】築100年の土蔵・重伝建商家に泊まる文化財ステイ完全ガイド | クラウドトラベル',
+  title: '古民家再生・町家オーベルジュをふるさと納税でお得に旅する！築100年の土蔵・重伝建商家に泊まる文化財ステイ厳選ガイド | クラウドトラベル',
   description: '町全体がホテル！兵庫・丹波篠山、長野・木曽路奈良井宿、岐阜・飛騨高山の国選定重要伝統的建造物群保存地区に泊まる。築100年の商家・土蔵をリノベーションした分散型古民家ホテルをふるさと納税で賢く予約。',
   openGraph: {
-    title: '【古民家再生・町家オーベルジュ×ふるさと納税】築100年の土蔵・重伝建商家に泊まる文化財ステイ完全ガイド | クラウドトラベル',
+    title: '古民家再生・町家オーベルジュをふるさと納税でお得に旅する！築100年の土蔵・重伝建商家に泊まる文化財ステイ厳選ガイド | クラウドトラベル',
     description: '町全体がホテル！兵庫・丹波篠山、長野・木曽路奈良井宿、岐阜・飛騨高山の国選定重要伝統的建造物群保存地区に泊まる。築100年の商家・土蔵をリノベーションした分散型古民家ホテルをふるさと納税で賢く予約。',
     type: 'article',
   },
@@ -59,9 +59,7 @@ export default function Page() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             ふるさと納税×古民家再生・分散型町家ステイ
           </div>
-          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            【古民家再生・町家オーベルジュ×ふるさと納税】築100年の土蔵・重伝建商家に泊まる文化財ステイ完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">古民家再生・町家オーベルジュをふるさと納税でお得に旅する！築100年の土蔵・重伝建商家に泊まる文化財ステイ厳選ガイド</h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl mb-6">
             江戸・明治・大正期に建てられた重厚な土蔵や格式ある商家、武家屋敷を、現代の快適性を備えた極上リゾートとして蘇らせた「古民家再生ホテル（分散型ホテル）」。町全体をひとつのホテルに見立て、点在する歴史的建造物に宿泊しながら、石畳の小路を歩き、地元の商店や工房を巡る体験は、日本の本物の文化と人々の暮らしに深く触れる旅として熱い注目を集めています。黒豆や丹波栗で名高い兵庫・丹波篠山、木曽十一宿の風情が色濃く残る長野・奈良井宿、そして飛騨の匠の技が息づく岐阜・飛騨高山。太い梁や格天井、職人が手掛けた漆喰壁の温もりに包まれ、夕食にはその土地のテロワールを凝縮した創作フレンチや和モダン会席を堪能する――歴史的建造物の維持管理には多くの支援が必要ですが、楽天ふるさと納税のトラベルクーポンを活用すれば、自治体の町並み保存を応援しつつ実質30％割引で宿泊可能。時を超えて受け継がれる日本の美意識に泊まる、特別な文化財ステイへご案内します。
           </p>

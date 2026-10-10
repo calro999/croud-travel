@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/gifu-hirayu-solo-retreat-okuhida-onsen-stay/" },
-  title: '【奥飛騨・平湯温泉ひとり旅・北アルプス山懐の原生林秘湯おこもり】奥飛騨最古の源泉かけ流し・飛騨牛炭火焼き・大露天風呂！山岳リトリート厳選3宿',
+  title: '奥飛騨・平湯温泉ひとり旅・北アルプス山懐の原生林秘湯おこもり：奥飛騨最古の源泉かけ流し・飛騨牛炭火焼き・大露天風呂！山岳リトリート厳選3宿',
   description: '北アルプス乗鞍岳の山麓、奥飛騨温泉郷で最も歴史ある平湯温泉！1日4組限定の贅沢な創作山草料理と全室貸切露天風呂で楽天口コミ驚異の★4.80を誇る「料理旅館 奥飛騨山草庵 饗家」、自家源泉と総ヒノキ大浴場が自慢の老舗「平田館」、飛騨の木造建築と家庭的なもてなしの「花ごころ万喜」を楽天API最新データに基づき徹底比較。',
   keywords: '平湯温泉 一人旅 宿,平湯温泉 ホテル 一人,奥飛騨山草庵 饗家,平湯温泉 平田館,花ごころ万喜,平湯温泉 ひとり旅 おこもり',
   openGraph: {
-    title: '【奥飛騨・平湯温泉ひとり旅・北アルプス山懐の原生林秘湯おこもり】奥飛騨最古の源泉かけ流し・飛騨牛炭火焼き・大露天風呂！山岳リトリート厳選3宿',
+    title: '奥飛騨・平湯温泉ひとり旅・北アルプス山懐の原生林秘湯おこもり：奥飛騨最古の源泉かけ流し・飛騨牛炭火焼き・大露天風呂！山岳リトリート厳選3宿',
     description: '北アルプス乗鞍岳の山麓、奥飛騨温泉郷で最も歴史ある平湯温泉！1日4組限定の贅沢な創作山草料理と全室貸切露天風呂で楽天口コミ驚異の★4.80を誇る「料理旅館 奥飛騨山草庵 饗家」、自家源泉と総ヒノキ大浴場が自慢の老舗「平田館」、飛騨の木造建築と家庭的なもてなしの「花ごころ万喜」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/gifu-hirayu-solo-retreat-okuhida-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【奥飛騨・平湯温泉ひとり旅・北アルプス山懐の原生林秘湯おこもり】奥飛騨最古の源泉かけ流し・飛騨牛炭火焼き・大露天風呂！山岳リトリート厳選3宿',
+    headline: '奥飛騨・平湯温泉ひとり旅・北アルプス山懐の原生林秘湯おこもり：奥飛騨最古の源泉かけ流し・飛騨牛炭火焼き・大露天風呂！山岳リトリート厳選3宿',
     description: '北アルプス乗鞍岳の山麓、奥飛騨温泉郷で最も歴史ある平湯温泉！1日4組限定の贅沢な創作山草料理と全室貸切露天風呂で楽天口コミ驚異の★4.80を誇る「料理旅館 奥飛騨山草庵 饗家」、自家源泉と総ヒノキ大浴場が自慢の老舗「平田館」、飛騨の木造建築と家庭的なもてなしの「花ごころ万喜」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             奥飛騨・平湯温泉ひとり旅＆山岳秘湯おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【奥飛騨・平湯温泉ひとり旅・北アルプス山懐の原生林秘湯おこもり】奥飛騨最古の源泉かけ流し・飛騨牛炭火焼き・大露天風呂！山岳リトリート厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「奥飛騨・平湯温泉ひとり旅・北アルプス山懐の原生林秘湯おこもり」奥飛騨最古の源泉かけ流し・飛騨牛炭火焼き・大露天風呂！山岳リトリート厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

@@ -3,11 +3,11 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【雲仙温泉×ふるさと納税】雲仙地獄の湯煙と濃厚白濁硫黄泉！名門クラシックホテル＆美食リゾート滞在ガイド｜雲仙宮崎旅館・雲仙観光ホテル・雲仙福田屋',
+  title: '雲仙温泉をふるさと納税でお得に旅する！雲仙地獄の湯煙と濃厚白濁硫黄泉！名門クラシックホテル＆美食リゾート滞在ガイド｜雲仙宮崎旅館・雲仙観光ホテル・雲仙福田屋',
   description: '日本最初の国立公園に佇む名湯・雲仙温泉を楽天ふるさと納税で満喫！立ち上る地獄谷の噴気と美肌の白濁硫黄泉、国の有形文化財に指定された雲仙観光ホテル、地獄を一望する雲仙宮崎旅館、民芸モダンが魅力の福田屋を徹底紹介。長崎和牛・島原の地魚・卓袱料理の美味とクーポン利用術を網羅。',
   keywords: '雲仙温泉 ふるさと納税,雲仙地獄 旅館,雲仙観光ホテル ふるさと納税,雲仙宮崎旅館 クーポン,長崎 温泉 ふるさと納税 旅行',
   openGraph: {
-    title: '【雲仙温泉×ふるさと納税】雲仙地獄の湯煙と濃厚白濁硫黄泉！名門クラシックホテル＆美食リゾート滞在ガイド｜雲仙宮崎旅館・雲仙観光ホテル・雲仙福田屋',
+    title: '雲仙温泉をふるさと納税でお得に旅する！雲仙地獄の湯煙と濃厚白濁硫黄泉！名門クラシックホテル＆美食リゾート滞在ガイド｜雲仙宮崎旅館・雲仙観光ホテル・雲仙福田屋',
     description: '日本最初の国立公園に佇む名湯・雲仙温泉を楽天ふるさと納税で満喫！立ち上る地獄谷の噴気と美肌の白濁硫黄泉、国の有形文化財に指定された雲仙観光ホテル、地獄を一望する雲仙宮崎旅館、民芸モダンが魅力の福田屋を徹底紹介。長崎和牛・島原の地魚・卓袱料理の美味とクーポン利用術を網羅。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-unzen-onsen-jigoku-sulfur-stay',
@@ -54,9 +54,7 @@ export default function FurusatoTaxArticle() {
             <span>•</span>
             <span>自治体公認 宿泊割引</span>
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-5xl font-extrabold tracking-tight text-white font-serif leading-tight">
-            【雲仙温泉×ふるさと納税】雲仙地獄の湯煙と濃厚白濁硫黄泉！名門クラシックホテル＆美食リゾート滞在ガイド｜雲仙宮崎旅館・雲仙観光ホテル・雲仙福田屋
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-5xl font-extrabold tracking-tight text-white font-serif leading-tight">雲仙温泉をふるさと納税でお得に旅する！雲仙地獄の湯煙と濃厚白濁硫黄泉！名門クラシックホテル＆美食リゾート滞在ガイド｜雲仙宮崎旅館・雲仙観光ホテル・雲仙福田屋</h1>
           <p className="text-stone-300 text-sm md:text-base max-w-2xl mx-auto pt-2 leading-relaxed">
             日本最初の国立公園に佇む名湯・雲仙温泉を楽天ふるさと納税で満喫！立ち上る地獄谷の噴気と美肌の白濁硫黄泉、国の有形文化財に指定された雲仙観光ホテル、地獄を一望する雲仙宮崎旅館、民芸モダンが魅力の福田屋を徹底紹介。長崎和牛・島原の地魚・卓袱料理の美味とクーポン利用術を網羅。
           </p>

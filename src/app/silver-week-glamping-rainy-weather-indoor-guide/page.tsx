@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-rainy-weather-indoor-guide/" },
-  title: "【雨でも安心！全天候型グランピング】屋根付きBBQデッキ＆冷暖房完備ドームテントで台風・雨天も快適 ｜ 日本全国・旅宿クラウド",
+  title: "雨でも安心！全天候型グランピング：屋根付きBBQデッキ＆冷暖房完備ドームテントで台風・雨天も快適 ｜ 日本全国・旅宿クラウド",
   description:
     "せっかくのシルバーウィークが雨予報でも大丈夫！開閉式ルーフや屋根付きウッドデッキ、室内ボードゲームラウンジ、温泉大浴場が直結した全天候型グランピング施設。雨天キャンセル規定の比較も。",
   keywords: ["屋根付きBBQデッキ", "冷暖房完備ドームテントで台風", "雨天も快適", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
@@ -167,9 +167,7 @@ export default function SilverWeekGlampingRainyWeatherIndoorPage() {
             </span>
           </div>
 
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【雨でも安心！全天候型グランピング】屋根付きBBQデッキ＆冷暖房完備ドームテントで台風・雨天も快適
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「雨でも安心！全天候型グランピング」屋根付きBBQデッキ＆冷暖房完備ドームテントで台風・雨天も快適</h1>
 
           <p className="text-xs md:text-sm text-slate-300 leading-relaxed font-medium">
             秋の連休のグランピング予約で一番怖いのが「秋雨前線や台風による悪天候」。しかし、最新の全天候型グランピング施設なら、強風や豪雨を遮る開閉式ガゼボデッキ、気密性の高い断熱ドームテント、雨に濡れずに行ける天然温泉大浴場が揃っており、雨の日こそ贅沢な「おこもりステイ」を満喫できます。天候リスクを徹底回避する宿選びとキャンセル規約の対策ポイントを網羅しました。

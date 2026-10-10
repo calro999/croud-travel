@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kushiro-solo-business-sunset-robata-stay/" },
-  title: '【釧路出張・男一人旅】天然温泉幣舞の湯・世界三大夕日パノラマ・本場炉端焼き！道東拠点でととのう厳選3宿',
+  title: '釧路出張・男一人旅：天然温泉幣舞の湯・世界三大夕日パノラマ・本場炉端焼き！道東拠点でととのう厳選3宿',
   description: '道東の経済・水産拠点・釧路市での出張やソロ旅に！幣舞橋たもとで天然温泉と釧路川の絶景を望む「ドーミーインPREMIUM釧路」、釧路港オーシャンビューと快適な客室環境を誇る「ＡＮＡクラウンプラザホテル釧路」、優雅なラウンジサービスと夜景が人気の「釧路センチュリーキャッスルホテル」を楽天APIデータに基づき徹底比較。',
   keywords: '釧路 出張 ホテル,釧路 ホテル 一人旅,ドーミーインPREMIUM釧路,ANAクラウンプラザホテル釧路,釧路センチュリーキャッスルホテル,釧路 炉端焼き 勝手丼',
   openGraph: {
-    title: '【釧路出張・男一人旅】天然温泉幣舞の湯・世界三大夕日パノラマ・本場炉端焼き！道東拠点でととのう厳選3宿',
+    title: '釧路出張・男一人旅：天然温泉幣舞の湯・世界三大夕日パノラマ・本場炉端焼き！道東拠点でととのう厳選3宿',
     description: '道東の経済・水産拠点・釧路市での出張やソロ旅に！幣舞橋たもとで天然温泉と釧路川の絶景を望む「ドーミーインPREMIUM釧路」、釧路港オーシャンビューと快適な客室環境を誇る「ＡＮＡクラウンプラザホテル釧路」、優雅なラウンジサービスと夜景が人気の「釧路センチュリーキャッスルホテル」を楽天APIデータに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/kushiro-solo-business-sunset-robata-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【釧路出張・男一人旅】天然温泉幣舞の湯・世界三大夕日パノラマ・本場炉端焼き！道東拠点でととのう厳選3宿',
+    headline: '釧路出張・男一人旅：天然温泉幣舞の湯・世界三大夕日パノラマ・本場炉端焼き！道東拠点でととのう厳選3宿',
     description: '道東の経済・水産拠点・釧路市での出張やソロ旅に！幣舞橋たもとで天然温泉と釧路川の絶景を望む「ドーミーインPREMIUM釧路」、釧路港オーシャンビューと快適な客室環境を誇る「ＡＮＡクラウンプラザホテル釧路」、優雅なラウンジサービスと夜景が人気の「釧路センチュリーキャッスルホテル」を楽天APIデータに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -73,9 +73,7 @@ export default function ArticlePage() {
         <div className="inline-block bg-amber-700 text-white text-xs font-semibold px-3 py-1 rounded-full mb-3 tracking-wider">
           ひとり旅・出張・サウナ＆名湯特集
         </div>
-        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">
-          【釧路出張・男一人旅】天然温泉幣舞の湯・世界三大夕日パノラマ・本場炉端焼き！道東拠点でととのう厳選3宿
-        </h1>
+        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">「釧路出張・男一人旅」天然温泉幣舞の湯・世界三大夕日パノラマ・本場炉端焼き！道東拠点でととのう厳選3宿</h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.12 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>

@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            上高地・河童橋の黄金カラマツ紅葉と梓川清流＆「３日入れば３年風邪ひかぬ」白骨温泉・信州牛
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">上高地・河童橋の黄金カラマツ紅葉と梓川清流＆「３日入れば３年風邪ひかぬ」白骨温泉・信州牛</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             梓川のエメラルドグリーンと黄金に輝くカラマツ林。名湯・白骨温泉の乳白色の湯と信州牛に癒やされる秋。
           </p>

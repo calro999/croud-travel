@@ -5,14 +5,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, Sparkles, Calendar, Utensils, Compass, ExternalLink, Snowflake, Flame, Building, ThermometerSun } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月島根】松葉ガニ！名宿5選',
+  title: '11・12・1月島根：松葉ガニ！名宿5選',
   description: '11月から1月、山陰・島根の安来（やすぎ）は白銀の雪と静寂に包まれ、世界が称賛する日本美の最高峰が姿を現します。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '足立美術館 冬 雪景色, 足立美術館 日本庭園 一位, さぎの湯温泉 旅館, しまね和牛 宿, 松葉ガニ 安来 境港, さぎの湯温泉 さぎの湯荘, 安来苑, 竹葉 足立美術館, 皆生シーサイドホテル, ホテルアクシス, 11月 12月 1月 島根旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shimane-adachi-museum-snow-garden-saginoyu-wagyu-stay/"
   },
   openGraph: {
-    title: '【11・12・1月島根】松葉ガニ！名宿5選',
+    title: '11・12・1月島根：松葉ガニ！名宿5選',
     description: '11月から1月、山陰・島根の安来（やすぎ）は白銀の雪と静寂に包まれ、世界が称賛する日本美の最高峰が姿を現します。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-shimane-adachi-museum-snow-garden-saginoyu-wagyu-stay',
     type: 'article',
@@ -233,12 +233,7 @@ export default function ShimaneAdachiSaginoyuPage() {
             11月・12月・1月 冬の日本庭園雪景色・美肌名湯＆しまね和牛・松葉ガニ特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-tight sm:leading-snug text-stone-100 font-serif">
-            白銀の山水画を額縁に望む日本庭園の最高峰<br />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-teal-200 via-emerald-200 to-amber-200">
-              足立美術館雪景色とさぎの湯温泉・しまね和牛と松葉ガニの名宿
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-tight sm:leading-snug text-stone-100 font-serif">白銀の山水画を額縁に望む日本庭園の最高峰<br /> <span className="text-transparent bg-clip-text bg-gradient-to-r from-teal-200 via-emerald-200 to-amber-200"> 足立美術館雪景色とさぎの湯温泉・しまね和牛と松葉ガニの名宿 </span></h1>
 
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed max-w-3xl mx-auto font-light">
             アメリカ庭園専門誌で20年以上連続日本一に輝く「足立美術館」。雪化粧に包まれた5万坪の枯山水庭は、創設者の言葉通り「生きた一幅の山水画」として息を呑む静謐を放ちます。美術館至近の白鷺伝説息づく「さぎの湯温泉」、冬の日本海が誇る「松葉ガニ」、そして極上の霜降り「しまね和牛」。山陰の冬の美と味覚に抱かれる厳選名宿をお届けします。

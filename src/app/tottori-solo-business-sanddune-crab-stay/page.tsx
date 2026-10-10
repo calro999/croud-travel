@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tottori-solo-business-sanddune-crab-stay/" },
-  title: '【鳥取出張・ひとり旅】自家源泉かけ流し鳥取温泉・鳥取砂丘パノラマ・冬の松葉ガニ！山陰ビジネスを豊かにする厳選3宿',
+  title: '鳥取出張・ひとり旅：自家源泉かけ流し鳥取温泉・鳥取砂丘パノラマ・冬の松葉ガニ！山陰ビジネスを豊かにする厳選3宿',
   description: '山陰の東の要衝・鳥取市での出張やソロ旅に！全国でも珍しい県庁所在地中心街で自家源泉天然温泉を誇る「ホテルモナーク鳥取」、JR鳥取駅北口徒歩約1分の好立地な「鳥取ワシントンホテルプラザ」、人工温泉大浴場と機能的なモダン客室を備える「グリーンリッチホテル鳥取駅前」を楽天APIデータに基づき徹底比較。',
   keywords: '鳥取 出張 ホテル,鳥取 ホテル 一人旅,ホテルモナーク鳥取,鳥取ワシントンホテルプラザ,グリーンリッチホテル鳥取駅前,鳥取砂丘 松葉ガニ',
   openGraph: {
-    title: '【鳥取出張・ひとり旅】自家源泉かけ流し鳥取温泉・鳥取砂丘パノラマ・冬の松葉ガニ！山陰ビジネスを豊かにする厳選3宿',
+    title: '鳥取出張・ひとり旅：自家源泉かけ流し鳥取温泉・鳥取砂丘パノラマ・冬の松葉ガニ！山陰ビジネスを豊かにする厳選3宿',
     description: '山陰の東の要衝・鳥取市での出張やソロ旅に！全国でも珍しい県庁所在地中心街で自家源泉天然温泉を誇る「ホテルモナーク鳥取」、JR鳥取駅北口徒歩約1分の好立地な「鳥取ワシントンホテルプラザ」、人工温泉大浴場と機能的なモダン客室を備える「グリーンリッチホテル鳥取駅前」を楽天APIデータに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/tottori-solo-business-sanddune-crab-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【鳥取出張・ひとり旅】自家源泉かけ流し鳥取温泉・鳥取砂丘パノラマ・冬の松葉ガニ！山陰ビジネスを豊かにする厳選3宿',
+    headline: '鳥取出張・ひとり旅：自家源泉かけ流し鳥取温泉・鳥取砂丘パノラマ・冬の松葉ガニ！山陰ビジネスを豊かにする厳選3宿',
     description: '山陰の東の要衝・鳥取市での出張やソロ旅に！全国でも珍しい県庁所在地中心街で自家源泉天然温泉を誇る「ホテルモナーク鳥取」、JR鳥取駅北口徒歩約1分の好立地な「鳥取ワシントンホテルプラザ」、人工温泉大浴場と機能的なモダン客室を備える「グリーンリッチホテル鳥取駅前」を楽天APIデータに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -73,9 +73,7 @@ export default function ArticlePage() {
         <div className="inline-block bg-amber-700 text-white text-xs font-semibold px-3 py-1 rounded-full mb-3 tracking-wider">
           ひとり旅・出張・サウナ＆名湯特集
         </div>
-        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">
-          【鳥取出張・ひとり旅】自家源泉かけ流し鳥取温泉・鳥取砂丘パノラマ・冬の松葉ガニ！山陰ビジネスを豊かにする厳選3宿
-        </h1>
+        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">「鳥取出張・ひとり旅」自家源泉かけ流し鳥取温泉・鳥取砂丘パノラマ・冬の松葉ガニ！山陰ビジネスを豊かにする厳選3宿</h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.12 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>

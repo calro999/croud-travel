@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【10月紅葉＆ハロウィン！秋の軽井沢】雲場池もみじと星野・旧軽井沢リゾートホテル5選",
+  title: "紅葉＆ハロウィン！秋の軽井沢で過ごす冬の旅（10月）！雲場池もみじと星野・旧軽井沢リゾートホテル5選",
   description: "水鏡に紅葉が映る雲場池や星野エリアの秋！爽やかな高原の紅葉散策とハロウィンの華やぎに包まれる軽井沢。美食フレンチや温泉露天風呂が魅力のリゾート宿5選。",
   keywords: "軽井沢 紅葉 見頃 10月, 軽井沢 ハロウィン, 雲場池 もみじ, ホテルインディゴ軽井沢, 旧軽井沢 ホテル音羽ノ森, 軽井沢 宿泊",
   alternates: {
     canonical: "https://croud-travel.pages.dev/autumn-nagano-karuizawa-momiji-halloween-resort-hotels-stay/",
   },
   openGraph: {
-    title: "【10月紅葉＆ハロウィン！秋の軽井沢】雲場池もみじと星野・旧軽井沢リゾートホテル5選",
+    title: "紅葉＆ハロウィン！秋の軽井沢で過ごす冬の旅（10月）！雲場池もみじと星野・旧軽井沢リゾートホテル5選",
     description: "水鏡に紅葉が映る雲場池や星野エリアの秋！爽やかな高原の紅葉散策とハロウィンの華やぎに包まれる軽井沢。美食フレンチや温泉露天風呂が魅力のリゾート宿5選。",
     url: 'https://croud-travel.pages.dev/autumn-nagano-karuizawa-momiji-halloween-resort-hotels-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【10月紅葉＆ハロウィン！秋の軽井沢】雲場池もみじと星野・旧軽井沢リゾートホテル5選",
+    title: "紅葉＆ハロウィン！秋の軽井沢で過ごす冬の旅（10月）！雲場池もみじと星野・旧軽井沢リゾートホテル5選",
     description: "水鏡に紅葉が映る雲場池や星野エリアの秋！爽やかな高原の紅葉散策とハロウィンの華やぎに包まれる軽井沢。美食フレンチや温泉露天風呂が魅力のリゾート宿5選。",
   }
 };
@@ -131,9 +131,7 @@ export default function FeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             10月高原リゾート・紅葉＆ハロウィン特集
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【10月紅葉＆ハロウィン！秋の軽井沢】<br className="hidden sm:inline" />雲場池もみじと星野・旧軽井沢リゾートホテル5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">紅葉＆ハロウィン！秋の軽井沢で過ごす冬の旅（10月）！<br className="hidden sm:inline" />雲場池もみじと星野・旧軽井沢リゾートホテル5選</h1>
           <p className="max-w-2xl mx-auto text-sm md:text-base text-stone-200 leading-relaxed">
             澄んだ空気に赤や黄色のモミジが映える秋の軽井沢。水鏡が息をのむ美しさの「雲場池」や星野エリアの紅葉散策、ハロウィンの華やぎに包まれる高原リゾート宿を厳選してご案内します。
           </p>

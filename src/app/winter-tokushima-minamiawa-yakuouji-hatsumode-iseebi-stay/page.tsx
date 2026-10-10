@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月徳島】冬が旬の「天然伊勢海老！名宿5選',
+  title: '11・12・1月徳島：冬が旬の「天然伊勢海老！名宿5選',
   description: '冬の黒潮が育む南阿波の絶景と豊かな冬の恵みを巡る11〜1月の徳島南部・美波町＆海陽町特集。四国霊場第23番札所として名高い厄除け大師「薬王寺。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '薬王寺 初詣, 徳島 厄除け 温泉, 美波町 観光, 南阿波 伊勢海老 宿, 海陽町 宍喰温泉, 徳島 冬 旅行, 日和佐 大浜海岸, アオリイカ 徳島, 阿波尾鶏 宿',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tokushima-minamiawa-yakuouji-hatsumode-iseebi-stay/"
   },
   openGraph: {
-    title: '【11・12・1月徳島】冬が旬の「天然伊勢海老！名宿5選',
+    title: '11・12・1月徳島：冬が旬の「天然伊勢海老！名宿5選',
     description: '冬の黒潮が育む南阿波の絶景と豊かな冬の恵みを巡る11〜1月の徳島南部・美波町＆海陽町特集。四国霊場第23番札所として名高い厄除け大師「薬王寺。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-tokushima-minamiawa-yakuouji-hatsumode-iseebi-stay',
     type: 'article',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月徳島】美波＆牟岐・海陽町！四国霊場第23番札所・厄除け大師「薬王寺」初詣＆冬が旬の「天然伊勢海老・アオリイカ・阿波尾鶏」と太平洋絶景温泉宿5選",
+    title: "11・12・1月徳島：美波＆牟岐・海陽町！四国霊場第23番札所・厄除け大師「薬王寺」初詣＆冬が旬の「天然伊勢海老・アオリイカ・阿波尾鶏」と太平洋絶景温泉宿5選",
     description: "冬の黒潮が育む南阿波の絶景と豊かな冬の恵みを巡る11〜1月の徳島南部・美波町＆海陽町特集。四国霊場第23番札所として名高い厄除け大師「薬王寺」での初詣や、冬の澄み渡る太平洋を望む日和佐大浜海岸・日和佐城。冬に甘みと身詰まりが最高潮を迎える「天然伊勢海老」やアオリイカ、名地鶏「阿波尾鶏」の贅沢会席。そして太平洋の水平線を望む美肌温泉に癒やされる厳選名宿5選を完全ガイドします。",
     images: ['https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -284,11 +284,7 @@ export default function TokushimaMinamiawaWinterPage() {
               <Sparkles className="w-4 h-4 text-amber-300" />
               <span>11月・12月・1月冬の四国旅情特集</span>
             </div>
-            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 text-white drop-shadow-md">
-              徳島・美波＆牟岐・海陽町<br className="hidden sm:inline" />
-              四国霊場第23番札所「薬王寺」厄除け初詣と<br className="hidden sm:inline" />
-              冬が最旬の天然伊勢海老・太平洋絶景温泉宿5選
-            </h1>
+            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 text-white drop-shadow-md">徳島・美波＆牟岐・海陽町<br className="hidden sm:inline" /> 四国霊場第23番札所「薬王寺」厄除け初詣と<br className="hidden sm:inline" /> 冬が最旬の天然伊勢海老・太平洋絶景温泉宿5選</h1>
             <p className="max-w-3xl mx-auto text-sm md:text-lg text-blue-100 leading-relaxed drop-shadow">
               冬の黒潮が打ち寄せる雄大な太平洋の水平線と、四国屈指の厄除け根本道場「薬王寺」での新春祈願。甘みと旨味が凝縮した獲れたての天然伊勢海老やアオリイカ、阿波尾鶏に舌鼓を打ち、極上の美肌温泉で心身を解きほぐす冬の南阿波の旅をお届けします。
             </p>

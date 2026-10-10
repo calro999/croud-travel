@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '【2026年】富山湾の青い神秘！春のホタルイカ＆富山湾の宝石・白エビ尽くし会席の温泉宿5選 ｜ 日本全国・旅宿クラウド',
+  title: '2026年：富山湾の青い神秘！春のホタルイカ＆富山湾の宝石・白エビ尽くし会席の温泉宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！春に旬を迎える富山湾の「ホタルイカ」踊り食い・釜揚げと「白エビ」刺身・かき揚げを贅沢に味わう富山・宇奈月温泉の名宿5選。',
   keywords: ["2026年", "富山湾の宝石", "白エビ尽くし会席の温泉宿5選", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/firefly-squid-toyama-spring-gourmet-onsen-stay/",
   },
   openGraph: {
-    title: '【2026年】富山湾の青い神秘！春のホタルイカ＆富山湾の宝石・白エビ尽くし会席の温泉宿5選',
+    title: '2026年：富山湾の青い神秘！春のホタルイカ＆富山湾の宝石・白エビ尽くし会席の温泉宿5選',
     description: '2026年最新！春に旬を迎える富山湾の「ホタルイカ」踊り食い・釜揚げと「白エビ」刺身・かき揚げを贅沢に味わう富山・宇奈月温泉の名宿5選。',
     url: 'https://croud-travel.pages.dev/firefly-squid-toyama-spring-gourmet-onsen-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -172,9 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>春のホタルイカ×白エビ会席宿</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            【2026年】富山湾の青い神秘！春のホタルイカ＆富山湾の宝石・白エビ尽くし会席の温泉宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」富山湾の青い神秘！春のホタルイカ＆富山湾の宝石・白エビ尽くし会席の温泉宿5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             春の富山湾を彩る「海の神秘」ホタルイカと「富山湾の宝石」白エビ。ぷりぷりの生ホタルイカの沖漬け、熱々の釜揚げ、そして透き通るような白エビの甘みあふれるお造り。黒部峡谷の雄大な絶景温泉とともに味わう春限定の最高峰グルメ旅。
           </p>

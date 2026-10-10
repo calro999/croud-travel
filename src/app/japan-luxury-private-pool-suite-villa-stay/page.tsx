@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-luxury-private-pool-suite-villa-stay/" },
-  title: "【客室プライベートプール付きオールスイートヴィラ】沖縄・奄美・宮古・関東 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "客室プライベートプール付きオールスイートヴィラ：沖縄・奄美・宮古・関東 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "誰にも邪魔されない完全プライベートな極上バカンス！客室専用温水プール付きオールスイートヴィラ完全特化！沖縄本島・宮古島・石垣島・奄美大島、関東近郊のインフィニティプール付きラグジュアリーヴィラを徹底解説。",
   keywords: ["沖縄", "奄美", "宮古", "関東", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
@@ -89,9 +89,7 @@ export default function LuxuryPremiumHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-gradient-to-r from-amber-300 to-amber-500 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block shadow">
             PRIVATE POOL VILLA GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【客室プライベートプール付きオールスイートヴィラ】沖縄・奄美・宮古・関東 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「客室プライベートプール付きオールスイートヴィラ」沖縄・奄美・宮古・関東 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             リビングの扉を開ければ、そこは自分たちだけの青く輝くプライベートプール。沖縄・宮古島のエメラルドグリーンの海を望むインフィニティプールや、温水対応で一年中泳げる贅沢。バトラーサービスとシェフ出張ディナーで過ごす最高峰の休日へ。
           </p>

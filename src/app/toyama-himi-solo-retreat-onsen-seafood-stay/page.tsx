@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/toyama-himi-solo-retreat-onsen-seafood-stay/" },
-  title: '【富山・氷見温泉郷ひとり旅・富山湾越しの立山連峰おこもり】海越しの立山連峰・氷見寒ブリ＆白えび・自家源泉かけ流し！能越道直通の海の秘境厳選3宿',
+  title: '富山・氷見温泉郷ひとり旅・富山湾越しの立山連峰おこもり：海越しの立山連峰・氷見寒ブリ＆白えび・自家源泉かけ流し！能越道直通の海の秘境厳選3宿',
   description: '海越しに標高3,000mの立山連峰を望む奇跡の絶景・富山・氷見温泉郷！富山湾の朝獲れ地魚会席が口コミ★4.6超の「民宿すがた」、海一望の絶景露天風呂とサウナ・寝湯が評判の「うみあかり」、全室オーシャンビューと魚尽くし料理の「永芳閣」を楽天API最新データに基づき徹底比較。',
   keywords: '氷見温泉 一人旅 宿,氷見 ホテル 一人 温泉,民宿すがた 氷見,うみあかり 氷見,永芳閣 氷見,氷見 ひとり旅 おこもり',
   openGraph: {
-    title: '【富山・氷見温泉郷ひとり旅・富山湾越しの立山連峰おこもり】海越しの立山連峰・氷見寒ブリ＆白えび・自家源泉かけ流し！能越道直通の海の秘境厳選3宿',
+    title: '富山・氷見温泉郷ひとり旅・富山湾越しの立山連峰おこもり：海越しの立山連峰・氷見寒ブリ＆白えび・自家源泉かけ流し！能越道直通の海の秘境厳選3宿',
     description: '海越しに標高3,000mの立山連峰を望む奇跡の絶景・富山・氷見温泉郷！富山湾の朝獲れ地魚会席が口コミ★4.6超の「民宿すがた」、海一望の絶景露天風呂とサウナ・寝湯が評判の「うみあかり」、全室オーシャンビューと魚尽くし料理の「永芳閣」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/toyama-himi-solo-retreat-onsen-seafood-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【富山・氷見温泉郷ひとり旅・富山湾越しの立山連峰おこもり】海越しの立山連峰・氷見寒ブリ＆白えび・自家源泉かけ流し！能越道直通の海の秘境厳選3宿',
+    headline: '富山・氷見温泉郷ひとり旅・富山湾越しの立山連峰おこもり：海越しの立山連峰・氷見寒ブリ＆白えび・自家源泉かけ流し！能越道直通の海の秘境厳選3宿',
     description: '海越しに標高3,000mの立山連峰を望む奇跡の絶景・富山・氷見温泉郷！富山湾の朝獲れ地魚会席が口コミ★4.6超の「民宿すがた」、海一望の絶景露天風呂とサウナ・寝湯が評判の「うみあかり」、全室オーシャンビューと魚尽くし料理の「永芳閣」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             富山・氷見温泉郷ひとり旅＆富山湾立山絶景おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【富山・氷見温泉郷ひとり旅・富山湾越しの立山連峰おこもり】海越しの立山連峰・氷見寒ブリ＆白えび・自家源泉かけ流し！能越道直通の海の秘境厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「富山・氷見温泉郷ひとり旅・富山湾越しの立山連峰おこもり」海越しの立山連峰・氷見寒ブリ＆白えび・自家源泉かけ流し！能越道直通の海の秘境厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

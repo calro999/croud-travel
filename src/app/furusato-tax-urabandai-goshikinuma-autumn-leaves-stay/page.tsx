@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '裏磐梯五色沼の神秘の湖沼群紅葉＆磐梯山ゴールドライン！高原リゾート温泉×ふるさと納税完全ガイド【2026年最新秋旅】福島',
+  title: '裏磐梯五色沼の神秘の湖沼群紅葉＆磐梯山ゴールドライン！高原リゾート温泉×ふるさと納税厳選ガイド福島',
   description: '10月中旬〜11月上旬にエメラルドグリーンやコバルトブルーの水面に紅葉が映える「裏磐梯五色沼湖沼群」。磐梯山ゴールドラインの絶景ドライブと、国立公園内に佇む「裏磐梯レイクリゾート 迎賓館 猫魔離宮」「五色の森」「裏磐梯高原ホテル」で福島牛や会津地鶏・喜多方ラーメンを堪能。ふるさと納税トラベルクーポンで実質2,000円。',
   keywords: ["裏磐梯五色沼の神秘の湖沼群紅葉", "2026年最新秋旅", "福島", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-urabandai-goshikinuma-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '裏磐梯五色沼の神秘の湖沼群紅葉＆磐梯山ゴールドライン！高原リゾート温泉×ふるさと納税完全ガイド【2026年最新秋旅】福島',
+    title: '裏磐梯五色沼の神秘の湖沼群紅葉＆磐梯山ゴールドライン！高原リゾート温泉×ふるさと納税厳選ガイド福島',
     description: '10月中旬〜11月上旬にエメラルドグリーンやコバルトブルーの水面に紅葉が映える「裏磐梯五色沼湖沼群」。磐梯山ゴールドラインの絶景ドライブと、国立公園内に佇む「裏磐梯レイクリゾート 迎賓館 猫魔離宮」「五色の森」「裏磐梯高原ホテル」で福島牛や会津地鶏・喜多方ラーメンを堪能。ふるさと納税トラベルクーポンで実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-urabandai-goshikinuma-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -113,9 +113,7 @@ export default function FeatureArticlePage() {
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">
-            裏磐梯五色沼の神秘の湖沼群紅葉＆磐梯山ゴールドライン！高原リゾート温泉×ふるさと納税完全ガイド【2026年最新秋旅】福島
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">裏磐梯五色沼の神秘の湖沼群紅葉＆磐梯山ゴールドライン！高原リゾート温泉×ふるさと納税厳選ガイド福島</h1>
           <p className="text-sm md:text-lg text-stone-200 max-w-3xl mx-auto leading-relaxed">
             エメラルドグリーンの五色沼に映える錦秋の磐梯山と、上質な高原リゾート温泉ステイ。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
           </p>

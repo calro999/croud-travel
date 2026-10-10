@@ -144,9 +144,7 @@ export default async function CityDetailPage({ params }: { params: Promise<{ pre
           </span>
         </div>
 
-        <h1 className="text-2xl md:text-4xl font-black font-journal-serif leading-tight text-white">
-          【{cityInfo.cityName}】おすすめ観光名所・名物料理（ご当地グルメ）・厳選宿 完全ガイド
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-black font-journal-serif leading-tight text-white">「{cityInfo.cityName}」おすすめ観光名所・名物料理（ご当地グルメ）・厳選宿 厳選ガイド</h1>
 
         <p className="text-emerald-100/90 text-xs md:text-sm max-w-3xl leading-relaxed font-medium">
           {cityInfo.description}

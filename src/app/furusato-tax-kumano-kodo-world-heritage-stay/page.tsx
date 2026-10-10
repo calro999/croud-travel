@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '世界遺産・熊野古道の祈りの巡礼路と名湯宿×ふるさと納税完全ガイド【2026年最新】湯の峰・那智勝浦・白浜',
+  title: '世界遺産・熊野古道の祈りの巡礼路と名湯宿×ふるさと納税厳選ガイド湯の峰・那智勝浦・白浜',
   description: '千年の祈りが息づく世界遺産「紀伊山地の霊場と参詣道・熊野古道」。日本最古の湯の峰温泉つぼ湯、那智の滝と大門坂、大洞窟温泉を誇る勝浦温泉、太平洋を一望する白浜温泉。楽天ふるさと納税宿泊クーポン完全活用。',
   keywords: ["世界遺産", "2026年最新", "湯の峰", "那智勝浦", "白浜", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kumano-kodo-world-heritage-stay/",
   },
   openGraph: {
-    title: '世界遺産・熊野古道の祈りの巡礼路と名湯宿×ふるさと納税完全ガイド【2026年最新】湯の峰・那智勝浦・白浜',
+    title: '世界遺産・熊野古道の祈りの巡礼路と名湯宿×ふるさと納税厳選ガイド湯の峰・那智勝浦・白浜',
     description: '千年の祈りが息づく世界遺産「紀伊山地の霊場と参詣道・熊野古道」。日本最古の湯の峰温泉つぼ湯、那智の滝と大門坂、大洞窟温泉を誇る勝浦温泉、太平洋を一望する白浜温泉。楽天ふるさと納税宿泊クーポン完全活用。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kumano-kodo-world-heritage-stay',
     siteName: '旅宿クラウド',
@@ -108,9 +108,7 @@ export default function FurusatoUpgradedPage() {
             <span>✨</span>
             <span>世界遺産熊野古道・祈りの名湯特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            世界遺産・熊野古道の祈りの巡礼路と名湯宿×ふるさと納税完全ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">世界遺産・熊野古道の祈りの巡礼路と名湯宿×ふるさと納税厳選ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             杉木立が連なる苔むした石畳、山々を包み込む神聖な霧、そして熊野三山へと続く「熊野古道」。古より貴族から庶民まで、多くの人々が再生と救いを求めて歩んできた祈りの道です。巡礼の旅人を癒やしてきた日本最古の温泉地「湯の峰温泉」、太平洋の荒波が打ち寄せる大洞窟露天「勝浦温泉」、そして絶景オーシャンビューの「白浜温泉」。楽天ふるさと納税を活用して、心身を根底から解き放つ世界遺産の聖地巡礼温泉旅をお楽しみください。
           </p>

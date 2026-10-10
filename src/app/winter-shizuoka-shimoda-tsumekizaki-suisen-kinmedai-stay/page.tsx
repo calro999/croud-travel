@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【12・1月静岡】下田港直送極上「一本釣り地金目鯛」！名宿5選',
+  title: '静岡で過ごす冬の旅（12・1月）！下田港直送極上「一本釣り地金目鯛」！名宿5選',
   description: '12月中旬から1月下旬、静岡県伊豆半島の南端・下田の須崎半島「爪木崎」では。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '爪木崎 水仙まつり, 下田 地金目鯛 宿泊, 下田温泉 名宿, 下田東急ホテル, 下田大和館, 下田ビューホテル, 下田セントラルホテル, 下田プリンスホテル, ペリーロード 冬, 南伊豆 旅行, 12月 1月 静岡観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shizuoka-shimoda-tsumekizaki-suisen-kinmedai-stay/"
   },
   openGraph: {
-    title: '【12・1月静岡】下田港直送極上「一本釣り地金目鯛」！名宿5選',
+    title: '静岡で過ごす冬の旅（12・1月）！下田港直送極上「一本釣り地金目鯛」！名宿5選',
     description: '12月中旬から1月下旬、静岡県伊豆半島の南端・下田の須崎半島「爪木崎」では。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-shimoda-tsumekizaki-suisen-kinmedai-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【12・1月静岡】300万本が咲き誇る爪木崎水仙まつりと富士山絶景・下田港直送極上「一本釣り地金目鯛」を堪能する下田・南伊豆の名宿5選",
+    title: "静岡で過ごす冬の旅（12・1月）！300万本が咲き誇る爪木崎水仙まつりと富士山絶景・下田港直送極上「一本釣り地金目鯛」を堪能する下田・南伊豆の名宿5選",
     description: "12月中旬から1月下旬、静岡県伊豆半島の南端・下田の須崎半島「爪木崎」では、海を見下ろす岬一面に約300万本もの野水仙が咲き乱れる「爪木崎水仙まつり」が開催されます。甘い水仙の香りと真っ赤なアロエの花、コバルトブルーの太平洋が織りなす冬のコントラストは圧巻。さらに冬は下田港水揚げの一本釣り「地金目鯛（じきんめ）」に最も上質な脂が乗る美食の最高潮。温暖な南伊豆の気候と美肌の名湯に癒やされる厳選名宿5選とモデルコースをお届けします。",
     images: ['https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80']
   }
@@ -42,7 +42,7 @@ export default function ShizuokaShimodaTsumekizakiWinterPage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: "【12・1月静岡】300万本が咲き誇る爪木崎水仙まつりと富士山絶景・下田港直送極上「一本釣り地金目鯛」を堪能する下田・南伊豆の名宿5選",
+    headline: "静岡で過ごす冬の旅（12・1月）！300万本が咲き誇る爪木崎水仙まつりと富士山絶景・下田港直送極上「一本釣り地金目鯛」を堪能する下田・南伊豆の名宿5選",
     description: "12月中旬から1月下旬、静岡県伊豆半島の南端・下田の須崎半島「爪木崎」では、海を見下ろす岬一面に約300万本もの野水仙が咲き乱れる「爪木崎水仙まつり」が開催されます。甘い水仙の香りと真っ赤なアロエの花、コバルトブルーの太平洋が織りなす冬のコントラストは圧巻。さらに冬は下田港水揚げの一本釣り「地金目鯛（じきんめ）」に最も上質な脂が乗る美食の最高潮。温暖な南伊豆の気候と美肌の名湯に癒やされる厳選名宿5選とモデルコースをお届けします。",
     image: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80',
     datePublished: '',
@@ -282,9 +282,7 @@ export default function ShizuokaShimodaTsumekizakiWinterPage() {
             <Sun className="w-4 h-4 text-emerald-300" />
             12月・1月 冬の伊豆半島・爪木崎300万本水仙まつり＆一本釣り地金目鯛特集
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【12・1月静岡】300万本が咲き誇る爪木崎水仙まつりと富士山絶景・下田港直送極上「一本釣り地金目鯛」を堪能する下田・南伊豆の名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">静岡で過ごす冬の旅（12・1月）！300万本が咲き誇る爪木崎水仙まつりと富士山絶景・下田港直送極上「一本釣り地金目鯛」を堪能する下田・南伊豆の名宿5選</h1>
           <p className="text-slate-300 text-sm sm:text-base md:text-lg max-w-3xl leading-relaxed">
             真冬でも黒潮の暖流により温暖な風が吹き抜ける南伊豆・下田。須崎半島の突端「爪木崎」では、海を見渡す丘一面に300万本の野水仙が甘い香りを放ち、真っ赤なアロエの花と青い海の圧巻のパノラマが広がります。そして冬は下田港名物の一本釣り「地金目鯛」に上質な脂が乗る最高の季節。歴史あるペリーロードを散策し、海を望む名湯に浸り、濃厚な金目鯛の姿煮と海の幸に舌鼓を打つ極上の冬旅へご案内します。
           </p>

@@ -337,9 +337,7 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
               />
             )}
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif leading-snug text-emerald-950">
-            {post.title}
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif leading-snug text-emerald-950">{post.title}</h1>
           <div className="flex flex-wrap gap-1.5">
             {post.categories?.map((cat) => (
               <span key={cat} className="bg-teal-50 text-teal-800 border border-teal-800/10 text-[9px] font-bold px-3 py-1 rounded-full">

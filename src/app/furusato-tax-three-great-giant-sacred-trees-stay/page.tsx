@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-giant-sacred-trees-stay/" },
-  title: '日本三大巨樹＆樹齢千年の神木パワースポット・森林浴名湯宿×ふるさと納税完全ガイド【2026年最新】蒲生の大楠・阿川の大杉・北金ヶ沢の大イチョウ',
+  title: '日本三大巨樹＆樹齢千年の神木パワースポット・森林浴名湯宿×ふるさと納税厳選ガイド蒲生の大楠・阿川の大杉・北金ヶ沢の大イチョウ',
   description: '幹周り数十メートル！千年の時を生きる命の巨木！鹿児島姶良「蒲生の大楠」日本最大の巨樹とフォンタナの丘かもう、徳島神山「阿川の大杉」四国の名木と神山温泉ホテル四季の里、青森深浦「北金ヶ沢の大イチョウ」日本一の大銀杏（ビッグイエロー）と黄金崎不老ふ死温泉。日本三大巨樹（三大神木）の神聖なエネルギーと天然温泉を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大巨樹・生命の神木特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大巨樹＆樹齢千年の神木パワースポット・森林浴名湯宿×ふるさと納税完全ガイド【2026年最新】蒲生の大楠・阿川の大杉・北金ヶ沢の大イチョウ',
+    title: '日本三大巨樹＆樹齢千年の神木パワースポット・森林浴名湯宿×ふるさと納税厳選ガイド蒲生の大楠・阿川の大杉・北金ヶ沢の大イチョウ',
     description: '幹周り数十メートル！千年の時を生きる命の巨木！鹿児島姶良「蒲生の大楠」日本最大の巨樹とフォンタナの丘かもう、徳島神山「阿川の大杉」四国の名木と神山温泉ホテル四季の里、青森深浦「北金ヶ沢の大イチョウ」日本一の大銀杏（ビッグイエロー）と黄金崎不老ふ死温泉。日本三大巨樹（三大神木）の神聖なエネルギーと天然温泉を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-giant-sacred-trees-stay',
@@ -155,9 +155,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大巨樹・生命の神木特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大巨樹＆神木パワースポット宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大巨樹＆神木パワースポット宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             環境省の巨樹・巨木林調査において日本を代表する最高峰の神木「日本三大巨樹」――幹周り24.2メートル、樹齢約1500年を誇り国特別天然記念物に指定される日本一の巨樹・鹿児島の「蒲生の大楠（蒲生八幡神社）」、徳島の深い山懐にそびえ立ち国の天然記念物として神聖な威厳を放つ樹齢千年の「阿川の大杉」、そして幹周り22メートル、秋には黄金色の葉を纏い「ビッグイエロー」として親しまれる日本最大のイチョウ・青森の「北金ヶ沢の大イチョウ（垂乳根のイチョウ）。」。気の遠くなるような年月を生き抜いてきた巨樹の根元に立つと、言葉を失うほどの圧倒的な包容力と生命の神秘に包まれます。巨樹の里の温泉宿や海辺の絶景露天風呂を拠点に、郷土の味覚と澄み切った森の空気に癒やされる特別な休日を楽天ふるさと納税でお楽しみください。
           </p>

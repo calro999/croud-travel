@@ -3,11 +3,11 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【越後湯沢温泉×ふるさと納税】新幹線直結！川端康成「雪国」の文学名湯＆魚沼産コシヒカリ美食ステイ完全ガイド｜高半・松泉閣花月・NASPAニューオータニ',
+  title: '越後湯沢温泉をふるさと納税でお得に旅する！新幹線直結！川端康成「雪国」の文学名湯＆魚沼産コシヒカリ美食ステイ厳選ガイド｜高半・松泉閣花月・NASPAニューオータニ',
   description: '東京から上越新幹線で約70分！川端康成の名作『雪国』の舞台・越後湯沢温泉を楽天ふるさと納税でお得に旅する。川端康成が逗留した創業九百年の老舗「雪国の宿 高半」、全館畳敷きと四つの露天風呂が自慢の「松泉閣 花月」、ニューオータニ直営の本格温泉リゾート「NASPAニューオータニ」を徹底比較。新潟県湯沢町クーポン活用術を網羅。',
   keywords: '越後湯沢温泉 ふるさと納税,雪国の宿高半 ふるさと納税,松泉閣花月 クーポン,NASPAニューオータニ 宿泊,湯沢町 ふるさと納税 楽天トラベル',
   openGraph: {
-    title: '【越後湯沢温泉×ふるさと納税】新幹線直結！川端康成「雪国」の文学名湯＆魚沼産コシヒカリ美食ステイ完全ガイド｜高半・松泉閣花月・NASPAニューオータニ',
+    title: '越後湯沢温泉をふるさと納税でお得に旅する！新幹線直結！川端康成「雪国」の文学名湯＆魚沼産コシヒカリ美食ステイ厳選ガイド｜高半・松泉閣花月・NASPAニューオータニ',
     description: '東京から上越新幹線で約70分！川端康成の名作『雪国』の舞台・越後湯沢温泉を楽天ふるさと納税でお得に旅する。川端康成が逗留した創業九百年の老舗「雪国の宿 高半」、全館畳敷きと四つの露天風呂が自慢の「松泉閣 花月」、ニューオータニ直営の本格温泉リゾート「NASPAニューオータニ」を徹底比較。新潟県湯沢町クーポン活用術を網羅。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-echigo-yuzawa-onsen-snow-country-stay',
@@ -54,9 +54,7 @@ export default function FurusatoTaxArticle() {
             <span>•</span>
             <span>自治体公認 宿泊割引</span>
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-5xl font-extrabold tracking-tight text-white font-serif leading-tight">
-            【越後湯沢温泉×ふるさと納税】新幹線直結！川端康成「雪国」の文学名湯＆魚沼産コシヒカリ美食ステイ完全ガイド｜高半・松泉閣花月・NASPAニューオータニ
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-5xl font-extrabold tracking-tight text-white font-serif leading-tight">越後湯沢温泉をふるさと納税でお得に旅する！新幹線直結！川端康成「雪国」の文学名湯＆魚沼産コシヒカリ美食ステイ厳選ガイド｜高半・松泉閣花月・NASPAニューオータニ</h1>
           <p className="text-stone-300 text-sm md:text-base max-w-2xl mx-auto pt-2 leading-relaxed">
             東京から上越新幹線で約70分！川端康成の名作『雪国』の舞台・越後湯沢温泉を楽天ふるさと納税でお得に旅する。川端康成が逗留した創業九百年の老舗「雪国の宿 高半」、全館畳敷きと四つの露天風呂が自慢の「松泉閣 花月」、ニューオータニ直営の本格温泉リゾート「NASPAニューオータニ」を徹底比較。新潟県湯沢町クーポン活用術を網羅。
           </p>

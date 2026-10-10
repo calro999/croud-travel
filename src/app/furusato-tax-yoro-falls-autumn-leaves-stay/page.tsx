@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '養老の滝の紅葉グラデーション＆養老公園散策！飛騨牛会席の隠れ宿×ふるさと納税完全ガイド【2026年最新秋旅】岐阜',
+  title: '養老の滝の紅葉グラデーション＆養老公園散策！飛騨牛会席の隠れ宿×ふるさと納税厳選ガイド岐阜',
   description: '11月中旬〜12月上旬に日本の滝百選の名瀑が錦秋に包まれる「岐阜・養老の滝」。養老公園のモミジのトンネル散策と、養老山麓の静寂に佇む「養老温泉 滝元館 遊季の里」「ゆせんの里 ホテルなでしこ」「クインテッサホテル大垣」で日本屈指のブランド和牛・飛騨牛ステーキや養老山麓の恵みを堪能。ふるさと納税で実質2,000円。',
   keywords: ["養老の滝の紅葉グラデーション", "2026年最新秋旅", "岐阜", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-yoro-falls-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '養老の滝の紅葉グラデーション＆養老公園散策！飛騨牛会席の隠れ宿×ふるさと納税完全ガイド【2026年最新秋旅】岐阜',
+    title: '養老の滝の紅葉グラデーション＆養老公園散策！飛騨牛会席の隠れ宿×ふるさと納税厳選ガイド岐阜',
     description: '11月中旬〜12月上旬に日本の滝百選の名瀑が錦秋に包まれる「岐阜・養老の滝」。養老公園のモミジのトンネル散策と、養老山麓の静寂に佇む「養老温泉 滝元館 遊季の里」「ゆせんの里 ホテルなでしこ」「クインテッサホテル大垣」で日本屈指のブランド和牛・飛騨牛ステーキや養老山麓の恵みを堪能。ふるさと納税で実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-yoro-falls-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -113,9 +113,7 @@ export default function FeatureArticlePage() {
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">
-            養老の滝の紅葉グラデーション＆養老公園散策！飛騨牛会席の隠れ宿×ふるさと納税完全ガイド【2026年最新秋旅】岐阜
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">養老の滝の紅葉グラデーション＆養老公園散策！飛騨牛会席の隠れ宿×ふるさと納税厳選ガイド岐阜</h1>
           <p className="text-sm md:text-lg text-stone-200 max-w-3xl mx-auto leading-relaxed">
             落差32mの名瀑に降り注ぐ紅葉と、濃尾平野の夜景を望む隠れ宿で極上飛騨牛を堪能。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
           </p>

@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '【2026年】黄金の輝きと加賀百万石の雅！金箔貼り体験＆金箔風呂が自慢の金沢温泉宿5選 ｜ 日本全国・旅宿クラウド',
+  title: '2026年：黄金の輝きと加賀百万石の雅！金箔貼り体験＆金箔風呂が自慢の金沢温泉宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！金沢の伝統工芸「金箔」の貼り体験や、金箔が舞う贅沢な金箔風呂、金箔をあしらった豪華加賀会席を満喫できる名門温泉旅館5選。',
   keywords: ["2026年", "金箔風呂が自慢の金沢温泉宿5選", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/traditional-gold-leaf-craft-kanazawa-stay/",
   },
   openGraph: {
-    title: '【2026年】黄金の輝きと加賀百万石の雅！金箔貼り体験＆金箔風呂が自慢の金沢温泉宿5選',
+    title: '2026年：黄金の輝きと加賀百万石の雅！金箔貼り体験＆金箔風呂が自慢の金沢温泉宿5選',
     description: '2026年最新！金沢の伝統工芸「金箔」の貼り体験や、金箔が舞う贅沢な金箔風呂、金箔をあしらった豪華加賀会席を満喫できる名門温泉旅館5選。',
     url: 'https://croud-travel.pages.dev/traditional-gold-leaf-craft-kanazawa-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -144,9 +144,7 @@ export default function Page() {
             <span>•</span>
             <span>加賀金箔工芸×金箔風呂名宿</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            【2026年】黄金の輝きと加賀百万石の雅！金箔貼り体験＆金箔風呂が自慢の金沢温泉宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」黄金の輝きと加賀百万石の雅！金箔貼り体験＆金箔風呂が自慢の金沢温泉宿5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             1万分の1ミリの薄さまで打ち延ばされた黄金の芸術・金沢箔。箸や小箱に金箔を施す伝統工芸体験、湯船に金箔がキラキラと舞う優美な金箔風呂、そして金箔をあしらった華やかな治部煮や加賀会席。百万石の贅と美意識に包まれる雅な金沢ステイ。
           </p>

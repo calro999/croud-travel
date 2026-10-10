@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【10月下旬〜11月上旬！宮城鳴子峡の紅葉】大深沢橋列車ビューと名湯鳴子温泉郷の宿5選",
+  title: "下旬〜11月上旬！宮城鳴子峡の紅葉で過ごす冬の旅（10月）！大深沢橋列車ビューと名湯鳴子温泉郷の宿5選",
   description: "深さ100mの大峡谷を彩る紅葉のパノラマと大深沢橋を渡る列車絶景！日本にある11の泉質のうち9つが湧く東北屈指の名湯・鳴子温泉郷の厳選おすすめ宿5選。",
   keywords: "鳴子峡 紅葉 10月 11月 見頃, 鳴子温泉 旅館 おすすめ, 湯元 吉祥, 鳴子観光ホテル, 宮城 紅葉 温泉旅行",
   alternates: {
     canonical: "https://croud-travel.pages.dev/autumn-miyagi-naruko-gorge-onsen-momiji-hotels-stay/",
   },
   openGraph: {
-    title: "【10月下旬〜11月上旬！宮城鳴子峡の紅葉】大深沢橋列車ビューと名湯鳴子温泉郷の宿5選",
+    title: "下旬〜11月上旬！宮城鳴子峡の紅葉で過ごす冬の旅（10月）！大深沢橋列車ビューと名湯鳴子温泉郷の宿5選",
     description: "深さ100mの大峡谷を彩る紅葉のパノラマと大深沢橋を渡る列車絶景！日本にある11の泉質のうち9つが湧く東北屈指の名湯・鳴子温泉郷の厳選おすすめ宿5選。",
     url: 'https://croud-travel.pages.dev/autumn-miyagi-naruko-gorge-onsen-momiji-hotels-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【10月下旬〜11月上旬！宮城鳴子峡の紅葉】大深沢橋列車ビューと名湯鳴子温泉郷の宿5選",
+    title: "下旬〜11月上旬！宮城鳴子峡の紅葉で過ごす冬の旅（10月）！大深沢橋列車ビューと名湯鳴子温泉郷の宿5選",
     description: "深さ100mの大峡谷を彩る紅葉のパノラマと大深沢橋を渡る列車絶景！日本にある11の泉質のうち9つが湧く東北屈指の名湯・鳴子温泉郷の厳選おすすめ宿5選。",
   }
 };
@@ -131,9 +131,7 @@ export default function FeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             10月下旬〜11月上旬！東北屈指の大峡谷紅葉特集
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【10月下旬〜11月上旬！宮城鳴子峡の紅葉】<br className="hidden sm:inline" />大深沢橋列車ビューと名湯鳴子温泉郷の宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">下旬〜11月上旬！宮城鳴子峡の紅葉で過ごす冬の旅（10月）！<br className="hidden sm:inline" />大深沢橋列車ビューと名湯鳴子温泉郷の宿5選</h1>
           <p className="max-w-2xl mx-auto text-sm md:text-base text-stone-200 leading-relaxed">
             深さ約100mの断崖絶壁が燃えるような赤と黄金色に染まる東北屈指の紅葉名所「鳴子峡」！トンネルから現れる陸羽東線の列車絶景と、多彩な泉質を誇る名湯・鳴子温泉郷の厳選宿。
           </p>

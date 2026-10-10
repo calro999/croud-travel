@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【12・1月北海道】然別湖！名宿5選',
+  title: '北海道で過ごす冬の旅（12・1月）！然別湖！名宿5選',
   description: '大雪山国立公園の南端、北海道で最も標高の高い自然湖・然別湖が厚い氷に閉ざされる12〜1月。完全結氷した湖上にわずか60日間だけ現れる幻の村「。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '然別湖コタン ホテル, 然別湖畔温泉ホテル風水, 氷上露天風呂 然別湖, ぬかびら源泉郷 旅館, タウシュベツ川橋梁 冬, 十勝ハーブ牛, サホロリゾート, 十勝川温泉 観月苑, モール温泉, 12月 1月 北海道 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hokkaido-shikaribetsu-kotan-nukabira-onsen-ice-stay/"
   },
   openGraph: {
-    title: '【12・1月北海道】然別湖！名宿5選',
+    title: '北海道で過ごす冬の旅（12・1月）！然別湖！名宿5選',
     description: '大雪山国立公園の南端、北海道で最も標高の高い自然湖・然別湖が厚い氷に閉ざされる12〜1月。完全結氷した湖上にわずか60日間だけ現れる幻の村「。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-shikaribetsu-kotan-nukabira-onsen-ice-stay',
     siteName: '地域の宿探訪',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【12・1月北海道】然別湖＆ぬかびら源泉郷！氷結した湖上の幻の村「しかりべつ湖コタン」氷上露天風呂＆タウシュベツ川橋梁・十勝ハーブ牛名宿5選",
+    title: "北海道で過ごす冬の旅（12・1月）！然別湖＆ぬかびら源泉郷！氷結した湖上の幻の村「しかりべつ湖コタン」氷上露天風呂＆タウシュベツ川橋梁・十勝ハーブ牛名宿5選",
     description: "大雪山国立公園の南端、北海道で最も標高の高い自然湖・然別湖が厚い氷に閉ざされる12〜1月。完全結氷した湖上にわずか60日間だけ現れる幻の村「しかりべつ湖コタン」では、世界唯一の氷上露天風呂やアイスバーが旅人を魅了します。近隣のぬかびら源泉郷では古代ローマ遺跡のようなタウシュベツ川橋梁の白銀絶景と源泉掛け流しの秘湯、十勝ハーブ牛や新得そばなど北の大地の極上美食を堪能できる厳選名宿5選を徹底解説します。",
     images: ["https://img.travel.rakuten.co.jp/share/HOTEL/135963/135963.jpg"]
   }
@@ -236,10 +236,7 @@ export default function HokkaidoShikaribetsuNukabiraWinterPage() {
             <span>12月・1月冬の北海道極寒絶景特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">
-            然別湖＆ぬかびら源泉郷！<br className="hidden sm:inline" />
-            氷結した湖上の幻の村「しかりべつ湖コタン」氷上露天風呂＆タウシュベツ川橋梁・十勝ハーブ牛名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">然別湖＆ぬかびら源泉郷！<br className="hidden sm:inline" /> 氷結した湖上の幻の村「しかりべつ湖コタン」氷上露天風呂＆タウシュベツ川橋梁・十勝ハーブ牛名宿5選</h1>
 
           <p className="text-slate-300 text-sm sm:text-base lg:text-lg leading-relaxed max-w-3xl mb-8">
             大雪山国立公園の南端に位置し、北海道で最も標高の高い自然湖（標高810m）である然別湖。マイナス20度を下回る厳冬期、湖面が完全に氷結すると、雪と氷のブロックだけで作られた幻の村「しかりべつ湖コタン」がわずか60日間だけ姿を現します。厚い氷の上に湯煙を上げる奇跡の氷上露天風呂、アイスバー、そして白銀の雪原にたたずむ古代ローマ遺跡のようなタウシュベツ川橋梁。全館源泉掛け流しのぬかびら温泉や琥珀色のモール温泉、極上の十勝ハーブ牛を味わう冬の冒険旅へご案内します。

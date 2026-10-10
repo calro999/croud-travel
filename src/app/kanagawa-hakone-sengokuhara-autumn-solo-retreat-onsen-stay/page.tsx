@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kanagawa-hakone-sengokuhara-autumn-solo-retreat-onsen-stay/" },
-  title: '【10月・11月秋の箱根仙石原ひとり旅・黄金色ススキ草原と白濁硫黄泉おこもり】全室露天風呂・北海道×箱根の極上和懐石！秋深まる高原リトリート厳選3宿',
+  title: '・11月秋の箱根仙石原ひとり旅・黄金色ススキ草原と白濁硫黄泉おこもりで過ごす冬の旅（10月）！全室露天風呂・北海道×箱根の極上和懐石！秋深まる高原リトリート厳選3宿',
   description: '10月〜11月が見頃！台ヶ岳北斜面を埋め尽くす黄金色のススキ草原が圧巻の箱根・仙石原。大涌谷から引湯する乳白色の天然温泉と全室露天風呂付きの贅沢空間が評判の「センチュリオン箱根別邸」、全室客室温泉付きで竹林を望む大人の隠れ家「きたの風茶寮」、アットホームなもてなしと良質なにごり湯の「金時山荘」を楽天API最新データに基づき徹底比較。',
   keywords: '仙石原温泉 一人旅 宿,箱根 仙石原 10月 11月 紅葉 温泉,センチュリオン箱根別邸 一人旅,きたの風茶寮,金時山荘,仙石原 ススキ 一人旅 おこもり',
   openGraph: {
-    title: '【10月・11月秋の箱根仙石原ひとり旅・黄金色ススキ草原と白濁硫黄泉おこもり】全室露天風呂・北海道×箱根の極上和懐石！秋深まる高原リトリート厳選3宿',
+    title: '・11月秋の箱根仙石原ひとり旅・黄金色ススキ草原と白濁硫黄泉おこもりで過ごす冬の旅（10月）！全室露天風呂・北海道×箱根の極上和懐石！秋深まる高原リトリート厳選3宿',
     description: '10月〜11月が見頃！台ヶ岳北斜面を埋め尽くす黄金色のススキ草原が圧巻の箱根・仙石原。大涌谷から引湯する乳白色の天然温泉と全室露天風呂付きの贅沢空間が評判の「センチュリオン箱根別邸」、全室客室温泉付きで竹林を望む大人の隠れ家「きたの風茶寮」、アットホームなもてなしと良質なにごり湯の「金時山荘」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/kanagawa-hakone-sengokuhara-autumn-solo-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【10月・11月秋の箱根仙石原ひとり旅・黄金色ススキ草原と白濁硫黄泉おこもり】全室露天風呂・北海道×箱根の極上和懐石！秋深まる高原リトリート厳選3宿',
+    headline: '・11月秋の箱根仙石原ひとり旅・黄金色ススキ草原と白濁硫黄泉おこもりで過ごす冬の旅（10月）！全室露天風呂・北海道×箱根の極上和懐石！秋深まる高原リトリート厳選3宿',
     description: '10月〜11月が見頃！台ヶ岳北斜面を埋め尽くす黄金色のススキ草原が圧巻の箱根・仙石原。大涌谷から引湯する乳白色の天然温泉と全室露天風呂付きの贅沢空間が評判の「センチュリオン箱根別邸」、全室客室温泉付きで竹林を望む大人の隠れ家「きたの風茶寮」、アットホームなもてなしと良質なにごり湯の「金時山荘」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             箱根仙石原・10-11月秋の黄金ススキ＆にごり湯ひとり旅おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【10月・11月秋の箱根仙石原ひとり旅・黄金色ススキ草原と白濁硫黄泉おこもり】全室露天風呂・北海道×箱根の極上和懐石！秋深まる高原リトリート厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">・11月秋の箱根仙石原ひとり旅・黄金色ススキ草原と白濁硫黄泉おこもりで過ごす冬の旅（10月）！全室露天風呂・北海道×箱根の極上和懐石！秋深まる高原リトリート厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

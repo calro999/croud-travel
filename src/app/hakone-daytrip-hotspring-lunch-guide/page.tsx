@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hakone-daytrip-hotspring-lunch-guide/" },
-  title: "【箱根 日帰り温泉 ランチ付きおすすめ】個室休憩＆貸切風呂・老舗旅館の贅沢日帰りプラン完全比較 ｜ 日本全国・旅宿クラウド",
+  title: "箱根 日帰り温泉 ランチ付きおすすめ：個室休憩＆貸切風呂・老舗旅館の贅沢日帰りプラン完全比較 ｜ 日本全国・旅宿クラウド",
   description: "箱根の日帰り温泉ランチ付きプランを徹底解説！箱根湯本駅チカ旅館の懐石ランチ、強羅のにごり湯＆個室付きプラン、絶景露天風呂と湯葉料理がセットになった日帰り贅沢ステイの料金・予約方法。",
   keywords: ["箱根", "日帰り温泉", "ランチ付きおすすめ", "個室休憩", "貸切風呂", "温泉宿", "宿泊予約"],
 };
@@ -159,10 +159,7 @@ export default function HakoneDaytripHotspringLunchPage() {
             </span>
           </div>
 
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【箱根 日帰り温泉 ランチ付きおすすめ】<br />
-            個室休憩＆貸切風呂・老舗旅館の贅沢プラン完全比較
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「箱根 日帰り温泉 ランチ付きおすすめ」<br /> 個室休憩＆貸切風呂・老舗旅館の贅沢プラン完全比較</h1>
 
           <p className="text-xs md:text-sm text-cyan-100/90 leading-relaxed font-medium">
             「宿泊する時間はないけれど、旅館の美味しい料理と名湯で贅沢に癒やされたい！」そんな大人の休日に最適なのが、箱根の日帰り温泉＆ランチプラン。箱根湯本の老舗旅館による客室休憩付きプランから、強羅のにごり湯貸切、湯葉会席ランチまで、失敗しない選び方と最新料金を徹底解説します。

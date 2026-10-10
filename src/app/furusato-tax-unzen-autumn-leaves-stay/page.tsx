@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '雲仙仁田峠の紅葉ロープウェイ＆湯けむり雲仙地獄！乳白美肌の湯宿×ふるさと納税完全ガイド【2026年最新秋旅】長崎',
+  title: '雲仙仁田峠の紅葉ロープウェイ＆湯けむり雲仙地獄！乳白美肌の湯宿×ふるさと納税厳選ガイド長崎',
   description: '10月下旬〜11月中旬に山全体が赤く染まる「雲仙仁田峠」と普賢岳の紅葉！ロープウェイから見下ろす錦秋パノラマと大迫力の雲仙地獄めぐり、名宿「雲仙福田屋」「東園」「雲仙新湯」で長崎和牛や島原半島の旬魚を堪能。楽天ふるさと納税トラベルクーポンで実質2,000円で泊まる九州屈指の紅葉ガイド。',
   keywords: ["雲仙仁田峠の紅葉ロープウェイ", "2026年最新秋旅", "長崎", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-unzen-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '雲仙仁田峠の紅葉ロープウェイ＆湯けむり雲仙地獄！乳白美肌の湯宿×ふるさと納税完全ガイド【2026年最新秋旅】長崎',
+    title: '雲仙仁田峠の紅葉ロープウェイ＆湯けむり雲仙地獄！乳白美肌の湯宿×ふるさと納税厳選ガイド長崎',
     description: '10月下旬〜11月中旬に山全体が赤く染まる「雲仙仁田峠」と普賢岳の紅葉！ロープウェイから見下ろす錦秋パノラマと大迫力の雲仙地獄めぐり、名宿「雲仙福田屋」「東園」「雲仙新湯」で長崎和牛や島原半島の旬魚を堪能。楽天ふるさと納税トラベルクーポンで実質2,000円で泊まる九州屈指の紅葉ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-unzen-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FeatureArticlePage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               長崎・雲仙温泉＆仁田峠紅葉特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              雲仙仁田峠の紅葉ロープウェイ＆湯けむり雲仙地獄！乳白美肌の湯宿×ふるさと納税完全ガイド【2026年最新秋旅】長崎
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">雲仙仁田峠の紅葉ロープウェイ＆湯けむり雲仙地獄！乳白美肌の湯宿×ふるさと納税厳選ガイド長崎</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               10月下旬〜11月中旬に山全体が赤く染まる「雲仙仁田峠」と普賢岳の紅葉！ロープウェイから見下ろす錦秋パノラマと大迫力の雲仙地獄めぐり、名宿「雲仙福田屋」「東園」「雲仙新湯」で長崎和牛や島原半島の旬魚を堪能。楽天ふるさと納税トラベルクーポンで実質2,000円で泊まる九州屈指の紅葉ガイド。
             </p>

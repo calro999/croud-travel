@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【函館駅前】五稜郭紅葉＆函館朝市・活イカ・塩ラーメン！2,000円台〜泊まれる格安ホテル5選',
+  title: '函館駅前：五稜郭紅葉＆函館朝市・活イカ・塩ラーメン！2,000円台〜泊まれる格安ホテル5選',
   description: '函館朝市の新鮮な活イカ海鮮丼や名物函館塩ラーメン、星形城郭・五稜郭の錦秋の紅葉！JR函館駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>特別史跡五稜郭の紅葉＆函館朝市・名物塩ラーメン</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【函館駅前】五稜郭紅葉＆朝市海鮮・塩ラーメン！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「函館駅前」五稜郭紅葉＆朝市海鮮・塩ラーメン！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             星形の稜堡が美しい特別史跡「五稜郭公園」の紅葉とタワーからの絶景。函館駅すぐの「函館朝市」で味わう名物・活イカ刺しやイクラ丼、透き通る黄金スープの函館塩ラーメン。秋の魅力満載の函館駅前で、1泊2,000円台〜泊まれる格安ホテルを厳選。
           </p>

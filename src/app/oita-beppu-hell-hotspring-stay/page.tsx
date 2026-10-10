@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/oita-beppu-hell-hotspring-stay/" },
-  title: "【大分・別府八湯＆別府地獄めぐり】海地獄・血の池地獄＆地獄蒸し極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "大分・別府八湯＆別府地獄めぐり：海地獄・血の池地獄＆地獄蒸し極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "日本一の湧出量・別府温泉郷エリア完全特化！海地獄・血の池地獄など7つの別府地獄めぐり、鉄輪温泉の湯けむり展望台、地獄蒸し料理体験、砂湯と老舗温泉旅館を徹底解説。",
   keywords: ["大分", "別府八湯", "別府地獄めぐり", "海地獄", "血の池地獄", "地獄蒸し極上宿", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             BEPPU JIGOKU MICRO GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【大分・別府八湯＆別府地獄めぐり】海地獄・血の池地獄＆地獄蒸し極上宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「大分・別府八湯＆別府地獄めぐり」海地獄・血の池地獄＆地獄蒸し極上宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             街の至る所から立ち上る湯けむり。日本一の温泉湧出量と源泉数を誇る「おんせん県おおいた・別府」。コバルトブルーの海地獄、真っ赤な血の池地獄。地熱と温泉の圧倒的パワーに癒やされる旅。
           </p>

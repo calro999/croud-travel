@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/okayama-kurashiki-bikan-stay/" },
-  title: "【岡山・倉敷美観地区】白壁土蔵・大原美術館＆倉敷デニム・フルーツ極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "岡山・倉敷美観地区：白壁土蔵・大原美術館＆倉敷デニム・フルーツ極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "岡山・倉敷美観地区エリア完全特化！倉敷川の舟流し、白壁土蔵の町並み、日本初の西洋美術館「大原美術館」、倉敷デニムストリート、岡山白桃・マスカットパフェと美観地区の風情ある町家ホテルを徹底解説。",
   keywords: ["岡山", "倉敷美観地区", "白壁土蔵", "大原美術館", "倉敷デニム", "フルーツ極上宿", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             KURASHIKI BIKAN MICRO GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【岡山・倉敷美観地区】白壁土蔵・大原美術館＆倉敷デニム・フルーツ極上宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「岡山・倉敷美観地区」白壁土蔵・大原美術館＆倉敷デニム・フルーツ極上宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             白壁の土蔵となまこ壁、川面に揺れる柳並木。江戸時代の天領の面影を色濃く残す「倉敷美観地区」。モネの『睡蓮』を所蔵する大原美術館と、町家をリノベーションした上質な宿泊体験。
           </p>

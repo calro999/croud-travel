@@ -4,14 +4,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '富士山と燃えるような紅葉の競演！富士河口湖紅葉まつり・もみじ回廊＆絶景温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】 | 旅宿クラウド',
+  title: '富士山と燃えるような紅葉の競演！富士河口湖紅葉まつり・もみじ回廊＆絶景温泉名宿×ふるさと納税厳選ガイド | 旅宿クラウド',
   description: '10月下旬〜11月下旬に開催される日本屈指の秋イベント「富士河口湖紅葉まつり」。約60本の大古木モミジが織りなす「もみじ回廊」の幻想的なライトアップと、富士山を正面に望む極上温泉！「大池ホテル」「四季の宿 富士山」「ホテル鐘山苑」など厳選宿を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
   keywords: ["もみじ回廊", "絶景温泉名宿×ふるさと納税", "2026年最新秋旅", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-fujikawaguchiko-autumn-leaves-festival-stay/"
   },
   openGraph: {
-    title: '富士山と燃えるような紅葉の競演！富士河口湖紅葉まつり・もみじ回廊＆絶景温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】',
+    title: '富士山と燃えるような紅葉の競演！富士河口湖紅葉まつり・もみじ回廊＆絶景温泉名宿×ふるさと納税厳選ガイド',
     description: '10月下旬〜11月下旬に開催される日本屈指の秋イベント「富士河口湖紅葉まつり」。約60本の大古木モミジが織りなす「もみじ回廊」の幻想的なライトアップと、富士山を正面に望む極上温泉！「大池ホテル」「四季の宿 富士山」「ホテル鐘山苑」など厳選宿を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-fujikawaguchiko-autumn-leaves-festival-stay',
     siteName: '旅宿クラウド',
@@ -65,9 +65,7 @@ export default function FurusatoFujiKawaguchikoAutumnLeavesStayPage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               富士河口湖紅葉まつり＆もみじ回廊・富士山絶景温泉宿特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              富士山と燃えるような紅葉の競演！富士河口湖紅葉まつり・もみじ回廊＆絶景温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">富士山と燃えるような紅葉の競演！富士河口湖紅葉まつり・もみじ回廊＆絶景温泉名宿×ふるさと納税厳選ガイド</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               10月下旬〜11月下旬に開催される日本屈指の秋イベント「富士河口湖紅葉まつり」。約60本の大古木モミジが織りなす「もみじ回廊」の幻想的なライトアップと、富士山を正面に望む極上温泉！「大池ホテル」「四季の宿 富士山」「ホテル鐘山苑」など厳選宿を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。
             </p>

@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-morning-yoga-mindfulness-guide/" },
-  title: "【朝ヨガ＆森林セラピー グランピング】朝陽と鳥の声で目覚める！美と健康のリトリート女子旅 ｜ 日本全国・旅宿クラウド",
+  title: "朝ヨガ＆森林セラピー グランピング：朝陽と鳥の声で目覚める！美と健康のリトリート女子旅 ｜ 日本全国・旅宿クラウド",
   description:
     "心と体をデトックスする秋のグランピング！ウッドデッキでの朝ヨガ体験、ハーブティーとオーガニック朝食、フィトンチッド溢れる森林浴セラピーで日頃のストレスをリセットする週末リフレッシュ旅。",
   keywords: ["朝ヨガ", "森林セラピー", "グランピング", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
@@ -196,9 +196,7 @@ export default function SilverWeekGlampingMorningYogaMindfulnessPage() {
             <span>美と健康のウェルネスリトリート</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-snug font-journal-serif">
-            【朝ヨガ＆森林セラピー グランピング】朝陽と鳥の声で目覚める！美と健康のリトリート女子旅
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-snug font-journal-serif">「朝ヨガ＆森林セラピー グランピング」朝陽と鳥の声で目覚める！美と健康のリトリート女子旅</h1>
 
           <p className="text-indigo-100/90 text-sm sm:text-base leading-relaxed pt-1">
             日々の喧騒やPC・スマートフォンの画面から離れ、澄んだ秋風と緑の香りに包まれる癒やしのステイ。森のデッキで迎える朝陽ヨガ、身体を潤すオーガニックハーブティー、焚き火を見つめるマインドフルネス瞑想で、心身の巡りを整えるリセットの旅へ。

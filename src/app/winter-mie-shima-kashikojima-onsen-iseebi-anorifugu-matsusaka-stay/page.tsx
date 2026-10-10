@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月三重・志摩賢島温泉】本場伊勢海老！名宿5選',
+  title: '三重・志摩賢島温泉で過ごす冬の旅（11・12月）！本場伊勢海老！名宿5選',
   description: '11月から12月にかけて、伊勢志摩国立公園の真珠の海「英虞湾（あごわん）」に浮かぶ賢島（かしこじま）周辺は、澄み渡る初冬の青空の下。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '志摩 賢島 温泉 宿泊, 志摩観光ホテル ザ クラシック, 賢島宝生苑, 汀渚 ばさら邸, 都リゾート 志摩 ベイサイドテラス, 志摩観光ホテル ザ ベイスイート, 伊勢海老, あのりふぐ, 的矢かき, 松阪牛, 11月 12月 伊勢志摩',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-mie-shima-kashikojima-onsen-iseebi-anorifugu-matsusaka-stay/"
   },
   openGraph: {
-    title: '【11・12月三重・志摩賢島温泉】本場伊勢海老！名宿5選',
+    title: '三重・志摩賢島温泉で過ごす冬の旅（11・12月）！本場伊勢海老！名宿5選',
     description: '11月から12月にかけて、伊勢志摩国立公園の真珠の海「英虞湾（あごわん）」に浮かぶ賢島（かしこじま）周辺は、澄み渡る初冬の青空の下。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-mie-shima-kashikojima-onsen-iseebi-anorifugu-matsusaka-stay',
     siteName: 'クラドトラベル',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月三重・志摩賢島温泉の英虞湾夕日と冬の伊勢志摩美食】本場伊勢海老＆幻のあのりふぐ・極上松阪牛・真珠の海を望む絶景宿5選",
+    title: "三重・志摩賢島温泉の英虞湾夕日と冬の伊勢志摩美食で過ごす冬の旅（11・12月）！本場伊勢海老＆幻のあのりふぐ・極上松阪牛・真珠の海を望む絶景宿5選",
     description: "11月から12月にかけて、伊勢志摩国立公園の真珠の海「英虞湾（あごわん）」に浮かぶ賢島（かしこじま）周辺は、澄み渡る初冬の青空の下、無数の真珠養殖筏が織りなすリアス海岸が夕陽に黄金色へと染まり、1年で最もドラマチックな美しさを放ちます。G7伊勢志摩サミットの舞台となった世界的名門ホテルをはじめ、海を一望する絶景温泉旅館が立ち並ぶ賢島温泉。10月に解禁され冬に甘みとプリプリの食感が極まる「伊勢海老」の姿造りや鬼殻焼き、志摩半島安乗沖で獲れる天然トラフグの最高峰「あのりふぐ」、クリーミーな「的矢かき」、世界の美食家を唸らせる極上の「松阪牛」。英虞湾の穏やかな波音と満天の星空に抱かれ、至高の美味と名湯に酔いしれる厳選宿5選を徹底解説します。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -248,12 +248,7 @@ export default function WinterMieKashikojimaPage() {
             11月・12月 英虞湾夕日絶景＆冬の伊勢海老・松阪牛特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月三重・志摩賢島温泉】英虞湾夕日と冬の伊勢志摩美食
-            <span className="block text-amber-300 text-lg sm:text-2xl mt-3 font-normal">
-              本場伊勢海老＆幻のあのりふぐ・極上松阪牛・真珠の海を望む絶景宿5選
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">三重・志摩賢島温泉で過ごす冬の旅（11・12月）！英虞湾夕日と冬の伊勢志摩美食 <span className="block text-amber-300 text-lg sm:text-2xl mt-3 font-normal"> 本場伊勢海老＆幻のあのりふぐ・極上松阪牛・真珠の海を望む絶景宿5選 </span></h1>
 
           <p className="text-sm sm:text-base text-stone-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、伊勢志摩国立公園の真珠の海「英虞湾（あごわん）」に浮かぶ賢島（かしこじま）周辺は、澄み渡る初冬の青空の下、無数の真珠養殖筏が織りなすリアス海岸が夕陽に黄金色へと染まり、1年で最もドラマチックな美しさを放ちます。G7伊勢志摩サミットの舞台となった世界的名門ホテルをはじめ、海を一望する絶景温泉旅館が立ち並ぶ賢島温泉。10月に解禁され冬に甘みとプリプリの食感が極まる「伊勢海老」の姿造りや鬼殻焼き、志摩半島安乗沖で獲れる天然トラフグの最高峰「あのりふぐ」、クリーミーな「的矢かき」、世界の美食家を唸らせる極上の「松阪牛」。英虞湾の穏やかな波音と満天の星空に抱かれ、至高の美味と名湯に酔いしれる厳選宿5選を徹底解説します。

@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【佐賀】アジア最大級バルーンフェスタと呼子イカ・佐賀牛！3,000円台〜格安ホテル5選',
+  title: '佐賀：アジア最大級バルーンフェスタと呼子イカ・佐賀牛！3,000円台〜格安ホテル5選',
   description: '秋空をカラフルに埋め尽くす100機の熱気球「佐賀インターナショナルバルーンフェスタ」！透明に透き通る名物呼子の活イカ姿造りと最高峰佐賀牛。佐賀駅前で1泊3,000円台〜5,000円台の高評価宿5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetSagaHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>アジア最大級バルーンフェスタ＆名物呼子イカ</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【佐賀】秋のバルーンフェスタ＆呼子イカへ！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「佐賀」秋のバルーンフェスタ＆呼子イカへ！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-purple-100/90 max-w-2xl mx-auto leading-relaxed">
             澄み渡る秋晴れの空に世界各国から集まった100機以上の熱気球が一斉に飛び立つアジア最大規模のイベント「佐賀インターナショナルバルーンフェスタ」。夜は佐賀駅前で、まだピクピクと動く透き通った名物「呼子の活イカ姿造り」や、とろける霜降りの「佐賀牛」に舌鼓！3,000円台〜の優良宿をご紹介。
           </p>

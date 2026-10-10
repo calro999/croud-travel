@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tangible-cultural-property-sukiya-carpenter-ryokan-stay/" },
-  title: '登録有形文化財・宮大工建築の数寄屋旅館完全ガイド【釘を使わぬ木造美と温泉】 | クラウドトラベル',
+  title: '登録有形文化財・宮大工建築の数寄屋旅館厳選ガイド「釘を使わぬ木造美と温泉」 | クラウドトラベル',
   description: '伊豆修善寺の新井旅館、法師温泉長寿館、有馬温泉陶泉御所坊など、国の登録有形文化財に指定された宮大工建築・数寄屋造りの名旅館を特集。日本の木造伝統美と湯巡り。',
   openGraph: {
-    title: '登録有形文化財・宮大工建築の数寄屋旅館完全ガイド【釘を使わぬ木造美と温泉】 | クラウドトラベル',
+    title: '登録有形文化財・宮大工建築の数寄屋旅館厳選ガイド「釘を使わぬ木造美と温泉」 | クラウドトラベル',
     description: '伊豆修善寺の新井旅館、法師温泉長寿館、有馬温泉陶泉御所坊など、国の登録有形文化財に指定された宮大工建築・数寄屋造りの名旅館を特集。日本の木造伝統美と湯巡り。',
     type: 'article',
   },
@@ -59,9 +59,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             登録有形文化財・宮大工の宿
           </div>
-          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            登録有形文化財・宮大工建築の数寄屋旅館完全ガイド【釘を使わぬ木造美と温泉】
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">登録有形文化財・宮大工建築の数寄屋旅館厳選ガイド「釘を使わぬ木造美と温泉」</h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl">
             日本の風土と豊かな木材、そして熟練の宮大工の手仕事によって生み出された数寄屋造りの名旅館。透かし彫りの欄間、銘木の床柱、川のせせらぎや日本庭園と一体化する回廊など、建物そのものが国の登録有形文化財に指定されている奇跡の空間です。川音や庭の風情に耳を澄ませ、木造建築特有の柔らかな温もりと名湯に身を委ねる、日本文化の真髄に触れる旅へ誘います。
           </p>

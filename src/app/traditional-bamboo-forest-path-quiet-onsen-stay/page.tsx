@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '【2026年】笹の葉のざわめきとライトアップ！竹林の小径に佇む静寂の隠れ家温泉旅館5選 ｜ 日本全国・旅宿クラウド',
+  title: '2026年：笹の葉のざわめきとライトアップ！竹林の小径に佇む静寂の隠れ家温泉旅館5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！伊豆修善寺・京都嵐山・黒川など、美しく手入れされた青竹の林に囲まれ、幻想的な竹林ライトアップと露天風呂を満喫できる隠れ家宿5選。',
   keywords: ["2026年", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/traditional-bamboo-forest-path-quiet-onsen-stay/",
   },
   openGraph: {
-    title: '【2026年】笹の葉のざわめきとライトアップ！竹林の小径に佇む静寂の隠れ家温泉旅館5選',
+    title: '2026年：笹の葉のざわめきとライトアップ！竹林の小径に佇む静寂の隠れ家温泉旅館5選',
     description: '2026年最新！伊豆修善寺・京都嵐山・黒川など、美しく手入れされた青竹の林に囲まれ、幻想的な竹林ライトアップと露天風呂を満喫できる隠れ家宿5選。',
     url: 'https://croud-travel.pages.dev/traditional-bamboo-forest-path-quiet-onsen-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -172,9 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>竹林ライトアップ×静寂露天風呂</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            【2026年】笹の葉のざわめきとライトアップ！竹林の小径に佇む静寂の隠れ家温泉旅館5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」笹の葉のざわめきとライトアップ！竹林の小径に佇む静寂の隠れ家温泉旅館5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             天高く伸びる青竹の間を渡る心地よい風の音。夜になると竹林がライトアップされ、黄金色と緑の幻想的な光の世界が浮かび上がります。竹林に囲まれた専用露天風呂で日常を忘れ、静寂の中で心研ぎ澄まされる大人の隠れ家ステイ。
           </p>

@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【11・12月伊豆高原グランイルミ】日本一の体験型イルミと伊東温泉・金目鯛姿煮宿5選",
+  title: "伊豆高原グランイルミで過ごす冬の旅（11・12月）！日本一の体験型イルミと伊東温泉・金目鯛姿煮宿5選",
   description: "11月中旬から本格シーズンを迎える全国ランキング第1位の体験型ナイトエンターテインメント「伊豆高原グランイルミ」！光の地上絵やジップラインを満喫した後は、伊東・伊豆高原の美肌温泉露天風呂と、冬に脂が最高に乗る名物・金目鯛の姿煮に舌鼓を打つ極上リゾートステイ。",
   keywords: '伊豆高原 グランイルミ ホテル, 伊豆高原 温泉 旅館, 伊東温泉 金目鯛 宿, 伊豆高原 露天風呂 客室, 静岡 11月 12月 旅行, 伊豆 イルミネーション 宿泊',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shizuoka-izukogen-granillumi-ito-onsen-stay/",
   },
   openGraph: {
-    title: "【11・12月伊豆高原グランイルミ】日本一の体験型イルミと伊東温泉・金目鯛姿煮宿5選",
+    title: "伊豆高原グランイルミで過ごす冬の旅（11・12月）！日本一の体験型イルミと伊東温泉・金目鯛姿煮宿5選",
     description: "11月中旬から本格シーズンを迎える全国ランキング第1位の体験型ナイトエンターテインメント「伊豆高原グランイルミ」！光の地上絵やジップラインを満喫した後は、伊東・伊豆高原の美肌温泉露天風呂と、冬に脂が最高に乗る名物・金目鯛の姿煮に舌鼓を打つ極上リゾートステイ。",
     url: 'https://croud-travel.pages.dev/winter-shizuoka-izukogen-granillumi-ito-onsen-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月伊豆高原グランイルミ】日本一の体験型イルミと伊東温泉・金目鯛姿煮宿5選",
+    title: "伊豆高原グランイルミで過ごす冬の旅（11・12月）！日本一の体験型イルミと伊東温泉・金目鯛姿煮宿5選",
     description: "11月中旬から本格シーズンを迎える全国ランキング第1位の体験型ナイトエンターテインメント「伊豆高原グランイルミ」！光の地上絵やジップラインを満喫した後は、伊東・伊豆高原の美肌温泉露天風呂と、冬に脂が最高に乗る名物・金目鯛の姿煮に舌鼓を打つ極上リゾートステイ。",
   }
 };
@@ -266,10 +266,7 @@ export default function IzukogenWinterPage() {
             <Sparkles className="w-4 h-4 text-amber-300" />
             <span>11月・12月開幕！日本一の体験型イルミ</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月伊豆高原グランイルミ】<br className="hidden sm:inline" />
-            日本一の体験型イルミと伊東温泉・金目鯛姿煮宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">伊豆高原グランイルミで過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 日本一の体験型イルミと伊東温泉・金目鯛姿煮宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             全国第1位に輝く体験型イルミ「伊豆高原グランイルミ」の圧倒的な光の祭典！ジップラインで光の海を飛び、伊豆高原の美肌温泉露天風呂と冬が旬の脂の乗った金目鯛姿煮に癒やされる冬休み。
           </p>

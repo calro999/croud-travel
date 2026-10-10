@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月兵庫】冬本番！名宿5選',
+  title: '11・12・1月兵庫：冬本番！名宿5選',
   description: '11月15日の狩猟解禁とともに冬本番を迎える兵庫県・丹波篠山。丹波の深い山々で木の実を食べて育った天然猪肉は、冬の寒さとともに上質な白脂を蓄え。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '丹波篠山 ぼたん鍋, ぼたん鍋 発祥 宿, 篠山城下町 ホテル, 丹波篠山 冬 旅行, 篠山城下町ホテル NIPPONIA, 丹波篠山 近又, 豆家, 丹波篠山牛, 11月 12月 1月 兵庫 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hyogo-tanba-sasayama-botannabe-castle-stay/"
   },
   openGraph: {
-    title: '【11・12・1月兵庫】冬本番！名宿5選',
+    title: '11・12・1月兵庫：冬本番！名宿5選',
     description: '11月15日の狩猟解禁とともに冬本番を迎える兵庫県・丹波篠山。丹波の深い山々で木の実を食べて育った天然猪肉は、冬の寒さとともに上質な白脂を蓄え。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-hyogo-tanba-sasayama-botannabe-castle-stay',
     type: 'article',
@@ -236,12 +236,7 @@ export default function HyogoTanbaSasayamaPage() {
             11月・12月・1月 冬の日本味覚＆城下町雪景色特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-tight sm:leading-snug text-stone-100 font-serif">
-            白銀の篠山城下町と秘伝味噌仕立ての極上猪肉<br />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-rose-200 via-rose-300 to-amber-200">
-              冬本番！丹波篠山「本場ぼたん鍋」発祥の味＆丹波篠山牛の名宿
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-tight sm:leading-snug text-stone-100 font-serif">白銀の篠山城下町と秘伝味噌仕立ての極上猪肉<br /> <span className="text-transparent bg-clip-text bg-gradient-to-r from-rose-200 via-rose-300 to-amber-200"> 冬本番！丹波篠山「本場ぼたん鍋」発祥の味＆丹波篠山牛の名宿 </span></h1>
 
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed max-w-3xl mx-auto font-light">
             11月中旬の狩猟解禁とともに、日本の鍋料理の頂点を極める季節が訪れます。丹波の山野で木の実を食んで育った天然猪の芳醇な旨みと、牡丹の花咲くごとく盛り付けられた本場「ぼたん鍋」。白雪をまとう篠山城跡の大書院、重伝建の妻入商家群、そして歴史ある古民家や老舗料理旅館で味わう至高の冬宵をご案内します。

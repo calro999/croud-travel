@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【鳥取駅前】黄金の鳥取砂丘＆幻のモサエビ・鳥取和牛！3,000円台〜泊まれる格安ホテル5選',
+  title: '鳥取駅前：黄金の鳥取砂丘＆幻のモサエビ・鳥取和牛！3,000円台〜泊まれる格安ホテル5選',
   description: '山陰海岸国立公園・鳥取砂丘の美しい風紋と日本海の秋の夕日！地元でしか味わえない幻の「モサエビ」や上質な鳥取和牛。JR山陰本線・鳥取駅周辺で1泊3,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>広大な鳥取砂丘の秋風紋＆地元限定の幻のモサエビ・鳥取和牛</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【鳥取駅前】黄金の鳥取砂丘＆幻のモサエビ！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「鳥取駅前」黄金の鳥取砂丘＆幻のモサエビ！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             東西16kmに広がる日本最大級の海岸砂丘「鳥取砂丘」。秋風が砂の上に描く美しい「風紋」と、日本海に沈む茜色の夕日は息をのむ美しさ。鮮度が落ちやすく県外に出回らない幻のエビ「モサエビ」の濃厚な甘みや、霜降り「鳥取和牛」に舌鼓！鳥取駅周辺で3,000円台〜泊まれる優良ホテルを厳選。
           </p>

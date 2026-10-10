@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】春の味覚・朝採り筍！掘りたてタケノコ会席＆幻想的な竹林露天の風情宿5選 | 日本全国・旅宿クラウド',
+  title: '2026年：春の味覚・朝採り筍！掘りたてタケノコ会席＆幻想的な竹林露天の風情宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！春限定の朝掘り新鮮タケノコ会席！焼き筍・筍ご飯・若竹煮と、ライトアップされた竹林を望む幻想露天風呂が自慢の名湯宿5選。',
   keywords: ["2026年", "春の味覚", "朝採り筍！掘りたてタケノコ会席", "幻想的な竹林露天の風情宿5選", "日本全国", "旅宿クラウド", "温泉宿"],
   openGraph: {
-    title: '【2026年】春の味覚・朝採り筍！掘りたてタケノコ会席＆幻想的な竹林露天の風情宿5選',
+    title: '2026年：春の味覚・朝採り筍！掘りたてタケノコ会席＆幻想的な竹林露天の風情宿5選',
     description: '2026年最新！春限定の朝掘り新鮮タケノコ会席！焼き筍・筍ご飯・若竹煮と、ライトアップされた竹林を望む幻想露天風呂が自慢の名湯宿5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/spring-takenoko-bamboo-shoot-kaiseki-stay',
@@ -193,9 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> 朝採り筍会席×幻想竹林露天
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】春の味覚・朝採り筍！掘りたてタケノコ会席＆幻想的な竹林露天の風情宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」春の味覚・朝採り筍！掘りたてタケノコ会席＆幻想的な竹林露天の風情宿5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             えぐみがなく甘み際立つ、朝掘りたての新鮮な筍（タケノコ）。炭火で香ばしく焼き上げる焼き筍や、風味豊かな筍ご飯、若竹煮など春の恵みを尽くした会席料理。風に揺れる竹の葉音とライトアップされた竹林露天風呂で過ごす風流な春の夜。
           </p>

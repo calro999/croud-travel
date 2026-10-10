@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '三千年の歴史を誇る日本最古の名湯！道後温泉本館徒歩圏＆名門旅館×ふるさと納税完全攻略ガイド【2026年最新】ふなや・道後御湯・道後プリンス',
+  title: '三千年の歴史を誇る日本最古の名湯！道後温泉本館徒歩圏＆名門旅館×ふるさと納税極上旅ガイドふなや・道後御湯・道後プリンス',
   description: '日本最古の温泉・道後温泉！重要文化財「道後温泉本館」の保存修理完了で賑わう温泉街へ徒歩すぐ。「道後温泉 ふなや」「道後御湯」「道後プリンスホテル」を、愛媛県松山市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。創業390余年の皇族御用達宿、全室客室露天風呂、8つの露天風呂とボンネットバスを堪能。',
   keywords: ["2026年最新", "ふなや", "道後御湯", "道後プリンス", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-dogo-onsen-honkan-walk-luxury-stay/",
   },
   openGraph: {
-    title: '三千年の歴史を誇る日本最古の名湯！道後温泉本館徒歩圏＆名門旅館×ふるさと納税完全攻略ガイド【2026年最新】ふなや・道後御湯・道後プリンス',
+    title: '三千年の歴史を誇る日本最古の名湯！道後温泉本館徒歩圏＆名門旅館×ふるさと納税極上旅ガイドふなや・道後御湯・道後プリンス',
     description: '日本最古の温泉・道後温泉！重要文化財「道後温泉本館」の保存修理完了で賑わう温泉街へ徒歩すぐ。「道後温泉 ふなや」「道後御湯」「道後プリンスホテル」を、愛媛県松山市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。創業390余年の皇族御用達宿、全室客室露天風呂、8つの露天風呂とボンネットバスを堪能。',
     url: 'https://croud-travel.pages.dev/furusato-tax-dogo-onsen-honkan-walk-luxury-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoDogoOnsenHonkanStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           日本最古の名湯！愛媛県松山市 道後温泉特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          三千年の歴史を誇る日本最古の名湯！道後温泉本館徒歩圏＆名門旅館×ふるさと納税完全攻略ガイド【2026年最新】ふなや・道後御湯・道後プリンス
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">三千年の歴史を誇る日本最古の名湯！道後温泉本館徒歩圏＆名門旅館×ふるさと納税極上旅ガイドふなや・道後御湯・道後プリンス</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoDogoOnsenHonkanStayPage() {
               ★文人ゆかりの宿・道後一の老舗★　日本庭園には、自然の川が流れ四季折々の風情がお楽しみいただけます。
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “料理も温泉も最高、家族全員大満足の旅家族4人で利用しました。これまでの旅館の中で最高と言える経験でした。料理はとても美味しく丁寧に作られていて感動しました。配膳を担当してくださった方は、親切丁寧に… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D11332%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoDogoOnsenHonkanStayPage() {
               大人のための上質で贅沢な空間で「現代の湯治」をお愉しみください。
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “家族旅行で伺いました。到着した時から温かく迎えてくださり、若いスタッフさんもとても礼儀正しく言葉遣いも綺麗で食事の内容も一品ずつ細かく丁寧に笑顔で説明してくださいました。お料理、お部屋も最高です。大浴… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D165194%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoDogoOnsenHonkanStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               シルバーアワード受賞♪あったらいいな、が沸く湯宿＊wi-fi完備・道後温泉駅～レトロバスで無料送迎
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “リピーターです2回目の利用。お風呂は大浴場が広くてお湯も温度が私にはちょうど良く(40度ぐらい)気持ちいいです。シャンプーの種類が豊富で悩ましい。朝食は美味しくつい食べ過ぎてしまいます。だし巻… ”
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

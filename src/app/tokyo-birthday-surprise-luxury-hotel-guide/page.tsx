@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tokyo-birthday-surprise-luxury-hotel-guide/" },
-  title: "【彼女の誕生日サプライズホテル東京おすすめ5選】夜景ビュー・ホールケーキ＆バルーン装飾確約プラン",
+  title: "彼女の誕生日サプライズホテル東京おすすめ5選：夜景ビュー・ホールケーキ＆バルーン装飾確約プラン",
   description: "彼女や彼氏の誕生日・記念日を極上にする東京のラグジュアリーホテル特集！東京タワーや摩天楼を望む高層階客室、メッセージプレート付きケーキ・シャンパン付きプラン、憧れのサプライズ演出徹底比較。",
   keywords: ["夜景ビュー", "ホールケーキ", "バルーン装飾確約プラン", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -150,11 +150,7 @@ export default function TokyoBirthdaySurpriseHotelPage() {
             <span>ANNIVERSARY & BIRTHDAY LUXURY HOTELS IN TOKYO</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight md:leading-[1.2] text-amber-50">
-            【彼女の誕生日サプライズホテル東京おすすめ5選】<br className="hidden sm:inline" />
-            夜景ビュー・ホールケーキ＆<br className="hidden sm:inline" />
-            バルーン装飾確約プラン徹底解説
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight md:leading-[1.2] text-amber-50">「彼女の誕生日サプライズホテル東京おすすめ5選」<br className="hidden sm:inline" /> 夜景ビュー・ホールケーキ＆<br className="hidden sm:inline" /> バルーン装飾確約プラン深掘り特集</h1>
 
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed font-light">
             「絶対に喜ばせたい」特別な誕生日。息をのむ東京夜景、ドアを開けた瞬間のバルーン装飾、パティシエ特製ホールケーキまで。パートナーの笑顔が確約された極上ラグジュアリーホテルを厳選しました。

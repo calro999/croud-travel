@@ -4,14 +4,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '神秘の火口湖・御釜と三段紅葉！蔵王エコーライン＆強酸性白濁にごり湯名宿×ふるさと納税完全ガイド【2026年最新秋旅】山形 | 旅宿クラウド',
+  title: '神秘の火口湖・御釜と三段紅葉！蔵王エコーライン＆強酸性白濁にごり湯名宿×ふるさと納税厳選ガイド山形 | 旅宿クラウド',
   description: '10月上旬〜11月上旬に見頃を迎える東北の山岳絶景「蔵王エコーライン・御釜（おかま）」。山頂の冠雪・中腹の紅葉・山麓の緑が織りなす「三段紅葉」と、開湯千九百年を誇る日本屈指の強酸性硫黄泉（美肌温泉）！「おおみや旅館」「善七乃湯」「季の里」。最高級山形牛と芋煮会席を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
   keywords: ["神秘の火口湖", "2026年最新秋旅", "山形", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-zao-okama-autumn-leaves-hotspring-stay/"
   },
   openGraph: {
-    title: '神秘の火口湖・御釜と三段紅葉！蔵王エコーライン＆強酸性白濁にごり湯名宿×ふるさと納税完全ガイド【2026年最新秋旅】山形',
+    title: '神秘の火口湖・御釜と三段紅葉！蔵王エコーライン＆強酸性白濁にごり湯名宿×ふるさと納税厳選ガイド山形',
     description: '10月上旬〜11月上旬に見頃を迎える東北の山岳絶景「蔵王エコーライン・御釜（おかま）」。山頂の冠雪・中腹の紅葉・山麓の緑が織りなす「三段紅葉」と、開湯千九百年を誇る日本屈指の強酸性硫黄泉（美肌温泉）！「おおみや旅館」「善七乃湯」「季の里」。最高級山形牛と芋煮会席を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-zao-okama-autumn-leaves-hotspring-stay',
     siteName: '旅宿クラウド',
@@ -65,9 +65,7 @@ export default function FurusatoZaoOkamaAutumnLeavesStayPage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               蔵王エコーライン紅葉・御釜＆強酸性にごり湯温泉宿特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              神秘の火口湖・御釜と三段紅葉！蔵王エコーライン＆強酸性白濁にごり湯名宿×ふるさと納税完全ガイド【2026年最新秋旅】山形
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">神秘の火口湖・御釜と三段紅葉！蔵王エコーライン＆強酸性白濁にごり湯名宿×ふるさと納税厳選ガイド山形</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               10月上旬〜11月上旬に見頃を迎える東北の山岳絶景「蔵王エコーライン・御釜（おかま）」。山頂の冠雪・中腹の紅葉・山麓の緑が織りなす「三段紅葉」と、開湯千九百年を誇る日本屈指の強酸性硫黄泉（美肌温泉）！「おおみや旅館」「善七乃湯」「季の里」。最高級山形牛と芋煮会席を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。
             </p>

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/infinity-open-air-bath-ocean-view-stay/" },
-  title: "【絶景インフィニティ露天風呂の宿】海・空・湖と一体化する圧倒的パノラマ 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "絶景インフィニティ露天風呂の宿：海・空・湖と一体化する圧倒的パノラマ 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "視界を遮るものがない「絶景インフィニティ露天風呂」宿完全特化！湯船が海や湖の水面と溶け合うインフィニティ温泉、朝焼けのサンライズ・夕暮れのマジックアワー・満天の星空、絶景テラスと美食宿を徹底解説。",
   keywords: ["絶景インフィニティ露天風呂の宿", "湖と一体化する圧倒的パノラマ", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
@@ -89,9 +89,7 @@ export default function HeritageOnsenHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             INFINITY OPEN-AIR BATH GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【絶景インフィニティ露天風呂の宿】海・空・湖と一体化する圧倒的パノラマ 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「絶景インフィニティ露天風呂の宿」海・空・湖と一体化する圧倒的パノラマ 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             湯船の縁がなく、視界一面の海や湖、大空と溶け合う奇跡の絶景「インフィニティ露天風呂」。まるで大自然に浮かんでいるかのような圧倒的な開放感。夕陽が水平線に沈む黄金のマジックアワーと、波音に包まれる至高の温泉体験。
           </p>

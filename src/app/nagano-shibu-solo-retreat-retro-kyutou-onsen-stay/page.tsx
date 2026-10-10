@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagano-shibu-solo-retreat-retro-kyutou-onsen-stay/" },
-  title: '【信州・渋温泉ひとり旅・石畳小路と九湯巡りおこもり】厄除巡浴外湯めぐり・登録有形文化財の街並み・信州牛朴葉味噌！レトロ温泉街厳選3宿',
+  title: '信州・渋温泉ひとり旅・石畳小路と九湯巡りおこもり：厄除巡浴外湯めぐり・登録有形文化財の街並み・信州牛朴葉味噌！レトロ温泉街厳選3宿',
   description: '千と千尋の神隠しの世界を彷彿とさせる石畳の温泉街・長野・渋温泉！大正ロマンの木造建築と美食で楽天口コミ驚異の★4.88を誇る「味乃宿 ふじや旅館」、源泉かけ流しの貸切風呂と心温まる郷土もてなしの「玉久旅館」、最上階展望露天と自慢の地酒が揃う「御宿 炭乃湯」を楽天API最新データに基づき徹底比較。',
   keywords: '渋温泉 一人旅 宿,渋温泉 ホテル 一人,渋温泉 ふじや旅館 一人旅,渋温泉 玉久旅館,渋温泉 炭乃湯,渋温泉 九湯巡り ひとり旅',
   openGraph: {
-    title: '【信州・渋温泉ひとり旅・石畳小路と九湯巡りおこもり】厄除巡浴外湯めぐり・登録有形文化財の街並み・信州牛朴葉味噌！レトロ温泉街厳選3宿',
+    title: '信州・渋温泉ひとり旅・石畳小路と九湯巡りおこもり：厄除巡浴外湯めぐり・登録有形文化財の街並み・信州牛朴葉味噌！レトロ温泉街厳選3宿',
     description: '千と千尋の神隠しの世界を彷彿とさせる石畳の温泉街・長野・渋温泉！大正ロマンの木造建築と美食で楽天口コミ驚異の★4.88を誇る「味乃宿 ふじや旅館」、源泉かけ流しの貸切風呂と心温まる郷土もてなしの「玉久旅館」、最上階展望露天と自慢の地酒が揃う「御宿 炭乃湯」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/nagano-shibu-solo-retreat-retro-kyutou-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【信州・渋温泉ひとり旅・石畳小路と九湯巡りおこもり】厄除巡浴外湯めぐり・登録有形文化財の街並み・信州牛朴葉味噌！レトロ温泉街厳選3宿',
+    headline: '信州・渋温泉ひとり旅・石畳小路と九湯巡りおこもり：厄除巡浴外湯めぐり・登録有形文化財の街並み・信州牛朴葉味噌！レトロ温泉街厳選3宿',
     description: '千と千尋の神隠しの世界を彷彿とさせる石畳の温泉街・長野・渋温泉！大正ロマンの木造建築と美食で楽天口コミ驚異の★4.88を誇る「味乃宿 ふじや旅館」、源泉かけ流しの貸切風呂と心温まる郷土もてなしの「玉久旅館」、最上階展望露天と自慢の地酒が揃う「御宿 炭乃湯」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             信州・渋温泉ひとり旅＆石畳九湯巡りおこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【信州・渋温泉ひとり旅・石畳小路と九湯巡りおこもり】厄除巡浴外湯めぐり・登録有形文化財の街並み・信州牛朴葉味噌！レトロ温泉街厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「信州・渋温泉ひとり旅・石畳小路と九湯巡りおこもり」厄除巡浴外湯めぐり・登録有形文化財の街並み・信州牛朴葉味噌！レトロ温泉街厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

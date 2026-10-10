@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月千葉】本州一早い初日の出「犬吠埼」！名宿5選',
+  title: '11・12・1月千葉：本州一早い初日の出「犬吠埼」！名宿5選',
   description: '11月から1月、千葉県銚子・犬吠埼は、本州の平地で最も早く昇る神々しい初日の出と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '犬吠埼 初日の出, 銚子つりきんめ, 犬吠埼ホテル, 犬吠埼観光ホテル, 別邸 海と森, 銚子プラザホテル, 亀の井ホテル九十九里, 九十九里 焼きはまぐり, 犬吠埼温泉, 11月 12月 1月 千葉旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-chiba-choshi-inubosaki-sunrise-kinmedai-hamaguri-stay/"
   },
   openGraph: {
-    title: '【11・12・1月千葉】本州一早い初日の出「犬吠埼」！名宿5選',
+    title: '11・12・1月千葉：本州一早い初日の出「犬吠埼」！名宿5選',
     description: '11月から1月、千葉県銚子・犬吠埼は、本州の平地で最も早く昇る神々しい初日の出と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-chiba-choshi-inubosaki-sunrise-kinmedai-hamaguri-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月千葉】本州一早い初日の出「犬吠埼」と冬の極上「銚子つりきんめ」・九十九里焼きはまぐり鍋＆太平洋パノラマ犬吠埼温泉宿5選",
+    title: "11・12・1月千葉：本州一早い初日の出「犬吠埼」と冬の極上「銚子つりきんめ」・九十九里焼きはまぐり鍋＆太平洋パノラマ犬吠埼温泉宿5選",
     description: "11月から1月、千葉県銚子・犬吠埼は、本州の平地で最も早く昇る神々しい初日の出と、冬に脂の乗りがピークを迎える極上ブランド魚「銚子つりきんめ（金目鯛）」の熱気に包まれます。荒波寄せる太平洋の白亜の犬吠埼灯台、九十九里浜の天然焼きはまぐりや伊勢海老の滋味。塩分豊富で体の芯からポカポカ温まる犬吠埼温泉の絶景露天風呂に浸かり、太平洋の水平線を黄金色に染める冬の朝陽に感動する厳選名宿5選を徹底ガイドします。",
     images: ['https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80']
   }
@@ -42,7 +42,7 @@ export default function ChibaChoshiInubosakiWinterPage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: "【11・12・1月千葉】本州一早い初日の出「犬吠埼」と冬の極上「銚子つりきんめ」・九十九里焼きはまぐり鍋＆太平洋パノラマ犬吠埼温泉宿5選",
+    headline: "11・12・1月千葉：本州一早い初日の出「犬吠埼」と冬の極上「銚子つりきんめ」・九十九里焼きはまぐり鍋＆太平洋パノラマ犬吠埼温泉宿5選",
     description: "11月から1月、千葉県銚子・犬吠埼は、本州の平地で最も早く昇る神々しい初日の出と、冬に脂の乗りがピークを迎える極上ブランド魚「銚子つりきんめ（金目鯛）」の熱気に包まれます。荒波寄せる太平洋の白亜の犬吠埼灯台、九十九里浜の天然焼きはまぐりや伊勢海老の滋味。塩分豊富で体の芯からポカポカ温まる犬吠埼温泉の絶景露天風呂に浸かり、太平洋の水平線を黄金色に染める冬の朝陽に感動する厳選名宿5選を徹底ガイドします。",
     image: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
     datePublished: '',
@@ -282,9 +282,7 @@ export default function ChibaChoshiInubosakiWinterPage() {
             <Sunrise className="w-4 h-4 text-orange-300" />
             11月・12月・1月 冬の房総・本州一早い初日の出＆銚子つりきんめ特集
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【11・12・1月千葉】本州一早い初日の出「犬吠埼」と冬の極上「銚子つりきんめ」・九十九里焼きはまぐり鍋＆太平洋パノラマ犬吠埼温泉宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「11・12・1月千葉」本州一早い初日の出「犬吠埼」と冬の極上「銚子つりきんめ」・九十九里焼きはまぐり鍋＆太平洋パノラマ犬吠埼温泉宿5選</h1>
           <p className="text-slate-300 text-sm sm:text-base md:text-lg max-w-3xl leading-relaxed">
             本州の平地で最も早く太陽が昇る元旦の聖地「犬吠埼」。太平洋の水平線から昇る真紅の初日の出と、白亜の登録有形文化財・犬吠埼灯台。一本釣りで水揚げされる冬のブランド魚「銚子つりきんめ」のふっくら照り煮、九十九里の天然地蛤の網焼き。化石海水を含む犬吠埼温泉の絶景露天風呂で温まる冬旅をお届けします。
           </p>

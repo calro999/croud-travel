@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tokyo-yamagata-zao-bus-vs-shinkansen-guide/" },
-  title: "【東京〜山形・蔵王温泉】山形新幹線 vs 夜行高速バス徹底比較！片道3,500円〜行く蔵王露天風呂＆山形牛1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+  title: "東京〜山形・蔵王温泉：山形新幹線 vs 夜行高速バス徹底比較！片道3,500円〜行く蔵王露天風呂＆山形牛1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "東京から山形・蔵王温泉へ安く行くには？山形新幹線「つばさ」と高速バス（夜行・昼行）の料金・所要時間を徹底比較！蔵王大露天風呂・山寺（立石寺）参拝・本場山形牛ステーキを堪能する1泊2日モデルコース。",
   keywords: ["東京〜山形", "蔵王温泉", "山形新幹線", "vs", "山形牛1泊2日モデルコース", "温泉宿", "宿泊予約"],
 };
@@ -149,9 +149,7 @@ export default function HighwayBusArticlePage() {
               交通手段の徹底比較＆最適ルート
             </span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【東京〜山形・蔵王温泉】山形新幹線 vs 夜行高速バス徹底比較！片道3,500円〜行く蔵王露天風呂＆山形牛1泊2日モデルコース
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">「東京〜山形・蔵王温泉」山形新幹線 vs 夜行高速バス徹底比較！片道3,500円〜行く蔵王露天風呂＆山形牛1泊2日モデルコース</h1>
           <p className="text-xs md:text-sm text-cyan-100/90 leading-relaxed font-medium">
             山形新幹線「つばさ」なら東京〜山形約2時間45分・片道約11,550円（往復約23,100円）。一方、高速バスなら片道約3,500円〜7,000円！往復で1万5,000円以上節約でき、浮いたお金で蔵王温泉の強酸性源泉かけ流し旅館や本場山形牛すき焼き、冷やし肉そばを満喫できます。
           </p>

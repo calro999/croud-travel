@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【極上松阪牛＆伊勢海老会席】伊勢志摩・鳥羽の豪華二大味覚とオーシャンビュー名湯宿5選",
+  title: "極上松阪牛＆伊勢海老会席：伊勢志摩・鳥羽の豪華二大味覚とオーシャンビュー名湯宿5選",
   description: "日本最高峰のブランド和牛「松阪牛」と、プリプリの甘みが弾ける「伊勢海老」！伊勢志摩のリアス海岸を望む絶景展望露天風呂と、三重が誇る贅沢極まりない美食を心ゆくまで堪能する極上宿。",
   keywords: "鳥羽 伊勢志摩 松阪牛 伊勢海老 温泉 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/spring-mie-matsusaka-beef-ise-lobster-stay/",
   },
   openGraph: {
-    title: "【極上松阪牛＆伊勢海老会席】伊勢志摩・鳥羽の豪華二大味覚とオーシャンビュー名湯宿5選",
+    title: "極上松阪牛＆伊勢海老会席：伊勢志摩・鳥羽の豪華二大味覚とオーシャンビュー名湯宿5選",
     description: "日本最高峰のブランド和牛「松阪牛」と、プリプリの甘みが弾ける「伊勢海老」！伊勢志摩のリアス海岸を望む絶景展望露天風呂と、三重が誇る贅沢極まりない美食を心ゆくまで堪能する極上宿。",
     url: 'https://croud-travel.pages.dev/spring-mie-matsusaka-beef-ise-lobster-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【極上松阪牛＆伊勢海老会席】伊勢志摩・鳥羽の豪華二大味覚とオーシャンビュー名湯宿5選",
+    title: "極上松阪牛＆伊勢海老会席：伊勢志摩・鳥羽の豪華二大味覚とオーシャンビュー名湯宿5選",
     description: "日本最高峰のブランド和牛「松阪牛」と、プリプリの甘みが弾ける「伊勢海老」！伊勢志摩のリアス海岸を望む絶景展望露天風呂と、三重が誇る贅沢極まりない美食を心ゆくまで堪能する極上宿。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>松阪牛＆伊勢海老の豪華共演</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【極上松阪牛＆伊勢海老会席】伊勢志摩・鳥羽の豪華二大味覚とオーシャンビュー名湯宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「極上松阪牛＆伊勢海老会席」伊勢志摩・鳥羽の豪華二大味覚とオーシャンビュー名湯宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             日本最高峰のブランド和牛「松阪牛」と、プリプリの甘みが弾ける「伊勢海老」！伊勢志摩のリアス海岸を望む絶景展望露天風呂と、三重が誇る贅沢極まりない美食を心ゆくまで堪能する極上宿。
           </p>

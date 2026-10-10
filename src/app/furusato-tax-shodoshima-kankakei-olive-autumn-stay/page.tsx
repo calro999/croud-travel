@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            小豆島・寒霞渓の奇岩紅葉ロープウェイとオリーブ収穫祭！瀬戸内海一望の海辺温泉・オリーブ牛と地魚会席
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">小豆島・寒霞渓の奇岩紅葉ロープウェイとオリーブ収穫祭！瀬戸内海一望の海辺温泉・オリーブ牛と地魚会席</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             奇岩を染める日本屈指の渓谷美と、オリーブ薫る瀬戸内海の夕陽・極上オリーブ牛の口福
           </p>

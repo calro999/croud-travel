@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【11月下旬宣言！富山湾の王者・氷見寒ブリ】極上ブリしゃぶと立山連峰望む絶景温泉宿5選",
+  title: "下旬宣言！富山湾の王者・氷見寒ブリで過ごす冬の旅（11月）！極上ブリしゃぶと立山連峰望む絶景温泉宿5選",
   description: "富山湾の冬の訪れを告げる「ひみ寒ぶり宣言」！丸々と太り極上の脂を蓄えた天然寒ブリの刺身、とろけるブリしゃぶ、香ばしいカマ焼き、そして海越しに雪化粧の立山連峰を望む奇跡のパノラマ温泉宿。",
   keywords: "氷見 温泉 旅館, 11月旅行, 12月旅行, 冬休み, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-toyama-himi-kanburi-luxury-stay/",
   },
   openGraph: {
-    title: "【11月下旬宣言！富山湾の王者・氷見寒ブリ】極上ブリしゃぶと立山連峰望む絶景温泉宿5選",
+    title: "下旬宣言！富山湾の王者・氷見寒ブリで過ごす冬の旅（11月）！極上ブリしゃぶと立山連峰望む絶景温泉宿5選",
     description: "富山湾の冬の訪れを告げる「ひみ寒ぶり宣言」！丸々と太り極上の脂を蓄えた天然寒ブリの刺身、とろけるブリしゃぶ、香ばしいカマ焼き、そして海越しに雪化粧の立山連峰を望む奇跡のパノラマ温泉宿。",
     url: 'https://croud-travel.pages.dev/winter-toyama-himi-kanburi-luxury-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11月下旬宣言！富山湾の王者・氷見寒ブリ】極上ブリしゃぶと立山連峰望む絶景温泉宿5選",
+    title: "下旬宣言！富山湾の王者・氷見寒ブリで過ごす冬の旅（11月）！極上ブリしゃぶと立山連峰望む絶景温泉宿5選",
     description: "富山湾の冬の訪れを告げる「ひみ寒ぶり宣言」！丸々と太り極上の脂を蓄えた天然寒ブリの刺身、とろけるブリしゃぶ、香ばしいカマ焼き、そして海越しに雪化粧の立山連峰を望む奇跡のパノラマ温泉宿。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>ひみ寒ぶり会席＆立山連峰絶景温泉</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【11月下旬宣言！富山湾の王者・氷見寒ブリ】極上ブリしゃぶと立山連峰望む絶景温泉宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">下旬宣言！富山湾の王者・氷見寒ブリで過ごす冬の旅（11月）！極上ブリしゃぶと立山連峰望む絶景温泉宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             富山湾の冬の訪れを告げる「ひみ寒ぶり宣言」！丸々と太り極上の脂を蓄えた天然寒ブリの刺身、とろけるブリしゃぶ、香ばしいカマ焼き、そして海越しに雪化粧の立山連峰を望む奇跡のパノラマ温泉宿。
           </p>

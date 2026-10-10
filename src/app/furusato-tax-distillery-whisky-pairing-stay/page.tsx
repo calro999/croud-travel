@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '国産ウイスキー蒸溜所＆銘酒ペアリング宿×ふるさと納税完全ガイド【2026年最新】余市・白州・秩父のモルト旅',
+  title: '国産ウイスキー蒸溜所＆銘酒ペアリング宿×ふるさと納税厳選ガイド余市・白州・秩父のモルト旅',
   description: '世界を魅了するジャパニーズ・ウイスキーの故郷へ！北海道ニッカウヰスキー余市蒸溜所と小樽クラシックホテル、山梨サントリー白州蒸溜所の南アルプス天然水フォレストリゾート、埼玉イチローズモルトの秩父蒸溜所と美肌温泉宿。希少なヴィンテージモルトと極上ディナーを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: ["国産ウイスキー蒸溜所", "銘酒ペアリング宿×ふるさと納税", "2026年最新", "余市", "白州", "秩父のモルト旅", "温泉宿"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-distillery-whisky-pairing-stay/"
   },
   openGraph: {
-    title: '国産ウイスキー蒸溜所＆銘酒ペアリング宿×ふるさと納税完全ガイド【2026年最新】余市・白州・秩父のモルト旅',
+    title: '国産ウイスキー蒸溜所＆銘酒ペアリング宿×ふるさと納税厳選ガイド余市・白州・秩父のモルト旅',
     description: '世界を魅了するジャパニーズ・ウイスキーの故郷へ！北海道ニッカウヰスキー余市蒸溜所と小樽クラシックホテル、山梨サントリー白州蒸溜所の南アルプス天然水フォレストリゾート、埼玉イチローズモルトの秩父蒸溜所と美肌温泉宿。希少なヴィンテージモルトと極上ディナーを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-distillery-whisky-pairing-stay',
     type: 'article',
@@ -54,9 +54,7 @@ export default function FurusatoFeaturePage() {
             <span>✨</span>
             <span>ジャパニーズウイスキー・蒸溜所特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            国産ウイスキー蒸溜所＆銘酒ペアリング宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">国産ウイスキー蒸溜所＆銘酒ペアリング宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             冷涼な気候、澄み切った清流、そして職人の情熱が生み出すジャパニーズ・ウイスキー。国際的なウイスキー品評会で世界最高賞を総なめにする日本の蒸溜所は、まさに自然の恵みとクラフトマンシップの結晶です。蒸溜所見学で樽熟成の香りに包まれた後は、バーラウンジで希少なシングルモルトをテイスティングし、地元の旬食材を使ったペアリングディナーに酔いしれる――そんな極上の夜を楽天ふるさと納税の宿泊クーポンでお得に実現しましょう。
           </p>

@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hokkaido-jozankei-solo-retreat-onsen-stay/" },
-  title: '【定山渓温泉ひとり旅・渓谷美おこもり】札幌から60分・豊平川渓流露天・道産美食！札幌の奥座敷で静寂にととのう厳選3宿',
+  title: '定山渓温泉ひとり旅・渓谷美おこもり：札幌から60分・豊平川渓流露天・道産美食！札幌の奥座敷で静寂にととのう厳選3宿',
   description: '札幌中心部からかっぱライナーで約60分！女性一人旅のために設計された癒やしと美の宿「翠蝶館」、名物「蜂蜜バイキング」と渓流露天風呂が評判の老舗「章月グランドホテル」、自家源泉かけ流しと隠れ家の趣が心地よい「悠久の宿白糸」を楽天API最新データに基づき徹底比較。',
   keywords: '定山渓温泉 一人旅 宿,定山渓 ホテル 一人 温泉,翠蝶館,章月グランドホテル,悠久の宿白糸,定山渓 ひとり旅 おこもり',
   openGraph: {
-    title: '【定山渓温泉ひとり旅・渓谷美おこもり】札幌から60分・豊平川渓流露天・道産美食！札幌の奥座敷で静寂にととのう厳選3宿',
+    title: '定山渓温泉ひとり旅・渓谷美おこもり：札幌から60分・豊平川渓流露天・道産美食！札幌の奥座敷で静寂にととのう厳選3宿',
     description: '札幌中心部からかっぱライナーで約60分！女性一人旅のために設計された癒やしと美の宿「翠蝶館」、名物「蜂蜜バイキング」と渓流露天風呂が評判の老舗「章月グランドホテル」、自家源泉かけ流しと隠れ家の趣が心地よい「悠久の宿白糸」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/hokkaido-jozankei-solo-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【定山渓温泉ひとり旅・渓谷美おこもり】札幌から60分・豊平川渓流露天・道産美食！札幌の奥座敷で静寂にととのう厳選3宿',
+    headline: '定山渓温泉ひとり旅・渓谷美おこもり：札幌から60分・豊平川渓流露天・道産美食！札幌の奥座敷で静寂にととのう厳選3宿',
     description: '札幌中心部からかっぱライナーで約60分！女性一人旅のために設計された癒やしと美の宿「翠蝶館」、名物「蜂蜜バイキング」と渓流露天風呂が評判の老舗「章月グランドホテル」、自家源泉かけ流しと隠れ家の趣が心地よい「悠久の宿白糸」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             北海道・定山渓温泉ひとり旅＆札幌奥座敷おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【定山渓温泉ひとり旅・渓谷美おこもり】札幌から60分・豊平川渓流露天・道産美食！札幌の奥座敷で静寂にととのう厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「定山渓温泉ひとり旅・渓谷美おこもり」札幌から60分・豊平川渓流露天・道産美食！札幌の奥座敷で静寂にととのう厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

@@ -3,13 +3,13 @@ import Link from 'next/link';
 import { Star, MapPin, Calendar, Compass, ShieldCheck, Heart, Sparkles, ExternalLink, ChevronRight } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【徳川家康生誕の城下町・岡崎城雪景色と伊賀八幡宮新春初詣】2026-2027年冬の愛知・岡崎！本場八丁味噌鍋と三河牛会席名宿5選',
+  title: '徳川家康生誕の城下町・岡崎城雪景色と伊賀八幡宮新春初詣：2026-2027年冬の愛知・岡崎！本場八丁味噌鍋と三河牛会席名宿5選',
   description: '徳川家康公生誕の地・岡崎城と徳川将軍家祈願所「伊賀八幡宮」新春開運初詣！二社のみが守る伝統の八丁味噌蔵巡りと、冬に温まる濃厚八丁味噌鍋や三河牛すき焼き。三河の奥座敷や快適シティで過ごす冬の厳選名宿5選。',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-aichi-okazaki-castle-iga-hachimangu-hatsumode-hatcho-miso-mikawagyu-stay/',
   },
   openGraph: {
-    title: '【徳川家康生誕の城下町・岡崎城雪景色と伊賀八幡宮新春初詣】2026-2027年冬の愛知・岡崎！本場八丁味噌鍋と三河牛会席名宿5選',
+    title: '徳川家康生誕の城下町・岡崎城雪景色と伊賀八幡宮新春初詣：2026-2027年冬の愛知・岡崎！本場八丁味噌鍋と三河牛会席名宿5選',
     description: '徳川家康公生誕の地・岡崎城と徳川将軍家祈願所「伊賀八幡宮」新春開運初詣！二社のみが守る伝統の八丁味噌蔵巡りと、冬に温まる濃厚八丁味噌鍋や三河牛すき焼き。三河の奥座敷や快適シティで過ごす冬の厳選名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-aichi-okazaki-castle-iga-hachimangu-hatsumode-hatcho-miso-mikawagyu-stay/',
     siteName: '冬の日本厳選旅行ガイド',
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: '【徳川家康生誕の城下町・岡崎城雪景色と伊賀八幡宮新春初詣】2026-2027年冬の愛知・岡崎！本場八丁味噌鍋と三河牛会席名宿5選',
+    title: '徳川家康生誕の城下町・岡崎城雪景色と伊賀八幡宮新春初詣：2026-2027年冬の愛知・岡崎！本場八丁味噌鍋と三河牛会席名宿5選',
     description: '徳川家康公生誕の地・岡崎城と徳川将軍家祈願所「伊賀八幡宮」新春開運初詣！二社のみが守る伝統の八丁味噌蔵巡りと、冬に温まる濃厚八丁味噌鍋や三河牛すき焼き。三河の奥座敷や快適シティで過ごす冬の厳選名宿5選。',
     images: ['https://img.travel.rakuten.co.jp/share/HOTEL/1192/1192.jpg'],
   },
@@ -229,9 +229,7 @@ export default function Page() {
               <span>2026-2027年冬（11月・12月・1月）完全ガイド</span>
             </div>
 
-            <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold tracking-tight leading-snug">
-              【徳川家康生誕の城下町・岡崎城雪景色と伊賀八幡宮新春初詣】2026-2027年冬の愛知・岡崎！本場八丁味噌鍋と三河牛会席名宿5選
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold tracking-tight leading-snug">「徳川家康生誕の城下町・岡崎城雪景色と伊賀八幡宮新春初詣」2026-2027年冬の愛知・岡崎！本場八丁味噌鍋と三河牛会席名宿5選</h1>
 
             <p className="text-sm sm:text-base text-stone-200 leading-relaxed pt-2">
               徳川家康公生誕の地・岡崎城と徳川将軍家祈願所「伊賀八幡宮」新春開運初詣！二社のみが守る伝統の八丁味噌蔵巡りと、冬に温まる濃厚八丁味噌鍋や三河牛すき焼き。三河の奥座敷や快適シティで過ごす冬の厳選名宿5選。

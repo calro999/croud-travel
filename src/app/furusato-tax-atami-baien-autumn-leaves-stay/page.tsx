@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '熱海梅園の日本一遅い紅葉まつり＆熱海海上花火大会！伊豆金目鯛会席宿×ふるさと納税完全ガイド【2026年最新秋旅】静岡',
+  title: '熱海梅園の日本一遅い紅葉まつり＆熱海海上花火大会！伊豆金目鯛会席宿×ふるさと納税厳選ガイド静岡',
   description: '11月中旬〜12月上旬に約380本のカエデが真っ赤に色づく日本一遅い紅葉の名所「静岡・熱海梅園もみじまつり」。夜空を焦がす秋の熱海海上花火大会と相模湾の絶景、老舗温泉宿「旅館 立花」「古屋旅館」「三平荘」で徳川家康公ゆかりの名湯・熱海温泉と伊豆名物・金目鯛の姿煮・鮑踊り焼きを堪能。ふるさと納税で実質2,000円。',
   keywords: ["熱海梅園の日本一遅い紅葉まつり", "2026年最新秋旅", "静岡", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-atami-baien-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '熱海梅園の日本一遅い紅葉まつり＆熱海海上花火大会！伊豆金目鯛会席宿×ふるさと納税完全ガイド【2026年最新秋旅】静岡',
+    title: '熱海梅園の日本一遅い紅葉まつり＆熱海海上花火大会！伊豆金目鯛会席宿×ふるさと納税厳選ガイド静岡',
     description: '11月中旬〜12月上旬に約380本のカエデが真っ赤に色づく日本一遅い紅葉の名所「静岡・熱海梅園もみじまつり」。夜空を焦がす秋の熱海海上花火大会と相模湾の絶景、老舗温泉宿「旅館 立花」「古屋旅館」「三平荘」で徳川家康公ゆかりの名湯・熱海温泉と伊豆名物・金目鯛の姿煮・鮑踊り焼きを堪能。ふるさと納税で実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-atami-baien-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -113,9 +113,7 @@ export default function FeatureArticlePage() {
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">
-            熱海梅園の日本一遅い紅葉まつり＆熱海海上花火大会！伊豆金目鯛会席宿×ふるさと納税完全ガイド【2026年最新秋旅】静岡
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">熱海梅園の日本一遅い紅葉まつり＆熱海海上花火大会！伊豆金目鯛会席宿×ふるさと納税厳選ガイド静岡</h1>
           <p className="text-sm md:text-lg text-stone-200 max-w-3xl mx-auto leading-relaxed">
             日本一遅いもみじ狩りと熱海海上花火大会、徳川家康ゆかりの名湯で味わう極上金目鯛。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
           </p>

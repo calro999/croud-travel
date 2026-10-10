@@ -5,11 +5,11 @@ import Image from 'next/image';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/mie-toba-shima-kashikojima-pearl-stay/" },
-  title: '【三重・鳥羽＆志摩・賢島】英虞湾夕日・鳥羽水族館＆伊勢海老・海女小屋宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+  title: '三重・鳥羽＆志摩・賢島：英虞湾夕日・鳥羽水族館＆伊勢海老・海女小屋宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
   description: '大小60余の島々が織りなすリアス式海岸「英虞湾」の夕景パノラマ、サミット開催地「賢島」、世界初の真珠養殖成功「ミキモト真珠島」、飼育種類数日本一「鳥羽水族館」、現役海女が炭火で焼く本場の伊勢海老・鮑を堪能する極上リゾート宿を徹底解説。',
   keywords: ["三重", "鳥羽", "志摩", "賢島", "英虞湾夕日", "鳥羽水族館", "伊勢海老"],
   openGraph: {
-    title: '【三重・鳥羽＆志摩・賢島】英虞湾夕日・鳥羽水族館＆伊勢海老・海女小屋宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+    title: '三重・鳥羽＆志摩・賢島：英虞湾夕日・鳥羽水族館＆伊勢海老・海女小屋宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
     description: '大小60余の島々が織りなすリアス式海岸「英虞湾」の夕景パノラマ、サミット開催地「賢島」、世界初の真珠養殖成功「ミキモト真珠島」、飼育種類数日本一「鳥羽水族館」、現役海女が炭火で焼く本場の伊勢海老・鮑を堪能する極上リゾート宿を徹底解説。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/mie-toba-shima-kashikojima-pearl-stay',
@@ -50,9 +50,7 @@ export default function Page() {
             <span>🗺️</span>
             <span>TOBA & SHIMA KASHIKOJIMA GUIDE</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">
-            【三重・鳥羽＆志摩・賢島】英虞湾リアス式夕日・ミキモト真珠島＆伊勢海老海女小屋宿 完全ガイド
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">「三重・鳥羽＆志摩・賢島」英虞湾リアス式夕日・ミキモト真珠島＆伊勢海老海女小屋宿 厳選ガイド</h1>
           <p className="max-w-3xl mx-auto text-stone-300 text-sm sm:text-base md:text-lg leading-relaxed mb-8">
             波静かな伊勢志摩国立公園のリアス式海岸。夕暮れ時に真珠養殖の筏（いかだ）と小島が黄金色に染まる日本屈指の絶景「英虞湾」。世界の要人を魅了したサミットの舞台「賢島」。世界で初めて真珠の養殖に成功した御木本幸吉の情熱を伝える「ミキモト真珠島」と、ラッコやジュゴンに出逢える「鳥羽水族館」。そして現役の海女さんが目の前で焼き上げる本場の伊勢海老・あわび・サザエ。海と自然の恵みに満たされる伊勢志摩ステイへご案内します。
           </p>

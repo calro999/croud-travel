@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '生ビール・地酒・ワインが飲み放題！お財布を気にせず寛ぐオールインクルーシブ名宿×ふるさと納税完全ガイド【2026年最新】作並・松島・伊勢志摩',
+  title: '生ビール・地酒・ワインが飲み放題！お財布を気にせず寛ぐオールインクルーシブ名宿×ふるさと納税厳選ガイド作並・松島・伊勢志摩',
   description: 'チェックインからアウトまで、ラウンジのお酒・スイーツ・湯上がりビール・出来立て料理がすべて宿泊代金込み！追加料金ゼロで贅沢な休日を叶えるオールインクルーシブ温泉宿。「ゆづくしSalon一の坊」「松島一の坊」「グランドメルキュール伊勢志摩リゾート＆スパ。」を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
   keywords: ["生ビール", "地酒", "2026年最新", "作並", "松島", "伊勢志摩", "温泉宿"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-all-inclusive-free-drinks-alcohol-stay/",
   },
   openGraph: {
-    title: '生ビール・地酒・ワインが飲み放題！お財布を気にせず寛ぐオールインクルーシブ名宿×ふるさと納税完全ガイド【2026年最新】作並・松島・伊勢志摩',
+    title: '生ビール・地酒・ワインが飲み放題！お財布を気にせず寛ぐオールインクルーシブ名宿×ふるさと納税厳選ガイド作並・松島・伊勢志摩',
     description: 'チェックインからアウトまで、ラウンジのお酒・スイーツ・湯上がりビール・出来立て料理がすべて宿泊代金込み！追加料金ゼロで贅沢な休日を叶えるオールインクルーシブ温泉宿。「ゆづくしSalon一の坊」「松島一の坊」「グランドメルキュール伊勢志摩リゾート＆スパ。」を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-all-inclusive-free-drinks-alcohol-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoAllInclusiveFreeDrinksStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           大人気！お酒飲み放題オールインクルーシブ宿特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          生ビール・地酒・ワインが飲み放題！お財布を気にせず寛ぐオールインクルーシブ名宿×ふるさと納税完全ガイド【2026年最新】作並・松島・伊勢志摩
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">生ビール・地酒・ワインが飲み放題！お財布を気にせず寛ぐオールインクルーシブ名宿×ふるさと納税厳選ガイド作並・松島・伊勢志摩</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoAllInclusiveFreeDrinksStayPage() {
               【新客室“Seyryu”2023年4月OPEN】オールインクルーシブで過ごす、里山リトリートステイ
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “料理も露天風呂も最高、また利用したいチェックインからゆっくり過ごさせていただきました。お料理もとても美味しく頂きました。露天風呂も良かったです!また利用させていただきたいです!クチコミの詳… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D28670%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoAllInclusiveFreeDrinksStayPage() {
               オールインクルーシブ温泉リゾート。無料でアクティビティやドリンク、スイーツをお好きなだけどうぞ。
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “温泉とビュッフェを満喫、彼も大満足!露天風呂やサウナ、岩盤浴でリフレッシュできたし、ライブキッチンのオーダービュッフェで地元の料理を贅沢にお腹いっぱいいただきました。一緒に行った彼も大満足だっ… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D29234%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoAllInclusiveFreeDrinksStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               心と身体が満たされる、海と森に抱かれる贅沢なひととき
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “朝食ビュッフェが美味しくプールも満喫親族8人2部屋で利用しました。朝食のビュッフェも美味しいプールもあったので次回は水着を忘れないようにしようと思います!
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月島根・温泉津温泉】しまね和牛に心奪われる！名宿5選',
+  title: '島根・温泉津温泉で過ごす冬の旅（11・12月）！しまね和牛に心奪われる！名宿5選',
   description: '11月中旬から初冬の島根・石見地方に位置する温泉津温泉（ゆのつおんせん）と有福温泉（ありふくおんせん）は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '温泉津温泉 宿泊, 有福温泉 旅館, 薬師湯 オール5, 輝雲荘, のがわや旅館, ますや 温泉津, のどぐろ 塩焼き, しまね和牛, 石見銀山 温泉宿, 11月 12月 島根旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shimane-yunotsu-onsen-iwamiginzan-nodoguro-wagyu-stay/"
   },
   openGraph: {
-    title: '【11・12月島根・温泉津温泉】しまね和牛に心奪われる！名宿5選',
+    title: '島根・温泉津温泉で過ごす冬の旅（11・12月）！しまね和牛に心奪われる！名宿5選',
     description: '11月中旬から初冬の島根・石見地方に位置する温泉津温泉（ゆのつおんせん）と有福温泉（ありふくおんせん）は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-shimane-yunotsu-onsen-iwamiginzan-nodoguro-wagyu-stay',
     siteName: 'クラドトラベル',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月島根・温泉津温泉＆有福温泉】世界遺産石見銀山の港町・開湯1300年薬師湯の奇跡の自噴赤湯と日本海初冬の極上のどぐろ・しまね和牛に心奪われる名宿5選",
+    title: "島根・温泉津温泉＆有福温泉で過ごす冬の旅（11・12月）！世界遺産石見銀山の港町・開湯1300年薬師湯の奇跡の自噴赤湯と日本海初冬の極上のどぐろ・しまね和牛に心奪われる名宿5選",
     description: "11月中旬から初冬の島根・石見地方に位置する温泉津温泉（ゆのつおんせん）と有福温泉（ありふくおんせん）は、日本海からの心地よい潮風と静かな初冬の空気が古い石畳の坂道を包み込み、まるで時が止まったかのような深い歴史旅情を漂わせます。世界遺産「石見銀山遺跡とその文化的景観」の一部として、温泉街として日本で唯一、国の「重要伝統的建造物群保存地区」に選定されている温泉津。大正から昭和初期の木造旅館が軒を連ねる街並みに湧く外湯「薬師湯」は、日本温泉協会の審査で最高評価「オール5」を獲得した奇跡の自然湧出源泉。地下から直接湧き出る超濃厚な含土類強食塩泉は、黄褐色に濁り、身体の芯まで驚異的な温もりを行き渡らせます。そして初冬の食卓を彩るのは、冬の日本海の荒波にもまれて脂の乗りが最高潮に達する白身のトロ「のどぐろ（赤むつ）」の一本丸ごと塩焼きや煮付け、11月に解禁を迎える山陰の「松葉ガニ」、そして内閣総理大臣賞を受賞した最高峰「しまね和牛」の極上すき焼き会席。本物の名湯力と歴史の静寂に抱かれる厳選名宿5選を徹底解説します。",
     images: ['https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -328,10 +328,7 @@ export default function ShimaneYunotsuWinterPage() {
             <History className="w-4 h-4 text-emerald-300" />
             11月・12月 山陰の冬温泉特集 ｜ 世界遺産石見銀山・温泉津温泉＆有福温泉
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            世界遺産石見銀山の港町・薬師湯オール5自噴赤湯<br />
-            日本海初冬の極上のどぐろ＆しまね和牛名宿
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">世界遺産石見銀山の港町・薬師湯オール5自噴赤湯<br /> 日本海初冬の極上のどぐろ＆しまね和牛名宿</h1>
           <p className="text-stone-300 text-sm sm:text-base max-w-2xl mx-auto leading-relaxed pt-2">
             全国唯一の重伝建温泉街。奇跡の自然湧出源泉「薬師湯」の超濃厚掛け流し赤湯と、脂の乗った極上のどぐろ、しまね和牛に心奪われる厳選名宿5選。
           </p>

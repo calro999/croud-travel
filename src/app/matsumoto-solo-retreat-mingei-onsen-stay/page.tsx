@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/matsumoto-solo-retreat-mingei-onsen-stay/" },
-  title: '【松本ひとり旅・民芸おこもり】国宝松本城・民芸家具クラシック・美ヶ原温泉！北アルプスの麓で心を整える名宿 厳選3選',
+  title: '松本ひとり旅・民芸おこもり：国宝松本城・民芸家具クラシック・美ヶ原温泉！北アルプスの麓で心を整える名宿 厳選3選',
   description: '特急あずさ・しなの直結！北アルプスの山々に抱かれた信州の学都・長野県松本市。「国宝松本城徒歩すぐ・松本民芸家具に囲まれる名門クラシックホテル。」を誇る「松本ホテル花月」、美ヶ原温泉の高台から北アルプスと松本市街を一望する「信州松本 美ヶ原温泉 翔峰」、駅前で天然温泉とサウナ・名物蕎麦朝食が嬉しい「ドーミーイン松本」を徹底特集。',
   keywords: '松本 一人旅 ホテル おすすめ,松本ホテル花月 宿泊,美ヶ原温泉 翔峰 一人,松本城 ひとり旅 宿,ドーミーイン松本 温泉',
   openGraph: {
-    title: '【松本ひとり旅・民芸おこもり】国宝松本城・民芸家具クラシック・美ヶ原温泉！北アルプスの麓で心を整える名宿 厳選3選',
+    title: '松本ひとり旅・民芸おこもり：国宝松本城・民芸家具クラシック・美ヶ原温泉！北アルプスの麓で心を整える名宿 厳選3選',
     description: '特急あずさ・しなの直結！北アルプスの山々に抱かれた信州の学都・長野県松本市。「国宝松本城徒歩すぐ・松本民芸家具に囲まれる名門クラシックホテル。」を誇る「松本ホテル花月」、美ヶ原温泉の高台から北アルプスと松本市街を一望する「信州松本 美ヶ原温泉 翔峰」、駅前で天然温泉とサウナ・名物蕎麦朝食が嬉しい「ドーミーイン松本」を徹底特集。',
     url: 'https://croud-travel.pages.dev/matsumoto-solo-retreat-mingei-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【松本ひとり旅・民芸おこもり】国宝松本城・民芸家具クラシック・美ヶ原温泉！北アルプスの麓で心を整える名宿 厳選3選',
+    headline: '松本ひとり旅・民芸おこもり：国宝松本城・民芸家具クラシック・美ヶ原温泉！北アルプスの麓で心を整える名宿 厳選3選',
     description: '特急あずさ・しなの直結！北アルプスの山々に抱かれた信州の学都・長野県松本市。「国宝松本城徒歩すぐ・松本民芸家具に囲まれる名門クラシックホテル。」を誇る「松本ホテル花月」、美ヶ原温泉の高台から北アルプスと松本市街を一望する「信州松本 美ヶ原温泉 翔峰」、駅前で天然温泉とサウナ・名物蕎麦朝食が嬉しい「ドーミーイン松本」を徹底特集。',
     author: {
       '@type': 'Organization',
@@ -74,9 +74,7 @@ export default function ArticlePage() {
           <span>✨</span>
           <span>松本・城下町＆信州民芸・美肌湯特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【松本ひとり旅・民芸おこもり】国宝松本城・民芸家具クラシック・美ヶ原温泉！北アルプスの麓で心を整える名宿 厳選3選
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">「松本ひとり旅・民芸おこもり」国宝松本城・民芸家具クラシック・美ヶ原温泉！北アルプスの麓で心を整える名宿 厳選3選</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
           特急あずさ・しなの直結！北アルプスの山々に抱かれた信州の学都・長野県松本市。「国宝松本城徒歩すぐ・松本民芸家具に囲まれる名門クラシックホテル。」を誇る「松本ホテル花月」、美ヶ原温泉の高台から北アルプスと松本市街を一望する「信州松本 美ヶ原温泉 翔峰」、駅前で天然温泉とサウナ・名物蕎麦朝食が嬉しい「ドーミーイン松本」を徹底特集。
         </p>

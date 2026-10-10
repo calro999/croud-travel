@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kamikochi-hiking-shoes-packing-checklist/" },
-  title: "【上高地ハイキング 服装と靴のリアル失敗談】スニーカーで大丈夫？大正池〜河童橋で後悔しない持ち物完全版 ｜ 日本全国・旅宿クラウド",
+  title: "上高地ハイキング 服装と靴のリアル失敗談：スニーカーで大丈夫？大正池〜河童橋で後悔しない持ち物完全版 ｜ 日本全国・旅宿クラウド",
   description: "上高地散策でよくある失敗を徹底解説！普通のスニーカー vs トレッキングシューズの境界線、山の急な天候変化に対応するレイヤリング（重ね着）、熊鈴や雨具の必要性、松本駅前・大正池ホテル宿泊情報。",
   keywords: ["上高地ハイキング", "服装と靴のリアル失敗談", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
@@ -77,10 +77,7 @@ export default function KamikochiPackingChecklistPage() {
           <div className="inline-flex items-center gap-2 bg-emerald-900/60 backdrop-blur-sm border border-emerald-400/30 text-emerald-200 text-xs font-bold px-3.5 py-1.5 rounded-full">
             <span>🌲</span> 標高1,500mの山岳リゾート散策ガイド
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-[2.5rem] font-black tracking-tight leading-snug">
-            【上高地ハイキング 服装と靴のリアル失敗談】<br />
-            スニーカーで大丈夫？大正池〜河童橋で後悔しない持ち物完全版
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-[2.5rem] font-black tracking-tight leading-snug">「上高地ハイキング 服装と靴のリアル失敗談」<br /> スニーカーで大丈夫？大正池〜河童橋で後悔しない持ち物完全版</h1>
           <p className="text-emerald-100 text-sm md:text-base leading-relaxed max-w-2xl pt-2">
             「観光地だから普段履きのスニーカーで行ったら泥だらけ＆足裏が痛くて歩けなくなった。」「晴れていたのに急な雷雨でずぶ濡れ、寒さで震えた。」。平地とは全く異なる上高地の自然環境。目的地別の靴選びから山の重ね着（レイヤリング）まで、絶対に失敗しない準備を伝授します。
           </p>

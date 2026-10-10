@@ -3,11 +3,11 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【伊東温泉×ふるさと納税】相模湾の極上金目鯛＆豊富な自家源泉！東海館の風情薫る名湯宿ガイド｜青山やまと・ホテルラヴィエ川良・淘心庵米屋',
+  title: '伊東温泉をふるさと納税でお得に旅する！相模湾の極上金目鯛＆豊富な自家源泉！東海館の風情薫る名湯宿ガイド｜青山やまと・ホテルラヴィエ川良・淘心庵米屋',
   description: '毎分3万リットル以上の湯量を誇る伊豆屈指の名湯・伊東温泉を楽天ふるさと納税でお得に旅する！昭和初期の木造建築・東海館のレトロな風情、相模湾の獲れたて金目鯛の姿煮や伊勢海老の美食、自家源泉掛け流しの名旅館を徹底紹介。青山やまと、ホテルラヴィエ川良、淘心庵米屋の魅力とクーポン活用法を網羅。',
   keywords: '伊東温泉 ふるさと納税,伊東 金目鯛 旅館,青山やまと ふるさと納税,伊東温泉 クーポン 宿泊,伊東市 ふるさと納税 楽天トラベル',
   openGraph: {
-    title: '【伊東温泉×ふるさと納税】相模湾の極上金目鯛＆豊富な自家源泉！東海館の風情薫る名湯宿ガイド｜青山やまと・ホテルラヴィエ川良・淘心庵米屋',
+    title: '伊東温泉をふるさと納税でお得に旅する！相模湾の極上金目鯛＆豊富な自家源泉！東海館の風情薫る名湯宿ガイド｜青山やまと・ホテルラヴィエ川良・淘心庵米屋',
     description: '毎分3万リットル以上の湯量を誇る伊豆屈指の名湯・伊東温泉を楽天ふるさと納税でお得に旅する！昭和初期の木造建築・東海館のレトロな風情、相模湾の獲れたて金目鯛の姿煮や伊勢海老の美食、自家源泉掛け流しの名旅館を徹底紹介。青山やまと、ホテルラヴィエ川良、淘心庵米屋の魅力とクーポン活用法を網羅。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-ito-onsen-seafood-historic-stay',
@@ -54,9 +54,7 @@ export default function FurusatoTaxArticle() {
             <span>•</span>
             <span>自治体公認 宿泊割引</span>
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-5xl font-extrabold tracking-tight text-white font-serif leading-tight">
-            【伊東温泉×ふるさと納税】相模湾の極上金目鯛＆豊富な自家源泉！東海館の風情薫る名湯宿ガイド｜青山やまと・ホテルラヴィエ川良・淘心庵米屋
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-5xl font-extrabold tracking-tight text-white font-serif leading-tight">伊東温泉をふるさと納税でお得に旅する！相模湾の極上金目鯛＆豊富な自家源泉！東海館の風情薫る名湯宿ガイド｜青山やまと・ホテルラヴィエ川良・淘心庵米屋</h1>
           <p className="text-stone-300 text-sm md:text-base max-w-2xl mx-auto pt-2 leading-relaxed">
             毎分3万リットル以上の湯量を誇る伊豆屈指の名湯・伊東温泉を楽天ふるさと納税でお得に旅する！昭和初期の木造建築・東海館のレトロな風情、相模湾の獲れたて金目鯛の姿煮や伊勢海老の美食、自家源泉掛け流しの名旅館を徹底紹介。青山やまと、ホテルラヴィエ川良、淘心庵米屋の魅力とクーポン活用法を網羅。
           </p>

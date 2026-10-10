@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【乳頭温泉郷×ふるさと納税】日本屈指の乳白色秘湯＆田沢湖畔ステイ！湯治宿ガイド｜休暇村乳頭温泉郷・田沢湖レイクリゾート・駒ヶ岳温泉',
+  title: '乳頭温泉郷をふるさと納税でお得に旅する！日本屈指の乳白色秘湯＆田沢湖畔ステイ！湯治宿ガイド｜休暇村乳頭温泉郷・田沢湖レイクリゾート・駒ヶ岳温泉',
   description: '十和田八幡平国立公園の深山に湧く日本屈指の秘湯・秋田県乳頭温泉郷＆田沢湖を楽天ふるさと納税でお得に巡る！二大名湯を引くブナの原生林宿「休暇村 乳頭温泉郷」、田沢湖畔の高原リゾート「田沢湖レイクリゾート」、清流貸切露天風呂と手打ち十割そばの「駒ヶ岳温泉」を徹底比較。山の芋鍋や仙北市トラベルクーポン活用術を網羅。',
   keywords: '乳頭温泉郷 ふるさと納税,乳頭温泉 秘湯 ふるさと納税,休暇村 乳頭温泉郷 クーポン,田沢湖レイクリゾート ふるさと納税,仙北市 ふるさと納税 宿泊',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-nyuto-onsen-secret-milky-stay/",
   },
   openGraph: {
-    title: '【乳頭温泉郷×ふるさと納税】日本屈指の乳白色秘湯＆田沢湖畔ステイ！湯治宿ガイド｜休暇村乳頭温泉郷・田沢湖レイクリゾート・駒ヶ岳温泉',
+    title: '乳頭温泉郷をふるさと納税でお得に旅する！日本屈指の乳白色秘湯＆田沢湖畔ステイ！湯治宿ガイド｜休暇村乳頭温泉郷・田沢湖レイクリゾート・駒ヶ岳温泉',
     description: '十和田八幡平国立公園の深山に湧く日本屈指の秘湯・秋田県乳頭温泉郷＆田沢湖を楽天ふるさと納税でお得に巡る！二大名湯を引くブナの原生林宿「休暇村 乳頭温泉郷」、田沢湖畔の高原リゾート「田沢湖レイクリゾート」、清流貸切露天風呂と手打ち十割そばの「駒ヶ岳温泉」を徹底比較。山の芋鍋や仙北市トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-nyuto-onsen-secret-milky-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -24,7 +24,7 @@ export default function FurusatoArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【乳頭温泉郷×ふるさと納税】日本屈指の乳白色秘湯＆田沢湖畔ステイ！湯治宿ガイド｜休暇村乳頭温泉郷・田沢湖レイクリゾート・駒ヶ岳温泉',
+    headline: '乳頭温泉郷をふるさと納税でお得に旅する！日本屈指の乳白色秘湯＆田沢湖畔ステイ！湯治宿ガイド｜休暇村乳頭温泉郷・田沢湖レイクリゾート・駒ヶ岳温泉',
     description: '十和田八幡平国立公園の深山に湧く日本屈指の秘湯・秋田県乳頭温泉郷＆田沢湖を楽天ふるさと納税でお得に巡る！二大名湯を引くブナの原生林宿「休暇村 乳頭温泉郷」、田沢湖畔の高原リゾート「田沢湖レイクリゾート」、清流貸切露天風呂と手打ち十割そばの「駒ヶ岳温泉」を徹底比較。山の芋鍋や仙北市トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function FurusatoArticlePage() {
           <span>♨️</span>
           <span>秋田県仙北市 ふるさと納税・名湯宿特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【乳頭温泉郷×ふるさと納税】日本屈指の乳白色秘湯＆田沢湖畔ステイ！湯治宿ガイド｜休暇村乳頭温泉郷・田沢湖レイクリゾート・駒ヶ岳温泉
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">乳頭温泉郷をふるさと納税でお得に旅する！日本屈指の乳白色秘湯＆田沢湖畔ステイ！湯治宿ガイド｜休暇村乳頭温泉郷・田沢湖レイクリゾート・駒ヶ岳温泉</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed">
           十和田八幡平国立公園の深山に湧く日本屈指の秘湯・秋田県乳頭温泉郷＆田沢湖を楽天ふるさと納税でお得に巡る！二大名湯を引くブナの原生林宿「休暇村 乳頭温泉郷」、田沢湖畔の高原リゾート「田沢湖レイクリゾート」、清流貸切露天風呂と手打ち十割そばの「駒ヶ岳温泉」を徹底比較。山の芋鍋や仙北市トラベルクーポン活用術を網羅。
         </p>

@@ -3,11 +3,11 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【秋の沖縄・那覇×格安】快適オフシーズン旅！大浴場付き1泊2,000円〜5,000円台の高コスパリゾートホテル5選【2026最新】',
+  title: '秋の沖縄・那覇×格安：快適オフシーズン旅！大浴場付き1泊2,000円〜5,000円台の高コスパリゾートホテル5選「2026最新」',
   description: '猛暑と台風が去り、最高気温25度前後の最も過ごしやすい秋の沖縄！オフシーズンで宿泊費が大幅ダウンする今こそチャンス。国際通り近くで大浴場やサウナ完備の格安ホテル5選。ワイズキャビン那覇、ダイワロイネット国際通り、ホテルリソルトリニティを徹底比較！',
   keywords: '那覇 格安 ホテル, 沖縄 大浴場 ホテル, 那覇 国際通り ホテル 安い, 秋の沖縄 旅行, ワイズキャビン那覇国際通り, ホテルリソルトリニティ那覇',
   openGraph: {
-    title: '【秋の沖縄・那覇×格安】快適オフシーズン旅！大浴場付き1泊2,000円〜5,000円台の高コスパリゾートホテル5選【2026最新】',
+    title: '秋の沖縄・那覇×格安：快適オフシーズン旅！大浴場付き1泊2,000円〜5,000円台の高コスパリゾートホテル5選「2026最新」',
     description: '秋の快適オフシーズン沖縄！大浴場付き1泊2,000円〜5,000円台の高コスパ那覇ホテル5選。',
     type: 'article',
     url: 'https://croud-travel.com/autumn-budget-okinawa-naha-resort-large-bath-hotels-stay',
@@ -32,9 +32,7 @@ export default function OkinawaBudgetAutumnPage() {
             <span className="px-3 py-1 bg-teal-600 text-white text-xs font-bold rounded-full">格安・沖縄特集</span>
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">1泊目安: 2,000円台〜5,000円台</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">
-            【秋の沖縄・那覇×格安】快適オフシーズン旅！大浴場付き1泊2,000円〜5,000円台の高コスパリゾートホテル5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の沖縄・那覇×格安」快適オフシーズン旅！大浴場付き1泊2,000円〜5,000円台の高コスパリゾートホテル5選</h1>
           <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
             夏の厳しい暑さが和らぎ、からりとした秋晴れが続く10月・11月の沖縄。航空券も宿泊費も一気に値下がりするベストシーズンに、大浴場やサウナ付きで優雅に滞在できる那覇のコスパ最強ホテルをご案内します。
           </p>

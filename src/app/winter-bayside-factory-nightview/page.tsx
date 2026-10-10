@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/winter-bayside-factory-nightview/" },
-  title: '【冬の夜景】工場夜景クルーズ！名宿5選',
+  title: '冬の夜景：工場夜景クルーズ！名宿5選',
   description: '空気が澄む冬こそ夜景の絶頂期！神奈川・川崎臨海部、三重・四日市コンビナート、横浜みなとみらい、神戸ベイエリアなど、SF映画のような工場夜景クルーズやパノラマ夜景を客室から望む人気ホテルを徹底解説。',
   keywords: ["冬の夜景", "工場夜景クルーズ", "煌めくベイサイドホテル", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -98,9 +98,7 @@ export default function SeasonalFeaturePage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             BAYSIDE NIGHTSCAPE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【冬の夜景】工場夜景クルーズ＆煌めくベイサイドホテル 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「冬の夜景」工場夜景クルーズ＆煌めくベイサイドホテル 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             金属のパイプラインや蒸留塔が放つ無数の光、立ち上る白いスチーム。冬の澄み切った夜空に浮かび上がる近未来的な工場夜景と、海越しに望む都市の摩天楼。感動のベイサイドナイトステイへ。
           </p>

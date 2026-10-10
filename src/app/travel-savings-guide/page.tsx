@@ -6,12 +6,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '旅行費を最大30%安くする裏ワザ7選｜ホテル代・温泉旅行の節約術【2026年完全版】',
+  title: '旅行費を最大30%安くする裏ワザ7選｜ホテル代・温泉旅行の節約術「2026年完全版」',
   description: '国内旅行の費用を大幅に節約する7つの方法を徹底解説。早割・ポイント活用・クーポン・ふるさと納税トラベルクーポンなど、知るだけで年間数万円得する旅の裏ワザ。温泉旅行から家族旅行まで、どんな旅にも使える保存版ガイド。',
   keywords: ["温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: { canonical: baseUrl + '/travel-savings-guide/' },
   openGraph: {
-    title: '旅行費を最大30%安くする裏ワザ7選｜ホテル代・温泉旅行の節約術【2026年完全版】',
+    title: '旅行費を最大30%安くする裏ワザ7選｜ホテル代・温泉旅行の節約術「2026年完全版」',
     description: '国内旅行の費用を大幅に節約する7つの方法を徹底解説。早割・ポイント活用・クーポン・ふるさと納税トラベルクーポンなど、知るだけで年間数万円得する旅の裏ワザ。',
     url: baseUrl + '/travel-savings-guide',
     siteName: '旅宿クラウド',
@@ -92,9 +92,7 @@ export default function TravelSavingsGuide() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             旅行費の節約術 完全ガイド
           </div>
-          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            旅行費を最大30%安くする裏ワザ7選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">旅行費を最大30%安くする裏ワザ7選</h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl mb-4">
             「もう少し安く泊まれたらなぁ」。旅行の計画中、誰もが一度は感じるこの気持ち。実は、ちょっとした工夫と知識だけで宿泊費は劇的に変わります。年間の旅行費を数万円単位で圧縮できる7つの方法を、旅行ライターが本音で解説します。
           </p>

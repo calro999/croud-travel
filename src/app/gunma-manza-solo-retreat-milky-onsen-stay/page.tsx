@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/gunma-manza-solo-retreat-milky-onsen-stay/" },
-  title: '【上信越高原・万座温泉ひとり旅・標高1800m雲上の白濁硫黄泉おこもり】日本一の硫黄含有量・星空露天風呂・上州牛会席！空に一番近い秘湯厳選3宿',
+  title: '上信越高原・万座温泉ひとり旅・標高1800m雲上の白濁硫黄泉おこもり：日本一の硫黄含有量・星空露天風呂・上州牛会席！空に一番近い秘湯厳選3宿',
   description: '日本屈指の高所と硫黄濃度を誇る雲上の名湯・群馬・万座温泉！ログハウス風の木の温もりと乳白色の極上露天風呂が評判の「万座亭」、多彩な木造湯殿と湯治文化を伝える名門「日進舘」、4つの自家源泉と混浴を含む広大な露天風呂群が自慢の「万座高原ホテル」を楽天API最新データに基づき徹底比較。',
   keywords: '万座温泉 一人旅 宿,万座 ホテル 一人 温泉,万座亭 一人旅,万座温泉 日進舘,万座高原ホテル,万座 ひとり旅 おこもり',
   openGraph: {
-    title: '【上信越高原・万座温泉ひとり旅・標高1800m雲上の白濁硫黄泉おこもり】日本一の硫黄含有量・星空露天風呂・上州牛会席！空に一番近い秘湯厳選3宿',
+    title: '上信越高原・万座温泉ひとり旅・標高1800m雲上の白濁硫黄泉おこもり：日本一の硫黄含有量・星空露天風呂・上州牛会席！空に一番近い秘湯厳選3宿',
     description: '日本屈指の高所と硫黄濃度を誇る雲上の名湯・群馬・万座温泉！ログハウス風の木の温もりと乳白色の極上露天風呂が評判の「万座亭」、多彩な木造湯殿と湯治文化を伝える名門「日進舘」、4つの自家源泉と混浴を含む広大な露天風呂群が自慢の「万座高原ホテル」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/gunma-manza-solo-retreat-milky-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【上信越高原・万座温泉ひとり旅・標高1800m雲上の白濁硫黄泉おこもり】日本一の硫黄含有量・星空露天風呂・上州牛会席！空に一番近い秘湯厳選3宿',
+    headline: '上信越高原・万座温泉ひとり旅・標高1800m雲上の白濁硫黄泉おこもり：日本一の硫黄含有量・星空露天風呂・上州牛会席！空に一番近い秘湯厳選3宿',
     description: '日本屈指の高所と硫黄濃度を誇る雲上の名湯・群馬・万座温泉！ログハウス風の木の温もりと乳白色の極上露天風呂が評判の「万座亭」、多彩な木造湯殿と湯治文化を伝える名門「日進舘」、4つの自家源泉と混浴を含む広大な露天風呂群が自慢の「万座高原ホテル」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             群馬・万座温泉ひとり旅＆雲上白濁硫黄泉おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【上信越高原・万座温泉ひとり旅・標高1800m雲上の白濁硫黄泉おこもり】日本一の硫黄含有量・星空露天風呂・上州牛会席！空に一番近い秘湯厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「上信越高原・万座温泉ひとり旅・標高1800m雲上の白濁硫黄泉おこもり」日本一の硫黄含有量・星空露天風呂・上州牛会席！空に一番近い秘湯厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

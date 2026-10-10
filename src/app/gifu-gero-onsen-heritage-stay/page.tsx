@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/gifu-gero-onsen-heritage-stay/" },
-  title: "【岐阜・下呂温泉】日本三名泉・美肌の湯＆飛騨牛トマト丼・温泉街湯めぐり 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "岐阜・下呂温泉：日本三名泉・美肌の湯＆飛騨牛トマト丼・温泉街湯めぐり 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "日本三名泉・岐阜下呂温泉エリア完全特化！草津・有馬と並ぶpH9.2の「つるつる美肌湯」、湯めぐり手形での名旅館外湯めぐり、飛騨川の噴泉池、名物飛騨牛トマト丼・温玉ソフトと飛騨牛朴葉味噌会席宿を徹底解説。",
   keywords: ["岐阜", "下呂温泉", "日本三名泉", "美肌の湯", "飛騨牛トマト丼", "温泉街湯めぐり", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             GERO ONSEN HERITAGE GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【岐阜・下呂温泉】日本三名泉・美肌の湯＆飛騨牛トマト丼・温泉街湯めぐり 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「岐阜・下呂温泉」日本三名泉・美肌の湯＆飛騨牛トマト丼・温泉街湯めぐり 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             有馬・草津と並び称される日本三名泉「下呂温泉」。pH9.2を誇る天然の石鹸のようなとろりとした美肌湯。飛騨川のせせらぎを聞きながら歩く温泉街の足湯めぐりと、飛騨牛朴葉味噌焼きの香ばしい香りに包まれる休日。
           </p>

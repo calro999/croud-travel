@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tokyo-hiroshima-bus-vs-shinkansen-guide/" },
-  title: "【東京〜広島】新幹線 vs 飛行機 vs 夜行バス徹底比較！厳島神社＆広島お好み焼き1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+  title: "東京〜広島：新幹線 vs 飛行機 vs 夜行バス徹底比較！厳島神社＆広島お好み焼き1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "東京から広島へ安く行くには？東海道・山陽新幹線「のぞみ」、飛行機（羽田・成田）、夜行高速バスの料金・所要時間比較！浮いた2.5万円で宮島温泉旅館に泊まり、牡蠣と広島焼きを満喫する1泊2日モデルコース。",
   keywords: ["東京〜広島", "新幹線", "vs", "飛行機", "夜行バス徹底比較！厳島神社", "温泉宿", "宿泊予約"],
 };
@@ -157,9 +157,7 @@ export default function HighwayBusArticlePage() {
               交通手段の徹底比較＆最適ルート
             </span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【東京〜広島】新幹線 vs 飛行機 vs 夜行バス徹底比較！厳島神社＆広島お好み焼き1泊2日モデルコース
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">「東京〜広島」新幹線 vs 飛行機 vs 夜行バス徹底比較！厳島神社＆広島お好み焼き1泊2日モデルコース</h1>
           <p className="text-xs md:text-sm text-cyan-100/90 leading-relaxed font-medium">
             新幹線なら東京〜広島約3時間50分・片道約19,760円（往復約39,520円）。夜行高速バスなら片道約5,500円〜！往復で約3万円近く節約でき、朝7時に広島駅へ到着するため、午前中に世界遺産「厳島神社」の満潮大鳥居を満喫できます。
           </p>

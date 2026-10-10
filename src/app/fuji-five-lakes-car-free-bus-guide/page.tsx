@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/fuji-five-lakes-car-free-bus-guide/" },
-  title: "【富士五湖・河口湖 車なし観光ガイド】周遊バス・富士急行で回る！逆さ富士・忍野八海・浅間神社モデルコース ｜ 日本全国・旅宿クラウド",
+  title: "富士五湖・河口湖 車なし観光ガイド：周遊バス・富士急行で回る！逆さ富士・忍野八海・浅間神社モデルコース ｜ 日本全国・旅宿クラウド",
   description: "車なしでも富士五湖は満喫できる！河口湖周遊バス（レッドライン/グリーンライン）、富士山パノラマロープウェイ、新倉山浅間公園の絶景、河口湖駅徒歩圏＆送迎付きの温泉ホテルを徹底解説。",
   keywords: ["富士五湖", "河口湖", "車なし観光ガイド", "周遊バス", "富士急行で回る！逆さ富士", "忍野八海", "浅間神社モデルコース"],
 };
@@ -191,10 +191,7 @@ export default function FujiFiveLakesCarFreeBusGuidePage() {
             </span>
           </div>
 
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white drop-shadow-sm">
-            【富士五湖・河口湖 車なし観光ガイド】<br />
-            <span className="text-teal-200">周遊バス・富士急行で回る！逆さ富士・忍野八海・浅間神社モデルコース</span>
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white drop-shadow-sm">「富士五湖・河口湖 車なし観光ガイド」<br /> <span className="text-teal-200">周遊バス・富士急行で回る！逆さ富士・忍野八海・浅間神社モデルコース</span></h1>
 
           <p className="text-sm md:text-base text-teal-50 leading-relaxed font-medium pt-2">
             「富士五湖を巡りたいけれど運転が不安…」そんな心配は一切無用です！河口湖駅をハブとして、15分間隔で走る周遊バス（レッドライン/グリーンライン）やレトロな富士急行線を乗り継げば、車がなくても忍野八海、新倉山浅間公園、天上山パノラマロープウェイの絶景を効率よく巡ることができます。

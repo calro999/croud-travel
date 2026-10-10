@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【福島駅前】吾妻山紅葉ドライブ＆名物円盤餃子！2,000円台〜泊まれる格安ホテル5選',
+  title: '福島駅前：吾妻山紅葉ドライブ＆名物円盤餃子！2,000円台〜泊まれる格安ホテル5選',
   description: '磐梯吾妻スカイラインの魔女の瞳・一切経山と吾妻連峰の錦秋絵巻！パリパリの皮と野菜の甘みがたまらない名物福島円盤餃子。東北新幹線・JR福島駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>吾妻連峰の絶景スカイライン紅葉＆名物パリパリ円盤餃子</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【福島駅前】吾妻山紅葉ドライブ＆名物円盤餃子！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「福島駅前」吾妻山紅葉ドライブ＆名物円盤餃子！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             雲上のパノラマライン「磐梯吾妻スカイライン」。一切経山から見下ろす神秘のエメラルドグリーン「魔女の瞳（五色沼）」と山肌を染める紅葉のグラデーション。フライパン一面に丸く敷き詰めて香ばしく焼き上げる名物「福島円盤餃子」や、福島牛・地酒に舌鼓！東北新幹線福島駅周辺で2,000円台〜泊まれる優良ホテルを厳選。
           </p>

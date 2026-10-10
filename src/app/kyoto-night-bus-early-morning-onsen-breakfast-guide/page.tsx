@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kyoto-night-bus-early-morning-onsen-breakfast-guide/" },
-  title: "【京都 夜行バス早朝到着の過ごし方】朝6時から入れる銭湯・天然温泉＆京都名物「朝粥」完全ガイド",
+  title: "京都 夜行バス早朝到着の過ごし方：朝6時から入れる銭湯・天然温泉＆京都名物「朝粥」厳選ガイド",
   description:
     "京都駅に朝6時台に到着した後の救済マニュアル！京都タワー大浴場や駅前天然温泉での朝風呂、早朝から並ばずに食べられる老舗の朝粥・湯豆腐・喫茶モーニング、人混みゼロの早朝清水寺参拝ルート。",
   keywords: ["京都", "夜行バス早朝到着の過ごし方", "朝6時から入れる銭湯", "天然温泉", "京都名物「朝粥」", "温泉宿", "宿泊予約"],
@@ -165,10 +165,7 @@ export default function KyotoEarlyMorningGuidePage() {
             <span>♨️ 6:00 AM START REVIVAL GUIDE</span>
             <span className="w-1.5 h-1.5 rounded-full bg-rose-400 animate-ping" />
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-snug mb-4 text-balance">
-            【京都 夜行バス早朝到着の過ごし方】<br />
-            朝6時から入れる銭湯・天然温泉＆京都名物「朝粥」完全ガイド
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-snug mb-4 text-balance">「京都 夜行バス早朝到着の過ごし方」<br /> 朝6時から入れる銭湯・天然温泉＆京都名物「朝粥」厳選ガイド</h1>
           <p className="text-rose-100/90 text-sm sm:text-base leading-relaxed max-w-2xl mx-auto">
             京都駅に朝6時台に放り出されても途方に暮れる必要なし！
             バス旅の疲れを洗い流す朝風呂スポットから、並ばずに味わえる絶品朝粥・喫茶モーニング、人混み皆無の早朝散策ルートまでプロが徹底指南します。

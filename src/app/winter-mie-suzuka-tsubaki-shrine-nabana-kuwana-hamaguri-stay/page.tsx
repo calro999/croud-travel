@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月三重鈴鹿桑名】椿大神社新春みちびき初詣！名宿5選',
+  title: '11・12・1月三重鈴鹿桑名：椿大神社新春みちびき初詣！名宿5選',
   description: '冬の三重北勢（鈴鹿・桑名・四日市）は、全国猿田彦神社総本宮・伊勢国一の宮「椿大神社」の清冽な神域で新春のみちびき開運を祈願し。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '桑名 ホテル, 鈴鹿 ホテル, 椿大神社 初詣, なばなの里 イルミネーション, 桑名 蛤鍋, ホテル花水木, ガーデンホテルオリーブ, 都ホテル四日市, 11月 12月 1月 三重 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-mie-suzuka-tsubaki-shrine-nabana-kuwana-hamaguri-stay/"
   },
   openGraph: {
-    title: '【11・12・1月三重鈴鹿桑名】椿大神社新春みちびき初詣！名宿5選',
+    title: '11・12・1月三重鈴鹿桑名：椿大神社新春みちびき初詣！名宿5選',
     description: '冬の三重北勢（鈴鹿・桑名・四日市）は、全国猿田彦神社総本宮・伊勢国一の宮「椿大神社」の清冽な神域で新春のみちびき開運を祈願し。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-mie-suzuka-tsubaki-shrine-nabana-kuwana-hamaguri-stay',
     type: 'article',
@@ -231,10 +231,7 @@ export default function MieSuzukaPage() {
             <Snowflake className="w-4 h-4 text-cyan-300 animate-spin" />
             11月・12月・1月冬の特選旅｜三重・鈴鹿＆桑名・四日市
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">
-            伊勢国一の宮・椿大神社新春みちびき初詣＆なばなの里！<br className="hidden sm:inline" />
-            桑名冬蛤鍋と長島温泉に寛ぐ名宿5選
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">伊勢国一の宮・椿大神社新春みちびき初詣＆なばなの里！<br className="hidden sm:inline" /> 桑名冬蛤鍋と長島温泉に寛ぐ名宿5選</h1>
           <p className="text-base sm:text-lg text-slate-200/90 leading-relaxed max-w-4xl mb-8">
             名古屋からわずか30〜45分。冬の三重北勢（鈴鹿・桑名・四日市）は、全国猿田彦神社総本宮・椿大神社で新春のみちびき開運を授かり、国内最大級のスケールを誇る「なばなの里イルミネーション」の光の奇跡に酔いしれる至福の季節です。木曽三川の恵みが育んだ桑名の伝統名物・熱々天然蛤鍋（はまぐり鍋）や四日市とんてき、長島温泉の豊富な自家源泉大露天風呂。心身を温める冬の極上旅へご案内します。
           </p>

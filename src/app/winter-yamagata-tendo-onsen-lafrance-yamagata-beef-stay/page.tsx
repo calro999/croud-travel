@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月天童温泉】A5山形牛すき焼き！名宿5選',
+  title: '天童温泉で過ごす冬の旅（11・12月）！A5山形牛すき焼き！名宿5選',
   description: '将棋駒の生産量日本一を誇る山形の名湯「天童温泉」。11月から12月にかけて最盛期を迎える果物の女王「ラ・フランス」の芳醇な甘みと。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '天童温泉 宿泊, 天童温泉 11月 12月, ほほえみの宿 滝の湯, 天童荘, 天童ホテル, ラフランス 山形, 山形牛 すき焼き 天童, 将棋の里, 山寺 立石寺 雪景色',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamagata-tendo-onsen-lafrance-yamagata-beef-stay/",
   },
   openGraph: {
-    title: '【11・12月天童温泉】A5山形牛すき焼き！名宿5選',
+    title: '天童温泉で過ごす冬の旅（11・12月）！A5山形牛すき焼き！名宿5選',
     description: '将棋駒の生産量日本一を誇る山形の名湯「天童温泉」。11月から12月にかけて最盛期を迎える果物の女王「ラ・フランス」の芳醇な甘みと。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-yamagata-tendo-onsen-lafrance-yamagata-beef-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月天童温泉の冬名湯と山形美食】将棋の里・雪見露天風呂と11月旬ラ・フランス＆A5山形牛すき焼きの宿5選",
+    title: "天童温泉の冬名湯と山形美食で過ごす冬の旅（11・12月）！将棋の里・雪見露天風呂と11月旬ラ・フランス＆A5山形牛すき焼きの宿5選",
     description: "将棋駒の生産量日本一を誇る山形の名湯「天童温泉」。11月から12月にかけて最盛期を迎える果物の女王「ラ・フランス」の芳醇な甘みと、極上の霜降りを誇るブランド黒毛和牛「山形牛」のすき焼き・ステーキ会席。初冬の奥羽山脈の雪見露天風呂、山寺（立石寺）の初冬散策を満喫する厳選名宿5選を徹底解説。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80'],
   }
@@ -298,10 +298,7 @@ export default function TendoWinterPage() {
             <Award className="w-4 h-4 text-emerald-300" />
             <span>11月・12月限定 将棋の里の初冬雪見名湯と果物の女王ラ・フランス＆山形牛会席</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月天童温泉の冬名湯と山形美食】<br className="hidden sm:inline" />
-            将棋の里・雪見露天風呂と11月旬ラ・フランス＆A5山形牛すき焼きの宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">天童温泉の冬名湯と山形美食で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 将棋の里・雪見露天風呂と11月旬ラ・フランス＆A5山形牛すき焼きの宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             奥羽山脈の初冬の山並みを望む将棋駒のふるさと「天童温泉」。11月から12月に最も甘く芳醇に香り立つラ・フランスと、極上の霜降りを誇るA5山形牛すき焼きに舌鼓を打ち、柔らかな美肌露天風呂で温まる贅沢な休日。
           </p>

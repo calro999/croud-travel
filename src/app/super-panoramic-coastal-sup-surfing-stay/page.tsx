@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【絶景SUP＆マリンリゾート】海を一望するインフィニティ温泉とオーシャンフロント宿5選",
+  title: "絶景SUP＆マリンリゾート：海を一望するインフィニティ温泉とオーシャンフロント宿5選",
   description: "透明度抜群の海で楽しむスタンドアップパドルボード（SUP）体験！海上に立って海上散歩を楽しんだ後は、水平線と一体になるインフィニティ露天風呂と獲れたて海の幸ディナーを満喫する爽快リゾート旅。",
   keywords: "伊豆 SUP 露天風呂 ホテル, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/super-panoramic-coastal-sup-surfing-stay/",
   },
   openGraph: {
-    title: "【絶景SUP＆マリンリゾート】海を一望するインフィニティ温泉とオーシャンフロント宿5選",
+    title: "絶景SUP＆マリンリゾート：海を一望するインフィニティ温泉とオーシャンフロント宿5選",
     description: "透明度抜群の海で楽しむスタンドアップパドルボード（SUP）体験！海上に立って海上散歩を楽しんだ後は、水平線と一体になるインフィニティ露天風呂と獲れたて海の幸ディナーを満喫する爽快リゾート旅。",
     url: 'https://croud-travel.pages.dev/super-panoramic-coastal-sup-surfing-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【絶景SUP＆マリンリゾート】海を一望するインフィニティ温泉とオーシャンフロント宿5選",
+    title: "絶景SUP＆マリンリゾート：海を一望するインフィニティ温泉とオーシャンフロント宿5選",
     description: "透明度抜群の海で楽しむスタンドアップパドルボード（SUP）体験！海上に立って海上散歩を楽しんだ後は、水平線と一体になるインフィニティ露天風呂と獲れたて海の幸ディナーを満喫する爽快リゾート旅。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>SUP体験＆オーシャンビュー温泉</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【絶景SUP＆マリンリゾート】海を一望するインフィニティ温泉とオーシャンフロント宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「絶景SUP＆マリンリゾート」海を一望するインフィニティ温泉とオーシャンフロント宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             透明度抜群の海で楽しむスタンドアップパドルボード（SUP）体験！海上に立って海上散歩を楽しんだ後は、水平線と一体になるインフィニティ露天風呂と獲れたて海の幸ディナーを満喫する爽快リゾート旅。
           </p>

@@ -3,11 +3,11 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【秋の弘前×格安】弘前城菊と紅葉まつりと焼きたてアップルパイ！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選【2026最新】',
+  title: '秋の弘前×格安：弘前城菊と紅葉まつりと焼きたてアップルパイ！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」',
   description: '約1,000本のモミジが天守とお濠を染める「弘前城菊と紅葉まつり」の幻想的なライトアップ！名物アップルパイの食べ比べや津軽ラーメンを満喫。サウナ＆天然温泉大浴場付きで1泊4,000円〜7,000円台で泊まれる弘前の格安ホテル5選。アートホテル弘前シティ、ドーミーイン弘前などを徹底比較！',
   keywords: '弘前 格安 ホテル, 弘前 大浴場 天然温泉 ホテル, 弘前城菊と紅葉まつり, アップルパイ 弘前, アートホテル弘前シティ, ドーミーイン弘前',
   openGraph: {
-    title: '【秋の弘前×格安】弘前城菊と紅葉まつりと焼きたてアップルパイ！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選【2026最新】',
+    title: '秋の弘前×格安：弘前城菊と紅葉まつりと焼きたてアップルパイ！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」',
     description: '弘前城菊と紅葉まつりとアップルパイ！大浴場付き1泊4,000円〜7,000円台のコスパ最強弘前ホテル5選。',
     type: 'article',
     url: 'https://croud-travel.com/autumn-budget-aomori-hirosaki-castle-momiji-hotels-stay',
@@ -32,9 +32,7 @@ export default function HirosakiBudgetAutumnPage() {
             <span className="px-3 py-1 bg-teal-600 text-white text-xs font-bold rounded-full">格安・東北特集</span>
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">1泊目安: 4,000円台〜7,000円台</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">
-            【秋の弘前×格安】弘前城菊と紅葉まつりと焼きたてアップルパイ！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の弘前×格安」弘前城菊と紅葉まつりと焼きたてアップルパイ！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選</h1>
           <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
             約1,000本のカエデと約2,600本の桜が一斉に紅葉する弘前公園。夜はお濠の水鏡に映る幻想的なライトアップを堪能し、りんご王国ならではの極上スイーツや天然温泉に癒やされる格安ステイをご提案します。
           </p>

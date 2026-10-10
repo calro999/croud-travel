@@ -1,4 +1,4 @@
-# 【蔵王温泉】名物大露天風呂＆蔵王牛・ジンギスカンが旨い人気宿7選！強酸性美肌湯ガイド
+# 蔵王温泉：名物大露天風呂＆蔵王牛・ジンギスカンが旨い人気宿7選！強酸性美肌湯ガイド
 
 - URL: https://croud-travel.pages.dev/posts/zao-onsen-rotenburo-jingisukan-gourmet-guide/
 - 宿泊施設名: 蔵王温泉 おおみや旅館

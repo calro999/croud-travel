@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            東海随一の紅葉名所「香嵐渓」4,000本のもみじライトアップ＆医者がすすめる天然ラドン猿投温泉の旅
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">東海随一の紅葉名所「香嵐渓」4,000本のもみじライトアップ＆医者がすすめる天然ラドン猿投温泉の旅</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             巴川を紅く染める4,000本のもみじ絵巻。足助のレトロ散歩と奇跡のラドン名湯で心身を解き放つ秋旅。
           </p>

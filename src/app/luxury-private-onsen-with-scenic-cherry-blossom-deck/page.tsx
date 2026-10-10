@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【客室専用お花見露天風呂】舞い散る桜を湯船から独占！春限定の極上プライベート温泉宿5選",
+  title: "客室専用お花見露天風呂：舞い散る桜を湯船から独占！春限定の極上プライベート温泉宿5選",
   description: "満開の桜並木や庭園のしだれ桜を客室露天風呂から独り占め！湯面に浮かぶ桜の花びらと心地よい春風に包まれながら、誰にも気兼ねなく花見酒と旬の春会席を楽しめる贅沢な隠れ宿。",
   keywords: "露天風呂 離れ 温泉 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-cherry-blossom-deck/",
   },
   openGraph: {
-    title: "【客室専用お花見露天風呂】舞い散る桜を湯船から独占！春限定の極上プライベート温泉宿5選",
+    title: "客室専用お花見露天風呂：舞い散る桜を湯船から独占！春限定の極上プライベート温泉宿5選",
     description: "満開の桜並木や庭園のしだれ桜を客室露天風呂から独り占め！湯面に浮かぶ桜の花びらと心地よい春風に包まれながら、誰にも気兼ねなく花見酒と旬の春会席を楽しめる贅沢な隠れ宿。",
     url: 'https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-cherry-blossom-deck',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【客室専用お花見露天風呂】舞い散る桜を湯船から独占！春限定の極上プライベート温泉宿5選",
+    title: "客室専用お花見露天風呂：舞い散る桜を湯船から独占！春限定の極上プライベート温泉宿5選",
     description: "満開の桜並木や庭園のしだれ桜を客室露天風呂から独り占め！湯面に浮かぶ桜の花びらと心地よい春風に包まれながら、誰にも気兼ねなく花見酒と旬の春会席を楽しめる贅沢な隠れ宿。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>お花見客室露天＆春の懐石</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【客室専用お花見露天風呂】舞い散る桜を湯船から独占！春限定の極上プライベート温泉宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「客室専用お花見露天風呂」舞い散る桜を湯船から独占！春限定の極上プライベート温泉宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             満開の桜並木や庭園のしだれ桜を客室露天風呂から独り占め！湯面に浮かぶ桜の花びらと心地よい春風に包まれながら、誰にも気兼ねなく花見酒と旬の春会席を楽しめる贅沢な隠れ宿。
           </p>

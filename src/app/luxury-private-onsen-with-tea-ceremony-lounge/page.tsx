@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】本格茶室で一服の静寂を。お点前体験＆日本庭園露天風呂が自慢の和モダン宿5選 | 日本全国・旅宿クラウド',
+  title: '2026年：本格茶室で一服の静寂を。お点前体験＆日本庭園露天風呂が自慢の和モダン宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！格式ある本格茶室で楽しむ抹茶とお抹茶菓子のおもてなし。美しい日本庭園を眺める露天風呂と和の美意識に浸る大人の癒やし宿5選。',
   keywords: ["2026年", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: '【2026年】本格茶室で一服の静寂を。お点前体験＆日本庭園露天風呂が自慢の和モダン宿5選',
+    title: '2026年：本格茶室で一服の静寂を。お点前体験＆日本庭園露天風呂が自慢の和モダン宿5選',
     description: '2026年最新！格式ある本格茶室で楽しむ抹茶とお抹茶菓子のおもてなし。美しい日本庭園を眺める露天風呂と和の美意識に浸る大人の癒やし宿5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/luxury-private-onsen-with-tea-ceremony-lounge',
@@ -193,9 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> 本格茶室お点前×日本庭園名湯
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】本格茶室で一服の静寂を。お点前体験＆日本庭園露天風呂が自慢の和モダン宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」本格茶室で一服の静寂を。お点前体験＆日本庭園露天風呂が自慢の和モダン宿5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             掛け軸と季節の茶花が飾られた静謐な茶室でいただく、点てたての香り高い抹茶と上生菓子。日常の喧騒から解き放たれ、美しい日本庭園の移ろいを眺めながら名湯に浸かる、心洗われる和のリトリートステイ。
           </p>

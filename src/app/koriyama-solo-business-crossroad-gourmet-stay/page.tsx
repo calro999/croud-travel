@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/koriyama-solo-business-crossroad-gourmet-stay/" },
-  title: '【郡山出張＆中通りひとり旅】新幹線駅前すぐ・天然温泉大浴場・ご当地郡山ブラックラーメン！東北の交通要所で整う極上ホテル 厳選3選',
+  title: '郡山出張＆中通りひとり旅：新幹線駅前すぐ・天然温泉大浴場・ご当地郡山ブラックラーメン！東北の交通要所で整う極上ホテル 厳選3選',
   description: '東北新幹線・山形新幹線・磐越西線・磐越東線が交差する「東北の十字路」福島県郡山市！「JR郡山駅西口正面・広々バスルームと機能美デスク。」の「ダイワロイネットホテル郡山駅前」、天然温泉大浴場サウナを備えた「ホテルグローバルビュー郡山」、駅前大通り沿いの老舗「郡山ビューホテルアネックス」を徹底特集。',
   keywords: '郡山 出張 ホテル おすすめ,郡山 一人旅 ホテル,ダイワロイネットホテル郡山駅前 宿泊,ホテルグローバルビュー郡山 大浴場,郡山ブラック ホテル',
   openGraph: {
-    title: '【郡山出張＆中通りひとり旅】新幹線駅前すぐ・天然温泉大浴場・ご当地郡山ブラックラーメン！東北の交通要所で整う極上ホテル 厳選3選',
+    title: '郡山出張＆中通りひとり旅：新幹線駅前すぐ・天然温泉大浴場・ご当地郡山ブラックラーメン！東北の交通要所で整う極上ホテル 厳選3選',
     description: '東北新幹線・山形新幹線・磐越西線・磐越東線が交差する「東北の十字路」福島県郡山市！「JR郡山駅西口正面・広々バスルームと機能美デスク。」の「ダイワロイネットホテル郡山駅前」、天然温泉大浴場サウナを備えた「ホテルグローバルビュー郡山」、駅前大通り沿いの老舗「郡山ビューホテルアネックス」を徹底特集。',
     url: 'https://croud-travel.pages.dev/koriyama-solo-business-crossroad-gourmet-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【郡山出張＆中通りひとり旅】新幹線駅前すぐ・天然温泉大浴場・ご当地郡山ブラックラーメン！東北の交通要所で整う極上ホテル 厳選3選',
+    headline: '郡山出張＆中通りひとり旅：新幹線駅前すぐ・天然温泉大浴場・ご当地郡山ブラックラーメン！東北の交通要所で整う極上ホテル 厳選3選',
     description: '東北新幹線・山形新幹線・磐越西線・磐越東線が交差する「東北の十字路」福島県郡山市！「JR郡山駅西口正面・広々バスルームと機能美デスク。」の「ダイワロイネットホテル郡山駅前」、天然温泉大浴場サウナを備えた「ホテルグローバルビュー郡山」、駅前大通り沿いの老舗「郡山ビューホテルアネックス」を徹底特集。',
     author: {
       '@type': 'Organization',
@@ -74,9 +74,7 @@ export default function ArticlePage() {
           <span>✨</span>
           <span>郡山・東北の十字路出張＆郡山ブラック特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【郡山出張＆中通りひとり旅】新幹線駅前すぐ・天然温泉大浴場・ご当地郡山ブラックラーメン！東北の交通要所で整う極上ホテル 厳選3選
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">「郡山出張＆中通りひとり旅」新幹線駅前すぐ・天然温泉大浴場・ご当地郡山ブラックラーメン！東北の交通要所で整う極上ホテル 厳選3選</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
           東北新幹線・山形新幹線・磐越西線・磐越東線が交差する「東北の十字路」福島県郡山市！「JR郡山駅西口正面・広々バスルームと機能美デスク。」の「ダイワロイネットホテル郡山駅前」、天然温泉大浴場サウナを備えた「ホテルグローバルビュー郡山」、駅前大通り沿いの老舗「郡山ビューホテルアネックス」を徹底特集。
         </p>

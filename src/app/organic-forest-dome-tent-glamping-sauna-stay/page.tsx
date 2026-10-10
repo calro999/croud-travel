@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【星空ドームテント×テントサウナ】大自然に包まれる贅沢グランピング＆自家源泉温泉宿5選",
+  title: "星空ドームテント×テントサウナ：大自然に包まれる贅沢グランピング＆自家源泉温泉宿5選",
   description: "開放感あふれる大型ドームテント、プライベートなテントサウナ＆セルフロウリュ、そして夜空に輝く満天の星！天然温泉の大浴場も併設された、贅沢で快適な最新アウトドアリゾートを厳選紹介。",
   keywords: "ドームテント グランピング サウナ 温泉, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/organic-forest-dome-tent-glamping-sauna-stay/",
   },
   openGraph: {
-    title: "【星空ドームテント×テントサウナ】大自然に包まれる贅沢グランピング＆自家源泉温泉宿5選",
+    title: "星空ドームテント×テントサウナ：大自然に包まれる贅沢グランピング＆自家源泉温泉宿5選",
     description: "開放感あふれる大型ドームテント、プライベートなテントサウナ＆セルフロウリュ、そして夜空に輝く満天の星！天然温泉の大浴場も併設された、贅沢で快適な最新アウトドアリゾートを厳選紹介。",
     url: 'https://croud-travel.pages.dev/organic-forest-dome-tent-glamping-sauna-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【星空ドームテント×テントサウナ】大自然に包まれる贅沢グランピング＆自家源泉温泉宿5選",
+    title: "星空ドームテント×テントサウナ：大自然に包まれる贅沢グランピング＆自家源泉温泉宿5選",
     description: "開放感あふれる大型ドームテント、プライベートなテントサウナ＆セルフロウリュ、そして夜空に輝く満天の星！天然温泉の大浴場も併設された、贅沢で快適な最新アウトドアリゾートを厳選紹介。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>ドームテント＆テントサウナ</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【星空ドームテント×テントサウナ】大自然に包まれる贅沢グランピング＆自家源泉温泉宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「星空ドームテント×テントサウナ」大自然に包まれる贅沢グランピング＆自家源泉温泉宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             開放感あふれる大型ドームテント、プライベートなテントサウナ＆セルフロウリュ、そして夜空に輝く満天の星！天然温泉の大浴場も併設された、贅沢で快適な最新アウトドアリゾートを厳選紹介。
           </p>

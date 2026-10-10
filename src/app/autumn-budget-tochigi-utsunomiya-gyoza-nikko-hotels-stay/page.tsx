@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【宇都宮】日光紅葉の玄関口＆本場餃子食べ比べ！格安・高コスパホテル5選',
+  title: '宇都宮：日光紅葉の玄関口＆本場餃子食べ比べ！格安・高コスパホテル5選',
   description: '日光・中禅寺湖の紅葉狩り拠点に最適！みんみん・正嗣など本場の宇都宮餃子通りを巡る秋旅に便利な、1泊3,000円台〜5,000円台の駅前高評価ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetUtsunomiyaHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>日光紅葉アクセス抜群＆名物餃子巡り</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【宇都宮】日光紅葉の特等席拠点＆本場餃子！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「宇都宮」日光紅葉の特等席拠点＆本場餃子！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-emerald-100/90 max-w-2xl mx-auto leading-relaxed">
             秋のハイライト「日光いろは坂・中禅寺湖」の紅葉シーズンは、日光市内の宿が高騰・満室になりがち。新幹線や日光線でダイレクトに繋がる宇都宮駅前に泊まれば、宿泊費を賢く抑えつつ夜はパリッと香ばしい宇都宮餃子のハシゴ酒を満喫できます！
           </p>

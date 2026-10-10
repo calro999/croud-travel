@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月熊野本宮】冬の風物詩！名宿5選',
+  title: '熊野本宮で過ごす冬の旅（11・12月）！冬の風物詩！名宿5選',
   description: '11月中旬から12月の初冬、世界遺産・熊野古道の聖地に抱かれた和歌山県田辺市本宮町は、霊峰熊野の山々が静けさに包まれ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '川湯温泉 仙人風呂, 湯の峰温泉 つぼ湯 宿泊, 熊野本宮 温泉 旅館, 熊野牛 すき焼き, 温泉粥 湯の峰, 世界遺産 熊野古道 温泉, わたらせ温泉 露天風呂, 11月 12月 和歌山旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-wakayama-kawayu-yunomine-onsen-senninburo-kumanogyu-stay/"
   },
   openGraph: {
-    title: '【11・12月熊野本宮】冬の風物詩！名宿5選',
+    title: '熊野本宮で過ごす冬の旅（11・12月）！冬の風物詩！名宿5選',
     description: '11月中旬から12月の初冬、世界遺産・熊野古道の聖地に抱かれた和歌山県田辺市本宮町は、霊峰熊野の山々が静けさに包まれ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-wakayama-kawayu-yunomine-onsen-senninburo-kumanogyu-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月熊野本宮】冬の風物詩・大塔川仙人風呂オープンと世界遺産つぼ湯・熊野牛会席＆名物温泉粥・熊野三山を巡る名宿5選",
+    title: "熊野本宮で過ごす冬の旅（11・12月）！冬の風物詩・大塔川仙人風呂オープンと世界遺産つぼ湯・熊野牛会席＆名物温泉粥・熊野三山を巡る名宿5選",
     description: "11月中旬から12月の初冬、世界遺産・熊野古道の聖地に抱かれた和歌山県田辺市本宮町は、霊峰熊野の山々が静けさに包まれ、清流大塔川から白い湯煙が立ちのぼる格別の季節を迎えます。毎年12月1日にオープンする冬の風物詩「仙人風呂」は、川底から湧き出る70℃以上の天然温泉を大塔川の清流で温度調整した、川そのものが広大な混浴大露天風呂。澄み渡る初冬の青空の下、また夜には満天の星を仰ぎながら水着や湯浴み着で浸かる開放感は日本屈指の体験です。さらに車で5分ほどの湯の峰温泉には、日本最古の湯として世界遺産に登録された「つぼ湯」が鎮座し、日に七度色が変わると伝わる神秘の白濁硫黄泉が旅人を魅了します。夕食には紀州の大自然が育んだ極上の霜降りブランド牛「熊野牛」のすき焼きや陶板ステーキ、朝食には源泉でじっくり炊き上げた滋味あふれる「名物温泉粥」。初冬の熊野本宮大社・大斎原参拝と合わせ、心洗われる神秘の温泉リトリートを約束する厳選5宿を徹底ガイドします。",
     images: ['https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -367,9 +367,7 @@ export default function WakayamaKawayuYunomineWinterPage() {
             <Sparkles className="w-3.5 h-3.5" />
             11月・12月初冬の熊野本宮・仙人風呂＆聖地温泉特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold tracking-tight text-white leading-tight">
-            {metadata.title as string}
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold tracking-tight text-white leading-tight">{metadata.title as string}</h1>
           <p className="text-xs sm:text-sm text-stone-300 leading-relaxed pt-2">
             川底から滾々と湧く大塔川仙人風呂の圧倒的開放感と、世界遺産つぼ湯が醸し出す1800年の神秘。
             芳醇な霜降り熊野牛の会席と、胃腸を優しく癒やす名物温泉粥に酔いしれる初冬の熊野本宮へ。

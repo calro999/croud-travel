@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-sand-dunes-stay/" },
-  title: '日本三大砂丘＆雄大な風紋美と夕日オーシャンビュー宿×ふるさと納税完全ガイド【2026年最新】鳥取砂丘・中田島砂丘・吹上浜',
+  title: '日本三大砂丘＆雄大な風紋美と夕日オーシャンビュー宿×ふるさと納税厳選ガイド鳥取砂丘・中田島砂丘・吹上浜',
   description: '海と風が描く奇跡の造形美！鳥取「鳥取砂丘」日本海の夕日と自家源泉の鳥取温泉観水庭こぜにや、静岡浜松「中田島砂丘」遠州灘の風紋と天然温泉スーパーホテル浜松出世の湯、鹿児島薩摩半島「吹上浜」47km続く日本最長の白砂青松と砂むし温泉指宿白水館。日本三大砂丘の絶景と温泉を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大砂丘・風紋絶景特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大砂丘＆雄大な風紋美と夕日オーシャンビュー宿×ふるさと納税完全ガイド【2026年最新】鳥取砂丘・中田島砂丘・吹上浜',
+    title: '日本三大砂丘＆雄大な風紋美と夕日オーシャンビュー宿×ふるさと納税厳選ガイド鳥取砂丘・中田島砂丘・吹上浜',
     description: '海と風が描く奇跡の造形美！鳥取「鳥取砂丘」日本海の夕日と自家源泉の鳥取温泉観水庭こぜにや、静岡浜松「中田島砂丘」遠州灘の風紋と天然温泉スーパーホテル浜松出世の湯、鹿児島薩摩半島「吹上浜」47km続く日本最長の白砂青松と砂むし温泉指宿白水館。日本三大砂丘の絶景と温泉を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-sand-dunes-stay',
@@ -158,9 +158,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大砂丘・風紋絶景特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大砂丘＆絶景オーシャンビュー温泉宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大砂丘＆絶景オーシャンビュー温泉宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             海風と大地が何万年もの歳月をかけて織り成した「日本三大砂丘」――山陰の海岸線に広がり、日本海の碧と砂のコントラストが息をのむ美しさを誇る鳥取の「鳥取砂丘」、遠州灘の強風「遠州のからっ風」が美しい幾何学的な風紋を描きウミガメの産卵地としても知られる静岡浜松の「中田島砂丘」、そして薩摩半島の西岸を47kmにわたって白砂青松が続く日本最長の砂丘・鹿児島の「吹上浜」。砂丘の稜線に立ち、海へと沈む夕日と刻々と表情を変える風紋を眺める時間は、日常を完全に忘れさせてくれる贅沢なひとときです。砂丘散策を楽しんだ後は、名湯温泉で砂と旅の疲れを洗い流し、鳥取松葉ガニ・浜松うなぎ・薩摩黒豚と海の幸を堪能する特別な旅を楽天ふるさと納税でお楽しみください。
           </p>

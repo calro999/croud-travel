@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【松山・大街道】宇和島鯛めし＆現存天守・松山城！2,000円台〜泊まれる格安ホテル5選',
+  title: '松山・大街道：宇和島鯛めし＆現存天守・松山城！2,000円台〜泊まれる格安ホテル5選',
   description: '新鮮な真鯛と特製タレ卵黄が絶品の宇和島鯛めし、現存12天守の松山城紅葉！道後温泉への路面電車もすぐの大街道・松山市駅周辺で1泊2,000円台〜泊まれる超高コスパ格安宿厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetMatsuyamaOkaidoHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>愛媛名物・宇和島鯛めし＆現存名城の錦秋</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【松山・大街道】絶品鯛めし＆松山城紅葉ロープウェイ！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「松山・大街道」絶品鯛めし＆松山城紅葉ロープウェイ！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-orange-100/90 max-w-2xl mx-auto leading-relaxed">
             秋に脂が乗り甘みを増す瀬戸内の真鯛を、特製のタレと生卵に絡めて熱々ご飯にかきこむ名物「宇和島鯛めし」。現存12天守を誇る名城・松山城のロープウェイ街や市内最大の大街道商店街周辺で、2,000円台〜泊まれるサウナ・大浴場付きの破格宿を厳選。
           </p>

@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '日本三大湯治場＆名湯治リトリート・本格効能温泉と逗留宿×ふるさと納税完全ガイド【2026年最新】玉川・三朝・草津',
+  title: '日本三大湯治場＆名湯治リトリート・本格効能温泉と逗留宿×ふるさと納税厳選ガイド玉川・三朝・草津',
   description: '古来より数多の人々の心身を癒やし続けてきた「日本三大湯治場」（秋田・玉川温泉の強酸性塩酸ラジウム泉、鳥取・三朝温泉の高濃度ラドン放射能泉、群馬・草津温泉の圧倒的湧出量と酸性硫黄泉）。現代人の疲れを根底から解きほぐす本格現代型湯治リトリート。楽天ふるさと納税トラベルクーポンで実質2,000円負担で叶える極上の逗留名宿ガイド。',
   keywords: ["日本三大湯治場", "名湯治リトリート", "2026年最新", "玉川", "三朝", "草津", "温泉宿"],
   alternates: { canonical: baseUrl + '/furusato-tax-three-great-hot-spring-cure-toji-stay/' },
   openGraph: {
-    title: '日本三大湯治場＆名湯治リトリート・本格効能温泉と逗留宿×ふるさと納税完全ガイド【2026年最新】玉川・三朝・草津',
+    title: '日本三大湯治場＆名湯治リトリート・本格効能温泉と逗留宿×ふるさと納税厳選ガイド玉川・三朝・草津',
     description: '古来より数多の人々の心身を癒やし続けてきた「日本三大湯治場」（秋田・玉川温泉の強酸性塩酸ラジウム泉、鳥取・三朝温泉の高濃度ラドン放射能泉、群馬・草津温泉の圧倒的湧出量と酸性硫黄泉）。現代人の疲れを根底から解きほぐす本格現代型湯治リトリート。楽天ふるさと納税トラベルクーポンで実質2,000円負担で叶える極上の逗留名宿ガイド。',
     url: baseUrl + '/furusato-tax-three-great-hot-spring-cure-toji-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoRound62ArticlePage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             日本三大湯治場・現代型温泉逗留ステイ特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            日本三大湯治場＆名湯治リトリート・本格効能温泉と逗留名宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">日本三大湯治場＆名湯治リトリート・本格効能温泉と逗留名宿</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             古来、人々は農閑期や心身の不調時に温泉地へと足を運び、一週間、十日と滞在して温泉の恵みを身体いっぱいに吸収する「湯治（とうじ）」を行ってきました。日本屈指の薬効を誇る「日本三大湯治場」——日本一の強酸性泉と天然ラジウム鉱石の岩盤浴で知られる秋田・玉川温泉、世界屈指の高濃度ラドンを含み細胞を活性化させる鳥取・三朝温泉、そして「恋の病以外すべてに効く」と謳われ圧倒的な湧出量を誇る群馬・草津温泉。現代の忙しない日常から離れ、滋味豊かな地産料理と本物の源泉に浸かる時間は、まさに最上のセルフケアです。楽天ふるさと納税の宿泊割引クーポンを活用すれば、有効期限3年のゆとりを活かして、連泊の本格湯治ステイも実質自己負担2,000円で驚くほど賢く実現できます。
           </p>

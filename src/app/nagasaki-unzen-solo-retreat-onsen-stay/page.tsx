@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagasaki-unzen-solo-retreat-onsen-stay/" },
-  title: '【雲仙温泉ひとり旅・雲仙地獄白濁おこもり】日本最初の国立公園・硫黄香る乳白色露天・島原半島美食！島原の歴史薫る高原リトリート厳選3宿',
+  title: '雲仙温泉ひとり旅・雲仙地獄白濁おこもり：日本最初の国立公園・硫黄香る乳白色露天・島原半島美食！島原の歴史薫る高原リトリート厳選3宿',
   description: '日本最初の国立公園に指定された高原温泉郷・雲仙！民芸調の温もりと自家源泉かけ流し露天風呂が評判の「民芸モダンの宿 雲仙福田屋」、アットホームなもてなしと良質な硫黄泉が愛される「民宿 関荘」、湯守の温かみと温泉三昧が叶う「民宿 雲仙」を楽天API最新データに基づき徹底比較。',
   keywords: '雲仙温泉 一人旅 宿,雲仙 ホテル 一人 温泉,雲仙福田屋,民宿 関荘,民宿 雲仙,雲仙地獄 ひとり旅 おこもり',
   openGraph: {
-    title: '【雲仙温泉ひとり旅・雲仙地獄白濁おこもり】日本最初の国立公園・硫黄香る乳白色露天・島原半島美食！島原の歴史薫る高原リトリート厳選3宿',
+    title: '雲仙温泉ひとり旅・雲仙地獄白濁おこもり：日本最初の国立公園・硫黄香る乳白色露天・島原半島美食！島原の歴史薫る高原リトリート厳選3宿',
     description: '日本最初の国立公園に指定された高原温泉郷・雲仙！民芸調の温もりと自家源泉かけ流し露天風呂が評判の「民芸モダンの宿 雲仙福田屋」、アットホームなもてなしと良質な硫黄泉が愛される「民宿 関荘」、湯守の温かみと温泉三昧が叶う「民宿 雲仙」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/nagasaki-unzen-solo-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【雲仙温泉ひとり旅・雲仙地獄白濁おこもり】日本最初の国立公園・硫黄香る乳白色露天・島原半島美食！島原の歴史薫る高原リトリート厳選3宿',
+    headline: '雲仙温泉ひとり旅・雲仙地獄白濁おこもり：日本最初の国立公園・硫黄香る乳白色露天・島原半島美食！島原の歴史薫る高原リトリート厳選3宿',
     description: '日本最初の国立公園に指定された高原温泉郷・雲仙！民芸調の温もりと自家源泉かけ流し露天風呂が評判の「民芸モダンの宿 雲仙福田屋」、アットホームなもてなしと良質な硫黄泉が愛される「民宿 関荘」、湯守の温かみと温泉三昧が叶う「民宿 雲仙」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             長崎・雲仙温泉ひとり旅＆雲仙地獄おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【雲仙温泉ひとり旅・雲仙地獄白濁おこもり】日本最初の国立公園・硫黄香る乳白色露天・島原半島美食！島原の歴史薫る高原リトリート厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「雲仙温泉ひとり旅・雲仙地獄白濁おこもり」日本最初の国立公園・硫黄香る乳白色露天・島原半島美食！島原の歴史薫る高原リトリート厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

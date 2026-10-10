@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hiroshima-miyajima-itsukushima-shrine-stay/" },
-  title: "【広島・宮島＆嚴島神社】海上大鳥居・弥山＆あなごめし宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "広島・宮島＆嚴島神社：海上大鳥居・弥山＆あなごめし宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "世界遺産「嚴島神社」の海に浮かぶ朱色の大鳥居、潮の満ち引きが織りなす絶景、原始林が息づく霊峰「弥山」パノラマ、宮島名物「あなごめし」や焼き牡蠣を徹底解説。島内温泉旅館や対岸オーシャンビューホテルを厳選。",
   keywords: ["広島", "宮島", "嚴島神社", "海上大鳥居", "弥山", "あなごめし宿", "温泉宿"],
 };
@@ -92,9 +92,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             MIYAJIMA & ITSUKUSHIMA GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【広島・宮島＆嚴島神社】世界遺産海上大鳥居・弥山ロープウエー＆あなごめし宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「広島・宮島＆嚴島神社」世界遺産海上大鳥居・弥山ロープウエー＆あなごめし宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-teal-100/90 leading-relaxed">
             日本三景の一つにして世界文化遺産、神が宿る島「宮島（厳島）」。満潮時にはまるで海に浮かんでいるかのように佇む嚴島神社の廻廊と朱色の大鳥居。干潮時には歩いて鳥居の足元まで近づける神秘的な潮の満ち引き。瀬戸内海の多島美を一望する霊峰・弥山、そして香ばしい秘伝タレのあなごめしと焼きたて牡蠣。歴史と自然の祈りが息づく安芸の宮島ステイへご案内します。
           </p>

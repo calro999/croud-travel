@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '日本三名橋＆歴史遺産を望むリバーサイド名宿×ふるさと納税完全ガイド【2026年最新】岩国錦帯橋・長崎眼鏡橋・東京日本橋の風情旅',
+  title: '日本三名橋＆歴史遺産を望むリバーサイド名宿×ふるさと納税厳選ガイド岩国錦帯橋・長崎眼鏡橋・東京日本橋の風情旅',
   description: '日本の土木建築美の最高峰！山口岩国「錦帯橋」の五連木造アーチと錦川清流温泉宿、長崎「眼鏡橋」の中島川散策と南蛮情緒クラシックホテル、東京「日本橋」の五街道起点と江戸情緒ラグジュアリーステイ。名橋の景観と伝統の美食を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: ["日本三名橋", "2026年最新", "岩国錦帯橋", "長崎眼鏡橋", "東京日本橋の風情旅", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-famous-bridges-heritage-stay/"
   },
   openGraph: {
-    title: '日本三名橋＆歴史遺産を望むリバーサイド名宿×ふるさと納税完全ガイド【2026年最新】岩国錦帯橋・長崎眼鏡橋・東京日本橋の風情旅',
+    title: '日本三名橋＆歴史遺産を望むリバーサイド名宿×ふるさと納税厳選ガイド岩国錦帯橋・長崎眼鏡橋・東京日本橋の風情旅',
     description: '日本の土木建築美の最高峰！山口岩国「錦帯橋」の五連木造アーチと錦川清流温泉宿、長崎「眼鏡橋」の中島川散策と南蛮情緒クラシックホテル、東京「日本橋」の五街道起点と江戸情緒ラグジュアリーステイ。名橋の景観と伝統の美食を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-famous-bridges-heritage-stay',
     type: 'article',
@@ -54,9 +54,7 @@ export default function FurusatoFeaturePage() {
             <span>✨</span>
             <span>日本三名橋・歴史リバーサイド特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            日本三名橋＆歴史遺産を望むリバーサイド名宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">日本三名橋＆歴史遺産を望むリバーサイド名宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             江戸時代以来の高度な匠の技術が息づく「日本三名橋」――山口岩国の錦帯橋、長崎の眼鏡橋、東京の日本橋。釘を使わずに組み上げられた木造五連アーチ、水面に映る円が美しい日本最古の石造二連アーチ、そして日本の道路網の起点となる荘厳な石造二連アーチ。水辺に佇む名橋を客室やテラスから眺め、城下町や宿場町として栄えた歴史情緒に浸る贅沢。周辺の老舗旅館や上質なシティホテルを楽天ふるさと納税の宿泊クーポンでお得に訪れてみませんか。
           </p>

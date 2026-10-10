@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '【2026年】生バラの花びらが浮かぶ優美な湯船！華やかなローズ風呂＆フラワーアロマ宿5選 ｜ 日本全国・旅宿クラウド',
+  title: '2026年：生バラの花びらが浮かぶ優美な湯船！華やかなローズ風呂＆フラワーアロマ宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！数百輪の色鮮やかな生バラを浮かべた贅沢なバラ風呂やハーブフラワーバス、天然アロマトリートメントで特別な記念日を彩る温泉宿5選。',
   keywords: ["2026年", "フラワーアロマ宿5選", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/organic-flower-bath-rose-herb-spa-stay/",
   },
   openGraph: {
-    title: '【2026年】生バラの花びらが浮かぶ優美な湯船！華やかなローズ風呂＆フラワーアロマ宿5選',
+    title: '2026年：生バラの花びらが浮かぶ優美な湯船！華やかなローズ風呂＆フラワーアロマ宿5選',
     description: '2026年最新！数百輪の色鮮やかな生バラを浮かべた贅沢なバラ風呂やハーブフラワーバス、天然アロマトリートメントで特別な記念日を彩る温泉宿5選。',
     url: 'https://croud-travel.pages.dev/organic-flower-bath-rose-herb-spa-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -172,9 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>生バラ風呂×ローズアロマ温泉</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            【2026年】生バラの花びらが浮かぶ優美な湯船！華やかなローズ風呂＆フラワーアロマ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」生バラの花びらが浮かぶ優美な湯船！華やかなローズ風呂＆フラワーアロマ宿5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             湯船いっぱいに敷き詰められた赤やピンクの生バラの花びら。甘く高貴なローズの香りに包まれる非日常のバスタイムは、まさに映画のワンシーン。記念日や誕生日、自分への最高のご褒美にふさわしい華やかなフラワー温泉ステイ。
           </p>

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/okinawa-packing-mistakes-sunburn-rentalcar-guide/" },
-  title: "【沖縄旅行で後悔したことワースト5】本州の3倍の紫外線で大火傷！？レンタカー返却渋滞＆必須持ち物 ｜ 日本全国・旅宿クラウド",
+  title: "沖縄旅行で後悔したことワースト5：本州の3倍の紫外線で大火傷！？レンタカー返却渋滞＆必須持ち物 ｜ 日本全国・旅宿クラウド",
   description: "沖縄旅行でありがちな失敗と後悔を完全回避！日焼け止めを塗っても火傷するシュノーケリング対策（ラッシュガード必須）、那覇空港周辺のレンタカー返却大渋滞で飛行機乗り遅れ危機、雨雲レーダー活用術。",
   keywords: ["必須持ち物", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
@@ -134,12 +134,7 @@ export default function OkinawaPackingMistakesGuidePage() {
             <span>🌺 OKINAWA MISTAKES & PACKING</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-black tracking-tight leading-tight md:leading-tight text-white font-journal-serif">
-            【沖縄旅行で後悔したことワースト5】<br className="hidden sm:inline" />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-300 via-teal-200 to-amber-200">
-              本州の3倍の紫外線で大火傷！？レンタカー返却渋滞＆必須持ち物
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-black tracking-tight leading-tight md:leading-tight text-white font-journal-serif">「沖縄旅行で後悔したことワースト5」<br className="hidden sm:inline" /> <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-300 via-teal-200 to-amber-200"> 本州の3倍の紫外線で大火傷！？レンタカー返却渋滞＆必須持ち物 </span></h1>
 
           <p className="text-sm md:text-base text-cyan-100/90 max-w-2xl mx-auto leading-relaxed">
             青い海と白い砂浜！忘れられない特別な時間になるはずが「日焼けで皮膚科送り」「レンタカー渋滞で那覇空港の飛行機に乗り遅れ。」…沖縄旅行経験者が「これだけは知っておきたかった」と悔やむリアルな落とし穴と対策を総まとめ。

@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/izu-ocean-view-couple-anniversary-guide/" },
-  title: "【熱海・伊豆 カップル客室露天風呂宿おすすめ】相模湾一望オーシャンビュー＆記念日ディナーの隠れ家 ｜ 日本全国・旅宿クラウド",
+  title: "熱海・伊豆 カップル客室露天風呂宿おすすめ：相模湾一望オーシャンビュー＆記念日ディナーの隠れ家 ｜ 日本全国・旅宿クラウド",
   description:
     "二人だけの海絶景を独占する熱海・伊豆高原のカップル向け客室露天風呂宿！水平線から昇る朝日や夜の海上花火を眺めながら過ごす贅沢な時間。記念日特典付きの大人限定リゾート旅館まとめ。",
   keywords: ["熱海", "伊豆", "カップル客室露天風呂宿おすすめ", "相模湾一望オーシャンビュー", "記念日ディナーの隠れ家", "温泉宿", "宿泊予約"],
@@ -141,12 +141,7 @@ export default function IzuOceanViewCoupleAnniversaryGuidePage() {
             </span>
           </div>
 
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight text-white drop-shadow-sm font-journal-serif">
-            【熱海・伊豆 カップル客室露天風呂宿おすすめ】<br />
-            <span className="bg-gradient-to-r from-cyan-200 via-teal-100 to-emerald-200 bg-clip-text text-transparent">
-              相模湾一望オーシャンビュー＆記念日ディナーの隠れ家
-            </span>
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight text-white drop-shadow-sm font-journal-serif">「熱海・伊豆 カップル客室露天風呂宿おすすめ」<br /> <span className="bg-gradient-to-r from-cyan-200 via-teal-100 to-emerald-200 bg-clip-text text-transparent"> 相模湾一望オーシャンビュー＆記念日ディナーの隠れ家 </span></h1>
 
           <p className="text-sm md:text-base text-cyan-100/90 leading-relaxed max-w-2xl font-medium">
             誰の目も気にせず、目の前に広がる相模湾の水平線と波音を二人だけで独占する贅沢。客室露天風呂から眺める朝焼け、金目鯛や伊豆牛を堪能するお祝いディナー、夜のムーンロードまで、大切なパートナーの誕生日や記念日を忘れられない特別な時間にする大人のための隠れ家宿をご案内します。

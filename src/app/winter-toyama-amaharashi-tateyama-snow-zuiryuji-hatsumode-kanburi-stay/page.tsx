@@ -3,14 +3,14 @@ import Link from 'next/link';
 import { MapPin, Calendar, Star, ExternalLink, ChevronRight, Sparkles, Compass, ShieldCheck, Heart } from 'lucide-react';
 
 export const metadata = {
-  title: '【富山湾越しの冠雪立山連峰・雨晴海岸と国宝瑞龍寺初詣】2026-2027年冬の富山・高岡＆氷見！寒ぶりの王様「ひみ寒ぶり」会席名宿5選',
+  title: '富山湾越しの冠雪立山連峰・雨晴海岸と国宝瑞龍寺初詣：2026-2027年冬の富山・高岡＆氷見！寒ぶりの王様「ひみ寒ぶり」会席名宿5選',
   description: '冬晴れの富山湾越しに3,000m級の立山連峰が海に浮かぶ奇跡の絶景「雨晴海岸」！前田利長公の菩提寺・国宝「高岡瑞龍寺」新春開運初詣。11月〜1月に極上の脂がのる「ひみ寒ぶり」の刺身・しゃぶしゃぶ・ブリ大根と展望温泉を満喫する富山の厳選名宿5選。',
   keywords: ['雨晴・高岡・氷見', '富山県 温泉', '冬旅行', '初詣', '11月旅行', '12月旅行', '1月旅行', '宿泊予約', '楽天トラベル'],
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-toyama-amaharashi-tateyama-snow-zuiryuji-hatsumode-kanburi-stay/',
   },
   openGraph: {
-    title: '【富山湾越しの冠雪立山連峰・雨晴海岸と国宝瑞龍寺初詣】2026-2027年冬の富山・高岡＆氷見！寒ぶりの王様「ひみ寒ぶり」会席名宿5選',
+    title: '富山湾越しの冠雪立山連峰・雨晴海岸と国宝瑞龍寺初詣：2026-2027年冬の富山・高岡＆氷見！寒ぶりの王様「ひみ寒ぶり」会席名宿5選',
     description: '冬晴れの富山湾越しに3,000m級の立山連峰が海に浮かぶ奇跡の絶景「雨晴海岸」！前田利長公の菩提寺・国宝「高岡瑞龍寺」新春開運初詣。11月〜1月に極上の脂がのる「ひみ寒ぶり」の刺身・しゃぶしゃぶ・ブリ大根と展望温泉を満喫する富山の厳選名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-toyama-amaharashi-tateyama-snow-zuiryuji-hatsumode-kanburi-stay/',
     siteName: '冬の日本厳選旅行ガイド',
@@ -27,7 +27,7 @@ export const metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: '【富山湾越しの冠雪立山連峰・雨晴海岸と国宝瑞龍寺初詣】2026-2027年冬の富山・高岡＆氷見！寒ぶりの王様「ひみ寒ぶり」会席名宿5選',
+    title: '富山湾越しの冠雪立山連峰・雨晴海岸と国宝瑞龍寺初詣：2026-2027年冬の富山・高岡＆氷見！寒ぶりの王様「ひみ寒ぶり」会席名宿5選',
     description: '冬晴れの富山湾越しに3,000m級の立山連峰が海に浮かぶ奇跡の絶景「雨晴海岸」！前田利長公の菩提寺・国宝「高岡瑞龍寺」新春開運初詣。11月〜1月に極上の脂がのる「ひみ寒ぶり」の刺身・しゃぶしゃぶ・ブリ大根と展望温泉を満喫する富山の厳選名宿5選。',
     images: ['https://img.travel.rakuten.co.jp/share/HOTEL/171911/171911.jpg'],
   },
@@ -230,9 +230,7 @@ export default function Page() {
               <span>2026-2027年冬（11月・12月・1月）完全ガイド</span>
             </div>
 
-            <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold tracking-tight leading-snug">
-              【富山湾越しの冠雪立山連峰・雨晴海岸と国宝瑞龍寺初詣】2026-2027年冬の富山・高岡＆氷見！寒ぶりの王様「ひみ寒ぶり」会席名宿5選
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold tracking-tight leading-snug">「富山湾越しの冠雪立山連峰・雨晴海岸と国宝瑞龍寺初詣」2026-2027年冬の富山・高岡＆氷見！寒ぶりの王様「ひみ寒ぶり」会席名宿5選</h1>
 
             <p className="text-sm sm:text-base text-stone-200 leading-relaxed pt-2">
               冬晴れの富山湾越しに3,000m級の立山連峰が海に浮かぶ奇跡の絶景「雨晴海岸」！前田利長公の菩提寺・国宝「高岡瑞龍寺」新春開運初詣。11月〜1月に極上の脂がのる「ひみ寒ぶり」の刺身・しゃぶしゃぶ・ブリ大根と展望温泉を満喫する富山の厳選名宿5選。

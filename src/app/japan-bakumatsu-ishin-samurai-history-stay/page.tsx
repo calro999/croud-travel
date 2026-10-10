@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-bakumatsu-ishin-samurai-history-stay/" },
-  title: "【幕末維新の歴史浪漫宿】萩・会津若松・高知・薩摩・龍馬ゆかりの宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "幕末維新の歴史浪漫宿：萩・会津若松・高知・薩摩・龍馬ゆかりの宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "幕末の志士たちが駆け抜けた激動の歴史舞台完全特化！明治維新胎動の地「山口・萩城下町＆松下村塾」、会津藩の誇り「福島・会津若松城＆東山温泉」、坂本龍馬の故郷「高知・桂浜」、西郷隆盛・大久保利通の「鹿児島・城山」を徹底解説。",
   keywords: ["幕末維新の歴史浪漫宿", "会津若松", "高知", "薩摩", "龍馬ゆかりの宿", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function HistoryHeritageHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             BAKUMATSU & SAMURAI GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【幕末維新の歴史浪漫宿】萩・会津若松・高知・薩摩・龍馬ゆかりの宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「幕末維新の歴史浪漫宿」萩・会津若松・高知・薩摩・龍馬ゆかりの宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             日本の夜明けを夢見た若き志士たちの足跡をたどる「幕末維新の歴史旅」。吉田松陰の松下村塾、白虎隊の悲話が伝わる飯盛山、龍馬が愛した名湯や会津の武家屋敷。激動の時代に思いを馳せながら、地元の名酒と郷土料理を味わう宿へ。
           </p>

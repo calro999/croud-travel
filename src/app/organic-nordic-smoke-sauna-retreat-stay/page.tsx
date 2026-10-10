@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】本場北欧の本格熱波！フィンランドサウナ＆ログハウスヴィラ温泉宿5選 | 日本全国・旅宿クラウド',
+  title: '2026年：本場北欧の本格熱波！フィンランドサウナ＆ログハウスヴィラ温泉宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！本場フィンランド直輸入の本格木造サウナ＆セルフロウリュ！白樺ヴィヒタとプライベート天然水風呂、森林外気浴を満喫するサウナリゾート5選。',
   keywords: ["2026年", "ログハウスヴィラ温泉宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: '【2026年】本場北欧の本格熱波！フィンランドサウナ＆ログハウスヴィラ温泉宿5選',
+    title: '2026年：本場北欧の本格熱波！フィンランドサウナ＆ログハウスヴィラ温泉宿5選',
     description: '2026年最新！本場フィンランド直輸入の本格木造サウナ＆セルフロウリュ！白樺ヴィヒタとプライベート天然水風呂、森林外気浴を満喫するサウナリゾート5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/organic-nordic-smoke-sauna-retreat-stay',
@@ -193,9 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> 本場フィンランドサウナ×ログハウス温泉宿
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】本場北欧の本格熱波！フィンランドサウナ＆ログハウスヴィラ温泉宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」本場北欧の本格熱波！フィンランドサウナ＆ログハウスヴィラ温泉宿5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             木の温もりあふれるフィンランド直輸入の本格木造サウナ。白樺のヴィヒタで香りを楽しみながらアロマ水でセルフロウリュ。冷たい天然水風呂と森林テラスの外気浴で心身を完全に解き放つ至極のサウナリトリート。
           </p>

@@ -42,9 +42,7 @@ export default function Page() {
             <span className="inline-block w-2 h-2 rounded-full bg-rose-400 animate-pulse" />
             日本三大盆踊り・伝統の熱気特集
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">
-            日本三大盆踊り＆伝統文化・城下町宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三大盆踊り＆伝統文化・城下町宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg md:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed font-normal">
             日本の夏の魂を揺さぶる伝統の祭典！秋田「西馬音内の盆踊」端縫い衣装と編笠の幽玄な舞と湯沢名湯川原田館、岐阜「郡上おどり」三十三夜続く熱気と郡上八幡の名水城下町ステイ、徳島「阿波おどり」四百年の情熱と阿波尾鶏・鳴門鯛を味わうJRホテルクレメント徳島。日本三大盆踊りの熱気と文化を楽天ふるさと納税宿泊クーポンでお得に体感する完全ガイド。
           </p>

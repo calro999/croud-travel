@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【波佐見焼のモダン器美学】お洒落なうつわで味わう長崎創作フレンチ＆嬉野・雲仙温泉宿5選",
+  title: "波佐見焼のモダン器美学：お洒落なうつわで味わう長崎創作フレンチ＆嬉野・雲仙温泉宿5選",
   description: "若手クリエイターにも大人気のモダンな伝統陶磁器「波佐見焼（はさみやき）」！洗練された器に美しく盛り付けられた創作フレンチや長崎和牛、そして嬉野・雲仙の名湯に心癒やされるスタイリッシュな温泉旅。",
   keywords: "嬉野温泉 露天風呂 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/traditional-nagasaki-hasami-yaki-porcelain-stay/",
   },
   openGraph: {
-    title: "【波佐見焼のモダン器美学】お洒落なうつわで味わう長崎創作フレンチ＆嬉野・雲仙温泉宿5選",
+    title: "波佐見焼のモダン器美学：お洒落なうつわで味わう長崎創作フレンチ＆嬉野・雲仙温泉宿5選",
     description: "若手クリエイターにも大人気のモダンな伝統陶磁器「波佐見焼（はさみやき）」！洗練された器に美しく盛り付けられた創作フレンチや長崎和牛、そして嬉野・雲仙の名湯に心癒やされるスタイリッシュな温泉旅。",
     url: 'https://croud-travel.pages.dev/traditional-nagasaki-hasami-yaki-porcelain-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【波佐見焼のモダン器美学】お洒落なうつわで味わう長崎創作フレンチ＆嬉野・雲仙温泉宿5選",
+    title: "波佐見焼のモダン器美学：お洒落なうつわで味わう長崎創作フレンチ＆嬉野・雲仙温泉宿5選",
     description: "若手クリエイターにも大人気のモダンな伝統陶磁器「波佐見焼（はさみやき）」！洗練された器に美しく盛り付けられた創作フレンチや長崎和牛、そして嬉野・雲仙の名湯に心癒やされるスタイリッシュな温泉旅。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>波佐見焼の器＆創作美食</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【波佐見焼のモダン器美学】お洒落なうつわで味わう長崎創作フレンチ＆嬉野・雲仙温泉宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「波佐見焼のモダン器美学」お洒落なうつわで味わう長崎創作フレンチ＆嬉野・雲仙温泉宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             若手クリエイターにも大人気のモダンな伝統陶磁器「波佐見焼（はさみやき）」！洗練された器に美しく盛り付けられた創作フレンチや長崎和牛、そして嬉野・雲仙の名湯に心癒やされるスタイリッシュな温泉旅。
           </p>

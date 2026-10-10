@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/morioka-solo-business-noodles-onsen-stay/" },
-  title: '【盛岡出張＆麺都ひとり旅】盛岡駅近・天然温泉大浴場・盛岡三大麺（冷麺・じゃじゃ麺・わんこそば）！北東北の要所で整う極上宿 厳選3選',
+  title: '盛岡出張＆麺都ひとり旅：盛岡駅近・天然温泉大浴場・盛岡三大麺（冷麺・じゃじゃ麺・わんこそば）！北東北の要所で整う極上宿 厳選3選',
   description: '東北・秋田新幹線の結節点・岩手県盛岡市！「JR盛岡駅前徒歩すぐで広々バスルーム完備。」の「ダイワロイネットホテル盛岡駅前」、最上階に自家源泉の天然温泉大浴場と夜鳴きそば完備の「ドーミーイン盛岡」、駅直結で快適なワーク環境を誇る老舗「ホテルメトロポリタン盛岡 本館」を徹底比較。',
   keywords: '盛岡 出張 ホテル おすすめ,盛岡 一人旅 ホテル,ドーミーイン盛岡 温泉,ダイワロイネットホテル盛岡駅前 宿泊,盛岡 冷麺 ホテル',
   openGraph: {
-    title: '【盛岡出張＆麺都ひとり旅】盛岡駅近・天然温泉大浴場・盛岡三大麺（冷麺・じゃじゃ麺・わんこそば）！北東北の要所で整う極上宿 厳選3選',
+    title: '盛岡出張＆麺都ひとり旅：盛岡駅近・天然温泉大浴場・盛岡三大麺（冷麺・じゃじゃ麺・わんこそば）！北東北の要所で整う極上宿 厳選3選',
     description: '東北・秋田新幹線の結節点・岩手県盛岡市！「JR盛岡駅前徒歩すぐで広々バスルーム完備。」の「ダイワロイネットホテル盛岡駅前」、最上階に自家源泉の天然温泉大浴場と夜鳴きそば完備の「ドーミーイン盛岡」、駅直結で快適なワーク環境を誇る老舗「ホテルメトロポリタン盛岡 本館」を徹底比較。',
     url: 'https://croud-travel.pages.dev/morioka-solo-business-noodles-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【盛岡出張＆麺都ひとり旅】盛岡駅近・天然温泉大浴場・盛岡三大麺（冷麺・じゃじゃ麺・わんこそば）！北東北の要所で整う極上宿 厳選3選',
+    headline: '盛岡出張＆麺都ひとり旅：盛岡駅近・天然温泉大浴場・盛岡三大麺（冷麺・じゃじゃ麺・わんこそば）！北東北の要所で整う極上宿 厳選3選',
     description: '東北・秋田新幹線の結節点・岩手県盛岡市！「JR盛岡駅前徒歩すぐで広々バスルーム完備。」の「ダイワロイネットホテル盛岡駅前」、最上階に自家源泉の天然温泉大浴場と夜鳴きそば完備の「ドーミーイン盛岡」、駅直結で快適なワーク環境を誇る老舗「ホテルメトロポリタン盛岡 本館」を徹底比較。',
     author: {
       '@type': 'Organization',
@@ -74,9 +74,7 @@ export default function ArticlePage() {
           <span>✨</span>
           <span>盛岡・出張＆三大麺・天然温泉特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【盛岡出張＆麺都ひとり旅】盛岡駅近・天然温泉大浴場・盛岡三大麺（冷麺・じゃじゃ麺・わんこそば）！北東北の要所で整う極上宿 厳選3選
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">「盛岡出張＆麺都ひとり旅」盛岡駅近・天然温泉大浴場・盛岡三大麺（冷麺・じゃじゃ麺・わんこそば）！北東北の要所で整う極上宿 厳選3選</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
           東北・秋田新幹線の結節点・岩手県盛岡市！「JR盛岡駅前徒歩すぐで広々バスルーム完備。」の「ダイワロイネットホテル盛岡駅前」、最上階に自家源泉の天然温泉大浴場と夜鳴きそば完備の「ドーミーイン盛岡」、駅直結で快適なワーク環境を誇る老舗「ホテルメトロポリタン盛岡 本館」を徹底比較。
         </p>

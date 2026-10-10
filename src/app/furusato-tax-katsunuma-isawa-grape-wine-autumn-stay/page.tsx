@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            勝沼ぶどう郷のワイナリー巡りと石和温泉！山梨の新酒甲州ワイン・甲州牛＆ほうとうを味わう秋旅
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">勝沼ぶどう郷のワイナリー巡りと石和温泉！山梨の新酒甲州ワイン・甲州牛＆ほうとうを味わう秋旅</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             実りの甲州路を巡るワイナリー探訪と、名湯石和の美肌温泉・秋の味覚のマリアージュ
           </p>

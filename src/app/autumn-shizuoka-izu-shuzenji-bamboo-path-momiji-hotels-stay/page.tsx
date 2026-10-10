@@ -3,11 +3,11 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【秋の伊豆・修善寺温泉】竹林の小径紅葉と桂川の清流散策！歴史薫る風雅なおすすめ名旅館5選【2026最新】',
+  title: '秋の伊豆・修善寺温泉：竹林の小径紅葉と桂川の清流散策！歴史薫る風雅なおすすめ名旅館5選「2026最新」',
   description: '「伊豆の小京都」修善寺温泉の竹林の小径と桂川に架かる朱塗りの橋を彩る鮮やかな紅葉。文化財の老舗宿や野趣あふれる離れ宿など厳選5宿をご紹介。柳生の庄、宙SORA、新井旅館の魅力を徹底比較！',
   keywords: '修善寺温泉 紅葉, 竹林の小径 見頃, 伊豆 修善寺 旅館, 柳生の庄, 新井旅館 文化財, 宙SORA 渡月荘金龍',
   openGraph: {
-    title: '【秋の伊豆・修善寺温泉】竹林の小径紅葉と桂川の清流散策！歴史薫る風雅なおすすめ名旅館5選【2026最新】',
+    title: '秋の伊豆・修善寺温泉：竹林の小径紅葉と桂川の清流散策！歴史薫る風雅なおすすめ名旅館5選「2026最新」',
     description: '「伊豆の小京都」修善寺温泉の竹林の小径と桂川に架かる朱塗りの橋を彩る鮮やかな紅葉。歴史薫る名旅館5選。',
     type: 'article',
     url: 'https://croud-travel.com/autumn-shizuoka-izu-shuzenji-bamboo-path-momiji-hotels-stay',
@@ -32,9 +32,7 @@ export default function IzuShuzenjiAutumnPage() {
             <span className="px-3 py-1 bg-amber-600 text-white text-xs font-bold rounded-full">秋の伊豆・温泉特集</span>
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">見頃目安: 11月中旬〜12月上旬</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">
-            【秋の伊豆・修善寺温泉】竹林の小径紅葉と桂川の清流散策！歴史薫る風雅なおすすめ名旅館5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の伊豆・修善寺温泉」竹林の小径紅葉と桂川の清流散策！歴史薫る風雅なおすすめ名旅館5選</h1>
           <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
             桂川のせせらぎに寄り添う石畳と竹林の青、そして頭上を覆う真紅のカエデ。文人墨客に愛された伊豆最古の湯の街で、贅沢な懐石料理と名湯に癒やされる珠玉の宿をご案内します。
           </p>

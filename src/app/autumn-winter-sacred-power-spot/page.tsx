@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-sacred-power-spot/" },
-  title: "【心洗われる神域】開運パワースポット＆歴史の宿坊・温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "心洗われる神域：開運パワースポット＆歴史の宿坊・温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "新年の開運・心の浄化！和歌山・高野山（宿坊ステイ＆精進料理）、長野・戸隠神社（白銀の杉並木）、島根・出雲大社（玉造温泉）、和歌山・熊野三山（那智の滝）など、静寂の聖地と名湯宿を徹底解説。",
   keywords: ["心洗われる神域", "開運パワースポット", "歴史の宿坊", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -98,9 +98,7 @@ export default function SeasonalFeaturePage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             SACRED RETREAT & POWER SPOT
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【心洗われる神域】開運パワースポット＆歴史の宿坊・温泉宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「心洗われる神域」開運パワースポット＆歴史の宿坊・温泉宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             澄み渡る神聖な空気に包まれ、日頃の雑踏から離れて自分自身と向き合うリトリート。歴史ある寺院宿坊での朝勤行や護摩焚き体験、神話の息づく古社参拝と美肌温泉で心身を清める極上の旅へ。
           </p>

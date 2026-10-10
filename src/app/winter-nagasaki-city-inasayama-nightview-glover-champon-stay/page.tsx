@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月長崎】稲佐山1000万ドルの冬夜景！名宿5選',
+  title: '11・12・1月長崎：稲佐山1000万ドルの冬夜景！名宿5選',
   description: '11月から1月、大気が澄み渡る冬の長崎は、モナコ・上海と並び「世界新三大夜景」に認定された稲佐山からのパノラマ夜景が年間で最も美しく輝く最高。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '稲佐山 夜景 冬, 世界新三大夜景 長崎, グラバー園 イルミネーション, 長崎ちゃんぽん 新地中華街, 卓袱料理 長崎, 稲佐山観光ホテル, ガーデンテラス長崎, ルークプラザホテル, ホテルニュー長崎, 諏訪神社 初詣, 11月 12月 1月 長崎旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagasaki-city-inasayama-nightview-glover-champon-stay/"
   },
   openGraph: {
-    title: '【11・12・1月長崎】稲佐山1000万ドルの冬夜景！名宿5選',
+    title: '11・12・1月長崎：稲佐山1000万ドルの冬夜景！名宿5選',
     description: '11月から1月、大気が澄み渡る冬の長崎は、モナコ・上海と並び「世界新三大夜景」に認定された稲佐山からのパノラマ夜景が年間で最も美しく輝く最高。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-nagasaki-city-inasayama-nightview-glover-champon-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月長崎】世界新三大夜景・稲佐山1000万ドルの冬夜景とグラバー園イルミネーション＆本場ちゃんぽん・卓袱料理を巡る夜景特等席名宿5選",
+    title: "11・12・1月長崎：世界新三大夜景・稲佐山1000万ドルの冬夜景とグラバー園イルミネーション＆本場ちゃんぽん・卓袱料理を巡る夜景特等席名宿5選",
     description: "11月から1月、大気が澄み渡る冬の長崎は、モナコ・上海と並び「世界新三大夜景」に認定された稲佐山からのパノラマ夜景が年間で最も美しく輝く最高のシーズンを迎えます。洋館が温かな光に包まれるグラバー園のウィンターイルミネーション、石畳のオランダ坂、湯気立ち上る長崎新地中華街の濃厚ちゃんぽんや皿うどん・熱々の角煮まんじゅう、老舗料亭で受け継がれる長崎伝統「卓袱（しっぽく）料理」、そしてお諏訪さん（鎮西大社 諏訪神社）での冬の初詣。すり鉢状の港町を見下ろす夜景特等席の名宿5選とモデルコースをご紹介します。",
     images: ['https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80']
   }
@@ -42,7 +42,7 @@ export default function NagasakiCityInasayamaWinterPage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: "【11・12・1月長崎】世界新三大夜景・稲佐山1000万ドルの冬夜景とグラバー園イルミネーション＆本場ちゃんぽん・卓袱料理を巡る夜景特等席名宿5選",
+    headline: "11・12・1月長崎：世界新三大夜景・稲佐山1000万ドルの冬夜景とグラバー園イルミネーション＆本場ちゃんぽん・卓袱料理を巡る夜景特等席名宿5選",
     description: "11月から1月、大気が澄み渡る冬の長崎は、モナコ・上海と並び「世界新三大夜景」に認定された稲佐山からのパノラマ夜景が年間で最も美しく輝く最高のシーズンを迎えます。洋館が温かな光に包まれるグラバー園のウィンターイルミネーション、石畳のオランダ坂、湯気立ち上る長崎新地中華街の濃厚ちゃんぽんや皿うどん・熱々の角煮まんじゅう、老舗料亭で受け継がれる長崎伝統「卓袱（しっぽく）料理」、そしてお諏訪さん（鎮西大社 諏訪神社）での冬の初詣。すり鉢状の港町を見下ろす夜景特等席の名宿5選とモデルコースをご紹介します。",
     image: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80',
     datePublished: '',
@@ -283,9 +283,7 @@ export default function NagasakiCityInasayamaWinterPage() {
             <Sparkles className="w-4 h-4 text-amber-300" />
             11月・12月・1月 冬の長崎・世界新三大夜景＆グラバー園イルミネーション特集
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【11・12・1月長崎】世界新三大夜景・稲佐山1000万ドルの冬夜景とグラバー園イルミネーション＆本場ちゃんぽん・卓袱料理を巡る夜景特等席名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「11・12・1月長崎」世界新三大夜景・稲佐山1000万ドルの冬夜景とグラバー園イルミネーション＆本場ちゃんぽん・卓袱料理を巡る夜景特等席名宿5選</h1>
           <p className="text-slate-300 text-sm sm:text-base md:text-lg max-w-3xl leading-relaxed">
             1年の中で大気の透明度が最高潮に達する冬の長崎。標高333mの稲佐山から見渡す光の海は、モナコや上海と並び称される「世界新三大夜景」の真骨頂。石畳の南山手を彩るグラバー園のイルミネーション、湯気立ち上る新地中華街の濃厚ちゃんぽんや角煮まんじゅう、和華乱文化が息づく伝統の卓袱料理、そして新春の諏訪神社初詣。すり鉢状の美しい港町を見下ろす特等席のホテルで過ごす、心あたたまる冬の異国情緒ステイへ。
           </p>

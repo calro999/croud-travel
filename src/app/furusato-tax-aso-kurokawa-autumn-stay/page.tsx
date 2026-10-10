@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            阿蘇外輪山と大観峰の黄金ススキ！黒川温泉入湯手形露天めぐり・熊本あか牛＆馬刺しを味わう秋の九州旅
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">阿蘇外輪山と大観峰の黄金ススキ！黒川温泉入湯手形露天めぐり・熊本あか牛＆馬刺しを味わう秋の九州旅</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             カルデラを黄金に染めるススキの海と、渓谷の湯けむり漂う黒川の露天めぐり
           </p>

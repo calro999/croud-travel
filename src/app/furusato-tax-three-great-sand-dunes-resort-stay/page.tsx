@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '日本三大砂丘＆雄大パノラマ・砂の絶景リゾート宿×ふるさと納税完全ガイド【2026年最新】鳥取砂丘・中田島砂丘・吹上浜の海宿',
+  title: '日本三大砂丘＆雄大パノラマ・砂の絶景リゾート宿×ふるさと納税厳選ガイド鳥取砂丘・中田島砂丘・吹上浜の海宿',
   description: '地平線に続く風紋と黄金の丘！鳥取「鳥取砂丘」の夕日パノラマと皆生温泉・カニ会席、静岡浜松「中田島砂丘」の遠州灘ウミガメの浜と浜名湖うなぎ宿、鹿児島「吹上浜」の47km白砂青松と天然砂むし温泉。風と砂が織りなす異国情緒リゾートを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: ["日本三大砂丘", "雄大パノラマ", "2026年最新", "鳥取砂丘", "中田島砂丘", "吹上浜の海宿", "温泉宿"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-sand-dunes-resort-stay/"
   },
   openGraph: {
-    title: '日本三大砂丘＆雄大パノラマ・砂の絶景リゾート宿×ふるさと納税完全ガイド【2026年最新】鳥取砂丘・中田島砂丘・吹上浜の海宿',
+    title: '日本三大砂丘＆雄大パノラマ・砂の絶景リゾート宿×ふるさと納税厳選ガイド鳥取砂丘・中田島砂丘・吹上浜の海宿',
     description: '地平線に続く風紋と黄金の丘！鳥取「鳥取砂丘」の夕日パノラマと皆生温泉・カニ会席、静岡浜松「中田島砂丘」の遠州灘ウミガメの浜と浜名湖うなぎ宿、鹿児島「吹上浜」の47km白砂青松と天然砂むし温泉。風と砂が織りなす異国情緒リゾートを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-sand-dunes-resort-stay',
     type: 'article',
@@ -54,9 +54,7 @@ export default function FurusatoFeaturePage() {
             <span>✨</span>
             <span>日本三大砂丘・オーシャン砂景特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            日本三大砂丘＆雄大パノラマ・砂の絶景リゾート宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">日本三大砂丘＆雄大パノラマ・砂の絶景リゾート宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             日本海や太平洋の強風と波が気の遠くなるような時間をかけて創り出した「日本三大砂丘」――鳥取砂丘（鳥取）、中田島砂丘（静岡）、吹上浜（鹿児島）。風が吹くたびに砂の表面に現れる美しい幾何学模様「風紋」、砂丘の稜線の向こうに広がる青い海、そして夕暮れ時にすべてが茜色に染まるマジックアワー。まるで海外の砂漠リゾートを訪れたかのような非日常感を味わいながら、周辺の名湯や豪華な海鮮会席を楽しむ旅を楽天ふるさと納税でお得に叶えましょう。
           </p>

@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '松尾芭蕉ゆかりの山寺・立石寺の絶景紅葉＆天童温泉！山形牛と名湯旅館×ふるさと納税完全ガイド【2026年最新秋旅】山形',
+  title: '松尾芭蕉ゆかりの山寺・立石寺の絶景紅葉＆天童温泉！山形牛と名湯旅館×ふるさと納税厳選ガイド山形',
   description: '10月下旬〜11月上旬に見頃を迎える名刹「山寺・宝珠山立石寺（りっしゃくじ）」。1015段の石段を登った五大堂からの錦秋大パノラマ、将棋駒の街・天童温泉の名門宿「天童ホテル」「松の湯」「あづま荘」で美肌温泉やA5山形牛・名物芋煮を堪能。楽天ふるさと納税で実質2,000円で泊まるみちのく秋旅ガイド。',
   keywords: ["松尾芭蕉ゆかりの山寺", "立石寺の絶景紅葉", "2026年最新秋旅", "山形", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-tendo-yamadera-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '松尾芭蕉ゆかりの山寺・立石寺の絶景紅葉＆天童温泉！山形牛と名湯旅館×ふるさと納税完全ガイド【2026年最新秋旅】山形',
+    title: '松尾芭蕉ゆかりの山寺・立石寺の絶景紅葉＆天童温泉！山形牛と名湯旅館×ふるさと納税厳選ガイド山形',
     description: '10月下旬〜11月上旬に見頃を迎える名刹「山寺・宝珠山立石寺（りっしゃくじ）」。1015段の石段を登った五大堂からの錦秋大パノラマ、将棋駒の街・天童温泉の名門宿「天童ホテル」「松の湯」「あづま荘」で美肌温泉やA5山形牛・名物芋煮を堪能。楽天ふるさと納税で実質2,000円で泊まるみちのく秋旅ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-tendo-yamadera-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FeatureArticlePage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               山形・天童温泉＆宝珠山山寺紅葉特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              松尾芭蕉ゆかりの山寺・立石寺の絶景紅葉＆天童温泉！山形牛と名湯旅館×ふるさと納税完全ガイド【2026年最新秋旅】山形
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">松尾芭蕉ゆかりの山寺・立石寺の絶景紅葉＆天童温泉！山形牛と名湯旅館×ふるさと納税厳選ガイド山形</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               10月下旬〜11月上旬に見頃を迎える名刹「山寺・宝珠山立石寺（りっしゃくじ）」。1015段の石段を登った五大堂からの錦秋大パノラマ、将棋駒の街・天童温泉の名門宿「天童ホテル」「松の湯」「あづま荘」で美肌温泉やA5山形牛・名物芋煮を堪能。楽天ふるさと納税で実質2,000円で泊まるみちのく秋旅ガイド。
             </p>

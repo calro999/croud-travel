@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hokkaido-sounkyo-solo-retreat-gorge-onsen-stay/" },
-  title: '【大雪山・層雲峡温泉ひとり旅・柱状節理断崖おこもり】24時間源泉掛け流し・銀河流星の滝・蝦夷鹿＆旭川ラーメン！大雪山国立公園の秘境厳選3宿',
+  title: '大雪山・層雲峡温泉ひとり旅・柱状節理断崖おこもり：24時間源泉掛け流し・銀河流星の滝・蝦夷鹿＆旭川ラーメン！大雪山国立公園の秘境厳選3宿',
   description: '大雪山黒岳の麓にそびえる大峡谷・層雲峡温泉！驚異の口コミ★5.0満点を誇る自家源泉掛け流しと心温まるもてなしの隠れ宿「ホテル雲井」、24時間源泉掛け流し露天風呂と無料サービス充実の「湯元 銀泉閣」、アットホームな居心地と温泉が人気の「温泉ペンション銀河」を楽天API最新データに基づき徹底比較。',
   keywords: '層雲峡温泉 一人旅 宿,層雲峡 ホテル 一人 温泉,ホテル雲井 層雲峡,銀泉閣 層雲峡,温泉ペンション銀河,大雪山 ひとり旅 おこもり',
   openGraph: {
-    title: '【大雪山・層雲峡温泉ひとり旅・柱状節理断崖おこもり】24時間源泉掛け流し・銀河流星の滝・蝦夷鹿＆旭川ラーメン！大雪山国立公園の秘境厳選3宿',
+    title: '大雪山・層雲峡温泉ひとり旅・柱状節理断崖おこもり：24時間源泉掛け流し・銀河流星の滝・蝦夷鹿＆旭川ラーメン！大雪山国立公園の秘境厳選3宿',
     description: '大雪山黒岳の麓にそびえる大峡谷・層雲峡温泉！驚異の口コミ★5.0満点を誇る自家源泉掛け流しと心温まるもてなしの隠れ宿「ホテル雲井」、24時間源泉掛け流し露天風呂と無料サービス充実の「湯元 銀泉閣」、アットホームな居心地と温泉が人気の「温泉ペンション銀河」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/hokkaido-sounkyo-solo-retreat-gorge-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【大雪山・層雲峡温泉ひとり旅・柱状節理断崖おこもり】24時間源泉掛け流し・銀河流星の滝・蝦夷鹿＆旭川ラーメン！大雪山国立公園の秘境厳選3宿',
+    headline: '大雪山・層雲峡温泉ひとり旅・柱状節理断崖おこもり：24時間源泉掛け流し・銀河流星の滝・蝦夷鹿＆旭川ラーメン！大雪山国立公園の秘境厳選3宿',
     description: '大雪山黒岳の麓にそびえる大峡谷・層雲峡温泉！驚異の口コミ★5.0満点を誇る自家源泉掛け流しと心温まるもてなしの隠れ宿「ホテル雲井」、24時間源泉掛け流し露天風呂と無料サービス充実の「湯元 銀泉閣」、アットホームな居心地と温泉が人気の「温泉ペンション銀河」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             北海道・層雲峡温泉ひとり旅＆大雪山峡谷おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【大雪山・層雲峡温泉ひとり旅・柱状節理断崖おこもり】24時間源泉掛け流し・銀河流星の滝・蝦夷鹿＆旭川ラーメン！大雪山国立公園の秘境厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「大雪山・層雲峡温泉ひとり旅・柱状節理断崖おこもり」24時間源泉掛け流し・銀河流星の滝・蝦夷鹿＆旭川ラーメン！大雪山国立公園の秘境厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

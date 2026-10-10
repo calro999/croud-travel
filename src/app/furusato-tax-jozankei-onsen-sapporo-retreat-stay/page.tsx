@@ -3,11 +3,11 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【定山渓温泉×ふるさと納税】札幌の奥座敷！名湯露天風呂と北海道美食バイキング＆隠れ家リゾートガイド｜ぬくもりの宿ふる川・定山渓ビューホテル・翠山亭',
+  title: '定山渓温泉をふるさと納税でお得に旅する！札幌の奥座敷！名湯露天風呂と北海道美食バイキング＆隠れ家リゾートガイド｜ぬくもりの宿ふる川・定山渓ビューホテル・翠山亭',
   description: '札幌中心部から約1時間！国立公園の豊かな渓谷に佇む「定山渓温泉」を楽天ふるさと納税でお得に旅する。民芸と囲炉裏の温もりが愛される「ふる川」、巨大屋内温水プールとビュッフェ自慢の「定山渓ビューホテル」、源泉掛け流しと炭火会席の「翠山亭」を徹底紹介。札幌市トラベルクーポンの使い方も解説。',
   keywords: '定山渓温泉 ふるさと納税,定山渓 旅館 楽天トラベル,ぬくもりの宿ふる川 ふるさと納税,定山渓ビューホテル クーポン,札幌市 ふるさと納税 宿泊',
   openGraph: {
-    title: '【定山渓温泉×ふるさと納税】札幌の奥座敷！名湯露天風呂と北海道美食バイキング＆隠れ家リゾートガイド｜ぬくもりの宿ふる川・定山渓ビューホテル・翠山亭',
+    title: '定山渓温泉をふるさと納税でお得に旅する！札幌の奥座敷！名湯露天風呂と北海道美食バイキング＆隠れ家リゾートガイド｜ぬくもりの宿ふる川・定山渓ビューホテル・翠山亭',
     description: '札幌中心部から約1時間！国立公園の豊かな渓谷に佇む「定山渓温泉」を楽天ふるさと納税でお得に旅する。民芸と囲炉裏の温もりが愛される「ふる川」、巨大屋内温水プールとビュッフェ自慢の「定山渓ビューホテル」、源泉掛け流しと炭火会席の「翠山亭」を徹底紹介。札幌市トラベルクーポンの使い方も解説。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-jozankei-onsen-sapporo-retreat-stay',
@@ -54,9 +54,7 @@ export default function FurusatoTaxArticle() {
             <span>•</span>
             <span>自治体公認 宿泊割引</span>
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-5xl font-extrabold tracking-tight text-white font-serif leading-tight">
-            【定山渓温泉×ふるさと納税】札幌の奥座敷！名湯露天風呂と北海道美食バイキング＆隠れ家リゾートガイド｜ぬくもりの宿ふる川・定山渓ビューホテル・翠山亭
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-5xl font-extrabold tracking-tight text-white font-serif leading-tight">定山渓温泉をふるさと納税でお得に旅する！札幌の奥座敷！名湯露天風呂と北海道美食バイキング＆隠れ家リゾートガイド｜ぬくもりの宿ふる川・定山渓ビューホテル・翠山亭</h1>
           <p className="text-stone-300 text-sm md:text-base max-w-2xl mx-auto pt-2 leading-relaxed">
             札幌中心部から約1時間！国立公園の豊かな渓谷に佇む「定山渓温泉」を楽天ふるさと納税でお得に旅する。民芸と囲炉裏の温もりが愛される「ふる川」、巨大屋内温水プールとビュッフェ自慢の「定山渓ビューホテル」、源泉掛け流しと炭火会席の「翠山亭」を徹底紹介。札幌市トラベルクーポンの使い方も解説。
           </p>

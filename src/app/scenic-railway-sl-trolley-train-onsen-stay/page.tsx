@@ -180,9 +180,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            車窓を流れる絶景とレトロな汽笛！SL・トロッコ観光列車の旅と途中下車の名湯旅館
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">車窓を流れる絶景とレトロな汽笛！SL・トロッコ観光列車の旅と途中下車の名湯旅館</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             吹き抜ける爽快な風を浴びながらエメラルドグリーンの渓谷を渡るトロッコ列車や、力強く煙を上げて走る蒸気機関車（SL）。ガタゴトと揺れるノスタルジックな車窓風景を楽しんだ後は、沿線の名湯旅館で美味しい郷土料理に舌鼓。のんびりとした時間の流れを愛でる鉄道旅へ。
           </p>

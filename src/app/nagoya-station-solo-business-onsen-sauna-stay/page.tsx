@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagoya-station-solo-business-onsen-sauna-stay/" },
-  title: '【名古屋出張・サウナ温泉ステイ】名駅・栄アクセス・天然温泉錦鯱の湯・聖地ウェルビー今池！中部ビジネスを制する厳選3宿',
+  title: '名古屋出張・サウナ温泉ステイ：名駅・栄アクセス・天然温泉錦鯱の湯・聖地ウェルビー今池！中部ビジネスを制する厳選3宿',
   description: '東海道新幹線「のぞみ」停車・中部国際空港からも直通！栄の繁華街中心で天然温泉大浴場と高温サウナを完備する「ドーミーインPREMIUM名古屋栄」、全国サウナーの聖地でからふろや露天外気浴が揃う「ウェルビー今池」、丸の内ビジネス街で手頃に天然温泉を堪能できる「ホテルリブマックスPREMIUM名古屋丸の内。」を徹底比較。',
   keywords: '名古屋 出張 ホテル,名古屋 サウナ ホテル,ドーミーインPREMIUM名古屋栄,ウェルビー今池,名古屋 温泉 ビジネス,名駅 ひとり旅',
   openGraph: {
-    title: '【名古屋出張・サウナ温泉ステイ】名駅・栄アクセス・天然温泉錦鯱の湯・聖地ウェルビー今池！中部ビジネスを制する厳選3宿',
+    title: '名古屋出張・サウナ温泉ステイ：名駅・栄アクセス・天然温泉錦鯱の湯・聖地ウェルビー今池！中部ビジネスを制する厳選3宿',
     description: '東海道新幹線「のぞみ」停車・中部国際空港からも直通！栄の繁華街中心で天然温泉大浴場と高温サウナを完備する「ドーミーインPREMIUM名古屋栄」、全国サウナーの聖地でからふろや露天外気浴が揃う「ウェルビー今池」、丸の内ビジネス街で手頃に天然温泉を堪能できる「ホテルリブマックスPREMIUM名古屋丸の内。」を徹底比較。',
     url: 'https://croud-travel.pages.dev/nagoya-station-solo-business-onsen-sauna-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【名古屋出張・サウナ温泉ステイ】名駅・栄アクセス・天然温泉錦鯱の湯・聖地ウェルビー今池！中部ビジネスを制する厳選3宿',
+    headline: '名古屋出張・サウナ温泉ステイ：名駅・栄アクセス・天然温泉錦鯱の湯・聖地ウェルビー今池！中部ビジネスを制する厳選3宿',
     description: '東海道新幹線「のぞみ」停車・中部国際空港からも直通！栄の繁華街中心で天然温泉大浴場と高温サウナを完備する「ドーミーインPREMIUM名古屋栄」、全国サウナーの聖地でからふろや露天外気浴が揃う「ウェルビー今池」、丸の内ビジネス街で手頃に天然温泉を堪能できる「ホテルリブマックスPREMIUM名古屋丸の内。」を徹底比較。',
     author: {
       '@type': 'Organization',
@@ -72,9 +72,7 @@ export default function ArticlePage() {
         <div className="inline-block bg-amber-700 text-white text-xs font-semibold px-3 py-1 rounded-full mb-3 tracking-wider">
           ひとり旅・出張・サウナ＆名湯特集
         </div>
-        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">
-          【名古屋出張・サウナ温泉ステイ】名駅・栄アクセス・天然温泉錦鯱の湯・聖地ウェルビー今池！中部ビジネスを制する厳選3宿
-        </h1>
+        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">「名古屋出張・サウナ温泉ステイ」名駅・栄アクセス・天然温泉錦鯱の湯・聖地ウェルビー今池！中部ビジネスを制する厳選3宿</h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.13 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>

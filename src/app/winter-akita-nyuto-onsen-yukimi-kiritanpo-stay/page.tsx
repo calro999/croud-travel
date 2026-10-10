@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月乳頭温泉郷】ブナ原生林の雪見露天風呂と本！名宿5選',
+  title: '乳頭温泉郷で過ごす冬の旅（11・12月）！ブナ原生林の雪見露天風呂と本！名宿5選',
   description: '11月中旬からブナの原生林が純白の雪に包まれる十和田八幡平国立公園・乳頭温泉郷。乳白色の湯けむりが立ち上る野趣あふれる雪見露天風呂と、囲炉裏端でいただく比内地鶏の出汁が染み渡る熱々の本場きりたんぽ鍋。冬の東北が誇る究極の秘湯旅ガイド。',
   keywords: '乳頭温泉 宿泊 11月 12月, 乳頭温泉郷 雪見露天 旅館, 鶴の湯 秘湯 冬, 秋田 きりたんぽ 温泉宿, 乳頭温泉 秘湯めぐり, 田沢湖 温泉, 乳頭温泉 モデルコース',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay/",
   },
   openGraph: {
-    title: '【11・12月乳頭温泉郷】ブナ原生林の雪見露天風呂と本！名宿5選',
+    title: '乳頭温泉郷で過ごす冬の旅（11・12月）！ブナ原生林の雪見露天風呂と本！名宿5選',
     description: '11月中旬からブナの原生林が純白の雪に包まれる十和田八幡平国立公園・乳頭温泉郷。乳白色の湯けむりが立ち上る野趣あふれる雪見露天風呂と、囲炉裏端でいただく比内地鶏の出汁が染み渡る熱々の本場きりたんぽ鍋。冬の東北が誇る究極の秘湯旅ガイド。',
     url: 'https://croud-travel.pages.dev/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月乳頭温泉郷の白銀秘湯めぐり】ブナ原生林の雪見露天風呂と本場きりたんぽ鍋の宿5選",
+    title: "乳頭温泉郷の白銀秘湯めぐりで過ごす冬の旅（11・12月）！ブナ原生林の雪見露天風呂と本場きりたんぽ鍋の宿5選",
     description: "11月中旬からブナの原生林が純白の雪に包まれる十和田八幡平国立公園・乳頭温泉郷。乳白色の湯けむりが立ち上る野趣あふれる雪見露天風呂と、囲炉裏端でいただく比内地鶏の出汁が染み渡る熱々の本場きりたんぽ鍋。冬の東北が誇る究極の秘湯旅ガイド。",
   }
 };
@@ -266,10 +266,7 @@ export default function NyutoWinterPage() {
             <Sparkles className="w-4 h-4 text-emerald-300" />
             <span>11月・12月限定 日本屈指の秘湯雪見旅</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月乳頭温泉郷の白銀秘湯めぐり】<br className="hidden sm:inline" />
-            ブナ原生林の雪見露天風呂と本場きりたんぽ鍋の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">乳頭温泉郷の白銀秘湯めぐりで過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> ブナ原生林の雪見露天風呂と本場きりたんぽ鍋の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             十和田八幡平の深い山懐、樹齢数百年のブナ原生林が雪に包まれる季節。乳白色や茶褐色の湯けむりが舞い上がる雪見露天風呂に浸かり、囲炉裏端でいただく本場比内地鶏の出汁が染みた熱々きりたんぽ鍋。冬の日本が誇る究極の秘湯旅へ。
           </p>

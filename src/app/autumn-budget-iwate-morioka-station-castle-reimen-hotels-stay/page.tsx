@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【盛岡駅前】盛岡城跡公園の紅葉＆名物盛岡冷麺・じゃじゃ麺！3,000円台〜泊まれる格安ホテル5選',
+  title: '盛岡駅前：盛岡城跡公園の紅葉＆名物盛岡冷麺・じゃじゃ麺！3,000円台〜泊まれる格安ホテル5選',
   description: '美しい花崗岩の石垣と紅葉が映える盛岡城跡公園（岩手公園）！牛骨スープと弾力麺が絶品の盛岡冷麺、チータンタンで締める盛岡じゃじゃ麺。東北新幹線・JR盛岡駅周辺で1泊3,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>盛岡城跡公園の石垣紅葉＆盛岡冷麺・盛岡じゃじゃ麺</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【盛岡駅前】盛岡城跡の紅葉＆名物三大麺！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「盛岡駅前」盛岡城跡の紅葉＆名物三大麺！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             石川啄木や宮沢賢治も愛した杜と水の都・盛岡。盛岡城跡公園の重厚な石垣を鮮やかに彩るカエデの紅葉。強いコシのツルツル麺とコク深い牛骨スープが自慢の「盛岡冷麺」、特製肉味噌を絡めて最後に卵スープで締める「盛岡じゃじゃ麺」に舌鼓！盛岡駅周辺で3,000円台〜泊まれる優良ホテルを厳選。
           </p>

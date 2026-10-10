@@ -3,11 +3,11 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【由布院温泉×ふるさと納税】金鱗湖の朝霧＆由布岳絶景！全室離れ露天風呂付き隠れ家名宿ガイド｜旅亭田乃倉・ゆふいん花由・ゆふいん月燈庵',
+  title: '由布院温泉をふるさと納税でお得に旅する！金鱗湖の朝霧＆由布岳絶景！全室離れ露天風呂付き隠れ家名宿ガイド｜旅亭田乃倉・ゆふいん花由・ゆふいん月燈庵',
   description: '日本中の旅行者が憧れる名湯・由布院温泉を楽天ふるさと納税でお得にリゾートステイ！金鱗湖徒歩1分で本格懐石を味わう「旅亭 田乃倉」、由布岳と朝霧を見晴らす高台の離れ宿「ゆふいん花由」、築三百年古民家と客室露天風呂の「ゆふいん月燈庵」を徹底比較。大分県由布市トラベルクーポン活用術を網羅。',
   keywords: '由布院温泉 ふるさと納税,由布院 離れ 露天風呂 ふるさと納税,旅亭田乃倉 ふるさと納税,ゆふいん花由 クーポン,由布市 ふるさと納税 宿泊',
   openGraph: {
-    title: '【由布院温泉×ふるさと納税】金鱗湖の朝霧＆由布岳絶景！全室離れ露天風呂付き隠れ家名宿ガイド｜旅亭田乃倉・ゆふいん花由・ゆふいん月燈庵',
+    title: '由布院温泉をふるさと納税でお得に旅する！金鱗湖の朝霧＆由布岳絶景！全室離れ露天風呂付き隠れ家名宿ガイド｜旅亭田乃倉・ゆふいん花由・ゆふいん月燈庵',
     description: '日本中の旅行者が憧れる名湯・由布院温泉を楽天ふるさと納税でお得にリゾートステイ！金鱗湖徒歩1分で本格懐石を味わう「旅亭 田乃倉」、由布岳と朝霧を見晴らす高台の離れ宿「ゆふいん花由」、築三百年古民家と客室露天風呂の「ゆふいん月燈庵」を徹底比較。大分県由布市トラベルクーポン活用術を網羅。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-yufuin-kinrinko-luxury-villa-stay',
@@ -54,9 +54,7 @@ export default function FurusatoTaxArticle() {
             <span>•</span>
             <span>自治体公認 宿泊割引</span>
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-5xl font-extrabold tracking-tight text-white font-serif leading-tight">
-            【由布院温泉×ふるさと納税】金鱗湖の朝霧＆由布岳絶景！全室離れ露天風呂付き隠れ家名宿ガイド｜旅亭田乃倉・ゆふいん花由・ゆふいん月燈庵
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-5xl font-extrabold tracking-tight text-white font-serif leading-tight">由布院温泉をふるさと納税でお得に旅する！金鱗湖の朝霧＆由布岳絶景！全室離れ露天風呂付き隠れ家名宿ガイド｜旅亭田乃倉・ゆふいん花由・ゆふいん月燈庵</h1>
           <p className="text-stone-300 text-sm md:text-base max-w-2xl mx-auto pt-2 leading-relaxed">
             日本中の旅行者が憧れる名湯・由布院温泉を楽天ふるさと納税でお得にリゾートステイ！金鱗湖徒歩1分で本格懐石を味わう「旅亭 田乃倉」、由布岳と朝霧を見晴らす高台の離れ宿「ゆふいん花由」、築三百年古民家と客室露天風呂の「ゆふいん月燈庵」を徹底比較。大分県由布市トラベルクーポン活用術を網羅。
           </p>

@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kanazawa-early-morning-breakfast-cafe-guide/" },
-  title: "【金沢駅・近江町市場 早朝朝食おすすめ7選】朝7時から開いている海鮮丼・絶品おにぎり・純喫茶モーニング",
+  title: "金沢駅・近江町市場 早朝朝食おすすめ7選：朝7時から開いている海鮮丼・絶品おにぎり・純喫茶モーニング",
   description:
     "夜行バスや始発新幹線で金沢に着いたらここへ！混雑前の近江町市場で食べる朝獲れ海鮮丼、金沢駅あんと内の早朝カフェ、地元民に愛される老舗純喫茶のモーニング、朝食クチコミ高評価ホテル特集。",
   keywords: ["金沢駅", "近江町市場", "早朝朝食おすすめ7選", "朝7時から開いている海鮮丼", "絶品おにぎり", "純喫茶モーニング", "温泉宿"],
@@ -184,12 +184,7 @@ export default function KanazawaEarlyMorningBreakfastPage() {
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-amber-500/10 border border-amber-500/30 text-amber-300 text-xs font-semibold mb-4 tracking-wide">
             <span className="animate-pulse">🌅</span> 早朝6:30・7:00台から動ける北陸美食案内
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold text-white tracking-tight leading-snug mb-5">
-            【金沢駅・近江町市場 早朝朝食おすすめ7選】
-            <span className="block text-amber-400 mt-2 text-xl sm:text-3xl font-black">
-              朝7時から開いている海鮮丼・絶品おにぎり・純喫茶モーニング
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold text-white tracking-tight leading-snug mb-5">「金沢駅・近江町市場 早朝朝食おすすめ7選」 <span className="block text-amber-400 mt-2 text-xl sm:text-3xl font-black"> 朝7時から開いている海鮮丼・絶品おにぎり・純喫茶モーニング </span></h1>
           <p className="text-slate-300 text-sm sm:text-base leading-relaxed mb-6">
             夜行高速バスや北陸新幹線の始発で金沢駅に降り立った瞬間から旅は始まっています。
             日中は大行列の近江町市場海鮮丼を待ち時間ゼロで味わう裏ワザから、金沢駅直結の炊きたて米おにぎり、

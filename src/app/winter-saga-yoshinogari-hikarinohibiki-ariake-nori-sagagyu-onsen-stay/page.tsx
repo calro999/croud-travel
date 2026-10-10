@@ -16,11 +16,11 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【古代環濠の灯火・吉野ヶ里光の響と冬の初摘み有明海苔】2026-2027年冬の佐賀・神埼＆佐賀城下！古湯名湯と最高峰佐賀牛名宿5選 | 旅行キュレーション',
+  title: '古代環濠の灯火・吉野ヶ里光の響と冬の初摘み有明海苔：2026-2027年冬の佐賀・神埼＆佐賀城下！古湯名湯と最高峰佐賀牛名宿5選 | 旅行キュレーション',
   description: '数千個のキャンドルと熱気球が幻想的に夜空を彩る12月の吉野ヶ里歴史公園「光の響」と佐賀城下町！11〜1月に旬を迎える冬の最高峰「有明海初摘み海苔」と口の中でとろける極上「佐賀牛」、ぬる湯名湯・古湯温泉に癒やされる冬の厳選名宿5選。',
   keywords: ['佐賀・吉野ヶ里・古湯', '冬旅行', '新春初詣', '温泉', '名宿', '佐賀県観光', '楽天トラベル', 'ふるさと納税'],
   openGraph: {
-    title: '【古代環濠の灯火・吉野ヶ里光の響と冬の初摘み有明海苔】2026-2027年冬の佐賀・神埼＆佐賀城下！古湯名湯と最高峰佐賀牛名宿5選',
+    title: '古代環濠の灯火・吉野ヶ里光の響と冬の初摘み有明海苔：2026-2027年冬の佐賀・神埼＆佐賀城下！古湯名湯と最高峰佐賀牛名宿5選',
     description: '数千個のキャンドルと熱気球が幻想的に夜空を彩る12月の吉野ヶ里歴史公園「光の響」と佐賀城下町！11〜1月に旬を迎える冬の最高峰「有明海初摘み海苔」と口の中でとろける極上「佐賀牛」、ぬる湯名湯・古湯温泉に癒やされる冬の厳選名宿5選。',
     images: ['https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Yoshinogari-iseki_zenkei.JPG/1280px-Yoshinogari-iseki_zenkei.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail'],
     type: 'article',
@@ -214,9 +214,7 @@ export default function Page() {
               <span>2026-2027年冬（11月・12月・1月）最新厳選ガイド</span>
             </div>
 
-            <h1 className="text-2xl sm:text-3xl md:text-4xl font-black tracking-tight leading-tight text-white">
-              【古代環濠の灯火・吉野ヶ里光の響と冬の初摘み有明海苔】2026-2027年冬の佐賀・神埼＆佐賀城下！古湯名湯と最高峰佐賀牛名宿5選
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl font-black tracking-tight leading-tight text-white">「古代環濠の灯火・吉野ヶ里光の響と冬の初摘み有明海苔」2026-2027年冬の佐賀・神埼＆佐賀城下！古湯名湯と最高峰佐賀牛名宿5選</h1>
 
             <p className="text-sm sm:text-base text-stone-300 leading-relaxed max-w-3xl pt-2">
               数千個のキャンドルと熱気球が幻想的に夜空を彩る12月の吉野ヶ里歴史公園「光の響」と佐賀城下町！11〜1月に旬を迎える冬の最高峰「有明海初摘み海苔」と口の中でとろける極上「佐賀牛」、ぬる湯名湯・古湯温泉に癒やされる冬の厳選名宿5選。

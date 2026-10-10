@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '奥入瀬渓流の黄金紅葉トンネル＆十和田湖畔温泉！十和田荘・賑山亭・プリンスホテル×ふるさと納税完全ガイド【2026年最新秋旅】青森・秋田',
+  title: '奥入瀬渓流の黄金紅葉トンネル＆十和田湖畔温泉！十和田荘・賑山亭・プリンスホテル×ふるさと納税厳選ガイド青森・秋田',
   description: '10月中旬〜11月上旬に見頃を迎える日本屈指の紅葉スポット「奥入瀬渓流」と「十和田湖」。黄金色に染まるブナの原生林と清流のコントラスト、十和田湖畔温泉の名宿「ホテル十和田荘」「とわだこ賑山亭」「十和田プリンスホテル」で十和田バラ焼きや旬の味覚を堪能。楽天ふるさと納税で実質2,000円で泊まる紅葉ガイド。',
   keywords: ["奥入瀬渓流の黄金紅葉トンネル", "十和田湖畔温泉！十和田荘", "賑山亭", "プリンスホテル×ふるさと納税", "2026年最新秋旅", "青森", "秋田"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-oirase-towada-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '奥入瀬渓流の黄金紅葉トンネル＆十和田湖畔温泉！十和田荘・賑山亭・プリンスホテル×ふるさと納税完全ガイド【2026年最新秋旅】青森・秋田',
+    title: '奥入瀬渓流の黄金紅葉トンネル＆十和田湖畔温泉！十和田荘・賑山亭・プリンスホテル×ふるさと納税厳選ガイド青森・秋田',
     description: '10月中旬〜11月上旬に見頃を迎える日本屈指の紅葉スポット「奥入瀬渓流」と「十和田湖」。黄金色に染まるブナの原生林と清流のコントラスト、十和田湖畔温泉の名宿「ホテル十和田荘」「とわだこ賑山亭」「十和田プリンスホテル」で十和田バラ焼きや旬の味覚を堪能。楽天ふるさと納税で実質2,000円で泊まる紅葉ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-oirase-towada-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FeatureArticlePage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               奥入瀬渓流・十和田湖 錦秋紅葉散策特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              奥入瀬渓流の黄金紅葉トンネル＆十和田湖畔温泉！十和田荘・賑山亭・プリンスホテル×ふるさと納税完全ガイド【2026年最新秋旅】青森・秋田
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">奥入瀬渓流の黄金紅葉トンネル＆十和田湖畔温泉！十和田荘・賑山亭・プリンスホテル×ふるさと納税厳選ガイド青森・秋田</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               10月中旬〜11月上旬に見頃を迎える日本屈指の紅葉スポット「奥入瀬渓流」と「十和田湖」。黄金色に染まるブナの原生林と清流のコントラスト、十和田湖畔温泉の名宿「ホテル十和田荘」「とわだこ賑山亭」「十和田プリンスホテル」で十和田バラ焼きや旬の味覚を堪能。楽天ふるさと納税で実質2,000円で泊まる紅葉ガイド。
             </p>

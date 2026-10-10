@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】大空を舞う感動体験！パラグライダー＆大パノラマ展望露天リゾート5選 | 日本全国・旅宿クラウド',
+  title: '2026年：大空を舞う感動体験！パラグライダー＆大パノラマ展望露天リゾート5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！白馬・朝霧高原・阿蘇などで空を飛ぶパラグライダー体験！雄大な山並みを見渡す展望露天風呂と爽快アクティビティが魅力の宿5選。',
   keywords: ["2026年", "大パノラマ展望露天リゾート5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: '【2026年】大空を舞う感動体験！パラグライダー＆大パノラマ展望露天リゾート5選',
+    title: '2026年：大空を舞う感動体験！パラグライダー＆大パノラマ展望露天リゾート5選',
     description: '2026年最新！白馬・朝霧高原・阿蘇などで空を飛ぶパラグライダー体験！雄大な山並みを見渡す展望露天風呂と爽快アクティビティが魅力の宿5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/super-panoramic-paragliding-sky-resort-stay',
@@ -193,9 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> 大空パラグライダー×絶景パノラマ露天
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】大空を舞う感動体験！パラグライダー＆大パノラマ展望露天リゾート5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」大空を舞う感動体験！パラグライダー＆大パノラマ展望露天リゾート5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             鳥のように大空を滑空し、眼下に広がる壮大な山並みや湖を眺めるパラグライダー体験。インストラクターとのタンデムフライトで爽快な空中散歩を楽しんだ後は、雲海や山絶景を望むパノラマ露天風呂で心地よい余韻に浸る旅。
           </p>

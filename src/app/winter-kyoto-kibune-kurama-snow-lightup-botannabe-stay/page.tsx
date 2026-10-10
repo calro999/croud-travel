@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月京都】雪の貴船神社積雪日限定ライトアップ！名宿5選',
+  title: '11・12・1月京都：雪の貴船神社積雪日限定ライトアップ！名宿5選',
   description: '冬の京都で最も幽玄な美しさを放つ洛北の奥座敷・貴船、鞍馬、大原。しんしんと降り積もる白銀の雪と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '貴船 旅館, 大原 温泉, 貴船神社 積雪ライトアップ, ぼたん鍋 京都, 貴船ふじや, お宿 芹生, 料理旅館 右源太, 大原の里, 11月 12月 1月 京都 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kyoto-kibune-kurama-snow-lightup-botannabe-stay/"
   },
   openGraph: {
-    title: '【11・12・1月京都】雪の貴船神社積雪日限定ライトアップ！名宿5選',
+    title: '11・12・1月京都：雪の貴船神社積雪日限定ライトアップ！名宿5選',
     description: '冬の京都で最も幽玄な美しさを放つ洛北の奥座敷・貴船、鞍馬、大原。しんしんと降り積もる白銀の雪と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-kyoto-kibune-kurama-snow-lightup-botannabe-stay',
     siteName: '地域の宿探訪',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月京都】雪の貴船神社積雪日限定ライトアップ＆奥座敷冬情趣！名物ぼたん鍋と名湯京懐石の隠れ家名宿5選",
+    title: "11・12・1月京都：雪の貴船神社積雪日限定ライトアップ＆奥座敷冬情趣！名物ぼたん鍋と名湯京懐石の隠れ家名宿5選",
     description: "冬の京都で最も幽玄な美しさを放つ洛北の奥座敷・貴船、鞍馬、大原。しんしんと降り積もる白銀の雪と、貴船神社の石段を照らす朱塗りの春日灯籠が織りなす「積雪日限定ライトアップ」は息を呑む奇跡の絶景。静寂に包まれた三千院の庭園や鞍馬寺の凛とした空気、囲炉裏端で味わう熱々の名物「ぼたん鍋（猪肉の白味噌仕立て）」や大原温泉の雪見露天風呂に癒やされる冬の京都隠れ家トリップ。楽天APIから最新取得した洛北奥座敷の極上料理旅館＆温泉宿5選を徹底特集します。",
     images: ["https://img.travel.rakuten.co.jp/share/HOTEL/143368/143368.jpg"]
   }
@@ -232,10 +232,7 @@ export default function KyotoKibuneKuramaWinterPage() {
             <span>11月・12月・1月冬の京都奥座敷＆名湯隠れ家特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">
-            雪の貴船神社積雪日限定ライトアップ＆奥座敷冬情趣！<br className="hidden sm:inline" />
-            名物ぼたん鍋と名湯京懐石の隠れ家名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">雪の貴船神社積雪日限定ライトアップ＆奥座敷冬情趣！<br className="hidden sm:inline" /> 名物ぼたん鍋と名湯京懐石の隠れ家名宿5選</h1>
 
           <p className="text-slate-300 text-sm sm:text-base lg:text-lg leading-relaxed max-w-3xl mb-8">
             しんしんと降り積もる白銀の雪と、貴船神社の石段を照らし出す朱塗りの春日灯籠。大原三千院の静まり返った雪庭、囲炉裏端でグツグツと煮立つ秘伝白味噌仕立ての天然ぼたん鍋、そして大原温泉の雪見露天風呂。冬だからこそ出会える、静寂と極上の温もりに満ちた京都奥座敷の旅へご案内します。

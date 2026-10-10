@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/yamagata-tendo-yamadera-cherry-stay/" },
-  title: "【山形・天童温泉＆山寺立石寺】将棋の街・千段の石段絶景＆山形牛・さくらんぼ宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "山形・天童温泉＆山寺立石寺：将棋の街・千段の石段絶景＆山形牛・さくらんぼ宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "将棋駒の生産日本一と松尾芭蕉の名刹・山形天童＆山寺立石寺エリア完全特化！1015段の石段を登る「山寺（宝珠山立石寺）」五大堂絶景、天童温泉の美肌湯、最高級山形牛ステーキ、本場さくらんぼ狩り宿を徹底解説。",
   keywords: ["山形", "天童温泉", "山寺立石寺", "将棋の街", "千段の石段絶景", "山形牛", "さくらんぼ宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             TENDO & YAMADERA GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【山形・天童温泉＆山寺立石寺】将棋の街・千段の石段絶景＆山形牛・さくらんぼ宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「山形・天童温泉＆山寺立石寺」将棋の街・千段の石段絶景＆山形牛・さくらんぼ宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             松尾芭蕉が「閑さや岩にしみ入る蝉の声」と詠んだ奇岩の名刹「山寺（宝珠山立石寺）」。全国の将棋駒の9割以上を生産する「将棋の街・天童」。舞鶴山の桜と人間将棋、美肌の天童温泉、とろける山形牛を味わう山形王道旅。
           </p>

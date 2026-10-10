@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月高湯温泉＆土湯温泉】吾妻連峰の雪見露天と白濁薬湯！名宿5選',
+  title: '高湯温泉＆土湯温泉で過ごす冬の旅（11・12月）！吾妻連峰の雪見露天と白濁薬湯！名宿5選',
   description: '11月から12月にかけて、福島県福島市の西部にそびえる吾妻連峰の山懐は、澄み渡る冷気と初雪に包まれます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '高湯温泉 宿泊, 土湯温泉 旅館, 高湯温泉 花月ハイランドホテル, 旅館 玉子湯, 安達屋, 土湯温泉 山水荘, 土湯別邸 里の湯, 福島牛, 白濁硫黄泉, 11月 12月 福島温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukushima-takayu-tsuchiyu-onsen-yukimi-fukushimagyu-stay/"
   },
   openGraph: {
-    title: '【11・12月高湯温泉＆土湯温泉】吾妻連峰の雪見露天と白濁薬湯！名宿5選',
+    title: '高湯温泉＆土湯温泉で過ごす冬の旅（11・12月）！吾妻連峰の雪見露天と白濁薬湯！名宿5選',
     description: '11月から12月にかけて、福島県福島市の西部にそびえる吾妻連峰の山懐は、澄み渡る冷気と初雪に包まれます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-fukushima-takayu-tsuchiyu-onsen-yukimi-fukushimagyu-stay',
     siteName: 'クラドトラベル',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月福島・高湯温泉＆土湯温泉】吾妻連峰の雪見露天と白濁薬湯・名物福島牛と地酒を味わう名宿5選",
+    title: "福島・高湯温泉＆土湯温泉で過ごす冬の旅（11・12月）！吾妻連峰の雪見露天と白濁薬湯・名物福島牛と地酒を味わう名宿5選",
     description: "11月から12月にかけて、福島県福島市の西部にそびえる吾妻連峰の山懐は、澄み渡る冷気と初雪に包まれます。奥羽三高湯の筆頭として名高い「高湯温泉」は、加水・加温・循環・消毒を一切行わない全国屈指の完全源泉掛け流し宣言を掲げ、青白く濁る強烈な硫黄泉が雪景色の中に湧き立ちます。一方、吾妻小富士の麓に位置する「土湯温泉」は、荒川の清流沿いに木造のこけし工房や湯宿が立ち並び、炭酸水素塩泉や単純温泉など多彩な湯巡りが楽しめます。初冬の冷え切った身体を包み込む白濁湯と渓谷露天風呂、夕食にはきめ細やかな霜降りと上品な甘みが特徴の「福島牛」の陶板焼きやすき焼き、会津や中通りの名酒蔵が醸す新酒、郷土料理のいかにんじんや温かい芋煮。初冬の福島奥座敷で心身を解きほぐす厳選名宿5選を詳しく紹介します。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -248,12 +248,7 @@ export default function WinterFukushimaTakayuTsuchiyuPage() {
             11月・12月 吾妻連峰の初雪と白濁完全掛け流し薬湯特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月福島・高湯温泉＆土湯温泉】雪見露天と白濁薬湯
-            <span className="block text-cyan-300 text-lg sm:text-2xl mt-3 font-normal">
-              吾妻連峰の初雪景色・完全源泉掛け流しと極上福島牛・地酒を味わう名宿5選
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">福島・高湯温泉＆土湯温泉で過ごす冬の旅（11・12月）！雪見露天と白濁薬湯 <span className="block text-cyan-300 text-lg sm:text-2xl mt-3 font-normal"> 吾妻連峰の初雪景色・完全源泉掛け流しと極上福島牛・地酒を味わう名宿5選 </span></h1>
 
           <p className="text-sm sm:text-base text-stone-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、福島県福島市の西部にそびえる吾妻連峰の山懐は、澄み渡る冷気と初雪に包まれます。奥羽三高湯の筆頭として名高い「高湯温泉」は、加水・加温・循環・消毒を一切行わない全国屈指の完全源泉掛け流し宣言を掲げ、青白く濁る強烈な硫黄泉が雪景色の中に湧き立ちます。一方、吾妻小富士の麓に位置する「土湯温泉」は、荒川の清流沿いに木造のこけし工房や湯宿が立ち並び、炭酸水素塩泉や単純温泉など多彩な湯巡りが楽しめます。初冬の冷え切った身体を包み込む白濁湯と渓谷露天風呂、夕食にはきめ細やかな霜降りと上品な甘みが特徴の「福島牛」の陶板焼きやすき焼き、会津や中通りの名酒蔵が醸す新酒、郷土料理のいかにんじんや温かい芋煮。初冬の福島奥座敷で心身を解きほぐす厳選名宿5選を詳しく紹介します。

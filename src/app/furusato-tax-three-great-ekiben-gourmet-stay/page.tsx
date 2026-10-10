@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-ekiben-gourmet-stay/" },
-  title: '日本三大駅弁＆鉄道旅情・元祖の味と極上ブランド牛・名湯宿×ふるさと納税完全ガイド【2026年最新】峠の釜めし・いかめし・松阪牛弁当',
+  title: '日本三大駅弁＆鉄道旅情・元祖の味と極上ブランド牛・名湯宿×ふるさと納税厳選ガイド峠の釜めし・いかめし・松阪牛弁当',
   description: '旅の情緒と地域の美味が詰まった日本三大駅弁の聖地巡り！群馬安中「峠の釜めし」益子焼の器に山の幸とおもてなし磯部温泉ホテル磯部ガーデン、北海道森町「元祖森名物いかめし」秘伝タレ炊き込みとラ・ジェント・ステイ函館駅前、三重松阪「松阪牛駅弁・モー太郎弁当」極上黒毛和牛の贅とホテルAU松阪。日本三大駅弁の旅情と美食を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大駅弁・鉄道美味特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大駅弁＆鉄道旅情・元祖の味と極上ブランド牛・名湯宿×ふるさと納税完全ガイド【2026年最新】峠の釜めし・いかめし・松阪牛弁当',
+    title: '日本三大駅弁＆鉄道旅情・元祖の味と極上ブランド牛・名湯宿×ふるさと納税厳選ガイド峠の釜めし・いかめし・松阪牛弁当',
     description: '旅の情緒と地域の美味が詰まった日本三大駅弁の聖地巡り！群馬安中「峠の釜めし」益子焼の器に山の幸とおもてなし磯部温泉ホテル磯部ガーデン、北海道森町「元祖森名物いかめし」秘伝タレ炊き込みとラ・ジェント・ステイ函館駅前、三重松阪「松阪牛駅弁・モー太郎弁当」極上黒毛和牛の贅とホテルAU松阪。日本三大駅弁の旅情と美食を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-ekiben-gourmet-stay',
@@ -142,9 +142,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大駅弁・鉄道美味特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大駅弁＆名物ご当地グルメ・鉄道旅情宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大駅弁＆名物ご当地グルメ・鉄道旅情宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             鉄道の発展とともに駅頭で生まれ、旅人の腹と心を満たし続けてきた「日本三大駅弁」――信越本線横川駅で誕生し益子焼の土釜に鶏肉やうずらの卵・栗・杏子など色とりどりの山の幸を炊き込んだ群馬安中の「峠の釜めし（おぎのや）」、函館本線森駅で生まれ小ぶりな真イカにもち米とうるち米を詰めて甘辛い秘伝タレでじっくり炊き上げた北海道の「いかめし（阿部商店）」、そして紀勢本線松阪駅で鉄道旅の最高峰の贅沢として愛されメロディが鳴る牛型容器でも有名な三重の「松阪牛駅弁・モー太郎弁当（新竹商店）」。駅弁の深い歴史と元祖の味を堪能した後は、名湯温泉やブランド牛ディナーに舌鼓を打つ極上の旅情を楽天ふるさと納税でお楽しみください。
           </p>

@@ -3,11 +3,11 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【秋の箱根】仙石原すすき草原の黄金絨毯と強羅温泉にごり湯！秋絶景を愛でるおすすめ名宿5選【2026最新】',
+  title: '秋の箱根：仙石原すすき草原の黄金絨毯と強羅温泉にごり湯！秋絶景を愛でるおすすめ名宿5選「2026最新」',
   description: '台ヶ岳の山麓に広がる箱根仙石原すすき草原の一面黄金色の波と、大涌谷源泉の乳白色にごり湯を満喫！センチュリオン箱根別邸、BLISSTIA箱根仙石原など、秋の箱根を極上の温泉と美食で満喫する厳選宿5選をご紹介。',
   keywords: '箱根 すすき 草原, 仙石原 ススキ 見頃, 箱根 にごり湯 宿, 強羅温泉 秋, センチュリオン箱根別邸, BLISSTIA箱根仙石原',
   openGraph: {
-    title: '【秋の箱根】仙石原すすき草原の黄金絨毯と強羅温泉にごり湯！秋絶景を愛でるおすすめ名宿5選【2026最新】',
+    title: '秋の箱根：仙石原すすき草原の黄金絨毯と強羅温泉にごり湯！秋絶景を愛でるおすすめ名宿5選「2026最新」',
     description: '台ヶ岳の山麓に広がる箱根仙石原すすき草原の一面黄金色の波と、大涌谷源泉の乳白色にごり湯を満喫！',
     type: 'article',
     url: 'https://croud-travel.com/autumn-kanagawa-hakone-sengokuhara-susuki-onsen-hotels-stay',
@@ -32,9 +32,7 @@ export default function HakoneSengokuharaAutumnPage() {
             <span className="px-3 py-1 bg-amber-600 text-white text-xs font-bold rounded-full">秋の箱根特集</span>
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">見頃目安: 10月上旬〜11月上旬</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">
-            【秋の箱根】仙石原すすき草原の黄金絨毯と強羅温泉にごり湯！秋絶景を愛でるおすすめ名宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の箱根」仙石原すすき草原の黄金絨毯と強羅温泉にごり湯！秋絶景を愛でるおすすめ名宿5選</h1>
           <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
             秋風にそよぐ一面のススキが夕陽を浴びて黄金色に輝く仙石原草原。大涌谷から引き湯された白濁の硫黄泉やスタイリッシュなリゾート空間で、秋の箱根の贅沢な休日を演出する厳選5宿をご紹介します。
           </p>

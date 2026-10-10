@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            秋田・乳頭温泉郷の秘湯紅葉＆田沢湖！乳白色硫黄泉の湯めぐりと名物きりたんぽ・比内地鶏
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">秋田・乳頭温泉郷の秘湯紅葉＆田沢湖！乳白色硫黄泉の湯めぐりと名物きりたんぽ・比内地鶏</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の秋田・田沢湖＆乳頭温泉郷特集！ブナの原生林が黄金色に輝く乳頭温泉郷の七名湯めぐりと乳白色の濃厚硫黄泉、日本一深い瑠璃色の田沢湖の水鏡紅葉、炭火焼きりたんぽ鍋や比内地鶏をふるさと納税トラベルクーポンでお得に楽しむみちのく秘湯旅。
           </p>

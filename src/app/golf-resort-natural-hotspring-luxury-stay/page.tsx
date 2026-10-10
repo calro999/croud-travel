@@ -180,9 +180,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            ラウンド後は名湯で極上リフレッシュ！名門ゴルフコース併設の天然温泉リゾートホテル
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">ラウンド後は名湯で極上リフレッシュ！名門ゴルフコース併設の天然温泉リゾートホテル</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             雄大な山々や海を望む美しい名門コースで爽快にスイングした後は、クラブハウス直結の天然温泉露天風呂や本格サウナで汗を流し、極上のディナーに舌鼓。移動のストレスなくプレーと上質なリゾートステイをシームレスに満喫できる、大人のためのゴルフ温泉宿を厳選しました。
           </p>

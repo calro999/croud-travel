@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kagoshima-kirishima-onsen-autumn-stay/",
   },
   openGraph: {
-    title: '【鹿児島・霧島温泉郷】天孫降臨の神話の森＆硫黄白濁湯！鹿児島黒豚・黒牛と渓谷絶景の極上宿',
+    title: '鹿児島・霧島温泉郷：天孫降臨の神話の森＆硫黄白濁湯！鹿児島黒豚・黒牛と渓谷絶景の極上宿',
     description: '10月・11月の鹿児島・霧島温泉郷＆霧島神宮を特集。錦江湾と桜島を望む山々の紅葉パノラマ、もくもくと湯煙が立ち上る白濁硫黄泉、本場鹿児島黒豚・黒毛和牛を味わう厳選3宿と楽天ふるさと納税トラベルクーポンの徹底解説。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kagoshima-kirishima-onsen-autumn-stay',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            【鹿児島・霧島温泉郷】天孫降臨の神話の森＆硫黄白濁湯！鹿児島黒豚・黒牛と渓谷絶景の極上宿
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">「鹿児島・霧島温泉郷」天孫降臨の神話の森＆硫黄白濁湯！鹿児島黒豚・黒牛と渓谷絶景の極上宿</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の鹿児島・霧島温泉郷＆霧島神宮を特集。錦江湾と桜島を望む山々の紅葉パノラマ、もくもくと湯煙が立ち上る白濁硫黄泉、本場鹿児島黒豚・黒毛和牛を味わう厳選3宿と楽天ふるさと納税トラベルクーポンの徹底解説。
           </p>

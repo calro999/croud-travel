@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【長崎駅前】グラバー園秋散歩＆本場長崎ちゃんぽん！2,000円台〜泊まれる格安ホテル5選',
+  title: '長崎駅前：グラバー園秋散歩＆本場長崎ちゃんぽん！2,000円台〜泊まれる格安ホテル5選',
   description: '世界遺産・グラバー園のレトロ洋館と秋の南山手散歩！鶏ガラと豚骨の濃厚白湯・本場長崎ちゃんぽんや皿うどん。西九州新幹線・JR長崎駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>異国情緒あふれる南山手洋館＆本場濃厚長崎ちゃんぽん</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【長崎駅前】グラバー園秋散歩＆本場ちゃんぽん！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「長崎駅前」グラバー園秋散歩＆本場ちゃんぽん！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             長崎港を見下ろす南山手の丘に佇む国指定重要文化財「旧グラバー住宅」と秋風薫る洋風庭園。たっぷり野菜と魚介の旨味が溶け出した濃厚スープの「本場長崎ちゃんぽん」、パリパリ細麺の「皿うどん」。新幹線で便利になった長崎駅周辺で、2,000円台〜泊まれる格安ホテルを厳選。
           </p>

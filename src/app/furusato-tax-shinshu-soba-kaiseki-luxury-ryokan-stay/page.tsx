@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '名水が育む挽きたて・打ちたて・茹でたて！信州手打ち蕎麦会席＆山里温泉名旅館×ふるさと納税完全ガイド【2026年最新】戸隠・安曇野・浅間温泉',
+  title: '名水が育む挽きたて・打ちたて・茹でたて！信州手打ち蕎麦会席＆山里温泉名旅館×ふるさと納税厳選ガイド戸隠・安曇野・浅間温泉',
   description: '澄んだ名水と清涼な高原の風土が育む日本の蕎麦文化の頂点！日本三大蕎麦・戸隠そば発祥の地で伝統のぼっち盛りと宿坊会席を味わう「戸隠のそば宿・宿坊極意」、名水百選わさび田の里で自家製粉十割手打ち蕎麦と源泉掛け流し離れ宿「安曇野 にし屋別荘」、国宝松本城にほど近い浅間温泉で石臼挽き手打ち蕎麦と畳敷きの温もりに包まれる「別亭 一花」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
   keywords: ["名水が育む挽きたて", "打ちたて", "茹でたて！信州手打ち蕎麦会席", "山里温泉名旅館×ふるさと納税", "2026年最新", "戸隠", "安曇野"],
   alternates: { canonical: baseUrl + '/furusato-tax-shinshu-soba-kaiseki-luxury-ryokan-stay/' },
   openGraph: {
-    title: '名水が育む挽きたて・打ちたて・茹でたて！信州手打ち蕎麦会席＆山里温泉名旅館×ふるさと納税完全ガイド【2026年最新】戸隠・安曇野・浅間温泉',
+    title: '名水が育む挽きたて・打ちたて・茹でたて！信州手打ち蕎麦会席＆山里温泉名旅館×ふるさと納税厳選ガイド戸隠・安曇野・浅間温泉',
     description: '澄んだ名水と清涼な高原の風土が育む日本の蕎麦文化の頂点！日本三大蕎麦・戸隠そば発祥の地で伝統のぼっち盛りと宿坊会席を味わう「戸隠のそば宿・宿坊極意」、名水百選わさび田の里で自家製粉十割手打ち蕎麦と源泉掛け流し離れ宿「安曇野 にし屋別荘」、国宝松本城にほど近い浅間温泉で石臼挽き手打ち蕎麦と畳敷きの温もりに包まれる「別亭 一花」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
     url: baseUrl + '/furusato-tax-shinshu-soba-kaiseki-luxury-ryokan-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoShinshuSobaKaisekiStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             日本三大蕎麦・信州手打ち蕎麦会席宿特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            名水が育む挽きたて・打ちたて・茹でたて！信州手打ち蕎麦会席＆山里温泉名旅館×ふるさと納税完全ガイド【2026年最新】戸隠・安曇野・浅間温泉
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">名水が育む挽きたて・打ちたて・茹でたて！信州手打ち蕎麦会席＆山里温泉名旅館×ふるさと納税厳選ガイド戸隠・安曇野・浅間温泉</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             昼夜の大きな寒暖差、霧深い山あいの気候、そして北アルプスから湧き出る冷たく澄み切った伏流水――信州（長野県）は、日本で最も良質な蕎麦が育つ「蕎麦の聖地」として古来より全国の蕎麦好きを魅了し続けています。殻ごと挽き込むことで力強い香りと甘みを放つ「三たて（挽きたて・打ちたて・茹でたて）」の十割蕎麦を、名水仕立ての辛汁や、おろしたての本山葵、地元で採れたサクサクの山菜天ぷらとともにすする瞬間は、まさに大自然の恵みが五臓六腑に染み渡る至福の食体験です。神話の山・戸隠で江戸時代から宿坊として神に仕え伝統の戸隠そばと神職料理を振る舞う「戸隠のそば宿・宿坊極意」、北アルプスの雪解け水が潤す安曇野で古民家を移築した全室離れの贅沢な空間と十割手打ち蕎麦会席を提供する「安曇野 にし屋別荘」、そして城下町松本の奥座敷・浅間温泉で石臼挽きの信州手打ち蕎麦と畳敷きの雅な和空間を誇る「別亭 一花」。新蕎麦の季節はもちろん、四季を通じて本物の蕎麦文化と名湯を堪能できる信州の名宿を、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を使って実質2,000円で賢く予約し、滋味あふれる大人の蕎麦紀行へ出かけましょう。
           </p>

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/yamanashi-fujigoko-kawaguchiko-stay/" },
-  title: "【山梨・富士五湖＆河口湖】逆さ富士・富士急ハイランド＆ほうとう極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "山梨・富士五湖＆河口湖：逆さ富士・富士急ハイランド＆ほうとう極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "山梨・富士五湖（河口湖・山中湖）エリア完全特化！湖面に映る奇跡の「逆さ富士」、富士急ハイランド、富士山パノラマロープウェイ、名物ほうとう鍋と全室富士山ビュー温泉ホテルを徹底解説。",
   keywords: ["山梨", "富士五湖", "河口湖", "逆さ富士", "富士急ハイランド", "ほうとう極上宿", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             FUJI FIVE LAKES MICRO GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【山梨・富士五湖＆河口湖】逆さ富士・富士急ハイランド＆ほうとう極上宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「山梨・富士五湖＆河口湖」逆さ富士・富士急ハイランド＆ほうとう極上宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             波静かな湖面に鏡のように映り込む霊峰富士の「逆さ富士」。四季折々の花々と青い湖水が織りなす圧倒的な美景。客室露天風呂から雪化粧した富士山を独占し、名物ほうとうと甲州牛に舌鼓を打つ休日。
           </p>

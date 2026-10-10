@@ -3,11 +3,11 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【秋の高野山】壇上伽藍の蛇腹道紅葉トンネルと奥の院！心洗われるおすすめ歴史宿坊5選【2026最新】',
+  title: '秋の高野山：壇上伽藍の蛇腹道紅葉トンネルと奥の院！心洗われるおすすめ歴史宿坊5選「2026最新」',
   description: '標高800mの聖地・高野山は10月下旬から鮮やかな紅葉のピークへ！壇上伽藍と金剛峯寺を結ぶ「蛇腹道（じゃばらみち）」の真紅のトンネル。伝統の精進料理と朝のお勤めを体験できる極上宿坊5選をご紹介。明王院、不動院、西禅院を徹底比較！',
   keywords: '高野山 紅葉, 蛇腹道 ライトアップ, 高野山 宿坊 おすすめ, 金剛峯寺 秋, 明王院 高野山, 不動院 宿坊',
   openGraph: {
-    title: '【秋の高野山】壇上伽藍の蛇腹道紅葉トンネルと奥の院！心洗われるおすすめ歴史宿坊5選【2026最新】',
+    title: '秋の高野山：壇上伽藍の蛇腹道紅葉トンネルと奥の院！心洗われるおすすめ歴史宿坊5選「2026最新」',
     description: '標高800mの聖地・高野山は10月下旬から鮮やかな紅葉のピークへ！心洗われるおすすめ歴史宿坊5選。',
     type: 'article',
     url: 'https://croud-travel.com/autumn-wakayama-koyasan-danjo-garan-shukubo-momiji-hotels-stay',
@@ -32,9 +32,7 @@ export default function KoyasanShukuboAutumnPage() {
             <span className="px-3 py-1 bg-amber-600 text-white text-xs font-bold rounded-full">秋の和歌山・世界遺産特集</span>
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">見頃目安: 10月下旬〜11月上旬</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">
-            【秋の高野山】壇上伽藍の蛇腹道紅葉トンネルと奥の院！心洗われるおすすめ歴史宿坊5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の高野山」壇上伽藍の蛇腹道紅葉トンネルと奥の院！心洗われるおすすめ歴史宿坊5選</h1>
           <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
             弘法大師空海が開いた天空の宗教都市・高野山。平地より一足早く山全体が鮮やかな錦秋に染まり、壇上伽藍へ続く「蛇腹道」は紅葉のアーチで包まれます。名刹の宿坊でいただく旬の精進料理と朝の勤行で、心澄みわたる特別な時間をお過ごしください。
           </p>

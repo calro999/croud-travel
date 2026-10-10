@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-clear-rivers-stay/" },
-  title: '日本三大清流＆奇跡の透明度と川魚・名水グルメ温泉宿×ふるさと納税完全ガイド【2026年最新】四万十川・長良川・柿田川',
+  title: '日本三大清流＆奇跡の透明度と川魚・名水グルメ温泉宿×ふるさと納税厳選ガイド四万十川・長良川・柿田川',
   description: '日本屈指の清らかな水が生んだ大自然と美食！高知「四万十川」沈下橋と天然鮎・青さのり・ツガニを満喫する新安並温泉なごみ宿安住庵、岐阜「長良川」1300年の伝統鵜飼と名湯長良川温泉十八楼、静岡三島「柿田川湧水群」富士山雪解け水が生んだ東洋一の湧水量とうなぎ会席ドーミーイン三島。日本三大清流のリバーサイドステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大清流・名水リバー特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大清流＆奇跡の透明度と川魚・名水グルメ温泉宿×ふるさと納税完全ガイド【2026年最新】四万十川・長良川・柿田川',
+    title: '日本三大清流＆奇跡の透明度と川魚・名水グルメ温泉宿×ふるさと納税厳選ガイド四万十川・長良川・柿田川',
     description: '日本屈指の清らかな水が生んだ大自然と美食！高知「四万十川」沈下橋と天然鮎・青さのり・ツガニを満喫する新安並温泉なごみ宿安住庵、岐阜「長良川」1300年の伝統鵜飼と名湯長良川温泉十八楼、静岡三島「柿田川湧水群」富士山雪解け水が生んだ東洋一の湧水量とうなぎ会席ドーミーイン三島。日本三大清流のリバーサイドステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-clear-rivers-stay',
@@ -155,9 +155,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大清流・名水リバー特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大清流＆名水リバーサイド宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大清流＆名水リバーサイド宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             日本各地の原生林や名峰から湧き出し、国土を潤す命の源流「日本三大清流」――大規模ダムが一切なく「日本最後の清流」として沈下橋と川漁の原風景を今に残す高知の「四万十川」、清流長良川の鮎として世界農業遺産（GIAHS）第1号に認定され1300年続く篝火鵜飼が幻想的な岐阜の「長良川」、そして富士山に降った雪や雨が数十年かけて溶岩の間を通り日量120万トンもの水が湧き出す東洋一の湧水河川・静岡の「柿田川」。澄み切った清流は、目を楽しませるだけでなく、極上の川魚や名水グルメ、そして名湯をもたらします。川のせせらぎを間近に聞く料理旅館や絶景温泉ホテルを拠点に、天然鮎の塩焼きや名物うなぎ、地酒を味わう特別な休日を楽天ふるさと納税でお楽しみください。
           </p>

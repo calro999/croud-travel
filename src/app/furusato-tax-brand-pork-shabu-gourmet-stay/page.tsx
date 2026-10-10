@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '銘柄豚・極上しゃぶしゃぶ料理の名湯宿×ふるさと納税完全ガイド【2026年最新】鹿児島黒豚・平田牧場金華豚・那須高原豚の美食旅',
+  title: '銘柄豚・極上しゃぶしゃぶ料理の名湯宿×ふるさと納税厳選ガイド鹿児島黒豚・平田牧場金華豚・那須高原豚の美食旅',
   description: 'とろける脂の甘みと極上の旨味！本場鹿児島黒豚の出汁しゃぶ会席と砂むし温泉、山形庄内「平田牧場金華豚」の幻の豚肉とあつみ温泉、栃木那須高原三元豚のブランド肉づくしステイ。肉好き必見の極上ポークディナーを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: ["銘柄豚", "2026年最新", "鹿児島黒豚", "平田牧場金華豚", "那須高原豚の美食旅", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-brand-pork-shabu-gourmet-stay/"
   },
   openGraph: {
-    title: '銘柄豚・極上しゃぶしゃぶ料理の名湯宿×ふるさと納税完全ガイド【2026年最新】鹿児島黒豚・平田牧場金華豚・那須高原豚の美食旅',
+    title: '銘柄豚・極上しゃぶしゃぶ料理の名湯宿×ふるさと納税厳選ガイド鹿児島黒豚・平田牧場金華豚・那須高原豚の美食旅',
     description: 'とろける脂の甘みと極上の旨味！本場鹿児島黒豚の出汁しゃぶ会席と砂むし温泉、山形庄内「平田牧場金華豚」の幻の豚肉とあつみ温泉、栃木那須高原三元豚のブランド肉づくしステイ。肉好き必見の極上ポークディナーを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-brand-pork-shabu-gourmet-stay',
     type: 'article',
@@ -54,9 +54,7 @@ export default function FurusatoFeaturePage() {
             <span>✨</span>
             <span>銘柄豚・極上しゃぶしゃぶ特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            銘柄豚・極上しゃぶしゃぶ料理の名湯宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">銘柄豚・極上しゃぶしゃぶ料理の名湯宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             牛肉とはひと味違う、軽やかで奥深いコクとジューシーな旨味。サツマイモを食べて育った鹿児島の「かごしま黒豚」、世界三大ハムにも使われる幻の最高峰「平田牧場金華豚」、そして澄んだ高原の空気と水で育まれた「那須三元豚」。職人が極薄にスライスしたブランド豚肉を特製出汁にくぐらせ、たっぷりの白ネギや地場野菜とともに味わう贅沢。温泉で身体をほぐした後の至福のディナーを、楽天ふるさと納税でお得に体験しましょう。
           </p>

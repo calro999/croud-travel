@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月山形】出羽三山神社の雪の初詣と山居倉庫雪景色！名宿5選',
+  title: '11・12・1月山形：出羽三山神社の雪の初詣と山居倉庫雪景色！名宿5選',
   description: '白銀の静寂に包まれる国宝羽黒山五重塔と出羽三山神社三神合祭殿での厳かな雪の初詣。酒田の象徴・山居倉庫の雪化粧ケヤキ並木や。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '出羽三山 初詣, 羽黒山 五重塔 冬, 寒鱈どんがら汁, 湯野浜温泉 宿, 酒田 山居倉庫 雪景色, 鶴岡 旅館, 萬国屋, 九兵衛旅館, 庄内牛, 11月 12月 1月 山形 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamagata-sakata-tsuruoka-hagurosan-kandara-stay/"
   },
   openGraph: {
-    title: '【11・12・1月山形】出羽三山神社の雪の初詣と山居倉庫雪景色！名宿5選',
+    title: '11・12・1月山形：出羽三山神社の雪の初詣と山居倉庫雪景色！名宿5選',
     description: '白銀の静寂に包まれる国宝羽黒山五重塔と出羽三山神社三神合祭殿での厳かな雪の初詣。酒田の象徴・山居倉庫の雪化粧ケヤキ並木や。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-yamagata-sakata-tsuruoka-hagurosan-kandara-stay',
     siteName: '地域の宿探訪',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月山形】酒田＆鶴岡・羽黒山！出羽三山神社の雪の初詣と山居倉庫雪景色・冬の日本海名物「寒鱈どんがら汁」＆名湯5選",
+    title: "11・12・1月山形：酒田＆鶴岡・羽黒山！出羽三山神社の雪の初詣と山居倉庫雪景色・冬の日本海名物「寒鱈どんがら汁」＆名湯5選",
     description: "白銀の静寂に包まれる国宝羽黒山五重塔と出羽三山神社三神合祭殿での厳かな雪の初詣。酒田の象徴・山居倉庫の雪化粧ケヤキ並木や、荒海日本海が育む冬の至宝「寒鱈どんがら汁」の濃厚な旨味。ユネスコ食文化創造都市・鶴岡の伝統郷土料理と庄内牛、日本海を望む湯野浜温泉や名湯湯田川・温海温泉の雪見露天に癒やされる厳選宿5選を徹底特集します。",
     images: ["https://img.travel.rakuten.co.jp/share/HOTEL/56286/56286.jpg"]
   }
@@ -252,9 +252,7 @@ export default function YamagataSakataTsuruokaPage() {
             <Snowflake className="w-3.5 h-3.5 text-sky-400" />
             11月〜1月限定・庄内の冬の神域＆極上味覚特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight md:leading-snug text-balance">
-            【11・12・1月山形】酒田＆鶴岡・羽黒山！出羽三山神社の雪の初詣と山居倉庫雪景色・冬の日本海名物「寒鱈どんがら汁」＆名湯5選
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight md:leading-snug text-balance">「11・12・1月山形」酒田＆鶴岡・羽黒山！出羽三山神社の雪の初詣と山居倉庫雪景色・冬の日本海名物「寒鱈どんがら汁」＆名湯5選</h1>
           <p className="text-stone-300 text-xs sm:text-sm md:text-base leading-relaxed max-w-3xl mx-auto font-medium">
             白銀の静寂に佇む国宝羽黒山五重塔と出羽三山神社の雪の初詣。酒田・山居倉庫の雪化粧ケヤキ並木と、冬の日本海の王者「寒鱈」を白子・肝ごと豪快に味わう熱々どんがら汁。湯野浜・湯田川・温海温泉の極上雪見露天へご案内します。
           </p>

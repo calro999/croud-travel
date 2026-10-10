@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月南紀白浜温泉】白良浜夕陽と日本三古湯！名宿5選',
+  title: '南紀白浜温泉で過ごす冬の旅（11・12月）！白良浜夕陽と日本三古湯！名宿5選',
   description: '万葉集や日本書紀にも記された日本三古湯の一つ、和歌山県・南紀白浜温泉。11月から12月にかけて脂が乗り切る幻の超高級魚「紀州本クエ鍋」、太平洋を茜色に染める雄大な冬の夕陽、波打ち際の絶景露天風呂、そして特選熊野牛を味わい尽くす冬の名宿ガイド。',
   keywords: '南紀白浜温泉 宿泊 11月 12月, クエ鍋 白浜 旅館, 本クエ 白浜 温泉, ホテル川久 白浜, 浜千鳥の湯 海舟, 白良荘グランドホテル, 白良浜 イルミネーション 冬, 熊野牛 白浜',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-wakayama-nanki-shirahama-kue-hotspring-stay/",
   },
   openGraph: {
-    title: '【11・12月南紀白浜温泉】白良浜夕陽と日本三古湯！名宿5選',
+    title: '南紀白浜温泉で過ごす冬の旅（11・12月）！白良浜夕陽と日本三古湯！名宿5選',
     description: '万葉集や日本書紀にも記された日本三古湯の一つ、和歌山県・南紀白浜温泉。11月から12月にかけて脂が乗り切る幻の超高級魚「紀州本クエ鍋」、太平洋を茜色に染める雄大な冬の夕陽、波打ち際の絶景露天風呂、そして特選熊野牛を味わい尽くす冬の名宿ガイド。',
     url: 'https://croud-travel.pages.dev/winter-wakayama-nanki-shirahama-kue-hotspring-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月南紀白浜温泉の太平洋絶景と名湯】白良浜夕陽と日本三古湯・幻の天然本クエ鍋＆熊野牛の宿5選",
+    title: "南紀白浜温泉の太平洋絶景と名湯で過ごす冬の旅（11・12月）！白良浜夕陽と日本三古湯・幻の天然本クエ鍋＆熊野牛の宿5選",
     description: "万葉集や日本書紀にも記された日本三古湯の一つ、和歌山県・南紀白浜温泉。11月から12月にかけて脂が乗り切る幻の超高級魚「紀州本クエ鍋」、太平洋を茜色に染める雄大な冬の夕陽、波打ち際の絶景露天風呂、そして特選熊野牛を味わい尽くす冬の名宿ガイド。",
   }
 };
@@ -259,10 +259,7 @@ export default function ShirahamaWinterPage() {
             <Eye className="w-4 h-4 text-cyan-300" />
             <span>11月・12月限定 日本三古湯の絶景オーシャンビュー＆幻の紀州本クエ鍋特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月南紀白浜温泉の太平洋絶景と名湯】<br className="hidden sm:inline" />
-            白良浜夕陽と日本三古湯・幻の天然本クエ鍋＆熊野牛の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">南紀白浜温泉の太平洋絶景と名湯で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 白良浜夕陽と日本三古湯・幻の天然本クエ鍋＆熊野牛の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             万葉の昔から歴代天皇が湯治に訪れた日本三古湯・南紀白浜温泉。11月から旬を迎える「幻の高級魚・紀州本クエ」の濃厚な旨味。水平線に沈む黄金の夕陽を眺める海辺のインフィニティ露天風呂と、白良浜の冬のイルミネーションを愉しむ至福旅。
           </p>

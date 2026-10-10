@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '朝日と海の絶景インフィニティ温泉！淡路島の全室オーシャンビュー名門宿＆極上淡路牛・天然鯛会席×ふるさと納税完全攻略ガイド【2026年最新】ホテルニューアワジ・夢海游・グランシャリオ',
+  title: '朝日と海の絶景インフィニティ温泉！淡路島の全室オーシャンビュー名門宿＆極上淡路牛・天然鯛会席×ふるさと納税極上旅ガイドホテルニューアワジ・夢海游・グランシャリオ',
   description: '御食国（みけつくに）の豊かな美味と大阪湾・紀淡海峡のパノラマ！兵庫県淡路島。「ホテルニューアワジ」「夢海游 淡路島」「GRAND CHARIOT 北斗七星135°。」を、兵庫県洲本市・淡路市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。棚田状インフィニティ露天風呂、極上淡路牛ステーキ、天然鯛・鱧会席を満喫。',
   keywords: ["極上淡路牛", "2026年最新", "ホテルニューアワジ", "夢海游", "グランシャリオ", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-awajishima-ocean-view-luxury-stay/",
   },
   openGraph: {
-    title: '朝日と海の絶景インフィニティ温泉！淡路島の全室オーシャンビュー名門宿＆極上淡路牛・天然鯛会席×ふるさと納税完全攻略ガイド【2026年最新】ホテルニューアワジ・夢海游・グランシャリオ',
+    title: '朝日と海の絶景インフィニティ温泉！淡路島の全室オーシャンビュー名門宿＆極上淡路牛・天然鯛会席×ふるさと納税極上旅ガイドホテルニューアワジ・夢海游・グランシャリオ',
     description: '御食国（みけつくに）の豊かな美味と大阪湾・紀淡海峡のパノラマ！兵庫県淡路島。「ホテルニューアワジ」「夢海游 淡路島」「GRAND CHARIOT 北斗七星135°。」を、兵庫県洲本市・淡路市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。棚田状インフィニティ露天風呂、極上淡路牛ステーキ、天然鯛・鱧会席を満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-awajishima-ocean-view-luxury-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoAwajishimaOceanStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           神話の島・御食国の極上リゾート！兵庫県淡路島特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          朝日と海の絶景インフィニティ温泉！淡路島の全室オーシャンビュー名門宿＆極上淡路牛・天然鯛会席×ふるさと納税完全攻略ガイド【2026年最新】ホテルニューアワジ・夢海游・グランシャリオ
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">朝日と海の絶景インフィニティ温泉！淡路島の全室オーシャンビュー名門宿＆極上淡路牛・天然鯛会席×ふるさと納税極上旅ガイドホテルニューアワジ・夢海游・グランシャリオ</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoAwajishimaOceanStayPage() {
               全客室が朝陽＆海景。三つの湯処＆二つの源泉巡り。御食国の山海の幸・淡路牛をお部屋やダイニングで堪能
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “高齢の家族とゆったり過ごせたお祝い旅行御祝いで利用しました。高齢なので大きな施設でゆったりすごせました。 ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D7956%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoAwajishimaOceanStayPage() {
               2020年7月リニューアルの大浴場「森のSPA」や離れスパ海音の森など多彩な湯処と島の山海の幸を堪能
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “寂しい見送り料理はまずまず!酒の品揃えが少ない上、価格が高い。土佐鶴とかうまい酒があればもっと美味しく過ごせたかな。遠いパーキングまで送迎なし!
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D1657%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoAwajishimaOceanStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               星降る丘、眺めた北斗七星。淡路島を渡る緑の風。光輝く夜、太陽が降り注ぐ朝を、私は忘れない。
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “食事は絶品だが、夏場の虫と景色には注意念願の星のコクーンを利用。朝食は、洋食プレート。夜はBBQでしたが、いずれも地産地消の食材を使いどれもみなとても美味しかったです。質も量も大満足でした。… ”
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

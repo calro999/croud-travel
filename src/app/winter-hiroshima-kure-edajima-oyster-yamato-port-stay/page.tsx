@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月広島】海上自衛隊艦船ライトアップ冬イルミ！名宿5選',
+  title: '11・12・1月広島：海上自衛隊艦船ライトアップ冬イルミ！名宿5選',
   description: '冬の瀬戸内海は空気が澄み渡り、歴史ある港町・呉と多島美あふれる江田島が最も旅情を誘う季節です。11月から1月にかけて最盛期を迎える「広島かき。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '呉 ホテル, 江田島 ホテル, 広島 牡蠣小屋, 大和ミュージアム, てつのくじら館, アレイからすこじま 艦船ライトアップ, 呉阪急ホテル, クレイトンベイホテル, 江田島荘, 11月 12月 1月 広島 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hiroshima-kure-edajima-oyster-yamato-port-stay/"
   },
   openGraph: {
-    title: '【11・12・1月広島】海上自衛隊艦船ライトアップ冬イルミ！名宿5選',
+    title: '11・12・1月広島：海上自衛隊艦船ライトアップ冬イルミ！名宿5選',
     description: '冬の瀬戸内海は空気が澄み渡り、歴史ある港町・呉と多島美あふれる江田島が最も旅情を誘う季節です。11月から1月にかけて最盛期を迎える「広島かき。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-hiroshima-kure-edajima-oyster-yamato-port-stay',
     siteName: '地域の宿探訪',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月広島】呉＆江田島・音戸！最旬の広島かき小屋グルメと大和ミュージアム・海上自衛隊艦船ライトアップ冬イルミ・瀬戸内海一望名宿5選",
+    title: "11・12・1月広島：呉＆江田島・音戸！最旬の広島かき小屋グルメと大和ミュージアム・海上自衛隊艦船ライトアップ冬イルミ・瀬戸内海一望名宿5選",
     description: "冬の瀬戸内海は空気が澄み渡り、歴史ある港町・呉と多島美あふれる江田島が最も旅情を誘う季節です。11月から1月にかけて最盛期を迎える「広島かき」は身が引き締まり濃厚そのもの。江田島の海辺に並ぶ牡蠣小屋での豪快な焼き牡蠣や土手鍋、大和ミュージアム（呉市海事歴史科学館）やてつのくじら館、アレイからすこじまで間近に望む海上自衛隊の潜水艦・護衛艦の冬の夕暮れと幻想的な艦船ライトアップ。平清盛伝説の音戸の瀬戸、名物海軍カレーと広島牛。港町の情緒と極上温泉を味わう厳選名宿5選を徹底解説します。",
     images: ["https://img.travel.rakuten.co.jp/share/HOTEL/7470/7470.jpg"]
   }
@@ -232,10 +232,7 @@ export default function HiroshimaKureEdajimaWinterPage() {
             <span>11月・12月・1月冬の瀬戸内港町＆美食特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">
-            呉＆江田島・音戸！<br className="hidden sm:inline" />
-            最旬の広島かき小屋グルメと艦船ライトアップ冬イルミ・瀬戸内海一望名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">呉＆江田島・音戸！<br className="hidden sm:inline" /> 最旬の広島かき小屋グルメと艦船ライトアップ冬イルミ・瀬戸内海一望名宿5選</h1>
 
           <p className="text-slate-300 text-sm sm:text-base lg:text-lg leading-relaxed max-w-3xl mb-8">
             戦艦大和を生み出した歴史の港町・呉と、温暖な多島美に包まれる江田島。冬の澄んだ大気のもと、アレイからすこじまに並ぶ海上自衛隊の潜水艦や護衛艦が夕日に染まり、夜には幻想的な明かりが海を彩ります。11月から1月に旬のピークを迎える江田島・呉の「広島かき」を海辺の牡蠣小屋で豪快に味わい、名物海軍カレーや呉細うどんで温まる旅。港町の情緒と極上温泉を満喫する厳選名宿をお届けします。

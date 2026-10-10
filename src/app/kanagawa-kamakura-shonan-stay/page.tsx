@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kanagawa-kamakura-shonan-stay/" },
-  title: "【古都鎌倉＆湘南江の島】鶴岡八幡宮・江ノ電・富士夕景ホテル 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "古都鎌倉＆湘南江の島：鶴岡八幡宮・江ノ電・富士夕景ホテル 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "鎌倉・湘南・江の島エリア完全特化！鶴岡八幡宮、小町通り、高徳院大仏、江ノ電沿線、七里ヶ浜オーシャンビューホテルと相模湾の地魚・しらすグルメを徹底解説。",
   keywords: ["古都鎌倉", "湘南江の島", "鶴岡八幡宮", "江ノ電", "富士夕景ホテル", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             KAMAKURA & ENOSHIMA MICRO GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【古都鎌倉＆湘南江の島】鶴岡八幡宮・江ノ電・富士夕景ホテル 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「古都鎌倉＆湘南江の島」鶴岡八幡宮・江ノ電・富士夕景ホテル 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             江ノ電がコトコト走る相模湾沿い。由緒ある古社寺の静寂と、夕日に染まる富士山と江の島シーキャンドル。都心から1時間で出逢える極上の湘南リゾートステイ。
           </p>

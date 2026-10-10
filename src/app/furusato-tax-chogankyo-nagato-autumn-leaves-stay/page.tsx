@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            名勝「長門峡」阿武川渓谷美とそぞろ歩きが楽しい長門湯本温泉・山口秋の味覚「とらふぐ」尽くし
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">名勝「長門峡」阿武川渓谷美とそぞろ歩きが楽しい長門湯本温泉・山口秋の味覚「とらふぐ」尽くし</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             阿武川の清流と紅葉が織りなす水墨画の世界。川床テラス揺れる長門湯本温泉で極上とらふぐに舌鼓。
           </p>

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/fukuoka-kagoshima-bus-vs-shinkansen-guide/" },
-  title: "【福岡・博多〜鹿児島】九州新幹線 vs 高速バス「桜島号」徹底比較！料金半額＆桜島・黒豚・天文館1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+  title: "福岡・博多〜鹿児島：九州新幹線 vs 高速バス「桜島号」徹底比較！料金半額＆桜島・黒豚・天文館1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "博多・天神から鹿児島中央へ行くなら九州新幹線と高速バス「桜島号」どっちがお得？料金・所要時間比較！片道3,000円台〜行ける高速バスを活用し、桜島フェリー、仙巌園、名物黒豚しゃぶしゃぶ・白熊を満喫する1泊2日モデルコース。",
   keywords: ["福岡", "博多〜鹿児島", "九州新幹線", "vs", "桜島", "黒豚", "天文館1泊2日モデルコース"],
 };
@@ -159,9 +159,7 @@ export default function HighwayBusArticlePage() {
               交通手段の徹底比較＆最適ルート
             </span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【福岡・博多〜鹿児島】九州新幹線 vs 高速バス「桜島号」徹底比較！料金半額＆桜島・黒豚・天文館1泊2日モデルコース
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">「福岡・博多〜鹿児島」九州新幹線 vs 高速バス「桜島号」徹底比較！料金半額＆桜島・黒豚・天文館1泊2日モデルコース</h1>
           <p className="text-xs md:text-sm text-cyan-100/90 leading-relaxed font-medium">
             九州新幹線なら博多〜鹿児島中央最速1時間16分・片道約10,640円（往復約21,280円）。一方、高速バス「桜島号」なら片道約3,000円〜5,000円（WEB割・早割あり）！料金は新幹線の半額以下。浮いた1万円で本場かごしま黒豚しゃぶしゃぶや指宿温泉を満喫する南九州旅。
           </p>

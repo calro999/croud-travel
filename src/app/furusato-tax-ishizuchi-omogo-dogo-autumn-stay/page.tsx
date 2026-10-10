@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '西日本最高峰・石鎚山＆面河渓エメラルド紅葉！道後温泉本館湯守り宿×ふるさと納税完全ガイド【2026年最新秋旅】愛媛',
+  title: '西日本最高峰・石鎚山＆面河渓エメラルド紅葉！道後温泉本館湯守り宿×ふるさと納税厳選ガイド愛媛',
   description: '10月上旬〜11月中旬に西日本最高峰（標高1,982m）から麓の面河渓へと下りてくる「愛媛・石鎚山紅葉」。石鎚スカイラインの絶景ドライブや面河渓の清流散策と、日本最古の湯「道後温泉 旅亭 うめ乃や」「道後グランドホテル」「ふなや」で瀬戸内の天然鯛めしや伊予牛・愛媛みかん会席を堪能。ふるさと納税で実質2,000円。',
   keywords: ["西日本最高峰", "石鎚山", "2026年最新秋旅", "愛媛", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-ishizuchi-omogo-dogo-autumn-stay/"
   },
   openGraph: {
-    title: '西日本最高峰・石鎚山＆面河渓エメラルド紅葉！道後温泉本館湯守り宿×ふるさと納税完全ガイド【2026年最新秋旅】愛媛',
+    title: '西日本最高峰・石鎚山＆面河渓エメラルド紅葉！道後温泉本館湯守り宿×ふるさと納税厳選ガイド愛媛',
     description: '10月上旬〜11月中旬に西日本最高峰（標高1,982m）から麓の面河渓へと下りてくる「愛媛・石鎚山紅葉」。石鎚スカイラインの絶景ドライブや面河渓の清流散策と、日本最古の湯「道後温泉 旅亭 うめ乃や」「道後グランドホテル」「ふなや」で瀬戸内の天然鯛めしや伊予牛・愛媛みかん会席を堪能。ふるさと納税で実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-ishizuchi-omogo-dogo-autumn-stay',
     siteName: '旅宿クラウド',
@@ -113,9 +113,7 @@ export default function FeatureArticlePage() {
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">
-            西日本最高峰・石鎚山＆面河渓エメラルド紅葉！道後温泉本館湯守り宿×ふるさと納税完全ガイド【2026年最新秋旅】愛媛
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">西日本最高峰・石鎚山＆面河渓エメラルド紅葉！道後温泉本館湯守り宿×ふるさと納税厳選ガイド愛媛</h1>
           <p className="text-sm md:text-lg text-stone-200 max-w-3xl mx-auto leading-relaxed">
             西日本最高峰・石鎚山から面河渓へと続く大紅葉絵巻と、日本最古の名湯・道後温泉ステイ。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
           </p>

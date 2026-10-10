@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '日本三大霊峰の神気満ちる聖地と雲海・高山温泉宿×ふるさと納税完全ガイド【2026年最新】富士山・立山・白山',
+  title: '日本三大霊峰の神気満ちる聖地と雲海・高山温泉宿×ふるさと納税厳選ガイド富士山・立山・白山',
   description: '古来より山岳信仰の聖地として崇敬される日本三大霊峰（富士山・立山連峰・白山）。湖越しに望む逆さ富士、標高2,400mの雲海ホテル、白山信仰の囲炉裏炭火料理宿。楽天ふるさと納税の宿泊割引クーポンでお得に巡る完全ガイド。',
   keywords: ["高山温泉宿×ふるさと納税", "2026年最新", "富士山", "立山", "白山", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-sacred-mountains-stay/",
   },
   openGraph: {
-    title: '日本三大霊峰の神気満ちる聖地と雲海・高山温泉宿×ふるさと納税完全ガイド【2026年最新】富士山・立山・白山',
+    title: '日本三大霊峰の神気満ちる聖地と雲海・高山温泉宿×ふるさと納税厳選ガイド富士山・立山・白山',
     description: '古来より山岳信仰の聖地として崇敬される日本三大霊峰（富士山・立山連峰・白山）。湖越しに望む逆さ富士、標高2,400mの雲海ホテル、白山信仰の囲炉裏炭火料理宿。楽天ふるさと納税の宿泊割引クーポンでお得に巡る完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-sacred-mountains-stay',
     siteName: '旅宿クラウド',
@@ -108,9 +108,7 @@ export default function FurusatoUpgradedPage() {
             <span>✨</span>
             <span>日本三大霊峰・聖地温泉リトリート特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            日本三大霊峰の神気満ちる聖地と雲海・高山温泉宿×ふるさと納税完全ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">日本三大霊峰の神気満ちる聖地と雲海・高山温泉宿×ふるさと納税厳選ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             古より人々が祈りを捧げ、崇敬を集めてきた「日本三大霊峰」——富士山、立山、白山。朝日に染まる神々しい稜線、眼下に広がる広大な雲海、そして山麓から湧き出づる霊験あらたかな名湯。三大霊峰の自然と神気に包まれる滞在は、忙しい現代人の魂を深く潤してくれます。楽天ふるさと納税の宿泊割引クーポンを活用して、心洗われる聖地への贅沢な旅へご案内します。
           </p>

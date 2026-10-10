@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-high-mountain-passes-stay/" },
-  title: '日本三大急坂・天空峠道＆雲海パノラマ・絶景ドライブ温泉宿×ふるさと納税完全ガイド【2026年最新】渋峠・富士山スカイライン・温見峠',
+  title: '日本三大急坂・天空峠道＆雲海パノラマ・絶景ドライブ温泉宿×ふるさと納税厳選ガイド渋峠・富士山スカイライン・温見峠',
   description: '天空を突き抜けるワインディングロードと雲海パノラマ！群馬長野「渋峠」国道最高地点標高2172mと万座温泉日進舘、静岡「富士山スカイライン」表富士五合目へ駆け上がる天空道路とレンブラントプレミアム富士御殿場、岐阜福井「温見峠ルート」清流根尾谷と亀屋旅館。日本三大急坂・天空峠道の絶景ドライブと温泉ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大急坂峠道・天空絶景特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大急坂・天空峠道＆雲海パノラマ・絶景ドライブ温泉宿×ふるさと納税完全ガイド【2026年最新】渋峠・富士山スカイライン・温見峠',
+    title: '日本三大急坂・天空峠道＆雲海パノラマ・絶景ドライブ温泉宿×ふるさと納税厳選ガイド渋峠・富士山スカイライン・温見峠',
     description: '天空を突き抜けるワインディングロードと雲海パノラマ！群馬長野「渋峠」国道最高地点標高2172mと万座温泉日進舘、静岡「富士山スカイライン」表富士五合目へ駆け上がる天空道路とレンブラントプレミアム富士御殿場、岐阜福井「温見峠ルート」清流根尾谷と亀屋旅館。日本三大急坂・天空峠道の絶景ドライブと温泉ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-high-mountain-passes-stay',
@@ -158,9 +158,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大急坂峠道・天空絶景特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大急坂・天空峠道＆雲海パノラマ温泉宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大急坂・天空峠道＆雲海パノラマ温泉宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             険しい日本列島の山岳を越えるため、天空へと九十九折の急坂が続く「日本三大急坂・天空峠道」――志賀草津高原ルートの最高峰にして国道標高日本一（2,172m）を誇り朝日に輝く雲海と芳ヶ平湿原を見下ろす群馬長野の「渋峠」、富士山表口五合目（標高2,400m）へ向けて森林限界を抜け雲上ドライブが楽しめる静岡の「富士山スカイライン」、そして白山連峰の南端を越え深い原生林と清流根尾谷の秘境を貫く岐阜福井の「温見峠ルート」。息をのむ大パノラマを駆け抜けた後は、乳白色の硫黄泉や富士山一望の露天風呂に浸かり、上州牛・駿河湾海の幸・奥美濃の山菜会席を堪能する特別な休日を楽天ふるさと納税でお楽しみください。
           </p>

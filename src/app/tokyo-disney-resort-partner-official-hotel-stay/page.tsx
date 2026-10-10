@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tokyo-disney-resort-partner-official-hotel-stay/" },
-  title: "【東京ディズニーリゾート®提携ホテル】オフィシャル＆パートナーホテル・無料シャトル宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "東京ディズニーリゾート®提携ホテル：オフィシャル＆パートナーホテル・無料シャトル宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "夢の国を満喫するホテル選び完全特化！東京ディズニーランド®・東京ディズニーシー®直結のモノレール沿線オフィシャルホテル、パーク直通無料シャトルバス運行パートナーホテル、洗い場付きお風呂＆大浴場完備宿を徹底解説。",
   keywords: ["オフィシャル", "パートナーホテル", "無料シャトル宿", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -89,9 +89,7 @@ export default function ThemeParkActivityHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             DISNEY RESORT HOTEL GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【東京ディズニーリゾート®提携ホテル】オフィシャル＆パートナーホテル・無料シャトル宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「東京ディズニーリゾート®提携ホテル」オフィシャル＆パートナーホテル・無料シャトル宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             開園から閉園まで時間を気にせず夢の世界に浸る「東京ディズニーリゾート®提携ホテル」。パーク内・舞浜エリアのオフィシャルホテルや新浦安のパートナーホテル。無料シャトルバス、ホテル内ショップ、疲れた体を癒やす展望大浴場へ。
           </p>

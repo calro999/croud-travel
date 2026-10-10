@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/shizuoka-ito-solo-retreat-onsen-stay/" },
-  title: '【伊東温泉ひとり旅・相模湾オーシャンおこもり】毎分3万L湧出の名湯・貸切源泉露天・金目鯛姿煮！伊豆東海岸の温暖な湯の街厳選3宿',
+  title: '伊東温泉ひとり旅・相模湾オーシャンおこもり：毎分3万L湧出の名湯・貸切源泉露天・金目鯛姿煮！伊豆東海岸の温暖な湯の街厳選3宿',
   description: '湯量日本屈指の伊東温泉！丘の上に建ち相模湾を一望する月替わり会席の名旅館「青山やまと」、アットホームなもてなしと良質な源泉が愛される「やまだ屋」、24時間入浴可能な源泉かけ流し貸切風呂が温泉好きに大人気の「大東館」を徹底比較。',
   keywords: '伊東温泉 一人旅 宿,伊東 ホテル 一人 温泉,青山やまと,伊東温泉 やまだ屋,大東館 伊東,伊東 金目鯛 ひとり旅',
   openGraph: {
-    title: '【伊東温泉ひとり旅・相模湾オーシャンおこもり】毎分3万L湧出の名湯・貸切源泉露天・金目鯛姿煮！伊豆東海岸の温暖な湯の街厳選3宿',
+    title: '伊東温泉ひとり旅・相模湾オーシャンおこもり：毎分3万L湧出の名湯・貸切源泉露天・金目鯛姿煮！伊豆東海岸の温暖な湯の街厳選3宿',
     description: '湯量日本屈指の伊東温泉！丘の上に建ち相模湾を一望する月替わり会席の名旅館「青山やまと」、アットホームなもてなしと良質な源泉が愛される「やまだ屋」、24時間入浴可能な源泉かけ流し貸切風呂が温泉好きに大人気の「大東館」を徹底比較。',
     url: 'https://croud-travel.pages.dev/shizuoka-ito-solo-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【伊東温泉ひとり旅・相模湾オーシャンおこもり】毎分3万L湧出の名湯・貸切源泉露天・金目鯛姿煮！伊豆東海岸の温暖な湯の街厳選3宿',
+    headline: '伊東温泉ひとり旅・相模湾オーシャンおこもり：毎分3万L湧出の名湯・貸切源泉露天・金目鯛姿煮！伊豆東海岸の温暖な湯の街厳選3宿',
     description: '湯量日本屈指の伊東温泉！丘の上に建ち相模湾を一望する月替わり会席の名旅館「青山やまと」、アットホームなもてなしと良質な源泉が愛される「やまだ屋」、24時間入浴可能な源泉かけ流し貸切風呂が温泉好きに大人気の「大東館」を徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             静岡・伊東温泉ひとり旅＆相模湾オーシャンおこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【伊東温泉ひとり旅・相模湾オーシャンおこもり】毎分3万L湧出の名湯・貸切源泉露天・金目鯛姿煮！伊豆東海岸の温暖な湯の街厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「伊東温泉ひとり旅・相模湾オーシャンおこもり」毎分3万L湧出の名湯・貸切源泉露天・金目鯛姿煮！伊豆東海岸の温暖な湯の街厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

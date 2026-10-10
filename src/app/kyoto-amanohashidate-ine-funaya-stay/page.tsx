@@ -5,11 +5,11 @@ import Image from 'next/image';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kyoto-amanohashidate-ine-funaya-stay/" },
-  title: '【京都・天橋立＆伊根の舟屋】股のぞき・舟屋クルーズ＆冬の間人ガニ・名湯宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+  title: '京都・天橋立＆伊根の舟屋：股のぞき・舟屋クルーズ＆冬の間人ガニ・名湯宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
   description: '日本三景「天橋立」の砂嘴を股の間からのぞく飛龍観・傘松公園、海抜ゼロメートルに建ち並ぶ二百三十軒の伝統的建築群「伊根の舟屋」遊覧クルーズ、冬の日本海の幻の最高峰「丹後間人ガニ（たいざがに）」と天橋立温泉を徹底解説。',
   keywords: ["京都", "天橋立", "伊根の舟屋", "股のぞき", "舟屋クルーズ", "冬の間人ガニ", "名湯宿"],
   openGraph: {
-    title: '【京都・天橋立＆伊根の舟屋】股のぞき・舟屋クルーズ＆冬の間人ガニ・名湯宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+    title: '京都・天橋立＆伊根の舟屋：股のぞき・舟屋クルーズ＆冬の間人ガニ・名湯宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
     description: '日本三景「天橋立」の砂嘴を股の間からのぞく飛龍観・傘松公園、海抜ゼロメートルに建ち並ぶ二百三十軒の伝統的建築群「伊根の舟屋」遊覧クルーズ、冬の日本海の幻の最高峰「丹後間人ガニ（たいざがに）」と天橋立温泉を徹底解説。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/kyoto-amanohashidate-ine-funaya-stay',
@@ -50,9 +50,7 @@ export default function Page() {
             <span>🗺️</span>
             <span>AMANOHASHIDATE & INE FUNAYA GUIDE</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">
-            【京都・天橋立＆伊根・丹後半島】天橋立股のぞき・伊根の舟屋群＆幻の間人ガニ宿 完全ガイド
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">「京都・天橋立＆伊根・丹後半島」天橋立股のぞき・伊根の舟屋群＆幻の間人ガニ宿 厳選ガイド</h1>
           <p className="max-w-3xl mx-auto text-stone-300 text-sm sm:text-base md:text-lg leading-relaxed mb-8">
             神話の時代、天と地を結ぶ梯子が倒れてできたと伝わる日本三景「天橋立」。約3.6kmにわたり約8,000本の黒松が白砂の州に連なる奇跡の造形。「股のぞき」をすれば、天地が逆転し龍が天に昇るような神秘のパノラマが広がります。さらに北へ進めば、海と家がひと続きになった日本唯一の景観「伊根の舟屋群」。波静かな伊根湾を進む遊覧船とウミネコの餌付け。冬には幻のズワイガニ「間人ガニ」が膳を彩る海の京都ステイへご案内します。
           </p>

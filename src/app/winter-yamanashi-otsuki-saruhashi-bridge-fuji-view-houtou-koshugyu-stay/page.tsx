@@ -4,11 +4,11 @@ import { Metadata } from 'next';
 import { ExternalLink, Calendar, MapPin, Sparkles, ChevronRight, CheckCircle2, Info, Compass, HelpCircle } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【日本三奇橋・名勝猿橋の冬峡谷美と霊峰富士パノラマ】2026-2027年冬の山梨・大月＆都留！名物手打ちほうとうと甲州牛会席名宿5選 | 旅宿クラウド',
+  title: '日本三奇橋・名勝猿橋の冬峡谷美と霊峰富士パノラマ：2026-2027年冬の山梨・大月＆都留！名物手打ちほうとうと甲州牛会席名宿5選 | 旅宿クラウド',
   description: '歌川広重の浮世絵にも描かれた日本三奇橋・国の名勝「猿橋」の冬峡谷雪景色と、岩殿山から仰ぐ秀麗富嶽十二景・冠雪の富士山大パノラマ！熱々の名物手打ちかぼちゃほうとうや甲州富士桜ポーク、最高峰甲州牛会席。都留の美肌天然温泉「より道の湯」や快適ホテルで寛ぐ冬の東山梨厳選名宿5選。',
   keywords: ['大月・都留・富士東部・上野原', '山梨県', '冬旅行', '温泉旅館', '楽天トラベル', 'ふるさと納税', 'ホテルおすすめ'],
   openGraph: {
-    title: '【日本三奇橋・名勝猿橋の冬峡谷美と霊峰富士パノラマ】2026-2027年冬の山梨・大月＆都留！名物手打ちほうとうと甲州牛会席名宿5選 | 旅宿クラウド',
+    title: '日本三奇橋・名勝猿橋の冬峡谷美と霊峰富士パノラマ：2026-2027年冬の山梨・大月＆都留！名物手打ちほうとうと甲州牛会席名宿5選 | 旅宿クラウド',
     description: '歌川広重の浮世絵にも描かれた日本三奇橋・国の名勝「猿橋」の冬峡谷雪景色と、岩殿山から仰ぐ秀麗富嶽十二景・冠雪の富士山大パノラマ！熱々の名物手打ちかぼちゃほうとうや甲州富士桜ポーク、最高峰甲州牛会席。都留の美肌天然温泉「より道の湯」や快適ホテルで寛ぐ冬の東山梨厳選名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-yamanashi-otsuki-saruhashi-bridge-fuji-view-houtou-koshugyu-stay',
     siteName: '旅宿クラウド',
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: '【日本三奇橋・名勝猿橋の冬峡谷美と霊峰富士パノラマ】2026-2027年冬の山梨・大月＆都留！名物手打ちほうとうと甲州牛会席名宿5選',
+    title: '日本三奇橋・名勝猿橋の冬峡谷美と霊峰富士パノラマ：2026-2027年冬の山梨・大月＆都留！名物手打ちほうとうと甲州牛会席名宿5選',
     description: '歌川広重の浮世絵にも描かれた日本三奇橋・国の名勝「猿橋」の冬峡谷雪景色と、岩殿山から仰ぐ秀麗富嶽十二景・冠雪の富士山大パノラマ！熱々の名物手打ちかぼちゃほうとうや甲州富士桜ポーク、最高峰甲州牛会席。都留の美肌天然温泉「より道の湯」や快適ホテルで寛ぐ冬の東山梨厳選名宿5選。',
   },
 };
@@ -142,9 +142,7 @@ export default function FeaturePage() {
               </span>
             </div>
 
-            <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight text-white">
-              【日本三奇橋・名勝猿橋の冬峡谷美と霊峰富士パノラマ】2026-2027年冬の山梨・大月＆都留！名物手打ちほうとうと甲州牛会席名宿5選
-            </h1>
+            <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight text-white">「日本三奇橋・名勝猿橋の冬峡谷美と霊峰富士パノラマ」2026-2027年冬の山梨・大月＆都留！名物手打ちほうとうと甲州牛会席名宿5選</h1>
 
             <p className="text-stone-300 text-sm sm:text-base leading-relaxed">
               歌川広重の浮世絵にも描かれた日本三奇橋・国の名勝「猿橋」の冬峡谷雪景色と、岩殿山から仰ぐ秀麗富嶽十二景・冠雪の富士山大パノラマ！熱々の名物手打ちかぼちゃほうとうや甲州富士桜ポーク、最高峰甲州牛会席。都留の美肌天然温泉「より道の湯」や快適ホテルで寛ぐ冬の東山梨厳選名宿5選。

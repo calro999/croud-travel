@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-onsen-with-pet/" },
-  title: "【愛犬と一緒】秋・冬のドッグラン＆ペット同伴温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "愛犬と一緒：秋・冬のドッグラン＆ペット同伴温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "愛犬も家族の一員！静岡伊豆高原、栃木那須高原、長野軽井沢、滋賀琵琶湖など、客室同伴OK、専用ドッグラン、愛犬用温泉・コース料理を完備した全国の極上ペットフレンドリー宿を徹底解説。",
   keywords: ["愛犬と一緒", "冬のドッグラン", "ペット同伴温泉宿", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -98,9 +98,7 @@ export default function SeasonalFeaturePage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             PET FRIENDLY RESORT
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【愛犬と一緒】秋・冬のドッグラン＆ペット同伴温泉宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「愛犬と一緒」秋・冬のドッグラン＆ペット同伴温泉宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             色鮮やかな落ち葉を踏みしめながらの紅葉散歩や、澄んだ空気の広大なドッグラン。愛犬と一緒に客室でくつろぎ、一緒にレストランで食事を楽しめる、ワンちゃんファーストの極上温泉リゾートへ。
           </p>

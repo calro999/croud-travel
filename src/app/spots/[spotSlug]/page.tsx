@@ -161,9 +161,7 @@ export default async function SpotDetailPage({ params }: { params: Promise<{ spo
           </span>
         </div>
 
-        <h1 className="text-2xl md:text-4xl font-black font-journal-serif leading-tight text-white">
-          {spot.titleHook || `【${spot.name}】見どころ・所要時間＆周辺の近くておすすめな宿完全ガイド`}
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-black font-journal-serif leading-tight text-white">{spot.titleHook || `「${spot.name}」見どころ・所要時間＆周辺の近くておすすめな宿厳選ガイド`}</h1>
 
         <p className="text-amber-200 font-bold text-sm">
           💡 {spot.subtitle}

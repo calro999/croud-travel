@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-historic-sake-highway-brewery-walk-stay/" },
-  title: "【日本銘酒街道・酒蔵の町並み巡り宿】灘・西条・伏見・魚沼・諏訪街道 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "日本銘酒街道・酒蔵の町並み巡り宿：灘・西条・伏見・魚沼・諏訪街道 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "白壁土蔵と杉玉が揺れる歴史の酒蔵通り！日本屈指の銘酒街道巡り＆温泉宿完全特化！兵庫灘五郷（有馬温泉）、広島西条酒蔵通り、京都伏見酒蔵水辺散策、新潟魚沼銘酒街道、長野諏訪甲州街道、歴史的蔵元見学と門前町ステイを徹底解説。",
   keywords: ["日本銘酒街道", "酒蔵の町並み巡り宿", "西条", "伏見", "魚沼", "諏訪街道", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function SakeTourismHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-gradient-to-r from-amber-400 to-yellow-300 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block shadow">
             HISTORIC SAKE HIGHWAY GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【日本銘酒街道・酒蔵の町並み巡り宿】灘・西条・伏見・魚沼・諏訪街道 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「日本銘酒街道・酒蔵の町並み巡り宿」灘・西条・伏見・魚沼・諏訪街道 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             軒先に掲げられた青々とした「杉玉」、黒板塀と白壁土蔵、赤レンガの煙突が連なる「酒蔵の町並み」。江戸時代から日本の酒造りを牽引してきた灘五郷、赤瓦の酒蔵が並ぶ西条、十石舟が往く京都伏見。歴史ある酒蔵をそぞろ歩き、名湯の宿で酔いしれる旅へ。
           </p>

@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【10月下旬！上高地黄金のカラマツ黄葉】大正池・河童橋と乳白色の白骨名湯宿5選",
+  title: "下旬！上高地黄金のカラマツ黄葉で過ごす冬の旅（10月）！大正池・河童橋と乳白色の白骨名湯宿5選",
   description: "穂高連峰が初冠雪を抱き、梓川沿いのカラマツ並木が黄金色に輝く秋の上高地！大正池の朝靄から、3日入れば3年風邪をひかない乳白色の秘湯・白骨温泉の名宿まで厳選5選。",
   keywords: "上高地 カラマツ 黄葉 10月 見頃, 上高地 紅葉 ホテル, 白骨温泉 旅館 おすすめ, 湯元齋藤旅館, 上高地ルミエスタホテル, 梓川 河童橋",
   alternates: {
     canonical: "https://croud-travel.pages.dev/autumn-nagano-kamikochi-karamatsu-shirahone-onsen-hotels-stay/",
   },
   openGraph: {
-    title: "【10月下旬！上高地黄金のカラマツ黄葉】大正池・河童橋と乳白色の白骨名湯宿5選",
+    title: "下旬！上高地黄金のカラマツ黄葉で過ごす冬の旅（10月）！大正池・河童橋と乳白色の白骨名湯宿5選",
     description: "穂高連峰が初冠雪を抱き、梓川沿いのカラマツ並木が黄金色に輝く秋の上高地！大正池の朝靄から、3日入れば3年風邪をひかない乳白色の秘湯・白骨温泉の名宿まで厳選5選。",
     url: 'https://croud-travel.pages.dev/autumn-nagano-kamikochi-karamatsu-shirahone-onsen-hotels-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【10月下旬！上高地黄金のカラマツ黄葉】大正池・河童橋と乳白色の白骨名湯宿5選",
+    title: "下旬！上高地黄金のカラマツ黄葉で過ごす冬の旅（10月）！大正池・河童橋と乳白色の白骨名湯宿5選",
     description: "穂高連峰が初冠雪を抱き、梓川沿いのカラマツ並木が黄金色に輝く秋の上高地！大正池の朝靄から、3日入れば3年風邪をひかない乳白色の秘湯・白骨温泉の名宿まで厳選5選。",
   }
 };
@@ -131,9 +131,7 @@ export default function FeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             10月下旬限定・神降地カラマツ黄葉特集
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【10月下旬！上高地黄金のカラマツ黄葉】<br className="hidden sm:inline" />大正池・河童橋と乳白色の白骨名湯宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">下旬！上高地黄金のカラマツ黄葉で過ごす冬の旅（10月）！<br className="hidden sm:inline" />大正池・河童橋と乳白色の白骨名湯宿5選</h1>
           <p className="max-w-2xl mx-auto text-sm md:text-base text-stone-200 leading-relaxed">
             梓川のエメラルドグリーンと、黄金色に輝くカラマツ林。初冠雪の穂高連峰が織りなす「三段紅葉」の奇跡！11月の閉山直前に訪れたい上高地と、秘湯・白骨温泉の極上宿を厳選。
           </p>

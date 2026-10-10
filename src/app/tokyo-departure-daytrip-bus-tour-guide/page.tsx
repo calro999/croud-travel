@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tokyo-departure-daytrip-bus-tour-guide/" },
-  title: "【東京・新宿発 日帰りバスツアーおすすめ2026】季節のフルーツ狩り・絶景温泉・食べ放題の最強プラン徹底比較",
+  title: "東京・新宿発 日帰りバスツアーおすすめ2026：季節のフルーツ狩り・絶景温泉・食べ放題の最強プラン徹底比較",
   description: "東京・新宿発の日帰りバスツアーを徹底解説！シャインマスカット狩り、桔梗信玄餅詰め放題、海鮮浜焼き食べ放題、箱根・伊豆の露天風呂入浴付きまで、人気定番＆穴場ツアーの料金・時間・集合場所まとめ。",
   keywords: ["東京", "新宿発", "季節のフルーツ狩り", "絶景温泉", "食べ放題の最強プラン徹底比較", "温泉宿", "宿泊予約"],
 };
@@ -164,12 +164,7 @@ export default function TokyoDepartureDaytripBusTourPage() {
             <span>車なし・手ぶらで大満足</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-5xl font-black tracking-tight leading-tight md:leading-[1.2] text-white">
-            【東京・新宿発 日帰りバスツアーおすすめ2026】
-            <br />
-            <span className="text-emerald-300">季節のフルーツ狩り・絶景温泉・食べ放題</span>
-            <span className="text-emerald-100">の最強プラン徹底比較</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-5xl font-black tracking-tight leading-tight md:leading-[1.2] text-white">「東京・新宿発 日帰りバスツアーおすすめ2026」 <br /> <span className="text-emerald-300">季節のフルーツ狩り・絶景温泉・食べ放題</span> <span className="text-emerald-100">の最強プラン徹底比較</span></h1>
 
           <p className="text-emerald-100/90 text-sm md:text-base max-w-3xl leading-relaxed pt-2">
             新宿・東京駅から出発する人気日帰りバスツアーの完全ガイド。シャインマスカットや桃狩り、桔梗信玄餅詰め放題、房総の海鮮浜焼き食べ放題、箱根の露天風呂入浴まで、電車や自家用車では真似できない圧倒的なコストパフォーマンスと満足度の秘訣を徹底比較します。

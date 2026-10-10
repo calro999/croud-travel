@@ -6,14 +6,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月宮崎】冬旬「日向灘伊勢海老」！名宿5選',
+  title: '11・12・1月宮崎：冬旬「日向灘伊勢海老」！名宿5選',
   description: '冬でも温暖な南国・宮崎の日豊海岸。11〜1月の冬シーズンは湿度が低く大気が澄み渡り。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '馬ヶ背 絶景, クルスの海 初日の出, 大御神社 初詣, 日向灘 伊勢海老, 宮崎牛, ホテルベルフォート日向, エンシティホテル延岡, チキン南蛮 直ちゃん, 延岡 ホテル, 宮崎 冬旅行',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-miyazaki-hyuga-umagase-sea-cross-iseebi-miyazakigyu-stay'
   },
   openGraph: {
-    title: '【11・12・1月宮崎】冬旬「日向灘伊勢海老」！名宿5選',
+    title: '11・12・1月宮崎：冬旬「日向灘伊勢海老」！名宿5選',
     description: '冬でも温暖な南国・宮崎の日豊海岸。11〜1月の冬シーズンは湿度が低く大気が澄み渡り。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-miyazaki-hyuga-umagase-sea-cross-iseebi-miyazakigyu-stay',
     type: 'article',
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月宮崎】日向岬「馬ヶ背」断崖絶壁と「クルスの海」新春祈願！冬旬「日向灘伊勢海老」＆宮崎牛・延岡名宿5選",
+    title: "11・12・1月宮崎：日向岬「馬ヶ背」断崖絶壁と「クルスの海」新春祈願！冬旬「日向灘伊勢海老」＆宮崎牛・延岡名宿5選",
     description: "冬でも温暖な南国・宮崎の日豊海岸。11〜1月の冬シーズンは湿度が低く大気が澄み渡り、紺碧に輝く太平洋と高さ70mの柱状節理「馬ヶ背」の断崖絶壁が圧倒的なスケールで迫ります。十字の奇岩に願いを込める「クルスの海」や日向のお伊勢さま「大御神社」で迎える厳かな新春初詣。日向灘の荒波で身が引き締まった冬旬「日向灘伊勢海老」の活造り・味噌汁と、日本一の称号を誇る「宮崎牛」の極上鉄板焼き、延岡発祥の元祖チキン南蛮。心地よい南国ステイを満喫する厳選名宿5選を徹底特集。",
     images: ['https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -281,10 +281,7 @@ export default function MiyazakiHyugaWinterPage() {
             <Snowflake className="w-4 h-4 text-amber-300" />
             <span>九州・宮崎 日豊海岸・日向延岡 冬の特別紀行（11月・12月・1月）</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 font-journal-serif">
-            日向岬「馬ヶ背」断崖絶壁と「クルスの海」新春祈願！<br className="hidden md:inline" />
-            冬旬「日向灘伊勢海老」＆宮崎牛・延岡名宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 font-journal-serif">日向岬「馬ヶ背」断崖絶壁と「クルスの海」新春祈願！<br className="hidden md:inline" /> 冬旬「日向灘伊勢海老」＆宮崎牛・延岡名宿5選</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mb-6">
             宮崎空港から特急で日向灘沿いを北上。11〜1月の冬期は雨が少なく、日本屈指の透明度を誇る日豊海岸の海が最も深いコバルトブルーに輝く奇跡の季節です。高さ70mの柱状節理の断崖が垂直に切り立つ「馬ヶ背」のスケルトン展望台、十字の波が削り出した奇跡の願掛け地「クルスの海」、そして日向のお伊勢さま「大御神社」での厳かな新春初詣。黒潮の荒波が育む冬旬「日向灘伊勢海老」の活造りと日本一の栄冠に輝く「宮崎牛」、延岡発祥の元祖チキン南蛮に舌鼓を打つ極上の南国冬旅をお届けします。
           </p>

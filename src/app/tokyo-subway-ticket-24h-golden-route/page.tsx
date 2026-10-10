@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tokyo-subway-ticket-24h-golden-route/" },
-  title: "【東京メトロ24時間券 活用完全ガイド】600円で都内観光乗り倒し！元を取るコスパ最強ルート＆駅チカ宿 ｜ 日本全国・旅宿クラウド",
+  title: "東京メトロ24時間券 活用厳選ガイド：600円で都内観光乗り倒し！元を取るコスパ最強ルート＆駅チカ宿 ｜ 日本全国・旅宿クラウド",
   description:
     "始発から終電ではなく「使い始めから24時間有効」の東京メトロ24時間券（600円）！初乗り180円×4回で元が取れる。浅草・銀座・渋谷・六本木・新宿を効率よく巡る東京観光モデルコースと大浴場付きホテル。",
   keywords: ["東京メトロ24時間券", "活用", "駅チカ宿", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
@@ -162,14 +162,7 @@ export default function TokyoSubwayTicket24hPage() {
             <span className="w-2 h-2 rounded-full bg-cyan-400 animate-ping" />
             東京都市交通 コスパ最強チケット完全攻略 2026
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【東京メトロ24時間券 活用完全ガイド】<br />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-300 via-sky-200 to-teal-300">
-              たった600円で都内観光乗り倒し！
-            </span>
-            <br />
-            元を取るコスパ最強ルート＆駅チカ宿
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「東京メトロ24時間券 活用厳選ガイド」<br /> <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-300 via-sky-200 to-teal-300"> たった600円で都内観光乗り倒し！ </span> <br /> 元を取るコスパ最強ルート＆駅チカ宿</h1>
           <p className="text-cyan-100/90 text-base sm:text-lg max-w-3xl leading-relaxed mb-8">
             終電で切れる1日乗車券の時代は終了！東京メトロ24時間券なら、使い始めたその分から翌日の同時刻まで丸々24時間乗り放題。
             初乗り180円×4回で元取れ確定。1泊2日の東京観光で「初日午後＋翌日午前」を1枚で乗り切る裏ワザと、メトロ沿線の利便性抜群ホテルを徹底公開。

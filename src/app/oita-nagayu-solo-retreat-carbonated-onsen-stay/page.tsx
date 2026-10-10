@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/oita-nagayu-solo-retreat-carbonated-onsen-stay/" },
-  title: '【竹田・長湯温泉ひとり旅・世界屈指の高濃度炭酸泉おこもり】ラムネ温泉館・芹川せせらぎ露天・豊後牛＆エノハ料理！くじゅう連山山麓厳選3宿',
+  title: '竹田・長湯温泉ひとり旅・世界屈指の高濃度炭酸泉おこもり：ラムネ温泉館・芹川せせらぎ露天・豊後牛＆エノハ料理！くじゅう連山山麓厳選3宿',
   description: '世界有数の炭酸ガス含有量を誇る日本一の炭酸泉・大分・長湯温泉！洗練された数寄屋造りと極上会席が口コミ★4.8超の「丸長旅館」、芹川沿いの名湯露天と川端康成ゆかりの歴史を誇る名門「大丸旅館」、アットホームな湯守の温もりと良泉の「上野屋旅館」を楽天API最新データに基づき徹底比較。',
   keywords: '長湯温泉 一人旅 宿,長湯 ホテル 一人 温泉,丸長旅館 長湯,大丸旅館,上野屋旅館 長湯,長湯 炭酸泉 ひとり旅',
   openGraph: {
-    title: '【竹田・長湯温泉ひとり旅・世界屈指の高濃度炭酸泉おこもり】ラムネ温泉館・芹川せせらぎ露天・豊後牛＆エノハ料理！くじゅう連山山麓厳選3宿',
+    title: '竹田・長湯温泉ひとり旅・世界屈指の高濃度炭酸泉おこもり：ラムネ温泉館・芹川せせらぎ露天・豊後牛＆エノハ料理！くじゅう連山山麓厳選3宿',
     description: '世界有数の炭酸ガス含有量を誇る日本一の炭酸泉・大分・長湯温泉！洗練された数寄屋造りと極上会席が口コミ★4.8超の「丸長旅館」、芹川沿いの名湯露天と川端康成ゆかりの歴史を誇る名門「大丸旅館」、アットホームな湯守の温もりと良泉の「上野屋旅館」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/oita-nagayu-solo-retreat-carbonated-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【竹田・長湯温泉ひとり旅・世界屈指の高濃度炭酸泉おこもり】ラムネ温泉館・芹川せせらぎ露天・豊後牛＆エノハ料理！くじゅう連山山麓厳選3宿',
+    headline: '竹田・長湯温泉ひとり旅・世界屈指の高濃度炭酸泉おこもり：ラムネ温泉館・芹川せせらぎ露天・豊後牛＆エノハ料理！くじゅう連山山麓厳選3宿',
     description: '世界有数の炭酸ガス含有量を誇る日本一の炭酸泉・大分・長湯温泉！洗練された数寄屋造りと極上会席が口コミ★4.8超の「丸長旅館」、芹川沿いの名湯露天と川端康成ゆかりの歴史を誇る名門「大丸旅館」、アットホームな湯守の温もりと良泉の「上野屋旅館」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             大分・長湯温泉ひとり旅＆世界屈指の炭酸泉おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【竹田・長湯温泉ひとり旅・世界屈指の高濃度炭酸泉おこもり】ラムネ温泉館・芹川せせらぎ露天・豊後牛＆エノハ料理！くじゅう連山山麓厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「竹田・長湯温泉ひとり旅・世界屈指の高濃度炭酸泉おこもり」ラムネ温泉館・芹川せせらぎ露天・豊後牛＆エノハ料理！くじゅう連山山麓厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

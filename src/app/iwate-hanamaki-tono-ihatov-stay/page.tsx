@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/iwate-hanamaki-tono-ihatov-stay/" },
-  title: "【岩手・花巻温泉郷＆遠野】宮沢賢治イーハトーブ・カッパ淵＆大沢・台温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "岩手・花巻温泉郷＆遠野：宮沢賢治イーハトーブ・カッパ淵＆大沢・台温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "宮沢賢治の故郷と民話の里・岩手花巻＆遠野エリア完全特化！花巻温泉郷（大沢温泉・鉛温泉・台温泉）の名湯、宮沢賢治童話村、遠野カッパ淵、伝承園のオシラサマ、前沢牛・白金豚・手打ちわんこそば宿を徹底解説。",
   keywords: ["岩手", "花巻温泉郷", "遠野", "宮沢賢治イーハトーブ", "カッパ淵", "大沢", "台温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             HANAMAKI & TONO GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【岩手・花巻温泉郷＆遠野】宮沢賢治イーハトーブ・カッパ淵＆大沢・台温泉宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「岩手・花巻温泉郷＆遠野」宮沢賢治イーハトーブ・カッパ淵＆大沢・台温泉宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             宮沢賢治が愛した理想郷「イーハトーブ花巻」と、柳田國男『遠野物語』の世界が息づく民話の里「遠野」。渓流沿いの湯治場風情残る大沢温泉や鉛温泉の日本一深い自噴立ち湯。カッパ淵の静寂と極上の白金豚に癒やされる旅。
           </p>

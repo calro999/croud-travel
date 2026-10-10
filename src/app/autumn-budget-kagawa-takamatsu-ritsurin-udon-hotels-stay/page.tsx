@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【高松】栗林公園の秋紅葉ライトアップと讃岐うどん巡り！格安ホテル5選',
+  title: '高松：栗林公園の秋紅葉ライトアップと讃岐うどん巡り！格安ホテル5選',
   description: 'ミシュラン三ツ星の名園「栗林公園」の錦秋ライトアップと、本場香川の讃岐うどん名店巡り！高松駅・市内中心部で1泊3,000円台〜4,000円台で泊まれる格安・高コスパホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>特別名勝栗林公園ライトアップ＆うどん名店</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【高松】栗林公園の紅葉ライトアップ＆讃岐うどん！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「高松」栗林公園の紅葉ライトアップ＆讃岐うどん！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-emerald-100/90 max-w-2xl mx-auto leading-relaxed">
             大名庭園・栗林公園の湖面に鏡のように映し出される秋紅葉の幻想的なライトアップ。早朝から茹でたての一杯をすする本場「讃岐うどん」の名店巡りや骨付鳥など、秋の高松は五感で楽しむ旅の宝庫！3,000円台〜4,000円台の駅前・市内良質ホテルをご紹介します。
           </p>

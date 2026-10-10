@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【徳島駅前】秋の徳島ラーメン＆鳴門鯛・眉山パノラマ！4,000円台〜泊まれる格安ホテル5選',
+  title: '徳島駅前：秋の徳島ラーメン＆鳴門鯛・眉山パノラマ！4,000円台〜泊まれる格安ホテル5選',
   description: '甘辛豚バラ肉と生卵が絡む濃厚すき焼き風・徳島ラーメンと、潮流で身が引き締まる秋の鳴門鯛！阿波おどりの聖地・眉山のロープウェイ夜景を望む徳島駅周辺で1泊4,000円台〜泊まれる格安宿厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetTokushimaStationHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>濃厚ご当地ラーメン＆阿波のシンボル眉山夜景</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【徳島駅前】甘辛濃厚豚骨・徳島ラーメン＆眉山夜景！<br className="hidden sm:inline" />4,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「徳島駅前」甘辛濃厚豚骨・徳島ラーメン＆眉山夜景！<br className="hidden sm:inline" />4,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-indigo-100/90 max-w-2xl mx-auto leading-relaxed">
             濃いめの豚骨醤油スープにじっくり煮込んだ甘辛豚バラ肉と生卵をトッピングした、白ご飯が進みまくるソウルフード「徳島ラーメン」。阿波おどり会館からロープウェイで登る眉山山頂からの絶景夜景を満喫し、徳島駅周辺で4,000円台〜泊まれる好立地ホテルを厳選。
           </p>

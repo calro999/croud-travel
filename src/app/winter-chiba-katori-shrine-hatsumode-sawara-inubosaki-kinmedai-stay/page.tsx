@@ -3,14 +3,14 @@ import Link from 'next/link';
 import { MapPin, Calendar, Star, ExternalLink, ChevronRight, Sparkles, Compass, ShieldCheck, Heart } from 'lucide-react';
 
 export const metadata = {
-  title: '【下総国一宮・香取神宮新春初詣と小江戸佐原の雪情話】2026-2027年冬の千葉・香取＆犬吠埼！本州最速初日の出と極上寒金目鯛名宿5選',
+  title: '下総国一宮・香取神宮新春初詣と小江戸佐原の雪情話：2026-2027年冬の千葉・香取＆犬吠埼！本州最速初日の出と極上寒金目鯛名宿5選',
   description: '全国約400社ある香取神社の総本社・下総国一之宮「香取神宮」新春初詣！江戸情緒残る水郷・佐原の重伝建の町並みと本州で最も早い初日の出を望む犬吠埼温泉。冬に脂が乗る銚子の至宝「寒つり金目鯛」や極上和牛に心奪われる北総・東総の厳選名宿5選。',
   keywords: ['香取・佐原・銚子', '千葉県 温泉', '冬旅行', '初詣', '11月旅行', '12月旅行', '1月旅行', '宿泊予約', '楽天トラベル'],
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-chiba-katori-shrine-hatsumode-sawara-inubosaki-kinmedai-stay/',
   },
   openGraph: {
-    title: '【下総国一宮・香取神宮新春初詣と小江戸佐原の雪情話】2026-2027年冬の千葉・香取＆犬吠埼！本州最速初日の出と極上寒金目鯛名宿5選',
+    title: '下総国一宮・香取神宮新春初詣と小江戸佐原の雪情話：2026-2027年冬の千葉・香取＆犬吠埼！本州最速初日の出と極上寒金目鯛名宿5選',
     description: '全国約400社ある香取神社の総本社・下総国一之宮「香取神宮」新春初詣！江戸情緒残る水郷・佐原の重伝建の町並みと本州で最も早い初日の出を望む犬吠埼温泉。冬に脂が乗る銚子の至宝「寒つり金目鯛」や極上和牛に心奪われる北総・東総の厳選名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-chiba-katori-shrine-hatsumode-sawara-inubosaki-kinmedai-stay/',
     siteName: '冬の日本厳選旅行ガイド',
@@ -27,7 +27,7 @@ export const metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: '【下総国一宮・香取神宮新春初詣と小江戸佐原の雪情話】2026-2027年冬の千葉・香取＆犬吠埼！本州最速初日の出と極上寒金目鯛名宿5選',
+    title: '下総国一宮・香取神宮新春初詣と小江戸佐原の雪情話：2026-2027年冬の千葉・香取＆犬吠埼！本州最速初日の出と極上寒金目鯛名宿5選',
     description: '全国約400社ある香取神社の総本社・下総国一之宮「香取神宮」新春初詣！江戸情緒残る水郷・佐原の重伝建の町並みと本州で最も早い初日の出を望む犬吠埼温泉。冬に脂が乗る銚子の至宝「寒つり金目鯛」や極上和牛に心奪われる北総・東総の厳選名宿5選。',
     images: ['https://img.travel.rakuten.co.jp/share/HOTEL/166043/166043.jpg'],
   },
@@ -230,9 +230,7 @@ export default function Page() {
               <span>2026-2027年冬（11月・12月・1月）完全ガイド</span>
             </div>
 
-            <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold tracking-tight leading-snug">
-              【下総国一宮・香取神宮新春初詣と小江戸佐原の雪情話】2026-2027年冬の千葉・香取＆犬吠埼！本州最速初日の出と極上寒金目鯛名宿5選
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold tracking-tight leading-snug">「下総国一宮・香取神宮新春初詣と小江戸佐原の雪情話」2026-2027年冬の千葉・香取＆犬吠埼！本州最速初日の出と極上寒金目鯛名宿5選</h1>
 
             <p className="text-sm sm:text-base text-stone-200 leading-relaxed pt-2">
               全国約400社ある香取神社の総本社・下総国一之宮「香取神宮」新春初詣！江戸情緒残る水郷・佐原の重伝建の町並みと本州で最も早い初日の出を望む犬吠埼温泉。冬に脂が乗る銚子の至宝「寒つり金目鯛」や極上和牛に心奪われる北総・東総の厳選名宿5選。

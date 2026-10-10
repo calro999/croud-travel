@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-tidal-flats-nature-stay/" },
-  title: '日本三大干潟＆野鳥と海の満ち引きパノラマ・絶景海鮮シーサイド宿×ふるさと納税完全ガイド【2026年最新】有明海・諫早湾・曽根干潟',
+  title: '日本三大干潟＆野鳥と海の満ち引きパノラマ・絶景海鮮シーサイド宿×ふるさと納税厳選ガイド有明海・諫早湾・曽根干潟',
   description: '最大6mの干満差が描く地球の鼓動！佐賀太良「有明海干潟」竹崎カニと絶景露天風呂の太良嶽温泉ホテル蟹御殿、長崎諫早「諫早湾干潟」ムツゴロウの楽園と雲仙温泉名湯雲仙いわき旅館、福岡北九州「曽根干潟」カブトガニ息づく瀬戸内海最大の干潟とプレミアホテル門司港。日本三大干潟（三大干潟湿地）の雄大な海景と海鮮グルメを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大干潟・湿地ネイチャー特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大干潟＆野鳥と海の満ち引きパノラマ・絶景海鮮シーサイド宿×ふるさと納税完全ガイド【2026年最新】有明海・諫早湾・曽根干潟',
+    title: '日本三大干潟＆野鳥と海の満ち引きパノラマ・絶景海鮮シーサイド宿×ふるさと納税厳選ガイド有明海・諫早湾・曽根干潟',
     description: '最大6mの干満差が描く地球の鼓動！佐賀太良「有明海干潟」竹崎カニと絶景露天風呂の太良嶽温泉ホテル蟹御殿、長崎諫早「諫早湾干潟」ムツゴロウの楽園と雲仙温泉名湯雲仙いわき旅館、福岡北九州「曽根干潟」カブトガニ息づく瀬戸内海最大の干潟とプレミアホテル門司港。日本三大干潟（三大干潟湿地）の雄大な海景と海鮮グルメを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-tidal-flats-nature-stay',
@@ -155,9 +155,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大干潟・湿地ネイチャー特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大干潟＆海の満ち引き海鮮宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大干潟＆海の満ち引き海鮮宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             月の引力によって海水が大きく満ち引きし、日本最大の干満差と多様な生き物を育む「日本三大干潟（三大干潟湿地）」――最大6メートルもの潮位差を誇り、ムツゴロウやワラスボなど固有の珍魚が棲息し夕日に照らされる広大な泥干潟が神秘的な佐賀・福岡にまたがる「有明海干潟」、有明海奥部に位置し渡り鳥の重要な中継地として広大な干潟風景が広がる長崎の「諫早湾干潟」、そして瀬戸内海最大級の約8.8平方キロメートルの泥干潟が広がり、生きた化石・カブトガニの貴重な産卵地として守られる福岡北九州の「曽根干潟」。潮の満ち引きによって刻一刻と表情を変える干潟の景色は、地球のダイナミズムをありのままに伝えてくれます。海を間近に望むオーシャンビュー温泉旅館や港町ホテルを拠点に、名物竹崎カニや関門海峡の海の幸を堪能する特別な休日を楽天ふるさと納税でお楽しみください。
           </p>

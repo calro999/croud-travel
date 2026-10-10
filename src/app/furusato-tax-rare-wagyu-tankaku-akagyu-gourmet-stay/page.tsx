@@ -4,14 +4,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '幻の極上赤身肉「短角牛・あか牛」美食温泉宿×ふるさと納税完全ガイド【2026年最新】岩手・熊本阿蘇・高知土佐',
+  title: '幻の極上赤身肉「短角牛・あか牛」美食温泉宿×ふるさと納税厳選ガイド岩手・熊本阿蘇・高知土佐',
   description: '肉本来の濃厚な旨味とヘルシーな赤身！岩手久慈「いわて短角牛」の極上ステーキと奥羽のいで湯、熊本「くまもとあか牛」阿蘇の草原が育む炭火焼きと名湯巡り、高知「土佐あかうし」年間数百頭の幻の和牛会席。黒毛和牛とは一線を画す赤身肉の頂点を楽天ふるさと納税宿泊クーポンでお得に味わう完全ガイド。',
   keywords: 'ふるさと納税, 楽天トラベル, 旅行クーポン, 宿泊記, ホテル予約, 国内旅行, おすすめ宿, 温泉旅館',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-rare-wagyu-tankaku-akagyu-gourmet-stay/",
   },
   openGraph: {
-    title: '幻の極上赤身肉「短角牛・あか牛」美食温泉宿×ふるさと納税完全ガイド【2026年最新】岩手・熊本阿蘇・高知土佐',
+    title: '幻の極上赤身肉「短角牛・あか牛」美食温泉宿×ふるさと納税厳選ガイド岩手・熊本阿蘇・高知土佐',
     description: '肉本来の濃厚な旨味とヘルシーな赤身！岩手久慈「いわて短角牛」の極上ステーキと奥羽のいで湯、熊本「くまもとあか牛」阿蘇の草原が育む炭火焼きと名湯巡り、高知「土佐あかうし」年間数百頭の幻の和牛会席。黒毛和牛とは一線を画す赤身肉の頂点を楽天ふるさと納税宿泊クーポンでお得に味わう完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-rare-wagyu-tankaku-akagyu-gourmet-stay',
     siteName: 'トラベル総合ナビ',
@@ -56,9 +56,7 @@ export default function Page() {
             <span>✨</span>
             <span>短角牛・あか牛・希少和牛美食特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6 text-white drop-shadow-sm">
-            幻の極上赤身肉「短角牛・あか牛」美食温泉宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6 text-white drop-shadow-sm">幻の極上赤身肉「短角牛・あか牛」美食温泉宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-xl text-slate-200 leading-relaxed font-normal max-w-4xl">
             噛みしめるほどに溢れ出す芳醇な肉汁。健康志向の美食家が辿り着く「本物の赤身和牛」ステイ
           </p>

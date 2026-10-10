@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-beautiful-forests-stay/" },
-  title: '日本三大美林＆天然木アロマと森林浴・癒やしのリトリート温泉宿×ふるさと納税完全ガイド【2026年最新】青森ヒバ・秋田スギ・木曽ヒノキ',
+  title: '日本三大美林＆天然木アロマと森林浴・癒やしのリトリート温泉宿×ふるさと納税厳選ガイド青森ヒバ・秋田スギ・木曽ヒノキ',
   description: '深呼吸したくなる天然木のアロマと原生林の静寂！青森下北半島「青森ヒバ」日本最大の美林とプラザホテルむつ、秋田白神「天然秋田スギ」樹齢200年超の巨木と白神山地ホテルゆとりあ藤里、長野木曽路「木曽ヒノキ」伊勢神宮のご神木を育む御杣山とおん宿蔦屋。日本三大美林のフィトンチッドに包まれるリトリート旅を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大美林・森林浴リトリート特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大美林＆天然木アロマと森林浴・癒やしのリトリート温泉宿×ふるさと納税完全ガイド【2026年最新】青森ヒバ・秋田スギ・木曽ヒノキ',
+    title: '日本三大美林＆天然木アロマと森林浴・癒やしのリトリート温泉宿×ふるさと納税厳選ガイド青森ヒバ・秋田スギ・木曽ヒノキ',
     description: '深呼吸したくなる天然木のアロマと原生林の静寂！青森下北半島「青森ヒバ」日本最大の美林とプラザホテルむつ、秋田白神「天然秋田スギ」樹齢200年超の巨木と白神山地ホテルゆとりあ藤里、長野木曽路「木曽ヒノキ」伊勢神宮のご神木を育む御杣山とおん宿蔦屋。日本三大美林のフィトンチッドに包まれるリトリート旅を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-beautiful-forests-stay',
@@ -158,9 +158,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大美林・森林浴リトリート特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大美林＆森林浴・天然木アロマ温泉宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大美林＆森林浴・天然木アロマ温泉宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             悠久の時を生き抜いた日本を代表する最高級木材の原生林「日本三大美林」――下北半島の厳しい風雪に耐え抗菌・リラックス効果抜群のヒノキチオールを豊富に含む青森の「青森ヒバ」、出羽山地から白神山地にかけての厳しい寒暖差が美しい年輪と真紅の木肌を育てる秋田の「天然秋田スギ」、そして尾張徳川家が「木一本、首一つ」と厳格に保護し伊勢神宮の式年遷宮のご神木として使われる長野の「木曽ヒノキ」。木々の放つ芳醇なアロマ（フィトンチッド）に包まれて歩く森林セラピーは、現代人の乱れた自律神経を整え深い安らぎをもたらします。総ヒバ風呂やヒノキ風呂を備えた温泉宿で寛ぎ、大間マグロ・比内地鶏・信州牛と木曽蕎麦を味わう極上の休日を楽天ふるさと納税でお楽しみください。
           </p>

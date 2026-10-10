@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '日本三大弁財天＆開運金運・芸能上達の聖地巡礼と水辺の名宿×ふるさと納税完全ガイド【2026年最新】竹生島・江の島・厳島',
+  title: '日本三大弁財天＆開運金運・芸能上達の聖地巡礼と水辺の名宿×ふるさと納税厳選ガイド竹生島・江の島・厳島',
   description: '水と美、財運と芸能の女神を祀る霊験あらたかな「日本三大弁財天」（滋賀琵琶湖・竹生島宝厳寺竹生島神社、神奈川湘南・江島神社、広島安芸・世界遺産厳島神社）。神秘的な島旅と水辺の絶景、門前町の歴史名旅館や美食リゾート。楽天ふるさと納税の宿泊割引クーポンを活用して、実質2,000円負担で巡る開運と癒やしのパワースポット宿泊ガイド。',
   keywords: ["日本三大弁財天", "開運金運", "2026年最新", "竹生島", "江の島", "厳島", "温泉宿"],
   alternates: { canonical: baseUrl + '/furusato-tax-three-great-ancient-shrines-torii-pilgrimage-stay/' },
   openGraph: {
-    title: '日本三大弁財天＆開運金運・芸能上達の聖地巡礼と水辺の名宿×ふるさと納税完全ガイド【2026年最新】竹生島・江の島・厳島',
+    title: '日本三大弁財天＆開運金運・芸能上達の聖地巡礼と水辺の名宿×ふるさと納税厳選ガイド竹生島・江の島・厳島',
     description: '水と美、財運と芸能の女神を祀る霊験あらたかな「日本三大弁財天」（滋賀琵琶湖・竹生島宝厳寺竹生島神社、神奈川湘南・江島神社、広島安芸・世界遺産厳島神社）。神秘的な島旅と水辺の絶景、門前町の歴史名旅館や美食リゾート。楽天ふるさと納税の宿泊割引クーポンを活用して、実質2,000円負担で巡る開運と癒やしのパワースポット宿泊ガイド。',
     url: baseUrl + '/furusato-tax-three-great-ancient-shrines-torii-pilgrimage-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoRound62ArticlePage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             日本三大弁財天・水辺の聖地巡礼ステイ特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            日本三大弁財天＆開運金運・芸能上達の聖地巡礼と水辺の名宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">日本三大弁財天＆開運金運・芸能上達の聖地巡礼と水辺の名宿</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             インドの河神サラスヴァティーに起源を持ち、日本において水神・美・金運・福徳・芸能の神として篤く信仰されてきた「弁財天」。その最高峰に君臨するのが、いずれも水辺や離島に鎮座する「日本三大弁財天」です。琵琶湖に浮かぶ神の棲む島として国宝本堂やかわらけ投げで名高い滋賀・竹生島宝厳寺、湘南の海越しに霊峰富士を仰ぎ江の島弁財天として親しまれる神奈川・江島神社、そして海上に浮かぶ大鳥居と寝殿造り社殿が世界遺産に登録された安芸の宮島・厳島神社。水面を渡る清らかな風を受け、古刹・古社の神域に身を清めた後は、湖畔や海辺の名宿で滋味あふれる郷土会席と名湯に癒やされる贅沢。楽天ふるさと納税の宿泊クーポンを駆使して、強大な開運エネルギーと非日常の絶景に満たされるプレミアムな聖地巡礼の旅へ出かけましょう。
           </p>

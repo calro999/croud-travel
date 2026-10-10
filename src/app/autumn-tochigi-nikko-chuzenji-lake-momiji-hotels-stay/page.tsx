@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【10月中旬〜下旬！日光中禅寺湖の紅葉】いろは坂・男体山ビューと奥日光名湯宿5選",
+  title: "中旬〜下旬！日光中禅寺湖の紅葉で過ごす冬の旅（10月）！いろは坂・男体山ビューと奥日光名湯宿5選",
   description: "標高1,269mの山上湖・中禅寺湖畔を燃えるような紅葉が包む日光の秋！いろは坂の絶景や男体山を望む露天風呂、歴史ある名門リゾートから乳白色の秘湯まで厳選5選。",
   keywords: "中禅寺湖 紅葉 10月 見頃, いろは坂 紅葉 ホテル, 奥日光 温泉 旅館, 中禅寺金谷ホテル, ザ・リッツ・カールトン日光, 日光 紅葉 宿泊",
   alternates: {
     canonical: "https://croud-travel.pages.dev/autumn-tochigi-nikko-chuzenji-lake-momiji-hotels-stay/",
   },
   openGraph: {
-    title: "【10月中旬〜下旬！日光中禅寺湖の紅葉】いろは坂・男体山ビューと奥日光名湯宿5選",
+    title: "中旬〜下旬！日光中禅寺湖の紅葉で過ごす冬の旅（10月）！いろは坂・男体山ビューと奥日光名湯宿5選",
     description: "標高1,269mの山上湖・中禅寺湖畔を燃えるような紅葉が包む日光の秋！いろは坂の絶景や男体山を望む露天風呂、歴史ある名門リゾートから乳白色の秘湯まで厳選5選。",
     url: 'https://croud-travel.pages.dev/autumn-tochigi-nikko-chuzenji-lake-momiji-hotels-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【10月中旬〜下旬！日光中禅寺湖の紅葉】いろは坂・男体山ビューと奥日光名湯宿5選",
+    title: "中旬〜下旬！日光中禅寺湖の紅葉で過ごす冬の旅（10月）！いろは坂・男体山ビューと奥日光名湯宿5選",
     description: "標高1,269mの山上湖・中禅寺湖畔を燃えるような紅葉が包む日光の秋！いろは坂の絶景や男体山を望む露天風呂、歴史ある名門リゾートから乳白色の秘湯まで厳選5選。",
   }
 };
@@ -131,9 +131,7 @@ export default function FeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             10月秋の紅葉絶景特集・奥日光名湯
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【10月中旬〜下旬！日光中禅寺湖の紅葉】<br className="hidden sm:inline" />いろは坂・男体山ビューと奥日光名湯宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">中旬〜下旬！日光中禅寺湖の紅葉で過ごす冬の旅（10月）！<br className="hidden sm:inline" />いろは坂・男体山ビューと奥日光名湯宿5選</h1>
           <p className="max-w-2xl mx-auto text-sm md:text-base text-stone-200 leading-relaxed">
             いろは坂のヘアピンカーブを彩る紅葉グラデーションから、青く澄んだ中禅寺湖と秀峰・男体山の絶景へ。早朝の渋滞を回避してゆったり楽しむ奥日光の名宿を厳選紹介。
           </p>

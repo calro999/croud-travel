@@ -1,4 +1,4 @@
-# 【全国】棚田みたいな温泉・棚田風露天風呂おすすめ宿！絶景インフィニティ温泉ガイド
+# 全国：棚田みたいな温泉・棚田風露天風呂おすすめ宿！絶景インフィニティ温泉ガイド
 
 - URL: https://croud-travel.pages.dev/posts/tanada-onsen-infinity-bath-japan-guide/
 - 宿泊施設名: 棚田風露天風呂・絶景温泉特集

@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月高知】冬の幻の高級魚「天然クエ鍋」！名宿5選',
+  title: '11・12・1月高知：冬の幻の高級魚「天然クエ鍋」！名宿5選',
   description: '11月から1月、南国土佐・高知は、荒波の太平洋が育む幻の高級魚「天然クエ（九絵）」の濃厚な旨みと、脂の乗り切った戻り鰹の藁焼き塩タタキ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '高知 クエ鍋, 高知 鰹タタキ, 高知城 冬 ライトアップ, 城西館, 高知 三翠園, 土佐御苑, ドーミーイン高知, 土佐あかうし, 11月 12月 1月 高知旅行, 桂浜 初日の出',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kochi-city-tosa-kue-katsuo-akagyu-castle-stay/"
   },
   openGraph: {
-    title: '【11・12・1月高知】冬の幻の高級魚「天然クエ鍋」！名宿5選',
+    title: '11・12・1月高知：冬の幻の高級魚「天然クエ鍋」！名宿5選',
     description: '11月から1月、南国土佐・高知は、荒波の太平洋が育む幻の高級魚「天然クエ（九絵）」の濃厚な旨みと、脂の乗り切った戻り鰹の藁焼き塩タタキ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-kochi-city-tosa-kue-katsuo-akagyu-castle-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月高知】冬の幻の高級魚「天然クエ鍋」と脂の乗る戻り鰹・土佐あかうし＆高知城冬ライトアップ・桂浜初日の出・天然温泉宿5選",
+    title: "11・12・1月高知：冬の幻の高級魚「天然クエ鍋」と脂の乗る戻り鰹・土佐あかうし＆高知城冬ライトアップ・桂浜初日の出・天然温泉宿5選",
     description: "11月から1月、南国土佐・高知は、荒波の太平洋が育む幻の高級魚「天然クエ（九絵）」の濃厚な旨みと、脂の乗り切った戻り鰹の藁焼き塩タタキ、赤身の芸術「土佐あかうし」が集う冬の美食天国となります。美しくライトアップされる現存天守・高知城の夜景やひろめ市場の熱気、桂浜から望む太平洋の雄大な初日の出。高知城下の歴史ある天然温泉や老舗旅館、海辺のリゾートで土佐の豪快な郷土料理と酒文化に酔いしれる厳選名宿5選を徹底ガイドします。",
     images: ['https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80']
   }
@@ -42,7 +42,7 @@ export default function KochiCityTosaKueWinterPage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: "【11・12・1月高知】冬の幻の高級魚「天然クエ鍋」と脂の乗る戻り鰹・土佐あかうし＆高知城冬ライトアップ・桂浜初日の出・天然温泉宿5選",
+    headline: "11・12・1月高知：冬の幻の高級魚「天然クエ鍋」と脂の乗る戻り鰹・土佐あかうし＆高知城冬ライトアップ・桂浜初日の出・天然温泉宿5選",
     description: "11月から1月、南国土佐・高知は、荒波の太平洋が育む幻の高級魚「天然クエ（九絵）」の濃厚な旨みと、脂の乗り切った戻り鰹の藁焼き塩タタキ、赤身の芸術「土佐あかうし」が集う冬の美食天国となります。美しくライトアップされる現存天守・高知城の夜景やひろめ市場の熱気、桂浜から望む太平洋の雄大な初日の出。高知城下の歴史ある天然温泉や老舗旅館、海辺のリゾートで土佐の豪快な郷土料理と酒文化に酔いしれる厳選名宿5選を徹底ガイドします。",
     image: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
     datePublished: '',
@@ -282,9 +282,7 @@ export default function KochiCityTosaKueWinterPage() {
             <Calendar className="w-4 h-4 text-red-300" />
             11月・12月・1月 冬の南国土佐・天然クエ鍋＆高知城ライトアップ特集
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【11・12・1月高知】冬の幻の高級魚「天然クエ鍋」と脂の乗る戻り鰹・土佐あかうし＆高知城冬ライトアップ・桂浜初日の出・天然温泉宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「11・12・1月高知」冬の幻の高級魚「天然クエ鍋」と脂の乗る戻り鰹・土佐あかうし＆高知城冬ライトアップ・桂浜初日の出・天然温泉宿5選</h1>
           <p className="text-slate-300 text-sm sm:text-base md:text-lg max-w-3xl leading-relaxed">
             荒れ狂う黒潮が育む白身魚の最高峰「天然クエ」。骨から溶け出す濃厚なコラーゲンスープと極上の白身、藁の強火で香ばしく炙る戻り鰹の塩タタキ、幻の和牛・土佐あかうし。夜空に照らされる現存天守・高知城のライトアップやひろめ市場の賑わい、城下の名湯に浸かる至福の冬旅をお届けします。
           </p>

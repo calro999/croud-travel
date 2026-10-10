@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-solo-retreat-private-onsen-stay/" },
-  title: '【おひとり様贅沢ステイ】客室露天風呂＆部屋食で心身をリセットするソロ温泉ワーケーションふるさと納税旅 | クラウドトラベル',
+  title: 'おひとり様贅沢ステイ：客室露天風呂＆部屋食で心身をリセットするソロ温泉ワーケーションふるさと納税旅 | クラウドトラベル',
   description: '誰にも気兼ねしない大人の一人旅。四万温泉・別所温泉・黒川温泉の客室露天風呂付き宿や静寂の湯治宿を厳選。実質2,000円で叶えるソロ温泉リトリート＆ワーケーション完全ガイド。',
   openGraph: {
-    title: '【おひとり様贅沢ステイ】客室露天風呂＆部屋食で心身をリセットするソロ温泉ワーケーションふるさと納税旅 | クラウドトラベル',
+    title: 'おひとり様贅沢ステイ：客室露天風呂＆部屋食で心身をリセットするソロ温泉ワーケーションふるさと納税旅 | クラウドトラベル',
     description: '誰にも気兼ねしない大人の一人旅。四万温泉・別所温泉・黒川温泉の客室露天風呂付き宿や静寂の湯治宿を厳選。実質2,000円で叶えるソロ温泉リトリート＆ワーケーション完全ガイド。',
     type: 'article',
   },
@@ -59,9 +59,7 @@ export default function Page() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             ふるさと納税×ソロリトリート・おひとり様温泉
           </div>
-          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            【おひとり様贅沢ステイ】客室露天風呂＆部屋食で心身をリセットするソロ温泉ワーケーションふるさと納税旅
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">「おひとり様贅沢ステイ」客室露天風呂＆部屋食で心身をリセットするソロ温泉ワーケーションふるさと納税旅</h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl mb-6">
             仕事のプレッシャーや日々の人間関係から少し離れて、自分ひとりのためだけに時間を使いたい。「誰にも邪魔されず、好きな時に好きなだけ客室露天風呂に浸かり、部屋食で静かに地酒を味わいたい。」。そんな大人のおひとり様リトリートにこそ、楽天ふるさと納税のトラベルクーポンが驚くほどの費用対効果を発揮します。通常、温泉旅館の一人泊は割高に設定されていたり、休前日の受け入れが限られていたりしますが、30％の宿泊補助クーポンを活用すれば、憧れの露天風呂付き客室や老舗旅館の角部屋にお得に泊まることができます。奇跡の「四万ブルー」に抱かれる四万温泉、信州最古の文化人ゆかりの別所温泉、阿蘇の深い森に湯煙が立ちのぼる黒川温泉など、心身が深くほどけていく厳選宿をご紹介します。
           </p>

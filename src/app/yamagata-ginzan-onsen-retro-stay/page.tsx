@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/yamagata-ginzan-onsen-retro-stay/" },
-  title: "【山形・銀山温泉】ガス灯揺れる大正ロマン木造街＆尾花沢牛極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "山形・銀山温泉：ガス灯揺れる大正ロマン木造街＆尾花沢牛極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "山形・銀山温泉エリア完全特化！銀山川沿いの木造三層四層楼閣、ガス灯の夜景、隈研吾設計の藤屋、尾花沢牛・鴨鍋グルメと雪景色露天風呂旅館を徹底解説。",
   keywords: ["山形", "銀山温泉", "ガス灯揺れる大正ロマン木造街", "尾花沢牛極上宿", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             GINZAN ONSEN MICRO GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【山形・銀山温泉】ガス灯揺れる大正ロマン木造街＆尾花沢牛極上宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「山形・銀山温泉」ガス灯揺れる大正ロマン木造街＆尾花沢牛極上宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             まるで大正時代にタイムスリップしたかのような木造多層建築の温泉街。夕暮れ時にオレンジ色のガス灯が灯り、川面から立ち上る湯けむり。冬の白銀に包まれる日本一フォトジェニックな名湯へ。
           </p>

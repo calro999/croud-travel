@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagano-asama-solo-retreat-onsen-stay/" },
-  title: '【松本・浅間温泉ひとり旅・城下町奥座敷おこもり】松本城主の隠し湯・源泉かけ流し・信州郷土料理！北アルプスを望む文化の湯厳選3宿',
+  title: '松本・浅間温泉ひとり旅・城下町奥座敷おこもり：松本城主の隠し湯・源泉かけ流し・信州郷土料理！北アルプスを望む文化の湯厳選3宿',
   description: '国宝松本城から車でわずか10分！全客室から庭園を望み書画や骨董に囲まれる高級割烹宿「富士乃湯」、明治創業の歴史と純和風情が心地よい「梅の湯」、松本のクラフトビールと音楽をカジュアルに楽しむ新感覚の「FAN! MATSUMOTO」を楽天API最新データに基づき徹底比較。',
   keywords: '浅間温泉 一人旅 宿,浅間温泉 ホテル 一人,富士乃湯 浅間温泉,梅の湯 浅間温泉,FAN! MATSUMOTO,松本 浅間温泉 ひとり旅',
   openGraph: {
-    title: '【松本・浅間温泉ひとり旅・城下町奥座敷おこもり】松本城主の隠し湯・源泉かけ流し・信州郷土料理！北アルプスを望む文化の湯厳選3宿',
+    title: '松本・浅間温泉ひとり旅・城下町奥座敷おこもり：松本城主の隠し湯・源泉かけ流し・信州郷土料理！北アルプスを望む文化の湯厳選3宿',
     description: '国宝松本城から車でわずか10分！全客室から庭園を望み書画や骨董に囲まれる高級割烹宿「富士乃湯」、明治創業の歴史と純和風情が心地よい「梅の湯」、松本のクラフトビールと音楽をカジュアルに楽しむ新感覚の「FAN! MATSUMOTO」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/nagano-asama-solo-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【松本・浅間温泉ひとり旅・城下町奥座敷おこもり】松本城主の隠し湯・源泉かけ流し・信州郷土料理！北アルプスを望む文化の湯厳選3宿',
+    headline: '松本・浅間温泉ひとり旅・城下町奥座敷おこもり：松本城主の隠し湯・源泉かけ流し・信州郷土料理！北アルプスを望む文化の湯厳選3宿',
     description: '国宝松本城から車でわずか10分！全客室から庭園を望み書画や骨董に囲まれる高級割烹宿「富士乃湯」、明治創業の歴史と純和風情が心地よい「梅の湯」、松本のクラフトビールと音楽をカジュアルに楽しむ新感覚の「FAN! MATSUMOTO」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             長野・松本浅間温泉ひとり旅＆城下町奥座敷おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【松本・浅間温泉ひとり旅・城下町奥座敷おこもり】松本城主の隠し湯・源泉かけ流し・信州郷土料理！北アルプスを望む文化の湯厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「松本・浅間温泉ひとり旅・城下町奥座敷おこもり」松本城主の隠し湯・源泉かけ流し・信州郷土料理！北アルプスを望む文化の湯厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

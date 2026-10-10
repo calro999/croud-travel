@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            乳頭温泉郷の秘湯白濁露天と田沢湖の紅葉パノラマ＆秋田比内地鶏・きりたんぽ鍋ステイ
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">乳頭温泉郷の秘湯白濁露天と田沢湖の紅葉パノラマ＆秋田比内地鶏・きりたんぽ鍋ステイ</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             ブナの原生林に抱かれた乳白色の秘湯露天風呂。神秘の田沢湖ブルーと秋田の郷土美食に心ほどける秋旅。
           </p>

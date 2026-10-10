@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月熊本・平山温泉】特選肥後あか牛！名宿5選',
+  title: '熊本・平山温泉で過ごす冬の旅（11・12月）！特選肥後あか牛！名宿5選',
   description: '11月から12月にかけて熊本県北部・山鹿市の山あいに隠れる「平山温泉」は、冷涼な初冬の大気の中に立ち上る乳白色の湯けむりと。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '平山温泉 宿泊, 平山温泉 11月 12月, ほたるの長屋 平山温泉, 一木一草 平山, 善屋 平山温泉, 奥山鹿温泉旅館, 上田屋 平山, 肥後あか牛 宿, 熊本 馬刺し 温泉, pH9.7 美肌 硫黄泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kumamoto-hirayama-onsen-sulfur-bihada-stay/"
   },
   openGraph: {
-    title: '【11・12月熊本・平山温泉】特選肥後あか牛！名宿5選',
+    title: '熊本・平山温泉で過ごす冬の旅（11・12月）！特選肥後あか牛！名宿5選',
     description: '11月から12月にかけて熊本県北部・山鹿市の山あいに隠れる「平山温泉」は、冷涼な初冬の大気の中に立ち上る乳白色の湯けむりと。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-kumamoto-hirayama-onsen-sulfur-bihada-stay',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -280,10 +280,7 @@ export default function HirayamaOnsenWinterFeature() {
             <Trees className="w-4 h-4" />
             11月・12月 九州の極上秘湯特集｜熊本・山鹿平山温泉
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月熊本・平山温泉】<br className="hidden sm:inline" />
-            竹林秘湯と極上トロトロ硫黄泉・肥後あか牛＆特選馬刺しの宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">熊本・平山温泉で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 竹林秘湯と極上トロトロ硫黄泉・肥後あか牛＆特選馬刺しの宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             加藤清正公が愛したpH9.7超の奇跡の美容液温泉。初冬の竹林に囲まれた全室離れの大人の隠れ宿で、ジューシーな肥後あか牛と本場極上馬刺しに舌鼓を打つ至高の湯治旅。
           </p>

@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tochigi-itamuro-solo-retreat-therapeutic-onsen-stay/" },
-  title: '【那須塩原・板室温泉ひとり旅・下野の薬湯立ち湯おこもり】開湯1050年杖いらずの名湯・那珂川上流自然林・保養とアート！現代湯治リトリート厳選3宿',
+  title: '那須塩原・板室温泉ひとり旅・下野の薬湯立ち湯おこもり：開湯1050年杖いらずの名湯・那珂川上流自然林・保養とアート！現代湯治リトリート厳選3宿',
   description: '「杖いらずの湯」として古くから親しまれる下野の名湯・栃木・板室温泉！広大な庭園と現代アートに包まれ本格保養ができる全国屈指の名宿「保養とアートの宿 大黒屋」、自然治癒力を高める和薬草スパと洗練の隠れ家「板室別邸リトリート SPA和薬草」、大正村の風情と名物綱手湯の「幸乃湯温泉」を楽天API最新データに基づき徹底比較。',
   keywords: '板室温泉 一人旅 宿,板室 ホテル 一人 温泉,大黒屋 板室温泉,SPA和薬草,幸乃湯温泉 板室,下野の薬湯 ひとり旅 おこもり',
   openGraph: {
-    title: '【那須塩原・板室温泉ひとり旅・下野の薬湯立ち湯おこもり】開湯1050年杖いらずの名湯・那珂川上流自然林・保養とアート！現代湯治リトリート厳選3宿',
+    title: '那須塩原・板室温泉ひとり旅・下野の薬湯立ち湯おこもり：開湯1050年杖いらずの名湯・那珂川上流自然林・保養とアート！現代湯治リトリート厳選3宿',
     description: '「杖いらずの湯」として古くから親しまれる下野の名湯・栃木・板室温泉！広大な庭園と現代アートに包まれ本格保養ができる全国屈指の名宿「保養とアートの宿 大黒屋」、自然治癒力を高める和薬草スパと洗練の隠れ家「板室別邸リトリート SPA和薬草」、大正村の風情と名物綱手湯の「幸乃湯温泉」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/tochigi-itamuro-solo-retreat-therapeutic-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【那須塩原・板室温泉ひとり旅・下野の薬湯立ち湯おこもり】開湯1050年杖いらずの名湯・那珂川上流自然林・保養とアート！現代湯治リトリート厳選3宿',
+    headline: '那須塩原・板室温泉ひとり旅・下野の薬湯立ち湯おこもり：開湯1050年杖いらずの名湯・那珂川上流自然林・保養とアート！現代湯治リトリート厳選3宿',
     description: '「杖いらずの湯」として古くから親しまれる下野の名湯・栃木・板室温泉！広大な庭園と現代アートに包まれ本格保養ができる全国屈指の名宿「保養とアートの宿 大黒屋」、自然治癒力を高める和薬草スパと洗練の隠れ家「板室別邸リトリート SPA和薬草」、大正村の風情と名物綱手湯の「幸乃湯温泉」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             栃木・板室温泉ひとり旅＆現代湯治リトリート特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【那須塩原・板室温泉ひとり旅・下野の薬湯立ち湯おこもり】開湯1050年杖いらずの名湯・那珂川上流自然林・保養とアート！現代湯治リトリート厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「那須塩原・板室温泉ひとり旅・下野の薬湯立ち湯おこもり」開湯1050年杖いらずの名湯・那珂川上流自然林・保養とアート！現代湯治リトリート厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

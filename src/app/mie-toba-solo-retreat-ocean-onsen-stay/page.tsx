@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/mie-toba-solo-retreat-ocean-onsen-stay/" },
-  title: '【鳥羽温泉郷ひとり旅・伊勢志摩オーシャンビューおこもり】鳥羽湾一望の展望露天・伊勢海老＆鮑・静寂の岬リゾート！お伊勢参り後のご褒美厳選3宿',
+  title: '鳥羽温泉郷ひとり旅・伊勢志摩オーシャンビューおこもり：鳥羽湾一望の展望露天・伊勢海老＆鮑・静寂の岬リゾート！お伊勢参り後のご褒美厳選3宿',
   description: 'リアス海岸の美しい岬美と海の幸に抱かれる三重・鳥羽温泉郷！鳥羽湾の絶景パノラマと高評価の海鮮会席が評判の隠れ岬宿「ＫＫＲ鳥羽 いそぶえ荘」、全室オーシャンビューと波打ち際の露天風呂が情緒ある「鳥羽 胡蝶蘭」、岬全体に3つの大浴場と多彩な湯処を誇る「鳥羽シーサイドホテル」を楽天API最新データに基づき徹底比較。',
   keywords: '鳥羽温泉 一人旅 宿,鳥羽 ホテル 一人 温泉,いそぶえ荘 鳥羽,胡蝶蘭 鳥羽,鳥羽シーサイドホテル 一人旅,鳥羽温泉郷 ひとり旅 おこもり',
   openGraph: {
-    title: '【鳥羽温泉郷ひとり旅・伊勢志摩オーシャンビューおこもり】鳥羽湾一望の展望露天・伊勢海老＆鮑・静寂の岬リゾート！お伊勢参り後のご褒美厳選3宿',
+    title: '鳥羽温泉郷ひとり旅・伊勢志摩オーシャンビューおこもり：鳥羽湾一望の展望露天・伊勢海老＆鮑・静寂の岬リゾート！お伊勢参り後のご褒美厳選3宿',
     description: 'リアス海岸の美しい岬美と海の幸に抱かれる三重・鳥羽温泉郷！鳥羽湾の絶景パノラマと高評価の海鮮会席が評判の隠れ岬宿「ＫＫＲ鳥羽 いそぶえ荘」、全室オーシャンビューと波打ち際の露天風呂が情緒ある「鳥羽 胡蝶蘭」、岬全体に3つの大浴場と多彩な湯処を誇る「鳥羽シーサイドホテル」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/mie-toba-solo-retreat-ocean-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【鳥羽温泉郷ひとり旅・伊勢志摩オーシャンビューおこもり】鳥羽湾一望の展望露天・伊勢海老＆鮑・静寂の岬リゾート！お伊勢参り後のご褒美厳選3宿',
+    headline: '鳥羽温泉郷ひとり旅・伊勢志摩オーシャンビューおこもり：鳥羽湾一望の展望露天・伊勢海老＆鮑・静寂の岬リゾート！お伊勢参り後のご褒美厳選3宿',
     description: 'リアス海岸の美しい岬美と海の幸に抱かれる三重・鳥羽温泉郷！鳥羽湾の絶景パノラマと高評価の海鮮会席が評判の隠れ岬宿「ＫＫＲ鳥羽 いそぶえ荘」、全室オーシャンビューと波打ち際の露天風呂が情緒ある「鳥羽 胡蝶蘭」、岬全体に3つの大浴場と多彩な湯処を誇る「鳥羽シーサイドホテル」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             三重・鳥羽温泉郷ひとり旅＆伊勢志摩オーシャンおこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【鳥羽温泉郷ひとり旅・伊勢志摩オーシャンビューおこもり】鳥羽湾一望の展望露天・伊勢海老＆鮑・静寂の岬リゾート！お伊勢参り後のご褒美厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「鳥羽温泉郷ひとり旅・伊勢志摩オーシャンビューおこもり」鳥羽湾一望の展望露天・伊勢海老＆鮑・静寂の岬リゾート！お伊勢参り後のご褒美厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

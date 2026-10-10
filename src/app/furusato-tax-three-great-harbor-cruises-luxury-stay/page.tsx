@@ -42,9 +42,7 @@ export default function Page() {
             <span className="inline-block w-2 h-2 rounded-full bg-rose-400 animate-pulse" />
             日本三大クルーズ港・洋上夜景特集
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">
-            日本三大港クルーズ＆夜景ディナークルーズ宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三大港クルーズ＆夜景ディナークルーズ宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg md:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed font-normal">
             洋上から望む1000万ドルのスカイライン！兵庫「神戸港クルーズ」コンチェルト＆ルミナス神戸2とホテルラ・スイート神戸ハーバーランド、神奈川「横浜港クルーズ」マリーンルージュと横浜ベイホテル東急、長崎「長崎港クルーズ」軍艦島上陸船とホテルモントレ長崎。日本三大クルーズ港の洋上贅沢ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。
           </p>

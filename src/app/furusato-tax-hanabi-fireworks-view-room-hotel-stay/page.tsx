@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '混雑ゼロで大迫力の花火を独占！部屋から花火が見える特等席客室ホテル×ふるさと納税完全ガイド【2026年最新】熱海・洞爺湖・諏訪湖',
+  title: '混雑ゼロで大迫力の花火を独占！部屋から花火が見える特等席客室ホテル×ふるさと納税厳選ガイド熱海・洞爺湖・諏訪湖',
   description: '夜空に咲き乱れる大輪の光を、お風呂上がりやベッドの上から特等席で！年間十数回開催される熱海海上花火大会が目前の全室オーシャンビュー「熱海後楽園ホテル」、4月〜10月の毎夜打ち上がるロングラン花火を全室レイクビュー客室から鑑賞「洞爺サンパレス リゾート＆スパ」、諏訪湖祭湖上花火を望む二つの源泉の名宿「信州上諏訪温泉 諏訪別邸 朱白」。混雑を回避して楽しむ花火ビュー温泉旅を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
   keywords: ["2026年最新", "熱海", "洞爺湖", "諏訪湖", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: { canonical: baseUrl + '/furusato-tax-hanabi-fireworks-view-room-hotel-stay/' },
   openGraph: {
-    title: '混雑ゼロで大迫力の花火を独占！部屋から花火が見える特等席客室ホテル×ふるさと納税完全ガイド【2026年最新】熱海・洞爺湖・諏訪湖',
+    title: '混雑ゼロで大迫力の花火を独占！部屋から花火が見える特等席客室ホテル×ふるさと納税厳選ガイド熱海・洞爺湖・諏訪湖',
     description: '夜空に咲き乱れる大輪の光を、お風呂上がりやベッドの上から特等席で！年間十数回開催される熱海海上花火大会が目前の全室オーシャンビュー「熱海後楽園ホテル」、4月〜10月の毎夜打ち上がるロングラン花火を全室レイクビュー客室から鑑賞「洞爺サンパレス リゾート＆スパ」、諏訪湖祭湖上花火を望む二つの源泉の名宿「信州上諏訪温泉 諏訪別邸 朱白」。混雑を回避して楽しむ花火ビュー温泉旅を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
     url: baseUrl + '/furusato-tax-hanabi-fireworks-view-room-hotel-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoHanabiFireworksViewStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             部屋から花火鑑賞＆特等席花火ビューホテル特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            混雑ゼロで大迫力の花火を独占！部屋から花火が見える特等席客室ホテル×ふるさと納税完全ガイド【2026年最新】熱海・洞爺湖・諏訪湖
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">混雑ゼロで大迫力の花火を独占！部屋から花火が見える特等席客室ホテル×ふるさと納税厳選ガイド熱海・洞爺湖・諏訪湖</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             日本の夏の風物詩であり、近年はオールシーズンで開催されることも多い「花火大会」。しかし、現地までの大混雑や帰りの満員電車、場所取りの苦労に疲れてしまうことも少なくありません。そんな悩みを完全に解消してくれるのが「客室やホテル専用テラスから花火が見える花火ビューホテル。」での宿泊です。浴衣に着替え、お風呂上がりに冷たいビールやシャンパンを片手に、部屋の窓やバルコニーから夜空一面に広がる大輪の花火を見上げる贅沢――混雑とは完全に無縁のプライベート空間で、身体の芯にまで響く重低音と眩い光の競演を独占できる感動は、何ものにも代えがたい一生の思い出になります。すり鉢状の地形が生み出す天然のスタジアム音響と年間十数回の海上花火大会を目前で鑑賞できる「熱海後楽園ホテル」、4月下旬から10月末まで毎夜欠かさず湖上に花火が打ち上げられる「洞爺サンパレス リゾート＆スパ」、そして全国屈指の規模を誇る諏訪湖の花火を目の前で望み二つの名湯源泉を誇る「信州上諏訪温泉 諏訪別邸 朱白」。花火シーズンの争奪戦となる特等席宿を、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して実質自己負担2,000円で賢く予約し、極上の花火温泉旅行へ出かけましょう。
           </p>

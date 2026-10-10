@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/shizuoka-izu-shimoda-beach-stay/" },
-  title: "【静岡・伊豆下田＆白浜海岸】エメラルドの海・白浜大浜＆金目鯛水揚げ日本一宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "静岡・伊豆下田＆白浜海岸：エメラルドの海・白浜大浜＆金目鯛水揚げ日本一宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "南伊豆・下田エリア完全特化！透明度抜群の「白浜大浜海水浴場」、ペリーロードのなまこ壁、下田海中水族館、下田ロープウェイ寝姿山、水揚げ日本一の下田港「金目鯛づくし会席」と絶景オーシャンビュー温泉旅館を徹底解説。",
   keywords: ["静岡", "伊豆下田", "白浜海岸", "エメラルドの海", "白浜大浜", "金目鯛水揚げ日本一宿", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             IZU SHIMODA & BEACH GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【静岡・伊豆下田＆白浜海岸】エメラルドの海・白浜大浜＆金目鯛水揚げ日本一宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「静岡・伊豆下田＆白浜海岸」エメラルドの海・白浜大浜＆金目鯛水揚げ日本一宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             本州屈指の透明度を誇るエメラルドグリーンの海「伊豆下田」。白砂が輝く白浜海岸と、黒船来航の歴史が薫るペリーロード。日本一の水揚げ量を誇る極上の「金目鯛の姿煮」と、海に沈む夕日を眺めるリゾートステイ。
           </p>

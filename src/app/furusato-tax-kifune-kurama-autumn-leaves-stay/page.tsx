@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '京都・貴船神社のもみじ灯篭ライトアップ＆叡山電車もみじトンネル！貴船料理旅館×ふるさと納税完全ガイド【2026年最新秋旅】京都',
+  title: '京都・貴船神社のもみじ灯篭ライトアップ＆叡山電車もみじトンネル！貴船料理旅館×ふるさと納税厳選ガイド京都',
   description: '11月上旬〜下旬に朱塗りの灯篭と紅葉の石段が幻想的に照らし出される恋の宮「京都・貴船神社 もみじ灯篭」。叡山電車のライトアップされた「もみじのトンネル」車窓と、貴船川のせせらぎに佇む「貴船ふじや」「ひろや」「ひろ文」で秋限定の猪鍋・ぼたん鍋や丹波牛・京懐石料理を堪能。ふるさと納税トラベルクーポンで実質2,000円。',
   keywords: ["京都", "2026年最新秋旅", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kifune-kurama-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '京都・貴船神社のもみじ灯篭ライトアップ＆叡山電車もみじトンネル！貴船料理旅館×ふるさと納税完全ガイド【2026年最新秋旅】京都',
+    title: '京都・貴船神社のもみじ灯篭ライトアップ＆叡山電車もみじトンネル！貴船料理旅館×ふるさと納税厳選ガイド京都',
     description: '11月上旬〜下旬に朱塗りの灯篭と紅葉の石段が幻想的に照らし出される恋の宮「京都・貴船神社 もみじ灯篭」。叡山電車のライトアップされた「もみじのトンネル」車窓と、貴船川のせせらぎに佇む「貴船ふじや」「ひろや」「ひろ文」で秋限定の猪鍋・ぼたん鍋や丹波牛・京懐石料理を堪能。ふるさと納税トラベルクーポンで実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kifune-kurama-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -113,9 +113,7 @@ export default function FeatureArticlePage() {
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">
-            京都・貴船神社のもみじ灯篭ライトアップ＆叡山電車もみじトンネル！貴船料理旅館×ふるさと納税完全ガイド【2026年最新秋旅】京都
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">京都・貴船神社のもみじ灯篭ライトアップ＆叡山電車もみじトンネル！貴船料理旅館×ふるさと納税厳選ガイド京都</h1>
           <p className="text-sm md:text-lg text-stone-200 max-w-3xl mx-auto leading-relaxed">
             朱塗りの灯篭が続く貴船神社の紅葉参道と叡電もみじトンネル、秋の貴船で味わう極上ぼたん鍋。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
           </p>

@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            伯耆大山の紅葉ドライブと皆生温泉！11月解禁の松葉がに・鳥取和牛・白砂青松の海辺露天風呂
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">伯耆大山の紅葉ドライブと皆生温泉！11月解禁の松葉がに・鳥取和牛・白砂青松の海辺露天風呂</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             錦秋に染まる伯耆富士と、日本海から湧く美肌塩湯・冬の味覚の王様松葉がに
           </p>

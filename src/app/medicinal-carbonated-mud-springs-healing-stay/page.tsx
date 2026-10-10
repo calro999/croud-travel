@@ -180,9 +180,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            シュワシュワ天然泡＆濃厚泥パック！奇跡の名湯・炭酸泉と美肌薬湯治リトリート宿
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">シュワシュワ天然泡＆濃厚泥パック！奇跡の名湯・炭酸泉と美肌薬湯治リトリート宿</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             湯船に身を沈めた瞬間、全身を無数のシルキーな炭酸の泡が包み込み、じんわりと血行を促進する奇跡の炭酸泉。そして天然のミネラルを豊富に含み、滑らかな美肌へと導く泥湯。日々の疲れをリセットし、体の芯から生命力を呼び覚ます本格湯治体験へご案内します。
           </p>

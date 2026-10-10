@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            日本三景・松島＆塩竈の秋！松島湾の紅葉ライトアップ・解禁松島牡蠣＆極上三陸海鮮
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">日本三景・松島＆塩竈の秋！松島湾の紅葉ライトアップ・解禁松島牡蠣＆極上三陸海鮮</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の宮城・松島＆塩竈特集！日本三景・松島湾の260余りの島々を染める秋景趣、円通院の幻想的な紅葉ライトアップ、10月解禁のぷりぷり松島牡蠣や三陸戻り鰹・塩竈生マグロをふるさと納税トラベルで味わう宮城の極上秋旅。
           </p>

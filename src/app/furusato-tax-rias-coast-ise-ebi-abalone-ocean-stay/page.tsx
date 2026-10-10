@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '夕映えリアス式海岸＆伊勢海老・鮑料理の海宿×ふるさと納税完全ガイド【2026年最新】志摩英虞湾・南三陸・伊根の舟屋の贅沢旅',
+  title: '夕映えリアス式海岸＆伊勢海老・鮑料理の海宿×ふるさと納税厳選ガイド志摩英虞湾・南三陸・伊根の舟屋の贅沢旅',
   description: '日本屈指の入江美と海の幸！三重志摩「英虞湾」の夕映え多島美と本場伊勢海老・鮑づくし会席、宮城「南三陸」のリアス海岸インフィニティ露天風呂と鮑踊り焼き、京都「伊根の舟屋」の海に浮かぶ重要伝統建築ステイ。楽天ふるさと納税宿泊クーポンでお得に楽しむオーシャンガイド。',
   keywords: ["夕映えリアス式海岸", "伊勢海老", "鮑料理の海宿×ふるさと納税", "2026年最新", "志摩英虞湾", "南三陸", "伊根の舟屋の贅沢旅"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-rias-coast-ise-ebi-abalone-ocean-stay/"
   },
   openGraph: {
-    title: '夕映えリアス式海岸＆伊勢海老・鮑料理の海宿×ふるさと納税完全ガイド【2026年最新】志摩英虞湾・南三陸・伊根の舟屋の贅沢旅',
+    title: '夕映えリアス式海岸＆伊勢海老・鮑料理の海宿×ふるさと納税厳選ガイド志摩英虞湾・南三陸・伊根の舟屋の贅沢旅',
     description: '日本屈指の入江美と海の幸！三重志摩「英虞湾」の夕映え多島美と本場伊勢海老・鮑づくし会席、宮城「南三陸」のリアス海岸インフィニティ露天風呂と鮑踊り焼き、京都「伊根の舟屋」の海に浮かぶ重要伝統建築ステイ。楽天ふるさと納税宿泊クーポンでお得に楽しむオーシャンガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-rias-coast-ise-ebi-abalone-ocean-stay',
     type: 'article',
@@ -54,9 +54,7 @@ export default function FurusatoFeaturePage() {
             <span>✨</span>
             <span>リアス式海岸・伊勢海老鮑特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            夕映えリアス式海岸＆伊勢海老・鮑料理の海宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">夕映えリアス式海岸＆伊勢海老・鮑料理の海宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             波穏やかな入江と複雑な岬が織りなすリアス海岸。真珠筏が浮かぶ三重の英虞湾、ダイナミックな断崖と太平洋が広がる三陸海岸、そして海の上に直接家が建ち並ぶ京都伊根の舟屋。リアス式海岸の豊かな海は、栄養豊富なプランクトンを育み、伊勢海老や肉厚の天然鮑など最高峰の海の幸をもたらします。夕暮れ時に海一面が黄金色に染まるマジックアワーを露天風呂から眺め、豪快な海鮮会席に舌鼓を打つ極上の旅を、楽天ふるさと納税でお得に実現しましょう。
           </p>

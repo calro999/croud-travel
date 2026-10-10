@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     canonical: "https://croud-travel.pages.dev/furusato-tax-nagano-suwa-lake-kirigamine-autumn-stay/",
   },
   openGraph: {
-    title: '【長野・諏訪湖＆霧ヶ峰】秋の八ヶ岳・湖畔パノラマ紅葉！上諏訪温泉の自家源泉と信州秋の味覚特集',
+    title: '長野・諏訪湖＆霧ヶ峰：秋の八ヶ岳・湖畔パノラマ紅葉！上諏訪温泉の自家源泉と信州秋の味覚特集',
     description: '10月・11月の長野・諏訪湖畔＆霧ヶ峰高原を特集。八ヶ岳やアルプスを背景にした諏訪湖の夕景紅葉、毎分豊富な湯量を誇る上諏訪温泉の美肌湯、信州サーモンや信州牛会席を味わう厳選3宿とふるさと納税の活用ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-nagano-suwa-lake-kirigamine-autumn-stay',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            【長野・諏訪湖＆霧ヶ峰】秋の八ヶ岳・湖畔パノラマ紅葉！上諏訪温泉の自家源泉と信州秋の味覚特集
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">「長野・諏訪湖＆霧ヶ峰」秋の八ヶ岳・湖畔パノラマ紅葉！上諏訪温泉の自家源泉と信州秋の味覚特集</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の長野・諏訪湖畔＆霧ヶ峰高原を特集。八ヶ岳やアルプスを背景にした諏訪湖の夕景紅葉、毎分豊富な湯量を誇る上諏訪温泉の美肌湯、信州サーモンや信州牛会席を味わう厳選3宿とふるさと納税の活用ガイド。
           </p>

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-national-treasure-castle-heritage-stay/" },
-  title: "【国宝五城＆現存十二天守を巡る宿】姫路城・松本城・犬山城・彦根城・松江城 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "国宝五城＆現存十二天守を巡る宿：姫路城・松本城・犬山城・彦根城・松江城 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "江戸時代の天守がそのまま現存する奇跡の城郭めぐり完全特化！世界遺産「白鷺城・姫路城」、漆黒の国宝「松本城」、木曽川にそびえる最古の天守「犬山城」、琵琶湖畔の「彦根城」、宍道湖畔の「千鳥城・松江城」と城郭ビュー名宿を徹底解説。",
   keywords: ["国宝五城", "現存十二天守を巡る宿", "姫路城", "松本城", "犬山城", "彦根城", "松江城"],
 };
@@ -89,9 +89,7 @@ export default function HistoryHeritageHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             NATIONAL TREASURE CASTLE GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【国宝五城＆現存十二天守を巡る宿】姫路城・松本城・犬山城・彦根城・松江城 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「国宝五城＆現存十二天守を巡る宿」姫路城・松本城・犬山城・彦根城・松江城 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             幾多の戦火や天災を乗り越え、江戸の威容を今に伝える「現存十二天守」と「国宝五城」。白漆喰総塗籠の白鷺城・姫路城、北アルプスを背負う漆黒の松本城。天守のライトアップを客室や展望ラウンジから愛でる歴史浪漫の旅へ。
           </p>

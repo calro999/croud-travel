@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【旭川駅前】大雪山層雲峡の紅葉＆名物旭川醤油ラーメン！2,000円台〜泊まれる格安ホテル5選',
+  title: '旭川駅前：大雪山層雲峡の紅葉＆名物旭川醤油ラーメン！2,000円台〜泊まれる格安ホテル5選',
   description: '日本一早い紅葉・大雪山国立公園層雲峡の錦秋断崖美！ラードが香る熱々の名物旭川醤油ラーメンや塩ホルモン。JR函館本線・旭川駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>大雪山層雲峡の絶壁紅葉＆名物旭川醤油ラーメン・塩ホルモン</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【旭川駅前】層雲峡紅葉＆名物旭川ラーメン！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「旭川駅前」層雲峡紅葉＆名物旭川ラーメン！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             石狩川沿いに柱状節理の巨大断崖がそびえる大雪山の名峡「層雲峡」。秋には銀河・流星の滝を取り囲むナナカマドやカエデが燃えるような赤と黄色に染まります。冷めないように表面をラードで覆った魚介豚骨ダブルスープの「旭川醤油ラーメン」や、名物「塩ホルモン」に舌鼓！旭川駅周辺で2,000円台〜泊まれる優良ホテルを厳選。
           </p>

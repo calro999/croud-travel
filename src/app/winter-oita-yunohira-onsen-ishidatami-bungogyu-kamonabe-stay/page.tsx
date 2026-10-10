@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月由布奥座敷】300個の赤提灯揺れる江戸石！名宿5選',
+  title: '由布奥座敷で過ごす冬の旅（11・12月）！300個の赤提灯揺れる江戸石！名宿5選',
   description: '11月中旬から12月の初冬、名峰・由布岳の裾野が静かな冬枯れの装いを見せる頃、由布院温泉から車でわずか15分ほど山あいに分け入った渓谷に。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '湯平温泉 宿泊, 由布院 奥座敷 温泉, 湯平温泉 赤提灯 石畳, 豊後牛 すき焼き 宿, 合鴨鍋 湯平, 旅館 山城屋, 湯平 五大共同浴場, 11月 12月 大分温泉旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-oita-yunohira-onsen-ishidatami-bungogyu-kamonabe-stay/"
   },
   openGraph: {
-    title: '【11・12月由布奥座敷】300個の赤提灯揺れる江戸石！名宿5選',
+    title: '由布奥座敷で過ごす冬の旅（11・12月）！300個の赤提灯揺れる江戸石！名宿5選',
     description: '11月中旬から12月の初冬、名峰・由布岳の裾野が静かな冬枯れの装いを見せる頃、由布院温泉から車でわずか15分ほど山あいに分け入った渓谷に。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-oita-yunohira-onsen-ishidatami-bungogyu-kamonabe-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月由布奥座敷】300個の赤提灯揺れる江戸石畳と名湯五大共同浴場・極上豊後牛＆冬の滋味合鴨鍋を味わう名宿5選",
+    title: "由布奥座敷で過ごす冬の旅（11・12月）！300個の赤提灯揺れる江戸石畳と名湯五大共同浴場・極上豊後牛＆冬の滋味合鴨鍋を味わう名宿5選",
     description: "11月中旬から12月の初冬、名峰・由布岳の裾野が静かな冬枯れの装いを見せる頃、由布院温泉から車でわずか15分ほど山あいに分け入った渓谷に、別世界のような湯治場情緒が広がります。大分県由布市湯布院町に位置する「湯平温泉（ゆのひらおんせん）」。鎌倉時代開湯、800年を超える歴史を誇り、江戸時代享保年間に敷き詰められた約300メートルに及ぶ美しい石畳の坂道が、花合野川（かごのがわ）のせせらぎとともに旅人を迎えます。初冬の黄昏時、坂道に沿って約300個の赤提灯が一斉に灯ると、石畳に柔らかな朱色の光が揺らめき、息をのむほどノスタルジックな幽玄の世界へ（映画『男はつらいよ』第30作の舞台としても有名）。古くから「胃腸病に名高い胃腸の湯」として親しまれ、温泉街に点在する5つの共同浴場（金の湯、銀の湯、中の湯、砂湯、橋本温泉）の外湯めぐりは湯平ならではの醍醐味です。夕食には、きめ細やかなサシが入った極上黒毛和牛「豊後牛（おおいた和牛）」のすき焼きや陶板焼き、冬の滋味あふれる「合鴨鍋（かもなべ）」が身体を芯から温めます。由布院の喧騒を離れ、静寂と歴史の温もりに浸る大人の冬籠り名宿5選を徹底ガイドします。",
     images: ['https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -367,9 +367,7 @@ export default function OitaYunohiraYufuWinterPage() {
             <Sparkles className="w-3.5 h-3.5" />
             11月・12月由布奥座敷初冬特集・赤提灯石畳と豊後牛＆合鴨鍋
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold tracking-tight text-white leading-tight">
-            {metadata.title as string}
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold tracking-tight text-white leading-tight">{metadata.title as string}</h1>
           <p className="text-xs sm:text-sm text-stone-300 leading-relaxed pt-2">
             黄昏時に約300個の赤提灯が灯る江戸情緒の石畳坂道と、鎌倉時代開湯の胃腸の名湯。
             最高級おおいた和牛のすき焼きと、冬の滋味あふれる合鴨鍋に心温まる由布院奥座敷の休日へ。

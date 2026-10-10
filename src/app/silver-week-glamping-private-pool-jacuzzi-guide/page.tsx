@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-private-pool-jacuzzi-guide/" },
-  title: "【プライベートプール＆温水ジャグジー付きグランピング】シルバーウィークに楽しむ極上リゾートヴィラ ｜ 日本全国・旅宿クラウド",
+  title: "プライベートプール＆温水ジャグジー付きグランピング：シルバーウィークに楽しむ極上リゾートヴィラ ｜ 日本全国・旅宿クラウド",
   description:
     "まだまだ暖かい9月シルバーウィークにプライベートプールを独占！客室専用温水プール、ジェットバスジャグジー、プールサイドでのBBQとシャンパンを楽しむラグジュアリーステイ特集。",
   keywords: ["プライベートプール", "温水ジャグジー付きグランピング", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
@@ -176,9 +176,7 @@ export default function SilverWeekGlampingPrivatePoolJacuzziPage() {
             </span>
           </div>
 
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【プライベートプール＆温水ジャグジー付きグランピング】シルバーウィークに楽しむ極上リゾートヴィラ
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「プライベートプール＆温水ジャグジー付きグランピング」シルバーウィークに楽しむ極上リゾートヴィラ</h1>
 
           <p className="text-xs md:text-sm text-cyan-100/90 leading-relaxed font-medium">
             夏の暑さが和らぎ、澄み切った秋空が広がる9月シルバーウィーク。自分たちだけのテラスに広がるプライベートプールと温水ジャグジーで、人混みとは無縁の贅沢なウォーターリトリートを満喫しませんか。水面に映る夕日、プールサイドでの本格グリル、満天の星を見上げるナイトジャグジーまで、大人の休日を彩る極上ヴィラを厳選しました。

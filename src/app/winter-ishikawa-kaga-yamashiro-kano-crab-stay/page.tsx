@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月加賀温泉郷】山代！名宿5選',
+  title: '加賀温泉郷で過ごす冬の旅（11・12月）！山代！名宿5選',
   description: '11月6日の北陸冬の風物詩・ズワイガニ漁解禁とともに美食の最盛期を迎える石川県・加賀温泉郷（山代温泉・山中温泉）。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '加賀温泉郷 宿泊 11月 12月, 山代温泉 カニ 旅館, 山中温泉 加能ガニ 香箱ガニ, あらや滔々庵 ゆのくに天祥, 加賀温泉 おすすめ 宿, 九谷焼 温泉 会席, 加賀 冬 モデルコース',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-ishikawa-kaga-yamashiro-kano-crab-stay/",
   },
   openGraph: {
-    title: '【11・12月加賀温泉郷】山代！名宿5選',
+    title: '加賀温泉郷で過ごす冬の旅（11・12月）！山代！名宿5選',
     description: '11月6日の北陸冬の風物詩・ズワイガニ漁解禁とともに美食の最盛期を迎える石川県・加賀温泉郷（山代温泉・山中温泉）。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-ishikawa-kaga-yamashiro-kano-crab-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月加賀温泉郷の冬の贅と加能ガニ解禁】山代・山中温泉の歴史名湯と九谷焼で味わう極上ズワイガニ会席の宿5選",
+    title: "加賀温泉郷の冬の贅と加能ガニ解禁で過ごす冬の旅（11・12月）！山代・山中温泉の歴史名湯と九谷焼で味わう極上ズワイガニ会席の宿5選",
     description: "11月6日の北陸冬の風物詩・ズワイガニ漁解禁とともに美食の最盛期を迎える石川県・加賀温泉郷（山代温泉・山中温泉）。開湯1300年の歴史を誇る名湯巡りと、青いタグが輝く石川ブランド「加能ガニ」や内子・外子が濃厚な「香箱ガニ」。九谷焼や山中塗の絢爛な器で冬の日本海会席を味わう極上の大人旅ガイド。",
   }
 };
@@ -266,10 +266,7 @@ export default function KagaWinterPage() {
             <Utensils className="w-4 h-4 text-red-300" />
             <span>11月・12月限定 北陸名湯・加能ガニ解禁と九谷焼の美特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月加賀温泉郷の冬の贅と加能ガニ解禁】<br className="hidden sm:inline" />
-            山代・山中温泉の歴史名湯と九谷焼で味わう極上ズワイガニ会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">加賀温泉郷の冬の贅と加能ガニ解禁で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 山代・山中温泉の歴史名湯と九谷焼で味わう極上ズワイガニ会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             11月6日のズワイガニ漁解禁。青いタグ光る石川の至宝「加能ガニ」と、12月末までの奇跡の味覚「香箱ガニ」。開湯1300年の名湯・山代温泉と鶴仙渓の渓谷美を誇る山中温泉。九谷焼や山中塗の絢爛たる器で味わう究極の冬の日本海グルメ旅へ。
           </p>

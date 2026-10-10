@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-top-brand-jidori-chicken-feast-stay/" },
-  title: "【日本三大地鶏＆銘柄鶏の宿】比内地鶏・名古屋コーチン・さつま地鶏・阿波尾鶏 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "日本三大地鶏＆銘柄鶏の宿：比内地鶏・名古屋コーチン・さつま地鶏・阿波尾鶏 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "全国の最高級ブランド地鶏完全特化！秋田「比内地鶏」のきりたんぽ鍋、愛知「名古屋コーチン」のひきずり鍋、鹿児島「さつま若しゃも・地鶏刺し」、徳島「阿波尾鶏」の炭火焼きと名門温泉旅館を徹底解説。",
   keywords: ["日本三大地鶏", "銘柄鶏の宿", "比内地鶏", "名古屋コーチン", "さつま地鶏", "阿波尾鶏", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function GourmetCuisineHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             JAPAN TOP BRAND JIDORI GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【日本三大地鶏＆銘柄鶏の宿】比内地鶏・名古屋コーチン・さつま地鶏・阿波尾鶏 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「日本三大地鶏＆銘柄鶏の宿」比内地鶏・名古屋コーチン・さつま地鶏・阿波尾鶏 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             噛むほどに溢れ出す濃厚な旨味と抜群の歯ごたえ！日本三大地鶏「比内地鶏」「名古屋コーチン」「さつま地鶏」そして出荷量日本一の「阿波尾鶏」。炭火でじっくり焼き上げる香ばしい焼き鳥や、伝統の郷土鍋に舌鼓を打つ美食の旅。
           </p>

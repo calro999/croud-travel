@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '【2026年】噴き出す温泉蒸気で素材の旨味を凝縮！名物「地獄蒸し」料理が自慢の温泉宿5選 ｜ 日本全国・旅宿クラウド',
+  title: '2026年：噴き出す温泉蒸気で素材の旨味を凝縮！名物「地獄蒸し」料理が自慢の温泉宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！別府鉄輪温泉や雲仙・小浜など、源泉の高温蒸気で海鮮や野菜を丸ごと蒸し上げる絶品「地獄蒸し料理」と名湯を満喫できる厳選宿5選。',
   keywords: ["2026年", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/geothermal-hell-steamed-cuisine-onsen-stay/",
   },
   openGraph: {
-    title: '【2026年】噴き出す温泉蒸気で素材の旨味を凝縮！名物「地獄蒸し」料理が自慢の温泉宿5選',
+    title: '2026年：噴き出す温泉蒸気で素材の旨味を凝縮！名物「地獄蒸し」料理が自慢の温泉宿5選',
     description: '2026年最新！別府鉄輪温泉や雲仙・小浜など、源泉の高温蒸気で海鮮や野菜を丸ごと蒸し上げる絶品「地獄蒸し料理」と名湯を満喫できる厳選宿5選。',
     url: 'https://croud-travel.pages.dev/geothermal-hell-steamed-cuisine-onsen-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -172,9 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>地獄蒸し料理×名湯蒸気宿</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            【2026年】噴き出す温泉蒸気で素材の旨味を凝縮！名物「地獄蒸し」料理が自慢の温泉宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」噴き出す温泉蒸気で素材の旨味を凝縮！名物「地獄蒸し」料理が自慢の温泉宿5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             立ち上る湯けむりと地球のエネルギーを体感する温泉地。高温の温泉蒸気で一気に蒸し上げる「地獄蒸し」は、素材本来の甘みと旨味がぎゅっと凝縮された究極のヘルシー美食。自炊体験ができる湯治宿から豪華会席プランまで、蒸気グルメの名宿をピックアップ。
           </p>

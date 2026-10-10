@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            関西の耶馬渓「香落渓」柱状節理の紅葉ドライブ＆赤目渓谷美・本場伊賀牛と名張の隠れ名湯
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">関西の耶馬渓「香落渓」柱状節理の紅葉ドライブ＆赤目渓谷美・本場伊賀牛と名張の隠れ名湯</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             切り立つ奇岩を包み込む燃えるような錦秋絵巻。名張の隠れ名湯と口の中でとろける幻の伊賀牛を味わい尽くす。
           </p>

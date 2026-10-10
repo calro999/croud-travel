@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月山口】白蛇神社新春初詣！名宿5選',
+  title: '11・12・1月山口：白蛇神社新春初詣！名宿5選',
   description: '冬の山口・岩国と周防大島は、水墨画のように美しい日本三名橋「錦帯橋」の雪化粧と、瀬戸内海の温暖な冬晴れが共存する魅力あふれる季節。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '岩国 ホテル, 錦帯橋 雪景色, 周防大島 みかん鍋, 白蛇神社 初詣, 岩国国際観光ホテル, 高森牛 すき焼き, 獺祭 岩国, 錦帯橋温泉, 11月 12月 1月 山口 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamaguchi-iwakuni-kintaikyo-suo-oshima-mikan-nabe-takamorigyu-stay/"
   },
   openGraph: {
-    title: '【11・12・1月山口】白蛇神社新春初詣！名宿5選',
+    title: '11・12・1月山口：白蛇神社新春初詣！名宿5選',
     description: '冬の山口・岩国と周防大島は、水墨画のように美しい日本三名橋「錦帯橋」の雪化粧と、瀬戸内海の温暖な冬晴れが共存する魅力あふれる季節。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-yamaguchi-iwakuni-kintaikyo-suo-oshima-mikan-nabe-takamorigyu-stay',
     type: 'article',
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月山口】日本三名橋「錦帯橋」の冬景色＆白蛇神社新春初詣！冬の風物詩「周防大島みかん鍋」と幻の高森牛・銘酒獺祭の名宿5選",
+    title: "11・12・1月山口：日本三名橋「錦帯橋」の冬景色＆白蛇神社新春初詣！冬の風物詩「周防大島みかん鍋」と幻の高森牛・銘酒獺祭の名宿5選",
     description: "冬の山口・岩国と周防大島は、水墨画のように美しい日本三名橋「錦帯橋」の雪化粧と、瀬戸内海の温暖な冬晴れが共存する魅力あふれる季節。金運・招福の守り神として名高い岩国白蛇神社の新春初詣、山頂にそびえる岩国城の展望台。11月から旬を迎える周防大島の奇跡の名物「みかん鍋（温州みかんを丸ごと浮かべた地魚鍋）。」、岩国が誇る幻の最高級黒毛和牛「高森牛」のすき焼き、殿様寿司として伝わる郷土料理「岩国寿司」、そして世界を魅了する銘酒「獺祭」。歴史浪漫と名湯、冬の珍味を心ゆくまで満喫する名宿5選を徹底解説します。"
   }
 };
@@ -230,10 +230,7 @@ export default function YamaguchiIwakuniSuooshimaPage() {
             <Sparkles className="w-4 h-4 text-emerald-300" />
             11月・12月・1月冬の特選旅｜山口・岩国＆周防大島
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">
-            日本三名橋「錦帯橋」の冬景色＆白蛇神社新春初詣！<br className="hidden sm:inline" />
-            冬の風物詩「周防大島みかん鍋」と幻の高森牛・銘酒獺祭の名宿5選
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">日本三名橋「錦帯橋」の冬景色＆白蛇神社新春初詣！<br className="hidden sm:inline" /> 冬の風物詩「周防大島みかん鍋」と幻の高森牛・銘酒獺祭の名宿5選</h1>
           <p className="text-base sm:text-lg text-emerald-100/90 leading-relaxed max-w-4xl mb-8">
             水墨画のように澄み渡る錦川に優美な五連アーチを描く日本三名橋「錦帯橋」の冬景色。金運と商売繁盛を授かる岩国白蛇神社の新春初詣、横山城山から見晴るかすパノラマ。そして瀬戸内海のハワイ・周防大島で11月から旬を迎える奇跡の風物詩「みかん鍋」、幻の最高級黒毛和牛「高森牛」のすき焼き、殿様寿司の伝統を引く岩国寿司、世界が愛する銘酒「獺祭」。瀬戸内の穏やかな冬光と名湯、温かな郷土の美味に包まれる厳選宿を詳しく紹介します。
           </p>

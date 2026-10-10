@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tochigi-kinugawa-onsen-valley-stay/" },
-  title: "【栃木・鬼怒川温泉】渓谷美・鬼怒楯岩大吊橋＆ライン下り極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "栃木・鬼怒川温泉：渓谷美・鬼怒楯岩大吊橋＆ライン下り極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "日光・鬼怒川温泉エリア完全特化！鬼怒川渓谷の奇岩怪石、鬼怒楯岩大吊橋パノラマ、鬼怒川ライン下り、東武ワールドスクウェア周辺観光と絶景渓谷露天風呂ホテルを徹底解説。",
   keywords: ["栃木", "鬼怒川温泉", "渓谷美", "鬼怒楯岩大吊橋", "ライン下り極上宿", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             KINUGAWA VALLEY MICRO GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【栃木・鬼怒川温泉】渓谷美・鬼怒楯岩大吊橋＆ライン下り極上宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「栃木・鬼怒川温泉」渓谷美・鬼怒楯岩大吊橋＆ライン下り極上宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             鬼怒川の清流が刻んだダイナミックな渓谷美。川沿いの断崖に大型温泉ホテルや高級旅館が立ち並ぶ関東屈指の温泉郷。名湯につかりながら渓谷の四季を愛でる極上の温泉リゾートへ。
           </p>

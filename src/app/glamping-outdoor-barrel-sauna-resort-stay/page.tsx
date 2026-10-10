@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/glamping-outdoor-barrel-sauna-resort-stay/" },
-  title: "【グランピング＆バレルサウナ体験宿】北欧テント・星空BBQ＆ととのい 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "グランピング＆バレルサウナ体験宿：北欧テント・星空BBQ＆ととのい 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "大自然の中で極上のととのい体験！本格バレルサウナ＆グランピングリゾート宿完全特化！富士山麓、白馬、千葉房総、淡路島、薪サウナ・天然水風呂・外気浴インフィニティチェア、豪華BBQディナー宿を徹底解説。",
   keywords: ["グランピング", "バレルサウナ体験宿", "北欧テント", "星空BBQ", "ととのい", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function RailwayActivityHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-gradient-to-r from-cyan-400 to-blue-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block shadow">
             GLAMPING & BARREL SAUNA GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【グランピング＆バレルサウナ体験宿】北欧テント・星空BBQ＆ととのい 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「グランピング＆バレルサウナ体験宿」北欧テント・星空BBQ＆ととのい 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-cyan-100/90 leading-relaxed">
             心地よい木の香りとセルフロウリュの熱波に包まれる「バレルサウナ＆グランピング」。天然の地下水風呂で身体を引き締め、満天の星空の下でインフィニティチェアに身を委ねる究極のととのい。焚き火の炎と極上グランピングBBQへ。
           </p>

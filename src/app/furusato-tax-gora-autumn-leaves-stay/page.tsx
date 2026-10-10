@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '箱根強羅温泉・箱根美術館の苔庭紅葉＆強羅公園秋のバラ！白濁にごり湯宿×ふるさと納税完全ガイド【2026年最新秋旅】神奈川',
+  title: '箱根強羅温泉・箱根美術館の苔庭紅葉＆強羅公園秋のバラ！白濁にごり湯宿×ふるさと納税厳選ガイド神奈川',
   description: '11月上旬〜11月下旬に見頃を迎える「箱根強羅温泉（はこねごうらおんせん）」。国登録記念物「箱根美術館」の約130本のもみじが彩る苔庭の絶景と強羅公園の秋バラ、大涌谷引湯の白濁にごり湯や自家源泉を持つ名宿「季の湯 雪月花」「強羅環翠楼」「のうのう箱根」で相模湾の地魚や足柄牛会席を堪能。ふるさと納税で実質2,000円。',
   keywords: ["箱根強羅温泉", "箱根美術館の苔庭紅葉", "2026年最新秋旅", "神奈川", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-gora-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '箱根強羅温泉・箱根美術館の苔庭紅葉＆強羅公園秋のバラ！白濁にごり湯宿×ふるさと納税完全ガイド【2026年最新秋旅】神奈川',
+    title: '箱根強羅温泉・箱根美術館の苔庭紅葉＆強羅公園秋のバラ！白濁にごり湯宿×ふるさと納税厳選ガイド神奈川',
     description: '11月上旬〜11月下旬に見頃を迎える「箱根強羅温泉（はこねごうらおんせん）」。国登録記念物「箱根美術館」の約130本のもみじが彩る苔庭の絶景と強羅公園の秋バラ、大涌谷引湯の白濁にごり湯や自家源泉を持つ名宿「季の湯 雪月花」「強羅環翠楼」「のうのう箱根」で相模湾の地魚や足柄牛会席を堪能。ふるさと納税で実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-gora-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FeatureArticlePage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               箱根強羅温泉＆箱根美術館苔庭紅葉特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              箱根強羅温泉・箱根美術館の苔庭紅葉＆強羅公園秋のバラ！白濁にごり湯宿×ふるさと納税完全ガイド【2026年最新秋旅】神奈川
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">箱根強羅温泉・箱根美術館の苔庭紅葉＆強羅公園秋のバラ！白濁にごり湯宿×ふるさと納税厳選ガイド神奈川</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               11月上旬〜11月下旬に見頃を迎える「箱根強羅温泉（はこねごうらおんせん）」。国登録記念物「箱根美術館」の約130本のもみじが彩る苔庭の絶景と強羅公園の秋バラ、大涌谷引湯の白濁にごり湯や自家源泉を持つ名宿「季の湯 雪月花」「強羅環翠楼」「のうのう箱根」で相模湾の地魚や足柄牛会席を堪能。ふるさと納税で実質2,000円。
             </p>

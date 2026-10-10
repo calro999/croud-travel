@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-cycling-shimanami-lake-resort-stay/" },
-  title: '絶景サイクリング＆海沿いサイクリスト温泉宿×ふるさと納税完全ガイド【2026年最新】しまなみ海道・尾道・琵琶湖の爽快旅',
+  title: '絶景サイクリング＆海沿いサイクリスト温泉宿×ふるさと納税厳選ガイドしまなみ海道・尾道・琵琶湖の爽快旅',
   description: 'サイクリストの聖地・瀬戸内しまなみ海道、尾道水道、琵琶湖一周ビワイチ！愛車を客室に持ち込める専用バイクラック付きホテルや海沿い展望温泉リゾートを楽天ふるさと納税宿泊クーポンでお得に予約するアクティブリゾート完全ガイド。',
   keywords: ["絶景サイクリング", "2026年最新", "しまなみ海道", "尾道", "琵琶湖の爽快旅", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: '絶景サイクリング＆海沿いサイクリスト温泉宿×ふるさと納税完全ガイド【2026年最新】しまなみ海道・尾道・琵琶湖の爽快旅',
+    title: '絶景サイクリング＆海沿いサイクリスト温泉宿×ふるさと納税厳選ガイドしまなみ海道・尾道・琵琶湖の爽快旅',
     description: 'サイクリストの聖地・瀬戸内しまなみ海道、尾道水道、琵琶湖一周ビワイチ！愛車を客室に持ち込める専用バイクラック付きホテルや海沿い展望温泉リゾートを楽天ふるさと納税宿泊クーポンでお得に予約するアクティブリゾート完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-cycling-shimanami-lake-resort-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FurusatoTaxPage() {
           <span className="inline-block px-4 py-1.5 rounded-full text-xs md:text-sm font-black bg-gradient-to-r from-amber-500 to-yellow-400 text-slate-950 mb-5 shadow-lg shadow-amber-500/20">
             絶景サイクリング・温泉リゾート特集
           </span>
-          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">
-            絶景サイクリング＆海沿いサイクリスト温泉宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">絶景サイクリング＆海沿いサイクリスト温泉宿×ふるさと納税ガイド</h1>
           <p className="text-sm md:text-lg text-slate-300 leading-relaxed font-medium">
             サイクリストの聖地・瀬戸内しまなみ海道、尾道水道、琵琶湖一周ビワイチ！愛車を客室に持ち込める専用バイクラック付きホテルや海沿い展望温泉リゾートを楽天ふるさと納税宿泊クーポンでお得に予約するアクティブリゾート完全ガイド。
           </p>

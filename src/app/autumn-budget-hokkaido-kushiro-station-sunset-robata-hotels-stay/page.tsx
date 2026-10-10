@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【釧路駅前】世界三大夕日・幣舞橋＆名物炉端焼き・秋刀魚！4,000円台〜泊まれる格安ホテル5選',
+  title: '釧路駅前：世界三大夕日・幣舞橋＆名物炉端焼き・秋刀魚！4,000円台〜泊まれる格安ホテル5選',
   description: 'バリ島・マニラと並ぶ「世界三大夕日」の幣舞橋サンセット！秋に脂が乗り切る名物秋刀魚（サンマ）の炉端焼きや勝手丼、釧路湿原の秋景色。JR根室本線・釧路駅周辺で1泊4,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>世界三大夕日幣舞橋の茜色サンセット＆名物炭火炉端焼き・秋刀魚</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【釧路駅前】幣舞橋の夕日＆名物炉端焼き！<br className="hidden sm:inline" />4,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「釧路駅前」幣舞橋の夕日＆名物炉端焼き！<br className="hidden sm:inline" />4,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             世界中の船乗りが称賛した「世界三大夕日」の一つ・釧路港と幣舞橋のサンセット。秋の澄み渡る空を紫と茜色に染めるドラマチックな黄昏時。炭火のパチパチという音とともに香ばしく焼き上げる脂の乗った「釧路産サンマ」やホッケ、和商市場の「勝手丼」に舌鼓！釧路駅周辺で4,000円台〜泊まれる優良ホテルを厳選。
           </p>

@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-capes-ocean-panorama-stay/" },
-  title: '日本三大岬＆地球の丸みを感じる断崖・絶景パノラマ海宿×ふるさと納税完全ガイド【2026年最新】知床岬・足摺岬・佐多岬',
+  title: '日本三大岬＆地球の丸みを感じる断崖・絶景パノラマ海宿×ふるさと納税厳選ガイド知床岬・足摺岬・佐多岬',
   description: '日本列島の果てに突き出た壮大な絶景岬！世界自然遺産の断崖とオホーツクの海原「知床岬」ウトロ温泉知床第一ホテル、黒潮打ち寄せる太平洋270度パノラマと白亜の灯台「足摺岬」足摺国際ホテル、本州最南端からエメラルドブルーの錦江湾と開聞岳を望む「佐多岬」指宿白水館。日本三大岬のダイナミックな景観美と海の幸を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大岬・絶景オーシャン特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大岬＆地球の丸みを感じる断崖・絶景パノラマ海宿×ふるさと納税完全ガイド【2026年最新】知床岬・足摺岬・佐多岬',
+    title: '日本三大岬＆地球の丸みを感じる断崖・絶景パノラマ海宿×ふるさと納税厳選ガイド知床岬・足摺岬・佐多岬',
     description: '日本列島の果てに突き出た壮大な絶景岬！世界自然遺産の断崖とオホーツクの海原「知床岬」ウトロ温泉知床第一ホテル、黒潮打ち寄せる太平洋270度パノラマと白亜の灯台「足摺岬」足摺国際ホテル、本州最南端からエメラルドブルーの錦江湾と開聞岳を望む「佐多岬」指宿白水館。日本三大岬のダイナミックな景観美と海の幸を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-capes-ocean-panorama-stay',
@@ -142,9 +142,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大岬・絶景オーシャン特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大岬＆地球の丸みを感じる断崖海宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大岬＆地球の丸みを感じる断崖海宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             大海原に向かって突き出し、地球の丸みを実感できるほどの壮大なスケールを誇る「日本三大岬」――流氷が運ぶ栄養が命を育みヒグマやオジロワシが息づく手つかずの原生自然が広がる北海道の「知床岬」、黒潮が激しく打ち寄せる高さ80mもの海食崖の上に白亜の灯台が立ち270度の大パノラマが広がる高知の「足摺岬」、そして霧島錦江湾国立公園の南端に位置しソテツの自生林を抜けた先にエメラルドグリーンの海と開聞岳が広がる鹿児島の「佐多岬」。海と空が溶け合う最果ての絶景を巡った後は、三陸やオホーツク・黒潮の旬魚、名湯露天風呂に癒やされる特別な休日を楽天ふるさと納税でお楽しみください。
           </p>

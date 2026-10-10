@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '【2026年】黄金色に輝く風紋と日本海の夕陽！砂丘パノラマを望む絶景リゾートホテル5選 ｜ 日本全国・旅宿クラウド',
+  title: '2026年：黄金色に輝く風紋と日本海の夕陽！砂丘パノラマを望む絶景リゾートホテル5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！鳥取砂丘や中田島砂丘など、刻一刻と表情を変える大砂丘のパノラマと茜色に染まる夕陽、満天の星空を満喫できる温泉リゾート5選。',
   keywords: ["2026年", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/super-panoramic-sunset-dune-resort-stay/",
   },
   openGraph: {
-    title: '【2026年】黄金色に輝く風紋と日本海の夕陽！砂丘パノラマを望む絶景リゾートホテル5選',
+    title: '2026年：黄金色に輝く風紋と日本海の夕陽！砂丘パノラマを望む絶景リゾートホテル5選',
     description: '2026年最新！鳥取砂丘や中田島砂丘など、刻一刻と表情を変える大砂丘のパノラマと茜色に染まる夕陽、満天の星空を満喫できる温泉リゾート5選。',
     url: 'https://croud-travel.pages.dev/super-panoramic-sunset-dune-resort-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -172,9 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>大砂丘パノラマ×サンセット温泉</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            【2026年】黄金色に輝く風紋と日本海の夕陽！砂丘パノラマを望む絶景リゾートホテル5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」黄金色に輝く風紋と日本海の夕陽！砂丘パノラマを望む絶景リゾートホテル5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             風が描き出す神秘的な風紋と、見渡す限りの黄金色の砂の世界。夕暮れ時には日本海に沈む夕陽が砂丘を紅く染め上げ、夜は都会では見られない満天の天の川が広がります。大自然の造形美と天然温泉のぬくもりに包まれる非日常のリゾートステイ。
           </p>

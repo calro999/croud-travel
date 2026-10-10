@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月小豆島温泉】海一望露天風呂！名宿5選',
+  title: '小豆島温泉で過ごす冬の旅（11・12月）！海一望露天風呂！名宿5選',
   description: '11月下旬から12月にかけて瀬戸内海の小豆島は、温暖で穏やかな気候の中、日本三大渓谷美「寒霞渓」の紅葉から初冬の岩肌へと移ろうダイナミックな景観と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '小豆島 温泉 宿泊, 小豆島 11月 12月, 小豆島国際ホテル, ベイリゾートホテル小豆島, 島宿真里, 海音真里, 国民宿舎小豆島, 寒霞渓 冬, エンジェルロード 夕日, 小豆島オリーブ牛 宿, 讃岐でんぶく フグ',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kagawa-shodoshima-onsen-kankakei-olive-beef-stay/"
   },
   openGraph: {
-    title: '【11・12月小豆島温泉】海一望露天風呂！名宿5選',
+    title: '小豆島温泉で過ごす冬の旅（11・12月）！海一望露天風呂！名宿5選',
     description: '11月下旬から12月にかけて瀬戸内海の小豆島は、温暖で穏やかな気候の中、日本三大渓谷美「寒霞渓」の紅葉から初冬の岩肌へと移ろうダイナミックな景観と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-kagawa-shodoshima-onsen-kankakei-olive-beef-stay',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -280,10 +280,7 @@ export default function ShodoshimaOnsenWinterFeature() {
             <SunMedium className="w-4 h-4" />
             11月・12月 冬の極上温泉特集｜香川・瀬戸内海小豆島
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月小豆島温泉】<br className="hidden sm:inline" />
-            初冬の寒霞渓奇岩絶景とエンジェルロード夕日・オリーブ牛＆でんぶくの宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">小豆島温泉で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 初冬の寒霞渓奇岩絶景とエンジェルロード夕日・オリーブ牛＆でんぶくの宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             穏やかな瀬戸内海に抱かれたオリーブ香る島。潮の満ち引きが現す神秘の砂の道、寒霞渓のダイナミックな渓谷美、初摘みオリーブオイルと最高級小豆島オリーブ牛を堪能する大人のアイランドステイ。
           </p>

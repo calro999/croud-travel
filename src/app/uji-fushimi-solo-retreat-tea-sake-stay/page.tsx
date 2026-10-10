@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/uji-fushimi-solo-retreat-tea-sake-stay/" },
-  title: '【宇治・伏見ひとり旅・歴史おこもり】宇治川のせせらぎ・世界遺産平等院鳳凰堂・伏見酒蔵めぐり！京の奥座敷で心調律する厳選3宿',
+  title: '宇治・伏見ひとり旅・歴史おこもり：宇治川のせせらぎ・世界遺産平等院鳳凰堂・伏見酒蔵めぐり！京の奥座敷で心調律する厳選3宿',
   description: '京都駅からJR奈良線や近鉄で約15〜20分！宇治川のほとりに佇み全室リバービューの老舗料亭旅館「花やしき浮舟園」、伏見稲荷大社や伏見酒蔵巡りの拠点に最適な「アーバンホテル京都」、JR宇治駅徒歩約3分でビジネス・観光のフットワーク抜群な「宇治第一ホテル」を楽天APIデータに基づき徹底比較。',
   keywords: '宇治 一人旅 ホテル,伏見 ひとり旅 宿,花やしき浮舟園 宿泊,アーバンホテル京都,宇治第一ホテル,平等院鳳凰堂 宇治茶 伏見酒蔵',
   openGraph: {
-    title: '【宇治・伏見ひとり旅・歴史おこもり】宇治川のせせらぎ・世界遺産平等院鳳凰堂・伏見酒蔵めぐり！京の奥座敷で心調律する厳選3宿',
+    title: '宇治・伏見ひとり旅・歴史おこもり：宇治川のせせらぎ・世界遺産平等院鳳凰堂・伏見酒蔵めぐり！京の奥座敷で心調律する厳選3宿',
     description: '京都駅からJR奈良線や近鉄で約15〜20分！宇治川のほとりに佇み全室リバービューの老舗料亭旅館「花やしき浮舟園」、伏見稲荷大社や伏見酒蔵巡りの拠点に最適な「アーバンホテル京都」、JR宇治駅徒歩約3分でビジネス・観光のフットワーク抜群な「宇治第一ホテル」を楽天APIデータに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/uji-fushimi-solo-retreat-tea-sake-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【宇治・伏見ひとり旅・歴史おこもり】宇治川のせせらぎ・世界遺産平等院鳳凰堂・伏見酒蔵めぐり！京の奥座敷で心調律する厳選3宿',
+    headline: '宇治・伏見ひとり旅・歴史おこもり：宇治川のせせらぎ・世界遺産平等院鳳凰堂・伏見酒蔵めぐり！京の奥座敷で心調律する厳選3宿',
     description: '京都駅からJR奈良線や近鉄で約15〜20分！宇治川のほとりに佇み全室リバービューの老舗料亭旅館「花やしき浮舟園」、伏見稲荷大社や伏見酒蔵巡りの拠点に最適な「アーバンホテル京都」、JR宇治駅徒歩約3分でビジネス・観光のフットワーク抜群な「宇治第一ホテル」を楽天APIデータに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -73,9 +73,7 @@ export default function ArticlePage() {
         <div className="inline-block bg-amber-700 text-white text-xs font-semibold px-3 py-1 rounded-full mb-3 tracking-wider">
           ひとり旅・出張・サウナ＆名湯特集
         </div>
-        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">
-          【宇治・伏見ひとり旅・歴史おこもり】宇治川のせせらぎ・世界遺産平等院鳳凰堂・伏見酒蔵めぐり！京の奥座敷で心調律する厳選3宿
-        </h1>
+        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">「宇治・伏見ひとり旅・歴史おこもり」宇治川のせせらぎ・世界遺産平等院鳳凰堂・伏見酒蔵めぐり！京の奥座敷で心調律する厳選3宿</h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.12 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>

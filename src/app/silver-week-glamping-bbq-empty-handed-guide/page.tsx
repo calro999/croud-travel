@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-bbq-empty-handed-guide/" },
-  title: "【手ぶらBBQグランピングおすすめ】準備・片付け不要！黒毛和牛ステーキ＆海鮮が豪華すぎる秋のごちそう泊 ｜ 日本全国・旅宿クラウド",
+  title: "手ぶらBBQグランピングおすすめ：準備・片付け不要！黒毛和牛ステーキ＆海鮮が豪華すぎる秋のごちそう泊 ｜ 日本全国・旅宿クラウド",
   description:
     "面倒な買い出し・火起こし・炭の後片付けは一切不要！シェフ監修の特選黒毛和牛サーロイン、オマール海老やアワビの海鮮グリル、地ビール飲み放題プラン付きの美食グランピング比較。女子旅や子連れに大人気。",
   keywords: ["準備", "片付け不要！黒毛和牛ステーキ", "海鮮が豪華すぎる秋のごちそう泊", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
@@ -172,9 +172,7 @@ export default function SilverWeekGlampingBbqEmptyHandedPage() {
             </span>
           </div>
 
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【手ぶらBBQグランピングおすすめ】準備・片付け不要！黒毛和牛ステーキ＆海鮮が豪華すぎる秋のごちそう泊
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「手ぶらBBQグランピングおすすめ」準備・片付け不要！黒毛和牛ステーキ＆海鮮が豪華すぎる秋のごちそう泊</h1>
 
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed font-medium">
             面倒な炭の火起こしや重いクーラーボックスの買い出し、ギトギト油の網洗いとはもうサヨナラ。地元特選黒毛和牛の極厚ステーキ、伊勢海老やアワビの豪快海鮮グリル、地元採れたて秋野菜のスキレット料理まで、シェフ監修の贅沢メニューがプライベートデッキに揃う美食グランピング特集です。女子旅や小さな子ども連れファミリーにも選ばれています。

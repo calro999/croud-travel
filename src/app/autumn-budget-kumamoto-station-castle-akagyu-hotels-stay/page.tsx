@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【熊本駅前】日本三名城熊本城の銀杏紅葉＆名物あか牛丼・馬刺し！4,000円台〜泊まれる格安ホテル5選',
+  title: '熊本駅前：日本三名城熊本城の銀杏紅葉＆名物あか牛丼・馬刺し！4,000円台〜泊まれる格安ホテル5選',
   description: '銀杏城と称される名城・熊本城の大イチョウ黄葉と秋の天守閣！阿蘇の大自然が育んだ名物あか牛丼や本場極上馬刺し、熊本ラーメン。九州新幹線・JR熊本駅周辺で1泊4,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>名城熊本城の黄金イチョウ黄葉＆名物阿蘇あか牛丼・馬刺し</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【熊本駅前】熊本城大銀杏の秋景＆名物あか牛丼！<br className="hidden sm:inline" />4,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「熊本駅前」熊本城大銀杏の秋景＆名物あか牛丼！<br className="hidden sm:inline" />4,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             加藤清正公が築城した日本屈指の名城「熊本城」。天守閣前にそびえる大イチョウが黄金色に輝く「銀杏城」の最も美しい季節。赤身肉の旨味が凝縮された阿蘇名物「あか牛丼」や、甘口醤油と生姜でいただく新鮮な「極上馬刺し」、焦がしニンニク油香る「熊本ラーメン」に舌鼓！熊本駅周辺で4,000円台〜泊まれる優良ホテルを厳選。
           </p>

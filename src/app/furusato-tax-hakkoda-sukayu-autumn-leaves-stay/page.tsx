@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '八甲田山ロープウェーの錦秋パノラマ＆酸ヶ湯温泉ヒバ千人風呂！秘湯宿×ふるさと納税完全ガイド【2026年最新秋旅】青森',
+  title: '八甲田山ロープウェーの錦秋パノラマ＆酸ヶ湯温泉ヒバ千人風呂！秘湯宿×ふるさと納税厳選ガイド青森',
   description: '9月下旬〜10月下旬に日本で最も早い錦秋を迎える青森の霊峰「八甲田山」。ロープウェーから見下ろす360度の大紅葉絨毯と、総ヒバ造りの名物千人風呂を誇る「ホテル城ヶ倉」「酸ヶ湯温泉旅館」「蔦温泉旅館」で青森倉石牛や十和田湖ヒメマス・山菜料理を堪能。ふるさと納税で実質2,000円。',
   keywords: ["2026年最新秋旅", "青森", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-hakkoda-sukayu-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '八甲田山ロープウェーの錦秋パノラマ＆酸ヶ湯温泉ヒバ千人風呂！秘湯宿×ふるさと納税完全ガイド【2026年最新秋旅】青森',
+    title: '八甲田山ロープウェーの錦秋パノラマ＆酸ヶ湯温泉ヒバ千人風呂！秘湯宿×ふるさと納税厳選ガイド青森',
     description: '9月下旬〜10月下旬に日本で最も早い錦秋を迎える青森の霊峰「八甲田山」。ロープウェーから見下ろす360度の大紅葉絨毯と、総ヒバ造りの名物千人風呂を誇る「ホテル城ヶ倉」「酸ヶ湯温泉旅館」「蔦温泉旅館」で青森倉石牛や十和田湖ヒメマス・山菜料理を堪能。ふるさと納税で実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-hakkoda-sukayu-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -113,9 +113,7 @@ export default function FeatureArticlePage() {
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">
-            八甲田山ロープウェーの錦秋パノラマ＆酸ヶ湯温泉ヒバ千人風呂！秘湯宿×ふるさと納税完全ガイド【2026年最新秋旅】青森
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">八甲田山ロープウェーの錦秋パノラマ＆酸ヶ湯温泉ヒバ千人風呂！秘湯宿×ふるさと納税厳選ガイド青森</h1>
           <p className="text-sm md:text-lg text-stone-200 max-w-3xl mx-auto leading-relaxed">
             空中から見下ろす八甲田の紅葉絨毯と、総ヒバ造りの千人風呂で湯浴みする秘湯ステイ。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
           </p>

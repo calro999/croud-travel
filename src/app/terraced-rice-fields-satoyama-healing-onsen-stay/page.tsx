@@ -155,9 +155,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            黄金色に輝く日本の原風景！絶景棚田と里山の恵みを味わうヒーリング温泉宿
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">黄金色に輝く日本の原風景！絶景棚田と里山の恵みを味わうヒーリング温泉宿</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             山の斜面に幾重にも連なる美しい棚田。水鏡のように空を映す春、青々と稲がそよぐ夏、黄金色の稲穂が波打つ秋、そして雪に覆われる冬。どこか懐かしい日本の原風景を見下ろす高台の露天風呂に浸かり、大地の恵みをたっぷり使った素朴で滋味あふれる料理に癒やされる旅をご案内します。
           </p>

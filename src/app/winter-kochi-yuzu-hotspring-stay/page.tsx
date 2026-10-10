@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【11・12月ゆず湯＆冬至の香り】日本一の高知ゆず温泉と戻りカツオ塩たたき宿5選",
+  title: "ゆず湯＆冬至の香りで過ごす冬の旅（11・12月）！日本一の高知ゆず温泉と戻りカツオ塩たたき宿5選",
   description: "11月から収穫最盛期を迎え、12月冬至の風物詩となる「ゆず湯」！日本一の生産量を誇る高知・北川村や物部川水系の爽やかなゆずを浮かべた天然温泉と、脂がのった極上の戻りカツオ塩たたきを堪能する温もり旅。",
   keywords: "高知 温泉 旅館, 11月旅行, 12月旅行, 冬休み, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kochi-yuzu-hotspring-stay/",
   },
   openGraph: {
-    title: "【11・12月ゆず湯＆冬至の香り】日本一の高知ゆず温泉と戻りカツオ塩たたき宿5選",
+    title: "ゆず湯＆冬至の香りで過ごす冬の旅（11・12月）！日本一の高知ゆず温泉と戻りカツオ塩たたき宿5選",
     description: "11月から収穫最盛期を迎え、12月冬至の風物詩となる「ゆず湯」！日本一の生産量を誇る高知・北川村や物部川水系の爽やかなゆずを浮かべた天然温泉と、脂がのった極上の戻りカツオ塩たたきを堪能する温もり旅。",
     url: 'https://croud-travel.pages.dev/winter-kochi-yuzu-hotspring-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月ゆず湯＆冬至の香り】日本一の高知ゆず温泉と戻りカツオ塩たたき宿5選",
+    title: "ゆず湯＆冬至の香りで過ごす冬の旅（11・12月）！日本一の高知ゆず温泉と戻りカツオ塩たたき宿5選",
     description: "11月から収穫最盛期を迎え、12月冬至の風物詩となる「ゆず湯」！日本一の生産量を誇る高知・北川村や物部川水系の爽やかなゆずを浮かべた天然温泉と、脂がのった極上の戻りカツオ塩たたきを堪能する温もり旅。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>高知ゆず湯＆戻りカツオ塩たたき</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【11・12月ゆず湯＆冬至の香り】日本一の高知ゆず温泉と戻りカツオ塩たたき宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">ゆず湯＆冬至の香りで過ごす冬の旅（11・12月）！日本一の高知ゆず温泉と戻りカツオ塩たたき宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             11月から収穫最盛期を迎え、12月冬至の風物詩となる「ゆず湯」！日本一の生産量を誇る高知・北川村や物部川水系の爽やかなゆずを浮かべた天然温泉と、脂がのった極上の戻りカツオ塩たたきを堪能する温もり旅。
           </p>

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-private-bath-ryokan/" },
-  title: "【おこもり贅沢】貸切露天風呂＆お部屋食の極上温泉旅館 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "おこもり贅沢：貸切露天風呂＆お部屋食の極上温泉旅館 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "誰にも気兼ねしない二人だけの至福の時間。箱根強羅、伊豆修善寺、熊本黒川温泉、京都嵯峨嵐山など、無料貸切露天風呂や贅沢な部屋食会席プランを備えた秋・冬のおこもり人気宿を徹底解説。",
   keywords: ["おこもり贅沢", "貸切露天風呂", "お部屋食の極上温泉旅館", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -98,9 +98,7 @@ export default function SeasonalFeaturePage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             PRIVATE BATH & IN-ROOM DINING
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【おこもり贅沢】貸切露天風呂＆お部屋食の極上温泉旅館 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「おこもり贅沢」貸切露天風呂＆お部屋食の極上温泉旅館 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             湯けむり立ち上るプライベートな貸切露天風呂で手足を伸ばし、夜は誰にも邪魔されず客室でいただく出来立ての贅沢会席。カップルやご夫婦、記念日旅行に最適な極上のおこもり温泉旅館へ。
           </p>

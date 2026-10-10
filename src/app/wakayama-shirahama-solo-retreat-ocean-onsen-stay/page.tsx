@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/wakayama-shirahama-solo-retreat-ocean-onsen-stay/" },
-  title: '【南紀白浜ひとり旅・海一望名湯おこもり】白良浜オーシャンビュー・日本三古湯・クエ＆伊勢海老！太平洋の絶景に抱かれる厳選3宿',
+  title: '南紀白浜ひとり旅・海一望名湯おこもり：白良浜オーシャンビュー・日本三古湯・クエ＆伊勢海老！太平洋の絶景に抱かれる厳選3宿',
   description: '白砂のビーチと日本三古湯の街・南紀白浜！太平洋を見渡す高台で絶景露天風呂と最高級クエ料理が評判の「海岳」、オープンテラスと広大な温泉プール＆スパを備える「白浜古賀の井リゾート＆スパ」、白良浜徒歩1分で和モダン客室が心地よい「紀州・白浜温泉 むさし」を徹底比較。',
   keywords: '白浜温泉 一人旅 宿,南紀白浜 ホテル 一人 温泉,白浜リゾート 海岳,白浜古賀の井リゾート,白浜温泉 むさし,白良浜 ひとり旅 おこもり',
   openGraph: {
-    title: '【南紀白浜ひとり旅・海一望名湯おこもり】白良浜オーシャンビュー・日本三古湯・クエ＆伊勢海老！太平洋の絶景に抱かれる厳選3宿',
+    title: '南紀白浜ひとり旅・海一望名湯おこもり：白良浜オーシャンビュー・日本三古湯・クエ＆伊勢海老！太平洋の絶景に抱かれる厳選3宿',
     description: '白砂のビーチと日本三古湯の街・南紀白浜！太平洋を見渡す高台で絶景露天風呂と最高級クエ料理が評判の「海岳」、オープンテラスと広大な温泉プール＆スパを備える「白浜古賀の井リゾート＆スパ」、白良浜徒歩1分で和モダン客室が心地よい「紀州・白浜温泉 むさし」を徹底比較。',
     url: 'https://croud-travel.pages.dev/wakayama-shirahama-solo-retreat-ocean-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【南紀白浜ひとり旅・海一望名湯おこもり】白良浜オーシャンビュー・日本三古湯・クエ＆伊勢海老！太平洋の絶景に抱かれる厳選3宿',
+    headline: '南紀白浜ひとり旅・海一望名湯おこもり：白良浜オーシャンビュー・日本三古湯・クエ＆伊勢海老！太平洋の絶景に抱かれる厳選3宿',
     description: '白砂のビーチと日本三古湯の街・南紀白浜！太平洋を見渡す高台で絶景露天風呂と最高級クエ料理が評判の「海岳」、オープンテラスと広大な温泉プール＆スパを備える「白浜古賀の井リゾート＆スパ」、白良浜徒歩1分で和モダン客室が心地よい「紀州・白浜温泉 むさし」を徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             和歌山・南紀白浜温泉ひとり旅＆海一望おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【南紀白浜ひとり旅・海一望名湯おこもり】白良浜オーシャンビュー・日本三古湯・クエ＆伊勢海老！太平洋の絶景に抱かれる厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「南紀白浜ひとり旅・海一望名湯おこもり」白良浜オーシャンビュー・日本三古湯・クエ＆伊勢海老！太平洋の絶景に抱かれる厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

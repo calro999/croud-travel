@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/autumn-temple-garden-lightup/" },
-  title: "【錦秋の光の芸術】紅葉庭園ライトアップ＆夜間特別拝観の宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "錦秋の光の芸術：紅葉庭園ライトアップ＆夜間特別拝観の宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "幻想的な闇に浮かび上がる紅葉の美！京都東山（清水寺・高台寺）、東京目白（ホテル椿山荘東京の雲海庭園）、金沢兼六園（雪吊りライトアップ）、宮城松島円通院など、夜間ライトアップを満喫できる極上宿を徹底解説。",
   keywords: ["錦秋の光の芸術", "紅葉庭園ライトアップ", "夜間特別拝観の宿", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -98,9 +98,7 @@ export default function SeasonalFeaturePage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             AUTUMN ILLUMINATED GARDEN
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【錦秋の光の芸術】紅葉庭園ライトアップ＆夜間特別拝観の宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「錦秋の光の芸術」紅葉庭園ライトアップ＆夜間特別拝観の宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             昼間の鮮やかな紅葉とは一変し、漆黒の夜空と鏡のような池の水面に映し出される光の芸術。門前宿や庭園自慢のホテルに宿泊し、夜間特別拝観の感動をそのまま客室へ持ち帰る贅沢な秋の旅。
           </p>

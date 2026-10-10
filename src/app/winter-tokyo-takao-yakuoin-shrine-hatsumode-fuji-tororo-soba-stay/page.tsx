@@ -6,14 +6,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月東京】霊峰「高尾山薬王院」新春初詣！名宿5選',
+  title: '11・12・1月東京：霊峰「高尾山薬王院」新春初詣！名宿5選',
   description: '都心から電車でわずか約50分の霊峰・高尾山。11〜1月の冬シーズンは澄み切った大気の中。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '高尾山 初詣, 高尾山薬王院, ダイヤモンド富士 高尾山, とろろそば 高尾山, 京王高尾山温泉 極楽湯, 京王プラザホテル八王子, タカオネ, 八王子 ホテル, 冬 高尾山 登山, 天狗焼',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-tokyo-takao-yakuoin-shrine-hatsumode-fuji-tororo-soba-stay'
   },
   openGraph: {
-    title: '【11・12・1月東京】霊峰「高尾山薬王院」新春初詣！名宿5選',
+    title: '11・12・1月東京：霊峰「高尾山薬王院」新春初詣！名宿5選',
     description: '都心から電車でわずか約50分の霊峰・高尾山。11〜1月の冬シーズンは澄み切った大気の中。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-tokyo-takao-yakuoin-shrine-hatsumode-fuji-tororo-soba-stay',
     type: 'article',
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月東京】霊峰「高尾山薬王院」新春初詣と冬晴れのダイヤモンド富士！名物自然薯とろろそば＆極楽湯・八王子厳選名宿5選",
+    title: "11・12・1月東京：霊峰「高尾山薬王院」新春初詣と冬晴れのダイヤモンド富士！名物自然薯とろろそば＆極楽湯・八王子厳選名宿5選",
     description: "都心から電車でわずか約50分の霊峰・高尾山。11〜1月の冬シーズンは澄み切った大気の中、山頂から富士山の冠雪美や冬至前後の奇跡「ダイヤモンド富士」を一望できます。開山1200余年の祈祷寺「高尾山薬王院」で迎える厳かな新春大護摩供と天狗信仰初詣。参道で味わう熱々の名物自然薯とろろそばや焼きたて天狗焼、いろり炭火焼の美食。登山後の冷えた身体を癒やす「京王高尾山温泉 極楽湯」と、八王子駅周辺の洗練されたハイクオリティ名宿5選を徹底特集。",
     images: ['https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -281,10 +281,7 @@ export default function TokyoTakaoWinterPage() {
             <Snowflake className="w-4 h-4 text-sky-300" />
             <span>関東・東京 多摩・八王子 冬の特別紀行（11月・12月・1月）</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 font-journal-serif">
-            霊峰「高尾山薬王院」新春初詣と冬晴れのダイヤモンド富士！<br className="hidden md:inline" />
-            名物自然薯とろろそば＆極楽湯・八王子厳選名宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 font-journal-serif">霊峰「高尾山薬王院」新春初詣と冬晴れのダイヤモンド富士！<br className="hidden md:inline" /> 名物自然薯とろろそば＆極楽湯・八王子厳選名宿5選</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mb-6">
             新宿駅から京王線特急でわずか約47分。標高599mの霊峰・高尾山は、世界一の登山客数を誇りながら、冬になると凛とした静寂と圧倒的な透明度の大気に包まれます。12月下旬の冬至前後に山頂から拝む奇跡の「ダイヤモンド富士」、奈良時代開山の古刹「高尾山薬王院」で炎高く立ち上る新春大護摩供と天狗信仰の初詣。参道に漂う香ばしい出汁と滋養豊かな「自然薯とろろそば」、駅直結の「極楽湯」で味わう至福の天然温泉。八王子駅前の快適なシティホテルから麓の体験型拠点まで、冬の東京の奥座敷を満喫する極上の滞在プランを詳しく紐解きます。
           </p>

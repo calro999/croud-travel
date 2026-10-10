@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-morning-market-hamayaki-seafood-inn-stay/" },
-  title: '海鮮浜焼き・港町朝市めぐり直結宿×ふるさと納税完全ガイド【2026年最新】八戸・沼津・高知の獲れたて市場グルメ',
+  title: '海鮮浜焼き・港町朝市めぐり直結宿×ふるさと納税厳選ガイド八戸・沼津・高知の獲れたて市場グルメ',
   description: '館鼻岸壁朝市、沼津港、ひろめ市場など全国屈指の活気あふれる市場直結・徒歩圏内宿をふるさと納税でお得に予約！名物浜焼きや朝獲れ刺身、市場食べ歩きと温泉を満喫する港町グルメ宿泊ガイド。',
   keywords: ["海鮮浜焼き", "2026年最新", "八戸", "沼津", "高知の獲れたて市場グルメ", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: '海鮮浜焼き・港町朝市めぐり直結宿×ふるさと納税完全ガイド【2026年最新】八戸・沼津・高知の獲れたて市場グルメ',
+    title: '海鮮浜焼き・港町朝市めぐり直結宿×ふるさと納税厳選ガイド八戸・沼津・高知の獲れたて市場グルメ',
     description: '館鼻岸壁朝市、沼津港、ひろめ市場など全国屈指の活気あふれる市場直結・徒歩圏内宿をふるさと納税でお得に予約！名物浜焼きや朝獲れ刺身、市場食べ歩きと温泉を満喫する港町グルメ宿泊ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-morning-market-hamayaki-seafood-inn-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FurusatoTaxPage() {
           <span className="inline-block px-4 py-1.5 rounded-full text-xs md:text-sm font-black bg-gradient-to-r from-amber-500 to-yellow-400 text-slate-950 mb-5 shadow-lg shadow-amber-500/20">
             朝市・海鮮浜焼き市場特集
           </span>
-          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">
-            海鮮浜焼き・港町朝市めぐり直結宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">海鮮浜焼き・港町朝市めぐり直結宿×ふるさと納税ガイド</h1>
           <p className="text-sm md:text-lg text-slate-300 leading-relaxed font-medium">
             館鼻岸壁朝市、沼津港、ひろめ市場など全国屈指の活気あふれる市場直結・徒歩圏内宿をふるさと納税でお得に予約！名物浜焼きや朝獲れ刺身、市場食べ歩きと温泉を満喫する港町グルメ宿泊ガイド。
           </p>

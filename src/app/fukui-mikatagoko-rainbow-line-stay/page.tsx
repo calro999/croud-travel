@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/fukui-mikatagoko-rainbow-line-stay/" },
-  title: "【福井・三方五湖＆レインボーライン】天空テラス・五色水鏡＆三方口細うなぎ・若狭ふぐ宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "福井・三方五湖＆レインボーライン：天空テラス・五色水鏡＆三方口細うなぎ・若狭ふぐ宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "水質と水深が異なる5つの奇跡の湖・福井三方五湖エリア完全特化！三方五湖レインボーライン山頂公園「天空の足湯・美浜テラス」、年縞博物館、名物「三方五湖口細うなぎ（天然うなぎ）」、冬の「若狭ふぐ・越前ガニ宿」を徹底解説。",
   keywords: ["福井", "三方五湖", "レインボーライン", "天空テラス", "五色水鏡", "三方口細うなぎ", "若狭ふぐ宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             MIKATAGOKO & RAINBOW LINE GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【福井・三方五湖＆レインボーライン】天空テラス・五色水鏡＆三方口細うなぎ・若狭ふぐ宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「福井・三方五湖＆レインボーライン」天空テラス・五色水鏡＆三方口細うなぎ・若狭ふぐ宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             三方湖・水月湖・菅湖・久々子湖・日向湖が織りなす神秘の水鏡「国指定名勝・三方五湖」。レインボーライン山頂公園の天空テラスから見下ろす360度の大パノラマ。7万年の時を刻む水月湖の「年縞」。三方名物の口細うなぎと若狭ふぐを味わう若狭湾の旅。
           </p>

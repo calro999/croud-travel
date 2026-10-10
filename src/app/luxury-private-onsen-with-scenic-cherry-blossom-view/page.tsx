@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】湯船から満開の桜を独占！プライベートお花見客室露天風呂付き極上宿5選 | 日本全国・旅宿クラウド',
+  title: '2026年：湯船から満開の桜を独占！プライベートお花見客室露天風呂付き極上宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！春限定の贅沢なお花見風呂！客室専用の露天風呂から咲き誇る桜や夜桜ライトアップを眺めながら極上温泉に浸かる大人の隠れ家名宿5選。',
   keywords: ["2026年", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: '【2026年】湯船から満開の桜を独占！プライベートお花見客室露天風呂付き極上宿5選',
+    title: '2026年：湯船から満開の桜を独占！プライベートお花見客室露天風呂付き極上宿5選',
     description: '2026年最新！春限定の贅沢なお花見風呂！客室専用の露天風呂から咲き誇る桜や夜桜ライトアップを眺めながら極上温泉に浸かる大人の隠れ家名宿5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-cherry-blossom-view',
@@ -193,9 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> 客室専用お花見露天×夜桜ライトアップ
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】湯船から満開の桜を独占！プライベートお花見客室露天風呂付き極上宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」湯船から満開の桜を独占！プライベートお花見客室露天風呂付き極上宿5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             湯船のすぐそばに枝を伸ばす満開の桜並木。舞い散る花びらが湯面に浮かぶ風雅な客室露天風呂で、誰にも邪魔されずにお花見を愉しむ贅沢。ライトアップされた夜桜と春の旬彩会席に酔いしれる特別な春の休日。
           </p>

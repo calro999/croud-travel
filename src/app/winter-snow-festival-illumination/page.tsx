@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/winter-snow-festival-illumination/" },
-  title: "【白銀の祭典】冬の雪まつり＆巨大かまくら温泉旅館 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "白銀の祭典：冬の雪まつり＆巨大かまくら温泉旅館 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "幻想的な氷と雪のエンターテインメント！北海道さっぽろ雪まつり、秋田横手のかまくら、栃木奥日光湯西川温泉かまくら祭、青森十和田湖冬物語など、冬限定の雪まつりイベントと名湯宿を徹底解説。",
   keywords: ["白銀の祭典", "冬の雪まつり", "巨大かまくら温泉旅館", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -98,9 +98,7 @@ export default function SeasonalFeaturePage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             SNOW FESTIVAL & ICE WORLD
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【白銀の祭典】冬の雪まつり＆巨大かまくら温泉旅館 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「白銀の祭典」冬の雪まつり＆巨大かまくら温泉旅館 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             暗闇の中にぽうっと灯る数千個のミニかまくらのろうそく、大迫力の巨大雪像や氷の彫刻。厳しい寒さだからこそ生まれる幻想的な白銀のフェスティバルと、湯けむり立ち上る雪見温泉の旅へ。
           </p>

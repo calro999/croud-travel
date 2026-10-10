@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【ニセコ×ふるさと納税】世界最高峰パウダースノー＆ラグジュアリーステイ！羊蹄山ビュー名門ホテル特集｜パークハイアット・雪ニセコ・坐忘林',
+  title: 'ニセコをふるさと納税でお得に旅する！世界最高峰パウダースノー＆ラグジュアリーステイ！羊蹄山ビュー名門ホテル特集｜パークハイアット・雪ニセコ・坐忘林',
   description: '世界中のスキーヤーや富裕層を魅了する国際的スノーリゾート・北海道ニセコ（倶知安町・ニセコ町）を楽天ふるさと納税でお得に贅沢滞在！ゲレンデ直結の世界的ラグジュアリー「パークハイアット ニセコ HANAZONO。」、羊蹄山ビューと上質スパの「雪ニセコ」、白樺林に抱かれた源泉掛け流し離れ宿「坐忘林」を徹底比較。高額還元トラベルクーポン活用術を網羅。',
   keywords: 'ニセコ ふるさと納税,パークハイアットニセコ ふるさと納税,雪ニセコ クーポン,坐忘林 ふるさと納税,倶知安町 ふるさと納税 宿泊',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-niseko-luxury-resort-powder-snow-stay/",
   },
   openGraph: {
-    title: '【ニセコ×ふるさと納税】世界最高峰パウダースノー＆ラグジュアリーステイ！羊蹄山ビュー名門ホテル特集｜パークハイアット・雪ニセコ・坐忘林',
+    title: 'ニセコをふるさと納税でお得に旅する！世界最高峰パウダースノー＆ラグジュアリーステイ！羊蹄山ビュー名門ホテル特集｜パークハイアット・雪ニセコ・坐忘林',
     description: '世界中のスキーヤーや富裕層を魅了する国際的スノーリゾート・北海道ニセコ（倶知安町・ニセコ町）を楽天ふるさと納税でお得に贅沢滞在！ゲレンデ直結の世界的ラグジュアリー「パークハイアット ニセコ HANAZONO。」、羊蹄山ビューと上質スパの「雪ニセコ」、白樺林に抱かれた源泉掛け流し離れ宿「坐忘林」を徹底比較。高額還元トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-niseko-luxury-resort-powder-snow-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -24,7 +24,7 @@ export default function FurusatoArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【ニセコ×ふるさと納税】世界最高峰パウダースノー＆ラグジュアリーステイ！羊蹄山ビュー名門ホテル特集｜パークハイアット・雪ニセコ・坐忘林',
+    headline: 'ニセコをふるさと納税でお得に旅する！世界最高峰パウダースノー＆ラグジュアリーステイ！羊蹄山ビュー名門ホテル特集｜パークハイアット・雪ニセコ・坐忘林',
     description: '世界中のスキーヤーや富裕層を魅了する国際的スノーリゾート・北海道ニセコ（倶知安町・ニセコ町）を楽天ふるさと納税でお得に贅沢滞在！ゲレンデ直結の世界的ラグジュアリー「パークハイアット ニセコ HANAZONO。」、羊蹄山ビューと上質スパの「雪ニセコ」、白樺林に抱かれた源泉掛け流し離れ宿「坐忘林」を徹底比較。高額還元トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function FurusatoArticlePage() {
           <span>♨️</span>
           <span>北海道倶知安町・ニセコ町 ふるさと納税・名湯宿特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【ニセコ×ふるさと納税】世界最高峰パウダースノー＆ラグジュアリーステイ！羊蹄山ビュー名門ホテル特集｜パークハイアット・雪ニセコ・坐忘林
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">ニセコをふるさと納税でお得に旅する！世界最高峰パウダースノー＆ラグジュアリーステイ！羊蹄山ビュー名門ホテル特集｜パークハイアット・雪ニセコ・坐忘林</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed">
           世界中のスキーヤーや富裕層を魅了する国際的スノーリゾート・北海道ニセコ（倶知安町・ニセコ町）を楽天ふるさと納税でお得に贅沢滞在！ゲレンデ直結の世界的ラグジュアリー「パークハイアット ニセコ HANAZONO。」、羊蹄山ビューと上質スパの「雪ニセコ」、白樺林に抱かれた源泉掛け流し離れ宿「坐忘林」を徹底比較。高額還元トラベルクーポン活用術を網羅。
         </p>

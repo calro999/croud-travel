@@ -5,14 +5,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月愛媛】日本総鎮守「大山祇神社」樹齢！名宿5選',
+  title: '11・12・1月愛媛：日本総鎮守「大山祇神社」樹齢！名宿5選',
   description: '瀬戸内海に浮かぶ神の島と多島美パノラマ！11〜1月のしまなみ海道は空気が澄み。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '大山祇神社 初詣, 大山祇神社 樹齢2600年, しまなみ海道 冬, 来島海峡大橋, 今治鯛めし, 鈍川温泉, 今治国際ホテル, 大三島 初詣, 亀老山展望公園, 愛媛 冬 旅行',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-ehime-imabari-shimanami-oyamazumi-shrine-hatsumode-taimeshi-stay'
   },
   openGraph: {
-    title: '【11・12・1月愛媛】日本総鎮守「大山祇神社」樹齢！名宿5選',
+    title: '11・12・1月愛媛：日本総鎮守「大山祇神社」樹齢！名宿5選',
     description: '瀬戸内海に浮かぶ神の島と多島美パノラマ！11〜1月のしまなみ海道は空気が澄み。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-ehime-imabari-shimanami-oyamazumi-shrine-hatsumode-taimeshi-stay',
     siteName: 'クラドトラベル',
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月愛媛】日本総鎮守「大山祇神社」樹齢2600年神木新春初詣！冬晴れしまなみ海道パノラマ・甘み極まる瀬戸内真鯛今治鯛めし＆鈍川温泉厳選名宿5選",
+    title: "11・12・1月愛媛：日本総鎮守「大山祇神社」樹齢2600年神木新春初詣！冬晴れしまなみ海道パノラマ・甘み極まる瀬戸内真鯛今治鯛めし＆鈍川温泉厳選名宿5選",
     description: "瀬戸内海に浮かぶ神の島と多島美パノラマ！11〜1月のしまなみ海道は空気が澄み、来島海峡大橋の雄大な造形美と冬晴れのブルーの海が息を呑む絶景を描き出します。日本総鎮守の尊称を持つ大三島「大山祇神社」では、天然記念物・樹齢2600年の御神木楠が放つ神秘の気息に包まれる厳かな新春初詣。身が締まり脂が乗った冬の瀬戸内真鯛を土鍋でふっくら炊き上げる「今治鯛めし」や来島海峡の海鮮会席、伊予の三湯「鈍川温泉」美肌湯と今治の洗練名宿5選を徹底特集。",
     images: ['https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=80']
   }
@@ -288,11 +288,7 @@ export default function EhimeImabariWinterFeaturePage() {
               <Sparkles className="w-4 h-4 text-teal-400" />
               11月・12月・1月冬の瀬戸内しまなみ探訪スペシャル
             </div>
-            <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight mb-6">
-              【愛媛・今治＆しまなみ海道】<br className="hidden sm:inline" />
-              日本総鎮守「大山祇神社」樹齢2600年神木新春初詣！<br />
-              冬晴れしまなみ海道パノラマ・甘み極まる今治鯛めし＆鈍川温泉名宿
-            </h1>
+            <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight mb-6">「愛媛・今治＆しまなみ海道」<br className="hidden sm:inline" /> 日本総鎮守「大山祇神社」樹齢2600年神木新春初詣！<br /> 冬晴れしまなみ海道パノラマ・甘み極まる今治鯛めし＆鈍川温泉名宿</h1>
             <p className="text-sm sm:text-base md:text-lg text-slate-300 leading-relaxed max-w-3xl mx-auto mb-8 font-normal">
               澄み渡る冬の青空と群青の海が織りなす瀬戸内しまなみ海道の多島美。大三島に鎮座する「日本総鎮守」大山祇神社で迎える厳かな新春初詣と、悠久の生命力を放つ樹齢2600年の御神木楠。急流・来島海峡で身を引き締めた冬の真鯛をふっくら炊き上げる極上の今治鯛めしと名物鉄板焼き鳥。伊予の三湯に数えられるpH9.9の美肌湯「鈍川温泉」と今治の洗練名宿を巡る冬の極上旅へご案内します。
             </p>

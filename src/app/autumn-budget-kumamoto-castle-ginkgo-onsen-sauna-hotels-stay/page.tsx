@@ -3,11 +3,11 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【秋の熊本×格安】熊本城の巨大銀杏と阿蘇すすき草原！天然温泉＆サウナ付き1泊4,000円〜7,000円台のコスパ最強ホテル5選【2026最新】',
+  title: '秋の熊本×格安：熊本城の巨大銀杏と阿蘇すすき草原！天然温泉＆サウナ付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」',
   description: '別名「銀杏城」と呼ばれる熊本城の黄金に輝く大イチョウと阿蘇大観峰のすすき草原！熊本ラーメンやあか牛グルメを満喫。サウナの聖地「湯らっくす」や天然温泉付きで1泊4,000円〜7,000円台で泊まれる熊本のコスパ最強ホテル5選をご紹介。レフ熊本、スーパーホテル熊本駅前などを徹底比較！',
   keywords: '熊本 格安 ホテル, 熊本 天然温泉 サウナ ホテル, 熊本城 銀杏 紅葉, 阿蘇 すすき 宿, 湯らっくす 熊本, レフ熊本 ベッセルホテルズ',
   openGraph: {
-    title: '【秋の熊本×格安】熊本城の巨大銀杏と阿蘇すすき草原！天然温泉＆サウナ付き1泊4,000円〜7,000円台のコスパ最強ホテル5選【2026最新】',
+    title: '秋の熊本×格安：熊本城の巨大銀杏と阿蘇すすき草原！天然温泉＆サウナ付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」',
     description: '熊本城の巨大銀杏と阿蘇すすき草原！天然温泉＆サウナ付き1泊4,000円〜7,000円台のコスパ最強熊本ホテル5選。',
     type: 'article',
     url: 'https://croud-travel.com/autumn-budget-kumamoto-castle-ginkgo-onsen-sauna-hotels-stay',
@@ -32,9 +32,7 @@ export default function KumamotoBudgetAutumnPage() {
             <span className="px-3 py-1 bg-teal-600 text-white text-xs font-bold rounded-full">格安・九州特集</span>
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">1泊目安: 4,000円台〜7,000円台</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">
-            【秋の熊本×格安】熊本城の巨大銀杏と阿蘇すすき草原！天然温泉＆サウナ付き1泊4,000円〜7,000円台のコスパ最強ホテル5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の熊本×格安」熊本城の巨大銀杏と阿蘇すすき草原！天然温泉＆サウナ付き1泊4,000円〜7,000円台のコスパ最強ホテル5選</h1>
           <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
             天守閣前で黄金に輝く大イチョウが圧巻の「銀杏城」熊本城。サウナの聖地と呼ばれる「湯らっくす」をはじめ、天然地下水や温泉大浴場を備えた熊本のコスパ最強ホテルをご案内します。
           </p>

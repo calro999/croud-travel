@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】極上黒豚しゃぶしゃぶ＆百種プレミアム焼酎BAR！指宿・霧島温泉の名旅館5選 | 日本全国・旅宿クラウド',
+  title: '2026年：極上黒豚しゃぶしゃぶ＆百種プレミアム焼酎BAR！指宿・霧島温泉の名旅館5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！甘み際立つかごしま黒豚しゃぶしゃぶ会席！森伊蔵や魔王など銘酒芋焼酎のBARラウンジと指宿砂むし・霧島硫黄泉で寛ぐ鹿児島の名宿5選。',
   keywords: ["2026年", "極上黒豚しゃぶしゃぶ", "百種プレミアム焼酎BAR！指宿", "霧島温泉の名旅館5選", "日本全国", "旅宿クラウド", "温泉宿"],
   openGraph: {
-    title: '【2026年】極上黒豚しゃぶしゃぶ＆百種プレミアム焼酎BAR！指宿・霧島温泉の名旅館5選',
+    title: '2026年：極上黒豚しゃぶしゃぶ＆百種プレミアム焼酎BAR！指宿・霧島温泉の名旅館5選',
     description: '2026年最新！甘み際立つかごしま黒豚しゃぶしゃぶ会席！森伊蔵や魔王など銘酒芋焼酎のBARラウンジと指宿砂むし・霧島硫黄泉で寛ぐ鹿児島の名宿5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/traditional-kagoshima-shochu-kurobuta-stay',
@@ -193,9 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> かごしま黒豚しゃぶ×プレミアム芋焼酎BAR
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】極上黒豚しゃぶしゃぶ＆百種プレミアム焼酎BAR！指宿・霧島温泉の名旅館5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」極上黒豚しゃぶしゃぶ＆百種プレミアム焼酎BAR！指宿・霧島温泉の名旅館5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             きめ細かく柔らかで旨味あふれる「かごしま黒豚」の極上しゃぶしゃぶ。森伊蔵・村尾・魔王など幻のプレミアム芋焼酎が並ぶBARラウンジでグラスを傾け、霧島の濃厚なにごり湯や指宿の砂むし温泉で心ほどける鹿児島の夜。
           </p>

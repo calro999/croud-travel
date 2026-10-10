@@ -5,11 +5,11 @@ import Image from 'next/image';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/toyama-takaoka-himi-amaharashi-stay/" },
-  title: '【富山・高岡＆氷見・雨晴海岸】瑞龍寺・雨晴海岸立山連峰＆氷見寒ブリ温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+  title: '富山・高岡＆氷見・雨晴海岸：瑞龍寺・雨晴海岸立山連峰＆氷見寒ブリ温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
   description: '加賀前田家二代当主前田利長の菩提寺・富山県唯一の建造物国宝「瑞龍寺」、高岡大仏、千本格子の金屋町、海を挟んで3,000m級の立山連峰を望む奇跡の絶景「雨晴海岸」、冬の味覚の王者「氷見寒ブリ」と天然温泉が湧く氷見海岸宿を徹底解説。',
   keywords: ["富山", "高岡", "氷見", "雨晴海岸", "瑞龍寺", "雨晴海岸立山連峰", "氷見寒ブリ温泉宿"],
   openGraph: {
-    title: '【富山・高岡＆氷見・雨晴海岸】瑞龍寺・雨晴海岸立山連峰＆氷見寒ブリ温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+    title: '富山・高岡＆氷見・雨晴海岸：瑞龍寺・雨晴海岸立山連峰＆氷見寒ブリ温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
     description: '加賀前田家二代当主前田利長の菩提寺・富山県唯一の建造物国宝「瑞龍寺」、高岡大仏、千本格子の金屋町、海を挟んで3,000m級の立山連峰を望む奇跡の絶景「雨晴海岸」、冬の味覚の王者「氷見寒ブリ」と天然温泉が湧く氷見海岸宿を徹底解説。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/toyama-takaoka-himi-amaharashi-stay',
@@ -50,9 +50,7 @@ export default function Page() {
             <span>🗺️</span>
             <span>TAKAOKA & HIMI AMAHARASHI GUIDE</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">
-            【富山・高岡＆氷見・雨晴海岸】国宝瑞龍寺・雨晴富山湾立山連峰＆氷見寒ブリ宿 完全ガイド
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">「富山・高岡＆氷見・雨晴海岸」国宝瑞龍寺・雨晴富山湾立山連峰＆氷見寒ブリ宿 厳選ガイド</h1>
           <p className="max-w-3xl mx-auto text-stone-300 text-sm sm:text-base md:text-lg leading-relaxed mb-8">
             加賀百万石の美意識と工芸の魂が息づくものづくりの城下町「高岡」。壮麗な禅宗様建築が整然と並ぶ富山県唯一の国宝「高岡 瑞龍寺」と日本三大仏の「高岡大仏」。万葉の歌人・大伴家持が愛し、義経伝説が残る「雨晴海岸」からは、青い富山湾の海原越しに雪をいただく標高3000mの立山連峰がそびえ立つ世界でも極めて稀な大絶景。そして冬の富山湾の至宝「氷見寒ブリ」。歴史建築と大パノラマ、極上寒ブリに酔いしれる富山ステイへご案内します。
           </p>

@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '神話の里・高千穂峡の真名井の滝紅葉ボート＆高千穂神社夜神楽！極上高千穂牛宿×ふるさと納税完全ガイド【2026年最新秋旅】宮崎',
+  title: '神話の里・高千穂峡の真名井の滝紅葉ボート＆高千穂神社夜神楽！極上高千穂牛宿×ふるさと納税厳選ガイド宮崎',
   description: '11月上旬〜下旬に柱状節理の峡谷とエメラルドの水面が深紅に彩られる日本屈指のパワースポット「宮崎・高千穂峡」。真名井の滝を見上げる手漕ぎ貸ボートや高千穂神社の重要無形民俗文化財「夜神楽」鑑賞、山懐に抱かれた名宿「旅館 神仙」「旅館 大和屋」「今国旅館」で日本一の栄冠に輝いた最高峰・高千穂牛ステーキを堪能。ふるさと納税で実質2,000円。',
   keywords: ["神話の里", "高千穂峡の真名井の滝紅葉ボート", "2026年最新秋旅", "宮崎", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-takachiho-manainotaki-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '神話の里・高千穂峡の真名井の滝紅葉ボート＆高千穂神社夜神楽！極上高千穂牛宿×ふるさと納税完全ガイド【2026年最新秋旅】宮崎',
+    title: '神話の里・高千穂峡の真名井の滝紅葉ボート＆高千穂神社夜神楽！極上高千穂牛宿×ふるさと納税厳選ガイド宮崎',
     description: '11月上旬〜下旬に柱状節理の峡谷とエメラルドの水面が深紅に彩られる日本屈指のパワースポット「宮崎・高千穂峡」。真名井の滝を見上げる手漕ぎ貸ボートや高千穂神社の重要無形民俗文化財「夜神楽」鑑賞、山懐に抱かれた名宿「旅館 神仙」「旅館 大和屋」「今国旅館」で日本一の栄冠に輝いた最高峰・高千穂牛ステーキを堪能。ふるさと納税で実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-takachiho-manainotaki-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -113,9 +113,7 @@ export default function FeatureArticlePage() {
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">
-            神話の里・高千穂峡の真名井の滝紅葉ボート＆高千穂神社夜神楽！極上高千穂牛宿×ふるさと納税完全ガイド【2026年最新秋旅】宮崎
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">神話の里・高千穂峡の真名井の滝紅葉ボート＆高千穂神社夜神楽！極上高千穂牛宿×ふるさと納税厳選ガイド宮崎</h1>
           <p className="text-sm md:text-lg text-stone-200 max-w-3xl mx-auto leading-relaxed">
             柱状節理の断崖に降り注ぐ真名井の滝の紅葉と、神話の里で味わう日本一の高千穂牛。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
           </p>

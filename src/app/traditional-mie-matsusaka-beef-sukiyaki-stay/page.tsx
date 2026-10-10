@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【A5松阪牛すき焼き＆網焼き】本場三重の最高峰肉会席！湯の山温泉・榊原温泉の名湯宿5選",
+  title: "A5松阪牛すき焼き＆網焼き：本場三重の最高峰肉会席！湯の山温泉・榊原温泉の名湯宿5選",
   description: "「肉の芸術品」と称される最高峰A5ランク松阪牛を本場のすき焼き・網焼き・炙り寿司で堪能！鈴鹿山脈の麓に佇む湯の山温泉や、清少納言ゆかりの名湯・榊原温泉で、至高の肉美食ステイを。",
   keywords: "湯の山温泉 松阪牛 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/traditional-mie-matsusaka-beef-sukiyaki-stay/",
   },
   openGraph: {
-    title: "【A5松阪牛すき焼き＆網焼き】本場三重の最高峰肉会席！湯の山温泉・榊原温泉の名湯宿5選",
+    title: "A5松阪牛すき焼き＆網焼き：本場三重の最高峰肉会席！湯の山温泉・榊原温泉の名湯宿5選",
     description: "「肉の芸術品」と称される最高峰A5ランク松阪牛を本場のすき焼き・網焼き・炙り寿司で堪能！鈴鹿山脈の麓に佇む湯の山温泉や、清少納言ゆかりの名湯・榊原温泉で、至高の肉美食ステイを。",
     url: 'https://croud-travel.pages.dev/traditional-mie-matsusaka-beef-sukiyaki-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【A5松阪牛すき焼き＆網焼き】本場三重の最高峰肉会席！湯の山温泉・榊原温泉の名湯宿5選",
+    title: "A5松阪牛すき焼き＆網焼き：本場三重の最高峰肉会席！湯の山温泉・榊原温泉の名湯宿5選",
     description: "「肉の芸術品」と称される最高峰A5ランク松阪牛を本場のすき焼き・網焼き・炙り寿司で堪能！鈴鹿山脈の麓に佇む湯の山温泉や、清少納言ゆかりの名湯・榊原温泉で、至高の肉美食ステイを。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>松阪牛すき焼き＆三重名湯</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【A5松阪牛すき焼き＆網焼き】本場三重の最高峰肉会席！湯の山温泉・榊原温泉の名湯宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「A5松阪牛すき焼き＆網焼き」本場三重の最高峰肉会席！湯の山温泉・榊原温泉の名湯宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             「肉の芸術品」と称される最高峰A5ランク松阪牛を本場のすき焼き・網焼き・炙り寿司で堪能！鈴鹿山脈の麓に佇む湯の山温泉や、清少納言ゆかりの名湯・榊原温泉で、至高の肉美食ステイを。
           </p>

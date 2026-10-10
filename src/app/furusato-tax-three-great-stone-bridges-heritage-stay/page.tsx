@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-stone-bridges-heritage-stay/" },
-  title: '日本三大眼鏡橋＆石造アーチの造形美・川風感じる水辺宿×ふるさと納税完全ガイド【2026年最新】長崎眼鏡橋・諫早眼鏡橋・熊本霊台橋',
+  title: '日本三大眼鏡橋＆石造アーチの造形美・川風感じる水辺宿×ふるさと納税厳選ガイド長崎眼鏡橋・諫早眼鏡橋・熊本霊台橋',
   description: '石工たちの知恵と技術が生んだアーチの奇跡！長崎「長崎眼鏡橋」中島川の水面に丸い眼鏡を描く日本最古の石橋とホテルモントレ長崎、長崎「諫早眼鏡橋」本明川の洪水に耐えた雄大な二連石橋と喜々津ステーションホテル、熊本美里「霊台橋」単一アーチ橋として日本最大級の緑川の名橋と美里・熊本ステイ。川辺の散策と名物グルメ、温泉を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大石橋・土木遺産特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大眼鏡橋＆石造アーチの造形美・川風感じる水辺宿×ふるさと納税完全ガイド【2026年最新】長崎眼鏡橋・諫早眼鏡橋・熊本霊台橋',
+    title: '日本三大眼鏡橋＆石造アーチの造形美・川風感じる水辺宿×ふるさと納税厳選ガイド長崎眼鏡橋・諫早眼鏡橋・熊本霊台橋',
     description: '石工たちの知恵と技術が生んだアーチの奇跡！長崎「長崎眼鏡橋」中島川の水面に丸い眼鏡を描く日本最古の石橋とホテルモントレ長崎、長崎「諫早眼鏡橋」本明川の洪水に耐えた雄大な二連石橋と喜々津ステーションホテル、熊本美里「霊台橋」単一アーチ橋として日本最大級の緑川の名橋と美里・熊本ステイ。川辺の散策と名物グルメ、温泉を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-stone-bridges-heritage-stay',
@@ -154,9 +154,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大石橋・土木遺産特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大眼鏡橋＆石造アーチの美・水辺の名宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大眼鏡橋＆石造アーチの美・水辺の名宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             西洋や中国の架橋技術を取り入れ、自然の猛威に耐えるべく匠の技で組み上げられた「日本三大眼鏡橋・石橋」――寛永11年に架設され水面に映る影が美しい二つの円を描く日本最古のアーチ式石橋・長崎の「中島川・長崎眼鏡橋」、諫早公園の池に優雅な姿をとどめ国の重要文化財に指定された雄大な石造二連アーチ・長崎の「諫早眼鏡橋」、そして熊本の緑川水系に架かり江戸時代の単一アーチ石橋として日本一の径間を誇る熊本の「美里・霊台橋」。石畳の川沿いを散策し、ハートストーンを探し、土地の銘菓や新鮮魚介を堪能する特別な旅を楽天ふるさと納税でお楽しみください。
           </p>

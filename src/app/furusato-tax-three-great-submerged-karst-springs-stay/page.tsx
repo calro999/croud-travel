@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '日本三大湧水群＆エメラルドの清冽な湧泉池と避暑リゾート名宿×ふるさと納税完全ガイド【2026年最新】忍野八海・柿田川・安曇野',
+  title: '日本三大湧水群＆エメラルドの清冽な湧泉池と避暑リゾート名宿×ふるさと納税厳選ガイド忍野八海・柿田川・安曇野',
   description: '数十年から数百年の歳月をかけて地下深くで磨かれた奇跡の透明度「日本三大湧水群」（山梨・富士山麓忍野八海、静岡・日本最短清流柿田川湧水群、長野・北アルプス安曇野わさび田湧水群）。エメラルドグリーンに輝く湧水池、涼感あふれる水辺の散策、名水で仕込む蕎麦・川魚美食。楽天ふるさと納税トラベルクーポンで泊まるおすすめリゾート名宿ガイド。',
   keywords: ["日本三大湧水群", "2026年最新", "忍野八海", "柿田川", "安曇野", "温泉宿", "宿泊予約"],
   alternates: { canonical: baseUrl + '/furusato-tax-three-great-submerged-karst-springs-stay/' },
   openGraph: {
-    title: '日本三大湧水群＆エメラルドの清冽な湧泉池と避暑リゾート名宿×ふるさと納税完全ガイド【2026年最新】忍野八海・柿田川・安曇野',
+    title: '日本三大湧水群＆エメラルドの清冽な湧泉池と避暑リゾート名宿×ふるさと納税厳選ガイド忍野八海・柿田川・安曇野',
     description: '数十年から数百年の歳月をかけて地下深くで磨かれた奇跡の透明度「日本三大湧水群」（山梨・富士山麓忍野八海、静岡・日本最短清流柿田川湧水群、長野・北アルプス安曇野わさび田湧水群）。エメラルドグリーンに輝く湧水池、涼感あふれる水辺の散策、名水で仕込む蕎麦・川魚美食。楽天ふるさと納税トラベルクーポンで泊まるおすすめリゾート名宿ガイド。',
     url: baseUrl + '/furusato-tax-three-great-submerged-karst-springs-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoRound63ArticlePage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             日本三大湧水群・名水清涼リトリート特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            日本三大湧水群＆エメラルドの清冽な湧泉池と避暑リゾート名宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">日本三大湧水群＆エメラルドの清冽な湧泉池と避暑リゾート名宿</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             天から降り注いだ雨や雪が、富士山や北アルプスの何層もの地層を気の遠くなるような時間をかけて浸透し、不純物を極限まで削ぎ落として地表へとこんこんと湧き出す奇跡の清流。「日本三大湧水群」は、地球が作り出した天然のウォーターオアシスです。世界遺産富士山の雪解け水が数十年の歳月を経て湧き出し、神秘的な青の水底を覗かせる山梨・忍野八海。東洋一を誇る日量100万トン以上の湧水が青い「わき間」を作り出し、国指定天然記念物となった静岡・柿田川湧水群。そして北アルプスの雪解け水が広大な扇状地を潤し、爽やかな緑のわさび田を育む信州・安曇野わさび田湧水群。真夏でもひんやりと冷涼な水気を帯びた風が吹き抜け、澄み切った水面を眺めるだけで日頃のストレスが洗われていきます。名水仕込みの打ち立て蕎麦や岩魚料理を味わい、優雅なリゾートホテルで過ごす極上の休日へ、楽天ふるさと納税クーポンを使って出かけましょう。
           </p>

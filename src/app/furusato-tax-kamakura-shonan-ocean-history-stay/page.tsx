@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【鎌倉・湘南×ふるさと納税】七里ヶ浜オーシャンビュー＆古都の歴史情緒！鶴岡八幡宮・江ノ電の名宿特集｜鎌倉プリンス・HOTEL AO・メトロポリタン',
+  title: '鎌倉・湘南をふるさと納税でお得に旅する！七里ヶ浜オーシャンビュー＆古都の歴史情緒！鶴岡八幡宮・江ノ電の名宿特集｜鎌倉プリンス・HOTEL AO・メトロポリタン',
   description: '海と山に囲まれた日本屈指の古都・神奈川県鎌倉市を楽天ふるさと納税でお得に贅沢ステイ！全室オーシャンビュー＆江の島と富士山を一望する「鎌倉プリンスホテル」、腰越の海を望むデザイナーズ宿「HOTEL AO KAMAKURA」、若宮大路沿いで鶴岡八幡宮参拝に最適な「ホテルメトロポリタン 鎌倉」を徹底比較。鎌倉市トラベルクーポン活用術を網羅。',
   keywords: '鎌倉 ふるさと納税,鎌倉プリンスホテル クーポン,HOTEL AO KAMAKURA ふるさと納税,ホテルメトロポリタン鎌倉 宿泊,鎌倉市 ふるさと納税 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kamakura-shonan-ocean-history-stay/",
   },
   openGraph: {
-    title: '【鎌倉・湘南×ふるさと納税】七里ヶ浜オーシャンビュー＆古都の歴史情緒！鶴岡八幡宮・江ノ電の名宿特集｜鎌倉プリンス・HOTEL AO・メトロポリタン',
+    title: '鎌倉・湘南をふるさと納税でお得に旅する！七里ヶ浜オーシャンビュー＆古都の歴史情緒！鶴岡八幡宮・江ノ電の名宿特集｜鎌倉プリンス・HOTEL AO・メトロポリタン',
     description: '海と山に囲まれた日本屈指の古都・神奈川県鎌倉市を楽天ふるさと納税でお得に贅沢ステイ！全室オーシャンビュー＆江の島と富士山を一望する「鎌倉プリンスホテル」、腰越の海を望むデザイナーズ宿「HOTEL AO KAMAKURA」、若宮大路沿いで鶴岡八幡宮参拝に最適な「ホテルメトロポリタン 鎌倉」を徹底比較。鎌倉市トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kamakura-shonan-ocean-history-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -24,7 +24,7 @@ export default function FurusatoArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【鎌倉・湘南×ふるさと納税】七里ヶ浜オーシャンビュー＆古都の歴史情緒！鶴岡八幡宮・江ノ電の名宿特集｜鎌倉プリンス・HOTEL AO・メトロポリタン',
+    headline: '鎌倉・湘南をふるさと納税でお得に旅する！七里ヶ浜オーシャンビュー＆古都の歴史情緒！鶴岡八幡宮・江ノ電の名宿特集｜鎌倉プリンス・HOTEL AO・メトロポリタン',
     description: '海と山に囲まれた日本屈指の古都・神奈川県鎌倉市を楽天ふるさと納税でお得に贅沢ステイ！全室オーシャンビュー＆江の島と富士山を一望する「鎌倉プリンスホテル」、腰越の海を望むデザイナーズ宿「HOTEL AO KAMAKURA」、若宮大路沿いで鶴岡八幡宮参拝に最適な「ホテルメトロポリタン 鎌倉」を徹底比較。鎌倉市トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function FurusatoArticlePage() {
           <span>♨️</span>
           <span>神奈川県鎌倉市 ふるさと納税・名湯宿特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【鎌倉・湘南×ふるさと納税】七里ヶ浜オーシャンビュー＆古都の歴史情緒！鶴岡八幡宮・江ノ電の名宿特集｜鎌倉プリンス・HOTEL AO・メトロポリタン
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">鎌倉・湘南をふるさと納税でお得に旅する！七里ヶ浜オーシャンビュー＆古都の歴史情緒！鶴岡八幡宮・江ノ電の名宿特集｜鎌倉プリンス・HOTEL AO・メトロポリタン</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed">
           海と山に囲まれた日本屈指の古都・神奈川県鎌倉市を楽天ふるさと納税でお得に贅沢ステイ！全室オーシャンビュー＆江の島と富士山を一望する「鎌倉プリンスホテル」、腰越の海を望むデザイナーズ宿「HOTEL AO KAMAKURA」、若宮大路沿いで鶴岡八幡宮参拝に最適な「ホテルメトロポリタン 鎌倉」を徹底比較。鎌倉市トラベルクーポン活用術を網羅。
         </p>

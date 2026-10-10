@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            岡山・倉敷美観地区の白壁紅葉＆鷲羽山！瀬戸内海多島美温泉と極上千屋牛・鰆会席
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">岡山・倉敷美観地区の白壁紅葉＆鷲羽山！瀬戸内海多島美温泉と極上千屋牛・鰆会席</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の岡山・倉敷＆鷲羽山特集！倉敷川沿いの柳並木と白壁の蔵屋敷を彩る秋の紅葉、鷲羽山展望台から望む夕陽に染まる瀬戸大橋と多島美、倉敷由加温泉の天然ラジウム泉、日本最古の蔓牛「千屋牛」や戻り鰆をふるさと納税トラベルで楽しむ歴史旅。
           </p>

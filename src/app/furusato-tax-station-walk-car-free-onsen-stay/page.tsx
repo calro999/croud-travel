@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '新幹線駅から徒歩すぐ！車なし・運転不要で行ける極上駅近温泉宿×ふるさと納税完全ガイド【2026年最新】熱海・越後湯沢・嬉野',
+  title: '新幹線駅から徒歩すぐ！車なし・運転不要で行ける極上駅近温泉宿×ふるさと納税厳選ガイド熱海・越後湯沢・嬉野',
   description: '免許がなくても雪道運転が不安でも大丈夫！東京や博多から新幹線・特急に乗るだけで直行できる、駅から徒歩圏内の名門温泉旅館を厳選。新幹線熱海駅から徒歩圏内の老舗湯宿「熱海温泉 旅館 立花」、上越新幹線越後湯沢駅徒歩数分の純和風宿「音羽屋旅館」、西九州新幹線嬉野温泉駅・バスセンター至近の美肌宿「割烹旅館 鯉登苑」。お酒を楽しみながら手ぶらでスマートに行ける温泉旅を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
   keywords: ["新幹線駅から徒歩すぐ！車なし", "2026年最新", "熱海", "越後湯沢", "嬉野", "温泉宿", "宿泊予約"],
   alternates: { canonical: baseUrl + '/furusato-tax-station-walk-car-free-onsen-stay/' },
   openGraph: {
-    title: '新幹線駅から徒歩すぐ！車なし・運転不要で行ける極上駅近温泉宿×ふるさと納税完全ガイド【2026年最新】熱海・越後湯沢・嬉野',
+    title: '新幹線駅から徒歩すぐ！車なし・運転不要で行ける極上駅近温泉宿×ふるさと納税厳選ガイド熱海・越後湯沢・嬉野',
     description: '免許がなくても雪道運転が不安でも大丈夫！東京や博多から新幹線・特急に乗るだけで直行できる、駅から徒歩圏内の名門温泉旅館を厳選。新幹線熱海駅から徒歩圏内の老舗湯宿「熱海温泉 旅館 立花」、上越新幹線越後湯沢駅徒歩数分の純和風宿「音羽屋旅館」、西九州新幹線嬉野温泉駅・バスセンター至近の美肌宿「割烹旅館 鯉登苑」。お酒を楽しみながら手ぶらでスマートに行ける温泉旅を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
     url: baseUrl + '/furusato-tax-station-walk-car-free-onsen-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoStationWalkCarFreeStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             駅徒歩すぐ・車なし手ぶら温泉旅特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            新幹線駅から徒歩すぐ！車なし・運転不要で行ける極上駅近温泉宿×ふるさと納税完全ガイド【2026年最新】熱海・越後湯沢・嬉野
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">新幹線駅から徒歩すぐ！車なし・運転不要で行ける極上駅近温泉宿×ふるさと納税厳選ガイド熱海・越後湯沢・嬉野</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             「温泉旅行に行きたいけれど、車の運転が苦手。」「冬の雪道や山道の運転が不安」「旅行中は夫婦や友達全員でお酒を気兼ねなく楽しみたい。」――そんな方に今大人気なのが、新幹線駅や特急停車駅から徒歩圏内にある「車なしで行ける駅近温泉宿」です。東京駅から新幹線に乗れば、わずか数十〜1時間台で渋滞知らずに目的地へ到着。重い荷物を宿に預けてすぐに温泉街の散策や食べ歩きを楽しめ、チェックアウト後もギリギリまで観光を満喫できます。東海道新幹線熱海駅から温泉街を抜けてすぐの老舗「旅館 立花」、上越新幹線越後湯沢駅から徒歩数分の静かな純和風宿「音羽屋旅館」、そして西九州新幹線でアクセスが劇的に向上した佐賀・嬉野温泉の「割烹旅館 鯉登苑」。車を所持していない若者やシニア世代、電車旅好きにとっても最高のロケーションを誇る名宿ばかりです。楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引）を使えば、実質自己負担2,000円で驚くほどお得に予約可能。快適で気楽な「のんびり列車＆名湯ステイ」へ出かけましょう。
           </p>

@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【由布院温泉×ふるさと納税】全室離れ・客室露天風呂の極上リゾート！静寂の大人ステイ完全ガイド｜梅園・なな川・由布院別邸樹',
+  title: '由布院温泉をふるさと納税でお得に旅する！全室離れ・客室露天風呂の極上リゾート！静寂の大人ステイ厳選ガイド｜梅園・なな川・由布院別邸樹',
   description: '憧れの温泉リゾート・大分県由布院温泉を楽天ふるさと納税でお得に旅する！一万坪の庭園と由布岳絶景を誇る「梅園 GARDEN RESORT」、金鱗湖徒歩1分・全室露天付き離れ宿「由布院 寛ぎの宿 なな川」、多彩な和モダンデザイン離れが魅力の「由布院別邸 樹」を徹底比較。由布市トラベルクーポン活用術を網羅。',
   keywords: '由布院 離れ ふるさと納税,由布院温泉 ふるさと納税 宿泊,由布院 梅園 クーポン,なな川 由布院 ふるさと納税,由布院別邸 樹 宿泊',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-yufuin-onsen-hanare-private-stay/",
   },
   openGraph: {
-    title: '【由布院温泉×ふるさと納税】全室離れ・客室露天風呂の極上リゾート！静寂の大人ステイ完全ガイド｜梅園・なな川・由布院別邸樹',
+    title: '由布院温泉をふるさと納税でお得に旅する！全室離れ・客室露天風呂の極上リゾート！静寂の大人ステイ厳選ガイド｜梅園・なな川・由布院別邸樹',
     description: '憧れの温泉リゾート・大分県由布院温泉を楽天ふるさと納税でお得に旅する！一万坪の庭園と由布岳絶景を誇る「梅園 GARDEN RESORT」、金鱗湖徒歩1分・全室露天付き離れ宿「由布院 寛ぎの宿 なな川」、多彩な和モダンデザイン離れが魅力の「由布院別邸 樹」を徹底比較。由布市トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-yufuin-onsen-hanare-private-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -24,7 +24,7 @@ export default function FurusatoArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【由布院温泉×ふるさと納税】全室離れ・客室露天風呂の極上リゾート！静寂の大人ステイ完全ガイド｜梅園・なな川・由布院別邸樹',
+    headline: '由布院温泉をふるさと納税でお得に旅する！全室離れ・客室露天風呂の極上リゾート！静寂の大人ステイ厳選ガイド｜梅園・なな川・由布院別邸樹',
     description: '憧れの温泉リゾート・大分県由布院温泉を楽天ふるさと納税でお得に旅する！一万坪の庭園と由布岳絶景を誇る「梅園 GARDEN RESORT」、金鱗湖徒歩1分・全室露天付き離れ宿「由布院 寛ぎの宿 なな川」、多彩な和モダンデザイン離れが魅力の「由布院別邸 樹」を徹底比較。由布市トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function FurusatoArticlePage() {
           <span>♨️</span>
           <span>大分県由布市 ふるさと納税・名湯宿特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【由布院温泉×ふるさと納税】全室離れ・客室露天風呂の極上リゾート！静寂の大人ステイ完全ガイド｜梅園・なな川・由布院別邸樹
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">由布院温泉をふるさと納税でお得に旅する！全室離れ・客室露天風呂の極上リゾート！静寂の大人ステイ厳選ガイド｜梅園・なな川・由布院別邸樹</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed">
           憧れの温泉リゾート・大分県由布院温泉を楽天ふるさと納税でお得に旅する！一万坪の庭園と由布岳絶景を誇る「梅園 GARDEN RESORT」、金鱗湖徒歩1分・全室露天付き離れ宿「由布院 寛ぎの宿 なな川」、多彩な和モダンデザイン離れが魅力の「由布院別邸 樹」を徹底比較。由布市トラベルクーポン活用術を網羅。
         </p>

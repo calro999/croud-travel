@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hiroshima-onomichi-shimanami-mukoujima-stay/" },
-  title: "【広島・尾道＆しまなみ海道向島】千光寺坂の街・猫の細道＆尾道ラーメン・サイクリング宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "広島・尾道＆しまなみ海道向島：千光寺坂の街・猫の細道＆尾道ラーメン・サイクリング宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "瀬戸内のノスタルジーとサイクリストの聖地・広島尾道＆しまなみ海道向島エリア完全特化！千光寺公園ロープウェイ、猫の細道、尾道水道の夕陽、しまなみ海道サイクリング、名物「尾道ラーメン・瀬戸内レモン・鯛めし宿」を徹底解説。",
   keywords: ["広島", "尾道", "しまなみ海道向島", "千光寺坂の街", "猫の細道", "尾道ラーメン", "サイクリング宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             ONOMICHI & SHIMANAMI GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【広島・尾道＆しまなみ海道向島】千光寺坂の街・猫の細道＆尾道ラーメン・サイクリング宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「広島・尾道＆しまなみ海道向島」千光寺坂の街・猫の細道＆尾道ラーメン・サイクリング宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             尾道水道を行き交う渡船と、坂道に広がるノスタルジックな石段の街「尾道」。千光寺から見下ろす瀬戸内海の多島美。海の上を走るサイクリストの聖地「しまなみ海道」。レトロな古民家カフェと背脂醤油の尾道ラーメンを味わう旅。
           </p>

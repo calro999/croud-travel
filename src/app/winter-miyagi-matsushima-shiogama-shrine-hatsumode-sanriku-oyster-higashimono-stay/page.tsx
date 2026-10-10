@@ -6,14 +6,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月宮城】陸奥総鎮守「鹽竈神社」新春初！名宿5選',
+  title: '11・12・1月宮城：陸奥総鎮守「鹽竈神社」新春初！名宿5選',
   description: '芭蕉も心奪われた日本三景・松島と、千二百年の歴史を刻む陸奥国一ノ宮・塩竈を巡る11〜1月の冬紀行。伊達政宗ゆかりの国宝「瑞巌寺」や五大堂が白。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '鹽竈神社 初詣, 松島 雪景色, 松島かき 冬, 塩竈ひがしもの 鮪, 瑞巌寺 雪, 松島一の坊, 松島大観荘, 松島温泉 絶景宿, 宮城 冬旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-miyagi-matsushima-shiogama-shrine-hatsumode-sanriku-oyster-higashimono-stay/"
   },
   openGraph: {
-    title: '【11・12・1月宮城】陸奥総鎮守「鹽竈神社」新春初！名宿5選',
+    title: '11・12・1月宮城：陸奥総鎮守「鹽竈神社」新春初！名宿5選',
     description: '芭蕉も心奪われた日本三景・松島と、千二百年の歴史を刻む陸奥国一ノ宮・塩竈を巡る11〜1月の冬紀行。伊達政宗ゆかりの国宝「瑞巌寺」や五大堂が白。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-miyagi-matsushima-shiogama-shrine-hatsumode-sanriku-oyster-higashimono-stay',
     type: 'article',
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月宮城】陸奥総鎮守「鹽竈神社」新春初詣と日本三景「松島」雪景色！冬旬「三陸松島かき」・極上ひがしもの鮪＆松島温泉名宿5選",
+    title: "11・12・1月宮城：陸奥総鎮守「鹽竈神社」新春初詣と日本三景「松島」雪景色！冬旬「三陸松島かき」・極上ひがしもの鮪＆松島温泉名宿5選",
     description: "芭蕉も心奪われた日本三景・松島と、千二百年の歴史を刻む陸奥国一ノ宮・塩竈を巡る11〜1月の冬紀行。伊達政宗ゆかりの国宝「瑞巌寺」や五大堂が白雪をまとう静寂の松島湾、表坂202段の石段を登り迎える「志波彦神社・鹽竈神社」荘厳な新春初詣。真冬に最も身が太り濃厚なミルキーさを極める「三陸松島かき」、塩竈港水揚げの奇跡のブランド鮪「三陸塩竈ひがしもの」、極上仙台牛。太古の地層から湧く松島温泉「美肌の湯」に癒やされる厳選名宿5選を徹底解説します。",
     images: ['https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -281,10 +281,7 @@ export default function MiyagiMatsushimaWinterPage() {
             <Snowflake className="w-4 h-4 text-cyan-300" />
             <span>東北・宮城 松島湾 冬の特別紀行（11月・12月・1月）</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 font-journal-serif">
-            陸奥総鎮守「鹽竈神社」新春初詣と日本三景「松島」雪景色<br className="hidden md:inline" />
-            冬旬「三陸松島かき」・極上ひがしもの鮪＆松島温泉名宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 font-journal-serif">陸奥総鎮守「鹽竈神社」新春初詣と日本三景「松島」雪景色<br className="hidden md:inline" /> 冬旬「三陸松島かき」・極上ひがしもの鮪＆松島温泉名宿5選</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mb-6">
             松尾芭蕉が『おくのほそ道』で絶賛した日本三景・松島と、千二百余年の格式を誇る陸奥国一ノ宮・塩竈。伊達政宗公が再建した国宝「瑞巌寺」や五大堂の島々が白雪に染まる11月から1月、大気は澄み渡り、松島湾260余島は神々しい静寂に包まれます。表坂202段の石段を登る鹽竈神社の新春初詣。そして冬に身が太る濃厚な「三陸松島かき」と、塩竈港水揚げの奇跡のブランド鮪「三陸塩竈ひがしもの」、極上仙台牛。太古天泉・松島温泉の湯煙とともに、心洗われるみちのくの冬をご案内します。
           </p>

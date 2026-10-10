@@ -172,9 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>四季の名園×花巡り温泉</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            四季折々の花畑と名園美に包まれる！美しい日本庭園と美肌温泉で心潤す花巡り宿
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">四季折々の花畑と名園美に包まれる！美しい日本庭園と美肌温泉で心潤す花巡り宿</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             春の桜やツツジ、初夏の紫陽花、秋の紅葉、冬の寒椿まで。丹精込めて手入れされた広大な日本庭園や四季折々の花々を愛でながら、湯量豊富な美肌の湯に浸かる贅沢。花の香りと鳥のさえずりに包まれる優美な温泉宿をご紹介します。
           </p>

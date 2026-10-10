@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月秋田】陸奥の小京都！名宿5選',
+  title: '11・12・1月秋田：陸奥の小京都！名宿5選',
   description: '冬の秋田・角館と田沢湖は、黒板塀が続く武家屋敷通りに純白の粉雪が降り積もり、日本一の深さを誇る田沢湖が神秘的な瑠璃色を湛える極上の雪国世界。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '角館 ホテル, 田沢湖 温泉, 角館武家屋敷 雪景色, 比内地鶏 きりたんぽ鍋, 和のゐ角館, 田沢湖レイクリゾート, 稲庭うどん, 11月 12月 1月 秋田 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-akita-kakunodate-bukeyashiki-snow-kiritanpo-hinaijidori-stay/"
   },
   openGraph: {
-    title: '【11・12・1月秋田】陸奥の小京都！名宿5選',
+    title: '11・12・1月秋田：陸奥の小京都！名宿5選',
     description: '冬の秋田・角館と田沢湖は、黒板塀が続く武家屋敷通りに純白の粉雪が降り積もり、日本一の深さを誇る田沢湖が神秘的な瑠璃色を湛える極上の雪国世界。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-akita-kakunodate-bukeyashiki-snow-kiritanpo-hinaijidori-stay',
     type: 'article',
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月秋田】陸奥の小京都・角館武家屋敷の雪景色＆冬の田沢湖！本場比内地鶏きりたんぽ鍋と名湯に寛ぐ名宿5選",
+    title: "11・12・1月秋田：陸奥の小京都・角館武家屋敷の雪景色＆冬の田沢湖！本場比内地鶏きりたんぽ鍋と名湯に寛ぐ名宿5選",
     description: "冬の秋田・角館と田沢湖は、黒板塀が続く武家屋敷通りに純白の粉雪が降り積もり、日本一の深さを誇る田沢湖が神秘的な瑠璃色を湛える極上の雪国世界。11月中旬の初雪から1月の深雪期まで、小京都の静謐な佇まい、冬の田沢湖たつこ像、秋田が誇る日本三大美味鶏「比内地鶏」の出汁が染み渡る本場きりたんぽ鍋、ツルツルとした喉越しの稲庭うどん。田沢湖高原の白濁の湯や名湯に癒やされる厳選名宿5選を詳しくご案内します。"
   }
 };
@@ -229,10 +229,7 @@ export default function AkitaKakunodatePage() {
             <Snowflake className="w-4 h-4 text-sky-300" />
             11月・12月・1月冬の特選旅｜秋田・角館＆田沢湖
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">
-            陸奥の小京都・角館武家屋敷の雪景色＆冬の田沢湖！<br className="hidden sm:inline" />
-            本場比内地鶏きりたんぽ鍋と名湯に寛ぐ名宿5選
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">陸奥の小京都・角館武家屋敷の雪景色＆冬の田沢湖！<br className="hidden sm:inline" /> 本場比内地鶏きりたんぽ鍋と名湯に寛ぐ名宿5選</h1>
           <p className="text-base sm:text-lg text-slate-200/90 leading-relaxed max-w-4xl mb-8">
             みちのくの歴史が息づく仙北市・角館と田沢湖。11月の晩秋の静寂から1月の本格的な白銀世界まで、黒板塀が続く武家屋敷通りに粉雪が舞い降りる景観は言葉を失う静謐な美しさ。日本一深い瑠璃色の田沢湖、新米あきたこまちと比内地鶏の出汁が染み渡る熱々きりたんぽ鍋、そして乳白色の天然温泉。冬の東北旅の醍醐味が詰まった厳選宿をご紹介します。
           </p>

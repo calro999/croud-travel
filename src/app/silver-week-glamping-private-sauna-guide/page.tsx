@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-private-sauna-guide/" },
-  title: "【プライベートサウナ付きグランピング2026】秋のシルバーウィークにととのう！バレルサウナ＆天然水風呂 ｜ 日本全国・旅宿クラウド",
+  title: "プライベートサウナ付きグランピング2026：秋のシルバーウィークにととのう！バレルサウナ＆天然水風呂 ｜ 日本全国・旅宿クラウド",
   description:
     "涼しい秋風の中で究極の外気浴！完全貸切のフィンランド式バレルサウナ、富士山天然水や地下水の水風呂、星空の下でのインフィニティチェア外気浴が楽しめる極上サウナ付きグランピング特集。",
   keywords: ["天然水風呂", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
@@ -172,9 +172,7 @@ export default function SilverWeekGlampingPrivateSaunaPage() {
             </span>
           </div>
 
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【プライベートサウナ付きグランピング2026】秋のシルバーウィークにととのう！バレルサウナ＆天然水風呂
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「プライベートサウナ付きグランピング2026」秋のシルバーウィークにととのう！バレルサウナ＆天然水風呂</h1>
 
           <p className="text-xs md:text-sm text-rose-100/90 leading-relaxed font-medium">
             涼しい秋風が吹き抜けるシルバーウィークは、1年の中で最も外気浴が気持ちいいサウナのベストシーズン。他人の目を気にせず好きなアロマでセルフロウリュを楽しめる本格バレルサウナ、富士山伏流水や地下水のかけ流し水風呂、満天の星空を見上げるインフィニティチェア。サウナー仲間や大切なパートナーと過ごす極上のアウトドアサウナステイを厳選しました。

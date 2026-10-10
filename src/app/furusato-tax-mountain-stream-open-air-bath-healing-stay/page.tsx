@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '清流のせせらぎとマイナスイオンに包まれる渓流露天風呂名宿×ふるさと納税完全ガイド【2026年最新】奥入瀬・黒川・塩原',
+  title: '清流のせせらぎとマイナスイオンに包まれる渓流露天風呂名宿×ふるさと納税厳選ガイド奥入瀬・黒川・塩原',
   description: '川のせせらぎ、木漏れ日の揺らめき、澄み切った清流のマイナスイオン！渓谷美と名湯が一体となった日本最高峰の渓流露天風呂宿を厳選。特別名勝・奥入瀬渓流沿いに唯一建つネイチャーリゾート「星野リゾート 奥入瀬渓流ホテル」、阿蘇の奥座敷・田の原川の清流を望む茅葺き屋根の隠れ宿「黒川温泉 旅館 奥の湯」、箒川の渓谷美と名物300段石段の野天風呂を誇る「塩原温泉 湯守田中屋」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
   keywords: ["2026年最新", "奥入瀬", "黒川", "塩原", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: { canonical: baseUrl + '/furusato-tax-mountain-stream-open-air-bath-healing-stay/' },
   openGraph: {
-    title: '清流のせせらぎとマイナスイオンに包まれる渓流露天風呂名宿×ふるさと納税完全ガイド【2026年最新】奥入瀬・黒川・塩原',
+    title: '清流のせせらぎとマイナスイオンに包まれる渓流露天風呂名宿×ふるさと納税厳選ガイド奥入瀬・黒川・塩原',
     description: '川のせせらぎ、木漏れ日の揺らめき、澄み切った清流のマイナスイオン！渓谷美と名湯が一体となった日本最高峰の渓流露天風呂宿を厳選。特別名勝・奥入瀬渓流沿いに唯一建つネイチャーリゾート「星野リゾート 奥入瀬渓流ホテル」、阿蘇の奥座敷・田の原川の清流を望む茅葺き屋根の隠れ宿「黒川温泉 旅館 奥の湯」、箒川の渓谷美と名物300段石段の野天風呂を誇る「塩原温泉 湯守田中屋」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
     url: baseUrl + '/furusato-tax-mountain-stream-open-air-bath-healing-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoMountainStreamOpenAirStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             清流せせらぎ・渓流露天風呂マイナスイオン宿特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            清流のせせらぎとマイナスイオンに包まれる渓流露天風呂名宿×ふるさと納税完全ガイド【2026年最新】奥入瀬・黒川・塩原
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">清流のせせらぎとマイナスイオンに包まれる渓流露天風呂名宿×ふるさと納税厳選ガイド奥入瀬・黒川・塩原</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             都会の人工的な喧騒から完全に離れ、耳に届くのはサラサラと流れる清流のせせらぎと鳥のさえずりだけ。木々の間から差し込む柔らかな木漏れ日を浴びながら、川面とシームレスに繋がるような「渓流露天風呂」に身を浸す時間は、現代人にとって最高の癒やしとデジタルデトックスをもたらしてくれます。苔むした巨岩とブナの原生林を縫って流れる奇跡の清流沿いに佇む青森県「星野リゾート 奥入瀬渓流ホテル」、阿蘇外輪山の豊かな自然の中で川のせせらぎと湯めぐりを心ゆくまで楽しむ熊本県「黒川温泉 旅館 奥の湯」、そして箒川の断崖絶壁に造られた約300段の石段を下りて渓流間近の湯に浸かる栃木県「塩原温泉 湯守田中屋」。大自然の息吹をダイレクトに感じる渓流沿いの特等席宿は四季を通じて人気ですが、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引）を活用すれば、実質自己負担2,000円で驚くほどお得に滞在可能です。五感を解き放つ、至高の渓流リトリート温泉旅へ出かけましょう。
           </p>

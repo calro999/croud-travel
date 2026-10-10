@@ -3,11 +3,11 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【秋の金沢×格安】兼六園の雪吊りと秋のカニ解禁！天然温泉付き1泊3,000円〜6,000円台の高コスパホテル5選【2026最新】',
+  title: '秋の金沢×格安：兼六園の雪吊りと秋のカニ解禁！天然温泉付き1泊3,000円〜6,000円台の高コスパホテル5選「2026最新」',
   description: '11月1日から始まる兼六園の「雪吊り」と北陸のカニ解禁！宿泊費を賢く抑えつつ、天然温泉やサウナで極上の癒やしを満喫できる金沢のコスパ最強ホテル5選。the b金沢片町、スーパーホテルPremier、御宿野乃金沢など高評価宿を徹底比較！',
   keywords: '金沢 格安 ホテル, 金沢 天然温泉 ホテル 安い, 兼六園 雪吊り 宿, カニ解禁 金沢, スーパーホテルPremier金沢駅東口, 御宿野乃金沢',
   openGraph: {
-    title: '【秋の金沢×格安】兼六園の雪吊りと秋のカニ解禁！天然温泉付き1泊3,000円〜6,000円台の高コスパホテル5選【2026最新】',
+    title: '秋の金沢×格安：兼六園の雪吊りと秋のカニ解禁！天然温泉付き1泊3,000円〜6,000円台の高コスパホテル5選「2026最新」',
     description: '兼六園の雪吊りと秋のカニ解禁！天然温泉付き1泊3,000円〜6,000円台の金沢コスパ最強ホテル5選。',
     type: 'article',
     url: 'https://croud-travel.com/autumn-budget-ishikawa-kanazawa-onsen-kenrokuen-hotels-stay',
@@ -32,9 +32,7 @@ export default function KanazawaBudgetAutumnPage() {
             <span className="px-3 py-1 bg-teal-600 text-white text-xs font-bold rounded-full">格安・北陸特集</span>
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">1泊目安: 3,000円台〜6,000円台</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">
-            【秋の金沢×格安】兼六園の雪吊りと秋のカニ解禁！天然温泉付き1泊3,000円〜6,000円台の高コスパホテル5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の金沢×格安」兼六園の雪吊りと秋のカニ解禁！天然温泉付き1泊3,000円〜6,000円台の高コスパホテル5選</h1>
           <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
             情緒あふれるひがし茶屋街と兼六園の雪吊りライトアップ。11月上旬に解禁される香箱ガニやのどぐろを近江町市場で満喫し、自家源泉やサウナで寛げる金沢の格安温泉ホテルをご紹介します。
           </p>

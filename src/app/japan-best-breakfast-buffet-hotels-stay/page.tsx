@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-best-breakfast-buffet-hotels-stay/" },
-  title: "【朝食の美味しいホテル日本一】いくら盛り放題・勝手丼＆焼きたてクロワッサン 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "朝食の美味しいホテル日本一：いくら盛り放題・勝手丼＆焼きたてクロワッサン 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "旅行口コミサイト朝食ランキング上位ホテル完全特化！北海道・函館・札幌の「いくら・海鮮盛り放題勝手丼」、目の前で焼き上げる極上フレンチトースト、ご当地名物料理ビュッフェと朝から感動する宿泊体験を徹底解説。",
   keywords: ["朝食の美味しいホテル日本一", "いくら盛り放題", "勝手丼", "焼きたてクロワッサン", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
@@ -89,9 +89,7 @@ export default function GourmetCuisineHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             JAPAN BEST BREAKFAST GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【朝食の美味しいホテル日本一】いくら盛り放題・勝手丼＆焼きたてクロワッサン 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「朝食の美味しいホテル日本一」いくら盛り放題・勝手丼＆焼きたてクロワッサン 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             朝起きるのが楽しみになる日本一の朝食体験！器からこぼれるほど乗せられる「いくらかけ放題勝手丼」、芳醇なバターが香る焼きたてクロワッサン、シェフ特製のふわとろオムレツ。朝食を目的に泊まりたい全国の憧れホテルへ。
           </p>

@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】琉球王朝の雅を体感！琉球紅型染め体験＆読谷やちむんの里のオーシャンリゾート5選 | 日本全国・旅宿クラウド',
+  title: '2026年：琉球王朝の雅を体感！琉球紅型染め体験＆読谷やちむんの里のオーシャンリゾート5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！鮮やかな色彩が美しい伝統染物「琉球紅型」体験！やちむんの器で味わう琉球フレンチ・会席と残波岬の青い海を望むプレミアムリゾート5選。',
   keywords: ["2026年", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: '【2026年】琉球王朝の雅を体感！琉球紅型染め体験＆読谷やちむんの里のオーシャンリゾート5選',
+    title: '2026年：琉球王朝の雅を体感！琉球紅型染め体験＆読谷やちむんの里のオーシャンリゾート5選',
     description: '2026年最新！鮮やかな色彩が美しい伝統染物「琉球紅型」体験！やちむんの器で味わう琉球フレンチ・会席と残波岬の青い海を望むプレミアムリゾート5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/traditional-okinawa-bingata-textile-stay',
@@ -193,9 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> 琉球紅型アート×読谷やちむんオーシャンリゾート
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】琉球王朝の雅を体感！琉球紅型染め体験＆読谷やちむんの里のオーシャンリゾート5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」琉球王朝の雅を体感！琉球紅型染め体験＆読谷やちむんの里のオーシャンリゾート5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             南国の自然や吉祥文様を鮮やかに染め抜く伝統工芸「琉球紅型（びんがた）」。読谷村のやちむん（焼き物）の器に美しく盛り付けられた琉球モダン会席を味わい、残波岬のエメラルドグリーンの海と夕日に包まれる沖縄の文化リゾート。
           </p>

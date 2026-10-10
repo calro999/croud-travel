@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月松島温泉】日本三景日の出パノラマ展望露天！名宿5選',
+  title: '松島温泉で過ごす冬の旅（11・12月）！日本三景日の出パノラマ展望露天！名宿5選',
   description: '11月から12月にかけて、日本三景の一つに数えられる宮城県・松島湾は、初冬の澄み切った冷涼な空気によって260余りの島々が最も鮮やかに浮かび。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '松島温泉 宿泊, 宮城 温泉 11月 12月, 松島一の坊, ホテル松島大観荘, 小松館 好風亭, 松島センチュリーホテル, ホテル絶景の館, 松島牡蠣 宿, 仙台牛 会席, 日本三景 日の出 露天風呂',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-miyagi-matsushima-onsen-kaki-matsushimawan-view-stay/"
   },
   openGraph: {
-    title: '【11・12月松島温泉】日本三景日の出パノラマ展望露天！名宿5選',
+    title: '松島温泉で過ごす冬の旅（11・12月）！日本三景日の出パノラマ展望露天！名宿5選',
     description: '11月から12月にかけて、日本三景の一つに数えられる宮城県・松島湾は、初冬の澄み切った冷涼な空気によって260余りの島々が最も鮮やかに浮かび。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-miyagi-matsushima-onsen-kaki-matsushimawan-view-stay',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -246,10 +246,7 @@ export default function MiyagiMatsushimaWinterFeature() {
             <Anchor className="w-4 h-4" />
             11月・12月 冬の絶景＆極上海鮮特集｜宮城・松島温泉
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            初冬の松島湾絶景と解禁・極上松島牡蠣<br className="hidden sm:inline" />
-            日の出パノラマ露天＆仙台牛会席の極上宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">初冬の松島湾絶景と解禁・極上松島牡蠣<br className="hidden sm:inline" /> 日の出パノラマ露天＆仙台牛会席の極上宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             澄み渡る初冬の青空に浮かぶ260余島のシルエット。11・12月に最盛期を迎える濃厚な松島牡蠣と「絹肌の湯」を心ゆくまで堪能する旅。
           </p>

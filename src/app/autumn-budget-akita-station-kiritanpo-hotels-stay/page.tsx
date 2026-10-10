@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【秋田駅前】新米きりたんぽ鍋＆千秋公園紅葉！2,000円台〜泊まれる格安ホテル5選',
+  title: '秋田駅前：新米きりたんぽ鍋＆千秋公園紅葉！2,000円台〜泊まれる格安ホテル5選',
   description: '秋の新米あきたこまちで作る本場の熱々きりたんぽ鍋や比内地鶏、久保田城跡・千秋公園の美しい紅葉！秋田新幹線・秋田駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>秋の新米あきたこまち＆比内地鶏の極上鍋</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【秋田駅前】新米きりたんぽ鍋＆千秋公園紅葉！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「秋田駅前」新米きりたんぽ鍋＆千秋公園紅葉！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             秋は収穫されたばかりの新米あきたこまちをすり鉢で半殺しにして香ばしく焼き上げる「本場きりたんぽ」の最旬期。比内地鶏の濃厚ガラ出汁とセリの根が香る絶品鍋に舌鼓！久保田城跡・千秋公園の紅葉を散策し、秋田駅周辺で2,000円台〜泊まれる優良ホテルを厳選。
           </p>

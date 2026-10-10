@@ -1,4 +1,4 @@
-# 【東北新幹線】駅から徒歩・送迎ですぐ行ける名湯宿8選！車なしで巡る東北温泉旅｜失敗しないおすすめ宿ガイド
+# 東北新幹線：駅から徒歩・送迎ですぐ行ける名湯宿8選！車なしで巡る東北温泉旅｜失敗しないおすすめ宿ガイド
 
 - URL: https://croud-travel.pages.dev/posts/tohoku-shinkansen-station-walk-onsen-hotels-guide/
 - 宿泊施設名: 盛岡つなぎ温泉 旅染屋 山いち

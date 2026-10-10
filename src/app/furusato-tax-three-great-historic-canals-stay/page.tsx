@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-historic-canals-stay/" },
-  title: '日本三大運河＆水郷レトロ・白壁の蔵屋敷と舟流し情趣の名宿×ふるさと納税完全ガイド【2026年最新】小樽・倉敷・近江八幡',
+  title: '日本三大運河＆水郷レトロ・白壁の蔵屋敷と舟流し情趣の名宿×ふるさと納税厳選ガイド小樽・倉敷・近江八幡',
   description: '水運と商人の繁栄が息づく美しい水辺景観！北海道「小樽運河」ガス燈揺れる石造倉庫群と運河の宿おたるふる川、岡山「倉敷川・倉敷美観地区」白壁と柳並木の舟流しとあぶと倉敷館、滋賀「近江八幡・八幡堀」近江商人発祥の水郷と休暇村近江八幡。日本三大運河のノスタルジックな風景と歴史ある名宿を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大運河・水郷風情特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大運河＆水郷レトロ・白壁の蔵屋敷と舟流し情趣の名宿×ふるさと納税完全ガイド【2026年最新】小樽・倉敷・近江八幡',
+    title: '日本三大運河＆水郷レトロ・白壁の蔵屋敷と舟流し情趣の名宿×ふるさと納税厳選ガイド小樽・倉敷・近江八幡',
     description: '水運と商人の繁栄が息づく美しい水辺景観！北海道「小樽運河」ガス燈揺れる石造倉庫群と運河の宿おたるふる川、岡山「倉敷川・倉敷美観地区」白壁と柳並木の舟流しとあぶと倉敷館、滋賀「近江八幡・八幡堀」近江商人発祥の水郷と休暇村近江八幡。日本三大運河のノスタルジックな風景と歴史ある名宿を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-historic-canals-stay',
@@ -142,9 +142,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大運河・水郷風情特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大運河＆水郷レトロ・舟流し情趣の名宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大運河＆水郷レトロ・舟流し情趣の名宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             海や湖と町を繋ぎ、物資の集散と商人の繁栄を支えてきた「日本三大運河・水郷」――日本海航路の北前船がもたらした富を象徴し夕暮れ時に63基のガス燈が石造倉庫を照らし出す北海道の「小樽運河」、天領の代官所が置かれ白壁土蔵の屋敷と柳並木が倉敷川の水面に映える舟流しが風雅な岡山の「倉敷美観地区・倉敷川」、そして豊臣秀次が築き八幡商人の屋敷群と四季折々の桜や新緑に包まれ時代劇の舞台としても名高い滋賀の「近江八幡・八幡堀」。情緒ある水辺の散策を楽しんだ後は、港町の獲れたて海鮮や瀬戸内海の旬魚、三大和牛・近江牛のすき焼きに舌鼓を打つ極上の旅を楽天ふるさと納税でお楽しみください。
           </p>

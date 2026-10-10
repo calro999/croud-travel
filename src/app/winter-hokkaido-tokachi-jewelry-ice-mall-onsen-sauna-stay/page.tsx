@@ -5,11 +5,11 @@ import { ChevronRight, Star, MapPin, Sparkles, Snowflake, Mountain, Award, HelpC
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【極寒の奇跡ジュエリーアイスとモール温泉】2026-2027年冬の十勝川温泉＆極上サウナ宿5選',
+  title: '極寒の奇跡ジュエリーアイスとモール温泉：2026-2027年冬の十勝川温泉＆極上サウナ宿5選',
   description: '太平洋の大津海岸に打ち上げられる透明な氷の結晶「ジュエリーアイス」！世界でも希少な琥珀色の美肌湯「十勝川モール温泉」と本格フィンランド式サウナ、十勝牛やラクレットチーズを堪能する極上冬宿5選。',
   keywords: ['北海道温泉', 'ジュエリーアイス', '十勝・十勝川温泉・帯広', '冬の旅行', '温泉宿5選', '楽天トラベル', 'ふるさと納税'],
   openGraph: {
-    title: '【極寒の奇跡ジュエリーアイスとモール温泉】2026-2027年冬の十勝川温泉＆極上サウナ宿5選',
+    title: '極寒の奇跡ジュエリーアイスとモール温泉：2026-2027年冬の十勝川温泉＆極上サウナ宿5選',
     description: '太平洋の大津海岸に打ち上げられる透明な氷の結晶「ジュエリーアイス」！世界でも希少な琥珀色の美肌湯「十勝川モール温泉」と本格フィンランド式サウナ、十勝牛やラクレットチーズを堪能する極上冬宿5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-tokachi-jewelry-ice-mall-onsen-sauna-stay',
@@ -107,9 +107,7 @@ export default function WinterFeaturePage() {
               <Snowflake className="w-3.5 h-3.5" />
               <span>冬の厳選旅行特集（11月・12月・1月）</span>
             </div>
-            <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug">
-              【極寒の奇跡ジュエリーアイスとモール温泉】2026-2027年冬の十勝川温泉＆極上サウナ宿5選
-            </h1>
+            <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug">「極寒の奇跡ジュエリーアイスとモール温泉」2026-2027年冬の十勝川温泉＆極上サウナ宿5選</h1>
             <p className="text-sm md:text-base text-cyan-100/90 max-w-2xl mx-auto leading-relaxed">
               太平洋の大津海岸に打ち上げられる透明な氷の結晶「ジュエリーアイス」！世界でも希少な琥珀色の美肌湯「十勝川モール温泉」と本格フィンランド式サウナ、十勝牛やラクレットチーズを堪能する極上冬宿5選。
             </p>

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-exclusive-detached-villa-private-onsen-stay/" },
-  title: "【全室離れ・源泉かけ流し露天風呂付き隠れ家宿】大人の静寂＆名門温泉割烹 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "全室離れ・源泉かけ流し露天風呂付き隠れ家宿：大人の静寂＆名門温泉割烹 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "静寂とプライベートを極めた大人のための聖域！全室離れ・客室専用源泉かけ流し露天風呂付き名旅館完全特化！由布院・黒川温泉・箱根・伊豆・飛騨高山、誰にも会わずに部屋食と名湯を堪能する極上宿を徹底解説。",
   keywords: ["全室離れ", "大人の静寂", "名門温泉割烹", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -89,9 +89,7 @@ export default function LuxuryPremiumHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-gradient-to-r from-amber-300 to-amber-500 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block shadow">
             ALL DETACHED ONSEN VILLA GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【全室離れ・源泉かけ流し露天風呂付き隠れ家宿】大人の静寂＆名門温泉割烹 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「全室離れ・源泉かけ流し露天風呂付き隠れ家宿」大人の静寂＆名門温泉割烹 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             門をくぐれば、回廊の先に佇む独立した「離れ」の客室。24時間いつでも好きな時に湯浴みができる源泉かけ流しの専用露天風呂。部屋出しの本格京懐石やブランド牛尽くし。チェックインからアウトまで誰にも会わない究極のプライベートステイへ。
           </p>

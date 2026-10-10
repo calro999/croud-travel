@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/ishikawa-wakura-solo-retreat-ocean-onsen-stay/" },
-  title: '【能登・和倉温泉ひとり旅・七尾湾オーシャンフロントおこもり】開湯1200年塩化物泉・能登前寿司＆能登牛・復興応援ステイ！海の温泉郷厳選3宿',
+  title: '能登・和倉温泉ひとり旅・七尾湾オーシャンフロントおこもり：開湯1200年塩化物泉・能登前寿司＆能登牛・復興応援ステイ！海の温泉郷厳選3宿',
   description: '七尾湾の穏やかな波打ち際に湧く能登随一の名湯・和倉温泉！七尾湾を一望する絶景露天風呂と能登の美食が自慢の「ホテル海望」、多彩な湯処と広々とした空間美を誇る名門「日本の宿 のと楽」、能登の地魚料理とアットホームなもてなしが評判の「味な宿 宝仙閣」を楽天API最新データに基づき徹底比較。',
   keywords: '和倉温泉 一人旅 宿,和倉温泉 ホテル 一人,ホテル海望 和倉,のと楽 和倉温泉,宝仙閣 和倉,能登 ひとり旅 おこもり',
   openGraph: {
-    title: '【能登・和倉温泉ひとり旅・七尾湾オーシャンフロントおこもり】開湯1200年塩化物泉・能登前寿司＆能登牛・復興応援ステイ！海の温泉郷厳選3宿',
+    title: '能登・和倉温泉ひとり旅・七尾湾オーシャンフロントおこもり：開湯1200年塩化物泉・能登前寿司＆能登牛・復興応援ステイ！海の温泉郷厳選3宿',
     description: '七尾湾の穏やかな波打ち際に湧く能登随一の名湯・和倉温泉！七尾湾を一望する絶景露天風呂と能登の美食が自慢の「ホテル海望」、多彩な湯処と広々とした空間美を誇る名門「日本の宿 のと楽」、能登の地魚料理とアットホームなもてなしが評判の「味な宿 宝仙閣」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/ishikawa-wakura-solo-retreat-ocean-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【能登・和倉温泉ひとり旅・七尾湾オーシャンフロントおこもり】開湯1200年塩化物泉・能登前寿司＆能登牛・復興応援ステイ！海の温泉郷厳選3宿',
+    headline: '能登・和倉温泉ひとり旅・七尾湾オーシャンフロントおこもり：開湯1200年塩化物泉・能登前寿司＆能登牛・復興応援ステイ！海の温泉郷厳選3宿',
     description: '七尾湾の穏やかな波打ち際に湧く能登随一の名湯・和倉温泉！七尾湾を一望する絶景露天風呂と能登の美食が自慢の「ホテル海望」、多彩な湯処と広々とした空間美を誇る名門「日本の宿 のと楽」、能登の地魚料理とアットホームなもてなしが評判の「味な宿 宝仙閣」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             石川・和倉温泉ひとり旅＆能登七尾湾おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【能登・和倉温泉ひとり旅・七尾湾オーシャンフロントおこもり】開湯1200年塩化物泉・能登前寿司＆能登牛・復興応援ステイ！海の温泉郷厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「能登・和倉温泉ひとり旅・七尾湾オーシャンフロントおこもり」開湯1200年塩化物泉・能登前寿司＆能登牛・復興応援ステイ！海の温泉郷厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

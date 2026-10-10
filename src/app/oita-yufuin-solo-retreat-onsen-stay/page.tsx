@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/oita-yufuin-solo-retreat-onsen-stay/" },
-  title: '【由布院温泉ひとり旅・由布岳望むおこもり】金鱗湖朝霧・源泉かけ流し貸切露天・豊後牛！大自然に抱かれる大人のソロリトリート厳選3宿',
+  title: '由布院温泉ひとり旅・由布岳望むおこもり：金鱗湖朝霧・源泉かけ流し貸切露天・豊後牛！大自然に抱かれる大人のソロリトリート厳選3宿',
   description: '憧れの温泉リゾート・由布院！大正ロマン漂う空間と無料貸切風呂が一人旅に大人気の「由布院いよとみ」、由布岳を真正面に望む大パノラマ露天風呂が自慢の「彩岳館」、全室離れ・全室露天風呂付き極上の隠れ家「楓の小舎」を楽天API最新データに基づき徹底比較。',
   keywords: '由布院 一人旅 宿,由布院 ホテル 一人 温泉,由布院いよとみ,彩岳館,楓の小舎,湯布院 ひとり旅 金鱗湖',
   openGraph: {
-    title: '【由布院温泉ひとり旅・由布岳望むおこもり】金鱗湖朝霧・源泉かけ流し貸切露天・豊後牛！大自然に抱かれる大人のソロリトリート厳選3宿',
+    title: '由布院温泉ひとり旅・由布岳望むおこもり：金鱗湖朝霧・源泉かけ流し貸切露天・豊後牛！大自然に抱かれる大人のソロリトリート厳選3宿',
     description: '憧れの温泉リゾート・由布院！大正ロマン漂う空間と無料貸切風呂が一人旅に大人気の「由布院いよとみ」、由布岳を真正面に望む大パノラマ露天風呂が自慢の「彩岳館」、全室離れ・全室露天風呂付き極上の隠れ家「楓の小舎」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/oita-yufuin-solo-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【由布院温泉ひとり旅・由布岳望むおこもり】金鱗湖朝霧・源泉かけ流し貸切露天・豊後牛！大自然に抱かれる大人のソロリトリート厳選3宿',
+    headline: '由布院温泉ひとり旅・由布岳望むおこもり：金鱗湖朝霧・源泉かけ流し貸切露天・豊後牛！大自然に抱かれる大人のソロリトリート厳選3宿',
     description: '憧れの温泉リゾート・由布院！大正ロマン漂う空間と無料貸切風呂が一人旅に大人気の「由布院いよとみ」、由布岳を真正面に望む大パノラマ露天風呂が自慢の「彩岳館」、全室離れ・全室露天風呂付き極上の隠れ家「楓の小舎」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             大分・由布院温泉ひとり旅＆由布岳おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【由布院温泉ひとり旅・由布岳望むおこもり】金鱗湖朝霧・源泉かけ流し貸切露天・豊後牛！大自然に抱かれる大人のソロリトリート厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「由布院温泉ひとり旅・由布岳望むおこもり」金鱗湖朝霧・源泉かけ流し貸切露天・豊後牛！大自然に抱かれる大人のソロリトリート厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

@@ -3,11 +3,11 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【秋の上高地・白骨温泉】カラマツ黄葉と乳白色の秘湯！閉山前に訪れたい絶景名宿5選【2026最新】',
+  title: '秋の上高地・白骨温泉：カラマツ黄葉と乳白色の秘湯！閉山前に訪れたい絶景名宿5選「2026最新」',
   description: '11月中旬の閉山祭を前に黄金色に染まる上高地のカラマツ並木と穂高連峰。湯川渓谷に湧く「3日入れば3年風邪をひかない」白骨温泉の乳白色露天風呂を満喫！小梨の湯笹屋、湯元齋藤旅館など秋の秘湯宿5選をご紹介。',
   keywords: '上高地 黄葉, カラマツ 黄金, 白骨温泉 宿, 上高地 閉山祭, 小梨の湯 笹屋, 湯元齋藤旅館',
   openGraph: {
-    title: '【秋の上高地・白骨温泉】カラマツ黄葉と乳白色の秘湯！閉山前に訪れたい絶景名宿5選【2026最新】',
+    title: '秋の上高地・白骨温泉：カラマツ黄葉と乳白色の秘湯！閉山前に訪れたい絶景名宿5選「2026最新」',
     description: '11月中旬の閉山祭を前に黄金色に染まる上高地のカラマツ並木と穂高連峰。白骨温泉の乳白色露天風呂を満喫！',
     type: 'article',
     url: 'https://croud-travel.com/autumn-nagano-kamikochi-shirahone-onsen-autumn-hotels-stay',
@@ -32,9 +32,7 @@ export default function KamikochiShirahoneAutumnPage() {
             <span className="px-3 py-1 bg-amber-600 text-white text-xs font-bold rounded-full">秋の信州特集</span>
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">見頃目安: 10月中旬〜11月上旬</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">
-            【秋の上高地・白骨温泉】カラマツ黄葉と乳白色の秘湯！閉山前に訪れたい絶景名宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の上高地・白骨温泉」カラマツ黄葉と乳白色の秘湯！閉山前に訪れたい絶景名宿5選</h1>
           <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
             冠雪した穂高連峰を背景に梓川沿いのカラマツ林が一面黄金色に輝く晩秋の上高地。11月15日の閉山祭を控えた静謐な山岳リゾートと、古くから愛される白骨温泉の白濁した秘湯で心洗われる特別な旅をお届けします。
           </p>

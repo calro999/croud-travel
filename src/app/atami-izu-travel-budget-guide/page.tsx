@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/atami-izu-travel-budget-guide/" },
-  title: "【熱海・伊豆旅行 費用】日帰り・1泊2日でいくら？東京から片道2,000円で行ける温泉リゾートの全費用 ｜ 日本全国・旅宿クラウド",
+  title: "熱海・伊豆旅行 費用：日帰り・1泊2日でいくら？東京から片道2,000円で行ける温泉リゾートの全費用 ｜ 日本全国・旅宿クラウド",
   description: "熱海・伊豆旅行の費用を日帰り温泉・1泊2日で完全計算！東京から普通列車で片道1,980円、熱海プリン・海鮮丼のグルメ費用、来宮神社・MOA美術館の入場料、オーシャンビュー温泉旅館の宿泊費まで全部公開。",
   keywords: ["熱海", "伊豆旅行", "費用", "日帰り", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
@@ -62,9 +62,7 @@ export default function AtamiBudgetGuidePage() {
           <span className="bg-rose-500 text-white text-xs font-black tracking-widest px-4 py-1.5 rounded-full shadow-sm inline-block">
             コスパ最強の温泉リゾート費用白書
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif text-slate-800 leading-tight">
-            【熱海・伊豆旅行 費用】<br />日帰り・1泊2日でいくらかかる？
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif text-slate-800 leading-tight">「熱海・伊豆旅行 費用」<br />日帰り・1泊2日でいくらかかる？</h1>
           <p className="text-sm text-slate-600 max-w-2xl mx-auto font-medium">
             東京から片道たったの1,980円！思い立ったらすぐ行ける距離感が最大の魅力。大人気の「熱海プリン」や海鮮丼、絶景オーシャンビュー旅館まで、今週末の旅行にすぐ使えるリアルな予算ガイドです。
           </p>

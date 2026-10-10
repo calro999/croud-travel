@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-themepark-aquarium-family-hotel-stay/" },
-  title: '水族館・テーマパーク直結ホテル×ふるさと納税活用ガイド【2026年最新】鴨川・白浜・富士急のパスポート付き宿泊パック',
+  title: '水族館・テーマパーク直結ホテル×ふるさと納税活用ガイド鴨川・白浜・富士急のパスポート付き宿泊パック',
   description: '鴨川シーワールドやアドベンチャーワールド、富士急ハイランドなど人気テーマパーク・水族館直結ホテルのふるさと納税活用術！最大30%OFFクーポンで家族旅行の入園付きプランをお得に予約する方法とおすすめ宿を徹底解説。',
   keywords: ["水族館", "2026年最新", "鴨川", "白浜", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: '水族館・テーマパーク直結ホテル×ふるさと納税活用ガイド【2026年最新】鴨川・白浜・富士急のパスポート付き宿泊パック',
+    title: '水族館・テーマパーク直結ホテル×ふるさと納税活用ガイド鴨川・白浜・富士急のパスポート付き宿泊パック',
     description: '鴨川シーワールドやアドベンチャーワールド、富士急ハイランドなど人気テーマパーク・水族館直結ホテルのふるさと納税活用術！最大30%OFFクーポンで家族旅行の入園付きプランをお得に予約する方法とおすすめ宿を徹底解説。',
     url: 'https://croud-travel.pages.dev/furusato-tax-themepark-aquarium-family-hotel-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FurusatoTaxPage() {
           <span className="inline-block px-4 py-1.5 rounded-full text-xs md:text-sm font-black bg-gradient-to-r from-amber-500 to-yellow-400 text-slate-950 mb-5 shadow-lg shadow-amber-500/20">
             家族旅行・テーマパーク直結特集
           </span>
-          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">
-            水族館・テーマパーク直結ホテル×ふるさと納税宿泊ガイド
-          </h1>
+          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">水族館・テーマパーク直結ホテル×ふるさと納税宿泊ガイド</h1>
           <p className="text-sm md:text-lg text-slate-300 leading-relaxed font-medium">
             鴨川シーワールドやアドベンチャーワールド、富士急ハイランドなど人気テーマパーク・水族館直結ホテルのふるさと納税活用術！最大30%OFFクーポンで家族旅行の入園付きプランをお得に予約する方法とおすすめ宿を徹底解説。
           </p>

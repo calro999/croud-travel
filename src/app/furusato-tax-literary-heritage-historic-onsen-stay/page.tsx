@@ -4,14 +4,14 @@ import Link from 'next/link';
 import Image from 'next/image';
 
 export const metadata: Metadata = {
-  title: '文豪の愛した名湯・文学ゆかりの老舗旅館×ふるさと納税完全ガイド【2026年最新】城崎・伊豆湯ヶ島・道後の文芸宿',
+  title: '文豪の愛した名湯・文学ゆかりの老舗旅館×ふるさと納税厳選ガイド城崎・伊豆湯ヶ島・道後の文芸宿',
   description: '志賀直哉『城の崎にて』の城崎温泉、川端康成『伊豆の踊子』執筆の天城湯ヶ島温泉、夏目漱石『坊っちゃん』の道後温泉。近代文学の巨匠たちが逗留し名作を紡いだ歴史的宿で、外湯めぐりと上質な会席料理を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: ["文豪の愛した名湯", "2026年最新", "城崎", "伊豆湯ヶ島", "道後の文芸宿", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-literary-heritage-historic-onsen-stay/"
   },
   openGraph: {
-    title: '文豪の愛した名湯・文学ゆかりの老舗旅館×ふるさと納税完全ガイド【2026年最新】城崎・伊豆湯ヶ島・道後の文芸宿',
+    title: '文豪の愛した名湯・文学ゆかりの老舗旅館×ふるさと納税厳選ガイド城崎・伊豆湯ヶ島・道後の文芸宿',
     description: '志賀直哉『城の崎にて』の城崎温泉、川端康成『伊豆の踊子』執筆の天城湯ヶ島温泉、夏目漱石『坊っちゃん』の道後温泉。近代文学の巨匠たちが逗留し名作を紡いだ歴史的宿で、外湯めぐりと上質な会席料理を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-literary-heritage-historic-onsen-stay',
     type: 'article',
@@ -55,9 +55,7 @@ export default function FurusatoFeaturePage() {
             <span>✨</span>
             <span>文豪ゆかりの名湯・文学宿特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            文豪の愛した名湯・文学ゆかりの老舗旅館×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">文豪の愛した名湯・文学ゆかりの老舗旅館×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             志賀直哉、川端康成、夏目漱石、泉鏡花、島崎藤村――明治から昭和にかけての名だたる文豪たちは、心身を癒やし執筆の筆を進めるため、全国の名湯宿に長期滞在しました。彼らが愛した客室、庭園のせせらぎ、そして変わらぬ良泉。ただ泊まるだけでなく、日本の文化史・文学史の息吹を五感で追体験できる特別な宿ステイを、楽天ふるさと納税のトラベルクーポンでお得に実現しましょう。
           </p>

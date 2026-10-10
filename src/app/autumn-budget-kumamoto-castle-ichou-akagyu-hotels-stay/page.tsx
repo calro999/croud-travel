@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【熊本】銀杏城の黄金イチョウと阿蘇あか牛！3,000円台〜泊まれる格安ホテル5選',
+  title: '熊本：銀杏城の黄金イチョウと阿蘇あか牛！3,000円台〜泊まれる格安ホテル5選',
   description: '大天守前にそびえる大イチョウが黄金に輝く名城「熊本城（別名：銀杏城）」！旨味凝縮のヘルシーな阿蘇あか牛丼や焦がしニンニク黒マー油の熊本ラーメン。熊本市内・駅前で1泊3,000円台〜4,000円台の高評価宿5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetKumamotoHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>名城熊本城の黄金イチョウ＆極上あか牛</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【熊本】熊本城の黄金イチョウ＆あか牛グルメ！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「熊本」熊本城の黄金イチョウ＆あか牛グルメ！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             加藤清正が植えたと伝わる大天守前広場の大イチョウが黄金色に輝く秋の「熊本城（銀杏城）」。夜は下通・上通の繁華街で、赤身の旨味が弾ける阿蘇の「あか牛丼」や、香ばしい焦がしニンニク黒マー油が効いた濃厚「熊本ラーメン」、名物馬刺し！3,000円台〜泊まれる優良宿を厳選。
           </p>

@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '【2026年】選べる色浴衣とカランコロン下駄歩き！風情ある温泉街湯めぐりが楽しい名宿5選 ｜ 日本全国・旅宿クラウド',
+  title: '2026年：選べる色浴衣とカランコロン下駄歩き！風情ある温泉街湯めぐりが楽しい名宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！城崎温泉・草津・道後・黒川など、数十種類の色浴衣レンタルや外湯めぐりパス付きで街歩きが満喫できる女子旅・カップルおすすめ宿5選。',
   keywords: ["2026年", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/traditional-kimono-yukata-rental-hotspring-town-stay/",
   },
   openGraph: {
-    title: '【2026年】選べる色浴衣とカランコロン下駄歩き！風情ある温泉街湯めぐりが楽しい名宿5選',
+    title: '2026年：選べる色浴衣とカランコロン下駄歩き！風情ある温泉街湯めぐりが楽しい名宿5選',
     description: '2026年最新！城崎温泉・草津・道後・黒川など、数十種類の色浴衣レンタルや外湯めぐりパス付きで街歩きが満喫できる女子旅・カップルおすすめ宿5選。',
     url: 'https://croud-travel.pages.dev/traditional-kimono-yukata-rental-hotspring-town-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -172,9 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>選べる色浴衣×外湯めぐり街歩き</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            【2026年】選べる色浴衣とカランコロン下駄歩き！風情ある温泉街湯めぐりが楽しい名宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」選べる色浴衣とカランコロン下駄歩き！風情ある温泉街湯めぐりが楽しい名宿5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             お気に入りの色浴衣と下駄を選んで、柳並木や温泉情緒あふれる街並みへお出かけ。射的や足湯カフェ、温泉まんじゅうの食べ歩きを楽しみ、複数の外湯を巡る贅沢な休日。写真映えも抜群の温泉街ステイを心ゆくまで満喫できる宿をピックアップ。
           </p>

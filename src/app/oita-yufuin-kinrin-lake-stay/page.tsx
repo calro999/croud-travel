@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/oita-yufuin-kinrin-lake-stay/" },
-  title: "【大分・由布院】金鱗湖・湯の坪街道＆由布岳パノラマ極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "大分・由布院：金鱗湖・湯の坪街道＆由布岳パノラマ極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "大分・由布院（湯布院）エリア完全特化！朝霧立ち込める金鱗湖、湯の坪街道のスイーツ食べ歩き、由布岳を仰ぐ全室離れ・客室露天風呂旅館を徹底解説。",
   keywords: ["大分", "由布院", "金鱗湖", "湯の坪街道", "由布岳パノラマ極上宿", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             YUFUIN KINRIN LAKE MICRO GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【大分・由布院】金鱗湖・湯の坪街道＆由布岳パノラマ極上宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「大分・由布院」金鱗湖・湯の坪街道＆由布岳パノラマ極上宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             豊後富士と称される美しい「由布岳」の麓。温泉と冷泉が同時に湧き出る神秘の「金鱗湖」に立ち上る朝霧。大人の上質な隠れ家旅館が点在する日本屈指の温泉リゾートへ。
           </p>

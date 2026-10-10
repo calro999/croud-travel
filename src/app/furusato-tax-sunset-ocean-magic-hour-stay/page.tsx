@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-sunset-ocean-magic-hour-stay/" },
-  title: '絶景夕日・サンセット特等席の海宿×ふるさと納税完全ガイド【2026年最新】堂ヶ島・由良・白浜の茜色マジックアワー温泉',
+  title: '絶景夕日・サンセット特等席の海宿×ふるさと納税厳選ガイド堂ヶ島・由良・白浜の茜色マジックアワー温泉',
   description: '日本一の夕陽を誇る西伊豆堂ヶ島、日本海に沈む夕日の由良海岸、円月島の夕景パノラマ白浜温泉！海一望露天風呂や特等席テラスから茜色の空と海に包まれる絶景温泉宿を楽天ふるさと納税宿泊クーポンでお得に予約する極上サンセット旅。',
   keywords: ["絶景夕日", "2026年最新", "堂ヶ島", "由良", "白浜の茜色マジックアワー温泉", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: '絶景夕日・サンセット特等席の海宿×ふるさと納税完全ガイド【2026年最新】堂ヶ島・由良・白浜の茜色マジックアワー温泉',
+    title: '絶景夕日・サンセット特等席の海宿×ふるさと納税厳選ガイド堂ヶ島・由良・白浜の茜色マジックアワー温泉',
     description: '日本一の夕陽を誇る西伊豆堂ヶ島、日本海に沈む夕日の由良海岸、円月島の夕景パノラマ白浜温泉！海一望露天風呂や特等席テラスから茜色の空と海に包まれる絶景温泉宿を楽天ふるさと納税宿泊クーポンでお得に予約する極上サンセット旅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-sunset-ocean-magic-hour-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FurusatoTaxPage() {
           <span className="inline-block px-4 py-1.5 rounded-full text-xs md:text-sm font-black bg-gradient-to-r from-amber-500 to-yellow-400 text-slate-950 mb-5 shadow-lg shadow-amber-500/20">
             夕日サンセット・マジックアワー特集
           </span>
-          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">
-            絶景夕日・サンセット特等席の海宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">絶景夕日・サンセット特等席の海宿×ふるさと納税ガイド</h1>
           <p className="text-sm md:text-lg text-slate-300 leading-relaxed font-medium">
             日本一の夕陽を誇る西伊豆堂ヶ島、日本海に沈む夕日の由良海岸、円月島の夕景パノラマ白浜温泉！海一望露天風呂や特等席テラスから茜色の空と海に包まれる絶景温泉宿を楽天ふるさと納税宿泊クーポンでお得に予約する極上サンセット旅。
           </p>

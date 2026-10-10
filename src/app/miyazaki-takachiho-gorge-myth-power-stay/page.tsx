@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/miyazaki-takachiho-gorge-myth-power-stay/" },
-  title: "【宮崎・高千穂峡＆天岩戸】真名井の滝・天安河原＆神話宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "宮崎・高千穂峡＆天岩戸：真名井の滝・天安河原＆神話宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "天孫降臨の地・神話の里「高千穂」！柱状節理の峡谷に水しぶきを上げる「真名井の滝」の手漕ぎボート、天照大神がお隠れになった「天岩戸神社」と八百万の神が集まった「天安河原」、毎夜奉納される高千穂夜神楽、最高峰高千穂牛を徹底解説。",
   keywords: ["宮崎", "高千穂峡", "天岩戸", "真名井の滝", "天安河原", "神話宿", "温泉宿"],
 };
@@ -92,9 +92,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             TAKACHIHO & MYTH GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【宮崎・高千穂峡＆天岩戸神社】真名井の滝貸ボート・八百万の神天安河原＆高千穂牛宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「宮崎・高千穂峡＆天岩戸神社」真名井の滝貸ボート・八百万の神天安河原＆高千穂牛宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-teal-100/90 leading-relaxed">
             日本神話の舞台として古事記や日本書紀に記された神々の降臨の地「高千穂（たかちほ）」。阿蘇の火砕流が削り出だした高さ100mの柱状節理の断崖と、エメラルドグリーンの水面に流れ落ちる名瀑「真名井の滝」。天照大神が隠れた洞窟を祀る天岩戸神社、無数の祈りの積石が並ぶ神秘の「天安河原」。日本古来の信仰と神秘的なエネルギーに包まれる、九州最高峰のパワースポットステイへご案内します。
           </p>

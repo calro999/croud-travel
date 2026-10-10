@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-luxury-island-resort-charter-cruise-stay/" },
-  title: "【プライベートクルーズ＆離島ラグジュアリーリゾート】瀬戸内・伊勢志摩・八重山 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "プライベートクルーズ＆離島ラグジュアリーリゾート：瀬戸内・伊勢志摩・八重山 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "陸路では辿り着けない碧碧たる楽園！プライベートクルーズ・ヘリ送迎対応の最高峰アイランドリゾート完全特化！瀬戸内・ベネッセハウス・ガンツウ、伊勢志摩・アマネム・英虞湾クルーズ、八重山諸島プライベートヨット宿を徹底解説。",
   keywords: ["プライベートクルーズ", "離島ラグジュアリーリゾート", "瀬戸内", "伊勢志摩", "八重山", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function LuxuryPremiumHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-gradient-to-r from-amber-300 to-amber-500 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block shadow">
             LUXURY ISLAND & CRUISE GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【プライベートクルーズ＆離島ラグジュアリーリゾート】瀬戸内・伊勢志摩・八重山 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「プライベートクルーズ＆離島ラグジュアリーリゾート」瀬戸内・伊勢志摩・八重山 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             穏やかな波を切り進む専用クルーザーでチェックイン。世界最高峰のリゾートブランド「アマン」が手掛けたアマネム、瀬戸内海に浮かぶ動くラグジュアリーホテル「ガンツウ」、アートと建築が共鳴する直島ベネッセハウス。非日常の極致へ。
           </p>

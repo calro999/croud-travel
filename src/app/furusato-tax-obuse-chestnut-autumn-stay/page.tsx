@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            栗の郷「信州小布施」秋の栗スイーツ食べ歩き＆北信濃の名湯・信州プレミアム牛会席
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">栗の郷「信州小布施」秋の栗スイーツ食べ歩き＆北信濃の名湯・信州プレミアム牛会席</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             秋の味覚の最高峰「小布施栗」を味わい尽くす。北斎ゆかりの町並み散策と北信濃の名湯に心癒やされる旅。
           </p>

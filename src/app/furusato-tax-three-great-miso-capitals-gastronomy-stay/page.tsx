@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-miso-capitals-gastronomy-stay/" },
-  title: '日本三大味噌の郷＆百花繚乱の郷土発酵美・老舗蔵と郷土鍋の名湯宿×ふるさと納税完全ガイド【2026年最新】信州味噌・八丁味噌・仙台味噌',
+  title: '日本三大味噌の郷＆百花繚乱の郷土発酵美・老舗蔵と郷土鍋の名湯宿×ふるさと納税厳選ガイド信州味噌・八丁味噌・仙台味噌',
   description: '日本の食文化の根幹を支える日本三大味噌の郷巡り！長野「信州味噌」全国シェア4割を誇る澄んだ名水米麹と上諏訪温泉ホテル紅や、愛知岡崎「八丁味噌」大豆と塩のみで二夏二冬熟成させる赤出汁とホテルトレンド岡崎駅前、宮城仙台「仙台味噌」伊達政宗ゆかりの辛口赤味噌と作並温泉ゆづくしSalon一の坊。三大味噌の奥深い風味と郷土会席を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大味噌・伝統発酵特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大味噌の郷＆百花繚乱の郷土発酵美・老舗蔵と郷土鍋の名湯宿×ふるさと納税完全ガイド【2026年最新】信州味噌・八丁味噌・仙台味噌',
+    title: '日本三大味噌の郷＆百花繚乱の郷土発酵美・老舗蔵と郷土鍋の名湯宿×ふるさと納税厳選ガイド信州味噌・八丁味噌・仙台味噌',
     description: '日本の食文化の根幹を支える日本三大味噌の郷巡り！長野「信州味噌」全国シェア4割を誇る澄んだ名水米麹と上諏訪温泉ホテル紅や、愛知岡崎「八丁味噌」大豆と塩のみで二夏二冬熟成させる赤出汁とホテルトレンド岡崎駅前、宮城仙台「仙台味噌」伊達政宗ゆかりの辛口赤味噌と作並温泉ゆづくしSalon一の坊。三大味噌の奥深い風味と郷土会席を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-miso-capitals-gastronomy-stay',
@@ -142,9 +142,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大味噌・伝統発酵特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大味噌の郷＆発酵郷土鍋・名湯美食宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大味噌の郷＆発酵郷土鍋・名湯美食宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             各地の気候風土と歴史的要請から生まれ、それぞれ独自の進化を遂げてきた「日本三大味噌の郷」――日本アルプスの清らかな伏流水と澄んだ冷気の中で米麹と大豆を熟成させ黄金色に輝くさわやかな芳香で全国一のシェアを誇る長野の「信州味噌」、矢作川の水運と温暖な三河で大豆と塩のみを使い巨石を積み上げて二夏二冬じっくり天然醸造させる黒褐色の「三河・八丁味噌」、そして伊達政宗公が兵糧として塩分を高め長期保存に耐えうる軍用味噌として仙台城下に御塩噌蔵を築かせたことに始まる宮城の「仙台味噌」。味噌汁一杯から伝わる日本の食の原点を体感し、味噌仕立ての郷土鍋や牛タン・信州牛・三河地鶏を名湯とともに堪能する旅を楽天ふるさと納税でお楽しみください。
           </p>

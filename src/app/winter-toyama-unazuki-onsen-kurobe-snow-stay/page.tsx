@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月宇奈月温泉】富山湾寒ブリ！名宿5選',
+  title: '宇奈月温泉で過ごす冬の旅（11・12月）！富山湾寒ブリ！名宿5選',
   description: '北アルプス最深部を穿つ黒部川の清流と断崖絶壁に抱かれた名湯・宇奈月温泉。11月中旬の晩秋から12月の初雪へと移ろう初冬、日本一の透明度を誇る弱アルカリ性美肌泉と、富山湾の冬の王者「寒ブリ」＆獲れたて紅ズワイガニ会席を堪能する名宿ガイド。',
   keywords: '宇奈月温泉 宿泊 11月 12月, 宇奈月温泉 寒ブリ 紅ズワイガニ, 黒部峡谷 雪景色 露天風呂, 黒部 宇奈月温泉 やまのは, 宇奈月温泉 延楽, 延対寺荘, サン柳亭, 富山 冬 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-toyama-unazuki-onsen-kurobe-snow-stay/",
   },
   openGraph: {
-    title: '【11・12月宇奈月温泉】富山湾寒ブリ！名宿5選',
+    title: '宇奈月温泉で過ごす冬の旅（11・12月）！富山湾寒ブリ！名宿5選',
     description: '北アルプス最深部を穿つ黒部川の清流と断崖絶壁に抱かれた名湯・宇奈月温泉。11月中旬の晩秋から12月の初雪へと移ろう初冬、日本一の透明度を誇る弱アルカリ性美肌泉と、富山湾の冬の王者「寒ブリ」＆獲れたて紅ズワイガニ会席を堪能する名宿ガイド。',
     url: 'https://croud-travel.pages.dev/winter-toyama-unazuki-onsen-kurobe-snow-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月宇奈月温泉の初冬黒部峡谷美と名湯】雪化粧の峡谷露天と日本一の透明度・富山湾寒ブリ＆紅ズワイガニの宿5選",
+    title: "宇奈月温泉の初冬黒部峡谷美と名湯で過ごす冬の旅（11・12月）！雪化粧の峡谷露天と日本一の透明度・富山湾寒ブリ＆紅ズワイガニの宿5選",
     description: "北アルプス最深部を穿つ黒部川の清流と断崖絶壁に抱かれた名湯・宇奈月温泉。11月中旬の晩秋から12月の初雪へと移ろう初冬、日本一の透明度を誇る弱アルカリ性美肌泉と、富山湾の冬の王者「寒ブリ」＆獲れたて紅ズワイガニ会席を堪能する名宿ガイド。",
   }
 };
@@ -285,10 +285,7 @@ export default function UnazukiWinterPage() {
             <Eye className="w-4 h-4 text-cyan-300" />
             <span>11月・12月限定 黒部峡谷初冬の絶景＆富山湾寒ブリ・紅ズワイガニ特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月宇奈月温泉の初冬黒部峡谷美と名湯】<br className="hidden sm:inline" />
-            雪化粧の峡谷露天と日本一の透明度・富山湾寒ブリ＆紅ズワイガニの宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">宇奈月温泉の初冬黒部峡谷美と名湯で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 雪化粧の峡谷露天と日本一の透明度・富山湾寒ブリ＆紅ズワイガニの宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             北アルプス黒部川の清流が削り出した日本屈指の深山幽谷。日本一の透明度を誇る名湯・宇奈月温泉。11月中旬の晩秋から12月の白銀雪化粧へと移ろう峡谷美を望む露天風呂と、富山湾が誇る冬の二大王者「寒ブリ」＆「紅ズワイガニ」に心奪われる至福の湯旅。
           </p>

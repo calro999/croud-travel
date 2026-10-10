@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【12・1月福井】絶景温泉！名宿5選',
+  title: '福井で過ごす冬の旅（12・1月）！絶景温泉！名宿5選',
   description: '冬の日本海の荒波が打ち寄せる断崖絶壁に清楚な水仙の花々が咲き乱れる12〜1月の福井・越前海岸。日本三大水仙群生地の絶景を巡る「越前水仙まつり。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '越前水仙まつり, 越前がに 宿, 越前海岸 旅館, 越前岬 観光, 黄色タグ 越前蟹, 越前温泉 ホテル, せいこがに 福井, 劔神社 初詣, 12月 1月 福井 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukui-echizen-coast-suisen-crab-misaki-stay/"
   },
   openGraph: {
-    title: '【12・1月福井】絶景温泉！名宿5選',
+    title: '福井で過ごす冬の旅（12・1月）！絶景温泉！名宿5選',
     description: '冬の日本海の荒波が打ち寄せる断崖絶壁に清楚な水仙の花々が咲き乱れる12〜1月の福井・越前海岸。日本三大水仙群生地の絶景を巡る「越前水仙まつり。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-fukui-echizen-coast-suisen-crab-misaki-stay',
     siteName: '地域の宿探訪',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【12・1月福井】越前海岸＆越前町！日本海に咲く「越前水仙まつり」群生美と越前岬灯台・黄色タグ付き本場「越前がに」フルコース＆絶景温泉宿5選",
+    title: "福井で過ごす冬の旅（12・1月）！越前海岸＆越前町！日本海に咲く「越前水仙まつり」群生美と越前岬灯台・黄色タグ付き本場「越前がに」フルコース＆絶景温泉宿5選",
     description: "冬の日本海の荒波が打ち寄せる断崖絶壁に清楚な水仙の花々が咲き乱れる12〜1月の福井・越前海岸。日本三大水仙群生地の絶景を巡る「越前水仙まつり」や越前岬灯台からの雄大な水平線、織田信長ゆかりの越前二宮・劔神社での雪の初詣。そして本場越前町が誇る黄色いブランドタグ付き「越前がに」の茹でたて極上フルコースと、海を目前に望む塩化物泉の露天風呂に癒やされる厳選宿5選を徹底特集します。",
     images: ["https://img.travel.rakuten.co.jp/share/HOTEL/14121/14121.jpg"]
   }
@@ -252,9 +252,7 @@ export default function FukuiEchizenCoastPage() {
             <Flower2 className="w-3.5 h-3.5 text-amber-400" />
             12月〜1月限定・冬の越前プレミアム特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight md:leading-snug text-balance">
-            【12・1月福井】越前海岸＆越前町！日本海に咲く「越前水仙まつり」群生美と越前岬灯台・黄色タグ付き本場「越前がに」フルコース＆絶景温泉宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight md:leading-snug text-balance">福井で過ごす冬の旅（12・1月）！越前海岸＆越前町！日本海に咲く「越前水仙まつり」群生美と越前岬灯台・黄色タグ付き本場「越前がに」フルコース＆絶景温泉宿5選</h1>
           <p className="text-stone-300 text-xs sm:text-sm md:text-base leading-relaxed max-w-3xl mx-auto font-medium">
             激しく砕け散る冬の日本海の荒波と、断崖を埋め尽くす可憐な越前水仙の芳香。本場越前町ならではの黄色いタグ付き活越前がにの極上フルコースと、海に浸かるような絶景露天風呂を愉しむ贅沢な冬旅をご案内します。
           </p>

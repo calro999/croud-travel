@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【福井】東尋坊の日本海夕陽と越前秋グルメ！3,000円台〜泊まれる格安ホテル5選',
+  title: '福井：東尋坊の日本海夕陽と越前秋グルメ！3,000円台〜泊まれる格安ホテル5選',
   description: '国の名勝「東尋坊」の断崖絶壁に沈む感動の秋夕陽と、北陸新幹線延伸で沸く福井！本場の福井ソースカツ丼や越前おろしそばを堪能。福井駅・芦原周辺で1泊3,000円台〜5,000円台の高評価宿5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetFukuiHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>東尋坊サンセット＆福井名物ソースカツ丼</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【福井】東尋坊の夕陽＆福井グルメを満喫！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「福井」東尋坊の夕陽＆福井グルメを満喫！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-blue-100/90 max-w-2xl mx-auto leading-relaxed">
             日本海の荒波が削り出した柱状節理の断崖絶壁・東尋坊。空気が澄む秋の夕暮れ、水平線へ沈む真っ赤な夕陽は言葉を失う美しさです。夜は福井駅前で甘辛特製ソースをたっぷりくぐらせた元祖「ソースカツ丼」やピリッと辛い「越前おろしそば」！3,000円台〜の優良ホテルを厳選。
           </p>

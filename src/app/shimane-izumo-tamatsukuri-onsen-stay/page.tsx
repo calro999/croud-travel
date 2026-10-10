@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/shimane-izumo-tamatsukuri-onsen-stay/" },
-  title: "【島根・出雲大社＆玉造温泉】神話と縁結び・日本最古の美肌温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "島根・出雲大社＆玉造温泉：神話と縁結び・日本最古の美肌温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "神々の国・島根出雲＆玉造温泉エリア完全特化！縁結びの総本山「出雲大社」、日本最古の美肌温泉「玉造温泉（美肌の湯）」、宍道湖の夕日、名物出雲そば・しまね和牛・のどぐろ会席宿を徹底解説。",
   keywords: ["島根", "出雲大社", "玉造温泉", "神話と縁結び", "日本最古の美肌温泉宿", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             IZUMO TAISHA & TAMATSUKURI GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【島根・出雲大社＆玉造温泉】神話と縁結び・日本最古の美肌温泉宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「島根・出雲大社＆玉造温泉」神話と縁結び・日本最古の美肌温泉宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             八百万の神々が集う聖地「出雲大社」。参拝後は『出雲国風土記』に「一度洗えば容貌美麗になり、再び浴すれば万病治る。」と記された神の湯「玉造温泉」へ。美肌温泉と山陰の幸に癒やされる縁結びの旅。
           </p>

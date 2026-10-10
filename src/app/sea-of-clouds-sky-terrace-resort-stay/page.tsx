@@ -180,9 +180,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            雲の上に広がる天空の別世界！早朝の雲海テラス＆天空パノラマ露天風呂ホテル
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">雲の上に広がる天空の別世界！早朝の雲海テラス＆天空パノラマ露天風呂ホテル</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             早朝、目の前に広がる一面真っ白な雲の海。山の稜線が島のように浮かび上がり、昇る朝日に黄金色に輝く奇跡のパノラマビュー。条件が揃った朝にしか出会えない感動の雲海を、お部屋のバルコニーや展望デッキ、そして天空の露天風呂から見下ろす特別な旅をご提案します。
           </p>

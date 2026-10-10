@@ -3,13 +3,13 @@ import Link from 'next/link';
 import { Star, MapPin, Calendar, Compass, ShieldCheck, Heart, Sparkles, ExternalLink, ChevronRight } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【東洋のマチュピチュ・別子銅山の冬霧氷と石鎚神社新春初詣】2026-2027年冬の愛媛・新居浜＆西条！名水うちぬきの里と伊予牛会席名宿5選',
+  title: '東洋のマチュピチュ・別子銅山の冬霧氷と石鎚神社新春初詣：2026-2027年冬の愛媛・新居浜＆西条！名水うちぬきの里と伊予牛会席名宿5選',
   description: '標高750mに聳える産業遺産・別子銅山「東平」の雪化粧と、霊峰石鎚山を仰ぐ石鎚神社新春開運初詣！日本名水百選・西条「うちぬき」が育む地酒と瀬戸内海の旬魚介、極上の霜降り伊予牛に舌鼓。道後温泉に次ぐ名湯・本谷温泉や快適ホテルで寛ぐ冬の東予・新居浜＆西条厳選名宿5選。',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-ehime-niihama-besshi-copper-mine-ishizuchi-shrine-hatsumode-iyogyu-stay/',
   },
   openGraph: {
-    title: '【東洋のマチュピチュ・別子銅山の冬霧氷と石鎚神社新春初詣】2026-2027年冬の愛媛・新居浜＆西条！名水うちぬきの里と伊予牛会席名宿5選',
+    title: '東洋のマチュピチュ・別子銅山の冬霧氷と石鎚神社新春初詣：2026-2027年冬の愛媛・新居浜＆西条！名水うちぬきの里と伊予牛会席名宿5選',
     description: '標高750mに聳える産業遺産・別子銅山「東平」の雪化粧と、霊峰石鎚山を仰ぐ石鎚神社新春開運初詣！日本名水百選・西条「うちぬき」が育む地酒と瀬戸内海の旬魚介、極上の霜降り伊予牛に舌鼓。道後温泉に次ぐ名湯・本谷温泉や快適ホテルで寛ぐ冬の東予・新居浜＆西条厳選名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-ehime-niihama-besshi-copper-mine-ishizuchi-shrine-hatsumode-iyogyu-stay/',
     siteName: '冬の日本厳選旅行ガイド',
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: '【東洋のマチュピチュ・別子銅山の冬霧氷と石鎚神社新春初詣】2026-2027年冬の愛媛・新居浜＆西条！名水うちぬきの里と伊予牛会席名宿5選',
+    title: '東洋のマチュピチュ・別子銅山の冬霧氷と石鎚神社新春初詣：2026-2027年冬の愛媛・新居浜＆西条！名水うちぬきの里と伊予牛会席名宿5選',
     description: '標高750mに聳える産業遺産・別子銅山「東平」の雪化粧と、霊峰石鎚山を仰ぐ石鎚神社新春開運初詣！日本名水百選・西条「うちぬき」が育む地酒と瀬戸内海の旬魚介、極上の霜降り伊予牛に舌鼓。道後温泉に次ぐ名湯・本谷温泉や快適ホテルで寛ぐ冬の東予・新居浜＆西条厳選名宿5選。',
     images: ['https://img.travel.rakuten.co.jp/share/HOTEL/110/110.jpg'],
   },
@@ -201,9 +201,7 @@ export default function Page() {
               <span>冬の旅（11月〜1月）厳選特集</span>
             </div>
 
-            <h1 className="text-2xl sm:text-4xl font-extrabold leading-tight tracking-tight text-white drop-shadow-sm">
-              【東洋のマチュピチュ・別子銅山の冬霧氷と石鎚神社新春初詣】2026-2027年冬の愛媛・新居浜＆西条！名水うちぬきの里と伊予牛会席名宿5選
-            </h1>
+            <h1 className="text-2xl sm:text-4xl font-extrabold leading-tight tracking-tight text-white drop-shadow-sm">「東洋のマチュピチュ・別子銅山の冬霧氷と石鎚神社新春初詣」2026-2027年冬の愛媛・新居浜＆西条！名水うちぬきの里と伊予牛会席名宿5選</h1>
 
             <p className="text-sm sm:text-base text-cyan-100/90 leading-relaxed max-w-3xl pt-2">
               標高750mに聳える産業遺産・別子銅山「東平」の雪化粧と、霊峰石鎚山を仰ぐ石鎚神社新春開運初詣！日本名水百選・西条「うちぬき」が育む地酒と瀬戸内海の旬魚介、極上の霜降り伊予牛に舌鼓。道後温泉に次ぐ名湯・本谷温泉や快適ホテルで寛ぐ冬の東予・新居浜＆西条厳選名宿5選。

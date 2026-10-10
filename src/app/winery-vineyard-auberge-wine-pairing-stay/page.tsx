@@ -180,9 +180,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            葡萄畑の絶景と極上ワインに酔いしれる！全国のワイナリー併設＆オーベルジュホテル
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">葡萄畑の絶景と極上ワインに酔いしれる！全国のワイナリー併設＆オーベルジュホテル</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             見渡す限りの葡萄畑の稜線と、夕暮れに赤く染まる山々。醸造所から届くフレッシュなワインと熟成ヴィンテージを、シェフ渾身のフルコースとともに味わう至福のディナー。ワイン好きなら一度は訪れたい、葡萄の薫りに包まれる洗練された大人のオーベルジュステイをご紹介します。
           </p>

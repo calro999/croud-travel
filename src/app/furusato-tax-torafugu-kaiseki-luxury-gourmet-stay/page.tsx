@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '本場天然とらふぐ尽くし会席＆名湯温泉宿×ふるさと納税完全ガイド【2026年最新】下関・愛知日間賀島・若狭湾',
+  title: '本場天然とらふぐ尽くし会席＆名湯温泉宿×ふるさと納税厳選ガイド下関・愛知日間賀島・若狭湾',
   description: '冬の味覚の王様・天然とらふぐを本場で味わい尽くす！透き通る芸術的なてっさ（薄造り）、熱々のふぐちり鍋、香ばしいひれ酒、サクサクの唐揚げ。本場・山口県下関で関門海峡を望む迎賓館「下関グランドホテル」、多幸と福の島として名高い愛知県「日間賀島 漁師民宿やまに」、日本海の寒風が旨味を凝縮させる福井県「若狭小川 とね旅館」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
   keywords: ["本場天然とらふぐ尽くし会席", "名湯温泉宿×ふるさと納税", "2026年最新", "下関", "愛知日間賀島", "若狭湾", "温泉宿"],
   alternates: { canonical: baseUrl + '/furusato-tax-torafugu-kaiseki-luxury-gourmet-stay/' },
   openGraph: {
-    title: '本場天然とらふぐ尽くし会席＆名湯温泉宿×ふるさと納税完全ガイド【2026年最新】下関・愛知日間賀島・若狭湾',
+    title: '本場天然とらふぐ尽くし会席＆名湯温泉宿×ふるさと納税厳選ガイド下関・愛知日間賀島・若狭湾',
     description: '冬の味覚の王様・天然とらふぐを本場で味わい尽くす！透き通る芸術的なてっさ（薄造り）、熱々のふぐちり鍋、香ばしいひれ酒、サクサクの唐揚げ。本場・山口県下関で関門海峡を望む迎賓館「下関グランドホテル」、多幸と福の島として名高い愛知県「日間賀島 漁師民宿やまに」、日本海の寒風が旨味を凝縮させる福井県「若狭小川 とね旅館」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
     url: baseUrl + '/furusato-tax-torafugu-kaiseki-luxury-gourmet-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoTorafuguKaisekiStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             本場天然とらふぐ尽くし会席＆名湯宿特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            本場天然とらふぐ尽くし会席＆名湯温泉宿×ふるさと納税完全ガイド【2026年最新】下関・愛知日間賀島・若狭湾
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">本場天然とらふぐ尽くし会席＆名湯温泉宿×ふるさと納税厳選ガイド下関・愛知日間賀島・若狭湾</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             冬の日本海や瀬戸内海から届く最高の贅沢、それが「天然とらふぐ」です。職人の卓越した包丁捌きによって大皿の上に牡丹や鶴の形に美しく並べられた透明な「てっさ（薄造り）」、噛むほどに上品な甘みと弾力が広がる厚切りの身、皮湯引きのコリコリとした心地よい食感、そして炙りたてのひれを注ぎ入れた香ばしい「ひれ酒」――冬の味覚の頂点として名高いとらふぐ尽くしは、食通ならずとも一度は本場で堪能したい憧れの美食です。ふく（福）の街として全国のふぐが集まる聖地・山口県下関の老舗「下関グランドホテル」、三河湾に浮かび島全体がふぐの香りに包まれる愛知県日間賀島の「漁師民宿やまに」、そして若狭湾の清らかな冷水でじっくり身を引き締めた福井県若狭小川の「とね旅館」。本場のとらふぐフルコースは一般的に高額ですが、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期間3年）を使えば、実質自己負担2,000円で驚くほどお得に夢のふぐ三昧旅行が叶います。冬の極上美食とあたたかな温泉に心ほどける、至高のグルメステイへ出かけましょう。
           </p>

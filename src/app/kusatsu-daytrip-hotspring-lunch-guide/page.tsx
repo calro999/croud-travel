@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kusatsu-daytrip-hotspring-lunch-guide/" },
-  title: "【草津温泉 日帰り温泉＆ランチ】湯畑周辺で楽しむ源泉かけ流し名湯＆上州牛・手打ちそば名店ガイド ｜ 日本全国・旅宿クラウド",
+  title: "草津温泉 日帰り温泉＆ランチ：湯畑周辺で楽しむ源泉かけ流し名湯＆上州牛・手打ちそば名店ガイド ｜ 日本全国・旅宿クラウド",
   description: "草津温泉を日帰りで満喫するモデルコース！西の河原露天風呂・御座之湯・大滝乃湯の外湯巡りと、上州牛すき焼き・石臼挽き手打ちそばの絶品ランチ、日帰り入浴可能な名門旅館まとめ。",
   keywords: ["草津温泉", "日帰り温泉", "ランチ", "上州牛", "手打ちそば名店ガイド", "温泉宿", "宿泊予約"],
 };
@@ -127,10 +127,7 @@ export default function KusatsuDaytripHotspringLunchPage() {
             </span>
           </div>
 
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【草津温泉 日帰り温泉＆ランチ】<br />
-            湯畑周辺で楽しむ源泉かけ流し名湯＆上州牛・手打ちそば名店ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「草津温泉 日帰り温泉＆ランチ」<br /> 湯畑周辺で楽しむ源泉かけ流し名湯＆上州牛・手打ちそば名店ガイド</h1>
 
           <p className="text-xs md:text-sm text-stone-300 leading-relaxed font-medium">
             自然湧出量日本一を誇る天下の名湯・草津温泉。日帰りでも直行高速バスを使えば都内から手軽にアクセス可能！西の河原露天風呂・御座之湯・大滝乃湯の「三湯めぐり」から、熱いお湯のあとに染み渡る上州牛すき焼き・舞茸天ぷら蕎麦まで、1日を濃密に楽しむ日帰り極楽ルートをご紹介します。

@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            蓼科高原・横谷渓谷の黄金カラマツ紅葉と巨岩の滝巡り＆信州蓼科温泉郷・信州プレミアム牛
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">蓼科高原・横谷渓谷の黄金カラマツ紅葉と巨岩の滝巡り＆信州蓼科温泉郷・信州プレミアム牛</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             横谷渓谷の清流を包み込む黄金のカラマツ絵巻。蓼科の澄んだ空気と名湯、信州の秋の味覚に心ほどける休日。
           </p>

@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月加賀山中温泉】芭蕉ゆかりの美肌湯と青タグ加能蟹！名宿5選',
+  title: '加賀山中温泉で過ごす冬の旅（11・12月）！芭蕉ゆかりの美肌湯と青タグ加能蟹！名宿5選',
   description: '松尾芭蕉が「有馬・草津と並ぶ扶桑三名湯」と称賛した石川・加賀の名湯「山中温泉」。11月6日のズワイガニ漁解禁で歓喜に沸く北陸の冬。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '山中温泉 宿泊, 加賀山中温泉 11月 12月, 吉祥やまなか, かがり吉祥亭, 花紫, 厨八十八, こおろぎ楼, 加能ガニ 青タグ, 香箱ガニ 山中温泉, 能登牛, 鶴仙渓 雪景色',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-ishikawa-yamanaka-onsen-kakusenkei-kano-crab-stay/",
   },
   openGraph: {
-    title: '【11・12月加賀山中温泉】芭蕉ゆかりの美肌湯と青タグ加能蟹！名宿5選',
+    title: '加賀山中温泉で過ごす冬の旅（11・12月）！芭蕉ゆかりの美肌湯と青タグ加能蟹！名宿5選',
     description: '松尾芭蕉が「有馬・草津と並ぶ扶桑三名湯」と称賛した石川・加賀の名湯「山中温泉」。11月6日のズワイガニ漁解禁で歓喜に沸く北陸の冬。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-ishikawa-yamanaka-onsen-kakusenkei-kano-crab-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月加賀山中温泉の冬名湯と加能ガニ】鶴仙渓雪景色・芭蕉ゆかりの美肌湯と青タグ加能蟹＆能登牛会席の宿5選",
+    title: "加賀山中温泉の冬名湯と加能ガニで過ごす冬の旅（11・12月）！鶴仙渓雪景色・芭蕉ゆかりの美肌湯と青タグ加能蟹＆能登牛会席の宿5選",
     description: "松尾芭蕉が「有馬・草津と並ぶ扶桑三名湯」と称賛した石川・加賀の名湯「山中温泉」。11月6日のズワイガニ漁解禁で歓喜に沸く北陸の冬。石川県産水揚げの証である「青いタグ」付き極上加能ガニや、内子外子をたっぷり抱えた香箱ガニ（セイコガニ）、極上能登牛を山中漆器の器で堪能。名勝・鶴仙渓の初冬雪景色と露天風呂を満喫する厳選名宿5選を徹底解説。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80'],
   }
@@ -298,10 +298,7 @@ export default function YamanakaWinterPage() {
             <Sparkles className="w-4 h-4 text-rose-300" />
             <span>11月・12月限定 芭蕉称賛の名湯鶴仙渓と青タグ加能ガニ＆香箱ガニ甲羅盛り</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月加賀山中温泉の冬名湯と加能ガニ】<br className="hidden sm:inline" />
-            鶴仙渓雪景色・芭蕉ゆかりの美肌湯と青タグ加能蟹＆能登牛会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">加賀山中温泉の冬名湯と加能ガニで過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 鶴仙渓雪景色・芭蕉ゆかりの美肌湯と青タグ加能蟹＆能登牛会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             11月6日のズワイガニ漁解禁で活気に沸く加賀の奥座敷「山中温泉」。松尾芭蕉が称えた渓流露天風呂で温まり、水色の青タグが誇らしい加能ガニと12月までの限定香箱ガニ、極上能登牛を山中漆器で味わう冬の極上旅。
           </p>

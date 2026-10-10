@@ -180,9 +180,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            宮大工の技と歴史が息づく！国登録有形文化財・伝統建築美に泊まる名門老舗旅館
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">宮大工の技と歴史が息づく！国登録有形文化財・伝統建築美に泊まる名門老舗旅館</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             一歩足を踏み入れれば、木の温もりと凛とした静けさが広がる数寄屋造りの空間。釘を使わずに組み上げられた格天井や職人の手彫りによる欄間、月日を重ねて黒光りする磨き上げられた廊下。日本が誇る伝統建築の美意識と、受け継がれてきた細やかなもてなしを五感で味わう旅へ。
           </p>

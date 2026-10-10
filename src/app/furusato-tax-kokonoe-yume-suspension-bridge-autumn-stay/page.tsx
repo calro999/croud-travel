@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '九重夢大吊橋の360度大紅葉パノラマ＆筋湯温泉名物うたせ湯！豊後牛宿×ふるさと納税完全ガイド【2026年最新秋旅】大分',
+  title: '九重夢大吊橋の360度大紅葉パノラマ＆筋湯温泉名物うたせ湯！豊後牛宿×ふるさと納税厳選ガイド大分',
   description: '10月下旬〜11月中旬に標高777mの空中から鳴子川渓谷の錦秋を見下ろす「大分・九重夢大吊橋」。日本の滝百選・震動の滝と紅葉の絶景、くじゅう連山の山麓に湧く「筋湯温泉 旅館白滝」「壁湯天然洞窟温泉 福元屋」「たからや旅館」で名物うたせ湯や天然洞窟風呂・おおいた和牛豊後牛を堪能。ふるさと納税で実質2,000円。',
   keywords: ["2026年最新秋旅", "大分", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kokonoe-yume-suspension-bridge-autumn-stay/"
   },
   openGraph: {
-    title: '九重夢大吊橋の360度大紅葉パノラマ＆筋湯温泉名物うたせ湯！豊後牛宿×ふるさと納税完全ガイド【2026年最新秋旅】大分',
+    title: '九重夢大吊橋の360度大紅葉パノラマ＆筋湯温泉名物うたせ湯！豊後牛宿×ふるさと納税厳選ガイド大分',
     description: '10月下旬〜11月中旬に標高777mの空中から鳴子川渓谷の錦秋を見下ろす「大分・九重夢大吊橋」。日本の滝百選・震動の滝と紅葉の絶景、くじゅう連山の山麓に湧く「筋湯温泉 旅館白滝」「壁湯天然洞窟温泉 福元屋」「たからや旅館」で名物うたせ湯や天然洞窟風呂・おおいた和牛豊後牛を堪能。ふるさと納税で実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kokonoe-yume-suspension-bridge-autumn-stay',
     siteName: '旅宿クラウド',
@@ -113,9 +113,7 @@ export default function FeatureArticlePage() {
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">
-            九重夢大吊橋の360度大紅葉パノラマ＆筋湯温泉名物うたせ湯！豊後牛宿×ふるさと納税完全ガイド【2026年最新秋旅】大分
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">九重夢大吊橋の360度大紅葉パノラマ＆筋湯温泉名物うたせ湯！豊後牛宿×ふるさと納税厳選ガイド大分</h1>
           <p className="text-sm md:text-lg text-stone-200 max-w-3xl mx-auto leading-relaxed">
             日本一の高さを誇る夢大吊橋から望む大峡谷の錦秋と、千年の歴史を誇る筋湯うたせ湯。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
           </p>

@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月戸倉上山田温泉】善光寺精進落としの美肌硫黄泉！名宿5選',
+  title: '戸倉上山田温泉で過ごす冬の旅（11・12月）！善光寺精進落としの美肌硫黄泉！名宿5選',
   description: '11月中旬から12月の初冬を迎えた信州千曲川のほとり、戸倉上山田温泉は山々が初雪をまとい。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '戸倉上山田温泉 宿泊, 善光寺 精進落とし 温泉, 信州プレミアム牛 旅館, サンふじ リンゴ 信州, おしぼりうどん 千曲市, 単純硫黄泉 美肌湯, 長野 初冬 温泉旅行, 笹屋ホテル 豊年虫, 11月 12月 長野旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagano-togura-kamiyamada-onsen-shinshugyu-apple-stay/"
   },
   openGraph: {
-    title: '【11・12月戸倉上山田温泉】善光寺精進落としの美肌硫黄泉！名宿5選',
+    title: '戸倉上山田温泉で過ごす冬の旅（11・12月）！善光寺精進落としの美肌硫黄泉！名宿5選',
     description: '11月中旬から12月の初冬を迎えた信州千曲川のほとり、戸倉上山田温泉は山々が初雪をまとい。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-nagano-togura-kamiyamada-onsen-shinshugyu-apple-stay',
     siteName: 'クラドトラベル',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月戸倉上山田温泉】善光寺精進落としの美肌硫黄泉と初冬の味覚・極上信州プレミアム牛＆蜜入り完熟サンふじ・辛味大根おしぼりうどんを味わう名宿5選",
+    title: "戸倉上山田温泉で過ごす冬の旅（11・12月）！善光寺精進落としの美肌硫黄泉と初冬の味覚・極上信州プレミアム牛＆蜜入り完熟サンふじ・辛味大根おしぼりうどんを味わう名宿5選",
     description: "11月中旬から12月の初冬を迎えた信州千曲川のほとり、戸倉上山田温泉は山々が初雪をまとい、澄み渡る冷気の中に情緒ある湯煙が立ちのぼる名湯の季節を迎えます。古くより善光寺参りの「精進落としの湯」として親しまれ、旅人や文人墨客の心身を癒やし続けてきたこの温泉地は、肌をすべすべに整えるエメラルドグリーンの良質な単純硫黄泉が自噴する屈指の湯量を誇ります。初冬の食卓を飾るのは、脂の甘みと赤身の旨味が凝縮した「信州プレミアム牛」のすき焼きや陶板焼き、清流が育んだ「信州サーモン」、そして千曲川流域特有の伝統郷土料理「おしぼりうどん」。ねずみ大根の強烈な辛味絞り汁に信州味噌を溶いて味わう熱々のうどんは、体の芯から温まる冬ならではの風物詩です。さらに11月下旬から12月にかけて最盛期を迎える蜜入り完熟りんご「サンふじ」の果樹園直売や、冠着山（姨捨山）を望む絶景展望露天風呂まで、信州の初冬の贅を味わい尽くす厳選宿5選を詳しく紹介します。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -368,9 +368,7 @@ export default function NaganoToguraKamiyamadaWinterPage() {
             <Sparkles className="w-3.5 h-3.5" />
             11月・12月初冬の信州名湯＆美食特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold tracking-tight text-white leading-tight">
-            {metadata.title as string}
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold tracking-tight text-white leading-tight">{metadata.title as string}</h1>
           <p className="text-xs sm:text-sm text-stone-300 leading-relaxed pt-2">
             千曲川の朝霧と冠着山の初雪、善光寺精進落としの歴史を刻むエメラルドグリーンの単純硫黄泉。
             口の中でほどける極上信州プレミアム牛と完熟サンふじリンゴ、辛味大根おしぼりうどんを味わう至高の初冬旅。

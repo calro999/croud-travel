@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月金沢】兼六園の雪吊り冬景色と奥金沢！名宿5選',
+  title: '11・12・1月金沢：兼六園の雪吊り冬景色と奥金沢！名宿5選',
   description: '11月から1月、古都・金沢は日本三名園「兼六園」の雪吊りと白銀の金沢城、ひがし茶屋街の格子窓に舞い散る雪が息を呑む情緒を醸し出す最高の冬旅シ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '兼六園 雪吊り 冬, 金沢 香箱ガニ 宿泊, 湯涌温泉 百楽荘, 湯涌温泉 お宿やました, 湯涌温泉 湯の出旅館, 加能ガニ 旅館 金沢, 治部煮 金沢おでん, 11月 12月 1月 金沢旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-ishikawa-kanazawa-yuwaku-onsen-koubako-crab-stay/"
   },
   openGraph: {
-    title: '【11・12・1月金沢】兼六園の雪吊り冬景色と奥金沢！名宿5選',
+    title: '11・12・1月金沢：兼六園の雪吊り冬景色と奥金沢！名宿5選',
     description: '11月から1月、古都・金沢は日本三名園「兼六園」の雪吊りと白銀の金沢城、ひがし茶屋街の格子窓に舞い散る雪が息を呑む情緒を醸し出す最高の冬旅シ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-ishikawa-kanazawa-yuwaku-onsen-koubako-crab-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月金沢】兼六園の雪吊り冬景色と奥金沢「湯涌温泉」の秘湯情緒・冬限定香箱ガニ＆加能ガニ・金沢おでん・治部煮を味わう名宿5選",
+    title: "11・12・1月金沢：兼六園の雪吊り冬景色と奥金沢「湯涌温泉」の秘湯情緒・冬限定香箱ガニ＆加能ガニ・金沢おでん・治部煮を味わう名宿5選",
     description: "11月から1月、古都・金沢は日本三名園「兼六園」の雪吊りと白銀の金沢城、ひがし茶屋街の格子窓に舞い散る雪が息を呑む情緒を醸し出す最高の冬旅シーズンを迎えます。金沢人が一年で最も熱狂する11月6日解禁の冬の味覚、わずか2ヶ月弱しか味わえない幻の「香箱ガニ（こうばこがに）」の内子・外子の濃厚な旨味、身入りの良い「加能ガニ」、伝統の郷土料理「治部煮」や温かい「金沢おでん」。金沢市街から車でわずか20分、加賀藩主の前田家歴代が湯治に訪れ、大正の詩人画家・竹久夢二も愛した奥金沢の秘湯「湯涌温泉（ゆわくおんせん）」の雪見露天風呂と極上加賀料理を堪能できる厳選5宿を紹介します。",
     images: ['https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=80']
   }
@@ -42,7 +42,7 @@ export default function IshikawaKanazawaYuwakuWinterPage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: "【11・12・1月金沢】兼六園の雪吊り冬景色と奥金沢「湯涌温泉」の秘湯情緒・冬限定香箱ガニ＆加能ガニ・金沢おでん・治部煮を味わう名宿5選",
+    headline: "11・12・1月金沢：兼六園の雪吊り冬景色と奥金沢「湯涌温泉」の秘湯情緒・冬限定香箱ガニ＆加能ガニ・金沢おでん・治部煮を味わう名宿5選",
     description: "11月から1月、古都・金沢は日本三名園「兼六園」の雪吊りと白銀の金沢城、ひがし茶屋街の格子窓に舞い散る雪が息を呑む情緒を醸し出す最高の冬旅シーズンを迎えます。金沢人が一年で最も熱狂する11月6日解禁の冬の味覚、わずか2ヶ月弱しか味わえない幻の「香箱ガニ（こうばこがに）」の内子・外子の濃厚な旨味、身入りの良い「加能ガニ」、伝統の郷土料理「治部煮」や温かい「金沢おでん」。金沢市街から車でわずか20分、加賀藩主の前田家歴代が湯治に訪れ、大正の詩人画家・竹久夢二も愛した奥金沢の秘湯「湯涌温泉（ゆわくおんせん）」の雪見露天風呂と極上加賀料理を堪能できる厳選5宿を紹介します。",
     image: 'https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=80',
     datePublished: '',
@@ -282,9 +282,7 @@ export default function IshikawaKanazawaYuwakuWinterPage() {
             <Snowflake className="w-4 h-4 text-rose-200" />
             11月・12月・1月 加賀百万石の冬情緒＆冬限定カニ美食特集
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【11・12・1月金沢】兼六園の雪吊り冬景色と奥金沢「湯涌温泉」の秘湯情緒・冬限定香箱ガニ＆加能ガニ・金沢おでん・治部煮を味わう名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「11・12・1月金沢」兼六園の雪吊り冬景色と奥金沢「湯涌温泉」の秘湯情緒・冬限定香箱ガニ＆加能ガニ・金沢おでん・治部煮を味わう名宿5選</h1>
           <p className="text-stone-300 text-sm sm:text-base md:text-lg max-w-3xl leading-relaxed">
             日本三名園「兼六園」の松に施される幾何学美の雪吊り、初雪に白く染まるひがし茶屋街、そして11月6日解禁のわずか2ヶ月しか味わえない幻の「香箱ガニ」。加賀藩主の隠し湯として栄え、竹久夢二も愛した奥金沢・湯涌温泉の雪見露天風呂と加賀懐石を堪能する名宿を厳選紹介します。
           </p>

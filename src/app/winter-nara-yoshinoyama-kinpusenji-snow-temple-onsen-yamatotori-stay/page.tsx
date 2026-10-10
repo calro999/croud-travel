@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { MapPin, Calendar, ExternalLink, HelpCircle, ChevronRight, ShieldCheck, Sparkles } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【世界遺産金峯山寺蔵王堂の新春初詣と雪の吉野山】2026-2027年冬の吉野温泉！大和肉鶏と本葛鍋名宿5選 | クラウドトラベル',
+  title: '世界遺産金峯山寺蔵王堂の新春初詣と雪の吉野山：2026-2027年冬の吉野温泉！大和肉鶏と本葛鍋名宿5選 | クラウドトラベル',
   description: '雪化粧に染まる修験道の聖地・世界遺産「吉野山」と金峯山寺蔵王堂の新春初詣！歴史薫る吉野温泉のぬくもり、滋味あふれる大和肉鶏の水炊きや吉野本葛料理、大和牛を味わう静寂の冬名旅館5選。',
   keywords: ['奈良県冬旅行', '吉野山・金峯山寺・吉野温泉', '冬温泉', '2026', '2027', '雪景色', '冬の味覚', '楽天トラベル', 'ふるさと納税'],
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-nara-yoshinoyama-kinpusenji-snow-temple-onsen-yamatotori-stay',
   },
   openGraph: {
-    title: '【世界遺産金峯山寺蔵王堂の新春初詣と雪の吉野山】2026-2027年冬の吉野温泉！大和肉鶏と本葛鍋名宿5選',
+    title: '世界遺産金峯山寺蔵王堂の新春初詣と雪の吉野山：2026-2027年冬の吉野温泉！大和肉鶏と本葛鍋名宿5選',
     description: '雪化粧に染まる修験道の聖地・世界遺産「吉野山」と金峯山寺蔵王堂の新春初詣！歴史薫る吉野温泉のぬくもり、滋味あふれる大和肉鶏の水炊きや吉野本葛料理、大和牛を味わう静寂の冬名旅館5選。',
     url: 'https://croud-travel.pages.dev/winter-nara-yoshinoyama-kinpusenji-snow-temple-onsen-yamatotori-stay',
     siteName: 'クラウドトラベル',
@@ -62,9 +62,7 @@ export default function WinterFeaturePage() {
               <Sparkles className="w-3.5 h-3.5" />
               <span>2026-2027年 冬季限定・厳選名宿特集</span>
             </div>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold tracking-tight leading-tight text-balance">
-              【世界遺産金峯山寺蔵王堂の新春初詣と雪の吉野山】2026-2027年冬の吉野温泉！大和肉鶏と本葛鍋名宿5選
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold tracking-tight leading-tight text-balance">「世界遺産金峯山寺蔵王堂の新春初詣と雪の吉野山」2026-2027年冬の吉野温泉！大和肉鶏と本葛鍋名宿5選</h1>
             <p className="max-w-2xl mx-auto text-xs sm:text-sm text-stone-300 leading-relaxed text-pretty">
               春の一目千本桜で全国にその名を知られる奈良県・吉野山。しかし、本当の旅好きが息を呑むのは、11月から1月の厳冬期に見せる「白銀の吉野山」の幽玄な美しさです。桜の葉が落ち、観光客の喧騒が嘘のように静まり返った山内には、冷涼な大気と修験道の神聖な祈りの気配だけが漂います。標高差によって中千本・上千本が白く雪化粧する中、世界遺産・金峯山寺（きんぷせんじ）の国宝本堂「蔵王堂」が純白の雪を被り屹立する光景は、東大寺大仏殿にも匹敵する圧倒的な荘厳さを誇ります。新春初詣の護摩祈祷に心身を清め、島崎藤村ゆかりの吉野温泉の鉄分を含んだにごり湯に浸かり、奈良の地鶏「大和肉鶏」の水炊きや吉野本葛鍋に舌鼓を打つ――大人の感性を揺さぶる静寂の冬旅をご案内します。
             </p>

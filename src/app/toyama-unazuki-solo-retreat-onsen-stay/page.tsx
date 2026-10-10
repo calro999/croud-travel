@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/toyama-unazuki-solo-retreat-onsen-stay/" },
-  title: '【宇奈月温泉ひとり旅・黒部峡谷秘境おこもり】日本一の透明度・峡谷美露天風呂・富山湾の白えび＆寒鰤！トロッコ電車玄関口の名湯厳選3宿',
+  title: '宇奈月温泉ひとり旅・黒部峡谷秘境おこもり：日本一の透明度・峡谷美露天風呂・富山湾の白えび＆寒鰤！トロッコ電車玄関口の名湯厳選3宿',
   description: 'V字峡谷の絶景を抱く富山屈指の名湯・宇奈月温泉！峡谷の四季と富山の旬菜料理が評判のラグジュアリー宿「サン柳亭」、露天風呂とサウナ・充実のラウンジサービスを備えた「グランヴィリオホテル宇奈月温泉」、竹久夢二や川端康成ゆかりの黒部川沿いの老舗「延対寺荘」を楽天API最新データに基づき徹底比較。',
   keywords: '宇奈月温泉 一人旅 宿,宇奈月 ホテル 一人 温泉,サン柳亭 宇奈月,グランヴィリオホテル宇奈月温泉,延対寺荘 宇奈月,黒部峡谷 ひとり旅 おこもり',
   openGraph: {
-    title: '【宇奈月温泉ひとり旅・黒部峡谷秘境おこもり】日本一の透明度・峡谷美露天風呂・富山湾の白えび＆寒鰤！トロッコ電車玄関口の名湯厳選3宿',
+    title: '宇奈月温泉ひとり旅・黒部峡谷秘境おこもり：日本一の透明度・峡谷美露天風呂・富山湾の白えび＆寒鰤！トロッコ電車玄関口の名湯厳選3宿',
     description: 'V字峡谷の絶景を抱く富山屈指の名湯・宇奈月温泉！峡谷の四季と富山の旬菜料理が評判のラグジュアリー宿「サン柳亭」、露天風呂とサウナ・充実のラウンジサービスを備えた「グランヴィリオホテル宇奈月温泉」、竹久夢二や川端康成ゆかりの黒部川沿いの老舗「延対寺荘」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/toyama-unazuki-solo-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【宇奈月温泉ひとり旅・黒部峡谷秘境おこもり】日本一の透明度・峡谷美露天風呂・富山湾の白えび＆寒鰤！トロッコ電車玄関口の名湯厳選3宿',
+    headline: '宇奈月温泉ひとり旅・黒部峡谷秘境おこもり：日本一の透明度・峡谷美露天風呂・富山湾の白えび＆寒鰤！トロッコ電車玄関口の名湯厳選3宿',
     description: 'V字峡谷の絶景を抱く富山屈指の名湯・宇奈月温泉！峡谷の四季と富山の旬菜料理が評判のラグジュアリー宿「サン柳亭」、露天風呂とサウナ・充実のラウンジサービスを備えた「グランヴィリオホテル宇奈月温泉」、竹久夢二や川端康成ゆかりの黒部川沿いの老舗「延対寺荘」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             富山・宇奈月温泉ひとり旅＆黒部峡谷おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【宇奈月温泉ひとり旅・黒部峡谷秘境おこもり】日本一の透明度・峡谷美露天風呂・富山湾の白えび＆寒鰤！トロッコ電車玄関口の名湯厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「宇奈月温泉ひとり旅・黒部峡谷秘境おこもり」日本一の透明度・峡谷美露天風呂・富山湾の白えび＆寒鰤！トロッコ電車玄関口の名湯厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: 'クラフトシードル＆ご当地ホップ醸造宿×ふるさと納税完全ガイド【2026年最新】弘前・遠野・南信州飯田の果実酒ステイ',
+  title: 'クラフトシードル＆ご当地ホップ醸造宿×ふるさと納税厳選ガイド弘前・遠野・南信州飯田の果実酒ステイ',
   description: 'フレッシュな果実酒とビールの世界！青森弘前りんご王国のクラフトシードル工房、岩手遠野の日本一のホップ畑とクラフトビールビレッジ、長野飯田のリンゴ並木シードル＆天竜川温泉。醸造家こだわりの美酒と郷土フレンチを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: ["クラフトシードル", "2026年最新", "弘前", "遠野", "南信州飯田の果実酒ステイ", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-craft-cider-hop-brewery-stay/"
   },
   openGraph: {
-    title: 'クラフトシードル＆ご当地ホップ醸造宿×ふるさと納税完全ガイド【2026年最新】弘前・遠野・南信州飯田の果実酒ステイ',
+    title: 'クラフトシードル＆ご当地ホップ醸造宿×ふるさと納税厳選ガイド弘前・遠野・南信州飯田の果実酒ステイ',
     description: 'フレッシュな果実酒とビールの世界！青森弘前りんご王国のクラフトシードル工房、岩手遠野の日本一のホップ畑とクラフトビールビレッジ、長野飯田のリンゴ並木シードル＆天竜川温泉。醸造家こだわりの美酒と郷土フレンチを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-craft-cider-hop-brewery-stay',
     type: 'article',
@@ -54,9 +54,7 @@ export default function FurusatoFeaturePage() {
             <span>✨</span>
             <span>クラフトシードル・ホップ醸造所特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            クラフトシードル＆ご当地ホップ醸造宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">クラフトシードル＆ご当地ホップ醸造宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             澄んだ空気と冷涼な気候が育む芳醇な果実とホップ。日本屈指のリンゴ産地・青森や南信州で造られるフレッシュな「クラフトシードル（林檎微発泡酒）」や、岩手・遠野の豊かなホップ畑から生まれるアロマ豊かなクラフトビール。グラスに注いだ瞬間に立ち上るフレッシュな果実香とホップの苦味、そして地元の旬食材を使ったペアリングディナー。醸造所の息吹を間近に感じる大人のハイセンスな休日を、楽天ふるさと納税でお得に叶えましょう。
           </p>

@@ -180,9 +180,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            愛犬とずっと一緒！プライベートドッグラン＆客室天然温泉付き高級リゾートヴィラ
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">愛犬とずっと一緒！プライベートドッグラン＆客室天然温泉付き高級リゾートヴィラ</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             大切な家族の一員である愛犬と一緒に、気兼ねなく最高のリゾートステイを。芝生が広がる専用のプライベートドッグランで思いっきり駆け回り、テラスで愛犬を眺めながら客室露天風呂を満喫。愛犬用アメニティや特製メニューも充実した、愛犬家絶賛の宿をラインナップしました。
           </p>

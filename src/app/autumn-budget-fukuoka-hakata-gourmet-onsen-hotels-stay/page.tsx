@@ -3,11 +3,11 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【秋の福岡・博多×格安】太宰府の紅葉と中洲屋台グルメ！天然温泉＆大浴場付き1泊6,000円台〜のコスパ最強ホテル5選【2026最新】',
+  title: '秋の福岡・博多×格安：太宰府の紅葉と中洲屋台グルメ！天然温泉＆大浴場付き1泊6,000円台〜のコスパ最強ホテル5選「2026最新」',
   description: '太宰府天満宮や竈門神社の鮮やかな紅葉散策と、夜の中洲・天神屋台めぐり（もつ鍋・水炊き・豚骨ラーメン）！歩き疲れた身体を癒やす天然温泉や大浴場付きで1泊6,000円〜7,000円台の高評価ホテル5選。八百治博多、ホテル・トリフィートなど厳選宿を徹底比較！',
   keywords: '福岡 格安 ホテル, 博多 大浴場 ホテル, 太宰府天満宮 紅葉, 博多 屋台 宿, 八百治博多ホテル, ホテルトリフィート博多祇園',
   openGraph: {
-    title: '【秋の福岡・博多×格安】太宰府の紅葉と中洲屋台グルメ！天然温泉＆大浴場付き1泊6,000円台〜のコスパ最強ホテル5選【2026最新】',
+    title: '秋の福岡・博多×格安：太宰府の紅葉と中洲屋台グルメ！天然温泉＆大浴場付き1泊6,000円台〜のコスパ最強ホテル5選「2026最新」',
     description: '太宰府天満宮の紅葉と中洲屋台グルメ！大浴場・温泉付き1泊6,000円台〜のコスパ最強博多ホテル5選。',
     type: 'article',
     url: 'https://croud-travel.com/autumn-budget-fukuoka-hakata-gourmet-onsen-hotels-stay',
@@ -32,9 +32,7 @@ export default function FukuokaBudgetAutumnPage() {
             <span className="px-3 py-1 bg-teal-600 text-white text-xs font-bold rounded-full">格安・九州特集</span>
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">1泊目安: 6,000円台〜7,000円台</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">
-            【秋の福岡・博多×格安】太宰府の紅葉と中洲屋台グルメ！天然温泉＆大浴場付き1泊6,000円台〜のコスパ最強ホテル5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の福岡・博多×格安」太宰府の紅葉と中洲屋台グルメ！天然温泉＆大浴場付き1泊6,000円台〜のコスパ最強ホテル5選</h1>
           <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
             太宰府天満宮や「鬼滅の刃」の聖地としても知られる竈門神社の紅葉ライトアップ。夜は中洲や天神の屋台街で博多グルメを食べ尽くし、大浴場や天然温泉で癒やされる博多の高コスパホテルをご紹介します。
           </p>

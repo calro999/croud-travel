@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-solo-stay-retreat-guide/" },
-  title: "【おひとり様歓迎 ソログランピング】1人泊プラン確約！静寂の森で読書・サウナ・焚き火を楽しむ秋リトリート ｜ 日本全国・旅宿クラウド",
+  title: "おひとり様歓迎 ソログランピング：1人泊プラン確約！静寂の森で読書・サウナ・焚き火を楽しむ秋リトリート ｜ 日本全国・旅宿クラウド",
   description:
     "周りの目を気にせず自分だけの時間を満喫するソログランピング特集！1名利用OK・シングル料金設定のある安心施設、静寂に包まれる森の読書スペース、ソロ専用焚き火台、温泉に浸かるリトリート旅完全ガイド。",
   keywords: ["おひとり様歓迎", "ソログランピング", "サウナ", "焚き火を楽しむ秋リトリート", "温泉宿", "宿泊予約", "楽天トラベル"],
@@ -172,9 +172,7 @@ export default function SilverWeekGlampingSoloStayRetreatPage() {
             </span>
           </div>
 
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【おひとり様歓迎 ソログランピング】1人泊プラン確約！静寂の森で読書・サウナ・焚き火を楽しむ秋リトリート
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「おひとり様歓迎 ソログランピング」1人泊プラン確約！静寂の森で読書・サウナ・焚き火を楽しむ秋リトリート</h1>
 
           <p className="text-xs md:text-sm text-teal-100/90 leading-relaxed font-medium">
             誰にも気兼ねせず、自分の心の声だけに耳を澄ますシルバーウィーク。他人のスケジュールに合わせることなく、読書に没頭し、好きなタイミングでサウナや温泉に入り、静かに燃える焚き火を眺める。ソロキャンプの設営ストレスをゼロにし、ホテルの快適性と大自然の癒やしを両立させた「大人のひとり旅特化型グランピング」を厳選しました。

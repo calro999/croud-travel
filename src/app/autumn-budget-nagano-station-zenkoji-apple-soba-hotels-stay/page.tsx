@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【長野駅前】善光寺秋詣＆信州りんご・戸隠そば！5,000円台〜泊まれる格安ホテル5選',
+  title: '長野駅前：善光寺秋詣＆信州りんご・戸隠そば！5,000円台〜泊まれる格安ホテル5選',
   description: '一生に一度は善光寺参り！国宝本堂のお戒壇巡りや秋の信州りんごスイーツ、香り高い新そば・戸隠そば。北陸新幹線・JR長野駅周辺で1泊5,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>信州善光寺秋の参拝＆名物戸隠そば・完熟信州りんご</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【長野駅前】国宝善光寺秋詣＆信州秋の味覚！<br className="hidden sm:inline" />5,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「長野駅前」国宝善光寺秋詣＆信州秋の味覚！<br className="hidden sm:inline" />5,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             無宗派の寺院として古くから全国の信仰を集める国宝「善光寺」。仲見世通りの名物おやきやジェラート、秋に収穫を迎えるシャキッと甘い「信州りんご」、秋新そばの香り豊かな「戸隠そば」に舌鼓！長野駅周辺で5,000円台〜泊まれる優良格安ホテルを厳選。
           </p>

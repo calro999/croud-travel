@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagoya-kyoto-bus-vs-shinkansen-guide/" },
-  title: "【名古屋〜京都】新幹線 vs 近鉄特急 vs 名神ハイウェイバス徹底比較！片道1,500円〜行く古都日帰り＆1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+  title: "名古屋〜京都：新幹線 vs 近鉄特急 vs 名神ハイウェイバス徹底比較！片道1,500円〜行く古都日帰り＆1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "名古屋から京都へ安く行くには？東海道新幹線、近鉄特急、名神ハイウェイバスの料金・所要時間を徹底比較！片道1,500円台〜行ける高速バスを活用し、伏見稲荷・東福寺・宇治抹茶カフェを満喫するモデルコース。",
   keywords: ["名古屋〜京都", "新幹線", "vs", "近鉄特急", "1泊2日モデルコース", "温泉宿", "宿泊予約"],
 };
@@ -157,9 +157,7 @@ export default function HighwayBusArticlePage() {
               交通手段の徹底比較＆最適ルート
             </span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【名古屋〜京都】新幹線 vs 近鉄特急 vs 名神ハイウェイバス徹底比較！片道1,500円〜行く古都日帰り＆1泊2日モデルコース
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">「名古屋〜京都」新幹線 vs 近鉄特急 vs 名神ハイウェイバス徹底比較！片道1,500円〜行く古都日帰り＆1泊2日モデルコース</h1>
           <p className="text-xs md:text-sm text-cyan-100/90 leading-relaxed font-medium">
             東海道新幹線なら名古屋〜京都わずか35分（片道約5,940円）。名神ハイウェイバスなら片道約1,500円〜2,600円（往復割あり）！新幹線の4分の1以下の料金で、乗り換えなしで京都駅烏丸口に直行。浮いたお金で宇治抹茶パフェや贅沢な京懐石を楽しむ旅。
           </p>

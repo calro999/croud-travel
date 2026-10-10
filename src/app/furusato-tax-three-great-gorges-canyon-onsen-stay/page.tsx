@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '日本三大峡谷＆巨岩奇勝パノラマ露天風呂宿×ふるさと納税完全ガイド【2026年最新】清津峡・黒部峡谷・大杉谷の絶景名湯',
+  title: '日本三大峡谷＆巨岩奇勝パノラマ露天風呂宿×ふるさと納税厳選ガイド清津峡・黒部峡谷・大杉谷の絶景名湯',
   description: '日本屈指のスケールを誇るV字渓谷美！新潟十日町「清津峡」の水鏡トンネルと奥清津温泉、富山黒部「黒部峡谷」のトロッコ電車と宇奈月温泉、三重奥伊勢「大杉谷」の原生林秘境温泉リゾート。大自然の造形美と渓谷露天風呂を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: ["日本三大峡谷", "2026年最新", "清津峡", "黒部峡谷", "大杉谷の絶景名湯", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-gorges-canyon-onsen-stay/"
   },
   openGraph: {
-    title: '日本三大峡谷＆巨岩奇勝パノラマ露天風呂宿×ふるさと納税完全ガイド【2026年最新】清津峡・黒部峡谷・大杉谷の絶景名湯',
+    title: '日本三大峡谷＆巨岩奇勝パノラマ露天風呂宿×ふるさと納税厳選ガイド清津峡・黒部峡谷・大杉谷の絶景名湯',
     description: '日本屈指のスケールを誇るV字渓谷美！新潟十日町「清津峡」の水鏡トンネルと奥清津温泉、富山黒部「黒部峡谷」のトロッコ電車と宇奈月温泉、三重奥伊勢「大杉谷」の原生林秘境温泉リゾート。大自然の造形美と渓谷露天風呂を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-gorges-canyon-onsen-stay',
     type: 'article',
@@ -54,9 +54,7 @@ export default function FurusatoFeaturePage() {
             <span>✨</span>
             <span>日本三大峡谷・絶景渓谷露天特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            日本三大峡谷＆巨岩奇勝パノラマ露天風呂宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">日本三大峡谷＆巨岩奇勝パノラマ露天風呂宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             何万年もの歳月をかけて清流が岩を削り出した「日本三大峡谷」――新潟の清津峡、富山の黒部峡谷、三重の大杉谷。天を突く断崖絶壁、轟音とともに流れ落ちる名瀑、そしてエメラルドグリーンに輝く深い淵。圧倒的な大自然のパノラマを、客室のテラスやせり出す露天風呂から眺める贅沢は唯一無二です。マイナスイオンを全身に浴びながら美肌の湯に浸かり、山里の恵みを味わう感動の旅を楽天ふるさと納税のトラベルクーポンでお得に体験しましょう。
           </p>

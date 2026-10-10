@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月男鹿温泉郷】日本海荒波雪見露天！名宿5選',
+  title: '男鹿温泉郷で過ごす冬の旅（11・12月）！日本海荒波雪見露天！名宿5選',
   description: '11月から12月にかけて日本海に突き出た秋田県・男鹿半島は、初冬の雷鳴とともに大群で沿岸に押し寄せる秋田の県魚「ハタハタ（雷魚）」の漁獲シー。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '男鹿温泉 宿泊, 男鹿温泉郷 11月 12月, 別邸つばき 男鹿, 元湯雄山閣, セイコーグランドホテル 男鹿, 男鹿観光ホテル, 男鹿ホテル, ハタハタ 温泉 宿, 石焼き鍋 男鹿, なまはげ 宿泊',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-akita-oga-onsen-ishiyaki-namahage-snow-stay/"
   },
   openGraph: {
-    title: '【11・12月男鹿温泉郷】日本海荒波雪見露天！名宿5選',
+    title: '男鹿温泉郷で過ごす冬の旅（11・12月）！日本海荒波雪見露天！名宿5選',
     description: '11月から12月にかけて日本海に突き出た秋田県・男鹿半島は、初冬の雷鳴とともに大群で沿岸に押し寄せる秋田の県魚「ハタハタ（雷魚）」の漁獲シー。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-akita-oga-onsen-ishiyaki-namahage-snow-stay',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -280,10 +280,7 @@ export default function OgaOnsenWinterFeature() {
             <Zap className="w-4 h-4" />
             11月・12月 冬の荒波海鮮＆伝統文化特集｜秋田・男鹿温泉郷
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月秋田・男鹿温泉郷】<br className="hidden sm:inline" />
-            初冬名物ハタハタと豪快石焼き鍋・なまはげ伝承＆雪見露天の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">秋田・男鹿温泉郷で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 初冬名物ハタハタと豪快石焼き鍋・なまはげ伝承＆雪見露天の宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             初冬の雷鳴とともに押し寄せる秋田の県魚「ハタハタ」と、千度の溶岩石で瞬間沸騰させる豪快「石焼き鍋」。なまはげの魂が息づく半島で、海水の温まり湯と荒波雪見露天を満喫する男鹿旅。
           </p>

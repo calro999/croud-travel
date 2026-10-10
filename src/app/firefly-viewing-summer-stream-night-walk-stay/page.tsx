@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '【2026年】幻想的なホタルの乱舞と清流のせせらぎ！初夏の夜空を彩る蛍観賞温泉宿5選 ｜ 日本全国・旅宿クラウド',
+  title: '2026年：幻想的なホタルの乱舞と清流のせせらぎ！初夏の夜空を彩る蛍観賞温泉宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！宿の敷地内や清流沿いで無数のホタルが舞う幻想的な光景に出会える初夏の温泉宿5選。澄んだ空気と涼やかな川床料理を楽しむ特別な旅。',
   keywords: ["2026年", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/firefly-viewing-summer-stream-night-walk-stay/",
   },
   openGraph: {
-    title: '【2026年】幻想的なホタルの乱舞と清流のせせらぎ！初夏の夜空を彩る蛍観賞温泉宿5選',
+    title: '2026年：幻想的なホタルの乱舞と清流のせせらぎ！初夏の夜空を彩る蛍観賞温泉宿5選',
     description: '2026年最新！宿の敷地内や清流沿いで無数のホタルが舞う幻想的な光景に出会える初夏の温泉宿5選。澄んだ空気と涼やかな川床料理を楽しむ特別な旅。',
     url: 'https://croud-travel.pages.dev/firefly-viewing-summer-stream-night-walk-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -158,9 +158,7 @@ export default function Page() {
             <span>•</span>
             <span>ホタル観賞×清流露天風呂</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            【2026年】幻想的なホタルの乱舞と清流のせせらぎ！初夏の夜空を彩る蛍観賞温泉宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」幻想的なホタルの乱舞と清流のせせらぎ！初夏の夜空を彩る蛍観賞温泉宿5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             清らかな小川が流れる山あいの温泉地で、初夏にだけ見られる自然のイルミネーション・蛍の乱舞。宿の庭園や徒歩圏内の清流沿いで柔らかな光が飛び交う幻想的な夜を過ごし、川のせせらぎを聞きながら露天風呂に浸かる風流な旅をお届けします。
           </p>

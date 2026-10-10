@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月宮古島】冬の避寒リゾート！名宿5選',
+  title: '11・12・1月宮古島：冬の避寒リゾート！名宿5選',
   description: '本州が真冬の寒波に包まれる11月・12月・1月、平均気温20度前後の心地よい温暖な気候が広がる南国の楽園・沖縄県宮古島。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '宮古島 ホテル, シギラリゾート, 宮古島 リゾート, シギラベイサイドスイート アラマンダ, ホテル シギラミラージュ, 宮古島東急ホテル＆リゾーツ, ヒルトン宮古島, 宮古牛, 東平安名崎 初日の出, 11月 12月 1月 沖縄 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-okinawa-miyakojima-shigira-resort-sunrisepoint-miyakogyu-stay/"
   },
   openGraph: {
-    title: '【11・12・1月宮古島】冬の避寒リゾート！名宿5選',
+    title: '11・12・1月宮古島：冬の避寒リゾート！名宿5選',
     description: '本州が真冬の寒波に包まれる11月・12月・1月、平均気温20度前後の心地よい温暖な気候が広がる南国の楽園・沖縄県宮古島。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-okinawa-miyakojima-shigira-resort-sunrisepoint-miyakogyu-stay',
     siteName: '地域の宿探訪',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月宮古島】冬の避寒リゾート＆宮古ブルー！シギラリゾートの南国極上ステイと宮古牛・東平安名崎初日の出名宿5選",
+    title: "11・12・1月宮古島：冬の避寒リゾート＆宮古ブルー！シギラリゾートの南国極上ステイと宮古牛・東平安名崎初日の出名宿5選",
     description: "本州が真冬の寒波に包まれる11月・12月・1月、平均気温20度前後の心地よい温暖な気候が広がる南国の楽園・沖縄県宮古島。冬は海水の透明度が年間で最も高まり、エメラルドグリーンからコバルトブルーへのグラデーションを描く奇跡の「宮古ブルー」が息を呑む鮮やかさを見せます。太平洋と東シナ海を分かつ東平安名崎の感動的な初日の出、満天の冬の星空、約140万坪の広大なシギラセブンマイルズリゾートの天然温泉や温水プライベートプール、そして至福の宮古牛ステーキ。コートを脱ぎ捨てて楽しむ極上の冬の避寒バカンス。楽天APIから最新取得した宮古島の最高峰リゾートホテル5選を徹底特集します。",
     images: ["https://img.travel.rakuten.co.jp/share/HOTEL/56662/56662.jpg"]
   }
@@ -232,10 +232,7 @@ export default function OkinawaMiyakojimaWinterPage() {
             <span>11月・12月・1月冬の宮古島避寒リゾート特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">
-            冬の避寒リゾート＆宮古ブルー！<br className="hidden sm:inline" />
-            シギラリゾートの南国極上ステイと宮古牛名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">冬の避寒リゾート＆宮古ブルー！<br className="hidden sm:inline" /> シギラリゾートの南国極上ステイと宮古牛名宿5選</h1>
 
           <p className="text-slate-300 text-sm sm:text-base lg:text-lg leading-relaxed max-w-3xl mb-8">
             本州の寒波を抜け出し、平均気温20度の快適な常夏の島へ。冬に透明度が年間最高に達する奇跡の「宮古ブルー」、東平安名崎で迎える神々しい初日の出、黄金色に輝くシギラ天然温泉や温水プライベートプール、そしてとろける宮古牛鉄板焼き。コートを脱ぎ捨てて南国の暖かな光に包まれる、極上の冬のバカンスをお届けします。

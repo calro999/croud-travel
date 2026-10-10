@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/winter-warm-island-escape/" },
-  title: '【冬の避寒リゾート】寒さ知らず！名宿5選',
+  title: '冬の避寒リゾート：寒さ知らず！名宿5選',
   description: '真冬でも気温20度前後！沖縄本島（那覇・恩納村）、奄美大島、石垣島・宮古島など。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: ["冬の避寒リゾート", "寒さ知らず！沖縄", "奄美大島ぽかぽか旅", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -98,9 +98,7 @@ export default function SeasonalFeaturePage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             WARM WINTER ESCAPE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【冬の避寒リゾート】寒さ知らず！沖縄・奄美大島ぽかぽか旅 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「冬の避寒リゾート」寒さ知らず！沖縄・奄美大島ぽかぽか旅 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             コートを脱ぎ捨てて、心地よい南風が吹き抜ける楽園へ。冬の沖縄・奄美は観光のオフシーズンで混雑がなく、ホテル料金もお得。静寂のプライベートリゾートで極上のリフレッシュを。
           </p>

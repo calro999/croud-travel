@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/ishikawa-kaga-onsen-valley-stay/" },
-  title: "【石川・加賀温泉郷】山中温泉・山代温泉＆鶴仙渓川床・加能ガニ極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "石川・加賀温泉郷：山中温泉・山代温泉＆鶴仙渓川床・加能ガニ極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "石川・加賀温泉郷（山中温泉・山代温泉・片山津温泉・粟津温泉）エリア完全特化！鶴仙渓のあやとりはしと川床、魯山人寓居跡いろは草庵、九谷焼・山中漆器体験、冬の加能ガニ・香箱ガニ会席と老舗名門旅館を徹底解説。",
   keywords: ["石川", "加賀温泉郷", "山中温泉", "山代温泉", "鶴仙渓川床", "加能ガニ極上宿", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             KAGA YAMANAKA YAMASHIRO GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【石川・加賀温泉郷】山中温泉・山代温泉＆鶴仙渓川床・加能ガニ極上宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「石川・加賀温泉郷」山中温泉・山代温泉＆鶴仙渓川床・加能ガニ極上宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             芭蕉が愛した山中温泉と、魯山人が逗留した山代温泉。鶴仙渓のせせらぎを聞きながらいただく川床スイーツと、紅殻格子の温泉街。名門旅館の庭園露天風呂で温まり、北陸の冬の味覚・加能ガニに酔いしれる旅。
           </p>

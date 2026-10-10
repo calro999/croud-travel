@@ -172,9 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>海鮮浜焼き×絶景オーシャンビュー</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            海を望む絶景オーシャンビュー＆獲れたて海鮮浜焼き・磯料理が自慢の温泉宿
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">海を望む絶景オーシャンビュー＆獲れたて海鮮浜焼き・磯料理が自慢の温泉宿</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             どこまでも続く青い海と水平線を眺めながら、旬のサザエやホタテ、伊勢海老を目の前で香ばしく焼き上げる浜焼きバイキング＆舟盛り磯会席。波音をBGMに湯浴みを楽しむ至福のオーシャンフロント温泉宿を厳選しました。
           </p>

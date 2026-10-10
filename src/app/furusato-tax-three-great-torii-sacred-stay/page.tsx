@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-torii-sacred-stay/" },
-  title: '日本三大鳥居＆神聖なる巨木の門・古都の歴史宿×ふるさと納税完全ガイド【2026年最新】宮島・奈良・敦賀',
+  title: '日本三大鳥居＆神聖なる巨木の門・古都の歴史宿×ふるさと納税厳選ガイド宮島・奈良・敦賀',
   description: '神域と俗界を分かつ壮麗なる日本の巨鳥居巡り！広島廿日市「宮島・厳島神社」海上にそびえる朱塗りの大鳥居と宮島グランドホテル有もと、奈良「春日大社」世界遺産春日山原始林の一之鳥居と伝統の奈良ホテル、福井敦賀「気比神宮」重要文化財の木造大鳥居と敦賀マンテンホテル駅前。古社寺の神聖な祈りと歴史、門前町の名宿を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大鳥居・神域巡礼特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大鳥居＆神聖なる巨木の門・古都の歴史宿×ふるさと納税完全ガイド【2026年最新】宮島・奈良・敦賀',
+    title: '日本三大鳥居＆神聖なる巨木の門・古都の歴史宿×ふるさと納税厳選ガイド宮島・奈良・敦賀',
     description: '神域と俗界を分かつ壮麗なる日本の巨鳥居巡り！広島廿日市「宮島・厳島神社」海上にそびえる朱塗りの大鳥居と宮島グランドホテル有もと、奈良「春日大社」世界遺産春日山原始林の一之鳥居と伝統の奈良ホテル、福井敦賀「気比神宮」重要文化財の木造大鳥居と敦賀マンテンホテル駅前。古社寺の神聖な祈りと歴史、門前町の名宿を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-torii-sacred-stay',
@@ -154,9 +154,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大鳥居・神域巡礼特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大鳥居＆神聖なる巨木の門・古都名宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大鳥居＆神聖なる巨木の門・古都名宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             日本古来の神仏への祈りを象徴し、その壮大なスケールと美しさから語り継がれる「日本三大鳥居」――瀬戸内海の潮の満ち引きによって海中に浮かび、あるいは歩いて間近まで近づける世界遺産・広島の「宮島・厳島神社大鳥居」、春日山原始林を背景に古都奈良の参道を堂々と迎える奈良の「春日大社一之鳥居」、そして北陸道総鎮守として国の重要文化財に指定され佐渡の神木で建てられた福井の「敦賀・気比神宮大鳥居」。神聖な朝の参拝や静かな参道散策、土地の伝統食材を味わう旅を楽天ふるさと納税でお楽しみください。
           </p>

@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【今すぐ予約したい！秋の黒川温泉】入湯手形露天風呂巡りとあか牛会席の名旅館5選",
+  title: "今すぐ予約したい！秋の黒川温泉：入湯手形露天風呂巡りとあか牛会席の名旅館5選",
   description: "渓流のせせらぎと湯煙が立ち上る熊本の秘湯・黒川温泉！名物「入湯手形」で巡る紅葉露天風呂や、創業300年の老舗宿、あか牛会席を味わう極上宿を厳選5選。",
   keywords: "黒川温泉 露天風呂巡り 入湯手形, 黒川温泉 旅館 おすすめ, 黒川温泉 歴史の宿 御客屋, 山みず木, 熊本 秘湯 温泉旅行",
   alternates: {
     canonical: "https://croud-travel.pages.dev/autumn-kumamoto-kurokawa-onsen-rotenburo-hopping-hotels-stay/",
   },
   openGraph: {
-    title: "【今すぐ予約したい！秋の黒川温泉】入湯手形露天風呂巡りとあか牛会席の名旅館5選",
+    title: "今すぐ予約したい！秋の黒川温泉：入湯手形露天風呂巡りとあか牛会席の名旅館5選",
     description: "渓流のせせらぎと湯煙が立ち上る熊本の秘湯・黒川温泉！名物「入湯手形」で巡る紅葉露天風呂や、創業300年の老舗宿、あか牛会席を味わう極上宿を厳選5選。",
     url: 'https://croud-travel.pages.dev/autumn-kumamoto-kurokawa-onsen-rotenburo-hopping-hotels-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【今すぐ予約したい！秋の黒川温泉】入湯手形露天風呂巡りとあか牛会席の名旅館5選",
+    title: "今すぐ予約したい！秋の黒川温泉：入湯手形露天風呂巡りとあか牛会席の名旅館5選",
     description: "渓流のせせらぎと湯煙が立ち上る熊本の秘湯・黒川温泉！名物「入湯手形」で巡る紅葉露天風呂や、創業300年の老舗宿、あか牛会席を味わう極上宿を厳選5選。",
   }
 };
@@ -131,9 +131,7 @@ export default function FeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             極上温泉地特集・秘湯の露天風呂巡り
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【今すぐ予約したい！秋の黒川温泉】<br className="hidden sm:inline" />入湯手形露天風呂巡りとあか牛会席の名旅館5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">「今すぐ予約したい！秋の黒川温泉」<br className="hidden sm:inline" />入湯手形露天風呂巡りとあか牛会席の名旅館5選</h1>
           <p className="max-w-2xl mx-auto text-sm md:text-base text-stone-200 leading-relaxed">
             「街全体が一つの宿、通りは廊下、旅館は客室。」。名物の木製入湯手形を手に、色づく渓流沿いの露天風呂を浴衣姿で巡る贅沢な秋旅。今すぐ予約して訪れたい極上宿をご案内。
           </p>

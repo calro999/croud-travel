@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月佐賀・唐津呼子温泉】極上佐賀牛ステーキ！名宿5選',
+  title: '佐賀・唐津呼子温泉で過ごす冬の旅（11・12月）！極上佐賀牛ステーキ！名宿5選',
   description: '11月から12月にかけて、佐賀県北西部に位置する城下町・唐津と港町・呼子は、玄界灘の冬の荒波が育む極上の海の幸と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '唐津 宿泊, 呼子 宿泊, 唐津シーサイドホテル, 洋々閣, 観光ホテル大望閣, 渚館きむら唐津茶屋, 旅館綿屋, 呼子の活イカ, 佐賀牛, 唐津焼, 唐津城, 11月 12月 唐津',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-saga-karatsu-onsen-yobuko-ika-sagagyu-genkai-stay/"
   },
   openGraph: {
-    title: '【11・12月佐賀・唐津呼子温泉】極上佐賀牛ステーキ！名宿5選',
+    title: '佐賀・唐津呼子温泉で過ごす冬の旅（11・12月）！極上佐賀牛ステーキ！名宿5選',
     description: '11月から12月にかけて、佐賀県北西部に位置する城下町・唐津と港町・呼子は、玄界灘の冬の荒波が育む極上の海の幸と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-saga-karatsu-onsen-yobuko-ika-sagagyu-genkai-stay',
     siteName: 'クラドトラベル',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月佐賀・唐津呼子温泉の冬の玄界灘と呼子活イカ】極上佐賀牛ステーキ＆唐津城パノラマ・唐津焼の器で味わう海辺美食名宿5選",
+    title: "佐賀・唐津呼子温泉の冬の玄界灘と呼子活イカで過ごす冬の旅（11・12月）！極上佐賀牛ステーキ＆唐津城パノラマ・唐津焼の器で味わう海辺美食名宿5選",
     description: "11月から12月にかけて、佐賀県北西部に位置する城下町・唐津と港町・呼子は、玄界灘の冬の荒波が育む極上の海の幸と、唐津城や名勝「虹の松原」を望む絶景が旅人を魅了します。初冬の透き通る身の甘みとコリコリの歯ごたえがたまらない名物「呼子の活イカ（アオリイカ・ヤリイカ）」の透明な姿造りや後造りのサクサク天ぷら、日本屈指のサシの美しさを誇るブランド黒毛和牛「佐賀牛」のステーキ。伝統の「唐津焼」の温もりあふれる器に盛られる料理の数々と、唐津湾の汐湯や天然温泉露天風呂。冬の味覚と歴史・文化が息づく厳選名宿5選を徹底解説します。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -248,12 +248,7 @@ export default function WinterSagaKaratsuPage() {
             11月・12月 冬の玄界灘・呼子活イカ＆佐賀牛美食特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月佐賀・唐津呼子温泉】冬の玄界灘と呼子活イカ
-            <span className="block text-sky-300 text-lg sm:text-2xl mt-3 font-normal">
-              極上佐賀牛ステーキ＆唐津城パノラマ・唐津焼の器で味わう海辺美食名宿5選
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">佐賀・唐津呼子温泉で過ごす冬の旅（11・12月）！冬の玄界灘と呼子活イカ <span className="block text-sky-300 text-lg sm:text-2xl mt-3 font-normal"> 極上佐賀牛ステーキ＆唐津城パノラマ・唐津焼の器で味わう海辺美食名宿5選 </span></h1>
 
           <p className="text-sm sm:text-base text-slate-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、佐賀県北西部に位置する城下町・唐津と港町・呼子は、玄界灘の冬の荒波が育む極上の海の幸と、唐津城や名勝「虹の松原」を望む絶景が旅人を魅了します。初冬の透き通る身の甘みとコリコリの歯ごたえがたまらない名物「呼子の活イカ（アオリイカ・ヤリイカ）」の透明な姿造りや後造りのサクサク天ぷら、日本屈指のサシの美しさを誇るブランド黒毛和牛「佐賀牛」のステーキ。伝統の「唐津焼」の温もりあふれる器に盛られる料理の数々と、唐津湾の汐湯や天然温泉露天風呂。冬の味覚と歴史・文化が息づく厳選名宿5選を徹底解説します。

@@ -3,13 +3,13 @@ import Link from 'next/link';
 import { Star, MapPin, Calendar, Compass, ShieldCheck, Heart, Sparkles, ExternalLink, ChevronRight } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【冬の日本海白波奇勝・石見畳ヶ浦と幻のどんちっちノドグロ】2026-2027年冬の島根・浜田！美肌名湯旭温泉と石見神楽冬情話名宿5選',
+  title: '冬の日本海白波奇勝・石見畳ヶ浦と幻のどんちっちノドグロ：2026-2027年冬の島根・浜田！美肌名湯旭温泉と石見神楽冬情話名宿5選',
   description: '天然記念物「石見畳ヶ浦」の豪快な日本海白波と冬の奇岩絶景！脂の乗り日本一と称される浜田港特選「どんちっちノドグロ」の姿焼き・小鍋と石見神楽の夜。PH高き美肌のぬる湯・旭温泉や有福温泉で温まる冬の石見厳選名宿5選。',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-shimane-hamada-tatamigaura-asahi-onsen-donchitchi-nodoguro-stay/',
   },
   openGraph: {
-    title: '【冬の日本海白波奇勝・石見畳ヶ浦と幻のどんちっちノドグロ】2026-2027年冬の島根・浜田！美肌名湯旭温泉と石見神楽冬情話名宿5選',
+    title: '冬の日本海白波奇勝・石見畳ヶ浦と幻のどんちっちノドグロ：2026-2027年冬の島根・浜田！美肌名湯旭温泉と石見神楽冬情話名宿5選',
     description: '天然記念物「石見畳ヶ浦」の豪快な日本海白波と冬の奇岩絶景！脂の乗り日本一と称される浜田港特選「どんちっちノドグロ」の姿焼き・小鍋と石見神楽の夜。PH高き美肌のぬる湯・旭温泉や有福温泉で温まる冬の石見厳選名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-shimane-hamada-tatamigaura-asahi-onsen-donchitchi-nodoguro-stay/',
     siteName: '冬の日本厳選旅行ガイド',
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: '【冬の日本海白波奇勝・石見畳ヶ浦と幻のどんちっちノドグロ】2026-2027年冬の島根・浜田！美肌名湯旭温泉と石見神楽冬情話名宿5選',
+    title: '冬の日本海白波奇勝・石見畳ヶ浦と幻のどんちっちノドグロ：2026-2027年冬の島根・浜田！美肌名湯旭温泉と石見神楽冬情話名宿5選',
     description: '天然記念物「石見畳ヶ浦」の豪快な日本海白波と冬の奇岩絶景！脂の乗り日本一と称される浜田港特選「どんちっちノドグロ」の姿焼き・小鍋と石見神楽の夜。PH高き美肌のぬる湯・旭温泉や有福温泉で温まる冬の石見厳選名宿5選。',
     images: ['https://img.travel.rakuten.co.jp/share/HOTEL/431/431.jpg'],
   },
@@ -229,9 +229,7 @@ export default function Page() {
               <span>2026-2027年冬（11月・12月・1月）完全ガイド</span>
             </div>
 
-            <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold tracking-tight leading-snug">
-              【冬の日本海白波奇勝・石見畳ヶ浦と幻のどんちっちノドグロ】2026-2027年冬の島根・浜田！美肌名湯旭温泉と石見神楽冬情話名宿5選
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold tracking-tight leading-snug">「冬の日本海白波奇勝・石見畳ヶ浦と幻のどんちっちノドグロ」2026-2027年冬の島根・浜田！美肌名湯旭温泉と石見神楽冬情話名宿5選</h1>
 
             <p className="text-sm sm:text-base text-stone-200 leading-relaxed pt-2">
               天然記念物「石見畳ヶ浦」の豪快な日本海白波と冬の奇岩絶景！脂の乗り日本一と称される浜田港特選「どんちっちノドグロ」の姿焼き・小鍋と石見神楽の夜。PH高き美肌のぬる湯・旭温泉や有福温泉で温まる冬の石見厳選名宿5選。

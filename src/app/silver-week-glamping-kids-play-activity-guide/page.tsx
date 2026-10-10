@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-kids-play-activity-guide/" },
-  title: "【子連れグランピング巨大遊具＆体験付き】アスレチック・動物ふれあい・収穫体験で子供が大はしゃぎ！ ｜ 日本全国・旅宿クラウド",
+  title: "子連れグランピング巨大遊具＆体験付き：アスレチック・動物ふれあい・収穫体験で子供が大はしゃぎ！ ｜ 日本全国・旅宿クラウド",
   description:
     "子供が1日中遊び尽くせる体験型グランピング特集！ツリーハウスアスレチック、ヤギやウサギとのふれあい牧場、秋のサツマイモ・栗拾い体験、ピザ窯焼き体験ができるファミリー向け施設徹底比較。",
   keywords: ["子連れグランピング巨大遊具", "体験付き", "アスレチック", "動物ふれあい", "収穫体験で子供が大はしゃぎ！", "温泉宿", "宿泊予約"],
@@ -172,9 +172,7 @@ export default function SilverWeekGlampingKidsPlayActivityPage() {
             </span>
           </div>
 
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【子連れグランピング巨大遊具＆体験付き】アスレチック・動物ふれあい・収穫体験で子供が大はしゃぎ！
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「子連れグランピング巨大遊具＆体験付き」アスレチック・動物ふれあい・収穫体験で子供が大はしゃぎ！</h1>
 
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed font-medium">
             「子供を大自然の中で思いっきり遊ばせたい、でもテント泊の準備や衛生面はちょっと心配。」そんなファミリーの願いを叶える体験型グランピング！森のツリーハウスアスレチックから、もふもふ動物への餌やり、石窯ピザ焼き、秋の味覚収穫まで、親子の笑顔があふれる特別な休日をご提案します。全室エアコン＆専用バスルーム完備でママパパもストレスゼロ！

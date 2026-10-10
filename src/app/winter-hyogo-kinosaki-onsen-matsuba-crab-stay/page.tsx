@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【11月解禁！城崎温泉の青タグ津居山ガニ】名物7つの外湯めぐりと極上活ズワイガニ会席宿5選",
+  title: "解禁！城崎温泉の青タグ津居山ガニで過ごす冬の旅（11月）！名物7つの外湯めぐりと極上活ズワイガニ会席宿5選",
   description: "11月6日のカニ漁解禁で熱狂に包まれる関西随一の名湯・城崎温泉！地元・津居山港直送の青いタグ付き活松葉ガニ（カニ刺し・焼きガニ・茹で姿ガニ・カニすき・甲羅酒）フルコースと、雪舞う柳並木を浴衣と下駄で歩く名物「7つの外湯めぐり」を堪能する至福の冬旅。",
   keywords: '城崎温泉 カニ 旅館, 城崎温泉 松葉ガニ 宿, 津居山ガニ 宿泊, 城崎温泉 外湯めぐり ホテル, 兵庫 11月 12月 旅行, 冬の城崎温泉, カニフルコース 旅館',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hyogo-kinosaki-onsen-matsuba-crab-stay/",
   },
   openGraph: {
-    title: "【11月解禁！城崎温泉の青タグ津居山ガニ】名物7つの外湯めぐりと極上活ズワイガニ会席宿5選",
+    title: "解禁！城崎温泉の青タグ津居山ガニで過ごす冬の旅（11月）！名物7つの外湯めぐりと極上活ズワイガニ会席宿5選",
     description: "11月6日のカニ漁解禁で熱狂に包まれる関西随一の名湯・城崎温泉！地元・津居山港直送の青いタグ付き活松葉ガニ（カニ刺し・焼きガニ・茹で姿ガニ・カニすき・甲羅酒）フルコースと、雪舞う柳並木を浴衣と下駄で歩く名物「7つの外湯めぐり」を堪能する至福の冬旅。",
     url: 'https://croud-travel.pages.dev/winter-hyogo-kinosaki-onsen-matsuba-crab-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11月解禁！城崎温泉の青タグ津居山ガニ】名物7つの外湯めぐりと極上活ズワイガニ会席宿5選",
+    title: "解禁！城崎温泉の青タグ津居山ガニで過ごす冬の旅（11月）！名物7つの外湯めぐりと極上活ズワイガニ会席宿5選",
     description: "11月6日のカニ漁解禁で熱狂に包まれる関西随一の名湯・城崎温泉！地元・津居山港直送の青いタグ付き活松葉ガニ（カニ刺し・焼きガニ・茹で姿ガニ・カニすき・甲羅酒）フルコースと、雪舞う柳並木を浴衣と下駄で歩く名物「7つの外湯めぐり」を堪能する至福の冬旅。",
   }
 };
@@ -266,10 +266,7 @@ export default function KinosakiWinterPage() {
             <Utensils className="w-4 h-4 text-amber-300" />
             <span>11月解禁！冬の味覚の王様・津居山ガニ</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11月解禁！城崎温泉の青タグ津居山ガニ】<br className="hidden sm:inline" />
-            名物7つの外湯めぐりと極上活ズワイガニ会席宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">解禁！城崎温泉の青タグ津居山ガニで過ごす冬の旅（11月）！<br className="hidden sm:inline" /> 名物7つの外湯めぐりと極上活ズワイガニ会席宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             11月6日解禁の青タグ付き津居山ガニを、カニ刺し・焼きガニ・茹で姿・カニすきで食べ尽くす贅沢。雪舞う柳並木を浴衣と下駄でカラコロ歩く「7大外湯めぐり」へ。
           </p>

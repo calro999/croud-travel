@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/akita-oga-peninsula-namahage-nyudozaki-stay/" },
-  title: "【秋田・男鹿半島＆なまはげ・入道崎】北緯40度白黒灯台・名物石焼料理宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "秋田・男鹿半島＆なまはげ・入道崎：北緯40度白黒灯台・名物石焼料理宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "ユネスコ無形文化遺産なまはげの郷・秋田男鹿半島エリア完全特化！入道崎（北緯40度白黒モニュメント）、なまはげ館・男鹿真山伝承館、ゴジラ岩、男鹿温泉郷の伝統「豪快石焼料理宿」を徹底解説。",
   keywords: ["秋田", "男鹿半島", "なまはげ", "入道崎", "北緯40度白黒灯台", "名物石焼料理宿", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             OGA & NAMAHAGE GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【秋田・男鹿半島＆なまはげ・入道崎】北緯40度白黒灯台・名物石焼料理宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「秋田・男鹿半島＆なまはげ・入道崎」北緯40度白黒灯台・名物石焼料理宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-emerald-100/90 leading-relaxed">
             荒波の日本海に突き出た信仰と伝説の半島「秋田・男鹿半島」。北緯40度線上にそびえる白黒縞模様の「入道崎灯台」。大晦日の夜に雄叫びを上げるユネスコ無形文化遺産「なまはげ」。真っ赤に熱した小石を桶の出汁に放り込む男鹿伝統の「石焼料理」を味わう旅。
           </p>

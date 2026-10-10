@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【静岡駅前】駿河湾の戻り鰹・桜えび＆黒おでん！3,000円台〜泊まれる格安ホテル5選',
+  title: '静岡駅前：駿河湾の戻り鰹・桜えび＆黒おでん！3,000円台〜泊まれる格安ホテル5選',
   description: '秋の駿河湾がもたらす極上の戻り鰹や由比の桜えび、青葉横丁で熱々の静岡黒おでんを堪能！静岡駅周辺で1泊3,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetShizuokaStationHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>駿河湾の秋魚覚＆名物おでん横丁</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【静岡駅前】旬の桜えび・戻り鰹＆静岡黒おでん！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「静岡駅前」旬の桜えび・戻り鰹＆静岡黒おでん！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-teal-100/90 max-w-2xl mx-auto leading-relaxed">
             秋の駿河湾は脂の乗った戻り鰹や由比港の秋漁桜えびが旬を迎える絶好のグルメ期。青葉おでん街・青葉横丁の赤提灯をくぐり、牛すじや黒はんぺんに特製だし粉をたっぷりかけた名物おでんと静岡割りを満喫！駅近で3,000円台〜泊まれる優秀宿を厳選しました。
           </p>

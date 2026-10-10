@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '愛犬とずっと一緒！天然芝ドッグラン＆愛犬同伴温泉リゾート名宿×ふるさと納税完全ガイド【2026年最新】伊豆高原・那須高原・びわ湖長浜',
+  title: '愛犬とずっと一緒！天然芝ドッグラン＆愛犬同伴温泉リゾート名宿×ふるさと納税厳選ガイド伊豆高原・那須高原・びわ湖長浜',
   description: '大切な家族である愛犬と我慢なしの贅沢ステイ！バリ風ラグジュアリー温泉と愛犬用ビュッフェ・室内外ドッグランを誇る「ウブドの森 伊豆高原」、那須の森に佇む全室離れコテージと広大な天然芝ドッグラン「ホテルフォレストヒルズ那須」、全室レイクビュー＆客室温泉露天風呂付き最高峰ドッグリゾート「レジーナリゾートびわ湖長浜」。愛犬用アメニティ完備の名宿を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
   keywords: ["2026年最新", "伊豆高原", "那須高原", "びわ湖長浜", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: { canonical: baseUrl + '/furusato-tax-dog-friendly-dogrun-luxury-resort-stay/' },
   openGraph: {
-    title: '愛犬とずっと一緒！天然芝ドッグラン＆愛犬同伴温泉リゾート名宿×ふるさと納税完全ガイド【2026年最新】伊豆高原・那須高原・びわ湖長浜',
+    title: '愛犬とずっと一緒！天然芝ドッグラン＆愛犬同伴温泉リゾート名宿×ふるさと納税厳選ガイド伊豆高原・那須高原・びわ湖長浜',
     description: '大切な家族である愛犬と我慢なしの贅沢ステイ！バリ風ラグジュアリー温泉と愛犬用ビュッフェ・室内外ドッグランを誇る「ウブドの森 伊豆高原」、那須の森に佇む全室離れコテージと広大な天然芝ドッグラン「ホテルフォレストヒルズ那須」、全室レイクビュー＆客室温泉露天風呂付き最高峰ドッグリゾート「レジーナリゾートびわ湖長浜」。愛犬用アメニティ完備の名宿を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
     url: baseUrl + '/furusato-tax-dog-friendly-dogrun-luxury-resort-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoDogFriendlyResortStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             愛犬同伴＆広大ドッグラン付き極上リゾートホテル特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            愛犬とずっと一緒！天然芝ドッグラン＆愛犬同伴温泉リゾート名宿×ふるさと納税完全ガイド【2026年最新】伊豆高原・那須高原・びわ湖長浜
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">愛犬とずっと一緒！天然芝ドッグラン＆愛犬同伴温泉リゾート名宿×ふるさと納税厳選ガイド伊豆高原・那須高原・びわ湖長浜</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             旅行に行きたいけれど、大切な家族である愛犬をペットホテルに預けるのはかわいそう……そんな愛犬家の願いを100％叶えてくれるのが「愛犬同伴特化型ラグジュアリー温泉リゾート。」です。客室はもちろん、ロビー、レストラン、テラスに至るまで愛犬と一緒に過ごせるよう設計されており、ノーリードで思いきり走り回れる広大な天然芝ドッグランやアジリティ、雨の日でも安心な屋内ドッグランを完備。さらに愛犬専用の天然温泉バスタブや、プロの料理人が栄養バランスを考えて手作りする愛犬用ビュッフェまで用意されています。伊豆高原の静かな森に佇みバリ島のウブドを思わせる癒やしの空間と充実の愛犬サービスを誇る「ウブドの森 伊豆高原」、那須高原の豊かな自然林に囲まれ全室がコテージ仕様でプライベートドッグラン付き客室も揃う「ホテルフォレストヒルズ那須 with DOGS。」、そして日本最大の湖・琵琶湖の湖畔に建ち全室が温泉露天風呂付き＆愛犬と琵琶湖を一望できる「レジーナリゾートびわ湖長浜」。愛犬との絆を深める極上のリゾート旅を、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を使って実質自己負担2,000円で賢く予約し、家族みんなで笑顔になれる旅へ出かけましょう。
           </p>

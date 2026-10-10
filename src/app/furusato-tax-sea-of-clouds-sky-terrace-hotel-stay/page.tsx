@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-sea-of-clouds-sky-terrace-hotel-stay/" },
-  title: '雲海テラス＆天空パノラマリゾート×ふるさと納税完全ガイド【2026年最新】トマム・志賀高原・蔵王の雲上絶景ホテル',
+  title: '雲海テラス＆天空パノラマリゾート×ふるさと納税厳選ガイドトマム・志賀高原・蔵王の雲上絶景ホテル',
   description: '早朝、目の前を埋め尽くす幻想的な白銀の雲海！北海道トマムの雲海テラス、標高2,307m志賀高原渋峠、山形蔵王連峰の天空ホテルを楽天ふるさと納税宿泊クーポンでお得に予約する非日常ステイ。',
   keywords: ["雲海テラス", "2026年最新", "トマム", "志賀高原", "蔵王の雲上絶景ホテル", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: '雲海テラス＆天空パノラマリゾート×ふるさと納税完全ガイド【2026年最新】トマム・志賀高原・蔵王の雲上絶景ホテル',
+    title: '雲海テラス＆天空パノラマリゾート×ふるさと納税厳選ガイドトマム・志賀高原・蔵王の雲上絶景ホテル',
     description: '早朝、目の前を埋め尽くす幻想的な白銀の雲海！北海道トマムの雲海テラス、標高2,307m志賀高原渋峠、山形蔵王連峰の天空ホテルを楽天ふるさと納税宿泊クーポンでお得に予約する非日常ステイ。',
     url: 'https://croud-travel.pages.dev/furusato-tax-sea-of-clouds-sky-terrace-hotel-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FurusatoTaxPage() {
           <span className="inline-block px-4 py-1.5 rounded-full text-xs md:text-sm font-black bg-gradient-to-r from-amber-500 to-yellow-400 text-slate-950 mb-5 shadow-lg shadow-amber-500/20">
             雲海テラス・天空リゾート特集
           </span>
-          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">
-            雲海テラス＆天空パノラマリゾート×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">雲海テラス＆天空パノラマリゾート×ふるさと納税ガイド</h1>
           <p className="text-sm md:text-lg text-slate-300 leading-relaxed font-medium">
             早朝、目の前を埋め尽くす幻想的な白銀の雲海！北海道トマムの雲海テラス、標高2,307m志賀高原渋峠、山形蔵王連峰の天空ホテルを楽天ふるさと納税宿泊クーポンでお得に予約する非日常ステイ。
           </p>

@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/ishikawa-yamashiro-solo-retreat-onsen-stay/" },
-  title: '【山代温泉ひとり旅・加賀百万石おこもり】総湯・古総湯・加賀橋立港の海の幸！千三百年続く加賀温泉郷の歴史と美湯に浸る厳選3宿',
+  title: '山代温泉ひとり旅・加賀百万石おこもり：総湯・古総湯・加賀橋立港の海の幸！千三百年続く加賀温泉郷の歴史と美湯に浸る厳選3宿',
   description: '北陸新幹線加賀温泉駅直通！板前割烹の料理自慢で一人旅でも絶品会席が味わえる「ホテルききょう」、和の情緒と2つの源泉大浴場が評判の「葉渡莉」、多彩な露天風呂と加賀太鼓ショーが人気の名門「瑠璃光」を楽天API最新データに基づき徹底比較。',
   keywords: '山代温泉 一人旅 宿,山代温泉 ホテル 一人,ホテルききょう,葉渡莉,瑠璃光,山代温泉 古総湯 ひとり旅',
   openGraph: {
-    title: '【山代温泉ひとり旅・加賀百万石おこもり】総湯・古総湯・加賀橋立港の海の幸！千三百年続く加賀温泉郷の歴史と美湯に浸る厳選3宿',
+    title: '山代温泉ひとり旅・加賀百万石おこもり：総湯・古総湯・加賀橋立港の海の幸！千三百年続く加賀温泉郷の歴史と美湯に浸る厳選3宿',
     description: '北陸新幹線加賀温泉駅直通！板前割烹の料理自慢で一人旅でも絶品会席が味わえる「ホテルききょう」、和の情緒と2つの源泉大浴場が評判の「葉渡莉」、多彩な露天風呂と加賀太鼓ショーが人気の名門「瑠璃光」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/ishikawa-yamashiro-solo-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【山代温泉ひとり旅・加賀百万石おこもり】総湯・古総湯・加賀橋立港の海の幸！千三百年続く加賀温泉郷の歴史と美湯に浸る厳選3宿',
+    headline: '山代温泉ひとり旅・加賀百万石おこもり：総湯・古総湯・加賀橋立港の海の幸！千三百年続く加賀温泉郷の歴史と美湯に浸る厳選3宿',
     description: '北陸新幹線加賀温泉駅直通！板前割烹の料理自慢で一人旅でも絶品会席が味わえる「ホテルききょう」、和の情緒と2つの源泉大浴場が評判の「葉渡莉」、多彩な露天風呂と加賀太鼓ショーが人気の名門「瑠璃光」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             石川・山代温泉ひとり旅＆加賀伝統文化おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【山代温泉ひとり旅・加賀百万石おこもり】総湯・古総湯・加賀橋立港の海の幸！千三百年続く加賀温泉郷の歴史と美湯に浸る厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「山代温泉ひとり旅・加賀百万石おこもり」総湯・古総湯・加賀橋立港の海の幸！千三百年続く加賀温泉郷の歴史と美湯に浸る厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】千年の技と灯りに癒やされる。手漉き和紙空間＆伝統工芸体験ができる風情宿5選 | 日本全国・旅宿クラウド',
+  title: '2026年：千年の技と灯りに癒やされる。手漉き和紙空間＆伝統工芸体験ができる風情宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！越前・美濃・土佐の伝統手漉き和紙あかりに包まれる和モダン客室！紙漉き体験や工芸ギャラリー、名湯で日本の美意識に浸る名旅館5選。',
   keywords: ["2026年", "伝統工芸体験ができる風情宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: '【2026年】千年の技と灯りに癒やされる。手漉き和紙空間＆伝統工芸体験ができる風情宿5選',
+    title: '2026年：千年の技と灯りに癒やされる。手漉き和紙空間＆伝統工芸体験ができる風情宿5選',
     description: '2026年最新！越前・美濃・土佐の伝統手漉き和紙あかりに包まれる和モダン客室！紙漉き体験や工芸ギャラリー、名湯で日本の美意識に浸る名旅館5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/traditional-washi-paper-craft-onsen-stay',
@@ -193,9 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> 手漉き和紙アート×伝統美の隠れ宿
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】千年の技と灯りに癒やされる。手漉き和紙空間＆伝統工芸体験ができる風情宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」千年の技と灯りに癒やされる。手漉き和紙空間＆伝統工芸体験ができる風情宿5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             職人の繊細な手仕事が生み出す和紙の温かな質感と、行灯から漏れる柔らかな光。日本の美意識が息づく和紙アートに囲まれた客室で、静寂と名湯に浸る贅沢。日常を忘れさせる優美なクラフトリトリート。
           </p>

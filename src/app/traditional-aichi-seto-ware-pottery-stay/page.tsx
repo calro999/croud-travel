@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【瀬戸焼とうなぎ会席】伝統のやきもの美と三河一色産うなぎ！愛知・蒲郡・南知多の名湯宿5選",
+  title: "瀬戸焼とうなぎ会席：伝統のやきもの美と三河一色産うなぎ！愛知・蒲郡・南知多の名湯宿5選",
   description: "日本の陶磁器の代名詞「瀬戸焼」の器で供される、名物「三河一色産うなぎ」の蒲焼きやひつまぶし！三河湾・伊勢湾のオーシャンビュー温泉と、愛知が誇る食文化・伝統工芸を贅沢に味わう宿を徹底紹介。",
   keywords: "蒲郡 温泉 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/traditional-aichi-seto-ware-pottery-stay/",
   },
   openGraph: {
-    title: "【瀬戸焼とうなぎ会席】伝統のやきもの美と三河一色産うなぎ！愛知・蒲郡・南知多の名湯宿5選",
+    title: "瀬戸焼とうなぎ会席：伝統のやきもの美と三河一色産うなぎ！愛知・蒲郡・南知多の名湯宿5選",
     description: "日本の陶磁器の代名詞「瀬戸焼」の器で供される、名物「三河一色産うなぎ」の蒲焼きやひつまぶし！三河湾・伊勢湾のオーシャンビュー温泉と、愛知が誇る食文化・伝統工芸を贅沢に味わう宿を徹底紹介。",
     url: 'https://croud-travel.pages.dev/traditional-aichi-seto-ware-pottery-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【瀬戸焼とうなぎ会席】伝統のやきもの美と三河一色産うなぎ！愛知・蒲郡・南知多の名湯宿5選",
+    title: "瀬戸焼とうなぎ会席：伝統のやきもの美と三河一色産うなぎ！愛知・蒲郡・南知多の名湯宿5選",
     description: "日本の陶磁器の代名詞「瀬戸焼」の器で供される、名物「三河一色産うなぎ」の蒲焼きやひつまぶし！三河湾・伊勢湾のオーシャンビュー温泉と、愛知が誇る食文化・伝統工芸を贅沢に味わう宿を徹底紹介。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>瀬戸焼の器＆三河うなぎ美食</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【瀬戸焼とうなぎ会席】伝統のやきもの美と三河一色産うなぎ！愛知・蒲郡・南知多の名湯宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「瀬戸焼とうなぎ会席」伝統のやきもの美と三河一色産うなぎ！愛知・蒲郡・南知多の名湯宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             日本の陶磁器の代名詞「瀬戸焼」の器で供される、名物「三河一色産うなぎ」の蒲焼きやひつまぶし！三河湾・伊勢湾のオーシャンビュー温泉と、愛知が誇る食文化・伝統工芸を贅沢に味わう宿を徹底紹介。
           </p>

@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月妙高赤倉温泉】新潟和牛会席！名宿5選',
+  title: '妙高赤倉温泉で過ごす冬の旅（11・12月）！新潟和牛会席！名宿5選',
   description: '11月から12月にかけて新潟県・妙高山麓は、標高2,454mの日本百名山・妙高山が初雪の白銀に輝き、豪雪地帯ならではの純白の冬景色が広がります。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '赤倉温泉 宿泊, 妙高高原 11月 12月, 赤倉観光ホテル, ホテル太閤, 赤倉ホテル, お宿ふるや, 香風館, 妙高山 雪景色, 赤倉温泉 美肌の湯, 新潟 のどぐろ 宿, にいがた和牛 赤倉温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-niigata-myoko-akakura-onsen-snow-nodoguro-stay/"
   },
   openGraph: {
-    title: '【11・12月妙高赤倉温泉】新潟和牛会席！名宿5選',
+    title: '妙高赤倉温泉で過ごす冬の旅（11・12月）！新潟和牛会席！名宿5選',
     description: '11月から12月にかけて新潟県・妙高山麓は、標高2,454mの日本百名山・妙高山が初雪の白銀に輝き、豪雪地帯ならではの純白の冬景色が広がります。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-niigata-myoko-akakura-onsen-snow-nodoguro-stay',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -280,10 +280,7 @@ export default function AkakuraOnsenWinterFeature() {
             <Snowflake className="w-4 h-4" />
             11月・12月 冬の極上温泉特集｜新潟・妙高高原
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月新潟・妙高赤倉温泉】<br className="hidden sm:inline" />
-            初雪の妙高山とダブル美肌露天・冬のどぐろ＆新潟和牛会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">新潟・妙高赤倉温泉で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 初雪の妙高山とダブル美肌露天・冬のどぐろ＆新潟和牛会席の宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             開湯200余年、炭酸水素塩泉と硫酸塩泉が織りなす極上の美肌名湯。初雪に染まる霊峰・妙高山の雄姿を仰ぎ、冬の日本海から届く極上のどぐろとにいがた和牛を味わう至高の雪国リゾート。
           </p>

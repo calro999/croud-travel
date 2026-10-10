@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月北海道】千歳支笏湖ブルーの冬絶景！名宿5選',
+  title: '11・12・1月北海道：千歳支笏湖ブルーの冬絶景！名宿5選',
   description: '11月から1月、日本最北の不凍湖・支笏湖は、水質日本一に幾度も輝いた透明度が極限まで高まり。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '支笏湖 冬 旅行, 支笏湖氷濤まつり ホテル, 支笏湖温泉 宿, しこつ湖鶴雅リゾートスパ 水の謌, 丸駒温泉旅館 足元湧出, 支笏湖第一寶亭留 翠山亭, レイクサイドヴィラ翠明閣, 休暇村 支笏湖, 支笏湖ブルー, ヒメマス チップ料理, 白老牛 ステーキ, 11月 12月 1月 北海道旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hokkaido-shikotsuko-hyoto-blue-onsen-himemasu-stay/"
   },
   openGraph: {
-    title: '【11・12・1月北海道】千歳支笏湖ブルーの冬絶景！名宿5選',
+    title: '11・12・1月北海道：千歳支笏湖ブルーの冬絶景！名宿5選',
     description: '11月から1月、日本最北の不凍湖・支笏湖は、水質日本一に幾度も輝いた透明度が極限まで高まり。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-shikotsuko-hyoto-blue-onsen-himemasu-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月北海道】千歳支笏湖ブルーの冬絶景・支笏湖氷濤まつりと美肌の湯・冬の名物ヒメマス（チップ）料理＆白老牛を味わうレイクサイド名宿5選",
+    title: "11・12・1月北海道：千歳支笏湖ブルーの冬絶景・支笏湖氷濤まつりと美肌の湯・冬の名物ヒメマス（チップ）料理＆白老牛を味わうレイクサイド名宿5選",
     description: "11月から1月、日本最北の不凍湖・支笏湖は、水質日本一に幾度も輝いた透明度が極限まで高まり、息をのむほど深いコバルトブルー「支笏湖ブルー」を湛える静謐な冬の季節を迎えます。1月下旬から開催される北海道冬の二大祭典「千歳・支笏湖氷濤まつり」の壮大な氷のオブジェ群、雪化粧の樽前山と風不死岳のパノラマ、そして全国でも珍しい足元湧出の秘湯やとろとろ美肌の「支笏湖温泉」。新千歳空港から車でわずか約40分で出逢える、冬の名物ヒメマス（チップ）や白老牛を味わう厳選レイクサイド名宿5選と冬のモデルコースを詳しくお届けします。",
     images: ['https://images.unsplash.com/photo-1548199973-03cce0bbc87b?auto=format&fit=crop&w=1200&q=80']
   }
@@ -42,7 +42,7 @@ export default function HokkaidoShikotsukoHyotoWinterPage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: "【11・12・1月北海道】千歳支笏湖ブルーの冬絶景・支笏湖氷濤まつりと美肌の湯・冬の名物ヒメマス（チップ）料理＆白老牛を味わうレイクサイド名宿5選",
+    headline: "11・12・1月北海道：千歳支笏湖ブルーの冬絶景・支笏湖氷濤まつりと美肌の湯・冬の名物ヒメマス（チップ）料理＆白老牛を味わうレイクサイド名宿5選",
     description: "11月から1月、日本最北の不凍湖・支笏湖は、水質日本一に幾度も輝いた透明度が極限まで高まり、息をのむほど深いコバルトブルー「支笏湖ブルー」を湛える静謐な冬の季節を迎えます。1月下旬から開催される北海道冬の二大祭典「千歳・支笏湖氷濤まつり」の壮大な氷のオブジェ群、雪化粧の樽前山と風不死岳のパノラマ、そして全国でも珍しい足元湧出の秘湯やとろとろ美肌の「支笏湖温泉」。新千歳空港から車でわずか約40分で出逢える、冬の名物ヒメマス（チップ）や白老牛を味わう厳選レイクサイド名宿5選と冬のモデルコースを詳しくお届けします。",
     image: 'https://images.unsplash.com/photo-1548199973-03cce0bbc87b?auto=format&fit=crop&w=1200&q=80',
     datePublished: '',
@@ -282,9 +282,7 @@ export default function HokkaidoShikotsukoHyotoWinterPage() {
             <Snowflake className="w-4 h-4 text-indigo-300" />
             11月・12月・1月 冬の北海道・支笏湖ブルー＆氷濤まつり・美肌温泉特集
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【11・12・1月北海道】千歳支笏湖ブルーの冬絶景・支笏湖氷濤まつりと美肌の湯・冬の名物ヒメマス（チップ）料理＆白老牛を味わうレイクサイド名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「11・12・1月北海道」千歳支笏湖ブルーの冬絶景・支笏湖氷濤まつりと美肌の湯・冬の名物ヒメマス（チップ）料理＆白老牛を味わうレイクサイド名宿5選</h1>
           <p className="text-slate-300 text-sm sm:text-base md:text-lg max-w-3xl leading-relaxed">
             日本最北の不凍湖が魅せる奇跡の輝き「支笏湖ブルー」。透明度日本一を誇るカルデラ湖が純白の雪山に抱かれ、1月下旬には巨大な氷の彫刻が立ち並ぶ「氷濤まつり」が開幕します。冷気に包まれた静寂の森で、足元から湧き出る大正創業の秘湯や、トロリとした重曹泉の美肌温泉に浸かる至福。冬の名物ヒメマス（チップ）の繊細な旨味と極上の白老牛会席を堪能し、新千歳空港からわずか40分で出逢える北の大自然リゾートへご案内します。
           </p>

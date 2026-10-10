@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hyogo-kobe-arima-onsen-stay/" },
-  title: "【兵庫・神戸有馬温泉】金泉・銀泉の奇跡の名湯＆六甲山夜景・神戸牛極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "兵庫・神戸有馬温泉：金泉・銀泉の奇跡の名湯＆六甲山夜景・神戸牛極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "日本三古湯・日本三名泉の有馬温泉エリア完全特化！茶褐色の「金泉」と無色透明炭酸泉の「銀泉」、湯本坂レトロ散策、六甲有馬ロープウェー、極上神戸牛ステーキと老舗名門旅館を徹底解説。",
   keywords: ["兵庫", "神戸有馬温泉", "金泉", "銀泉の奇跡の名湯", "六甲山夜景", "神戸牛極上宿", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             ARIMA ONSEN MICRO GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【兵庫・神戸有馬温泉】金泉・銀泉の奇跡の名湯＆六甲山夜景・神戸牛極上宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「兵庫・神戸有馬温泉」金泉・銀泉の奇跡の名湯＆六甲山夜景・神戸牛極上宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             豊臣秀吉が愛した日本最古の温泉郷「有馬温泉」。湧出時は透明で空気に触れて赤褐色に輝く濃厚な「金泉」と、気泡が弾ける美肌の「銀泉」。六甲山の1000万ドルの夜景と、世界に誇る神戸牛に舌鼓を打つ極上の休日。
           </p>

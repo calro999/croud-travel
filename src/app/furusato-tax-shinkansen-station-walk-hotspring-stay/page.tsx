@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-shinkansen-station-walk-hotspring-stay/" },
-  title: '【車なし・雪道運転不要】新幹線駅直結＆駅徒歩圏内の名湯温泉旅館ふるさと納税ガイド | クラウドトラベル',
+  title: '車なし・雪道運転不要：新幹線駅直結＆駅徒歩圏内の名湯温泉旅館ふるさと納税ガイド | クラウドトラベル',
   description: 'レンタカー不要・冬の雪道運転が不安なシニアも安心！新幹線改札から徒歩すぐ、または無料送迎付きの越後湯沢・熱海・加賀温泉の名宿を厳選。手ぶらでスマートに行ける名湯ふるさと納税旅。',
   openGraph: {
-    title: '【車なし・雪道運転不要】新幹線駅直結＆駅徒歩圏内の名湯温泉旅館ふるさと納税ガイド | クラウドトラベル',
+    title: '車なし・雪道運転不要：新幹線駅直結＆駅徒歩圏内の名湯温泉旅館ふるさと納税ガイド | クラウドトラベル',
     description: 'レンタカー不要・冬の雪道運転が不安なシニアも安心！新幹線改札から徒歩すぐ、または無料送迎付きの越後湯沢・熱海・加賀温泉の名宿を厳選。手ぶらでスマートに行ける名湯ふるさと納税旅。',
     type: 'article',
   },
@@ -59,9 +59,7 @@ export default function Page() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             ふるさと納税×車なし・駅近名湯旅館
           </div>
-          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            【車なし・雪道運転不要】新幹線駅直結＆駅徒歩圏内の名湯温泉旅館ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">「車なし・雪道運転不要」新幹線駅直結＆駅徒歩圏内の名湯温泉旅館ふるさと納税ガイド</h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl mb-6">
             「地方の名湯に泊まりたいけれど、慣れない土地でのレンタカー運転が苦手。」「冬の温泉に行きたいけれど、凍結した雪道を運転するのが怖い。」「免許を返納した親を温泉に連れて行ってあげたい。」。そんな旅行者から絶大な支持を集めているのが、新幹線の駅から徒歩圏内、または駅前から無料送迎が直結している駅近名湯宿です。移動中の渋滞や運転のプレッシャーが一切なく、駅弁をつまみながら地酒を飲み、新幹線を降りたらすぐに旅館の温かいお出迎えを受けられます。さらに楽天ふるさと納税のトラベルクーポンを活用すれば、新幹線停車駅を擁する湯沢町、熱海市、加賀市などの名門温泉旅館に実質30％割引でステイ可能。手軽さと贅沢を両立したスマートな温泉旅をご紹介します。
           </p>

@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月かみ】特選山形牛すき焼き！名宿5選',
+  title: 'かみで過ごす冬の旅（11・12月）！特選山形牛すき焼き！名宿5選',
   description: '11月から12月にかけて山形県上山市の奥座敷「かみのやま温泉」は、初冠雪を戴く蔵王連峰の雄大な稜線を背景に。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: 'かみのやま温泉 宿泊, かみのやま温泉 11月 12月, 名月荘 かみのやま, 日本の宿 古窯, 葉山舘, 月岡ホテル, 月の池, 山形牛 すき焼き 宿, 紅柿 干し柿 山形, 蔵王 雪見露天風呂',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamagata-kaminoyama-onsen-hoshigaki-yamagata-beef-stay/"
   },
   openGraph: {
-    title: '【11・12月かみ】特選山形牛すき焼き！名宿5選',
+    title: 'かみで過ごす冬の旅（11・12月）！特選山形牛すき焼き！名宿5選',
     description: '11月から12月にかけて山形県上山市の奥座敷「かみのやま温泉」は、初冠雪を戴く蔵王連峰の雄大な稜線を背景に。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-yamagata-kaminoyama-onsen-hoshigaki-yamagata-beef-stay',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -280,10 +280,7 @@ export default function KaminoyamaOnsenWinterFeature() {
             <Snowflake className="w-4 h-4" />
             11月・12月 冬の極上名湯特集｜山形・かみのやま温泉
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月山形・かみのやま温泉】<br className="hidden sm:inline" />
-            初冬の干し柿暖簾と開湯五百六十年美肌泉・山形牛すき焼きの宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">山形・かみのやま温泉で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 初冬の干し柿暖簾と開湯五百六十年美肌泉・山形牛すき焼きの宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             蔵王連峰の初雪冠雪を望み、軒先をオレンジ色に染める伝統の紅柿すだれ。鶴が傷を癒やした室町開湯の美肌名湯と、とろける極上山形牛を味わう大人の初冬湯治。
           </p>

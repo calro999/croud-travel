@@ -42,9 +42,7 @@ export default function Page() {
             <span className="inline-block w-2 h-2 rounded-full bg-rose-400 animate-pulse" />
             日本三大火祭り・魂の炎特集
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">
-            日本三大火祭り＆燃え盛る情熱の伝統宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三大火祭り＆燃え盛る情熱の伝統宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg md:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed font-normal">
             夜空を焦がす大松明と飛び散る火の粉！和歌山「那智の火祭」世界遺産熊野那智大社の大松明と南紀勝浦温泉ホテル浦島、長野「野沢温泉の道祖神祭り」天下の奇祭と名門河一屋旅館、京都「鞍馬の火祭」街道を埋め尽くす炎の乱舞とザ・プリンス京都宝ヶ池。日本三大火祭りの圧倒的な迫力と熱気を楽天ふるさと納税宿泊クーポンでお得に体験する完全ガイド。
           </p>

@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/event-expedition-oshi-live-comfort-stay/" },
-  title: '【ライブ・舞台遠征泊】会場徒歩すぐ＆大画面ミラーリング・推し活応援！遠征民のための快適拠点ホテル 厳選3選',
+  title: 'ライブ・舞台遠征泊：会場徒歩すぐ＆大画面ミラーリング・推し活応援！遠征民のための快適拠点ホテル 厳選3選',
   description: '東京ドーム、Zepp Shinjuku、ぴあアリーナMM・Kアリーナ横浜などでのライブや観劇・フェス遠征を最高の思い出に！ドーム目の前でうちわも入る限定プランがある「東京ドームホテル」、歌舞伎町タワー直結で大画面スピーカー搭載の「HOTEL GROOVE SHINJUKU。」、みなとみらいのライブ会場へ徒歩圏の「横浜東急REIホテル」を徹底特集。',
   keywords: '東京ドーム 遠征 ホテル,推し活 ホテル 東京,ライブ遠征 ホテル おすすめ,ぴあアリーナ ホテル,HOTEL GROOVE SHINJUKU 遠征',
   openGraph: {
-    title: '【ライブ・舞台遠征泊】会場徒歩すぐ＆大画面ミラーリング・推し活応援！遠征民のための快適拠点ホテル 厳選3選',
+    title: 'ライブ・舞台遠征泊：会場徒歩すぐ＆大画面ミラーリング・推し活応援！遠征民のための快適拠点ホテル 厳選3選',
     description: '東京ドーム、Zepp Shinjuku、ぴあアリーナMM・Kアリーナ横浜などでのライブや観劇・フェス遠征を最高の思い出に！ドーム目の前でうちわも入る限定プランがある「東京ドームホテル」、歌舞伎町タワー直結で大画面スピーカー搭載の「HOTEL GROOVE SHINJUKU。」、みなとみらいのライブ会場へ徒歩圏の「横浜東急REIホテル」を徹底特集。',
     url: 'https://croud-travel.pages.dev/event-expedition-oshi-live-comfort-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【ライブ・舞台遠征泊】会場徒歩すぐ＆大画面ミラーリング・推し活応援！遠征民のための快適拠点ホテル 厳選3選',
+    headline: 'ライブ・舞台遠征泊：会場徒歩すぐ＆大画面ミラーリング・推し活応援！遠征民のための快適拠点ホテル 厳選3選',
     description: '東京ドーム、Zepp Shinjuku、ぴあアリーナMM・Kアリーナ横浜などでのライブや観劇・フェス遠征を最高の思い出に！ドーム目の前でうちわも入る限定プランがある「東京ドームホテル」、歌舞伎町タワー直結で大画面スピーカー搭載の「HOTEL GROOVE SHINJUKU。」、みなとみらいのライブ会場へ徒歩圏の「横浜東急REIホテル」を徹底特集。',
     author: {
       '@type': 'Organization',
@@ -74,9 +74,7 @@ export default function ArticlePage() {
           <span>✨</span>
           <span>ライブ遠征・推し活特化特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【ライブ・舞台遠征泊】会場徒歩すぐ＆大画面ミラーリング・推し活応援！遠征民のための快適拠点ホテル 厳選3選
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">「ライブ・舞台遠征泊」会場徒歩すぐ＆大画面ミラーリング・推し活応援！遠征民のための快適拠点ホテル 厳選3選</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
           東京ドーム、Zepp Shinjuku、ぴあアリーナMM・Kアリーナ横浜などでのライブや観劇・フェス遠征を最高の思い出に！ドーム目の前でうちわも入る限定プランがある「東京ドームホテル」、歌舞伎町タワー直結で大画面スピーカー搭載の「HOTEL GROOVE SHINJUKU。」、みなとみらいのライブ会場へ徒歩圏の「横浜東急REIホテル」を徹底特集。
         </p>

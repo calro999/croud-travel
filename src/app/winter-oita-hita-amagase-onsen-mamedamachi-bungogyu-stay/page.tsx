@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月日田温泉＆天瀬温泉】水郷ひたの初冬川霧と天領豆田！名宿5選',
+  title: '日田温泉＆天瀬温泉で過ごす冬の旅（11・12月）！水郷ひたの初冬川霧と天領豆田！名宿5選',
   description: '11月中旬から12月の初冬を迎えた大分県日田市は、阿蘇や九重連山を源流とする清流・三隈川（みくまがわ）から立ちのぼる幻想的な朝霧「川霧」に包まれ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '日田温泉 宿泊, 天瀬温泉 旅館, 豆田町 小江戸, おおいた豊後牛, 三隈川 川霧, 山荘天水 亀山亭 うめひびき, 天領 日田観光, 玖珠川 露天風呂, 11月 12月 大分旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-oita-hita-amagase-onsen-mamedamachi-bungogyu-stay/"
   },
   openGraph: {
-    title: '【11・12月日田温泉＆天瀬温泉】水郷ひたの初冬川霧と天領豆田！名宿5選',
+    title: '日田温泉＆天瀬温泉で過ごす冬の旅（11・12月）！水郷ひたの初冬川霧と天領豆田！名宿5選',
     description: '11月中旬から12月の初冬を迎えた大分県日田市は、阿蘇や九重連山を源流とする清流・三隈川（みくまがわ）から立ちのぼる幻想的な朝霧「川霧」に包まれ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-oita-hita-amagase-onsen-mamedamachi-bungogyu-stay',
     siteName: 'クラドトラベル',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月日田温泉＆天瀬温泉】水郷ひたの初冬川霧と天領豆田町の小江戸情緒・玖珠川渓流露天とおおいた豊後牛・初冬鮎うるかを味わう名宿5選",
+    title: "日田温泉＆天瀬温泉で過ごす冬の旅（11・12月）！水郷ひたの初冬川霧と天領豆田町の小江戸情緒・玖珠川渓流露天とおおいた豊後牛・初冬鮎うるかを味わう名宿5選",
     description: "11月中旬から12月の初冬を迎えた大分県日田市は、阿蘇や九重連山を源流とする清流・三隈川（みくまがわ）から立ちのぼる幻想的な朝霧「川霧」に包まれ、水郷情緒が最もロマンチックに高まる季節を迎えます。江戸幕府の西国筋郡代が置かれた天領として繁栄した豆田町（まめだまち）には、白壁土蔵や格子窓の商家が連なり、まるで江戸時代にタイムスリップしたかのような風情が漂います。日田温泉の屋形船が浮かぶ川沿いの温泉街から、少し足を伸ばせば玖珠川（くすがわ）の渓流沿いに野趣あふれる露天風呂が点在する「天瀬温泉（あまがせおんせん）」、さらには響渓谷の断崖絶景を見下ろす「奥日田温泉」まで、多彩な名湯が旅人を迎えます。初冬の食卓を飾るのは、美しい霜降りと芳醇な脂の甘みが際立つ「おおいた豊後牛（おおいた和牛）」のすき焼きやステーキ、卵を抱いた冬の子持ち鮎の甘露煮や珍味「鮎うるか」、地鶏鍋、そして地元で愛されるパリッと香ばしい「日田やきそば」。水と緑と歴史が織りなす初冬の豊後路を満喫する厳選宿5選を詳しく紹介します。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -368,9 +368,7 @@ export default function OitaHitaAmagaseWinterPage() {
             <Sparkles className="w-3.5 h-3.5" />
             11月・12月初冬の水郷名湯＆豊後美食特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold tracking-tight text-white leading-tight">
-            {metadata.title as string}
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold tracking-tight text-white leading-tight">{metadata.title as string}</h1>
           <p className="text-xs sm:text-sm text-stone-300 leading-relaxed pt-2">
             三隈川を包む幻想的な朝霧「川霧」と天領豆田町の白壁土蔵。
             玖珠川渓流露天風呂のせせらぎ、最高峰おおいた豊後牛と初冬鮎料理、大山の芳醇な梅酒に酔いしれる初冬の旅。

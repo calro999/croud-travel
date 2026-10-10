@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/yamaguchi-nagato-yumoto-motonosumi-shrine-stay/" },
-  title: "【山口・長門湯本温泉＆元乃隅神社】日本海望む123基赤鳥居・恩湯リノベ温泉街宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "山口・長門湯本温泉＆元乃隅神社：日本海望む123基赤鳥居・恩湯リノベ温泉街宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "CNN世界最長クラスの絶景鳥居と奇跡の再生温泉街・山口長門エリア完全特化！日本海へ連なる123基の赤鳥居「元乃隅神社」、国の名勝「青海島」、星野リゾート監修で美しく再生した「長門湯本温泉（恩湯・飛び石遊歩道・川床宿）。」を徹底解説。",
   keywords: ["山口", "長門湯本温泉", "元乃隅神社", "日本海望む123基赤鳥居", "恩湯リノベ温泉街宿", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             NAGATO YUMOTO & MOTONOSUMI GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【山口・長門湯本温泉＆元乃隅神社】日本海望む123基赤鳥居・恩湯リノベ温泉街宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「山口・長門湯本温泉＆元乃隅神社」日本海望む123基赤鳥居・恩湯リノベ温泉街宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-teal-100/90 leading-relaxed">
             青い日本海と断崖絶壁に向かって123基の朱色鳥居がトンネルのように連なる奇跡の絶景「元乃隅（もとのすみ）神社」。「長門富士」の麓、音信川（おとづれがわ）沿いに竹林や飛び石、川床カフェが美しくリノベーションされた「長門湯本温泉」。名湯「恩湯」と日本海の旬魚を味わう旅。
           </p>

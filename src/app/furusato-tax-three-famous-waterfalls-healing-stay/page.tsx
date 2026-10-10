@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-famous-waterfalls-healing-stay/" },
-  title: '日本三大名瀑ヒーリング＆マイナスイオンの清流・名水と豪快な滝見温泉宿×ふるさと納税完全ガイド【2026年最新】白糸の滝・吹割の滝・鮎帰りの滝',
+  title: '日本三大名瀑ヒーリング＆マイナスイオンの清流・名水と豪快な滝見温泉宿×ふるさと納税厳選ガイド白糸の滝・吹割の滝・鮎帰りの滝',
   description: '大自然のマイナスイオンを浴びる名瀑ヒーリング旅！静岡富士宮「白糸の滝」富士山伏流水の絹糸カーテンと休暇村富士、群馬沼田「吹割の滝」東洋のナイアガラと老神温泉仙郷、長崎南島原「鮎帰りの滝」名水百選の清流巨岩と小浜温泉旅館國崎。日本三大名瀑の豪快な水煙と温泉ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大名瀑・清流ヒーリング特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大名瀑ヒーリング＆マイナスイオンの清流・名水と豪快な滝見温泉宿×ふるさと納税完全ガイド【2026年最新】白糸の滝・吹割の滝・鮎帰りの滝',
+    title: '日本三大名瀑ヒーリング＆マイナスイオンの清流・名水と豪快な滝見温泉宿×ふるさと納税厳選ガイド白糸の滝・吹割の滝・鮎帰りの滝',
     description: '大自然のマイナスイオンを浴びる名瀑ヒーリング旅！静岡富士宮「白糸の滝」富士山伏流水の絹糸カーテンと休暇村富士、群馬沼田「吹割の滝」東洋のナイアガラと老神温泉仙郷、長崎南島原「鮎帰りの滝」名水百選の清流巨岩と小浜温泉旅館國崎。日本三大名瀑の豪快な水煙と温泉ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-famous-waterfalls-healing-stay',
@@ -142,9 +142,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大名瀑・清流ヒーリング特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大名瀑ヒーリング＆豪快な滝見温泉宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大名瀑ヒーリング＆豪快な滝見温泉宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             豊かな山林と清らかな水源に恵まれた日本列島が誇る、個性際立つ名瀑の数々「日本三大名瀑ヒーリング」――富士山の雪解け水が溶岩の断層から幅約150mにわたって絹糸のように流れ落ちる国の名勝・天然記念物・静岡の「白糸の滝」、片品川の清流が岩盤を浸食し幅約30m・高さ約7mにわたって三方から水煙を上げて落下し「東洋のナイアガラ」と称される群馬沼田の「吹割の滝」、そして島原半島の名峰・雲仙山麓の巨岩を割るように清流が滝壺へと雪崩れ落ち絵画のような景観を誇る長崎南島原の「鮎帰りの滝」。轟く滝音に心を清め、天然温泉に身を委ねて地域の山海の馳走を味わう極上の休日を楽天ふるさと納税でお楽しみください。
           </p>

@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月愛知】三種の神器を祀る「熱田神宮」新春初詣！名宿5選',
+  title: '11・12・1月愛知：三種の神器を祀る「熱田神宮」新春初詣！名宿5選',
   description: '11月の晩秋から新春1月にかけて、年間約200万人以上の参拝客で賑わう東海随一の聖地「熱田神宮」。三種の神器の一つ「草薙神剣（くさなぎのみつ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '熱田神宮 初詣, 熱田神宮 ひつまぶし, 名古屋 冬 旅行, 名古屋コーチン 鍋, 名古屋マリオットアソシアホテル, ANAクラウンプラザホテルグランコート名古屋, 名古屋観光ホテル, ヒルトン名古屋, 三井ガーデンホテル名古屋プレミア, 11月 12月 1月 愛知 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-aichi-nagoya-atsuta-jingu-hatsumode-hitsumabushi-stay/"
   },
   openGraph: {
-    title: '【11・12・1月愛知】三種の神器を祀る「熱田神宮」新春初詣！名宿5選',
+    title: '11・12・1月愛知：三種の神器を祀る「熱田神宮」新春初詣！名宿5選',
     description: '11月の晩秋から新春1月にかけて、年間約200万人以上の参拝客で賑わう東海随一の聖地「熱田神宮」。三種の神器の一つ「草薙神剣（くさなぎのみつ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-aichi-nagoya-atsuta-jingu-hatsumode-hitsumabushi-stay',
     type: 'article',
@@ -236,12 +236,7 @@ export default function AichiNagoyaAtsutaPage() {
             11月・12月・1月 三種の神器新春初詣＆名古屋グルメ特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-tight sm:leading-snug text-stone-100 font-serif">
-            草薙神剣が鎮まる熱田の杜と香ばしき秘伝の鰻<br />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-200 via-amber-300 to-yellow-200">
-              熱田神宮の新春初詣＆名物「本場ひつまぶし」・極上名古屋コーチン鍋の名宿
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-tight sm:leading-snug text-stone-100 font-serif">草薙神剣が鎮まる熱田の杜と香ばしき秘伝の鰻<br /> <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-200 via-amber-300 to-yellow-200"> 熱田神宮の新春初詣＆名物「本場ひつまぶし」・極上名古屋コーチン鍋の名宿 </span></h1>
 
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed max-w-3xl mx-auto font-light">
             三種の神器の一つ「草薙神剣」をお祀りする東海屈指の大社・熱田神宮。織田信長が祈願した信長塀や樹齢千年の大楠が厳かな空気を放つ熱田の杜で、一年の開運を願う新春初詣。熱田発祥のカリッと香ばしい「本場ひつまぶし」、冬の寒さに染み渡る濃厚な「名古屋コーチン鍋」、そして都会の夜を彩るイルミネーションと洗練されたホテルステイをご案内します。

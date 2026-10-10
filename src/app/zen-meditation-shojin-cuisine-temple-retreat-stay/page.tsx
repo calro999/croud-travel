@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/zen-meditation-shojin-cuisine-temple-retreat-stay/" },
-  title: '禅寺坐禅体験＆精進料理宿坊完全ガイド【高野山・永平寺・京都リトリート】 | クラウドトラベル',
+  title: '禅寺坐禅体験＆精進料理宿坊厳選ガイド「高野山・永平寺・京都リトリート」 | クラウドトラベル',
   description: '世界遺産高野山の歴史ある宿坊、福井・大本山永平寺門前、京都妙心寺界隈の枯山水庭園を望む禅体験宿を特集。朝のお勤め、護摩祈祷、本格精進料理で雑念を払い心を整えるリトリートステイ。',
   openGraph: {
-    title: '禅寺坐禅体験＆精進料理宿坊完全ガイド【高野山・永平寺・京都リトリート】 | クラウドトラベル',
+    title: '禅寺坐禅体験＆精進料理宿坊厳選ガイド「高野山・永平寺・京都リトリート」 | クラウドトラベル',
     description: '世界遺産高野山の歴史ある宿坊、福井・大本山永平寺門前、京都妙心寺界隈の枯山水庭園を望む禅体験宿を特集。朝のお勤め、護摩祈祷、本格精進料理で雑念を払い心を整えるリトリートステイ。',
     type: 'article',
   },
@@ -59,9 +59,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             坐禅・精進料理・宿坊特化
           </div>
-          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            禅寺坐禅体験＆精進料理宿坊完全ガイド【高野山・永平寺・京都リトリート】
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">禅寺坐禅体験＆精進料理宿坊厳選ガイド「高野山・永平寺・京都リトリート」</h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl">
             朝露に濡れる苔庭、早朝の澄んだ空気に響く鐘の音と読経。日常の喧騒や情報過多のデジタル社会から身を置き、呼吸を整えて無心になる「坐禅（ざぜん）体験」。五味五色五法に基づき命に感謝していただく色彩豊かな「精進料理」、そして僧侶とともに過ごす「朝のお勤め」。現代人の心身を芯からリセットする、本物の禅と宿坊の旅へご案内します。
           </p>

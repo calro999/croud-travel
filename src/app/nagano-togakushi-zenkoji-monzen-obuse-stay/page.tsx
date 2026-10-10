@@ -5,11 +5,11 @@ import Image from 'next/image';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagano-togakushi-zenkoji-monzen-obuse-stay/" },
-  title: '【長野・戸隠＆善光寺門前】戸隠杉並木・お朝事まいり＆小布施栗宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+  title: '長野・戸隠＆善光寺門前：戸隠杉並木・お朝事まいり＆小布施栗宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
   description: '天の岩戸神話が息づく霊峰・戸隠神社五社（奥社巨木杉並木・中社・宝光社・九頭龍社・火之御子社）、日本屈指の戸隠そば銘店、一生に一度は訪れたい「信州善光寺」のお朝事とお戒壇巡り、葛飾北斎と栗菓子の小布施町並みを巡る宿を徹底解説。',
   keywords: ["長野", "戸隠", "善光寺門前", "戸隠杉並木", "お朝事まいり", "小布施栗宿", "温泉宿"],
   openGraph: {
-    title: '【長野・戸隠＆善光寺門前】戸隠杉並木・お朝事まいり＆小布施栗宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+    title: '長野・戸隠＆善光寺門前：戸隠杉並木・お朝事まいり＆小布施栗宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
     description: '天の岩戸神話が息づく霊峰・戸隠神社五社（奥社巨木杉並木・中社・宝光社・九頭龍社・火之御子社）、日本屈指の戸隠そば銘店、一生に一度は訪れたい「信州善光寺」のお朝事とお戒壇巡り、葛飾北斎と栗菓子の小布施町並みを巡る宿を徹底解説。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/nagano-togakushi-zenkoji-monzen-obuse-stay',
@@ -50,9 +50,7 @@ export default function Page() {
             <span>🗺️</span>
             <span>TOGAKUSHI & ZENKOJI HERITAGE GUIDE</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">
-            【長野・戸隠＆善光寺門前・小布施】戸隠神社五社・杉並木・善光寺お朝事＆小布施栗宿 完全ガイド
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">「長野・戸隠＆善光寺門前・小布施」戸隠神社五社・杉並木・善光寺お朝事＆小布施栗宿 厳選ガイド</h1>
           <p className="max-w-3xl mx-auto text-stone-300 text-sm sm:text-base md:text-lg leading-relaxed mb-8">
             神話の時代、天の岩戸が飛来してできたと伝わる霊峰「戸隠山」。樹齢400年を超える巨大な杉並木が神域へと誘う「戸隠神社」五社巡りと、香り高い伝統の「戸隠そば」。宗派を問わず万民を受け入れる信州の象徴「善光寺」での荘厳なお朝事・お数珠頂戴。そして葛飾北斎が晩年を過ごした栗と白壁の町「小布施」。歴史と神秘、美食が重なり合う北信濃の極上リトリートステイへご案内します。
           </p>

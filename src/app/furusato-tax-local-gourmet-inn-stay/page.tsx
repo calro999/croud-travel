@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-local-gourmet-inn-stay/" },
-  title: '【舌鼓を打つ美食旅】高千穂牛・あなご・伊勢海老！ご当地グルメ宿をふるさと納税で堪能する旅 | クラウドトラベル',
+  title: '舌鼓を打つ美食旅：高千穂牛・あなご・伊勢海老！ご当地グルメ宿をふるさと納税で堪能する旅 | クラウドトラベル',
   description: '旅の醍醐味は現地の味覚！宮崎の高千穂牛、岡山の名物あなご料理、三重・鳥羽の伊勢海老＆鮑尽くしなど、料理が評判の名宿を楽天ふるさと納税クーポンでお得に楽しむ美食トリップ完全ガイド。',
   openGraph: {
-    title: '【舌鼓を打つ美食旅】高千穂牛・あなご・伊勢海老！ご当地グルメ宿をふるさと納税で堪能する旅 | クラウドトラベル',
+    title: '舌鼓を打つ美食旅：高千穂牛・あなご・伊勢海老！ご当地グルメ宿をふるさと納税で堪能する旅 | クラウドトラベル',
     description: '旅の醍醐味は現地の味覚！宮崎の高千穂牛、岡山の名物あなご料理、三重・鳥羽の伊勢海老＆鮑尽くしなど、料理が評判の名宿を楽天ふるさと納税クーポンでお得に楽しむ美食トリップ完全ガイド。',
     type: 'article',
   },
@@ -59,9 +59,7 @@ export default function Page() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             ふるさと納税×ご当地グルメ特化宿
           </div>
-          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            【舌鼓を打つ美食旅】高千穂牛・あなご・伊勢海老！ご当地グルメ宿をふるさと納税で堪能する旅
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">「舌鼓を打つ美食旅」高千穂牛・あなご・伊勢海老！ご当地グルメ宿をふるさと納税で堪能する旅</h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl mb-6">
             「旅先での一番の楽しみは、その土地ならではの美味しい料理。」。そんな食通トラベラーにこそ強くおすすめしたいのが、地方の食材や郷土の味を極めた料理自慢の宿へのふるさと納税ステイです。楽天ふるさと納税で自治体に寄付し、返礼品として手に入れたトラベルクーポンを使えば、地元でしか出回らない希少なブランド牛や、港町で揚がったばかりの天然あなご、獲れたての伊勢海老・鮑を贅沢に使った特別会席が実質負担を抑えて楽しめます。自治体の生産者や料理人の情熱が詰まったごちそうを宿で心ゆくまで味わい、そのまま温かいお風呂に入って眠りにつく――これ以上ない贅沢な美食の旅をご紹介します。
           </p>

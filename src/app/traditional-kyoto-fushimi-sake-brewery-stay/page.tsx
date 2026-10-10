@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】名水と酒蔵の歴史薫る街。京都伏見の酒蔵巡り＆名水仕込み京料理の風情宿5選 | 日本全国・旅宿クラウド',
+  title: '2026年：名水と酒蔵の歴史薫る街。京都伏見の酒蔵巡り＆名水仕込み京料理の風情宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！坂本龍馬ゆかりの伏見十石舟と白壁酒蔵巡り！名水「伏水」仕込みの利き酒セットと旬の京料理を堪能する京都・伏見のおすすめ名宿5選。',
   keywords: ["2026年", "名水仕込み京料理の風情宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: '【2026年】名水と酒蔵の歴史薫る街。京都伏見の酒蔵巡り＆名水仕込み京料理の風情宿5選',
+    title: '2026年：名水と酒蔵の歴史薫る街。京都伏見の酒蔵巡り＆名水仕込み京料理の風情宿5選',
     description: '2026年最新！坂本龍馬ゆかりの伏見十石舟と白壁酒蔵巡り！名水「伏水」仕込みの利き酒セットと旬の京料理を堪能する京都・伏見のおすすめ名宿5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/traditional-kyoto-fushimi-sake-brewery-stay',
@@ -193,9 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> 京都伏見酒蔵巡り×名水京料理
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】名水と酒蔵の歴史薫る街。京都伏見の酒蔵巡り＆名水仕込み京料理の風情宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」名水と酒蔵の歴史薫る街。京都伏見の酒蔵巡り＆名水仕込み京料理の風情宿5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             柳並木が揺れる宇治川派流と白壁土蔵が連なる風情ある伏見の街並み。銘酒を生み出す名水で丁寧に仕込まれた京料理と日本酒ペアリング、十石舟クルーズを愉しみ、古都の情緒あふれるモダン空間で寛ぐ大人の京都旅。
           </p>

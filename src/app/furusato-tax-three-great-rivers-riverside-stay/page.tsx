@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '日本三大河川の雄大な流れを望むリバーサイド名湯宿×ふるさと納税完全ガイド【2026年最新】利根川・筑後川・吉野川',
+  title: '日本三大河川の雄大な流れを望むリバーサイド名湯宿×ふるさと納税厳選ガイド利根川・筑後川・吉野川',
   description: '坂東太郎（利根川）・筑紫次郎（筑後川）・四国三郎（吉野川）と称される日本三大河川の雄大な流域美とせせらぎに癒やされる旅。水上温泉、筑後川温泉、大歩危峡の絶景露天風呂を厳選。楽天ふるさと納税の宿泊割引クーポンを活用して賢く贅沢に巡る完全ガイド。',
   keywords: ["2026年最新", "利根川", "筑後川", "吉野川", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-rivers-riverside-stay/",
   },
   openGraph: {
-    title: '日本三大河川の雄大な流れを望むリバーサイド名湯宿×ふるさと納税完全ガイド【2026年最新】利根川・筑後川・吉野川',
+    title: '日本三大河川の雄大な流れを望むリバーサイド名湯宿×ふるさと納税厳選ガイド利根川・筑後川・吉野川',
     description: '坂東太郎（利根川）・筑紫次郎（筑後川）・四国三郎（吉野川）と称される日本三大河川の雄大な流域美とせせらぎに癒やされる旅。水上温泉、筑後川温泉、大歩危峡の絶景露天風呂を厳選。楽天ふるさと納税の宿泊割引クーポンを活用して賢く贅沢に巡る完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-rivers-riverside-stay',
     siteName: '旅宿クラウド',
@@ -108,9 +108,7 @@ export default function FurusatoUpgradedPage() {
             <span>✨</span>
             <span>日本三大河川・水辺の名湯特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            日本三大河川の雄大な流れを望むリバーサイド名湯宿×ふるさと納税完全ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">日本三大河川の雄大な流れを望むリバーサイド名湯宿×ふるさと納税厳選ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             古来より日本の風土と文化を育んできた三大河川「坂東太郎・利根川」「筑紫次郎・筑後川」「四国三郎・吉野川」。滔々と流れる大河のせせらぎやダイナミックな峡谷を望む露天風呂は、日々の喧騒を洗い流してくれる格別の癒やし空間です。本特集では、大河のほとりに佇む屈指の名旅館・リゾートを厳選。楽天ふるさと納税のトラベルクーポンを利用して、実質2,000円の自己負担で実現する極上リバーサイドステイへご案内します。
           </p>

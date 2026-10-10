@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '神秘のコバルトブルー・カルデラ湖畔ホテル×ふるさと納税完全ガイド【2026年最新】支笏湖・屈斜路湖・田沢湖の美景',
+  title: '神秘のコバルトブルー・カルデラ湖畔ホテル×ふるさと納税厳選ガイド支笏湖・屈斜路湖・田沢湖の美景',
   description: '日本屈指の透明度を誇るカルデラ湖！北海道支笏湖の神秘の青「支笏湖ブルー」、道東屈斜路湖・摩周湖の霧と砂湯露天、秋田田沢湖の日本一深い瑠璃色湖水と乳頭温泉郷。湖畔の静寂と上質な温泉リゾートを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: ["神秘のコバルトブルー", "2026年最新", "支笏湖", "屈斜路湖", "田沢湖の美景", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-caldera-blue-lake-resort-stay/"
   },
   openGraph: {
-    title: '神秘のコバルトブルー・カルデラ湖畔ホテル×ふるさと納税完全ガイド【2026年最新】支笏湖・屈斜路湖・田沢湖の美景',
+    title: '神秘のコバルトブルー・カルデラ湖畔ホテル×ふるさと納税厳選ガイド支笏湖・屈斜路湖・田沢湖の美景',
     description: '日本屈指の透明度を誇るカルデラ湖！北海道支笏湖の神秘の青「支笏湖ブルー」、道東屈斜路湖・摩周湖の霧と砂湯露天、秋田田沢湖の日本一深い瑠璃色湖水と乳頭温泉郷。湖畔の静寂と上質な温泉リゾートを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-caldera-blue-lake-resort-stay',
     type: 'article',
@@ -54,9 +54,7 @@ export default function FurusatoFeaturePage() {
             <span>✨</span>
             <span>カルデラ湖・レイクサイドリゾート特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            神秘のコバルトブルー・カルデラ湖畔ホテル×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">神秘のコバルトブルー・カルデラ湖畔ホテル×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             火山の噴火によって形成された雄大なカルデラ湖。どこまでも透き通る青のグラデーション、湖面に映り込む四季折々の山影、そして朝霧が立ち込める幻想的な水辺。観光客の喧騒から離れたカルデラ湖畔には、湖を一望する絶景客室や、天然温泉の展望露天風呂を備えた隠れ家リゾートホテルが佇んでいます。カヌーやSUPで湖上散歩を楽しんだ後は、地元の旬食材を使ったディナーに舌鼓を打つ――そんな贅沢な休日を楽天ふるさと納税でお得に叶えましょう。
           </p>

@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月千葉】房総伊勢海老！名宿5選',
+  title: '11・12・1月千葉：房総伊勢海老！名宿5選',
   description: '11月から1月、南房総・外房鴨川は温暖な黒潮の影響を受け、真冬でも穏やかな気候の中で冬の海絶景を満喫できる関東随一の避寒地です。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '鴨川 冬 旅行, 鴨川シーワールド ホテル, 小湊 鯛の浦 温泉, 鴨川館, 吉夢, 鴨川シーワールドホテル, 宿中屋, 海辺の宿 恵比寿, 外房 寒金目鯛 煮付け, 房総 伊勢海老, 誕生寺 初詣, 11月 12月 1月 千葉旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-chiba-kamogawa-seaworld-kominato-kinmedai-stay/"
   },
   openGraph: {
-    title: '【11・12・1月千葉】房総伊勢海老！名宿5選',
+    title: '11・12・1月千葉：房総伊勢海老！名宿5選',
     description: '11月から1月、南房総・外房鴨川は温暖な黒潮の影響を受け、真冬でも穏やかな気候の中で冬の海絶景を満喫できる関東随一の避寒地です。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-chiba-kamogawa-seaworld-kominato-kinmedai-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月千葉】冬の鴨川シーワールドシャチパフォーマンスと小湊鯛の浦温泉・外房寒金目鯛煮付け＆房総伊勢海老を堪能する絶景名宿5選",
+    title: "11・12・1月千葉：冬の鴨川シーワールドシャチパフォーマンスと小湊鯛の浦温泉・外房寒金目鯛煮付け＆房総伊勢海老を堪能する絶景名宿5選",
     description: "11月から1月、南房総・外房鴨川は温暖な黒潮の影響を受け、真冬でも穏やかな気候の中で冬の海絶景を満喫できる関東随一の避寒地です。澄んだ冬空の下で躍動する「鴨川シーワールド」の大迫力シャチパフォーマンス、国の特別天然記念物・神秘の海「小湊鯛の浦」、そして日蓮聖人誕生の古刹「誕生寺」の新春初詣。外房の荒波で極上の脂を蓄えた「外房寒金目鯛の姿煮」や活伊勢海老を味わい、太平洋から昇る感動の日の出露天風呂に癒やされる厳選名宿5選と冬のモデルコースをお届けします。",
     images: ['https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=1200&q=80']
   }
@@ -42,7 +42,7 @@ export default function ChibaKamogawaKominatoWinterPage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: "【11・12・1月千葉】冬の鴨川シーワールドシャチパフォーマンスと小湊鯛の浦温泉・外房寒金目鯛煮付け＆房総伊勢海老を堪能する絶景名宿5選",
+    headline: "11・12・1月千葉：冬の鴨川シーワールドシャチパフォーマンスと小湊鯛の浦温泉・外房寒金目鯛煮付け＆房総伊勢海老を堪能する絶景名宿5選",
     description: "11月から1月、南房総・外房鴨川は温暖な黒潮の影響を受け、真冬でも穏やかな気候の中で冬の海絶景を満喫できる関東随一の避寒地です。澄んだ冬空の下で躍動する「鴨川シーワールド」の大迫力シャチパフォーマンス、国の特別天然記念物・神秘の海「小湊鯛の浦」、そして日蓮聖人誕生の古刹「誕生寺」の新春初詣。外房の荒波で極上の脂を蓄えた「外房寒金目鯛の姿煮」や活伊勢海老を味わい、太平洋から昇る感動の日の出露天風呂に癒やされる厳選名宿5選と冬のモデルコースをお届けします。",
     image: 'https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=1200&q=80',
     datePublished: '',
@@ -282,9 +282,7 @@ export default function ChibaKamogawaKominatoWinterPage() {
             <Fish className="w-4 h-4 text-blue-300" />
             11月・12月・1月 冬の千葉・外房鴨川シーワールド＆小湊鯛の浦温泉特集
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【11・12・1月千葉】冬の鴨川シーワールドシャチパフォーマンスと小湊鯛の浦温泉・外房寒金目鯛煮付け＆房総伊勢海老を堪能する絶景名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「11・12・1月千葉」冬の鴨川シーワールドシャチパフォーマンスと小湊鯛の浦温泉・外房寒金目鯛煮付け＆房総伊勢海老を堪能する絶景名宿5選</h1>
           <p className="text-slate-300 text-sm sm:text-base md:text-lg max-w-3xl leading-relaxed">
             黒潮が運ぶ温かな海風が冬の寒さを和らげる南房総・外房鴨川。澄み切った青空の下、太平洋をバックに繰り広げられる「鴨川シーワールド」のシャチたちの豪快な跳躍、神秘の海「小湊鯛の浦」の遊覧、そして日蓮聖人誕生の名刹「誕生寺」の清らかな新春初詣。真冬に極上の脂を蓄えた「外房寒金目鯛の姿煮」と甘み豊かな房総伊勢海老に舌鼓を打ち、水平線から昇る感動の朝日温泉に浸かる贅沢な冬旅をご案内します。
           </p>

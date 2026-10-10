@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/wakayama-kudoyama-sanada-koyasan-stay/" },
-  title: "【和歌山・高野山山麓＆九度山】真田幸村蟄居の地・善名称院＆世界遺産慈尊院・富有柿宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "和歌山・高野山山麓＆九度山：真田幸村蟄居の地・善名称院＆世界遺産慈尊院・富有柿宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "戦国最後の英雄・真田幸村が14年間過ごした隠れ里・和歌山九度山エリア完全特化！真田屋敷跡「善名称院（真田庵）」、九度山・真田ミュージアム、世界遺産「慈尊院・丹生官省符神社」、高野参詣道町石道、名産「九度山の富有柿宿」を徹底解説。",
   keywords: ["和歌山", "高野山山麓", "九度山", "真田幸村蟄居の地", "善名称院", "世界遺産慈尊院", "富有柿宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             KUDOYAMA & SANADA GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【和歌山・高野山山麓＆九度山】真田幸村蟄居の地・善名称院＆世界遺産慈尊院・富有柿宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「和歌山・高野山山麓＆九度山」真田幸村蟄居の地・善名称院＆世界遺産慈尊院・富有柿宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             関ヶ原の戦い後、真田昌幸・幸村父子が再起を期して雌伏の時を過ごした「紀州・九度山」。六文銭の旗印が掲げられる真田庵とミュージアム。弘法大師の母が眠る女人高野「慈尊院」。高野山への表参道町石道を歩き、日本一の富有柿と紀州グルメを味わう旅。
           </p>

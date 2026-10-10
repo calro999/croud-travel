@@ -3,13 +3,13 @@ import Link from 'next/link';
 import { Star, MapPin, Calendar, Compass, ShieldCheck, Heart, Sparkles, ExternalLink, ChevronRight } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【日本最古の神域・三輪明神大神神社新春初詣と山の辺の道】2026-2027年冬の奈良・桜井！本場三輪にゅうめんと大和牛すき焼き名宿5選',
+  title: '日本最古の神域・三輪明神大神神社新春初詣と山の辺の道：2026-2027年冬の奈良・桜井！本場三輪にゅうめんと大和牛すき焼き名宿5選',
   description: '日本最古の神社と称される大和国一之宮「大神神社（三輪明神）」新春開運初詣！三輪山をご神体とする神秘の森と冬の静けさに包まれる日本最古の道「山の辺の道」。伝統の手延べ「三輪にゅうめん」と極上霜降り大和牛に心温まる、古代史のロマンあふれる冬の奈良・桜井厳選名宿5選。',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-nara-sakurai-oomiwa-shrine-hatsumode-miwa-somen-yamatogyu-stay/',
   },
   openGraph: {
-    title: '【日本最古の神域・三輪明神大神神社新春初詣と山の辺の道】2026-2027年冬の奈良・桜井！本場三輪にゅうめんと大和牛すき焼き名宿5選',
+    title: '日本最古の神域・三輪明神大神神社新春初詣と山の辺の道：2026-2027年冬の奈良・桜井！本場三輪にゅうめんと大和牛すき焼き名宿5選',
     description: '日本最古の神社と称される大和国一之宮「大神神社（三輪明神）」新春開運初詣！三輪山をご神体とする神秘の森と冬の静けさに包まれる日本最古の道「山の辺の道」。伝統の手延べ「三輪にゅうめん」と極上霜降り大和牛に心温まる、古代史のロマンあふれる冬の奈良・桜井厳選名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-nara-sakurai-oomiwa-shrine-hatsumode-miwa-somen-yamatogyu-stay/',
     siteName: '冬の日本厳選旅行ガイド',
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: '【日本最古の神域・三輪明神大神神社新春初詣と山の辺の道】2026-2027年冬の奈良・桜井！本場三輪にゅうめんと大和牛すき焼き名宿5選',
+    title: '日本最古の神域・三輪明神大神神社新春初詣と山の辺の道：2026-2027年冬の奈良・桜井！本場三輪にゅうめんと大和牛すき焼き名宿5選',
     description: '日本最古の神社と称される大和国一之宮「大神神社（三輪明神）」新春開運初詣！三輪山をご神体とする神秘の森と冬の静けさに包まれる日本最古の道「山の辺の道」。伝統の手延べ「三輪にゅうめん」と極上霜降り大和牛に心温まる、古代史のロマンあふれる冬の奈良・桜井厳選名宿5選。',
     images: ['https://img.travel.rakuten.co.jp/share/HOTEL/14788/14788.jpg'],
   },
@@ -201,9 +201,7 @@ export default function Page() {
               <span>冬の旅（11月〜1月）厳選特集</span>
             </div>
 
-            <h1 className="text-2xl sm:text-4xl font-extrabold leading-tight tracking-tight text-white drop-shadow-sm">
-              【日本最古の神域・三輪明神大神神社新春初詣と山の辺の道】2026-2027年冬の奈良・桜井！本場三輪にゅうめんと大和牛すき焼き名宿5選
-            </h1>
+            <h1 className="text-2xl sm:text-4xl font-extrabold leading-tight tracking-tight text-white drop-shadow-sm">「日本最古の神域・三輪明神大神神社新春初詣と山の辺の道」2026-2027年冬の奈良・桜井！本場三輪にゅうめんと大和牛すき焼き名宿5選</h1>
 
             <p className="text-sm sm:text-base text-cyan-100/90 leading-relaxed max-w-3xl pt-2">
               日本最古の神社と称される大和国一之宮「大神神社（三輪明神）」新春開運初詣！三輪山をご神体とする神秘の森と冬の静けさに包まれる日本最古の道「山の辺の道」。伝統の手延べ「三輪にゅうめん」と極上霜降り大和牛に心温まる、古代史のロマンあふれる冬の奈良・桜井厳選名宿5選。

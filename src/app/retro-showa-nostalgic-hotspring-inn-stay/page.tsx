@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '【2026年】昭和ノスタルジーと古き良き湯治文化！レトロタイル風呂と木造建築の秘湯宿5選 ｜ 日本全国・旅宿クラウド',
+  title: '2026年：昭和ノスタルジーと古き良き湯治文化！レトロタイル風呂と木造建築の秘湯宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！渋温泉・四万温泉・鉛温泉など、大正・昭和の面影を色濃く残す木造建築、色鮮やかなモザイクタイル風呂、心温まる手作り郷土料理の宿5選。',
   keywords: ["2026年", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/retro-showa-nostalgic-hotspring-inn-stay/",
   },
   openGraph: {
-    title: '【2026年】昭和ノスタルジーと古き良き湯治文化！レトロタイル風呂と木造建築の秘湯宿5選',
+    title: '2026年：昭和ノスタルジーと古き良き湯治文化！レトロタイル風呂と木造建築の秘湯宿5選',
     description: '2026年最新！渋温泉・四万温泉・鉛温泉など、大正・昭和の面影を色濃く残す木造建築、色鮮やかなモザイクタイル風呂、心温まる手作り郷土料理の宿5選。',
     url: 'https://croud-travel.pages.dev/retro-showa-nostalgic-hotspring-inn-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -172,9 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>昭和レトロ×ノスタルジック秘湯</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            【2026年】昭和ノスタルジーと古き良き湯治文化！レトロタイル風呂と木造建築の秘湯宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」昭和ノスタルジーと古き良き湯治文化！レトロタイル風呂と木造建築の秘湯宿5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             カランコロンと響く下駄の音、趣ある木造の階段、ステンドグラスや美しいモザイクタイルの湯船。まるでタイムスリップしたかのような昭和レトロな温泉街と湯治宿。どこか懐かしく温かいおもてなしと、昔ながらの濃厚な源泉掛け流しに心解き放たれる旅へ。
           </p>

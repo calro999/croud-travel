@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            下呂温泉の紅葉合掌村と飛騨金山巨石群！日本三名泉の美肌湯と極上飛騨牛すき焼きを味わう秋旅
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">下呂温泉の紅葉合掌村と飛騨金山巨石群！日本三名泉の美肌湯と極上飛騨牛すき焼きを味わう秋旅</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             飛騨の山々が茜に染まる秋、日本三名泉のなめらかな湯と極上飛騨牛の口福
           </p>

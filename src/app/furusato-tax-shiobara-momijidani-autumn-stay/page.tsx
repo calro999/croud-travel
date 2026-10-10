@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            塩原渓谷「もみじ谷大吊橋」360度大パノラマ紅葉＆塩原温泉郷・とちぎ和牛と温泉粥ステイ
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">塩原渓谷「もみじ谷大吊橋」360度大パノラマ紅葉＆塩原温泉郷・とちぎ和牛と温泉粥ステイ</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             箒川の清流を包み込む紅葉のトンネルともみじ谷大吊橋の絶景。開湯1200年の塩原温泉でとちぎ和牛に舌鼓。
           </p>

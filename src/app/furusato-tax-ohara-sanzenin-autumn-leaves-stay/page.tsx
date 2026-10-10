@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '京都大原・三千院の有清園苔庭紅葉＆寂光院もみじの階段！大原温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】京都',
+  title: '京都大原・三千院の有清園苔庭紅葉＆寂光院もみじの階段！大原温泉宿×ふるさと納税厳選ガイド京都',
   description: '11月中旬〜11月下旬に見頃を迎える「京都大原・三千院（さんぜんいん）」と「寂光院」。有清園の杉苔とモミジのコントラスト、わらべ地蔵の愛らしい秋景色、名湯・大原温泉の料理宿「芹生」「大原山荘」「大原の里」で名物味噌鍋や地鶏鍋・京野菜懐石を堪能。楽天ふるさと納税で実質2,000円。',
   keywords: ["京都大原", "三千院の有清園苔庭紅葉", "2026年最新秋旅", "京都", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-ohara-sanzenin-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '京都大原・三千院の有清園苔庭紅葉＆寂光院もみじの階段！大原温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】京都',
+    title: '京都大原・三千院の有清園苔庭紅葉＆寂光院もみじの階段！大原温泉宿×ふるさと納税厳選ガイド京都',
     description: '11月中旬〜11月下旬に見頃を迎える「京都大原・三千院（さんぜんいん）」と「寂光院」。有清園の杉苔とモミジのコントラスト、わらべ地蔵の愛らしい秋景色、名湯・大原温泉の料理宿「芹生」「大原山荘」「大原の里」で名物味噌鍋や地鶏鍋・京野菜懐石を堪能。楽天ふるさと納税で実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-ohara-sanzenin-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FeatureArticlePage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               京都大原・三千院＆寂光院紅葉特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              京都大原・三千院の有清園苔庭紅葉＆寂光院もみじの階段！大原温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】京都
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">京都大原・三千院の有清園苔庭紅葉＆寂光院もみじの階段！大原温泉宿×ふるさと納税厳選ガイド京都</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               11月中旬〜11月下旬に見頃を迎える「京都大原・三千院（さんぜんいん）」と「寂光院」。有清園の杉苔とモミジのコントラスト、わらべ地蔵の愛らしい秋景色、名湯・大原温泉の料理宿「芹生」「大原山荘」「大原の里」で名物味噌鍋や地鶏鍋・京野菜懐石を堪能。楽天ふるさと納税で実質2,000円。
             </p>

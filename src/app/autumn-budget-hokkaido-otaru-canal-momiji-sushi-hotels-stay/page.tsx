@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【小樽】運河のガス灯秋夜景＆旬の秋鮭・握り寿司！2,000円台〜泊まれる格安ホテル5選',
+  title: '小樽：運河のガス灯秋夜景＆旬の秋鮭・握り寿司！2,000円台〜泊まれる格安ホテル5選',
   description: '小樽運河のガス灯と石造り倉庫を彩る秋の蔦紅葉、天狗山から見下ろす夜景！秋サケやイクラ、本場の寿司通り巡り。小樽駅・運河周辺で1泊2,000円台〜3,000円台から泊まれる格安・高評価宿5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetFeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>小樽運河の蔦紅葉＆本場の旬握り寿司</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【小樽】運河のガス灯蔦紅葉＆旬の秋寿司へ！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「小樽」運河のガス灯蔦紅葉＆旬の秋寿司へ！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-teal-100/90 max-w-2xl mx-auto leading-relaxed">
             ガス灯揺れる小樽運河沿いの石造り倉庫群を真っ赤に染めるツタ紅葉！天狗山ロープウェイから眺める色鮮やかなパノラマと、秋に旨味が極まる秋鮭・イクラ・ウニの握り寿司。札幌からのアクセスも抜群な港町・小樽で、1泊2,000円台〜3,000円台から泊まれる高満足度ホテルをご紹介。
           </p>

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/yamanashi-yatsugatake-kiyosato-resort-stay/" },
-  title: "【山梨・八ヶ岳＆清里高原】清里テラス・萌木の村＆八ヶ岳南麓・星空温泉リゾート 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "山梨・八ヶ岳＆清里高原：清里テラス・萌木の村＆八ヶ岳南麓・星空温泉リゾート 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "八ヶ岳南麓・清里高原エリア完全特化！標高1,900mの絶景パノラマ「清里テラス」、森のクラフト村「萌木の村」、清泉寮の濃厚ソフトクリーム、天の川輝く星空と甲州ワイン・高原リゾートホテルを徹底解説。",
   keywords: ["山梨", "八ヶ岳", "清里高原", "清里テラス", "萌木の村", "八ヶ岳南麓", "星空温泉リゾート"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             YATSUGATAKE KIYOSATO GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【山梨・八ヶ岳＆清里高原】清里テラス・萌木の村＆八ヶ岳南麓・星空温泉リゾート 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「山梨・八ヶ岳＆清里高原」清里テラス・萌木の村＆八ヶ岳南麓・星空温泉リゾート 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             南アルプスと富士山を一望する標高1,000m超の天空リゾート「山梨・八ヶ岳清里高原」。サンメドウズ清里の山頂デッキ「清里テラス」の特等席ソファ。小鳥のさえずりと満天の星空に包まれ、極上の休日へ。
           </p>

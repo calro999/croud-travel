@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【徳島市街】眉山秋パノラマ＆甘辛豚バラ徳島ラーメン！4,000円台〜泊まれる格安ホテル5選',
+  title: '徳島市街：眉山秋パノラマ＆甘辛豚バラ徳島ラーメン！4,000円台〜泊まれる格安ホテル5選',
   description: '眉山ロープウェイから眺める阿波の秋景色と吉野川の清流！濃厚甘辛スープに生卵が絡む名物徳島ラーメンや阿波尾鶏。徳島駅・繁華街周辺で1泊4,000円台から泊まれる格安・高コスパホテル5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetFeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>眉山の秋パノラマ＆名物すき焼き風徳島ラーメン</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【徳島市街】眉山秋パノラマ＆徳島ラーメンへ！<br className="hidden sm:inline" />4,000円台〜泊まれる駅近格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「徳島市街」眉山秋パノラマ＆徳島ラーメンへ！<br className="hidden sm:inline" />4,000円台〜泊まれる駅近格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-teal-100/90 max-w-2xl mx-auto leading-relaxed">
             ロープウェイで登る眉山山頂からの絶景と、吉野川を渡る心地よい秋風！濃い口醤油と豚骨の甘辛スープに豚バラ肉と生卵をトッピングした本場・徳島ラーメンや、ジューシーな阿波尾鶏の炭火焼き。四国の玄関口・徳島市街で、1泊4,000円台から泊まれる厳選宿をご紹介。
           </p>

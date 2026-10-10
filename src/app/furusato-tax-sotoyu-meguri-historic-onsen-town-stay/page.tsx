@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: 'カランコロンと下駄を鳴らす外湯めぐり＆情緒あふれる浴衣散策名門温泉宿×ふるさと納税完全ガイド【2026年最新】城崎・野沢温泉・渋温泉',
+  title: 'カランコロンと下駄を鳴らす外湯めぐり＆情緒あふれる浴衣散策名門温泉宿×ふるさと納税厳選ガイド城崎・野沢温泉・渋温泉',
   description: '街全体が一つの大きな温泉宿！色浴衣に着替え下駄を鳴らして外湯を巡る至極の温泉情緒を厳選。七田外湯めぐりと文豪志賀直哉ゆかりの国登録有形文化財「城崎温泉 登録有形文化財の宿 三木屋」、十三箇所の無料外湯と麻釜の湧出景観を誇る「野沢温泉 村のホテル 住吉屋」、九湯めぐりと千と千尋の神隠しを彷彿とさせる木造四階建て文化財建築「渋温泉 歴史の宿 金具屋」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
   keywords: ["2026年最新", "城崎", "野沢温泉", "渋温泉", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: { canonical: baseUrl + '/furusato-tax-sotoyu-meguri-historic-onsen-town-stay/' },
   openGraph: {
-    title: 'カランコロンと下駄を鳴らす外湯めぐり＆情緒あふれる浴衣散策名門温泉宿×ふるさと納税完全ガイド【2026年最新】城崎・野沢温泉・渋温泉',
+    title: 'カランコロンと下駄を鳴らす外湯めぐり＆情緒あふれる浴衣散策名門温泉宿×ふるさと納税厳選ガイド城崎・野沢温泉・渋温泉',
     description: '街全体が一つの大きな温泉宿！色浴衣に着替え下駄を鳴らして外湯を巡る至極の温泉情緒を厳選。七田外湯めぐりと文豪志賀直哉ゆかりの国登録有形文化財「城崎温泉 登録有形文化財の宿 三木屋」、十三箇所の無料外湯と麻釜の湧出景観を誇る「野沢温泉 村のホテル 住吉屋」、九湯めぐりと千と千尋の神隠しを彷彿とさせる木造四階建て文化財建築「渋温泉 歴史の宿 金具屋」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
     url: baseUrl + '/furusato-tax-sotoyu-meguri-historic-onsen-town-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoSotoyuMeguriTownStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             伝統の外湯めぐり＆浴衣下駄散策名門温泉街特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            カランコロンと下駄を鳴らす外湯めぐり＆情緒あふれる浴衣散策名門温泉宿×ふるさと納税完全ガイド【2026年最新】城崎・野沢温泉・渋温泉
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">カランコロンと下駄を鳴らす外湯めぐり＆情緒あふれる浴衣散策名門温泉宿×ふるさと納税厳選ガイド城崎・野沢温泉・渋温泉</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             旅館の玄関で色鮮やかな浴衣に袖を通し、木製の下駄を鳴らしながら温泉街へと繰り出す「外湯（そとゆ）めぐり」。街の中心を流れる川沿いの柳並木、格子戸のレトロな町並み、そして地域の人々と旅人が裸の付き合いを交わす共同浴場――「街全体が一つの温泉宿、大通りは廊下、外湯は大浴場。」という古き良き日本の温泉文化が色濃く残る温泉地には、ホテルにおこもりする滞在とは一味違う、旅の原点とも言える豊かな情緒が息づいています。川沿いに七つの個性豊かな外湯が点在し文豪・志賀直哉が名作『城の崎にて』を執筆した創業三百年の老舗「城崎温泉 三木屋」、湯仲間と呼ばれる村の人々が守る十三箇所の天然外湯と名物・麻釜（おがま）のすぐそばに佇む自家源泉の宿「野沢温泉 住吉屋」、そして九つの外湯を巡って手ぬぐいに朱印を集める九湯めぐりと、夜のライトアップがまるで映画のワンシーンのような「渋温泉 金具屋」。日本の誇るべき外湯文化を体感できる名門温泉宿を、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を使って実質自己負担2,000円で賢く予約し、心温まる湯めぐり旅へ出かけましょう。
           </p>

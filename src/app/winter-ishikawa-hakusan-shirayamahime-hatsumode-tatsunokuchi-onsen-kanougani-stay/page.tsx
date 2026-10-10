@@ -6,14 +6,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月石川】加賀一ノ宮「白山比咩神社」新！名宿5選',
+  title: '11・12・1月石川：加賀一ノ宮「白山比咩神社」新！名宿5選',
   description: '全国3,000余社の白山神社総本宮「白山比咩神社（しらやまひめじんじゃ）」が最も神聖な空気に包まれる11〜1月の冬旅特集。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '白山比咩神社 初詣, 辰口温泉 冬, 加能ガニ 石川, 加賀丸いも, まつさき 辰口温泉, たがわ龍泉閣, 白山 手取川 雪景色, 北陸 初詣 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-ishikawa-hakusan-shirayamahime-hatsumode-tatsunokuchi-onsen-kanougani-stay/"
   },
   openGraph: {
-    title: '【11・12・1月石川】加賀一ノ宮「白山比咩神社」新！名宿5選',
+    title: '11・12・1月石川：加賀一ノ宮「白山比咩神社」新！名宿5選',
     description: '全国3,000余社の白山神社総本宮「白山比咩神社（しらやまひめじんじゃ）」が最も神聖な空気に包まれる11〜1月の冬旅特集。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-ishikawa-hakusan-shirayamahime-hatsumode-tatsunokuchi-onsen-kanougani-stay',
     type: 'article',
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月石川】加賀一ノ宮「白山比咩神社」新春初詣と手取川雪景色！開湯1400年「辰口温泉」美肌名湯＆加賀丸いも・加能ガニ名宿5選",
+    title: "11・12・1月石川：加賀一ノ宮「白山比咩神社」新春初詣と手取川雪景色！開湯1400年「辰口温泉」美肌名湯＆加賀丸いも・加能ガニ名宿5選",
     description: "全国3,000余社の白山神社総本宮「白山比咩神社（しらやまひめじんじゃ）」が最も神聖な空気に包まれる11〜1月の冬旅特集。加賀一ノ宮の荘厳な新春初詣、霊峰白山を源流とする手取川の雪景色、1400年の歴史を刻む辰口温泉の柔らかな湯、冬の日本海がもたらす極上の「加能ガニ」や香箱ガニ、粘りとコクが際立つ伝統野菜「加賀丸いも」のとろろ汁。白山麓と能美・加賀エリアを満喫する厳選名宿5選を徹底解説します。",
     images: ['https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -281,10 +281,7 @@ export default function IshikawaHakusanWinterPage() {
             <Snowflake className="w-4 h-4 text-sky-300" />
             <span>北陸・石川 冬の特別紀行（11月・12月・1月）</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 font-journal-serif">
-            加賀一ノ宮「白山比咩神社」新春初詣と手取川雪景色<br className="hidden md:inline" />
-            開湯1400年・辰口温泉の美肌名湯＆加能ガニ名宿
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 font-journal-serif">加賀一ノ宮「白山比咩神社」新春初詣と手取川雪景色<br className="hidden md:inline" /> 開湯1400年・辰口温泉の美肌名湯＆加能ガニ名宿</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mb-6">
             日本三名山の一つ、霊峰白山を仰ぐ石川県白山市と能美市。全国三千余社の総本宮・白山比咩神社が厳粛な雪化粧に包まれる11月から1月、手取川の扇状地には名水と寒風が育む冬の至福が満ち溢れます。開湯1400年の辰口温泉で湯浴みを楽しみ、橋立港直送の「加能ガニ」と伝統野菜「加賀丸いも」に舌鼓を打つ、心洗われる冬の旅をご案内します。
           </p>

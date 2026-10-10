@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '【2026年】香ばしい炭火焼き鮎と清流の恵み！天然鮎尽くし会席＆川床露天風呂の名宿5選 ｜ 日本全国・旅宿クラウド',
+  title: '2026年：香ばしい炭火焼き鮎と清流の恵み！天然鮎尽くし会席＆川床露天風呂の名宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！長良川や四万十川など清流で獲れた天然鮎の塩焼き、鮎刺し、鮎雑炊を堪能できる初夏・夏のグルメ温泉旅館5選。',
   keywords: ["2026年", "川床露天風呂の名宿5選", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/traditional-ayu-sweetfish-charcoal-grill-stay/",
   },
   openGraph: {
-    title: '【2026年】香ばしい炭火焼き鮎と清流の恵み！天然鮎尽くし会席＆川床露天風呂の名宿5選',
+    title: '2026年：香ばしい炭火焼き鮎と清流の恵み！天然鮎尽くし会席＆川床露天風呂の名宿5選',
     description: '2026年最新！長良川や四万十川など清流で獲れた天然鮎の塩焼き、鮎刺し、鮎雑炊を堪能できる初夏・夏のグルメ温泉旅館5選。',
     url: 'https://croud-travel.pages.dev/traditional-ayu-sweetfish-charcoal-grill-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -172,9 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>天然鮎の塩焼き×清流川床会席</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            【2026年】香ばしい炭火焼き鮎と清流の恵み！天然鮎尽くし会席＆川床露天風呂の名宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」香ばしい炭火焼き鮎と清流の恵み！天然鮎尽くし会席＆川床露天風呂の名宿5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             炭火でじっくりと香ばしく焼き上げられた、スイカの香りがすると称される夏の美味・鮎（アユ）。パリッとした皮目とふっくら柔らかな身、ほろ苦い内臓の旨味。清流のせせらぎを聞きながら川床や個室で味わう鮎フルコースと、爽快な渓流露天風呂の旅。
           </p>

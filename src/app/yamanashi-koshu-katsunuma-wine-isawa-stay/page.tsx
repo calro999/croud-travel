@@ -5,11 +5,11 @@ import Image from 'next/image';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/yamanashi-koshu-katsunuma-wine-isawa-stay/" },
-  title: '【山梨・勝沼＆石和温泉】ワイナリー巡り・桃源郷＆美肌湯宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+  title: '山梨・勝沼＆石和温泉：ワイナリー巡り・桃源郷＆美肌湯宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
   description: '日本ワイン発祥の地「勝沼」の30軒以上のワイナリー巡り、ぶどう畑を見下ろす丘のテラス、春にはピンク色の絨毯が広がる日本一の桃源郷「笛吹」、昭和の青空温泉から発展した毎分湧出の「石和温泉郷」の美肌名湯と甲州牛会席を徹底解説。',
   keywords: ["山梨", "勝沼", "石和温泉", "ワイナリー巡り", "桃源郷", "美肌湯宿", "温泉宿"],
   openGraph: {
-    title: '【山梨・勝沼＆石和温泉】ワイナリー巡り・桃源郷＆美肌湯宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+    title: '山梨・勝沼＆石和温泉：ワイナリー巡り・桃源郷＆美肌湯宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
     description: '日本ワイン発祥の地「勝沼」の30軒以上のワイナリー巡り、ぶどう畑を見下ろす丘のテラス、春にはピンク色の絨毯が広がる日本一の桃源郷「笛吹」、昭和の青空温泉から発展した毎分湧出の「石和温泉郷」の美肌名湯と甲州牛会席を徹底解説。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/yamanashi-koshu-katsunuma-wine-isawa-stay',
@@ -50,9 +50,7 @@ export default function Page() {
             <span>🗺️</span>
             <span>KOSHU WINE & ISAWA ONSEN GUIDE</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">
-            【山梨・甲州勝沼＆笛吹・石和】勝沼ワイナリー巡り・桃源郷＆石和名湯美肌宿 完全ガイド
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">「山梨・甲州勝沼＆笛吹・石和」勝沼ワイナリー巡り・桃源郷＆石和名湯美肌宿 厳選ガイド</h1>
           <p className="max-w-3xl mx-auto text-stone-300 text-sm sm:text-base md:text-lg leading-relaxed mb-8">
             盆地を囲むぶどう畑と南アルプス・富士山の山並み。明治初期から受け継がれる日本固有品種「甲州ワイン」の醸造所が30軒以上集まる聖地・勝沼。春には見渡す限りの桃の花が咲き誇る日本一の「桃源郷」笛吹。そして毎分何千リットルもの源泉が湧き出る名湯「石和温泉」。極上のマリアージュと美肌の湯に心洗われる、東京からわずか90分のリトリートステイへご案内します。
           </p>

@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/akita-solo-business-kiritanpo-onsen-stay/" },
-  title: '【秋田出張＆美酒ひとり旅】秋田駅直結・天然温泉大浴場・比内地鶏きりたんぽ鍋！酒どころ秋田を満喫する極上ホテル 厳選3選',
+  title: '秋田出張＆美酒ひとり旅：秋田駅直結・天然温泉大浴場・比内地鶏きりたんぽ鍋！酒どころ秋田を満喫する極上ホテル 厳選3選',
   description: '秋田新幹線こまち停車・北東北の美酒王国「秋田」！「JR秋田駅直結で快適なワーク環境を誇る」の「ホテルメトロポリタン秋田」、最上階に自家源泉の天然温泉大浴場と夜鳴きそば完備の「中通温泉 こまちの湯 ドーミーイン秋田」、千秋公園のお堀端に佇む格式ある迎賓館「秋田キャッスルホテル」を徹底比較。',
   keywords: '秋田 出張 ホテル おすすめ,秋田 一人旅 ホテル,ドーミーイン秋田 温泉,ホテルメトロポリタン秋田 宿泊,秋田 きりたんぽ ホテル',
   openGraph: {
-    title: '【秋田出張＆美酒ひとり旅】秋田駅直結・天然温泉大浴場・比内地鶏きりたんぽ鍋！酒どころ秋田を満喫する極上ホテル 厳選3選',
+    title: '秋田出張＆美酒ひとり旅：秋田駅直結・天然温泉大浴場・比内地鶏きりたんぽ鍋！酒どころ秋田を満喫する極上ホテル 厳選3選',
     description: '秋田新幹線こまち停車・北東北の美酒王国「秋田」！「JR秋田駅直結で快適なワーク環境を誇る」の「ホテルメトロポリタン秋田」、最上階に自家源泉の天然温泉大浴場と夜鳴きそば完備の「中通温泉 こまちの湯 ドーミーイン秋田」、千秋公園のお堀端に佇む格式ある迎賓館「秋田キャッスルホテル」を徹底比較。',
     url: 'https://croud-travel.pages.dev/akita-solo-business-kiritanpo-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【秋田出張＆美酒ひとり旅】秋田駅直結・天然温泉大浴場・比内地鶏きりたんぽ鍋！酒どころ秋田を満喫する極上ホテル 厳選3選',
+    headline: '秋田出張＆美酒ひとり旅：秋田駅直結・天然温泉大浴場・比内地鶏きりたんぽ鍋！酒どころ秋田を満喫する極上ホテル 厳選3選',
     description: '秋田新幹線こまち停車・北東北の美酒王国「秋田」！「JR秋田駅直結で快適なワーク環境を誇る」の「ホテルメトロポリタン秋田」、最上階に自家源泉の天然温泉大浴場と夜鳴きそば完備の「中通温泉 こまちの湯 ドーミーイン秋田」、千秋公園のお堀端に佇む格式ある迎賓館「秋田キャッスルホテル」を徹底比較。',
     author: {
       '@type': 'Organization',
@@ -74,9 +74,7 @@ export default function ArticlePage() {
           <span>✨</span>
           <span>秋田・出張＆きりたんぽ・天然温泉特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【秋田出張＆美酒ひとり旅】秋田駅直結・天然温泉大浴場・比内地鶏きりたんぽ鍋！酒どころ秋田を満喫する極上ホテル 厳選3選
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">「秋田出張＆美酒ひとり旅」秋田駅直結・天然温泉大浴場・比内地鶏きりたんぽ鍋！酒どころ秋田を満喫する極上ホテル 厳選3選</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
           秋田新幹線こまち停車・北東北の美酒王国「秋田」！「JR秋田駅直結で快適なワーク環境を誇る」の「ホテルメトロポリタン秋田」、最上階に自家源泉の天然温泉大浴場と夜鳴きそば完備の「中通温泉 こまちの湯 ドーミーイン秋田」、千秋公園のお堀端に佇む格式ある迎賓館「秋田キャッスルホテル」を徹底比較。
         </p>

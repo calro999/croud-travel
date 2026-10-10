@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hakone-gora-luxury-stay/" },
-  title: "【箱根・強羅】大涌谷にごり湯＆美術館めぐり極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "箱根・強羅：大涌谷にごり湯＆美術館めぐり極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "箱根・強羅エリア完全特化！大涌谷の白濁硫黄泉、強羅公園、彫刻の森美術館周辺の観光と、客室露天風呂・贅沢会席が自慢の強羅温泉旅館を徹底解説。",
   keywords: ["箱根", "強羅", "大涌谷にごり湯", "美術館めぐり極上宿", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             HAKONE GORA MICRO GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【箱根・強羅】大涌谷にごり湯＆美術館めぐり極上宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「箱根・強羅」大涌谷にごり湯＆美術館めぐり極上宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             標高約500m、豊かな森と澄んだ空気に包まれる箱根の高級別荘地「強羅」。乳白色のにごり湯に浸かり、アートと美食に酔いしれる大人の休日。
           </p>

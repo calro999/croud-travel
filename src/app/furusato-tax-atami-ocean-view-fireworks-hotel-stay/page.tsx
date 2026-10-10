@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '客室から大迫力の花火を特等席鑑賞！熱海オーシャンビュー温泉ホテル×ふるさと納税完全攻略ガイド【2026年最新】後楽園・ニューアカオ・パールスター',
+  title: '客室から大迫力の花火を特等席鑑賞！熱海オーシャンビュー温泉ホテル×ふるさと納税極上旅ガイド後楽園・ニューアカオ・パールスター',
   description: '熱海名物・年間十数回開催される熱海海上花火大会！お部屋のバルコニーやインフィニティ温泉露天風呂から、夜空と海を焦がす大迫力の花火を鑑賞。「熱海後楽園ホテル」「ホテルニューアカオ」「熱海パールスターホテル」を、静岡県熱海市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。',
   keywords: ["2026年最新", "後楽園", "ニューアカオ", "パールスター", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-atami-ocean-view-fireworks-hotel-stay/",
   },
   openGraph: {
-    title: '客室から大迫力の花火を特等席鑑賞！熱海オーシャンビュー温泉ホテル×ふるさと納税完全攻略ガイド【2026年最新】後楽園・ニューアカオ・パールスター',
+    title: '客室から大迫力の花火を特等席鑑賞！熱海オーシャンビュー温泉ホテル×ふるさと納税極上旅ガイド後楽園・ニューアカオ・パールスター',
     description: '熱海名物・年間十数回開催される熱海海上花火大会！お部屋のバルコニーやインフィニティ温泉露天風呂から、夜空と海を焦がす大迫力の花火を鑑賞。「熱海後楽園ホテル」「ホテルニューアカオ」「熱海パールスターホテル」を、静岡県熱海市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-atami-ocean-view-fireworks-hotel-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoAtamiOceanViewFireworksStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           全国屈指の超人気！熱海花火＆オーシャンビュー宿特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          客室から大迫力の花火を特等席鑑賞！熱海オーシャンビュー温泉ホテル×ふるさと納税完全攻略ガイド【2026年最新】後楽園・ニューアカオ・パールスター
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">客室から大迫力の花火を特等席鑑賞！熱海オーシャンビュー温泉ホテル×ふるさと納税極上旅ガイド後楽園・ニューアカオ・パールスター</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoAtamiOceanViewFireworksStayPage() {
               熱海の夜景と相模灘を眼前に望める絶好のロケーション！源泉を使用した大展望風呂で、ゆっくりと温泉三昧。
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “バイキングは最高、デザートが食べられず残念バイキングが最高でした。唯一残念なのが、デザートが、無くなってから、新しく届く前に時間制限が来て、食べられなかった事。プリンのケーキが食べられなかったのは… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D1656%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoAtamiOceanViewFireworksStayPage() {
               全352室がオーシャンビュー 海上リゾートで唯一無二の絶景体験を
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “お風呂は小さめだが食事は美味しく大満足お風呂が3ヶ所あったので楽しみにしてましたが、入ってみると思ったより小さく写真と全然違うなと思いました。ご飯は美味しく、会場も広いのでとてもわくわわくしま… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D5417%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoAtamiOceanViewFireworksStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               熱海海上花火大会は6Fテラスからも海側のお部屋からも、インフィニティバスからもご覧いただけます
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “前回と比べてサービスや部屋の臭いが残念2.3年前母の誕生日旅行の際訪れ細やかな気配りやサービス、お料理等全てに感動し、今回は私の誕生日旅行で母がプレゼントしてくれました。この日をとても楽しみに… ”
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

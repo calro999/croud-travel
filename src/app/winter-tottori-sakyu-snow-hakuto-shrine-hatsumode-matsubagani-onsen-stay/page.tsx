@@ -6,14 +6,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月鳥取】白銀に染まる「鳥取砂丘」雪景！名宿5選',
+  title: '11・12・1月鳥取：白銀に染まる「鳥取砂丘」雪景！名宿5選',
   description: '山陰の冬が魅せる奇跡の絶景・鳥取砂丘と神話の里の11〜1月冬紀行。冬の寒波がもたらす白銀の雪砂丘と風が描く風紋のアート。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '鳥取砂丘 雪景色, 白兎神社 初詣, 鳥取松葉がに, モサエビ, 鳥取温泉 宿泊, 観水庭こぜにや, ホテルモナーク鳥取, 白兎会館, 鳥取和牛, 山陰 冬旅行',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-tottori-sakyu-snow-hakuto-shrine-hatsumode-matsubagani-onsen-stay/'
   },
   openGraph: {
-    title: '【11・12・1月鳥取】白銀に染まる「鳥取砂丘」雪景！名宿5選',
+    title: '11・12・1月鳥取：白銀に染まる「鳥取砂丘」雪景！名宿5選',
     description: '山陰の冬が魅せる奇跡の絶景・鳥取砂丘と神話の里の11〜1月冬紀行。冬の寒波がもたらす白銀の雪砂丘と風が描く風紋のアート。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-tottori-sakyu-snow-hakuto-shrine-hatsumode-matsubagani-onsen-stay',
     type: 'article',
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月鳥取】白銀に染まる「鳥取砂丘」雪景色と因幡の白兎「白兎神社」新春縁結び初詣！冬旬「鳥取松葉がに」＆鳥取温泉名宿5選",
+    title: "11・12・1月鳥取：白銀に染まる「鳥取砂丘」雪景色と因幡の白兎「白兎神社」新春縁結び初詣！冬旬「鳥取松葉がに」＆鳥取温泉名宿5選",
     description: "山陰の冬が魅せる奇跡の絶景・鳥取砂丘と神話の里の11〜1月冬紀行。冬の寒波がもたらす白銀の雪砂丘と風が描く風紋のアート、日本最古のラブストーリー「因幡の白兎」伝説が息づく白兎神社で迎える新春縁結び初詣。11月解禁の冬の味覚の絶対王者「鳥取松葉がに」の茹で蟹・焼き蟹・蟹刺し、地元でしか出回らない幻の「モサエビ」、肉質日本一に輝いた「鳥取和牛」。県庁所在地に湧き出る全国屈指の天然名湯「鳥取温泉」と厳選名宿5選を徹底紹介。",
     images: ['https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -281,10 +281,7 @@ export default function TottoriSakyuWinterPage() {
             <Snowflake className="w-4 h-4 text-blue-300" />
             <span>中国・鳥取 因幡路 冬の特別紀行（11月・12月・1月）</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 font-journal-serif">
-            白銀に染まる「鳥取砂丘」雪景色と因幡の白兎「白兎神社」新春縁結び初詣<br className="hidden md:inline" />
-            冬旬「鳥取松葉がに」・幻のモサエビ＆鳥取温泉名宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 font-journal-serif">白銀に染まる「鳥取砂丘」雪景色と因幡の白兎「白兎神社」新春縁結び初詣<br className="hidden md:inline" /> 冬旬「鳥取松葉がに」・幻のモサエビ＆鳥取温泉名宿5選</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mb-6">
             日本海の荒波が運ぶ冬の寒波によって、黄金の砂山が一面純白の雪原へと変貌を遂げる鳥取砂丘。風が雪面に刻む神秘的な風紋と、荒れ狂う日本海の青と白のコントラストは、この季節にしか出逢えない奇跡の絶景です。神話「因幡の白兎」の舞台・白兎神社で迎える清々しい新春縁結び初詣、11月に解禁され冬に旨味の頂点を極める「鳥取松葉がに」と地元限定の幻の深海エビ「モサエビ」。冷えた身体を優しく包み込む県庁所在地の自家源泉「鳥取温泉」の温もりに浸る、山陰屈指の至福の冬旅へご案内します。
           </p>

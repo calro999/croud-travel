@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/fukuoka-hakata-solo-business-onsen-sauna-stay/" },
-  title: '【福岡博多出張・天然温泉サウナ】博多駅直結・自家源泉の湯・中洲屋台＆もつ鍋！九州の美食とビジネスターミナルを極める厳選3宿',
+  title: '福岡博多出張・天然温泉サウナ：博多駅直結・自家源泉の湯・中洲屋台＆もつ鍋！九州の美食とビジネスターミナルを極める厳選3宿',
   description: '福岡空港から地下鉄でわずか5分！博多駅徒歩5分で地下1250mから湧き出る天然温泉大浴場を誇る「八百治博多ホテル」、祇園駅直結・中洲も徒歩圏で本格サウナと夜鳴きそばが魅力の「ドーミーイン博多祇園」、博多駅博多口すぐで露天風呂とサウナを備える「西鉄ホテル クルーム博多」を徹底比較。',
   keywords: '博多 出張 ホテル,博多 天然温泉 ホテル,八百治博多ホテル,ドーミーイン博多祇園,西鉄ホテルクルーム博多,博多 サウナ ひとり旅',
   openGraph: {
-    title: '【福岡博多出張・天然温泉サウナ】博多駅直結・自家源泉の湯・中洲屋台＆もつ鍋！九州の美食とビジネスターミナルを極める厳選3宿',
+    title: '福岡博多出張・天然温泉サウナ：博多駅直結・自家源泉の湯・中洲屋台＆もつ鍋！九州の美食とビジネスターミナルを極める厳選3宿',
     description: '福岡空港から地下鉄でわずか5分！博多駅徒歩5分で地下1250mから湧き出る天然温泉大浴場を誇る「八百治博多ホテル」、祇園駅直結・中洲も徒歩圏で本格サウナと夜鳴きそばが魅力の「ドーミーイン博多祇園」、博多駅博多口すぐで露天風呂とサウナを備える「西鉄ホテル クルーム博多」を徹底比較。',
     url: 'https://croud-travel.pages.dev/fukuoka-hakata-solo-business-onsen-sauna-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【福岡博多出張・天然温泉サウナ】博多駅直結・自家源泉の湯・中洲屋台＆もつ鍋！九州の美食とビジネスターミナルを極める厳選3宿',
+    headline: '福岡博多出張・天然温泉サウナ：博多駅直結・自家源泉の湯・中洲屋台＆もつ鍋！九州の美食とビジネスターミナルを極める厳選3宿',
     description: '福岡空港から地下鉄でわずか5分！博多駅徒歩5分で地下1250mから湧き出る天然温泉大浴場を誇る「八百治博多ホテル」、祇園駅直結・中洲も徒歩圏で本格サウナと夜鳴きそばが魅力の「ドーミーイン博多祇園」、博多駅博多口すぐで露天風呂とサウナを備える「西鉄ホテル クルーム博多」を徹底比較。',
     author: {
       '@type': 'Organization',
@@ -72,9 +72,7 @@ export default function ArticlePage() {
         <div className="inline-block bg-amber-700 text-white text-xs font-semibold px-3 py-1 rounded-full mb-3 tracking-wider">
           ひとり旅・出張・サウナ＆名湯特集
         </div>
-        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">
-          【福岡博多出張・天然温泉サウナ】博多駅直結・自家源泉の湯・中洲屋台＆もつ鍋！九州の美食とビジネスターミナルを極める厳選3宿
-        </h1>
+        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">「福岡博多出張・天然温泉サウナ」博多駅直結・自家源泉の湯・中洲屋台＆もつ鍋！九州の美食とビジネスターミナルを極める厳選3宿</h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.13 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>

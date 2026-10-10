@@ -1,4 +1,4 @@
-# 【栃木・塩原】塩焼き温泉＆塩原温泉郷の秘湯ガイド！川沿いの露天風呂と歴史ある名湯宿
+# 栃木・塩原：塩焼き温泉＆塩原温泉郷の秘湯ガイド！川沿いの露天風呂と歴史ある名湯宿
 
 - URL: https://croud-travel.pages.dev/posts/shioyaki-onsen-tochigi-hidden-gem-guide/
 - 宿泊施設名: 塩焼き温泉・塩原温泉郷おすすめ宿特集

@@ -5,11 +5,11 @@ import Image from 'next/image';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kagawa-marugame-sakaide-seto-bridge-stay/" },
-  title: '【香川・丸亀＆坂出・瀬戸大橋】現存丸亀城・骨付鳥＆瀬戸大橋夕景宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+  title: '香川・丸亀＆坂出・瀬戸大橋：現存丸亀城・骨付鳥＆瀬戸大橋夕景宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
   description: '総高60mの日本一高い石垣を誇る現存木造十二天守「丸亀城」、全国に誇るご当地グルメ「元祖 骨付鳥（おや・ひな）」のスパイシーな肉汁、東山魁夷せとうち美術館から眺める瀬戸大橋の壮大なパノラマ、本場讃岐うどんの名店めぐり宿を徹底解説。',
   keywords: ["香川", "丸亀", "坂出", "瀬戸大橋", "現存丸亀城", "骨付鳥", "瀬戸大橋夕景宿"],
   openGraph: {
-    title: '【香川・丸亀＆坂出・瀬戸大橋】現存丸亀城・骨付鳥＆瀬戸大橋夕景宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+    title: '香川・丸亀＆坂出・瀬戸大橋：現存丸亀城・骨付鳥＆瀬戸大橋夕景宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
     description: '総高60mの日本一高い石垣を誇る現存木造十二天守「丸亀城」、全国に誇るご当地グルメ「元祖 骨付鳥（おや・ひな）」のスパイシーな肉汁、東山魁夷せとうち美術館から眺める瀬戸大橋の壮大なパノラマ、本場讃岐うどんの名店めぐり宿を徹底解説。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/kagawa-marugame-sakaide-seto-bridge-stay',
@@ -50,9 +50,7 @@ export default function Page() {
             <span>🗺️</span>
             <span>MARUGAME & SETO BRIDGE GUIDE</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">
-            【香川・丸亀＆坂出・瀬戸大橋】石垣の名城丸亀城・元祖骨付鳥＆瀬戸大橋パノラマ宿 完全ガイド
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">「香川・丸亀＆坂出・瀬戸大橋」石垣の名城丸亀城・元祖骨付鳥＆瀬戸大橋パノラマ宿 厳選ガイド</h1>
           <p className="max-w-3xl mx-auto text-stone-300 text-sm sm:text-base md:text-lg leading-relaxed mb-8">
             白壁の木造天守を戴く日本一の高石垣「丸亀城」。四層に重なる扇の勾配と呼ばれる美しい曲線美の石垣が旅人を圧倒します。全国の肉好きを唸らせるスパイシーな丸亀発祥のご当地グルメ「骨付鳥」。瀬戸内海を跨いで本州と四国を結ぶ世紀の大架橋「瀬戸大橋」。夕景に浮かび上がる橋梁美を望む「東山魁夷せとうち美術館」と、朝から行列ができる名門讃岐うどん店。歴史・橋梁・美食が凝縮した香川・中讃ステイへご案内します。
           </p>

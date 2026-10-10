@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/osaka-umeda-solo-business-sauna-onsen-stay/" },
-  title: '【大阪梅田出張・サウナ温泉ステイ】客室天然温泉・日本初カプセルサウナ聖地・キタの歓楽街！西日本最大の拠点を制する厳選3宿',
+  title: '大阪梅田出張・サウナ温泉ステイ：客室天然温泉・日本初カプセルサウナ聖地・キタの歓楽街！西日本最大の拠点を制する厳選3宿',
   description: '新大阪駅からJR・御堂筋線で約5分！全客室のバスルームに天然温泉を給湯するラグジュアリーシティホテル「ホテル阪神大阪」、黒川紀章設計の伝説的サウナ聖地「カプセルイン大阪（ニュージャパン梅田）」、最上階に伊豆直送露天スパを備える「天然温泉ホテルリブマックスPREMIUM梅田EAST。」を楽天APIデータに基づき徹底比較。',
   keywords: '大阪 梅田 出張 ホテル,梅田 サウナ ホテル,ホテル阪神大阪,カプセルイン大阪,ニュージャパン梅田,梅田 温泉 一人旅',
   openGraph: {
-    title: '【大阪梅田出張・サウナ温泉ステイ】客室天然温泉・日本初カプセルサウナ聖地・キタの歓楽街！西日本最大の拠点を制する厳選3宿',
+    title: '大阪梅田出張・サウナ温泉ステイ：客室天然温泉・日本初カプセルサウナ聖地・キタの歓楽街！西日本最大の拠点を制する厳選3宿',
     description: '新大阪駅からJR・御堂筋線で約5分！全客室のバスルームに天然温泉を給湯するラグジュアリーシティホテル「ホテル阪神大阪」、黒川紀章設計の伝説的サウナ聖地「カプセルイン大阪（ニュージャパン梅田）」、最上階に伊豆直送露天スパを備える「天然温泉ホテルリブマックスPREMIUM梅田EAST。」を楽天APIデータに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/osaka-umeda-solo-business-sauna-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【大阪梅田出張・サウナ温泉ステイ】客室天然温泉・日本初カプセルサウナ聖地・キタの歓楽街！西日本最大の拠点を制する厳選3宿',
+    headline: '大阪梅田出張・サウナ温泉ステイ：客室天然温泉・日本初カプセルサウナ聖地・キタの歓楽街！西日本最大の拠点を制する厳選3宿',
     description: '新大阪駅からJR・御堂筋線で約5分！全客室のバスルームに天然温泉を給湯するラグジュアリーシティホテル「ホテル阪神大阪」、黒川紀章設計の伝説的サウナ聖地「カプセルイン大阪（ニュージャパン梅田）」、最上階に伊豆直送露天スパを備える「天然温泉ホテルリブマックスPREMIUM梅田EAST。」を楽天APIデータに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -72,9 +72,7 @@ export default function ArticlePage() {
         <div className="inline-block bg-amber-700 text-white text-xs font-semibold px-3 py-1 rounded-full mb-3 tracking-wider">
           ひとり旅・出張・サウナ＆名湯特集
         </div>
-        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">
-          【大阪梅田出張・サウナ温泉ステイ】客室天然温泉・日本初カプセルサウナ聖地・キタの歓楽街！西日本最大の拠点を制する厳選3宿
-        </h1>
+        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">「大阪梅田出張・サウナ温泉ステイ」客室天然温泉・日本初カプセルサウナ聖地・キタの歓楽街！西日本最大の拠点を制する厳選3宿</h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.13 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>

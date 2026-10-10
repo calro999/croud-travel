@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '朝霧煙る金鱗湖と由布岳の絶景！由布院温泉の露天風呂付き離れ＆憧れ名門旅館×ふるさと納税完全攻略ガイド【2026年最新】花由・秀峰館・梅園',
+  title: '朝霧煙る金鱗湖と由布岳の絶景！由布院温泉の露天風呂付き離れ＆憧れ名門旅館×ふるさと納税極上旅ガイド花由・秀峰館・梅園',
   description: '女性やカップルに憧れNo.1の温泉リゾート・由布院温泉！幻想的な朝霧が立ちのぼる金鱗湖や湯の坪街道散策。「ゆふいん花由」「ゆふいんホテル秀峰館」「由布院 梅園 GARDEN RESORT。」を、大分県由布市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。全室離れ露天風呂、由布岳一望展望大浴場、一万坪庭園を堪能。',
   keywords: ["2026年最新", "花由", "秀峰館", "梅園", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-yufuin-onsen-kinrinko-luxury-stay/",
   },
   openGraph: {
-    title: '朝霧煙る金鱗湖と由布岳の絶景！由布院温泉の露天風呂付き離れ＆憧れ名門旅館×ふるさと納税完全攻略ガイド【2026年最新】花由・秀峰館・梅園',
+    title: '朝霧煙る金鱗湖と由布岳の絶景！由布院温泉の露天風呂付き離れ＆憧れ名門旅館×ふるさと納税極上旅ガイド花由・秀峰館・梅園',
     description: '女性やカップルに憧れNo.1の温泉リゾート・由布院温泉！幻想的な朝霧が立ちのぼる金鱗湖や湯の坪街道散策。「ゆふいん花由」「ゆふいんホテル秀峰館」「由布院 梅園 GARDEN RESORT。」を、大分県由布市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。全室離れ露天風呂、由布岳一望展望大浴場、一万坪庭園を堪能。',
     url: 'https://croud-travel.pages.dev/furusato-tax-yufuin-onsen-kinrinko-luxury-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoYufuinOnsenKinrinkoStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           全国憧れNo.1！由布院温泉名門宿特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          朝霧煙る金鱗湖と由布岳の絶景！由布院温泉の露天風呂付き離れ＆憧れ名門旅館×ふるさと納税完全攻略ガイド【2026年最新】花由・秀峰館・梅園
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">朝霧煙る金鱗湖と由布岳の絶景！由布院温泉の露天風呂付き離れ＆憧れ名門旅館×ふるさと納税極上旅ガイド花由・秀峰館・梅園</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoYufuinOnsenKinrinkoStayPage() {
               【湯布院随一の絶景＆眺望★★★★★】お客様評価5つ星！由布岳を望む眺望とPH9.2の温泉自慢の宿
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “高速道路から近く眺望も抜群、食事も大満足高速道路降りて直ぐの場所で便利なうえ、湯布岳の眺望も抜群でした。お部屋は広く離れのためとても静かでとてもくつろげました。食事も創作料理で美味しく大満… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D76377%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoYufuinOnsenKinrinkoStayPage() {
               由布院駅より車で３分。湯布院インターより車で１０分とアクセス良好。由布院盆地の中央部にあります。
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “清潔感がありコスパも最高!キチンと清掃されてて、清潔感があるホテルでした。コスパ最高です。 ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D28141%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoYufuinOnsenKinrinkoStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               2021年リニューアルオープン★由布岳眺望の絶景露天風呂とエリア随一の大きさがある貸切家族風呂も人気
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “子供が食べられるメニューが少なめ子どもの食べたいものが少なかった。 ”
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

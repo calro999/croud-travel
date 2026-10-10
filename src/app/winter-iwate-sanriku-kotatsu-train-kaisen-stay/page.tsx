@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月岩手】三陸鉄道こたつ列車の冬絶景と浄土ヶ浜雪景色！名宿5選',
+  title: '11・12・1月岩手：三陸鉄道こたつ列車の冬絶景と浄土ヶ浜雪景色！名宿5選',
   description: '11月から1月、岩手県三陸沿岸（宮古・釜石・大船渡・田野畑）は、太平洋の紺碧と雪化粧した白亜の奇岩が織りなす息を呑む絶景の季節を迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '三陸鉄道 こたつ列車, 浄土ヶ浜 冬, 瓶ドン 宮古, 三陸あわび 宿泊, 三陸毛ガニ 宿, 浄土ヶ浜パークホテル, 大船渡温泉, ホテル羅賀荘, 11月 12月 1月 岩手旅行, リアス海岸 絶景温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-iwate-sanriku-kotatsu-train-kaisen-stay/"
   },
   openGraph: {
-    title: '【11・12・1月岩手】三陸鉄道こたつ列車の冬絶景と浄土ヶ浜雪景色！名宿5選',
+    title: '11・12・1月岩手：三陸鉄道こたつ列車の冬絶景と浄土ヶ浜雪景色！名宿5選',
     description: '11月から1月、岩手県三陸沿岸（宮古・釜石・大船渡・田野畑）は、太平洋の紺碧と雪化粧した白亜の奇岩が織りなす息を呑む絶景の季節を迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-iwate-sanriku-kotatsu-train-kaisen-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月岩手】三陸鉄道こたつ列車の冬絶景と浄土ヶ浜雪景色・名物瓶ドン＆極上三陸あわび・毛ガニを味わう海沿いの名宿5選",
+    title: "11・12・1月岩手：三陸鉄道こたつ列車の冬絶景と浄土ヶ浜雪景色・名物瓶ドン＆極上三陸あわび・毛ガニを味わう海沿いの名宿5選",
     description: "11月から1月、岩手県三陸沿岸（宮古・釜石・大船渡・田野畑）は、太平洋の紺碧と雪化粧した白亜の奇岩が織りなす息を呑む絶景の季節を迎えます。12月から運行を開始する三陸鉄道の冬の風物詩「こたつ列車」では、車内にぬくぬくのこたつが設えられ、車窓を流れるリアス海岸の雪景色と名物駅弁を堪能。名勝・浄土ヶ浜では、純白の雪と松の緑、澄み切った海のコントラストがまるで一幅の日本画のような幽玄美を放ちます。冬の三陸グルメは全国屈指の贅沢さを誇り、宮古名物「瓶ドン」をはじめ、旨味の詰まった肉厚な「三陸あわび」、身がぎっしり詰まった冬の「三陸毛ガニ」、濃厚なタラの白子や寒鱈汁、そして岩手が誇る最高級前沢牛がテーブルを彩ります。冬ならではの澄み渡る潮風と絶景温泉に癒やされる厳選5宿を詳しく紹介します。",
     images: ['https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80']
   }
@@ -246,9 +246,7 @@ export default function IwateSanrikuKotatsuTrainPage() {
             <Snowflake className="w-3.5 h-3.5" />
             11月・12月・1月限定 冬の三陸鉄道＆極上海鮮特集
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-tight">
-            【岩手・三陸沿岸】三陸鉄道こたつ列車の冬絶景と浄土ヶ浜雪景色・名物瓶ドン＆極上三陸あわび・毛ガニを味わう海沿いの名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-tight">「岩手・三陸沿岸」三陸鉄道こたつ列車の冬絶景と浄土ヶ浜雪景色・名物瓶ドン＆極上三陸あわび・毛ガニを味わう海沿いの名宿5選</h1>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed pt-2">
             ぬくぬくのこたつに入りながら車窓の雪白波を眺める三陸鉄道の旅。雪化粧した白亜の奇岩が聳える浄土ヶ浜、名物「瓶ドン」と肉厚なあわび踊り焼き、冬の毛ガニを堪能する感動の冬旅へ。
           </p>

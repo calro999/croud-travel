@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            日光・いろは坂の絶景紅葉と中禅寺湖・奥日光湯元温泉の白濁硫黄泉を満喫する秋の贅沢旅
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">日光・いろは坂の絶景紅葉と中禅寺湖・奥日光湯元温泉の白濁硫黄泉を満喫する秋の贅沢旅</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             いろは坂の圧巻パノラマ紅葉から奥日光のエメラルド白濁泉へ。世界遺産と自然美に酔いしれる秋の至高旅。
           </p>

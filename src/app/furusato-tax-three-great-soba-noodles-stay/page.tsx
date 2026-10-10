@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-soba-noodles-stay/" },
-  title: '日本三大そば＆打ち立て蕎麦の芳香・名水と門前宿×ふるさと納税完全ガイド【2026年最新】戸隠・出雲・盛岡',
+  title: '日本三大そば＆打ち立て蕎麦の芳香・名水と門前宿×ふるさと納税厳選ガイド戸隠・出雲・盛岡',
   description: '日本三大そば（長野戸隠そば・島根出雲そば・岩手盛岡わんこそば）の極上グルメ旅！霊山戸隠の清らかな水と一本棒丸延ばし「手打ちそばの宿石田屋」、出雲大社門前と三段朱塗り割子そば「玉造温泉佳翠苑皆美」、掛け声響くおもてなしの食文化「ダイワロイネットホテル盛岡」。打ち立て挽きたての香りと名湯宿を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大そば・名水美食特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大そば＆打ち立て蕎麦の芳香・名水と門前宿×ふるさと納税完全ガイド【2026年最新】戸隠・出雲・盛岡',
+    title: '日本三大そば＆打ち立て蕎麦の芳香・名水と門前宿×ふるさと納税厳選ガイド戸隠・出雲・盛岡',
     description: '日本三大そば（長野戸隠そば・島根出雲そば・岩手盛岡わんこそば）の極上グルメ旅！霊山戸隠の清らかな水と一本棒丸延ばし「手打ちそばの宿石田屋」、出雲大社門前と三段朱塗り割子そば「玉造温泉佳翠苑皆美」、掛け声響くおもてなしの食文化「ダイワロイネットホテル盛岡」。打ち立て挽きたての香りと名湯宿を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-soba-noodles-stay',
@@ -142,9 +142,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大そば・名水美食特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大そば＆名水宿坊・温泉郷の美食旅×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大そば＆名水宿坊・温泉郷の美食旅×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             日本古来の滋養と伝統を宿し、各地の自然と信仰の歴史に深く結びついて発展してきた「日本三大そば」――戸隠連峰の清らかな雪解け水で打たれ、一本棒で丸く延ばし五つの束に盛り分ける「ぼっち盛り」が美しい長野の「戸隠そば」、挽きぐるみと呼ばれる玄そばの実を丸ごと挽き込み三段の朱塗り器に薬味と濃い出汁を直接かけて味わう島根の「出雲割子そば」、そして給仕の元気な掛け声とともに一口ずつお椀に投げ入れられるおもてなしの宴席料理から生まれた岩手の「盛岡わんこそば」。それぞれの風土が醸す奥深い香りと喉越しを堪能した後は、老舗宿坊の静寂や美肌の名湯に癒やされる贅沢な休日を楽天ふるさと納税でお楽しみください。
           </p>

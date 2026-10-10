@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【冬の熱海海上花火大会＆客室露天】絶景オーシャンビュー！名宿5選',
+  title: '冬の熱海海上花火大会＆客室露天：絶景オーシャンビュー！名宿5選',
   description: '11月・12月にも開催される伝統の「熱海海上花火大会」！空気が澄んでいるため夏以上に鮮やかに夜空と海面を染める花火を、客室専用露天風呂やバルコニーから大迫力で鑑賞できる特等席の温泉旅館。',
   keywords: "熱海 温泉 露天風呂 旅館 花火, 11月旅行, 12月旅行, 冬休み, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-atami-fireworks-ocean-view-stay/",
   },
   openGraph: {
-    title: '【冬の熱海海上花火大会＆客室露天】絶景オーシャンビュー！名宿5選',
+    title: '冬の熱海海上花火大会＆客室露天：絶景オーシャンビュー！名宿5選',
     description: '11月・12月にも開催される伝統の「熱海海上花火大会」！空気が澄んでいるため夏以上に鮮やかに夜空と海面を染める花火を、客室専用露天風呂やバルコニーから大迫力で鑑賞できる特等席の温泉旅館。',
     url: 'https://croud-travel.pages.dev/winter-atami-fireworks-ocean-view-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【冬の熱海海上花火大会＆客室露天】澄み切った冬空に咲く大輪の花火！絶景オーシャンビュー宿5選",
+    title: "冬の熱海海上花火大会＆客室露天：澄み切った冬空に咲く大輪の花火！絶景オーシャンビュー宿5選",
     description: "11月・12月にも開催される伝統の「熱海海上花火大会」！空気が澄んでいるため夏以上に鮮やかに夜空と海面を染める花火を、客室専用露天風呂やバルコニーから大迫力で鑑賞できる特等席の温泉旅館。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>冬の熱海花火＆客室露天風呂</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【冬の熱海海上花火大会＆客室露天】澄み切った冬空に咲く大輪の花火！絶景オーシャンビュー宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「冬の熱海海上花火大会＆客室露天」澄み切った冬空に咲く大輪の花火！絶景オーシャンビュー宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             11月・12月にも開催される伝統の「熱海海上花火大会」！空気が澄んでいるため夏以上に鮮やかに夜空と海面を染める花火を、客室専用露天風呂やバルコニーから大迫力で鑑賞できる特等席の温泉旅館。
           </p>

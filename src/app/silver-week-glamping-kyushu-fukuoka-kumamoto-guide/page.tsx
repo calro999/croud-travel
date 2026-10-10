@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-kyushu-fukuoka-kumamoto-guide/" },
-  title: "【九州シルバーウィーク グランピング】阿蘇カルデラ・糸島ビーチ・由布院温泉の極上ステイ ｜ 日本全国・旅宿クラウド",
+  title: "九州シルバーウィーク グランピング：阿蘇カルデラ・糸島ビーチ・由布院温泉の極上ステイ ｜ 日本全国・旅宿クラウド",
   description:
     "九州の豊かな大自然と名湯を味わう秋連休！阿蘇の大草原パノラマ、糸島のおしゃれなシーサイドドーム、由布院・別府エリアの天然温泉付きグランピング施設を徹底比較。",
   keywords: ["九州シルバーウィーク", "グランピング", "阿蘇カルデラ", "糸島ビーチ", "由布院温泉の極上ステイ", "温泉宿", "宿泊予約"],
@@ -115,14 +115,7 @@ export default function SilverWeekGlampingKyushuFukuokaKumamotoPage() {
             大自然×天然名湯 九州グランピング特集・2026秋
           </div>
 
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【九州シルバーウィーク グランピング】<br />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-300 via-teal-200 to-cyan-200">
-              阿蘇カルデラ・糸島ビーチ・別府由布院
-            </span>
-            <br />
-            源泉かけ流し温泉＆九州黒毛和牛BBQステイ
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「九州シルバーウィーク グランピング」<br /> <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-300 via-teal-200 to-cyan-200"> 阿蘇カルデラ・糸島ビーチ・別府由布院 </span> <br /> 源泉かけ流し温泉＆九州黒毛和牛BBQステイ</h1>
           <p className="text-emerald-100/90 text-base sm:text-lg max-w-3xl leading-relaxed mb-8">
             雄大な阿蘇カルデラの大草原パノラマ、波音響くシーサイドドーム、そして日本有数の名湯が湧く別府・由布院・霧島。
             大自然の爽快感と本格的な源泉かけ流し温泉を同時に満喫できる、九州ならではのラグジュアリー・アウトドア体験を厳選紹介します。

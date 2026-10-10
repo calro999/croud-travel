@@ -28,7 +28,7 @@ interface RakutenCategoryData {
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://croud-travel.pages.dev";
 
 export const metadata: Metadata = {
-  title: "【箱根温泉 完全計画ガイド 2026】1泊2日・2泊3日モデルコース＆箱根湯本・強羅・芦ノ湖・露天風呂付き客室・カップル温泉宿 ｜ 旅宿クラウド",
+  title: "箱根温泉 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆箱根湯本・強羅・芦ノ湖・露天風呂付き客室・カップル温泉宿 ｜ 旅宿クラウド",
   description:
     "箱根温泉旅行の計画を完全サポート！ロマンスカーで行く1泊2日王道モデルコース、箱根湯本・強羅・仙石原・芦ノ湖のエリア別見所、客室露天風呂・部屋食付き高級温泉旅館から日帰り温泉までおすすめの宿泊プランまで徹底網羅。",
   keywords: ["箱根温泉", "完全計画ガイド", "2026", "1泊2日", "2泊3日モデルコース", "箱根湯本", "強羅"],
@@ -98,12 +98,7 @@ export default function HakoneHubPage() {
           </span>
         </div>
 
-        <h1 className="text-3xl md:text-5xl font-black font-journal-serif leading-tight text-white">
-          【箱根温泉 完全ガイド】<br />
-          <span className="bg-gradient-to-r from-amber-200 via-emerald-200 to-amber-100 bg-clip-text text-transparent">
-            名湯露天風呂・富士山絶景・芦ノ湖＆箱根湯本・強羅宿
-          </span>
-        </h1>
+        <h1 className="text-3xl md:text-5xl font-black font-journal-serif leading-tight text-white">「箱根温泉 厳選ガイド」<br /> <span className="bg-gradient-to-r from-amber-200 via-emerald-200 to-amber-100 bg-clip-text text-transparent"> 名湯露天風呂・富士山絶景・芦ノ湖＆箱根湯本・強羅宿 </span></h1>
 
         <p className="text-emerald-100/90 text-xs md:text-sm max-w-3xl leading-relaxed font-medium">
           首都圏屈指の温泉郷・箱根。「箱根フリーパスを使った周遊ルートは？」「箱根湯本と強羅、どっちに泊まるべき？」「記念日デートにぴったりの客室露天風呂宿は？」を縦掘りし、おすすめの宿泊施設情報で繋ぐ総合ガイド。

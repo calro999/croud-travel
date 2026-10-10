@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-castles-historic-stay/" },
-  title: '日本三大名城＆不落の巨城を望む城見ステイ×ふるさと納税完全ガイド【2026年最新】熊本・名古屋・大阪',
+  title: '日本三大名城＆不落の巨城を望む城見ステイ×ふるさと納税厳選ガイド熊本・名古屋・大阪',
   description: '戦国武将たちの夢と最高峰の築城技術が宿る日本の名城巡り！熊本「熊本城」加藤清正の武者返しと石垣を望むホテル日航熊本、愛知「名古屋城」徳川尾張藩の金鯱天守と名古屋観光ホテル、大阪「大阪城」豊臣秀吉の栄華と広大な緑に抱かれるホテルニューオータニ大阪。歴史ロマンと夜のライトアップ、豪華ディナーを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大名城・歴史紀行特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大名城＆不落の巨城を望む城見ステイ×ふるさと納税完全ガイド【2026年最新】熊本・名古屋・大阪',
+    title: '日本三大名城＆不落の巨城を望む城見ステイ×ふるさと納税厳選ガイド熊本・名古屋・大阪',
     description: '戦国武将たちの夢と最高峰の築城技術が宿る日本の名城巡り！熊本「熊本城」加藤清正の武者返しと石垣を望むホテル日航熊本、愛知「名古屋城」徳川尾張藩の金鯱天守と名古屋観光ホテル、大阪「大阪城」豊臣秀吉の栄華と広大な緑に抱かれるホテルニューオータニ大阪。歴史ロマンと夜のライトアップ、豪華ディナーを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-castles-historic-stay',
@@ -154,9 +154,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大名城・歴史紀行特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大名城＆不落の巨城を望む城見ステイ×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大名城＆不落の巨城を望む城見ステイ×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             戦国から江戸の天下泰平へと移り変わる激動の時代に築かれ、日本の築城技術の極致を示す「日本三大名城」――武者返しと呼ばれる美しい反りの石垣と加藤清正の軍事要塞としての知恵が詰まった熊本の「熊本城」、徳川家康が天下普請で築かせ壮麗な金鯱が天を衝く尾張徳川家の居城・愛知の「名古屋城」、そして豊臣秀吉が威信をかけて築き大坂の陣の歴史を今に刻む難攻不落の要塞・大阪の「大阪城」。ライトアップされた天守を客室やレストランから眺め、城下町の極上グルメを堪能する特別なひとときを楽天ふるさと納税でお楽しみください。
           </p>

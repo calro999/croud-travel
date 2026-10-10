@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【超軽量パックラフト冒険】清流の静水と急流を漕ぎ抜ける！奥多摩・みなかみ渓谷温泉宿5選",
+  title: "超軽量パックラフト冒険：清流の静水と急流を漕ぎ抜ける！奥多摩・みなかみ渓谷温泉宿5選",
   description: "折りたたんで持ち運べる超軽量ボート「パックラフト」で楽しむ新感覚リバーアクティビティ！エメラルドグリーンの清流を自分のパドルで下った後は、渓谷美を一望する露天風呂とサウナで極上のととのいを。",
   keywords: "水上温泉 露天風呂 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/super-panoramic-canyon-packrafting-stay/",
   },
   openGraph: {
-    title: "【超軽量パックラフト冒険】清流の静水と急流を漕ぎ抜ける！奥多摩・みなかみ渓谷温泉宿5選",
+    title: "超軽量パックラフト冒険：清流の静水と急流を漕ぎ抜ける！奥多摩・みなかみ渓谷温泉宿5選",
     description: "折りたたんで持ち運べる超軽量ボート「パックラフト」で楽しむ新感覚リバーアクティビティ！エメラルドグリーンの清流を自分のパドルで下った後は、渓谷美を一望する露天風呂とサウナで極上のととのいを。",
     url: 'https://croud-travel.pages.dev/super-panoramic-canyon-packrafting-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【超軽量パックラフト冒険】清流の静水と急流を漕ぎ抜ける！奥多摩・みなかみ渓谷温泉宿5選",
+    title: "超軽量パックラフト冒険：清流の静水と急流を漕ぎ抜ける！奥多摩・みなかみ渓谷温泉宿5選",
     description: "折りたたんで持ち運べる超軽量ボート「パックラフト」で楽しむ新感覚リバーアクティビティ！エメラルドグリーンの清流を自分のパドルで下った後は、渓谷美を一望する露天風呂とサウナで極上のととのいを。",
   }
 };
@@ -123,9 +123,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>パックラフト＆渓流露天風呂</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【超軽量パックラフト冒険】清流の静水と急流を漕ぎ抜ける！奥多摩・みなかみ渓谷温泉宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「超軽量パックラフト冒険」清流の静水と急流を漕ぎ抜ける！奥多摩・みなかみ渓谷温泉宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             折りたたんで持ち運べる超軽量ボート「パックラフト」で楽しむ新感覚リバーアクティビティ！エメラルドグリーンの清流を自分のパドルで下った後は、渓谷美を一望する露天風呂とサウナで極上のととのいを。
           </p>

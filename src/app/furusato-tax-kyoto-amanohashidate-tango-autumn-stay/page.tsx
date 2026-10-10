@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            京都・日本三景 天橋立の松並木紅葉＆丹後！天橋立温泉の美肌湯と丹後ぐじ・寒ブリ会席
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">京都・日本三景 天橋立の松並木紅葉＆丹後！天橋立温泉の美肌湯と丹後ぐじ・寒ブリ会席</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の京都・天橋立＆丹後特集！天橋立ビューランドからの股のぞき絶景と傘松公園の秋パノラマ、阿蘇海と宮津湾を結ぶ運河沿いの美肌名湯「天橋立温泉」、丹後ぐじ（甘鯛）や11月解禁の間人ガニ・寒ブリをふるさと納税トラベルで味わう極上京都旅。
           </p>

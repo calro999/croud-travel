@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/fukui-awara-solo-retreat-onsen-stay/" },
-  title: '【あわら温泉ひとり旅・関西の奥座敷おこもり】74本もの独自源泉・庭園露天風呂・越前がにと若狭牛！北陸新幹線延伸で注目の名湯厳選3宿',
+  title: 'あわら温泉ひとり旅・関西の奥座敷おこもり：74本もの独自源泉・庭園露天風呂・越前がにと若狭牛！北陸新幹線延伸で注目の名湯厳選3宿',
   description: '関西・中京の奥座敷として愛され続ける福井屈指の名湯・あわら温泉！大浴場や露天風呂で自家源泉をゆったり堪能できる名宿「越前あわら温泉 長谷川」、北陸最大級の庭園露天風呂や多彩な湯殿を誇る「北陸 福井 あわら温泉 美松」、落ち着いた木造の温もりと静寂が魅力の「あわら温泉 みのや泰平閣」を楽天API最新データに基づき徹底比較。',
   keywords: 'あわら温泉 一人旅 宿,あわら温泉 ホテル 一人,越前あわら温泉 長谷川,あわら温泉 美松,みのや泰平閣,あわら温泉 ひとり旅 おこもり',
   openGraph: {
-    title: '【あわら温泉ひとり旅・関西の奥座敷おこもり】74本もの独自源泉・庭園露天風呂・越前がにと若狭牛！北陸新幹線延伸で注目の名湯厳選3宿',
+    title: 'あわら温泉ひとり旅・関西の奥座敷おこもり：74本もの独自源泉・庭園露天風呂・越前がにと若狭牛！北陸新幹線延伸で注目の名湯厳選3宿',
     description: '関西・中京の奥座敷として愛され続ける福井屈指の名湯・あわら温泉！大浴場や露天風呂で自家源泉をゆったり堪能できる名宿「越前あわら温泉 長谷川」、北陸最大級の庭園露天風呂や多彩な湯殿を誇る「北陸 福井 あわら温泉 美松」、落ち着いた木造の温もりと静寂が魅力の「あわら温泉 みのや泰平閣」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/fukui-awara-solo-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【あわら温泉ひとり旅・関西の奥座敷おこもり】74本もの独自源泉・庭園露天風呂・越前がにと若狭牛！北陸新幹線延伸で注目の名湯厳選3宿',
+    headline: 'あわら温泉ひとり旅・関西の奥座敷おこもり：74本もの独自源泉・庭園露天風呂・越前がにと若狭牛！北陸新幹線延伸で注目の名湯厳選3宿',
     description: '関西・中京の奥座敷として愛され続ける福井屈指の名湯・あわら温泉！大浴場や露天風呂で自家源泉をゆったり堪能できる名宿「越前あわら温泉 長谷川」、北陸最大級の庭園露天風呂や多彩な湯殿を誇る「北陸 福井 あわら温泉 美松」、落ち着いた木造の温もりと静寂が魅力の「あわら温泉 みのや泰平閣」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             福井・あわら温泉ひとり旅＆北陸名湯おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【あわら温泉ひとり旅・関西の奥座敷おこもり】74本もの独自源泉・庭園露天風呂・越前がにと若狭牛！北陸新幹線延伸で注目の名湯厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「あわら温泉ひとり旅・関西の奥座敷おこもり」74本もの独自源泉・庭園露天風呂・越前がにと若狭牛！北陸新幹線延伸で注目の名湯厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

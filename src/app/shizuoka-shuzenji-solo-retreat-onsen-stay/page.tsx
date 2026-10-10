@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/shizuoka-shuzenji-solo-retreat-onsen-stay/" },
-  title: '【修善寺温泉ひとり旅・伊豆小京都おこもり】竹林の小径・国の登録文化財・桂川渓流露天！千二百年の歴史に抱かれる大人の隠れ宿厳選3宿',
+  title: '修善寺温泉ひとり旅・伊豆小京都おこもり：竹林の小径・国の登録文化財・桂川渓流露天！千二百年の歴史に抱かれる大人の隠れ宿厳選3宿',
   description: '伊豆の小京都・修善寺！全館が国の登録有形文化財で天平大浴堂が圧巻の「新井旅館」、一万五千坪の日本庭園とモダンな美空間が評判の「宙 SORA 渡月荘金龍」、桂川沿いで多彩な湯めぐりを楽しめる共立リゾート「修善寺温泉 桂川」を楽天API最新データに基づき徹底比較。',
   keywords: '修善寺温泉 一人旅 宿,修善寺 ホテル 一人 温泉,新井旅館 修善寺,宙SORA渡月荘金龍,修善寺 桂川,修善寺 竹林の小径 ひとり旅',
   openGraph: {
-    title: '【修善寺温泉ひとり旅・伊豆小京都おこもり】竹林の小径・国の登録文化財・桂川渓流露天！千二百年の歴史に抱かれる大人の隠れ宿厳選3宿',
+    title: '修善寺温泉ひとり旅・伊豆小京都おこもり：竹林の小径・国の登録文化財・桂川渓流露天！千二百年の歴史に抱かれる大人の隠れ宿厳選3宿',
     description: '伊豆の小京都・修善寺！全館が国の登録有形文化財で天平大浴堂が圧巻の「新井旅館」、一万五千坪の日本庭園とモダンな美空間が評判の「宙 SORA 渡月荘金龍」、桂川沿いで多彩な湯めぐりを楽しめる共立リゾート「修善寺温泉 桂川」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/shizuoka-shuzenji-solo-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【修善寺温泉ひとり旅・伊豆小京都おこもり】竹林の小径・国の登録文化財・桂川渓流露天！千二百年の歴史に抱かれる大人の隠れ宿厳選3宿',
+    headline: '修善寺温泉ひとり旅・伊豆小京都おこもり：竹林の小径・国の登録文化財・桂川渓流露天！千二百年の歴史に抱かれる大人の隠れ宿厳選3宿',
     description: '伊豆の小京都・修善寺！全館が国の登録有形文化財で天平大浴堂が圧巻の「新井旅館」、一万五千坪の日本庭園とモダンな美空間が評判の「宙 SORA 渡月荘金龍」、桂川沿いで多彩な湯めぐりを楽しめる共立リゾート「修善寺温泉 桂川」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             静岡・修善寺温泉ひとり旅＆伊豆小京都おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【修善寺温泉ひとり旅・伊豆小京都おこもり】竹林の小径・国の登録文化財・桂川渓流露天！千二百年の歴史に抱かれる大人の隠れ宿厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「修善寺温泉ひとり旅・伊豆小京都おこもり」竹林の小径・国の登録文化財・桂川渓流露天！千二百年の歴史に抱かれる大人の隠れ宿厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

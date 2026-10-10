@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月指宿温泉】開聞岳望む錦江湾露天！名宿5選',
+  title: '指宿温泉で過ごす冬の旅（11・12月）！開聞岳望む錦江湾露天！名宿5選',
   description: '本州が本格的な寒さを迎える11月から12月にかけて、日中は20℃前後のぽかぽかとした暖かさが残る南国薩摩・鹿児島県「指宿温泉」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '指宿温泉 宿泊, 指宿 11月 12月, 天然砂むし温泉, 指宿白水館, いぶすき秀水園, 指宿シーサイドホテル, 吟松, 指宿ロイヤルホテル, かごしま黒豚 しゃぶしゃぶ, 開聞岳, 鹿児島 温泉 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kagoshima-ibusuki-onsen-sunamushi-black-pork-stay/",
   },
   openGraph: {
-    title: '【11・12月指宿温泉】開聞岳望む錦江湾露天！名宿5選',
+    title: '指宿温泉で過ごす冬の旅（11・12月）！開聞岳望む錦江湾露天！名宿5選',
     description: '本州が本格的な寒さを迎える11月から12月にかけて、日中は20℃前後のぽかぽかとした暖かさが残る南国薩摩・鹿児島県「指宿温泉」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-kagoshima-ibusuki-onsen-sunamushi-black-pork-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月指宿温泉の南国初冬リゾートと天然砂むし温泉】開聞岳望む錦江湾露天・極上かごしま黒豚しゃぶしゃぶ＆薩摩美味会席の宿5選",
+    title: "指宿温泉の南国初冬リゾートと天然砂むし温泉で過ごす冬の旅（11・12月）！開聞岳望む錦江湾露天・極上かごしま黒豚しゃぶしゃぶ＆薩摩美味会席の宿5選",
     description: "本州が本格的な寒さを迎える11月から12月にかけて、日中は20℃前後のぽかぽかとした暖かさが残る南国薩摩・鹿児島県「指宿温泉」。海岸から自然湧出する温泉熱を利用した世界唯一の「天然砂むし温泉」による究極のデトックス体験、薩摩富士「開聞岳」と穏やかな錦江湾を望む絶景パノラマ露天風呂、とろける甘みと極上の肉質を誇る「かごしま黒豚」しゃぶしゃぶ、さつま地鶏や錦江湾の旬魚、本場薩摩芋焼酎を堪能する名宿5選を徹底解説。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80'],
   }
@@ -298,10 +298,7 @@ export default function IbusukiOnsenWinterPage() {
             <SunMedium className="w-4 h-4 text-amber-400" />
             <span>11月・12月限定 初冬でも暖かい南国リゾート 世界唯一の天然砂むしと黒豚美食</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月指宿温泉の南国初冬リゾートと天然砂むし温泉】<br className="hidden sm:inline" />
-            開聞岳望む錦江湾露天・極上かごしま黒豚しゃぶしゃぶ＆薩摩美味会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">指宿温泉の南国初冬リゾートと天然砂むし温泉で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 開聞岳望む錦江湾露天・極上かごしま黒豚しゃぶしゃぶ＆薩摩美味会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-slate-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             寒さを忘れる南国薩摩の温暖な潮風。世界でここだけの「天然砂むし温泉」で心身を解き放ち、開聞岳の美景露天風呂と甘み際立つ極上「かごしま黒豚」しゃぶしゃぶを味わう癒やしの冬旅。
           </p>

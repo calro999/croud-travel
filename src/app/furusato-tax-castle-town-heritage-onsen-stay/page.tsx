@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-castle-town-heritage-onsen-stay/" },
-  title: '【国宝・名城めぐり×ふるさと納税】天守を望む絶景露天風呂＆歴史ある城下町の名宿完全ガイド | クラウドトラベル',
+  title: '国宝・名城めぐりをふるさと納税でお得に旅する！天守を望む絶景露天風呂＆歴史ある城下町の名宿厳選ガイド | クラウドトラベル',
   description: '白鷺城・烏城・国宝天守を愛でる歴史旅。兵庫・姫路、長野・松本、滋賀・彦根の城下町宿や天守展望露天風呂ホテルを厳選。武将のロマンと郷土会席をふるさと納税でお得に堪能する名城紀行。',
   openGraph: {
-    title: '【国宝・名城めぐり×ふるさと納税】天守を望む絶景露天風呂＆歴史ある城下町の名宿完全ガイド | クラウドトラベル',
+    title: '国宝・名城めぐりをふるさと納税でお得に旅する！天守を望む絶景露天風呂＆歴史ある城下町の名宿厳選ガイド | クラウドトラベル',
     description: '白鷺城・烏城・国宝天守を愛でる歴史旅。兵庫・姫路、長野・松本、滋賀・彦根の城下町宿や天守展望露天風呂ホテルを厳選。武将のロマンと郷土会席をふるさと納税でお得に堪能する名城紀行。',
     type: 'article',
   },
@@ -59,9 +59,7 @@ export default function Page() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             ふるさと納税×国宝名城・歴史城下町宿
           </div>
-          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            【国宝・名城めぐり×ふるさと納税】天守を望む絶景露天風呂＆歴史ある城下町の名宿完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">国宝・名城めぐりをふるさと納税でお得に旅する！天守を望む絶景露天風呂＆歴史ある城下町の名宿厳選ガイド</h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl mb-6">
             日本が世界に誇る木造建築美の最高峰「城郭」。白漆喰が青空に映える白鷺城こと姫路城、黒漆塗りの威風堂々たる姿が北アルプスに映える松本城、琵琶湖の畔に佇む国宝彦根城など、城を巡る旅は日本の歴史と美意識を五感で体感する最高の文化紀行です。さらに城下町には、藩主ゆかりの奥座敷温泉や、伝統の町家をモダンに再生したオーベルジュ、ライトアップされた天守を客室や展望露天風呂から一望できる絶景ホテルが点在しています。楽天ふるさと納税のトラベルクーポンを活用すれば、自治体への寄付を通じて歴史遺産の保全に貢献しつつ、城下町の格式ある名宿に実質30％オフでステイ可能。武将たちの夢の跡を辿り、名物の近江牛や信州そば、播磨灘の海の幸を味わう特別な歴史ステイへご案内します。
           </p>

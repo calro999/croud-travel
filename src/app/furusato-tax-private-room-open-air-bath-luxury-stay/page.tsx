@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '客室露天風呂付き客室で過ごす大人のプライベート温泉ステイ名旅館×ふるさと納税完全ガイド【2026年最新】修善寺・箱根・京都嵐山',
+  title: '客室露天風呂付き客室で過ごす大人のプライベート温泉ステイ名旅館×ふるさと納税厳選ガイド修善寺・箱根・京都嵐山',
   description: '好きな時に好きなだけ名湯に浸かる至福の時間！一万五千坪の日本庭園と緑に包まれる露天風呂付き客室を誇る伊豆の隠れ宿「修善寺温泉 宙 SORA 渡月荘金龍」、自家源泉を全室の専用露天風呂に掛け流し竹取物語の世界観を体現した「箱根 金乃竹 塔ノ澤」、保津川を望むプライベート露天風呂と最高峰の京懐石フレンチが評判の「翠嵐 ラグジュアリーコレクションホテル 京都。」。誰にも邪魔されないおこもり滞在を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
   keywords: ["2026年最新", "修善寺", "箱根", "京都嵐山", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: { canonical: baseUrl + '/furusato-tax-private-room-open-air-bath-luxury-stay/' },
   openGraph: {
-    title: '客室露天風呂付き客室で過ごす大人のプライベート温泉ステイ名旅館×ふるさと納税完全ガイド【2026年最新】修善寺・箱根・京都嵐山',
+    title: '客室露天風呂付き客室で過ごす大人のプライベート温泉ステイ名旅館×ふるさと納税厳選ガイド修善寺・箱根・京都嵐山',
     description: '好きな時に好きなだけ名湯に浸かる至福の時間！一万五千坪の日本庭園と緑に包まれる露天風呂付き客室を誇る伊豆の隠れ宿「修善寺温泉 宙 SORA 渡月荘金龍」、自家源泉を全室の専用露天風呂に掛け流し竹取物語の世界観を体現した「箱根 金乃竹 塔ノ澤」、保津川を望むプライベート露天風呂と最高峰の京懐石フレンチが評判の「翠嵐 ラグジュアリーコレクションホテル 京都。」。誰にも邪魔されないおこもり滞在を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
     url: baseUrl + '/furusato-tax-private-room-open-air-bath-luxury-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoPrivateRoomOpenAirStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             客室露天風呂付き客室＆極上プライベート温泉宿特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            客室露天風呂付き客室で過ごす大人のプライベート温泉ステイ名旅館×ふるさと納税完全ガイド【2026年最新】修善寺・箱根・京都嵐山
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">客室露天風呂付き客室で過ごす大人のプライベート温泉ステイ名旅館×ふるさと納税厳選ガイド修善寺・箱根・京都嵐山</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             誰にも気兼ねすることなく、朝陽の差し込む清々しい早朝も、月明かりが揺れる静寂の深夜も、部屋の扉を開けるだけでいつでも温泉に身を委ねられる贅沢――それが「客室露天風呂付き客室」の最大の魅力です。大浴場のような混雑や入浴時間を気にする必要が一切なく、自分たちのペースで心身を完全に解放できるプライベートな空間は、記念日やご褒美旅行、大切な人との語らいにこの上ない癒やしをもたらしてくれます。伊豆最古の温泉地・修善寺で一万五千坪もの壮大な日本庭園を借景に露天風呂付き客室を備える「宙 SORA 渡月荘金龍」、箱根の深い渓谷に佇み自家源泉かけ流しの露天風呂と幻想的な竹林空間で大人のおこもり旅を演出する「金乃竹 塔ノ澤」、そして京都・嵐山の保津川ほとりに建ち、専用の天然温泉露天風呂と世界最高峰の洗練されたおもてなしを誇る「翠嵐 ラグジュアリーコレクションホテル 京都。」。通常は高価格帯となる憧れの露天風呂付き客室も、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用すれば、実質自己負担2,000円で驚くほどお得に滞在可能です。何もしない贅沢を味わう、極上のプライベート温泉旅へ出かけましょう。
           </p>

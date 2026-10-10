@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hakone-freepass-break-even-model-route/" },
-  title: "【箱根フリーパスは本当に元が取れる？】徹底検証！通常運賃との差額シミュレーション＆1泊2日黄金ルート ｜ 日本全国・旅宿クラウド",
+  title: "箱根フリーパスは本当に元が取れる？：徹底検証！通常運賃との差額シミュレーション＆1泊2日黄金ルート ｜ 日本全国・旅宿クラウド",
   description:
     "箱根フリーパス（新宿発6,100円）でいくら得する？登山電車・ケーブルカー・ロープウェイ・海賊船・登山バスを通常料金で個別購入した場合（合計約8,200円）との差額比較、元が取れる王道モデルコースと強羅・湯本温泉宿。",
   keywords: ["1泊2日黄金ルート", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
@@ -234,14 +234,7 @@ export default function HakoneFreepassBreakEvenRoutePage() {
             <span className="w-2 h-2 rounded-full bg-emerald-400 animate-ping" />
             関東・首都圏 交通パス収支シミュレーション 2026
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【箱根フリーパスは本当に元が取れる？】<br />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-300 via-teal-200 to-cyan-300">
-              徹底検証！通常運賃との差額シミュレーション
-            </span>
-            <br />
-            ＆1泊2日黄金ルート解説
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「箱根フリーパスは本当に元が取れる？」<br /> <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-300 via-teal-200 to-cyan-300"> 徹底検証！通常運賃との差額シミュレーション </span> <br /> ＆1泊2日黄金ルート解説</h1>
           <p className="text-emerald-100/90 text-base sm:text-lg max-w-3xl leading-relaxed mb-8">
             小田急電鉄が発行する定番きっぷ「箱根フリーパス」。新宿発2日間6,100円の元を取るにはどこまで乗ればいいのか？登山電車・ケーブルカー・ロープウェイ・海賊船・登山バスを通常料金で個別購入した場合（合計約8,200円）との差額を1円単位で徹底比較。迷わず得する王道周遊スケジュールと厳選温泉宿を網羅しました。
           </p>

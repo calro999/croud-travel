@@ -3,11 +3,11 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【道後温泉×ふるさと納税】日本最古の湯・道後温泉本館と文学＆アートの街を旅する極上宿ガイド｜ふなや・大和屋本店・茶玻瑠',
+  title: '道後温泉をふるさと納税でお得に旅する！日本最古の湯・道後温泉本館と文学＆アートの街を旅する極上宿ガイド｜ふなや・大和屋本店・茶玻瑠',
   description: '日本書紀にも登場する日本最古の名湯・道後温泉を楽天ふるさと納税でお得に満喫！保存修理工事を終えた道後温泉本館の全館営業再開、夏目漱石「坊っちゃん」ゆかりの歴史、飛鳥乃湯泉や道後商店街の散策まで徹底案内。老舗最高峰「ふなや」、能舞台を擁する「大和屋本店」、屋上絶景露天の「茶玻瑠」をご紹介。',
   keywords: '道後温泉 ふるさと納税,道後温泉本館 旅館,ふなや 道後温泉 クーポン,大和屋本店 ふるさと納税,松山市 楽天トラベル クーポン',
   openGraph: {
-    title: '【道後温泉×ふるさと納税】日本最古の湯・道後温泉本館と文学＆アートの街を旅する極上宿ガイド｜ふなや・大和屋本店・茶玻瑠',
+    title: '道後温泉をふるさと納税でお得に旅する！日本最古の湯・道後温泉本館と文学＆アートの街を旅する極上宿ガイド｜ふなや・大和屋本店・茶玻瑠',
     description: '日本書紀にも登場する日本最古の名湯・道後温泉を楽天ふるさと納税でお得に満喫！保存修理工事を終えた道後温泉本館の全館営業再開、夏目漱石「坊っちゃん」ゆかりの歴史、飛鳥乃湯泉や道後商店街の散策まで徹底案内。老舗最高峰「ふなや」、能舞台を擁する「大和屋本店」、屋上絶景露天の「茶玻瑠」をご紹介。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-dogo-onsen-historic-bath-stay',
@@ -54,9 +54,7 @@ export default function FurusatoTaxArticle() {
             <span>•</span>
             <span>自治体公認 宿泊割引</span>
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-5xl font-extrabold tracking-tight text-white font-serif leading-tight">
-            【道後温泉×ふるさと納税】日本最古の湯・道後温泉本館と文学＆アートの街を旅する極上宿ガイド｜ふなや・大和屋本店・茶玻瑠
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-5xl font-extrabold tracking-tight text-white font-serif leading-tight">道後温泉をふるさと納税でお得に旅する！日本最古の湯・道後温泉本館と文学＆アートの街を旅する極上宿ガイド｜ふなや・大和屋本店・茶玻瑠</h1>
           <p className="text-stone-300 text-sm md:text-base max-w-2xl mx-auto pt-2 leading-relaxed">
             日本書紀にも登場する日本最古の名湯・道後温泉を楽天ふるさと納税でお得に満喫！保存修理工事を終えた道後温泉本館の全館営業再開、夏目漱石「坊っちゃん」ゆかりの歴史、飛鳥乃湯泉や道後商店街の散策まで徹底案内。老舗最高峰「ふなや」、能舞台を擁する「大和屋本店」、屋上絶景露天の「茶玻瑠」をご紹介。
           </p>

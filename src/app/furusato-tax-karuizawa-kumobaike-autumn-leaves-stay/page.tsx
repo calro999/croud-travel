@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '軽井沢・雲場池の鏡面スワンレイク紅葉＆旧軽銀座散策！高原リゾート温泉×ふるさと納税完全ガイド【2026年最新秋旅】長野',
+  title: '軽井沢・雲場池の鏡面スワンレイク紅葉＆旧軽銀座散策！高原リゾート温泉×ふるさと納税厳選ガイド長野',
   description: '10月中旬〜11月上旬に水面が燃えるような赤と黄に染まる「信州・軽井沢 雲場池（スワンレイク）」。旧軽井沢銀座のレトロ散策やハルニレテラス、秋風心地よい高原温泉「ホテルグリーンプラザ軽井沢」「ゆとりろ軽井沢ホテル」「旧軽井沢 ホテル音羽ノ森」で信州サーモンや信州プレミアム牛・信州新そばフレンチを堪能。ふるさと納税で実質2,000円。',
   keywords: ["軽井沢", "雲場池の鏡面スワンレイク紅葉", "2026年最新秋旅", "長野", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-karuizawa-kumobaike-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '軽井沢・雲場池の鏡面スワンレイク紅葉＆旧軽銀座散策！高原リゾート温泉×ふるさと納税完全ガイド【2026年最新秋旅】長野',
+    title: '軽井沢・雲場池の鏡面スワンレイク紅葉＆旧軽銀座散策！高原リゾート温泉×ふるさと納税厳選ガイド長野',
     description: '10月中旬〜11月上旬に水面が燃えるような赤と黄に染まる「信州・軽井沢 雲場池（スワンレイク）」。旧軽井沢銀座のレトロ散策やハルニレテラス、秋風心地よい高原温泉「ホテルグリーンプラザ軽井沢」「ゆとりろ軽井沢ホテル」「旧軽井沢 ホテル音羽ノ森」で信州サーモンや信州プレミアム牛・信州新そばフレンチを堪能。ふるさと納税で実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-karuizawa-kumobaike-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -113,9 +113,7 @@ export default function FeatureArticlePage() {
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">
-            軽井沢・雲場池の鏡面スワンレイク紅葉＆旧軽銀座散策！高原リゾート温泉×ふるさと納税完全ガイド【2026年最新秋旅】長野
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">軽井沢・雲場池の鏡面スワンレイク紅葉＆旧軽銀座散策！高原リゾート温泉×ふるさと納税厳選ガイド長野</h1>
           <p className="text-sm md:text-lg text-stone-200 max-w-3xl mx-auto leading-relaxed">
             スワンレイク雲場池の水面に映る奇跡の逆さ紅葉と、洗練された高原リゾートステイ。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
           </p>

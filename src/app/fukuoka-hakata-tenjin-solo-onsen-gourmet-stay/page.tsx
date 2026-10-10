@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/fukuoka-hakata-tenjin-solo-onsen-gourmet-stay/" },
-  title: '【福岡・博多出張＆ご褒美ソロ旅】博多駅直結・屋上温泉スパ・名物もつ鍋朝食！美食とサウナを満喫する極上宿 厳選3選',
+  title: '福岡・博多出張＆ご褒美ソロ旅：博多駅直結・屋上温泉スパ・名物もつ鍋朝食！美食とサウナを満喫する極上宿 厳選3選',
   description: '福岡空港から地下鉄でわずか約5分のメガシティ・博多＆天神！「屋上に天然温泉アウトドアスパ＆プール」を擁するランドマーク「都ホテル 博多」、キャナルシティ直結で天然温泉と豪華海鮮丼朝食が自慢の「ドーミーインPREMIUM博多・キャナルシティ前。」、天神のど真ん中でスカイスパを誇る「カンデオホテルズ福岡天神」を徹底比較。',
   keywords: '博多 出張 ホテル 温泉,福岡 一人旅 ホテル おすすめ,都ホテル博多 温泉,ドーミーインPREMIUM博多 宿泊,天神 サウナ ホテル',
   openGraph: {
-    title: '【福岡・博多出張＆ご褒美ソロ旅】博多駅直結・屋上温泉スパ・名物もつ鍋朝食！美食とサウナを満喫する極上宿 厳選3選',
+    title: '福岡・博多出張＆ご褒美ソロ旅：博多駅直結・屋上温泉スパ・名物もつ鍋朝食！美食とサウナを満喫する極上宿 厳選3選',
     description: '福岡空港から地下鉄でわずか約5分のメガシティ・博多＆天神！「屋上に天然温泉アウトドアスパ＆プール」を擁するランドマーク「都ホテル 博多」、キャナルシティ直結で天然温泉と豪華海鮮丼朝食が自慢の「ドーミーインPREMIUM博多・キャナルシティ前。」、天神のど真ん中でスカイスパを誇る「カンデオホテルズ福岡天神」を徹底比較。',
     url: 'https://croud-travel.pages.dev/fukuoka-hakata-tenjin-solo-onsen-gourmet-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【福岡・博多出張＆ご褒美ソロ旅】博多駅直結・屋上温泉スパ・名物もつ鍋朝食！美食とサウナを満喫する極上宿 厳選3選',
+    headline: '福岡・博多出張＆ご褒美ソロ旅：博多駅直結・屋上温泉スパ・名物もつ鍋朝食！美食とサウナを満喫する極上宿 厳選3選',
     description: '福岡空港から地下鉄でわずか約5分のメガシティ・博多＆天神！「屋上に天然温泉アウトドアスパ＆プール」を擁するランドマーク「都ホテル 博多」、キャナルシティ直結で天然温泉と豪華海鮮丼朝食が自慢の「ドーミーインPREMIUM博多・キャナルシティ前。」、天神のど真ん中でスカイスパを誇る「カンデオホテルズ福岡天神」を徹底比較。',
     author: {
       '@type': 'Organization',
@@ -74,9 +74,7 @@ export default function ArticlePage() {
           <span>✨</span>
           <span>福岡・博多出張＆温泉スパ特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【福岡・博多出張＆ご褒美ソロ旅】博多駅直結・屋上温泉スパ・名物もつ鍋朝食！美食とサウナを満喫する極上宿 厳選3選
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">「福岡・博多出張＆ご褒美ソロ旅」博多駅直結・屋上温泉スパ・名物もつ鍋朝食！美食とサウナを満喫する極上宿 厳選3選</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
           福岡空港から地下鉄でわずか約5分のメガシティ・博多＆天神！「屋上に天然温泉アウトドアスパ＆プール」を擁するランドマーク「都ホテル 博多」、キャナルシティ直結で天然温泉と豪華海鮮丼朝食が自慢の「ドーミーインPREMIUM博多・キャナルシティ前。」、天神のど真ん中でスカイスパを誇る「カンデオホテルズ福岡天神」を徹底比較。
         </p>

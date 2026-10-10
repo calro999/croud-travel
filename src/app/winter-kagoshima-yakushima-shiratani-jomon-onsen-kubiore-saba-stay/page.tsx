@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { MapPin, Calendar, ExternalLink, HelpCircle, ChevronRight, ShieldCheck, Sparkles } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【静寂の原生林と白谷雲水峡・極上温泉】2026-2027年冬の屋久島！首折れサバと天然露天風呂宿5選 | クラウドトラベル',
+  title: '静寂の原生林と白谷雲水峡・極上温泉：2026-2027年冬の屋久島！首折れサバと天然露天風呂宿5選 | クラウドトラベル',
   description: '冬だけの静寂に包まれる世界自然遺産・屋久島！朝露に光る白谷雲水峡の苔むす森トレッキング、旬を迎える極上の首折れサバ・屋久鹿料理と絶景オーシャンビュー温泉を堪能する大人の冬旅名宿5選。',
   keywords: ['鹿児島県冬旅行', '屋久島・宮之浦・安房', '冬温泉', '2026', '2027', '雪景色', '冬の味覚', '楽天トラベル', 'ふるさと納税'],
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-kagoshima-yakushima-shiratani-jomon-onsen-kubiore-saba-stay',
   },
   openGraph: {
-    title: '【静寂の原生林と白谷雲水峡・極上温泉】2026-2027年冬の屋久島！首折れサバと天然露天風呂宿5選',
+    title: '静寂の原生林と白谷雲水峡・極上温泉：2026-2027年冬の屋久島！首折れサバと天然露天風呂宿5選',
     description: '冬だけの静寂に包まれる世界自然遺産・屋久島！朝露に光る白谷雲水峡の苔むす森トレッキング、旬を迎える極上の首折れサバ・屋久鹿料理と絶景オーシャンビュー温泉を堪能する大人の冬旅名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-kagoshima-yakushima-shiratani-jomon-onsen-kubiore-saba-stay',
     siteName: 'クラウドトラベル',
@@ -62,9 +62,7 @@ export default function WinterFeaturePage() {
               <Sparkles className="w-3.5 h-3.5" />
               <span>2026-2027年 冬季限定・厳選名宿特集</span>
             </div>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold tracking-tight leading-tight text-balance">
-              【静寂の原生林と白谷雲水峡・極上温泉】2026-2027年冬の屋久島！首折れサバと天然露天風呂宿5選
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold tracking-tight leading-tight text-balance">「静寂の原生林と白谷雲水峡・極上温泉」2026-2027年冬の屋久島！首折れサバと天然露天風呂宿5選</h1>
             <p className="max-w-2xl mx-auto text-xs sm:text-sm text-stone-300 leading-relaxed text-pretty">
               世界自然遺産の島・屋久島。夏期の登山客で賑わうハイシーズンが一段落した11月から1月、島は本来の神聖な静寂を取り戻します。凛と澄み渡る冬の大気の中、白谷雲水峡の苔むす原生林は朝露を宿してエメラルドグリーンに深く輝き、登山道を歩いていても他の登山者と行き交うことなく太古の森の呼吸を肌で感じ取ることができます。冬の屋久島は標高差によって多様な表情を見せ、宮之浦岳の頂がうっすらと雪化粧する一方で、海岸沿いは平均気温12〜15度と過ごしやすい別世界。冷えた身体を海辺の名湯や展望露天風呂で温め、冬に脂乗りが最高潮に達する名物「首折れサバ」の刺身や屋久鹿のロースト、プレミアム芋焼酎「三岳」に酔いしれる、大人のための贅沢な冬旅をご案内します。
             </p>

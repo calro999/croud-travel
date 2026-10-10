@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/infinity-open-air-bath-starry-sky-sleeping-onsen-stay/" },
-  title: "【満天の星空露天風呂＆寝湯インフィニティ宿】天然プラネタリウム温泉 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "満天の星空露天風呂＆寝湯インフィニティ宿：天然プラネタリウム温泉 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "湯船に浮かびながら星屑を数える！星空インフィニティ露天風呂＆寝湯温泉宿完全特化！群馬万座温泉（標高1,800m）、長野白骨温泉・野沢温泉、栃木奥日光湯元温泉、大分久住高原、遮るもののない天空露天風呂と湯浴み体験を徹底解説。",
   keywords: ["満天の星空露天風呂", "寝湯インフィニティ宿", "天然プラネタリウム温泉", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -89,9 +89,7 @@ export default function StargazingHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-gradient-to-r from-cyan-400 to-indigo-300 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block shadow">
             STARGAZING INFINITY BATH & SLEEPING SPA GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【満天の星空露天風呂＆寝湯インフィニティ宿】天然プラネタリウム温泉 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「満天の星空露天風呂＆寝湯インフィニティ宿」天然プラネタリウム温泉 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-indigo-100/90 leading-relaxed">
             標高1,500mを超える高山温泉郷。明かりが届かない大自然の露天風呂で、湯船に仰向けに寝そべる「寝湯（ねゆ）」。頭上には手を伸ばせば届きそうな満天の星空と、湯面きらめく逆さ星屑。温かな湯に包まれながら宇宙と一体になる究極のリラクゼーションへ。
           </p>

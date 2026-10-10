@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【帯広駅前】ばんえい十勝の迫力＆名物十勝豚丼・モール温泉！3,000円台〜泊まれる格安ホテル5選',
+  title: '帯広駅前：ばんえい十勝の迫力＆名物十勝豚丼・モール温泉！3,000円台〜泊まれる格安ホテル5選',
   description: '世界唯一のばんえい競馬・帯広競馬場の秋の熱気！秘湯・植物性天然モール温泉、炭火の香ばしさと甘辛タレが絶品の名物十勝豚丼や六花亭スイーツ。JR根室本線・帯広駅周辺で1泊3,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>世界唯一ばんえい十勝＆名物炭火焼き十勝豚丼・天然モール温泉</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【帯広駅前】ばんえい競馬＆名物十勝豚丼！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「帯広駅前」ばんえい競馬＆名物十勝豚丼！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             体重1トンを超える巨大な輓馬（ばんば）が鉄ソリを曳いて障害を越える世界唯一の「ばんえい十勝」。十勝平野の秋の豊かな収穫、炭火で香ばしく焼き上げた厚切り豚肉に秘伝の甘辛ダレが絡む「十勝豚丼」や六花亭の焼きたてパイ。琥珀色の美肌湯「天然モール温泉」が湧く帯広駅周辺で、3,000円台〜泊まれる優良ホテルを厳選。
           </p>

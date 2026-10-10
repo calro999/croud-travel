@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月沖縄】恩納村絶景スパリゾート5選！名宿5選',
+  title: '11・12・1月沖縄：恩納村絶景スパリゾート5選！名宿5選',
   description: '11月から1月、沖縄本島（恩納村・本部・名護）は、平均気温20℃前後の快適な気候に恵まれ、喧騒を離れて大人の贅沢な時間を過ごせる冬の楽園となります。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '沖縄 ホエールウォッチング, ハレクラニ沖縄, ハイアットリージェンシー瀬良垣, ルネッサンスリゾートオキナワ, ホテルモントレ沖縄, 美ら海水族館 冬, アグー豚 しゃぶしゃぶ, もとぶ牛 ステーキ, 11月 12月 1月 沖縄旅行, 恩納村 リゾートホテル',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-okinawa-onna-motobu-whalewatching-agu-resort-stay/"
   },
   openGraph: {
-    title: '【11・12・1月沖縄】恩納村絶景スパリゾート5選！名宿5選',
+    title: '11・12・1月沖縄：恩納村絶景スパリゾート5選！名宿5選',
     description: '11月から1月、沖縄本島（恩納村・本部・名護）は、平均気温20℃前後の快適な気候に恵まれ、喧騒を離れて大人の贅沢な時間を過ごせる冬の楽園となります。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-okinawa-onna-motobu-whalewatching-agu-resort-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月沖縄】冬の楽園リゾート！12月下旬開幕「ホエールウォッチング」と美ら海水族館・冬のアグー豚しゃぶしゃぶ＆もとぶ牛・恩納村絶景スパリゾート5選",
+    title: "11・12・1月沖縄：冬の楽園リゾート！12月下旬開幕「ホエールウォッチング」と美ら海水族館・冬のアグー豚しゃぶしゃぶ＆もとぶ牛・恩納村絶景スパリゾート5選",
     description: "11月から1月、沖縄本島（恩納村・本部・名護）は、平均気温20℃前後の快適な気候に恵まれ、喧騒を離れて大人の贅沢な時間を過ごせる冬の楽園となります。12月下旬からは野生のザトウクジラが来遊する感動の「ホエールウォッチング」が開幕。澄み切ったエメラルドグリーンの東シナ海、混雑なく優雅に巡る沖縄美ら海水族館や備瀬のフクギ並木。旨みあふれる「やんばる島豚あぐー」の熱々しゃぶしゃぶや極上もとぶ牛ステーキ。恩納村屈指のラグジュアリースパリゾートで心身を解き放つ厳選名宿5選を徹底解説します。",
     images: ['https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80']
   }
@@ -42,7 +42,7 @@ export default function OkinawaOnnaMotobuWinterPage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: "【11・12・1月沖縄】冬の楽園リゾート！12月下旬開幕「ホエールウォッチング」と美ら海水族館・冬のアグー豚しゃぶしゃぶ＆もとぶ牛・恩納村絶景スパリゾート5選",
+    headline: "11・12・1月沖縄：冬の楽園リゾート！12月下旬開幕「ホエールウォッチング」と美ら海水族館・冬のアグー豚しゃぶしゃぶ＆もとぶ牛・恩納村絶景スパリゾート5選",
     description: "11月から1月、沖縄本島（恩納村・本部・名護）は、平均気温20℃前後の快適な気候に恵まれ、喧騒を離れて大人の贅沢な時間を過ごせる冬の楽園となります。12月下旬からは野生のザトウクジラが来遊する感動の「ホエールウォッチング」が開幕。澄み切ったエメラルドグリーンの東シナ海、混雑なく優雅に巡る沖縄美ら海水族館や備瀬のフクギ並木。旨みあふれる「やんばる島豚あぐー」の熱々しゃぶしゃぶや極上もとぶ牛ステーキ。恩納村屈指のラグジュアリースパリゾートで心身を解き放つ厳選名宿5選を徹底解説します。",
     image: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
     datePublished: '',
@@ -282,9 +282,7 @@ export default function OkinawaOnnaMotobuWinterPage() {
             <Calendar className="w-4 h-4 text-teal-300" />
             11月・12月・1月 冬の沖縄・ホエールウォッチング＆恩納村スパリゾート特集
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【11・12・1月沖縄】冬の楽園リゾート！12月下旬開幕「ホエールウォッチング」と美ら海水族館・冬のアグー豚しゃぶしゃぶ＆もとぶ牛・恩納村絶景スパリゾート5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「11・12・1月沖縄」冬の楽園リゾート！12月下旬開幕「ホエールウォッチング」と美ら海水族館・冬のアグー豚しゃぶしゃぶ＆もとぶ牛・恩納村絶景スパリゾート5選</h1>
           <p className="text-slate-300 text-sm sm:text-base md:text-lg max-w-3xl leading-relaxed">
             真冬の寒さを忘れさせる平均20℃の南国パラダイス。12月下旬からは大迫力のザトウクジラが来遊する感動のホエールウォッチングが開幕。澄み渡る美ら海水族館の静かな鑑賞、やんばる島豚あぐーの出汁しゃぶしゃぶと極上もとぶ牛。恩納村の最高峰ラグジュアリースパで過ごす至高の冬旅をお届けします。
           </p>

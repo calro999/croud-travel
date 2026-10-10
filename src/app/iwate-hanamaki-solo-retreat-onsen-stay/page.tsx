@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/iwate-hanamaki-solo-retreat-onsen-stay/" },
-  title: '【岩手花巻温泉ひとり旅・宮沢賢治イーハトーブおこもり】台川渓谷美・pH9.0美肌の湯・前沢牛会席！イーハトーブの森でととのう厳選3宿',
+  title: '岩手花巻温泉ひとり旅・宮沢賢治イーハトーブおこもり：台川渓谷美・pH9.0美肌の湯・前沢牛会席！イーハトーブの森でととのう厳選3宿',
   description: '宮沢賢治生誕の地・花巻！数寄屋造りの贅ととろとろのアルカリ性単純温泉が評判の最高峰「佳松園」、バラ園隣接で渓流沿いの露天風呂が心地よい「ホテル花巻」、広大な大浴場と充実の館内施設を誇る「ホテル千秋閣」を楽天API最新データに基づき徹底比較。',
   keywords: '花巻温泉 一人旅 宿,花巻 ホテル 一人 温泉,佳松園 花巻,ホテル花巻,ホテル千秋閣,花巻 宮沢賢治 ひとり旅',
   openGraph: {
-    title: '【岩手花巻温泉ひとり旅・宮沢賢治イーハトーブおこもり】台川渓谷美・pH9.0美肌の湯・前沢牛会席！イーハトーブの森でととのう厳選3宿',
+    title: '岩手花巻温泉ひとり旅・宮沢賢治イーハトーブおこもり：台川渓谷美・pH9.0美肌の湯・前沢牛会席！イーハトーブの森でととのう厳選3宿',
     description: '宮沢賢治生誕の地・花巻！数寄屋造りの贅ととろとろのアルカリ性単純温泉が評判の最高峰「佳松園」、バラ園隣接で渓流沿いの露天風呂が心地よい「ホテル花巻」、広大な大浴場と充実の館内施設を誇る「ホテル千秋閣」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/iwate-hanamaki-solo-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【岩手花巻温泉ひとり旅・宮沢賢治イーハトーブおこもり】台川渓谷美・pH9.0美肌の湯・前沢牛会席！イーハトーブの森でととのう厳選3宿',
+    headline: '岩手花巻温泉ひとり旅・宮沢賢治イーハトーブおこもり：台川渓谷美・pH9.0美肌の湯・前沢牛会席！イーハトーブの森でととのう厳選3宿',
     description: '宮沢賢治生誕の地・花巻！数寄屋造りの贅ととろとろのアルカリ性単純温泉が評判の最高峰「佳松園」、バラ園隣接で渓流沿いの露天風呂が心地よい「ホテル花巻」、広大な大浴場と充実の館内施設を誇る「ホテル千秋閣」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             岩手・花巻温泉ひとり旅＆宮沢賢治イーハトーブおこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【岩手花巻温泉ひとり旅・宮沢賢治イーハトーブおこもり】台川渓谷美・pH9.0美肌の湯・前沢牛会席！イーハトーブの森でととのう厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「岩手花巻温泉ひとり旅・宮沢賢治イーハトーブおこもり」台川渓谷美・pH9.0美肌の湯・前沢牛会席！イーハトーブの森でととのう厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

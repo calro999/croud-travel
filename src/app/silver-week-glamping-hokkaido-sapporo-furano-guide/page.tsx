@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-hokkaido-sapporo-furano-guide/" },
-  title: "【北海道シルバーウィーク グランピング】札幌・富良野・トマム！秋晴れの爽快リゾートヴィラ ｜ 日本全国・旅宿クラウド",
+  title: "北海道シルバーウィーク グランピング：札幌・富良野・トマム！秋晴れの爽快リゾートヴィラ ｜ 日本全国・旅宿クラウド",
   description:
     "湿気ゼロの圧倒的爽やかさ！初秋を迎える北海道の大自然グランピング。富良野の広大な丘陵パノラマ、トマムの雲海テラス連動ステイ、道産ブランド牛と秋サケのちゃんちゃん焼きBBQ完全ガイド。",
   keywords: ["北海道シルバーウィーク", "グランピング", "札幌", "富良野", "温泉宿", "宿泊予約", "楽天トラベル"],
@@ -149,11 +149,7 @@ export default function SilverWeekGlampingHokkaidoPage() {
             <span>❄️ 残暑ゼロ！初秋の北の大地リゾート</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-snug font-journal-serif">
-            【北海道シルバーウィーク グランピング】
-            <br />
-            <span className="text-cyan-300">札幌・富良野・トマム！秋晴れの爽快リゾートヴィラ</span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-snug font-journal-serif">「北海道シルバーウィーク グランピング」 <br /> <span className="text-cyan-300">札幌・富良野・トマム！秋晴れの爽快リゾートヴィラ</span></h1>
 
           <p className="text-sm sm:text-base text-cyan-100/90 leading-relaxed max-w-3xl">
             本州の厳しい残暑から抜け出し、湿気のない爽快な初秋を迎える北海道へ。見渡す限りの丘陵が広がる富良野、奇跡の雲海テラスが待つトマム、森に包まれた十勝フェーリエンドルフ。極上の道産牛と秋サケのちゃんちゃん焼きBBQで彩る至高の北国アウトドア旅を徹底解説します。

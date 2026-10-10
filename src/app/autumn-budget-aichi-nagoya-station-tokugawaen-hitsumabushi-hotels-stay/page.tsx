@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【名古屋駅前】徳川園錦秋ライトアップ＆名物ひつまぶし・味噌カツ！3,000円台〜泊まれる格安ホテル5選',
+  title: '名古屋駅前：徳川園錦秋ライトアップ＆名物ひつまぶし・味噌カツ！3,000円台〜泊まれる格安ホテル5選',
   description: '尾張徳川家の大名庭園・徳川園の紅葉ライトアップ！香ばしい炭火焼きのひつまぶしや濃厚味噌カツ、手羽先唐揚げ。東海道新幹線・JR名古屋駅太閤通口（新幹線口）周辺で1泊3,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>尾張徳川園の紅葉ライトアップ＆本場炭火焼きひつまぶし</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【名古屋駅前】徳川園の紅葉＆名物ひつまぶし！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「名古屋駅前」徳川園の紅葉＆名物ひつまぶし！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             池泉回遊式の大名庭園「徳川園」に映える錦秋のモミジと夜間ライトアップ。皮目はパリッと香ばしく身はふっくら焼き上げ、出汁茶漬けで締める本場の「名物ひつまぶし」や矢場とんの「味噌カツ」に舌鼓！新幹線が発着する名古屋駅太閤通口周辺で、3,000円台〜泊まれる優良ホテルを厳選。
           </p>

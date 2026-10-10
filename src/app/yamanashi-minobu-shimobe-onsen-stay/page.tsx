@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/yamanashi-minobu-shimobe-onsen-stay/" },
-  title: "【山梨・身延山＆下部温泉】日蓮宗総本山久遠寺しだれ桜・信玄隠し湯宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "山梨・身延山＆下部温泉：日蓮宗総本山久遠寺しだれ桜・信玄隠し湯宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "祈りの霊峰と武田信玄公の隠し湯・山梨身延＆下部エリア完全特化！日蓮宗総本山「身延山久遠寺（樹齢400年しだれ桜・菩提梯287段）。」、身延山ロープウェイ奥之院、日本の名湯百選「下部温泉（ぬる湯治）」、名物「身延まんじゅう宿」を徹底解説。",
   keywords: ["山梨", "身延山", "下部温泉", "日蓮宗総本山久遠寺しだれ桜", "信玄隠し湯宿", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             MINOBU & SHIMOBE GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【山梨・身延山＆下部温泉】日蓮宗総本山久遠寺しだれ桜・信玄隠し湯宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「山梨・身延山＆下部温泉」日蓮宗総本山久遠寺しだれ桜・信玄隠し湯宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             日蓮聖人が開いた祈りの聖山「身延山久遠寺」。春に境内を覆い尽くす樹齢400年の巨木しだれ桜と、287段の石段・菩提梯。川中島の戦いで傷を癒やしたと伝わる武田信玄公の隠し湯「下部温泉」。ぬる湯と熱湯を交互に楽しむ極上の湯治ステイへ。
           </p>

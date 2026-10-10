@@ -4,7 +4,7 @@ import { REGIONS_MAP, PREFECTURES_DATA, getPrefectureByName } from "@/data/prefe
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/prefectures/" },
-  title: "【全国47都道府県】エリア別観光名所・絶景カフェ・お土産・地酒＆宿ハブ ｜ 日本全国・旅宿クラウド",
+  title: "全国47都道府県：エリア別観光名所・絶景カフェ・お土産・地酒＆宿ハブ ｜ 日本全国・旅宿クラウド",
   description: "国内最大級の旅行ポータル！北海道から沖縄まで全47都道府県を細分化エリア（例: 金沢城・兼六園、ひがし茶屋街、能登・千枚田、和倉温泉など）に分け、観光名所・絶景カフェ・トレンドお土産・地酒日本酒・厳選ホテルルポをご案内。",
   keywords: ["全国47都道府県", "エリア別観光名所", "絶景カフェ", "お土産", "地酒", "宿ハブ", "温泉宿"],
 };
@@ -24,9 +24,7 @@ export default function PrefecturesIndexPage() {
         <span className="inline-block text-[10px] font-extrabold tracking-widest bg-amber-400 text-teal-950 px-3.5 py-1 rounded-full uppercase shadow">
           国内最大級ポータル 🗾
         </span>
-        <h1 className="text-2xl md:text-4xl font-black font-journal-serif leading-snug">
-          47都道府県 エリア別観光名所・カフェ・お土産・地酒＆宿ポータル
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-black font-journal-serif leading-snug">47都道府県 エリア別観光名所・カフェ・お土産・地酒＆宿ポータル</h1>
         <p className="text-emerald-100/90 text-xs md:text-sm max-w-3xl leading-relaxed font-medium">
           各都道府県を地域ミクロエリアごとに網羅ガイド。観光名所や絶景スポット、ご当地グルメ、さらに「オススメカフェ」「トレンドお土産」「地酒・日本酒」の特設ガイドと近隣のおすすめホテル・温泉宿を一挙にご紹介。
         </p>

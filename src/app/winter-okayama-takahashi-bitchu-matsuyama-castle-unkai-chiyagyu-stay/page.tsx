@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月岡山】雲海に浮かぶ天空の山城！名宿5選',
+  title: '11・12・1月岡山：雲海に浮かぶ天空の山城！名宿5選',
   description: '冬の岡山・高梁＆新見・美星町は、標高430mの臥牛山頂に佇む現存天守「備中松山城」が一面の白い霧海に浮かび上がる年間最大の絶景シーズン。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '備中松山城 雲海, 高梁 ホテル, 備中松山城 天空の城, 美星町 星空, 千屋牛 すき焼き, 吹屋ふるさと村, 高梁国際ホテル, 新見 ホテル, 11月 12月 1月 岡山 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-okayama-takahashi-bitchu-matsuyama-castle-unkai-chiyagyu-stay/"
   },
   openGraph: {
-    title: '【11・12・1月岡山】雲海に浮かぶ天空の山城！名宿5選',
+    title: '11・12・1月岡山：雲海に浮かぶ天空の山城！名宿5選',
     description: '冬の岡山・高梁＆新見・美星町は、標高430mの臥牛山頂に佇む現存天守「備中松山城」が一面の白い霧海に浮かび上がる年間最大の絶景シーズン。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-okayama-takahashi-bitchu-matsuyama-castle-unkai-chiyagyu-stay',
     type: 'article',
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月岡山】雲海に浮かぶ天空の山城・備中松山城＆美星町満天星空！幻の千屋牛すき焼きを堪能する名宿5選",
+    title: "11・12・1月岡山：雲海に浮かぶ天空の山城・備中松山城＆美星町満天星空！幻の千屋牛すき焼きを堪能する名宿5選",
     description: "冬の岡山・高梁＆新見・美星町は、標高430mの臥牛山頂に佇む現存天守「備中松山城」が一面の白い霧海に浮かび上がる年間最大の絶景シーズン。早朝の雲海展望台から拝む奇跡の天空の山城、ベンガラ色の格子と赤銅色石州瓦が連なる重要伝統的建造物群「吹屋ふるさと村」、そして国際ダークスカイ協会認定「美星町」の冬の満天星空。日本最古の蔓牛の血統を継ぐ幻の黒毛和牛「千屋牛」の極上すき焼きや熱々の郷土料理に舌鼓を打ち、冬の静けさに抱かれる厳選名宿5選を徹底解説します。"
   }
 };
@@ -229,10 +229,7 @@ export default function OkayamaTakahashiUnkaiPage() {
             <Snowflake className="w-4 h-4 text-amber-300" />
             11月・12月・1月冬の特選旅｜岡山・高梁＆備中松山城・美星町
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">
-            雲海に浮かぶ天空の山城・備中松山城＆美星町満天星空！<br className="hidden sm:inline" />
-            幻の千屋牛すき焼きを堪能する名宿5選
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">雲海に浮かぶ天空の山城・備中松山城＆美星町満天星空！<br className="hidden sm:inline" /> 幻の千屋牛すき焼きを堪能する名宿5選</h1>
           <p className="text-base sm:text-lg text-slate-200/90 leading-relaxed max-w-4xl mb-8">
             霧深き奥備中の山並みに突如現れる、白い雲海の上に孤高に浮かぶ現存天守「備中松山城」。11月から1月にかけての冬期は、放射冷却によって年間最高の雲海発生率を誇り、神話のような天空の城郭風景が広がります。ベンガラ色に染まる重伝建「吹屋ふるさと村」、アジア初・星空保護区「美星町」の降るような星空。そして日本最古の蔓牛の血統を引く幻の黒毛和牛「千屋牛」の極上すき焼き。息をのむ冬の奇跡と至高の美味に浸る厳選宿をご案内します。
           </p>

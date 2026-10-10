@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【水戸】偕楽園もみじ谷ライトアップと旬のあんこう鍋！2,000円台〜格安ホテル5選',
+  title: '水戸：偕楽園もみじ谷ライトアップと旬のあんこう鍋！2,000円台〜格安ホテル5選',
   description: '日本三名園「偕楽園もみじ谷」の幻想的な秋紅葉ライトアップと千波湖！11月解禁の濃厚どぶ汁・あんこう鍋や水戸納豆懐石。水戸駅前で1泊2,000円台〜4,000円台で泊まれる格安・高評価宿5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetMitoHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>偕楽園もみじ谷ライトアップ＆名物あんこう鍋</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【水戸】偕楽園もみじ谷の紅葉＆旬のあんこう鍋！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「水戸」偕楽園もみじ谷の紅葉＆旬のあんこう鍋！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             日本三名園・偕楽園の拡張部に広がる「もみじ谷」の鮮やかな紅葉トンネルと夜間ライトアップ！11月にシーズンインする茨城冬の味覚の王様「あんこう鍋（どぶ汁）」や奥久慈しゃも、常陸牛。上野から特急ひたちで約1時間の水戸駅前で、2,000円台から泊まれる高評価ホテルを厳選。
           </p>

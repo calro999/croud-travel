@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/shizuoka-atagawa-solo-retreat-steam-onsen-stay/" },
-  title: '【東伊豆・熱川温泉ひとり旅・自噴湯けむりおこもり】自家源泉100度超・六つの貸切露天風呂・金目鯛姿煮！伊豆急直通の海辺厳選3宿',
+  title: '東伊豆・熱川温泉ひとり旅・自噴湯けむりおこもり：自家源泉100度超・六つの貸切露天風呂・金目鯛姿煮！伊豆急直通の海辺厳選3宿',
   description: '温泉櫓から豪快に立ち上る白い湯けむりが象徴的な東伊豆・熱川温泉！6つの多彩な貸切露天風呂と充実のサービスが口コミ★4.5超の「湯花満開」、相模灘を一望する屋上展望露天風呂が圧巻の「熱川プリンスホテル」、源泉掛け流しの湯守の宿「みはるや」を楽天API最新データに基づき徹底比較。',
   keywords: '熱川温泉 一人旅 宿,熱川 ホテル 一人 温泉,湯花満開 熱川,熱川プリンスホテル,みはるや 熱川,熱川 ひとり旅 おこもり',
   openGraph: {
-    title: '【東伊豆・熱川温泉ひとり旅・自噴湯けむりおこもり】自家源泉100度超・六つの貸切露天風呂・金目鯛姿煮！伊豆急直通の海辺厳選3宿',
+    title: '東伊豆・熱川温泉ひとり旅・自噴湯けむりおこもり：自家源泉100度超・六つの貸切露天風呂・金目鯛姿煮！伊豆急直通の海辺厳選3宿',
     description: '温泉櫓から豪快に立ち上る白い湯けむりが象徴的な東伊豆・熱川温泉！6つの多彩な貸切露天風呂と充実のサービスが口コミ★4.5超の「湯花満開」、相模灘を一望する屋上展望露天風呂が圧巻の「熱川プリンスホテル」、源泉掛け流しの湯守の宿「みはるや」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/shizuoka-atagawa-solo-retreat-steam-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【東伊豆・熱川温泉ひとり旅・自噴湯けむりおこもり】自家源泉100度超・六つの貸切露天風呂・金目鯛姿煮！伊豆急直通の海辺厳選3宿',
+    headline: '東伊豆・熱川温泉ひとり旅・自噴湯けむりおこもり：自家源泉100度超・六つの貸切露天風呂・金目鯛姿煮！伊豆急直通の海辺厳選3宿',
     description: '温泉櫓から豪快に立ち上る白い湯けむりが象徴的な東伊豆・熱川温泉！6つの多彩な貸切露天風呂と充実のサービスが口コミ★4.5超の「湯花満開」、相模灘を一望する屋上展望露天風呂が圧巻の「熱川プリンスホテル」、源泉掛け流しの湯守の宿「みはるや」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             静岡・熱川温泉ひとり旅＆東伊豆自噴湯けむりおこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【東伊豆・熱川温泉ひとり旅・自噴湯けむりおこもり】自家源泉100度超・六つの貸切露天風呂・金目鯛姿煮！伊豆急直通の海辺厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「東伊豆・熱川温泉ひとり旅・自噴湯けむりおこもり」自家源泉100度超・六つの貸切露天風呂・金目鯛姿煮！伊豆急直通の海辺厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

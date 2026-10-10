@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/miyagi-naruko-solo-retreat-onsen-stay/" },
-  title: '【鳴子温泉ひとり旅・湯めぐりこけしおこもり】日本屈指の多種泉質・源蔵の湯・鳴子峡渓谷美！千年の湯治場で心ほぐれる極上厳選3宿',
+  title: '鳴子温泉ひとり旅・湯めぐりこけしおこもり：日本屈指の多種泉質・源蔵の湯・鳴子峡渓谷美！千年の湯治場で心ほぐれる極上厳選3宿',
   description: '国内11種類の泉質のうち8種類が湧く奇跡の温泉郷・鳴子！エメラルドグリーンなど日によって湯色が変化する硫黄泉が評判の老舗「鳴子ホテル」、源蔵の湯など多彩な湯処を誇る名門「鳴子観光ホテル」、秋の宮温泉郷の渓流沿いで極上の静寂を味わう「稲住温泉」を徹底比較。',
   keywords: '鳴子温泉 一人旅 宿,鳴子 ホテル 一人 温泉,鳴子ホテル,鳴子観光ホテル,稲住温泉,鳴子峡 こけし ひとり旅',
   openGraph: {
-    title: '【鳴子温泉ひとり旅・湯めぐりこけしおこもり】日本屈指の多種泉質・源蔵の湯・鳴子峡渓谷美！千年の湯治場で心ほぐれる極上厳選3宿',
+    title: '鳴子温泉ひとり旅・湯めぐりこけしおこもり：日本屈指の多種泉質・源蔵の湯・鳴子峡渓谷美！千年の湯治場で心ほぐれる極上厳選3宿',
     description: '国内11種類の泉質のうち8種類が湧く奇跡の温泉郷・鳴子！エメラルドグリーンなど日によって湯色が変化する硫黄泉が評判の老舗「鳴子ホテル」、源蔵の湯など多彩な湯処を誇る名門「鳴子観光ホテル」、秋の宮温泉郷の渓流沿いで極上の静寂を味わう「稲住温泉」を徹底比較。',
     url: 'https://croud-travel.pages.dev/miyagi-naruko-solo-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【鳴子温泉ひとり旅・湯めぐりこけしおこもり】日本屈指の多種泉質・源蔵の湯・鳴子峡渓谷美！千年の湯治場で心ほぐれる極上厳選3宿',
+    headline: '鳴子温泉ひとり旅・湯めぐりこけしおこもり：日本屈指の多種泉質・源蔵の湯・鳴子峡渓谷美！千年の湯治場で心ほぐれる極上厳選3宿',
     description: '国内11種類の泉質のうち8種類が湧く奇跡の温泉郷・鳴子！エメラルドグリーンなど日によって湯色が変化する硫黄泉が評判の老舗「鳴子ホテル」、源蔵の湯など多彩な湯処を誇る名門「鳴子観光ホテル」、秋の宮温泉郷の渓流沿いで極上の静寂を味わう「稲住温泉」を徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             宮城・鳴子温泉ひとり旅＆多彩泉質湯治おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【鳴子温泉ひとり旅・湯めぐりこけしおこもり】日本屈指の多種泉質・源蔵の湯・鳴子峡渓谷美！千年の湯治場で心ほぐれる極上厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「鳴子温泉ひとり旅・湯めぐりこけしおこもり」日本屈指の多種泉質・源蔵の湯・鳴子峡渓谷美！千年の湯治場で心ほぐれる極上厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

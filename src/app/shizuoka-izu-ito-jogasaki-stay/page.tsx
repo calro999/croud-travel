@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/shizuoka-izu-ito-jogasaki-stay/" },
-  title: "【静岡・伊豆伊東＆城ヶ崎海岸】門脇つり橋・大室山リフト＆東海館・地魚海鮮宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "静岡・伊豆伊東＆城ヶ崎海岸：門脇つり橋・大室山リフト＆東海館・地魚海鮮宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "東伊豆の歴史と絶景・伊東温泉＆城ヶ崎海岸エリア完全特化！スリル満点の「門脇つり橋」、すり鉢状火口の「大室山リフト」、国登録有形文化財「東海館」、毎分3万リットルの湯量を誇る伊東温泉と伊豆地魚会席宿を徹底解説。",
   keywords: ["静岡", "伊豆伊東", "城ヶ崎海岸", "門脇つり橋", "大室山リフト", "東海館", "地魚海鮮宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             IZU ITO & JOGASAKI GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【静岡・伊豆伊東＆城ヶ崎海岸】門脇つり橋・大室山リフト＆東海館・地魚海鮮宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「静岡・伊豆伊東＆城ヶ崎海岸」門脇つり橋・大室山リフト＆東海館・地魚海鮮宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             毎分3万リットル以上の豊富な湧出量を誇る歴史の温泉地「伊東温泉」。溶岩が削り出した断崖絶壁と海にかかる「城ヶ崎海岸・門脇つり橋」。抹茶碗を伏せたような美しい山容の「大室山」と、伊豆近海の伊勢海老・地魚に癒やされる旅。
           </p>

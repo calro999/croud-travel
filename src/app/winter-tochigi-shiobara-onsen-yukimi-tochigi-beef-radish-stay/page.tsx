@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月栃木・塩原温泉】極上とちぎ和牛会席！名宿5選',
+  title: '栃木・塩原温泉で過ごす冬の旅（11・12月）！極上とちぎ和牛会席！名宿5選',
   description: '11月から12月にかけて、栃木県北部の那須連山山麓に広がる名湯「塩原温泉郷」は、箒川（ほうきがわ）沿いの渓谷が初雪に彩られ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '塩原温泉 宿泊, 塩原温泉 老舗旅館, 塩原温泉 雪見露天, とちぎ和牛 すき焼き, 塩原大根 11月 12月, 湯守田中屋, 湯の花荘, 明賀屋本館, 四季味亭ふじや, 光雲荘',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tochigi-shiobara-onsen-yukimi-tochigi-beef-radish-stay/"
   },
   openGraph: {
-    title: '【11・12月栃木・塩原温泉】極上とちぎ和牛会席！名宿5選',
+    title: '栃木・塩原温泉で過ごす冬の旅（11・12月）！極上とちぎ和牛会席！名宿5選',
     description: '11月から12月にかけて、栃木県北部の那須連山山麓に広がる名湯「塩原温泉郷」は、箒川（ほうきがわ）沿いの渓谷が初雪に彩られ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-tochigi-shiobara-onsen-yukimi-tochigi-beef-radish-stay',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -246,10 +246,7 @@ export default function TochigiShiobaraWinterFeature() {
             <Mountain className="w-4 h-4" />
             11月・12月 箒川雪見露天＆名物塩原大根特集｜栃木・塩原温泉郷
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            初冬箒川雪見露天と名湯十一湯巡り<br className="hidden sm:inline" />
-            極上とちぎ和牛会席＆旬の塩原高原大根を味わう老舗宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">初冬箒川雪見露天と名湯十一湯巡り<br className="hidden sm:inline" /> 極上とちぎ和牛会席＆旬の塩原高原大根を味わう老舗宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             開湯1200年の歴史が息づく塩原渓谷。川岸に湧く野天風呂で初冬の雪景色を愛で、寒暖差で甘さを極めた塩原高原大根ととろけるとちぎ和牛に舌鼓を打つ極上の旅。
           </p>

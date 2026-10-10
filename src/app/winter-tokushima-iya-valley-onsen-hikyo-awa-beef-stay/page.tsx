@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月徳島・祖谷温泉】特選阿波牛！名宿5選',
+  title: '徳島・祖谷温泉で過ごす冬の旅（11・12月）！特選阿波牛！名宿5選',
   description: '11月から12月にかけて四国の霊峰・剣山山系の深山幽谷に抱かれた「徳島・祖谷渓（いやけい）＆大歩危峡（おおぼけきょう）。」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '祖谷温泉 宿泊, 大歩危 温泉 11月 12月, ホテル祖谷温泉, 祖谷美人, 大歩危峡まんなか, ホテルかずら橋, ホテル秘境の湯, 祖谷そば, 阿波牛 すき焼き 宿, 日本三大秘境 露天風呂',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tokushima-iya-valley-onsen-hikyo-awa-beef-stay/"
   },
   openGraph: {
-    title: '【11・12月徳島・祖谷温泉】特選阿波牛！名宿5選',
+    title: '徳島・祖谷温泉で過ごす冬の旅（11・12月）！特選阿波牛！名宿5選',
     description: '11月から12月にかけて四国の霊峰・剣山山系の深山幽谷に抱かれた「徳島・祖谷渓（いやけい）＆大歩危峡（おおぼけきょう）。」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-tokushima-iya-valley-onsen-hikyo-awa-beef-stay',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -280,10 +280,7 @@ export default function IyaOnsenWinterFeature() {
             <Snowflake className="w-4 h-4" />
             11月・12月 冬の極上名湯特集｜徳島・祖谷温泉＆大歩危峡
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月徳島・祖谷温泉】<br className="hidden sm:inline" />
-            日本三大秘境初雪渓谷と谷底露天風呂・特選阿波牛＆名物祖谷そばの宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">徳島・祖谷温泉で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 日本三大秘境初雪渓谷と谷底露天風呂・特選阿波牛＆名物祖谷そばの宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             四国山岳の奥深き日本三大秘境。専用ケーブルカーで高低差170mの谷底へ降りる自噴ぬる湯露天に抱かれ、囲炉裏で香るでこまわしと特選阿波牛に酔いしれる幽玄の冬旅。
           </p>

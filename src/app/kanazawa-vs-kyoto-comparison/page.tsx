@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kanazawa-vs-kyoto-comparison/" },
-  title: "【金沢 vs 京都 どっちが面白い？】食べ歩き・美術館・温泉・費用で古都対決",
+  title: "金沢 vs 京都 どっちが面白い？：食べ歩き・美術館・温泉・費用で古都対決",
   description: "金沢と京都、古都2大巨頭を「食・美・湯・金」の4軸で徹底比較。海鮮丼 vs 京懐石、兼六園 vs 清水寺、旅行費用の差まで。",
   keywords: ["金沢", "vs", "京都", "どっちが面白い？", "食べ歩き", "美術館", "温泉"],
 };
@@ -61,10 +61,7 @@ export default function KanazawaVsKyotoPage() {
     <div className="font-sans text-slate-800 bg-[#f9f7f1] min-h-screen">
       <div className="max-w-4xl mx-auto px-4 py-12 md:py-16">
         <header className="mb-16 text-center">
-          <h1 className="font-journal-serif text-3xl md:text-5xl font-bold text-[#8b5a2b] leading-tight mb-4">
-            【金沢 vs 京都 どっちが面白い？】<br/>
-            食べ歩き・美術館・温泉・費用で古都対決
-          </h1>
+          <h1 className="font-journal-serif text-3xl md:text-5xl font-bold text-[#8b5a2b] leading-tight mb-4">「金沢 vs 京都 どっちが面白い？」<br/> 食べ歩き・美術館・温泉・費用で古都対決</h1>
           <p className="text-slate-600 max-w-2xl mx-auto leading-relaxed">
             日本の伝統と文化が息づく二大古都、「小京都」とも呼ばれる金沢と、本家・京都。
             どちらも魅力が溢れていますが、「今度の旅行、どっちに行こう？」と迷う方も多いはず。

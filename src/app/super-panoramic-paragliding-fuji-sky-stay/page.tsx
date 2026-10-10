@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【富士山を望む空中飛行】朝霧高原タンデムパラグライダー＆富士パノラマ温泉宿5選",
+  title: "富士山を望む空中飛行：朝霧高原タンデムパラグライダー＆富士パノラマ温泉宿5選",
   description: "霊峰・富士山を真正面に望みながら大空を滑空する感動のタンデムパラグライダー！風に乗って飛ぶ空中散歩を満喫した後は、富士山ビューの展望露天風呂とサウナで極上のととのいを叶える人気リゾートを厳選。",
   keywords: "富士山 パラグライダー ホテル, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/super-panoramic-paragliding-fuji-sky-stay/",
   },
   openGraph: {
-    title: "【富士山を望む空中飛行】朝霧高原タンデムパラグライダー＆富士パノラマ温泉宿5選",
+    title: "富士山を望む空中飛行：朝霧高原タンデムパラグライダー＆富士パノラマ温泉宿5選",
     description: "霊峰・富士山を真正面に望みながら大空を滑空する感動のタンデムパラグライダー！風に乗って飛ぶ空中散歩を満喫した後は、富士山ビューの展望露天風呂とサウナで極上のととのいを叶える人気リゾートを厳選。",
     url: 'https://croud-travel.pages.dev/super-panoramic-paragliding-fuji-sky-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【富士山を望む空中飛行】朝霧高原タンデムパラグライダー＆富士パノラマ温泉宿5選",
+    title: "富士山を望む空中飛行：朝霧高原タンデムパラグライダー＆富士パノラマ温泉宿5選",
     description: "霊峰・富士山を真正面に望みながら大空を滑空する感動のタンデムパラグライダー！風に乗って飛ぶ空中散歩を満喫した後は、富士山ビューの展望露天風呂とサウナで極上のととのいを叶える人気リゾートを厳選。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>富士山空中散歩＆パノラマ温泉</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【富士山を望む空中飛行】朝霧高原タンデムパラグライダー＆富士パノラマ温泉宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「富士山を望む空中飛行」朝霧高原タンデムパラグライダー＆富士パノラマ温泉宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             霊峰・富士山を真正面に望みながら大空を滑空する感動のタンデムパラグライダー！風に乗って飛ぶ空中散歩を満喫した後は、富士山ビューの展望露天風呂とサウナで極上のととのいを叶える人気リゾートを厳選。
           </p>

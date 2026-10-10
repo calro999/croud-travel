@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tokyo-shizuoka-hamamatsu-bus-vs-shinkansen-guide/" },
-  title: "【東京〜静岡・浜松】新幹線こだま vs 高速バス徹底比較！片道1,800円〜行く浜松うなぎ＆浜名湖1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+  title: "東京〜静岡・浜松：新幹線こだま vs 高速バス徹底比較！片道1,800円〜行く浜松うなぎ＆浜名湖1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "東京から静岡・浜松へ安く行くには？東海道新幹線「こだま・ひかり」と東名高速バスの料金・所要時間を徹底比較！片道1,800円台〜行ける高速バスを活用し、本場浜松うなぎ、浜松餃子、舘山寺温泉を満喫する1泊2日モデルコース。",
   keywords: ["東京〜静岡", "浜松", "新幹線こだま", "vs", "浜名湖1泊2日モデルコース", "温泉宿", "宿泊予約"],
 };
@@ -149,9 +149,7 @@ export default function HighwayBusArticlePage() {
               交通手段の徹底比較＆最適ルート
             </span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【東京〜静岡・浜松】新幹線こだま vs 高速バス徹底比較！片道1,800円〜行く浜松うなぎ＆浜名湖1泊2日モデルコース
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">「東京〜静岡・浜松」新幹線こだま vs 高速バス徹底比較！片道1,800円〜行く浜松うなぎ＆浜名湖1泊2日モデルコース</h1>
           <p className="text-xs md:text-sm text-cyan-100/90 leading-relaxed font-medium">
             東海道新幹線なら東京〜浜松約1時間25分・片道約8,450円（往復約16,900円）。東名高速バスなら片道約1,800円〜3,500円！往復で1万円以上浮くため、本場「浜松うな重特上」や浜名湖一望の舘山寺温泉ホテルをランクアップするスマートな旅。
           </p>

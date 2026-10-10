@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月和歌山加太】冬の日前神宮新春開運初詣！名宿5選',
+  title: '11・12・1月和歌山加太：冬の日前神宮新春開運初詣！名宿5選',
   description: '冬の和歌山・加太エリアは、紀淡海峡の彼方に沈む鮮やかな夕陽と友ヶ島のシルエットが旅情をかきたて。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '和歌山 ホテル, 加太温泉 旅館, 日前神宮 初詣, 紀淡海峡 夕日, 加太 鯛料理, 休暇村紀州加太, 加太海月, ダイワロイネットホテル和歌山, 11月 12月 1月 和歌山 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-wakayama-city-kada-onsen-hatsumode-taimeshi-kue-stay/"
   },
   openGraph: {
-    title: '【11・12・1月和歌山加太】冬の日前神宮新春開運初詣！名宿5選',
+    title: '11・12・1月和歌山加太：冬の日前神宮新春開運初詣！名宿5選',
     description: '冬の和歌山・加太エリアは、紀淡海峡の彼方に沈む鮮やかな夕陽と友ヶ島のシルエットが旅情をかきたて。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-wakayama-city-kada-onsen-hatsumode-taimeshi-kue-stay',
     type: 'article',
@@ -231,10 +231,7 @@ export default function WakayamaCityPage() {
             <Snowflake className="w-4 h-4 text-cyan-300 animate-spin" />
             11月・12月・1月冬の特選旅｜和歌山・和歌山市＆加太温泉
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">
-            冬の日前神宮新春開運初詣＆紀淡海峡夕陽絶景！<br className="hidden sm:inline" />
-            加太温泉名湯と冬の寒真鯛・幻のクエに寛ぐ名宿5選
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">冬の日前神宮新春開運初詣＆紀淡海峡夕陽絶景！<br className="hidden sm:inline" /> 加太温泉名湯と冬の寒真鯛・幻のクエに寛ぐ名宿5選</h1>
           <p className="text-base sm:text-lg text-slate-200/90 leading-relaxed max-w-4xl mb-8">
             大阪なんばから約1時間20分。冬の和歌山市・加太は、黄金色から紫紺へと染まる紀淡海峡のサンセット絶景と、神代の歴史を誇る紀伊国一之宮・日前神宮での新春開運初詣が心を満たす季節です。加太港の一本釣り天然真鯛や紀州沖の幻の高級魚・天然クエ鍋、美肌効果抜群のとろりとした重曹泉・加太温泉のインフィニティ露天風呂。徳川御三家の城下町と海辺の絶景宿で温まる冬旅へご案内します。
           </p>

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/iwate-hiraizumi-chusonji-heritage-stay/" },
-  title: "【岩手・平泉中尊寺＆厳美渓】世界遺産金色堂・空飛ぶだんご＆前沢牛極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "岩手・平泉中尊寺＆厳美渓：世界遺産金色堂・空飛ぶだんご＆前沢牛極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "世界遺産・岩手平泉エリア完全特化！奥州藤原氏の極楽浄土「中尊寺金色堂」、毛越寺の浄土庭園、厳美渓の空飛ぶ「郭公だんご」、日本最高峰のブランド牛「前沢牛」と平泉周辺の温泉旅館を徹底解説。",
   keywords: ["岩手", "平泉中尊寺", "厳美渓", "世界遺産金色堂", "空飛ぶだんご", "前沢牛極上宿", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             HIRAIZUMI WORLD HERITAGE GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【岩手・平泉中尊寺＆厳美渓】世界遺産金色堂・空飛ぶだんご＆前沢牛極上宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「岩手・平泉中尊寺＆厳美渓」世界遺産金色堂・空飛ぶだんご＆前沢牛極上宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             奥州藤原氏が築いた黄金郷「平泉」。金箔で覆われた国宝「中尊寺金色堂」と、平安の雅を今に伝える毛越寺の浄土庭園。名勝・厳美渓の渓谷美を眺め、極上の前沢牛とわんこそばに舌鼓を打つ歴史浪漫の旅。
           </p>

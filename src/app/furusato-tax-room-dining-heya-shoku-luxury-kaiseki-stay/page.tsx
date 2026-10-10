@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: 'お部屋食でゆったり寛ぐ極上会席料理＆老舗名門温泉旅館×ふるさと納税完全ガイド【2026年最新】城崎・有馬・草津',
+  title: 'お部屋食でゆったり寛ぐ極上会席料理＆老舗名門温泉旅館×ふるさと納税厳選ガイド城崎・有馬・草津',
   description: '周囲を気にせず自分たちのプライベート空間で伝統の本格会席を味わう至福！創業百六十年の数寄屋建築と老舗の部屋食会席が名高い城崎温泉の最高峰「西村屋本館」、日本三古湯・有馬の金泉と伝統の美味を部屋で堪能する「兵衛向陽閣」、湯守が磨き上げる名湯・白旗源泉と熟練仲居の丁寧なおもてなしを誇る草津温泉「奈良屋」。移動なしの部屋食と掛け流し名湯を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
   keywords: ["老舗名門温泉旅館×ふるさと納税", "2026年最新", "城崎", "有馬", "草津", "温泉宿", "宿泊予約"],
   alternates: { canonical: baseUrl + '/furusato-tax-room-dining-heya-shoku-luxury-kaiseki-stay/' },
   openGraph: {
-    title: 'お部屋食でゆったり寛ぐ極上会席料理＆老舗名門温泉旅館×ふるさと納税完全ガイド【2026年最新】城崎・有馬・草津',
+    title: 'お部屋食でゆったり寛ぐ極上会席料理＆老舗名門温泉旅館×ふるさと納税厳選ガイド城崎・有馬・草津',
     description: '周囲を気にせず自分たちのプライベート空間で伝統の本格会席を味わう至福！創業百六十年の数寄屋建築と老舗の部屋食会席が名高い城崎温泉の最高峰「西村屋本館」、日本三古湯・有馬の金泉と伝統の美味を部屋で堪能する「兵衛向陽閣」、湯守が磨き上げる名湯・白旗源泉と熟練仲居の丁寧なおもてなしを誇る草津温泉「奈良屋」。移動なしの部屋食と掛け流し名湯を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
     url: baseUrl + '/furusato-tax-room-dining-heya-shoku-luxury-kaiseki-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoRoomDiningHeyaShokuStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             贅沢部屋食・老舗旅館会席料理宿特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            お部屋食でゆったり寛ぐ極上会席料理＆老舗名門温泉旅館×ふるさと納税完全ガイド【2026年最新】城崎・有馬・草津
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">お部屋食でゆったり寛ぐ極上会席料理＆老舗名門温泉旅館×ふるさと納税厳選ガイド城崎・有馬・草津</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             日本の旅館文化が誇る最高峰の贅沢のひとつ「部屋食（お部屋食会席）」。食事処やレストランへ移動する必要がなく、温泉上がりの浴衣姿のまま、寛ぎ慣れた自分たちの客室で出来立ての料理を一品一品ゆったりと味わう時間は、格別の安らぎをもたらしてくれます。小さな子ども連れのファミリーも周囲に気兼ねすることなく団欒を楽しめ、ご年配の方や記念日を祝うカップルにとっても、誰にも邪魔されない至極のプライベート空間が約束されます。文豪・志賀直哉ゆかりの城崎温泉で百六十年の歴史を刻み、日本庭園を望む数寄屋造りの客室で但馬牛や松葉蟹の部屋食会席を振る舞う「西村屋本館」、創業七百年・有馬温泉の老舗として良質な金泉と匠の技が光る部屋食会席を誇る「兵衛向陽閣」、そして湯畑のすぐそばに佇み、草津最古の白旗源泉を湯守が手入れした極上の湯と旬の味覚を部屋食で届ける「奈良屋」。熟練の仲居さんによる温かなおもてなしが息づく部屋食の名旅館を、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引）を使って実質2,000円で賢く予約し、日本の粋を味わう贅沢な温泉旅へ出かけましょう。
           </p>

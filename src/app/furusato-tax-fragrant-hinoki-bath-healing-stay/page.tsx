@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '天然ヒノキの香りと美肌温泉に包まれる総檜風呂名旅館×ふるさと納税完全ガイド【2026年最新】信州木曽・伊豆湯ヶ島・熊本黒川',
+  title: '天然ヒノキの香りと美肌温泉に包まれる総檜風呂名旅館×ふるさと納税厳選ガイド信州木曽・伊豆湯ヶ島・熊本黒川',
   description: '木肌の柔らかな感触と、豊かに立ちのぼるヒノキのフィトンチッド。日本古来の癒やしを体現した極上の総檜風呂宿を厳選！木曽ヒノキ発祥の地で樹齢数百年の大名風呂と木曽牛会席を味わう「木曽路の宿 いわや」、猫越川の清流を望む全室源泉かけ流し総檜露天風呂付きの大人の名宿「谷川の湯 あせび野」、細川藩の御前湯の歴史を継ぎ創業三百年を誇る黒川温泉「歴史の宿 御客屋」。五感を解き放つ木の温もりステイを、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
   keywords: ["2026年最新", "信州木曽", "伊豆湯ヶ島", "熊本黒川", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: { canonical: baseUrl + '/furusato-tax-fragrant-hinoki-bath-healing-stay/' },
   openGraph: {
-    title: '天然ヒノキの香りと美肌温泉に包まれる総檜風呂名旅館×ふるさと納税完全ガイド【2026年最新】信州木曽・伊豆湯ヶ島・熊本黒川',
+    title: '天然ヒノキの香りと美肌温泉に包まれる総檜風呂名旅館×ふるさと納税厳選ガイド信州木曽・伊豆湯ヶ島・熊本黒川',
     description: '木肌の柔らかな感触と、豊かに立ちのぼるヒノキのフィトンチッド。日本古来の癒やしを体現した極上の総檜風呂宿を厳選！木曽ヒノキ発祥の地で樹齢数百年の大名風呂と木曽牛会席を味わう「木曽路の宿 いわや」、猫越川の清流を望む全室源泉かけ流し総檜露天風呂付きの大人の名宿「谷川の湯 あせび野」、細川藩の御前湯の歴史を継ぎ創業三百年を誇る黒川温泉「歴史の宿 御客屋」。五感を解き放つ木の温もりステイを、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
     url: baseUrl + '/furusato-tax-fragrant-hinoki-bath-healing-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoFragrantHinokiBathStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             木曽ヒノキ＆総檜風呂森林浴温泉宿特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            天然ヒノキの香りと美肌温泉に包まれる総檜風呂名旅館×ふるさと納税完全ガイド【2026年最新】信州木曽・伊豆湯ヶ島・熊本黒川
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">天然ヒノキの香りと美肌温泉に包まれる総檜風呂名旅館×ふるさと納税厳選ガイド信州木曽・伊豆湯ヶ島・熊本黒川</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             湯船に足を滑り込ませた瞬間、足裏に伝わるしっとりとなめらかな木の温もり。湯面に反射する柔らかな木目と、湯気とともに鼻腔をくすぐる天然ヒノキの清々しい芳香――「檜（ヒノキ）風呂」は、石造りの浴槽とは一線を画す、日本人にとって特別な安らぎをもたらす伝統的なお風呂です。ヒノキに含まれる精油成分「ヒノキチオール」や「フィトンチッド」には、優れたリラックス効果と抗菌・消臭作用があり、温泉の温熱効果と相まって自律神経を深く整えてくれます。伊勢神宮の御用材としても名高い木曽ヒノキの故郷で創業三百七十余年の歴史を紡ぎ、樹齢数百年の総檜風呂を湛える長野県「木曽路の宿 いわや」、天城連峰の深い森と清流を望み、全室に源泉かけ流しの総檜専用露天風呂を備える伊豆の名宿「谷川の湯 あせび野」、そして黒川温泉で最も古い歴史を持ち、肥後細川藩の御前湯の趣を残す檜風呂と手作り田舎会席が評判の熊本県「歴史の宿 御客屋」。木と湯の恵みに包まれる極上の総檜風呂ステイを、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を使って実質自己負担2,000円で賢く予約し、森林浴のような癒やしの温泉旅へ出かけましょう。
           </p>

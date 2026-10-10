@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【11・12月冬の嵐山と静寂の名刹】嵯峨野の竹林雪景色と嵐山温泉・熱々湯豆腐宿5選",
+  title: "冬の嵐山と静寂の名刹で過ごす冬の旅（11・12月）！嵯峨野の竹林雪景色と嵐山温泉・熱々湯豆腐宿5選",
   description: "11月下旬の紅葉から12月の澄み切った冬景色へと表情を変える京都・嵐山と嵯峨野。渡月橋の幻想的な朝霧や竹林の小径の静寂を歩き、冷えた身体を嵐山温泉の湯けむりで癒やす。職人仕込みの嵯峨湯豆腐と京懐石に舌鼓を打つ珠玉の冬旅ガイド。",
   keywords: '嵐山 温泉 旅館, 京都 嵐山 宿泊, 嵯峨野 湯豆腐 宿, 渡月橋 温泉 ホテル, 京都 11月 12月 旅行, 冬の京都 温泉, 嵐山 冬景色',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kyoto-arashiyama-onsen-yudofu-stay/",
   },
   openGraph: {
-    title: "【11・12月冬の嵐山と静寂の名刹】嵯峨野の竹林雪景色と嵐山温泉・熱々湯豆腐宿5選",
+    title: "冬の嵐山と静寂の名刹で過ごす冬の旅（11・12月）！嵯峨野の竹林雪景色と嵐山温泉・熱々湯豆腐宿5選",
     description: "11月下旬の紅葉から12月の澄み切った冬景色へと表情を変える京都・嵐山と嵯峨野。渡月橋の幻想的な朝霧や竹林の小径の静寂を歩き、冷えた身体を嵐山温泉の湯けむりで癒やす。職人仕込みの嵯峨湯豆腐と京懐石に舌鼓を打つ珠玉の冬旅ガイド。",
     url: 'https://croud-travel.pages.dev/winter-kyoto-arashiyama-onsen-yudofu-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月冬の嵐山と静寂の名刹】嵯峨野の竹林雪景色と嵐山温泉・熱々湯豆腐宿5選",
+    title: "冬の嵐山と静寂の名刹で過ごす冬の旅（11・12月）！嵯峨野の竹林雪景色と嵐山温泉・熱々湯豆腐宿5選",
     description: "11月下旬の紅葉から12月の澄み切った冬景色へと表情を変える京都・嵐山と嵯峨野。渡月橋の幻想的な朝霧や竹林の小径の静寂を歩き、冷えた身体を嵐山温泉の湯けむりで癒やす。職人仕込みの嵯峨湯豆腐と京懐石に舌鼓を打つ珠玉の冬旅ガイド。",
   }
 };
@@ -266,10 +266,7 @@ export default function ArashiyamaWinterPage() {
             <Sparkles className="w-4 h-4 text-amber-300" />
             <span>11月・12月限定 冬の京都名所選</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月冬の嵐山と静寂の名刹】<br className="hidden sm:inline" />
-            嵯峨野の竹林雪景色と嵐山温泉・熱々湯豆腐宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">冬の嵐山と静寂の名刹で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 嵯峨野の竹林雪景色と嵐山温泉・熱々湯豆腐宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             晩秋の深紅の紅葉が去り、研ぎ澄まされた静寂が訪れる初冬の嵐山・嵯峨野。渡月橋にかかる幻想的な朝霧を歩き、嵐山温泉のまろやかな湯に寛ぎ、老舗の熱々湯豆腐に舌鼓を打つ極上の冬旅へ。
           </p>

@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【12月白馬スキー場オープン！北アルプス雪山リゾート】八方尾根＆白馬八方美肌温泉宿5選",
+  title: "白馬スキー場オープン！北アルプス雪山リゾートで過ごす冬の旅（12月）！八方尾根＆白馬八方美肌温泉宿5選",
   description: "12月上旬から順次シーズンインする日本屈指のビッグゲレンデ・白馬八方尾根＆エイブル白馬五竜！極上のパウダースノーで爽快クルージングを楽しんだ後は、日本屈指の強アルカリ性美肌湯・白馬八方温泉と信州グルメを満喫。",
   keywords: "白馬 温泉 リゾート ホテル, 11月旅行, 12月旅行, 冬休み, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hakuba-snow-resort-ski-stay/",
   },
   openGraph: {
-    title: "【12月白馬スキー場オープン！北アルプス雪山リゾート】八方尾根＆白馬八方美肌温泉宿5選",
+    title: "白馬スキー場オープン！北アルプス雪山リゾートで過ごす冬の旅（12月）！八方尾根＆白馬八方美肌温泉宿5選",
     description: "12月上旬から順次シーズンインする日本屈指のビッグゲレンデ・白馬八方尾根＆エイブル白馬五竜！極上のパウダースノーで爽快クルージングを楽しんだ後は、日本屈指の強アルカリ性美肌湯・白馬八方温泉と信州グルメを満喫。",
     url: 'https://croud-travel.pages.dev/winter-hakuba-snow-resort-ski-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【12月白馬スキー場オープン！北アルプス雪山リゾート】八方尾根＆白馬八方美肌温泉宿5選",
+    title: "白馬スキー場オープン！北アルプス雪山リゾートで過ごす冬の旅（12月）！八方尾根＆白馬八方美肌温泉宿5選",
     description: "12月上旬から順次シーズンインする日本屈指のビッグゲレンデ・白馬八方尾根＆エイブル白馬五竜！極上のパウダースノーで爽快クルージングを楽しんだ後は、日本屈指の強アルカリ性美肌湯・白馬八方温泉と信州グルメを満喫。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>白馬スノーリゾート＆八方美肌湯</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【12月白馬スキー場オープン！北アルプス雪山リゾート】八方尾根＆白馬八方美肌温泉宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">白馬スキー場オープン！北アルプス雪山リゾートで過ごす冬の旅（12月）！八方尾根＆白馬八方美肌温泉宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             12月上旬から順次シーズンインする日本屈指のビッグゲレンデ・白馬八方尾根＆エイブル白馬五竜！極上のパウダースノーで爽快クルージングを楽しんだ後は、日本屈指の強アルカリ性美肌湯・白馬八方温泉と信州グルメを満喫。
           </p>

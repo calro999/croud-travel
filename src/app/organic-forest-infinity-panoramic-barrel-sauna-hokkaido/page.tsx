@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【北海道大自然バレルサウナ】十勝・ニセコ・富良野！白樺原生林と極上雪解け湧水水風呂宿5選",
+  title: "北海道大自然バレルサウナ：十勝・ニセコ・富良野！白樺原生林と極上雪解け湧水水風呂宿5選",
   description: "雄大な北の大地に佇む本格木製バレルサウナ！十勝のアヴァントやニセコの羊蹄山ビュー、富良野の白樺林に囲まれながらのセルフロウリュと、氷点下シングルの天然水風呂・雪ダイブで異次元のととのい体験。",
   keywords: "北海道 バレルサウナ 温泉, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/organic-forest-infinity-panoramic-barrel-sauna-hokkaido/",
   },
   openGraph: {
-    title: "【北海道大自然バレルサウナ】十勝・ニセコ・富良野！白樺原生林と極上雪解け湧水水風呂宿5選",
+    title: "北海道大自然バレルサウナ：十勝・ニセコ・富良野！白樺原生林と極上雪解け湧水水風呂宿5選",
     description: "雄大な北の大地に佇む本格木製バレルサウナ！十勝のアヴァントやニセコの羊蹄山ビュー、富良野の白樺林に囲まれながらのセルフロウリュと、氷点下シングルの天然水風呂・雪ダイブで異次元のととのい体験。",
     url: 'https://croud-travel.pages.dev/organic-forest-infinity-panoramic-barrel-sauna-hokkaido',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【北海道大自然バレルサウナ】十勝・ニセコ・富良野！白樺原生林と極上雪解け湧水水風呂宿5選",
+    title: "北海道大自然バレルサウナ：十勝・ニセコ・富良野！白樺原生林と極上雪解け湧水水風呂宿5選",
     description: "雄大な北の大地に佇む本格木製バレルサウナ！十勝のアヴァントやニセコの羊蹄山ビュー、富良野の白樺林に囲まれながらのセルフロウリュと、氷点下シングルの天然水風呂・雪ダイブで異次元のととのい体験。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>北海道バレルサウナ＆雪解け湧水</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【北海道大自然バレルサウナ】十勝・ニセコ・富良野！白樺原生林と極上雪解け湧水水風呂宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「北海道大自然バレルサウナ」十勝・ニセコ・富良野！白樺原生林と極上雪解け湧水水風呂宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             雄大な北の大地に佇む本格木製バレルサウナ！十勝のアヴァントやニセコの羊蹄山ビュー、富良野の白樺林に囲まれながらのセルフロウリュと、氷点下シングルの天然水風呂・雪ダイブで異次元のととのい体験。
           </p>

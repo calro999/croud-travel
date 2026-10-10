@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/miyagi-akiu-sakunami-sendai-stay/" },
-  title: "【宮城・秋保温泉＆作並温泉】仙台奥座敷・磊々峡＆ニッカウヰスキー・仙台牛宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "宮城・秋保温泉＆作並温泉：仙台奥座敷・磊々峡＆ニッカウヰスキー・仙台牛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "仙台から車30分の名湯・秋保温泉＆作並温泉エリア完全特化！名勝「磊々峡」のハートの奇岩、落差55m「秋保大滝」、ニッカウヰスキー宮城峡蒸溜所、伊達政宗ゆかりの温泉と極上仙台牛ステーキ会席宿を徹底解説。",
   keywords: ["宮城", "秋保温泉", "作並温泉", "仙台奥座敷", "磊々峡", "ニッカウヰスキー", "仙台牛宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             AKIU & SAKUNAMI GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【宮城・秋保温泉＆作並温泉】仙台奥座敷・磊々峡＆ニッカウヰスキー・仙台牛宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「宮城・秋保温泉＆作並温泉」仙台奥座敷・磊々峡＆ニッカウヰスキー・仙台牛宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             杜の都・仙台の奥座敷として歴代藩主や文人に愛された「秋保温泉」と「作並温泉」。名取川が削り出した奇岩の渓谷「磊々峡」と大迫力の秋保大滝。清流の水で仕込まれる宮城峡ウイスキーと、A5仙台牛に舌鼓を打つ大人の休日。
           </p>

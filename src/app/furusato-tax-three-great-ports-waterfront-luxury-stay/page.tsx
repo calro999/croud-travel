@@ -4,14 +4,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '日本三大美港＆客船クルーズ・ウォーターフロント名門ホテル×ふるさと納税完全ガイド【2026年最新】神戸・横浜・長崎',
+  title: '日本三大美港＆客船クルーズ・ウォーターフロント名門ホテル×ふるさと納税厳選ガイド神戸・横浜・長崎',
   description: '開港の歴史とエキゾチックな港町パノラマ！兵庫「神戸港」メリケンパークのハーバービューと最高級神戸牛鉄板焼き、神奈川「横浜港」みなとみらいベイブリッジ夜景とクラシックホテル、長崎「長崎港」稲佐山から見下ろす1000万ドル夜景と南蛮卓袱料理。日本三大美港のベイサイドステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: 'ふるさと納税, 楽天トラベル, 旅行クーポン, 宿泊記, ホテル予約, 国内旅行, おすすめ宿, 温泉旅館',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-ports-waterfront-luxury-stay/",
   },
   openGraph: {
-    title: '日本三大美港＆客船クルーズ・ウォーターフロント名門ホテル×ふるさと納税完全ガイド【2026年最新】神戸・横浜・長崎',
+    title: '日本三大美港＆客船クルーズ・ウォーターフロント名門ホテル×ふるさと納税厳選ガイド神戸・横浜・長崎',
     description: '開港の歴史とエキゾチックな港町パノラマ！兵庫「神戸港」メリケンパークのハーバービューと最高級神戸牛鉄板焼き、神奈川「横浜港」みなとみらいベイブリッジ夜景とクラシックホテル、長崎「長崎港」稲佐山から見下ろす1000万ドル夜景と南蛮卓袱料理。日本三大美港のベイサイドステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-ports-waterfront-luxury-stay',
     siteName: 'トラベル総合ナビ',
@@ -56,9 +56,7 @@ export default function Page() {
             <span>✨</span>
             <span>日本三大美港・ベイサイド特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6 text-white drop-shadow-sm">
-            日本三大美港＆ウォーターフロント名門ホテル×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6 text-white drop-shadow-sm">日本三大美港＆ウォーターフロント名門ホテル×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-xl text-slate-200 leading-relaxed font-normal max-w-4xl">
             行き交う大型客船と海を染める夕暮れのマジックアワー。異国情緒薫る港町のリゾートホテルステイ
           </p>

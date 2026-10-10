@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月広島・宮島温泉】厳島神社大鳥居一望！名宿5選',
+  title: '広島・宮島温泉で過ごす冬の旅（11・12月）！厳島神社大鳥居一望！名宿5選',
   description: '11月から12月にかけて、日本三景の一つにして世界遺産の島・宮島（厳島）は、紅葉谷の燃えるような紅葉が落ち着きを取り戻し。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '宮島 宿泊, 厳島神社 温泉 宿泊, 広島 温泉 11月 12月, 宮島グランドホテル有もと, ホテル宮島別荘, 錦水館, 岩惣, 安芸グランドホテル, 広島牡蠣 焼き牡蠣, 厳島神社 大鳥居, 宮島潮湯温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hiroshima-miyajima-onsen-kaki-oyster-seto-stay/"
   },
   openGraph: {
-    title: '【11・12月広島・宮島温泉】厳島神社大鳥居一望！名宿5選',
+    title: '広島・宮島温泉で過ごす冬の旅（11・12月）！厳島神社大鳥居一望！名宿5選',
     description: '11月から12月にかけて、日本三景の一つにして世界遺産の島・宮島（厳島）は、紅葉谷の燃えるような紅葉が落ち着きを取り戻し。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-hiroshima-miyajima-onsen-kaki-oyster-seto-stay',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -246,10 +246,7 @@ export default function HiroshimaMiyajimaWinterFeature() {
             <Landmark className="w-4 h-4" />
             11月・12月 世界遺産初冬絶景＆本場広島牡蠣特集｜広島・宮島温泉
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            世界遺産初冬絶景と旬解禁広島カキづくし会席<br className="hidden sm:inline" />
-            厳島神社大鳥居一望＆瀬戸内海オーシャンビュー露天の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">世界遺産初冬絶景と旬解禁広島カキづくし会席<br className="hidden sm:inline" /> 厳島神社大鳥居一望＆瀬戸内海オーシャンビュー露天の宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             観光客が去った夜と朝の静謐な神域。海に浮かぶ荘厳な大鳥居のシルエットを眺め、11月に身を太らせる本場広島の殻付き焼き牡蠣と安芸牛、宮島潮湯温泉に癒やされる至福の島旅。
           </p>

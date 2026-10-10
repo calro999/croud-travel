@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '伊豆修善寺温泉の竹林の小径紅葉＆桂川の朱塗りの橋！文化財名旅館×ふるさと納税完全ガイド【2026年最新秋旅】静岡',
+  title: '伊豆修善寺温泉の竹林の小径紅葉＆桂川の朱塗りの橋！文化財名旅館×ふるさと納税厳選ガイド静岡',
   description: '11月中旬〜12月上旬に見頃を迎える伊豆最古の温泉地「修善寺温泉」。桂川沿いの遊歩道や竹林の小径を彩る鮮やかな紅葉、修禅寺庭園の特別公開と、国の登録有形文化財「新井旅館」「瑞の里 〇久旅館」「柳生の庄」で伊豆の旬山海の幸・金目鯛や伊豆牛を堪能。ふるさと納税トラベルクーポンで実質2,000円。',
   keywords: ["伊豆修善寺温泉の竹林の小径紅葉", "2026年最新秋旅", "静岡", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-shuzenji-autumn-leaves-bamboo-stay/"
   },
   openGraph: {
-    title: '伊豆修善寺温泉の竹林の小径紅葉＆桂川の朱塗りの橋！文化財名旅館×ふるさと納税完全ガイド【2026年最新秋旅】静岡',
+    title: '伊豆修善寺温泉の竹林の小径紅葉＆桂川の朱塗りの橋！文化財名旅館×ふるさと納税厳選ガイド静岡',
     description: '11月中旬〜12月上旬に見頃を迎える伊豆最古の温泉地「修善寺温泉」。桂川沿いの遊歩道や竹林の小径を彩る鮮やかな紅葉、修禅寺庭園の特別公開と、国の登録有形文化財「新井旅館」「瑞の里 〇久旅館」「柳生の庄」で伊豆の旬山海の幸・金目鯛や伊豆牛を堪能。ふるさと納税トラベルクーポンで実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-shuzenji-autumn-leaves-bamboo-stay',
     siteName: '旅宿クラウド',
@@ -113,9 +113,7 @@ export default function FeatureArticlePage() {
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">
-            伊豆修善寺温泉の竹林の小径紅葉＆桂川の朱塗りの橋！文化財名旅館×ふるさと納税完全ガイド【2026年最新秋旅】静岡
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">伊豆修善寺温泉の竹林の小径紅葉＆桂川の朱塗りの橋！文化財名旅館×ふるさと納税厳選ガイド静岡</h1>
           <p className="text-sm md:text-lg text-stone-200 max-w-3xl mx-auto leading-relaxed">
             静寂の竹林の小径と桂川の朱塗りの橋を彩る紅葉絵巻、文豪が愛した伊豆最古の湯宿。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
           </p>

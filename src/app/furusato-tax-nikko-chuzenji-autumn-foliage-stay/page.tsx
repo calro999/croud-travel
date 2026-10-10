@@ -4,14 +4,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '湖面に映える錦秋の男体山！日光中禅寺湖・いろは坂＆奥日光にごり湯温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】 | 旅宿クラウド',
+  title: '湖面に映える錦秋の男体山！日光中禅寺湖・いろは坂＆奥日光にごり湯温泉宿×ふるさと納税厳選ガイド | 旅宿クラウド',
   description: '10月中旬〜11月上旬に見頃を迎える関東屈指の紅葉名所「日光・中禅寺湖・いろは坂・華厳の滝」。湖畔のクラシックリゾートや乳白色硫黄泉の湯元温泉宿「ホテル花庵」「中禅寺金谷ホテル」「湯元板屋」。とちぎ和牛と湯波会席を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
   keywords: ["いろは坂", "2026年最新秋旅", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-nikko-chuzenji-autumn-foliage-stay/"
   },
   openGraph: {
-    title: '湖面に映える錦秋の男体山！日光中禅寺湖・いろは坂＆奥日光にごり湯温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】',
+    title: '湖面に映える錦秋の男体山！日光中禅寺湖・いろは坂＆奥日光にごり湯温泉宿×ふるさと納税厳選ガイド',
     description: '10月中旬〜11月上旬に見頃を迎える関東屈指の紅葉名所「日光・中禅寺湖・いろは坂・華厳の滝」。湖畔のクラシックリゾートや乳白色硫黄泉の湯元温泉宿「ホテル花庵」「中禅寺金谷ホテル」「湯元板屋」。とちぎ和牛と湯波会席を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-nikko-chuzenji-autumn-foliage-stay',
     siteName: '旅宿クラウド',
@@ -65,9 +65,7 @@ export default function FurusatoNikkoChuzenjiAutumnFoliageStayPage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               日光中禅寺湖＆いろは坂 絶景紅葉・乳白色硫黄泉名宿特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              湖面に映える錦秋の男体山！日光中禅寺湖・いろは坂＆奥日光にごり湯温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">湖面に映える錦秋の男体山！日光中禅寺湖・いろは坂＆奥日光にごり湯温泉宿×ふるさと納税厳選ガイド</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               10月中旬〜11月上旬に見頃を迎える関東屈指の紅葉名所「日光・中禅寺湖・いろは坂・華厳の滝」。湖畔のクラシックリゾートや乳白色硫黄泉の湯元温泉宿「ホテル花庵」「中禅寺金谷ホテル」「湯元板屋」。とちぎ和牛と湯波会席を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。
             </p>

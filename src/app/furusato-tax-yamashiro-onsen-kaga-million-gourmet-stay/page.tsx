@@ -3,11 +3,11 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【山代温泉×ふるさと納税】加賀百万石の湯の曲輪＆北大路魯山人ゆかりの美食！名門温泉旅館完全ガイド｜ゆのくに天祥・葉渡莉・たちばな四季亭',
+  title: '山代温泉をふるさと納税でお得に旅する！加賀百万石の湯の曲輪＆北大路魯山人ゆかりの美食！名門温泉旅館厳選ガイド｜ゆのくに天祥・葉渡莉・たちばな四季亭',
   description: '北陸新幹線でアクセス抜群！開湯1300年の名湯・加賀山代温泉を楽天ふるさと納税でお得に旅する。自家源泉一薬三湯と十八趣の湯巡りが自慢の「ゆのくに天祥」、木の温もりあふれる和モダン宿「葉渡莉」、明治元年創業・全館生花が彩る料亭旅館「たちばな四季亭」を徹底比較。のどぐろ・加賀橋立港のズワイガニ美食と加賀市クーポン活用術を網羅。',
   keywords: '山代温泉 ふるさと納税,ゆのくに天祥 ふるさと納税,葉渡莉 山代温泉 クーポン,たちばな四季亭 宿泊,加賀市 ふるさと納税 楽天トラベル',
   openGraph: {
-    title: '【山代温泉×ふるさと納税】加賀百万石の湯の曲輪＆北大路魯山人ゆかりの美食！名門温泉旅館完全ガイド｜ゆのくに天祥・葉渡莉・たちばな四季亭',
+    title: '山代温泉をふるさと納税でお得に旅する！加賀百万石の湯の曲輪＆北大路魯山人ゆかりの美食！名門温泉旅館厳選ガイド｜ゆのくに天祥・葉渡莉・たちばな四季亭',
     description: '北陸新幹線でアクセス抜群！開湯1300年の名湯・加賀山代温泉を楽天ふるさと納税でお得に旅する。自家源泉一薬三湯と十八趣の湯巡りが自慢の「ゆのくに天祥」、木の温もりあふれる和モダン宿「葉渡莉」、明治元年創業・全館生花が彩る料亭旅館「たちばな四季亭」を徹底比較。のどぐろ・加賀橋立港のズワイガニ美食と加賀市クーポン活用術を網羅。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-yamashiro-onsen-kaga-million-gourmet-stay',
@@ -54,9 +54,7 @@ export default function FurusatoTaxArticle() {
             <span>•</span>
             <span>自治体公認 宿泊割引</span>
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-5xl font-extrabold tracking-tight text-white font-serif leading-tight">
-            【山代温泉×ふるさと納税】加賀百万石の湯の曲輪＆北大路魯山人ゆかりの美食！名門温泉旅館完全ガイド｜ゆのくに天祥・葉渡莉・たちばな四季亭
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-5xl font-extrabold tracking-tight text-white font-serif leading-tight">山代温泉をふるさと納税でお得に旅する！加賀百万石の湯の曲輪＆北大路魯山人ゆかりの美食！名門温泉旅館厳選ガイド｜ゆのくに天祥・葉渡莉・たちばな四季亭</h1>
           <p className="text-stone-300 text-sm md:text-base max-w-2xl mx-auto pt-2 leading-relaxed">
             北陸新幹線でアクセス抜群！開湯1300年の名湯・加賀山代温泉を楽天ふるさと納税でお得に旅する。自家源泉一薬三湯と十八趣の湯巡りが自慢の「ゆのくに天祥」、木の温もりあふれる和モダン宿「葉渡莉」、明治元年創業・全館生花が彩る料亭旅館「たちばな四季亭」を徹底比較。のどぐろ・加賀橋立港のズワイガニ美食と加賀市クーポン活用術を網羅。
           </p>

@@ -5,14 +5,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月岡山】倉敷総鎮守「阿智神社」新春初詣！名宿5選',
+  title: '11・12・1月岡山：倉敷総鎮守「阿智神社」新春初詣！名宿5選',
   description: '江戸情緒を色濃く残す白壁の蔵屋敷となまこ壁の町並み！11〜1月は柳並木の倉敷川沿いがしっとりとした静寂に包まれ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '倉敷美観地区 冬, 倉敷美観地区 ライトアップ, 阿智神社 初詣, 下津井タコ, 千屋牛 ステーキ, 倉敷アイビースクエア, ドーミーイン倉敷, ロイヤルパークホテル倉敷, 岡山ばら寿司, 倉敷 冬 旅行',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-okayama-kurashiki-bikan-achi-shrine-hatsumode-chiyagyu-stay'
   },
   openGraph: {
-    title: '【11・12・1月岡山】倉敷総鎮守「阿智神社」新春初詣！名宿5選',
+    title: '11・12・1月岡山：倉敷総鎮守「阿智神社」新春初詣！名宿5選',
     description: '江戸情緒を色濃く残す白壁の蔵屋敷となまこ壁の町並み！11〜1月は柳並木の倉敷川沿いがしっとりとした静寂に包まれ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-okayama-kurashiki-bikan-achi-shrine-hatsumode-chiyagyu-stay',
     siteName: 'クラドトラベル',
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月岡山】白壁となまこ壁が雪景色に映える「倉敷美観地区」冬情景！倉敷総鎮守「阿智神社」新春初詣・名物下津井タコ料理＆幻の千屋牛ステーキ厳選名宿5選",
+    title: "11・12・1月岡山：白壁となまこ壁が雪景色に映える「倉敷美観地区」冬情景！倉敷総鎮守「阿智神社」新春初詣・名物下津井タコ料理＆幻の千屋牛ステーキ厳選名宿5選",
     description: "江戸情緒を色濃く残す白壁の蔵屋敷となまこ壁の町並み！11〜1月は柳並木の倉敷川沿いがしっとりとした静寂に包まれ、冬の夕暮れ時には風情ある町家ライトアップが幻想的な陰影を描き出します。美観地区を見守る鶴形山山頂の「阿智神社」では宗像三女神への美と健康・新春初詣と能舞台の清浄な気配。瀬戸内海の激流で育った冬旬「下津井タコ」のしゃぶしゃぶや旨味濃厚な日本最古の蔓牛「千屋牛」会席を堪能し、倉敷アイビースクエアや倉敷美観地区至近の洗練名宿5選を徹底特集。",
     images: ['https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=80']
   }
@@ -288,11 +288,7 @@ export default function OkayamaKurashikiWinterFeaturePage() {
               <Sparkles className="w-4 h-4 text-indigo-400" />
               11月・12月・1月冬の晴れの国・倉敷探訪スペシャル
             </div>
-            <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight mb-6">
-              【岡山・倉敷美観地区】<br className="hidden sm:inline" />
-              白壁となまこ壁が雪景色に映える冬情景と町家ライトアップ！<br />
-              倉敷総鎮守「阿智神社」新春初詣・極上下津井タコ＆千屋牛名宿
-            </h1>
+            <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight mb-6">「岡山・倉敷美観地区」<br className="hidden sm:inline" /> 白壁となまこ壁が雪景色に映える冬情景と町家ライトアップ！<br /> 倉敷総鎮守「阿智神社」新春初詣・極上下津井タコ＆千屋牛名宿</h1>
             <p className="text-sm sm:text-base md:text-lg text-slate-300 leading-relaxed max-w-3xl mx-auto mb-8 font-normal">
               江戸幕府の天領として栄えた白壁土蔵となまこ壁の蔵屋敷。11〜1月の冬シーズンは倉敷川沿いがしっとりとした静寂に包まれ、夜間景観照明が白壁を幻想的に照らし出します。鶴形山山頂に鎮座する倉敷総鎮守「阿智神社」で宗像三女神へ捧げる新春初詣。激流で鍛え抜かれた冬旬「下津井タコ」のしゃぶしゃぶと、幻の黒毛和牛「千屋牛」の極上ステーキ。赤煉瓦ヘリテージ「倉敷アイビースクエア」や美観地区至近の洗練名宿を巡る贅沢な冬旅をご案内します。
             </p>

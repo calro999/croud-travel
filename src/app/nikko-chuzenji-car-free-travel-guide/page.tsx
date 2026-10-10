@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nikko-chuzenji-car-free-travel-guide/" },
-  title: "【日光・中禅寺湖 車なし観光 1泊2日モデルコース】東武特急スペーシアX＆東武バスで行く世界遺産＆奥日光湯宿 ｜ 日本全国・旅宿クラウド",
+  title: "日光・中禅寺湖 車なし観光 1泊2日モデルコース：東武特急スペーシアX＆東武バスで行く世界遺産＆奥日光湯宿 ｜ 日本全国・旅宿クラウド",
   description: "電車とバスだけで巡る日光完全ガイド！新型特急スペーシアX、日光WEBフリーパス、東武バスを活用して東照宮・いろは坂・華厳の滝・中禅寺湖遊覧船・奥日光硫黄泉旅館をスムーズに回る乗り継ぎタイムテーブル。",
   keywords: ["日光", "中禅寺湖", "車なし観光", "1泊2日モデルコース", "東武特急スペーシアX", "東武バスで行く世界遺産", "奥日光湯宿"],
 };
@@ -199,10 +199,7 @@ export default function NikkoChuzenjiCarFreeTravelGuidePage() {
             </span>
           </div>
 
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white drop-shadow-sm">
-            【日光・中禅寺湖 車なし観光 1泊2日モデルコース】<br />
-            <span className="text-emerald-300">東武特急スペーシアX＆東武バスで行く世界遺産＆奥日光湯宿</span>
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white drop-shadow-sm">「日光・中禅寺湖 車なし観光 1泊2日モデルコース」<br /> <span className="text-emerald-300">東武特急スペーシアX＆東武バスで行く世界遺産＆奥日光湯宿</span></h1>
 
           <p className="text-sm md:text-base text-emerald-50 leading-relaxed font-medium pt-2">
             急カーブのいろは坂や山道運転に自信がなくても大丈夫！浅草から最新特急「スペーシアX」で東武日光駅へダイレクト。そこから頻発する東武バスに乗り換えれば、日光東照宮、華厳の滝、中禅寺湖のレトロ洋館、そして奥日光の名湯まで、公共交通機関だけで快適かつ優雅に巡ることができます。

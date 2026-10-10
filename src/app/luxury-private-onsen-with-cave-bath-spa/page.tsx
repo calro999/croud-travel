@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】神秘の地底空間へ。天然洞窟風呂＆鍾乳洞インフィニティ温泉の隠れ家宿5選 | 日本全国・旅宿クラウド',
+  title: '2026年：神秘の地底空間へ。天然洞窟風呂＆鍾乳洞インフィニティ温泉の隠れ家宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！大自然の岩肌に包まれる幻想的な「洞窟風呂」！薄明かりに照らされた神秘の湯船と源泉掛け流しの秘湯を堪能する大人の隠れ家名宿5選。',
   keywords: ["2026年", "神秘の地底空間へ。天然洞窟風呂", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: '【2026年】神秘の地底空間へ。天然洞窟風呂＆鍾乳洞インフィニティ温泉の隠れ家宿5選',
+    title: '2026年：神秘の地底空間へ。天然洞窟風呂＆鍾乳洞インフィニティ温泉の隠れ家宿5選',
     description: '2026年最新！大自然の岩肌に包まれる幻想的な「洞窟風呂」！薄明かりに照らされた神秘の湯船と源泉掛け流しの秘湯を堪能する大人の隠れ家名宿5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/luxury-private-onsen-with-cave-bath-spa',
@@ -193,9 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> 天然洞窟風呂×神秘の地底名湯
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】神秘の地底空間へ。天然洞窟風呂＆鍾乳洞インフィニティ温泉の隠れ家宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」神秘の地底空間へ。天然洞窟風呂＆鍾乳洞インフィニティ温泉の隠れ家宿5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             何千年もの歳月をかけて自然が創り出した岩肌の洞窟。薄暗い灯りに照らされた湯面と岩肌を伝う湯の音。まるで異世界に迷い込んだかのような神秘の空間で、純度の高い源泉掛け流し温泉に浸かる極上の非日常トリップ。
           </p>

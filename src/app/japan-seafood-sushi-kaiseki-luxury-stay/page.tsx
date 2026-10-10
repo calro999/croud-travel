@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-seafood-sushi-kaiseki-luxury-stay/" },
-  title: "【極上海鮮寿司＆舟盛り名宿】朝獲れ地魚・一本釣り鮮魚＆板前握り寿司 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "極上海鮮寿司＆舟盛り名宿：朝獲れ地魚・一本釣り鮮魚＆板前握り寿司 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "魚好きのための極上海鮮＆寿司温泉宿完全特化！漁港直送の豪華大漁舟盛り、カウンターで職人が一貫ずつ握る極上寿司会席、アワビ踊り焼き、伊勢海老お造り、金目鯛姿煮と海辺の名門温泉旅館を徹底解説。",
   keywords: ["極上海鮮寿司", "舟盛り名宿", "朝獲れ地魚", "一本釣り鮮魚", "板前握り寿司", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function GourmetCuisineHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             JAPAN SEAFOOD & SUSHI GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【極上海鮮寿司＆舟盛り名宿】朝獲れ地魚・一本釣り鮮魚＆板前握り寿司 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「極上海鮮寿司＆舟盛り名宿」朝獲れ地魚・一本釣り鮮魚＆板前握り寿司 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             目の前の海から揚がったばかりの命をいただく贅沢！全国屈指の漁港から毎朝届くピチピチの地魚、豪華絢爛な大漁舟盛り、カウンターで板前が握る出来立て寿司会席。波音を聞きながら海の幸を食べ尽くす至福の海辺ステイへ。
           </p>

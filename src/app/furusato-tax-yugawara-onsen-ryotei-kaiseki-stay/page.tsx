@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【湯河原温泉×ふるさと納税】文豪が愛した名湯＆極上料亭懐石！奥湯河原の隠れ宿特集｜海石榴・山翠楼・ふきや',
+  title: '湯河原温泉をふるさと納税でお得に旅する！文豪が愛した名湯＆極上料亭懐石！奥湯河原の隠れ宿特集｜海石榴・山翠楼・ふきや',
   description: '万葉集にも詠まれた古湯・神奈川県湯河原町「湯河原温泉（奥湯河原）」を楽天ふるさと納税でお得に極上ステイ！奥湯河原の清流に抱かれる名門料亭旅館「海石榴（つばき）」、展望露天風呂と自家製湯葉懐石の「山翠楼 SANSUIROU」、数寄屋建築と貸切露天風呂の「湯河原温泉 ふきや」を徹底比較。湯河原町トラベルクーポン活用術を網羅。',
   keywords: '湯河原温泉 ふるさと納税,海石榴 クーポン 湯河原,山翠楼 ふるさと納税,湯河原温泉 ふきや 宿泊,湯河原町 ふるさと納税 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-yugawara-onsen-ryotei-kaiseki-stay/",
   },
   openGraph: {
-    title: '【湯河原温泉×ふるさと納税】文豪が愛した名湯＆極上料亭懐石！奥湯河原の隠れ宿特集｜海石榴・山翠楼・ふきや',
+    title: '湯河原温泉をふるさと納税でお得に旅する！文豪が愛した名湯＆極上料亭懐石！奥湯河原の隠れ宿特集｜海石榴・山翠楼・ふきや',
     description: '万葉集にも詠まれた古湯・神奈川県湯河原町「湯河原温泉（奥湯河原）」を楽天ふるさと納税でお得に極上ステイ！奥湯河原の清流に抱かれる名門料亭旅館「海石榴（つばき）」、展望露天風呂と自家製湯葉懐石の「山翠楼 SANSUIROU」、数寄屋建築と貸切露天風呂の「湯河原温泉 ふきや」を徹底比較。湯河原町トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-yugawara-onsen-ryotei-kaiseki-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -24,7 +24,7 @@ export default function FurusatoArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【湯河原温泉×ふるさと納税】文豪が愛した名湯＆極上料亭懐石！奥湯河原の隠れ宿特集｜海石榴・山翠楼・ふきや',
+    headline: '湯河原温泉をふるさと納税でお得に旅する！文豪が愛した名湯＆極上料亭懐石！奥湯河原の隠れ宿特集｜海石榴・山翠楼・ふきや',
     description: '万葉集にも詠まれた古湯・神奈川県湯河原町「湯河原温泉（奥湯河原）」を楽天ふるさと納税でお得に極上ステイ！奥湯河原の清流に抱かれる名門料亭旅館「海石榴（つばき）」、展望露天風呂と自家製湯葉懐石の「山翠楼 SANSUIROU」、数寄屋建築と貸切露天風呂の「湯河原温泉 ふきや」を徹底比較。湯河原町トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function FurusatoArticlePage() {
           <span>♨️</span>
           <span>神奈川県湯河原町（奥湯河原） ふるさと納税・名湯宿特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【湯河原温泉×ふるさと納税】文豪が愛した名湯＆極上料亭懐石！奥湯河原の隠れ宿特集｜海石榴・山翠楼・ふきや
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">湯河原温泉をふるさと納税でお得に旅する！文豪が愛した名湯＆極上料亭懐石！奥湯河原の隠れ宿特集｜海石榴・山翠楼・ふきや</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed">
           万葉集にも詠まれた古湯・神奈川県湯河原町「湯河原温泉（奥湯河原）」を楽天ふるさと納税でお得に極上ステイ！奥湯河原の清流に抱かれる名門料亭旅館「海石榴（つばき）」、展望露天風呂と自家製湯葉懐石の「山翠楼 SANSUIROU」、数寄屋建築と貸切露天風呂の「湯河原温泉 ふきや」を徹底比較。湯河原町トラベルクーポン活用術を網羅。
         </p>

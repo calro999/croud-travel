@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            福島・裏磐梯五色沼の錦秋紅葉＆桧原湖！磐梯山ジオパーク美肌温泉と会津郷土美食
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">福島・裏磐梯五色沼の錦秋紅葉＆桧原湖！磐梯山ジオパーク美肌温泉と会津郷土美食</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の福島・裏磐梯＆会津特集！コバルトブルーやエメラルドグリーンに輝く五色沼湖沼群と燃えるような紅葉のコントラスト、桧原湖畔の絶景リゾート温泉、会津牛や新米会津コシヒカリ・わっぱ飯をふるさと納税トラベルクーポンでお得に楽しむ贅沢プラン。
           </p>

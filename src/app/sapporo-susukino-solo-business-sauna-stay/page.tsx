@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/sapporo-susukino-solo-business-sauna-stay/" },
-  title: '【札幌すすきの出張・サウナステイ】サウナ付大浴場・すすきの徒歩すぐ・朝食海鮮丼！北の歓楽街ビジネスを格上げする厳選3宿',
+  title: '札幌すすきの出張・サウナステイ：サウナ付大浴場・すすきの徒歩すぐ・朝食海鮮丼！北の歓楽街ビジネスを格上げする厳選3宿',
   description: '新千歳空港から快速エアポートで札幌へ！本格木造サウナと水風呂・豪華朝食バイキングが絶賛される「ベッセルホテルカンパーナすすきの」、ルーフトップサウナと洗練空間が話題の「ホテル・アンドルームス札幌すすきの」、すすきの駅直近で快適デスクと上質ステイを約束する「ダイワロイネットホテル札幌すすきの」を徹底比較。',
   keywords: '札幌 出張 ホテル,すすきの サウナ ホテル,ベッセルホテルカンパーナすすきの,ホテルアンドルームス札幌すすきの,ダイワロイネット札幌すすきの,札幌 一人旅 温泉',
   openGraph: {
-    title: '【札幌すすきの出張・サウナステイ】サウナ付大浴場・すすきの徒歩すぐ・朝食海鮮丼！北の歓楽街ビジネスを格上げする厳選3宿',
+    title: '札幌すすきの出張・サウナステイ：サウナ付大浴場・すすきの徒歩すぐ・朝食海鮮丼！北の歓楽街ビジネスを格上げする厳選3宿',
     description: '新千歳空港から快速エアポートで札幌へ！本格木造サウナと水風呂・豪華朝食バイキングが絶賛される「ベッセルホテルカンパーナすすきの」、ルーフトップサウナと洗練空間が話題の「ホテル・アンドルームス札幌すすきの」、すすきの駅直近で快適デスクと上質ステイを約束する「ダイワロイネットホテル札幌すすきの」を徹底比較。',
     url: 'https://croud-travel.pages.dev/sapporo-susukino-solo-business-sauna-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【札幌すすきの出張・サウナステイ】サウナ付大浴場・すすきの徒歩すぐ・朝食海鮮丼！北の歓楽街ビジネスを格上げする厳選3宿',
+    headline: '札幌すすきの出張・サウナステイ：サウナ付大浴場・すすきの徒歩すぐ・朝食海鮮丼！北の歓楽街ビジネスを格上げする厳選3宿',
     description: '新千歳空港から快速エアポートで札幌へ！本格木造サウナと水風呂・豪華朝食バイキングが絶賛される「ベッセルホテルカンパーナすすきの」、ルーフトップサウナと洗練空間が話題の「ホテル・アンドルームス札幌すすきの」、すすきの駅直近で快適デスクと上質ステイを約束する「ダイワロイネットホテル札幌すすきの」を徹底比較。',
     author: {
       '@type': 'Organization',
@@ -72,9 +72,7 @@ export default function ArticlePage() {
         <div className="inline-block bg-amber-700 text-white text-xs font-semibold px-3 py-1 rounded-full mb-3 tracking-wider">
           ひとり旅・出張・サウナ＆名湯特集
         </div>
-        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">
-          【札幌すすきの出張・サウナステイ】サウナ付大浴場・すすきの徒歩すぐ・朝食海鮮丼！北の歓楽街ビジネスを格上げする厳選3宿
-        </h1>
+        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">「札幌すすきの出張・サウナステイ」サウナ付大浴場・すすきの徒歩すぐ・朝食海鮮丼！北の歓楽街ビジネスを格上げする厳選3宿</h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.13 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>

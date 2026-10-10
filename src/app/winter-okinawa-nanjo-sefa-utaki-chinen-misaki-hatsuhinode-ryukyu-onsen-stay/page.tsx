@@ -3,13 +3,13 @@ import Link from 'next/link';
 import { Star, MapPin, Calendar, Compass, ShieldCheck, Heart, Sparkles, ExternalLink, ChevronRight } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【琉球最高の聖地・斎場御嶽新春祈願と知念岬初日の出】2026-2027年冬の沖縄・南城！美ら海絶景と琉球温泉・あぐー豚名宿5選',
+  title: '琉球最高の聖地・斎場御嶽新春祈願と知念岬初日の出：2026-2027年冬の沖縄・南城！美ら海絶景と琉球温泉・あぐー豚名宿5選',
   description: '琉球王国最高の聖地・世界遺産「斎場御嶽」の新春開運祈願と、神の島・久高島を仰ぐ知念岬の感動初日の出！冬でも平均気温18℃前後の心地よい南城市。太平洋を望む絶景天然温泉やあぐー豚しゃぶしゃぶ・近海魚料理に癒やされる冬の南沖縄厳選リゾート名宿5選。',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-okinawa-nanjo-sefa-utaki-chinen-misaki-hatsuhinode-ryukyu-onsen-stay/',
   },
   openGraph: {
-    title: '【琉球最高の聖地・斎場御嶽新春祈願と知念岬初日の出】2026-2027年冬の沖縄・南城！美ら海絶景と琉球温泉・あぐー豚名宿5選',
+    title: '琉球最高の聖地・斎場御嶽新春祈願と知念岬初日の出：2026-2027年冬の沖縄・南城！美ら海絶景と琉球温泉・あぐー豚名宿5選',
     description: '琉球王国最高の聖地・世界遺産「斎場御嶽」の新春開運祈願と、神の島・久高島を仰ぐ知念岬の感動初日の出！冬でも平均気温18℃前後の心地よい南城市。太平洋を望む絶景天然温泉やあぐー豚しゃぶしゃぶ・近海魚料理に癒やされる冬の南沖縄厳選リゾート名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-okinawa-nanjo-sefa-utaki-chinen-misaki-hatsuhinode-ryukyu-onsen-stay/',
     siteName: '冬の日本厳選旅行ガイド',
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: '【琉球最高の聖地・斎場御嶽新春祈願と知念岬初日の出】2026-2027年冬の沖縄・南城！美ら海絶景と琉球温泉・あぐー豚名宿5選',
+    title: '琉球最高の聖地・斎場御嶽新春祈願と知念岬初日の出：2026-2027年冬の沖縄・南城！美ら海絶景と琉球温泉・あぐー豚名宿5選',
     description: '琉球王国最高の聖地・世界遺産「斎場御嶽」の新春開運祈願と、神の島・久高島を仰ぐ知念岬の感動初日の出！冬でも平均気温18℃前後の心地よい南城市。太平洋を望む絶景天然温泉やあぐー豚しゃぶしゃぶ・近海魚料理に癒やされる冬の南沖縄厳選リゾート名宿5選。',
     images: ['https://img.travel.rakuten.co.jp/share/HOTEL/187553/187553.jpg'],
   },
@@ -201,9 +201,7 @@ export default function Page() {
               <span>冬の旅（11月〜1月）厳選特集</span>
             </div>
 
-            <h1 className="text-2xl sm:text-4xl font-extrabold leading-tight tracking-tight text-white drop-shadow-sm">
-              【琉球最高の聖地・斎場御嶽新春祈願と知念岬初日の出】2026-2027年冬の沖縄・南城！美ら海絶景と琉球温泉・あぐー豚名宿5選
-            </h1>
+            <h1 className="text-2xl sm:text-4xl font-extrabold leading-tight tracking-tight text-white drop-shadow-sm">「琉球最高の聖地・斎場御嶽新春祈願と知念岬初日の出」2026-2027年冬の沖縄・南城！美ら海絶景と琉球温泉・あぐー豚名宿5選</h1>
 
             <p className="text-sm sm:text-base text-cyan-100/90 leading-relaxed max-w-3xl pt-2">
               琉球王国最高の聖地・世界遺産「斎場御嶽」の新春開運祈願と、神の島・久高島を仰ぐ知念岬の感動初日の出！冬でも平均気温18℃前後の心地よい南城市。太平洋を望む絶景天然温泉やあぐー豚しゃぶしゃぶ・近海魚料理に癒やされる冬の南沖縄厳選リゾート名宿5選。

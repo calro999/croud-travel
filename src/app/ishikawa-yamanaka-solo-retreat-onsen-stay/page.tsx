@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/ishikawa-yamanaka-solo-retreat-onsen-stay/" },
-  title: '【山中温泉ひとり旅・鶴仙渓おこもり】芭蕉も称賛の名湯・あやとり橋・加賀会席！大聖寺川の渓谷美と山中漆器の街でととのう厳選3宿',
+  title: '山中温泉ひとり旅・鶴仙渓おこもり：芭蕉も称賛の名湯・あやとり橋・加賀会席！大聖寺川の渓谷美と山中漆器の街でととのう厳選3宿',
   description: '松尾芭蕉が日本三名湯と讃えた山中温泉！鶴仙渓沿いで露天風呂と加賀能登の美食会席が評判の最高峰「吉祥やまなか」、創業八百年の歴史と渓流野天風呂を誇る名門「白鷺湯たわらや」、大聖寺川のせせらぎに包まれる「河鹿荘」を楽天API最新データに基づき徹底比較。',
   keywords: '山中温泉 一人旅 宿,山中温泉 ホテル 一人,吉祥やまなか,白鷺湯たわらや,山中温泉河鹿荘,山中 鶴仙渓 ひとり旅',
   openGraph: {
-    title: '【山中温泉ひとり旅・鶴仙渓おこもり】芭蕉も称賛の名湯・あやとり橋・加賀会席！大聖寺川の渓谷美と山中漆器の街でととのう厳選3宿',
+    title: '山中温泉ひとり旅・鶴仙渓おこもり：芭蕉も称賛の名湯・あやとり橋・加賀会席！大聖寺川の渓谷美と山中漆器の街でととのう厳選3宿',
     description: '松尾芭蕉が日本三名湯と讃えた山中温泉！鶴仙渓沿いで露天風呂と加賀能登の美食会席が評判の最高峰「吉祥やまなか」、創業八百年の歴史と渓流野天風呂を誇る名門「白鷺湯たわらや」、大聖寺川のせせらぎに包まれる「河鹿荘」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/ishikawa-yamanaka-solo-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【山中温泉ひとり旅・鶴仙渓おこもり】芭蕉も称賛の名湯・あやとり橋・加賀会席！大聖寺川の渓谷美と山中漆器の街でととのう厳選3宿',
+    headline: '山中温泉ひとり旅・鶴仙渓おこもり：芭蕉も称賛の名湯・あやとり橋・加賀会席！大聖寺川の渓谷美と山中漆器の街でととのう厳選3宿',
     description: '松尾芭蕉が日本三名湯と讃えた山中温泉！鶴仙渓沿いで露天風呂と加賀能登の美食会席が評判の最高峰「吉祥やまなか」、創業八百年の歴史と渓流野天風呂を誇る名門「白鷺湯たわらや」、大聖寺川のせせらぎに包まれる「河鹿荘」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             石川・山中温泉ひとり旅＆鶴仙渓渓谷美おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【山中温泉ひとり旅・鶴仙渓おこもり】芭蕉も称賛の名湯・あやとり橋・加賀会席！大聖寺川の渓谷美と山中漆器の街でととのう厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「山中温泉ひとり旅・鶴仙渓おこもり」芭蕉も称賛の名湯・あやとり橋・加賀会席！大聖寺川の渓谷美と山中漆器の街でととのう厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

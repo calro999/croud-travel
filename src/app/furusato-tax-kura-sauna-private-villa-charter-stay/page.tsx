@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-kura-sauna-private-villa-charter-stay/" },
-  title: '蔵サウナ＆一棟貸しプライベートヴィラ×ふるさと納税完全ガイド【2026年最新】信濃町・八ヶ岳・丹波篠山の完全貸切ととのい旅',
+  title: '蔵サウナ＆一棟貸しプライベートヴィラ×ふるさと納税厳選ガイド信濃町・八ヶ岳・丹波篠山の完全貸切ととのい旅',
   description: '築100年の土蔵を改装した本格薪サウナや大自然の地下水水風呂！八ヶ岳、野尻湖畔、丹波篠山など一棟丸ごと貸切できるプライベートサウナヴィラを楽天ふるさと納税宿泊クーポンでお得に予約する究極のサウナリトリート。',
   keywords: ["蔵サウナ", "2026年最新", "信濃町", "八ヶ岳", "丹波篠山の完全貸切ととのい旅", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: '蔵サウナ＆一棟貸しプライベートヴィラ×ふるさと納税完全ガイド【2026年最新】信濃町・八ヶ岳・丹波篠山の完全貸切ととのい旅',
+    title: '蔵サウナ＆一棟貸しプライベートヴィラ×ふるさと納税厳選ガイド信濃町・八ヶ岳・丹波篠山の完全貸切ととのい旅',
     description: '築100年の土蔵を改装した本格薪サウナや大自然の地下水水風呂！八ヶ岳、野尻湖畔、丹波篠山など一棟丸ごと貸切できるプライベートサウナヴィラを楽天ふるさと納税宿泊クーポンでお得に予約する究極のサウナリトリート。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kura-sauna-private-villa-charter-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FurusatoTaxPage() {
           <span className="inline-block px-4 py-1.5 rounded-full text-xs md:text-sm font-black bg-gradient-to-r from-amber-500 to-yellow-400 text-slate-950 mb-5 shadow-lg shadow-amber-500/20">
             蔵サウナ・一棟貸しヴィラ特集
           </span>
-          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">
-            蔵サウナ＆一棟貸しヴィラ×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">蔵サウナ＆一棟貸しヴィラ×ふるさと納税ガイド</h1>
           <p className="text-sm md:text-lg text-slate-300 leading-relaxed font-medium">
             築100年の土蔵を改装した本格薪サウナや大自然の地下水水風呂！八ヶ岳、野尻湖畔、丹波篠山など一棟丸ごと貸切できるプライベートサウナヴィラを楽天ふるさと納税宿泊クーポンでお得に予約する究極のサウナリトリート。
           </p>

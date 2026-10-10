@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【甲府】御岳昇仙峡の渓谷紅葉と甲州新酒ワイン！3,000円台〜格安ホテル5選',
+  title: '甲府：御岳昇仙峡の渓谷紅葉と甲州新酒ワイン！3,000円台〜格安ホテル5選',
   description: '日本一の渓谷美「御岳昇仙峡」の覚円峰を彩る紅葉と仙娥滝！解禁を迎えるフルーティーな甲州新酒ワインと熱々の甲州ほうとう。甲府周辺で1泊3,000円台〜5,000円台の高評価ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetKofuHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>日本一の昇仙峡紅葉＆秋の甲州新酒ワイン</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【甲府】昇仙峡の渓谷紅葉＆甲州新酒ワイン！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「甲府」昇仙峡の渓谷紅葉＆甲州新酒ワイン！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-purple-100/90 max-w-2xl mx-auto leading-relaxed">
             花崗岩の奇岩がそびえる覚円峰と仙娥滝が紅葉に包まれる日本屈指の景勝地「御岳昇仙峡」。11月3日には待望の「山梨ヌーボー（甲州新酒ワイン）」が解禁！夜は甲府駅前でカボチャや旬野菜がたっぷり入った具だくさんの「甲州ほうとう」や鳥もつ煮！3,000円台〜の優良宿を厳選。
           </p>

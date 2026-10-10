@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月大阪】日本の滝百選「箕面大滝」の冬！名宿5選',
+  title: '11・12・1月大阪：日本の滝百選「箕面大滝」の冬！名宿5選',
   description: '冬の静寂に包まれる日本の滝百選「箕面大滝」と、境内一面に無数の勝ちダルマが並ぶ勝運の寺「勝尾寺」での新春初詣を巡る11〜1月の大阪・箕面＆北。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '勝尾寺 初詣, 箕面大滝 冬, 箕面温泉 ホテル, 能勢 ぼたん鍋 宿, 伏尾温泉 不死王閣, もみじの天ぷら 箕面, 勝ちダルマ 勝尾寺, 11月 12月 1月 大阪 旅行, 箕面観光ホテル',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-osaka-minoo-katsuo-ji-daruma-botannabe-stay/"
   },
   openGraph: {
-    title: '【11・12・1月大阪】日本の滝百選「箕面大滝」の冬！名宿5選',
+    title: '11・12・1月大阪：日本の滝百選「箕面大滝」の冬！名宿5選',
     description: '冬の静寂に包まれる日本の滝百選「箕面大滝」と、境内一面に無数の勝ちダルマが並ぶ勝運の寺「勝尾寺」での新春初詣を巡る11〜1月の大阪・箕面＆北。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-osaka-minoo-katsuo-ji-daruma-botannabe-stay',
     type: 'article',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月大阪】箕面＆能勢・池田！日本の滝百選「箕面大滝」の冬情趣と勝運の寺「勝尾寺」初詣・冬の極上味覚「能勢の天然猪鍋（ぼたん鍋）」＆箕面温泉名宿5選",
+    title: "11・12・1月大阪：箕面＆能勢・池田！日本の滝百選「箕面大滝」の冬情趣と勝運の寺「勝尾寺」初詣・冬の極上味覚「能勢の天然猪鍋（ぼたん鍋）」＆箕面温泉名宿5選",
     description: "冬の静寂に包まれる日本の滝百選「箕面大滝」と、境内一面に無数の勝ちダルマが並ぶ勝運の寺「勝尾寺」での新春初詣を巡る11〜1月の大阪・箕面＆北摂・能勢特集。箕面大滝への滝道散策で味わう名物「もみじの天ぷら」や、厳冬期限定の能勢の極上「天然猪鍋（ぼたん鍋）」・池田牛。そして大阪平野の夜景を一望する天空露天風呂や「関西の奥座敷」箕面温泉・伏尾温泉の極上美肌湯に癒やされる厳選宿5選を徹底特集します。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -284,11 +284,7 @@ export default function OsakaMinooWinterPage() {
               <Sparkles className="w-4 h-4 text-amber-300" />
               <span>11月・12月・1月冬の関西・北摂旅情特集</span>
             </div>
-            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 text-white drop-shadow-md">
-              大阪・箕面＆能勢・池田<br className="hidden sm:inline" />
-              日本の滝百選「箕面大滝」の冬情趣と勝運の寺「勝尾寺」初詣<br className="hidden sm:inline" />
-              冬の極上味覚「能勢の天然猪鍋（ぼたん鍋）」＆箕面温泉名宿5選
-            </h1>
+            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 text-white drop-shadow-md">大阪・箕面＆能勢・池田<br className="hidden sm:inline" /> 日本の滝百選「箕面大滝」の冬情趣と勝運の寺「勝尾寺」初詣<br className="hidden sm:inline" /> 冬の極上味覚「能勢の天然猪鍋（ぼたん鍋）」＆箕面温泉名宿5選</h1>
             <p className="max-w-3xl mx-auto text-sm md:text-lg text-rose-100 leading-relaxed drop-shadow">
               冬の静寂に水しぶきが輝く箕面大滝と、無数の勝ちダルマが並ぶ勝運祈願の聖地「勝尾寺」での新春初詣。名物もみじの天ぷらをつまみながら滝道を歩き、能勢の極上天然猪鍋や大阪平野の煌めく夜景を一望する美肌温泉で心身を温める冬の大阪旅をお届けします。
             </p>

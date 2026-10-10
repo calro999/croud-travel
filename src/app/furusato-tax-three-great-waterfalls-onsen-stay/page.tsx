@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '日本三名瀑＆ダイナミック滝見露天風呂宿×ふるさと納税完全ガイド【2026年最新】那智の滝・華厳の滝・袋田の滝の豪快名湯',
+  title: '日本三名瀑＆ダイナミック滝見露天風呂宿×ふるさと納税厳選ガイド那智の滝・華厳の滝・袋田の滝の豪快名湯',
   description: '日本屈指の落差と水量を誇る名瀑へ！世界遺産和歌山「那智の滝」と南紀勝浦温泉、栃木日光中禅寺湖「華厳の滝」と乳白色硫黄泉、茨城奥久慈「袋田の滝」の四段名瀑と美肌の湯。轟音とマイナスイオンに包まれる滝見露天風呂ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: ["日本三名瀑", "2026年最新", "那智の滝", "華厳の滝", "袋田の滝の豪快名湯", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-waterfalls-onsen-stay/"
   },
   openGraph: {
-    title: '日本三名瀑＆ダイナミック滝見露天風呂宿×ふるさと納税完全ガイド【2026年最新】那智の滝・華厳の滝・袋田の滝の豪快名湯',
+    title: '日本三名瀑＆ダイナミック滝見露天風呂宿×ふるさと納税厳選ガイド那智の滝・華厳の滝・袋田の滝の豪快名湯',
     description: '日本屈指の落差と水量を誇る名瀑へ！世界遺産和歌山「那智の滝」と南紀勝浦温泉、栃木日光中禅寺湖「華厳の滝」と乳白色硫黄泉、茨城奥久慈「袋田の滝」の四段名瀑と美肌の湯。轟音とマイナスイオンに包まれる滝見露天風呂ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-waterfalls-onsen-stay',
     type: 'article',
@@ -54,9 +54,7 @@ export default function FurusatoFeaturePage() {
             <span>✨</span>
             <span>日本三名瀑・滝見露天風呂特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            日本三名瀑＆ダイナミック滝見露天風呂宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">日本三名瀑＆ダイナミック滝見露天風呂宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             日本古来の自然崇拝の象徴であり、圧倒的な落差と荘厳さを誇る「日本三名瀑」――和歌山の那智の滝、栃木日光の華厳の滝、茨城の袋田の滝。天空から真っ直ぐに突き刺さる白糸のような直瀑、断崖を四段にわたって滑り落ちる氷瀑など、季節ごとに表情を変える名瀑の迫力は息をのむ美しさです。滝見の散策で心地よい疲労を覚えた後は、周辺の歴史ある名湯宿で湯船に浸かり、地域の滋味を味わう――そんな心洗われるリフレッシュ旅を楽天ふるさと納税でお得に実現しましょう。
           </p>

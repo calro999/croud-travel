@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/christmas-date-onsen-dinner-trip-guide/" },
-  title: "【クリスマスお泊まりデートおすすめ】イルミネーション×温泉×極上ディナーで過ごす冬の記念日旅 ｜ 日本全国・旅宿クラウド",
+  title: "クリスマスお泊まりデートおすすめ：イルミネーション×温泉×極上ディナーで過ごす冬の記念日旅 ｜ 日本全国・旅宿クラウド",
   description:
     "クリスマスに泊まりたい憧れのデートプラン！軽井沢の星空キャンドルナイト＆暖炉付きリゾート、みなとみらい夜景一望ホテル、雪見露天風呂とローストビーフ懐石を味わう温泉旅館徹底比較。",
   keywords: ["温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
@@ -136,12 +136,7 @@ export default function ChristmasDateOnsenDinnerTripGuidePage() {
             </span>
           </div>
 
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight text-white drop-shadow-sm font-journal-serif">
-            【クリスマスお泊まりデートおすすめ】<br />
-            <span className="bg-gradient-to-r from-amber-200 via-indigo-100 to-rose-200 bg-clip-text text-transparent">
-              イルミネーション×温泉×極上ディナーで過ごす冬の記念日旅
-            </span>
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight text-white drop-shadow-sm font-journal-serif">「クリスマスお泊まりデートおすすめ」<br /> <span className="bg-gradient-to-r from-amber-200 via-indigo-100 to-rose-200 bg-clip-text text-transparent"> イルミネーション×温泉×極上ディナーで過ごす冬の記念日旅 </span></h1>
 
           <p className="text-sm md:text-base text-indigo-100/90 leading-relaxed max-w-2xl font-medium">
             1年に一度のクリスマスだからこそ、いつもと違う特別な空間で二人きりの時間を。静かな森に佇む教会と暖炉フレンチが魅力の軽井沢、まばゆい観覧車と港のイルミネーションをテラスから見下ろす横浜みなとみらい。大人の恋人たちが本当に泊まってよかったと感動する厳選ホテルを特集します。

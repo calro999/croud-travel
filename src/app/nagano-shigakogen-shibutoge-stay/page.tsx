@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagano-shigakogen-shibutoge-stay/" },
-  title: "【長野・志賀高原＆渋峠】日本国道最高地点・雲海テラス＆パウダースノー極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "長野・志賀高原＆渋峠：日本国道最高地点・雲海テラス＆パウダースノー極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "長野・上信越高原国立公園エリア完全特化！日本国道最高地点（標高2,172m）の渋峠、SORA terraceの雲海、志賀高原18スキー場ビッグゲレンデ、熊の湯温泉の濃厚緑色硫黄泉と高原山岳リゾートを徹底解説。",
   keywords: ["長野", "志賀高原", "渋峠", "日本国道最高地点", "雲海テラス", "パウダースノー極上宿", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             SHIGA HIGHLAND NATURE GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【長野・志賀高原＆渋峠】日本国道最高地点・雲海テラス＆パウダースノー極上宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「長野・志賀高原＆渋峠」日本国道最高地点・雲海テラス＆パウダースノー極上宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             標高2,000mを超える天空のリゾート「志賀高原・渋峠」。雲海を見下ろす日本国道最高地点と、息をのむ大パノラマ。エメラルドグリーンに輝く熊の湯温泉と、世界最高峰のパウダースノーを誇る山岳ホテルステイ。
           </p>

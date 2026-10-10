@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/yamanashi-isawa-solo-retreat-wine-onsen-stay/" },
-  title: '【甲州・石和温泉ひとり旅・甲州ワインと名湯おこもり】広大な日本庭園露天風呂・甲州牛鉄板焼き・ワイナリー巡り！新宿特急90分の果樹郷厳選3宿',
+  title: '甲州・石和温泉ひとり旅・甲州ワインと名湯おこもり：広大な日本庭園露天風呂・甲州牛鉄板焼き・ワイナリー巡り！新宿特急90分の果樹郷厳選3宿',
   description: '山梨屈指の温泉湧出量を誇る石和温泉！大人の隠れ家として高い人気を誇る全館畳敷きの「糸柳こやど ゆわ」、全国屈指の銘石と池を配した5000坪の圧巻庭園を誇る「銘石の宿 かげつ」、素朴な木肌の温もりと家庭的なもてなしが心地よい「旅館喜仙」を楽天API最新データに基づき徹底比較。',
   keywords: '石和温泉 一人旅 宿,石和温泉 ホテル 一人,糸柳こやどゆわ,銘石の宿かげつ,旅館喜仙,石和温泉 ひとり旅 おこもり',
   openGraph: {
-    title: '【甲州・石和温泉ひとり旅・甲州ワインと名湯おこもり】広大な日本庭園露天風呂・甲州牛鉄板焼き・ワイナリー巡り！新宿特急90分の果樹郷厳選3宿',
+    title: '甲州・石和温泉ひとり旅・甲州ワインと名湯おこもり：広大な日本庭園露天風呂・甲州牛鉄板焼き・ワイナリー巡り！新宿特急90分の果樹郷厳選3宿',
     description: '山梨屈指の温泉湧出量を誇る石和温泉！大人の隠れ家として高い人気を誇る全館畳敷きの「糸柳こやど ゆわ」、全国屈指の銘石と池を配した5000坪の圧巻庭園を誇る「銘石の宿 かげつ」、素朴な木肌の温もりと家庭的なもてなしが心地よい「旅館喜仙」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/yamanashi-isawa-solo-retreat-wine-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【甲州・石和温泉ひとり旅・甲州ワインと名湯おこもり】広大な日本庭園露天風呂・甲州牛鉄板焼き・ワイナリー巡り！新宿特急90分の果樹郷厳選3宿',
+    headline: '甲州・石和温泉ひとり旅・甲州ワインと名湯おこもり：広大な日本庭園露天風呂・甲州牛鉄板焼き・ワイナリー巡り！新宿特急90分の果樹郷厳選3宿',
     description: '山梨屈指の温泉湧出量を誇る石和温泉！大人の隠れ家として高い人気を誇る全館畳敷きの「糸柳こやど ゆわ」、全国屈指の銘石と池を配した5000坪の圧巻庭園を誇る「銘石の宿 かげつ」、素朴な木肌の温もりと家庭的なもてなしが心地よい「旅館喜仙」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             山梨・石和温泉ひとり旅＆甲州ワインおこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【甲州・石和温泉ひとり旅・甲州ワインと名湯おこもり】広大な日本庭園露天風呂・甲州牛鉄板焼き・ワイナリー巡り！新宿特急90分の果樹郷厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「甲州・石和温泉ひとり旅・甲州ワインと名湯おこもり」広大な日本庭園露天風呂・甲州牛鉄板焼き・ワイナリー巡り！新宿特急90分の果樹郷厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

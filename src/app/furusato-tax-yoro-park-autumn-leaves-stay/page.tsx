@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            日本の滝100選「養老の滝」約3,000本のもみじ絵巻＆養老温泉・本場飛騨牛街道の極上肉会席
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">日本の滝100選「養老の滝」約3,000本のもみじ絵巻＆養老温泉・本場飛騨牛街道の極上肉会席</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             名瀑・養老の滝を赤く染め上げる圧巻のもみじのトンネル。名湯と肉の聖地・養老でとろける飛騨牛を堪能する秋。
           </p>

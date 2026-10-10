@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月大分・竹田長湯温泉】名物清流エノハ料理！名宿5選',
+  title: '大分・竹田長湯温泉で過ごす冬の旅（11・12月）！名物清流エノハ料理！名宿5選',
   description: '11月から12月にかけて、大分県竹田市の芹川沿いに広がる長湯温泉は、初雪を冠した雄大なくじゅう連山のパノラマと。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '長湯温泉 宿泊, 大丸旅館, 丸長旅館, かじか庵, 紅葉館, クアパーク長湯, 天然炭酸泉, ラムネ温泉館, エノハ料理, 豊後牛, 11月 12月 長湯温泉, くじゅう連山',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-oita-nagayu-onsen-carbonated-spring-kuju-snow-bungogyu-stay/"
   },
   openGraph: {
-    title: '【11・12月大分・竹田長湯温泉】名物清流エノハ料理！名宿5選',
+    title: '大分・竹田長湯温泉で過ごす冬の旅（11・12月）！名物清流エノハ料理！名宿5選',
     description: '11月から12月にかけて、大分県竹田市の芹川沿いに広がる長湯温泉は、初雪を冠した雄大なくじゅう連山のパノラマと。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-oita-nagayu-onsen-carbonated-spring-kuju-snow-bungogyu-stay',
     siteName: 'クラドトラベル',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月大分・竹田長湯温泉の世界屈指の天然炭酸泉とくじゅう初雪絶景】名物清流エノハ料理＆極上豊後牛会席を堪能する秘湯治名宿5選",
+    title: "大分・竹田長湯温泉の世界屈指の天然炭酸泉とくじゅう初雪絶景で過ごす冬の旅（11・12月）！名物清流エノハ料理＆極上豊後牛会席を堪能する秘湯治名宿5選",
     description: "11月から12月にかけて、大分県竹田市の芹川沿いに広がる長湯温泉は、初雪を冠した雄大なくじゅう連山のパノラマと、世界屈指の湧出量・高濃度を誇る「奇跡の天然炭酸泉」が旅人を魅了します。ぬるめの湯に浸かると全身が銀色の炭酸泡に包まれ、血行促進と芯からのポカポカ感が持続する日本有数の名湯。「飲んで効き 浴ちて効く」長湯の名湯巡りやラムネ温泉館を堪能した後は、芹川の清流が育んだ「清流の女王エノハ（ヤマメ）」の塩焼きや骨酒、極上のおおいた豊後牛会席に舌鼓。初冬の静寂と滋味あふれる名宿5選を徹底解説します。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -248,12 +248,7 @@ export default function WinterOitaNagayuPage() {
             11月・12月 奇跡の天然炭酸泉＆くじゅう初雪特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月大分・竹田長湯温泉】世界屈指の天然炭酸泉とくじゅう初雪絶景
-            <span className="block text-teal-300 text-lg sm:text-2xl mt-3 font-normal">
-              名物清流エノハ料理＆極上豊後牛会席を堪能する秘湯治名宿5選
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">大分・竹田長湯温泉で過ごす冬の旅（11・12月）！世界屈指の天然炭酸泉とくじゅう初雪絶景 <span className="block text-teal-300 text-lg sm:text-2xl mt-3 font-normal"> 名物清流エノハ料理＆極上豊後牛会席を堪能する秘湯治名宿5選 </span></h1>
 
           <p className="text-sm sm:text-base text-slate-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、大分県竹田市の芹川沿いに広がる長湯温泉は、初雪を冠した雄大なくじゅう連山のパノラマと、世界屈指の湧出量・高濃度を誇る「奇跡の天然炭酸泉」が旅人を魅了します。ぬるめの湯に浸かると全身が銀色の炭酸泡に包まれ、血行促進と芯からのポカポカ感が持続する日本有数の名湯。「飲んで効き 浴ちて効く」長湯の名湯巡りやラムネ温泉館を堪能した後は、芹川の清流が育んだ「清流の女王エノハ（ヤマメ）」の塩焼きや骨酒、極上のおおいた豊後牛会席に舌鼓。初冬の静寂と滋味あふれる名宿5選を徹底解説します。

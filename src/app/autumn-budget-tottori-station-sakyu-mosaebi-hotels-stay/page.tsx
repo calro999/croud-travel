@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【鳥取駅前】秋の鳥取和牛・モサエビ＆黄金の鳥取砂丘！3,000円台〜泊まれる格安ホテル5選',
+  title: '鳥取駅前：秋の鳥取和牛・モサエビ＆黄金の鳥取砂丘！3,000円台〜泊まれる格安ホテル5選',
   description: '地元でしか味わえない幻のモサエビや鳥取和牛、風紋が美しく輝く秋の鳥取砂丘！鳥取駅周辺で1泊3,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetTottoriStationHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>幻の海老モサエビ＆日本屈指の大砂丘絶景</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【鳥取駅前】幻のモサエビ＆黄金に輝く鳥取砂丘！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「鳥取駅前」幻のモサエビ＆黄金に輝く鳥取砂丘！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-yellow-100/90 max-w-2xl mx-auto leading-relaxed">
             鮮度落ちが早く県外にはほぼ出回らない幻の海老「モサエビ」の濃厚な甘みと、肉質日本一に輝いた鳥取和牛。秋の澄み渡る風が砂上に美しい「風紋」を描く鳥取砂丘の夕景！鳥取駅から路線バスで直行できる好立地に3,000円台〜泊まれる優良宿を厳選。
           </p>

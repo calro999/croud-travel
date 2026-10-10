@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '15万坪が錦に染まる御船山楽園の紅葉狩り＆開湯1300年武雄温泉！名湯宿×ふるさと納税完全ガイド【2026年最新秋旅】佐賀',
+  title: '15万坪が錦に染まる御船山楽園の紅葉狩り＆開湯1300年武雄温泉！名湯宿×ふるさと納税厳選ガイド佐賀',
   description: '11月上旬〜12月上旬に開催される日本最大級の紅葉ライトアップ「御船山楽園 紅葉まつり」！御船山の切り立った断崖と池に映る逆さ紅葉の絶景、開湯1300年のとろとろ美肌湯「御船山楽園ホテル」「大正浪漫の宿 京都屋」「懐石宿 扇屋」で最高峰佐賀牛や若楠ポークを堪能。楽天ふるさと納税で実質2,000円。',
   keywords: ["2026年最新秋旅", "佐賀", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-mifuneyamarakuen-takeo-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '15万坪が錦に染まる御船山楽園の紅葉狩り＆開湯1300年武雄温泉！名湯宿×ふるさと納税完全ガイド【2026年最新秋旅】佐賀',
+    title: '15万坪が錦に染まる御船山楽園の紅葉狩り＆開湯1300年武雄温泉！名湯宿×ふるさと納税厳選ガイド佐賀',
     description: '11月上旬〜12月上旬に開催される日本最大級の紅葉ライトアップ「御船山楽園 紅葉まつり」！御船山の切り立った断崖と池に映る逆さ紅葉の絶景、開湯1300年のとろとろ美肌湯「御船山楽園ホテル」「大正浪漫の宿 京都屋」「懐石宿 扇屋」で最高峰佐賀牛や若楠ポークを堪能。楽天ふるさと納税で実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-mifuneyamarakuen-takeo-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FeatureArticlePage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               佐賀・武雄温泉＆御船山楽園紅葉特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              15万坪が錦に染まる御船山楽園の紅葉狩り＆開湯1300年武雄温泉！名湯宿×ふるさと納税完全ガイド【2026年最新秋旅】佐賀
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">15万坪が錦に染まる御船山楽園の紅葉狩り＆開湯1300年武雄温泉！名湯宿×ふるさと納税厳選ガイド佐賀</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               11月上旬〜12月上旬に開催される日本最大級の紅葉ライトアップ「御船山楽園 紅葉まつり」！御船山の切り立った断崖と池に映る逆さ紅葉の絶景、開湯1300年のとろとろ美肌湯「御船山楽園ホテル」「大正浪漫の宿 京都屋」「懐石宿 扇屋」で最高峰佐賀牛や若楠ポークを堪能。楽天ふるさと納税で実質2,000円。
             </p>

@@ -180,9 +180,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            全国の銘酒・純米大吟醸を利き酒！地酒BAR＆日本酒ペアリングが自慢の温泉旅館
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">全国の銘酒・純米大吟醸を利き酒！地酒BAR＆日本酒ペアリングが自慢の温泉旅館</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             湯上がりにラウンジへ向かえば、ずらりと並ぶ地元の厳選日本酒サーバー。純米酒から香り高い純米大吟醸、季節限定の搾りたて生原酒までを心ゆくまで利き酒。夕食では料理長がひと皿ごとに選び抜いた銘酒とのマリアージュに酔いしれる、大人のための美酒ステイへご案内します。
           </p>

@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月愛知・三河湾蒲郡温泉郷】極上三河牛と冬イルミを愉しむ！名宿5選',
+  title: '愛知・三河湾蒲郡温泉郷で過ごす冬の旅（11・12月）！極上三河牛と冬イルミを愉しむ！名宿5選',
   description: '11月から12月にかけて、愛知県・三河湾の風光明媚な海岸線に広がる蒲郡温泉郷（蒲郡・三谷・西浦温泉）は、冬の澄み渡る青空と穏やかな海。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '蒲郡温泉 宿泊, 蒲郡クラシックホテル, ホテル明山荘, 銀波荘, 平野屋, 和のリゾートはづ, メヒカリ, アカザエビ, 三河牛, 竹島, ラグーナテンボス, 11月 12月 蒲郡',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-aichi-gamagori-onsen-mikawawan-mehikari-akazaebi-stay/"
   },
   openGraph: {
-    title: '【11・12月愛知・三河湾蒲郡温泉郷】極上三河牛と冬イルミを愉しむ！名宿5選',
+    title: '愛知・三河湾蒲郡温泉郷で過ごす冬の旅（11・12月）！極上三河牛と冬イルミを愉しむ！名宿5選',
     description: '11月から12月にかけて、愛知県・三河湾の風光明媚な海岸線に広がる蒲郡温泉郷（蒲郡・三谷・西浦温泉）は、冬の澄み渡る青空と穏やかな海。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-aichi-gamagori-onsen-mikawawan-mehikari-akazaebi-stay',
     siteName: 'クラドトラベル',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月愛知・三河湾蒲郡温泉郷の竹島夕日パノラマと冬の深海魚】名物メヒカリ＆幻のアカザエビ・極上三河牛と冬イルミを愉しむ海辺名宿5選",
+    title: "愛知・三河湾蒲郡温泉郷の竹島夕日パノラマと冬の深海魚で過ごす冬の旅（11・12月）！名物メヒカリ＆幻のアカザエビ・極上三河牛と冬イルミを愉しむ海辺名宿5選",
     description: "11月から12月にかけて、愛知県・三河湾の風光明媚な海岸線に広がる蒲郡温泉郷（蒲郡・三谷・西浦温泉）は、冬の澄み渡る青空と穏やかな海、国指定天然記念物「竹島」を染める真紅のサンセットが最も美しい季節を迎えます。全国屈指の深海魚水揚げを誇る蒲郡漁港で冬に最盛期を迎える名物「メヒカリ（目光）」のサクサク唐揚げや、水深200m超の深海から水揚げされる幻の美味「アカザエビ（深海手長エビ）」の刺身、とろける霜降りのブランド黒毛和牛「三河牛」、冬のラグーナテンボス・イルミネーション。三河湾を一望する絶景オーシャンビュー露天風呂とともに、温暖な冬旅を約束する厳選名宿5選を徹底解説します。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -248,12 +248,7 @@ export default function WinterAichiGamagoriPage() {
             11月・12月 温暖な三河湾パノラマ＆深海魚グルメ特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月愛知・三河湾蒲郡温泉郷】竹島夕日パノラマと冬の深海魚
-            <span className="block text-sky-300 text-lg sm:text-2xl mt-3 font-normal">
-              名物メヒカリ＆幻のアカザエビ・極上三河牛と冬イルミを愉しむ海辺名宿5選
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">愛知・三河湾蒲郡温泉郷で過ごす冬の旅（11・12月）！竹島夕日パノラマと冬の深海魚 <span className="block text-sky-300 text-lg sm:text-2xl mt-3 font-normal"> 名物メヒカリ＆幻のアカザエビ・極上三河牛と冬イルミを愉しむ海辺名宿5選 </span></h1>
 
           <p className="text-sm sm:text-base text-slate-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、愛知県・三河湾の風光明媚な海岸線に広がる蒲郡温泉郷（蒲郡・三谷・西浦温泉）は、冬の澄み渡る青空と穏やかな海、国指定天然記念物「竹島」を染める真紅のサンセットが最も美しい季節を迎えます。全国屈指の深海魚水揚げを誇る蒲郡漁港で冬に最盛期を迎える名物「メヒカリ（目光）」のサクサク唐揚げや、水深200m超の深海から水揚げされる幻の美味「アカザエビ（深海手長エビ）」の刺身、とろける霜降りのブランド黒毛和牛「三河牛」、冬のラグーナテンボス・イルミネーション。三河湾を一望する絶景オーシャンビュー露天風呂とともに、温暖な冬旅を約束する厳選名宿5選を徹底解説します。

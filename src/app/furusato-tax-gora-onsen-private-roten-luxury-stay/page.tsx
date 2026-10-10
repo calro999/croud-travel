@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【箱根・強羅温泉×ふるさと納税】全室客室露天風呂付き極上宿特集！記念日・ご褒美おこもり温泉旅館ガイド｜佳ら久・白檀・雪月花',
+  title: '箱根・強羅温泉をふるさと納税でお得に旅する！全室客室露天風呂付き極上宿特集！記念日・ご褒美おこもり温泉旅館ガイド｜佳ら久・白檀・雪月花',
   description: '都心から好アクセスの箱根屈指の高級リゾート地・強羅温泉を楽天ふるさと納税でお得に贅沢ステイ！全室客室温泉露天風呂完備の「箱根・強羅 佳ら久」、三千七百坪の森林と自家源泉掛け流しを誇る「箱根強羅 白檀」、全室檜露天風呂と駅前好立地の「季の湯 雪月花」を徹底解説。箱根町トラベルクーポンの賢い活用法を完全網羅。',
   keywords: '強羅温泉 ふるさと納税,箱根 客室露天風呂 ふるさと納税,強羅 佳ら久 ふるさと納税,箱根強羅 白檀 クーポン,雪月花 ふるさと納税 箱根町',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-gora-onsen-private-roten-luxury-stay/",
   },
   openGraph: {
-    title: '【箱根・強羅温泉×ふるさと納税】全室客室露天風呂付き極上宿特集！記念日・ご褒美おこもり温泉旅館ガイド｜佳ら久・白檀・雪月花',
+    title: '箱根・強羅温泉をふるさと納税でお得に旅する！全室客室露天風呂付き極上宿特集！記念日・ご褒美おこもり温泉旅館ガイド｜佳ら久・白檀・雪月花',
     description: '都心から好アクセスの箱根屈指の高級リゾート地・強羅温泉を楽天ふるさと納税でお得に贅沢ステイ！全室客室温泉露天風呂完備の「箱根・強羅 佳ら久」、三千七百坪の森林と自家源泉掛け流しを誇る「箱根強羅 白檀」、全室檜露天風呂と駅前好立地の「季の湯 雪月花」を徹底解説。箱根町トラベルクーポンの賢い活用法を完全網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-gora-onsen-private-roten-luxury-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -24,7 +24,7 @@ export default function FurusatoArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【箱根・強羅温泉×ふるさと納税】全室客室露天風呂付き極上宿特集！記念日・ご褒美おこもり温泉旅館ガイド｜佳ら久・白檀・雪月花',
+    headline: '箱根・強羅温泉をふるさと納税でお得に旅する！全室客室露天風呂付き極上宿特集！記念日・ご褒美おこもり温泉旅館ガイド｜佳ら久・白檀・雪月花',
     description: '都心から好アクセスの箱根屈指の高級リゾート地・強羅温泉を楽天ふるさと納税でお得に贅沢ステイ！全室客室温泉露天風呂完備の「箱根・強羅 佳ら久」、三千七百坪の森林と自家源泉掛け流しを誇る「箱根強羅 白檀」、全室檜露天風呂と駅前好立地の「季の湯 雪月花」を徹底解説。箱根町トラベルクーポンの賢い活用法を完全網羅。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function FurusatoArticlePage() {
           <span>♨️</span>
           <span>神奈川県箱根町 ふるさと納税・名湯宿特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【箱根・強羅温泉×ふるさと納税】全室客室露天風呂付き極上宿特集！記念日・ご褒美おこもり温泉旅館ガイド｜佳ら久・白檀・雪月花
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">箱根・強羅温泉をふるさと納税でお得に旅する！全室客室露天風呂付き極上宿特集！記念日・ご褒美おこもり温泉旅館ガイド｜佳ら久・白檀・雪月花</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed">
           都心から好アクセスの箱根屈指の高級リゾート地・強羅温泉を楽天ふるさと納税でお得に贅沢ステイ！全室客室温泉露天風呂完備の「箱根・強羅 佳ら久」、三千七百坪の森林と自家源泉掛け流しを誇る「箱根強羅 白檀」、全室檜露天風呂と駅前好立地の「季の湯 雪月花」を徹底解説。箱根町トラベルクーポンの賢い活用法を完全網羅。
         </p>

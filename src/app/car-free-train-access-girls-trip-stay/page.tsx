@@ -180,9 +180,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            新幹線・特急駅から徒歩ですぐ！車なし・電車アクセス抜群の駅近名湯＆女子旅ホテル
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">新幹線・特急駅から徒歩ですぐ！車なし・電車アクセス抜群の駅近名湯＆女子旅ホテル</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             運転免許がない方や、慣れない土地での雪道・長距離運転を避けたい方に最適な「駅チカ名宿」。新幹線や特急を降りてチェックインしたら、すぐに荷物を預けて身軽に城下町散策やご当地カフェめぐりへ。夜は天然温泉とおしゃれなラウンジで寛ぐ、スマートな電車旅をお届けします。
           </p>

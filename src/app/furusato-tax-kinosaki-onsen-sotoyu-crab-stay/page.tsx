@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【城崎温泉×ふるさと納税】七つの外湯めぐり＆絶品松葉ガニ！老舗名旅館ガイド｜西村屋本館・招月庭・三木屋',
+  title: '城崎温泉をふるさと納税でお得に旅する！七つの外湯めぐり＆絶品松葉ガニ！老舗名旅館ガイド｜西村屋本館・招月庭・三木屋',
   description: '開湯千三百年・柳並木と太鼓橋が美しい兵庫県城崎温泉を楽天ふるさと納税でお得に贅沢旅！創業百六十年の最高峰「西村屋本館」、広大な森林庭園露天風呂を誇る「西村屋ホテル招月庭」、志賀直哉ゆかりの国登録有形文化財「三木屋」を徹底比較。松葉ガニや但馬牛会席、豊岡市トラベルクーポン活用術を網羅。',
   keywords: '城崎温泉 ふるさと納税,城崎温泉 外湯めぐり ふるさと納税,西村屋本館 クーポン,三木屋 城崎 ふるさと納税,豊岡市 ふるさと納税 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kinosaki-onsen-sotoyu-crab-stay/",
   },
   openGraph: {
-    title: '【城崎温泉×ふるさと納税】七つの外湯めぐり＆絶品松葉ガニ！老舗名旅館ガイド｜西村屋本館・招月庭・三木屋',
+    title: '城崎温泉をふるさと納税でお得に旅する！七つの外湯めぐり＆絶品松葉ガニ！老舗名旅館ガイド｜西村屋本館・招月庭・三木屋',
     description: '開湯千三百年・柳並木と太鼓橋が美しい兵庫県城崎温泉を楽天ふるさと納税でお得に贅沢旅！創業百六十年の最高峰「西村屋本館」、広大な森林庭園露天風呂を誇る「西村屋ホテル招月庭」、志賀直哉ゆかりの国登録有形文化財「三木屋」を徹底比較。松葉ガニや但馬牛会席、豊岡市トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kinosaki-onsen-sotoyu-crab-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -24,7 +24,7 @@ export default function FurusatoArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【城崎温泉×ふるさと納税】七つの外湯めぐり＆絶品松葉ガニ！老舗名旅館ガイド｜西村屋本館・招月庭・三木屋',
+    headline: '城崎温泉をふるさと納税でお得に旅する！七つの外湯めぐり＆絶品松葉ガニ！老舗名旅館ガイド｜西村屋本館・招月庭・三木屋',
     description: '開湯千三百年・柳並木と太鼓橋が美しい兵庫県城崎温泉を楽天ふるさと納税でお得に贅沢旅！創業百六十年の最高峰「西村屋本館」、広大な森林庭園露天風呂を誇る「西村屋ホテル招月庭」、志賀直哉ゆかりの国登録有形文化財「三木屋」を徹底比較。松葉ガニや但馬牛会席、豊岡市トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function FurusatoArticlePage() {
           <span>♨️</span>
           <span>兵庫県豊岡市 ふるさと納税・名湯宿特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【城崎温泉×ふるさと納税】七つの外湯めぐり＆絶品松葉ガニ！老舗名旅館ガイド｜西村屋本館・招月庭・三木屋
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">城崎温泉をふるさと納税でお得に旅する！七つの外湯めぐり＆絶品松葉ガニ！老舗名旅館ガイド｜西村屋本館・招月庭・三木屋</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed">
           開湯千三百年・柳並木と太鼓橋が美しい兵庫県城崎温泉を楽天ふるさと納税でお得に贅沢旅！創業百六十年の最高峰「西村屋本館」、広大な森林庭園露天風呂を誇る「西村屋ホテル招月庭」、志賀直哉ゆかりの国登録有形文化財「三木屋」を徹底比較。松葉ガニや但馬牛会席、豊岡市トラベルクーポン活用術を網羅。
         </p>

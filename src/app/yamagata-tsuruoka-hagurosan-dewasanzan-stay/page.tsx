@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/yamagata-tsuruoka-hagurosan-dewasanzan-stay/" },
-  title: "【山形・鶴岡＆羽黒山・出羽三山】国宝羽黒山五重塔・杉並木＆精進料理・庄内浜宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "山形・鶴岡＆羽黒山・出羽三山：国宝羽黒山五重塔・杉並木＆精進料理・庄内浜宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "生まれ変わりの旅・出羽三山（羽黒山・月山・湯殿山）＆鶴岡エリア完全特化！国宝「羽黒山五重塔」、樹齢1000年爺杉と2446段石段杉並木、羽黒修験の伝統「精進料理」、湯野浜温泉、名物「庄内浜海の幸宿」を徹底解説。",
   keywords: ["山形", "鶴岡", "羽黒山", "出羽三山", "国宝羽黒山五重塔", "杉並木", "精進料理"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             DEWA SANZAN & HAGURO GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【山形・鶴岡＆羽黒山・出羽三山】国宝羽黒山五重塔・杉並木＆精進料理・庄内浜宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「山形・鶴岡＆羽黒山・出羽三山」国宝羽黒山五重塔・杉並木＆精進料理・庄内浜宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             現世の幸せを祈る「羽黒山」、過去を清める「月山」、未来の生まれ変わりを願う「湯殿山」の出羽三山。樹齢数百年の杉並木と国宝五重塔。修験僧が受け継いできた精進料理のごま豆腐や山菜。日本海の絶景夕陽を望む湯野浜温泉と庄内美食の旅。
           </p>

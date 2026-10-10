@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【鹿児島黒豚＆黒毛和牛】極上しゃぶしゃぶ会席と指宿砂むし温泉！霧島・指宿の美食名湯宿5選",
+  title: "鹿児島黒豚＆黒毛和牛：極上しゃぶしゃぶ会席と指宿砂むし温泉！霧島・指宿の美食名湯宿5選",
   description: "甘みと旨味が凝縮した「かごしま黒豚」の極上出汁しゃぶしゃぶと、とろける鹿児島黒毛和牛！世界唯一の「指宿天然砂むし温泉」や神話息づく霧島温泉で、南九州最高峰の肉美食と名湯に癒やされる旅。",
   keywords: "鹿児島 黒豚 温泉 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/traditional-kagoshima-kurobuta-shabu-shabu-stay/",
   },
   openGraph: {
-    title: "【鹿児島黒豚＆黒毛和牛】極上しゃぶしゃぶ会席と指宿砂むし温泉！霧島・指宿の美食名湯宿5選",
+    title: "鹿児島黒豚＆黒毛和牛：極上しゃぶしゃぶ会席と指宿砂むし温泉！霧島・指宿の美食名湯宿5選",
     description: "甘みと旨味が凝縮した「かごしま黒豚」の極上出汁しゃぶしゃぶと、とろける鹿児島黒毛和牛！世界唯一の「指宿天然砂むし温泉」や神話息づく霧島温泉で、南九州最高峰の肉美食と名湯に癒やされる旅。",
     url: 'https://croud-travel.pages.dev/traditional-kagoshima-kurobuta-shabu-shabu-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【鹿児島黒豚＆黒毛和牛】極上しゃぶしゃぶ会席と指宿砂むし温泉！霧島・指宿の美食名湯宿5選",
+    title: "鹿児島黒豚＆黒毛和牛：極上しゃぶしゃぶ会席と指宿砂むし温泉！霧島・指宿の美食名湯宿5選",
     description: "甘みと旨味が凝縮した「かごしま黒豚」の極上出汁しゃぶしゃぶと、とろける鹿児島黒毛和牛！世界唯一の「指宿天然砂むし温泉」や神話息づく霧島温泉で、南九州最高峰の肉美食と名湯に癒やされる旅。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>黒豚しゃぶしゃぶ＆指宿名湯</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【鹿児島黒豚＆黒毛和牛】極上しゃぶしゃぶ会席と指宿砂むし温泉！霧島・指宿の美食名湯宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「鹿児島黒豚＆黒毛和牛」極上しゃぶしゃぶ会席と指宿砂むし温泉！霧島・指宿の美食名湯宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             甘みと旨味が凝縮した「かごしま黒豚」の極上出汁しゃぶしゃぶと、とろける鹿児島黒毛和牛！世界唯一の「指宿天然砂むし温泉」や神話息づく霧島温泉で、南九州最高峰の肉美食と名湯に癒やされる旅。
           </p>

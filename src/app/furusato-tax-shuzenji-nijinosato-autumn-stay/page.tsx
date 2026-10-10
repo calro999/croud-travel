@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            伊豆の小京都・修善寺温泉の竹林もみじライトアップ＆虹の郷紅葉まつり・伊豆天城軍鶏会席
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">伊豆の小京都・修善寺温泉の竹林もみじライトアップ＆虹の郷紅葉まつり・伊豆天城軍鶏会席</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             朱塗りの橋と竹林を彩る紅葉のグラデーション。桂川のせせらぎ響く温泉街で伊豆の旬味に舌鼓。
           </p>

@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '客室から名園を愛でる贅沢！日本庭園ビュー＆伝統数寄屋造り名門温泉旅館×ふるさと納税完全ガイド【2026年最新】島根玉造・佐賀武雄・石川加賀',
+  title: '客室から名園を愛でる贅沢！日本庭園ビュー＆伝統数寄屋造り名門温泉旅館×ふるさと納税厳選ガイド島根玉造・佐賀武雄・石川加賀',
   description: '苔むした庭石、錦鯉が泳ぐ池、四季折々に色づく名木。日本の美意識の結晶である名庭園を望む名旅館を厳選！足立美術館にも通じる端正な名庭園と美肌温泉「玉造温泉 佳翠苑 皆美」、国登録記念物・御船山楽園五十万平米の庭園とチームラボの常設アートが融合する「武雄温泉 御船山楽園ホテル」、加賀百万石の伝統庭園と三つの大浴場十八湯めぐり「山代温泉 ゆのくに天祥」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
   keywords: ["2026年最新", "島根玉造", "佐賀武雄", "石川加賀", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: { canonical: baseUrl + '/furusato-tax-japanese-garden-view-luxury-ryokan-stay/' },
   openGraph: {
-    title: '客室から名園を愛でる贅沢！日本庭園ビュー＆伝統数寄屋造り名門温泉旅館×ふるさと納税完全ガイド【2026年最新】島根玉造・佐賀武雄・石川加賀',
+    title: '客室から名園を愛でる贅沢！日本庭園ビュー＆伝統数寄屋造り名門温泉旅館×ふるさと納税厳選ガイド島根玉造・佐賀武雄・石川加賀',
     description: '苔むした庭石、錦鯉が泳ぐ池、四季折々に色づく名木。日本の美意識の結晶である名庭園を望む名旅館を厳選！足立美術館にも通じる端正な名庭園と美肌温泉「玉造温泉 佳翠苑 皆美」、国登録記念物・御船山楽園五十万平米の庭園とチームラボの常設アートが融合する「武雄温泉 御船山楽園ホテル」、加賀百万石の伝統庭園と三つの大浴場十八湯めぐり「山代温泉 ゆのくに天祥」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
     url: baseUrl + '/furusato-tax-japanese-garden-view-luxury-ryokan-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoJapaneseGardenViewStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             名園を愛でる日本庭園ビュー名門温泉宿特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            客室から名園を愛でる贅沢！日本庭園ビュー＆伝統数寄屋造り名門温泉旅館×ふるさと納税完全ガイド【2026年最新】島根玉造・佐賀武雄・石川加賀
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">客室から名園を愛でる贅沢！日本庭園ビュー＆伝統数寄屋造り名門温泉旅館×ふるさと納税厳選ガイド島根玉造・佐賀武雄・石川加賀</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             手入れの行き届いた青々とした苔、優雅に水面を揺らす錦鯉、春の桜、初夏の新緑、秋の紅葉、そして冬の雪吊り――日本の美意識と四季の移ろいが凝縮された「日本庭園」。客室の広縁に腰掛け、温かいお茶を片手に窓枠を一輪の額縁に見立てて名園を眺める時間は、慌ただしい現代社会を生きる私たちにとって、心の平穏を取り戻す最高の贅沢です。アメリカの庭園専門誌で長年日本一に輝く足立美術館の庭園美にも通じる、出雲の伝統と格式を誇る「玉造温泉 佳翠苑 皆美」、佐賀・武雄のシンボル御船山の断崖を借景に広がる五十万平米もの壮大な国登録記念物庭園と、アート集団チームラボによる幻想的な森の展示が世界中から称賛される「武雄温泉 御船山楽園ホテル」、そして加賀百万石の雅な文化を継承し、緑豊かな庭園と自家源泉の多彩な湯処を誇る石川県「山代温泉 ゆのくに天祥」。庭園美と伝統の数寄屋建築、美肌の名湯が一体となった至高の名旅館を、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を使って実質自己負担2,000円で賢く予約し、日本の粋と静寂を愛でる旅へ出かけましょう。
           </p>

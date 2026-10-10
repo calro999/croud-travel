@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hakone-couple-1night2days-anniversary-guide/" },
-  title: "【箱根カップル温泉旅行 1泊2日モデルコース】客室露天風呂・フレンチ懐石ディナー＆記念日サプライズ宿",
+  title: "箱根カップル温泉旅行 1泊2日モデルコース：客室露天風呂・フレンチ懐石ディナー＆記念日サプライズ宿",
   description: "カップルで過ごす特別な箱根1泊2日旅行！客室専用露天風呂付きのおこもり宿、サプライズケーキや花束手配可能な記念日プラン、大涌谷や彫刻の森美術館をゆったり巡る大人の贅沢デートコース。",
   keywords: ["箱根カップル温泉旅行", "1泊2日モデルコース", "客室露天風呂", "フレンチ懐石ディナー", "記念日サプライズ宿", "温泉宿", "宿泊予約"],
 };
@@ -161,11 +161,7 @@ export default function HakoneCoupleAnniversaryGuidePage() {
             <span>カップル・記念日・誕生日サプライズ特化ガイド</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight md:leading-[1.2] text-rose-50">
-            【箱根カップル温泉旅行 1泊2日】<br className="hidden sm:inline" />
-            客室露天風呂・フレンチ懐石ディナー＆<br className="hidden sm:inline" />
-            記念日サプライズ宿完全ガイド
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight md:leading-[1.2] text-rose-50">「箱根カップル温泉旅行 1泊2日」<br className="hidden sm:inline" /> 客室露天風呂・フレンチ懐石ディナー＆<br className="hidden sm:inline" /> 記念日サプライズ宿厳選ガイド</h1>
 
           <p className="text-sm md:text-base text-rose-100/90 max-w-2xl mx-auto leading-relaxed font-light">
             大切なパートナーの誕生日や交際・結婚記念日。「二人きりで静かに贅沢な時間を過ごしたい」を叶える、客室専用露天風呂付きおこもり宿と1泊2日の洗練デートコース。サプライズ手配のポイントまで徹底解説します。

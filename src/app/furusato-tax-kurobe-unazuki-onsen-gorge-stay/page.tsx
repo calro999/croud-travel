@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '黒部峡谷トロッコ列車とエメラルドの清流！宇奈月温泉の断崖絶景露天風呂＆富山湾キトキト海の幸名宿×ふるさと納税完全攻略ガイド【2026年最新】延対寺荘・やまのは・延楽',
+  title: '黒部峡谷トロッコ列車とエメラルドの清流！宇奈月温泉の断崖絶景露天風呂＆富山湾キトキト海の幸名宿×ふるさと納税極上旅ガイド延対寺荘・やまのは・延楽',
   description: '日本一のV字峡・黒部峡谷の玄関口！エメラルドグリーンの黒部川とトロッコ列車。「延対寺荘」「黒部・宇奈月温泉 やまのは」「宇奈月温泉 延楽」を、富山県黒部市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。渓谷露天風呂、展望棚湯、富山湾の白えび・紅ズワイガニ会席を満喫。',
   keywords: ["2026年最新", "延対寺荘", "やまのは", "延楽", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kurobe-unazuki-onsen-gorge-stay/",
   },
   openGraph: {
-    title: '黒部峡谷トロッコ列車とエメラルドの清流！宇奈月温泉の断崖絶景露天風呂＆富山湾キトキト海の幸名宿×ふるさと納税完全攻略ガイド【2026年最新】延対寺荘・やまのは・延楽',
+    title: '黒部峡谷トロッコ列車とエメラルドの清流！宇奈月温泉の断崖絶景露天風呂＆富山湾キトキト海の幸名宿×ふるさと納税極上旅ガイド延対寺荘・やまのは・延楽',
     description: '日本一のV字峡・黒部峡谷の玄関口！エメラルドグリーンの黒部川とトロッコ列車。「延対寺荘」「黒部・宇奈月温泉 やまのは」「宇奈月温泉 延楽」を、富山県黒部市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。渓谷露天風呂、展望棚湯、富山湾の白えび・紅ズワイガニ会席を満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kurobe-unazuki-onsen-gorge-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoKurobeUnazukiStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           日本一のV字峡と名湯の競演！富山県黒部市宇奈月温泉特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          黒部峡谷トロッコ列車とエメラルドの清流！宇奈月温泉の断崖絶景露天風呂＆富山湾キトキト海の幸名宿×ふるさと納税完全攻略ガイド【2026年最新】延対寺荘・やまのは・延楽
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">黒部峡谷トロッコ列車とエメラルドの清流！宇奈月温泉の断崖絶景露天風呂＆富山湾キトキト海の幸名宿×ふるさと納税極上旅ガイド延対寺荘・やまのは・延楽</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoKurobeUnazukiStayPage() {
               温泉街でも最も眺望の良い場所に立地し、源泉１００％の加温・加水無しの湯がお楽しみいただけます。
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “お部屋は綺麗で景観も最高、温泉も大満足お宿の外観は古そうに思いましたが、お部屋はリフォーム後だったのかとてもきれいで、峡谷側で景観もとてもよく大満足です。夕食は...カジュアルプランだったのも… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D4804%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoKurobeUnazukiStayPage() {
               おかげさまで連続受賞！「楽天トラベル 日本の宿アワード2025 TOP47。」♪
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “朝夕食のクオリティが他にはない高さ全体的に満足ですが、特に朝夕食のクオリティは他ではなかなか無いくらい高く感じました。 ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D9591%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoKurobeUnazukiStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               季節のお料理と樹齢四百年の総檜露天風呂。露天風呂付き客室でゆったり自分時間。
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “富山の食材を使った料理は絶品で大満足北海道から黒部ダムとおわら観光が目的で来た従兄夫婦、金沢に住む実母と一緒に5人で宿泊。富山の食材を使った料理はどれも美味しく、特にのどぐろ、白エビが絶品で従… ”
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

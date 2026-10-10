@@ -3,11 +3,11 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【秋の熱海温泉×格安】海上花火大会と相模湾絶景！1泊4,000円台〜のコスパ最強おすすめ温泉宿5選【2026最新】',
+  title: '秋の熱海温泉×格安：海上花火大会と相模湾絶景！1泊4,000円台〜のコスパ最強おすすめ温泉宿5選「2026最新」',
   description: '秋の澄んだ夜空を彩る「熱海海上花火大会」と熱海梅園の日本一遅い紅葉！東京から新幹線40分で気軽に行ける熱海温泉。オーシャンビュー展望風呂や源泉かけ流し温泉付きで1泊4,000円〜6,000円台で泊まれる格安名宿5選。ホテルリゾーピア、レクトーレ熱海小嵐を徹底比較！',
   keywords: '熱海温泉 格安 宿, 熱海 花火大会 宿泊 安い, 熱海 オーシャンビュー ホテル, 熱海梅園 紅葉, ホテルリゾーピア熱海, レクトーレ熱海小嵐',
   openGraph: {
-    title: '【秋の熱海温泉×格安】海上花火大会と相模湾絶景！1泊4,000円台〜のコスパ最強おすすめ温泉宿5選【2026最新】',
+    title: '秋の熱海温泉×格安：海上花火大会と相模湾絶景！1泊4,000円台〜のコスパ最強おすすめ温泉宿5選「2026最新」',
     description: '秋の熱海海上花火大会と相模湾絶景！1泊4,000円台〜泊まれる熱海温泉のコスパ最強おすすめ宿5選。',
     type: 'article',
     url: 'https://croud-travel.com/autumn-budget-shizuoka-atami-onsen-fireworks-hotels-stay',
@@ -32,9 +32,7 @@ export default function AtamiBudgetAutumnPage() {
             <span className="px-3 py-1 bg-teal-600 text-white text-xs font-bold rounded-full">格安・温泉特集</span>
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">1泊目安: 4,000円台〜6,000円台</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">
-            【秋の熱海温泉×格安】海上花火大会と相模湾絶景！1泊4,000円台〜のコスパ最強おすすめ温泉宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の熱海温泉×格安」海上花火大会と相模湾絶景！1泊4,000円台〜のコスパ最強おすすめ温泉宿5選</h1>
           <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
             三方を山に囲まれたすり鉢状の熱海湾に響き渡る大迫力の秋の海上花火大会。温暖な気候のなか、サンビーチ沿いの夜景散策と豊富な自家源泉を財布に優しい低料金で満喫できる穴場宿をご案内します。
           </p>

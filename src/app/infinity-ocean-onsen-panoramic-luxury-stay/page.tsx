@@ -180,9 +180,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            海と空に溶け込む究極の開放感！全国の絶景インフィニティ露天風呂名門宿
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">海と空に溶け込む究極の開放感！全国の絶景インフィニティ露天風呂名門宿</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             湯船の縁が見えず、まるでどこまでも広がる大海原にそのまま浮かんでいるかのような錯覚を覚えるインフィニティ露天風呂。朝日に輝く波光、夕暮れに茜色に染まる海空のマジックアワー、そして満月の夜に海面に現れる月光の道「月の階段」。圧巻の絶景と名湯が織りなす極上ステイを厳選しました。
           </p>

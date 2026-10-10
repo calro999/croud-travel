@@ -42,9 +42,7 @@ export default function Page() {
             <span className="inline-block w-2 h-2 rounded-full bg-rose-400 animate-pulse" />
             日本三大七夕まつり・夏の星空特集
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">
-            日本三大七夕まつり＆星空短冊散策宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三大七夕まつり＆星空短冊散策宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg md:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed font-normal">
             夏の夜空に揺れる色鮮やかな和紙の笹飾り！宮城「仙台七夕まつり」伊達政宗公の伝統と天然温泉スーパーホテル仙台駅東口、神奈川「湘南ひらつか七夕まつり」関東屈指の電飾竹飾りとホテルリブマックス平塚駅前、愛知「一宮七夕まつり」織物の神への感謝とアパホテル尾張一宮駅前。日本三大七夕まつりのロマンチックな夏旅を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。
           </p>

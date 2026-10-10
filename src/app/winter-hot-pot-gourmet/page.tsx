@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/winter-hot-pot-gourmet/" },
-  title: '【冬のご馳走】あったかご当地鍋＆極上温泉旅館 完全ガイド ｜ 日本全国・旅宿クラウド',
+  title: '冬のご馳走：あったかご当地鍋＆極上温泉旅館 厳選ガイド ｜ 日本全国・旅宿クラウド',
   description: '冬の寒さを吹き飛ばす至福の鍋料理！秋田の比内地鶏きりたんぽ鍋、博多の濃厚水炊き＆もつ鍋、茨城大洗の濃厚あんこう鍋、山口下関のとらふぐちり鍋など。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: ["冬のご馳走", "あったかご当地鍋", "極上温泉旅館", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -98,9 +98,7 @@ export default function SeasonalFeaturePage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             WINTER HOT POT
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【冬のご馳走】あったかご当地鍋＆極上温泉旅館 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「冬のご馳走」あったかご当地鍋＆極上温泉旅館 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             湯気が立ち上る土鍋を囲み、旬の地場食材と秘伝の出汁を味わう至福のひととき。熱々の鍋料理でお腹を満たし、体の芯から温まる温泉旅館で極上の冬籠りステイを。
           </p>

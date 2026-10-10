@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            青森・奥入瀬渓流＆十和田湖の黄金紅葉！十和田湖畔温泉と蔦温泉・青森倉石牛会席
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">青森・奥入瀬渓流＆十和田湖の黄金紅葉！十和田湖畔温泉と蔦温泉・青森倉石牛会席</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の青森・奥入瀬渓流＆十和田湖特集！千変万化の渓流美とブナ・カエデの黄金紅葉がトンネルを作る「奥入瀬渓流」、十和田湖遊覧船からのカルデラ大パノラマ、足元湧出の秘湯「蔦温泉」や十和田湖畔温泉、青森倉石牛や十和田バラ焼きをふるさと納税トラベルクーポンで満喫する東北随一の秋旅。
           </p>

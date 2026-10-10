@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月渋温泉】木造建築が彩る冬のノスタルジー！名宿5選',
+  title: '渋温泉で過ごす冬の旅（11・12月）！木造建築が彩る冬のノスタルジー！名宿5選',
   description: '開湯1300年、下駄の音がカランコロンと響く長野県・信州渋温泉。11月の晩秋の冷気から12月の雪舞う石畳の温泉街へ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '渋温泉 宿泊 11月 12月, 渋温泉 九湯めぐり, 歴史の宿 金具屋 予約, 渋温泉 外湯めぐり 鍵, 信州プレミアム牛 旅館, 地獄谷野猿公苑 スノーモンキー 渋温泉, 渋温泉 冬 雪景色',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagano-shibu-onsen-nine-sotoyu-stay/",
   },
   openGraph: {
-    title: '【11・12月渋温泉】木造建築が彩る冬のノスタルジー！名宿5選',
+    title: '渋温泉で過ごす冬の旅（11・12月）！木造建築が彩る冬のノスタルジー！名宿5選',
     description: '開湯1300年、下駄の音がカランコロンと響く長野県・信州渋温泉。11月の晩秋の冷気から12月の雪舞う石畳の温泉街へ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-nagano-shibu-onsen-nine-sotoyu-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月渋温泉の厄除巡浴九湯めぐりと石畳情緒】木造建築が彩る冬のノスタルジー・信州プレミアム牛と地酒の宿5選",
+    title: "渋温泉の厄除巡浴九湯めぐりと石畳情緒で過ごす冬の旅（11・12月）！木造建築が彩る冬のノスタルジー・信州プレミアム牛と地酒の宿5選",
     description: "開湯1300年、下駄の音がカランコロンと響く長野県・信州渋温泉。11月の晩秋の冷気から12月の雪舞う石畳の温泉街へ。宿泊者限定のマスターキーで巡る名物「厄除巡浴九湯めぐり」、登録有形文化財の木造建築・歴史の宿金具屋を照らす灯り、そして極上の信州プレミアム牛肉と地酒を味わう冬の風情あふれる名宿ガイド。",
   }
 };
@@ -266,10 +266,7 @@ export default function ShibuWinterPage() {
             <Footprints className="w-4 h-4 text-red-300" />
             <span>11月・12月限定 開湯1300年の石畳と外湯巡り・信州牛会席特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月渋温泉の厄除巡浴九湯めぐりと石畳情緒】<br className="hidden sm:inline" />
-            木造建築が彩る冬のノスタルジー・信州プレミアム牛と地酒の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">渋温泉の厄除巡浴九湯めぐりと石畳情緒で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 木造建築が彩る冬のノスタルジー・信州プレミアム牛と地酒の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             下駄の音が心地よく響く石畳の小路。宿泊者だけに許された外湯の鍵を手に巡る「九湯めぐり」で厄を祓い、湯上がりに灯る金具屋の木造楼閣に見惚れる。極上信州牛と手打ち蕎麦、地酒に酔いしれる心温まる冬の温泉旅。
           </p>

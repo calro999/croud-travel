@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-secret-hotspring-lamp-retreat-stay/" },
-  title: '【秘湯・ランプの宿×ふるさと納税】電波の届かぬ渓谷野天風呂で過ごすデジタルデトックス名湯旅 | クラウドトラベル',
+  title: '秘湯・ランプの宿をふるさと納税でお得に旅する！電波の届かぬ渓谷野天風呂で過ごすデジタルデトックス名湯旅 | クラウドトラベル',
   description: 'スマホを置いて、ランプの灯りとせせらぎに包まれる。群馬・法師温泉、徳島・祖谷温泉、青森・酸ヶ湯温泉の国登録有形文化財宿や秘境野天風呂を厳選。実質2,000円で叶える本物の秘湯デジタルデトックス旅。',
   openGraph: {
-    title: '【秘湯・ランプの宿×ふるさと納税】電波の届かぬ渓谷野天風呂で過ごすデジタルデトックス名湯旅 | クラウドトラベル',
+    title: '秘湯・ランプの宿をふるさと納税でお得に旅する！電波の届かぬ渓谷野天風呂で過ごすデジタルデトックス名湯旅 | クラウドトラベル',
     description: 'スマホを置いて、ランプの灯りとせせらぎに包まれる。群馬・法師温泉、徳島・祖谷温泉、青森・酸ヶ湯温泉の国登録有形文化財宿や秘境野天風呂を厳選。実質2,000円で叶える本物の秘湯デジタルデトックス旅。',
     type: 'article',
   },
@@ -59,9 +59,7 @@ export default function Page() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             ふるさと納税×秘境・ランプの秘湯宿
           </div>
-          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            【秘湯・ランプの宿×ふるさと納税】電波の届かぬ渓谷野天風呂で過ごすデジタルデトックス名湯旅
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">秘湯・ランプの宿をふるさと納税でお得に旅する！電波の届かぬ渓谷野天風呂で過ごすデジタルデトックス名湯旅</h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl mb-6">
             スマートフォンが絶え間なく通知を鳴らし、画面から目を離せない現代社会。情報過多に疲れた脳と身体を真に癒やしてくれるのは、電波の届かない山奥にぽつんと佇む「本物の秘湯宿」です。明治時代に建てられた総ヒバ造りの湯船の底から自然湧出する群馬・法師温泉、急峻な断崖絶壁をケーブルカーで下った谷底に湧く徳島・祖谷温泉、そして豪雪地帯の八甲田山中で湯治文化を守り続ける青森・酸ヶ湯温泉。夕暮れとともに灯されるランプのやわらかな炎を眺め、ブナの原生林を渡る風の音を聞きながら湯船に体を沈めれば、凝り固まった日常の緊張がすっと溶け出していくのを感じます。楽天ふるさと納税のトラベルクーポンを使えば、山奥の維持管理にコストがかかる秘湯宿に実質30％割引で宿泊可能。都会では決して味わえない、贅沢な静寂と素朴なおもてなしへご案内します。
           </p>

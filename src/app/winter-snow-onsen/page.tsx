@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/winter-snow-onsen/" },
-  title: '【冬の秘湯】白銀の雪見露天風呂＆絶景名湯旅館 完全ガイド ｜ 日本全国・旅宿クラウド',
+  title: '冬の秘湯：白銀の雪見露天風呂＆絶景名湯旅館 厳選ガイド ｜ 日本全国・旅宿クラウド',
   description: '静寂の雪景色と温かい名湯。山形・銀山温泉、群馬・草津温泉、北海道・登別定山渓、宮城山形・蔵王温泉など。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: ["冬の秘湯", "白銀の雪見露天風呂", "絶景名湯旅館", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -98,9 +98,7 @@ export default function SeasonalFeaturePage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             SNOW ONSON
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【冬の秘湯】白銀の雪見露天風呂＆絶景名湯旅館 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「冬の秘湯」白銀の雪見露天風呂＆絶景名湯旅館 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             しんしんと降り積もる雪の中、立ち上る湯けむりと温かい湯船。大正ロマンの木造旅館街から大自然の秘湯まで、冬だからこそ訪れたい日本の白銀絶景温泉宿をご紹介します。
           </p>

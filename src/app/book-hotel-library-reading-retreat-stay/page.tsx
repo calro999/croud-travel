@@ -180,9 +180,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            数万冊の本に囲まれて贅沢な夜更かし！全国の泊まれる図書館＆ブックホテル特集
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">数万冊の本に囲まれて贅沢な夜更かし！全国の泊まれる図書館＆ブックホテル特集</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             静まり返った夜、ふかふかのソファやベッドに深く腰掛け、普段はなかなか読めなかった長編小説や美しいアート写真集をめくる。温泉で温まった体に心地よい読書灯の光。時間を忘れて活字の世界に没入できる、知的好奇心を満たすおこもりステイへご案内します。
           </p>

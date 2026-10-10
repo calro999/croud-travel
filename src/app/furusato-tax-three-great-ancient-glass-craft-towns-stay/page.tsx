@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '日本三大ガラスの街＆煌めく切子・吹きガラス体験と海辺・湖畔の眺望宿×ふるさと納税完全ガイド【2026年最新】小樽・鹿児島・東京',
+  title: '日本三大ガラスの街＆煌めく切子・吹きガラス体験と海辺・湖畔の眺望宿×ふるさと納税厳選ガイド小樽・鹿児島・東京',
   description: '光を透過し万華鏡のように輝くガラスの芸術「日本三大ガラスの街」（北海道小樽・北一硝子と小樽運河、鹿児島・薩摩藩の誇り薩摩切子、東京・江戸町人の粋江戸切子）。ガス灯の揺れるレトロな港町散策、職人の吹きガラス体験、海と夜景を望む眺望名旅館。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ大人のクラフトアート宿泊ガイド。',
   keywords: ["日本三大ガラスの街", "煌めく切子", "吹きガラス体験と海辺", "湖畔の眺望宿×ふるさと納税", "2026年最新", "小樽", "鹿児島"],
   alternates: { canonical: baseUrl + '/furusato-tax-three-great-ancient-glass-craft-towns-stay/' },
   openGraph: {
-    title: '日本三大ガラスの街＆煌めく切子・吹きガラス体験と海辺・湖畔の眺望宿×ふるさと納税完全ガイド【2026年最新】小樽・鹿児島・東京',
+    title: '日本三大ガラスの街＆煌めく切子・吹きガラス体験と海辺・湖畔の眺望宿×ふるさと納税厳選ガイド小樽・鹿児島・東京',
     description: '光を透過し万華鏡のように輝くガラスの芸術「日本三大ガラスの街」（北海道小樽・北一硝子と小樽運河、鹿児島・薩摩藩の誇り薩摩切子、東京・江戸町人の粋江戸切子）。ガス灯の揺れるレトロな港町散策、職人の吹きガラス体験、海と夜景を望む眺望名旅館。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ大人のクラフトアート宿泊ガイド。',
     url: baseUrl + '/furusato-tax-three-great-ancient-glass-craft-towns-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoRound65ArticlePage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             日本三大ガラスの街・光の工芸と眺望ステイ特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            日本三大ガラスの街＆煌めく切子・吹きガラス体験と海辺・湖畔の眺望宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">日本三大ガラスの街＆煌めく切子・吹きガラス体験と海辺・湖畔の眺望宿</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             灼熱の窯の中でドロドロに溶けたガラスが、職人の竿から吹き込まれる息によって命を宿し、冷え固まった瞬間に永遠の透明度と輝きを放つガラス工芸。その歴史と技術の粋が集まる聖地が「日本三大ガラスの街」です。明治のニシン漁を支えた石油ランプや浮き玉から発展し、石造り倉庫に灯るガス灯とともにガラスの街として世界中から人々を惹きつける北海道・小樽。幕末の名君・島津斉彬が集成館事業として育成し、重厚な色被せ（いろきせ）と美しい「ぼかし」のカット技術で幻の名品と讃えられた鹿児島・薩摩切子。そして江戸末期に加賀屋久兵衛らが始め、繊細な魚子（ななこ）や麻の葉文様を彫り込んで庶民の粋を表現した東京・江戸切子。工房で職人たちの技に見惚れ、自らマイグラスを作る吹きガラス体験を楽しんだ後は、海や運河、大都会の煌めく夜景を一望する上質なホテルで美酒に酔いしれる時間。楽天ふるさと納税トラベルクーポンを活用して、光と色彩のイマジネーションが広がる極上のアートステイへ出かけましょう。
           </p>

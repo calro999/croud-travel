@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '長門湯本温泉の音信川紅葉ライトアップ＆元乃隅神社！大谷山荘・玉仙閣×ふるさと納税完全ガイド【2026年最新秋旅】山口',
+  title: '長門湯本温泉の音信川紅葉ライトアップ＆元乃隅神社！大谷山荘・玉仙閣×ふるさと納税厳選ガイド山口',
   description: '11月上旬〜11月下旬に美しく色づく山口県最古の温泉地「長門湯本温泉（ながとゆもとおんせん）」。音信川（おとずれがわ）沿いの竹林階段や飛び石の紅葉ライトアップ、元乃隅神社の絶景鳥居、名門旅館「大谷山荘」「玉仙閣」「山村別館」で本場下関のとらふぐや長州黒かしわを堪能。楽天ふるさと納税で実質2,000円。',
   keywords: ["元乃隅神社！大谷山荘", "玉仙閣×ふるさと納税", "2026年最新秋旅", "山口", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-nagato-yumoto-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '長門湯本温泉の音信川紅葉ライトアップ＆元乃隅神社！大谷山荘・玉仙閣×ふるさと納税完全ガイド【2026年最新秋旅】山口',
+    title: '長門湯本温泉の音信川紅葉ライトアップ＆元乃隅神社！大谷山荘・玉仙閣×ふるさと納税厳選ガイド山口',
     description: '11月上旬〜11月下旬に美しく色づく山口県最古の温泉地「長門湯本温泉（ながとゆもとおんせん）」。音信川（おとずれがわ）沿いの竹林階段や飛び石の紅葉ライトアップ、元乃隅神社の絶景鳥居、名門旅館「大谷山荘」「玉仙閣」「山村別館」で本場下関のとらふぐや長州黒かしわを堪能。楽天ふるさと納税で実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-nagato-yumoto-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FeatureArticlePage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               山口・長門湯本温泉＆音信川紅葉特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              長門湯本温泉の音信川紅葉ライトアップ＆元乃隅神社！大谷山荘・玉仙閣×ふるさと納税完全ガイド【2026年最新秋旅】山口
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">長門湯本温泉の音信川紅葉ライトアップ＆元乃隅神社！大谷山荘・玉仙閣×ふるさと納税厳選ガイド山口</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               11月上旬〜11月下旬に美しく色づく山口県最古の温泉地「長門湯本温泉（ながとゆもとおんせん）」。音信川（おとずれがわ）沿いの竹林階段や飛び石の紅葉ライトアップ、元乃隅神社の絶景鳥居、名門旅館「大谷山荘」「玉仙閣」「山村別館」で本場下関のとらふぐや長州黒かしわを堪能。楽天ふるさと納税で実質2,000円。
             </p>

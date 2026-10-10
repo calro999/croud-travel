@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月玉造温泉】山陰松葉蟹！名宿5選',
+  title: '玉造温泉で過ごす冬の旅（11・12月）！山陰松葉蟹！名宿5選',
   description: '全国の八百万の神々が集う11月の出雲「神在月」。奈良時代の風土記に「神の湯」と記された日本最古の美肌温泉・玉造温泉で潤い、11月解禁の山陰松葉がに会席としまね和牛を堪能。玉湯川沿いの初冬風情と出雲大社参拝を叶える厳選名宿5選。',
   keywords: '玉造温泉 宿泊 11月 12月, 出雲大社 神在月 温泉宿, 玉造温泉 松葉がに, 佳翠苑 皆美, 白石家 玉造, 湯之助の宿 長楽園, ホテル玉泉, しまね和牛 美肌の湯',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay/",
   },
   openGraph: {
-    title: '【11・12月玉造温泉】山陰松葉蟹！名宿5選',
+    title: '玉造温泉で過ごす冬の旅（11・12月）！山陰松葉蟹！名宿5選',
     description: '全国の八百万の神々が集う11月の出雲「神在月」。奈良時代の風土記に「神の湯」と記された日本最古の美肌温泉・玉造温泉で潤い、11月解禁の山陰松葉がに会席としまね和牛を堪能。玉湯川沿いの初冬風情と出雲大社参拝を叶える厳選名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月玉造温泉の初冬美肌湯と松葉がに】出雲大社神在月参拝と日本最古の化粧水温泉・山陰松葉蟹＆しまね和牛の宿5選",
+    title: "玉造温泉の初冬美肌湯と松葉がにで過ごす冬の旅（11・12月）！出雲大社神在月参拝と日本最古の化粧水温泉・山陰松葉蟹＆しまね和牛の宿5選",
     description: "全国の八百万の神々が集う11月の出雲「神在月」。奈良時代の風土記に「神の湯」と記された日本最古の美肌温泉・玉造温泉で潤い、11月解禁の山陰松葉がに会席としまね和牛を堪能。玉湯川沿いの初冬風情と出雲大社参拝を叶える厳選名宿5選。",
   }
 };
@@ -297,10 +297,7 @@ export default function TamatsukuriWinterPage() {
             <Eye className="w-4 h-4 text-indigo-300" />
             <span>11月・12月限定 出雲大社神在月参拝と天然化粧水名湯＆松葉がに特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月玉造温泉の初冬美肌湯と松葉がに】<br className="hidden sm:inline" />
-            出雲大社神在月参拝と日本最古の化粧水温泉・山陰松葉蟹＆しまね和牛の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">玉造温泉の初冬美肌湯と松葉がにで過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 出雲大社神在月参拝と日本最古の化粧水温泉・山陰松葉蟹＆しまね和牛の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             全国の神々が集う11月の出雲「神在月」。千三百年前に風土記で「神の湯」と讃えられた日本最古の美肌温泉・玉造温泉。11月解禁の山陰松葉がにと極上しまね和牛に舌鼓を打ち、心身の美と良縁を祈る至高の初冬旅。
           </p>

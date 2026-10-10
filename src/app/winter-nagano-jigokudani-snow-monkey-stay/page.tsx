@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【12月開幕！地獄谷スノーモンキー＆渋温泉郷】温泉に入る猿鑑賞と九湯めぐりレトロ宿5選",
+  title: "開幕！地獄谷スノーモンキー＆渋温泉郷で過ごす冬の旅（12月）！温泉に入る猿鑑賞と九湯めぐりレトロ宿5選",
   description: "世界中から観光客が訪れる冬の世界的名所「地獄谷野猿公苑のスノーモンキー」！雪のなかで気持ちよさそうに天然温泉に浸かる猿たちを観察し、石畳の風情ある渋温泉街で厄除け「九湯めぐり」を楽しむ冬の信州旅。",
   keywords: "渋温泉 旅館, 11月旅行, 12月旅行, 冬休み, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagano-jigokudani-snow-monkey-stay/",
   },
   openGraph: {
-    title: "【12月開幕！地獄谷スノーモンキー＆渋温泉郷】温泉に入る猿鑑賞と九湯めぐりレトロ宿5選",
+    title: "開幕！地獄谷スノーモンキー＆渋温泉郷で過ごす冬の旅（12月）！温泉に入る猿鑑賞と九湯めぐりレトロ宿5選",
     description: "世界中から観光客が訪れる冬の世界的名所「地獄谷野猿公苑のスノーモンキー」！雪のなかで気持ちよさそうに天然温泉に浸かる猿たちを観察し、石畳の風情ある渋温泉街で厄除け「九湯めぐり」を楽しむ冬の信州旅。",
     url: 'https://croud-travel.pages.dev/winter-nagano-jigokudani-snow-monkey-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【12月開幕！地獄谷スノーモンキー＆渋温泉郷】温泉に入る猿鑑賞と九湯めぐりレトロ宿5選",
+    title: "開幕！地獄谷スノーモンキー＆渋温泉郷で過ごす冬の旅（12月）！温泉に入る猿鑑賞と九湯めぐりレトロ宿5選",
     description: "世界中から観光客が訪れる冬の世界的名所「地獄谷野猿公苑のスノーモンキー」！雪のなかで気持ちよさそうに天然温泉に浸かる猿たちを観察し、石畳の風情ある渋温泉街で厄除け「九湯めぐり」を楽しむ冬の信州旅。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>スノーモンキー＆渋温泉九湯めぐり</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【12月開幕！地獄谷スノーモンキー＆渋温泉郷】温泉に入る猿鑑賞と九湯めぐりレトロ宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">開幕！地獄谷スノーモンキー＆渋温泉郷で過ごす冬の旅（12月）！温泉に入る猿鑑賞と九湯めぐりレトロ宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             世界中から観光客が訪れる冬の世界的名所「地獄谷野猿公苑のスノーモンキー」！雪のなかで気持ちよさそうに天然温泉に浸かる猿たちを観察し、石畳の風情ある渋温泉街で厄除け「九湯めぐり」を楽しむ冬の信州旅。
           </p>

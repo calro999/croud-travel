@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagano-kamikochi-azusa-river-stay/" },
-  title: "【長野・上高地＆大正池】河童橋・穂高連峰＆梓川クラシック宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "長野・上高地＆大正池：河童橋・穂高連峰＆梓川クラシック宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "神降地・上高地エリア完全特化！河童橋、大正池の立ち枯れの木、明神池、エメラルドグリーンの梓川と穂高連峰パノラマ、上高地帝国ホテルなど歴史ある名門リゾートを徹底解説。",
   keywords: ["長野", "上高地", "大正池", "河童橋", "穂高連峰", "梓川クラシック宿", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             KAMIKOCHI NATURE MICRO GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【長野・上高地＆大正池】河童橋・穂高連峰＆梓川クラシック宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「長野・上高地＆大正池」河童橋・穂高連峰＆梓川クラシック宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             マイカー規制によって守られた日本屈指の山岳景勝地「上高地」。梓川にかかる河童橋から仰ぐ穂高連峰の威容。朝靄に包まれる大正池の静寂と、大自然の中で過ごす贅沢なクラシックホテルステイ。
           </p>

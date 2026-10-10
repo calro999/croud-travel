@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/koyasan-world-heritage-ticket-guide/" },
-  title: "【高野山・世界遺産きっぷ完全攻略】南海電鉄＋高野山内バス乗り放題でいくら浮く？宿坊ステイ＆金剛峯寺 ｜ 日本全国・旅宿クラウド",
+  title: "高野山・世界遺産きっぷ完全攻略：南海電鉄＋高野山内バス乗り放題でいくら浮く？宿坊ステイ＆金剛峯寺 ｜ 日本全国・旅宿クラウド",
   description: "難波・新今宮から高野山へ行くなら必須の「高野山・世界遺産きっぷ」！南海特急こうや、極楽橋ケーブルカー、南海りんかんバス、主要寺院拝観割引の総額比較。奥之院参拝・精進料理を堪能する1泊2日宿坊ガイド。",
   keywords: ["高野山", "世界遺産きっぷ完全攻略", "金剛峯寺", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -76,10 +76,7 @@ export default function KoyasanPassPage() {
             <span className="w-1.5 h-1.5 rounded-full bg-indigo-400"></span>
             <span>聖地巡礼・完全割引シミュレーション</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【高野山・世界遺産きっぷ完全攻略】<br className="hidden sm:inline" />
-            南海電鉄＋山内バス乗り放題でいくら浮く？<span className="text-indigo-300">宿坊ステイ＆金剛峯寺拝観</span>
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">「高野山・世界遺産きっぷ完全攻略」<br className="hidden sm:inline" /> 南海電鉄＋山内バス乗り放題でいくら浮く？<span className="text-indigo-300">宿坊ステイ＆金剛峯寺拝観</span></h1>
           <p className="mt-5 text-base sm:text-lg text-indigo-100/90 leading-relaxed">
             開創1200年を超える天空の聖地・高野山。大阪（なんば・新今宮）からの南海電車往復乗車券、極楽橋〜高野山駅のケーブルカー、現地「南海りんかんバス」の乗り放題、そして金剛峯寺・根本大塔などの拝観料2割引クーポンがセットになった「高野山・世界遺産きっぷ」。
             通常運賃との綿密な比較と、宿坊で精進料理・朝のお勤めを体験する1泊2日の黄金モデルコースを徹底解説します。

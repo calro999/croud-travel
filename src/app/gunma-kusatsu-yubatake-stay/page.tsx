@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/gunma-kusatsu-yubatake-stay/" },
-  title: "【群馬・草津温泉】湯畑・西の河原＆湯もみ体験極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "群馬・草津温泉：湯畑・西の河原＆湯もみ体験極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "日本一の名湯・草津温泉エリア完全特化！湯畑のライトアップ、西の河原大露天風呂、熱乃湯の湯もみショー、温泉街の食べ歩きと源泉かけ流し旅館を徹底解説。",
   keywords: ["群馬", "草津温泉", "湯畑", "西の河原", "湯もみ体験極上宿", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             KUSATSU YUBATAKE MICRO GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【群馬・草津温泉】湯畑・西の河原＆湯もみ体験極上宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「群馬・草津温泉」湯畑・西の河原＆湯もみ体験極上宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             毎分3万2300リットル以上の自然湧出量を誇る日本屈指の温泉地「草津」。もうもうと立ち込める湯けむりとエメラルドグリーンの湯畑。強酸性の名湯で心身を清める極上の温泉旅へ。
           </p>

@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月磐梯熱海温泉】萩姫伝説の美人の湯！名宿5選',
+  title: '磐梯熱海温泉で過ごす冬の旅（11・12月）！萩姫伝説の美人の湯！名宿5選',
   description: '南北朝時代の萩姫伝説が息づく郡山の奥座敷「磐梯熱海温泉」。pH9を超えるアルカリ性単純泉と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '磐梯熱海温泉 宿泊, 磐梯熱海温泉 11月 12月, ホテル華の湯, 離れの宿 よもぎ埜, 四季彩 一力, 守田屋, 萩姫伝説 美人の湯, 猪苗代湖 白鳥 飛来, 福島牛 すき焼き, 会津新酒',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukushima-bandai-atami-onsen-bihada-swan-stay/",
   },
   openGraph: {
-    title: '【11・12月磐梯熱海温泉】萩姫伝説の美人の湯！名宿5選',
+    title: '磐梯熱海温泉で過ごす冬の旅（11・12月）！萩姫伝説の美人の湯！名宿5選',
     description: '南北朝時代の萩姫伝説が息づく郡山の奥座敷「磐梯熱海温泉」。pH9を超えるアルカリ性単純泉と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-fukushima-bandai-atami-onsen-bihada-swan-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月磐梯熱海温泉の冬名湯と美肌ぬる湯】萩姫伝説の美人の湯・猪苗代湖白鳥飛来と極上福島牛＆会津新酒の宿5選",
+    title: "磐梯熱海温泉の冬名湯と美肌ぬる湯で過ごす冬の旅（11・12月）！萩姫伝説の美人の湯・猪苗代湖白鳥飛来と極上福島牛＆会津新酒の宿5選",
     description: "南北朝時代の萩姫伝説が息づく郡山の奥座敷「磐梯熱海温泉」。pH9を超えるアルカリ性単純泉と、元湯の「ぬる湯」＆自家源泉「あつ湯」の交互浴で至高の美肌効果を体感。11月にシベリアから猪苗代湖へ飛来する優美な白鳥群と磐梯山初冠雪、極上の霜降り福島牛、会津郷土料理こづゆ、初冬のしぼりたて新酒地酒を堪能する名宿5選を徹底解説。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80'],
   }
@@ -298,10 +298,7 @@ export default function BandaiAtamiWinterPage() {
             <Feather className="w-4 h-4 text-teal-300" />
             <span>11月・12月限定 萩姫伝説の美肌ぬる湯と猪苗代湖白鳥飛来＆極上福島牛会席</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月磐梯熱海温泉の冬名湯と美肌ぬる湯】<br className="hidden sm:inline" />
-            萩姫伝説の美人の湯・猪苗代湖白鳥飛来と極上福島牛＆会津新酒の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">磐梯熱海温泉の冬名湯と美肌ぬる湯で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 萩姫伝説の美人の湯・猪苗代湖白鳥飛来と極上福島牛＆会津新酒の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-slate-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             郡山の奥座敷に湧く800年の美肌名湯「磐梯熱海温泉」。pH9を超える柔らかなアルカリ性単純泉とぬる湯交互浴で潤い、11月に猪苗代湖へ飛来する白鳥の群れと雪化粧の磐梯山、とろける極上福島牛と会津新酒を味わう冬の旅。
           </p>

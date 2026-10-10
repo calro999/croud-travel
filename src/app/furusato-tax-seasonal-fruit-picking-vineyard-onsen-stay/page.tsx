@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '果樹園の旬フルーツ狩り＆名門ワイナリー・美肌温泉宿×ふるさと納税完全ガイド【2026年最新】石和・伊豆長岡・飯坂',
+  title: '果樹園の旬フルーツ狩り＆名門ワイナリー・美肌温泉宿×ふるさと納税厳選ガイド石和・伊豆長岡・飯坂',
   description: '桃・ぶどう・完熟いちご・蜜入りりんご！日本屈指の果樹王国で採れたて旬フルーツの芳醇な甘みと名湯を堪能する大人の贅沢旅。甲州ワインと果樹園の聖地・笛吹市石和温泉の老舗「みなもと旅館」、紅ほっぺや章姫のいちご狩り農園に囲まれた伊豆の国市「招福の宿 ゑびすや」、福島フルーツラインの果樹園群と摺上川の渓谷美を誇る「飯坂温泉 摺上亭 大鳥」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ果実美酒温泉ステイ。',
   keywords: ["果樹園の旬フルーツ狩り", "名門ワイナリー", "美肌温泉宿×ふるさと納税", "2026年最新", "石和", "伊豆長岡", "飯坂"],
   alternates: { canonical: baseUrl + '/furusato-tax-seasonal-fruit-picking-vineyard-onsen-stay/' },
   openGraph: {
-    title: '果樹園の旬フルーツ狩り＆名門ワイナリー・美肌温泉宿×ふるさと納税完全ガイド【2026年最新】石和・伊豆長岡・飯坂',
+    title: '果樹園の旬フルーツ狩り＆名門ワイナリー・美肌温泉宿×ふるさと納税厳選ガイド石和・伊豆長岡・飯坂',
     description: '桃・ぶどう・完熟いちご・蜜入りりんご！日本屈指の果樹王国で採れたて旬フルーツの芳醇な甘みと名湯を堪能する大人の贅沢旅。甲州ワインと果樹園の聖地・笛吹市石和温泉の老舗「みなもと旅館」、紅ほっぺや章姫のいちご狩り農園に囲まれた伊豆の国市「招福の宿 ゑびすや」、福島フルーツラインの果樹園群と摺上川の渓谷美を誇る「飯坂温泉 摺上亭 大鳥」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ果実美酒温泉ステイ。',
     url: baseUrl + '/furusato-tax-seasonal-fruit-picking-vineyard-onsen-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoSeasonalFruitPickingStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             旬のフルーツ狩り・果樹園＆ワイナリー温泉宿特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            果樹園の旬フルーツ狩り＆名門ワイナリー・美肌温泉宿×ふるさと納税完全ガイド【2026年最新】石和・伊豆長岡・飯坂
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">果樹園の旬フルーツ狩り＆名門ワイナリー・美肌温泉宿×ふるさと納税厳選ガイド石和・伊豆長岡・飯坂</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             春の真っ赤な大粒いちご、初夏の甘美なサクランボ、夏のジューシーな白桃、秋の濃厚なシャインマスカットや巨峰、そして冬の蜜入りりんご――日本各地の果樹園地帯には、四季折々の恵みを五感いっぱいに味わえる素晴らしい旅の舞台が広がっています。日本有数のぶどう・桃の生産量を誇りワイナリー巡りも楽しい山梨県笛吹市・石和温泉の老舗「みなもと旅館」。ハウスいっぱいに甘い香りが漂ういちご狩り農園が点在し、歴史ある美肌の湯が湧く静岡県伊豆の国市・伊豆長岡温泉の「招福の宿 ゑびすや」。そして吾妻連峰の麓に約14kmにわたって果樹園が連なるフルーツラインの玄関口・福島市「飯坂温泉 摺上亭 大鳥」。朝摘みの新鮮なフルーツを心ゆくまで味わい、夕方には肌をしっとりと包み込む名湯露天風呂に浸かり、夕食には地場産ワインやフルーツ仕込みの創作会席を堪能する。楽天ふるさと納税のトラベルクーポン（寄付額の最大30％割引）を使えば、実質自己負担2,000円でこの上なく贅沢なフルーツ＆美肌温泉ステイが実現します。大地の実りに心ほどける、甘く豊かな休日へ出かけましょう。
           </p>

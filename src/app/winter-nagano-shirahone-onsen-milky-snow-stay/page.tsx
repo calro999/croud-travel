@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月白骨温泉】3日入れば3年風邪ひかぬ霊泉！名宿5選',
+  title: '白骨温泉で過ごす冬の旅（11・12月）！3日入れば3年風邪ひかぬ霊泉！名宿5選',
   description: '北アルプス乗鞍岳の山懐、標高1,400メートルの深い原生林に抱かれた日本屈指の秘湯「白骨温泉」。「3日入れば3年風邪をひかない」と謳われる乳。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '白骨温泉 宿泊 11月 12月, 白骨温泉 乳白色 露天風呂, 泡の湯 白骨, 湯元齋藤旅館, 白船荘 新宅旅館, 信州プレミアム牛 投汁そば, 北アルプス 雪見温泉, 長野 秘湯',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagano-shirahone-onsen-milky-snow-stay/",
   },
   openGraph: {
-    title: '【11・12月白骨温泉】3日入れば3年風邪ひかぬ霊泉！名宿5選',
+    title: '白骨温泉で過ごす冬の旅（11・12月）！3日入れば3年風邪ひかぬ霊泉！名宿5選',
     description: '北アルプス乗鞍岳の山懐、標高1,400メートルの深い原生林に抱かれた日本屈指の秘湯「白骨温泉」。「3日入れば3年風邪をひかない」と謳われる乳。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-nagano-shirahone-onsen-milky-snow-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月白骨温泉の北アルプス初冬雪景色と乳白色秘湯】3日入れば3年風邪ひかぬ霊泉・信州プレミアム牛＆投汁そばの宿5選",
+    title: "白骨温泉の北アルプス初冬雪景色と乳白色秘湯で過ごす冬の旅（11・12月）！3日入れば3年風邪ひかぬ霊泉・信州プレミアム牛＆投汁そばの宿5選",
     description: "北アルプス乗鞍岳の山懐、標高1,400メートルの深い原生林に抱かれた日本屈指の秘湯「白骨温泉」。「3日入れば3年風邪をひかない」と謳われる乳白色の炭酸水素塩泉。11月中旬の初雪から12月の白銀静寂世界に浸る雪見露天風呂と、信州プレミアム牛＆名物投汁そばに心温まる名宿ガイド。",
   }
 };
@@ -285,10 +285,7 @@ export default function ShirahoneWinterPage() {
             <Eye className="w-4 h-4 text-teal-300" />
             <span>11月・12月限定 北アルプス標高1400m秘湯＆信州牛・投汁そば特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月白骨温泉の北アルプス初冬雪景色と乳白色秘湯】<br className="hidden sm:inline" />
-            3日入れば3年風邪ひかぬ霊泉・信州プレミアム牛＆投汁そばの宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">白骨温泉の北アルプス初冬雪景色と乳白色秘湯で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 3日入れば3年風邪ひかぬ霊泉・信州プレミアム牛＆投汁そばの宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             北アルプス乗鞍岳の東山麓、標高1,400メートルの深い渓谷に抱かれた奇跡の霊泉「白骨温泉」。炭酸カルシウムが結晶化してミルクブルーに輝く神秘の湯船。11月中旬の初雪から12月の白銀静寂世界に浸り、霜降り信州プレミアム牛と郷土伝統の投汁そばに舌鼓を打つ極上の秘湯ステイ。
           </p>

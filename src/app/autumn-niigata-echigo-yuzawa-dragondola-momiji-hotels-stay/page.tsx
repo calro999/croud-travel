@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【10月中旬〜11月上旬！苗場ドラゴンドラ紅葉】日本最長ゴンドラ空中散歩と越後湯沢名湯宿5選",
+  title: "中旬〜11月上旬！苗場ドラゴンドラ紅葉で過ごす冬の旅（10月）！日本最長ゴンドラ空中散歩と越後湯沢名湯宿5選",
   description: "全長5,481m・日本最長を誇る苗場「ドラゴンドラ」で巡る大パノラマ紅葉クルージング！アップダウンを繰り返すスリルと絶景、そして新米魚沼産コシヒカリと越後湯沢温泉に癒やされる厳選宿5選。",
   keywords: "苗場 ドラゴンドラ 紅葉 見頃 10月, 越後湯沢温泉 旅館 おすすめ, 雪の花, 湯沢グランドホテル, 新潟 紅葉 ゴンドラ 宿泊",
   alternates: {
     canonical: "https://croud-travel.pages.dev/autumn-niigata-echigo-yuzawa-dragondola-momiji-hotels-stay/",
   },
   openGraph: {
-    title: "【10月中旬〜11月上旬！苗場ドラゴンドラ紅葉】日本最長ゴンドラ空中散歩と越後湯沢名湯宿5選",
+    title: "中旬〜11月上旬！苗場ドラゴンドラ紅葉で過ごす冬の旅（10月）！日本最長ゴンドラ空中散歩と越後湯沢名湯宿5選",
     description: "全長5,481m・日本最長を誇る苗場「ドラゴンドラ」で巡る大パノラマ紅葉クルージング！アップダウンを繰り返すスリルと絶景、そして新米魚沼産コシヒカリと越後湯沢温泉に癒やされる厳選宿5選。",
     url: 'https://croud-travel.pages.dev/autumn-niigata-echigo-yuzawa-dragondola-momiji-hotels-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【10月中旬〜11月上旬！苗場ドラゴンドラ紅葉】日本最長ゴンドラ空中散歩と越後湯沢名湯宿5選",
+    title: "中旬〜11月上旬！苗場ドラゴンドラ紅葉で過ごす冬の旅（10月）！日本最長ゴンドラ空中散歩と越後湯沢名湯宿5選",
     description: "全長5,481m・日本最長を誇る苗場「ドラゴンドラ」で巡る大パノラマ紅葉クルージング！アップダウンを繰り返すスリルと絶景、そして新米魚沼産コシヒカリと越後湯沢温泉に癒やされる厳選宿5選。",
   }
 };
@@ -131,9 +131,7 @@ export default function FeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             秋のパノラマ絶景特集・日本最長ドラゴンドラ
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【10月中旬〜11月上旬！苗場ドラゴンドラ紅葉】<br className="hidden sm:inline" />日本最長ゴンドラ空中散歩と越後湯沢名湯宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">中旬〜11月上旬！苗場ドラゴンドラ紅葉で過ごす冬の旅（10月）！<br className="hidden sm:inline" />日本最長ゴンドラ空中散歩と越後湯沢名湯宿5選</h1>
           <p className="max-w-2xl mx-auto text-sm md:text-base text-stone-200 leading-relaxed">
             全長5,481m、約25分間の空中散歩！二居湖のエメラルドグリーンと燃えるような錦秋の山並みを眼下に見下ろす絶景ゴンドラ。新米コシヒカリと越後湯沢温泉の極上ステイ。
           </p>

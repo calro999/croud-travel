@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/awaji-island-car-free-bus-trip-guide/" },
-  title: "【淡路島 車なし観光ガイド】高速バス＆無料シャトルで回る！ニジゲンノモリ・西海岸カフェ・洲本温泉 ｜ 日本全国・旅宿クラウド",
+  title: "淡路島 車なし観光ガイド：高速バス＆無料シャトルで回る！ニジゲンノモリ・西海岸カフェ・洲本温泉 ｜ 日本全国・旅宿クラウド",
   description: "車がないと行けないと思われがちな淡路島を高速バスと島内周遊シャトルで完全攻略！三ノ宮・新神戸から直行バス、明石海峡大橋を渡って楽しむ最新西海岸リゾートスポット＆洲本温泉名旅館。",
   keywords: ["淡路島", "車なし観光ガイド", "高速バス", "西海岸カフェ", "洲本温泉", "温泉宿", "宿泊予約"],
 };
@@ -174,10 +174,7 @@ export default function AwajiIslandCarFreePage() {
             </span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight font-journal-serif text-white">
-            【淡路島 車なし観光ガイド】<br className="hidden sm:inline" />
-            高速バス＆無料シャトルで回る！西海岸カフェ・ニジゲンノモリ・洲本温泉
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight font-journal-serif text-white">「淡路島 車なし観光ガイド」<br className="hidden sm:inline" /> 高速バス＆無料シャトルで回る！西海岸カフェ・ニジゲンノモリ・洲本温泉</h1>
 
           <p className="text-sm md:text-base text-slate-200 max-w-3xl leading-relaxed">
             「淡路島＝ドライブ必須」はもう古い！神戸三宮から高速バスでわずか40分。島内は無料シャトルバスや周遊バス網が劇的に進化し、運転免許がなくても絶景オーシャンビューカフェ、人気アニメテーマパーク、老舗の洲本温泉旅館までラクラク直行できます。

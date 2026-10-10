@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hakone-trip-packing-regrets-worst5-guide/" },
-  title: "【箱根旅行で後悔したことワースト5】大涌谷ロープウェイ強風運休＆夕方カフェ難民！渋滞回避の知恵袋 ｜ 日本全国・旅宿クラウド",
+  title: "箱根旅行で後悔したことワースト5：大涌谷ロープウェイ強風運休＆夕方カフェ難民！渋滞回避の知恵袋 ｜ 日本全国・旅宿クラウド",
   description:
     "箱根観光でありがちなトラブルを完全回避！強風によるロープウェイ運休時の代行バス、17時で全滅する飲食店トラップ、土日夕方の国道1号線大渋滞、小田急ロマンスカー満席対策と強羅温泉宿。",
   keywords: ["大涌谷ロープウェイ強風運休", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
@@ -179,14 +179,7 @@ export default function HakoneTripPackingRegretsPage() {
             <span className="w-2 h-2 rounded-full bg-amber-400 animate-ping" />
             箱根旅行・失敗回避レスキュー便覧
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【箱根旅行で後悔したことワースト5】<br />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-300 via-orange-200 to-amber-400">
-              大涌谷ロープウェイ強風運休＆夕方カフェ難民！
-            </span>
-            <br />
-            渋滞回避の知恵袋＆パッキング術
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「箱根旅行で後悔したことワースト5」<br /> <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-300 via-orange-200 to-amber-400"> 大涌谷ロープウェイ強風運休＆夕方カフェ難民！ </span> <br /> 渋滞回避の知恵袋＆パッキング術</h1>
           <p className="text-amber-100/90 text-base sm:text-lg max-w-3xl leading-relaxed mb-8">
             年間2,000万人が訪れる国内屈指の温泉地・箱根。しかし、事前の下調べなしで訪れると「突然のロープウェイ運休で立ち往生」「17時で店が全滅しコンビニ夕食」「日曜夕方の国道1号線で3時間動かない」という悪夢に見舞われます。
             旅のプロが教えるリアルな失敗回避策と、絶対に損しない強羅・湯本の温泉宿を徹底解説します。

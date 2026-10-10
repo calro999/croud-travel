@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-luxury-glamping-bbq-dome-stay/" },
-  title: '【豪華グランピング×ふるさと納税】手ぶら炭火BBQ＆薪割り焚き火！星空ドームテント完全ガイド | クラウドトラベル',
+  title: '豪華グランピングをふるさと納税でお得に旅する！手ぶら炭火BBQ＆薪割り焚き火！星空ドームテント厳選ガイド | クラウドトラベル',
   description: '道具不要・ホテル並みの快適ベッド＆冷暖房完備！富士山麓・琵琶湖畔・淡路島のラグジュアリーグランピング施設を厳選。満天の星空、ご当地ブランド牛BBQ、薪割り焚き火体験をふるさと納税でお得に楽しむ方法。',
   openGraph: {
-    title: '【豪華グランピング×ふるさと納税】手ぶら炭火BBQ＆薪割り焚き火！星空ドームテント完全ガイド | クラウドトラベル',
+    title: '豪華グランピングをふるさと納税でお得に旅する！手ぶら炭火BBQ＆薪割り焚き火！星空ドームテント厳選ガイド | クラウドトラベル',
     description: '道具不要・ホテル並みの快適ベッド＆冷暖房完備！富士山麓・琵琶湖畔・淡路島のラグジュアリーグランピング施設を厳選。満天の星空、ご当地ブランド牛BBQ、薪割り焚き火体験をふるさと納税でお得に楽しむ方法。',
     type: 'article',
   },
@@ -59,9 +59,7 @@ export default function Page() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             ふるさと納税×高級グランピング・星空ドーム
           </div>
-          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            【豪華グランピング×ふるさと納税】手ぶら炭火BBQ＆薪割り焚き火！星空ドームテント完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">豪華グランピングをふるさと納税でお得に旅する！手ぶら炭火BBQ＆薪割り焚き火！星空ドームテント厳選ガイド</h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl mb-6">
             「大自然の中でパチパチとはぜる焚き火を眺めたい。」「満天の星空の下で本格炭火BBQを楽しみたい。」。そう思いながらも、テントの設営や片付け、虫対策、冷え込みへの不安からキャンプに二の足を踏んでいた方に大人気なのが、冷暖房完備のラグジュアリー「ドームテントグランピング」です。ふかふかのシモンズ製ベッドに横たわり、天井の透明ドーム窓から星空を眺め、ウッドデッキでは地元ブランド牛や獲れたて野菜を豪快にグリル。プライベートサウナや客室温泉ジャグジーを備えたハイグレード施設も急増しています。こうした最新グランピングは1泊2食付きで1人3万〜6万円以上になることも多いですが、楽天ふるさと納税のトラベルクーポン（30％補助）を使えば実質自己負担2,000円で驚くほどお得に予約可能。富士山を間近に望む河口湖、夕日が湖面に映える琵琶湖、海風薫る淡路島など、憧れのアウトドアリゾートへご案内します。
           </p>

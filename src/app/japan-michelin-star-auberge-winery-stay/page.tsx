@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-michelin-star-auberge-winery-stay/" },
-  title: "【ミシュラン星付きシェフ監修＆ワイナリー宿】極上オーベルジュ・美食ステイ 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "ミシュラン星付きシェフ監修＆ワイナリー宿：極上オーベルジュ・美食ステイ 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "「食べるために泊まる」至福のガストロノミーツーリズム！ミシュラン星付きシェフ監修の極上オーベルジュ＆ワイナリーホテル完全特化！北海道余市・山梨勝沼・長野千曲川ワインバレー、美食とワインのペアリング宿を徹底解説。",
   keywords: ["ミシュラン星付きシェフ監修", "ワイナリー宿", "極上オーベルジュ", "美食ステイ", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
@@ -89,9 +89,7 @@ export default function LuxuryPremiumHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-gradient-to-r from-amber-300 to-amber-500 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block shadow">
             MICHELIN AUBERGE & WINERY GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【ミシュラン星付きシェフ監修＆ワイナリー宿】極上オーベルジュ・美食ステイ 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「ミシュラン星付きシェフ監修＆ワイナリー宿」極上オーベルジュ・美食ステイ 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             ぶどう畑を見下ろす丘の上、料理人の情熱が一皿ごとに咲き誇る「極上オーベルジュ＆ワイナリーホテル」。テロワールを表現したモダンフレンチや薪火料理。ソムリエが提案する完璧なワインペアリング。部屋に戻ってそのまま眠りにつく美食の頂点へ。
           </p>

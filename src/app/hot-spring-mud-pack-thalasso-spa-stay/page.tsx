@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hot-spring-mud-pack-thalasso-spa-stay/" },
-  title: "【温泉泥パック＆タラソテラピー宿】天然クレイ泥湯・海洋深層水スパ 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "温泉泥パック＆タラソテラピー宿：天然クレイ泥湯・海洋深層水スパ 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "天然の美容成分を肌に塗る極上スパ温泉宿完全特化！鹿児島霧島・別府の「天然温泉泥パック（泥湯）」、沖縄・南房総の「海洋深層水タラソテラピー」、ミネラル豊富な海藻パック、シルクのような美肌温泉を徹底解説。",
   keywords: ["温泉泥パック", "タラソテラピー宿", "天然クレイ泥湯", "海洋深層水スパ", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
@@ -89,9 +89,7 @@ export default function WellnessRetreatHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             MUD PACK & THALASSO SPA GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【温泉泥パック＆タラソテラピー宿】天然クレイ泥湯・海洋深層水スパ 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「温泉泥パック＆タラソテラピー宿」天然クレイ泥湯・海洋深層水スパ 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             大地のミネラルを全身で吸収する奇跡の美容温泉！霧島や別府の底からすくい上げるクリーミーな「天然温泉泥パック」。海の生命力で細胞を活性化する「海洋深層水タラソテラピー」。エステ要らずのツルツル美肌へ導くビューティーステイ。
           </p>

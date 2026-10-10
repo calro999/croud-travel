@@ -1,4 +1,4 @@
-# 【箱根客室露天風呂がある極上の高級温泉宿・カップル向けおすすめ旅館】快適客室と温かいおもてなしガイドを満喫する旅ガイド（hakone-open-air-bath-guide）
+# 箱根客室露天風呂がある極上の高級温泉宿・カップル向けおすすめ旅館：快適客室と温かいおもてなしガイドを満喫する旅ガイド（hakone-open-air-bath-guide）
 
 - URL: https://croud-travel.pages.dev/posts/hakone-open-air-bath-guide/
 - 宿泊施設名: 【箱根】客室露天風呂がある極上の高級温泉宿・カップル向けおすすめ旅館

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tokyo-nagoya-bus-vs-shinkansen-guide/" },
-  title: "【東京〜名古屋】新幹線 vs 高速バス徹底比較！片道2,000円〜行く名古屋めし爆食1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+  title: "東京〜名古屋：新幹線 vs 高速バス徹底比較！片道2,000円〜行く名古屋めし爆食1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "東京から名古屋へ安く行くには？東海道新幹線「のぞみ」と高速バス（昼行・夜行）の料金・所要時間比較！片道2,000円台〜行ける高速バスを活用し、ひつまぶし・手羽先・味噌カツ・モーニングを食べ尽くす1泊2日モデルコース。",
   keywords: ["東京〜名古屋", "新幹線", "vs", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -149,9 +149,7 @@ export default function HighwayBusArticlePage() {
               交通手段の徹底比較＆最適ルート
             </span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【東京〜名古屋】新幹線 vs 高速バス徹底比較！片道2,000円〜行く名古屋めし爆食1泊2日モデルコース
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">「東京〜名古屋」新幹線 vs 高速バス徹底比較！片道2,000円〜行く名古屋めし爆食1泊2日モデルコース</h1>
           <p className="text-xs md:text-sm text-cyan-100/90 leading-relaxed font-medium">
             東海道新幹線なら東京〜名古屋約1時間35分・片道約11,300円。一方、高速バスなら東名・新東名高速経由で片道約2,000円〜5,000円！新幹線の半額以下で移動し、浮いたお金で本場「あつた蓬莱軒のひつまぶし」や名駅タワーホテルを楽しむ贅沢旅。
           </p>

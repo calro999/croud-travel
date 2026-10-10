@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '身体の内側から美しく整う！本格薬膳会席＆地熱ハーブ温泉宿×ふるさと納税完全ガイド【2026年最新】金沢湯涌・箱根仙石原・別府鉄輪',
+  title: '身体の内側から美しく整う！本格薬膳会席＆地熱ハーブ温泉宿×ふるさと納税厳選ガイド金沢湯涌・箱根仙石原・別府鉄輪',
   description: '陰陽五行の知恵と旬の素材で胃腸からリセット！百万石の奥座敷で金沢伝統の薬膳会席と美肌温泉を味わう「金沢湯涌温泉 湯の出旅館」、富士山を望む絶景露天風呂と健康薬膳ビュッフェ「ホテルグリーンプラザ箱根」、鉄輪温泉の地熱蒸気と薬草・客室露天風呂付き離れ宿「癒しの宿 彩葉」。身体を芯から温める薬膳鍋やハーブ風呂を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
   keywords: ["地熱ハーブ温泉宿×ふるさと納税", "2026年最新", "金沢湯涌", "箱根仙石原", "別府鉄輪", "温泉宿", "宿泊予約"],
   alternates: { canonical: baseUrl + '/furusato-tax-yakuzen-herbal-cuisine-detox-onsen-stay/' },
   openGraph: {
-    title: '身体の内側から美しく整う！本格薬膳会席＆地熱ハーブ温泉宿×ふるさと納税完全ガイド【2026年最新】金沢湯涌・箱根仙石原・別府鉄輪',
+    title: '身体の内側から美しく整う！本格薬膳会席＆地熱ハーブ温泉宿×ふるさと納税厳選ガイド金沢湯涌・箱根仙石原・別府鉄輪',
     description: '陰陽五行の知恵と旬の素材で胃腸からリセット！百万石の奥座敷で金沢伝統の薬膳会席と美肌温泉を味わう「金沢湯涌温泉 湯の出旅館」、富士山を望む絶景露天風呂と健康薬膳ビュッフェ「ホテルグリーンプラザ箱根」、鉄輪温泉の地熱蒸気と薬草・客室露天風呂付き離れ宿「癒しの宿 彩葉」。身体を芯から温める薬膳鍋やハーブ風呂を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
     url: baseUrl + '/furusato-tax-yakuzen-herbal-cuisine-detox-onsen-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoYakuzenHerbalCuisineStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             本格薬膳料理＆ハーブデトックス温泉宿特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            身体の内側から美しく整う！本格薬膳会席＆地熱ハーブ温泉宿×ふるさと納税完全ガイド【2026年最新】金沢湯涌・箱根仙石原・別府鉄輪
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">身体の内側から美しく整う！本格薬膳会席＆地熱ハーブ温泉宿×ふるさと納税厳選ガイド金沢湯涌・箱根仙石原・別府鉄輪</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             日々の忙しさや不規則な食生活で疲れた胃腸と心身を、東洋医学の「医食同源」の知恵によって内側から優しくリセットする「薬膳料理＆ハーブ温泉宿」。クコの実、高麗人参、生姜、ハトムギ、地元で採れた滋養豊かな季節の薬草や根菜を、熟練の料理人が出汁の旨味と絶妙に調和させた薬膳会席は、苦みやクセがなく、身体が自然と求める深い美味しさに満ちています。金沢百万石の奥座敷・湯涌温泉で国際薬膳調理師が監修する本格的な加賀薬膳会席と美肌の名湯を誇る「湯の出旅館」、箱根仙石原の高原に位置し富士山を望む露天風呂と健康志向の薬膳旬菜プレミアムビュッフェが人気の「ホテルグリーンプラザ箱根」、そして別府鉄輪の豊かな地熱蒸気と薬草スチーム、全室源泉掛け流しの客室露天風呂を備える大人の隠れ離れ宿「癒しの宿 彩葉」。温泉の温熱効果と薬膳の相乗効果で、滞在するだけで肌の透明感が増し、身体が羽のように軽くなる至福のウェルネス旅を、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引）を使って実質2,000円で賢く予約し、極上のインナービューティー体験へ出かけましょう。
           </p>

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hakone-vs-atami-which-better/" },
-  title: "【箱根 vs 熱海 どっちに行く？】日帰り・1泊2日それぞれのおすすめを本気で比較",
+  title: "箱根 vs 熱海 どっちに行く？：日帰り・1泊2日それぞれのおすすめを本気で比較",
   description: "箱根と熱海、週末にどっちに行くか迷ったらこの記事。日帰りなら熱海、1泊なら箱根。交通費・宿泊費・グルメで徹底比較。",
   keywords: ["箱根", "vs", "熱海", "どっちに行く？", "日帰り", "温泉宿", "宿泊予約"],
 };
@@ -64,9 +64,7 @@ export default function HakoneVsAtamiPage() {
           <span className="inline-block px-4 py-1 rounded-full bg-teal-100 text-teal-800 text-sm font-bold tracking-wider mb-4">
             週末旅行ガイド
           </span>
-          <h1 className="font-journal-serif text-3xl md:text-5xl font-bold text-slate-800 leading-tight mb-6">
-            【箱根 vs 熱海 どっちに行く？】<br/>日帰り・1泊2日それぞれのおすすめを本気で比較
-          </h1>
+          <h1 className="font-journal-serif text-3xl md:text-5xl font-bold text-slate-800 leading-tight mb-6">「箱根 vs 熱海 どっちに行く？」<br/>日帰り・1泊2日それぞれのおすすめを本気で比較</h1>
           <p className="text-lg text-slate-600 max-w-2xl mx-auto">
             都心から気軽に行ける二大温泉地。「今週末どっちに行こう？」と悩んでいませんか？交通費、宿泊費、グルメのリアルな情報を元に徹底比較しました。
           </p>

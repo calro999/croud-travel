@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【1月沖縄】本部！名宿5選',
+  title: '沖縄で過ごす冬の旅（1月）！本部！名宿5選',
   description: '本州が真冬の寒波に包まれる1月中旬、沖縄・やんばるの森から日本一早い春が始まります。標高453mの八重岳を濃いピンク色に染め上げる約7,00。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '本部 ホテル, 今帰仁 ホテル, 八重岳桜まつり, 今帰仁城跡 桜, オリオンモトブリゾート, アラマハイナコンドホテル, 美ら海水族館 ホテル, ヒルトン沖縄瀬底リゾート, 1月 沖縄 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-okinawa-motobu-nakijin-yaedake-sakura-festival-agu-resort-stay/"
   },
   openGraph: {
-    title: '【1月沖縄】本部！名宿5選',
+    title: '沖縄で過ごす冬の旅（1月）！本部！名宿5選',
     description: '本州が真冬の寒波に包まれる1月中旬、沖縄・やんばるの森から日本一早い春が始まります。標高453mの八重岳を濃いピンク色に染め上げる約7,00。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-okinawa-motobu-nakijin-yaedake-sakura-festival-agu-resort-stay',
     siteName: '地域の宿探訪',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【1月沖縄】本部＆今帰仁・名護！日本一早い春を告げる八重岳桜まつり＆今帰仁城跡ライトアップと美ら海リゾート・島豚アグー・本部牛を味わう名宿5選",
+    title: "沖縄で過ごす冬の旅（1月）！本部＆今帰仁・名護！日本一早い春を告げる八重岳桜まつり＆今帰仁城跡ライトアップと美ら海リゾート・島豚アグー・本部牛を味わう名宿5選",
     description: "本州が真冬の寒波に包まれる1月中旬、沖縄・やんばるの森から日本一早い春が始まります。標高453mの八重岳を濃いピンク色に染め上げる約7,000本の寒緋桜（琉球彼岸桜）を愛でる「もとぶ八重岳桜まつり」、世界遺産・今帰仁城跡の城壁に映える幻想的な夜桜ライトアップ「今帰仁グスク桜まつり」。冬期ならではの圧倒的な透明度を誇るエメラルドグリーンの東シナ海、混雑の落ち着いた沖縄美ら海水族館、極上のやんばる島豚アグーしゃぶしゃぶと黒毛和牛本部牛。南国の桜と海に癒やされる冬の本部・今帰仁の名宿5選を徹底解説します。",
     images: ["https://img.travel.rakuten.co.jp/share/HOTEL/145419/145419.jpg"]
   }
@@ -232,10 +232,7 @@ export default function OkinawaMotobuWinterPage() {
             <span>1月沖縄！日本一早い春を告げる八重岳桜まつり＆美ら海リゾート特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">
-            本部＆今帰仁・名護！<br className="hidden sm:inline" />
-            日本一早い春を告げる八重岳桜まつり＆今帰仁城跡ライトアップと美ら海リゾート・島豚アグー・本部牛を味わう名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">本部＆今帰仁・名護！<br className="hidden sm:inline" /> 日本一早い春を告げる八重岳桜まつり＆今帰仁城跡ライトアップと美ら海リゾート・島豚アグー・本部牛を味わう名宿5選</h1>
 
           <p className="text-slate-300 text-sm sm:text-base lg:text-lg leading-relaxed max-w-3xl mb-8">
             日本で最も早く春が訪れる沖縄。1月中旬、八重岳の山頂から山麓へ向けて約7,000本の濃いピンク色に染まる寒緋桜が咲き乱れる「もとぶ八重岳桜まつり」、世界遺産・今帰仁城跡の石垣と夜桜のライトアップ。冬期ならではの澄み切ったエメラルドグリーンの東シナ海、混雑知らずの沖縄美ら海水族館、極上のやんばる島豚アグー豚と本部牛。南国の桜と海に癒やされる冬の本部・今帰仁リゾートステイをお届けします。

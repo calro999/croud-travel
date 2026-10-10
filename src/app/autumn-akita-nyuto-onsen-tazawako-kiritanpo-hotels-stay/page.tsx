@@ -3,11 +3,11 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【秋の乳頭温泉郷・田沢湖】ブナ原生林の黄金紅葉と名物きりたんぽ鍋！憧れの秘湯温泉宿5選【2026最新】',
+  title: '秋の乳頭温泉郷・田沢湖：ブナ原生林の黄金紅葉と名物きりたんぽ鍋！憧れの秘湯温泉宿5選「2026最新」',
   description: '十和田八幡平国立公園のブナ林が黄金色に染まる乳頭温泉郷の秋！乳白色の名湯露天風呂と新米の秋田名物「きりたんぽ鍋」を味わう至福の秘湯ステイ。休暇村乳頭温泉郷、花心亭しらはまなど厳選5宿の見どころを詳しくご紹介！',
   keywords: '乳頭温泉郷 紅葉, 田沢湖 紅葉 宿, 乳頭温泉 秘湯, きりたんぽ鍋 秋田, 休暇村 乳頭温泉郷, 花心亭しらはま',
   openGraph: {
-    title: '【秋の乳頭温泉郷・田沢湖】ブナ原生林の黄金紅葉と名物きりたんぽ鍋！憧れの秘湯温泉宿5選【2026最新】',
+    title: '秋の乳頭温泉郷・田沢湖：ブナ原生林の黄金紅葉と名物きりたんぽ鍋！憧れの秘湯温泉宿5選「2026最新」',
     description: 'ブナ林が黄金色に染まる乳頭温泉郷の秋！乳白色の名湯露天風呂と名物きりたんぽ鍋を味わう厳選宿5選。',
     type: 'article',
     url: 'https://croud-travel.com/autumn-akita-nyuto-onsen-tazawako-kiritanpo-hotels-stay',
@@ -32,9 +32,7 @@ export default function NyutoOnsenAutumnPage() {
             <span className="px-3 py-1 bg-amber-600 text-white text-xs font-bold rounded-full">秋の東北・秘湯特集</span>
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">見頃目安: 10月中旬〜11月上旬</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">
-            【秋の乳頭温泉郷・田沢湖】ブナ原生林の黄金紅葉と名物きりたんぽ鍋！憧れの秘湯温泉宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の乳頭温泉郷・田沢湖」ブナ原生林の黄金紅葉と名物きりたんぽ鍋！憧れの秘湯温泉宿5選</h1>
           <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
             手つかずのブナ原生林が黄金色に輝く乳頭山麓。立ちのぼる湯煙と乳白色の掛け流し露天風呂、比内地鶏の出汁で煮込む新米きりたんぽ鍋に身も心もとろける、みちのくの憧れ秘湯旅をお届けします。
           </p>

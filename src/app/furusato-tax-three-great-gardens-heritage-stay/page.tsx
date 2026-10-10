@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-gardens-heritage-stay/" },
-  title: '日本三名園＆大名庭園を望む老舗旅館×ふるさと納税完全ガイド【2026年最新】兼六園・後楽園・偕楽園の歴史宿',
+  title: '日本三名園＆大名庭園を望む老舗旅館×ふるさと納税厳選ガイド兼六園・後楽園・偕楽園の歴史宿',
   description: '日本三名園（金沢兼六園、岡山後楽園、水戸偕楽園）至近の名門旅館！大名文化の粋を集めた池泉回遊式庭園の散策と、加賀料理・瀬戸内海鮮・常陸牛の美食を楽天ふるさと納税宿泊クーポンでお得に予約する歴史文化の旅。',
   keywords: ["日本三名園", "2026年最新", "兼六園", "後楽園", "偕楽園の歴史宿", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: '日本三名園＆大名庭園を望む老舗旅館×ふるさと納税完全ガイド【2026年最新】兼六園・後楽園・偕楽園の歴史宿',
+    title: '日本三名園＆大名庭園を望む老舗旅館×ふるさと納税厳選ガイド兼六園・後楽園・偕楽園の歴史宿',
     description: '日本三名園（金沢兼六園、岡山後楽園、水戸偕楽園）至近の名門旅館！大名文化の粋を集めた池泉回遊式庭園の散策と、加賀料理・瀬戸内海鮮・常陸牛の美食を楽天ふるさと納税宿泊クーポンでお得に予約する歴史文化の旅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-gardens-heritage-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FurusatoTaxPage() {
           <span className="inline-block px-4 py-1.5 rounded-full text-xs md:text-sm font-black bg-gradient-to-r from-amber-500 to-yellow-400 text-slate-950 mb-5 shadow-lg shadow-amber-500/20">
             日本三名園・大名庭園宿特集
           </span>
-          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">
-            日本三名園＆大名庭園を望む老舗旅館×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">日本三名園＆大名庭園を望む老舗旅館×ふるさと納税ガイド</h1>
           <p className="text-sm md:text-lg text-slate-300 leading-relaxed font-medium">
             日本三名園（金沢兼六園、岡山後楽園、水戸偕楽園）至近の名門旅館！大名文化の粋を集めた池泉回遊式庭園の散策と、加賀料理・瀬戸内海鮮・常陸牛の美食を楽天ふるさと納税宿泊クーポンでお得に予約する歴史文化の旅。
           </p>

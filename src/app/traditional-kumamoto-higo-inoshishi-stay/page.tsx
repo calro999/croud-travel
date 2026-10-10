@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【極上馬刺し＆あか牛炭火焼き】火の国熊本の豪快肉グルメと黒川温泉・阿蘇の秘湯宿5選",
+  title: "極上馬刺し＆あか牛炭火焼き：火の国熊本の豪快肉グルメと黒川温泉・阿蘇の秘湯宿5選",
   description: "とろける霜降り「熊本特選馬刺し」と、ヘルシーで赤身の旨味が凝縮した「阿蘇あか牛」！全国屈指の人気温泉地・黒川温泉の風情ある露天風呂めぐり（入湯手形）と、阿蘇の大自然に抱かれる至高の美食宿を厳選。",
   keywords: "黒川温泉 あか牛 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/traditional-kumamoto-higo-inoshishi-stay/",
   },
   openGraph: {
-    title: "【極上馬刺し＆あか牛炭火焼き】火の国熊本の豪快肉グルメと黒川温泉・阿蘇の秘湯宿5選",
+    title: "極上馬刺し＆あか牛炭火焼き：火の国熊本の豪快肉グルメと黒川温泉・阿蘇の秘湯宿5選",
     description: "とろける霜降り「熊本特選馬刺し」と、ヘルシーで赤身の旨味が凝縮した「阿蘇あか牛」！全国屈指の人気温泉地・黒川温泉の風情ある露天風呂めぐり（入湯手形）と、阿蘇の大自然に抱かれる至高の美食宿を厳選。",
     url: 'https://croud-travel.pages.dev/traditional-kumamoto-higo-inoshishi-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【極上馬刺し＆あか牛炭火焼き】火の国熊本の豪快肉グルメと黒川温泉・阿蘇の秘湯宿5選",
+    title: "極上馬刺し＆あか牛炭火焼き：火の国熊本の豪快肉グルメと黒川温泉・阿蘇の秘湯宿5選",
     description: "とろける霜降り「熊本特選馬刺し」と、ヘルシーで赤身の旨味が凝縮した「阿蘇あか牛」！全国屈指の人気温泉地・黒川温泉の風情ある露天風呂めぐり（入湯手形）と、阿蘇の大自然に抱かれる至高の美食宿を厳選。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>馬刺し＆あか牛・黒川秘湯</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【極上馬刺し＆あか牛炭火焼き】火の国熊本の豪快肉グルメと黒川温泉・阿蘇の秘湯宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「極上馬刺し＆あか牛炭火焼き」火の国熊本の豪快肉グルメと黒川温泉・阿蘇の秘湯宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             とろける霜降り「熊本特選馬刺し」と、ヘルシーで赤身の旨味が凝縮した「阿蘇あか牛」！全国屈指の人気温泉地・黒川温泉の風情ある露天風呂めぐり（入湯手形）と、阿蘇の大自然に抱かれる至高の美食宿を厳選。
           </p>

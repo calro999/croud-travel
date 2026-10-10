@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hakone-rainy-day-indoor-model-course/" },
-  title: "【箱根 雨の日の観光モデルコース】ポーラ美術館・ガラスの森・彫刻の森室内＆早めチェックイン温泉おこもり旅",
+  title: "箱根 雨の日の観光モデルコース：ポーラ美術館・ガラスの森・彫刻の森室内＆早めチェックイン温泉おこもり旅",
   description:
     "雨でも大満足の箱根1泊2日！森の中に佇むポーラ美術館のコレクション、ガラスの森美術館、箱根クラフトハウスの陶芸体験、雨音を聞きながら過ごす強羅温泉・客室露天風呂旅館完全ガイド。",
   keywords: ["箱根", "雨の日の観光モデルコース", "ポーラ美術館", "ガラスの森", "彫刻の森室内", "早めチェックイン温泉おこもり旅", "温泉宿"],
@@ -183,13 +183,7 @@ export default function HakoneRainyDayIndoorCoursePage() {
             雨の日・梅雨・秋雨でも120%楽しむ箱根観光決定版
           </div>
           
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">
-            【箱根 雨の日の観光モデルコース】
-            <br />
-            <span className="bg-gradient-to-r from-slate-200 via-cyan-200 to-slate-400 bg-clip-text text-transparent">
-              ポーラ美術館・ガラスの森・彫刻の森室内＆早めチェックイン温泉おこもり旅
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">「箱根 雨の日の観光モデルコース」 <br /> <span className="bg-gradient-to-r from-slate-200 via-cyan-200 to-slate-400 bg-clip-text text-transparent"> ポーラ美術館・ガラスの森・彫刻の森室内＆早めチェックイン温泉おこもり旅 </span></h1>
 
           <p className="text-slate-300 text-sm sm:text-base leading-relaxed max-w-3xl mx-auto mb-8">
             「箱根旅行が雨予報…どうしよう」と落ち込む必要はありません！緑深い仙石原の森に溶け込むポーラ美術館、雨粒に反射して神秘的に輝くガラスの森、完全屋内で熱中できる本格クラフト体験。そして早めに宿へチェックインして、雨音を聞きながら浸かるにごり湯露天風呂。雨の日だからこそ味わえる、心洗われる大人の箱根1泊2日プランをお届けします。

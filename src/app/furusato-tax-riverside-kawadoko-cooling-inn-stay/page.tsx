@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-riverside-kawadoko-cooling-inn-stay/" },
-  title: '清流川床料理＆避暑せせらぎ名宿×ふるさと納税完全ガイド【2026年最新】京都貴船・四万十川・越後岩室の涼風ステイ',
+  title: '清流川床料理＆避暑せせらぎ名宿×ふるさと納税厳選ガイド京都貴船・四万十川・越後岩室の涼風ステイ',
   description: '足元を流れる清流の冷気と涼風！京都貴船の元祖川床料理、日本最後の清流四万十川の鮎尽くし、新潟岩室温泉の庭園宿を楽天ふるさと納税宿泊クーポンでお得に予約する清涼美食ガイド。',
   keywords: ["清流川床料理", "避暑せせらぎ名宿×ふるさと納税", "2026年最新", "京都貴船", "四万十川", "越後岩室の涼風ステイ", "温泉宿"],
   openGraph: {
-    title: '清流川床料理＆避暑せせらぎ名宿×ふるさと納税完全ガイド【2026年最新】京都貴船・四万十川・越後岩室の涼風ステイ',
+    title: '清流川床料理＆避暑せせらぎ名宿×ふるさと納税厳選ガイド京都貴船・四万十川・越後岩室の涼風ステイ',
     description: '足元を流れる清流の冷気と涼風！京都貴船の元祖川床料理、日本最後の清流四万十川の鮎尽くし、新潟岩室温泉の庭園宿を楽天ふるさと納税宿泊クーポンでお得に予約する清涼美食ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-riverside-kawadoko-cooling-inn-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FurusatoTaxPage() {
           <span className="inline-block px-4 py-1.5 rounded-full text-xs md:text-sm font-black bg-gradient-to-r from-amber-500 to-yellow-400 text-slate-950 mb-5 shadow-lg shadow-amber-500/20">
             清流川床料理・避暑せせらぎ特集
           </span>
-          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">
-            清流川床料理＆避暑せせらぎ名宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">清流川床料理＆避暑せせらぎ名宿×ふるさと納税ガイド</h1>
           <p className="text-sm md:text-lg text-slate-300 leading-relaxed font-medium">
             足元を流れる清流の冷気と涼風！京都貴船の元祖川床料理、日本最後の清流四万十川の鮎尽くし、新潟岩室温泉の庭園宿を楽天ふるさと納税宿泊クーポンでお得に予約する清涼美食ガイド。
           </p>

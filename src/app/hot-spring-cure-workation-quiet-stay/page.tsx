@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hot-spring-cure-workation-quiet-stay/" },
-  title: "【静寂の長期滞在＆温泉ワーケーション宿】高速Wi-Fi・書斎デスク＆美肌湯 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "静寂の長期滞在＆温泉ワーケーション宿：高速Wi-Fi・書斎デスク＆美肌湯 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "働きながら心身をととのえる現代のリトリートステイ完全特化！高速Wi-Fi完備、集中できる書斎デスク、24時間温泉入浴、疲労回復サウナ、キッチン付きコンドミニアム・長期連泊優待プランを徹底解説。",
   keywords: ["静寂の長期滞在", "温泉ワーケーション宿", "高速Wi-Fi", "書斎デスク", "美肌湯", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function WellnessRetreatHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             HEALTH & WORKATION RETREAT GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【静寂の長期滞在＆温泉ワーケーション宿】高速Wi-Fi・書斎デスク＆美肌湯 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「静寂の長期滞在＆温泉ワーケーション宿」高速Wi-Fi・書斎デスク＆美肌湯 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             PCを開けば最高の執筆環境、顔を上げれば広がる山の緑「温泉ワーケーション＆静寂の長期滞在」。集中した仕事の合間に名湯で頭をリフレッシュ。地元の旬菜を味わい、オンとオフを極上のバランスで調和させる新しい旅の形。
           </p>

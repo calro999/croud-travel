@@ -6,14 +6,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月山形】羽黒山「国宝五重塔」雪景色と酒田山居倉庫！名宿5選',
+  title: '11・12・1月山形：羽黒山「国宝五重塔」雪景色と酒田山居倉庫！名宿5選',
   description: '霊峰月山・鳥海山を仰ぐ山形県庄内地方の11〜1月冬紀行。白銀の老杉回廊に佇む羽黒山「国宝五重塔」と出羽三山神社新春初詣。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '羽黒山 五重塔 雪景色, 酒田 山居倉庫 冬, 寒鱈どんがら汁 庄内, 湯野浜温泉 冬, あつみ温泉 たちばなや, 萬国屋, 鶴岡 冬観光, 出羽三山 初詣',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamagata-shonai-hagurosan-sakata-kandarajiru-yunohama-onsen-stay/"
   },
   openGraph: {
-    title: '【11・12・1月山形】羽黒山「国宝五重塔」雪景色と酒田山居倉庫！名宿5選',
+    title: '11・12・1月山形：羽黒山「国宝五重塔」雪景色と酒田山居倉庫！名宿5選',
     description: '霊峰月山・鳥海山を仰ぐ山形県庄内地方の11〜1月冬紀行。白銀の老杉回廊に佇む羽黒山「国宝五重塔」と出羽三山神社新春初詣。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-yamagata-shonai-hagurosan-sakata-kandarajiru-yunohama-onsen-stay',
     type: 'article',
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月山形】羽黒山「国宝五重塔」雪景色と酒田山居倉庫！冬名物「寒鱈どんがら汁」・日本海寒魚＆湯野浜・あつみ温泉名宿5選",
+    title: "11・12・1月山形：羽黒山「国宝五重塔」雪景色と酒田山居倉庫！冬名物「寒鱈どんがら汁」・日本海寒魚＆湯野浜・あつみ温泉名宿5選",
     description: "霊峰月山・鳥海山を仰ぐ山形県庄内地方の11〜1月冬紀行。白銀の老杉回廊に佇む羽黒山「国宝五重塔」と出羽三山神社新春初詣、明治の面影を留める酒田「山居倉庫」の雪ケヤキ並木。日本海の猛烈な地吹雪と寒波が育む冬の至宝「寒鱈どんがら汁（寒鱈汁）」の濃厚な肝と白子、庄内浜の寒ヒラメ・のどぐろ、山形牛。名湯・湯野浜温泉やあつみ温泉で雪見風呂を満喫する厳選名宿5選を徹底解説します。",
     images: ['https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -281,10 +281,7 @@ export default function YamagataShonaiWinterPage() {
             <Snowflake className="w-4 h-4 text-teal-300" />
             <span>東北・山形 庄内平野 冬の特別紀行（11月・12月・1月）</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 font-journal-serif">
-            羽黒山「国宝五重塔」雪景色と酒田山居倉庫の冬静寂<br className="hidden md:inline" />
-            冬名物「寒鱈どんがら汁」・日本海寒魚＆湯野浜・あつみ温泉名宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 font-journal-serif">羽黒山「国宝五重塔」雪景色と酒田山居倉庫の冬静寂<br className="hidden md:inline" /> 冬名物「寒鱈どんがら汁」・日本海寒魚＆湯野浜・あつみ温泉名宿5選</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mb-6">
             霊峰月山・羽黒山・湯殿山の出羽三山と、鳥海山に抱かれた山形県庄内地方。数百年を数える老杉並木に白雪が降り積もり、凛然と聳える羽黒山「国宝五重塔」の神秘。北前船の歴史を今に伝える酒田「山居倉庫」の雪ケヤキ並木。そして日本海の猛烈な寒波に揉まれた真鱈を骨も肝も丸ごと煮込む冬の至宝「寒鱈どんがら汁」。名湯・湯野浜温泉やあつみ温泉の湯煙とともに、心洗われるみちのくの冬を巡ります。
           </p>

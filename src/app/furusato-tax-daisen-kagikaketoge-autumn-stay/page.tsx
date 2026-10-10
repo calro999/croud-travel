@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            霊峰大山「鍵掛峠」ブナ樹海の圧巻紅葉＆皆生温泉・11月解禁本場「松葉がに」と大山黒牛
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">霊峰大山「鍵掛峠」ブナ樹海の圧巻紅葉＆皆生温泉・11月解禁本場「松葉がに」と大山黒牛</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             大山南壁に広がる黄金と深紅のブナの海。皆生温泉の海辺露天と解禁されたばかりの極上松葉がにに酔いしれる。
           </p>

@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '日本三大天満宮＆学問の神様・合格祈願と梅香る門前町宿×ふるさと納税完全ガイド【2026年最新】太宰府・北野・防府',
+  title: '日本三大天満宮＆学問の神様・合格祈願と梅香る門前町宿×ふるさと納税厳選ガイド太宰府・北野・防府',
   description: '学問の神様・菅原道真公を祀る全国天満宮の総本山・三大聖地「日本三大天満宮」（福岡・太宰府天満宮、京都・北野天満宮、山口・防府天満宮）。受験合格・学業成就・厄除け祈願とともに、千本を超える梅の名所と歴史ある門前町を散策。楽天ふるさと納税トラベルクーポンで実質2,000円負担で泊まるおすすめ名門宿完全ガイド。',
   keywords: ["日本三大天満宮", "学問の神様", "2026年最新", "太宰府", "北野", "防府", "温泉宿"],
   alternates: { canonical: baseUrl + '/furusato-tax-three-great-tenmangu-shrines-academic-stay/' },
   openGraph: {
-    title: '日本三大天満宮＆学問の神様・合格祈願と梅香る門前町宿×ふるさと納税完全ガイド【2026年最新】太宰府・北野・防府',
+    title: '日本三大天満宮＆学問の神様・合格祈願と梅香る門前町宿×ふるさと納税厳選ガイド太宰府・北野・防府',
     description: '学問の神様・菅原道真公を祀る全国天満宮の総本山・三大聖地「日本三大天満宮」（福岡・太宰府天満宮、京都・北野天満宮、山口・防府天満宮）。受験合格・学業成就・厄除け祈願とともに、千本を超える梅の名所と歴史ある門前町を散策。楽天ふるさと納税トラベルクーポンで実質2,000円負担で泊まるおすすめ名門宿完全ガイド。',
     url: baseUrl + '/furusato-tax-three-great-tenmangu-shrines-academic-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoRound63ArticlePage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             日本三大天満宮・学問成就門前町ステイ特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            日本三大天満宮＆学問の神様・合格祈願と梅香る門前町宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">日本三大天満宮＆学問の神様・合格祈願と梅香る門前町宿</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             平安時代、卓越した学識と高潔な人格で右大臣まで登り詰めながらも非運の流罪となり、のちに天神様・学問の神様として日本中で崇敬を集めた菅原道真公。全国約1万2000社に及ぶ天神信仰の頂点に立つのが「日本三大天満宮」です。道真公の御墓所の上に創建され御神木「飛梅」で名高い福岡・太宰府天満宮、都の北野に鎮座し国宝本殿や毎月25日の天神市で賑わう京都・北野天満宮、そして道真公が西下途中に立ち寄り日本で最初に創建されたとされる山口・防府天満宮。境内を彩る紅白の梅の花の芳香に包まれ、家族の合格祈願や自身の資格取得・キャリアアップを祈願した後は、門前町の歴史名旅館や格式あるクラシックホテルで滋味あふれる郷土会席と名湯を味わう時間。楽天ふるさと納税の宿泊割引クーポンを活用すれば、有効期限3年のゆとりを活かして、実質自己負担わずか2,000円で心洗われる天神巡礼の旅が叶います。
           </p>

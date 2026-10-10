@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-roof-tile-towns-stay/" },
-  title: '日本三大瓦の町＆美しいいぶし銀の街並み・赤瓦景観と名湯美食宿×ふるさと納税完全ガイド【2026年最新】淡路瓦・三州瓦・石州瓦',
+  title: '日本三大瓦の町＆美しいいぶし銀の街並み・赤瓦景観と名湯美食宿×ふるさと納税厳選ガイド淡路瓦・三州瓦・石州瓦',
   description: '日本の屋根を守り抜いた匠の技と伝統の景観！兵庫「淡路瓦」いぶし銀の風情と淡路牛・あわかん釣りと家族の体験型旅館、愛知「三州瓦」日本一の瓦産地・刈谷エースイン刈谷、島根「石州瓦」日本海の夕日に輝く赤瓦の町並みとMASCOS HOTEL。日本三大瓦の町を巡る工芸と美食の旅を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大瓦の町・伝統窯元特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大瓦の町＆美しいいぶし銀の街並み・赤瓦景観と名湯美食宿×ふるさと納税完全ガイド【2026年最新】淡路瓦・三州瓦・石州瓦',
+    title: '日本三大瓦の町＆美しいいぶし銀の街並み・赤瓦景観と名湯美食宿×ふるさと納税厳選ガイド淡路瓦・三州瓦・石州瓦',
     description: '日本の屋根を守り抜いた匠の技と伝統の景観！兵庫「淡路瓦」いぶし銀の風情と淡路牛・あわかん釣りと家族の体験型旅館、愛知「三州瓦」日本一の瓦産地・刈谷エースイン刈谷、島根「石州瓦」日本海の夕日に輝く赤瓦の町並みとMASCOS HOTEL。日本三大瓦の町を巡る工芸と美食の旅を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-roof-tile-towns-stay',
@@ -158,9 +158,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大瓦の町・伝統窯元特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大瓦の町＆伝統美・窯元めぐり宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大瓦の町＆伝統美・窯元めぐり宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             台風や豪雪、塩害など厳しい日本の気候風土から家々を守り、独特の街並み景観を生み出してきた「日本三大瓦（日本三大瓦産地）」――400年の歴史を誇りキメ細やかな粘土で焼かれる美しいいぶし銀の輝きが特徴の兵庫の「淡路瓦」、三河湾の良質な土と一大窯業地帯として日本一の生産シェアを誇る愛知高浜の「三州瓦」、そして来待釉薬を使って約1300度の高温で焼かれ日本海の夕日に映える独特の赤褐色が美しい島根石見の「石州瓦」。瓦粘土を使った体験工房や歴史ある窯元の小路を散策すれば、伝統工芸の奥深さと職人たちの誇りが伝わってきます。瓦の町周辺の温泉宿を拠点に、淡路島名物の淡路牛や鯛料理、三河湾の海の幸、山陰の日本海鮮魚を堪能する旅を楽天ふるさと納税でお楽しみください。
           </p>

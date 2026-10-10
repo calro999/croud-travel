@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagasaki-unzen-onsen-hell-stay/" },
-  title: "【長崎・雲仙温泉】雲仙地獄の湯けむり＆白濁硫黄泉・レトロ洋館宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "長崎・雲仙温泉：雲仙地獄の湯けむり＆白濁硫黄泉・レトロ洋館宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "長崎・雲仙天草国立公園エリア完全特化！もうもうと白煙が上がる「雲仙地獄」、日本最初の国立公園のクラシックホテル、濃厚な白濁硫黄泉、名物雲仙温泉レモネードと長崎和牛・島原郷土料理旅館を徹底解説。",
   keywords: ["長崎", "雲仙温泉", "雲仙地獄の湯けむり", "白濁硫黄泉", "レトロ洋館宿", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             UNZEN JIGOKU MICRO GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【長崎・雲仙温泉】雲仙地獄の湯けむり＆白濁硫黄泉・レトロ洋館宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「長崎・雲仙温泉」雲仙地獄の湯けむり＆白濁硫黄泉・レトロ洋館宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             標高700mの高原に広がるキリシタン哀史の地「雲仙地獄」。ゴウゴウと噴き出す白煙と硫黄の香り。明治時代に外国人の避暑地として開かれたクラシックな洋館リゾートと、極上の白濁湯に浸る休日。
           </p>

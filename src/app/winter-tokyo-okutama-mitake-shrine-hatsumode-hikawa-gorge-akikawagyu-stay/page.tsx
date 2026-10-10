@@ -6,14 +6,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月東京】天空の古社「武蔵御嶽神社」新！名宿5選',
+  title: '11・12・1月東京：天空の古社「武蔵御嶽神社」新！名宿5選',
   description: '都心から電車でわずか約90〜120分、東京都とは思えない大自然と霊峰が広がる奥多摩・青梅の11〜1月冬紀行。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '武蔵御嶽神社 初詣, 御岳山 冬, 氷川渓谷, 鳩ノ巣渓谷, 奥多摩わさび, 秋川牛, 奥多摩の風 はとのす荘, 亀の井ホテル 青梅, おくたま路, 瀬音の湯, 奥多摩温泉 宿泊',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-tokyo-okutama-mitake-shrine-hatsumode-hikawa-gorge-akikawagyu-stay'
   },
   openGraph: {
-    title: '【11・12・1月東京】天空の古社「武蔵御嶽神社」新！名宿5選',
+    title: '11・12・1月東京：天空の古社「武蔵御嶽神社」新！名宿5選',
     description: '都心から電車でわずか約90〜120分、東京都とは思えない大自然と霊峰が広がる奥多摩・青梅の11〜1月冬紀行。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-tokyo-okutama-mitake-shrine-hatsumode-hikawa-gorge-akikawagyu-stay',
     type: 'article',
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月東京】天空の古社「武蔵御嶽神社」新春初詣と氷川渓谷の冬静寂！奥多摩わさび＆幻の極上「秋川牛」会席と清流名湯宿5選",
+    title: "11・12・1月東京：天空の古社「武蔵御嶽神社」新春初詣と氷川渓谷の冬静寂！奥多摩わさび＆幻の極上「秋川牛」会席と清流名湯宿5選",
     description: "都心から電車でわずか約90〜120分、東京都とは思えない大自然と霊峰が広がる奥多摩・青梅の11〜1月冬紀行。標高929mの御岳山山頂に鎮座し「おいぬ様（狼）」を祀る天空の古社「武蔵御嶽神社」で迎える厳粛な新春初詣、エメラルドグリーンの多摩川と奇岩が雪化粧をまとう氷川渓谷・鳩ノ巣渓谷の冬静寂。清流仕込みの「奥多摩生わさび」や名酒「澤乃井」の新酒、都内唯一の幻のブランド黒毛和牛「秋川牛」の極上会席。冷えた身体を芯から解きほぐす清流の美肌温泉と隠れ家宿5選を徹底解説。",
     images: ['https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -281,10 +281,7 @@ export default function TokyoOkutamaWinterPage() {
             <Snowflake className="w-4 h-4 text-emerald-300" />
             <span>関東・東京 多摩・奥武蔵 冬の特別紀行（11月・12月・1月）</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 font-journal-serif">
-            天空の古社「武蔵御嶽神社」新春初詣と氷川渓谷の冬静寂<br className="hidden md:inline" />
-            奥多摩わさび＆幻の極上「秋川牛」会席と清流名湯宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 font-journal-serif">天空の古社「武蔵御嶽神社」新春初詣と氷川渓谷の冬静寂<br className="hidden md:inline" /> 奥多摩わさび＆幻の極上「秋川牛」会席と清流名湯宿5選</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mb-6">
             新宿駅から電車でわずか約90〜120分、東京都内とは思えない深山幽谷が広がる奥多摩・青梅エリア。標高929mの霊峰・御岳山山頂に鎮座し「おいぬ様」を守護神と崇める武蔵御嶽神社で迎える厳かな新春初詣、エメラルドグリーンの多摩川と巨岩が雪化粧をまとう氷川渓谷・鳩ノ巣渓谷の静謐な絶景。多摩源流の清冽な名水が育む「奥多摩生わさび」や名酒「澤乃井」の搾りたて新酒、都内唯一の幻のブランド黒毛和牛「秋川牛」の極上会席。冷えた心身を解きほぐす清流の美肌温泉と、大人の冬籠りにふさわしい厳選名宿へご案内します。
           </p>

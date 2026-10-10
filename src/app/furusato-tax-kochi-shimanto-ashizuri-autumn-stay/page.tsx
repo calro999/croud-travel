@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            高知・日本最後の清流 四万十川と足摺岬！太平洋パノラマ絶景温泉＆戻り鰹タタキ・天然鮎
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">高知・日本最後の清流 四万十川と足摺岬！太平洋パノラマ絶景温泉＆戻り鰹タタキ・天然鮎</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の高知・四万十＆足摺岬特集！沈下橋が架かる日本最後の清流・四万十川の秋景色と屋形船クルーズ、270度の大海原が広がる足摺岬のパノラマ絶景、あしずり温泉郷の露天風呂、脂が乗った絶品の戻り鰹の塩タタキや四万十天然鮎をふるさと納税トラベルで楽しむ南国土佐の旅。
           </p>

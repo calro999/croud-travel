@@ -42,9 +42,7 @@ export default function Page() {
             <span className="inline-block w-2 h-2 rounded-full bg-rose-400 animate-pulse" />
             日本三奇橋・建築と渓谷美特集
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">
-            日本三奇橋＆スリル満点の名橋・渓谷宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三奇橋＆スリル満点の名橋・渓谷宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg md:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed font-normal">
             先人たちの驚異的な木造建築美！山口「錦帯橋」五連の木造アーチ橋とアパホテル山口岩国駅前西、山梨「甲斐の猿橋」橋脚を使わない刎橋構造と石和温泉ホテル平安、徳島「祖谷のかずら橋」足元が透けるスリルと秘境の新祖谷温泉ホテルかずら橋。日本三奇橋の絶景と渓谷美を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。
           </p>

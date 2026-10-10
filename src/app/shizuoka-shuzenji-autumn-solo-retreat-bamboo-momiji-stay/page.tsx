@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/shizuoka-shuzenji-autumn-solo-retreat-bamboo-momiji-stay/" },
-  title: '【10月・11月秋の伊豆修善寺温泉ひとり旅・竹林の小径と修善寺自然公園もみじ林おこもり】桂川のせせらぎ・伊豆最古の美肌湯・伊豆旬会席！小京都リトリート厳選3宿',
+  title: '・11月秋の伊豆修善寺温泉ひとり旅・竹林の小径と修善寺自然公園もみじ林おこもりで過ごす冬の旅（10月）！桂川のせせらぎ・伊豆最古の美肌湯・伊豆旬会席！小京都リトリート厳選3宿',
   description: '11月中旬〜12月上旬は伊豆随一の紅葉名所！桂川沿いに風情ある温泉街が広がる伊豆の小京都・修善寺。貸切露天風呂や最上階展望風呂で楽天口コミ★4.43を誇る「瑞の里 〇久旅館」、数寄屋造りと本格庭園でミシュラン級の評価を受ける最高峰の宿「柳生の庄」、数室限定のプライベート極上ステイ「離れ宿 鬼の栖」を楽天API最新データに基づき徹底比較。',
   keywords: '修善寺温泉 一人旅 宿,修善寺 10月 11月 紅葉 温泉,瑞の里 〇久旅館 一人旅,柳生の庄,鬼の栖,修善寺 竹林の小径 一人旅 おこもり',
   openGraph: {
-    title: '【10月・11月秋の伊豆修善寺温泉ひとり旅・竹林の小径と修善寺自然公園もみじ林おこもり】桂川のせせらぎ・伊豆最古の美肌湯・伊豆旬会席！小京都リトリート厳選3宿',
+    title: '・11月秋の伊豆修善寺温泉ひとり旅・竹林の小径と修善寺自然公園もみじ林おこもりで過ごす冬の旅（10月）！桂川のせせらぎ・伊豆最古の美肌湯・伊豆旬会席！小京都リトリート厳選3宿',
     description: '11月中旬〜12月上旬は伊豆随一の紅葉名所！桂川沿いに風情ある温泉街が広がる伊豆の小京都・修善寺。貸切露天風呂や最上階展望風呂で楽天口コミ★4.43を誇る「瑞の里 〇久旅館」、数寄屋造りと本格庭園でミシュラン級の評価を受ける最高峰の宿「柳生の庄」、数室限定のプライベート極上ステイ「離れ宿 鬼の栖」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/shizuoka-shuzenji-autumn-solo-retreat-bamboo-momiji-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【10月・11月秋の伊豆修善寺温泉ひとり旅・竹林の小径と修善寺自然公園もみじ林おこもり】桂川のせせらぎ・伊豆最古の美肌湯・伊豆旬会席！小京都リトリート厳選3宿',
+    headline: '・11月秋の伊豆修善寺温泉ひとり旅・竹林の小径と修善寺自然公園もみじ林おこもりで過ごす冬の旅（10月）！桂川のせせらぎ・伊豆最古の美肌湯・伊豆旬会席！小京都リトリート厳選3宿',
     description: '11月中旬〜12月上旬は伊豆随一の紅葉名所！桂川沿いに風情ある温泉街が広がる伊豆の小京都・修善寺。貸切露天風呂や最上階展望風呂で楽天口コミ★4.43を誇る「瑞の里 〇久旅館」、数寄屋造りと本格庭園でミシュラン級の評価を受ける最高峰の宿「柳生の庄」、数室限定のプライベート極上ステイ「離れ宿 鬼の栖」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             伊豆修善寺・10-11月秋のもみじ林＆竹林の小径ひとり旅おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【10月・11月秋の伊豆修善寺温泉ひとり旅・竹林の小径と修善寺自然公園もみじ林おこもり】桂川のせせらぎ・伊豆最古の美肌湯・伊豆旬会席！小京都リトリート厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">・11月秋の伊豆修善寺温泉ひとり旅・竹林の小径と修善寺自然公園もみじ林おこもりで過ごす冬の旅（10月）！桂川のせせらぎ・伊豆最古の美肌湯・伊豆旬会席！小京都リトリート厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

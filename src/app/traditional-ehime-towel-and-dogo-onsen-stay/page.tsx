@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】ふんわり極上の肌触り！今治タオルアメニティ＆日本最古の名湯・道後温泉の宿5選 | 日本全国・旅宿クラウド',
+  title: '2026年：ふんわり極上の肌触り！今治タオルアメニティ＆日本最古の名湯・道後温泉の宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！世界に誇る「今治最高級タオル」を完備！三千年の歴史を持つ道後温泉本館散策と瀬戸内鯛めし会席を贅沢に愉しむ愛媛の名旅館5選。',
   keywords: ["2026年", "日本最古の名湯", "道後温泉の宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: '【2026年】ふんわり極上の肌触り！今治タオルアメニティ＆日本最古の名湯・道後温泉の宿5選',
+    title: '2026年：ふんわり極上の肌触り！今治タオルアメニティ＆日本最古の名湯・道後温泉の宿5選',
     description: '2026年最新！世界に誇る「今治最高級タオル」を完備！三千年の歴史を持つ道後温泉本館散策と瀬戸内鯛めし会席を贅沢に愉しむ愛媛の名旅館5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/traditional-ehime-towel-and-dogo-onsen-stay',
@@ -193,9 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> 今治プレミアムタオル×道後温泉名湯
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】ふんわり極上の肌触り！今治タオルアメニティ＆日本最古の名湯・道後温泉の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」ふんわり極上の肌触り！今治タオルアメニティ＆日本最古の名湯・道後温泉の宿5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             一度使うと虜になる、極上の吸水性とふんわりとした柔らかさを誇る「今治タオル」。厳選されたタオルアメニティに包まれ、三千年の歴史を刻む道後温泉の名湯と、来島海峡の真鯛を使った名物鯛めし会席を味わう至福の愛媛ステイ。
           </p>

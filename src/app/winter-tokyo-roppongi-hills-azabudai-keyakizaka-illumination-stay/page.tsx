@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月東京】六本木けやき坂イルミネーション！名宿5選',
+  title: '11・12・1月東京：六本木けやき坂イルミネーション！名宿5選',
   description: '冬の東京の代名詞・六本木けやき坂を彩る約80万球のLED「SNOW & BLUE」と、正面にそびえる真紅の東京タワー。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '六本木 ホテル, けやき坂 イルミネーション, 東京タワー 夜景 ホテル, グランドハイアット東京, ザ リッツ カールトン東京, アンダーズ東京, ザ プリンス パークタワー東京, 麻布台ヒルズ クリスマス, 11月 12月 1月 東京 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tokyo-roppongi-hills-azabudai-keyakizaka-illumination-stay/"
   },
   openGraph: {
-    title: '【11・12・1月東京】六本木けやき坂イルミネーション！名宿5選',
+    title: '11・12・1月東京：六本木けやき坂イルミネーション！名宿5選',
     description: '冬の東京の代名詞・六本木けやき坂を彩る約80万球のLED「SNOW & BLUE」と、正面にそびえる真紅の東京タワー。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-tokyo-roppongi-hills-azabudai-keyakizaka-illumination-stay',
     siteName: '地域の宿探訪',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月東京】六本木けやき坂イルミネーション＆麻布台ヒルズ！東京タワー冬夜景と美食に酔いしれるラグジュアリーホテル5選",
+    title: "11・12・1月東京：六本木けやき坂イルミネーション＆麻布台ヒルズ！東京タワー冬夜景と美食に酔いしれるラグジュアリーホテル5選",
     description: "冬の東京の代名詞・六本木けやき坂を彩る約80万球のLED「SNOW & BLUE」と、正面にそびえる真紅の東京タワー。さらに東京ミッドタウンの幻想的な光の広場、注目の麻布台ヒルズの華やかなクリスマスマーケットが揃い踏みする11月・12月・1月。地上200mの天空ラウンジや客室バルコニーから大パノラマの冬夜景を独占し、世界最高峰のミシュラン美食に酔いしれる極上の都心ホテルステイ。楽天APIから最新取得した六本木・赤坂・虎ノ門・芝公園の最高峰ラグジュアリーホテル5選を徹底特集します。",
     images: ["https://img.travel.rakuten.co.jp/share/HOTEL/180552/180552.jpg"]
   }
@@ -232,10 +232,7 @@ export default function TokyoRoppongiAzabudaiWinterPage() {
             <span>11月・12月・1月冬の東京都心ラグジュアリー特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">
-            六本木けやき坂イルミネーション＆麻布台ヒルズ！<br className="hidden sm:inline" />
-            東京タワー冬夜景と美食に酔いしれる名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">六本木けやき坂イルミネーション＆麻布台ヒルズ！<br className="hidden sm:inline" /> 東京タワー冬夜景と美食に酔いしれる名宿5選</h1>
 
           <p className="text-slate-300 text-sm sm:text-base lg:text-lg leading-relaxed max-w-3xl mb-8">
             澄み渡る冬の夜空に浮かび上がる約80万球のLED並木道「SNOW & BLUE」と、温かな光を放つ東京タワーの奇跡の重なり。東京ミッドタウンの幻想的なスケートリンク、話題の麻布台ヒルズのクリスマスマーケットを巡り、天空のラグジュアリーホテルで極上の美食と東京夜景に浸る大人の冬旅をお届けします。

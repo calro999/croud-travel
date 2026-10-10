@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/niigata-echigo-yuzawa-snow-sake-stay/" },
-  title: "【新潟・越後湯沢＆魚沼】川端康成雪国・ぽんしゅ館利き酒＆魚沼産コシヒカリ極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "新潟・越後湯沢＆魚沼：川端康成雪国・ぽんしゅ館利き酒＆魚沼産コシヒカリ極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "川端康成『雪国』の舞台・新潟越後湯沢＆南魚沼エリア完全特化！新幹線駅直結「ぽんしゅ館」の県内全蔵元利き酒＆酒風呂、日本一の「魚沼産コシヒカリ」釜炊きご飯、冬のスノーリゾート、秋のドラゴンドラ紅葉宿を徹底解説。",
   keywords: ["新潟", "越後湯沢", "魚沼", "川端康成雪国", "ぽんしゅ館利き酒", "魚沼産コシヒカリ極上宿", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             ECHIGO YUZAWA SAKE & SNOW GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【新潟・越後湯沢＆魚沼】川端康成雪国・ぽんしゅ館利き酒＆魚沼産コシヒカリ極上宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「新潟・越後湯沢＆魚沼」川端康成雪国・ぽんしゅ館利き酒＆魚沼産コシヒカリ極上宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             「国境の長いトンネルを抜けると雪国であった。」。川端康成の名作『雪国』が生まれた歴史ある湯治場「越後湯沢温泉」。越後全蔵の銘酒を味わうぽんしゅ館、炊きたて魚沼産コシヒカリの甘み、極上の雪見露天風呂へ。
           </p>

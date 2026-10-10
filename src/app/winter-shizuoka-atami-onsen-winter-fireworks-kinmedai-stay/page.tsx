@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月熱海温泉】インフィニティ温泉と極上金目鯛姿煮！名宿5選',
+  title: '熱海温泉で過ごす冬の旅（11・12月）！インフィニティ温泉と極上金目鯛姿煮！名宿5選',
   description: '11月から12月にかけて澄み切った冬の夜空に大輪の花火が咲き誇る伝統の「熱海海上花火大会」と、都心から新幹線で最速35分の名湯「熱海温泉」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '熱海温泉 宿泊, 熱海 11月 12月, 熱海後楽園ホテル, 古屋旅館, ホテルニューアカオ, 熱海パールスターホテル, 秀花園湯の花膳, 熱海海上花火大会 冬, インフィニティ露天風呂, 金目鯛姿煮, 熱海 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay/",
   },
   openGraph: {
-    title: '【11・12月熱海温泉】インフィニティ温泉と極上金目鯛姿煮！名宿5選',
+    title: '熱海温泉で過ごす冬の旅（11・12月）！インフィニティ温泉と極上金目鯛姿煮！名宿5選',
     description: '11月から12月にかけて澄み切った冬の夜空に大輪の花火が咲き誇る伝統の「熱海海上花火大会」と、都心から新幹線で最速35分の名湯「熱海温泉」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月熱海温泉の冬花火と相模湾絶景露天】澄み渡る夜空の初冬海上花火・インフィニティ温泉と極上金目鯛姿煮＆伊豆美味会席の宿5選",
+    title: "熱海温泉の冬花火と相模湾絶景露天で過ごす冬の旅（11・12月）！澄み渡る夜空の初冬海上花火・インフィニティ温泉と極上金目鯛姿煮＆伊豆美味会席の宿5選",
     description: "11月から12月にかけて澄み切った冬の夜空に大輪の花火が咲き誇る伝統の「熱海海上花火大会」と、都心から新幹線で最速35分の名湯「熱海温泉」。すり鉢状の熱海湾に響き渡る花火の轟音を客室や露天風呂から間近に体感できる贅沢なロケーション。相模湾を一望する絶景インフィニティ露天風呂、徳川家康公も愛した名湯、脂の乗った伊豆名物「金目鯛の姿煮」や新鮮な鮑・伊勢海老会席を満喫する厳選名宿5選を徹底解説。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80'],
   }
@@ -298,10 +298,7 @@ export default function AtamiOnsenWinterPage() {
             <Sparkles className="w-4 h-4 text-cyan-300" />
             <span>11月・12月限定 澄み渡る冬夜空の熱海海上花火大会と相模湾インフィニティ露天</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月熱海温泉の冬花火と相模湾絶景露天】<br className="hidden sm:inline" />
-            澄み渡る夜空の初冬海上花火・インフィニティ温泉と極上金目鯛姿煮＆伊豆美味会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">熱海温泉の冬花火と相模湾絶景露天で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 澄み渡る夜空の初冬海上花火・インフィニティ温泉と極上金目鯛姿煮＆伊豆美味会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-slate-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             都心から新幹線で最速35分。澄み切った初冬の夜空を焦がす熱海海上花火の轟音、相模湾の水平線と溶け合うインフィニティ露天風呂、脂が乗った名物「金目鯛の姿煮」と新鮮な鮑を堪能する極上ステイ。
           </p>

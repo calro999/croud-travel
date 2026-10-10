@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            北海道・阿寒湖温泉と釧路湿原の秋！マリモの森紅葉クルーズ＆鶴雅リゾート極上ビュッフェ
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">北海道・阿寒湖温泉と釧路湿原の秋！マリモの森紅葉クルーズ＆鶴雅リゾート極上ビュッフェ</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の北海道・釧路＆阿寒湖特集！国の特別天然記念物マリモが育つ阿寒湖の秋遊覧船クルーズと雄阿寒岳・雌阿寒岳の紅葉、アイヌコタンの伝統文化、阿寒湖温泉・鶴雅リゾートの多彩な湯処と秋鮭・蝦夷鹿・道東の海の幸をふるさと納税トラベルでお得に満喫する大自然の旅。
           </p>

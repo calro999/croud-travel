@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-sake-vessels-pottery-stay/" },
-  title: '日本三大酒器＆銘酒を引き立てる名陶の里・窯元巡りと美食名宿×ふるさと納税完全ガイド【2026年最新】備前・萩・唐津',
+  title: '日本三大酒器＆銘酒を引き立てる名陶の里・窯元巡りと美食名宿×ふるさと納税厳選ガイド備前・萩・唐津',
   description: '酒器ひとつで日本酒の味わいが劇的に変わる！岡山「備前焼」釉薬を使わず土と炎の窯変が酒をまろやかにする赤穂温泉銀波荘、山口「萩焼」茶陶の伝統を受け継ぎ使い込むほどに育つ萩温泉郷萩小町、佐賀「唐津焼」料理と美酒を引き立てる土の温もり・純和風の老舗洋々閣。窯元散策やぐい呑み選び、地酒ペアリング会席ディナーを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大酒器・伝統陶芸特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大酒器＆銘酒を引き立てる名陶の里・窯元巡りと美食名宿×ふるさと納税完全ガイド【2026年最新】備前・萩・唐津',
+    title: '日本三大酒器＆銘酒を引き立てる名陶の里・窯元巡りと美食名宿×ふるさと納税厳選ガイド備前・萩・唐津',
     description: '酒器ひとつで日本酒の味わいが劇的に変わる！岡山「備前焼」釉薬を使わず土と炎の窯変が酒をまろやかにする赤穂温泉銀波荘、山口「萩焼」茶陶の伝統を受け継ぎ使い込むほどに育つ萩温泉郷萩小町、佐賀「唐津焼」料理と美酒を引き立てる土の温もり・純和風の老舗洋々閣。窯元散策やぐい呑み選び、地酒ペアリング会席ディナーを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-sake-vessels-pottery-stay',
@@ -154,9 +154,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大酒器・伝統陶芸特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大酒器＆名陶の窯元巡り・美酒と美食の名宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大酒器＆名陶の窯元巡り・美酒と美食の名宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             酒器の素材や肌触り、口当たりによって日本酒の風味は驚くほど変化します。古来より「一楽二萩三唐津」、そして「酒器なら備前」と愛され続けてきた「日本の三大酒器・名陶の郷」――無釉焼き締めによる微細な気孔が酒の角を取りきめ細やかな泡立ちとまろやかさを生む岡山の「備前焼（伊部）」、ふんわりとした柔らかな土味と使い込むほどに茶渋や酒が染み込み色合いを変える「萩の七化け」で名高い山口の「萩焼」、そして飾らない素朴な土感と力強い絵唐津・朝鮮唐津が料理と美酒を最高に引き立てる佐賀の「唐津焼」。登り窯が並ぶ窯元小路を歩いてお気に入りの器と出会い、新鮮な海の幸と極上の地酒ペアリングを満喫する大人の旅を楽天ふるさと納税でお楽しみください。
           </p>

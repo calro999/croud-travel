@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '雨の日も冬も年中泳げる！室内温水プール＆子ども向け設備充実の大型温泉リゾート×ふるさと納税完全ガイド【2026年最新】那須・草津・別府',
+  title: '雨の日も冬も年中泳げる！室内温水プール＆子ども向け設備充実の大型温泉リゾート×ふるさと納税厳選ガイド那須・草津・別府',
   description: '天候や季節を気にせず一年中水遊びを満喫！子ども用浅瀬プールやウォータースライダー、キッズパーク、託児所、大浴場温泉、豪華ファミリーバイキング完備。「ホテルエピナール那須」「草津温泉 ホテルヴィレッジ」「別府温泉 杉乃井ホテル」を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
   keywords: ["2026年最新", "那須", "草津", "別府", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-indoor-pool-kids-family-resort-stay/",
   },
   openGraph: {
-    title: '雨の日も冬も年中泳げる！室内温水プール＆子ども向け設備充実の大型温泉リゾート×ふるさと納税完全ガイド【2026年最新】那須・草津・別府',
+    title: '雨の日も冬も年中泳げる！室内温水プール＆子ども向け設備充実の大型温泉リゾート×ふるさと納税厳選ガイド那須・草津・別府',
     description: '天候や季節を気にせず一年中水遊びを満喫！子ども用浅瀬プールやウォータースライダー、キッズパーク、託児所、大浴場温泉、豪華ファミリーバイキング完備。「ホテルエピナール那須」「草津温泉 ホテルヴィレッジ」「別府温泉 杉乃井ホテル」を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-indoor-pool-kids-family-resort-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoIndoorPoolKidsFamilyStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           ファミリー大絶賛！年中泳げる室内プール宿特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          雨の日も冬も年中泳げる！室内温水プール＆子ども向け設備充実の大型温泉リゾート×ふるさと納税完全ガイド【2026年最新】那須・草津・別府
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">雨の日も冬も年中泳げる！室内温水プール＆子ども向け設備充実の大型温泉リゾート×ふるさと納税厳選ガイド那須・草津・別府</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoIndoorPoolKidsFamilyStayPage() {
               地元の旬菜にこだわる食事＆施設充実のトップリゾート
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “バイキングと便利な設備で3回目のリピートバイキングがどれも美味しかったです。特にローストビーフと、那須牛乳を使ったバニラアイスが最高でした。また、廊下に氷とウォーターサーバーが設置してあるので… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D7335%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoIndoorPoolKidsFamilyStayPage() {
               【森と生きる温泉リゾート】森に囲まれた温泉リゾートホテル。心とからだにやすらぎを提供します。
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “バイキングは種類豊富で大満足、サウナ希望夕朝食ともバイキングが種類も豊富でたいへおいしかった。温泉にサウナを設置していただきたい。 ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D5270%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoIndoorPoolKidsFamilyStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               別府の夜空に光る星のように、心ときめく時間を過ごす新棟「星館」
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “毎年来たいホテルNo. 1初めての杉乃井ホテル仕事場の上司に勧められて来ましたが想像以上に満足できるホテルで、毎年遊びに来たいと思えるホテルです。一日中遊べて子供も大人も楽しめます。ク… ”
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

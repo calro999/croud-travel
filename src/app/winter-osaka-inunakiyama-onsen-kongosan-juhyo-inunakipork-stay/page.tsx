@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { MapPin, Calendar, ExternalLink, HelpCircle, ChevronRight, ShieldCheck, Sparkles } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【静寂の渓谷露天と金剛山樹氷】2026-2027年冬の大阪・犬鳴山温泉！犬鳴ポークと名湯宿5選 | クラウドトラベル',
+  title: '静寂の渓谷露天と金剛山樹氷：2026-2027年冬の大阪・犬鳴山温泉！犬鳴ポークと名湯宿5選 | クラウドトラベル',
   description: '都心から約50分で辿り着く大阪随一の秘境「犬鳴山温泉」と金剛山の幻想的な冬の樹氷！修験道の歴史薫る渓流露天風呂、ブランド豚「犬鳴ポーク」のしゃぶしゃぶや冬のぼたん鍋を堪能する大人の冬籠もり名宿5選。',
   keywords: ['大阪府冬旅行', '犬鳴山温泉・泉佐野・南河内', '冬温泉', '2026', '2027', '雪景色', '冬の味覚', '楽天トラベル', 'ふるさと納税'],
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-osaka-inunakiyama-onsen-kongosan-juhyo-inunakipork-stay',
   },
   openGraph: {
-    title: '【静寂の渓谷露天と金剛山樹氷】2026-2027年冬の大阪・犬鳴山温泉！犬鳴ポークと名湯宿5選',
+    title: '静寂の渓谷露天と金剛山樹氷：2026-2027年冬の大阪・犬鳴山温泉！犬鳴ポークと名湯宿5選',
     description: '都心から約50分で辿り着く大阪随一の秘境「犬鳴山温泉」と金剛山の幻想的な冬の樹氷！修験道の歴史薫る渓流露天風呂、ブランド豚「犬鳴ポーク」のしゃぶしゃぶや冬のぼたん鍋を堪能する大人の冬籠もり名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-osaka-inunakiyama-onsen-kongosan-juhyo-inunakipork-stay',
     siteName: 'クラウドトラベル',
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: '【静寂の渓谷露天と金剛山樹氷】2026-2027年冬の大阪・犬鳴山温泉！犬鳴ポークと名湯宿5選',
+    title: '静寂の渓谷露天と金剛山樹氷：2026-2027年冬の大阪・犬鳴山温泉！犬鳴ポークと名湯宿5選',
     description: '都心から約50分で辿り着く大阪随一の秘境「犬鳴山温泉」と金剛山の幻想的な冬の樹氷！修験道の歴史薫る渓流露天風呂、ブランド豚「犬鳴ポーク」のしゃぶしゃぶや冬のぼたん鍋を堪能する大人の冬籠もり名宿5選。',
   },
 };
@@ -128,9 +128,7 @@ export default function Page() {
             </span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-stone-900 leading-tight">
-            【静寂の渓谷露天と金剛山樹氷】2026-2027年冬の大阪・犬鳴山温泉！犬鳴ポークと名湯宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-stone-900 leading-tight">「静寂の渓谷露天と金剛山樹氷」2026-2027年冬の大阪・犬鳴山温泉！犬鳴ポークと名湯宿5選</h1>
 
           <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pt-1">
             都心から約50分で辿り着く大阪随一の秘境「犬鳴山温泉」と金剛山の幻想的な冬の樹氷！修験道の歴史薫る渓流露天風呂、ブランド豚「犬鳴ポーク」のしゃぶしゃぶや冬のぼたん鍋を堪能する大人の冬籠もり名宿5選。

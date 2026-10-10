@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '祖谷のかずら橋の紅葉絶景＆日本三大秘境・祖谷温泉郷！ケーブルカー露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】徳島',
+  title: '祖谷のかずら橋の紅葉絶景＆日本三大秘境・祖谷温泉郷！ケーブルカー露天風呂宿×ふるさと納税厳選ガイド徳島',
   description: '10月下旬〜11月中旬に神秘的なグラデーションに染まる日本三大秘境「徳島・祖谷渓」。スリル満点のかずら橋とV字渓谷の紅葉、谷底へケーブルカーで下る絶景露天風呂「ホテル秘境の湯」「ホテルかずら橋」「ホテル祖谷温泉」で阿波尾鶏や祖谷そば・鮎の塩焼きを堪能。ふるさと納税トラベルクーポンで実質2,000円。',
   keywords: ["祖谷のかずら橋の紅葉絶景", "日本三大秘境", "2026年最新秋旅", "徳島", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-iya-valley-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '祖谷のかずら橋の紅葉絶景＆日本三大秘境・祖谷温泉郷！ケーブルカー露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】徳島',
+    title: '祖谷のかずら橋の紅葉絶景＆日本三大秘境・祖谷温泉郷！ケーブルカー露天風呂宿×ふるさと納税厳選ガイド徳島',
     description: '10月下旬〜11月中旬に神秘的なグラデーションに染まる日本三大秘境「徳島・祖谷渓」。スリル満点のかずら橋とV字渓谷の紅葉、谷底へケーブルカーで下る絶景露天風呂「ホテル秘境の湯」「ホテルかずら橋」「ホテル祖谷温泉」で阿波尾鶏や祖谷そば・鮎の塩焼きを堪能。ふるさと納税トラベルクーポンで実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-iya-valley-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -113,9 +113,7 @@ export default function FeatureArticlePage() {
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">
-            祖谷のかずら橋の紅葉絶景＆日本三大秘境・祖谷温泉郷！ケーブルカー露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】徳島
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">祖谷のかずら橋の紅葉絶景＆日本三大秘境・祖谷温泉郷！ケーブルカー露天風呂宿×ふるさと納税厳選ガイド徳島</h1>
           <p className="text-sm md:text-lg text-stone-200 max-w-3xl mx-auto leading-relaxed">
             切り立つV字渓谷に架かるかずら橋と、ケーブルカーで降り立つ秘境源泉露天風呂。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
           </p>

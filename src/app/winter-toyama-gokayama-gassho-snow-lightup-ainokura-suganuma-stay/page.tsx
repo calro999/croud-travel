@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { MapPin, Calendar, ExternalLink, HelpCircle, ChevronRight, ShieldCheck, Sparkles } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【世界遺産五箇山合掌集落の雪景色と庄川峡】2026-2027年冬の南砺・五箇山！雪見露天と堅豆腐名宿5選 | クラウドトラベル',
+  title: '世界遺産五箇山合掌集落の雪景色と庄川峡：2026-2027年冬の南砺・五箇山！雪見露天と堅豆腐名宿5選 | クラウドトラベル',
   description: '白銀の山里に佇む世界遺産・五箇山合掌造り集落（相倉・菅沼）の冬景色と幻想的な雪あかり！名物・五箇山堅豆腐や岩魚塩焼き、庄川峡の雪見露天風呂と富山湾の旬味覚を堪能する極上隠れ宿5選。',
   keywords: ['富山県冬旅行', '五箇山・庄川温泉郷・南砺', '冬温泉', '2026', '2027', '雪景色', '冬の味覚', '楽天トラベル', 'ふるさと納税'],
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-toyama-gokayama-gassho-snow-lightup-ainokura-suganuma-stay',
   },
   openGraph: {
-    title: '【世界遺産五箇山合掌集落の雪景色と庄川峡】2026-2027年冬の南砺・五箇山！雪見露天と堅豆腐名宿5選',
+    title: '世界遺産五箇山合掌集落の雪景色と庄川峡：2026-2027年冬の南砺・五箇山！雪見露天と堅豆腐名宿5選',
     description: '白銀の山里に佇む世界遺産・五箇山合掌造り集落（相倉・菅沼）の冬景色と幻想的な雪あかり！名物・五箇山堅豆腐や岩魚塩焼き、庄川峡の雪見露天風呂と富山湾の旬味覚を堪能する極上隠れ宿5選。',
     url: 'https://croud-travel.pages.dev/winter-toyama-gokayama-gassho-snow-lightup-ainokura-suganuma-stay',
     siteName: 'クラウドトラベル',
@@ -62,9 +62,7 @@ export default function WinterFeaturePage() {
               <Sparkles className="w-3.5 h-3.5" />
               <span>2026-2027年 冬季限定・厳選名宿特集</span>
             </div>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold tracking-tight leading-tight text-balance">
-              【世界遺産五箇山合掌集落の雪景色と庄川峡】2026-2027年冬の南砺・五箇山！雪見露天と堅豆腐名宿5選
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold tracking-tight leading-tight text-balance">「世界遺産五箇山合掌集落の雪景色と庄川峡」2026-2027年冬の南砺・五箇山！雪見露天と堅豆腐名宿5選</h1>
             <p className="max-w-2xl mx-auto text-xs sm:text-sm text-stone-300 leading-relaxed text-pretty">
               豪雪地帯として知られる富山県南砺市。山深い庄川の渓谷沿いに佇む「五箇山（ごかやま）」は、白川郷とともに1995年にユネスコ世界文化遺産に登録された歴史ある合掌造り集落です。観光化が進んだ白川郷と比べ、五箇山の「相倉（あいのくら）集落」や「菅沼（すがぬま）集落」には今も人々の素朴な日々の暮らしが息づいており、11月下旬から1月にかけては集落全体が深々とした純白の雪に覆われます。急勾配の茅葺き屋根に積もる綿帽子のような雪、夕暮れ時に雪あかりのライトアップが灯る光景は、まさに日本昔話の世界そのもの。縄で縛っても崩れない伝統の五箇山堅豆腐や清流岩魚の骨酒、庄川峡の雪見露天風呂に癒やされる冬の極上旅へご案内します。
             </p>

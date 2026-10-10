@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '日本三大浮島湿原＆風に揺れる神秘の浮島と高原温泉リゾート名宿×ふるさと納税完全ガイド【2026年最新】尾瀬・大沼・深泥池',
+  title: '日本三大浮島湿原＆風に揺れる神秘の浮島と高原温泉リゾート名宿×ふるさと納税厳選ガイド尾瀬・大沼・深泥池',
   description: '池や湖の泥炭層が水面に浮かび、風や水位で位置を変える神秘の自然現象「日本三大浮島湿原」（群馬福島新潟・尾瀬ヶ原、山形朝日町・大沼浮島、京都北山・深泥池）。ミズバショウやニッコウキスゲの群生、氷河期の生き残り遺存種、静寂に包まれた高原リゾート。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ高山・湿原リトリート完全ガイド。',
   keywords: ["日本三大浮島湿原", "2026年最新", "尾瀬", "大沼", "深泥池", "温泉宿", "宿泊予約"],
   alternates: { canonical: baseUrl + '/furusato-tax-three-great-floating-islands-marshland-stay/' },
   openGraph: {
-    title: '日本三大浮島湿原＆風に揺れる神秘の浮島と高原温泉リゾート名宿×ふるさと納税完全ガイド【2026年最新】尾瀬・大沼・深泥池',
+    title: '日本三大浮島湿原＆風に揺れる神秘の浮島と高原温泉リゾート名宿×ふるさと納税厳選ガイド尾瀬・大沼・深泥池',
     description: '池や湖の泥炭層が水面に浮かび、風や水位で位置を変える神秘の自然現象「日本三大浮島湿原」（群馬福島新潟・尾瀬ヶ原、山形朝日町・大沼浮島、京都北山・深泥池）。ミズバショウやニッコウキスゲの群生、氷河期の生き残り遺存種、静寂に包まれた高原リゾート。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ高山・湿原リトリート完全ガイド。',
     url: baseUrl + '/furusato-tax-three-great-floating-islands-marshland-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoRound64ArticlePage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             日本三大浮島湿原・神秘の自然と高原リトリート特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            日本三大浮島湿原＆風に揺れる神秘の浮島と高原温泉リゾート名宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">日本三大浮島湿原＆風に揺れる神秘の浮島と高原温泉リゾート名宿</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             何万年という歳月をかけて植物の遺体が分解されずに堆積した泥炭（でいたん）層が、メタンガスの浮力などによって水面に浮かび上がり、その上に草木が生い茂って湖面をプカプカと漂う「浮島（うきしま）」。古代の地球の息吹を今に伝える極めて珍しい自然の造形美が「日本三大浮島湿原」です。日本最大の山岳湿原であり無数の池塘（ちとう）の中に小さな浮島が点在する尾瀬ヶ原、湖面に大小60余りもの浮島が浮かび風の吹き方で島が移動する国指定天然記念物・山形大沼浮島、そして京都市内にありながら氷河期以来の寒冷地植物が今なお自生する奇跡の学術宝庫・京都北山の深泥池（みどろがいけ）。木道を渡る涼風に吹かれ、ミズバショウやワタスゲが揺れる湿原を歩けば、まるで異世界に迷い込んだかのような深い静けさに包まれます。高原の森に佇む温泉ホテルや名門リゾートで、地元の新鮮な高原野菜や滋味豊かな山の幸に癒やされる特別な休日。楽天ふるさと納税の宿泊割引クーポンを活用して、五感が澄み渡るネイチャーリトリートの旅へ出かけましょう。
           </p>

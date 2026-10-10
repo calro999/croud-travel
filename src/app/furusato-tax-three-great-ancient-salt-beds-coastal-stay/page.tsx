@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '日本三大塩田跡＆揚げ浜式塩田の伝統技と日本海シーサイド温泉宿×ふるさと納税完全ガイド【2026年最新】能登・鳴門・赤穂',
+  title: '日本三大塩田跡＆揚げ浜式塩田の伝統技と日本海シーサイド温泉宿×ふるさと納税厳選ガイド能登・鳴門・赤穂',
   description: '海水と太陽、潮風が織りなす日本の塩づくりの原点「日本三大塩田」（石川能登・珠洲の揚げ浜式塩田、徳島・鳴門の入浜式塩田、兵庫・播州赤穂の塩田）。五百年の伝統を受け継ぐ国指定重要無形民俗文化財の塩づくり見学、ミネラル豊富な塩でいただく極上海鮮会席、海を望むインフィニティ絶景露天風呂。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ海辺の歴史温泉旅完全ガイド。',
   keywords: ["日本三大塩田跡", "2026年最新", "能登", "鳴門", "赤穂", "温泉宿", "宿泊予約"],
   alternates: { canonical: baseUrl + '/furusato-tax-three-great-ancient-salt-beds-coastal-stay/' },
   openGraph: {
-    title: '日本三大塩田跡＆揚げ浜式塩田の伝統技と日本海シーサイド温泉宿×ふるさと納税完全ガイド【2026年最新】能登・鳴門・赤穂',
+    title: '日本三大塩田跡＆揚げ浜式塩田の伝統技と日本海シーサイド温泉宿×ふるさと納税厳選ガイド能登・鳴門・赤穂',
     description: '海水と太陽、潮風が織りなす日本の塩づくりの原点「日本三大塩田」（石川能登・珠洲の揚げ浜式塩田、徳島・鳴門の入浜式塩田、兵庫・播州赤穂の塩田）。五百年の伝統を受け継ぐ国指定重要無形民俗文化財の塩づくり見学、ミネラル豊富な塩でいただく極上海鮮会席、海を望むインフィニティ絶景露天風呂。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ海辺の歴史温泉旅完全ガイド。',
     url: baseUrl + '/furusato-tax-three-great-ancient-salt-beds-coastal-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoRound66ArticlePage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             日本三大塩田・伝統製塩とシーサイド温泉ステイ特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            日本三大塩田跡＆揚げ浜式塩田の伝統技と日本海シーサイド温泉宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">日本三大塩田跡＆揚げ浜式塩田の伝統技と日本海シーサイド温泉宿</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             日本海や瀬戸内海の荒波から海水を汲み上げ、砂浜一面に撒いて天日で乾燥させ、塩分濃度の高いかん水を大釜で煮詰める——。山国日本において人々の生命を支え、豊かな食文化の基礎を築いた「日本三大塩田」。五百年以上前の室町時代から唯一現役で受け継がれ、国の重要無形民俗文化財に指定された石川能登・珠洲の「揚げ浜式塩田」。渦潮が巻く鳴門海峡の潮の流れを活かして江戸時代に天下の塩どころとして栄えた徳島・鳴門の塩田。そして忠臣蔵の赤穂義士の財源ともなり、「赤穂の塩」として全国に名を馳せた兵庫・播州赤穂の塩田。海辺の塩田跡を訪ね、海水と太陽の結晶であるミネラルたっぷりの天然塩を自ら作る製塩体験を楽しんだ後は、潮騒が心地よいシーサイド温泉旅館で、天然塩で甘みを最大限に引き出した獲れたて鮮魚やブランド牛に舌鼓を打つ贅沢。楽天ふるさと納税の宿泊割引クーポンを活用して、海と大地の力強いエネルギーに満たされる極上の海辺ステイへ出かけましょう。
           </p>

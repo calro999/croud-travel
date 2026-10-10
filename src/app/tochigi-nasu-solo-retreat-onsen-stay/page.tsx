@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tochigi-nasu-solo-retreat-onsen-stay/" },
-  title: '【那須温泉ひとり旅・御用邸高原おこもり】茶臼岳絶景露天・鹿の湯白濁泉・那須黒毛和牛！森の静寂に包まれる高原リゾート厳選3宿',
+  title: '那須温泉ひとり旅・御用邸高原おこもり：茶臼岳絶景露天・鹿の湯白濁泉・那須黒毛和牛！森の静寂に包まれる高原リゾート厳選3宿',
   description: '皇室の御用邸があるロイヤルリゾート・那須高原！広大な敷地に天然温泉スパとラウンジを備える名門「ホテルハーヴェスト那須」、標高1,200mの茶臼岳山腹で乳白色の名湯を誇る「旅館ニューおおたか」、森の隠れ家コテージ「ホテルフォレストヒルズ那須」を徹底比較。',
   keywords: '那須温泉 一人旅 宿,那須 ホテル 一人 温泉,ホテルハーヴェスト那須,旅館ニューおおたか,フォレストヒルズ那須,那須 鹿の湯 ひとり旅',
   openGraph: {
-    title: '【那須温泉ひとり旅・御用邸高原おこもり】茶臼岳絶景露天・鹿の湯白濁泉・那須黒毛和牛！森の静寂に包まれる高原リゾート厳選3宿',
+    title: '那須温泉ひとり旅・御用邸高原おこもり：茶臼岳絶景露天・鹿の湯白濁泉・那須黒毛和牛！森の静寂に包まれる高原リゾート厳選3宿',
     description: '皇室の御用邸があるロイヤルリゾート・那須高原！広大な敷地に天然温泉スパとラウンジを備える名門「ホテルハーヴェスト那須」、標高1,200mの茶臼岳山腹で乳白色の名湯を誇る「旅館ニューおおたか」、森の隠れ家コテージ「ホテルフォレストヒルズ那須」を徹底比較。',
     url: 'https://croud-travel.pages.dev/tochigi-nasu-solo-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【那須温泉ひとり旅・御用邸高原おこもり】茶臼岳絶景露天・鹿の湯白濁泉・那須黒毛和牛！森の静寂に包まれる高原リゾート厳選3宿',
+    headline: '那須温泉ひとり旅・御用邸高原おこもり：茶臼岳絶景露天・鹿の湯白濁泉・那須黒毛和牛！森の静寂に包まれる高原リゾート厳選3宿',
     description: '皇室の御用邸があるロイヤルリゾート・那須高原！広大な敷地に天然温泉スパとラウンジを備える名門「ホテルハーヴェスト那須」、標高1,200mの茶臼岳山腹で乳白色の名湯を誇る「旅館ニューおおたか」、森の隠れ家コテージ「ホテルフォレストヒルズ那須」を徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             栃木・那須温泉ひとり旅＆高原御用邸リゾートおこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【那須温泉ひとり旅・御用邸高原おこもり】茶臼岳絶景露天・鹿の湯白濁泉・那須黒毛和牛！森の静寂に包まれる高原リゾート厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「那須温泉ひとり旅・御用邸高原おこもり」茶臼岳絶景露天・鹿の湯白濁泉・那須黒毛和牛！森の静寂に包まれる高原リゾート厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

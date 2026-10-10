@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月梅ヶ島温泉】しずおか和牛！名宿5選',
+  title: '梅ヶ島温泉で過ごす冬の旅（11・12月）！しずおか和牛！名宿5選',
   description: '11月中旬から12月の初冬、静岡市街から清流安倍川を北へ約1時間半遡った南アルプス前衛峰の最深部。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '梅ヶ島温泉 宿泊, オクシズ 温泉 旅館, 駿河軍鶏 鍋 宿, しずおか和牛 ステーキ, とろとろ硫黄泉 美肌湯, 徳川家康 隠し湯, 有東木 本わさび, 11月 12月 静岡旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shizuoka-umegashima-onsen-okushizu-surugashamo-stay/"
   },
   openGraph: {
-    title: '【11・12月梅ヶ島温泉】しずおか和牛！名宿5選',
+    title: '梅ヶ島温泉で過ごす冬の旅（11・12月）！しずおか和牛！名宿5選',
     description: '11月中旬から12月の初冬、静岡市街から清流安倍川を北へ約1時間半遡った南アルプス前衛峰の最深部。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-umegashima-onsen-okushizu-surugashamo-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月梅ヶ島温泉】駿府の隠し湯・南アルプス前衛峰の静寂と開湯1700年超濃厚とろとろ硫黄泉・駿河軍鶏鍋＆しずおか和牛・本わさび名宿5選",
+    title: "梅ヶ島温泉で過ごす冬の旅（11・12月）！駿府の隠し湯・南アルプス前衛峰の静寂と開湯1700年超濃厚とろとろ硫黄泉・駿河軍鶏鍋＆しずおか和牛・本わさび名宿5選",
     description: "11月中旬から12月の初冬、静岡市街から清流安倍川を北へ約1時間半遡った南アルプス前衛峰の最深部、オクシズ（奥静岡）の秘境に位置する梅ヶ島温泉郷（うめがしまおんせんきょう）は、山々が静寂に包まれ、立ち昇る白い湯煙と濃厚な硫黄の香りが旅人を非日常へと誘う極上の秘湯シーズンを迎えます。開湯は約1700年前、武田信玄や徳川家康公も逗留したと伝わる「駿府の隠し湯」。最大の特徴は、pH9.6超の高アルカリ性と濃密な硫黄成分が融合した「超濃厚とろとろ硫黄泉」。まるで美容液にそのまま浸かっているかのようなトロトロの湯ざわりは全国の温泉ファンから絶賛され、冷え切った冬の肌を一瞬で絹のようになめらかに整えます。夕食の膳には、引き締まった肉質と深いコクを誇る幻のブランド地鶏「駿河軍鶏（シャモ）」の熱々鍋や炭火焼き、美しい霜降りの「しずおか和牛」、日本におけるわさび栽培発祥の地・有東木で育まれた清烈な「生本わさび」が並びます。初冬の奥静岡で心ほどける秘境リトリートを約束する厳選5宿をご紹介します。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -367,9 +367,7 @@ export default function ShizuokaUmegashimaWinterPage() {
             <Sparkles className="w-3.5 h-3.5" />
             11月・12月初冬の静岡オクシズ・梅ヶ島温泉＆駿府の隠し湯特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold tracking-tight text-white leading-tight">
-            {metadata.title as string}
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold tracking-tight text-white leading-tight">{metadata.title as string}</h1>
           <p className="text-xs sm:text-sm text-stone-300 leading-relaxed pt-2">
             南アルプス前衛峰の静寂と、開湯1700年を誇るpH9.6超濃厚とろとろ硫黄泉のぬくもり。
             弾力ある幻の駿河軍鶏鍋、しずおか和牛、有東木生わさびの清烈な辛味に酔いしれる初冬の奥静岡へ。

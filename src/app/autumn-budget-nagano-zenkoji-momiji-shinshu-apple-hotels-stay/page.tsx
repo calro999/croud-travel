@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【長野】国宝善光寺の秋紅葉と信州新そば・完熟リンゴ！5,000円台〜格安ホテル5選',
+  title: '長野：国宝善光寺の秋紅葉と信州新そば・完熟リンゴ！5,000円台〜格安ホテル5選',
   description: '国宝善光寺本堂と仲見世通りを彩る秋モミジと、収穫を迎えたシャキシャキの信州リンゴ！戸隠の香り高い新そば。長野駅前・善光寺周辺で1泊5,000円台〜6,000円台で泊まれる格安・高評価ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetNaganoCityHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>国宝善光寺の秋紅葉＆信州完熟リンゴ</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【長野】善光寺の紅葉＆信州新そばを満喫！<br className="hidden sm:inline" />5,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「長野」善光寺の紅葉＆信州新そばを満喫！<br className="hidden sm:inline" />5,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-emerald-100/90 max-w-2xl mx-auto leading-relaxed">
             一生に一度は参れ善光寺！秋晴れの空に映える国宝本堂と色鮮やかな紅葉、仲見世通りで焼きたてのおやきを頬張る風情ある散策。秋は蜜がたっぷり入った信州リンゴ（秋映・シナノスイート・サンふじ）の収穫期、そして香り高い戸隠新そばの解禁シーズン！新幹線停車駅・長野駅周辺で5,000円台〜の優良宿を厳選。
           </p>

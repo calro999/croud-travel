@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【信楽焼の器美学と近江牛懐石】日本最古の銘柄牛！おごと温泉・信楽・琵琶湖畔の名湯宿5選",
+  title: "信楽焼の器美学と近江牛懐石：日本最古の銘柄牛！おごと温泉・信楽・琵琶湖畔の名湯宿5選",
   description: "日本六古窯の一つとして温かみある土の風合いが魅力の「信楽焼（しがらきやき）」！信楽焼の特注プレートで味わう日本最古のブランド牛「近江牛」と、琵琶湖を一望するおごと温泉の美肌湯に寛ぐ雅な休日。",
   keywords: "琵琶湖 温泉 露天風呂 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/traditional-shiga-shigaraki-ware-art-stay/",
   },
   openGraph: {
-    title: "【信楽焼の器美学と近江牛懐石】日本最古の銘柄牛！おごと温泉・信楽・琵琶湖畔の名湯宿5選",
+    title: "信楽焼の器美学と近江牛懐石：日本最古の銘柄牛！おごと温泉・信楽・琵琶湖畔の名湯宿5選",
     description: "日本六古窯の一つとして温かみある土の風合いが魅力の「信楽焼（しがらきやき）」！信楽焼の特注プレートで味わう日本最古のブランド牛「近江牛」と、琵琶湖を一望するおごと温泉の美肌湯に寛ぐ雅な休日。",
     url: 'https://croud-travel.pages.dev/traditional-shiga-shigaraki-ware-art-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【信楽焼の器美学と近江牛懐石】日本最古の銘柄牛！おごと温泉・信楽・琵琶湖畔の名湯宿5選",
+    title: "信楽焼の器美学と近江牛懐石：日本最古の銘柄牛！おごと温泉・信楽・琵琶湖畔の名湯宿5選",
     description: "日本六古窯の一つとして温かみある土の風合いが魅力の「信楽焼（しがらきやき）」！信楽焼の特注プレートで味わう日本最古のブランド牛「近江牛」と、琵琶湖を一望するおごと温泉の美肌湯に寛ぐ雅な休日。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>信楽焼の器＆近江牛名湯宿</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【信楽焼の器美学と近江牛懐石】日本最古の銘柄牛！おごと温泉・信楽・琵琶湖畔の名湯宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「信楽焼の器美学と近江牛懐石」日本最古の銘柄牛！おごと温泉・信楽・琵琶湖畔の名湯宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             日本六古窯の一つとして温かみある土の風合いが魅力の「信楽焼（しがらきやき）」！信楽焼の特注プレートで味わう日本最古のブランド牛「近江牛」と、琵琶湖を一望するおごと温泉の美肌湯に寛ぐ雅な休日。
           </p>

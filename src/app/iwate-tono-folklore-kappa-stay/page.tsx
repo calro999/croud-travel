@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/iwate-tono-folklore-kappa-stay/" },
-  title: "【岩手・遠野＆カッパ淵】遠野物語の民話の里・南部曲り家＆ジンギスカン・暮坪かぶ宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "岩手・遠野＆カッパ淵：遠野物語の民話の里・南部曲り家＆ジンギスカン・暮坪かぶ宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "柳田國男『遠野物語』の妖怪と神話息づく里山・岩手遠野エリア完全特化！キュウリでカッパ釣り「カッパ淵・常堅寺」、国の重要文化財「南部曲り家（伝承園・千葉家）」、遠野郷八幡宮、名物「遠野ジンギスカン・暮坪かぶ宿」を徹底解説。",
   keywords: ["岩手", "遠野", "カッパ淵", "遠野物語の民話の里", "南部曲り家", "ジンギスカン", "暮坪かぶ宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             TONO FOLKLORE & NATURE GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【岩手・遠野＆カッパ淵】遠野物語の民話の里・南部曲り家＆ジンギスカン・暮坪かぶ宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「岩手・遠野＆カッパ淵」遠野物語の民話の里・南部曲り家＆ジンギスカン・暮坪かぶ宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             日本の民俗学の夜明けを告げた民話のふるさと「遠野」。常堅寺裏手の小川にカッパ伝説が残る「カッパ淵」。馬と人が同じ屋根の下で暮らした「南部曲り家」。バケツ型ジンギスカン鍋で味わう極上ラム肉と、わさびのような辛味の暮坪かぶを味わう旅。
           </p>

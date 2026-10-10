@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '清流アクティビティ＆リバービュー温泉宿×ふるさと納税完全ガイド【2026年最新】長良川・四万十川・保津川の舟旅',
+  title: '清流アクティビティ＆リバービュー温泉宿×ふるさと納税厳選ガイド長良川・四万十川・保津川の舟旅',
   description: '日本が誇る清流で楽しむカヌー・ラフティング・伝統舟下り！岐阜長良川の鵜飼鑑賞、高知四万十川のSUP＆沈下橋めぐり、京都保津川のダイナミック渓谷下り。川魚の女王・天然鮎会席とリバーサイド名宿を楽天ふるさと納税でお得に予約する旅ガイド。',
   keywords: ["清流アクティビティ", "2026年最新", "長良川", "四万十川", "保津川の舟旅", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-river-activity-canoe-fishing-resort-stay/"
   },
   openGraph: {
-    title: '清流アクティビティ＆リバービュー温泉宿×ふるさと納税完全ガイド【2026年最新】長良川・四万十川・保津川の舟旅',
+    title: '清流アクティビティ＆リバービュー温泉宿×ふるさと納税厳選ガイド長良川・四万十川・保津川の舟旅',
     description: '日本が誇る清流で楽しむカヌー・ラフティング・伝統舟下り！岐阜長良川の鵜飼鑑賞、高知四万十川のSUP＆沈下橋めぐり、京都保津川のダイナミック渓谷下り。川魚の女王・天然鮎会席とリバーサイド名宿を楽天ふるさと納税でお得に予約する旅ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-river-activity-canoe-fishing-resort-stay',
     type: 'article',
@@ -54,9 +54,7 @@ export default function FurusatoFeaturePage() {
             <span>✨</span>
             <span>清流アクティビティ・川床リバー宿特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            清流アクティビティ＆リバービュー温泉宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">清流アクティビティ＆リバービュー温泉宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             滔々と流れる清流のきらめき、緑豊かな山峡を吹き抜ける心地よい川風。カヌーやSUP、ラフティングで水と一体となり、伝統の鵜飼舟や渓谷下りで悠久の歴史情緒に浸るリバーアクティビティは、日常のストレスを洗い流してくれます。川沿いに佇む風情ある温泉旅館やリゾートホテルを楽天ふるさと納税で予約すれば、旬の天然鮎や川魚料理とともに至福の休日を過ごせます。
           </p>

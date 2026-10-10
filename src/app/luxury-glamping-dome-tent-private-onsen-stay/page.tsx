@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '【2026年】天然温泉付きドームテント＆星空グランピング！大自然を満喫する極上アウトドアリゾート5選 ｜ 日本全国・旅宿クラウド',
+  title: '2026年：天然温泉付きドームテント＆星空グランピング！大自然を満喫する極上アウトドアリゾート5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！冷暖房完備の大型ドームテントに専用温泉露天風呂やBBQスペースを完備した最高峰のグランピング施設5選。満天の星と手ぶらアウトドアを満喫。',
   keywords: ["2026年", "天然温泉付きドームテント", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/luxury-glamping-dome-tent-private-onsen-stay/",
   },
   openGraph: {
-    title: '【2026年】天然温泉付きドームテント＆星空グランピング！大自然を満喫する極上アウトドアリゾート5選',
+    title: '2026年：天然温泉付きドームテント＆星空グランピング！大自然を満喫する極上アウトドアリゾート5選',
     description: '2026年最新！冷暖房完備の大型ドームテントに専用温泉露天風呂やBBQスペースを完備した最高峰のグランピング施設5選。満天の星と手ぶらアウトドアを満喫。',
     url: 'https://croud-travel.pages.dev/luxury-glamping-dome-tent-private-onsen-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -172,9 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>温泉ドームテント×星空グランピング</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            【2026年】天然温泉付きドームテント＆星空グランピング！大自然を満喫する極上アウトドアリゾート5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」天然温泉付きドームテント＆星空グランピング！大自然を満喫する極上アウトドアリゾート5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             冷暖房完備でホテルのような快適さを誇るおしゃれな大型ドームテント。夜は満天の星空の下で本格グリルBBQを楽しみ、敷地内の天然温泉や客室専用ジャグジーで心地よく癒やされる、贅沢なアウトドアリゾートを厳選しました。
           </p>

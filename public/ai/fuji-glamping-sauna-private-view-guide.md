@@ -1,4 +1,4 @@
-# 【富士山×サウナ付き】プライベートグランピング厳選5選！富士山麓の絶景外気浴と星空BBQ
+# 富士山×サウナ付き：プライベートグランピング厳選5選！富士山麓の絶景外気浴と星空BBQ
 
 - URL: https://croud-travel.pages.dev/posts/fuji-glamping-sauna-private-view-guide/
 - 宿泊施設名: 全室富士山ビュー ビジョングランピングリゾート山中湖

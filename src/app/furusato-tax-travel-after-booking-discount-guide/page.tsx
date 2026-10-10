@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-travel-after-booking-discount-guide/" },
-  title: '【予約済みでも間に合う】楽天トラベル「ふるさと納税クーポンあとから適用」完全攻略ガイド | クラウドトラベル',
+  title: '予約済みでも間に合う：楽天トラベル「ふるさと納税クーポンあとから適用」極上旅ガイド | クラウドトラベル',
   description: '「もう旅行を予約しちゃったから使えない…」は間違い！楽天トラベルなら予約完了後でもチェックイン前日までふるさと納税クーポンを適用可能。箱根・富士河口湖・京都の実例とともに分かりやすく解説。',
   openGraph: {
-    title: '【予約済みでも間に合う】楽天トラベル「ふるさと納税クーポンあとから適用」完全攻略ガイド | クラウドトラベル',
+    title: '予約済みでも間に合う：楽天トラベル「ふるさと納税クーポンあとから適用」極上旅ガイド | クラウドトラベル',
     description: '「もう旅行を予約しちゃったから使えない…」は間違い！楽天トラベルなら予約完了後でもチェックイン前日までふるさと納税クーポンを適用可能。箱根・富士河口湖・京都の実例とともに分かりやすく解説。',
     type: 'article',
   },
@@ -59,9 +59,7 @@ export default function Page() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             旅行後悔ゼロ！あとから割引完全マニュアル
           </div>
-          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            【予約済みでも間に合う】楽天トラベル「ふるさと納税クーポンあとから適用」完全攻略ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">「予約済みでも間に合う」楽天トラベル「ふるさと納税クーポンあとから適用」極上旅ガイド</h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl mb-6">
             「来月の家族旅行、もう楽天トラベルで宿を押さえちゃった。」「今から予約を取り直すと希望の部屋が埋まったり料金が上がったりしそうで怖い。」。そう思っている方に朗報です。楽天トラベルのふるさと納税クーポンには、業界屈指の便利機能である【あとから適用】が用意されています。予約を取り直す必要は一切なく、現行の予約詳細画面からふるさと納税クーポンをポチッと選択するだけで、差額が宿泊代金から即座に差し引かれます。チェックイン前日の23:59まで手続きできるため、急遽思い立って寄付しても十分に間に合います。首都圏から気軽に行ける箱根、富士山を望む河口湖、風情あふれる京都など、人気観光地の名宿を例にあとから割引の実践テクニックを徹底解説します。
           </p>

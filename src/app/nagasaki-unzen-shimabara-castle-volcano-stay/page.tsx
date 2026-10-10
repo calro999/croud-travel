@@ -5,11 +5,11 @@ import Image from 'next/image';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagasaki-unzen-shimabara-castle-volcano-stay/" },
-  title: '【長崎・雲仙＆島原城】雲仙地獄・名水湧水武家屋敷＆小浜夕日温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+  title: '長崎・雲仙＆島原城：雲仙地獄・名水湧水武家屋敷＆小浜夕日温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
   description: '立ち込める湯けむりと硫黄の香り「雲仙地獄」、日本最初の国立公園に指定された高原リゾート、名水百選の水路が流れる「島原武家屋敷」と五層白亜の「島原城」、伝統名物「具雑煮」、日本一長い足湯と橘湾の夕日を望む小浜温泉を徹底解説。',
   keywords: ["長崎", "雲仙", "島原城", "雲仙地獄", "名水湧水武家屋敷", "小浜夕日温泉宿", "温泉宿"],
   openGraph: {
-    title: '【長崎・雲仙＆島原城】雲仙地獄・名水湧水武家屋敷＆小浜夕日温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+    title: '長崎・雲仙＆島原城：雲仙地獄・名水湧水武家屋敷＆小浜夕日温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
     description: '立ち込める湯けむりと硫黄の香り「雲仙地獄」、日本最初の国立公園に指定された高原リゾート、名水百選の水路が流れる「島原武家屋敷」と五層白亜の「島原城」、伝統名物「具雑煮」、日本一長い足湯と橘湾の夕日を望む小浜温泉を徹底解説。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/nagasaki-unzen-shimabara-castle-volcano-stay',
@@ -50,9 +50,7 @@ export default function Page() {
             <span>🗺️</span>
             <span>UNZEN & SHIMABARA VOLCANO GUIDE</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">
-            【長崎・雲仙＆島原城・有明海】雲仙地獄白濁名湯・島原湧水武家屋敷＆具雑煮宿 完全ガイド
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">「長崎・雲仙＆島原城・有明海」雲仙地獄白濁名湯・島原湧水武家屋敷＆具雑煮宿 厳選ガイド</h1>
           <p className="max-w-3xl mx-auto text-stone-300 text-sm sm:text-base md:text-lg leading-relaxed mb-8">
             地球のマグマの息吹が地表に噴き出す「雲仙地獄」の湯けむりと、強酸性の白濁硫黄泉が旅人を癒やす高原の名湯「雲仙温泉」。明治時代には外国人の避暑地として栄えた日本最古のパブリックリゾート。裾野に広がる「島原」は、湧水が路傍を潤し名水で泳ぐ錦鯉と白壁の武家屋敷、天草四郎の島原の乱を伝える白亜の島原城。有明海と橘湾の絶景海鮮を味わう島原半島周遊ステイへご案内します。
           </p>

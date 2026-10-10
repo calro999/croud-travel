@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-stargazing-astronomy-guide/" },
-  title: "【星空が綺麗すぎるグランピング2026】天の川が見える標高1,000mの高原！天体望遠鏡＆焚き火シネマ ｜ 日本全国・旅宿クラウド",
+  title: "星空が綺麗すぎるグランピング2026：天の川が見える標高1,000mの高原！天体望遠鏡＆焚き火シネマ ｜ 日本全国・旅宿クラウド",
   description:
     "9月の澄んだ秋空に広がる満天の星！日本一の星空・長野阿智村周辺や八ヶ岳・那須高原の天体観測グランピング特集。客室専用の天体望遠鏡、星空の下の焚き火カフェ、プラネタリウムのようなドームテント。",
   keywords: ["焚き火シネマ", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
@@ -167,9 +167,7 @@ export default function SilverWeekGlampingStargazingAstronomyPage() {
             </span>
           </div>
 
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【星空が綺麗すぎるグランピング2026】天の川が見える標高1,000mの高原！天体望遠鏡＆焚き火シネマ
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「星空が綺麗すぎるグランピング2026」天の川が見える標高1,000mの高原！天体望遠鏡＆焚き火シネマ</h1>
 
           <p className="text-xs md:text-sm text-indigo-100/90 leading-relaxed font-medium">
             夏の蒸し暑さが引き、空気が澄み渡る9月のシルバーウィークは、年間で最も星空観測に適した黄金シーズン。環境省認定の日本一の星空・長野阿智村をはじめ、人工光が遮られた高原リゾートに佇むドームテントから見上げる天の川。客室備え付けの天体望遠鏡、パチパチと爆ぜる焚き火の炎、ホットワインを片手に夜空を仰ぐ大人の天体観測グランピングへご案内します。

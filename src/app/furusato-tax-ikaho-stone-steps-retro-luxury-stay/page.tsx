@@ -3,11 +3,11 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【伊香保温泉×ふるさと納税】365段の石段街と黄金の湯＆白銀の湯！名門老舗旅館ステイ完全ガイド｜福一・ホテル木暮・岸権旅館',
+  title: '伊香保温泉をふるさと納税でお得に旅する！365段の石段街と黄金の湯＆白銀の湯！名門老舗旅館ステイ厳選ガイド｜福一・ホテル木暮・岸権旅館',
   description: '万葉集にも詠まれた名湯・伊香保温泉を楽天ふるさと納税でお得に旅する！石段街最上段に鎮座する創業四百四十年の「福一」、毎分千リットルの湯量を誇る北関東最大級大浴場の「ホテル木暮」、天正四年創業・完全掛け流しの黄金の湯「岸権旅館」を徹底比較。上州牛会席や群馬県渋川市クーポン活用術を網羅。',
   keywords: '伊香保温泉 ふるさと納税,伊香保 石段街 旅館,福一 伊香保 ふるさと納税,ホテル木暮 クーポン,渋川市 ふるさと納税 宿泊',
   openGraph: {
-    title: '【伊香保温泉×ふるさと納税】365段の石段街と黄金の湯＆白銀の湯！名門老舗旅館ステイ完全ガイド｜福一・ホテル木暮・岸権旅館',
+    title: '伊香保温泉をふるさと納税でお得に旅する！365段の石段街と黄金の湯＆白銀の湯！名門老舗旅館ステイ厳選ガイド｜福一・ホテル木暮・岸権旅館',
     description: '万葉集にも詠まれた名湯・伊香保温泉を楽天ふるさと納税でお得に旅する！石段街最上段に鎮座する創業四百四十年の「福一」、毎分千リットルの湯量を誇る北関東最大級大浴場の「ホテル木暮」、天正四年創業・完全掛け流しの黄金の湯「岸権旅館」を徹底比較。上州牛会席や群馬県渋川市クーポン活用術を網羅。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-ikaho-stone-steps-retro-luxury-stay',
@@ -54,9 +54,7 @@ export default function FurusatoTaxArticle() {
             <span>•</span>
             <span>自治体公認 宿泊割引</span>
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-5xl font-extrabold tracking-tight text-white font-serif leading-tight">
-            【伊香保温泉×ふるさと納税】365段の石段街と黄金の湯＆白銀の湯！名門老舗旅館ステイ完全ガイド｜福一・ホテル木暮・岸権旅館
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-5xl font-extrabold tracking-tight text-white font-serif leading-tight">伊香保温泉をふるさと納税でお得に旅する！365段の石段街と黄金の湯＆白銀の湯！名門老舗旅館ステイ厳選ガイド｜福一・ホテル木暮・岸権旅館</h1>
           <p className="text-stone-300 text-sm md:text-base max-w-2xl mx-auto pt-2 leading-relaxed">
             万葉集にも詠まれた名湯・伊香保温泉を楽天ふるさと納税でお得に旅する！石段街最上段に鎮座する創業四百四十年の「福一」、毎分千リットルの湯量を誇る北関東最大級大浴場の「ホテル木暮」、天正四年創業・完全掛け流しの黄金の湯「岸権旅館」を徹底比較。上州牛会席や群馬県渋川市クーポン活用術を網羅。
           </p>

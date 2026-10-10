@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '漁港直送の極上寿司会席＆職人握りを味わう名湯温泉宿×ふるさと納税完全ガイド【2026年最新】石川加賀・東伊豆熱川・伊東',
+  title: '漁港直送の極上寿司会席＆職人握りを味わう名湯温泉宿×ふるさと納税厳選ガイド石川加賀・東伊豆熱川・伊東',
   description: '海の幸の宝庫・日本海の新鮮魚介や相模灘の朝獲れ地魚を職人が目の前で握る！名勝鶴仙渓の絶景と加賀・能登の極上握りを味わう「山中温泉 かがり吉祥亭」、6つの自家源泉貸切風呂と伊豆の鮮魚寿司会席が自慢の「ふたりの湯宿 湯花満開」、伊東港直送の地魚握りと相模湾パノラマ露天風呂を誇る「伊東温泉 横浜藤よし伊豆店」。旬の地魚寿司と極上温泉を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で堪能する美食旅ガイド。',
   keywords: ["漁港直送の極上寿司会席", "2026年最新", "石川加賀", "東伊豆熱川", "伊東", "温泉宿", "宿泊予約"],
   alternates: { canonical: baseUrl + '/furusato-tax-fresh-sushi-kaiseki-gourmet-inn-stay/' },
   openGraph: {
-    title: '漁港直送の極上寿司会席＆職人握りを味わう名湯温泉宿×ふるさと納税完全ガイド【2026年最新】石川加賀・東伊豆熱川・伊東',
+    title: '漁港直送の極上寿司会席＆職人握りを味わう名湯温泉宿×ふるさと納税厳選ガイド石川加賀・東伊豆熱川・伊東',
     description: '海の幸の宝庫・日本海の新鮮魚介や相模灘の朝獲れ地魚を職人が目の前で握る！名勝鶴仙渓の絶景と加賀・能登の極上握りを味わう「山中温泉 かがり吉祥亭」、6つの自家源泉貸切風呂と伊豆の鮮魚寿司会席が自慢の「ふたりの湯宿 湯花満開」、伊東港直送の地魚握りと相模湾パノラマ露天風呂を誇る「伊東温泉 横浜藤よし伊豆店」。旬の地魚寿司と極上温泉を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で堪能する美食旅ガイド。',
     url: baseUrl + '/furusato-tax-fresh-sushi-kaiseki-gourmet-inn-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoFreshSushiKaisekiStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             港町市場直送・極上寿司会席＆名湯宿特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            漁港直送の極上寿司会席＆職人握りを味わう名湯温泉宿×ふるさと納税完全ガイド【2026年最新】石川加賀・東伊豆熱川・伊東
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">漁港直送の極上寿司会席＆職人握りを味わう名湯温泉宿×ふるさと納税厳選ガイド石川加賀・東伊豆熱川・伊東</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             日本全国の旅先で「最も食べたいご当地グルメ」として常に上位に君臨するお寿司。特に有名な漁港や市場を擁する温泉地では、水揚げされたばかりの鮮度抜群な天然地魚を熟練の寿司職人が目の前で握ってくれる「寿司自慢の料理旅館」が食通たちの心を掴んで離しません。金沢・能登の豊かな海から直送されるのどぐろ、寒鰤、甘海老、加能ガニを贅沢に握る石川・加賀温泉郷の「かがり吉祥亭」。相模灘から揚がる金目鯛、アジ、伊勢海老を六つの源泉かけ流し貸切風呂とともに愉しめる伊豆熱川温泉の「ふたりの湯宿 湯花満開」。そして伊東港の朝獲れ地魚握りと高台からの絶景オーシャンビュー露天風呂が評判の「伊東温泉 横浜藤よし伊豆店」。一般的な会席料理とは一線を画す、海の恵みをダイレクトに味わう極上寿司コースと名湯の組み合わせは、まさに日本人の五感を満たす最高の贅沢です。楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引）を使えば、実質自己負担2,000円で憧れの寿司オーベルジュに宿泊可能。旬の旨味が口いっぱいに広がる、贅沢な美食温泉紀行へ出かけましょう。
           </p>

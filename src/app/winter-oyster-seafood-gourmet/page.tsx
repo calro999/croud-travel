@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/winter-oyster-seafood-gourmet/" },
-  title: "【冬の海のミルク】極上牡蠣＆冬海鮮づくし温泉旅館 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "冬の海のミルク：極上牡蠣＆冬海鮮づくし温泉旅館 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "冬に旨味が最高潮を迎える牡蠣！広島・宮島（焼き牡蠣＆牡蠣土手鍋）、宮城・松島（松島湾ぷりぷり牡蠣）、三重・鳥羽的矢湾（ブランド的矢かき会席）、兵庫・赤穂（坂越牡蠣）など、絶品牡蠣料理と温泉を堪能できる名宿を徹底解説。",
   keywords: ["冬の海のミルク", "極上牡蠣", "冬海鮮づくし温泉旅館", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -98,9 +98,7 @@ export default function SeasonalFeaturePage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             WINTER OYSTER & SEAFOOD
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【冬の海のミルク】極上牡蠣＆冬海鮮づくし温泉旅館 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「冬の海のミルク」極上牡蠣＆冬海鮮づくし温泉旅館 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             ぷりぷりと大粒でクリーミーな冬の牡蠣。炭火で香ばしく焼き上げる殻付き焼き牡蠣、熱々のカキフライ、濃厚な牡蠣鍋や牡蠣ご飯。海の恵みと極上の温泉に癒やされる冬の美食ステイへ。
           </p>

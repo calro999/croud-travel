@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '国宝・霧島神宮の厳かな紅葉参道＆えびの高原大パノラマ！湯けむり霧島温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】鹿児島',
+  title: '国宝・霧島神宮の厳かな紅葉参道＆えびの高原大パノラマ！湯けむり霧島温泉宿×ふるさと納税厳選ガイド鹿児島',
   description: '11月上旬〜11月下旬に見頃を迎える「国宝・霧島神宮（きりしまじんぐう）」と「えびの高原」。朱塗りの本殿と真紅のモミジの荘厳なコントラスト、14の源泉と日本屈指の巨大硫黄温泉を持つ「霧島ホテル」「こまつ」「竹千代 霧島別邸」で鹿児島黒豚しゃぶしゃぶや極上黒毛和牛・薩摩地鶏を堪能。ふるさと納税で実質2,000円。',
   keywords: ["国宝", "霧島神宮の厳かな紅葉参道", "2026年最新秋旅", "鹿児島", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kirishima-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '国宝・霧島神宮の厳かな紅葉参道＆えびの高原大パノラマ！湯けむり霧島温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】鹿児島',
+    title: '国宝・霧島神宮の厳かな紅葉参道＆えびの高原大パノラマ！湯けむり霧島温泉宿×ふるさと納税厳選ガイド鹿児島',
     description: '11月上旬〜11月下旬に見頃を迎える「国宝・霧島神宮（きりしまじんぐう）」と「えびの高原」。朱塗りの本殿と真紅のモミジの荘厳なコントラスト、14の源泉と日本屈指の巨大硫黄温泉を持つ「霧島ホテル」「こまつ」「竹千代 霧島別邸」で鹿児島黒豚しゃぶしゃぶや極上黒毛和牛・薩摩地鶏を堪能。ふるさと納税で実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kirishima-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FeatureArticlePage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               鹿児島・霧島神宮紅葉＆霧島温泉郷特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              国宝・霧島神宮の厳かな紅葉参道＆えびの高原大パノラマ！湯けむり霧島温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】鹿児島
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">国宝・霧島神宮の厳かな紅葉参道＆えびの高原大パノラマ！湯けむり霧島温泉宿×ふるさと納税厳選ガイド鹿児島</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               11月上旬〜11月下旬に見頃を迎える「国宝・霧島神宮（きりしまじんぐう）」と「えびの高原」。朱塗りの本殿と真紅のモミジの荘厳なコントラスト、14の源泉と日本屈指の巨大硫黄温泉を持つ「霧島ホテル」「こまつ」「竹千代 霧島別邸」で鹿児島黒豚しゃぶしゃぶや極上黒毛和牛・薩摩地鶏を堪能。ふるさと納税で実質2,000円。
             </p>

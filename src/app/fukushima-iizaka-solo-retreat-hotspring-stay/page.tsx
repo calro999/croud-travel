@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/fukushima-iizaka-solo-retreat-hotspring-stay/" },
-  title: '【奥州三名湯・飯坂温泉ひとり旅・摺上川渓谷あつ湯おこもり】松尾芭蕉ゆかりの古湯・摺上川のせせらぎ・円盤餃子＆福島地酒！福島交通飯坂線直通厳選3宿',
+  title: '奥州三名湯・飯坂温泉ひとり旅・摺上川渓谷あつ湯おこもり：松尾芭蕉ゆかりの古湯・摺上川のせせらぎ・円盤餃子＆福島地酒！福島交通飯坂線直通厳選3宿',
   description: '鳴子・秋保と並ぶ奥州三名湯の一つ・福島・飯坂温泉！自家源泉100%掛け流しの名湯と旬の味覚会席が口コミ★4.6の「松島屋 桃香」、摺上川の渓谷美と温かいもてなしが評判の「つたや旅館」、最上階展望露天風呂から温泉街を一望する「湯乃家」を楽天API最新データに基づき徹底比較。',
   keywords: '飯坂温泉 一人旅 宿,飯坂 ホテル 一人 温泉,松島屋 桃香,つたや旅館 飯坂,湯乃家 飯坂温泉,奥州三名湯 ひとり旅 おこもり',
   openGraph: {
-    title: '【奥州三名湯・飯坂温泉ひとり旅・摺上川渓谷あつ湯おこもり】松尾芭蕉ゆかりの古湯・摺上川のせせらぎ・円盤餃子＆福島地酒！福島交通飯坂線直通厳選3宿',
+    title: '奥州三名湯・飯坂温泉ひとり旅・摺上川渓谷あつ湯おこもり：松尾芭蕉ゆかりの古湯・摺上川のせせらぎ・円盤餃子＆福島地酒！福島交通飯坂線直通厳選3宿',
     description: '鳴子・秋保と並ぶ奥州三名湯の一つ・福島・飯坂温泉！自家源泉100%掛け流しの名湯と旬の味覚会席が口コミ★4.6の「松島屋 桃香」、摺上川の渓谷美と温かいもてなしが評判の「つたや旅館」、最上階展望露天風呂から温泉街を一望する「湯乃家」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/fukushima-iizaka-solo-retreat-hotspring-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【奥州三名湯・飯坂温泉ひとり旅・摺上川渓谷あつ湯おこもり】松尾芭蕉ゆかりの古湯・摺上川のせせらぎ・円盤餃子＆福島地酒！福島交通飯坂線直通厳選3宿',
+    headline: '奥州三名湯・飯坂温泉ひとり旅・摺上川渓谷あつ湯おこもり：松尾芭蕉ゆかりの古湯・摺上川のせせらぎ・円盤餃子＆福島地酒！福島交通飯坂線直通厳選3宿',
     description: '鳴子・秋保と並ぶ奥州三名湯の一つ・福島・飯坂温泉！自家源泉100%掛け流しの名湯と旬の味覚会席が口コミ★4.6の「松島屋 桃香」、摺上川の渓谷美と温かいもてなしが評判の「つたや旅館」、最上階展望露天風呂から温泉街を一望する「湯乃家」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             福島・飯坂温泉ひとり旅＆奥州三名湯あつ湯おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【奥州三名湯・飯坂温泉ひとり旅・摺上川渓谷あつ湯おこもり】松尾芭蕉ゆかりの古湯・摺上川のせせらぎ・円盤餃子＆福島地酒！福島交通飯坂線直通厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「奥州三名湯・飯坂温泉ひとり旅・摺上川渓谷あつ湯おこもり」松尾芭蕉ゆかりの古湯・摺上川のせせらぎ・円盤餃子＆福島地酒！福島交通飯坂線直通厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

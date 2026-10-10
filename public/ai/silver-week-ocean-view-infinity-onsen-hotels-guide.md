@@ -1,4 +1,4 @@
-# 【2026SW】海一望インフィニティ露天宿10選！比較｜失敗しないおすすめ宿ガイド
+# 2026SW：海一望インフィニティ露天宿10選！比較｜失敗しないおすすめ宿ガイド
 
 - URL: https://croud-travel.pages.dev/posts/silver-week-ocean-view-infinity-onsen-hotels-guide/
 - 宿泊施設名: 海一望インフィニティ露天宿おすすめ10選

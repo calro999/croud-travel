@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '美ら海と白い砂浜が目の前！沖縄本島最高峰ビーチリゾートホテル×ふるさと納税完全攻略ガイド【2026年最新】ハレクラニ・ルネッサンス・ロワジール',
+  title: '美ら海と白い砂浜が目の前！沖縄本島最高峰ビーチリゾートホテル×ふるさと納税極上旅ガイドハレクラニ・ルネッサンス・ロワジール',
   description: 'エメラルドグリーンの東シナ海と白い砂浜！ハワイの名門「ハレクラニ沖縄」、イルカと触れ合えるファミリー人気No.1「ルネッサンス リゾート オキナワ」、那覇空港近くで天然温泉大浴場と屋外プールを誇る「ロワジールホテル 那覇」を、沖縄県恩納村・那覇市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。',
   keywords: ["2026年最新", "ハレクラニ", "ルネッサンス", "ロワジール", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-okinawa-beach-resort-luxury-stay/",
   },
   openGraph: {
-    title: '美ら海と白い砂浜が目の前！沖縄本島最高峰ビーチリゾートホテル×ふるさと納税完全攻略ガイド【2026年最新】ハレクラニ・ルネッサンス・ロワジール',
+    title: '美ら海と白い砂浜が目の前！沖縄本島最高峰ビーチリゾートホテル×ふるさと納税極上旅ガイドハレクラニ・ルネッサンス・ロワジール',
     description: 'エメラルドグリーンの東シナ海と白い砂浜！ハワイの名門「ハレクラニ沖縄」、イルカと触れ合えるファミリー人気No.1「ルネッサンス リゾート オキナワ」、那覇空港近くで天然温泉大浴場と屋外プールを誇る「ロワジールホテル 那覇」を、沖縄県恩納村・那覇市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-okinawa-beach-resort-luxury-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoOkinawaBeachResortStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           憧れの南国！沖縄本島最高峰ビーチリゾート特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          美ら海と白い砂浜が目の前！沖縄本島最高峰ビーチリゾートホテル×ふるさと納税完全攻略ガイド【2026年最新】ハレクラニ・ルネッサンス・ロワジール
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">美ら海と白い砂浜が目の前！沖縄本島最高峰ビーチリゾートホテル×ふるさと納税極上旅ガイドハレクラニ・ルネッサンス・ロワジール</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoOkinawaBeachResortStayPage() {
               ハワイで育まれたラグジュアリーリゾート「ハレクラニ」が沖縄に誕生
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “サンセットと朝の眺めが最高、清潔感も抜群サンセットビーチvillaに宿泊しました。朝の眺めも日が落ちる瞬間も最高に綺麗でした!お部屋も清潔感があり安心して泊まることができました!クチコミの詳細… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D172611%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoOkinawaBeachResortStayPage() {
               イルカが暮らすプライベートリゾート！
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “リニューアルで綺麗、また泊まりたいホテル自体はリニューアルされててとても綺麗になってました。ただ、朝食の生搾りオレンジジュースを子供が楽しみにしてたので機械になってたのが残念でした。アメニ… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D54315%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoOkinawaBeachResortStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               空港から車で約7分。天然温泉大浴場、室内外プールと館内施設が充実♪■楽天認定プレミアムホテル■
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “”
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

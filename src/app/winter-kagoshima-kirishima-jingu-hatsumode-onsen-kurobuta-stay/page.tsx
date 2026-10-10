@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月鹿児島】国宝「霧島神宮」新春初詣と湯！名宿5選',
+  title: '11・12・1月鹿児島：国宝「霧島神宮」新春初詣と湯！名宿5選',
   description: '南九州随一のパワースポットと天下の名湯に癒やされる11〜1月の冬旅ガイド。天孫降臨神話が息づく国宝「霧島神宮」の新春初詣と朱塗りの本殿。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '霧島神宮 初詣 国宝, 霧島温泉郷 旅館, 丸尾温泉 にごり湯, 霧島国際ホテル, 霧島ホテル 庭園大浴場, ラビスタ霧島ヒルズ, かごしま黒豚 しゃぶしゃぶ, 鹿児島 冬 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kagoshima-kirishima-jingu-hatsumode-onsen-kurobuta-stay/"
   },
   openGraph: {
-    title: '【11・12・1月鹿児島】国宝「霧島神宮」新春初詣と湯！名宿5選',
+    title: '11・12・1月鹿児島：国宝「霧島神宮」新春初詣と湯！名宿5選',
     description: '南九州随一のパワースポットと天下の名湯に癒やされる11〜1月の冬旅ガイド。天孫降臨神話が息づく国宝「霧島神宮」の新春初詣と朱塗りの本殿。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-kagoshima-kirishima-jingu-hatsumode-onsen-kurobuta-stay',
     type: 'article',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月鹿児島】国宝「霧島神宮」新春初詣と湯けむり立ち上る丸尾温泉！源泉露天＆極上黒豚名宿5選",
+    title: "11・12・1月鹿児島：国宝「霧島神宮」新春初詣と湯けむり立ち上る丸尾温泉！源泉露天＆極上黒豚名宿5選",
     description: "南九州随一のパワースポットと天下の名湯に癒やされる11〜1月の冬旅ガイド。天孫降臨神話が息づく国宝「霧島神宮」の新春初詣と朱塗りの本殿。標高600〜800mの山懐に湯けむりがもうもうと立ち上る「霧島温泉郷（丸尾温泉・硫黄谷温泉）」の乳白色の源泉掛け流し露天風呂。冬に甘みと旨味が最高潮に達する本場「かごしま黒豚」のしゃぶしゃぶや黒毛和牛、きびなご、本格芋焼酎。冬の霧島連山の雄大な景観を望む厳選名宿5選を詳しくご紹介します。",
     images: ['https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -284,11 +284,7 @@ export default function KagoshimaKirishimaWinterPage() {
               <Sparkles className="w-4 h-4 text-amber-300" />
               <span>11月・12月・1月冬の南九州・薩摩旅情特集</span>
             </div>
-            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 text-white drop-shadow-md">
-              鹿児島・霧島温泉郷＆霧島神宮<br className="hidden sm:inline" />
-              国宝「霧島神宮」新春初詣と湯けむり立ち上る丸尾温泉！<br className="hidden sm:inline" />
-              源泉掛け流し露天風呂＆極上かごしま黒豚名宿5選
-            </h1>
+            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 text-white drop-shadow-md">鹿児島・霧島温泉郷＆霧島神宮<br className="hidden sm:inline" /> 国宝「霧島神宮」新春初詣と湯けむり立ち上る丸尾温泉！<br className="hidden sm:inline" /> 源泉掛け流し露天風呂＆極上かごしま黒豚名宿5選</h1>
             <p className="max-w-3xl mx-auto text-sm md:text-lg text-amber-100 leading-relaxed drop-shadow">
               天孫降臨の神話が息づく国宝・霧島神宮で迎える厳かな新年。標高の山懐に豪快な湯けむりが噴き上がる丸尾温泉・硫黄谷温泉の乳白色にごり湯に身を委ね、冬に甘みが極まる本場「かごしま黒豚しゃぶしゃぶ」と本格芋焼酎に酔いしれる冬の霧島紀行。
             </p>

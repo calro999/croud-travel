@@ -180,9 +180,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            宇宙の神秘と満天の天の川！天体望遠鏡＆星空デッキ完備の星空リゾートホテル
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">宇宙の神秘と満天の天の川！天体望遠鏡＆星空デッキ完備の星空リゾートホテル</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             人工の光が届かない澄み切った夜空に、降るように広がる無数の星々と白銀の天の川。館内備え付けの大型天体望遠鏡で土星の輪や月面のクレーターを覗き、ホットワインを片手に星空テラスで寝転ぶ。星のソムリエによる星空解説や星空露天風呂など、忘れられない感動の夜をお届けします。
           </p>

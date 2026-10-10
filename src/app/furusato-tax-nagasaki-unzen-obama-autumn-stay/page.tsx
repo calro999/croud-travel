@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            長崎・雲仙地獄の紅葉とクラシックリゾート！白濁硫黄泉の名湯＆長崎和牛・秋島原グルメ
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">長崎・雲仙地獄の紅葉とクラシックリゾート！白濁硫黄泉の名湯＆長崎和牛・秋島原グルメ</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の長崎・雲仙＆島原特集！国の名勝・雲仙地獄から立ち上る噴気と仁田峠の鮮やかな普賢岳紅葉ロープウェイ、日本屈指の歴史を誇るクラシックリゾートホテルと乳白色の濃厚硫黄泉、長崎和牛ステーキや島原の秋の味覚をふるさと納税トラベルで堪能する贅沢旅。
           </p>

@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月香川】総本山善通寺の雪の初詣と丸亀！名宿5選',
+  title: '11・12・1月香川：総本山善通寺の雪の初詣と丸亀！名宿5選',
   description: '真言宗開祖・弘法大師空海の御生誕の地であり四国霊場第75番札所の総本山善通寺での荘厳な初詣。日本一の石垣美を誇る現存十二天守・丸亀城の冬のラ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '総本山善通寺 初詣, 丸亀城 ライトアップ, しっぽくうどん 香川, 骨付鳥 丸亀, オークラホテル丸亀, 紅梅亭, レオマの森, 空海 生誕地, 11月 12月 1月 香川 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kagawa-zentsuji-marugame-castle-udon-stay/"
   },
   openGraph: {
-    title: '【11・12・1月香川】総本山善通寺の雪の初詣と丸亀！名宿5選',
+    title: '11・12・1月香川：総本山善通寺の雪の初詣と丸亀！名宿5選',
     description: '真言宗開祖・弘法大師空海の御生誕の地であり四国霊場第75番札所の総本山善通寺での荘厳な初詣。日本一の石垣美を誇る現存十二天守・丸亀城の冬のラ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-kagawa-zentsuji-marugame-castle-udon-stay',
     siteName: '地域の宿探訪',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月香川】善通寺＆丸亀！弘法大師生誕地・総本山善通寺の雪の初詣と丸亀城石垣ライトアップ・冬の讃岐しっぽくうどん＆骨付鳥名宿5選",
+    title: "11・12・1月香川：善通寺＆丸亀！弘法大師生誕地・総本山善通寺の雪の初詣と丸亀城石垣ライトアップ・冬の讃岐しっぽくうどん＆骨付鳥名宿5選",
     description: "真言宗開祖・弘法大師空海の御生誕の地であり四国霊場第75番札所の総本山善通寺での荘厳な初詣。日本一の石垣美を誇る現存十二天守・丸亀城の冬のライトアップや、冬期限定の具だくさん郷土麺「讃岐しっぽくうどん」、丸亀発祥のスパイシーな「骨付鳥」。瀬戸内海を望む展望風呂や名湯こんぴら温泉に癒やされる厳選名宿5選を徹底特集します。",
     images: ["https://img.travel.rakuten.co.jp/share/HOTEL/675/675.jpg"]
   }
@@ -252,9 +252,7 @@ export default function KagawaZentsujiMarugamePage() {
             <Landmark className="w-3.5 h-3.5 text-orange-400" />
             11月〜1月限定・讃岐の聖地初詣＆熱々冬グルメ特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight md:leading-snug text-balance">
-            【11・12・1月香川】善通寺＆丸亀！弘法大師生誕地・総本山善通寺の雪の初詣と丸亀城石垣ライトアップ・冬の讃岐しっぽくうどん＆骨付鳥名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight md:leading-snug text-balance">「11・12・1月香川」善通寺＆丸亀！弘法大師生誕地・総本山善通寺の雪の初詣と丸亀城石垣ライトアップ・冬の讃岐しっぽくうどん＆骨付鳥名宿5選</h1>
           <p className="text-stone-300 text-xs sm:text-sm md:text-base leading-relaxed max-w-3xl mx-auto font-medium">
             空海御生誕の霊場・総本山善通寺での厳かな初詣と戒壇めぐり。日本一高い石垣を誇る名城・丸亀城の冬の夜間ライトアップ。冬期限定の根菜たっぷり「しっぽくうどん」と熱々スパイシーな「骨付鳥」を味わい、瀬戸内海展望露天やこんぴら温泉で寛ぐ冬旅へ。
           </p>

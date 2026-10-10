@@ -172,9 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>客室専用サウナ×セルフロウリュ</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            客室専用プライベートサウナ＆セルフロウリュ！誰にも邪魔されずととのう極上温泉宿
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">客室専用プライベートサウナ＆セルフロウリュ！誰にも邪魔されずととのう極上温泉宿</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             好きなタイミングでアロマ水を注ぐセルフロウリュ、富士山や森林の絶景を望む外気浴スペース、そして地下水かけ流しの水風呂。完全プライベート空間で至極のととのい体験ができる客室サウナ付き温泉宿をピックアップしました。
           </p>

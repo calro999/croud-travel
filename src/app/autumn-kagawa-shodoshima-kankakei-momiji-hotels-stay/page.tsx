@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【11月見頃！日本三大渓谷美・小豆島寒霞渓の紅葉】奇岩ロープウェイと絶景オリーブ温泉宿5選",
+  title: "見頃！日本三大渓谷美・小豆島寒霞渓の紅葉で過ごす冬の旅（11月）！奇岩ロープウェイと絶景オリーブ温泉宿5選",
   description: "瀬戸内海と奇岩怪石を彩る日本屈指の渓谷美「寒霞渓」の紅葉！ロープウェイの空中散歩からエンジェルロード、極上のオリーブ牛や醤油会席を味わう小豆島のおすすめ名宿5選。",
   keywords: "小豆島 寒霞渓 紅葉 見頃 11月, 寒霞渓 ロープウェイ, 小豆島 温泉 ホテル おすすめ, 島宿真里, 小豆島国際ホテル, オリーブ牛 宿泊",
   alternates: {
     canonical: "https://croud-travel.pages.dev/autumn-kagawa-shodoshima-kankakei-momiji-hotels-stay/",
   },
   openGraph: {
-    title: "【11月見頃！日本三大渓谷美・小豆島寒霞渓の紅葉】奇岩ロープウェイと絶景オリーブ温泉宿5選",
+    title: "見頃！日本三大渓谷美・小豆島寒霞渓の紅葉で過ごす冬の旅（11月）！奇岩ロープウェイと絶景オリーブ温泉宿5選",
     description: "瀬戸内海と奇岩怪石を彩る日本屈指の渓谷美「寒霞渓」の紅葉！ロープウェイの空中散歩からエンジェルロード、極上のオリーブ牛や醤油会席を味わう小豆島のおすすめ名宿5選。",
     url: 'https://croud-travel.pages.dev/autumn-kagawa-shodoshima-kankakei-momiji-hotels-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11月見頃！日本三大渓谷美・小豆島寒霞渓の紅葉】奇岩ロープウェイと絶景オリーブ温泉宿5選",
+    title: "見頃！日本三大渓谷美・小豆島寒霞渓の紅葉で過ごす冬の旅（11月）！奇岩ロープウェイと絶景オリーブ温泉宿5選",
     description: "瀬戸内海と奇岩怪石を彩る日本屈指の渓谷美「寒霞渓」の紅葉！ロープウェイの空中散歩からエンジェルロード、極上のオリーブ牛や醤油会席を味わう小豆島のおすすめ名宿5選。",
   }
 };
@@ -131,9 +131,7 @@ export default function FeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             11月見頃！日本三大渓谷美・瀬戸内海パノラマ特集
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11月見頃！日本三大渓谷美・小豆島寒霞渓の紅葉】<br className="hidden sm:inline" />奇岩ロープウェイと絶景オリーブ温泉宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">見頃！日本三大渓谷美・小豆島寒霞渓の紅葉で過ごす冬の旅（11月）！<br className="hidden sm:inline" />奇岩ロープウェイと絶景オリーブ温泉宿5選</h1>
           <p className="max-w-2xl mx-auto text-sm md:text-base text-stone-200 leading-relaxed">
             瀬戸内海国立公園を代表する日本屈指の景勝地「寒霞渓」！奇岩怪石の岩肌を約50種もの紅葉植物が彩るロープウェイの絶景から、エンジェルロードやオリーブ牛会席を味わう贅沢な島旅。
           </p>

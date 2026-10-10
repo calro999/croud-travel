@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月長崎雲仙温泉】雲仙地獄の湯煙！名宿5選',
+  title: '長崎雲仙温泉で過ごす冬の旅（11・12月）！雲仙地獄の湯煙！名宿5選',
   description: '11月下旬から12月にかけて雲仙普賢岳や仁田峠を純白に染める自然の芸術「霧氷（花ぼうろ）」と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '長崎 雲仙温泉 宿泊, 雲仙温泉 11月 12月, 雲仙宮崎旅館, 旅亭 半水盧, ゆやど 雲仙新湯, 雲仙福田屋, 青雲荘, 雲仙地獄 湯煙, 普賢岳 霧氷 花ぼうろ, 雲仙あかね牛 ステーキ, 島原具雑煮',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagasaki-unzen-onsen-jigoku-mist-beef-stay/",
   },
   openGraph: {
-    title: '【11・12月長崎雲仙温泉】雲仙地獄の湯煙！名宿5選',
+    title: '長崎雲仙温泉で過ごす冬の旅（11・12月）！雲仙地獄の湯煙！名宿5選',
     description: '11月下旬から12月にかけて雲仙普賢岳や仁田峠を純白に染める自然の芸術「霧氷（花ぼうろ）」と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-nagasaki-unzen-onsen-jigoku-mist-beef-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月長崎雲仙温泉の冬名湯と普賢岳霧氷】雲仙地獄の湯煙・乳白色の硫黄泉露天と極上雲仙あかね牛・島原郷土会席の宿5選",
+    title: "長崎雲仙温泉の冬名湯と普賢岳霧氷で過ごす冬の旅（11・12月）！雲仙地獄の湯煙・乳白色の硫黄泉露天と極上雲仙あかね牛・島原郷土会席の宿5選",
     description: "11月下旬から12月にかけて雲仙普賢岳や仁田峠を純白に染める自然の芸術「霧氷（花ぼうろ）」と、冬の冷気の中で白い湯煙を轟音とともに噴き上げる「雲仙地獄」。日本最初の国立公園に位置する歴史ある高原温泉街で、冷えた体を芯から解き放つ濃厚な乳白色の強酸性硫黄泉、幻の極上黒毛和牛「雲仙あかね牛」、島原伝統の具雑煮会席を満喫する厳選名宿5選を徹底解説。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80'],
   }
@@ -298,10 +298,7 @@ export default function UnzenOnsenWinterPage() {
             <CloudFog className="w-4 h-4 text-emerald-300" />
             <span>11月・12月限定 普賢岳霧氷と雲仙地獄の湯煙・乳白色硫黄泉旅</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月長崎雲仙温泉の冬名湯と普賢岳霧氷】<br className="hidden sm:inline" />
-            雲仙地獄の湯煙・乳白色の硫黄泉露天と極上雲仙あかね牛・島原郷土会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">長崎雲仙温泉の冬名湯と普賢岳霧氷で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 雲仙地獄の湯煙・乳白色の硫黄泉露天と極上雲仙あかね牛・島原郷土会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-slate-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             初冬の冷気の中で轟音を響かせ白い湯煙を噴き上げる雲仙地獄。日本最初の国立公園に位置する歴史ある高原温泉街で、冷えた体を芯から解き放つ濃厚な乳白色の強酸性硫黄泉、仁田峠の純白の霧氷（花ぼうろ）と極上雲仙あかね牛を堪能する大人の冬旅。
           </p>

@@ -3,11 +3,11 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【箱根仙石原温泉×ふるさと納税】黄金のすすき草原＆大涌谷美肌にごり湯！大人の高原リゾート完全ガイド｜きたの風茶寮・仙郷楼・BLISSTIA箱根仙石原',
+  title: '箱根仙石原温泉をふるさと納税でお得に旅する！黄金のすすき草原＆大涌谷美肌にごり湯！大人の高原リゾート厳選ガイド｜きたの風茶寮・仙郷楼・BLISSTIA箱根仙石原',
   description: '秋の黄金のすすき草原と大自然に抱かれる箱根屈指の高原リゾート「仙石原温泉」を楽天ふるさと納税でお得に満喫！全室客室露天風呂と北海道×箱根の美食オーベルジュ「きたの風茶寮」、創業百五十年の老舗白濁にごり湯「仙郷楼」、全室スイート仕様のモダンホテル「BLISSTIA箱根仙石原」を徹底紹介。箱根町クーポン活用術を網羅。',
   keywords: '仙石原温泉 ふるさと納税,箱根 仙石原 旅館 クーポン,きたの風茶寮 ふるさと納税,仙郷楼 にごり湯,箱根町 ふるさと納税 宿泊',
   openGraph: {
-    title: '【箱根仙石原温泉×ふるさと納税】黄金のすすき草原＆大涌谷美肌にごり湯！大人の高原リゾート完全ガイド｜きたの風茶寮・仙郷楼・BLISSTIA箱根仙石原',
+    title: '箱根仙石原温泉をふるさと納税でお得に旅する！黄金のすすき草原＆大涌谷美肌にごり湯！大人の高原リゾート厳選ガイド｜きたの風茶寮・仙郷楼・BLISSTIA箱根仙石原',
     description: '秋の黄金のすすき草原と大自然に抱かれる箱根屈指の高原リゾート「仙石原温泉」を楽天ふるさと納税でお得に満喫！全室客室露天風呂と北海道×箱根の美食オーベルジュ「きたの風茶寮」、創業百五十年の老舗白濁にごり湯「仙郷楼」、全室スイート仕様のモダンホテル「BLISSTIA箱根仙石原」を徹底紹介。箱根町クーポン活用術を網羅。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-hakone-sengokuhara-pampas-luxury-stay',
@@ -54,9 +54,7 @@ export default function FurusatoTaxArticle() {
             <span>•</span>
             <span>自治体公認 宿泊割引</span>
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-5xl font-extrabold tracking-tight text-white font-serif leading-tight">
-            【箱根仙石原温泉×ふるさと納税】黄金のすすき草原＆大涌谷美肌にごり湯！大人の高原リゾート完全ガイド｜きたの風茶寮・仙郷楼・BLISSTIA箱根仙石原
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-5xl font-extrabold tracking-tight text-white font-serif leading-tight">箱根仙石原温泉をふるさと納税でお得に旅する！黄金のすすき草原＆大涌谷美肌にごり湯！大人の高原リゾート厳選ガイド｜きたの風茶寮・仙郷楼・BLISSTIA箱根仙石原</h1>
           <p className="text-stone-300 text-sm md:text-base max-w-2xl mx-auto pt-2 leading-relaxed">
             秋の黄金のすすき草原と大自然に抱かれる箱根屈指の高原リゾート「仙石原温泉」を楽天ふるさと納税でお得に満喫！全室客室露天風呂と北海道×箱根の美食オーベルジュ「きたの風茶寮」、創業百五十年の老舗白濁にごり湯「仙郷楼」、全室スイート仕様のモダンホテル「BLISSTIA箱根仙石原」を徹底紹介。箱根町クーポン活用術を網羅。
           </p>

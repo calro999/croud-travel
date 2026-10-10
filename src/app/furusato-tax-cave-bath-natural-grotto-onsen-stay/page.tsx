@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '荒波迫る海食洞窟と神秘の巨岩風呂！全国の天然洞窟温泉＆名湯旅館×ふるさと納税完全ガイド【2026年最新】南紀勝浦・湯の峰・上諏訪',
+  title: '荒波迫る海食洞窟と神秘の巨岩風呂！全国の天然洞窟温泉＆名湯旅館×ふるさと納税厳選ガイド南紀勝浦・湯の峰・上諏訪',
   description: '打ち寄せる太平洋の怒濤を間近に望む大洞窟風呂から、太古の巨岩に囲まれた神秘の湯処まで！那智勝浦の巨大海食洞窟温泉「忘帰洞」「玄武洞」を擁する「ホテル浦島」、世界遺産・湯の峰温泉で槇風呂と天然蒸し風呂・洞窟の情緒を伝える「旅館あづまや」、諏訪湖畔で神秘の自家源泉と畳風呂の癒しを提供する「上諏訪温泉 しんゆ」。地球の息吹を肌で感じるワイルドで神秘的な名湯体験を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
   keywords: ["名湯旅館×ふるさと納税", "2026年最新", "南紀勝浦", "湯の峰", "上諏訪", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-cave-bath-natural-grotto-onsen-stay/",
   },
   openGraph: {
-    title: '荒波迫る海食洞窟と神秘の巨岩風呂！全国の天然洞窟温泉＆名湯旅館×ふるさと納税完全ガイド【2026年最新】南紀勝浦・湯の峰・上諏訪',
+    title: '荒波迫る海食洞窟と神秘の巨岩風呂！全国の天然洞窟温泉＆名湯旅館×ふるさと納税厳選ガイド南紀勝浦・湯の峰・上諏訪',
     description: '打ち寄せる太平洋の怒濤を間近に望む大洞窟風呂から、太古の巨岩に囲まれた神秘の湯処まで！那智勝浦の巨大海食洞窟温泉「忘帰洞」「玄武洞」を擁する「ホテル浦島」、世界遺産・湯の峰温泉で槇風呂と天然蒸し風呂・洞窟の情緒を伝える「旅館あづまや」、諏訪湖畔で神秘の自家源泉と畳風呂の癒しを提供する「上諏訪温泉 しんゆ」。地球の息吹を肌で感じるワイルドで神秘的な名湯体験を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-cave-bath-natural-grotto-onsen-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoCaveBathNaturalGrottoStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           全国屈指の天然洞窟風呂・巨岩名湯宿特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          荒波迫る海食洞窟と神秘の巨岩風呂！全国の天然洞窟温泉＆名湯旅館×ふるさと納税完全ガイド【2026年最新】南紀勝浦・湯の峰・上諏訪
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">荒波迫る海食洞窟と神秘の巨岩風呂！全国の天然洞窟温泉＆名湯旅館×ふるさと納税厳選ガイド南紀勝浦・湯の峰・上諏訪</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoCaveBathNaturalGrottoStayPage() {
               【楽天トラベルゴールドアワード受賞】圧倒的なスケールと開放感！天然洞窟温泉など湯巡りを楽しもう♪
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “リニューアルで一新、来年もまた訪れたい浦島さんへは十数年前くらいから、毎年訪問しております。今年は特に、70周年でリニューアルされているという事で楽しみにしておりました。感想は、結構落ち着… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D54556%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoCaveBathNaturalGrottoStayPage() {
               名湯と温泉料理の宿で知られている当館。熊野古道のメッカ、本宮に在り、つぼ湯が目印です。
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “温泉街の中心で料理も温泉も素晴らしい車での利用でしたが、温泉街のほぼ中心でバス停や公衆浴場の真ん前の立地(ただし駐車場からは徒歩3分程度かかる)。温泉や料理も素晴らしく、古い建物ながら清潔に手入れ… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D129554%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoCaveBathNaturalGrottoStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               諏訪湖畔に佇む【癒し】とおもてなしの宿◯自家源泉の湯と【個室料亭】での美食【衛生消毒プログラム導入】
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “早期予約でお得に、4社巡りツアーも大満足早期予約で割安で予約が取れました。老舗旅館らしい良さが接客や料理など随所に感じられました。地場野菜を多く使った食事は美味しく頂けました。特に気に入ったのは、… ”
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

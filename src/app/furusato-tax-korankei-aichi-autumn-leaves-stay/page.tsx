@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '4000本のもみじが燃える東海随一の名所・香嵐渓！巴川ライトアップ＆猿投温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】愛知',
+  title: '4000本のもみじが燃える東海随一の名所・香嵐渓！巴川ライトアップ＆猿投温泉宿×ふるさと納税厳選ガイド愛知',
   description: '11月上旬〜11月下旬に約4,000本のもみじが巴川を彩る東海屈指の紅葉名所「香嵐渓（こうらんけい）」。待月橋の朱塗りと五色もみじ、夜間ライトアップの幻想的な巴川、奇跡の天然ラドン温泉「猿投温泉 金泉閣」や快適シティホテル「名鉄トヨタホテル」「旅荘 みつい」で三河牛や名物五平餅・鮎料理を堪能。ふるさと納税で実質2,000円。',
   keywords: ["香嵐渓！巴川ライトアップ", "猿投温泉宿×ふるさと納税", "2026年最新秋旅", "愛知", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-korankei-aichi-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '4000本のもみじが燃える東海随一の名所・香嵐渓！巴川ライトアップ＆猿投温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】愛知',
+    title: '4000本のもみじが燃える東海随一の名所・香嵐渓！巴川ライトアップ＆猿投温泉宿×ふるさと納税厳選ガイド愛知',
     description: '11月上旬〜11月下旬に約4,000本のもみじが巴川を彩る東海屈指の紅葉名所「香嵐渓（こうらんけい）」。待月橋の朱塗りと五色もみじ、夜間ライトアップの幻想的な巴川、奇跡の天然ラドン温泉「猿投温泉 金泉閣」や快適シティホテル「名鉄トヨタホテル」「旅荘 みつい」で三河牛や名物五平餅・鮎料理を堪能。ふるさと納税で実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-korankei-aichi-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FeatureArticlePage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               愛知・香嵐渓もみじまつり＆猿投温泉特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              4000本のもみじが燃える東海随一の名所・香嵐渓！巴川ライトアップ＆猿投温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】愛知
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">4000本のもみじが燃える東海随一の名所・香嵐渓！巴川ライトアップ＆猿投温泉宿×ふるさと納税厳選ガイド愛知</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               11月上旬〜11月下旬に約4,000本のもみじが巴川を彩る東海屈指の紅葉名所「香嵐渓（こうらんけい）」。待月橋の朱塗りと五色もみじ、夜間ライトアップの幻想的な巴川、奇跡の天然ラドン温泉「猿投温泉 金泉閣」や快適シティホテル「名鉄トヨタホテル」「旅荘 みつい」で三河牛や名物五平餅・鮎料理を堪能。ふるさと納税で実質2,000円。
             </p>

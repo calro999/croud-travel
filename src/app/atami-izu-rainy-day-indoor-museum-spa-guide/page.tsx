@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/atami-izu-rainy-day-indoor-museum-spa-guide/" },
-  title: "【熱海 雨の日の観光＆温泉】MOA美術館・起雲閣・昭和レトロ喫茶＆インフィニティ露天風呂",
+  title: "熱海 雨の日の観光＆温泉：MOA美術館・起雲閣・昭和レトロ喫茶＆インフィニティ露天風呂",
   description:
     "雨でも濡れずに楽しめる熱海観光！絶景パノラマと国宝を誇るMOA美術館、文豪が愛した名邸「起雲閣」、平和通り商店街のアーケード散歩、雨天でも心地よい海一望温泉リゾートまとめ。",
   keywords: ["熱海", "雨の日の観光", "温泉", "MOA美術館", "起雲閣", "昭和レトロ喫茶", "インフィニティ露天風呂"],
@@ -170,13 +170,7 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
             雨でも濡れない！熱海のアート・名邸・レトロ喫茶＆名湯
           </div>
 
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-amber-100 leading-tight tracking-tight mb-6">
-            【熱海 雨の日の観光＆温泉】
-            <br />
-            <span className="bg-gradient-to-r from-amber-200 via-orange-300 to-amber-400 bg-clip-text text-transparent">
-              MOA美術館・起雲閣・昭和レトロ喫茶＆インフィニティ露天風呂
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-amber-100 leading-tight tracking-tight mb-6">「熱海 雨の日の観光＆温泉」 <br /> <span className="bg-gradient-to-r from-amber-200 via-orange-300 to-amber-400 bg-clip-text text-transparent"> MOA美術館・起雲閣・昭和レトロ喫茶＆インフィニティ露天風呂 </span></h1>
 
           <p className="text-amber-200/90 text-sm sm:text-base leading-relaxed max-w-3xl mx-auto mb-8">
             雨の熱海は、風情とぬくもりに満ちた大人の隠れ家リゾート。山上に聳えるMOA美術館の巨大パノラマと至高の美術品、文豪たちが静養に訪れた起雲閣のレトロ建築、駅前のアーケード商店街に立ち並ぶ純喫茶、そして雨音と潮騒が交錯するオーシャンビュー温泉。雨の日だからこそ心ゆくまで満喫できる熱海旅をご案内します。

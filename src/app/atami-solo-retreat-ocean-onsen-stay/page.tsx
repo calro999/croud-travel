@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/atami-solo-retreat-ocean-onsen-stay/" },
-  title: '【熱海ひとり旅・海望おこもり】相模湾インフィニティ露天・創業200余年の老舗名湯・贅沢海の幸！都心から45分の極上温泉宿 厳選3選',
+  title: '熱海ひとり旅・海望おこもり：相模湾インフィニティ露天・創業200余年の老舗名湯・贅沢海の幸！都心から45分の極上温泉宿 厳選3選',
   description: '東京駅から東海道新幹線でわずか約45分！相模湾のパノラマと夜景を望む「熱海後楽園ホテル」、創業200年超の歴史と名湯・部屋食を誇る名門「古屋旅館」、自家源泉と昭和レトロなもてなしが心地よい「湯宿一番地」を楽天APIデータに基づき徹底比較。',
   keywords: '熱海 一人旅 温泉宿,熱海後楽園ホテル ひとり,熱海 古屋旅館 一人,熱海 湯宿一番地,熱海 温泉 おこもり',
   openGraph: {
-    title: '【熱海ひとり旅・海望おこもり】相模湾インフィニティ露天・創業200余年の老舗名湯・贅沢海の幸！都心から45分の極上温泉宿 厳選3選',
+    title: '熱海ひとり旅・海望おこもり：相模湾インフィニティ露天・創業200余年の老舗名湯・贅沢海の幸！都心から45分の極上温泉宿 厳選3選',
     description: '東京駅から東海道新幹線でわずか約45分！相模湾のパノラマと夜景を望む「熱海後楽園ホテル」、創業200年超の歴史と名湯・部屋食を誇る名門「古屋旅館」、自家源泉と昭和レトロなもてなしが心地よい「湯宿一番地」を楽天APIデータに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/atami-solo-retreat-ocean-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【熱海ひとり旅・海望おこもり】相模湾インフィニティ露天・創業200余年の老舗名湯・贅沢海の幸！都心から45分の極上温泉宿 厳選3選',
+    headline: '熱海ひとり旅・海望おこもり：相模湾インフィニティ露天・創業200余年の老舗名湯・贅沢海の幸！都心から45分の極上温泉宿 厳選3選',
     description: '東京駅から東海道新幹線でわずか約45分！相模湾のパノラマと夜景を望む「熱海後楽園ホテル」、創業200年超の歴史と名湯・部屋食を誇る名門「古屋旅館」、自家源泉と昭和レトロなもてなしが心地よい「湯宿一番地」を楽天APIデータに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -73,9 +73,7 @@ export default function ArticlePage() {
         <div className="inline-block bg-amber-700 text-white text-xs font-semibold px-3 py-1 rounded-full mb-3 tracking-wider">
           ひとり旅・出張・サウナ＆名湯特集
         </div>
-        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">
-          【熱海ひとり旅・海望おこもり】相模湾インフィニティ露天・創業200余年の老舗名湯・贅沢海の幸！都心から45分の極上温泉宿 厳選3選
-        </h1>
+        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">「熱海ひとり旅・海望おこもり」相模湾インフィニティ露天・創業200余年の老舗名湯・贅沢海の幸！都心から45分の極上温泉宿 厳選3選</h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.12 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>

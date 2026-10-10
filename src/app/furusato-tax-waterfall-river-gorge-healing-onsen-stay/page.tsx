@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-waterfall-river-gorge-healing-onsen-stay/" },
-  title: '清流渓谷＆名瀑ヒーリング温泉宿×ふるさと納税完全ガイド【2026年最新】奥入瀬・天城湯ヶ島・作並の滝見露天',
+  title: '清流渓谷＆名瀑ヒーリング温泉宿×ふるさと納税厳選ガイド奥入瀬・天城湯ヶ島・作並の滝見露天',
   description: '落差ある名瀑や激流のせせらぎを間近に望む絶景露天風呂！奥入瀬渓流、天城湯ヶ島、仙台作並温泉などマイナスイオン溢れる清流峡谷の名宿を、楽天ふるさと納税トラベルクーポンでお得に予約する自然治癒・温泉旅ガイド。',
   keywords: ["清流渓谷", "2026年最新", "奥入瀬", "天城湯ヶ島", "作並の滝見露天", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: '清流渓谷＆名瀑ヒーリング温泉宿×ふるさと納税完全ガイド【2026年最新】奥入瀬・天城湯ヶ島・作並の滝見露天',
+    title: '清流渓谷＆名瀑ヒーリング温泉宿×ふるさと納税厳選ガイド奥入瀬・天城湯ヶ島・作並の滝見露天',
     description: '落差ある名瀑や激流のせせらぎを間近に望む絶景露天風呂！奥入瀬渓流、天城湯ヶ島、仙台作並温泉などマイナスイオン溢れる清流峡谷の名宿を、楽天ふるさと納税トラベルクーポンでお得に予約する自然治癒・温泉旅ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-waterfall-river-gorge-healing-onsen-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FurusatoTaxPage() {
           <span className="inline-block px-4 py-1.5 rounded-full text-xs md:text-sm font-black bg-gradient-to-r from-amber-500 to-yellow-400 text-slate-950 mb-5 shadow-lg shadow-amber-500/20">
             渓谷・名瀑ヒーリング温泉特集
           </span>
-          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">
-            清流渓谷＆名瀑ヒーリング温泉宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">清流渓谷＆名瀑ヒーリング温泉宿×ふるさと納税ガイド</h1>
           <p className="text-sm md:text-lg text-slate-300 leading-relaxed font-medium">
             落差ある名瀑や激流のせせらぎを間近に望む絶景露天風呂！奥入瀬渓流、天城湯ヶ島、仙台作並温泉などマイナスイオン溢れる清流峡谷の名宿を、楽天ふるさと納税トラベルクーポンでお得に予約する自然治癒・温泉旅ガイド。
           </p>

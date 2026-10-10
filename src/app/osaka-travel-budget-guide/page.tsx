@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/osaka-travel-budget-guide/" },
-  title: "【大阪旅行 費用】1泊2日・2泊3日の総額はいくら？USJ込みの予算＆道頓堀グルメ食費シミュレーション",
+  title: "大阪旅行 費用：1泊2日・2泊3日の総額はいくら？USJ込みの予算＆道頓堀グルメ食費シミュレーション",
   description: "大阪旅行の費用を1泊2日（USJなし）・2泊3日（USJ込み）パターンで完全シミュレーション！東京・名古屋・福岡からの交通費、なんば・梅田のホテル相場、道頓堀・新世界のグルメ食費まで、全部具体的な金額で解説。",
   keywords: ["大阪旅行", "費用", "1泊2日", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -59,9 +59,7 @@ export default function OsakaTravelBudgetPage() {
           <span className="text-xs font-black tracking-wider bg-white text-rose-600 px-4 py-1.5 rounded-full uppercase inline-block shadow">
             OSAKA BUDGET GUIDE
           </span>
-          <h1 className="text-3xl md:text-4xl font-black font-journal-serif tracking-tight leading-snug text-white">
-            【大阪旅行の費用】1泊2日・2泊3日の総額は？USJ込みの予算＆道頓堀グルメ食い倒れシミュレーション
-          </h1>
+          <h1 className="text-3xl md:text-4xl font-black font-journal-serif tracking-tight leading-snug text-white">「大阪旅行の費用」1泊2日・2泊3日の総額は？USJ込みの予算＆道頓堀グルメ食い倒れシミュレーション</h1>
           <p className="text-sm md:text-base text-white/90 leading-relaxed font-medium">
             「大阪旅行に行きたいけど、結局いくらあれば足りる？」
             USJに行くか行かないかで、大阪旅行の予算はガラッと変わります。今回は交通費・ホテル代・食い倒れグルメの具体的な金額を出して、2パターンのリアルな予算書を大公開します！

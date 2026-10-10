@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/iwate-morioka-tsunagi-solo-retreat-onsen-stay/" },
-  title: '【盛岡つなぎ温泉ひとり旅・御所湖畔と岩手山おこもり】源泉かけ流し単純硫黄泉・前沢牛＆盛岡冷麺・南部鉄器文化！新幹線盛岡駅25分の名湯厳選3宿',
+  title: '盛岡つなぎ温泉ひとり旅・御所湖畔と岩手山おこもり：源泉かけ流し単純硫黄泉・前沢牛＆盛岡冷麺・南部鉄器文化！新幹線盛岡駅25分の名湯厳選3宿',
   description: '開湯900年、源義家が愛馬を繋いで湯浴みした伝説の湯・盛岡つなぎ温泉！源泉かけ流しの美肌硫黄泉と女将の手作り郷土料理が温かい「旅染屋 山いち」、御所湖の眺望と良心的な価格でくつろげる「清温荘」、気兼ねない素泊まり・ワーケーションにも最適な「旅やど」を楽天API最新データに基づき徹底比較。',
   keywords: 'つなぎ温泉 一人旅 宿,盛岡 つなぎ温泉 ホテル 一人,山いち つなぎ温泉,清温荘 盛岡,旅やど つなぎ温泉,盛岡 ひとり旅 おこもり',
   openGraph: {
-    title: '【盛岡つなぎ温泉ひとり旅・御所湖畔と岩手山おこもり】源泉かけ流し単純硫黄泉・前沢牛＆盛岡冷麺・南部鉄器文化！新幹線盛岡駅25分の名湯厳選3宿',
+    title: '盛岡つなぎ温泉ひとり旅・御所湖畔と岩手山おこもり：源泉かけ流し単純硫黄泉・前沢牛＆盛岡冷麺・南部鉄器文化！新幹線盛岡駅25分の名湯厳選3宿',
     description: '開湯900年、源義家が愛馬を繋いで湯浴みした伝説の湯・盛岡つなぎ温泉！源泉かけ流しの美肌硫黄泉と女将の手作り郷土料理が温かい「旅染屋 山いち」、御所湖の眺望と良心的な価格でくつろげる「清温荘」、気兼ねない素泊まり・ワーケーションにも最適な「旅やど」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/iwate-morioka-tsunagi-solo-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【盛岡つなぎ温泉ひとり旅・御所湖畔と岩手山おこもり】源泉かけ流し単純硫黄泉・前沢牛＆盛岡冷麺・南部鉄器文化！新幹線盛岡駅25分の名湯厳選3宿',
+    headline: '盛岡つなぎ温泉ひとり旅・御所湖畔と岩手山おこもり：源泉かけ流し単純硫黄泉・前沢牛＆盛岡冷麺・南部鉄器文化！新幹線盛岡駅25分の名湯厳選3宿',
     description: '開湯900年、源義家が愛馬を繋いで湯浴みした伝説の湯・盛岡つなぎ温泉！源泉かけ流しの美肌硫黄泉と女将の手作り郷土料理が温かい「旅染屋 山いち」、御所湖の眺望と良心的な価格でくつろげる「清温荘」、気兼ねない素泊まり・ワーケーションにも最適な「旅やど」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             岩手・盛岡つなぎ温泉ひとり旅＆御所湖畔おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【盛岡つなぎ温泉ひとり旅・御所湖畔と岩手山おこもり】源泉かけ流し単純硫黄泉・前沢牛＆盛岡冷麺・南部鉄器文化！新幹線盛岡駅25分の名湯厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「盛岡つなぎ温泉ひとり旅・御所湖畔と岩手山おこもり」源泉かけ流し単純硫黄泉・前沢牛＆盛岡冷麺・南部鉄器文化！新幹線盛岡駅25分の名湯厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

@@ -4,14 +4,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '満天の星空露天風呂＆天体ドーム天文台リゾート×ふるさと納税完全ガイド【2026年最新】長野阿智村・岡山美星町・沖縄石垣島',
+  title: '満天の星空露天風呂＆天体ドーム天文台リゾート×ふるさと納税厳選ガイド長野阿智村・岡山美星町・沖縄石垣島',
   description: '夜空を埋め尽くす天然のプラネタリウム！長野「阿智村」環境省認定・日本一の星空ナイトツアーと昼神温泉美肌の湯、岡山「美星町」光害防止条例が守る満天の星と天文台の郷宿、沖縄「石垣島」国際ダークスカイ認定・星空保護区のラグジュアリーリゾート。息をのむ星空と極上ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: 'ふるさと納税, 楽天トラベル, 旅行クーポン, 宿泊記, ホテル予約, 国内旅行, おすすめ宿, 温泉旅館',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-starry-sky-open-air-bath-observatory-stay/",
   },
   openGraph: {
-    title: '満天の星空露天風呂＆天体ドーム天文台リゾート×ふるさと納税完全ガイド【2026年最新】長野阿智村・岡山美星町・沖縄石垣島',
+    title: '満天の星空露天風呂＆天体ドーム天文台リゾート×ふるさと納税厳選ガイド長野阿智村・岡山美星町・沖縄石垣島',
     description: '夜空を埋め尽くす天然のプラネタリウム！長野「阿智村」環境省認定・日本一の星空ナイトツアーと昼神温泉美肌の湯、岡山「美星町」光害防止条例が守る満天の星と天文台の郷宿、沖縄「石垣島」国際ダークスカイ認定・星空保護区のラグジュアリーリゾート。息をのむ星空と極上ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-starry-sky-open-air-bath-observatory-stay',
     siteName: 'トラベル総合ナビ',
@@ -56,9 +56,7 @@ export default function Page() {
             <span>✨</span>
             <span>星空露天風呂・天文台リゾート特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6 text-white drop-shadow-sm">
-            満天の星空露天風呂＆天体ドーム天文台リゾート×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6 text-white drop-shadow-sm">満天の星空露天風呂＆天体ドーム天文台リゾート×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-xl text-slate-200 leading-relaxed font-normal max-w-4xl">
             見上げれば降るような満天の天の川。宇宙の神秘に包まれるナイトリトリートステイ
           </p>

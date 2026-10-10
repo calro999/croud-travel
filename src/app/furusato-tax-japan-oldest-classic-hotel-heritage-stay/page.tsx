@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '日本最古のクラシックリゾートホテル×ふるさと納税完全ガイド【2026年最新】日光金谷・箱根富士屋・雲仙観光ホテルの洋館ステイ',
+  title: '日本最古のクラシックリゾートホテル×ふるさと納税厳選ガイド日光金谷・箱根富士屋・雲仙観光ホテルの洋館ステイ',
   description: '明治・大正の薫り漂う登録有形文化財！現存日本最古のリゾート「日光金谷ホテル」、アインシュタインやチャップリンも愛した「箱根宮ノ下富士屋ホテル」、日本初国立公園の洋館「雲仙観光ホテル」。歴史的建築美と伝統フレンチを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: ["2026年最新", "日光金谷", "箱根富士屋", "雲仙観光ホテルの洋館ステイ", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-japan-oldest-classic-hotel-heritage-stay/"
   },
   openGraph: {
-    title: '日本最古のクラシックリゾートホテル×ふるさと納税完全ガイド【2026年最新】日光金谷・箱根富士屋・雲仙観光ホテルの洋館ステイ',
+    title: '日本最古のクラシックリゾートホテル×ふるさと納税厳選ガイド日光金谷・箱根富士屋・雲仙観光ホテルの洋館ステイ',
     description: '明治・大正の薫り漂う登録有形文化財！現存日本最古のリゾート「日光金谷ホテル」、アインシュタインやチャップリンも愛した「箱根宮ノ下富士屋ホテル」、日本初国立公園の洋館「雲仙観光ホテル」。歴史的建築美と伝統フレンチを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-japan-oldest-classic-hotel-heritage-stay',
     type: 'article',
@@ -54,9 +54,7 @@ export default function FurusatoFeaturePage() {
             <span>✨</span>
             <span>名門クラシックホテル・登録有形文化財特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            日本最古のクラシックリゾートホテル×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">日本最古のクラシックリゾートホテル×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             木の温もりを感じる重厚な回転扉、職人技が光る精緻な彫刻、そして歴史を刻んだ飴色の階段。明治から昭和初期にかけて、日本の迎賓館として誕生したクラシックリゾートホテルには、現代のモダンホテルでは決して味わえない気品と温もりが息づいています。代々の料理長が守り続けてきた伝統の西洋料理、アンティーク家具に囲まれたバーラウンジ、そして上質な温泉。知的好奇心を刺激する上質なタイムトラベルを、楽天ふるさと納税のトラベルクーポンでお得に叶えましょう。
           </p>

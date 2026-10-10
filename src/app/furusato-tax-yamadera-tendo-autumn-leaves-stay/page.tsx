@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '山寺立石寺の奇岩絶壁紅葉＆開運千段石段！天童温泉湯めぐり・山形牛芋煮宿×ふるさと納税完全ガイド【2026年最新秋旅】山形',
+  title: '山寺立石寺の奇岩絶壁紅葉＆開運千段石段！天童温泉湯めぐり・山形牛芋煮宿×ふるさと納税厳選ガイド山形',
   description: '10月下旬〜11月上旬に松尾芭蕉ゆかりの奇岩霊場が錦秋に包まれる「山寺・宝珠山立石寺」。五大堂から望む紅葉の里山パノラマと、将棋の街・天童に湧く美肌の湯「松の湯」「天童ホテル」「ほほえみの宿 滝の湯」でとろける山形牛すき焼きステーキや本場山形芋煮を堪能。ふるさと納税トラベルクーポンで実質2,000円。',
   keywords: ["山寺立石寺の奇岩絶壁紅葉", "開運千段石段！天童温泉湯めぐり", "山形牛芋煮宿×ふるさと納税", "2026年最新秋旅", "山形", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-yamadera-tendo-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '山寺立石寺の奇岩絶壁紅葉＆開運千段石段！天童温泉湯めぐり・山形牛芋煮宿×ふるさと納税完全ガイド【2026年最新秋旅】山形',
+    title: '山寺立石寺の奇岩絶壁紅葉＆開運千段石段！天童温泉湯めぐり・山形牛芋煮宿×ふるさと納税厳選ガイド山形',
     description: '10月下旬〜11月上旬に松尾芭蕉ゆかりの奇岩霊場が錦秋に包まれる「山寺・宝珠山立石寺」。五大堂から望む紅葉の里山パノラマと、将棋の街・天童に湧く美肌の湯「松の湯」「天童ホテル」「ほほえみの宿 滝の湯」でとろける山形牛すき焼きステーキや本場山形芋煮を堪能。ふるさと納税トラベルクーポンで実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-yamadera-tendo-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -113,9 +113,7 @@ export default function FeatureArticlePage() {
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">
-            山寺立石寺の奇岩絶壁紅葉＆開運千段石段！天童温泉湯めぐり・山形牛芋煮宿×ふるさと納税完全ガイド【2026年最新秋旅】山形
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">山寺立石寺の奇岩絶壁紅葉＆開運千段石段！天童温泉湯めぐり・山形牛芋煮宿×ふるさと納税厳選ガイド山形</h1>
           <p className="text-sm md:text-lg text-stone-200 max-w-3xl mx-auto leading-relaxed">
             松尾芭蕉が愛した山寺の奇岩断崖を彩る紅葉パノラマと、天童温泉の極上山形牛・芋煮。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
           </p>

@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月宮崎・青島温泉】日向灘伊勢海老！名宿5選',
+  title: '宮崎・青島温泉で過ごす冬の旅（11・12月）！日向灘伊勢海老！名宿5選',
   description: '11月から12月にかけて、日南海岸の玄関口に位置する宮崎・青島温泉は、本州が本格的な冬の寒気に包まれるなか。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '青島温泉 宿泊, 宮崎 温泉 11月 12月, ANAホリデイ・インリゾート宮崎, 青島サンクマール, ルートイングランティアあおしま太陽閣, 地蔵庵, 青島フィッシャーマンズ, 宮崎牛 鉄板焼き, 伊勢海老 宿, 鬼の洗濯板 絶景',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay/"
   },
   openGraph: {
-    title: '【11・12月宮崎・青島温泉】日向灘伊勢海老！名宿5選',
+    title: '宮崎・青島温泉で過ごす冬の旅（11・12月）！日向灘伊勢海老！名宿5選',
     description: '11月から12月にかけて、日南海岸の玄関口に位置する宮崎・青島温泉は、本州が本格的な冬の寒気に包まれるなか。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -246,10 +246,7 @@ export default function MiyazakiAoshimaWinterFeature() {
             <Palmtree className="w-4 h-4" />
             11月・12月 冬の南国温暖避寒＆絶景温泉特集｜宮崎・青島温泉
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            南国温暖避寒と鬼の洗濯板絶景<br className="hidden sm:inline" />
-            最高峰宮崎牛・伊勢海老＆美肌炭酸泉リゾートの宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">南国温暖避寒と鬼の洗濯板絶景<br className="hidden sm:inline" /> 最高峰宮崎牛・伊勢海老＆美肌炭酸泉リゾートの宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             寒風吹きすさぶ冬を逃れて南国宮崎へ。奇跡の絶景「鬼の洗濯板」と美容液のようなとろとろ美肌炭酸泉、日本一の宮崎牛と日向灘伊勢海老を味わう極上ステイ。
           </p>

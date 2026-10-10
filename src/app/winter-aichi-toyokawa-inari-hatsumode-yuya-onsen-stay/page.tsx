@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月愛知】霊狐塚の神秘と源泉かけ流し雪見露天！名宿5選',
+  title: '11・12・1月愛知：霊狐塚の神秘と源泉かけ流し雪見露天！名宿5選',
   description: '新春の祈りと奥三河の秘湯に癒やされる11〜1月の愛知・東三河旅行完全ガイド。日本三大稲荷として全国から信仰を集める「豊川稲荷（妙厳寺）」の新春初詣や。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '豊川稲荷 初詣, 湯谷温泉 雪見露天, 霊狐塚 パワースポット, 豊川いなり寿司, 奥三河 温泉, 鳳来牛 宿, 三河牛 すき焼き, 愛知 冬 旅行, 新城市 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-aichi-toyokawa-inari-hatsumode-yuya-onsen-stay/"
   },
   openGraph: {
-    title: '【11・12・1月愛知】霊狐塚の神秘と源泉かけ流し雪見露天！名宿5選',
+    title: '11・12・1月愛知：霊狐塚の神秘と源泉かけ流し雪見露天！名宿5選',
     description: '新春の祈りと奥三河の秘湯に癒やされる11〜1月の愛知・東三河旅行完全ガイド。日本三大稲荷として全国から信仰を集める「豊川稲荷（妙厳寺）」の新春初詣や。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-aichi-toyokawa-inari-hatsumode-yuya-onsen-stay',
     type: 'article',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月愛知】豊川稲荷初詣と奥三河・湯谷温泉！霊狐塚の神秘と源泉かけ流し雪見露天・三河牛＆名物いなり名宿5選",
+    title: "11・12・1月愛知：豊川稲荷初詣と奥三河・湯谷温泉！霊狐塚の神秘と源泉かけ流し雪見露天・三河牛＆名物いなり名宿5選",
     description: "新春の祈りと奥三河の秘湯に癒やされる11〜1月の愛知・東三河旅行完全ガイド。日本三大稲荷として全国から信仰を集める「豊川稲荷（妙厳寺）」の新春初詣や、千体余りの白狐が佇む神秘の「霊狐塚」、門前町を彩る多彩な「豊川いなり寿司」。足を延ばして宇連川の渓谷美と雪景色を望む開湯1300年の名湯「湯谷温泉」での源泉掛け流し雪見露天風呂、極上の三河牛・鳳来牛会席を堪能できる厳選名宿5選を詳しくご紹介します。",
     images: ['https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -284,11 +284,7 @@ export default function AichiToyokawaYuyaWinterPage() {
               <Sparkles className="w-4 h-4 text-amber-300" />
               <span>11月・12月・1月冬の東海旅情特集</span>
             </div>
-            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 text-white drop-shadow-md">
-              愛知・豊川＆新城・奥三河<br className="hidden sm:inline" />
-              日本三大稲荷「豊川稲荷」初詣・霊狐塚と<br className="hidden sm:inline" />
-              名湯「湯谷温泉」源泉かけ流し雪見露天＆三河牛名宿5選
-            </h1>
+            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 text-white drop-shadow-md">愛知・豊川＆新城・奥三河<br className="hidden sm:inline" /> 日本三大稲荷「豊川稲荷」初詣・霊狐塚と<br className="hidden sm:inline" /> 名湯「湯谷温泉」源泉かけ流し雪見露天＆三河牛名宿5選</h1>
             <p className="max-w-3xl mx-auto text-sm md:text-lg text-amber-100 leading-relaxed drop-shadow">
               新春の商売繁盛・金運招福を祈願する日本屈指の霊場「豊川稲荷」と、千体余の白狐が並ぶ神秘の「霊狐塚」。開湯1300年の秘湯「湯谷温泉」で宇連川渓谷の雪景色を望む源泉掛け流し露天風呂に浸かり、名産「鳳来牛・三河牛」と多彩な豊川いなり寿司を堪能する冬の東三河紀行。
             </p>

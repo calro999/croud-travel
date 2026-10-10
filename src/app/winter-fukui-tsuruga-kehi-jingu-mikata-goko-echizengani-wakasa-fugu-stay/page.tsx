@@ -6,14 +6,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月福井】「若狭ふぐ」極上会席！名宿5選',
+  title: '11・12・1月福井：「若狭ふぐ」極上会席！名宿5選',
   description: '北陸新幹線敦賀開業で首都圏・関西からのアクセスが飛躍的に進化した福井・若狭路の11〜1月冬紀行。北陸道総鎮守「氣比神宮」で迎える厳粛な新春初詣。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '氣比神宮 初詣, 敦賀 越前がに, 若狭ふぐ てっさ, 三方五湖 冬, 敦賀マンテンホテル駅前, 水月花, 福井 冬旅行, 越前蟹 名宿',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukui-tsuruga-kehi-jingu-mikata-goko-echizengani-wakasa-fugu-stay/"
   },
   openGraph: {
-    title: '【11・12・1月福井】「若狭ふぐ」極上会席！名宿5選',
+    title: '11・12・1月福井：「若狭ふぐ」極上会席！名宿5選',
     description: '北陸新幹線敦賀開業で首都圏・関西からのアクセスが飛躍的に進化した福井・若狭路の11〜1月冬紀行。北陸道総鎮守「氣比神宮」で迎える厳粛な新春初詣。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-fukui-tsuruga-kehi-jingu-mikata-goko-echizengani-wakasa-fugu-stay',
     type: 'article',
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月福井】北陸道総鎮守「氣比神宮」新春初詣と三方五湖の冬静寂！黄色タグ「越前がに」・「若狭ふぐ」極上会席＆敦賀名宿5選",
+    title: "11・12・1月福井：北陸道総鎮守「氣比神宮」新春初詣と三方五湖の冬静寂！黄色タグ「越前がに」・「若狭ふぐ」極上会席＆敦賀名宿5選",
     description: "北陸新幹線敦賀開業で首都圏・関西からのアクセスが飛躍的に進化した福井・若狭路の11〜1月冬紀行。北陸道総鎮守「氣比神宮」で迎える厳粛な新春初詣、日本三大松原・気比の松原の冬景色、神秘の五色湖「三方五湖」の静寂。11月6日解禁の黄色タグ「越前がに」や極上セイコガニ、若狭湾の寒波が身を極限まで引き締める「若狭ふぐ（とらふぐ）」のてっさ・てっちり。冬の味覚の二大巨頭を味わい尽くす厳選名宿5選と旅の極意を徹底紹介。",
     images: ['https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -281,10 +281,7 @@ export default function FukuiTsurugaWinterPage() {
             <Snowflake className="w-4 h-4 text-indigo-300" />
             <span>北陸・福井 若狭路 冬の特別紀行（11月・12月・1月）</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 font-journal-serif">
-            北陸道総鎮守「氣比神宮」新春初詣と三方五湖の冬静寂<br className="hidden md:inline" />
-            黄色タグ「越前がに」・「若狭ふぐ」極上会席＆敦賀名宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 font-journal-serif">北陸道総鎮守「氣比神宮」新春初詣と三方五湖の冬静寂<br className="hidden md:inline" /> 黄色タグ「越前がに」・「若狭ふぐ」極上会席＆敦賀名宿5選</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mb-6">
             北陸新幹線の敦賀開業により、いま最も熱い注目を集める福井県敦賀・若狭エリア。日本三大木造鳥居が雪をまとう北陸道総鎮守「氣比神宮」で迎える厳かな新春、ラムサール条約湿地「三方五湖」の水墨画のような静寂。そして11月に解禁される黄色タグの王者「越前がに」と、厳寒の若狭湾で極限まで身を引き締めた「若狭ふぐ（とらふぐ）」の饗宴。冬の味覚と祈りが交差する至高の旅路へご案内します。
           </p>

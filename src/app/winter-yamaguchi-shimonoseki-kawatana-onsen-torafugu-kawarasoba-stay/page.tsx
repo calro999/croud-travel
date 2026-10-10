@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月山口・下関と川棚温泉】関門海峡！名宿5選',
+  title: '山口・下関と川棚温泉で過ごす冬の旅（11・12月）！関門海峡！名宿5選',
   description: '11月から12月にかけて、本州最西端に位置する山口県下関市および響灘沿いの名湯「川棚温泉（かわたなおんせん）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '下関 温泉 宿泊, 川棚温泉, 下関 とらふぐ 宿, 川棚グランドホテル, 下関温泉 風の海, 割烹旅館 寿美礼, 関門の宿 源平荘, ホテル西長門リゾート, 瓦そば, 関門海峡 絶景 宿',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamaguchi-shimonoseki-kawatana-onsen-torafugu-kawarasoba-stay/"
   },
   openGraph: {
-    title: '【11・12月山口・下関と川棚温泉】関門海峡！名宿5選',
+    title: '山口・下関と川棚温泉で過ごす冬の旅（11・12月）！関門海峡！名宿5選',
     description: '11月から12月にかけて、本州最西端に位置する山口県下関市および響灘沿いの名湯「川棚温泉（かわたなおんせん）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-yamaguchi-shimonoseki-kawatana-onsen-torafugu-kawarasoba-stay',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -246,10 +246,7 @@ export default function YamaguchiShimonosekiWinterFeature() {
             <Anchor className="w-4 h-4" />
             11月・12月 冬の最高峰美食＆海峡絶景特集｜山口・下関と川棚温泉
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            本場とらふぐ解禁美食と元祖瓦そば<br className="hidden sm:inline" />
-            関門海峡夕景＆開湯八百年ラジウム美肌泉の極上宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">本場とらふぐ解禁美食と元祖瓦そば<br className="hidden sm:inline" /> 関門海峡夕景＆開湯八百年ラジウム美肌泉の極上宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             11月・12月に旨味の頂点を極める下関とらふぐ。毛利侯や山頭火が愛した名湯ラジウム泉と、熱した瓦で焼く元祖瓦そばを堪能する大人の贅沢旅。
           </p>

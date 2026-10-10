@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【岐阜】金華山・岐阜城のパノラマ紅葉と飛騨牛グルメ！2,000円台〜格安ホテル5選',
+  title: '岐阜：金華山・岐阜城のパノラマ紅葉と飛騨牛グルメ！2,000円台〜格安ホテル5選',
   description: '黄金色に染まる金華山と難攻不落の岐阜城天守閣からの絶景！名物飛騨牛や落ち鮎を堪能する秋旅。岐阜駅周辺で1泊2,000円台〜5,000円台で泊まれる格安・高評価ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetGifuHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>金華山ロープウェー紅葉＆極上飛騨牛</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【岐阜】金華山のパノラマ紅葉＆飛騨牛グルメ！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「岐阜」金華山のパノラマ紅葉＆飛騨牛グルメ！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             ロープウェーで登る金華山山頂の岐阜城から見下ろす長良川と紅葉のパノラマ絶景！夕暮れのライトアップや夜景も息を呑む美しさです。夜はとろける舌触りの飛騨牛ステーキや秋の味覚に舌鼓。岐阜駅前で2,000円台から泊まれる厳選宿をご案内します。
           </p>

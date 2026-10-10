@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '都心から70分！湯河原温泉・万葉公園の紅葉散策＆文豪が愛した名湯旅館×ふるさと納税完全ガイド【2026年最新秋旅】神奈川',
+  title: '都心から70分！湯河原温泉・万葉公園の紅葉散策＆文豪が愛した名湯旅館×ふるさと納税厳選ガイド神奈川',
   description: '11月中旬〜12月上旬に見頃を迎える神奈川・湯河原温泉の紅葉！リニューアルした万葉公園「湯河原惣湯 Books and Retreat。」のせせらぎ散策、夏目漱石や島崎藤村が逗留した老舗旅館「伊藤屋」「富士屋旅館」「ふきや」で弱食塩泉の極上美肌湯と相模湾の朝獲れ地魚会席を堪能。楽天ふるさと納税で実質2,000円。',
   keywords: ["都心から70分！湯河原温泉", "万葉公園の紅葉散策", "2026年最新秋旅", "神奈川", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-yugawara-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '都心から70分！湯河原温泉・万葉公園の紅葉散策＆文豪が愛した名湯旅館×ふるさと納税完全ガイド【2026年最新秋旅】神奈川',
+    title: '都心から70分！湯河原温泉・万葉公園の紅葉散策＆文豪が愛した名湯旅館×ふるさと納税厳選ガイド神奈川',
     description: '11月中旬〜12月上旬に見頃を迎える神奈川・湯河原温泉の紅葉！リニューアルした万葉公園「湯河原惣湯 Books and Retreat。」のせせらぎ散策、夏目漱石や島崎藤村が逗留した老舗旅館「伊藤屋」「富士屋旅館」「ふきや」で弱食塩泉の極上美肌湯と相模湾の朝獲れ地魚会席を堪能。楽天ふるさと納税で実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-yugawara-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FeatureArticlePage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               神奈川・湯河原温泉＆万葉公園紅葉特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              都心から70分！湯河原温泉・万葉公園の紅葉散策＆文豪が愛した名湯旅館×ふるさと納税完全ガイド【2026年最新秋旅】神奈川
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">都心から70分！湯河原温泉・万葉公園の紅葉散策＆文豪が愛した名湯旅館×ふるさと納税厳選ガイド神奈川</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               11月中旬〜12月上旬に見頃を迎える神奈川・湯河原温泉の紅葉！リニューアルした万葉公園「湯河原惣湯 Books and Retreat。」のせせらぎ散策、夏目漱石や島崎藤村が逗留した老舗旅館「伊藤屋」「富士屋旅館」「ふきや」で弱食塩泉の極上美肌湯と相模湾の朝獲れ地魚会席を堪能。楽天ふるさと納税で実質2,000円。
             </p>

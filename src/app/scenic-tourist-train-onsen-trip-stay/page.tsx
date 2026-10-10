@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/scenic-tourist-train-onsen-trip-stay/" },
-  title: "【観光列車＆極上温泉宿】サフィール踊り子・しまかぜ・ゆふいんの森で行く名旅館 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "観光列車＆極上温泉宿：サフィール踊り子・しまかぜ・ゆふいんの森で行く名旅館 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "プレミアム観光列車で行く極上温泉旅完全特化！「サフィール踊り子」「観光特急しまかぜ」「特急ゆふいんの森」「ろくもん」「雪月花」の豪華車内体験、プレミアムシート、カフェ車両と沿線の名門温泉旅館を徹底解説。",
   keywords: ["観光列車", "極上温泉宿", "サフィール踊り子", "しまかぜ", "ゆふいんの森で行く名旅館", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function TransitStyleHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             SCENIC TRAIN & LUXURY RYOKAN GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【観光列車＆極上温泉宿】サフィール踊り子・しまかぜ・ゆふいんの森で行く名旅館 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「観光列車＆極上温泉宿」サフィール踊り子・しまかぜ・ゆふいんの森で行く名旅館 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             移動そのものが贅沢なエンターテインメント！パノラマ車窓から海や山を望むプレミアム観光列車「サフィール踊り子」「しまかぜ」「ゆふいんの森」。カフェ車両でスイーツや地ビールを味わい、終着駅で待つ極上の名門温泉宿へ。
           </p>

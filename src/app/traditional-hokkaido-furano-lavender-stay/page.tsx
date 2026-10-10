@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】紫の絨毯が広がる夏の富良野！ラベンダー畑パノラマ＆ふらの和牛ディナーの宿5選 | 日本全国・旅宿クラウド',
+  title: '2026年：紫の絨毯が広がる夏の富良野！ラベンダー畑パノラマ＆ふらの和牛ディナーの宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！富良野・美瑛の広大なラベンダー畑とパッチワークの丘！十勝岳連峰を一望する展望露天風呂とブランドふらの和牛を堪能するリゾートホテル5選。',
   keywords: ["2026年", "ふらの和牛ディナーの宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: '【2026年】紫の絨毯が広がる夏の富良野！ラベンダー畑パノラマ＆ふらの和牛ディナーの宿5選',
+    title: '2026年：紫の絨毯が広がる夏の富良野！ラベンダー畑パノラマ＆ふらの和牛ディナーの宿5選',
     description: '2026年最新！富良野・美瑛の広大なラベンダー畑とパッチワークの丘！十勝岳連峰を一望する展望露天風呂とブランドふらの和牛を堪能するリゾートホテル5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/traditional-hokkaido-furano-lavender-stay',
@@ -193,9 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> 富良野ラベンダー絶景×ふらの和牛名湯
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】紫の絨毯が広がる夏の富良野！ラベンダー畑パノラマ＆ふらの和牛ディナーの宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」紫の絨毯が広がる夏の富良野！ラベンダー畑パノラマ＆ふらの和牛ディナーの宿5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             風にそよぐ一面紫色のラベンダー畑と、十勝岳連峰の雄大な山並み。富良野・美瑛の爽快なパノラマを望み、地元産ふらの和牛や新鮮な富良野野菜のフレンチ・会席、白銀温泉や十勝岳温泉の名湯で癒やされる北海道のサマーリゾート。
           </p>

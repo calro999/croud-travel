@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/pure-spring-water-sake-brewing-source-onsen-stay/" },
-  title: "【名水百選・酒の仕込み水が湧く秘湯宿】清流と伏流水・美肌温泉 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "名水百選・酒の仕込み水が湧く秘湯宿：清流と伏流水・美肌温泉 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "名酒が生まれる土地には奇跡の名水と極上温泉がある！全国の日本名水百選・酒造りの仕込み水と美肌温泉宿完全特化！富山黒部・立山連峰伏流水、静岡富士山伏流水、島根奥出雲、熊本阿蘇名水、清冽な天然水風呂と美肌湯を徹底解説。",
   keywords: ["名水百選", "酒の仕込み水が湧く秘湯宿", "清流と伏流水", "美肌温泉", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
@@ -89,9 +89,7 @@ export default function SakeTourismHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-gradient-to-r from-amber-400 to-yellow-300 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block shadow">
             SAKE BREWING SPRING WATER ONSEN GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【名水百選・酒の仕込み水が湧く秘湯宿】清流と伏流水・美肌温泉 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「名水百選・酒の仕込み水が湧く秘湯宿」清流と伏流水・美肌温泉 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             銘酒の命である「清冽な仕込み水」。雪解け水が幾重もの地層で磨かれた日本名水百選の湧水地には、奇跡のように豊かな温泉が湧き出します。口に含むと甘やかな伏流水で喉を潤し、名水で仕込まれた極上の地酒を嗜み、肌を包み込む柔らかな源泉に浸かる至高の癒やし旅へ。
           </p>

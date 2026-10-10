@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '最高級黒毛和牛ステーキ＆鉄板焼きカウンター宿×ふるさと納税完全ガイド【2026年最新】松阪牛・近江牛・米沢牛の美食ホテル',
+  title: '最高級黒毛和牛ステーキ＆鉄板焼きカウンター宿×ふるさと納税厳選ガイド松阪牛・近江牛・米沢牛の美食ホテル',
   description: 'シェフの華麗な手さばきと極上肉の香り！三重松阪牛のA5サーロイン鉄板焼き、滋賀おごと温泉の日本三大和牛近江牛ステーキ、山形米沢牛の極上フィレ肉ディナー。目の前で焼き上がる音と芳醇な肉汁を名湯とともに楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: ["最高級黒毛和牛ステーキ", "2026年最新", "松阪牛", "近江牛", "米沢牛の美食ホテル", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kuroge-wagyu-teppanyaki-luxury-stay/"
   },
   openGraph: {
-    title: '最高級黒毛和牛ステーキ＆鉄板焼きカウンター宿×ふるさと納税完全ガイド【2026年最新】松阪牛・近江牛・米沢牛の美食ホテル',
+    title: '最高級黒毛和牛ステーキ＆鉄板焼きカウンター宿×ふるさと納税厳選ガイド松阪牛・近江牛・米沢牛の美食ホテル',
     description: 'シェフの華麗な手さばきと極上肉の香り！三重松阪牛のA5サーロイン鉄板焼き、滋賀おごと温泉の日本三大和牛近江牛ステーキ、山形米沢牛の極上フィレ肉ディナー。目の前で焼き上がる音と芳醇な肉汁を名湯とともに楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kuroge-wagyu-teppanyaki-luxury-stay',
     type: 'article',
@@ -54,9 +54,7 @@ export default function FurusatoFeaturePage() {
             <span>✨</span>
             <span>黒毛和牛鉄板焼き・美食カウンター特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            最高級黒毛和牛ステーキ＆鉄板焼きカウンター宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">最高級黒毛和牛ステーキ＆鉄板焼きカウンター宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             日本三大和牛と称される「松阪牛」「近江牛」「米沢牛」。きめ細やかなサシ（霜降り）が美しく入り、低温で溶け出す上品な脂の甘みと赤身の深い旨味。客室付きのプライベートダイニングや、臨場感あふれる鉄板焼きカウンターで、シェフが絶妙な火入れで仕立てる最高級ステーキは記念日や特別な旅の主役にふさわしい贅沢です。名湯に浸かって日々の疲れを癒やし、極上の黒毛和牛コースに舌鼓を打つ夢のようなひとときを楽天ふるさと納税でお得に実現しましょう。
           </p>

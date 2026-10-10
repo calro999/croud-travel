@@ -24,7 +24,7 @@ interface Post {
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://croud-travel.pages.dev";
 
 export const metadata: Metadata = {
-  title: "【能登旅行 完全計画ガイド】1泊2日・2泊3日モデルコース＆和倉温泉・白米千枚田・能登島・能登丼・絶景宿おすすめ ｜ 旅宿クラウド",
+  title: "能登旅行 完全計画ガイド：1泊2日・2泊3日モデルコース＆和倉温泉・白米千枚田・能登島・能登丼・絶景宿おすすめ ｜ 旅宿クラウド",
   description:
     "能登旅行の計画をステップバイステップで完全サポート！世界農業遺産・能登の里山里海の魅力、1泊2日/2泊3日ドライブ＆モデルコース、車なしアクセス、和倉温泉・白米千枚田（所要時間・ライトアップあぜの万灯）・のとじま水族館・輪島朝市・見附島、能登丼＆能登牡蠣・能登牛グルメから楽天トラベル予約可能な温泉宿まで網羅。",
   keywords: ["能登旅行", "完全計画ガイド", "1泊2日", "2泊3日モデルコース", "和倉温泉", "白米千枚田", "能登島"],
@@ -153,12 +153,7 @@ export default function NotoGuidePage() {
           </span>
         </div>
 
-        <h1 className="text-3xl md:text-5xl font-black font-journal-serif leading-tight text-white">
-          【能登旅行 完全計画ガイド】<br />
-          <span className="bg-gradient-to-r from-amber-200 via-amber-300 to-teal-100 bg-clip-text text-transparent">
-            モデルコース・和倉温泉・白米千枚田・能登丼・宿選びから予約まで
-          </span>
-        </h1>
+        <h1 className="text-3xl md:text-5xl font-black font-journal-serif leading-tight text-white">「能登旅行 完全計画ガイド」<br /> <span className="bg-gradient-to-r from-amber-200 via-amber-300 to-teal-100 bg-clip-text text-transparent"> モデルコース・和倉温泉・白米千枚田・能登丼・宿選びから予約まで </span></h1>
 
         <p className="text-emerald-100/90 text-xs md:text-sm max-w-3xl leading-relaxed font-medium">
           日本海に突き出た美しい能登半島。「能登には何がある？」「白米千枚田の所要時間は？」「和倉温泉のおすすめ宿は？」「車なしでも楽しめる？」といった疑問をすべて解決。能登旅行の計画を7つのステップでスムーズにサポートします。

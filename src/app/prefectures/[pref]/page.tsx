@@ -274,9 +274,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
           </span>
         </div>
 
-        <h1 className="text-3xl md:text-5xl font-black font-journal-serif leading-tight text-white">
-          【{prefInfo.name}】有名な場所・名物ご当地グルメ（有名なもの）・おすすめ絶景宿 完全ガイド
-        </h1>
+        <h1 className="text-3xl md:text-5xl font-black font-journal-serif leading-tight text-white">「{prefInfo.name}」有名な場所・名物ご当地グルメ（有名なもの）・おすすめ絶景宿 厳選ガイド</h1>
 
         <p className="text-emerald-100/90 text-xs md:text-sm max-w-3xl leading-relaxed font-medium">
           {prefInfo.description}
@@ -321,14 +319,14 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
         {/* 特設ハブページへのダイレクトリンク */}
         {(() => {
           const hubLinks: Record<string, { title: string; desc: string; href: string; badge: string }> = {
-            kyoto: { title: "【京都旅行 完全ガイド】1泊2日・2泊3日モデルコース＆おすすめホテル・温泉旅館", desc: "カップル・子連れ・女子旅・穴場・雨の日・夜観光・京都駅ホテル選びまで完全網羅", href: "/kyoto", badge: "特集 🍁" },
-            okinawa: { title: "【沖縄旅行 完全ガイド】2泊3日・3泊4日モデルコース＆ビーチリゾートホテル", desc: "那覇国際通り・恩納村・美ら海水族館・子連れプール付き宿・レンタカー情報完全網羅", href: "/okinawa", badge: "特集 🌺" },
-            hokkaido: { title: "【北海道旅行 完全ガイド】2泊3日・3泊4日モデルコース＆札幌・函館朝食・温泉宿", desc: "札幌・小樽・函館・富良野広域ルート・絶品海鮮バイキング・登別定山渓温泉完全網羅", href: "/hokkaido", badge: "特集 🏔️" },
-            tokyo: { title: "【東京観光 完全ガイド】1泊2日・2泊3日モデルコース＆夜景・朝食ビュッフェ宿", desc: "東京駅・新宿・渋谷・浅草・銀座・お台場・高層階夜景ホテル選び完全網羅", href: "/tokyo", badge: "特集 🗼" },
-            osaka: { title: "【大阪観光 完全ガイド】1泊2日・2泊3日モデルコース＆梅田・なんば・USJ宿", desc: "道頓堀グルメ食べ歩き・USJ周辺オフィシャルホテル・駅チカ人気宿完全網羅", href: "/osaka", badge: "特集 🐙" },
-            fukuoka: { title: "【福岡・博多旅行 完全ガイド】1泊2日・2泊3日モデルコース＆博多駅直結宿", desc: "中洲屋台・もつ鍋・太宰府糸島・明太子朝食バイキング・温泉旅館完全網羅", href: "/fukuoka", badge: "特集 🍜" },
-            kanagawa: { title: "【箱根温泉 完全ガイド】1泊2日王道モデルコース＆客室露天風呂・記念日宿", desc: "箱根湯本駅チカ・強羅・芦ノ湖絶景リゾート・カップル向け極上温泉宿完全網羅", href: "/hakone", badge: "特集 ♨️" },
-            ishikawa: { title: "【金沢・能登旅行 完全ガイド】モデルコース＆海鮮グルメ・おすすめ宿", desc: "兼六園・ひがし茶屋街・近江町市場・のどぐろ・和倉温泉・露天風呂宿完全網羅", href: "/kanazawa", badge: "特集 🌸" },
+            kyoto: { title: "京都旅行 厳選ガイド：1泊2日・2泊3日モデルコース＆おすすめホテル・温泉旅館", desc: "カップル・子連れ・女子旅・穴場・雨の日・夜観光・京都駅ホテル選びまで完全網羅", href: "/kyoto", badge: "特集 🍁" },
+            okinawa: { title: "沖縄旅行 厳選ガイド：2泊3日・3泊4日モデルコース＆ビーチリゾートホテル", desc: "那覇国際通り・恩納村・美ら海水族館・子連れプール付き宿・レンタカー情報完全網羅", href: "/okinawa", badge: "特集 🌺" },
+            hokkaido: { title: "北海道旅行 厳選ガイド：2泊3日・3泊4日モデルコース＆札幌・函館朝食・温泉宿", desc: "札幌・小樽・函館・富良野広域ルート・絶品海鮮バイキング・登別定山渓温泉完全網羅", href: "/hokkaido", badge: "特集 🏔️" },
+            tokyo: { title: "東京観光 厳選ガイド：1泊2日・2泊3日モデルコース＆夜景・朝食ビュッフェ宿", desc: "東京駅・新宿・渋谷・浅草・銀座・お台場・高層階夜景ホテル選び完全網羅", href: "/tokyo", badge: "特集 🗼" },
+            osaka: { title: "大阪観光 厳選ガイド：1泊2日・2泊3日モデルコース＆梅田・なんば・USJ宿", desc: "道頓堀グルメ食べ歩き・USJ周辺オフィシャルホテル・駅チカ人気宿完全網羅", href: "/osaka", badge: "特集 🐙" },
+            fukuoka: { title: "福岡・博多旅行 厳選ガイド：1泊2日・2泊3日モデルコース＆博多駅直結宿", desc: "中洲屋台・もつ鍋・太宰府糸島・明太子朝食バイキング・温泉旅館完全網羅", href: "/fukuoka", badge: "特集 🍜" },
+            kanagawa: { title: "箱根温泉 厳選ガイド：1泊2日王道モデルコース＆客室露天風呂・記念日宿", desc: "箱根湯本駅チカ・強羅・芦ノ湖絶景リゾート・カップル向け極上温泉宿完全網羅", href: "/hakone", badge: "特集 ♨️" },
+            ishikawa: { title: "金沢・能登旅行 厳選ガイド：モデルコース＆海鮮グルメ・おすすめ宿", desc: "兼六園・ひがし茶屋街・近江町市場・のどぐろ・和倉温泉・露天風呂宿完全網羅", href: "/kanazawa", badge: "特集 🌸" },
           };
           const currentHub = hubLinks[prefInfo.slug];
           if (!currentHub) return null;

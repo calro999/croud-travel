@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hachinohe-solo-business-miroku-seafood-stay/" },
-  title: '【八戸出張＆横丁ひとり旅】みろく横丁徒歩すぐ・八食センター・日本一のイカ美食！東北新幹線直結の快適宿 厳選3選',
+  title: '八戸出張＆横丁ひとり旅：みろく横丁徒歩すぐ・八食センター・日本一のイカ美食！東北新幹線直結の快適宿 厳選3選',
   description: '東北新幹線はやぶさ停車・青森県第2の工業・水産都市「八戸」！「中心街・みろく横丁へ徒歩1分の抜群の好立地。」を誇る「ダイワロイネットホテル八戸」、八戸駅東口徒歩2分で無料朝食が嬉しい「コンフォートホテル八戸」、八戸の歴史を紡ぐ老舗迎賓ホテル「八戸グランドホテル」を徹底特集。',
   keywords: '八戸 出張 ホテル おすすめ,八戸 一人旅 ホテル,みろく横丁 ホテル 八戸,ダイワロイネットホテル八戸 宿泊,八食センター ホテル',
   openGraph: {
-    title: '【八戸出張＆横丁ひとり旅】みろく横丁徒歩すぐ・八食センター・日本一のイカ美食！東北新幹線直結の快適宿 厳選3選',
+    title: '八戸出張＆横丁ひとり旅：みろく横丁徒歩すぐ・八食センター・日本一のイカ美食！東北新幹線直結の快適宿 厳選3選',
     description: '東北新幹線はやぶさ停車・青森県第2の工業・水産都市「八戸」！「中心街・みろく横丁へ徒歩1分の抜群の好立地。」を誇る「ダイワロイネットホテル八戸」、八戸駅東口徒歩2分で無料朝食が嬉しい「コンフォートホテル八戸」、八戸の歴史を紡ぐ老舗迎賓ホテル「八戸グランドホテル」を徹底特集。',
     url: 'https://croud-travel.pages.dev/hachinohe-solo-business-miroku-seafood-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【八戸出張＆横丁ひとり旅】みろく横丁徒歩すぐ・八食センター・日本一のイカ美食！東北新幹線直結の快適宿 厳選3選',
+    headline: '八戸出張＆横丁ひとり旅：みろく横丁徒歩すぐ・八食センター・日本一のイカ美食！東北新幹線直結の快適宿 厳選3選',
     description: '東北新幹線はやぶさ停車・青森県第2の工業・水産都市「八戸」！「中心街・みろく横丁へ徒歩1分の抜群の好立地。」を誇る「ダイワロイネットホテル八戸」、八戸駅東口徒歩2分で無料朝食が嬉しい「コンフォートホテル八戸」、八戸の歴史を紡ぐ老舗迎賓ホテル「八戸グランドホテル」を徹底特集。',
     author: {
       '@type': 'Organization',
@@ -74,9 +74,7 @@ export default function ArticlePage() {
           <span>✨</span>
           <span>八戸・出張＆みろく横丁・イカ海鮮特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【八戸出張＆横丁ひとり旅】みろく横丁徒歩すぐ・八食センター・日本一のイカ美食！東北新幹線直結の快適宿 厳選3選
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">「八戸出張＆横丁ひとり旅」みろく横丁徒歩すぐ・八食センター・日本一のイカ美食！東北新幹線直結の快適宿 厳選3選</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
           東北新幹線はやぶさ停車・青森県第2の工業・水産都市「八戸」！「中心街・みろく横丁へ徒歩1分の抜群の好立地。」を誇る「ダイワロイネットホテル八戸」、八戸駅東口徒歩2分で無料朝食が嬉しい「コンフォートホテル八戸」、八戸の歴史を紡ぐ老舗迎賓ホテル「八戸グランドホテル」を徹底特集。
         </p>

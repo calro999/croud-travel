@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月富山】氷見寒ブリ！名宿5選',
+  title: '11・12・1月富山：氷見寒ブリ！名宿5選',
   description: '11月から1月、富山湾沿岸（高岡・雨晴・射水新湊・富山市街）は、世界でも稀少な海越しに冠雪した標高3000m級立山連峰が浮かび上がる奇跡の冬絶景と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '雨晴海岸 立山連峰 冬, 新湊 昼セリ カニ, 氷見 寒ブリ, 富山湾鮨, 雨晴温泉 磯はなび, リバーリトリート雅樂倶, ホテルニューオータニ高岡, 御宿野乃富山, 第一イン新湊, 11月 12月 1月 富山旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-toyama-amaharashi-shinminato-tateyama-crab-stay/"
   },
   openGraph: {
-    title: '【11・12・1月富山】氷見寒ブリ！名宿5選',
+    title: '11・12・1月富山：氷見寒ブリ！名宿5選',
     description: '11月から1月、富山湾沿岸（高岡・雨晴・射水新湊・富山市街）は、世界でも稀少な海越しに冠雪した標高3000m級立山連峰が浮かび上がる奇跡の冬絶景と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-toyama-amaharashi-shinminato-tateyama-crab-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月富山】雨晴海岸から望む冠雪立山連峰の奇跡絶景＆新湊昼セリ極上本ズワイガニ・氷見寒ブリ・白えび・富山湾鮨を堪能する名宿5選",
+    title: "11・12・1月富山：雨晴海岸から望む冠雪立山連峰の奇跡絶景＆新湊昼セリ極上本ズワイガニ・氷見寒ブリ・白えび・富山湾鮨を堪能する名宿5選",
     description: "11月から1月、富山湾沿岸（高岡・雨晴・射水新湊・富山市街）は、世界でも稀少な海越しに冠雪した標高3000m級立山連峰が浮かび上がる奇跡の冬絶景と、全国屈指の極上海鮮が集結する至福の季節を迎えます。冷え込んだ朝に現れる幻想的な「気嵐（けあらし）」、新湊漁港で毎日13時から開催される名物「昼セリ」で紅く染まる本ズワイガニや紅ズワイガニ、11月下旬から脂が極限まで乗る氷見の寒ブリ、冬も甘みが凝縮する白えび、そして職人の技が光る富山湾鮨。富山湾の絶景露天風呂やアートリゾート、名湯と美食に浸る厳選5宿を徹底ガイドします。",
     images: ['https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80']
   }
@@ -42,7 +42,7 @@ export default function ToyamaAmaharashiShinminatoWinterPage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: "【11・12・1月富山】雨晴海岸から望む冠雪立山連峰の奇跡絶景＆新湊昼セリ極上本ズワイガニ・氷見寒ブリ・白えび・富山湾鮨を堪能する名宿5選",
+    headline: "11・12・1月富山：雨晴海岸から望む冠雪立山連峰の奇跡絶景＆新湊昼セリ極上本ズワイガニ・氷見寒ブリ・白えび・富山湾鮨を堪能する名宿5選",
     description: "11月から1月、富山湾沿岸（高岡・雨晴・射水新湊・富山市街）は、世界でも稀少な海越しに冠雪した標高3000m級立山連峰が浮かび上がる奇跡の冬絶景と、全国屈指の極上海鮮が集結する至福の季節を迎えます。冷え込んだ朝に現れる幻想的な「気嵐（けあらし）」、新湊漁港で毎日13時から開催される名物「昼セリ」で紅く染まる本ズワイガニや紅ズワイガニ、11月下旬から脂が極限まで乗る氷見の寒ブリ、冬も甘みが凝縮する白えび、そして職人の技が光る富山湾鮨。富山湾の絶景露天風呂やアートリゾート、名湯と美食に浸る厳選5宿を徹底ガイドします。",
     image: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
     datePublished: '',
@@ -282,9 +282,7 @@ export default function ToyamaAmaharashiShinminatoWinterPage() {
             <Snowflake className="w-4 h-4 text-cyan-200" />
             11月・12月・1月 冬の日本海・奇跡の富山湾絶景＆美食特集
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【11・12・1月富山】雨晴海岸から望む冠雪立山連峰の奇跡絶景＆新湊昼セリ極上本ズワイガニ・氷見寒ブリ・白えび・富山湾鮨を堪能する名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「11・12・1月富山」雨晴海岸から望む冠雪立山連峰の奇跡絶景＆新湊昼セリ極上本ズワイガニ・氷見寒ブリ・白えび・富山湾鮨を堪能する名宿5選</h1>
           <p className="text-stone-300 text-sm sm:text-base md:text-lg max-w-3xl leading-relaxed">
             空気が澄み渡る初冬から厳冬期、富山湾の青い海原の向こうに標高3,000m級の白銀に輝く立山連峰が海上に浮かび上がる世界屈指の絶景「雨晴海岸」。早朝の気嵐、新湊漁港名物の「昼セリ」で紅く染まる本ズワイガニ、脂の乗り切った寒ブリ、富山湾鮨など、冬の富山が誇る最高峰の贅沢を満喫できる極上宿を厳選しました。
           </p>

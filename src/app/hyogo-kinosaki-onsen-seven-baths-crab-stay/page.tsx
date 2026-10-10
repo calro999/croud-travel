@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hyogo-kinosaki-onsen-seven-baths-crab-stay/" },
-  title: "【兵庫・城崎温泉＆円山川】七つの外湯めぐり・浴衣柳並木＆松葉ガニ宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "兵庫・城崎温泉＆円山川：七つの外湯めぐり・浴衣柳並木＆松葉ガニ宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "1300年の名湯「城崎温泉」の七つの外湯めぐりと大谿川の柳並木、津居山港・柴山港直送の本松葉ガニ懐石、円山川のコウノトリ湿地を巡る兵庫・但馬特化ガイド。伝統木造旅館や川沿いリゾートを厳選。",
   keywords: ["兵庫", "城崎温泉", "円山川", "七つの外湯めぐり", "浴衣柳並木", "松葉ガニ宿", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             名湯＆冬の味覚特集 ♨️
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【兵庫・城崎温泉＆円山川】七つの外湯めぐり・浴衣柳並木＆津居山港松葉ガニ宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「兵庫・城崎温泉＆円山川」七つの外湯めぐり・浴衣柳並木＆津居山港松葉ガニ宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-teal-100/90 leading-relaxed">
             開湯1300年、志賀直哉の『城の崎にて』でも名高い名湯「城崎温泉」。大谿川（おおたにがわ）にかかる太鼓橋と柳並木、色浴衣と下駄を鳴らして巡る個性豊かな「七つの外湯」。そして冬の日本海がもたらす最高峰の味覚・津居山港直送の「本松葉ガニ」。情緒と美食が極まる関西屈指の名湯ステイへご案内します。
           </p>

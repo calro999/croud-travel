@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tochigi-shiobara-eleven-hotsprings-valley-stay/" },
-  title: "【栃木・那須塩原】塩原十一湯・もみじ谷大吊橋＆箒川渓谷露天宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "栃木・那須塩原：塩原十一湯・もみじ谷大吊橋＆箒川渓谷露天宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "1200年の歴史を誇る開湯伝説と七色の名湯「塩原十一湯」、箒川渓谷美と「もみじ谷大吊橋」、名物スープ入り焼きそばを巡る那須塩原特化ガイド。渓流沿い露天風呂や源泉かけ流し宿を厳選。",
   keywords: ["栃木", "那須塩原", "塩原十一湯", "もみじ谷大吊橋", "箒川渓谷露天宿", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             渓谷露天＆十一湯名湯特集 ♨️
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【栃木・那須塩原】塩原十一湯名湯めぐり・もみじ谷大吊橋＆箒川渓谷露天宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「栃木・那須塩原」塩原十一湯名湯めぐり・もみじ谷大吊橋＆箒川渓谷露天宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-teal-100/90 leading-relaxed">
             平安時代から続く1200年の歴史を誇る「塩原温泉郷」。箒川（ほうきがわ）の美しい渓谷沿いに広がる11の温泉地（塩原十一湯）は、乳白色・緑色・黒色・透明など泉質も効能も多彩。吊橋から眺める紅葉や新緑のパノラマ、そして名湯が注ぐ渓流露天風呂で心身を解きほぐす大自然ステイへご案内します。
           </p>

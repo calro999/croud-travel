@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hyogo-awaji-north-sumoto-onsen-stay/" },
-  title: "【兵庫・淡路島北部＆洲本温泉】明石海峡大橋・花さじき＆淡路牛・玉ねぎ宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "兵庫・淡路島北部＆洲本温泉：明石海峡大橋・花さじき＆淡路牛・玉ねぎ宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "御食国の豊かな食とオーシャンビュー・淡路島北部＆洲本温泉エリア完全特化！明石海峡大橋ライトアップ、あわじ花さじき、淡路島国営明石海峡公園、洲本温泉の三名泉、最高級「淡路牛・淡路島玉ねぎ・由良ウニ宿」を徹底解説。",
   keywords: ["兵庫", "淡路島北部", "洲本温泉", "明石海峡大橋", "花さじき", "淡路牛", "玉ねぎ宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             AWAJI NORTH & SUMOTO GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【兵庫・淡路島北部＆洲本温泉】明石海峡大橋・花さじき＆淡路牛・玉ねぎ宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「兵庫・淡路島北部＆洲本温泉」明石海峡大橋・花さじき＆淡路牛・玉ねぎ宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             神戸から明石海峡大橋を渡ってすぐのアイランドリゾート「淡路島」。四季の花々が海に向かって咲き誇る「あわじ花さじき」。紀淡海峡を望む老舗名湯「洲本温泉」。甘みたっぷりの淡路島玉ねぎと極上の淡路牛ステーキを堪能する旅。
           </p>

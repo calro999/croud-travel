@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            袋田の滝の四段紅葉と奥久慈大子温泉！名物奥久慈軍鶏・常陸牛と秋蕎麦を味わう茨城の奥座敷旅
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">袋田の滝の四段紅葉と奥久慈大子温泉！名物奥久慈軍鶏・常陸牛と秋蕎麦を味わう茨城の奥座敷旅</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             轟く名瀑を包む錦秋の彩りと、滋味あふれる奥久慈軍鶏・名湯美人の湯に憩う旅
           </p>

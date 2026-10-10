@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/ehime-matsuyama-dogo-onsen-stay/" },
-  title: "【愛媛・道後温泉】本館・飛鳥乃湯泉＆坊っちゃん文学・鯛めし極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "愛媛・道後温泉：本館・飛鳥乃湯泉＆坊っちゃん文学・鯛めし極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "日本最古の温泉・道後温泉エリア完全特化！道後温泉本館（保存修理完了）、飛鳥乃湯泉、椿の湯、坊っちゃん列車、宇和島風＆松山風鯛めし食べ歩きと名門旅館を徹底解説。",
   keywords: ["愛媛", "道後温泉", "本館", "飛鳥乃湯泉", "坊っちゃん文学", "鯛めし極上宿", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             DOGO ONSEN MICRO GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【愛媛・道後温泉】本館・飛鳥乃湯泉＆坊っちゃん文学・鯛めし極上宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「愛媛・道後温泉」本館・飛鳥乃湯泉＆坊っちゃん文学・鯛めし極上宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             3000年の歴史を刻む日本最古の温泉「道後」。夏目漱石の小説『坊っちゃん』の舞台となった道後温泉本館の木造建築。からくり時計の音色を聞き、瀬戸内の鯛めしと滑らかな美肌湯に癒やされる旅。
           </p>

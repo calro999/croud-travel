@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/fukushima-aizu-ashinomaki-ouchijuku-stay/" },
-  title: "【福島・会津若松＆芦ノ牧温泉】鶴ヶ城・大内宿ねぎそば＆渓谷露天・ねこ駅長宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "福島・会津若松＆芦ノ牧温泉：鶴ヶ城・大内宿ねぎそば＆渓谷露天・ねこ駅長宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "会津の歴史と渓谷美・福島会津若松＆芦ノ牧温泉エリア完全特化！赤瓦の「鶴ヶ城」、江戸時代の宿場町「大内宿」の一本ねぎそば、芦ノ牧温泉駅の「ねこ駅長」、大川渓谷を望む絶景露天風呂と会津馬刺し・地酒宿を徹底解説。",
   keywords: ["福島", "会津若松", "芦ノ牧温泉", "鶴ヶ城", "大内宿ねぎそば", "渓谷露天", "ねこ駅長宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             AIZU WAKAMATSU & OUCHIJUKU GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【福島・会津若松＆芦ノ牧温泉】鶴ヶ城・大内宿ねぎそば＆渓谷露天・ねこ駅長宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「福島・会津若松＆芦ノ牧温泉」鶴ヶ城・大内宿ねぎそば＆渓谷露天・ねこ駅長宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             幕末の歴史が息づく会津の城下町と、阿賀川（大川）が削り出した深い渓谷「芦ノ牧温泉」。江戸の面影を色濃く残す茅葺き屋根の宿場町「大内宿」。会津地鶏や会津馬刺し、日本屈指の銘酒の数々に酔いしれる歴史旅。
           </p>

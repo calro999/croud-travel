@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【伊勢志摩の王道美食】活伊勢海老お造り＆極上あわび踊り焼き！鳥羽・賢島オーシャンビュー温泉宿5選",
+  title: "伊勢志摩の王道美食：活伊勢海老お造り＆極上あわび踊り焼き！鳥羽・賢島オーシャンビュー温泉宿5選",
   description: "ぷりっぷりの活伊勢海老お造りと、磯の香り豊かで柔らかな極上あわび踊り焼き！伊勢神宮参拝と合わせて訪れたい、鳥羽・志摩・賢島のオーシャンビュー絶景露天風呂と最高峰の海鮮美食旅館を厳選紹介。",
   keywords: "鳥羽 温泉 伊勢海老 宿, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/traditional-mie-ise-ebi-abalone-gourmet-stay/",
   },
   openGraph: {
-    title: "【伊勢志摩の王道美食】活伊勢海老お造り＆極上あわび踊り焼き！鳥羽・賢島オーシャンビュー温泉宿5選",
+    title: "伊勢志摩の王道美食：活伊勢海老お造り＆極上あわび踊り焼き！鳥羽・賢島オーシャンビュー温泉宿5選",
     description: "ぷりっぷりの活伊勢海老お造りと、磯の香り豊かで柔らかな極上あわび踊り焼き！伊勢神宮参拝と合わせて訪れたい、鳥羽・志摩・賢島のオーシャンビュー絶景露天風呂と最高峰の海鮮美食旅館を厳選紹介。",
     url: 'https://croud-travel.pages.dev/traditional-mie-ise-ebi-abalone-gourmet-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【伊勢志摩の王道美食】活伊勢海老お造り＆極上あわび踊り焼き！鳥羽・賢島オーシャンビュー温泉宿5選",
+    title: "伊勢志摩の王道美食：活伊勢海老お造り＆極上あわび踊り焼き！鳥羽・賢島オーシャンビュー温泉宿5選",
     description: "ぷりっぷりの活伊勢海老お造りと、磯の香り豊かで柔らかな極上あわび踊り焼き！伊勢神宮参拝と合わせて訪れたい、鳥羽・志摩・賢島のオーシャンビュー絶景露天風呂と最高峰の海鮮美食旅館を厳選紹介。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>伊勢海老＆あわび会席</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【伊勢志摩の王道美食】活伊勢海老お造り＆極上あわび踊り焼き！鳥羽・賢島オーシャンビュー温泉宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「伊勢志摩の王道美食」活伊勢海老お造り＆極上あわび踊り焼き！鳥羽・賢島オーシャンビュー温泉宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             ぷりっぷりの活伊勢海老お造りと、磯の香り豊かで柔らかな極上あわび踊り焼き！伊勢神宮参拝と合わせて訪れたい、鳥羽・志摩・賢島のオーシャンビュー絶景露天風呂と最高峰の海鮮美食旅館を厳選紹介。
           </p>

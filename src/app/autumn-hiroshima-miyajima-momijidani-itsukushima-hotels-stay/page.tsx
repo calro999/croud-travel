@@ -3,11 +3,11 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【秋の宮島】紅葉谷公園の真紅のモミジと世界遺産・嚴島神社！秋の味覚と絶景を愛でるおすすめ名宿5選【2026最新】',
+  title: '秋の宮島：紅葉谷公園の真紅のモミジと世界遺産・嚴島神社！秋の味覚と絶景を愛でるおすすめ名宿5選「2026最新」',
   description: '約700本のもみじが燃えるように色づく宮島「紅葉谷公園」と、海に浮かぶ嚴島神社大鳥居の秋絶景！早朝参拝に便利な島内名宿や宮浜温泉の絶景宿など厳選5選。有もと、岩惣、菊乃家の魅力を徹底比較！',
   keywords: '宮島 紅葉, 紅葉谷公園 見頃, 嚴島神社 秋, 宮島 旅館 おすすめ, 岩惣 宮島, 宮島グランドホテル 有もと',
   openGraph: {
-    title: '【秋の宮島】紅葉谷公園の真紅のモミジと世界遺産・嚴島神社！秋の味覚と絶景を愛でるおすすめ名宿5選【2026最新】',
+    title: '秋の宮島：紅葉谷公園の真紅のモミジと世界遺産・嚴島神社！秋の味覚と絶景を愛でるおすすめ名宿5選「2026最新」',
     description: '約700本のもみじが燃えるように色づく宮島「紅葉谷公園」と、海に浮かぶ嚴島神社大鳥居の秋絶景！厳選宿5選。',
     type: 'article',
     url: 'https://croud-travel.com/autumn-hiroshima-miyajima-momijidani-itsukushima-hotels-stay',
@@ -32,9 +32,7 @@ export default function MiyajimaMomijidaniAutumnPage() {
             <span className="px-3 py-1 bg-amber-600 text-white text-xs font-bold rounded-full">秋の広島・世界遺産特集</span>
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">見頃目安: 11月中旬〜11月下旬</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">
-            【秋の宮島】紅葉谷公園の真紅のモミジと世界遺産・嚴島神社！秋の味覚と絶景を愛でるおすすめ名宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の宮島」紅葉谷公園の真紅のモミジと世界遺産・嚴島神社！秋の味覚と絶景を愛でるおすすめ名宿5選</h1>
           <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
             弥山の麓に広がる名所「紅葉谷公園」を真紅に染め上げる約700本のもみじ。満潮時に海上に浮かぶ大鳥居の神々しい姿と、秋に旬を迎える焼き牡蠣や名物あなごめしを贅沢に味わう極上ステイをご提案します。
           </p>

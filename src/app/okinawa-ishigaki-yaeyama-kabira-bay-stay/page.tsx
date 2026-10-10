@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/okinawa-ishigaki-yaeyama-kabira-bay-stay/" },
-  title: "【沖縄・石垣島＆八重山】川平湾・離島ホッピング＆石垣牛宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "沖縄・石垣島＆八重山：川平湾・離島ホッピング＆石垣牛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "ミシュラン・グリーンガイド三ツ星の絶景「川平湾」のグラスボート、竹富島・西表島へのアイランドホッピング拠点、日本初の国際星空保護区、最高級A5石垣牛ステーキを徹底解説。プライベートプール付きヴィラやオーシャンフロントリゾートを厳選。",
   keywords: ["沖縄", "石垣島", "八重山", "川平湾", "離島ホッピング", "石垣牛宿", "温泉宿"],
 };
@@ -92,9 +92,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             ISHIGAKI & YAEYAMA GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【沖縄・石垣島＆八重山諸島・川平湾】ミシュラン三ツ星川平ブルー・離島巡り＆石垣牛宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「沖縄・石垣島＆八重山諸島・川平湾」ミシュラン三ツ星川平ブルー・離島巡り＆石垣牛宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-teal-100/90 leading-relaxed">
             八重山諸島の玄関口にして、世界屈指の透明度を誇るエメラルドブルーの海に囲まれた南国パラダイス「石垣島」。太陽の光で刻一刻と海の色を変える「川平湾（かびらわん）」の奇跡の美しさ。赤瓦集落が残る竹富島や大自然の西表島へのアイランドホッピング。日本初の国際星空保護区に認定された満天の天の川と、石垣牛の芳醇な肉汁を味わう極上のアイランドリゾートステイへご案内します。
           </p>

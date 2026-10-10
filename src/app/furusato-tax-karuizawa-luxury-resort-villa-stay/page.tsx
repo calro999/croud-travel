@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '木漏れ日の高原と洗練の森！軽井沢の温泉露天風呂付きラグジュアリーホテル＆本格フレンチ名宿×ふるさと納税完全攻略ガイド【2026年最新】マリオット・プリンスイースト・音羽ノ森',
+  title: '木漏れ日の高原と洗練の森！軽井沢の温泉露天風呂付きラグジュアリーホテル＆本格フレンチ名宿×ふるさと納税極上旅ガイドマリオット・プリンスイースト・音羽ノ森',
   description: '日本を代表する最高峰の高原避暑地・軽井沢！白樺と落葉松の森、旧軽井沢銀座散策。「軽井沢マリオットホテル」「軽井沢プリンスホテル イースト」「旧軽井沢 ホテル音羽ノ森」を、長野県軽井沢町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。客室温泉露天風呂、天然温泉スパ、信州牛グリルを満喫。',
   keywords: ["2026年最新", "マリオット", "プリンスイースト", "音羽ノ森", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-karuizawa-luxury-resort-villa-stay/",
   },
   openGraph: {
-    title: '木漏れ日の高原と洗練の森！軽井沢の温泉露天風呂付きラグジュアリーホテル＆本格フレンチ名宿×ふるさと納税完全攻略ガイド【2026年最新】マリオット・プリンスイースト・音羽ノ森',
+    title: '木漏れ日の高原と洗練の森！軽井沢の温泉露天風呂付きラグジュアリーホテル＆本格フレンチ名宿×ふるさと納税極上旅ガイドマリオット・プリンスイースト・音羽ノ森',
     description: '日本を代表する最高峰の高原避暑地・軽井沢！白樺と落葉松の森、旧軽井沢銀座散策。「軽井沢マリオットホテル」「軽井沢プリンスホテル イースト」「旧軽井沢 ホテル音羽ノ森」を、長野県軽井沢町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。客室温泉露天風呂、天然温泉スパ、信州牛グリルを満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-karuizawa-luxury-resort-villa-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoKaruizawaLuxuryStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           日本屈指の洗練された高原リゾート！長野県軽井沢町特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          木漏れ日の高原と洗練の森！軽井沢の温泉露天風呂付きラグジュアリーホテル＆本格フレンチ名宿×ふるさと納税完全攻略ガイド【2026年最新】マリオット・プリンスイースト・音羽ノ森
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">木漏れ日の高原と洗練の森！軽井沢の温泉露天風呂付きラグジュアリーホテル＆本格フレンチ名宿×ふるさと納税極上旅ガイドマリオット・プリンスイースト・音羽ノ森</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoKaruizawaLuxuryStayPage() {
               世界中で愛されるマリオットのサービスで、快適な軽井沢の滞在を提供いたします。
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “スタッフの親切な対応と清潔な部屋に感動ホテルのスタッフの皆さんの対応がとても親切で予約時から私の間違いで迷惑をかけて部屋を入れ替えていただいたり 何度か電話させていただいた際も男性のスタッフ様も女… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D153419%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoKaruizawaLuxuryStayPage() {
               「森の中、物語を見つけに。」温泉、スポーツ、ショッピングなど自由な滞在を楽しむ高原リゾート
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “コスパは合わないショップの営業時間も短い悪くないですが、コスパは合わないですね。冷蔵庫の備付も少ないのにショップが閉まるのも早いです。サービスは送迎の方は良かったですがフロントスタッフは普通… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D181343%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoKaruizawaLuxuryStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               軽井沢駅・旧軽井沢銀座まで徒歩約13分。自然豊かな旧軽井沢の景観と伝統を兼ね備えた隠れ家ホテル。
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “静かで落ち着いた環境がとても良い静かでたいへんよい。 ”
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

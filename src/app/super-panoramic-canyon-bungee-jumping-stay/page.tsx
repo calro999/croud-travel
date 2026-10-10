@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【絶景バンジー＆渓谷アドベンチャー】日本屈指の高さから大ジャンプ！みなかみ温泉宿5選",
+  title: "絶景バンジー＆渓谷アドベンチャー：日本屈指の高さから大ジャンプ！みなかみ温泉宿5選",
   description: "エメラルドグリーンの渓谷に向かって飛び込むスリル満点バンジージャンプ！アドレナリン全開のアクティビティを体験した後は、利根川源流のせせらぎを聴く露天風呂とサウナで極上のととのいを。",
   keywords: "みなかみ 温泉 露天風呂 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/super-panoramic-canyon-bungee-jumping-stay/",
   },
   openGraph: {
-    title: "【絶景バンジー＆渓谷アドベンチャー】日本屈指の高さから大ジャンプ！みなかみ温泉宿5選",
+    title: "絶景バンジー＆渓谷アドベンチャー：日本屈指の高さから大ジャンプ！みなかみ温泉宿5選",
     description: "エメラルドグリーンの渓谷に向かって飛び込むスリル満点バンジージャンプ！アドレナリン全開のアクティビティを体験した後は、利根川源流のせせらぎを聴く露天風呂とサウナで極上のととのいを。",
     url: 'https://croud-travel.pages.dev/super-panoramic-canyon-bungee-jumping-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【絶景バンジー＆渓谷アドベンチャー】日本屈指の高さから大ジャンプ！みなかみ温泉宿5選",
+    title: "絶景バンジー＆渓谷アドベンチャー：日本屈指の高さから大ジャンプ！みなかみ温泉宿5選",
     description: "エメラルドグリーンの渓谷に向かって飛び込むスリル満点バンジージャンプ！アドレナリン全開のアクティビティを体験した後は、利根川源流のせせらぎを聴く露天風呂とサウナで極上のととのいを。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>渓谷バンジー＆源流露天風呂</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【絶景バンジー＆渓谷アドベンチャー】日本屈指の高さから大ジャンプ！みなかみ温泉宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「絶景バンジー＆渓谷アドベンチャー」日本屈指の高さから大ジャンプ！みなかみ温泉宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             エメラルドグリーンの渓谷に向かって飛び込むスリル満点バンジージャンプ！アドレナリン全開のアクティビティを体験した後は、利根川源流のせせらぎを聴く露天風呂とサウナで極上のととのいを。
           </p>

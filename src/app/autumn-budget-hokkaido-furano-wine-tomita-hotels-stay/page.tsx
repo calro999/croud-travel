@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【富良野】秋の収穫祭・ふらのワイン＆丘陵紅葉！4,000円台〜泊まれる格安リゾートホテル5選',
+  title: '富良野：秋の収穫祭・ふらのワイン＆丘陵紅葉！4,000円台〜泊まれる格安リゾートホテル5選',
   description: '秋限定の「ふらのワイン」新酒や名物オムカレー、十勝岳連峰を望むファーム富田の秋花畑！北の大地・富良野で1泊4,000円台〜泊まれる格安・高コスパホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetFuranoHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>秋のふらのワイン収穫祭＆十勝岳紅葉パノラマ</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【富良野】秋のふらのワイン新酒＆丘陵紅葉！<br className="hidden sm:inline" />4,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「富良野」秋のふらのワイン新酒＆丘陵紅葉！<br className="hidden sm:inline" />4,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-purple-100/90 max-w-2xl mx-auto leading-relaxed">
             夏とは一変し、冠雪した十勝岳連峰の白とパッチワークの丘の紅葉が美しくコントラストを描く秋の富富良野。ぶどうの収穫を迎えるふらのワイン工場や、秋の花々が咲き誇るファーム富田。富良野スキー場・駅周辺のリゾートホテルに4,000円台〜泊まれる優良宿を厳選。
           </p>

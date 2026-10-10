@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月茨城・北茨城温泉郷】五浦！名宿5選',
+  title: '茨城・北茨城温泉郷で過ごす冬の旅（11・12月）！五浦！名宿5選',
   description: '11月から12月にかけて、東京から常磐道やJR特急ひたちで約2時間の茨城県最北部「北茨城温泉郷（平潟・磯原・五浦）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '北茨城 温泉 宿泊, 磯原温泉, 五浦温泉, 平潟港温泉, まるみつ旅館, としまや月浜の湯, 五浦観光ホテル, 二ツ島観光ホテル, 磯原シーサイドホテル, あんこう鍋 どぶ汁, 常陸牛 宿, 太平洋 日の出 露天風呂',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-ibaraki-kitaibaraki-isohara-onsen-ankou-dobujiru-stay/"
   },
   openGraph: {
-    title: '【11・12月茨城・北茨城温泉郷】五浦！名宿5選',
+    title: '茨城・北茨城温泉郷で過ごす冬の旅（11・12月）！五浦！名宿5選',
     description: '11月から12月にかけて、東京から常磐道やJR特急ひたちで約2時間の茨城県最北部「北茨城温泉郷（平潟・磯原・五浦）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-ibaraki-kitaibaraki-isohara-onsen-ankou-dobujiru-stay',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -246,10 +246,7 @@ export default function IbarakiKitaibarakiWinterFeature() {
             <Anchor className="w-4 h-4" />
             11月・12月 冬の味覚＆太平洋絶景特集｜茨城・北茨城温泉郷
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            元祖あんこう鍋・濃厚どぶ汁と太平洋絶景<br className="hidden sm:inline" />
-            温まり美肌塩化物泉＆常陸牛の極上宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">元祖あんこう鍋・濃厚どぶ汁と太平洋絶景<br className="hidden sm:inline" /> 温まり美肌塩化物泉＆常陸牛の極上宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             11月本格解禁。水を一滴も使わない漁師伝承の濃厚「どぶ汁」と、冷えを芯から癒やす高濃度塩化物泉を堪能する大人の初冬紀行。
           </p>

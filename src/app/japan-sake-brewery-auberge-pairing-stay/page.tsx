@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-sake-brewery-auberge-pairing-stay/" },
-  title: "【酒蔵オーベルジュ＆日本酒ペアリング宿】蔵元直営・極上和食マリアージュ 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "酒蔵オーベルジュ＆日本酒ペアリング宿：蔵元直営・極上和食マリアージュ 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "酒蔵に泊まる至福！全国の酒蔵直営オーベルジュ＆極上日本酒ペアリング宿完全特化！長野諏訪、福島会津、秋田、京都伏見、兵庫灘、搾りたて生原酒と会席料理の至高のマリアージュ、酒蔵見学・テイスティング付き名宿を徹底解説。",
   keywords: ["酒蔵オーベルジュ", "日本酒ペアリング宿", "蔵元直営", "極上和食マリアージュ", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
@@ -89,9 +89,7 @@ export default function SakeTourismHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-gradient-to-r from-amber-400 to-yellow-300 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block shadow">
             SAKE AUBERGE & PAIRING GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【酒蔵オーベルジュ＆日本酒ペアリング宿】蔵元直営・極上和食マリアージュ 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「酒蔵オーベルジュ＆日本酒ペアリング宿」蔵元直営・極上和食マリアージュ 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             酒造りの歴史と息吹が息づく酒蔵の敷地で目覚める「酒蔵オーベルジュ」。熟練の杜氏が丹精込めて醸した限定酒や搾りたて生酒を、料理長が腕を振るう一皿一皿に合わせて味わうペアリングディナー。芳醇な吟醸香と伝統の木造建築に抱かれる大人の極上ステイへ。
           </p>

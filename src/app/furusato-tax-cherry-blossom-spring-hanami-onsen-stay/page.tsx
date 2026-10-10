@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-cherry-blossom-spring-hanami-onsen-stay/" },
-  title: '【全国の桜名所×ふるさと納税】客室から夜桜を愛でるお花見露天風呂＆桜の絶景宿完全ガイド | クラウドトラベル',
+  title: '全国の桜名所をふるさと納税でお得に旅する！客室から夜桜を愛でるお花見露天風呂＆桜の絶景宿厳選ガイド | クラウドトラベル',
   description: '春限定の絶景！静岡・河津桜、奈良・吉野山の一目千本桜、青森・弘前公園の桜の絨毯。春のお花見シーズンに客室や露天風呂から満開の桜を独占できる名宿を厳選。早期満室の桜宿をふるさと納税で賢く予約。',
   openGraph: {
-    title: '【全国の桜名所×ふるさと納税】客室から夜桜を愛でるお花見露天風呂＆桜の絶景宿完全ガイド | クラウドトラベル',
+    title: '全国の桜名所をふるさと納税でお得に旅する！客室から夜桜を愛でるお花見露天風呂＆桜の絶景宿厳選ガイド | クラウドトラベル',
     description: '春限定の絶景！静岡・河津桜、奈良・吉野山の一目千本桜、青森・弘前公園の桜の絨毯。春のお花見シーズンに客室や露天風呂から満開の桜を独占できる名宿を厳選。早期満室の桜宿をふるさと納税で賢く予約。',
     type: 'article',
   },
@@ -59,9 +59,7 @@ export default function Page() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             ふるさと納税×桜名所・お花見温泉宿
           </div>
-          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            【全国の桜名所×ふるさと納税】客室から夜桜を愛でるお花見露天風呂＆桜の絶景宿完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">全国の桜名所をふるさと納税でお得に旅する！客室から夜桜を愛でるお花見露天風呂＆桜の絶景宿厳選ガイド</h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl mb-6">
             日本人の心を揺さぶり続ける「春の桜」。2月から早咲きの濃いピンク色に染まる伊豆・河津桜並木、山全体が下千本から奥千本まで3万本の山桜で埋め尽くされる世界遺産・奈良吉野山、そしてお濠一面がピンクの花びらで埋まる花筏（はないかだ）で名高い青森・弘前公園。人混みの中で見上げるお花見も良いものですが、最も贅沢なのは「客室のテラスや露天風呂に浸かりながら、満開の桜を二人きりで愛でる。」プライベートなお花見ステイです。しかし桜のトップシーズンは全国から予約が殺到し、半年以上前から満室になることも日常茶飯事。そこで絶対に知っておきたいのが、有効期間3年の楽天ふるさと納税トラベルクーポンです。年末の駆け込み期にクーポンを確保しておき、桜の開花情報に合わせて先行予約を入れることで、実質30％割引で特等席の桜宿をリザーブ可能。春の訪れを五感で祝う、極上のお花見温泉旅へ出かけましょう。
           </p>

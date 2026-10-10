@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【静岡】日本平の富士山絶景と黒おでん！1,000円台〜泊まれる格安ホテル5選',
+  title: '静岡：日本平の富士山絶景と黒おでん！1,000円台〜泊まれる格安ホテル5選',
   description: '澄み渡る秋空に映える霊峰富士と日本平の秋景色、青葉横丁で熱々の静岡黒おでんを堪能！静岡駅前で1泊1,000円台〜3,000円台で泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetShizuokaHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>日本平富士山パノラマ＆名物黒おでん</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【静岡】日本平の富士山絶景＆静岡黒おでん！<br className="hidden sm:inline" />1,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「静岡」日本平の富士山絶景＆静岡黒おでん！<br className="hidden sm:inline" />1,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-teal-100/90 max-w-2xl mx-auto leading-relaxed">
             空気が澄み、雪化粧を始めた富士山と駿河湾を一望できる日本平夢テラスの秋景色。夜は提灯が灯る青葉おでん街で、黒はんぺんや牛すじにだし粉をたっぷりかけた名物「静岡おでん」を地酒とともに！驚きの1,000円台〜3,000円台で泊まれる優良ホテルを厳選。
           </p>

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/winter-starry-sky-astrophotography/" },
-  title: "【冬の天体観測】満天の星空＆天の川！絶景星空ホテル 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "冬の天体観測：満天の星空＆天の川！絶景星空ホテル 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "空気が澄み渡る冬の夜空！長野・阿智村（日本一の星空ナイトツアー）、八ヶ岳・野辺山高原、沖縄・石垣島西表島（星空保護区）、和歌山・串本潮岬など、肉眼で満天の星空や天の川を望む人気ホテル＆温泉宿を徹底解説。",
   keywords: ["冬の天体観測", "満天の星空", "天の川！絶景星空ホテル", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -98,9 +98,7 @@ export default function SeasonalFeaturePage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             STARRY SKY RETREAT
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【冬の天体観測】満天の星空＆天の川！絶景星空ホテル 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「冬の天体観測」満天の星空＆天の川！絶景星空ホテル 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             人工の光が届かない大自然の中、見上げれば息をのむ満天の星空と流れ星。星空テラス、天体望遠鏡ドーム、星空案内人によるナイトツアー、露天風呂から星を仰ぐ極上の天体観測ステイをご紹介します。
           </p>

@@ -1,4 +1,4 @@
-# 【シェラトン沖縄サンマリーナリゾート（Sheraton Okinawa Sunmarina Resort）】シェラトン沖縄サンマリーナリゾートが選ばれる5つの理由を満喫する旅ガイド｜沖縄県
+# シェラトン沖縄サンマリーナリゾート（Sheraton Okinawa Sunmarina Resort）：シェラトン沖縄サンマリーナリゾートが選ばれる5つの理由を満喫する旅ガイド｜沖縄県
 
 - URL: https://croud-travel.pages.dev/posts/sheraton_okinawa/
 - 宿泊施設名: シェラトン沖縄サンマリーナリゾート（Sheraton Okinawa Sunmarina Resort）

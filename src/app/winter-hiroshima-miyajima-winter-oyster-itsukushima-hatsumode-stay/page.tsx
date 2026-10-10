@@ -5,11 +5,11 @@ import { ChevronRight, Star, MapPin, Sparkles, Snowflake, Mountain, Award, HelpC
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【冬の宮島牡蠣三昧と厳島神社新春初詣】2026-2027年冬の宮島・宮浜温泉！世界遺産と絶景潮湯名宿5選',
+  title: '冬の宮島牡蠣三昧と厳島神社新春初詣：2026-2027年冬の宮島・宮浜温泉！世界遺産と絶景潮湯名宿5選',
   description: '冬に実入りがピークを迎える濃厚クリーミーな宮島牡蠣と世界遺産・厳島神社の新春初詣！海上に浮かぶ大鳥居の荘厳な眺望、宮島潮湯温泉や対岸宮浜温泉の絶景露天風呂を愉しむ厳選5宿。',
   keywords: ['広島県温泉', '厳島神社', '宮島・廿日市・宮浜温泉', '冬の旅行', '温泉宿5選', '楽天トラベル', 'ふるさと納税'],
   openGraph: {
-    title: '【冬の宮島牡蠣三昧と厳島神社新春初詣】2026-2027年冬の宮島・宮浜温泉！世界遺産と絶景潮湯名宿5選',
+    title: '冬の宮島牡蠣三昧と厳島神社新春初詣：2026-2027年冬の宮島・宮浜温泉！世界遺産と絶景潮湯名宿5選',
     description: '冬に実入りがピークを迎える濃厚クリーミーな宮島牡蠣と世界遺産・厳島神社の新春初詣！海上に浮かぶ大鳥居の荘厳な眺望、宮島潮湯温泉や対岸宮浜温泉の絶景露天風呂を愉しむ厳選5宿。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/winter-hiroshima-miyajima-winter-oyster-itsukushima-hatsumode-stay',
@@ -107,9 +107,7 @@ export default function WinterFeaturePage() {
               <Snowflake className="w-3.5 h-3.5" />
               <span>冬の厳選旅行特集（11月・12月・1月）</span>
             </div>
-            <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug">
-              【冬の宮島牡蠣三昧と厳島神社新春初詣】2026-2027年冬の宮島・宮浜温泉！世界遺産と絶景潮湯名宿5選
-            </h1>
+            <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug">「冬の宮島牡蠣三昧と厳島神社新春初詣」2026-2027年冬の宮島・宮浜温泉！世界遺産と絶景潮湯名宿5選</h1>
             <p className="text-sm md:text-base text-cyan-100/90 max-w-2xl mx-auto leading-relaxed">
               冬に実入りがピークを迎える濃厚クリーミーな宮島牡蠣と世界遺産・厳島神社の新春初詣！海上に浮かぶ大鳥居の荘厳な眺望、宮島潮湯温泉や対岸宮浜温泉の絶景露天風呂を愉しむ厳選5宿。
             </p>

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tokyo-shikoku-takamatsu-bus-vs-shinkansen-guide/" },
-  title: "【東京〜高松・香川】寝台特急サンライズ vs 新幹線 vs 夜行バス徹底比較！片道5,000円〜行く本場讃岐うどん爆食1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+  title: "東京〜高松・香川：寝台特急サンライズ vs 新幹線 vs 夜行バス徹底比較！片道5,000円〜行く本場讃岐うどん爆食1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "東京から高松・香川へ安く行くには？新幹線（岡山乗換マリンライナー）、寝台特急サンライズ瀬戸、夜行高速バスの料金・所要時間比較！早朝6時台から本場讃岐うどんの名店巡り、栗林公園、金刀比羅宮を巡る1泊2日モデルコース。",
   keywords: ["東京〜高松", "香川", "寝台特急サンライズ", "vs", "新幹線", "温泉宿", "宿泊予約"],
 };
@@ -167,9 +167,7 @@ export default function HighwayBusArticlePage() {
               交通手段の徹底比較＆最適ルート
             </span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【東京〜高松・香川】寝台特急サンライズ vs 新幹線 vs 夜行バス徹底比較！片道5,000円〜行く本場讃岐うどん爆食1泊2日モデルコース
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">「東京〜高松・香川」寝台特急サンライズ vs 新幹線 vs 夜行バス徹底比較！片道5,000円〜行く本場讃岐うどん爆食1泊2日モデルコース</h1>
           <p className="text-xs md:text-sm text-cyan-100/90 leading-relaxed font-medium">
             新幹線だと岡山乗り換えで東京〜高松片道約18,000円（往復約36,000円）。夜行高速バスなら片道約5,000円〜9,500円！往復で2万円以上浮くため、早朝6時から営業する讃岐うどんの名店を3軒はしごし、特別名勝「栗林公園」や琴平温泉の露天風呂を満喫できます。
           </p>

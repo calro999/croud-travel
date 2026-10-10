@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月横浜】中華街熱々点心と絶景港！名宿5選',
+  title: '11・12・1月横浜：中華街熱々点心と絶景港！名宿5選',
   description: '冬の横浜は澄み渡る夜空にみなとみらい21の摩天楼と大観覧車が輝き、横浜赤レンガ倉庫「クリスマスマーケット」や都心臨海部の大規模光アート「ヨルノヨ」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '横浜 ホテル, みなとみらい ホテル, 赤レンガ倉庫 クリスマスマーケット, ヨルノヨ 横浜, 横浜中華街 春節, 横浜ベイホテル東急, インターコンチネンタル横浜, ホテルニューグランド, ウェスティンホテル横浜, 11月 12月 1月 横浜 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kanagawa-yokohama-minatomirai-illumination-chinatown-stay/"
   },
   openGraph: {
-    title: '【11・12・1月横浜】中華街熱々点心と絶景港！名宿5選',
+    title: '11・12・1月横浜：中華街熱々点心と絶景港！名宿5選',
     description: '冬の横浜は澄み渡る夜空にみなとみらい21の摩天楼と大観覧車が輝き、横浜赤レンガ倉庫「クリスマスマーケット」や都心臨海部の大規模光アート「ヨルノヨ」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-kanagawa-yokohama-minatomirai-illumination-chinatown-stay',
     siteName: '地域の宿探訪',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月横浜】赤レンガ倉庫クリスマスマーケット＆ヨルノヨ夜景！中華街熱々点心と絶景港宿5選",
+    title: "11・12・1月横浜：赤レンガ倉庫クリスマスマーケット＆ヨルノヨ夜景！中華街熱々点心と絶景港宿5選",
     description: "冬の横浜は澄み渡る夜空にみなとみらい21の摩天楼と大観覧車が輝き、横浜赤レンガ倉庫「クリスマスマーケット」や都心臨海部の大規模光アート「ヨルノヨ」、横浜中華街の熱々点心＆春節ランタンが街を彩る年間最美のシーズン。楽天APIから最新取得した横浜ベイホテル東急、インターコンチネンタル、ホテルニューグランドなど絶景ホテル5選を徹底特集します。",
     images: ["https://img.travel.rakuten.co.jp/share/HOTEL/2003/2003.jpg"]
   }
@@ -232,10 +232,7 @@ export default function YokohamaMinatomiraiWinterPage() {
             <span>11月・12月・1月冬の横浜イルミネーション特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">
-            赤レンガ倉庫クリスマスマーケット＆ヨルノヨ夜景！<br className="hidden sm:inline" />
-            中華街熱々点心と絶景港宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">赤レンガ倉庫クリスマスマーケット＆ヨルノヨ夜景！<br className="hidden sm:inline" /> 中華街熱々点心と絶景港宿5選</h1>
 
           <p className="text-slate-300 text-sm sm:text-base lg:text-lg leading-relaxed max-w-3xl mb-8">
             空気が澄み渡る冬の横浜は、一年で最もドラマチックな輝きを放ちます。赤レンガ倉庫に現れる巨大なモミの木のツリーと本場ドイツのクリスマスマーケット、臨海部全体が光と音でシンクロする「ヨルノヨ」、そして熱々の湯気と提灯が街を包む横浜中華街の活気。海辺のバルコニーや高層階の客室から、冬の港夜景を独占する特別なステイへと誘います。

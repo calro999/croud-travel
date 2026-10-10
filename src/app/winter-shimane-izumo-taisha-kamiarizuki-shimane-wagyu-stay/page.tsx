@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月島根・出雲大社周辺温泉】しまね和牛！名宿5選',
+  title: '島根・出雲大社周辺温泉で過ごす冬の旅（11・12月）！しまね和牛！名宿5選',
   description: '旧暦10月（新暦11月）を迎えると、全国の八百万（やおよろず）の神々が出雲の地に集まることから「神在月（かみありづき）」と呼ばれ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '出雲大社 宿泊, 出雲 温泉 11月 12月, いにしえの宿佳雲, お宿月夜のうさぎ, 竹野屋旅館, はたご小田温泉, マリンタラソ出雲, 神在月 宿泊, しまね和牛 宿, 出雲そば 宿',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shimane-izumo-taisha-kamiarizuki-shimane-wagyu-stay/"
   },
   openGraph: {
-    title: '【11・12月島根・出雲大社周辺温泉】しまね和牛！名宿5選',
+    title: '島根・出雲大社周辺温泉で過ごす冬の旅（11・12月）！しまね和牛！名宿5選',
     description: '旧暦10月（新暦11月）を迎えると、全国の八百万（やおよろず）の神々が出雲の地に集まることから「神在月（かみありづき）」と呼ばれ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-shimane-izumo-taisha-kamiarizuki-shimane-wagyu-stay',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -280,10 +280,7 @@ export default function ShimaneIzumoWinterFeature() {
             <HeartHandshake className="w-4 h-4" />
             11月・12月 神在月開運参拝＆山陰美食特集｜島根・出雲大社周辺温泉
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月島根・出雲大社周辺温泉】<br className="hidden sm:inline" />
-            神在月参拝と初冬解禁日本海の幸・しまね和牛＆絶景露天の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">島根・出雲大社周辺温泉で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 神在月参拝と初冬解禁日本海の幸・しまね和牛＆絶景露天の宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             八百万の神々が集う神聖なる神在月。早朝の静寂に包まれた出雲大社で縁結びを祈り、11月解禁の松葉ガニ・高級魚ノドグロ・しまね和牛を堪能。美肌の天然温泉で心身を清める至福の旅。
           </p>

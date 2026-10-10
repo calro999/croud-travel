@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kamikochi-matsumoto-car-free-guide/" },
-  title: "【松本・上高地 車なし旅行完全ガイド】特急あずさ＆上高地線・シャトルバスで行く国宝城下町＆神の降り立つ地 ｜ 日本全国・旅宿クラウド",
+  title: "松本・上高地 車なし旅行厳選ガイド：特急あずさ＆上高地線・シャトルバスで行く国宝城下町＆神の降り立つ地 ｜ 日本全国・旅宿クラウド",
   description: "自家用車規制のある上高地こそ公共交通が最強！特急あずさ・松本電鉄上高地線・アルピコシャトルバスを活用し、松本城下町散策と大正池〜河童橋トレッキング、松本駅前大浴場ホテルを満喫する1泊2日。",
   keywords: ["松本", "上高地", "車なし旅行", "特急あずさ", "上高地線", "シャトルバスで行く国宝城下町", "神の降り立つ地"],
 };
@@ -216,10 +216,7 @@ export default function KamikochiMatsumotoCarFreePage() {
             </span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight font-journal-serif text-white">
-            【松本・上高地 車なし旅行完全ガイド】<br className="hidden sm:inline" />
-            特急あずさ＆上高地線・バスで行く国宝城下町＆神の降り立つ地
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight font-journal-serif text-white">「松本・上高地 車なし旅行厳選ガイド」<br className="hidden sm:inline" /> 特急あずさ＆上高地線・バスで行く国宝城下町＆神の降り立つ地</h1>
 
           <p className="text-sm md:text-base text-rose-100/90 max-w-3xl leading-relaxed">
             通年マイカー規制が敷かれ、自家用車では立ち入れない上高地。だからこそ「公共交通＋徒歩」が最もスマートで快適な正攻法です！新宿から特急あずさで松本に入り、レトロな上高地線とシャトルバスを乗り継ぐ、感動の1泊2日モデルコースを余すところなく解説します。

@@ -4,14 +4,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '日本三大渓谷露天風呂＆大自然パノラマ野天温泉宿×ふるさと納税完全ガイド【2026年最新】天城湯ヶ島・群馬尻焼・秋田秋の宮',
+  title: '日本三大渓谷露天風呂＆大自然パノラマ野天温泉宿×ふるさと納税厳選ガイド天城湯ヶ島・群馬尻焼・秋田秋の宮',
   description: '川と一体化する究極の野天風呂！静岡「天城湯ヶ島温泉」狩野川渓谷の清流露天風呂と天城本わさび・猪鍋会席、群馬「尻焼温泉・花敷温泉」川底から温泉が湧き出す天然の巨大川風呂と四万清流宿、秋田「秋の宮温泉郷・泥湯」役内川沿いの秘湯露天風呂と稲庭うどん会席。大自然の渓谷美と名湯を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: 'ふるさと納税, 楽天トラベル, 旅行クーポン, 宿泊記, ホテル予約, 国内旅行, おすすめ宿, 温泉旅館',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-gorge-open-air-baths-retreat-stay/",
   },
   openGraph: {
-    title: '日本三大渓谷露天風呂＆大自然パノラマ野天温泉宿×ふるさと納税完全ガイド【2026年最新】天城湯ヶ島・群馬尻焼・秋田秋の宮',
+    title: '日本三大渓谷露天風呂＆大自然パノラマ野天温泉宿×ふるさと納税厳選ガイド天城湯ヶ島・群馬尻焼・秋田秋の宮',
     description: '川と一体化する究極の野天風呂！静岡「天城湯ヶ島温泉」狩野川渓谷の清流露天風呂と天城本わさび・猪鍋会席、群馬「尻焼温泉・花敷温泉」川底から温泉が湧き出す天然の巨大川風呂と四万清流宿、秋田「秋の宮温泉郷・泥湯」役内川沿いの秘湯露天風呂と稲庭うどん会席。大自然の渓谷美と名湯を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-gorge-open-air-baths-retreat-stay',
     siteName: 'トラベル総合ナビ',
@@ -56,9 +56,7 @@ export default function Page() {
             <span>✨</span>
             <span>日本三大渓谷野天風呂・秘境温泉特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6 text-white drop-shadow-sm">
-            日本三大渓谷露天風呂＆野天温泉宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6 text-white drop-shadow-sm">日本三大渓谷露天風呂＆野天温泉宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-xl text-slate-200 leading-relaxed font-normal max-w-4xl">
             川のせせらぎに手を浸し、眼下に流れる清流とひとつになる。大自然が生み出した奇跡の野天風呂
           </p>

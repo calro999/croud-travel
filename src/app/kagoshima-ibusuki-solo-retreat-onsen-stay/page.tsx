@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kagoshima-ibusuki-solo-retreat-onsen-stay/" },
-  title: '【指宿温泉ひとり旅・砂むし温泉おこもり】錦江湾パノラマ・砂むし会席・黒豚しゃぶ！南国薩摩の潮風と地熱に癒やされる厳選3宿',
+  title: '指宿温泉ひとり旅・砂むし温泉おこもり：錦江湾パノラマ・砂むし会席・黒豚しゃぶ！南国薩摩の潮風と地熱に癒やされる厳選3宿',
   description: '世界唯一の天然砂むし温泉の街・指宿！名物砂むし温泉徒歩圏でプロが選ぶ名宿料理部門上位常連の最高峰「いぶすき秀水園」、錦江湾を望む展望大浴場と砂むし風呂完備の「指宿海上ホテル」、源泉かけ流し温泉と快適な個室が評判の「指宿こころの宿」を徹底比較。',
   keywords: '指宿温泉 一人旅 宿,指宿 ホテル 一人 温泉,いぶすき秀水園,指宿海上ホテル,指宿こころの宿,指宿 砂むし温泉 ひとり旅',
   openGraph: {
-    title: '【指宿温泉ひとり旅・砂むし温泉おこもり】錦江湾パノラマ・砂むし会席・黒豚しゃぶ！南国薩摩の潮風と地熱に癒やされる厳選3宿',
+    title: '指宿温泉ひとり旅・砂むし温泉おこもり：錦江湾パノラマ・砂むし会席・黒豚しゃぶ！南国薩摩の潮風と地熱に癒やされる厳選3宿',
     description: '世界唯一の天然砂むし温泉の街・指宿！名物砂むし温泉徒歩圏でプロが選ぶ名宿料理部門上位常連の最高峰「いぶすき秀水園」、錦江湾を望む展望大浴場と砂むし風呂完備の「指宿海上ホテル」、源泉かけ流し温泉と快適な個室が評判の「指宿こころの宿」を徹底比較。',
     url: 'https://croud-travel.pages.dev/kagoshima-ibusuki-solo-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【指宿温泉ひとり旅・砂むし温泉おこもり】錦江湾パノラマ・砂むし会席・黒豚しゃぶ！南国薩摩の潮風と地熱に癒やされる厳選3宿',
+    headline: '指宿温泉ひとり旅・砂むし温泉おこもり：錦江湾パノラマ・砂むし会席・黒豚しゃぶ！南国薩摩の潮風と地熱に癒やされる厳選3宿',
     description: '世界唯一の天然砂むし温泉の街・指宿！名物砂むし温泉徒歩圏でプロが選ぶ名宿料理部門上位常連の最高峰「いぶすき秀水園」、錦江湾を望む展望大浴場と砂むし風呂完備の「指宿海上ホテル」、源泉かけ流し温泉と快適な個室が評判の「指宿こころの宿」を徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             鹿児島・指宿温泉ひとり旅＆砂むし名湯おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【指宿温泉ひとり旅・砂むし温泉おこもり】錦江湾パノラマ・砂むし会席・黒豚しゃぶ！南国薩摩の潮風と地熱に癒やされる厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「指宿温泉ひとり旅・砂むし温泉おこもり」錦江湾パノラマ・砂むし会席・黒豚しゃぶ！南国薩摩の潮風と地熱に癒やされる厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

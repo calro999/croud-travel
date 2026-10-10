@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/disney-trip-packing-regrets-worst5-guide/" },
-  title: "【ディズニー旅行で後悔したことワースト5】スマホ電池切れ・開園待ち寒暖差・靴擦れで地獄を見たリアル失敗談",
+  title: "ディズニー旅行で後悔したことワースト5：スマホ電池切れ・開園待ち寒暖差・靴擦れで地獄を見たリアル失敗談",
   description:
     "東京ディズニーリゾートでありがちな失敗を徹底回避！公式アプリ連動で昼にスマホバッテリーが尽きる悲劇、開園待ちの強風極寒・極暑、新エリアDPA争奪戦の罠、モバイルバッテリーとクッションシート必須リスト。",
   keywords: ["スマホ電池切れ", "開園待ち寒暖差", "靴擦れで地獄を見たリアル失敗談", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
@@ -168,11 +168,7 @@ export default function DisneyTripPackingRegretsWorst5Page() {
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-rose-500/20 border border-rose-400/30 text-rose-200 text-xs font-bold tracking-wider uppercase mb-4 backdrop-blur-md">
             <span>⚠️</span> Brutal Reality Guide • 東京ディズニーリゾート
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6">
-            【ディズニー旅行で後悔したこと<span className="text-rose-400">ワースト5</span>】
-            <br />
-            スマホ電池切れ・開園待ち寒暖差・靴擦れで地獄を見たリアル失敗談
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6">「ディズニー旅行で後悔したこと<span className="text-rose-400">ワースト5</span>」 <br /> スマホ電池切れ・開園待ち寒暖差・靴擦れで地獄を見たリアル失敗談</h1>
           <p className="text-rose-100 text-sm sm:text-base leading-relaxed max-w-2xl mx-auto font-medium">
             夢の国で待ち受ける「現実の厳しさ」。現代ディズニーはスマホと体調管理の準備不足が命取りになります。
             何万人もの先輩ゲストが涙を流したリアルな失敗と、後悔をゼロにするパッキング装備を完全網羅。

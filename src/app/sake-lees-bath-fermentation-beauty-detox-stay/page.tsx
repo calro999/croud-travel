@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/sake-lees-bath-fermentation-beauty-detox-stay/" },
-  title: "【酒粕風呂・日本酒風呂＆発酵美肌デトックス宿】杜氏の手の白さ・糀スパ 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "酒粕風呂・日本酒風呂＆発酵美肌デトックス宿：杜氏の手の白さ・糀スパ 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "杜氏の手の美しさの秘密！酒粕風呂・日本酒風呂＆発酵料理デトックス宿完全特化！新潟松之山、京都丹後、栃木日光、純米酒の天然アミノ酸とコウジ酸がもたらす全身しっとり美肌体験、塩糀・甘酒の発酵朝食バイキング、温活スパを徹底解説。",
   keywords: ["酒粕風呂", "日本酒風呂", "発酵美肌デトックス宿", "杜氏の手の白さ", "糀スパ", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function SakeTourismHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-gradient-to-r from-amber-400 to-yellow-300 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block shadow">
             SAKE LEES BATH & FERMENTATION GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【酒粕風呂・日本酒風呂＆発酵美肌デトックス宿】杜氏の手の白さ・糀スパ 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「酒粕風呂・日本酒風呂＆発酵美肌デトックス宿」杜氏の手の白さ・糀スパ 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             「酒造りに携わる杜氏の手は、なぜ白くすべすべなのか。」。その秘密は、米と糀が醸し出す天然アミノ酸とコウジ酸。湯船にたっぷりと注がれる純米酒や、酒粕を溶かしたミルキーな酒粕風呂。身体の芯から温まり、発酵美食で体内から美しく整うデトックスステイへ。
           </p>

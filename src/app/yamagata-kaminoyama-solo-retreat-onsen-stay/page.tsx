@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/yamagata-kaminoyama-solo-retreat-onsen-stay/" },
-  title: '【かみのやま温泉ひとり旅・蔵王連峰パノラマおこもり】城下町足湯・山形牛会席・ワイン王国！奥羽三楽郷の名湯に癒やされる厳選3宿',
+  title: 'かみのやま温泉ひとり旅・蔵王連峰パノラマおこもり：城下町足湯・山形牛会席・ワイン王国！奥羽三楽郷の名湯に癒やされる厳選3宿',
   description: '山形新幹線かみのやま温泉駅直通！プロが選ぶ日本のホテル旅館100選上位常連の最高峰「日本の宿 古窯」、全館で源泉と美食を味わえる上質宿「葉山舘」、昔ながらの温もりと良質な源泉が愛される「はたや旅館」を楽天API最新データに基づき徹底比較。',
   keywords: 'かみのやま温泉 一人旅 宿,かみのやま ホテル 一人 温泉,日本の宿 古窯,葉山舘,はたや旅館,かみのやま 上山城 ひとり旅',
   openGraph: {
-    title: '【かみのやま温泉ひとり旅・蔵王連峰パノラマおこもり】城下町足湯・山形牛会席・ワイン王国！奥羽三楽郷の名湯に癒やされる厳選3宿',
+    title: 'かみのやま温泉ひとり旅・蔵王連峰パノラマおこもり：城下町足湯・山形牛会席・ワイン王国！奥羽三楽郷の名湯に癒やされる厳選3宿',
     description: '山形新幹線かみのやま温泉駅直通！プロが選ぶ日本のホテル旅館100選上位常連の最高峰「日本の宿 古窯」、全館で源泉と美食を味わえる上質宿「葉山舘」、昔ながらの温もりと良質な源泉が愛される「はたや旅館」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/yamagata-kaminoyama-solo-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【かみのやま温泉ひとり旅・蔵王連峰パノラマおこもり】城下町足湯・山形牛会席・ワイン王国！奥羽三楽郷の名湯に癒やされる厳選3宿',
+    headline: 'かみのやま温泉ひとり旅・蔵王連峰パノラマおこもり：城下町足湯・山形牛会席・ワイン王国！奥羽三楽郷の名湯に癒やされる厳選3宿',
     description: '山形新幹線かみのやま温泉駅直通！プロが選ぶ日本のホテル旅館100選上位常連の最高峰「日本の宿 古窯」、全館で源泉と美食を味わえる上質宿「葉山舘」、昔ながらの温もりと良質な源泉が愛される「はたや旅館」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             山形・かみのやま温泉ひとり旅＆奥羽三楽郷おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【かみのやま温泉ひとり旅・蔵王連峰パノラマおこもり】城下町足湯・山形牛会席・ワイン王国！奥羽三楽郷の名湯に癒やされる厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「かみのやま温泉ひとり旅・蔵王連峰パノラマおこもり」城下町足湯・山形牛会席・ワイン王国！奥羽三楽郷の名湯に癒やされる厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

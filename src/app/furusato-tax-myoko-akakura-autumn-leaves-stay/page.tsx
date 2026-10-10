@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '妙高山と妙高スカイケーブルの紅葉空中散歩＆赤倉温泉！絶景クラシックホテル×ふるさと納税完全ガイド【2026年最新秋旅】新潟',
+  title: '妙高山と妙高スカイケーブルの紅葉空中散歩＆赤倉温泉！絶景クラシックホテル×ふるさと納税厳選ガイド新潟',
   description: '10月上旬〜10月下旬に見頃を迎える名峰「妙高山（みょうこうさん）」と妙高高原。妙高スカイケーブルから見下ろす紅葉絨毯と苗名滝の大迫力、標高1,000mの雲海に浮かぶ名門「赤倉観光ホテル」や白濁秘湯「花文」「みどりや旅館」で硫酸塩温泉と越後牛・日本海の紅ズワイガニ・新潟新米を堪能。ふるさと納税で実質2,000円。',
   keywords: ["2026年最新秋旅", "新潟", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-myoko-akakura-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '妙高山と妙高スカイケーブルの紅葉空中散歩＆赤倉温泉！絶景クラシックホテル×ふるさと納税完全ガイド【2026年最新秋旅】新潟',
+    title: '妙高山と妙高スカイケーブルの紅葉空中散歩＆赤倉温泉！絶景クラシックホテル×ふるさと納税厳選ガイド新潟',
     description: '10月上旬〜10月下旬に見頃を迎える名峰「妙高山（みょうこうさん）」と妙高高原。妙高スカイケーブルから見下ろす紅葉絨毯と苗名滝の大迫力、標高1,000mの雲海に浮かぶ名門「赤倉観光ホテル」や白濁秘湯「花文」「みどりや旅館」で硫酸塩温泉と越後牛・日本海の紅ズワイガニ・新潟新米を堪能。ふるさと納税で実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-myoko-akakura-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FeatureArticlePage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               新潟・妙高高原＆赤倉観光ホテル特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              妙高山と妙高スカイケーブルの紅葉空中散歩＆赤倉温泉！絶景クラシックホテル×ふるさと納税完全ガイド【2026年最新秋旅】新潟
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">妙高山と妙高スカイケーブルの紅葉空中散歩＆赤倉温泉！絶景クラシックホテル×ふるさと納税厳選ガイド新潟</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               10月上旬〜10月下旬に見頃を迎える名峰「妙高山（みょうこうさん）」と妙高高原。妙高スカイケーブルから見下ろす紅葉絨毯と苗名滝の大迫力、標高1,000mの雲海に浮かぶ名門「赤倉観光ホテル」や白濁秘湯「花文」「みどりや旅館」で硫酸塩温泉と越後牛・日本海の紅ズワイガニ・新潟新米を堪能。ふるさと納税で実質2,000円。
             </p>

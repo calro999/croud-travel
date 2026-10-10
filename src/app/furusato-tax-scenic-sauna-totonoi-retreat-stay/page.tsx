@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '大自然の絶景パノラマとフィンランド式サウナで極上の「ととのい」体験！名宿×ふるさと納税完全ガイド【2026年最新】洞爺湖・白馬・焼津',
+  title: '大自然の絶景パノラマとフィンランド式サウナで極上の「ととのい」体験！名宿×ふるさと納税厳選ガイド洞爺湖・白馬・焼津',
   description: 'サウナブームを牽引する全国屈指の絶景サウナ宿を厳選！洞爺湖を眼下に望むオートロウリュサウナと湖風外気浴テラス「洞爺湖万世閣 ホテルレイクサイドテラス」、白馬連峰北アルプスの雄大な山並みを仰ぎながら水風呂と外気浴を楽しむ「白馬ハイランドホテル」、駿河湾と富士山の絶景テラスサウナ＆オールインクルーシブ「焼津グランドホテル」。セルフロウリュ、天然地下水風呂、絶景デッキチェア。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
   keywords: ["2026年最新", "洞爺湖", "白馬", "焼津", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: { canonical: baseUrl + '/furusato-tax-scenic-sauna-totonoi-retreat-stay/' },
   openGraph: {
-    title: '大自然の絶景パノラマとフィンランド式サウナで極上の「ととのい」体験！名宿×ふるさと納税完全ガイド【2026年最新】洞爺湖・白馬・焼津',
+    title: '大自然の絶景パノラマとフィンランド式サウナで極上の「ととのい」体験！名宿×ふるさと納税厳選ガイド洞爺湖・白馬・焼津',
     description: 'サウナブームを牽引する全国屈指の絶景サウナ宿を厳選！洞爺湖を眼下に望むオートロウリュサウナと湖風外気浴テラス「洞爺湖万世閣 ホテルレイクサイドテラス」、白馬連峰北アルプスの雄大な山並みを仰ぎながら水風呂と外気浴を楽しむ「白馬ハイランドホテル」、駿河湾と富士山の絶景テラスサウナ＆オールインクルーシブ「焼津グランドホテル」。セルフロウリュ、天然地下水風呂、絶景デッキチェア。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
     url: baseUrl + '/furusato-tax-scenic-sauna-totonoi-retreat-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoScenicSaunaTotonoiStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             絶景サウナ＆極上ととのいリトリート温泉宿特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            大自然の絶景パノラマとフィンランド式サウナで極上の「ととのい」体験！名宿×ふるさと納税完全ガイド【2026年最新】洞爺湖・白馬・焼津
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">大自然の絶景パノラマとフィンランド式サウナで極上の「ととのい」体験！名宿×ふるさと納税厳選ガイド洞爺湖・白馬・焼津</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             現代のウェルネス・リラクゼーションの最高峰として全国的なブームを巻き起こしている「サウナトリップ（サ旅）」。熱々のサウナ室で心地よい汗を流し、キンキンに冷えた天然地下水の水風呂で身体を引き締め、雄大な自然を望む外気浴スペースで深呼吸する――この温冷交代浴によって訪れる「ととのい（ディープリラックス状態）」は、脳疲労を解消し、五感を劇的に研ぎ澄ましてくれます。洞爺湖を一望する絶景ガラス張りのフィンランドサウナ「月の湯」とセルフロウリュ対応サウナ「星の湯」を誇る「洞爺湖万世閣 ホテルレイクサイドテラス」、雪を冠した北アルプス白馬三山の壮大なパノラマを目前に外気浴ができる長野県「白馬ハイランドホテル」、そして駿河湾の水平線と富士山を見下ろす富士見テラスサウナと贅沢なオールインクルーシブを兼ね備えた静岡県「焼津グランドホテル」。サウナーなら誰もが一度は訪れたい憧れの絶景サウナ温泉宿を、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を使って実質2,000円で賢く予約し、究極のととのい旅へ出かけましょう。
           </p>

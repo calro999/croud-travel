@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hokkaido-hakodate-motomachi-goryokaku-nightview-stay/" },
-  title: "【北海道・函館＆五稜郭】世界三大夜景・星形城郭＆朝市海鮮宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "北海道・函館＆五稜郭：世界三大夜景・星形城郭＆朝市海鮮宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "函館山からの100万ドルの世界三大夜景、星形稜堡を誇る特別史跡「五稜郭」、元町の洋館・赤レンガ倉庫群、名湯「湯の川温泉」、函館朝市の活イカ釣りと豪華朝食バイキングホテルを徹底解説。",
   keywords: ["北海道", "函館", "五稜郭", "世界三大夜景", "星形城郭", "朝市海鮮宿", "温泉宿"],
 };
@@ -92,9 +92,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             HAKODATE & GORYOKAKU GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【北海道・函館＆五稜郭・湯の川】世界三大夜景・星形城郭桜＆朝市活イカ宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「北海道・函館＆五稜郭・湯の川」世界三大夜景・星形城郭桜＆朝市活イカ宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-teal-100/90 leading-relaxed">
             津軽海峡と函館湾に挟まれた独特の扇状地形が織りなす「函館山からの100万ドルの夜景」。幕末の歴史が息づく星形要塞「五稜郭」の桜と新緑、元町坂道の洋館教会群、そして函館朝市でピチピチ跳ねる活イカやイクラ。名湯・湯の川温泉の海を望む露天風呂と日本屈指の朝食バイキングを満喫する極上の函館ステイへご案内します。
           </p>

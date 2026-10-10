@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/ikaho-autumn-leaves-kajikabashi-lightup-guide/" },
-  title: "【伊香保温泉 河鹿橋紅葉ライトアップ2026】見頃時期・石段街散策＆黄金の湯に浸かる秋の湯治旅 ｜ 日本全国・旅宿クラウド",
+  title: "伊香保温泉 河鹿橋紅葉ライトアップ2026：見頃時期・石段街散策＆黄金の湯に浸かる秋の湯治旅 ｜ 日本全国・旅宿クラウド",
   description:
     "伊香保温泉のシンボル「河鹿橋」の鮮やかな紅葉ライトアップ！朱塗りの太鼓橋とモミジのコントラスト、365段の石段街食べ歩き、名物水沢うどんランチ、茶褐色の名湯「黄金の湯」に癒やされる秋旅ガイド。",
   keywords: ["伊香保温泉", "河鹿橋紅葉ライトアップ2026", "見頃時期", "石段街散策", "黄金の湯に浸かる秋の湯治旅", "温泉宿", "宿泊予約"],
@@ -149,10 +149,7 @@ export default function IkahoAutumnLeavesGuidePage() {
             </span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight sm:leading-snug mb-6 text-white drop-shadow">
-            【伊香保温泉 河鹿橋紅葉ライトアップ2026】<br className="hidden sm:inline" />
-            見頃時期・石段街散策＆<span className="text-orange-400">黄金の湯に浸かる</span>秋の湯治旅
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight sm:leading-snug mb-6 text-white drop-shadow">「伊香保温泉 河鹿橋紅葉ライトアップ2026」<br className="hidden sm:inline" /> 見頃時期・石段街散策＆<span className="text-orange-400">黄金の湯に浸かる</span>秋の湯治旅</h1>
 
           <p className="text-sm sm:text-lg text-orange-100/90 leading-relaxed max-w-3xl mb-8">
             榛名山の中腹に位置する名湯・伊香保。秋になると湯元に架かる朱塗りの「河鹿橋」を取り囲むモミジが一斉に燃え上がり、夜には息を呑むライトアップが点灯します。

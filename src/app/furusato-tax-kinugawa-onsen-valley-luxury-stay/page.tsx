@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【鬼怒川温泉×ふるさと納税】空中庭園露天風呂＆渓谷美の特等席！名門老舗リゾート特集｜あさや・鬼怒川金谷ホテル・七重八重',
+  title: '鬼怒川温泉をふるさと納税でお得に旅する！空中庭園露天風呂＆渓谷美の特等席！名門老舗リゾート特集｜あさや・鬼怒川金谷ホテル・七重八重',
   description: '首都圏からのアクセス抜群・渓谷の美湯・栃木県鬼怒川温泉を楽天ふるさと納税でお得に満喫！創業百三十年・空中庭園露天風呂と豪華ビュッフェの「あさや」、日本最古のリゾートを受け継ぐ最高峰「鬼怒川金谷ホテル」、全室渓谷ビューの隠れ宿「七重八重」を徹底比較。日光市トラベルクーポン活用術を網羅。',
   keywords: '鬼怒川温泉 ふるさと納税,あさや ふるさと納税 鬼怒川,鬼怒川金谷ホテル クーポン,七重八重 鬼怒川 宿泊,日光市 ふるさと納税 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kinugawa-onsen-valley-luxury-stay/",
   },
   openGraph: {
-    title: '【鬼怒川温泉×ふるさと納税】空中庭園露天風呂＆渓谷美の特等席！名門老舗リゾート特集｜あさや・鬼怒川金谷ホテル・七重八重',
+    title: '鬼怒川温泉をふるさと納税でお得に旅する！空中庭園露天風呂＆渓谷美の特等席！名門老舗リゾート特集｜あさや・鬼怒川金谷ホテル・七重八重',
     description: '首都圏からのアクセス抜群・渓谷の美湯・栃木県鬼怒川温泉を楽天ふるさと納税でお得に満喫！創業百三十年・空中庭園露天風呂と豪華ビュッフェの「あさや」、日本最古のリゾートを受け継ぐ最高峰「鬼怒川金谷ホテル」、全室渓谷ビューの隠れ宿「七重八重」を徹底比較。日光市トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kinugawa-onsen-valley-luxury-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -24,7 +24,7 @@ export default function FurusatoArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【鬼怒川温泉×ふるさと納税】空中庭園露天風呂＆渓谷美の特等席！名門老舗リゾート特集｜あさや・鬼怒川金谷ホテル・七重八重',
+    headline: '鬼怒川温泉をふるさと納税でお得に旅する！空中庭園露天風呂＆渓谷美の特等席！名門老舗リゾート特集｜あさや・鬼怒川金谷ホテル・七重八重',
     description: '首都圏からのアクセス抜群・渓谷の美湯・栃木県鬼怒川温泉を楽天ふるさと納税でお得に満喫！創業百三十年・空中庭園露天風呂と豪華ビュッフェの「あさや」、日本最古のリゾートを受け継ぐ最高峰「鬼怒川金谷ホテル」、全室渓谷ビューの隠れ宿「七重八重」を徹底比較。日光市トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function FurusatoArticlePage() {
           <span>♨️</span>
           <span>栃木県日光市 ふるさと納税・名湯宿特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【鬼怒川温泉×ふるさと納税】空中庭園露天風呂＆渓谷美の特等席！名門老舗リゾート特集｜あさや・鬼怒川金谷ホテル・七重八重
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">鬼怒川温泉をふるさと納税でお得に旅する！空中庭園露天風呂＆渓谷美の特等席！名門老舗リゾート特集｜あさや・鬼怒川金谷ホテル・七重八重</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed">
           首都圏からのアクセス抜群・渓谷の美湯・栃木県鬼怒川温泉を楽天ふるさと納税でお得に満喫！創業百三十年・空中庭園露天風呂と豪華ビュッフェの「あさや」、日本最古のリゾートを受け継ぐ最高峰「鬼怒川金谷ホテル」、全室渓谷ビューの隠れ宿「七重八重」を徹底比較。日光市トラベルクーポン活用術を網羅。
         </p>

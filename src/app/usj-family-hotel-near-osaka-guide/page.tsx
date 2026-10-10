@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/usj-family-hotel-near-osaka-guide/" },
-  title: "【子連れUSJホテルおすすめ比較】オフィシャルホテル徒歩1分 vs 梅田・なんば駅チカ宿！家族旅行完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "子連れUSJホテルおすすめ比較：オフィシャルホテル徒歩1分 vs 梅田・なんば駅チカ宿！家族旅行厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "子連れでユニバーサル・スタジオ・ジャパンを満喫するためのホテル選び！パーク徒歩1分のオフィシャルホテルで開園待ち＆疲れたら昼寝できるメリット vs 大阪観光も兼ねた梅田・なんばのファミリー向けホテルを徹底比較。",
   keywords: ["子連れUSJホテルおすすめ比較", "オフィシャルホテル徒歩1分", "vs", "梅田", "なんば駅チカ宿！家族旅行", "温泉宿", "宿泊予約"],
 };
@@ -46,7 +46,7 @@ export default function UsjFamilyHotelGuidePage() {
   // 比較対決カード
   const comparisonDuel = [
     {
-      title: "【戦略A】パーク徒歩1分！オフィシャルホテル滞在",
+      title: "戦略A：パーク徒歩1分！オフィシャルホテル滞在",
       subtitle: "「子供が疲れたら部屋で昼寝」ができる唯一無二の安心感",
       idealFor: "乳幼児・ベビーカー連れ・朝イチニンテンドーエリア確約狙い",
       pros: [
@@ -64,7 +64,7 @@ export default function UsjFamilyHotelGuidePage() {
       headerBg: "bg-teal-700 text-white"
     },
     {
-      title: "【戦略B】梅田・なんば・大阪港！市街地駅チカ＆コスパ宿",
+      title: "戦略B：梅田・なんば・大阪港！市街地駅チカ＆コスパ宿",
       subtitle: "大阪グルメ食い倒れ＆海遊館観光も欲張る欲張りファミリー派",
       idealFor: "小学生以上・大阪観光も楽しみたい・宿泊費を賢く抑えたい家族",
       pros: [
@@ -150,10 +150,7 @@ export default function UsjFamilyHotelGuidePage() {
             </span>
           </div>
 
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【子連れUSJホテルおすすめ比較】<br />
-            <span className="text-teal-200">オフィシャルホテル徒歩1分 vs 梅田・なんば駅チカ宿！家族旅行完全ガイド</span>
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「子連れUSJホテルおすすめ比較」<br /> <span className="text-teal-200">オフィシャルホテル徒歩1分 vs 梅田・なんば駅チカ宿！家族旅行厳選ガイド</span></h1>
 
           <p className="text-sm md:text-base text-teal-50/90 leading-relaxed font-normal pt-1">
             スーパー・ニンテンドー・ワールドにミニオン・パーク！大熱狂のUSJ（ユニバーサル・スタジオ・ジャパン）子連れ旅行では、ホテル選びがパークの勝敗を分けます。「パーク目の前のオフィシャルホテルで昼寝＆早朝開園待ち。」か「大阪グルメも楽しむ梅田・なんばのコスパ宿。」か、徹底比較します。

@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【12月雪化粧の世界遺産！白川郷合掌造り＆飛騨高山】白銀の原風景と飛騨牛・下呂名湯宿5選",
+  title: "雪化粧の世界遺産！白川郷合掌造り＆飛騨高山で過ごす冬の旅（12月）！白銀の原風景と飛騨牛・下呂名湯宿5選",
   description: "12月から一面の雪景色に包まれる世界遺産・白川郷の合掌造り集落！茅葺き屋根に積もる白雪と温かい灯りが織りなす日本の原風景を散策し、飛騨高山の古い町並みや日本三名泉・下呂温泉のトロトロ美肌湯で寛ぐ冬旅。",
   keywords: "高山 温泉 露天風呂 旅館, 11月旅行, 12月旅行, 冬休み, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shirakawago-gassho-snow-illumination-stay/",
   },
   openGraph: {
-    title: "【12月雪化粧の世界遺産！白川郷合掌造り＆飛騨高山】白銀の原風景と飛騨牛・下呂名湯宿5選",
+    title: "雪化粧の世界遺産！白川郷合掌造り＆飛騨高山で過ごす冬の旅（12月）！白銀の原風景と飛騨牛・下呂名湯宿5選",
     description: "12月から一面の雪景色に包まれる世界遺産・白川郷の合掌造り集落！茅葺き屋根に積もる白雪と温かい灯りが織りなす日本の原風景を散策し、飛騨高山の古い町並みや日本三名泉・下呂温泉のトロトロ美肌湯で寛ぐ冬旅。",
     url: 'https://croud-travel.pages.dev/winter-shirakawago-gassho-snow-illumination-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【12月雪化粧の世界遺産！白川郷合掌造り＆飛騨高山】白銀の原風景と飛騨牛・下呂名湯宿5選",
+    title: "雪化粧の世界遺産！白川郷合掌造り＆飛騨高山で過ごす冬の旅（12月）！白銀の原風景と飛騨牛・下呂名湯宿5選",
     description: "12月から一面の雪景色に包まれる世界遺産・白川郷の合掌造り集落！茅葺き屋根に積もる白雪と温かい灯りが織りなす日本の原風景を散策し、飛騨高山の古い町並みや日本三名泉・下呂温泉のトロトロ美肌湯で寛ぐ冬旅。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>白川郷の雪景色＆飛騨牛名湯宿</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【12月雪化粧の世界遺産！白川郷合掌造り＆飛騨高山】白銀の原風景と飛騨牛・下呂名湯宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">雪化粧の世界遺産！白川郷合掌造り＆飛騨高山で過ごす冬の旅（12月）！白銀の原風景と飛騨牛・下呂名湯宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             12月から一面の雪景色に包まれる世界遺産・白川郷の合掌造り集落！茅葺き屋根に積もる白雪と温かい灯りが織りなす日本の原風景を散策し、飛騨高山の古い町並みや日本三名泉・下呂温泉のトロトロ美肌湯で寛ぐ冬旅。
           </p>

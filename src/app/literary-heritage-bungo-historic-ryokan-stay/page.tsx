@@ -180,9 +180,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            文豪たちが筆を走らせた名湯！名作誕生の舞台・文学ゆかりの歴史ある老舗旅館
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">文豪たちが筆を走らせた名湯！名作誕生の舞台・文学ゆかりの歴史ある老舗旅館</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             かつて数多くの文豪たちが静けさと名湯を求め、数週間から数ヶ月にわたって逗留した歴史ある老舗旅館。障子越しに差し込む柔らかな光、手入れの行き届いた日本庭園、そして文豪たちが愛した湯船。物語の息吹を今なお色濃く残す空間で、贅沢な知の余白を味わう旅へ。
           </p>

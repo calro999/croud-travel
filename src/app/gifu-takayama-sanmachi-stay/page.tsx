@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/gifu-takayama-sanmachi-stay/" },
-  title: "【岐阜・飛騨高山】古い町並・宮川朝市＆飛騨牛尽くし極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "岐阜・飛騨高山：古い町並・宮川朝市＆飛騨牛尽くし極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "飛騨高山エリア完全特化！ミシュラン三つ星「さんまち通り（古い町並）」、宮川朝市、高山陣屋、飛騨牛にぎり寿司食べ歩きと飛騨高山温泉の老舗宿を徹底解説。",
   keywords: ["岐阜", "飛騨高山", "古い町並", "宮川朝市", "飛騨牛尽くし極上宿", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             HIDA TAKAYAMA MICRO GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【岐阜・飛騨高山】古い町並・宮川朝市＆飛騨牛尽くし極上宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「岐阜・飛騨高山」古い町並・宮川朝市＆飛騨牛尽くし極上宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             出格子の町家と用水路が続く「飛騨の小京都・高山」。朝の宮川沿いで地元のおばあちゃんと会話を楽しむ朝市、芳ばしい香りの飛騨牛串焼き。歴史と木の温もりに包まれる名宿へ。
           </p>

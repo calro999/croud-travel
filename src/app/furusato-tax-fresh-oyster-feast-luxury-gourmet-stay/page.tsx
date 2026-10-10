@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '本場名産地で味わう極上牡蠣尽くし会席＆生牡蠣・焼き牡蠣の贅沢温泉宿×ふるさと納税完全ガイド【2026年最新】宮島・伊勢志摩・三陸気仙沼',
+  title: '本場名産地で味わう極上牡蠣尽くし会席＆生牡蠣・焼き牡蠣の贅沢温泉宿×ふるさと納税厳選ガイド宮島・伊勢志摩・三陸気仙沼',
   description: '海のミルクと称される濃厚な旬牡蠣を本場の名宿で堪能！世界遺産・厳島神社の参道に佇み広島牡蠣と伝統の数寄屋建築を誇る「宮島グランドホテル 有もと」、的矢かき・本浦かきの本場として知られる鳥羽の自家源泉美肌宿「サン浦島 悠季の里」、世界三大漁場・三陸の栄養豊かな大粒牡蠣を味わう気仙沼大島「旅館 椿荘花月」。ぷりぷりの生牡蠣、香ばしい焼き牡蠣、サクサクのカキフライに熱々牡蠣鍋。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
   keywords: ["生牡蠣", "2026年最新", "宮島", "伊勢志摩", "三陸気仙沼", "温泉宿", "宿泊予約"],
   alternates: { canonical: baseUrl + '/furusato-tax-fresh-oyster-feast-luxury-gourmet-stay/' },
   openGraph: {
-    title: '本場名産地で味わう極上牡蠣尽くし会席＆生牡蠣・焼き牡蠣の贅沢温泉宿×ふるさと納税完全ガイド【2026年最新】宮島・伊勢志摩・三陸気仙沼',
+    title: '本場名産地で味わう極上牡蠣尽くし会席＆生牡蠣・焼き牡蠣の贅沢温泉宿×ふるさと納税厳選ガイド宮島・伊勢志摩・三陸気仙沼',
     description: '海のミルクと称される濃厚な旬牡蠣を本場の名宿で堪能！世界遺産・厳島神社の参道に佇み広島牡蠣と伝統の数寄屋建築を誇る「宮島グランドホテル 有もと」、的矢かき・本浦かきの本場として知られる鳥羽の自家源泉美肌宿「サン浦島 悠季の里」、世界三大漁場・三陸の栄養豊かな大粒牡蠣を味わう気仙沼大島「旅館 椿荘花月」。ぷりぷりの生牡蠣、香ばしい焼き牡蠣、サクサクのカキフライに熱々牡蠣鍋。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
     url: baseUrl + '/furusato-tax-fresh-oyster-feast-luxury-gourmet-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoFreshOysterFeastStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             名産地・生牡蠣＆焼き牡蠣尽くし会席宿特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            本場名産地で味わう極上牡蠣尽くし会席＆生牡蠣・焼き牡蠣の贅沢温泉宿×ふるさと納税完全ガイド【2026年最新】宮島・伊勢志摩・三陸気仙沼
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">本場名産地で味わう極上牡蠣尽くし会席＆生牡蠣・焼き牡蠣の贅沢温泉宿×ふるさと納税厳選ガイド宮島・伊勢志摩・三陸気仙沼</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             冬から春先にかけて最も旨味が凝縮される「海のミルク」こと牡蠣（カキ）。レモンを絞ってちゅるんといただく朝獲れの新鮮な生牡蠣、炭火の上でパチパチと音を立てながら香ばしい潮の香りを放つ焼き牡蠣、サクッとした衣の中から熱々の濃厚ミルクが溢れ出すカキフライ、そして旨味が溶け出した出汁で炊き上げる絶品の牡蠣ご飯――その贅沢極まりない味わいは、牡蠣好きならずとも心奪われる至福の冬の味覚です。世界遺産・厳島神社へ徒歩すぐの宮島で創業三百年の歴史を紡ぐ「宮島グランドホテル 有もと」、伊勢志摩の豊かな自然が育むブランド牡蠣「本浦牡蠣・的矢牡蠣」を自家源泉の美肌湯とともに味わう三重県鳥羽の「サン浦島 悠季の里」、そして森と海の栄養が溶け込む三陸リアス海岸で大粒の濃厚牡蠣を振る舞う宮城県気仙沼大島の「旅館 椿荘花月」。産地だからこそ体験できる別格の鮮度と圧倒的なボリュームの牡蠣フルコースを、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期間3年）を使って実質自己負担2,000円で賢く満喫しましょう。
           </p>

@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【奈良】奈良公園の鹿と東大寺・若草山秋紅葉！2,000円台〜泊まれる格安ホテル5選',
+  title: '奈良：奈良公園の鹿と東大寺・若草山秋紅葉！2,000円台〜泊まれる格安ホテル5選',
   description: '黄金色のイチョウとモミジに囲まれる鹿たちの楽園「奈良公園」と東大寺大仏殿！名物柿の葉寿司や三輪そうめん。JR・近鉄奈良駅前で1泊2,000円台〜4,000円台で泊まれる格安・高評価宿5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetNaraHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>奈良公園の紅葉と鹿＆東大寺大仏殿</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【奈良】奈良公園の紅葉と鹿たちに会う秋旅！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「奈良」奈良公園の紅葉と鹿たちに会う秋旅！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             鮮やかな紅葉の絨毯の上を戯れる愛らしい鹿たち、秋晴れの空に映える東大寺大仏殿や春日大社の朱塗り社殿。京都の宿が高騰・満室の秋でも、奈良駅前に泊まれば2,000円台〜3,000円台で極めて快適な宿を確保可能！京都へもJRや近鉄で約45分でアクセスできる超穴場です。
           </p>

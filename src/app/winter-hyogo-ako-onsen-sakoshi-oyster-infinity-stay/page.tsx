@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月兵庫・播州赤穂温泉】瀬戸内インフィニティ絶景露天！名宿5選',
+  title: '兵庫・播州赤穂温泉で過ごす冬の旅（11・12月）！瀬戸内インフィニティ絶景露天！名宿5選',
   description: '11月下旬を迎えると、瀬戸内海・播磨灘に面した兵庫県「播州赤穂温泉」は、名水百選千種川の森のミネラルが注ぎ込む坂越湾で育つ名物「坂越牡蠣（さ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '赤穂温泉 宿泊, 赤穂温泉 11月 12月, 銀波荘 赤穂, 潮彩きらら祥吉, 呑海楼, 赤穂パークホテル, 鹿久居荘, 坂越牡蠣 宿, 赤穂義士祭 宿泊, インフィニティ露天風呂 赤穂',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay/"
   },
   openGraph: {
-    title: '【11・12月兵庫・播州赤穂温泉】瀬戸内インフィニティ絶景露天！名宿5選',
+    title: '兵庫・播州赤穂温泉で過ごす冬の旅（11・12月）！瀬戸内インフィニティ絶景露天！名宿5選',
     description: '11月下旬を迎えると、瀬戸内海・播磨灘に面した兵庫県「播州赤穂温泉」は、名水百選千種川の森のミネラルが注ぎ込む坂越湾で育つ名物「坂越牡蠣（さ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -280,10 +280,7 @@ export default function AkoOnsenWinterFeature() {
             <Anchor className="w-4 h-4" />
             11月・12月 冬の美食＆絶景特集｜兵庫・播州赤穂温泉
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月兵庫・播州赤穂温泉】<br className="hidden sm:inline" />
-            播磨灘夕景と11月解禁坂越牡蠣・インフィニティ絶景露天の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">兵庫・播州赤穂温泉で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 播磨灘夕景と11月解禁坂越牡蠣・インフィニティ絶景露天の宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             11月下旬の解禁を迎えた名物「坂越牡蠣」のミルキーな甘みと、12月14日赤穂義士祭の歴史絵巻。瀬戸内海の波打ち際と一体化するインフィニティ露天風呂で夕日に抱かれる極上ステイ。
           </p>

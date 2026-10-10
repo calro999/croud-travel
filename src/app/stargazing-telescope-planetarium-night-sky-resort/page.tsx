@@ -172,9 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>天体観測×満天の星空リゾート</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            本格天体望遠鏡＆星空ガイド付き！満天の星と天の川に包まれる高原星空リゾート
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">本格天体望遠鏡＆星空ガイド付き！満天の星と天の川に包まれる高原星空リゾート</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             標高1,000m以上の澄み切った夜空に広がる無数の星々と天の川。本格的な天体望遠鏡での惑星観測や、星空案内人によるナイトツアー、展望露天風呂など、宇宙の神秘に触れる感動のステイが楽しめる高原リゾートホテルをご紹介します。
           </p>

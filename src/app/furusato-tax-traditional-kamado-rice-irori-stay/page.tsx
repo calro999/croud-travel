@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '古民家かまど炊きご飯＆囲炉裏郷土料理の宿×ふるさと納税完全ガイド【2026年最新】白川郷・遠野・丹波篠山のおばあちゃん家ステイ',
+  title: '古民家かまど炊きご飯＆囲炉裏郷土料理の宿×ふるさと納税厳選ガイド白川郷・遠野・丹波篠山のおばあちゃん家ステイ',
   description: '日本人の原風景と素朴なぬくもり！世界遺産岐阜「白川郷」の合掌造り囲炉裏宿、岩手「遠野」の南部曲り家とかまど炊き銀シャリ、兵庫「丹波篠山」の黒豆ご飯と絶品ぼたん鍋古民家宿。薪のはぜる音とふっくらお米の甘みを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: ["古民家かまど炊きご飯", "2026年最新", "白川郷", "遠野", "丹波篠山のおばあちゃん家ステイ", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-traditional-kamado-rice-irori-stay/"
   },
   openGraph: {
-    title: '古民家かまど炊きご飯＆囲炉裏郷土料理の宿×ふるさと納税完全ガイド【2026年最新】白川郷・遠野・丹波篠山のおばあちゃん家ステイ',
+    title: '古民家かまど炊きご飯＆囲炉裏郷土料理の宿×ふるさと納税厳選ガイド白川郷・遠野・丹波篠山のおばあちゃん家ステイ',
     description: '日本人の原風景と素朴なぬくもり！世界遺産岐阜「白川郷」の合掌造り囲炉裏宿、岩手「遠野」の南部曲り家とかまど炊き銀シャリ、兵庫「丹波篠山」の黒豆ご飯と絶品ぼたん鍋古民家宿。薪のはぜる音とふっくらお米の甘みを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-traditional-kamado-rice-irori-stay',
     type: 'article',
@@ -54,9 +54,7 @@ export default function FurusatoFeaturePage() {
             <span>✨</span>
             <span>かまど炊きご飯・囲炉裏古民家特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            古民家かまど炊きご飯＆囲炉裏郷土料理の宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">古民家かまど炊きご飯＆囲炉裏郷土料理の宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             薪をくべて羽釜で炊き上げる、ふっくらツヤツヤの銀シャリ。囲炉裏の炭火でじっくり焼いた川魚や香ばしい味噌田楽。世界遺産の合掌造り集落や、茅葺き屋根の古民家には、何世代にもわたって受け継がれてきた日本の温かい暮らしが息づいています。土間のかまどから立ち上る湯気、おばあちゃんの手料理のような滋味あふれる郷土会席、そして木の香る温泉。どこか懐かしく、心がじんわりとほどける特別な時間を、楽天ふるさと納税でお得に体験しましょう。
           </p>

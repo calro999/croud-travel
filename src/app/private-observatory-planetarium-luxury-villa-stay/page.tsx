@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '【2026年】プラネタリウム＆星空シアター付き！満天の星と宇宙の神秘に浸るリゾート宿5選 ｜ 日本全国・旅宿クラウド',
+  title: '2026年：プラネタリウム＆星空シアター付き！満天の星と宇宙の神秘に浸るリゾート宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！館内に本格プラネタリウムや星空観察シアターを備え、夜は満天の天の川を眺められる宇宙体験リゾートホテル5選。',
   keywords: ["2026年", "プラネタリウム", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/private-observatory-planetarium-luxury-villa-stay/",
   },
   openGraph: {
-    title: '【2026年】プラネタリウム＆星空シアター付き！満天の星と宇宙の神秘に浸るリゾート宿5選',
+    title: '2026年：プラネタリウム＆星空シアター付き！満天の星と宇宙の神秘に浸るリゾート宿5選',
     description: '2026年最新！館内に本格プラネタリウムや星空観察シアターを備え、夜は満天の天の川を眺められる宇宙体験リゾートホテル5選。',
     url: 'https://croud-travel.pages.dev/private-observatory-planetarium-luxury-villa-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -172,9 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>プラネタリウム×星空シアター宿</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            【2026年】プラネタリウム＆星空シアター付き！満天の星と宇宙の神秘に浸るリゾート宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」プラネタリウム＆星空シアター付き！満天の星と宇宙の神秘に浸るリゾート宿5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             天候を気にせずいつでも満天の星空解説が楽しめる館内プラネタリウム。夜空を見上げるルーフトップテラスや大型望遠鏡での惑星観察会、そして星空を映す露天風呂。日常を忘れて宇宙のロマンに浸る幻想的なリゾートステイ。
           </p>

@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-award-winning-breakfast-gourmet-hotel-stay/" },
-  title: '朝食日本一受賞・究極の朝ごはんホテル×ふるさと納税完全ガイド【2026年最新】函館・神戸・金沢の美食宿',
+  title: '朝食日本一受賞・究極の朝ごはんホテル×ふるさと納税厳選ガイド函館・神戸・金沢の美食宿',
   description: 'いくら盛り放題の海鮮丼や焼き立てクロワッサン、地産地消の絶品ビュッフェ！楽天トラベル朝ごはんフェスティバルや全国ランキングで日本一に輝いた名門ホテルの朝食を、ふるさと納税クーポンでお得に堪能する極上美食ステイ。',
   keywords: ["朝食日本一受賞", "2026年最新", "函館", "神戸", "金沢の美食宿", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: '朝食日本一受賞・究極の朝ごはんホテル×ふるさと納税完全ガイド【2026年最新】函館・神戸・金沢の美食宿',
+    title: '朝食日本一受賞・究極の朝ごはんホテル×ふるさと納税厳選ガイド函館・神戸・金沢の美食宿',
     description: 'いくら盛り放題の海鮮丼や焼き立てクロワッサン、地産地消の絶品ビュッフェ！楽天トラベル朝ごはんフェスティバルや全国ランキングで日本一に輝いた名門ホテルの朝食を、ふるさと納税クーポンでお得に堪能する極上美食ステイ。',
     url: 'https://croud-travel.pages.dev/furusato-tax-award-winning-breakfast-gourmet-hotel-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FurusatoTaxPage() {
           <span className="inline-block px-4 py-1.5 rounded-full text-xs md:text-sm font-black bg-gradient-to-r from-amber-500 to-yellow-400 text-slate-950 mb-5 shadow-lg shadow-amber-500/20">
             究極の朝ごはん・美食ホテル特集
           </span>
-          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">
-            朝食日本一・究極の朝ごはんホテル×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">朝食日本一・究極の朝ごはんホテル×ふるさと納税ガイド</h1>
           <p className="text-sm md:text-lg text-slate-300 leading-relaxed font-medium">
             いくら盛り放題の海鮮丼や焼き立てクロワッサン、地産地消の絶品ビュッフェ！楽天トラベル朝ごはんフェスティバルや全国ランキングで日本一に輝いた名門ホテルの朝食を、ふるさと納税クーポンでお得に堪能する極上美食ステイ。
           </p>

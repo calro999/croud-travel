@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagoya-departure-daytrip-bus-tour-guide/" },
-  title: "【名古屋発 日帰りバスツアー＆温泉ランチおすすめ】下呂温泉・伊勢神宮参拝・飛騨牛食べ放題プラン徹底解説",
+  title: "名古屋発 日帰りバスツアー＆温泉ランチおすすめ：下呂温泉・伊勢神宮参拝・飛騨牛食べ放題プラン深掘り特集",
   description: "名古屋・名駅発の日帰りバスツアー人気コース！伊勢神宮おかげ横丁＆松阪牛ランチ、下呂温泉名湯めぐり、高山白川郷合掌造り直行便まで、電車より安くて楽ちんな日帰りツアーの料金・予約方法。",
   keywords: ["名古屋発", "日帰りバスツアー", "温泉ランチおすすめ", "下呂温泉", "伊勢神宮参拝", "飛騨牛食べ放題プラン", "温泉宿"],
 };
@@ -169,12 +169,7 @@ export default function NagoyaDepartureDaytripBusTourPage() {
             <span>名駅発・手ぶらで日帰り</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-5xl font-black tracking-tight leading-tight md:leading-[1.2] text-white">
-            【名古屋発 日帰りバスツアー＆温泉ランチおすすめ】
-            <br />
-            <span className="text-amber-300">下呂温泉・伊勢神宮参拝・飛騨牛食べ放題</span>
-            <span className="text-amber-100">プラン徹底解説</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-5xl font-black tracking-tight leading-tight md:leading-[1.2] text-white">「名古屋発 日帰りバスツアー＆温泉ランチおすすめ」 <br /> <span className="text-amber-300">下呂温泉・伊勢神宮参拝・飛騨牛食べ放題</span> <span className="text-amber-100">プラン深掘り特集</span></h1>
 
           <p className="text-amber-100/90 text-sm md:text-base max-w-3xl leading-relaxed pt-2">
             名古屋駅太閤通口から出発する人気日帰りバスツアーを大特集！伊勢神宮の両参りとおかげ横丁食べ歩き、下呂温泉の源泉かけ流し入浴＆飛騨牛ランチ、白川郷合掌造り直行ツアーまで、電車や自家用車より安くて快適な東海発バス旅の決定版です。

@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月滋賀】彦根城雪化粧と日本三大和牛「！名宿5選',
+  title: '11・12・1月滋賀：彦根城雪化粧と日本三大和牛「！名宿5選',
   description: '11月から1月、滋賀県・湖東エリア（近江八幡・彦根）は、白銀に染まる国宝・彦根城天守の荘厳な雪化粧と、八幡堀や水郷の静謐な冬景色に包まれます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '彦根城 雪景色, 近江八幡 水郷 冬, 近江牛 すき焼き, 彦根キャッスル リゾート＆スパ, 休暇村 近江八幡, 料亭旅館やす井, ホテルニューオウミ, ビワフロント彦根, 11月 12月 1月 滋賀旅行, 琵琶湖 冬 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay/"
   },
   openGraph: {
-    title: '【11・12・1月滋賀】彦根城雪化粧と日本三大和牛「！名宿5選',
+    title: '11・12・1月滋賀：彦根城雪化粧と日本三大和牛「！名宿5選',
     description: '11月から1月、滋賀県・湖東エリア（近江八幡・彦根）は、白銀に染まる国宝・彦根城天守の荘厳な雪化粧と、八幡堀や水郷の静謐な冬景色に包まれます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月滋賀】近江八幡水郷雪景色＆国宝・彦根城雪化粧と日本三大和牛「近江牛すき焼き」＆冬の琵琶湖名物・湖畔の絶景名宿5選",
+    title: "11・12・1月滋賀：近江八幡水郷雪景色＆国宝・彦根城雪化粧と日本三大和牛「近江牛すき焼き」＆冬の琵琶湖名物・湖畔の絶景名宿5選",
     description: "11月から1月、滋賀県・湖東エリア（近江八幡・彦根）は、白銀に染まる国宝・彦根城天守の荘厳な雪化粧と、八幡堀や水郷の静謐な冬景色に包まれます。寒さ冴え渡る冬の夜に最高の贅沢となるのが、日本三大和牛・近江牛のとろけるすき焼きやしゃぶしゃぶ。湖東三山の初雪、冬の琵琶湖が育む本諸子（ホンモロコ）や鮒寿司の伝統の味。冬の澄んだ空気の中で比良山系の雪嶺と琵琶湖を一望する名湯・絶景リゾート宿5選を徹底解説します。",
     images: ['https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80']
   }
@@ -42,7 +42,7 @@ export default function ShigaOmihachimanHikoneWinterPage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: "【11・12・1月滋賀】近江八幡水郷雪景色＆国宝・彦根城雪化粧と日本三大和牛「近江牛すき焼き」＆冬の琵琶湖名物・湖畔の絶景名宿5選",
+    headline: "11・12・1月滋賀：近江八幡水郷雪景色＆国宝・彦根城雪化粧と日本三大和牛「近江牛すき焼き」＆冬の琵琶湖名物・湖畔の絶景名宿5選",
     description: "11月から1月、滋賀県・湖東エリア（近江八幡・彦根）は、白銀に染まる国宝・彦根城天守の荘厳な雪化粧と、八幡堀や水郷の静謐な冬景色に包まれます。寒さ冴え渡る冬の夜に最高の贅沢となるのが、日本三大和牛・近江牛のとろけるすき焼きやしゃぶしゃぶ。湖東三山の初雪、冬の琵琶湖が育む本諸子（ホンモロコ）や鮒寿司の伝統の味。冬の澄んだ空気の中で比良山系の雪嶺と琵琶湖を一望する名湯・絶景リゾート宿5選を徹底解説します。",
     image: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
     datePublished: '',
@@ -282,9 +282,7 @@ export default function ShigaOmihachimanHikoneWinterPage() {
             <Castle className="w-4 h-4 text-indigo-300" />
             11月・12月・1月 冬の湖東・国宝彦根城雪景色＆近江牛すき焼き特集
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【11・12・1月滋賀】近江八幡水郷雪景色＆国宝・彦根城雪化粧と日本三大和牛「近江牛すき焼き」＆冬の琵琶湖名物・湖畔の絶景名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「11・12・1月滋賀」近江八幡水郷雪景色＆国宝・彦根城雪化粧と日本三大和牛「近江牛すき焼き」＆冬の琵琶湖名物・湖畔の絶景名宿5選</h1>
           <p className="text-slate-300 text-sm sm:text-base md:text-lg max-w-3xl leading-relaxed">
             白銀の雪帽子を戴く国宝・彦根城天守の荘厳な姿。八幡堀や水郷の静謐な冬景色を巡るこたつ舟。400年以上の歴史を誇る日本三大和牛「近江牛」の極上すき焼き、冬の琵琶湖が育む本諸子の炭火焼き。比良山系の雪嶺を望む湖畔の天然温泉リゾートで心温まる冬旅をお届けします。
           </p>

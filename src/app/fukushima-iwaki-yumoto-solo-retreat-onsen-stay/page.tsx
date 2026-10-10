@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/fukushima-iwaki-yumoto-solo-retreat-onsen-stay/" },
-  title: '【いわき湯本温泉ひとり旅・三函の名湯おこもり】日本三古湯・毎分5トン自噴硫黄泉・常磐もの海鮮！フラガール温泉郷厳選3宿',
+  title: 'いわき湯本温泉ひとり旅・三函の名湯おこもり：日本三古湯・毎分5トン自噴硫黄泉・常磐もの海鮮！フラガール温泉郷厳選3宿',
   description: '有馬・道後と並ぶ日本三古湯「三函の湯」・いわき湯本！日本庭園と檜露天風呂が心温まる「吹の湯旅館」、小名浜港直送の絶品魚料理が評判の料理宿「鮮の宿 柏」、野口雨情ゆかりの庭園露天風呂を誇る名門「雨情の宿 新つた」を楽天API最新データに基づき徹底比較。',
   keywords: 'いわき湯本温泉 一人旅 宿,いわき湯本 ホテル 一人 温泉,吹の湯旅館,鮮の宿 柏,雨情の宿 新つた,いわき湯本 ひとり旅 おこもり',
   openGraph: {
-    title: '【いわき湯本温泉ひとり旅・三函の名湯おこもり】日本三古湯・毎分5トン自噴硫黄泉・常磐もの海鮮！フラガール温泉郷厳選3宿',
+    title: 'いわき湯本温泉ひとり旅・三函の名湯おこもり：日本三古湯・毎分5トン自噴硫黄泉・常磐もの海鮮！フラガール温泉郷厳選3宿',
     description: '有馬・道後と並ぶ日本三古湯「三函の湯」・いわき湯本！日本庭園と檜露天風呂が心温まる「吹の湯旅館」、小名浜港直送の絶品魚料理が評判の料理宿「鮮の宿 柏」、野口雨情ゆかりの庭園露天風呂を誇る名門「雨情の宿 新つた」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/fukushima-iwaki-yumoto-solo-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【いわき湯本温泉ひとり旅・三函の名湯おこもり】日本三古湯・毎分5トン自噴硫黄泉・常磐もの海鮮！フラガール温泉郷厳選3宿',
+    headline: 'いわき湯本温泉ひとり旅・三函の名湯おこもり：日本三古湯・毎分5トン自噴硫黄泉・常磐もの海鮮！フラガール温泉郷厳選3宿',
     description: '有馬・道後と並ぶ日本三古湯「三函の湯」・いわき湯本！日本庭園と檜露天風呂が心温まる「吹の湯旅館」、小名浜港直送の絶品魚料理が評判の料理宿「鮮の宿 柏」、野口雨情ゆかりの庭園露天風呂を誇る名門「雨情の宿 新つた」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             福島・いわき湯本温泉ひとり旅＆日本三古湯おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【いわき湯本温泉ひとり旅・三函の名湯おこもり】日本三古湯・毎分5トン自噴硫黄泉・常磐もの海鮮！フラガール温泉郷厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「いわき湯本温泉ひとり旅・三函の名湯おこもり」日本三古湯・毎分5トン自噴硫黄泉・常磐もの海鮮！フラガール温泉郷厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

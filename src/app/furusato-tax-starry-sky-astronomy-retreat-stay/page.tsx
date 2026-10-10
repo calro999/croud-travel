@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-starry-sky-astronomy-retreat-stay/" },
-  title: '日本三大星空・天体観測リゾート×ふるさと納税完全ガイド【2026年最新】阿智村・八ヶ岳・大山の満天星空宿',
+  title: '日本三大星空・天体観測リゾート×ふるさと納税厳選ガイド阿智村・八ヶ岳・大山の満天星空宿',
   description: '環境省認定の日本一の星空・長野県阿智村や八ヶ岳清里、鳥取大山のスターウォッチングホテルをふるさと納税でお得に予約！天体望遠鏡テラスや星空露天風呂を備えた名宿と返礼クーポン活用術を詳しくご紹介。',
   keywords: ["日本三大星空", "天体観測リゾート×ふるさと納税", "2026年最新", "阿智村", "八ヶ岳", "大山の満天星空宿", "温泉宿"],
   openGraph: {
-    title: '日本三大星空・天体観測リゾート×ふるさと納税完全ガイド【2026年最新】阿智村・八ヶ岳・大山の満天星空宿',
+    title: '日本三大星空・天体観測リゾート×ふるさと納税厳選ガイド阿智村・八ヶ岳・大山の満天星空宿',
     description: '環境省認定の日本一の星空・長野県阿智村や八ヶ岳清里、鳥取大山のスターウォッチングホテルをふるさと納税でお得に予約！天体望遠鏡テラスや星空露天風呂を備えた名宿と返礼クーポン活用術を詳しくご紹介。',
     url: 'https://croud-travel.pages.dev/furusato-tax-starry-sky-astronomy-retreat-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FurusatoTaxPage() {
           <span className="inline-block px-4 py-1.5 rounded-full text-xs md:text-sm font-black bg-gradient-to-r from-amber-500 to-yellow-400 text-slate-950 mb-5 shadow-lg shadow-amber-500/20">
             星空・天体観測リゾート特集
           </span>
-          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">
-            日本三大星空・天体観測リゾート×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">日本三大星空・天体観測リゾート×ふるさと納税ガイド</h1>
           <p className="text-sm md:text-lg text-slate-300 leading-relaxed font-medium">
             環境省認定の日本一の星空・長野県阿智村や八ヶ岳清里、鳥取大山のスターウォッチングホテルをふるさと納税でお得に予約！天体望遠鏡テラスや星空露天風呂を備えた名宿と返礼クーポン活用術を詳しくご紹介。
           </p>

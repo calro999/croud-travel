@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【10月上旬〜中旬！札幌定山渓＆豊平峡の紅葉】渓谷美と名湯に寛ぐおすすめ温泉旅館5選",
+  title: "上旬〜中旬！札幌定山渓＆豊平峡の紅葉で過ごす冬の旅（10月）！渓谷美と名湯に寛ぐおすすめ温泉旅館5選",
   description: "北海道屈指の紅葉名所「定山渓温泉」と「豊平峡ダム」の錦秋絵巻！札幌中心部から約1時間。二見吊橋の渓谷美を愛で、名湯掛け流しと北海道の秋グルメを味わう名宿5選。",
   keywords: "定山渓 紅葉 10月 見頃, 豊平峡ダム 紅葉, 定山渓温泉 旅館 おすすめ, 翠山亭, ゆらく草庵, 札幌 紅葉 温泉",
   alternates: {
     canonical: "https://croud-travel.pages.dev/autumn-hokkaido-sapporo-jozankei-hoheikyo-momiji-hotels-stay/",
   },
   openGraph: {
-    title: "【10月上旬〜中旬！札幌定山渓＆豊平峡の紅葉】渓谷美と名湯に寛ぐおすすめ温泉旅館5選",
+    title: "上旬〜中旬！札幌定山渓＆豊平峡の紅葉で過ごす冬の旅（10月）！渓谷美と名湯に寛ぐおすすめ温泉旅館5選",
     description: "北海道屈指の紅葉名所「定山渓温泉」と「豊平峡ダム」の錦秋絵巻！札幌中心部から約1時間。二見吊橋の渓谷美を愛で、名湯掛け流しと北海道の秋グルメを味わう名宿5選。",
     url: 'https://croud-travel.pages.dev/autumn-hokkaido-sapporo-jozankei-hoheikyo-momiji-hotels-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【10月上旬〜中旬！札幌定山渓＆豊平峡の紅葉】渓谷美と名湯に寛ぐおすすめ温泉旅館5選",
+    title: "上旬〜中旬！札幌定山渓＆豊平峡の紅葉で過ごす冬の旅（10月）！渓谷美と名湯に寛ぐおすすめ温泉旅館5選",
     description: "北海道屈指の紅葉名所「定山渓温泉」と「豊平峡ダム」の錦秋絵巻！札幌中心部から約1時間。二見吊橋の渓谷美を愛で、名湯掛け流しと北海道の秋グルメを味わう名宿5選。",
   }
 };
@@ -131,9 +131,7 @@ export default function FeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             10月秋の北海道・紅葉温泉特集
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【10月上旬〜中旬！札幌定山渓＆豊平峡の紅葉】<br className="hidden sm:inline" />渓谷美と名湯に寛ぐおすすめ温泉旅館5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">上旬〜中旬！札幌定山渓＆豊平峡の紅葉で過ごす冬の旅（10月）！<br className="hidden sm:inline" />渓谷美と名湯に寛ぐおすすめ温泉旅館5選</h1>
           <p className="max-w-2xl mx-auto text-sm md:text-base text-stone-200 leading-relaxed">
             札幌の中心部から車で約1時間。豊平川の清流が刻む渓谷が黄金と朱色に輝く定山渓温泉と、迫力の放流と岩肌を彩る豊平峡ダムの紅葉美。歴史ある名湯と北海道の秋の味覚に浸る旅。
           </p>

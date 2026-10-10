@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            長野・諏訪湖の秋風情＆霧ヶ峰高原！上諏訪温泉の自家源泉と信州諏訪美酒・信州牛会席
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">長野・諏訪湖の秋風情＆霧ヶ峰高原！上諏訪温泉の自家源泉と信州諏訪美酒・信州牛会席</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の長野・諏訪＆霧ヶ峰特集！黄金色に輝くススキが広がる霧ヶ峰高原の秋晴れパノラマ、夕陽に染まる諏訪湖を一望する上諏訪温泉の豊富な自家源泉、諏訪五蔵の銘酒と信州プレミアム牛をふるさと納税トラベルクーポンでお得に楽しむ信州秋旅。
           </p>

@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '名勝岩畳と長瀞ライン下り！秩父・長瀞の横瀬川清流望む露天風呂＆創業190年美肌鉱泉・郷土会席名宿×ふるさと納税完全攻略ガイド【2026年最新】和どう・新木鉱泉・長生館',
+  title: '名勝岩畳と長瀞ライン下り！秩父・長瀞の横瀬川清流望む露天風呂＆創業190年美肌鉱泉・郷土会席名宿×ふるさと納税極上旅ガイド和どう・新木鉱泉・長生館',
   description: '都心から特急で約80分の小旅行！名勝「長瀞岩畳」と秩父三社巡り。「和銅鉱泉 ゆの宿 和どう」「秩父七湯 新木鉱泉旅館」「長瀞温泉 花のおもてなし 長生館」を、埼玉県秩父市・長瀞町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。和同開珎ゆかりの薬師の湯、創業百九十年卵水、名物長瀞流しそうめん・囲炉裏会席を満喫。',
   keywords: ["名勝岩畳と長瀞ライン下り！秩父", "長瀞の横瀬川清流望む露天風呂", "創業190年美肌鉱泉", "2026年最新", "和どう", "新木鉱泉", "長生館"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-chichibu-nagatoro-nature-onsen-stay/",
   },
   openGraph: {
-    title: '名勝岩畳と長瀞ライン下り！秩父・長瀞の横瀬川清流望む露天風呂＆創業190年美肌鉱泉・郷土会席名宿×ふるさと納税完全攻略ガイド【2026年最新】和どう・新木鉱泉・長生館',
+    title: '名勝岩畳と長瀞ライン下り！秩父・長瀞の横瀬川清流望む露天風呂＆創業190年美肌鉱泉・郷土会席名宿×ふるさと納税極上旅ガイド和どう・新木鉱泉・長生館',
     description: '都心から特急で約80分の小旅行！名勝「長瀞岩畳」と秩父三社巡り。「和銅鉱泉 ゆの宿 和どう」「秩父七湯 新木鉱泉旅館」「長瀞温泉 花のおもてなし 長生館」を、埼玉県秩父市・長瀞町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。和同開珎ゆかりの薬師の湯、創業百九十年卵水、名物長瀞流しそうめん・囲炉裏会席を満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-chichibu-nagatoro-nature-onsen-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoChichibuNagatoroStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           都心から最も近い大自然と清流！埼玉県秩父・長瀞特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          名勝岩畳と長瀞ライン下り！秩父・長瀞の横瀬川清流望む露天風呂＆創業190年美肌鉱泉・郷土会席名宿×ふるさと納税完全攻略ガイド【2026年最新】和どう・新木鉱泉・長生館
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">名勝岩畳と長瀞ライン下り！秩父・長瀞の横瀬川清流望む露天風呂＆創業190年美肌鉱泉・郷土会席名宿×ふるさと納税極上旅ガイド和どう・新木鉱泉・長生館</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoChichibuNagatoroStayPage() {
               ３年連続「楽天トラベルアワード」受賞。自家源泉「和銅鉱泉」は、身体がポカポカになると評判です♪
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “ここ数年で一番の満足度、ぜひ再訪したい大変、大変満足できました。関東近県あちこちに泊まっていますが、この料金でこの内容、ここ数年で一番の満足度を味わいました。送迎バスから親切で丁寧。ついて… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D6100%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoChichibuNagatoroStayPage() {
               2025楽天トラベルアワード13度目の受賞！民芸調のほのぼの宿！滑らかな卵水と云われる温泉が自慢です
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “露天風呂のお湯は最高、洗い場がないのが残念露天風呂付の部屋に宿泊しました。お湯はとても良く、風呂から出た後は顔も体もスベスベとなり、とても満足しました。ただ洗い場がなかった点は残念でした。… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D5828%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoChichibuNagatoroStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               長瀞温泉 創業大正元年 長瀞観光の歴史と共に歩む日本旅館 長瀞渓谷岩畳を望む百年変わらぬ癒やしの眺め
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “家族で大満足、温泉も食事も最高でしたウッドテラス付のお部屋に家族5人で一泊しました。スタッフの方の対応もよく、お部屋も温泉も晩ごはんも最高でした。朝ごはんのできたて豆腐は長男が美味しいとよく食べて… ”
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/solo-travel-retreat-private-onsen-stay/" },
-  title: "【大人のひとり温泉旅】お部屋食・客室露天風呂＆レイトアウト完全おこもり宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "大人のひとり温泉旅：お部屋食・客室露天風呂＆レイトアウト完全おこもり宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "贅沢なひとり旅完全特化！誰にも邪魔されないお部屋食確約、24時間好きな時に浸かれる客室専用露天風呂、シングル利用歓迎の名門宿、11時以降レイトチェックアウト、読書ラウンジ付き極上おこもり宿を徹底解説。",
   keywords: ["大人のひとり温泉旅", "お部屋食", "客室露天風呂", "レイトアウト完全おこもり宿", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
@@ -89,9 +89,7 @@ export default function TargetAudienceHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             SOLO TRAVEL RETREAT GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【大人のひとり温泉旅】お部屋食・客室露天風呂＆レイトアウト完全おこもり宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「大人のひとり温泉旅」お部屋食・客室露天風呂＆レイトアウト完全おこもり宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             誰にも気兼ねせず、自分のリズムだけで過ごす至福のひとり温泉旅。夕朝食ともにお部屋でいただく贅沢な美食、湯気立ち上る客室専用露天風呂、静かな読書ラウンジ。心と身体を深く整える究極のリトリートへ。
           </p>

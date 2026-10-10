@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kagawa-kotohira-solo-retreat-onsen-stay/" },
-  title: '【こんぴら温泉郷ひとり旅・金刀比羅宮門前おこもり】石段街を望む展望露天・美肌の名湯・讃岐牛＆手打ちうどん！四国随一の霊峰リトリート厳選3宿',
+  title: 'こんぴら温泉郷ひとり旅・金刀比羅宮門前おこもり：石段街を望む展望露天・美肌の名湯・讃岐牛＆手打ちうどん！四国随一の霊峰リトリート厳選3宿',
   description: '「さぬきのこんぴらさん」の参道に湧く四国屈指の温泉郷！金刀比羅宮参道口に位置し展望露天風呂や和モダン客室が極上の「琴平グランドホテル 桜の抄」、多彩な庭園露天や館内湯巡りが贅沢な姉妹館「湯元こんぴら温泉華の湯 紅梅亭」、アットホームなもてなしと良心的な価格が魅力の老舗「虎屋旅館」を楽天API最新データに基づき徹底比較。',
   keywords: 'こんぴら温泉 一人旅 宿,琴平 ホテル 一人 温泉,桜の抄 一人旅,紅梅亭 こんぴら温泉,虎屋旅館 琴平,金刀比羅宮 ひとり旅 おこもり',
   openGraph: {
-    title: '【こんぴら温泉郷ひとり旅・金刀比羅宮門前おこもり】石段街を望む展望露天・美肌の名湯・讃岐牛＆手打ちうどん！四国随一の霊峰リトリート厳選3宿',
+    title: 'こんぴら温泉郷ひとり旅・金刀比羅宮門前おこもり：石段街を望む展望露天・美肌の名湯・讃岐牛＆手打ちうどん！四国随一の霊峰リトリート厳選3宿',
     description: '「さぬきのこんぴらさん」の参道に湧く四国屈指の温泉郷！金刀比羅宮参道口に位置し展望露天風呂や和モダン客室が極上の「琴平グランドホテル 桜の抄」、多彩な庭園露天や館内湯巡りが贅沢な姉妹館「湯元こんぴら温泉華の湯 紅梅亭」、アットホームなもてなしと良心的な価格が魅力の老舗「虎屋旅館」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/kagawa-kotohira-solo-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【こんぴら温泉郷ひとり旅・金刀比羅宮門前おこもり】石段街を望む展望露天・美肌の名湯・讃岐牛＆手打ちうどん！四国随一の霊峰リトリート厳選3宿',
+    headline: 'こんぴら温泉郷ひとり旅・金刀比羅宮門前おこもり：石段街を望む展望露天・美肌の名湯・讃岐牛＆手打ちうどん！四国随一の霊峰リトリート厳選3宿',
     description: '「さぬきのこんぴらさん」の参道に湧く四国屈指の温泉郷！金刀比羅宮参道口に位置し展望露天風呂や和モダン客室が極上の「琴平グランドホテル 桜の抄」、多彩な庭園露天や館内湯巡りが贅沢な姉妹館「湯元こんぴら温泉華の湯 紅梅亭」、アットホームなもてなしと良心的な価格が魅力の老舗「虎屋旅館」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             香川・こんぴら温泉ひとり旅＆門前町おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【こんぴら温泉郷ひとり旅・金刀比羅宮門前おこもり】石段街を望む展望露天・美肌の名湯・讃岐牛＆手打ちうどん！四国随一の霊峰リトリート厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「こんぴら温泉郷ひとり旅・金刀比羅宮門前おこもり」石段街を望む展望露天・美肌の名湯・讃岐牛＆手打ちうどん！四国随一の霊峰リトリート厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-ancient-shrines-sacred-stay/" },
-  title: '日本三大古社＆神話と悠久の祈り・神域に寄り添う聖地宿×ふるさと納税完全ガイド【2026年最新】伊勢神宮・出雲大社・大神神社',
+  title: '日本三大古社＆神話と悠久の祈り・神域に寄り添う聖地宿×ふるさと納税厳選ガイド伊勢神宮・出雲大社・大神神社',
   description: '日本人の心のふるさとを巡る神聖なる古社ステイ！三重伊勢「伊勢神宮」内宮まで徒歩圏内・早朝参拝の静寂とおかげ横丁いにしえの宿伊久、島根出雲「出雲大社」縁結びの聖地・正門前に佇む純和風老舗竹野屋旅館、奈良桜井「三輪山・大神神社」本殿を持たず山をご神体とする日本最古の神社と多武峰観光ホテル。清らかな神域散策と名物グルメを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大古社・神話と聖地特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大古社＆神話と悠久の祈り・神域に寄り添う聖地宿×ふるさと納税完全ガイド【2026年最新】伊勢神宮・出雲大社・大神神社',
+    title: '日本三大古社＆神話と悠久の祈り・神域に寄り添う聖地宿×ふるさと納税厳選ガイド伊勢神宮・出雲大社・大神神社',
     description: '日本人の心のふるさとを巡る神聖なる古社ステイ！三重伊勢「伊勢神宮」内宮まで徒歩圏内・早朝参拝の静寂とおかげ横丁いにしえの宿伊久、島根出雲「出雲大社」縁結びの聖地・正門前に佇む純和風老舗竹野屋旅館、奈良桜井「三輪山・大神神社」本殿を持たず山をご神体とする日本最古の神社と多武峰観光ホテル。清らかな神域散策と名物グルメを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-ancient-shrines-sacred-stay',
@@ -154,9 +154,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大古社・神話と聖地特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大古社＆神話の聖域・早朝参拝の名宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大古社＆神話の聖域・早朝参拝の名宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             日本神話の黎明期から連綿と人々の祈りを受け止めてきた「日本三大古社」――天照大御神を祀り日本の総氏神として至高の尊厳を誇る三重の「伊勢神宮（内宮・外宮）」、国譲り神話と巨大なしめ縄・八百万の神々が集う縁結びの総本宮として名高い島根の「出雲大社」、そして本殿を設けず三輪山そのものを神体として祀る日本最古の神社と伝わる奈良の「大神神社（三輪明神）」。一般の参拝客で混雑する前の清浄な早朝に参道を歩き、土地の伝統食材を味わう至高の祈りの時間を楽天ふるさと納税でお楽しみください。
           </p>

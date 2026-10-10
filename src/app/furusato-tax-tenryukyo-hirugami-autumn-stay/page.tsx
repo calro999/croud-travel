@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            名勝「天竜峡」ライン下り渓谷紅葉＆美肌の湯「昼神温泉」・阿智村日本一の星空ナイトツアー
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">名勝「天竜峡」ライン下り渓谷紅葉＆美肌の湯「昼神温泉」・阿智村日本一の星空ナイトツアー</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             天竜川の渓谷美を愛でる舟下りと阿智村の奇跡の星空。昼神温泉の極上美肌湯と信州秋の味覚に癒やされる贅沢。
           </p>

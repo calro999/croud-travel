@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月山陰】11月解禁の本場鳥取松葉ガニ！名宿5選',
+  title: '山陰で過ごす冬の旅（11・12月）！11月解禁の本場鳥取松葉ガニ！名宿5選',
   description: '毎年11月6日、日本海の荒波が冬の始まりを告げると同時に、山陰の海岸線は歓喜に包まれます。冬の味覚の絶対王者「松葉ガニ（ズワイガニの雄）」の。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '岩井温泉 宿泊, 鳥取 松葉ガニ 宿, 活松葉ガニ 解禁 11月 12月, 岩井屋 民藝, 湯かむり温泉, 浦富海岸 ジオパーク, 鳥取和牛オレイン55, 山陰最古の温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tottori-iwai-onsen-matsubagani-tottoriwagyu-stay/"
   },
   openGraph: {
-    title: '【11・12月山陰】11月解禁の本場鳥取松葉ガニ！名宿5選',
+    title: '山陰で過ごす冬の旅（11・12月）！11月解禁の本場鳥取松葉ガニ！名宿5選',
     description: '毎年11月6日、日本海の荒波が冬の始まりを告げると同時に、山陰の海岸線は歓喜に包まれます。冬の味覚の絶対王者「松葉ガニ（ズワイガニの雄）」の。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-tottori-iwai-onsen-matsubagani-tottoriwagyu-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月山陰】11月解禁の本場鳥取松葉ガニと山陰最古1300年の名湯「湯かむり」・鳥取和牛＆世界ジオパーク浦富海岸を巡る名宿5選",
+    title: "山陰で過ごす冬の旅（11・12月）！11月解禁の本場鳥取松葉ガニと山陰最古1300年の名湯「湯かむり」・鳥取和牛＆世界ジオパーク浦富海岸を巡る名宿5選",
     description: "毎年11月6日、日本海の荒波が冬の始まりを告げると同時に、山陰の海岸線は歓喜に包まれます。冬の味覚の絶対王者「松葉ガニ（ズワイガニの雄）」の漁がついに解禁。11月中旬から12月にかけて、鳥取県東部の岩美町は、獲れたての極上松葉ガニを求めて全国から食通が集まる至福の季節を迎えます。近隣の網代港や田後港から直送される松葉ガニは、ぎっしりと詰まった繊細な甘みの身、濃厚で芳醇なカニ味噌が別格。花咲くカニ刺し、香ばしい炭火焼きガニ、熱々のカニ鍋に甲羅酒と、贅を尽くしたカニ尽くし会席は冬旅の最高峰です。この美食の拠点となるのが、奈良時代神亀年間に開湯したと伝わる山陰最古の名湯「岩井温泉（いわいおんせん）」。頭に手ぬぐいを乗せ、柄杓で湯をかぶりながら長湯する奇習「湯かむり」が今に息づく源泉完全かけ流しの硫酸塩泉は、芯まで体を温めて冷えを寄せ付けません。さらに車で10分の浦富海岸では、ユネスコ世界ジオパークに認定された荒波削る洞門や奇岩の冬絶景が広がります。霜降り鳥取和牛オレイン55とともに、初冬の山陰の真髄を味わい尽くす厳選5宿を徹底ガイドします。",
     images: ['https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -367,9 +367,7 @@ export default function TottoriIwaiUradomeWinterPage() {
             <Sparkles className="w-3.5 h-3.5" />
             11月・12月山陰初冬特集・11月解禁本場松葉ガニ＆開湯1300年湯かむり
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold tracking-tight text-white leading-tight">
-            {metadata.title as string}
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold tracking-tight text-white leading-tight">{metadata.title as string}</h1>
           <p className="text-xs sm:text-sm text-stone-300 leading-relaxed pt-2">
             11月6日のカニ漁解禁とともに湧き立つ鳥取岩美の港町。獲れたて活松葉ガニの甘みと濃厚な甲羅味噌。
             奈良時代開湯の山陰最古「湯かむり」硫酸塩泉と、世界ジオパーク浦富海岸の荒波景観に浸る初冬の贅沢。

@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【松山】松山城の紅葉絵巻と本場宇和島鯛めし！3,000円台〜格安ホテル5選',
+  title: '松山：松山城の紅葉絵巻と本場宇和島鯛めし！3,000円台〜格安ホテル5選',
   description: '名城松山城の天守閣を彩る秋モミジと、リニューアル完了の道後温泉本館湯巡り！甘辛ダレと生卵が絡む本場鯛めし。松山駅・大街道周辺で1泊3,000円台〜4,000円台の格安・高評価宿5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetMatsuyamaHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>松山城ロープウェー紅葉＆宇和島鯛めし</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【松山】松山城の紅葉＆本場鯛めしを満喫！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「松山」松山城の紅葉＆本場鯛めしを満喫！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-teal-100/90 max-w-2xl mx-auto leading-relaxed">
             ロープウェーやリフトで登る勝山山頂の松山城本丸広場から見晴らす瀬戸内海と紅葉！2024年に保存修理工事を終え全館営業を再開した道後温泉本館での名湯巡り。夜は大街道でプリプリ真鯛の宇和島鯛めしに舌鼓！3,000円台から泊まれる高評価ホテルをご紹介します。
           </p>

@@ -5,11 +5,11 @@ import Image from 'next/image';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/iwate-hiraizumi-ichinoseki-geibikei-stay/" },
-  title: '【岩手・平泉＆一関・猊鼻渓】中尊寺金色堂・舟下り＆前沢牛・もち食宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+  title: '岩手・平泉＆一関・猊鼻渓：中尊寺金色堂・舟下り＆前沢牛・もち食宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
   description: '奥州藤原氏三代が築いた世界遺産の浄土世界「中尊寺金色堂」「毛越寺浄土庭園」、竿一本で進む日本百景「猊鼻渓舟下り」、エメラルドの激流「厳美渓」名物空飛ぶ郭公だんご、極上「前沢牛」ステーキと300種を超える一関もち食文化を味わう宿を徹底厳選。',
   keywords: ["岩手", "平泉", "一関", "猊鼻渓", "中尊寺金色堂", "舟下り", "前沢牛"],
   openGraph: {
-    title: '【岩手・平泉＆一関・猊鼻渓】中尊寺金色堂・舟下り＆前沢牛・もち食宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+    title: '岩手・平泉＆一関・猊鼻渓：中尊寺金色堂・舟下り＆前沢牛・もち食宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
     description: '奥州藤原氏三代が築いた世界遺産の浄土世界「中尊寺金色堂」「毛越寺浄土庭園」、竿一本で進む日本百景「猊鼻渓舟下り」、エメラルドの激流「厳美渓」名物空飛ぶ郭公だんご、極上「前沢牛」ステーキと300種を超える一関もち食文化を味わう宿を徹底厳選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/iwate-hiraizumi-ichinoseki-geibikei-stay',
@@ -50,9 +50,7 @@ export default function Page() {
             <span>🗺️</span>
             <span>HIRAIZUMI & GEIBIKEI HERITAGE GUIDE</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">
-            【岩手・平泉＆一関・猊鼻渓】世界遺産中尊寺金色堂・毛越寺浄土庭園＆猊鼻渓舟下り宿 完全ガイド
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">「岩手・平泉＆一関・猊鼻渓」世界遺産中尊寺金色堂・毛越寺浄土庭園＆猊鼻渓舟下り宿 厳選ガイド</h1>
           <p className="max-w-3xl mx-auto text-stone-300 text-sm sm:text-base md:text-lg leading-relaxed mb-8">
             戦乱のない平和な仏国土（浄土）を目指し、奥州藤原氏三代が黄金文化の粋を集めて築き上げた世界遺産の街「平泉」。覆堂の中に輝く奇跡の至宝「中尊寺金色堂」、平安の美を今に伝える「毛越寺」の浄土庭園。さらに切り立つ高さ100mの石灰岩渓谷を船頭の追分唄とともに進む「猊鼻渓舟下り」。厳美渓の名物だんごや極上前沢牛、一関の伝統もち料理。みちのくの黄金郷と大自然を巡る旅へご案内します。
           </p>

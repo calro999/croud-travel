@@ -3,13 +3,13 @@ import Link from 'next/link';
 import { Star, MapPin, Calendar, Compass, ShieldCheck, Heart, Sparkles, ExternalLink, ChevronRight } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【御食国の冬味覚・明通寺国宝本堂の静寂と若狭ふぐ】2026-2027年冬の福井・若狭小浜！名物若狭とらふぐフルコースと雪見温泉名宿5選',
+  title: '御食国の冬味覚・明通寺国宝本堂の静寂と若狭ふぐ：2026-2027年冬の福井・若狭小浜！名物若狭とらふぐフルコースと雪見温泉名宿5選',
   description: '国宝・明通寺本堂と三重塔が雪化粧をまとう冬の若狭小浜！朝廷に食を献上した御食国の至宝「若狭ふぐ（とらふぐコース）」や名物焼き鯖、若狭牛に舌鼓。若狭湾の絶景と柔らかな湯に心ほどける冬の福井・小浜厳選名宿5選。',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-fukui-obama-myotsuji-temple-snow-wakasa-fugu-mackerel-stay/',
   },
   openGraph: {
-    title: '【御食国の冬味覚・明通寺国宝本堂の静寂と若狭ふぐ】2026-2027年冬の福井・若狭小浜！名物若狭とらふぐフルコースと雪見温泉名宿5選',
+    title: '御食国の冬味覚・明通寺国宝本堂の静寂と若狭ふぐ：2026-2027年冬の福井・若狭小浜！名物若狭とらふぐフルコースと雪見温泉名宿5選',
     description: '国宝・明通寺本堂と三重塔が雪化粧をまとう冬の若狭小浜！朝廷に食を献上した御食国の至宝「若狭ふぐ（とらふぐコース）」や名物焼き鯖、若狭牛に舌鼓。若狭湾の絶景と柔らかな湯に心ほどける冬の福井・小浜厳選名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-fukui-obama-myotsuji-temple-snow-wakasa-fugu-mackerel-stay/',
     siteName: '冬の日本厳選旅行ガイド',
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: '【御食国の冬味覚・明通寺国宝本堂の静寂と若狭ふぐ】2026-2027年冬の福井・若狭小浜！名物若狭とらふぐフルコースと雪見温泉名宿5選',
+    title: '御食国の冬味覚・明通寺国宝本堂の静寂と若狭ふぐ：2026-2027年冬の福井・若狭小浜！名物若狭とらふぐフルコースと雪見温泉名宿5選',
     description: '国宝・明通寺本堂と三重塔が雪化粧をまとう冬の若狭小浜！朝廷に食を献上した御食国の至宝「若狭ふぐ（とらふぐコース）」や名物焼き鯖、若狭牛に舌鼓。若狭湾の絶景と柔らかな湯に心ほどける冬の福井・小浜厳選名宿5選。',
     images: ['https://img.travel.rakuten.co.jp/share/HOTEL/687/687.jpg'],
   },
@@ -229,9 +229,7 @@ export default function Page() {
               <span>2026-2027年冬（11月・12月・1月）完全ガイド</span>
             </div>
 
-            <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold tracking-tight leading-snug">
-              【御食国の冬味覚・明通寺国宝本堂の静寂と若狭ふぐ】2026-2027年冬の福井・若狭小浜！名物若狭とらふぐフルコースと雪見温泉名宿5選
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold tracking-tight leading-snug">「御食国の冬味覚・明通寺国宝本堂の静寂と若狭ふぐ」2026-2027年冬の福井・若狭小浜！名物若狭とらふぐフルコースと雪見温泉名宿5選</h1>
 
             <p className="text-sm sm:text-base text-stone-200 leading-relaxed pt-2">
               国宝・明通寺本堂と三重塔が雪化粧をまとう冬の若狭小浜！朝廷に食を献上した御食国の至宝「若狭ふぐ（とらふぐコース）」や名物焼き鯖、若狭牛に舌鼓。若狭湾の絶景と柔らかな湯に心ほどける冬の福井・小浜厳選名宿5選。

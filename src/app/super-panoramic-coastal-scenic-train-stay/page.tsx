@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【絶景観光列車と温泉旅】五能線・リゾートしらかみ沿線！日本海パノラマ夕日と不老ふ死温泉宿5選",
+  title: "絶景観光列車と温泉旅：五能線・リゾートしらかみ沿線！日本海パノラマ夕日と不老ふ死温泉宿5選",
   description: "日本一の人気ローカル線「JR五能線」や観光列車「リゾートしらかみ」で行く憧れの鉄道旅！波打ち際のひょうたん露天風呂で有名な黄金崎不老ふ死温泉や、日本海の夕日を望む名湯宿を徹底解説。",
   keywords: "五能線 温泉 宿, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/super-panoramic-coastal-scenic-train-stay/",
   },
   openGraph: {
-    title: "【絶景観光列車と温泉旅】五能線・リゾートしらかみ沿線！日本海パノラマ夕日と不老ふ死温泉宿5選",
+    title: "絶景観光列車と温泉旅：五能線・リゾートしらかみ沿線！日本海パノラマ夕日と不老ふ死温泉宿5選",
     description: "日本一の人気ローカル線「JR五能線」や観光列車「リゾートしらかみ」で行く憧れの鉄道旅！波打ち際のひょうたん露天風呂で有名な黄金崎不老ふ死温泉や、日本海の夕日を望む名湯宿を徹底解説。",
     url: 'https://croud-travel.pages.dev/super-panoramic-coastal-scenic-train-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【絶景観光列車と温泉旅】五能線・リゾートしらかみ沿線！日本海パノラマ夕日と不老ふ死温泉宿5選",
+    title: "絶景観光列車と温泉旅：五能線・リゾートしらかみ沿線！日本海パノラマ夕日と不老ふ死温泉宿5選",
     description: "日本一の人気ローカル線「JR五能線」や観光列車「リゾートしらかみ」で行く憧れの鉄道旅！波打ち際のひょうたん露天風呂で有名な黄金崎不老ふ死温泉や、日本海の夕日を望む名湯宿を徹底解説。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>五能線沿線＆日本海夕日名湯</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【絶景観光列車と温泉旅】五能線・リゾートしらかみ沿線！日本海パノラマ夕日と不老ふ死温泉宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「絶景観光列車と温泉旅」五能線・リゾートしらかみ沿線！日本海パノラマ夕日と不老ふ死温泉宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             日本一の人気ローカル線「JR五能線」や観光列車「リゾートしらかみ」で行く憧れの鉄道旅！波打ち際のひょうたん露天風呂で有名な黄金崎不老ふ死温泉や、日本海の夕日を望む名湯宿を徹底解説。
           </p>

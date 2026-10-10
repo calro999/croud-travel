@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hakone-autumn-leaves-lightup-hotspring-guide/" },
-  title: "【箱根 紅葉露天風呂＆ライトアップ2026】箱根登山鉄道・強羅公園・美術館の紅葉巡り＆にごり湯旅館 ｜ 日本全国・旅宿クラウド",
+  title: "箱根 紅葉露天風呂＆ライトアップ2026：箱根登山鉄道・強羅公園・美術館の紅葉巡り＆にごり湯旅館 ｜ 日本全国・旅宿クラウド",
   description:
     "箱根の秋を彩る紅葉名所と絶景露天風呂！箱根美術館の苔庭紅葉、彫刻の森、芦ノ湖遊覧船からの富士と紅葉パノラマ、強羅・仙石原の秋限定懐石ディナー付き名門温泉旅館を徹底比較。",
   keywords: ["箱根", "紅葉露天風呂", "ライトアップ2026", "箱根登山鉄道", "強羅公園", "美術館の紅葉巡り", "にごり湯旅館"],
@@ -146,10 +146,7 @@ export default function HakoneAutumnLeavesHotspringGuidePage() {
             </span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight sm:leading-snug mb-6 text-white drop-shadow">
-            【箱根 紅葉露天風呂＆ライトアップ2026】<br className="hidden sm:inline" />
-            箱根登山鉄道・強羅公園・美術館の紅葉巡り＆<span className="text-rose-400">にごり湯旅館</span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight sm:leading-snug mb-6 text-white drop-shadow">「箱根 紅葉露天風呂＆ライトアップ2026」<br className="hidden sm:inline" /> 箱根登山鉄道・強羅公園・美術館の紅葉巡り＆<span className="text-rose-400">にごり湯旅館</span></h1>
 
           <p className="text-sm sm:text-lg text-rose-100/90 leading-relaxed max-w-3xl mb-8">
             芦ノ湖の青と富士山を借景に映える外輪山の赤、苔庭に零れ落ちる箱根美術館のモミジ、そして幻想的な夜間ライトアップ。

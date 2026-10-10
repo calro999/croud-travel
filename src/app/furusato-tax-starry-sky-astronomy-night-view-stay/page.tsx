@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '満天の星空・天体観測＆星空露天風呂リトリート極上宿×ふるさと納税完全ガイド【2026年最新】阿智村・野辺山高原・石垣島',
+  title: '満天の星空・天体観測＆星空露天風呂リトリート極上宿×ふるさと納税厳選ガイド阿智村・野辺山高原・石垣島',
   description: '降るような星々の輝きと宇宙の神秘に包まれる！環境省認定「日本一の星空」として名高い長野県阿智村・昼神温泉「信州公共の宿 鶴巻荘」、国立天文台野辺山宇宙電波観測所を擁する日本三選星名所「八ヶ岳グレイスホテル」、国際ダークスカイ協会認定の星空保護区で南十字星を望む「石垣島ビーチホテルサンシャイン」。天体望遠鏡案内や星空露天風呂を誇る名宿に、楽天ふるさと納税トラベルクーポンで実質2,000円負担で宿泊する完全ガイド。',
   keywords: ["満天の星空", "天体観測", "2026年最新", "阿智村", "野辺山高原", "石垣島", "温泉宿"],
   alternates: { canonical: baseUrl + '/furusato-tax-starry-sky-astronomy-night-view-stay/' },
   openGraph: {
-    title: '満天の星空・天体観測＆星空露天風呂リトリート極上宿×ふるさと納税完全ガイド【2026年最新】阿智村・野辺山高原・石垣島',
+    title: '満天の星空・天体観測＆星空露天風呂リトリート極上宿×ふるさと納税厳選ガイド阿智村・野辺山高原・石垣島',
     description: '降るような星々の輝きと宇宙の神秘に包まれる！環境省認定「日本一の星空」として名高い長野県阿智村・昼神温泉「信州公共の宿 鶴巻荘」、国立天文台野辺山宇宙電波観測所を擁する日本三選星名所「八ヶ岳グレイスホテル」、国際ダークスカイ協会認定の星空保護区で南十字星を望む「石垣島ビーチホテルサンシャイン」。天体望遠鏡案内や星空露天風呂を誇る名宿に、楽天ふるさと納税トラベルクーポンで実質2,000円負担で宿泊する完全ガイド。',
     url: baseUrl + '/furusato-tax-starry-sky-astronomy-night-view-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoStarrySkyAstronomyStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             星空保護区＆満天の星空天体観測名宿特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            満天の星空・天体観測＆星空露天風呂リトリート極上宿×ふるさと納税完全ガイド【2026年最新】阿智村・野辺山高原・石垣島
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">満天の星空・天体観測＆星空露天風呂リトリート極上宿×ふるさと納税厳選ガイド阿智村・野辺山高原・石垣島</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             忙しい日常の中でふと見上げる夜空。都市の街明かりにかき消されていた満天の星々が、視界いっぱいに広がる場所があります。環境省の全国星空継続観察で「星が最も輝いて見える場所」第1位に認定された長野県・阿智村。標高1,300mの澄んだ高原の空気と広大な空が広がり、国立天文台の巨大電波望遠鏡が設置されている日本屈指の天体観測の聖地・八ヶ岳野辺山高原。そして日本初の「星空保護区」に認定され、全天88星座のうち84星座や憧れの南十字星を肉眼で観測できる沖縄県・石垣島。湯煙立ち上る露天風呂の湯船に身を委ね、照明を落としたテラスでリクライニングチェアに腰掛けながら天の川の帯を眺める時間は、宇宙の広大さと命の尊さを実感させる唯一無二の感動体験です。人気の星空リゾート宿を、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引）を使って実質2,000円負担で賢く予約。星の瞬きと静寂に包まれるロマンチックな天体観測旅へ出かけましょう。
           </p>

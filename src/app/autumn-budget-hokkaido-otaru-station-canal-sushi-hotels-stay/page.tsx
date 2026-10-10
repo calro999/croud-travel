@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【小樽駅前】小樽運河秋散歩＆秋シャコ・小樽寿司！2,000円台〜泊まれる格安ホテル5選',
+  title: '小樽駅前：小樽運河秋散歩＆秋シャコ・小樽寿司！2,000円台〜泊まれる格安ホテル5選',
   description: '石造倉庫群とガス灯が灯るノスタルジックな小樽運河！秋に旬を迎える小樽産「秋シャコ」や新鮮な小樽寿司、ルタオのスイーツ。JR函館本線・小樽駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>小樽運河のガス灯秋散歩＆旬の小樽産秋シャコ・特上にぎり</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【小樽駅前】小樽運河散歩＆秋シャコ寿司！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「小樽駅前」小樽運河散歩＆秋シャコ寿司！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             石造倉庫群とレトロなガス灯が夕暮れの水面に揺れるロマンチックな「小樽運河」。秋に漁の解禁を迎える大ぶりで子持ちの「小樽秋シャコ」や、寿司屋通りの極上握り寿司、堺町通りの硝子工芸とスイーツ。小樽駅周辺で2,000円台〜泊まれる優良ホテルを厳選。
           </p>

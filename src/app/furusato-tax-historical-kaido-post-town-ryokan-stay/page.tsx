@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-historical-kaido-post-town-ryokan-stay/" },
-  title: '歴史街道・宿場町めぐり名宿×ふるさと納税完全ガイド【2026年最新】中山道木曽路（妻籠・馬籠）・日光街道の江戸情緒旅',
+  title: '歴史街道・宿場町めぐり名宿×ふるさと納税厳選ガイド中山道木曽路（妻籠・馬籠）・日光街道の江戸情緒旅',
   description: '石畳の坂道や格子戸の町並み、江戸時代にタイムスリップしたかのような情緒！中山道・妻籠宿、馬籠宿、日光街道の由緒ある宿場町旅館を楽天ふるさと納税宿泊クーポンでお得に予約する歴史散策ガイド。',
   keywords: ["歴史街道", "宿場町めぐり名宿×ふるさと納税", "2026年最新", "中山道木曽路（妻籠", "馬籠）", "日光街道の江戸情緒旅", "温泉宿"],
   openGraph: {
-    title: '歴史街道・宿場町めぐり名宿×ふるさと納税完全ガイド【2026年最新】中山道木曽路（妻籠・馬籠）・日光街道の江戸情緒旅',
+    title: '歴史街道・宿場町めぐり名宿×ふるさと納税厳選ガイド中山道木曽路（妻籠・馬籠）・日光街道の江戸情緒旅',
     description: '石畳の坂道や格子戸の町並み、江戸時代にタイムスリップしたかのような情緒！中山道・妻籠宿、馬籠宿、日光街道の由緒ある宿場町旅館を楽天ふるさと納税宿泊クーポンでお得に予約する歴史散策ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-historical-kaido-post-town-ryokan-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FurusatoTaxPage() {
           <span className="inline-block px-4 py-1.5 rounded-full text-xs md:text-sm font-black bg-gradient-to-r from-amber-500 to-yellow-400 text-slate-950 mb-5 shadow-lg shadow-amber-500/20">
             歴史街道・宿場町めぐり特集
           </span>
-          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">
-            歴史街道・宿場町めぐり名宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">歴史街道・宿場町めぐり名宿×ふるさと納税ガイド</h1>
           <p className="text-sm md:text-lg text-slate-300 leading-relaxed font-medium">
             石畳の坂道や格子戸の町並み、江戸時代にタイムスリップしたかのような情緒！中山道・妻籠宿、馬籠宿、日光街道の由緒ある宿場町旅館を楽天ふるさと納税宿泊クーポンでお得に予約する歴史散策ガイド。
           </p>

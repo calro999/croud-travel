@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/oita-solo-business-rooftop-onsen-gourmet-stay/" },
-  title: '【大分出張＆豊後ソログルメ泊】大分駅直結・地上80m屋上インフィニティ天然温泉・関アジ関サバ！名物とり天を満喫する極上ホテル 厳選3選',
+  title: '大分出張＆豊後ソログルメ泊：大分駅直結・地上80m屋上インフィニティ天然温泉・関アジ関サバ！名物とり天を満喫する極上ホテル 厳選3選',
   description: 'おんせん県おおいたの県庁所在地・大分市！「JR大分駅直結・最上階21階に天空露天温泉CITY SPAてんくうを擁する。」の「JR九州ホテル ブラッサム大分」、大分市中心街のランドマークホテル「ホテル日航大分 オアシスタワー」、府内町ビジネス街至近の「ダイワロイネットホテル大分」を徹底特集。',
   keywords: '大分 出張 ホテル 温泉,大分 一人旅 ホテル おすすめ,ブラッサム大分 温泉,ホテル日航大分 オアシスタワー 宿泊,大分 関アジ 関サバ ホテル',
   openGraph: {
-    title: '【大分出張＆豊後ソログルメ泊】大分駅直結・地上80m屋上インフィニティ天然温泉・関アジ関サバ！名物とり天を満喫する極上ホテル 厳選3選',
+    title: '大分出張＆豊後ソログルメ泊：大分駅直結・地上80m屋上インフィニティ天然温泉・関アジ関サバ！名物とり天を満喫する極上ホテル 厳選3選',
     description: 'おんせん県おおいたの県庁所在地・大分市！「JR大分駅直結・最上階21階に天空露天温泉CITY SPAてんくうを擁する。」の「JR九州ホテル ブラッサム大分」、大分市中心街のランドマークホテル「ホテル日航大分 オアシスタワー」、府内町ビジネス街至近の「ダイワロイネットホテル大分」を徹底特集。',
     url: 'https://croud-travel.pages.dev/oita-solo-business-rooftop-onsen-gourmet-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【大分出張＆豊後ソログルメ泊】大分駅直結・地上80m屋上インフィニティ天然温泉・関アジ関サバ！名物とり天を満喫する極上ホテル 厳選3選',
+    headline: '大分出張＆豊後ソログルメ泊：大分駅直結・地上80m屋上インフィニティ天然温泉・関アジ関サバ！名物とり天を満喫する極上ホテル 厳選3選',
     description: 'おんせん県おおいたの県庁所在地・大分市！「JR大分駅直結・最上階21階に天空露天温泉CITY SPAてんくうを擁する。」の「JR九州ホテル ブラッサム大分」、大分市中心街のランドマークホテル「ホテル日航大分 オアシスタワー」、府内町ビジネス街至近の「ダイワロイネットホテル大分」を徹底特集。',
     author: {
       '@type': 'Organization',
@@ -74,9 +74,7 @@ export default function ArticlePage() {
           <span>✨</span>
           <span>大分・出張＆屋上天然温泉・関アジ関サバ特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【大分出張＆豊後ソログルメ泊】大分駅直結・地上80m屋上インフィニティ天然温泉・関アジ関サバ！名物とり天を満喫する極上ホテル 厳選3選
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">「大分出張＆豊後ソログルメ泊」大分駅直結・地上80m屋上インフィニティ天然温泉・関アジ関サバ！名物とり天を満喫する極上ホテル 厳選3選</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
           おんせん県おおいたの県庁所在地・大分市！「JR大分駅直結・最上階21階に天空露天温泉CITY SPAてんくうを擁する。」の「JR九州ホテル ブラッサム大分」、大分市中心街のランドマークホテル「ホテル日航大分 オアシスタワー」、府内町ビジネス街至近の「ダイワロイネットホテル大分」を徹底特集。
         </p>

@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/takayama-solo-retreat-hidagyu-onsen-stay/" },
-  title: '【飛騨高山ひとり旅・小京都おこもり】古い町並み徒歩すぐ・飛騨牛にぎり・美肌のとろとろ温泉！飛騨の匠の技に抱かれる極上宿 厳選3選',
+  title: '飛騨高山ひとり旅・小京都おこもり：古い町並み徒歩すぐ・飛騨牛にぎり・美肌のとろとろ温泉！飛騨の匠の技に抱かれる極上宿 厳選3選',
   description: '特急ひだ直結・江戸の風情を今に残す「飛騨の小京都」岐阜県高山市！「宮川中橋すぐ・ミシュラン掲載の極上おもてなしとお部屋食。」を誇る最高峰「本陣平野屋 花兆庵」、総檜造り・自家源泉の重曹泉がとろとろの「飛騨亭 花扇」、高山駅徒歩3分で最上階に展望露天風呂を備えた「スパホテルアルピナ飛騨高山」を徹底特集。',
   keywords: '飛騨高山 一人旅 宿,本陣平野屋花兆庵 宿泊,飛騨亭花扇 一人,飛騨高山 温泉 おこもり,飛騨牛 ホテル 一人旅',
   openGraph: {
-    title: '【飛騨高山ひとり旅・小京都おこもり】古い町並み徒歩すぐ・飛騨牛にぎり・美肌のとろとろ温泉！飛騨の匠の技に抱かれる極上宿 厳選3選',
+    title: '飛騨高山ひとり旅・小京都おこもり：古い町並み徒歩すぐ・飛騨牛にぎり・美肌のとろとろ温泉！飛騨の匠の技に抱かれる極上宿 厳選3選',
     description: '特急ひだ直結・江戸の風情を今に残す「飛騨の小京都」岐阜県高山市！「宮川中橋すぐ・ミシュラン掲載の極上おもてなしとお部屋食。」を誇る最高峰「本陣平野屋 花兆庵」、総檜造り・自家源泉の重曹泉がとろとろの「飛騨亭 花扇」、高山駅徒歩3分で最上階に展望露天風呂を備えた「スパホテルアルピナ飛騨高山」を徹底特集。',
     url: 'https://croud-travel.pages.dev/takayama-solo-retreat-hidagyu-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【飛騨高山ひとり旅・小京都おこもり】古い町並み徒歩すぐ・飛騨牛にぎり・美肌のとろとろ温泉！飛騨の匠の技に抱かれる極上宿 厳選3選',
+    headline: '飛騨高山ひとり旅・小京都おこもり：古い町並み徒歩すぐ・飛騨牛にぎり・美肌のとろとろ温泉！飛騨の匠の技に抱かれる極上宿 厳選3選',
     description: '特急ひだ直結・江戸の風情を今に残す「飛騨の小京都」岐阜県高山市！「宮川中橋すぐ・ミシュラン掲載の極上おもてなしとお部屋食。」を誇る最高峰「本陣平野屋 花兆庵」、総檜造り・自家源泉の重曹泉がとろとろの「飛騨亭 花扇」、高山駅徒歩3分で最上階に展望露天風呂を備えた「スパホテルアルピナ飛騨高山」を徹底特集。',
     author: {
       '@type': 'Organization',
@@ -74,9 +74,7 @@ export default function ArticlePage() {
           <span>✨</span>
           <span>飛騨高山・古い町並み＆飛騨牛おこもり特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【飛騨高山ひとり旅・小京都おこもり】古い町並み徒歩すぐ・飛騨牛にぎり・美肌のとろとろ温泉！飛騨の匠の技に抱かれる極上宿 厳選3選
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">「飛騨高山ひとり旅・小京都おこもり」古い町並み徒歩すぐ・飛騨牛にぎり・美肌のとろとろ温泉！飛騨の匠の技に抱かれる極上宿 厳選3選</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
           特急ひだ直結・江戸の風情を今に残す「飛騨の小京都」岐阜県高山市！「宮川中橋すぐ・ミシュラン掲載の極上おもてなしとお部屋食。」を誇る最高峰「本陣平野屋 花兆庵」、総檜造り・自家源泉の重曹泉がとろとろの「飛騨亭 花扇」、高山駅徒歩3分で最上階に展望露天風呂を備えた「スパホテルアルピナ飛騨高山」を徹底特集。
         </p>

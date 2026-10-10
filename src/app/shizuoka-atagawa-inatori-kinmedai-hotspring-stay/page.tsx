@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/shizuoka-atagawa-inatori-kinmedai-hotspring-stay/" },
-  title: "【静岡・熱川＆稲取】湯けむり露天・ブランド稲取キンメ宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "静岡・熱川＆稲取：湯けむり露天・ブランド稲取キンメ宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "街の至る所から温泉櫓の白煙が立ち上る「熱川温泉」、波打ち際の混浴絶景露天風呂、全国最高峰ブランド「稲取キンメ」の煮付け、熱川バナナワニ園、雛のつるし飾り発祥の地を徹底解説。オーシャンビュー客室や貸切温泉旅館を厳選。",
   keywords: ["静岡", "熱川", "稲取", "湯けむり露天", "ブランド稲取キンメ宿", "温泉宿", "宿泊予約"],
 };
@@ -92,9 +92,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             ATAGAWA & INATORI GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【静岡・熱川温泉＆稲取・東伊豆】湯けむり温泉櫓・波打ち際露天＆稲取キンメ宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「静岡・熱川温泉＆稲取・東伊豆」湯けむり温泉櫓・波打ち際露天＆稲取キンメ宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-teal-100/90 leading-relaxed">
             伊豆急行線の車窓から海と温泉櫓（やぐら）の湯けむりが見えてくる東伊豆の名湯「熱川温泉」。約100度の高温泉が自噴し、波の音が間近に迫る絶景の波打ち際露天風呂。すぐ隣の港町・稲取では、日帰り一本釣りで水揚げされる極上のブランド魚「稲取キンメ」の濃厚な煮付け。伊豆大島を正面に望む相模湾パノラマと、昭和レトロな温泉情緒に浸る東伊豆ステイへご案内します。
           </p>

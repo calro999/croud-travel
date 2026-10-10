@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/cosme-spa-facial-treatment-esthetic-stay/" },
-  title: "【ブランドスパ＆エステ付きご褒美ホテル】ロクシタン・THANN＆天然温泉 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "ブランドスパ＆エステ付きご褒美ホテル：ロクシタン・THANN＆天然温泉 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "全身を解きほぐす至福のトリートメント！高級コスメブランド直営スパ＆エステ付き温泉宿完全特化！ロクシタン、THANN、クレ・ド・ポー ボーテ、アロマオイルマッサージ付き宿泊プラン、温泉デトックス宿を徹底解説。",
   keywords: ["ブランドスパ", "エステ付きご褒美ホテル", "ロクシタン", "THANN", "天然温泉", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function WomenSoloRetreatHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-gradient-to-r from-rose-300 to-pink-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block shadow">
             LUXURY SPA & ESTHETIC GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【ブランドスパ＆エステ付きご褒美ホテル】ロクシタン・THANN＆天然温泉 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「ブランドスパ＆エステ付きご褒美ホテル」ロクシタン・THANN＆天然温泉 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-pink-100/90 leading-relaxed">
             心地よいアロマの香りとセラピストの極上のハンドテクニック「ブランドスパ＆エステ付きご褒美ホテル」。ロクシタンスパやTHANNサンクチュアリー。天然温泉で身体を温めた後のフェイシャル＆ボディトリートメントで、輝く素肌と深い眠りへ。
           </p>

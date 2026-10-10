@@ -1,4 +1,4 @@
-# 【指宿温泉】指宿ロイヤルホテル宿泊ガイド！絶景露天風呂・砂むし温泉アクセス・鹿児島会席
+# 指宿温泉：指宿ロイヤルホテル宿泊ガイド！絶景露天風呂・砂むし温泉アクセス・鹿児島会席
 
 - URL: https://croud-travel.pages.dev/posts/ibusuki-royal-hotel-ocean-view-guide/
 - 宿泊施設名: 指宿温泉 絶景露天風呂の宿 指宿ロイヤルホテル

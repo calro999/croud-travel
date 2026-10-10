@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月北海道・阿寒湖温泉】極上道東海鮮蟹会席！名宿5選',
+  title: '北海道・阿寒湖温泉で過ごす冬の旅（11・12月）！極上道東海鮮蟹会席！名宿5選',
   description: '11月から12月にかけて、道東・阿寒摩周国立公園の雄大な大自然に抱かれた阿寒湖温泉は、湖面が結氷を始める前の静謐な冬景色を迎え。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '阿寒湖温泉 宿泊, あかん遊久の里 鶴雅, 鄙の座, ニュー阿寒ホテル, フロストフラワー 11月 12月, 阿寒湖 アイヌコタン, オホーツク毛蟹, 阿寒湖 ワカサギ, 道東海鮮',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hokkaido-akanko-onsen-lakeview-frost-flower-hokkaido-beef-stay/"
   },
   openGraph: {
-    title: '【11・12月北海道・阿寒湖温泉】極上道東海鮮蟹会席！名宿5選',
+    title: '北海道・阿寒湖温泉で過ごす冬の旅（11・12月）！極上道東海鮮蟹会席！名宿5選',
     description: '11月から12月にかけて、道東・阿寒摩周国立公園の雄大な大自然に抱かれた阿寒湖温泉は、湖面が結氷を始める前の静謐な冬景色を迎え。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-akanko-onsen-lakeview-frost-flower-hokkaido-beef-stay',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -246,10 +246,7 @@ export default function HokkaidoAkankoWinterFeature() {
             <Snowflake className="w-4 h-4" />
             11月・12月 阿寒湖初氷＆アイヌ文化特集｜北海道・阿寒湖温泉
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            初冬のフロストフラワーとアイヌ文化<br className="hidden sm:inline" />
-            極上道東海鮮蟹会席＆北海道黒毛和牛を愉しむ湖畔名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">初冬のフロストフラワーとアイヌ文化<br className="hidden sm:inline" /> 極上道東海鮮蟹会席＆北海道黒毛和牛を愉しむ湖畔名宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             神秘の湖・阿寒湖に咲く奇跡の霜の花と、雄阿寒岳・雌阿寒岳の神々しい冬姿。アイヌの木彫りアートと温もりに包まれ、オホーツク海の毛蟹と湖畔雪見露天風呂に癒やされる冬の道東旅。
           </p>

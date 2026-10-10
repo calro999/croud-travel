@@ -180,9 +180,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            海から昇る初日の出を客室から望む！年末年始・お正月に行きたい絶景オーシャンビュー宿
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">海から昇る初日の出を客室から望む！年末年始・お正月に行きたい絶景オーシャンビュー宿</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             太平洋の水平線が黄金色に染まり、ゆっくりと昇りゆく太陽の光が水面を照らす瞬間。お部屋のテラスや専用露天風呂に浸かりながら初日の出を迎える体験は、新しい一年のスタートを清々しく特別なものにしてくれます。海と空が溶け合うパノラマビュー自慢の宿をセレクトしました。
           </p>

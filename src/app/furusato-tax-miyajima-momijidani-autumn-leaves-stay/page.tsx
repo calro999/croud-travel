@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '宮島・紅葉谷公園の深紅のモミジ＆嚴島神社大鳥居！宮島温泉名旅館×ふるさと納税完全ガイド【2026年最新秋旅】広島',
+  title: '宮島・紅葉谷公園の深紅のモミジ＆嚴島神社大鳥居！宮島温泉名旅館×ふるさと納税厳選ガイド広島',
   description: '11月中旬〜下旬に約700本のもみじが燃え盛る日本三景・宮島の「紅葉谷公園」。世界遺産・嚴島神社の海に浮かぶ大鳥居と秋の夕景、島内に佇む「宮島温泉 滝乃荘」「宮島ホテルまこと」「宮島 ホテル菊乃家」で広島名物の焼き牡蠣や穴子飯・広島牛を堪能。ふるさと納税トラベルクーポンで実質2,000円。',
   keywords: ["宮島", "紅葉谷公園の深紅のモミジ", "2026年最新秋旅", "広島", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-miyajima-momijidani-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '宮島・紅葉谷公園の深紅のモミジ＆嚴島神社大鳥居！宮島温泉名旅館×ふるさと納税完全ガイド【2026年最新秋旅】広島',
+    title: '宮島・紅葉谷公園の深紅のモミジ＆嚴島神社大鳥居！宮島温泉名旅館×ふるさと納税厳選ガイド広島',
     description: '11月中旬〜下旬に約700本のもみじが燃え盛る日本三景・宮島の「紅葉谷公園」。世界遺産・嚴島神社の海に浮かぶ大鳥居と秋の夕景、島内に佇む「宮島温泉 滝乃荘」「宮島ホテルまこと」「宮島 ホテル菊乃家」で広島名物の焼き牡蠣や穴子飯・広島牛を堪能。ふるさと納税トラベルクーポンで実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-miyajima-momijidani-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -113,9 +113,7 @@ export default function FeatureArticlePage() {
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">
-            宮島・紅葉谷公園の深紅のモミジ＆嚴島神社大鳥居！宮島温泉名旅館×ふるさと納税完全ガイド【2026年最新秋旅】広島
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">宮島・紅葉谷公園の深紅のモミジ＆嚴島神社大鳥居！宮島温泉名旅館×ふるさと納税厳選ガイド広島</h1>
           <p className="text-sm md:text-lg text-stone-200 max-w-3xl mx-auto leading-relaxed">
             世界遺産・嚴島神社の秋景色と紅葉谷公園の深紅絵巻、焼き牡蠣と名物穴子飯ステイ。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
           </p>

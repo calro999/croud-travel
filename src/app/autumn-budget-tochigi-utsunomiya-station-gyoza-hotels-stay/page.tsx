@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【宇都宮駅前】熱々宇都宮餃子ハシゴ旅＆大谷石散策！2,000円台〜泊まれる格安ホテル5選',
+  title: '宇都宮駅前：熱々宇都宮餃子ハシゴ旅＆大谷石散策！2,000円台〜泊まれる格安ホテル5選',
   description: 'パリッと香ばしい焼き餃子・水餃子のハシゴ旅と、幻想的な地下宮殿・大谷資料館散策！新幹線停車・宇都宮駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetUtsunomiyaStationHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>名物宇都宮餃子ハシゴ旅＆歴史城下町</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【宇都宮駅前】秋の熱々餃子ハシゴ＆城下町散策！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「宇都宮駅前」秋の熱々餃子ハシゴ＆城下町散策！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             野菜たっぷりのジューシーな餡をカリッと包んだ焼き餃子、もちもち水餃子、揚げ餃子の食べ比べ！みんみんや正嗣などの名店が立ち並ぶ宇都宮駅前で、2,000円台〜泊まれる破格の最新ホテルやハイクオリティ宿を厳選。浮いた宿代でビール＆餃子三昧を満喫しましょう。
           </p>

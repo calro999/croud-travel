@@ -180,9 +180,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            パチパチ爆ぜる炭火の温もり！囲炉裏料理と清流川魚・ジビエを味わう里山名湯宿
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">パチパチ爆ぜる炭火の温もり！囲炉裏料理と清流川魚・ジビエを味わう里山名湯宿</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             自在鉤から下がる鉄鍋から立ち上る湯気と、炭火で香ばしく焼き上がる串刺しの川魚。どこか懐かしい木の香りに包まれながら、赤々と燃える炭火を囲んで地酒を傾ける贅沢な時間。日本の原風景に出会う、心温まる里山ステイをお届けします。
           </p>

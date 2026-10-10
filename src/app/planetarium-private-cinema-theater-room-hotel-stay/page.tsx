@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/planetarium-private-cinema-theater-room-hotel-stay/" },
-  title: "【プラネタリウム＆大画面シアタールーム完備宿】部屋ごもり・星空上映 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "プラネタリウム＆大画面シアタールーム完備宿：部屋ごもり・星空上映 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "お部屋の中が満天の星空に！客室プラネタリウム＆大画面プロジェクター完備ホテル完全特化！東京、大阪、京都、軽井沢、家庭用最高峰ホームスター設置ルーム、天井いっぱいの星座パノラマ、映画・星空鑑賞カップル＆ファミリー記念日ステイを徹底解説。",
   keywords: ["プラネタリウム", "大画面シアタールーム完備宿", "部屋ごもり", "星空上映", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
@@ -89,9 +89,7 @@ export default function StargazingHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-gradient-to-r from-cyan-400 to-indigo-300 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block shadow">
             PLANETARIUM & CINEMA SUITE GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【プラネタリウム＆大画面シアタールーム完備宿】部屋ごもり・星空上映 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「プラネタリウム＆大画面シアタールーム完備宿」部屋ごもり・星空上映 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-indigo-100/90 leading-relaxed">
             部屋の照明を落とした瞬間、天井や壁一面に広がる数万個の恒星。「客室プラネタリウム＆ホームシアター完備ホテル。」。ベッドに寝転んだまま、二人きりで満天の星空やヒーリング音楽に包まれる至福。天候に左右されず、いつでも満天の星空デートが叶う非日常の隠れ家へ。
           </p>

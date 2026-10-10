@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月大分】宇佐神宮新春開運初詣！名宿5選',
+  title: '11・12・1月大分：宇佐神宮新春開運初詣！名宿5選',
   description: '冬の大分・宇佐＆国東半島は、全国4万社を超える八幡宮の総本宮「宇佐神宮」での新春初詣と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '宇佐神宮 初詣, 国東半島 ホテル, 富貴寺 旅庵蕗薹, 豊後牛 すき焼き, 豊前海 車海老, 宇佐からあげ, 昭和の町, 11月 12月 1月 大分 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-oita-usa-jingu-kunisaki-hatsumode-bungogyu-seafood-stay/"
   },
   openGraph: {
-    title: '【11・12・1月大分】宇佐神宮新春開運初詣！名宿5選',
+    title: '11・12・1月大分：宇佐神宮新春開運初詣！名宿5選',
     description: '冬の大分・宇佐＆国東半島は、全国4万社を超える八幡宮の総本宮「宇佐神宮」での新春初詣と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-oita-usa-jingu-kunisaki-hatsumode-bungogyu-seafood-stay',
     type: 'article',
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月大分】全国八幡宮総本宮・宇佐神宮新春開運初詣＆国東六郷満山！豊前海天然車海老と極上豊後牛を味わう名宿5選",
+    title: "11・12・1月大分：全国八幡宮総本宮・宇佐神宮新春開運初詣＆国東六郷満山！豊前海天然車海老と極上豊後牛を味わう名宿5選",
     description: "冬の大分・宇佐＆国東半島は、全国4万社を超える八幡宮の総本宮「宇佐神宮」での新春初詣と、九州最古の木造建築・国宝「富貴寺大堂」をはじめとする神仏習合の六郷満山文化を訪ねる神秘の旅舞台。豊前海が育む冬の極上天然車海老や渡り蟹、大分の誇る黒毛和牛の最高峰「おおいた豊後牛」の贅沢なすき焼き、元祖宇佐からあげ。静寂に包まれる石仏群と冬晴れの別府湾・周防灘を望み、温もりの天然温泉に癒やされる厳選名宿5選を徹底解説します。"
   }
 };
@@ -229,10 +229,7 @@ export default function OitaUsaKunisakiPage() {
             <Snowflake className="w-4 h-4 text-emerald-300" />
             11月・12月・1月冬の特選旅｜大分・宇佐＆国東半島
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">
-            全国八幡宮総本宮・宇佐神宮新春開運初詣＆国東六郷満山！<br className="hidden sm:inline" />
-            豊前海天然車海老と極上豊後牛の名宿5選
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">全国八幡宮総本宮・宇佐神宮新春開運初詣＆国東六郷満山！<br className="hidden sm:inline" /> 豊前海天然車海老と極上豊後牛の名宿5選</h1>
           <p className="text-base sm:text-lg text-emerald-100/90 leading-relaxed max-w-4xl mb-8">
             神と仏がひとつの祈りとして溶け合う神仏習合のふるさと、大分・宇佐と国東半島。全国4万4000社余の八幡宮の頂点「宇佐神宮」での新春開運初詣、平安の美を湛える九州最古の木造建築・国宝「富貴寺大堂」の静謐な冬姿。そして周防灘・豊前海が育む甘美な天然車海老と、最高峰和牛「おおいた豊後牛」の極上すき焼き、元祖宇佐からあげ。豊かな自然と歴史の深淵に触れ、心洗われる名宿をご案内します。
           </p>

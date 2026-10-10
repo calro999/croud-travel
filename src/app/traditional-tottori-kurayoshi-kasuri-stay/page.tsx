@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【倉吉絣と鳥取和牛】白壁土蔵群の伝統美と三朝温泉ラジウム名湯宿5選",
+  title: "倉吉絣と鳥取和牛：白壁土蔵群の伝統美と三朝温泉ラジウム名湯宿5選",
   description: "江戸・明治の風情が残る倉吉白壁土蔵群の伝統織物「倉吉絣」と、品評会日本一に輝いた「鳥取和牛」！世界屈指の高濃度ラジウム温泉として名高い三朝温泉で、免疫力を高める湯治と美食を堪能する極上ステイ。",
   keywords: "三朝温泉 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/traditional-tottori-kurayoshi-kasuri-stay/",
   },
   openGraph: {
-    title: "【倉吉絣と鳥取和牛】白壁土蔵群の伝統美と三朝温泉ラジウム名湯宿5選",
+    title: "倉吉絣と鳥取和牛：白壁土蔵群の伝統美と三朝温泉ラジウム名湯宿5選",
     description: "江戸・明治の風情が残る倉吉白壁土蔵群の伝統織物「倉吉絣」と、品評会日本一に輝いた「鳥取和牛」！世界屈指の高濃度ラジウム温泉として名高い三朝温泉で、免疫力を高める湯治と美食を堪能する極上ステイ。",
     url: 'https://croud-travel.pages.dev/traditional-tottori-kurayoshi-kasuri-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【倉吉絣と鳥取和牛】白壁土蔵群の伝統美と三朝温泉ラジウム名湯宿5選",
+    title: "倉吉絣と鳥取和牛：白壁土蔵群の伝統美と三朝温泉ラジウム名湯宿5選",
     description: "江戸・明治の風情が残る倉吉白壁土蔵群の伝統織物「倉吉絣」と、品評会日本一に輝いた「鳥取和牛」！世界屈指の高濃度ラジウム温泉として名高い三朝温泉で、免疫力を高める湯治と美食を堪能する極上ステイ。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>倉吉伝統美＆三朝ラジウム名湯</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【倉吉絣と鳥取和牛】白壁土蔵群の伝統美と三朝温泉ラジウム名湯宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「倉吉絣と鳥取和牛」白壁土蔵群の伝統美と三朝温泉ラジウム名湯宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             江戸・明治の風情が残る倉吉白壁土蔵群の伝統織物「倉吉絣」と、品評会日本一に輝いた「鳥取和牛」！世界屈指の高濃度ラジウム温泉として名高い三朝温泉で、免疫力を高める湯治と美食を堪能する極上ステイ。
           </p>

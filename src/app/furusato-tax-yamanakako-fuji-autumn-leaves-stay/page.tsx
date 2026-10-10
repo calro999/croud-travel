@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '富士山と紅葉の絶景コラボ！山中湖「夕焼けの渚紅葉まつり」＆忍野八海と温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】山梨',
+  title: '富士山と紅葉の絶景コラボ！山中湖「夕焼けの渚紅葉まつり」＆忍野八海と温泉名宿×ふるさと納税厳選ガイド山梨',
   description: '10月下旬〜11月中旬に開催される山中湖「夕焼けの渚 紅葉まつり」！湖畔の旭日丘緑地公園を彩るもみじのライトアップと富士山の絶景、忍野八海の神秘的な湧水、名宿「しずく」「富士マリオットホテル山中湖」「秀山荘」で個室サウナや甲州ワイン牛を堪能。楽天ふるさと納税トラベルクーポンで実質2,000円。',
   keywords: ["2026年最新秋旅", "山梨", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-yamanakako-fuji-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '富士山と紅葉の絶景コラボ！山中湖「夕焼けの渚紅葉まつり」＆忍野八海と温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】山梨',
+    title: '富士山と紅葉の絶景コラボ！山中湖「夕焼けの渚紅葉まつり」＆忍野八海と温泉名宿×ふるさと納税厳選ガイド山梨',
     description: '10月下旬〜11月中旬に開催される山中湖「夕焼けの渚 紅葉まつり」！湖畔の旭日丘緑地公園を彩るもみじのライトアップと富士山の絶景、忍野八海の神秘的な湧水、名宿「しずく」「富士マリオットホテル山中湖」「秀山荘」で個室サウナや甲州ワイン牛を堪能。楽天ふるさと納税トラベルクーポンで実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-yamanakako-fuji-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FeatureArticlePage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               富士山中湖・紅葉まつり＆忍野八海特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              富士山と紅葉の絶景コラボ！山中湖「夕焼けの渚紅葉まつり」＆忍野八海と温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】山梨
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">富士山と紅葉の絶景コラボ！山中湖「夕焼けの渚紅葉まつり」＆忍野八海と温泉名宿×ふるさと納税厳選ガイド山梨</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               10月下旬〜11月中旬に開催される山中湖「夕焼けの渚 紅葉まつり」！湖畔の旭日丘緑地公園を彩るもみじのライトアップと富士山の絶景、忍野八海の神秘的な湧水、名宿「しずく」「富士マリオットホテル山中湖」「秀山荘」で個室サウナや甲州ワイン牛を堪能。楽天ふるさと納税トラベルクーポンで実質2,000円。
             </p>

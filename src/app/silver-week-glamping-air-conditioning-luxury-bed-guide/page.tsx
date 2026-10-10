@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-air-conditioning-luxury-bed-guide/" },
-  title: "【水回り完全個別＆シモンズ製ベッド】ホテル同等以上の快適さ！潔癖派も安心の高規格グランピング ｜ 日本全国・旅宿クラウド",
+  title: "水回り完全個別＆シモンズ製ベッド：ホテル同等以上の快適さ！潔癖派も安心の高規格グランピング ｜ 日本全国・旅宿クラウド",
   description:
     "キャンプ嫌い・虫嫌い・共用トイレが苦手な女性も大満足！客室専用のシャワールーム・温水洗浄便座・冷暖房完備、一流ホテル採用のシモンズ製高級ベッドで快眠できる高規格グランピング厳選。",
   keywords: ["水回り完全個別", "シモンズ製ベッド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
@@ -176,9 +176,7 @@ export default function SilverWeekGlampingAirConditioningBedPage() {
             </span>
           </div>
 
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【水回り完全個別＆シモンズ製ベッド】ホテル同等以上の快適さ！潔癖派も安心の高規格グランピング
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「水回り完全個別＆シモンズ製ベッド」ホテル同等以上の快適さ！潔癖派も安心の高規格グランピング</h1>
 
           <p className="text-xs md:text-sm text-emerald-100/90 leading-relaxed font-medium">
             「大自然には癒やされたいけれど、共用トイレや虫、寝心地の悪さは我慢できない…。」。そんな女性やアウトドア初心者の不安を完全に解消する、ホテルグレードの高規格グランピングを厳選。客室直結の温水洗浄便座トイレ、シモンズ製極上ベッド、24時間冷暖房完備で、大自然の爽快感とシティホテルの安心感を同時に手に入れられます。

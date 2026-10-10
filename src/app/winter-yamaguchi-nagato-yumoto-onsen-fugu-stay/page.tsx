@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月長門湯本温泉】山口県産和牛！名宿5選',
+  title: '長門湯本温泉で過ごす冬の旅（11・12月）！山口県産和牛！名宿5選',
   description: '室町時代に住吉大明神の神託によって開かれた山口県最古の名湯「長門湯本温泉」。音信川のせせらぎと竹林の小径が冬の灯りに照らされる幻想的な温泉街。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '長門湯本温泉 宿泊 11月 12月, 長門湯本温泉 ふぐ 下関とらふぐ, 音信川 川床 冬灯り, 大谷山荘 長門湯本, 別邸 音信, 恩湯 美肌の湯, 山口 冬 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamaguchi-nagato-yumoto-onsen-fugu-stay/",
   },
   openGraph: {
-    title: '【11・12月長門湯本温泉】山口県産和牛！名宿5選',
+    title: '長門湯本温泉で過ごす冬の旅（11・12月）！山口県産和牛！名宿5選',
     description: '室町時代に住吉大明神の神託によって開かれた山口県最古の名湯「長門湯本温泉」。音信川のせせらぎと竹林の小径が冬の灯りに照らされる幻想的な温泉街。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-yamaguchi-nagato-yumoto-onsen-fugu-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月長門湯本温泉の冬情緒と名湯】音信川の冬灯りと開湯600年美肌泉・本場下関直送本とらふぐ＆山口県産和牛の宿5選",
+    title: "長門湯本温泉の冬情緒と名湯で過ごす冬の旅（11・12月）！音信川の冬灯りと開湯600年美肌泉・本場下関直送本とらふぐ＆山口県産和牛の宿5選",
     description: "室町時代に住吉大明神の神託によって開かれた山口県最古の名湯「長門湯本温泉」。音信川のせせらぎと竹林の小径が冬の灯りに照らされる幻想的な温泉街。pH9.6を誇る化粧水のような美肌泉と、11月〜12月に最盛期を迎える本場下関直送の「活本とらふぐ」フルコースを堪能する名宿ガイド。",
   }
 };
@@ -285,10 +285,7 @@ export default function NagatoWinterPage() {
             <Eye className="w-4 h-4 text-indigo-300" />
             <span>11月・12月限定 山口最古名湯の冬情緒＆下関直送本とらふぐ特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月長門湯本温泉の冬情緒と名湯】<br className="hidden sm:inline" />
-            音信川の冬灯りと開湯600年美肌泉・本場下関直送本とらふぐ＆山口県産和牛の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">長門湯本温泉の冬情緒と名湯で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 音信川の冬灯りと開湯600年美肌泉・本場下関直送本とらふぐ＆山口県産和牛の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             室町時代に応永の神託により拓かれた山口県最古の名湯「長門湯本温泉」。清流・音信川の川床と竹林が揺らめく灯りに包まれる初冬。pH9.6を誇る化粧水のような美肌泉と、11月〜12月に最盛期を迎える下関直送の極上「活本とらふぐ」フルコースに酔いしれる優雅な冬旅。
           </p>

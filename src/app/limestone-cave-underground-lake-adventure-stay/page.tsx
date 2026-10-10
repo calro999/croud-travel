@@ -180,9 +180,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            エメラルドに輝く神秘の地底湖！日本屈指の鍾乳洞探検と周辺名湯旅館
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">エメラルドに輝く神秘の地底湖！日本屈指の鍾乳洞探検と周辺名湯旅館</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             一歩足を踏み入れれば、そこは外気と遮断されたひんやりとした静寂の世界。無数に垂れ下がる鍾乳石の回廊を抜け、底まで見通せるほど透明なドラゴンブルーの地底湖に出会う感動。地球の息吹を間近に感じる冒険の後は、周辺の名湯で手足を伸ばして温まる旅へ。
           </p>

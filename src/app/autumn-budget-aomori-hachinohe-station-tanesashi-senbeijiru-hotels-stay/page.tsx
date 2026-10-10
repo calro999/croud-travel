@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【八戸駅・本八戸】種差海岸の秋絶景＆館鼻岸壁朝市・せんべい汁！2,000円台〜泊まれる格安ホテル5選',
+  title: '八戸駅・本八戸：種差海岸の秋絶景＆館鼻岸壁朝市・せんべい汁！2,000円台〜泊まれる格安ホテル5選',
   description: '三陸復興国立公園・種差海岸の天然芝生地と雄大な太平洋！巨大朝市「館鼻岸壁朝市」の活気や出汁が染みる名物八戸せんべい汁・前沖サバ。JR八戸駅・本八戸駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>三陸復興国立公園種差海岸＆館鼻岸壁朝市・八戸せんべい汁</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【八戸・本八戸】種差海岸の秋景＆名物せんべい汁！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「八戸・本八戸」種差海岸の秋景＆名物せんべい汁！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             波打ち際まで広がる緑の天然芝生地が美しい三陸の名勝「種差海岸（たねさしかいがん）」。日曜早朝に数万人が集う日本最大級の巨大朝市「館鼻岸壁朝市」の海鮮や名物手羽先。地鶏ガラ出汁に南部せんべいを割り入れて煮込む熱々の郷土料理「八戸せんべい汁」や脂の乗った「八戸前沖サバ」に舌鼓！八戸・本八戸駅周辺で2,000円台〜泊まれる優良ホテルを厳選。
           </p>

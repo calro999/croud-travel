@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-winter-crab-fugu-seafood-feast-stay/" },
-  title: "【冬の四大味覚極上宿】松葉ガニ・越前ガニ・下関とらふぐ・寒ブリ 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "冬の四大味覚極上宿：松葉ガニ・越前ガニ・下関とらふぐ・寒ブリ 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "冬の日本を代表する高級海鮮グルメ完全特化！山陰・北陸のタグ付き「松葉ガニ・越前ガニ」フルコース、本場下関の「天然とらふぐ刺し・ふぐちり鍋」、富山氷見＆京都伊根の「寒ブリしゃぶ」宿を徹底解説。",
   keywords: ["冬の四大味覚極上宿", "松葉ガニ", "越前ガニ", "下関とらふぐ", "寒ブリ", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function GourmetCuisineHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             WINTER SEAFOOD CRAB & FUGU GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【冬の四大味覚極上宿】松葉ガニ・越前ガニ・下関とらふぐ・寒ブリ 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「冬の四大味覚極上宿」松葉ガニ・越前ガニ・下関とらふぐ・寒ブリ 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             冬の訪れとともに解禁される日本の至高の海の幸！黄色や青のタグが輝く「松葉ガニ・越前ガニ」の茹で・焼き・カニ刺し。透き通る芸術品「下関とらふぐ」、脂の乗った「氷見・伊根の寒ブリしゃぶ」。冬の贅沢を極める温泉旅。
           </p>

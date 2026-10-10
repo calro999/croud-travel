@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/saga-ureshino-solo-retreat-onsen-stay/" },
-  title: '【嬉野温泉ひとり旅・美肌名湯おこもり】日本三大美肌の湯・嬉野茶・温泉湯豆腐！とろとろの重曹泉に包まれる贅沢ソロリトリート厳選3宿',
+  title: '嬉野温泉ひとり旅・美肌名湯おこもり：日本三大美肌の湯・嬉野茶・温泉湯豆腐！とろとろの重曹泉に包まれる贅沢ソロリトリート厳選3宿',
   description: '日本三大美肌の湯・嬉野！洋館のクラシカルな気品とイタリアンが魅力の「ハミルトン宇礼志野」、嬉野茶と自家源泉が融合した最新ラグジュアリー宿「嬉野 八十八」、嬉野川沿いで源泉かけ流しと家庭的なもてなしが愛される「松園」を徹底比較。',
   keywords: '嬉野温泉 一人旅 宿,嬉野 ホテル 一人 温泉,ハミルトン宇礼志野,嬉野 八十八,嬉野温泉 松園,嬉野 美肌の湯 ひとり旅',
   openGraph: {
-    title: '【嬉野温泉ひとり旅・美肌名湯おこもり】日本三大美肌の湯・嬉野茶・温泉湯豆腐！とろとろの重曹泉に包まれる贅沢ソロリトリート厳選3宿',
+    title: '嬉野温泉ひとり旅・美肌名湯おこもり：日本三大美肌の湯・嬉野茶・温泉湯豆腐！とろとろの重曹泉に包まれる贅沢ソロリトリート厳選3宿',
     description: '日本三大美肌の湯・嬉野！洋館のクラシカルな気品とイタリアンが魅力の「ハミルトン宇礼志野」、嬉野茶と自家源泉が融合した最新ラグジュアリー宿「嬉野 八十八」、嬉野川沿いで源泉かけ流しと家庭的なもてなしが愛される「松園」を徹底比較。',
     url: 'https://croud-travel.pages.dev/saga-ureshino-solo-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【嬉野温泉ひとり旅・美肌名湯おこもり】日本三大美肌の湯・嬉野茶・温泉湯豆腐！とろとろの重曹泉に包まれる贅沢ソロリトリート厳選3宿',
+    headline: '嬉野温泉ひとり旅・美肌名湯おこもり：日本三大美肌の湯・嬉野茶・温泉湯豆腐！とろとろの重曹泉に包まれる贅沢ソロリトリート厳選3宿',
     description: '日本三大美肌の湯・嬉野！洋館のクラシカルな気品とイタリアンが魅力の「ハミルトン宇礼志野」、嬉野茶と自家源泉が融合した最新ラグジュアリー宿「嬉野 八十八」、嬉野川沿いで源泉かけ流しと家庭的なもてなしが愛される「松園」を徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             佐賀・嬉野温泉ひとり旅＆日本三大美肌の湯おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【嬉野温泉ひとり旅・美肌名湯おこもり】日本三大美肌の湯・嬉野茶・温泉湯豆腐！とろとろの重曹泉に包まれる贅沢ソロリトリート厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「嬉野温泉ひとり旅・美肌名湯おこもり」日本三大美肌の湯・嬉野茶・温泉湯豆腐！とろとろの重曹泉に包まれる贅沢ソロリトリート厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

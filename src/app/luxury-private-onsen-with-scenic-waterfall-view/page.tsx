@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】マイナスイオンを浴びる特等席！滝見露天風呂＆大自然の隠れ家温泉宿5選 | 日本全国・旅宿クラウド',
+  title: '2026年：マイナスイオンを浴びる特等席！滝見露天風呂＆大自然の隠れ家温泉宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！豪快に流れ落ちる滝の飛沫と轟音を目の前に望む「滝見露天風呂」！四季折々の木々と清流のマイナスイオンに包まれる極上秘湯旅館5選。',
   keywords: ["2026年", "大自然の隠れ家温泉宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: '【2026年】マイナスイオンを浴びる特等席！滝見露天風呂＆大自然の隠れ家温泉宿5選',
+    title: '2026年：マイナスイオンを浴びる特等席！滝見露天風呂＆大自然の隠れ家温泉宿5選',
     description: '2026年最新！豪快に流れ落ちる滝の飛沫と轟音を目の前に望む「滝見露天風呂」！四季折々の木々と清流のマイナスイオンに包まれる極上秘湯旅館5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-waterfall-view',
@@ -193,9 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> 滝見プライベート露天×マイナスイオン秘湯
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】マイナスイオンを浴びる特等席！滝見露天風呂＆大自然の隠れ家温泉宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」マイナスイオンを浴びる特等席！滝見露天風呂＆大自然の隠れ家温泉宿5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             湯船の目の前に迫るダイナミックな滝の姿と、轟く水音、肌を潤す細やかな水飛沫。圧倒的なマイナスイオンに包まれながら、源泉掛け流しの名湯に浸かる至福の時間。日常の疲れを完全に浄化する絶景ネイチャーリトリート。
           </p>

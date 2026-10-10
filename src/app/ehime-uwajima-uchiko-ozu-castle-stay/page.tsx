@@ -5,11 +5,11 @@ import Image from 'next/image';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/ehime-uwajima-uchiko-ozu-castle-stay/" },
-  title: '【愛媛・宇和島＆内子・大洲】現存天守・鯛めし＆白壁町並み・大洲城宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+  title: '愛媛・宇和島＆内子・大洲：現存天守・鯛めし＆白壁町並み・大洲城宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
   description: '伊達十万石の城下町にして現存十二天守「宇和島城」、生卵と秘伝出汁で味わう「本場宇和島鯛めし」、重要伝統的建造物群保存地区「内子八日市・護国」の木蝋白壁の町並み、木造復元天守に泊まれる城泊で話題の「大洲城」と臥龍山荘を徹底解説。',
   keywords: ["愛媛", "宇和島", "内子", "大洲", "現存天守", "鯛めし", "白壁町並み"],
   openGraph: {
-    title: '【愛媛・宇和島＆内子・大洲】現存天守・鯛めし＆白壁町並み・大洲城宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+    title: '愛媛・宇和島＆内子・大洲：現存天守・鯛めし＆白壁町並み・大洲城宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
     description: '伊達十万石の城下町にして現存十二天守「宇和島城」、生卵と秘伝出汁で味わう「本場宇和島鯛めし」、重要伝統的建造物群保存地区「内子八日市・護国」の木蝋白壁の町並み、木造復元天守に泊まれる城泊で話題の「大洲城」と臥龍山荘を徹底解説。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/ehime-uwajima-uchiko-ozu-castle-stay',
@@ -50,9 +50,7 @@ export default function Page() {
             <span>🗺️</span>
             <span>UWAJIMA & OZU HERITAGE GUIDE</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">
-            【愛媛・宇和島＆内子・大洲】現存宇和島城・宇和島鯛めし＆内子白壁・大洲城下町宿 完全ガイド
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">「愛媛・宇和島＆内子・大洲」現存宇和島城・宇和島鯛めし＆内子白壁・大洲城下町宿 厳選ガイド</h1>
           <p className="max-w-3xl mx-auto text-stone-300 text-sm sm:text-base md:text-lg leading-relaxed mb-8">
             黒潮が洗う宇和海リアス式海岸の恵みと、伊達十万石の誇り高き文化が根付く南予地方。「現存十二天守」の一つが静かに海を見晴らす「宇和島城」。新鮮な真鯛の刺身を生卵と特製タレで熱々ご飯にかける絶品「宇和島鯛めし」。木蝋と製糸で栄えた白壁土蔵が壮麗に連なる「内子」。そして清流肱川の鵜飼いと日本初・木造天守宿泊（キャッスルステイ）で世界が注目する「伊予の小京都・大洲」。愛媛・南予の悠久の物語へご案内します。
           </p>

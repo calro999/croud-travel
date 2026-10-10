@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11月解禁！鳥取松葉ガニと三朝温泉】日本海直送タグ付き活ガニと世！名宿5選',
+  title: '解禁！鳥取松葉ガニと三朝温泉で過ごす冬の旅（11月）！日本海直送タグ付き活ガニと世！名宿5選',
   description: '11月6日解禁！境港・網代港直送のブランドタグ付き「活松葉ガニ」フルコース！開湯850年、世界有数のラドン含有量を誇る三朝温泉の奇跡のホルミシス効果に浸かり、国登録有形文化財の老舗宿や大庭園露天風呂で寛ぐ冬の至高旅。',
   keywords: '三朝温泉 松葉ガニ, 鳥取 松葉がに 旅館, 活松葉ガニ 温泉, 三朝温泉 ラジウム温泉, 境港 カニ 温泉宿, 依山楼岩崎, 旅館大橋, 冬旅行 11月 12月',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tottori-misasa-onsen-matsuba-crab-stay/",
   },
   openGraph: {
-    title: '【11月解禁！鳥取松葉ガニと三朝温泉】日本海直送タグ付き活ガニと世！名宿5選',
+    title: '解禁！鳥取松葉ガニと三朝温泉で過ごす冬の旅（11月）！日本海直送タグ付き活ガニと世！名宿5選',
     description: '11月6日解禁！境港・網代港直送のブランドタグ付き「活松葉ガニ」フルコース！開湯850年、世界有数のラドン含有量を誇る三朝温泉の奇跡のホルミシス効果に浸かり、国登録有形文化財の老舗宿や大庭園露天風呂で寛ぐ冬の至高旅。',
     url: 'https://croud-travel.pages.dev/winter-tottori-misasa-onsen-matsuba-crab-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11月解禁！鳥取松葉ガニと三朝温泉】日本海直送タグ付き活ガニと世界屈指のラジウム名湯宿5選",
+    title: "解禁！鳥取松葉ガニと三朝温泉で過ごす冬の旅（11月）！日本海直送タグ付き活ガニと世界屈指のラジウム名湯宿5選",
     description: "11月6日解禁！境港・網代港直送のブランドタグ付き「活松葉ガニ」フルコース！開湯850年、世界有数のラドン含有量を誇る三朝温泉の奇跡のホルミシス効果に浸かり、国登録有形文化財の老舗宿や大庭園露天風呂で寛ぐ冬の至高旅。",
   }
 };
@@ -266,10 +266,7 @@ export default function MisasaCrabWinterPage() {
             <Utensils className="w-4 h-4 text-amber-200" />
             <span>11月解禁！冬の味覚の王様＆世界屈指のラジウム泉</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11月解禁！鳥取松葉ガニと三朝温泉】<br className="hidden sm:inline" />
-            日本海直送タグ付き活ガニと世界屈指のラジウム名湯宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">解禁！鳥取松葉ガニと三朝温泉で過ごす冬の旅（11月）！<br className="hidden sm:inline" /> 日本海直送タグ付き活ガニと世界屈指のラジウム名湯宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             11月6日、日本海の冬を告げる松葉ガニ漁が一斉解禁。境港直送のブランドタグ付き活カニをフルコースで味わい、「三日目の朝には病が治る」と伝わる奇跡のラジウム名湯で心身を解き放つ至福の山陰ステイ。
           </p>

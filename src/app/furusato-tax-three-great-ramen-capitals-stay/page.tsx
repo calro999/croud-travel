@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-ramen-capitals-stay/" },
-  title: '日本三大ラーメン＆ご当地麺文化・名湯と屋台街の美食宿×ふるさと納税完全ガイド【2026年最新】喜多方・札幌・博多',
+  title: '日本三大ラーメン＆ご当地麺文化・名湯と屋台街の美食宿×ふるさと納税厳選ガイド喜多方・札幌・博多',
   description: '日本三大ご当地ラーメンの聖地巡礼！福島「喜多方ラーメン」飯豊山の伏流水が育む多加水熟成縮れ麺と会津芦ノ牧温泉丸峰観光ホテル、北海道「札幌味噌ラーメン」濃厚ラードと炒め野菜の黄色い縮れ麺とプレミアホテル中島公園札幌、福岡「博多長浜ラーメン」極細ストレート麺と濃厚白濁豚骨スープに屋台街直結エスペリアホテル博多。日本三大ラーメンの旅を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大ラーメン・ご当地麺特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大ラーメン＆ご当地麺文化・名湯と屋台街の美食宿×ふるさと納税完全ガイド【2026年最新】喜多方・札幌・博多',
+    title: '日本三大ラーメン＆ご当地麺文化・名湯と屋台街の美食宿×ふるさと納税厳選ガイド喜多方・札幌・博多',
     description: '日本三大ご当地ラーメンの聖地巡礼！福島「喜多方ラーメン」飯豊山の伏流水が育む多加水熟成縮れ麺と会津芦ノ牧温泉丸峰観光ホテル、北海道「札幌味噌ラーメン」濃厚ラードと炒め野菜の黄色い縮れ麺とプレミアホテル中島公園札幌、福岡「博多長浜ラーメン」極細ストレート麺と濃厚白濁豚骨スープに屋台街直結エスペリアホテル博多。日本三大ラーメンの旅を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-ramen-capitals-stay',
@@ -142,9 +142,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大ラーメン・ご当地麺特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大ラーメン＆名湯・屋台街めぐり美食宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大ラーメン＆名湯・屋台街めぐり美食宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             日本全国津々浦々にあるご当地麺のなかでも、圧倒的な知名度と歴史的背景を誇る「日本三大ラーメン」――飯豊山のまろやかな伏流水を使い「朝ラー」文化が定着した平打ち熟成多加水麺に澄んだ豚骨醤油スープが絶品の福島の「喜多方ラーメン」、極寒の北国で冷めないよう熱々のラードを張り香ばしい炒め野菜と濃厚味噌が絡み合う黄色い縮れ卵麺が特徴の北海道の「札幌味噌ラーメン」、そして替玉発祥の地として知られ白濁するまで強火で炊き出した豚骨スープに極細ストレート麺を合わせ中洲の屋台文化とともに愛される福岡の「博多ラーメン」。麺巡りの合間には美肌の温泉に浸かり、ご当地ブランド牛や市場の海鮮も味わう満腹美食旅を楽天ふるさと納税でお楽しみください。
           </p>

@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【極上うなぎ炭火焼き＆生わさび丼】静岡・伊豆修善寺の名水美食と名湯宿5選",
+  title: "極上うなぎ炭火焼き＆生わさび丼：静岡・伊豆修善寺の名水美食と名湯宿5選",
   description: "天城連山の清流が育む香り高い伊豆本わさびと、職人が秘伝のタレでふっくら香ばしく焼き上げる名物うなぎ！文学と歴史の薫る修善寺温泉や中伊豆で、名水美食と風雅な温泉に心癒やされる贅沢ステイ。",
   keywords: "修善寺温泉 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/traditional-shizuoka-unagi-wasabi-gourmet-stay/",
   },
   openGraph: {
-    title: "【極上うなぎ炭火焼き＆生わさび丼】静岡・伊豆修善寺の名水美食と名湯宿5選",
+    title: "極上うなぎ炭火焼き＆生わさび丼：静岡・伊豆修善寺の名水美食と名湯宿5選",
     description: "天城連山の清流が育む香り高い伊豆本わさびと、職人が秘伝のタレでふっくら香ばしく焼き上げる名物うなぎ！文学と歴史の薫る修善寺温泉や中伊豆で、名水美食と風雅な温泉に心癒やされる贅沢ステイ。",
     url: 'https://croud-travel.pages.dev/traditional-shizuoka-unagi-wasabi-gourmet-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【極上うなぎ炭火焼き＆生わさび丼】静岡・伊豆修善寺の名水美食と名湯宿5選",
+    title: "極上うなぎ炭火焼き＆生わさび丼：静岡・伊豆修善寺の名水美食と名湯宿5選",
     description: "天城連山の清流が育む香り高い伊豆本わさびと、職人が秘伝のタレでふっくら香ばしく焼き上げる名物うなぎ！文学と歴史の薫る修善寺温泉や中伊豆で、名水美食と風雅な温泉に心癒やされる贅沢ステイ。",
   }
 };
@@ -123,9 +123,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>修善寺名湯＆伊豆うなぎ美食</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【極上うなぎ炭火焼き＆生わさび丼】静岡・伊豆修善寺の名水美食と名湯宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「極上うなぎ炭火焼き＆生わさび丼」静岡・伊豆修善寺の名水美食と名湯宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             天城連山の清流が育む香り高い伊豆本わさびと、職人が秘伝のタレでふっくら香ばしく焼き上げる名物うなぎ！文学と歴史の薫る修善寺温泉や中伊豆で、名水美食と風雅な温泉に心癒やされる贅沢ステイ。
           </p>

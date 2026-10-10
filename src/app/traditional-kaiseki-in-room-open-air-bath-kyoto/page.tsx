@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '【2026年】古都の情緒と旬の京会席！客室露天風呂で贅沢に寛ぐ京都の隠れ家名旅館5選 ｜ 日本全国・旅宿クラウド',
+  title: '2026年：古都の情緒と旬の京会席！客室露天風呂で贅沢に寛ぐ京都の隠れ家名旅館5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！嵐山・東山・貴船など京都情緒あふれる空間で、出汁の効いた本格京料理会席とプライベート客室露天風呂を堪能できる厳選宿5選。',
   keywords: ["2026年", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/traditional-kaiseki-in-room-open-air-bath-kyoto/",
   },
   openGraph: {
-    title: '【2026年】古都の情緒と旬の京会席！客室露天風呂で贅沢に寛ぐ京都の隠れ家名旅館5選',
+    title: '2026年：古都の情緒と旬の京会席！客室露天風呂で贅沢に寛ぐ京都の隠れ家名旅館5選',
     description: '2026年最新！嵐山・東山・貴船など京都情緒あふれる空間で、出汁の効いた本格京料理会席とプライベート客室露天風呂を堪能できる厳選宿5選。',
     url: 'https://croud-travel.pages.dev/traditional-kaiseki-in-room-open-air-bath-kyoto',
     siteName: '日本全国・旅宿クラウド',
@@ -172,9 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>京会席×客室露天風呂名宿</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            【2026年】古都の情緒と旬の京会席！客室露天風呂で贅沢に寛ぐ京都の隠れ家名旅館5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」古都の情緒と旬の京会席！客室露天風呂で贅沢に寛ぐ京都の隠れ家名旅館5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             竹林の静寂や鴨川のせせらぎに包まれる古都・京都。京町家の風情を残す数寄屋造りの客室、四季の美しさを映す坪庭、そして料理人が丹精込めた旬の京会席。プライベートな客室露天風呂で贅沢な時間に浸る大人の京都ステイをご提案します。
           </p>

@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月岐阜・下呂温泉】名物飛騨牛すき焼き！名宿5選',
+  title: '岐阜・下呂温泉で過ごす冬の旅（11・12月）！名物飛騨牛すき焼き！名宿5選',
   description: '11月から12月にかけて、室町時代の儒学者・万里集九や江戸時代の儒学者・林羅山によって有馬・草津と並ぶ「日本三名泉」に称えられた岐阜県の下呂。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '下呂温泉 宿泊, 下呂温泉 水明館, 湯之島館, 小川屋, 紗々羅, みやこ, 飛騨牛 すき焼き, 朴葉味噌, 冬花火 下呂温泉, 美肌の湯, 11月 12月 下呂温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-gifu-gero-onsen-hidagyu-bihada-hanabi-stay/"
   },
   openGraph: {
-    title: '【11・12月岐阜・下呂温泉】名物飛騨牛すき焼き！名宿5選',
+    title: '岐阜・下呂温泉で過ごす冬の旅（11・12月）！名物飛騨牛すき焼き！名宿5選',
     description: '11月から12月にかけて、室町時代の儒学者・万里集九や江戸時代の儒学者・林羅山によって有馬・草津と並ぶ「日本三名泉」に称えられた岐阜県の下呂。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-gifu-gero-onsen-hidagyu-bihada-hanabi-stay',
     siteName: 'クラドトラベル',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月岐阜・下呂温泉の日本三名泉と冬花火物語】名物飛騨牛すき焼き＆朴葉味噌・極上の美肌ぬめり湯を堪能する老舗名宿5選",
+    title: "岐阜・下呂温泉の日本三名泉と冬花火物語で過ごす冬の旅（11・12月）！名物飛騨牛すき焼き＆朴葉味噌・極上の美肌ぬめり湯を堪能する老舗名宿5選",
     description: "11月から12月にかけて、室町時代の儒学者・万里集九や江戸時代の儒学者・林羅山によって有馬・草津と並ぶ「日本三名泉」に称えられた岐阜県の下呂温泉（げろおんせん）は、澄み切った初冬の空気と幻想的な温泉街の明かりが旅情をそそる最高の季節を迎えます。pH9.2前後のアルカリ性単純温泉は、入浴した瞬間に肌がツルツルと滑らかになる天然の石鹸効果を誇る「美肌の湯」。12月に入ると飛騨川河畔で毎週土曜日に「下呂温泉花火物語（冬花火）」が開催され、冬の夜空に大輪の華が咲き誇ります。夕食にはきめ細やかなサシと芳醇な香りがとろける最高級「飛騨牛」のすき焼きや陶板焼き、香ばしい「朴葉味噌（ほおばみそ）」焼き。初冬の飛騨路で極上のぬくもりに浸る厳選名宿5選を徹底解説します。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -248,12 +248,7 @@ export default function WinterGifuGeroOnsenPage() {
             11月・12月 日本三名泉＆冬花火・極上飛騨牛すき焼き特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月岐阜・下呂温泉】日本三名泉と冬花火物語
-            <span className="block text-amber-300 text-lg sm:text-2xl mt-3 font-normal">
-              名物飛騨牛すき焼き＆朴葉味噌・極上の美肌ぬめり湯を堪能する老舗名宿5選
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">岐阜・下呂温泉で過ごす冬の旅（11・12月）！日本三名泉と冬花火物語 <span className="block text-amber-300 text-lg sm:text-2xl mt-3 font-normal"> 名物飛騨牛すき焼き＆朴葉味噌・極上の美肌ぬめり湯を堪能する老舗名宿5選 </span></h1>
 
           <p className="text-sm sm:text-base text-stone-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、室町時代の儒学者・万里集九や江戸時代の儒学者・林羅山によって有馬・草津と並ぶ「日本三名泉」に称えられた岐阜県の下呂温泉（げろおんせん）は、澄み切った初冬の空気と幻想的な温泉街の明かりが旅情をそそる最高の季節を迎えます。pH9.2前後のアルカリ性単純温泉は、入浴した瞬間に肌がツルツルと滑らかになる天然の石鹸効果を誇る「美肌の湯」。12月に入ると飛騨川河畔で毎週土曜日に「下呂温泉花火物語（冬花火）」が開催され、冬の夜空に大輪の華が咲き誇ります。夕食にはきめ細やかなサシと芳醇な香りがとろける最高級「飛騨牛」のすき焼きや陶板焼き、香ばしい「朴葉味噌（ほおばみそ）」焼き。初冬の飛騨路で極上のぬくもりに浸る厳選名宿5選を徹底解説します。

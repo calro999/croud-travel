@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/ehime-uwajima-ainan-nametoko-stay/" },
-  title: "【愛媛・宇和島＆愛南・滑床渓谷】現存天守宇和島城・滑床キャニオニング＆宇和島鯛めし宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "愛媛・宇和島＆愛南・滑床渓谷：現存天守宇和島城・滑床キャニオニング＆宇和島鯛めし宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "伊達十万石の城下町とキャニオニングの聖地・愛媛宇和島＆南予エリア完全特化！現存十二天守「宇和島城」、日本の滝百選「雪輪の滝・滑床渓谷」、真珠の海「宇和海」、名物「宇和島鯛めし・愛南びやびやかつお宿」を徹底解説。",
   keywords: ["愛媛", "宇和島", "愛南", "滑床渓谷", "現存天守宇和島城", "滑床キャニオニング", "宇和島鯛めし宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             UWAJIMA & NAMETOKO GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【愛媛・宇和島＆愛南・滑床渓谷】現存天守宇和島城・滑床キャニオニング＆宇和島鯛めし宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「愛媛・宇和島＆愛南・滑床渓谷」現存天守宇和島城・滑床キャニオニング＆宇和島鯛めし宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             伊達政宗の長子・秀宗が入封した南予の城下町「宇和島」。天守が現存する貴重な名城「宇和島城」。巨大な一枚岩の滑らかな川床が続く「滑床渓谷」と雪輪の滝。宇和海で育まれた日本一の真珠と、生卵と出汁で食べる絶品「宇和島鯛めし」を味わう旅。
           </p>

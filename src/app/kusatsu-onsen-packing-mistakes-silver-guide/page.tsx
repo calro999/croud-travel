@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kusatsu-onsen-packing-mistakes-silver-guide/" },
-  title: "【草津温泉で後悔したことワースト5】銀製品が真っ黒に変色！？強酸性泉の注意点＆必須持ち物チェックリスト ｜ 日本全国・旅宿クラウド",
+  title: "草津温泉で後悔したことワースト5：銀製品が真っ黒に変色！？強酸性泉の注意点＆必須持ち物チェックリスト ｜ 日本全国・旅宿クラウド",
   description: "草津温泉に行く前に絶対読んでほしいリアル失敗談！pH2.1の強酸性泉でシルバーアクセサリーが変色する事故、湯あたり対策、白いタオルが黄色く染まる問題、持っていくべき便利グッズ完全リスト。",
   keywords: ["必須持ち物チェックリスト", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
@@ -77,10 +77,7 @@ export default function KusatsuPackingMistakesPage() {
           <div className="inline-flex items-center gap-2 bg-amber-900/40 backdrop-blur-sm border border-amber-300/40 text-amber-100 text-xs font-bold px-3.5 py-1.5 rounded-full">
             <span>⚠️</span> 実録！現地で青ざめる前に知っておくべきこと
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-[2.6rem] font-black tracking-tight leading-snug">
-            【草津温泉で後悔したことワースト5】<br />
-            銀製品が真っ黒に変色！？強酸性泉の落とし穴＆持ち物リスト
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-[2.6rem] font-black tracking-tight leading-snug">「草津温泉で後悔したことワースト5」<br /> 銀製品が真っ黒に変色！？強酸性泉の落とし穴＆持ち物リスト</h1>
           <p className="text-amber-100 text-sm md:text-base leading-relaxed max-w-2xl pt-2">
             日本屈指の天下の名湯・草津温泉。毎分3万リットル以上の湧出量とpH2.1前後の圧倒的な酸性度が魅力ですが、そのパワフルさゆえに「知らずに行って大失敗した…」と泣き寝入りする旅行者が後を絶ちません。実際のトラブル事例から学んで、万全の装備で出かけましょう！
           </p>

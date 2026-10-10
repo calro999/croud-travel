@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月蓼科温泉郷】極上信州蓼科牛ステーキ！名宿5選',
+  title: '蓼科温泉郷で過ごす冬の旅（11・12月）！極上信州蓼科牛ステーキ！名宿5選',
   description: '11月から12月にかけて、長野県・八ヶ岳連峰の裾野に広がる蓼科高原・蓼科温泉郷は、静寂な白樺林やカラマツ林が初雪に彩られ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '蓼科温泉 宿泊, 蓼科 親湯温泉, 蓼科グランドホテル滝の湯, 蓼科東急ホテル, リゾートホテル蓼科, 信州蓼科牛, 御射鹿池 11月 12月, 八ヶ岳 雪見露天風呂, 武田信玄 隠し湯',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagano-tateshina-onsen-yatsugatake-snow-shinshu-beef-stay/"
   },
   openGraph: {
-    title: '【11・12月蓼科温泉郷】極上信州蓼科牛ステーキ！名宿5選',
+    title: '蓼科温泉郷で過ごす冬の旅（11・12月）！極上信州蓼科牛ステーキ！名宿5選',
     description: '11月から12月にかけて、長野県・八ヶ岳連峰の裾野に広がる蓼科高原・蓼科温泉郷は、静寂な白樺林やカラマツ林が初雪に彩られ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-nagano-tateshina-onsen-yatsugatake-snow-shinshu-beef-stay',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -246,10 +246,7 @@ export default function NaganoTateshinaWinterFeature() {
             <Mountain className="w-4 h-4" />
             11月・12月 八ヶ岳初雪＆信玄隠し湯特集｜長野・蓼科温泉郷
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            初冬の八ヶ岳雪景色と信玄の隠し湯<br className="hidden sm:inline" />
-            極上信州蓼科牛ステーキ＆信州サーモン・新蕎麦会席を愉しむ名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">初冬の八ヶ岳雪景色と信玄の隠し湯<br className="hidden sm:inline" /> 極上信州蓼科牛ステーキ＆信州サーモン・新蕎麦会席を愉しむ名宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             静寂な白樺林に降る初雪と、神秘的な御射鹿池・蓼科湖の冬景色。武田信玄ゆかりの名湯渓流露天風呂で温まり、ジューシーな信州蓼科牛と新蕎麦を味わう、高原の大人の休日。
           </p>

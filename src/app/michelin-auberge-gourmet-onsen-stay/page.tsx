@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/michelin-auberge-gourmet-onsen-stay/" },
-  title: "【極上美食オーベルジュ温泉宿】ミシュラン星付きシェフ監修・地産地消ディナー 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "極上美食オーベルジュ温泉宿：ミシュラン星付きシェフ監修・地産地消ディナー 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "食事を目的に旅する「美食オーベルジュ温泉宿」完全特化！ミシュラン星付きシェフ監修フレンチ＆イタリアン、自家菜園の朝摘み野菜、特選ブランド和牛・朝獲れ地魚、専属ソムリエのペアリングと源泉かけ流し温泉を徹底解説。",
   keywords: ["極上美食オーベルジュ温泉宿", "ミシュラン星付きシェフ監修", "地産地消ディナー", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -89,9 +89,7 @@ export default function HeritageOnsenHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             MICHELIN AUBERGE ONEN GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【極上美食オーベルジュ温泉宿】ミシュラン星付きシェフ監修・地産地消ディナー 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「極上美食オーベルジュ温泉宿」ミシュラン星付きシェフ監修・地産地消ディナー 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             泊まれるレストラン「オーベルジュ」。その土地の風土（テロワール）を一皿に表現する一流シェフの技と、至福の源泉かけ流し温泉の融合。厳選されたヴィンテージワインのペアリングとともに、記憶に刻まれる美食の夜を。
           </p>

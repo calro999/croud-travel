@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/osaka-solo-business-sky-sauna-retreat-stay/" },
-  title: '【大阪出張・梅田ご褒美泊】地上130mスカイスパ・展望サウナ・夜景クラブラウンジ完備！ビジネス＆ソロステイ 厳選3選',
+  title: '大阪出張・梅田ご褒美泊：地上130mスカイスパ・展望サウナ・夜景クラブラウンジ完備！ビジネス＆ソロステイ 厳選3選',
   description: '西日本のビジネス中心地・大阪で、仕事の疲れを極限まで吹き飛ばし最高のインスピレーションを得る。「日本一高いインフィニティスカイスパ」を備えた最新ランドマーク「カンデオホテルズ大阪ザ・タワー」、全室高層階・英国調ラグジュアリーの極致「ホテル阪急インターナショナル」、難波のど真ん中で天然温泉とサウナを満喫する「ドーミーインPREMIUMなんばANNEX。」を徹底特集。',
   keywords: '大阪 出張 ホテル サウナ,梅田 ビジネスホテル 大浴場,カンデオホテルズ大阪ザタワー サウナ,ホテル阪急インターナショナル 一人,大阪 高級ホテル 一人ステイ',
   openGraph: {
-    title: '【大阪出張・梅田ご褒美泊】地上130mスカイスパ・展望サウナ・夜景クラブラウンジ完備！ビジネス＆ソロステイ 厳選3選',
+    title: '大阪出張・梅田ご褒美泊：地上130mスカイスパ・展望サウナ・夜景クラブラウンジ完備！ビジネス＆ソロステイ 厳選3選',
     description: '西日本のビジネス中心地・大阪で、仕事の疲れを極限まで吹き飛ばし最高のインスピレーションを得る。「日本一高いインフィニティスカイスパ」を備えた最新ランドマーク「カンデオホテルズ大阪ザ・タワー」、全室高層階・英国調ラグジュアリーの極致「ホテル阪急インターナショナル」、難波のど真ん中で天然温泉とサウナを満喫する「ドーミーインPREMIUMなんばANNEX。」を徹底特集。',
     url: 'https://croud-travel.pages.dev/osaka-solo-business-sky-sauna-retreat-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【大阪出張・梅田ご褒美泊】地上130mスカイスパ・展望サウナ・夜景クラブラウンジ完備！ビジネス＆ソロステイ 厳選3選',
+    headline: '大阪出張・梅田ご褒美泊：地上130mスカイスパ・展望サウナ・夜景クラブラウンジ完備！ビジネス＆ソロステイ 厳選3選',
     description: '西日本のビジネス中心地・大阪で、仕事の疲れを極限まで吹き飛ばし最高のインスピレーションを得る。「日本一高いインフィニティスカイスパ」を備えた最新ランドマーク「カンデオホテルズ大阪ザ・タワー」、全室高層階・英国調ラグジュアリーの極致「ホテル阪急インターナショナル」、難波のど真ん中で天然温泉とサウナを満喫する「ドーミーインPREMIUMなんばANNEX。」を徹底特集。',
     author: {
       '@type': 'Organization',
@@ -74,9 +74,7 @@ export default function ArticlePage() {
           <span>✨</span>
           <span>大阪・梅田出張＆スカイスパ特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【大阪出張・梅田ご褒美泊】地上130mスカイスパ・展望サウナ・夜景クラブラウンジ完備！ビジネス＆ソロステイ 厳選3選
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">「大阪出張・梅田ご褒美泊」地上130mスカイスパ・展望サウナ・夜景クラブラウンジ完備！ビジネス＆ソロステイ 厳選3選</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
           西日本のビジネス中心地・大阪で、仕事の疲れを極限まで吹き飛ばし最高のインスピレーションを得る。「日本一高いインフィニティスカイスパ」を備えた最新ランドマーク「カンデオホテルズ大阪ザ・タワー」、全室高層階・英国調ラグジュアリーの極致「ホテル阪急インターナショナル」、難波のど真ん中で天然温泉とサウナを満喫する「ドーミーインPREMIUMなんばANNEX。」を徹底特集。
         </p>

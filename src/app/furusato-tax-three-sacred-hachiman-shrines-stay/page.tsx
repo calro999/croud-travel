@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-sacred-hachiman-shrines-stay/" },
-  title: '日本三大八幡宮＆厄除開運・勝運祈願の聖地巡礼宿×ふるさと納税完全ガイド【2026年最新】宇佐神宮・石清水八幡宮・筥崎宮',
+  title: '日本三大八幡宮＆厄除開運・勝運祈願の聖地巡礼宿×ふるさと納税厳選ガイド宇佐神宮・石清水八幡宮・筥崎宮',
   description: '全国4万社の総本宮と国家鎮護の神域！大分宇佐「宇佐神宮」国宝本殿と宇佐ホテルリバーサイド、京都八幡「石清水八幡宮」エジソンゆかりの男山と京都竹の郷温泉ホテル京都エミナース、福岡博多「筥崎宮」勝運と敵国降伏の扁額と都ホテル博多。日本三大八幡宮の開運・厄除け祈願と名湯・グルメを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大八幡宮・開運聖地特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大八幡宮＆厄除開運・勝運祈願の聖地巡礼宿×ふるさと納税完全ガイド【2026年最新】宇佐神宮・石清水八幡宮・筥崎宮',
+    title: '日本三大八幡宮＆厄除開運・勝運祈願の聖地巡礼宿×ふるさと納税厳選ガイド宇佐神宮・石清水八幡宮・筥崎宮',
     description: '全国4万社の総本宮と国家鎮護の神域！大分宇佐「宇佐神宮」国宝本殿と宇佐ホテルリバーサイド、京都八幡「石清水八幡宮」エジソンゆかりの男山と京都竹の郷温泉ホテル京都エミナース、福岡博多「筥崎宮」勝運と敵国降伏の扁額と都ホテル博多。日本三大八幡宮の開運・厄除け祈願と名湯・グルメを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-sacred-hachiman-shrines-stay',
@@ -155,9 +155,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大八幡宮・開運聖地特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大八幡宮＆開運厄除け宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大八幡宮＆開運厄除け宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             皇室や武家からの篤い信仰を集め、全国に4万社以上点在する八幡神社の最高峰「日本三大八幡宮」――神仏習合発祥の霊地であり、一之御殿から三之御殿まで国宝の壮麗な本殿が森の中に立ち並ぶ全国八幡宮の総本宮・大分の「宇佐神宮」、平安京の裏鬼門を守護し織田信長や豊臣秀吉も社殿を修復した山上の国宝・京都の「石清水八幡宮」、そして蒙古襲来の際に神風を呼んだとされ勝運・厄除けの神として名将たちの崇敬を集めた福岡の「筥崎宮（または鎌倉鶴岡八幡宮）」。静謐な境内に足を踏み入れれば、背筋がすっと伸びるような神聖な気に包まれます。門前町や近隣の天然温泉ホテルを拠点に、厄除け祈願とともにご当地グルメや名湯を満喫する心清らかな旅を楽天ふるさと納税でお楽しみください。
           </p>

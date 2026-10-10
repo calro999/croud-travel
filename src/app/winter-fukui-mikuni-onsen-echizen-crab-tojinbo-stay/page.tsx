@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月越前三国温泉】本場越前蟹フルコース！名宿5選',
+  title: '越前三国温泉で過ごす冬の旅（11・12月）！本場越前蟹フルコース！名宿5選',
   description: '11月6日のズワイガニ漁解禁とともに、福井県・三国港は全国の美食家が押し寄せる「越前がに」の最高潮シーズンを迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '三国温泉 越前がに 宿泊, 越前三国 11月 12月, 東尋坊 冬 絶景, 越前がに 解禁 宿, 三国温泉 いそや, 三国オーシャンリゾート, 休暇村 越前三国, オーベルジュほまち 三國湊, 若狭牛 ステーキ, 福井 カニ 旅',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay/",
   },
   openGraph: {
-    title: '【11・12月越前三国温泉】本場越前蟹フルコース！名宿5選',
+    title: '越前三国温泉で過ごす冬の旅（11・12月）！本場越前蟹フルコース！名宿5選',
     description: '11月6日のズワイガニ漁解禁とともに、福井県・三国港は全国の美食家が押し寄せる「越前がに」の最高潮シーズンを迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月越前三国温泉の解禁越前がにと東尋坊冬絶景】日本海パノラマ露天風呂・本場越前蟹フルコース＆若狭牛会席の宿5選",
+    title: "越前三国温泉の解禁越前がにと東尋坊冬絶景で過ごす冬の旅（11・12月）！日本海パノラマ露天風呂・本場越前蟹フルコース＆若狭牛会席の宿5選",
     description: "11月6日のズワイガニ漁解禁とともに、福井県・三国港は全国の美食家が押し寄せる「越前がに」の最高潮シーズンを迎えます。三国港で水揚げされ黄色いタグが付けられた越前がには、皇室献上ガニとしても名高い冬の日本海の至宝。冬の荒波が打ち寄せる奇岩・東尋坊のダイナミックな景観、日本海に沈む夕日と水平線を望む三国温泉の展望露天風呂、職人が絶妙な塩加減で茹で上げる本場越前がに、花咲くカニ刺し、甲羅焼き味噌、福井の銘柄牛「若狭牛」のステーキを味わう、冬の贅を尽くした海辺の名宿5選を徹底解説。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80'],
   }
@@ -222,9 +222,7 @@ export default function FukuiMikuniWinterPage() {
             <span>11月・12月 冬の福井・越前三国特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月越前三国温泉の解禁越前がにと東尋坊冬絶景】日本海パノラマ露天風呂・本場越前蟹フルコース＆若狭牛会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">越前三国温泉の解禁越前がにと東尋坊冬絶景で過ごす冬の旅（11・12月）！日本海パノラマ露天風呂・本場越前蟹フルコース＆若狭牛会席の宿5選</h1>
 
           <p className="text-sm sm:text-base lg:text-lg text-slate-300 leading-relaxed max-w-4xl">
             11月6日のズワイガニ漁解禁を迎えると、福井県北部の港町・三国は冬の味覚の王者「越前がに」を求める美食家で熱気に包まれます。三国港に水揚げされる黄色いタグ付き越前がには、皇室献上ガニとしても名高い日本海の至宝。冬の荒波が打ち寄せる奇勝・東尋坊のダイナミックな景観、水平線に沈む夕日と漁火を望む三国温泉の展望露天風呂、職人が絶妙な塩加減で茹で上げる熱々の蟹、甘みが弾けるカニ刺し、甲羅焼き味噌、そして極上銘柄牛「若狭牛」を堪能する、贅を尽くした冬の名宿を厳選してご紹介します。

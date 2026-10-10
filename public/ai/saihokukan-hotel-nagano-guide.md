@@ -1,4 +1,4 @@
-# 【THE SAIHOKUKAN HOTEL（犀北館ホテル）】快適客室と温かいおもてなしガイドを満喫する旅ガイド（saihokukan-hotel-nagano-guide）
+# THE SAIHOKUKAN HOTEL（犀北館ホテル）：快適客室と温かいおもてなしガイドを満喫する旅ガイド（saihokukan-hotel-nagano-guide）
 
 - URL: https://croud-travel.pages.dev/posts/saihokukan-hotel-nagano-guide/
 - 宿泊施設名: THE SAIHOKUKAN HOTEL（犀北館ホテル）

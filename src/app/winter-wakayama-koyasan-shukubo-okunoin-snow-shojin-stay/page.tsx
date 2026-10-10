@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月和歌山】新春初詣！名宿5選',
+  title: '11・12・1月和歌山：新春初詣！名宿5選',
   description: '11月から1月、標高約800mの山上盆地に位置する真言密教の聖地・世界遺産「高野山」は、厳かな白銀の雪化粧に包まれる静謐な季節を迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '高野山 冬 宿坊, 奥之院 雪景色, 壇上伽藍 根本大塔, 高野山 精進料理 冬, 宿坊 不動院, 一乗院 高野山, 恵光院 阿字観, 高野山 初詣, 11月 12月 1月 和歌山旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-wakayama-koyasan-shukubo-okunoin-snow-shojin-stay/"
   },
   openGraph: {
-    title: '【11・12・1月和歌山】新春初詣！名宿5選',
+    title: '11・12・1月和歌山：新春初詣！名宿5選',
     description: '11月から1月、標高約800mの山上盆地に位置する真言密教の聖地・世界遺産「高野山」は、厳かな白銀の雪化粧に包まれる静謐な季節を迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-wakayama-koyasan-shukubo-okunoin-snow-shojin-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月和歌山】世界遺産・高野山の白銀「壇上伽藍＆奥之院」雪景色と宿坊阿字観体験＆冬の滋味精進料理・新春初詣名宿5選",
+    title: "11・12・1月和歌山：世界遺産・高野山の白銀「壇上伽藍＆奥之院」雪景色と宿坊阿字観体験＆冬の滋味精進料理・新春初詣名宿5選",
     description: "11月から1月、標高約800mの山上盆地に位置する真言密教の聖地・世界遺産「高野山」は、厳かな白銀の雪化粧に包まれる静謐な季節を迎えます。弘法大師空海が開創した「壇上伽藍」根本大塔の雪景色、樹齢数百年の杉巨木が立ち並ぶ「奥之院」参道の白銀古道。歴史ある由緒寺院の宿坊に泊まり、心を整える阿字観（瞑想）や早朝の勤行・護摩祈祷を体験。冬の身体に優しく染み渡る胡麻豆腐や高野豆腐をはじめとする伝統の「冬の精進料理」と、新春の初詣。俗世の喧騒を離れ、心身を清める冬の高野山宿坊ステイ5選をお届けします。",
     images: ['https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80']
   }
@@ -42,7 +42,7 @@ export default function WakayamaKoyasanShukuboWinterPage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: "【11・12・1月和歌山】世界遺産・高野山の白銀「壇上伽藍＆奥之院」雪景色と宿坊阿字観体験＆冬の滋味精進料理・新春初詣名宿5選",
+    headline: "11・12・1月和歌山：世界遺産・高野山の白銀「壇上伽藍＆奥之院」雪景色と宿坊阿字観体験＆冬の滋味精進料理・新春初詣名宿5選",
     description: "11月から1月、標高約800mの山上盆地に位置する真言密教の聖地・世界遺産「高野山」は、厳かな白銀の雪化粧に包まれる静謐な季節を迎えます。弘法大師空海が開創した「壇上伽藍」根本大塔の雪景色、樹齢数百年の杉巨木が立ち並ぶ「奥之院」参道の白銀古道。歴史ある由緒寺院の宿坊に泊まり、心を整える阿字観（瞑想）や早朝の勤行・護摩祈祷を体験。冬の身体に優しく染み渡る胡麻豆腐や高野豆腐をはじめとする伝統の「冬の精進料理」と、新春の初詣。俗世の喧騒を離れ、心身を清める冬の高野山宿坊ステイ5選をお届けします。",
     image: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80',
     datePublished: '',
@@ -283,9 +283,7 @@ export default function WakayamaKoyasanShukuboWinterPage() {
             <Snowflake className="w-4 h-4 text-indigo-300" />
             11月・12月・1月 冬の世界遺産高野山・白銀の壇上伽藍＆奥之院と宿坊精進料理特集
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【11・12・1月和歌山】世界遺産・高野山の白銀「壇上伽藍＆奥之院」雪景色と宿坊阿字観体験＆冬の滋味精進料理・新春初詣名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「11・12・1月和歌山」世界遺産・高野山の白銀「壇上伽藍＆奥之院」雪景色と宿坊阿字観体験＆冬の滋味精進料理・新春初詣名宿5選</h1>
           <p className="text-slate-300 text-sm sm:text-base md:text-lg max-w-3xl leading-relaxed">
             弘法大師空海が1200年前に開創した真言密教の聖地・高野山。標高約800mの山上盆地に位置するこの地は、11月から1月にかけて凛とした冷気と純白の雪に包まれます。朱色の根本大塔と白銀の雪が織りなす「壇上伽藍」、樹齢数百年のスギ巨木が立ち並ぶ「奥之院」参道の静寂古道。格式ある宿坊寺院に宿泊し、心を清める阿字観（瞑想）や早朝勤行、護摩祈祷を体験。胡麻豆腐や高野豆腐など、冬の身体を内側から浄化する伝統精進料理と新春初詣へご案内します。
           </p>

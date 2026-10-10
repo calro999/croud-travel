@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-alps-mountain-resort-trekking-stay/" },
-  title: "【日本アルプス・本格トレッキング＆山岳リゾート宿】上高地・白馬・立山黒部・涸沢 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "日本アルプス・本格トレッキング＆山岳リゾート宿：上高地・白馬・立山黒部・涸沢 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "標高3000mの稜線と白銀の氷河地形完全特化！神降る地「上高地帝国ホテル・河童橋」、白馬八方尾根・栂池自然園トレッキング、立山黒部アルペンルート・室堂平「ホテル立山」、穂高連峰涸沢カール拠点宿を徹底解説。",
   keywords: ["日本アルプス", "本格トレッキング", "山岳リゾート宿", "上高地", "白馬", "立山黒部", "涸沢"],
 };
@@ -89,9 +89,7 @@ export default function ThemeParkActivityHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             JAPAN ALPS TREKKING GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【日本アルプス・本格トレッキング＆山岳リゾート宿】上高地・白馬・立山黒部・涸沢 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「日本アルプス・本格トレッキング＆山岳リゾート宿」上高地・白馬・立山黒部・涸沢 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             梓川のエメラルドグリーンと穂高連峰の険しい岩峰「日本アルプス」。日本初の本格山岳リゾート上高地、高山植物が咲き誇る白馬八方尾根、標高2,450m日本最高所のホテル立山。雲上のパノラマと満天の天の川を仰ぐ山岳ステイへ。
           </p>

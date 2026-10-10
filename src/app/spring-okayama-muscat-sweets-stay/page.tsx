@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【フルーツ王国岡山】シャインマスカット贅沢パフェ＆美作三湯！湯原・奥津・湯郷の美食温泉宿5選",
+  title: "フルーツ王国岡山：シャインマスカット贅沢パフェ＆美作三湯！湯原・奥津・湯郷の美食温泉宿5選",
   description: "パリッと弾けるジューシーな岡山県産シャインマスカットや清水白桃の特製スイーツ！美肌の湯として名高い美作三湯（湯原・奥津・湯郷温泉）で、極上のフルーツと名湯に心ほどける温泉旅をご提案。",
   keywords: "湯原温泉 露天風呂 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/spring-okayama-muscat-sweets-stay/",
   },
   openGraph: {
-    title: "【フルーツ王国岡山】シャインマスカット贅沢パフェ＆美作三湯！湯原・奥津・湯郷の美食温泉宿5選",
+    title: "フルーツ王国岡山：シャインマスカット贅沢パフェ＆美作三湯！湯原・奥津・湯郷の美食温泉宿5選",
     description: "パリッと弾けるジューシーな岡山県産シャインマスカットや清水白桃の特製スイーツ！美肌の湯として名高い美作三湯（湯原・奥津・湯郷温泉）で、極上のフルーツと名湯に心ほどける温泉旅をご提案。",
     url: 'https://croud-travel.pages.dev/spring-okayama-muscat-sweets-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【フルーツ王国岡山】シャインマスカット贅沢パフェ＆美作三湯！湯原・奥津・湯郷の美食温泉宿5選",
+    title: "フルーツ王国岡山：シャインマスカット贅沢パフェ＆美作三湯！湯原・奥津・湯郷の美食温泉宿5選",
     description: "パリッと弾けるジューシーな岡山県産シャインマスカットや清水白桃の特製スイーツ！美肌の湯として名高い美作三湯（湯原・奥津・湯郷温泉）で、極上のフルーツと名湯に心ほどける温泉旅をご提案。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>岡山マスカット＆美作三湯</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【フルーツ王国岡山】シャインマスカット贅沢パフェ＆美作三湯！湯原・奥津・湯郷の美食温泉宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「フルーツ王国岡山」シャインマスカット贅沢パフェ＆美作三湯！湯原・奥津・湯郷の美食温泉宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             パリッと弾けるジューシーな岡山県産シャインマスカットや清水白桃の特製スイーツ！美肌の湯として名高い美作三湯（湯原・奥津・湯郷温泉）で、極上のフルーツと名湯に心ほどける温泉旅をご提案。
           </p>

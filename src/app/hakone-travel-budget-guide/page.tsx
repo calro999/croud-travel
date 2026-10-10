@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hakone-travel-budget-guide/" },
-  title: "【箱根旅行 費用】日帰り・1泊2日それぞれいくら？フリーパス活用の交通費＆温泉旅館の宿泊費シミュレーション ｜ 日本全国・旅宿クラウド",
+  title: "箱根旅行 費用：日帰り・1泊2日それぞれいくら？フリーパス活用の交通費＆温泉旅館の宿泊費シミュレーション ｜ 日本全国・旅宿クラウド",
   description: "箱根旅行の費用を日帰り・1泊2日で完全シミュレーション！箱根フリーパス（6,100円）で元を取る回り方、芦ノ湖・大涌谷・彫刻の森の入場料、箱根湯本・強羅・仙石原の温泉旅館相場まで全公開。",
   keywords: ["箱根旅行", "費用", "日帰り", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -60,9 +60,7 @@ export default function HakoneBudgetGuidePage() {
           <div className="inline-block bg-white/20 backdrop-blur-sm border border-white/30 text-white text-xs font-bold px-4 py-1.5 rounded-full">
             箱根フリーパスで元が取れるのか？を検証する実用ガイド
           </div>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif leading-tight">
-            【箱根旅行 費用】<br className="hidden md:block"/>日帰り・1泊2日それぞれいくら？
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif leading-tight">「箱根旅行 費用」<br className="hidden md:block"/>日帰り・1泊2日それぞれいくら？</h1>
           <p className="text-sm md:text-base font-medium text-orange-50 max-w-2xl">
             新宿からのロマンスカー代、大涌谷の黒たまご、彫刻の森美術館の入場料から、強羅や仙石原の温泉旅館の相場まで。リアルな出費を包み隠さず計算します。
           </p>

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/yamaguchi-hagi-nagato-yumoto-stay/" },
-  title: "【山口・萩＆長門湯本温泉】維新の城下町・川床テラス＆元乃隅神社・瓦そば宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "山口・萩＆長門湯本温泉：維新の城下町・川床テラス＆元乃隅神社・瓦そば宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "明治維新の故郷とリノベーション温泉街・山口萩＆長門湯本温泉エリア完全特化！萩城下町の白壁・夏みかん、音信川の川床テラス、アメリカCNN絶賛の「元乃隅神社」123基鳥居、名物「瓦そば・ふぐ会席宿」を徹底解説。",
   keywords: ["山口", "長門湯本温泉", "維新の城下町", "川床テラス", "元乃隅神社", "瓦そば宿", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             HAGI & NAGATO YUMOTO GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【山口・萩＆長門湯本温泉】維新の城下町・川床テラス＆元乃隅神社・瓦そば宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「山口・萩＆長門湯本温泉」維新の城下町・川床テラス＆元乃隅神社・瓦そば宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             白壁となまこ壁に夏みかんが揺れる世界遺産の城下町「萩」。音信川（おとずれがわ）沿いに川床や飛び石、竹林のライトアップが広がる「長門湯本温泉」。日本海へ連なる元乃隅神社の赤い鳥居と、熱々瓦そば・ふぐ会席を味わう旅。
           </p>

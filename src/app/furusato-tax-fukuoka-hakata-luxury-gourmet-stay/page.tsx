@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【福岡・博多×ふるさと納税】駅直結ラグジュアリー＆天然温泉スパ！もつ鍋・水炊き美食特集｜都ホテル博多・グランドハイアット・ヒルトンシーホーク',
+  title: '福岡・博多をふるさと納税でお得に旅する！駅直結ラグジュアリー＆天然温泉スパ！もつ鍋・水炊き美食特集｜都ホテル博多・グランドハイアット・ヒルトンシーホーク',
   description: 'アジアのリーダー都市・九州最大の美食シティ福岡県福岡市を楽天ふるさと納税でお得に贅沢ステイ！JR博多駅直結・屋上温泉スパ＆アウトドアプールの「都ホテル 博多」、キャナルシティ直結の国際的ラグジュアリー「グランドハイアット福岡」、博多湾オーシャンビューの「ヒルトン福岡シーホーク」を徹底比較。福岡市トラベルクーポン活用術を網羅。',
   keywords: '福岡 ふるさと納税,都ホテル博多 クーポン,グランドハイアット福岡 ふるさと納税,ヒルトン福岡シーホーク 宿泊,福岡市 ふるさと納税 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-fukuoka-hakata-luxury-gourmet-stay/",
   },
   openGraph: {
-    title: '【福岡・博多×ふるさと納税】駅直結ラグジュアリー＆天然温泉スパ！もつ鍋・水炊き美食特集｜都ホテル博多・グランドハイアット・ヒルトンシーホーク',
+    title: '福岡・博多をふるさと納税でお得に旅する！駅直結ラグジュアリー＆天然温泉スパ！もつ鍋・水炊き美食特集｜都ホテル博多・グランドハイアット・ヒルトンシーホーク',
     description: 'アジアのリーダー都市・九州最大の美食シティ福岡県福岡市を楽天ふるさと納税でお得に贅沢ステイ！JR博多駅直結・屋上温泉スパ＆アウトドアプールの「都ホテル 博多」、キャナルシティ直結の国際的ラグジュアリー「グランドハイアット福岡」、博多湾オーシャンビューの「ヒルトン福岡シーホーク」を徹底比較。福岡市トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-fukuoka-hakata-luxury-gourmet-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -24,7 +24,7 @@ export default function FurusatoArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【福岡・博多×ふるさと納税】駅直結ラグジュアリー＆天然温泉スパ！もつ鍋・水炊き美食特集｜都ホテル博多・グランドハイアット・ヒルトンシーホーク',
+    headline: '福岡・博多をふるさと納税でお得に旅する！駅直結ラグジュアリー＆天然温泉スパ！もつ鍋・水炊き美食特集｜都ホテル博多・グランドハイアット・ヒルトンシーホーク',
     description: 'アジアのリーダー都市・九州最大の美食シティ福岡県福岡市を楽天ふるさと納税でお得に贅沢ステイ！JR博多駅直結・屋上温泉スパ＆アウトドアプールの「都ホテル 博多」、キャナルシティ直結の国際的ラグジュアリー「グランドハイアット福岡」、博多湾オーシャンビューの「ヒルトン福岡シーホーク」を徹底比較。福岡市トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function FurusatoArticlePage() {
           <span>♨️</span>
           <span>福岡県福岡市（博多・天神） ふるさと納税・名湯宿特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【福岡・博多×ふるさと納税】駅直結ラグジュアリー＆天然温泉スパ！もつ鍋・水炊き美食特集｜都ホテル博多・グランドハイアット・ヒルトンシーホーク
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">福岡・博多をふるさと納税でお得に旅する！駅直結ラグジュアリー＆天然温泉スパ！もつ鍋・水炊き美食特集｜都ホテル博多・グランドハイアット・ヒルトンシーホーク</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed">
           アジアのリーダー都市・九州最大の美食シティ福岡県福岡市を楽天ふるさと納税でお得に贅沢ステイ！JR博多駅直結・屋上温泉スパ＆アウトドアプールの「都ホテル 博多」、キャナルシティ直結の国際的ラグジュアリー「グランドハイアット福岡」、博多湾オーシャンビューの「ヒルトン福岡シーホーク」を徹底比較。福岡市トラベルクーポン活用術を網羅。
         </p>

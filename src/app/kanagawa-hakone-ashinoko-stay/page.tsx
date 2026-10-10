@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kanagawa-hakone-ashinoko-stay/" },
-  title: "【箱根・芦ノ湖＆元箱根】湖畔鳥居・海賊船＆富士ビュー極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "箱根・芦ノ湖＆元箱根：湖畔鳥居・海賊船＆富士ビュー極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "箱根・芦ノ湖・元箱根エリア完全特化！箱根神社「平和の鳥居」、芦ノ湖遊覧海賊船、成川美術館、湖畔ベーカリーカフェと絶景オーシャンビューならぬレイクビュー温泉ホテルを徹底解説。",
   keywords: ["箱根", "芦ノ湖", "元箱根", "湖畔鳥居", "海賊船", "富士ビュー極上宿", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             HAKONE ASHINOKO MICRO GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【箱根・芦ノ湖＆元箱根】湖畔鳥居・海賊船＆富士ビュー極上宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「箱根・芦ノ湖＆元箱根」湖畔鳥居・海賊船＆富士ビュー極上宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             湖上に浮かぶ朱塗りの鳥居と、雪化粧した富士山の霊峰パノラマ。海賊船が行き交う波静かな芦ノ湖畔。元箱根の歴史あるパワースポットと、優雅なレイクサイドアートステイ。
           </p>

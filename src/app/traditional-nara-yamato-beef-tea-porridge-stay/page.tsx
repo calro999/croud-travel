@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【大和牛すき焼き＆名物茶粥】古都奈良の歴史浪漫と飛鳥・吉野・奈良町の名湯美食宿5選",
+  title: "大和牛すき焼き＆名物茶粥：古都奈良の歴史浪漫と飛鳥・吉野・奈良町の名湯美食宿5選",
   description: "鎌倉時代からの銘牛の血統を継ぐ「大和牛」の極上すき焼きと、ほうじ茶香る伝統の「奈良茶粥」！東大寺や春日大社、ならまち散策と合わせて楽しむ、古都の風情あふれる名湯美食旅館を厳選紹介。",
   keywords: "奈良 温泉 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/traditional-nara-yamato-beef-tea-porridge-stay/",
   },
   openGraph: {
-    title: "【大和牛すき焼き＆名物茶粥】古都奈良の歴史浪漫と飛鳥・吉野・奈良町の名湯美食宿5選",
+    title: "大和牛すき焼き＆名物茶粥：古都奈良の歴史浪漫と飛鳥・吉野・奈良町の名湯美食宿5選",
     description: "鎌倉時代からの銘牛の血統を継ぐ「大和牛」の極上すき焼きと、ほうじ茶香る伝統の「奈良茶粥」！東大寺や春日大社、ならまち散策と合わせて楽しむ、古都の風情あふれる名湯美食旅館を厳選紹介。",
     url: 'https://croud-travel.pages.dev/traditional-nara-yamato-beef-tea-porridge-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【大和牛すき焼き＆名物茶粥】古都奈良の歴史浪漫と飛鳥・吉野・奈良町の名湯美食宿5選",
+    title: "大和牛すき焼き＆名物茶粥：古都奈良の歴史浪漫と飛鳥・吉野・奈良町の名湯美食宿5選",
     description: "鎌倉時代からの銘牛の血統を継ぐ「大和牛」の極上すき焼きと、ほうじ茶香る伝統の「奈良茶粥」！東大寺や春日大社、ならまち散策と合わせて楽しむ、古都の風情あふれる名湯美食旅館を厳選紹介。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>大和牛すき焼き＆古都奈良名湯</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【大和牛すき焼き＆名物茶粥】古都奈良の歴史浪漫と飛鳥・吉野・奈良町の名湯美食宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「大和牛すき焼き＆名物茶粥」古都奈良の歴史浪漫と飛鳥・吉野・奈良町の名湯美食宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             鎌倉時代からの銘牛の血統を継ぐ「大和牛」の極上すき焼きと、ほうじ茶香る伝統の「奈良茶粥」！東大寺や春日大社、ならまち散策と合わせて楽しむ、古都の風情あふれる名湯美食旅館を厳選紹介。
           </p>

@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '【2026年】滋味あふれる天然猪肉と特製味噌出汁！名宿5選',
+  title: '2026年：滋味あふれる天然猪肉と特製味噌出汁！名宿5選',
   description: '2026年最新！丹波篠山や奥飛騨の厳選された天然イノシシ肉を美しい牡丹の花のように盛り付け、特製味噌で煮込む絶品ぼたん鍋と名湯の宿5選。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: ["2026年", "里山ジビエ会席宿5選", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hot-pot-gibier-wild-game-satoyama-stay/",
   },
   openGraph: {
-    title: '【2026年】滋味あふれる天然猪肉と特製味噌出汁！名宿5選',
+    title: '2026年：滋味あふれる天然猪肉と特製味噌出汁！名宿5選',
     description: '2026年最新！丹波篠山や奥飛騨の厳選された天然イノシシ肉を美しい牡丹の花のように盛り付け、特製味噌で煮込む絶品ぼたん鍋と名湯の宿5選。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-hot-pot-gibier-wild-game-satoyama-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -172,9 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>天然猪肉ぼたん鍋×里山ジビエ宿</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            【2026年】滋味あふれる天然猪肉と特製味噌出汁！伝統の「ぼたん鍋」＆里山ジビエ会席宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」滋味あふれる天然猪肉と特製味噌出汁！伝統の「ぼたん鍋」＆里山ジビエ会席宿5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             冬の寒さとともに脂が乗って旨味が凝縮される天然イノシシ肉。大皿に牡丹の花のように並べられた美しい霜降り肉を、地元の熟成味噌出汁で煮込む熱々のぼたん鍋。野趣あふれる里山の恵みと体の芯まで温まる名湯で冬の寒さを忘れる美味旅。
           </p>

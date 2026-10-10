@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            日本の道100選「磐梯吾妻スカイライン」錦秋パノラマと東北屈指の白濁名湯・高湯温泉ステイ
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">日本の道100選「磐梯吾妻スカイライン」錦秋パノラマと東北屈指の白濁名湯・高湯温泉ステイ</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             荒涼とした火山と燃えるような紅葉が織りなす雲上の絶景ロード。極上の乳白色名湯・高湯温泉で至福の湯治時間。
           </p>

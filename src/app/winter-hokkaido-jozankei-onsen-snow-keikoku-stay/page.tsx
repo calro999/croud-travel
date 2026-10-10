@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月定山渓温泉】北海道冬の三大蟹会席！名宿5選',
+  title: '定山渓温泉で過ごす冬の旅（11・12月）！北海道冬の三大蟹会席！名宿5選',
   description: '修験僧・美泉定山がアイヌの人々に導かれ拓いた札幌の奥座敷「定山渓温泉」。11月下旬の初雪から12月の白銀雪景色へと移ろう豊平川渓谷。冷え切った身体の芯から温もる純生の塩化物泉と、道産和牛＆北海道冬の三大蟹（毛ガニ・ズワイ・タラバ）を堪能する名宿ガイド。',
   keywords: '定山渓温泉 宿泊 11月 12月, 定山渓温泉 三大蟹 道産和牛, 札幌 奥座敷 雪見露天風呂, 定山渓第一寶亭留 翠山亭, ぬくもりの宿 ふる川, 定山渓万世閣ホテルミリオーネ, 厨翠山, 北海道 冬 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hokkaido-jozankei-onsen-snow-keikoku-stay/",
   },
   openGraph: {
-    title: '【11・12月定山渓温泉】北海道冬の三大蟹会席！名宿5選',
+    title: '定山渓温泉で過ごす冬の旅（11・12月）！北海道冬の三大蟹会席！名宿5選',
     description: '修験僧・美泉定山がアイヌの人々に導かれ拓いた札幌の奥座敷「定山渓温泉」。11月下旬の初雪から12月の白銀雪景色へと移ろう豊平川渓谷。冷え切った身体の芯から温もる純生の塩化物泉と、道産和牛＆北海道冬の三大蟹（毛ガニ・ズワイ・タラバ）を堪能する名宿ガイド。',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-jozankei-onsen-snow-keikoku-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月定山渓温泉の雪渓谷美と名湯】札幌の奥座敷・ナトリウム塩化物泉と道産和牛＆北海道冬の三大蟹会席の宿5選",
+    title: "定山渓温泉の雪渓谷美と名湯で過ごす冬の旅（11・12月）！札幌の奥座敷・ナトリウム塩化物泉と道産和牛＆北海道冬の三大蟹会席の宿5選",
     description: "修験僧・美泉定山がアイヌの人々に導かれ拓いた札幌の奥座敷「定山渓温泉」。11月下旬の初雪から12月の白銀雪景色へと移ろう豊平川渓谷。冷え切った身体の芯から温もる純生の塩化物泉と、道産和牛＆北海道冬の三大蟹（毛ガニ・ズワイ・タラバ）を堪能する名宿ガイド。",
   }
 };
@@ -285,10 +285,7 @@ export default function JozankeiWinterPage() {
             <Eye className="w-4 h-4 text-sky-300" />
             <span>11月・12月限定 札幌奥座敷の雪渓谷＆北海道三大蟹・道産和牛特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月定山渓温泉の雪渓谷美と名湯】<br className="hidden sm:inline" />
-            札幌の奥座敷・ナトリウム塩化物泉と道産和牛＆北海道冬の三大蟹会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">定山渓温泉の雪渓谷美と名湯で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 札幌の奥座敷・ナトリウム塩化物泉と道産和牛＆北海道冬の三大蟹会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             札幌駅からバスでわずか60分。支笏洞爺国立公園の白銀の原生林と豊平川の深い渓谷に佇む「定山渓温泉」。芯から温まるナトリウム塩化物泉の雪見露天風呂と、冬に旬を迎える極上毛ガニ・ズワイ・タラバの三大蟹、そしてとろける道産和牛を味わい尽くす至福の北国ステイ。
           </p>

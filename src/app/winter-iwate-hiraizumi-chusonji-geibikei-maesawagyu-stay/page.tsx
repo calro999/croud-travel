@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月岩手】猊鼻渓「雪見こたつ舟」と極上前沢牛を味わう！名宿5選',
+  title: '11・12・1月岩手：猊鼻渓「雪見こたつ舟」と極上前沢牛を味わう！名宿5選',
   description: '11月下旬から1月、岩手県南部の平泉と一関は、静寂と白銀の神秘に包まれます。奥州藤原氏が築いた世界遺産「中尊寺」では。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '平泉 中尊寺 金色堂 冬, 猊鼻渓 こたつ舟 雪見, 前沢牛 すき焼き 宿, 平泉 温泉 ホテル, しづか亭, 山桜 桃の湯, ベリーノホテル一関, 亀の井ホテル 一関, 平泉ホテル武蔵坊, 11月 12月 1月 岩手 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-iwate-hiraizumi-chusonji-geibikei-maesawagyu-stay/"
   },
   openGraph: {
-    title: '【11・12・1月岩手】猊鼻渓「雪見こたつ舟」と極上前沢牛を味わう！名宿5選',
+    title: '11・12・1月岩手：猊鼻渓「雪見こたつ舟」と極上前沢牛を味わう！名宿5選',
     description: '11月下旬から1月、岩手県南部の平泉と一関は、静寂と白銀の神秘に包まれます。奥州藤原氏が築いた世界遺産「中尊寺」では。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-iwate-hiraizumi-chusonji-geibikei-maesawagyu-stay',
     type: 'article',
@@ -236,12 +236,7 @@ export default function IwateHiraizumiGeibikeiPage() {
             11月・12月・1月 世界遺産雪景色＆雪見こたつ舟特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-tight sm:leading-snug text-stone-100 font-serif">
-            白銀の月見坂に輝く金色堂と水墨画の峡谷美<br />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-200 via-amber-300 to-yellow-200">
-              世界遺産・平泉中尊寺雪景色＆猊鼻渓「雪見こたつ舟」と極上前沢牛の名宿
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-tight sm:leading-snug text-stone-100 font-serif">白銀の月見坂に輝く金色堂と水墨画の峡谷美<br /> <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-200 via-amber-300 to-yellow-200"> 世界遺産・平泉中尊寺雪景色＆猊鼻渓「雪見こたつ舟」と極上前沢牛の名宿 </span></h1>
 
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed max-w-3xl mx-auto font-light">
             奥州藤原氏が理想とした極楽浄土の都・平泉。老杉に白雪が降り積もる静寂の「月見坂」と、黄金の輝きを放つ国宝「金色堂」。日本百景・猊鼻渓の百尺断崖に舞う雪を、温かなこたつと名物「木流し鍋」で愛でる冬限定の舟下り。そして冷えた身体を温める名湯と、最高峰ブランド「前沢牛」の極上すき焼きに満たされる至高の冬旅をご案内します。

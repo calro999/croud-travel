@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/iwate-sanriku-miyako-jodogahama-stay/" },
-  title: "【岩手・三陸宮古＆浄土ヶ浜】極楽浄土の白い奇岩・青の洞窟＆名物「瓶ドン」宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "岩手・三陸宮古＆浄土ヶ浜：極楽浄土の白い奇岩・青の洞窟＆名物「瓶ドン」宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "三陸復興国立公園の白砂と青松の絶景・岩手宮古エリア完全特化！国の名勝「浄土ヶ浜」、さっぱ船で行く「青の洞窟（八戸穴）」、三陸鉄道リアス線、三陸の海の幸を牛乳瓶に詰めた名物「瓶ドン」、宮古トラウトサーモン宿を徹底解説。",
   keywords: ["岩手", "三陸宮古", "浄土ヶ浜", "極楽浄土の白い奇岩", "青の洞窟", "名物「瓶ドン」宿", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             MIYAKO & JODOGAHAMA GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【岩手・三陸宮古＆浄土ヶ浜】極楽浄土の白い奇岩・青の洞窟＆名物「瓶ドン」宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「岩手・三陸宮古＆浄土ヶ浜」極楽浄土の白い奇岩・青の洞窟＆名物「瓶ドン」宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             まるで極楽浄土のような白流紋岩の奇岩と透明な海「浄土ヶ浜」。小型さっぱ船で潜入する神秘の青の洞窟。三陸鉄道リアス線の絶景オーシャンビュー車窓。ウニ・イクラ・サーモンがぎっしり詰まった名物「瓶ドン」を味わう三陸海岸の旅。
           </p>

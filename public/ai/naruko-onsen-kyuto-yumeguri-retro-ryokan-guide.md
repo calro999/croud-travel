@@ -1,4 +1,4 @@
-# 【鳴子温泉郷】日本屈指の多彩な泉質を巡る名湯宿7選！鳴子峡の紅葉と伝統こけしの街｜失敗しないおすすめ宿ガイド
+# 鳴子温泉郷：日本屈指の多彩な泉質を巡る名湯宿7選！鳴子峡の紅葉と伝統こけしの街｜失敗しないおすすめ宿ガイド
 
 - URL: https://croud-travel.pages.dev/posts/naruko-onsen-kyuto-yumeguri-retro-ryokan-guide/
 - 宿泊施設名: 鳴子温泉郷 極上の貸切露天風呂 旅館大沼

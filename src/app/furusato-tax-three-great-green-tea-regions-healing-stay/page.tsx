@@ -4,14 +4,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '日本三大銘茶の産地＆大茶園パノラマ・茶香炉ヒーリング宿×ふるさと納税完全ガイド【2026年最新】静岡茶・宇治茶・狭山茶（朝宮茶）',
+  title: '日本三大銘茶の産地＆大茶園パノラマ・茶香炉ヒーリング宿×ふるさと納税厳選ガイド静岡茶・宇治茶・狭山茶（朝宮茶）',
   description: '芳醇な香りと深緑の美景に癒やされるお茶ツーリズム！静岡「牧之原台地」日本一の大茶園と茶香炉アロマ・駿河湾美肌温泉、京都「宇治」千年の茶文化が息づく抹茶スイーツめぐりと宇治川料理旅館、滋賀「甲賀信楽・朝宮茶」日本最古千二百年の歴史を誇る幻の銘茶と信楽焼陶芸温泉宿。日本三大銘茶の郷を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: 'ふるさと納税, 楽天トラベル, 旅行クーポン, 宿泊記, ホテル予約, 国内旅行, おすすめ宿, 温泉旅館',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-green-tea-regions-healing-stay/",
   },
   openGraph: {
-    title: '日本三大銘茶の産地＆大茶園パノラマ・茶香炉ヒーリング宿×ふるさと納税完全ガイド【2026年最新】静岡茶・宇治茶・狭山茶（朝宮茶）',
+    title: '日本三大銘茶の産地＆大茶園パノラマ・茶香炉ヒーリング宿×ふるさと納税厳選ガイド静岡茶・宇治茶・狭山茶（朝宮茶）',
     description: '芳醇な香りと深緑の美景に癒やされるお茶ツーリズム！静岡「牧之原台地」日本一の大茶園と茶香炉アロマ・駿河湾美肌温泉、京都「宇治」千年の茶文化が息づく抹茶スイーツめぐりと宇治川料理旅館、滋賀「甲賀信楽・朝宮茶」日本最古千二百年の歴史を誇る幻の銘茶と信楽焼陶芸温泉宿。日本三大銘茶の郷を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-green-tea-regions-healing-stay',
     siteName: 'トラベル総合ナビ',
@@ -56,9 +56,7 @@ export default function Page() {
             <span>✨</span>
             <span>日本三大銘茶・茶香炉癒やし特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6 text-white drop-shadow-sm">
-            日本三大銘茶の産地＆茶香炉ヒーリング宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6 text-white drop-shadow-sm">日本三大銘茶の産地＆茶香炉ヒーリング宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-xl text-slate-200 leading-relaxed font-normal max-w-4xl">
             見渡す限りの緑の茶畑と立ちのぼる茶香炉の芳香。五感で癒やされるティーリトリートステイ
           </p>

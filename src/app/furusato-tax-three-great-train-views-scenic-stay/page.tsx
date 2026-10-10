@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '日本三大車窓を望む絶景鉄道旅と名湯リゾート宿×ふるさと納税完全ガイド【2026年最新】姨捨・肥薩線・旧狩勝峠',
+  title: '日本三大車窓を望む絶景鉄道旅と名湯リゾート宿×ふるさと納税厳選ガイド姨捨・肥薩線・旧狩勝峠',
   description: '鉄道ファンのみならず旅情をそそる日本三大車窓（長野・篠ノ井線姨捨の善光寺平、熊本・肥薩線矢岳越えの霧島連峰、北海道・旧狩勝峠の十勝平野）。車窓から望む絶景パノラマと名湯ステイ。楽天ふるさと納税宿泊クーポン完全活用。',
   keywords: ["2026年最新", "姨捨", "肥薩線", "旧狩勝峠", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-train-views-scenic-stay/",
   },
   openGraph: {
-    title: '日本三大車窓を望む絶景鉄道旅と名湯リゾート宿×ふるさと納税完全ガイド【2026年最新】姨捨・肥薩線・旧狩勝峠',
+    title: '日本三大車窓を望む絶景鉄道旅と名湯リゾート宿×ふるさと納税厳選ガイド姨捨・肥薩線・旧狩勝峠',
     description: '鉄道ファンのみならず旅情をそそる日本三大車窓（長野・篠ノ井線姨捨の善光寺平、熊本・肥薩線矢岳越えの霧島連峰、北海道・旧狩勝峠の十勝平野）。車窓から望む絶景パノラマと名湯ステイ。楽天ふるさと納税宿泊クーポン完全活用。',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-train-views-scenic-stay',
     siteName: '旅宿クラウド',
@@ -108,9 +108,7 @@ export default function FurusatoUpgradedPage() {
             <span>✨</span>
             <span>日本三大車窓・絶景鉄道ステイ特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            日本三大車窓を望む絶景鉄道旅と名湯リゾート宿×ふるさと納税完全ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">日本三大車窓を望む絶景鉄道旅と名湯リゾート宿×ふるさと納税厳選ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             列車が峠を越えた瞬間、目の前に突如として広がる息をのむ大パノラマ。「日本三大車窓」と称賛される千曲川と棚田の夜景が広がる「姨捨」、えびの高原と霧島連峰を望む「矢岳越え」、どこまでも続く地平線「狩勝峠」。鉄道の旅情と四季折々の雄大なランドスケープに酔いしれ、名湯に浸かる休日は大人の至福そのもの。楽天ふるさと納税を活用して、記憶に刻まれる絶景車窓と温泉リゾートの旅へ出かけましょう。
           </p>

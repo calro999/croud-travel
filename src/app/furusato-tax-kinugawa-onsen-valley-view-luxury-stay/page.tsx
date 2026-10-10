@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '鬼怒川渓谷の絶景と名湯！空中庭園露天風呂＆豪華100種バイキング・最高峰老舗旅館×ふるさと納税完全攻略ガイド【2026年最新】あさや・金谷ホテル・ホテル三日月',
+  title: '鬼怒川渓谷の絶景と名湯！空中庭園露天風呂＆豪華100種バイキング・最高峰老舗旅館×ふるさと納税極上旅ガイドあさや・金谷ホテル・ホテル三日月',
   description: '関東屈指の歴史を誇る名湯リゾート・鬼怒川温泉！ダイナミックな鬼怒川渓谷の巨岩と四季の景観。「鬼怒川温泉 あさや」「鬼怒川金谷ホテル」「鬼怒川温泉 日光きぬ川ホテル三日月」を、栃木県日光市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。絶景空中庭園露天風呂、ショコラバー、100種バイキングを満喫。',
   keywords: ["豪華100種バイキング", "2026年最新", "あさや", "金谷ホテル", "ホテル三日月", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kinugawa-onsen-valley-view-luxury-stay/",
   },
   openGraph: {
-    title: '鬼怒川渓谷の絶景と名湯！空中庭園露天風呂＆豪華100種バイキング・最高峰老舗旅館×ふるさと納税完全攻略ガイド【2026年最新】あさや・金谷ホテル・ホテル三日月',
+    title: '鬼怒川渓谷の絶景と名湯！空中庭園露天風呂＆豪華100種バイキング・最高峰老舗旅館×ふるさと納税極上旅ガイドあさや・金谷ホテル・ホテル三日月',
     description: '関東屈指の歴史を誇る名湯リゾート・鬼怒川温泉！ダイナミックな鬼怒川渓谷の巨岩と四季の景観。「鬼怒川温泉 あさや」「鬼怒川金谷ホテル」「鬼怒川温泉 日光きぬ川ホテル三日月」を、栃木県日光市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。絶景空中庭園露天風呂、ショコラバー、100種バイキングを満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kinugawa-onsen-valley-view-luxury-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoKinugawaOnsenValleyStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           渓谷美と名湯の競演！栃木県日光市鬼怒川温泉特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          鬼怒川渓谷の絶景と名湯！空中庭園露天風呂＆豪華100種バイキング・最高峰老舗旅館×ふるさと納税完全攻略ガイド【2026年最新】あさや・金谷ホテル・ホテル三日月
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">鬼怒川渓谷の絶景と名湯！空中庭園露天風呂＆豪華100種バイキング・最高峰老舗旅館×ふるさと納税極上旅ガイドあさや・金谷ホテル・ホテル三日月</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoKinugawaOnsenValleyStayPage() {
               それぞれの旅行スタイルに合せて選べる部屋と食事。新しい温泉リゾートの提案です。
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “バイキングが最高、また必ず泊まりたいバイキング最高でした。また鬼怒川行く時は絶対あさやに泊まりたいと思います。 ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D8643%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoKinugawaOnsenValleyStayPage() {
               大自然が織りなす渓谷美を味わい、心と身体が安らぐひとときを。
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “鬼怒川の絶景と創作料理、心温まる接客に感動クラブフロアのスイートの部屋に宿泊しました。部屋のお風呂、大きな窓から眼下に広がる鬼怒川の景観が素晴らしく、厳選された素材を使っての創作料理もとても美… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D28440%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoKinugawaOnsenValleyStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               鬼怒川温泉駅より徒歩約3分。楽天トラベル 【ブロンズ・日本の宿アワード2025】W受賞。
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “駅まで徒歩圏内だが接客と食事は期待外れチェックインでは、対応された方の案内等が不十分だなと感じました。また、あまり愛想も良くないし、こちらの質問に対してもめんどくさそう?と感じるほどでした。料理は… ”
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

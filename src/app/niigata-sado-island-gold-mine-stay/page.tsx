@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/niigata-sado-island-gold-mine-stay/" },
-  title: "【新潟・佐渡島＆相川金山】世界遺産佐渡金山・たらい舟＆尖閣湾・佐渡寒ブリ宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "新潟・佐渡島＆相川金山：世界遺産佐渡金山・たらい舟＆尖閣湾・佐渡寒ブリ宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "世界遺産登録の黄金の島・新潟佐渡島エリア完全特化！世界遺産「佐渡島の金山（道遊の割戸・北沢浮遊選鉱場）。」、小木海岸の「たらい舟体験」、国の名勝「尖閣湾」、朱鷺の保護センター、名物「佐渡寒ブリ・佐渡牛宿」を徹底解説。",
   keywords: ["新潟", "佐渡島", "相川金山", "世界遺産佐渡金山", "たらい舟", "尖閣湾", "佐渡寒ブリ宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             SADO ISLAND & GOLD MINE GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【新潟・佐渡島＆相川金山】世界遺産佐渡金山・たらい舟＆尖閣湾・佐渡寒ブリ宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「新潟・佐渡島＆相川金山」世界遺産佐渡金山・たらい舟＆尖閣湾・佐渡寒ブリ宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             日本の歴史を動かした黄金の島「佐渡島」。世界遺産に登録された佐渡金山の割戸と、緑に覆われたラピュタのような北沢浮遊選鉱場。小木の海をゆく伝統のたらい舟。日本海の荒波が育む佐渡寒ブリと佐渡牛を味わう離島リゾートへ。
           </p>

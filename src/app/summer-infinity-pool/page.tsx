@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/summer-infinity-pool/" },
-  title: "【夏休み・リゾート】絶景インフィニティプール＆オーシャンビュー宿ガイド ｜ 日本全国・旅宿クラウド",
+  title: "夏休み・リゾート：絶景インフィニティプール＆オーシャンビュー宿ガイド ｜ 日本全国・旅宿クラウド",
   description: "空と海が溶け合う絶景！沖縄（恩納村・石垣島宮古島）、和歌山白浜、関東近郊（房総鴨川）でインフィニティプールやプール付き客室を完備した極上リゾートホテルを徹底比較。",
   keywords: ["夏休み", "リゾート", "絶景インフィニティプール", "オーシャンビュー宿ガイド", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
@@ -98,9 +98,7 @@ export default function SeasonalFeaturePage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             SUMMER RESORT
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【夏休み・リゾート】絶景インフィニティプール＆オーシャンビュー宿ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「夏休み・リゾート」絶景インフィニティプール＆オーシャンビュー宿ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             どこまでも続く青い空と水平線。水面に身を委ねて夕日を眺めるインフィニティプールは夏の最高のご褒美。子連れファミリー歓迎の大型プールから大人のプライベートヴィラまで厳選紹介。
           </p>

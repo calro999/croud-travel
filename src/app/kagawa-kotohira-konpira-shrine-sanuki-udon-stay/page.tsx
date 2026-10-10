@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kagawa-kotohira-konpira-shrine-sanuki-udon-stay/" },
-  title: "【香川・琴平＆こんぴら温泉】金刀比羅宮・讃岐うどん＆名湯宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "香川・琴平＆こんぴら温泉：金刀比羅宮・讃岐うどん＆名湯宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "「さぬきのこんぴらさん」金刀比羅宮の本宮785段・奥社1368段参拝、日本最古の芝居小屋「旧金毘羅大芝居（金丸座）」、本場讃岐うどん手打ち体験＆名店巡り、名湯「こんぴら温泉郷」を徹底解説。石段街の老舗旅館や庭園露天宿を厳選。",
   keywords: ["香川", "琴平", "こんぴら温泉", "金刀比羅宮", "讃岐うどん", "名湯宿", "温泉宿"],
 };
@@ -92,9 +92,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             KOTOHIRA & KONPIRA GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【香川・琴平＆こんぴら温泉・讃岐うどん】金刀比羅宮785段階段・金丸座＆うどん宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「香川・琴平＆こんぴら温泉・讃岐うどん」金刀比羅宮785段階段・金丸座＆うどん宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-teal-100/90 leading-relaxed">
             古くから「一生に一度はこんぴら参り」と庶民の憧れを集めた海の神様「金刀比羅宮」。門前町から本宮まで785段、奥社まで1368段の石段を登り切った先に広がる讃岐平野と讃岐富士の絶景パノラマ。江戸時代の天保6年に建てられた日本最古の芝居小屋「金丸座」、本場の打ちたて讃岐うどん、そして石段登りの疲れを癒す「こんぴら温泉」のまろやかな名湯に浸かる香川・琴平ステイへご案内します。
           </p>

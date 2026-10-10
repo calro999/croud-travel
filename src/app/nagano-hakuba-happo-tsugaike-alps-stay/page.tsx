@@ -5,11 +5,11 @@ import Image from 'next/image';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagano-hakuba-happo-tsugaike-alps-stay/" },
-  title: '【長野・白馬＆八方尾根】八方池パノラマ・栂池自然園＆山岳サウナシャレー宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+  title: '長野・白馬＆八方尾根：八方池パノラマ・栂池自然園＆山岳サウナシャレー宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
   description: '白馬連峰（白馬岳・杓子岳・白馬鑓ヶ岳）を水面に映す奇跡の雲上池「八方尾根・八方池」、日本有数の高山植物の宝庫「栂池自然園」木道トレッキング、絶景山岳テラスHAKUBA MOUNTAIN HARBOR、薪サウナと信州牛を味わうマウンテンリゾート宿を徹底解説。',
   keywords: ["長野", "白馬", "八方尾根", "八方池パノラマ", "栂池自然園", "山岳サウナシャレー宿", "温泉宿"],
   openGraph: {
-    title: '【長野・白馬＆八方尾根】八方池パノラマ・栂池自然園＆山岳サウナシャレー宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+    title: '長野・白馬＆八方尾根：八方池パノラマ・栂池自然園＆山岳サウナシャレー宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
     description: '白馬連峰（白馬岳・杓子岳・白馬鑓ヶ岳）を水面に映す奇跡の雲上池「八方尾根・八方池」、日本有数の高山植物の宝庫「栂池自然園」木道トレッキング、絶景山岳テラスHAKUBA MOUNTAIN HARBOR、薪サウナと信州牛を味わうマウンテンリゾート宿を徹底解説。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/nagano-hakuba-happo-tsugaike-alps-stay',
@@ -50,9 +50,7 @@ export default function Page() {
             <span>🗺️</span>
             <span>HAKUBA & TSUGAIKE ALPS GUIDE</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">
-            【長野・白馬＆八方尾根・栂池自然園】八方池雲上鏡面絶景・栂池湿原＆マウンテンサウナ宿 完全ガイド
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">「長野・白馬＆八方尾根・栂池自然園」八方池雲上鏡面絶景・栂池湿原＆マウンテンサウナ宿 厳選ガイド</h1>
           <p className="max-w-3xl mx-auto text-stone-300 text-sm sm:text-base md:text-lg leading-relaxed mb-8">
             標高3,000m級の北アルプス後立山連峰が眼前に迫る国際的マウンテンリゾート「白馬」。ゴンドラとリフトを乗り継ぎ、雲上のトレイルを進んだ先に現れる標高2,060mの「八方池」は、白馬三山の雄姿を鏡のように映し出す奇跡の絶景。高山植物が咲き誇る「栂池自然園」の広大な湿原散歩。白馬岩岳の絶景テラスで楽しむ焼きたてクロワッサン。そして大自然の中で澄んだ雪解け水風呂に飛び込む極上の山岳サウナ。圧倒的なスケールの山岳美に抱かれる白馬ステイへご案内します。
           </p>

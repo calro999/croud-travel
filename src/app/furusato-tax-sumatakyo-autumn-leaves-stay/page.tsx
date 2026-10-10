@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '夢の吊橋のエメラルド湖面紅葉＆大井川鐵道SL列車！美肌寸又峡温泉×ふるさと納税完全ガイド【2026年最新秋旅】静岡',
+  title: '夢の吊橋のエメラルド湖面紅葉＆大井川鐵道SL列車！美肌寸又峡温泉×ふるさと納税厳選ガイド静岡',
   description: '11月上旬〜11月下旬に見頃を迎える「寸又峡（すまたきょう）・夢の吊橋」。チンダル現象による神秘のエメラルドグリーンの湖面と紅葉のパノラマ、大井川鐵道のSLやアプト式列車、名宿「翠紅苑」「川根温泉ホテル」「湯屋飛龍の宿」で美女づくりの湯と川根茶・猪鍋・静岡そだち牛を堪能。楽天ふるさと納税で実質2,000円。',
   keywords: ["夢の吊橋のエメラルド湖面紅葉", "2026年最新秋旅", "静岡", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-sumatakyo-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '夢の吊橋のエメラルド湖面紅葉＆大井川鐵道SL列車！美肌寸又峡温泉×ふるさと納税完全ガイド【2026年最新秋旅】静岡',
+    title: '夢の吊橋のエメラルド湖面紅葉＆大井川鐵道SL列車！美肌寸又峡温泉×ふるさと納税厳選ガイド静岡',
     description: '11月上旬〜11月下旬に見頃を迎える「寸又峡（すまたきょう）・夢の吊橋」。チンダル現象による神秘のエメラルドグリーンの湖面と紅葉のパノラマ、大井川鐵道のSLやアプト式列車、名宿「翠紅苑」「川根温泉ホテル」「湯屋飛龍の宿」で美女づくりの湯と川根茶・猪鍋・静岡そだち牛を堪能。楽天ふるさと納税で実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-sumatakyo-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FeatureArticlePage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               静岡・寸又峡夢の吊橋＆大井川鐵道特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              夢の吊橋のエメラルド湖面紅葉＆大井川鐵道SL列車！美肌寸又峡温泉×ふるさと納税完全ガイド【2026年最新秋旅】静岡
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">夢の吊橋のエメラルド湖面紅葉＆大井川鐵道SL列車！美肌寸又峡温泉×ふるさと納税厳選ガイド静岡</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               11月上旬〜11月下旬に見頃を迎える「寸又峡（すまたきょう）・夢の吊橋」。チンダル現象による神秘のエメラルドグリーンの湖面と紅葉のパノラマ、大井川鐵道のSLやアプト式列車、名宿「翠紅苑」「川根温泉ホテル」「湯屋飛龍の宿」で美女づくりの湯と川根茶・猪鍋・静岡そだち牛を堪能。楽天ふるさと納税で実質2,000円。
             </p>

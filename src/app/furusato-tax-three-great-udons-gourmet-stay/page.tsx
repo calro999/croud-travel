@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-udons-gourmet-stay/" },
-  title: '日本三大うどん＆名水と小麦の麺道・ご当地名湯宿×ふるさと納税完全ガイド【2026年最新】讃岐・稲庭・五島',
+  title: '日本三大うどん＆名水と小麦の麺道・ご当地名湯宿×ふるさと納税厳選ガイド讃岐・稲庭・五島',
   description: '日本屈指の麺文化を味わい尽くす！香川琴平「讃岐うどん」強烈なコシとイリコ出汁に唸る湯元こんぴら温泉華の湯紅梅亭、秋田湯沢「稲庭うどん」宮内庁御用達の絹の喉ごしと秘湯泥湯温泉奥山旅館、長崎五島列島「五島うどん」椿油とあご出汁の地獄炊きと五島コンカナ王国ワイナリー＆リゾート。日本三大うどんの聖地と極上湯を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大うどん・麺文化探訪特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大うどん＆名水と小麦の麺道・ご当地名湯宿×ふるさと納税完全ガイド【2026年最新】讃岐・稲庭・五島',
+    title: '日本三大うどん＆名水と小麦の麺道・ご当地名湯宿×ふるさと納税厳選ガイド讃岐・稲庭・五島',
     description: '日本屈指の麺文化を味わい尽くす！香川琴平「讃岐うどん」強烈なコシとイリコ出汁に唸る湯元こんぴら温泉華の湯紅梅亭、秋田湯沢「稲庭うどん」宮内庁御用達の絹の喉ごしと秘湯泥湯温泉奥山旅館、長崎五島列島「五島うどん」椿油とあご出汁の地獄炊きと五島コンカナ王国ワイナリー＆リゾート。日本三大うどんの聖地と極上湯を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-udons-gourmet-stay',
@@ -155,9 +155,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大うどん・麺文化探訪特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大うどん＆極上麺道湯宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大うどん＆極上麺道湯宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             日本各地の気候風土と名水、そして職人の手仕事によって磨き抜かれた麺料理の最高峰「日本三大うどん」――圧倒的なコシと弾力、イリコの風味豊かな黄金出汁が舌を唸らせ、うどん県として全国の巡礼者を惹きつける香川の「讃岐うどん」、平庭打ちの製法を数百年にわたり一子相伝で守り、絹のようになめらかな喉ごしがかつて宮内庁御用達にも選ばれた秋田湯沢の「稲庭うどん」、そして遣唐使の時代に伝わり島特産の椿油を練り込んで細身ながら強いコシを生み出した幻の麺・長崎の「五島うどん（地獄炊き）」。シンプルだからこそ素材の質と職人の技が極限まで問われる一杯は、旅先での体験として忘れがたい感動を与えてくれます。門前町や秘湯、離島のリゾートを拠点に、出来立てのうどんと地元食材の会席を堪能する特別な休日を楽天ふるさと納税でお楽しみください。
           </p>

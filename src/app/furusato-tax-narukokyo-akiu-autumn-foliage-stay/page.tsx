@@ -4,14 +4,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '深さ100mの絶壁が燃える錦秋絵巻！鳴子峡大紅葉＆鳴子温泉郷源泉かけ流し名宿×ふるさと納税完全ガイド【2026年最新秋旅】宮城 | 旅宿クラウド',
+  title: '深さ100mの絶壁が燃える錦秋絵巻！鳴子峡大紅葉＆鳴子温泉郷源泉かけ流し名宿×ふるさと納税厳選ガイド宮城 | 旅宿クラウド',
   description: '10月中旬〜11月上旬に見頃を迎える東北屈指の紅葉絶景「鳴子峡」。深さ約100mの大峡谷を彩る紅葉と大深沢橋を渡る列車の絶景、日本にある11の旧泉質のうち8種類が集まる奇跡の名湯「鳴子温泉郷」！「旅館大沼」「旅館すがわら」「旅館弁天閣」。仙台牛と宮城の秋の味覚を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
   keywords: ["2026年最新秋旅", "宮城", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-narukokyo-akiu-autumn-foliage-stay/"
   },
   openGraph: {
-    title: '深さ100mの絶壁が燃える錦秋絵巻！鳴子峡大紅葉＆鳴子温泉郷源泉かけ流し名宿×ふるさと納税完全ガイド【2026年最新秋旅】宮城',
+    title: '深さ100mの絶壁が燃える錦秋絵巻！鳴子峡大紅葉＆鳴子温泉郷源泉かけ流し名宿×ふるさと納税厳選ガイド宮城',
     description: '10月中旬〜11月上旬に見頃を迎える東北屈指の紅葉絶景「鳴子峡」。深さ約100mの大峡谷を彩る紅葉と大深沢橋を渡る列車の絶景、日本にある11の旧泉質のうち8種類が集まる奇跡の名湯「鳴子温泉郷」！「旅館大沼」「旅館すがわら」「旅館弁天閣」。仙台牛と宮城の秋の味覚を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-narukokyo-akiu-autumn-foliage-stay',
     siteName: '旅宿クラウド',
@@ -65,9 +65,7 @@ export default function FurusatoNarukokyoAkiuAutumnFoliageStayPage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               鳴子峡大紅葉＆鳴子温泉郷・多彩な泉質湯めぐり名宿特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              深さ100mの絶壁が燃える錦秋絵巻！鳴子峡大紅葉＆鳴子温泉郷源泉かけ流し名宿×ふるさと納税完全ガイド【2026年最新秋旅】宮城
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">深さ100mの絶壁が燃える錦秋絵巻！鳴子峡大紅葉＆鳴子温泉郷源泉かけ流し名宿×ふるさと納税厳選ガイド宮城</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               10月中旬〜11月上旬に見頃を迎える東北屈指の紅葉絶景「鳴子峡」。深さ約100mの大峡谷を彩る紅葉と大深沢橋を渡る列車の絶景、日本にある11の旧泉質のうち8種類が集まる奇跡の名湯「鳴子温泉郷」！「旅館大沼」「旅館すがわら」「旅館弁天閣」。仙台牛と宮城の秋の味覚を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。
             </p>

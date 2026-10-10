@@ -42,9 +42,7 @@ export default function Page() {
             <span className="inline-block w-2 h-2 rounded-full bg-rose-400 animate-pulse" />
             日本三大花火・光の芸術特集
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">
-            日本三大花火大会＆リバーサイド展望宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三大花火大会＆リバーサイド展望宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg md:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed font-normal">
             日本中の花火師が命を懸ける最高峰の光の芸術！新潟「長岡まつり大花火大会」信濃川を埋め尽くす復興祈願フェニックスとホテルルートイン長岡駅前、秋田「全国花火競技大会・大曲の花火」内閣総理大臣賞を争う昼夜花火とホテルルートイン大曲駅前、茨城「土浦全国花火競技大会」秋の夜空を焦がす競技玉とホテルクラウンヒルズ土浦駅東。日本三大花火の感動を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。
           </p>

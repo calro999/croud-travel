@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【久留米駅前】高良大社の紅葉パノラマ＆元祖豚骨久留米ラーメン・焼き鳥！2,000円台〜泊まれる格安ホテル5選',
+  title: '久留米駅前：高良大社の紅葉パノラマ＆元祖豚骨久留米ラーメン・焼き鳥！2,000円台〜泊まれる格安ホテル5選',
   description: '筑後国一宮・高良大社からの筑後平野秋パノラマと紅葉谷！白濁濃厚豚骨スープ発祥の「元祖久留米ラーメン」や名物ダルムの焼き鳥。九州新幹線・JR久留米駅や西鉄久留米駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>筑後国一宮高良大社の紅葉展望＆元祖濃厚豚骨久留米ラーメン・焼き鳥</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【久留米駅前】高良大社の秋景＆元祖豚骨ラーメン！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「久留米駅前」高良大社の秋景＆元祖豚骨ラーメン！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             高良山の山頂近くに鎮座する筑後国一宮「高良大社（こうらたいしゃ）」。国の重要文化財の社殿と、展望台から見渡す黄金色に実る筑後平野の秋パノラマ。白濁豚骨スープ発祥の地として全国に名を馳せる「元祖久留米ラーメン」の濃厚な呼び戻しスープや、日本一の店舗数を誇る「久留米焼き鳥（ダルム・巻物）」に舌鼓！久留米駅周辺で2,000円台〜泊まれる優良ホテルを厳選。
           </p>

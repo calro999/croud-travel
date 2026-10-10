@@ -1,4 +1,4 @@
-# 【指宿と霧島どっちがおすすめ？】鹿児島2大温泉地を徹底比較！砂むし温泉vs高原の硫黄泉
+# 指宿と霧島どっちがおすすめ？：鹿児島2大温泉地を徹底比較！砂むし温泉vs高原の硫黄泉
 
 - URL: https://croud-travel.pages.dev/posts/ibusuki-vs-kirishima-kagoshima-onsen-guide/
 - 宿泊施設名: 指宿温泉・霧島温泉 厳選比較特集

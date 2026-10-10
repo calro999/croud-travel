@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月茨城】笠間稲荷神社新春開運初詣！名宿5選',
+  title: '11・12・1月茨城：笠間稲荷神社新春開運初詣！名宿5選',
   description: '冬の茨城・水戸＆笠間は、日本三大稲荷「笠間稲荷神社」の新春初詣と、日本三名園「偕楽園」で咲き誇る気品高き早咲き冬梅を巡る歴史と開運の旅舞台。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '水戸 ホテル, 笠間稲荷神社 初詣, 水戸 偕楽園 冬梅, あんこう鍋 水戸, 常陸牛 すき焼き, 笠間焼, 水戸プラザホテル, 11月 12月 1月 茨城 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-ibaraki-mito-kasama-inari-hatsumode-ankou-hitachigyu-stay/"
   },
   openGraph: {
-    title: '【11・12・1月茨城】笠間稲荷神社新春開運初詣！名宿5選',
+    title: '11・12・1月茨城：笠間稲荷神社新春開運初詣！名宿5選',
     description: '冬の茨城・水戸＆笠間は、日本三大稲荷「笠間稲荷神社」の新春初詣と、日本三名園「偕楽園」で咲き誇る気品高き早咲き冬梅を巡る歴史と開運の旅舞台。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-ibaraki-mito-kasama-inari-hatsumode-ankou-hitachigyu-stay',
     type: 'article',
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月茨城】笠間稲荷神社新春開運初詣＆水戸偕楽園冬梅！本場濃厚あんこう鍋と極上常陸牛を味わう名宿5選",
+    title: "11・12・1月茨城：笠間稲荷神社新春開運初詣＆水戸偕楽園冬梅！本場濃厚あんこう鍋と極上常陸牛を味わう名宿5選",
     description: "冬の茨城・水戸＆笠間は、日本三大稲荷「笠間稲荷神社」の新春初詣と、日本三名園「偕楽園」で咲き誇る気品高き早咲き冬梅を巡る歴史と開運の旅舞台。常磐の冬の風物詩である本場濃厚あんこう鍋（どぶ汁仕立て）や茨城が誇る最高峰黒毛和牛「常陸牛」の極上すき焼き、歴史ある笠間焼の器で供される美食。澄み切った千波湖の冬景色や日本最大の藩校・弘道館の静寂に浸り、水戸駅・千波湖畔の上質空間で寛ぐ厳選名宿5選を徹底解説します。"
   }
 };
@@ -229,10 +229,7 @@ export default function IbarakiMitoKasamaPage() {
             <Snowflake className="w-4 h-4 text-amber-300" />
             11月・12月・1月冬の特選旅｜茨城・水戸＆笠間
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">
-            笠間稲荷神社新春開運初詣＆水戸偕楽園冬梅！<br className="hidden sm:inline" />
-            本場濃厚あんこう鍋と極上常陸牛の名宿5選
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">笠間稲荷神社新春開運初詣＆水戸偕楽園冬梅！<br className="hidden sm:inline" /> 本場濃厚あんこう鍋と極上常陸牛の名宿5選</h1>
           <p className="text-base sm:text-lg text-stone-200/90 leading-relaxed max-w-4xl mb-8">
             水戸徳川家の気風を受け継ぐ水戸と、日本三大稲荷の神威が息づく笠間。11月から1月にかけての冬期は、笠間稲荷神社の新春初詣で賑わい、日本三名園「偕楽園」では寒風の中に気品高き早咲きの冬梅が花開き始めます。そして常磐の海が育む濃厚などぶ汁風あんこう鍋と、最高峰ブランド黒毛和牛「常陸牛」の極上すき焼き。歴史と開運、至高の滋味に満たされる厳選宿をご案内します。
           </p>

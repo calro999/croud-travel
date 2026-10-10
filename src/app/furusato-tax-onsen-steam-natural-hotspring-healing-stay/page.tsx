@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '湯煙たなびく温泉街・名物地獄蒸し＆天然砂むし極上湯治宿×ふるさと納税完全ガイド【2026年最新】別府鉄輪・指宿・雲仙',
+  title: '湯煙たなびく温泉街・名物地獄蒸し＆天然砂むし極上湯治宿×ふるさと納税厳選ガイド別府鉄輪・指宿・雲仙',
   description: '地球の鼓動を全身で感じる圧巻の温泉エネルギー！至る所から白い湯煙が噴き出す大分・別府鉄輪温泉の伝統湯治宿「旅館 さくら屋」、波打ち際の地熱で全身を包み込む鹿児島・指宿温泉の名門「指宿白水館」、もうもうと立ち上る雲仙地獄とおしどりの池の静寂に抱かれる長崎「雲仙温泉 東園」。温泉の噴気で蒸し上げる滋養満点の「地獄蒸し料理」や天然デトックス浴を、楽天ふるさと納税トラベルクーポンで実質2,000円で体験する完全ガイド。',
   keywords: ["湯煙たなびく温泉街", "名物地獄蒸し", "2026年最新", "別府鉄輪", "指宿", "雲仙", "温泉宿"],
   alternates: { canonical: baseUrl + '/furusato-tax-onsen-steam-natural-hotspring-healing-stay/' },
   openGraph: {
-    title: '湯煙たなびく温泉街・名物地獄蒸し＆天然砂むし極上湯治宿×ふるさと納税完全ガイド【2026年最新】別府鉄輪・指宿・雲仙',
+    title: '湯煙たなびく温泉街・名物地獄蒸し＆天然砂むし極上湯治宿×ふるさと納税厳選ガイド別府鉄輪・指宿・雲仙',
     description: '地球の鼓動を全身で感じる圧巻の温泉エネルギー！至る所から白い湯煙が噴き出す大分・別府鉄輪温泉の伝統湯治宿「旅館 さくら屋」、波打ち際の地熱で全身を包み込む鹿児島・指宿温泉の名門「指宿白水館」、もうもうと立ち上る雲仙地獄とおしどりの池の静寂に抱かれる長崎「雲仙温泉 東園」。温泉の噴気で蒸し上げる滋養満点の「地獄蒸し料理」や天然デトックス浴を、楽天ふるさと納税トラベルクーポンで実質2,000円で体験する完全ガイド。',
     url: baseUrl + '/furusato-tax-onsen-steam-natural-hotspring-healing-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoOnsenSteamHealingStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             湯煙立ち上る温泉街・地獄蒸し＆天然砂むし湯治特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            湯煙たなびく温泉街・名物地獄蒸し＆天然砂むし極上湯治宿×ふるさと納税完全ガイド【2026年最新】別府鉄輪・指宿・雲仙
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">湯煙たなびく温泉街・名物地獄蒸し＆天然砂むし極上湯治宿×ふるさと納税厳選ガイド別府鉄輪・指宿・雲仙</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             アスファルトの隙間や湯屋の屋根からモクモクと立ち上る白い湯煙、鼻腔をくすぐるほのかな硫黄の香り、そして大地の底から湧き上がるゴボゴボという地球の息吹――日本が誇る活火山地帯の温泉地には、太古の昔から人々を惹きつけてやまない圧倒的な生命力があります。日本一の湧出量を誇る別府の中でも特に湯煙文化が色濃く残る鉄輪（かんなわ）温泉の「旅館 さくら屋」。錦江湾の波音を聴きながら、温かい天然の温泉砂に埋もれて全身の毒素を汗とともに流し出す指宿温泉の最高峰「指宿白水館」。そしてキリシタン哀史の舞台としても知られる雲仙地獄の白煙と静かな池の景観美を併せ持つ長崎・雲仙温泉の「東園」。天然の温泉蒸気で肉や野菜をジューシーに蒸し上げるヘルシーな「地獄蒸し」を味わい、豊富なミネラルを含む源泉に身を委ねる時間は、日頃のストレスや疲労を根底から解きほぐしてくれます。楽天ふるさと納税のトラベルクーポンを活用すれば、自治体を応援しながら実質自己負担2,000円でこの極上湯治ステイが実現。大地の温もりを全身で浴びる本物の温泉旅へご案内します。
           </p>

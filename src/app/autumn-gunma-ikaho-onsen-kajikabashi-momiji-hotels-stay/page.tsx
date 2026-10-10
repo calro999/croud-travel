@@ -3,11 +3,11 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【秋の伊香保温泉】河鹿橋の紅葉ライトアップと石段街レトロ散策！黄金の湯を楽しむおすすめ名宿5選【2026最新】',
+  title: '秋の伊香保温泉：河鹿橋の紅葉ライトアップと石段街レトロ散策！黄金の湯を楽しむおすすめ名宿5選「2026最新」',
   description: '伊香保温泉屈指の紅葉名所「河鹿橋」の真紅のライトアップと365段の石段街。茶褐色の名湯「黄金の湯」と透明な「白銀の湯」を満喫できる厳選宿5選。香雲館、和心の宿大森、ホテル松本楼など人気旅館を徹底比較！',
   keywords: '伊香保温泉 紅葉, 河鹿橋 ライトアップ, 伊香保 石段街 旅館, 黄金の湯 宿, 伊香保温泉 香雲館, ホテル松本楼',
   openGraph: {
-    title: '【秋の伊香保温泉】河鹿橋の紅葉ライトアップと石段街レトロ散策！黄金の湯を楽しむおすすめ名宿5選【2026最新】',
+    title: '秋の伊香保温泉：河鹿橋の紅葉ライトアップと石段街レトロ散策！黄金の湯を楽しむおすすめ名宿5選「2026最新」',
     description: '伊香保温泉屈指の紅葉名所「河鹿橋」の真紅のライトアップと365段の石段街。茶褐色の名湯「黄金の湯」を満喫！',
     type: 'article',
     url: 'https://croud-travel.com/autumn-gunma-ikaho-onsen-kajikabashi-momiji-hotels-stay',
@@ -32,9 +32,7 @@ export default function IkahoOnsenAutumnPage() {
             <span className="px-3 py-1 bg-amber-600 text-white text-xs font-bold rounded-full">秋の群馬・温泉特集</span>
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">見頃目安: 10月下旬〜11月中旬</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">
-            【秋の伊香保温泉】河鹿橋の紅葉ライトアップと石段街レトロ散策！黄金の湯を楽しむおすすめ名宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の伊香保温泉」河鹿橋の紅葉ライトアップと石段街レトロ散策！黄金の湯を楽しむおすすめ名宿5選</h1>
           <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
             朱塗りの太鼓橋「河鹿橋」を取り囲むモミジやカエデの艶やかな紅葉。夜間には幽玄なライトアップが行われ、昼夜で異なる表情を見せます。情緒あふれる365段の石段街と歴史ある名湯を心ゆくまで堪能できる宿をご紹介します。
           </p>

@@ -4,14 +4,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '黄金に輝く2.4kmの並木道！マキノ高原メタセコイア並木＆びわ湖おごと温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】滋賀 | 旅宿クラウド',
+  title: '黄金に輝く2.4kmの並木道！マキノ高原メタセコイア並木＆びわ湖おごと温泉名宿×ふるさと納税厳選ガイド滋賀 | 旅宿クラウド',
   description: '11月下旬〜12月上旬、約500本の巨木がレンガ色・黄金色に染まる日本屈指の並木道「マキノ高原メタセコイア並木」と、びわ湖畔の美肌名湯「おごと温泉」。全室客室露天風呂やレイクビューを誇る「びわこ緑水亭」「びわ湖花街道」「暖灯館 きくのや」。最高峰近江牛会席を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
   keywords: ["2026年最新秋旅", "滋賀", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-lake-biwa-metasequoia-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '黄金に輝く2.4kmの並木道！マキノ高原メタセコイア並木＆びわ湖おごと温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】滋賀',
+    title: '黄金に輝く2.4kmの並木道！マキノ高原メタセコイア並木＆びわ湖おごと温泉名宿×ふるさと納税厳選ガイド滋賀',
     description: '11月下旬〜12月上旬、約500本の巨木がレンガ色・黄金色に染まる日本屈指の並木道「マキノ高原メタセコイア並木」と、びわ湖畔の美肌名湯「おごと温泉」。全室客室露天風呂やレイクビューを誇る「びわこ緑水亭」「びわ湖花街道」「暖灯館 きくのや」。最高峰近江牛会席を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-lake-biwa-metasequoia-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -65,9 +65,7 @@ export default function FurusatoLakeBiwaMetasequoiaAutumnLeavesStayPage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               メタセコイア並木黄金紅葉＆びわ湖おごと美肌温泉旅館特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              黄金に輝く2.4kmの並木道！マキノ高原メタセコイア並木＆びわ湖おごと温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】滋賀
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">黄金に輝く2.4kmの並木道！マキノ高原メタセコイア並木＆びわ湖おごと温泉名宿×ふるさと納税厳選ガイド滋賀</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               11月下旬〜12月上旬、約500本の巨木がレンガ色・黄金色に染まる日本屈指の並木道「マキノ高原メタセコイア並木」と、びわ湖畔の美肌名湯「おごと温泉」。全室客室露天風呂やレイクビューを誇る「びわこ緑水亭」「びわ湖花街道」「暖灯館 きくのや」。最高峰近江牛会席を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。
             </p>

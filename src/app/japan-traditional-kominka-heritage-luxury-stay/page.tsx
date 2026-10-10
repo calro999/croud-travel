@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-traditional-kominka-heritage-luxury-stay/" },
-  title: "【一棟貸し古民家・登録有形文化財宿】築100年以上の歴史建築＆モダンラグジュアリー 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "一棟貸し古民家・登録有形文化財宿：築100年以上の歴史建築＆モダンラグジュアリー 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "日本の美意識と現代の快適性が調和する最高峰の隠れ家！一棟貸し古民家・登録有形文化財リノベーション宿完全特化！京都町家、信州・飛騨の豪農屋敷、瀬戸内・出雲の蔵サウナ付き邸宅、出張料理人付き古民家宿を徹底解説。",
   keywords: ["一棟貸し古民家", "登録有形文化財宿", "築100年以上の歴史建築", "モダンラグジュアリー", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
@@ -89,9 +89,7 @@ export default function LuxuryPremiumHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-gradient-to-r from-amber-300 to-amber-500 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block shadow">
             KOMINKA LUXURY GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【一棟貸し古民家・登録有形文化財宿】築100年以上の歴史建築＆モダンラグジュアリー 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「一棟貸し古民家・登録有形文化財宿」築100年以上の歴史建築＆モダンラグジュアリー 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             太い梁、黒光りする柱、土壁と坪庭。百年の時を紡ぐ日本建築の美しさをそのままに、最高級ベッドや檜風呂、薪ストーブを備えた「一棟貸し古民家ラグジュアリー宿」。誰にも邪魔されないプライベート空間で、本物の和の贅沢を味わう旅へ。
           </p>

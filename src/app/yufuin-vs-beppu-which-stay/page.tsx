@@ -7,7 +7,7 @@ import Image from "next/image";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/yufuin-vs-beppu-which-stay/" },
-  title: "【由布院 vs 別府 どっちに泊まる？】温泉の泉質・宿のタイプ・観光スポット・費用を完全比較 ｜ 日本全国・旅宿クラウド",
+  title: "由布院 vs 別府 どっちに泊まる？：温泉の泉質・宿のタイプ・観光スポット・費用を完全比較 ｜ 日本全国・旅宿クラウド",
   description: "由布院と別府、大分の温泉二大巨頭はどっちに泊まるべき？由布院（おしゃれな隠れ家宿＆金鱗湖朝霧）と別府（地獄めぐり＆砂湯＆とり天）を温泉の泉質・宿のタイプ・グルメ・費用で徹底比較。「1泊ずつハシゴ」プランも紹介。",
   keywords: ["由布院", "vs", "別府", "どっちに泊まる？", "温泉の泉質", "宿のタイプ", "観光スポット"],
 };
@@ -60,9 +60,7 @@ export default function YufuinVsBeppuPage() {
           <div className="inline-flex items-center bg-white/20 backdrop-blur-md border border-white/40 text-white text-xs font-bold px-4 py-1.5 rounded-full">
             インスタ映え派 vs 温泉ガチ勢で推しが完全に割れる2つの温泉地
           </div>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif leading-tight">
-            【由布院 vs 別府 どっちに泊まる？】<br className="hidden md:block"/>温泉の泉質・宿のタイプ・観光スポット・費用を完全比較
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif leading-tight">「由布院 vs 別府 どっちに泊まる？」<br className="hidden md:block"/>温泉の泉質・宿のタイプ・観光スポット・費用を完全比較</h1>
           <p className="text-sm md:text-base font-medium text-emerald-50 max-w-2xl leading-relaxed">
             大分が誇る温泉二大巨頭、「由布院」と「別府」。距離は近いのに、実は雰囲気も楽しみ方も全く違うんです。<br />
             「どっちに泊まるべき？」と悩むあなたのために、泉質から宿のタイプ、グルメ、費用まで徹底比較しました。

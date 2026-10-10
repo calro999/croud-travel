@@ -180,9 +180,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            青い海と島々を渡る風になれ！しまなみ海道・ビワイチ絶景サイクリスト温泉リゾート
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">青い海と島々を渡る風になれ！しまなみ海道・ビワイチ絶景サイクリスト温泉リゾート</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             瀬戸内海の多島美を望む橋の上を、爽快な潮風を浴びながら駆け抜けるしまなみ海道サイクリング。愛車をお部屋まで持ち込める専用バイクラックや安心の整備スペース、そしてライド後の筋肉をほぐす展望露天風呂。アクティブな旅を最高のホスピタリティで支える宿をご紹介します。
           </p>

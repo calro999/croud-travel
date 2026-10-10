@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '秘境百選の隠れ宿と源泉秘湯オーベルジュ×ふるさと納税完全ガイド【2026年最新】祖谷・高千穂・秋山郷',
+  title: '秘境百選の隠れ宿と源泉秘湯オーベルジュ×ふるさと納税厳選ガイド祖谷・高千穂・秋山郷',
   description: '日常を遠く離れた山深き日本の桃源郷！平家落人伝説の徳島「祖谷渓谷」、神話のふるさと宮崎「高千穂峡」、豪雪と秘湯の長野「信州秋山郷」。ケーブルカーで下る谷底露天風呂や極上宿坊を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: ["2026年最新", "祖谷", "高千穂", "秋山郷", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-top100-hidden-paradise-stay/",
   },
   openGraph: {
-    title: '秘境百選の隠れ宿と源泉秘湯オーベルジュ×ふるさと納税完全ガイド【2026年最新】祖谷・高千穂・秋山郷',
+    title: '秘境百選の隠れ宿と源泉秘湯オーベルジュ×ふるさと納税厳選ガイド祖谷・高千穂・秋山郷',
     description: '日常を遠く離れた山深き日本の桃源郷！平家落人伝説の徳島「祖谷渓谷」、神話のふるさと宮崎「高千穂峡」、豪雪と秘湯の長野「信州秋山郷」。ケーブルカーで下る谷底露天風呂や極上宿坊を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-top100-hidden-paradise-stay',
     siteName: '旅宿クラウド',
@@ -108,9 +108,7 @@ export default function FurusatoUpgradedPage() {
             <span>✨</span>
             <span>日本の秘境百選・桃源郷ステイ特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            秘境百選の隠れ宿と源泉秘湯オーベルジュ×ふるさと納税完全ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">秘境百選の隠れ宿と源泉秘湯オーベルジュ×ふるさと納税厳選ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             険しい山々を越えた先に広がる、まるで時間が止まったかのような日本の桃源郷。平家落人伝説が息づく祖谷、神話のふるさと高千穂、そして豪雪の山深くに佇む秋山郷。大自然の懐に抱かれた極上の隠れ宿で、清流のせせらぎと満天の星、滋味豊かな山菜・ジビエ料理を堪能するひとときは何物にも代えがたい贅沢です。楽天ふるさと納税を活用して、憧れの秘境ステイを賢く叶えましょう。
           </p>

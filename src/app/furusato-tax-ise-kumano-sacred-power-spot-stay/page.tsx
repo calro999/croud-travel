@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-ise-kumano-sacred-power-spot-stay/" },
-  title: '【お伊勢参り＆熊野古道×ふるさと納税】日本最強パワースポット巡礼と心洗われる老舗門前宿ガイド | クラウドトラベル',
+  title: 'お伊勢参り＆熊野古道をふるさと納税でお得に旅する！日本最強パワースポット巡礼と心洗われる老舗門前宿ガイド | クラウドトラベル',
   description: '一生に一度はお伊勢参り、よみがえりの聖地・熊野三山、神々の集う出雲大社。日本屈指の聖地を巡る祈願の旅を楽天ふるさと納税で賢く予約。早朝参拝に便利な門前宿や禊の温泉宿完全ガイド。',
   openGraph: {
-    title: '【お伊勢参り＆熊野古道×ふるさと納税】日本最強パワースポット巡礼と心洗われる老舗門前宿ガイド | クラウドトラベル',
+    title: 'お伊勢参り＆熊野古道をふるさと納税でお得に旅する！日本最強パワースポット巡礼と心洗われる老舗門前宿ガイド | クラウドトラベル',
     description: '一生に一度はお伊勢参り、よみがえりの聖地・熊野三山、神々の集う出雲大社。日本屈指の聖地を巡る祈願の旅を楽天ふるさと納税で賢く予約。早朝参拝に便利な門前宿や禊の温泉宿完全ガイド。',
     type: 'article',
   },
@@ -59,9 +59,7 @@ export default function Page() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             ふるさと納税×聖地巡礼・パワースポット宿
           </div>
-          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            【お伊勢参り＆熊野古道×ふるさと納税】日本最強パワースポット巡礼と心洗われる老舗門前宿ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">お伊勢参り＆熊野古道をふるさと納税でお得に旅する！日本最強パワースポット巡礼と心洗われる老舗門前宿ガイド</h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl mb-6">
             日本人の心のふるさと「伊勢神宮」、深い緑の石畳が祈りの道として世界遺産に登録された「熊野古道と熊野三山」、そして八百万の神々が集い良縁を結ぶ「出雲大社」。古くから「一生に一度はお参りしたい」と人々が列をなした日本屈指の聖地を巡る旅は、日頃の感謝を捧げ、新たな活力を授かる特別なスピリチュアルトリップです。こうした聖地巡礼で最もおすすめしたいのが、静寂に包まれた「早朝参拝」が叶う門前町の宿や、参拝前に心身を清める「禊（みそぎ）の湯」を持つ温泉旅館への宿泊です。楽天ふるさと納税のトラベルクーポンを活用すれば、自治体への寄付を通じて伝統ある神域の保全に貢献しつつ、老舗旅館や格式あるホテルに実質30％割引でステイ可能。松阪牛や伊勢海老、勝浦の生まぐろ、日本海の出雲そばなど門前町のごちそうを味わい、清らかな心で未来への一歩を踏み出す旅へ出かけませんか。
           </p>

@@ -5,14 +5,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月山梨】日蓮宗総本山「身延山久遠寺」！名宿5選',
+  title: '11・12・1月山梨：日蓮宗総本山「身延山久遠寺」！名宿5選',
   description: '山梨県南部、富士川の清流と峻嶺な山々に抱かれた身延・下部エリア。11〜1月は澄み渡る冬晴れの下、日蓮宗総本山「身延山久遠寺」が荘厳な冬景色に包まれます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '身延山久遠寺 初詣, 奥之院思親閣 富士山, 身延山ロープウェイ 冬, 下部温泉 ぬる湯治, 下部ホテル, 旅館田中屋 身延山, 身延ゆば 会席, 富士川 冬 観光, 山梨 冬 旅行',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-yamanashi-minobusan-kuonji-hatsumode-shimobe-onsen-yuba-stay'
   },
   openGraph: {
-    title: '【11・12・1月山梨】日蓮宗総本山「身延山久遠寺」！名宿5選',
+    title: '11・12・1月山梨：日蓮宗総本山「身延山久遠寺」！名宿5選',
     description: '山梨県南部、富士川の清流と峻嶺な山々に抱かれた身延・下部エリア。11〜1月は澄み渡る冬晴れの下、日蓮宗総本山「身延山久遠寺」が荘厳な冬景色に包まれます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-yamanashi-minobusan-kuonji-hatsumode-shimobe-onsen-yuba-stay',
     siteName: 'クラドトラベル',
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月山梨】日蓮宗総本山「身延山久遠寺」白銀の奥之院思親閣新春初詣と三門・千本杉！富士川冬景色・名物身延湯葉会席＆信玄隠し湯「下部温泉」ぬる湯治厳選名宿5選",
+    title: "11・12・1月山梨：日蓮宗総本山「身延山久遠寺」白銀の奥之院思親閣新春初詣と三門・千本杉！富士川冬景色・名物身延湯葉会席＆信玄隠し湯「下部温泉」ぬる湯治厳選名宿5選",
     description: "山梨県南部、富士川の清流と峻嶺な山々に抱かれた身延・下部エリア。11〜1月は澄み渡る冬晴れの下、日蓮宗総本山「身延山久遠寺」が荘厳な冬景色に包まれます。標高1153mの奥之院思親閣からは冠雪の富士山と駿河湾を一望し、樹齢400年を超える千本杉や国登録有形文化財の三門で迎える清冽な新春初詣。滋味豊かな伝統「身延山ゆば料理」を賞味し、武田信玄公が川中島の傷を癒やしたと伝わる名湯百選「下部温泉」のぬる湯治を満喫する、冬の開運紀行と厳選名宿5選。",
     images: ['https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=1200&q=80']
   }
@@ -290,11 +290,7 @@ export default function YamanashiMinobusanWinterFeaturePage() {
               <Sparkles className="w-4 h-4 text-indigo-400" />
               11月・12月・1月冬の山梨・富士川探訪スペシャル
             </div>
-            <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight mb-6">
-              【山梨・身延山久遠寺＆下部温泉】<br className="hidden sm:inline" />
-              日蓮宗総本山「身延山久遠寺」白銀の奥之院新春初詣と三門！<br />
-              富士川冬景色・名物身延湯葉会席＆信玄隠し湯「下部温泉」名宿
-            </h1>
+            <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight mb-6">「山梨・身延山久遠寺＆下部温泉」<br className="hidden sm:inline" /> 日蓮宗総本山「身延山久遠寺」白銀の奥之院新春初詣と三門！<br /> 富士川冬景色・名物身延湯葉会席＆信玄隠し湯「下部温泉」名宿</h1>
             <p className="text-sm sm:text-base md:text-lg text-stone-300 leading-relaxed max-w-3xl mx-auto mb-8 font-normal">
               峻嶺な山々と富士川の清流に抱かれた甲州の聖地・身延。冬晴れの澄んだ青空の下、標高1153mの身延山山頂「奥之院思親閣」から拝する雪化粧の富士山と駿河湾の大パノラマ。750年の歴史を紡ぐ日蓮宗総本山久遠寺の厳かな新春初詣と千本杉の静寂。大豆の旨味が凝縮した伝統の「身延山ゆば会席」に舌鼓を打ち、武田信玄公の隠し湯として名高い「下部温泉」のぬる湯治で心身を解きほぐす開運湯旅をご案内します。
             </p>

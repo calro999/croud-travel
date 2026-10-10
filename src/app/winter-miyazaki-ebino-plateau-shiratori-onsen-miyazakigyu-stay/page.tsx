@@ -13,13 +13,13 @@ import {
 } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "【霧島連山樹氷と西郷隆盛癒やしの白鳥温泉】2026-2027年冬の宮崎・えびの＆小林！最高峰宮崎牛名宿5選 ｜ 日本全国・旅宿クラウド",
+  title: "霧島連山樹氷と西郷隆盛癒やしの白鳥温泉：2026-2027年冬の宮崎・えびの＆小林！最高峰宮崎牛名宿5選 ｜ 日本全国・旅宿クラウド",
   description: "標高1,200mの白銀世界が広がるえびの高原の樹氷と白鳥神社新春初詣！西郷どんが愛した名湯「白鳥温泉」の展望露天と天然蒸し風呂、日本一の栄冠に輝く最高峰「宮崎牛」極上すき焼きに心満たされる南国宮崎の冬名宿5選。",
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-miyazaki-ebino-plateau-shiratori-onsen-miyazakigyu-stay",
   },
   openGraph: {
-    title: "【霧島連山樹氷と西郷隆盛癒やしの白鳥温泉】2026-2027年冬の宮崎・えびの＆小林！最高峰宮崎牛名宿5選",
+    title: "霧島連山樹氷と西郷隆盛癒やしの白鳥温泉：2026-2027年冬の宮崎・えびの＆小林！最高峰宮崎牛名宿5選",
     description: "標高1,200mの白銀世界が広がるえびの高原の樹氷と白鳥神社新春初詣！西郷どんが愛した名湯「白鳥温泉」の展望露天と天然蒸し風呂、日本一の栄冠に輝く最高峰「宮崎牛」極上すき焼きに心満たされる南国宮崎の冬名宿5選。",
     url: "https://croud-travel.pages.dev/winter-miyazaki-ebino-plateau-shiratori-onsen-miyazakigyu-stay",
     siteName: "日本全国・旅宿クラウド",
@@ -36,7 +36,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "【霧島連山樹氷と西郷隆盛癒やしの白鳥温泉】2026-2027年冬の宮崎・えびの＆小林！最高峰宮崎牛名宿5選",
+    title: "霧島連山樹氷と西郷隆盛癒やしの白鳥温泉：2026-2027年冬の宮崎・えびの＆小林！最高峰宮崎牛名宿5選",
     description: "標高1,200mの白銀世界が広がるえびの高原の樹氷と白鳥神社新春初詣！西郷どんが愛した名湯「白鳥温泉」の展望露天と天然蒸し風呂、日本一の栄冠に輝く最高峰「宮崎牛」極上すき焼きに心満たされる南国宮崎の冬名宿5選。",
     images: ["https://img.travel.rakuten.co.jp/share/HOTEL/142559/142559.jpg"],
   },
@@ -167,9 +167,7 @@ export default function FeaturePage() {
               </span>
             </div>
 
-            <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold leading-tight">
-              【霧島連山樹氷と西郷隆盛癒やしの白鳥温泉】2026-2027年冬の宮崎・えびの＆小林！最高峰宮崎牛名宿5選
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold leading-tight">「霧島連山樹氷と西郷隆盛癒やしの白鳥温泉」2026-2027年冬の宮崎・えびの＆小林！最高峰宮崎牛名宿5選</h1>
 
             <p className="text-stone-300 text-xs sm:text-sm leading-relaxed max-w-3xl pt-2">
               南国宮崎のイメージを覆す、標高約1,200mの白銀世界が広がる霧島連山の北部「えびの高原」。日本初の国立公園に指定されたこの大自然は、11月から1月の冬期を迎えると、名峰・韓国岳（からくにだけ）や白鳥山を取り囲む木々が真っ白な霧氷（樹氷）で覆われ、どこまでも澄み渡る群青の空との圧倒的なコントラストを現出します。日本最南端の屋外アイススケート場としても知られ、冬ならではのアクティビティと絶景を楽しむ人々を魅了。そして高原の山懐に湧くのが、明治の英傑・西郷隆盛が逗留して心身の傷を癒やしたと伝わる名湯「白鳥温泉（上湯・下湯）」。地熱の蒸気を利用した天然蒸し風呂や、霧島連山を見晴らす絶景露天風呂は至福のぬくもり。さらに日本一の和牛の称号を4大会連続で獲得した最高峰ブランド「宮崎牛」の極上すき焼き・ステーキ、白鳥神社での新春開運初詣。雄大な火山と名湯の恵みに包まれる、知られざる南国の冬旅へとご案内します。

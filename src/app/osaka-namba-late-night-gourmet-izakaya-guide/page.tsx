@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/osaka-namba-late-night-gourmet-izakaya-guide/" },
-  title: "【大阪なんば・心斎橋 深夜営業グルメ＆居酒屋】夜24時以降も開いているカスうどん・串カツ・横丁酒場",
+  title: "大阪なんば・心斎橋 深夜営業グルメ＆居酒屋：夜24時以降も開いているカスうどん・串カツ・横丁酒場",
   description:
     "終電後や夜行便前に楽しめるミナミの深夜グルメ！出汁が染みる本場のかすうどん、裏なんばの深夜営業立ち飲み、24時間営業のたこ焼き・串カツ店、なんば駅徒歩5分の大浴場＆カプセル・ホテル。",
   keywords: ["大阪なんば", "心斎橋", "深夜営業グルメ", "居酒屋", "串カツ", "横丁酒場", "温泉宿"],
@@ -155,10 +155,7 @@ export default function OsakaNambaLateNightGuidePage() {
             <span>🌙 MIDNIGHT MINAMI GOURMET GUIDE</span>
             <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-snug mb-4 text-balance">
-            【大阪なんば・心斎橋 深夜営業グルメ＆居酒屋】<br />
-            夜24時以降も開いているカスうどん・串カツ・横丁酒場
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-snug mb-4 text-balance">「大阪なんば・心斎橋 深夜営業グルメ＆居酒屋」<br /> 夜24時以降も開いているカスうどん・串カツ・横丁酒場</h1>
           <p className="text-slate-300 text-sm sm:text-base leading-relaxed max-w-2xl mx-auto">
             終電後や夜行便の出発待ちでも大阪ミナミの夜は終わらない！
             出汁が五臓六腑に染み渡る本格かすうどん、ディープな裏なんばの立ち飲み、24時間営業の串カツ、徒歩5分で泊まれる快適ホテルまで徹底解説。

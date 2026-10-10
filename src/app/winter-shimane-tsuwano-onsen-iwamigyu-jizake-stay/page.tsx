@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月山陰】山陰の小京都！名宿5選',
+  title: '山陰で過ごす冬の旅（11・12月）！山陰の小京都！名宿5選',
   description: '11月から12月の初冬、石州瓦の赤茶色の屋根と白い漆喰壁が美しいコントラストを描く島根県津和野町は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '津和野 宿泊, 津和野温泉, 石見牛 宿, 津和野 冬の旅, ゆとりろ津和野, 若槻 津和野, マスコスホテル, 荒磯館, 11月 12月 島根観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shimane-tsuwano-onsen-iwamigyu-jizake-stay/"
   },
   openGraph: {
-    title: '【11・12月山陰】山陰の小京都！名宿5選',
+    title: '山陰で過ごす冬の旅（11・12月）！山陰の小京都！名宿5選',
     description: '11月から12月の初冬、石州瓦の赤茶色の屋根と白い漆喰壁が美しいコントラストを描く島根県津和野町は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-shimane-tsuwano-onsen-iwamigyu-jizake-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月山陰】山陰の小京都・津和野の冬情緒と冬の新酒蔵開き・幻の石見牛＆津和野温泉の静謐な湯浴みを堪能する名宿5選",
+    title: "山陰で過ごす冬の旅（11・12月）！山陰の小京都・津和野の冬情緒と冬の新酒蔵開き・幻の石見牛＆津和野温泉の静謐な湯浴みを堪能する名宿5選",
     description: "11月から12月の初冬、石州瓦の赤茶色の屋根と白い漆喰壁が美しいコントラストを描く島根県津和野町は、山陰の小京都と呼ばれるにふさわしい静寂と深い歴史情趣に包まれます。殿町通りの掘割をゆったりと泳ぐ色鮮やかな錦鯉、津和野城跡から見下ろす早朝の幻想的な「朝霧雲海」、千本鳥居が山肌を朱色に染め上げる太鼓谷稲成神社など、初冬の津和野はどこを切り取っても風情ある絵画のよう。名水百選に恵まれた津和野では、11月下旬から冬の新酒仕込みと蔵開きが始まり、搾りたての芳醇な地酒の香りが町を包みます。美食の主役は、年間わずかしか出荷されない幻のブランド黒毛和牛「石見牛（いわみぎゅう）」のステーキや陶板焼き、そしてご飯の下に旬の野菜を隠した伝統郷土料理「うずめ飯」。津和野唯一の天然温泉や益田の日本海を望む荒磯温泉など、大人の初冬旅情を満喫する厳選5宿をご案内します。",
     images: ['https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -367,9 +367,7 @@ export default function ShimaneTsuwanoOnsenWinterPage() {
             <Castle className="w-3.5 h-3.5" />
             11月・12月山陰初冬特集・山陰の小京都津和野＆新酒と石見牛探訪
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold tracking-tight text-white leading-tight">
-            {metadata.title as string}
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold tracking-tight text-white leading-tight">{metadata.title as string}</h1>
           <p className="text-xs sm:text-sm text-stone-300 leading-relaxed pt-2">
             赤瓦と白壁土塀の殿町通りに揺れる錦鯉と、津和野城跡から見下ろす早朝の朝霧雲海。
             11月下旬からの新酒蔵開きと搾りたて地酒、幻の石見牛ステーキ＆津和野温泉の静謐な湯治へ。

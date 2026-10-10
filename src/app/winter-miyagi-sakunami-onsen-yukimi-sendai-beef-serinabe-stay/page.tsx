@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月作並温泉】極上A5仙台牛ステーキ！名宿5選',
+  title: '作並温泉で過ごす冬の旅（11・12月）！極上A5仙台牛ステーキ！名宿5選',
   description: '11月から12月にかけて、杜の都・仙台の奥座敷として古くから親しまれる作並温泉および秋保温泉エリアは、広瀬川や名取川の深い渓谷が初雪に彩られ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '作並温泉 宿泊, 作並温泉 一の坊, 岩松旅館, 仙台せり鍋, A5仙台牛, 美女づくりの湯, 作並温泉 雪見露天風呂, 秋保温泉 緑水亭, 11月 12月 宮城 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-miyagi-sakunami-onsen-yukimi-sendai-beef-serinabe-stay/"
   },
   openGraph: {
-    title: '【11・12月作並温泉】極上A5仙台牛ステーキ！名宿5選',
+    title: '作並温泉で過ごす冬の旅（11・12月）！極上A5仙台牛ステーキ！名宿5選',
     description: '11月から12月にかけて、杜の都・仙台の奥座敷として古くから親しまれる作並温泉および秋保温泉エリアは、広瀬川や名取川の深い渓谷が初雪に彩られ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-miyagi-sakunami-onsen-yukimi-sendai-beef-serinabe-stay',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -246,10 +246,7 @@ export default function MiyagiSakunamiWinterFeature() {
             <Sparkle className="w-4 h-4" />
             11月・12月 広瀬川渓谷雪見＆仙台美食特集｜宮城・作並温泉＆仙台奥座敷
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            初冬の広瀬川雪見露天と美女づくりの湯<br className="hidden sm:inline" />
-            極上A5仙台牛ステーキ＆名物仙台せり鍋会席を味わう老舗宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">初冬の広瀬川雪見露天と美女づくりの湯<br className="hidden sm:inline" /> 極上A5仙台牛ステーキ＆名物仙台せり鍋会席を味わう老舗宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             杜の都・仙台の奥座敷に湧く名湯「美女づくりの湯」。広瀬川の清流と初雪が織りなす渓谷美を天然岩風呂で愛で、シャキシャキの仙台せり鍋とA5仙台牛に舌鼓を打つ冬の贅沢。
           </p>

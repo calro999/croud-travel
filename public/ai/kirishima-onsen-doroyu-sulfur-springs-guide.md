@@ -1,4 +1,4 @@
-# 【霧島温泉】天然泥湯＆源泉かけ流しにごり湯の宿6選！霧島神宮参拝と黒豚料理｜失敗しないおすすめ宿ガイド
+# 霧島温泉：天然泥湯＆源泉かけ流しにごり湯の宿6選！霧島神宮参拝と黒豚料理｜失敗しないおすすめ宿ガイド
 
 - URL: https://croud-travel.pages.dev/posts/kirishima-onsen-doroyu-sulfur-springs-guide/
 - 宿泊施設名: 霧島温泉郷 民宿 みちや荘

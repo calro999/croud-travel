@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '日本三大相撲辻＆国技の歴史とちゃんこ鍋美食・伝統名門宿×ふるさと納税完全ガイド【2026年最新】両国・出雲・住吉',
+  title: '日本三大相撲辻＆国技の歴史とちゃんこ鍋美食・伝統名門宿×ふるさと納税厳選ガイド両国・出雲・住吉',
   description: '神事から始まった日本の国技の起源と熱気「日本三大相撲ゆかりの聖地」（東京墨田・両国回向院と国技館、島根出雲・相撲の元祖野見宿禰神社、大阪住吉・古代相撲発祥の住吉大社）。下町風情と本場の絶品ちゃんこ鍋、出雲神話の名湯・玉造温泉。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ国技文化と美食名宿ガイド。',
   keywords: ["日本三大相撲辻", "国技の歴史とちゃんこ鍋美食", "伝統名門宿×ふるさと納税", "2026年最新", "両国", "出雲", "住吉"],
   alternates: { canonical: baseUrl + '/furusato-tax-three-great-sumo-heritage-onsen-stay/' },
   openGraph: {
-    title: '日本三大相撲辻＆国技の歴史とちゃんこ鍋美食・伝統名門宿×ふるさと納税完全ガイド【2026年最新】両国・出雲・住吉',
+    title: '日本三大相撲辻＆国技の歴史とちゃんこ鍋美食・伝統名門宿×ふるさと納税厳選ガイド両国・出雲・住吉',
     description: '神事から始まった日本の国技の起源と熱気「日本三大相撲ゆかりの聖地」（東京墨田・両国回向院と国技館、島根出雲・相撲の元祖野見宿禰神社、大阪住吉・古代相撲発祥の住吉大社）。下町風情と本場の絶品ちゃんこ鍋、出雲神話の名湯・玉造温泉。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ国技文化と美食名宿ガイド。',
     url: baseUrl + '/furusato-tax-three-great-sumo-heritage-onsen-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoRound65ArticlePage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             日本三大相撲聖地・国技歴史とちゃんこ美食ステイ特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            日本三大相撲辻＆国技の歴史とちゃんこ鍋美食・伝統名門宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">日本三大相撲辻＆国技の歴史とちゃんこ鍋美食・伝統名門宿</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             力士たちの激しいぶつかり合いの地響き、土俵を清める塩の舞、そして観衆の地鳴りのような歓声。古代の農作物の豊凶を占う神事から発祥し、千数百年にわたって受け継がれてきた日本の国技・相撲。その歴史を語る上で欠かせない聖地が「日本三大相撲ゆかりの地」です。江戸時代に勧進相撲が定着し現在も大相撲の聖地として君臨する東京・両国回向院と国技館、日本書紀に記された力くらべの勝者・野見宿禰（のみのすくね）を祀り相撲の祖の地として崇敬される島根・出雲、そして古代の宮中相撲節会（せちえ）に連なる奉納相撲の舞台となった大阪・住吉大社。土俵の神聖な空気に触れ、元力士が腕を振るう本場の出汁が効いた名物ちゃんこ鍋に舌鼓を打った後は、老舗の名門ホテルや出雲神話の美肌温泉旅館で寛ぐ時間。楽天ふるさと納税の宿泊割引クーポンを活用すれば、有効期限3年のゆとりを活かして、実質2,000円の自己負担で日本の伝統美と活力を五感でチャージする素晴らしい旅が叶います。
           </p>

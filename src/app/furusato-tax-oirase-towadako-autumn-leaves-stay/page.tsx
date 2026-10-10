@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            奥入瀬渓流の黄金トンネル紅葉＆十和田湖畔の絶景名湯リゾート・青森短角牛会席
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">奥入瀬渓流の黄金トンネル紅葉＆十和田湖畔の絶景名湯リゾート・青森短角牛会席</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             轟く滝と黄金に輝くブナの原生林。奥入瀬渓流のせせらぎに包まれ、名湯と青森の山海の恵みを味わう至高の秋休み。
           </p>

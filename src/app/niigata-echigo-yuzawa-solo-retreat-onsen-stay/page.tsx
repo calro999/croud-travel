@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/niigata-echigo-yuzawa-solo-retreat-onsen-stay/" },
-  title: '【越後湯沢温泉ひとり旅・雪国名湯おこもり】上越新幹線70分・谷川連峰パノラマ・魚沼産コシヒカリ！川端康成『雪国』の舞台で癒やされる厳選3宿',
+  title: '越後湯沢温泉ひとり旅・雪国名湯おこもり：上越新幹線70分・谷川連峰パノラマ・魚沼産コシヒカリ！川端康成『雪国』の舞台で癒やされる厳選3宿',
   description: '東京駅から上越新幹線最速約70分！広大な温泉大浴場とリゾートステイが魅力の「NASPAニューオータニ」、源泉かけ流しの滝見露天風呂と越後会席が評判の「和みのお宿 滝乃湯」、心温まるおもてなしと貸切風呂が嬉しい「音羽屋旅館」を楽天API最新データに基づき徹底比較。',
   keywords: '越後湯沢温泉 一人旅 宿,越後湯沢 ホテル 一人 温泉,NASPAニューオータニ,滝乃湯 越後湯沢,音羽屋旅館,越後湯沢 雪国 ひとり旅',
   openGraph: {
-    title: '【越後湯沢温泉ひとり旅・雪国名湯おこもり】上越新幹線70分・谷川連峰パノラマ・魚沼産コシヒカリ！川端康成『雪国』の舞台で癒やされる厳選3宿',
+    title: '越後湯沢温泉ひとり旅・雪国名湯おこもり：上越新幹線70分・谷川連峰パノラマ・魚沼産コシヒカリ！川端康成『雪国』の舞台で癒やされる厳選3宿',
     description: '東京駅から上越新幹線最速約70分！広大な温泉大浴場とリゾートステイが魅力の「NASPAニューオータニ」、源泉かけ流しの滝見露天風呂と越後会席が評判の「和みのお宿 滝乃湯」、心温まるおもてなしと貸切風呂が嬉しい「音羽屋旅館」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/niigata-echigo-yuzawa-solo-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【越後湯沢温泉ひとり旅・雪国名湯おこもり】上越新幹線70分・谷川連峰パノラマ・魚沼産コシヒカリ！川端康成『雪国』の舞台で癒やされる厳選3宿',
+    headline: '越後湯沢温泉ひとり旅・雪国名湯おこもり：上越新幹線70分・谷川連峰パノラマ・魚沼産コシヒカリ！川端康成『雪国』の舞台で癒やされる厳選3宿',
     description: '東京駅から上越新幹線最速約70分！広大な温泉大浴場とリゾートステイが魅力の「NASPAニューオータニ」、源泉かけ流しの滝見露天風呂と越後会席が評判の「和みのお宿 滝乃湯」、心温まるおもてなしと貸切風呂が嬉しい「音羽屋旅館」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             新潟・越後湯沢温泉ひとり旅＆雪国風情おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【越後湯沢温泉ひとり旅・雪国名湯おこもり】上越新幹線70分・谷川連峰パノラマ・魚沼産コシヒカリ！川端康成『雪国』の舞台で癒やされる厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「越後湯沢温泉ひとり旅・雪国名湯おこもり」上越新幹線70分・谷川連峰パノラマ・魚沼産コシヒカリ！川端康成『雪国』の舞台で癒やされる厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

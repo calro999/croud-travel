@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【盛岡駅前】秋の盛岡三大麺＆盛岡城跡紅葉！3,000円台〜泊まれる格安ホテル5選',
+  title: '盛岡駅前：秋の盛岡三大麺＆盛岡城跡紅葉！3,000円台〜泊まれる格安ホテル5選',
   description: '盛岡冷麺・わんこそば・じゃじゃ麺の三大麺ハシゴ旅と、石垣を赤く染める盛岡城跡公園の錦秋！東北新幹線・盛岡駅周辺で1泊3,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetMoriokaStationHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>名物盛岡三大麺グルメ＆城下町錦秋散策</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【盛岡駅前】秋の盛岡三大麺ハシゴ＆盛岡城跡紅葉！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「盛岡駅前」秋の盛岡三大麺ハシゴ＆盛岡城跡紅葉！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-red-100/90 max-w-2xl mx-auto leading-relaxed">
             米ニューヨーク・タイムズ紙「行くべき場所」に選ばれ世界が注目する城下町・盛岡。ピリ辛牛骨スープの「盛岡冷麺」、モチモチ肉味噌の「盛岡じゃじゃ麺」、威勢の良い「わんこそば」の三大麺を食べ比べ！新幹線改札からすぐの好立地に3,000円台〜4,000円台で泊まれる優良宿を厳選。
           </p>

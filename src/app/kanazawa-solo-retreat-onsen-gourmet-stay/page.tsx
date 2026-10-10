@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kanazawa-solo-retreat-onsen-gourmet-stay/" },
-  title: '【金沢ひとり旅・美食おこもり】近江町市場徒歩すぐ・最上階天然温泉・のどぐろ会席！加賀百万石の極上ステイ 厳選3選',
+  title: '金沢ひとり旅・美食おこもり：近江町市場徒歩すぐ・最上階天然温泉・のどぐろ会席！加賀百万石の極上ステイ 厳選3選',
   description: '「北陸新幹線でふらりと金沢へ出かけ、静かにアートと名湯、日本海の海の幸に浸りたい。」。大人ソロトラベラーへ。全館畳敷きで最上階に天然温泉大浴場といくら乗せ放題朝食を誇る「御宿 野乃 金沢」、尾山神社すぐ隣で武家屋敷の美意識を宿す「三井ガーデンホテル金沢」、金沢駅兼六園口徒歩3分で客室マッサージ機完備の「ホテルフォルツァ金沢」を徹底特集。',
   keywords: '金沢 一人旅 ホテル おすすめ,金沢 温泉 ホテル 一人,御宿野乃金沢 朝食,三井ガーデンホテル金沢 宿泊,金沢駅 ひとり旅 ホテル',
   openGraph: {
-    title: '【金沢ひとり旅・美食おこもり】近江町市場徒歩すぐ・最上階天然温泉・のどぐろ会席！加賀百万石の極上ステイ 厳選3選',
+    title: '金沢ひとり旅・美食おこもり：近江町市場徒歩すぐ・最上階天然温泉・のどぐろ会席！加賀百万石の極上ステイ 厳選3選',
     description: '「北陸新幹線でふらりと金沢へ出かけ、静かにアートと名湯、日本海の海の幸に浸りたい。」。大人ソロトラベラーへ。全館畳敷きで最上階に天然温泉大浴場といくら乗せ放題朝食を誇る「御宿 野乃 金沢」、尾山神社すぐ隣で武家屋敷の美意識を宿す「三井ガーデンホテル金沢」、金沢駅兼六園口徒歩3分で客室マッサージ機完備の「ホテルフォルツァ金沢」を徹底特集。',
     url: 'https://croud-travel.pages.dev/kanazawa-solo-retreat-onsen-gourmet-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【金沢ひとり旅・美食おこもり】近江町市場徒歩すぐ・最上階天然温泉・のどぐろ会席！加賀百万石の極上ステイ 厳選3選',
+    headline: '金沢ひとり旅・美食おこもり：近江町市場徒歩すぐ・最上階天然温泉・のどぐろ会席！加賀百万石の極上ステイ 厳選3選',
     description: '「北陸新幹線でふらりと金沢へ出かけ、静かにアートと名湯、日本海の海の幸に浸りたい。」。大人ソロトラベラーへ。全館畳敷きで最上階に天然温泉大浴場といくら乗せ放題朝食を誇る「御宿 野乃 金沢」、尾山神社すぐ隣で武家屋敷の美意識を宿す「三井ガーデンホテル金沢」、金沢駅兼六園口徒歩3分で客室マッサージ機完備の「ホテルフォルツァ金沢」を徹底特集。',
     author: {
       '@type': 'Organization',
@@ -74,9 +74,7 @@ export default function ArticlePage() {
           <span>✨</span>
           <span>金沢・ひとり旅＆天然温泉・美肌宿特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【金沢ひとり旅・美食おこもり】近江町市場徒歩すぐ・最上階天然温泉・のどぐろ会席！加賀百万石の極上ステイ 厳選3選
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">「金沢ひとり旅・美食おこもり」近江町市場徒歩すぐ・最上階天然温泉・のどぐろ会席！加賀百万石の極上ステイ 厳選3選</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
           「北陸新幹線でふらりと金沢へ出かけ、静かにアートと名湯、日本海の海の幸に浸りたい。」。大人ソロトラベラーへ。全館畳敷きで最上階に天然温泉大浴場といくら乗せ放題朝食を誇る「御宿 野乃 金沢」、尾山神社すぐ隣で武家屋敷の美意識を宿す「三井ガーデンホテル金沢」、金沢駅兼六園口徒歩3分で客室マッサージ機完備の「ホテルフォルツァ金沢」を徹底特集。
         </p>

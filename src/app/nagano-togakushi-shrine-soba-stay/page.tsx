@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagano-togakushi-shrine-soba-stay/" },
-  title: "【長野・戸隠＆飯綱高原】戸隠神社五社巡り・奥社杉並木＆日本三大戸隠そば宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "長野・戸隠＆飯綱高原：戸隠神社五社巡り・奥社杉並木＆日本三大戸隠そば宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "神話と巨樹の霊山・長野戸隠エリア完全特化！天照大御神の岩戸伝説息づく「戸隠神社五社（奥社・中社・宝光社・九頭龍社・火之御子社）。」、樹齢400年奥社杉並木、日本三大そば「戸隠そば（ぼっち盛り）」、戸隠温泉・宿坊旅館を徹底解説。",
   keywords: ["長野", "戸隠", "飯綱高原", "戸隠神社五社巡り", "奥社杉並木", "日本三大戸隠そば宿", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             TOGAKUSHI & JINJA GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【長野・戸隠＆飯綱高原】戸隠神社五社巡り・奥社杉並木＆日本三大戸隠そば宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「長野・戸隠＆飯綱高原」戸隠神社五社巡り・奥社杉並木＆日本三大戸隠そば宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             天手力雄命が投げ飛ばした天の岩戸が落ちてできたと伝わる霊峰「戸隠山」。樹齢400年を超える杉並木が続く戸隠神社奥社参道。一本のソバを丁寧に束ねる「ぼっち盛り」の日本三大戸隠そば。歴史ある宿坊や高原リゾートで心洗われる休日へ。
           </p>

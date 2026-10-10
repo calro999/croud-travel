@@ -3,14 +3,14 @@ import Link from 'next/link';
 import { MapPin, Calendar, Star, ExternalLink, ChevronRight, Sparkles, Compass, ShieldCheck, Heart } from 'lucide-react';
 
 export const metadata = {
-  title: '【近江国第一の古社・多賀大社新春初詣と名物糸切餅】2026-2027年冬の滋賀・多賀＆彦根！冬の極上近江牛すき焼きと美肌天然温泉名宿5選',
+  title: '近江国第一の古社・多賀大社新春初詣と名物糸切餅：2026-2027年冬の滋賀・多賀＆彦根！冬の極上近江牛すき焼きと美肌天然温泉名宿5選',
   description: '「お伊勢参らばお多賀へ参れ」と称えられる近江国随一の古社「多賀大社」新春初詣！延命長寿のお多賀杓子と名物糸切餅、国宝彦根城の冬景色。冬の極上霜降り「近江牛すき焼き」や鴨鍋、湖東の豊かな天然温泉で身体の芯から温まる冬の厳選名宿5選。',
   keywords: ['多賀・彦根・八日市', '滋賀県 温泉', '冬旅行', '初詣', '11月旅行', '12月旅行', '1月旅行', '宿泊予約', '楽天トラベル'],
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-shiga-taga-taisha-hatsumode-omigyu-sukiyaki-itokirimochi-stay/',
   },
   openGraph: {
-    title: '【近江国第一の古社・多賀大社新春初詣と名物糸切餅】2026-2027年冬の滋賀・多賀＆彦根！冬の極上近江牛すき焼きと美肌天然温泉名宿5選',
+    title: '近江国第一の古社・多賀大社新春初詣と名物糸切餅：2026-2027年冬の滋賀・多賀＆彦根！冬の極上近江牛すき焼きと美肌天然温泉名宿5選',
     description: '「お伊勢参らばお多賀へ参れ」と称えられる近江国随一の古社「多賀大社」新春初詣！延命長寿のお多賀杓子と名物糸切餅、国宝彦根城の冬景色。冬の極上霜降り「近江牛すき焼き」や鴨鍋、湖東の豊かな天然温泉で身体の芯から温まる冬の厳選名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-shiga-taga-taisha-hatsumode-omigyu-sukiyaki-itokirimochi-stay/',
     siteName: '冬の日本厳選旅行ガイド',
@@ -27,7 +27,7 @@ export const metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: '【近江国第一の古社・多賀大社新春初詣と名物糸切餅】2026-2027年冬の滋賀・多賀＆彦根！冬の極上近江牛すき焼きと美肌天然温泉名宿5選',
+    title: '近江国第一の古社・多賀大社新春初詣と名物糸切餅：2026-2027年冬の滋賀・多賀＆彦根！冬の極上近江牛すき焼きと美肌天然温泉名宿5選',
     description: '「お伊勢参らばお多賀へ参れ」と称えられる近江国随一の古社「多賀大社」新春初詣！延命長寿のお多賀杓子と名物糸切餅、国宝彦根城の冬景色。冬の極上霜降り「近江牛すき焼き」や鴨鍋、湖東の豊かな天然温泉で身体の芯から温まる冬の厳選名宿5選。',
     images: ['https://img.travel.rakuten.co.jp/share/HOTEL/149302/149302.jpg'],
   },
@@ -230,9 +230,7 @@ export default function Page() {
               <span>2026-2027年冬（11月・12月・1月）完全ガイド</span>
             </div>
 
-            <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold tracking-tight leading-snug">
-              【近江国第一の古社・多賀大社新春初詣と名物糸切餅】2026-2027年冬の滋賀・多賀＆彦根！冬の極上近江牛すき焼きと美肌天然温泉名宿5選
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold tracking-tight leading-snug">「近江国第一の古社・多賀大社新春初詣と名物糸切餅」2026-2027年冬の滋賀・多賀＆彦根！冬の極上近江牛すき焼きと美肌天然温泉名宿5選</h1>
 
             <p className="text-sm sm:text-base text-stone-200 leading-relaxed pt-2">
               「お伊勢参らばお多賀へ参れ」と称えられる近江国随一の古社「多賀大社」新春初詣！延命長寿のお多賀杓子と名物糸切餅、国宝彦根城の冬景色。冬の極上霜降り「近江牛すき焼き」や鴨鍋、湖東の豊かな天然温泉で身体の芯から温まる冬の厳選名宿5選。

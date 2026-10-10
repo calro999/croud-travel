@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/sendai-station-solo-business-onsen-stay/" },
-  title: '【仙台駅前出張・天然温泉ステイ】杜の都・天然温泉萩の湯・極上牛たんグルメ！東北最大のビジネスターミナル直結の厳選3宿',
+  title: '仙台駅前出張・天然温泉ステイ：杜の都・天然温泉萩の湯・極上牛たんグルメ！東北最大のビジネスターミナル直結の厳選3宿',
   description: '東北新幹線「はやぶさ」で東京から約1時間30分！仙台駅徒歩約5分で最上階天然温泉＆本格サウナ・夜鳴きそばを誇る「ドーミーイン仙台駅前」、駅前西口ペデストリアンデッキ直結でクラブラウンジ＆快眠を約束する「リッチモンドホテルプレミア仙台駅前」、東口すぐで男女別天然温泉を備える「スーパーホテル仙台駅東口天然温泉」を徹底比較。',
   keywords: '仙台 出張 ホテル,仙台駅 天然温泉 ホテル,ドーミーイン仙台駅前,リッチモンドホテルプレミア仙台駅前,スーパーホテル仙台駅東口天然温泉,仙台 牛たん 一人旅',
   openGraph: {
-    title: '【仙台駅前出張・天然温泉ステイ】杜の都・天然温泉萩の湯・極上牛たんグルメ！東北最大のビジネスターミナル直結の厳選3宿',
+    title: '仙台駅前出張・天然温泉ステイ：杜の都・天然温泉萩の湯・極上牛たんグルメ！東北最大のビジネスターミナル直結の厳選3宿',
     description: '東北新幹線「はやぶさ」で東京から約1時間30分！仙台駅徒歩約5分で最上階天然温泉＆本格サウナ・夜鳴きそばを誇る「ドーミーイン仙台駅前」、駅前西口ペデストリアンデッキ直結でクラブラウンジ＆快眠を約束する「リッチモンドホテルプレミア仙台駅前」、東口すぐで男女別天然温泉を備える「スーパーホテル仙台駅東口天然温泉」を徹底比較。',
     url: 'https://croud-travel.pages.dev/sendai-station-solo-business-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【仙台駅前出張・天然温泉ステイ】杜の都・天然温泉萩の湯・極上牛たんグルメ！東北最大のビジネスターミナル直結の厳選3宿',
+    headline: '仙台駅前出張・天然温泉ステイ：杜の都・天然温泉萩の湯・極上牛たんグルメ！東北最大のビジネスターミナル直結の厳選3宿',
     description: '東北新幹線「はやぶさ」で東京から約1時間30分！仙台駅徒歩約5分で最上階天然温泉＆本格サウナ・夜鳴きそばを誇る「ドーミーイン仙台駅前」、駅前西口ペデストリアンデッキ直結でクラブラウンジ＆快眠を約束する「リッチモンドホテルプレミア仙台駅前」、東口すぐで男女別天然温泉を備える「スーパーホテル仙台駅東口天然温泉」を徹底比較。',
     author: {
       '@type': 'Organization',
@@ -72,9 +72,7 @@ export default function ArticlePage() {
         <div className="inline-block bg-amber-700 text-white text-xs font-semibold px-3 py-1 rounded-full mb-3 tracking-wider">
           ひとり旅・出張・サウナ＆名湯特集
         </div>
-        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">
-          【仙台駅前出張・天然温泉ステイ】杜の都・天然温泉萩の湯・極上牛たんグルメ！東北最大のビジネスターミナル直結の厳選3宿
-        </h1>
+        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">「仙台駅前出張・天然温泉ステイ」杜の都・天然温泉萩の湯・極上牛たんグルメ！東北最大のビジネスターミナル直結の厳選3宿</h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.13 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>

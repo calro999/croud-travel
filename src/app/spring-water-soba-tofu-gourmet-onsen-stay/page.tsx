@@ -130,9 +130,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            清冽な名水が生み出す極上の喉ごし！名水百選の手打ち蕎麦＆名水豆腐料理の温泉宿
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">清冽な名水が生み出す極上の喉ごし！名水百選の手打ち蕎麦＆名水豆腐料理の温泉宿</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             雪解け水が何十年もの歳月をかけてろ過された清らかな湧き水。その名水を使って打つ蕎麦は、香り立ちと喉ごしが格別。大豆の甘みを極限まで引き出した濃厚な名水豆腐や汲み上げ湯葉とともに、体に染み渡るような優しい美食と名湯を味わう大人のグルメ旅へ。
           </p>

@@ -28,7 +28,7 @@ interface RakutenCategoryData {
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://croud-travel.pages.dev";
 
 export const metadata: Metadata = {
-  title: "【大阪観光 完全計画ガイド 2026】1泊2日・2泊3日モデルコース＆梅田・なんば・USJ・道頓堀グルメ・おすすめホテル ｜ 旅宿クラウド",
+  title: "大阪観光 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆梅田・なんば・USJ・道頓堀グルメ・おすすめホテル ｜ 旅宿クラウド",
   description:
     "大阪観光の計画を完全サポート！梅田・なんば・道頓堀・USJ（ユニバーサル・スタジオ・ジャパン）の1泊2日/2泊3日モデルコース、たこ焼き・串カツ食べ歩き、夜景ホテルから駅チカ格安宿までおすすめの宿泊プランまで徹底網羅。",
   keywords: ["大阪観光", "完全計画ガイド", "2026", "1泊2日", "2泊3日モデルコース", "梅田", "なんば"],
@@ -98,12 +98,7 @@ export default function OsakaHubPage() {
           </span>
         </div>
 
-        <h1 className="text-3xl md:text-5xl font-black font-journal-serif leading-tight text-white">
-          【大阪観光 完全ガイド】<br />
-          <span className="bg-gradient-to-r from-amber-200 via-rose-200 to-amber-100 bg-clip-text text-transparent">
-            道頓堀グルメ・USJ・梅田・なんば＆駅チカ人気ホテル
-          </span>
-        </h1>
+        <h1 className="text-3xl md:text-5xl font-black font-journal-serif leading-tight text-white">「大阪観光 厳選ガイド」<br /> <span className="bg-gradient-to-r from-amber-200 via-rose-200 to-amber-100 bg-clip-text text-transparent"> 道頓堀グルメ・USJ・梅田・なんば＆駅チカ人気ホテル </span></h1>
 
         <p className="text-amber-100/90 text-xs md:text-sm max-w-3xl leading-relaxed font-medium">
           食い倒れの街・大阪。「1泊2日モデルコースは？」「USJオフィシャルホテルの選び方は？」「梅田となんば、泊まるならどっち？」を縦掘りし、おすすめの宿泊施設情報で繋ぐ総合ガイド。

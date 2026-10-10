@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【絶景ガラス張りバレルサウナ】天空のパノラマビュー＆天然湧水水風呂の温泉宿5選",
+  title: "絶景ガラス張りバレルサウナ：天空のパノラマビュー＆天然湧水水風呂の温泉宿5選",
   description: "前面が総ガラス張りの最新木製バレルサウナ！サウナ室の中から絶景の山並みや湖、星空を眺めながらのアロマロウリュ。地下水かけ流しの水風呂と天空デッキでの外気浴が自慢の全国屈指のサウナ宿を厳選。",
   keywords: "バレルサウナ 絶景 宿, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/organic-forest-infinity-panoramic-barrel-sauna-stay/",
   },
   openGraph: {
-    title: "【絶景ガラス張りバレルサウナ】天空のパノラマビュー＆天然湧水水風呂の温泉宿5選",
+    title: "絶景ガラス張りバレルサウナ：天空のパノラマビュー＆天然湧水水風呂の温泉宿5選",
     description: "前面が総ガラス張りの最新木製バレルサウナ！サウナ室の中から絶景の山並みや湖、星空を眺めながらのアロマロウリュ。地下水かけ流しの水風呂と天空デッキでの外気浴が自慢の全国屈指のサウナ宿を厳選。",
     url: 'https://croud-travel.pages.dev/organic-forest-infinity-panoramic-barrel-sauna-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【絶景ガラス張りバレルサウナ】天空のパノラマビュー＆天然湧水水風呂の温泉宿5選",
+    title: "絶景ガラス張りバレルサウナ：天空のパノラマビュー＆天然湧水水風呂の温泉宿5選",
     description: "前面が総ガラス張りの最新木製バレルサウナ！サウナ室の中から絶景の山並みや湖、星空を眺めながらのアロマロウリュ。地下水かけ流しの水風呂と天空デッキでの外気浴が自慢の全国屈指のサウナ宿を厳選。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>ガラス張りバレルサウナ＆天空水風呂</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【絶景ガラス張りバレルサウナ】天空のパノラマビュー＆天然湧水水風呂の温泉宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「絶景ガラス張りバレルサウナ」天空のパノラマビュー＆天然湧水水風呂の温泉宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             前面が総ガラス張りの最新木製バレルサウナ！サウナ室の中から絶景の山並みや湖、星空を眺めながらのアロマロウリュ。地下水かけ流しの水風呂と天空デッキでの外気浴が自慢の全国屈指のサウナ宿を厳選。
           </p>

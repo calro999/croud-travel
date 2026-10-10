@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月浅草押上】浅草寺新春初詣！名宿5選',
+  title: '11・12・1月浅草押上：浅草寺新春初詣！名宿5選',
   description: '冬の東京・浅草＆押上は、1400年の歴史を誇る浅草寺の朱塗り本堂と雷門が新春初詣の祈りで満ち。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '浅草 ホテル, 浅草寺 初詣, 東京スカイツリー 冬 夜景, 浅草 温泉, 御宿野乃浅草, ザゲートホテル雷門, 浅草ビューホテル, 浅草 すき焼き, 11月 12月 1月 東京 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tokyo-asakusa-sensoji-hatsumode-skytree-edomae-stay/"
   },
   openGraph: {
-    title: '【11・12・1月浅草押上】浅草寺新春初詣！名宿5選',
+    title: '11・12・1月浅草押上：浅草寺新春初詣！名宿5選',
     description: '冬の東京・浅草＆押上は、1400年の歴史を誇る浅草寺の朱塗り本堂と雷門が新春初詣の祈りで満ち。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-tokyo-asakusa-sensoji-hatsumode-skytree-edomae-stay',
     type: 'article',
@@ -246,10 +246,7 @@ export default function TokyoAsakusaWinterPage() {
             <span>11月・12月・1月冬の東京下町特選ガイド｜浅草・押上</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            浅草寺新春初詣＆東京スカイツリー冬夜景！<br className="hidden sm:inline" />
-            老舗すき焼き・江戸前天ぷら・下町天然温泉宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">浅草寺新春初詣＆東京スカイツリー冬夜景！<br className="hidden sm:inline" /> 老舗すき焼き・江戸前天ぷら・下町天然温泉宿5選</h1>
 
           <p className="max-w-4xl text-sm sm:text-base md:text-lg text-slate-300 leading-relaxed font-normal">
             雷門から続く仲見世通りの賑わいと、浅草寺本堂に響く新春の祈り。澄んだ冬空に凛と聳える東京スカイツリーの限定ライティング。老舗の極上すき焼きや熱々のどぜう鍋、地下から湧く黒湯天然温泉で至福の寛ぎを味わう大人の東京冬旅へご案内します。

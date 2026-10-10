@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-scenic-drive-pass/" },
-  title: "【絶景ロード】紅葉＆白銀パノラマ！ドライブウェイ展望温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "絶景ロード：紅葉＆白銀パノラマ！ドライブウェイ展望温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "車窓を染める圧巻の紅葉パノラマ！伊豆スカイライン（富士山ビュー）、福島磐梯吾妻スカイライン、長野霧ヶ峰ビーナスライン、広島しまなみ海道など、日本を代表する絶景ドライブルートと展望温泉宿を徹底解説。",
   keywords: ["絶景ロード", "紅葉", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
@@ -98,9 +98,7 @@ export default function SeasonalFeaturePage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             SCENIC PANORAMA DRIVE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【絶景ロード】紅葉＆白銀パノラマ！ドライブウェイ展望温泉宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「絶景ロード」紅葉＆白銀パノラマ！ドライブウェイ展望温泉宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             心地よいエンジン音とともに、標高とともに移り変わる木々のグラデーションを駆け抜ける爽快ドライブ。展望台から見渡す雲海や富士山、夕暮れに染まる水平線。愛車で巡る極上のパノラマ温泉旅。
           </p>

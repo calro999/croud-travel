@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【仙台ずんだスイーツ＆三陸海鮮】香り高い枝豆スイーツと秋保・作並・松島の名湯宿5選",
+  title: "仙台ずんだスイーツ＆三陸海鮮：香り高い枝豆スイーツと秋保・作並・松島の名湯宿5選",
   description: "風味豊かな採れたて枝豆を丁寧につぶした名物「ずんだ餅」「ずんだパフェ」と、三陸沖の極上海鮮！開湯1500年の秋保温泉や絶景の松島湾を望む温泉宿で、宮城の伝統スイーツと名湯に癒やされる旅。",
   keywords: "秋保温泉 露天風呂 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/traditional-miyagi-sendai-zunda-sweets-stay/",
   },
   openGraph: {
-    title: "【仙台ずんだスイーツ＆三陸海鮮】香り高い枝豆スイーツと秋保・作並・松島の名湯宿5選",
+    title: "仙台ずんだスイーツ＆三陸海鮮：香り高い枝豆スイーツと秋保・作並・松島の名湯宿5選",
     description: "風味豊かな採れたて枝豆を丁寧につぶした名物「ずんだ餅」「ずんだパフェ」と、三陸沖の極上海鮮！開湯1500年の秋保温泉や絶景の松島湾を望む温泉宿で、宮城の伝統スイーツと名湯に癒やされる旅。",
     url: 'https://croud-travel.pages.dev/traditional-miyagi-sendai-zunda-sweets-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【仙台ずんだスイーツ＆三陸海鮮】香り高い枝豆スイーツと秋保・作並・松島の名湯宿5選",
+    title: "仙台ずんだスイーツ＆三陸海鮮：香り高い枝豆スイーツと秋保・作並・松島の名湯宿5選",
     description: "風味豊かな採れたて枝豆を丁寧につぶした名物「ずんだ餅」「ずんだパフェ」と、三陸沖の極上海鮮！開湯1500年の秋保温泉や絶景の松島湾を望む温泉宿で、宮城の伝統スイーツと名湯に癒やされる旅。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>仙台ずんだ＆三陸海鮮名湯</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【仙台ずんだスイーツ＆三陸海鮮】香り高い枝豆スイーツと秋保・作並・松島の名湯宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「仙台ずんだスイーツ＆三陸海鮮」香り高い枝豆スイーツと秋保・作並・松島の名湯宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             風味豊かな採れたて枝豆を丁寧につぶした名物「ずんだ餅」「ずんだパフェ」と、三陸沖の極上海鮮！開湯1500年の秋保温泉や絶景の松島湾を望む温泉宿で、宮城の伝統スイーツと名湯に癒やされる旅。
           </p>

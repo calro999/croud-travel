@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月北信州】小布施の冬栗おこわ！名宿5選',
+  title: '北信州で過ごす冬の旅（11・12月）！小布施の冬栗おこわ！名宿5選',
   description: '11月中旬から12月の初冬、北信五岳の山々が白銀の雪化粧をまとい、信州の大地に凛とした清澄な空気が満ちる季節。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '渋温泉 宿泊, 小布施 栗おこわ, 金具屋 渋温泉, 渋温泉 九湯めぐり, 湯田中温泉 よろづや, 信州プレミアム牛, サンふじ りんご, 11月 12月 長野温泉, スノーモンキー',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagano-obuse-shibu-onsen-shinshugyu-apple-stay/"
   },
   openGraph: {
-    title: '【11・12月北信州】小布施の冬栗おこわ！名宿5選',
+    title: '北信州で過ごす冬の旅（11・12月）！小布施の冬栗おこわ！名宿5選',
     description: '11月中旬から12月の初冬、北信五岳の山々が白銀の雪化粧をまとい、信州の大地に凛とした清澄な空気が満ちる季節。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-nagano-obuse-shibu-onsen-shinshugyu-apple-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月北信州】小布施の冬栗おこわ＆完熟サンふじ・石畳の渋温泉「九湯めぐり」と信州プレミアム牛を味わう名宿5選",
+    title: "北信州で過ごす冬の旅（11・12月）！小布施の冬栗おこわ＆完熟サンふじ・石畳の渋温泉「九湯めぐり」と信州プレミアム牛を味わう名宿5選",
     description: "11月中旬から12月の初冬、北信五岳の山々が白銀の雪化粧をまとい、信州の大地に凛とした清澄な空気が満ちる季節。葛飾北斎が晩年逗留した栗と歴史の町・小布施（おぶせ）では、秋から初冬限定の蒸したて「栗おこわ」や濃厚な栗菓子、そして蜜がたっぷりと詰まった信州りんごの王様「完熟サンふじ」が最盛期を迎えます。小布施から車で約20分の湯田中・渋温泉郷は、開湯1300年を超える名湯。下駄の音をカランコロンと響かせながら浴衣で巡る石畳の「渋温泉九湯めぐり（外湯厄除け巡浴）」は、冬の北信州を象徴する情趣あふれる風物詩です。国の登録有形文化財・金具屋をはじめとする木造建築の美、湯煙が立ち上る地獄谷野猿公苑の愛らしいスノーモンキー、夕食には霜降り信州プレミアム牛肉のすき焼きと薫り高い十割新そばの贅沢。冬の信州旅情を心ゆくまで堪能できる厳選5宿をご案内します。",
     images: ['https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -367,9 +367,7 @@ export default function NaganoObuseShibuWinterPage() {
             <Apple className="w-3.5 h-3.5" />
             11月・12月北信州初冬特集・小布施冬栗＆渋温泉九湯めぐり
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold tracking-tight text-white leading-tight">
-            {metadata.title as string}
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold tracking-tight text-white leading-tight">{metadata.title as string}</h1>
           <p className="text-xs sm:text-sm text-stone-300 leading-relaxed pt-2">
             北斎ゆかりの小布施で味わう出来立て栗おこわと、蜜あふれる信州完熟サンふじりんご。
             開湯1300年・石畳の渋温泉九湯めぐりと登録有形文化財・金具屋、信州牛すき焼きの贅沢へ。

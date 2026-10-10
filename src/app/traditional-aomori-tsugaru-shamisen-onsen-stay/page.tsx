@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】迫力の津軽三味線生ライブ！陸奥湾海鮮会席＆青森名湯を味わう風情旅館5選 | 日本全国・旅宿クラウド',
+  title: '2026年：迫力の津軽三味線生ライブ！陸奥湾海鮮会席＆青森名湯を味わう風情旅館5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！魂を揺さぶる津軽三味線の毎夜の生演奏ライブ！陸奥湾ホタテ・大間マグロ会席と浅虫温泉・嶽温泉の源泉で青森の情緒に浸る名旅館5選。',
   keywords: ["2026年", "青森名湯を味わう風情旅館5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: '【2026年】迫力の津軽三味線生ライブ！陸奥湾海鮮会席＆青森名湯を味わう風情旅館5選',
+    title: '2026年：迫力の津軽三味線生ライブ！陸奥湾海鮮会席＆青森名湯を味わう風情旅館5選',
     description: '2026年最新！魂を揺さぶる津軽三味線の毎夜の生演奏ライブ！陸奥湾ホタテ・大間マグロ会席と浅虫温泉・嶽温泉の源泉で青森の情緒に浸る名旅館5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/traditional-aomori-tsugaru-shamisen-onsen-stay',
@@ -193,9 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> 津軽三味線生ライブ×陸奥湾極上海鮮
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】迫力の津軽三味線生ライブ！陸奥湾海鮮会席＆青森名湯を味わう風情旅館5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」迫力の津軽三味線生ライブ！陸奥湾海鮮会席＆青森名湯を味わう風情旅館5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             バチが弦を叩く力強い響きと魂を揺さぶる音色。館内ロビーや特設ステージで毎夜開催される津軽三味線の生演奏ライブに魅了され、陸奥湾直送のホタテや旬魚の会席、名湯浅虫温泉の温もりに浸る青森の情緒旅。
           </p>

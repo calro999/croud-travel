@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/gifu-nagaragawa-solo-business-castle-onsen-stay/" },
-  title: '【岐阜出張・歴史ひとり旅】長良川温泉・金華山岐阜城パノラマ・飛騨牛グルメ！信長公ゆかりの地でととのう厳選3宿',
+  title: '岐阜出張・歴史ひとり旅：長良川温泉・金華山岐阜城パノラマ・飛騨牛グルメ！信長公ゆかりの地でととのう厳選3宿',
   description: '名古屋駅からJR新快速でわずか約20分！江戸享保年間創業で長良川の鵜飼舟を望む老舗名湯「長良川温泉 十八楼」、金華山と岐阜城の絶景を望むハイクラスリゾート「都ホテル 岐阜長良川」、JR岐阜駅徒歩約3分の快適ビジネス拠点「ダイワロイネットホテル岐阜」を楽天APIデータに基づき徹底比較。',
   keywords: '岐阜 出張 ホテル,岐阜 ひとり旅 温泉,長良川温泉 十八楼,都ホテル岐阜長良川,ダイワロイネットホテル岐阜,岐阜城 飛騨牛',
   openGraph: {
-    title: '【岐阜出張・歴史ひとり旅】長良川温泉・金華山岐阜城パノラマ・飛騨牛グルメ！信長公ゆかりの地でととのう厳選3宿',
+    title: '岐阜出張・歴史ひとり旅：長良川温泉・金華山岐阜城パノラマ・飛騨牛グルメ！信長公ゆかりの地でととのう厳選3宿',
     description: '名古屋駅からJR新快速でわずか約20分！江戸享保年間創業で長良川の鵜飼舟を望む老舗名湯「長良川温泉 十八楼」、金華山と岐阜城の絶景を望むハイクラスリゾート「都ホテル 岐阜長良川」、JR岐阜駅徒歩約3分の快適ビジネス拠点「ダイワロイネットホテル岐阜」を楽天APIデータに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/gifu-nagaragawa-solo-business-castle-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【岐阜出張・歴史ひとり旅】長良川温泉・金華山岐阜城パノラマ・飛騨牛グルメ！信長公ゆかりの地でととのう厳選3宿',
+    headline: '岐阜出張・歴史ひとり旅：長良川温泉・金華山岐阜城パノラマ・飛騨牛グルメ！信長公ゆかりの地でととのう厳選3宿',
     description: '名古屋駅からJR新快速でわずか約20分！江戸享保年間創業で長良川の鵜飼舟を望む老舗名湯「長良川温泉 十八楼」、金華山と岐阜城の絶景を望むハイクラスリゾート「都ホテル 岐阜長良川」、JR岐阜駅徒歩約3分の快適ビジネス拠点「ダイワロイネットホテル岐阜」を楽天APIデータに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -73,9 +73,7 @@ export default function ArticlePage() {
         <div className="inline-block bg-amber-700 text-white text-xs font-semibold px-3 py-1 rounded-full mb-3 tracking-wider">
           ひとり旅・出張・サウナ＆名湯特集
         </div>
-        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">
-          【岐阜出張・歴史ひとり旅】長良川温泉・金華山岐阜城パノラマ・飛騨牛グルメ！信長公ゆかりの地でととのう厳選3宿
-        </h1>
+        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">「岐阜出張・歴史ひとり旅」長良川温泉・金華山岐阜城パノラマ・飛騨牛グルメ！信長公ゆかりの地でととのう厳選3宿</h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.12 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>

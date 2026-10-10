@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kagoshima-solo-retreat-sakurajima-onsen-stay/" },
-  title: '【鹿児島ひとり旅＆出張】錦江湾に浮かぶ桜島一望・展望露天温泉・黒豚しゃぶしゃぶ！南国の雄大な自然に抱かれる極上宿 厳選3選',
+  title: '鹿児島ひとり旅＆出張：錦江湾に浮かぶ桜島一望・展望露天温泉・黒豚しゃぶしゃぶ！南国の雄大な自然に抱かれる極上宿 厳選3選',
   description: '九州新幹線の終着駅・鹿児島！「標高108mの城山高台から桜島と錦江湾を見下ろす絶景露天温泉。」を誇る最高峰「SHIROYAMA HOTEL kagoshima（城山ホテル鹿児島）。」、鹿児島中央駅直結で桜島ビュー客室を持つ「ソラリア西鉄ホテル鹿児島」、天文館の真ん中で天然温泉と黒豚朝食が嬉しい「天然温泉 霧桜の湯 ドーミーイン鹿児島」を徹底特集。',
   keywords: '鹿児島 一人旅 ホテル おすすめ,鹿児島 出張 ホテル 温泉,城山ホテル鹿児島 温泉,ソラリア西鉄ホテル鹿児島 宿泊,鹿児島 桜島ビュー ホテル',
   openGraph: {
-    title: '【鹿児島ひとり旅＆出張】錦江湾に浮かぶ桜島一望・展望露天温泉・黒豚しゃぶしゃぶ！南国の雄大な自然に抱かれる極上宿 厳選3選',
+    title: '鹿児島ひとり旅＆出張：錦江湾に浮かぶ桜島一望・展望露天温泉・黒豚しゃぶしゃぶ！南国の雄大な自然に抱かれる極上宿 厳選3選',
     description: '九州新幹線の終着駅・鹿児島！「標高108mの城山高台から桜島と錦江湾を見下ろす絶景露天温泉。」を誇る最高峰「SHIROYAMA HOTEL kagoshima（城山ホテル鹿児島）。」、鹿児島中央駅直結で桜島ビュー客室を持つ「ソラリア西鉄ホテル鹿児島」、天文館の真ん中で天然温泉と黒豚朝食が嬉しい「天然温泉 霧桜の湯 ドーミーイン鹿児島」を徹底特集。',
     url: 'https://croud-travel.pages.dev/kagoshima-solo-retreat-sakurajima-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【鹿児島ひとり旅＆出張】錦江湾に浮かぶ桜島一望・展望露天温泉・黒豚しゃぶしゃぶ！南国の雄大な自然に抱かれる極上宿 厳選3選',
+    headline: '鹿児島ひとり旅＆出張：錦江湾に浮かぶ桜島一望・展望露天温泉・黒豚しゃぶしゃぶ！南国の雄大な自然に抱かれる極上宿 厳選3選',
     description: '九州新幹線の終着駅・鹿児島！「標高108mの城山高台から桜島と錦江湾を見下ろす絶景露天温泉。」を誇る最高峰「SHIROYAMA HOTEL kagoshima（城山ホテル鹿児島）。」、鹿児島中央駅直結で桜島ビュー客室を持つ「ソラリア西鉄ホテル鹿児島」、天文館の真ん中で天然温泉と黒豚朝食が嬉しい「天然温泉 霧桜の湯 ドーミーイン鹿児島」を徹底特集。',
     author: {
       '@type': 'Organization',
@@ -74,9 +74,7 @@ export default function ArticlePage() {
           <span>✨</span>
           <span>鹿児島・桜島ビュー＆展望温泉特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【鹿児島ひとり旅＆出張】錦江湾に浮かぶ桜島一望・展望露天温泉・黒豚しゃぶしゃぶ！南国の雄大な自然に抱かれる極上宿 厳選3選
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">「鹿児島ひとり旅＆出張」錦江湾に浮かぶ桜島一望・展望露天温泉・黒豚しゃぶしゃぶ！南国の雄大な自然に抱かれる極上宿 厳選3選</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
           九州新幹線の終着駅・鹿児島！「標高108mの城山高台から桜島と錦江湾を見下ろす絶景露天温泉。」を誇る最高峰「SHIROYAMA HOTEL kagoshima（城山ホテル鹿児島）。」、鹿児島中央駅直結で桜島ビュー客室を持つ「ソラリア西鉄ホテル鹿児島」、天文館の真ん中で天然温泉と黒豚朝食が嬉しい「天然温泉 霧桜の湯 ドーミーイン鹿児島」を徹底特集。
         </p>

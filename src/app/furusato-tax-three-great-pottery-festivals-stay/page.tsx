@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-pottery-festivals-stay/" },
-  title: '日本三大陶器まつり＆名窯の里・器と美食を愛でる工芸温泉宿×ふるさと納税完全ガイド【2026年最新】有田・波佐見・信楽',
+  title: '日本三大陶器まつり＆名窯の里・器と美食を愛でる工芸温泉宿×ふるさと納税厳選ガイド有田・波佐見・信楽',
   description: '日本を代表する焼き物の聖地を巡る！佐賀「有田陶器市」400年の磁器文化と嬉野温泉大正屋椎葉山荘、長崎「波佐見陶器まつり」モダンで使いやすい日常の器とホテルブリスヴィラ波佐見、滋賀「信楽陶器まつり」日本六古窯の狸と登り窯・ホテルレイクヴィラ。日本三大陶器まつりの買い付け巡礼と名窯の器でいただく極上会席を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大陶器まつり・名窯の里特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大陶器まつり＆名窯の里・器と美食を愛でる工芸温泉宿×ふるさと納税完全ガイド【2026年最新】有田・波佐見・信楽',
+    title: '日本三大陶器まつり＆名窯の里・器と美食を愛でる工芸温泉宿×ふるさと納税厳選ガイド有田・波佐見・信楽',
     description: '日本を代表する焼き物の聖地を巡る！佐賀「有田陶器市」400年の磁器文化と嬉野温泉大正屋椎葉山荘、長崎「波佐見陶器まつり」モダンで使いやすい日常の器とホテルブリスヴィラ波佐見、滋賀「信楽陶器まつり」日本六古窯の狸と登り窯・ホテルレイクヴィラ。日本三大陶器まつりの買い付け巡礼と名窯の器でいただく極上会席を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-pottery-festivals-stay',
@@ -155,9 +155,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大陶器まつり・名窯の里特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大陶器まつり＆名窯工芸宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大陶器まつり＆名窯工芸宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             全国から数十万〜百万人を超える器ファンが集い、作家や職人との語らいの中で特別な器を探す「日本三大陶器まつり（三大名窯の里）」――日本初の磁器として400年以上の歴史を誇りゴールデンウィークに街中が器で埋め尽くされる佐賀の「有田陶器市」、隣接する波佐見町で機能美とモダンなデザインが若者を中心に絶大な人気を集める長崎の「波佐見陶器まつり」、そして日本六古窯の一つとして信楽粘土が醸し出す素朴な土味と愛嬌ある狸の置物で親しまれる滋賀の「信楽陶器まつり」。手作りの器は、使うほどに手に馴染み、毎日の食卓に温もりを添えてくれます。名窯の里や美肌温泉宿に泊まり、職人の器に美しく盛り付けられた佐賀牛や近江牛会席を味わう豊かな休日を楽天ふるさと納税でお楽しみください。
           </p>

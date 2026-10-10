@@ -180,9 +180,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            一足早い春の訪れ！早咲き河津桜＆梅まつりを愛でる花見露天風呂温泉旅館
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">一足早い春の訪れ！早咲き河津桜＆梅まつりを愛でる花見露天風呂温泉旅館</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             まだ冬の寒さが残る2月から、鮮やかな濃いピンク色の花びらで春の先陣を切る河津桜。川沿いに咲き誇る桜並木と黄色の菜の花のコントラストを楽しんだ後は、湯量豊富な天然温泉露天風呂で温まる。春の訪れを日本でいち早く実感できる、風情あふれるお花見名宿をご紹介します。
           </p>

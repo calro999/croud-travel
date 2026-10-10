@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月山口】徳山の冬ふぐ紀行！名宿5選',
+  title: '11・12・1月山口：徳山の冬ふぐ紀行！名宿5選',
   description: '新春の学業成就祈願と瀬戸内の極上冬フグを堪能する11〜1月の山口・周防（防府・周南・下松）旅行完全ガイド。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '防府天満宮 初詣, 周南 とらふぐ 宿, 徳山 ふぐ延縄発祥, 笠戸ひらめ 国民宿舎大城, 高森牛 山口, 日本三大天神, 防府市 ホテル, 瀬戸内海 絶景 宿, 山口 冬 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamaguchi-hofu-tenmangu-hatsumode-shunan-fugu-stay/"
   },
   openGraph: {
-    title: '【11・12・1月山口】徳山の冬ふぐ紀行！名宿5選',
+    title: '11・12・1月山口：徳山の冬ふぐ紀行！名宿5選',
     description: '新春の学業成就祈願と瀬戸内の極上冬フグを堪能する11〜1月の山口・周防（防府・周南・下松）旅行完全ガイド。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-yamaguchi-hofu-tenmangu-hatsumode-shunan-fugu-stay',
     type: 'article',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月山口】防府天満宮初詣と周南・徳山の冬ふぐ紀行！延縄発祥の地で味わう「本場とらふぐ・笠戸ひらめ・高森牛」と瀬戸内海展望名宿5選",
+    title: "11・12・1月山口：防府天満宮初詣と周南・徳山の冬ふぐ紀行！延縄発祥の地で味わう「本場とらふぐ・笠戸ひらめ・高森牛」と瀬戸内海展望名宿5選",
     description: "新春の学業成就祈願と瀬戸内の極上冬フグを堪能する11〜1月の山口・周防（防府・周南・下松）旅行完全ガイド。「日本最初の天満宮」として名高い防府天満宮の新春初詣や、ふぐ延縄漁発祥の地・周南徳山が誇る本場の「天然＆養殖とらふぐ会席」、下松・笠戸島名物「笠戸ひらめ」、幻の銘柄牛「高森牛」。瀬戸内海の多島美を一望する絶景宿など厳選名宿5選を詳しくご紹介します。",
     images: ['https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -284,11 +284,7 @@ export default function YamaguchiHofuShunanWinterPage() {
               <Sparkles className="w-4 h-4 text-amber-300" />
               <span>11月・12月・1月冬の山陽旅情特集</span>
             </div>
-            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 text-white drop-shadow-md">
-              山口・防府＆周南・下松<br className="hidden sm:inline" />
-              日本最初の天神「防府天満宮」新春初詣と<br className="hidden sm:inline" />
-              延縄発祥の地・周南徳山の「冬とらふぐ・笠戸ひらめ」名宿5選
-            </h1>
+            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 text-white drop-shadow-md">山口・防府＆周南・下松<br className="hidden sm:inline" /> 日本最初の天神「防府天満宮」新春初詣と<br className="hidden sm:inline" /> 延縄発祥の地・周南徳山の「冬とらふぐ・笠戸ひらめ」名宿5選</h1>
             <p className="max-w-3xl mx-auto text-sm md:text-lg text-rose-100 leading-relaxed drop-shadow">
               菅原道真公ゆかりの日本最初の天満宮「防府天満宮」での新春合格・厄除け祈願。ふぐ延縄漁発祥の地・周南徳山で味わう本場の極上とらふぐ会席や笠戸ひらめ、幻の高森牛。穏やかな瀬戸内海の多島美を一望する絶景宿で過ごす冬の周防路の旅。
             </p>

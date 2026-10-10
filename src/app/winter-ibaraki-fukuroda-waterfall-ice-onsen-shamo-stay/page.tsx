@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月茨城】日本三名瀑！名宿5選',
+  title: '11・12・1月茨城：日本三名瀑！名宿5選',
   description: '11月から1月、茨城県北部の奥久慈大子町は凛冽な冷気に包まれ、日本三名瀑「袋田の滝」が純白の氷壁へと変貌を遂げる「氷瀑（ひょうばく）」のシー。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '袋田の滝 氷瀑, 袋田の滝 冬, 奥久慈軍鶏 鍋, 常陸牛 ステーキ, 袋田温泉 思い出浪漫館, 悠久の宿 滝美館, 大子温泉 やみぞ, 元祖しゃも弁当の宿 玉屋旅館, 四季の湯宿 梅屋山荘, 大子来人 ライトアップ, 常陸秋そば, 11月 12月 1月 茨城旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-ibaraki-fukuroda-waterfall-ice-onsen-shamo-stay/"
   },
   openGraph: {
-    title: '【11・12・1月茨城】日本三名瀑！名宿5選',
+    title: '11・12・1月茨城：日本三名瀑！名宿5選',
     description: '11月から1月、茨城県北部の奥久慈大子町は凛冽な冷気に包まれ、日本三名瀑「袋田の滝」が純白の氷壁へと変貌を遂げる「氷瀑（ひょうばく）」のシー。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-ibaraki-fukuroda-waterfall-ice-onsen-shamo-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月茨城】日本三名瀑・袋田の滝の完全凍結「氷瀑」と奥久慈温泉郷・名物奥久慈軍鶏鍋＆常陸牛を堪能する冬の名宿5選",
+    title: "11・12・1月茨城：日本三名瀑・袋田の滝の完全凍結「氷瀑」と奥久慈温泉郷・名物奥久慈軍鶏鍋＆常陸牛を堪能する冬の名宿5選",
     description: "11月から1月、茨城県北部の奥久慈大子町は凛冽な冷気に包まれ、日本三名瀑「袋田の滝」が純白の氷壁へと変貌を遂げる「氷瀑（ひょうばく）」のシーズンを迎えます。冬の光を受けてダイヤモンドのように輝く巨大な氷のカーテン、夜間を幻想的に照らし出すライトアップ「大子来人」、そして寒さを忘れさせる名物「奥久慈軍鶏鍋」やとろける霜降り「常陸牛」。弱アルカリ性の柔らかな美肌の湯が湧く奥久慈温泉郷の厳選名宿5選と、冬の絶景ドライブ＆美食モデルコースを詳しくお届けします。",
     images: ['https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80']
   }
@@ -42,7 +42,7 @@ export default function IbarakiFukurodaIceWinterPage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: "【11・12・1月茨城】日本三名瀑・袋田の滝の完全凍結「氷瀑」と奥久慈温泉郷・名物奥久慈軍鶏鍋＆常陸牛を堪能する冬の名宿5選",
+    headline: "11・12・1月茨城：日本三名瀑・袋田の滝の完全凍結「氷瀑」と奥久慈温泉郷・名物奥久慈軍鶏鍋＆常陸牛を堪能する冬の名宿5選",
     description: "11月から1月、茨城県北部の奥久慈大子町は凛冽な冷気に包まれ、日本三名瀑「袋田の滝」が純白の氷壁へと変貌を遂げる「氷瀑（ひょうばく）」のシーズンを迎えます。冬の光を受けてダイヤモンドのように輝く巨大な氷のカーテン、夜間を幻想的に照らし出すライトアップ「大子来人」、そして寒さを忘れさせる名物「奥久慈軍鶏鍋」やとろける霜降り「常陸牛」。弱アルカリ性の柔らかな美肌の湯が湧く奥久慈温泉郷の厳選名宿5選と、冬の絶景ドライブ＆美食モデルコースを詳しくお届けします。",
     image: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80',
     datePublished: '',
@@ -282,9 +282,7 @@ export default function IbarakiFukurodaIceWinterPage() {
             <Snowflake className="w-4 h-4 text-cyan-300" />
             11月・12月・1月 冬の茨城・日本三名瀑「袋田の滝」氷瀑＆極上奥久慈温泉特集
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【11・12・1月茨城】日本三名瀑・袋田の滝の完全凍結「氷瀑」と奥久慈温泉郷・名物奥久慈軍鶏鍋＆常陸牛を堪能する冬の名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「11・12・1月茨城」日本三名瀑・袋田の滝の完全凍結「氷瀑」と奥久慈温泉郷・名物奥久慈軍鶏鍋＆常陸牛を堪能する冬の名宿5選</h1>
           <p className="text-slate-300 text-sm sm:text-base md:text-lg max-w-3xl leading-relaxed">
             四段の巨岩を流れ落ちる水流が、厳冬の冷気によって白銀の氷壁へと姿を変える奇蹟の絶景「氷瀑」。夜間には幻想的な光の祭典「大子来人〜ダイゴライト〜」が岩壁と観瀑トンネルを神秘的に照らします。散策の後は、とろりとした弱アルカリ性の美肌温泉に浸かり、芳醇な出汁が香る熱々の「奥久慈軍鶏鍋」と、とろける霜降り「常陸牛」の極上会席に舌鼓。都心から車で約2時間の山里で、五感が研ぎ澄まされる冬の旅をご案内します。
           </p>

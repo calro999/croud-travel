@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '天然砂むし温泉＆海辺の名湯で極上デトックス！名門湯宿×ふるさと納税完全ガイド【2026年最新】指宿・別府',
+  title: '天然砂むし温泉＆海辺の名湯で極上デトックス！名門湯宿×ふるさと納税厳選ガイド指宿・別府',
   description: '世界でも稀少な天然の地熱を活用した「砂むし温泉」で心身の老廃物をすっきりデトックス！元禄風呂と錦江湾の壮大な海景、館内砂むし温泉を誇る指宿の最高峰「指宿白水館」、別府湾沿いの上人ヶ浜天然砂湯に近接し全室海側露天風呂を備えたモダンリゾート「AMANE RESORT SEIKAI（潮騒の宿 晴海）。」、錦江湾パノラマと館内砂蒸し・ヤシの木茂る南国情緒が魅力の「指宿フェニックスホテル」。温かい天然砂に全身を包まれる至極のリラクゼーションを、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
   keywords: ["天然砂むし温泉", "2026年最新", "指宿", "別府", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: { canonical: baseUrl + '/furusato-tax-sand-bath-sunamushi-detox-onsen-stay/' },
   openGraph: {
-    title: '天然砂むし温泉＆海辺の名湯で極上デトックス！名門湯宿×ふるさと納税完全ガイド【2026年最新】指宿・別府',
+    title: '天然砂むし温泉＆海辺の名湯で極上デトックス！名門湯宿×ふるさと納税厳選ガイド指宿・別府',
     description: '世界でも稀少な天然の地熱を活用した「砂むし温泉」で心身の老廃物をすっきりデトックス！元禄風呂と錦江湾の壮大な海景、館内砂むし温泉を誇る指宿の最高峰「指宿白水館」、別府湾沿いの上人ヶ浜天然砂湯に近接し全室海側露天風呂を備えたモダンリゾート「AMANE RESORT SEIKAI（潮騒の宿 晴海）。」、錦江湾パノラマと館内砂蒸し・ヤシの木茂る南国情緒が魅力の「指宿フェニックスホテル」。温かい天然砂に全身を包まれる至極のリラクゼーションを、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
     url: baseUrl + '/furusato-tax-sand-bath-sunamushi-detox-onsen-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoSandBathSunamushiStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             名物砂むし温泉＆極上デトックス湯治宿特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            天然砂むし温泉＆海辺の名湯で極上デトックス！名門湯宿×ふるさと納税完全ガイド【2026年最新】指宿・別府
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">天然砂むし温泉＆海辺の名湯で極上デトックス！名門湯宿×ふるさと納税厳選ガイド指宿・別府</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             地熱の恵みによって温められた天然の砂に首まで埋もれる「砂むし温泉（砂湯）」。世界でも類を見ないこの伝統的な入浴法は、通常の温泉入浴と比較して心拍出量を高め、全身の血流を約3倍〜4倍に促進させると言われています。約10分〜15分横たわっているだけで、温かい砂の適度な圧力と心地よい熱気により、身体の深部から驚くほどの汗が噴き出し、日頃のデスクワークや冷えで凝り固まった筋肉と老廃物が一気にリフレッシュされます。日本を代表する砂むし温泉の聖地・鹿児島県指宿温泉で、広大な日本庭園と元禄風呂、館内専用の砂むし温泉施設を擁する屈指の名門旅館「指宿白水館」、別府湾を望む上人ヶ浜の天然海浜砂湯至近に佇み、全客室に掛け流し露天風呂を備える極上リゾート「AMANE RESORT SEIKAI（潮騒の宿 晴海）。」、そして錦江湾の高台から絶景を望み館内砂蒸し温泉とヤシの木揺れる南国リゾートを満喫できる「指宿フェニックスホテル」。旅の疲れを根本から解きほぐす砂むしデトックス温泉宿を、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期間3年）を活用して実質自己負担2,000円で賢く予約し、極上の再生（リボーン）旅へ出かけましょう。
           </p>

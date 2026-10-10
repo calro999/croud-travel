@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/noboribetsu-solo-retreat-jigokudani-onsen-stay/" },
-  title: '【登別温泉ひとり旅・至高の湯治おこもり】地獄谷の地熱パノラマ・日本屈指の多種泉質めぐり・白濁硫黄泉！大自然の驚異に癒やされる厳選3宿',
+  title: '登別温泉ひとり旅・至高の湯治おこもり：地獄谷の地熱パノラマ・日本屈指の多種泉質めぐり・白濁硫黄泉！大自然の驚異に癒やされる厳選3宿',
   description: '新千歳空港や札幌から直通バス運行！35の浴槽と7つの泉質を誇る温泉天国「第一滝本館」、白濁の硫黄泉とバイキングが人気の「登別万世閣」、ローマ風ドーム大浴場と鬼サウナが話題の「登別グランドホテル」を楽天APIデータに基づき徹底比較。',
   keywords: '登別温泉 一人旅 旅館,登別 第一滝本館 一人,登別万世閣 宿泊,登別グランドホテル 鬼サウナ,北海道 温泉 おこもり 地獄谷',
   openGraph: {
-    title: '【登別温泉ひとり旅・至高の湯治おこもり】地獄谷の地熱パノラマ・日本屈指の多種泉質めぐり・白濁硫黄泉！大自然の驚異に癒やされる厳選3宿',
+    title: '登別温泉ひとり旅・至高の湯治おこもり：地獄谷の地熱パノラマ・日本屈指の多種泉質めぐり・白濁硫黄泉！大自然の驚異に癒やされる厳選3宿',
     description: '新千歳空港や札幌から直通バス運行！35の浴槽と7つの泉質を誇る温泉天国「第一滝本館」、白濁の硫黄泉とバイキングが人気の「登別万世閣」、ローマ風ドーム大浴場と鬼サウナが話題の「登別グランドホテル」を楽天APIデータに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/noboribetsu-solo-retreat-jigokudani-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【登別温泉ひとり旅・至高の湯治おこもり】地獄谷の地熱パノラマ・日本屈指の多種泉質めぐり・白濁硫黄泉！大自然の驚異に癒やされる厳選3宿',
+    headline: '登別温泉ひとり旅・至高の湯治おこもり：地獄谷の地熱パノラマ・日本屈指の多種泉質めぐり・白濁硫黄泉！大自然の驚異に癒やされる厳選3宿',
     description: '新千歳空港や札幌から直通バス運行！35の浴槽と7つの泉質を誇る温泉天国「第一滝本館」、白濁の硫黄泉とバイキングが人気の「登別万世閣」、ローマ風ドーム大浴場と鬼サウナが話題の「登別グランドホテル」を楽天APIデータに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -73,9 +73,7 @@ export default function ArticlePage() {
         <div className="inline-block bg-amber-700 text-white text-xs font-semibold px-3 py-1 rounded-full mb-3 tracking-wider">
           ひとり旅・出張・サウナ＆名湯特集
         </div>
-        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">
-          【登別温泉ひとり旅・至高の湯治おこもり】地獄谷の地熱パノラマ・日本屈指の多種泉質めぐり・白濁硫黄泉！大自然の驚異に癒やされる厳選3宿
-        </h1>
+        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">「登別温泉ひとり旅・至高の湯治おこもり」地獄谷の地熱パノラマ・日本屈指の多種泉質めぐり・白濁硫黄泉！大自然の驚異に癒やされる厳選3宿</h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.12 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>

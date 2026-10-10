@@ -3,11 +3,11 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【秋の金沢】兼六園の雪吊りと紅葉ライトアップ！秋の風情と温泉を味わうおすすめ名宿5選【2026最新】',
+  title: '秋の金沢：兼六園の雪吊りと紅葉ライトアップ！秋の風情と温泉を味わうおすすめ名宿5選「2026最新」',
   description: '11月1日から始まる兼六園の冬支度「雪吊り」と唐崎松・霞ヶ池の鮮やかな紅葉ライトアップ！金沢湯涌温泉や市内中心部のクラシック名門ホテルなど厳選5宿をご紹介。百楽荘、ホテル山楽、御宿野乃金沢の宿泊情報を徹底比較！',
   keywords: '兼六園 雪吊り, 金沢 紅葉 ライトアップ, 兼六園 観光 宿, 金沢湯涌温泉, 金沢白鳥路 ホテル山楽, 百楽荘 金沢',
   openGraph: {
-    title: '【秋の金沢】兼六園の雪吊りと紅葉ライトアップ！秋の風情と温泉を味わうおすすめ名宿5選【2026最新】',
+    title: '秋の金沢：兼六園の雪吊りと紅葉ライトアップ！秋の風情と温泉を味わうおすすめ名宿5選「2026最新」',
     description: '11月1日から始まる兼六園の冬支度「雪吊り」と唐崎松・霞ヶ池の鮮やかな紅葉ライトアップ！秋の金沢を満喫する厳選5宿。',
     type: 'article',
     url: 'https://croud-travel.com/autumn-ishikawa-kanazawa-kenrokuen-yukitsuri-momiji-hotels-stay',
@@ -32,9 +32,7 @@ export default function KanazawaKenrokuenAutumnPage() {
             <span className="px-3 py-1 bg-amber-600 text-white text-xs font-bold rounded-full">秋の北陸・金沢特集</span>
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">見頃・雪吊り: 11月上旬〜11月下旬</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">
-            【秋の金沢】兼六園の雪吊りと紅葉ライトアップ！秋の風情と温泉を味わうおすすめ名宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の金沢」兼六園の雪吊りと紅葉ライトアップ！秋の風情と温泉を味わうおすすめ名宿5選</h1>
           <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
             国の特別名勝・兼六園で11月1日から始まる風物詩「雪吊り」。霞ヶ池の水面に映る唐崎松の幾何学的な縄張りと錦秋のモミジ、夜間の幽玄なライトアップを愛でる極上の金沢宿泊プランをご提案します。
           </p>

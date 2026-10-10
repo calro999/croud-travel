@@ -3,11 +3,11 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【秋の竹田城跡】天空の城の幻想的な雲海と但馬牛グルメ！城下町を満喫するおすすめ宿5選【2026最新】',
+  title: '秋の竹田城跡：天空の城の幻想的な雲海と但馬牛グルメ！城下町を満喫するおすすめ宿5選「2026最新」',
   description: '10月〜11月が最も雲海発生率が高まる「天空の城」竹田城跡！早朝の立雲峡から望む雲海に浮かぶ石垣の城と情緒ある城下町散策。朱々、ホテルEN、有斐軒など但馬の味覚と名湯を楽しむ厳選宿5選をご紹介。',
   keywords: '竹田城跡 雲海 見頃, 天空の城 宿, 立雲峡 展望台, 竹田城下町 旅館, ホテルEN 竹田城, 朱々 竹田',
   openGraph: {
-    title: '【秋の竹田城跡】天空の城の幻想的な雲海と但馬牛グルメ！城下町を満喫するおすすめ宿5選【2026最新】',
+    title: '秋の竹田城跡：天空の城の幻想的な雲海と但馬牛グルメ！城下町を満喫するおすすめ宿5選「2026最新」',
     description: '10月〜11月が最も雲海発生率が高まる「天空の城」竹田城跡！但馬牛と雲海を満喫する厳選宿5選。',
     type: 'article',
     url: 'https://croud-travel.com/autumn-hyogo-takedajo-unkai-castle-tajima-hotels-stay',
@@ -32,9 +32,7 @@ export default function TakedaCastleAutumnPage() {
             <span className="px-3 py-1 bg-amber-600 text-white text-xs font-bold rounded-full">秋の兵庫・絶景特集</span>
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">雲海ピーク: 10月上旬〜11月下旬</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">
-            【秋の竹田城跡】天空の城の幻想的な雲海と但馬牛グルメ！城下町を満喫するおすすめ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の竹田城跡」天空の城の幻想的な雲海と但馬牛グルメ！城下町を満喫するおすすめ宿5選</h1>
           <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
             夜明けとともに円山川から湧き上がる真っ白な霧が谷を埋め尽くし、山頂の石垣群だけが浮かび上がる「天空の城」。立雲峡からの奇跡の眺望と、風情ある城下町の町屋宿で味わう極上但馬牛会席をご案内します。
           </p>

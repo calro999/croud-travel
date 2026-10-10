@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【2026年秋！サンリオピューロランド・ハロウィン】屋内型テーマパークと多摩・立川・府中人気ホテル5選",
+  title: "2026年秋！サンリオピューロランド・ハロウィン：屋内型テーマパークと多摩・立川・府中人気ホテル5選",
   description: "天候を気にせず可愛いキャラクターたちのハロウィンを満喫！ピューロランドへのアクセス良好な京王線・多摩モノレール沿線（府中・立川・八王子）の厳選ホテル5選。",
   keywords: "サンリオピューロランド ハロウィン 2026, ピューロランド ホテル おすすめ, 多摩センター ホテル, 府中 立川 ホテル 子連れ, サンリオ 宿泊",
   alternates: {
     canonical: "https://croud-travel.pages.dev/autumn-tokyo-tama-sanrio-puroland-halloween-hotels-stay/",
   },
   openGraph: {
-    title: "【2026年秋！サンリオピューロランド・ハロウィン】屋内型テーマパークと多摩・立川・府中人気ホテル5選",
+    title: "2026年秋！サンリオピューロランド・ハロウィン：屋内型テーマパークと多摩・立川・府中人気ホテル5選",
     description: "天候を気にせず可愛いキャラクターたちのハロウィンを満喫！ピューロランドへのアクセス良好な京王線・多摩モノレール沿線（府中・立川・八王子）の厳選ホテル5選。",
     url: 'https://croud-travel.pages.dev/autumn-tokyo-tama-sanrio-puroland-halloween-hotels-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【2026年秋！サンリオピューロランド・ハロウィン】屋内型テーマパークと多摩・立川・府中人気ホテル5選",
+    title: "2026年秋！サンリオピューロランド・ハロウィン：屋内型テーマパークと多摩・立川・府中人気ホテル5選",
     description: "天候を気にせず可愛いキャラクターたちのハロウィンを満喫！ピューロランドへのアクセス良好な京王線・多摩モノレール沿線（府中・立川・八王子）の厳選ホテル5選。",
   }
 };
@@ -131,9 +131,7 @@ export default function FeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             秋の屋内型テーマパーク・ハロウィン特集
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【2026年秋！サンリオピューロランド・ハロウィン】<br className="hidden sm:inline" />屋内型テーマパークと多摩・立川・府中人気ホテル5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">「2026年秋！サンリオピューロランド・ハロウィン」<br className="hidden sm:inline" />屋内型テーマパークと多摩・立川・府中人気ホテル5選</h1>
           <p className="max-w-2xl mx-auto text-sm md:text-base text-stone-200 leading-relaxed">
             雨の日でも秋の肌寒い日でも快適！全館屋内型のサンリオピューロランドで楽しむキュートでちょっぴりダークなハロウィンイベント。京王線・多摩モノレール沿線のアクセス抜群なホテルを厳選紹介。
           </p>

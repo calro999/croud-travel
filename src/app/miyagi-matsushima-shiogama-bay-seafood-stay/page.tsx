@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/miyagi-matsushima-shiogama-bay-seafood-stay/" },
-  title: "【宮城・松島＆塩竈】日本三景松島・塩竈生マグロ＆焼き牡蠣温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "宮城・松島＆塩竈：日本三景松島・塩竈生マグロ＆焼き牡蠣温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "芭蕉が愛した日本三景「松島」の島々パノラマと、日本屈指の生マグロ水揚げ港「塩竈」の美食を巡る特化ガイド。国宝瑞巌寺、五大堂、塩竈神社、焼き牡蠣小屋、美肌の松島温泉宿を徹底解説。",
   keywords: ["宮城", "松島", "塩竈", "日本三景松島", "塩竈生マグロ", "焼き牡蠣温泉宿", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             MATSUSHIMA & SHIOGAMA GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【宮城・松島＆塩竈】日本三景松島湾の島々・塩竈極上生マグロ＆焼き牡蠣温泉宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「宮城・松島＆塩竈」日本三景松島湾の島々・塩竈極上生マグロ＆焼き牡蠣温泉宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-teal-100/90 leading-relaxed">
             松尾芭蕉も言葉を失ったといわれる日本三景・松島湾の260余の島々。伊達政宗が再建した国宝・瑞巌寺の威厳と、塩竈港に揚がる極上の生マグロや冬の松島名物・焼き牡蠣。海風香る絶景温泉露天風呂から茜色に染まる朝日と湾を眺める、至福の宮城ステイへご案内します。
           </p>

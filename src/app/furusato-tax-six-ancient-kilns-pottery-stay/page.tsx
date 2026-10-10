@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '日本六古窯の里を巡る陶芸美と作家の器で味わう名旅館×ふるさと納税完全ガイド【2026年最新】備前・信楽・丹波立杭',
+  title: '日本六古窯の里を巡る陶芸美と作家の器で味わう名旅館×ふるさと納税厳選ガイド備前・信楽・丹波立杭',
   description: '中世から窯の火が途絶えることなく続く日本屈指のやきものの里「日本六古窯」（岡山・備前焼、滋賀・信楽焼、兵庫・丹波焼）。登り窯のぬくもりと作家の器で味わう極上会席料理。楽天ふるさと納税宿泊クーポン完全活用。',
   keywords: ["2026年最新", "備前", "信楽", "丹波立杭", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-six-ancient-kilns-pottery-stay/",
   },
   openGraph: {
-    title: '日本六古窯の里を巡る陶芸美と作家の器で味わう名旅館×ふるさと納税完全ガイド【2026年最新】備前・信楽・丹波立杭',
+    title: '日本六古窯の里を巡る陶芸美と作家の器で味わう名旅館×ふるさと納税厳選ガイド備前・信楽・丹波立杭',
     description: '中世から窯の火が途絶えることなく続く日本屈指のやきものの里「日本六古窯」（岡山・備前焼、滋賀・信楽焼、兵庫・丹波焼）。登り窯のぬくもりと作家の器で味わう極上会席料理。楽天ふるさと納税宿泊クーポン完全活用。',
     url: 'https://croud-travel.pages.dev/furusato-tax-six-ancient-kilns-pottery-stay',
     siteName: '旅宿クラウド',
@@ -108,9 +108,7 @@ export default function FurusatoUpgradedPage() {
             <span>✨</span>
             <span>日本六古窯・陶芸美食ステイ特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            日本六古窯の里を巡る陶芸美と作家の器で味わう名旅館×ふるさと納税完全ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">日本六古窯の里を巡る陶芸美と作家の器で味わう名旅館×ふるさと納税厳選ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             日本古来の陶磁器文化を今に伝える「日本六古窯」。釉薬を使わず土と炎の力だけで焼き締める素朴で力強い「備前焼」、温かみのある緋色とタヌキの置物で知られる「信楽焼」、八百余年の歴史と灰釉の美しさを誇る「丹波焼（立杭焼）」。陶芸作家の器に美しく盛り付けられた旬の美食をいただき、登り窯の煙がたなびく里山温泉宿で過ごすひととき。楽天ふるさと納税の宿泊クーポンを活用して、日本のものづくり文化に浸る贅沢な旅をお楽しみください。
           </p>

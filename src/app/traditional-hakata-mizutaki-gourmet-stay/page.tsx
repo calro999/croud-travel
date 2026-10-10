@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】博多名物・濃厚鶏白湯水炊き！呼子イカ活造り＆福岡名湯・サウナの極上宿5選 | 日本全国・旅宿クラウド',
+  title: '2026年：博多名物・濃厚鶏白湯水炊き！呼子イカ活造り＆福岡名湯・サウナの極上宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！じっくり煮込んだ黄金スープの博多水炊き会席＆透き通る呼子イカ活造り！福岡・博多の天然温泉＆極上サウナ付きホテル5選。',
   keywords: ["2026年", "博多名物", "福岡名湯", "サウナの極上宿5選", "日本全国", "旅宿クラウド", "温泉宿"],
   openGraph: {
-    title: '【2026年】博多名物・濃厚鶏白湯水炊き！呼子イカ活造り＆福岡名湯・サウナの極上宿5選',
+    title: '2026年：博多名物・濃厚鶏白湯水炊き！呼子イカ活造り＆福岡名湯・サウナの極上宿5選',
     description: '2026年最新！じっくり煮込んだ黄金スープの博多水炊き会席＆透き通る呼子イカ活造り！福岡・博多の天然温泉＆極上サウナ付きホテル5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/traditional-hakata-mizutaki-gourmet-stay',
@@ -193,9 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> 博多名物水炊き×極上福岡天然温泉
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】博多名物・濃厚鶏白湯水炊き！呼子イカ活造り＆福岡名湯・サウナの極上宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」博多名物・濃厚鶏白湯水炊き！呼子イカ活造り＆福岡名湯・サウナの極上宿5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             鶏ガラをじっくり煮込んだコラーゲンたっぷりの濃厚白湯スープでいただく本場博多の水炊き。透き通る鮮度抜群の呼子直送イカ活造りとともに、天然温泉大浴場やサウナで寛ぐ贅沢な福岡グルメ旅。
           </p>

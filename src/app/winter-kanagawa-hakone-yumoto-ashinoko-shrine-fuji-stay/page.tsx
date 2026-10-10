@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月箱根】箱根神社新春初詣！名宿5選',
+  title: '11・12・1月箱根：箱根神社新春初詣！名宿5選',
   description: '冬の箱根・芦ノ湖は空気が澄み渡り、純白の冠雪を抱く富士山と紺碧の湖水が奇跡的な美しさを織りなす極上の季節。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '箱根 ホテル, 箱根湯本 温泉 旅館, 芦ノ湖 ホテル, 箱根神社 初詣, 富士山 絶景 箱根, 湯本富士屋ホテル, 山のホテル, 天成園, 11月 12月 1月 箱根 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kanagawa-hakone-yumoto-ashinoko-shrine-fuji-stay/"
   },
   openGraph: {
-    title: '【11・12・1月箱根】箱根神社新春初詣！名宿5選',
+    title: '11・12・1月箱根：箱根神社新春初詣！名宿5選',
     description: '冬の箱根・芦ノ湖は空気が澄み渡り、純白の冠雪を抱く富士山と紺碧の湖水が奇跡的な美しさを織りなす極上の季節。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-kanagawa-hakone-yumoto-ashinoko-shrine-fuji-stay',
     type: 'article'
@@ -251,10 +251,7 @@ export default function KanagawaHakoneWinterFeaturePage() {
             <Snowflake className="w-4 h-4 text-sky-300" />
             11月・12月・1月冬の特選旅｜神奈川・箱根湯本＆芦ノ湖
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">
-            冬の箱根湯本＆芦ノ湖・箱根神社新春初詣！<br className="hidden sm:inline" />
-            澄み渡る白雪富士の絶景と名湯に寛ぐ厳選宿5選
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">冬の箱根湯本＆芦ノ湖・箱根神社新春初詣！<br className="hidden sm:inline" /> 澄み渡る白雪富士の絶景と名湯に寛ぐ厳選宿5選</h1>
           <p className="text-base sm:text-lg text-slate-200/90 leading-relaxed max-w-4xl mb-8">
             首都圏から小田急ロマンスカーで約85分。冬の箱根は空気が澄み渡り、純白の冠雪を抱く富士山と紺碧の芦ノ湖が奇跡的な美しさを織りなす極上の季節です。湖畔に佇む関東総鎮守・箱根神社の新春開運初詣、芦ノ湖に浮かぶ朱塗りの平和の鳥居、湯坂山を望む箱根湯本温泉街の湯けむり。相模湾直送の冬魚介と箱根山麓の恵みを堪能し、歴史ある名湯で温まる至福の冬旅をお届けします。
           </p>

@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '阿蘇の秘湯・黒川温泉の入湯手形めぐり＆渓流絶景露天風呂×ふるさと納税完全攻略ガイド【2026年最新】山みず木・奥の湯・新明館',
+  title: '阿蘇の秘湯・黒川温泉の入湯手形めぐり＆渓流絶景露天風呂×ふるさと納税極上旅ガイド山みず木・奥の湯・新明館',
   description: 'ミシュラン2つ星を獲得した阿蘇の渓谷温泉地・黒川温泉！名物「入湯手形」で三十軒の個性豊かな露天風呂めぐり。「山あいの宿 山みず木」「旅館 奥の湯」「山の宿 新明館」を、熊本県南小国町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。渓流露天風呂、洞窟風呂、肥後あか牛会席を満喫。',
   keywords: ["阿蘇の秘湯", "黒川温泉の入湯手形めぐり", "2026年最新", "山みず木", "奥の湯", "新明館", "温泉宿"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kurokawa-onsen-yumeguri-luxury-stay/",
   },
   openGraph: {
-    title: '阿蘇の秘湯・黒川温泉の入湯手形めぐり＆渓流絶景露天風呂×ふるさと納税完全攻略ガイド【2026年最新】山みず木・奥の湯・新明館',
+    title: '阿蘇の秘湯・黒川温泉の入湯手形めぐり＆渓流絶景露天風呂×ふるさと納税極上旅ガイド山みず木・奥の湯・新明館',
     description: 'ミシュラン2つ星を獲得した阿蘇の渓谷温泉地・黒川温泉！名物「入湯手形」で三十軒の個性豊かな露天風呂めぐり。「山あいの宿 山みず木」「旅館 奥の湯」「山の宿 新明館」を、熊本県南小国町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。渓流露天風呂、洞窟風呂、肥後あか牛会席を満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kurokawa-onsen-yumeguri-luxury-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoKurokawaOnsenYumeguriStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           自然と共生する日本の秘湯！黒川温泉特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          阿蘇の秘湯・黒川温泉の入湯手形めぐり＆渓流絶景露天風呂×ふるさと納税完全攻略ガイド【2026年最新】山みず木・奥の湯・新明館
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">阿蘇の秘湯・黒川温泉の入湯手形めぐり＆渓流絶景露天風呂×ふるさと納税極上旅ガイド山みず木・奥の湯・新明館</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoKurokawaOnsenYumeguriStayPage() {
               自然豊かな渓流のせせらぎに包まれ、源泉かけ流しの迫力ある露天風呂と旬の会席料理を味わう温泉宿
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “露天風呂と繊細な料理、心遣いに大満足多種多様なお風呂が楽しめます。とくに川のせせらぎの音と鳥や虫の声の中で入る露風呂は本当に最高です。食事も一つ一つが繊細で全て美味しくいただきました。… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D136864%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoKurokawaOnsenYumeguriStayPage() {
               渓流沿いの混浴露天風呂をはじめ、全9種の湯巡りと3つの無料貸切風呂、温泉熱プールが楽しめる宿！
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “黒川温泉の象徴、庭と露天風呂が最高な宿熊本地震があってキャンセルが多かったみたいで黒川温泉は閑散としてました 前日予約しましたが普段ならなかなか取れないと思います地震後の復興のため皆さんには是… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D54108%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoKurokawaOnsenYumeguriStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               黒川温泉街の中心に佇む老舗宿。手掘りの洞窟風呂を含む、趣ある５つの湯と温泉街散策も楽しめる立地が魅力
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “洞窟温泉と囲炉裏料理に癒やされる旅洞窟温泉が楽しみでした。内湯で身体を洗ってから移動。洞窟は薄暗く1人だったので少々怖かったですw  お一人が10年以上かけて手で掘った洞窟は本当に素晴らし… ”
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

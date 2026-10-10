@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagano-suwa-lake-onbashira-shrine-stay/" },
-  title: "【長野・諏訪湖＆諏訪大社】四社まいり・片倉館千人風呂＆地酒宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "長野・諏訪湖＆諏訪大社：四社まいり・片倉館千人風呂＆地酒宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "日本最古の神社の一つ「信濃國一之宮 諏訪大社（上社・下社四社）。」、映画のモデルとも言われる「諏訪湖」の絶景パノラマ、重要文化財「片倉館」の千人風呂、甲州街道沿いの「諏訪五蔵」酒蔵めぐりを徹底解説。湖畔温泉ホテルや老舗旅館を厳選。",
   keywords: ["長野", "諏訪湖", "諏訪大社", "四社まいり", "片倉館千人風呂", "地酒宿", "温泉宿"],
 };
@@ -92,9 +92,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             SUWA LAKE & TAISHA GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【長野・諏訪湖＆諏訪大社・上諏訪】諏訪大社四社まいり・片倉館千人風呂＆五蔵酒蔵宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「長野・諏訪湖＆諏訪大社・上諏訪」諏訪大社四社まいり・片倉館千人風呂＆五蔵酒蔵宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-teal-100/90 leading-relaxed">
             諏訪湖を挟んで鎮座する日本屈指の古社「諏訪大社」四社（本宮・前宮・秋宮・春宮）。勇壮な御柱祭の熱気と七年に一度の神話が息づく地。湖畔に湧き出る豊富な湯量を誇る「上諏訪温泉」、大正ロマンあふれる千人風呂「片倉館」。そして街道沿いにわずか500mの間に名酒蔵が並ぶ「諏訪五蔵」。信州の大自然と歴史ロマンに酔いしれる諏訪ステイへご案内します。
           </p>

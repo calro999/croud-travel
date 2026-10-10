@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '日本三大名橋の歴史美と城下町名門宿×ふるさと納税完全ガイド【2026年最新】日本橋・錦帯橋・長崎眼鏡橋',
+  title: '日本三大名橋の歴史美と城下町名門宿×ふるさと納税厳選ガイド日本橋・錦帯橋・長崎眼鏡橋',
   description: '五街道の起点・東京「日本橋」、木造五連アーチが奇跡を描く山口「錦帯橋」、日本最古の石造りアーチ長崎「眼鏡橋」。日本の土木美と歴史情緒が凝縮された三大名橋を巡る旅。ラグジュアリーホテルや城下町老舗宿を楽天ふるさと納税完全活用。',
   keywords: ["2026年最新", "日本橋", "錦帯橋", "長崎眼鏡橋", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-bridges-heritage-stay/",
   },
   openGraph: {
-    title: '日本三大名橋の歴史美と城下町名門宿×ふるさと納税完全ガイド【2026年最新】日本橋・錦帯橋・長崎眼鏡橋',
+    title: '日本三大名橋の歴史美と城下町名門宿×ふるさと納税厳選ガイド日本橋・錦帯橋・長崎眼鏡橋',
     description: '五街道の起点・東京「日本橋」、木造五連アーチが奇跡を描く山口「錦帯橋」、日本最古の石造りアーチ長崎「眼鏡橋」。日本の土木美と歴史情緒が凝縮された三大名橋を巡る旅。ラグジュアリーホテルや城下町老舗宿を楽天ふるさと納税完全活用。',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-bridges-heritage-stay',
     siteName: '旅宿クラウド',
@@ -108,9 +108,7 @@ export default function FurusatoUpgradedPage() {
             <span>✨</span>
             <span>日本三大名橋・歴史浪漫水辺特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            日本三大名橋の歴史美と城下町名門宿×ふるさと納税完全ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">日本三大名橋の歴史美と城下町名門宿×ふるさと納税厳選ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             川を渡り、人と文化を結んできた日本の至宝「日本三大名橋」。日本の道路元標が鎮座する帝都の要所「日本橋」、錦川の清流に美しい木造アーチを描く「錦帯橋」、長崎の異国情緒と石畳の風情が薫る「眼鏡橋」。橋の袂に広がる城下町や水辺の歴史美を愛で、洗練されたホテルや風情ある湯宿で過ごす優雅なひととき。楽天ふるさと納税の宿泊割引クーポンを駆使して、日本の伝統と美意識に触れる橋巡りの旅をお楽しみください。
           </p>

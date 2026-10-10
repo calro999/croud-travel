@@ -6,14 +6,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月和歌山】本州最南端「潮岬」冬の太平洋！名宿5選',
+  title: '11・12・1月和歌山：本州最南端「潮岬」冬の太平洋！名宿5選',
   description: '黒潮が洗う本州最南端の温暖な楽園・和歌山県串本の11〜1月冬紀行。紺碧の太平洋が弧を描く「潮岬」から望む元旦初日の出。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '潮岬 初日の出, 橋杭岩 朝焼け, 近大マグロ 串本, 串本温泉 名宿, メルキュール和歌山串本, 大江戸温泉物語 南紀串本, フェアフィールド串本, 和歌山 冬旅行, 本州最南端 温泉',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-wakayama-kushimoto-shionomisaki-sunrise-hashiguiiwa-kindai-maguro-stay'
   },
   openGraph: {
-    title: '【11・12・1月和歌山】本州最南端「潮岬」冬の太平洋！名宿5選',
+    title: '11・12・1月和歌山：本州最南端「潮岬」冬の太平洋！名宿5選',
     description: '黒潮が洗う本州最南端の温暖な楽園・和歌山県串本の11〜1月冬紀行。紺碧の太平洋が弧を描く「潮岬」から望む元旦初日の出。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-wakayama-kushimoto-shionomisaki-sunrise-hashiguiiwa-kindai-maguro-stay',
     type: 'article',
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月和歌山】本州最南端「潮岬」冬の太平洋初日の出と朝焼け「橋杭岩」絶景！発祥の地「近大マグロ」会席＆串本温泉リゾート名宿5選",
+    title: "11・12・1月和歌山：本州最南端「潮岬」冬の太平洋初日の出と朝焼け「橋杭岩」絶景！発祥の地「近大マグロ」会席＆串本温泉リゾート名宿5選",
     description: "黒潮が洗う本州最南端の温暖な楽園・和歌山県串本の11〜1月冬紀行。紺碧の太平洋が弧を描く「潮岬」から望む元旦初日の出、国の天然記念物「橋杭岩」が朝焼けの茜色に染まる荘厳な奇岩パノラマ。世界初の完全養殖を成し遂げた発祥の地で味わう極上「近大マグロ（クロマグロ）」のトロと赤身、冬の伊勢海老やケンケン鰹。太平洋を見下ろすインフィニティ露天風呂や本州最南端リゾートで冬の寒さを忘れる贅沢な厳選名宿5選と旅の極意を徹底紹介。",
     images: ['https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -281,10 +281,7 @@ export default function WakayamaKushimotoWinterPage() {
             <Sunrise className="w-4 h-4 text-cyan-300" />
             <span>近畿・和歌山 紀南・黒潮路 冬の特別紀行（11月・12月・1月）</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 font-journal-serif">
-            本州最南端「潮岬」冬の太平洋初日の出と朝焼け「橋杭岩」絶景<br className="hidden md:inline" />
-            発祥の地「近大マグロ」会席＆串本温泉リゾート名宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 font-journal-serif">本州最南端「潮岬」冬の太平洋初日の出と朝焼け「橋杭岩」絶景<br className="hidden md:inline" /> 発祥の地「近大マグロ」会席＆串本温泉リゾート名宿5選</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mb-6">
             本州で最も南に突き出し、激流・黒潮が直撃する温暖な海辺の町・和歌山県串本。北緯33度26分の潮岬から望む元旦の初日の出は、遮るもののない大海原の水平線から昇り、地球の丸みを実感させる神々しいパノラマを描き出します。弘法大師伝説が息づく国の名勝「橋杭岩」が朝焼けの茜色に染まる瞬間は、息をのむ冬の奇跡。そして世界初の完全養殖を成し遂げた聖地で味わう脂ののった「近大マグロ（クロマグロ）」の極上会席と、保温効果抜群の串本温泉。真冬の寒さを忘れさせる黒潮の暖かさに抱かれた、至福の冬旅へご案内します。
           </p>

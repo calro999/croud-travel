@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【函館】五稜郭の星形秋紅葉と名物秋真イカ！2,000円台〜泊まれる格安ホテル5選',
+  title: '函館：五稜郭の星形秋紅葉と名物秋真イカ！2,000円台〜泊まれる格安ホテル5選',
   description: '五稜郭タワーから見下ろす星形の紅葉絨毯と函館山秋夜景！秋に旬を迎える透き通る真イカ刺しや朝市のいくら丼。函館駅・五稜郭周辺で1泊2,000円台〜3,000円台で泊まれる格安・高評価宿5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHakodateHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>五稜郭の星形紅葉＆本場函館真イカ</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【函館】五稜郭の星形紅葉＆本場秋イカへ！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「函館」五稜郭の星形紅葉＆本場秋イカへ！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-teal-100/90 max-w-2xl mx-auto leading-relaxed">
             五稜郭タワー展望台から見渡す、星形の城郭を真っ赤に縁取るカエデやサクラの紅葉絵巻！夜は澄み切った秋空にきらめく世界三大夜景・函館山。そして秋に水揚げのピークを迎える透き通った真イカ（スルメイカ）のソーメンや朝市の海鮮丼！2,000円台〜3,000円台の厳選宿をご紹介。
           </p>

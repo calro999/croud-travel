@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-night-views-romantic-stay/" },
-  title: '日本三大夜景＆煌めく光の海・100万ドルのパノラマ名宿×ふるさと納税完全ガイド【2026年最新】函館・神戸・長崎',
+  title: '日本三大夜景＆煌めく光の海・100万ドルのパノラマ名宿×ふるさと納税厳選ガイド函館・神戸・長崎',
   description: '息をのむ美しさを誇る日本三大夜景！北海道函館「函館山」津軽海峡と函館湾が挟む光の扇・望楼NOGUCHI函館、兵庫神戸「摩耶山・掬星台」大阪湾から神戸港へ広がる宝石の海・有馬温泉欽山、長崎「稲佐山」世界新三大夜景のすり鉢状パノラマ・ガーデンテラス長崎ホテル＆リゾート。ロマンチックな絶景夜景と極上温泉・ディナーを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大夜景・ロマンチック絶景特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大夜景＆煌めく光の海・100万ドルのパノラマ名宿×ふるさと納税完全ガイド【2026年最新】函館・神戸・長崎',
+    title: '日本三大夜景＆煌めく光の海・100万ドルのパノラマ名宿×ふるさと納税厳選ガイド函館・神戸・長崎',
     description: '息をのむ美しさを誇る日本三大夜景！北海道函館「函館山」津軽海峡と函館湾が挟む光の扇・望楼NOGUCHI函館、兵庫神戸「摩耶山・掬星台」大阪湾から神戸港へ広がる宝石の海・有馬温泉欽山、長崎「稲佐山」世界新三大夜景のすり鉢状パノラマ・ガーデンテラス長崎ホテル＆リゾート。ロマンチックな絶景夜景と極上温泉・ディナーを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-night-views-romantic-stay',
@@ -154,9 +154,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大夜景・ロマンチック絶景特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大夜景＆煌めく光のパノラマ名宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大夜景＆煌めく光のパノラマ名宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             地形と港、人々の暮らしの灯りが織りなす奇跡の夜景として名高い「日本三大夜景」――津軽海峡と函館湾のくびれが創り出す扇状の光が幻想的な北海道の「函館・函館山」、眼下に広がる神戸から大阪ベイエリアの光がまるで星を掬えるかのように輝く兵庫の「神戸・摩耶山 掬星台」、そして長崎港を取り囲む斜面都市の光がすり鉢状に立体的に輝く長崎の「長崎・稲佐山」。ロープウェイで登る夜の展望台や、客室のテラス・露天風呂から夜景を独占し、至高の美食に酔いしれる贅沢な旅を楽天ふるさと納税でお楽しみください。
           </p>

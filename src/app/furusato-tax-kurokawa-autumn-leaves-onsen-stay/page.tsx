@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '黒川温泉の渓谷露天風呂紅葉＆入湯手形湯めぐり！肥後あか牛会席×ふるさと納税完全ガイド【2026年最新秋旅】熊本',
+  title: '黒川温泉の渓谷露天風呂紅葉＆入湯手形湯めぐり！肥後あか牛会席×ふるさと納税厳選ガイド熊本',
   description: '10月下旬〜11月中旬に田の原川沿いの渓谷が錦秋に染まる熊本屈指の名湯「黒川温泉」。「入湯手形」で巡る個性豊かな野趣あふれる露天風呂と、自然に溶け込む極上宿「旅館 美里」「旅館 奥の湯」「旅館 壱の井」で肥後あか牛や馬刺し・阿蘇の恵みを堪能。ふるさと納税トラベルクーポンで実質2,000円。',
   keywords: ["黒川温泉の渓谷露天風呂紅葉", "2026年最新秋旅", "熊本", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kurokawa-autumn-leaves-onsen-stay/"
   },
   openGraph: {
-    title: '黒川温泉の渓谷露天風呂紅葉＆入湯手形湯めぐり！肥後あか牛会席×ふるさと納税完全ガイド【2026年最新秋旅】熊本',
+    title: '黒川温泉の渓谷露天風呂紅葉＆入湯手形湯めぐり！肥後あか牛会席×ふるさと納税厳選ガイド熊本',
     description: '10月下旬〜11月中旬に田の原川沿いの渓谷が錦秋に染まる熊本屈指の名湯「黒川温泉」。「入湯手形」で巡る個性豊かな野趣あふれる露天風呂と、自然に溶け込む極上宿「旅館 美里」「旅館 奥の湯」「旅館 壱の井」で肥後あか牛や馬刺し・阿蘇の恵みを堪能。ふるさと納税トラベルクーポンで実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kurokawa-autumn-leaves-onsen-stay',
     siteName: '旅宿クラウド',
@@ -113,9 +113,7 @@ export default function FeatureArticlePage() {
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">
-            黒川温泉の渓谷露天風呂紅葉＆入湯手形湯めぐり！肥後あか牛会席×ふるさと納税完全ガイド【2026年最新秋旅】熊本
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">黒川温泉の渓谷露天風呂紅葉＆入湯手形湯めぐり！肥後あか牛会席×ふるさと納税厳選ガイド熊本</h1>
           <p className="text-sm md:text-lg text-stone-200 max-w-3xl mx-auto leading-relaxed">
             木々が色づく田の原川のせせらぎと、手形を片手に巡る野趣満点の渓谷露天風呂。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
           </p>

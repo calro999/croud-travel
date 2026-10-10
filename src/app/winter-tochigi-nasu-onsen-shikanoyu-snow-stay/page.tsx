@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月那須温泉郷】茶臼岳雪化粧と開湯千三百年鹿の湯！名宿5選',
+  title: '那須温泉郷で過ごす冬の旅（11・12月）！茶臼岳雪化粧と開湯千三百年鹿の湯！名宿5選',
   description: '舒明天皇の御代、白鹿の傷を癒やした伝説から千三百年。那須連山茶臼岳の山懐に湧く栃木県最古の名湯「那須温泉郷」。11月中旬の冠雪から12月の白銀パノラマへと移ろう初冬のロイヤルリゾート。名湯「鹿の湯」源泉を引く白濁露天と、最高峰ブランド「那須与一牛」を味わう名宿ガイド。',
   keywords: '那須温泉 宿泊 11月 12月, 那須温泉 鹿の湯 露天風呂, 那須与一牛 とちぎ和牛, 那須温泉 山楽, ホテルエピナール那須, 星野リゾート リゾナーレ那須, 休暇村 那須, 栃木 冬 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tochigi-nasu-onsen-shikanoyu-snow-stay/",
   },
   openGraph: {
-    title: '【11・12月那須温泉郷】茶臼岳雪化粧と開湯千三百年鹿の湯！名宿5選',
+    title: '那須温泉郷で過ごす冬の旅（11・12月）！茶臼岳雪化粧と開湯千三百年鹿の湯！名宿5選',
     description: '舒明天皇の御代、白鹿の傷を癒やした伝説から千三百年。那須連山茶臼岳の山懐に湧く栃木県最古の名湯「那須温泉郷」。11月中旬の冠雪から12月の白銀パノラマへと移ろう初冬のロイヤルリゾート。名湯「鹿の湯」源泉を引く白濁露天と、最高峰ブランド「那須与一牛」を味わう名宿ガイド。',
     url: 'https://croud-travel.pages.dev/winter-tochigi-nasu-onsen-shikanoyu-snow-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月那須温泉郷の初冬高原美と名湯】茶臼岳雪化粧と開湯千三百年鹿の湯・最高峰那須与一牛＆高原温泉会席の宿5選",
+    title: "那須温泉郷の初冬高原美と名湯で過ごす冬の旅（11・12月）！茶臼岳雪化粧と開湯千三百年鹿の湯・最高峰那須与一牛＆高原温泉会席の宿5選",
     description: "舒明天皇の御代、白鹿の傷を癒やした伝説から千三百年。那須連山茶臼岳の山懐に湧く栃木県最古の名湯「那須温泉郷」。11月中旬の冠雪から12月の白銀パノラマへと移ろう初冬のロイヤルリゾート。名湯「鹿の湯」源泉を引く白濁露天と、最高峰ブランド「那須与一牛」を味わう名宿ガイド。",
   }
 };
@@ -285,10 +285,7 @@ export default function NasuWinterPage() {
             <Eye className="w-4 h-4 text-amber-300" />
             <span>11月・12月限定 開湯1380年鹿の湯の歴史＆那須与一牛・ロイヤルリゾート特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月那須温泉郷の初冬高原美と名湯】<br className="hidden sm:inline" />
-            茶臼岳雪化粧と開湯千三百年鹿の湯・最高峰那須与一牛＆高原温泉会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">那須温泉郷の初冬高原美と名湯で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 茶臼岳雪化粧と開湯千三百年鹿の湯・最高峰那須与一牛＆高原温泉会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             白鹿が傷を癒やした伝説から千三百年余。皇室の那須御用邸が置かれ、茶臼岳の壮大なパノラマを望む「那須温泉郷」。初冬の澄んだ空気の中に立ち上る硫黄の湯煙。名湯「鹿の湯」の乳白色露天風呂と、最高峰黒毛和牛「那須与一牛」＆高原会席に心満たされる極上の休日。
           </p>

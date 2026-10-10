@@ -1,4 +1,4 @@
-# 【絶景の雪見露天風呂】白銀の世界に包まれる至福の湯浴み！全国屈指の雪景色が美しい温泉宿
+# 絶景の雪見露天風呂：白銀の世界に包まれる至福の湯浴み！全国屈指の雪景色が美しい温泉宿
 
 - URL: https://croud-travel.pages.dev/posts/winter-snow-viewing-open-air-bath-ski-resort-hotels-guide/
 - 宿泊施設名: シンシンと降る雪を眺めながら温まる非日常。乳白色のにごり湯や渓谷美が広がる幻想的な雪見風呂特集

@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagano-shibu-solo-retreat-onsen-stay/" },
-  title: '【信州渋温泉ひとり旅・九湯めぐり石畳おこもり】大正ロマン木造建築・厄除巡浴・信州牛！スノーモンキー近隣のノスタルジック温泉街厳選3宿',
+  title: '信州渋温泉ひとり旅・九湯めぐり石畳おこもり：大正ロマン木造建築・厄除巡浴・信州牛！スノーモンキー近隣のノスタルジック温泉街厳選3宿',
   description: '開湯1300年・石畳の街並みが美しい信州渋温泉！自家源泉かけ流しの展望風呂と信州の味覚が評判の「大陽館 ヤマト屋」、大正レトロな佇まいと温かいもてなしが心地よい「渋白銀屋旅館」、風情ある純和風建築で源泉を満喫できる「安代館」を楽天API最新データに基づき徹底比較。',
   keywords: '渋温泉 一人旅 宿,渋温泉 ホテル 一人,大陽館 ヤマト屋,渋白銀屋旅館,安代館,渋温泉 九湯めぐり ひとり旅',
   openGraph: {
-    title: '【信州渋温泉ひとり旅・九湯めぐり石畳おこもり】大正ロマン木造建築・厄除巡浴・信州牛！スノーモンキー近隣のノスタルジック温泉街厳選3宿',
+    title: '信州渋温泉ひとり旅・九湯めぐり石畳おこもり：大正ロマン木造建築・厄除巡浴・信州牛！スノーモンキー近隣のノスタルジック温泉街厳選3宿',
     description: '開湯1300年・石畳の街並みが美しい信州渋温泉！自家源泉かけ流しの展望風呂と信州の味覚が評判の「大陽館 ヤマト屋」、大正レトロな佇まいと温かいもてなしが心地よい「渋白銀屋旅館」、風情ある純和風建築で源泉を満喫できる「安代館」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/nagano-shibu-solo-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【信州渋温泉ひとり旅・九湯めぐり石畳おこもり】大正ロマン木造建築・厄除巡浴・信州牛！スノーモンキー近隣のノスタルジック温泉街厳選3宿',
+    headline: '信州渋温泉ひとり旅・九湯めぐり石畳おこもり：大正ロマン木造建築・厄除巡浴・信州牛！スノーモンキー近隣のノスタルジック温泉街厳選3宿',
     description: '開湯1300年・石畳の街並みが美しい信州渋温泉！自家源泉かけ流しの展望風呂と信州の味覚が評判の「大陽館 ヤマト屋」、大正レトロな佇まいと温かいもてなしが心地よい「渋白銀屋旅館」、風情ある純和風建築で源泉を満喫できる「安代館」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             長野・信州渋温泉ひとり旅＆九湯めぐり石畳おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【信州渋温泉ひとり旅・九湯めぐり石畳おこもり】大正ロマン木造建築・厄除巡浴・信州牛！スノーモンキー近隣のノスタルジック温泉街厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「信州渋温泉ひとり旅・九湯めぐり石畳おこもり」大正ロマン木造建築・厄除巡浴・信州牛！スノーモンキー近隣のノスタルジック温泉街厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

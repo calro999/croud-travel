@@ -5,14 +5,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, Sparkles, Calendar, Utensils, Compass, ExternalLink, Snowflake, Flame, Building, ShoppingBag, ThermometerSun } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月千葉】成田山新勝寺の新春初詣！名宿5選',
+  title: '11・12・1月千葉：成田山新勝寺の新春初詣！名宿5選',
   description: '11月から1月、成田山新勝寺は12月の納め不動から正月三が日・新春初詣にかけて全国から300万人以上の参拝客が集う日本屈指の祈りの季節を迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '成田山新勝寺 初詣 混雑, 成田山 表参道 うなぎ 宿, 佐原 小江戸 商家町 ホテル, 和空 成田山門前, 成田山門前 旅館 若松本店, アートホテル成田 温泉, 佐原商家町ホテル NIPPONIA, ヒルトン成田, 11月 12月 1月 千葉旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-chiba-naritasan-shinshoji-hatsumode-unagi-sawara-stay/"
   },
   openGraph: {
-    title: '【11・12・1月千葉】成田山新勝寺の新春初詣！名宿5選',
+    title: '11・12・1月千葉：成田山新勝寺の新春初詣！名宿5選',
     description: '11月から1月、成田山新勝寺は12月の納め不動から正月三が日・新春初詣にかけて全国から300万人以上の参拝客が集う日本屈指の祈りの季節を迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-chiba-naritasan-shinshoji-hatsumode-unagi-sawara-stay',
     type: 'article',
@@ -233,12 +233,7 @@ export default function ChibaNaritasanSawaraPage() {
             11月・12月・1月 冬の初詣・開運祈願＆名物うなぎ特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-tight sm:leading-snug text-stone-100 font-serif">
-            開創千余年の祈りと表参道に漂う鰻の香ばしさ<br />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-rose-200 via-rose-300 to-amber-200">
-              成田山新勝寺新春初詣＆北総小江戸・佐原の重伝建名宿
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-tight sm:leading-snug text-stone-100 font-serif">開創千余年の祈りと表参道に漂う鰻の香ばしさ<br /> <span className="text-transparent bg-clip-text bg-gradient-to-r from-rose-200 via-rose-300 to-amber-200"> 成田山新勝寺新春初詣＆北総小江戸・佐原の重伝建名宿 </span></h1>
 
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed max-w-3xl mx-auto font-light">
             300万人が集う日本屈指の新春初詣スポット「成田山新勝寺」。大本堂の荘厳な御護摩祈祷、江戸時代から参拝者の活力となってきた表参道の名物「うなぎ蒲焼」、そして重要伝統的建造物群保存地区に佇む水郷・佐原の商家町並みと冬のこたつ舟。心洗われる開運祈願と北総の美意識に包まれる厳選の冬の宿をお届けします。

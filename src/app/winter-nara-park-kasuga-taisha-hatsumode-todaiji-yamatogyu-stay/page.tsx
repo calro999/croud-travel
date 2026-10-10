@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月奈良】大和牛すき焼きと古都の静謐に寛ぐ厳選！名宿5選',
+  title: '11・12・1月奈良：大和牛すき焼きと古都の静謐に寛ぐ厳選！名宿5選',
   description: '1300年の歴史が静かに息づく古都・奈良の冬。世界遺産・春日大社の朱塗りの社殿と無数の釣燈籠が白雪に映える新春開運初詣、東大寺大仏殿の厳かな佇まい。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '奈良 ホテル, 春日大社 初詣 ホテル, 東大寺 大仏殿, 奈良公園 鹿, 奈良ホテル, JWマリオット奈良, 紫翠ラグジュアリーコレクション奈良, 大和牛 すき焼き, 11月 12月 1月 奈良 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nara-park-kasuga-taisha-hatsumode-todaiji-yamatogyu-stay/"
   },
   openGraph: {
-    title: '【11・12・1月奈良】大和牛すき焼きと古都の静謐に寛ぐ厳選！名宿5選',
+    title: '11・12・1月奈良：大和牛すき焼きと古都の静謐に寛ぐ厳選！名宿5選',
     description: '1300年の歴史が静かに息づく古都・奈良の冬。世界遺産・春日大社の朱塗りの社殿と無数の釣燈籠が白雪に映える新春開運初詣、東大寺大仏殿の厳かな佇まい。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-nara-park-kasuga-taisha-hatsumode-todaiji-yamatogyu-stay',
     type: 'article',
@@ -246,10 +246,7 @@ export default function NaraParkKasugaWinterPage() {
             <span>11月・12月・1月冬の大和路特選ガイド｜奈良県奈良市奈良公園・高畑・三条</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            春日大社新春開運初詣＆東大寺大仏殿冬景色！<br className="hidden sm:inline" />
-            大和牛すき焼きと古都の静謐に寛ぐ厳選宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">春日大社新春開運初詣＆東大寺大仏殿冬景色！<br className="hidden sm:inline" /> 大和牛すき焼きと古都の静謐に寛ぐ厳選宿5選</h1>
 
           <p className="max-w-4xl text-sm sm:text-base md:text-lg text-slate-300 leading-relaxed font-normal">
             1300年の祈りと歴史が息づく古都・奈良。世界遺産「春日大社」の朱塗り社殿と釣燈籠が雪に映える新春厄除け初詣、冬の凛とした澄明な空気に包まれる「東大寺大仏殿」、冬毛でもふもふと暖かそうな奈良公園の鹿たちとのふれあい。滋味豊かな大和牛すき焼きや飛鳥鍋、三輪そうめんのにゅうめんに舌鼓を打ち、歴史薫る名宿で心静かに過ごす冬の贅沢な旅へご案内します。

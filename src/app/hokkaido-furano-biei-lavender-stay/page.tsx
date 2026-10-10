@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hokkaido-furano-biei-lavender-stay/" },
-  title: "【北海道・富良野＆美瑛】青い池・ファーム富田ラベンダー＆白金温泉・富良野牛宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "北海道・富良野＆美瑛：青い池・ファーム富田ラベンダー＆白金温泉・富良野牛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "パッチワークの丘と紫の絨毯・北海道富良野＆美瑛エリア完全特化！「ファーム富田」のラベンダー畑、神秘のコバルトブルー「白金青い池」、白ひげの滝、源泉100%白金温泉、ふらの和牛・富良野メロン会席宿を徹底解説。",
   keywords: ["北海道", "富良野", "美瑛", "青い池", "ファーム富田ラベンダー", "白金温泉", "富良野牛宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             FURANO & BIEI NATURE GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【北海道・富良野＆美瑛】青い池・ファーム富田ラベンダー＆白金温泉・富良野牛宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「北海道・富良野＆美瑛」青い池・ファーム富田ラベンダー＆白金温泉・富良野牛宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             見渡す限りの紫の絨毯と色彩豊かなパッチワークの丘「北海道・富良野美瑛」。ファーム富田のラベンダーの香り。神秘的なエメラルドブルーを湛える「白金の青い池」。大雪山連峰を望む白金温泉と、極上のふらの和牛に包まれる旅。
           </p>

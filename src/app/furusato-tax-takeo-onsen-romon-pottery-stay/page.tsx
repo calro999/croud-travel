@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【武雄温泉×ふるさと納税】国重文・武雄温泉楼門＆美肌とろとろ湯！焼き物の里宿特集｜京都屋・春慶屋・なかます旅館',
+  title: '武雄温泉をふるさと納税でお得に旅する！国重文・武雄温泉楼門＆美肌とろとろ湯！焼き物の里宿特集｜京都屋・春慶屋・なかます旅館',
   description: '千三百年余の歴史を誇る佐賀の名湯・武雄温泉を楽天ふるさと納税でお得に贅沢旅！大正ロマンのアンティーク宿「京都屋」、展望露天風呂と佐賀牛の「ホテル春慶屋」、楼門徒歩1分の老舗「なかます旅館」を徹底比較。有田焼・波佐見焼巡りや武雄市トラベルクーポン活用術を網羅。',
   keywords: '武雄温泉 ふるさと納税,武雄温泉 旅館 ふるさと納税,武雄温泉 京都屋 クーポン,春慶屋 武雄 宿泊,武雄市 ふるさと納税 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-takeo-onsen-romon-pottery-stay/",
   },
   openGraph: {
-    title: '【武雄温泉×ふるさと納税】国重文・武雄温泉楼門＆美肌とろとろ湯！焼き物の里宿特集｜京都屋・春慶屋・なかます旅館',
+    title: '武雄温泉をふるさと納税でお得に旅する！国重文・武雄温泉楼門＆美肌とろとろ湯！焼き物の里宿特集｜京都屋・春慶屋・なかます旅館',
     description: '千三百年余の歴史を誇る佐賀の名湯・武雄温泉を楽天ふるさと納税でお得に贅沢旅！大正ロマンのアンティーク宿「京都屋」、展望露天風呂と佐賀牛の「ホテル春慶屋」、楼門徒歩1分の老舗「なかます旅館」を徹底比較。有田焼・波佐見焼巡りや武雄市トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-takeo-onsen-romon-pottery-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -24,7 +24,7 @@ export default function FurusatoArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【武雄温泉×ふるさと納税】国重文・武雄温泉楼門＆美肌とろとろ湯！焼き物の里宿特集｜京都屋・春慶屋・なかます旅館',
+    headline: '武雄温泉をふるさと納税でお得に旅する！国重文・武雄温泉楼門＆美肌とろとろ湯！焼き物の里宿特集｜京都屋・春慶屋・なかます旅館',
     description: '千三百年余の歴史を誇る佐賀の名湯・武雄温泉を楽天ふるさと納税でお得に贅沢旅！大正ロマンのアンティーク宿「京都屋」、展望露天風呂と佐賀牛の「ホテル春慶屋」、楼門徒歩1分の老舗「なかます旅館」を徹底比較。有田焼・波佐見焼巡りや武雄市トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function FurusatoArticlePage() {
           <span>♨️</span>
           <span>佐賀県武雄市 ふるさと納税・名湯宿特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【武雄温泉×ふるさと納税】国重文・武雄温泉楼門＆美肌とろとろ湯！焼き物の里宿特集｜京都屋・春慶屋・なかます旅館
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">武雄温泉をふるさと納税でお得に旅する！国重文・武雄温泉楼門＆美肌とろとろ湯！焼き物の里宿特集｜京都屋・春慶屋・なかます旅館</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed">
           千三百年余の歴史を誇る佐賀の名湯・武雄温泉を楽天ふるさと納税でお得に贅沢旅！大正ロマンのアンティーク宿「京都屋」、展望露天風呂と佐賀牛の「ホテル春慶屋」、楼門徒歩1分の老舗「なかます旅館」を徹底比較。有田焼・波佐見焼巡りや武雄市トラベルクーポン活用術を網羅。
         </p>

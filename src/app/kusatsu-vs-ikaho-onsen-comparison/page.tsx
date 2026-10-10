@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kusatsu-vs-ikaho-onsen-comparison/" },
-  title: "【草津温泉 vs 伊香保温泉 どっちがいい？】泉質・街歩き・アクセス・宿を7項目で徹底比較",
+  title: "草津温泉 vs 伊香保温泉 どっちがいい？：泉質・街歩き・アクセス・宿を7項目で徹底比較",
   description: "草津温泉と伊香保温泉、どっちに行くべきか7項目で本気比較。泉質（酸性硫黄泉 vs 黄金の湯）、街歩き（湯畑 vs 365段石段）、アクセス、宿泊費、食べ歩きまで。",
   keywords: ["草津温泉", "vs", "伊香保温泉", "どっちがいい？", "泉質", "街歩き", "アクセス"],
 };
@@ -60,9 +60,7 @@ export default function KusatsuVsIkahoPage() {
   return (
     <main className="max-w-4xl mx-auto px-4 py-12 md:py-16 text-slate-800">
       <header className="mb-12">
-        <h1 className="font-journal-serif text-3xl md:text-5xl font-bold text-emerald-900 leading-tight mb-6">
-          【草津温泉 vs 伊香保温泉 どっちがいい？】<br className="hidden md:block"/>泉質・街歩き・アクセス・宿を7項目で徹底比較
-        </h1>
+        <h1 className="font-journal-serif text-3xl md:text-5xl font-bold text-emerald-900 leading-tight mb-6">「草津温泉 vs 伊香保温泉 どっちがいい？」<br className="hidden md:block"/>泉質・街歩き・アクセス・宿を7項目で徹底比較</h1>
         <p className="text-lg text-slate-600 leading-relaxed bg-emerald-50 p-6 rounded-3xl border border-emerald-100">
           群馬県が誇る日本屈指の二大名湯、「草津温泉」と「伊香保温泉」。
           週末の温泉旅行を計画する際、「ぶっちゃけどっちがいいの？」と迷う方も多いはず。

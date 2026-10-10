@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/ehime-dogo-solo-retreat-onsen-stay/" },
-  title: '【道後温泉ひとり旅・日本最古の名湯おこもり】道後温泉本館・美人の湯・愛媛鯛めし！松山城下町と文学の香りに浸る厳選3宿',
+  title: '道後温泉ひとり旅・日本最古の名湯おこもり：道後温泉本館・美人の湯・愛媛鯛めし！松山城下町と文学の香りに浸る厳選3宿',
   description: '日本最古の歴史を誇る名湯・道後！道後公園隣接でリーズナブルに天然温泉を楽しめる「にぎたつ会館」、明治レトロな洋館風ロビーと大浴場が人気の老舗「ホテル椿館」、全室客室露天風呂付きで極上のプライベートステイが叶う「八千代」を徹底比較。',
   keywords: '道後温泉 一人旅 宿,道後 ホテル 一人 温泉,にぎたつ会館,ホテル椿館 道後,道後温泉 八千代,道後温泉本館 ひとり旅',
   openGraph: {
-    title: '【道後温泉ひとり旅・日本最古の名湯おこもり】道後温泉本館・美人の湯・愛媛鯛めし！松山城下町と文学の香りに浸る厳選3宿',
+    title: '道後温泉ひとり旅・日本最古の名湯おこもり：道後温泉本館・美人の湯・愛媛鯛めし！松山城下町と文学の香りに浸る厳選3宿',
     description: '日本最古の歴史を誇る名湯・道後！道後公園隣接でリーズナブルに天然温泉を楽しめる「にぎたつ会館」、明治レトロな洋館風ロビーと大浴場が人気の老舗「ホテル椿館」、全室客室露天風呂付きで極上のプライベートステイが叶う「八千代」を徹底比較。',
     url: 'https://croud-travel.pages.dev/ehime-dogo-solo-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【道後温泉ひとり旅・日本最古の名湯おこもり】道後温泉本館・美人の湯・愛媛鯛めし！松山城下町と文学の香りに浸る厳選3宿',
+    headline: '道後温泉ひとり旅・日本最古の名湯おこもり：道後温泉本館・美人の湯・愛媛鯛めし！松山城下町と文学の香りに浸る厳選3宿',
     description: '日本最古の歴史を誇る名湯・道後！道後公園隣接でリーズナブルに天然温泉を楽しめる「にぎたつ会館」、明治レトロな洋館風ロビーと大浴場が人気の老舗「ホテル椿館」、全室客室露天風呂付きで極上のプライベートステイが叶う「八千代」を徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             愛媛・道後温泉ひとり旅＆日本最古の名湯おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【道後温泉ひとり旅・日本最古の名湯おこもり】道後温泉本館・美人の湯・愛媛鯛めし！松山城下町と文学の香りに浸る厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「道後温泉ひとり旅・日本最古の名湯おこもり」道後温泉本館・美人の湯・愛媛鯛めし！松山城下町と文学の香りに浸る厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

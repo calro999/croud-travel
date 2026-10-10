@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【新潟駅前】新米コシヒカリ・南蛮エビ＆日本酒角打ち！2,000円台〜泊まれる格安ホテル5選',
+  title: '新潟駅前：新米コシヒカリ・南蛮エビ＆日本酒角打ち！2,000円台〜泊まれる格安ホテル5選',
   description: '秋の新米コシヒカリやぷりぷりの南蛮エビ、ぽんしゅ館の日本酒飲み比べ！新装・新潟駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetNiigataStationHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>秋の新米魚沼コシヒカリ＆日本海鮮魚</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【新潟駅前】秋の新米＆南蛮エビ・地酒利き酒！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「新潟駅前」秋の新米＆南蛮エビ・地酒利き酒！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-sky-100/90 max-w-2xl mx-auto leading-relaxed">
             秋はツヤツヤに輝く新米コシヒカリの収穫期！日本海の荒波が育む甘みたっぷりの「南蛮エビ」やノドグロ、駅ナカ「ぽんしゅ館」で楽しむ越後の銘酒利き酒。大規模リニューアルで注目の新潟駅前で、2,000円台〜3,000円台で泊まれるハイクオリティ格安宿を厳選。
           </p>

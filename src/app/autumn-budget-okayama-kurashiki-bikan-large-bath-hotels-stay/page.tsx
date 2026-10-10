@@ -3,11 +3,11 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【秋の倉敷美観地区×格安】白壁の町並み紅葉と大原美術館！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選【2026最新】',
+  title: '秋の倉敷美観地区×格安：白壁の町並み紅葉と大原美術館！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」',
   description: '倉敷川沿いの柳並木と紅葉のコントラスト、レトロな白壁の町並み散策！名物ぶっかけうどんや岡山フルーツパフェを満喫。大浴場や天然温泉付きで1泊4,000円〜7,000円台で泊まれる倉敷のコスパ最強ホテル5選。ロイヤルパークホテル倉敷、ドーミーイン倉敷などを徹底比較！',
   keywords: '倉敷 格安 ホテル, 倉敷美観地区 宿泊 安い, 倉敷 大浴場 ホテル, 大原美術館 紅葉, ロイヤルパークホテル倉敷, ドーミーイン倉敷',
   openGraph: {
-    title: '【秋の倉敷美観地区×格安】白壁の町並み紅葉と大原美術館！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選【2026最新】',
+    title: '秋の倉敷美観地区×格安：白壁の町並み紅葉と大原美術館！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」',
     description: '白壁の町並み紅葉と大原美術館！大浴場付き1泊4,000円〜7,000円台のコスパ最強倉敷ホテル5選。',
     type: 'article',
     url: 'https://croud-travel.com/autumn-budget-okayama-kurashiki-bikan-large-bath-hotels-stay',
@@ -32,9 +32,7 @@ export default function KurashikiBudgetAutumnPage() {
             <span className="px-3 py-1 bg-teal-600 text-white text-xs font-bold rounded-full">格安・中国特集</span>
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">1泊目安: 4,000円台〜7,000円台</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">
-            【秋の倉敷美観地区×格安】白壁の町並み紅葉と大原美術館！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の倉敷美観地区×格安」白壁の町並み紅葉と大原美術館！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選</h1>
           <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
             倉敷川の水面に映る白壁土蔵と鮮やかな紅葉の錦。大原美術館の名画鑑賞や本町通りの町屋カフェ巡りを楽しみ、足を伸ばせる大浴場で寛げる倉敷のコスパ最強ホテルをご紹介します。
           </p>

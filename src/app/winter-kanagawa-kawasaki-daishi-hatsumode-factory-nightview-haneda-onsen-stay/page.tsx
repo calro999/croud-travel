@@ -16,11 +16,11 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【初詣300万人の厄除け霊場・川崎大師と幻想の工場夜景】2026-2027年冬の神奈川・川崎＆羽田！黒湯天然温泉と特選牛名宿5選 | 旅行キュレーション',
+  title: '初詣300万人の厄除け霊場・川崎大師と幻想の工場夜景：2026-2027年冬の神奈川・川崎＆羽田！黒湯天然温泉と特選牛名宿5選 | 旅行キュレーション',
   description: '全国有数の初詣参拝者を誇る厄除け大本山「川崎大師（平間寺）」新春初詣！冬の澄んだ夜空に浮かび上がる「川崎工場夜景クルーズ」と羽田空港を望む展望天然温泉、名物久寿餅と上質ディナーを満喫する冬の厳選名宿5選。',
   keywords: ['川崎・羽田・京浜', '冬旅行', '新春初詣', '温泉', '名宿', '神奈川県観光', '楽天トラベル', 'ふるさと納税'],
   openGraph: {
-    title: '【初詣300万人の厄除け霊場・川崎大師と幻想の工場夜景】2026-2027年冬の神奈川・川崎＆羽田！黒湯天然温泉と特選牛名宿5選',
+    title: '初詣300万人の厄除け霊場・川崎大師と幻想の工場夜景：2026-2027年冬の神奈川・川崎＆羽田！黒湯天然温泉と特選牛名宿5選',
     description: '全国有数の初詣参拝者を誇る厄除け大本山「川崎大師（平間寺）」新春初詣！冬の澄んだ夜空に浮かび上がる「川崎工場夜景クルーズ」と羽田空港を望む展望天然温泉、名物久寿餅と上質ディナーを満喫する冬の厳選名宿5選。',
     images: ['https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Kawasaki_Daishi_-_2024_Oct_1_various_19_07_54_558000.jpeg/1280px-Kawasaki_Daishi_-_2024_Oct_1_various_19_07_54_558000.jpeg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail'],
     type: 'article',
@@ -214,9 +214,7 @@ export default function Page() {
               <span>2026-2027年冬（11月・12月・1月）最新厳選ガイド</span>
             </div>
 
-            <h1 className="text-2xl sm:text-3xl md:text-4xl font-black tracking-tight leading-tight text-white">
-              【初詣300万人の厄除け霊場・川崎大師と幻想の工場夜景】2026-2027年冬の神奈川・川崎＆羽田！黒湯天然温泉と特選牛名宿5選
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl font-black tracking-tight leading-tight text-white">「初詣300万人の厄除け霊場・川崎大師と幻想の工場夜景」2026-2027年冬の神奈川・川崎＆羽田！黒湯天然温泉と特選牛名宿5選</h1>
 
             <p className="text-sm sm:text-base text-stone-300 leading-relaxed max-w-3xl pt-2">
               全国有数の初詣参拝者を誇る厄除け大本山「川崎大師（平間寺）」新春初詣！冬の澄んだ夜空に浮かび上がる「川崎工場夜景クルーズ」と羽田空港を望む展望天然温泉、名物久寿餅と上質ディナーを満喫する冬の厳選名宿5選。

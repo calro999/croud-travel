@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            三重・松阪城跡の紅葉と本場松阪牛！伊勢神宮参拝の宿場町と松阪温泉・老舗すき焼き
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">三重・松阪城跡の紅葉と本場松阪牛！伊勢神宮参拝の宿場町と松阪温泉・老舗すき焼き</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の三重・松阪＆伊勢特集！蒲生氏郷公が築いた松阪城跡の壮大な石垣を彩る秋の紅葉、御城番屋敷の歴史ロマン、世界最高峰の肉の芸術「松阪牛」の本場老舗すき焼き・ステーキ会席、伊勢神宮秋季参拝と松阪温泉をふるさと納税トラベルクーポンでお得に楽しむ美食旅。
           </p>

@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            宮崎・神話の里 高千穂峡の真名井の滝紅葉＆国見ケ丘雲海！神仙の美肌宿と極上高千穂牛会席
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">宮崎・神話の里 高千穂峡の真名井の滝紅葉＆国見ケ丘雲海！神仙の美肌宿と極上高千穂牛会席</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の宮崎・高千穂特集！柱状節理の渓谷にエメラルドグリーンの水面と紅葉が映える「高千穂峡・真名井の滝」、国見ケ丘から望む奇跡の秋雲海、夜神楽の厳かな伝統、内閣総理大臣賞受賞の日本一「高千穂牛」をふるさと納税トラベルクーポンで堪能する神話の秋旅。
           </p>

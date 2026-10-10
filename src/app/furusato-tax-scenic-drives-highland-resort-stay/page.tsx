@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '日本百名道の絶景ドライブルートと高原温泉宿×ふるさと納税完全ガイド【2026年最新】ビーナスライン・志賀草津・やまなみ',
+  title: '日本百名道の絶景ドライブルートと高原温泉宿×ふるさと納税厳選ガイドビーナスライン・志賀草津・やまなみ',
   description: '日本屈指の絶景ロード（長野・ビーナスライン、群馬／長野・志賀草津高原ルート、大分／熊本・やまなみハイウェイ）。標高2,000m超の雲上パノラマと、白樺湖・草津温泉・由布院温泉の極上リゾートステイ。楽天ふるさと納税完全活用。',
   keywords: ["2026年最新", "ビーナスライン", "志賀草津", "やまなみ", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-scenic-drives-highland-resort-stay/",
   },
   openGraph: {
-    title: '日本百名道の絶景ドライブルートと高原温泉宿×ふるさと納税完全ガイド【2026年最新】ビーナスライン・志賀草津・やまなみ',
+    title: '日本百名道の絶景ドライブルートと高原温泉宿×ふるさと納税厳選ガイドビーナスライン・志賀草津・やまなみ',
     description: '日本屈指の絶景ロード（長野・ビーナスライン、群馬／長野・志賀草津高原ルート、大分／熊本・やまなみハイウェイ）。標高2,000m超の雲上パノラマと、白樺湖・草津温泉・由布院温泉の極上リゾートステイ。楽天ふるさと納税完全活用。',
     url: 'https://croud-travel.pages.dev/furusato-tax-scenic-drives-highland-resort-stay',
     siteName: '旅宿クラウド',
@@ -108,9 +108,7 @@ export default function FurusatoUpgradedPage() {
             <span>✨</span>
             <span>日本百名道・絶景高原ドライブ特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            日本百名道の絶景ドライブルートと高原温泉宿×ふるさと納税完全ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">日本百名道の絶景ドライブルートと高原温泉宿×ふるさと納税厳選ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             四季折々の美しい稜線、澄み切った高原の風、そしてどこまでも続くワインディングロード。「日本百名道」に選ばれるビーナスライン、志賀草津高原ルート、やまなみハイウェイは、車やバイクを走らせるだけで心が解き放たれる極上のステージです。走破した後は、名湯に浸かり、地元の山の幸やテロワール料理に舌鼓を打つ至福の夜。楽天ふるさと納税の宿泊割引クーポンを活用して、実質2,000円の自己負担で叶える絶景ドライブ＆高原温泉リゾートへ出かけましょう。
           </p>

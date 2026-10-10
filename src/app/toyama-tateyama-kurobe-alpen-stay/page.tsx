@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/toyama-tateyama-kurobe-alpen-stay/" },
-  title: "【富山・立山黒部アルペンルート】雪の大谷・みくりが池＆立山連峰・富山湾宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "富山・立山黒部アルペンルート：雪の大谷・みくりが池＆立山連峰・富山湾宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "世界屈指の山岳観光ルート・立山黒部アルペンルートエリア完全特化！高さ20mに達する「雪の大谷ウォーク」、標高2,410mの「室堂・みくりが池温泉」、黒部ダムの観光放水、富山湾の白えび・寒ブリ宿を徹底解説。",
   keywords: ["富山", "立山黒部アルペンルート", "雪の大谷", "みくりが池", "立山連峰", "富山湾宿", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             TATEYAMA ALPEN ROUTE GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【富山・立山黒部アルペンルート】雪の大谷・みくりが池＆立山連峰・富山湾宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「富山・立山黒部アルペンルート」雪の大谷・みくりが池＆立山連峰・富山湾宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             標高3,000m級の北アルプスを貫く世界有数の山岳観光路「立山黒部アルペンルート」。春の巨大な雪の壁「雪の大谷」、紺碧の水面に立山が映る「みくりが池」。雲上の絶景温泉に浸かり、富山湾の海の幸を堪能する大冒険へ。
           </p>

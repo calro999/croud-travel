@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/pure-100-percent-kakenagashi-onsen-stay/" },
-  title: "【自家源泉かけ流し100%の宿】加水なし・加温なし・循環なし！本物の名湯 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "自家源泉かけ流し100%の宿：加水なし・加温なし・循環なし！本物の名湯 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "温泉通が選ぶ「自家源泉100%完全かけ流し」宿完全特化！加水なし・加温なし・循環ろ過なし・消毒なしの純生温泉。毎分数百リットルの湧出量、湯の花が舞う鮮度抜群の湯口、飲泉許可、湯守のこだわり宿を徹底解説。",
   keywords: ["自家源泉かけ流し100%の宿", "加水なし", "加温なし", "循環なし！本物の名湯", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
@@ -89,9 +89,7 @@ export default function HeritageOnsenHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             100% PURE NATURAL ONSEN GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【自家源泉かけ流し100%の宿】加水なし・加温なし・循環なし！本物の名湯 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「自家源泉かけ流し100%の宿」加水なし・加温なし・循環なし！本物の名湯 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             一切の妥協なし。湧き出たままの地球の恵みをダイレクトに味わう「自家源泉100%完全かけ流し」。加水・加温・循環・塩素消毒を一切行わない「純生温泉」。湯守が湯量を調整して保つ奇跡の適温と、濃厚な温泉成分を体感。
           </p>

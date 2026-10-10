@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '甲府・御岳昇仙峡の覚円峰奇岩紅葉＆仙娥滝！信玄の隠し湯・湯村温泉×ふるさと納税完全ガイド【2026年最新秋旅】山梨',
+  title: '甲府・御岳昇仙峡の覚円峰奇岩紅葉＆仙娥滝！信玄の隠し湯・湯村温泉×ふるさと納税厳選ガイド山梨',
   description: '10月中旬〜11月下旬に日本一の渓谷美が錦秋に包まれる国特別名勝「甲府・御岳昇仙峡」。主峰・覚円峰の直立約180mの巨岩と仙娥滝の紅葉パノラマ、武田信玄の隠し湯「湯村温泉 旅館明治」「常磐ホテル」「柳屋」で甲州牛サーロインステーキや甲州地鶏・名物ほうとうを甲州ワインとともに堪能。ふるさと納税で実質2,000円。',
   keywords: ["甲府", "御岳昇仙峡の覚円峰奇岩紅葉", "仙娥滝！信玄の隠し湯", "湯村温泉×ふるさと納税", "2026年最新秋旅", "山梨", "温泉宿"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-shosenkyo-kofu-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '甲府・御岳昇仙峡の覚円峰奇岩紅葉＆仙娥滝！信玄の隠し湯・湯村温泉×ふるさと納税完全ガイド【2026年最新秋旅】山梨',
+    title: '甲府・御岳昇仙峡の覚円峰奇岩紅葉＆仙娥滝！信玄の隠し湯・湯村温泉×ふるさと納税厳選ガイド山梨',
     description: '10月中旬〜11月下旬に日本一の渓谷美が錦秋に包まれる国特別名勝「甲府・御岳昇仙峡」。主峰・覚円峰の直立約180mの巨岩と仙娥滝の紅葉パノラマ、武田信玄の隠し湯「湯村温泉 旅館明治」「常磐ホテル」「柳屋」で甲州牛サーロインステーキや甲州地鶏・名物ほうとうを甲州ワインとともに堪能。ふるさと納税で実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-shosenkyo-kofu-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -113,9 +113,7 @@ export default function FeatureArticlePage() {
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">
-            甲府・御岳昇仙峡の覚円峰奇岩紅葉＆仙娥滝！信玄の隠し湯・湯村温泉×ふるさと納税完全ガイド【2026年最新秋旅】山梨
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">甲府・御岳昇仙峡の覚円峰奇岩紅葉＆仙娥滝！信玄の隠し湯・湯村温泉×ふるさと納税厳選ガイド山梨</h1>
           <p className="text-sm md:text-lg text-stone-200 max-w-3xl mx-auto leading-relaxed">
             直立180mの覚円峰と仙娥滝を彩る日本一の渓谷美紅葉、武田信玄ゆかりの名湯・湯村温泉。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
           </p>

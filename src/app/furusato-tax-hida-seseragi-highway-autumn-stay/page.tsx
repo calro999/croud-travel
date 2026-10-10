@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            飛騨せせらぎ街道の絶景紅葉ドライブ＆奥飛騨新平湯温泉・極上飛騨牛の炭火焼き会席
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">飛騨せせらぎ街道の絶景紅葉ドライブ＆奥飛騨新平湯温泉・極上飛騨牛の炭火焼き会席</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             標高差が織りなす約64kmの錦秋ドライブルート。奥飛騨の雄大な山並みと極上飛騨牛に癒やされる秋。
           </p>

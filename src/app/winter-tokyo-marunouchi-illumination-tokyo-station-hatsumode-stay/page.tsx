@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月東京】丸の内イルミネーション！名宿5選',
+  title: '11・12・1月東京：丸の内イルミネーション！名宿5選',
   description: '冬の東京・丸の内は、約1.2kmにわたりシャンパンゴールドに輝く「丸の内イルミネーション」と、美しくライトアップされた東京駅丸の内赤レンガ駅舎。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '丸の内 ホテル, 東京駅 ホテル, 丸の内イルミネーション, 東京ステーションホテル, パレスホテル東京, 丸ノ内ホテル, 皇居 初詣, 日本橋 福徳神社, 11月 12月 1月 東京 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tokyo-marunouchi-illumination-tokyo-station-hatsumode-stay/"
   },
   openGraph: {
-    title: '【11・12・1月東京】丸の内イルミネーション！名宿5選',
+    title: '11・12・1月東京：丸の内イルミネーション！名宿5選',
     description: '冬の東京・丸の内は、約1.2kmにわたりシャンパンゴールドに輝く「丸の内イルミネーション」と、美しくライトアップされた東京駅丸の内赤レンガ駅舎。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-tokyo-marunouchi-illumination-tokyo-station-hatsumode-stay',
     siteName: '地域の宿探訪',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月東京】丸の内イルミネーション＆東京駅丸の内駅舎夜景！皇居新春散策と江戸前極上宿5選",
+    title: "11・12・1月東京：丸の内イルミネーション＆東京駅丸の内駅舎夜景！皇居新春散策と江戸前極上宿5選",
     description: "冬の東京・丸の内は、約1.2kmにわたりシャンパンゴールドに輝く「丸の内イルミネーション」と、美しくライトアップされた東京駅丸の内赤レンガ駅舎、皇居のお濠端の静寂が広がる年間最高峰のラグジュアリーシーズン。日本橋福徳神社や神田明神の新春初詣、江戸前老舗グルメまで、大人の洗練された冬の都心ステイ。楽天APIから最新取得した東京ステーションホテル、パレスホテル東京など厳選宿5選を徹底特集します。",
     images: ["https://img.travel.rakuten.co.jp/share/HOTEL/137869/137869.jpg"]
   }
@@ -232,10 +232,7 @@ export default function MarunouchiTokyoWinterPage() {
             <span>11月・12月・1月冬の都心最高峰イルミネーション特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">
-            丸の内イルミネーション＆東京駅丸の内駅舎夜景！<br className="hidden sm:inline" />
-            皇居新春散策と江戸前極上宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">丸の内イルミネーション＆東京駅丸の内駅舎夜景！<br className="hidden sm:inline" /> 皇居新春散策と江戸前極上宿5選</h1>
 
           <p className="text-slate-300 text-sm sm:text-base lg:text-lg leading-relaxed max-w-3xl mb-8">
             澄み切った冬の大気の中、約1.2kmの丸の内仲通りをシャンパンゴールドの光が包み込む「丸の内イルミネーション」。温かな光に照らされる東京駅丸の内赤レンガ駅舎のライトアップ、そして皇居のお濠端に広がる静寂と白鳥の姿。日本橋福徳神社の新春初詣から老舗江戸前名店の味まで、大人の感性を満たす都心最高峰の冬ステイへご案内します。

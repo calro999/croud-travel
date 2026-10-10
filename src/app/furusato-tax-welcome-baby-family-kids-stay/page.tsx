@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-welcome-baby-family-kids-stay/" },
-  title: '【赤ちゃん・未就学児連れ安心×ふるさと納税】ウェルカムベビー認定宿＆離乳食・貸切風呂完備の家族温泉旅ガイド | クラウドトラベル',
+  title: '赤ちゃん・未就学児連れ安心をふるさと納税でお得に旅する！ウェルカムベビー認定宿＆離乳食・貸切風呂完備の家族温泉旅ガイド | クラウドトラベル',
   description: '初めての温泉旅行も安心！ミキハウス子育て総研「ウェルカムベビーのお宿」認定ホテルや、おむつ・調乳器・離乳食・貸切風呂完備の宿を厳選。パパママの育児疲れを癒やす家族旅行をふるさと納税でお得に実現。',
   openGraph: {
-    title: '【赤ちゃん・未就学児連れ安心×ふるさと納税】ウェルカムベビー認定宿＆離乳食・貸切風呂完備の家族温泉旅ガイド | クラウドトラベル',
+    title: '赤ちゃん・未就学児連れ安心をふるさと納税でお得に旅する！ウェルカムベビー認定宿＆離乳食・貸切風呂完備の家族温泉旅ガイド | クラウドトラベル',
     description: '初めての温泉旅行も安心！ミキハウス子育て総研「ウェルカムベビーのお宿」認定ホテルや、おむつ・調乳器・離乳食・貸切風呂完備の宿を厳選。パパママの育児疲れを癒やす家族旅行をふるさと納税でお得に実現。',
     type: 'article',
   },
@@ -59,9 +59,7 @@ export default function Page() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             ふるさと納税×ウェルカムベビー・乳幼児連れ温泉宿
           </div>
-          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            【赤ちゃん・未就学児連れ安心×ふるさと納税】ウェルカムベビー認定宿＆離乳食・貸切風呂完備の家族温泉旅ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">赤ちゃん・未就学児連れ安心をふるさと納税でお得に旅する！ウェルカムベビー認定宿＆離乳食・貸切風呂完備の家族温泉旅ガイド</h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl mb-6">
             「赤ちゃんが生まれてから、毎日育児に追われて温泉なんて夢のまた夢。」「泣き声で周りに迷惑をかけないか心配」「大浴場に連れて行くのは衛生面や温度が不安。」。そんな新米パパ・ママの不安を100％解消してくれるのが、ミキハウス子育て総研認定の「ウェルカムベビーのお宿」や、乳幼児連れファミリー専用のサポートプランを用意している温泉旅館です。客室にはおむつ用ゴミ箱、調乳ポット、空気清浄機、ベビーバスが完備され、夕食はお部屋食または個室ダイニングで月齢に応じた手作り離乳食が提供されます。こうした細やかなサービスが充実した宿は通常プランより設備費用がかかりますが、楽天ふるさと納税のトラベルクーポン（30％補助）を使えば実質自己負担2,000円で無理なくアップグレード可能。赤ちゃんの温泉デビューを家族みんなの最高の笑顔で飾りましょう。
           </p>

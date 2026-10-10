@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【10月中旬〜下旬！奥入瀬渓流＆十和田湖紅葉】錦秋の滝巡りと秘湯・リゾート宿5選",
+  title: "中旬〜下旬！奥入瀬渓流＆十和田湖紅葉で過ごす冬の旅（10月）！錦秋の滝巡りと秘湯・リゾート宿5選",
   description: "約14kmにわたる清流と奇岩・名瀑を黄金色のブナ林が包む奥入瀬渓流と十和田湖の秋！足元湧出の自噴秘湯・蔦温泉から、渓流沿い唯一の星野リゾートまで厳選5選。",
   keywords: "奥入瀬渓流 紅葉 10月 見頃, 十和田湖 紅葉 ホテル, 星野リゾート 奥入瀬渓流ホテル, 蔦温泉旅館, 青森 紅葉 温泉",
   alternates: {
     canonical: "https://croud-travel.pages.dev/autumn-aomori-oirase-gorge-towada-lake-momiji-hotels-stay/",
   },
   openGraph: {
-    title: "【10月中旬〜下旬！奥入瀬渓流＆十和田湖紅葉】錦秋の滝巡りと秘湯・リゾート宿5選",
+    title: "中旬〜下旬！奥入瀬渓流＆十和田湖紅葉で過ごす冬の旅（10月）！錦秋の滝巡りと秘湯・リゾート宿5選",
     description: "約14kmにわたる清流と奇岩・名瀑を黄金色のブナ林が包む奥入瀬渓流と十和田湖の秋！足元湧出の自噴秘湯・蔦温泉から、渓流沿い唯一の星野リゾートまで厳選5選。",
     url: 'https://croud-travel.pages.dev/autumn-aomori-oirase-gorge-towada-lake-momiji-hotels-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【10月中旬〜下旬！奥入瀬渓流＆十和田湖紅葉】錦秋の滝巡りと秘湯・リゾート宿5選",
+    title: "中旬〜下旬！奥入瀬渓流＆十和田湖紅葉で過ごす冬の旅（10月）！錦秋の滝巡りと秘湯・リゾート宿5選",
     description: "約14kmにわたる清流と奇岩・名瀑を黄金色のブナ林が包む奥入瀬渓流と十和田湖の秋！足元湧出の自噴秘湯・蔦温泉から、渓流沿い唯一の星野リゾートまで厳選5選。",
   }
 };
@@ -131,9 +131,7 @@ export default function FeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             10月中旬〜下旬！みちのく錦秋の渓流・湖畔特集
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【10月中旬〜下旬！奥入瀬渓流＆十和田湖紅葉】<br className="hidden sm:inline" />錦秋の滝巡りと秘湯・リゾート宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">中旬〜下旬！奥入瀬渓流＆十和田湖紅葉で過ごす冬の旅（10月）！<br className="hidden sm:inline" />錦秋の滝巡りと秘湯・リゾート宿5選</h1>
           <p className="max-w-2xl mx-auto text-sm md:text-base text-stone-200 leading-relaxed">
             千変万化の水の流れと黄金色に輝くブナの森！阿修羅の流れや銚子大滝の水しぶきを彩る紅葉のトンネル。蔦沼の朝焼け絶景と、足元湧出温泉や湖畔クラシックリゾートへ。
           </p>

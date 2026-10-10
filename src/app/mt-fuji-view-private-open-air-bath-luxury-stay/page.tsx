@@ -180,9 +180,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            霊峰富士を独り占め！全室富士山ビュー＆客室専用露天風呂付き絶景リゾートホテル
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">霊峰富士を独り占め！全室富士山ビュー＆客室専用露天風呂付き絶景リゾートホテル</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             朝日に照らされて紅く染まる「赤富士」、夕暮れ時のシルエット、そして夜空に浮かび上がる神秘的な霊峰。誰の視線も気にすることなく、お部屋の専用露天風呂に浸かりながら富士山を眺める時間は、まさに日本が世界に誇る至高のリゾート体験です。
           </p>

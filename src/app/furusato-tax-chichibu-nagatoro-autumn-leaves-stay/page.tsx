@@ -4,14 +4,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '国指定天然記念物・長瀞岩畳の紅葉舟下り！秩父夜祭・錦秋ハイキング＆秩父七湯温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】埼玉 | 旅宿クラウド',
+  title: '国指定天然記念物・長瀞岩畳の紅葉舟下り！秩父夜祭・錦秋ハイキング＆秩父七湯温泉宿×ふるさと納税厳選ガイド埼玉 | 旅宿クラウド',
   description: '11月上旬〜11月下旬に見頃を迎える首都圏屈指の紅葉名所「長瀞岩畳（ながとろいわだたみ）」。和舟で豪快に下る「長瀞ラインくだり」と「月の石もみじ公園」のライトアップ、江戸時代から続く秩父七湯の名湯「新木鉱泉」「梁山泊」「宮本の湯」！名物豚味噌漬けや秩父そばを、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
   keywords: ["国指定天然記念物", "長瀞岩畳の紅葉舟下り！秩父夜祭", "錦秋ハイキング", "秩父七湯温泉宿×ふるさと納税", "2026年最新秋旅", "埼玉", "旅宿クラウド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-chichibu-nagatoro-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '国指定天然記念物・長瀞岩畳の紅葉舟下り！秩父夜祭・錦秋ハイキング＆秩父七湯温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】埼玉',
+    title: '国指定天然記念物・長瀞岩畳の紅葉舟下り！秩父夜祭・錦秋ハイキング＆秩父七湯温泉宿×ふるさと納税厳選ガイド埼玉',
     description: '11月上旬〜11月下旬に見頃を迎える首都圏屈指の紅葉名所「長瀞岩畳（ながとろいわだたみ）」。和舟で豪快に下る「長瀞ラインくだり」と「月の石もみじ公園」のライトアップ、江戸時代から続く秩父七湯の名湯「新木鉱泉」「梁山泊」「宮本の湯」！名物豚味噌漬けや秩父そばを、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-chichibu-nagatoro-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -65,9 +65,7 @@ export default function FurusatoChichibuNagatoroAutumnLeavesStayPage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               長瀞ライン下り岩畳紅葉＆秩父名湯鉱泉旅館特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              国指定天然記念物・長瀞岩畳の紅葉舟下り！秩父夜祭・錦秋ハイキング＆秩父七湯温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】埼玉
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">国指定天然記念物・長瀞岩畳の紅葉舟下り！秩父夜祭・錦秋ハイキング＆秩父七湯温泉宿×ふるさと納税厳選ガイド埼玉</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               11月上旬〜11月下旬に見頃を迎える首都圏屈指の紅葉名所「長瀞岩畳（ながとろいわだたみ）」。和舟で豪快に下る「長瀞ラインくだり」と「月の石もみじ公園」のライトアップ、江戸時代から続く秩父七湯の名湯「新木鉱泉」「梁山泊」「宮本の湯」！名物豚味噌漬けや秩父そばを、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。
             </p>

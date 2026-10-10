@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【伊東温泉×ふるさと納税】相模灘オーシャンビュー＆名物金目鯛・伊勢海老！伊豆の名門宿特集｜青山やまと・サンハトヤ・ラフォーレ湯の庭',
+  title: '伊東温泉をふるさと納税でお得に旅する！相模灘オーシャンビュー＆名物金目鯛・伊勢海老！伊豆の名門宿特集｜青山やまと・サンハトヤ・ラフォーレ湯の庭',
   description: '毎分三万リットルの豊富な湧出量を誇る伊豆屈指の温泉郷・静岡県伊東温泉を楽天ふるさと納税でお得に贅沢ステイ！相模湾を見晴らす丘の名門料亭旅館「青山やまと」、名物海底温泉でお魚見学「サンハトヤ」、全室温泉付き客室の和モダン「ラフォーレ伊東温泉 湯の庭」を徹底比較。伊東市トラベルクーポン活用術を網羅。',
   keywords: '伊東温泉 ふるさと納税,青山やまと クーポン,サンハトヤ ふるさと納税 伊東,ラフォーレ伊東温泉 宿泊,伊東市 ふるさと納税 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-ito-onsen-ocean-kinmedai-stay/",
   },
   openGraph: {
-    title: '【伊東温泉×ふるさと納税】相模灘オーシャンビュー＆名物金目鯛・伊勢海老！伊豆の名門宿特集｜青山やまと・サンハトヤ・ラフォーレ湯の庭',
+    title: '伊東温泉をふるさと納税でお得に旅する！相模灘オーシャンビュー＆名物金目鯛・伊勢海老！伊豆の名門宿特集｜青山やまと・サンハトヤ・ラフォーレ湯の庭',
     description: '毎分三万リットルの豊富な湧出量を誇る伊豆屈指の温泉郷・静岡県伊東温泉を楽天ふるさと納税でお得に贅沢ステイ！相模湾を見晴らす丘の名門料亭旅館「青山やまと」、名物海底温泉でお魚見学「サンハトヤ」、全室温泉付き客室の和モダン「ラフォーレ伊東温泉 湯の庭」を徹底比較。伊東市トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-ito-onsen-ocean-kinmedai-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -24,7 +24,7 @@ export default function FurusatoArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【伊東温泉×ふるさと納税】相模灘オーシャンビュー＆名物金目鯛・伊勢海老！伊豆の名門宿特集｜青山やまと・サンハトヤ・ラフォーレ湯の庭',
+    headline: '伊東温泉をふるさと納税でお得に旅する！相模灘オーシャンビュー＆名物金目鯛・伊勢海老！伊豆の名門宿特集｜青山やまと・サンハトヤ・ラフォーレ湯の庭',
     description: '毎分三万リットルの豊富な湧出量を誇る伊豆屈指の温泉郷・静岡県伊東温泉を楽天ふるさと納税でお得に贅沢ステイ！相模湾を見晴らす丘の名門料亭旅館「青山やまと」、名物海底温泉でお魚見学「サンハトヤ」、全室温泉付き客室の和モダン「ラフォーレ伊東温泉 湯の庭」を徹底比較。伊東市トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function FurusatoArticlePage() {
           <span>♨️</span>
           <span>静岡県伊東市 ふるさと納税・名湯宿特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【伊東温泉×ふるさと納税】相模灘オーシャンビュー＆名物金目鯛・伊勢海老！伊豆の名門宿特集｜青山やまと・サンハトヤ・ラフォーレ湯の庭
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">伊東温泉をふるさと納税でお得に旅する！相模灘オーシャンビュー＆名物金目鯛・伊勢海老！伊豆の名門宿特集｜青山やまと・サンハトヤ・ラフォーレ湯の庭</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed">
           毎分三万リットルの豊富な湧出量を誇る伊豆屈指の温泉郷・静岡県伊東温泉を楽天ふるさと納税でお得に贅沢ステイ！相模湾を見晴らす丘の名門料亭旅館「青山やまと」、名物海底温泉でお魚見学「サンハトヤ」、全室温泉付き客室の和モダン「ラフォーレ伊東温泉 湯の庭」を徹底比較。伊東市トラベルクーポン活用術を網羅。
         </p>

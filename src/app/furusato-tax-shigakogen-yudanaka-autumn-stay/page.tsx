@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            志賀高原横手山のパノラマ紅葉＆石畳の風情漂う湯田中渋温泉郷・信州りんご＆信州牛ステイ
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">志賀高原横手山のパノラマ紅葉＆石畳の風情漂う湯田中渋温泉郷・信州りんご＆信州牛ステイ</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             標高2,000mから見渡す黄金の志賀高原。レトロな湯煙の街・湯田中渋温泉郷で信州の秋の味覚に浸る贅沢ステイ。
           </p>

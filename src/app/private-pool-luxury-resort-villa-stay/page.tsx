@@ -180,9 +180,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            誰にも邪魔されない極上の水辺！専用プライベートプール付き高級リゾートヴィラ
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">誰にも邪魔されない極上の水辺！専用プライベートプール付き高級リゾートヴィラ</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             青く澄んだプールサイドのデッキチェアに横たわり、トロピカルカクテルを片手に心地よい海風を感じる。人目を気にせず24時間いつでも泳げるプライベートプールと、夕暮れどきの水面ライトアップ。日常から完全にエスケープできる最高峰のヴィラステイをご提案します。
           </p>

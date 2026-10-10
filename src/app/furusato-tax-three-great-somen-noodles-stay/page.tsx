@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-somen-noodles-stay/" },
-  title: '日本三大そうめん＆手延べ極細麺の伝統技・名水と古都の湯宿×ふるさと納税完全ガイド【2026年最新】三輪・播州・小豆島',
+  title: '日本三大そうめん＆手延べ極細麺の伝統技・名水と古都の湯宿×ふるさと納税厳選ガイド三輪・播州・小豆島',
   description: '糸のように細く強いコシ！日本の麺の原点！奈良桜井「三輪そうめん」手延べそうめん発祥の地の大和橿原シティホテル、兵庫たつの「播州手延そうめん揖保乃糸」清流揖保川と瀬戸内オーシャンビューHOTEL万葉岬、香川小豆島「小豆島そうめん」ごま油が香る400年の島伝統とアクアホテル小豆島リゾート。日本三大そうめんの麺道と郷土の恵みを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大そうめん・伝統手延べ特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大そうめん＆手延べ極細麺の伝統技・名水と古都の湯宿×ふるさと納税完全ガイド【2026年最新】三輪・播州・小豆島',
+    title: '日本三大そうめん＆手延べ極細麺の伝統技・名水と古都の湯宿×ふるさと納税厳選ガイド三輪・播州・小豆島',
     description: '糸のように細く強いコシ！日本の麺の原点！奈良桜井「三輪そうめん」手延べそうめん発祥の地の大和橿原シティホテル、兵庫たつの「播州手延そうめん揖保乃糸」清流揖保川と瀬戸内オーシャンビューHOTEL万葉岬、香川小豆島「小豆島そうめん」ごま油が香る400年の島伝統とアクアホテル小豆島リゾート。日本三大そうめんの麺道と郷土の恵みを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-somen-noodles-stay',
@@ -155,9 +155,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大そうめん・伝統手延べ特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大そうめん＆手延べ麺道宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大そうめん＆手延べ麺道宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             千数百年の歴史を持ち、良質な小麦粉・名水・塩、そして油を用いて手作業で熟成を繰り返しながら細く延ばしていく「日本三大そうめん」――大神神社の神話に起源を持ち1200余年の歴史を誇る手延べそうめんの発祥地・奈良桜井の「三輪そうめん」、清流揖保川の恵みと播磨の熟練職人ネットワークによって国内シェアトップを誇る兵庫たつのの「播州手延そうめん（揖保乃糸）」、そしてお伊勢参りの旅人が伝えた技法をごま油を塗って熟成させることで独特の風味ともちもちのコシを生み出した香川の「小豆島そうめん」。茹で時間わずか数十秒、冷水でキュッと締めた一本は、小麦本来の甘みと清涼感あふれる喉ごしを運んでくれます。そうめんの故郷の温泉旅館やシーサイドリゾートに泊まり、冷製そうめんやにゅうめん、地元のブランド牛・海の幸を味わう特別な休日を楽天ふるさと納税でお楽しみください。
           </p>

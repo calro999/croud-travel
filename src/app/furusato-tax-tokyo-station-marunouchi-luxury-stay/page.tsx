@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【東京駅・丸の内×ふるさと納税】重要文化財駅舎＆皇居ビュー！日本の中心で味わう最高峰ホテル特集｜東京ステーションホテル・パレスホテル・帝国ホテル',
+  title: '東京駅・丸の内をふるさと納税でお得に旅する！重要文化財駅舎＆皇居ビュー！日本の中心で味わう最高峰ホテル特集｜東京ステーションホテル・パレスホテル・帝国ホテル',
   description: '日本の表玄関・東京都千代田区（東京駅・丸の内・大手町・日比谷）を楽天ふるさと納税でお得に贅沢ステイ！国指定重要文化財の赤レンガ駅舎内「東京ステーションホテル」、皇居外苑の緑を望む世界最高峰「パレスホテル東京」、日本の迎賓館「帝国ホテル 東京」を徹底比較。千代田区ふるさと納税トラベルクーポン活用術を網羅。',
   keywords: '東京駅 ホテル ふるさと納税,東京ステーションホテル クーポン,パレスホテル東京 ふるさと納税,帝国ホテル東京 宿泊,千代田区 ふるさと納税 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-tokyo-station-marunouchi-luxury-stay/",
   },
   openGraph: {
-    title: '【東京駅・丸の内×ふるさと納税】重要文化財駅舎＆皇居ビュー！日本の中心で味わう最高峰ホテル特集｜東京ステーションホテル・パレスホテル・帝国ホテル',
+    title: '東京駅・丸の内をふるさと納税でお得に旅する！重要文化財駅舎＆皇居ビュー！日本の中心で味わう最高峰ホテル特集｜東京ステーションホテル・パレスホテル・帝国ホテル',
     description: '日本の表玄関・東京都千代田区（東京駅・丸の内・大手町・日比谷）を楽天ふるさと納税でお得に贅沢ステイ！国指定重要文化財の赤レンガ駅舎内「東京ステーションホテル」、皇居外苑の緑を望む世界最高峰「パレスホテル東京」、日本の迎賓館「帝国ホテル 東京」を徹底比較。千代田区ふるさと納税トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-tokyo-station-marunouchi-luxury-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -24,7 +24,7 @@ export default function FurusatoArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【東京駅・丸の内×ふるさと納税】重要文化財駅舎＆皇居ビュー！日本の中心で味わう最高峰ホテル特集｜東京ステーションホテル・パレスホテル・帝国ホテル',
+    headline: '東京駅・丸の内をふるさと納税でお得に旅する！重要文化財駅舎＆皇居ビュー！日本の中心で味わう最高峰ホテル特集｜東京ステーションホテル・パレスホテル・帝国ホテル',
     description: '日本の表玄関・東京都千代田区（東京駅・丸の内・大手町・日比谷）を楽天ふるさと納税でお得に贅沢ステイ！国指定重要文化財の赤レンガ駅舎内「東京ステーションホテル」、皇居外苑の緑を望む世界最高峰「パレスホテル東京」、日本の迎賓館「帝国ホテル 東京」を徹底比較。千代田区ふるさと納税トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function FurusatoArticlePage() {
           <span>♨️</span>
           <span>東京都千代田区（東京駅・丸の内） ふるさと納税・名湯宿特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【東京駅・丸の内×ふるさと納税】重要文化財駅舎＆皇居ビュー！日本の中心で味わう最高峰ホテル特集｜東京ステーションホテル・パレスホテル・帝国ホテル
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">東京駅・丸の内をふるさと納税でお得に旅する！重要文化財駅舎＆皇居ビュー！日本の中心で味わう最高峰ホテル特集｜東京ステーションホテル・パレスホテル・帝国ホテル</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed">
           日本の表玄関・東京都千代田区（東京駅・丸の内・大手町・日比谷）を楽天ふるさと納税でお得に贅沢ステイ！国指定重要文化財の赤レンガ駅舎内「東京ステーションホテル」、皇居外苑の緑を望む世界最高峰「パレスホテル東京」、日本の迎賓館「帝国ホテル 東京」を徹底比較。千代田区ふるさと納税トラベルクーポン活用術を網羅。
         </p>

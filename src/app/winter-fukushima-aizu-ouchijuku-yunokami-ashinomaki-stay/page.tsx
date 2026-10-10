@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月福島】阿賀川渓谷雪見露天風呂！名宿5選',
+  title: '11・12・1月福島：阿賀川渓谷雪見露天風呂！名宿5選',
   description: '11月下旬から1月、会津盆地に雪が降り積もると、江戸時代の面影を今に留める国の重要伝統的建造物群保存地区「大内宿（おおうちじゅく）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '大内宿 冬 雪景色, 大内宿 一本ねぎそば, 湯野上温泉 茅葺き駅舎, 芦ノ牧温泉 雪見露天, 大川荘 芦ノ牧, 丸峰観光ホテル, 藤龍館 湯野上温泉, 会津馬刺し, 会津牛, 11月 12月 1月 福島旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukushima-aizu-ouchijuku-yunokami-ashinomaki-stay/"
   },
   openGraph: {
-    title: '【11・12・1月福島】阿賀川渓谷雪見露天風呂！名宿5選',
+    title: '11・12・1月福島：阿賀川渓谷雪見露天風呂！名宿5選',
     description: '11月下旬から1月、会津盆地に雪が降り積もると、江戸時代の面影を今に留める国の重要伝統的建造物群保存地区「大内宿（おおうちじゅく）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-fukushima-aizu-ouchijuku-yunokami-ashinomaki-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月福島】白銀の茅葺き宿場町・大内宿の雪景色と名物「一本ねぎそば」＆阿賀川渓谷雪見露天風呂・会津馬刺し名宿5選",
+    title: "11・12・1月福島：白銀の茅葺き宿場町・大内宿の雪景色と名物「一本ねぎそば」＆阿賀川渓谷雪見露天風呂・会津馬刺し名宿5選",
     description: "11月下旬から1月、会津盆地に雪が降り積もると、江戸時代の面影を今に留める国の重要伝統的建造物群保存地区「大内宿（おおうちじゅく）」は、まるで日本昔話の世界に迷い込んだかのような白銀の絶景に包まれます。太い白ネギを箸代わりに手繰る名物「高遠そば（一本ねぎそば）」と、日本唯一の茅葺き屋根駅舎「湯野上温泉駅」の温かな囲炉裏。阿賀川（大川）の切り立った渓谷を見下ろす芦ノ牧温泉のダイナミックな棚田状雪見露天風呂、極上の赤身がとろける会津馬刺しと会津地鶏鍋、全国金賞連覇を誇る福島の銘酒。冬の会津の郷愁と名湯を堪能する名宿5選をお届けします。",
     images: ['https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80']
   }
@@ -42,7 +42,7 @@ export default function FukushimaAizuOuchijukuWinterPage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: "【11・12・1月福島】白銀の茅葺き宿場町・大内宿の雪景色と名物「一本ねぎそば」＆阿賀川渓谷雪見露天風呂・会津馬刺し名宿5選",
+    headline: "11・12・1月福島：白銀の茅葺き宿場町・大内宿の雪景色と名物「一本ねぎそば」＆阿賀川渓谷雪見露天風呂・会津馬刺し名宿5選",
     description: "11月下旬から1月、会津盆地に雪が降り積もると、江戸時代の面影を今に留める国の重要伝統的建造物群保存地区「大内宿（おおうちじゅく）」は、まるで日本昔話の世界に迷い込んだかのような白銀の絶景に包まれます。太い白ネギを箸代わりに手繰る名物「高遠そば（一本ねぎそば）」と、日本唯一の茅葺き屋根駅舎「湯野上温泉駅」の温かな囲炉裏。阿賀川（大川）の切り立った渓谷を見下ろす芦ノ牧温泉のダイナミックな棚田状雪見露天風呂、極上の赤身がとろける会津馬刺しと会津地鶏鍋、全国金賞連覇を誇る福島の銘酒。冬の会津の郷愁と名湯を堪能する名宿5選をお届けします。",
     image: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80',
     datePublished: '',
@@ -283,9 +283,7 @@ export default function FukushimaAizuOuchijukuWinterPage() {
             <Snowflake className="w-4 h-4 text-orange-300" />
             11月・12月・1月 冬の会津・白銀の茅葺き大内宿＆阿賀川渓谷雪見露天風呂特集
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【11・12・1月福島】白銀の茅葺き宿場町・大内宿の雪景色と名物「一本ねぎそば」＆阿賀川渓谷雪見露天風呂・会津馬刺し名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「11・12・1月福島」白銀の茅葺き宿場町・大内宿の雪景色と名物「一本ねぎそば」＆阿賀川渓谷雪見露天風呂・会津馬刺し名宿5選</h1>
           <p className="text-slate-300 text-sm sm:text-base md:text-lg max-w-3xl leading-relaxed">
             江戸時代の街道情緒を今に伝える国の重伝建「大内宿」。11月下旬から1月、厚い茅葺き屋根に純白の雪が降り積もると、宿場町は息を呑む白銀の日本昔話の世界へと変わります。太い一本の生ネギを箸にして豪快に手繰る名物「高遠そば（ねぎそば）」、茅葺き屋根の囲炉裏が温かい「湯野上温泉駅」。そして阿賀川の断崖絶壁に棚田状にせり出す芦ノ牧温泉のダイナミックな雪見露天風呂。極上の会津牛や新鮮な会津馬刺し、全国金賞の銘酒に酔いしれる冬の郷愁旅へ。
           </p>

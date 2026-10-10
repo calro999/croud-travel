@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagano-azumino-wasabi-hotaka-stay/" },
-  title: "【長野・安曇野＆穂高温泉郷】大王わさび農場・水車小屋＆信州サーモン・わさび丼宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "長野・安曇野＆穂高温泉郷：大王わさび農場・水車小屋＆信州サーモン・わさび丼宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "北アルプスの清らかな湧水とアートの田園郷・長野安曇野エリア完全特化！日本最大級「大王わさび農場」、蓼川の水車小屋、安曇野アートラインの美術館巡り、弱アルカリ性美肌の穂高温泉郷、名物「本わさび丼・信州サーモン宿」を徹底解説。",
   keywords: ["長野", "安曇野", "穂高温泉郷", "大王わさび農場", "水車小屋", "信州サーモン", "わさび丼宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             AZUMINO & WASABI GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【長野・安曇野＆穂高温泉郷】大王わさび農場・水車小屋＆信州サーモン・わさび丼宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「長野・安曇野＆穂高温泉郷」大王わさび農場・水車小屋＆信州サーモン・わさび丼宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             北アルプスの雪解け水が湧き出る安曇野の清流と、のどかな田園風景。日本一のわさび田「大王わさび農場」の水車小屋。安曇野アートラインの美術館巡り。穂高温泉郷のやわらかな湯に浸かり、すりたて本わさびと信州サーモンを味わう旅。
           </p>

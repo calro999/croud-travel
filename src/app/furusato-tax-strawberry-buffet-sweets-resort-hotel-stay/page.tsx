@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '甘酸っぱい贅沢！いちごスイーツビュッフェ＆高級リゾートホテルステイ×ふるさと納税完全ガイド【2026年最新】那須・神戸・幕張',
+  title: '甘酸っぱい贅沢！いちごスイーツビュッフェ＆高級リゾートホテルステイ×ふるさと納税厳選ガイド那須・神戸・幕張',
   description: '春の訪れを告げる真っ赤な宝石！全国屈指のパティシエが腕を振るう豪華ストロベリービュッフェを名門ホテルで堪能。とちおとめ＆スカイベリーの食べ比べと那須高原バイキングが圧巻の「ホテルエピナール那須」、天然温泉スパと優雅なストロベリーアフタヌーンティー・スイーツフェアが人気の「神戸ベイシェラトン ホテル＆タワーズ」、スーパーあまおうショートケーキで名高いホテルニューオータニ直営「ホテルニューオータニ幕張」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
   keywords: ["2026年最新", "那須", "神戸", "幕張", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: { canonical: baseUrl + '/furusato-tax-strawberry-buffet-sweets-resort-hotel-stay/' },
   openGraph: {
-    title: '甘酸っぱい贅沢！いちごスイーツビュッフェ＆高級リゾートホテルステイ×ふるさと納税完全ガイド【2026年最新】那須・神戸・幕張',
+    title: '甘酸っぱい贅沢！いちごスイーツビュッフェ＆高級リゾートホテルステイ×ふるさと納税厳選ガイド那須・神戸・幕張',
     description: '春の訪れを告げる真っ赤な宝石！全国屈指のパティシエが腕を振るう豪華ストロベリービュッフェを名門ホテルで堪能。とちおとめ＆スカイベリーの食べ比べと那須高原バイキングが圧巻の「ホテルエピナール那須」、天然温泉スパと優雅なストロベリーアフタヌーンティー・スイーツフェアが人気の「神戸ベイシェラトン ホテル＆タワーズ」、スーパーあまおうショートケーキで名高いホテルニューオータニ直営「ホテルニューオータニ幕張」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
     url: baseUrl + '/furusato-tax-strawberry-buffet-sweets-resort-hotel-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoStrawberryBuffetSweetsStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             旬のいちごスイーツビュッフェ＆優雅なリゾートホテル特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            甘酸っぱい贅沢！いちごスイーツビュッフェ＆高級リゾートホテルステイ×ふるさと納税完全ガイド【2026年最新】那須・神戸・幕張
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">甘酸っぱい贅沢！いちごスイーツビュッフェ＆高級リゾートホテルステイ×ふるさと納税厳選ガイド那須・神戸・幕張</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             冬から春にかけて全国の高級ホテルが最も華やぐ季節のイベント「ストロベリービュッフェ＆いちごフェア」。みずみずしく大粒のブランド苺をそのまま食べ比べできるフレッシュコーナーをはじめ、しっとりとしたスポンジと最高級生クリームがとろけ合う名物ショートケーキ、サクサクのミルフィーユ、香ばしいタルト、華やかなパフェやチョコファウンテンまで、ホテル専属パティシエの技と美意識が詰まったスイーツたちがテーブルを彩ります。日本一のいちご王国・栃木県で「とちおとめ」や「スカイベリー」をふんだんに使った豪華スイーツバイキングと温泉を満喫できる那須高原の「ホテルエピナール那須」、自家源泉の天然温泉スパ「濱泉」と洗練されたシェラトンブランドのストロベリーフェアを優雅に味わう「神戸ベイシェラトン ホテル＆タワーズ」、そして「スーパーあまおうショートケーキ」をはじめとするホテルスイーツの最高峰をビュッフェスタイルで惜しみなく提供する「ホテルニューオータニ幕張」。大人も子どもも笑顔になれる魅惑のストロベリーステイを、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引）を使って実質自己負担2,000円で賢く予約し、甘く優雅な非日常の休日をお楽しみください。
           </p>

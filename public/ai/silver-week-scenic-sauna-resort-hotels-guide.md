@@ -1,4 +1,4 @@
-# 【2026SW】絶景サウナ＆外気浴でととのう宿10選｜失敗しないおすすめ宿ガイド
+# 2026SW：絶景サウナ＆外気浴でととのう宿10選｜失敗しないおすすめ宿ガイド
 
 - URL: https://croud-travel.pages.dev/posts/silver-week-scenic-sauna-resort-hotels-guide/
 - 宿泊施設名: 絶景サウナ＆外気浴ホテルおすすめ10選

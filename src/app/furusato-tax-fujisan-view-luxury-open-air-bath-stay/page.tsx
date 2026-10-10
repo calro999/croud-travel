@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '富士山を望む絶景露天風呂＆天空テラスの至高の宿×ふるさと納税完全ガイド【2026年最新】河口湖・山中湖・西伊豆土肥',
+  title: '富士山を望む絶景露天風呂＆天空テラスの至高の宿×ふるさと納税厳選ガイド河口湖・山中湖・西伊豆土肥',
   description: '日本人の心の原風景「霊峰富士」を湯船から一望する至福の絶景露天風呂ステイ！河口湖畔から逆さ富士とパノラマを望む「大池ホテル」、二万五千坪の名庭園と富士山を真正面に仰ぐ富士吉田「ホテル鐘山苑」、駿河湾の彼方に富士の稜線と茜色の夕陽が沈む西伊豆「土肥ふじやホテル」。四季折々の表情を見せる富士山を眺めながら極上温泉に身を浸す贅沢を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
   keywords: ["富士山を望む絶景露天風呂", "2026年最新", "河口湖", "山中湖", "西伊豆土肥", "温泉宿", "宿泊予約"],
   alternates: { canonical: baseUrl + '/furusato-tax-fujisan-view-luxury-open-air-bath-stay/' },
   openGraph: {
-    title: '富士山を望む絶景露天風呂＆天空テラスの至高の宿×ふるさと納税完全ガイド【2026年最新】河口湖・山中湖・西伊豆土肥',
+    title: '富士山を望む絶景露天風呂＆天空テラスの至高の宿×ふるさと納税厳選ガイド河口湖・山中湖・西伊豆土肥',
     description: '日本人の心の原風景「霊峰富士」を湯船から一望する至福の絶景露天風呂ステイ！河口湖畔から逆さ富士とパノラマを望む「大池ホテル」、二万五千坪の名庭園と富士山を真正面に仰ぐ富士吉田「ホテル鐘山苑」、駿河湾の彼方に富士の稜線と茜色の夕陽が沈む西伊豆「土肥ふじやホテル」。四季折々の表情を見せる富士山を眺めながら極上温泉に身を浸す贅沢を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
     url: baseUrl + '/furusato-tax-fujisan-view-luxury-open-air-bath-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoFujisanViewLuxuryStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             富士山絶景ビュー天空露天風呂＆名旅館特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            富士山を望む絶景露天風呂＆天空テラスの至高の宿×ふるさと納税完全ガイド【2026年最新】河口湖・山中湖・西伊豆土肥
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">富士山を望む絶景露天風呂＆天空テラスの至高の宿×ふるさと納税厳選ガイド河口湖・山中湖・西伊豆土肥</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             古来より人々を魅了し続け、四季折々の荘厳な美しさを魅せる日本の象徴・富士山。その雄大な姿を眺めるだけでも特別な体験ですが、「湯船に身を浸しながら、手前に広がる湖や海越しに富士山を真正面に愛でる。」という時間は、日常の喧騒を忘れさせる最高峰の贅沢です。河口湖畔に建ち最上階展望風呂から遮るもののない富士の全景が迫る「大池ホテル」。富士吉田の広大な日本庭園を有し、富士山を望む露天風呂「こもれびの湯」で至極の癒やしを提供する名門「ホテル鐘山苑」。そして駿河湾越しに夕陽と富士山の壮麗なシルエットが浮かび上がる西伊豆・土肥温泉の「土肥ふじやホテル」。これらの富士山ビュー特等席の客室や展望露天風呂付きプランは年間を通じて人気が高く予約争奪戦となりますが、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期間3年）を活用すれば、実質自己負担2,000円で驚くほどお得にリザーブ可能です。人生で一度は体験したい、富士山と名湯が織りなす感動の絶景旅へ出かけましょう。
           </p>

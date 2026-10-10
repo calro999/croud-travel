@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kyoto-uji-fushimi-sake-matcha-stay/" },
-  title: "【京都・宇治＆伏見酒蔵】世界遺産平等院・宇治抹茶＆伏見十石舟・酒蔵宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "京都・宇治＆伏見酒蔵：世界遺産平等院・宇治抹茶＆伏見十石舟・酒蔵宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "千年の歴史と名水が醸す伝統文化・京都宇治＆伏見エリア完全特化！十円玉でおなじみ世界遺産「平等院鳳凰堂」、宇治川の鵜飼、本場宇治抹茶パフェ、伏見酒蔵の白壁土蔵・十石舟めぐり、京会席＆利き酒宿を徹底解説。",
   keywords: ["京都", "宇治", "伏見酒蔵", "世界遺産平等院", "宇治抹茶", "伏見十石舟", "酒蔵宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             UJI & FUSHIMI GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【京都・宇治＆伏見酒蔵】世界遺産平等院・宇治抹茶＆伏見十石舟・酒蔵宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「京都・宇治＆伏見酒蔵」世界遺産平等院・宇治抹茶＆伏見十石舟・酒蔵宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             十円硬貨に描かれた極楽浄土の宮殿「平等院鳳凰堂」と、日本最高峰の茶文化が息づく「宇治」。名水・伏水が湧き出る白壁土蔵の酒蔵の街「伏見」。十石舟に揺られながら巡る水郷と、挽きたて宇治抹茶・伏見の銘酒を味わう雅な旅。
           </p>

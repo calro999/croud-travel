@@ -42,9 +42,7 @@ export default function Page() {
             <span className="inline-block w-2 h-2 rounded-full bg-rose-400 animate-pulse" />
             日本三大峡谷・絶壁渓谷美特集
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">
-            日本三大峡谷＆断崖絶壁・エメラルド渓谷宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三大峡谷＆断崖絶壁・エメラルド渓谷宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg md:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed font-normal">
             地球が創り出した壮大な造形美！新潟「清津峡」水鏡アートのトンネルと清津館、富山「黒部峡谷」トロッコ電車で行く大自然とホテル黒部、和歌山・奈良・三重「瀞峡」巨岩とエメラルドの深淵ウォータージェット船と里創人熊野倶楽部。日本三大峡谷の圧倒的パノラマと渓谷温泉宿を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。
           </p>

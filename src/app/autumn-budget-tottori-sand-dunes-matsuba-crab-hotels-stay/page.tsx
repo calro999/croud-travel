@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【鳥取】解禁の松葉がにと秋風の鳥取砂丘を満喫！格安・高コスパホテル5選',
+  title: '鳥取：解禁の松葉がにと秋風の鳥取砂丘を満喫！格安・高コスパホテル5選',
   description: '11月上旬解禁の冬の味覚の王様「松葉がに」と、風紋が美しく広がる秋の鳥取砂丘！鳥取駅前で1泊3,000円台〜4,000円台で泊まれる格安・高評価ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetTottoriHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>11月解禁の松葉がに＆秋の砂丘風紋</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【鳥取】解禁の松葉がに＆秋の鳥取砂丘へ！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「鳥取」解禁の松葉がに＆秋の鳥取砂丘へ！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             日本海の荒波が育む極上の冬の味覚「松葉がに」が11月上旬にいよいよ解禁！心地よい秋風に吹かれる鳥取砂丘の夕陽散策や砂の美術館など見どころ満載の鳥取。宿泊費を抑えて本場のカニ料理に贅沢投資できる厳選ホテルをご紹介します。
           </p>

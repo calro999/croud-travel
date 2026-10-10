@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hiroshima-solo-business-skyspa-gourmet-stay/" },
-  title: '【広島出張＆大人ひとり旅】広島駅直結・最上階スカイスパ・流川お好み焼き！心身をととのえる名ホテル 厳選3選',
+  title: '広島出張＆大人ひとり旅：広島駅直結・最上階スカイスパ・流川お好み焼き！心身をととのえる名ホテル 厳選3選',
   description: '山陽新幹線・広島空港からのアクセス至便な中国地方の要所・広島！「広島駅新幹線口直結の世界的ラグジュアリー。」を誇る「シェラトングランドホテル広島」、繁華街八丁堀の真ん中で星空露天風呂とサウナを楽しむ「CANDEO HOTELS 広島八丁堀」、平和大通り近くで天然温泉大浴場が嬉しい「安芸の湯 ドーミーイン広島」を徹底特集。',
   keywords: '広島 出張 ホテル サウナ,広島 一人旅 ホテル おすすめ,シェラトングランドホテル広島 宿泊,カンデオホテルズ広島八丁堀 サウナ,ドーミーイン広島 温泉',
   openGraph: {
-    title: '【広島出張＆大人ひとり旅】広島駅直結・最上階スカイスパ・流川お好み焼き！心身をととのえる名ホテル 厳選3選',
+    title: '広島出張＆大人ひとり旅：広島駅直結・最上階スカイスパ・流川お好み焼き！心身をととのえる名ホテル 厳選3選',
     description: '山陽新幹線・広島空港からのアクセス至便な中国地方の要所・広島！「広島駅新幹線口直結の世界的ラグジュアリー。」を誇る「シェラトングランドホテル広島」、繁華街八丁堀の真ん中で星空露天風呂とサウナを楽しむ「CANDEO HOTELS 広島八丁堀」、平和大通り近くで天然温泉大浴場が嬉しい「安芸の湯 ドーミーイン広島」を徹底特集。',
     url: 'https://croud-travel.pages.dev/hiroshima-solo-business-skyspa-gourmet-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【広島出張＆大人ひとり旅】広島駅直結・最上階スカイスパ・流川お好み焼き！心身をととのえる名ホテル 厳選3選',
+    headline: '広島出張＆大人ひとり旅：広島駅直結・最上階スカイスパ・流川お好み焼き！心身をととのえる名ホテル 厳選3選',
     description: '山陽新幹線・広島空港からのアクセス至便な中国地方の要所・広島！「広島駅新幹線口直結の世界的ラグジュアリー。」を誇る「シェラトングランドホテル広島」、繁華街八丁堀の真ん中で星空露天風呂とサウナを楽しむ「CANDEO HOTELS 広島八丁堀」、平和大通り近くで天然温泉大浴場が嬉しい「安芸の湯 ドーミーイン広島」を徹底特集。',
     author: {
       '@type': 'Organization',
@@ -74,9 +74,7 @@ export default function ArticlePage() {
           <span>✨</span>
           <span>広島・出張＆スカイスパ・お好み焼き特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【広島出張＆大人ひとり旅】広島駅直結・最上階スカイスパ・流川お好み焼き！心身をととのえる名ホテル 厳選3選
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">「広島出張＆大人ひとり旅」広島駅直結・最上階スカイスパ・流川お好み焼き！心身をととのえる名ホテル 厳選3選</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
           山陽新幹線・広島空港からのアクセス至便な中国地方の要所・広島！「広島駅新幹線口直結の世界的ラグジュアリー。」を誇る「シェラトングランドホテル広島」、繁華街八丁堀の真ん中で星空露天風呂とサウナを楽しむ「CANDEO HOTELS 広島八丁堀」、平和大通り近くで天然温泉大浴場が嬉しい「安芸の湯 ドーミーイン広島」を徹底特集。
         </p>

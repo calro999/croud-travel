@@ -3,11 +3,11 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【秋の仙台×格安】定禅寺通りのケヤキ紅葉と牛たんグルメ！天然温泉付き1泊4,000円台〜のコスパ最強おすすめホテル5選【2026最新】',
+  title: '秋の仙台×格安：定禅寺通りのケヤキ紅葉と牛たんグルメ！天然温泉付き1泊4,000円台〜のコスパ最強おすすめホテル5選「2026最新」',
   description: '杜の都・仙台の定禅寺通りの黄金色ケヤキ並木と秋保大滝の紅葉！名物炭火焼き牛たんや秋の「はらこ飯」を堪能。天然温泉大浴場＆サウナ付きでも1泊4,000円〜7,000円台で泊まれる仙台の格安ホテル5選をご紹介。スーパーホテル、ドーミーイン仙台駅前を徹底比較！',
   keywords: '仙台 格安 ホテル, 仙台 天然温泉 ホテル, 定禅寺通り 紅葉, 牛たん 仙台 宿, ドーミーイン仙台駅前, スーパーホテルPremier仙台国分町',
   openGraph: {
-    title: '【秋の仙台×格安】定禅寺通りのケヤキ紅葉と牛たんグルメ！天然温泉付き1泊4,000円台〜のコスパ最強おすすめホテル5選【2026最新】',
+    title: '秋の仙台×格安：定禅寺通りのケヤキ紅葉と牛たんグルメ！天然温泉付き1泊4,000円台〜のコスパ最強おすすめホテル5選「2026最新」',
     description: '定禅寺通りのケヤキ紅葉と牛たん！天然温泉付き1泊4,000円台〜のコスパ最強仙台ホテル5選。',
     type: 'article',
     url: 'https://croud-travel.com/autumn-budget-miyagi-sendai-onsen-gyutan-hotels-stay',
@@ -32,9 +32,7 @@ export default function SendaiBudgetAutumnPage() {
             <span className="px-3 py-1 bg-teal-600 text-white text-xs font-bold rounded-full">格安・東北特集</span>
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">1泊目安: 4,000円台〜7,000円台</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">
-            【秋の仙台×格安】定禅寺通りのケヤキ紅葉と牛たんグルメ！天然温泉付き1泊4,000円台〜のコスパ最強おすすめホテル5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の仙台×格安」定禅寺通りのケヤキ紅葉と牛たんグルメ！天然温泉付き1泊4,000円台〜のコスパ最強おすすめホテル5選</h1>
           <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
             杜の都を象徴する定禅寺通りを黄金色に染め上げるケヤキ並木。名物の極厚炭火焼き牛たんや宮城の秋の味覚「はらこ飯」を味わい、自家源泉やサウナで旅の疲れをほぐす高コスパホテルをご案内します。
           </p>

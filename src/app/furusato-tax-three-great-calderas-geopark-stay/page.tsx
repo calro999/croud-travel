@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-calderas-geopark-stay/" },
-  title: '日本三大カルデラ＆地球の息吹・巨大火口原パノラマと名湯宿×ふるさと納税完全ガイド【2026年最新】阿蘇・箱根・屈斜路',
+  title: '日本三大カルデラ＆地球の息吹・巨大火口原パノラマと名湯宿×ふるさと納税厳選ガイド阿蘇・箱根・屈斜路',
   description: '大地の鼓動を肌で感じるジオパークの驚異！世界屈指の複式カルデラと外輪山の大パノラマ「阿蘇カルデラ」阿蘇内牧温泉阿蘇プラザホテル、富士山を望むカルデラ湖畔のリゾート「箱根カルデラ（芦ノ湖）」箱根はなをり、日本最大のカルデラ湖と屈斜路ブルー「屈斜路・摩周カルデラ」屈斜路プリンスホテル。日本三大カルデラの絶景温泉宿を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大カルデラ・大自然ジオ特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大カルデラ＆地球の息吹・巨大火口原パノラマと名湯宿×ふるさと納税完全ガイド【2026年最新】阿蘇・箱根・屈斜路',
+    title: '日本三大カルデラ＆地球の息吹・巨大火口原パノラマと名湯宿×ふるさと納税厳選ガイド阿蘇・箱根・屈斜路',
     description: '大地の鼓動を肌で感じるジオパークの驚異！世界屈指の複式カルデラと外輪山の大パノラマ「阿蘇カルデラ」阿蘇内牧温泉阿蘇プラザホテル、富士山を望むカルデラ湖畔のリゾート「箱根カルデラ（芦ノ湖）」箱根はなをり、日本最大のカルデラ湖と屈斜路ブルー「屈斜路・摩周カルデラ」屈斜路プリンスホテル。日本三大カルデラの絶景温泉宿を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-calderas-geopark-stay',
@@ -142,9 +142,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大カルデラ・大自然ジオ特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大カルデラ＆巨大火口原パノラマ名湯宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大カルデラ＆巨大火口原パノラマ名湯宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             数万年前の巨大噴火によって大地が陥没し、息をのむ雄大な凹地地形を形成した「日本三大カルデラ」――東西約18km・南北約25kmにおよびカルデラ内に町や鉄道が広がる世界最大級のスケールを誇る熊本の「阿蘇カルデラ」、中央火口丘や芦ノ湖・仙石原を擁し霊峰富士を仰ぎ見る日本屈指の温泉郷を形成した神奈川の「箱根カルデラ」、そして周囲約57kmに及ぶ日本最大のカルデラ湖であり冬には白鳥が飛来し砂湯が湧き出る北海道道東の「屈斜路カルデラ」。大地の鼓動が育んだ濃厚な天然温泉に身を浸し、あか牛・相模湾の海の幸・北海道の極上ジビエや海鮮を味わうダイナミックな休日を楽天ふるさと納税でお楽しみください。
           </p>

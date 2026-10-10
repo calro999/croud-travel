@@ -180,9 +180,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            雪道運転の心配なし！新幹線駅から直結・徒歩圏内のスキー＆天然温泉スノーリゾート
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">雪道運転の心配なし！新幹線駅から直結・徒歩圏内のスキー＆天然温泉スノーリゾート</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             冬の雪道運転が不安な方でも、東京駅から上越新幹線や北陸新幹線で1時間〜1時間半。駅から直結、あるいは無料送迎ですぐにゲレンデと天然温泉にアクセスできる宿なら、重い荷物やレンタカーのチェーン着脱に悩まされることなく、スマートに冬のリゾートステイを楽しめます。
           </p>

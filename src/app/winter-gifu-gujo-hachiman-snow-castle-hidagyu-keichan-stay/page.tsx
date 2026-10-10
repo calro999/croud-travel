@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月岐阜】名物鶏ちゃんと極上飛騨牛すき焼きを味わう！名宿5選',
+  title: '11・12・1月岐阜：名物鶏ちゃんと極上飛騨牛すき焼きを味わう！名宿5選',
   description: '冬の岐阜・奥美濃は、日本最古の木造再建城「郡上八幡城」が純白の雪をまとい、城下町の水路に清流がせせらぐ静謐な小京都の季節。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '郡上八幡 ホテル, 郡上八幡城 雪景色, 宗祇水, 奥美濃 鶏ちゃん, 飛騨牛 すき焼き, うだつの上がる町並み 美濃, 郡上八幡積翠園, 11月 12月 1月 岐阜 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-gifu-gujo-hachiman-snow-castle-hidagyu-keichan-stay/"
   },
   openGraph: {
-    title: '【11・12・1月岐阜】名物鶏ちゃんと極上飛騨牛すき焼きを味わう！名宿5選',
+    title: '11・12・1月岐阜：名物鶏ちゃんと極上飛騨牛すき焼きを味わう！名宿5選',
     description: '冬の岐阜・奥美濃は、日本最古の木造再建城「郡上八幡城」が純白の雪をまとい、城下町の水路に清流がせせらぐ静謐な小京都の季節。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-gifu-gujo-hachiman-snow-castle-hidagyu-keichan-stay',
     type: 'article',
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月岐阜】奥美濃の小京都・郡上八幡城雪景色＆宗祇水！名物鶏ちゃんと極上飛騨牛すき焼きを味わう名宿5選",
+    title: "11・12・1月岐阜：奥美濃の小京都・郡上八幡城雪景色＆宗祇水！名物鶏ちゃんと極上飛騨牛すき焼きを味わう名宿5選",
     description: "冬の岐阜・奥美濃は、日本最古の木造再建城「郡上八幡城」が純白の雪をまとい、城下町の水路に清流がせせらぐ静謐な小京都の季節。名水百選第1号「宗祇水」や江戸の風情を残す職人町・鍛冶屋町の格子戸、美濃市「うだつの上がる町並み」の気品ある景観。岐阜が世界に誇る最高峰黒毛和牛「飛騨牛」のとろけるすき焼きや、香ばしい味噌ダレが染み渡る奥美濃名物「鶏ちゃん」、地酒のぬる燗。雪化粧の山並みと温もりの湯に癒やされる厳選名宿5選を徹底解説します。"
   }
 };
@@ -229,10 +229,7 @@ export default function GifuGujoHachimanPage() {
             <Snowflake className="w-4 h-4 text-cyan-300" />
             11月・12月・1月冬の特選旅｜岐阜・郡上八幡＆美濃
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">
-            奥美濃の小京都・郡上八幡城雪景色＆宗祇水！<br className="hidden sm:inline" />
-            名物鶏ちゃんと極上飛騨牛すき焼きの名宿5選
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">奥美濃の小京都・郡上八幡城雪景色＆宗祇水！<br className="hidden sm:inline" /> 名物鶏ちゃんと極上飛騨牛すき焼きの名宿5選</h1>
           <p className="text-base sm:text-lg text-slate-200/90 leading-relaxed max-w-4xl mb-8">
             清流長良川の源流域に抱かれた奥美濃の小京都・郡上八幡。冬の冷え込みとともに日本最古の木造再建城「郡上八幡城」は純白の雪をまとい、息をのむ白銀の「積翠城」へと変貌します。名水百選第1号の宗祇水、水路が巡る格子戸の町並み、美濃市「うだつの上がる町並み」の気品。そして香ばしい味噌ダレが染み渡る熱々の奥美濃名物「鶏ちゃん」と、岐阜が世界に誇る極上「飛騨牛」のすき焼き。静寂と温もりに包まれる冬の厳選宿をご案内します。
           </p>

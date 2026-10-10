@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月白布温泉】西吾妻山の豪雪秘湯と開湯700年の名物湯滝！名宿5選',
+  title: '白布温泉で過ごす冬の旅（11・12月）！西吾妻山の豪雪秘湯と開湯700年の名物湯滝！名宿5選',
   description: '11月中旬から深い雪に包まれる山形県米沢市の秘境・西吾妻山山麓に位置する白布温泉（しらぶおんせん）と新高湯温泉。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '白布温泉 宿泊, 新高湯温泉 旅館, 白布温泉 東屋, 白布温泉 中屋別館 不動閣, 湯滝の宿 西屋, 吾妻屋旅館, 小野川温泉 吾妻荘, 米沢牛 すき焼き, 打たせ湯, 湯滝, 11月 12月 山形温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamagata-shirabu-onsen-snow-yonezawa-beef-stay/"
   },
   openGraph: {
-    title: '【11・12月白布温泉】西吾妻山の豪雪秘湯と開湯700年の名物湯滝！名宿5選',
+    title: '白布温泉で過ごす冬の旅（11・12月）！西吾妻山の豪雪秘湯と開湯700年の名物湯滝！名宿5選',
     description: '11月中旬から深い雪に包まれる山形県米沢市の秘境・西吾妻山山麓に位置する白布温泉（しらぶおんせん）と新高湯温泉。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-yamagata-shirabu-onsen-snow-yonezawa-beef-stay',
     siteName: 'クラドトラベル',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月山形・白布温泉＆新高湯温泉】西吾妻山の豪雪秘湯と開湯700年の名物湯滝・最高峰A5米沢牛すき焼きを堪能する名宿5選",
+    title: "山形・白布温泉＆新高湯温泉で過ごす冬の旅（11・12月）！西吾妻山の豪雪秘湯と開湯700年の名物湯滝・最高峰A5米沢牛すき焼きを堪能する名宿5選",
     description: "11月中旬から深い雪に包まれる山形県米沢市の秘境・西吾妻山山麓に位置する白布温泉（しらぶおんせん）と新高湯温泉。標高900〜1126mの高地に湧く名湯は、白馬の傷を癒やした伝説に由来し、開湯700年の歴史を誇る米沢八湯屈指の古湯です。頭上から豪快に滝のように注がれる名物「湯滝（打たせ湯）」や、茅葺き屋根の重厚な湯宿、大樽川渓谷を見下ろす雪見露天風呂など、東北の厳しい冬ならではの情趣に満ちています。夕食には、日本三大和牛の頂点に君臨する「米沢牛」のA5ランク特選すき焼きや陶板ステーキ、山形名物の温かい芋煮汁、伝統野菜や地酒「東光」など、寒風で冷えた身体を芯から解きほぐす至極の郷土美食が並びます。初冬の白銀の山峡で本物の秘湯と美食に浸る厳選名宿5選を徹底解説します。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -337,10 +337,7 @@ export default function YamagataShirabuYonezawaPage() {
             <Snowflake className="w-4 h-4 text-amber-300" />
             11月・12月 山形の冬温泉特集 ｜ 白布温泉＆新高湯温泉（米沢）
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            西吾妻山の豪雪秘湯と開湯700年名物「湯滝」<br />
-            最高峰A5米沢牛すき焼きを堪能する名宿
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">西吾妻山の豪雪秘湯と開湯700年名物「湯滝」<br /> 最高峰A5米沢牛すき焼きを堪能する名宿</h1>
           <p className="text-stone-300 text-sm sm:text-base max-w-2xl mx-auto leading-relaxed pt-2">
             毎分1500Lの豪快な打たせ湯と茅葺き屋根の歴史宿、雲上の絶景露天。米沢藩主上杉家ゆかりの奥座敷で味わう至高の肉会席。
           </p>

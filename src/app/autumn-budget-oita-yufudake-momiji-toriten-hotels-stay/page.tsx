@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【大分】由布岳・くじゅう連山紅葉拠点＆豊後グルメ！2,000円台〜格安ホテル5選',
+  title: '大分：由布岳・くじゅう連山紅葉拠点＆豊後グルメ！2,000円台〜格安ホテル5選',
   description: 'くじゅう連山・由布岳の山肌を染める一面のススキと紅葉！本場の関あじ・とり天・豊後牛を堪能。大分駅前で1泊2,000円台〜3,000円台で泊まれる超高コスパホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetOitaHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>由布岳くじゅう紅葉ドライブ＆本場とり天</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【大分】由布岳紅葉拠点＆豊後グルメを満喫！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「大分」由布岳紅葉拠点＆豊後グルメを満喫！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             金鱗湖の朝霧や由布岳、くじゅう連山を黄金色に染め上げるススキと錦秋の絶景！夜は大分駅前の繁華街「都町」でサクサク揚げたての元祖とり天、脂の乗った関あじ関さば、豊後牛を堪能。別府・由布院の宿が高騰する秋も、大分駅前に泊まれば2,000円台からの破格ステイが叶います。
           </p>

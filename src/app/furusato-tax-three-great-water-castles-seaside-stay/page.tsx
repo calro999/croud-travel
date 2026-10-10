@@ -4,14 +4,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '日本三大水城＆海に浮かぶ名城展望・瀬戸内海鮮名宿×ふるさと納税完全ガイド【2026年最新】今治城・高松城・中津城',
+  title: '日本三大水城＆海に浮かぶ名城展望・瀬戸内海鮮名宿×ふるさと納税厳選ガイド今治城・高松城・中津城',
   description: '海水を堀に引き入れた難攻不落の名城！愛媛「今治城」藤堂高虎公築城の日本屈指の水城天守展望と来島海峡の荒波鯛めし、香川「高松城（玉藻城）」水門越しに瀬戸内海の多島美を望むベイサイド宿と讃岐オリーブ牛、大分「中津城」黒田官兵衛が築いた石垣と周防灘名物ハモ料理。海城の歴史ロマンを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: 'ふるさと納税, 楽天トラベル, 旅行クーポン, 宿泊記, ホテル予約, 国内旅行, おすすめ宿, 温泉旅館',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-water-castles-seaside-stay/",
   },
   openGraph: {
-    title: '日本三大水城＆海に浮かぶ名城展望・瀬戸内海鮮名宿×ふるさと納税完全ガイド【2026年最新】今治城・高松城・中津城',
+    title: '日本三大水城＆海に浮かぶ名城展望・瀬戸内海鮮名宿×ふるさと納税厳選ガイド今治城・高松城・中津城',
     description: '海水を堀に引き入れた難攻不落の名城！愛媛「今治城」藤堂高虎公築城の日本屈指の水城天守展望と来島海峡の荒波鯛めし、香川「高松城（玉藻城）」水門越しに瀬戸内海の多島美を望むベイサイド宿と讃岐オリーブ牛、大分「中津城」黒田官兵衛が築いた石垣と周防灘名物ハモ料理。海城の歴史ロマンを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-water-castles-seaside-stay',
     siteName: 'トラベル総合ナビ',
@@ -56,9 +56,7 @@ export default function Page() {
             <span>✨</span>
             <span>日本三大水城・海城絶景特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6 text-white drop-shadow-sm">
-            日本三大水城＆海に浮かぶ名城展望宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6 text-white drop-shadow-sm">日本三大水城＆海に浮かぶ名城展望宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-xl text-slate-200 leading-relaxed font-normal max-w-4xl">
             堀を泳ぐ鯛やフグ、海城天守から望む瀬戸内海の多島美。水軍の歴史が息づく海城ステイ
           </p>

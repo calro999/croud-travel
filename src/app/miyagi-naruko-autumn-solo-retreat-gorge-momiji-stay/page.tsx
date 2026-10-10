@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/miyagi-naruko-autumn-solo-retreat-gorge-momiji-stay/" },
-  title: '【10月・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷と日本一多彩な泉質おこもり】貸切庭園露天・重曹美肌湯・黒毛和牛！みちのく湯治リトリート厳選3宿',
+  title: '・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷と日本一多彩な泉質おこもりで過ごす冬の旅（10月）！貸切庭園露天・重曹美肌湯・黒毛和牛！みちのく湯治リトリート厳選3宿',
   description: '10月中旬〜11月上旬は東北屈指の紅葉名所「鳴子峡」のベストシーズン！日本に湧出する泉質11種のうち8種が集まる宮城・鳴子温泉。離れの貸切露天風呂「母里の湯」と重曹泉が絶賛される「極上の貸切露天風呂 旅館大沼」、純重曹泉と自家源泉かけ流しが評判の「鳴子旅館」、多彩な源泉風呂を誇る「旅館すがわら」を楽天API最新データに基づき徹底比較。',
   keywords: '鳴子温泉 一人旅 宿,鳴子温泉 10月 11月 紅葉 温泉,鳴子温泉 旅館大沼 一人旅,鳴子旅館,旅館すがわら,鳴子峡 紅葉 一人旅 おこもり',
   openGraph: {
-    title: '【10月・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷と日本一多彩な泉質おこもり】貸切庭園露天・重曹美肌湯・黒毛和牛！みちのく湯治リトリート厳選3宿',
+    title: '・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷と日本一多彩な泉質おこもりで過ごす冬の旅（10月）！貸切庭園露天・重曹美肌湯・黒毛和牛！みちのく湯治リトリート厳選3宿',
     description: '10月中旬〜11月上旬は東北屈指の紅葉名所「鳴子峡」のベストシーズン！日本に湧出する泉質11種のうち8種が集まる宮城・鳴子温泉。離れの貸切露天風呂「母里の湯」と重曹泉が絶賛される「極上の貸切露天風呂 旅館大沼」、純重曹泉と自家源泉かけ流しが評判の「鳴子旅館」、多彩な源泉風呂を誇る「旅館すがわら」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/miyagi-naruko-autumn-solo-retreat-gorge-momiji-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【10月・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷と日本一多彩な泉質おこもり】貸切庭園露天・重曹美肌湯・黒毛和牛！みちのく湯治リトリート厳選3宿',
+    headline: '・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷と日本一多彩な泉質おこもりで過ごす冬の旅（10月）！貸切庭園露天・重曹美肌湯・黒毛和牛！みちのく湯治リトリート厳選3宿',
     description: '10月中旬〜11月上旬は東北屈指の紅葉名所「鳴子峡」のベストシーズン！日本に湧出する泉質11種のうち8種が集まる宮城・鳴子温泉。離れの貸切露天風呂「母里の湯」と重曹泉が絶賛される「極上の貸切露天風呂 旅館大沼」、純重曹泉と自家源泉かけ流しが評判の「鳴子旅館」、多彩な源泉風呂を誇る「旅館すがわら」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             宮城鳴子温泉・10-11月秋の鳴子峡紅葉＆美肌湯治ひとり旅おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【10月・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷と日本一多彩な泉質おこもり】貸切庭園露天・重曹美肌湯・黒毛和牛！みちのく湯治リトリート厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷と日本一多彩な泉質おこもりで過ごす冬の旅（10月）！貸切庭園露天・重曹美肌湯・黒毛和牛！みちのく湯治リトリート厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

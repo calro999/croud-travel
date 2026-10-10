@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月広島】西条酒蔵通りの冬新酒仕込み！名宿5選',
+  title: '11・12・1月広島：西条酒蔵通りの冬新酒仕込み！名宿5選',
   description: '灘・伏見と並び称される日本三大銘醸地「西条酒蔵通り」が最も熱気を帯びる11〜1月の冬旅特集。赤レンガ煙突と白壁なまこ壁が連なる路地に立ち上る。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '西条 酒蔵通り 冬, 美酒鍋 西条, 竹原 町並み保存地区, 峠下牛, 東広島 ホテル, グリーンスカイホテル竹原, モーリス 西条, 新酒仕込み 広島, 安芸の小京都',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hiroshima-saijo-takehara-sake-brewery-bikan-stay/"
   },
   openGraph: {
-    title: '【11・12・1月広島】西条酒蔵通りの冬新酒仕込み！名宿5選',
+    title: '11・12・1月広島：西条酒蔵通りの冬新酒仕込み！名宿5選',
     description: '灘・伏見と並び称される日本三大銘醸地「西条酒蔵通り」が最も熱気を帯びる11〜1月の冬旅特集。赤レンガ煙突と白壁なまこ壁が連なる路地に立ち上る。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-hiroshima-saijo-takehara-sake-brewery-bikan-stay',
     type: 'article',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月広島】西条酒蔵通りの冬新酒仕込み＆名物「美酒鍋」！安芸の小京都・竹原町並み保存地区と厳選名宿5選",
+    title: "11・12・1月広島：西条酒蔵通りの冬新酒仕込み＆名物「美酒鍋」！安芸の小京都・竹原町並み保存地区と厳選名宿5選",
     description: "灘・伏見と並び称される日本三大銘醸地「西条酒蔵通り」が最も熱気を帯びる11〜1月の冬旅特集。赤レンガ煙突と白壁なまこ壁が連なる路地に立ち上る新酒の吟醸香、蔵人の知恵から生まれた日本酒鍋「美酒鍋（びしゅなべ）」、安芸の小京都・竹原町並み保存地区の静寂と普明閣からの冬景色、竹原のブランド和牛「峠下牛」や瀬戸内の冬真鯛。東広島西条・竹原の滞在拠点に最適な厳選ホテル・名宿5選を徹底解説します。",
     images: ['https://images.unsplash.com/photo-1578632767115-351597cf2477?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -284,11 +284,7 @@ export default function HiroshimaSaijoTakeharaWinterPage() {
               <Sparkles className="w-4 h-4 text-amber-300" />
               <span>11月・12月・1月冬の酒蔵情緒＆小京都特集</span>
             </div>
-            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 text-white drop-shadow-md">
-              広島・東広島西条＆竹原<br className="hidden sm:inline" />
-              西条酒蔵通りの冬新酒仕込みと名物「美酒鍋」！<br className="hidden sm:inline" />
-              安芸の小京都・竹原町並み保存地区＆厳選名宿5選
-            </h1>
+            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 text-white drop-shadow-md">広島・東広島西条＆竹原<br className="hidden sm:inline" /> 西条酒蔵通りの冬新酒仕込みと名物「美酒鍋」！<br className="hidden sm:inline" /> 安芸の小京都・竹原町並み保存地区＆厳選名宿5選</h1>
             <p className="max-w-3xl mx-auto text-sm md:text-lg text-amber-100 leading-relaxed drop-shadow">
               赤レンガ煙突の酒蔵群から立ち上る蒸米の湯気と青い杉玉。吟醸酒発祥の地・西条で味わう熱々の蔵人鍋「美酒鍋」と、江戸の豪商屋敷が静かに息づく安芸の小京都・竹原の町並み。冬の瀬戸内が誇る極上ブランド牛「峠下牛」と銘酒に酔いしれる大人の冬紀行。
             </p>

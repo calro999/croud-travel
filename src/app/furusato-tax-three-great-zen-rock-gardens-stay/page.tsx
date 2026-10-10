@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '日本三大枯山水庭園＆白砂青松の禅の宇宙と瞑想リトリート名宿×ふるさと納税完全ガイド【2026年最新】龍安寺・大仙院・龍源院',
+  title: '日本三大枯山水庭園＆白砂青松の禅の宇宙と瞑想リトリート名宿×ふるさと納税厳選ガイド龍安寺・大仙院・龍源院',
   description: '水を用いずに石と白砂だけで山水の広大無辺な宇宙を表現する禅の美学「日本三大枯山水庭園」（京都右京・龍安寺方丈石庭、京都北区・大徳寺大仙院枯山水、京都北区・大徳寺龍源院一枝坦）。エリザベス女王も絶賛した15個の石の謎、室町禅宗庭園の最高峰、早朝の静寂座禅体験。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ大人の古都マインドフルネス宿泊ガイド。',
   keywords: ["日本三大枯山水庭園", "2026年最新", "龍安寺", "大仙院", "龍源院", "温泉宿", "宿泊予約"],
   alternates: { canonical: baseUrl + '/furusato-tax-three-great-zen-rock-gardens-stay/' },
   openGraph: {
-    title: '日本三大枯山水庭園＆白砂青松の禅の宇宙と瞑想リトリート名宿×ふるさと納税完全ガイド【2026年最新】龍安寺・大仙院・龍源院',
+    title: '日本三大枯山水庭園＆白砂青松の禅の宇宙と瞑想リトリート名宿×ふるさと納税厳選ガイド龍安寺・大仙院・龍源院',
     description: '水を用いずに石と白砂だけで山水の広大無辺な宇宙を表現する禅の美学「日本三大枯山水庭園」（京都右京・龍安寺方丈石庭、京都北区・大徳寺大仙院枯山水、京都北区・大徳寺龍源院一枝坦）。エリザベス女王も絶賛した15個の石の謎、室町禅宗庭園の最高峰、早朝の静寂座禅体験。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ大人の古都マインドフルネス宿泊ガイド。',
     url: baseUrl + '/furusato-tax-three-great-zen-rock-gardens-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoRound66ArticlePage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             日本三大枯山水・禅庭園と瞑想リトリート特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            日本三大枯山水庭園＆白砂青松の禅の宇宙と瞑想リトリート名宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">日本三大枯山水庭園＆白砂青松の禅の宇宙と瞑想リトリート名宿</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             一粒の水も使わず、箒の目立てによる白砂の波紋と、絶妙なバランスで配された巨石だけで、無限に広がる大海原や深山幽谷の山水を表現する「枯山水（かれさんすい）」。室町時代の禅僧たちが到達した、削ぎ落とされた引き算の美学の頂点に君臨するのが「日本三大枯山水庭園」です。どの角度から眺めても15個の石のうち1個が見えないという「不完全の美」を体現し、英国エリザベス女王も静かに見入った世界遺産・京都龍安寺の石庭。蓬莱山から流れ出す水が大海へと注ぐ人生の縮図を石組で劇的に描いた室町禅庭の最高峰・大徳寺大仙院。そして東洋一の白砂青松と苔の島が静寂の小宇宙を創り出す大徳寺龍源院の「一枝坦（いっしだん）」。縁側に腰を下ろし、小鳥のさえずりと竹の擦れ合う音に耳を傾けながら庭と対峙する時間は、日常の慌ただしさで散らかった思考をリセットし、澄み切った心の静寂を取り戻してくれます。京都の名勝庭園を借景にしたラグジュアリーホテルや名門数寄屋旅館で、四季の京会席と名湯に癒やされる特別な古都の休日。楽天ふるさと納税トラベルクーポンを活用して、深い知性と癒やしに出会う大人の禅リトリートへ出かけましょう。
           </p>

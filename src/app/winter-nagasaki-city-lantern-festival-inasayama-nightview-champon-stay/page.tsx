@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【12・1月長崎】名物ちゃんぽんと長崎和牛を味わう！名宿5選',
+  title: '長崎で過ごす冬の旅（12・1月）！名物ちゃんぽんと長崎和牛を味わう！名宿5選',
   description: '冬の長崎は、1万5000個もの極彩色中国提灯が街路を埋め尽くす「長崎ランタンフェスティバル」や世界新三大夜景・稲佐山から見下ろす1000万ド。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '長崎 ホテル, 稲佐山 夜景 ホテル, 長崎ランタンフェスティバル, ガーデンテラス長崎, ルークプラザホテル, ホテルニュー長崎, グラバー園 イルミネーション, 長崎ちゃんぽん, 12月 1月 長崎 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagasaki-city-lantern-festival-inasayama-nightview-champon-stay/"
   },
   openGraph: {
-    title: '【12・1月長崎】名物ちゃんぽんと長崎和牛を味わう！名宿5選',
+    title: '長崎で過ごす冬の旅（12・1月）！名物ちゃんぽんと長崎和牛を味わう！名宿5選',
     description: '冬の長崎は、1万5000個もの極彩色中国提灯が街路を埋め尽くす「長崎ランタンフェスティバル」や世界新三大夜景・稲佐山から見下ろす1000万ド。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-nagasaki-city-lantern-festival-inasayama-nightview-champon-stay',
     siteName: '地域の宿探訪',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【12・1月長崎】長崎市＆稲佐山・南山手！1万5千個の長崎ランタンフェスと稲佐山世界新三大夜景・名物ちゃんぽんと長崎和牛を味わう名宿5選",
+    title: "長崎で過ごす冬の旅（12・1月）！長崎市＆稲佐山・南山手！1万5千個の長崎ランタンフェスと稲佐山世界新三大夜景・名物ちゃんぽんと長崎和牛を味わう名宿5選",
     description: "冬の長崎は、1万5000個もの極彩色中国提灯が街路を埋め尽くす「長崎ランタンフェスティバル」や世界新三大夜景・稲佐山から見下ろす1000万ドルの冬夜景、南山手グラバー園のロマンチックなイルミネーションに包まれる特別な季節です。総鎮守・諏訪神社での厳かな初詣、白濁鶏白湯と海鮮の旨味が凝縮された熱々の本場長崎ちゃんぽん、出島伝来の伝統卓袱料理、そしてとろける長崎和牛。長崎港を見下ろす丘の上や異国情緒あふれる南山手の厳選名宿5選を徹底解説します。",
     images: ["https://img.travel.rakuten.co.jp/share/HOTEL/74749/74749.jpg"]
   }
@@ -232,10 +232,7 @@ export default function NagasakiCityWinterPage() {
             <span>12月・1月冬の光の祝祭＆世界新三大夜景・長崎美食特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">
-            長崎市＆稲佐山・南山手！<br className="hidden sm:inline" />
-            1万5千個の長崎ランタンフェスと稲佐山世界新三大夜景・名物ちゃんぽんと長崎和牛を味わう名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">長崎市＆稲佐山・南山手！<br className="hidden sm:inline" /> 1万5千個の長崎ランタンフェスと稲佐山世界新三大夜景・名物ちゃんぽんと長崎和牛を味わう名宿5選</h1>
 
           <p className="text-slate-300 text-sm sm:text-base lg:text-lg leading-relaxed max-w-3xl mb-8">
             中国旧正月を祝う1万5,000個の極彩色中国提灯が街を染める「長崎ランタンフェスティバル」、稲佐山山頂から見下ろす世界新三大夜景の1,000万ドルの大パノラマ、そして南山手グラバー園のロマンチックな冬イルミネーション。熱々の具だくさん本場長崎ちゃんぽん、出島伝来の伝統卓袱料理、とろける長崎和牛。長崎港を望む丘の上と歴史香る南山手の名宿ステイをお届けします。

@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            長野・中央アルプス千畳敷カールの黄金紅葉＆早太郎温泉！美肌名湯と信州アルプス牛・ソースかつ丼
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">長野・中央アルプス千畳敷カールの黄金紅葉＆早太郎温泉！美肌名湯と信州アルプス牛・ソースかつ丼</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の長野・駒ヶ根＆千畳敷カール特集！標高2,612mの雲上に広がる千畳敷カールのナナカマドやダケカンバの黄金紅葉ロープウェイ、開湯以来の美肌名湯「早太郎温泉」、信州アルプス牛会席や名物駒ヶ根ソースかつ丼をふるさと納税トラベルで味わう山岳秋旅。
           </p>

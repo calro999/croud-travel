@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/ito-onsen-solo-retreat-ocean-seafood-stay/" },
-  title: '【伊東温泉ひとり旅・海望おこもり】相模灘オーシャンビュー・金目鯛会席・7本の自家源泉！東京から特急で叶う極上湯治リトリート 厳選3選',
+  title: '伊東温泉ひとり旅・海望おこもり：相模灘オーシャンビュー・金目鯛会席・7本の自家源泉！東京から特急で叶う極上湯治リトリート 厳選3選',
   description: '東京駅から特急踊り子で直通約1時間40分！高台から相模湾の青い海を望む展望露天風呂が魅力の「伊東ホテルジュラク」、数寄屋造りの静謐な空間で本格部屋食を堪能できる名門「青山やまと」、豊富な自家源泉とバイキングが人気の「ホテルラヴィエ川良」を徹底比較。',
   keywords: '伊東温泉 一人旅 旅館,伊東ホテルジュラク 宿泊,伊東温泉 青山やまと 一人,ホテルラヴィエ川良,静岡 温泉 おこもり',
   openGraph: {
-    title: '【伊東温泉ひとり旅・海望おこもり】相模灘オーシャンビュー・金目鯛会席・7本の自家源泉！東京から特急で叶う極上湯治リトリート 厳選3選',
+    title: '伊東温泉ひとり旅・海望おこもり：相模灘オーシャンビュー・金目鯛会席・7本の自家源泉！東京から特急で叶う極上湯治リトリート 厳選3選',
     description: '東京駅から特急踊り子で直通約1時間40分！高台から相模湾の青い海を望む展望露天風呂が魅力の「伊東ホテルジュラク」、数寄屋造りの静謐な空間で本格部屋食を堪能できる名門「青山やまと」、豊富な自家源泉とバイキングが人気の「ホテルラヴィエ川良」を徹底比較。',
     url: 'https://croud-travel.pages.dev/ito-onsen-solo-retreat-ocean-seafood-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【伊東温泉ひとり旅・海望おこもり】相模灘オーシャンビュー・金目鯛会席・7本の自家源泉！東京から特急で叶う極上湯治リトリート 厳選3選',
+    headline: '伊東温泉ひとり旅・海望おこもり：相模灘オーシャンビュー・金目鯛会席・7本の自家源泉！東京から特急で叶う極上湯治リトリート 厳選3選',
     description: '東京駅から特急踊り子で直通約1時間40分！高台から相模湾の青い海を望む展望露天風呂が魅力の「伊東ホテルジュラク」、数寄屋造りの静謐な空間で本格部屋食を堪能できる名門「青山やまと」、豊富な自家源泉とバイキングが人気の「ホテルラヴィエ川良」を徹底比較。',
     author: {
       '@type': 'Organization',
@@ -73,9 +73,7 @@ export default function ArticlePage() {
         <div className="inline-block bg-amber-700 text-white text-xs font-semibold px-3 py-1 rounded-full mb-3 tracking-wider">
           ひとり旅・出張・サウナ＆名湯特集
         </div>
-        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">
-          【伊東温泉ひとり旅・海望おこもり】相模灘オーシャンビュー・金目鯛会席・7本の自家源泉！東京から特急で叶う極上湯治リトリート 厳選3選
-        </h1>
+        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">「伊東温泉ひとり旅・海望おこもり」相模灘オーシャンビュー・金目鯛会席・7本の自家源泉！東京から特急で叶う極上湯治リトリート 厳選3選</h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.12 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>

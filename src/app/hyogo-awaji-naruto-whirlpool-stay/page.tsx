@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hyogo-awaji-naruto-whirlpool-stay/" },
-  title: "【兵庫・淡路島＆鳴門海峡】うずしおクルーズ・淡路牛＆玉ねぎ・オーシャンビュー宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "兵庫・淡路島＆鳴門海峡：うずしおクルーズ・淡路牛＆玉ねぎ・オーシャンビュー宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "関西屈指のリゾートアイランド・兵庫淡路島エリア完全特化！世界最大級の「鳴門の渦潮」クルーズ、明石海峡大橋、ニジゲンノモリ、淡路島玉ねぎ＆淡路牛・由良ウニ・3年とらふぐを味わう絶景温泉ホテルを徹底解説。",
   keywords: ["兵庫", "淡路島", "鳴門海峡", "うずしおクルーズ", "淡路牛", "玉ねぎ", "オーシャンビュー宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             AWAJI ISLAND RESORT GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【兵庫・淡路島＆鳴門海峡】うずしおクルーズ・淡路牛＆玉ねぎ・オーシャンビュー宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「兵庫・淡路島＆鳴門海峡」うずしおクルーズ・淡路牛＆玉ねぎ・オーシャンビュー宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             明石海峡大橋を渡れば広がる青い海と緑の島「淡路島」。鳴門海峡で激しく渦巻く世界最大級の「うずしお」。波打ち際のインフィニティ温泉露天風呂から海を眺め、甘み豊かな淡路島玉ねぎと淡路牛ステーキに舌鼓を打つリゾートへ。
           </p>

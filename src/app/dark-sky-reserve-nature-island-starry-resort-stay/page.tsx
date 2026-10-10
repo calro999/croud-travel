@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/dark-sky-reserve-nature-island-starry-resort-stay/" },
-  title: "【国際星空保護区＆離島ネイチャーステイ】石垣島・西表島・神津島 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "国際星空保護区＆離島ネイチャーステイ：石垣島・西表島・神津島 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "世界が認めた奇跡の暗闇と星空！国際ダークスカイ協会認定「星空保護区」＆離島リゾート宿完全特化！沖縄「西表石垣国立公園（全天88星座中84星座）。」、東京「神津島」、岡山「美星町」、南十字星観察・ビーチ星空ナイトツアーを徹底解説。",
   keywords: ["国際星空保護区", "離島ネイチャーステイ", "石垣島", "西表島", "神津島", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function StargazingHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-gradient-to-r from-cyan-400 to-indigo-300 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block shadow">
             DARK SKY RESERVE & ISLAND GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【国際星空保護区＆離島ネイチャーステイ】石垣島・西表島・神津島 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「国際星空保護区＆離島ネイチャーステイ」石垣島・西表島・神津島 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-indigo-100/90 leading-relaxed">
             街明かりの影響を極限まで抑えた、世界基準の美しい夜空「国際星空保護区（ダークスカイ・プレイス）。」。全天88星座のうち84星座が見られる八重山諸島（石垣島・西表島）や、東京都心から行ける神津島。波の音をBGMにビーチで眺める本物の天の川と南十字星の旅へ。
           </p>

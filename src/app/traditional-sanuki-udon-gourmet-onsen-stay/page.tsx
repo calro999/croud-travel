@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】本場讃岐うどん巡礼！こんぴら温泉郷＆香川グルメを堪能する極上名宿5選 | 日本全国・旅宿クラウド',
+  title: '2026年：本場讃岐うどん巡礼！こんぴら温泉郷＆香川グルメを堪能する極上名宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！金刀比羅宮の参拝と名店うどん巡り！讃岐コーチンや讃岐牛の会席、こんぴら温泉郷の美肌名湯で癒やされる香川のおすすめ旅館5選。',
   keywords: ["2026年", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: '【2026年】本場讃岐うどん巡礼！こんぴら温泉郷＆香川グルメを堪能する極上名宿5選',
+    title: '2026年：本場讃岐うどん巡礼！こんぴら温泉郷＆香川グルメを堪能する極上名宿5選',
     description: '2026年最新！金刀比羅宮の参拝と名店うどん巡り！讃岐コーチンや讃岐牛の会席、こんぴら温泉郷の美肌名湯で癒やされる香川のおすすめ旅館5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/traditional-sanuki-udon-gourmet-onsen-stay',
@@ -168,9 +168,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> 讃岐うどん巡り×こんぴら名湯
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】本場讃岐うどん巡礼！こんぴら温泉郷＆香川グルメを堪能する極上名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」本場讃岐うどん巡礼！こんぴら温泉郷＆香川グルメを堪能する極上名宿5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             コシのある打ちたて讃岐うどんの名店巡りと、金刀比羅宮の石段参拝。香川の旅の醍醐味を存分に満喫した後は、歴史ある「こんぴら温泉郷」のやわらかな湯と、讃岐牛や瀬戸内の旬魚を味わう贅沢な滞在をお届けします。
           </p>

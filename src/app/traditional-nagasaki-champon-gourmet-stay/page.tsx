@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】長崎名物・海鮮ちゃんぽん＆卓袱料理！雲仙地獄・小浜温泉の絶景名湯宿5選 | 日本全国・旅宿クラウド',
+  title: '2026年：長崎名物・海鮮ちゃんぽん＆卓袱料理！雲仙地獄・小浜温泉の絶景名湯宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！新鮮魚介と濃厚スープの長崎特製ちゃんぽん＆伝統卓袱料理！もくもくと立ち込める雲仙地獄の硫黄泉や橘湾の夕日露天が自慢の名宿5選。',
   keywords: ["2026年", "長崎名物", "海鮮ちゃんぽん", "卓袱料理！雲仙地獄", "小浜温泉の絶景名湯宿5選", "日本全国", "旅宿クラウド"],
   openGraph: {
-    title: '【2026年】長崎名物・海鮮ちゃんぽん＆卓袱料理！雲仙地獄・小浜温泉の絶景名湯宿5選',
+    title: '2026年：長崎名物・海鮮ちゃんぽん＆卓袱料理！雲仙地獄・小浜温泉の絶景名湯宿5選',
     description: '2026年最新！新鮮魚介と濃厚スープの長崎特製ちゃんぽん＆伝統卓袱料理！もくもくと立ち込める雲仙地獄の硫黄泉や橘湾の夕日露天が自慢の名宿5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/traditional-nagasaki-champon-gourmet-stay',
@@ -193,9 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> 長崎卓袱料理×雲仙地獄白濁名湯
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】長崎名物・海鮮ちゃんぽん＆卓袱料理！雲仙地獄・小浜温泉の絶景名湯宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」長崎名物・海鮮ちゃんぽん＆卓袱料理！雲仙地獄・小浜温泉の絶景名湯宿5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             長崎の豊かな海と山が育んだ食文化の粋「卓袱（しっぽく）料理」と、濃厚なコクの海鮮ちゃんぽん。もくもくと白煙が立ち上る雲仙地獄の濃厚な白濁硫黄泉や、日本一の熱量を誇る小浜温泉の夕日露天で癒やされる長崎の旅。
           </p>

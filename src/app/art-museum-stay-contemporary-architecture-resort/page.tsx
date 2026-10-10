@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '【2026年】名建築と現代アートに泊まる！美術館直結・デザイナーズ温泉ホテル5選 ｜ 日本全国・旅宿クラウド',
+  title: '2026年：名建築と現代アートに泊まる！美術館直結・デザイナーズ温泉ホテル5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！直島・箱根・十和田など、世界的建築家が手がけた名建築とアート作品に囲まれ、上質な温泉と美食を楽しむ大人のアートステイ5選。',
   keywords: ["2026年", "デザイナーズ温泉ホテル5選", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/art-museum-stay-contemporary-architecture-resort/",
   },
   openGraph: {
-    title: '【2026年】名建築と現代アートに泊まる！美術館直結・デザイナーズ温泉ホテル5選',
+    title: '2026年：名建築と現代アートに泊まる！美術館直結・デザイナーズ温泉ホテル5選',
     description: '2026年最新！直島・箱根・十和田など、世界的建築家が手がけた名建築とアート作品に囲まれ、上質な温泉と美食を楽しむ大人のアートステイ5選。',
     url: 'https://croud-travel.pages.dev/art-museum-stay-contemporary-architecture-resort',
     siteName: '日本全国・旅宿クラウド',
@@ -144,9 +144,7 @@ export default function Page() {
             <span>•</span>
             <span>名建築×現代アートステイ</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            【2026年】名建築と現代アートに泊まる！美術館直結・デザイナーズ温泉ホテル5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」名建築と現代アートに泊まる！美術館直結・デザイナーズ温泉ホテル5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             空間そのものがひとつの美術作品。名だたる建築家が設計した洗練のモダンデザイン、館内の随所に展示された現代アート作品、そして感性を研ぎ澄ます静寂の温泉空間。アート好き・建築好きの知的好奇心を刺激する、特別なデザイナーズステイをご案内します。
           </p>

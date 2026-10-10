@@ -24,7 +24,7 @@ interface Post {
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://croud-travel.pages.dev";
 
 export const metadata: Metadata = {
-  title: "【金沢旅行 完全計画ガイド】1泊2日・2泊3日モデルコース＆観光・海鮮グルメ・車なし徒歩案内・おすすめホテル ｜ 旅宿クラウド",
+  title: "金沢旅行 完全計画ガイド：1泊2日・2泊3日モデルコース＆観光・海鮮グルメ・車なし徒歩案内・おすすめホテル ｜ 旅宿クラウド",
   description:
     "金沢旅行の計画をステップバイステップで完全サポート！金沢の魅力、1泊2日/2泊3日モデルコース、車なし徒歩観光、兼六園（所要時間）・近江町市場（食べ歩き）・ひがし茶屋街・21世紀美術館、のどぐろ＆寿司ランチ、雨の日・雪の観光法から楽天トラベルで予約できるおすすめホテル・温泉宿まで網羅。",
   keywords: ["金沢旅行", "完全計画ガイド", "1泊2日", "2泊3日モデルコース", "観光", "海鮮グルメ", "車なし徒歩案内"],
@@ -156,12 +156,7 @@ export default function KanazawaGuidePage() {
           </span>
         </div>
 
-        <h1 className="text-3xl md:text-5xl font-black font-journal-serif leading-tight text-white">
-          【金沢旅行 完全計画ガイド】<br />
-          <span className="bg-gradient-to-r from-amber-200 via-amber-300 to-teal-100 bg-clip-text text-transparent">
-            モデルコース・観光スポット・海鮮グルメ・宿選びから予約まで
-          </span>
-        </h1>
+        <h1 className="text-3xl md:text-5xl font-black font-journal-serif leading-tight text-white">「金沢旅行 完全計画ガイド」<br /> <span className="bg-gradient-to-r from-amber-200 via-amber-300 to-teal-100 bg-clip-text text-transparent"> モデルコース・観光スポット・海鮮グルメ・宿選びから予約まで </span></h1>
 
         <p className="text-emerald-100/90 text-xs md:text-sm max-w-3xl leading-relaxed font-medium">
           加賀百万石の城下町・金沢。「金沢には何がある？」「兼六園の所要時間は？」「車なしでも楽しめる？」「雨や雪の日の散策は？」といった疑問をすべて解決。金沢旅行の計画を7つのステップでスムーズにサポートします。

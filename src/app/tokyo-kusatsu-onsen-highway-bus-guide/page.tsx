@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tokyo-kusatsu-onsen-highway-bus-guide/" },
-  title: "【東京・新宿から草津温泉 直行バス完全ガイド】電車とどっちが安い？料金・時間比較＆湯畑1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+  title: "東京・新宿から草津温泉 直行バス厳選ガイド：電車とどっちが安い？料金・時間比較＆湯畑1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "東京・新宿から草津温泉へ直行する高速バス「ゆめぐり号」徹底解説！特急草津・新幹線乗り換えとの料金・所要時間比較。湯畑徒歩5分直着のメリット、湯もみショー、西の河原露天風呂、湯畑周辺の源泉かけ流し名旅館を満喫する1泊2日モデルコース。",
   keywords: ["東京", "新宿から草津温泉", "直行バス", "電車とどっちが安い？料金", "時間比較", "湯畑1泊2日モデルコース", "温泉宿"],
 };
@@ -157,9 +157,7 @@ export default function HighwayBusArticlePage() {
               交通手段の徹底比較＆最適ルート
             </span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【東京・新宿から草津温泉 直行バス完全ガイド】電車とどっちが安い？料金・時間比較＆湯畑1泊2日モデルコース
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">「東京・新宿から草津温泉 直行バス厳選ガイド」電車とどっちが安い？料金・時間比較＆湯畑1泊2日モデルコース</h1>
           <p className="text-xs md:text-sm text-cyan-100/90 leading-relaxed font-medium">
             天下の名湯・草津温泉。電車だと「長野原草津口駅」から路線バスへの乗り換えが必要ですが、高速バスならバスタ新宿や東京駅から「草津温泉バスターミナル（湯畑徒歩5分）」まで完全直行！片道約3,000円台〜で行ける最高の名湯旅。
           </p>

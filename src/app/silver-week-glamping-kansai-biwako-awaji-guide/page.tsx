@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-kansai-biwako-awaji-guide/" },
-  title: "【関西シルバーウィーク グランピング】琵琶湖レイクビュー＆淡路島オーシャンビュー極上ドームヴィラ ｜ 日本全国・旅宿クラウド",
+  title: "関西シルバーウィーク グランピング：琵琶湖レイクビュー＆淡路島オーシャンビュー極上ドームヴィラ ｜ 日本全国・旅宿クラウド",
   description:
     "関西の秋連休を彩る水辺のグランピングリゾート！琵琶湖畔のプライベートビーチ付きドーム、淡路島の夕日を望むインフィニティプール付きヴィラ、淡路牛・近江牛のプレミアムBBQプラン徹底比較。",
   keywords: ["関西シルバーウィーク", "グランピング", "琵琶湖レイクビュー", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
@@ -114,14 +114,7 @@ export default function SilverWeekGlampingKansaiBiwakoAwajiPage() {
             <span className="w-2 h-2 rounded-full bg-cyan-400 animate-pulse" />
             関西屈指の水辺リゾート特集・2026秋
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【関西シルバーウィーク グランピング】<br />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-300 via-teal-200 to-sky-200">
-              琵琶湖レイクビュー＆淡路島オーシャンビュー
-            </span>
-            <br />
-            極上ドームヴィラ＆ブランド牛BBQステイ
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「関西シルバーウィーク グランピング」<br /> <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-300 via-teal-200 to-sky-200"> 琵琶湖レイクビュー＆淡路島オーシャンビュー </span> <br /> 極上ドームヴィラ＆ブランド牛BBQステイ</h1>
           <p className="text-slate-300 text-base sm:text-lg max-w-3xl leading-relaxed mb-8">
             関西近郊からのドライブに最適な二大人気エリア「滋賀・琵琶湖」と「兵庫・淡路島」。
             波音を聞きながら過ごすプライベートビーチ直結ドームや、夕陽が海を茜色に染めるインフィニティテラス。

@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】天然精油の香りで深呼吸。ヒノキ・スギ精油アロマスパスパ＆森林浴プライベートヴィラ5選 | 日本全国・旅宿クラウド',
+  title: '2026年：天然精油の香りで深呼吸。ヒノキ・スギ精油アロマスパスパ＆森林浴プライベートヴィラ5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！森の香りに包まれてデトックス！天然ヒノキやスギのオーガニック精油トリートメント、大自然に囲まれたプライベートヴィラと温泉スパ5選。',
   keywords: ["2026年", "天然精油の香りで深呼吸。ヒノキ", "スギ精油アロマスパスパ", "森林浴プライベートヴィラ5選", "日本全国", "旅宿クラウド", "温泉宿"],
   openGraph: {
-    title: '【2026年】天然精油の香りで深呼吸。ヒノキ・スギ精油アロマスパスパ＆森林浴プライベートヴィラ5選',
+    title: '2026年：天然精油の香りで深呼吸。ヒノキ・スギ精油アロマスパスパ＆森林浴プライベートヴィラ5選',
     description: '2026年最新！森の香りに包まれてデトックス！天然ヒノキやスギのオーガニック精油トリートメント、大自然に囲まれたプライベートヴィラと温泉スパ5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/organic-forest-aromatherapy-villa-stay',
@@ -193,9 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> 森のオーガニックアロマ×森林浴ヴィラ
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】天然精油の香りで深呼吸。ヒノキ・スギ精油アロマスパスパ＆森林浴プライベートヴィラ5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」天然精油の香りで深呼吸。ヒノキ・スギ精油アロマスパスパ＆森林浴プライベートヴィラ5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             フィトンチッドあふれる深い森の中に佇むプライベートヴィラ。地元産ヒノキやクロモジから抽出した天然精油を使った極上アロママッサージと、森林を見渡すウッドデッキ露天風呂で心と体を芯から解きほぐすウェルネスステイ。
           </p>

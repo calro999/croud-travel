@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '重要伝統的建造物群保存地区（重伝建）の歴史町家宿×ふるさと納税完全ガイド【2026年最新】倉敷・萩・橿原今井町',
+  title: '重要伝統的建造物群保存地区（重伝建）の歴史町家宿×ふるさと納税厳選ガイド倉敷・萩・橿原今井町',
   description: '時を越えて受け継がれる日本の町並み遺産「重要伝統的建造物群保存地区（重伝建）」。白壁土蔵の倉敷美観地区、武家屋敷連なる萩城下町、五百棟の伝統町家残る大和今井町。歴史的建築を改装した極上宿を楽天ふるさと納税完全活用。',
   keywords: ["2026年最新", "倉敷", "橿原今井町", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-preservation-districts-heritage-stay/",
   },
   openGraph: {
-    title: '重要伝統的建造物群保存地区（重伝建）の歴史町家宿×ふるさと納税完全ガイド【2026年最新】倉敷・萩・橿原今井町',
+    title: '重要伝統的建造物群保存地区（重伝建）の歴史町家宿×ふるさと納税厳選ガイド倉敷・萩・橿原今井町',
     description: '時を越えて受け継がれる日本の町並み遺産「重要伝統的建造物群保存地区（重伝建）」。白壁土蔵の倉敷美観地区、武家屋敷連なる萩城下町、五百棟の伝統町家残る大和今井町。歴史的建築を改装した極上宿を楽天ふるさと納税完全活用。',
     url: 'https://croud-travel.pages.dev/furusato-tax-preservation-districts-heritage-stay',
     siteName: '旅宿クラウド',
@@ -108,9 +108,7 @@ export default function FurusatoUpgradedPage() {
             <span>✨</span>
             <span>重要伝統的建造物群・歴史町家特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            重要伝統的建造物群保存地区（重伝建）の歴史町家宿×ふるさと納税完全ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">重要伝統的建造物群保存地区（重伝建）の歴史町家宿×ふるさと納税厳選ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             江戸・明治の風情を今に留め、国の重要伝統的建造物群保存地区に選定される美しい町並み。倉敷川沿いの白壁土蔵が美しい「倉敷美観地区」、維新の志士たちが駆け抜けた武家屋敷が残る「萩城下町」、そして中世の自治都市の面影を残す「橿原今井町」。夕暮れのガス灯や格子戸から漏れる灯りに包まれ、歴史ある町家や風情ある湯宿で過ごす大人の休日。楽天ふるさと納税の宿泊割引クーポンを活用して、実質2,000円の自己負担で叶える歴史浪漫ステイへご案内します。
           </p>

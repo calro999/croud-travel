@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月登別温泉】圧倒的湯量と9つの泉質！名宿5選',
+  title: '登別温泉で過ごす冬の旅（11・12月）！圧倒的湯量と9つの泉質！名宿5選',
   description: '11月下旬の初雪から12月の白銀世界へと移ろう北海道・登別温泉。荒涼とした岩肌からもうもうと白煙を上げる雪化粧の地獄谷。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '登別温泉 宿泊 11月 12月, 登別 地獄谷 雪景色, 登別温泉 第一滝本館, 登別 毛ガニ 白老牛, 登別温泉 おすすめ 宿, 登別 泉質 露天風呂, 北海道 冬 温泉 モデルコース',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay/",
   },
   openGraph: {
-    title: '【11・12月登別温泉】圧倒的湯量と9つの泉質！名宿5選',
+    title: '登別温泉で過ごす冬の旅（11・12月）！圧倒的湯量と9つの泉質！名宿5選',
     description: '11月下旬の初雪から12月の白銀世界へと移ろう北海道・登別温泉。荒涼とした岩肌からもうもうと白煙を上げる雪化粧の地獄谷。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月登別温泉の白銀地獄谷と極上名湯】圧倒的湯量と9つの泉質・冬の北海道毛ガニ＆白老牛を堪能する名宿5選",
+    title: "登別温泉の白銀地獄谷と極上名湯で過ごす冬の旅（11・12月）！圧倒的湯量と9つの泉質・冬の北海道毛ガニ＆白老牛を堪能する名宿5選",
     description: "11月下旬の初雪から12月の白銀世界へと移ろう北海道・登別温泉。荒涼とした岩肌からもうもうと白煙を上げる雪化粧の地獄谷、世界でも稀な9種類もの多彩な泉質を誇る名湯巡り。冬に身がぎっしり詰まる北海道産毛ガニと地元胆振の最高峰ブランド白老牛ステーキに舌鼓を打つ冬の極上北国旅ガイド。",
   }
 };
@@ -266,10 +266,7 @@ export default function NoboribetsuWinterPage() {
             <Snowflake className="w-4 h-4 text-cyan-300" />
             <span>11月・12月限定 北海道名湯・白銀地獄谷と極上名湯特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月登別温泉の白銀地獄谷と極上名湯】<br className="hidden sm:inline" />
-            圧倒的湯量と9つの泉質・冬の北海道毛ガニ＆白老牛を堪能する名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">登別温泉の白銀地獄谷と極上名湯で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 圧倒的湯量と9つの泉質・冬の北海道毛ガニ＆白老牛を堪能する名宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             初雪に染まる北の大地。荒涼とした地獄谷の岩肌から天を突くように立ち昇る圧倒的な白煙。世界でも類を見ない9種類の泉質を誇る名湯に身を沈め、身入りの良い冬の毛ガニととろける極上白老牛に舌鼓を打つ、感動の冬旅へ。
           </p>

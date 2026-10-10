@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-hotspring-onsen-spa-guide/" },
-  title: "【源泉かけ流し温泉付きグランピング】キャンプ飯×名湯の極み！名門温泉地直結の露天風呂リゾート ｜ 日本全国・旅宿クラウド",
+  title: "源泉かけ流し温泉付きグランピング：キャンプ飯×名湯の極み！名門温泉地直結の露天風呂リゾート ｜ 日本全国・旅宿クラウド",
   description:
     "簡易シャワーのグランピングとは別次元！敷地内に本格的な自家源泉を引いた温泉宿直営グランピング特集。客室専用の半露天風呂、美肌の湯、湯上りのビールと焚き火を同時に満喫する大人ステイ。",
   keywords: ["温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
@@ -167,9 +167,7 @@ export default function SilverWeekGlampingHotspringOnsenSpaPage() {
             </span>
           </div>
 
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【源泉かけ流し温泉付きグランピング】キャンプ飯×名湯の極み！名門温泉地直結の露天風呂リゾート
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「源泉かけ流し温泉付きグランピング」キャンプ飯×名湯の極み！名門温泉地直結の露天風呂リゾート</h1>
 
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed font-medium">
             「アウトドアの開放感は好きだけど、共用シャワーだけでは物足りない。」「本物の名湯にゆっくり浸かって日頃の疲れを癒やしたい。」。そんな大人に選ばれているのが、由布院や霧島・こしかの温泉など名門温泉地に佇む自家源泉直結の温泉グランピング。客室専用の源泉半露天風呂、美肌の湯、湯上がりのクラフトビールと炭火肉料理を組み合わせた、最上級の秋旅をお届けします。

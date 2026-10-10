@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【松江駅前】国宝松江城・宍道湖の夕日＆名物出雲そば・しじみ汁！5,000円台〜泊まれる格安ホテル5選',
+  title: '松江駅前：国宝松江城・宍道湖の夕日＆名物出雲そば・しじみ汁！5,000円台〜泊まれる格安ホテル5選',
   description: '千鳥城と親しまれる国宝・松江城の秋の紅葉と日本の夕日百選・宍道湖サンセット！挽きぐるみの香り高い割子そばや濃厚しじみ汁。JR山陰本線・松江駅周辺で1泊5,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>国宝松江城の錦秋＆宍道湖夕日・名物出雲割子そば</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【松江駅前】国宝松江城紅葉＆宍道湖の夕日！<br className="hidden sm:inline" />5,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「松江駅前」国宝松江城紅葉＆宍道湖の夕日！<br className="hidden sm:inline" />5,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             現存12天守の一つ、優美な千鳥破風が輝く国宝「松江城」。秋にはお堀端を取り囲む木々が鮮やかに色づき、堀川めぐりの遊覧船が水上を往き交います。赤く染まる宍道湖の感動的な日没、三段の漆器で味わう「出雲割子そば」、大粒の宍道湖産「しじみ汁」に舌鼓！松江駅周辺で5,000円台〜泊まれる優良ホテルを厳選。
           </p>

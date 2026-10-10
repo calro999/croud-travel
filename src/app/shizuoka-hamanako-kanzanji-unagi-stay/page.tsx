@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/shizuoka-hamanako-kanzanji-unagi-stay/" },
-  title: "【静岡・浜名湖＆舘山寺温泉】湖畔パノラマ・ロープウェイ＆浜名湖うなぎ宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "静岡・浜名湖＆舘山寺温泉：湖畔パノラマ・ロープウェイ＆浜名湖うなぎ宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "汽水湖の恵みと湖上パノラマ・静岡浜名湖＆舘山寺温泉エリア完全特化！日本唯一の湖上かんざんじロープウェイ、浜名湖遊覧船、はままつフラワーパーク、名物「浜名湖うなぎ蒲焼き・ひつまぶし宿」を徹底解説。",
   keywords: ["静岡", "浜名湖", "舘山寺温泉", "湖畔パノラマ", "ロープウェイ", "浜名湖うなぎ宿", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             HAMANAKO & KANZANJI GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【静岡・浜名湖＆舘山寺温泉】湖畔パノラマ・ロープウェイ＆浜名湖うなぎ宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「静岡・浜名湖＆舘山寺温泉」湖畔パノラマ・ロープウェイ＆浜名湖うなぎ宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             海と淡水が交わる豊かな汽水湖「浜名湖」と、湖畔に湧く名湯「舘山寺（かんざんじ）温泉」。日本唯一の湖上ロープウェイから見下ろす360度大パノラマ。香ばしい煙を上げる本場の「浜名湖うなぎ」と浜松餃子を味わう旅。
           </p>

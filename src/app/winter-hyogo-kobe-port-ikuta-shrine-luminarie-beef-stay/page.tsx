@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月神戸】生田神社新春開運初詣！名宿5選',
+  title: '11・12・1月神戸：生田神社新春開運初詣！名宿5選',
   description: '冬の港町・神戸は、澄み切った冷涼な空気が六甲山と神戸港の「1000万ドルの夜景」を最も眩しく煌めかせ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '神戸 ホテル, 生田神社 初詣 ホテル, 神戸ルミナリエ, メリケンパーク 夜景, 神戸みなと温泉 蓮, ホテルオークラ神戸, ホテルラスイート神戸, 神戸牛 ステーキ, 11月 12月 1月 神戸 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hyogo-kobe-port-ikuta-shrine-luminarie-beef-stay/"
   },
   openGraph: {
-    title: '【11・12・1月神戸】生田神社新春開運初詣！名宿5選',
+    title: '11・12・1月神戸：生田神社新春開運初詣！名宿5選',
     description: '冬の港町・神戸は、澄み切った冷涼な空気が六甲山と神戸港の「1000万ドルの夜景」を最も眩しく煌めかせ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-hyogo-kobe-port-ikuta-shrine-luminarie-beef-stay',
     type: 'article',
@@ -246,10 +246,7 @@ export default function HyogoKobePortWinterPage() {
             <span>11月・12月・1月冬の兵庫特選ガイド｜神戸市中央区港町・三宮・元町</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            生田神社新春開運初詣＆神戸ルミナリエ！<br className="hidden sm:inline" />
-            メリケンパーク冬夜景と極上神戸牛に酔いしれる名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">生田神社新春開運初詣＆神戸ルミナリエ！<br className="hidden sm:inline" /> メリケンパーク冬夜景と極上神戸牛に酔いしれる名宿5選</h1>
 
           <p className="max-w-4xl text-sm sm:text-base md:text-lg text-slate-300 leading-relaxed font-normal">
             澄んだ海風と六甲山の稜線が際立つ、港町・神戸の年間最高峰のシーズン。1800年の歴史を誇る「生田神社」の新春縁結び・開運厄除け初詣、冬の街を優美な光で包み込む「神戸ルミナリエ」、ハーバーランドやメリケンパークの1000万ドルの冬夜景。熱々の南京町点心や本場神戸牛ステーキを味わい、海を望む極上ホテルと天然温泉で寛ぐ優雅な冬旅へ。

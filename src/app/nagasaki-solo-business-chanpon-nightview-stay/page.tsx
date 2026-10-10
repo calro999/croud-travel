@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagasaki-solo-business-chanpon-nightview-stay/" },
-  title: '【長崎出張＆夜景ひとり旅】西九州新幹線直結・天然温泉サウナ・稲佐山ビュー！本場ちゃんぽんを味わう極上宿 厳選3選',
+  title: '長崎出張＆夜景ひとり旅：西九州新幹線直結・天然温泉サウナ・稲佐山ビュー！本場ちゃんぽんを味わう極上宿 厳選3選',
   description: '西九州新幹線かもめ開業で進化する港町・長崎！「JR長崎駅西口直結のワールドクラスホテル。」の「ヒルトン長崎」、駅東口徒歩すぐで天然温泉大浴場と夜鳴きそば完備の「ドーミーインPREMIUM長崎駅前」、駅前広場正面の格式ある老舗「ホテルニュー長崎」を徹底特集。',
   keywords: '長崎 出張 ホテル おすすめ,長崎 一人旅 ホテル,ヒルトン長崎 宿泊,ドーミーイン長崎駅前 温泉,長崎 ちゃんぽん ホテル',
   openGraph: {
-    title: '【長崎出張＆夜景ひとり旅】西九州新幹線直結・天然温泉サウナ・稲佐山ビュー！本場ちゃんぽんを味わう極上宿 厳選3選',
+    title: '長崎出張＆夜景ひとり旅：西九州新幹線直結・天然温泉サウナ・稲佐山ビュー！本場ちゃんぽんを味わう極上宿 厳選3選',
     description: '西九州新幹線かもめ開業で進化する港町・長崎！「JR長崎駅西口直結のワールドクラスホテル。」の「ヒルトン長崎」、駅東口徒歩すぐで天然温泉大浴場と夜鳴きそば完備の「ドーミーインPREMIUM長崎駅前」、駅前広場正面の格式ある老舗「ホテルニュー長崎」を徹底特集。',
     url: 'https://croud-travel.pages.dev/nagasaki-solo-business-chanpon-nightview-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【長崎出張＆夜景ひとり旅】西九州新幹線直結・天然温泉サウナ・稲佐山ビュー！本場ちゃんぽんを味わう極上宿 厳選3選',
+    headline: '長崎出張＆夜景ひとり旅：西九州新幹線直結・天然温泉サウナ・稲佐山ビュー！本場ちゃんぽんを味わう極上宿 厳選3選',
     description: '西九州新幹線かもめ開業で進化する港町・長崎！「JR長崎駅西口直結のワールドクラスホテル。」の「ヒルトン長崎」、駅東口徒歩すぐで天然温泉大浴場と夜鳴きそば完備の「ドーミーインPREMIUM長崎駅前」、駅前広場正面の格式ある老舗「ホテルニュー長崎」を徹底特集。',
     author: {
       '@type': 'Organization',
@@ -74,9 +74,7 @@ export default function ArticlePage() {
           <span>✨</span>
           <span>長崎・出張＆世界新三大夜景・ちゃんぽん特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【長崎出張＆夜景ひとり旅】西九州新幹線直結・天然温泉サウナ・稲佐山ビュー！本場ちゃんぽんを味わう極上宿 厳選3選
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">「長崎出張＆夜景ひとり旅」西九州新幹線直結・天然温泉サウナ・稲佐山ビュー！本場ちゃんぽんを味わう極上宿 厳選3選</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
           西九州新幹線かもめ開業で進化する港町・長崎！「JR長崎駅西口直結のワールドクラスホテル。」の「ヒルトン長崎」、駅東口徒歩すぐで天然温泉大浴場と夜鳴きそば完備の「ドーミーインPREMIUM長崎駅前」、駅前広場正面の格式ある老舗「ホテルニュー長崎」を徹底特集。
         </p>

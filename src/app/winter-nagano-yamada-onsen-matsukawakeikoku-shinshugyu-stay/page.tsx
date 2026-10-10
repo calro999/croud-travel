@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月高山村山田温泉】松川渓谷の雪見露天と信州牛！名宿5選',
+  title: '高山村山田温泉で過ごす冬の旅（11・12月）！松川渓谷の雪見露天と信州牛！名宿5選',
   description: '11月から12月にかけて、信州北部に位置する高山村・松川渓谷は、晩秋の彩りから息を呑む白銀の渓谷美へと劇的な移ろいを見せます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '山田温泉 旅館, 松川渓谷 温泉, 心を整える宿 風景館, 平野屋旅館, 山田館, 旅館わらび野, 五色温泉 五色の湯旅館, 信州プレミアム牛, 小布施栗おこわ, 高山村ワイン, 雪見露天風呂, 11月 12月 長野温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagano-yamada-onsen-matsukawakeikoku-shinshugyu-stay/"
   },
   openGraph: {
-    title: '【11・12月高山村山田温泉】松川渓谷の雪見露天と信州牛！名宿5選',
+    title: '高山村山田温泉で過ごす冬の旅（11・12月）！松川渓谷の雪見露天と信州牛！名宿5選',
     description: '11月から12月にかけて、信州北部に位置する高山村・松川渓谷は、晩秋の彩りから息を呑む白銀の渓谷美へと劇的な移ろいを見せます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-nagano-yamada-onsen-matsukawakeikoku-shinshugyu-stay',
     siteName: 'クラドトラベル',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月長野・高山村山田温泉＆松川渓谷】松川渓谷の雪見露天と信州牛・小布施栗おこわと信州高山ワインを味わう名宿5選",
+    title: "長野・高山村山田温泉＆松川渓谷で過ごす冬の旅（11・12月）！松川渓谷の雪見露天と信州牛・小布施栗おこわと信州高山ワインを味わう名宿5選",
     description: "11月から12月にかけて、信州北部に位置する高山村・松川渓谷は、晩秋の彩りから息を呑む白銀の渓谷美へと劇的な移ろいを見せます。開湯200年以上の歴史を刻む山田温泉をはじめ、八つの個性豊かな温泉地が点在する「信州高山温泉郷」は、小林一茶や森鴎外など多くの文人墨客に愛されてきた隠れ里。断崖絶壁にせり出す露天風呂に浸かれば、眼下に轟く松川の渓流と純白の雪をまとった渓谷美が視界いっぱいに広がり、湯けむりの中で身体の深部まで温もりが染み渡ります。近隣の栗の名所・小布施町では、名物のふっくら炊き上げた「小布施栗おこわ」や栗菓子を味わい、夕餉には長野県が誇る最高峰の「信州プレミアム牛肉」の石焼きステーキや信州サーモン、高山村の冷涼な気候が育んだ極上の「信州高山ワイン」とのペアリングを堪能。初冬の信州で静かな湯浴みと美食に満たされる厳選名宿5選を紐解きます。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -43,7 +43,7 @@ export default function NaganoYamadaPage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: "【11・12月長野・高山村山田温泉＆松川渓谷】松川渓谷の雪見露天と信州牛・小布施栗おこわと信州高山ワインを味わう名宿5選",
+    headline: "長野・高山村山田温泉＆松川渓谷で過ごす冬の旅（11・12月）！松川渓谷の雪見露天と信州牛・小布施栗おこわと信州高山ワインを味わう名宿5選",
     description: "11月から12月にかけて、信州北部に位置する高山村・松川渓谷は、晩秋の彩りから息を呑む白銀の渓谷美へと劇的な移ろいを見せます。開湯200年以上の歴史を刻む山田温泉をはじめ、八つの個性豊かな温泉地が点在する「信州高山温泉郷」は、小林一茶や森鴎外など多くの文人墨客に愛されてきた隠れ里。断崖絶壁にせり出す露天風呂に浸かれば、眼下に轟く松川の渓流と純白の雪をまとった渓谷美が視界いっぱいに広がり、湯けむりの中で身体の深部まで温もりが染み渡ります。近隣の栗の名所・小布施町では、名物のふっくら炊き上げた「小布施栗おこわ」や栗菓子を味わい、夕餉には長野県が誇る最高峰の「信州プレミアム牛肉」の石焼きステーキや信州サーモン、高山村の冷涼な気候が育んだ極上の「信州高山ワイン」とのペアリングを堪能。初冬の信州で静かな湯浴みと美食に満たされる厳選名宿5選を紐解きます。",
     image: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
     datePublished: 'T12:00:00+09:00',
@@ -213,10 +213,7 @@ export default function NaganoYamadaPage() {
             <Snowflake className="w-4 h-4 text-amber-200" />
             <span>11・12月 冬の極上秘湯旅特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white leading-tight tracking-tight drop-shadow-md">
-            長野・高山村山田温泉＆松川渓谷<br className="hidden sm:inline" />
-            松川渓谷の雪見露天と信州牛・小布施栗おこわ名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white leading-tight tracking-tight drop-shadow-md">長野・高山村山田温泉＆松川渓谷<br className="hidden sm:inline" /> 松川渓谷の雪見露天と信州牛・小布施栗おこわ名宿5選</h1>
           <p className="text-stone-200 text-sm sm:text-base max-w-3xl leading-relaxed drop-shadow-xs">
             11月から白銀の渓谷美へ。断崖絶壁にせり出す野趣あふれる露天風呂、小林一茶や森鴎外ゆかりの文豪の湯、信州プレミアム牛肉と小布施栗おこわ、信州高山ワインに酔いしれる冬の隠れ里。
           </p>

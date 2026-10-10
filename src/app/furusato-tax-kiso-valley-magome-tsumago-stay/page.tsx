@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            木曽路・馬籠宿と妻籠宿の石畳紅葉！木曽福島温泉の清流露天・信州新そば＆木曽牛を味わう秋の中仙道旅
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">木曽路・馬籠宿と妻籠宿の石畳紅葉！木曽福島温泉の清流露天・信州新そば＆木曽牛を味わう秋の中仙道旅</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             江戸の情緒漂う宿場町を染める錦秋のモミジと、木曽谷の清流露天・名物新そばの口福
           </p>

@@ -5,11 +5,11 @@ import Image from 'next/image';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/yamaguchi-akiyoshidai-karst-cave-stay/" },
-  title: '【山口・秋吉台＆長門湯本】秋芳洞・カルスト台地＆音信川温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+  title: '山口・秋吉台＆長門湯本：秋芳洞・カルスト台地＆音信川温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
   description: '東洋屈指の規模を誇る大鍾乳洞「秋芳洞」、見渡す限りの白い石灰岩が草原に点在する「秋吉台」、エメラルドブルーに輝く奇跡の湧水「別府弁天池」、川床テラスと足湯で再生した名湯「長門湯本温泉」の極上ステイを徹底解説。',
   keywords: ["山口", "秋吉台", "長門湯本", "秋芳洞", "カルスト台地", "音信川温泉宿", "温泉宿"],
   openGraph: {
-    title: '【山口・秋吉台＆長門湯本】秋芳洞・カルスト台地＆音信川温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+    title: '山口・秋吉台＆長門湯本：秋芳洞・カルスト台地＆音信川温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
     description: '東洋屈指の規模を誇る大鍾乳洞「秋芳洞」、見渡す限りの白い石灰岩が草原に点在する「秋吉台」、エメラルドブルーに輝く奇跡の湧水「別府弁天池」、川床テラスと足湯で再生した名湯「長門湯本温泉」の極上ステイを徹底解説。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/yamaguchi-akiyoshidai-karst-cave-stay',
@@ -50,9 +50,7 @@ export default function Page() {
             <span>🗺️</span>
             <span>AKIYOSHIDAI & NAGATO HERITAGE GUIDE</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">
-            【山口・秋吉台＆美祢・長門萩】秋芳洞地底探検・カルスト台地＆長門湯本温泉宿 完全ガイド
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">「山口・秋吉台＆美祢・長門萩」秋芳洞地底探検・カルスト台地＆長門湯本温泉宿 厳選ガイド</h1>
           <p className="max-w-3xl mx-auto text-stone-300 text-sm sm:text-base md:text-lg leading-relaxed mb-8">
             三億年もの気の遠くなるような時間をかけてサンゴ礁から生まれた日本最大級のカルスト台地「秋吉台」。その地下100mに広がる巨大な地底迷宮「特別天然記念物 秋芳洞」。息を呑むほど透き通った名水百選「別府弁天池」のエメラルドブルー。そして清流・音信川（おとずれがわ）沿いに川床や足湯、外湯「恩湯」が灯る風情満点の温泉街「長門湯本温泉」。太古の地球の鼓動と最上の癒やしに出逢う山口ステイへご案内します。
           </p>

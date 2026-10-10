@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月神奈川】城ヶ島30万本の水仙まつりと富士山絶景！名宿5選',
+  title: '11・12・1月神奈川：城ヶ島30万本の水仙まつりと富士山絶景！名宿5選',
   description: '11月から1月、三浦半島最南端の城ヶ島や三浦海岸は、冬の澄み渡る青空の下で相模湾越しに純白の富士山が鮮やかに浮かび上がる絶景の季節を迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '三浦半島 冬 旅行, 城ヶ島 水仙まつり, 三崎まぐろ 宿, マホロバマインズ三浦, ふふ 城ヶ島 海風のしらべ, 三浦半島の旅宿 三崎宿, 鮪のわらやき屋宿, 城ヶ島 港屋, 馬の背洞門 富士山, 三浦大根, みさきまぐろきっぷ, 11月 12月 1月 神奈川旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kanagawa-miura-misaki-maguro-suisen-fuji-stay/"
   },
   openGraph: {
-    title: '【11・12・1月神奈川】城ヶ島30万本の水仙まつりと富士山絶景！名宿5選',
+    title: '11・12・1月神奈川：城ヶ島30万本の水仙まつりと富士山絶景！名宿5選',
     description: '11月から1月、三浦半島最南端の城ヶ島や三浦海岸は、冬の澄み渡る青空の下で相模湾越しに純白の富士山が鮮やかに浮かび上がる絶景の季節を迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-kanagawa-miura-misaki-maguro-suisen-fuji-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月神奈川】冬の三浦半島・城ヶ島30万本の水仙まつりと富士山絶景・名物三崎まぐろ尽くし＆朝獲れ地魚を味わう三浦名宿5選",
+    title: "11・12・1月神奈川：冬の三浦半島・城ヶ島30万本の水仙まつりと富士山絶景・名物三崎まぐろ尽くし＆朝獲れ地魚を味わう三浦名宿5選",
     description: "11月から1月、三浦半島最南端の城ヶ島や三浦海岸は、冬の澄み渡る青空の下で相模湾越しに純白の富士山が鮮やかに浮かび上がる絶景の季節を迎えます。城ヶ島公園では約30万株の八重咲水仙が甘い香りを漂わせる「水仙まつり」が開催され、三崎漁港では脂が乗り切った天然本まぐろや金目鯛、朝獲れの地魚が水揚げされます。地下深くから湧き出す天然温泉や展望風呂で温まり、極上の三崎まぐろ料理と三浦大根を堪能できる厳選名宿5選と冬のドライブモデルコースをご案内します。",
     images: ['https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80']
   }
@@ -42,7 +42,7 @@ export default function KanagawaMiuraMisakiWinterPage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: "【11・12・1月神奈川】冬の三浦半島・城ヶ島30万本の水仙まつりと富士山絶景・名物三崎まぐろ尽くし＆朝獲れ地魚を味わう三浦名宿5選",
+    headline: "11・12・1月神奈川：冬の三浦半島・城ヶ島30万本の水仙まつりと富士山絶景・名物三崎まぐろ尽くし＆朝獲れ地魚を味わう三浦名宿5選",
     description: "11月から1月、三浦半島最南端の城ヶ島や三浦海岸は、冬の澄み渡る青空の下で相模湾越しに純白の富士山が鮮やかに浮かび上がる絶景の季節を迎えます。城ヶ島公園では約30万株の八重咲水仙が甘い香りを漂わせる「水仙まつり」が開催され、三崎漁港では脂が乗り切った天然本まぐろや金目鯛、朝獲れの地魚が水揚げされます。地下深くから湧き出す天然温泉や展望風呂で温まり、極上の三崎まぐろ料理と三浦大根を堪能できる厳選名宿5選と冬のドライブモデルコースをご案内します。",
     image: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80',
     datePublished: '',
@@ -282,9 +282,7 @@ export default function KanagawaMiuraMisakiWinterPage() {
             <Fish className="w-4 h-4 text-sky-300" />
             11月・12月・1月 冬の神奈川・三浦半島＆城ヶ島水仙まつり・極上三崎まぐろ特集
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【11・12・1月神奈川】冬の三浦半島・城ヶ島30万本の水仙まつりと富士山絶景・名物三崎まぐろ尽くし＆朝獲れ地魚を味わう三浦名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「11・12・1月神奈川」冬の三浦半島・城ヶ島30万本の水仙まつりと富士山絶景・名物三崎まぐろ尽くし＆朝獲れ地魚を味わう三浦名宿5選</h1>
           <p className="text-slate-300 text-sm sm:text-base md:text-lg max-w-3xl leading-relaxed">
             冬の澄み渡る蒼穹の下、相模湾越しに純白の富士山が神々しくそびえ立つ三浦半島。城ヶ島公園一面を甘い芳香で包む30万株の「水仙まつり」、雄大な海蝕崖「馬の背洞門」の造形美、そして日本屈指の遠洋漁業基地・三崎港で味わう極上の天然まぐろと旬の三浦大根。冷えた体を温泉で解きほぐし、都心からわずか1時間半で別天地の絶景と美食に出逢える冬の旅へご案内します。
           </p>

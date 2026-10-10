@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-car-free-bus-train-guide/" },
-  title: "【車なし・電車と送迎で行けるグランピング】シルバーウィークに免許なし＆ペーパードライバーでも行ける宿 ｜ 日本全国・旅宿クラウド",
+  title: "車なし・電車と送迎で行けるグランピング：シルバーウィークに免許なし＆ペーパードライバーでも行ける宿 ｜ 日本全国・旅宿クラウド",
   description:
     "レンタカーや運転免許がなくても秋のグランピングへ！主要駅から徒歩圏内、無料シャトル送迎バス付き、高速バス停留所からすぐの好立地グランピング施設厳選。都心から乗り換え少なめの快適アクセス完全解説。",
   keywords: ["車なし", "電車と送迎で行けるグランピング", "シルバーウィークに免許なし", "ペーパードライバーでも行ける宿", "温泉宿", "宿泊予約", "楽天トラベル"],
@@ -162,9 +162,7 @@ export default function SilverWeekGlampingCarFreeBusTrainPage() {
             </span>
           </div>
 
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【車なし・電車と送迎で行けるグランピング】シルバーウィークに免許なし＆ペーパードライバーでも行ける宿
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「車なし・電車と送迎で行けるグランピング」シルバーウィークに免許なし＆ペーパードライバーでも行ける宿</h1>
 
           <p className="text-xs md:text-sm text-teal-100/90 leading-relaxed font-medium">
             運転免許がない学生グループやシニア夫婦、慣れない山道運転を避けたいペーパードライバーでも安心。特急列車や新幹線で最寄駅までゆったり移動し、無料送迎バスや路線バスで直行できる好アクセスのグランピング施設を厳選。連休の大渋滞に巻き込まれず、全員がお酒を楽しめる気軽なアウトドア旅へ出かけましょう。

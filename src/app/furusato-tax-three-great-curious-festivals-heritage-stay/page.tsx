@@ -42,9 +42,7 @@ export default function Page() {
             <span className="inline-block w-2 h-2 rounded-full bg-rose-400 animate-pulse" />
             日本三大奇祭・熱狂文化特集
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">
-            日本三大奇祭＆天下の熱狂カルチャー宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三大奇祭＆天下の熱狂カルチャー宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg md:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed font-normal">
             日本人の情熱が爆発する奇想天外な祭典！長野「諏訪大社御柱祭」巨木が坂を駆け下る木落しと上諏訪温泉ホテル紅や、愛知「国府宮はだか祭」数万の裸男が厄を祓う熱気とお宿和陽館、秋田「男鹿のナマハゲ」ユネスコ無形文化遺産と男鹿温泉セイコーグランドホテル。日本三大奇祭の度肝を抜くエネルギーを楽天ふるさと納税宿泊クーポンでお得に体験する完全ガイド。
           </p>

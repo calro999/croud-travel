@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-unusual-bridges-stay/" },
-  title: '日本三大奇橋＆木造アーチ・断崖渓谷の刎橋と名湯宿×ふるさと納税完全ガイド【2026年最新】錦帯橋・猿橋・日光神橋',
+  title: '日本三大奇橋＆木造アーチ・断崖渓谷の刎橋と名湯宿×ふるさと納税厳選ガイド錦帯橋・猿橋・日光神橋',
   description: '釘を使わない驚異の木造建築美！山口岩国「錦帯橋」五連の木造アーチと宮浜温泉湯の宿宮浜グランドホテル、山梨大月「甲斐の猿橋」桂川渓谷に橋脚なしで架かる刎橋と東横INN富士山大月駅、栃木日光「日光神橋」世界遺産二社一寺の玄関口と名門日光金谷ホテル。日本三大奇橋の歴史ロマンと渓谷美を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大奇橋・木造建築美特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大奇橋＆木造アーチ・断崖渓谷の刎橋と名湯宿×ふるさと納税完全ガイド【2026年最新】錦帯橋・猿橋・日光神橋',
+    title: '日本三大奇橋＆木造アーチ・断崖渓谷の刎橋と名湯宿×ふるさと納税厳選ガイド錦帯橋・猿橋・日光神橋',
     description: '釘を使わない驚異の木造建築美！山口岩国「錦帯橋」五連の木造アーチと宮浜温泉湯の宿宮浜グランドホテル、山梨大月「甲斐の猿橋」桂川渓谷に橋脚なしで架かる刎橋と東横INN富士山大月駅、栃木日光「日光神橋」世界遺産二社一寺の玄関口と名門日光金谷ホテル。日本三大奇橋の歴史ロマンと渓谷美を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-unusual-bridges-stay',
@@ -158,9 +158,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大奇橋・木造建築美特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大奇橋＆渓谷美・歴史ロマンの名宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大奇橋＆渓谷美・歴史ロマンの名宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             急峻な渓谷や激流を越えるため、江戸時代以前の匠たちが知恵を絞って築き上げた「日本三大奇橋」――清流錦川に優美な五連の木造アーチを描き、釘を一本も使わずに組み上げられた山口岩国の「錦帯橋」、桂川の深い断崖絶壁の両岸から斜めに木材を突き出して橋を支える「刎橋（はねばし）」構造で歌川広重の浮世絵にも描かれた山梨の「甲斐の猿橋」、そして世界遺産・日光の社寺への神聖な入り口として大谷川の急流に鮮やかな朱色で架かる「日光神橋」。四季折々の新緑や紅葉、雪景色に映えるその姿は、まさに生きた芸術品です。歴史ある名橋を渡り匠の技に圧倒された後は、周辺の名湯宿で名物鮎料理や岩国寿司、甲州ワインビーフ、伝統の西洋料理を楽天ふるさと納税でお楽しみください。
           </p>

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tochigi-okunikko-yumoto-nature-stay/" },
-  title: "【栃木・奥日光＆湯元温泉】男体山・戦場ヶ原＆乳白色硫黄泉・日光湯波宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "栃木・奥日光＆湯元温泉：男体山・戦場ヶ原＆乳白色硫黄泉・日光湯波宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "奥日光の大自然と乳白色の名湯・日光湯元温泉エリア完全特化！男体山を望む「中禅寺湖」、ラムサール条約湿地「戦場ヶ原」、大迫力の「湯滝」、日本で4番目に濃い乳白色硫黄泉と伝統の日光湯波会席宿を徹底解説。",
   keywords: ["栃木", "奥日光", "湯元温泉", "男体山", "戦場ヶ原", "乳白色硫黄泉", "日光湯波宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             OKUNIKKO & YUMOTO ONSEN GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【栃木・奥日光＆湯元温泉】男体山・戦場ヶ原＆乳白色硫黄泉・日光湯波宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「栃木・奥日光＆湯元温泉」男体山・戦場ヶ原＆乳白色硫黄泉・日光湯波宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             標高1,500m、雲の上に広がる静寂の奥座敷「日光湯元温泉」。エメラルドグリーンから乳白色へと色を変える濃厚な硫黄泉。戦場ヶ原の木道トレッキングと、男体山を映す湯ノ湖畔の宿で極上の癒やしを。
           </p>

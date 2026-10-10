@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            鳴子峡の大紅葉と鳴子温泉郷！日本随一の多彩な泉質めぐり・仙台牛と宮城新米を味わう秋の東北旅
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">鳴子峡の大紅葉と鳴子温泉郷！日本随一の多彩な泉質めぐり・仙台牛と宮城新米を味わう秋の東北旅</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             断崖を埋め尽くす錦秋の峡谷美と、日本屈指の多彩な名湯が湧く湯治の里
           </p>

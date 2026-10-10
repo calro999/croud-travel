@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】果物王国の極上スイーツ！名産清水白桃パフェ＆倉敷美観地区・湯原温泉の風情宿5選 | 日本全国・旅宿クラウド',
+  title: '2026年：果物王国の極上スイーツ！名産清水白桃パフェ＆倉敷美観地区・湯原温泉の風情宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！とろける甘さと芳醇な香りの岡山特産「清水白桃」！白桃パフェ・スイーツと倉敷美観地区の白壁町家、名湯湯原温泉で寛ぐ晴れの国岡山のおすすめ宿5選。',
   keywords: ["2026年", "倉敷美観地区", "湯原温泉の風情宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: '【2026年】果物王国の極上スイーツ！名産清水白桃パフェ＆倉敷美観地区・湯原温泉の風情宿5選',
+    title: '2026年：果物王国の極上スイーツ！名産清水白桃パフェ＆倉敷美観地区・湯原温泉の風情宿5選',
     description: '2026年最新！とろける甘さと芳醇な香りの岡山特産「清水白桃」！白桃パフェ・スイーツと倉敷美観地区の白壁町家、名湯湯原温泉で寛ぐ晴れの国岡山のおすすめ宿5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/spring-okayama-white-peach-parfait-stay',
@@ -191,9 +191,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> 岡山特産白桃スイーツ×倉敷美観地区・名湯
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】果物王国の極上スイーツ！名産清水白桃パフェ＆倉敷美観地区・湯原温泉の風情宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」果物王国の極上スイーツ！名産清水白桃パフェ＆倉敷美観地区・湯原温泉の風情宿5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             上品な白さと高貴な香りを誇る「果物の女王」岡山県産清水白桃。みずみずしい白桃を丸ごと使った特製パフェやスイーツを堪能し、倉敷美観地区の白壁の風情ある街並みや湯原温泉の美肌名湯に浸る贅沢な岡山旅行。
           </p>

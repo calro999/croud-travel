@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月湯河原温泉】相模湾の伊勢海老！名宿5選',
+  title: '湯河原温泉で過ごす冬の旅（11・12月）！相模湾の伊勢海老！名宿5選',
   description: '万葉集に唯一詠まれた関東最古の名湯・神奈川県湯河原温泉。11月下旬から12月上旬にかけて奥湯河原やもみじの郷を彩る関東で最も遅い錦秋の紅葉。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '湯河原温泉 宿泊 11月 12月, 湯河原温泉 紅葉 もみじの郷, 奥湯河原 旅館 おすすめ, 上野屋 山翠楼 湯河原, 湯河原 伊勢海老 金目鯛, 文豪 湯河原温泉 夏目漱石, 湯河原温泉 冬 モデルコース',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay/",
   },
   openGraph: {
-    title: '【11・12月湯河原温泉】相模湾の伊勢海老！名宿5選',
+    title: '湯河原温泉で過ごす冬の旅（11・12月）！相模湾の伊勢海老！名宿5選',
     description: '万葉集に唯一詠まれた関東最古の名湯・神奈川県湯河原温泉。11月下旬から12月上旬にかけて奥湯河原やもみじの郷を彩る関東で最も遅い錦秋の紅葉。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月湯河原温泉の名湯と奥湯河原晩秋紅葉】文豪が愛した万葉の隠れ家・相模湾の伊勢海老＆地魚会席の宿5選",
+    title: "湯河原温泉の名湯と奥湯河原晩秋紅葉で過ごす冬の旅（11・12月）！文豪が愛した万葉の隠れ家・相模湾の伊勢海老＆地魚会席の宿5選",
     description: "万葉集に唯一詠まれた関東最古の名湯・神奈川県湯河原温泉。11月下旬から12月上旬にかけて奥湯河原やもみじの郷を彩る関東で最も遅い錦秋の紅葉。夏目漱石や芥川龍之介ら文豪が愛した静寂の数寄屋宿、肌を柔らかく包む弱アルカリ性源泉、そして相模湾の冬の味覚・伊勢海老や寒金目鯛の贅沢会席を堪能する極上冬旅ガイド。",
   }
 };
@@ -266,10 +266,7 @@ export default function YugawaraWinterPage() {
             <BookOpen className="w-4 h-4 text-orange-300" />
             <span>11月・12月限定 万葉の古湯と関東最遅の紅葉・相模湾海の幸会席特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月湯河原温泉の名湯と奥湯河原晩秋紅葉】<br className="hidden sm:inline" />
-            文豪が愛した万葉の隠れ家・相模湾の伊勢海老＆地魚会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">湯河原温泉の名湯と奥湯河原晩秋紅葉で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 文豪が愛した万葉の隠れ家・相模湾の伊勢海老＆地魚会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             万葉集に唯一詠まれ、漱石・芥川・藤村ら文豪が執筆に籠もった関東最古の名湯。11月下旬から12月上旬にかけて奥湯河原を彩る遅咲きの真紅のもみじ。相模湾の冬の味覚・伊勢海老と寒金目鯛に舌鼓を打つ静寂の隠れ家へ。
           </p>

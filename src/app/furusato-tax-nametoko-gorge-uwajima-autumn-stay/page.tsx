@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            滑床渓谷「雪輪の滝」紅葉キャニオニング美＆本場宇和島鯛めし・道後奥道後温泉ステイ
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">滑床渓谷「雪輪の滝」紅葉キャニオニング美＆本場宇和島鯛めし・道後奥道後温泉ステイ</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             一枚岩を滑る清流と燃えるような秋の森。本場宇和島鯛めしの極上の旨みと道後の名湯で癒やされる秋旅。
           </p>

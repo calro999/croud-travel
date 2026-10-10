@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【小豆島×ふるさと納税】エンジェルロード＆オリーブの島！瀬戸内海一望の温泉宿特集｜島宿真里・オリビアン小豆島・ベイリゾート',
+  title: '小豆島をふるさと納税でお得に旅する！エンジェルロード＆オリーブの島！瀬戸内海一望の温泉宿特集｜島宿真里・オリビアン小豆島・ベイリゾート',
   description: '穏やかな瀬戸内海に浮かぶ癒やしの楽園・香川県小豆島（小豆島町・土庄町）を楽天ふるさと納税でお得に島旅！登録有形文化財と名物醤油会席の至高宿「島宿 真里」、夕陽百選を望む絶景露天風呂「オリビアン小豆島 夕陽ヶ丘ホテル」、全室オーシャンビュー＆オリーブ牛の「ベイリゾートホテル小豆島」を徹底比較。小豆島トラベルクーポン活用術を網羅。',
   keywords: '小豆島 ふるさと納税,島宿真里 クーポン,オリビアン小豆島 ふるさと納税,ベイリゾートホテル小豆島 宿泊,小豆島町 ふるさと納税 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-shodoshima-olive-island-onsen-stay/",
   },
   openGraph: {
-    title: '【小豆島×ふるさと納税】エンジェルロード＆オリーブの島！瀬戸内海一望の温泉宿特集｜島宿真里・オリビアン小豆島・ベイリゾート',
+    title: '小豆島をふるさと納税でお得に旅する！エンジェルロード＆オリーブの島！瀬戸内海一望の温泉宿特集｜島宿真里・オリビアン小豆島・ベイリゾート',
     description: '穏やかな瀬戸内海に浮かぶ癒やしの楽園・香川県小豆島（小豆島町・土庄町）を楽天ふるさと納税でお得に島旅！登録有形文化財と名物醤油会席の至高宿「島宿 真里」、夕陽百選を望む絶景露天風呂「オリビアン小豆島 夕陽ヶ丘ホテル」、全室オーシャンビュー＆オリーブ牛の「ベイリゾートホテル小豆島」を徹底比較。小豆島トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-shodoshima-olive-island-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -24,7 +24,7 @@ export default function FurusatoArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【小豆島×ふるさと納税】エンジェルロード＆オリーブの島！瀬戸内海一望の温泉宿特集｜島宿真里・オリビアン小豆島・ベイリゾート',
+    headline: '小豆島をふるさと納税でお得に旅する！エンジェルロード＆オリーブの島！瀬戸内海一望の温泉宿特集｜島宿真里・オリビアン小豆島・ベイリゾート',
     description: '穏やかな瀬戸内海に浮かぶ癒やしの楽園・香川県小豆島（小豆島町・土庄町）を楽天ふるさと納税でお得に島旅！登録有形文化財と名物醤油会席の至高宿「島宿 真里」、夕陽百選を望む絶景露天風呂「オリビアン小豆島 夕陽ヶ丘ホテル」、全室オーシャンビュー＆オリーブ牛の「ベイリゾートホテル小豆島」を徹底比較。小豆島トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function FurusatoArticlePage() {
           <span>♨️</span>
           <span>香川県小豆島（小豆島町・土庄町） ふるさと納税・名湯宿特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【小豆島×ふるさと納税】エンジェルロード＆オリーブの島！瀬戸内海一望の温泉宿特集｜島宿真里・オリビアン小豆島・ベイリゾート
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">小豆島をふるさと納税でお得に旅する！エンジェルロード＆オリーブの島！瀬戸内海一望の温泉宿特集｜島宿真里・オリビアン小豆島・ベイリゾート</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed">
           穏やかな瀬戸内海に浮かぶ癒やしの楽園・香川県小豆島（小豆島町・土庄町）を楽天ふるさと納税でお得に島旅！登録有形文化財と名物醤油会席の至高宿「島宿 真里」、夕陽百選を望む絶景露天風呂「オリビアン小豆島 夕陽ヶ丘ホテル」、全室オーシャンビュー＆オリーブ牛の「ベイリゾートホテル小豆島」を徹底比較。小豆島トラベルクーポン活用術を網羅。
         </p>

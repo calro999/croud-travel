@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】都会の空に浮かぶオアシス！ルーフトップインフィニティプール＆天然温泉ホテル5選 | 日本全国・旅宿クラウド',
+  title: '2026年：都会の空に浮かぶオアシス！ルーフトップインフィニティプール＆天然温泉ホテル5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！煌めく夜景とスカイラインを一望！屋上インフィニティプールと本格天然温泉大浴場、クラブラウンジを備えた大人のアーバンリゾート5選。',
   keywords: ["2026年", "天然温泉ホテル5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: '【2026年】都会の空に浮かぶオアシス！ルーフトップインフィニティプール＆天然温泉ホテル5選',
+    title: '2026年：都会の空に浮かぶオアシス！ルーフトップインフィニティプール＆天然温泉ホテル5選',
     description: '2026年最新！煌めく夜景とスカイラインを一望！屋上インフィニティプールと本格天然温泉大浴場、クラブラウンジを備えた大人のアーバンリゾート5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/organic-rooftop-infinity-pool-spa-stay',
@@ -193,9 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> ルーフトッププール×アーバン天然温泉
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】都会の空に浮かぶオアシス！ルーフトップインフィニティプール＆天然温泉ホテル5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」都会の空に浮かぶオアシス！ルーフトップインフィニティプール＆天然温泉ホテル5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             高層ビルの屋上から見渡す摩天楼の夜景と夕焼け。温水インフィニティプールで夜風を感じながらカクテルを片手に寛ぎ、館内の本格天然温泉やサウナでリフレッシュする、都会の喧騒を忘れるラグジュアリーステイ。
           </p>

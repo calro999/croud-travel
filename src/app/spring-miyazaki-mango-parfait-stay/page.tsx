@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】とろける黄金の果肉・太陽のタマゴ！宮崎完熟マンゴースイーツ＆青島オーシャン宿5選 | 日本全国・旅宿クラウド',
+  title: '2026年：とろける黄金の果肉・太陽のタマゴ！宮崎完熟マンゴースイーツ＆青島オーシャン宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！最高峰の宮崎完熟マンゴー「太陽のタマゴ」デザート＆宮崎牛炭火ステーキディナー！青島・日南海岸の絶景太平洋を望むリゾートホテル5選。',
   keywords: ["2026年", "とろける黄金の果肉", "青島オーシャン宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: '【2026年】とろける黄金の果肉・太陽のタマゴ！宮崎完熟マンゴースイーツ＆青島オーシャン宿5選',
+    title: '2026年：とろける黄金の果肉・太陽のタマゴ！宮崎完熟マンゴースイーツ＆青島オーシャン宿5選',
     description: '2026年最新！最高峰の宮崎完熟マンゴー「太陽のタマゴ」デザート＆宮崎牛炭火ステーキディナー！青島・日南海岸の絶景太平洋を望むリゾートホテル5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/spring-miyazaki-mango-parfait-stay',
@@ -193,9 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> 太陽のタマゴ完熟マンゴー×青島オーシャン展望
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】とろける黄金の果肉・太陽のタマゴ！宮崎完熟マンゴースイーツ＆青島オーシャン宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」とろける黄金の果肉・太陽のタマゴ！宮崎完熟マンゴースイーツ＆青島オーシャン宿5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             樹上で完全に熟して自然落果した最高級ブランド「太陽のタマゴ」。濃厚な甘みと果汁があふれる完熟マンゴーパフェを堪能し、青島神社や鬼の洗濯板を一望する展望温泉と宮崎牛ディナーで南国気分を満喫する宮崎リゾート。
           </p>

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hokkaido-winter-shoes-clothing-mistakes-guide/" },
-  title: "【冬の北海道旅行 滑らない靴＆防寒着の失敗談】着膨れして室内で大汗！？氷道で転ばない完全防備マニュアル ｜ 日本全国・旅宿クラウド",
+  title: "冬の北海道旅行 滑らない靴＆防寒着の失敗談：着膨れして室内で大汗！？氷道で転ばない完全防備マニュアル ｜ 日本全国・旅宿クラウド",
   description: "冬の北海道（札幌・小樽・旭川）で後悔しないための服装・靴選び！ツルツル氷道で滑らないスノーブーツの選び方、外氷点下×室内25度の温度差対策、スマホバッテリー急減対策、駅直結地下街ホテルまとめ。",
   keywords: ["冬の北海道旅行", "滑らない靴", "防寒着の失敗談", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -77,10 +77,7 @@ export default function HokkaidoWinterShoesClothingGuidePage() {
           <div className="inline-flex items-center gap-2 bg-slate-800/80 backdrop-blur-sm border border-slate-600 text-sky-200 text-xs font-bold px-3.5 py-1.5 rounded-full">
             <span>❄️</span> 極寒とブラックアイスバーンを生き抜く知恵
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-[2.5rem] font-black tracking-tight leading-snug">
-            【冬の北海道旅行 滑らない靴＆防寒着の失敗談】<br />
-            着膨れして室内で大汗！？氷道で転ばない完全防備マニュアル
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-[2.5rem] font-black tracking-tight leading-snug">「冬の北海道旅行 滑らない靴＆防寒着の失敗談」<br /> 着膨れして室内で大汗！？氷道で転ばない完全防備マニュアル</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-2xl pt-2">
             外は氷点下マイナス5度、一歩建物に入ると暖房ガンガンで室温25度…！冬の北海道初心者が真っ先に陥る「足元ツルツル転倒事故」と「着込みすぎて汗冷え風邪」の二大トラップ。現地道民の知恵と旅行者の生々しい失敗談から導き出した、最強の防備術をお届けします。
           </p>

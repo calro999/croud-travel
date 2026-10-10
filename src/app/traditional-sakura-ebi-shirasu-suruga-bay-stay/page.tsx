@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '【2026年】駿河湾の宝石！サクサク桜えびかき揚げ＆獲れたて生しらす会席の温泉宿5選 ｜ 日本全国・旅宿クラウド',
+  title: '2026年：駿河湾の宝石！サクサク桜えびかき揚げ＆獲れたて生しらす会席の温泉宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！静岡・由比港や用宗港で水揚げされた新鮮な生桜えび・生しらすや香ばしいかき揚げ、富士山を望む絶景温泉を満喫できる名宿5選。',
   keywords: ["2026年", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/traditional-sakura-ebi-shirasu-suruga-bay-stay/",
   },
   openGraph: {
-    title: '【2026年】駿河湾の宝石！サクサク桜えびかき揚げ＆獲れたて生しらす会席の温泉宿5選',
+    title: '2026年：駿河湾の宝石！サクサク桜えびかき揚げ＆獲れたて生しらす会席の温泉宿5選',
     description: '2026年最新！静岡・由比港や用宗港で水揚げされた新鮮な生桜えび・生しらすや香ばしいかき揚げ、富士山を望む絶景温泉を満喫できる名宿5選。',
     url: 'https://croud-travel.pages.dev/traditional-sakura-ebi-shirasu-suruga-bay-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -172,9 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>桜えびかき揚げ×生しらす会席宿</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            【2026年】駿河湾の宝石！サクサク桜えびかき揚げ＆獲れたて生しらす会席の温泉宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」駿河湾の宝石！サクサク桜えびかき揚げ＆獲れたて生しらす会席の温泉宿5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             日本で唯一駿河湾でのみ水揚げされる「海の宝石」桜えび。甘み際立つ生の桜えびやサクサクのかき揚げ、朝獲れのぷりぷり生しらす丼。富士山と駿河湾のパノラマを望む温泉露天風呂とともに味わう、静岡ならではの絶品海の恵み旅。
           </p>

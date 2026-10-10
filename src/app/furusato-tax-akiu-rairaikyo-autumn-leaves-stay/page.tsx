@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '仙台の奥座敷・秋保温泉と磊々峡の奇岩紅葉！名瀑秋保大滝＆篝火露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】宮城',
+  title: '仙台の奥座敷・秋保温泉と磊々峡の奇岩紅葉！名瀑秋保大滝＆篝火露天風呂宿×ふるさと納税厳選ガイド宮城',
   description: '10月中旬〜11月上旬に見頃を迎える伊達政宗公ゆかりの名湯「秋保温泉」と「磊々峡（らいらいきょう）」。ハートのくぼみ・覗橋や国指定名勝「秋保大滝」のダイナミックな紅葉、名宿「篝火の湯 緑水亭」「茶寮宗園」「心和む名湯の宿 曽良一」で仙台牛ステーキや三陸の戻りカツオ・鮑を堪能。ふるさと納税で実質2,000円。',
   keywords: ["仙台の奥座敷", "篝火露天風呂宿×ふるさと納税", "2026年最新秋旅", "宮城", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-akiu-rairaikyo-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '仙台の奥座敷・秋保温泉と磊々峡の奇岩紅葉！名瀑秋保大滝＆篝火露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】宮城',
+    title: '仙台の奥座敷・秋保温泉と磊々峡の奇岩紅葉！名瀑秋保大滝＆篝火露天風呂宿×ふるさと納税厳選ガイド宮城',
     description: '10月中旬〜11月上旬に見頃を迎える伊達政宗公ゆかりの名湯「秋保温泉」と「磊々峡（らいらいきょう）」。ハートのくぼみ・覗橋や国指定名勝「秋保大滝」のダイナミックな紅葉、名宿「篝火の湯 緑水亭」「茶寮宗園」「心和む名湯の宿 曽良一」で仙台牛ステーキや三陸の戻りカツオ・鮑を堪能。ふるさと納税で実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-akiu-rairaikyo-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FeatureArticlePage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               仙台・秋保温泉＆磊々峡紅葉特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              仙台の奥座敷・秋保温泉と磊々峡の奇岩紅葉！名瀑秋保大滝＆篝火露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】宮城
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">仙台の奥座敷・秋保温泉と磊々峡の奇岩紅葉！名瀑秋保大滝＆篝火露天風呂宿×ふるさと納税厳選ガイド宮城</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               10月中旬〜11月上旬に見頃を迎える伊達政宗公ゆかりの名湯「秋保温泉」と「磊々峡（らいらいきょう）」。ハートのくぼみ・覗橋や国指定名勝「秋保大滝」のダイナミックな紅葉、名宿「篝火の湯 緑水亭」「茶寮宗園」「心和む名湯の宿 曽良一」で仙台牛ステーキや三陸の戻りカツオ・鮑を堪能。ふるさと納税で実質2,000円。
             </p>

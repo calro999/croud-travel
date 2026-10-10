@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-shoyu-capitals-brewery-stay/" },
-  title: '日本三大醤油の醸造地＆木桶仕込みの芳香・白壁の蔵元巡りと発酵美名宿×ふるさと納税完全ガイド【2026年最新】銚子・小豆島・龍野',
+  title: '日本三大醤油の醸造地＆木桶仕込みの芳香・白壁の蔵元巡りと発酵美名宿×ふるさと納税厳選ガイド銚子・小豆島・龍野',
   description: '和食の魂を醸す日本の三大醤油の聖地巡礼！千葉「銚子の醤油蔵」太平洋の黒潮気候と犬吠埼ホテル、香川「小豆島・醤の郷」木桶仕込み天然醸造とベイリゾートホテル小豆島、兵庫「播州龍野」揖保川清流が育む淡口醤油と赤穂温泉銀波荘。歴史ある醤油蔵の見学と美食温泉ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大醤油・醸造発酵特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大醤油の醸造地＆木桶仕込みの芳香・白壁の蔵元巡りと発酵美名宿×ふるさと納税完全ガイド【2026年最新】銚子・小豆島・龍野',
+    title: '日本三大醤油の醸造地＆木桶仕込みの芳香・白壁の蔵元巡りと発酵美名宿×ふるさと納税厳選ガイド銚子・小豆島・龍野',
     description: '和食の魂を醸す日本の三大醤油の聖地巡礼！千葉「銚子の醤油蔵」太平洋の黒潮気候と犬吠埼ホテル、香川「小豆島・醤の郷」木桶仕込み天然醸造とベイリゾートホテル小豆島、兵庫「播州龍野」揖保川清流が育む淡口醤油と赤穂温泉銀波荘。歴史ある醤油蔵の見学と美食温泉ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-shoyu-capitals-brewery-stay',
@@ -142,9 +142,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大醤油・醸造発酵特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大醤油の醸造地＆木桶仕込み・白壁蔵の美食宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大醤油の醸造地＆木桶仕込み・白壁蔵の美食宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             和食のユネスコ無形文化遺産登録を支え、日本の食卓に欠かせない深いうま味と香りを生み出してきた「日本三大醤油の醸造地」――江戸の巨大な消費を支えるため太平洋の温暖な気候と利根川水運を活かして濃口醤油の金字塔を打ち立てた千葉の「銚子」、温暖な瀬戸内海に浮かび現在も千本以上の木桶でじっくり天然醸造を続ける蔵が軒を連ねる香川の「小豆島・醤の郷」、そして揖保川の良質な伏流水と播州赤穂の塩・良質な小麦大豆から京料理に不可欠な淡口（うすくち）醤油を生み出した兵庫の「播州龍野」。白壁の蔵通りを散策し、蔵人たちの技と発酵文化に触れた後は、海の幸・山の幸に生揚げ醤油を合わせた極上ディナーを満喫する特別な旅を楽天ふるさと納税でお楽しみください。
           </p>

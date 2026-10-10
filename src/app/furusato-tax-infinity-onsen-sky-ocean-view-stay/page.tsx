@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-infinity-onsen-sky-ocean-view-stay/" },
-  title: '【絶景インフィニティ温泉×ふるさと納税】水平線と空に溶け込む天空露天風呂＆インフィニティプール宿完全ガイド | クラウドトラベル',
+  title: '絶景インフィニティ温泉をふるさと納税でお得に旅する！水平線と空に溶け込む天空露天風呂＆インフィニティプール宿厳選ガイド | クラウドトラベル',
   description: '湯船と海・湖の境界線が消える奇跡の絶景。静岡・稲取、北海道・洞爺湖、沖縄・恩納村のインフィニティ温泉＆天空プールリゾートを厳選。SNSでも話題の圧倒的パノラマステイを楽天ふるさと納税で賢く予約。',
   openGraph: {
-    title: '【絶景インフィニティ温泉×ふるさと納税】水平線と空に溶け込む天空露天風呂＆インフィニティプール宿完全ガイド | クラウドトラベル',
+    title: '絶景インフィニティ温泉をふるさと納税でお得に旅する！水平線と空に溶け込む天空露天風呂＆インフィニティプール宿厳選ガイド | クラウドトラベル',
     description: '湯船と海・湖の境界線が消える奇跡の絶景。静岡・稲取、北海道・洞爺湖、沖縄・恩納村のインフィニティ温泉＆天空プールリゾートを厳選。SNSでも話題の圧倒的パノラマステイを楽天ふるさと納税で賢く予約。',
     type: 'article',
   },
@@ -59,9 +59,7 @@ export default function Page() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             ふるさと納税×絶景インフィニティ温泉・天空露天
           </div>
-          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            【絶景インフィニティ温泉×ふるさと納税】水平線と空に溶け込む天空露天風呂＆インフィニティプール宿完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">絶景インフィニティ温泉をふるさと納税でお得に旅する！水平線と空に溶け込む天空露天風呂＆インフィニティプール宿厳選ガイド</h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl mb-6">
             視界を遮るフェンスや手すりがなく、湯船の縁からあふれるお湯がそのまま海や湖へと繋がっているかのように錯覚する「インフィニティ露天風呂」。水平線から昇る神々しい朝日、茜色に染まる夕暮れのマジックアワー、そして夜には満天の星が水面に映り込む――その圧倒的なビジュアルと開放感は、現代のリゾートステイにおける最高峰の贅沢です。相模灘の青い海を眼下に望む伊豆・稲取、羊蹄山と穏やかなカルデラ湖に抱かれる北海道・洞爺湖、そして東シナ海を見下ろす沖縄・恩納村の天空インフィニティプールリゾート。こうした最新のラグジュアリー設備を持つ施設は宿泊単価が高めですが、楽天ふるさと納税のトラベルクーポン（30％割引）を使えば実質自己負担2,000円で驚くほどお得に滞在可能。息を呑む絶景と名湯に身を委ねる、至極のインフィニティステイへご案内します。
           </p>

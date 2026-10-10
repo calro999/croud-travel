@@ -42,9 +42,7 @@ export default function Page() {
             <span className="inline-block w-2 h-2 rounded-full bg-rose-400 animate-pulse" />
             日本三大名園・大名庭園特集
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">
-            日本三大名園＆大名庭園を愛でる名門宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三大名園＆大名庭園を愛でる名門宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg md:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed font-normal">
             加賀・岡山・水戸藩主が築いた天下の庭園美！石川「兼六園」徽軫灯籠と雪吊りの雪景色・料理旅館金沢茶屋、岡山「後楽園」岡山城を借景とする延養亭の美とホテルグランヴィア岡山、茨城「偕楽園」三千本の梅林と千波湖を望むホテルザウエストヒルズ水戸。日本三大名園（三名園）の四季折々の絶景ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。
           </p>

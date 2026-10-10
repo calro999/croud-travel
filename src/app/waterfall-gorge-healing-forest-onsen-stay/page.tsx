@@ -180,9 +180,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            豪快な滝の飛沫と深い森の静寂！清流渓谷のせせらぎ＆滝見露天風呂ヒーリング宿
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">豪快な滝の飛沫と深い森の静寂！清流渓谷のせせらぎ＆滝見露天風呂ヒーリング宿</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             ザーザーと響く滝の水音と、木々の間から差し込む木漏れ日。湯船のすぐ目の前に広がる大迫力の滝や清流を眺めながら、豊富に湧き出る天然温泉に浸かる贅沢。全身でマイナスイオンを浴び、日々のストレスを綺麗さっぱり洗い流す森林セラピー温泉をご提案します。
           </p>

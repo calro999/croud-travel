@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【新潟駅前】新米コシヒカリ＆越後地酒利き酒・万代橋！2,000円台〜泊まれる格安ホテル5選',
+  title: '新潟駅前：新米コシヒカリ＆越後地酒利き酒・万代橋！2,000円台〜泊まれる格安ホテル5選',
   description: '秋の収穫・新米魚沼コシヒカリとぽんしゅ館の越後地酒500種利き酒！国指定重要文化財・萬代橋の信濃川秋夕景。上越新幹線・JR新潟駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>秋の収穫新米コシヒカリ＆ぽんしゅ館利き酒・萬代橋夕景</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【新潟駅前】新米コシヒカリ＆越後地酒！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「新潟駅前」新米コシヒカリ＆越後地酒！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             米どころ新潟が最も輝く秋の収穫期。炊きたてツヤツヤの新米コシヒカリおにぎりや、駅ナカ「ぽんしゅ館」で楽しむ越後全酒蔵の利き酒コインマシン。信濃川に優美に架かる国指定重要文化財「萬代橋」の秋夕暮れ散歩を楽しみ、リニューアルした新潟駅周辺で2,000円台〜泊まれる優良ホテルを厳選。
           </p>

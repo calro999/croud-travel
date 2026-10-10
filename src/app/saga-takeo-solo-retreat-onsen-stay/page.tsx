@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/saga-takeo-solo-retreat-onsen-stay/" },
-  title: '【佐賀・武雄温泉ひとり旅・楼門辰野金吾おこもり】千三百年美肌湯・御船山楽園チームラボ・佐賀牛！武雄温泉駅直通の極上厳選3宿',
+  title: '佐賀・武雄温泉ひとり旅・楼門辰野金吾おこもり：千三百年美肌湯・御船山楽園チームラボ・佐賀牛！武雄温泉駅直通の極上厳選3宿',
   description: '西九州新幹線でアクセス抜群！サウナシュラン殿堂入りのらかんの湯と大自然アートが融合した「御船山楽園ホテル」、武雄温泉駅前すぐで天然温泉大浴場を備える「セントラルホテル武雄温泉駅前」、全室客室露天風呂完備の贅沢な離れ宿「武雄温泉 星の華」を楽天API最新データに基づき徹底比較。',
   keywords: '武雄温泉 一人旅 宿,武雄 ホテル 一人 温泉,御船山楽園ホテル,セントラルホテル武雄温泉駅前,武雄温泉 星の華,武雄 らかんの湯 ひとり旅',
   openGraph: {
-    title: '【佐賀・武雄温泉ひとり旅・楼門辰野金吾おこもり】千三百年美肌湯・御船山楽園チームラボ・佐賀牛！武雄温泉駅直通の極上厳選3宿',
+    title: '佐賀・武雄温泉ひとり旅・楼門辰野金吾おこもり：千三百年美肌湯・御船山楽園チームラボ・佐賀牛！武雄温泉駅直通の極上厳選3宿',
     description: '西九州新幹線でアクセス抜群！サウナシュラン殿堂入りのらかんの湯と大自然アートが融合した「御船山楽園ホテル」、武雄温泉駅前すぐで天然温泉大浴場を備える「セントラルホテル武雄温泉駅前」、全室客室露天風呂完備の贅沢な離れ宿「武雄温泉 星の華」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/saga-takeo-solo-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【佐賀・武雄温泉ひとり旅・楼門辰野金吾おこもり】千三百年美肌湯・御船山楽園チームラボ・佐賀牛！武雄温泉駅直通の極上厳選3宿',
+    headline: '佐賀・武雄温泉ひとり旅・楼門辰野金吾おこもり：千三百年美肌湯・御船山楽園チームラボ・佐賀牛！武雄温泉駅直通の極上厳選3宿',
     description: '西九州新幹線でアクセス抜群！サウナシュラン殿堂入りのらかんの湯と大自然アートが融合した「御船山楽園ホテル」、武雄温泉駅前すぐで天然温泉大浴場を備える「セントラルホテル武雄温泉駅前」、全室客室露天風呂完備の贅沢な離れ宿「武雄温泉 星の華」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             佐賀・武雄温泉ひとり旅＆歴史アートおこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【佐賀・武雄温泉ひとり旅・楼門辰野金吾おこもり】千三百年美肌湯・御船山楽園チームラボ・佐賀牛！武雄温泉駅直通の極上厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「佐賀・武雄温泉ひとり旅・楼門辰野金吾おこもり」千三百年美肌湯・御船山楽園チームラボ・佐賀牛！武雄温泉駅直通の極上厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/okinawa-miyakojima-irabu-kurima-stay/" },
-  title: "【沖縄・宮古島＆伊良部島・来間島】宮古ブルー・与那覇前浜＆伊良部大橋・宮古牛宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "沖縄・宮古島＆伊良部島・来間島：宮古ブルー・与那覇前浜＆伊良部大橋・宮古牛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "東洋一の白い砂浜と透き通る宮古ブルー完全特化！東洋一美しい「与那覇前浜ビーチ」、絶景の無料橋「伊良部大橋」、下地島空港17END、来間島竜宮城展望台、シギラセブンマイルズリゾート、最高級宮古牛＆宮古島産マンゴー宿を徹底解説。",
   keywords: ["沖縄", "宮古島", "伊良部島", "来間島", "宮古ブルー", "与那覇前浜", "伊良部大橋"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             MIYAKOJIMA & IRABU GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【沖縄・宮古島＆伊良部島・来間島】宮古ブルー・与那覇前浜＆伊良部大橋・宮古牛宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「沖縄・宮古島＆伊良部島・来間島」宮古ブルー・与那覇前浜＆伊良部大橋・宮古牛宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             どこまでも透き通る奇跡の海「宮古ブルー」と、パウダーサンドが続く「与那覇前浜ビーチ」。海の上を滑るように渡る全長3,540mの伊良部大橋。下地島空港17ENDのエメラルドグリーンの浅瀬。プライベートプール付きヴィラで極上の島時間を過ごす旅。
           </p>

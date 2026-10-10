@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【12・1月埼玉】武州和牛」！名宿5選',
+  title: '埼玉で過ごす冬の旅（12・1月）！武州和牛」！名宿5選',
   description: '冬の凛とした空気の中に甘い香りを放つ関東屈指の早咲き美「宝登山ロウバイ園」と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '宝登山ロウバイ園, 長瀞 こたつ舟, 宝登山神社 初詣, 長瀞 温泉 宿, 秩父 温泉 旅館, 武州和牛 宿, 秩父豚みそ丼, 12月 1月 埼玉 旅行, 花湯別邸 長瀞',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-saitama-nagatoro-hodosan-roubai-kotatsubune-stay/"
   },
   openGraph: {
-    title: '【12・1月埼玉】武州和牛」！名宿5選',
+    title: '埼玉で過ごす冬の旅（12・1月）！武州和牛」！名宿5選',
     description: '冬の凛とした空気の中に甘い香りを放つ関東屈指の早咲き美「宝登山ロウバイ園」と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-saitama-nagatoro-hodosan-roubai-kotatsubune-stay',
     type: 'article',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【12・1月埼玉】長瀞＆秩父・宝登山！冬の風物詩「長瀞こたつ舟下り」と早咲き満開「宝登山ロウバイ園」・宝登山神社初詣＆名物「秩父豚みそ丼・武州和牛」名宿5選",
+    title: "埼玉で過ごす冬の旅（12・1月）！長瀞＆秩父・宝登山！冬の風物詩「長瀞こたつ舟下り」と早咲き満開「宝登山ロウバイ園」・宝登山神社初詣＆名物「秩父豚みそ丼・武州和牛」名宿5選",
     description: "冬の凛とした空気の中に甘い香りを放つ関東屈指の早咲き美「宝登山ロウバイ園」と、秩父三社の一角「宝登山神社」での新春初詣を巡る12〜1月の埼玉・長瀞＆秩父特集。荒川の特別天然記念物・岩畳を巡る熱々ぽかぽかの「長瀞こたつ舟下り」や、名物「秩父豚みそ漬け丼」「武州和牛」「天然氷かき氷」。そして長瀞温泉・秩父七湯の良質な天然温泉と心温まるおもてなしに癒やされる厳選名宿5選を徹底特集します。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -284,11 +284,7 @@ export default function SaitamaNagatoroWinterPage() {
               <Sparkles className="w-4 h-4 text-amber-300" />
               <span>12月・1月冬の関東・秩父路旅情特集</span>
             </div>
-            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 text-white drop-shadow-md">
-              埼玉・長瀞＆秩父・宝登山<br className="hidden sm:inline" />
-              冬の風物詩「長瀞こたつ舟下り」と早咲き「宝登山ロウバイ園」<br className="hidden sm:inline" />
-              宝登山神社初詣＆名物「秩父豚みそ丼・武州和牛」名宿5選
-            </h1>
+            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 text-white drop-shadow-md">埼玉・長瀞＆秩父・宝登山<br className="hidden sm:inline" /> 冬の風物詩「長瀞こたつ舟下り」と早咲き「宝登山ロウバイ園」<br className="hidden sm:inline" /> 宝登山神社初詣＆名物「秩父豚みそ丼・武州和牛」名宿5選</h1>
             <p className="max-w-3xl mx-auto text-sm md:text-lg text-amber-100 leading-relaxed drop-shadow">
               冬の青空に透き通る黄色い花弁と甘い香りを放つ関東随一の「宝登山ロウバイ園」と、秩父三社・宝登山神社での新春開運初詣。ぽかぽかの豆炭こたつに入って巡る荒川岩畳のこたつ舟下りと、武州和牛・秩父豚味噌焼きに舌鼓を打つ極上の冬旅をお届けします。
             </p>

@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            富山・氷見温泉郷と雨晴海岸！富山湾越しの立山連峰初冠雪＆氷見寒ブリ・紅ズワイガニ
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">富山・氷見温泉郷と雨晴海岸！富山湾越しの立山連峰初冠雪＆氷見寒ブリ・紅ズワイガニ</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の富山・氷見＆雨晴海岸特集！海越しに3,000m級の立山連峰の初冠雪を望む「雨晴海岸」の世界的大絶景、富山湾を一望する氷見温泉郷の海辺露天風呂、11月解禁の冬の王者「ひみ寒ぶり」や新湊直送紅ズワイガニ・白エビをふるさと納税トラベルクーポンで満喫する富山湾の秋旅。
           </p>

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/scenic-yoga-mindfulness-forest-therapy-stay/" },
-  title: "【絶景ヨガ＆マインドフルネス宿】朝霧テラス・森林セラピー＆オーガニック美肌スパ 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "絶景ヨガ＆マインドフルネス宿：朝霧テラス・森林セラピー＆オーガニック美肌スパ 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "呼吸をととのえ五感をひらくヨガ＆マインドフルネスリゾート完全特化！雲海を望む朝ヨガテラス、森林セラピー基地のガイドツアー、星空ナイトヨガ、美肌クレイセラピー、ヴィーガン＆マクロビオティック対応宿を徹底解説。",
   keywords: ["絶景ヨガ", "マインドフルネス宿", "朝霧テラス", "森林セラピー", "オーガニック美肌スパ", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function WellnessRetreatHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             SCENIC YOGA & FOREST THERAPY GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【絶景ヨガ＆マインドフルネス宿】朝霧テラス・森林セラピー＆オーガニック美肌スパ 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「絶景ヨガ＆マインドフルネス宿」朝霧テラス・森林セラピー＆オーガニック美肌スパ 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             澄み渡る朝の空気の中で、深く息を吸い込む心地よさ「絶景ヨガ＆マインドフルネス宿」。朝露輝く森のテラスでのサンライズヨガ、満天の星の下でのメディテーション。認定セラピストによる森林浴と、体に染み渡るオーガニック朝食へ。
           </p>

@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-major-bihada-hotspring-stay/" },
-  title: '日本三大美肌の湯×炭酸水素塩泉・とろとろ美肌温泉ふるさと納税完全ガイド【2026年最新】嬉野・喜連川・玉造の名湯治宿',
+  title: '日本三大美肌の湯×炭酸水素塩泉・とろとろ美肌温泉ふるさと納税厳選ガイド嬉野・喜連川・玉造の名湯治宿',
   description: 'まるで天然の化粧水に浸かっているような感動！日本三大美肌の湯（佐賀嬉野、栃木喜連川、島根玉造/斐乃上）の名湯旅館をふるさと納税宿泊クーポンでお得に予約する極上ビューティー・湯治ステイ。',
   keywords: ["日本三大美肌の湯×炭酸水素塩泉", "とろとろ美肌温泉ふるさと納税", "2026年最新", "嬉野", "喜連川", "玉造の名湯治宿", "温泉宿"],
   openGraph: {
-    title: '日本三大美肌の湯×炭酸水素塩泉・とろとろ美肌温泉ふるさと納税完全ガイド【2026年最新】嬉野・喜連川・玉造の名湯治宿',
+    title: '日本三大美肌の湯×炭酸水素塩泉・とろとろ美肌温泉ふるさと納税厳選ガイド嬉野・喜連川・玉造の名湯治宿',
     description: 'まるで天然の化粧水に浸かっているような感動！日本三大美肌の湯（佐賀嬉野、栃木喜連川、島根玉造/斐乃上）の名湯旅館をふるさと納税宿泊クーポンでお得に予約する極上ビューティー・湯治ステイ。',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-major-bihada-hotspring-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FurusatoTaxPage() {
           <span className="inline-block px-4 py-1.5 rounded-full text-xs md:text-sm font-black bg-gradient-to-r from-amber-500 to-yellow-400 text-slate-950 mb-5 shadow-lg shadow-amber-500/20">
             日本三大美肌の湯・薬湯治特集
           </span>
-          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">
-            日本三大美肌の湯×とろとろ美肌温泉ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">日本三大美肌の湯×とろとろ美肌温泉ふるさと納税ガイド</h1>
           <p className="text-sm md:text-lg text-slate-300 leading-relaxed font-medium">
             まるで天然の化粧水に浸かっているような感動！日本三大美肌の湯（佐賀嬉野、栃木喜連川、島根玉造/斐乃上）の名湯旅館をふるさと納税宿泊クーポンでお得に予約する極上ビューティー・湯治ステイ。
           </p>

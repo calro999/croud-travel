@@ -6,14 +6,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月兵庫】武田尾温泉の秘湯雪見露天！名宿5選',
+  title: '11・12・1月兵庫：武田尾温泉の秘湯雪見露天！名宿5選',
   description: '夢の舞台が華やぐ宝塚大劇場と、武庫川渓谷の奥深くに隠された秘湯・武田尾温泉を巡る11〜1月の冬紀行。「火の神・台所の神」として関西一円から信。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '宝塚大劇場 冬, 清荒神 初詣, 中山寺 初詣, 武田尾温泉 紅葉舘別庭あざれ, 宝塚ホテル, ホテル若水, 三田牛, 宝塚温泉, 兵庫 冬旅行, 隈研吾 温泉',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-hyogo-takarazuka-kiyoshikojin-hatsumode-takedao-onsen-sandagyu-stay'
   },
   openGraph: {
-    title: '【11・12・1月兵庫】武田尾温泉の秘湯雪見露天！名宿5選',
+    title: '11・12・1月兵庫：武田尾温泉の秘湯雪見露天！名宿5選',
     description: '夢の舞台が華やぐ宝塚大劇場と、武庫川渓谷の奥深くに隠された秘湯・武田尾温泉を巡る11〜1月の冬紀行。「火の神・台所の神」として関西一円から信。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-hyogo-takarazuka-kiyoshikojin-hatsumode-takedao-onsen-sandagyu-stay',
     type: 'article',
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月兵庫】宝塚大劇場冬公演と「清荒神清澄寺」新春初詣！武田尾温泉の秘湯雪見露天＆極上「三田牛」厳選名宿5選",
+    title: "11・12・1月兵庫：宝塚大劇場冬公演と「清荒神清澄寺」新春初詣！武田尾温泉の秘湯雪見露天＆極上「三田牛」厳選名宿5選",
     description: "夢の舞台が華やぐ宝塚大劇場と、武庫川渓谷の奥深くに隠された秘湯・武田尾温泉を巡る11〜1月の冬紀行。「火の神・台所の神」として関西一円から信仰を集める清荒神清澄寺や聖徳太子創建の中山寺で迎える厳かな新春初詣。隈研吾氏設計の離れで味わう武田尾温泉の自家源泉ラドン露天風呂、大劇場オフィシャルホテルの気品あふれる滞在。兵庫県最高峰のブランド黒毛和牛「三田牛」のすき焼きや冬のぼたん鍋を堪能する厳選名宿5選を徹底特集。",
     images: ['https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -281,10 +281,7 @@ export default function HyogoTakarazukaWinterPage() {
             <Snowflake className="w-4 h-4 text-rose-300" />
             <span>関西・兵庫 阪神・北摂 冬の特別紀行（11月・12月・1月）</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 font-journal-serif">
-            宝塚大劇場冬公演と「清荒神清澄寺」新春初詣！<br className="hidden md:inline" />
-            武田尾温泉の秘湯雪見露天＆極上「三田牛」厳選名宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 font-journal-serif">宝塚大劇場冬公演と「清荒神清澄寺」新春初詣！<br className="hidden md:inline" /> 武田尾温泉の秘湯雪見露天＆極上「三田牛」厳選名宿5選</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mb-6">
             大阪・梅田から電車でわずか約30分。華麗なる歌劇の殿堂・宝塚大劇場が放つ夢とロマンの光彩、そして武庫川の上流へと分け入ると広がる武田尾温泉の静謐な深山幽谷。関西屈指の厄除け信仰を誇る「清荒神清澄寺」や聖徳太子開創の「中山寺」で迎える厳かな新春初詣。隈研吾氏が設計したモダン離れで味わう自家源泉ラドン温泉の雪見露天、大劇場オフィシャルホテルの気品あふれる滞在。幻の黒毛和牛「三田牛」と冬のぼたん鍋に舌鼓を打つ極上の冬旅をお届けします。
           </p>

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagano-kiso-fukushima-nezamenotoko-stay/" },
-  title: "【長野・木曽福島＆寝覚の床・御嶽山】中山道関所宿場町・木曽そば＆五平餅宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "長野・木曽福島＆寝覚の床・御嶽山：中山道関所宿場町・木曽そば＆五平餅宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "中山道木曽路の中心・木曽福島＆寝覚の床エリア完全特化！日本四大関所「木曽福島関所」、浦島太郎伝説の名勝「寝覚の床」、霊峰御嶽山、木曽川の清流と名物「木曽手打ちそば・五平餅・朴葉巻き宿」を徹底解説。",
   keywords: ["長野", "木曽福島", "寝覚の床", "御嶽山", "中山道関所宿場町", "木曽そば", "五平餅宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             KISO FUKUSHIMA & ONTAKE GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【長野・木曽福島＆寝覚の床・御嶽山】中山道関所宿場町・木曽そば＆五平餅宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「長野・木曽福島＆寝覚の床・御嶽山」中山道関所宿場町・木曽そば＆五平餅宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-emerald-100/90 leading-relaxed">
             島崎藤村の『夜明け前』の舞台、深い木曽谷の歴史薫る宿場町「木曽福島」。中山道を取り締まった「福島関所」と崖家造りの町並み。木曽川のエメラルドグリーンの激流が花崗岩を削り出した奇勝「寝覚の床」。冷涼な木曽谷の天然温泉と信州手打ちそばの旅。
           </p>

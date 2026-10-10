@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '日本三大山城・天空の城の雲海と歴史浪漫宿×ふるさと納税完全ガイド【2026年最新】竹田城・備中松山城・岩村城',
+  title: '日本三大山城・天空の城の雲海と歴史浪漫宿×ふるさと納税厳選ガイド竹田城・備中松山城・岩村城',
   description: '雲海に浮かぶ天空の城として名高い日本屈指の山城遺構（兵庫・竹田城跡、岡山・現存天守備中松山城、岐阜・日本三大山城岩村城）。早朝の雲海展望と城下町の町家ホテルで歴史浪漫を満喫。楽天ふるさと納税宿泊クーポン完全活用。',
   keywords: ["日本三大山城", "2026年最新", "竹田城", "備中松山城", "岩村城", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-mountain-castles-history-stay/",
   },
   openGraph: {
-    title: '日本三大山城・天空の城の雲海と歴史浪漫宿×ふるさと納税完全ガイド【2026年最新】竹田城・備中松山城・岩村城',
+    title: '日本三大山城・天空の城の雲海と歴史浪漫宿×ふるさと納税厳選ガイド竹田城・備中松山城・岩村城',
     description: '雲海に浮かぶ天空の城として名高い日本屈指の山城遺構（兵庫・竹田城跡、岡山・現存天守備中松山城、岐阜・日本三大山城岩村城）。早朝の雲海展望と城下町の町家ホテルで歴史浪漫を満喫。楽天ふるさと納税宿泊クーポン完全活用。',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-mountain-castles-history-stay',
     siteName: '旅宿クラウド',
@@ -108,9 +108,7 @@ export default function FurusatoUpgradedPage() {
             <span>✨</span>
             <span>天空の山城・雲海歴史浪漫特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            日本三大山城・天空の城の雲海と歴史浪漫宿×ふるさと納税完全ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">日本三大山城・天空の城の雲海と歴史浪漫宿×ふるさと納税厳選ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             険しい岩山の頂に築かれ、秋から冬にかけて一面の白い雲海に包まれる「天空の山城」。日本のマチュピチュと称される「竹田城跡」、現存天守を持つ唯一の山城で雲海展望が圧巻の「備中松山城」、日本三大山城にして女城主の悲哀が残る「岩村城」。朝もやの中に浮かび上がる石垣の威容と、歴史情緒あふれる城下町の温もり。楽天ふるさと納税の宿泊クーポンを活用して、実質2,000円の自己負担で叶える天空山城リトリートをお楽しみください。
           </p>

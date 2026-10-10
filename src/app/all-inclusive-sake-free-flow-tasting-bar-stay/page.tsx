@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/all-inclusive-sake-free-flow-tasting-bar-stay/" },
-  title: "【日本酒飲み放題＆利き酒Bar完備温泉宿】インクルーシブ・銘酒ラウンジ 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "日本酒飲み放題＆利き酒Bar完備温泉宿：インクルーシブ・銘酒ラウンジ 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "追加料金なしで全国の銘酒を心ゆくまで！日本酒インクルーシブ＆利き酒バー完備温泉宿完全特化！新潟越後湯沢、山形天童、群馬草津、石川加賀温泉、厳選10〜30種の地酒サーバー、湯上がりラウンジ酒、おつまみペアリングを徹底解説。",
   keywords: ["日本酒飲み放題", "利き酒Bar完備温泉宿", "インクルーシブ", "銘酒ラウンジ", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
@@ -89,9 +89,7 @@ export default function SakeTourismHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-gradient-to-r from-amber-400 to-yellow-300 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block shadow">
             SAKE FREE FLOW & TASTING BAR GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【日本酒飲み放題＆利き酒Bar完備温泉宿】インクルーシブ・銘酒ラウンジ 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「日本酒飲み放題＆利き酒Bar完備温泉宿」インクルーシブ・銘酒ラウンジ 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             湯上がりの火照った身体に、冷えた大吟醸をクイッと一杯。館内ラウンジにズラリと並ぶ銘酒サーバーや利き酒Bar。「日本酒飲み放題＆オールインクルーシブ温泉宿。」。財布を気にせず、各地の純米大吟醸や季節のひやおろしを心ゆくまで飲み比べ。贅沢な大人の湯浴みへ。
           </p>

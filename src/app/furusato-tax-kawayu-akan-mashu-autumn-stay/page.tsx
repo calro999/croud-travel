@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            阿寒摩周の秋霧と屈斜路湖の紅葉！川湯温泉の強酸性硫黄泉・秋サケ・イクラ＆北海道和牛を味わう道東旅
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">阿寒摩周の秋霧と屈斜路湖の紅葉！川湯温泉の強酸性硫黄泉・秋サケ・イクラ＆北海道和牛を味わう道東旅</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             白煙立ち上る硫黄山と原生林の紅葉、日本屈指の強酸性美肌湯と道東秋の味覚三昧
           </p>

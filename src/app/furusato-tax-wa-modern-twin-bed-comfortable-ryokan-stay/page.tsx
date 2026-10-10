@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '畳の温もりと高級ベッドの極上快眠！和モダンツインベッド客室温泉旅館×ふるさと納税完全ガイド【2026年最新】黒川・箱根強羅・京都嵐山',
+  title: '畳の温もりと高級ベッドの極上快眠！和モダンツインベッド客室温泉旅館×ふるさと納税厳選ガイド黒川・箱根強羅・京都嵐山',
   description: 'お布団の上げ下げ不要＆足腰に優しい快適ベッドステイ！シモンズ社製高級ベッドと渓流露天風呂を備えた「黒川温泉 旅館湯本荘」、全室檜露天風呂付き和モダンローベッド客室「箱根強羅温泉 季の湯 雪月花」、全館畳敷き和モダンローベッドと5つの無料貸切風呂「京都 嵐山温泉 花伝抄」。シニア世代や三世代家族、カップルに選ばれる快適名宿を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
   keywords: ["2026年最新", "黒川", "箱根強羅", "京都嵐山", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: { canonical: baseUrl + '/furusato-tax-wa-modern-twin-bed-comfortable-ryokan-stay/' },
   openGraph: {
-    title: '畳の温もりと高級ベッドの極上快眠！和モダンツインベッド客室温泉旅館×ふるさと納税完全ガイド【2026年最新】黒川・箱根強羅・京都嵐山',
+    title: '畳の温もりと高級ベッドの極上快眠！和モダンツインベッド客室温泉旅館×ふるさと納税厳選ガイド黒川・箱根強羅・京都嵐山',
     description: 'お布団の上げ下げ不要＆足腰に優しい快適ベッドステイ！シモンズ社製高級ベッドと渓流露天風呂を備えた「黒川温泉 旅館湯本荘」、全室檜露天風呂付き和モダンローベッド客室「箱根強羅温泉 季の湯 雪月花」、全館畳敷き和モダンローベッドと5つの無料貸切風呂「京都 嵐山温泉 花伝抄」。シニア世代や三世代家族、カップルに選ばれる快適名宿を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
     url: baseUrl + '/furusato-tax-wa-modern-twin-bed-comfortable-ryokan-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoWaModernTwinBedStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             快適和モダンツインベッド名門温泉旅館特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            畳の温もりと高級ベッドの極上快眠！和モダンツインベッド客室温泉旅館×ふるさと納税完全ガイド【2026年最新】黒川・箱根強羅・京都嵐山
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">畳の温もりと高級ベッドの極上快眠！和モダンツインベッド客室温泉旅館×ふるさと納税厳選ガイド黒川・箱根強羅・京都嵐山</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             「旅館の落ち着いた和の風情や畳の香りは大好きだけれど、床に敷いた布団から立ち上がるのは足腰に負担がかかる。」「食事の前後にお布団の上げ下げで仲居さんが部屋に入ってくるのが少し落ち着かない。」――そんな現代の旅行者のニーズに応えて大人気となっているのが「和モダンツインベッド（ローベッド）客室」です。琉球畳や無垢材のフローリングの上に、シモンズやシーリー、サータなど世界の一流ホテルが採用する高品質なマットレスを設置。日中は畳の上で足を伸ばしてのんびりと寛ぎ、夜は身体の負担を軽減するベッドで朝までぐっすり熟睡できるという、旅館とホテルの“いいとこ取り”の滞在スタイルが実現します。阿蘇の清流沿いに建ちシモンズ社製ベッド完備の和モダン客室を誇る「黒川温泉 旅館湯本荘」、強羅駅前すぐの好立地で全客室に檜の温泉露天風呂と快適な低床ベッドを備える「季の湯 雪月花」、そして全館畳敷きで素足のまま歩け嵐山の観光拠点として五つの貸切風呂を満喫できる「京都 嵐山温泉 花伝抄」。ご両親への親孝行旅行やご夫婦の記念日旅に最適な名宿を、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を使って実質2,000円で賢く予約し、快適至極の温泉旅行へ出かけましょう。
           </p>

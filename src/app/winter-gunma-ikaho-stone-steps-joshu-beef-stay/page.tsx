@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月伊香保温泉】365段の石段街と黄金の湯！名宿5選',
+  title: '伊香保温泉で過ごす冬の旅（11・12月）！365段の石段街と黄金の湯！名宿5選',
   description: '11月から12月にかけて榛名山の澄み切った初冬の空気に包まれる群馬・伊香保温泉。365段の風情ある石段街に灯る温かな提灯、鉄分を豊富に含み体を芯から温める茶褐色の「黄金の湯」と柔らかな「白銀の湯」。とろける上州牛のすき焼きや名物水沢うどんの美食を堪能する極上冬旅ガイド。',
   keywords: '伊香保温泉 宿泊 11月 12月, 伊香保 石段街 旅館, 伊香保 黄金の湯 白銀の湯, 上州牛 温泉 宿, 伊香保温泉 おすすめ 冬, 水沢うどん 伊香保, 伊香保 モデルコース',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-gunma-ikaho-stone-steps-joshu-beef-stay/",
   },
   openGraph: {
-    title: '【11・12月伊香保温泉】365段の石段街と黄金の湯！名宿5選',
+    title: '伊香保温泉で過ごす冬の旅（11・12月）！365段の石段街と黄金の湯！名宿5選',
     description: '11月から12月にかけて榛名山の澄み切った初冬の空気に包まれる群馬・伊香保温泉。365段の風情ある石段街に灯る温かな提灯、鉄分を豊富に含み体を芯から温める茶褐色の「黄金の湯」と柔らかな「白銀の湯」。とろける上州牛のすき焼きや名物水沢うどんの美食を堪能する極上冬旅ガイド。',
     url: 'https://croud-travel.pages.dev/winter-gunma-ikaho-stone-steps-joshu-beef-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月伊香保温泉の初冬散策】365段の石段街と黄金の湯・上州牛会席を味わう名旅館5選",
+    title: "伊香保温泉の初冬散策で過ごす冬の旅（11・12月）！365段の石段街と黄金の湯・上州牛会席を味わう名旅館5選",
     description: "11月から12月にかけて榛名山の澄み切った初冬の空気に包まれる群馬・伊香保温泉。365段の風情ある石段街に灯る温かな提灯、鉄分を豊富に含み体を芯から温める茶褐色の「黄金の湯」と柔らかな「白銀の湯」。とろける上州牛のすき焼きや名物水沢うどんの美食を堪能する極上冬旅ガイド。",
   }
 };
@@ -266,10 +266,7 @@ export default function IkahoWinterPage() {
             <Sparkles className="w-4 h-4 text-amber-300" />
             <span>11月・12月限定 関東名湯・初冬の石段情緒特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月伊香保温泉の初冬散策】<br className="hidden sm:inline" />
-            365段の石段街と黄金の湯・上州牛会席を味わう名旅館5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">伊香保温泉の初冬散策で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 365段の石段街と黄金の湯・上州牛会席を味わう名旅館5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             榛名山麓の澄み渡る初冬の青空に、湯けむりがまっすぐ立ち上る。夕暮れに赤く灯る石段街の提灯、鉄分香る茶褐色の名湯「黄金の湯」に浸かり、極上の上州牛すき焼きに舌鼓を打つ至福の週末旅へ。
           </p>

@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '都心から85分の極上名湯！箱根湯本温泉の絶景大露天風呂＆客室露天名門宿×ふるさと納税完全攻略ガイド【2026年最新】天成園・おかだ・南風荘',
+  title: '都心から85分の極上名湯！箱根湯本温泉の絶景大露天風呂＆客室露天名門宿×ふるさと納税極上旅ガイド天成園・おかだ・南風荘',
   description: '小田急ロマンスカー直通！豊かな湯量と箱根十七湯の歴史を誇る箱根湯本温泉。「箱根湯本温泉 天成園」「箱根湯本温泉 ホテル おかだ」「箱根湯本温泉 ホテル南風荘」を、神奈川県箱根町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。全長17mの天空大露天風呂、13種の湯巡り、客室露天風呂付き客室で癒やしの温泉旅を。',
   keywords: ["2026年最新", "天成園", "おかだ", "南風荘", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-hakone-onsen-open-air-bath-stay/",
   },
   openGraph: {
-    title: '都心から85分の極上名湯！箱根湯本温泉の絶景大露天風呂＆客室露天名門宿×ふるさと納税完全攻略ガイド【2026年最新】天成園・おかだ・南風荘',
+    title: '都心から85分の極上名湯！箱根湯本温泉の絶景大露天風呂＆客室露天名門宿×ふるさと納税極上旅ガイド天成園・おかだ・南風荘',
     description: '小田急ロマンスカー直通！豊かな湯量と箱根十七湯の歴史を誇る箱根湯本温泉。「箱根湯本温泉 天成園」「箱根湯本温泉 ホテル おかだ」「箱根湯本温泉 ホテル南風荘」を、神奈川県箱根町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。全長17mの天空大露天風呂、13種の湯巡り、客室露天風呂付き客室で癒やしの温泉旅を。',
     url: 'https://croud-travel.pages.dev/furusato-tax-hakone-onsen-open-air-bath-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoHakoneOnsenOpenAirBathStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           全国屈指の超人気温泉地！箱根湯本温泉特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          都心から85分の極上名湯！箱根湯本温泉の絶景大露天風呂＆客室露天名門宿×ふるさと納税完全攻略ガイド【2026年最新】天成園・おかだ・南風荘
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">都心から85分の極上名湯！箱根湯本温泉の絶景大露天風呂＆客室露天名門宿×ふるさと納税極上旅ガイド天成園・おかだ・南風荘</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoHakoneOnsenOpenAirBathStayPage() {
               瀧の流れる庭園と、大自然に抱かれた天空大露天風呂が魅力な箱根湯本温泉の人気宿。
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “食事も温泉も大満足、庭の散策も楽しめた小学生と高齢者と宿泊しました。2回目です。食事、温泉、サービス全て満足です。お庭の散策も楽しめます。
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D84721%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoHakoneOnsenOpenAirBathStayPage() {
               ５本の源泉持ち、豊富な湯量、良質の温泉が楽しめる宿。展望大浴場、足湯、湯の里（特別優待）と種類も豊富
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “お寿司は絶品、ステーキは焼きたてが理想お寿司は美味しいですねステーキが作り置きではなく焼きたてが良いな ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D19684%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoHakoneOnsenOpenAirBathStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               花崗や青石をふんだんに用いた大浴場や露天風呂で箱根の自然を満喫　旬の味覚を揃えたお料理をご堪能下さい
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “露天風呂付き客室とサービスに大満足大大大満足の旅行でした。クーポン利用で安くなりとても助かりました。私たちは露天風呂付き客室が絶対条件。今回2回目なので部屋タイプはお任せにし、前回とは… ”
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '平泉・中尊寺金色堂の紅葉ライトアップ＆厳美渓郭公だんご！前沢牛・花巻温泉郷×ふるさと納税完全ガイド【2026年最新秋旅】岩手',
+  title: '平泉・中尊寺金色堂の紅葉ライトアップ＆厳美渓郭公だんご！前沢牛・花巻温泉郷×ふるさと納税厳選ガイド岩手',
   description: '10月下旬〜11月上旬に世界遺産の聖地が黄金色と深紅に染まる「岩手・平泉中尊寺」。月見坂から金色堂へと続く紅葉ライトアップや厳美渓の奇岩・空飛ぶ郭公だんご散策、花巻温泉郷の名宿「廣美亭」「佳松園」「鉛温泉 藤三旅館」で日本屈指の深さを誇る名物白猿の湯と最高峰・前沢牛ステーキを堪能。ふるさと納税で実質2,000円。',
   keywords: ["平泉", "中尊寺金色堂の紅葉ライトアップ", "厳美渓郭公だんご！前沢牛", "花巻温泉郷×ふるさと納税", "2026年最新秋旅", "岩手", "温泉宿"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-hiraizumi-chusonji-genbikei-autumn-stay/"
   },
   openGraph: {
-    title: '平泉・中尊寺金色堂の紅葉ライトアップ＆厳美渓郭公だんご！前沢牛・花巻温泉郷×ふるさと納税完全ガイド【2026年最新秋旅】岩手',
+    title: '平泉・中尊寺金色堂の紅葉ライトアップ＆厳美渓郭公だんご！前沢牛・花巻温泉郷×ふるさと納税厳選ガイド岩手',
     description: '10月下旬〜11月上旬に世界遺産の聖地が黄金色と深紅に染まる「岩手・平泉中尊寺」。月見坂から金色堂へと続く紅葉ライトアップや厳美渓の奇岩・空飛ぶ郭公だんご散策、花巻温泉郷の名宿「廣美亭」「佳松園」「鉛温泉 藤三旅館」で日本屈指の深さを誇る名物白猿の湯と最高峰・前沢牛ステーキを堪能。ふるさと納税で実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-hiraizumi-chusonji-genbikei-autumn-stay',
     siteName: '旅宿クラウド',
@@ -113,9 +113,7 @@ export default function FeatureArticlePage() {
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">
-            平泉・中尊寺金色堂の紅葉ライトアップ＆厳美渓郭公だんご！前沢牛・花巻温泉郷×ふるさと納税完全ガイド【2026年最新秋旅】岩手
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">平泉・中尊寺金色堂の紅葉ライトアップ＆厳美渓郭公だんご！前沢牛・花巻温泉郷×ふるさと納税厳選ガイド岩手</h1>
           <p className="text-sm md:text-lg text-stone-200 max-w-3xl mx-auto leading-relaxed">
             世界遺産・中尊寺の月見坂を彩る紅葉ライトアップと、花巻温泉郷で味わう極上前沢牛。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
           </p>

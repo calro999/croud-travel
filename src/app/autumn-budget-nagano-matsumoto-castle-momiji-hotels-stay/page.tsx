@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【松本】国宝松本城の秋紅葉と新そばを味わう！高コスパ格安ホテル5選',
+  title: '松本：国宝松本城の秋紅葉と新そばを味わう！高コスパ格安ホテル5選',
   description: '秋の松本城の黒漆とモミジのコントラスト、収穫を迎えた風味豊かな信州新そばを堪能！松本駅前や城下町でお得に泊まれる1泊4,000円台〜6,000円台の格安・高評価宿5選をご紹介。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetMatsumotoHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>漆黒の名城と紅葉・信州新そば巡り</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【松本】国宝松本城の紅葉と新そばを満喫！<br className="hidden sm:inline" />城下町散策に便利な格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「松本」国宝松本城の紅葉と新そばを満喫！<br className="hidden sm:inline" />城下町散策に便利な格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             北アルプスの山々を背景にそびえる国宝松本城と、内堀に映える鮮やかな紅葉。秋は香り高い「信州新そば」が解禁される絶好の旅シーズンです。駅前・城下町のアクセス抜群な良質ホテルを1泊4,000円〜6,000円台で厳選！
           </p>

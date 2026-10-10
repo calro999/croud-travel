@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【宇都宮駅前】日光紅葉前泊＆名物宇都宮餃子・大谷石地下宮殿！2,000円台〜泊まれる格安ホテル5選',
+  title: '宇都宮駅前：日光紅葉前泊＆名物宇都宮餃子・大谷石地下宮殿！2,000円台〜泊まれる格安ホテル5選',
   description: '日光・中禅寺湖の紅葉狩り前泊に最適！パリッとジューシーな宇都宮餃子食べ比べや大谷資料館の巨大地下空間。東北新幹線・JR宇都宮駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>日光中禅寺湖の紅葉前泊＆名物宇都宮餃子・大谷石地下宮殿</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【宇都宮駅前】日光紅葉前泊＆名物宇都宮餃子！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「宇都宮駅前」日光紅葉前泊＆名物宇都宮餃子！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             日光東照宮やいろは坂・中禅寺湖の鮮やかな紅葉ハイキングの拠点として抜群に便利な宇都宮。野菜たっぷりで何個でも食べられる名物「宇都宮餃子」の有名店ハシゴや、まるで地下神殿のような「大谷資料館」の幻想的空間。新幹線宇都宮駅周辺で2,000円台〜泊まれる優良ホテルを厳選。
           </p>

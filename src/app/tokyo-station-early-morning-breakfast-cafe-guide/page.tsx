@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tokyo-station-early-morning-breakfast-cafe-guide/" },
-  title: "【東京駅 早朝6時・7時オープンの朝食カフェ＆コインロッカー】夜行バス到着後のリフレッシュ完全ガイド",
+  title: "東京駅 早朝6時・7時オープンの朝食カフェ＆コインロッカー：夜行バス到着後のリフレッシュ厳選ガイド",
   description:
     "バスタ新宿や東京駅鍛冶橋駐車場に早朝到着した旅行者必見！朝6時台から開いている八重洲・丸の内の極上モーニング、グランスタの朝限定弁当、空いている早朝コインロッカー穴場と駅前朝風呂ホテル。",
   keywords: ["東京駅", "早朝6時", "7時オープンの朝食カフェ", "コインロッカー", "夜行バス到着後のリフレッシュ", "温泉宿", "宿泊予約"],
@@ -196,12 +196,7 @@ export default function TokyoStationEarlyMorningBreakfastPage() {
           <div className="inline-flex items-center gap-2 px-3.5 py-1 rounded-full bg-indigo-500/10 border border-indigo-500/30 text-indigo-300 text-xs font-semibold mb-4 tracking-wide">
             <span className="animate-pulse">☕</span> 鍛冶橋駐車場・八重洲口降車後の完全エスコート
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold text-white tracking-tight leading-snug mb-5">
-            【東京駅 早朝6時・7時オープンの朝食カフェ＆コインロッカー】
-            <span className="block text-indigo-400 mt-2 text-xl sm:text-3xl font-black">
-              夜行バス到着後のリフレッシュ完全ガイド
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold text-white tracking-tight leading-snug mb-5">「東京駅 早朝6時・7時オープンの朝食カフェ＆コインロッカー」 <span className="block text-indigo-400 mt-2 text-xl sm:text-3xl font-black"> 夜行バス到着後のリフレッシュ厳選ガイド </span></h1>
           <p className="text-slate-300 text-sm sm:text-base leading-relaxed mb-6">
             夜行高速バスで東京駅鍛冶橋駐車場やバスタ新宿へ早朝に到着した旅行者が真っ先に直面する
             「重い荷物をどこに預ける？」「スマホを充電できるカフェは？」「朝風呂でさっぱりしたい」という切実な悩みを全解決。

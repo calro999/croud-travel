@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            白馬八方尾根・北アルプス冠雪と山麓紅葉の「三段紅葉」＆日本屈指の強アルカリ美肌温泉ステイ
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">白馬八方尾根・北アルプス冠雪と山麓紅葉の「三段紅葉」＆日本屈指の強アルカリ美肌温泉ステイ</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             白銀の北アルプスと黄金の森が織りなす「三段紅葉」。強アルカリ美肌湯と信州秋の味覚に癒やされる贅沢時間。
           </p>

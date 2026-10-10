@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '日本百名城の石垣美と天守を望む城下町名門ホテル×ふるさと納税完全ガイド【2026年最新】松本城・姫路城・熊本城',
+  title: '日本百名城の石垣美と天守を望む城下町名門ホテル×ふるさと納税厳選ガイド松本城・姫路城・熊本城',
   description: '武士たちの誇りと築城技術の極致「日本屈指の名城」（長野・国宝松本城、兵庫・世界遺産姫路城、熊本・難攻不落の武者返し熊本城）。漆黒と白亜の対比、そびえ立つ天守閣を望む優雅な滞在。楽天ふるさと納税完全活用。',
   keywords: ["2026年最新", "松本城", "姫路城", "熊本城", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-famous-castles-stone-walls-stay/",
   },
   openGraph: {
-    title: '日本百名城の石垣美と天守を望む城下町名門ホテル×ふるさと納税完全ガイド【2026年最新】松本城・姫路城・熊本城',
+    title: '日本百名城の石垣美と天守を望む城下町名門ホテル×ふるさと納税厳選ガイド松本城・姫路城・熊本城',
     description: '武士たちの誇りと築城技術の極致「日本屈指の名城」（長野・国宝松本城、兵庫・世界遺産姫路城、熊本・難攻不落の武者返し熊本城）。漆黒と白亜の対比、そびえ立つ天守閣を望む優雅な滞在。楽天ふるさと納税完全活用。',
     url: 'https://croud-travel.pages.dev/furusato-tax-famous-castles-stone-walls-stay',
     siteName: '旅宿クラウド',
@@ -108,9 +108,7 @@ export default function FurusatoUpgradedPage() {
             <span>✨</span>
             <span>名城天守・城下町クラシック特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            日本百名城の石垣美と天守を望む城下町名門ホテル×ふるさと納税完全ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">日本百名城の石垣美と天守を望む城下町名門ホテル×ふるさと納税厳選ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             威風堂々とそびえ立つ天守閣と、何段にも積み上げられた壮大な武者返しの石垣。戦国から泰平の世へと移り変わる歴史を見届けてきた名城たち。北アルプスを借景とする漆黒の国宝「松本城」、白鷺が羽を広げたような優美さを誇る世界遺産「姫路城」、そして見事な復興を遂げた不落の巨城「熊本城」。城下町の歴史ある町並みを散策し、格式高い名門ホテルで贅沢な美食を味わうひととき。楽天ふるさと納税を活用して、日本の城郭美を愛でる極上の旅へ出かけましょう。
           </p>

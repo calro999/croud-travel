@@ -5,11 +5,11 @@ import { ChevronRight, Star, MapPin, Sparkles, Snowflake, Mountain, Award, HelpC
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【日本一早咲きの熱海梅園と冬海上花火】2026-2027年冬の熱海温泉！絶景オーシャンビュー露天＆金目鯛名宿5選',
+  title: '日本一早咲きの熱海梅園と冬海上花火：2026-2027年冬の熱海温泉！絶景オーシャンビュー露天＆金目鯛名宿5選',
   description: '日本一早咲きを誇る熱海梅園の梅まつりと冬の澄んだ夜空を彩る熱海海上花火大会！波打ち際の絶景露天風呂と脂が乗った冬の金目鯛煮付け会席を味わう熱海温泉の人気名旅館5選。',
   keywords: ['静岡県温泉', '熱海梅園', '熱海・伊豆', '冬の旅行', '温泉宿5選', '楽天トラベル', 'ふるさと納税'],
   openGraph: {
-    title: '【日本一早咲きの熱海梅園と冬海上花火】2026-2027年冬の熱海温泉！絶景オーシャンビュー露天＆金目鯛名宿5選',
+    title: '日本一早咲きの熱海梅園と冬海上花火：2026-2027年冬の熱海温泉！絶景オーシャンビュー露天＆金目鯛名宿5選',
     description: '日本一早咲きを誇る熱海梅園の梅まつりと冬の澄んだ夜空を彩る熱海海上花火大会！波打ち際の絶景露天風呂と脂が乗った冬の金目鯛煮付け会席を味わう熱海温泉の人気名旅館5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-atami-plum-garden-winter-fireworks-kinmedai-stay',
@@ -107,9 +107,7 @@ export default function WinterFeaturePage() {
               <Snowflake className="w-3.5 h-3.5" />
               <span>冬の厳選旅行特集（11月・12月・1月）</span>
             </div>
-            <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug">
-              【日本一早咲きの熱海梅園と冬海上花火】2026-2027年冬の熱海温泉！絶景オーシャンビュー露天＆金目鯛名宿5選
-            </h1>
+            <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug">「日本一早咲きの熱海梅園と冬海上花火」2026-2027年冬の熱海温泉！絶景オーシャンビュー露天＆金目鯛名宿5選</h1>
             <p className="text-sm md:text-base text-cyan-100/90 max-w-2xl mx-auto leading-relaxed">
               日本一早咲きを誇る熱海梅園の梅まつりと冬の澄んだ夜空を彩る熱海海上花火大会！波打ち際の絶景露天風呂と脂が乗った冬の金目鯛煮付け会席を味わう熱海温泉の人気名旅館5選。
             </p>

@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '本場名産地で味わう極上松茸尽くし会席＆焼き松茸・土瓶蒸しの名門温泉宿×ふるさと納税完全ガイド【2026年最新】信州別所・丹波篠山・京都湯の花',
+  title: '本場名産地で味わう極上松茸尽くし会席＆焼き松茸・土瓶蒸しの名門温泉宿×ふるさと納税厳選ガイド信州別所・丹波篠山・京都湯の花',
   description: '秋の最高峰の香りと歯ごたえを本場の名宿で堪能！日本有数の松茸産地・信州上田で創業百有余年の数寄屋美と松茸料理を誇る「別所温泉 かしわや本店」、最高峰ブランド丹波松茸とぼたん鍋で名高い創業四百年の老舗「丹波篠山 近又」、丹波の地松茸会席とオーストリアワイン・名湯に癒やされる「京都 湯の花温泉 すみや亀峰菴」。炭火焼き松茸、香り豊かな土瓶蒸し、松茸ご飯。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
   keywords: ["焼き松茸", "2026年最新", "信州別所", "丹波篠山", "京都湯の花", "温泉宿", "宿泊予約"],
   alternates: { canonical: baseUrl + '/furusato-tax-matsutake-autumn-gourmet-kaiseki-stay/' },
   openGraph: {
-    title: '本場名産地で味わう極上松茸尽くし会席＆焼き松茸・土瓶蒸しの名門温泉宿×ふるさと納税完全ガイド【2026年最新】信州別所・丹波篠山・京都湯の花',
+    title: '本場名産地で味わう極上松茸尽くし会席＆焼き松茸・土瓶蒸しの名門温泉宿×ふるさと納税厳選ガイド信州別所・丹波篠山・京都湯の花',
     description: '秋の最高峰の香りと歯ごたえを本場の名宿で堪能！日本有数の松茸産地・信州上田で創業百有余年の数寄屋美と松茸料理を誇る「別所温泉 かしわや本店」、最高峰ブランド丹波松茸とぼたん鍋で名高い創業四百年の老舗「丹波篠山 近又」、丹波の地松茸会席とオーストリアワイン・名湯に癒やされる「京都 湯の花温泉 すみや亀峰菴」。炭火焼き松茸、香り豊かな土瓶蒸し、松茸ご飯。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
     url: baseUrl + '/furusato-tax-matsutake-autumn-gourmet-kaiseki-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoMatsutakeAutumnGourmetStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             秋の味覚の王様・極上松茸尽くし会席宿特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            本場名産地で味わう極上松茸尽くし会席＆焼き松茸・土瓶蒸しの名門温泉宿×ふるさと納税完全ガイド【2026年最新】信州別所・丹波篠山・京都湯の花
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">本場名産地で味わう極上松茸尽くし会席＆焼き松茸・土瓶蒸しの名門温泉宿×ふるさと納税厳選ガイド信州別所・丹波篠山・京都湯の花</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             日本の秋の美食文化において、別格の存在感を放つ「秋の味覚の王様・松茸（まつたけ）」。お猪口に注いだ瞬間に立ちのぼる馥郁たる香りにうっとりする「土瓶蒸し」、炭火でじっくりと炙りすだちをキュッと絞っていただくジューシーな「焼き松茸」、サクッとした薄衣の中に瑞々しい香りを閉じ込めた「松茸の天ぷら」、そして蓋を開けた瞬間に歓声が上がる出汁香る「松茸ご飯」――その豊かな香りと独特の心地よい歯ごたえは、日本人の琴線を揺さぶる至高の味覚体験です。アカマツ林が広がり全国屈指の松茸の産地として名高い信州・別所温泉で創業百余年の歴史を誇る名門宿「かしわや本店」、松茸の最高峰として名高い丹波篠山で創業四百年の伝統を守り丹波松茸とジビエを極める「近又」、そして京都の奥座敷・亀岡で丹波の地松茸と名湯・オーストリアワインのマリアージュを提案する大人の隠れ宿「すみや亀峰菴」。秋のわずかな期間に予約が殺到する本場の松茸名旅館を、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を使って実質自己負担2,000円で賢く予約し、一生モノの秋の美食旅へ出かけましょう。
           </p>

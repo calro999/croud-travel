@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【越前がにと若狭ふぐ】日本海の冬春極上味覚！福井・あわら温泉と三方五湖の美食名湯宿5選",
+  title: "越前がにと若狭ふぐ：日本海の冬春極上味覚！福井・あわら温泉と三方五湖の美食名湯宿5選",
   description: "黄色いタグ付き最高級「越前がに」の茹でたてアツアツと、ぷりぷりの歯ごたえがたまらない「若狭ふぐ」！関西の奥座敷・あわら温泉の風情あふれる庭園旅館で、北陸最高峰の冬春グルメを堪能する旅。",
   keywords: "あわら温泉 カニ 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/spring-fukui-echizen-crab-seafood-stay/",
   },
   openGraph: {
-    title: "【越前がにと若狭ふぐ】日本海の冬春極上味覚！福井・あわら温泉と三方五湖の美食名湯宿5選",
+    title: "越前がにと若狭ふぐ：日本海の冬春極上味覚！福井・あわら温泉と三方五湖の美食名湯宿5選",
     description: "黄色いタグ付き最高級「越前がに」の茹でたてアツアツと、ぷりぷりの歯ごたえがたまらない「若狭ふぐ」！関西の奥座敷・あわら温泉の風情あふれる庭園旅館で、北陸最高峰の冬春グルメを堪能する旅。",
     url: 'https://croud-travel.pages.dev/spring-fukui-echizen-crab-seafood-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【越前がにと若狭ふぐ】日本海の冬春極上味覚！福井・あわら温泉と三方五湖の美食名湯宿5選",
+    title: "越前がにと若狭ふぐ：日本海の冬春極上味覚！福井・あわら温泉と三方五湖の美食名湯宿5選",
     description: "黄色いタグ付き最高級「越前がに」の茹でたてアツアツと、ぷりぷりの歯ごたえがたまらない「若狭ふぐ」！関西の奥座敷・あわら温泉の風情あふれる庭園旅館で、北陸最高峰の冬春グルメを堪能する旅。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>越前がに＆若狭ふぐ極上会席</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【越前がにと若狭ふぐ】日本海の冬春極上味覚！福井・あわら温泉と三方五湖の美食名湯宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「越前がにと若狭ふぐ」日本海の冬春極上味覚！福井・あわら温泉と三方五湖の美食名湯宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             黄色いタグ付き最高級「越前がに」の茹でたてアツアツと、ぷりぷりの歯ごたえがたまらない「若狭ふぐ」！関西の奥座敷・あわら温泉の風情あふれる庭園旅館で、北陸最高峰の冬春グルメを堪能する旅。
           </p>

@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nikko-autumn-leaves-lightup-guide/" },
-  title: "【日光・いろは坂 紅葉2026見頃完全マップ】大渋滞回避の時間帯・中禅寺湖ライトアップ＆奥日光硫黄泉の宿 ｜ 日本全国・旅宿クラウド",
+  title: "日光・いろは坂 紅葉2026見頃完全マップ：大渋滞回避の時間帯・中禅寺湖ライトアップ＆奥日光硫黄泉の宿 ｜ 日本全国・旅宿クラウド",
   description:
     "2026年秋の日光紅葉狩り完全攻略！いろは坂・明智平・竜頭の滝・湯ノ湖の見頃時期（10月上旬〜11月上旬）、早朝6時通過で大渋滞を回避する裏ワザ、中禅寺湖畔の乳白色硫黄泉旅館まとめ。",
   keywords: ["日光", "いろは坂", "紅葉2026見頃完全マップ", "大渋滞回避の時間帯", "中禅寺湖ライトアップ", "奥日光硫黄泉の宿", "温泉宿"],
@@ -164,10 +164,7 @@ export default function NikkoAutumnLeavesGuidePage() {
             </span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight sm:leading-snug mb-6 text-white drop-shadow">
-            【日光・いろは坂 紅葉2026見頃完全マップ】<br className="hidden sm:inline" />
-            <span className="text-amber-400">大渋滞回避の時間帯</span>・中禅寺湖ライトアップ＆奥日光硫黄泉の宿
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight sm:leading-snug mb-6 text-white drop-shadow">「日光・いろは坂 紅葉2026見頃完全マップ」<br className="hidden sm:inline" /> <span className="text-amber-400">大渋滞回避の時間帯</span>・中禅寺湖ライトアップ＆奥日光硫黄泉の宿</h1>
 
           <p className="text-sm sm:text-lg text-amber-100/90 leading-relaxed max-w-3xl mb-8">
             カエデやモミジ、カラマツが標高1,500mの湯ノ湖から世界遺産・日光東照宮まで約1ヶ月半かけて山を駆け下りる日本屈指の錦秋スペクタクル。

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/forest-private-sauna-spring-water-retreat-stay/" },
-  title: "【森のプライベートサウナ＆天然湧水水風呂宿】完全貸切・バレルサウナ＆外気浴 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "森のプライベートサウナ＆天然湧水水風呂宿：完全貸切・バレルサウナ＆外気浴 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "究極のととのい体験・サウナ特化型温泉宿完全特化！客室専用バレルサウナ、セルフロウリュ、富士山やアルプスの天然水掛け流し水風呂、森のインフィニティチェア外気浴、アウフグース体験宿を徹底解説。",
   keywords: ["森のプライベートサウナ", "天然湧水水風呂宿", "完全貸切", "バレルサウナ", "外気浴", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function WellnessRetreatHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             PRIVATE SAUNA & SPRING WATER GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【森のプライベートサウナ＆天然湧水水風呂宿】完全貸切・バレルサウナ＆外気浴 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「森のプライベートサウナ＆天然湧水水風呂宿」完全貸切・バレルサウナ＆外気浴 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             誰にも邪魔されず、森の薫りに包まれて「究極のととのい」へ！客室専用の木製バレルサウナやフィンランド式サウナ。白樺のアロマ水でセルフロウリュ、湧き出る天然水水風呂へダイブ。満天の星の下で風に吹かれる至福のリトリート。
           </p>

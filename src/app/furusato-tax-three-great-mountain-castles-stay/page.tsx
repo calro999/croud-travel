@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-mountain-castles-stay/" },
-  title: '日本三大山城＆天空の要塞・雲海に浮かぶ石垣美ホテル宿×ふるさと納税完全ガイド【2026年最新】大和高取城・美濃岩村城・備中松山城',
+  title: '日本三大山城＆天空の要塞・雲海に浮かぶ石垣美ホテル宿×ふるさと納税厳選ガイド大和高取城・美濃岩村城・備中松山城',
   description: '雲海に浮かぶ天空の要塞！奈良「大和高取城」日本一の比高390mとカンデオホテルズ奈良橿原、岐阜恵那「美濃岩村城」標高717m日本一高い山城と天然温泉岩寿荘、岡山高梁「備中松山城」現存天守唯一の山城と吉備高原リゾートホテル。日本三大山城の壮大な石垣群と雲海パノラマを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大山城・天空の要塞特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大山城＆天空の要塞・雲海に浮かぶ石垣美ホテル宿×ふるさと納税完全ガイド【2026年最新】大和高取城・美濃岩村城・備中松山城',
+    title: '日本三大山城＆天空の要塞・雲海に浮かぶ石垣美ホテル宿×ふるさと納税厳選ガイド大和高取城・美濃岩村城・備中松山城',
     description: '雲海に浮かぶ天空の要塞！奈良「大和高取城」日本一の比高390mとカンデオホテルズ奈良橿原、岐阜恵那「美濃岩村城」標高717m日本一高い山城と天然温泉岩寿荘、岡山高梁「備中松山城」現存天守唯一の山城と吉備高原リゾートホテル。日本三大山城の壮大な石垣群と雲海パノラマを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-mountain-castles-stay',
@@ -155,9 +155,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大山城・天空の要塞特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大山城＆天空の雲海要塞宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大山城＆天空の雲海要塞宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             戦国から江戸初期にかけて標高数百メートルの山上に築かれ、天険の要害と驚異の石垣土木技術を今に伝える「日本三大山城」――城下町との比高が約390mと日本一を誇り「南郷に雪降るかと見れば雪ではござらぬ高取の城。」と謳われた奈良の「大和高取城」、標高717mに位置し日本一高い場所にある山城として六段壁の石垣美と女城主の哀話が残る岐阜恵那の「美濃岩村城」、そして標高430mの臥牛山頂に現存12天守の中で唯一現存する山城天守を持ち秋冬の早朝には見事な雲海に浮かぶ岡山の「備中松山城」。鬱蒼とした森の中に突然現れる巨大な石垣の遺構は、中世武士たちの執念とロマンを肌で感じさせます。山麓のホテルや隠れ家温泉旅館を拠点に、早朝の雲海展望台アタックや飛鳥・美濃・備中の郷土料理を味わう特別な休日を楽天ふるさと納税でお楽しみください。
           </p>

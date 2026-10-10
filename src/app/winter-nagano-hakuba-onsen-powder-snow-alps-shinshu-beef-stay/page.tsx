@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月白馬山麓温泉】白銀連峰望む露天！名宿5選',
+  title: '白馬山麓温泉で過ごす冬の旅（11・12月）！白銀連峰望む露天！名宿5選',
   description: '11月下旬から12月にかけて北アルプスの名峰・白馬連峰が純白の雪を纏い、世界中からスキーヤーや旅人が集う国際山岳リゾート・長野県「白馬村」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '白馬温泉 宿泊, 白馬 11月 12月, 白馬八方温泉, 白馬東急ホテル, 白馬ハイランドホテル, コートヤード白馬, 白馬樅の木ホテル, シェラリゾート白馬, 信州プレミアム牛, 信州サーモン, 北アルプス 雪見露天, 長野 温泉 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay/",
   },
   openGraph: {
-    title: '【11・12月白馬山麓温泉】白銀連峰望む露天！名宿5選',
+    title: '白馬山麓温泉で過ごす冬の旅（11・12月）！白銀連峰望む露天！名宿5選',
     description: '11月下旬から12月にかけて北アルプスの名峰・白馬連峰が純白の雪を纏い、世界中からスキーヤーや旅人が集う国際山岳リゾート・長野県「白馬村」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月白馬山麓温泉の初雪パウダースノーと北アルプス絶景】白銀連峰望む露天・pH11高アルカリ美肌湯と極上信州牛＆信州サーモン会席の宿5選",
+    title: "白馬山麓温泉の初雪パウダースノーと北アルプス絶景で過ごす冬の旅（11・12月）！白銀連峰望む露天・pH11高アルカリ美肌湯と極上信州牛＆信州サーモン会席の宿5選",
     description: "11月下旬から12月にかけて北アルプスの名峰・白馬連峰が純白の雪を纏い、世界中からスキーヤーや旅人が集う国際山岳リゾート・長野県「白馬村」。日本屈指の水素イオン濃度pH11.2以上を誇る強アルカリ性美肌名湯「白馬八方温泉」や、3,000m級の白銀パノラマを仰ぐ絶景露天風呂、暖炉の火が揺らぐヨーロッパ調のクラシックホテル、厳しい寒さを越えて旨味を凝縮させた極上「信州プレミアム牛」ステーキや清流「信州サーモン」会席を堪能する名宿5選を徹底解説。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80'],
   }
@@ -298,10 +298,7 @@ export default function HakubaOnsenWinterPage() {
             <Snowflake className="w-4 h-4 text-blue-400" />
             <span>11月・12月限定 白銀の北アルプス開闢 pH11超高アルカリ美肌露天と信州牛</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月白馬山麓温泉の初雪パウダースノーと北アルプス絶景】<br className="hidden sm:inline" />
-            白銀連峰望む露天・pH11高アルカリ美肌湯と極上信州牛＆信州サーモン会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">白馬山麓温泉の初雪パウダースノーと北アルプス絶景で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 白銀連峰望む露天・pH11高アルカリ美肌湯と極上信州牛＆信州サーモン会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-slate-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             北アルプスの名峰・白馬三山が純白の雪を纏う冬の始まり。pH11.2を誇る日本随一の強アルカリ美肌湯、暖炉の火が揺らぐヨーロッパ調山岳リゾート、とろける信州プレミアム牛と信州サーモンに舌鼓を打つ極上の休日。
           </p>

@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-scenic-train-trolley-onsen-stay/" },
-  title: '【絶景観光列車×ふるさと納税】トロッコ列車＆ローカル線途中下車で巡る名湯温泉旅館ガイド | クラウドトラベル',
+  title: '絶景観光列車をふるさと納税でお得に旅する！トロッコ列車＆ローカル線途中下車で巡る名湯温泉旅館ガイド | クラウドトラベル',
   description: '車窓を流れる渓谷美・雪景色とお座敷列車！黒部峡谷トロッコ電車、わたらせ渓谷鐵道、只見線の途中下車名湯宿を厳選。切符を握りしめて向かう大人の絶景鉄道旅をふるさと納税でお得に実現。',
   openGraph: {
-    title: '【絶景観光列車×ふるさと納税】トロッコ列車＆ローカル線途中下車で巡る名湯温泉旅館ガイド | クラウドトラベル',
+    title: '絶景観光列車をふるさと納税でお得に旅する！トロッコ列車＆ローカル線途中下車で巡る名湯温泉旅館ガイド | クラウドトラベル',
     description: '車窓を流れる渓谷美・雪景色とお座敷列車！黒部峡谷トロッコ電車、わたらせ渓谷鐵道、只見線の途中下車名湯宿を厳選。切符を握りしめて向かう大人の絶景鉄道旅をふるさと納税でお得に実現。',
     type: 'article',
   },
@@ -59,9 +59,7 @@ export default function Page() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             ふるさと納税×絶景観光列車・ローカル線鉄道旅
           </div>
-          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            【絶景観光列車×ふるさと納税】トロッコ列車＆ローカル線途中下車で巡る名湯温泉旅館ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">絶景観光列車をふるさと納税でお得に旅する！トロッコ列車＆ローカル線途中下車で巡る名湯温泉旅館ガイド</h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl mb-6">
             新幹線や飛行機でのスピード移動とは異なり、あえて時間をかけて美しい日本の原風景を巡る「観光列車・ローカル鉄道の旅」。窓のないオープンデッキから渓谷の風を浴びる富山・黒部峡谷のトロッコ電車、渡良瀬川の清流と紅葉を縫うように走る群馬・わたらせ渓谷鐵道、そして世界一ロマンチックな鉄道と称される福島・只見線。のんびりとレールに揺られながら駅弁をつまみ、地元の酒蔵のワンカップを傾ける時間は、何物にも代えがたい大人の贅沢です。そして旅のハイライトは、沿線の途中下車駅や終着駅に湧く名湯温泉宿。楽天ふるさと納税のトラベルクーポンを活用すれば、鉄道旅の拠点となる老舗旅館や渓谷沿いの絶景露天風呂宿に実質30％割引でステイ可能。切符を握りしめて出かける、どこか懐かしく温かな鉄道温泉紀行へご案内します。
           </p>

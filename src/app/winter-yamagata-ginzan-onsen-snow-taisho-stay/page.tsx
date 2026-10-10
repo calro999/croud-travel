@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月銀山温泉】白銀の温泉街に灯るガス灯と尾花沢牛会席！名宿5選',
+  title: '銀山温泉で過ごす冬の旅（11・12月）！白銀の温泉街に灯るガス灯と尾花沢牛会席！名宿5選',
   description: '11月下旬の初雪から12月の白銀世界へと移ろう山形・銀山温泉。銀山川沿いに立ち並ぶ大正ロマンの木造多層建築と、黄昏時に灯る温かなガス灯。雪景色を眺めながらの名湯三昧と、最高峰の黒毛和牛「雪降り和牛尾花沢」を味わう極上の冬旅ガイド。',
   keywords: '銀山温泉 宿泊 11月 12月, 銀山温泉 雪景色 旅館, 尾花沢牛 温泉 宿, 銀山温泉 大正ロマン 冬, 山形 雪見温泉, 銀山温泉 ガス灯, 銀山温泉 モデルコース',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamagata-ginzan-onsen-snow-taisho-stay/",
   },
   openGraph: {
-    title: '【11・12月銀山温泉】白銀の温泉街に灯るガス灯と尾花沢牛会席！名宿5選',
+    title: '銀山温泉で過ごす冬の旅（11・12月）！白銀の温泉街に灯るガス灯と尾花沢牛会席！名宿5選',
     description: '11月下旬の初雪から12月の白銀世界へと移ろう山形・銀山温泉。銀山川沿いに立ち並ぶ大正ロマンの木造多層建築と、黄昏時に灯る温かなガス灯。雪景色を眺めながらの名湯三昧と、最高峰の黒毛和牛「雪降り和牛尾花沢」を味わう極上の冬旅ガイド。',
     url: 'https://croud-travel.pages.dev/winter-yamagata-ginzan-onsen-snow-taisho-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月銀山温泉の初雪と大正浪漫】白銀の温泉街に灯るガス灯と尾花沢牛会席・極上雪見宿5選",
+    title: "銀山温泉の初雪と大正浪漫で過ごす冬の旅（11・12月）！白銀の温泉街に灯るガス灯と尾花沢牛会席・極上雪見宿5選",
     description: "11月下旬の初雪から12月の白銀世界へと移ろう山形・銀山温泉。銀山川沿いに立ち並ぶ大正ロマンの木造多層建築と、黄昏時に灯る温かなガス灯。雪景色を眺めながらの名湯三昧と、最高峰の黒毛和牛「雪降り和牛尾花沢」を味わう極上の冬旅ガイド。",
   }
 };
@@ -266,10 +266,7 @@ export default function GinzanWinterPage() {
             <Sparkles className="w-4 h-4 text-amber-300" />
             <span>11月・12月限定 冬の東北名湯特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月銀山温泉の初雪と大正浪漫】<br className="hidden sm:inline" />
-            白銀の温泉街に灯るガス灯と尾花沢牛会席・極上雪見宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">銀山温泉の初雪と大正浪漫で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 白銀の温泉街に灯るガス灯と尾花沢牛会席・極上雪見宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             しんしんと降り積もる初雪が、銀山川沿いの木造三層四層の旅館群を白く染め上げる。黄昏の藍色の空に灯るオレンジ色のガス灯、湯けむり立ち上る雪見露天、そしてとろける極上の尾花沢牛に酔いしれる至高の冬宵へ。
           </p>

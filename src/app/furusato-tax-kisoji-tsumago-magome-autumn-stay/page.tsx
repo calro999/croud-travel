@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            中山道・木曽路（妻籠宿・馬籠宿）秋の街道歩き紅葉＆木曽駒高原の美肌温泉・信州木曽牛
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">中山道・木曽路（妻籠宿・馬籠宿）秋の街道歩き紅葉＆木曽駒高原の美肌温泉・信州木曽牛</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             江戸の面影残す妻籠・馬籠の石畳を彩る秋の木々。木曽ヒノキ香る名湯と信州木曽牛の滋味に満たされる旅。
           </p>

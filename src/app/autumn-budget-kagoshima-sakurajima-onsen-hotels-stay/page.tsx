@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【鹿児島】桜島一望と黒豚しゃぶしゃぶを満喫！秋の温泉・高コスパ格安宿5選',
+  title: '鹿児島：桜島一望と黒豚しゃぶしゃぶを満喫！秋の温泉・高コスパ格安宿5選',
   description: '秋の鹿児島旅を満喫する格安＆高コスパな温泉・ビジネスホテル厳選5選！桜島の雄大な絶景や名物黒豚しゃぶしゃぶ、天然温泉を1人1泊3,000円台〜5,000円台でお得に楽しむ滞在プランをご案内。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>秋の南国グルメ＆天然温泉・格安厳選</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【鹿児島】桜島ビューと黒豚しゃぶしゃぶ！<br className="hidden sm:inline" />秋の味覚＆天然温泉を味わう格安宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「鹿児島」桜島ビューと黒豚しゃぶしゃぶ！<br className="hidden sm:inline" />秋の味覚＆天然温泉を味わう格安宿5選</h1>
           <p className="text-sm md:text-base text-teal-100/90 max-w-2xl mx-auto leading-relaxed">
             錦江湾にそびえる桜島の勇姿、本場で味わう甘みたっぷりの黒豚しゃぶしゃぶやきびなご。南国鹿児島の豊かな秋を、1人3,000円〜6,000円台の圧倒的コスパで堪能できるクチコミ高評価ホテルを厳選しました。
           </p>

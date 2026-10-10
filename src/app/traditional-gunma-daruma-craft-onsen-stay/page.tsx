@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】福を呼ぶ伝統工芸体験！高崎だるま絵付け＆伊香保石段街・黄金の湯の名旅館5選 | 日本全国・旅宿クラウド',
+  title: '2026年：福を呼ぶ伝統工芸体験！高崎だるま絵付け＆伊香保石段街・黄金の湯の名旅館5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！縁起物の高崎だるま絵付け体験！365段の伊香保温泉石段街散策と茶褐色の名湯「黄金の湯」掛け流し、上州牛会席を満喫する群馬の名宿5選。',
   keywords: ["2026年", "伊香保石段街", "黄金の湯の名旅館5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: '【2026年】福を呼ぶ伝統工芸体験！高崎だるま絵付け＆伊香保石段街・黄金の湯の名旅館5選',
+    title: '2026年：福を呼ぶ伝統工芸体験！高崎だるま絵付け＆伊香保石段街・黄金の湯の名旅館5選',
     description: '2026年最新！縁起物の高崎だるま絵付け体験！365段の伊香保温泉石段街散策と茶褐色の名湯「黄金の湯」掛け流し、上州牛会席を満喫する群馬の名宿5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/traditional-gunma-daruma-craft-onsen-stay',
@@ -193,9 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> 高崎だるま体験×伊香保石段街黄金の湯
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】福を呼ぶ伝統工芸体験！高崎だるま絵付け＆伊香保石段街・黄金の湯の名旅館5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」福を呼ぶ伝統工芸体験！高崎だるま絵付け＆伊香保石段街・黄金の湯の名旅館5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             自分だけの願いを込めて目入れをする伝統の「高崎だるま」絵付け体験。浴衣に下駄を鳴らして365段の伊香保石段街を散策し、独特の茶褐色が特徴の歴史ある名湯「黄金の湯」と極上上州牛会席に癒やされる群馬の情緒旅。
           </p>

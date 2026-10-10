@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月法師温泉】三国峠の秘湯雪景色！名宿5選',
+  title: '法師温泉で過ごす冬の旅（11・12月）！三国峠の秘湯雪景色！名宿5選',
   description: '11月中旬から初雪の知らせが届く群馬・新潟県境の三国峠。谷川連峰の裾野、ブナの原生林に抱かれた法師川のほとりに湧く法師温泉と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '法師温泉 宿泊, 猿ヶ京温泉 旅館, 法師温泉 長寿館, 法師乃湯, ル・ヴァンベール 湖郷, 猿ヶ京ホテル, 仁田屋旅館, 三国峠 温泉, 足元湧出, 上州牛 すき焼き, 豆富懐石, 11月 12月 群馬温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-gunma-houshi-sarugakyo-onsen-snow-joshu-beef-stay/"
   },
   openGraph: {
-    title: '【11・12月法師温泉】三国峠の秘湯雪景色！名宿5選',
+    title: '法師温泉で過ごす冬の旅（11・12月）！三国峠の秘湯雪景色！名宿5選',
     description: '11月中旬から初雪の知らせが届く群馬・新潟県境の三国峠。谷川連峰の裾野、ブナの原生林に抱かれた法師川のほとりに湧く法師温泉と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-gunma-houshi-sarugakyo-onsen-snow-joshu-beef-stay',
     siteName: 'クラドトラベル',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月群馬・法師温泉＆猿ヶ京温泉】三国峠の秘湯雪景色・足元湧出「法師乃湯」と赤谷湖畔・極上面上州牛すき焼きを堪能する名宿5選",
+    title: "群馬・法師温泉＆猿ヶ京温泉で過ごす冬の旅（11・12月）！三国峠の秘湯雪景色・足元湧出「法師乃湯」と赤谷湖畔・極上面上州牛すき焼きを堪能する名宿5選",
     description: "11月中旬から初雪の知らせが届く群馬・新潟県境の三国峠。谷川連峰の裾野、ブナの原生林に抱かれた法師川のほとりに湧く法師温泉と、静謐な赤谷湖を取り囲む猿ヶ京温泉は、冬の気配とともに澄み切った静けさに包まれます。明治時代に建築された国登録有形文化財の湯屋「法師乃湯」では、敷き詰められた玉石の隙間から自然湧出する純度100%の硫酸塩泉が身体を芯から温め、川端康成や与謝野晶子ら文豪が愛した古き良き日本の湯治情情を今に伝えます。湖畔の猿ヶ京温泉では、赤谷湖の初冬の湖面を望む雪見露天風呂とともに、上州の大地が育んだ極上霜降り「上州牛」のすき焼きや陶板ステーキ、上州麦豚のしゃぶしゃぶ、湧水で作る手作り豆富懐石など、寒さを忘れさせる滋味あふれる郷土会席が旅人を迎えます。初冬の静寂と白銀の絶景を愉しむ厳選名宿5選を徹底解説します。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -337,10 +337,7 @@ export default function GunmaHoushiSarugakyoPage() {
             <Snowflake className="w-4 h-4 text-amber-300" />
             11月・12月 群馬の冬温泉特集 ｜ 三国峠・法師温泉＆猿ヶ京温泉
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            白銀の三国峠と足元湧出「法師乃湯」<br />
-            赤谷湖畔で味わう極上面上州牛すき焼き名宿
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">白銀の三国峠と足元湧出「法師乃湯」<br /> 赤谷湖畔で味わう極上面上州牛すき焼き名宿</h1>
           <p className="text-stone-300 text-sm sm:text-base max-w-2xl mx-auto leading-relaxed pt-2">
             川端康成や与謝野晶子が心奪われた明治建築の秘湯「法師温泉」と、静寂の湖畔に湯けむりが舞う「猿ヶ京温泉」。初雪舞う三国峠の厳選名宿5選。
           </p>

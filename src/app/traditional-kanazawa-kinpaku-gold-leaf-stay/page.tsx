@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【金沢金箔エステ＆加賀会席】純金箔の贅沢スパ体験と山中・山代・粟津温泉の名宿5選",
+  title: "金沢金箔エステ＆加賀会席：純金箔の贅沢スパ体験と山中・山代・粟津温泉の名宿5選",
   description: "金沢が誇る伝統工芸「金箔」を贅沢に使った黄金の金箔フェイシャルエステ＆金箔酒！開湯1300年の歴史を誇る加賀温泉郷（山中・山代・粟津）で、九谷焼の器で味わう極上加賀会席と名湯に浸る贅沢旅。",
   keywords: "加賀温泉 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/traditional-kanazawa-kinpaku-gold-leaf-stay/",
   },
   openGraph: {
-    title: "【金沢金箔エステ＆加賀会席】純金箔の贅沢スパ体験と山中・山代・粟津温泉の名宿5選",
+    title: "金沢金箔エステ＆加賀会席：純金箔の贅沢スパ体験と山中・山代・粟津温泉の名宿5選",
     description: "金沢が誇る伝統工芸「金箔」を贅沢に使った黄金の金箔フェイシャルエステ＆金箔酒！開湯1300年の歴史を誇る加賀温泉郷（山中・山代・粟津）で、九谷焼の器で味わう極上加賀会席と名湯に浸る贅沢旅。",
     url: 'https://croud-travel.pages.dev/traditional-kanazawa-kinpaku-gold-leaf-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【金沢金箔エステ＆加賀会席】純金箔の贅沢スパ体験と山中・山代・粟津温泉の名宿5選",
+    title: "金沢金箔エステ＆加賀会席：純金箔の贅沢スパ体験と山中・山代・粟津温泉の名宿5選",
     description: "金沢が誇る伝統工芸「金箔」を贅沢に使った黄金の金箔フェイシャルエステ＆金箔酒！開湯1300年の歴史を誇る加賀温泉郷（山中・山代・粟津）で、九谷焼の器で味わう極上加賀会席と名湯に浸る贅沢旅。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>金沢金箔＆加賀会席名湯</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【金沢金箔エステ＆加賀会席】純金箔の贅沢スパ体験と山中・山代・粟津温泉の名宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「金沢金箔エステ＆加賀会席」純金箔の贅沢スパ体験と山中・山代・粟津温泉の名宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             金沢が誇る伝統工芸「金箔」を贅沢に使った黄金の金箔フェイシャルエステ＆金箔酒！開湯1300年の歴史を誇る加賀温泉郷（山中・山代・粟津）で、九谷焼の器で味わう極上加賀会席と名湯に浸る贅沢旅。
           </p>

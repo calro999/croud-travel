@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '日本三大花火大会の特等席と快適眺望ホテル×ふるさと納税完全ガイド【2026年最新】大曲・長岡・土浦',
+  title: '日本三大花火大会の特等席と快適眺望ホテル×ふるさと納税厳選ガイド大曲・長岡・土浦',
   description: '夜空を揺るがす光と音の饗宴「日本三大花火大会」（秋田・大曲の花火、新潟・長岡まつり大花火大会、茨城・土浦全国花火競技大会）。内閣総理大臣賞を競う最高峰の煙火芸術や復興祈願フェニックス花火。楽天ふるさと納税完全活用。',
   keywords: ["2026年最新", "大曲", "長岡", "土浦", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-fireworks-resort-stay/",
   },
   openGraph: {
-    title: '日本三大花火大会の特等席と快適眺望ホテル×ふるさと納税完全ガイド【2026年最新】大曲・長岡・土浦',
+    title: '日本三大花火大会の特等席と快適眺望ホテル×ふるさと納税厳選ガイド大曲・長岡・土浦',
     description: '夜空を揺るがす光と音の饗宴「日本三大花火大会」（秋田・大曲の花火、新潟・長岡まつり大花火大会、茨城・土浦全国花火競技大会）。内閣総理大臣賞を競う最高峰の煙火芸術や復興祈願フェニックス花火。楽天ふるさと納税完全活用。',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-fireworks-resort-stay',
     siteName: '旅宿クラウド',
@@ -108,9 +108,7 @@ export default function FurusatoUpgradedPage() {
             <span>✨</span>
             <span>日本三大花火・光と音の特等席特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            日本三大花火大会の特等席と快適眺望ホテル×ふるさと納税完全ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">日本三大花火大会の特等席と快適眺望ホテル×ふるさと納税厳選ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             一瞬の輝きに魂を込める花火師たちの技術の粋と、夜空いっぱいに広がる大輪の火の華「日本三大花火大会」。全国の精鋭が覇を競う「大曲の花火」、信濃川の夜空に打ち上がる大迫力の正三尺玉とフェニックス「長岡花火」、秋風の中で繰り広げられる煙火競技の最高峰「土浦花火」。胸の奥まで響く重低音と煌めく光のシャワーに心を奪われる至福の夜。楽天ふるさと納税の宿泊クーポンを駆使して、日本の夏の風物詩を快適に味わうプレミアムステイをお楽しみください。
           </p>

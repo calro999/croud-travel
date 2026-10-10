@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '穏やかな海と多島美に癒やされる瀬戸内アイランドリゾート名宿×ふるさと納税完全ガイド【2026年最新】小豆島・鞆の浦・生口島',
+  title: '穏やかな海と多島美に癒やされる瀬戸内アイランドリゾート名宿×ふるさと納税厳選ガイド小豆島・鞆の浦・生口島',
   description: '鏡のように穏やかな青い海、点在する島々のシルエット、心地よい潮風。東洋のエーゲ海と称される瀬戸内海の極上リゾートを厳選！潮の満ち引きで現れるエンジェルロードが目の前の「小豆島国際ホテル」、仙酔島と弁天島を望む全室温泉露天風呂付き大人の隠れ家「鞆の浦温泉 汀邸 遠音近音」、しまなみ海道・生口島の豪商屋敷を再生した世界的ラグジュアリー旅館「Azumi Setoda」。オリーブ牛や鯛・タコなど瀬戸内の美食とともに、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
   keywords: ["2026年最新", "小豆島", "鞆の浦", "生口島", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: { canonical: baseUrl + '/furusato-tax-setouchi-island-luxury-ocean-resort-stay/' },
   openGraph: {
-    title: '穏やかな海と多島美に癒やされる瀬戸内アイランドリゾート名宿×ふるさと納税完全ガイド【2026年最新】小豆島・鞆の浦・生口島',
+    title: '穏やかな海と多島美に癒やされる瀬戸内アイランドリゾート名宿×ふるさと納税厳選ガイド小豆島・鞆の浦・生口島',
     description: '鏡のように穏やかな青い海、点在する島々のシルエット、心地よい潮風。東洋のエーゲ海と称される瀬戸内海の極上リゾートを厳選！潮の満ち引きで現れるエンジェルロードが目の前の「小豆島国際ホテル」、仙酔島と弁天島を望む全室温泉露天風呂付き大人の隠れ家「鞆の浦温泉 汀邸 遠音近音」、しまなみ海道・生口島の豪商屋敷を再生した世界的ラグジュアリー旅館「Azumi Setoda」。オリーブ牛や鯛・タコなど瀬戸内の美食とともに、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
     url: baseUrl + '/furusato-tax-setouchi-island-luxury-ocean-resort-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoSetouchiIslandResortStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             瀬戸内多島美＆絶景アイランドリゾート特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            穏やかな海と多島美に癒やされる瀬戸内アイランドリゾート名宿×ふるさと納税完全ガイド【2026年最新】小豆島・鞆の浦・生口島
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">穏やかな海と多島美に癒やされる瀬戸内アイランドリゾート名宿×ふるさと納税厳選ガイド小豆島・鞆の浦・生口島</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             本州と四国に抱かれた瀬戸内海は、世界でも類を見ない穏やかな波と大小無数の島々が織りなす「多島美（たとうび）」の絶景エリア。温暖な気候と豊かなオリーブ畑、レモン畑が広がり、まるで地中海のリゾートを訪れたかのような心地よい開放感に満ちています。1日2回の干潮時にだけ海の中から砂の道が現れる奇跡の絶景「エンジェルロード」に隣接し全室オーシャンビューを誇る香川県「小豆島国際ホテル」、万葉の昔から潮待ちの港として栄え、坂本龍馬ゆかりの鞆の浦で仙酔島を望み全室露天風呂を備える広島県「汀邸 遠音近音」、そしてアマンの創業者エイドリアン・ゼッカ氏が手掛け、瀬戸田の製塩豪商・堀内家の旧邸宅を洗練された美意識で蘇らせた世界最高峰の宿「Azumi Setoda」。瀬戸内海の豊かな海の幸やオリーブ牛、柑橘類を味わいながら過ごす滞在は、日常の喧騒で疲れた心を優しく包み込んでくれます。人気の瀬戸内ラグジュアリー宿に、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期間3年）を使って実質2,000円で滞在し、心豊かな島時間を体験しましょう。
           </p>

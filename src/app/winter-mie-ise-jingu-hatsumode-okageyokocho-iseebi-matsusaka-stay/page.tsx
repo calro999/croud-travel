@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月三重】冬の極上伊勢海老！名宿5選',
+  title: '11・12・1月三重：冬の極上伊勢海老！名宿5選',
   description: '11月から1月、日本人の心の故郷・伊勢神宮（内宮・外宮）は凛とした神聖な冬の静寂に包まれます。五十鈴川に立ち込める幻想的な朝霧。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '伊勢神宮 初詣, 内宮 外宮, おかげ横丁 食べ歩き, 五十鈴川 朝霧, 冬至の日の出 宇治橋, いにしえの宿 伊久, 伊勢外宮参道 伊勢神泉, ホテルキャッスルイン伊勢夫婦岩, 三交イン伊勢市駅前, 伊勢シティホテル, 冬 伊勢海老, 松阪牛 すき焼き, 11月 12月 1月 三重旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay/"
   },
   openGraph: {
-    title: '【11・12・1月三重】冬の極上伊勢海老！名宿5選',
+    title: '11・12・1月三重：冬の極上伊勢海老！名宿5選',
     description: '11月から1月、日本人の心の故郷・伊勢神宮（内宮・外宮）は凛とした神聖な冬の静寂に包まれます。五十鈴川に立ち込める幻想的な朝霧。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月三重】伊勢神宮新春初詣とおかげ横丁・五十鈴川の朝霧と神域参拝・冬の極上伊勢海老＆松阪牛会席を味わう伊勢名宿5選",
+    title: "11・12・1月三重：伊勢神宮新春初詣とおかげ横丁・五十鈴川の朝霧と神域参拝・冬の極上伊勢海老＆松阪牛会席を味わう伊勢名宿5選",
     description: "11月から1月、日本人の心の故郷・伊勢神宮（内宮・外宮）は凛とした神聖な冬の静寂に包まれます。五十鈴川に立ち込める幻想的な朝霧、宇治橋大鳥居から昇る冬至前後の神秘的な朝日、年末年始から新春にかけての初詣の賑わい、そして赤福ぜんざいや伊勢うどんが湯気を上げるおかげ横丁。冬に最盛期を迎える本場の伊勢海老や極上の松阪牛を堪能できる、伊勢神宮参拝に最適な厳選名宿5選と1泊2日の冬の王道参拝モデルコースを徹底解説します。",
     images: ['https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=80']
   }
@@ -42,7 +42,7 @@ export default function MieIseJinguWinterPage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: "【11・12・1月三重】伊勢神宮新春初詣とおかげ横丁・五十鈴川の朝霧と神域参拝・冬の極上伊勢海老＆松阪牛会席を味わう伊勢名宿5選",
+    headline: "11・12・1月三重：伊勢神宮新春初詣とおかげ横丁・五十鈴川の朝霧と神域参拝・冬の極上伊勢海老＆松阪牛会席を味わう伊勢名宿5選",
     description: "11月から1月、日本人の心の故郷・伊勢神宮（内宮・外宮）は凛とした神聖な冬の静寂に包まれます。五十鈴川に立ち込める幻想的な朝霧、宇治橋大鳥居から昇る冬至前後の神秘的な朝日、年末年始から新春にかけての初詣の賑わい、そして赤福ぜんざいや伊勢うどんが湯気を上げるおかげ横丁。冬に最盛期を迎える本場の伊勢海老や極上の松阪牛を堪能できる、伊勢神宮参拝に最適な厳選名宿5選と1泊2日の冬の王道参拝モデルコースを徹底解説します。",
     image: 'https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=80',
     datePublished: '',
@@ -282,9 +282,7 @@ export default function MieIseJinguWinterPage() {
             <Landmark className="w-4 h-4 text-amber-300" />
             11月・12月・1月 冬の三重・伊勢神宮初詣＆極上味覚特集
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【11・12・1月三重】伊勢神宮新春初詣とおかげ横丁・五十鈴川の朝霧と神域参拝・冬の極上伊勢海老＆松阪牛会席を味わう伊勢名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「11・12・1月三重」伊勢神宮新春初詣とおかげ横丁・五十鈴川の朝霧と神域参拝・冬の極上伊勢海老＆松阪牛会席を味わう伊勢名宿5選</h1>
           <p className="text-stone-300 text-sm sm:text-base md:text-lg max-w-3xl leading-relaxed">
             神路山と島路山から湧き出る五十鈴川の清流に立ち込める朝霧、冬至前後に宇治橋大鳥居の真ん中から昇る黄金色の朝日、新春の願いを込める厳かな初詣。湯気立ちのぼるおかげ横丁で味わう熱々の赤福ぜんざいや伊勢うどん、そして冬に旨味が凝縮する伊勢海老と松阪牛の贅沢な饗宴。冬の伊勢神宮で心洗われる特別な参拝旅を叶える厳選の宿とモデルコースをご案内します。
           </p>

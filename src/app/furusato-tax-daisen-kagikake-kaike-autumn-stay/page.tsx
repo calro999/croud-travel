@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '霊峰大山・鍵掛峠の錦秋大パノラマ＆皆生温泉オーシャンビュー露天！松葉ガニ・境港宿×ふるさと納税完全ガイド【2026年最新秋旅】鳥取',
+  title: '霊峰大山・鍵掛峠の錦秋大パノラマ＆皆生温泉オーシャンビュー露天！松葉ガニ・境港宿×ふるさと納税厳選ガイド鳥取',
   description: '10月下旬〜11月中旬に西日本最大級のブナ原生林が黄金色に輝く「鳥取・霊峰大山 鍵掛峠」。大山環状道路の爽快ドライブと、日本海を望む海辺の名湯「皆生温泉 旅館三井」「皆生シーサイドホテル 海の四季」「皆生つるや」で塩分豊富な美肌の塩化物泉露天風呂と11月解禁の境港直送・極上松葉ガニ・鳥取和牛オレイン55を堪能。ふるさと納税で実質2,000円。',
   keywords: ["霊峰大山", "鍵掛峠の錦秋大パノラマ", "境港宿×ふるさと納税", "2026年最新秋旅", "鳥取", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-daisen-kagikake-kaike-autumn-stay/"
   },
   openGraph: {
-    title: '霊峰大山・鍵掛峠の錦秋大パノラマ＆皆生温泉オーシャンビュー露天！松葉ガニ・境港宿×ふるさと納税完全ガイド【2026年最新秋旅】鳥取',
+    title: '霊峰大山・鍵掛峠の錦秋大パノラマ＆皆生温泉オーシャンビュー露天！松葉ガニ・境港宿×ふるさと納税厳選ガイド鳥取',
     description: '10月下旬〜11月中旬に西日本最大級のブナ原生林が黄金色に輝く「鳥取・霊峰大山 鍵掛峠」。大山環状道路の爽快ドライブと、日本海を望む海辺の名湯「皆生温泉 旅館三井」「皆生シーサイドホテル 海の四季」「皆生つるや」で塩分豊富な美肌の塩化物泉露天風呂と11月解禁の境港直送・極上松葉ガニ・鳥取和牛オレイン55を堪能。ふるさと納税で実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-daisen-kagikake-kaike-autumn-stay',
     siteName: '旅宿クラウド',
@@ -113,9 +113,7 @@ export default function FeatureArticlePage() {
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">
-            霊峰大山・鍵掛峠の錦秋大パノラマ＆皆生温泉オーシャンビュー露天！松葉ガニ・境港宿×ふるさと納税完全ガイド【2026年最新秋旅】鳥取
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">霊峰大山・鍵掛峠の錦秋大パノラマ＆皆生温泉オーシャンビュー露天！松葉ガニ・境港宿×ふるさと納税厳選ガイド鳥取</h1>
           <p className="text-sm md:text-lg text-stone-200 max-w-3xl mx-auto leading-relaxed">
             荒々しい南壁と黄金のブナ林が織りなす大山鍵掛峠の紅葉、皆生温泉の海露天と初物松葉ガニ。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
           </p>

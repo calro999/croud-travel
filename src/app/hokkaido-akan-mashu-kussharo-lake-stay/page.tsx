@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hokkaido-akan-mashu-kussharo-lake-stay/" },
-  title: "【北海道・阿寒湖＆摩周湖・屈斜路湖】神秘のカルデラ三湖・阿寒アイヌコタン＆まりも・硫黄山温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "北海道・阿寒湖＆摩周湖・屈斜路湖：神秘のカルデラ三湖・阿寒アイヌコタン＆まりも・硫黄山温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "阿寒摩周国立公園の神秘の湖めぐり完全特化！特別天然記念物「阿寒湖のマリモ」、北海道最大のアイヌ集落「阿寒湖アイヌコタン」、奇跡の透明度「摩周ブルー・摩周湖」、日本最大のカルデラ湖「屈斜路湖・砂湯」、阿寒湖温泉・川湯温泉宿を徹底解説。",
   keywords: ["北海道", "阿寒湖", "摩周湖", "屈斜路湖", "神秘のカルデラ三湖", "阿寒アイヌコタン", "まりも"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             AKAN & MASHU CRATER LAKE GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【北海道・阿寒湖＆摩周湖・屈斜路湖】神秘のカルデラ三湖・阿寒アイヌコタン＆まりも・硫黄山温泉宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「北海道・阿寒湖＆摩周湖・屈斜路湖」神秘のカルデラ三湖・阿寒アイヌコタン＆まりも・硫黄山温泉宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             世界屈指の透明度を誇る「摩周湖」と、特別天然記念物マリモが眠る「阿寒湖」、砂を掘れば温泉が湧く「屈斜路湖」。阿寒湖アイヌコタンの伝統舞踊と木彫り文化。川湯温泉の強酸性硫黄泉に浸かり、道東の大自然とオホーツクの海鮮を味わう旅。
           </p>

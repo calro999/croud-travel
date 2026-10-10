@@ -180,9 +180,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            立ち上る湯けむりと濃密な硫黄の香り！乳白色のにごり湯と風情ある温泉街めぐりの宿
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">立ち上る湯けむりと濃密な硫黄の香り！乳白色のにごり湯と風情ある温泉街めぐりの宿</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             浴槽を満たす青みがかった乳白色の湯に浸かると、肌にじんわりと染み渡る濃厚な天然成分。温泉街の石畳に響く下駄の音と、立ち込める湯けむりの情緒。温泉情緒を120%味わい尽くす、本物の名湯宿をラインナップしました。
           </p>

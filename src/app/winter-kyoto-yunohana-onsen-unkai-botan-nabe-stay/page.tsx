@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月京都湯】初冬の京奥座敷露天！名宿5選',
+  title: '京都湯で過ごす冬の旅（11・12月）！初冬の京奥座敷露天！名宿5選',
   description: '11月から12月にかけて京都の奥座敷・亀岡盆地は、冷え込みとともに盆地全体が真っ白な霧の海に沈む幻想的な「丹波霧（かめおか雲海）」のシーズンを迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '湯の花温泉 宿泊, 京都 亀岡 温泉, 湯の花温泉 ぼたん鍋, すみや亀峰菴, 京都 烟河, 松園荘 保津川亭, 翠泉, 渓山閣, 丹波霧 雲海, 丹波牛, 京都 冬 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kyoto-yunohana-onsen-unkai-botan-nabe-stay/",
   },
   openGraph: {
-    title: '【11・12月京都湯】初冬の京奥座敷露天！名宿5選',
+    title: '京都湯で過ごす冬の旅（11・12月）！初冬の京奥座敷露天！名宿5選',
     description: '11月から12月にかけて京都の奥座敷・亀岡盆地は、冷え込みとともに盆地全体が真っ白な霧の海に沈む幻想的な「丹波霧（かめおか雲海）」のシーズンを迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-kyoto-yunohana-onsen-unkai-botan-nabe-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月京都湯の花温泉の幻想的な亀岡霧雲海と名物ぼたん鍋】初冬の京奥座敷露天・最高級丹波牛ステーキ＆丹波黒豆会席の隠れ宿5選",
+    title: "京都湯の花温泉の幻想的な亀岡霧雲海と名物ぼたん鍋で過ごす冬の旅（11・12月）！初冬の京奥座敷露天・最高級丹波牛ステーキ＆丹波黒豆会席の隠れ宿5選",
     description: "11月から12月にかけて京都の奥座敷・亀岡盆地は、冷え込みとともに盆地全体が真っ白な霧の海に沈む幻想的な「丹波霧（かめおか雲海）」のシーズンを迎えます。戦国武将も刀傷を癒やしたと伝わる万病の薬湯・湯の花温泉の露天風呂、初冬の里山に囲まれた静寂のプライベート空間、冬の丹波を代表する名物「本場猪肉のぼたん鍋」、きめ細やかな霜降りと深いコクを誇る「丹波牛」の鉄板焼きや陶板ステーキ、丹波黒豆や聖護院大根など旬の京野菜会席を堪能する大人の隠れ名宿5選を徹底解説。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80'],
   }
@@ -222,9 +222,7 @@ export default function YunohanaOnsenWinterPage() {
             <span>11月・12月 冬の京都・亀岡 湯の花温泉特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月京都湯の花温泉の幻想的な亀岡霧雲海と名物ぼたん鍋】初冬の京奥座敷露天・最高級丹波牛ステーキ＆丹波黒豆会席の隠れ宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">京都湯の花温泉の幻想的な亀岡霧雲海と名物ぼたん鍋で過ごす冬の旅（11・12月）！初冬の京奥座敷露天・最高級丹波牛ステーキ＆丹波黒豆会席の隠れ宿5選</h1>
 
           <p className="text-sm sm:text-base lg:text-lg text-slate-300 leading-relaxed max-w-4xl">
             11月から12月にかけて京都の奥座敷・亀岡盆地は、厳しい冷え込みによって街全体が真っ白な霧に沈む幻想的な「丹波霧（かめおか雲海）」の季節を迎えます。戦国武将も刀傷を癒やしたと伝わる万病の薬湯・湯の花温泉の露天風呂、静寂に包まれた里山に佇む上質な隠れ宿、冬の丹波を代表する名物「本場猪肉のぼたん鍋」、きめ細やかな霜降りと芳醇な旨味を誇る「丹波牛」のステーキ、丹波黒豆や聖護院大根など旬の京野菜会席を堪能する、大人のための至福の冬旅をお届けします。

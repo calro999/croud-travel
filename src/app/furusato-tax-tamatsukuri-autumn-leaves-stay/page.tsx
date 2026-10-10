@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '神々の集う神在月の出雲大社＆美肌の湯・玉造温泉！11月解禁松葉ガニ宿×ふるさと納税完全ガイド【2026年最新秋旅】島根',
+  title: '神々の集う神在月の出雲大社＆美肌の湯・玉造温泉！11月解禁松葉ガニ宿×ふるさと納税厳選ガイド島根',
   description: '旧暦10月（11月）の「神在月」に全国の八百万の神が集う島根・出雲大社と「玉造温泉（たまつくりおんせん）」。玉湯川沿いの紅葉ライトアップ、化粧水のような潤いをもたらす日本最古の美肌温泉「白石家」「佳翠苑 皆美」「旅亭 山の井」で11月解禁の山陰松葉ガニや島根和牛・宍道湖七珍を堪能。ふるさと納税で実質2,000円。',
   keywords: ["神々の集う神在月の出雲大社", "美肌の湯", "2026年最新秋旅", "島根", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-tamatsukuri-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '神々の集う神在月の出雲大社＆美肌の湯・玉造温泉！11月解禁松葉ガニ宿×ふるさと納税完全ガイド【2026年最新秋旅】島根',
+    title: '神々の集う神在月の出雲大社＆美肌の湯・玉造温泉！11月解禁松葉ガニ宿×ふるさと納税厳選ガイド島根',
     description: '旧暦10月（11月）の「神在月」に全国の八百万の神が集う島根・出雲大社と「玉造温泉（たまつくりおんせん）」。玉湯川沿いの紅葉ライトアップ、化粧水のような潤いをもたらす日本最古の美肌温泉「白石家」「佳翠苑 皆美」「旅亭 山の井」で11月解禁の山陰松葉ガニや島根和牛・宍道湖七珍を堪能。ふるさと納税で実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-tamatsukuri-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FeatureArticlePage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               島根・出雲大社神在月＆玉造温泉特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              神々の集う神在月の出雲大社＆美肌の湯・玉造温泉！11月解禁松葉ガニ宿×ふるさと納税完全ガイド【2026年最新秋旅】島根
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">神々の集う神在月の出雲大社＆美肌の湯・玉造温泉！11月解禁松葉ガニ宿×ふるさと納税厳選ガイド島根</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               旧暦10月（11月）の「神在月」に全国の八百万の神が集う島根・出雲大社と「玉造温泉（たまつくりおんせん）」。玉湯川沿いの紅葉ライトアップ、化粧水のような潤いをもたらす日本最古の美肌温泉「白石家」「佳翠苑 皆美」「旅亭 山の井」で11月解禁の山陰松葉ガニや島根和牛・宍道湖七珍を堪能。ふるさと納税で実質2,000円。
             </p>

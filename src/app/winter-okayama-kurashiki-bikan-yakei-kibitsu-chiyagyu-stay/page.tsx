@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月岡山】国宝吉備津神社新春初詣！名宿5選',
+  title: '11・12・1月岡山：国宝吉備津神社新春初詣！名宿5選',
   description: '11月から1月、岡山県倉敷市の「倉敷美観地区」は、観光客で賑わう日中とは打って変わり。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '倉敷美観地区 冬, 倉敷 夜間景観照明, 吉備津神社 初詣, 大回廊, 下津井真蛸, 千屋牛 ステーキ, 倉敷アイビースクエア, ロイヤルパークホテル倉敷, 倉敷国際ホテル, ドーミーイン倉敷, 大原美術館, 11月 12月 1月 岡山旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-okayama-kurashiki-bikan-yakei-kibitsu-chiyagyu-stay/"
   },
   openGraph: {
-    title: '【11・12・1月岡山】国宝吉備津神社新春初詣！名宿5選',
+    title: '11・12・1月岡山：国宝吉備津神社新春初詣！名宿5選',
     description: '11月から1月、岡山県倉敷市の「倉敷美観地区」は、観光客で賑わう日中とは打って変わり。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-okayama-kurashiki-bikan-yakei-kibitsu-chiyagyu-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月岡山】冬の倉敷美観地区・白壁土蔵の夜間景観照明＆国宝吉備津神社新春初詣・名物下津井真蛸と幻の千屋牛を堪能する名宿5選",
+    title: "11・12・1月岡山：冬の倉敷美観地区・白壁土蔵の夜間景観照明＆国宝吉備津神社新春初詣・名物下津井真蛸と幻の千屋牛を堪能する名宿5選",
     description: "11月から1月、岡山県倉敷市の「倉敷美観地区」は、観光客で賑わう日中とは打って変わり、澄み切った冬の夜気の中で世界的な照明デザイナー石井幹子氏監修の「夜間景観照明」に照らされ、静寂と幽玄の美を湛えます。倉敷川の水面に映る白壁土蔵と柳並木の影、桃太郎伝説の舞台・国宝「吉備津神社」の全長398mに及ぶ大回廊を歩く厳かな新春初詣。そして冬の瀬戸内海で獲れる弾力抜群の「下津井真蛸」や、日本最古の蔓牛の血統を受け継ぐ幻の黒毛和牛「千屋牛」の極上会席。心洗われる冬の倉敷旅を叶える厳選名宿5選と1泊2日の冬のモデルコースを徹底解説します。",
     images: ['https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=80']
   }
@@ -42,7 +42,7 @@ export default function OkayamaKurashikiBikanWinterPage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: "【11・12・1月岡山】冬の倉敷美観地区・白壁土蔵の夜間景観照明＆国宝吉備津神社新春初詣・名物下津井真蛸と幻の千屋牛を堪能する名宿5選",
+    headline: "11・12・1月岡山：冬の倉敷美観地区・白壁土蔵の夜間景観照明＆国宝吉備津神社新春初詣・名物下津井真蛸と幻の千屋牛を堪能する名宿5選",
     description: "11月から1月、岡山県倉敷市の「倉敷美観地区」は、観光客で賑わう日中とは打って変わり、澄み切った冬の夜気の中で世界的な照明デザイナー石井幹子氏監修の「夜間景観照明」に照らされ、静寂と幽玄の美を湛えます。倉敷川の水面に映る白壁土蔵と柳並木の影、桃太郎伝説の舞台・国宝「吉備津神社」の全長398mに及ぶ大回廊を歩く厳かな新春初詣。そして冬の瀬戸内海で獲れる弾力抜群の「下津井真蛸」や、日本最古の蔓牛の血統を受け継ぐ幻の黒毛和牛「千屋牛」の極上会席。心洗われる冬の倉敷旅を叶える厳選名宿5選と1泊2日の冬のモデルコースを徹底解説します。",
     image: 'https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=80',
     datePublished: '',
@@ -282,9 +282,7 @@ export default function OkayamaKurashikiBikanWinterPage() {
             <Moon className="w-4 h-4 text-indigo-300" />
             11月・12月・1月 冬の岡山・倉敷美観地区＆吉備路歴史特集
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【11・12・1月岡山】冬の倉敷美観地区・白壁土蔵の夜間景観照明＆国宝吉備津神社新春初詣・名物下津井真蛸と幻の千屋牛を堪能する名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「11・12・1月岡山」冬の倉敷美観地区・白壁土蔵の夜間景観照明＆国宝吉備津神社新春初詣・名物下津井真蛸と幻の千屋牛を堪能する名宿5選</h1>
           <p className="text-slate-300 text-sm sm:text-base md:text-lg max-w-3xl leading-relaxed">
             倉敷川の水面に映える白壁土蔵となまこ壁。石井幹子氏プロデュースの夜間景観照明に浮かび上がる冬の美観地区の幽玄の美、国宝「吉備津神社」の全長398mの大回廊を歩く清らかな新春初詣。冬の瀬戸内海の激流が育む弾力抜群の下津井真蛸、そして日本最古の蔓牛の血を引く幻の千屋牛ステーキ。歴史と文化が息づく倉敷の冬名宿とモデルコースをご案内します。
           </p>

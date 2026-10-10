@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月会津東山温泉】雪化粧の湯川渓谷露天と会津地鶏！名宿5選',
+  title: '会津東山温泉で過ごす冬の旅（11・12月）！雪化粧の湯川渓谷露天と会津地鶏！名宿5選',
   description: '11月下旬の初雪から12月の白銀世界へと移ろう福島・会津の奥座敷「東山温泉」。開湯1300年、湯川の渓流沿いに佇む風情ある木造建築群と渓谷美。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '会津東山温泉 宿泊 11月 12月, 東山温泉 雪景色 旅館, 会津若松 温泉 宿, 会津 馬刺し 温泉 旅館, 東山温泉 向瀧 東鳳 瀧の湯, 会津地鶏 宿, 会津若松 モデルコース 冬',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukushima-aizu-higashiyama-snow-heritage-stay/",
   },
   openGraph: {
-    title: '【11・12月会津東山温泉】雪化粧の湯川渓谷露天と会津地鶏！名宿5選',
+    title: '会津東山温泉で過ごす冬の旅（11・12月）！雪化粧の湯川渓谷露天と会津地鶏！名宿5選',
     description: '11月下旬の初雪から12月の白銀世界へと移ろう福島・会津の奥座敷「東山温泉」。開湯1300年、湯川の渓流沿いに佇む風情ある木造建築群と渓谷美。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-fukushima-aizu-higashiyama-snow-heritage-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月会津東山温泉の初雪と武家文化】雪化粧の湯川渓谷露天と会津地鶏・極上馬刺し会席の宿5選",
+    title: "会津東山温泉の初雪と武家文化で過ごす冬の旅（11・12月）！雪化粧の湯川渓谷露天と会津地鶏・極上馬刺し会席の宿5選",
     description: "11月下旬の初雪から12月の白銀世界へと移ろう福島・会津の奥座敷「東山温泉」。開湯1300年、湯川の渓流沿いに佇む風情ある木造建築群と渓谷美。雪化粧した山肌を望む雪見露天風呂と、会津漆器でいただく本場極上馬刺し・会津地鶏・郷土料理こづゆ、そして全国新酒鑑評会金賞の会津美酒を堪能する冬旅ガイド。",
   }
 };
@@ -266,10 +266,7 @@ export default function HigashiyamaWinterPage() {
             <Sparkles className="w-4 h-4 text-red-300" />
             <span>11月・12月限定 会津の奥座敷・初雪と名湯特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月会津東山温泉の初雪と武家文化】<br className="hidden sm:inline" />
-            雪化粧の湯川渓谷露天と会津地鶏・極上馬刺し会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">会津東山温泉の初雪と武家文化で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 雪化粧の湯川渓谷露天と会津地鶏・極上馬刺し会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             1300年の歴史を紡ぐ湯川渓谷の湯けむり。中庭を照らす温かな雪見ろうそく、白銀の山肌を望む雪見露天風呂に浸かり、会津漆器でいただく極上馬刺しと金賞受賞の会津美酒に酔いしれる至高の冬旅へ。
           </p>

@@ -4,14 +4,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '日本三大松原＆白砂青松オーシャンビュー宿×ふるさと納税完全ガイド【2026年最新】三保松原・虹の松原・気比の松原',
+  title: '日本三大松原＆白砂青松オーシャンビュー宿×ふるさと納税厳選ガイド三保松原・虹の松原・気比の松原',
   description: '白砂青松の絶景パノラマ！静岡「三保松原」富士山を仰ぎ見る世界遺産の羽衣伝説リゾート、佐賀「虹の松原」唐津湾に弧を描く100万本の黒松林と呼子イカ・唐津城下町名旅館、福井「気比の松原」敦賀湾の茜色夕景と敦賀真鯛・若狭カニ会席。日本の伝統美を誇る海浜リゾートを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: 'ふるさと納税, 楽天トラベル, 旅行クーポン, 宿泊記, ホテル予約, 国内旅行, おすすめ宿, 温泉旅館',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-pine-groves-ocean-stay/",
   },
   openGraph: {
-    title: '日本三大松原＆白砂青松オーシャンビュー宿×ふるさと納税完全ガイド【2026年最新】三保松原・虹の松原・気比の松原',
+    title: '日本三大松原＆白砂青松オーシャンビュー宿×ふるさと納税厳選ガイド三保松原・虹の松原・気比の松原',
     description: '白砂青松の絶景パノラマ！静岡「三保松原」富士山を仰ぎ見る世界遺産の羽衣伝説リゾート、佐賀「虹の松原」唐津湾に弧を描く100万本の黒松林と呼子イカ・唐津城下町名旅館、福井「気比の松原」敦賀湾の茜色夕景と敦賀真鯛・若狭カニ会席。日本の伝統美を誇る海浜リゾートを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-pine-groves-ocean-stay',
     siteName: 'トラベル総合ナビ',
@@ -56,9 +56,7 @@ export default function Page() {
             <span>✨</span>
             <span>日本三大松原・白砂青松特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6 text-white drop-shadow-sm">
-            日本三大松原＆白砂青松オーシャンビュー宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6 text-white drop-shadow-sm">日本三大松原＆白砂青松オーシャンビュー宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-xl text-slate-200 leading-relaxed font-normal max-w-4xl">
             碧い海と白い砂浜、風に揺れる緑の松林。歌川広重の浮世絵の世界に浸るシーサイドステイ
           </p>

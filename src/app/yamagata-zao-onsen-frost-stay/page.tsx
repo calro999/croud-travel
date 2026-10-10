@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/yamagata-zao-onsen-frost-stay/" },
-  title: "【山形・蔵王温泉】樹氷スノーモンスター・強酸性硫黄泉＆山形牛極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "山形・蔵王温泉：樹氷スノーモンスター・強酸性硫黄泉＆山形牛極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "山形・蔵王温泉エリア完全特化！大迫力の「蔵王樹氷（スノーモンスター）」ライトアップ、開湯1900年の強酸性白濁硫黄泉、蔵王ロープウェイ、名物玉こんにゃく・山形牛すき焼きと老舗温泉宿を徹底解説。",
   keywords: ["山形", "蔵王温泉", "樹氷スノーモンスター", "強酸性硫黄泉", "山形牛極上宿", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             ZAO SNOW MONSTER GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【山形・蔵王温泉】樹氷スノーモンスター・強酸性硫黄泉＆山形牛極上宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「山形・蔵王温泉」樹氷スノーモンスター・強酸性硫黄泉＆山形牛極上宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             標高約900m、蔵王連峰の懐に湧く「蔵王温泉」。日本屈指の強酸性白濁硫黄泉が古くから皮膚病や美肌に効く名湯として愛される。冬には世界中から人々が訪れる奇跡の「樹氷（スノーモンスター）」と山形牛の饗宴。
           </p>

@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            石川・加賀温泉郷 山代温泉の総湯文化と紅葉！三湯めぐり＆11月加能ガニ・橋立港寒魚
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">石川・加賀温泉郷 山代温泉の総湯文化と紅葉！三湯めぐり＆11月加能ガニ・橋立港寒魚</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の石川・加賀山代温泉特集！明治時代の総湯を復元した「古総湯」のステンドグラスと九谷焼タイルの美、薬王院温泉寺の紅葉、ゆのくに天祥の多彩な自家源泉三湯めぐり、11月6日解禁の加能ガニ（越前・松葉ガニ）や橋立港直送の寒魚をふるさと納税トラベルで味わう贅沢プラン。
           </p>

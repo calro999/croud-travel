@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-golf-resort-hotspring-stay/" },
-  title: '【名門ゴルフ×ふるさと納税】極上トーナメントコース＆温泉ホテル宿泊パック完全ガイド | クラウドトラベル',
+  title: '名門ゴルフをふるさと納税でお得に旅する！極上トーナメントコース＆温泉ホテル宿泊パック厳選ガイド | クラウドトラベル',
   description: 'プレー代や宿泊費の総額から30％が還元！静岡・川奈、長野・軽井沢、沖縄・宮古島の名門シーサイド＆高原ゴルフリゾートを厳選。高所得ゴルファー必見のふるさと納税スマート活用術。',
   openGraph: {
-    title: '【名門ゴルフ×ふるさと納税】極上トーナメントコース＆温泉ホテル宿泊パック完全ガイド | クラウドトラベル',
+    title: '名門ゴルフをふるさと納税でお得に旅する！極上トーナメントコース＆温泉ホテル宿泊パック厳選ガイド | クラウドトラベル',
     description: 'プレー代や宿泊費の総額から30％が還元！静岡・川奈、長野・軽井沢、沖縄・宮古島の名門シーサイド＆高原ゴルフリゾートを厳選。高所得ゴルファー必見のふるさと納税スマート活用術。',
     type: 'article',
   },
@@ -59,9 +59,7 @@ export default function Page() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             ふるさと納税×名門ゴルフ＆温泉リゾート
           </div>
-          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            【名門ゴルフ×ふるさと納税】極上トーナメントコース＆温泉ホテル宿泊パック完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">名門ゴルフをふるさと納税でお得に旅する！極上トーナメントコース＆温泉ホテル宿泊パック厳選ガイド</h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl mb-6">
             週末のゴルフ仲間とのラウンドや、夫婦でのリゾートゴルフ旅行。名門トーナメントコースでのプレー代、カート代、前泊・後泊の温泉ホテル宿泊費を合わせると、1回のトリップで1人あたり5万〜15万円、グループなら数十万円に達することも珍しくありません。高所得者層が多いゴルファーにこそ最強の味方となるのが、楽天ふるさと納税のトラベルクーポンです。自治体に寄付して獲得したクーポン（寄付額の最大30％相当）は、ゴルフ場併設の温泉リゾートホテルや提携ゴルフパックの宿泊代金にそのまま充当可能。世界のトッププロが挑んだ伊豆・川奈のフジサンケイレディスクラシック開催地、軽井沢の雄大な浅間山を望む高原コース、宮古島のエメラルドグリーンの海越えホールなど、ゴルファー垂涎の憧れリゾートをご紹介します。
           </p>

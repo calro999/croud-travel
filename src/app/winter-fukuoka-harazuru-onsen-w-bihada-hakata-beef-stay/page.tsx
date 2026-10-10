@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月福岡・原鶴温泉】博多和牛会席！名宿5選',
+  title: '福岡・原鶴温泉で過ごす冬の旅（11・12月）！博多和牛会席！名宿5選',
   description: '11月から12月にかけて、福岡市内から高速で約60分、九州一の大河・筑後川のほとりに佇む「原鶴温泉（はらづるおんせん）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '原鶴温泉 宿泊, 福岡 温泉 11月 12月, 原鶴温泉 泰泉閣, 延命館, ホテルパーレンス小野屋, 原鶴グランドスカイホテル, 六峰舘, 博多和牛 宿, W美肌の湯, 筑後川 絶景露天',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay/"
   },
   openGraph: {
-    title: '【11・12月福岡・原鶴温泉】博多和牛会席！名宿5選',
+    title: '福岡・原鶴温泉で過ごす冬の旅（11・12月）！博多和牛会席！名宿5選',
     description: '11月から12月にかけて、福岡市内から高速で約60分、九州一の大河・筑後川のほとりに佇む「原鶴温泉（はらづるおんせん）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -246,10 +246,7 @@ export default function FukuokaHarazuruWinterFeature() {
             <Sparkle className="w-4 h-4" />
             11月・12月 冬の美肌温泉＆筑後路美食特集｜福岡・原鶴温泉
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            筑後川冬情緒と奇跡のW美肌の湯<br className="hidden sm:inline" />
-            博多和牛会席＆掛け流し展望露天の湯巡り宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">筑後川冬情緒と奇跡のW美肌の湯<br className="hidden sm:inline" /> 博多和牛会席＆掛け流し展望露天の湯巡り宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             博多から車で約60分。弱アルカリ性×単純硫黄泉が織りなす「奇跡のW美肌の湯」。朝霧が煙る筑後川の絶景と最高峰「博多和牛」を味わう至福の初冬旅。
           </p>

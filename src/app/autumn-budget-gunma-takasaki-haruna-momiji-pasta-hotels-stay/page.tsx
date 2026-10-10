@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【高崎】榛名湖・妙義山紅葉ドライブ拠点＆高崎パスタ！3,000円台〜格安ホテル5選',
+  title: '高崎：榛名湖・妙義山紅葉ドライブ拠点＆高崎パスタ！3,000円台〜格安ホテル5選',
   description: '榛名富士が湖面に映る榛名湖紅葉や妙義山の岩峰美！パスタの街・高崎でボリューム満点の名物シャンゴ風パスタや焼きまんじゅう。高崎駅前で1泊3,000円台〜5,000円台で泊まれる格安・高評価ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetTakasakiHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>榛名湖水鏡紅葉＆パスタの街高崎グルメ</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【高崎】榛名湖の紅葉＆高崎絶品パスタへ！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「高崎」榛名湖の紅葉＆高崎絶品パスタへ！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-teal-100/90 max-w-2xl mx-auto leading-relaxed">
             榛名山ロープウェイや湖畔を彩るカエデの錦秋絵巻「榛名湖」と、奇岩と紅葉が織りなす「妙義山」。ドライブを楽しんだ後は、全国屈指のパスタ消費量を誇る高崎で、カツが乗った甘辛ミートソースの「シャンゴ風パスタ」や香ばしい焼きまんじゅう！新幹線停車駅・高崎駅前で3,000円台〜の優良宿をご紹介。
           </p>

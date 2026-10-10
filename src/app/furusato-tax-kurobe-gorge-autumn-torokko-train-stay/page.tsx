@@ -4,14 +4,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '日本一のV字峡谷を染める大紅葉！黒部峡谷トロッコ電車＆宇奈月つべつべ温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】富山 | 旅宿クラウド',
+  title: '日本一のV字峡谷を染める大紅葉！黒部峡谷トロッコ電車＆宇奈月つべつべ温泉名宿×ふるさと納税厳選ガイド富山 | 旅宿クラウド',
   description: '10月中旬〜11月中旬が見頃！日本一深いV字峡谷をオープン客車のトロッコ電車で駆け抜ける「黒部峡谷鉄道」と、日本屈指の透明度を誇る「宇奈月温泉（つべつべ美肌の湯）」。黒部川の清流を望む「延楽」「やまのは」「ホテル黒部」。富山湾の紅ズワイガニ・寒ブリ・白えびを、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
   keywords: ["2026年最新秋旅", "富山", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kurobe-gorge-autumn-torokko-train-stay/"
   },
   openGraph: {
-    title: '日本一のV字峡谷を染める大紅葉！黒部峡谷トロッコ電車＆宇奈月つべつべ温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】富山',
+    title: '日本一のV字峡谷を染める大紅葉！黒部峡谷トロッコ電車＆宇奈月つべつべ温泉名宿×ふるさと納税厳選ガイド富山',
     description: '10月中旬〜11月中旬が見頃！日本一深いV字峡谷をオープン客車のトロッコ電車で駆け抜ける「黒部峡谷鉄道」と、日本屈指の透明度を誇る「宇奈月温泉（つべつべ美肌の湯）」。黒部川の清流を望む「延楽」「やまのは」「ホテル黒部」。富山湾の紅ズワイガニ・寒ブリ・白えびを、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kurobe-gorge-autumn-torokko-train-stay',
     siteName: '旅宿クラウド',
@@ -65,9 +65,7 @@ export default function FurusatoKurobeGorgeAutumnTorokkoStayPage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               黒部峡谷トロッコ電車紅葉＆宇奈月温泉名旅館特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              日本一のV字峡谷を染める大紅葉！黒部峡谷トロッコ電車＆宇奈月つべつべ温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】富山
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">日本一のV字峡谷を染める大紅葉！黒部峡谷トロッコ電車＆宇奈月つべつべ温泉名宿×ふるさと納税厳選ガイド富山</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               10月中旬〜11月中旬が見頃！日本一深いV字峡谷をオープン客車のトロッコ電車で駆け抜ける「黒部峡谷鉄道」と、日本屈指の透明度を誇る「宇奈月温泉（つべつべ美肌の湯）」。黒部川の清流を望む「延楽」「やまのは」「ホテル黒部」。富山湾の紅ズワイガニ・寒ブリ・白えびを、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。
             </p>

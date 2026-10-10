@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【10月見頃！国営ひたち海浜公園コキア紅葉】みはらしの丘と勝田・大洗の人気宿5選",
+  title: "見頃！国営ひたち海浜公園コキア紅葉で過ごす冬の旅（10月）！みはらしの丘と勝田・大洗の人気宿5選",
   description: "約4万本のコキアがみはらしの丘を真っ赤に染め上げる国営ひたち海浜公園の秋！勝田駅至近ホテルや大洗海岸のオーシャンビュー温泉宿、水戸の迎賓館ホテルまで厳選5選。",
   keywords: "ひたち海浜公園 コキア 見頃 10月, 勝田駅 ホテル, 大洗温泉 旅館, 水戸プラザホテル, 茨城 秋旅行 宿泊",
   alternates: {
     canonical: "https://croud-travel.pages.dev/autumn-ibaraki-hitachi-seaside-park-kochia-hotels-stay/",
   },
   openGraph: {
-    title: "【10月見頃！国営ひたち海浜公園コキア紅葉】みはらしの丘と勝田・大洗の人気宿5選",
+    title: "見頃！国営ひたち海浜公園コキア紅葉で過ごす冬の旅（10月）！みはらしの丘と勝田・大洗の人気宿5選",
     description: "約4万本のコキアがみはらしの丘を真っ赤に染め上げる国営ひたち海浜公園の秋！勝田駅至近ホテルや大洗海岸のオーシャンビュー温泉宿、水戸の迎賓館ホテルまで厳選5選。",
     url: 'https://croud-travel.pages.dev/autumn-ibaraki-hitachi-seaside-park-kochia-hotels-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【10月見頃！国営ひたち海浜公園コキア紅葉】みはらしの丘と勝田・大洗の人気宿5選",
+    title: "見頃！国営ひたち海浜公園コキア紅葉で過ごす冬の旅（10月）！みはらしの丘と勝田・大洗の人気宿5選",
     description: "約4万本のコキアがみはらしの丘を真っ赤に染め上げる国営ひたち海浜公園の秋！勝田駅至近ホテルや大洗海岸のオーシャンビュー温泉宿、水戸の迎賓館ホテルまで厳選5選。",
   }
 };
@@ -131,9 +131,7 @@ export default function FeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             10月秋の絶景特集・コキアカーニバル
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【10月見頃！国営ひたち海浜公園コキア紅葉】<br className="hidden sm:inline" />みはらしの丘と勝田・大洗の人気宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">見頃！国営ひたち海浜公園コキア紅葉で過ごす冬の旅（10月）！<br className="hidden sm:inline" />みはらしの丘と勝田・大洗の人気宿5選</h1>
           <p className="max-w-2xl mx-auto text-sm md:text-base text-stone-200 leading-relaxed">
             丘一面が深紅に染まる国営ひたち海浜公園の秋！混雑を回避して朝一番に楽しむ駅前拠点から、太平洋の潮騒と海の幸に寛ぐ大洗の絶景宿まで、楽天API公式データを基に厳選紹介します。
           </p>

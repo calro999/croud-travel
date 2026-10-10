@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '日本三大酒蔵通り＆白壁土蔵の町並み散策と発酵美食オーベルジュ宿×ふるさと納税完全ガイド【2026年最新】伏見・西条・灘五郷',
+  title: '日本三大酒蔵通り＆白壁土蔵の町並み散策と発酵美食オーベルジュ宿×ふるさと納税厳選ガイド伏見・西条・灘五郷',
   description: '酒造りの歴史と伝統が息づく「日本三大酒蔵通り」（京都・伏見酒蔵通り、広島・東広島西条酒蔵通り、兵庫・神戸灘五郷）。赤煉瓦の煙突、白壁土蔵、杉玉が下がる風情ある町並みを散策し、蔵元直営の利き酒と酒粕発酵会席を堪能。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ大人の美食・美酒ツーリズム完全ガイド。',
   keywords: ["日本三大酒蔵通り", "2026年最新", "伏見", "西条", "灘五郷", "温泉宿", "宿泊予約"],
   alternates: { canonical: baseUrl + '/furusato-tax-three-great-sake-brewery-towns-auberge-stay/' },
   openGraph: {
-    title: '日本三大酒蔵通り＆白壁土蔵の町並み散策と発酵美食オーベルジュ宿×ふるさと納税完全ガイド【2026年最新】伏見・西条・灘五郷',
+    title: '日本三大酒蔵通り＆白壁土蔵の町並み散策と発酵美食オーベルジュ宿×ふるさと納税厳選ガイド伏見・西条・灘五郷',
     description: '酒造りの歴史と伝統が息づく「日本三大酒蔵通り」（京都・伏見酒蔵通り、広島・東広島西条酒蔵通り、兵庫・神戸灘五郷）。赤煉瓦の煙突、白壁土蔵、杉玉が下がる風情ある町並みを散策し、蔵元直営の利き酒と酒粕発酵会席を堪能。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ大人の美食・美酒ツーリズム完全ガイド。',
     url: baseUrl + '/furusato-tax-three-great-sake-brewery-towns-auberge-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoRound62ArticlePage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             日本三大酒蔵通り・美酒と発酵美食ステイ特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            日本三大酒蔵通り＆白壁土蔵の町並み散策と発酵美食オーベルジュ宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">日本三大酒蔵通り＆白壁土蔵の町並み散策と発酵美食オーベルジュ宿</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             芳醇な日本酒の香りがふわりと漂い、白壁土蔵の蔵屋敷と赤煉瓦の煙突がどこか懐かしい情緒を醸し出す酒蔵の町。「日本三大銘醸地」「日本三大酒蔵通り」と称される伏見、西条、灘五郷は、日本酒文化の粋が集まる聖地です。名水「伏水」が育むまろやかで上品な伏見の女酒、なまこ壁と赤瓦の蔵が連なり吟醸酒発祥の地として名高い西条、そして宮水と六甲おろしの恵みを受けキレ味鋭い男酒で江戸時代から天下を圧巻してきた灘五郷。蔵元が並ぶ路地を歩き、蔵開き限定酒や搾りたての原酒をテイスティングし、夜は酒粕や発酵調味料を駆使したペアリング会席と天然温泉に酔いしれるひととき。楽天ふるさと納税トラベルクーポンを活用して、五感を潤す大人の美酒ツーリズムへ出かけましょう。
           </p>

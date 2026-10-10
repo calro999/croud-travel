@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tokushima-naruto-otsuka-museum-stay/" },
-  title: "【徳島・鳴門＆大塚国際美術館】世界三大潮流・鳴門の渦潮＆陶板名画・鳴門鯛宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "徳島・鳴門＆大塚国際美術館：世界三大潮流・鳴門の渦潮＆陶板名画・鳴門鯛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "世界三大潮流の渦潮と世界最大級の陶板美術館・徳島鳴門エリア完全特化！大塚国際美術館のシスティーナ礼拝堂、鳴門海峡の渦潮クルーズ、渦の道、鳴門温泉、ブランド魚「鳴門鯛・鳴門わかめ」＆阿波牛宿を徹底解説。",
   keywords: ["徳島", "鳴門", "大塚国際美術館", "世界三大潮流", "鳴門の渦潮", "陶板名画", "鳴門鯛宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             NARUTO & OTSUKA MUSEUM GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【徳島・鳴門＆大塚国際美術館】世界三大潮流・鳴門の渦潮＆陶板名画・鳴門鯛宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「徳島・鳴門＆大塚国際美術館」世界三大潮流・鳴門の渦潮＆陶板名画・鳴門鯛宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             世界の名画1,000余点を陶板で原寸大再現した「大塚国際美術館」と、世界三大潮流が巻き起こす大迫力の「鳴門の渦潮」。鳴門海峡の激流に揉まれて身が引き締まった極上の「鳴門鯛」。青い海を望む絶景オーシャンリゾートへ。
           </p>

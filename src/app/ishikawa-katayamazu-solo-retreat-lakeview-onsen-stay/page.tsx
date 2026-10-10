@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/ishikawa-katayamazu-solo-retreat-lakeview-onsen-stay/" },
-  title: '【加賀温泉郷・片山津温泉ひとり旅・柴山潟パノラマおこもり】白山連峰一望・湖畔絶景露天風呂・加賀会席＆ズワイガニ！北陸新幹線加賀温泉駅厳選3宿',
+  title: '加賀温泉郷・片山津温泉ひとり旅・柴山潟パノラマおこもり：白山連峰一望・湖畔絶景露天風呂・加賀会席＆ズワイガニ！北陸新幹線加賀温泉駅厳選3宿',
   description: '柴山潟の湖面に映る名峰白山と七色に変わる湖水美を誇る加賀・片山津温泉！柴山潟を一望する絶景露天風呂と料理が口コミ★4.6の「湖畔の宿 森本」、加賀情緒あふれる空間美と開放的な大浴場を誇る名門「佳水郷」、源泉元湯の良質な湯と真心の料理が評判の「かのや光楽苑」を楽天API最新データに基づき徹底比較。',
   keywords: '片山津温泉 一人旅 宿,片山津 ホテル 一人 温泉,森本 片山津,佳水郷 加賀,かのや光楽苑,片山津 柴山潟 ひとり旅',
   openGraph: {
-    title: '【加賀温泉郷・片山津温泉ひとり旅・柴山潟パノラマおこもり】白山連峰一望・湖畔絶景露天風呂・加賀会席＆ズワイガニ！北陸新幹線加賀温泉駅厳選3宿',
+    title: '加賀温泉郷・片山津温泉ひとり旅・柴山潟パノラマおこもり：白山連峰一望・湖畔絶景露天風呂・加賀会席＆ズワイガニ！北陸新幹線加賀温泉駅厳選3宿',
     description: '柴山潟の湖面に映る名峰白山と七色に変わる湖水美を誇る加賀・片山津温泉！柴山潟を一望する絶景露天風呂と料理が口コミ★4.6の「湖畔の宿 森本」、加賀情緒あふれる空間美と開放的な大浴場を誇る名門「佳水郷」、源泉元湯の良質な湯と真心の料理が評判の「かのや光楽苑」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/ishikawa-katayamazu-solo-retreat-lakeview-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【加賀温泉郷・片山津温泉ひとり旅・柴山潟パノラマおこもり】白山連峰一望・湖畔絶景露天風呂・加賀会席＆ズワイガニ！北陸新幹線加賀温泉駅厳選3宿',
+    headline: '加賀温泉郷・片山津温泉ひとり旅・柴山潟パノラマおこもり：白山連峰一望・湖畔絶景露天風呂・加賀会席＆ズワイガニ！北陸新幹線加賀温泉駅厳選3宿',
     description: '柴山潟の湖面に映る名峰白山と七色に変わる湖水美を誇る加賀・片山津温泉！柴山潟を一望する絶景露天風呂と料理が口コミ★4.6の「湖畔の宿 森本」、加賀情緒あふれる空間美と開放的な大浴場を誇る名門「佳水郷」、源泉元湯の良質な湯と真心の料理が評判の「かのや光楽苑」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             石川・片山津温泉ひとり旅＆柴山潟レイクビューおこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【加賀温泉郷・片山津温泉ひとり旅・柴山潟パノラマおこもり】白山連峰一望・湖畔絶景露天風呂・加賀会席＆ズワイガニ！北陸新幹線加賀温泉駅厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「加賀温泉郷・片山津温泉ひとり旅・柴山潟パノラマおこもり」白山連峰一望・湖畔絶景露天風呂・加賀会席＆ズワイガニ！北陸新幹線加賀温泉駅厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

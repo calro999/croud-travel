@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '日本三大カルストの白銀石灰岩パノラマと高原リゾート宿×ふるさと納税完全ガイド【2026年最新】秋吉台・四国カルスト・平尾台',
+  title: '日本三大カルストの白銀石灰岩パノラマと高原リゾート宿×ふるさと納税厳選ガイド秋吉台・四国カルスト・平尾台',
   description: '緑の高原に無数の白大理石・石灰岩が羊の群れのように広がる日本三大カルスト（秋吉台・四国カルスト・平尾台）。標高1400mの星空リゾートやカルスト山麓の天然温泉宿で非日常を満喫。楽天ふるさと納税を活用したお得で開放感溢れる絶景高原旅行術を徹底解説。',
   keywords: ["2026年最新", "秋吉台", "四国カルスト", "平尾台", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-karsts-highland-stay/",
   },
   openGraph: {
-    title: '日本三大カルストの白銀石灰岩パノラマと高原リゾート宿×ふるさと納税完全ガイド【2026年最新】秋吉台・四国カルスト・平尾台',
+    title: '日本三大カルストの白銀石灰岩パノラマと高原リゾート宿×ふるさと納税厳選ガイド秋吉台・四国カルスト・平尾台',
     description: '緑の高原に無数の白大理石・石灰岩が羊の群れのように広がる日本三大カルスト（秋吉台・四国カルスト・平尾台）。標高1400mの星空リゾートやカルスト山麓の天然温泉宿で非日常を満喫。楽天ふるさと納税を活用したお得で開放感溢れる絶景高原旅行術を徹底解説。',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-karsts-highland-stay',
     siteName: '旅宿クラウド',
@@ -108,9 +108,7 @@ export default function FurusatoUpgradedPage() {
             <span>✨</span>
             <span>日本三大カルスト・高原リゾート特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            日本三大カルストの白銀石灰岩パノラマと高原リゾート宿×ふるさと納税完全ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">日本三大カルストの白銀石灰岩パノラマと高原リゾート宿×ふるさと納税厳選ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             青空と緑の草原に純白の石灰岩が点在する、まるでヨーロッパの高原や異世界を思わせる「日本三大カルスト」。秋吉台の悠久の鍾乳洞、四国カルストの雲海と満天の星、平尾台の雄大な羊群原パノラマ。大地の造形美に抱かれながら過ごす休日は、心洗われる爽快感に満ちています。楽天ふるさと納税の宿泊割引クーポンを駆使して、天空のカルスト高原リゾートを賢くスマートにお楽しみください。
           </p>

@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-rapid-tidal-currents-stay/" },
-  title: '日本三大急潮＆激流うず潮パノラマ・鳴門鯛と関門ふぐ美食宿×ふるさと納税完全ガイド【2026年最新】鳴門・来島・関門海峡',
+  title: '日本三大急潮＆激流うず潮パノラマ・鳴門鯛と関門ふぐ美食宿×ふるさと納税厳選ガイド鳴門・来島・関門海峡',
   description: '白波が逆巻く海の難所と海の王者！徳島鳴門「鳴門海峡」世界最大級のうず潮とアオアヲナルトリゾート、愛媛今治「来島海峡」しまなみ海道の八艘飛び急流とホテル菊水今治、山口下関「関門海峡」本州と九州を分かつ早鞆ノ瀬戸と下関グランドホテル。日本三大急潮のダイナミックな海景と海の幸を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大急潮・激流うず潮特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大急潮＆激流うず潮パノラマ・鳴門鯛と関門ふぐ美食宿×ふるさと納税完全ガイド【2026年最新】鳴門・来島・関門海峡',
+    title: '日本三大急潮＆激流うず潮パノラマ・鳴門鯛と関門ふぐ美食宿×ふるさと納税厳選ガイド鳴門・来島・関門海峡',
     description: '白波が逆巻く海の難所と海の王者！徳島鳴門「鳴門海峡」世界最大級のうず潮とアオアヲナルトリゾート、愛媛今治「来島海峡」しまなみ海道の八艘飛び急流とホテル菊水今治、山口下関「関門海峡」本州と九州を分かつ早鞆ノ瀬戸と下関グランドホテル。日本三大急潮のダイナミックな海景と海の幸を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-rapid-tidal-currents-stay',
@@ -158,9 +158,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大急潮・激流うず潮特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大急潮＆うず潮絶景・海鮮グルメ宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大急潮＆うず潮絶景・海鮮グルメ宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             狭い海峡に満潮と干潮の潮位差が激しい海水が流れ込むことで生まれる「日本三大急潮」――最大時速20kmに達し直径20mもの大渦を生み出す世界最大級の渦潮・徳島兵庫の「鳴門海峡」、瀬戸内海の多島美を背景に複雑な潮流「八艘飛び」が船乗りたちを恐れさせた愛媛今治の「来島海峡」、そして壇ノ浦の源平合戦や宮本武蔵・佐々木小次郎の巌流島の舞台となり急潮が唸りをあげる山口福岡の「関門海峡」。激しい潮流にもまれた魚は身が引き締まり、日本一の旨味を凝縮しています。海峡を見晴らす絶景ホテルやオーシャンリゾートに滞在し、激流に鍛えられた鳴門鯛・来島海峡のアジ・サバ・下関のとらふぐ会席に舌鼓を打つ至高の旅を楽天ふるさと納税でお楽しみください。
           </p>

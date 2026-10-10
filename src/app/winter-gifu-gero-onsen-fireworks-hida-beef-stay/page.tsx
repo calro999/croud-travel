@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【11・12月下呂温泉の冬花火ミュージカル】日本三名泉の美肌湯ととろける飛騨牛会席宿5選",
+  title: "下呂温泉の冬花火ミュージカルで過ごす冬の旅（11・12月）！日本三名泉の美肌湯ととろける飛騨牛会席宿5選",
   description: "12月の毎週土曜夜に冬空を華麗に染める「下呂温泉花火ミュージカル冬公演」。日本三名泉が誇るpH9超えのとろとろ美肌の湯に浸かり、冬の飛騨川のせせらぎを聴きながら最高ランクの飛騨牛朴葉味噌焼きや会席料理に舌鼓を打つ、心温まる冬の岐阜温泉旅。",
   keywords: '下呂温泉 花火 宿泊, 下呂温泉 冬 旅館 12月, 飛騨牛 温泉 宿, 下呂温泉 美肌の湯 冬旅, 岐阜 冬温泉, 下呂温泉 花火ミュージカル, 下呂温泉 モデルコース',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-gifu-gero-onsen-fireworks-hida-beef-stay/",
   },
   openGraph: {
-    title: "【11・12月下呂温泉の冬花火ミュージカル】日本三名泉の美肌湯ととろける飛騨牛会席宿5選",
+    title: "下呂温泉の冬花火ミュージカルで過ごす冬の旅（11・12月）！日本三名泉の美肌湯ととろける飛騨牛会席宿5選",
     description: "12月の毎週土曜夜に冬空を華麗に染める「下呂温泉花火ミュージカル冬公演」。日本三名泉が誇るpH9超えのとろとろ美肌の湯に浸かり、冬の飛騨川のせせらぎを聴きながら最高ランクの飛騨牛朴葉味噌焼きや会席料理に舌鼓を打つ、心温まる冬の岐阜温泉旅。",
     url: 'https://croud-travel.pages.dev/winter-gifu-gero-onsen-fireworks-hida-beef-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月下呂温泉の冬花火ミュージカル】日本三名泉の美肌湯ととろける飛騨牛会席宿5選",
+    title: "下呂温泉の冬花火ミュージカルで過ごす冬の旅（11・12月）！日本三名泉の美肌湯ととろける飛騨牛会席宿5選",
     description: "12月の毎週土曜夜に冬空を華麗に染める「下呂温泉花火ミュージカル冬公演」。日本三名泉が誇るpH9超えのとろとろ美肌の湯に浸かり、冬の飛騨川のせせらぎを聴きながら最高ランクの飛騨牛朴葉味噌焼きや会席料理に舌鼓を打つ、心温まる冬の岐阜温泉旅。",
   }
 };
@@ -266,10 +266,7 @@ export default function GeroWinterPage() {
             <Sparkles className="w-4 h-4 text-amber-300" />
             <span>11月・12月限定 冬の東海名湯特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月下呂温泉の冬花火ミュージカル】<br className="hidden sm:inline" />
-            日本三名泉の美肌湯ととろける飛騨牛会席宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">下呂温泉の冬花火ミュージカルで過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 日本三名泉の美肌湯ととろける飛騨牛会席宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             凛とした冬空に音楽とともに舞い上がる色鮮やかな大輪の華。日本三名泉の誉れ高きpH9のとろとろ美肌湯に身を委ね、香ばしい朴葉味噌とA5飛騨牛の旨味に酔いしれる至福の冬宵へ。
           </p>

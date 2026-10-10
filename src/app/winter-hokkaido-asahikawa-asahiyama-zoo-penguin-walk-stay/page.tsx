@@ -21,14 +21,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【旭川＆旭山動物園】冬のペンギンの散歩と美瑛青い池ライトアップ！名宿5選',
+  title: '旭川＆旭山動物園：冬のペンギンの散歩と美瑛青い池ライトアップ！名宿5選',
   description: '冬の北海道・旭川観光の完全攻略ガイド。積雪期限定の旭山動物園「ペンギンの散歩」の実施時間や見学のコツ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '旭山動物園, ペンギンの散歩, 旭川観光, 美瑛 青い池 ライトアップ, 白ひげの滝, 旭川ラーメン, 旭川 ホテル 温泉, 冬 北海道 旅行, OMO7旭川, JRイン旭川',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-hokkaido-asahikawa-asahiyama-zoo-penguin-walk-stay',
   },
   openGraph: {
-    title: '【旭川＆旭山動物園】冬のペンギンの散歩と美瑛青い池ライトアップ！名宿5選',
+    title: '旭川＆旭山動物園：冬のペンギンの散歩と美瑛青い池ライトアップ！名宿5選',
     description: '冬の北海道・旭川観光の完全攻略ガイド。積雪期限定の旭山動物園「ペンギンの散歩」の実施時間や見学のコツ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-asahikawa-asahiyama-zoo-penguin-walk-stay',
     siteName: 'トラベルマップ - 日本の観光名所＆ホテル厳選ガイド',
@@ -45,7 +45,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: '【旭川＆旭山動物園】冬のペンギンの散歩と美瑛青い池ライトアップ！旭川ラーメン＆天然温泉サウナを満喫する名宿5選',
+    title: '旭川＆旭山動物園：冬のペンギンの散歩と美瑛青い池ライトアップ！旭川ラーメン＆天然温泉サウナを満喫する名宿5選',
     description: '冬の北海道・旭川観光の完全攻略ガイド。積雪期限定の旭山動物園「ペンギンの散歩」の実施時間や見学のコツ、氷点下の美瑛「白金青い池・白ひげの滝」幻想ライトアップ、熱々旭川醤油ラーメンの名店、そして冷えた身体を癒やす天然温泉＆サウナ付き厳選ホテル5選。',
     images: ['https://img.travel.rakuten.co.jp/share/HOTEL/148897/148897.jpg'],
   },
@@ -55,7 +55,7 @@ export default function AsahikawaPenguinWinterPage() {
   const jsonLdArticle = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【旭川＆旭山動物園】冬のペンギンの散歩と美瑛青い池ライトアップ！旭川ラーメン＆天然温泉サウナを満喫する名宿5選',
+    headline: '旭川＆旭山動物園：冬のペンギンの散歩と美瑛青い池ライトアップ！旭川ラーメン＆天然温泉サウナを満喫する名宿5選',
     description: '冬の北海道・旭川観光の完全攻略ガイド。積雪期限定の旭山動物園「ペンギンの散歩」の実施時間や見学のコツ、氷点下の美瑛「白金青い池・白ひげの滝」幻想ライトアップ、熱々旭川醤油ラーメンの名店、そして冷えた身体を癒やす天然温泉＆サウナ付き厳選ホテル5選。',
     image: 'https://img.travel.rakuten.co.jp/share/HOTEL/148897/148897.jpg',
     datePublished: 'T00:00:00+09:00',
@@ -171,9 +171,7 @@ export default function AsahikawaPenguinWinterPage() {
               <span>道北の冬絶景・12月・1月・2月ハイシーズン完全攻略</span>
             </div>
             
-            <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight sm:leading-snug mb-6">
-              【旭川＆旭山動物園】冬のペンギンの散歩と美瑛青い池ライトアップ！旭川ラーメン＆天然温泉サウナを満喫する名宿5選
-            </h1>
+            <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight sm:leading-snug mb-6">「旭川＆旭山動物園」冬のペンギンの散歩と美瑛青い池ライトアップ！旭川ラーメン＆天然温泉サウナを満喫する名宿5選</h1>
             
             <p className="text-base sm:text-lg text-slate-200 max-w-3xl leading-relaxed mb-8">
               白銀の雪原をヨチヨチと行進する愛らしいペンギンたちの姿。氷点下15度以下が創り出す美瑛「白金青い池」の幻想的なライティング。そして極寒に凍てついた身体を芯から蘇らせる、熱々の旭川醤油ラーメンと天然温泉サウナ。冬の道北だからこそ味わえる感動の体験と、厳選された拠点宿の滞在プランを徹底解説します。

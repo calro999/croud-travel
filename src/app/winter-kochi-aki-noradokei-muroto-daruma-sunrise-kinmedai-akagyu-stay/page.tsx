@@ -3,13 +3,13 @@ import Link from 'next/link';
 import { Star, MapPin, Calendar, Compass, ShieldCheck, Heart, Sparkles, ExternalLink, ChevronRight } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【土佐の小京都・安芸武家屋敷と室戸岬冬のだるま朝日】2026-2027年冬の高知・安芸＆室戸！脂の乗った室戸キンメダイと土佐あかうし名宿5選',
+  title: '土佐の小京都・安芸武家屋敷と室戸岬冬のだるま朝日：2026-2027年冬の高知・安芸＆室戸！脂の乗った室戸キンメダイと土佐あかうし名宿5選',
   description: '歴史薫る土佐の安芸「野良時計」と土居廓中武家屋敷、そして冬の室戸岬で出逢う奇跡の絶景「だるま朝日」！太平洋の雄大な黒潮が育む冬の極上「室戸キンメダイ煮付け」や幻の赤身肉「土佐あかうし」。黒潮の潮騒と太平洋一望露天風呂に癒やされる冬の東高知厳選名宿5選。',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-kochi-aki-noradokei-muroto-daruma-sunrise-kinmedai-akagyu-stay/',
   },
   openGraph: {
-    title: '【土佐の小京都・安芸武家屋敷と室戸岬冬のだるま朝日】2026-2027年冬の高知・安芸＆室戸！脂の乗った室戸キンメダイと土佐あかうし名宿5選',
+    title: '土佐の小京都・安芸武家屋敷と室戸岬冬のだるま朝日：2026-2027年冬の高知・安芸＆室戸！脂の乗った室戸キンメダイと土佐あかうし名宿5選',
     description: '歴史薫る土佐の安芸「野良時計」と土居廓中武家屋敷、そして冬の室戸岬で出逢う奇跡の絶景「だるま朝日」！太平洋の雄大な黒潮が育む冬の極上「室戸キンメダイ煮付け」や幻の赤身肉「土佐あかうし」。黒潮の潮騒と太平洋一望露天風呂に癒やされる冬の東高知厳選名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-kochi-aki-noradokei-muroto-daruma-sunrise-kinmedai-akagyu-stay/',
     siteName: '冬の日本厳選旅行ガイド',
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: '【土佐の小京都・安芸武家屋敷と室戸岬冬のだるま朝日】2026-2027年冬の高知・安芸＆室戸！脂の乗った室戸キンメダイと土佐あかうし名宿5選',
+    title: '土佐の小京都・安芸武家屋敷と室戸岬冬のだるま朝日：2026-2027年冬の高知・安芸＆室戸！脂の乗った室戸キンメダイと土佐あかうし名宿5選',
     description: '歴史薫る土佐の安芸「野良時計」と土居廓中武家屋敷、そして冬の室戸岬で出逢う奇跡の絶景「だるま朝日」！太平洋の雄大な黒潮が育む冬の極上「室戸キンメダイ煮付け」や幻の赤身肉「土佐あかうし」。黒潮の潮騒と太平洋一望露天風呂に癒やされる冬の東高知厳選名宿5選。',
     images: ['https://img.travel.rakuten.co.jp/share/HOTEL/20497/20497.jpg'],
   },
@@ -201,9 +201,7 @@ export default function Page() {
               <span>冬の旅（11月〜1月）厳選特集</span>
             </div>
 
-            <h1 className="text-2xl sm:text-4xl font-extrabold leading-tight tracking-tight text-white drop-shadow-sm">
-              【土佐の小京都・安芸武家屋敷と室戸岬冬のだるま朝日】2026-2027年冬の高知・安芸＆室戸！脂の乗った室戸キンメダイと土佐あかうし名宿5選
-            </h1>
+            <h1 className="text-2xl sm:text-4xl font-extrabold leading-tight tracking-tight text-white drop-shadow-sm">「土佐の小京都・安芸武家屋敷と室戸岬冬のだるま朝日」2026-2027年冬の高知・安芸＆室戸！脂の乗った室戸キンメダイと土佐あかうし名宿5選</h1>
 
             <p className="text-sm sm:text-base text-cyan-100/90 leading-relaxed max-w-3xl pt-2">
               歴史薫る土佐の安芸「野良時計」と土居廓中武家屋敷、そして冬の室戸岬で出逢う奇跡の絶景「だるま朝日」！太平洋の雄大な黒潮が育む冬の極上「室戸キンメダイ煮付け」や幻の赤身肉「土佐あかうし」。黒潮の潮騒と太平洋一望露天風呂に癒やされる冬の東高知厳選名宿5選。

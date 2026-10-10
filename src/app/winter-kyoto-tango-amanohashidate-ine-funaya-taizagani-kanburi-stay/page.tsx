@@ -6,14 +6,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月京都】伊根寒ブリ！名宿5選',
+  title: '11・12・1月京都：伊根寒ブリ！名宿5選',
   description: '「海の京都」丹後地方が幻想的な雪化粧に包まれる11〜1月の冬紀行。日本三景・天橋立が白銀をまとう奇跡の絶景「幻雪の飛龍観」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '天橋立 雪景色, 飛龍観 冬, 伊根の舟屋 冬, 間人ガニ 丹後, 伊根 寒ブリしゃぶ, 元伊勢籠神社 初詣, 天橋立ホテル, 文珠荘, 玄妙庵',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kyoto-tango-amanohashidate-ine-funaya-taizagani-kanburi-stay/"
   },
   openGraph: {
-    title: '【11・12・1月京都】伊根寒ブリ！名宿5選',
+    title: '11・12・1月京都：伊根寒ブリ！名宿5選',
     description: '「海の京都」丹後地方が幻想的な雪化粧に包まれる11〜1月の冬紀行。日本三景・天橋立が白銀をまとう奇跡の絶景「幻雪の飛龍観」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-kyoto-tango-amanohashidate-ine-funaya-taizagani-kanburi-stay',
     type: 'article',
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月京都】「天橋立」幻雪の飛龍観と伊根の舟屋雪景色！元伊勢籠神社初詣＆幻の「間人ガニ」・伊根寒ブリ名宿5選",
+    title: "11・12・1月京都：「天橋立」幻雪の飛龍観と伊根の舟屋雪景色！元伊勢籠神社初詣＆幻の「間人ガニ」・伊根寒ブリ名宿5選",
     description: "「海の京都」丹後地方が幻想的な雪化粧に包まれる11〜1月の冬紀行。日本三景・天橋立が白銀をまとう奇跡の絶景「幻雪の飛龍観」、伊根湾に佇む重要伝統的建造物群「伊根の舟屋」の静謐な雪景色、丹後国一ノ宮「元伊勢 籠神社」新春初詣。間人港の小型船わずか5隻が命がけで獲る緑タグの幻「間人ガニ（たいざがに）」と、脂が乗った「伊根の寒ブリ」しゃぶしゃぶ。天橋立温泉や夕日ヶ浦温泉で冬の贅を極める厳選名宿5選を徹底解説します。",
     images: ['https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -281,10 +281,7 @@ export default function KyotoTangoWinterPage() {
             <Snowflake className="w-4 h-4 text-blue-300" />
             <span>関西・海の京都 丹後路 冬の特別紀行（11月・12月・1月）</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 font-journal-serif">
-            「天橋立」幻雪の飛龍観と伊根の舟屋雪景色<br className="hidden md:inline" />
-            元伊勢籠神社初詣＆幻の「間人ガニ」・伊根寒ブリ名宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 font-journal-serif">「天橋立」幻雪の飛龍観と伊根の舟屋雪景色<br className="hidden md:inline" /> 元伊勢籠神社初詣＆幻の「間人ガニ」・伊根寒ブリ名宿5選</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mb-6">
             千年の都・京都の奥深き海の表象、丹後。日本三景「天橋立」の白砂青松が雪化粧する奇跡の「幻雪の飛龍観」に包まれる11月から1月、丹後国一ノ宮「元伊勢 籠神社」には清冽な新春の気が満ち渡ります。海に浮かぶ重要伝統的建造物群「伊根の舟屋」の静謐な雪景色。そして間人港わずか5隻の小型船が命を賭して水揚げする緑タグの王者「間人ガニ（たいざがに）」と、脂の乗った「伊根の寒ブリ」。五感震える冬の至極へ誘います。
           </p>

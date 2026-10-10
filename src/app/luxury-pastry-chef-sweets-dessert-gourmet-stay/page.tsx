@@ -172,9 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>パティシエ特製スイーツ×極上美食</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            専属パティシエ特製スイーツ＆デザートビュッフェ！甘美なご褒美を味わう極上美食ホテル
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">専属パティシエ特製スイーツ＆デザートビュッフェ！甘美なご褒美を味わう極上美食ホテル</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             旅の醍醐味は美味しいデザート！一流パティシエが目の前で仕上げる出来立てミルフィーユや旬フルーツのパフェ、豪華なワゴンデザートサービスまで。スイーツ好きの夢を叶える贅沢な美食リゾート＆温泉ホテルを厳選しました。
           </p>

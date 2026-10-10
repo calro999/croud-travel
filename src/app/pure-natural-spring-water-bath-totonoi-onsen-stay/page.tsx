@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/pure-natural-spring-water-bath-totonoi-onsen-stay/" },
-  title: '地下天然水・飲める名水掛け流し水風呂宿完全ガイド【しきじ流・極上の羽衣】 | クラウドトラベル',
+  title: '地下天然水・飲める名水掛け流し水風呂宿厳選ガイド「しきじ流・極上の羽衣」 | クラウドトラベル',
   description: '「サウナの聖地しきじ」で知られる静岡の天然水水風呂や、阿蘇・北アルプスの名水百選伏流水を惜しげもなく掛け流す名宿を特集。肌に吸い付くまろやかな水質と天然の羽衣。',
   openGraph: {
-    title: '地下天然水・飲める名水掛け流し水風呂宿完全ガイド【しきじ流・極上の羽衣】 | クラウドトラベル',
+    title: '地下天然水・飲める名水掛け流し水風呂宿厳選ガイド「しきじ流・極上の羽衣」 | クラウドトラベル',
     description: '「サウナの聖地しきじ」で知られる静岡の天然水水風呂や、阿蘇・北アルプスの名水百選伏流水を惜しげもなく掛け流す名宿を特集。肌に吸い付くまろやかな水質と天然の羽衣。',
     type: 'article',
   },
@@ -59,9 +59,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-emerald-500/20 text-emerald-200 border border-emerald-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             天然水・名水水風呂特化
           </div>
-          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-emerald-50">
-            地下天然水・飲める名水掛け流し水風呂宿完全ガイド【しきじ流・極上の羽衣】
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-emerald-50">地下天然水・飲める名水掛け流し水風呂宿厳選ガイド「しきじ流・極上の羽衣」</h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl">
             「サウナの良し悪しは水風呂で決まる」と言われるサウナの世界。富士山の雪解け水、阿蘇の大自然が磨いた伏流水、北アルプス山麓の清らかな湧水など、ミネラルを豊富に含んだ地下天然水を贅沢にオーバーフローさせる極上の水風呂。肌を刺すような冷たさがなく、まるでシルクの羽衣をまとったかのようにまろやかに体を包み込む、本物の名水ととのいをご堪能ください。
           </p>

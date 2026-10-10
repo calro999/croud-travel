@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月和歌山】有田みかん海道と重伝建！名宿5選',
+  title: '11・12・1月和歌山：有田みかん海道と重伝建！名宿5選',
   description: '山々が黄金色に輝くみかんの郷と醤油発祥の日本遺産を巡る11〜1月の和歌山・有田＆湯浅特集。山一面に果実が実る11〜12月の「有田みかん」や「。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '有田みかん 観光, 有田みかん海道 ドライブ, 湯浅 醤油発祥 重伝建, 箕島 太刀魚 宿, 湯浅温泉 湯浅城, 紀州 クエ鍋 宿, 熊野牛 和歌山, 栖原海岸 夕日, 和歌山 冬 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-wakayama-arida-yuasa-mikan-tachiuo-stay/"
   },
   openGraph: {
-    title: '【11・12・1月和歌山】有田みかん海道と重伝建！名宿5選',
+    title: '11・12・1月和歌山：有田みかん海道と重伝建！名宿5選',
     description: '山々が黄金色に輝くみかんの郷と醤油発祥の日本遺産を巡る11〜1月の和歌山・有田＆湯浅特集。山一面に果実が実る11〜12月の「有田みかん」や「。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-wakayama-arida-yuasa-mikan-tachiuo-stay',
     type: 'article',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月和歌山】有田みかん海道と重伝建・湯浅の醤油蔵通り！箕島漁港直送「紀州一本釣り太刀魚・本クエ鍋・熊野牛」と栖原海岸夕景名宿5選",
+    title: "11・12・1月和歌山：有田みかん海道と重伝建・湯浅の醤油蔵通り！箕島漁港直送「紀州一本釣り太刀魚・本クエ鍋・熊野牛」と栖原海岸夕景名宿5選",
     description: "山々が黄金色に輝くみかんの郷と醤油発祥の日本遺産を巡る11〜1月の和歌山・有田＆湯浅特集。山一面に果実が実る11〜12月の「有田みかん」や「有田みかん海道」の絶景ドライブ、国の重要伝統的建造物群保存地区に指定された「湯浅の町並み」の冬情趣。全国一の水揚げを誇る箕島漁港の「冬の紀州一本釣り太刀魚」、冬の味覚の王様「天然本クエ鍋」、極上の「熊野牛」。紀伊水道の茜色の夕日を望む温泉名宿5選を完全ガイドします。",
     images: ['https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -284,11 +284,7 @@ export default function WakayamaAridaYuasaWinterPage() {
               <Sparkles className="w-4 h-4 text-amber-300" />
               <span>11月・12月・1月冬の近畿旅情特集</span>
             </div>
-            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 text-white drop-shadow-md">
-              和歌山・有田＆湯浅・広川<br className="hidden sm:inline" />
-              黄金色に輝く「有田みかん海道」と重伝建・湯浅醤油蔵通り<br className="hidden sm:inline" />
-              箕島一本釣り太刀魚・本クエ鍋・熊野牛＆絶景名宿5選
-            </h1>
+            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 text-white drop-shadow-md">和歌山・有田＆湯浅・広川<br className="hidden sm:inline" /> 黄金色に輝く「有田みかん海道」と重伝建・湯浅醤油蔵通り<br className="hidden sm:inline" /> 箕島一本釣り太刀魚・本クエ鍋・熊野牛＆絶景名宿5選</h1>
             <p className="max-w-3xl mx-auto text-sm md:text-lg text-amber-100 leading-relaxed drop-shadow">
               山一面が黄金色に実る日本一の有田みかんと、醤油醸造発祥の地として栄えた湯浅の重伝建町並み。箕島漁港が全国に誇る「一本釣り太刀魚」や冬の王様「天然本クエ鍋」、熊野牛に舌鼓を打ち、紀伊水道の茜色の夕日を望む温泉宿で癒やされる冬の紀州路。
             </p>

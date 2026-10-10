@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hokkaido-shiretoko-utoro-stay/" },
-  title: "【北海道・世界遺産知床ウトロ】オホーツク流氷・知床五湖＆エゾシカ海鮮極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "北海道・世界遺産知床ウトロ：オホーツク流氷・知床五湖＆エゾシカ海鮮極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "世界自然遺産・北海道知床ウトロエリア完全特化！オホーツク海の流氷クルーズ、知床五湖の高架木道散策、フレペの滝、オシンコシンの滝、知床産イクラ・ウニ・鮭とオホーツク海を一望する温泉リゾートを徹底解説。",
   keywords: ["北海道", "世界遺産知床ウトロ", "オホーツク流氷", "知床五湖", "エゾシカ海鮮極上宿", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             SHIRETOKO WILDERNESS GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【北海道・世界遺産知床ウトロ】オホーツク流氷・知床五湖＆エゾシカ海鮮極上宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「北海道・世界遺産知床ウトロ」オホーツク流氷・知床五湖＆エゾシカ海鮮極上宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             世界自然遺産「知床」。冬にはオホーツク海を真っ白に埋め尽くす神秘の流氷群。原生林に抱かれた知床五湖と、エゾシカやヒグマが暮らす手つかずの大自然。オホーツク海に沈む夕日を眺め、極上の海の幸を味わう旅。
           </p>

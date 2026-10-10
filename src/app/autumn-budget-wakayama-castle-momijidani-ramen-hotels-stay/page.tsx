@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【和歌山】和歌山城紅葉渓庭園と中華そば！2,000円台〜泊まれる格安ホテル5選',
+  title: '和歌山：和歌山城紅葉渓庭園と中華そば！2,000円台〜泊まれる格安ホテル5選',
   description: '名勝和歌山城「紅葉渓庭園」の水鏡紅葉と御橋廊下、豚骨醤油のコク深い本場和歌山ラーメン！和歌山駅前で1泊2,000円台〜4,000円台で泊まれる格安・高コスパホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetWakayamaHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>名勝紅葉渓庭園＆本場和歌山ラーメン</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【和歌山】和歌山城の紅葉渓庭園＆中華そば！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「和歌山」和歌山城の紅葉渓庭園＆中華そば！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-orange-100/90 max-w-2xl mx-auto leading-relaxed">
             お堀と石垣に映える紅葉のグラデーションが息を呑む国指定名勝「和歌山城 西の丸紅葉渓庭園」。夜は井出商店など名店がひしめく本場和歌山ラーメン（中華そば）のハシゴ巡りや紀州梅酒の利き酒！2,000円台〜4,000円台の駅前高評価ホテルをご紹介。
           </p>

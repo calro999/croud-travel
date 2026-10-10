@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-citrus-kingdoms-resort-stay/" },
-  title: '日本三大柑橘王国＆黄金色の果樹園・海風薫る爽快リゾートと名湯宿×ふるさと納税完全ガイド【2026年最新】愛媛・和歌山・静岡',
+  title: '日本三大柑橘王国＆黄金色の果樹園・海風薫る爽快リゾートと名湯宿×ふるさと納税厳選ガイド愛媛・和歌山・静岡',
   description: '太陽の光と潮風を浴びて実る黄金の果実！愛媛松山「温州みかん・紅まどんな・伊予柑」道後温泉ホテルルナパーク、和歌山有田・白浜「有田みかん400年の歴史」白浜古賀の井リゾート＆スパ、静岡熱海・三ヶ日「三ヶ日みかん・ニューサマーオレンジ」熱海温泉ホテル大野屋。日本三大柑橘王国の爽快な海風と温泉ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大柑橘・黄金ロード特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大柑橘王国＆黄金色の果樹園・海風薫る爽快リゾートと名湯宿×ふるさと納税完全ガイド【2026年最新】愛媛・和歌山・静岡',
+    title: '日本三大柑橘王国＆黄金色の果樹園・海風薫る爽快リゾートと名湯宿×ふるさと納税厳選ガイド愛媛・和歌山・静岡',
     description: '太陽の光と潮風を浴びて実る黄金の果実！愛媛松山「温州みかん・紅まどんな・伊予柑」道後温泉ホテルルナパーク、和歌山有田・白浜「有田みかん400年の歴史」白浜古賀の井リゾート＆スパ、静岡熱海・三ヶ日「三ヶ日みかん・ニューサマーオレンジ」熱海温泉ホテル大野屋。日本三大柑橘王国の爽快な海風と温泉ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-citrus-kingdoms-resort-stay',
@@ -142,9 +142,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大柑橘・黄金ロード特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大柑橘王国＆爽快な果樹園パノラマ・美肌名湯宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大柑橘王国＆爽快な果樹園パノラマ・美肌名湯宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             南国の太陽光線と黒潮が運ぶ潮風、段々畑の水はけの良い石垣が極上の甘みと酸味を凝縮させる「日本三大柑橘王国」――柑橘の品種数が日本一を誇り「蛇口からみかんジュース」でも有名な愛媛の「愛媛・松山・八幡浜」、天正年間に始まり400年の歴史を誇る最高峰ブランド・有田みかんが段々畑一面を黄金色に染める和歌山の「紀州・有田・白浜」、そして富士山と駿河湾を望む温暖な斜面で三ヶ日みかんや青島みかん・ニューサマーオレンジを育む静岡の「伊豆・熱海・浜名湖」。果樹園が広がるシーサイドロードをドライブし、搾りたての柑橘ジュースや名湯露天風呂、ご当地ブランド海の幸を満喫する爽やかな旅を楽天ふるさと納税でお楽しみください。
           </p>

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kochi-katsurahama-castle-hirome-market-stay/" },
-  title: "【高知・桂浜＆高知城】坂本龍馬・カツオ藁焼き＆ひろめ市場宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "高知・桂浜＆高知城：坂本龍馬・カツオ藁焼き＆ひろめ市場宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "幕末の英雄・坂本龍馬が愛した名勝「桂浜」、現存十二天守にして日本唯一本丸御殿が残る「高知城」、屋台村でカツオの塩たたきと地酒に酔いしれる「ひろめ市場」、三百年続く「土佐の日曜市」を徹底解説。高知市内温泉ホテルや太平洋ビュー宿を厳選。",
   keywords: ["高知", "桂浜", "高知城", "坂本龍馬", "カツオ藁焼き", "ひろめ市場宿", "温泉宿"],
 };
@@ -92,9 +92,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             KOCHI & KATSURAHAMA GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【高知・桂浜＆高知城・ひろめ市場】坂本龍馬銅像・カツオ藁焼き塩たたき＆日曜市宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「高知・桂浜＆高知城・ひろめ市場」坂本龍馬銅像・カツオ藁焼き塩たたき＆日曜市宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-teal-100/90 leading-relaxed">
             黒潮躍る太平洋の荒波に向かって堂々と立つ坂本龍馬銅像の聖地「桂浜」。四層六階の美しい現存天守と本丸御殿が完全な形で残る天下の名城「高知城」。巨大な屋台村「ひろめ市場」で炎を上げて豪快に焼き上げる本場のカツオ藁焼き塩たたき。江戸時代から300年以上続く日本最大級の街路市「日曜市」。豪放磊落な土佐人気質と豊かな山海の美味を満喫する高知ステイへご案内します。
           </p>

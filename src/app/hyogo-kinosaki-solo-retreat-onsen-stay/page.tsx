@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hyogo-kinosaki-solo-retreat-onsen-stay/" },
-  title: '【城崎温泉ひとり旅・七田外湯めぐりおこもり】大谿川柳並木・浴衣散策・松葉ガニ＆但馬牛！千三百年続く文学と名湯の街厳選3宿',
+  title: '城崎温泉ひとり旅・七田外湯めぐりおこもり：大谿川柳並木・浴衣散策・松葉ガニ＆但馬牛！千三百年続く文学と名湯の街厳選3宿',
   description: '浴衣の似合う日本一の温泉街・城崎！大谿川沿いで外湯めぐりに抜群の立地を誇る「富士見屋」、但馬牛熟成肉と日本酒が自慢の洗練宿「小宿 縁」、鮮魚仲買直営で日本海の獲れたて海の幸を堪能できる「風月魚匠」を楽天API最新データに基づき徹底比較。',
   keywords: '城崎温泉 一人旅 宿,城崎 ホテル 一人 温泉,城崎温泉 富士見屋,小宿 縁,風月魚匠,城崎 外湯めぐり ひとり旅',
   openGraph: {
-    title: '【城崎温泉ひとり旅・七田外湯めぐりおこもり】大谿川柳並木・浴衣散策・松葉ガニ＆但馬牛！千三百年続く文学と名湯の街厳選3宿',
+    title: '城崎温泉ひとり旅・七田外湯めぐりおこもり：大谿川柳並木・浴衣散策・松葉ガニ＆但馬牛！千三百年続く文学と名湯の街厳選3宿',
     description: '浴衣の似合う日本一の温泉街・城崎！大谿川沿いで外湯めぐりに抜群の立地を誇る「富士見屋」、但馬牛熟成肉と日本酒が自慢の洗練宿「小宿 縁」、鮮魚仲買直営で日本海の獲れたて海の幸を堪能できる「風月魚匠」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/hyogo-kinosaki-solo-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【城崎温泉ひとり旅・七田外湯めぐりおこもり】大谿川柳並木・浴衣散策・松葉ガニ＆但馬牛！千三百年続く文学と名湯の街厳選3宿',
+    headline: '城崎温泉ひとり旅・七田外湯めぐりおこもり：大谿川柳並木・浴衣散策・松葉ガニ＆但馬牛！千三百年続く文学と名湯の街厳選3宿',
     description: '浴衣の似合う日本一の温泉街・城崎！大谿川沿いで外湯めぐりに抜群の立地を誇る「富士見屋」、但馬牛熟成肉と日本酒が自慢の洗練宿「小宿 縁」、鮮魚仲買直営で日本海の獲れたて海の幸を堪能できる「風月魚匠」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             兵庫・城崎温泉ひとり旅＆七田外湯めぐりおこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【城崎温泉ひとり旅・七田外湯めぐりおこもり】大谿川柳並木・浴衣散策・松葉ガニ＆但馬牛！千三百年続く文学と名湯の街厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「城崎温泉ひとり旅・七田外湯めぐりおこもり」大谿川柳並木・浴衣散策・松葉ガニ＆但馬牛！千三百年続く文学と名湯の街厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

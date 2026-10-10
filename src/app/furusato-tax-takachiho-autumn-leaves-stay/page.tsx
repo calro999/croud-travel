@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '神話の郷・高千穂峡の真名井の滝紅葉ボート＆夜神楽！高千穂牛と極上隠れ宿×ふるさと納税完全ガイド【2026年最新秋旅】宮崎',
+  title: '神話の郷・高千穂峡の真名井の滝紅葉ボート＆夜神楽！高千穂牛と極上隠れ宿×ふるさと納税厳選ガイド宮崎',
   description: '11月上旬〜11月下旬に見頃を迎える天孫降臨の地「高千穂峡（たかちほきょう）」。阿蘇溶岩の柱状節理と名瀑「真名井の滝」を水面から見上げる貸しボート紅葉散策、高千穂神社の夜神楽、名宿「離れの宿 神隠れ」「旅館 神仙」「ホテル高千穂」で日本一の栄冠に輝いた高千穂牛やかっぽ酒を堪能。楽天ふるさと納税で実質2,000円。',
   keywords: ["神話の郷", "高千穂峡の真名井の滝紅葉ボート", "2026年最新秋旅", "宮崎", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-takachiho-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '神話の郷・高千穂峡の真名井の滝紅葉ボート＆夜神楽！高千穂牛と極上隠れ宿×ふるさと納税完全ガイド【2026年最新秋旅】宮崎',
+    title: '神話の郷・高千穂峡の真名井の滝紅葉ボート＆夜神楽！高千穂牛と極上隠れ宿×ふるさと納税厳選ガイド宮崎',
     description: '11月上旬〜11月下旬に見頃を迎える天孫降臨の地「高千穂峡（たかちほきょう）」。阿蘇溶岩の柱状節理と名瀑「真名井の滝」を水面から見上げる貸しボート紅葉散策、高千穂神社の夜神楽、名宿「離れの宿 神隠れ」「旅館 神仙」「ホテル高千穂」で日本一の栄冠に輝いた高千穂牛やかっぽ酒を堪能。楽天ふるさと納税で実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-takachiho-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FeatureArticlePage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               宮崎・神話の郷高千穂峡＆真名井の滝特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              神話の郷・高千穂峡の真名井の滝紅葉ボート＆夜神楽！高千穂牛と極上隠れ宿×ふるさと納税完全ガイド【2026年最新秋旅】宮崎
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">神話の郷・高千穂峡の真名井の滝紅葉ボート＆夜神楽！高千穂牛と極上隠れ宿×ふるさと納税厳選ガイド宮崎</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               11月上旬〜11月下旬に見頃を迎える天孫降臨の地「高千穂峡（たかちほきょう）」。阿蘇溶岩の柱状節理と名瀑「真名井の滝」を水面から見上げる貸しボート紅葉散策、高千穂神社の夜神楽、名宿「離れの宿 神隠れ」「旅館 神仙」「ホテル高千穂」で日本一の栄冠に輝いた高千穂牛やかっぽ酒を堪能。楽天ふるさと納税で実質2,000円。
             </p>

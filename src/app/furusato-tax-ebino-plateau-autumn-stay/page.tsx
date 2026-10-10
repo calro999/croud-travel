@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            えびの高原白紫池の黄金ススキ＆霧島連山の紅葉・京町温泉の源泉宿と極上宮崎牛
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">えびの高原白紫池の黄金ススキ＆霧島連山の紅葉・京町温泉の源泉宿と極上宮崎牛</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             霧島連山に広がる黄金のススキの海。南九州屈指の良泉・京町温泉でとろける宮崎牛を味わう至高の秋旅。
           </p>

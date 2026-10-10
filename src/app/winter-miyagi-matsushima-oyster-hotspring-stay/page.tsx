@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【11月解禁！松島・三陸の極上生牡蠣＆焼き牡蠣】日本三景パノラマと海の幸会席名湯宿5選",
+  title: "解禁！松島・三陸の極上生牡蠣＆焼き牡蠣で過ごす冬の旅（11月）！日本三景パノラマと海の幸会席名湯宿5選",
   description: "11月から本格シーズンを迎える日本三景・松島の冬の名物「松島かき」！大粒で濃厚なクリーミーさを誇る生牡蠣、香ばしい焼き牡蠣、熱々の牡蠣鍋と、松島湾に昇る絶景の朝日を望む展望露天風呂を堪能する宮城の冬旅。",
   keywords: "松島 温泉 露天風呂 旅館, 11月旅行, 12月旅行, 冬休み, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-miyagi-matsushima-oyster-hotspring-stay/",
   },
   openGraph: {
-    title: "【11月解禁！松島・三陸の極上生牡蠣＆焼き牡蠣】日本三景パノラマと海の幸会席名湯宿5選",
+    title: "解禁！松島・三陸の極上生牡蠣＆焼き牡蠣で過ごす冬の旅（11月）！日本三景パノラマと海の幸会席名湯宿5選",
     description: "11月から本格シーズンを迎える日本三景・松島の冬の名物「松島かき」！大粒で濃厚なクリーミーさを誇る生牡蠣、香ばしい焼き牡蠣、熱々の牡蠣鍋と、松島湾に昇る絶景の朝日を望む展望露天風呂を堪能する宮城の冬旅。",
     url: 'https://croud-travel.pages.dev/winter-miyagi-matsushima-oyster-hotspring-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11月解禁！松島・三陸の極上生牡蠣＆焼き牡蠣】日本三景パノラマと海の幸会席名湯宿5選",
+    title: "解禁！松島・三陸の極上生牡蠣＆焼き牡蠣で過ごす冬の旅（11月）！日本三景パノラマと海の幸会席名湯宿5選",
     description: "11月から本格シーズンを迎える日本三景・松島の冬の名物「松島かき」！大粒で濃厚なクリーミーさを誇る生牡蠣、香ばしい焼き牡蠣、熱々の牡蠣鍋と、松島湾に昇る絶景の朝日を望む展望露天風呂を堪能する宮城の冬旅。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>松島かき会席＆日本三景温泉</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【11月解禁！松島・三陸の極上生牡蠣＆焼き牡蠣】日本三景パノラマと海の幸会席名湯宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">解禁！松島・三陸の極上生牡蠣＆焼き牡蠣で過ごす冬の旅（11月）！日本三景パノラマと海の幸会席名湯宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             11月から本格シーズンを迎える日本三景・松島の冬の名物「松島かき」！大粒で濃厚なクリーミーさを誇る生牡蠣、香ばしい焼き牡蠣、熱々の牡蠣鍋と、松島湾に昇る絶景の朝日を望む展望露天風呂を堪能する宮城の冬旅。
           </p>

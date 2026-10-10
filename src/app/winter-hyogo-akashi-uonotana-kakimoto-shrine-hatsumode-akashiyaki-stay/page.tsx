@@ -5,14 +5,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月兵庫】明石海峡大橋を望む人麿山「柿！名宿5選',
+  title: '11・12・1月兵庫：明石海峡大橋を望む人麿山「柿！名宿5選',
   description: '世界最大級の吊橋・明石海峡大橋を間近に仰ぐ兵庫県明石・加古川・播磨灘エリア。11〜1月は澄み渡る冬晴れの下。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '柿本神社 初詣, 明石 魚の棚商店街, 本場 明石焼き 玉子焼, 明石海峡大橋 冬 ライトアップ, 加古川 かつめし, ホテルキャッスルプラザ 明石, シーサイドホテル舞子ビラ神戸, グリーンヒルホテル明石, 兵庫 冬 観光',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-hyogo-akashi-uonotana-kakimoto-shrine-hatsumode-akashiyaki-stay'
   },
   openGraph: {
-    title: '【11・12・1月兵庫】明石海峡大橋を望む人麿山「柿！名宿5選',
+    title: '11・12・1月兵庫：明石海峡大橋を望む人麿山「柿！名宿5選',
     description: '世界最大級の吊橋・明石海峡大橋を間近に仰ぐ兵庫県明石・加古川・播磨灘エリア。11〜1月は澄み渡る冬晴れの下。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-hyogo-akashi-uonotana-kakimoto-shrine-hatsumode-akashiyaki-stay',
     siteName: 'クラドトラベル',
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月兵庫】明石海峡大橋を望む人麿山「柿本神社」新春初詣と歳末・新春活気溢れる「魚の棚商店街」！冬の激流が育む「明石だこ・明石鯛」本場明石焼き＆加古川かつめし・播州牛厳選名宿5選",
+    title: "11・12・1月兵庫：明石海峡大橋を望む人麿山「柿本神社」新春初詣と歳末・新春活気溢れる「魚の棚商店街」！冬の激流が育む「明石だこ・明石鯛」本場明石焼き＆加古川かつめし・播州牛厳選名宿5選",
     description: "世界最大級の吊橋・明石海峡大橋を間近に仰ぐ兵庫県明石・加古川・播磨灘エリア。11〜1月は澄み渡る冬晴れの下、歌聖・柿本人麻呂公を祀る人麿山「柿本神社」で迎える厳かな新春初詣。明石の台所「魚の棚商店街」では年末年始の活気が最高潮に達し、荒波が育む極上の「明石だこ」「明石鯛」や出汁で味わう熱々の本場「明石焼き（玉子焼）」を満喫。播州名物「加古川かつめし」や播州牛を味わい、海峡の夜景に抱かれる厳選名宿5選。",
     images: ['https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=80']
   }
@@ -290,11 +290,7 @@ export default function HyogoAkashiWinterFeaturePage() {
               <Sparkles className="w-4 h-4 text-blue-400" />
               11月・12月・1月冬の播磨灘・明石海峡探訪スペシャル
             </div>
-            <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight mb-6">
-              【兵庫・明石＆加古川】<br className="hidden sm:inline" />
-              明石海峡大橋を望む人麿山「柿本神社」新春初詣と魚の棚商店街！<br />
-              熱々の本場「明石焼き」・加古川かつめし＆播磨灘の厳選名宿
-            </h1>
+            <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight mb-6">「兵庫・明石＆加古川」<br className="hidden sm:inline" /> 明石海峡大橋を望む人麿山「柿本神社」新春初詣と魚の棚商店街！<br /> 熱々の本場「明石焼き」・加古川かつめし＆播磨灘の厳選名宿</h1>
             <p className="text-sm sm:text-base md:text-lg text-stone-300 leading-relaxed max-w-3xl mx-auto mb-8 font-normal">
               世界最大級の吊橋・明石海峡大橋が澄んだ冬空に輝く兵庫の港町・明石。歌聖・柿本人麻呂公を祀る人麿山「柿本神社」で迎える厳かな新春初詣。400年の歴史を持つ明石の台所「魚の棚商店街」に満ちる歳末・新春の活気。激流が生んだ歯ごたえ抜群の明石だこと、黄金出汁に浸して味わう熱々の本場「明石焼き（玉子焼）」。播州名物「加古川かつめし」に舌鼓を打ち、海峡の夜景に包まれる特選の冬旅をご案内します。
             </p>

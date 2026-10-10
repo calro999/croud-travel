@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月長崎・平戸温泉郷】特選平戸和牛会席！名宿5選',
+  title: '長崎・平戸温泉郷で過ごす冬の旅（11・12月）！特選平戸和牛会席！名宿5選',
   description: '11月から12月にかけて、長崎県北西端に浮かぶ歴史と異国情緒の島・平戸温泉郷は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '平戸温泉 宿泊, 旗松亭, 平戸海上ホテル, サムソンホテル, ホテル彩陽, ホテル蘭風, 天然クエ鍋, 寒ヒラメ 11月 12月, 平戸和牛, 平戸城',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagasaki-hirado-onsen-kue-hirame-hirado-beef-stay/"
   },
   openGraph: {
-    title: '【11・12月長崎・平戸温泉郷】特選平戸和牛会席！名宿5選',
+    title: '長崎・平戸温泉郷で過ごす冬の旅（11・12月）！特選平戸和牛会席！名宿5選',
     description: '11月から12月にかけて、長崎県北西端に浮かぶ歴史と異国情緒の島・平戸温泉郷は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-nagasaki-hirado-onsen-kue-hirame-hirado-beef-stay',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -220,12 +220,7 @@ export default function WinterNagasakiHiradoPage() {
             11月・12月 冬の美食＆歴史探訪特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月長崎・平戸温泉郷】初冬黒潮絶景と天然クエ＆寒ヒラメ
-            <span className="block text-teal-300 text-lg sm:text-2xl mt-3 font-normal">
-              幻の高級魚クエ鍋＆特選平戸和牛会席を堪能する城下町名宿5選
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">長崎・平戸温泉郷で過ごす冬の旅（11・12月）！初冬黒潮絶景と天然クエ＆寒ヒラメ <span className="block text-teal-300 text-lg sm:text-2xl mt-3 font-normal"> 幻の高級魚クエ鍋＆特選平戸和牛会席を堪能する城下町名宿5選 </span></h1>
 
           <p className="text-sm sm:text-base text-slate-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、長崎県北西端の平戸温泉郷は、平戸瀬戸の激流が育む冬の味覚の王様「天然クエ（アラ）」と「寒ヒラメ」が最盛期を迎える最高の旬を迎えます。日本初の西洋貿易港として栄えたオランダ商館跡やカトリック教会、平戸城が織りなす和洋折衷の歴史散策を楽しみ、美肌効果の高い重曹泉の露天風呂から海峡を行き交う船を眺める極上の時間。幻の高級魚クエ鍋、透き通るヒラメのお造り、特選平戸和牛の陶板ステーキを味わう厳選5宿を徹底解説します。

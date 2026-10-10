@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            世界遺産「高野山」壇上伽藍の紅葉ライトアップ＆日本三美人の湯「龍神温泉」・極上熊野牛会席
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">世界遺産「高野山」壇上伽藍の紅葉ライトアップ＆日本三美人の湯「龍神温泉」・極上熊野牛会席</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             千二百年の祈りが息づく高野山の錦秋絵巻。日本三美人の湯・龍神温泉のトロトロ名湯と極上熊野牛でととのう。
           </p>

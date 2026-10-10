@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '客室専用プライベートプール＆温水ジャグジー付き極上ヴィラ宿×ふるさと納税完全ガイド【2026年最新】沖縄・宮古島・千葉鴨川',
+  title: '客室専用プライベートプール＆温水ジャグジー付き極上ヴィラ宿×ふるさと納税厳選ガイド沖縄・宮古島・千葉鴨川',
   description: '誰の目も気にせず青空と水辺を独占！沖縄本島やんばるの海を望む独立型ヴィラ「プライベートプールヴィラもとぶ」、都心から気軽に行けるプライベートプール＆本格サウナ完備「Rakuten STAY VILLA 鴨川。」、宮古ブルーの海が目前に広がる南国最高峰リゾート「プライベートプールヴィラ イムギャーリゾート。」。恋人とのリゾートバカンスや家族旅行に最高の贅沢を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
   keywords: ["客室専用プライベートプール", "2026年最新", "沖縄", "宮古島", "千葉鴨川", "温泉宿", "宿泊予約"],
   alternates: { canonical: baseUrl + '/furusato-tax-private-pool-luxury-suite-villa-stay/' },
   openGraph: {
-    title: '客室専用プライベートプール＆温水ジャグジー付き極上ヴィラ宿×ふるさと納税完全ガイド【2026年最新】沖縄・宮古島・千葉鴨川',
+    title: '客室専用プライベートプール＆温水ジャグジー付き極上ヴィラ宿×ふるさと納税厳選ガイド沖縄・宮古島・千葉鴨川',
     description: '誰の目も気にせず青空と水辺を独占！沖縄本島やんばるの海を望む独立型ヴィラ「プライベートプールヴィラもとぶ」、都心から気軽に行けるプライベートプール＆本格サウナ完備「Rakuten STAY VILLA 鴨川。」、宮古ブルーの海が目前に広がる南国最高峰リゾート「プライベートプールヴィラ イムギャーリゾート。」。恋人とのリゾートバカンスや家族旅行に最高の贅沢を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
     url: baseUrl + '/furusato-tax-private-pool-luxury-suite-villa-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoPrivatePoolLuxuryStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             プライベートプール＆ヴィラスイート特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            客室専用プライベートプール＆温水ジャグジー付き極上ヴィラ宿×ふるさと納税完全ガイド【2026年最新】沖縄・宮古島・千葉鴨川
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">客室専用プライベートプール＆温水ジャグジー付き極上ヴィラ宿×ふるさと納税厳選ガイド沖縄・宮古島・千葉鴨川</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             海外リゾートの邸宅のように、客室のテラスに専用のプールが備えられた「プライベートプール付きヴィラ」。他の宿泊客との共用プールとは異なり、水着に着替えてテラスの扉を開ければ、そこは自分たちだけの青いオアシス。朝目覚めてすぐにプールサイドでコーヒーを味わい、日中は太陽の光を浴びて水遊びや読書、夜にはライトアップされた水面を眺めながら満天の星空の下でカクテルを傾ける――そんな映画のワンシーンのような極上リゾートステイが日本国内でも体験できます。美ら海水族館にも近くやんばるの大自然に抱かれる沖縄「プライベートプールヴィラもとぶ」、首都圏から車でアクセスできプール＆サウナが両方楽しめる千葉・外房「Rakuten STAY VILLA 鴨川。」、そして東洋一美しいと称される宮古ブルーの海が広がる「プライベートプールヴィラ イムギャーリゾート。」。こうした超高級プールヴィラは宿泊単価が高額ですが、楽天ふるさと納税のトラベルクーポン（寄付額の最大30％割引）を活用すれば、実質自己負担2,000円で驚くほどお得に予約可能。人生最高の非日常感を味わう、ラグジュアリープールステイへ出かけましょう。
           </p>

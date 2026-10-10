@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月津軽】冬限定「大鰐温泉もやし」と開湯800年の名湯！名宿5選',
+  title: '津軽で過ごす冬の旅（11・12月）！冬限定「大鰐温泉もやし」と開湯800年の名湯！名宿5選',
   description: '11月中旬から12月の初冬、津軽富士・岩木山が白銀の雪化粧をまとい、津軽平野に凛とした冬の訪れを告げる季節。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '大鰐温泉 宿泊, 大鰐温泉もやし 宿, 津軽あっぷる牛, 弘前城 冬に咲くさくらライトアップ, 青森 ワイナリーホテル, ヤマニ仙遊館, 不二やホテル 大鰐, 11月 12月 青森温泉旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-aomori-owani-hirosaki-onsen-moyashi-tsugarugyu-stay/"
   },
   openGraph: {
-    title: '【11・12月津軽】冬限定「大鰐温泉もやし」と開湯800年の名湯！名宿5選',
+    title: '津軽で過ごす冬の旅（11・12月）！冬限定「大鰐温泉もやし」と開湯800年の名湯！名宿5選',
     description: '11月中旬から12月の初冬、津軽富士・岩木山が白銀の雪化粧をまとい、津軽平野に凛とした冬の訪れを告げる季節。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-aomori-owani-hirosaki-onsen-moyashi-tsugarugyu-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月津軽】冬限定「大鰐温泉もやし」と開湯800年の名湯・津軽あっぷる牛＆弘前城冬さくらライトアップを巡る名宿5選",
+    title: "津軽で過ごす冬の旅（11・12月）！冬限定「大鰐温泉もやし」と開湯800年の名湯・津軽あっぷる牛＆弘前城冬さくらライトアップを巡る名宿5選",
     description: "11月中旬から12月の初冬、津軽富士・岩木山が白銀の雪化粧をまとい、津軽平野に凛とした冬の訪れを告げる季節。青森県南津軽郡大鰐町は、開湯800年を超える津軽最古の歴史を誇る名湯・大鰐温泉が湯煙に包まれます。この時期、全国の美食家が熱い視線を注ぐのが、冬期限定で本格収穫される幻の伝統野菜「大鰐温泉もやし」。門外不出の一子相伝で、温泉の熱水と温泉水のみを用いて土耕栽培されるこのもやしは、30cmを超える長さとシャキシャキとした抜群の歯応え、芳醇な豆の香りを誇り、江戸時代には津軽藩主への献上品とされた至高の逸品です。熱々の「大鰐温泉もやし鍋」や、リンゴを食べて育った霜降り黒毛和牛「津軽あっぷる牛」のすき焼き・ステーキは初冬の寒さを一瞬で忘れさせる贅沢。さらに車で30分ほどの弘前では、弘前城外濠の雪景色を桜色に照らし出す幻想的な「冬に咲くさくらライトアップ」が開催されます。歴史ある共同浴場や登録有形文化財の宿など、津軽の冬情趣を心ゆくまで堪能できる厳選5宿を徹底ガイドします。",
     images: ['https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -367,9 +367,7 @@ export default function AomoriOwaniHirosakiWinterPage() {
             <Sparkles className="w-3.5 h-3.5" />
             11月・12月津軽初冬特集・大鰐温泉もやし＆名湯探訪
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold tracking-tight text-white leading-tight">
-            {metadata.title as string}
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold tracking-tight text-white leading-tight">{metadata.title as string}</h1>
           <p className="text-xs sm:text-sm text-stone-300 leading-relaxed pt-2">
             350年受け継がれる冬限定の奇跡「大鰐温泉もやし」の芳醇な歯応えと、開湯800年を誇る津軽最古の温まり湯。
             津軽あっぷる牛のすき焼きと、初冬の夜空に雪が桜色に浮かぶ弘前城ライトアップを巡る旅へ。

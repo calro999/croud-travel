@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagasaki-hirado-sasebo-kujukushima-stay/" },
-  title: "【長崎・平戸＆佐世保・九十九島】世界遺産キリシタン史跡・平戸城＆九十九島遊覧・ヒラメ宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "長崎・平戸＆佐世保・九十九島：世界遺産キリシタン史跡・平戸城＆九十九島遊覧・ヒラメ宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "異国情緒と多島美の楽園・長崎平戸＆佐世保九十九島エリア完全特化！平戸城（宿泊体験キャッスルステイ）、世界遺産春日集落・生月島サンセットウェイ、九十九島パールシーリゾート、名物「天然ヒラメ・佐世保バーガー宿」を徹底解説。",
   keywords: ["長崎", "平戸", "佐世保", "九十九島", "世界遺産キリシタン史跡", "平戸城", "九十九島遊覧"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             HIRADO & SASEBO GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【長崎・平戸＆佐世保・九十九島】世界遺産キリシタン史跡・平戸城＆九十九島遊覧・ヒラメ宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「長崎・平戸＆佐世保・九十九島」世界遺産キリシタン史跡・平戸城＆九十九島遊覧・ヒラメ宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             南蛮貿易と潜伏キリシタンの歴史が息づく城下町「平戸」と、208の島々が浮かぶ絶景「九十九島・佐世保」。生月島の断崖絶壁を走るサンセットウェイ。平戸港水揚げの極上「天然ヒラメ」と佐世保のレモンステーキを味わう西端の旅。
           </p>

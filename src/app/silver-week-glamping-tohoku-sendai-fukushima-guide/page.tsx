@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-tohoku-sendai-fukushima-guide/" },
-  title: "【東北シルバーウィーク グランピング】宮城・福島・秋田の雄大な自然＆紅葉先取りステイ ｜ 日本全国・旅宿クラウド",
+  title: "東北シルバーウィーク グランピング：宮城・福島・秋田の雄大な自然＆紅葉先取りステイ ｜ 日本全国・旅宿クラウド",
   description:
     "仙台・福島から好アクセス！蔵王連峰や裏磐梯の秋風を感じる東北グランピング特集。一足早い紅葉の兆し、東北のブランド牛BBQ、天然温泉を併設した絶景アウトドアリゾート完全ガイド。",
   keywords: ["東北シルバーウィーク", "グランピング", "宮城", "福島", "秋田の雄大な自然", "紅葉先取りステイ", "温泉宿"],
@@ -176,9 +176,7 @@ export default function SilverWeekGlampingTohokuPage() {
             </span>
           </div>
 
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【東北シルバーウィーク グランピング】宮城・福島・秋田の雄大な自然＆紅葉先取りステイ
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「東北シルバーウィーク グランピング」宮城・福島・秋田の雄大な自然＆紅葉先取りステイ</h1>
 
           <p className="text-xs md:text-sm text-rose-100/90 leading-relaxed font-medium">
             都会の蒸し暑さを抜け出し、いち早く澄んだ秋空が広がる東北の杜へ。三陸・気仙沼大島の豊かな潮風、裏磐梯や安比高原を渡る爽やかな風、そして名湯・天然温泉のぬくもり。地元で水揚げされた新鮮な海の幸やブランド牛をテラスで焼き上げ、夜は満天の天の川を見上げる——五感で味わう東北のアウトドアリトリートへご案内します。

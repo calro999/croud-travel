@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-sea-of-clouds-terrace-infinity-onsen-stay/" },
-  title: "【雲海テラス＆天空インフィニティ温泉宿】トマム・竜王・秩父・竹田城 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "雲海テラス＆天空インフィニティ温泉宿：トマム・竜王・秩父・竹田城 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "雲の上に浮かぶ奇跡の絶景完全特化！星野リゾート トマム「雲海テラス」、長野SORA terrace、兵庫「天空の城・竹田城跡」、埼玉「秩父ミューズパーク」、早朝雲海ツアーと天空インフィニティ露天風呂宿を徹底解説。",
   keywords: ["雲海テラス", "天空インフィニティ温泉宿", "トマム", "竜王", "秩父", "竹田城", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function ScenicViewHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             SEA OF CLOUDS & SKY INFINITY GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【雲海テラス＆天空インフィニティ温泉宿】トマム・竜王・秩父・竹田城 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「雲海テラス＆天空インフィニティ温泉宿」トマム・竜王・秩父・竹田城 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             朝起きると、そこは一面の白い雲の海「雲海リゾート」。ゴンドラで登るトマムの雲海テラス、北アルプスに沈む夕陽と雲海を望むSORA terrace、朝霧に浮かぶ天空の城・竹田城跡。雲を見下ろしながら浸かる天空露天風呂へ。
           </p>

@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            世界遺産・吉野山の秋色グラデーション（下千本〜奥千本）と千年の歴史漂う隠れ宿＆大和牛会席
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">世界遺産・吉野山の秋色グラデーション（下千本〜奥千本）と千年の歴史漂う隠れ宿＆大和牛会席</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             下千本から奥千本へ、山肌を黄金と朱に染め上げる錦秋の吉野山。静寂の隠れ宿で味わう大和牛と吉野の伝統。
           </p>

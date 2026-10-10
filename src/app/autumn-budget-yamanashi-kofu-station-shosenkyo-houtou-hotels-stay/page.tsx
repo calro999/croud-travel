@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【甲府駅前】特別名勝昇仙峡の紅葉＆名物ほうとう・甲州ワイン！3,000円台〜泊まれる格安ホテル5選',
+  title: '甲府駅前：特別名勝昇仙峡の紅葉＆名物ほうとう・甲州ワイン！3,000円台〜泊まれる格安ホテル5選',
   description: '日本一の渓谷美を誇る特別名勝・昇仙峡の錦秋紅葉！カボチャと根菜が染み渡る熱々の名物ほうとうや新酒甲州ワイン。JR中央本線・甲府駅周辺で1泊3,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>国指定特別名勝昇仙峡の奇岩紅葉＆熱々ほうとう・新酒ワイン</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【甲府駅前】昇仙峡の錦秋＆名物ほうとう！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「甲府駅前」昇仙峡の錦秋＆名物ほうとう！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             奇岩と清流が織りなす日本一の渓谷美「御嶽昇仙峡」。秋には覚円峰や仙娥滝を包み込むモミジやカエデの錦秋絵巻が広がります。鉄鍋でグツグツ煮込まれる山梨の郷土料理「甲州ほうとう」や解禁されたばかりの「甲州ヌーヴォー」に舌鼓！甲府駅周辺で3,000円台〜泊まれる優良ホテルを厳選。
           </p>

@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月広島】宮島厳島神社の初詣！名宿5選',
+  title: '11・12・1月広島：宮島厳島神社の初詣！名宿5選',
   description: '11月から1月、瀬戸内海・広島湾（廿日市宮島・江田島・広島市街）は、全国屈指のブランドを誇る「広島牡蠣」が最もふっくらと大粒に育ち。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '広島牡蠣 温泉宿, 宮島 厳島神社 初詣 宿, 有もと, 岩惣, 江田島荘, 安芸グランドホテル, ホテル宮島別荘, 11月 12月 1月 広島旅行, 焼き牡蠣 土手鍋 穴子めし',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hiroshima-miyajima-etajima-oyster-onsen-stay/"
   },
   openGraph: {
-    title: '【11・12・1月広島】宮島厳島神社の初詣！名宿5選',
+    title: '11・12・1月広島：宮島厳島神社の初詣！名宿5選',
     description: '11月から1月、瀬戸内海・広島湾（廿日市宮島・江田島・広島市街）は、全国屈指のブランドを誇る「広島牡蠣」が最もふっくらと大粒に育ち。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-hiroshima-miyajima-etajima-oyster-onsen-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月広島】冬の瀬戸内「広島牡蠣」焼き牡蠣・土手鍋＆世界遺産・宮島厳島神社の初詣・江田島温泉を巡る厳選名宿5選",
+    title: "11・12・1月広島：冬の瀬戸内「広島牡蠣」焼き牡蠣・土手鍋＆世界遺産・宮島厳島神社の初詣・江田島温泉を巡る厳選名宿5選",
     description: "11月から1月、瀬戸内海・広島湾（廿日市宮島・江田島・広島市街）は、全国屈指のブランドを誇る「広島牡蠣」が最もふっくらと大粒に育ち、濃厚な旨みを凝縮させる旬の黄金期を迎えます。香ばしい殻付き焼き牡蠣、熱々の味噌仕立て牡蠣土手鍋、サクサクの牡蠣フライ、そして宮島名物穴子めしや極上広島牛。澄み渡る冬空に映える世界遺産・厳島神社の海に浮かぶ朱塗り大鳥居の初詣や雪景色、江田島の海を望むオリーブ温泉や宮島の数寄屋造り名宿で、心洗われる冬の休日を満喫する厳選5宿を徹底ガイドします。",
     images: ['https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80']
   }
@@ -42,7 +42,7 @@ export default function HiroshimaMiyajimaOysterWinterPage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: "【11・12・1月広島】冬の瀬戸内「広島牡蠣」焼き牡蠣・土手鍋＆世界遺産・宮島厳島神社の初詣・江田島温泉を巡る厳選名宿5選",
+    headline: "11・12・1月広島：冬の瀬戸内「広島牡蠣」焼き牡蠣・土手鍋＆世界遺産・宮島厳島神社の初詣・江田島温泉を巡る厳選名宿5選",
     description: "11月から1月、瀬戸内海・広島湾（廿日市宮島・江田島・広島市街）は、全国屈指のブランドを誇る「広島牡蠣」が最もふっくらと大粒に育ち、濃厚な旨みを凝縮させる旬の黄金期を迎えます。香ばしい殻付き焼き牡蠣、熱々の味噌仕立て牡蠣土手鍋、サクサクの牡蠣フライ、そして宮島名物穴子めしや極上広島牛。澄み渡る冬空に映える世界遺産・厳島神社の海に浮かぶ朱塗り大鳥居の初詣や雪景色、江田島の海を望むオリーブ温泉や宮島の数寄屋造り名宿で、心洗われる冬の休日を満喫する厳選5宿を徹底ガイドします。",
     image: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
     datePublished: '',
@@ -282,9 +282,7 @@ export default function HiroshimaMiyajimaOysterWinterPage() {
             <Snowflake className="w-4 h-4 text-rose-300" />
             11月・12月・1月 冬の瀬戸内・広島牡蠣＆厳島神社初詣特集
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【11・12・1月広島】冬の瀬戸内「広島牡蠣」焼き牡蠣・土手鍋＆世界遺産・宮島厳島神社の初詣・江田島温泉を巡る厳選名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「11・12・1月広島」冬の瀬戸内「広島牡蠣」焼き牡蠣・土手鍋＆世界遺産・宮島厳島神社の初詣・江田島温泉を巡る厳選名宿5選</h1>
           <p className="text-slate-300 text-sm sm:text-base md:text-lg max-w-3xl leading-relaxed">
             瀬戸内海の穏やかな海が育む冬の海のミルク「広島牡蠣」。香ばしい殻付き焼き牡蠣や熱々の土手鍋、宮島名物穴子めしに舌鼓。澄み切った冬空に映える厳島神社の朱塗り大鳥居の初詣と、江田島の多島美を望む極上温泉宿で、心洗われる冬の旅をご堪能ください。
           </p>

@@ -180,9 +180,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            出来立ての生ビールと名湯に酔いしれる！全国のクラフトビール醸造所・ブルワリー直結ホテル
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">出来立ての生ビールと名湯に酔いしれる！全国のクラフトビール醸造所・ブルワリー直結ホテル</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             湯上がりに喉を鳴らして飲む、キンキンに冷えたクラフトビール。醸造タンクから直接注がれるフレッシュなホップの香り豊かなIPAや、まろやかなコクの黒ビール、地元果実を使った限定エール。温泉と出来立てビール、そして相性抜群の地元料理を心ゆくまで堪能できる至福のビール旅へご案内します。
           </p>

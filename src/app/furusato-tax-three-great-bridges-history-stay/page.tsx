@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-bridges-history-stay/" },
-  title: '日本三大名橋＆伝統建築美を渡る歴史街道宿×ふるさと納税完全ガイド【2026年最新】錦帯橋・眼鏡橋・日本橋',
+  title: '日本三大名橋＆伝統建築美を渡る歴史街道宿×ふるさと納税厳選ガイド錦帯橋・眼鏡橋・日本橋',
   description: '幾星霜の歴史を刻む日本の名架橋！山口岩国「錦帯橋」五連の木造アーチ美と錦帯橋温泉岩国国際観光ホテル、長崎「眼鏡橋」日本最古の国重文アーチ石橋と異国情緒漂うホテルモントレ長崎、東京中央区「日本橋」五街道の起点たる石造二連アーチと三井ガーデンホテル日本橋プレミア。日本三大名橋の建築美と老舗グルメを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大名橋・伝統架橋建築特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大名橋＆伝統建築美を渡る歴史街道宿×ふるさと納税完全ガイド【2026年最新】錦帯橋・眼鏡橋・日本橋',
+    title: '日本三大名橋＆伝統建築美を渡る歴史街道宿×ふるさと納税厳選ガイド錦帯橋・眼鏡橋・日本橋',
     description: '幾星霜の歴史を刻む日本の名架橋！山口岩国「錦帯橋」五連の木造アーチ美と錦帯橋温泉岩国国際観光ホテル、長崎「眼鏡橋」日本最古の国重文アーチ石橋と異国情緒漂うホテルモントレ長崎、東京中央区「日本橋」五街道の起点たる石造二連アーチと三井ガーデンホテル日本橋プレミア。日本三大名橋の建築美と老舗グルメを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-bridges-history-stay',
@@ -155,9 +155,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大名橋・伝統架橋建築特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大名橋＆歴史街道宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大名橋＆歴史街道宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             日本各地の街道や城下町、交易の要所を支えてきた橋梁の最高峰「日本三大名橋」――錦川の清流に描かれる五連の優美な木造アーチが釘を一本も使わぬ木組みの精緻さを誇る山口岩国の「錦帯橋」、興福寺の黙子如定禅師によって架橋された日本最古の国重要文化財アーチ石橋であり水面に映る円環が幻想的な長崎の「眼鏡橋」、そして徳川家康による開府以来、五街道の起点として日本の近代化と物流の中心を担ってきた東京都中央区の石造二連アーチ「日本橋」。古人の知恵と土木工学の粋が結集したこれらの名橋は、四季折々の水辺の景色とともに訪れる者をタイムトラベルへと誘います。名橋を間近に望む老舗料理旅館やラグジュアリーホテルを拠点に、郷土会席や老舗の味を堪能する特別なひとときを楽天ふるさと納税でお楽しみください。
           </p>

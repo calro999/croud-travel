@@ -3,11 +3,11 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【秋の松山・道後温泉×格安】松山城の紅葉と最古の名湯外湯めぐり！1泊4,000円台〜のコスパ最強おすすめ宿5選【2026最新】',
+  title: '秋の松山・道後温泉×格安：松山城の紅葉と最古の名湯外湯めぐり！1泊4,000円台〜のコスパ最強おすすめ宿5選「2026最新」',
   description: '改修を終え全館営業を再開した「道後温泉本館」と松山城の秋パノラマ！名物宇和島鯛めしやみかんスイーツを満喫。温泉大浴場やサウナ完備で1泊4,000円〜6,000円台で泊まれる道後・松山市内の格安宿5選。ダイワロイネットホテル松山、喜助の宿、にぎたつ会館を徹底比較！',
   keywords: '道後温泉 格安 宿, 松山 大浴場 ホテル 安い, 松山城 紅葉, 道後温泉本館 外湯めぐり, ダイワロイネットホテル松山, 喜助の宿 松山',
   openGraph: {
-    title: '【秋の松山・道後温泉×格安】松山城の紅葉と最古の名湯外湯めぐり！1泊4,000円台〜のコスパ最強おすすめ宿5選【2026最新】',
+    title: '秋の松山・道後温泉×格安：松山城の紅葉と最古の名湯外湯めぐり！1泊4,000円台〜のコスパ最強おすすめ宿5選「2026最新」',
     description: '道後温泉本館と松山城の秋紅葉！大浴場付き1泊4,000円台〜のコスパ最強おすすめ宿5選。',
     type: 'article',
     url: 'https://croud-travel.com/autumn-budget-ehime-matsuyama-dogo-onsen-hotels-stay',
@@ -32,9 +32,7 @@ export default function MatsuyamaBudgetAutumnPage() {
             <span className="px-3 py-1 bg-teal-600 text-white text-xs font-bold rounded-full">格安・四国特集</span>
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">1泊目安: 4,000円台〜6,000円台</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">
-            【秋の松山・道後温泉×格安】松山城の紅葉と最古の名湯外湯めぐり！1泊4,000円台〜のコスパ最強おすすめ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の松山・道後温泉×格安」松山城の紅葉と最古の名湯外湯めぐり！1泊4,000円台〜のコスパ最強おすすめ宿5選</h1>
           <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
             保存修理工事を終えて約5年半ぶりに全館営業を再開した「道後温泉本館」。城山全体が色づく松山城の絶景と、愛媛名物・鯛めしを堪能しながら、手頃な料金で名湯に浸かれる格安宿をご紹介します。
           </p>

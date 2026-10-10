@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '源泉数・湧出量日本一！別府八湯＆地獄めぐりと大パノラマ露天風呂名門ホテル×ふるさと納税完全攻略ガイド【2026年最新】杉乃井・山水館・亀の井',
+  title: '源泉数・湧出量日本一！別府八湯＆地獄めぐりと大パノラマ露天風呂名門ホテル×ふるさと納税極上旅ガイド杉乃井・山水館・亀の井',
   description: '源泉数・湧出量ともに日本一を誇るおんせん県おおいたの象徴・別府温泉！大迫力の地獄めぐりと湯けむり景観。「別府温泉 杉乃井ホテル」「別府鉄輪温泉 ホテル山水館」「亀の井ホテル 別府」を、大分県別府市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。大展望露天風呂棚湯、地獄蒸し、郷土料理バイキングを満喫。',
   keywords: ["源泉数", "湧出量日本一！別府八湯", "2026年最新", "杉乃井", "山水館", "亀の井", "温泉宿"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-beppu-onsen-jigoku-meguri-stay/",
   },
   openGraph: {
-    title: '源泉数・湧出量日本一！別府八湯＆地獄めぐりと大パノラマ露天風呂名門ホテル×ふるさと納税完全攻略ガイド【2026年最新】杉乃井・山水館・亀の井',
+    title: '源泉数・湧出量日本一！別府八湯＆地獄めぐりと大パノラマ露天風呂名門ホテル×ふるさと納税極上旅ガイド杉乃井・山水館・亀の井',
     description: '源泉数・湧出量ともに日本一を誇るおんせん県おおいたの象徴・別府温泉！大迫力の地獄めぐりと湯けむり景観。「別府温泉 杉乃井ホテル」「別府鉄輪温泉 ホテル山水館」「亀の井ホテル 別府」を、大分県別府市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。大展望露天風呂棚湯、地獄蒸し、郷土料理バイキングを満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-beppu-onsen-jigoku-meguri-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoBeppuOnsenJigokuStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           日本一の湧出量を誇る温泉王国！大分県別府温泉特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          源泉数・湧出量日本一！別府八湯＆地獄めぐりと大パノラマ露天風呂名門ホテル×ふるさと納税完全攻略ガイド【2026年最新】杉乃井・山水館・亀の井
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">源泉数・湧出量日本一！別府八湯＆地獄めぐりと大パノラマ露天風呂名門ホテル×ふるさと納税極上旅ガイド杉乃井・山水館・亀の井</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoBeppuOnsenJigokuStayPage() {
               別府の夜空に光る星のように、心ときめく時間を過ごす新棟「星館」
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “毎年来たいホテルNo. 1初めての杉乃井ホテル仕事場の上司に勧められて来ましたが想像以上に満足できるホテルで、毎年遊びに来たいと思えるホテルです。一日中遊べて子供も大人も楽しめます。ク… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D5547%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoBeppuOnsenJigokuStayPage() {
               木々に囲まれ二連水車の廻る大露天風呂と別府湾や湯煙りの情景を一望できる展望露天風呂が人気
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “部屋は綺麗で展望風呂と大浴場を満喫部屋は綺麗で、窓際が和室になっていてとてもよかったです温泉は展望風呂と大浴場の2種類があって楽しめます欲を言えばぬる湯が一箇所でもあるといいなと思いました… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D107764%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoBeppuOnsenJigokuStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               別府駅から徒歩5分。別府ICから車で15分。無料の駐車場も完備した温泉付きホテル
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “駅近でリーズナブル、スタッフの対応も良好3回目の利用です。別府の駅から近くて便利です。古さは感じますが、掃除が行き届いていて、スタッフがとても感じが良く、料金もリーズナブルです。今回は… ”
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

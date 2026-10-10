@@ -3,11 +3,11 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【秋の寸又峡】夢の吊橋のエメラルド湖水と鮮烈な紅葉！美女づくりの湯を満喫するおすすめ秘境宿5選【2026最新】',
+  title: '秋の寸又峡：夢の吊橋のエメラルド湖水と鮮烈な紅葉！美女づくりの湯を満喫するおすすめ秘境宿5選「2026最新」',
   description: 'チンダル現象で輝くエメラルドグリーンの湖水に架かる寸又峡「夢の吊橋」と山肌を彩る紅葉の絶景！トロトロの硫黄泉「美女づくりの湯」を満喫する秘境宿5選。川根温泉ホテル、翠紅苑、ふれあいコテージの魅力を徹底比較！',
   keywords: '寸又峡 夢の吊橋, 寸又峡 紅葉 見頃, 寸又峡温泉 宿, 美女づくりの湯, 川根温泉ホテル, 翠紅苑',
   openGraph: {
-    title: '【秋の寸又峡】夢の吊橋のエメラルド湖水と鮮烈な紅葉！美女づくりの湯を満喫するおすすめ秘境宿5選【2026最新】',
+    title: '秋の寸又峡：夢の吊橋のエメラルド湖水と鮮烈な紅葉！美女づくりの湯を満喫するおすすめ秘境宿5選「2026最新」',
     description: 'チンダル現象で輝くエメラルドグリーンの湖水に架かる寸又峡「夢の吊橋」と紅葉！秘境名宿5選。',
     type: 'article',
     url: 'https://croud-travel.com/autumn-shizuoka-sumatakyo-yume-no-tsuribashi-hotels-stay',
@@ -32,9 +32,7 @@ export default function SumatakyoAutumnPage() {
             <span className="px-3 py-1 bg-amber-600 text-white text-xs font-bold rounded-full">秋の静岡・秘境特集</span>
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">見頃目安: 11月上旬〜11月下旬</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">
-            【秋の寸又峡】夢の吊橋のエメラルド湖水と鮮烈な紅葉！美女づくりの湯を満喫するおすすめ秘境宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の寸又峡」夢の吊橋のエメラルド湖水と鮮烈な紅葉！美女づくりの湯を満喫するおすすめ秘境宿5選</h1>
           <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
             「死ぬまでに渡りたい世界の徒歩吊り橋10選。」にも選出された寸又峡の「夢の吊橋」。乳青色に輝く湖面を包み込む紅葉美と、南アルプスの麓に湧き出る美肌の湯「美女づくりの湯」で贅沢な秘境トリップをご案内します。
           </p>

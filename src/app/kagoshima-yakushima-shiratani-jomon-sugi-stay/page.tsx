@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kagoshima-yakushima-shiratani-jomon-sugi-stay/" },
-  title: "【鹿児島・屋久島＆白谷雲水峡・縄文杉】世界自然遺産・苔むす森トレッキング＆首折れ鯖宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "鹿児島・屋久島＆白谷雲水峡・縄文杉：世界自然遺産・苔むす森トレッキング＆首折れ鯖宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "洋上のアルプス・世界自然遺産屋久島エリア完全特化！太古の巨木「縄文杉トレッキング」、映画の舞台「白谷雲水峡（苔むす森）」、大川の滝、名物「首折れ鯖・トビウオ料理・屋久島温泉リゾート。」を徹底解説。",
   keywords: ["鹿児島", "屋久島", "白谷雲水峡", "縄文杉", "世界自然遺産", "苔むす森トレッキング", "首折れ鯖宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             YAKUSHIMA & WORLD HERITAGE GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【鹿児島・屋久島＆白谷雲水峡・縄文杉】世界自然遺産・苔むす森トレッキング＆首折れ鯖宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「鹿児島・屋久島＆白谷雲水峡・縄文杉」世界自然遺産・苔むす森トレッキング＆首折れ鯖宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-emerald-100/90 leading-relaxed">
             樹齢数千年の巨木が呼吸する世界自然遺産の島「屋久島」。生命の神秘をたたえる「縄文杉」への巡礼。どこまでも深い緑の絨毯が広がる「白谷雲水峡・苔むす森」。屋久島近海で獲れる新鮮な「首折れ鯖」のお造りとトビウオのから揚げ。悠久の時を体感する大人の大自然旅。
           </p>

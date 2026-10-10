@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '日本一早い紅葉！大雪山・層雲峡渓谷の柱状節理＆銀河流星の滝と名湯宿×ふるさと納税完全ガイド【2026年最新秋旅】北海道',
+  title: '日本一早い紅葉！大雪山・層雲峡渓谷の柱状節理＆銀河流星の滝と名湯宿×ふるさと納税厳選ガイド北海道',
   description: '9月下旬〜10月中旬に見頃を迎える日本一早い紅葉の聖地「大雪山・層雲峡（そううんきょう）」。高さ100mの柱状節理の断崖と日本の滝百選「銀河・流星の滝」を彩る錦秋絵巻、黒岳ロープウェイの紅葉狩り、名宿「朝陽リゾートホテル」「湯元 銀泉閣」「朝陽亭」で道産牛や秋の味覚バイキングを堪能。ふるさと納税で実質2,000円。',
   keywords: ["日本一早い紅葉！大雪山", "層雲峡渓谷の柱状節理", "2026年最新秋旅", "北海道", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-sounkyo-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '日本一早い紅葉！大雪山・層雲峡渓谷の柱状節理＆銀河流星の滝と名湯宿×ふるさと納税完全ガイド【2026年最新秋旅】北海道',
+    title: '日本一早い紅葉！大雪山・層雲峡渓谷の柱状節理＆銀河流星の滝と名湯宿×ふるさと納税厳選ガイド北海道',
     description: '9月下旬〜10月中旬に見頃を迎える日本一早い紅葉の聖地「大雪山・層雲峡（そううんきょう）」。高さ100mの柱状節理の断崖と日本の滝百選「銀河・流星の滝」を彩る錦秋絵巻、黒岳ロープウェイの紅葉狩り、名宿「朝陽リゾートホテル」「湯元 銀泉閣」「朝陽亭」で道産牛や秋の味覚バイキングを堪能。ふるさと納税で実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-sounkyo-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FeatureArticlePage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               北海道・大雪山層雲峡＆紅葉渓谷特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              日本一早い紅葉！大雪山・層雲峡渓谷の柱状節理＆銀河流星の滝と名湯宿×ふるさと納税完全ガイド【2026年最新秋旅】北海道
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">日本一早い紅葉！大雪山・層雲峡渓谷の柱状節理＆銀河流星の滝と名湯宿×ふるさと納税厳選ガイド北海道</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               9月下旬〜10月中旬に見頃を迎える日本一早い紅葉の聖地「大雪山・層雲峡（そううんきょう）」。高さ100mの柱状節理の断崖と日本の滝百選「銀河・流星の滝」を彩る錦秋絵巻、黒岳ロープウェイの紅葉狩り、名宿「朝陽リゾートホテル」「湯元 銀泉閣」「朝陽亭」で道産牛や秋の味覚バイキングを堪能。ふるさと納税で実質2,000円。
             </p>

@@ -42,9 +42,7 @@ export default function Page() {
             <span className="inline-block w-2 h-2 rounded-full bg-rose-400 animate-pulse" />
             日本三大地底滝・地下宮殿特集
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">
-            日本三大地底滝鍾乳洞＆地底アドベンチャー宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三大地底滝鍾乳洞＆地底アドベンチャー宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg md:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed font-normal">
             洞窟内に轟く大滝と数千万年の鍾乳石アート！岡山「井倉洞」高さ50mの地底滝と新見グランドホテルみよしや、福島「あぶくま洞」滝根御殿と東洋一の鍾乳石・磐梯熱海温泉ホテル華の湯、東京「日原鍾乳洞」奥多摩の巨大地下宮殿と奥多摩の風はとのす荘。日本三大地底滝鍾乳洞の冒険と名湯を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。
           </p>

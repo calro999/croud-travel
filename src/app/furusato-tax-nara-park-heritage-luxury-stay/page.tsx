@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【奈良公園×ふるさと納税】世界遺産の大仏＆若草山の緑！クラシックホテルと露天風呂ヴィラ特集｜奈良ホテル・ふふ奈良・JWマリオット',
+  title: '奈良公園をふるさと納税でお得に旅する！世界遺産の大仏＆若草山の緑！クラシックホテルと露天風呂ヴィラ特集｜奈良ホテル・ふふ奈良・JWマリオット',
   description: '千三百年余の時を刻む古都・奈良県奈良市（奈良公園周辺）を楽天ふるさと納税でお得に贅沢ステイ！明治四十二年創業「関西の迎賓館」として愛される「奈良ホテル」、奈良公園の杜に佇む隈研吾建築「ふふ 奈良」、日本初の最高峰ラグジュアリー「JWマリオット・ホテル奈良」を徹底比較。奈良市ふるさと納税トラベルクーポン活用術を網羅。',
   keywords: '奈良公園 ホテル ふるさと納税,奈良ホテル クーポン,ふふ奈良 ふるさと納税,JWマリオット奈良 宿泊,奈良市 ふるさと納税 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-nara-park-heritage-luxury-stay/",
   },
   openGraph: {
-    title: '【奈良公園×ふるさと納税】世界遺産の大仏＆若草山の緑！クラシックホテルと露天風呂ヴィラ特集｜奈良ホテル・ふふ奈良・JWマリオット',
+    title: '奈良公園をふるさと納税でお得に旅する！世界遺産の大仏＆若草山の緑！クラシックホテルと露天風呂ヴィラ特集｜奈良ホテル・ふふ奈良・JWマリオット',
     description: '千三百年余の時を刻む古都・奈良県奈良市（奈良公園周辺）を楽天ふるさと納税でお得に贅沢ステイ！明治四十二年創業「関西の迎賓館」として愛される「奈良ホテル」、奈良公園の杜に佇む隈研吾建築「ふふ 奈良」、日本初の最高峰ラグジュアリー「JWマリオット・ホテル奈良」を徹底比較。奈良市ふるさと納税トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-nara-park-heritage-luxury-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -24,7 +24,7 @@ export default function FurusatoArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【奈良公園×ふるさと納税】世界遺産の大仏＆若草山の緑！クラシックホテルと露天風呂ヴィラ特集｜奈良ホテル・ふふ奈良・JWマリオット',
+    headline: '奈良公園をふるさと納税でお得に旅する！世界遺産の大仏＆若草山の緑！クラシックホテルと露天風呂ヴィラ特集｜奈良ホテル・ふふ奈良・JWマリオット',
     description: '千三百年余の時を刻む古都・奈良県奈良市（奈良公園周辺）を楽天ふるさと納税でお得に贅沢ステイ！明治四十二年創業「関西の迎賓館」として愛される「奈良ホテル」、奈良公園の杜に佇む隈研吾建築「ふふ 奈良」、日本初の最高峰ラグジュアリー「JWマリオット・ホテル奈良」を徹底比較。奈良市ふるさと納税トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function FurusatoArticlePage() {
           <span>♨️</span>
           <span>奈良県奈良市（奈良公園周辺） ふるさと納税・名湯宿特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【奈良公園×ふるさと納税】世界遺産の大仏＆若草山の緑！クラシックホテルと露天風呂ヴィラ特集｜奈良ホテル・ふふ奈良・JWマリオット
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">奈良公園をふるさと納税でお得に旅する！世界遺産の大仏＆若草山の緑！クラシックホテルと露天風呂ヴィラ特集｜奈良ホテル・ふふ奈良・JWマリオット</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed">
           千三百年余の時を刻む古都・奈良県奈良市（奈良公園周辺）を楽天ふるさと納税でお得に贅沢ステイ！明治四十二年創業「関西の迎賓館」として愛される「奈良ホテル」、奈良公園の杜に佇む隈研吾建築「ふふ 奈良」、日本初の最高峰ラグジュアリー「JWマリオット・ホテル奈良」を徹底比較。奈良市ふるさと納税トラベルクーポン活用術を網羅。
         </p>

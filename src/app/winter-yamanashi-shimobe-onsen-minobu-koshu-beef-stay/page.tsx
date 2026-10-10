@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月山梨・下部温泉】初冬富士山と甲州牛！名宿5選',
+  title: '山梨・下部温泉で過ごす冬の旅（11・12月）！初冬富士山と甲州牛！名宿5選',
   description: '11月から12月にかけて、山梨県南部・富士川の支流である下部川沿いに湯けむりを上げる「下部温泉」は、静謐な初冬の空気に包まれます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '下部温泉 旅館, 身延山久遠寺 宿泊, 下部ホテル, ホテル守田, 宿坊 山本坊, 元湯 橋本屋, 大黒屋, 武田信玄 隠し湯, ぬる湯治, 甲州牛, ほうとう, 11月 12月 山梨温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamanashi-shimobe-onsen-minobu-koshu-beef-stay/"
   },
   openGraph: {
-    title: '【11・12月山梨・下部温泉】初冬富士山と甲州牛！名宿5選',
+    title: '山梨・下部温泉で過ごす冬の旅（11・12月）！初冬富士山と甲州牛！名宿5選',
     description: '11月から12月にかけて、山梨県南部・富士川の支流である下部川沿いに湯けむりを上げる「下部温泉」は、静謐な初冬の空気に包まれます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-yamanashi-shimobe-onsen-minobu-koshu-beef-stay',
     siteName: 'クラドトラベル',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月山梨・下部温泉＆身延】武田信玄公の隠し湯とぬる湯治・初冬富士山と甲州牛・名物ほうとうを味わう名宿5選",
+    title: "山梨・下部温泉＆身延で過ごす冬の旅（11・12月）！武田信玄公の隠し湯とぬる湯治・初冬富士山と甲州牛・名物ほうとうを味わう名宿5選",
     description: "11月から12月にかけて、山梨県南部・富士川の支流である下部川沿いに湯けむりを上げる「下部温泉」は、静謐な初冬の空気に包まれます。戦国武将・武田信玄公が川中島の合戦で負った刀傷を癒やしたと伝わる名湯で、古くから湯治場として栄えてきました。最大の特徴は、体温に近い約30度のぬる湯源泉と、適度に温かい高温泉を交互に行き来する「ぬる湯治（交代浴）」。副交感神経を優位にし、身体の芯から疲労と凝りを解き放ちます。近隣には日蓮宗総本山「身延山久遠寺」が鎮座し、初冬の澄み渡る空気の中で厳かな参拝と白銀の富士山遠望が叶います。夕食には山梨の豊かな自然が育んだきめ細やかな霜降り「甲州牛」や「甲州ワインビーフ」の溶岩焼き、手打ちの平打ち麺を根菜と特製味噌で煮込んだ熱々の「名物ほうとう」、手作り身延湯葉など冬の身体を芯から温める逸品揃い。初冬の山梨で心身を解きほぐす厳選名宿5選を詳しく紹介します。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -248,12 +248,7 @@ export default function WinterYamanashiShimobePage() {
             11月・12月 信玄公の隠し湯「ぬる湯治」と初冬富士山・甲州牛特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月山梨・下部温泉＆身延】武田信玄公の隠し湯とぬる湯治
-            <span className="block text-amber-300 text-lg sm:text-2xl mt-3 font-normal">
-              初冬富士山の絶景・自噴源泉の交互浴と極上甲州牛・名物ほうとうを味わう名宿5選
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">山梨・下部温泉＆身延で過ごす冬の旅（11・12月）！武田信玄公の隠し湯とぬる湯治 <span className="block text-amber-300 text-lg sm:text-2xl mt-3 font-normal"> 初冬富士山の絶景・自噴源泉の交互浴と極上甲州牛・名物ほうとうを味わう名宿5選 </span></h1>
 
           <p className="text-sm sm:text-base text-stone-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、山梨県南部・富士川の支流である下部川沿いに湯けむりを上げる「下部温泉」は、静謐な初冬の空気に包まれます。戦国武将・武田信玄公が川中島の合戦で負った刀傷を癒やしたと伝わる名湯で、古くから湯治場として栄えてきました。最大の特徴は、体温に近い約30度のぬる湯源泉と、適度に温かい高温泉を交互に行き来する「ぬる湯治（交代浴）」。副交感神経を優位にし、身体の芯から疲労と凝りを解き放ちます。近隣には日蓮宗総本山「身延山久遠寺」が鎮座し、初冬の澄み渡る空気の中で厳かな参拝と白銀の富士山遠望が叶います。夕食には山梨の豊かな自然が育んだきめ細やかな霜降り「甲州牛」や「甲州ワインビーフ」の溶岩焼き、手打ちの平打ち麺を根菜と特製味噌で煮込んだ熱々の「名物ほうとう」、手作り身延湯葉など冬の身体を芯から温める逸品揃い。初冬の山梨で心身を解きほぐす厳選名宿5選を詳しく紹介します。

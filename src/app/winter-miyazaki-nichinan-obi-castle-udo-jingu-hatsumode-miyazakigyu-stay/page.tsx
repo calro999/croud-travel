@@ -3,13 +3,13 @@ import Link from 'next/link';
 import { Star, MapPin, Calendar, Compass, ShieldCheck, Heart, Sparkles, ExternalLink, ChevronRight } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【日州の小京都・飫肥城下町重伝建と鵜戸神宮新春初詣】2026-2027年冬の宮崎・日南！名物一本釣りカツオと宮崎牛会席名宿5選',
+  title: '日州の小京都・飫肥城下町重伝建と鵜戸神宮新春初詣：2026-2027年冬の宮崎・日南！名物一本釣りカツオと宮崎牛会席名宿5選',
   description: '飫肥杉薫る九州の小京都「飫肥城下町」の武家屋敷冬情緒と、日南海岸の断崖洞窟「鵜戸神宮」新春開運運玉初詣！冬でも温暖な南国宮崎で味わう脂の乗った日南一本釣りカツオ・最高峰宮崎牛・近海伊勢海老。日南海岸を望む絶景天然温泉と上質なおもてなしを誇る厳選名宿5選。',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-miyazaki-nichinan-obi-castle-udo-jingu-hatsumode-miyazakigyu-stay/',
   },
   openGraph: {
-    title: '【日州の小京都・飫肥城下町重伝建と鵜戸神宮新春初詣】2026-2027年冬の宮崎・日南！名物一本釣りカツオと宮崎牛会席名宿5選',
+    title: '日州の小京都・飫肥城下町重伝建と鵜戸神宮新春初詣：2026-2027年冬の宮崎・日南！名物一本釣りカツオと宮崎牛会席名宿5選',
     description: '飫肥杉薫る九州の小京都「飫肥城下町」の武家屋敷冬情緒と、日南海岸の断崖洞窟「鵜戸神宮」新春開運運玉初詣！冬でも温暖な南国宮崎で味わう脂の乗った日南一本釣りカツオ・最高峰宮崎牛・近海伊勢海老。日南海岸を望む絶景天然温泉と上質なおもてなしを誇る厳選名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-miyazaki-nichinan-obi-castle-udo-jingu-hatsumode-miyazakigyu-stay/',
     siteName: '冬の日本厳選旅行ガイド',
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: '【日州の小京都・飫肥城下町重伝建と鵜戸神宮新春初詣】2026-2027年冬の宮崎・日南！名物一本釣りカツオと宮崎牛会席名宿5選',
+    title: '日州の小京都・飫肥城下町重伝建と鵜戸神宮新春初詣：2026-2027年冬の宮崎・日南！名物一本釣りカツオと宮崎牛会席名宿5選',
     description: '飫肥杉薫る九州の小京都「飫肥城下町」の武家屋敷冬情緒と、日南海岸の断崖洞窟「鵜戸神宮」新春開運運玉初詣！冬でも温暖な南国宮崎で味わう脂の乗った日南一本釣りカツオ・最高峰宮崎牛・近海伊勢海老。日南海岸を望む絶景天然温泉と上質なおもてなしを誇る厳選名宿5選。',
     images: ['https://img.travel.rakuten.co.jp/share/HOTEL/187408/187408.jpg'],
   },
@@ -201,9 +201,7 @@ export default function Page() {
               <span>冬の旅（11月〜1月）厳選特集</span>
             </div>
 
-            <h1 className="text-2xl sm:text-4xl font-extrabold leading-tight tracking-tight text-white drop-shadow-sm">
-              【日州の小京都・飫肥城下町重伝建と鵜戸神宮新春初詣】2026-2027年冬の宮崎・日南！名物一本釣りカツオと宮崎牛会席名宿5選
-            </h1>
+            <h1 className="text-2xl sm:text-4xl font-extrabold leading-tight tracking-tight text-white drop-shadow-sm">「日州の小京都・飫肥城下町重伝建と鵜戸神宮新春初詣」2026-2027年冬の宮崎・日南！名物一本釣りカツオと宮崎牛会席名宿5選</h1>
 
             <p className="text-sm sm:text-base text-cyan-100/90 leading-relaxed max-w-3xl pt-2">
               飫肥杉薫る九州の小京都「飫肥城下町」の武家屋敷冬情緒と、日南海岸の断崖洞窟「鵜戸神宮」新春開運運玉初詣！冬でも温暖な南国宮崎で味わう脂の乗った日南一本釣りカツオ・最高峰宮崎牛・近海伊勢海老。日南海岸を望む絶景天然温泉と上質なおもてなしを誇る厳選名宿5選。

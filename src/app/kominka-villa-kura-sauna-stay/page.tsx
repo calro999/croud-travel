@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kominka-villa-kura-sauna-stay/" },
-  title: "【古民家一棟貸し・蔵サウナの宿】築100年再生邸宅・プライベート薪サウナ 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "古民家一棟貸し・蔵サウナの宿：築100年再生邸宅・プライベート薪サウナ 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "贅沢な古民家一棟貸し＆プライベートサウナ宿完全特化！築100年以上の重厚な古民家リノベーション、蔵を改装した本格セルフロウリュ薪サウナ、地下水掛け流し水風呂、囲炉裏炭火焼きと星空外気浴を徹底解説。",
   keywords: ["古民家一棟貸し", "蔵サウナの宿", "築100年再生邸宅", "プライベート薪サウナ", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
@@ -89,9 +89,7 @@ export default function HeritageOnsenHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             KOMINKA VILLA & KURA SAUNA GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【古民家一棟貸し・蔵サウナの宿】築100年再生邸宅・プライベート薪サウナ 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「古民家一棟貸し・蔵サウナの宿」築100年再生邸宅・プライベート薪サウナ 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             築100年を超える豪農の屋敷や町家を贅沢に独占する「古民家一棟貸し」。太い梁と漆喰壁が包み込む歴史空間に、最新の快適設備とプライベート蔵サウナを完備。囲炉裏を囲んで炭火焼きを味わい、星空の下でととのう究極の休日。
           </p>

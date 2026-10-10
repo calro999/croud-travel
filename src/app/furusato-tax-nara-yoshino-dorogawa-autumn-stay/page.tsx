@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            奈良・吉野山＆大峯山麓 洞川温泉のレトロ街並み紅葉！名水ごごろと名物ぼたん鍋・大和牛
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">奈良・吉野山＆大峯山麓 洞川温泉のレトロ街並み紅葉！名水ごごろと名物ぼたん鍋・大和牛</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の奈良・吉野＆天川村・洞川温泉特集！世界遺産・吉野山の錦秋グラデーションと金峯山寺、修験道の霊峰・大峯山の麓に広がる縁側レトロな洞川温泉街の紅葉ライトアップ、名水百選ごろごろ水で仕立てる名物ぼたん鍋や大和牛会席をふるさと納税トラベルで味わう歴史旅。
           </p>

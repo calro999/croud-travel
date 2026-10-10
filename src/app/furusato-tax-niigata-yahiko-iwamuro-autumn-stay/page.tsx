@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            新潟・越後一宮 弥彦神社もみじ谷＆弥彦温泉！菊まつりと越後名物・のどぐろ・岩船米コシヒカリ
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">新潟・越後一宮 弥彦神社もみじ谷＆弥彦温泉！菊まつりと越後名物・のどぐろ・岩船米コシヒカリ</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の新潟・弥彦＆岩室温泉特集！朱塗りの観月橋を彩る弥彦公園「もみじ谷」の紅葉ライトアップ、越後一宮・弥彦神社の全国屈指の「弥彦菊まつり」、開湯以来の美肌湯「弥彦温泉・岩室温泉」、日本海の高級魚のどぐろや新米コシヒカリ会席をふるさと納税トラベルでお得に楽しむ越後秋旅。
           </p>

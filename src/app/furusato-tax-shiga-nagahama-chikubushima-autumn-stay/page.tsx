@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            滋賀・北びわ湖 長浜城下町の紅葉とパワースポット竹生島！長浜太閤温泉＆近江牛・鴨鍋
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">滋賀・北びわ湖 長浜城下町の紅葉とパワースポット竹生島！長浜太閤温泉＆近江牛・鴨鍋</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の滋賀・長浜＆北びわ湖特集！琵琶湖に浮かぶ神の島「竹生島（宝厳寺・都久夫須麻神社）」の秋クルーズ、秀吉公ゆかりの長浜城（豊公園）の紅葉、太閤秀吉が開湯した赤茶色の名湯「長浜太閤温泉」、認証近江牛や秋解禁の天然鴨鍋をふるさと納税トラベルで味わう湖北の秋旅。
           </p>

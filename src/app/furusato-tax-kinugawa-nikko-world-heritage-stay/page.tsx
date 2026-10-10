@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '世界遺産日光東照宮の歴史と中禅寺湖の絶景！奥日光の乳白色硫黄泉＆日本最古クラシックホテル×ふるさと納税完全攻略ガイド【2026年最新】千姫物語・日光金谷ホテル・ホテル四季彩',
+  title: '世界遺産日光東照宮の歴史と中禅寺湖の絶景！奥日光の乳白色硫黄泉＆日本最古クラシックホテル×ふるさと納税極上旅ガイド千姫物語・日光金谷ホテル・ホテル四季彩',
   description: '世界遺産「日光の社寺」と奥日光の大自然！日光東照宮、中禅寺湖、華厳の滝。「日光温泉 日光千姫物語」「日光金谷ホテル」「奥日光 ホテル四季彩」を、栃木県日光市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。日本最古クラシックホテル、乳白色の源泉かけ流し露天風呂、日光湯波・とちぎ和牛を満喫。',
   keywords: ["2026年最新", "千姫物語", "日光金谷ホテル", "ホテル四季彩", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kinugawa-nikko-world-heritage-stay/",
   },
   openGraph: {
-    title: '世界遺産日光東照宮の歴史と中禅寺湖の絶景！奥日光の乳白色硫黄泉＆日本最古クラシックホテル×ふるさと納税完全攻略ガイド【2026年最新】千姫物語・日光金谷ホテル・ホテル四季彩',
+    title: '世界遺産日光東照宮の歴史と中禅寺湖の絶景！奥日光の乳白色硫黄泉＆日本最古クラシックホテル×ふるさと納税極上旅ガイド千姫物語・日光金谷ホテル・ホテル四季彩',
     description: '世界遺産「日光の社寺」と奥日光の大自然！日光東照宮、中禅寺湖、華厳の滝。「日光温泉 日光千姫物語」「日光金谷ホテル」「奥日光 ホテル四季彩」を、栃木県日光市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。日本最古クラシックホテル、乳白色の源泉かけ流し露天風呂、日光湯波・とちぎ和牛を満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kinugawa-nikko-world-heritage-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoNikkoWorldHeritageStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           世界遺産と神宿る奥日光！栃木県日光市特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          世界遺産日光東照宮の歴史と中禅寺湖の絶景！奥日光の乳白色硫黄泉＆日本最古クラシックホテル×ふるさと納税完全攻略ガイド【2026年最新】千姫物語・日光金谷ホテル・ホテル四季彩
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">世界遺産日光東照宮の歴史と中禅寺湖の絶景！奥日光の乳白色硫黄泉＆日本最古クラシックホテル×ふるさと納税極上旅ガイド千姫物語・日光金谷ホテル・ホテル四季彩</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoNikkoWorldHeritageStayPage() {
               訪れる旅人に「夢のような美しい物語」を。地元の厳選素材を使った本格懐石料理で料理自慢の宿です！
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “美味しい食事を堪能し、ゆっくり過ごせた食事がおいしくゆっくりできました。 ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D41382%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoNikkoWorldHeritageStayPage() {
               創業明治６年、日本最古のクラシックリゾートホテル。明治の薫り漂う館内で時間旅行をご堪能下さい。
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “派手さの無い本物本当に落ち着く部屋でした。夕食の後のバーも雰囲気があって本当に良かったです。必ずまた行きます。出来れば数泊することをお勧めします。 ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D28760%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoNikkoWorldHeritageStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               四季折々で愉しめる天然硫黄泉と会席料理が自慢の温泉宿
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “緑に囲まれた温泉と自然を望む食事処が最高温泉は内湯と露天風呂、緑に囲まれて湯加減も熱すぎず最高でした。お食事処も、窓が大きく自然に囲まれながら頂きました。
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

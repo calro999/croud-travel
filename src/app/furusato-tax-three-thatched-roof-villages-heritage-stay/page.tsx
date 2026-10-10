@@ -42,9 +42,7 @@ export default function Page() {
             <span className="inline-block w-2 h-2 rounded-full bg-rose-400 animate-pulse" />
             日本三大茅葺きの里・古民家遺産特集
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">
-            日本三大茅葺きの里＆原風景ノスタルジー宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三大茅葺きの里＆原風景ノスタルジー宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg md:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed font-normal">
             日本人の心のふるさと、茅葺き屋根が連なる奇跡の風景！京都「美山かやぶきの里」清流美山川と料理旅館枕川楼、福島「大内宿」江戸の宿場町とねぎそば・会津湯野上温泉ホテル大坂屋、岐阜「白川郷合掌造り集落」世界遺産の豪雪集落と天然温泉白川郷の湯。日本三大茅葺きの里（三大合掌・茅葺き集落）の温もりを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。
           </p>

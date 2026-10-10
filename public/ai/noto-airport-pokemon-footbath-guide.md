@@ -1,4 +1,4 @@
-# 【能登空港】のと里山空港の足湯＆ポケモン（ポケふた）完全攻略ガイド！珠洲・輪島復興応援旅
+# 能登空港：のと里山空港の足湯＆ポケモン（ポケふた）極上旅ガイド！珠洲・輪島復興応援旅
 
 - URL: https://croud-travel.pages.dev/posts/noto-airport-pokemon-footbath-guide/
 - 宿泊施設名: 能登空港・能登半島復興応援宿泊特集

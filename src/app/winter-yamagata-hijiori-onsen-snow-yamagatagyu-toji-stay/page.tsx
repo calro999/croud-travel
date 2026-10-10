@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月山形】極上山形牛！名宿5選',
+  title: '11・12・1月山形：極上山形牛！名宿5選',
   description: '11月から1月、出羽三山の主峰・月山の麓に位置する山形県大蔵村「肘折温泉」は、静謐な雪景色と開湯1200年の重厚な湯治文化が旅人を迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '肘折温泉 宿泊, 肘折温泉 湯治, 山形牛 宿, 肘折温泉 納豆汁, 肘折幻想雪回廊, 丸屋旅館 肘折, 元河原湯 肘折, 11月 12月 1月 山形旅行, 豪雪温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamagata-hijiori-onsen-snow-yamagatagyu-toji-stay/"
   },
   openGraph: {
-    title: '【11・12・1月山形】極上山形牛！名宿5選',
+    title: '11・12・1月山形：極上山形牛！名宿5選',
     description: '11月から1月、出羽三山の主峰・月山の麓に位置する山形県大蔵村「肘折温泉」は、静謐な雪景色と開湯1200年の重厚な湯治文化が旅人を迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-yamagata-hijiori-onsen-snow-yamagatagyu-toji-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月山形】豪雪の奇跡・開湯1200年肘折温泉の黄金湯治と名物納豆汁＆極上山形牛・肘折幻想雪回廊を巡る名宿5選",
+    title: "11・12・1月山形：豪雪の奇跡・開湯1200年肘折温泉の黄金湯治と名物納豆汁＆極上山形牛・肘折幻想雪回廊を巡る名宿5選",
     description: "11月から1月、出羽三山の主峰・月山の麓に位置する山形県大蔵村「肘折温泉」は、静謐な雪景色と開湯1200年の重厚な湯治文化が旅人を迎えます。日本屈指の豪雪地帯として知られる肘折は、銅山川沿いに木造三層楼閣が立ち並び、冬になると数メートルもの雪に包まれてまるで水墨画のような幽玄の世界へ。黄金色に濁る自家源泉（ナトリウム-塩化物・炭酸水素塩温泉）は、体の芯まで熱を行き渡らせる「あたたまりの薬湯」として名高く、初冬から厳冬期の冷えた体を優しく包み込みます。夕食には山形の冬の滋味「名物納豆汁」や温かい郷土鍋、きめ細かな霜降りを誇る最高級「山形牛」の陶板焼きが並び、心まで温まるひとときを提供。1月下旬から巨大な雪壁を無数のロウソクが照らす「肘折幻想雪回廊」の絶景とともに、本物の湯治情緒に浸れる厳選5宿を徹底ガイドします。",
     images: ['https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -245,9 +245,7 @@ export default function YamagataHijioriOnsenWinterPage() {
             <Snowflake className="w-3.5 h-3.5" />
             11月・12月・1月限定 雪国湯治特集
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-tight">
-            【山形・肘折温泉】豪雪の奇跡・開湯1200年の黄金湯治と名物納豆汁＆極上山形牛・肘折幻想雪回廊を巡る名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-tight">「山形・肘折温泉」豪雪の奇跡・開湯1200年の黄金湯治と名物納豆汁＆極上山形牛・肘折幻想雪回廊を巡る名宿5選</h1>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed pt-2">
             積雪数メートルを誇る出羽の秘境・大蔵村肘折温泉。木造三層の楼閣が連なるノスタルジックな温泉街で、黄金色に濁る自家源泉と山形の伝統滋味「納豆汁」、霜降り山形牛を味わう冬籠もりの旅へ。
           </p>

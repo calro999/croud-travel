@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '日本三大棚田＆日本の原風景と黄金色に実る稲穂・農村リトリート宿×ふるさと納税完全ガイド【2026年最新】姨捨・丸山・白米',
+  title: '日本三大棚田＆日本の原風景と黄金色に実る稲穂・農村リトリート宿×ふるさと納税厳選ガイド姨捨・丸山・白米',
   description: '斜面一面に幾重にも重なる幾何学模様と、水鏡や黄金色に輝く稲穂の絶景「日本三大棚田」（長野千曲・姨捨の棚田、三重熊野・丸山千枚田、石川能登・白米千枚田）。国の名勝や世界農業遺産に指定された農村の原風景を巡り、新米や里山会席に舌鼓を打つ贅沢。楽天ふるさと納税トラベルクーポンで実質2,000円負担で泊まるおすすめ名宿ガイド。',
   keywords: ["日本三大棚田", "日本の原風景と黄金色に実る稲穂", "農村リトリート宿×ふるさと納税", "2026年最新", "姨捨", "丸山", "白米"],
   alternates: { canonical: baseUrl + '/furusato-tax-three-great-terraced-paddy-rice-harvest-stay/' },
   openGraph: {
-    title: '日本三大棚田＆日本の原風景と黄金色に実る稲穂・農村リトリート宿×ふるさと納税完全ガイド【2026年最新】姨捨・丸山・白米',
+    title: '日本三大棚田＆日本の原風景と黄金色に実る稲穂・農村リトリート宿×ふるさと納税厳選ガイド姨捨・丸山・白米',
     description: '斜面一面に幾重にも重なる幾何学模様と、水鏡や黄金色に輝く稲穂の絶景「日本三大棚田」（長野千曲・姨捨の棚田、三重熊野・丸山千枚田、石川能登・白米千枚田）。国の名勝や世界農業遺産に指定された農村の原風景を巡り、新米や里山会席に舌鼓を打つ贅沢。楽天ふるさと納税トラベルクーポンで実質2,000円負担で泊まるおすすめ名宿ガイド。',
     url: baseUrl + '/furusato-tax-three-great-terraced-paddy-rice-harvest-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoRound62ArticlePage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             日本三大棚田・黄金色の里山リトリート特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            日本三大棚田＆日本の原風景と黄金色に実る稲穂・農村リトリート宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">日本三大棚田＆日本の原風景と黄金色に実る稲穂・農村リトリート宿</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             山々の斜面を切り開き、先人たちが何世代にもわたって石を積み、水を引いて守り継いできた棚田。春には満ちた水が夕暮れの空を映し出す水鏡となり、夏には鮮やかな深緑の段丘が風に揺れ、秋には実り豊かな黄金色の波が幾重にも重なる——「日本三大棚田」は、日本の美意識と農村の営みが結実した奇跡の景観です。月が田ごとに宿ると詠まれた名勝・長野姨捨、1,340枚もの精緻な石積みが谷間を埋める三重熊野・丸山千枚田、そして日本海の荒波を背景に崖下まで階段状に続く世界農業遺産・石川能登の白米千枚田。夕日に染まる棚田を眺め、獲れたての新米やかまどご飯、山の幸を味わう里山旅は、日本人の魂を優しく包み込みます。楽天ふるさと納税のトラベルクーポンを利用して、日本の原風景に深く寄り添う豊かな休日をお過ごしください。
           </p>

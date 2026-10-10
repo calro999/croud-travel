@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kyoto-temple-walking-shoes-outfit-mistakes-guide/" },
-  title: "【京都寺社巡り 靴と服装の失敗談まとめ】1日2万歩で足崩壊＆靴の脱ぎ履き地獄を回避するスマート参拝術 ｜ 日本全国・旅宿クラウド",
+  title: "京都寺社巡り 靴と服装の失敗談まとめ：1日2万歩で足崩壊＆靴の脱ぎ履き地獄を回避するスマート参拝術 ｜ 日本全国・旅宿クラウド",
   description: "京都観光で多くの人が後悔するポイントを徹底分析！靴紐を結ぶ靴で行って拝観ごとに大渋滞、冬の板の間で足裏底冷え、夏の日傘マナー、スリッポン選びのコツと歩き疲れた足を癒やす大浴場付き京都ホテル。",
   keywords: ["京都寺社巡り", "靴と服装の失敗談まとめ", "1日2万歩で足崩壊", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -114,12 +114,7 @@ export default function KyotoTempleWalkingShoesGuidePage() {
             <span>⛩️ KYOTO TEMPLE WALKING SMART GUIDE</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-black tracking-tight leading-tight md:leading-tight text-white font-journal-serif">
-            【京都寺社巡り 靴と服装の失敗談まとめ】<br className="hidden sm:inline" />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-teal-300 via-emerald-200 to-amber-200">
-              1日2万歩で足崩壊＆靴の脱ぎ履き地獄を回避するスマート参拝術
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-black tracking-tight leading-tight md:leading-tight text-white font-journal-serif">「京都寺社巡り 靴と服装の失敗談まとめ」<br className="hidden sm:inline" /> <span className="text-transparent bg-clip-text bg-gradient-to-r from-teal-300 via-emerald-200 to-amber-200"> 1日2万歩で足崩壊＆靴の脱ぎ履き地獄を回避するスマート参拝術 </span></h1>
 
           <p className="text-sm md:text-base text-teal-100/90 max-w-2xl mx-auto leading-relaxed">
             京都観光は「とにかく歩く」「とにかく靴を脱ぎ履きする」旅。おしゃれ重視で選んだ靴が招く悲劇、冬の板の間の底冷え、夏の人混み日傘マナーまで。古都を優雅に巡るための実践的ギアと歩き疲れた身体を癒やす大浴場付きホテルを特集。

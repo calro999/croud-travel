@@ -5,14 +5,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月高知】知恵の文殊「五台山 竹林寺」新春初詣！名宿5選',
+  title: '11・12・1月高知：知恵の文殊「五台山 竹林寺」新春初詣！名宿5選',
   description: '黒潮洗う南国土佐の冬景色！11〜1月は澄み渡る青空と群青の太平洋が広がり。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '桂浜 初日の出, 坂本龍馬像 桂浜, 竹林寺 初詣, 高知 鰹のタタキ, 戻り鰹 藁焼き, 土佐あかうし, 城西館, 三翠園, ひろめ市場, 高知 冬 旅行',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-kochi-katsurahama-ryoma-sunrise-chikurinji-hatsumode-tataki-stay'
   },
   openGraph: {
-    title: '【11・12・1月高知】知恵の文殊「五台山 竹林寺」新春初詣！名宿5選',
+    title: '11・12・1月高知：知恵の文殊「五台山 竹林寺」新春初詣！名宿5選',
     description: '黒潮洗う南国土佐の冬景色！11〜1月は澄み渡る青空と群青の太平洋が広がり。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-kochi-katsurahama-ryoma-sunrise-chikurinji-hatsumode-tataki-stay',
     siteName: 'クラドトラベル',
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月高知】太平洋望む名勝「桂浜」初日の出と坂本龍馬像！知恵の文殊「五台山 竹林寺」新春初詣・極上戻り鰹藁焼き塩タタキ＆土佐あかうし厳選名宿5選",
+    title: "11・12・1月高知：太平洋望む名勝「桂浜」初日の出と坂本龍馬像！知恵の文殊「五台山 竹林寺」新春初詣・極上戻り鰹藁焼き塩タタキ＆土佐あかうし厳選名宿5選",
     description: "黒潮洗う南国土佐の冬景色！11〜1月は澄み渡る青空と群青の太平洋が広がり、名勝「桂浜」の弓状の渚からは水平線から昇る感動的な初日の出と威風堂々の坂本龍馬銅像を拝することができます。四国八十八ヶ所第31番札所「五台山 竹林寺」では国名勝庭園の静寂と文殊菩薩への新春初詣・合格学業祈願。冬に脂が乗る戻り鰹の豪快な藁焼き塩タタキや幻の和牛「土佐あかうし」のすき焼き・土佐皿鉢料理を堪能し、高知城下の天然温泉や老舗旅館など厳選名宿5選を徹底特集。",
     images: ['https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=80']
   }
@@ -288,11 +288,7 @@ export default function KochiKatsurahamaWinterFeaturePage() {
               <Sunrise className="w-4 h-4 text-blue-400" />
               11月・12月・1月冬の南国土佐探訪スペシャル
             </div>
-            <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight mb-6">
-              【高知・桂浜＆五台山竹林寺】<br className="hidden sm:inline" />
-              太平洋望む名勝「桂浜」初日の出と坂本龍馬像！<br />
-              知恵の文殊「五台山 竹林寺」新春初詣・極上戻り鰹＆名宿
-            </h1>
+            <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight mb-6">「高知・桂浜＆五台山竹林寺」<br className="hidden sm:inline" /> 太平洋望む名勝「桂浜」初日の出と坂本龍馬像！<br /> 知恵の文殊「五台山 竹林寺」新春初詣・極上戻り鰹＆名宿</h1>
             <p className="text-sm sm:text-base md:text-lg text-slate-300 leading-relaxed max-w-3xl mx-auto mb-8 font-normal">
               黒潮が躍る土佐湾の雄大な地平線。冬の澄んだ大気のもと、桂浜の弓状の渚から拝する感動の初日の出と、未来を見据える坂本龍馬の巨像。四国屈指の名刹「五台山 竹林寺」で授かる文殊菩薩の知恵と新春厄除祈願。皮目はパリッと香ばしく身は濃厚にトロける冬の戻り鰹・藁焼き塩タタキと、幻の和牛「土佐あかうし」。高知城下の天然温泉と伝統の老舗宿を巡る、心熱くなる冬の高知旅をお届けします。
             </p>

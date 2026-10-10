@@ -3,11 +3,11 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【万座温泉×ふるさと納税】日本一の高濃度硫黄泉！標高1800mの雲上露天風呂＆満天星空ステイガイド｜万座プリンスホテル・万座高原ホテル・日進舘',
+  title: '万座温泉をふるさと納税でお得に旅する！日本一の高濃度硫黄泉！標高1800mの雲上露天風呂＆満天星空ステイガイド｜万座プリンスホテル・万座高原ホテル・日進舘',
   description: '日本一の硫黄含有量を誇る名湯・万座温泉を楽天ふるさと納税で満喫！標高1,800メートルの高地に広がる乳白色のにごり湯露天風呂「こまくさの湯」を擁する万座プリンスホテル、4種の自家源泉を巡る石庭露天風呂の万座高原ホテル、創業百五十年の湯治名門・日進舘を徹底比較。嬬恋村クーポン活用術も網羅。',
   keywords: '万座温泉 ふるさと納税,万座プリンスホテル ふるさと納税,万座高原ホテル クーポン,日進舘 万座 宿泊,嬬恋村 ふるさと納税 楽天トラベル',
   openGraph: {
-    title: '【万座温泉×ふるさと納税】日本一の高濃度硫黄泉！標高1800mの雲上露天風呂＆満天星空ステイガイド｜万座プリンスホテル・万座高原ホテル・日進舘',
+    title: '万座温泉をふるさと納税でお得に旅する！日本一の高濃度硫黄泉！標高1800mの雲上露天風呂＆満天星空ステイガイド｜万座プリンスホテル・万座高原ホテル・日進舘',
     description: '日本一の硫黄含有量を誇る名湯・万座温泉を楽天ふるさと納税で満喫！標高1,800メートルの高地に広がる乳白色のにごり湯露天風呂「こまくさの湯」を擁する万座プリンスホテル、4種の自家源泉を巡る石庭露天風呂の万座高原ホテル、創業百五十年の湯治名門・日進舘を徹底比較。嬬恋村クーポン活用術も網羅。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-manza-onsen-milky-sulfur-stay',
@@ -54,9 +54,7 @@ export default function FurusatoTaxArticle() {
             <span>•</span>
             <span>自治体公認 宿泊割引</span>
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-5xl font-extrabold tracking-tight text-white font-serif leading-tight">
-            【万座温泉×ふるさと納税】日本一の高濃度硫黄泉！標高1800mの雲上露天風呂＆満天星空ステイガイド｜万座プリンスホテル・万座高原ホテル・日進舘
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-5xl font-extrabold tracking-tight text-white font-serif leading-tight">万座温泉をふるさと納税でお得に旅する！日本一の高濃度硫黄泉！標高1800mの雲上露天風呂＆満天星空ステイガイド｜万座プリンスホテル・万座高原ホテル・日進舘</h1>
           <p className="text-stone-300 text-sm md:text-base max-w-2xl mx-auto pt-2 leading-relaxed">
             日本一の硫黄含有量を誇る名湯・万座温泉を楽天ふるさと納税で満喫！標高1,800メートルの高地に広がる乳白色のにごり湯露天風呂「こまくさの湯」を擁する万座プリンスホテル、4種の自家源泉を巡る石庭露天風呂の万座高原ホテル、創業百五十年の湯治名門・日進舘を徹底比較。嬬恋村クーポン活用術も網羅。
           </p>

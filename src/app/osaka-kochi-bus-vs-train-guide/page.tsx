@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/osaka-kochi-bus-vs-train-guide/" },
-  title: "【大阪・神戸〜高知】高速バス「よさこい号」vs 特急南風徹底比較！片道3,500円〜行くカツオのタタキ＆ひろめ市場1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+  title: "大阪・神戸〜高知：高速バス「よさこい号」vs 特急南風徹底比較！片道3,500円〜行くカツオのタタキ＆ひろめ市場1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "大阪・神戸から高知へ安く行くには？JR新幹線＋特急南風（岡山乗換）と直行高速バス「よさこい号」の料金・所要時間比較！ひろめ市場で藁焼きカツオの塩タタキ、桂浜、高知城を満喫する1泊2日モデルコース。",
   keywords: ["大阪", "神戸〜高知", "高速バス「よさこい号」vs", "ひろめ市場1泊2日モデルコース", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
@@ -149,9 +149,7 @@ export default function HighwayBusArticlePage() {
               交通手段の徹底比較＆最適ルート
             </span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【大阪・神戸〜高知】高速バス「よさこい号」vs 特急南風徹底比較！片道3,500円〜行くカツオのタタキ＆ひろめ市場1泊2日モデルコース
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">「大阪・神戸〜高知」高速バス「よさこい号」vs 特急南風徹底比較！片道3,500円〜行くカツオのタタキ＆ひろめ市場1泊2日モデルコース</h1>
           <p className="text-xs md:text-sm text-cyan-100/90 leading-relaxed font-medium">
             新幹線＋特急南風（岡山乗り換え）だと大阪〜高知は約11,500円（約3時間30分）。一方、直行高速バス「よさこい号」なら梅田・三宮から乗り換えゼロ・片道約3,500円〜6,000円（約4時間45分・夜行便あり）！名物ひろめ市場での昼飲みと太平洋の絶景を満喫する土佐旅。
           </p>

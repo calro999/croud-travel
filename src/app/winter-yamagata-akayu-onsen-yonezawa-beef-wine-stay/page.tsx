@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月赤湯温泉】特選米沢牛すき焼き！名宿5選',
+  title: '赤湯温泉で過ごす冬の旅（11・12月）！特選米沢牛すき焼き！名宿5選',
   description: '11月から12月にかけて山形県置賜地方の赤湯温泉は、晩秋の澄み切った冷気の中で置賜盆地全体を真っ白な霧が覆う幻想的な「白竜湖の雲海」が発生し。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '赤湯温泉 宿泊, 山形 赤湯 温泉 11月 12月, 御殿守, 瀧波 赤湯, 森の湯 赤湯, 丹泉ホテル, 大文字屋, 米沢牛 すき焼き 宿, 赤湯ワイン, 置賜盆地 雲海',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay/"
   },
   openGraph: {
-    title: '【11・12月赤湯温泉】特選米沢牛すき焼き！名宿5選',
+    title: '赤湯温泉で過ごす冬の旅（11・12月）！特選米沢牛すき焼き！名宿5選',
     description: '11月から12月にかけて山形県置賜地方の赤湯温泉は、晩秋の澄み切った冷気の中で置賜盆地全体を真っ白な霧が覆う幻想的な「白竜湖の雲海」が発生し。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -280,10 +280,7 @@ export default function AkayuOnsenWinterFeature() {
             <Snowflake className="w-4 h-4" />
             11月・12月 冬の極上名湯特集｜山形・南陽赤湯
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月山形・赤湯温泉】<br className="hidden sm:inline" />
-            置賜盆地雲海と開湯920年名湯・特選米沢牛＆老舗ワイナリーの宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">山形・赤湯温泉で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 置賜盆地雲海と開湯920年名湯・特選米沢牛＆老舗ワイナリーの宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             平安開湯の古湯にして上杉鷹山公も愛した名湯郷。晩秋から初冬の置賜盆地を包む幻想の白竜湖雲海を仰ぎ、霜降り極まる米沢牛と日本最古級の赤湯ワインに酔いしれる贅沢な冬の隠れ宿。
           </p>

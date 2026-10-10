@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【2026年秋！レゴランド名古屋ハロウィン】モンスター・パーティと子連れ人気ホテル5選",
+  title: "2026年秋！レゴランド名古屋ハロウィン：モンスター・パーティと子連れ人気ホテル5選",
   description: "秋限定のハロウィン・モンスター・パーティで大熱狂！レゴランド・ジャパン・ホテルをはじめ、あおなみ線沿線や名古屋駅直結のファミリー歓迎人気ホテルを厳選5選。",
   keywords: "レゴランド ハロウィン 2026, レゴランドホテル, 名古屋 子連れ ホテル, 金城ふ頭 あおなみ線 ホテル, レゴランド 名古屋 宿泊",
   alternates: {
     canonical: "https://croud-travel.pages.dev/autumn-aichi-nagoya-legoland-japan-halloween-hotels-stay/",
   },
   openGraph: {
-    title: "【2026年秋！レゴランド名古屋ハロウィン】モンスター・パーティと子連れ人気ホテル5選",
+    title: "2026年秋！レゴランド名古屋ハロウィン：モンスター・パーティと子連れ人気ホテル5選",
     description: "秋限定のハロウィン・モンスター・パーティで大熱狂！レゴランド・ジャパン・ホテルをはじめ、あおなみ線沿線や名古屋駅直結のファミリー歓迎人気ホテルを厳選5選。",
     url: 'https://croud-travel.pages.dev/autumn-aichi-nagoya-legoland-japan-halloween-hotels-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【2026年秋！レゴランド名古屋ハロウィン】モンスター・パーティと子連れ人気ホテル5選",
+    title: "2026年秋！レゴランド名古屋ハロウィン：モンスター・パーティと子連れ人気ホテル5選",
     description: "秋限定のハロウィン・モンスター・パーティで大熱狂！レゴランド・ジャパン・ホテルをはじめ、あおなみ線沿線や名古屋駅直結のファミリー歓迎人気ホテルを厳選5選。",
   }
 };
@@ -131,9 +131,7 @@ export default function FeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             秋のファミリー・ハロウィンイベント特集
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【2026年秋！レゴランド名古屋ハロウィン】<br className="hidden sm:inline" />モンスター・パーティと子連れ人気ホテル5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">「2026年秋！レゴランド名古屋ハロウィン」<br className="hidden sm:inline" />モンスター・パーティと子連れ人気ホテル5選</h1>
           <p className="max-w-2xl mx-auto text-sm md:text-base text-stone-200 leading-relaxed">
             巨大カボチャのレゴブロックモニュメントやお菓子のつかみ取りが大人気！子どもと一緒に思いっきり仮装して楽しめるレゴランド・ジャパンのハロウィンと、あおなみ線沿線・名駅直結のファミリー向けホテルを徹底紹介。
           </p>

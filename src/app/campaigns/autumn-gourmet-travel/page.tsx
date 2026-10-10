@@ -5,11 +5,11 @@ import Link from "next/link";
 import Image from "next/image";
 
 export const metadata: Metadata = {
-  title: "【2026年最新】全国の秋の味覚＆紅葉を満喫する絶品温泉宿特集まとめ35選 ｜ 日本全国・旅宿クラウド",
+  title: "全国の秋の味覚＆紅葉を満喫する絶品温泉宿特集まとめ35選 ｜ 日本全国・旅宿クラウド",
   description: "北海道のカニ・いくら、北陸のズワイガニ・甘エビ、関西・箱根の松茸、長野のシャインマスカット・信州りんご、九州の伊勢海老・車海老など、全国8エリアの秋の味覚＆紅葉名湯旅館35選を網羅！",
   keywords: ["秋の味覚", "カニ食べ放題", "松茸料理", "シャインマスカット", "伊勢海老", "紅葉温泉", "楽天トラベル", "秋旅行"],
   openGraph: {
-    title: "【2026年最新】全国の秋の味覚＆紅葉を満喫する絶品温泉宿特集まとめ35選",
+    title: "全国の秋の味覚＆紅葉を満喫する絶品温泉宿特集まとめ35選",
     description: "カニ・松茸・フルーツ狩り・伊勢海老・秋鮭・和牛など、全国エリア別の秋の味覚＆名湯温泉宿を一挙まとめ！",
   }
 };
@@ -89,9 +89,7 @@ export default async function AutumnGourmetTravelPage() {
         <span className="inline-block text-[10px] font-black tracking-widest bg-white/20 border border-white/30 px-3.5 py-1 rounded-full uppercase">
           AUTUMN GOURMET & HOT SPRINGS 🍁
         </span>
-        <h1 className="text-2xl md:text-4xl font-black font-journal-serif leading-snug">
-          【2026年最新】全国の秋の味覚＆紅葉を満喫する絶品温泉宿特集 35選
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-black font-journal-serif leading-snug">全国の秋の味覚＆紅葉を満喫する絶品温泉宿特集 35選</h1>
         <p className="text-amber-100/90 text-xs md:text-sm max-w-3xl leading-relaxed font-medium">
           ズワイガニ・タラバガニ食べ放題、丹波松茸の土瓶蒸し、シャインマスカット・完熟みかん狩り、伊勢海老・活車海老の踊り食い、A5ブランド和牛など！日本全国のエリア別「秋の最上級グルメ」と絶景名湯を同時に愉しめる厳選特集を一挙にまとめました。
         </p>

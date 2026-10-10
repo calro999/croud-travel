@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【11月下旬の晩秋紅葉ライトアップ】散り紅葉の名庭園と嵐山・東山・貴船の風雅名宿5選",
+  title: "下旬の晩秋紅葉ライトアップで過ごす冬の旅（11月）！散り紅葉の名庭園と嵐山・東山・貴船の風雅名宿5選",
   description: "11月中旬〜12月上旬にかけてクライマックスを迎える京都の紅葉！真っ赤なモミジの絨毯が広がる散り紅葉や、寺院の幻想的な夜間特別拝観ライトアップを楽しみ、嵐山温泉の湯と冬の京懐石に寛ぐ極上旅。",
   keywords: "京都 嵐山 温泉 旅館, 11月旅行, 12月旅行, 冬休み, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/late-autumn-kyoto-momiji-lightup-stay/",
   },
   openGraph: {
-    title: "【11月下旬の晩秋紅葉ライトアップ】散り紅葉の名庭園と嵐山・東山・貴船の風雅名宿5選",
+    title: "下旬の晩秋紅葉ライトアップで過ごす冬の旅（11月）！散り紅葉の名庭園と嵐山・東山・貴船の風雅名宿5選",
     description: "11月中旬〜12月上旬にかけてクライマックスを迎える京都の紅葉！真っ赤なモミジの絨毯が広がる散り紅葉や、寺院の幻想的な夜間特別拝観ライトアップを楽しみ、嵐山温泉の湯と冬の京懐石に寛ぐ極上旅。",
     url: 'https://croud-travel.pages.dev/late-autumn-kyoto-momiji-lightup-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11月下旬の晩秋紅葉ライトアップ】散り紅葉の名庭園と嵐山・東山・貴船の風雅名宿5選",
+    title: "下旬の晩秋紅葉ライトアップで過ごす冬の旅（11月）！散り紅葉の名庭園と嵐山・東山・貴船の風雅名宿5選",
     description: "11月中旬〜12月上旬にかけてクライマックスを迎える京都の紅葉！真っ赤なモミジの絨毯が広がる散り紅葉や、寺院の幻想的な夜間特別拝観ライトアップを楽しみ、嵐山温泉の湯と冬の京懐石に寛ぐ極上旅。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>晩秋紅葉ライトアップ＆京懐石</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【11月下旬の晩秋紅葉ライトアップ】散り紅葉の名庭園と嵐山・東山・貴船の風雅名宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">下旬の晩秋紅葉ライトアップで過ごす冬の旅（11月）！散り紅葉の名庭園と嵐山・東山・貴船の風雅名宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             11月中旬〜12月上旬にかけてクライマックスを迎える京都の紅葉！真っ赤なモミジの絨毯が広がる散り紅葉や、寺院の幻想的な夜間特別拝観ライトアップを楽しみ、嵐山温泉の湯と冬の京懐石に寛ぐ極上旅。
           </p>

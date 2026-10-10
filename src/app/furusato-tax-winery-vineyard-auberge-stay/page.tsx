@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '銘酒ワイナリー＆葡萄畑オーベルジュ×ふるさと納税完全ガイド【2026年最新】勝沼・余市・十勝のワインペアリング旅',
+  title: '銘酒ワイナリー＆葡萄畑オーベルジュ×ふるさと納税厳選ガイド勝沼・余市・十勝のワインペアリング旅',
   description: '日本ワインの銘醸地へ！山梨甲州勝沼のぶどう畑ビュー温泉、北海道余市の世界的ワイナリー＆海の幸オーベルジュ、十勝ワイン城とモール温泉リゾート。醸造家こだわりのワインと旬の美食マリアージュを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: ["銘酒ワイナリー", "2026年最新", "勝沼", "余市", "十勝のワインペアリング旅", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-winery-vineyard-auberge-stay/"
   },
   openGraph: {
-    title: '銘酒ワイナリー＆葡萄畑オーベルジュ×ふるさと納税完全ガイド【2026年最新】勝沼・余市・十勝のワインペアリング旅',
+    title: '銘酒ワイナリー＆葡萄畑オーベルジュ×ふるさと納税厳選ガイド勝沼・余市・十勝のワインペアリング旅',
     description: '日本ワインの銘醸地へ！山梨甲州勝沼のぶどう畑ビュー温泉、北海道余市の世界的ワイナリー＆海の幸オーベルジュ、十勝ワイン城とモール温泉リゾート。醸造家こだわりのワインと旬の美食マリアージュを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-winery-vineyard-auberge-stay',
     type: 'article',
@@ -54,9 +54,7 @@ export default function FurusatoFeaturePage() {
             <span>✨</span>
             <span>ワイナリー・葡萄畑オーベルジュ特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            銘酒ワイナリー＆葡萄畑オーベルジュ×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">銘酒ワイナリー＆葡萄畑オーベルジュ×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             澄んだ青空の下にどこまでも広がる葡萄畑、ひんやりと静まるワインセラーの樽の香り。今、世界的な評価を高めている「日本ワイン」の産地には、畑に隣接したスタイリッシュなオーベルジュや、源泉かけ流し温泉を備えたワイナリーリゾートが注目を集めています。その土地で育ったブドウから生まれたワインと、地元の旬食材を使った料理との完璧なマリアージュを、楽天ふるさと納税の宿泊クーポンでお得に堪能しましょう。
           </p>

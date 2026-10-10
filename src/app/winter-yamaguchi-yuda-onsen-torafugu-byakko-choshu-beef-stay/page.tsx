@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月山口・湯田温泉】やまぐち和牛燦！名宿5選',
+  title: '山口・湯田温泉で過ごす冬の旅（11・12月）！やまぐち和牛燦！名宿5選',
   description: '11月から12月にかけて、室町時代の雅な大内文化と幕末維新の胎動が息づく山口県山口市の「湯田温泉（ゆだおんせん）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '湯田温泉 宿泊, 湯田温泉 古稀庵, 松田屋ホテル, 西の雅 常盤, ユウベルホテル松政, 防長苑, 下関 とらふぐ, やまぐち和牛 燦, 瑠璃光寺五重塔, 白狐の湯, 11月 12月 湯田温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamaguchi-yuda-onsen-torafugu-byakko-choshu-beef-stay/"
   },
   openGraph: {
-    title: '【11・12月山口・湯田温泉】やまぐち和牛燦！名宿5選',
+    title: '山口・湯田温泉で過ごす冬の旅（11・12月）！やまぐち和牛燦！名宿5選',
     description: '11月から12月にかけて、室町時代の雅な大内文化と幕末維新の胎動が息づく山口県山口市の「湯田温泉（ゆだおんせん）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-yamaguchi-yuda-onsen-torafugu-byakko-choshu-beef-stay',
     siteName: 'クラドトラベル',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月山口・湯田温泉の白狐の湯と国宝瑠璃光寺散策】本場下関直送とらふぐフルコース＆やまぐち和牛燦・毎分2000L源泉の名宿5選",
+    title: "山口・湯田温泉の白狐の湯と国宝瑠璃光寺散策で過ごす冬の旅（11・12月）！本場下関直送とらふぐフルコース＆やまぐち和牛燦・毎分2000L源泉の名宿5選",
     description: "11月から12月にかけて、室町時代の雅な大内文化と幕末維新の胎動が息づく山口県山口市の「湯田温泉（ゆだおんせん）」は、冬の美食の最高峰「とらふぐ」が旬を迎え、白狐伝説に彩られた名湯がいっそう恋しくなる季節を迎えます。白狐が毎夜傷を癒やしたと伝わる湯田の湯は、1日2000トン・毎分約2000リットルという西日本屈指の湧出量を誇るpH9.1のアルカリ性単純温泉。柔らかく肌になじむアルカリ泉が古い角質をやさしく洗い流し、つるつるの美肌へ導きます。夕食には本場・下関南風泊港から直送される透き通るような「とらふぐ刺し（てっさ）」や熱々の「ふぐちり鍋」、香ばしい「ふぐヒレ酒」、山口の誇る黒毛和牛「やまぐち和牛 燦（きらめき）」。国宝・瑠璃光寺五重塔の初冬風景とともに至福の滞在を約束する厳選名宿5選を徹底解説します。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -248,12 +248,7 @@ export default function WinterYamaguchiYudaPage() {
             11月・12月 白狐の湯＆本場下関直送とらふぐ特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月山口・湯田温泉】白狐の湯と国宝瑠璃光寺散策
-            <span className="block text-rose-300 text-lg sm:text-2xl mt-3 font-normal">
-              本場下関直送とらふぐフルコース＆やまぐち和牛燦・毎分2000L源泉の名宿5選
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">山口・湯田温泉で過ごす冬の旅（11・12月）！白狐の湯と国宝瑠璃光寺散策 <span className="block text-rose-300 text-lg sm:text-2xl mt-3 font-normal"> 本場下関直送とらふぐフルコース＆やまぐち和牛燦・毎分2000L源泉の名宿5選 </span></h1>
 
           <p className="text-sm sm:text-base text-stone-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、室町時代の雅な大内文化と幕末維新の胎動が息づく山口県山口市の「湯田温泉（ゆだおんせん）」は、冬の美食の最高峰「とらふぐ」が旬を迎え、白狐伝説に彩られた名湯がいっそう恋しくなる季節を迎えます。白狐が毎夜傷を癒やしたと伝わる湯田の湯は、1日2000トン・毎分約2000リットルという西日本屈指の湧出量を誇るpH9.1のアルカリ性単純温泉。柔らかく肌になじむアルカリ泉が古い角質をやさしく洗い流し、つるつるの美肌へ導きます。夕食には本場・下関南風泊港から直送される透き通るような「とらふぐ刺し（てっさ）」や熱々の「ふぐちり鍋」、香ばしい「ふぐヒレ酒」、山口の誇る黒毛和牛「やまぐち和牛 燦（きらめき）」。国宝・瑠璃光寺五重塔の初冬風景とともに至福の滞在を約束する厳選名宿5選を徹底解説します。

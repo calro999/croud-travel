@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-zen-temples-mindfulness-stay/" },
-  title: '日本三大禅寺＆静寂の枯山水庭園・心洗われる坐禅・精進料理宿×ふるさと納税完全ガイド【2026年最新】京都南禅寺・鎌倉建長寺・福井永平寺',
+  title: '日本三大禅寺＆静寂の枯山水庭園・心洗われる坐禅・精進料理宿×ふるさと納税厳選ガイド京都南禅寺・鎌倉建長寺・福井永平寺',
   description: '心を調え雑念を解き放つ日本の名刹禅寺ステイ！京都「南禅寺」水路閣と名庭の静寂・料亭旅館南禅寺八千代、神奈川鎌倉「建長寺」巨木ビャクシンと鎌倉五山第一位・鎌倉プリンスホテル、福井「大本山永平寺」荘厳な七堂伽藍と本格坐禅体験・親禅の宿柏樹關。枯山水庭園の美、朝の静かな勤行、伝統の精進料理を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大禅寺・マインドフルネス特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大禅寺＆静寂の枯山水庭園・心洗われる坐禅・精進料理宿×ふるさと納税完全ガイド【2026年最新】京都南禅寺・鎌倉建長寺・福井永平寺',
+    title: '日本三大禅寺＆静寂の枯山水庭園・心洗われる坐禅・精進料理宿×ふるさと納税厳選ガイド京都南禅寺・鎌倉建長寺・福井永平寺',
     description: '心を調え雑念を解き放つ日本の名刹禅寺ステイ！京都「南禅寺」水路閣と名庭の静寂・料亭旅館南禅寺八千代、神奈川鎌倉「建長寺」巨木ビャクシンと鎌倉五山第一位・鎌倉プリンスホテル、福井「大本山永平寺」荘厳な七堂伽藍と本格坐禅体験・親禅の宿柏樹關。枯山水庭園の美、朝の静かな勤行、伝統の精進料理を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-zen-temples-mindfulness-stay',
@@ -154,9 +154,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大禅寺・マインドフルネス特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大禅寺＆静寂の枯山水・心洗われる禅寺名宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大禅寺＆静寂の枯山水・心洗われる禅寺名宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             多忙な日常を離れ、呼吸を整え己と向き合う「禅（Zen）」の精神文化を今に伝える名刹「日本三大禅寺」――臨済宗五山別格の格式を誇り石川五右衛門の絶景かなで名高い三門や水路閣が美しい京都の「南禅寺」、北条時頼が建立し日本最初の禅宗専門道場としてビャクシンの古木が荘厳さを漂わせる神奈川の「鎌倉・建長寺」、そして道元禅師が開創し鬱蒼とした杉木立のなか修行僧（雲水）が厳しい修行を続ける曹洞宗大本山・福井の「大本山永平寺」。静寂の枯山水庭園を鑑賞し、朝の勤行や坐禅体験で心を研ぎ澄まし、心身に染み渡る精進料理や旬の美味を味わう旅を楽天ふるさと納税でお楽しみください。
           </p>

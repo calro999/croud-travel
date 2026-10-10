@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【釧路】世界三大夕陽の幣舞橋と釧路湿原紅葉！天然温泉・3,000円台〜格安ホテル5選',
+  title: '釧路：世界三大夕陽の幣舞橋と釧路湿原紅葉！天然温泉・3,000円台〜格安ホテル5選',
   description: 'バリ島・マニラと並び世界三大夕陽と称される釧路「幣舞橋」の感動サンセットと、秋色に染まる広大な釧路湿原！炭火で豪快に焼く名物炉端焼き。釧路駅前で1泊3,000円台〜5,000円台の高評価宿5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetKushiroHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>世界三大夕陽の幣舞橋＆名物炉端焼き</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【釧路】世界三大夕陽＆秋の釧路湿原へ！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「釧路」世界三大夕陽＆秋の釧路湿原へ！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-rose-100/90 max-w-2xl mx-auto leading-relaxed">
             空と川面を真っ赤に染め上げる世界三大夕陽の名所「幣舞橋（ぬさまいばし）」。広大な釧路湿原が黄金色のヨシ原へと移り変わる秋のパノラマ絶景！夜は赤ちょうちんが揺れる炉端焼き発祥の地・釧路で、ホッケやツブ貝、秋刀魚を炭火焼きで堪能！天然温泉付きの高評価ホテルを厳選。
           </p>

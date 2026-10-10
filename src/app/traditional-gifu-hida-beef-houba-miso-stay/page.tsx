@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【A5飛騨牛朴葉味噌焼き＆すき焼き】高山・下呂温泉の香ばしい郷土美食と日本三名泉宿5選",
+  title: "A5飛騨牛朴葉味噌焼き＆すき焼き：高山・下呂温泉の香ばしい郷土美食と日本三名泉宿5選",
   description: "香ばしい自家製味噌の香りが食欲をそそる名物「飛騨牛の朴葉味噌焼き」と、とろける極上すき焼き！日本三名泉・下呂温泉の滑らかな美肌湯や飛騨高山の古い町並み散策を満喫できる最高峰の美食旅館を厳選。",
   keywords: "下呂温泉 飛騨牛 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/traditional-gifu-hida-beef-houba-miso-stay/",
   },
   openGraph: {
-    title: "【A5飛騨牛朴葉味噌焼き＆すき焼き】高山・下呂温泉の香ばしい郷土美食と日本三名泉宿5選",
+    title: "A5飛騨牛朴葉味噌焼き＆すき焼き：高山・下呂温泉の香ばしい郷土美食と日本三名泉宿5選",
     description: "香ばしい自家製味噌の香りが食欲をそそる名物「飛騨牛の朴葉味噌焼き」と、とろける極上すき焼き！日本三名泉・下呂温泉の滑らかな美肌湯や飛騨高山の古い町並み散策を満喫できる最高峰の美食旅館を厳選。",
     url: 'https://croud-travel.pages.dev/traditional-gifu-hida-beef-houba-miso-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【A5飛騨牛朴葉味噌焼き＆すき焼き】高山・下呂温泉の香ばしい郷土美食と日本三名泉宿5選",
+    title: "A5飛騨牛朴葉味噌焼き＆すき焼き：高山・下呂温泉の香ばしい郷土美食と日本三名泉宿5選",
     description: "香ばしい自家製味噌の香りが食欲をそそる名物「飛騨牛の朴葉味噌焼き」と、とろける極上すき焼き！日本三名泉・下呂温泉の滑らかな美肌湯や飛騨高山の古い町並み散策を満喫できる最高峰の美食旅館を厳選。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>飛騨牛朴葉味噌＆下呂名湯</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【A5飛騨牛朴葉味噌焼き＆すき焼き】高山・下呂温泉の香ばしい郷土美食と日本三名泉宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「A5飛騨牛朴葉味噌焼き＆すき焼き」高山・下呂温泉の香ばしい郷土美食と日本三名泉宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             香ばしい自家製味噌の香りが食欲をそそる名物「飛騨牛の朴葉味噌焼き」と、とろける極上すき焼き！日本三名泉・下呂温泉の滑らかな美肌湯や飛騨高山の古い町並み散策を満喫できる最高峰の美食旅館を厳選。
           </p>

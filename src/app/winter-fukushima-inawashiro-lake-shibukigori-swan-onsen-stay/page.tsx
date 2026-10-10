@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【12・1月福島】雪見露天風呂と会津地鶏！名宿5選',
+  title: '福島で過ごす冬の旅（12・1月）！雪見露天風呂と会津地鶏！名宿5選',
   description: '厳冬期の福島・猪苗代湖は、大自然が創り出す奇跡の氷結アート「しぶき氷」と、シベリアから飛来する数千羽の優雅な白鳥たちが出迎える幻想的な白銀の世界です。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '猪苗代湖 ホテル, 磐梯熱海温泉 旅館, 猪苗代湖 しぶき氷, 猪苗代湖 白鳥, 磐梯山 雪景色, ホテルリステル猪苗代, ホテル華の湯, 四季彩一力, 守田屋, 12月 1月 福島 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukushima-inawashiro-lake-shibukigori-swan-onsen-stay/"
   },
   openGraph: {
-    title: '【12・1月福島】雪見露天風呂と会津地鶏！名宿5選',
+    title: '福島で過ごす冬の旅（12・1月）！雪見露天風呂と会津地鶏！名宿5選',
     description: '厳冬期の福島・猪苗代湖は、大自然が創り出す奇跡の氷結アート「しぶき氷」と、シベリアから飛来する数千羽の優雅な白鳥たちが出迎える幻想的な白銀の世界です。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-fukushima-inawashiro-lake-shibukigori-swan-onsen-stay',
     siteName: '地域の宿探訪',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【12・1月福島】猪苗代湖＆磐梯熱海温泉！奇跡の「しぶき氷」と白鳥飛来・雪見露天風呂と会津地鶏・福島牛名宿5選",
+    title: "福島で過ごす冬の旅（12・1月）！猪苗代湖＆磐梯熱海温泉！奇跡の「しぶき氷」と白鳥飛来・雪見露天風呂と会津地鶏・福島牛名宿5選",
     description: "厳冬期の福島・猪苗代湖は、大自然が創り出す奇跡の氷結アート「しぶき氷」と、シベリアから飛来する数千羽の優雅な白鳥たちが出迎える幻想的な白銀の世界です。湖畔の天神浜では強い西風と波しぶきが樹木を凍りつかせ、巨大な氷の彫刻のような絶景が出現。冠雪した秀峰・磐梯山を背に、開湯800年を誇る「萩姫伝説」の名湯・磐梯熱海温泉の美肌雪見露天風呂で体の芯まで温まる至福のひととき。会津地鶏、新鮮な極上馬刺し、福島牛すき焼きの美食を堪能する厳選名宿5選を徹底解説します。",
     images: ["https://img.travel.rakuten.co.jp/share/HOTEL/5300/5300.jpg"]
   }
@@ -232,10 +232,7 @@ export default function FukushimaInawashiroBandaiWinterPage() {
             <span>12月・1月冬の白銀レイク＆雪見名湯特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">
-            猪苗代湖＆磐梯熱海温泉！<br className="hidden sm:inline" />
-            奇跡の「しぶき氷」と白鳥飛来・雪見露天風呂と会津地鶏・福島牛名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">猪苗代湖＆磐梯熱海温泉！<br className="hidden sm:inline" /> 奇跡の「しぶき氷」と白鳥飛来・雪見露天風呂と会津地鶏・福島牛名宿5選</h1>
 
           <p className="text-slate-300 text-sm sm:text-base lg:text-lg leading-relaxed max-w-3xl mb-8">
             厳冬期の猪苗代湖（天鏡湖）は、氷点下の強風と波しぶきが岸辺の樹木を凍らせて創り出す奇跡の自然氷結アート「しぶき氷」と、シベリアから飛来する数千羽の優雅な白鳥たちが出迎える白銀の別世界。冠雪した秀峰・磐梯山を望み、開湯800年「萩姫伝説」の美肌湯・磐梯熱海温泉で極上の雪見風呂に浸かる。会津地鶏、極上馬刺し、福島牛の贅沢な味覚を味わう至高の冬旅へご案内します。

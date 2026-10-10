@@ -4,14 +4,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '日本三大八幡宮＆厄除け開運祈願・門前町名宿×ふるさと納税完全ガイド【2026年最新】宇佐神宮・石清水八幡宮・筥崎宮',
+  title: '日本三大八幡宮＆厄除け開運祈願・門前町名宿×ふるさと納税厳選ガイド宇佐神宮・石清水八幡宮・筥崎宮',
   description: '武運長久と国家鎮護の最高峰パワースポット！大分「宇佐神宮」全国4万余社の総本宮と別府八湯の名宿、京都「石清水八幡宮」国宝男山社殿と伏見酒蔵・京料理旅館、福岡「筥崎宮」敵国降伏の扁額と博多湾絶景海鮮ホテル。日本三大八幡の聖地巡礼を楽天ふるさと納税宿泊クーポンでお得に叶える完全ガイド。',
   keywords: 'ふるさと納税, 楽天トラベル, 旅行クーポン, 宿泊記, ホテル予約, 国内旅行, おすすめ宿, 温泉旅館',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-hachiman-shrines-sacred-stay/",
   },
   openGraph: {
-    title: '日本三大八幡宮＆厄除け開運祈願・門前町名宿×ふるさと納税完全ガイド【2026年最新】宇佐神宮・石清水八幡宮・筥崎宮',
+    title: '日本三大八幡宮＆厄除け開運祈願・門前町名宿×ふるさと納税厳選ガイド宇佐神宮・石清水八幡宮・筥崎宮',
     description: '武運長久と国家鎮護の最高峰パワースポット！大分「宇佐神宮」全国4万余社の総本宮と別府八湯の名宿、京都「石清水八幡宮」国宝男山社殿と伏見酒蔵・京料理旅館、福岡「筥崎宮」敵国降伏の扁額と博多湾絶景海鮮ホテル。日本三大八幡の聖地巡礼を楽天ふるさと納税宿泊クーポンでお得に叶える完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-hachiman-shrines-sacred-stay',
     siteName: 'トラベル総合ナビ',
@@ -56,9 +56,7 @@ export default function Page() {
             <span>✨</span>
             <span>日本三大八幡宮・開運聖地特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6 text-white drop-shadow-sm">
-            日本三大八幡宮＆厄除け開運祈願・門前町名宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6 text-white drop-shadow-sm">日本三大八幡宮＆厄除け開運祈願・門前町名宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-xl text-slate-200 leading-relaxed font-normal max-w-4xl">
             朱塗りの社殿に祈る必勝と厄除け。神仏習合の起源と千古の森に抱かれる開運ステイ
           </p>

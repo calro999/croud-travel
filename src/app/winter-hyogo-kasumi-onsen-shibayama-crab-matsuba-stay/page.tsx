@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月兵庫・香住温泉】香住松葉ガニ！名宿5選',
+  title: '兵庫・香住温泉で過ごす冬の旅（11・12月）！香住松葉ガニ！名宿5選',
   description: '11月6日のカニ漁解禁を迎えると、兵庫県但馬地方の日本海に面した香住海岸（香住港・柴山港）は、一年で最も活気あふれる松葉ガニの最高峰シーズンを迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '香住温泉 宿泊, 柴山温泉 カニ, 柴山がに 宿, 香住 松葉ガニ 11月 12月, さだ助, さどや, やまや 香住, 癒しの宿こえもん, 翠湖, 但馬牛 香住, 余部橋梁 冬',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay/"
   },
   openGraph: {
-    title: '【11・12月兵庫・香住温泉】香住松葉ガニ！名宿5選',
+    title: '兵庫・香住温泉で過ごす冬の旅（11・12月）！香住松葉ガニ！名宿5選',
     description: '11月6日のカニ漁解禁を迎えると、兵庫県但馬地方の日本海に面した香住海岸（香住港・柴山港）は、一年で最も活気あふれる松葉ガニの最高峰シーズンを迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -280,10 +280,7 @@ export default function KasumiOnsenWinterFeature() {
             <Snowflake className="w-4 h-4" />
             11月・12月 冬の極上美食特集｜兵庫・但馬香住
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月兵庫・香住温泉】<br className="hidden sm:inline" />
-            最高峰ブランド柴山ガニ＆香住松葉ガニ・但馬牛と海辺露天の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">兵庫・香住温泉で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 最高峰ブランド柴山ガニ＆香住松葉ガニ・但馬牛と海辺露天の宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             11月6日の解禁とともに湧き立つ山陰の蟹王国。ピンクタグの頂点「柴山がに」と獲れたて活松葉ガニ、但馬牛の極上饗宴に酔いしれ、海辺の天然温泉で身体の芯から温まる冬の至福旅。
           </p>

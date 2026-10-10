@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tohoku-travel-budget-guide/" },
-  title: "【東北旅行 費用】2泊3日で仙台・松島・銀山温泉を巡るといくらかかる？交通費＆宿泊費の完全内訳 ｜ 日本全国・旅宿クラウド",
+  title: "東北旅行 費用：2泊3日で仙台・松島・銀山温泉を巡るといくらかかる？交通費＆宿泊費の完全内訳 ｜ 日本全国・旅宿クラウド",
   description: "東北旅行の費用を2泊3日（仙台＋松島＋銀山温泉or蔵王温泉）のモデルコースで完全計算。東京からの東北新幹線vs高速バスの交通費比較、牛たん・ずんだ餅のグルメ費用、銀山温泉のレトロ旅館の宿泊費まで内訳公開。",
   keywords: ["東北旅行", "費用", "2泊3日で仙台", "松島", "宿泊費の完全内訳", "温泉宿", "宿泊予約"],
 };
@@ -64,9 +64,7 @@ export default function TohokuBudgetGuidePage() {
               東京発・2泊3日モデルコース
             </span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white drop-shadow-md">
-            【東北旅行 費用】2泊3日で仙台・松島・銀山温泉を巡るといくらかかる？交通費＆宿泊費の完全内訳
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white drop-shadow-md">「東北旅行 費用」2泊3日で仙台・松島・銀山温泉を巡るといくらかかる？交通費＆宿泊費の完全内訳</h1>
           <p className="text-sm text-emerald-50/90 leading-relaxed font-medium">
             「東北をぐるっと回りたいけど、いくら貯金すればいいの？」そんな疑問に答えるべく、東京から仙台・松島・山形（銀山温泉・蔵王）を2泊3日で巡るリアルな費用を徹底解剖します！
           </p>

@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月伊豆稲取温泉】オーシャンビュー展望露天風呂！名宿5選',
+  title: '伊豆稲取温泉で過ごす冬の旅（11・12月）！オーシャンビュー展望露天風呂！名宿5選',
   description: '11月から12月にかけて、伊豆半島東海岸の岬に広がる稲取温泉は、冬の味覚の最高峰「稲取一本釣り地金目鯛（きんめだい）」が年間で最も上質な脂を。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '稲取温泉 宿泊, 伊豆 温泉 11月 12月, 稲取銀水荘, 食べるお宿 浜の湯, 稲取東海ホテル湯苑, いなとり荘, 石花海, 稲取金目鯛 姿煮, 相模灘 絶景露天, 伊豆 避寒旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay/"
   },
   openGraph: {
-    title: '【11・12月伊豆稲取温泉】オーシャンビュー展望露天風呂！名宿5選',
+    title: '伊豆稲取温泉で過ごす冬の旅（11・12月）！オーシャンビュー展望露天風呂！名宿5選',
     description: '11月から12月にかけて、伊豆半島東海岸の岬に広がる稲取温泉は、冬の味覚の最高峰「稲取一本釣り地金目鯛（きんめだい）」が年間で最も上質な脂を。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -246,10 +246,7 @@ export default function ShizuokaInatoriWinterFeature() {
             <Fish className="w-4 h-4" />
             11月・12月 冬の極上美食＆オーシャンビュー絶景特集｜静岡・伊豆稲取温泉
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            極上地金目鯛会席と相模灘絶景<br className="hidden sm:inline" />
-            オーシャンビュー展望露天＆伊豆温暖避寒の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">極上地金目鯛会席と相模灘絶景<br className="hidden sm:inline" /> オーシャンビュー展望露天＆伊豆温暖避寒の宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             寒さ知らずの温暖な東伊豆。11・12月に最も脂が乗る本場「稲取一本釣り地金目鯛」の姿煮と、水平線から昇る朝日のパノラマ露天に癒やされる至福の冬旅。
           </p>

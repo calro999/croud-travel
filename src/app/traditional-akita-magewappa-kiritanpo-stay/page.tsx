@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【大館曲げわっぱと比内地鶏きりたんぽ】秋田の伝統工芸と乳頭温泉郷の秘湯宿5選",
+  title: "大館曲げわっぱと比内地鶏きりたんぽ：秋田の伝統工芸と乳頭温泉郷の秘湯宿5選",
   description: "秋田杉の美しい木目と香りが際立つ伝統工芸「大館曲げわっぱ」の器と、炭火で焼いた名物「比内地鶏きりたんぽ鍋」！全国の温泉ファンが憧れる秘湯・乳頭温泉郷の乳白色の露天風呂に癒やされる旅。",
   keywords: "秋田 温泉 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/traditional-akita-magewappa-kiritanpo-stay/",
   },
   openGraph: {
-    title: "【大館曲げわっぱと比内地鶏きりたんぽ】秋田の伝統工芸と乳頭温泉郷の秘湯宿5選",
+    title: "大館曲げわっぱと比内地鶏きりたんぽ：秋田の伝統工芸と乳頭温泉郷の秘湯宿5選",
     description: "秋田杉の美しい木目と香りが際立つ伝統工芸「大館曲げわっぱ」の器と、炭火で焼いた名物「比内地鶏きりたんぽ鍋」！全国の温泉ファンが憧れる秘湯・乳頭温泉郷の乳白色の露天風呂に癒やされる旅。",
     url: 'https://croud-travel.pages.dev/traditional-akita-magewappa-kiritanpo-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【大館曲げわっぱと比内地鶏きりたんぽ】秋田の伝統工芸と乳頭温泉郷の秘湯宿5選",
+    title: "大館曲げわっぱと比内地鶏きりたんぽ：秋田の伝統工芸と乳頭温泉郷の秘湯宿5選",
     description: "秋田杉の美しい木目と香りが際立つ伝統工芸「大館曲げわっぱ」の器と、炭火で焼いた名物「比内地鶏きりたんぽ鍋」！全国の温泉ファンが憧れる秘湯・乳頭温泉郷の乳白色の露天風呂に癒やされる旅。",
   }
 };
@@ -123,9 +123,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>大館曲げわっぱ＆乳頭秘湯</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【大館曲げわっぱと比内地鶏きりたんぽ】秋田の伝統工芸と乳頭温泉郷の秘湯宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「大館曲げわっぱと比内地鶏きりたんぽ」秋田の伝統工芸と乳頭温泉郷の秘湯宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             秋田杉の美しい木目と香りが際立つ伝統工芸「大館曲げわっぱ」の器と、炭火で焼いた名物「比内地鶏きりたんぽ鍋」！全国の温泉ファンが憧れる秘湯・乳頭温泉郷の乳白色の露天風呂に癒やされる旅。
           </p>

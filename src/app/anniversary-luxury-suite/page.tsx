@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/anniversary-luxury-suite/" },
-  title: "【記念日・誕生日】客室露天風呂＆贅沢スイート極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "記念日・誕生日：客室露天風呂＆贅沢スイート極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "大切な記念日、プロポーズ、ご両親へのプレゼントに。箱根・伊豆の離れ露天風呂付き客室、京都の極上ラグジュアリーホテル、東京の高層階夜景スイートなど最高峰の宿泊体験を完全網羅。",
   keywords: ["記念日", "誕生日", "客室露天風呂", "贅沢スイート極上宿", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
@@ -98,9 +98,7 @@ export default function SeasonalFeaturePage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             LUXURY ANNIVERSARY
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【記念日・誕生日】客室露天風呂＆贅沢スイート極上宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「記念日・誕生日」客室露天風呂＆贅沢スイート極上宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             誕生日、結婚記念日、特別なご褒美旅行。誰にも邪魔されない客室専用露天風呂、一流シェフが腕を振るう記念日ディナー、夜景を一望するクラブラウンジなど、感動の記念日ステイを叶える名宿をご紹介。
           </p>

@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '鳴子峡の深紅の大峡谷＆多彩な名湯・鳴子温泉郷！湯めぐり露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】宮城',
+  title: '鳴子峡の深紅の大峡谷＆多彩な名湯・鳴子温泉郷！湯めぐり露天風呂宿×ふるさと納税厳選ガイド宮城',
   description: '10月中旬〜11月上旬に見頃を迎える東北随一の紅葉絶景「鳴子峡」。大谷川が刻む深さ100mの大峡谷が鮮やかな錦秋に染まるパノラマと、日本にある11泉質のうち9泉質が集まる奇跡の名湯「鳴子温泉郷 旅館弁天閣」「旅館大沼」「鳴子旅館」で自家源泉掛け流しと宮城郷土牛料理を堪能。ふるさと納税トラベルクーポンで実質2,000円。',
   keywords: ["鳴子峡の深紅の大峡谷", "多彩な名湯", "2026年最新秋旅", "宮城", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-narukokyo-autumn-leaves-onsen-stay/"
   },
   openGraph: {
-    title: '鳴子峡の深紅の大峡谷＆多彩な名湯・鳴子温泉郷！湯めぐり露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】宮城',
+    title: '鳴子峡の深紅の大峡谷＆多彩な名湯・鳴子温泉郷！湯めぐり露天風呂宿×ふるさと納税厳選ガイド宮城',
     description: '10月中旬〜11月上旬に見頃を迎える東北随一の紅葉絶景「鳴子峡」。大谷川が刻む深さ100mの大峡谷が鮮やかな錦秋に染まるパノラマと、日本にある11泉質のうち9泉質が集まる奇跡の名湯「鳴子温泉郷 旅館弁天閣」「旅館大沼」「鳴子旅館」で自家源泉掛け流しと宮城郷土牛料理を堪能。ふるさと納税トラベルクーポンで実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-narukokyo-autumn-leaves-onsen-stay',
     siteName: '旅宿クラウド',
@@ -113,9 +113,7 @@ export default function FeatureArticlePage() {
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">
-            鳴子峡の深紅の大峡谷＆多彩な名湯・鳴子温泉郷！湯めぐり露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】宮城
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">鳴子峡の深紅の大峡谷＆多彩な名湯・鳴子温泉郷！湯めぐり露天風呂宿×ふるさと納税厳選ガイド宮城</h1>
           <p className="text-sm md:text-lg text-stone-200 max-w-3xl mx-auto leading-relaxed">
             深紅と黄金に染まる100mの鳴子峡大渓谷と、日本屈指の多彩な泉質を誇る伝統の湯治街。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
           </p>

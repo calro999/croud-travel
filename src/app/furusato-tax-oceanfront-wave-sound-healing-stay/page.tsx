@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-oceanfront-wave-sound-healing-stay/" },
-  title: '絶景オーシャンフロント×波音ヒーリングの海宿ふるさと納税完全ガイド【2026年最新】全室オーシャンビューと潮騒露天風呂',
+  title: '絶景オーシャンフロント×波音ヒーリングの海宿ふるさと納税厳選ガイド全室オーシャンビューと潮騒露天風呂',
   description: '窓一面に広がる青い海と夜空、寄せては返す波の音に癒やされる絶景オーシャンフロント宿！伊豆稲取、南房総白浜、沖縄読谷村など波打ち際の名門リゾートをふるさと納税宿泊クーポンでお得に予約する極上シーサイドステイ。',
   keywords: ["2026年最新", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   openGraph: {
-    title: '絶景オーシャンフロント×波音ヒーリングの海宿ふるさと納税完全ガイド【2026年最新】全室オーシャンビューと潮騒露天風呂',
+    title: '絶景オーシャンフロント×波音ヒーリングの海宿ふるさと納税厳選ガイド全室オーシャンビューと潮騒露天風呂',
     description: '窓一面に広がる青い海と夜空、寄せては返す波の音に癒やされる絶景オーシャンフロント宿！伊豆稲取、南房総白浜、沖縄読谷村など波打ち際の名門リゾートをふるさと納税宿泊クーポンでお得に予約する極上シーサイドステイ。',
     url: 'https://croud-travel.pages.dev/furusato-tax-oceanfront-wave-sound-healing-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FurusatoTaxPage() {
           <span className="inline-block px-4 py-1.5 rounded-full text-xs md:text-sm font-black bg-gradient-to-r from-amber-500 to-yellow-400 text-slate-950 mb-5 shadow-lg shadow-amber-500/20">
             オーシャンフロント・波音宿特集
           </span>
-          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">
-            絶景オーシャンフロント×波音ヒーリングの海宿ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">絶景オーシャンフロント×波音ヒーリングの海宿ふるさと納税ガイド</h1>
           <p className="text-sm md:text-lg text-slate-300 leading-relaxed font-medium">
             窓一面に広がる青い海と夜空、寄せては返す波の音に癒やされる絶景オーシャンフロント宿！伊豆稲取、南房総白浜、沖縄読谷村など波打ち際の名門リゾートをふるさと納税宿泊クーポンでお得に予約する極上シーサイドステイ。
           </p>

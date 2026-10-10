@@ -180,9 +180,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            気兼ねなく一人を謳歌する！お部屋食＆客室専用風呂で過ごす極上ソロ温泉リトリート
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">気兼ねなく一人を謳歌する！お部屋食＆客室専用風呂で過ごす極上ソロ温泉リトリート</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             誰にも気を使わず、自分の気の向くままに湯に浸かり、読書に耽り、お部屋に運ばれる温かい料理をゆっくりと味わう。ひとり旅だからこそ味わえる深い静寂と贅沢な時間は、心身の疲れを芯から癒やしてくれます。一人旅歓迎プランが充実した信頼の名宿をご案内します。
           </p>

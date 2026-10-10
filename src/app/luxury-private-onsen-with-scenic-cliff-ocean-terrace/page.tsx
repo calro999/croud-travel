@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【断崖絶壁オーシャンテラス】荒波と水平線を一望するプライベート温泉！伊豆・南紀の絶景隠れ宿5選",
+  title: "断崖絶壁オーシャンテラス：荒波と水平線を一望するプライベート温泉！伊豆・南紀の絶景隠れ宿5選",
   description: "海に突き出た断崖のプライベートウッドテラスに設えられた客室露天風呂！目の前に広がる青い太平洋のパノラマと、夕暮れに茜色に染まる水平線を独占できる、圧倒的絶景を誇る大人のラグジュアリー隠れ宿。",
   keywords: "絶壁 露天風呂 オーシャン 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-cliff-ocean-terrace/",
   },
   openGraph: {
-    title: "【断崖絶壁オーシャンテラス】荒波と水平線を一望するプライベート温泉！伊豆・南紀の絶景隠れ宿5選",
+    title: "断崖絶壁オーシャンテラス：荒波と水平線を一望するプライベート温泉！伊豆・南紀の絶景隠れ宿5選",
     description: "海に突き出た断崖のプライベートウッドテラスに設えられた客室露天風呂！目の前に広がる青い太平洋のパノラマと、夕暮れに茜色に染まる水平線を独占できる、圧倒的絶景を誇る大人のラグジュアリー隠れ宿。",
     url: 'https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-cliff-ocean-terrace',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【断崖絶壁オーシャンテラス】荒波と水平線を一望するプライベート温泉！伊豆・南紀の絶景隠れ宿5選",
+    title: "断崖絶壁オーシャンテラス：荒波と水平線を一望するプライベート温泉！伊豆・南紀の絶景隠れ宿5選",
     description: "海に突き出た断崖のプライベートウッドテラスに設えられた客室露天風呂！目の前に広がる青い太平洋のパノラマと、夕暮れに茜色に染まる水平線を独占できる、圧倒的絶景を誇る大人のラグジュアリー隠れ宿。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>断崖テラス＆絶景オーシャン露天</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【断崖絶壁オーシャンテラス】荒波と水平線を一望するプライベート温泉！伊豆・南紀の絶景隠れ宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「断崖絶壁オーシャンテラス」荒波と水平線を一望するプライベート温泉！伊豆・南紀の絶景隠れ宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             海に突き出た断崖のプライベートウッドテラスに設えられた客室露天風呂！目の前に広がる青い太平洋のパノラマと、夕暮れに茜色に染まる水平線を独占できる、圧倒的絶景を誇る大人のラグジュアリー隠れ宿。
           </p>

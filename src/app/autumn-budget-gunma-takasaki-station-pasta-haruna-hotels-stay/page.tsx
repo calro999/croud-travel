@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【高崎駅前】上毛三山・榛名山紅葉＆名物高崎パスタ！3,000円台〜泊まれる格安ホテル5選',
+  title: '高崎駅前：上毛三山・榛名山紅葉＆名物高崎パスタ！3,000円台〜泊まれる格安ホテル5選',
   description: 'パスタの街・高崎の名物キングオブパスタや焼きまんじゅう、上毛三山・榛名山や榛名湖の秋の紅葉！北陸・上越新幹線・高崎駅周辺で1泊3,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>名峰榛名山の秋紅葉＆パスタの街・高崎ご当地グルメ</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【高崎駅前】榛名山紅葉＆名物高崎パスタ！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「高崎駅前」榛名山紅葉＆名物高崎パスタ！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             全国屈指の小麦文化を誇る「パスタの街・高崎」。ボリューム満点の濃厚スープパスタやベスビオ、上州牛グルメに舌鼓！上毛三山の一つ「榛名山」やカルデラ湖「榛名湖」の雄大な紅葉をドライブ・観光し、高崎駅周辺で3,000円台〜泊まれる優良ホテルを厳選。
           </p>

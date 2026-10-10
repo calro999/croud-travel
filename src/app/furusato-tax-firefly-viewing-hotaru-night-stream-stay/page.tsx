@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '闇夜に舞う無数の光の幻想！初夏のホタル観賞＆清流のせせらぎ温泉宿×ふるさと納税完全ガイド【2026年最新】熊本菊池・兵庫神鍋・神奈川湯河原',
+  title: '闇夜に舞う無数の光の幻想！初夏のホタル観賞＆清流のせせらぎ温泉宿×ふるさと納税厳選ガイド熊本菊池・兵庫神鍋・神奈川湯河原',
   description: '澄み切った清流にだけ舞う初夏の光の芸術「ホタル（蛍）」。幻想的なホタルの乱舞を愛でる初夏の温泉旅を厳選！菊池渓谷の清流と名湯美肌の湯を誇る熊本県「菊池温泉 清流荘」、神鍋高原の清らかな渓流沿いにホタルが飛び交う兵庫県「ブルーリッジホテル」、千歳川のせせらぎと万葉公園ほたるの宴が間近の神奈川県「湯河原温泉 万葉の里 白雲荘」。闇夜を照らす淡い光と川音に癒やされる特別な旅を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
   keywords: ["2026年最新", "熊本菊池", "兵庫神鍋", "神奈川湯河原", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: { canonical: baseUrl + '/furusato-tax-firefly-viewing-hotaru-night-stream-stay/' },
   openGraph: {
-    title: '闇夜に舞う無数の光の幻想！初夏のホタル観賞＆清流のせせらぎ温泉宿×ふるさと納税完全ガイド【2026年最新】熊本菊池・兵庫神鍋・神奈川湯河原',
+    title: '闇夜に舞う無数の光の幻想！初夏のホタル観賞＆清流のせせらぎ温泉宿×ふるさと納税厳選ガイド熊本菊池・兵庫神鍋・神奈川湯河原',
     description: '澄み切った清流にだけ舞う初夏の光の芸術「ホタル（蛍）」。幻想的なホタルの乱舞を愛でる初夏の温泉旅を厳選！菊池渓谷の清流と名湯美肌の湯を誇る熊本県「菊池温泉 清流荘」、神鍋高原の清らかな渓流沿いにホタルが飛び交う兵庫県「ブルーリッジホテル」、千歳川のせせらぎと万葉公園ほたるの宴が間近の神奈川県「湯河原温泉 万葉の里 白雲荘」。闇夜を照らす淡い光と川音に癒やされる特別な旅を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
     url: baseUrl + '/furusato-tax-firefly-viewing-hotaru-night-stream-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoFireflyViewingStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             清流ホタル観賞＆初夏の温泉リトリート宿特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            闇夜に舞う無数の光の幻想！初夏のホタル観賞＆清流のせせらぎ温泉宿×ふるさと納税完全ガイド【2026年最新】熊本菊池・兵庫神鍋・神奈川湯河原
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">闇夜に舞う無数の光の幻想！初夏のホタル観賞＆清流のせせらぎ温泉宿×ふるさと納税厳選ガイド熊本菊池・兵庫神鍋・神奈川湯河原</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             初夏（5月下旬〜6月下旬）のわずか数週間だけ、水清らかな渓流沿いで見られる奇跡の風物詩「ホタル（ゲンジボタル・ヘイケボタル）の乱舞。」。都市部では決して見ることのできなくなった無数の光の筋が、水辺の草むらや夜空に優雅に舞い上がる光景は、息を呑むほど幻想的でノスタルジックな感動を呼び起こします。名水百選に輝く菊池渓谷から清らかな水が流れ込み、宿の目の前の川辺でホタルを鑑賞できる熊本県・菊池温泉の「木立ちの中の宿 清流荘」、神鍋高原の雄大な自然に囲まれ清流沿いのホタル散策と高原温泉リゾートを満喫できる兵庫県の「神鍋温泉 ブルーリッジホテル」、そして万葉集の時代から愛される湯河原温泉で、千歳川のせせらぎに耳を澄まし「万葉公園 ほたるの宴」へ徒歩で出かけられる名宿「万葉の里 白雲荘」。夜には幻想的なホタル鑑賞ツアーや夜風の散策を楽しみ、美肌の天然温泉と旬の初夏会席を味わう時間は、心洗われる最高のリフレッシュとなります。大人気の初夏限定ホタル観賞ステイを、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引）を使って実質2,000円負担で賢く予約し、光のアートに包まれる旅へ出かけましょう。
           </p>

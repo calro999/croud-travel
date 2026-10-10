@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '【2026年】パチパチ爆ぜる薪ストーブと木の香り！北欧風ログキャビン＆森林温泉リトリート5選 ｜ 日本全国・旅宿クラウド',
+  title: '2026年：パチパチ爆ぜる薪ストーブと木の香り！北欧風ログキャビン＆森林温泉リトリート5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！本物の薪ストーブの炎に癒やされ、針葉樹の森でマイナスイオンを深呼吸する北欧風ログハウス＆コテージ温泉宿5選。心温まる休日。',
   keywords: ["2026年", "森林温泉リトリート5選", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/forest-cabin-nordic-wood-stove-retreat-stay/",
   },
   openGraph: {
-    title: '【2026年】パチパチ爆ぜる薪ストーブと木の香り！北欧風ログキャビン＆森林温泉リトリート5選',
+    title: '2026年：パチパチ爆ぜる薪ストーブと木の香り！北欧風ログキャビン＆森林温泉リトリート5選',
     description: '2026年最新！本物の薪ストーブの炎に癒やされ、針葉樹の森でマイナスイオンを深呼吸する北欧風ログハウス＆コテージ温泉宿5選。心温まる休日。',
     url: 'https://croud-travel.pages.dev/forest-cabin-nordic-wood-stove-retreat-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -172,9 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>薪ストーブ×北欧ログキャビン</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            【2026年】パチパチ爆ぜる薪ストーブと木の香り！北欧風ログキャビン＆森林温泉リトリート5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」パチパチ爆ぜる薪ストーブと木の香り！北欧風ログキャビン＆森林温泉リトリート5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             揺らめく炎を眺めながら温かいココアやウイスキーを傾ける薪ストーブの贅沢な時間。木の温もりにあふれた北欧風のログハウスやキャビンで、深い森の静寂に包まれるステイ。敷地内の天然温泉や薪サウナで芯から温まるヒーリングリトリートへ。
           </p>

@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-daimyo-gardens-stay/" },
-  title: '日本三大名園＆江戸大名庭園の四季美と城下町風雅宿×ふるさと納税完全ガイド【2026年最新】偕楽園・兼六園・後楽園',
+  title: '日本三大名園＆江戸大名庭園の四季美と城下町風雅宿×ふるさと納税厳選ガイド偕楽園・兼六園・後楽園',
   description: '大名文化の粋を集めた回遊式庭園の最高峰！茨城水戸「偕楽園」徳川斉昭公の梅林とホテル・ザ・ウエストヒルズ・水戸、石川金沢「兼六園」六勝を兼ね備える加賀百万石の雪吊りと金沢白鳥路ホテル山楽、岡山「後楽園」旭川と岡山城を借景にする岡山プラザホテル。日本三大名園の四季折々の庭園美と藩主ゆかりの郷土会席を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大名園・大名庭園特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大名園＆江戸大名庭園の四季美と城下町風雅宿×ふるさと納税完全ガイド【2026年最新】偕楽園・兼六園・後楽園',
+    title: '日本三大名園＆江戸大名庭園の四季美と城下町風雅宿×ふるさと納税厳選ガイド偕楽園・兼六園・後楽園',
     description: '大名文化の粋を集めた回遊式庭園の最高峰！茨城水戸「偕楽園」徳川斉昭公の梅林とホテル・ザ・ウエストヒルズ・水戸、石川金沢「兼六園」六勝を兼ね備える加賀百万石の雪吊りと金沢白鳥路ホテル山楽、岡山「後楽園」旭川と岡山城を借景にする岡山プラザホテル。日本三大名園の四季折々の庭園美と藩主ゆかりの郷土会席を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-daimyo-gardens-stay',
@@ -155,9 +155,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大名園・大名庭園特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大名園＆大名庭園風雅宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大名園＆大名庭園風雅宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             国の特別名勝に指定され、日本の庭園文化の最高傑作として世界的に知られる「日本三大名園（大名庭園）」――水戸藩第九代藩主・徳川斉昭公が民と偕（とも）に楽しむ場として創設し約三千本の梅が咲き誇る茨城の「偕楽園」、加賀藩歴代藩主が百数十年をかけて作庭し「広大・幽邃・人力・蒼古・水泉・眺望」の六つの景勝を兼備する石川の「兼六園」、そして岡山藩第二代藩主・池田綱政公が憩いの場として築き、旭川の清流と岡山城天守を借景にする広大な芝生回遊式庭園・岡山の「後楽園」。池の周りを歩く回遊式庭園は、季節や天候、時間帯によって千変万化の表情を見せてくれます。名園の隣や城下町の一等地に佇むホテル・名旅館を拠点に、常陸牛・加賀懐石・瀬戸内鰆など歴代藩主が愛した美食を堪能する特別なひとときを楽天ふるさと納税でお楽しみください。
           </p>

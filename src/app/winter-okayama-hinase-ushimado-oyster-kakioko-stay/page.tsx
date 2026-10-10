@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月岡山】瀬戸内冬の味覚「日生牡蠣（ひ！名宿5選',
+  title: '11・12・1月岡山：瀬戸内冬の味覚「日生牡蠣（ひ！名宿5選',
   description: '11月から1月、岡山県南東部の備前・日生（ひなせ）と瀬戸内市牛窓は、冬の海の恵み「日生牡蠣」の水揚げ最盛期と日本のエーゲ海と称される穏やかな。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '日生 牡蠣, カキオコ, 日生 カキオコ おすすめ, 牛窓 ホテルリマーニ, 料理旅館 備前屋, 五味の市 焼き牡蠣, 牛窓オリーブ園, 11月 12月 1月 岡山旅行, 瀬戸内海 冬 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-okayama-hinase-ushimado-oyster-kakioko-stay/"
   },
   openGraph: {
-    title: '【11・12・1月岡山】瀬戸内冬の味覚「日生牡蠣（ひ！名宿5選',
+    title: '11・12・1月岡山：瀬戸内冬の味覚「日生牡蠣（ひ！名宿5選',
     description: '11月から1月、岡山県南東部の備前・日生（ひなせ）と瀬戸内市牛窓は、冬の海の恵み「日生牡蠣」の水揚げ最盛期と日本のエーゲ海と称される穏やかな。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-okayama-hinase-ushimado-oyster-kakioko-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月岡山】瀬戸内冬の味覚「日生牡蠣（ひなせかき）」と名物カキオコ・殻付き焼き牡蠣＆牛窓オリーブ園夕陽・日本のエーゲ海リゾート温泉宿5選",
+    title: "11・12・1月岡山：瀬戸内冬の味覚「日生牡蠣（ひなせかき）」と名物カキオコ・殻付き焼き牡蠣＆牛窓オリーブ園夕陽・日本のエーゲ海リゾート温泉宿5選",
     description: "11月から1月、岡山県南東部の備前・日生（ひなせ）と瀬戸内市牛窓は、冬の海の恵み「日生牡蠣」の水揚げ最盛期と日本のエーゲ海と称される穏やかな瀬戸内海の絶景に包まれます。名水が注ぐ栄養豊かな播磨灘で育つ大粒の日生牡蠣は、熱を通しても縮まずプリプリで濃厚。鉄板で豪快に焼き上げるご当地グルメ「カキオコ」や五味の市の焼き牡蠣BBQ、牛窓オリーブ園から望む夕陽グラデーション、白亜のリゾートや海辺の美食宿で冬の瀬戸内を五感で堪能する厳選名宿5選を徹底解説します。",
     images: ['https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80']
   }
@@ -42,7 +42,7 @@ export default function OkayamaHinaseOysterWinterPage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: "【11・12・1月岡山】瀬戸内冬の味覚「日生牡蠣（ひなせかき）」と名物カキオコ・殻付き焼き牡蠣＆牛窓オリーブ園夕陽・日本のエーゲ海リゾート温泉宿5選",
+    headline: "11・12・1月岡山：瀬戸内冬の味覚「日生牡蠣（ひなせかき）」と名物カキオコ・殻付き焼き牡蠣＆牛窓オリーブ園夕陽・日本のエーゲ海リゾート温泉宿5選",
     description: "11月から1月、岡山県南東部の備前・日生（ひなせ）と瀬戸内市牛窓は、冬の海の恵み「日生牡蠣」の水揚げ最盛期と日本のエーゲ海と称される穏やかな瀬戸内海の絶景に包まれます。名水が注ぐ栄養豊かな播磨灘で育つ大粒の日生牡蠣は、熱を通しても縮まずプリプリで濃厚。鉄板で豪快に焼き上げるご当地グルメ「カキオコ」や五味の市の焼き牡蠣BBQ、牛窓オリーブ園から望む夕陽グラデーション、白亜のリゾートや海辺の美食宿で冬の瀬戸内を五感で堪能する厳選名宿5選を徹底解説します。",
     image: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
     datePublished: '',
@@ -282,9 +282,7 @@ export default function OkayamaHinaseOysterWinterPage() {
             <Calendar className="w-4 h-4 text-sky-300" />
             11月・12月・1月 冬の瀬戸内・日生牡蠣＆牛窓サンセットリゾート特集
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【11・12・1月岡山】瀬戸内冬の味覚「日生牡蠣（ひなせかき）」と名物カキオコ・殻付き焼き牡蠣＆牛窓オリーブ園夕陽・日本のエーゲ海リゾート温泉宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「11・12・1月岡山」瀬戸内冬の味覚「日生牡蠣（ひなせかき）」と名物カキオコ・殻付き焼き牡蠣＆牛窓オリーブ園夕陽・日本のエーゲ海リゾート温泉宿5選</h1>
           <p className="text-slate-300 text-sm sm:text-base md:text-lg max-w-3xl leading-relaxed">
             播磨灘の清らかな潮流と名水が育む冬の至宝「日生牡蠣」。加熱しても縮まない大粒の身を鉄板で豪快に焼き上げる名物カキオコ、海の駅しおじの炭火焼き牡蠣BBQ。日本のエーゲ海と讃えられる牛窓オリーブ園の茜色サンセットと、白亜の海辺リゾートや魚匠の老舗料理旅館で過ごす極上の冬旅をお届けします。
           </p>

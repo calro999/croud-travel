@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-riverside-valley-fishing-guide/" },
-  title: "【清流・渓谷リバーサイドグランピング】川のせせらぎに癒やされる！イワナ釣り＆川遊び体験 ｜ 日本全国・旅宿クラウド",
+  title: "清流・渓谷リバーサイドグランピング：川のせせらぎに癒やされる！イワナ釣り＆川遊び体験 ｜ 日本全国・旅宿クラウド",
   description:
     "マイナスイオンたっぷりの渓谷美！清流の目の前に建つドームテント、初心者でも釣れる渓流釣り場、釣った魚をその場で炭火塩焼きにするアウトドア体験。奥多摩・秩父・丹沢のおすすめ施設特集。",
   keywords: ["清流", "渓谷リバーサイドグランピング", "川遊び体験", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
@@ -172,9 +172,7 @@ export default function SilverWeekGlampingRiversideValleyFishingPage() {
             </span>
           </div>
 
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【清流・渓谷リバーサイドグランピング】川のせせらぎに癒やされる！イワナ釣り＆川遊び体験
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「清流・渓谷リバーサイドグランピング」川のせせらぎに癒やされる！イワナ釣り＆川遊び体験</h1>
 
           <p className="text-xs md:text-sm text-teal-100/90 leading-relaxed font-medium">
             耳をすませば絶え間なく響く澄んだせせらぎ、木漏れ日を反射してきらめくエメラルドグリーンの渓谷。水辺のグランピングは、日々の喧騒を洗い流してくれる天然のヒーリング空間です。竿を垂らしてイワナやヤマメと戯れ、釣れたてを炭火で香ばしく塩焼きにする贅沢。大人も童心にかえる清流アクティビティ付きの厳選宿をご紹介します。

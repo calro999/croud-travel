@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【姫路】世界遺産姫路城・好古園の紅葉会と姫路おでん！3,000円台〜格安ホテル5選',
+  title: '姫路：世界遺産姫路城・好古園の紅葉会と姫路おでん！3,000円台〜格安ホテル5選',
   description: '白鷺城の白壁と鮮やかな紅葉の対比、日本庭園「好古園」の紅葉会ライトアップ！生姜醤油で味わう名物姫路おでんと播磨灘の焼き穴子。姫路駅前で1泊3,000円台〜4,000円台の高評価宿5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHimejiHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>世界遺産姫路城＆好古園紅葉会ライトアップ</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【姫路】姫路城・好古園の紅葉＆姫路おでん！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「姫路」姫路城・好古園の紅葉＆姫路おでん！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-blue-100/90 max-w-2xl mx-auto leading-relaxed">
             青空に白く輝く国宝姫路城と、約1万坪の日本庭園「好古園」の池を彩る紅葉ライトアップ「紅葉会」。夜はピリッと生姜醤油をかけていただく名物「姫路おでん」や、香ばしく焼き上げた播磨灘の穴子重に舌鼓！山陽新幹線・JR姫路駅前で3,000円台〜4,000円台の優良宿を厳選。
           </p>

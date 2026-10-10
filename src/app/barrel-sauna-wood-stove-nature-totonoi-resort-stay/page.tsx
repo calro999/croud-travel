@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/barrel-sauna-wood-stove-nature-totonoi-resort-stay/" },
-  title: '本格バレルサウナ＆薪ストーブ宿完全ガイド【大自然森林浴と湖畔ダイブ】 | クラウドトラベル',
+  title: '本格バレルサウナ＆薪ストーブ宿厳選ガイド「大自然森林浴と湖畔ダイブ」 | クラウドトラベル',
   description: '本格バレルサウナ、薪ストーブの柔らかい熱、セルフロウリュ、湖畔ダイブや清流クールダウンが叶う大自然サウナリゾートを特集。森林外気浴で極上のディープリラックスへ。',
   openGraph: {
-    title: '本格バレルサウナ＆薪ストーブ宿完全ガイド【大自然森林浴と湖畔ダイブ】 | クラウドトラベル',
+    title: '本格バレルサウナ＆薪ストーブ宿厳選ガイド「大自然森林浴と湖畔ダイブ」 | クラウドトラベル',
     description: '本格バレルサウナ、薪ストーブの柔らかい熱、セルフロウリュ、湖畔ダイブや清流クールダウンが叶う大自然サウナリゾートを特集。森林外気浴で極上のディープリラックスへ。',
     type: 'article',
   },
@@ -59,9 +59,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-emerald-500/20 text-emerald-200 border border-emerald-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             本格バレルサウナ・薪ストーブ特化
           </div>
-          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-emerald-50">
-            本格バレルサウナ＆薪ストーブ宿完全ガイド【大自然森林浴と湖畔ダイブ】
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-emerald-50">本格バレルサウナ＆薪ストーブ宿厳選ガイド「大自然森林浴と湖畔ダイブ」</h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl">
             円筒形の樽型構造が生み出す熱対流と、パチパチとはぜる薪ストーブの柔らかな熱。天然木の香りに包まれながらセルフロウリュを楽しんだ後は、目の前の湖や清流へダイブ、あるいは原生林を渡る風を肌で感じる外気浴デッキへ。現代の喧騒から完全に解き放たれ、五感が研ぎ澄まされる至福のネイチャーサウナ体験をお届けします。
           </p>

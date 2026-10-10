@@ -5,11 +5,11 @@ import Image from 'next/image';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hyogo-ako-hinase-oyster-castle-stay/" },
-  title: '【兵庫・赤穂＆日生】赤穂城跡・播磨灘インフィニティ温泉＆坂越かき宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+  title: '兵庫・赤穂＆日生：赤穂城跡・播磨灘インフィニティ温泉＆坂越かき宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
   description: '忠臣蔵のふるさと国史跡「赤穂城跡」と大石神社、瀬戸内海・播磨灘の水平線と一体になる「赤穂温泉」絶景インフィニティ露天風呂、清浄海域で育つプリプリのブランド「坂越かき」・日生名物「カキオコ」、天然塩の赤穂塩づくり体験宿を徹底解説。',
   keywords: ["兵庫", "赤穂", "日生", "赤穂城跡", "播磨灘インフィニティ温泉", "坂越かき宿", "温泉宿"],
   openGraph: {
-    title: '【兵庫・赤穂＆日生】赤穂城跡・播磨灘インフィニティ温泉＆坂越かき宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+    title: '兵庫・赤穂＆日生：赤穂城跡・播磨灘インフィニティ温泉＆坂越かき宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
     description: '忠臣蔵のふるさと国史跡「赤穂城跡」と大石神社、瀬戸内海・播磨灘の水平線と一体になる「赤穂温泉」絶景インフィニティ露天風呂、清浄海域で育つプリプリのブランド「坂越かき」・日生名物「カキオコ」、天然塩の赤穂塩づくり体験宿を徹底解説。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/hyogo-ako-hinase-oyster-castle-stay',
@@ -50,9 +50,7 @@ export default function Page() {
             <span>🗺️</span>
             <span>AKO & HINASE OYSTER GUIDE</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">
-            【兵庫・赤穂＆日生・相生】赤穂義士の城跡・播磨灘夕日露天＆極上坂越牡蠣宿 完全ガイド
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">「兵庫・赤穂＆日生・相生」赤穂義士の城跡・播磨灘夕日露天＆極上坂越牡蠣宿 厳選ガイド</h1>
           <p className="max-w-3xl mx-auto text-stone-300 text-sm sm:text-base md:text-lg leading-relaxed mb-8">
             元禄赤穂事件・忠臣蔵の義士たちが生きた歴史の城下町「播州赤穂」。美しく復元された本丸門と庭園が広がる「国史跡 赤穂城跡」。赤穂御崎の高台からは、瀬戸内海・播磨灘の多島美と黄金色に染まる夕日のパノラマ。海と湯船がひと続きになったような絶景インフィニティ露天風呂が自慢の「赤穂温泉」。そして波静かな坂越湾で育つ大粒で縮まない冬の極上「坂越かき」。歴史情緒と海の絶景・美食に満たされる赤穂ステイへご案内します。
           </p>

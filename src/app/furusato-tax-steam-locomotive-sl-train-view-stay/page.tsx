@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '黒煙と汽笛が旅情を揺さぶる！大井川鐵道・秩父鉄道・磐越西線のSL・蒸気機関車ビューステイ×ふるさと納税完全ガイド【2026年最新】島田・秩父・会津若松',
+  title: '黒煙と汽笛が旅情を揺さぶる！大井川鐵道・秩父鉄道・磐越西線のSL・蒸気機関車ビューステイ×ふるさと納税厳選ガイド島田・秩父・会津若松',
   description: '力強い汽笛と真っ白な蒸気、レトロな客車が郷愁を誘う蒸気機関車（SL）の旅！大井川鐵道のSL列車が目の前を横切る絶好のビュースポット「川根温泉ホテル」、秩父路を駆けるSLパレオエクスプレスの旅情と竹酒・名湯に酔いしれる「秩父小鹿野温泉旅館 梁山泊」、SLばんえつ物語が走る会津若松の奥座敷で名勝伏見ヶ滝を望む「会津東山温泉 庄助の宿 瀧の湯」。鉄道ファンから家族連れ、大人の休日までを魅了するSL温泉旅を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
   keywords: ["秩父鉄道", "磐越西線のSL", "2026年最新", "島田", "秩父", "会津若松", "温泉宿"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-steam-locomotive-sl-train-view-stay/",
   },
   openGraph: {
-    title: '黒煙と汽笛が旅情を揺さぶる！大井川鐵道・秩父鉄道・磐越西線のSL・蒸気機関車ビューステイ×ふるさと納税完全ガイド【2026年最新】島田・秩父・会津若松',
+    title: '黒煙と汽笛が旅情を揺さぶる！大井川鐵道・秩父鉄道・磐越西線のSL・蒸気機関車ビューステイ×ふるさと納税厳選ガイド島田・秩父・会津若松',
     description: '力強い汽笛と真っ白な蒸気、レトロな客車が郷愁を誘う蒸気機関車（SL）の旅！大井川鐵道のSL列車が目の前を横切る絶好のビュースポット「川根温泉ホテル」、秩父路を駆けるSLパレオエクスプレスの旅情と竹酒・名湯に酔いしれる「秩父小鹿野温泉旅館 梁山泊」、SLばんえつ物語が走る会津若松の奥座敷で名勝伏見ヶ滝を望む「会津東山温泉 庄助の宿 瀧の湯」。鉄道ファンから家族連れ、大人の休日までを魅了するSL温泉旅を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-steam-locomotive-sl-train-view-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoSteamLocomotiveSLTrainStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           全国屈指のSL・蒸気機関車ビューステイ特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          黒煙と汽笛が旅情を揺さぶる！大井川鐵道・秩父鉄道・磐越西線のSL・蒸気機関車ビューステイ×ふるさと納税完全ガイド【2026年最新】島田・秩父・会津若松
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">黒煙と汽笛が旅情を揺さぶる！大井川鐵道・秩父鉄道・磐越西線のSL・蒸気機関車ビューステイ×ふるさと納税厳選ガイド島田・秩父・会津若松</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoSteamLocomotiveSLTrainStayPage() {
               温泉宿・ホテル総選挙ファミリー部門5年連続全国1位受賞！壮大な自然に囲まれた癒しと寛ぎの温泉宿
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “料理のクオリティが最高で全てに大満足何もかも最高でした。特に料理のクオリティが最高でした ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D172896%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoSteamLocomotiveSLTrainStayPage() {
               【埼玉おもてなし大賞☆特別賞】２年連続受賞★露天風呂付き客室☆美人の湯と呼ばれる温泉☆懐石料理が人気
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “とても満足です2回目の利用ですが、今回もベテランのスタッフが多く活躍されており、宿の安心感と各種サービスの安定感がありました。スタンダードな食事を選択しましたが、見た目の細かなところにも繊細な気配… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D14195%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoSteamLocomotiveSLTrainStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               【楽天トラベル ゴールドアワード2025】【楽天トラベル 日本の宿アワードTOP47 2024】
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “また行きます!食事美味しい!つきたて餅最高!お部屋も素敵!温泉最高!湯上りのソフトクリームとビールも最高!従業員の方々もとても優しい!また行きまーす
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

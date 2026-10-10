@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/winter-clear-air-fuji-view-hotels/" },
-  title: '【白銀の霊峰】冠雪富士山を望む！名宿5選',
+  title: '白銀の霊峰：冠雪富士山を望む！名宿5選',
   description: '空気が澄み渡る冬こそ富士山鑑賞の最高峰！山梨・河口湖畔（逆さ富士）、神奈川・箱根仙石原芦ノ湖、静岡・日本平三保松原、山梨・山中湖（紅富士）など、客室や露天風呂から白銀の富士山を仰ぐ人気宿を徹底解説。',
   keywords: ["白銀の霊峰", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
@@ -98,9 +98,7 @@ export default function SeasonalFeaturePage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             CLEAR AIR FUJI VIEW
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【白銀の霊峰】冠雪富士山を望む！冬の富士ビュー絶景ホテル 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「白銀の霊峰」冠雪富士山を望む！冬の富士ビュー絶景ホテル 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             雪化粧をまとった神々しい富士山の姿。朝日に赤く染まる「紅富士」、湖面に映り込む「逆さ富士」、夜空に浮かぶシルエット。冬の澄み切った空気の中でしか出逢えない奇跡の富士山ビューホテルへ。
           </p>

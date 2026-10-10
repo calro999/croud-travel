@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '日本三大渓流の清澄を愛でる渓谷美露天風呂宿×ふるさと納税完全ガイド【2026年最新】奥入瀬・三段峡・御岳の絶景宿',
+  title: '日本三大渓流の清澄を愛でる渓谷美露天風呂宿×ふるさと納税厳選ガイド奥入瀬・三段峡・御岳の絶景宿',
   description: 'エメラルドグリーンに輝く清流と幾重にも重なる奇岩美！青森「奥入瀬渓流」、広島「三段峡」、東京「御岳渓谷」の日本三大渓流を巡る旅。清流のせせらぎを間近に感じる露天風呂と山川の旬グルメを楽天ふるさと納税宿泊割引クーポンでお得に楽しむ完全ガイド。',
   keywords: ["2026年最新", "奥入瀬", "三段峡", "御岳の絶景宿", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-valleys-riverside-stay/",
   },
   openGraph: {
-    title: '日本三大渓流の清澄を愛でる渓谷美露天風呂宿×ふるさと納税完全ガイド【2026年最新】奥入瀬・三段峡・御岳の絶景宿',
+    title: '日本三大渓流の清澄を愛でる渓谷美露天風呂宿×ふるさと納税厳選ガイド奥入瀬・三段峡・御岳の絶景宿',
     description: 'エメラルドグリーンに輝く清流と幾重にも重なる奇岩美！青森「奥入瀬渓流」、広島「三段峡」、東京「御岳渓谷」の日本三大渓流を巡る旅。清流のせせらぎを間近に感じる露天風呂と山川の旬グルメを楽天ふるさと納税宿泊割引クーポンでお得に楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-valleys-riverside-stay',
     siteName: '旅宿クラウド',
@@ -108,9 +108,7 @@ export default function FurusatoUpgradedPage() {
             <span>✨</span>
             <span>日本三大渓流・清流美露天特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            日本三大渓流の清澄を愛でる渓谷美露天風呂宿×ふるさと納税完全ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">日本三大渓流の清澄を愛でる渓谷美露天風呂宿×ふるさと納税厳選ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             エメラルドグリーンに輝く清流、木々の隙間から差し込む木漏れ日、そして幾重にも重なる奇岩と水飛沫。日本を代表する三大渓流（奥入瀬渓流・三段峡・御岳渓谷）は、日常の喧騒を忘れさせ、心身を根底から浄化してくれる至高のネイチャーリゾートです。本特集では、各渓流の魅力を間近で体感できる厳選の名宿を特集。楽天ふるさと納税のトラベルクーポンを利用して、実質2,000円の自己負担で実現する清流ラグジュアリーステイへ出かけましょう。
           </p>

@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】せせらぎがBGM。清流の息吹を感じる渓流沿い専用露天風呂付き極上宿5選 | 日本全国・旅宿クラウド',
+  title: '2026年：せせらぎがBGM。清流の息吹を感じる渓流沿い専用露天風呂付き極上宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！目の前を流れる清流と新緑・紅葉の絶景！マイナスイオンあふれる渓流沿い客室露天風呂と川床料理で心洗われる隠れ家温泉旅館5選。',
   keywords: ["2026年", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: '【2026年】せせらぎがBGM。清流の息吹を感じる渓流沿い専用露天風呂付き極上宿5選',
+    title: '2026年：せせらぎがBGM。清流の息吹を感じる渓流沿い専用露天風呂付き極上宿5選',
     description: '2026年最新！目の前を流れる清流と新緑・紅葉の絶景！マイナスイオンあふれる渓流沿い客室露天風呂と川床料理で心洗われる隠れ家温泉旅館5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-creek-view',
@@ -193,9 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> 渓流プライベート露天×清流マイナスイオン
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】せせらぎがBGM。清流の息吹を感じる渓流沿い専用露天風呂付き極上宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」せせらぎがBGM。清流の息吹を感じる渓流沿い専用露天風呂付き極上宿5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             耳を澄ませば響く心地よいせせらぎの音と、木々の間を吹き抜ける清らかな川風。客室専用の露天風呂から間近に清流を眺め、川床会席や地元名物料理に舌鼓を打つ、都会では味わえない極上のネイチャーリトリート。
           </p>

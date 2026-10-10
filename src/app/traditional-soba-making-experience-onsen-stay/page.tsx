@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '【2026年】信州・出雲の名水で打つ！手打ちそば体験と打ちたて十割蕎麦が味わえる温泉宿5選 ｜ 日本全国・旅宿クラウド',
+  title: '2026年：信州・出雲の名水で打つ！手打ちそば体験と打ちたて十割蕎麦が味わえる温泉宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！職人に教わる本格そば打ち体験と、自分で打った出来立ての香り高い十割蕎麦を味わえる信州・出雲などの人気温泉宿5選。',
   keywords: ["2026年", "信州", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/traditional-soba-making-experience-onsen-stay/",
   },
   openGraph: {
-    title: '【2026年】信州・出雲の名水で打つ！手打ちそば体験と打ちたて十割蕎麦が味わえる温泉宿5選',
+    title: '2026年：信州・出雲の名水で打つ！手打ちそば体験と打ちたて十割蕎麦が味わえる温泉宿5選',
     description: '2026年最新！職人に教わる本格そば打ち体験と、自分で打った出来立ての香り高い十割蕎麦を味わえる信州・出雲などの人気温泉宿5選。',
     url: 'https://croud-travel.pages.dev/traditional-soba-making-experience-onsen-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -172,9 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>手打ちそば体験×名水十割蕎麦宿</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            【2026年】信州・出雲の名水で打つ！手打ちそば体験と打ちたて十割蕎麦が味わえる温泉宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」信州・出雲の名水で打つ！手打ちそば体験と打ちたて十割蕎麦が味わえる温泉宿5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             名水の里で体験する本格的な手打ちそば作り。そば粉をこね、延ばし、包丁で切り揃える職人技に挑戦。茹でたての香り高い十割蕎麦と揚げたての旬野菜天ぷらに舌鼓を打ち、心地よい疲れを源泉掛け流しの名湯で癒やす体験型の美食ステイ。
           </p>

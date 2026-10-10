@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【道後温泉×ふるさと納税】日本最古の名湯・道後温泉本館＆飛鳥乃湯泉！名門老舗宿ガイド｜ふなや・道後御湯・茶玻瑠',
+  title: '道後温泉をふるさと納税でお得に旅する！日本最古の名湯・道後温泉本館＆飛鳥乃湯泉！名門老舗宿ガイド｜ふなや・道後御湯・茶玻瑠',
   description: '三千年の歴史を誇る日本最古の温泉・愛媛県道後温泉を楽天ふるさと納税でお得に贅沢旅！創業三百九十余年・皇室や夏目漱石ゆかりの名門「ふなや」、全室客室露天風呂付き現代湯治のラグジュアリー宿「道後御湯」、本館すぐ隣・屋上露天風呂の「茶玻瑠」を徹底比較。伊予牛会席や松山市トラベルクーポン活用術を解説。',
   keywords: '道後温泉 ふるさと納税,道後温泉本館 宿 ふるさと納税,道後温泉 ふなや クーポン,道後御湯 ふるさと納税,茶玻瑠 松山市 宿泊',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-dogo-onsen-honkan-heritage-stay/",
   },
   openGraph: {
-    title: '【道後温泉×ふるさと納税】日本最古の名湯・道後温泉本館＆飛鳥乃湯泉！名門老舗宿ガイド｜ふなや・道後御湯・茶玻瑠',
+    title: '道後温泉をふるさと納税でお得に旅する！日本最古の名湯・道後温泉本館＆飛鳥乃湯泉！名門老舗宿ガイド｜ふなや・道後御湯・茶玻瑠',
     description: '三千年の歴史を誇る日本最古の温泉・愛媛県道後温泉を楽天ふるさと納税でお得に贅沢旅！創業三百九十余年・皇室や夏目漱石ゆかりの名門「ふなや」、全室客室露天風呂付き現代湯治のラグジュアリー宿「道後御湯」、本館すぐ隣・屋上露天風呂の「茶玻瑠」を徹底比較。伊予牛会席や松山市トラベルクーポン活用術を解説。',
     url: 'https://croud-travel.pages.dev/furusato-tax-dogo-onsen-honkan-heritage-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -24,7 +24,7 @@ export default function FurusatoArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【道後温泉×ふるさと納税】日本最古の名湯・道後温泉本館＆飛鳥乃湯泉！名門老舗宿ガイド｜ふなや・道後御湯・茶玻瑠',
+    headline: '道後温泉をふるさと納税でお得に旅する！日本最古の名湯・道後温泉本館＆飛鳥乃湯泉！名門老舗宿ガイド｜ふなや・道後御湯・茶玻瑠',
     description: '三千年の歴史を誇る日本最古の温泉・愛媛県道後温泉を楽天ふるさと納税でお得に贅沢旅！創業三百九十余年・皇室や夏目漱石ゆかりの名門「ふなや」、全室客室露天風呂付き現代湯治のラグジュアリー宿「道後御湯」、本館すぐ隣・屋上露天風呂の「茶玻瑠」を徹底比較。伊予牛会席や松山市トラベルクーポン活用術を解説。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function FurusatoArticlePage() {
           <span>♨️</span>
           <span>愛媛県松山市 ふるさと納税・名湯宿特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【道後温泉×ふるさと納税】日本最古の名湯・道後温泉本館＆飛鳥乃湯泉！名門老舗宿ガイド｜ふなや・道後御湯・茶玻瑠
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">道後温泉をふるさと納税でお得に旅する！日本最古の名湯・道後温泉本館＆飛鳥乃湯泉！名門老舗宿ガイド｜ふなや・道後御湯・茶玻瑠</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed">
           三千年の歴史を誇る日本最古の温泉・愛媛県道後温泉を楽天ふるさと納税でお得に贅沢旅！創業三百九十余年・皇室や夏目漱石ゆかりの名門「ふなや」、全室客室露天風呂付き現代湯治のラグジュアリー宿「道後御湯」、本館すぐ隣・屋上露天風呂の「茶玻瑠」を徹底比較。伊予牛会席や松山市トラベルクーポン活用術を解説。
         </p>

@@ -3,11 +3,11 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【登別温泉×ふるさと納税】地獄谷の大パノラマ＆五大泉質温泉天国！巨大露天風呂と北海道ビュッフェガイド｜第一滝本館・登別グランドホテル・ホテルまほろば',
+  title: '登別温泉をふるさと納税でお得に旅する！地獄谷の大パノラマ＆五大泉質温泉天国！巨大露天風呂と北海道ビュッフェガイド｜第一滝本館・登別グランドホテル・ホテルまほろば',
   description: '北海道温泉の横綱・登別温泉を楽天ふるさと納税でお得に大満喫！千五百坪の大浴場に五つの泉質が注ぐ温泉天国「第一滝本館」、ローマ風大浴場と鬼サウナが話題の「登別グランドホテル」、日本最大級の露天風呂と三大蟹バイキングの「ホテルまほろば」を徹底比較。登別市トラベルクーポン活用術を網羅。',
   keywords: '登別温泉 ふるさと納税,第一滝本館 ふるさと納税,登別グランドホテル クーポン,ホテルまほろば 宿泊,登別市 ふるさと納税 楽天トラベル',
   openGraph: {
-    title: '【登別温泉×ふるさと納税】地獄谷の大パノラマ＆五大泉質温泉天国！巨大露天風呂と北海道ビュッフェガイド｜第一滝本館・登別グランドホテル・ホテルまほろば',
+    title: '登別温泉をふるさと納税でお得に旅する！地獄谷の大パノラマ＆五大泉質温泉天国！巨大露天風呂と北海道ビュッフェガイド｜第一滝本館・登別グランドホテル・ホテルまほろば',
     description: '北海道温泉の横綱・登別温泉を楽天ふるさと納税でお得に大満喫！千五百坪の大浴場に五つの泉質が注ぐ温泉天国「第一滝本館」、ローマ風大浴場と鬼サウナが話題の「登別グランドホテル」、日本最大級の露天風呂と三大蟹バイキングの「ホテルまほろば」を徹底比較。登別市トラベルクーポン活用術を網羅。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-noboribetsu-onsen-jigokudani-resort-stay',
@@ -54,9 +54,7 @@ export default function FurusatoTaxArticle() {
             <span>•</span>
             <span>自治体公認 宿泊割引</span>
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-5xl font-extrabold tracking-tight text-white font-serif leading-tight">
-            【登別温泉×ふるさと納税】地獄谷の大パノラマ＆五大泉質温泉天国！巨大露天風呂と北海道ビュッフェガイド｜第一滝本館・登別グランドホテル・ホテルまほろば
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-5xl font-extrabold tracking-tight text-white font-serif leading-tight">登別温泉をふるさと納税でお得に旅する！地獄谷の大パノラマ＆五大泉質温泉天国！巨大露天風呂と北海道ビュッフェガイド｜第一滝本館・登別グランドホテル・ホテルまほろば</h1>
           <p className="text-stone-300 text-sm md:text-base max-w-2xl mx-auto pt-2 leading-relaxed">
             北海道温泉の横綱・登別温泉を楽天ふるさと納税でお得に大満喫！千五百坪の大浴場に五つの泉質が注ぐ温泉天国「第一滝本館」、ローマ風大浴場と鬼サウナが話題の「登別グランドホテル」、日本最大級の露天風呂と三大蟹バイキングの「ホテルまほろば」を徹底比較。登別市トラベルクーポン活用術を網羅。
           </p>

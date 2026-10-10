@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-top-night-view-luxury-hotel-stay/" },
-  title: "【日本三大夜景＆摩天楼パノラマ宿】函館・長崎・神戸・横浜・東京高層ホテル 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "日本三大夜景＆摩天楼パノラマ宿：函館・長崎・神戸・横浜・東京高層ホテル 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "息を呑む1000万ドルの夜景完全特化！函館山を望むベイサイド、長崎稲佐山のすり鉢状パノラマ、神戸六甲山・ハーバーランド、横浜みなとみらい、東京ベイエリア高層階客室の展望露天風呂ホテルを徹底解説。",
   keywords: ["日本三大夜景", "摩天楼パノラマ宿", "函館", "長崎", "神戸", "横浜", "東京高層ホテル"],
 };
@@ -89,9 +89,7 @@ export default function ScenicViewHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             JAPAN TOP NIGHT VIEW GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【日本三大夜景＆摩天楼パノラマ宿】函館・長崎・神戸・横浜・東京高層ホテル 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「日本三大夜景＆摩天楼パノラマ宿」函館・長崎・神戸・横浜・東京高層ホテル 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             部屋の明かりを消した瞬間、目の前に広がる光の宝石箱！世界新三大夜景「長崎」、日本三大夜景「函館・神戸」、そして横浜・東京の煌めく摩天楼。シャンパンを傾けながら夜景に包まれるロマンチックな極上ステイへ。
           </p>

@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-washi-papers-stay/" },
-  title: '日本三大和紙＆清流の里の手漉き体験・紙漉き文化の湯宿×ふるさと納税完全ガイド【2026年最新】越前・美濃・土佐',
+  title: '日本三大和紙＆清流の里の手漉き体験・紙漉き文化の湯宿×ふるさと納税厳選ガイド越前・美濃・土佐',
   description: '千年の時を超える手漉きの温もりと強靭さ！福井越前「越前和紙」1500年の技とホテルクラウンヒルズ武生駅前、岐阜美濃「美濃和紙」うだつの上がる町並みと長良川の恵み料理旅館いずみ荘、高知いの町「土佐和紙」奇跡の清流仁淀ブルーと土佐和紙工芸村くらうど。日本三大和紙の工房見学と清流温泉を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大和紙・伝統手漉き工芸特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大和紙＆清流の里の手漉き体験・紙漉き文化の湯宿×ふるさと納税完全ガイド【2026年最新】越前・美濃・土佐',
+    title: '日本三大和紙＆清流の里の手漉き体験・紙漉き文化の湯宿×ふるさと納税厳選ガイド越前・美濃・土佐',
     description: '千年の時を超える手漉きの温もりと強靭さ！福井越前「越前和紙」1500年の技とホテルクラウンヒルズ武生駅前、岐阜美濃「美濃和紙」うだつの上がる町並みと長良川の恵み料理旅館いずみ荘、高知いの町「土佐和紙」奇跡の清流仁淀ブルーと土佐和紙工芸村くらうど。日本三大和紙の工房見学と清流温泉を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-washi-papers-stay',
@@ -155,9 +155,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大和紙・伝統手漉き工芸特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大和紙＆清流文化湯宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大和紙＆清流文化湯宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             自然の植物繊維と清らかな名水を使い、職人が一枚一枚漉き上げる日本の伝統文化「日本三大和紙」――大滝神社の川上御前（紙祖神）を祀り、公家や武家の公用紙として奉書紙の最高峰を極めた福井の「越前和紙」、清流長良川の豊かな水と日差しの中で育まれ、薄く漉きムラのない強靭さで正倉院の戸籍帳にも残る岐阜の「美濃和紙」、そして「仁淀ブルー」で知られる奇跡の清流・仁淀川の水を用い、極薄で丈夫な典具帖紙（カゲロウの羽）を生み出した高知の「土佐和紙」。しなやかで温かみのある和紙は、触れるだけで心を和ませてくれます。清流のせせらぎを聞く名湯旅館や体験型リゾートに泊まり、紙漉き体験とともにアユ・アマゴや山菜会席を味わう豊かな休日を楽天ふるさと納税でお楽しみください。
           </p>

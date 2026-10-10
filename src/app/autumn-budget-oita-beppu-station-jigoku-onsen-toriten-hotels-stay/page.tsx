@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【別府駅前】湯けむり地獄めぐり＆本場とり天・別府冷麺！2,000円台〜泊まれる格安ホテル5選',
+  title: '別府駅前：湯けむり地獄めぐり＆本場とり天・別府冷麺！2,000円台〜泊まれる格安ホテル5選',
   description: '日本一の湧出量を誇る温泉天国・別府！駅前天然温泉や地獄めぐりの秋景色、名物とり天や別府冷麺。別府駅徒歩1〜3分以内で1泊2,000円台〜3,000円台から泊まれる格安・高コスパホテル5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetFeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>別府温泉郷の湯けむり＆本場とり天・別府冷麺</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【別府駅前】湯けむり地獄めぐり＆名物とり天へ！<br className="hidden sm:inline" />2,000円台〜泊まれる駅前格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「別府駅前」湯けむり地獄めぐり＆名物とり天へ！<br className="hidden sm:inline" />2,000円台〜泊まれる駅前格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-teal-100/90 max-w-2xl mx-auto leading-relaxed">
             別府の街中から立ち上る湯けむりと、鶴見岳のロープウェイから見渡す山肌の鮮やかな紅葉パノラマ！秋風に吹かれながら巡る海地獄や血の池地獄、そして湯上がりに味わうサクサクの「とり天」やツルツルの「別府冷麺」。別府駅から徒歩すぐの抜群の立地で、1泊2,000円台〜3,000円台から泊まれる厳選宿をご紹介。
           </p>

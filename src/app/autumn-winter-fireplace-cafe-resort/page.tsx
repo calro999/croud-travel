@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-fireplace-cafe-resort/" },
-  title: "【暖炉と珈琲】パチパチ薪が燃える！大人の隠れ家クラシックホテル 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "暖炉と珈琲：パチパチ薪が燃える！大人の隠れ家クラシックホテル 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "静かな冬の読書と美食。長野・軽井沢、栃木・日光金谷ホテル、神奈川・箱根宮ノ下富士屋ホテル、長野・松本民芸の宿など、本物の暖炉ラウンジと歴史的建築美を誇るクラシックリゾートを徹底解説。",
   keywords: ["暖炉と珈琲", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
@@ -98,9 +98,7 @@ export default function SeasonalFeaturePage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             CLASSIC & FIREPLACE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【暖炉と珈琲】パチパチ薪が燃える！大人の隠れ家クラシックホテル 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「暖炉と珈琲」パチパチ薪が燃える！大人の隠れ家クラシックホテル 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             外の寒さを忘れさせるパチパチと薪が爆ぜる暖炉の温もり。芳しい挽きたて珈琲やウイスキーを片手に、お気に入りの本を開く贅沢な冬の時間。時を重ねたクラシックホテルで過ごす大人の隠れ家ステイ。
           </p>

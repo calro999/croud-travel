@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/autumn-gourmet-matsutake-wagyu/" },
-  title: "【秋の美食】松茸＆ブランド和牛づくし極上温泉旅館 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "秋の美食：松茸＆ブランド和牛づくし極上温泉旅館 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "秋の贅沢味覚！信州別所温泉の松茸づくし、京都亀岡の丹波松茸＆丹波牛会席、岐阜飛騨高山のA5飛騨牛、滋賀おごと温泉の近江牛懐石など、秋限定の極上美食温泉宿を徹底解説。",
   keywords: ["秋の美食", "松茸", "ブランド和牛づくし極上温泉旅館", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -98,9 +98,7 @@ export default function SeasonalFeaturePage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             AUTUMN GOURMET
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【秋の美食】松茸＆ブランド和牛づくし極上温泉旅館 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「秋の美食」松茸＆ブランド和牛づくし極上温泉旅館 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             香り高い旬の松茸と、とろけるようなブランド和牛のすき焼き・炭火焼き。秋の味覚を極めた豪華会席料理と美肌温泉で心もお腹も満たされる、大人の贅沢ご褒美ステイ。
           </p>

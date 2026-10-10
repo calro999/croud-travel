@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '伊豆最古の小京都！修善寺温泉の竹林の小径散策＆桂川のせせらぎ望む老舗旅館×ふるさと納税完全攻略ガイド【2026年最新】湯回廊菊屋・宙SORA・桂川',
+  title: '伊豆最古の小京都！修善寺温泉の竹林の小径散策＆桂川のせせらぎ望む老舗旅館×ふるさと納税極上旅ガイド湯回廊菊屋・宙SORA・桂川',
   description: '弘法大師が開湯した伊豆最古の名湯・修善寺温泉！竹林の小径、桂川にかかる恋の橋巡り。「湯回廊 菊屋」「修善寺温泉 宙 SORA 渡月荘金龍」「修善寺温泉 桂川」を、静岡県伊豆市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。創業四百年の渡り廊下、一万五千坪日本庭園、伊豆名物金目鯛・天城わさび会席を満喫。',
   keywords: ["2026年最新", "湯回廊菊屋", "宙SORA", "桂川", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-izu-shuzenji-bamboo-luxury-stay/",
   },
   openGraph: {
-    title: '伊豆最古の小京都！修善寺温泉の竹林の小径散策＆桂川のせせらぎ望む老舗旅館×ふるさと納税完全攻略ガイド【2026年最新】湯回廊菊屋・宙SORA・桂川',
+    title: '伊豆最古の小京都！修善寺温泉の竹林の小径散策＆桂川のせせらぎ望む老舗旅館×ふるさと納税極上旅ガイド湯回廊菊屋・宙SORA・桂川',
     description: '弘法大師が開湯した伊豆最古の名湯・修善寺温泉！竹林の小径、桂川にかかる恋の橋巡り。「湯回廊 菊屋」「修善寺温泉 宙 SORA 渡月荘金龍」「修善寺温泉 桂川」を、静岡県伊豆市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。創業四百年の渡り廊下、一万五千坪日本庭園、伊豆名物金目鯛・天城わさび会席を満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-izu-shuzenji-bamboo-luxury-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoShuzenjiBambooStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           伊豆の小京都・文学の薫る名湯！静岡県修善寺温泉特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          伊豆最古の小京都！修善寺温泉の竹林の小径散策＆桂川のせせらぎ望む老舗旅館×ふるさと納税完全攻略ガイド【2026年最新】湯回廊菊屋・宙SORA・桂川
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">伊豆最古の小京都！修善寺温泉の竹林の小径散策＆桂川のせせらぎ望む老舗旅館×ふるさと納税極上旅ガイド湯回廊菊屋・宙SORA・桂川</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoShuzenjiBambooStayPage() {
               文豪も愛した本館、源泉かけ流し風呂付の離れ、2021年～水の語り部(温泉風呂付）、風の語り部が誕生
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “全てが素晴らしく大満足のひととき本当に、全てが良かったです...。 ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D7491%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoShuzenjiBambooStayPage() {
               客室からは四季を感じられる自然が一望できます。月替りの会席は人気の絶品です。
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “エアコンの音がうるさく、少し気になった総合的には満足でしたがエアコンの音がうるさく感じられた ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D27983%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoShuzenjiBambooStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               2021年1月グランドオープン◇無料の7つの貸切風呂で楽しむ美肌の修善寺温泉
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “7つの貸切風呂と海鮮料理に大満足貸切風呂が7個もあり、どのお風呂に入るか悩む楽しみがあり、名前にある通り湯めぐりが楽しめる宿でした。みんな貸切風呂に行くからか、大浴場に誰もおらず独り占めでき、贅沢… ”
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

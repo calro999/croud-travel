@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '日本三大奇勝の壮麗な岩壁美と秘湯宿×ふるさと納税完全ガイド【2026年最新】妙義山・耶馬渓・小豆島寒霞渓',
+  title: '日本三大奇勝の壮麗な岩壁美と秘湯宿×ふるさと納税厳選ガイド妙義山・耶馬渓・小豆島寒霞渓',
   description: '何百万年もの地殻変動が創り出した大地の彫刻！群馬「妙義山」、大分「耶馬渓」、香川「小豆島寒霞渓」の日本三大奇勝。天を衝く岩峰パノラマを望む展望露天風呂と美食を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: ["2026年最新", "妙義山", "耶馬渓", "小豆島寒霞渓", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-scenic-wonders-stay/",
   },
   openGraph: {
-    title: '日本三大奇勝の壮麗な岩壁美と秘湯宿×ふるさと納税完全ガイド【2026年最新】妙義山・耶馬渓・小豆島寒霞渓',
+    title: '日本三大奇勝の壮麗な岩壁美と秘湯宿×ふるさと納税厳選ガイド妙義山・耶馬渓・小豆島寒霞渓',
     description: '何百万年もの地殻変動が創り出した大地の彫刻！群馬「妙義山」、大分「耶馬渓」、香川「小豆島寒霞渓」の日本三大奇勝。天を衝く岩峰パノラマを望む展望露天風呂と美食を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-scenic-wonders-stay',
     siteName: '旅宿クラウド',
@@ -108,9 +108,7 @@ export default function FurusatoUpgradedPage() {
             <span>✨</span>
             <span>日本三大奇勝・絶景岩壁ステイ特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            日本三大奇勝の壮麗な岩壁美と秘湯宿×ふるさと納税完全ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">日本三大奇勝の壮麗な岩壁美と秘湯宿×ふるさと納税厳選ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             何万年、何百万年もの風雨と地殻変動が彫り出したダイナミックな造形美。「日本三大奇勝」と称される妙義山、耶馬渓、寒霞渓は、見る者を圧倒する孤高の絶景を誇ります。奇岩の稜線を一望する展望露天風呂や、地元食材を活かした滋味深い料理、そして心地よい静寂。楽天ふるさと納税の宿泊割引クーポンを駆使して、圧倒的なスケールを誇る奇勝の旅を賢くスマートにお楽しみください。
           </p>

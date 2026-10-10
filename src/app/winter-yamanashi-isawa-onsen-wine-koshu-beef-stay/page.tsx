@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月石和温泉】富士を望む甲州名湯と甲州牛ステーキ！名宿5選',
+  title: '石和温泉で過ごす冬の旅（11・12月）！富士を望む甲州名湯と甲州牛ステーキ！名宿5選',
   description: '11月3日の山梨ヌーボー解禁とともに華やぐ甲州・石和温泉。雪化粧した富士山や南アルプスを望み、毎分湧出する豊富な美肌アルカリ単純温泉に身を浸す贅沢。最高峰A5ランク甲州牛のステーキと熱々の甲州かぼちゃほうとう、できたての新酒甲州ワインを味わい尽くす初冬の美食湯宿ガイド。',
   keywords: '石和温泉 宿泊 11月 12月, 石和温泉 甲州牛 旅館, 山梨ヌーボー 温泉 宿, 石和温泉 露天風呂 おすすめ, 石和 ほうとう 温泉, 勝沼 ワイン 温泉 宿, 石和温泉 モデルコース 冬',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay/",
   },
   openGraph: {
-    title: '【11・12月石和温泉】富士を望む甲州名湯と甲州牛ステーキ！名宿5選',
+    title: '石和温泉で過ごす冬の旅（11・12月）！富士を望む甲州名湯と甲州牛ステーキ！名宿5選',
     description: '11月3日の山梨ヌーボー解禁とともに華やぐ甲州・石和温泉。雪化粧した富士山や南アルプスを望み、毎分湧出する豊富な美肌アルカリ単純温泉に身を浸す贅沢。最高峰A5ランク甲州牛のステーキと熱々の甲州かぼちゃほうとう、できたての新酒甲州ワインを味わい尽くす初冬の美食湯宿ガイド。',
     url: 'https://croud-travel.pages.dev/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月石和温泉の新酒ワインと美肌湯】富士を望む甲州名湯と甲州牛ステーキ・冬のほうとう会席宿5選",
+    title: "石和温泉の新酒ワインと美肌湯で過ごす冬の旅（11・12月）！富士を望む甲州名湯と甲州牛ステーキ・冬のほうとう会席宿5選",
     description: "11月3日の山梨ヌーボー解禁とともに華やぐ甲州・石和温泉。雪化粧した富士山や南アルプスを望み、毎分湧出する豊富な美肌アルカリ単純温泉に身を浸す贅沢。最高峰A5ランク甲州牛のステーキと熱々の甲州かぼちゃほうとう、できたての新酒甲州ワインを味わい尽くす初冬の美食湯宿ガイド。",
   }
 };
@@ -266,10 +266,7 @@ export default function IsawaWinterPage() {
             <Sparkles className="w-4 h-4 text-purple-300" />
             <span>11月・12月限定 山梨ヌーボー解禁＆甲州牛特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月石和温泉の新酒ワインと美肌湯】<br className="hidden sm:inline" />
-            富士を望む甲州名湯と甲州牛ステーキ・冬のほうとう会席宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">石和温泉の新酒ワインと美肌湯で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 富士を望む甲州名湯と甲州牛ステーキ・冬のほうとう会席宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             11月3日解禁の山梨ヌーボーと雪化粧の富士山。毎分湧出する豊富な美肌アルカリ単純泉に癒やされ、A5ランク甲州牛のステーキと熱々の甲州かぼちゃほうとうに舌鼓を打つ極上の初冬ステイ。
           </p>

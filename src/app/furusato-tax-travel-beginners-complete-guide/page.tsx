@@ -6,12 +6,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '【超初心者向け】ふるさと納税で旅行・ホテルに安く泊まる完全マニュアル｜仕組み・お金の流れ・失敗しない使い方を徹底解説【2026年最新】',
+  title: '超初心者向け：ふるさと納税で旅行・ホテルに安く泊まる完全マニュアル｜仕組み・お金の流れ・失敗しない使い方を深掘り特集',
   description: 'ふるさと納税を一度も使ったことがない完全初心者でも大丈夫！「なぜ旅行代金が安くなるのか」「実質2,000円ってどういうこと？」「確定申告なしでスマホで終わるワンストップ特例。」「予約済みの宿へのあとから適用方法」まで、失敗ゼロで誰でもできる手順をステップバイステップで完全解説。',
   keywords: ["超初心者向け", "ふるさと納税で旅行", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: { canonical: baseUrl + '/furusato-tax-travel-beginners-complete-guide/' },
   openGraph: {
-    title: '【超初心者向け】ふるさと納税で旅行・ホテルに安く泊まる完全マニュアル｜仕組み・お金の流れ・失敗しない使い方を徹底解説【2026年最新】',
+    title: '超初心者向け：ふるさと納税で旅行・ホテルに安く泊まる完全マニュアル｜仕組み・お金の流れ・失敗しない使い方を深掘り特集',
     description: 'ふるさと納税を一度も使ったことがない完全初心者でも大丈夫！仕組み、お金の流れ、確定申告不要のワンストップ特例、予約済みのホテルへの適用法まで完全解説。',
     url: baseUrl + '/furusato-tax-travel-beginners-complete-guide',
     siteName: '旅宿クラウド',
@@ -111,9 +111,7 @@ export default function FurusatoTaxTravelBeginnersGuide() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             はじめてのふるさと納税トラベル 完全攻略
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold font-serif mb-6 leading-snug tracking-tight text-amber-50">
-            【超初心者向け】ふるさと納税で旅行・ホテルに安く泊まる完全マニュアル
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold font-serif mb-6 leading-snug tracking-tight text-amber-50">「超初心者向け」ふるさと納税で旅行・ホテルに安く泊まる完全マニュアル</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed mb-6">
             「ふるさと納税って聞くけど、手続きが難しそう。」「確定申告なんてやったことがない」「本当に安くなるの？」とためらっていませんか？<br />
             実は、会社員なら<strong>マイナンバーカードをスマホでピッとするだけ（確定申告なし）</strong>で、たった2,000円の自己負担で憧れの温泉旅館や高級リゾートに数万円引きで泊まることができます。<br />

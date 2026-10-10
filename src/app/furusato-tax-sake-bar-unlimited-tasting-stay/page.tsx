@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '地酒BAR＆日本酒利き酒し放題の名湯宿×ふるさと納税完全ガイド【2026年最新】越後湯沢・山形赤湯・京都伏見の酒蔵ステイ',
+  title: '地酒BAR＆日本酒利き酒し放題の名湯宿×ふるさと納税厳選ガイド越後湯沢・山形赤湯・京都伏見の酒蔵ステイ',
   description: '日本酒好きの桃源郷！新潟越後湯沢「ぽんしゅ館」越後全酒蔵コイン利き酒と美肌温泉、山形南陽「赤湯温泉」の蔵元直送地酒BARと米沢牛会席、京都「伏見」の名水仕込み銘酒と酒蔵通り町家ホテル。酒蔵見学と極上ペアリングを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: ["地酒BAR", "2026年最新", "越後湯沢", "山形赤湯", "京都伏見の酒蔵ステイ", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-sake-bar-unlimited-tasting-stay/"
   },
   openGraph: {
-    title: '地酒BAR＆日本酒利き酒し放題の名湯宿×ふるさと納税完全ガイド【2026年最新】越後湯沢・山形赤湯・京都伏見の酒蔵ステイ',
+    title: '地酒BAR＆日本酒利き酒し放題の名湯宿×ふるさと納税厳選ガイド越後湯沢・山形赤湯・京都伏見の酒蔵ステイ',
     description: '日本酒好きの桃源郷！新潟越後湯沢「ぽんしゅ館」越後全酒蔵コイン利き酒と美肌温泉、山形南陽「赤湯温泉」の蔵元直送地酒BARと米沢牛会席、京都「伏見」の名水仕込み銘酒と酒蔵通り町家ホテル。酒蔵見学と極上ペアリングを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-sake-bar-unlimited-tasting-stay',
     type: 'article',
@@ -54,9 +54,7 @@ export default function FurusatoFeaturePage() {
             <span>✨</span>
             <span>地酒BAR・日本酒利き酒ステイ特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            地酒BAR＆日本酒利き酒し放題の名湯宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">地酒BAR＆日本酒利き酒し放題の名湯宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             米どころ・名水の郷が誇る無数の地酒蔵。全国屈指の酒処・新潟の淡麗辛口から、山形のフルーティーな吟醸酒、京都伏見のまろやかな女酒まで。宿のラウンジに備えられた専用サーバーから注ぐ利き酒し放題プランや、専属利酒師が旬の会席料理一品ごとに最高の銘柄を合わせるペアリングコース。温泉で身体を温めた後、浴衣姿でじっくりと美酒を味わう幸福を、楽天ふるさと納税の宿泊クーポンでお得に堪能しましょう。
           </p>

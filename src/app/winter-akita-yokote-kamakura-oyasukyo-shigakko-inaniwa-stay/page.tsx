@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月秋田】雪見露天！名宿5選',
+  title: '11・12・1月秋田：雪見露天！名宿5選',
   description: 'みちのくの豪雪地帯・秋田県県南の横手市と湯沢市。11〜1月は450年の伝統を誇る小正月行事「横手のかまくら」の白銀情景が広がり。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '横手かまくら ホテル, 小安峡温泉 旅館, 多郎兵衛旅館, 稲住温泉, ホテルプラザアネックス横手, 稲庭うどん 湯沢, 皆瀬牛, 小安峡 しがっこ, 12月 1月 秋田 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-akita-yokote-kamakura-oyasukyo-shigakko-inaniwa-stay/"
   },
   openGraph: {
-    title: '【11・12・1月秋田】雪見露天！名宿5選',
+    title: '11・12・1月秋田：雪見露天！名宿5選',
     description: 'みちのくの豪雪地帯・秋田県県南の横手市と湯沢市。11〜1月は450年の伝統を誇る小正月行事「横手のかまくら」の白銀情景が広がり。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-akita-yokote-kamakura-oyasukyo-shigakko-inaniwa-stay',
     siteName: '地域の宿探訪',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月秋田】横手＆湯沢・小安峡！約450年の伝統「横手のかまくら」雪まつり＆小安峡大噴湯の巨大氷柱「しがっこ」・本場稲庭うどん＆雪見露天名宿5選",
+    title: "11・12・1月秋田：横手＆湯沢・小安峡！約450年の伝統「横手のかまくら」雪まつり＆小安峡大噴湯の巨大氷柱「しがっこ」・本場稲庭うどん＆雪見露天名宿5選",
     description: "みちのくの豪雪地帯・秋田県県南の横手市と湯沢市。11〜1月は450年の伝統を誇る小正月行事「横手のかまくら」の白銀情景が広がり、湯沢・小安峡では岩肌から噴出する熱湯蒸気と巨大つらら「しがっこ」が大自然の氷結アートを描き出します。日本三大うどん「本場稲庭うどん」や希少な幻のブランド和牛「皆瀬牛」、秋田杉香る名湯・小安峡温泉や秋の宮温泉郷の雪見露天風呂を満喫できる厳選名宿5選を徹底解説します。",
     images: ["https://img.travel.rakuten.co.jp/share/HOTEL/55778/55778.jpg"]
   }
@@ -236,10 +236,7 @@ export default function AkitaYokoteOyasukyoWinterPage() {
             <span>11月・12月・1月冬の東北雪国旅特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">
-            横手＆湯沢・小安峡！<br className="hidden sm:inline" />
-            約450年の伝統「横手のかまくら」雪まつり＆小安峡大噴湯の巨大氷柱「しがっこ」・本場稲庭うどん＆雪見露天名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">横手＆湯沢・小安峡！<br className="hidden sm:inline" /> 約450年の伝統「横手のかまくら」雪まつり＆小安峡大噴湯の巨大氷柱「しがっこ」・本場稲庭うどん＆雪見露天名宿5選</h1>
 
           <p className="text-slate-300 text-sm sm:text-base lg:text-lg leading-relaxed max-w-3xl mb-8">
             みちのく奥羽山脈の懐に抱かれた秋田県南の豪雪地帯。水神様を祀る約450年の伝統行事「横手のかまくら」では、雪洞の中に灯るろうそくの光が幻想的な童話の世界を創り出します。湯沢・小安峡では轟音とともに吹き出す98度の温泉蒸気と、断崖に連なる巨大つらら「しがっこ」が壮大な氷結美を描写。手綯い本場稲庭うどんの滑らかな喉越し、幻の希少牛「皆瀬牛」、そして秋田杉が香る雪見露天風呂に浸かる至福のみちのく冬旅をお届けします。

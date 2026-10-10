@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月筑波山】冬の筑波山神社新春初詣！名宿5選',
+  title: '11・12・1月筑波山：冬の筑波山神社新春初詣！名宿5選',
   description: '「西の富士、東の筑波」と称される関東の名峰・筑波山。冬は空気が冴え渡り、山頂や中腹から東京スカイツリーや富士山。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '筑波山 ホテル, 筑波山温泉 旅館, 筑波山神社 初詣, 筑波山 夜景, 筑波山江戸屋, 筑波山京成ホテル, 常陸牛, つくばうどん, 11月 12月 1月 筑波山 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-ibaraki-tsukubasan-shrine-hatsumode-yakei-onsen-hitachigyu-stay/"
   },
   openGraph: {
-    title: '【11・12・1月筑波山】冬の筑波山神社新春初詣！名宿5選',
+    title: '11・12・1月筑波山：冬の筑波山神社新春初詣！名宿5選',
     description: '「西の富士、東の筑波」と称される関東の名峰・筑波山。冬は空気が冴え渡り、山頂や中腹から東京スカイツリーや富士山。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-ibaraki-tsukubasan-shrine-hatsumode-yakei-onsen-hitachigyu-stay',
     type: 'article'
@@ -251,10 +251,7 @@ export default function IbarakiTsukubasanWinterFeaturePage() {
             <Mountain className="w-4 h-4 text-teal-300" />
             11月・12月・1月冬の特選旅｜茨城・筑波山＆つくば
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">
-            冬の筑波山神社新春初詣＆スターダスト夜景！<br className="hidden sm:inline" />
-            名湯筑波山温泉と極上常陸牛に寛ぐ厳選宿5選
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">冬の筑波山神社新春初詣＆スターダスト夜景！<br className="hidden sm:inline" /> 名湯筑波山温泉と極上常陸牛に寛ぐ厳選宿5選</h1>
           <p className="text-base sm:text-lg text-slate-200/90 leading-relaxed max-w-4xl mb-8">
             都心からつくばエクスプレスで最短45分。「西の富士、東の筑波」と称えられる霊峰・筑波山は、冬になると大気の透明度が極限まで高まり、関東平野一面を見渡す大パノラマと煌めくスターダスト夜景が広がります。三千年の由緒を誇る筑波山神社での新春開運初詣、肌を滑らかに包むアルカリ性単純温泉「美肌の湯」、茨城が誇る極上黒毛和牛「常陸牛」と名物つくばうどん。心洗われる絶景と温もりの冬旅へご案内します。
           </p>

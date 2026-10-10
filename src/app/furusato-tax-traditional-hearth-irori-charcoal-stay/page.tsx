@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '赤々と燃える炭火と香ばしい煙！囲炉裏料理＆歴史ある古民家名湯宿×ふるさと納税完全ガイド【2026年最新】白川郷・群馬法師・徳島祖谷',
+  title: '赤々と燃える炭火と香ばしい煙！囲炉裏料理＆歴史ある古民家名湯宿×ふるさと納税厳選ガイド白川郷・群馬法師・徳島祖谷',
   description: 'パチパチとはぜる炭の音、串に刺した川魚の塩焼きと香ばしい地鶏・特選牛の炭火焼き！世界遺産白川郷の玄関口に佇む合掌造りの宿「御宿 結の庄」、足元湧出の奇跡の温泉と囲炉裏の風情が残る国登録有形文化財「法師温泉 長寿館」、日本三大秘境の渓谷断崖に建ち囲炉裏炭火会席とケーブルカーで行く谷底露天風呂を誇る「和の宿 ホテル祖谷温泉」。日本の原風景に抱かれ温もりに浸る至福の囲炉裏ステイを、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
   keywords: ["2026年最新", "白川郷", "群馬法師", "徳島祖谷", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-traditional-hearth-irori-charcoal-stay/",
   },
   openGraph: {
-    title: '赤々と燃える炭火と香ばしい煙！囲炉裏料理＆歴史ある古民家名湯宿×ふるさと納税完全ガイド【2026年最新】白川郷・群馬法師・徳島祖谷',
+    title: '赤々と燃える炭火と香ばしい煙！囲炉裏料理＆歴史ある古民家名湯宿×ふるさと納税厳選ガイド白川郷・群馬法師・徳島祖谷',
     description: 'パチパチとはぜる炭の音、串に刺した川魚の塩焼きと香ばしい地鶏・特選牛の炭火焼き！世界遺産白川郷の玄関口に佇む合掌造りの宿「御宿 結の庄」、足元湧出の奇跡の温泉と囲炉裏の風情が残る国登録有形文化財「法師温泉 長寿館」、日本三大秘境の渓谷断崖に建ち囲炉裏炭火会席とケーブルカーで行く谷底露天風呂を誇る「和の宿 ホテル祖谷温泉」。日本の原風景に抱かれ温もりに浸る至福の囲炉裏ステイを、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-traditional-hearth-irori-charcoal-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoTraditionalHearthIroriStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           全国屈指の囲炉裏炭火料理＆古民家名宿特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          赤々と燃える炭火と香ばしい煙！囲炉裏料理＆歴史ある古民家名湯宿×ふるさと納税完全ガイド【2026年最新】白川郷・群馬法師・徳島祖谷
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">赤々と燃える炭火と香ばしい煙！囲炉裏料理＆歴史ある古民家名湯宿×ふるさと納税厳選ガイド白川郷・群馬法師・徳島祖谷</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoTraditionalHearthIroriStayPage() {
               世界遺産 白川郷の玄関口に人と人とを結ぶ“結”の心をコンセプトにした歴史と趣の薫る宿「御宿 結の庄」
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “アイスと乳酸飲料が・チェックインしてロビーで外履きを預け、館内は素足(靴下)で過ごす。畳の感触は良いが、やはり共有スペースではスリッパを履きたいかも。自分達は終始靴下を履いていたが、素足の人が歩き… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D168686%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoTraditionalHearthIroriStayPage() {
               ≪国登録有形文化財≫敷き詰められた玉石の間から湧き上がる純度100％の源泉かけ流し温泉
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “タイムスリップしたような空間と川のせせらぎ100年前にタイムスリップしたような古き良き旅館。空いていたのかトイレ付きにグレードアップしてくれました。あたりの柔らかい湯に、せせらぎの音(前は… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D39211%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoTraditionalHearthIroriStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               ケーブルカーで行く谷底の源泉掛け流しの露天風呂
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “階段を上り下りしてでも入りたい露天風呂山に包まれた、秘境感溢れる立地に、そして、谷底にある川のせせらぎを聞きながら浸かる風情溢れる露天風呂、本当に非日常を思う存分楽しめ、至福の時が過ごせました。… ”
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kyoto-autumn-leaves-night-lightup-hotel-guide/" },
-  title: "【京都 紅葉ライトアップ2026おすすめ7選】夜間特別拝観・永観堂・東寺・清水寺＆混雑回避の夜回り宿 ｜ 日本全国・旅宿クラウド",
+  title: "京都 紅葉ライトアップ2026おすすめ7選：夜間特別拝観・永観堂・東寺・清水寺＆混雑回避の夜回り宿 ｜ 日本全国・旅宿クラウド",
   description: "息をのむ美しさ！2026年秋の京都紅葉ライトアップ特集。永観堂「みかえり阿弥陀」の紅葉トンネル、東寺五重塔の池鏡リフレクション、高台寺のプロジェクションマッピング、東山・烏丸のホテル完全ガイド。",
   keywords: ["京都", "夜間特別拝観", "永観堂", "東寺", "清水寺", "混雑回避の夜回り宿", "温泉宿"],
 };
@@ -144,12 +144,7 @@ export default function KyotoAutumnLeavesNightLightupPage() {
             2026 Autumn Night Illuminations Kyoto
           </div>
 
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black font-serif tracking-tight text-white leading-snug">
-            【京都 紅葉ライトアップ2026おすすめ7選】
-            <span className="block mt-2 bg-gradient-to-r from-rose-300 via-amber-200 to-rose-400 bg-clip-text text-transparent">
-              夜間特別拝観・永観堂・東寺・清水寺＆混雑回避の夜回り宿
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black font-serif tracking-tight text-white leading-snug">「京都 紅葉ライトアップ2026おすすめ7選」 <span className="block mt-2 bg-gradient-to-r from-rose-300 via-amber-200 to-rose-400 bg-clip-text text-transparent"> 夜間特別拝観・永観堂・東寺・清水寺＆混雑回避の夜回り宿 </span></h1>
 
           <p className="text-sm sm:text-base text-stone-300 max-w-3xl leading-relaxed">
             秋の宵闇に浮かび上がる黄金と真紅の回遊式庭園。永観堂の放生池リフレクション、東寺五重塔の水鏡、清水の舞台から射す青き観音の光線——。2026年秋、絶対に訪れるべき厳選7社寺の見頃時期と、大混雑をスマートにかわす「地下鉄×徒歩」の夜回り術、そしてライトアップ後に即チェックインできる利便性抜群の厳選ホテルを徹底解説します。

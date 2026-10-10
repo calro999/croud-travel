@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            黒部峡谷トロッコ電車の紅葉パノラマと宇奈月温泉！富山湾の紅ズワイガニ・白えびと日本屈指の透明美肌湯
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">黒部峡谷トロッコ電車の紅葉パノラマと宇奈月温泉！富山湾の紅ズワイガニ・白えびと日本屈指の透明美肌湯</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             V字峡を染める紅葉トロッコの旅と、富山湾の至宝・名湯宇奈月の透明美肌湯
           </p>

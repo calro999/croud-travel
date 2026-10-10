@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '世界遺産・高野山の壇上伽藍紅葉ライトアップ＆奥之院参拝！宿坊精進料理×ふるさと納税完全ガイド【2026年最新秋旅】和歌山',
+  title: '世界遺産・高野山の壇上伽藍紅葉ライトアップ＆奥之院参拝！宿坊精進料理×ふるさと納税厳選ガイド和歌山',
   description: '10月下旬〜11月中旬に開創1200年の聖地が深紅に染まる世界遺産「和歌山・高野山」。蛇腹路の紅葉トンネルや壇上伽藍の幻想的なライトアップ、由緒ある宿坊寺院「西門院」「無量光院」「高野山温泉 福智院」で朝のお勤め・瞑想体験や伝統の美精進料理・天然温泉を堪能。ふるさと納税トラベルクーポンで実質2,000円。',
   keywords: ["世界遺産", "2026年最新秋旅", "和歌山", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-koyasan-autumn-leaves-shukubo-stay/"
   },
   openGraph: {
-    title: '世界遺産・高野山の壇上伽藍紅葉ライトアップ＆奥之院参拝！宿坊精進料理×ふるさと納税完全ガイド【2026年最新秋旅】和歌山',
+    title: '世界遺産・高野山の壇上伽藍紅葉ライトアップ＆奥之院参拝！宿坊精進料理×ふるさと納税厳選ガイド和歌山',
     description: '10月下旬〜11月中旬に開創1200年の聖地が深紅に染まる世界遺産「和歌山・高野山」。蛇腹路の紅葉トンネルや壇上伽藍の幻想的なライトアップ、由緒ある宿坊寺院「西門院」「無量光院」「高野山温泉 福智院」で朝のお勤め・瞑想体験や伝統の美精進料理・天然温泉を堪能。ふるさと納税トラベルクーポンで実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-koyasan-autumn-leaves-shukubo-stay',
     siteName: '旅宿クラウド',
@@ -113,9 +113,7 @@ export default function FeatureArticlePage() {
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">
-            世界遺産・高野山の壇上伽藍紅葉ライトアップ＆奥之院参拝！宿坊精進料理×ふるさと納税完全ガイド【2026年最新秋旅】和歌山
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">世界遺産・高野山の壇上伽藍紅葉ライトアップ＆奥之院参拝！宿坊精進料理×ふるさと納税厳選ガイド和歌山</h1>
           <p className="text-sm md:text-lg text-stone-200 max-w-3xl mx-auto leading-relaxed">
             聖地・高野山の蛇腹路を彩る深紅の紅葉トンネルと、宿坊で味わう至高の精進料理体験。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
           </p>

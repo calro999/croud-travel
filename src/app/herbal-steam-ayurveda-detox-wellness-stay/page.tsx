@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/herbal-steam-ayurveda-detox-wellness-stay/" },
-  title: '薬草ハーブ蒸し＆本格アーユルヴェーダ宿完全ガイド【酵素風呂・体内浄化】 | クラウドトラベル',
+  title: '薬草ハーブ蒸し＆本格アーユルヴェーダ宿厳選ガイド「酵素風呂・体内浄化」 | クラウドトラベル',
   description: '和草ハーブやよもぎスチームサウナ、本格アーユルヴェーダ（シロダーラ）、米ぬか酵素風呂、発酵薬膳料理で心身をリセットするウェルネスステイ。極上のデトックスリトリート。',
   openGraph: {
-    title: '薬草ハーブ蒸し＆本格アーユルヴェーダ宿完全ガイド【酵素風呂・体内浄化】 | クラウドトラベル',
+    title: '薬草ハーブ蒸し＆本格アーユルヴェーダ宿厳選ガイド「酵素風呂・体内浄化」 | クラウドトラベル',
     description: '和草ハーブやよもぎスチームサウナ、本格アーユルヴェーダ（シロダーラ）、米ぬか酵素風呂、発酵薬膳料理で心身をリセットするウェルネスステイ。極上のデトックスリトリート。',
     type: 'article',
   },
@@ -59,9 +59,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-emerald-500/20 text-emerald-200 border border-emerald-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             薬草蒸し・アーユルヴェーダ特化
           </div>
-          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-emerald-50">
-            薬草ハーブ蒸し＆本格アーユルヴェーダ宿完全ガイド【酵素風呂・体内浄化】
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-emerald-50">薬草ハーブ蒸し＆本格アーユルヴェーダ宿厳選ガイド「酵素風呂・体内浄化」</h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl">
             古来より日本に自生するよもぎや和ハーブの蒸気に包まれる薬草スチームサウナ、数千年の歴史を持つインド・スリランカ伝統医学に基づくアーユルヴェーダの温かいオイルトリートメント、そして微生物の発酵熱で全身を温める米ぬか酵素風呂。単なるリラクゼーションを超え、体内に溜まった老廃物を排出し、本来の生命力と自然治癒力を呼び覚ます大人のヘルスツーリズムをお届けします。
           </p>

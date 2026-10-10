@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/power-spot-shrine-temple-fortune-solo-stay/" },
-  title: "【寺社・パワースポット巡り＆開運祈願宿】縁結び・厄除け・浄化ひとり旅 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "寺社・パワースポット巡り＆開運祈願宿：縁結び・厄除け・浄化ひとり旅 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "心を整え運気を高める開運ひとり旅！パワースポット＆寺社巡り拠点宿完全特化！出雲大社、伊勢神宮、日光東照宮、箱根神社九頭龍神社、早朝参拝・ご祈祷対応、精進料理＆温泉浄化宿を徹底解説。",
   keywords: ["寺社", "パワースポット巡り", "開運祈願宿", "縁結び", "厄除け", "浄化ひとり旅", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function WomenSoloRetreatHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-gradient-to-r from-rose-300 to-pink-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block shadow">
             POWER SPOT & FORTUNE GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【寺社・パワースポット巡り＆開運祈願宿】縁結び・厄除け・浄化ひとり旅 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「寺社・パワースポット巡り＆開運祈願宿」縁結び・厄除け・浄化ひとり旅 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-pink-100/90 leading-relaxed">
             凛とした神域の空気に包まれ、日々の感謝と願いを捧げる「寺社・パワースポット巡り宿」。出雲大社の早朝参拝、伊勢神宮の御垣内参拝、箱根九頭龍神社の月次祭。清らかな温泉で心身を清め、運気を呼び込む開運ステイへ。
           </p>

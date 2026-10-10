@@ -3,11 +3,11 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【秋の広島×格安】縮景園の紅葉ライトアップと旬の牡蠣・お好み焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選【2026最新】',
+  title: '秋の広島×格安：縮景園の紅葉ライトアップと旬の牡蠣・お好み焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」',
   description: '名勝「縮景園」の幻想的なもみじライトアップと平和記念公園の紅葉！広島名物のお好み焼きや秋に旬を迎える焼き牡蠣を満喫。大浴場やサウナ完備で1泊3,000円〜6,000円台で泊まれる広島のコスパ最強ホテル5選。アパホテル広島駅前大橋、トラストホテルなどを徹底比較！',
   keywords: '広島 格安 ホテル, 広島 大浴場 ホテル 安い, 縮景園 もみじまつり ライトアップ, 広島 お好み焼き 宿, アパホテル広島駅前大橋, トラストホテル 広島',
   openGraph: {
-    title: '【秋の広島×格安】縮景園の紅葉ライトアップと旬の牡蠣・お好み焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選【2026最新】',
+    title: '秋の広島×格安：縮景園の紅葉ライトアップと旬の牡蠣・お好み焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」',
     description: '縮景園もみじライトアップと牡蠣・お好み焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強広島ホテル5選。',
     type: 'article',
     url: 'https://croud-travel.com/autumn-budget-hiroshima-shukkeien-momiji-large-bath-hotels-stay',
@@ -32,9 +32,7 @@ export default function HiroshimaBudgetAutumnPage() {
             <span className="px-3 py-1 bg-teal-600 text-white text-xs font-bold rounded-full">格安・中国特集</span>
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">1泊目安: 3,000円台〜6,000円台</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">
-            【秋の広島×格安】縮景園の紅葉ライトアップと旬の牡蠣・お好み焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の広島×格安」縮景園の紅葉ライトアップと旬の牡蠣・お好み焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選</h1>
           <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
             池の水面に映り込む縮景園の鮮やかな紅葉と夜間ライトアップ。宮島観光の拠点としても便利な広島駅・八丁堀周辺で、大浴場やサウナ付きながら驚きのリーズナブル料金で泊まれる名宿をご案内します。
           </p>

@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】風紋が描く黄金の大地！鳥取砂丘サンライズ＆日本海極上松葉ガニ・海鮮の宿5選 | 日本全国・旅宿クラウド',
+  title: '2026年：風紋が描く黄金の大地！鳥取砂丘サンライズ＆日本海極上松葉ガニ・海鮮の宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！鳥取砂丘の神秘的な風紋と海に沈む夕日！日本海のブランド活松葉ガニ・天然岩牡蠣会席と三朝・皆生・鳥取温泉の名湯旅館5選。',
   keywords: ["2026年", "日本海極上松葉ガニ", "海鮮の宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: '【2026年】風紋が描く黄金の大地！鳥取砂丘サンライズ＆日本海極上松葉ガニ・海鮮の宿5選',
+    title: '2026年：風紋が描く黄金の大地！鳥取砂丘サンライズ＆日本海極上松葉ガニ・海鮮の宿5選',
     description: '2026年最新！鳥取砂丘の神秘的な風紋と海に沈む夕日！日本海のブランド活松葉ガニ・天然岩牡蠣会席と三朝・皆生・鳥取温泉の名湯旅館5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/super-panoramic-sand-dune-camel-stay',
@@ -193,9 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> 鳥取砂丘絶景×日本海極上松葉ガニ
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】風紋が描く黄金の大地！鳥取砂丘サンライズ＆日本海極上松葉ガニ・海鮮の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」風紋が描く黄金の大地！鳥取砂丘サンライズ＆日本海極上松葉ガニ・海鮮の宿5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             日本最大級の砂丘が織りなす神秘的な風紋と、見渡す限りの日本海パノラマ。早朝の澄んだ空気の中で砂丘散策を楽しんだ後は、水揚げされたばかりの活松葉ガニや白イカ会席、歴史あるラジウム温泉で癒やされる山陰の旅。
           </p>

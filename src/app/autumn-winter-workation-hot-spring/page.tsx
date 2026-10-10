@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-workation-hot-spring/" },
-  title: "【温泉ワーケーション】高速Wi-Fi＆名湯！大人のリトリート宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "温泉ワーケーション：高速Wi-Fi＆名湯！大人のリトリート宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "仕事も旅も妥協しない！長野・軽井沢、静岡・熱海温泉、神奈川・箱根湯本、京都・烏丸御池など、コワーキングラウンジ、高速Wi-Fi、デスク環境と極上天然温泉を備えた秋・冬の温泉ワーケーションホテルを徹底解説。",
   keywords: ["温泉ワーケーション", "高速Wi-Fi", "名湯！大人のリトリート宿", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -98,9 +98,7 @@ export default function SeasonalFeaturePage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             HOT SPRING WORKATION
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【温泉ワーケーション】高速Wi-Fi＆名湯！大人のリトリート宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「温泉ワーケーション」高速Wi-Fi＆名湯！大人のリトリート宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             午前中は集中してリモートワーク、午後は澄んだ空気の中を散策し、夜は効能豊かな名湯露天風呂と美味しい地酒でリフレッシュ。日常を離れて生産性とウェルビーイングを高める温泉ワーケーションへ。
           </p>

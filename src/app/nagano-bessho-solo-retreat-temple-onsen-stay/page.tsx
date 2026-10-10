@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagano-bessho-solo-retreat-temple-onsen-stay/" },
-  title: '【信州の鎌倉・別所温泉ひとり旅・信州最古の名湯おこもり】信州サーモン＆松茸会席・木造建築文化財・国宝八角三重塔！上田電鉄で行く古刹厳選3宿',
+  title: '信州の鎌倉・別所温泉ひとり旅・信州最古の名湯おこもり：信州サーモン＆松茸会席・木造建築文化財・国宝八角三重塔！上田電鉄で行く古刹厳選3宿',
   description: '開湯1400年、信州最古の歴史を誇る別所温泉！全館畳敷きの温もりと板前心尽くしの料理が口コミ★4.7超の「玉屋旅館」、眺望露天風呂と心のこもったもてなしが評判の「旅館 中松屋」、大正浪漫薫る登録有形文化財の木造建築美「旅館 花屋」を楽天API最新データに基づき徹底比較。',
   keywords: '別所温泉 一人旅 宿,別所温泉 ホテル 一人,玉屋旅館 別所,中松屋 別所温泉,旅館花屋 別所,別所温泉 ひとり旅 おこもり',
   openGraph: {
-    title: '【信州の鎌倉・別所温泉ひとり旅・信州最古の名湯おこもり】信州サーモン＆松茸会席・木造建築文化財・国宝八角三重塔！上田電鉄で行く古刹厳選3宿',
+    title: '信州の鎌倉・別所温泉ひとり旅・信州最古の名湯おこもり：信州サーモン＆松茸会席・木造建築文化財・国宝八角三重塔！上田電鉄で行く古刹厳選3宿',
     description: '開湯1400年、信州最古の歴史を誇る別所温泉！全館畳敷きの温もりと板前心尽くしの料理が口コミ★4.7超の「玉屋旅館」、眺望露天風呂と心のこもったもてなしが評判の「旅館 中松屋」、大正浪漫薫る登録有形文化財の木造建築美「旅館 花屋」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/nagano-bessho-solo-retreat-temple-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【信州の鎌倉・別所温泉ひとり旅・信州最古の名湯おこもり】信州サーモン＆松茸会席・木造建築文化財・国宝八角三重塔！上田電鉄で行く古刹厳選3宿',
+    headline: '信州の鎌倉・別所温泉ひとり旅・信州最古の名湯おこもり：信州サーモン＆松茸会席・木造建築文化財・国宝八角三重塔！上田電鉄で行く古刹厳選3宿',
     description: '開湯1400年、信州最古の歴史を誇る別所温泉！全館畳敷きの温もりと板前心尽くしの料理が口コミ★4.7超の「玉屋旅館」、眺望露天風呂と心のこもったもてなしが評判の「旅館 中松屋」、大正浪漫薫る登録有形文化財の木造建築美「旅館 花屋」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             長野・別所温泉ひとり旅＆信州最古名湯おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【信州の鎌倉・別所温泉ひとり旅・信州最古の名湯おこもり】信州サーモン＆松茸会席・木造建築文化財・国宝八角三重塔！上田電鉄で行く古刹厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「信州の鎌倉・別所温泉ひとり旅・信州最古の名湯おこもり」信州サーモン＆松茸会席・木造建築文化財・国宝八角三重塔！上田電鉄で行く古刹厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

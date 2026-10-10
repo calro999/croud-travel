@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-sake-brewery-pairing-onsen-stay/" },
-  title: '日本酒ペアリング＆酒蔵直結名宿×ふるさと納税完全ガイド【2026年最新】越後湯沢・諏訪・会津の名酒と温泉旅',
+  title: '日本酒ペアリング＆酒蔵直結名宿×ふるさと納税厳選ガイド越後湯沢・諏訪・会津の名酒と温泉旅',
   description: '米どころ新潟の地酒利き酒と酒風呂、信州諏訪五蔵めぐり、福島会津の金賞蔵ペアリング会席！厳選された地酒と郷土料理のマリアージュを味わう大人の日本酒温泉旅館を楽天ふるさと納税宿泊クーポンでお得に予約する酒旅ガイド。',
   keywords: ["日本酒ペアリング", "酒蔵直結名宿×ふるさと納税", "2026年最新", "越後湯沢", "諏訪", "会津の名酒と温泉旅", "温泉宿"],
   openGraph: {
-    title: '日本酒ペアリング＆酒蔵直結名宿×ふるさと納税完全ガイド【2026年最新】越後湯沢・諏訪・会津の名酒と温泉旅',
+    title: '日本酒ペアリング＆酒蔵直結名宿×ふるさと納税厳選ガイド越後湯沢・諏訪・会津の名酒と温泉旅',
     description: '米どころ新潟の地酒利き酒と酒風呂、信州諏訪五蔵めぐり、福島会津の金賞蔵ペアリング会席！厳選された地酒と郷土料理のマリアージュを味わう大人の日本酒温泉旅館を楽天ふるさと納税宿泊クーポンでお得に予約する酒旅ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-sake-brewery-pairing-onsen-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FurusatoTaxPage() {
           <span className="inline-block px-4 py-1.5 rounded-full text-xs md:text-sm font-black bg-gradient-to-r from-amber-500 to-yellow-400 text-slate-950 mb-5 shadow-lg shadow-amber-500/20">
             日本酒ペアリング・名酒宿特集
           </span>
-          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">
-            日本酒ペアリング＆酒蔵直結名宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">日本酒ペアリング＆酒蔵直結名宿×ふるさと納税ガイド</h1>
           <p className="text-sm md:text-lg text-slate-300 leading-relaxed font-medium">
             米どころ新潟の地酒利き酒と酒風呂、信州諏訪五蔵めぐり、福島会津の金賞蔵ペアリング会席！厳選された地酒と郷土料理のマリアージュを味わう大人の日本酒温泉旅館を楽天ふるさと納税宿泊クーポンでお得に予約する酒旅ガイド。
           </p>

@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【松江・宍道湖】秋の宍道湖七珍・出雲そば＆国宝松江城！3,000円台〜泊まれる格安ホテル5選',
+  title: '松江・宍道湖：秋の宍道湖七珍・出雲そば＆国宝松江城！3,000円台〜泊まれる格安ホテル5選',
   description: '秋の味覚・宍道湖七珍のシジミ汁や挽きぐるみ出雲そば、湖畔を茜色に染める宍道湖夕日！国宝天守・松江城下で1泊3,000円台〜泊まれる超高コスパ格安宿厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetMatsueShinjikoHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>宍道湖夕景＆国宝千鳥城の錦秋</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【松江・宍道湖】秋の味覚宍道湖七珍＆国宝松江城！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「松江・宍道湖」秋の味覚宍道湖七珍＆国宝松江城！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-teal-100/90 max-w-2xl mx-auto leading-relaxed">
             茜色に染まる「宍道湖の夕日」と、大和シジミやスズキなど秋に旨味を増す名物「宍道湖七珍」、香り高い挽きぐるみの「出雲そば」。堀川遊覧船が巡る国宝松江城の城下町で、天然温泉や源泉かけ流し付きながら3,000円台〜で泊まれる超得ホテルを厳選。
           </p>

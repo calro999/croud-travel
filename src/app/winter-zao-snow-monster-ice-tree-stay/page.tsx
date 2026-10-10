@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【12月開幕！蔵王樹氷スノーモンスター】幻想的な白銀世界と白濁硫黄泉のにごり湯宿5選",
+  title: "開幕！蔵王樹氷スノーモンスターで過ごす冬の旅（12月）！幻想的な白銀世界と白濁硫黄泉のにごり湯宿5選",
   description: "12月から姿を現す世界的に有名な冬の奇跡「蔵王の樹氷（スノーモンスター）」！ナイトクルーザーで行く樹氷ライトアップ鑑賞と、開湯1900年の歴史を誇るpH1.3強酸性・白濁硫黄泉の源泉かけ流しで温まる感動の冬旅。",
   keywords: "蔵王温泉 露天風呂 旅館, 11月旅行, 12月旅行, 冬休み, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-zao-snow-monster-ice-tree-stay/",
   },
   openGraph: {
-    title: "【12月開幕！蔵王樹氷スノーモンスター】幻想的な白銀世界と白濁硫黄泉のにごり湯宿5選",
+    title: "開幕！蔵王樹氷スノーモンスターで過ごす冬の旅（12月）！幻想的な白銀世界と白濁硫黄泉のにごり湯宿5選",
     description: "12月から姿を現す世界的に有名な冬の奇跡「蔵王の樹氷（スノーモンスター）」！ナイトクルーザーで行く樹氷ライトアップ鑑賞と、開湯1900年の歴史を誇るpH1.3強酸性・白濁硫黄泉の源泉かけ流しで温まる感動の冬旅。",
     url: 'https://croud-travel.pages.dev/winter-zao-snow-monster-ice-tree-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【12月開幕！蔵王樹氷スノーモンスター】幻想的な白銀世界と白濁硫黄泉のにごり湯宿5選",
+    title: "開幕！蔵王樹氷スノーモンスターで過ごす冬の旅（12月）！幻想的な白銀世界と白濁硫黄泉のにごり湯宿5選",
     description: "12月から姿を現す世界的に有名な冬の奇跡「蔵王の樹氷（スノーモンスター）」！ナイトクルーザーで行く樹氷ライトアップ鑑賞と、開湯1900年の歴史を誇るpH1.3強酸性・白濁硫黄泉の源泉かけ流しで温まる感動の冬旅。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>蔵王樹氷モンスター＆白濁硫黄泉</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【12月開幕！蔵王樹氷スノーモンスター】幻想的な白銀世界と白濁硫黄泉のにごり湯宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">開幕！蔵王樹氷スノーモンスターで過ごす冬の旅（12月）！幻想的な白銀世界と白濁硫黄泉のにごり湯宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             12月から姿を現す世界的に有名な冬の奇跡「蔵王の樹氷（スノーモンスター）」！ナイトクルーザーで行く樹氷ライトアップ鑑賞と、開湯1900年の歴史を誇るpH1.3強酸性・白濁硫黄泉の源泉かけ流しで温まる感動の冬旅。
           </p>

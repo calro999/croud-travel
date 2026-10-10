@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】初夏の極上フルーツ！房州名産びわ会席＆びわ葉エキス温浴スパの風情宿5選 | 日本全国・旅宿クラウド',
+  title: '2026年：初夏の極上フルーツ！房州名産びわ会席＆びわ葉エキス温浴スパの風情宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！みずみずしい大粒の房州びわ尽くしデザート＆びわ葉エキスを使った薬草風呂！太平洋の海絶景と海鮮美食を堪能する房総半島の温泉宿5選。',
   keywords: ["2026年", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: '【2026年】初夏の極上フルーツ！房州名産びわ会席＆びわ葉エキス温浴スパの風情宿5選',
+    title: '2026年：初夏の極上フルーツ！房州名産びわ会席＆びわ葉エキス温浴スパの風情宿5選',
     description: '2026年最新！みずみずしい大粒の房州びわ尽くしデザート＆びわ葉エキスを使った薬草風呂！太平洋の海絶景と海鮮美食を堪能する房総半島の温泉宿5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/spring-biwa-fruit-loquat-spa-retreat-stay',
@@ -143,9 +143,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> 房州びわスイーツ×びわ葉温浴スパ
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】初夏の極上フルーツ！房州名産びわ会席＆びわ葉エキス温浴スパの風情宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」初夏の極上フルーツ！房州名産びわ会席＆びわ葉エキス温浴スパの風情宿5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             黄金色に輝く初夏の味覚「房州びわ」。ジューシーで上品な甘みが広がるびわ尽くしデザートと、古くから健康湯として親しまれるびわ葉温浴で心身をじんわり癒やす、南房総ならではの温かなリトリート。
           </p>

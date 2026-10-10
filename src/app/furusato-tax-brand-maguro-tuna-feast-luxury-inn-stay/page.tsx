@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '本場黒マグロ・生マグロ尽くし会席＆絶景温泉宿×ふるさと納税完全ガイド【2026年最新】大間・那智勝浦・三崎港',
+  title: '本場黒マグロ・生マグロ尽くし会席＆絶景温泉宿×ふるさと納税厳選ガイド大間・那智勝浦・三崎港',
   description: '海のダイヤと称される極上マグロを本場の港町名宿で味わい尽くす！津軽海峡の一本釣り大間マグロと下風呂の白濁硫黄泉を誇る「下風呂観光ホテル 三浦屋」、日本一の生マグロ水揚げ港で専用船で渡る孤島の秘境露天風呂「碧き島の宿 熊野別邸 中の島」、三浦三崎港のまぐろ食べ放題と東京湾オーシャンビュー温泉「マホロバ・マインズ三浦」。大トロ、中トロ、赤身の握りから兜焼き、ねぎま鍋まで、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
   keywords: ["本場黒マグロ", "生マグロ尽くし会席", "絶景温泉宿×ふるさと納税", "2026年最新", "大間", "那智勝浦", "三崎港"],
   alternates: { canonical: baseUrl + '/furusato-tax-brand-maguro-tuna-feast-luxury-inn-stay/' },
   openGraph: {
-    title: '本場黒マグロ・生マグロ尽くし会席＆絶景温泉宿×ふるさと納税完全ガイド【2026年最新】大間・那智勝浦・三崎港',
+    title: '本場黒マグロ・生マグロ尽くし会席＆絶景温泉宿×ふるさと納税厳選ガイド大間・那智勝浦・三崎港',
     description: '海のダイヤと称される極上マグロを本場の港町名宿で味わい尽くす！津軽海峡の一本釣り大間マグロと下風呂の白濁硫黄泉を誇る「下風呂観光ホテル 三浦屋」、日本一の生マグロ水揚げ港で専用船で渡る孤島の秘境露天風呂「碧き島の宿 熊野別邸 中の島」、三浦三崎港のまぐろ食べ放題と東京湾オーシャンビュー温泉「マホロバ・マインズ三浦」。大トロ、中トロ、赤身の握りから兜焼き、ねぎま鍋まで、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
     url: baseUrl + '/furusato-tax-brand-maguro-tuna-feast-luxury-inn-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoBrandMaguroTunaStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             本場黒マグロ＆生マグロ食べ尽くし会席宿特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            本場黒マグロ・生マグロ尽くし会席＆絶景温泉宿×ふるさと納税完全ガイド【2026年最新】大間・那智勝浦・三崎港
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">本場黒マグロ・生マグロ尽くし会席＆絶景温泉宿×ふるさと納税厳選ガイド大間・那智勝浦・三崎港</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             寿司ネタの王様にして、日本人が最も愛する海の至宝「マグロ（鮪）」。荒波逆巻く津軽海峡で一本釣りされ、極上の脂乗りと引き締まった身質で世界最高峰の評価を受ける「大間まぐろ」。延縄漁船で生きたまま水揚げされ、一度も冷凍されることなく届けられるモチモチ食感と濃厚な旨味の和歌山県「那智勝浦の生マグロ」。そして遠洋マグロ漁の基地として全国から上質なマグロが集まる神奈川県「三崎港の三崎まぐろ」。極上マグロの本場に佇む温泉旅館では、大トロ・中トロ・赤身の美しいグラデーションのお造りから、香ばしく焼き上げたカマ焼きや希少部位の珍味、旨味出汁で味わうねぎま鍋まで、まさにマグロのすべてを食べ尽くす至福のフルコースが振る舞われます。津軽海峡を望む白濁硫黄泉の老舗「下風呂観光ホテル 三浦屋」、勝浦港から専用船で渡り海中露天風呂と生マグロ解体を堪能できる孤島のリゾート「碧き島の宿 熊野別邸 中の島」、そして三崎まぐろ尽くしビュッフェと広々客室が評判の「マホロバ・マインズ三浦」。楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引）を使って実質自己負担2,000円で賢く予約し、本物のマグロの旨さに酔いしれる贅沢旅へ出かけましょう。
           </p>

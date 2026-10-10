@@ -21,14 +21,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【鎌倉・鶴岡八幡宮初詣】冬牡丹咲く古都の祈りと江の島！名宿5選',
+  title: '鎌倉・鶴岡八幡宮初詣：冬牡丹咲く古都の祈りと江の島！名宿5選',
   description: '源氏ゆかりの武家古都「鶴岡八幡宮」の新春初詣と神苑ぼたん庭園に咲く可憐な冬牡丹（正月牡丹）。関東三大イルミネーション「江の島 湘南の宝石」シ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '鎌倉, 鶴岡八幡宮, 初詣, 冬牡丹, 小町通り, 江の島, 湘南の宝石, シーキャンドル, 鎌倉プリンスホテル, ホテルメトロポリタン鎌倉, ブレスホテル, イルミネーション, 新春旅行',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-kanagawa-kamakura-tsurugaoka-hachimangu-hatsumode-enoshima-stay',
   },
   openGraph: {
-    title: '【鎌倉・鶴岡八幡宮初詣】冬牡丹咲く古都の祈りと江の島！名宿5選',
+    title: '鎌倉・鶴岡八幡宮初詣：冬牡丹咲く古都の祈りと江の島！名宿5選',
     description: '源氏ゆかりの武家古都「鶴岡八幡宮」の新春初詣と神苑ぼたん庭園に咲く可憐な冬牡丹（正月牡丹）。関東三大イルミネーション「江の島 湘南の宝石」シ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-kanagawa-kamakura-tsurugaoka-hachimangu-hatsumode-enoshima-stay',
     siteName: 'トラベルマップ - 日本の観光名所＆ホテル厳選ガイド',
@@ -45,7 +45,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: '【鎌倉・鶴岡八幡宮初詣＆湘南の宝石】冬牡丹咲く古都の祈りと江の島イルミネーション！小町通り冬グルメ＆相模湾絶景宿5選',
+    title: '鎌倉・鶴岡八幡宮初詣＆湘南の宝石：冬牡丹咲く古都の祈りと江の島イルミネーション！小町通り冬グルメ＆相模湾絶景宿5選',
     description: '源氏ゆかりの武家古都「鶴岡八幡宮」の新春初詣と神苑ぼたん庭園に咲く可憐な冬牡丹（正月牡丹）。関東三大イルミネーション「江の島 湘南の宝石」シーキャンドルの光の大空間、小町通りの焼きたて団子と相模湾の冬魚グルメ。鎌倉・七里ヶ浜・由比ヶ浜・江の島島内の厳選ホテル5選。',
     images: ['https://img.travel.rakuten.co.jp/share/HOTEL/1679/1679.jpg'],
   },
@@ -55,7 +55,7 @@ export default function KamakuraTsurugaokaPage() {
   const jsonLdArticle = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【鎌倉・鶴岡八幡宮初詣＆湘南の宝石】冬牡丹咲く古都の祈りと江の島イルミネーション！小町通り冬グルメ＆相模湾絶景宿5選',
+    headline: '鎌倉・鶴岡八幡宮初詣＆湘南の宝石：冬牡丹咲く古都の祈りと江の島イルミネーション！小町通り冬グルメ＆相模湾絶景宿5選',
     description: '源氏ゆかりの武家古都「鶴岡八幡宮」の新春初詣と神苑ぼたん庭園に咲く可憐な冬牡丹（正月牡丹）。関東三大イルミネーション「江の島 湘南の宝石」シーキャンドルの光の大空間、小町通りの焼きたて団子と相模湾の冬魚グルメ。鎌倉・七里ヶ浜・由比ヶ浜・江の島島内の厳選ホテル5選。',
     image: 'https://img.travel.rakuten.co.jp/share/HOTEL/1679/1679.jpg',
     datePublished: 'T00:00:00+09:00',
@@ -171,13 +171,7 @@ export default function KamakuraTsurugaokaPage() {
             <span>12月・1月・2月 古都鎌倉の新春祈願＆光の祭典特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight sm:leading-tight mb-6">
-            【鎌倉・鶴岡八幡宮初詣＆湘南の宝石】<br className="hidden sm:inline" />
-            冬牡丹咲く古都の祈りと江の島シーキャンドルの光！<br />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-rose-200 via-pink-200 to-amber-200">
-              小町通り冬グルメ＆相模湾絶景を味わう上質宿5選
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight sm:leading-tight mb-6">「鎌倉・鶴岡八幡宮初詣＆湘南の宝石」<br className="hidden sm:inline" /> 冬牡丹咲く古都の祈りと江の島シーキャンドルの光！<br /> <span className="text-transparent bg-clip-text bg-gradient-to-r from-rose-200 via-pink-200 to-amber-200"> 小町通り冬グルメ＆相模湾絶景を味わう上質宿5選 </span></h1>
 
           <p className="text-sm sm:text-lg text-slate-300 leading-relaxed max-w-3xl mx-auto mb-8">
             源頼朝が拓いた武家古都の象徴「鶴岡八幡宮」で清らかな新春を祈る初詣。源平池の畔、藁囲いの中で健気に花開く「神苑ぼたん庭園」の冬牡丹。江ノ電に揺られて海沿いを進めば、関東三大イルミネーション「江の島 湘南の宝石」が放つ宝石のような煌めきと茜色の夕富士。焼きたて団子や相模湾の冬魚を味わい、海辺のリゾートホテルで心洗われる冬旅を。

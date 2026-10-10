@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-top-three-night-view-luxury-panoramic-stay/" },
-  title: "【日本三大夜景＆全室パノラマ夜景ビュー宿】1000万ドルの夜景・特等席 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "日本三大夜景＆全室パノラマ夜景ビュー宿：1000万ドルの夜景・特等席 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "光の海を見下ろす極上の夜！日本三大夜景＆新日本三大夜景パノラマホテル完全特化！長崎稲佐山、神戸六甲山・摩耶山、北海道函館山、山梨笛吹川フルーツ公園、北九州皿倉山、バルコニーやビューバスから望む1000万ドルの絶景ステイを徹底解説。",
   keywords: ["日本三大夜景", "全室パノラマ夜景ビュー宿", "1000万ドルの夜景", "特等席", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
@@ -89,9 +89,7 @@ export default function StargazingHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-gradient-to-r from-cyan-400 to-indigo-300 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block shadow">
             TOP 3 NIGHT VIEW PANORAMIC SUITE GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【日本三大夜景＆全室パノラマ夜景ビュー宿】1000万ドルの夜景・特等席 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「日本三大夜景＆全室パノラマ夜景ビュー宿」1000万ドルの夜景・特等席 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-indigo-100/90 leading-relaxed">
             街の明かりが無数の宝石のように煌めく「1000万ドルの夜景」。「日本三大夜景」の長崎稲佐山・神戸六甲山・函館山。客室の大きな窓やプライベートバルコニー、さらには湯船に浸かりながら光のパノラマを独占するビューバス。ワイングラスを傾けながら過ごすロマンチックな夜へ。
           </p>

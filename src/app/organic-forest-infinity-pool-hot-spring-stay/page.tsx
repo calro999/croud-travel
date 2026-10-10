@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【森と空に溶け込む】絶景インフィニティ温泉プール＆天然スパ！極上フォレストリゾート宿5選",
+  title: "森と空に溶け込む：絶景インフィニティ温泉プール＆天然スパ！極上フォレストリゾート宿5選",
   description: "原生林のパノラマと一体化する温水インフィニティ温泉プール！水着で入れる絶景スパやサウナ、ラグジュアリーなラウンジを備えた、非日常のリフレッシュを約束する最高峰フォレストリゾートを厳選紹介。",
   keywords: "インフィニティプール 温泉 宿, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/organic-forest-infinity-pool-hot-spring-stay/",
   },
   openGraph: {
-    title: "【森と空に溶け込む】絶景インフィニティ温泉プール＆天然スパ！極上フォレストリゾート宿5選",
+    title: "森と空に溶け込む：絶景インフィニティ温泉プール＆天然スパ！極上フォレストリゾート宿5選",
     description: "原生林のパノラマと一体化する温水インフィニティ温泉プール！水着で入れる絶景スパやサウナ、ラグジュアリーなラウンジを備えた、非日常のリフレッシュを約束する最高峰フォレストリゾートを厳選紹介。",
     url: 'https://croud-travel.pages.dev/organic-forest-infinity-pool-hot-spring-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【森と空に溶け込む】絶景インフィニティ温泉プール＆天然スパ！極上フォレストリゾート宿5選",
+    title: "森と空に溶け込む：絶景インフィニティ温泉プール＆天然スパ！極上フォレストリゾート宿5選",
     description: "原生林のパノラマと一体化する温水インフィニティ温泉プール！水着で入れる絶景スパやサウナ、ラグジュアリーなラウンジを備えた、非日常のリフレッシュを約束する最高峰フォレストリゾートを厳選紹介。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>インフィニティプール＆温泉スパ</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【森と空に溶け込む】絶景インフィニティ温泉プール＆天然スパ！極上フォレストリゾート宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「森と空に溶け込む」絶景インフィニティ温泉プール＆天然スパ！極上フォレストリゾート宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             原生林のパノラマと一体化する温水インフィニティ温泉プール！水着で入れる絶景スパやサウナ、ラグジュアリーなラウンジを備えた、非日常のリフレッシュを約束する最高峰フォレストリゾートを厳選紹介。
           </p>

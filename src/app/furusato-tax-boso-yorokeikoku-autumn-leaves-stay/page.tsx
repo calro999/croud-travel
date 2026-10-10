@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '房総・養老渓谷の粟又の滝紅葉＆紅葉ライトアップ！名物黒湯温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】千葉',
+  title: '房総・養老渓谷の粟又の滝紅葉＆紅葉ライトアップ！名物黒湯温泉宿×ふるさと納税厳選ガイド千葉',
   description: '11月下旬〜12月上旬に関東で最も遅い紅葉を迎える千葉屈指の渓谷美「房総・養老渓谷」。粟又の滝の滝めぐり遊歩道散策や幻想的な夜間ライトアップ、美肌効果抜群の漆黒の天然温泉「黒湯」を誇る「旅館 喜代元」「蓬莱屋旅館」「旅館 伝九郎」で房総の地魚会席や上総牛・猪鍋を堪能。ふるさと納税で実質2,000円。',
   keywords: ["房総", "養老渓谷の粟又の滝紅葉", "2026年最新秋旅", "千葉", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-boso-yorokeikoku-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '房総・養老渓谷の粟又の滝紅葉＆紅葉ライトアップ！名物黒湯温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】千葉',
+    title: '房総・養老渓谷の粟又の滝紅葉＆紅葉ライトアップ！名物黒湯温泉宿×ふるさと納税厳選ガイド千葉',
     description: '11月下旬〜12月上旬に関東で最も遅い紅葉を迎える千葉屈指の渓谷美「房総・養老渓谷」。粟又の滝の滝めぐり遊歩道散策や幻想的な夜間ライトアップ、美肌効果抜群の漆黒の天然温泉「黒湯」を誇る「旅館 喜代元」「蓬莱屋旅館」「旅館 伝九郎」で房総の地魚会席や上総牛・猪鍋を堪能。ふるさと納税で実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-boso-yorokeikoku-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -113,9 +113,7 @@ export default function FeatureArticlePage() {
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">
-            房総・養老渓谷の粟又の滝紅葉＆紅葉ライトアップ！名物黒湯温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】千葉
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">房総・養老渓谷の粟又の滝紅葉＆紅葉ライトアップ！名物黒湯温泉宿×ふるさと納税厳選ガイド千葉</h1>
           <p className="text-sm md:text-lg text-stone-200 max-w-3xl mx-auto leading-relaxed">
             関東で最も遅い錦秋を迎える養老渓谷の清流紅葉と、肌を滑らかにする名物「黒湯」温泉。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
           </p>

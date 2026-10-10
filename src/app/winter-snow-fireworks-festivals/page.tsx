@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/winter-snow-fireworks-festivals/" },
-  title: "【夜空の芸術】冬の雪上花火＆湖畔温泉ホテル 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "夜空の芸術：冬の雪上花火＆湖畔温泉ホテル 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "澄んだ冬空に響く大迫力の轟音！山梨・河口湖冬花火、静岡・熱海海上花火大会（冬の部）、岐阜・下呂温泉花火ミュージカル、栃木・奥日光中禅寺湖など、客室や露天風呂から花火を仰ぐ人気宿を徹底解説。",
   keywords: ["夜空の芸術", "冬の雪上花火", "湖畔温泉ホテル", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -98,9 +98,7 @@ export default function SeasonalFeaturePage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             WINTER FIREWORKS
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【夜空の芸術】冬の雪上花火＆湖畔温泉ホテル 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「夜空の芸術」冬の雪上花火＆湖畔温泉ホテル 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             湿度が低くチリの少ない冬の夜空は、夏以上に花火が鮮明に輝く絶好の季節。雪山や湖畔を鮮やかに染める大輪の華を、温かい温泉露天風呂やお部屋の特等席から眺めるロマンチックな冬の夜。
           </p>

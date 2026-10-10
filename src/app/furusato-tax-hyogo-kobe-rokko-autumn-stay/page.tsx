@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            兵庫・神戸 六甲山紅葉パノラマ＆日本三古湯 有馬温泉！金泉・銀泉の極上湯処と神戸牛会席
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">兵庫・神戸 六甲山紅葉パノラマ＆日本三古湯 有馬温泉！金泉・銀泉の極上湯処と神戸牛会席</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の兵庫・神戸六甲山＆有馬温泉特集！六甲有馬ロープウェーから見下ろす錦秋の大パノラマと1000万ドルの夜景、日本三古湯・有馬温泉が誇る赤褐色の「金泉」と透明な「銀泉」、世界に誇る最高峰「神戸ビーフ」のすき焼き・ステーキをふるさと納税トラベルクーポンで堪能する極上リゾート滞在。
           </p>

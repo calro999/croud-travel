@@ -5,14 +5,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月三重】菅原道真公祀る「上野天神宮」新春初詣！名宿5選',
+  title: '11・12・1月三重：菅原道真公祀る「上野天神宮」新春初詣！名宿5選',
   description: '忍者の里として世界に知られる三重県伊賀・名張。11〜1月は盆地特有の厳しい冷え込みがもたらす白銀の冬景色が広がります。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '伊賀上野城 冬 雪景色, 上野天神宮 初詣, 赤目四十八滝 氷瀑, 伊賀牛 すき焼き, 赤目温泉 対泉閣, 山水園 赤目, 伊賀 忍者 冬 旅行, 三重 冬 観光',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-mie-iga-ueno-castle-akame-48waterfalls-hyobaku-igagyu-stay'
   },
   openGraph: {
-    title: '【11・12・1月三重】菅原道真公祀る「上野天神宮」新春初詣！名宿5選',
+    title: '11・12・1月三重：菅原道真公祀る「上野天神宮」新春初詣！名宿5選',
     description: '忍者の里として世界に知られる三重県伊賀・名張。11〜1月は盆地特有の厳しい冷え込みがもたらす白銀の冬景色が広がります。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-mie-iga-ueno-castle-akame-48waterfalls-hyobaku-igagyu-stay',
     siteName: 'クラドトラベル',
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月三重】忍者の里「伊賀上野城」白銀の高石垣と芭蕉翁生家・菅原道真公祀る「上野天神宮」新春初詣！冬限定「赤目四十八滝」氷瀑トレッキング・幻の最高峰「伊賀牛すき焼き」＆赤目温泉厳選名宿5選",
+    title: "11・12・1月三重：忍者の里「伊賀上野城」白銀の高石垣と芭蕉翁生家・菅原道真公祀る「上野天神宮」新春初詣！冬限定「赤目四十八滝」氷瀑トレッキング・幻の最高峰「伊賀牛すき焼き」＆赤目温泉厳選名宿5選",
     description: "忍者の里として世界に知られる三重県伊賀・名張。11〜1月は盆地特有の厳しい冷え込みがもたらす白銀の冬景色が広がります。築城の名手・藤堂高虎が築いた高さ約30mの日本一の高石垣を誇る「伊賀上野城」の雪景色、学問の神・菅原道真公を祀る「上野天神宮」の新春初詣。名勝「赤目四十八滝」では冷気で凍りついた神秘の氷瀑が出現し、伊賀盆地の清らかな風土が育む幻の黒毛和牛「伊賀牛」のとろけるすき焼きを堪能。歴史情緒と極上の名湯「赤目温泉」を巡る冬の特選名宿5選。",
     images: ['https://images.unsplash.com/photo-1545569341-9eb8b30979d9?auto=format&fit=crop&w=1200&q=80']
   }
@@ -290,11 +290,7 @@ export default function MieIgaWinterFeaturePage() {
               <Sparkles className="w-4 h-4 text-emerald-400" />
               11月・12月・1月冬の三重・伊賀名張探訪スペシャル
             </div>
-            <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight mb-6">
-              【三重・伊賀上野＆赤目四十八滝】<br className="hidden sm:inline" />
-              忍者の里「伊賀上野城」白銀の高石垣と上野天神宮新春初詣！<br />
-              神秘の「赤目四十八滝」氷瀑と幻の極上伊賀牛すき焼き名宿
-            </h1>
+            <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight mb-6">「三重・伊賀上野＆赤目四十八滝」<br className="hidden sm:inline" /> 忍者の里「伊賀上野城」白銀の高石垣と上野天神宮新春初詣！<br /> 神秘の「赤目四十八滝」氷瀑と幻の極上伊賀牛すき焼き名宿</h1>
             <p className="text-sm sm:text-base md:text-lg text-stone-300 leading-relaxed max-w-3xl mx-auto mb-8 font-normal">
               伊賀盆地の澄み切った冷気の中に浮かぶ白銀の城下町・伊賀上野。藤堂高虎公が築いた高さ約30mの日本屈指の高石垣と木造天守の雪景色。菅原道真公を祀る「上野天神宮」の新春初詣。修験道の聖地「赤目四十八滝」で冬の冷気が創り出すクリスタルの氷瀑トレッキング。流通量が少なく幻と称される「伊賀牛」のとろけるすき焼きに舌鼓を打ち、美肌の名湯「赤目温泉」で心身を解きほぐす冬の特選旅へご案内します。
             </p>

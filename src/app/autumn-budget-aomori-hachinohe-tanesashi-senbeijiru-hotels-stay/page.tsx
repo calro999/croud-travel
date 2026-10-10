@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【八戸】種差海岸の秋風散策と八戸せんべい汁！2,000円台〜泊まれる格安ホテル5選',
+  title: '八戸：種差海岸の秋風散策と八戸せんべい汁！2,000円台〜泊まれる格安ホテル5選',
   description: '天然芝生が広がる種差海岸の秋絶景と、日本最大級の館鼻岸壁朝市！熱々の具だくさん八戸せんべい汁や八戸前沖サバ。本八戸・八戸駅周辺で1泊2,000円台〜4,000円台の格安・高評価宿5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHachinoheHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>種差海岸の絶景秋風＆名物八戸せんべい汁</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【八戸】種差海岸の秋景色＆八戸せんべい汁！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「八戸」種差海岸の秋景色＆八戸せんべい汁！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-blue-100/90 max-w-2xl mx-auto leading-relaxed">
             太平洋の青い海と黄金色に色づく天然芝生地が広がる名勝「種差海岸」。日曜早朝に開催される国内最大規模の巨大朝市「館鼻岸壁朝市」やみろく横丁でのハシゴ酒！夜は出汁を吸った南部せんべいがもちもちと美味しい「八戸せんべい汁」や日本一脂が乗る「八戸前沖サバ」！2,000円台〜の高評価宿をご紹介。
           </p>

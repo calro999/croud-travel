@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/winter-crab-gourmet/" },
-  title: '【冬の味覚】カニ食べ尽くし＆絶景雪見温泉旅館 完全ガイド ｜ 日本全国・旅宿クラウド',
+  title: '冬の味覚：カニ食べ尽くし＆絶景雪見温泉旅館 厳選ガイド ｜ 日本全国・旅宿クラウド',
   description: '冬の日本海の王様！城崎温泉（兵庫）、越前三国（福井）、加賀山中（石川）、皆生温泉（鳥取）で本場の松葉ガニ・越前ガニ会席を堪能できる贅沢温泉宿。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: ["冬の味覚", "カニ食べ尽くし", "絶景雪見温泉旅館", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -98,9 +98,7 @@ export default function SeasonalFeaturePage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             WINTER GOURMET
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【冬の味覚】カニ食べ尽くし＆絶景雪見温泉旅館 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「冬の味覚」カニ食べ尽くし＆絶景雪見温泉旅館 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             冬の旅の醍醐味といえば、獲れたて極上のカニ料理と雪見露天風呂。茹でガニ、カニ刺し、焼きガニ、カニすき鍋から甲羅酒まで。北陸・山陰の名湯旅館で極上の美食ステイを。
           </p>

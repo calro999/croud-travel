@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【極上かごしま黒豚しゃぶしゃぶ＆砂むし温泉】指宿・霧島の美肌湯と鹿児島美食宿5選",
+  title: "極上かごしま黒豚しゃぶしゃぶ＆砂むし温泉：指宿・霧島の美肌湯と鹿児島美食宿5選",
   description: "きめ細やかな肉質と上品な甘みを持つ最高峰「かごしま黒豚」のしゃぶしゃぶ！世界唯一の天然砂むし温泉で知られる指宿や、坂本龍馬ゆかりの霧島温泉郷で、鹿児島の滋味あふれる美味と名湯を満喫する旅。",
   keywords: "指宿 温泉 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/traditional-kagoshima-kurobuta-shabushabu-stay/",
   },
   openGraph: {
-    title: "【極上かごしま黒豚しゃぶしゃぶ＆砂むし温泉】指宿・霧島の美肌湯と鹿児島美食宿5選",
+    title: "極上かごしま黒豚しゃぶしゃぶ＆砂むし温泉：指宿・霧島の美肌湯と鹿児島美食宿5選",
     description: "きめ細やかな肉質と上品な甘みを持つ最高峰「かごしま黒豚」のしゃぶしゃぶ！世界唯一の天然砂むし温泉で知られる指宿や、坂本龍馬ゆかりの霧島温泉郷で、鹿児島の滋味あふれる美味と名湯を満喫する旅。",
     url: 'https://croud-travel.pages.dev/traditional-kagoshima-kurobuta-shabushabu-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【極上かごしま黒豚しゃぶしゃぶ＆砂むし温泉】指宿・霧島の美肌湯と鹿児島美食宿5選",
+    title: "極上かごしま黒豚しゃぶしゃぶ＆砂むし温泉：指宿・霧島の美肌湯と鹿児島美食宿5選",
     description: "きめ細やかな肉質と上品な甘みを持つ最高峰「かごしま黒豚」のしゃぶしゃぶ！世界唯一の天然砂むし温泉で知られる指宿や、坂本龍馬ゆかりの霧島温泉郷で、鹿児島の滋味あふれる美味と名湯を満喫する旅。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>黒豚しゃぶしゃぶ＆砂むし温泉</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【極上かごしま黒豚しゃぶしゃぶ＆砂むし温泉】指宿・霧島の美肌湯と鹿児島美食宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「極上かごしま黒豚しゃぶしゃぶ＆砂むし温泉」指宿・霧島の美肌湯と鹿児島美食宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             きめ細やかな肉質と上品な甘みを持つ最高峰「かごしま黒豚」のしゃぶしゃぶ！世界唯一の天然砂むし温泉で知られる指宿や、坂本龍馬ゆかりの霧島温泉郷で、鹿児島の滋味あふれる美味と名湯を満喫する旅。
           </p>

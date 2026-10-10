@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【高知駅前】秋の戻り鰹塩たたき＆ひろめ市場！3,000円台〜泊まれる格安ホテル5選',
+  title: '高知駅前：秋の戻り鰹塩たたき＆ひろめ市場！3,000円台〜泊まれる格安ホテル5選',
   description: '脂ののった秋の戻り鰹（かつお）の藁焼き塩たたき！屋台村・ひろめ市場の熱気と現存天守・高知城の秋紅葉。JR土讃線・高知駅周辺で1泊3,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>秋の脂の乗った極上戻り鰹＆ひろめ市場の屋台グルメ</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【高知駅前】秋の戻り鰹塩たたき＆ひろめ市場！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「高知駅前」秋の戻り鰹塩たたき＆ひろめ市場！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             秋に太平洋を南下する「戻り鰹」は、トロのように脂がのって濃厚な旨味が別格！豪快な藁焼きの炎で炙り、粗塩とニンニクスライスで食べる本場の塩たたき。屋台村「ひろめ市場」で土佐の地酒や屋台餃子を楽しみ、高知駅周辺で3,000円台〜泊まれる優良格安ホテルを厳選。
           </p>

@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/sapporo-solo-onsen-sauna-gourmet-stay/" },
-  title: '【札幌ひとり旅・ご褒美泊】登別カルルス温泉直送・本格ロウリュサウナ・シメパフェ巡り！大人のリフレッシュ宿 厳選3選',
+  title: '札幌ひとり旅・ご褒美泊：登別カルルス温泉直送・本格ロウリュサウナ・シメパフェ巡り！大人のリフレッシュ宿 厳選3選',
   description: '「北の大地で美味いものを食べ、静かに雪や緑を眺めながら温泉に浸かりたい。」。一人旅や出張で訪れる大人の札幌ステイへ。大通公園近くで登別カルルス温泉を引く和の旅館「ONSEN RYOKAN 由縁 札幌」、北海道庁旧本庁舎（赤れんが）を望む優雅な「ソラリア西鉄ホテル札幌」、ススキノ至近でセルフロウリュサウナが自慢の「天然温泉 プレミアホテル-CABIN-札幌。」を徹底特集。',
   keywords: '札幌 一人旅 ホテル おすすめ,札幌 温泉 サウナ ホテル,由縁 札幌 宿泊,ソラリア西鉄ホテル札幌 大浴場,プレミアホテルキャビン札幌 サウナ',
   openGraph: {
-    title: '【札幌ひとり旅・ご褒美泊】登別カルルス温泉直送・本格ロウリュサウナ・シメパフェ巡り！大人のリフレッシュ宿 厳選3選',
+    title: '札幌ひとり旅・ご褒美泊：登別カルルス温泉直送・本格ロウリュサウナ・シメパフェ巡り！大人のリフレッシュ宿 厳選3選',
     description: '「北の大地で美味いものを食べ、静かに雪や緑を眺めながら温泉に浸かりたい。」。一人旅や出張で訪れる大人の札幌ステイへ。大通公園近くで登別カルルス温泉を引く和の旅館「ONSEN RYOKAN 由縁 札幌」、北海道庁旧本庁舎（赤れんが）を望む優雅な「ソラリア西鉄ホテル札幌」、ススキノ至近でセルフロウリュサウナが自慢の「天然温泉 プレミアホテル-CABIN-札幌。」を徹底特集。',
     url: 'https://croud-travel.pages.dev/sapporo-solo-onsen-sauna-gourmet-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【札幌ひとり旅・ご褒美泊】登別カルルス温泉直送・本格ロウリュサウナ・シメパフェ巡り！大人のリフレッシュ宿 厳選3選',
+    headline: '札幌ひとり旅・ご褒美泊：登別カルルス温泉直送・本格ロウリュサウナ・シメパフェ巡り！大人のリフレッシュ宿 厳選3選',
     description: '「北の大地で美味いものを食べ、静かに雪や緑を眺めながら温泉に浸かりたい。」。一人旅や出張で訪れる大人の札幌ステイへ。大通公園近くで登別カルルス温泉を引く和の旅館「ONSEN RYOKAN 由縁 札幌」、北海道庁旧本庁舎（赤れんが）を望む優雅な「ソラリア西鉄ホテル札幌」、ススキノ至近でセルフロウリュサウナが自慢の「天然温泉 プレミアホテル-CABIN-札幌。」を徹底特集。',
     author: {
       '@type': 'Organization',
@@ -74,9 +74,7 @@ export default function ArticlePage() {
           <span>✨</span>
           <span>札幌・登別温泉直送＆シメパフェ特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【札幌ひとり旅・ご褒美泊】登別カルルス温泉直送・本格ロウリュサウナ・シメパフェ巡り！大人のリフレッシュ宿 厳選3選
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">「札幌ひとり旅・ご褒美泊」登別カルルス温泉直送・本格ロウリュサウナ・シメパフェ巡り！大人のリフレッシュ宿 厳選3選</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
           「北の大地で美味いものを食べ、静かに雪や緑を眺めながら温泉に浸かりたい。」。一人旅や出張で訪れる大人の札幌ステイへ。大通公園近くで登別カルルス温泉を引く和の旅館「ONSEN RYOKAN 由縁 札幌」、北海道庁旧本庁舎（赤れんが）を望む優雅な「ソラリア西鉄ホテル札幌」、ススキノ至近でセルフロウリュサウナが自慢の「天然温泉 プレミアホテル-CABIN-札幌。」を徹底特集。
         </p>

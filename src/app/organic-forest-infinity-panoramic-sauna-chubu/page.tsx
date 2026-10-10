@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【信州・白馬アルプス森林サウナ】北アルプス絶景パノラマ＆白樺水風呂の極上リゾート宿5選",
+  title: "信州・白馬アルプス森林サウナ：北アルプス絶景パノラマ＆白樺水風呂の極上リゾート宿5選",
   description: "雄大な北アルプスの山並みを望む最新薪ストーブサウナ！白樺林に囲まれたウッドデッキでアロマロウリュを楽しみ、雪解け天然水のシングル水風呂と澄み切った高原の空気で異次元のととのい体験。",
   keywords: "白馬 サウナ 温泉 ホテル, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/organic-forest-infinity-panoramic-sauna-chubu/",
   },
   openGraph: {
-    title: "【信州・白馬アルプス森林サウナ】北アルプス絶景パノラマ＆白樺水風呂の極上リゾート宿5選",
+    title: "信州・白馬アルプス森林サウナ：北アルプス絶景パノラマ＆白樺水風呂の極上リゾート宿5選",
     description: "雄大な北アルプスの山並みを望む最新薪ストーブサウナ！白樺林に囲まれたウッドデッキでアロマロウリュを楽しみ、雪解け天然水のシングル水風呂と澄み切った高原の空気で異次元のととのい体験。",
     url: 'https://croud-travel.pages.dev/organic-forest-infinity-panoramic-sauna-chubu',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【信州・白馬アルプス森林サウナ】北アルプス絶景パノラマ＆白樺水風呂の極上リゾート宿5選",
+    title: "信州・白馬アルプス森林サウナ：北アルプス絶景パノラマ＆白樺水風呂の極上リゾート宿5選",
     description: "雄大な北アルプスの山並みを望む最新薪ストーブサウナ！白樺林に囲まれたウッドデッキでアロマロウリュを楽しみ、雪解け天然水のシングル水風呂と澄み切った高原の空気で異次元のととのい体験。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>北アルプス森林サウナ＆雪解け水風呂</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【信州・白馬アルプス森林サウナ】北アルプス絶景パノラマ＆白樺水風呂の極上リゾート宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「信州・白馬アルプス森林サウナ」北アルプス絶景パノラマ＆白樺水風呂の極上リゾート宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             雄大な北アルプスの山並みを望む最新薪ストーブサウナ！白樺林に囲まれたウッドデッキでアロマロウリュを楽しみ、雪解け天然水のシングル水風呂と澄み切った高原の空気で異次元のととのい体験。
           </p>

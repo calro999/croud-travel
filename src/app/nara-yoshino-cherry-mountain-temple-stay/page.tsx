@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nara-yoshino-cherry-mountain-temple-stay/" },
-  title: "【奈良・吉野山＆金峯山寺】一目千本桜・蔵王堂＆柿の葉寿司宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "奈良・吉野山＆金峯山寺：一目千本桜・蔵王堂＆柿の葉寿司宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "山全体が約3万本の桜で埋め尽くされる世界遺産「吉野山（下千本・中千本・上千本・奥千本）。」、修験道の根本道場・金峯山寺の秘仏本尊「金剛蔵王権現（青の神仏）」、吉水神社、吉野本葛料理や柿の葉寿司を徹底解説。歴史ある宿坊やパノラマ旅館を厳選。",
   keywords: ["奈良", "吉野山", "金峯山寺", "一目千本桜", "蔵王堂", "柿の葉寿司宿", "温泉宿"],
 };
@@ -92,9 +92,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             YOSHINO & SAKURA GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【奈良・吉野山＆金峯山寺】一目千本桜・世界遺産蔵王堂青神仏＆吉野葛・柿の葉寿司宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「奈良・吉野山＆金峯山寺」一目千本桜・世界遺産蔵王堂青神仏＆吉野葛・柿の葉寿司宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-teal-100/90 leading-relaxed">
             山肌を桜色のグラデーションで染め上げ「一目千本」と称えられる日本一の桜の聖地「吉野山」。役行者（えんのぎょうじゃ）が桜の木に彫ったとされる修験道の守護仏、金峯山寺蔵王堂の三尊の青い秘仏「金剛蔵王権現」。源義経と静御前の哀話や後醍醐天皇の南朝悲話が息づく歴史の尾根道。伝統の柿の葉寿司と吉野本葛の滑らかな舌触りを堪能する、世界遺産・吉野ステイへご案内します。
           </p>

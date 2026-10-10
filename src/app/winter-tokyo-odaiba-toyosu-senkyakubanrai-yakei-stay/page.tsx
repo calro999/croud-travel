@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月東京】お台場レインボー花火！名宿5選',
+  title: '11・12・1月東京：お台場レインボー花火！名宿5選',
   description: '冬の東京ベイエリアは、澄み切った澄明な冬空にレインボーブリッジと東京タワーが重なり合う年間最美の夜景シーズン。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: 'お台場 ホテル, 豊洲千客万来 ホテル, お台場レインボー花火, レインボーブリッジ 夜景, ラビスタ東京ベイ, ヒルトン東京お台場, グランドニッコー東京台場, 11月 12月 1月 東京 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tokyo-odaiba-toyosu-senkyakubanrai-yakei-stay/"
   },
   openGraph: {
-    title: '【11・12・1月東京】お台場レインボー花火！名宿5選',
+    title: '11・12・1月東京：お台場レインボー花火！名宿5選',
     description: '冬の東京ベイエリアは、澄み切った澄明な冬空にレインボーブリッジと東京タワーが重なり合う年間最美の夜景シーズン。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-tokyo-odaiba-toyosu-senkyakubanrai-yakei-stay',
     type: 'article',
@@ -246,10 +246,7 @@ export default function TokyoOdaibaToyosuWinterPage() {
             <span>11月・12月・1月冬の東京ベイフロント特選ガイド｜港区台場・江東区豊洲・有明</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            お台場レインボー花火＆豊洲千客万来！<br className="hidden sm:inline" />
-            冬の東京ベイ夜景と江戸前海鮮・天然温泉に寛ぐ名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">お台場レインボー花火＆豊洲千客万来！<br className="hidden sm:inline" /> 冬の東京ベイ夜景と江戸前海鮮・天然温泉に寛ぐ名宿5選</h1>
 
           <p className="max-w-4xl text-sm sm:text-base md:text-lg text-slate-300 leading-relaxed font-normal">
             澄み渡る冬空にレインボーブリッジと東京タワーが眩しく輝く、東京ベイエリア年間最美の季節。12月土曜の夜空を染める「お台場レインボー花火」、2024年誕生の「豊洲千客万来」で味わう市場直送の江戸前寿司や海鮮食べ歩き、そして東京タワーを望む絶景天然温泉。楽天APIから最新取得したお台場・有明・豊洲の極上ホテル5選で、きらめく冬の都市リゾートを満喫しましょう。

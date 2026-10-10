@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月越後湯沢温泉】川端康成ゆかりの名湯！名宿5選',
+  title: '越後湯沢温泉で過ごす冬の旅（11・12月）！川端康成ゆかりの名湯！名宿5選',
   description: '東京から新幹線で最速約70分、川端康成の小説『雪国』の舞台として名高い新潟・越後湯沢温泉。11月の収穫期を祝う日本一の南魚沼産コシヒカリ新米。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '越後湯沢 宿泊 11月 12月, 越後湯沢 温泉 旅館, 南魚沼 コシヒカリ 新米 温泉, 越後湯沢 ぽんしゅ館 地酒, 越後湯沢 雪景色 露天風呂, 越後もち豚 温泉 宿, 越後湯沢 冬 モデルコース',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-niigata-echigo-yuzawa-snow-sake-stay/",
   },
   openGraph: {
-    title: '【11・12月越後湯沢温泉】川端康成ゆかりの名湯！名宿5選',
+    title: '越後湯沢温泉で過ごす冬の旅（11・12月）！川端康成ゆかりの名湯！名宿5選',
     description: '東京から新幹線で最速約70分、川端康成の小説『雪国』の舞台として名高い新潟・越後湯沢温泉。11月の収穫期を祝う日本一の南魚沼産コシヒカリ新米。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-niigata-echigo-yuzawa-snow-sake-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月越後湯沢温泉の雪国情緒と地酒巡り】川端康成ゆかりの名湯・南魚沼産コシヒカリ新米と越後もち豚会席の宿5選",
+    title: "越後湯沢温泉の雪国情緒と地酒巡りで過ごす冬の旅（11・12月）！川端康成ゆかりの名湯・南魚沼産コシヒカリ新米と越後もち豚会席の宿5選",
     description: "東京から新幹線で最速約70分、川端康成の小説『雪国』の舞台として名高い新潟・越後湯沢温泉。11月の収穫期を祝う日本一の南魚沼産コシヒカリ新米と新酒の季節、12月に入ると始まる息をのむ白銀の雪国世界。越後地酒の利き酒や名物日本酒風呂、越後もち豚しゃぶしゃぶに舌鼓を打つ極上の初冬温泉旅ガイド。",
   }
 };
@@ -266,10 +266,7 @@ export default function YuzawaWinterPage() {
             <Snowflake className="w-4 h-4 text-indigo-300" />
             <span>11月・12月限定 雪国名湯・新米コシヒカリと地酒巡り特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月越後湯沢温泉の雪国情緒と地酒巡り】<br className="hidden sm:inline" />
-            川端康成ゆかりの名湯・南魚沼産コシヒカリ新米と越後もち豚会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">越後湯沢温泉の雪国情緒と地酒巡りで過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 川端康成ゆかりの名湯・南魚沼産コシヒカリ新米と越後もち豚会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             「国境の長いトンネルを抜けると雪国であった。」。東京から新幹線で最速約70分。谷川連峰を越えた先に広がる純白の白銀世界。日本一の南魚沼産コシヒカリ新米の甘み、ぽんしゅ館の地酒呑み比べ、柔らかな湯が芯まで温める至福の冬旅へ。
           </p>

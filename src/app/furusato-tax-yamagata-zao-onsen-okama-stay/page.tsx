@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: 'エメラルドの火口湖「御釜」と冬の樹氷スノーモンスター！山形蔵王温泉の乳白色強酸性硫黄泉＆極上山形牛名門宿×ふるさと納税完全攻略ガイド【2026年最新】蔵王国際・四季のホテル・高見屋',
+  title: 'エメラルドの火口湖「御釜」と冬の樹氷スノーモンスター！山形蔵王温泉の乳白色強酸性硫黄泉＆極上山形牛名門宿×ふるさと納税極上旅ガイド蔵王国際・四季のホテル・高見屋',
   description: '開湯千九百年を誇る東北屈指の名湯・山形蔵王温泉！神秘の火口湖「御釜」と大迫力のスノーモンスター（樹氷）。「蔵王国際ホテル」「蔵王四季のホテル」「深山荘 高見屋」を、山形県山形市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。丸太造り八右衛門の湯、乳白色のにごり湯露天風呂、極上山形牛会席を満喫。',
   keywords: ["2026年最新", "蔵王国際", "四季のホテル", "高見屋", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-yamagata-zao-onsen-okama-stay/",
   },
   openGraph: {
-    title: 'エメラルドの火口湖「御釜」と冬の樹氷スノーモンスター！山形蔵王温泉の乳白色強酸性硫黄泉＆極上山形牛名門宿×ふるさと納税完全攻略ガイド【2026年最新】蔵王国際・四季のホテル・高見屋',
+    title: 'エメラルドの火口湖「御釜」と冬の樹氷スノーモンスター！山形蔵王温泉の乳白色強酸性硫黄泉＆極上山形牛名門宿×ふるさと納税極上旅ガイド蔵王国際・四季のホテル・高見屋',
     description: '開湯千九百年を誇る東北屈指の名湯・山形蔵王温泉！神秘の火口湖「御釜」と大迫力のスノーモンスター（樹氷）。「蔵王国際ホテル」「蔵王四季のホテル」「深山荘 高見屋」を、山形県山形市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。丸太造り八右衛門の湯、乳白色のにごり湯露天風呂、極上山形牛会席を満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-yamagata-zao-onsen-okama-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoZaoOnsenOkamaStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           神秘の御釜と乳白色の強酸性硫黄泉！山形県蔵王温泉特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          エメラルドの火口湖「御釜」と冬の樹氷スノーモンスター！山形蔵王温泉の乳白色強酸性硫黄泉＆極上山形牛名門宿×ふるさと納税完全攻略ガイド【2026年最新】蔵王国際・四季のホテル・高見屋
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">エメラルドの火口湖「御釜」と冬の樹氷スノーモンスター！山形蔵王温泉の乳白色強酸性硫黄泉＆極上山形牛名門宿×ふるさと納税極上旅ガイド蔵王国際・四季のホテル・高見屋</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoZaoOnsenOkamaStayPage() {
               ◆2018年雪見露天風呂ランキング全国1位！2016年年間人気温泉宿ランキング♪全国2位！◆
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “母も安心の設備と温泉、食事に大満足初めての蔵王温泉、高齢の母と宿泊しました。すてきなお部屋、かつ手すりなどもあり母も動きやすそうでした。お食事は少なめプランでも十分満足でき、朝夕共に地元のお料理や… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D5723%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoZaoOnsenOkamaStayPage() {
               閑静な森林と湖畔に建つ、風光明媚なオシャレなホテル。◇全館でWi－Fiをご利用いただけます！◇
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “量より質の夕食と親切なスタッフに大満足今回量より質の夕食プランでお願いしました。程よく適量なお食事は、男性でも満足のいくボリュームと豪華さで大満足です。スタッフの皆様もとても親切で、居… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D16423%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoZaoOnsenOkamaStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               ～名湯一門　高見屋～創業300年の歴史を誇る老舗旅館。純和風建築に滞在する非日常の時間。
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “他の画像や”
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

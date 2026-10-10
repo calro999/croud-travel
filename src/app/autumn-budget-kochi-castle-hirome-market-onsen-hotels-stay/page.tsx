@@ -3,11 +3,11 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【秋の高知×格安】高知城の紅葉とひろめ市場のカツオ藁焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選【2026最新】',
+  title: '秋の高知×格安：高知城の紅葉とひろめ市場のカツオ藁焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」',
   description: '追手門と天守が一枚の写真に収まる名城・高知城の秋紅葉と、日曜市・ひろめ市場の戻りカツオ藁焼きタタキ！大浴場やサウナ完備で1泊3,000円〜6,000円台で泊まれる高知市内の格安ホテル5選。サウスブリーズホテル、ホテル高砂などを徹底比較！',
   keywords: '高知 格安 ホテル, 高知 大浴場 サウナ ホテル, 高知城 紅葉, ひろめ市場 カツオのタタキ, サウスブリーズホテル高知海月, ホテル高砂 高知',
   openGraph: {
-    title: '【秋の高知×格安】高知城の紅葉とひろめ市場のカツオ藁焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選【2026最新】',
+    title: '秋の高知×格安：高知城の紅葉とひろめ市場のカツオ藁焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」',
     description: '高知城の紅葉とひろめ市場の戻りカツオ！大浴場付き1泊3,000円〜6,000円台のコスパ最強高知ホテル5選。',
     type: 'article',
     url: 'https://croud-travel.com/autumn-budget-kochi-castle-hirome-market-onsen-hotels-stay',
@@ -32,9 +32,7 @@ export default function KochiBudgetAutumnPage() {
             <span className="px-3 py-1 bg-teal-600 text-white text-xs font-bold rounded-full">格安・四国特集</span>
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">1泊目安: 3,000円台〜6,000円台</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">
-            【秋の高知×格安】高知城の紅葉とひろめ市場のカツオ藁焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の高知×格安」高知城の紅葉とひろめ市場のカツオ藁焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選</h1>
           <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
             現存十二天守の一つ・高知城を包む鮮やかな紅葉と、秋に脂が乗り切った「戻りカツオ」。ひろめ市場で塩タタキと土佐の地酒を豪快に味わい、大浴場で手足を伸ばして寛げる高知の格安宿をご紹介します。
           </p>

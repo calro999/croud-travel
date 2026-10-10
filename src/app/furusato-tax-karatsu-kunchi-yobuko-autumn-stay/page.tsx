@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            唐津くんち（11月国重要無形民俗文化財）の熱気と呼子イカ・唐津湾オーシャンビュー温泉
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">唐津くんち（11月国重要無形民俗文化財）の熱気と呼子イカ・唐津湾オーシャンビュー温泉</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             秋の唐津を彩る絢爛豪華な曳山まつり。玄界灘の絶景露天風呂と呼子の透き通る活イカに感動する秋の佐賀路。
           </p>

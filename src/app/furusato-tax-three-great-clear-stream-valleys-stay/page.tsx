@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-clear-stream-valleys-stay/" },
-  title: '日本三大美林清流渓谷＆エメラルドグリーンの激流と原生林リトリート温泉宿×ふるさと納税完全ガイド【2026年最新】奥入瀬・抱返り・阿寺渓谷',
+  title: '日本三大美林清流渓谷＆エメラルドグリーンの激流と原生林リトリート温泉宿×ふるさと納税厳選ガイド奥入瀬・抱返り・阿寺渓谷',
   description: '苔むす岩とエメラルドブルーの奇跡！青森十和田「奥入瀬渓流」千変万化の滝と星野リゾート奥入瀬渓流ホテル、秋田角館「抱返り渓谷」東北の耶馬渓と称される原生林・川口温泉奥羽山荘、長野木曽路「阿寺渓谷・木曽川」息をのむ透明度の阿寺ブルーとTAOYA木曽路。日本三大美林清流渓谷のマイナスイオンを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大美林渓流・清流絶景特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大美林清流渓谷＆エメラルドグリーンの激流と原生林リトリート温泉宿×ふるさと納税完全ガイド【2026年最新】奥入瀬・抱返り・阿寺渓谷',
+    title: '日本三大美林清流渓谷＆エメラルドグリーンの激流と原生林リトリート温泉宿×ふるさと納税厳選ガイド奥入瀬・抱返り・阿寺渓谷',
     description: '苔むす岩とエメラルドブルーの奇跡！青森十和田「奥入瀬渓流」千変万化の滝と星野リゾート奥入瀬渓流ホテル、秋田角館「抱返り渓谷」東北の耶馬渓と称される原生林・川口温泉奥羽山荘、長野木曽路「阿寺渓谷・木曽川」息をのむ透明度の阿寺ブルーとTAOYA木曽路。日本三大美林清流渓谷のマイナスイオンを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-clear-stream-valleys-stay',
@@ -158,9 +158,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大美林渓流・清流絶景特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大美林清流渓谷＆エメラルドブルー絶景宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大美林清流渓谷＆エメラルドブルー絶景宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             日本を代表する美林と名峰が育み、手つかずの原生美を今に伝える「日本三大美林清流渓谷」――十和田湖から流れ出る14kmの渓流沿いに無数の滝と苔むす奇岩が織りなす青森の「奥入瀬渓流」、玉川の激流が削り出した断崖に青碧の清流が流れ紅葉の名所として知られる秋田角館の「抱返り渓谷」、そして「阿寺ブルー」と称される息をのむほど透明なエメラルドグリーンの水面が木曽ヒノキ美林の谷を流れる長野の「阿寺渓谷（木曽谷）」。渓流沿いの遊歩道を歩き、舞い上がる水煙とマイナスイオンを全身に浴びるひとときは、日々のストレスを根底から洗い流してくれます。渓谷沿いのリゾートホテルや名湯宿で寛ぎ、清流イワナ・青森りんご・秋田比内地鶏・信州牛を味わうリトリート旅を楽天ふるさと納税でお楽しみください。
           </p>

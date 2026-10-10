@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-bihada-onsen-stay/" },
-  title: '日本三大美肌の湯＆とろとろ重曹泉・美肌会席宿×ふるさと納税完全ガイド【2026年最新】嬉野・斐乃上・喜連川',
+  title: '日本三大美肌の湯＆とろとろ重曹泉・美肌会席宿×ふるさと納税厳選ガイド嬉野・斐乃上・喜連川',
   description: '浸かるだけでつるつる美肌！佐賀「嬉野温泉」ナトリウム炭酸水素塩泉の名湯と和多屋別荘、島根奥出雲「斐乃上温泉」pH9.9驚異の高アルカリ単純温泉と奥出雲町サイクリングターミナル、栃木さくら市「喜連川温泉」硫黄・塩分・重曹が織りなす良質な天然温泉とゴルフ＆ホテルベルセルバ。日本三大美肌の湯の極上湯治を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大美肌の湯・極上湯治特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大美肌の湯＆とろとろ重曹泉・美肌会席宿×ふるさと納税完全ガイド【2026年最新】嬉野・斐乃上・喜連川',
+    title: '日本三大美肌の湯＆とろとろ重曹泉・美肌会席宿×ふるさと納税厳選ガイド嬉野・斐乃上・喜連川',
     description: '浸かるだけでつるつる美肌！佐賀「嬉野温泉」ナトリウム炭酸水素塩泉の名湯と和多屋別荘、島根奥出雲「斐乃上温泉」pH9.9驚異の高アルカリ単純温泉と奥出雲町サイクリングターミナル、栃木さくら市「喜連川温泉」硫黄・塩分・重曹が織りなす良質な天然温泉とゴルフ＆ホテルベルセルバ。日本三大美肌の湯の極上湯治を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-bihada-onsen-stay',
@@ -158,9 +158,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大美肌の湯・極上湯治特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大美肌の湯＆とろとろ美肌温泉宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大美肌の湯＆とろとろ美肌温泉宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             日本各地の温泉の中でも、類まれなる美肌効果と高アルカリ・重曹成分で知られる「日本三大美肌の湯」――佐賀県嬉野市の「嬉野温泉」、島根県奥出雲町の「斐乃上温泉」、そして栃木県さくら市の「喜連川温泉」。嬉野温泉はナトリウム炭酸水素塩泉（重曹泉）が皮脂や分泌物を乳化して洗い流し、名物「温泉湯豆腐」でも有名なとろとろの湯。奥出雲の斐乃上温泉はpH9.9を誇る驚異のアルカリ性単純温泉で、肌の古い角質をやさしく落として滑らかなシルク肌へと導きます。喜連川温泉は塩分・硫黄・炭酸水素塩のトリプル美肌成分が角質ケアから保湿・保温までを完璧に整えます。極上の湯浴みと地元食材を活かした美肌会席を、楽天ふるさと納税の宿泊クーポンでお得に堪能しましょう。
           </p>

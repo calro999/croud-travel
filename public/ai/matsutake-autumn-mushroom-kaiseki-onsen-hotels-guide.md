@@ -1,4 +1,4 @@
-# 【秋の味覚 松茸会席】芳醇な香りと歯ごたえを堪能！焼き松茸・土瓶蒸し・松茸ご飯が付く厳選温泉宿
+# 秋の味覚 松茸会席：芳醇な香りと歯ごたえを堪能！焼き松茸・土瓶蒸し・松茸ご飯が付く厳選温泉宿
 
 - URL: https://croud-travel.pages.dev/posts/matsutake-autumn-mushroom-kaiseki-onsen-hotels-guide/
 - 宿泊施設名: 秋の贅沢の代名詞「松茸」尽くしの会席料理。旬の地茸や信州牛・近江牛とともに名湯に癒やされるグルメ旅

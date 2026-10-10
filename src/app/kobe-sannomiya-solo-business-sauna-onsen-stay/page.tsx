@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kobe-sannomiya-solo-business-sauna-onsen-stay/" },
-  title: '【神戸三宮出張・極上サウナステイ】サウナシュラン殿堂の聖地・異人館港町夜景・神戸牛！関西屈指の洗練都市を極める厳選3宿',
+  title: '神戸三宮出張・極上サウナステイ：サウナシュラン殿堂の聖地・異人館港町夜景・神戸牛！関西屈指の洗練都市を極める厳選3宿',
   description: '新神戸駅から地下鉄で1駅、大阪梅田からもJR新快速で21分！日本サウナ界の至宝・フィンランドサウナ＆露天水風呂を誇る「神戸サウナ＆スパ」、ライフスタイル型のお洒落ラウンジと快適ステイの「ザ ロイヤルパーク キャンバス 神戸三宮。」、駅近で抜群の安心感と広々客室を誇る「ダイワロイネットホテル神戸三宮」を徹底比較。',
   keywords: '神戸 三宮 出張 ホテル,神戸 サウナ ホテル,神戸サウナ＆スパ,ザロイヤルパークキャンバス神戸三宮,ダイワロイネットホテル神戸三宮,三宮 サウナ ひとり旅',
   openGraph: {
-    title: '【神戸三宮出張・極上サウナステイ】サウナシュラン殿堂の聖地・異人館港町夜景・神戸牛！関西屈指の洗練都市を極める厳選3宿',
+    title: '神戸三宮出張・極上サウナステイ：サウナシュラン殿堂の聖地・異人館港町夜景・神戸牛！関西屈指の洗練都市を極める厳選3宿',
     description: '新神戸駅から地下鉄で1駅、大阪梅田からもJR新快速で21分！日本サウナ界の至宝・フィンランドサウナ＆露天水風呂を誇る「神戸サウナ＆スパ」、ライフスタイル型のお洒落ラウンジと快適ステイの「ザ ロイヤルパーク キャンバス 神戸三宮。」、駅近で抜群の安心感と広々客室を誇る「ダイワロイネットホテル神戸三宮」を徹底比較。',
     url: 'https://croud-travel.pages.dev/kobe-sannomiya-solo-business-sauna-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【神戸三宮出張・極上サウナステイ】サウナシュラン殿堂の聖地・異人館港町夜景・神戸牛！関西屈指の洗練都市を極める厳選3宿',
+    headline: '神戸三宮出張・極上サウナステイ：サウナシュラン殿堂の聖地・異人館港町夜景・神戸牛！関西屈指の洗練都市を極める厳選3宿',
     description: '新神戸駅から地下鉄で1駅、大阪梅田からもJR新快速で21分！日本サウナ界の至宝・フィンランドサウナ＆露天水風呂を誇る「神戸サウナ＆スパ」、ライフスタイル型のお洒落ラウンジと快適ステイの「ザ ロイヤルパーク キャンバス 神戸三宮。」、駅近で抜群の安心感と広々客室を誇る「ダイワロイネットホテル神戸三宮」を徹底比較。',
     author: {
       '@type': 'Organization',
@@ -72,9 +72,7 @@ export default function ArticlePage() {
         <div className="inline-block bg-amber-700 text-white text-xs font-semibold px-3 py-1 rounded-full mb-3 tracking-wider">
           ひとり旅・出張・サウナ＆名湯特集
         </div>
-        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">
-          【神戸三宮出張・極上サウナステイ】サウナシュラン殿堂の聖地・異人館港町夜景・神戸牛！関西屈指の洗練都市を極める厳選3宿
-        </h1>
+        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">「神戸三宮出張・極上サウナステイ」サウナシュラン殿堂の聖地・異人館港町夜景・神戸牛！関西屈指の洗練都市を極める厳選3宿</h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.13 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-fuji-view-private-open-air-bath-stay/" },
-  title: "【富士山ビュー客室露天風呂の宿】河口湖・箱根・日本平＆霊峰パノラマ 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "富士山ビュー客室露天風呂の宿：河口湖・箱根・日本平＆霊峰パノラマ 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "客室の湯船から富士山を独り占め！河口湖畔の逆さ富士、箱根芦ノ湖畔の富士山ビュー露天、静岡日本平の駿河湾＆富士山大パノラマ、記念日・特別な日に泊まりたい絶景温泉旅館を徹底解説。",
   keywords: ["富士山ビュー客室露天風呂の宿", "河口湖", "箱根", "日本平", "霊峰パノラマ", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function ScenicViewHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             FUJI VIEW & PRIVATE ONSEN GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【富士山ビュー客室露天風呂の宿】河口湖・箱根・日本平＆霊峰パノラマ 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「富士山ビュー客室露天風呂の宿」河口湖・箱根・日本平＆霊峰パノラマ 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             湯船に身を沈め、湯けむりの向こうにそびえる雄大な霊峰「富士山」。河口湖の水面に映る「逆さ富士」、芦ノ湖の青い水越しに仰ぐ雪化粧の富士、駿河湾の彼方に浮かぶ夕暮れの富士。日本一の絶景を独占する至福の客室露天風呂へ。
           </p>

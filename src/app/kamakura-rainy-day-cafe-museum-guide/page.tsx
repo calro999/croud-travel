@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kamakura-rainy-day-cafe-museum-guide/" },
-  title: "【鎌倉・江の島 雨の日の過ごし方】しっとり濡れる古刹・小町通りアーケード・新江ノ島水族館デート",
+  title: "鎌倉・江の島 雨の日の過ごし方：しっとり濡れる古刹・小町通りアーケード・新江ノ島水族館デート",
   description:
     "雨の日こそ風情が増す古都・鎌倉！雨滴が光る長谷寺や一条恵観山荘、屋根付き小町通り食べ歩き、大水槽に癒やされる新江ノ島水族館、オーシャンビュー客室で過ごす贅沢雨の日プラン。",
   keywords: ["鎌倉", "江の島", "雨の日の過ごし方", "しっとり濡れる古刹", "小町通りアーケード", "新江ノ島水族館デート", "温泉宿"],
@@ -151,13 +151,7 @@ export default function KamakuraRainyDayCafeMuseumPage() {
             雨の日デート・古刹散歩・えのすい完全ガイド
           </div>
 
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">
-            【鎌倉・江の島 雨の日の過ごし方】
-            <br />
-            <span className="bg-gradient-to-r from-indigo-200 via-violet-300 to-sky-200 bg-clip-text text-transparent">
-              しっとり濡れる古刹・小町通りアーケード・新江ノ島水族館デート
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">「鎌倉・江の島 雨の日の過ごし方」 <br /> <span className="bg-gradient-to-r from-indigo-200 via-violet-300 to-sky-200 bg-clip-text text-transparent"> しっとり濡れる古刹・小町通りアーケード・新江ノ島水族館デート </span></h1>
 
           <p className="text-indigo-200 text-sm sm:text-base leading-relaxed max-w-3xl mx-auto mb-8">
             「雨の日の鎌倉はどこに行けばいい？」と迷ったら、雨露に濡れて一層鮮やかさを増す庭園や、雨宿りにぴったりの屋根付き商店街、そして天候を一切気にせず幻想世界に浸れる新江ノ島水族館へ。古都の情緒と湘南の海辺リゾートが融合した、雨の日ならではの極上デートプランをご案内します。

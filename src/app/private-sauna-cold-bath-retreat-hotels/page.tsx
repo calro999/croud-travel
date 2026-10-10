@@ -180,9 +180,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            澄んだ冬空の下で極上の外気浴！完全貸切プライベートサウナ＆天然水風呂完備ホテル
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">澄んだ冬空の下で極上の外気浴！完全貸切プライベートサウナ＆天然水風呂完備ホテル</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             サウナーなら誰もが憧れる、自然の中での完全プライベートサウナ。セルフロウリュで熱波を満喫した後は、天然の湧水掛け流し水風呂に身を沈め、澄み渡る冬空と大自然の風を浴びながらインフィニティチェアで外気浴。五感が研ぎ澄まされる本格サウナステイを提案します。
           </p>

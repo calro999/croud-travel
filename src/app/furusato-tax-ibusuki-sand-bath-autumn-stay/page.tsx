@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            世界唯一の天然砂むし温泉「指宿温泉」＆薩摩の小京都「知覧武家屋敷」紅葉・鹿児島黒豚黒牛
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">世界唯一の天然砂むし温泉「指宿温泉」＆薩摩の小京都「知覧武家屋敷」紅葉・鹿児島黒豚黒牛</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             錦江湾の波音を聞きながら砂むし温泉でととのう。知覧の美しい庭園紅葉と極上鹿児島黒豚を味わう南薩摩の休日。
           </p>

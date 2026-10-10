@@ -1,4 +1,4 @@
-# 【ホテルサザンヴィレッジ沖縄（Okinawa）】快適客室と温かいおもてなしガイドを満喫する旅ガイド（southern-village-okinawa-guide）
+# ホテルサザンヴィレッジ沖縄（Okinawa）：快適客室と温かいおもてなしガイドを満喫する旅ガイド（southern-village-okinawa-guide）
 
 - URL: https://croud-travel.pages.dev/posts/southern-village-okinawa-guide/
 - 宿泊施設名: ホテルサザンヴィレッジ沖縄（Okinawa）

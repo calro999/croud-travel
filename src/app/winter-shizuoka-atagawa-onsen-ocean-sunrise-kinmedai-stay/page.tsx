@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月熱川温泉】名物地金目鯛姿煮！名宿5選',
+  title: '熱川温泉で過ごす冬の旅（11・12月）！名物地金目鯛姿煮！名宿5選',
   description: '11月から12月にかけて、伊豆半島東海岸の熱川温泉（あたがわおんせん）は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '熱川温泉 宿泊, 熱川プリンスホテル, 熱川館, ホテルカターラ, 熱川ハイツ, 吉祥CAREN, 地金目鯛姿煮, 水平線日の出 11月 12月, 伊豆牛, 東伊豆',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shizuoka-atagawa-onsen-ocean-sunrise-kinmedai-stay/"
   },
   openGraph: {
-    title: '【11・12月熱川温泉】名物地金目鯛姿煮！名宿5選',
+    title: '熱川温泉で過ごす冬の旅（11・12月）！名物地金目鯛姿煮！名宿5選',
     description: '11月から12月にかけて、伊豆半島東海岸の熱川温泉（あたがわおんせん）は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-atagawa-onsen-ocean-sunrise-kinmedai-stay',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -220,12 +220,7 @@ export default function WinterShizuokaAtagawaPage() {
             11月・12月 湯けむり＆日の出オーシャンビュー特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月静岡・熱川温泉】湯けむりと水平線日の出露天
-            <span className="block text-teal-300 text-lg sm:text-2xl mt-3 font-normal">
-              名物地金目鯛姿煮＆伊豆牛石焼きステーキを満喫するオーシャンビュー名宿5選
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">静岡・熱川温泉で過ごす冬の旅（11・12月）！湯けむりと水平線日の出露天 <span className="block text-teal-300 text-lg sm:text-2xl mt-3 font-normal"> 名物地金目鯛姿煮＆伊豆牛石焼きステーキを満喫するオーシャンビュー名宿5選 </span></h1>
 
           <p className="text-sm sm:text-base text-slate-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、東伊豆の熱川温泉は約100度の高温泉が噴き出す温泉櫓から白い湯けむりが街一面に立ち込める初冬の温泉情緒に包まれます。相模灘と伊豆大島の水平線から昇る神々しい日の出を望む絶景露天風呂、温泉玉子作りや足湯散策。そして脂が乗り切った東伊豆名物「地金目鯛」のこってり姿煮やしゃぶしゃぶ、伊豆牛ステーキを心ゆくまで堪能する厳選オーシャンビュー名宿5選を徹底解説します。

@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '神降ちる清流と穂高連峰の絶景！上高地の大正池・梓川温泉＆本格山岳フレンチ名宿×ふるさと納税完全攻略ガイド【2026年最新】ルミエスタ・大正池ホテル・上高地温泉ホテル',
+  title: '神降ちる清流と穂高連峰の絶景！上高地の大正池・梓川温泉＆本格山岳フレンチ名宿×ふるさと納税極上旅ガイドルミエスタ・大正池ホテル・上高地温泉ホテル',
   description: '日本屈指の山岳景勝地・長野県上高地！河童橋、大正池、エメラルドに輝く梓川と穂高連峰のパノラマ。「上高地ルミエスタホテル」「上高地大正池ホテル」「上高地温泉ホテル」を、長野県松本市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。自家源泉天然温泉、朝霧の大正池、極上フレンチフルコースを満喫。',
   keywords: ["梓川温泉", "2026年最新", "ルミエスタ", "大正池ホテル", "上高地温泉ホテル", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kamikochi-japan-alps-resort-stay/",
   },
   openGraph: {
-    title: '神降ちる清流と穂高連峰の絶景！上高地の大正池・梓川温泉＆本格山岳フレンチ名宿×ふるさと納税完全攻略ガイド【2026年最新】ルミエスタ・大正池ホテル・上高地温泉ホテル',
+    title: '神降ちる清流と穂高連峰の絶景！上高地の大正池・梓川温泉＆本格山岳フレンチ名宿×ふるさと納税極上旅ガイドルミエスタ・大正池ホテル・上高地温泉ホテル',
     description: '日本屈指の山岳景勝地・長野県上高地！河童橋、大正池、エメラルドに輝く梓川と穂高連峰のパノラマ。「上高地ルミエスタホテル」「上高地大正池ホテル」「上高地温泉ホテル」を、長野県松本市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。自家源泉天然温泉、朝霧の大正池、極上フレンチフルコースを満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kamikochi-japan-alps-resort-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoKamikochiLuxuryStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           神々が宿る日本最高峰の山岳リゾート！長野県上高地特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          神降ちる清流と穂高連峰の絶景！上高地の大正池・梓川温泉＆本格山岳フレンチ名宿×ふるさと納税完全攻略ガイド【2026年最新】ルミエスタ・大正池ホテル・上高地温泉ホテル
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">神降ちる清流と穂高連峰の絶景！上高地の大正池・梓川温泉＆本格山岳フレンチ名宿×ふるさと納税極上旅ガイドルミエスタ・大正池ホテル・上高地温泉ホテル</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoKamikochiLuxuryStayPage() {
               天然温泉源泉100％掛け流しのお風呂と、本格的なフランス料理をお楽しみいただけます
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “新婚旅行で大満足、スタッフの対応と料理が最高新婚旅行で利用したが、とっても良かった!スタッフさんが一から丁寧にせつめいしてくれたり、夜行バスで到着しメイクしたい私のために、温泉やトイレを案内してく… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D72775%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoKamikochiLuxuryStayPage() {
               上高地の玄関口大正池のほとり唯一の宿。神秘的な大正池の朝や夕方の写真撮影、上高地の散策の拠点に最適。
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “雨の大正池も風情があり、食事も美味雨が降っていたので残念でしたが、部屋の窓から見える雨の大正池も良かったです。次は晴れてる時に泊まりたいです。夕食も朝食も美味しかったです。クチコミ… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D129679%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoKamikochiLuxuryStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               創業明治１９年、標高１５００メートル自家源泉かけ流しの宿
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “140年の歴史と趣、絶品料理と温泉に癒やされる高校の修学旅行以来、約40年ぶりに訪れました。新しいホテルと比べると建物の古さは否めませんが、その分、140年の歴史と趣を感じることができ、とても… ”
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

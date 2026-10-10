@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            飛騨古川の白壁土蔵街と新穂高ロープウェイ！奥飛騨温泉郷の紅葉露天・最高級飛騨牛を味わう秋旅
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">飛騨古川の白壁土蔵街と新穂高ロープウェイ！奥飛騨温泉郷の紅葉露天・最高級飛騨牛を味わう秋旅</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             北アルプスを仰ぐ雲上の大紅葉と、飛騨の匠が遺した城下町・名湯奥飛騨の湯けむり
           </p>

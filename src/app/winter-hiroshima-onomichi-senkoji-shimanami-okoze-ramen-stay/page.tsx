@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月広島】千光寺新春開運初詣！名宿5選',
+  title: '11・12・1月広島：千光寺新春開運初詣！名宿5選',
   description: '冬の広島・尾道は、箱庭のような尾道水道と島々のシルエットが夕日に黄金色に染まる年間最高峰の絶景シーズン。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '尾道 ホテル, 千光寺 初詣, 尾道水道 夕景, 尾道ラーメン, オコゼ 尾道, しまなみ海道 冬, グリーンヒルホテル尾道, HOTEL CYCLE, 11月 12月 1月 広島 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hiroshima-onomichi-senkoji-shimanami-okoze-ramen-stay/"
   },
   openGraph: {
-    title: '【11・12・1月広島】千光寺新春開運初詣！名宿5選',
+    title: '11・12・1月広島：千光寺新春開運初詣！名宿5選',
     description: '冬の広島・尾道は、箱庭のような尾道水道と島々のシルエットが夕日に黄金色に染まる年間最高峰の絶景シーズン。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-hiroshima-onomichi-senkoji-shimanami-okoze-ramen-stay',
     type: 'article',
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月広島】尾道水道の夕景＆千光寺新春開運初詣！瀬戸内の旬魚オコゼ・穴子と名物尾道ラーメンを味わう名宿5選",
+    title: "11・12・1月広島：尾道水道の夕景＆千光寺新春開運初詣！瀬戸内の旬魚オコゼ・穴子と名物尾道ラーメンを味わう名宿5選",
     description: "冬の広島・尾道は、箱庭のような尾道水道と島々のシルエットが夕日に黄金色に染まる年間最高峰の絶景シーズン。大同元年（806年）開基の古刹「千光寺」での新春開運初詣と玉の岩の伝説、尾道最古の艮神社や風情ある坂の小路散策。冬に最も脂が乗る瀬戸内の高級魚オコゼの薄造りや唐揚げ、冬の寒穴子、本場の熱々尾道ラーメンや名産生口島レモン。海運倉庫を再生した話題のデザインホテルから尾道水道一望の絶景宿、天然温泉まで厳選名宿5選を徹底解説します。"
   }
 };
@@ -229,10 +229,7 @@ export default function HiroshimaOnomichiSenkojiPage() {
             <Snowflake className="w-4 h-4 text-cyan-300" />
             11月・12月・1月冬の特選旅｜広島・尾道＆しまなみ海道
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">
-            尾道水道の夕景＆千光寺新春開運初詣！<br className="hidden sm:inline" />
-            瀬戸内の旬魚オコゼ・穴子と名物尾道ラーメンの名宿5選
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">尾道水道の夕景＆千光寺新春開運初詣！<br className="hidden sm:inline" /> 瀬戸内の旬魚オコゼ・穴子と名物尾道ラーメンの名宿5選</h1>
           <p className="text-base sm:text-lg text-slate-200/90 leading-relaxed max-w-4xl mb-8">
             箱庭のように美しい瀬戸内の海と島々を抱く坂の街・尾道。空気が最も澄み切る冬期は、夕日に黄金色に輝く尾道水道の絶景が息をのむ美しさを放ちます。大同元年開基の古刹「千光寺」での清々しい新春初詣、尾道最古の艮神社と坂道の路地巡り。そして冬に極上の脂を蓄える高級白身魚オコゼや寒穴子、冷えた身体に染み渡る本場尾道ラーメン。歴史ある港町の情緒と感性を刺激する厳選名宿をご案内します。
           </p>

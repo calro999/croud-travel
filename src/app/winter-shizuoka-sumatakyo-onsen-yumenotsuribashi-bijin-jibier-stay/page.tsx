@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月静岡】南アルプス秘境「夢の吊橋」冬！名宿5選',
+  title: '11・12・1月静岡：南アルプス秘境「夢の吊橋」冬！名宿5選',
   description: '11月から1月、静岡県川根本町の奥大井・寸又峡は、大間ダム湖が年間で最も冴え渡るミルキーブルーに輝く「夢の吊橋」の絶景シーズン。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '夢の吊橋, 寸又峡温泉, 美女づくりの湯, 翠紅苑, 川根温泉ホテル, 湯屋飛龍の宿, 奥大井湖上駅, 大井川鐵道, 猪鍋, 11月 12月 1月 静岡旅行, 川根本町',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shizuoka-sumatakyo-onsen-yumenotsuribashi-bijin-jibier-stay/"
   },
   openGraph: {
-    title: '【11・12・1月静岡】南アルプス秘境「夢の吊橋」冬！名宿5選',
+    title: '11・12・1月静岡：南アルプス秘境「夢の吊橋」冬！名宿5選',
     description: '11月から1月、静岡県川根本町の奥大井・寸又峡は、大間ダム湖が年間で最も冴え渡るミルキーブルーに輝く「夢の吊橋」の絶景シーズン。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-sumatakyo-onsen-yumenotsuribashi-bijin-jibier-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月静岡】南アルプス秘境「夢の吊橋」冬のコバルトブルー・とろとろ美女づくりの湯＆冬の猪鍋・大井川鐵道名湯宿5選",
+    title: "11・12・1月静岡：南アルプス秘境「夢の吊橋」冬のコバルトブルー・とろとろ美女づくりの湯＆冬の猪鍋・大井川鐵道名湯宿5選",
     description: "11月から1月、静岡県川根本町の奥大井・寸又峡は、大間ダム湖が年間で最も冴え渡るミルキーブルーに輝く「夢の吊橋」の絶景シーズン。美容液のように肌を包み込む名湯「美女づくりの湯（寸又峡温泉）」、南アルプスの大自然が育んだ熱々の郷土料理「猪鍋（ししなべ）」、大井川鐵道のアプト式鉄道と奥大井湖上駅の冬景色。秘境の冬を心ゆくまで堪能する厳選名宿5選とモデルコースを徹底ガイドします。",
     images: ['https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80']
   }
@@ -42,7 +42,7 @@ export default function ShizuokaSumatakyoOnsenWinterPage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: "【11・12・1月静岡】南アルプス秘境「夢の吊橋」冬のコバルトブルー・とろとろ美女づくりの湯＆冬の猪鍋・大井川鐵道名湯宿5選",
+    headline: "11・12・1月静岡：南アルプス秘境「夢の吊橋」冬のコバルトブルー・とろとろ美女づくりの湯＆冬の猪鍋・大井川鐵道名湯宿5選",
     description: "11月から1月、静岡県川根本町の奥大井・寸又峡は、大間ダム湖が年間で最も冴え渡るミルキーブルーに輝く「夢の吊橋」の絶景シーズン。美容液のように肌を包み込む名湯「美女づくりの湯（寸又峡温泉）」、南アルプスの大自然が育んだ熱々の郷土料理「猪鍋（ししなべ）」、大井川鐵道のアプト式鉄道と奥大井湖上駅の冬景色。秘境の冬を心ゆくまで堪能する厳選名宿5選とモデルコースを徹底ガイドします。",
     image: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
     datePublished: '',
@@ -282,9 +282,7 @@ export default function ShizuokaSumatakyoOnsenWinterPage() {
             <Waves className="w-4 h-4 text-teal-300" />
             11月・12月・1月 冬の静岡・寸又峡夢の吊橋＆美女づくりの湯特集
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【11・12・1月静岡】南アルプス秘境「夢の吊橋」冬のコバルトブルー・とろとろ美女づくりの湯＆冬の猪鍋・大井川鐵道名湯宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「11・12・1月静岡」南アルプス秘境「夢の吊橋」冬のコバルトブルー・とろとろ美女づくりの湯＆冬の猪鍋・大井川鐵道名湯宿5選</h1>
           <p className="text-slate-300 text-sm sm:text-base md:text-lg max-w-3xl leading-relaxed">
             南アルプスの深き懐、大間ダム湖に架かる奇跡の絶景「夢の吊橋」。冬晴れの日差しを受け、年間で最も澄み切った鮮烈なミルキーブルーに輝く水面。肌に吸い付くようにとろとろのアルカリ硫黄泉「美女づくりの湯」と、天然猪肉を秘伝味噌で煮込む冬の熱々「猪鍋」。大井川鐵道のSL列車と湖上に浮かぶ秘境駅。奥大井の冬の静寂と温もりに抱かれる名宿ステイをお届けします。
           </p>

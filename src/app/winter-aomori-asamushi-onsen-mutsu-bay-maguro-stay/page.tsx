@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月浅虫温泉】津軽海峡冬本マグロ！名宿5選',
+  title: '浅虫温泉で過ごす冬の旅（11・12月）！津軽海峡冬本マグロ！名宿5選',
   description: '11月から12月にかけて青森の奥座敷「浅虫温泉」は、初冠雪を戴く八甲田連峰を背に。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '浅虫温泉 宿泊, 浅虫温泉 11月 12月, 海扇閣 浅虫, 浅虫さくら観光ホテル, 椿館 浅虫, 割烹旅館さつき, 辰巳館 浅虫, 津軽海峡マグロ 宿, 陸奥湾ホタテ, 津軽三味線 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay/"
   },
   openGraph: {
-    title: '【11・12月浅虫温泉】津軽海峡冬本マグロ！名宿5選',
+    title: '浅虫温泉で過ごす冬の旅（11・12月）！津軽海峡冬本マグロ！名宿5選',
     description: '11月から12月にかけて青森の奥座敷「浅虫温泉」は、初冠雪を戴く八甲田連峰を背に。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -280,10 +280,7 @@ export default function AsamushiOnsenWinterFeature() {
             <Snowflake className="w-4 h-4" />
             11月・12月 冬の極上名湯特集｜青森・浅虫温泉
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月青森・浅虫温泉】<br className="hidden sm:inline" />
-            初冬陸奥湾絶景と開湯千二百年名湯・津軽海峡冬マグロ＆津軽三味線の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">青森・浅虫温泉で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 初冬陸奥湾絶景と開湯千二百年名湯・津軽海峡冬マグロ＆津軽三味線の宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             平安開湯の歴史を誇る青森の奥座敷。初冬の陸奥湾パノラマと湯の島を仰ぎ、津軽海峡冬本マグロや肉厚活ホタテ、心揺さぶる津軽三味線の響きに酔いしれる北国の情熱温泉旅。
           </p>

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/winter-ski-snowboard-resort/" },
-  title: '【冬のスキー・スノボ】ゲレンデ直結！名宿5選',
+  title: '冬のスキー・スノボ：ゲレンデ直結！名宿5選',
   description: 'パウダースノーと極上温泉！北海道ニセコ、長野白馬八方尾根、新潟越後湯沢、山形蔵王温泉など。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: ["冬のスキー", "スノボ", "ゲレンデ直結", "極上温泉リゾート", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
@@ -98,9 +98,7 @@ export default function SeasonalFeaturePage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             SKI & SNOWBOARD RESORT
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【冬のスキー・スノボ】ゲレンデ直結＆極上温泉リゾート 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「冬のスキー・スノボ」ゲレンデ直結＆極上温泉リゾート 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             世界中からスキーヤーが集まる極上のパウダースノー。スキーやスノーボードを1日中満喫した後は、冷えた体を温める源泉かけ流し温泉と温かいご当地鍋料理で至福のステイを。
           </p>

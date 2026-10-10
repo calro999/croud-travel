@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月富山氷見温泉郷】寒ブリづくし会席！名宿5選',
+  title: '富山氷見温泉郷で過ごす冬の旅（11・12月）！寒ブリづくし会席！名宿5選',
   description: '11月下旬から12月にかけて富山湾で水揚げのピークを迎える冬の味覚の王様「ひみ寒ぶり」と、海越しに白銀の3,000m級立山連峰を望む富山県・氷見温泉郷。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '氷見温泉 宿泊, 氷見 11月 12月, ひみ寒ぶり宣言, 寒ブリ ブリしゃぶ, 立山連峰 絶景, くつろぎの宿 うみあかり, 永芳閣, 磯はなび, イミグレ, 民宿 叶, 氷見牛, 富山 温泉 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-toyama-himi-onsen-kanburi-tateyama-himi-beef-stay/",
   },
   openGraph: {
-    title: '【11・12月富山氷見温泉郷】寒ブリづくし会席！名宿5選',
+    title: '富山氷見温泉郷で過ごす冬の旅（11・12月）！寒ブリづくし会席！名宿5選',
     description: '11月下旬から12月にかけて富山湾で水揚げのピークを迎える冬の味覚の王様「ひみ寒ぶり」と、海越しに白銀の3,000m級立山連峰を望む富山県・氷見温泉郷。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-toyama-himi-onsen-kanburi-tateyama-himi-beef-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月富山氷見温泉郷のひみ寒ぶりと雪化粧立山連峰】海越しの白銀絶景露天風呂・極上氷見牛＆寒ブリづくし会席の宿5選",
+    title: "富山氷見温泉郷のひみ寒ぶりと雪化粧立山連峰で過ごす冬の旅（11・12月）！海越しの白銀絶景露天風呂・極上氷見牛＆寒ブリづくし会席の宿5選",
     description: "11月下旬から12月にかけて富山湾で水揚げのピークを迎える冬の味覚の王様「ひみ寒ぶり」と、海越しに白銀の3,000m級立山連峰を望む富山県・氷見温泉郷。冷え込んだ早朝に富山湾から立ち上る幻想的な「気嵐（けあらし）」、太古の化石海水を湛えた美肌と保温の強塩泉露天風呂、脂が乗った極上の寒ブリ刺身・ブリしゃぶ・ブリ大根、希少な黒毛和牛「氷見牛」のステーキを心ゆくまで堪能する名宿5選を徹底解説。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80'],
   }
@@ -298,10 +298,7 @@ export default function HimiOnsenWinterPage() {
             <Fish className="w-4 h-4 text-cyan-400" />
             <span>11月・12月開幕 旬の「ひみ寒ぶり宣言」と海越し雪化粧立山連峰の絶景</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月富山氷見温泉郷のひみ寒ぶりと雪化粧立山連峰】<br className="hidden sm:inline" />
-            海越しの白銀絶景露天風呂・極上氷見牛＆寒ブリづくし会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">富山氷見温泉郷のひみ寒ぶりと雪化粧立山連峰で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 海越しの白銀絶景露天風呂・極上氷見牛＆寒ブリづくし会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-slate-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             富山湾を望む波打ち際で、海上に浮かぶ白銀の立山連峰に息をのむ。身体の芯まで温める強塩泉の名湯、脂が極限まで乗った本場「ひみ寒ぶり」の刺身とブリしゃぶ、幻の氷見牛を味わい尽くす冬の贅沢旅。
           </p>

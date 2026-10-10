@@ -114,9 +114,7 @@ export default function SitemapPage() {
         <div className="inline-block text-[10px] font-extrabold tracking-widest bg-white/20 border border-white/30 px-3.5 py-1 rounded-full uppercase">
           MAP & NAVIGATION 🗺️
         </div>
-        <h1 className="text-2xl md:text-4xl font-black font-journal-serif leading-snug">
-          サイトマップ（全ページ・特集ハブ・記事一覧）
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-black font-journal-serif leading-snug">サイトマップ（全ページ・特集ハブ・記事一覧）</h1>
         <p className="text-emerald-100/90 text-xs md:text-sm max-w-3xl leading-relaxed font-medium">
           「日本全国・旅宿クラウド」の全ページを階層別に網羅した公式ナビゲーションです。47都道府県・主要市町村・観光名所ガイド、目的別テーマ特集ハブ（全{featureHubs.length}テーマ）、および徹底比較ルポ記事（全{posts.length}件）へ素早くアクセスできます。
         </p>

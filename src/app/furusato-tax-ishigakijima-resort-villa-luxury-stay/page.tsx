@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: 'エメラルドグリーンの海と満天の星！石垣島の天然ビーチ直結リゾート＆赤瓦プライベートヴィラ×ふるさと納税完全攻略ガイド【2026年最新】フサキ・ANAインターコンチネンタル・グランヴィリオ',
+  title: 'エメラルドグリーンの海と満天の星！石垣島の天然ビーチ直結リゾート＆赤瓦プライベートヴィラ×ふるさと納税極上旅ガイドフサキ・ANAインターコンチネンタル・グランヴィリオ',
   description: '日本屈指の南国アイランド・沖縄県石垣島！エメラルドの川平湾、八重山諸島の絶景パノラマ。「フサキビーチリゾート」「ANAインターコンチネンタル石垣リゾート。」「グランヴィリオリゾート石垣島」を、沖縄県石垣市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。天然ビーチ直結、県内最大級ウォータースライダー、石垣牛ステーキを満喫。',
   keywords: ["2026年最新", "フサキ", "ANAインターコンチネンタル", "グランヴィリオ", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-ishigakijima-resort-villa-luxury-stay/",
   },
   openGraph: {
-    title: 'エメラルドグリーンの海と満天の星！石垣島の天然ビーチ直結リゾート＆赤瓦プライベートヴィラ×ふるさと納税完全攻略ガイド【2026年最新】フサキ・ANAインターコンチネンタル・グランヴィリオ',
+    title: 'エメラルドグリーンの海と満天の星！石垣島の天然ビーチ直結リゾート＆赤瓦プライベートヴィラ×ふるさと納税極上旅ガイドフサキ・ANAインターコンチネンタル・グランヴィリオ',
     description: '日本屈指の南国アイランド・沖縄県石垣島！エメラルドの川平湾、八重山諸島の絶景パノラマ。「フサキビーチリゾート」「ANAインターコンチネンタル石垣リゾート。」「グランヴィリオリゾート石垣島」を、沖縄県石垣市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。天然ビーチ直結、県内最大級ウォータースライダー、石垣牛ステーキを満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-ishigakijima-resort-villa-luxury-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoIshigakijimaLuxuryStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           八重山の豊かな大自然と美ら海！沖縄県石垣島特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          エメラルドグリーンの海と満天の星！石垣島の天然ビーチ直結リゾート＆赤瓦プライベートヴィラ×ふるさと納税完全攻略ガイド【2026年最新】フサキ・ANAインターコンチネンタル・グランヴィリオ
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">エメラルドグリーンの海と満天の星！石垣島の天然ビーチ直結リゾート＆赤瓦プライベートヴィラ×ふるさと納税極上旅ガイドフサキ・ANAインターコンチネンタル・グランヴィリオ</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoIshigakijimaLuxuryStayPage() {
               【楽天トラベルアワード受賞】島内随一の天然ビーチとプールエリアで極上の休日を
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “プールや大浴場に近く、食事も美味しく大満足スタンダードヴィラでしたが、プールや大浴場、フロントにも近く、大変便利でした。水着はベランダに干せました。大浴場は子供連れで混んでいたので、部屋でサッ… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D38599%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoIshigakijimaLuxuryStayPage() {
               豊かな自然と文化が根付いた島で、心の琴線に触れる出会いと発見に満ちた、ラグジュアリーリゾート
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “サービスも食事も大満足の素晴らしい内容サービス、ご飯も大満足でした! ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D1973%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoIshigakijimaLuxuryStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               オーシャンズウィングとヴィラガーデン　趣の異なる２つの宿泊エリアと充実の施設が魅力的な南国リゾート
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “家族旅行でゆったり過ごせた最高の思い出毎年恒例の夏の旅行に初めての石垣島!そして息子が高校3年できっと最後になるであろう家族揃っての旅行を計画し、今回はヴィラタイプを選びました。ウェルカムドリンク… ”
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

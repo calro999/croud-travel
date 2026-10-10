@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '動物とのふれあい体験＆高原観光牧場リゾート名門ホテル×ふるさと納税完全ガイド【2026年最新】那須高原・トマム・阿蘇',
+  title: '動物とのふれあい体験＆高原観光牧場リゾート名門ホテル×ふるさと納税厳選ガイド那須高原・トマム・阿蘇',
   description: '広大な大自然と動物たちに癒やされる高原バカンス！那須南ヶ丘牧場や千本松牧場に隣接し巨大温泉スパとバイキングを誇る「那須温泉 ホテルサンバレー那須」、北海道の広大なファームエリアで羊や牛と過ごす最高峰リゾート「星野リゾート リゾナーレトマム」、阿蘇の大草原放牧と阿蘇五岳を望む展望露天風呂が自慢の「阿蘇内牧温泉 阿蘇プラザホテル」。新鮮な搾りたてミルクやチーズ、乗馬体験を楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
   keywords: ["動物とのふれあい体験", "2026年最新", "那須高原", "トマム", "阿蘇", "温泉宿", "宿泊予約"],
   alternates: { canonical: baseUrl + '/furusato-tax-highland-ranch-farm-resort-hotel-stay/' },
   openGraph: {
-    title: '動物とのふれあい体験＆高原観光牧場リゾート名門ホテル×ふるさと納税完全ガイド【2026年最新】那須高原・トマム・阿蘇',
+    title: '動物とのふれあい体験＆高原観光牧場リゾート名門ホテル×ふるさと納税厳選ガイド那須高原・トマム・阿蘇',
     description: '広大な大自然と動物たちに癒やされる高原バカンス！那須南ヶ丘牧場や千本松牧場に隣接し巨大温泉スパとバイキングを誇る「那須温泉 ホテルサンバレー那須」、北海道の広大なファームエリアで羊や牛と過ごす最高峰リゾート「星野リゾート リゾナーレトマム」、阿蘇の大草原放牧と阿蘇五岳を望む展望露天風呂が自慢の「阿蘇内牧温泉 阿蘇プラザホテル」。新鮮な搾りたてミルクやチーズ、乗馬体験を楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
     url: baseUrl + '/furusato-tax-highland-ranch-farm-resort-hotel-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoHighlandRanchFarmStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             高原観光牧場＆ふれあいファームリゾート特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            動物とのふれあい体験＆高原観光牧場リゾート名門ホテル×ふるさと納税完全ガイド【2026年最新】那須高原・トマム・阿蘇
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">動物とのふれあい体験＆高原観光牧場リゾート名門ホテル×ふるさと納税厳選ガイド那須高原・トマム・阿蘇</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             都会のビル群を抜け出し、涼やかな風が吹き抜ける広大な高原牧場へ。澄み切った青空と緑の絨毯がどこまでも広がるファームエリアでは、のんびりと過ごす乳牛や羊、愛らしい馬やアルパカたちとのふれあいが待っています。搾りたての新鮮な生乳から作られる濃厚なソフトクリームや自家製チーズ、バター作り体験、緑の小径を進むホーストレッキング（乗馬体験）など、子どもから大人まで笑顔になれるアクティビティが満載です。全国有数の酪農地帯・那須高原で「南ヶ丘牧場」や「那須りんどう湖ファミリー牧場」への拠点となり、多彩な泉質の名湯スパと豪華バイキングを楽しめる「那須温泉 ホテルサンバレー那須」、約100ヘクタールもの広大な「ファーム星野」を有し、牧草ベッドや羊とお昼寝できる北海道最高峰のリゾート「星野リゾート リゾナーレトマム」、そして世界最大級のカルデラ・阿蘇の大草原で放牧の風景を眺め、阿蘇五岳を一望する絶景露天風呂を誇る「阿蘇内牧温泉 阿蘇プラザホテル」。大自然の中で命の温もりに触れるファーム体験リゾートを、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を使って実質2,000円で賢く予約し、爽快な高原リフレッシュ旅へ出かけましょう。
           </p>

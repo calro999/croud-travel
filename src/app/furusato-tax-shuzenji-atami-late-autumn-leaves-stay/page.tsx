@@ -4,14 +4,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '日本一遅い紅葉を愛でる！伊豆修善寺竹林の小径＆熱海梅園もみじまつり名門旅館×ふるさと納税完全ガイド【2026年最新秋旅】静岡 | 旅宿クラウド',
+  title: '日本一遅い紅葉を愛でる！伊豆修善寺竹林の小径＆熱海梅園もみじまつり名門旅館×ふるさと納税厳選ガイド静岡 | 旅宿クラウド',
   description: '11月中旬〜12月上旬に見頃を迎える「日本一遅い紅葉名所」伊豆修善寺温泉（竹林の小径・修禅寺庭園）＆熱海梅園もみじまつり！国の登録有形文化財「新井旅館」、円をテーマにした寛ぎ宿「〇久旅館」、本格料亭旅館「柳生の庄」。伊豆の金目鯛と天城軍鶏を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
   keywords: ["2026年最新秋旅", "静岡", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-shuzenji-atami-late-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '日本一遅い紅葉を愛でる！伊豆修善寺竹林の小径＆熱海梅園もみじまつり名門旅館×ふるさと納税完全ガイド【2026年最新秋旅】静岡',
+    title: '日本一遅い紅葉を愛でる！伊豆修善寺竹林の小径＆熱海梅園もみじまつり名門旅館×ふるさと納税厳選ガイド静岡',
     description: '11月中旬〜12月上旬に見頃を迎える「日本一遅い紅葉名所」伊豆修善寺温泉（竹林の小径・修禅寺庭園）＆熱海梅園もみじまつり！国の登録有形文化財「新井旅館」、円をテーマにした寛ぎ宿「〇久旅館」、本格料亭旅館「柳生の庄」。伊豆の金目鯛と天城軍鶏を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-shuzenji-atami-late-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -65,9 +65,7 @@ export default function FurusatoShuzenjiAtamiLateAutumnLeavesStayPage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               修善寺＆熱海・11月下旬〜12月の遅紅葉と伊豆名門温泉旅館特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              日本一遅い紅葉を愛でる！伊豆修善寺竹林の小径＆熱海梅園もみじまつり名門旅館×ふるさと納税完全ガイド【2026年最新秋旅】静岡
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">日本一遅い紅葉を愛でる！伊豆修善寺竹林の小径＆熱海梅園もみじまつり名門旅館×ふるさと納税厳選ガイド静岡</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               11月中旬〜12月上旬に見頃を迎える「日本一遅い紅葉名所」伊豆修善寺温泉（竹林の小径・修禅寺庭園）＆熱海梅園もみじまつり！国の登録有形文化財「新井旅館」、円をテーマにした寛ぎ宿「〇久旅館」、本格料亭旅館「柳生の庄」。伊豆の金目鯛と天城軍鶏を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。
             </p>

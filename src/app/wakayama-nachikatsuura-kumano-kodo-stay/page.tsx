@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/wakayama-nachikatsuura-kumano-kodo-stay/" },
-  title: "【和歌山・那智勝浦＆熊野古道】熊野那智大社・那智の滝＆生マグロ・洞窟風呂宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "和歌山・那智勝浦＆熊野古道：熊野那智大社・那智の滝＆生マグロ・洞窟風呂宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "世界遺産・熊野古道と日本一の生マグロ・和歌山那智勝浦エリア完全特化！落差日本一「那智の滝」、熊野那智大社・青岸渡寺、大門坂の石畳、勝浦港水揚げ生マグロ食べ尽くし、海に浮かぶ絶景洞窟風呂温泉宿を徹底解説。",
   keywords: ["和歌山", "那智勝浦", "熊野古道", "熊野那智大社", "那智の滝", "生マグロ", "洞窟風呂宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             KACHIKATSUURA & KUMANO KODO GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【和歌山・那智勝浦＆熊野古道】熊野那智大社・那智の滝＆生マグロ・洞窟風呂宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「和歌山・那智勝浦＆熊野古道」熊野那智大社・那智の滝＆生マグロ・洞窟風呂宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             神々が宿る世界遺産「熊野古道」の聖地「熊野那智大社」と、落差133m日本一の名瀑「那智の滝」。延々と続く大門坂の苔むす杉木立の石畳。勝浦漁港直送の新鮮な「生マグロ」と、太平洋の荒波が打ち寄せる大洞窟温泉へ。
           </p>

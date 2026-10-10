@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nikko-chuzenji-lake-stay/" },
-  title: "【奥日光・中禅寺湖】華厳の滝＆湖畔リゾート極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "奥日光・中禅寺湖：華厳の滝＆湖畔リゾート極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "奥日光・中禅寺湖畔エリア完全特化！日本三名瀑・華厳の滝、中禅寺湖遊覧船、男体山、日光湯元温泉周辺の絶景観光ルートと人気レイクサイドホテルを徹底解説。",
   keywords: ["奥日光", "中禅寺湖", "華厳の滝", "湖畔リゾート極上宿", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             NIKKO CHUZENJI MICRO GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【奥日光・中禅寺湖】華厳の滝＆湖畔リゾート極上宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「奥日光・中禅寺湖」華厳の滝＆湖畔リゾート極上宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             標高1,269m、天空の湖・中禅寺湖。雄大な男体山が湖面に映り、華厳の滝の大迫力の水しぶきが舞う奥日光。静寂と大自然に抱かれる極上のリゾートステイ。
           </p>

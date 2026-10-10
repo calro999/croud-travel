@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月熊本・阿蘇内牧温泉】極上あか牛溶岩焼きと特選馬刺！名宿5選',
+  title: '熊本・阿蘇内牧温泉で過ごす冬の旅（11・12月）！極上あか牛溶岩焼きと特選馬刺！名宿5選',
   description: '11月から12月にかけて、世界最大級のカルデラに抱かれた熊本県「阿蘇内牧（うちのまき）温泉」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '阿蘇内牧温泉 宿泊, 阿蘇 温泉 11月 12月, 阿蘇 あか牛 溶岩焼き, 熊本 馬刺し 温泉, 阿蘇五岳 涅槃像, 蘇山郷, 阿蘇プラザホテル, 湯巡追荘, ホテル角萬, 親和苑',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay/"
   },
   openGraph: {
-    title: '【11・12月熊本・阿蘇内牧温泉】極上あか牛溶岩焼きと特選馬刺！名宿5選',
+    title: '熊本・阿蘇内牧温泉で過ごす冬の旅（11・12月）！極上あか牛溶岩焼きと特選馬刺！名宿5選',
     description: '11月から12月にかけて、世界最大級のカルデラに抱かれた熊本県「阿蘇内牧（うちのまき）温泉」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -246,10 +246,7 @@ export default function KumamotoAsoUchinomakiWinterFeature() {
             <Mountain className="w-4 h-4" />
             11月・12月 阿蘇五岳絶景＆名物あか牛特集｜熊本・阿蘇内牧温泉
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            初冬阿蘇五岳絶景と名物あか牛<br className="hidden sm:inline" />
-            名湯掛け流し湯巡り＆極上あか牛溶岩焼きと特選馬刺しを味わう厳選宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">初冬阿蘇五岳絶景と名物あか牛<br className="hidden sm:inline" /> 名湯掛け流し湯巡り＆極上あか牛溶岩焼きと特選馬刺しを味わう厳選宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             初雪冠する阿蘇五岳・涅槃像と草千里ヶ浜の白銀。文豪が愛した豊富な源泉掛け流し湯で温まり、赤身の旨味が凝縮したあか牛溶岩焼きと極上霜降り馬刺しに舌鼓を打つ冬の熊本旅。
           </p>

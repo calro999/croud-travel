@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '数千冊の本に囲まれて眠る至福の読書リトリート＆ブックホテル×ふるさと納税完全ガイド【2026年最新】播磨福崎・神保町・名古屋',
+  title: '数千冊の本に囲まれて眠る至福の読書リトリート＆ブックホテル×ふるさと納税厳選ガイド播磨福崎・神保町・名古屋',
   description: '活字の海に溺れ、お気に入りの一冊と夜を明かす贅沢！民俗学者・柳田國男ゆかりの歴史建築を再生したブックホテル「NIPPONIA 播磨福崎 蔵書の館」、古書の街・神保町に佇み本を愉しむための隠れ家デザインホテル「BOOK HOTEL 神保町」、24時間営業のブックカフェと読書専用客室を備える「ランプライトブックスホテル名古屋」。おこもり読書ステイを、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
   keywords: ["ブックホテル×ふるさと納税", "2026年最新", "播磨福崎", "神保町", "名古屋", "温泉宿", "宿泊予約"],
   alternates: { canonical: baseUrl + '/furusato-tax-book-library-hotel-retreat-stay/' },
   openGraph: {
-    title: '数千冊の本に囲まれて眠る至福の読書リトリート＆ブックホテル×ふるさと納税完全ガイド【2026年最新】播磨福崎・神保町・名古屋',
+    title: '数千冊の本に囲まれて眠る至福の読書リトリート＆ブックホテル×ふるさと納税厳選ガイド播磨福崎・神保町・名古屋',
     description: '活字の海に溺れ、お気に入りの一冊と夜を明かす贅沢！民俗学者・柳田國男ゆかりの歴史建築を再生したブックホテル「NIPPONIA 播磨福崎 蔵書の館」、古書の街・神保町に佇み本を愉しむための隠れ家デザインホテル「BOOK HOTEL 神保町」、24時間営業のブックカフェと読書専用客室を備える「ランプライトブックスホテル名古屋」。おこもり読書ステイを、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
     url: baseUrl + '/furusato-tax-book-library-hotel-retreat-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoBookLibraryHotelStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             本に囲まれて眠る至福のブックホテル特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            数千冊の本に囲まれて眠る至福の読書リトリート＆ブックホテル×ふるさと納税完全ガイド【2026年最新】播磨福崎・神保町・名古屋
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">数千冊の本に囲まれて眠る至福の読書リトリート＆ブックホテル×ふるさと納税厳選ガイド播磨福崎・神保町・名古屋</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             日々の仕事やスマートフォンの通知から離れ、静かな空間で一冊の本とじっくり向き合う――現代人にとってこれ以上ない贅沢なリフレッシュが「ブックホテル（泊まれる本屋・ライブラリーホテル）。」での滞在です。ロビーから廊下、客室に至るまで数千冊もの本が美しく並び、普段は手に取らないような文学作品、アートブック、写真集、エッセイとの偶然の出逢い（セレンディピティ）が待っています。日本民俗学の父・柳田國男の生誕地で三百年の歴史を誇る大庄屋旧邸宅を再生し、民俗学や妖怪・日本の歴史に関する稀少な蔵書に囲まれて暮らすように泊まる兵庫県「NIPPONIA 播磨福崎 蔵書の館」、世界一の本の街・神田神保町に位置し、選書専門スタッフが厳選した書籍とともに本の世界に沈み込む体験を提供する「BOOK HOTEL 神保町」、そして「本を読むためにデザインされた客室」と24時間オープンのブックカフェを併設する愛知県「ランプライトブックスホテル名古屋」。お気に入りのドリンクを片手にベッドの中で活字を追い、眠くなったらそのまま心地よい眠りに落ちる夢のような休日を、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引）を使って実質2,000円で賢く予約し、心豊かな読書トリップへ出かけましょう。
           </p>

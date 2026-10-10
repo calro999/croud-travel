@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【松江】宍道湖の夕日絶景＆旬の宍道湖七珍しじみ汁！3,000円台〜泊まれる格安ホテル5選',
+  title: '松江：宍道湖の夕日絶景＆旬の宍道湖七珍しじみ汁！3,000円台〜泊まれる格安ホテル5選',
   description: '日本の夕陽百選に選ばれる宍道湖の幻想的な夕暮れと松江城の秋紅葉！秋の脂が乗った宍道湖七珍・しじみ汁や出雲そば。松江駅・しんじ湖温泉周辺で1泊3,000円台〜4,000円台から泊まれる格安・高コスパ宿5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetFeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>宍道湖の夕日絶景＆松江城紅葉・宍道湖七珍</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【松江】宍道湖の茜色夕日＆松江城秋紅葉へ！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「松江」宍道湖の茜色夕日＆松江城秋紅葉へ！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-teal-100/90 max-w-2xl mx-auto leading-relaxed">
             秋の澄んだ空を黄金色に染め上げる宍道湖の夕日パノラマと、国宝・松江城の堀川めぐりから眺める風情ある紅葉絵巻！秋の味覚が詰まった宍道湖名物・しじみ汁や出雲そば、地酒を味わう水の都・松江の旅。駅近や湖畔で1泊3,000円台〜4,000円台から泊まれる厳選高評価宿をご紹介。
           </p>

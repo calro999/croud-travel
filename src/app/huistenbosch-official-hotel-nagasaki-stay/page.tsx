@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/huistenbosch-official-hotel-nagasaki-stay/" },
-  title: "【ハウステンボス直営＆オフィシャルホテル】ヨーロッパの街並み＆イルミネーション宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "ハウステンボス直営＆オフィシャルホテル：ヨーロッパの街並み＆イルミネーション宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "日本一の広さを誇るテーマパーク完全特化！長崎ハウステンボス直営・オフィシャルホテル！パーク内運河に佇む「ホテルヨーロッパ」、場内唯一の天然温泉宿、1300万球の光の王国イルミネーション確約ビューホテルを徹底解説。",
   keywords: ["ハウステンボス直営", "オフィシャルホテル", "ヨーロッパの街並み", "イルミネーション宿", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
@@ -89,9 +89,7 @@ export default function ThemeParkActivityHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             HUIS TEN BOSCH HOTEL GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【ハウステンボス直営＆オフィシャルホテル】ヨーロッパの街並み＆イルミネーション宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「ハウステンボス直営＆オフィシャルホテル」ヨーロッパの街並み＆イルミネーション宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             ヨーロッパの街並みと運河が広がる異国情緒のワンダーランド「ハウステンボス」。専用クルーザーでチェックインする最高級ホテルヨーロッパや、パーク内直営ホテル。日本一の1300万球イルミネーションを客室から見下ろす贅沢な休日へ。
           </p>

@@ -42,9 +42,7 @@ export default function Page() {
             <span className="inline-block w-2 h-2 rounded-full bg-rose-400 animate-pulse" />
             日本三大断崖海岸・ジオパーク特集
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">
-            日本三大名勝断崖海岸＆パノラマ海宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三大名勝断崖海岸＆パノラマ海宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg md:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed font-normal">
             荒波が削り出した地球のダイナミズム！岩手「北山崎」高さ200mの海のアルプスと全室オーシャンビューホテル羅賀荘、福井「東尋坊」国の天然記念物柱状節理と三国温泉三国オーシャンリゾート＆ホテル、高知「足摺岬」黒潮打ち寄せる四国最南端の絶壁と足摺サニーサイドホテル。日本三大名勝海岸（三大断崖海岸）の絶叫絶景ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。
           </p>

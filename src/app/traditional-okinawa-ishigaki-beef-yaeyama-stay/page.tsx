@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【A5石垣牛ステーキ＆八重山そば】南国石垣島の島素材美食と美ら海リゾート宿5選",
+  title: "A5石垣牛ステーキ＆八重山そば：南国石垣島の島素材美食と美ら海リゾート宿5選",
   description: "澄んだ空気と豊かな牧草で育つ最高峰「石垣牛」のとろける炭火焼きステーキや握り、そして出汁香る名物八重山そば！川平湾やマエサトビーチの絶景オーシャンビューを望む南国ラグジュアリーホテルを厳選。",
   keywords: "石垣島 リゾート ホテル, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/traditional-okinawa-ishigaki-beef-yaeyama-stay/",
   },
   openGraph: {
-    title: "【A5石垣牛ステーキ＆八重山そば】南国石垣島の島素材美食と美ら海リゾート宿5選",
+    title: "A5石垣牛ステーキ＆八重山そば：南国石垣島の島素材美食と美ら海リゾート宿5選",
     description: "澄んだ空気と豊かな牧草で育つ最高峰「石垣牛」のとろける炭火焼きステーキや握り、そして出汁香る名物八重山そば！川平湾やマエサトビーチの絶景オーシャンビューを望む南国ラグジュアリーホテルを厳選。",
     url: 'https://croud-travel.pages.dev/traditional-okinawa-ishigaki-beef-yaeyama-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【A5石垣牛ステーキ＆八重山そば】南国石垣島の島素材美食と美ら海リゾート宿5選",
+    title: "A5石垣牛ステーキ＆八重山そば：南国石垣島の島素材美食と美ら海リゾート宿5選",
     description: "澄んだ空気と豊かな牧草で育つ最高峰「石垣牛」のとろける炭火焼きステーキや握り、そして出汁香る名物八重山そば！川平湾やマエサトビーチの絶景オーシャンビューを望む南国ラグジュアリーホテルを厳選。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>石垣牛美食＆八重山リゾート</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【A5石垣牛ステーキ＆八重山そば】南国石垣島の島素材美食と美ら海リゾート宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「A5石垣牛ステーキ＆八重山そば」南国石垣島の島素材美食と美ら海リゾート宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             澄んだ空気と豊かな牧草で育つ最高峰「石垣牛」のとろける炭火焼きステーキや握り、そして出汁香る名物八重山そば！川平湾やマエサトビーチの絶景オーシャンビューを望む南国ラグジュアリーホテルを厳選。
           </p>

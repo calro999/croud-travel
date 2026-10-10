@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【幽玄の苔庭テラス】青苔と石灯籠を望むプライベート露天風呂！京都・箱根の侘び寂び隠れ宿5選",
+  title: "幽玄の苔庭テラス：青苔と石灯籠を望むプライベート露天風呂！京都・箱根の侘び寂び隠れ宿5選",
   description: "雨上がりにひときわ輝く美しい青苔の絨毯と、静かに佇む石灯籠。客室の専用露天風呂やテラスから手入れの行き届いた日本庭園を眺め、静寂と侘び寂びの世界に浸る至高の隠れ家旅館を厳選紹介。",
   keywords: "日本庭園 露天風呂 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-moss-garden/",
   },
   openGraph: {
-    title: "【幽玄の苔庭テラス】青苔と石灯籠を望むプライベート露天風呂！京都・箱根の侘び寂び隠れ宿5選",
+    title: "幽玄の苔庭テラス：青苔と石灯籠を望むプライベート露天風呂！京都・箱根の侘び寂び隠れ宿5選",
     description: "雨上がりにひときわ輝く美しい青苔の絨毯と、静かに佇む石灯籠。客室の専用露天風呂やテラスから手入れの行き届いた日本庭園を眺め、静寂と侘び寂びの世界に浸る至高の隠れ家旅館を厳選紹介。",
     url: 'https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-moss-garden',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【幽玄の苔庭テラス】青苔と石灯籠を望むプライベート露天風呂！京都・箱根の侘び寂び隠れ宿5選",
+    title: "幽玄の苔庭テラス：青苔と石灯籠を望むプライベート露天風呂！京都・箱根の侘び寂び隠れ宿5選",
     description: "雨上がりにひときわ輝く美しい青苔の絨毯と、静かに佇む石灯籠。客室の専用露天風呂やテラスから手入れの行き届いた日本庭園を眺め、静寂と侘び寂びの世界に浸る至高の隠れ家旅館を厳選紹介。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>苔庭テラス＆プライベート露天</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【幽玄の苔庭テラス】青苔と石灯籠を望むプライベート露天風呂！京都・箱根の侘び寂び隠れ宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「幽玄の苔庭テラス」青苔と石灯籠を望むプライベート露天風呂！京都・箱根の侘び寂び隠れ宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             雨上がりにひときわ輝く美しい青苔の絨毯と、静かに佇む石灯籠。客室の専用露天風呂やテラスから手入れの行き届いた日本庭園を眺め、静寂と侘び寂びの世界に浸る至高の隠れ家旅館を厳選紹介。
           </p>

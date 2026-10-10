@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月宮崎日南】名物伊勢海老！名宿5選',
+  title: '11・12・1月宮崎日南：名物伊勢海老！名宿5選',
   description: '冬の宮崎・日南海岸エリアは、紺碧の太平洋が広がる温暖な気候のもと、奇岩怪石の断崖洞窟に鎮座する霊場「鵜戸神宮」が新春開運の初詣祈願と運玉投げ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '日南 ホテル, 鵜戸神宮 初詣, 日南 温泉, 南郷プリンスホテル, 合歓のはな, 日南 伊勢海老, 宮崎牛, 飫肥城下町, 11月 12月 1月 宮崎 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-miyazaki-nichinan-udo-shrine-hatsumode-iseebi-wagyu-stay/"
   },
   openGraph: {
-    title: '【11・12・1月宮崎日南】名物伊勢海老！名宿5選',
+    title: '11・12・1月宮崎日南：名物伊勢海老！名宿5選',
     description: '冬の宮崎・日南海岸エリアは、紺碧の太平洋が広がる温暖な気候のもと、奇岩怪石の断崖洞窟に鎮座する霊場「鵜戸神宮」が新春開運の初詣祈願と運玉投げ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-miyazaki-nichinan-udo-shrine-hatsumode-iseebi-wagyu-stay',
     type: 'article',
@@ -246,10 +246,7 @@ export default function MiyazakiNichinanWinterPage() {
             <span>11月・12月・1月冬の九州特選ガイド｜宮崎・日南・南郷・青島</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            冬の鵜戸神宮新春開運初詣＆日南海岸絶景ドライブ！<br className="hidden sm:inline" />
-            名物伊勢海老・極上宮崎牛と日南温泉名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">冬の鵜戸神宮新春開運初詣＆日南海岸絶景ドライブ！<br className="hidden sm:inline" /> 名物伊勢海老・極上宮崎牛と日南温泉名宿5選</h1>
 
           <p className="max-w-4xl text-sm sm:text-base md:text-lg text-slate-300 leading-relaxed font-normal">
             断崖の洞窟に鎮座する神秘の鵜戸神宮で運玉を投げ、新春の開運を祈願。冬でも温暖な青空と紺碧の海が広がる日南海岸フェニックスロード、飫肥城下町の小京都情緒。甘み濃厚な本場伊勢海老と極上宮崎牛、美肌の天然温泉に癒やされる特別な冬旅へご案内します。

@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kagoshima-kirishima-solo-retreat-onsen-stay/" },
-  title: '【霧島温泉ひとり旅・天孫降臨神話おこもり】霧島連峰パノラマ・源泉かけ流し露天・黒豚地鶏会席！坂本龍馬も愛した南九州の霊峰厳選3宿',
+  title: '霧島温泉ひとり旅・天孫降臨神話おこもり：霧島連峰パノラマ・源泉かけ流し露天・黒豚地鶏会席！坂本龍馬も愛した南九州の霊峰厳選3宿',
   description: '坂本龍馬とお龍が日本初の新婚旅行で訪れた神話の郷・霧島！全室に温泉露天風呂とプライベート空間を誇る「天テラス（あまてらす）」、全室天然温泉付き離れの趣で美食が愛される「いで湯の宿 霧島花紫」、最新の快適性と天然温泉スパを備える「ザ・パルス霧島」を徹底比較。',
   keywords: '霧島温泉 一人旅 宿,霧島 ホテル 一人 温泉,天テラス 霧島,霧島花紫,ザ・パルス霧島,霧島神宮 ひとり旅 おこもり',
   openGraph: {
-    title: '【霧島温泉ひとり旅・天孫降臨神話おこもり】霧島連峰パノラマ・源泉かけ流し露天・黒豚地鶏会席！坂本龍馬も愛した南九州の霊峰厳選3宿',
+    title: '霧島温泉ひとり旅・天孫降臨神話おこもり：霧島連峰パノラマ・源泉かけ流し露天・黒豚地鶏会席！坂本龍馬も愛した南九州の霊峰厳選3宿',
     description: '坂本龍馬とお龍が日本初の新婚旅行で訪れた神話の郷・霧島！全室に温泉露天風呂とプライベート空間を誇る「天テラス（あまてらす）」、全室天然温泉付き離れの趣で美食が愛される「いで湯の宿 霧島花紫」、最新の快適性と天然温泉スパを備える「ザ・パルス霧島」を徹底比較。',
     url: 'https://croud-travel.pages.dev/kagoshima-kirishima-solo-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【霧島温泉ひとり旅・天孫降臨神話おこもり】霧島連峰パノラマ・源泉かけ流し露天・黒豚地鶏会席！坂本龍馬も愛した南九州の霊峰厳選3宿',
+    headline: '霧島温泉ひとり旅・天孫降臨神話おこもり：霧島連峰パノラマ・源泉かけ流し露天・黒豚地鶏会席！坂本龍馬も愛した南九州の霊峰厳選3宿',
     description: '坂本龍馬とお龍が日本初の新婚旅行で訪れた神話の郷・霧島！全室に温泉露天風呂とプライベート空間を誇る「天テラス（あまてらす）」、全室天然温泉付き離れの趣で美食が愛される「いで湯の宿 霧島花紫」、最新の快適性と天然温泉スパを備える「ザ・パルス霧島」を徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             鹿児島・霧島温泉ひとり旅＆天孫降臨神話おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【霧島温泉ひとり旅・天孫降臨神話おこもり】霧島連峰パノラマ・源泉かけ流し露天・黒豚地鶏会席！坂本龍馬も愛した南九州の霊峰厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「霧島温泉ひとり旅・天孫降臨神話おこもり」霧島連峰パノラマ・源泉かけ流し露天・黒豚地鶏会席！坂本龍馬も愛した南九州の霊峰厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

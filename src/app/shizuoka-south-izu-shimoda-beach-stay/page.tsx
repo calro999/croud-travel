@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/shizuoka-south-izu-shimoda-beach-stay/" },
-  title: "【静岡・南伊豆＆下田・ヒリゾ浜】開国の港街・白浜海岸＆秘境シュノーケリング・金目鯛宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "静岡・南伊豆＆下田・ヒリゾ浜：開国の港街・白浜海岸＆秘境シュノーケリング・金目鯛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "伊豆半島最南端のエメラルドグリーンパラダイス・南伊豆＆下田エリア完全特化！ペリー来航の歴史「下田ペリーロード」、本州屈指の透明度「ヒリゾ浜」、白砂の「白浜大浜海岸」、石廊崎オーシャンパーク、下田温泉・南伊豆金目鯛宿を徹底解説。",
   keywords: ["静岡", "南伊豆", "下田", "ヒリゾ浜", "開国の港街", "白浜海岸", "秘境シュノーケリング"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             SOUTH IZU & SHIMODA GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【静岡・南伊豆＆下田・ヒリゾ浜】開国の港街・白浜海岸＆秘境シュノーケリング・金目鯛宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「静岡・南伊豆＆下田・ヒリゾ浜」開国の港街・白浜海岸＆秘境シュノーケリング・金目鯛宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             幕末の開国舞台となったレトロな港町「下田」と、伊豆最南端の大自然「南伊豆・ヒリゾ浜」。本州とは思えない驚異の透明度を誇るエメラルドグリーンの海。白砂の白浜海岸、石廊崎の断崖。下田港直送の金目鯛と下田温泉を味わう楽園の旅。
           </p>

@@ -3,11 +3,11 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【秋の長崎×格安】グラバー園の秋バラと世界新三大夜景！大浴場付き1泊3,000円〜5,000円台のコスパ最強ホテル5選【2026最新】',
+  title: '秋の長崎×格安：グラバー園の秋バラと世界新三大夜景！大浴場付き1泊3,000円〜5,000円台のコスパ最強ホテル5選「2026最新」',
   description: '異国情緒あふれる南山手グラバー園の秋バラ・紅葉と、稲佐山から望む世界新三大夜景！長崎ちゃんぽんや卓袱料理を満喫。大浴場やサウナ完備で1泊3,000円〜5,000円台で泊まれる長崎駅周辺の格安ホテル5選。ホテルクオーレ長崎駅前、hotel H2などを徹底比較！',
   keywords: '長崎 格安 ホテル, 長崎 大浴場 ホテル 安い, グラバー園 秋バラ 紅葉, 稲佐山 夜景 宿, ホテルクオーレ長崎駅前, hotel H2 長崎',
   openGraph: {
-    title: '【秋の長崎×格安】グラバー園の秋バラと世界新三大夜景！大浴場付き1泊3,000円〜5,000円台のコスパ最強ホテル5選【2026最新】',
+    title: '秋の長崎×格安：グラバー園の秋バラと世界新三大夜景！大浴場付き1泊3,000円〜5,000円台のコスパ最強ホテル5選「2026最新」',
     description: 'グラバー園の秋バラと稲佐山夜景！大浴場付き1泊3,000円〜5,000円台のコスパ最強長崎ホテル5選。',
     type: 'article',
     url: 'https://croud-travel.com/autumn-budget-nagasaki-glover-garden-onsen-hotels-stay',
@@ -32,9 +32,7 @@ export default function NagasakiBudgetAutumnPage() {
             <span className="px-3 py-1 bg-teal-600 text-white text-xs font-bold rounded-full">格安・九州特集</span>
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">1泊目安: 3,000円台〜5,000円台</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">
-            【秋の長崎×格安】グラバー園の秋バラと世界新三大夜景！大浴場付き1泊3,000円〜5,000円台のコスパ最強ホテル5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の長崎×格安」グラバー園の秋バラと世界新三大夜景！大浴場付き1泊3,000円〜5,000円台のコスパ最強ホテル5選</h1>
           <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
             洋館のテラスから長崎港を見下ろすグラバー園の秋景色と、すり鉢状の夜景が輝く稲佐山パノラマ。本場の長崎ちゃんぽんや角煮まんじゅうを味わい、サウナや大浴場で疲れを癒やせる長崎の格安ホテルをご案内します。
           </p>

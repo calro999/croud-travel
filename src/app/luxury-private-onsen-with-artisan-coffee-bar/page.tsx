@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '【2026年】専属バリスタのスペシャリティコーヒー！自家焙煎BAR＆カフェラウンジ付き温泉宿5選 ｜ 日本全国・旅宿クラウド',
+  title: '2026年：専属バリスタのスペシャリティコーヒー！自家焙煎BAR＆カフェラウンジ付き温泉宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！世界各国のシングルオリジンコーヒーのハンドドリップや自家焙煎BAR、絶品スイーツが自慢の珈琲好きにおすすめの温泉リゾート5選。',
   keywords: ["2026年", "カフェラウンジ付き温泉宿5選", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/luxury-private-onsen-with-artisan-coffee-bar/",
   },
   openGraph: {
-    title: '【2026年】専属バリスタのスペシャリティコーヒー！自家焙煎BAR＆カフェラウンジ付き温泉宿5選',
+    title: '2026年：専属バリスタのスペシャリティコーヒー！自家焙煎BAR＆カフェラウンジ付き温泉宿5選',
     description: '2026年最新！世界各国のシングルオリジンコーヒーのハンドドリップや自家焙煎BAR、絶品スイーツが自慢の珈琲好きにおすすめの温泉リゾート5選。',
     url: 'https://croud-travel.pages.dev/luxury-private-onsen-with-artisan-coffee-bar',
     siteName: '日本全国・旅宿クラウド',
@@ -172,9 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>自家焙煎珈琲×カフェラウンジ温泉</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            【2026年】専属バリスタのスペシャリティコーヒー！自家焙煎BAR＆カフェラウンジ付き温泉宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」専属バリスタのスペシャリティコーヒー！自家焙煎BAR＆カフェラウンジ付き温泉宿5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             朝の澄んだ空気の中に漂う芳しい挽きたてコーヒーのアロマ。専属バリスタが丁寧に淹れるハンドドリップコーヒーやエスプレッソ、居心地の良いブックカフェラウンジ、そして湯量豊富な美肌温泉。珈琲と読書、名湯に癒やされる贅沢なリトリート。
           </p>

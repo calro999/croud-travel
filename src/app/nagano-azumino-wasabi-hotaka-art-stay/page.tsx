@@ -5,11 +5,11 @@ import Image from 'next/image';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagano-azumino-wasabi-hotaka-art-stay/" },
-  title: '【長野・安曇野＆穂高温泉】大王わさび農場・蓼川カヤック＆アートライン宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+  title: '長野・安曇野＆穂高温泉：大王わさび農場・蓼川カヤック＆アートライン宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
   description: '北アルプス常念岳の残雪パノラマ、日本最大「大王わさび農場」の蓼川水車小屋とクリアボート体験、名湯「穂高温泉郷」の美肌露天風呂、安曇野アートラインの美術館・ガラス工房めぐり、名物安曇野そばと信州サーモンを味わう宿を徹底厳選。',
   keywords: ["長野", "安曇野", "穂高温泉", "大王わさび農場", "蓼川カヤック", "アートライン宿", "温泉宿"],
   openGraph: {
-    title: '【長野・安曇野＆穂高温泉】大王わさび農場・蓼川カヤック＆アートライン宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+    title: '長野・安曇野＆穂高温泉：大王わさび農場・蓼川カヤック＆アートライン宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
     description: '北アルプス常念岳の残雪パノラマ、日本最大「大王わさび農場」の蓼川水車小屋とクリアボート体験、名湯「穂高温泉郷」の美肌露天風呂、安曇野アートラインの美術館・ガラス工房めぐり、名物安曇野そばと信州サーモンを味わう宿を徹底厳選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/nagano-azumino-wasabi-hotaka-art-stay',
@@ -50,9 +50,7 @@ export default function Page() {
             <span>🗺️</span>
             <span>AZUMINO & WASABI ART GUIDE</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">
-            【長野・安曇野＆大王わさび農場・穂高】常念岳絶景・蓼川水車小屋＆安曇野アート宿 完全ガイド
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">「長野・安曇野＆大王わさび農場・穂高」常念岳絶景・蓼川水車小屋＆安曇野アート宿 厳選ガイド</h1>
           <p className="max-w-3xl mx-auto text-stone-300 text-sm sm:text-base md:text-lg leading-relaxed mb-8">
             残雪の北アルプス・常念岳を背景に、清らかな雪解け湧水がせせらぐ田園の理想郷「安曇野」。黒澤明監督の映画の舞台となった「大王わさび農場」の蓼川水車小屋。底まで透き通った名水の上を滑るクリアボート。白樺と赤松の森に湧き出る美肌の名湯「穂高温泉郷」。そして個性豊かな美術館が点在する「安曇野アートライン」。清澄な風とアート、豊かな大地の恵みに包まれる信州安曇野ステイへご案内します。
           </p>

@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】とろける極上霜降り！A5米沢牛すき焼き会席＆白布・小野川名湯宿5選 | 日本全国・旅宿クラウド',
+  title: '2026年：とろける極上霜降り！A5米沢牛すき焼き会席＆白布・小野川名湯宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！日本三大和牛「米沢牛」の特選すき焼き・しゃぶしゃぶ会席！開湯千二百年の白布温泉や小野川温泉の源泉掛け流しと山形美食を満喫する名宿5選。',
   keywords: ["2026年", "白布", "小野川名湯宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: '【2026年】とろける極上霜降り！A5米沢牛すき焼き会席＆白布・小野川名湯宿5選',
+    title: '2026年：とろける極上霜降り！A5米沢牛すき焼き会席＆白布・小野川名湯宿5選',
     description: '2026年最新！日本三大和牛「米沢牛」の特選すき焼き・しゃぶしゃぶ会席！開湯千二百年の白布温泉や小野川温泉の源泉掛け流しと山形美食を満喫する名宿5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/traditional-yonezawa-beef-sukiyaki-onsen-stay',
@@ -193,9 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> 極上A5米沢牛会席×歴史ある名湯
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】とろける極上霜降り！A5米沢牛すき焼き会席＆白布・小野川名湯宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」とろける極上霜降り！A5米沢牛すき焼き会席＆白布・小野川名湯宿5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             きめ細やかな霜降りと甘くとろける脂の旨味。日本屈指のブランド和牛「米沢牛」を、創業伝承の割り下ですき焼きやすみれ鍋として味わう至福の夕宴。歴史ある白布温泉や小野川温泉の名湯とともに過ごす贅沢な山形ステイ。
           </p>

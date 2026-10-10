@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/niigata-echigo-yuzawa-solo-retreat-snow-country-onsen-stay/" },
-  title: '【新潟・越後湯沢温泉ひとり旅・川端康成『雪国』の文学湯治おこもり】新幹線直結・谷川連峰一望の露天風呂・魚沼産コシヒカリ会席！白銀の温泉郷厳選3宿',
+  title: '新潟・越後湯沢温泉ひとり旅・川端康成『雪国』の文学湯治おこもり：新幹線直結・谷川連峰一望の露天風呂・魚沼産コシヒカリ会席！白銀の温泉郷厳選3宿',
   description: '上越新幹線で東京から最速約70分！川端康成の小説『雪国』の舞台として知られる越後湯沢温泉。四季折々の野花と畳敷きの温もりが心地よい「松泉閣花月」、谷川連峰の大パノラマと自家源泉かけ流しを誇る高台の名宿「一望千里 御湯宿 中屋」、大露天風呂と充実設備で気軽に滞在できる「湯沢東映ホテル」を楽天API最新データに基づき徹底比較。',
   keywords: '越後湯沢温泉 一人旅 宿,越後湯沢 ホテル 一人 温泉,松泉閣花月 一人旅,御湯宿 中屋,湯沢東映ホテル,越後湯沢 ひとり旅 おこもり',
   openGraph: {
-    title: '【新潟・越後湯沢温泉ひとり旅・川端康成『雪国』の文学湯治おこもり】新幹線直結・谷川連峰一望の露天風呂・魚沼産コシヒカリ会席！白銀の温泉郷厳選3宿',
+    title: '新潟・越後湯沢温泉ひとり旅・川端康成『雪国』の文学湯治おこもり：新幹線直結・谷川連峰一望の露天風呂・魚沼産コシヒカリ会席！白銀の温泉郷厳選3宿',
     description: '上越新幹線で東京から最速約70分！川端康成の小説『雪国』の舞台として知られる越後湯沢温泉。四季折々の野花と畳敷きの温もりが心地よい「松泉閣花月」、谷川連峰の大パノラマと自家源泉かけ流しを誇る高台の名宿「一望千里 御湯宿 中屋」、大露天風呂と充実設備で気軽に滞在できる「湯沢東映ホテル」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/niigata-echigo-yuzawa-solo-retreat-snow-country-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【新潟・越後湯沢温泉ひとり旅・川端康成『雪国』の文学湯治おこもり】新幹線直結・谷川連峰一望の露天風呂・魚沼産コシヒカリ会席！白銀の温泉郷厳選3宿',
+    headline: '新潟・越後湯沢温泉ひとり旅・川端康成『雪国』の文学湯治おこもり：新幹線直結・谷川連峰一望の露天風呂・魚沼産コシヒカリ会席！白銀の温泉郷厳選3宿',
     description: '上越新幹線で東京から最速約70分！川端康成の小説『雪国』の舞台として知られる越後湯沢温泉。四季折々の野花と畳敷きの温もりが心地よい「松泉閣花月」、谷川連峰の大パノラマと自家源泉かけ流しを誇る高台の名宿「一望千里 御湯宿 中屋」、大露天風呂と充実設備で気軽に滞在できる「湯沢東映ホテル」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             新潟・越後湯沢温泉ひとり旅＆雪国文学湯治おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【新潟・越後湯沢温泉ひとり旅・川端康成『雪国』の文学湯治おこもり】新幹線直結・谷川連峰一望の露天風呂・魚沼産コシヒカリ会席！白銀の温泉郷厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「新潟・越後湯沢温泉ひとり旅・川端康成『雪国』の文学湯治おこもり」新幹線直結・谷川連峰一望の露天風呂・魚沼産コシヒカリ会席！白銀の温泉郷厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

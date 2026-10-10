@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-hot-spring-cure/" },
-  title: "【本格湯治場】源泉かけ流し＆効能抜群の名湯秘湯旅館 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "本格湯治場：源泉かけ流し＆効能抜群の名湯秘湯旅館 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "温泉の真髄を味わう！秋田・玉川温泉（強酸性ラジウム湯治）、青森・酸ヶ湯温泉（ヒバ千人風呂）、栃木・那須湯本（鹿の湯）、長野・野沢温泉（13の外湯めぐり）など、歴史ある本物の名湯宿を徹底解説。",
   keywords: ["本格湯治場", "源泉かけ流し", "効能抜群の名湯秘湯旅館", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -98,9 +98,7 @@ export default function SeasonalFeaturePage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             TRADITIONAL TOJI SPA
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【本格湯治場】源泉かけ流し＆効能抜群の名湯秘湯旅館 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「本格湯治場」源泉かけ流し＆効能抜群の名湯秘湯旅館 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             何百年も人々の体を癒やし続けてきた奇跡の湯治場（とうじば）。加水・加温一切なしの圧倒的な源泉力、硫黄香る白濁湯、歴史ある木造大浴場で、日頃の疲れを根底から解きほぐす本格温泉ステイ。
           </p>

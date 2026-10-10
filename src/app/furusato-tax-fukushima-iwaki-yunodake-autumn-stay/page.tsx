@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            福島・日本三古湯 いわき湯本温泉と湯の岳パノラマ紅葉！毎分5.5トンの美肌名湯＆常磐もの海鮮会席
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">福島・日本三古湯 いわき湯本温泉と湯の岳パノラマ紅葉！毎分5.5トンの美肌名湯＆常磐もの海鮮会席</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の福島・いわき湯本温泉特集！道後・有馬と並ぶ日本三古湯の一つ「いわき湯本温泉」の毎分5.5トンを誇る極上の硫黄泉、湯ノ岳パノラマラインの錦秋ドライブ、築地・豊洲でも最高評価を受ける「常磐もの（ヒラメ・メヒカリ・あんこう）」をふるさと納税トラベルで味わうみちのく名湯旅。
           </p>

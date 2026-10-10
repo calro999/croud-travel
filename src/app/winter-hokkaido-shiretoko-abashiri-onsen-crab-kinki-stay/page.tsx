@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月北海道】網走の冬絶景とオホーツク海鮮！名宿5選',
+  title: '11・12・1月北海道：網走の冬絶景とオホーツク海鮮！名宿5選',
   description: '11月から1月、世界自然遺産・知床ウトロとオホーツクの要衝・網走は、白銀に染まる知床連峰と凛と澄み渡るオホーツクブルーの海原が織りなす荘厳な。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '知床ウトロ 温泉宿, 網走 温泉 ホテル, 北こぶし知床, KIKI知床, 知床第一ホテル, 北天の丘あばしり湖鶴雅リゾート, ホテル網走湖荘, 11月 12月 1月 北海道旅行, めんめ 湯煮 知床牛 タラバガニ',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hokkaido-shiretoko-abashiri-onsen-crab-kinki-stay/"
   },
   openGraph: {
-    title: '【11・12・1月北海道】網走の冬絶景とオホーツク海鮮！名宿5選',
+    title: '11・12・1月北海道：網走の冬絶景とオホーツク海鮮！名宿5選',
     description: '11月から1月、世界自然遺産・知床ウトロとオホーツクの要衝・網走は、白銀に染まる知床連峰と凛と澄み渡るオホーツクブルーの海原が織りなす荘厳な。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-shiretoko-abashiri-onsen-crab-kinki-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月北海道】知床ウトロ＆網走の冬絶景とオホーツク海鮮・極上知床牛＆冬タラバ・毛ガニ・高級魚めんめ湯煮を堪能する名宿5選",
+    title: "11・12・1月北海道：知床ウトロ＆網走の冬絶景とオホーツク海鮮・極上知床牛＆冬タラバ・毛ガニ・高級魚めんめ湯煮を堪能する名宿5選",
     description: "11月から1月、世界自然遺産・知床ウトロとオホーツクの要衝・網走は、白銀に染まる知床連峰と凛と澄み渡るオホーツクブルーの海原が織りなす荘厳な冬景色に包まれます。この季節の味覚はまさに北海道の至宝。ぎっしり身の詰まった冬の活毛ガニや本タラバガニ、脂の乗り切った深海の赤い宝石「めんめ（キンキ）」の湯煮、とろける甘みの極上知床牛フィレステーキ。オホーツク海を一望する絶景サウナや茶褐色の源泉が注ぐ雪見露天風呂に浸かり、北方民族のロマンと極上の北欧風リゾート空間に癒やされる厳選5宿を徹底ガイドします。",
     images: ['https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80']
   }
@@ -42,7 +42,7 @@ export default function HokkaidoShiretokoAbashiriWinterPage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: "【11・12・1月北海道】知床ウトロ＆網走の冬絶景とオホーツク海鮮・極上知床牛＆冬タラバ・毛ガニ・高級魚めんめ湯煮を堪能する名宿5選",
+    headline: "11・12・1月北海道：知床ウトロ＆網走の冬絶景とオホーツク海鮮・極上知床牛＆冬タラバ・毛ガニ・高級魚めんめ湯煮を堪能する名宿5選",
     description: "11月から1月、世界自然遺産・知床ウトロとオホーツクの要衝・網走は、白銀に染まる知床連峰と凛と澄み渡るオホーツクブルーの海原が織りなす荘厳な冬景色に包まれます。この季節の味覚はまさに北海道の至宝。ぎっしり身の詰まった冬の活毛ガニや本タラバガニ、脂の乗り切った深海の赤い宝石「めんめ（キンキ）」の湯煮、とろける甘みの極上知床牛フィレステーキ。オホーツク海を一望する絶景サウナや茶褐色の源泉が注ぐ雪見露天風呂に浸かり、北方民族のロマンと極上の北欧風リゾート空間に癒やされる厳選5宿を徹底ガイドします。",
     image: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
     datePublished: '',
@@ -282,9 +282,7 @@ export default function HokkaidoShiretokoAbashiriWinterPage() {
             <Snowflake className="w-4 h-4 text-sky-300" />
             11月・12月・1月 冬のオホーツク・世界自然遺産知床＆網走極上美食特集
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【11・12・1月北海道】知床ウトロ＆網走の冬絶景とオホーツク海鮮・極上知床牛＆冬タラバ・毛ガニ・高級魚めんめ湯煮を堪能する名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「11・12・1月北海道」知床ウトロ＆網走の冬絶景とオホーツク海鮮・極上知床牛＆冬タラバ・毛ガニ・高級魚めんめ湯煮を堪能する名宿5選</h1>
           <p className="text-slate-300 text-sm sm:text-base md:text-lg max-w-3xl leading-relaxed">
             世界自然遺産・知床連峰の荘厳な雪嶺と、藍色に澄み渡るオホーツク海。深海の赤い宝石「めんめ（キンキ）」の湯煮、ぎっしり身の詰まった冬の活毛ガニ・タラバガニ、そして極上知床牛。オホーツク海を望む絶景サウナや美肌名湯に浸り、北方民族のロマン漂う至高の北国リゾートを厳選紹介します。
           </p>

@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-bamboo-groves-stay/" },
-  title: '日本三大竹林＆風にそよぐ緑の回廊・静寂の美林と風雅名宿×ふるさと納税完全ガイド【2026年最新】嵯峨野・報国寺・さつま町',
+  title: '日本三大竹林＆風にそよぐ緑の回廊・静寂の美林と風雅名宿×ふるさと納税厳選ガイド嵯峨野・報国寺・さつま町',
   description: '風の音と竹葉のささやきに包まれる禅の空間！京都嵐山「嵯峨野・竹林の小径」平安貴族の美意識と嵐山温泉渡月亭、神奈川鎌倉「報国寺（竹の寺）」千本の孟宗竹と鎌倉パークホテル、鹿児島北薩摩「さつま町竹林」日本一の竹林面積と四季の杜紫尾庵。日本三大竹林の幻想的な緑の回廊と風雅な宿を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大竹林・森林セラピー特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大竹林＆風にそよぐ緑の回廊・静寂の美林と風雅名宿×ふるさと納税完全ガイド【2026年最新】嵯峨野・報国寺・さつま町',
+    title: '日本三大竹林＆風にそよぐ緑の回廊・静寂の美林と風雅名宿×ふるさと納税厳選ガイド嵯峨野・報国寺・さつま町',
     description: '風の音と竹葉のささやきに包まれる禅の空間！京都嵐山「嵯峨野・竹林の小径」平安貴族の美意識と嵐山温泉渡月亭、神奈川鎌倉「報国寺（竹の寺）」千本の孟宗竹と鎌倉パークホテル、鹿児島北薩摩「さつま町竹林」日本一の竹林面積と四季の杜紫尾庵。日本三大竹林の幻想的な緑の回廊と風雅な宿を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-bamboo-groves-stay',
@@ -142,9 +142,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大竹林・森林セラピー特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大竹林＆静寂の緑の回廊・風雅名宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大竹林＆静寂の緑の回廊・風雅名宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             すっきりと天に向かって伸びる青竹の林、風が通り抜けるたびに響く葉擦れの音、足元を覆うみずみずしい苔――日常の喧騒を離れ深い安らぎをもたらす「日本三大竹林」――平安時代から貴族の別荘地として愛され天龍寺から野宮神社へと続く緑のトンネルが幻想的な京都嵐山の「嵯峨野・竹林の小径」、足利・上杉氏の菩提寺で本堂裏に約2,000本の孟宗竹が美しく手入れされ抹茶を味わいながら眺められる神奈川鎌倉の「報国寺（竹の寺）」、そして竹林面積日本一を誇り竹工芸やタケノコ栽培の聖地として知られる鹿児島北薩摩の「さつま町竹林」。竹林の清々しい空気に包まれた後は、老舗旅館の京会席や隠れ家離れの源泉掛け流し温泉で心身をととのえる至高の旅を楽天ふるさと納税でお楽しみください。
           </p>

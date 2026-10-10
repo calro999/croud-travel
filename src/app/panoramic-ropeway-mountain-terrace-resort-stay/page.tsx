@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/panoramic-ropeway-mountain-terrace-resort-stay/" },
-  title: "【絶景ロープウェイ＆山頂テラス宿】びわ湖バレイ・蔵王・富士山パノラマ 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "絶景ロープウェイ＆山頂テラス宿：びわ湖バレイ・蔵王・富士山パノラマ 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "空へと駆け上がる感動の空中散歩！絶景ロープウェイ＆山頂天空テラス宿完全特化！滋賀「びわ湖バレイ（びわ湖テラス）」、山形「蔵王ロープウェイ（樹氷原）」、長野「竜王ソラテラス（雲海）」、静岡「碧テラス（伊豆パノラマパーク）」を徹底解説。",
   keywords: ["絶景ロープウェイ", "山頂テラス宿", "びわ湖バレイ", "蔵王", "富士山パノラマ", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function RailwayActivityHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-gradient-to-r from-cyan-400 to-blue-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block shadow">
             ROPEWAY & MOUNTAIN TERRACE GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【絶景ロープウェイ＆山頂テラス宿】びわ湖バレイ・蔵王・富士山パノラマ 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「絶景ロープウェイ＆山頂テラス宿」びわ湖バレイ・蔵王・富士山パノラマ 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-cyan-100/90 leading-relaxed">
             ゴンドラに乗り込み、一気に雲の上へ！「絶景ロープウェイ＆山頂天空テラス」。琵琶湖を眼下に望むインフィニティウッドデッキ、北アルプスの雲海を見下ろすサンセット、冬の巨大な樹氷モンスター。山頂カフェで贅沢なドリンクを片手に過ごす休日へ。
           </p>

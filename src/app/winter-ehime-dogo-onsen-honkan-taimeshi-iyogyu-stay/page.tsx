@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月愛媛・道後温泉】名物宇和島鯛めし！名宿5選',
+  title: '愛媛・道後温泉で過ごす冬の旅（11・12月）！名物宇和島鯛めし！名宿5選',
   description: '11月から12月にかけて、三千年の歴史を誇り『日本書紀』や『万葉集』にも記された日本三古湯の筆頭「愛媛・道後温泉（どうごおんせん）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '道後温泉 宿泊, 茶玻瑠, 道後舘, ふなや, 大和屋本店, 古湧園遥, 宇和島鯛めし, 伊予牛, 道後温泉本館 全館営業再開, 11月 12月 道後温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay/"
   },
   openGraph: {
-    title: '【11・12月愛媛・道後温泉】名物宇和島鯛めし！名宿5選',
+    title: '愛媛・道後温泉で過ごす冬の旅（11・12月）！名物宇和島鯛めし！名宿5選',
     description: '11月から12月にかけて、三千年の歴史を誇り『日本書紀』や『万葉集』にも記された日本三古湯の筆頭「愛媛・道後温泉（どうごおんせん）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay',
     siteName: 'クラドトラベル',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月愛媛・道後温泉の日本三古湯と冬の瀬戸内味覚】名物宇和島鯛めし＆伊予牛・本館全館営業再開の名湯を巡る名宿5選",
+    title: "愛媛・道後温泉の日本三古湯と冬の瀬戸内味覚で過ごす冬の旅（11・12月）！名物宇和島鯛めし＆伊予牛・本館全館営業再開の名湯を巡る名宿5選",
     description: "11月から12月にかけて、三千年の歴史を誇り『日本書紀』や『万葉集』にも記された日本三古湯の筆頭「愛媛・道後温泉（どうごおんせん）」は、保存修理工事を終えて約5年半ぶりに全館営業を再開した「道後温泉本館」を中心に、冬ならではの落ち着いた情緒と美食のハイシーズンを迎えます。源泉温度42〜51度のアルカリ性単純温泉は、肌に刺激の少ない滑らかな泉質で、湯冷めしにくく冬の身体をやさしく温めてくれます。11月・12月は瀬戸内海で潮流に揉まれた真鯛が最も脂を蓄える旬。名物の「宇和島風鯛めし」や香ばしい「松山鯛めし」、とろけるような肉質の「伊予牛（いよぎゅう）」、みかん果汁を飼料に育つ「みかん鰤」。レトロな坊っちゃん列車や松山城城下町の冬散策とともに至福の滞在を叶える厳選名宿5選を徹底解説します。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -248,12 +248,7 @@ export default function WinterEhimeDogoOnsenPage() {
             11月・12月 日本三古湯・本館全館営業再開＆宇和島鯛めし特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月愛媛・道後温泉】日本三古湯と冬の瀬戸内味覚
-            <span className="block text-orange-300 text-lg sm:text-2xl mt-3 font-normal">
-              名物宇和島鯛めし＆伊予牛・本館全館営業再開の名湯を巡る名宿5選
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">愛媛・道後温泉で過ごす冬の旅（11・12月）！日本三古湯と冬の瀬戸内味覚 <span className="block text-orange-300 text-lg sm:text-2xl mt-3 font-normal"> 名物宇和島鯛めし＆伊予牛・本館全館営業再開の名湯を巡る名宿5選 </span></h1>
 
           <p className="text-sm sm:text-base text-stone-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、三千年の歴史を誇り『日本書紀』や『万葉集』にも記された日本三古湯の筆頭「愛媛・道後温泉（どうごおんせん）」は、保存修理工事を終えて約5年半ぶりに全館営業を再開した「道後温泉本館」を中心に、冬ならではの落ち着いた情緒と美食のハイシーズンを迎えます。源泉温度42〜51度のアルカリ性単純温泉は、肌に刺激の少ない滑らかな泉質で、湯冷めしにくく冬の身体をやさしく温めてくれます。11月・12月は瀬戸内海で潮流に揉まれた真鯛が最も脂を蓄える旬。名物の「宇和島風鯛めし」や香ばしい「松山鯛めし」、とろけるような肉質の「伊予牛（いよぎゅう）」、みかん果汁を飼料に育つ「みかん鰤」。レトロな坊っちゃん列車や松山城城下町の冬散策とともに至福の滞在を叶える厳選名宿5選を徹底解説します。

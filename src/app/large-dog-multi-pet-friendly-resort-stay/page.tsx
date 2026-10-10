@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/large-dog-multi-pet-friendly-resort-stay/" },
-  title: "【大型犬・多頭飼い歓迎リゾート】ノーリード・広々客室＆超大型犬OK 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "大型犬・多頭飼い歓迎リゾート：ノーリード・広々客室＆超大型犬OK 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "ゴールデンやラブラドール、多頭飼いも大歓迎！大型犬・超大型犬・頭数制限なし宿完全特化！広々80平米以上の客室、頑丈なフェンス、頭数追加無料プラン、大型犬専用ドッグラン＆足洗い場完備リゾートを徹底解説。",
   keywords: ["大型犬", "多頭飼い歓迎リゾート", "ノーリード", "広々客室", "超大型犬OK", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function PetDogResortHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-gradient-to-r from-amber-300 to-yellow-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block shadow">
             LARGE DOG & MULTI PET GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【大型犬・多頭飼い歓迎リゾート】ノーリード・広々客室＆超大型犬OK 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「大型犬・多頭飼い歓迎リゾート」ノーリード・広々客室＆超大型犬OK 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             「大型犬だから…」「頭数が多いから…」と諦める必要は一切ありません！「大型犬・超大型犬＆多頭飼い歓迎リゾート」。80平米超のゆとりある客室。頭数制限なし・大型犬追加料金リーズナブル。大型犬も思いっきり走れる広大なフィールドへ。
           </p>

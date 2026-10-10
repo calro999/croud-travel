@@ -4,14 +4,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '奇岩巨石と紅葉の断崖美！日本五大渓谷・昇仙峡＆武田信玄公の隠し湯・甲府湯村温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】山梨 | 旅宿クラウド',
+  title: '奇岩巨石と紅葉の断崖美！日本五大渓谷・昇仙峡＆武田信玄公の隠し湯・甲府湯村温泉名宿×ふるさと納税厳選ガイド山梨 | 旅宿クラウド',
   description: '10月下旬〜11月下旬に見頃を迎える「日本一の渓谷美」御岳昇仙峡（覚円峰・仙娥滝）！巨岩奇石と清流を彩る紅葉の遊歩道と、開湯千二百年・武田信玄公の隠し湯「甲府湯村温泉」！皇族も宿泊する名門「常磐ホテル」、太宰治ゆかりの「旅館明治」、自家源泉の「柳屋」。甲州牛会席を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
   keywords: ["昇仙峡", "武田信玄公の隠し湯", "甲府湯村温泉名宿×ふるさと納税", "2026年最新秋旅", "山梨", "旅宿クラウド", "温泉宿"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-shosenkyo-yumura-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '奇岩巨石と紅葉の断崖美！日本五大渓谷・昇仙峡＆武田信玄公の隠し湯・甲府湯村温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】山梨',
+    title: '奇岩巨石と紅葉の断崖美！日本五大渓谷・昇仙峡＆武田信玄公の隠し湯・甲府湯村温泉名宿×ふるさと納税厳選ガイド山梨',
     description: '10月下旬〜11月下旬に見頃を迎える「日本一の渓谷美」御岳昇仙峡（覚円峰・仙娥滝）！巨岩奇石と清流を彩る紅葉の遊歩道と、開湯千二百年・武田信玄公の隠し湯「甲府湯村温泉」！皇族も宿泊する名門「常磐ホテル」、太宰治ゆかりの「旅館明治」、自家源泉の「柳屋」。甲州牛会席を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-shosenkyo-yumura-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -65,9 +65,7 @@ export default function FurusatoShosenkyoYumuraAutumnLeavesStayPage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               日本一の渓谷美・昇仙峡紅葉＆甲府湯村温泉名門宿特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              奇岩巨石と紅葉の断崖美！日本五大渓谷・昇仙峡＆武田信玄公の隠し湯・甲府湯村温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】山形
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">奇岩巨石と紅葉の断崖美！日本五大渓谷・昇仙峡＆武田信玄公の隠し湯・甲府湯村温泉名宿×ふるさと納税厳選ガイド山形</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               10月下旬〜11月下旬に見頃を迎える「日本一の渓谷美」御岳昇仙峡（覚円峰・仙娥滝）！巨岩奇石と清流を彩る紅葉の遊歩道と、開湯千二百年・武田信玄公の隠し湯「甲府湯村温泉」！皇族も宿泊する名門「常磐ホテル」、太宰治ゆかりの「旅館明治」、自家源泉の「柳屋」。甲州牛会席を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。
             </p>

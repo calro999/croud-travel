@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '【2026年】手仕事の器と窯元のぬくもり！益子・有田・波佐見・信楽など陶芸体験ができる名湯宿5選 ｜ 日本全国・旅宿クラウド',
+  title: '2026年：手仕事の器と窯元のぬくもり！益子・有田・波佐見・信楽など陶芸体験ができる名湯宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！有名陶芸産地を巡り、お気に入りの器で味わう郷土会席と陶芸ろくろ体験が楽しめる温泉宿5選。器好き・アート好きに選ばれる文化の宿。',
   keywords: ["2026年", "有田", "波佐見", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/traditional-craft-pottery-artisan-village-stay/",
   },
   openGraph: {
-    title: '【2026年】手仕事の器と窯元のぬくもり！益子・有田・波佐見・信楽など陶芸体験ができる名湯宿5選',
+    title: '2026年：手仕事の器と窯元のぬくもり！益子・有田・波佐見・信楽など陶芸体験ができる名湯宿5選',
     description: '2026年最新！有名陶芸産地を巡り、お気に入りの器で味わう郷土会席と陶芸ろくろ体験が楽しめる温泉宿5選。器好き・アート好きに選ばれる文化の宿。',
     url: 'https://croud-travel.pages.dev/traditional-craft-pottery-artisan-village-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -172,9 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>陶芸体験×名窯元の美肌湯宿</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            【2026年】手仕事の器と窯元のぬくもり！益子・有田・波佐見・信楽など陶芸体験ができる名湯宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」手仕事の器と窯元のぬくもり！益子・有田・波佐見・信楽など陶芸体験ができる名湯宿5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             益子焼、有田焼、波佐見焼、信楽焼など、全国の伝統的な焼き物の里。職人が心を込めて焼き上げたこだわりの器で供される四季の会席料理、自分だけの器を作る陶芸ろくろ体験、そして窯元巡りの後に浸かる癒やしの天然温泉。ものづくりの温もりに触れる旅へ。
           </p>

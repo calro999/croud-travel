@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月いわき湯本温泉】冬の味覚常磐もの寒アンコウ濃！名宿5選',
+  title: 'いわき湯本温泉で過ごす冬の旅（11・12月）！冬の味覚常磐もの寒アンコウ濃！名宿5選',
   description: '11月から12月にかけて本格的な冬の到来を迎える福島県いわき市。東北地方にありながら「東北のハワイ」と称されるほど温暖で。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: 'いわき湯本温泉 宿泊, 常磐もの 寒アンコウ どぶ汁, 目光 唐揚げ いわき, 福島牛 旅館, 日本三古湯 硫黄泉, 新つた 雨情の宿, 東北のハワイ 温泉旅行, 11月 12月 福島旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukushima-iwaki-yumoto-onsen-ankou-jobanmono-fukushimagyu-stay/"
   },
   openGraph: {
-    title: '【11・12月いわき湯本温泉】冬の味覚常磐もの寒アンコウ濃！名宿5選',
+    title: 'いわき湯本温泉で過ごす冬の旅（11・12月）！冬の味覚常磐もの寒アンコウ濃！名宿5選',
     description: '11月から12月にかけて本格的な冬の到来を迎える福島県いわき市。東北地方にありながら「東北のハワイ」と称されるほど温暖で。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-fukushima-iwaki-yumoto-onsen-ankou-jobanmono-fukushimagyu-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月いわき湯本温泉】冬の味覚常磐もの寒アンコウ濃厚どぶ汁鍋＆目光唐揚げ・日本三古湯の美肌硫黄泉と極上福島牛を味わう名宿5選",
+    title: "いわき湯本温泉で過ごす冬の旅（11・12月）！冬の味覚常磐もの寒アンコウ濃厚どぶ汁鍋＆目光唐揚げ・日本三古湯の美肌硫黄泉と極上福島牛を味わう名宿5選",
     description: "11月から12月にかけて本格的な冬の到来を迎える福島県いわき市。東北地方にありながら「東北のハワイ」と称されるほど温暖で、冬期でも積雪が極めて少ないいわき湯本温泉は、都心から特急「ひたち」で約2時間直通という抜群の利便性を誇る屈指の温泉リゾートです。有馬温泉・道後温泉と並び「日本三古湯」の一つに数えられる歴史ある名湯は、毎分5,000リットル以上自噴する全国でも稀有な「含硫黄-ナトリウム-塩化物・硫酸塩温泉」。ほのかな硫黄の香りとまろやかな肌触りが特徴で、血行を促進して冷えた体を芯から温め、肌をつるつるに整える美肌の湯として古くから親しまれてきました。そして初冬のいわき湯本で絶対に見逃せないのが、市場で最高値をつけるブランド魚「常磐もの（じょうばんもの）」の真骨頂である「寒アンコウ」。アンコウの新鮮な肝を乾煎りして味噌を加え、野菜と魚の水分だけで煮込む郷土伝統の「どぶ汁鍋」は、濃厚なコクとコラーゲンが溢れ出す至高の逸品です。さらにふっくら香ばしい「目光（メヒカリ）の唐揚げ」、芳醇な霜降り「福島牛」の陶板焼き、野口雨情ゆかりの庭園露天風呂など、心も体も温まる初冬の贅沢を味わえる厳選宿5選を詳しく紹介します。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -367,9 +367,7 @@ export default function FukushimaIwakiYumotoWinterPage() {
             <Sparkles className="w-3.5 h-3.5" />
             11月・12月初冬の常磐名湯＆寒アンコウ特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold tracking-tight text-white leading-tight">
-            {metadata.title as string}
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold tracking-tight text-white leading-tight">{metadata.title as string}</h1>
           <p className="text-xs sm:text-sm text-stone-300 leading-relaxed pt-2">
             日本三古湯の美肌硫黄泉と「東北のハワイ」と呼ばれる温暖な気候。
             水を使わずあん肝の濃厚なコクで煮込む本場常磐ものの寒アンコウどぶ汁鍋、サクサクの目光唐揚げ、極上福島牛を味わう初冬の旅。

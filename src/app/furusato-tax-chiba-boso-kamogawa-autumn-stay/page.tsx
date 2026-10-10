@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            千葉・南房総 鴨川の太平洋オーシャンビュー温泉＆秋の鯛の浦！伊勢海老・金目鯛と里山棚田
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">千葉・南房総 鴨川の太平洋オーシャンビュー温泉＆秋の鯛の浦！伊勢海老・金目鯛と里山棚田</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の千葉・鴨川＆南房総特集！秋晴れの太平洋を一望する絶景オーシャンビュー客室と自家源泉「鴨川温泉 なぎさの湯」、房総秋解禁の活伊勢海老や名物金目鯛の姿煮、大山千枚田の里山秋風情と鴨川シーワールドをふるさと納税トラベルクーポンでお得に楽しむ房総リゾート滞在。
           </p>

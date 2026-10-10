@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '四万温泉・奥四万湖の奇跡の四万ブルー紅葉＆千と千尋の木造宿！四万川渓谷露天×ふるさと納税完全ガイド【2026年最新秋旅】群馬',
+  title: '四万温泉・奥四万湖の奇跡の四万ブルー紅葉＆千と千尋の木造宿！四万川渓谷露天×ふるさと納税厳選ガイド群馬',
   description: '10月下旬〜11月上旬にコバルトブルーの湖面と紅葉が神秘のコントラストを描く名所「群馬・四万温泉 奥四万湖」。千と千尋の神隠しのモデルとされる歴史的木造宿や四万川沿いの足湯散策、四万（よんまん）の病を癒すと伝わる名湯「寿屋旅館」「あやめや旅館」「料理旅館くれない」で渓谷露天風呂と上州牛・川魚会席を堪能。ふるさと納税で実質2,000円。',
   keywords: ["四万温泉", "奥四万湖の奇跡の四万ブルー紅葉", "2026年最新秋旅", "群馬", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-shima-onsen-shimablue-autumn-stay/"
   },
   openGraph: {
-    title: '四万温泉・奥四万湖の奇跡の四万ブルー紅葉＆千と千尋の木造宿！四万川渓谷露天×ふるさと納税完全ガイド【2026年最新秋旅】群馬',
+    title: '四万温泉・奥四万湖の奇跡の四万ブルー紅葉＆千と千尋の木造宿！四万川渓谷露天×ふるさと納税厳選ガイド群馬',
     description: '10月下旬〜11月上旬にコバルトブルーの湖面と紅葉が神秘のコントラストを描く名所「群馬・四万温泉 奥四万湖」。千と千尋の神隠しのモデルとされる歴史的木造宿や四万川沿いの足湯散策、四万（よんまん）の病を癒すと伝わる名湯「寿屋旅館」「あやめや旅館」「料理旅館くれない」で渓谷露天風呂と上州牛・川魚会席を堪能。ふるさと納税で実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-shima-onsen-shimablue-autumn-stay',
     siteName: '旅宿クラウド',
@@ -113,9 +113,7 @@ export default function FeatureArticlePage() {
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">
-            四万温泉・奥四万湖の奇跡の四万ブルー紅葉＆千と千尋の木造宿！四万川渓谷露天×ふるさと納税完全ガイド【2026年最新秋旅】群馬
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">四万温泉・奥四万湖の奇跡の四万ブルー紅葉＆千と千尋の木造宿！四万川渓谷露天×ふるさと納税厳選ガイド群馬</h1>
           <p className="text-sm md:text-lg text-stone-200 max-w-3xl mx-auto leading-relaxed">
             神秘の四万ブルーに映える奥四万湖の錦秋と、四万の病を癒す四万川渓谷の秘湯ステイ。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
           </p>

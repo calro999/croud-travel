@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月岡山・美作三湯奥津】清流奥津渓の初冬雪景色と美肌！名宿5選',
+  title: '岡山・美作三湯奥津で過ごす冬の旅（11・12月）！清流奥津渓の初冬雪景色と美肌！名宿5選',
   description: '11月から12月にかけて、中国山地の懐に抱かれた岡山県北部・美作（みまさか）地方は、澄み切った冬空と初雪の山並みに包まれる静寂の温泉シーズンを迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '奥津温泉 宿泊, 湯郷温泉 旅館, 奥津荘, ポピースプリングス, 季譜の里, ゆのごう館, 米屋倶楽部, 作州牛, 津山そずり鍋, 美肌の湯, 11月 12月 岡山温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-okayama-mimasaka-okutsu-yunogo-onsen-sakushugyu-stay/"
   },
   openGraph: {
-    title: '【11・12月岡山・美作三湯奥津】清流奥津渓の初冬雪景色と美肌！名宿5選',
+    title: '岡山・美作三湯奥津で過ごす冬の旅（11・12月）！清流奥津渓の初冬雪景色と美肌！名宿5選',
     description: '11月から12月にかけて、中国山地の懐に抱かれた岡山県北部・美作（みまさか）地方は、澄み切った冬空と初雪の山並みに包まれる静寂の温泉シーズンを迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-okayama-mimasaka-okutsu-yunogo-onsen-sakushugyu-stay',
     siteName: 'クラドトラベル',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月岡山・美作三湯奥津＆湯郷温泉】清流奥津渓の初冬雪景色と美肌ぬる湯・極上作州牛＆津山そずり鍋を堪能する名宿5選",
+    title: "岡山・美作三湯奥津＆湯郷温泉で過ごす冬の旅（11・12月）！清流奥津渓の初冬雪景色と美肌ぬる湯・極上作州牛＆津山そずり鍋を堪能する名宿5選",
     description: "11月から12月にかけて、中国山地の懐に抱かれた岡山県北部・美作（みまさか）地方は、澄み切った冬空と初雪の山並みに包まれる静寂の温泉シーズンを迎えます。中国地方を代表する名湯地帯「美作三湯（みまさかさんとう）」の中でも、吉井川の清流沿いに湧く「奥津温泉（おくつおんせん）」は、川底の岩盤から自噴する極上の足元湧出泉「鍵湯」や伝統の「足踏み洗濯」で知られる美肌の名湯。一方、白鷺が傷を癒やした伝説が残る「湯郷温泉（ゆのごうおんせん）」は、宮本武蔵の生誕地近くに位置し、肌をしっとり潤すナトリウム・カルシウム-塩化物泉が湯客を優しく温めます。初冬の冷気の中で楽しむ渓流雪見露天、夕食には岡山が誇る最高峰の黒毛和牛「作州牛（さくしゅうぎゅう）」のステーキや陶板焼き、骨まわりの旨味肉を冬野菜と煮込む津山伝統の熱々「そずり鍋」、美作の地酒。大人の贅沢な冬の湯治旅にふさわしい厳選名宿5選を徹底解説します。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -248,12 +248,7 @@ export default function WinterOkayamaMimasakaPage() {
             11月・12月 清流奥津渓の初冬雪景色と美肌ぬる湯・作州牛特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月岡山・奥津＆湯郷温泉】美作三湯の初冬雪見と美肌湯
-            <span className="block text-rose-300 text-lg sm:text-2xl mt-3 font-normal">
-              吉井川の足元湧出天然岩風呂・極上作州牛＆津山そずり鍋を堪能する名宿5選
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">岡山・奥津＆湯郷温泉で過ごす冬の旅（11・12月）！美作三湯の初冬雪見と美肌湯 <span className="block text-rose-300 text-lg sm:text-2xl mt-3 font-normal"> 吉井川の足元湧出天然岩風呂・極上作州牛＆津山そずり鍋を堪能する名宿5選 </span></h1>
 
           <p className="text-sm sm:text-base text-stone-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、中国山地の懐に抱かれた岡山県北部・美作（みまさか）地方は、澄み切った冬空と初雪の山並みに包まれる静寂の温泉シーズンを迎えます。中国地方を代表する名湯地帯「美作三湯（みまさかさんとう）」の中でも、吉井川の清流沿いに湧く「奥津温泉（おくつおんせん）」は、川底の岩盤から自噴する極上の足元湧出泉「鍵湯」や伝統の「足踏み洗濯」で知られる美肌の名湯。一方、白鷺が傷を癒やした伝説が残る「湯郷温泉（ゆのごうおんせん）」は、宮本武蔵の生誕地近くに位置し、肌をしっとり潤すナトリウム・カルシウム-塩化物泉が湯客を優しく温めます。初冬の冷気の中で楽しむ渓流雪見露天、夕食には岡山が誇る最高峰の黒毛和牛「作州牛（さくしゅうぎゅう）」のステーキや陶板焼き、骨まわりの旨味肉を冬野菜と煮込む津山伝統の熱々「そずり鍋」、美作の地酒。大人の贅沢な冬の湯治旅にふさわしい厳選名宿5選を徹底解説します。

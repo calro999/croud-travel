@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/private-room-sauna-luxury-villa-retreat-stay/" },
-  title: '客室専用サウナ＆プライベートヴィラ宿完全ガイド【完全貸切・ととのいスイート】 | クラウドトラベル',
+  title: '客室専用サウナ＆プライベートヴィラ宿厳選ガイド「完全貸切・ととのいスイート」 | クラウドトラベル',
   description: '客室専用バレルサウナ、テラス付き水風呂、スイートルーム完備のプライベートサウナ付き宿を厳選。誰の目も気にせず24時間好きな時に自分だけのリズムでととのう至高の贅沢。',
   openGraph: {
-    title: '客室専用サウナ＆プライベートヴィラ宿完全ガイド【完全貸切・ととのいスイート】 | クラウドトラベル',
+    title: '客室専用サウナ＆プライベートヴィラ宿厳選ガイド「完全貸切・ととのいスイート」 | クラウドトラベル',
     description: '客室専用バレルサウナ、テラス付き水風呂、スイートルーム完備のプライベートサウナ付き宿を厳選。誰の目も気にせず24時間好きな時に自分だけのリズムでととのう至高の贅沢。',
     type: 'article',
   },
@@ -59,9 +59,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-emerald-500/20 text-emerald-200 border border-emerald-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             客室専用サウナ・貸切ヴィラ特化
           </div>
-          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-emerald-50">
-            客室専用サウナ＆プライベートヴィラ宿完全ガイド【完全貸切・ととのいスイート】
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-emerald-50">客室専用サウナ＆プライベートヴィラ宿厳選ガイド「完全貸切・ととのいスイート」</h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl">
             ドアを開ければ、そこは自分たちだけの完全プライベートサウナ。好みの温度へのセッティング、好きなタイミングでのセルフロウリュ、テラスに備えられた専用水風呂への直行、そしてバスローブのままベッドやテラスチェアへダイブ。順番待ちもマナーの気兼ねも一切ない、サウナーにとっての究極の贅沢がここにあります。大切なパートナーや友人、家族と過ごす至福のステイへご案内します。
           </p>

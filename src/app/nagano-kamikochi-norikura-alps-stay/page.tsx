@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagano-kamikochi-norikura-alps-stay/" },
-  title: "【長野・上高地＆乗鞍・白骨】河童橋・大正池・乳白色秘湯宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "長野・上高地＆乗鞍・白骨：河童橋・大正池・乳白色秘湯宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "神降地と称される北アルプスの聖地「上高地（河童橋・大正池・明神池）」、乗鞍岳麓のすずらん温泉「乗鞍高原」、三日入れば三年風邪を引かぬ名湯「白骨温泉」を徹底解説。絶景山岳ホテルや乳白色濁り湯の秘湯旅館を厳選。",
   keywords: ["長野", "上高地", "乗鞍", "白骨", "河童橋", "大正池", "乳白色秘湯宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             KAMIKOCHI & NORIKURA GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【長野・上高地＆乗鞍高原・白骨】河童橋・大正池・乳白色秘湯＆穂高連峰山岳宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「長野・上高地＆乗鞍高原・白骨」河童橋・大正池・乳白色秘湯＆穂高連峰山岳宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-teal-100/90 leading-relaxed">
             エメラルドグリーンの梓川と、鏡のように穂高連峰を映す大正池・河童橋の神々しい絶景「上高地」。マイカー規制により守られた静寂の山岳リゾートから、乗鞍岳の雄大な裾野に広がる乗鞍高原、そして乳白色の霊泉が湧く山間の秘湯・白骨温泉へ。日常を忘れ、清冽なアルプスの大自然と極上のいで湯に包まれる旅をお届けします。
           </p>

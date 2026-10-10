@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/amanohashidate-maizuru-solo-retreat-ocean-stay/" },
-  title: '【天橋立・舞鶴ひとり旅】日本三景パノラマ・茶褐色天橋立温泉・若狭湾の海の幸！海の京都でととのう厳選3宿',
+  title: '天橋立・舞鶴ひとり旅：日本三景パノラマ・茶褐色天橋立温泉・若狭湾の海の幸！海の京都でととのう厳選3宿',
   description: '京都駅から特急はしだてで直通約2時間！天橋立駅前で松並木を望む展望露天風呂が自慢の「天橋立ホテル」、運河沿いに佇み吉村順三設計の数寄屋建築が美しい「文珠荘」、舞鶴港・東舞鶴駅近くで出張や軍港巡りに便利な「ホテルアマービレ舞鶴」を楽天APIデータに基づき徹底比較。',
   keywords: '天橋立 一人旅 温泉,舞鶴 出張 ホテル,天橋立ホテル 宿泊,文珠荘 一人,ホテルアマービレ舞鶴,日本三景 海の京都 カニ',
   openGraph: {
-    title: '【天橋立・舞鶴ひとり旅】日本三景パノラマ・茶褐色天橋立温泉・若狭湾の海の幸！海の京都でととのう厳選3宿',
+    title: '天橋立・舞鶴ひとり旅：日本三景パノラマ・茶褐色天橋立温泉・若狭湾の海の幸！海の京都でととのう厳選3宿',
     description: '京都駅から特急はしだてで直通約2時間！天橋立駅前で松並木を望む展望露天風呂が自慢の「天橋立ホテル」、運河沿いに佇み吉村順三設計の数寄屋建築が美しい「文珠荘」、舞鶴港・東舞鶴駅近くで出張や軍港巡りに便利な「ホテルアマービレ舞鶴」を楽天APIデータに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/amanohashidate-maizuru-solo-retreat-ocean-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【天橋立・舞鶴ひとり旅】日本三景パノラマ・茶褐色天橋立温泉・若狭湾の海の幸！海の京都でととのう厳選3宿',
+    headline: '天橋立・舞鶴ひとり旅：日本三景パノラマ・茶褐色天橋立温泉・若狭湾の海の幸！海の京都でととのう厳選3宿',
     description: '京都駅から特急はしだてで直通約2時間！天橋立駅前で松並木を望む展望露天風呂が自慢の「天橋立ホテル」、運河沿いに佇み吉村順三設計の数寄屋建築が美しい「文珠荘」、舞鶴港・東舞鶴駅近くで出張や軍港巡りに便利な「ホテルアマービレ舞鶴」を楽天APIデータに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -73,9 +73,7 @@ export default function ArticlePage() {
         <div className="inline-block bg-amber-700 text-white text-xs font-semibold px-3 py-1 rounded-full mb-3 tracking-wider">
           ひとり旅・出張・サウナ＆名湯特集
         </div>
-        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">
-          【天橋立・舞鶴ひとり旅】日本三景パノラマ・茶褐色天橋立温泉・若狭湾の海の幸！海の京都でととのう厳選3宿
-        </h1>
+        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">「天橋立・舞鶴ひとり旅」日本三景パノラマ・茶褐色天橋立温泉・若狭湾の海の幸！海の京都でととのう厳選3宿</h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.12 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>

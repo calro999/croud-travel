@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagano-norikura-solo-retreat-milky-onsen-stay/" },
-  title: '【信州・乗鞍高原温泉ひとり旅・北アルプス白濁硫黄泉おこもり】乳白色源泉掛け流し・満天星空露天風呂・信州蕎麦と岩魚！乗鞍岳山麓の秘湯厳選3宿',
+  title: '信州・乗鞍高原温泉ひとり旅・北アルプス白濁硫黄泉おこもり：乳白色源泉掛け流し・満天星空露天風呂・信州蕎麦と岩魚！乗鞍岳山麓の秘湯厳選3宿',
   description: '乗鞍岳の標高1,500mに湧く日本屈指の白濁ミルキー温泉・信州乗鞍高原温泉！囲炉裏料理と濃厚な乳白色露天風呂が口コミ★4.6超の「旅館 仙山乗鞍」、星空と大自然に囲まれたペンション「ピーポロ乗鞍」、純度100%掛け流しの濁り湯が評判の「温泉宿 けやき山荘」を楽天API最新データに基づき徹底比較。',
   keywords: '乗鞍高原温泉 一人旅 宿,乗鞍 ホテル 一人 温泉,仙山乗鞍,ピーポロ乗鞍,けやき山荘 乗鞍,乗鞍 ひとり旅 おこもり',
   openGraph: {
-    title: '【信州・乗鞍高原温泉ひとり旅・北アルプス白濁硫黄泉おこもり】乳白色源泉掛け流し・満天星空露天風呂・信州蕎麦と岩魚！乗鞍岳山麓の秘湯厳選3宿',
+    title: '信州・乗鞍高原温泉ひとり旅・北アルプス白濁硫黄泉おこもり：乳白色源泉掛け流し・満天星空露天風呂・信州蕎麦と岩魚！乗鞍岳山麓の秘湯厳選3宿',
     description: '乗鞍岳の標高1,500mに湧く日本屈指の白濁ミルキー温泉・信州乗鞍高原温泉！囲炉裏料理と濃厚な乳白色露天風呂が口コミ★4.6超の「旅館 仙山乗鞍」、星空と大自然に囲まれたペンション「ピーポロ乗鞍」、純度100%掛け流しの濁り湯が評判の「温泉宿 けやき山荘」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/nagano-norikura-solo-retreat-milky-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【信州・乗鞍高原温泉ひとり旅・北アルプス白濁硫黄泉おこもり】乳白色源泉掛け流し・満天星空露天風呂・信州蕎麦と岩魚！乗鞍岳山麓の秘湯厳選3宿',
+    headline: '信州・乗鞍高原温泉ひとり旅・北アルプス白濁硫黄泉おこもり：乳白色源泉掛け流し・満天星空露天風呂・信州蕎麦と岩魚！乗鞍岳山麓の秘湯厳選3宿',
     description: '乗鞍岳の標高1,500mに湧く日本屈指の白濁ミルキー温泉・信州乗鞍高原温泉！囲炉裏料理と濃厚な乳白色露天風呂が口コミ★4.6超の「旅館 仙山乗鞍」、星空と大自然に囲まれたペンション「ピーポロ乗鞍」、純度100%掛け流しの濁り湯が評判の「温泉宿 けやき山荘」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             長野・乗鞍高原温泉ひとり旅＆北アルプス白濁美肌湯おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【信州・乗鞍高原温泉ひとり旅・北アルプス白濁硫黄泉おこもり】乳白色源泉掛け流し・満天星空露天風呂・信州蕎麦と岩魚！乗鞍岳山麓の秘湯厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「信州・乗鞍高原温泉ひとり旅・北アルプス白濁硫黄泉おこもり」乳白色源泉掛け流し・満天星空露天風呂・信州蕎麦と岩魚！乗鞍岳山麓の秘湯厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

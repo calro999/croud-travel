@@ -4,14 +4,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '神話の渓谷を彩る真名井の滝と紅葉！国見ヶ丘雲海・天岩戸神社＆高千穂名宿×ふるさと納税完全ガイド【2026年最新秋旅】宮崎 | 旅宿クラウド',
+  title: '神話の渓谷を彩る真名井の滝と紅葉！国見ヶ丘雲海・天岩戸神社＆高千穂名宿×ふるさと納税厳選ガイド宮崎 | 旅宿クラウド',
   description: '11月上旬〜下旬に見頃を迎える日本屈指のパワースポット「高千穂峡（真名井の滝）」。貸しボートから見上げる紅葉の柱状節理と、国見ヶ丘の奇跡の雲海、夜神楽が奉納される天岩戸神社！「旅館 神仙」「旅館 大和屋」「今国旅館」。日本一の高千穂牛を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
   keywords: ["天岩戸神社", "高千穂名宿×ふるさと納税", "2026年最新秋旅", "宮崎", "旅宿クラウド", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-takachiho-autumn-leaves-gorge-stay/"
   },
   openGraph: {
-    title: '神話の渓谷を彩る真名井の滝と紅葉！国見ヶ丘雲海・天岩戸神社＆高千穂名宿×ふるさと納税完全ガイド【2026年最新秋旅】宮崎',
+    title: '神話の渓谷を彩る真名井の滝と紅葉！国見ヶ丘雲海・天岩戸神社＆高千穂名宿×ふるさと納税厳選ガイド宮崎',
     description: '11月上旬〜下旬に見頃を迎える日本屈指のパワースポット「高千穂峡（真名井の滝）」。貸しボートから見上げる紅葉の柱状節理と、国見ヶ丘の奇跡の雲海、夜神楽が奉納される天岩戸神社！「旅館 神仙」「旅館 大和屋」「今国旅館」。日本一の高千穂牛を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-takachiho-autumn-leaves-gorge-stay',
     siteName: '旅宿クラウド',
@@ -65,9 +65,7 @@ export default function FurusatoTakachihoAutumnLeavesGorgeStayPage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               神話の里・高千穂峡紅葉ボート＆高千穂最高峰名旅館特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              神話の渓谷を彩る真名井の滝と紅葉！国見ヶ丘雲海・天岩戸神社＆高千穂名宿×ふるさと納税完全ガイド【2026年最新秋旅】宮崎
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">神話の渓谷を彩る真名井の滝と紅葉！国見ヶ丘雲海・天岩戸神社＆高千穂名宿×ふるさと納税厳選ガイド宮崎</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               11月上旬〜下旬に見頃を迎える日本屈指のパワースポット「高千穂峡（真名井の滝）」。貸しボートから見上げる紅葉の柱状節理と、国見ヶ丘の奇跡の雲海、夜神楽が奉納される天岩戸神社！「旅館 神仙」「旅館 大和屋」「今国旅館」。日本一の高千穂牛を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。
             </p>

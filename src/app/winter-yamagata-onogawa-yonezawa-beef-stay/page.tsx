@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【11・12月米沢牛すき焼きと小野川温泉】小野小町ゆかりの美肌名湯とかまくら雪見宿5選",
+  title: "米沢牛すき焼きと小野川温泉で過ごす冬の旅（11・12月）！小野小町ゆかりの美肌名湯とかまくら雪見宿5選",
   description: "11月下旬から里山が白銀の静寂に包まれる山形・米沢の奥座敷「小野川温泉」。平安の美女・小野小町が病を癒やしたと伝わる美肌の硫黄泉露天風呂と、とろける甘みの日本三大和牛「米沢牛すき焼き」、温泉熱で育つ冬限定のシャキシャキ小野川豆もやしを堪能する温もり旅。",
   keywords: '小野川温泉 旅館, 米沢牛 すき焼き 宿, 山形 温泉 宿泊, 米沢 温泉 ホテル, 小野川温泉 かまくら, 冬の山形旅行, 小野川 豆もやし',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamagata-onogawa-yonezawa-beef-stay/",
   },
   openGraph: {
-    title: "【11・12月米沢牛すき焼きと小野川温泉】小野小町ゆかりの美肌名湯とかまくら雪見宿5選",
+    title: "米沢牛すき焼きと小野川温泉で過ごす冬の旅（11・12月）！小野小町ゆかりの美肌名湯とかまくら雪見宿5選",
     description: "11月下旬から里山が白銀の静寂に包まれる山形・米沢の奥座敷「小野川温泉」。平安の美女・小野小町が病を癒やしたと伝わる美肌の硫黄泉露天風呂と、とろける甘みの日本三大和牛「米沢牛すき焼き」、温泉熱で育つ冬限定のシャキシャキ小野川豆もやしを堪能する温もり旅。",
     url: 'https://croud-travel.pages.dev/winter-yamagata-onogawa-yonezawa-beef-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月米沢牛すき焼きと小野川温泉】小野小町ゆかりの美肌名湯とかまくら雪見宿5選",
+    title: "米沢牛すき焼きと小野川温泉で過ごす冬の旅（11・12月）！小野小町ゆかりの美肌名湯とかまくら雪見宿5選",
     description: "11月下旬から里山が白銀の静寂に包まれる山形・米沢の奥座敷「小野川温泉」。平安の美女・小野小町が病を癒やしたと伝わる美肌の硫黄泉露天風呂と、とろける甘みの日本三大和牛「米沢牛すき焼き」、温泉熱で育つ冬限定のシャキシャキ小野川豆もやしを堪能する温もり旅。",
   }
 };
@@ -266,10 +266,7 @@ export default function OnogawaWinterPage() {
             <Flame className="w-4 h-4 text-amber-300" />
             <span>11月・12月限定 みちのく美肌温泉＆肉会席</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月米沢牛すき焼きと小野川温泉】<br className="hidden sm:inline" />
-            小野小町ゆかりの美肌名湯とかまくら雪見宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">米沢牛すき焼きと小野川温泉で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 小野小町ゆかりの美肌名湯とかまくら雪見宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             白銀の里山に立ち上る湯けむりと、平安の美女・小野小町を癒やした奇跡の美肌硫黄泉。日本三大和牛「米沢牛」のとろける極上すき焼きと冬限定の豆もやしに心まで温まる贅沢旅へ。
           </p>

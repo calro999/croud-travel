@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/night-highway-bus-packing-comfort-sleep-guide/" },
-  title: "【夜行高速バスで爆睡するための持ち物10選】首が痛い・乾燥・寒さで一睡もできなかった失敗談を完全解決 ｜ 日本全国・旅宿クラウド",
+  title: "夜行高速バスで爆睡するための持ち物10選：首が痛い・乾燥・寒さで一睡もできなかった失敗談を完全解決 ｜ 日本全国・旅宿クラウド",
   description: "夜行バス初心者必見の安眠・快適ハック！ネックピローの選び方、車内の極度な乾燥を防ぐ立体マスク、足のむくみ対策着圧ソックス、消灯後の過ごし方と到着後すぐ入れる早朝サウナ・大浴場ホテルガイド。",
   keywords: ["首が痛い", "乾燥", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
@@ -187,12 +187,7 @@ export default function NightHighwayBusPackingGuidePage() {
             <span>🌙 NIGHT BUS SLEEP HACKS</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-black tracking-tight leading-tight md:leading-tight text-white font-journal-serif">
-            【夜行高速バスで爆睡するための持ち物10選】<br className="hidden sm:inline" />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-400 via-sky-300 to-indigo-200">
-              首が痛い・乾燥・寒さで一睡もできなかった失敗談を完全解決
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-black tracking-tight leading-tight md:leading-tight text-white font-journal-serif">「夜行高速バスで爆睡するための持ち物10選」<br className="hidden sm:inline" /> <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-400 via-sky-300 to-indigo-200"> 首が痛い・乾燥・寒さで一睡もできなかった失敗談を完全解決 </span></h1>
 
           <p className="text-sm md:text-base text-slate-300 max-w-2xl mx-auto leading-relaxed">
             「安いから夜行バスに乗ったのに、翌日身体中がバキバキで観光どころじゃなかった。」そんな後悔を二度と繰り返さないために。年間50回夜行バスに乗る旅のプロが厳選した、車内で熟睡するための神アイテムと失敗回避ルーティンを徹底解説します。

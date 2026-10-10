@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月秋保温泉】伊達政宗公ゆかりの奥座敷！名宿5選',
+  title: '秋保温泉で過ごす冬の旅（11・12月）！伊達政宗公ゆかりの奥座敷！名宿5選',
   description: '杜の都・仙台の奥座敷として開湯1500年の歴史を誇り、日本三御湯の一つに数えられる秋保温泉。11月中旬の磊々峡の晩秋から12月の初雪へと移ろう初冬、名取川渓谷を望む露天風呂と、宮城の冬の風物詩「仙台せり鍋」、霜降り極上のA5仙台牛ステーキを心ゆくまで堪能する名宿ガイド。',
   keywords: '秋保温泉 宿泊 11月 12月, 秋保温泉 せり鍋 仙台牛, 伝承千年の宿 佐勘, ホテル瑞鳳 秋保, 茶寮宗園, 秋保温泉 篝火の湯 緑水亭, 磊々峡 冬 雪景色, 日本三御湯 仙台',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay/",
   },
   openGraph: {
-    title: '【11・12月秋保温泉】伊達政宗公ゆかりの奥座敷！名宿5選',
+    title: '秋保温泉で過ごす冬の旅（11・12月）！伊達政宗公ゆかりの奥座敷！名宿5選',
     description: '杜の都・仙台の奥座敷として開湯1500年の歴史を誇り、日本三御湯の一つに数えられる秋保温泉。11月中旬の磊々峡の晩秋から12月の初雪へと移ろう初冬、名取川渓谷を望む露天風呂と、宮城の冬の風物詩「仙台せり鍋」、霜降り極上のA5仙台牛ステーキを心ゆくまで堪能する名宿ガイド。',
     url: 'https://croud-travel.pages.dev/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月秋保温泉の初冬渓谷美と名湯】伊達政宗公ゆかりの奥座敷・最高峰A5仙台牛＆名物せり鍋の宿5選",
+    title: "秋保温泉の初冬渓谷美と名湯で過ごす冬の旅（11・12月）！伊達政宗公ゆかりの奥座敷・最高峰A5仙台牛＆名物せり鍋の宿5選",
     description: "杜の都・仙台の奥座敷として開湯1500年の歴史を誇り、日本三御湯の一つに数えられる秋保温泉。11月中旬の磊々峡の晩秋から12月の初雪へと移ろう初冬、名取川渓谷を望む露天風呂と、宮城の冬の風物詩「仙台せり鍋」、霜降り極上のA5仙台牛ステーキを心ゆくまで堪能する名宿ガイド。",
   }
 };
@@ -259,10 +259,7 @@ export default function AkiuWinterPage() {
             <Eye className="w-4 h-4 text-emerald-300" />
             <span>11月・12月限定 日本三御湯の奥座敷＆A5仙台牛・名物仙台せり鍋特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月秋保温泉の初冬渓谷美と名湯】<br className="hidden sm:inline" />
-            伊達政宗公ゆかりの奥座敷・最高峰A5仙台牛＆名物せり鍋の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">秋保温泉の初冬渓谷美と名湯で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 伊達政宗公ゆかりの奥座敷・最高峰A5仙台牛＆名物せり鍋の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             皇室に愛された「日本三御湯」にして仙台藩祖・伊達政宗公の湯守の歴史を今に伝える秋保温泉。名取川渓谷「磊々峡」を望む名湯露天風呂。宮城の初冬の味覚の頂点「仙台せり鍋」と霜降り極上のA5仙台牛に酔いしれる贅沢な冬旅。
           </p>

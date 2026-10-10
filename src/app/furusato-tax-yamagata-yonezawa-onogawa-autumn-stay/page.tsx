@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            山形・米沢牛のふるさと小野川温泉＆白布温泉！小野小町開湯の美肌湯と天元台紅葉
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">山形・米沢牛のふるさと小野川温泉＆白布温泉！小野小町開湯の美肌湯と天元台紅葉</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の山形・米沢＆小野川・白布温泉特集！平安の美女・小野小町が開湯した美肌の名湯「小野川温泉」と開湯700年の秘湯「白布温泉」、天元台高原の錦秋ロープウェイ、日本屈指のブランド牛「米沢牛」の極上すき焼き会席をふるさと納税トラベルで味わう贅沢プラン。
           </p>

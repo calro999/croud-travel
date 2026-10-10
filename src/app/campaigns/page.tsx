@@ -3,11 +3,11 @@ import Link from "next/link";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/campaigns/" },
-  title: "【最新】楽天トラベルお得キャンペーン・クーポン・セール一覧 ｜ 日本全国・旅宿クラウド",
+  title: "最新：楽天トラベルお得キャンペーン・クーポン・セール一覧 ｜ 日本全国・旅宿クラウド",
   description: "楽天トラベルの最新割引クーポン、サマーセール、5と0のつく日高級宿セール、ふるさと納税クーポン、初めて利用キャンペーンなどの超お得な最新セール情報を一挙ご紹介！",
   keywords: ["最新", "楽天トラベルお得キャンペーン", "クーポン", "セール一覧", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: "【最新】楽天トラベルお得キャンペーン・クーポン・セール一覧",
+    title: "最新：楽天トラベルお得キャンペーン・クーポン・セール一覧",
     description: "楽天トラベルの最新割引クーポン、サマーセール、5と0のつく日高級宿セール、ふるさと納税クーポンなどの超お得な最新セール情報を一挙ご紹介！",
   }
 };
@@ -143,9 +143,7 @@ export default function CampaignsPage() {
         <span className="inline-block text-[10px] font-extrabold tracking-widest bg-white/20 border border-white/30 px-3.5 py-1 rounded-full uppercase">
           お得に旅する攻略ガイド 🎁
         </span>
-        <h1 className="text-2xl md:text-4xl font-black font-journal-serif leading-snug">
-          楽天トラベル 最新キャンペーン・クーポン・セール特集
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-black font-journal-serif leading-snug">楽天トラベル 最新キャンペーン・クーポン・セール特集</h1>
         <p className="text-amber-100/90 text-xs md:text-sm max-w-2xl leading-relaxed font-medium">
           高級ホテルや温泉旅館、家族旅行、ドライブ旅を最も安く賢く予約するための「最新セール・限定クーポン」を一挙にまとめてご紹介。予約前にぜひエントリー・クーポン獲得をお忘れなく！
         </p>

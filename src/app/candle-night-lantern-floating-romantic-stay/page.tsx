@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '【2026年】無数のキャンドルとランタンの揺らめき！幻想的な夜を彩るロマンティック温泉宿5選 ｜ 日本全国・旅宿クラウド',
+  title: '2026年：無数のキャンドルとランタンの揺らめき！幻想的な夜を彩るロマンティック温泉宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！竹灯籠やスカイランタン、無数のキャンドルが灯る温泉街と宿の庭園。記念日やカップル旅行にぴったりの幻想的な灯りイベントと名湯宿5選。',
   keywords: ["2026年", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/candle-night-lantern-floating-romantic-stay/",
   },
   openGraph: {
-    title: '【2026年】無数のキャンドルとランタンの揺らめき！幻想的な夜を彩るロマンティック温泉宿5選',
+    title: '2026年：無数のキャンドルとランタンの揺らめき！幻想的な夜を彩るロマンティック温泉宿5選',
     description: '2026年最新！竹灯籠やスカイランタン、無数のキャンドルが灯る温泉街と宿の庭園。記念日やカップル旅行にぴったりの幻想的な灯りイベントと名湯宿5選。',
     url: 'https://croud-travel.pages.dev/candle-night-lantern-floating-romantic-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -172,9 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>キャンドルナイト×幻想ランタン温泉</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            【2026年】無数のキャンドルとランタンの揺らめき！幻想的な夜を彩るロマンティック温泉宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」無数のキャンドルとランタンの揺らめき！幻想的な夜を彩るロマンティック温泉宿5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             夕闇が訪れると、回廊や日本庭園に無数の竹灯籠やキャンドルの灯りが灯る幻想的な夜。柔らかなオレンジ色の光に包まれて歩く夜の散策、ライトアップされた露天風呂に浮かぶ灯篭。非日常のロマンティックな美しさに心が満たされる特別な滞在へ。
           </p>

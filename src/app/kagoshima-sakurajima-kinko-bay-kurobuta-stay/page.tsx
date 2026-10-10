@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kagoshima-sakurajima-kinko-bay-kurobuta-stay/" },
-  title: "【鹿児島・桜島＆城山】活火山パノラマ・黒豚しゃぶ＆展望温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "鹿児島・桜島＆城山：活火山パノラマ・黒豚しゃぶ＆展望温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "今なお噴煙を上げる世界的な活火山「桜島」、穏やかな錦江湾のオーシャンビュー、西郷隆盛最期の地「城山展望台」、最高峰ブランド「かごしま黒豚しゃぶしゃぶ」を徹底解説。桜島を望む展望露天風呂ホテルや名門温泉宿を厳選。",
   keywords: ["鹿児島", "桜島", "城山", "活火山パノラマ", "黒豚しゃぶ", "展望温泉宿", "温泉宿"],
 };
@@ -92,9 +92,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             SAKURAJIMA & KINKO BAY GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【鹿児島・桜島＆錦江湾・城山】活火山パノラマ・かごしま黒豚しゃぶ＆城山展望宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「鹿児島・桜島＆錦江湾・城山」活火山パノラマ・かごしま黒豚しゃぶ＆城山展望宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-teal-100/90 leading-relaxed">
             鹿児島市街地の目の前にそびえ立ち、青い錦江湾（鹿児島湾）の海原越しに雄大な噴煙を上げる国際的活火山「桜島」。標高107mの高台「城山展望台」から見下ろす桜島と街並みのダイナミックなパノラマ。西郷隆盛や大久保利通ら幕末維新の英傑たちが愛した薩摩の風土。そして旨味と甘みが詰まった「かごしま黒豚しゃぶしゃぶ」と芋焼酎に酔いしれる南国・鹿児島ステイへご案内します。
           </p>

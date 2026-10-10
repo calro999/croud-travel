@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '紫に染まるラベンダー畑と神秘の青い池！富良野・美瑛の十勝岳連峰一望リゾート＆源泉かけ流し名湯×ふるさと納税完全攻略ガイド【2026年最新】新富良野プリンス・オリカ・白金温泉ゆゆ',
+  title: '紫に染まるラベンダー畑と神秘の青い池！富良野・美瑛の十勝岳連峰一望リゾート＆源泉かけ流し名湯×ふるさと納税極上旅ガイド新富良野プリンス・オリカ・白金温泉ゆゆ',
   description: '見渡す限りのパッチワークの丘と紫のラベンダー畑！北海道中央部・富良野と美瑛。「新富良野プリンスホテル」「富良野リゾート オリカ」「碧の美 ゆゆ（旧湯元白金温泉ホテル）」を、富良野市・中富良野町・美瑛町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。ニングルテラス、富良野温泉、美瑛青い池、ふらの和牛を満喫。',
   keywords: ["美瑛の十勝岳連峰一望リゾート", "2026年最新", "新富良野プリンス", "オリカ", "白金温泉ゆゆ", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-furano-biei-lavender-nature-stay/",
   },
   openGraph: {
-    title: '紫に染まるラベンダー畑と神秘の青い池！富良野・美瑛の十勝岳連峰一望リゾート＆源泉かけ流し名湯×ふるさと納税完全攻略ガイド【2026年最新】新富良野プリンス・オリカ・白金温泉ゆゆ',
+    title: '紫に染まるラベンダー畑と神秘の青い池！富良野・美瑛の十勝岳連峰一望リゾート＆源泉かけ流し名湯×ふるさと納税極上旅ガイド新富良野プリンス・オリカ・白金温泉ゆゆ',
     description: '見渡す限りのパッチワークの丘と紫のラベンダー畑！北海道中央部・富良野と美瑛。「新富良野プリンスホテル」「富良野リゾート オリカ」「碧の美 ゆゆ（旧湯元白金温泉ホテル）」を、富良野市・中富良野町・美瑛町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。ニングルテラス、富良野温泉、美瑛青い池、ふらの和牛を満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-furano-biei-lavender-nature-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoFuranoBieiLuxuryStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           パッチワークの丘と満開のラベンダー！北海道富良野・美瑛特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          紫に染まるラベンダー畑と神秘の青い池！富良野・美瑛の十勝岳連峰一望リゾート＆源泉かけ流し名湯×ふるさと納税完全攻略ガイド【2026年最新】新富良野プリンス・オリカ・白金温泉ゆゆ
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">紫に染まるラベンダー畑と神秘の青い池！富良野・美瑛の十勝岳連峰一望リゾート＆源泉かけ流し名湯×ふるさと納税極上旅ガイド新富良野プリンス・オリカ・白金温泉ゆゆ</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoFuranoBieiLuxuryStayPage() {
               冬の富良野を満喫するチャンス！期間限定タイムセール開催中。今だけ使えるクーポン配布中！
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “期待外れな点もあったけど...もろもろ満足5階の部屋に3泊しました。高台にあるので眺めを期待していたのですが、木々とうっすら山が見える程度。少し残念でした。洗面台コーナーが狭いので仕方がないのです… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D30804%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoFuranoBieiLuxuryStayPage() {
               上質で魅力あるステイを「丘の上の邸宅」で。　※11月と4月は休館
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “スタッフの皆様の温かいおもてなしとお料理に大満足の滞在でした。”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D9215%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoFuranoBieiLuxuryStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               十勝岳山麓の原生林に抱かれた天然温泉
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “白髭の滝と濁り湯は最高、デザートは残念ホテルからすぐのとこに歩いて白髭の滝が見れます!旬の食材のバイキングが楽しめて良かったです!デザートの盛り付けがオシャレでどれも美味しいそうで、最後に… ”
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

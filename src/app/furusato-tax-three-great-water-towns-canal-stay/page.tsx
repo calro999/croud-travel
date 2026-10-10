@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '日本三大水郷の情緒あふれる川下りと水辺の名旅館×ふるさと納税完全ガイド【2026年最新】近江八幡・柳川・潮来',
+  title: '日本三大水郷の情緒あふれる川下りと水辺の名旅館×ふるさと納税厳選ガイド近江八幡・柳川・潮来',
   description: '白壁土蔵が水面に映える滋賀・近江八幡の八幡堀、どんこ舟で巡る福岡・柳川の掘割と鰻せいろ蒸し、十二橋めぐりとあやめ薫る茨城・潮来。日本の水郷情緒に癒やされる旅。楽天ふるさと納税宿泊クーポン完全活用。',
   keywords: ["2026年最新", "近江八幡", "柳川", "潮来", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-water-towns-canal-stay/",
   },
   openGraph: {
-    title: '日本三大水郷の情緒あふれる川下りと水辺の名旅館×ふるさと納税完全ガイド【2026年最新】近江八幡・柳川・潮来',
+    title: '日本三大水郷の情緒あふれる川下りと水辺の名旅館×ふるさと納税厳選ガイド近江八幡・柳川・潮来',
     description: '白壁土蔵が水面に映える滋賀・近江八幡の八幡堀、どんこ舟で巡る福岡・柳川の掘割と鰻せいろ蒸し、十二橋めぐりとあやめ薫る茨城・潮来。日本の水郷情緒に癒やされる旅。楽天ふるさと納税宿泊クーポン完全活用。',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-water-towns-canal-stay',
     siteName: '旅宿クラウド',
@@ -108,9 +108,7 @@ export default function FurusatoUpgradedPage() {
             <span>✨</span>
             <span>日本三大水郷・舟運川下り特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            日本三大水郷の情緒あふれる川下りと水辺の名旅館×ふるさと納税完全ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">日本三大水郷の情緒あふれる川下りと水辺の名旅館×ふるさと納税厳選ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             水とともに生き、豊かな生活文化を育んできた「日本三大水郷」。近江商人の栄華を伝える八幡堀とヨシ原が広がる「近江八幡」、縦横に巡らされた掘割を竿一本で巧みに操る川下りが名物の「柳川」、前川のあやめと利根川水系の舟運の歴史が息づく「潮来」。櫓の音や川のせせらぎに耳を澄まし、獲れたての湖魚や名物うなぎ料理を味わう贅沢。楽天ふるさと納税の宿泊クーポンを活用して、水辺の情緒あふれる大人の休息旅へご案内します。
           </p>

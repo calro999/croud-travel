@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】日本三大秘境のスリルと絶景！祖谷のかずら橋＆断崖ケーブルカー露天の秘境宿5選 | 日本全国・旅宿クラウド',
+  title: '2026年：日本三大秘境のスリルと絶景！祖谷のかずら橋＆断崖ケーブルカー露天の秘境宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！シラクチカズラで編まれたスリル満点の吊り橋「祖谷のかずら橋」！断崖絶壁をケーブルカーで下る秘境の谷底露天風呂と阿波尾鶏会席の宿5選。',
   keywords: ["2026年", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: '【2026年】日本三大秘境のスリルと絶景！祖谷のかずら橋＆断崖ケーブルカー露天の秘境宿5選',
+    title: '2026年：日本三大秘境のスリルと絶景！祖谷のかずら橋＆断崖ケーブルカー露天の秘境宿5選',
     description: '2026年最新！シラクチカズラで編まれたスリル満点の吊り橋「祖谷のかずら橋」！断崖絶壁をケーブルカーで下る秘境の谷底露天風呂と阿波尾鶏会席の宿5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/super-panoramic-canyon-bridge-walk-stay',
@@ -191,9 +191,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> 祖谷のかずら橋×ケーブルカー谷底秘湯
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】日本三大秘境のスリルと絶景！祖谷のかずら橋＆断崖ケーブルカー露天の秘境宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」日本三大秘境のスリルと絶景！祖谷のかずら橋＆断崖ケーブルカー露天の秘境宿5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             深いV字谷に架かるスリル満点の「祖谷のかずら橋」。専用ケーブルカーで断崖絶壁を下った先にある秘境の谷底露天風呂や、阿波牛・阿波尾鶏、名物祖谷蕎麦を囲む囲炉裏会席で、日本の原風景に浸る徳島・祖谷の旅。
           </p>

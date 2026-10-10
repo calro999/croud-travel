@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/yamagata-zao-solo-retreat-onsen-stay/" },
-  title: '【蔵王温泉ひとり旅・強酸性美肌の湯おこもり】大露天風呂・樹氷パノラマ・山形牛すき焼き！白濁硫黄泉に包まれる高原ソロリトリート厳選3宿',
+  title: '蔵王温泉ひとり旅・強酸性美肌の湯おこもり：大露天風呂・樹氷パノラマ・山形牛すき焼き！白濁硫黄泉に包まれる高原ソロリトリート厳選3宿',
   description: '日本屈指の強酸性硫黄泉・蔵王！豊かな白樺林に囲まれ野趣あふれる露天風呂が自慢の「森のホテル ヴァルトベルク」、手軽に源泉かけ流し温泉を満喫できるモダンな「BED\'n ONSEN HAMMOND。」、山形牛料理と天然温泉が自慢の「ル・ベール蔵王」を楽天API最新データに基づき徹底比較。',
   keywords: '蔵王温泉 一人旅 宿,蔵王 ホテル 一人 温泉,森のホテル ヴァルトベルク,HAMMOND 蔵王,ル・ベール蔵王,蔵王 樹氷 温泉 ひとり旅',
   openGraph: {
-    title: '【蔵王温泉ひとり旅・強酸性美肌の湯おこもり】大露天風呂・樹氷パノラマ・山形牛すき焼き！白濁硫黄泉に包まれる高原ソロリトリート厳選3宿',
+    title: '蔵王温泉ひとり旅・強酸性美肌の湯おこもり：大露天風呂・樹氷パノラマ・山形牛すき焼き！白濁硫黄泉に包まれる高原ソロリトリート厳選3宿',
     description: '日本屈指の強酸性硫黄泉・蔵王！豊かな白樺林に囲まれ野趣あふれる露天風呂が自慢の「森のホテル ヴァルトベルク」、手軽に源泉かけ流し温泉を満喫できるモダンな「BED\'n ONSEN HAMMOND。」、山形牛料理と天然温泉が自慢の「ル・ベール蔵王」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/yamagata-zao-solo-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【蔵王温泉ひとり旅・強酸性美肌の湯おこもり】大露天風呂・樹氷パノラマ・山形牛すき焼き！白濁硫黄泉に包まれる高原ソロリトリート厳選3宿',
+    headline: '蔵王温泉ひとり旅・強酸性美肌の湯おこもり：大露天風呂・樹氷パノラマ・山形牛すき焼き！白濁硫黄泉に包まれる高原ソロリトリート厳選3宿',
     description: '日本屈指の強酸性硫黄泉・蔵王！豊かな白樺林に囲まれ野趣あふれる露天風呂が自慢の「森のホテル ヴァルトベルク」、手軽に源泉かけ流し温泉を満喫できるモダンな「BED\'n ONSEN HAMMOND。」、山形牛料理と天然温泉が自慢の「ル・ベール蔵王」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             山形・蔵王温泉ひとり旅＆強酸性名湯おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【蔵王温泉ひとり旅・強酸性美肌の湯おこもり】大露天風呂・樹氷パノラマ・山形牛すき焼き！白濁硫黄泉に包まれる高原ソロリトリート厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「蔵王温泉ひとり旅・強酸性美肌の湯おこもり」大露天風呂・樹氷パノラマ・山形牛すき焼き！白濁硫黄泉に包まれる高原ソロリトリート厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

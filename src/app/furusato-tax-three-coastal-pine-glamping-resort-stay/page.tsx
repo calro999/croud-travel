@@ -42,9 +42,7 @@ export default function Page() {
             <span className="inline-block w-2 h-2 rounded-full bg-rose-400 animate-pulse" />
             日本三大松原・海岸リゾート特集
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">
-            日本三大松原・海岸グランピング宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三大松原・海岸グランピング宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg md:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed font-normal">
             潮風と松の香りに包まれる極上アウトドアリゾート！佐賀「虹の松原」玄界灘オーシャンビューと唐津シーサイドホテル、福井「気比の松原」敦賀湾の白砂青松とホテルルートイン敦賀駅前、静岡「三保松原」富士山を仰ぐ風景美術館日本平ホテル。日本三大松原の海岸リゾート＆グランピングステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。
           </p>

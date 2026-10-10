@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月奥日光】日本屈指のエメラルド硫黄泉と日光湯波会席！名宿5選',
+  title: '奥日光で過ごす冬の旅（11・12月）！日本屈指のエメラルド硫黄泉と日光湯波会席！名宿5選',
   description: '11月中旬から雪化粧が始まり、12月には息を呑む白銀の静寂が広がる標高約1500mの奥日光・湯元温泉。日本で4番目に濃いエメラルドグリーンから乳白色へ変わる神秘の硫黄泉露天風呂と、伝統の日光湯波・とちぎ和牛に舌鼓を打つ極上の雪見温泉旅。',
   keywords: '日光湯元温泉 旅館, 奥日光 温泉 宿泊, 日光 雪見 温泉, 奥日光 にごり湯 宿, 日光湯波 会席 旅館, 栃木 11月 12月 旅行, 冬の日光 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tochigi-okunikko-yumoto-snow-onsen-stay/",
   },
   openGraph: {
-    title: '【11・12月奥日光】日本屈指のエメラルド硫黄泉と日光湯波会席！名宿5選',
+    title: '奥日光で過ごす冬の旅（11・12月）！日本屈指のエメラルド硫黄泉と日光湯波会席！名宿5選',
     description: '11月中旬から雪化粧が始まり、12月には息を呑む白銀の静寂が広がる標高約1500mの奥日光・湯元温泉。日本で4番目に濃いエメラルドグリーンから乳白色へ変わる神秘の硫黄泉露天風呂と、伝統の日光湯波・とちぎ和牛に舌鼓を打つ極上の雪見温泉旅。',
     url: 'https://croud-travel.pages.dev/winter-tochigi-okunikko-yumoto-snow-onsen-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月奥日光の白銀世界と濃厚にごり湯】日本屈指のエメラルド硫黄泉と日光湯波会席宿5選",
+    title: "奥日光の白銀世界と濃厚にごり湯で過ごす冬の旅（11・12月）！日本屈指のエメラルド硫黄泉と日光湯波会席宿5選",
     description: "11月中旬から雪化粧が始まり、12月には息を呑む白銀の静寂が広がる標高約1500mの奥日光・湯元温泉。日本で4番目に濃いエメラルドグリーンから乳白色へ変わる神秘の硫黄泉露天風呂と、伝統の日光湯波・とちぎ和牛に舌鼓を打つ極上の雪見温泉旅。",
   }
 };
@@ -266,10 +266,7 @@ export default function OkunikkoWinterPage() {
             <Snowflake className="w-4 h-4 text-cyan-300" />
             <span>11月・12月限定 奥日光の本格雪見温泉</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月奥日光の白銀世界と濃厚にごり湯】<br className="hidden sm:inline" />
-            日本屈指のエメラルド硫黄泉と日光湯波会席宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">奥日光の白銀世界と濃厚にごり湯で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 日本屈指のエメラルド硫黄泉と日光湯波会席宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             標高約1500mの雲上に広がる純白の雪国。空気に触れるとエメラルドグリーンから乳白色へと変化する奇跡の硫黄泉露天風呂で温まり、名物日光湯波ととちぎ和牛に舌鼓を打つ極上の冬旅。
           </p>

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kanazawa-travel-budget-guide/" },
-  title: "【金沢旅行 費用】1泊2日・2泊3日いくらかかる？交通費・宿泊費・食費の内訳＆節約術【2026年最新】",
+  title: "金沢旅行 費用：1泊2日・2泊3日いくらかかる？交通費・宿泊費・食費の内訳＆節約術",
   description: "金沢旅行の費用を1泊2日・2泊3日のパターン別に徹底解説！東京・大阪・名古屋からの交通費、金沢駅前ホテル・温泉旅館の宿泊費、近江町市場・ひがし茶屋街のグルメ費用、兼六園・21世紀美術館の入場料まで、リアルな総額を公開。",
 };
 
@@ -50,9 +50,7 @@ export default function KanazawaBudgetGuide() {
 
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
-      <h1 className="font-journal-serif text-3xl font-bold text-emerald-900 mb-6 leading-tight">
-        【金沢旅行 費用】1泊2日・2泊3日いくらかかる？交通費・宿泊費・食費の内訳＆節約術【2026年最新】
-      </h1>
+      <h1 className="font-journal-serif text-3xl font-bold text-emerald-900 mb-6 leading-tight">「金沢旅行 費用」1泊2日・2泊3日いくらかかる？交通費・宿泊費・食費の内訳＆節約術</h1>
       
       <p className="text-gray-700 mb-8 leading-relaxed">
         「金沢に旅行に行きたいけど、予算はどれくらい用意すればいい？」

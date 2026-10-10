@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月松之山温泉】日本三大薬湯の自噴化石海水と！名宿5選',
+  title: '松之山温泉で過ごす冬の旅（11・12月）！日本三大薬湯の自噴化石海水と！名宿5選',
   description: '11月下旬から12月にかけて、日本有数の豪雪地帯である新潟県十日町市・越後松之山の山峡は、静寂と降り積もる白銀の雪に包まれます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '松之山温泉 旅館, ひなの宿 ちとせ, 酒の宿 玉城屋, 凌雲閣, 白川屋, 醸す森, 日本三大薬湯, 美人林 雪景色, 妻有ポーク, 魚沼コシヒカリ, 11月 12月 新潟温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-niigata-matsunoyama-onsen-yakuto-snow-tsumari-pork-stay/"
   },
   openGraph: {
-    title: '【11・12月松之山温泉】日本三大薬湯の自噴化石海水と！名宿5選',
+    title: '松之山温泉で過ごす冬の旅（11・12月）！日本三大薬湯の自噴化石海水と！名宿5選',
     description: '11月下旬から12月にかけて、日本有数の豪雪地帯である新潟県十日町市・越後松之山の山峡は、静寂と降り積もる白銀の雪に包まれます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-niigata-matsunoyama-onsen-yakuto-snow-tsumari-pork-stay',
     siteName: 'クラドトラベル',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月新潟・松之山温泉】日本三大薬湯の自噴化石海水と美人林の雪景色・極上妻有ポークと魚沼コシヒカリを味わう名宿5選",
+    title: "新潟・松之山温泉で過ごす冬の旅（11・12月）！日本三大薬湯の自噴化石海水と美人林の雪景色・極上妻有ポークと魚沼コシヒカリを味わう名宿5選",
     description: "11月下旬から12月にかけて、日本有数の豪雪地帯である新潟県十日町市・越後松之山の山峡は、静寂と降り積もる白銀の雪に包まれます。草津、有馬と並び「日本三大薬湯」の一つに数えられる松之山温泉は、約1200万年前の太古の海水が地殻変動によって閉じ込められ、高温高圧のマグマ熱で温められて自噴する奇跡の「ジオプレッシャー型化石海水温泉」。基準値の数十倍に達する濃厚なホウ酸と塩分を含み、肌にまとわりつくような塩化物泉は驚異的な保温・殺菌力を誇ります。樹齢約100年のブナの木々が立ち並ぶ名所「美人林」の初冬雪景色を愛でた後は、湯けむり立ち込める雪見露天風呂で心身を解放。夕餉には、新潟の銘柄豚「妻有（つまり）ポーク」の雪室熟成しゃぶしゃぶ、最高峰の魚沼産コシヒカリの炊き立て土鍋ご飯、越後が誇る銘酒の数々を味わう贅沢な時間が待っています。初冬の松之山で本物の湯治文化と美味に浸る至極の名宿5選を詳しく紹介します。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -43,7 +43,7 @@ export default function NiigataMatsunoyamaPage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: "【11・12月新潟・松之山温泉】日本三大薬湯の自噴化石海水と美人林の雪景色・極上妻有ポークと魚沼コシヒカリを味わう名宿5選",
+    headline: "新潟・松之山温泉で過ごす冬の旅（11・12月）！日本三大薬湯の自噴化石海水と美人林の雪景色・極上妻有ポークと魚沼コシヒカリを味わう名宿5選",
     description: "11月下旬から12月にかけて、日本有数の豪雪地帯である新潟県十日町市・越後松之山の山峡は、静寂と降り積もる白銀の雪に包まれます。草津、有馬と並び「日本三大薬湯」の一つに数えられる松之山温泉は、約1200万年前の太古の海水が地殻変動によって閉じ込められ、高温高圧のマグマ熱で温められて自噴する奇跡の「ジオプレッシャー型化石海水温泉」。基準値の数十倍に達する濃厚なホウ酸と塩分を含み、肌にまとわりつくような塩化物泉は驚異的な保温・殺菌力を誇ります。樹齢約100年のブナの木々が立ち並ぶ名所「美人林」の初冬雪景色を愛でた後は、湯けむり立ち込める雪見露天風呂で心身を解放。夕餉には、新潟の銘柄豚「妻有（つまり）ポーク」の雪室熟成しゃぶしゃぶ、最高峰の魚沼産コシヒカリの炊き立て土鍋ご飯、越後が誇る銘酒の数々を味わう贅沢な時間が待っています。初冬の松之山で本物の湯治文化と美味に浸る至極の名宿5選を詳しく紹介します。",
     image: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
     datePublished: 'T12:00:00+09:00',
@@ -213,10 +213,7 @@ export default function NiigataMatsunoyamaPage() {
             <Snowflake className="w-4 h-4 text-amber-200" />
             <span>11・12月 冬の極上秘湯旅特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white leading-tight tracking-tight drop-shadow-md">
-            新潟・十日町・松之山温泉<br className="hidden sm:inline" />
-            日本三大薬湯の自噴化石海水と妻有ポーク名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white leading-tight tracking-tight drop-shadow-md">新潟・十日町・松之山温泉<br className="hidden sm:inline" /> 日本三大薬湯の自噴化石海水と妻有ポーク名宿5選</h1>
           <p className="text-stone-200 text-sm sm:text-base max-w-3xl leading-relaxed drop-shadow-xs">
             11月下旬から日本有数の豪雪地帯へ。約1200万年前の化石海水が自噴する奇跡の薬湯、美人林の静謐な白銀雪景色、銘柄豚「妻有ポーク」と魚沼産コシヒカリの極上料理を味わい尽くす旅。
           </p>

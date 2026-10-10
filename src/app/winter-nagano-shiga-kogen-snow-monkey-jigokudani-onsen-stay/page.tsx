@@ -21,14 +21,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【志賀高原＆地獄谷野猿公苑】スノーモンキーと極上パウダースノー！名宿5選',
+  title: '志賀高原＆地獄谷野猿公苑：スノーモンキーと極上パウダースノー！名宿5選',
   description: '世界が息を呑む奇跡の光景「温泉に入る雪猿（スノーモンキー）」地獄谷野猿公苑の冬攻略完全ガイド。白銀の横手山・焼額山パウダースノー。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '志賀高原, 地獄谷野猿公苑, スノーモンキー, 湯田中温泉, 渋温泉, 志賀高原プリンスホテル, 金具屋, よろづや, 九湯めぐり, 信州牛, 冬旅行, スキー',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-nagano-shiga-kogen-snow-monkey-jigokudani-onsen-stay',
   },
   openGraph: {
-    title: '【志賀高原＆地獄谷野猿公苑】スノーモンキーと極上パウダースノー！名宿5選',
+    title: '志賀高原＆地獄谷野猿公苑：スノーモンキーと極上パウダースノー！名宿5選',
     description: '世界が息を呑む奇跡の光景「温泉に入る雪猿（スノーモンキー）」地獄谷野猿公苑の冬攻略完全ガイド。白銀の横手山・焼額山パウダースノー。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-nagano-shiga-kogen-snow-monkey-jigokudani-onsen-stay',
     siteName: 'トラベルマップ - 日本の観光名所＆ホテル厳選ガイド',
@@ -45,7 +45,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: '【志賀高原＆地獄谷野猿公苑】スノーモンキーと極上パウダースノー！湯田中・渋温泉郷の九湯めぐり＆信州牛を堪能する冬の名宿5選',
+    title: '志賀高原＆地獄谷野猿公苑：スノーモンキーと極上パウダースノー！湯田中・渋温泉郷の九湯めぐり＆信州牛を堪能する冬の名宿5選',
     description: '世界が息を呑む奇跡の光景「温泉に入る雪猿（スノーモンキー）」地獄谷野猿公苑の冬攻略完全ガイド。白銀の横手山・焼額山パウダースノー、渋温泉の石畳九湯めぐり、登録有形文化財の名湯「桃山風呂」や老舗金具屋など、冬の北信濃を満喫する厳選ホテル・温泉旅館5選を徹底特集。',
     images: ['https://img.travel.rakuten.co.jp/share/HOTEL/30695/30695.jpg'],
   },
@@ -55,7 +55,7 @@ export default function ShigaKogenSnowMonkeyPage() {
   const jsonLdArticle = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【志賀高原＆地獄谷野猿公苑】スノーモンキーと極上パウダースノー！湯田中・渋温泉郷の九湯めぐり＆信州牛を堪能する冬の名宿5選',
+    headline: '志賀高原＆地獄谷野猿公苑：スノーモンキーと極上パウダースノー！湯田中・渋温泉郷の九湯めぐり＆信州牛を堪能する冬の名宿5選',
     description: '世界が息を呑む奇跡の光景「温泉に入る雪猿（スノーモンキー）」地獄谷野猿公苑の冬攻略完全ガイド。白銀の横手山・焼額山パウダースノー、渋温泉の石畳九湯めぐり、登録有形文化財の名湯「桃山風呂」や老舗金具屋など、冬の北信濃を満喫する厳選ホテル・温泉旅館5選。',
     image: 'https://img.travel.rakuten.co.jp/share/HOTEL/30695/30695.jpg',
     datePublished: 'T00:00:00+09:00',
@@ -171,13 +171,7 @@ export default function ShigaKogenSnowMonkeyPage() {
             <span>12月・1月・2月 北信濃の白銀ハイシーズン特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight sm:leading-tight mb-6">
-            【志賀高原＆地獄谷野猿公苑】<br className="hidden sm:inline" />
-            世界が息を呑むスノーモンキーと極上パウダースノー！<br />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-200 via-sky-200 to-amber-200">
-              湯田中・渋温泉郷の九湯めぐり＆信州牛会席を満喫する名宿5選
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight sm:leading-tight mb-6">「志賀高原＆地獄谷野猿公苑」<br className="hidden sm:inline" /> 世界が息を呑むスノーモンキーと極上パウダースノー！<br /> <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-200 via-sky-200 to-amber-200"> 湯田中・渋温泉郷の九湯めぐり＆信州牛会席を満喫する名宿5選 </span></h1>
 
           <p className="text-sm sm:text-lg text-slate-300 leading-relaxed max-w-3xl mx-auto mb-8">
             氷点下の山奥、白銀の世界でうっとりと温泉に浸かる野生の日本猿「スノーモンキー」。世界中の旅人を魅了する奇跡の地獄谷野猿公苑と、標高2,000m級がもたらす極上ドライパウダースノーの志賀高原。大正・昭和の木造建築が残る渋温泉の石畳街道で名物「外湯九湯めぐり」に癒やされ、信州プレミアム牛肉と旬の地酒に舌鼓を打つ、冬の極上旅情をお届けします。

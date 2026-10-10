@@ -5,11 +5,11 @@ import Image from 'next/image';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tochigi-nasu-shiobara-itamuro-kuroiso-stay/" },
-  title: '【栃木・那須塩原＆板室・黒磯】茶臼岳・板室立ち湯＆黒磯カフェ・那須牛宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+  title: '栃木・那須塩原＆板室・黒磯：茶臼岳・板室立ち湯＆黒磯カフェ・那須牛宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
   description: '噴煙たなびく那須連山の主峰「茶臼岳ロープウェイ」、九尾の狐伝説が眠る「殺生石」、平安時代開湯・杖いらずの下野薬湯「板室温泉」の深型立ち湯、若者に人気の黒磯駅前SHOZOカフェストリート、とろける極上「那須黒毛和牛」ステーキ宿を徹底解説。',
   keywords: ["栃木", "那須塩原", "板室", "黒磯", "茶臼岳", "板室立ち湯", "黒磯カフェ"],
   openGraph: {
-    title: '【栃木・那須塩原＆板室・黒磯】茶臼岳・板室立ち湯＆黒磯カフェ・那須牛宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+    title: '栃木・那須塩原＆板室・黒磯：茶臼岳・板室立ち湯＆黒磯カフェ・那須牛宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
     description: '噴煙たなびく那須連山の主峰「茶臼岳ロープウェイ」、九尾の狐伝説が眠る「殺生石」、平安時代開湯・杖いらずの下野薬湯「板室温泉」の深型立ち湯、若者に人気の黒磯駅前SHOZOカフェストリート、とろける極上「那須黒毛和牛」ステーキ宿を徹底解説。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/tochigi-nasu-shiobara-itamuro-kuroiso-stay',
@@ -50,9 +50,7 @@ export default function Page() {
             <span>🗺️</span>
             <span>NASU, ITAMURO & KUROISO GUIDE</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">
-            【栃木・那須塩原＆板室・黒磯】那須茶臼岳・板室立ち湯＆黒磯レトロカフェ宿 完全ガイド
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">「栃木・那須塩原＆板室・黒磯」那須茶臼岳・板室立ち湯＆黒磯レトロカフェ宿 厳選ガイド</h1>
           <p className="max-w-3xl mx-auto text-stone-300 text-sm sm:text-base md:text-lg leading-relaxed mb-8">
             那須連山の雄大な裾野に広がる御用邸の高原リゾート「那須」。活火山ならではのダイナミックな噴煙を上げる「茶臼岳」とミステリアスな伝説が息づく「殺生石」。那珂川源流の静寂な山あいに佇み、綱につかまって深く浸かる伝統の立ち湯で知られる秘湯「板室温泉」。そして古い商店や倉庫を改装したお洒落なカフェやベーカリーが集まる「黒磯」。大自然のアクティビティと洗練されたカルチャーが融合する那須塩原ステイへご案内します。
           </p>

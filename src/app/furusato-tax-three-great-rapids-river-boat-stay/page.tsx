@@ -42,9 +42,7 @@ export default function Page() {
             <span className="inline-block w-2 h-2 rounded-full bg-rose-400 animate-pulse" />
             日本三大急流・大自然と舟旅特集
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">
-            日本三大急流＆舟下り・リバーサイド宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三大急流＆舟下り・リバーサイド宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg md:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed font-normal">
             水しぶきを浴びて進む大迫力の舟旅！山形「最上川」芭蕉の舟唄と高見屋最上川別邸紅、山梨「富士川」武田信玄の隠し湯下部ホテル、熊本「球磨川」九州一の激流下りと人吉城下町の有形文化財芳野旅館。日本三大急流の豪快な舟下りと清流リバーサイド温泉を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。
           </p>

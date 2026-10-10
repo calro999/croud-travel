@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月滋賀・おごと温泉】特選近江牛！名宿5選',
+  title: '滋賀・おごと温泉で過ごす冬の旅（11・12月）！特選近江牛！名宿5選',
   description: '11月から12月にかけて、京都駅からJR湖西線でわずか20分という好立地にありながら、雄大な琵琶湖の湖畔に静かに佇む「おごと温泉（雄琴温泉）」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: 'おごと温泉 宿泊, おごと温泉 11月 12月, びわこ緑水亭, びわ湖花街道, 暖灯館きくのや, 雄山荘, 湯の宿木もれび, 近江牛 宿, 琵琶湖 温泉 露天風呂, 比叡山 延暦寺 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shiga-ogoto-onsen-biwako-omigyu-stay/"
   },
   openGraph: {
-    title: '【11・12月滋賀・おごと温泉】特選近江牛！名宿5選',
+    title: '滋賀・おごと温泉で過ごす冬の旅（11・12月）！特選近江牛！名宿5選',
     description: '11月から12月にかけて、京都駅からJR湖西線でわずか20分という好立地にありながら、雄大な琵琶湖の湖畔に静かに佇む「おごと温泉（雄琴温泉）」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-shiga-ogoto-onsen-biwako-omigyu-stay',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -280,10 +280,7 @@ export default function ShigaOgotoWinterFeature() {
             <Mountain className="w-4 h-4" />
             11月・12月 初冬の湖畔美景＆極上和牛特集｜滋賀・おごと温泉
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月滋賀・おごと温泉】<br className="hidden sm:inline" />
-            初冬びわ湖景観と開湯1200年美肌霊泉・特選近江牛＆真鴨鍋の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">滋賀・おごと温泉で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 初冬びわ湖景観と開湯1200年美肌霊泉・特選近江牛＆真鴨鍋の宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             京都駅からJRでわずか20分。比叡山の初冠雪を仰ぎ、茜色に染まる琵琶湖を望む極上の湖畔リトリート。伝教大師最澄ゆかりのpH9.0美肌霊泉と、霜降り近江牛＆冬限定真鴨鍋の饗宴。
           </p>

@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月静岡】富士山本宮浅間大社新春初詣！名宿5選',
+  title: '11・12・1月静岡：富士山本宮浅間大社新春初詣！名宿5選',
   description: '冬の静岡・富士宮は、年間で最も空気が澄み渡り、純白の雪をまとった霊峰富士が真っ青な空に最も美しく映える奇跡のシーズン。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '富士宮 ホテル, 富士山本宮浅間大社 初詣, 富士山 絶景 宿, 田貫湖 逆さ富士, 休暇村富士, 静岡そだち牛, 富士宮やきそば, 朝霧高原 冬, 11月 12月 1月 静岡 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shizuoka-fujinomiya-sengen-taisha-fuji-view-wagyu-stay/"
   },
   openGraph: {
-    title: '【11・12・1月静岡】富士山本宮浅間大社新春初詣！名宿5選',
+    title: '11・12・1月静岡：富士山本宮浅間大社新春初詣！名宿5選',
     description: '冬の静岡・富士宮は、年間で最も空気が澄み渡り、純白の雪をまとった霊峰富士が真っ青な空に最も美しく映える奇跡のシーズン。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-fujinomiya-sengen-taisha-fuji-view-wagyu-stay',
     type: 'article',
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月静岡】白雪の富士山絶景＆富士山本宮浅間大社新春初詣！田貫湖逆さ富士と特選「静岡そだち」牛を堪能する名宿5選",
+    title: "11・12・1月静岡：白雪の富士山絶景＆富士山本宮浅間大社新春初詣！田貫湖逆さ富士と特選「静岡そだち」牛を堪能する名宿5選",
     description: "冬の静岡・富士宮は、年間で最も空気が澄み渡り、純白の雪をまとった霊峰富士が真っ青な空に最も美しく映える奇跡のシーズン。全国1,300社を超える浅間神社の総本宮「富士山本宮浅間大社」での新春開運初詣と国指定特別天然記念物・湧玉池の神聖な湧水、鏡のような湖面に雪富士が映る田貫湖の白雪逆さ富士、氷瀑のような白糸の滝、雄大な朝霧高原。静岡が誇る特選黒毛和牛「静岡そだち」の極上すき焼きや熱々の名物富士宮やきそば、富士山を望む展望露天風呂に癒やされる冬の厳選名宿5選を徹底案内します。"
   }
 };
@@ -230,10 +230,7 @@ export default function ShizuokaFujinomiyaPage() {
             <Snowflake className="w-4 h-4 text-sky-300" />
             11月・12月・1月冬の特選旅｜静岡・富士宮＆朝霧高原
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">
-            白雪の富士山絶景＆富士山本宮浅間大社新春初詣！<br className="hidden sm:inline" />
-            田貫湖逆さ富士と特選「静岡そだち」牛の名宿5選
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">白雪の富士山絶景＆富士山本宮浅間大社新春初詣！<br className="hidden sm:inline" /> 田貫湖逆さ富士と特選「静岡そだち」牛の名宿5選</h1>
           <p className="text-base sm:text-lg text-sky-100/90 leading-relaxed max-w-4xl mb-8">
             太平洋側の澄み渡る青空に、純白の冠雪をまとった霊峰富士が最も鮮やかにそびえ立つ冬の富士宮。徳川家康が造営した全国浅間神社の総本宮「富士山本宮浅間大社」での清らかな新春初詣、鏡のような湖面に雪富士が映える田貫湖の逆さ富士、氷の芸術が煌めく白糸の滝。そして静岡が世界に誇る特選黒毛和牛「静岡そだち」の贅沢なすき焼きや名物富士宮やきそば。冬ならではの絶景と美食、極上の温もりに包まれる名宿を徹底案内します。
           </p>

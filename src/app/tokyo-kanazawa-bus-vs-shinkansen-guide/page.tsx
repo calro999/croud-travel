@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tokyo-kanazawa-bus-vs-shinkansen-guide/" },
-  title: "【東京から金沢 安く行く方法】新幹線と高速バスどっち？料金・時間比較＆1泊2日モデルコース【2026年最新】 ｜ 日本全国・旅宿クラウド",
+  title: "東京から金沢 安く行く方法：新幹線と高速バスどっち？料金・時間比較＆1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "東京から金沢へ安く行く方法を徹底比較！北陸新幹線（約14,380円/2時間半）と高速バス（約3,500円〜/夜行便）どっちがお得？片道1万円以上浮くバス旅のメリット、混雑回避の早朝海鮮丼・茶屋街・近江町市場1泊2日モデルコース＆金沢駅前おすすめ宿。",
   keywords: ["東京から金沢", "安く行く方法", "新幹線と高速バスどっち？料金", "時間比較", "1泊2日モデルコース", "2026年最新", "温泉宿"],
 };
@@ -162,9 +162,7 @@ export default function HighwayBusArticlePage() {
               交通手段の徹底比較＆最適ルート
             </span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【東京から金沢 安く行く方法】新幹線と高速バスどっち？料金・時間比較＆1泊2日モデルコース【2026年最新】
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">「東京から金沢 安く行く方法」新幹線と高速バスどっち？料金・時間比較＆1泊2日モデルコース</h1>
           <p className="text-xs md:text-sm text-cyan-100/90 leading-relaxed font-medium">
             北陸新幹線延伸で身近になった金沢。新幹線なら最速2時間30分・片道約14,380円、高速バスなら最速約7時間半・片道約3,500円〜！移動費を1万円以上節約して、近江町市場の海鮮丼やひがし茶屋街のカフェ、駅前天然温泉ホテルをランクアップするスマートな金沢旅。
           </p>

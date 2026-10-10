@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/mie-shima-kashikojima-resort-stay/" },
-  title: "【三重・志摩賢島】英虞湾リアス多島美＆志摩観光ホテル・伊勢海老極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "三重・志摩賢島：英虞湾リアス多島美＆志摩観光ホテル・伊勢海老極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "伊勢志摩サミットの舞台・賢島エリア完全特化！英虞湾リアス式海岸の夕景、横山展望台天空カフェ、賢島エスパーニャクルーズ、志摩観光ホテルの伝統フレンチと絶景リゾートホテルを徹底解説。",
   keywords: ["三重", "志摩賢島", "英虞湾リアス多島美", "志摩観光ホテル", "伊勢海老極上宿", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             SHIMA KASHIKOJIMA LUXURY GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【三重・志摩賢島】英虞湾リアス多島美＆志摩観光ホテル・伊勢海老極上宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「三重・志摩賢島」英虞湾リアス多島美＆志摩観光ホテル・伊勢海老極上宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             真珠養殖発祥の地・英虞湾（あごわん）に浮かぶ賢島。夕暮れに黄金色に染まるリアス海岸の多島美と、各国の首脳を魅了した日本最高峰のラグジュアリーリゾートステイ。
           </p>

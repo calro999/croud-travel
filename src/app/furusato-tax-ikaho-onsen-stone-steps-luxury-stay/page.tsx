@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '365段の石段街と情緒あふれる湯滝！伊香保温泉の「黄金の湯」「白銀の湯」名門旅館＆上州牛会席×ふるさと納税完全攻略ガイド【2026年最新】福一・岸権・木暮',
+  title: '365段の石段街と情緒あふれる湯滝！伊香保温泉の「黄金の湯」「白銀の湯」名門旅館＆上州牛会席×ふるさと納税極上旅ガイド福一・岸権・木暮',
   description: '万葉集にも詠まれた名湯・群馬県伊香保温泉！365段の石段街と湯の花まんじゅう。「福一」「岸権旅館」「ホテル木暮」を、群馬県渋川市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。創業四百四十年最上位の格式、黄金の湯かけ流し、北関東最大級大浴場、上州牛ステーキを満喫。',
   keywords: ["2026年最新", "福一", "岸権", "木暮", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-ikaho-onsen-stone-steps-luxury-stay/",
   },
   openGraph: {
-    title: '365段の石段街と情緒あふれる湯滝！伊香保温泉の「黄金の湯」「白銀の湯」名門旅館＆上州牛会席×ふるさと納税完全攻略ガイド【2026年最新】福一・岸権・木暮',
+    title: '365段の石段街と情緒あふれる湯滝！伊香保温泉の「黄金の湯」「白銀の湯」名門旅館＆上州牛会席×ふるさと納税極上旅ガイド福一・岸権・木暮',
     description: '万葉集にも詠まれた名湯・群馬県伊香保温泉！365段の石段街と湯の花まんじゅう。「福一」「岸権旅館」「ホテル木暮」を、群馬県渋川市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。創業四百四十年最上位の格式、黄金の湯かけ流し、北関東最大級大浴場、上州牛ステーキを満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-ikaho-onsen-stone-steps-luxury-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoIkahoOnsenStoneStepsStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           365段の石段街と二大名湯！群馬県伊香保温泉特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          365段の石段街と情緒あふれる湯滝！伊香保温泉の「黄金の湯」「白銀の湯」名門旅館＆上州牛会席×ふるさと納税完全攻略ガイド【2026年最新】福一・岸権・木暮
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">365段の石段街と情緒あふれる湯滝！伊香保温泉の「黄金の湯」「白銀の湯」名門旅館＆上州牛会席×ふるさと納税極上旅ガイド福一・岸権・木暮</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoIkahoOnsenStoneStepsStayPage() {
               創業440年。石段街最上段「黄金の湯」「白銀の湯」二湯を有す数少ない宿。
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “部屋は綺麗でラボットに子供も大喜び!部屋もとても綺麗で、ロビーには子供が喜ぶラボットがいました。石段街へのアクセスも抜群に良く、大変満足でした。また機会があれば利用したいと思います。クチコミの… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D28606%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoIkahoOnsenStoneStepsStayPage() {
               露天・大浴場・貸切など全てが「黄金の湯」地産地消にこだわった創作会席と絶景が自慢の老舗旅館
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “心に残る素敵な旅になりましたすごく素敵な旅になりました。 ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D6267%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoIkahoOnsenStoneStepsStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               ★2024年楽天お風呂評価_全国２位★北関東最大級1300坪_庭園露天付き大浴場
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “ウェルカムドリンクや食事、眺望に大満足!チェックインを待つ間のウェルカムドリンクがいろいろな種類があり美味しかったです。部屋に持ち帰れる紙コップの気遣い、嬉しかったです。お部屋は掃除がされてい… ”
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

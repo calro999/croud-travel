@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月南伊豆＆下賀茂温泉】旬の伊勢海老姿造り！名宿5選',
+  title: '南伊豆＆下賀茂温泉で過ごす冬の旅（11・12月）！旬の伊勢海老姿造り！名宿5選',
   description: '11月から12月にかけて寒風が吹き始める本州において、黒潮が洗う伊豆半島最南端の「南伊豆・下賀茂温泉＆弓ヶ浜」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '南伊豆 宿泊, 下賀茂温泉 旅館, 弓ヶ浜 温泉, 伊勢海老 祭り 南伊豆, 地金目鯛 姿煮, 季一遊 南伊豆, 爪木崎 水仙まつり, 避寒 温泉旅行, 11月 12月 伊豆旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shizuoka-minamiizu-shimogamo-onsen-iseebi-kinmedai-stay/"
   },
   openGraph: {
-    title: '【11・12月南伊豆＆下賀茂温泉】旬の伊勢海老姿造り！名宿5選',
+    title: '南伊豆＆下賀茂温泉で過ごす冬の旅（11・12月）！旬の伊勢海老姿造り！名宿5選',
     description: '11月から12月にかけて寒風が吹き始める本州において、黒潮が洗う伊豆半島最南端の「南伊豆・下賀茂温泉＆弓ヶ浜」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-minamiizu-shimogamo-onsen-iseebi-kinmedai-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月南伊豆＆下賀茂温泉】温暖な避寒リゾートと湯煙南国情緒・旬の伊勢海老姿造り＆脂が乗った地金目鯛姿煮・水仙まつりを巡る名宿5選",
+    title: "南伊豆＆下賀茂温泉で過ごす冬の旅（11・12月）！温暖な避寒リゾートと湯煙南国情緒・旬の伊勢海老姿造り＆脂が乗った地金目鯛姿煮・水仙まつりを巡る名宿5選",
     description: "11月から12月にかけて寒風が吹き始める本州において、黒潮が洗う伊豆半島最南端の「南伊豆・下賀茂温泉＆弓ヶ浜」は、初冬でも平均気温15℃前後というポカポカとした温暖な気候に恵まれた屈指の避寒温泉リゾートです。青野川沿いの至る所から100℃近い純白の湯煙が立ちのぼり、ソテツやヤシの木が揺れる南国情緒と、情緒あふれる数寄屋造りの温泉宿が共存する独特の景観が旅人を迎えます。下賀茂温泉の泉質は、豊富な塩分とカルシウムを含む良質な塩化物泉。湯船に身を沈めれば塩分が肌の表面にヴェールを作り、冷たい海風を遮って体の芯からポカポカとした保温効果がいつまでも持続します。そして初冬の南伊豆で最大のハイライトが、10月から12月にかけて最盛期を迎える「伊勢海老」。引き締まった身の甘みと濃厚な味噌を味わう姿造りや鬼殻焼き、翌朝の贅沢な伊勢海老味噌汁はまさに感動の美食体験です。さらに冬に最も脂が乗りコクを増す「地金目鯛の煮付け」やしゃぶしゃぶ、温泉熱を利用して育てられる極甘の「温泉メロン」、12月中旬から爪木崎の断崖に300万本が咲き誇る「水仙まつり」など、初冬の南伊豆を満喫できる厳選宿5選を詳しく紹介します。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -367,9 +367,7 @@ export default function ShizuokaMinamiizuShimogamoWinterPage() {
             <Sparkles className="w-3.5 h-3.5" />
             11月・12月初冬の南伊豆避寒＆伊勢海老・金目鯛特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold tracking-tight text-white leading-tight">
-            {metadata.title as string}
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold tracking-tight text-white leading-tight">{metadata.title as string}</h1>
           <p className="text-xs sm:text-sm text-stone-300 leading-relaxed pt-2">
             黒潮が運ぶ温暖な気候と、弓ヶ浜の白砂青松・下賀茂の立ちのぼる湯煙。
             初冬に甘みと旨味が凝縮する本場伊勢海老の姿造り、地金目鯛の姿煮、300万本の水仙が香る避寒リゾートへ。

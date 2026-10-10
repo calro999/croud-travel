@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/panoramic-view-sauna-fuji-ocean-lake-resort-stay/" },
-  title: '富士山・海・夜景パノラマ絶景サウナ宿完全ガイド【展望ととのいテラス】 | クラウドトラベル',
+  title: '富士山・海・夜景パノラマ絶景サウナ宿厳選ガイド「展望ととのいテラス」 | クラウドトラベル',
   description: '雪化粧の富士山、どこまでも広がる水平線、きらめく都市の摩天楼夜景を一望するパノラマビューサウナを特集。絶景とともに外気浴デッキでととのう非日常のスパリゾート。',
   openGraph: {
-    title: '富士山・海・夜景パノラマ絶景サウナ宿完全ガイド【展望ととのいテラス】 | クラウドトラベル',
+    title: '富士山・海・夜景パノラマ絶景サウナ宿厳選ガイド「展望ととのいテラス」 | クラウドトラベル',
     description: '雪化粧の富士山、どこまでも広がる水平線、きらめく都市の摩天楼夜景を一望するパノラマビューサウナを特集。絶景とともに外気浴デッキでととのう非日常のスパリゾート。',
     type: 'article',
   },
@@ -59,9 +59,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-emerald-500/20 text-emerald-200 border border-emerald-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             パノラマ絶景サウナ特化
           </div>
-          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-emerald-50">
-            富士山・海・夜景パノラマ絶景サウナ宿完全ガイド【展望ととのいテラス】
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-emerald-50">富士山・海・夜景パノラマ絶景サウナ宿厳選ガイド「展望ととのいテラス」</h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl">
             サウナ室の大きなピクチャーウィンドウ越しに望む霊峰富士の威容、夕暮れに茜色へ染まる大海原、あるいは眼下にきらめく大都市の摩天楼夜景。ただ汗を流すだけでなく、圧倒的なロケーションの美しさに心を奪われながら迎える外気浴は、まさに極上のトリップ。眺望と癒しが究極の調和を奏でる、全国のパノラマ絶景サウナホテルへご案内します。
           </p>

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hyogo-kinosaki-onsen-stay/" },
-  title: "【兵庫・城崎温泉】七田外湯めぐり＆松葉ガニ・浴衣街歩き極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "兵庫・城崎温泉：七田外湯めぐり＆松葉ガニ・浴衣街歩き極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "兵庫・城崎温泉エリア完全特化！大谿川の柳並木、一の湯・御所の湯など7つの外湯めぐり、津居山・柴山港タグ付き松葉ガニと老舗木造旅館を徹底解説。",
   keywords: ["兵庫", "城崎温泉", "七田外湯めぐり", "松葉ガニ", "浴衣街歩き極上宿", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             KINOSAKI ONSEN MICRO GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【兵庫・城崎温泉】七田外湯めぐり＆松葉ガニ・浴衣街歩き極上宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「兵庫・城崎温泉」七田外湯めぐり＆松葉ガニ・浴衣街歩き極上宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             浴衣に丹前を羽織り、カランコロンと下駄を鳴らして太鼓橋を渡る。1300年の歴史を誇る名湯・城崎温泉で、7つの外湯めぐりと冬の味覚の王者・松葉ガニに酔いしれる至福の旅。
           </p>

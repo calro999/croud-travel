@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            瀬の本高原の黄金ススキと杖立温泉蒸し湯！阿蘇カルデラ絶景・小国あか牛＆ジャージー乳を味わう秋旅
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">瀬の本高原の黄金ススキと杖立温泉蒸し湯！阿蘇カルデラ絶景・小国あか牛＆ジャージー乳を味わう秋旅</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             見渡す限りの黄金ススキが揺れる高原と、立ち上る高温蒸気に包まれる杖立の極上湯治
           </p>

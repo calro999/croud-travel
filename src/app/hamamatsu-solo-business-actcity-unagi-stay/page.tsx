@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hamamatsu-solo-business-actcity-unagi-stay/" },
-  title: '【浜松出張＆ソログルメ泊】新幹線直結アクトシティ・地上45階スカイビュー・絶品うなぎ！ものづくりの街の快適拠点 厳選3選',
+  title: '浜松出張＆ソログルメ泊：新幹線直結アクトシティ・地上45階スカイビュー・絶品うなぎ！ものづくりの街の快適拠点 厳選3選',
   description: '東海道新幹線ひかり停車駅・静岡県浜松市！「楽器の街を象徴する45階建てランドマークタワー。」を誇る「オークラアクトシティホテル浜松」、浜松駅徒歩すぐで国際水準の快適性を備えた「ANAクラウンプラザホテル浜松（旧ホテルクラウンパレス）。」、浜松城公園の緑を望むシティリゾート「ホテルコンコルド浜松」を徹底特集。',
   keywords: '浜松 出張 ホテル おすすめ,浜松 一人旅 ホテル,オークラアクトシティホテル浜松 宿泊,ANAクラウンプラザホテル浜松 出張,浜松 うなぎ ホテル',
   openGraph: {
-    title: '【浜松出張＆ソログルメ泊】新幹線直結アクトシティ・地上45階スカイビュー・絶品うなぎ！ものづくりの街の快適拠点 厳選3選',
+    title: '浜松出張＆ソログルメ泊：新幹線直結アクトシティ・地上45階スカイビュー・絶品うなぎ！ものづくりの街の快適拠点 厳選3選',
     description: '東海道新幹線ひかり停車駅・静岡県浜松市！「楽器の街を象徴する45階建てランドマークタワー。」を誇る「オークラアクトシティホテル浜松」、浜松駅徒歩すぐで国際水準の快適性を備えた「ANAクラウンプラザホテル浜松（旧ホテルクラウンパレス）。」、浜松城公園の緑を望むシティリゾート「ホテルコンコルド浜松」を徹底特集。',
     url: 'https://croud-travel.pages.dev/hamamatsu-solo-business-actcity-unagi-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【浜松出張＆ソログルメ泊】新幹線直結アクトシティ・地上45階スカイビュー・絶品うなぎ！ものづくりの街の快適拠点 厳選3選',
+    headline: '浜松出張＆ソログルメ泊：新幹線直結アクトシティ・地上45階スカイビュー・絶品うなぎ！ものづくりの街の快適拠点 厳選3選',
     description: '東海道新幹線ひかり停車駅・静岡県浜松市！「楽器の街を象徴する45階建てランドマークタワー。」を誇る「オークラアクトシティホテル浜松」、浜松駅徒歩すぐで国際水準の快適性を備えた「ANAクラウンプラザホテル浜松（旧ホテルクラウンパレス）。」、浜松城公園の緑を望むシティリゾート「ホテルコンコルド浜松」を徹底特集。',
     author: {
       '@type': 'Organization',
@@ -74,9 +74,7 @@ export default function ArticlePage() {
           <span>✨</span>
           <span>浜松・出張＆うなぎ・アクトシティ特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【浜松出張＆ソログルメ泊】新幹線直結アクトシティ・地上45階スカイビュー・絶品うなぎ！ものづくりの街の快適拠点 厳選3選
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">「浜松出張＆ソログルメ泊」新幹線直結アクトシティ・地上45階スカイビュー・絶品うなぎ！ものづくりの街の快適拠点 厳選3選</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
           東海道新幹線ひかり停車駅・静岡県浜松市！「楽器の街を象徴する45階建てランドマークタワー。」を誇る「オークラアクトシティホテル浜松」、浜松駅徒歩すぐで国際水準の快適性を備えた「ANAクラウンプラザホテル浜松（旧ホテルクラウンパレス）。」、浜松城公園の緑を望むシティリゾート「ホテルコンコルド浜松」を徹底特集。
         </p>

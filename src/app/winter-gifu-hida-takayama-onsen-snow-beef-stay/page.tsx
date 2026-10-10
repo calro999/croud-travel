@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月飛騨高山】極上A5飛騨牛すき焼き！名宿5選',
+  title: '11・12・1月飛騨高山：極上A5飛騨牛すき焼き！名宿5選',
   description: '11月から1月、小京都と称される岐阜県・飛騨高山は、江戸の面影を色濃く残す「古い町並み（さんまち通り）」や朱塗りの中橋。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '飛騨高山 雪景色 冬, 古い町並み 高山 冬, 飛騨牛 すき焼き 宿泊, 飛騨高山温泉 露天風呂, 本陣平野屋 花兆庵, 飛騨亭 花扇, 高山グリーンホテル, 宝生閣, 飛騨高山 酒蔵めぐり, 11月 12月 1月 飛騨高山旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-gifu-hida-takayama-onsen-snow-beef-stay/"
   },
   openGraph: {
-    title: '【11・12・1月飛騨高山】極上A5飛騨牛すき焼き！名宿5選',
+    title: '11・12・1月飛騨高山：極上A5飛騨牛すき焼き！名宿5選',
     description: '11月から1月、小京都と称される岐阜県・飛騨高山は、江戸の面影を色濃く残す「古い町並み（さんまち通り）」や朱塗りの中橋。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-gifu-hida-takayama-onsen-snow-beef-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月飛騨高山】白銀の古い町並み雪景色と飛騨高山温泉・極上A5飛騨牛すき焼き＆冬限定「しぼりたて新酒」酒蔵めぐりを堪能する名宿5選",
+    title: "11・12・1月飛騨高山：白銀の古い町並み雪景色と飛騨高山温泉・極上A5飛騨牛すき焼き＆冬限定「しぼりたて新酒」酒蔵めぐりを堪能する名宿5選",
     description: "11月から1月、小京都と称される岐阜県・飛騨高山は、江戸の面影を色濃く残す「古い町並み（さんまち通り）」や朱塗りの中橋、国史跡・高山陣屋が純白の雪に包まれる幻想的な雪景色の季節を迎えます。冬の冷え込みとともに仕込みが本格化する飛騨の地酒は、軒先に青々とした杉玉が掲げられ、冬限定の「しぼりたて生酒・にごり酒」が解禁。老舗6蔵を巡る冬の酒蔵めぐりは大人の贅沢そのものです。夕食にはきめ細やかなサシがとろける最高峰ブランド「飛騨牛（A5等級）」のすき焼きや炭火ステーキ、香ばしい朴葉味噌焼き。自家源泉の美肌温泉「飛騨高山温泉」の雪見露天風呂で心身を温める厳選名宿5選を徹底ガイドします。",
     images: ['https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=1200&q=80']
   }
@@ -42,7 +42,7 @@ export default function GifuHidaTakayamaWinterPage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: "【11・12・1月飛騨高山】白銀の古い町並み雪景色と飛騨高山温泉・極上A5飛騨牛すき焼き＆冬限定「しぼりたて新酒」酒蔵めぐりを堪能する名宿5選",
+    headline: "11・12・1月飛騨高山：白銀の古い町並み雪景色と飛騨高山温泉・極上A5飛騨牛すき焼き＆冬限定「しぼりたて新酒」酒蔵めぐりを堪能する名宿5選",
     description: "11月から1月、小京都と称される岐阜県・飛騨高山は、江戸の面影を色濃く残す「古い町並み（さんまち通り）」や朱塗りの中橋、国史跡・高山陣屋が純白の雪に包まれる幻想的な雪景色の季節を迎えます。冬の冷え込みとともに仕込みが本格化する飛騨の地酒は、軒先に青々とした杉玉が掲げられ、冬限定の「しぼりたて生酒・にごり酒」が解禁。老舗6蔵を巡る冬の酒蔵めぐりは大人の贅沢そのものです。夕食にはきめ細やかなサシがとろける最高峰ブランド「飛騨牛（A5等級）」のすき焼きや炭火ステーキ、香ばしい朴葉味噌焼き。自家源泉の美肌温泉「飛騨高山温泉」の雪見露天風呂で心身を温める厳選名宿5選を徹底ガイドします。",
     image: 'https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=1200&q=80',
     datePublished: '',
@@ -282,9 +282,7 @@ export default function GifuHidaTakayamaWinterPage() {
             <Snowflake className="w-4 h-4 text-amber-200" />
             11月・12月・1月 飛騨小京都の白銀情緒＆冬の新酒・極上飛騨牛特集
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【11・12・1月飛騨高山】白銀の古い町並み雪景色と飛騨高山温泉・極上A5飛騨牛すき焼き＆冬限定「しぼりたて新酒」酒蔵めぐりを堪能する名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「11・12・1月飛騨高山」白銀の古い町並み雪景色と飛騨高山温泉・極上A5飛騨牛すき焼き＆冬限定「しぼりたて新酒」酒蔵めぐりを堪能する名宿5選</h1>
           <p className="text-stone-300 text-sm sm:text-base md:text-lg max-w-3xl leading-relaxed">
             出格子と用水路が連なる「古い町並み」や朱塗りの「中橋」に舞い散る純白の雪。軒先に青い杉玉が揺れる老舗酒蔵での「しぼりたて新酒」利き酒、とろける霜降りA5飛騨牛のすき焼きと朴葉味噌。雪見露天風呂に癒やされる飛騨高山の厳選名宿をご紹介します。
           </p>

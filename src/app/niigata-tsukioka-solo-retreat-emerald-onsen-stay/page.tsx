@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/niigata-tsukioka-solo-retreat-emerald-onsen-stay/" },
-  title: '【新潟・月岡温泉ひとり旅・エメラルドグリーンの美肌湯おこもり】硫黄含有量全国屈指・自家源泉庭園露天・越後贅沢会席！名湯美肌ステイ厳選3宿',
+  title: '新潟・月岡温泉ひとり旅・エメラルドグリーンの美肌湯おこもり：硫黄含有量全国屈指・自家源泉庭園露天・越後贅沢会席！名湯美肌ステイ厳選3宿',
   description: 'エメラルドグリーンに輝く美しい湯と日本有数の硫黄含有量を誇る新潟の名湯・月岡温泉！全国旅館ランキング上位常連の至高のおもてなしと広大な回遊庭園露天を誇る「白玉の湯 華鳳」、姉妹館として名高い「白玉の湯 泉慶」、静寂な料亭風の佇まいで美食と自家源泉を味わう「月岡温泉 いま井」を楽天API最新データに基づき徹底比較。',
   keywords: '月岡温泉 一人旅 宿,月岡温泉 ホテル 一人,白玉の湯 華鳳 一人旅,白玉の湯 泉慶,月岡温泉 いま井,月岡温泉 ひとり旅 おこもり',
   openGraph: {
-    title: '【新潟・月岡温泉ひとり旅・エメラルドグリーンの美肌湯おこもり】硫黄含有量全国屈指・自家源泉庭園露天・越後贅沢会席！名湯美肌ステイ厳選3宿',
+    title: '新潟・月岡温泉ひとり旅・エメラルドグリーンの美肌湯おこもり：硫黄含有量全国屈指・自家源泉庭園露天・越後贅沢会席！名湯美肌ステイ厳選3宿',
     description: 'エメラルドグリーンに輝く美しい湯と日本有数の硫黄含有量を誇る新潟の名湯・月岡温泉！全国旅館ランキング上位常連の至高のおもてなしと広大な回遊庭園露天を誇る「白玉の湯 華鳳」、姉妹館として名高い「白玉の湯 泉慶」、静寂な料亭風の佇まいで美食と自家源泉を味わう「月岡温泉 いま井」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/niigata-tsukioka-solo-retreat-emerald-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【新潟・月岡温泉ひとり旅・エメラルドグリーンの美肌湯おこもり】硫黄含有量全国屈指・自家源泉庭園露天・越後贅沢会席！名湯美肌ステイ厳選3宿',
+    headline: '新潟・月岡温泉ひとり旅・エメラルドグリーンの美肌湯おこもり：硫黄含有量全国屈指・自家源泉庭園露天・越後贅沢会席！名湯美肌ステイ厳選3宿',
     description: 'エメラルドグリーンに輝く美しい湯と日本有数の硫黄含有量を誇る新潟の名湯・月岡温泉！全国旅館ランキング上位常連の至高のおもてなしと広大な回遊庭園露天を誇る「白玉の湯 華鳳」、姉妹館として名高い「白玉の湯 泉慶」、静寂な料亭風の佇まいで美食と自家源泉を味わう「月岡温泉 いま井」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             新潟・月岡温泉ひとり旅＆エメラルドグリーン美肌湯おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【新潟・月岡温泉ひとり旅・エメラルドグリーンの美肌湯おこもり】硫黄含有量全国屈指・自家源泉庭園露天・越後贅沢会席！名湯美肌ステイ厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「新潟・月岡温泉ひとり旅・エメラルドグリーンの美肌湯おこもり」硫黄含有量全国屈指・自家源泉庭園露天・越後贅沢会席！名湯美肌ステイ厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【宇治抹茶スイーツ＆京懐石】老舗茶寮の贅沢甘味と嵐山・東山・宇治の風雅名湯宿5選",
+  title: "宇治抹茶スイーツ＆京懐石：老舗茶寮の贅沢甘味と嵐山・東山・宇治の風雅名湯宿5選",
   description: "香り高く濃厚な本場「宇治抹茶パフェ」「特製抹茶フォンデュ」と、洗練された京懐石！嵐山温泉の湯けむりや竹林の小径、東山の歴史ある町並みを散策し、京都の伝統美と茶の湯文化に癒やされる極上の旅。",
   keywords: "京都 宇治 嵐山 温泉 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/traditional-kyoto-ujicha-matcha-sweets-stay/",
   },
   openGraph: {
-    title: "【宇治抹茶スイーツ＆京懐石】老舗茶寮の贅沢甘味と嵐山・東山・宇治の風雅名湯宿5選",
+    title: "宇治抹茶スイーツ＆京懐石：老舗茶寮の贅沢甘味と嵐山・東山・宇治の風雅名湯宿5選",
     description: "香り高く濃厚な本場「宇治抹茶パフェ」「特製抹茶フォンデュ」と、洗練された京懐石！嵐山温泉の湯けむりや竹林の小径、東山の歴史ある町並みを散策し、京都の伝統美と茶の湯文化に癒やされる極上の旅。",
     url: 'https://croud-travel.pages.dev/traditional-kyoto-ujicha-matcha-sweets-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【宇治抹茶スイーツ＆京懐石】老舗茶寮の贅沢甘味と嵐山・東山・宇治の風雅名湯宿5選",
+    title: "宇治抹茶スイーツ＆京懐石：老舗茶寮の贅沢甘味と嵐山・東山・宇治の風雅名湯宿5選",
     description: "香り高く濃厚な本場「宇治抹茶パフェ」「特製抹茶フォンデュ」と、洗練された京懐石！嵐山温泉の湯けむりや竹林の小径、東山の歴史ある町並みを散策し、京都の伝統美と茶の湯文化に癒やされる極上の旅。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>宇治抹茶スイーツ＆京懐石温泉</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【宇治抹茶スイーツ＆京懐石】老舗茶寮の贅沢甘味と嵐山・東山・宇治の風雅名湯宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「宇治抹茶スイーツ＆京懐石」老舗茶寮の贅沢甘味と嵐山・東山・宇治の風雅名湯宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             香り高く濃厚な本場「宇治抹茶パフェ」「特製抹茶フォンデュ」と、洗練された京懐石！嵐山温泉の湯けむりや竹林の小径、東山の歴史ある町並みを散策し、京都の伝統美と茶の湯文化に癒やされる極上の旅。
           </p>

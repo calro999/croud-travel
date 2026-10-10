@@ -1,4 +1,4 @@
-# 【群馬・伊香保温泉】365段の石段街散策＆黄金の湯・白銀の湯おすすめ宿7選！名物水沢うどん
+# 群馬・伊香保温泉：365段の石段街散策＆黄金の湯・白銀の湯おすすめ宿7選！名物水沢うどん
 
 - URL: https://croud-travel.pages.dev/posts/ikaho-onsen-stone-steps-golden-bath-guide/
 - 宿泊施設名: 伊香保温泉 森秋旅館

@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月長崎】立ち上る雲仙地獄の白煙と冬の奇跡「霧氷」！名宿5選',
+  title: '11・12・1月長崎：立ち上る雲仙地獄の白煙と冬の奇跡「霧氷」！名宿5選',
   description: '11月から1月、日本最初の国立公園に指定された標高700mの高原に広がる長崎県島原半島「雲仙（うんぜん）温泉」は、大地の息吹を感じる地獄の白煙と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '雲仙温泉 宿泊, 雲仙地獄 ホテル, 雲仙 霧氷 花ぼうろ, 雲仙牛 宿, 島原 具雑煮, 雲仙宮崎旅館, 雲仙福田屋, 雲仙観光ホテル, 11月 12月 1月 長崎旅行, 酸性硫黄泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagasaki-unzen-onsen-jigoku-muhyo-unzen-beef-stay/"
   },
   openGraph: {
-    title: '【11・12・1月長崎】立ち上る雲仙地獄の白煙と冬の奇跡「霧氷」！名宿5選',
+    title: '11・12・1月長崎：立ち上る雲仙地獄の白煙と冬の奇跡「霧氷」！名宿5選',
     description: '11月から1月、日本最初の国立公園に指定された標高700mの高原に広がる長崎県島原半島「雲仙（うんぜん）温泉」は、大地の息吹を感じる地獄の白煙と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-nagasaki-unzen-onsen-jigoku-muhyo-unzen-beef-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月長崎】立ち上る雲仙地獄の白煙と冬の奇跡「霧氷」・極上雲仙牛＆島原名物具雑煮を堪能する雲仙温泉名宿5選",
+    title: "11・12・1月長崎：立ち上る雲仙地獄の白煙と冬の奇跡「霧氷」・極上雲仙牛＆島原名物具雑煮を堪能する雲仙温泉名宿5選",
     description: "11月から1月、日本最初の国立公園に指定された標高700mの高原に広がる長崎県島原半島「雲仙（うんぜん）温泉」は、大地の息吹を感じる地獄の白煙と、冬の山岳が織りなす神秘の銀世界を迎えます。もうもうと立ち上る噴気と硫黄の香りに包まれる「雲仙地獄」は、冬の冷たい空気の中で湯煙の迫力が劇的に倍増。さらに12月から1月にかけては、仁田峠から妙見岳にかけて樹木に過冷却の水滴が氷結する幻想的な自然の芸術「霧氷（地元で『花ぼうろ』と呼ばれる）」が現れ、白銀の樹氷群と眼下に広がる青い有明海・橘湾のコントラストに息を呑みます。強い殺菌力と血行促進力を誇る乳白色の酸性・含硫黄温泉は、冬の冷えや疲れを根底から解き放つ奇跡の温まり湯。夕食には名峰・普賢岳の清らかな伏流水で育つ極上霜降り「雲仙牛」「長崎和牛」のステーキや、島原の乱ゆかりの伝統郷土鍋「具雑煮（ぐぞうに）」、橘湾の寒ビラメや有明海のアナゴが食卓を贅沢に彩ります。明治・大正期から外国人の避暑地として愛されたクラシカルな異国情緒とともに、冬の雲仙を堪能する厳選5宿を徹底ガイドします。",
     images: ['https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -245,9 +245,7 @@ export default function NagasakiUnzenOnsenWinterPage() {
             <Flame className="w-3.5 h-3.5" />
             11月・12月・1月限定 雲仙地獄の白煙＆冬の奇跡霧氷特集
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-tight">
-            【長崎・雲仙温泉】立ち上る雲仙地獄の白煙と冬の奇跡「霧氷」・極上雲仙牛＆島原名物具雑煮を堪能する名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-tight">「長崎・雲仙温泉」立ち上る雲仙地獄の白煙と冬の奇跡「霧氷」・極上雲仙牛＆島原名物具雑煮を堪能する名宿5選</h1>
           <p className="text-emerald-100 text-sm sm:text-base leading-relaxed pt-2">
             標高700mの高原に広がる日本最初の国立公園・雲仙。冬の澄んだ大気に立ち昇る大迫力の地獄の白煙、妙見岳を純白に染める冬の奇跡「霧氷（花ぼうろ）」、そして濃厚な乳白色の酸性硫黄泉と極上雲仙牛に包まれる旅へ。
           </p>

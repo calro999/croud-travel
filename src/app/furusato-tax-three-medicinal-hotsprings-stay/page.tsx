@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-medicinal-hotsprings-stay/" },
-  title: '日本三大薬湯＆万病平癒・極上の濃厚泉質湯治リトリート宿×ふるさと納税完全ガイド【2026年最新】草津・有馬・松之山',
+  title: '日本三大薬湯＆万病平癒・極上の濃厚泉質湯治リトリート宿×ふるさと納税厳選ガイド草津・有馬・松之山',
   description: '日本屈指の薬効成分を誇る奇跡の湯！群馬「草津温泉」強酸性の殺菌力と湯畑一望の老舗ホテル一井、兵庫「有馬温泉」太古の海水と鉄分が濃縮された金泉の兵衛向陽閣、新潟十日町「松之山温泉」千二百万年前の化石海水が湧くひなの宿ちとせ。日本三大薬湯の濃厚温泉浴と滋養強壮の美食を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大薬湯・万病平癒特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大薬湯＆万病平癒・極上の濃厚泉質湯治リトリート宿×ふるさと納税完全ガイド【2026年最新】草津・有馬・松之山',
+    title: '日本三大薬湯＆万病平癒・極上の濃厚泉質湯治リトリート宿×ふるさと納税厳選ガイド草津・有馬・松之山',
     description: '日本屈指の薬効成分を誇る奇跡の湯！群馬「草津温泉」強酸性の殺菌力と湯畑一望の老舗ホテル一井、兵庫「有馬温泉」太古の海水と鉄分が濃縮された金泉の兵衛向陽閣、新潟十日町「松之山温泉」千二百万年前の化石海水が湧くひなの宿ちとせ。日本三大薬湯の濃厚温泉浴と滋養強壮の美食を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-medicinal-hotsprings-stay',
@@ -155,9 +155,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大薬湯・万病平癒特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大薬湯＆極上湯治リトリート宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大薬湯＆極上湯治リトリート宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             温泉大国・日本に数千ある温泉地の中でも、群を抜く有効成分の濃さと卓越した効能によって古くから「日本三大薬湯」と称えられてきた三名湯――pH2前後の強酸性で驚異の殺菌力を誇り湯畑からもうもうと湯煙が立ち上る群馬の「草津温泉」、活断層の深部から地熱と圧力によって湧き出し海水の約1.5〜2倍の塩分と鉄分を含む茶褐色の名湯・兵庫の「有馬温泉（金泉）」、そして約1200万年前の化石海水が閉じ込められて湧き出しホウ酸含有量が日本一と称される豪雪地帯の秘湯・新潟十日町の「松之山温泉」。ひとたび湯船に身を沈めれば、濃厚な泉質が肌を包み込み、湯上がり後も温もりが何時間も持続します。歴史ある名門旅館や木造の風情ある湯宿に泊まり、滋味あふれる郷土料理とともに心身を根本からリセットする極上の休日を楽天ふるさと納税でお楽しみください。
           </p>

@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-morning-markets-gourmet-stay/" },
-  title: '日本三大朝市＆獲れたて鮮魚と旬の恵み・活気あふれる市場宿×ふるさと納税完全ガイド【2026年最新】勝浦・高山・呼子',
+  title: '日本三大朝市＆獲れたて鮮魚と旬の恵み・活気あふれる市場宿×ふるさと納税厳選ガイド勝浦・高山・呼子',
   description: '早起きして出かけたい活気と笑顔の日本の三大朝市！千葉房総「勝浦朝市」430年の歴史と水揚げ鮮魚・旬野菜・三日月イン、岐阜飛騨「高山宮川朝市」宮川のせせらぎ沿いに並ぶ新鮮野菜と赤かぶら・本陣平野屋花兆庵、佐賀玄界灘「呼子朝市」名物いかしゅうまいと干物の香ばしい匂い・旅館金丸。朝の散策と地元の人々との温かいふれあい、名物グルメを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大朝市・朝活グルメ特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大朝市＆獲れたて鮮魚と旬の恵み・活気あふれる市場宿×ふるさと納税完全ガイド【2026年最新】勝浦・高山・呼子',
+    title: '日本三大朝市＆獲れたて鮮魚と旬の恵み・活気あふれる市場宿×ふるさと納税厳選ガイド勝浦・高山・呼子',
     description: '早起きして出かけたい活気と笑顔の日本の三大朝市！千葉房総「勝浦朝市」430年の歴史と水揚げ鮮魚・旬野菜・三日月イン、岐阜飛騨「高山宮川朝市」宮川のせせらぎ沿いに並ぶ新鮮野菜と赤かぶら・本陣平野屋花兆庵、佐賀玄界灘「呼子朝市」名物いかしゅうまいと干物の香ばしい匂い・旅館金丸。朝の散策と地元の人々との温かいふれあい、名物グルメを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-morning-markets-gourmet-stay',
@@ -154,9 +154,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大朝市・朝活グルメ特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大朝市＆活気あふれる旬市場・ご当地美食宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大朝市＆活気あふれる旬市場・ご当地美食宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             土地の人々の暮らしと旬の味覚がぎゅっと凝縮された、日本を代表する青空市場「日本三大朝市」――天正年間から430年以上の歴史を誇り勝浦港の獲れたて鮮魚や房総の採れたて野菜がずらりと並ぶ千葉の「勝浦朝市」、清流宮川のほとりに毎朝テントが並び飛騨弁のおばあちゃんたちとの会話が心温まる岐阜の「飛騨高山・宮川朝市」、そして日本三大呼子イカの産地として名高く露店で焼き立ての干物やいかしゅうまいを頬張れる佐賀の「呼子朝市」。朝市の近くに前泊するからこそ体験できる、混雑前の清々しい朝の活気と至高の朝ごはんを楽天ふるさと納税でお楽しみください。
           </p>

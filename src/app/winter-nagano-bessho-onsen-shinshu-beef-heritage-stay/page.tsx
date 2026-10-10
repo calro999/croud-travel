@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月信州 別所温泉】極上信州プレミアム牛！名宿5選',
+  title: '信州 別所温泉で過ごす冬の旅（11・12月）！極上信州プレミアム牛！名宿5選',
   description: '11月から12月にかけて、信州最古の温泉地として「信州の鎌倉」と称される長野県上田市の「別所温泉」は、山並みに初雪が冠し。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '別所温泉 宿泊, 信州 温泉 11月 12月, 七草の湯, かしわや本店, 上松や, 玉屋旅館, 中松屋, 北向観音 参拝, 信州プレミアム牛, 源泉掛け流し 硫黄泉, 信州の鎌倉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagano-bessho-onsen-shinshu-beef-heritage-stay/"
   },
   openGraph: {
-    title: '【11・12月信州 別所温泉】極上信州プレミアム牛！名宿5選',
+    title: '信州 別所温泉で過ごす冬の旅（11・12月）！極上信州プレミアム牛！名宿5選',
     description: '11月から12月にかけて、信州最古の温泉地として「信州の鎌倉」と称される長野県上田市の「別所温泉」は、山並みに初雪が冠し。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-nagano-bessho-onsen-shinshu-beef-heritage-stay',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -246,10 +246,7 @@ export default function NaganoBesshoWinterFeature() {
             <Landmark className="w-4 h-4" />
             11月・12月 信州最古の古湯＆厄除け北向観音特集｜長野・別所温泉
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            古湯情緒と北向観音初冬参拝<br className="hidden sm:inline" />
-            極上信州プレミアム牛＆名湯掛け流し硫黄泉で寛ぐ老舗旅館5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">古湯情緒と北向観音初冬参拝<br className="hidden sm:inline" /> 極上信州プレミアム牛＆名湯掛け流し硫黄泉で寛ぐ老舗旅館5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             「信州の鎌倉」に佇む開湯1400年の古湯。ほのかに硫黄が香る掛け流しの湯に浸かり、善光寺と向かい合う北向観音で厄を払い、霜降り極上の信州プレミアム牛と信州サーモンに舌鼓を打つ大人の温泉旅。
           </p>

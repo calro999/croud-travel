@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-secluded-canyon-isolated-onsen-stay/" },
-  title: '秘境・渓谷の一軒宿×ふるさと納税完全ガイド【2026年最新】黒部峡谷・祖谷・みちのく深山の完全遮断リトリート',
+  title: '秘境・渓谷の一軒宿×ふるさと納税厳選ガイド黒部峡谷・祖谷・みちのく深山の完全遮断リトリート',
   description: '携帯の電波も届かない大自然の懐へ。黒部峡谷鉄道トロッコの終着点、日本三大秘境・祖谷のかずら橋とケーブルカー露天風呂、東北深山のブナ原生林に佇む秘湯一軒宿を楽天ふるさと納税宿泊クーポンでお得に予約する自然回帰の旅。',
   keywords: ["秘境", "渓谷の一軒宿×ふるさと納税", "2026年最新", "黒部峡谷", "祖谷", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: '秘境・渓谷の一軒宿×ふるさと納税完全ガイド【2026年最新】黒部峡谷・祖谷・みちのく深山の完全遮断リトリート',
+    title: '秘境・渓谷の一軒宿×ふるさと納税厳選ガイド黒部峡谷・祖谷・みちのく深山の完全遮断リトリート',
     description: '携帯の電波も届かない大自然の懐へ。黒部峡谷鉄道トロッコの終着点、日本三大秘境・祖谷のかずら橋とケーブルカー露天風呂、東北深山のブナ原生林に佇む秘湯一軒宿を楽天ふるさと納税宿泊クーポンでお得に予約する自然回帰の旅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-secluded-canyon-isolated-onsen-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FurusatoTaxPage() {
           <span className="inline-block px-4 py-1.5 rounded-full text-xs md:text-sm font-black bg-gradient-to-r from-amber-500 to-yellow-400 text-slate-950 mb-5 shadow-lg shadow-amber-500/20">
             秘境渓谷・深山一軒宿特集
           </span>
-          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">
-            秘境・渓谷の一軒宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">秘境・渓谷の一軒宿×ふるさと納税ガイド</h1>
           <p className="text-sm md:text-lg text-slate-300 leading-relaxed font-medium">
             携帯の電波も届かない大自然の懐へ。黒部峡谷鉄道トロッコの終着点、日本三大秘境・祖谷のかずら橋とケーブルカー露天風呂、東北深山のブナ原生林に佇む秘湯一軒宿を楽天ふるさと納税宿泊クーポンでお得に予約する自然回帰の旅。
           </p>

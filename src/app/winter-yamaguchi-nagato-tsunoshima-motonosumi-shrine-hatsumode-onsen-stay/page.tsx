@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月山口】ふぐを味わう！名宿5選',
+  title: '11・12・1月山口：ふぐを味わう！名宿5選',
   description: '冬の日本海が最も透明度を増す11月中旬から1月。エメラルドグリーンとコバルトブルーの海を貫く「角島大橋」の絶景。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '長門湯本温泉 ホテル, 角島大橋 ホテル, 元乃隅神社 初詣, 大谷山荘, ホテル西長門リゾート, ホテル楊貴館, 仙崎イカ, とらふぐ, 11月 12月 1月 山口 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamaguchi-nagato-tsunoshima-motonosumi-shrine-hatsumode-onsen-stay/"
   },
   openGraph: {
-    title: '【11・12・1月山口】ふぐを味わう！名宿5選',
+    title: '11・12・1月山口：ふぐを味わう！名宿5選',
     description: '冬の日本海が最も透明度を増す11月中旬から1月。エメラルドグリーンとコバルトブルーの海を貫く「角島大橋」の絶景。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-yamaguchi-nagato-tsunoshima-motonosumi-shrine-hatsumode-onsen-stay',
     siteName: '地域の宿探訪',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月山口】長門＆角島・元乃隅神社！冬のコバルトブルー角島大橋と123基赤鳥居初詣・長門湯本温泉と仙崎イカ・ふぐを味わう名宿5選",
+    title: "11・12・1月山口：長門＆角島・元乃隅神社！冬のコバルトブルー角島大橋と123基赤鳥居初詣・長門湯本温泉と仙崎イカ・ふぐを味わう名宿5選",
     description: "冬の日本海が最も透明度を増す11月中旬から1月。エメラルドグリーンとコバルトブルーの海を貫く「角島大橋」の絶景、CNN日本の最も美しい場所31選に輝く「元乃隅神社」の断崖に連なる123基の朱塗り鳥居での厳かな初詣、そして約600年の歴史を誇る名湯「長門湯本温泉」の恩湯と音信川の竹林ライトアップ散策。冬の味覚の王様・仙崎港の活イカや下関直送天然とらふぐ、長州黒かしわ。歴史と絶景が織りなす冬の山口・長門の厳選名宿5選を徹底解説します。",
     images: ["https://img.travel.rakuten.co.jp/share/HOTEL/8178/8178.jpg"]
   }
@@ -232,10 +232,7 @@ export default function YamaguchiNagatoWinterPage() {
             <span>11月・12月・1月冬の絶景日本海＆名湯・ふぐ美食特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">
-            長門＆角島・元乃隅神社！<br className="hidden sm:inline" />
-            冬のコバルトブルー角島大橋と123基赤鳥居初詣・長門湯本温泉と仙崎イカ・ふぐを味わう名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">長門＆角島・元乃隅神社！<br className="hidden sm:inline" /> 冬のコバルトブルー角島大橋と123基赤鳥居初詣・長門湯本温泉と仙崎イカ・ふぐを味わう名宿5選</h1>
 
           <p className="text-slate-300 text-sm sm:text-base lg:text-lg leading-relaxed max-w-3xl mb-8">
             澄み渡る冬の日本海に架かる奇跡の絶景「角島大橋」、CNN選出の断崖に連なる「元乃隅神社」の123基の朱塗り鳥居初詣。そして約600年の歴史を持つ「長門湯本温泉」の恩湯と音信川沿いの温かな竹林ライトアップ。冬の日本海が育む仙崎の活イカ、本場下関直送のとらふぐ、長州黒かしわ。歴史ある名湯と冬の美食に心癒やされる山口・長門の旅をお届けします。

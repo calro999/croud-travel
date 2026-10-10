@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '都心から1時間の絶景！高尾山もみじまつり＆秋川渓谷・八王子名宿×ふるさと納税完全ガイド【2026年最新秋旅】東京',
+  title: '都心から1時間の絶景！高尾山もみじまつり＆秋川渓谷・八王子名宿×ふるさと納税厳選ガイド東京',
   description: '11月上旬〜12月上旬に開催される「高尾山もみじまつり」！日本一の急勾配を行くケーブルカーからの紅葉トンネルと薬王院の秋、八王子の「京王プラザホテル八王子」「the b 八王子」や秋川渓谷の老舗「兜家旅館」に滞在し、名物とろろそばや炭火焼き料理を楽天ふるさと納税で実質2,000円で満喫する完全ガイド。',
   keywords: ["秋川渓谷", "八王子名宿×ふるさと納税", "2026年最新秋旅", "東京", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-takaosan-autumn-leaves-festival-stay/"
   },
   openGraph: {
-    title: '都心から1時間の絶景！高尾山もみじまつり＆秋川渓谷・八王子名宿×ふるさと納税完全ガイド【2026年最新秋旅】東京',
+    title: '都心から1時間の絶景！高尾山もみじまつり＆秋川渓谷・八王子名宿×ふるさと納税厳選ガイド東京',
     description: '11月上旬〜12月上旬に開催される「高尾山もみじまつり」！日本一の急勾配を行くケーブルカーからの紅葉トンネルと薬王院の秋、八王子の「京王プラザホテル八王子」「the b 八王子」や秋川渓谷の老舗「兜家旅館」に滞在し、名物とろろそばや炭火焼き料理を楽天ふるさと納税で実質2,000円で満喫する完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-takaosan-autumn-leaves-festival-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FeatureArticlePage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               東京・高尾山紅葉＆八王子・秋川渓谷特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              都心から1時間の絶景！高尾山もみじまつり＆秋川渓谷・八王子名宿×ふるさと納税完全ガイド【2026年最新秋旅】東京
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">都心から1時間の絶景！高尾山もみじまつり＆秋川渓谷・八王子名宿×ふるさと納税厳選ガイド東京</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               11月上旬〜12月上旬に開催される「高尾山もみじまつり」！日本一の急勾配を行くケーブルカーからの紅葉トンネルと薬王院の秋、八王子の「京王プラザホテル八王子」「the b 八王子」や秋川渓谷の老舗「兜家旅館」に滞在し、名物とろろそばや炭火焼き料理を楽天ふるさと納税で実質2,000円で満喫する完全ガイド。
             </p>

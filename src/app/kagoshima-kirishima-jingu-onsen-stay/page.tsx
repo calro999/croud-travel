@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kagoshima-kirishima-jingu-onsen-stay/" },
-  title: "【鹿児島・霧島温泉郷＆霧島神宮】天孫降臨・国宝霧島神宮＆泥湯・黒豚しゃぶ宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "鹿児島・霧島温泉郷＆霧島神宮：天孫降臨・国宝霧島神宮＆泥湯・黒豚しゃぶ宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "神話の里とダイナミックな火山温泉・鹿児島霧島エリア完全特化！国宝指定「霧島神宮」、坂本龍馬の新婚旅行の地、霧島温泉郷（泥湯・硫黄泉）、霧島連山のトレッキング、本場かごしま黒豚しゃぶしゃぶ宿を徹底解説。",
   keywords: ["鹿児島", "霧島温泉郷", "霧島神宮", "天孫降臨", "国宝霧島神宮", "泥湯", "黒豚しゃぶ宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             KIRISHIMA & MYTH ONEN GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【鹿児島・霧島温泉郷＆霧島神宮】天孫降臨・国宝霧島神宮＆泥湯・黒豚しゃぶ宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「鹿児島・霧島温泉郷＆霧島神宮」天孫降臨・国宝霧島神宮＆泥湯・黒豚しゃぶ宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             ニニギノミコトが天孫降臨した神話の聖地「霧島」。朱塗りの極彩色が美しい国宝「霧島神宮」。坂本龍馬と妻おりょうが日本最初の新婚旅行で訪れた名湯「霧島温泉郷」。湯けむり立ち上る露天風呂と、極上かごしま黒豚を堪能する旅。
           </p>

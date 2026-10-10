@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月徳島】大麻比古神社の大初詣！名宿5選',
+  title: '11・12・1月徳島：大麻比古神社の大初詣！名宿5選',
   description: '四国・阿波の歴史と冬の美食が息づく徳島市＆鳴門奥エリアの11〜1月冬旅特集。樹齢千年の大楠が厳かに迎える阿波国一の宮「大麻比古神社（おおあさ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '大麻比古神社 初詣, 眉山 夜景 冬, 阿波尾鶏 水炊き 徳島, 鳴門鯛 冬, 阿波牛, JRホテルクレメント徳島, ホテルサンルート徳島, 徳島 冬 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tokushima-city-oasashiko-shrine-hatsumode-awaodori-awagyu-stay/"
   },
   openGraph: {
-    title: '【11・12・1月徳島】大麻比古神社の大初詣！名宿5選',
+    title: '11・12・1月徳島：大麻比古神社の大初詣！名宿5選',
     description: '四国・阿波の歴史と冬の美食が息づく徳島市＆鳴門奥エリアの11〜1月冬旅特集。樹齢千年の大楠が厳かに迎える阿波国一の宮「大麻比古神社（おおあさ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-tokushima-city-oasashiko-shrine-hatsumode-awaodori-awagyu-stay',
     type: 'article',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月徳島】大麻比古神社の大初詣＆眉山の冬夜景パノラマ！本場「阿波尾鶏」水炊き鍋と阿波牛名宿5選",
+    title: "11・12・1月徳島：大麻比古神社の大初詣＆眉山の冬夜景パノラマ！本場「阿波尾鶏」水炊き鍋と阿波牛名宿5選",
     description: "四国・阿波の歴史と冬の美食が息づく徳島市＆鳴門奥エリアの11〜1月冬旅特集。樹齢千年の大楠が厳かに迎える阿波国一の宮「大麻比古神社（おおあさひこじんじゃ）」の新春大初詣、眉山ロープウェイ山頂から見渡す冬の吉野川と紀伊水道の澄み渡る夜景パノラマ、地鶏シェア日本一を誇る極上「阿波尾鶏（あわおどり）」の熱々水炊き鍋やすき焼き、冬の荒波で身が引き締まった鳴門鯛と黒毛和牛「阿波牛」。徳島観光の拠点に最適な厳選ホテル・名宿5選を徹底解説します。",
     images: ['https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -284,11 +284,7 @@ export default function TokushimaCityWinterPage() {
               <Sparkles className="w-4 h-4 text-indigo-300" />
               <span>11月・12月・1月冬の阿波初詣＆夜景パノラマ特集</span>
             </div>
-            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 text-white drop-shadow-md">
-              徳島・徳島市＆阿波一の宮<br className="hidden sm:inline" />
-              大麻比古神社の大初詣＆眉山の冬夜景パノラマ！<br className="hidden sm:inline" />
-              本場「阿波尾鶏」水炊き鍋と阿波牛名宿5選
-            </h1>
+            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 text-white drop-shadow-md">徳島・徳島市＆阿波一の宮<br className="hidden sm:inline" /> 大麻比古神社の大初詣＆眉山の冬夜景パノラマ！<br className="hidden sm:inline" /> 本場「阿波尾鶏」水炊き鍋と阿波牛名宿5選</h1>
             <p className="max-w-3xl mx-auto text-sm md:text-lg text-indigo-100 leading-relaxed drop-shadow">
               樹齢千年の大楠が迎える阿波国一の宮・大麻比古神社に響く新春の柏手。澄み渡る冬の眉山山頂から見渡す吉野川デルタと紀伊水道の煌めく夜景。日本一の地鶏「阿波尾鶏」の極上水炊き鍋と鳴門鯛・阿波牛に酔いしれる冬の南海道紀行。
             </p>

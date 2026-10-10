@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【愛媛みかん＆柑橘の癒やし】爽やかな生搾り柑橘ジュースと果実風呂！道後温泉の極上癒やし宿5選",
+  title: "愛媛みかん＆柑橘の癒やし：爽やかな生搾り柑橘ジュースと果実風呂！道後温泉の極上癒やし宿5選",
   description: "湯上がりに味わう蛇口から出る生搾りみかんジュースや、甘酸っぱい香りの柑橘露天風呂！日本最古の名湯・道後温泉で、瀬戸内の豊かな恵みと温かいおもてなしに心ほどける極上旅館を厳選紹介。",
   keywords: "道後温泉 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/spring-ehime-setouchi-citrus-spa-stay/",
   },
   openGraph: {
-    title: "【愛媛みかん＆柑橘の癒やし】爽やかな生搾り柑橘ジュースと果実風呂！道後温泉の極上癒やし宿5選",
+    title: "愛媛みかん＆柑橘の癒やし：爽やかな生搾り柑橘ジュースと果実風呂！道後温泉の極上癒やし宿5選",
     description: "湯上がりに味わう蛇口から出る生搾りみかんジュースや、甘酸っぱい香りの柑橘露天風呂！日本最古の名湯・道後温泉で、瀬戸内の豊かな恵みと温かいおもてなしに心ほどける極上旅館を厳選紹介。",
     url: 'https://croud-travel.pages.dev/spring-ehime-setouchi-citrus-spa-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【愛媛みかん＆柑橘の癒やし】爽やかな生搾り柑橘ジュースと果実風呂！道後温泉の極上癒やし宿5選",
+    title: "愛媛みかん＆柑橘の癒やし：爽やかな生搾り柑橘ジュースと果実風呂！道後温泉の極上癒やし宿5選",
     description: "湯上がりに味わう蛇口から出る生搾りみかんジュースや、甘酸っぱい香りの柑橘露天風呂！日本最古の名湯・道後温泉で、瀬戸内の豊かな恵みと温かいおもてなしに心ほどける極上旅館を厳選紹介。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>愛媛みかん＆道後名湯</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【愛媛みかん＆柑橘の癒やし】爽やかな生搾り柑橘ジュースと果実風呂！道後温泉の極上癒やし宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「愛媛みかん＆柑橘の癒やし」爽やかな生搾り柑橘ジュースと果実風呂！道後温泉の極上癒やし宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             湯上がりに味わう蛇口から出る生搾りみかんジュースや、甘酸っぱい香りの柑橘露天風呂！日本最古の名湯・道後温泉で、瀬戸内の豊かな恵みと温かいおもてなしに心ほどける極上旅館を厳選紹介。
           </p>

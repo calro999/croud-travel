@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月南紀勝浦温泉】勝浦港直送生マグロ尽くし！名宿5選',
+  title: '南紀勝浦温泉で過ごす冬の旅（11・12月）！勝浦港直送生マグロ尽くし！名宿5選',
   description: '11月から12月にかけて和歌山県・紀伊半島の南端に位置する勝浦温泉は、澄み切った太平洋の水平線から昇る朝日の絶景と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '南紀勝浦温泉 宿泊, 勝浦温泉 11月 12月, 勝浦 忘帰洞 ホテル浦島, 熊野別邸 中の島, ホテルなぎさや, 休暇村南紀勝浦, 万清楼, 勝浦 生マグロ 宿, 熊野牛 ステーキ, 熊野古道 那智の滝 旅',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-wakayama-nanki-katsuura-onsen-tuna-cave-bath-stay/",
   },
   openGraph: {
-    title: '【11・12月南紀勝浦温泉】勝浦港直送生マグロ尽くし！名宿5選',
+    title: '南紀勝浦温泉で過ごす冬の旅（11・12月）！勝浦港直送生マグロ尽くし！名宿5選',
     description: '11月から12月にかけて和歌山県・紀伊半島の南端に位置する勝浦温泉は、澄み切った太平洋の水平線から昇る朝日の絶景と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-wakayama-nanki-katsuura-onsen-tuna-cave-bath-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月南紀勝浦温泉の太平洋大洞窟露天風呂と初冬の熊野古道】勝浦港直送生マグロ尽くし・極上熊野牛ステーキ会席の宿5選",
+    title: "南紀勝浦温泉の太平洋大洞窟露天風呂と初冬の熊野古道で過ごす冬の旅（11・12月）！勝浦港直送生マグロ尽くし・極上熊野牛ステーキ会席の宿5選",
     description: "11月から12月にかけて和歌山県・紀伊半島の南端に位置する勝浦温泉は、澄み切った太平洋の水平線から昇る朝日の絶景と、世界遺産・熊野古道（大門坂・那智の滝・熊野那智大社）の神聖な祈りの季節を迎えます。太平洋の荒波が長い年月をかけて穿った巨大海蝕洞窟に湧き出る名湯「忘帰洞」や海と一体化する波打ち際露天風呂、日本一の水揚げ高を誇る勝浦漁港直送の完全非冷凍「天然生マグロ」の赤身・中トロ・大トロ尽くし、世界遺産の地で育まれた霜降り「熊野牛」のサーロインを味わう至高の南紀海辺名宿5選を徹底解説。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80'],
   }
@@ -222,9 +222,7 @@ export default function NankiKatsuuraWinterPage() {
             <span>11月・12月 冬の南紀勝浦・熊野古道特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月南紀勝浦温泉の太平洋大洞窟露天風呂と初冬の熊野古道】勝浦港直送生マグロ尽くし・極上熊野牛ステーキ会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">南紀勝浦温泉の太平洋大洞窟露天風呂と初冬の熊野古道で過ごす冬の旅（11・12月）！勝浦港直送生マグロ尽くし・極上熊野牛ステーキ会席の宿5選</h1>
 
           <p className="text-sm sm:text-base lg:text-lg text-slate-300 leading-relaxed max-w-4xl">
             11月から12月にかけて、紀伊半島南端の勝浦温泉は太平洋の水平線から昇る神々しい朝日の光と、世界遺産・熊野古道の神聖な静寂に包まれます。打ち寄せる荒波が穿った巨大海蝕洞窟に湧き出る名湯「忘帰洞」や、波打ち際で潮騒を聞く絶景露天風呂の開放感。日本一の生鮮水揚げを誇る勝浦港直送の完全非冷凍「天然生マグロ」のモチモチとした極上の旨味、世界遺産の清流が育んだ最高峰黒毛和牛「熊野牛」のサーロインを堪能する、冬の南紀海辺名宿を厳選してご紹介します。

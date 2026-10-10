@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月栃木】佐野厄除け大師初詣！名宿5選',
+  title: '11・12・1月栃木：佐野厄除け大師初詣！名宿5選',
   description: '11月から1月、栃木県足利市と佐野市は、日本三大イルミネーション第1位「あしかがフラワーパーク 光の花の庭」の500万球が輝き。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: 'あしかがフラワーパーク イルミネーション, 光の花の庭, 佐野厄除け大師 初詣, 佐野ラーメン, 青竹手打ち, ニューミヤコホテル足利本館, ホテルルートイン佐野藤岡インター, ホテルサンルート佐野, とちあいか 苺狩り, 11月 12月 1月 栃木旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay/"
   },
   openGraph: {
-    title: '【11・12・1月栃木】佐野厄除け大師初詣！名宿5選',
+    title: '11・12・1月栃木：佐野厄除け大師初詣！名宿5選',
     description: '11月から1月、栃木県足利市と佐野市は、日本三大イルミネーション第1位「あしかがフラワーパーク 光の花の庭」の500万球が輝き。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月栃木】日本一の光の祭典「あしかがフラワーパーク光の花の庭」・佐野厄除け大師初詣＆手打ち佐野ラーメン・とちおとめ苺ステイ宿5選",
+    title: "11・12・1月栃木：日本一の光の祭典「あしかがフラワーパーク光の花の庭」・佐野厄除け大師初詣＆手打ち佐野ラーメン・とちおとめ苺ステイ宿5選",
     description: "11月から1月、栃木県足利市と佐野市は、日本三大イルミネーション第1位「あしかがフラワーパーク 光の花の庭」の500万球が輝き、関東屈指の初詣参拝者を迎える「佐野厄除け大師」の厳かな祈りに包まれます。澄んだ冬空に広がる青竹手打ち佐野ラーメンの熱気、冬に甘みが凝縮するとちおとめ＆とちあいか苺狩り。冬の両毛エリアを満喫する厳選名宿5選と1泊2日モデルコースを徹底ガイドします。",
     images: ['https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80']
   }
@@ -42,7 +42,7 @@ export default function TochigiAshikagaFlowerparkWinterPage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: "【11・12・1月栃木】日本一の光の祭典「あしかがフラワーパーク光の花の庭」・佐野厄除け大師初詣＆手打ち佐野ラーメン・とちおとめ苺ステイ宿5選",
+    headline: "11・12・1月栃木：日本一の光の祭典「あしかがフラワーパーク光の花の庭」・佐野厄除け大師初詣＆手打ち佐野ラーメン・とちおとめ苺ステイ宿5選",
     description: "11月から1月、栃木県足利市と佐野市は、日本三大イルミネーション第1位「あしかがフラワーパーク 光の花の庭」の500万球が輝き、関東屈指の初詣参拝者を迎える「佐野厄除け大師」の厳かな祈りに包まれます。澄んだ冬空に広がる青竹手打ち佐野ラーメンの熱気、冬に甘みが凝縮するとちおとめ＆とちあいか苺狩り。冬の両毛エリアを満喫する厳選名宿5選と1泊2日モデルコースを徹底ガイドします。",
     image: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
     datePublished: '',
@@ -282,9 +282,7 @@ export default function TochigiAshikagaFlowerparkWinterPage() {
             <Sparkles className="w-4 h-4 text-purple-300" />
             11月・12月・1月 冬の栃木・あしかがフラワーパーク＆佐野初詣特集
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【11・12・1月栃木】日本一の光の祭典「あしかがフラワーパーク光の花の庭」・佐野厄除け大師初詣＆手打ち佐野ラーメン・とちおとめ苺ステイ宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「11・12・1月栃木」日本一の光の祭典「あしかがフラワーパーク光の花の庭」・佐野厄除け大師初詣＆手打ち佐野ラーメン・とちおとめ苺ステイ宿5選</h1>
           <p className="text-slate-300 text-sm sm:text-base md:text-lg max-w-3xl leading-relaxed">
             夜景鑑賞士が選ぶ日本三大イルミネーション第1位「あしかがフラワーパーク 光の花の庭」。澄み切った冬空に咲き誇る500万球の奇蹟の大藤と、新春に100万人が集う「佐野厄除け大師」の厳かな祈り。青竹手打ち麺が躍る熱々佐野ラーメンの滋味、冬に糖度の頂点を極める旬のイチゴ狩り。両毛エリアの冬の魅力を味わい尽くす名宿ステイをお届けします。
           </p>

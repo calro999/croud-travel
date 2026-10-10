@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tokyo-takayama-shirakawago-highway-bus-guide/" },
-  title: "【東京・新宿〜飛騨高山・白川郷】直行高速バスが最強！電車との料金・時間比較＆飛騨牛1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+  title: "東京・新宿〜飛騨高山・白川郷：直行高速バスが最強！電車との料金・時間比較＆飛騨牛1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "東京・新宿から飛騨高山・白川郷へ行くなら直行高速バスが圧倒的に便利でお得！JR特急ワイドビューしなの・特急ひだ乗り継ぎとの料金・所要時間比較、古い町並み散策と白川郷合掌造り、飛騨牛を満喫する1泊2日モデルコース。",
   keywords: ["東京", "新宿〜飛騨高山", "白川郷", "時間比較", "飛騨牛1泊2日モデルコース", "温泉宿", "宿泊予約"],
 };
@@ -144,9 +144,7 @@ export default function HighwayBusArticlePage() {
               交通手段の徹底比較＆最適ルート
             </span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【東京・新宿〜飛騨高山・白川郷】直行高速バスが最強！電車との料金・時間比較＆飛騨牛1泊2日モデルコース
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">「東京・新宿〜飛騨高山・白川郷」直行高速バスが最強！電車との料金・時間比較＆飛騨牛1泊2日モデルコース</h1>
           <p className="text-xs md:text-sm text-cyan-100/90 leading-relaxed font-medium">
             JR電車だと名古屋経由で特急を乗り継ぐ必要があり片道約16,000円（約4時間30分）。一方、バスタ新宿からの直行高速バスなら乗り換えゼロ・片道約6,500円〜7,500円（約5時間30分）！世界遺産・白川郷や古い町並み、飛騨牛づくしの旅。
           </p>

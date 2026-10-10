@@ -5,14 +5,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, Sparkles, Calendar, Utensils, Compass, ExternalLink, Snowflake, Flame, Building, ThermometerSun } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月日光】とちぎ和牛！名宿5選',
+  title: '11・12・1月日光：とちぎ和牛！名宿5選',
   description: '11月から1月、木々の葉が落ち清澄な大気に包まれる日光山内は、世界遺産・日光東照宮が最も神聖な静寂を纏う季節です。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '日光東照宮 冬 参拝, 日光東照宮 初詣 混雑, 日光湯波 会席 宿, とちぎ和牛 日光 温泉, 日光千姫物語, 日光金谷ホテル, 日光 星の宿, 小槌の宿 鶴亀大吉, 日光西町倶楽部あらとうと, 11月 12月 1月 日光旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tochigi-nikko-toshogu-hatsumode-yuba-onsen-stay/"
   },
   openGraph: {
-    title: '【11・12・1月日光】とちぎ和牛！名宿5選',
+    title: '11・12・1月日光：とちぎ和牛！名宿5選',
     description: '11月から1月、木々の葉が落ち清澄な大気に包まれる日光山内は、世界遺産・日光東照宮が最も神聖な静寂を纏う季節です。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-tochigi-nikko-toshogu-hatsumode-yuba-onsen-stay',
     type: 'article',
@@ -233,12 +233,7 @@ export default function TochigiNikkoToshoguPage() {
             11月・12月・1月 冬の社寺参拝・初詣＆味覚特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-tight sm:leading-snug text-stone-100 font-serif">
-            白銀の国宝陽明門と静寂の杉並木古道<br />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-200 via-amber-300 to-yellow-200">
-              世界遺産・日光東照宮冬参拝＆名物湯波会席とちぎ和牛の名宿
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-tight sm:leading-snug text-stone-100 font-serif">白銀の国宝陽明門と静寂の杉並木古道<br /> <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-200 via-amber-300 to-yellow-200"> 世界遺産・日光東照宮冬参拝＆名物湯波会席とちぎ和牛の名宿 </span></h1>
 
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed max-w-3xl mx-auto font-light">
             凛とした冬の大気が漂う日光山内。雪化粧に包まれた国宝「陽明門」の精緻な彫刻美、徳川家康公が眠る奥宮への白銀の石段、そして新春の開運初詣。門前町の伝統息づく「日光湯波（ゆば）会席」と芳醇な「とちぎ和牛」、雪見の露天風呂に心ほどける珠玉の滞在をご案内します。

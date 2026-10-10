@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/fukushima-ashinomaki-solo-retreat-gorge-onsen-stay/" },
-  title: '【会津・芦ノ牧温泉ひとり旅・大川渓谷絶景おこもり】浮き舞台三味線・渓流露天風呂・大内宿ねぎそば！会津鉄道ネコ駅長の渓谷厳選3宿',
+  title: '会津・芦ノ牧温泉ひとり旅・大川渓谷絶景おこもり：浮き舞台三味線・渓流露天風呂・大内宿ねぎそば！会津鉄道ネコ駅長の渓谷厳選3宿',
   description: '大川ラインの深い渓谷美と開湯千年の古湯を誇る会津・芦ノ牧温泉！ロビーの浮き舞台で三味線の音色が響く棚田状露天風呂の名門「大川荘」、大川渓流の絶壁に佇む源泉掛け流しの隠れ宿「不動館 小谷の湯」、広々とした展望大浴場と会津郷土料理が評判の「芦ノ牧グランドホテル」を楽天API最新データに基づき徹底比較。',
   keywords: '芦ノ牧温泉 一人旅 宿,芦ノ牧 ホテル 一人 温泉,大川荘 芦ノ牧,不動館小谷の湯,芦ノ牧グランドホテル,会津 ひとり旅 おこもり',
   openGraph: {
-    title: '【会津・芦ノ牧温泉ひとり旅・大川渓谷絶景おこもり】浮き舞台三味線・渓流露天風呂・大内宿ねぎそば！会津鉄道ネコ駅長の渓谷厳選3宿',
+    title: '会津・芦ノ牧温泉ひとり旅・大川渓谷絶景おこもり：浮き舞台三味線・渓流露天風呂・大内宿ねぎそば！会津鉄道ネコ駅長の渓谷厳選3宿',
     description: '大川ラインの深い渓谷美と開湯千年の古湯を誇る会津・芦ノ牧温泉！ロビーの浮き舞台で三味線の音色が響く棚田状露天風呂の名門「大川荘」、大川渓流の絶壁に佇む源泉掛け流しの隠れ宿「不動館 小谷の湯」、広々とした展望大浴場と会津郷土料理が評判の「芦ノ牧グランドホテル」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/fukushima-ashinomaki-solo-retreat-gorge-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【会津・芦ノ牧温泉ひとり旅・大川渓谷絶景おこもり】浮き舞台三味線・渓流露天風呂・大内宿ねぎそば！会津鉄道ネコ駅長の渓谷厳選3宿',
+    headline: '会津・芦ノ牧温泉ひとり旅・大川渓谷絶景おこもり：浮き舞台三味線・渓流露天風呂・大内宿ねぎそば！会津鉄道ネコ駅長の渓谷厳選3宿',
     description: '大川ラインの深い渓谷美と開湯千年の古湯を誇る会津・芦ノ牧温泉！ロビーの浮き舞台で三味線の音色が響く棚田状露天風呂の名門「大川荘」、大川渓流の絶壁に佇む源泉掛け流しの隠れ宿「不動館 小谷の湯」、広々とした展望大浴場と会津郷土料理が評判の「芦ノ牧グランドホテル」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             福島・芦ノ牧温泉ひとり旅＆会津大川渓谷おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【会津・芦ノ牧温泉ひとり旅・大川渓谷絶景おこもり】浮き舞台三味線・渓流露天風呂・大内宿ねぎそば！会津鉄道ネコ駅長の渓谷厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「会津・芦ノ牧温泉ひとり旅・大川渓谷絶景おこもり」浮き舞台三味線・渓流露天風呂・大内宿ねぎそば！会津鉄道ネコ駅長の渓谷厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { MapPin, Calendar, ExternalLink, HelpCircle, ChevronRight, ShieldCheck, Sparkles } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【冬に透明度極まる仁淀ブルーと中津渓谷】2026-2027年冬の高知・仁淀川！渓流温泉と土佐あかうし名宿5選 | クラウドトラベル',
+  title: '冬に透明度極まる仁淀ブルーと中津渓谷：2026-2027年冬の高知・仁淀川！渓流温泉と土佐あかうし名宿5選 | クラウドトラベル',
   description: '年間で最も透明度が高まり神秘のコバルトブルーに輝く奇跡の清流「仁淀川」の冬絶景！中津渓谷トレッキング、旨味凝縮の「幻の和牛・土佐あかうし」鍋と清流のせせらぎを聞く名湯露天風呂に癒やされる冬名宿5選。',
   keywords: ['高知県冬旅行', '仁淀川・いの町・中津渓谷', '冬温泉', '2026', '2027', '雪景色', '冬の味覚', '楽天トラベル', 'ふるさと納税'],
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-kochi-niyodogawa-niyodoblue-nakatsu-tosa-akagyu-onsen-stay',
   },
   openGraph: {
-    title: '【冬に透明度極まる仁淀ブルーと中津渓谷】2026-2027年冬の高知・仁淀川！渓流温泉と土佐あかうし名宿5選',
+    title: '冬に透明度極まる仁淀ブルーと中津渓谷：2026-2027年冬の高知・仁淀川！渓流温泉と土佐あかうし名宿5選',
     description: '年間で最も透明度が高まり神秘のコバルトブルーに輝く奇跡の清流「仁淀川」の冬絶景！中津渓谷トレッキング、旨味凝縮の「幻の和牛・土佐あかうし」鍋と清流のせせらぎを聞く名湯露天風呂に癒やされる冬名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-kochi-niyodogawa-niyodoblue-nakatsu-tosa-akagyu-onsen-stay',
     siteName: 'クラウドトラベル',
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: '【冬に透明度極まる仁淀ブルーと中津渓谷】2026-2027年冬の高知・仁淀川！渓流温泉と土佐あかうし名宿5選',
+    title: '冬に透明度極まる仁淀ブルーと中津渓谷：2026-2027年冬の高知・仁淀川！渓流温泉と土佐あかうし名宿5選',
     description: '年間で最も透明度が高まり神秘のコバルトブルーに輝く奇跡の清流「仁淀川」の冬絶景！中津渓谷トレッキング、旨味凝縮の「幻の和牛・土佐あかうし」鍋と清流のせせらぎを聞く名湯露天風呂に癒やされる冬名宿5選。',
   },
 };
@@ -128,9 +128,7 @@ export default function Page() {
             </span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-stone-900 leading-tight">
-            【冬に透明度極まる仁淀ブルーと中津渓谷】2026-2027年冬の高知・仁淀川！渓流温泉と土佐あかうし名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-stone-900 leading-tight">「冬に透明度極まる仁淀ブルーと中津渓谷」2026-2027年冬の高知・仁淀川！渓流温泉と土佐あかうし名宿5選</h1>
 
           <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pt-1">
             年間で最も透明度が高まり神秘のコバルトブルーに輝く奇跡の清流「仁淀川」の冬絶景！中津渓谷トレッキング、旨味凝縮の「幻の和牛・土佐あかうし」鍋と清流のせせらぎを聞く名湯露天風呂に癒やされる冬名宿5選。

@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: 'ロイヤルリゾート那須の自然と名湯！那須温泉の美肌露天風呂＆極上とちぎ和牛・豪華高原バイキング×ふるさと納税完全攻略ガイド【2026年最新】エピナール那須・山楽・グランドメルキュール',
+  title: 'ロイヤルリゾート那須の自然と名湯！那須温泉の美肌露天風呂＆極上とちぎ和牛・豪華高原バイキング×ふるさと納税極上旅ガイドエピナール那須・山楽・グランドメルキュール',
   description: '御用邸が置かれる日本屈指のロイヤルリゾート・栃木県那須高原！雄大な茶臼岳と豊かな森。「ホテルエピナール那須」「那須温泉 山楽」「グランドメルキュール那須高原リゾート＆スパ。」を、栃木県那須町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。大型温泉大浴場、大正創業の昭和天皇ゆかり名門、とちぎ和牛を満喫。',
   keywords: ["極上とちぎ和牛", "2026年最新", "エピナール那須", "山楽", "グランドメルキュール", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-nasu-highland-onsen-resort-stay/",
   },
   openGraph: {
-    title: 'ロイヤルリゾート那須の自然と名湯！那須温泉の美肌露天風呂＆極上とちぎ和牛・豪華高原バイキング×ふるさと納税完全攻略ガイド【2026年最新】エピナール那須・山楽・グランドメルキュール',
+    title: 'ロイヤルリゾート那須の自然と名湯！那須温泉の美肌露天風呂＆極上とちぎ和牛・豪華高原バイキング×ふるさと納税極上旅ガイドエピナール那須・山楽・グランドメルキュール',
     description: '御用邸が置かれる日本屈指のロイヤルリゾート・栃木県那須高原！雄大な茶臼岳と豊かな森。「ホテルエピナール那須」「那須温泉 山楽」「グランドメルキュール那須高原リゾート＆スパ。」を、栃木県那須町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。大型温泉大浴場、大正創業の昭和天皇ゆかり名門、とちぎ和牛を満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-nasu-highland-onsen-resort-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoNasuHighlandStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           御用邸の気品と豊かな大自然！栃木県那須町特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          ロイヤルリゾート那須の自然と名湯！那須温泉の美肌露天風呂＆極上とちぎ和牛・豪華高原バイキング×ふるさと納税完全攻略ガイド【2026年最新】エピナール那須・山楽・グランドメルキュール
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">ロイヤルリゾート那須の自然と名湯！那須温泉の美肌露天風呂＆極上とちぎ和牛・豪華高原バイキング×ふるさと納税極上旅ガイドエピナール那須・山楽・グランドメルキュール</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoNasuHighlandStayPage() {
               地元の旬菜にこだわる食事＆施設充実のトップリゾート
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “バイキングと便利な設備で3回目のリピートバイキングがどれも美味しかったです。特にローストビーフと、那須牛乳を使ったバニラアイスが最高でした。また、廊下に氷とウォーターサーバーが設置してあるので… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D7335%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoNasuHighlandStayPage() {
               五感で四季を感じられる会席料理と大露天風呂。日本情緒あふれる純和風のご滞在をご満喫いただけるお宿です
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “リファのドライヤーと充実したアメニティドライヤーがリファの高級品で、乾きも速く、贅沢な気持ちになれました。その他アメニティも良かったです。巾着も毎度風情が感じられて良いです。クチコミの詳細はこ… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D56935%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoNasuHighlandStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               ウェルカムベビーの宿｜全客室にアルコール含むドリンク・軽食が楽しめるラウンジアクセス付
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “遊び場と温泉が充実、家族連れに最適2歳の子連れで利用しました。外から帰ってきた後や朝食までの時間を、1階の遊び場や2階のファミリーラウンジ、併設している公園で有意義に過ごすことができました。温泉も… ”
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

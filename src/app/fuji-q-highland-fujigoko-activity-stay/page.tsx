@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/fuji-q-highland-fujigoko-activity-stay/" },
-  title: "【富士急ハイランド＆富士五湖アクティビティ宿】絶叫アトラクション＆グランピング 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "富士急ハイランド＆富士五湖アクティビティ宿：絶叫アトラクション＆グランピング 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "世界最高峰の絶叫マシンと富士山麓大自然アクティビティ完全特化！富士急ハイランド優先入園付きオフィシャルホテル、富士五湖（河口湖・山中湖）カヤック・SUP・バギー体験、富士山ビューグランピング＆露天風呂宿を徹底解説。",
   keywords: ["富士急ハイランド", "富士五湖アクティビティ宿", "絶叫アトラクション", "グランピング", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
@@ -89,9 +89,7 @@ export default function ThemeParkActivityHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             FUJI-Q & ACTIVITY GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【富士急ハイランド＆富士五湖アクティビティ宿】絶叫アトラクション＆グランピング 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「富士急ハイランド＆富士五湖アクティビティ宿」絶叫アトラクション＆グランピング 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             FUJIYAMA・ド・ドドンパ・ええじゃないかで絶叫し、富士山麓の湖で風を切る！「富士急ハイランド＆富士五湖アクティビティ宿。」。開園前優先入園特典付きオフィシャルホテル。湖畔でのカヌー・SUPや森のグランピングで大自然を満喫する休日へ。
           </p>

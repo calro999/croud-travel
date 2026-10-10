@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            長瀞ライン下りと岩畳の紅葉絵巻！秩父温泉郷の名湯・名物豚みそ丼＆わらじカツを味わう秋の埼玉旅
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">長瀞ライン下りと岩畳の紅葉絵巻！秩父温泉郷の名湯・名物豚みそ丼＆わらじカツを味わう秋の埼玉旅</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             荒川渓谷の奇岩を染める錦秋のパノラマと、奥秩父の清らかな名湯・秩父名物の旨み
           </p>

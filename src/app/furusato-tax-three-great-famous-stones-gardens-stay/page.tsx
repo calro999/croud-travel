@@ -42,9 +42,7 @@ export default function Page() {
             <span className="inline-block w-2 h-2 rounded-full bg-rose-400 animate-pulse" />
             日本三大銘石・庭園芸術特集
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">
-            日本三大銘石＆枯山水庭園・名湯宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三大銘石＆枯山水庭園・名湯宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg md:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed font-normal">
             大自然の悠久の造形、日本庭園を格上げする奇跡の銘石！新潟「佐渡赤玉石」世界遺産佐渡金山と旅館かもめ荘、岐阜「揖斐川石」菊花石や水石の最高峰と養老温泉滝元館遊季の里、京都「鴨川真黒石」枯山水の侘び寂びと嵐山温泉彩四季の宿花筏。日本三大銘石が魅せる石と庭の美学を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。
           </p>

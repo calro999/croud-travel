@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '【2026年】武家屋敷の門構えと歴史ロマン！城下町の情緒漂う伝統美の温泉宿5選 ｜ 日本全国・旅宿クラウド',
+  title: '2026年：武家屋敷の門構えと歴史ロマン！城下町の情緒漂う伝統美の温泉宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！角館・萩・松本など、江戸時代の武家屋敷や城下町の風情を今に伝える格式高い門構えと日本庭園、名湯を堪能できる名宿5選。',
   keywords: ["2026年", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/historic-samurai-residence-castle-town-stay/",
   },
   openGraph: {
-    title: '【2026年】武家屋敷の門構えと歴史ロマン！城下町の情緒漂う伝統美の温泉宿5選',
+    title: '2026年：武家屋敷の門構えと歴史ロマン！城下町の情緒漂う伝統美の温泉宿5選',
     description: '2026年最新！角館・萩・松本など、江戸時代の武家屋敷や城下町の風情を今に伝える格式高い門構えと日本庭園、名湯を堪能できる名宿5選。',
     url: 'https://croud-travel.pages.dev/historic-samurai-residence-castle-town-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -172,9 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>武家屋敷×城下町歴史ロマン</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            【2026年】武家屋敷の門構えと歴史ロマン！城下町の情緒漂う伝統美の温泉宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」武家屋敷の門構えと歴史ロマン！城下町の情緒漂う伝統美の温泉宿5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             黒塗りの板塀、重厚な薬医門、樹齢数百年の古木が茂る日本庭園。まるで江戸時代の絵巻物の中に迷い込んだかのような武家屋敷の宿。歴史ある城下町を散策し、武士の美学が息づく静寂の空間で名湯と伝統の郷土会席を味わう格別の旅路。
           </p>

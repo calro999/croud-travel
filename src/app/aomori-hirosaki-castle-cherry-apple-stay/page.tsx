@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/aomori-hirosaki-castle-cherry-apple-stay/" },
-  title: "【青森・弘前】弘前城桜・津軽りんご＆三味線宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "青森・弘前：弘前城桜・津軽りんご＆三味線宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "死ぬまでに行きたい世界の絶景「弘前公園の花筏（はないかだ）」、現存十二天守「弘前城」、生産量日本一の津軽りんご＆アップルパイ巡り、明治大正のレトロ洋館群、生演奏を聴ける津軽三味線の宿を徹底解説。弘前市内ホテルや名湯温泉旅館を厳選。",
   keywords: ["青森", "弘前", "弘前城桜", "津軽りんご", "三味線宿", "温泉宿", "宿泊予約"],
 };
@@ -92,9 +92,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             HIROSAKI & APPLE GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【青森・弘前＆津軽りんご】弘前公園日本一の桜花筏・洋館建築＆津軽三味線宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「青森・弘前＆津軽りんご」弘前公園日本一の桜花筏・洋館建築＆津軽三味線宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-teal-100/90 leading-relaxed">
             春、お堀一面がピンクの花びらの絨毯で埋め尽くされる奇跡の絶景「弘前公園の花筏（はないかだ）」。重要文化財の現存天守を彩る約2600本の桜の古木。弘前アップルパイの香ばしい香り、明治期に外国人教師を迎えて建てられたモダンな洋館群、そして力強く魂を揺さぶる「津軽三味線」の生演奏。津軽富士・岩木山の麓で文化と美食に浸る弘前ステイへご案内します。
           </p>

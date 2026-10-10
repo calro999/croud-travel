@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【いわき】常磐ものの秋魚グルメ＆ハワイアンズ拠点！2,000円台〜格安ホテル5選',
+  title: 'いわき：常磐ものの秋魚グルメ＆ハワイアンズ拠点！2,000円台〜格安ホテル5選',
   description: '常夏の温泉パラダイス「スパリゾートハワイアンズ」とアクアマリンふくしま！築地・豊洲のプロが絶賛する「常磐もの」のヒラメ・メヒカリ・あんこう鍋。いわき駅周辺で1泊2,000円台〜3,000円台で泊まれる高評価宿5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetIwakiHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>ハワイアンズ温泉＆築地絶賛の常磐もの魚</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【いわき】ハワイアンズ拠点＆極上常磐もの！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「いわき」ハワイアンズ拠点＆極上常磐もの！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-cyan-100/90 max-w-2xl mx-auto leading-relaxed">
             巨大露天風呂「江戸情話 与市」やプールで遊べる常夏の温泉リゾート「スパリゾートハワイアンズ」。そして親潮と黒潮が交わる豊かな海で育ち、豊洲市場で最高評価を受ける「常磐もの（じょうばんもの）」の脂の乗ったメヒカリ唐揚げや秋ヒラメ、あんこう鍋！いわき駅前で2,000円台〜泊まれる優良宿を厳選。
           </p>

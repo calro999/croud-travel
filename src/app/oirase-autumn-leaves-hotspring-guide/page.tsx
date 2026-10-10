@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/oirase-autumn-leaves-hotspring-guide/" },
-  title: "【奥入瀬渓流・十和田湖 紅葉2026完全ガイド】見頃・散策モデルコース＆星野リゾート・秘湯酸ヶ湯ステイ ｜ 日本全国・旅宿クラウド",
+  title: "奥入瀬渓流・十和田湖 紅葉2026厳選ガイド：見頃・散策モデルコース＆星野リゾート・秘湯酸ヶ湯ステイ ｜ 日本全国・旅宿クラウド",
   description: "ブナとカエデが黄金に輝く奇跡の森！奥入瀬渓流の紅葉散策ベストシーズン（10月中旬〜下旬）、十和田湖遊覧船、渓流沿いに佇む人気リゾートホテル、日本有数のヒバ千人風呂「酸ヶ湯温泉」予約ガイド。",
   keywords: ["奥入瀬渓流", "十和田湖", "紅葉2026", "見頃", "散策モデルコース", "星野リゾート", "秘湯酸ヶ湯ステイ"],
 };
@@ -133,12 +133,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
             2026 Oirase Stream & Lake Towada Autumn Guide
           </div>
 
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black font-serif tracking-tight text-white leading-snug">
-            【奥入瀬渓流・十和田湖 紅葉2026完全ガイド】
-            <span className="block mt-2 bg-gradient-to-r from-amber-300 via-emerald-200 to-amber-400 bg-clip-text text-transparent">
-              見頃・散策モデルコース＆星野リゾート・秘湯酸ヶ湯ステイ
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black font-serif tracking-tight text-white leading-snug">「奥入瀬渓流・十和田湖 紅葉2026厳選ガイド」 <span className="block mt-2 bg-gradient-to-r from-amber-300 via-emerald-200 to-amber-400 bg-clip-text text-transparent"> 見頃・散策モデルコース＆星野リゾート・秘湯酸ヶ湯ステイ </span></h1>
 
           <p className="text-sm sm:text-base text-emerald-100/90 max-w-3xl leading-relaxed">
             十和田八幡平国立公園が誇る原生の森と清流。千変万化の渓流美と、黄金色に輝くブナやトチノキの原生林が約14kmにわたって連なります。10月中旬〜下旬のベストシーズンに歩く黄金ルート、マイカー規制情報、十和田湖遊覧船リフレクション、そして名湯「星野リゾート」「蔦温泉」「酸ヶ湯温泉」を巡る至高の紅葉温泉旅へご案内します。

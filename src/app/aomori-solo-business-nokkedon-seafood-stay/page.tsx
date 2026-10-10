@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/aomori-solo-business-nokkedon-seafood-stay/" },
-  title: '【青森出張＆港町ひとり旅】青森駅近・のっけ丼・陸奥湾ホタテ・十和田牛！本州最北の拠点で整う極上ホテル 厳選3選',
+  title: '青森出張＆港町ひとり旅：青森駅近・のっけ丼・陸奥湾ホタテ・十和田牛！本州最北の拠点で整う極上ホテル 厳選3選',
   description: '本州最北のターミナル・青森県青森市！「新町通り中心・広々バスルームと快適デスク完備。」の「ダイワロイネットホテル青森」、アスパム通り沿いでシモンズベッドと青森りんご朝食が自慢の「リッチモンドホテル青森」、ウォーターフロント至近の「ホテルJALシティ青森」を徹底特集。',
   keywords: '青森 出張 ホテル おすすめ,青森 一人旅 ホテル,のっけ丼 ホテル 青森駅,ダイワロイネットホテル青森 宿泊,リッチモンドホテル青森 朝食',
   openGraph: {
-    title: '【青森出張＆港町ひとり旅】青森駅近・のっけ丼・陸奥湾ホタテ・十和田牛！本州最北の拠点で整う極上ホテル 厳選3選',
+    title: '青森出張＆港町ひとり旅：青森駅近・のっけ丼・陸奥湾ホタテ・十和田牛！本州最北の拠点で整う極上ホテル 厳選3選',
     description: '本州最北のターミナル・青森県青森市！「新町通り中心・広々バスルームと快適デスク完備。」の「ダイワロイネットホテル青森」、アスパム通り沿いでシモンズベッドと青森りんご朝食が自慢の「リッチモンドホテル青森」、ウォーターフロント至近の「ホテルJALシティ青森」を徹底特集。',
     url: 'https://croud-travel.pages.dev/aomori-solo-business-nokkedon-seafood-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【青森出張＆港町ひとり旅】青森駅近・のっけ丼・陸奥湾ホタテ・十和田牛！本州最北の拠点で整う極上ホテル 厳選3選',
+    headline: '青森出張＆港町ひとり旅：青森駅近・のっけ丼・陸奥湾ホタテ・十和田牛！本州最北の拠点で整う極上ホテル 厳選3選',
     description: '本州最北のターミナル・青森県青森市！「新町通り中心・広々バスルームと快適デスク完備。」の「ダイワロイネットホテル青森」、アスパム通り沿いでシモンズベッドと青森りんご朝食が自慢の「リッチモンドホテル青森」、ウォーターフロント至近の「ホテルJALシティ青森」を徹底特集。',
     author: {
       '@type': 'Organization',
@@ -74,9 +74,7 @@ export default function ArticlePage() {
           <span>✨</span>
           <span>青森・出張＆のっけ丼・陸奥湾海鮮特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【青森出張＆港町ひとり旅】青森駅近・のっけ丼・陸奥湾ホタテ・十和田牛！本州最北の拠点で整う極上ホテル 厳選3選
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">「青森出張＆港町ひとり旅」青森駅近・のっけ丼・陸奥湾ホタテ・十和田牛！本州最北の拠点で整う極上ホテル 厳選3選</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
           本州最北のターミナル・青森県青森市！「新町通り中心・広々バスルームと快適デスク完備。」の「ダイワロイネットホテル青森」、アスパム通り沿いでシモンズベッドと青森りんご朝食が自慢の「リッチモンドホテル青森」、ウォーターフロント至近の「ホテルJALシティ青森」を徹底特集。
         </p>

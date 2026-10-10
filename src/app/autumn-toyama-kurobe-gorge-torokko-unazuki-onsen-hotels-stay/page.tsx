@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【10月下旬〜11月！黒部峡谷トロッコ電車紅葉】日本一のV字峡谷と宇奈月温泉おすすめ宿5選",
+  title: "下旬〜11月！黒部峡谷トロッコ電車紅葉で過ごす冬の旅（10月）！日本一のV字峡谷と宇奈月温泉おすすめ宿5選",
   description: "窓なしオープン客車で風を切る黒部峡谷トロッコ電車の紅葉パノラマ！黒部川のエメラルドグリーンと紅葉のコントラストを愛で、美肌の湯・宇奈月温泉と富山湾の海の幸を味わう名宿5選。",
   keywords: "黒部峡谷 トロッコ電車 紅葉 見頃 10月 11月, 宇奈月温泉 旅館 おすすめ, やまのは, サン柳亭, ホテル黒部, 富山 紅葉 温泉",
   alternates: {
     canonical: "https://croud-travel.pages.dev/autumn-toyama-kurobe-gorge-torokko-unazuki-onsen-hotels-stay/",
   },
   openGraph: {
-    title: "【10月下旬〜11月！黒部峡谷トロッコ電車紅葉】日本一のV字峡谷と宇奈月温泉おすすめ宿5選",
+    title: "下旬〜11月！黒部峡谷トロッコ電車紅葉で過ごす冬の旅（10月）！日本一のV字峡谷と宇奈月温泉おすすめ宿5選",
     description: "窓なしオープン客車で風を切る黒部峡谷トロッコ電車の紅葉パノラマ！黒部川のエメラルドグリーンと紅葉のコントラストを愛で、美肌の湯・宇奈月温泉と富山湾の海の幸を味わう名宿5選。",
     url: 'https://croud-travel.pages.dev/autumn-toyama-kurobe-gorge-torokko-unazuki-onsen-hotels-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【10月下旬〜11月！黒部峡谷トロッコ電車紅葉】日本一のV字峡谷と宇奈月温泉おすすめ宿5選",
+    title: "下旬〜11月！黒部峡谷トロッコ電車紅葉で過ごす冬の旅（10月）！日本一のV字峡谷と宇奈月温泉おすすめ宿5選",
     description: "窓なしオープン客車で風を切る黒部峡谷トロッコ電車の紅葉パノラマ！黒部川のエメラルドグリーンと紅葉のコントラストを愛で、美肌の湯・宇奈月温泉と富山湾の海の幸を味わう名宿5選。",
   }
 };
@@ -131,9 +131,7 @@ export default function FeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             秋の絶景鉄道特集・黒部峡谷トロッコ列車
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【10月下旬〜11月！黒部峡谷トロッコ電車紅葉】<br className="hidden sm:inline" />日本一のV字峡谷と宇奈月温泉おすすめ宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">下旬〜11月！黒部峡谷トロッコ電車紅葉で過ごす冬の旅（10月）！<br className="hidden sm:inline" />日本一のV字峡谷と宇奈月温泉おすすめ宿5選</h1>
           <p className="max-w-2xl mx-auto text-sm md:text-base text-stone-200 leading-relaxed">
             日本一深いV字峡谷をトロッコ電車で駆け抜ける大迫力の秋アドベンチャー！断崖絶壁を彩る紅葉グラデーションと、黒部川を望む名湯・宇奈月温泉の極上宿を徹底紹介。
           </p>

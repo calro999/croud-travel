@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/yamagata-sakata-tsuruoka-shonai-stay/" },
-  title: "【山形・酒田＆鶴岡・羽黒山・庄内】山居倉庫・出羽三山＆クラゲ水族館・庄内豚宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "山形・酒田＆鶴岡・羽黒山・庄内：山居倉庫・出羽三山＆クラゲ水族館・庄内豚宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "北前船の歴史と修験の霊峰・山形庄内エリア完全特化！ケヤキ並木が美しい酒田「山居倉庫」、世界一のクラゲ水族館「加茂水族館」、ミシュラン三ツ星・出羽三山羽黒山国宝五重塔、湯野浜温泉・あつみ温泉、ブランド庄内豚宿を徹底解説。",
   keywords: ["山形", "酒田", "鶴岡", "羽黒山", "庄内", "山居倉庫", "出羽三山"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             SAKATA & TSURUOKA SHONAI GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【山形・酒田＆鶴岡・羽黒山・庄内】山居倉庫・出羽三山＆クラゲ水族館・庄内豚宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「山形・酒田＆鶴岡・羽黒山・庄内」山居倉庫・出羽三山＆クラゲ水族館・庄内豚宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             米どころ庄内平野と日本海の豊かな恵みが交差する「酒田＆鶴岡」。北前船交易で栄えた酒田の山居倉庫と舞娘茶屋。修験道の聖地・出羽三山羽黒山の杉並木。日本海に沈む夕陽を望む海辺の温泉宿と、山形牛・庄内豚を味わう美食の旅。
           </p>

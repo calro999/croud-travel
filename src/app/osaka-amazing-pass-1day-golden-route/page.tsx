@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/osaka-amazing-pass-1day-golden-route/" },
-  title: "【大阪周遊パス1日券 完全元取りガイド】電車乗り放題＋40ヶ所以上の観光施設が無料！1万円分得するモデルコース ｜ 日本全国・旅宿クラウド",
+  title: "大阪周遊パス1日券 完全元取りガイド：電車乗り放題＋40ヶ所以上の観光施設が無料！1万円分得するモデルコース ｜ 日本全国・旅宿クラウド",
   description: "電車・バス乗り放題に加えて梅田スカイビル空中庭園・大阪城天守閣・道頓堀クルーズなどが無料になる「大阪周遊パス」！通常料金との徹底比較シミュレーション、朝から晩まで遊び尽くすコスパ最強スケジュール。",
   keywords: ["大阪周遊パス1日券", "完全元取りガイド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
@@ -76,10 +76,7 @@ export default function OsakaAmazingPassPage() {
             <span className="w-1.5 h-1.5 rounded-full bg-rose-300"></span>
             <span>還元率300%超えの実力</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【大阪周遊パス1日券 完全元取りガイド】<br className="hidden sm:inline" />
-            電車乗り放題＋40施設無料！<span className="text-rose-300">通常10,000円超がこの1枚</span>
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">「大阪周遊パス1日券 完全元取りガイド」<br className="hidden sm:inline" /> 電車乗り放題＋40施設無料！<span className="text-rose-300">通常10,000円超がこの1枚</span></h1>
           <p className="mt-5 text-base sm:text-lg text-rose-100/90 leading-relaxed">
             Osaka Metro（地下鉄全線）と大阪シティバス、さらに私鉄各線の乗り放題に加え、空中庭園展望台（1,500円）や大阪城天守閣（600円）、道頓堀リバークルーズ（1,200円）など40ヶ所以上の超人気スポットが無料パスになる「大阪周遊パス（デジタル版/磁気版 3,300円）。」。
             スポットを3つ巡るだけで即座にプラスに転じる、日本トップクラスの爆得パスの徹底攻略法です。

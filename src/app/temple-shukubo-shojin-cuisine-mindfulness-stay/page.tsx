@@ -180,9 +180,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            歴史ある古刹で心を洗う！本格精進料理＆朝のお勤め体験ができる名門宿坊
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">歴史ある古刹で心を洗う！本格精進料理＆朝のお勤め体験ができる名門宿坊</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             凛とした空気が漂う境内で、静かに響く鐘の音と僧侶の読経。旬の野菜や豆類を丁寧に調理した美しい精進料理を味わい、朝のお勤めや瞑想で雑念を手放す。忙しい現代人にこそ必要な、心と体をリセットする静寂の宿坊ステイをお届けします。
           </p>

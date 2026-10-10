@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【2026最新】極上厚切り牛タン炭火焼き＆A5仙台牛会席！宮城・秋保＆松島の名湯美食宿5選",
+  title: "2026最新：極上厚切り牛タン炭火焼き＆A5仙台牛会席！宮城・秋保＆松島の名湯美食宿5選",
   description: "炭火で香ばしく焼き上げる名物極上牛タンと、とろけるA5ランク仙台牛を味わい尽くす！開湯1500年の秋保温泉や絶景の松島で、東北屈指の極上肉料理と美肌名湯を堪能できる至高の温泉宿を厳選紹介。",
   keywords: "秋保温泉 牛タン, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/traditional-sendai-beef-tan-gourmet-stay/",
   },
   openGraph: {
-    title: "【2026最新】極上厚切り牛タン炭火焼き＆A5仙台牛会席！宮城・秋保＆松島の名湯美食宿5選",
+    title: "2026最新：極上厚切り牛タン炭火焼き＆A5仙台牛会席！宮城・秋保＆松島の名湯美食宿5選",
     description: "炭火で香ばしく焼き上げる名物極上牛タンと、とろけるA5ランク仙台牛を味わい尽くす！開湯1500年の秋保温泉や絶景の松島で、東北屈指の極上肉料理と美肌名湯を堪能できる至高の温泉宿を厳選紹介。",
     url: 'https://croud-travel.pages.dev/traditional-sendai-beef-tan-gourmet-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【2026最新】極上厚切り牛タン炭火焼き＆A5仙台牛会席！宮城・秋保＆松島の名湯美食宿5選",
+    title: "2026最新：極上厚切り牛タン炭火焼き＆A5仙台牛会席！宮城・秋保＆松島の名湯美食宿5選",
     description: "炭火で香ばしく焼き上げる名物極上牛タンと、とろけるA5ランク仙台牛を味わい尽くす！開湯1500年の秋保温泉や絶景の松島で、東北屈指の極上肉料理と美肌名湯を堪能できる至高の温泉宿を厳選紹介。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>宮城肉美食＆名湯</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【2026最新】極上厚切り牛タン炭火焼き＆A5仙台牛会席！宮城・秋保＆松島の名湯美食宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「2026最新」極上厚切り牛タン炭火焼き＆A5仙台牛会席！宮城・秋保＆松島の名湯美食宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             炭火で香ばしく焼き上げる名物極上牛タンと、とろけるA5ランク仙台牛を味わい尽くす！開湯1500年の秋保温泉や絶景の松島で、東北屈指の極上肉料理と美肌名湯を堪能できる至高の温泉宿を厳選紹介。
           </p>

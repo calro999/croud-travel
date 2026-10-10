@@ -5,11 +5,11 @@ import Image from 'next/image';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/saga-karatsu-yobuko-genkai-squid-stay/" },
-  title: '【佐賀・唐津＆呼子・玄海】唐津城・虹の松原＆呼子朝市イカ活き造り温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+  title: '佐賀・唐津＆呼子・玄海：唐津城・虹の松原＆呼子朝市イカ活き造り温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
   description: '海に突き出た舞鶴城「唐津城」と日本三大松原「虹の松原」百万人植樹のパノラマ、日本三大朝市「呼子の朝市」、皿の上でまだ動く透明な「呼子のイカ活き造り」とふんわりイカしゅうまい、玄界灘の夕日を望むリアス式海岸の温泉宿を徹底解説。',
   keywords: ["佐賀", "唐津", "呼子", "玄海", "唐津城", "虹の松原", "呼子朝市イカ活き造り温泉宿"],
   openGraph: {
-    title: '【佐賀・唐津＆呼子・玄海】唐津城・虹の松原＆呼子朝市イカ活き造り温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+    title: '佐賀・唐津＆呼子・玄海：唐津城・虹の松原＆呼子朝市イカ活き造り温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
     description: '海に突き出た舞鶴城「唐津城」と日本三大松原「虹の松原」百万人植樹のパノラマ、日本三大朝市「呼子の朝市」、皿の上でまだ動く透明な「呼子のイカ活き造り」とふんわりイカしゅうまい、玄界灘の夕日を望むリアス式海岸の温泉宿を徹底解説。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/saga-karatsu-yobuko-genkai-squid-stay',
@@ -50,9 +50,7 @@ export default function Page() {
             <span>🗺️</span>
             <span>KARATSU & YOBUKO SQUID GUIDE</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">
-            【佐賀・唐津＆呼子・玄海】唐津城・虹の松原＆呼子朝市透明イカ活き造り宿 完全ガイド
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">「佐賀・唐津＆呼子・玄海」唐津城・虹の松原＆呼子朝市透明イカ活き造り宿 厳選ガイド</h1>
           <p className="max-w-3xl mx-auto text-stone-300 text-sm sm:text-base md:text-lg leading-relaxed mb-8">
             秀吉の文禄・慶長の役の拠点・名護屋城の歴史を秘め、玄界灘の豊かな海に面した城下町「唐津」。海に羽を広げた鶴のようにそびえる「唐津城（舞鶴城）」と、鏡山から望む長さ4.5km・百万本の黒松が弧を描く「虹の松原」。そして毎朝露店が軒を連ねる「呼子の朝市」。職人が素早くさばく「呼子のイカの活き造り」は、透き通った身の甘みとコリコリとした食感が感動を呼びます。海の幸と陶芸、歴史ロマンが薫る佐賀・唐津呼子ステイへご案内します。
           </p>

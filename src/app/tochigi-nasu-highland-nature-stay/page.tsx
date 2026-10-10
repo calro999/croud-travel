@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tochigi-nasu-highland-nature-stay/" },
-  title: "【栃木・那須高原】茶臼岳・御用邸の森＆ベーカリー・温泉リゾート 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "栃木・那須高原：茶臼岳・御用邸の森＆ベーカリー・温泉リゾート 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "皇室の御用邸があるロイヤルリゾート・那須高原エリア完全特化！那須連山・茶臼岳ロープウェイ、殺生石、ペニーレインなど人気ベーカリーカフェ、那須温泉郷の鹿の湯（にごり湯）とクラシックホテルを徹底解説。",
   keywords: ["栃木", "那須高原", "茶臼岳", "御用邸の森", "ベーカリー", "温泉リゾート", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             NASU HIGHLAND NATURE GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【栃木・那須高原】茶臼岳・御用邸の森＆ベーカリー・温泉リゾート 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「栃木・那須高原」茶臼岳・御用邸の森＆ベーカリー・温泉リゾート 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             標高1,000mを超える那須連山の山裾に広がる「那須高原」。開湯1300年の硫黄泉「鹿の湯」と、パチパチ薪が燃える暖炉付き高原リゾート。澄みきった空気の中で過ごす優雅な休日。
           </p>

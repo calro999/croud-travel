@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagasaki-huistenbosch-sasebo-stay/" },
-  title: "【長崎・ハウステンボス＆佐世保】ヨーロッパ街並み・世界最大イルミ＆佐世保バーガー極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "長崎・ハウステンボス＆佐世保：ヨーロッパ街並み・世界最大イルミ＆佐世保バーガー極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "日本一広いテーマパーク・長崎ハウステンボスエリア完全特化！中世オランダの街並みと運河、世界最大1300万球のイルミネーション、直営オフィシャルホテル、九十九島パノラマと本場佐世保バーガー・レモンステーキ宿を徹底解説。",
   keywords: ["長崎", "ハウステンボス", "佐世保", "ヨーロッパ街並み", "世界最大イルミ", "佐世保バーガー極上宿", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             HUIS TEN BOSCH RESORT GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【長崎・ハウステンボス＆佐世保】ヨーロッパ街並み・世界最大イルミ＆佐世保バーガー極上宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「長崎・ハウステンボス＆佐世保」ヨーロッパ街並み・世界最大イルミ＆佐世保バーガー極上宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             中世ヨーロッパの壮大な宮殿と運河が広がる「ハウステンボス」。1300万球が輝く世界最大のイルミネーションと、四季折々の花の王国。九十九島の絶景と佐世保バーガー、長崎和牛に舌鼓を打つ極上の滞在へ。
           </p>

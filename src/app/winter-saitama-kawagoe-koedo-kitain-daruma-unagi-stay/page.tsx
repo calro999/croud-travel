@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月埼玉】喜多院初大師だるま市新春初詣！名宿5選',
+  title: '11・12・1月埼玉：喜多院初大師だるま市新春初詣！名宿5選',
   description: '11月から1月、黒漆喰の重厚な蔵造り商家が軒を連ねる埼玉県川越市は、冬の澄み渡る青空と新春の活気あふれる初詣シーズンを迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '川越 冬 観光, 小江戸川越, 喜多院 だるま市 初大師, 時の鐘, 川越うなぎ 老舗, 小江戸黒豚, 菓子屋横丁 いも恋, 川越東武ホテル, 川越プリンスホテル, スーパーホテル埼玉川越, ホテル三光, 川越第一ホテル, 11月 12月 1月 埼玉旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-saitama-kawagoe-koedo-kitain-daruma-unagi-stay/"
   },
   openGraph: {
-    title: '【11・12・1月埼玉】喜多院初大師だるま市新春初詣！名宿5選',
+    title: '11・12・1月埼玉：喜多院初大師だるま市新春初詣！名宿5選',
     description: '11月から1月、黒漆喰の重厚な蔵造り商家が軒を連ねる埼玉県川越市は、冬の澄み渡る青空と新春の活気あふれる初詣シーズンを迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-saitama-kawagoe-koedo-kitain-daruma-unagi-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月埼玉】小江戸川越・冬の蔵造りの町並みと時の鐘・喜多院初大師だるま市新春初詣＆名物うなぎ重・小江戸黒豚を味わう川越名宿5選",
+    title: "11・12・1月埼玉：小江戸川越・冬の蔵造りの町並みと時の鐘・喜多院初大師だるま市新春初詣＆名物うなぎ重・小江戸黒豚を味わう川越名宿5選",
     description: "11月から1月、黒漆喰の重厚な蔵造り商家が軒を連ねる埼玉県川越市は、冬の澄み渡る青空と新春の活気あふれる初詣シーズンを迎えます。小江戸の象徴「時の鐘」が響く町並み、徳川家光公ゆかりの「喜多院」で1月3日に開催される名物・初大師だるま市や川越氷川神社の新春祈願、菓子屋横丁の湯気立つ芋スイーツ。江戸時代から受け継がれる老舗の炭火手焼き「川越うなぎ重」や上質な「小江戸黒豚」を心ゆくまで堪能できる厳選宿5選と1泊2日の冬のモデルコースを徹底解説します。",
     images: ['https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=1200&q=80']
   }
@@ -42,7 +42,7 @@ export default function SaitamaKawagoeKoedoWinterPage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: "【11・12・1月埼玉】小江戸川越・冬の蔵造りの町並みと時の鐘・喜多院初大師だるま市新春初詣＆名物うなぎ重・小江戸黒豚を味わう川越名宿5選",
+    headline: "11・12・1月埼玉：小江戸川越・冬の蔵造りの町並みと時の鐘・喜多院初大師だるま市新春初詣＆名物うなぎ重・小江戸黒豚を味わう川越名宿5選",
     description: "11月から1月、黒漆喰の重厚な蔵造り商家が軒を連ねる埼玉県川越市は、冬の澄み渡る青空と新春の活気あふれる初詣シーズンを迎えます。小江戸の象徴「時の鐘」が響く町並み、徳川家光公ゆかりの「喜多院」で1月3日に開催される名物・初大師だるま市や川越氷川神社の新春祈願、菓子屋横丁の湯気立つ芋スイーツ。江戸時代から受け継がれる老舗の炭火手焼き「川越うなぎ重」や上質な「小江戸黒豚」を心ゆくまで堪能できる厳選宿5選と1泊2日の冬のモデルコースを徹底解説します。",
     image: 'https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=1200&q=80',
     datePublished: '',
@@ -282,9 +282,7 @@ export default function SaitamaKawagoeKoedoWinterPage() {
             <Clock className="w-4 h-4 text-amber-300" />
             11月・12月・1月 冬の埼玉・小江戸川越歴史散策＆初詣特集
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【11・12・1月埼玉】小江戸川越・冬の蔵造りの町並みと時の鐘・喜多院初大師だるま市新春初詣＆名物うなぎ重・小江戸黒豚を味わう川越名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「11・12・1月埼玉」小江戸川越・冬の蔵造りの町並みと時の鐘・喜多院初大師だるま市新春初詣＆名物うなぎ重・小江戸黒豚を味わう川越名宿5選</h1>
           <p className="text-stone-300 text-sm sm:text-base md:text-lg max-w-3xl leading-relaxed">
             重厚な黒漆喰の見世蔵が立ち並ぶ冬の小江戸・川越。澄み渡る冬晴れの空に響く「時の鐘」の音、1月3日に数十万人が集う喜多院の名物「初大師だるま市」、縁結びの川越氷川神社の新春祈願。寒風の中で頬張る熱々の芋菓子と、創業180年を超える老舗で炭火手焼きされる極上のうなぎ重。江戸の風情を今に伝える冬の川越で心温まる滞在を約束する厳選宿とモデルコースをご案内します。
           </p>

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/aichi-chita-minamichita-himakajima-stay/" },
-  title: "【愛知・知多半島＆南知多温泉郷】内海千鳥ヶ浜・日間賀島タコふぐ＆知多牛宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "愛知・知多半島＆南知多温泉郷：内海千鳥ヶ浜・日間賀島タコふぐ＆知多牛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "伊勢湾と三河湾に囲まれた海の楽園・愛知知多半島＆南知多温泉郷エリア完全特化！日本の渚百選「内海千鳥ヶ浜」、タコとフグの島「日間賀島」、野間灯台の夕陽、源泉かけ流し南知多温泉、知多牛＆伊勢湾活魚宿を徹底解説。",
   keywords: ["愛知", "知多半島", "南知多温泉郷", "内海千鳥ヶ浜", "日間賀島タコふぐ", "知多牛宿", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             CHITA & HIMAKAJIMA GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【愛知・知多半島＆南知多温泉郷】内海千鳥ヶ浜・日間賀島タコふぐ＆知多牛宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「愛知・知多半島＆南知多温泉郷」内海千鳥ヶ浜・日間賀島タコふぐ＆知多牛宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             名古屋から約50分、伊勢湾の潮風が心地よい海の特等席「知多半島＆南知多温泉郷」。日本の渚百選「内海千鳥ヶ浜」の白砂青松。高速船で渡るタコの島「日間賀島」。名物たこ飯・冬のとらふぐ、銘柄牛「知多牛」を味わう海辺の旅。
           </p>

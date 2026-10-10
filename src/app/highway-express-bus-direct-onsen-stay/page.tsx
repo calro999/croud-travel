@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/highway-express-bus-direct-onsen-stay/" },
-  title: "【高速バス直行・バスターミナル直結温泉宿】乗り換えなし・座席指定で楽々アクセス 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "高速バス直行・バスターミナル直結温泉宿：乗り換えなし・座席指定で楽々アクセス 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "東京・新宿・渋谷・名古屋・大阪から直行！高速バスで行ける温泉宿完全特化！バスタ新宿や主要ターミナルから乗り換えなし。草津温泉・伊香保温泉・白馬・河口湖・南紀白浜などバスターミナル至近の名門旅館を徹底解説。",
   keywords: ["高速バス直行", "バスターミナル直結温泉宿", "乗り換えなし", "座席指定で楽々アクセス", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
@@ -89,9 +89,7 @@ export default function TransitStyleHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             EXPRESS BUS & DIRECT RESORT GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【高速バス直行・バスターミナル直結温泉宿】乗り換えなし・座席指定で楽々アクセス 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「高速バス直行・バスターミナル直結温泉宿」乗り換えなし・座席指定で楽々アクセス 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             大きな荷物を持った乗り換えのストレスなし！バスタ新宿や東京駅、梅田から高速バス1本で温泉街の中心へダイレクトアクセス「高速バス直行の温泉宿」。リーズナブルで確実着席、車窓の景色を眺めながらゆったり名湯へ。
           </p>

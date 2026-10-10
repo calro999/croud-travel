@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/taisho-roman-showa-modern-art-deco-hotel-stay/" },
-  title: '大正ロマン＆昭和モダン・アールデコ建築宿完全ガイド【ステンドグラスと意匠美】 | クラウドトラベル',
+  title: '大正ロマン＆昭和モダン・アールデコ建築宿厳選ガイド「ステンドグラスと意匠美」 | クラウドトラベル',
   description: 'ホテルニューグランド、熱海名邸、旧軽井沢倶楽部など、大正ロマンや昭和初期のアールデコ様式が色濃く残るレトロモダン宿を厳選。ステンドグラスやシャンデリアが誘うノスタルジックな滞在。',
   openGraph: {
-    title: '大正ロマン＆昭和モダン・アールデコ建築宿完全ガイド【ステンドグラスと意匠美】 | クラウドトラベル',
+    title: '大正ロマン＆昭和モダン・アールデコ建築宿厳選ガイド「ステンドグラスと意匠美」 | クラウドトラベル',
     description: 'ホテルニューグランド、熱海名邸、旧軽井沢倶楽部など、大正ロマンや昭和初期のアールデコ様式が色濃く残るレトロモダン宿を厳選。ステンドグラスやシャンデリアが誘うノスタルジックな滞在。',
     type: 'article',
   },
@@ -59,9 +59,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             大正ロマン・昭和モダン建築
           </div>
-          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            大正ロマン＆昭和モダン・アールデコ建築宿完全ガイド【ステンドグラスと意匠美】
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">大正ロマン＆昭和モダン・アールデコ建築宿厳選ガイド「ステンドグラスと意匠美」</h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl">
             西洋のモダニズムと日本の伝統工芸が奇跡的な融合を果たした大正末期から昭和初期。アールデコ調の幾何学レリーフ、色鮮やかなステンドグラス、重厚な真鍮の照明器具など、当時のモダニストたちが夢見た華麗なる空間が宿の中に息づいています。映画のワンシーンに迷い込んだかのようなノスタルジーに浸り、珈琲やワインを片手に贅沢な読書と寛ぎの時間を愉しむ名宿セレクションです。
           </p>

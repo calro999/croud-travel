@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【秋の那須岳紅葉＆高原ステイ！那須高原】茶臼岳ロープウェイと名湯・隠れ家リゾート宿5選",
+  title: "秋の那須岳紅葉＆高原ステイ！那須高原：茶臼岳ロープウェイと名湯・隠れ家リゾート宿5選",
   description: "茶臼岳の山肌が燃えるような赤と黄金色に染まる那須高原の秋！ロープウェイの空中散歩から、那須御用邸近くの老舗名旅館、全室客室露天風呂付きの別邸リゾートまで厳選5選。",
   keywords: "那須高原 紅葉 見頃 10月, 茶臼岳 ロープウェイ 紅葉, 那須温泉 旅館 高級, 那須別邸 回, 那須温泉山楽, 那須 リゾートホテル",
   alternates: {
     canonical: "https://croud-travel.pages.dev/autumn-tochigi-nasu-kougen-momiji-resort-hotels-stay/",
   },
   openGraph: {
-    title: "【秋の那須岳紅葉＆高原ステイ！那須高原】茶臼岳ロープウェイと名湯・隠れ家リゾート宿5選",
+    title: "秋の那須岳紅葉＆高原ステイ！那須高原：茶臼岳ロープウェイと名湯・隠れ家リゾート宿5選",
     description: "茶臼岳の山肌が燃えるような赤と黄金色に染まる那須高原の秋！ロープウェイの空中散歩から、那須御用邸近くの老舗名旅館、全室客室露天風呂付きの別邸リゾートまで厳選5選。",
     url: 'https://croud-travel.pages.dev/autumn-tochigi-nasu-kougen-momiji-resort-hotels-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【秋の那須岳紅葉＆高原ステイ！那須高原】茶臼岳ロープウェイと名湯・隠れ家リゾート宿5選",
+    title: "秋の那須岳紅葉＆高原ステイ！那須高原：茶臼岳ロープウェイと名湯・隠れ家リゾート宿5選",
     description: "茶臼岳の山肌が燃えるような赤と黄金色に染まる那須高原の秋！ロープウェイの空中散歩から、那須御用邸近くの老舗名旅館、全室客室露天風呂付きの別邸リゾートまで厳選5選。",
   }
 };
@@ -131,9 +131,7 @@ export default function FeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             秋の高原リゾート特集・那須岳紅葉と名湯
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【秋の那須岳紅葉＆高原ステイ！那須高原】<br className="hidden sm:inline" />茶臼岳ロープウェイと名湯・隠れ家リゾート宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">「秋の那須岳紅葉＆高原ステイ！那須高原」<br className="hidden sm:inline" />茶臼岳ロープウェイと名湯・隠れ家リゾート宿5選</h1>
           <p className="max-w-2xl mx-auto text-sm md:text-base text-stone-200 leading-relaxed">
             ロープウェイで一気に空中散歩！活火山・茶臼岳の荒々しい岩肌と燃えるような赤と黄金色の紅葉コントラスト。御用邸の歴史を受け継ぐ名門旅館から森の別邸まで、今すぐ予約したい名宿をご案内。
           </p>

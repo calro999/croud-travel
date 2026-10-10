@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-classic-hotel-association-heritage-stay/" },
-  title: '日本クラシックホテルの会加盟名門宿完全ガイド【明治・大正の薫りと登録有形文化財】 | クラウドトラベル',
+  title: '日本クラシックホテルの会加盟名門宿厳選ガイド「明治・大正の薫りと登録有形文化財」 | クラウドトラベル',
   description: '日光金谷ホテル、富士屋ホテル、奈良ホテルなど日本クラシックホテルの会に加盟する名門建築宿を特集。歴代のVIPや文豪が愛した至高のホスピタリティと往時の美意識を巡る特別な宿泊体験。',
   openGraph: {
-    title: '日本クラシックホテルの会加盟名門宿完全ガイド【明治・大正の薫りと登録有形文化財】 | クラウドトラベル',
+    title: '日本クラシックホテルの会加盟名門宿厳選ガイド「明治・大正の薫りと登録有形文化財」 | クラウドトラベル',
     description: '日光金谷ホテル、富士屋ホテル、奈良ホテルなど日本クラシックホテルの会に加盟する名門建築宿を特集。歴代のVIPや文豪が愛した至高のホスピタリティと往時の美意識を巡る特別な宿泊体験。',
     type: 'article',
   },
@@ -59,9 +59,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             名門クラシックホテル特化
           </div>
-          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            日本クラシックホテルの会加盟名門宿完全ガイド【明治・大正の薫りと登録有形文化財】
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">日本クラシックホテルの会加盟名門宿厳選ガイド「明治・大正の薫りと登録有形文化財」</h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl">
             日本にわずか9棟しか存在しない「日本クラシックホテルの会」加盟ホテル。明治から昭和初期にかけて、国の威信をかけて世界各国の国賓やVIPを迎え入れた名建築群は、今なお時を超えた気品と温もりに満ちています。当時のまま大切に手入れされた木製回転ドア、格天井や彫刻の装飾、創業時からの秘伝レシピを受け継ぐ伝統フレンチなど、一度は泊まりたい本物のヘリテージステイへご案内します。
           </p>

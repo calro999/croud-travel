@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            南伊豆・石廊崎絶景と河津七滝の紅葉！秋の伊勢海老まつり・金目鯛と下賀茂温泉の源泉湯治旅
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">南伊豆・石廊崎絶景と河津七滝の紅葉！秋の伊勢海老まつり・金目鯛と下賀茂温泉の源泉湯治旅</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             伊豆最南端の青き絶景と秋の紅葉渓谷、解禁された極上伊勢海老を味わう至福の湯浴み
           </p>

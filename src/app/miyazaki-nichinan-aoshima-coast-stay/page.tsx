@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/miyazaki-nichinan-aoshima-coast-stay/" },
-  title: "【宮崎・日南海岸＆青島】青島神社・鬼の洗濯板＆サンメッセ日南モアイ・宮崎牛宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "宮崎・日南海岸＆青島：青島神社・鬼の洗濯板＆サンメッセ日南モアイ・宮崎牛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "南国のパームツリーと神話の海岸線・宮崎日南海岸＆青島エリア完全特化！国指定天然記念物「青島・鬼の洗濯板」、サンメッセ日南の完全復刻モアイ像、鵜戸神宮の運玉投げ、青島天然温泉、最高級宮崎牛＆日南一本釣りカツオ宿を徹底解説。",
   keywords: ["宮崎", "日南海岸", "青島", "青島神社", "鬼の洗濯板", "サンメッセ日南モアイ", "宮崎牛宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             NICHINAN & AOSHIMA GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【宮崎・日南海岸＆青島】青島神社・鬼の洗濯板＆サンメッセ日南モアイ・宮崎牛宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「宮崎・日南海岸＆青島」青島神社・鬼の洗濯板＆サンメッセ日南モアイ・宮崎牛宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             どこまでも続く青い太平洋とフェニックスの並木道「宮崎・日南海岸」。周囲1.5kmの聖なる島「青島」を囲む奇岩・鬼の洗濯板。洞窟の中に本殿が鎮座する鵜戸神宮。トロピカルなリゾート温泉と、日本一の宮崎牛ステーキを味わう南国ステイ。
           </p>

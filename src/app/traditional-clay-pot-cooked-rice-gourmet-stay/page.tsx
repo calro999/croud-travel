@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '【2026年】ふっくら艶やかな土鍋炊き銀シャリ！お米の旨味を極めた絶品朝ごはんの温泉宿5選 ｜ 日本全国・旅宿クラウド',
+  title: '2026年：ふっくら艶やかな土鍋炊き銀シャリ！お米の旨味を極めた絶品朝ごはんの温泉宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！魚沼産コシヒカリや地元銘柄米を専用土鍋やかまどで炊き上げる極上ご飯と、ご飯のお供が充実した朝食自慢の温泉旅館5選。',
   keywords: ["2026年", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/traditional-clay-pot-cooked-rice-gourmet-stay/",
   },
   openGraph: {
-    title: '【2026年】ふっくら艶やかな土鍋炊き銀シャリ！お米の旨味を極めた絶品朝ごはんの温泉宿5選',
+    title: '2026年：ふっくら艶やかな土鍋炊き銀シャリ！お米の旨味を極めた絶品朝ごはんの温泉宿5選',
     description: '2026年最新！魚沼産コシヒカリや地元銘柄米を専用土鍋やかまどで炊き上げる極上ご飯と、ご飯のお供が充実した朝食自慢の温泉旅館5選。',
     url: 'https://croud-travel.pages.dev/traditional-clay-pot-cooked-rice-gourmet-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -172,9 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>土鍋炊き銀シャリ×究極の朝ごはん</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            【2026年】ふっくら艶やかな土鍋炊き銀シャリ！お米の旨味を極めた絶品朝ごはんの温泉宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」ふっくら艶やかな土鍋炊き銀シャリ！お米の旨味を極めた絶品朝ごはんの温泉宿5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             蓋を開けた瞬間に立ち上る甘い湯気と、一粒一粒が立ったツヤツヤの銀シャリ。名水と職人の火加減で炊き上げる土鍋ご飯は、それだけでご馳走。炭火焼きの干物や地卵の出汁巻き、旬の小鉢とともに味わう日本の誇る究極の朝ごはんステイ。
           </p>

@@ -1,4 +1,4 @@
-# 【熊本・阿蘇】阿蘇内牧温泉おすすめ宿6選！大観峰のカルデラパノラマとあか牛・馬刺し会席
+# 熊本・阿蘇：阿蘇内牧温泉おすすめ宿6選！大観峰のカルデラパノラマとあか牛・馬刺し会席
 
 - URL: https://croud-travel.pages.dev/posts/aso-uchinomaki-onsen-caldera-view-hotels-guide/
 - 宿泊施設名: 阿蘇内牧温泉 大観荘

@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '【2026年】太古の地球エネルギーを体感！天然洞窟風呂＆巨岩露天風呂の秘境宿5選 ｜ 日本全国・旅宿クラウド',
+  title: '2026年：太古の地球エネルギーを体感！天然洞窟風呂＆巨岩露天風呂の秘境宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！自然の岩盤をくり抜いた天然洞窟風呂や巨大な岩風呂が自慢の秘境温泉宿5選。地球の息吹を感じる神秘的な湯浴み体験へ。',
   keywords: ["2026年", "巨岩露天風呂の秘境宿5選", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/ancient-jomon-forest-cave-onsen-stay/",
   },
   openGraph: {
-    title: '【2026年】太古の地球エネルギーを体感！天然洞窟風呂＆巨岩露天風呂の秘境宿5選',
+    title: '2026年：太古の地球エネルギーを体感！天然洞窟風呂＆巨岩露天風呂の秘境宿5選',
     description: '2026年最新！自然の岩盤をくり抜いた天然洞窟風呂や巨大な岩風呂が自慢の秘境温泉宿5選。地球の息吹を感じる神秘的な湯浴み体験へ。',
     url: 'https://croud-travel.pages.dev/ancient-jomon-forest-cave-onsen-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -144,9 +144,7 @@ export default function Page() {
             <span>•</span>
             <span>天然洞窟風呂×秘境名湯</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            【2026年】太古の地球エネルギーを体感！天然洞窟風呂＆巨岩露天風呂の秘境宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」太古の地球エネルギーを体感！天然洞窟風呂＆巨岩露天風呂の秘境宿5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             薄明かりに照らされた天然の洞窟の中に湧き出る神秘的な名湯。ゴツゴツとした岩肌と反響する湯の音、太古から続く地球の鼓動を肌で感じる非日常の湯浴み。秘境の地でしか出会えない野趣あふれる洞窟温泉＆巨岩露天風呂の宿を厳選しました。
           </p>

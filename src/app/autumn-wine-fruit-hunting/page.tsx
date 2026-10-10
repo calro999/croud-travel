@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/autumn-wine-fruit-hunting/" },
-  title: "【秋の味覚狩り】ワイナリー巡り＆フルーツ温泉リゾート 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "秋の味覚狩り：ワイナリー巡り＆フルーツ温泉リゾート 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "収穫の秋を満喫！山梨勝沼・石和温泉（新酒ワインとぶどう狩り）、信州千曲川ワインバレー、北海道余市、岡山果実郷など、秋のワイナリーツアーとフルーツ狩り・温泉を満喫できる人気宿を徹底解説。",
   keywords: ["秋の味覚狩り", "ワイナリー巡り", "フルーツ温泉リゾート", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -98,9 +98,7 @@ export default function SeasonalFeaturePage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             AUTUMN HARVEST
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【秋の味覚狩り】ワイナリー巡り＆フルーツ温泉リゾート 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「秋の味覚狩り」ワイナリー巡り＆フルーツ温泉リゾート 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             もぎたてのシャインマスカットや巨峰、樽出しの出来立て新酒ワイン。心地よい秋風が吹くぶどう畑を巡り、夜は美肌の温泉とご当地マリアージュディナーに舌鼓を打つ大人の収穫祭ステイ。
           </p>

@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【宮崎日向夏スイーツ＆宮崎牛】爽やか柑橘と南国リゾート青島温泉の美食名湯宿5選",
+  title: "宮崎日向夏スイーツ＆宮崎牛：爽やか柑橘と南国リゾート青島温泉の美食名湯宿5選",
   description: "黄色い皮と白皮の甘みが絶妙な宮崎特産「日向夏（ひゅうがなつ）」の特製パフェと、日本一の栄冠に輝く「宮崎牛」！青島神社や鬼の洗濯板を望む青島温泉のトロトロ美肌湯で、南国の光と風を感じる癒やしステイ。",
   keywords: "宮崎 温泉 リゾート ホテル, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/spring-miyazaki-hyuganatsu-citrus-spa-stay/",
   },
   openGraph: {
-    title: "【宮崎日向夏スイーツ＆宮崎牛】爽やか柑橘と南国リゾート青島温泉の美食名湯宿5選",
+    title: "宮崎日向夏スイーツ＆宮崎牛：爽やか柑橘と南国リゾート青島温泉の美食名湯宿5選",
     description: "黄色い皮と白皮の甘みが絶妙な宮崎特産「日向夏（ひゅうがなつ）」の特製パフェと、日本一の栄冠に輝く「宮崎牛」！青島神社や鬼の洗濯板を望む青島温泉のトロトロ美肌湯で、南国の光と風を感じる癒やしステイ。",
     url: 'https://croud-travel.pages.dev/spring-miyazaki-hyuganatsu-citrus-spa-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【宮崎日向夏スイーツ＆宮崎牛】爽やか柑橘と南国リゾート青島温泉の美食名湯宿5選",
+    title: "宮崎日向夏スイーツ＆宮崎牛：爽やか柑橘と南国リゾート青島温泉の美食名湯宿5選",
     description: "黄色い皮と白皮の甘みが絶妙な宮崎特産「日向夏（ひゅうがなつ）」の特製パフェと、日本一の栄冠に輝く「宮崎牛」！青島神社や鬼の洗濯板を望む青島温泉のトロトロ美肌湯で、南国の光と風を感じる癒やしステイ。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>宮崎日向夏＆青島美肌温泉</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【宮崎日向夏スイーツ＆宮崎牛】爽やか柑橘と南国リゾート青島温泉の美食名湯宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「宮崎日向夏スイーツ＆宮崎牛」爽やか柑橘と南国リゾート青島温泉の美食名湯宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             黄色い皮と白皮の甘みが絶妙な宮崎特産「日向夏（ひゅうがなつ）」の特製パフェと、日本一の栄冠に輝く「宮崎牛」！青島神社や鬼の洗濯板を望む青島温泉のトロトロ美肌湯で、南国の光と風を感じる癒やしステイ。
           </p>

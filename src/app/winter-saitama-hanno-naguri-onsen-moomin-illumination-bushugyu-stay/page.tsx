@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月埼玉】奥武蔵の薪火サウナと武州和牛！名宿5選',
+  title: '11・12・1月埼玉：奥武蔵の薪火サウナと武州和牛！名宿5選',
   description: '都心から特急でわずか40分、北欧の冬情趣と豊かな山林が広がる埼玉・飯能＆奥武蔵の11〜1月冬旅特集。宮沢湖畔を光と音で包むムーミンバレーパー。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: 'ムーミンバレーパーク イルミネーション 冬, 名栗温泉 大松閣, 休暇村 奥武蔵, 武州和牛 埼玉, 飯能 ホテル, 北欧サウナ 埼玉, 奥武蔵 温泉, 冬 旅行 埼玉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-saitama-hanno-naguri-onsen-moomin-illumination-bushugyu-stay/"
   },
   openGraph: {
-    title: '【11・12・1月埼玉】奥武蔵の薪火サウナと武州和牛！名宿5選',
+    title: '11・12・1月埼玉：奥武蔵の薪火サウナと武州和牛！名宿5選',
     description: '都心から特急でわずか40分、北欧の冬情趣と豊かな山林が広がる埼玉・飯能＆奥武蔵の11〜1月冬旅特集。宮沢湖畔を光と音で包むムーミンバレーパー。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-saitama-hanno-naguri-onsen-moomin-illumination-bushugyu-stay',
     type: 'article',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月埼玉】ムーミンバレーパーク冬イルミ＆名栗温泉の秘湯！奥武蔵の薪火サウナと武州和牛名宿5選",
+    title: "11・12・1月埼玉：ムーミンバレーパーク冬イルミ＆名栗温泉の秘湯！奥武蔵の薪火サウナと武州和牛名宿5選",
     description: "都心から特急でわずか40分、北欧の冬情趣と豊かな山林が広がる埼玉・飯能＆奥武蔵の11〜1月冬旅特集。宮沢湖畔を光と音で包むムーミンバレーパークの幻想的イルミネーション「ウィンターワンダーランド」、入間川上流・名栗渓谷に湧く老舗の名湯「名栗温泉」、フィンランド式薪火サウナ、極上の肉質を誇る埼玉の銘柄牛「武州和牛」と奥武蔵ジビエ鍋。冬の贅沢な休息に最適な厳選ホテル・温泉宿5選を徹底解説します。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -284,11 +284,7 @@ export default function SaitamaHannoNaguriWinterPage() {
               <Sparkles className="w-4 h-4 text-emerald-300" />
               <span>11月・12月・1月冬の北欧イルミ＆奥武蔵温泉特集</span>
             </div>
-            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 text-white drop-shadow-md">
-              埼玉・飯能＆名栗温泉・奥武蔵<br className="hidden sm:inline" />
-              ムーミンバレーパーク冬イルミ＆名栗温泉の秘湯！<br className="hidden sm:inline" />
-              薪火サウナと武州和牛を味わう厳選名宿5選
-            </h1>
+            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 text-white drop-shadow-md">埼玉・飯能＆名栗温泉・奥武蔵<br className="hidden sm:inline" /> ムーミンバレーパーク冬イルミ＆名栗温泉の秘湯！<br className="hidden sm:inline" /> 薪火サウナと武州和牛を味わう厳選名宿5選</h1>
             <p className="max-w-3xl mx-auto text-sm md:text-lg text-emerald-100 leading-relaxed drop-shadow">
               池袋から特急ラビューでわずか40分。宮沢湖畔の森を彩るムーミンバレーパークの幻想的な冬イルミネーションと、名栗渓谷に佇む木の温もり溢れる名湯宿。本格フィンランド式薪火サウナと埼玉の極上黒毛和牛「武州和牛」に癒やされる冬のリトリート。
             </p>

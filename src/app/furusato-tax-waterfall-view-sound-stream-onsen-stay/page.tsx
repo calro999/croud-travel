@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '滝の轟きとマイナスイオンに包まれる！名瀑・清流を望む絶景露天風呂旅館×ふるさと納税完全ガイド【2026年最新】伊豆天城・那須板室・熊本黒川',
+  title: '滝の轟きとマイナスイオンに包まれる！名瀑・清流を望む絶景露天風呂旅館×ふるさと納税厳選ガイド伊豆天城・那須板室・熊本黒川',
   description: '眼前に流れ落ちる名瀑の水しぶきと清流の心地よいせせらぎ、豊かな森林のマイナスイオン！伊豆天城の清流と巨石・巨木露天風呂・名物わさび鍋を味わう「天城湯ヶ島温泉 白壁」、那珂川の源流と滝の響きに抱かれ保養と現代アートを融合させた「板室温泉 大黒屋」、黒川の奥座敷・田の原川のせせらぎと滝を望む静寂の離れ宿「風がささやく離れの宿 山あかり」。水音に五感が研ぎ澄まされる極上の滝ビュー温泉ステイを、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
   keywords: ["2026年最新", "伊豆天城", "那須板室", "熊本黒川", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-waterfall-view-sound-stream-onsen-stay/",
   },
   openGraph: {
-    title: '滝の轟きとマイナスイオンに包まれる！名瀑・清流を望む絶景露天風呂旅館×ふるさと納税完全ガイド【2026年最新】伊豆天城・那須板室・熊本黒川',
+    title: '滝の轟きとマイナスイオンに包まれる！名瀑・清流を望む絶景露天風呂旅館×ふるさと納税厳選ガイド伊豆天城・那須板室・熊本黒川',
     description: '眼前に流れ落ちる名瀑の水しぶきと清流の心地よいせせらぎ、豊かな森林のマイナスイオン！伊豆天城の清流と巨石・巨木露天風呂・名物わさび鍋を味わう「天城湯ヶ島温泉 白壁」、那珂川の源流と滝の響きに抱かれ保養と現代アートを融合させた「板室温泉 大黒屋」、黒川の奥座敷・田の原川のせせらぎと滝を望む静寂の離れ宿「風がささやく離れの宿 山あかり」。水音に五感が研ぎ澄まされる極上の滝ビュー温泉ステイを、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-waterfall-view-sound-stream-onsen-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoWaterfallViewStreamStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           全国屈指の名瀑・清流滝ビュー温泉宿特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          滝の轟きとマイナスイオンに包まれる！名瀑・清流を望む絶景露天風呂旅館×ふるさと納税完全ガイド【2026年最新】伊豆天城・那須板室・熊本黒川
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">滝の轟きとマイナスイオンに包まれる！名瀑・清流を望む絶景露天風呂旅館×ふるさと納税厳選ガイド伊豆天城・那須板室・熊本黒川</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoWaterfallViewStreamStayPage() {
               源泉掛け流しの温泉旅館。湯浴みテラス付露天風呂付客室で贅沢なひと時を。
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “スタッフの献身的な対応と気配りに感動従業員の方々の、献身的で心休まるひとときを過ごせました。外国籍の方々の、真面目さ、気配り、日本語を一生懸命に使い伝えてくれるその直向きさに、元気をいただ… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D10847%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoWaterfallViewStreamStayPage() {
               栃木県那須・板室の大自然の中に静かに佇む、隠れ家のような旅館「保養とアートの宿」板室温泉大黒屋
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “建物は古いが清潔、静かな環境で源泉掛け流し古い建物ではあるが清潔。源泉掛け流しでお湯は新鮮。薬効はあまり感じなかった。山の中で静か。 ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D153309%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoWaterfallViewStreamStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               「美人の湯」と言われる温泉と季節の食材に拘った自慢の料理に店主厳選の「佐賀ん酒」をお楽しみ下さい♪
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “とてもくつろげたので、また行きたいとてもくつろげました。また行きたいです。 ”
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

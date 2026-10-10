@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-sauna-retreat/" },
-  title: "【ととのう極上旅】絶景サウナ＆天然水風呂の温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "ととのう極上旅：絶景サウナ＆天然水風呂の温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "秋・冬の外気浴が最高に気持ちいい！長野・野尻湖The Sauna、山梨・富士山ビューサウナ、静岡・天然水風呂宿、北海道・十勝アヴァントサウナなど、本格フィンランド式サウナと温泉を兼ね備えた名宿を徹底解説。",
   keywords: ["ととのう極上旅", "絶景サウナ", "天然水風呂の温泉宿", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -98,9 +98,7 @@ export default function SeasonalFeaturePage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             SAUNA & ONSON
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【ととのう極上旅】絶景サウナ＆天然水風呂の温泉宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「ととのう極上旅」絶景サウナ＆天然水風呂の温泉宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             澄み渡る秋風やキリリと冷えた冬の空気の中で行う「外気浴」は、サウナ愛好家にとって至高の体験。薪ストーブの芳しい香り、天然地下水かけ流しの水風呂、富士山や湖を望む絶景サウナリゾートへ。
           </p>

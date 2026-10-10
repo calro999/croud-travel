@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/samurai-katana-armor-buke-yashiki-heritage-stay/" },
-  title: '武家屋敷＆サムライ・甲冑・刀剣体験宿完全ガイド【会津・角館・知覧歴史旅】 | クラウドトラベル',
+  title: '武家屋敷＆サムライ・甲冑・刀剣体験宿厳選ガイド「会津・角館・知覧歴史旅」 | クラウドトラベル',
   description: '白虎隊の歴史息づく会津若松、みちのくの小京都・角館の黒板塀武家屋敷、薩摩武士の面影を残す知覧武家屋敷庭園を特集。陣羽織・甲冑着付けや居合道体験、武家屋敷を再生した登録文化財宿を徹底解説。',
   openGraph: {
-    title: '武家屋敷＆サムライ・甲冑・刀剣体験宿完全ガイド【会津・角館・知覧歴史旅】 | クラウドトラベル',
+    title: '武家屋敷＆サムライ・甲冑・刀剣体験宿厳選ガイド「会津・角館・知覧歴史旅」 | クラウドトラベル',
     description: '白虎隊の歴史息づく会津若松、みちのくの小京都・角館の黒板塀武家屋敷、薩摩武士の面影を残す知覧武家屋敷庭園を特集。陣羽織・甲冑着付けや居合道体験、武家屋敷を再生した登録文化財宿を徹底解説。',
     type: 'article',
   },
@@ -59,9 +59,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             武家屋敷・サムライ体験特化
           </div>
-          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            武家屋敷＆サムライ・甲冑・刀剣体験宿完全ガイド【会津・角館・知覧歴史旅】
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">武家屋敷＆サムライ・甲冑・刀剣体験宿厳選ガイド「会津・角館・知覧歴史旅」</h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl">
             重厚な長屋門、美しく手入れされた枯山水庭園、刀傷の残る柱。会津藩士の義の心、角館の枝垂れ桜と黒板塀、そして薩摩武士の美意識が息づく知覧。当時の武家屋敷そのものや蔵をリノベーションした歴史的建造物の宿に泊まり、本物の甲冑着付けや居合切り体験、武家伝統の会席料理を味わう、侍の美学に浸るヘリテージステイへご案内します。
           </p>

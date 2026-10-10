@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            北海道・登別温泉＆白老ポロトコタン！地獄谷の紅葉・9種の多彩な名湯＆白老牛会席
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">北海道・登別温泉＆白老ポロトコタン！地獄谷の紅葉・9種の多彩な名湯＆白老牛会席</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の北海道・登別＆白老特集！立ち上る湯煙と鮮やかな紅葉が織りなす登別地獄谷の大絶景、9つの異なる泉質を誇る名湯・登別温泉、アイヌ文化が薫る白老ポロト湖畔の秋景色と銘牛・白老牛ステーキをふるさと納税トラベルで堪能する極上旅。
           </p>

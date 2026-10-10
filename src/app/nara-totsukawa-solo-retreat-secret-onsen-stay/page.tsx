@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nara-totsukawa-solo-retreat-secret-onsen-stay/" },
-  title: '【日本一広い村・十津川温泉郷ひとり旅・源泉かけ流し宣言おこもり】100%完全かけ流し・世界遺産熊野参詣道小辺路・谷瀬の吊り橋！紀伊山地秘境厳選3宿',
+  title: '日本一広い村・十津川温泉郷ひとり旅・源泉かけ流し宣言おこもり：100%完全かけ流し・世界遺産熊野参詣道小辺路・谷瀬の吊り橋！紀伊山地秘境厳選3宿',
   description: '全国初の「源泉かけ流し宣言」の村・奈良・十津川温泉郷！美肌の硫黄泉と広大な敷地を誇るリゾート「十津川温泉 ホテル昴」、二津野湖畔の静寂と手作り山菜・川魚料理が心温まる「ゑびす荘」、家庭的なもてなしと良質な天然温泉の「旅館平谷荘」を楽天API最新データに基づき徹底比較。',
   keywords: '十津川温泉 一人旅 宿,十津川 ホテル 一人 温泉,ホテル昴 十津川,ゑびす荘 十津川,平谷荘,十津川 ひとり旅 おこもり',
   openGraph: {
-    title: '【日本一広い村・十津川温泉郷ひとり旅・源泉かけ流し宣言おこもり】100%完全かけ流し・世界遺産熊野参詣道小辺路・谷瀬の吊り橋！紀伊山地秘境厳選3宿',
+    title: '日本一広い村・十津川温泉郷ひとり旅・源泉かけ流し宣言おこもり：100%完全かけ流し・世界遺産熊野参詣道小辺路・谷瀬の吊り橋！紀伊山地秘境厳選3宿',
     description: '全国初の「源泉かけ流し宣言」の村・奈良・十津川温泉郷！美肌の硫黄泉と広大な敷地を誇るリゾート「十津川温泉 ホテル昴」、二津野湖畔の静寂と手作り山菜・川魚料理が心温まる「ゑびす荘」、家庭的なもてなしと良質な天然温泉の「旅館平谷荘」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/nara-totsukawa-solo-retreat-secret-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【日本一広い村・十津川温泉郷ひとり旅・源泉かけ流し宣言おこもり】100%完全かけ流し・世界遺産熊野参詣道小辺路・谷瀬の吊り橋！紀伊山地秘境厳選3宿',
+    headline: '日本一広い村・十津川温泉郷ひとり旅・源泉かけ流し宣言おこもり：100%完全かけ流し・世界遺産熊野参詣道小辺路・谷瀬の吊り橋！紀伊山地秘境厳選3宿',
     description: '全国初の「源泉かけ流し宣言」の村・奈良・十津川温泉郷！美肌の硫黄泉と広大な敷地を誇るリゾート「十津川温泉 ホテル昴」、二津野湖畔の静寂と手作り山菜・川魚料理が心温まる「ゑびす荘」、家庭的なもてなしと良質な天然温泉の「旅館平谷荘」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             奈良・十津川温泉郷ひとり旅＆紀伊山地秘境おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【日本一広い村・十津川温泉郷ひとり旅・源泉かけ流し宣言おこもり】100%完全かけ流し・世界遺産熊野参詣道小辺路・谷瀬の吊り橋！紀伊山地秘境厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「日本一広い村・十津川温泉郷ひとり旅・源泉かけ流し宣言おこもり」100%完全かけ流し・世界遺産熊野参詣道小辺路・谷瀬の吊り橋！紀伊山地秘境厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

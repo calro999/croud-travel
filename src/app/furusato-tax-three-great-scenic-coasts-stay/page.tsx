@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-scenic-coasts-stay/" },
-  title: '日本三大名勝海岸＆奇岩断崖パノラマ・白砂青松の絶景オーシャンビュー宿×ふるさと納税完全ガイド【2026年最新】東尋坊・浄土ヶ浜・白良浜',
+  title: '日本三大名勝海岸＆奇岩断崖パノラマ・白砂青松の絶景オーシャンビュー宿×ふるさと納税厳選ガイド東尋坊・浄土ヶ浜・白良浜',
   description: '日本列島の海岸美の極致を巡る旅！福井「東尋坊」柱状節理の断崖絶壁とあわら温泉まつや千千、岩手三陸「浄土ヶ浜」白き鋭鋒奇岩とエメラルドの海浄土ヶ浜パークホテル、和歌山南紀「白良浜」延長620mの白砂青松ビーチとホテル三楽荘。日本三大名勝海岸の絶景パノラマと海の幸を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大名勝海岸・海景特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大名勝海岸＆奇岩断崖パノラマ・白砂青松の絶景オーシャンビュー宿×ふるさと納税完全ガイド【2026年最新】東尋坊・浄土ヶ浜・白良浜',
+    title: '日本三大名勝海岸＆奇岩断崖パノラマ・白砂青松の絶景オーシャンビュー宿×ふるさと納税厳選ガイド東尋坊・浄土ヶ浜・白良浜',
     description: '日本列島の海岸美の極致を巡る旅！福井「東尋坊」柱状節理の断崖絶壁とあわら温泉まつや千千、岩手三陸「浄土ヶ浜」白き鋭鋒奇岩とエメラルドの海浄土ヶ浜パークホテル、和歌山南紀「白良浜」延長620mの白砂青松ビーチとホテル三楽荘。日本三大名勝海岸の絶景パノラマと海の幸を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-scenic-coasts-stay',
@@ -142,9 +142,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大名勝海岸・海景特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大名勝海岸＆白砂青松オーシャンビュー宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大名勝海岸＆白砂青松オーシャンビュー宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             日本列島をめぐる荒波と潮流が創り上げた、息をのむ美しさを誇る「日本三大名勝海岸」――輝石安山岩の柱状節理が約1kmにわたりそびえ立ち国の名勝・天然記念物に指定されている福井越前の「東尋坊」、宮古湾の内海に白陶土の白い奇岩が林立し松の緑と透き通る海のコントラストが極楽浄土を思わせる岩手三陸の「浄土ヶ浜」、そして珪砂90%を含むさらさらの白い砂浜が弧を描きヤシの木とエメラルドグリーンの遠浅の海が南国情緒を醸す和歌山南紀の「白良浜」。海岸美の感動に浸った後は、越前ガニや三陸のアワビ・ウニ、紀州のクエや伊勢海老の美食ディナーを堪能する特別な旅を楽天ふるさと納税でお楽しみください。
           </p>

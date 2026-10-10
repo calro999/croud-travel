@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-sea-kayak-marine-guide/" },
-  title: "【海グランピング SUP＆シーカヤック体験】秋のビーチ直結！波音を聞いて眠るウォーターフロントリゾート ｜ 日本全国・旅宿クラウド",
+  title: "海グランピング SUP＆シーカヤック体験：秋のビーチ直結！波音を聞いて眠るウォーターフロントリゾート ｜ 日本全国・旅宿クラウド",
   description:
     "山だけでなく海も最高！秋風が心地よい9月のシーサイドグランピング特集。目の前のビーチで楽しむSUPやシーカヤック、初心者向け海釣り体験、水平線に沈む夕日と海鮮浜焼きBBQのモデルコース。",
   keywords: ["海グランピング", "SUP", "シーカヤック体験", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
@@ -172,9 +172,7 @@ export default function SilverWeekGlampingSeaKayakMarinePage() {
             </span>
           </div>
 
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【海グランピング SUP＆シーカヤック体験】秋のビーチ直結！波音を聞いて眠るウォーターフロントリゾート
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「海グランピング SUP＆シーカヤック体験」秋のビーチ直結！波音を聞いて眠るウォーターフロントリゾート</h1>
 
           <p className="text-xs md:text-sm text-cyan-100/90 leading-relaxed font-medium">
             夏休みの大混雑が引いた9月のビーチは、穏やかな波と爽やかな秋風に包まれる知る人ぞ知るベストシーズン。海水温は温かく保たれ、SUPやシーカヤックで透明度の高い海へ漕ぎ出す爽快感は格別です。客室の目の前に広がる白い砂浜、夕暮れのグラデーション、新鮮な伊勢海老やアワビの海鮮浜焼きBBQ。秋の海を五感で味わう贅沢なリゾートステイをお届けします。

@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nikko-kinugawa-solo-retreat-onsen-culture-stay/" },
-  title: '【日光・鬼怒川ひとり旅・極上おこもり】空中庭園露天風呂・日光東照宮参道の名湯・現存最古のリゾートクラシック！渓谷と歴史の厳選3宿',
+  title: '日光・鬼怒川ひとり旅・極上おこもり：空中庭園露天風呂・日光東照宮参道の名湯・現存最古のリゾートクラシック！渓谷と歴史の厳選3宿',
   description: '浅草・新宿から東武特急スペーシアで直通！渓谷の絶景を眼下に望む空中庭園露天風呂が圧巻の「鬼怒川温泉 あさや」、日光東照宮まで徒歩圏内で女性一人旅にも人気の「日光千姫物語」、明治創業の歴史と伝統が息づく「日光金谷ホテル」を楽天APIデータに基づき徹底比較。',
   keywords: '日光 一人旅 温泉宿,鬼怒川温泉 あさや 一人,日光千姫物語 宿泊,日光金谷ホテル ひとり,日光 鬼怒川 おこもり宿',
   openGraph: {
-    title: '【日光・鬼怒川ひとり旅・極上おこもり】空中庭園露天風呂・日光東照宮参道の名湯・現存最古のリゾートクラシック！渓谷と歴史の厳選3宿',
+    title: '日光・鬼怒川ひとり旅・極上おこもり：空中庭園露天風呂・日光東照宮参道の名湯・現存最古のリゾートクラシック！渓谷と歴史の厳選3宿',
     description: '浅草・新宿から東武特急スペーシアで直通！渓谷の絶景を眼下に望む空中庭園露天風呂が圧巻の「鬼怒川温泉 あさや」、日光東照宮まで徒歩圏内で女性一人旅にも人気の「日光千姫物語」、明治創業の歴史と伝統が息づく「日光金谷ホテル」を楽天APIデータに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/nikko-kinugawa-solo-retreat-onsen-culture-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【日光・鬼怒川ひとり旅・極上おこもり】空中庭園露天風呂・日光東照宮参道の名湯・現存最古のリゾートクラシック！渓谷と歴史の厳選3宿',
+    headline: '日光・鬼怒川ひとり旅・極上おこもり：空中庭園露天風呂・日光東照宮参道の名湯・現存最古のリゾートクラシック！渓谷と歴史の厳選3宿',
     description: '浅草・新宿から東武特急スペーシアで直通！渓谷の絶景を眼下に望む空中庭園露天風呂が圧巻の「鬼怒川温泉 あさや」、日光東照宮まで徒歩圏内で女性一人旅にも人気の「日光千姫物語」、明治創業の歴史と伝統が息づく「日光金谷ホテル」を楽天APIデータに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -73,9 +73,7 @@ export default function ArticlePage() {
         <div className="inline-block bg-amber-700 text-white text-xs font-semibold px-3 py-1 rounded-full mb-3 tracking-wider">
           ひとり旅・出張・サウナ＆名湯特集
         </div>
-        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">
-          【日光・鬼怒川ひとり旅・極上おこもり】空中庭園露天風呂・日光東照宮参道の名湯・現存最古のリゾートクラシック！渓谷と歴史の厳選3宿
-        </h1>
+        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">「日光・鬼怒川ひとり旅・極上おこもり」空中庭園露天風呂・日光東照宮参道の名湯・現存最古のリゾートクラシック！渓谷と歴史の厳選3宿</h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.12 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>

@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hyogo-arima-solo-retreat-onsen-stay/" },
-  title: '【有馬温泉ひとり旅・金泉銀泉おこもり】日本最古の名湯・絶景露天・神戸牛会席！三宮から30分の極上ソロ湯治厳選3宿',
+  title: '有馬温泉ひとり旅・金泉銀泉おこもり：日本最古の名湯・絶景露天・神戸牛会席！三宮から30分の極上ソロ湯治厳選3宿',
   description: '日本三古湯・日本三名泉の有馬！自家源泉の天然ラドン銀泉と充実のスパ設備を誇る「メープル有馬」、創業700年・三つの湯処で金泉を巡る名門「兵衛向陽閣」、滝川の渓流沿いで金泉・銀泉両方を堪能できる「月光園 鴻朧館」を楽天API最新データに基づき徹底比較。',
   keywords: '有馬温泉 一人旅 宿,有馬温泉 ホテル 一人,メープル有馬,兵衛向陽閣,月光園 鴻朧館,有馬 金泉 銀泉 ひとり旅',
   openGraph: {
-    title: '【有馬温泉ひとり旅・金泉銀泉おこもり】日本最古の名湯・絶景露天・神戸牛会席！三宮から30分の極上ソロ湯治厳選3宿',
+    title: '有馬温泉ひとり旅・金泉銀泉おこもり：日本最古の名湯・絶景露天・神戸牛会席！三宮から30分の極上ソロ湯治厳選3宿',
     description: '日本三古湯・日本三名泉の有馬！自家源泉の天然ラドン銀泉と充実のスパ設備を誇る「メープル有馬」、創業700年・三つの湯処で金泉を巡る名門「兵衛向陽閣」、滝川の渓流沿いで金泉・銀泉両方を堪能できる「月光園 鴻朧館」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/hyogo-arima-solo-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【有馬温泉ひとり旅・金泉銀泉おこもり】日本最古の名湯・絶景露天・神戸牛会席！三宮から30分の極上ソロ湯治厳選3宿',
+    headline: '有馬温泉ひとり旅・金泉銀泉おこもり：日本最古の名湯・絶景露天・神戸牛会席！三宮から30分の極上ソロ湯治厳選3宿',
     description: '日本三古湯・日本三名泉の有馬！自家源泉の天然ラドン銀泉と充実のスパ設備を誇る「メープル有馬」、創業700年・三つの湯処で金泉を巡る名門「兵衛向陽閣」、滝川の渓流沿いで金泉・銀泉両方を堪能できる「月光園 鴻朧館」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             兵庫・有馬温泉ひとり旅＆金泉銀泉おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【有馬温泉ひとり旅・金泉銀泉おこもり】日本最古の名湯・絶景露天・神戸牛会席！三宮から30分の極上ソロ湯治厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「有馬温泉ひとり旅・金泉銀泉おこもり」日本最古の名湯・絶景露天・神戸牛会席！三宮から30分の極上ソロ湯治厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

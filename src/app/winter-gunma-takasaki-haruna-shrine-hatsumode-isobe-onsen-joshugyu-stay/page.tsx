@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月群馬】奇岩の霊場「榛名神社」新春初！名宿5選',
+  title: '11・12・1月群馬：奇岩の霊場「榛名神社」新春初！名宿5選',
   description: '上州の山岳信仰と文豪が愛した名湯に温まる11〜1月の冬旅ガイド。奇岩と巨木がそびえ立つ関東屈指のパワースポット「榛名神社」の新春初詣や。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '榛名神社 初詣, 磯部温泉 旅館, ホテル磯部ガーデン, ホテルココグラン高崎, メトロポリタン高崎, 高崎だるま 少林山達磨寺, 下仁田ネギ すき焼き, 上州牛, 群馬 冬 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-gunma-takasaki-haruna-shrine-hatsumode-isobe-onsen-joshugyu-stay/"
   },
   openGraph: {
-    title: '【11・12・1月群馬】奇岩の霊場「榛名神社」新春初！名宿5選',
+    title: '11・12・1月群馬：奇岩の霊場「榛名神社」新春初！名宿5選',
     description: '上州の山岳信仰と文豪が愛した名湯に温まる11〜1月の冬旅ガイド。奇岩と巨木がそびえ立つ関東屈指のパワースポット「榛名神社」の新春初詣や。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-gunma-takasaki-haruna-shrine-hatsumode-isobe-onsen-joshugyu-stay',
     type: 'article',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月群馬】奇岩の霊場「榛名神社」新春初詣と温泉記号発祥「磯部温泉」！下仁田ネギ・上州牛すき焼き名宿5選",
+    title: "11・12・1月群馬：奇岩の霊場「榛名神社」新春初詣と温泉記号発祥「磯部温泉」！下仁田ネギ・上州牛すき焼き名宿5選",
     description: "上州の山岳信仰と文豪が愛した名湯に温まる11〜1月の冬旅ガイド。奇岩と巨木がそびえ立つ関東屈指のパワースポット「榛名神社」の新春初詣や、縁起だるま発祥の地「少林山達磨寺」でのだるま市。温泉マーク（♨）発祥の地として知られる安中・磯部温泉のナトリウム・塩化物炭酸水素塩泉で美肌湯浴み。冬に糖度が極まる本場「下仁田ネギ」と極上「上州牛」のすき焼き会席を堪能する名宿5選を詳しく解説します。",
     images: ['https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -284,11 +284,7 @@ export default function GunmaTakasakiHarunaWinterPage() {
               <Sparkles className="w-4 h-4 text-amber-300" />
               <span>11月・12月・1月冬の上州旅情特集</span>
             </div>
-            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 text-white drop-shadow-md">
-              群馬・高崎＆榛名・安中・磯部温泉<br className="hidden sm:inline" />
-              奇岩の霊場「榛名神社」新春初詣＆少林山達磨寺！<br className="hidden sm:inline" />
-              温泉記号発祥「磯部温泉」と下仁田ネギ・上州牛名宿5選
-            </h1>
+            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 text-white drop-shadow-md">群馬・高崎＆榛名・安中・磯部温泉<br className="hidden sm:inline" /> 奇岩の霊場「榛名神社」新春初詣＆少林山達磨寺！<br className="hidden sm:inline" /> 温泉記号発祥「磯部温泉」と下仁田ネギ・上州牛名宿5選</h1>
             <p className="max-w-3xl mx-auto text-sm md:text-lg text-amber-100 leading-relaxed drop-shadow">
               巨岩と杉木立が織りなす荘厳なパワースポット「榛名神社」の新春祈願。縁起だるま発祥の少林山達磨寺と、温泉マーク♨発祥の地・磯部温泉。冬にとろける甘さの下仁田ネギと上州牛すき焼きに舌鼓を打つ、心身が浄化される冬の上州紀行。
             </p>

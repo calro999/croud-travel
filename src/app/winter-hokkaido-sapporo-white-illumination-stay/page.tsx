@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【11・12月！さっぽろホワイトイルミネーション】光の祭典と定山渓・小樽雪見温泉宿5選",
+  title: "！さっぽろホワイトイルミネーションで過ごす冬の旅（11・12月）！光の祭典と定山渓・小樽雪見温泉宿5選",
   description: "11月下旬から札幌の夜をロマンチックに彩る日本初のイルミネーション「さっぽろホワイトイルミネーション」！大通公園の光の芸術を鑑賞した後は、札幌の奥座敷・定山渓温泉の雪見露天風呂と北海道冬グルメを堪能する旅。",
   keywords: "定山渓 温泉 露天風呂 旅館, 11月旅行, 12月旅行, 冬休み, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hokkaido-sapporo-white-illumination-stay/",
   },
   openGraph: {
-    title: "【11・12月！さっぽろホワイトイルミネーション】光の祭典と定山渓・小樽雪見温泉宿5選",
+    title: "！さっぽろホワイトイルミネーションで過ごす冬の旅（11・12月）！光の祭典と定山渓・小樽雪見温泉宿5選",
     description: "11月下旬から札幌の夜をロマンチックに彩る日本初のイルミネーション「さっぽろホワイトイルミネーション」！大通公園の光の芸術を鑑賞した後は、札幌の奥座敷・定山渓温泉の雪見露天風呂と北海道冬グルメを堪能する旅。",
     url: 'https://croud-travel.pages.dev/winter-hokkaido-sapporo-white-illumination-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月！さっぽろホワイトイルミネーション】光の祭典と定山渓・小樽雪見温泉宿5選",
+    title: "！さっぽろホワイトイルミネーションで過ごす冬の旅（11・12月）！光の祭典と定山渓・小樽雪見温泉宿5選",
     description: "11月下旬から札幌の夜をロマンチックに彩る日本初のイルミネーション「さっぽろホワイトイルミネーション」！大通公園の光の芸術を鑑賞した後は、札幌の奥座敷・定山渓温泉の雪見露天風呂と北海道冬グルメを堪能する旅。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>ホワイトイルミ＆定山渓雪見温泉</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【11・12月！さっぽろホワイトイルミネーション】光の祭典と定山渓・小樽雪見温泉宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">！さっぽろホワイトイルミネーションで過ごす冬の旅（11・12月）！光の祭典と定山渓・小樽雪見温泉宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             11月下旬から札幌の夜をロマンチックに彩る日本初のイルミネーション「さっぽろホワイトイルミネーション」！大通公園の光の芸術を鑑賞した後は、札幌の奥座敷・定山渓温泉の雪見露天風呂と北海道冬グルメを堪能する旅。
           </p>

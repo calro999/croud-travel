@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月月岡温泉】初冬寒ブリ！名宿5選',
+  title: '月岡温泉で過ごす冬の旅（11・12月）！初冬寒ブリ！名宿5選',
   description: '国内第2位の硫黄含有量を誇り、神秘のエメラルドグリーンに輝く越後の名湯「月岡温泉」。「もっと美人になれる温泉」と謳われる美肌の湯に浸かり、11月下旬の初雪から12月の白銀雪景色を望む雪見露天風呂、A5ランク村上牛と日本海の寒ブリ、新潟新酒地酒を味わう名宿5選。',
   keywords: '月岡温泉 宿泊 11月 12月, 月岡温泉 エメラルドグリーン 硫黄泉, 白玉の湯 華鳳, 白玉の湯 泉慶, 摩周 月岡, ホテル清風苑, 村上牛 新潟 冬 温泉, 雪見露天風呂',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-niigata-tsukioka-onsen-emerald-bihada-stay/",
   },
   openGraph: {
-    title: '【11・12月月岡温泉】初冬寒ブリ！名宿5選',
+    title: '月岡温泉で過ごす冬の旅（11・12月）！初冬寒ブリ！名宿5選',
     description: '国内第2位の硫黄含有量を誇り、神秘のエメラルドグリーンに輝く越後の名湯「月岡温泉」。「もっと美人になれる温泉」と謳われる美肌の湯に浸かり、11月下旬の初雪から12月の白銀雪景色を望む雪見露天風呂、A5ランク村上牛と日本海の寒ブリ、新潟新酒地酒を味わう名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-niigata-tsukioka-onsen-emerald-bihada-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月月岡温泉のエメラルド美肌名湯と初冬味覚】国内屈指の硫黄泉雪見露天と村上牛・初冬寒ブリ＆新潟地酒の宿5選",
+    title: "月岡温泉のエメラルド美肌名湯と初冬味覚で過ごす冬の旅（11・12月）！国内屈指の硫黄泉雪見露天と村上牛・初冬寒ブリ＆新潟地酒の宿5選",
     description: "国内第2位の硫黄含有量を誇り、神秘のエメラルドグリーンに輝く越後の名湯「月岡温泉」。「もっと美人になれる温泉」と謳われる美肌の湯に浸かり、11月下旬の初雪から12月の白銀雪景色を望む雪見露天風呂、A5ランク村上牛と日本海の寒ブリ、新潟新酒地酒を味わう名宿5選。",
   }
 };
@@ -297,10 +297,7 @@ export default function TsukiokaWinterPage() {
             <Eye className="w-4 h-4 text-emerald-300" />
             <span>11月・12月限定 エメラルドグリーン美肌硫黄泉＆村上牛・新潟新酒地酒特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月月岡温泉のエメラルド美肌名湯と初冬味覚】<br className="hidden sm:inline" />
-            国内屈指の硫黄泉雪見露天と村上牛・初冬寒ブリ＆新潟地酒の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">月岡温泉のエメラルド美肌名湯と初冬味覚で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 国内屈指の硫黄泉雪見露天と村上牛・初冬寒ブリ＆新潟地酒の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             国内第2位の硫黄含有量を誇り、神秘のエメラルドグリーンに輝く「白玉の湯」。11月下旬の初雪から12月の白銀雪化粧へと移ろう越後の原風景。とろける極上肉「村上牛」と日本海の寒ブリ、新米コシヒカリと搾りたて地酒に心酔する初冬の名宿ガイド。
           </p>

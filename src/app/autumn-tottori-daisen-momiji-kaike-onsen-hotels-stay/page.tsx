@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【10月下旬〜11月上旬！鳥取大山の紅葉】鍵掛峠の絶景パノラマと皆生温泉オーシャンビュー宿5選",
+  title: "下旬〜11月上旬！鳥取大山の紅葉で過ごす冬の旅（10月）！鍵掛峠の絶景パノラマと皆生温泉オーシャンビュー宿5選",
   description: "西日本最大級のブナ林が黄金色に輝く霊峰・伯耆富士「大山」の紅葉！鍵掛峠の南壁パノラマから、日本海を一望する海中湧出の名湯・皆生温泉の極上宿まで厳選5選。",
   keywords: "鳥取 大山 紅葉 見頃 10月 11月, 鍵掛峠 紅葉, 皆生温泉 旅館 おすすめ, 皆生游月, 皆生松月, 華水亭, 鳥取 温泉旅行",
   alternates: {
     canonical: "https://croud-travel.pages.dev/autumn-tottori-daisen-momiji-kaike-onsen-hotels-stay/",
   },
   openGraph: {
-    title: "【10月下旬〜11月上旬！鳥取大山の紅葉】鍵掛峠の絶景パノラマと皆生温泉オーシャンビュー宿5選",
+    title: "下旬〜11月上旬！鳥取大山の紅葉で過ごす冬の旅（10月）！鍵掛峠の絶景パノラマと皆生温泉オーシャンビュー宿5選",
     description: "西日本最大級のブナ林が黄金色に輝く霊峰・伯耆富士「大山」の紅葉！鍵掛峠の南壁パノラマから、日本海を一望する海中湧出の名湯・皆生温泉の極上宿まで厳選5選。",
     url: 'https://croud-travel.pages.dev/autumn-tottori-daisen-momiji-kaike-onsen-hotels-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【10月下旬〜11月上旬！鳥取大山の紅葉】鍵掛峠の絶景パノラマと皆生温泉オーシャンビュー宿5選",
+    title: "下旬〜11月上旬！鳥取大山の紅葉で過ごす冬の旅（10月）！鍵掛峠の絶景パノラマと皆生温泉オーシャンビュー宿5選",
     description: "西日本最大級のブナ林が黄金色に輝く霊峰・伯耆富士「大山」の紅葉！鍵掛峠の南壁パノラマから、日本海を一望する海中湧出の名湯・皆生温泉の極上宿まで厳選5選。",
   }
 };
@@ -131,9 +131,7 @@ export default function FeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             秋の山陰絶景特集・伯耆富士大山と海辺の名湯
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【10月下旬〜11月上旬！鳥取大山の紅葉】<br className="hidden sm:inline" />鍵掛峠の絶景パノラマと皆生温泉オーシャンビュー宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">下旬〜11月上旬！鳥取大山の紅葉で過ごす冬の旅（10月）！<br className="hidden sm:inline" />鍵掛峠の絶景パノラマと皆生温泉オーシャンビュー宿5選</h1>
           <p className="max-w-2xl mx-auto text-sm md:text-base text-stone-200 leading-relaxed">
             西日本最大級のブナ原生林が黄金色に染まる名峰「大山」！「鍵掛峠」から見上げる荒々しい南壁と紅葉のコントラストを堪能し、日本海を一望する塩化物泉・皆生温泉の極上宿へ。
           </p>

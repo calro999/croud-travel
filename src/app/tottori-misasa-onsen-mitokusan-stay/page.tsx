@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tottori-misasa-onsen-mitokusan-stay/" },
-  title: "【鳥取・三朝温泉＆三徳山三仏寺】世界屈指のラジウム温泉・国宝投入堂宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "鳥取・三朝温泉＆三徳山三仏寺：世界屈指のラジウム温泉・国宝投入堂宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "日本遺産第1号・六根清浄と六感治癒・鳥取三朝エリア完全特化！世界屈指の高濃度ラジウム温泉「三朝温泉（河原風呂・株湯）」、日本一危険な国宝「三徳山三仏寺 投入堂（なげいれどう）」、名物「とち餅・鳥取和牛宿」を徹底解説。",
   keywords: ["鳥取", "三朝温泉", "三徳山三仏寺", "世界屈指のラジウム温泉", "国宝投入堂宿", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             MISASA ONSEN & MITOKUSAN GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【鳥取・三朝温泉＆三徳山三仏寺】世界屈指のラジウム温泉・国宝投入堂宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「鳥取・三朝温泉＆三徳山三仏寺」世界屈指のラジウム温泉・国宝投入堂宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             「三度朝を迎えると病が治る」と伝わる奇跡の湯治場「三朝（みささ）温泉」。高濃度ラドンが細胞を活性化させるホルミシス効果。断崖絶壁の窪みに建つ日本一危険な国宝建築「三徳山三仏寺 投入堂」。三徳川のせせらぎと鳥取和牛を味わう癒やしの旅。
           </p>

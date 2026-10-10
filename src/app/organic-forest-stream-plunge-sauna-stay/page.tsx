@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【清流ダイブ＆天然ととのい】目の前の川へ直接飛び込む清流サウナ！渓流グランピング＆温泉宿5選",
+  title: "清流ダイブ＆天然ととのい：目の前の川へ直接飛び込む清流サウナ！渓流グランピング＆温泉宿5選",
   description: "薪サウナでアツアツに蒸された後、そのまま透き通る天然の清流へダイブ！マイナスイオン溢れる渓谷の風を浴びながらの外気浴は究極のととのい体験。天然温泉とサウナ飯も充実した大自然リゾートを厳選。",
   keywords: "渓流 露天風呂 サウナ, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/organic-forest-stream-plunge-sauna-stay/",
   },
   openGraph: {
-    title: "【清流ダイブ＆天然ととのい】目の前の川へ直接飛び込む清流サウナ！渓流グランピング＆温泉宿5選",
+    title: "清流ダイブ＆天然ととのい：目の前の川へ直接飛び込む清流サウナ！渓流グランピング＆温泉宿5選",
     description: "薪サウナでアツアツに蒸された後、そのまま透き通る天然の清流へダイブ！マイナスイオン溢れる渓谷の風を浴びながらの外気浴は究極のととのい体験。天然温泉とサウナ飯も充実した大自然リゾートを厳選。",
     url: 'https://croud-travel.pages.dev/organic-forest-stream-plunge-sauna-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【清流ダイブ＆天然ととのい】目の前の川へ直接飛び込む清流サウナ！渓流グランピング＆温泉宿5選",
+    title: "清流ダイブ＆天然ととのい：目の前の川へ直接飛び込む清流サウナ！渓流グランピング＆温泉宿5選",
     description: "薪サウナでアツアツに蒸された後、そのまま透き通る天然の清流へダイブ！マイナスイオン溢れる渓谷の風を浴びながらの外気浴は究極のととのい体験。天然温泉とサウナ飯も充実した大自然リゾートを厳選。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>清流ダイブ＆森の薪サウナ</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【清流ダイブ＆天然ととのい】目の前の川へ直接飛び込む清流サウナ！渓流グランピング＆温泉宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「清流ダイブ＆天然ととのい」目の前の川へ直接飛び込む清流サウナ！渓流グランピング＆温泉宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             薪サウナでアツアツに蒸された後、そのまま透き通る天然の清流へダイブ！マイナスイオン溢れる渓谷の風を浴びながらの外気浴は究極のととのい体験。天然温泉とサウナ飯も充実した大自然リゾートを厳選。
           </p>

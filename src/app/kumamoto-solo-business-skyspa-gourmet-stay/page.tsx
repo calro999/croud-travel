@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kumamoto-solo-business-skyspa-gourmet-stay/" },
-  title: '【熊本出張＆城下町ひとり旅】最上階展望スカイスパ・天然温泉・熊本城ビュー！名物馬刺しを満喫する極上宿 厳選3選',
+  title: '熊本出張＆城下町ひとり旅：最上階展望スカイスパ・天然温泉・熊本城ビュー！名物馬刺しを満喫する極上宿 厳選3選',
   description: 'TSMC進出で沸く九州の中枢ビジネス都市・熊本！「最上階スカイスパと露天風呂で星空をととのえる。」新ランドマーク「CANDEO HOTELS 熊本新市街」、サクラマチクマモト直結で天然温泉大浴場と夜鳴きそば完備の「天然温泉 六花の湯 ドーミーイン熊本」、熊本城を正面に望む格式の迎賓ホテル「熊本ホテルキャッスル」を徹底比較。',
   keywords: '熊本 出張 ホテル おすすめ,熊本 一人旅 ホテル,カンデオホテルズ熊本新市街 サウナ,ドーミーイン熊本 温泉,熊本ホテルキャッスル 熊本城ビュー',
   openGraph: {
-    title: '【熊本出張＆城下町ひとり旅】最上階展望スカイスパ・天然温泉・熊本城ビュー！名物馬刺しを満喫する極上宿 厳選3選',
+    title: '熊本出張＆城下町ひとり旅：最上階展望スカイスパ・天然温泉・熊本城ビュー！名物馬刺しを満喫する極上宿 厳選3選',
     description: 'TSMC進出で沸く九州の中枢ビジネス都市・熊本！「最上階スカイスパと露天風呂で星空をととのえる。」新ランドマーク「CANDEO HOTELS 熊本新市街」、サクラマチクマモト直結で天然温泉大浴場と夜鳴きそば完備の「天然温泉 六花の湯 ドーミーイン熊本」、熊本城を正面に望む格式の迎賓ホテル「熊本ホテルキャッスル」を徹底比較。',
     url: 'https://croud-travel.pages.dev/kumamoto-solo-business-skyspa-gourmet-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【熊本出張＆城下町ひとり旅】最上階展望スカイスパ・天然温泉・熊本城ビュー！名物馬刺しを満喫する極上宿 厳選3選',
+    headline: '熊本出張＆城下町ひとり旅：最上階展望スカイスパ・天然温泉・熊本城ビュー！名物馬刺しを満喫する極上宿 厳選3選',
     description: 'TSMC進出で沸く九州の中枢ビジネス都市・熊本！「最上階スカイスパと露天風呂で星空をととのえる。」新ランドマーク「CANDEO HOTELS 熊本新市街」、サクラマチクマモト直結で天然温泉大浴場と夜鳴きそば完備の「天然温泉 六花の湯 ドーミーイン熊本」、熊本城を正面に望む格式の迎賓ホテル「熊本ホテルキャッスル」を徹底比較。',
     author: {
       '@type': 'Organization',
@@ -74,9 +74,7 @@ export default function ArticlePage() {
           <span>✨</span>
           <span>熊本・出張＆スカイスパ・馬刺し特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【熊本出張＆城下町ひとり旅】最上階展望スカイスパ・天然温泉・熊本城ビュー！名物馬刺しを満喫する極上宿 厳選3選
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">「熊本出張＆城下町ひとり旅」最上階展望スカイスパ・天然温泉・熊本城ビュー！名物馬刺しを満喫する極上宿 厳選3選</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
           TSMC進出で沸く九州の中枢ビジネス都市・熊本！「最上階スカイスパと露天風呂で星空をととのえる。」新ランドマーク「CANDEO HOTELS 熊本新市街」、サクラマチクマモト直結で天然温泉大浴場と夜鳴きそば完備の「天然温泉 六花の湯 ドーミーイン熊本」、熊本城を正面に望む格式の迎賓ホテル「熊本ホテルキャッスル」を徹底比較。
         </p>

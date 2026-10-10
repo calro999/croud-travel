@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-long-cruise-ferry-ocean-journey-stay/" },
-  title: "【優雅な船旅・長距離カーフェリー＆離島航路】太平洋・日本海クルーズ 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "優雅な船旅・長距離カーフェリー＆離島航路：太平洋・日本海クルーズ 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "海上の動く洋上ホテル！長距離フェリー＆離島航路完全特化！太平洋フェリー（名古屋〜仙台〜苫小牧・いしかり）、新日本海フェリー（新潟・敦賀〜小樽）、佐渡汽船ジェットフォイル、フェリー発着港至近の温泉ホテルを徹底解説。",
   keywords: ["優雅な船旅", "長距離カーフェリー", "離島航路", "太平洋", "日本海クルーズ", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function RailwayActivityHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-gradient-to-r from-cyan-400 to-blue-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block shadow">
             LUXURY CRUISE & FERRY GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【優雅な船旅・長距離カーフェリー＆離島航路】太平洋・日本海クルーズ 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「優雅な船旅・長距離カーフェリー＆離島航路」太平洋・日本海クルーズ 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-cyan-100/90 leading-relaxed">
             大海原を滑るように進み、海上の大浴場から水平線を眺める「優雅な長距離フェリー旅」。展望レストランでのバイキングディナー、生演奏ピアノラウンジ、プライベートバルコニー付きスイートルーム。港町の極上海鮮と温泉宿で迎える至福の船旅へ。
           </p>

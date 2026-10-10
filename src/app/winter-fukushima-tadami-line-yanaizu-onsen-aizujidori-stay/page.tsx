@@ -13,13 +13,13 @@ import {
 } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "【白銀のJR只見線と赤べこ発祥圓蔵寺】2026-2027年冬の福島・奥会津＆柳津！開湯1200年名湯と会津地鶏名宿5選 ｜ 日本全国・旅宿クラウド",
+  title: "白銀のJR只見線と赤べこ発祥圓蔵寺：2026-2027年冬の福島・奥会津＆柳津！開湯1200年名湯と会津地鶏名宿5選 ｜ 日本全国・旅宿クラウド",
   description: "世界を魅了する第一只見川橋梁の雪景色と赤べこ発祥の霊場「圓蔵寺」新春初詣！只見川の清流を望む柳津温泉・早戸温泉の雪見露天風呂、旨味凝縮の「会津地鶏鍋」と極上馬刺しに舌鼓を打つ奥会津の冬籠もり名宿5選。",
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukushima-tadami-line-yanaizu-onsen-aizujidori-stay",
   },
   openGraph: {
-    title: "【白銀のJR只見線と赤べこ発祥圓蔵寺】2026-2027年冬の福島・奥会津＆柳津！開湯1200年名湯と会津地鶏名宿5選",
+    title: "白銀のJR只見線と赤べこ発祥圓蔵寺：2026-2027年冬の福島・奥会津＆柳津！開湯1200年名湯と会津地鶏名宿5選",
     description: "世界を魅了する第一只見川橋梁の雪景色と赤べこ発祥の霊場「圓蔵寺」新春初詣！只見川の清流を望む柳津温泉・早戸温泉の雪見露天風呂、旨味凝縮の「会津地鶏鍋」と極上馬刺しに舌鼓を打つ奥会津の冬籠もり名宿5選。",
     url: "https://croud-travel.pages.dev/winter-fukushima-tadami-line-yanaizu-onsen-aizujidori-stay",
     siteName: "日本全国・旅宿クラウド",
@@ -36,7 +36,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "【白銀のJR只見線と赤べこ発祥圓蔵寺】2026-2027年冬の福島・奥会津＆柳津！開湯1200年名湯と会津地鶏名宿5選",
+    title: "白銀のJR只見線と赤べこ発祥圓蔵寺：2026-2027年冬の福島・奥会津＆柳津！開湯1200年名湯と会津地鶏名宿5選",
     description: "世界を魅了する第一只見川橋梁の雪景色と赤べこ発祥の霊場「圓蔵寺」新春初詣！只見川の清流を望む柳津温泉・早戸温泉の雪見露天風呂、旨味凝縮の「会津地鶏鍋」と極上馬刺しに舌鼓を打つ奥会津の冬籠もり名宿5選。",
     images: ["https://img.travel.rakuten.co.jp/share/HOTEL/10686/10686.jpg"],
   },
@@ -167,9 +167,7 @@ export default function FeaturePage() {
               </span>
             </div>
 
-            <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold leading-tight">
-              【白銀のJR只見線と赤べこ発祥圓蔵寺】2026-2027年冬の福島・奥会津＆柳津！開湯1200年名湯と会津地鶏名宿5選
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold leading-tight">「白銀のJR只見線と赤べこ発祥圓蔵寺」2026-2027年冬の福島・奥会津＆柳津！開湯1200年名湯と会津地鶏名宿5選</h1>
 
             <p className="text-stone-300 text-xs sm:text-sm leading-relaxed max-w-3xl pt-2">
               福島県西部に位置し、只見川の清流と険しい山々に囲まれた奥会津の玄関口・柳津町および大沼郡三島町。世界中の鉄道ファンや旅行者が「世界で最もロマンチックな雪景色の鉄道路線。」と絶賛するJR只見線は、11月から1月の冬期を迎えると、第一只見川橋梁をはじめとするアーチ橋と白銀のブナ原生林、川霧が織りなす水墨画のような幻想美の頂点を迎えます。只見川の断崖の上にそびえ立ち、会津の守り神「赤べこ」の発祥地として名高い福満虚空藏菩薩圓蔵寺（柳津虚空蔵尊）では、新春の厄除け初詣や毎年1月7日に下帯姿の男衆が麻縄をよじ登る天下の奇祭「七日堂裸まいり」が厳かに執り行われます。開湯1200年の名湯「柳津温泉」や只見川の川面を望む早戸温泉・宮下温泉の雪見露天風呂、コクと弾力あふれる「会津地鶏の水炊き鍋」や会津名物「極上馬刺し」、蒸したて熱々の柳津あわまんじゅう。静寂と温もりに包まれる奥会津の冬ごもりへと旅人を誘います。

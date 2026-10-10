@@ -5,11 +5,11 @@ import Image from 'next/image';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/shizuoka-mishima-shuzenji-numazu-port-stay/" },
-  title: '【静岡・三島＆修善寺・沼津港】三島スカイウォーク・竹林小径＆沼津海鮮宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+  title: '静岡・三島＆修善寺・沼津港：三島スカイウォーク・竹林小径＆沼津海鮮宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
   description: '日本最長400mの富士山大吊橋「三島スカイウォーク」、源頼朝旗揚げの古社「三嶋大社」、弘法大師開湯の伊豆最古「修善寺温泉」竹林の小径、世界唯一のシーラカンス剥製を誇る「沼津港深海水族館」と朝獲れ鮮魚浜焼き宿を徹底解説。',
   keywords: ["静岡", "三島", "修善寺", "沼津港", "三島スカイウォーク", "竹林小径", "沼津海鮮宿"],
   openGraph: {
-    title: '【静岡・三島＆修善寺・沼津港】三島スカイウォーク・竹林小径＆沼津海鮮宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+    title: '静岡・三島＆修善寺・沼津港：三島スカイウォーク・竹林小径＆沼津海鮮宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
     description: '日本最長400mの富士山大吊橋「三島スカイウォーク」、源頼朝旗揚げの古社「三嶋大社」、弘法大師開湯の伊豆最古「修善寺温泉」竹林の小径、世界唯一のシーラカンス剥製を誇る「沼津港深海水族館」と朝獲れ鮮魚浜焼き宿を徹底解説。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/shizuoka-mishima-shuzenji-numazu-port-stay',
@@ -50,9 +50,7 @@ export default function Page() {
             <span>🗺️</span>
             <span>MISHIMA, SHUZENJI & NUMAZU PORT GUIDE</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">
-            【静岡・三島＆修善寺・沼津港】富士山スカイウォーク・修善寺竹林＆沼津深海魚宿 完全ガイド
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">「静岡・三島＆修善寺・沼津港」富士山スカイウォーク・修善寺竹林＆沼津深海魚宿 厳選ガイド</h1>
           <p className="max-w-3xl mx-auto text-stone-300 text-sm sm:text-base md:text-lg leading-relaxed mb-8">
             富士山の雪解け湧水が街中を潤す水の都「三島」。日本最長の歩行者専用吊橋から望む富士山と駿河湾のパノラマ「三島スカイウォーク」。桂川のせせらぎと朱塗りの橋、竹林の小径に佇む伊豆屈指の名湯「修善寺温泉」。そして日本一深い駿河湾の奇魚と朝獲れ鮮魚がひしめくグルメの聖地「沼津港」。新幹線ですぐの富士・伊豆・駿河湾ゴールデンルートステイへご案内します。
           </p>

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/toyama-unazuki-kurobe-gorge-stay/" },
-  title: "【富山・黒部宇奈月温泉】トロッコ電車・黒部峡谷断崖美＆富山湾の幸極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "富山・黒部宇奈月温泉：トロッコ電車・黒部峡谷断崖美＆富山湾の幸極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "富山・宇奈月温泉＆黒部峡谷エリア完全特化！黒部峡谷トロッコ電車、山彦橋・やまびこ遊歩道、日本一の透明度を誇る弱アルカリ性美肌温泉、富山湾の白えび・紅ズワイガニ会席を徹底解説。",
   keywords: ["富山", "黒部宇奈月温泉", "トロッコ電車", "黒部峡谷断崖美", "富山湾の幸極上宿", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             UNAZUKI GORGE MICRO GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【富山・黒部宇奈月温泉】トロッコ電車・黒部峡谷断崖美＆富山湾の幸極上宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「富山・黒部宇奈月温泉」トロッコ電車・黒部峡谷断崖美＆富山湾の幸極上宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             日本一深いV字峡谷「黒部峡谷」の玄関口に湧く「宇奈月温泉」。トロッコ電車に揺られて大自然の秘境へ。黒部川のエメラルドグリーンを眺め、富山湾の宝石・白えびと美肌の湯に酔いしれる旅。
           </p>

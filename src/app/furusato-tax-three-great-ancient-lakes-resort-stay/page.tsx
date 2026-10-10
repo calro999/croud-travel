@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-ancient-lakes-resort-stay/" },
-  title: '日本三大古代湖＆数十万年の歴史美・湖畔リゾートと温泉名宿×ふるさと納税完全ガイド【2026年最新】琵琶湖・諏訪湖・三方五湖',
+  title: '日本三大古代湖＆数十万年の歴史美・湖畔リゾートと温泉名宿×ふるさと納税厳選ガイド琵琶湖・諏訪湖・三方五湖',
   description: '地球の記憶を宿す悠久の古代湖！400万年の歴史を誇る日本最大の古代湖「琵琶湖」琵琶湖ホテル、フォッサマグナに誕生し御神渡りの神話息づく「諏訪湖」上諏訪温泉しんゆ、7万年の年縞が世界標準となった奇跡の湖群「三方五湖（水月湖）」若狭きらら温泉水月花。日本三大古代湖の静かな湖面と温泉ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大古代湖・水辺リトリート特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大古代湖＆数十万年の歴史美・湖畔リゾートと温泉名宿×ふるさと納税完全ガイド【2026年最新】琵琶湖・諏訪湖・三方五湖',
+    title: '日本三大古代湖＆数十万年の歴史美・湖畔リゾートと温泉名宿×ふるさと納税厳選ガイド琵琶湖・諏訪湖・三方五湖',
     description: '地球の記憶を宿す悠久の古代湖！400万年の歴史を誇る日本最大の古代湖「琵琶湖」琵琶湖ホテル、フォッサマグナに誕生し御神渡りの神話息づく「諏訪湖」上諏訪温泉しんゆ、7万年の年縞が世界標準となった奇跡の湖群「三方五湖（水月湖）」若狭きらら温泉水月花。日本三大古代湖の静かな湖面と温泉ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-ancient-lakes-resort-stay',
@@ -142,9 +142,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大古代湖・水辺リトリート特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大古代湖＆湖畔リゾート・温泉名宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大古代湖＆湖畔リゾート・温泉名宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             数十万年〜数百一万年以上もの長い地質時代を生き延び、固有の生態系と神話・歴史を育んできた「日本三大古代湖」――およそ400万年前に誕生し日本最大の面積を誇る滋賀の「琵琶湖」、中央構造線と糸魚川静岡構造線が交差する断層湖で冬の「御神渡り」神事が伝わる長野の「諏訪湖」、そして数万年間にわたり一度も水底がかき乱されず世界標準の地質年代時計「年縞」が堆積した奇跡の水月湖を含む福井の「三方五湖」。静寂に包まれた湖畔を散策し、レイクビューの客室や露天風呂から刻々と移ろう湖面を眺め、近江牛・信州サーモン・若狭フグの美食を堪能する特別な旅を楽天ふるさと納税でお楽しみください。
           </p>

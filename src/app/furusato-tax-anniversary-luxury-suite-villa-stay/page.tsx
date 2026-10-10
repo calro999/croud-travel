@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-anniversary-luxury-suite-villa-stay/" },
-  title: '【一度は泊まりたい憧れの最高峰宿】記念日・プロポーズに選ぶ極上スイート＆ヴィラふるさと納税ガイド | クラウドトラベル',
+  title: '一度は泊まりたい憧れの最高峰宿：記念日・プロポーズに選ぶ極上スイート＆ヴィラふるさと納税ガイド | クラウドトラベル',
   description: '一生の記憶に残る記念日・誕生日・プロポーズ旅。箱根・京都・沖縄の客室露天風呂スイートやプライベートプール付きヴィラを楽天ふるさと納税で賢く予約。1泊10万円超えの最高峰リゾート完全ガイド。',
   openGraph: {
-    title: '【一度は泊まりたい憧れの最高峰宿】記念日・プロポーズに選ぶ極上スイート＆ヴィラふるさと納税ガイド | クラウドトラベル',
+    title: '一度は泊まりたい憧れの最高峰宿：記念日・プロポーズに選ぶ極上スイート＆ヴィラふるさと納税ガイド | クラウドトラベル',
     description: '一生の記憶に残る記念日・誕生日・プロポーズ旅。箱根・京都・沖縄の客室露天風呂スイートやプライベートプール付きヴィラを楽天ふるさと納税で賢く予約。1泊10万円超えの最高峰リゾート完全ガイド。',
     type: 'article',
   },
@@ -59,9 +59,7 @@ export default function Page() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             ふるさと納税×最高峰スイート・ラグジュアリーヴィラ
           </div>
-          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            【一度は泊まりたい憧れの最高峰宿】記念日・プロポーズに選ぶ極上スイート＆ヴィラふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">「一度は泊まりたい憧れの最高峰宿」記念日・プロポーズに選ぶ極上スイート＆ヴィラふるさと納税ガイド</h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl mb-6">
             パートナーの誕生日、結婚記念日、プロポーズ、あるいは人生の節目を祝う旅。「今回だけは絶対に妥協せず、日本最高峰の素晴らしい宿に泊まりたい。」。そう思いながらも、1泊10万〜20万円を超える宿泊費に少し躊躇してしまう方に最適なのが、楽天ふるさと納税のトラベルクーポンです。寄付金額の30％相当が宿泊補助として還元されるため、例えば15万円の寄付で4.5万円、30万円の寄付なら9万円分の値引きが成立。浮いた予算をディナーのシャンパンやケーキ、サプライズ演出へ贅沢に回すことができます。箱根の杜に佇む名門スイート、古都・京都の静寂に抱かれるプライベートリゾート、沖縄・恩納村のエメラルドグリーンの海を独占するプール付きヴィラなど、心震える特別な宿をご紹介します。
           </p>

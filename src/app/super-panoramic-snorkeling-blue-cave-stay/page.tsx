@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【青の洞窟シュノーケリング】神秘のブルー＆ウミガメ遭遇体験！沖縄・恩納村のビーチリゾート宿5選",
+  title: "青の洞窟シュノーケリング：神秘のブルー＆ウミガメ遭遇体験！沖縄・恩納村のビーチリゾート宿5選",
   description: "太陽の光が海底に反射して青く輝く神秘の「青の洞窟」シュノーケリング！色鮮やかな熱帯魚やウミガメと泳ぐ感動体験と、全室オーシャンビュー＆展望スパ・インフィニティプールを備えた極上リゾートを厳選。",
   keywords: "恩納村 リゾート ホテル 温泉, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/super-panoramic-snorkeling-blue-cave-stay/",
   },
   openGraph: {
-    title: "【青の洞窟シュノーケリング】神秘のブルー＆ウミガメ遭遇体験！沖縄・恩納村のビーチリゾート宿5選",
+    title: "青の洞窟シュノーケリング：神秘のブルー＆ウミガメ遭遇体験！沖縄・恩納村のビーチリゾート宿5選",
     description: "太陽の光が海底に反射して青く輝く神秘の「青の洞窟」シュノーケリング！色鮮やかな熱帯魚やウミガメと泳ぐ感動体験と、全室オーシャンビュー＆展望スパ・インフィニティプールを備えた極上リゾートを厳選。",
     url: 'https://croud-travel.pages.dev/super-panoramic-snorkeling-blue-cave-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【青の洞窟シュノーケリング】神秘のブルー＆ウミガメ遭遇体験！沖縄・恩納村のビーチリゾート宿5選",
+    title: "青の洞窟シュノーケリング：神秘のブルー＆ウミガメ遭遇体験！沖縄・恩納村のビーチリゾート宿5選",
     description: "太陽の光が海底に反射して青く輝く神秘の「青の洞窟」シュノーケリング！色鮮やかな熱帯魚やウミガメと泳ぐ感動体験と、全室オーシャンビュー＆展望スパ・インフィニティプールを備えた極上リゾートを厳選。",
   }
 };
@@ -123,9 +123,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>青の洞窟＆美ら海リゾート</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【青の洞窟シュノーケリング】神秘のブルー＆ウミガメ遭遇体験！沖縄・恩納村のビーチリゾート宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「青の洞窟シュノーケリング」神秘のブルー＆ウミガメ遭遇体験！沖縄・恩納村のビーチリゾート宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             太陽の光が海底に反射して青く輝く神秘の「青の洞窟」シュノーケリング！色鮮やかな熱帯魚やウミガメと泳ぐ感動体験と、全室オーシャンビュー＆展望スパ・インフィニティプールを備えた極上リゾートを厳選。
           </p>

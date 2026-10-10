@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【那覇国際通り】秋の心地よい夜風＆屋台村オリオンビール！2,000円台〜泊まれる格安ホテル5選',
+  title: '那覇国際通り：秋の心地よい夜風＆屋台村オリオンビール！2,000円台〜泊まれる格安ホテル5選',
   description: '真夏の猛暑が落ち着き、最も過ごしやすい秋の沖縄・那覇！国際通り屋台村で楽しむオリオンビールやあぐー豚、公設市場の新鮮魚介。国際通り徒歩すぐで1泊2,000円台〜3,000円台から泊まれる格安・高コスパ宿5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetFeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>秋の涼風そよぐ国際通り＆屋台村オリオンビール</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【那覇国際通り】秋の夜風と屋台村ビールへ！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「那覇国際通り」秋の夜風と屋台村ビールへ！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-teal-100/90 max-w-2xl mx-auto leading-relaxed">
             夏の酷暑が和らぎ、朝夕の心地よい風が吹き抜ける秋の沖縄！国際通り屋台村のテラス席で乾杯する冷えたオリオン生ビールと泡盛、牧志公設市場で選ぶ新鮮な刺身やあぐー豚餃子。モノレール駅至近・国際通り徒歩すぐの抜群の立地で、1泊2,000円台〜3,000円台から泊まれる厳選ホテルをご紹介。
           </p>

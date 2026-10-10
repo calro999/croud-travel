@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-three-generation-family-guide/" },
-  title: "【3世代家族で行くシルバーウィーク グランピング】祖父母も疲れない！段差なしバリアフリー＆和洋室ヴィラ ｜ 日本全国・旅宿クラウド",
+  title: "3世代家族で行くシルバーウィーク グランピング：祖父母も疲れない！段差なしバリアフリー＆和洋室ヴィラ ｜ 日本全国・旅宿クラウド",
   description:
     "おじいちゃん・おばあちゃん、両親、子供の3世代で泊まれる安心グランピング！足腰に優しいフラット設計、畳スペースのある和洋室ヴィラ、食事も椅子席完備でシニアも安心。敬老の日のプレゼント旅行に。",
   keywords: ["グランピング", "和洋室ヴィラ", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
@@ -191,9 +191,7 @@ export default function SilverWeekGlampingThreeGenerationFamilyPage() {
             <span>敬老の日＆シルバーウィーク特別企画</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-snug font-journal-serif">
-            【3世代家族で行くシルバーウィーク グランピング】祖父母も疲れない！段差なしバリアフリー＆和洋室ヴィラ
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-snug font-journal-serif">「3世代家族で行くシルバーウィーク グランピング」祖父母も疲れない！段差なしバリアフリー＆和洋室ヴィラ</h1>
 
           <p className="text-teal-100/90 text-sm sm:text-base leading-relaxed pt-1">
             「自然を満喫したい孫」と「足腰に負担をかけたくない祖父母」。両方の願いを叶えるのが、近年の進化系バリアフリーヴィラ＆温泉併設グランピング。段差のないフラットフロア、立ち座りが楽なテーブルダイニング、本館温泉利用など、シニア世代も安心の滞在設計を徹底解説します。

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-starry-sky-astrophotography-resort-stay/" },
-  title: "【満天の星空＆星空案内人の宿】阿智村・野辺山・石垣島＆星空露天風呂 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "満天の星空＆星空案内人の宿：阿智村・野辺山・石垣島＆星空露天風呂 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "環境省認定の日本一の星空完全特化！長野「阿智村」、八ヶ岳「野辺山高原」、星空保護区「石垣島・西表島」、岡山「美星町」、星空案内人（星ソムリエ）の天体観測ツアーと屋上星空テラス温泉宿を徹底解説。",
   keywords: ["満天の星空", "星空案内人の宿", "阿智村", "野辺山", "石垣島", "星空露天風呂", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function ScenicViewHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             STARRY SKY & ASTROPHOTOGRAPHY GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【満天の星空＆星空案内人の宿】阿智村・野辺山・石垣島＆星空露天風呂 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「満天の星空＆星空案内人の宿」阿智村・野辺山・石垣島＆星空露天風呂 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             人工の光が届かない満天のプラネタリウム「星降る宿」。環境省認定日本一の星空・阿智村ナイトツアー、八ヶ岳野辺山高原の巨大電波望遠鏡、南十字星が輝く八重山諸島。天の川を眺めながら湯船に浸かる神秘の夜へ。
           </p>

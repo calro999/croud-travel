@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【米子】国立公園大山の紅葉ドライブ拠点＆境港紅ずわいがに！1,000円台〜ホテル5選',
+  title: '米子：国立公園大山の紅葉ドライブ拠点＆境港紅ずわいがに！1,000円台〜ホテル5選',
   description: '西日本屈指の名峰・伯耆富士「大山（だいせん）」の錦秋ブナ林と、水揚げ日本一・境港の紅ずわいがに！皆生温泉の海辺足湯。米子駅前で1泊1,000円台〜3,000円台で泊まれる超高コスパ宿5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetYonagoHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>名峰大山の錦秋ブナ林＆境港紅ずわいがに</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【米子】大山の紅葉＆境港カニを満喫！<br className="hidden sm:inline" />1,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「米子」大山の紅葉＆境港カニを満喫！<br className="hidden sm:inline" />1,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-teal-100/90 max-w-2xl mx-auto leading-relaxed">
             西日本最大級のブナ天然林が黄金色と深紅に染まる「伯耆大山（ほうきだいせん）」の鍵掛峠パノラマビュー！そして9月解禁で今が旬の境港水揚げ「紅ずわいがに」や境港サーモン。大山ドライブと皆生温泉への玄関口・米子駅前で、1,000円台から泊まれる破格の良質ホテルを厳選！
           </p>

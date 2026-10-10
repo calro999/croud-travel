@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/shinkansen-direct-walk-onsen-stay/" },
-  title: "【新幹線駅直結・徒歩5分温泉宿】車なし・レンタカー不要！手ぶら温泉旅 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "新幹線駅直結・徒歩5分温泉宿：車なし・レンタカー不要！手ぶら温泉旅 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "運転不要・新幹線駅から徒歩圏内の温泉宿完全特化！東京・名古屋・新大阪・博多から新幹線1本で直行。駅直結ホテル、徒歩5分以内の源泉かけ流し温泉旅館、駅前商店街食べ歩きと手ぶら極上旅を徹底解説。",
   keywords: ["新幹線駅直結", "徒歩5分温泉宿", "車なし", "レンタカー不要！手ぶら温泉旅", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
@@ -89,9 +89,7 @@ export default function TransitStyleHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             SHINKANSEN DIRECT & NO CAR GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【新幹線駅直結・徒歩5分温泉宿】車なし・レンタカー不要！手ぶら温泉旅 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「新幹線駅直結・徒歩5分温泉宿」車なし・レンタカー不要！手ぶら温泉旅 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             渋滞知らず、運転疲れゼロ！新幹線改札を出てすぐにチェックインできる「新幹線駅直結・徒歩5分の温泉宿」。ビールを飲みながら駅弁を味わう優雅な移動時間と、駅からすぐの極上名湯に癒やされるスマートな大人の休日。
           </p>

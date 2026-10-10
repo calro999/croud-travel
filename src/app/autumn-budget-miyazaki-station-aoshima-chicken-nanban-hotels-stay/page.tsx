@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【宮崎駅前】青島・鬼の洗濯板の秋絶景＆本場チキン南蛮！3,000円台〜泊まれる格安ホテル5選',
+  title: '宮崎駅前：青島・鬼の洗濯板の秋絶景＆本場チキン南蛮！3,000円台〜泊まれる格安ホテル5選',
   description: '波状岩「鬼の洗濯板」と青島神社の海岸秋散歩！甘酢と濃厚タルタルソースが絡む本場チキン南蛮や極上宮崎牛炭火焼き。JR日豊本線・宮崎駅周辺で1泊3,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>奇勝青島鬼の洗濯板＆本場タルタルチキン南蛮・宮崎牛</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【宮崎駅前】青島秋の海景＆本場チキン南蛮！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「宮崎駅前」青島秋の海景＆本場チキン南蛮！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             日南海岸のシンボル「青島」を取り囲む国の天然記念物「鬼の洗濯板」。秋の爽快な海風を感じながら参拝する青島神社の朱色の社殿。ジューシーな鶏肉に特製甘酢と手作りタルタルソースがたっぷりかかった本場「チキン南蛮」や、炭火で豪快に焼き上げる「地鶏炭火焼き」に舌鼓！宮崎駅周辺で3,000円台〜泊まれる優良ホテルを厳選。
           </p>

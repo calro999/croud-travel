@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/glamping/" },
-  title: "【グランピング総合ガイド】目的・エリア・設備・予算・人数別のおすすめ施設と選び方",
+  title: "グランピング総合ガイド：目的・エリア・設備・予算・人数別のおすすめ施設と選び方",
   description: "全国のグランピング施設を目的・エリア・設備・人数別に分かりやすく整理した総合ガイド。グランピングの基本知識、キャンプとの違い、各季節の過ごし方、持ち物の目安、選び方のポイントを解説します。",
   keywords: ["グランピング総合ガイド", "目的", "エリア", "設備", "予算", "人数別のおすすめ施設と選び方", "温泉宿"],
 };
@@ -113,10 +113,7 @@ export default function GlampingHubPage() {
           <div className="inline-flex items-center gap-2 bg-emerald-500/20 text-emerald-300 px-4 py-1 rounded-full text-xs md:text-sm font-semibold mb-6 border border-emerald-400/30 backdrop-blur-sm">
             🏕️ グランピング総合ガイド
           </div>
-          <h1 className="font-journal-serif text-3xl md:text-5xl font-bold tracking-tight leading-tight mb-6">
-            【グランピング総合ガイド】<br className="hidden md:block" />
-            <span className="text-emerald-400">目的・エリア・設備・人数別</span>の選び方とおすすめ施設
-          </h1>
+          <h1 className="font-journal-serif text-3xl md:text-5xl font-bold tracking-tight leading-tight mb-6">「グランピング総合ガイド」<br className="hidden md:block" /> <span className="text-emerald-400">目的・エリア・設備・人数別</span>の選び方とおすすめ施設</h1>
           <p className="text-sm md:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed mb-8">
             大自然の中で快適な滞在を楽しめるグランピング。
             ドームテント、一棟貸しヴィラ、温泉やサウナ付きなど多様化する施設の中から、

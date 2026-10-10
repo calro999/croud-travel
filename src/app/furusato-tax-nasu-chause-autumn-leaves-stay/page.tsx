@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '那須高原・茶臼岳の山岳紅葉ロープウェイ＆殺生石！那須温泉名湯・鹿の湯白濁泉×ふるさと納税完全ガイド【2026年最新秋旅】栃木',
+  title: '那須高原・茶臼岳の山岳紅葉ロープウェイ＆殺生石！那須温泉名湯・鹿の湯白濁泉×ふるさと納税厳選ガイド栃木',
   description: '9月下旬〜10月中旬に那須連山の主峰が紅葉絨毯に染まる「栃木・那須高原 茶臼岳」。ロープウェイから見下ろす360度の大パノラマや殺生石散策と、開湯1300年の歴史を誇る名湯「大丸温泉旅館」「那須温泉山楽」「旅館 清水屋」で濃厚な白濁硫黄泉や川床露天風呂、極上とちぎ和牛・那須牛を堪能。ふるさと納税で実質2,000円。',
   keywords: ["那須高原", "茶臼岳の山岳紅葉ロープウェイ", "殺生石！那須温泉名湯", "鹿の湯白濁泉×ふるさと納税", "2026年最新秋旅", "栃木", "温泉宿"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-nasu-chause-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '那須高原・茶臼岳の山岳紅葉ロープウェイ＆殺生石！那須温泉名湯・鹿の湯白濁泉×ふるさと納税完全ガイド【2026年最新秋旅】栃木',
+    title: '那須高原・茶臼岳の山岳紅葉ロープウェイ＆殺生石！那須温泉名湯・鹿の湯白濁泉×ふるさと納税厳選ガイド栃木',
     description: '9月下旬〜10月中旬に那須連山の主峰が紅葉絨毯に染まる「栃木・那須高原 茶臼岳」。ロープウェイから見下ろす360度の大パノラマや殺生石散策と、開湯1300年の歴史を誇る名湯「大丸温泉旅館」「那須温泉山楽」「旅館 清水屋」で濃厚な白濁硫黄泉や川床露天風呂、極上とちぎ和牛・那須牛を堪能。ふるさと納税で実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-nasu-chause-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -113,9 +113,7 @@ export default function FeatureArticlePage() {
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">
-            那須高原・茶臼岳の山岳紅葉ロープウェイ＆殺生石！那須温泉名湯・鹿の湯白濁泉×ふるさと納税完全ガイド【2026年最新秋旅】栃木
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">那須高原・茶臼岳の山岳紅葉ロープウェイ＆殺生石！那須温泉名湯・鹿の湯白濁泉×ふるさと納税厳選ガイド栃木</h1>
           <p className="text-sm md:text-lg text-stone-200 max-w-3xl mx-auto leading-relaxed">
             空中から見下ろす茶臼岳の山岳紅葉絨毯と、1300年の歴史を刻む濃厚白濁の鹿の湯源泉。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
           </p>

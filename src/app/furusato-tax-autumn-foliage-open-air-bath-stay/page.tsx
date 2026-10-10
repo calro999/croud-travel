@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '赤や黄金の山並みを愛でる絶景紅葉露天風呂名旅館×ふるさと納税完全ガイド【2026年最新】日光中禅寺湖・京都嵐山・箱根小涌谷',
+  title: '赤や黄金の山並みを愛でる絶景紅葉露天風呂名旅館×ふるさと納税厳選ガイド日光中禅寺湖・京都嵐山・箱根小涌谷',
   description: '山一面が燃え盛るような錦秋の絶景！秋の日本を代表する紅葉名所で湯船から赤や黄色のグラデーションを愛でる贅沢ステイ。中禅寺湖畔の静寂と乳白色の天然硫黄泉「日光中禅寺金谷ホテル」、渡月橋たもとで嵐山の紅葉絵巻と伝統京懐石を満喫する「京都 嵐山温泉 渡月亭」、小涌谷の森に包まれ掛け流し温泉で寛ぐ「箱根小涌園 美山楓林」。早期満室となる紅葉シーズンの特等席宿に、楽天ふるさと納税トラベルクーポンで実質2,000円負担で宿泊する完全ガイド。',
   keywords: ["2026年最新", "日光中禅寺湖", "京都嵐山", "箱根小涌谷", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: { canonical: baseUrl + '/furusato-tax-autumn-foliage-open-air-bath-stay/' },
   openGraph: {
-    title: '赤や黄金の山並みを愛でる絶景紅葉露天風呂名旅館×ふるさと納税完全ガイド【2026年最新】日光中禅寺湖・京都嵐山・箱根小涌谷',
+    title: '赤や黄金の山並みを愛でる絶景紅葉露天風呂名旅館×ふるさと納税厳選ガイド日光中禅寺湖・京都嵐山・箱根小涌谷',
     description: '山一面が燃え盛るような錦秋の絶景！秋の日本を代表する紅葉名所で湯船から赤や黄色のグラデーションを愛でる贅沢ステイ。中禅寺湖畔の静寂と乳白色の天然硫黄泉「日光中禅寺金谷ホテル」、渡月橋たもとで嵐山の紅葉絵巻と伝統京懐石を満喫する「京都 嵐山温泉 渡月亭」、小涌谷の森に包まれ掛け流し温泉で寛ぐ「箱根小涌園 美山楓林」。早期満室となる紅葉シーズンの特等席宿に、楽天ふるさと納税トラベルクーポンで実質2,000円負担で宿泊する完全ガイド。',
     url: baseUrl + '/furusato-tax-autumn-foliage-open-air-bath-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoAutumnFoliageOpenAirStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             錦秋の絶景・紅葉露天風呂名所旅館特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            赤や黄金の山並みを愛でる絶景紅葉露天風呂名旅館×ふるさと納税完全ガイド【2026年最新】日光中禅寺湖・京都嵐山・箱根小涌谷
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">赤や黄金の山並みを愛でる絶景紅葉露天風呂名旅館×ふるさと納税厳選ガイド日光中禅寺湖・京都嵐山・箱根小涌谷</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             日本列島が北から南へと燃えるような色彩に染まりゆく「秋の紅葉シーズン」。山全体が赤・橙・黄色の鮮やかなグラデーションに包まれ、湯船の上にも色づいたモミジの葉が静かに舞い落ちる「紅葉露天風呂」は、日本の四季の美意識が凝縮された最高峰の情景です。男体山と中禅寺湖の湖畔に建ち紅葉の森に抱かれるクラシックリゾート「日光中禅寺温泉 中禅寺金谷ホテル」、大堰川と渡月橋のすぐそばで嵐山全体の紅葉絵巻を特等席で眺める京都の名門「渡月亭」、そして小涌谷の豊かな自然林に包まれ秋風を感じながら名湯を愉しめる「箱根小涌園 美山楓林」。紅葉の見頃となる10月〜11月の温泉旅館は全国から予約が殺到し、半年以上前から満室になることも珍しくありませんが、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期間3年）を活用すれば、実質自己負担2,000円で驚くほどお得に紅葉の名宿をリザーブ可能です。秋の息を呑む絶景と美食に出逢う、極上の紅葉温泉紀行へ出かけましょう。
           </p>

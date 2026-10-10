@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/matsuyama-city-solo-business-onsen-sauna-stay/" },
-  title: '【松山出張・極上サウナ天然温泉】道後温泉引き湯・サウナシュラン新名所・大街道グルメ！四国最大の都を極める厳選3宿',
+  title: '松山出張・極上サウナ天然温泉：道後温泉引き湯・サウナシュラン新名所・大街道グルメ！四国最大の都を極める厳選3宿',
   description: '松山空港からリムジンバスで直通！全国サウナー注目の最新極上スパ＆カプセル「サウナ＆スパホテル 喜助の宿 松山駅前店。」、大街道すぐで自家源泉天然温泉と名物いよよこ海鮮丼を誇る「ドーミーイン松山」、市街地中心で奥道後天然温泉が引かれた「松山ニューグランドホテル」を徹底比較。',
   keywords: '松山 出張 ホテル,松山 サウナ ホテル,喜助の宿 松山駅前店,ドーミーイン松山,松山ニューグランドホテル,松山 鯛めし 一人旅',
   openGraph: {
-    title: '【松山出張・極上サウナ天然温泉】道後温泉引き湯・サウナシュラン新名所・大街道グルメ！四国最大の都を極める厳選3宿',
+    title: '松山出張・極上サウナ天然温泉：道後温泉引き湯・サウナシュラン新名所・大街道グルメ！四国最大の都を極める厳選3宿',
     description: '松山空港からリムジンバスで直通！全国サウナー注目の最新極上スパ＆カプセル「サウナ＆スパホテル 喜助の宿 松山駅前店。」、大街道すぐで自家源泉天然温泉と名物いよよこ海鮮丼を誇る「ドーミーイン松山」、市街地中心で奥道後天然温泉が引かれた「松山ニューグランドホテル」を徹底比較。',
     url: 'https://croud-travel.pages.dev/matsuyama-city-solo-business-onsen-sauna-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【松山出張・極上サウナ天然温泉】道後温泉引き湯・サウナシュラン新名所・大街道グルメ！四国最大の都を極める厳選3宿',
+    headline: '松山出張・極上サウナ天然温泉：道後温泉引き湯・サウナシュラン新名所・大街道グルメ！四国最大の都を極める厳選3宿',
     description: '松山空港からリムジンバスで直通！全国サウナー注目の最新極上スパ＆カプセル「サウナ＆スパホテル 喜助の宿 松山駅前店。」、大街道すぐで自家源泉天然温泉と名物いよよこ海鮮丼を誇る「ドーミーイン松山」、市街地中心で奥道後天然温泉が引かれた「松山ニューグランドホテル」を徹底比較。',
     author: {
       '@type': 'Organization',
@@ -72,9 +72,7 @@ export default function ArticlePage() {
         <div className="inline-block bg-amber-700 text-white text-xs font-semibold px-3 py-1 rounded-full mb-3 tracking-wider">
           ひとり旅・出張・サウナ＆名湯特集
         </div>
-        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">
-          【松山出張・極上サウナ天然温泉】道後温泉引き湯・サウナシュラン新名所・大街道グルメ！四国最大の都を極める厳選3宿
-        </h1>
+        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">「松山出張・極上サウナ天然温泉」道後温泉引き湯・サウナシュラン新名所・大街道グルメ！四国最大の都を極める厳選3宿</h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.13 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>

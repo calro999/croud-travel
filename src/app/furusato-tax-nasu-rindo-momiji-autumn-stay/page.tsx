@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            那須もみじ谷大吊橋と高原の紅葉ドライブ！那須温泉郷の白濁名湯・那須和牛ステーキと高原ミルクを味わう秋旅
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">那須もみじ谷大吊橋と高原の紅葉ドライブ！那須温泉郷の白濁名湯・那須和牛ステーキと高原ミルクを味わう秋旅</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             雄大な那須連山を染める三段紅葉と、開湯1300年の白濁名湯・極上那須和牛の贅沢
           </p>

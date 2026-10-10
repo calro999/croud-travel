@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月福岡】門司港レトロ浪漫灯彩イルミネーション！名宿5選',
+  title: '11・12・1月福岡：門司港レトロ浪漫灯彩イルミネーション！名宿5選',
   description: '冬の北九州・門司港は、大正ロマン薫る赤煉瓦洋館群が約30万球の光に包まれる「門司港レトロ浪漫灯彩」で幻想的な輝きを放ちます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '門司港 ホテル, 門司港レトロ イルミネーション, 豊前海一粒牡蠣, 門司港 焼きカレー, プレミアホテル門司港, リーガロイヤルホテル小倉, 小倉牛, 関門海峡 夜景, 11月 12月 1月 福岡 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukuoka-mojiko-retro-illumination-buzen-oyster-kokuragyu-stay/"
   },
   openGraph: {
-    title: '【11・12・1月福岡】門司港レトロ浪漫灯彩イルミネーション！名宿5選',
+    title: '11・12・1月福岡：門司港レトロ浪漫灯彩イルミネーション！名宿5選',
     description: '冬の北九州・門司港は、大正ロマン薫る赤煉瓦洋館群が約30万球の光に包まれる「門司港レトロ浪漫灯彩」で幻想的な輝きを放ちます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-fukuoka-mojiko-retro-illumination-buzen-oyster-kokuragyu-stay',
     type: 'article',
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月福岡】門司港レトロ浪漫灯彩イルミネーション＆関門海峡！旬の「豊前海一粒牡蠣」と元祖焼きカレー・小倉牛を堪能する名宿5選",
+    title: "11・12・1月福岡：門司港レトロ浪漫灯彩イルミネーション＆関門海峡！旬の「豊前海一粒牡蠣」と元祖焼きカレー・小倉牛を堪能する名宿5選",
     description: "冬の北九州・門司港は、大正ロマン薫る赤煉瓦洋館群が約30万球の光に包まれる「門司港レトロ浪漫灯彩」で幻想的な輝きを放ちます。関門海峡を行き交う船と対岸の夜景、小倉城の雪景色と新春初詣。11月に水揚げ解禁を迎える大粒で濃厚なブランド牡蠣「豊前海一粒牡蠣」の浜焼きや牡蠣小屋、門司港発祥の香ばしい熱々「焼きカレー」、関門ふく（ふぐ）、幻の銘牛「小倉牛」。海峡の潮風と歴史ロマン、極上の冬グルメに浸る厳選名宿5選を徹底案内します。"
   }
 };
@@ -230,10 +230,7 @@ export default function FukuokaMojikoKokuraPage() {
             <Sparkles className="w-4 h-4 text-amber-300" />
             11月・12月・1月冬の特選旅｜福岡・門司港レトロ＆小倉
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">
-            門司港レトロ浪漫灯彩イルミネーション＆関門海峡！<br className="hidden sm:inline" />
-            旬の「豊前海一粒牡蠣」と元祖焼きカレー・小倉牛の名宿5選
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">門司港レトロ浪漫灯彩イルミネーション＆関門海峡！<br className="hidden sm:inline" /> 旬の「豊前海一粒牡蠣」と元祖焼きカレー・小倉牛の名宿5選</h1>
           <p className="text-base sm:text-lg text-amber-100/90 leading-relaxed max-w-4xl mb-8">
             大正モダニズムの赤煉瓦洋館群が約30万球の温かな光に浮かび上がる冬の門司港レトロ。荒波寄せる関門海峡のダイナミックな景観と対岸・下関の煌めく夜景、小倉城の雪景色と新春の賑わい。11月に解禁を迎える大粒濃厚なブランド牡蠣「豊前海一粒牡蠣」、オーブンで香ばしく焼き上げた元祖焼きカレー、関門ふぐ、そして幻の黒毛和牛「小倉牛」。歴史と異国情緒、冬の港町ならではの温かな美食を満喫できる名宿を詳しく解説します。
           </p>

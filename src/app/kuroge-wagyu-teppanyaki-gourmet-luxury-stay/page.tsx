@@ -180,9 +180,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            目の前でジュワッと焼き上げる最高峰の霜降り！ブランド黒毛和牛・極上鉄板焼き会席の宿
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">目の前でジュワッと焼き上げる最高峰の霜降り！ブランド黒毛和牛・極上鉄板焼き会席の宿</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             カウンター越しに響く肉の焼ける心地よい音と立ち上る芳醇な香り。選りすぐりの最高ランク黒毛和牛フィレやサーロインに、ワサビや岩塩、特製ガーリックチップを添えて口へ運べば、とろけるような柔らかさと肉汁の旨味が溢れ出します。記念日や自分へのご褒美にふさえる至高のディナーをお届けします。
           </p>

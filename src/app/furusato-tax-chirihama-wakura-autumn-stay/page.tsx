@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            日本唯一の波打ち際ドライブ「千里浜なぎさドライブウェイ」夕景＆和倉温泉・極上能登牛と七尾湾秋魚
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">日本唯一の波打ち際ドライブ「千里浜なぎさドライブウェイ」夕景＆和倉温泉・極上能登牛と七尾湾秋魚</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             波打ち際を疾走する千里浜の絶景ドライブ。開湯1200年の名湯・和倉温泉で極上能登牛と海の幸に酔いしれる。
           </p>

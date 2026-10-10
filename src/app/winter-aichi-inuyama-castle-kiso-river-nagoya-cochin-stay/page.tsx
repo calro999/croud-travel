@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月愛知】三光稲荷神社新春初詣！名宿5選',
+  title: '11・12・1月愛知：三光稲荷神社新春初詣！名宿5選',
   description: '冬の愛知・犬山は、木曽川の断崖にそびえる現存最古の木造天守「国宝犬山城」が凛とした青空と朝霧に映え。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '犬山 ホテル, 国宝犬山城 冬景色, 三光稲荷神社 初詣, 犬山温泉 白帝の湯, 名古屋コーチン 鍋, ホテルインディゴ犬山有楽苑, 灯屋迎帆楼, 11月 12月 1月 愛知 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-aichi-inuyama-castle-kiso-river-nagoya-cochin-stay/"
   },
   openGraph: {
-    title: '【11・12・1月愛知】三光稲荷神社新春初詣！名宿5選',
+    title: '11・12・1月愛知：三光稲荷神社新春初詣！名宿5選',
     description: '冬の愛知・犬山は、木曽川の断崖にそびえる現存最古の木造天守「国宝犬山城」が凛とした青空と朝霧に映え。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-aichi-inuyama-castle-kiso-river-nagoya-cochin-stay',
     type: 'article',
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月愛知】現存最古の木造天守・国宝犬山城の冬絶景＆三光稲荷神社新春初詣！名美肌湯「白帝の湯」と本場名古屋コーチンを堪能する名宿5選",
+    title: "11・12・1月愛知：現存最古の木造天守・国宝犬山城の冬絶景＆三光稲荷神社新春初詣！名美肌湯「白帝の湯」と本場名古屋コーチンを堪能する名宿5選",
     description: "冬の愛知・犬山は、木曽川の断崖にそびえる現存最古の木造天守「国宝犬山城」が凛とした青空と朝霧に映え、ハートの絵馬で名高い三光稲荷神社や針綱神社が新春開運初詣で賑わう季節。江戸の町割りが残る城下町本町通りの食べ歩き、国宝茶室「如庵」の静謐な冬庭園。アルカリ性単純温泉「犬山温泉 白帝の湯」の柔らかな美肌湯に浸かり、日本三大地鶏の最高峰「名古屋コーチン」の濃厚な水炊きやすき焼き、飛騨牛料理に舌鼓を打つ厳選名宿5選を徹底解説します。"
   }
 };
@@ -229,10 +229,7 @@ export default function AichiInuyamaPage() {
             <Snowflake className="w-4 h-4 text-rose-300" />
             11月・12月・1月冬の特選旅｜愛知・犬山＆木曽川
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">
-            現存最古の木造天守・国宝犬山城の冬絶景＆三光稲荷神社新春初詣！<br className="hidden sm:inline" />
-            名美肌湯「白帝の湯」と本場名古屋コーチンを堪能する名宿5選
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">現存最古の木造天守・国宝犬山城の冬絶景＆三光稲荷神社新春初詣！<br className="hidden sm:inline" /> 名美肌湯「白帝の湯」と本場名古屋コーチンを堪能する名宿5選</h1>
           <p className="text-base sm:text-lg text-stone-200/90 leading-relaxed max-w-4xl mb-8">
             木曽川の清流と断崖の上に屹立する現存最古の木造天守・国宝犬山城。11月から1月にかけての冬は、澄み切った青空に白帝城が凛とそびえ立ち、朝霧に煙る幻想的な水辺の風景が広がります。ハート絵馬と銭洗いで名高い三光稲荷神社での新春開運祈願、江戸の風情を色濃く残す城下町の散策。そして弱アルカリ性の美肌湯「白帝の湯」に癒やされ、日本三大地鶏・名古屋コーチンの極上鍋を味わう特別な冬旅へご案内します。
           </p>

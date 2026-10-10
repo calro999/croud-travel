@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '宝石のように輝くいくら盛り放題＆贅沢こぼれ海鮮丼！港町の名門ホテル×ふるさと納税完全ガイド【2026年最新】函館・金沢・伊東',
+  title: '宝石のように輝くいくら盛り放題＆贅沢こぼれ海鮮丼！港町の名門ホテル×ふるさと納税厳選ガイド函館・金沢・伊東',
   description: '丼から溢れんばかりの新鮮魚介を朝から心ゆくまで！全国朝食ランキングの絶対王者・いくらかけ放題の「ラビスタ函館ベイANNEX」、近江町市場直送の海の幸と大正ロマンの天然温泉を誇る「金沢白鳥路 ホテル山楽」、海底温泉魚風呂と金目鯛・海鮮舟盛りバイキングの「伊東温泉 サンハトヤ」。自分好みに作る究極のオリジナル海鮮丼ステイを、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
   keywords: ["宝石のように輝くいくら盛り放題", "2026年最新", "函館", "金沢", "伊東", "温泉宿", "宿泊予約"],
   alternates: { canonical: baseUrl + '/furusato-tax-spill-over-kaisendon-seafood-bowl-stay/' },
   openGraph: {
-    title: '宝石のように輝くいくら盛り放題＆贅沢こぼれ海鮮丼！港町の名門ホテル×ふるさと納税完全ガイド【2026年最新】函館・金沢・伊東',
+    title: '宝石のように輝くいくら盛り放題＆贅沢こぼれ海鮮丼！港町の名門ホテル×ふるさと納税厳選ガイド函館・金沢・伊東',
     description: '丼から溢れんばかりの新鮮魚介を朝から心ゆくまで！全国朝食ランキングの絶対王者・いくらかけ放題の「ラビスタ函館ベイANNEX」、近江町市場直送の海の幸と大正ロマンの天然温泉を誇る「金沢白鳥路 ホテル山楽」、海底温泉魚風呂と金目鯛・海鮮舟盛りバイキングの「伊東温泉 サンハトヤ」。自分好みに作る究極のオリジナル海鮮丼ステイを、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
     url: baseUrl + '/furusato-tax-spill-over-kaisendon-seafood-bowl-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoSpillOverKaisendonStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             こぼれ海鮮丼＆朝食いくら盛り放題ホテル特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            宝石のように輝くいくら盛り放題＆贅沢こぼれ海鮮丼！港町の名門ホテル×ふるさと納税完全ガイド【2026年最新】函館・金沢・伊東
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">宝石のように輝くいくら盛り放題＆贅沢こぼれ海鮮丼！港町の名門ホテル×ふるさと納税厳選ガイド函館・金沢・伊東</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             旅の朝の最大のハイライトといえば、地元漁港から毎朝届くピチピチの新鮮魚介を炊きたてのご飯の上に好きなだけ盛り付ける「勝手丼・こぼれ海鮮丼バイキング」。スプーンですくうたびにこぼれ落ちそうになるたっぷりの特製漬けいくら、とろけるような甘みのホタテや甘エビ、濃厚なマグロやサーモン、ぷりぷりのイカを何層にも重ねて作る自分だけの贅沢丼は、ひと口頬張るごとに思わず笑みがこぼれる至極の美味しさです。全国ホテル朝食ランキングで長年日本一の座を守り続け、いくらかけ放題の元祖として知られる名門「ラビスタ函館ベイANNEX」、金沢の食の台所・近江町市場にほど近く加賀の伝統料理と豪華海鮮が並ぶクラシック名門宿「金沢白鳥路 ホテル山楽」、そして相模湾の新鮮な地魚や金目鯛、大迫力の海鮮舟盛りバイキングと名物・海底温泉魚風呂を誇る「伊東温泉 サンハトヤ」。朝から贅沢三昧の海鮮モーニングと良質な天然温泉を堪能できる名宿を、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を使って実質自己負担2,000円で賢く予約し、大満足のグルメ旅へ出かけましょう。
           </p>

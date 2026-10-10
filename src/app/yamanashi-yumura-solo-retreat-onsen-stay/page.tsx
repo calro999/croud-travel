@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/yamanashi-yumura-solo-retreat-onsen-stay/" },
-  title: '【甲府・湯村温泉ひとり旅・信玄隠し湯おこもり】自家源泉かけ流し・太宰治ゆかりの文学宿・甲州ワイン＆ほうとう！都心特急90分の古湯厳選3宿',
+  title: '甲府・湯村温泉ひとり旅・信玄隠し湯おこもり：自家源泉かけ流し・太宰治ゆかりの文学宿・甲州ワイン＆ほうとう！都心特急90分の古湯厳選3宿',
   description: '武田信玄の隠し湯として名高い甲府・湯村温泉！湯守の手入れが行き届いた極上かけ流し湯と家庭的な温もりが自慢の「弘法湯」、巨石露天風呂と甲州の郷土料理を静かに堪能できる「湯志摩の郷 楽水園」、自家源泉100%かけ流しとビジネス・ワーケーションにも最適な「湯村ホテル」を楽天API最新データに基づき徹底比較。',
   keywords: '湯村温泉 一人旅 宿,湯村温泉 ホテル 一人,弘法湯 湯村,楽水園 湯村温泉,湯村ホテル 甲府,湯村温泉 信玄隠し湯 ひとり旅',
   openGraph: {
-    title: '【甲府・湯村温泉ひとり旅・信玄隠し湯おこもり】自家源泉かけ流し・太宰治ゆかりの文学宿・甲州ワイン＆ほうとう！都心特急90分の古湯厳選3宿',
+    title: '甲府・湯村温泉ひとり旅・信玄隠し湯おこもり：自家源泉かけ流し・太宰治ゆかりの文学宿・甲州ワイン＆ほうとう！都心特急90分の古湯厳選3宿',
     description: '武田信玄の隠し湯として名高い甲府・湯村温泉！湯守の手入れが行き届いた極上かけ流し湯と家庭的な温もりが自慢の「弘法湯」、巨石露天風呂と甲州の郷土料理を静かに堪能できる「湯志摩の郷 楽水園」、自家源泉100%かけ流しとビジネス・ワーケーションにも最適な「湯村ホテル」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/yamanashi-yumura-solo-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【甲府・湯村温泉ひとり旅・信玄隠し湯おこもり】自家源泉かけ流し・太宰治ゆかりの文学宿・甲州ワイン＆ほうとう！都心特急90分の古湯厳選3宿',
+    headline: '甲府・湯村温泉ひとり旅・信玄隠し湯おこもり：自家源泉かけ流し・太宰治ゆかりの文学宿・甲州ワイン＆ほうとう！都心特急90分の古湯厳選3宿',
     description: '武田信玄の隠し湯として名高い甲府・湯村温泉！湯守の手入れが行き届いた極上かけ流し湯と家庭的な温もりが自慢の「弘法湯」、巨石露天風呂と甲州の郷土料理を静かに堪能できる「湯志摩の郷 楽水園」、自家源泉100%かけ流しとビジネス・ワーケーションにも最適な「湯村ホテル」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             山梨・湯村温泉ひとり旅＆信玄隠し湯おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【甲府・湯村温泉ひとり旅・信玄隠し湯おこもり】自家源泉かけ流し・太宰治ゆかりの文学宿・甲州ワイン＆ほうとう！都心特急90分の古湯厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「甲府・湯村温泉ひとり旅・信玄隠し湯おこもり」自家源泉かけ流し・太宰治ゆかりの文学宿・甲州ワイン＆ほうとう！都心特急90分の古湯厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

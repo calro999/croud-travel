@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '日本三大美林の木漏れ日と森林セラピー・ウッドヴィラ宿×ふるさと納税完全ガイド【2026年最新】青森ヒバ・秋田杉・木曽檜',
+  title: '日本三大美林の木漏れ日と森林セラピー・ウッドヴィラ宿×ふるさと納税厳選ガイド青森ヒバ・秋田杉・木曽檜',
   description: '神仏の建築や式年遷宮を支えてきた日本の誇る銘木林「日本三大美林」（青森ヒバ・秋田スギ・木曽ヒノキ）。芳醇な木の香りに満ちた大浴場や客室、フィトンチッド溢れる森林浴で究極の深呼吸リラクゼーション。楽天ふるさと納税完全活用。',
   keywords: ["ウッドヴィラ宿×ふるさと納税", "2026年最新", "青森ヒバ", "秋田杉", "木曽檜", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-forests-wood-villa-stay/",
   },
   openGraph: {
-    title: '日本三大美林の木漏れ日と森林セラピー・ウッドヴィラ宿×ふるさと納税完全ガイド【2026年最新】青森ヒバ・秋田杉・木曽檜',
+    title: '日本三大美林の木漏れ日と森林セラピー・ウッドヴィラ宿×ふるさと納税厳選ガイド青森ヒバ・秋田杉・木曽檜',
     description: '神仏の建築や式年遷宮を支えてきた日本の誇る銘木林「日本三大美林」（青森ヒバ・秋田スギ・木曽ヒノキ）。芳醇な木の香りに満ちた大浴場や客室、フィトンチッド溢れる森林浴で究極の深呼吸リラクゼーション。楽天ふるさと納税完全活用。',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-forests-wood-villa-stay',
     siteName: '旅宿クラウド',
@@ -108,9 +108,7 @@ export default function FurusatoUpgradedPage() {
             <span>✨</span>
             <span>日本三大美林・森林セラピーステイ特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            日本三大美林の木漏れ日と森林セラピー・ウッドヴィラ宿×ふるさと納税完全ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">日本三大美林の木漏れ日と森林セラピー・ウッドヴィラ宿×ふるさと納税厳選ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             悠久の森が育んだ生命の息吹と、圧倒的な癒やしをもたらす「日本三大美林」。抗菌力と芳醇な香気を放つ黄金の木「青森ヒバ」、美しく均整のとれた木目が薫る「秋田スギ」、伊勢神宮の御用木として尊ばれる最高峰の「木曽ヒノキ」。木肌の温もりに包まれた総ヒノキ・ヒバ風呂に浸かり、森林セラピーの澄んだ空気を胸いっぱいに吸い込む休日。楽天ふるさと納税を活用して、五感すべてが解き放たれる美林温泉ステイへご案内します。
           </p>

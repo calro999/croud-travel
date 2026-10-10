@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/former-aristocrat-zaibatsu-imperial-villa-resort-stay/" },
-  title: '元華族・旧財閥別邸＆皇室御用達ゆかりの宿完全ガイド【名園と貴族のサロン】 | クラウドトラベル',
+  title: '元華族・旧財閥別邸＆皇室御用達ゆかりの宿厳選ガイド「名園と貴族のサロン」 | クラウドトラベル',
   description: '箱根強羅花壇（旧閑院宮別邸）、京都南禅寺界隈の旧財閥別邸、中禅寺湖畔の皇室・大使館ゆかりの宿など、日本の政財界VIPや旧華族が愛した名園と隠れ家リゾートを特集。',
   openGraph: {
-    title: '元華族・旧財閥別邸＆皇室御用達ゆかりの宿完全ガイド【名園と貴族のサロン】 | クラウドトラベル',
+    title: '元華族・旧財閥別邸＆皇室御用達ゆかりの宿厳選ガイド「名園と貴族のサロン」 | クラウドトラベル',
     description: '箱根強羅花壇（旧閑院宮別邸）、京都南禅寺界隈の旧財閥別邸、中禅寺湖畔の皇室・大使館ゆかりの宿など、日本の政財界VIPや旧華族が愛した名園と隠れ家リゾートを特集。',
     type: 'article',
   },
@@ -59,9 +59,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             旧華族・旧財閥別邸ステイ
           </div>
-          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            元華族・旧財閥別邸＆皇室御用達ゆかりの宿完全ガイド【名園と貴族のサロン】
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">元華族・旧財閥別邸＆皇室御用達ゆかりの宿厳選ガイド「名園と貴族のサロン」</h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl">
             明治・大正・昭和にかけて、旧皇族や華族、三菱・三井・住友などの旧財閥当主たちが箱根や京都、日光などの風光明媚な景勝地に築いた至高の別邸群。広大な日本庭園の借景、贅を尽くした建築素材、プライベートな社交場として愛された格式と静寂が、現代の最高峰ラグジュアリー旅館・ホテルとして受け継がれています。名園を愛でながら、日本最高峰のおもてなしと料理を堪能する特別な滞在をお届けします。
           </p>

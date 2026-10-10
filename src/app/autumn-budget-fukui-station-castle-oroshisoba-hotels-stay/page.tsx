@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【福井駅前】福井城跡秋散歩＆越前おろしそば・ソースカツ丼！3,000円台〜泊まれる格安ホテル5選',
+  title: '福井駅前：福井城跡秋散歩＆越前おろしそば・ソースカツ丼！3,000円台〜泊まれる格安ホテル5選',
   description: '北陸新幹線延伸で大注目！結城秀康公が築いた福井城跡の内堀と石垣、ピリッと辛味大根が効いた越前おろしそばやヨーロッパ軒の元祖ソースカツ丼。JR福井駅周辺で1泊3,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>新幹線開通の福井駅前＆越前おろしそば・福井城跡石垣</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【福井駅前】福井城跡散歩＆名物おろしそば！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「福井駅前」福井城跡散歩＆名物おろしそば！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             北陸新幹線の延伸開業で話題沸騰の福井。徳川家康の次男・結城秀康が築いた福井城跡の内堀に映る美しい秋の木々と石垣。越前そば粉を使った風味豊かな蕎麦に大根おろし出汁をぶっかける「越前おろしそば」、ウスターソースが染みた薄切りカツが絶品の「ソースカツ丼」に舌鼓！福井駅周辺で3,000円台〜泊まれる優良ホテルを厳選。
           </p>

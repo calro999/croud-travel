@@ -4,14 +4,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '日本の滝百選・箕面大滝の紅葉美＆日本最古の名湯・有馬温泉金泉銀泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】関西 | 旅宿クラウド',
+  title: '日本の滝百選・箕面大滝の紅葉美＆日本最古の名湯・有馬温泉金泉銀泉名宿×ふるさと納税厳選ガイド関西 | 旅宿クラウド',
   description: '11月中旬〜12月上旬に見頃を迎える関西屈指の紅葉名所「箕面大滝（大阪）」と、日本三古湯・三名泉の最高峰「有馬温泉（神戸）」。鉄分と塩分濃厚な赤褐色の「金泉」と無色透明の「銀泉」を誇る「欽山」「有馬御苑」「兵衛向陽閣」。最高級神戸牛会席を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
   keywords: ["日本の滝百選", "箕面大滝の紅葉美", "日本最古の名湯", "2026年最新秋旅", "関西", "旅宿クラウド", "温泉宿"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-minoh-falls-arima-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '日本の滝百選・箕面大滝の紅葉美＆日本最古の名湯・有馬温泉金泉銀泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】関西',
+    title: '日本の滝百選・箕面大滝の紅葉美＆日本最古の名湯・有馬温泉金泉銀泉名宿×ふるさと納税厳選ガイド関西',
     description: '11月中旬〜12月上旬に見頃を迎える関西屈指の紅葉名所「箕面大滝（大阪）」と、日本三古湯・三名泉の最高峰「有馬温泉（神戸）」。鉄分と塩分濃厚な赤褐色の「金泉」と無色透明の「銀泉」を誇る「欽山」「有馬御苑」「兵衛向陽閣」。最高級神戸牛会席を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-minoh-falls-arima-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -65,9 +65,7 @@ export default function FurusatoMinohFallsArimaAutumnLeavesStayPage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               箕面大滝紅葉＆有馬温泉・金泉銀泉極上名門旅館特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              日本の滝百選・箕面大滝の紅葉美＆日本最古の名湯・有馬温泉金泉銀泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】関西
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">日本の滝百選・箕面大滝の紅葉美＆日本最古の名湯・有馬温泉金泉銀泉名宿×ふるさと納税厳選ガイド関西</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               11月中旬〜12月上旬に見頃を迎える関西屈指の紅葉名所「箕面大滝（大阪）」と、日本三古湯・三名泉の最高峰「有馬温泉（神戸）」。鉄分と塩分濃厚な赤褐色の「金泉」と無色透明の「銀泉」を誇る「欽山」「有馬御苑」「兵衛向陽閣」。最高級神戸牛会席を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。
             </p>

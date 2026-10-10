@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【阿寒湖温泉×ふるさと納税】天然記念物マリモの湖＆阿寒連峰パノラマ！鶴雅リゾート特集｜遊久の里鶴雅・鶴雅別荘鄙の座・ニュー阿寒ホテル',
+  title: '阿寒湖温泉をふるさと納税でお得に旅する！天然記念物マリモの湖＆阿寒連峰パノラマ！鶴雅リゾート特集｜遊久の里鶴雅・鶴雅別荘鄙の座・ニュー阿寒ホテル',
   description: '道東の大自然とアイヌ文化が息づく阿寒摩周国立公園・北海道阿寒湖温泉を楽天ふるさと納税でお得に贅沢ステイ！最上階展望風呂と阿寒湖絶景を誇る「あかん遊久の里 鶴雅」、全室露天風呂付き・大人の至高オールインクルーシブ「あかん鶴雅別荘 鄙の座」、屋上インフィニティ温泉の「ニュー阿寒ホテル」を徹底比較。釧路市トラベルクーポン活用術を網羅。',
   keywords: '阿寒湖温泉 ふるさと納税,阿寒 鶴雅 ふるさと納税,あかん遊久の里 鶴雅 クーポン,鄙の座 阿寒湖 宿泊,釧路市 ふるさと納税 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-akan-onsen-marimo-heritage-stay/",
   },
   openGraph: {
-    title: '【阿寒湖温泉×ふるさと納税】天然記念物マリモの湖＆阿寒連峰パノラマ！鶴雅リゾート特集｜遊久の里鶴雅・鶴雅別荘鄙の座・ニュー阿寒ホテル',
+    title: '阿寒湖温泉をふるさと納税でお得に旅する！天然記念物マリモの湖＆阿寒連峰パノラマ！鶴雅リゾート特集｜遊久の里鶴雅・鶴雅別荘鄙の座・ニュー阿寒ホテル',
     description: '道東の大自然とアイヌ文化が息づく阿寒摩周国立公園・北海道阿寒湖温泉を楽天ふるさと納税でお得に贅沢ステイ！最上階展望風呂と阿寒湖絶景を誇る「あかん遊久の里 鶴雅」、全室露天風呂付き・大人の至高オールインクルーシブ「あかん鶴雅別荘 鄙の座」、屋上インフィニティ温泉の「ニュー阿寒ホテル」を徹底比較。釧路市トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-akan-onsen-marimo-heritage-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -24,7 +24,7 @@ export default function FurusatoArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【阿寒湖温泉×ふるさと納税】天然記念物マリモの湖＆阿寒連峰パノラマ！鶴雅リゾート特集｜遊久の里鶴雅・鶴雅別荘鄙の座・ニュー阿寒ホテル',
+    headline: '阿寒湖温泉をふるさと納税でお得に旅する！天然記念物マリモの湖＆阿寒連峰パノラマ！鶴雅リゾート特集｜遊久の里鶴雅・鶴雅別荘鄙の座・ニュー阿寒ホテル',
     description: '道東の大自然とアイヌ文化が息づく阿寒摩周国立公園・北海道阿寒湖温泉を楽天ふるさと納税でお得に贅沢ステイ！最上階展望風呂と阿寒湖絶景を誇る「あかん遊久の里 鶴雅」、全室露天風呂付き・大人の至高オールインクルーシブ「あかん鶴雅別荘 鄙の座」、屋上インフィニティ温泉の「ニュー阿寒ホテル」を徹底比較。釧路市トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function FurusatoArticlePage() {
           <span>♨️</span>
           <span>北海道釧路市 ふるさと納税・名湯宿特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【阿寒湖温泉×ふるさと納税】天然記念物マリモの湖＆阿寒連峰パノラマ！鶴雅リゾート特集｜遊久の里鶴雅・鶴雅別荘鄙の座・ニュー阿寒ホテル
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">阿寒湖温泉をふるさと納税でお得に旅する！天然記念物マリモの湖＆阿寒連峰パノラマ！鶴雅リゾート特集｜遊久の里鶴雅・鶴雅別荘鄙の座・ニュー阿寒ホテル</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed">
           道東の大自然とアイヌ文化が息づく阿寒摩周国立公園・北海道阿寒湖温泉を楽天ふるさと納税でお得に贅沢ステイ！最上階展望風呂と阿寒湖絶景を誇る「あかん遊久の里 鶴雅」、全室露天風呂付き・大人の至高オールインクルーシブ「あかん鶴雅別荘 鄙の座」、屋上インフィニティ温泉の「ニュー阿寒ホテル」を徹底比較。釧路市トラベルクーポン活用術を網羅。
         </p>

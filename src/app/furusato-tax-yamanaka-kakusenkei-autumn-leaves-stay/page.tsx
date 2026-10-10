@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '芭蕉が愛した名湯！加賀・山中温泉の鶴仙渓紅葉＆あやとり橋散策と温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】石川',
+  title: '芭蕉が愛した名湯！加賀・山中温泉の鶴仙渓紅葉＆あやとり橋散策と温泉宿×ふるさと納税厳選ガイド石川',
   description: '11月上旬〜11月下旬に見頃を迎える加賀温泉郷「山中温泉・鶴仙渓（かくせんけい）」。あやとり橋やこおろぎ橋を包む錦秋渓谷、鶴仙渓川床で味わう道場六三郎レシピのスイーツ、開湯1300年の名湯宿「かがり吉祥亭」「吉祥やまなか」「白鷺湯たわらや」で11月解禁の加能ガニ・香箱ガニや能登牛を堪能。ふるさと納税で実質2,000円。',
   keywords: ["芭蕉が愛した名湯！加賀", "山中温泉の鶴仙渓紅葉", "2026年最新秋旅", "石川", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-yamanaka-kakusenkei-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '芭蕉が愛した名湯！加賀・山中温泉の鶴仙渓紅葉＆あやとり橋散策と温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】石川',
+    title: '芭蕉が愛した名湯！加賀・山中温泉の鶴仙渓紅葉＆あやとり橋散策と温泉宿×ふるさと納税厳選ガイド石川',
     description: '11月上旬〜11月下旬に見頃を迎える加賀温泉郷「山中温泉・鶴仙渓（かくせんけい）」。あやとり橋やこおろぎ橋を包む錦秋渓谷、鶴仙渓川床で味わう道場六三郎レシピのスイーツ、開湯1300年の名湯宿「かがり吉祥亭」「吉祥やまなか」「白鷺湯たわらや」で11月解禁の加能ガニ・香箱ガニや能登牛を堪能。ふるさと納税で実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-yamanaka-kakusenkei-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FeatureArticlePage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               加賀・山中温泉＆鶴仙渓紅葉特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              芭蕉が愛した名湯！加賀・山中温泉の鶴仙渓紅葉＆あやとり橋散策と温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】石川
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">芭蕉が愛した名湯！加賀・山中温泉の鶴仙渓紅葉＆あやとり橋散策と温泉宿×ふるさと納税厳選ガイド石川</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               11月上旬〜11月下旬に見頃を迎える加賀温泉郷「山中温泉・鶴仙渓（かくせんけい）」。あやとり橋やこおろぎ橋を包む錦秋渓谷、鶴仙渓川床で味わう道場六三郎レシピのスイーツ、開湯1300年の名湯宿「かがり吉祥亭」「吉祥やまなか」「白鷺湯たわらや」で11月解禁の加能ガニ・香箱ガニや能登牛を堪能。ふるさと納税で実質2,000円。
             </p>

@@ -4,14 +4,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '日本三大陶磁器の里＆窯元めぐり・器と美食を愉しむ温泉宿×ふるさと納税完全ガイド【2026年最新】有田・美濃・瀬戸',
+  title: '日本三大陶磁器の里＆窯元めぐり・器と美食を愉しむ温泉宿×ふるさと納税厳選ガイド有田・美濃・瀬戸',
   description: '日本の美意識が息づく焼き物の聖地！佐賀「有田焼・伊万里焼」白磁に映える佐賀牛会席と武雄嬉野温泉、岐阜「美濃焼」千三百年続く窯元と志野織部の器に盛る飛騨牛料理宿、愛知「瀬戸焼（せともの）」名門ギャラリーめぐりと尾張郷土会席。名陶と美食の贅沢ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: 'ふるさと納税, 楽天トラベル, 旅行クーポン, 宿泊記, ホテル予約, 国内旅行, おすすめ宿, 温泉旅館',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-pottery-towns-gourmet-stay/",
   },
   openGraph: {
-    title: '日本三大陶磁器の里＆窯元めぐり・器と美食を愉しむ温泉宿×ふるさと納税完全ガイド【2026年最新】有田・美濃・瀬戸',
+    title: '日本三大陶磁器の里＆窯元めぐり・器と美食を愉しむ温泉宿×ふるさと納税厳選ガイド有田・美濃・瀬戸',
     description: '日本の美意識が息づく焼き物の聖地！佐賀「有田焼・伊万里焼」白磁に映える佐賀牛会席と武雄嬉野温泉、岐阜「美濃焼」千三百年続く窯元と志野織部の器に盛る飛騨牛料理宿、愛知「瀬戸焼（せともの）」名門ギャラリーめぐりと尾張郷土会席。名陶と美食の贅沢ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-pottery-towns-gourmet-stay',
     siteName: 'トラベル総合ナビ',
@@ -56,9 +56,7 @@ export default function Page() {
             <span>✨</span>
             <span>日本三大陶磁器・器と美食特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6 text-white drop-shadow-sm">
-            日本三大陶磁器の里＆窯元めぐり・器と美食宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6 text-white drop-shadow-sm">日本三大陶磁器の里＆窯元めぐり・器と美食宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-xl text-slate-200 leading-relaxed font-normal max-w-4xl">
             職人の息吹宿る器で味わう極上会席。用の美と名湯に癒やされるクラフトツーリズム
           </p>

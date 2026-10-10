@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月高知】冬が旬の「宿毛寒ブリ！名宿5選',
+  title: '11・12・1月高知：冬が旬の「宿毛寒ブリ！名宿5選',
   description: '冬の澄み切った大気と水平線が織りなす奇跡の光景を巡る11〜1月の高知西南・宿毛＆四万十特集。冬の宿毛湾を真っ赤に染め上げる蜃気楼の絶景「だる。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '宿毛 だるま夕日, 宿毛 寒ブリ 宿, 四万十川 冬 観光, 宿毛リゾート 椰子の湯, 宿毛 本マグロ, 四万十牛 宿, 沈下橋 ドライブ, 高知 冬 旅行, 四万十市 ホテル',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kochi-sukumo-daruma-sunset-shimanto-stay/"
   },
   openGraph: {
-    title: '【11・12・1月高知】冬が旬の「宿毛寒ブリ！名宿5選',
+    title: '11・12・1月高知：冬が旬の「宿毛寒ブリ！名宿5選',
     description: '冬の澄み切った大気と水平線が織りなす奇跡の光景を巡る11〜1月の高知西南・宿毛＆四万十特集。冬の宿毛湾を真っ赤に染め上げる蜃気楼の絶景「だる。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-kochi-sukumo-daruma-sunset-shimanto-stay',
     type: 'article',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月高知】宿毛湾の奇跡「だるま夕日」と四万十川の冬旅！冬が旬の「宿毛寒ブリ・本マグロ・四万十牛」と太平洋一望のリゾート温泉名宿5選",
+    title: "11・12・1月高知：宿毛湾の奇跡「だるま夕日」と四万十川の冬旅！冬が旬の「宿毛寒ブリ・本マグロ・四万十牛」と太平洋一望のリゾート温泉名宿5選",
     description: "冬の澄み切った大気と水平線が織りなす奇跡の光景を巡る11〜1月の高知西南・宿毛＆四万十特集。冬の宿毛湾を真っ赤に染め上げる蜃気楼の絶景「だるま夕日」や、静寂に包まれる日本最後の清流「四万十川」の沈下橋。豊後水道の荒波が育む脂の乗った「宿毛寒ブリ」、養殖本マグロ、幻の「四万十牛」すき焼き。太平洋の絶景パノラマを望む温泉リゾートなど厳選名宿5選を徹底ガイドします。",
     images: ['https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -284,11 +284,7 @@ export default function KochiSukumoShimantoWinterPage() {
               <Sparkles className="w-4 h-4 text-amber-300" />
               <span>11月・12月・1月冬の四国旅情特集</span>
             </div>
-            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 text-white drop-shadow-md">
-              高知・宿毛＆四万十<br className="hidden sm:inline" />
-              奇跡の絶景「宿毛湾だるま夕日」と四万十川の冬情趣<br className="hidden sm:inline" />
-              冬が旬の「宿毛寒ブリ・本マグロ・四万十牛」＆絶景名宿5選
-            </h1>
+            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 text-white drop-shadow-md">高知・宿毛＆四万十<br className="hidden sm:inline" /> 奇跡の絶景「宿毛湾だるま夕日」と四万十川の冬情趣<br className="hidden sm:inline" /> 冬が旬の「宿毛寒ブリ・本マグロ・四万十牛」＆絶景名宿5選</h1>
             <p className="max-w-3xl mx-auto text-sm md:text-lg text-orange-100 leading-relaxed drop-shadow">
               冬の冷気と海水温が生み出す奇跡の蜃気楼現象「宿毛湾のだるま夕日」。エメラルドグリーンに澄み渡る清流・四万十川の沈下橋を巡り、豊後水道の荒波が育んだ極上の「宿毛寒ブリ」と本マグロ、幻の四万十牛に舌鼓を打つ冬の土佐西南の贅沢旅。
             </p>

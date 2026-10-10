@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【姫路駅前】世界遺産姫路城・好古園紅葉＆名物姫路おでん！2,000円台〜泊まれる格安ホテル5選',
+  title: '姫路駅前：世界遺産姫路城・好古園紅葉＆名物姫路おでん！2,000円台〜泊まれる格安ホテル5選',
   description: '白鷺城と称される世界遺産・姫路城と大名庭園・好古園の錦秋の紅葉ライトアップ！生姜醤油で味わう名物姫路おでん。山陽新幹線・JR姫路駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>世界遺産姫路城＆好古園の紅葉・名物姫路おでん</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【姫路駅前】好古園紅葉＆名物姫路おでん！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「姫路駅前」好古園紅葉＆名物姫路おでん！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             白漆喰の優美な天守がそびえる世界遺産「姫路城」と、城を借景にした日本庭園「好古園」の紅葉会・ライトアップ。生姜醤油をかけてハフハフといただく熱々の名物「姫路おでん」や穴子めしに舌鼓！姫路駅周辺で2,000円台〜泊まれる優良ホテルを厳選。
           </p>

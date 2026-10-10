@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-stalactite-caves-stay/" },
-  title: '日本三大鍾乳石洞窟＆無数の石筍が創る地底宮殿・ジオアドベンチャー名湯宿×ふるさと納税完全ガイド【2026年最新】あぶくま洞・玉泉洞・井倉洞',
+  title: '日本三大鍾乳石洞窟＆無数の石筍が創る地底宮殿・ジオアドベンチャー名湯宿×ふるさと納税厳選ガイドあぶくま洞・玉泉洞・井倉洞',
   description: '数十万年の滴が創り上げた天然のシャンデリア！福島「あぶくま洞」東洋一の鍾乳石種類と磐梯熱海温泉ホテル華の湯、沖縄南城「玉泉洞」100万本の石筍とサザンビーチホテル＆リゾート沖縄、岡山新見「井倉洞」高さ240m絶壁と地底滝の奇観・新見グランドホテルみよしや。日本三大鍾乳石洞窟の神秘の地底美を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大鍾乳石・地底アート特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大鍾乳石洞窟＆無数の石筍が創る地底宮殿・ジオアドベンチャー名湯宿×ふるさと納税完全ガイド【2026年最新】あぶくま洞・玉泉洞・井倉洞',
+    title: '日本三大鍾乳石洞窟＆無数の石筍が創る地底宮殿・ジオアドベンチャー名湯宿×ふるさと納税厳選ガイドあぶくま洞・玉泉洞・井倉洞',
     description: '数十万年の滴が創り上げた天然のシャンデリア！福島「あぶくま洞」東洋一の鍾乳石種類と磐梯熱海温泉ホテル華の湯、沖縄南城「玉泉洞」100万本の石筍とサザンビーチホテル＆リゾート沖縄、岡山新見「井倉洞」高さ240m絶壁と地底滝の奇観・新見グランドホテルみよしや。日本三大鍾乳石洞窟の神秘の地底美を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-stalactite-caves-stay',
@@ -155,9 +155,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大鍾乳石・地底アート特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大鍾乳石洞窟＆地底宮殿宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大鍾乳石洞窟＆地底宮殿宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             石灰岩台地の地下で炭酸ガスを含んだ地下水が数十万年もの歳月をかけて溶かし、再結晶化させることで形成された「日本三大鍾乳石洞窟（三大鍾乳洞窟美）」――鍾乳石の種類と密度の豊富さで東洋一と称され「滝根御殿」や「月の世界」のイルミネーションが輝く福島の「あぶくま洞」、全長5000mにおよび30万年の歳月が創り出した100万本以上の鍾乳石が林立する国内最大級の沖縄の「玉泉洞（おきなわワールド）」、そして高さ240mのカルスト絶壁の裂け目に広がり落差50mの地底の滝が轟音を立てる岡山の「井倉洞」。年間を通して一定の気温に保たれた洞内は、夏は涼しく冬は暖かく、一歩踏み入れれば自然が創り出した現代アートのような美しさに圧倒されます。洞窟探検の後は、名湯露天風呂やリゾートホテルでゆったり寛ぎ、福島牛・沖縄黒豚・千屋牛を味わう特別な休日を楽天ふるさと納税でお楽しみください。
           </p>

@@ -5,7 +5,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hokkaido-travel-budget-plan/" },
-  title: "【北海道旅行 予算】2泊3日・3泊4日はいくら必要？レンタカーなしでも回れる費用計画ガイド",
+  title: "北海道旅行 予算：2泊3日・3泊4日はいくら必要？レンタカーなしでも回れる費用計画ガイド",
   description: "北海道旅行の予算を2泊3日・3泊4日で徹底シミュレーション！札幌・小樽・函館のエリア別費用、飛行機・新幹線・フェリーの交通費比較、海鮮丼・ジンギスカン・スープカレーのグルメ予算まで。レンタカーなしでJR＆バスで回るプランも。",
 };
 
@@ -52,10 +52,7 @@ export default function HokkaidoBudgetGuide() {
       {/* Hero Section */}
       <div className="bg-blue-50 py-12 px-4 border-b border-blue-100">
         <div className="max-w-4xl mx-auto">
-          <h1 className="font-journal-serif text-3xl md:text-4xl font-bold text-blue-900 mb-6 leading-tight">
-            【北海道旅行 予算】2泊3日・3泊4日はいくら必要？<br/>
-            レンタカーなしでも回れる費用計画ガイド
-          </h1>
+          <h1 className="font-journal-serif text-3xl md:text-4xl font-bold text-blue-900 mb-6 leading-tight">「北海道旅行 予算」2泊3日・3泊4日はいくら必要？<br/> レンタカーなしでも回れる費用計画ガイド</h1>
           <p className="text-blue-800 text-lg">
             「北海道はお金がかかる」「レンタカーがないと無理」と思っていませんか？<br/>
             実は、移動手段と日数の組み合わせ次第で費用は劇的に変わります！

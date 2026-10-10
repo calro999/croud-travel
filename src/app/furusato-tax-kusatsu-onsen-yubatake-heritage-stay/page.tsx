@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【草津温泉×ふるさと納税】湯畑徒歩圏内の老舗名宿特集！源泉かけ流しと名湯巡り完全ガイド｜望雲・ホテル一井・奈良屋',
+  title: '草津温泉をふるさと納税でお得に旅する！湯畑徒歩圏内の老舗名宿特集！源泉かけ流しと名湯巡り厳選ガイド｜望雲・ホテル一井・奈良屋',
   description: '日本三名泉の筆頭・群馬県草津温泉を楽天ふるさと納税でお得に贅沢ステイ！創業慶長四年・二つの源泉を引く「望雲」、湯畑が目の前の絶景老舗「ホテル一井」、湯守が丹精込めて仕込む極上の白旗源泉「奈良屋」を徹底比較。草津町トラベルクーポンの賢い活用法を完全網羅。',
   keywords: '草津温泉 ふるさと納税,草津温泉 湯畑 宿 ふるさと納税,草津温泉 望雲 クーポン,ホテル一井 草津 ふるさと納税,奈良屋 草津町 宿泊',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kusatsu-onsen-yubatake-heritage-stay/",
   },
   openGraph: {
-    title: '【草津温泉×ふるさと納税】湯畑徒歩圏内の老舗名宿特集！源泉かけ流しと名湯巡り完全ガイド｜望雲・ホテル一井・奈良屋',
+    title: '草津温泉をふるさと納税でお得に旅する！湯畑徒歩圏内の老舗名宿特集！源泉かけ流しと名湯巡り厳選ガイド｜望雲・ホテル一井・奈良屋',
     description: '日本三名泉の筆頭・群馬県草津温泉を楽天ふるさと納税でお得に贅沢ステイ！創業慶長四年・二つの源泉を引く「望雲」、湯畑が目の前の絶景老舗「ホテル一井」、湯守が丹精込めて仕込む極上の白旗源泉「奈良屋」を徹底比較。草津町トラベルクーポンの賢い活用法を完全網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kusatsu-onsen-yubatake-heritage-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -24,7 +24,7 @@ export default function FurusatoArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【草津温泉×ふるさと納税】湯畑徒歩圏内の老舗名宿特集！源泉かけ流しと名湯巡り完全ガイド｜望雲・ホテル一井・奈良屋',
+    headline: '草津温泉をふるさと納税でお得に旅する！湯畑徒歩圏内の老舗名宿特集！源泉かけ流しと名湯巡り厳選ガイド｜望雲・ホテル一井・奈良屋',
     description: '日本三名泉の筆頭・群馬県草津温泉を楽天ふるさと納税でお得に贅沢ステイ！創業慶長四年・二つの源泉を引く「望雲」、湯畑が目の前の絶景老舗「ホテル一井」、湯守が丹精込めて仕込む極上の白旗源泉「奈良屋」を徹底比較。草津町トラベルクーポンの賢い活用法を完全網羅。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function FurusatoArticlePage() {
           <span>♨️</span>
           <span>群馬県草津町 ふるさと納税・名湯宿特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【草津温泉×ふるさと納税】湯畑徒歩圏内の老舗名宿特集！源泉かけ流しと名湯巡り完全ガイド｜望雲・ホテル一井・奈良屋
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">草津温泉をふるさと納税でお得に旅する！湯畑徒歩圏内の老舗名宿特集！源泉かけ流しと名湯巡り厳選ガイド｜望雲・ホテル一井・奈良屋</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed">
           日本三名泉の筆頭・群馬県草津温泉を楽天ふるさと納税でお得に贅沢ステイ！創業慶長四年・二つの源泉を引く「望雲」、湯畑が目の前の絶景老舗「ホテル一井」、湯守が丹精込めて仕込む極上の白旗源泉「奈良屋」を徹底比較。草津町トラベルクーポンの賢い活用法を完全網羅。
         </p>

@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '【2026年】本格BAR＆銘酒ウイスキー・クラフトジン！大人の夜を愉しむオーセンティックホテル5選 ｜ 日本全国・旅宿クラウド',
+  title: '2026年：本格BAR＆銘酒ウイスキー・クラフトジン！大人の夜を愉しむオーセンティックホテル5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！希少なジャパニーズウイスキーやクラフトジンのテイスティングができる本格バー併設の温泉ホテル5選。大人の贅沢な夜を満喫。',
   keywords: ["2026年", "本格BAR", "銘酒ウイスキー", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/craft-gin-whisky-distillery-boutique-stay/",
   },
   openGraph: {
-    title: '【2026年】本格BAR＆銘酒ウイスキー・クラフトジン！大人の夜を愉しむオーセンティックホテル5選',
+    title: '2026年：本格BAR＆銘酒ウイスキー・クラフトジン！大人の夜を愉しむオーセンティックホテル5選',
     description: '2026年最新！希少なジャパニーズウイスキーやクラフトジンのテイスティングができる本格バー併設の温泉ホテル5選。大人の贅沢な夜を満喫。',
     url: 'https://croud-travel.pages.dev/craft-gin-whisky-distillery-boutique-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -172,9 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>銘酒ウイスキー×本格BARホテル</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            【2026年】本格BAR＆銘酒ウイスキー・クラフトジン！大人の夜を愉しむオーセンティックホテル5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」本格BAR＆銘酒ウイスキー・クラフトジン！大人の夜を愉しむオーセンティックホテル5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             暖炉の火が静かに揺れる重厚なメインバーで、バーテンダーが注ぐ至極のシングルモルトやクラフトカクテル。温泉で心地よく温まったあとに、グラスを傾けながら語らう極上のひととき。お酒を愛する大人のためのハイエンドなオーセンティックステイ。
           </p>

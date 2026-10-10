@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-bonfire-marshmallow-bar-guide/" },
-  title: "【焚き火BAR＆焼きマシュマロ体験】秋の夜長をウイスキーと楽しむ！大人の焚き火グランピング特集 ｜ 日本全国・旅宿クラウド",
+  title: "焚き火BAR＆焼きマシュマロ体験：秋の夜長をウイスキーと楽しむ！大人の焚き火グランピング特集 ｜ 日本全国・旅宿クラウド",
   description:
     "パチパチと爆ぜる薪の音と揺れる炎に癒やされる秋の夜。フリーフローのクラフトビールやウイスキーBAR、巨大スモア体験、アコースティック音楽が流れる夜特化型グランピングの過ごし方。",
   keywords: ["焚き火BAR", "焼きマシュマロ体験", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
@@ -172,9 +172,7 @@ export default function SilverWeekGlampingBonfireMarshmallowBarPage() {
             </span>
           </div>
 
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【焚き火BAR＆焼きマシュマロ体験】秋の夜長をウイスキーと楽しむ！大人の焚き火グランピング特集
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「焚き火BAR＆焼きマシュマロ体験」秋の夜長をウイスキーと楽しむ！大人の焚き火グランピング特集</h1>
 
           <p className="text-xs md:text-sm text-rose-100/90 leading-relaxed font-medium">
             パチパチと爆ぜる薪の音、暗闇にゆらめく琥珀色の炎、そしてグラスに注がれる芳醇なウイスキー。夜が長くなるシルバーウィークのグランピングは「夜時間の過ごし方」こそが最大の醍醐味です。フリーフローのナイトBARや本格的な焼きマシュマロ（スモア）体験、星空の下で静かに語り合えるファイヤーピットを完備した、大人のための夜特化型リゾートをご案内します。

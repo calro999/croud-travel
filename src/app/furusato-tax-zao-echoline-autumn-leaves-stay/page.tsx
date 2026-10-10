@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            蔵王エコーラインの絶景ドライブ紅葉＆強酸性白濁名湯・蔵王温泉で味わう極上山形牛
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">蔵王エコーラインの絶景ドライブ紅葉＆強酸性白濁名湯・蔵王温泉で味わう極上山形牛</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             蔵王エコーラインを彩る黄金と深紅のパノラマ。日本屈指の強酸性美肌湯ととろける山形牛に酔いしれる秋の山形路。
           </p>

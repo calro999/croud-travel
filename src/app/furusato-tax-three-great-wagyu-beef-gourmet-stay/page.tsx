@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-wagyu-beef-gourmet-stay/" },
-  title: '日本三大和牛＆最高峰霜降り肉会席・本場美食宿×ふるさと納税完全ガイド【2026年最新】松阪牛・神戸牛・近江牛',
+  title: '日本三大和牛＆最高峰霜降り肉会席・本場美食宿×ふるさと納税厳選ガイド松阪牛・神戸牛・近江牛',
   description: '肉の芸術品を本場で味わい尽くす贅沢！三重松阪「松阪牛」とろける甘みと芳醇な香り本場すき焼きとエースイン松阪、兵庫神戸「神戸牛」世界が認めたキメ細やかなサシと有馬温泉有馬御苑、滋賀近江八幡「近江牛」400年の歴史誇る元祖ブランド牛と琵琶湖一望の休暇村近江八幡。日本三大和牛の極上鉄板焼き・すき焼きディナーを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大和牛・極上美食特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大和牛＆最高峰霜降り肉会席・本場美食宿×ふるさと納税完全ガイド【2026年最新】松阪牛・神戸牛・近江牛',
+    title: '日本三大和牛＆最高峰霜降り肉会席・本場美食宿×ふるさと納税厳選ガイド松阪牛・神戸牛・近江牛',
     description: '肉の芸術品を本場で味わい尽くす贅沢！三重松阪「松阪牛」とろける甘みと芳醇な香り本場すき焼きとエースイン松阪、兵庫神戸「神戸牛」世界が認めたキメ細やかなサシと有馬温泉有馬御苑、滋賀近江八幡「近江牛」400年の歴史誇る元祖ブランド牛と琵琶湖一望の休暇村近江八幡。日本三大和牛の極上鉄板焼き・すき焼きディナーを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-wagyu-beef-gourmet-stay',
@@ -155,9 +155,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大和牛・極上美食特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大和牛＆最高峰霜降り美食宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大和牛＆最高峰霜降り美食宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             血統の徹底管理と職人たちの愛情によって極限まで高められた黒毛和牛の頂点「日本三大和牛」――人肌で溶ける不飽和脂肪酸の甘い脂と深みのある香味が「肉の芸術品」と称される三重の「松阪牛」、細かく入り込んだ霜降り（サシ）が熱によって溶け出し世界中の美食家を魅了する兵庫の「神戸ビーフ（神戸牛）」、そして江戸時代には彦根藩から将軍家へ養生薬として味噌漬けが献上された歴史を持ち、豊かな琵琶湖水系の自然で育まれた滋賀の「近江牛」。本場ならではの鮮度と職人の火入れでいただくステーキやすき焼き、しゃぶしゃぶは、一口ごとに至福の感動をもたらします。名店直営の料理旅館や有馬の名湯、レイクビューリゾートを拠点に、極上の肉料理と地酒に酔いしれる特別な夜を楽天ふるさと納税でお楽しみください。
           </p>

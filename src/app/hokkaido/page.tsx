@@ -28,7 +28,7 @@ interface RakutenCategoryData {
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://croud-travel.pages.dev";
 
 export const metadata: Metadata = {
-  title: "【北海道旅行 完全計画ガイド 2026】2泊3日・3泊4日モデルコース＆札幌・小樽・函館・富良野・海鮮グルメ・絶景温泉宿 ｜ 旅宿クラウド",
+  title: "北海道旅行 完全計画ガイド 2026：2泊3日・3泊4日モデルコース＆札幌・小樽・函館・富良野・海鮮グルメ・絶景温泉宿 ｜ 旅宿クラウド",
   description:
     "北海道旅行の計画を完全サポート！札幌・小樽・函館・富良野の王道＆広域モデルコース、絶品海鮮丼＆朝食自慢ホテル、登別・定山渓温泉旅館、カップル・子連れファミリー向け宿までおすすめの宿泊プランまで完全網羅。",
   keywords: ["北海道旅行", "完全計画ガイド", "2026", "2泊3日", "3泊4日モデルコース", "札幌", "小樽"],
@@ -98,12 +98,7 @@ export default function HokkaidoHubPage() {
           </span>
         </div>
 
-        <h1 className="text-3xl md:text-5xl font-black font-journal-serif leading-tight text-white">
-          【北海道旅行 完全ガイド】<br />
-          <span className="bg-gradient-to-r from-blue-200 via-teal-100 to-amber-100 bg-clip-text text-transparent">
-            壮大な自然・海鮮グルメ・名湯温泉＆札幌・函館・富良野
-          </span>
-        </h1>
+        <h1 className="text-3xl md:text-5xl font-black font-journal-serif leading-tight text-white">「北海道旅行 厳選ガイド」<br /> <span className="bg-gradient-to-r from-blue-200 via-teal-100 to-amber-100 bg-clip-text text-transparent"> 壮大な自然・海鮮グルメ・名湯温泉＆札幌・函館・富良野 </span></h1>
 
         <p className="text-blue-100/90 text-xs md:text-sm max-w-3xl leading-relaxed font-medium">
           大自然と美食の宝庫・北海道。「広すぎて回り方がわからない」「札幌・小樽・函館・富良野の移動時間は？」「朝食日本一のホテルや名湯温泉は？」を縦掘りし、おすすめの宿泊施設情報で繋ぐ総合ガイド。

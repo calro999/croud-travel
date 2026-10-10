@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nara-station-solo-retreat-onsen-stay/" },
-  title: '【奈良駅前ひとり旅・天然温泉おこもり】全館畳敷き・吉野桜の湯・若草山＆東大寺！古都1300年の静寂に癒やされる厳選3宿',
+  title: '奈良駅前ひとり旅・天然温泉おこもり：全館畳敷き・吉野桜の湯・若草山＆東大寺！古都1300年の静寂に癒やされる厳選3宿',
   description: 'JR・近鉄奈良駅すぐ！全館素足で過ごせる和風プレミアムホテル「御宿 野乃奈良」、自家源泉天然温泉「奈良若草の湯」と快適デスクワークの「ダイワロイネットホテル奈良」、駅西口直結で上質スパと美食を誇る「ホテル日航奈良」を徹底比較。',
   keywords: '奈良 一人旅 ホテル,奈良駅 温泉 ホテル,御宿野乃奈良,ダイワロイネットホテル奈良,ホテル日航奈良,奈良 おこもり 宿',
   openGraph: {
-    title: '【奈良駅前ひとり旅・天然温泉おこもり】全館畳敷き・吉野桜の湯・若草山＆東大寺！古都1300年の静寂に癒やされる厳選3宿',
+    title: '奈良駅前ひとり旅・天然温泉おこもり：全館畳敷き・吉野桜の湯・若草山＆東大寺！古都1300年の静寂に癒やされる厳選3宿',
     description: 'JR・近鉄奈良駅すぐ！全館素足で過ごせる和風プレミアムホテル「御宿 野乃奈良」、自家源泉天然温泉「奈良若草の湯」と快適デスクワークの「ダイワロイネットホテル奈良」、駅西口直結で上質スパと美食を誇る「ホテル日航奈良」を徹底比較。',
     url: 'https://croud-travel.pages.dev/nara-station-solo-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【奈良駅前ひとり旅・天然温泉おこもり】全館畳敷き・吉野桜の湯・若草山＆東大寺！古都1300年の静寂に癒やされる厳選3宿',
+    headline: '奈良駅前ひとり旅・天然温泉おこもり：全館畳敷き・吉野桜の湯・若草山＆東大寺！古都1300年の静寂に癒やされる厳選3宿',
     description: 'JR・近鉄奈良駅すぐ！全館素足で過ごせる和風プレミアムホテル「御宿 野乃奈良」、自家源泉天然温泉「奈良若草の湯」と快適デスクワークの「ダイワロイネットホテル奈良」、駅西口直結で上質スパと美食を誇る「ホテル日航奈良」を徹底比較。',
     author: {
       '@type': 'Organization',
@@ -72,9 +72,7 @@ export default function ArticlePage() {
         <div className="inline-block bg-amber-700 text-white text-xs font-semibold px-3 py-1 rounded-full mb-3 tracking-wider">
           ひとり旅・出張・サウナ＆名湯特集
         </div>
-        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">
-          【奈良駅前ひとり旅・天然温泉おこもり】全館畳敷き・吉野桜の湯・若草山＆東大寺！古都1300年の静寂に癒やされる厳選3宿
-        </h1>
+        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">「奈良駅前ひとり旅・天然温泉おこもり」全館畳敷き・吉野桜の湯・若草山＆東大寺！古都1300年の静寂に癒やされる厳選3宿</h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.13 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>

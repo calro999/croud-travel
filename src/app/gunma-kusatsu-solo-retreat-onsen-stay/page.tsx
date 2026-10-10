@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/gunma-kusatsu-solo-retreat-onsen-stay/" },
-  title: '【草津温泉ひとり旅・名湯おこもり】湯畑源泉かけ流し・貸切風呂・上州和牛！日本三名泉の湯ヂカラに浸る贅沢ソロ温泉厳選3宿',
+  title: '草津温泉ひとり旅・名湯おこもり：湯畑源泉かけ流し・貸切風呂・上州和牛！日本三名泉の湯ヂカラに浸る贅沢ソロ温泉厳選3宿',
   description: '日本三名泉・草津温泉！湯畑徒歩2分の好立地で全館源泉かけ流し貸切風呂が評判の「湯の宿 みさご」、洗練された和モダン空間で大人のおこもりステイが叶う「湯畑泉水」、草津の名湯とコスパ抜群の滞在が魅力の「山の湯ホテル」を楽天トラベル公式API最新データに基づき徹底比較。',
   keywords: '草津温泉 一人旅 宿,草津温泉 ホテル 一人,湯の宿みさご,湯畑泉水,草津温泉 山の湯ホテル,草津 湯畑 温泉 ひとり旅',
   openGraph: {
-    title: '【草津温泉ひとり旅・名湯おこもり】湯畑源泉かけ流し・貸切風呂・上州和牛！日本三名泉の湯ヂカラに浸る贅沢ソロ温泉厳選3宿',
+    title: '草津温泉ひとり旅・名湯おこもり：湯畑源泉かけ流し・貸切風呂・上州和牛！日本三名泉の湯ヂカラに浸る贅沢ソロ温泉厳選3宿',
     description: '日本三名泉・草津温泉！湯畑徒歩2分の好立地で全館源泉かけ流し貸切風呂が評判の「湯の宿 みさご」、洗練された和モダン空間で大人のおこもりステイが叶う「湯畑泉水」、草津の名湯とコスパ抜群の滞在が魅力の「山の湯ホテル」を楽天トラベル公式API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/gunma-kusatsu-solo-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【草津温泉ひとり旅・名湯おこもり】湯畑源泉かけ流し・貸切風呂・上州和牛！日本三名泉の湯ヂカラに浸る贅沢ソロ温泉厳選3宿',
+    headline: '草津温泉ひとり旅・名湯おこもり：湯畑源泉かけ流し・貸切風呂・上州和牛！日本三名泉の湯ヂカラに浸る贅沢ソロ温泉厳選3宿',
     description: '日本三名泉・草津温泉！湯畑徒歩2分の好立地で全館源泉かけ流し貸切風呂が評判の「湯の宿 みさご」、洗練された和モダン空間で大人のおこもりステイが叶う「湯畑泉水」、草津の名湯とコスパ抜群の滞在が魅力の「山の湯ホテル」を楽天トラベル公式API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             群馬・草津温泉ひとり旅＆名湯源泉かけ流しおこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【草津温泉ひとり旅・名湯おこもり】湯畑源泉かけ流し・貸切風呂・上州和牛！日本三名泉の湯ヂカラに浸る贅沢ソロ温泉厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「草津温泉ひとり旅・名湯おこもり」湯畑源泉かけ流し・貸切風呂・上州和牛！日本三名泉の湯ヂカラに浸る贅沢ソロ温泉厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

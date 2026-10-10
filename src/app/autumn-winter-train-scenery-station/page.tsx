@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-train-scenery-station/" },
-  title: "【車窓の旅】紅葉＆雪景色！絶景観光列車と駅近温泉旅館 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "車窓の旅：紅葉＆雪景色！絶景観光列車と駅近温泉旅館 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "車窓を流れる息をのむ紅葉と銀世界！京都嵯峨野トロッコ列車、福島奥会津只見線、富山黒部峡谷トロッコ、青森津軽鉄道ストーブ列車など、日本屈指の絶景ローカル線と温泉宿を徹底解説。",
   keywords: ["車窓の旅", "紅葉", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
@@ -98,9 +98,7 @@ export default function SeasonalFeaturePage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             SCENIC TRAIN JOURNEY
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【車窓の旅】紅葉＆雪景色！絶景観光列車と駅近温泉旅館 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「車窓の旅」紅葉＆雪景色！絶景観光列車と駅近温泉旅館 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             ガタゴトと揺れる列車に身を委ね、窓の外に広がる山々の錦秋や白銀の雪景色を眺める贅沢。名物駅弁を広げ、終着駅や沿線の名湯に降り立つ、心温まる鉄道旅へ。
           </p>

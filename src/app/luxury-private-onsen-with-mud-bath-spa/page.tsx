@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】天然クレイで全身つるつる美肌！泥パック泥湯＆源泉掛け流し泥温泉宿5選 | 日本全国・旅宿クラウド',
+  title: '2026年：天然クレイで全身つるつる美肌！泥パック泥湯＆源泉掛け流し泥温泉宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！大地のミネラルを豊富に含んだ天然泥湯・泥パック体験！古い角質を落とし美白効果抜群のにごり湯と極上エステが自慢の名湯温泉宿5選。',
   keywords: ["2026年", "源泉掛け流し泥温泉宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: '【2026年】天然クレイで全身つるつる美肌！泥パック泥湯＆源泉掛け流し泥温泉宿5選',
+    title: '2026年：天然クレイで全身つるつる美肌！泥パック泥湯＆源泉掛け流し泥温泉宿5選',
     description: '2026年最新！大地のミネラルを豊富に含んだ天然泥湯・泥パック体験！古い角質を落とし美白効果抜群のにごり湯と極上エステが自慢の名湯温泉宿5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/luxury-private-onsen-with-mud-bath-spa',
@@ -141,9 +141,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> 天然ミネラル泥パック×極上美肌泥湯
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】天然クレイで全身つるつる美肌！泥パック泥湯＆源泉掛け流し泥温泉宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」天然クレイで全身つるつる美肌！泥パック泥湯＆源泉掛け流し泥温泉宿5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             地中深くから湧き出るミネラルたっぷりの天然泥（クレイ）。全身に塗って乾かす天然泥パックと、濃厚なグレーの泥湯温泉で湯上がりは驚くほどのすべすべ素肌に。自然の恵みで心身をまるごとデトックスする極上スパステイ。
           </p>

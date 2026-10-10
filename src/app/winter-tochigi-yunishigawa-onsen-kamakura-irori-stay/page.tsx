@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月栃木】湯西川温泉の雪見露天風呂と名！名宿5選',
+  title: '11・12・1月栃木：湯西川温泉の雪見露天風呂と名！名宿5選',
   description: '11月から1月、日光国立公園の最深部・平家落人伝説が息づく秘境「湯西川（ゆにしがわ）温泉」は、深山幽谷の静寂と白銀の雪景色に包まれます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '湯西川温泉 宿泊, 湯西川 かまくら祭, 湯西川 囲炉裏料理, 平家落人の里 宿, 花と華 湯西川, 平の高房 湯西川, 揚羽 湯西川, 11月 12月 1月 栃木旅行, 日光 秘湯',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tochigi-yunishigawa-onsen-kamakura-irori-stay/"
   },
   openGraph: {
-    title: '【11・12・1月栃木】湯西川温泉の雪見露天風呂と名！名宿5選',
+    title: '11・12・1月栃木：湯西川温泉の雪見露天風呂と名！名宿5選',
     description: '11月から1月、日光国立公園の最深部・平家落人伝説が息づく秘境「湯西川（ゆにしがわ）温泉」は、深山幽谷の静寂と白銀の雪景色に包まれます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-tochigi-yunishigawa-onsen-kamakura-irori-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月栃木】平家落人の隠れ里・湯西川温泉の雪見露天風呂と名物平家囲炉裏会席＆日本夜景遺産かまくら祭を巡る名宿5選",
+    title: "11・12・1月栃木：平家落人の隠れ里・湯西川温泉の雪見露天風呂と名物平家囲炉裏会席＆日本夜景遺産かまくら祭を巡る名宿5選",
     description: "11月から1月、日光国立公園の最深部・平家落人伝説が息づく秘境「湯西川（ゆにしがわ）温泉」は、深山幽谷の静寂と白銀の雪景色に包まれます。壇ノ浦の合戦に敗れた平家の一門が隠れ住んだとされるこの里には、茅葺き屋根の古民家や清らかな湯西川のせせらぎ、そして何百年も受け継がれてきた「平家囲炉裏料理」の文化が色濃く残ります。囲炉裏端の炭火で香ばしく焼き上げる川魚の塩焼きや名物ばんだい餅、野鳥やジビエの串焼き、竹筒で温める熱燗「かっぽ酒」は、冬の冷えた体に染み渡る至極の郷土の味。アルカリ性単純温泉の柔らかな源泉掛け流し露天風呂から眺める粉雪の渓谷美は格別です。さらに1月下旬から河川敷を数千個のミニかまくらが幻想的に照らし出す「日本夜景遺産・湯西川温泉かまくら祭」の開催時期に合わせて訪れたい、歴史と温もりに満ちた厳選5宿を詳しくご案内します。",
     images: ['https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -245,9 +245,7 @@ export default function TochigiYunishigawaOnsenWinterPage() {
             <Flame className="w-3.5 h-3.5" />
             11月・12月・1月限定 平家落人の里・囲炉裏とかまくら祭特集
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-tight">
-            【栃木・湯西川温泉】平家落人の隠れ里・雪見露天風呂と名物平家囲炉裏会席＆日本夜景遺産かまくら祭を巡る名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-tight">「栃木・湯西川温泉」平家落人の隠れ里・雪見露天風呂と名物平家囲炉裏会席＆日本夜景遺産かまくら祭を巡る名宿5選</h1>
           <p className="text-amber-100 text-sm sm:text-base leading-relaxed pt-2">
             壇ノ浦の合戦から800年余。白銀の渓谷に抱かれた日光の最奥・湯西川温泉で、炭火のパチパチとはぜる音を聞きながら味わう名物囲炉裏料理と、日本夜景遺産かまくら祭の幻想世界へ。
           </p>

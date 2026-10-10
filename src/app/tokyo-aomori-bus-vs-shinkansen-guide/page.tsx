@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tokyo-aomori-bus-vs-shinkansen-guide/" },
-  title: "【東京〜青森・弘前】新幹線はやぶさ vs 夜行バス徹底比較！料金半額以下の夜行旅＆奥入瀬渓流・弘前城1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+  title: "東京〜青森・弘前：新幹線はやぶさ vs 夜行バス徹底比較！料金半額以下の夜行旅＆奥入瀬渓流・弘前城1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "東京から青森・弘前へ安く行くには？東北新幹線「はやぶさ」と夜行高速バス（ノクターン号・JAMJAMライナー）の料金・所要時間比較！片道4,000円台〜の夜行バスで大間まぐろ丼、奥入瀬渓流、弘前アップルパイを満喫する1泊2日モデルコース。",
   keywords: ["東京〜青森", "弘前", "新幹線はやぶさ", "vs", "奥入瀬渓流", "弘前城1泊2日モデルコース", "温泉宿"],
 };
@@ -144,9 +144,7 @@ export default function HighwayBusArticlePage() {
               交通手段の徹底比較＆最適ルート
             </span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【東京〜青森・弘前】新幹線はやぶさ vs 夜行バス徹底比較！料金半額以下の夜行旅＆奥入瀬渓流・弘前城1泊2日モデルコース
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">「東京〜青森・弘前」新幹線はやぶさ vs 夜行バス徹底比較！料金半額以下の夜行旅＆奥入瀬渓流・弘前城1泊2日モデルコース</h1>
           <p className="text-xs md:text-sm text-cyan-100/90 leading-relaxed font-medium">
             東北新幹線「はやぶさ」なら東京〜新青森最速約3時間・片道約17,870円（往復約35,740円）。一方、夜行高速バスなら片道約4,500円〜9,500円！往復で2万円以上節約でき、浮いたお金で青森のっけ丼、極上大間まぐろ、星野リゾート奥入瀬渓流ホテルや酸ヶ湯温泉を贅沢に楽しめます。
           </p>

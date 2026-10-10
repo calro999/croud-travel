@@ -1,4 +1,4 @@
-# 【由布院】湯の坪街道食べ歩き＆金鱗湖散策に便利なおすすめホテル6選！スイーツと朝霧パノラマ
+# 由布院：湯の坪街道食べ歩き＆金鱗湖散策に便利なおすすめホテル6選！スイーツと朝霧パノラマ
 
 - URL: https://croud-travel.pages.dev/posts/yufuin-yunotsubo-street-walking-gourmet-guide/
 - 宿泊施設名: 由布院倶楽部

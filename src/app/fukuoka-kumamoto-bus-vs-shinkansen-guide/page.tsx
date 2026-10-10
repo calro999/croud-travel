@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/fukuoka-kumamoto-bus-vs-shinkansen-guide/" },
-  title: "【博多から熊本 新幹線と高速バスどっち？】ひのくに号 vs 九州新幹線比較＆熊本城・あか牛1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+  title: "博多から熊本 新幹線と高速バスどっち？：ひのくに号 vs 九州新幹線比較＆熊本城・あか牛1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "福岡・博多・天神から熊本へ行くなら九州新幹線と高速バス「ひのくに号」どっちがお得？料金（バスなら半額の約2,500円）・時間・本数比較。桜町・熊本城前直着の利便性と復興天守閣見学・あか牛丼を満喫する1泊2日モデルコース。",
   keywords: ["博多から熊本", "新幹線と高速バスどっち？", "ひのくに号", "vs", "九州新幹線比較", "熊本城", "あか牛1泊2日モデルコース"],
 };
@@ -154,9 +154,7 @@ export default function HighwayBusArticlePage() {
               交通手段の徹底比較＆最適ルート
             </span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【博多から熊本 新幹線と高速バスどっち？】ひのくに号 vs 九州新幹線比較＆熊本城・あか牛1泊2日モデルコース
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">「博多から熊本 新幹線と高速バスどっち？」ひのくに号 vs 九州新幹線比較＆熊本城・あか牛1泊2日モデルコース</h1>
           <p className="text-xs md:text-sm text-cyan-100/90 leading-relaxed font-medium">
             九州新幹線なら博多〜熊本最速32分・片道約5,230円（指定席）。一方、高速バス「ひのくに号」なら天神・博多から直行で片道約2,500円（往復割でさらにお得）！10〜15分間隔で頻発運行し、熊本市中心街（通町筋・桜町BT）へ直接アクセスできる抜群の利便性。
           </p>

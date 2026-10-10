@@ -42,9 +42,7 @@ export default function Page() {
             <span className="inline-block w-2 h-2 rounded-full bg-rose-400 animate-pulse" />
             日本三大美林・森林セラピー特集
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">
-            日本三大美林＆天然木アロマ温泉宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三大美林＆天然木アロマ温泉宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg md:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed font-normal">
             清々しい木の香りに包まれる極上の森林浴ステイ！青森「青森ヒバ」日本一の耐久性と芳香・むつグランドホテル斗南温泉、秋田「秋田スギ」樹齢二百年の巨木と大館曲げわっぱ・大館ぽかぽか温泉ホテル、長野「木曽ヒノキ」伊勢神宮御用達の銘木と木曽路宿場町・きそふくしま温泉おん宿蔦屋。日本三大美林の清冽な癒やしと銘木風呂を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。
           </p>

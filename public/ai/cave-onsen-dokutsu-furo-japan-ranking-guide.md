@@ -1,4 +1,4 @@
-# 【全国】洞窟温泉・洞窟風呂おすすめランキング7選！秘湯・絶景・東海や和歌山の名湯ガイド
+# 全国：洞窟温泉・洞窟風呂おすすめランキング7選！秘湯・絶景・東海や和歌山の名湯ガイド
 
 - URL: https://croud-travel.pages.dev/posts/cave-onsen-dokutsu-furo-japan-ranking-guide/
 - 宿泊施設名: 全国洞窟温泉・秘湯名宿特集

@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【砂丘サンドバギー激走】鳥取砂丘・南紀白浜の爽快アクティビティ＆海鮮温泉リゾート宿5選",
+  title: "砂丘サンドバギー激走：鳥取砂丘・南紀白浜の爽快アクティビティ＆海鮮温泉リゾート宿5選",
   description: "雄大な砂丘を四輪駆動サンドバギーやファットバイクで疾走する爽快アクティビティ！日本海の絶景と砂の芸術を体感した後は、展望露天風呂と松葉ガニ・日本海の海の幸を堪能できる人気リゾートを厳選。",
   keywords: "鳥取砂丘 ホテル 温泉, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/super-panoramic-sand-buggy-adventure-stay/",
   },
   openGraph: {
-    title: "【砂丘サンドバギー激走】鳥取砂丘・南紀白浜の爽快アクティビティ＆海鮮温泉リゾート宿5選",
+    title: "砂丘サンドバギー激走：鳥取砂丘・南紀白浜の爽快アクティビティ＆海鮮温泉リゾート宿5選",
     description: "雄大な砂丘を四輪駆動サンドバギーやファットバイクで疾走する爽快アクティビティ！日本海の絶景と砂の芸術を体感した後は、展望露天風呂と松葉ガニ・日本海の海の幸を堪能できる人気リゾートを厳選。",
     url: 'https://croud-travel.pages.dev/super-panoramic-sand-buggy-adventure-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【砂丘サンドバギー激走】鳥取砂丘・南紀白浜の爽快アクティビティ＆海鮮温泉リゾート宿5選",
+    title: "砂丘サンドバギー激走：鳥取砂丘・南紀白浜の爽快アクティビティ＆海鮮温泉リゾート宿5選",
     description: "雄大な砂丘を四輪駆動サンドバギーやファットバイクで疾走する爽快アクティビティ！日本海の絶景と砂の芸術を体感した後は、展望露天風呂と松葉ガニ・日本海の海の幸を堪能できる人気リゾートを厳選。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>砂丘サンドバギー＆日本海温泉</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【砂丘サンドバギー激走】鳥取砂丘・南紀白浜の爽快アクティビティ＆海鮮温泉リゾート宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「砂丘サンドバギー激走」鳥取砂丘・南紀白浜の爽快アクティビティ＆海鮮温泉リゾート宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             雄大な砂丘を四輪駆動サンドバギーやファットバイクで疾走する爽快アクティビティ！日本海の絶景と砂の芸術を体感した後は、展望露天風呂と松葉ガニ・日本海の海の幸を堪能できる人気リゾートを厳選。
           </p>

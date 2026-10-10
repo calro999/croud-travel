@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】天然ウォータースライダーを滑走！キャニオニング体験＆爽快森林露天リゾート5選 | 日本全国・旅宿クラウド',
+  title: '2026年：天然ウォータースライダーを滑走！キャニオニング体験＆爽快森林露天リゾート5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！透き通る渓谷を体一つで滑り降りるキャニオニング！大自然のアドベンチャー後に森林露天風呂やサウナで極上のととのいを体験する宿5選。',
   keywords: ["2026年", "爽快森林露天リゾート5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: '【2026年】天然ウォータースライダーを滑走！キャニオニング体験＆爽快森林露天リゾート5選',
+    title: '2026年：天然ウォータースライダーを滑走！キャニオニング体験＆爽快森林露天リゾート5選',
     description: '2026年最新！透き通る渓谷を体一つで滑り降りるキャニオニング！大自然のアドベンチャー後に森林露天風呂やサウナで極上のととのいを体験する宿5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/super-panoramic-canyon-canyoning-adventure-stay',
@@ -193,9 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> 爽快キャニオニング×森林パノラマ露天
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】天然ウォータースライダーを滑走！キャニオニング体験＆爽快森林露天リゾート5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」天然ウォータースライダーを滑走！キャニオニング体験＆爽快森林露天リゾート5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             エメラルドグリーンの清流が削り出した天然のウォータースライダーや滝壺ダイブ！体一つで渓谷を下るスリル満点のキャニオニングを満喫した後は、森林浴気分を味わえる開放的な露天風呂やサウナで心身を癒やすアドベンチャーステイ。
           </p>

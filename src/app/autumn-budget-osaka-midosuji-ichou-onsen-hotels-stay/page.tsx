@@ -3,11 +3,11 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【秋の大阪×格安】御堂筋の黄金イチョウ並木と道頓堀グルメ！天然温泉＆大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選【2026最新】',
+  title: '秋の大阪×格安：御堂筋の黄金イチョウ並木と道頓堀グルメ！天然温泉＆大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」',
   description: '約4kmにわたる御堂筋のイチョウ並木と大阪城公園の紅葉、USJの秋イベント！たこ焼きや串カツのグルメを食べ歩き、地下から湧き出る天然温泉大浴場で寛げる大阪のコスパ最強格安ホテル5選。スーパーホテル花乃井、リーベルホテル大阪などを徹底比較！',
   keywords: '大阪 格安 ホテル, 大阪 天然温泉 ホテル, 御堂筋 イチョウ並木 紅葉, 道頓堀 グルメ 宿, スーパーホテル大阪天然温泉 花乃井, リーベルホテル大阪',
   openGraph: {
-    title: '【秋の大阪×格安】御堂筋の黄金イチョウ並木と道頓堀グルメ！天然温泉＆大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選【2026最新】',
+    title: '秋の大阪×格安：御堂筋の黄金イチョウ並木と道頓堀グルメ！天然温泉＆大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」',
     description: '御堂筋のイチョウ並木と道頓堀グルメ！天然温泉付き1泊3,000円〜6,000円台のコスパ最強大阪ホテル5選。',
     type: 'article',
     url: 'https://croud-travel.com/autumn-budget-osaka-midosuji-ichou-onsen-hotels-stay',
@@ -32,9 +32,7 @@ export default function OsakaBudgetAutumnPage() {
             <span className="px-3 py-1 bg-teal-600 text-white text-xs font-bold rounded-full">格安・関西特集</span>
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">1泊目安: 3,000円台〜6,000円台</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">
-            【秋の大阪×格安】御堂筋の黄金イチョウ並木と道頓堀グルメ！天然温泉＆大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の大阪×格安」御堂筋の黄金イチョウ並木と道頓堀グルメ！天然温泉＆大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選</h1>
           <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
             梅田から難波まで続く約4kmの黄金ロード「御堂筋のイチョウ並木」。大阪城の紅葉や道頓堀・新世界のソウルフードを食べ歩き、地下1,000mから湧く本物の天然温泉で寛げる大阪の掘り出し物ホテルをご紹介します。
           </p>

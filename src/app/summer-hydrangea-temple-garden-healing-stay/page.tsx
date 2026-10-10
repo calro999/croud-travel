@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '【2026年】青や紫のグラデーション！紫陽花寺めぐり＆あじさい庭園露天風呂の初夏温泉宿5選 ｜ 日本全国・旅宿クラウド',
+  title: '2026年：青や紫のグラデーション！紫陽花寺めぐり＆あじさい庭園露天風呂の初夏温泉宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！鎌倉・箱根・京都など数千株の紫陽花が咲き誇る名所寺院めぐりと、色鮮やかなあじさい庭園を望む露天風呂が自慢の初夏の名宿5選。',
   keywords: ["2026年", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/summer-hydrangea-temple-garden-healing-stay/",
   },
   openGraph: {
-    title: '【2026年】青や紫のグラデーション！紫陽花寺めぐり＆あじさい庭園露天風呂の初夏温泉宿5選',
+    title: '2026年：青や紫のグラデーション！紫陽花寺めぐり＆あじさい庭園露天風呂の初夏温泉宿5選',
     description: '2026年最新！鎌倉・箱根・京都など数千株の紫陽花が咲き誇る名所寺院めぐりと、色鮮やかなあじさい庭園を望む露天風呂が自慢の初夏の名宿5選。',
     url: 'https://croud-travel.pages.dev/summer-hydrangea-temple-garden-healing-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -172,9 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>紫陽花名所×あじさい庭園露天</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            【2026年】青や紫のグラデーション！紫陽花寺めぐり＆あじさい庭園露天風呂の初夏温泉宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」青や紫のグラデーション！紫陽花寺めぐり＆あじさい庭園露天風呂の初夏温泉宿5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             しっとりとした初夏の雨に濡れて一層美しさを増す紫陽花（アジサイ）。境内一面を埋め尽くすあじさい小径の散策や、宿の日本庭園を彩る色とりどりの花々。湯船に浮かべられた紫陽花の水中花を眺めながら、心静かに癒やされる初夏の風情旅。
           </p>

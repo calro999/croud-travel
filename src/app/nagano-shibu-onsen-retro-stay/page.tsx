@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagano-shibu-onsen-retro-stay/" },
-  title: "【長野・信州渋温泉】九湯めぐり＆金具屋・スノーモンキー極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "長野・信州渋温泉：九湯めぐり＆金具屋・スノーモンキー極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "信州・渋温泉エリア完全特化！九つの外湯めぐり（厄除巡浴外湯めぐり）、国登録有形文化財「歴史の宿 金具屋」、地獄谷野猿公苑（スノーモンキー）と石畳温泉街の老舗旅館を徹底解説。",
   keywords: ["長野", "信州渋温泉", "九湯めぐり", "金具屋", "スノーモンキー極上宿", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             SHIBU ONSEN RETRO GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【長野・信州渋温泉】九湯めぐり＆金具屋・スノーモンキー極上宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「長野・信州渋温泉」九湯めぐり＆金具屋・スノーモンキー極上宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             石畳が敷き詰められたレトロな小径と、下駄の音が心地よく響く「信州渋温泉」。宿泊者限定で鍵が渡される9つの外湯めぐり、木造建築美の極致・金具屋。ノスタルジーに浸る大人の温泉旅路。
           </p>

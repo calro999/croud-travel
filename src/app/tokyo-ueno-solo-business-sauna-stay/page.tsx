@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tokyo-ueno-solo-business-sauna-stay/" },
-  title: '【上野出張・極上サウナステイ】新幹線直結・徒士の湯・アメ横グルメ！下町情緒と北の玄関口を極める厳選3宿',
+  title: '上野出張・極上サウナステイ：新幹線直結・徒士の湯・アメ横グルメ！下町情緒と北の玄関口を極める厳選3宿',
   description: '東北・上越・北陸新幹線のターミナル上野駅！最上階露天風呂と本格サウナ・名物夜鳴きそばが揃う「ドーミーイン上野・御徒町」、アメ横至近で天照ラジウム温泉スパを備える「センチュリオンホテル＆スパ上野駅前」、24時間快適スパ＆ラウンジの「グランカスタマ上野店」を徹底比較。',
   keywords: '上野 出張 ホテル,上野 サウナ ホテル,ドーミーイン上野御徒町,センチュリオンホテル上野駅前,グランカスタマ上野,上野 一人旅 温泉',
   openGraph: {
-    title: '【上野出張・極上サウナステイ】新幹線直結・徒士の湯・アメ横グルメ！下町情緒と北の玄関口を極める厳選3宿',
+    title: '上野出張・極上サウナステイ：新幹線直結・徒士の湯・アメ横グルメ！下町情緒と北の玄関口を極める厳選3宿',
     description: '東北・上越・北陸新幹線のターミナル上野駅！最上階露天風呂と本格サウナ・名物夜鳴きそばが揃う「ドーミーイン上野・御徒町」、アメ横至近で天照ラジウム温泉スパを備える「センチュリオンホテル＆スパ上野駅前」、24時間快適スパ＆ラウンジの「グランカスタマ上野店」を徹底比較。',
     url: 'https://croud-travel.pages.dev/tokyo-ueno-solo-business-sauna-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【上野出張・極上サウナステイ】新幹線直結・徒士の湯・アメ横グルメ！下町情緒と北の玄関口を極める厳選3宿',
+    headline: '上野出張・極上サウナステイ：新幹線直結・徒士の湯・アメ横グルメ！下町情緒と北の玄関口を極める厳選3宿',
     description: '東北・上越・北陸新幹線のターミナル上野駅！最上階露天風呂と本格サウナ・名物夜鳴きそばが揃う「ドーミーイン上野・御徒町」、アメ横至近で天照ラジウム温泉スパを備える「センチュリオンホテル＆スパ上野駅前」、24時間快適スパ＆ラウンジの「グランカスタマ上野店」を徹底比較。',
     author: {
       '@type': 'Organization',
@@ -72,9 +72,7 @@ export default function ArticlePage() {
         <div className="inline-block bg-amber-700 text-white text-xs font-semibold px-3 py-1 rounded-full mb-3 tracking-wider">
           ひとり旅・出張・サウナ＆名湯特集
         </div>
-        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">
-          【上野出張・極上サウナステイ】新幹線直結・徒士の湯・アメ横グルメ！下町情緒と北の玄関口を極める厳選3宿
-        </h1>
+        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">「上野出張・極上サウナステイ」新幹線直結・徒士の湯・アメ横グルメ！下町情緒と北の玄関口を極める厳選3宿</h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.13 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>

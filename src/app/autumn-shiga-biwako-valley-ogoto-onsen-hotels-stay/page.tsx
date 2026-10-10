@@ -3,11 +3,11 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【秋の琵琶湖】びわ湖バレイの紅葉テラスとおごと温泉！近江牛とレイクビューを満喫するおすすめ名宿5選【2026最新】',
+  title: '秋の琵琶湖：びわ湖バレイの紅葉テラスとおごと温泉！近江牛とレイクビューを満喫するおすすめ名宿5選「2026最新」',
   description: '標高1100mの「びわ湖テラス」から見下ろす紅葉とびわ湖ブルーの大パノラマ！比叡山延暦寺の紅葉巡りにも最適な開湯1200年のおごと温泉。暖灯館きくのや、びわ湖花街道、湯元館など近江牛会席と美肌温泉の極上宿5選を徹底解説！',
   keywords: 'びわ湖バレイ 紅葉, びわ湖テラス 秋, おごと温泉 宿, 比叡山延暦寺 紅葉, おごと温泉 暖灯館きくのや, びわ湖花街道',
   openGraph: {
-    title: '【秋の琵琶湖】びわ湖バレイの紅葉テラスとおごと温泉！近江牛とレイクビューを満喫するおすすめ名宿5選【2026最新】',
+    title: '秋の琵琶湖：びわ湖バレイの紅葉テラスとおごと温泉！近江牛とレイクビューを満喫するおすすめ名宿5選「2026最新」',
     description: '標高1100mの「びわ湖テラス」から見下ろす紅葉とびわ湖ブルーの大パノラマ！おごと温泉の極上宿5選。',
     type: 'article',
     url: 'https://croud-travel.com/autumn-shiga-biwako-valley-ogoto-onsen-hotels-stay',
@@ -32,9 +32,7 @@ export default function BiwakoOgotoAutumnPage() {
             <span className="px-3 py-1 bg-amber-600 text-white text-xs font-bold rounded-full">秋の滋賀・琵琶湖特集</span>
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">見頃目安: 10月下旬〜11月中旬</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">
-            【秋の琵琶湖】びわ湖バレイの紅葉テラスとおごと温泉！近江牛とレイクビューを満喫するおすすめ名宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の琵琶湖」びわ湖バレイの紅葉テラスとおごと温泉！近江牛とレイクビューを満喫するおすすめ名宿5選</h1>
           <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
             青く輝く琵琶湖を見下ろす山頂テラスから眺める錦秋のパノラマ絶景。伝教大師最澄が開湯した歴史あるおごと温泉で、極上の近江牛しゃぶしゃぶと琵琶湖を望む展望露天風呂に心癒やされる宿をご紹介します。
           </p>

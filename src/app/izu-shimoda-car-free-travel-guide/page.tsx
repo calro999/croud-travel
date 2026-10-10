@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/izu-shimoda-car-free-travel-guide/" },
-  title: "【伊豆・下田 車なし観光 1泊2日モデルコース】伊豆急行＆路線バスで巡る白浜海岸・ペリーロード・金目鯛旅 ｜ 日本全国・旅宿クラウド",
+  title: "伊豆・下田 車なし観光 1泊2日モデルコース：伊豆急行＆路線バスで巡る白浜海岸・ペリーロード・金目鯛旅 ｜ 日本全国・旅宿クラウド",
   description: "レンタカーなしで楽しむ伊豆急下田の旅！特急踊り子直通、伊豆急行フリーきっぷ、東海バスを活用して白浜大浜海岸、ペリーロードのレトロカフェ、下田海中水族館、駅前＆海一望の温泉宿を満喫する完全ガイド。",
   keywords: ["伊豆", "下田", "車なし観光", "1泊2日モデルコース", "伊豆急行", "路線バスで巡る白浜海岸", "ペリーロード"],
 };
@@ -186,10 +186,7 @@ export default function IzuShimodaCarFreeTravelGuidePage() {
             </span>
           </div>
 
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white drop-shadow-sm">
-            【伊豆・下田 車なし観光 1泊2日モデルコース】<br />
-            <span className="text-cyan-200">伊豆急行＆路線バスで巡る白浜海岸・ペリーロード・金目鯛旅</span>
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white drop-shadow-sm">「伊豆・下田 車なし観光 1泊2日モデルコース」<br /> <span className="text-cyan-200">伊豆急行＆路線バスで巡る白浜海岸・ペリーロード・金目鯛旅</span></h1>
 
           <p className="text-sm md:text-base text-cyan-50 leading-relaxed font-medium pt-2">
             「伊豆の先端・下田は車がないと行けない」と思っていませんか？実は東京駅から特急踊り子号で乗り換えなし直通！駅前からは路線バスと伊豆急行線が網の目のように結ばれ、エメラルドグリーンの白浜大浜海岸や風情あふれるペリーロード、絶品金目鯛料理まで、レンタカーいらずで驚くほど快適に巡ることができます。

@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【山形駅前】名物芋煮鍋＆霞城公園紅葉！3,000円台〜泊まれる格安ホテル5選',
+  title: '山形駅前：名物芋煮鍋＆霞城公園紅葉！3,000円台〜泊まれる格安ホテル5選',
   description: '秋の山形名物・里芋と山形牛の絶品芋煮鍋、最上義光公ゆかりの国指定史跡・霞城公園（山形城跡）の紅葉！山形新幹線・山形駅周辺で1泊3,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>秋の風物詩・山形牛芋煮鍋＆霞城公園の錦秋</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【山形駅前】名物芋煮鍋＆霞城公園の紅葉！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「山形駅前」名物芋煮鍋＆霞城公園の紅葉！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             秋の東北を代表するソウルフード「山形芋煮」。ホクホクの里芋と風味豊かな山形牛、甘辛い醤油出汁が染み渡る熱々鍋は旅情たっぷり！最上義光公の居城跡・霞城公園の美しい濠と紅葉を散策し、山形駅周辺で3,000円台〜泊まれる優良ホテルを厳選。
           </p>

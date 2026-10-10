@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-autumn-foliage-gorge-onsen-stay/" },
-  title: '紅葉渓谷＆錦秋の絶景露天風呂宿×ふるさと納税完全ガイド【2026年最新】定山渓・奥日光・京都嵐山の秋色名宿',
+  title: '紅葉渓谷＆錦秋の絶景露天風呂宿×ふるさと納税厳選ガイド定山渓・奥日光・京都嵐山の秋色名宿',
   description: '日本屈指の紅葉名所！北海道定山渓豊平峡、栃木奥日光中禅寺湖、京都嵐山保津川の渓谷美を愛でる秋の特等席宿。赤や黄金色に染まる山々を客室や露天風呂から眺める錦秋ステイを楽天ふるさと納税宿泊クーポンでお得に予約する完全ガイド。',
   keywords: ["紅葉渓谷", "2026年最新", "定山渓", "奥日光", "京都嵐山の秋色名宿", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: '紅葉渓谷＆錦秋の絶景露天風呂宿×ふるさと納税完全ガイド【2026年最新】定山渓・奥日光・京都嵐山の秋色名宿',
+    title: '紅葉渓谷＆錦秋の絶景露天風呂宿×ふるさと納税厳選ガイド定山渓・奥日光・京都嵐山の秋色名宿',
     description: '日本屈指の紅葉名所！北海道定山渓豊平峡、栃木奥日光中禅寺湖、京都嵐山保津川の渓谷美を愛でる秋の特等席宿。赤や黄金色に染まる山々を客室や露天風呂から眺める錦秋ステイを楽天ふるさと納税宿泊クーポンでお得に予約する完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-autumn-foliage-gorge-onsen-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FurusatoTaxPage() {
           <span className="inline-block px-4 py-1.5 rounded-full text-xs md:text-sm font-black bg-gradient-to-r from-amber-500 to-yellow-400 text-slate-950 mb-5 shadow-lg shadow-amber-500/20">
             紅葉渓谷・錦秋露天風呂特集
           </span>
-          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">
-            紅葉渓谷＆錦秋の絶景露天風呂宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">紅葉渓谷＆錦秋の絶景露天風呂宿×ふるさと納税ガイド</h1>
           <p className="text-sm md:text-lg text-slate-300 leading-relaxed font-medium">
             日本屈指の紅葉名所！北海道定山渓豊平峡、栃木奥日光中禅寺湖、京都嵐山保津川の渓谷美を愛でる秋の特等席宿。赤や黄金色に染まる山々を客室や露天風呂から眺める錦秋ステイを楽天ふるさと納税宿泊クーポンでお得に予約する完全ガイド。
           </p>

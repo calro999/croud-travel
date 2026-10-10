@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '霊峰富士の絶景を湯船から一望！富士山＆河口湖ビュー露天風呂名門宿×ふるさと納税完全攻略ガイド【2026年最新】鐘山苑・うぶや・湖南荘',
+  title: '霊峰富士の絶景を湯船から一望！富士山＆河口湖ビュー露天風呂名門宿×ふるさと納税極上旅ガイド鐘山苑・うぶや・湖南荘',
   description: '世界遺産・富士山の圧倒的な美しさを露天風呂から眼前に見渡す感動体験！「庭園と感動の宿 富士山温泉 ホテル鐘山苑。」「河口湖温泉 うぶや」「富士河口湖温泉 湖南荘」を、山梨県富士吉田市・富士河口湖町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。三段構造の深湯露天風呂、全室富士山ビュー、屋上展望足湯を堪能。',
   keywords: ["2026年最新", "鐘山苑", "うぶや", "湖南荘", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-fuji-view-open-air-bath-luxury-stay/",
   },
   openGraph: {
-    title: '霊峰富士の絶景を湯船から一望！富士山＆河口湖ビュー露天風呂名門宿×ふるさと納税完全攻略ガイド【2026年最新】鐘山苑・うぶや・湖南荘',
+    title: '霊峰富士の絶景を湯船から一望！富士山＆河口湖ビュー露天風呂名門宿×ふるさと納税極上旅ガイド鐘山苑・うぶや・湖南荘',
     description: '世界遺産・富士山の圧倒的な美しさを露天風呂から眼前に見渡す感動体験！「庭園と感動の宿 富士山温泉 ホテル鐘山苑。」「河口湖温泉 うぶや」「富士河口湖温泉 湖南荘」を、山梨県富士吉田市・富士河口湖町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。三段構造の深湯露天風呂、全室富士山ビュー、屋上展望足湯を堪能。',
     url: 'https://croud-travel.pages.dev/furusato-tax-fuji-view-open-air-bath-luxury-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoFujiViewOpenAirBathStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           日本の象徴！富士山ビュー露天風呂宿特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          霊峰富士の絶景を湯船から一望！富士山＆河口湖ビュー露天風呂名門宿×ふるさと納税完全攻略ガイド【2026年最新】鐘山苑・うぶや・湖南荘
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">霊峰富士の絶景を湯船から一望！富士山＆河口湖ビュー露天風呂名門宿×ふるさと納税極上旅ガイド鐘山苑・うぶや・湖南荘</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoFujiViewOpenAirBathStayPage() {
               富士山の見える絶景露天風呂！【２０２４年プロが選んだ旅館１００選・全国総合８位】
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “家族全員が大満足、また季節を変えて訪れたい「素晴らしい」の一言です。私ら夫婦、16歳と10歳の子供、83歳の父を連れての旅行に利用させていただきました。お部屋、庭園、お風呂、食事、太鼓のア… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D19206%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoFujiViewOpenAirBathStayPage() {
               コンセプトは「人生を祝う」。大切な記念日に富士山を眺めながらゆっくり休み、家族みんなでお祝い下さい。
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “食事も美味しく、お部屋もとても綺麗!ご飯もとても美味しく、お部屋もとても綺麗でした! ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D8053%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoFujiViewOpenAirBathStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               富士山が見える大浴場＆展望足湯。富士山側と河口湖側の露天風呂付や豊富な部屋タイプ。ご夕食はお部屋で。
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “お部屋からの眺めもお料理も最高でした。家族全員が大絶賛です。”
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

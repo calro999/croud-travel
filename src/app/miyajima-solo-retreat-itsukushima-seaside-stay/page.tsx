@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/miyajima-solo-retreat-itsukushima-seaside-stay/" },
-  title: '【宮島ひとり旅・瀬戸内海絶景おこもり】厳島神社大鳥居ビュー・宮島潮湯温泉・名物穴子飯！神の島で心洗われる厳選3宿',
+  title: '宮島ひとり旅・瀬戸内海絶景おこもり：厳島神社大鳥居ビュー・宮島潮湯温泉・名物穴子飯！神の島で心洗われる厳選3宿',
   description: '広島駅からJRとフェリーで約45分！大鳥居を望む展望ラウンジと島内唯一の潮湯温泉が自慢の「錦水館」、創業160年超・もみじ谷の深緑に佇む日本屈指の名旅館「みやじまの宿 岩惣」、フェリー乗り場すぐでコスパ抜群の「宮島コーラルホテル」を徹底比較。',
   keywords: '宮島 一人旅 宿,宮島 温泉 ひとり,宮島 錦水館 一人,みやじまの宿 岩惣,宮島コーラルホテル,厳島神社 穴子飯 牡蠣',
   openGraph: {
-    title: '【宮島ひとり旅・瀬戸内海絶景おこもり】厳島神社大鳥居ビュー・宮島潮湯温泉・名物穴子飯！神の島で心洗われる厳選3宿',
+    title: '宮島ひとり旅・瀬戸内海絶景おこもり：厳島神社大鳥居ビュー・宮島潮湯温泉・名物穴子飯！神の島で心洗われる厳選3宿',
     description: '広島駅からJRとフェリーで約45分！大鳥居を望む展望ラウンジと島内唯一の潮湯温泉が自慢の「錦水館」、創業160年超・もみじ谷の深緑に佇む日本屈指の名旅館「みやじまの宿 岩惣」、フェリー乗り場すぐでコスパ抜群の「宮島コーラルホテル」を徹底比較。',
     url: 'https://croud-travel.pages.dev/miyajima-solo-retreat-itsukushima-seaside-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【宮島ひとり旅・瀬戸内海絶景おこもり】厳島神社大鳥居ビュー・宮島潮湯温泉・名物穴子飯！神の島で心洗われる厳選3宿',
+    headline: '宮島ひとり旅・瀬戸内海絶景おこもり：厳島神社大鳥居ビュー・宮島潮湯温泉・名物穴子飯！神の島で心洗われる厳選3宿',
     description: '広島駅からJRとフェリーで約45分！大鳥居を望む展望ラウンジと島内唯一の潮湯温泉が自慢の「錦水館」、創業160年超・もみじ谷の深緑に佇む日本屈指の名旅館「みやじまの宿 岩惣」、フェリー乗り場すぐでコスパ抜群の「宮島コーラルホテル」を徹底比較。',
     author: {
       '@type': 'Organization',
@@ -73,9 +73,7 @@ export default function ArticlePage() {
         <div className="inline-block bg-amber-700 text-white text-xs font-semibold px-3 py-1 rounded-full mb-3 tracking-wider">
           ひとり旅・出張・サウナ＆名湯特集
         </div>
-        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">
-          【宮島ひとり旅・瀬戸内海絶景おこもり】厳島神社大鳥居ビュー・宮島潮湯温泉・名物穴子飯！神の島で心洗われる厳選3宿
-        </h1>
+        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">「宮島ひとり旅・瀬戸内海絶景おこもり」厳島神社大鳥居ビュー・宮島潮湯温泉・名物穴子飯！神の島で心洗われる厳選3宿</h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.12 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>

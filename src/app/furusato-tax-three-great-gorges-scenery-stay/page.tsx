@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-gorges-scenery-stay/" },
-  title: '日本三大渓谷美＆エメラルドグリーンの清流・奇岩絶景宿×ふるさと納税完全ガイド【2026年最新】清津峡・黒部峡谷・大杉谷',
+  title: '日本三大渓谷美＆エメラルドグリーンの清流・奇岩絶景宿×ふるさと納税厳選ガイド清津峡・黒部峡谷・大杉谷',
   description: '大自然が刻んだ圧倒的造形美！新潟十日町「清津峡」巨大柱状節理のパノラマトンネルと清津峡温泉いろりとほたるの宿せとぐち、富山黒部「黒部峡谷」トロッコ電車で行く大峡谷と宇奈月温泉老舗旅館延対寺荘、三重松阪・大台「大杉谷」手つかずの秘境原生渓谷とエースイン松阪。日本三大渓谷の絶景と清流の癒やしを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大渓谷・奇岩清流特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大渓谷美＆エメラルドグリーンの清流・奇岩絶景宿×ふるさと納税完全ガイド【2026年最新】清津峡・黒部峡谷・大杉谷',
+    title: '日本三大渓谷美＆エメラルドグリーンの清流・奇岩絶景宿×ふるさと納税厳選ガイド清津峡・黒部峡谷・大杉谷',
     description: '大自然が刻んだ圧倒的造形美！新潟十日町「清津峡」巨大柱状節理のパノラマトンネルと清津峡温泉いろりとほたるの宿せとぐち、富山黒部「黒部峡谷」トロッコ電車で行く大峡谷と宇奈月温泉老舗旅館延対寺荘、三重松阪・大台「大杉谷」手つかずの秘境原生渓谷とエースイン松阪。日本三大渓谷の絶景と清流の癒やしを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-gorges-scenery-stay',
@@ -158,9 +158,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大渓谷・奇岩清流特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大渓谷美＆清流大自然絶景宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大渓谷美＆清流大自然絶景宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             何万年もの歳月をかけて清流が岩を削り出して生み出した「日本三大渓谷美」――国の名勝・天然記念物に指定され、水鏡のトンネルアートで世界中から注目を集める新潟十日町の「清津峡」、北アルプスの険しい峰々を縫うようにトロッコ電車が走り抜ける日本一深いV字峡の富山「黒部峡谷」、そして吉野熊野国立公園の最奥部に位置し、滝と原生林が織りなす近畿最後の秘境・三重の「大杉谷」。垂直に聳え立つ岩肌のダイナミズム、川面を渡る清々しい風、そしてエメラルドグリーンに輝く水面は、訪れる人の五感を澄み渡らせてくれます。清流の息吹を感じる温泉宿を拠点に、新潟コシヒカリ・富山湾の白えび・三重の松阪牛を味わう至福の絶景旅を楽天ふるさと納税でお楽しみください。
           </p>

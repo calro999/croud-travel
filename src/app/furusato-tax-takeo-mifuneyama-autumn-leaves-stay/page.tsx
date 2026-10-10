@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '御船山楽園の日本最大級紅葉ライトアップ＆武雄温泉楼門！嬉野茶美肌の湯宿×ふるさと納税完全ガイド【2026年最新秋旅】佐賀',
+  title: '御船山楽園の日本最大級紅葉ライトアップ＆武雄温泉楼門！嬉野茶美肌の湯宿×ふるさと納税厳選ガイド佐賀',
   description: '11月上旬〜12月上旬に15万坪の大庭園が錦秋の光に包まれる佐賀「御船山楽園 紅葉まつり」。国登録記念物の御船山の断崖と御池に映る逆さ紅葉、1300年の歴史を誇る「武雄温泉 なかます旅館」「嬉野温泉 初音荘」「旅館千代乃屋」で佐賀牛ステーキやとろける嬉野温泉湯どうふを堪能。ふるさと納税で実質2,000円。',
   keywords: ["2026年最新秋旅", "佐賀", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-takeo-mifuneyama-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '御船山楽園の日本最大級紅葉ライトアップ＆武雄温泉楼門！嬉野茶美肌の湯宿×ふるさと納税完全ガイド【2026年最新秋旅】佐賀',
+    title: '御船山楽園の日本最大級紅葉ライトアップ＆武雄温泉楼門！嬉野茶美肌の湯宿×ふるさと納税厳選ガイド佐賀',
     description: '11月上旬〜12月上旬に15万坪の大庭園が錦秋の光に包まれる佐賀「御船山楽園 紅葉まつり」。国登録記念物の御船山の断崖と御池に映る逆さ紅葉、1300年の歴史を誇る「武雄温泉 なかます旅館」「嬉野温泉 初音荘」「旅館千代乃屋」で佐賀牛ステーキやとろける嬉野温泉湯どうふを堪能。ふるさと納税で実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-takeo-mifuneyama-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -113,9 +113,7 @@ export default function FeatureArticlePage() {
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">
-            御船山楽園の日本最大級紅葉ライトアップ＆武雄温泉楼門！嬉野茶美肌の湯宿×ふるさと納税完全ガイド【2026年最新秋旅】佐賀
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">御船山楽園の日本最大級紅葉ライトアップ＆武雄温泉楼門！嬉野茶美肌の湯宿×ふるさと納税厳選ガイド佐賀</h1>
           <p className="text-sm md:text-lg text-stone-200 max-w-3xl mx-auto leading-relaxed">
             15万坪を照らす御船山楽園の紅葉ライトアップと、肌を包み込む九州屈指のとろとろ美肌温泉。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
           </p>

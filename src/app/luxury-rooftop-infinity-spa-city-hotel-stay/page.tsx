@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '【2026年】都会の摩天楼を見下ろすルーフトップ温泉＆夜景インフィニティスパホテル5選 ｜ 日本全国・旅宿クラウド',
+  title: '2026年：都会の摩天楼を見下ろすルーフトップ温泉＆夜景インフィニティスパホテル5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！東京・横浜・大阪・福岡など都心の最上階ルーフトップで夜景と天然温泉を楽しむ極上アーバンリゾートホテル5選。非日常のシティステイ。',
   keywords: ["2026年", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/luxury-rooftop-infinity-spa-city-hotel-stay/",
   },
   openGraph: {
-    title: '【2026年】都会の摩天楼を見下ろすルーフトップ温泉＆夜景インフィニティスパホテル5選',
+    title: '2026年：都会の摩天楼を見下ろすルーフトップ温泉＆夜景インフィニティスパホテル5選',
     description: '2026年最新！東京・横浜・大阪・福岡など都心の最上階ルーフトップで夜景と天然温泉を楽しむ極上アーバンリゾートホテル5選。非日常のシティステイ。',
     url: 'https://croud-travel.pages.dev/luxury-rooftop-infinity-spa-city-hotel-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -172,9 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>ルーフトップ温泉×夜景インフィニティ</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            【2026年】都会の摩天楼を見下ろすルーフトップ温泉＆夜景インフィニティスパホテル5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」都会の摩天楼を見下ろすルーフトップ温泉＆夜景インフィニティスパホテル5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             都会のきらめく夜景と満天の星を最上階から一望できるルーフトップ露天風呂＆インフィニティスパ。日々の忙しさを忘れ、都市のパノラマを眼下にぬるめの天然温泉に浮かぶ贅沢。洗練されたバーラウンジやエステも備えた大人の極上シティリゾートを厳選しました。
           </p>

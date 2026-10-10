@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '名産地で味わう極上うなぎ会席＆蒲焼・ひつまぶし名湯宿×ふるさと納税完全ガイド【2026年最新】浜名湖・三島・柳川',
+  title: '名産地で味わう極上うなぎ会席＆蒲焼・ひつまぶし名湯宿×ふるさと納税厳選ガイド浜名湖・三島・柳川',
   description: '香ばしい炭火の煙と秘伝のタレ！全国屈指のうなぎ名産地で至高のうなぎ会席を堪能する大人の美食旅。うなぎ養殖発祥の地・静岡県浜名湖かんざんじ温泉の湖畔宿「ホテル鞠水亭」、富士山の清らかな伏流水で磨かれた三島うなぎの銘店巡りと最上階天然温泉「ドーミーイン三島」、情緒あふれる水郷柳川で蒸したて熱々のせいろ蒸しを味わう「柳川温泉ホテル 輝泉荘」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
   keywords: ["名産地で味わう極上うなぎ会席", "蒲焼", "ひつまぶし名湯宿×ふるさと納税", "2026年最新", "浜名湖", "三島", "柳川"],
   alternates: { canonical: baseUrl + '/furusato-tax-traditional-unagi-eel-gourmet-stay/' },
   openGraph: {
-    title: '名産地で味わう極上うなぎ会席＆蒲焼・ひつまぶし名湯宿×ふるさと納税完全ガイド【2026年最新】浜名湖・三島・柳川',
+    title: '名産地で味わう極上うなぎ会席＆蒲焼・ひつまぶし名湯宿×ふるさと納税厳選ガイド浜名湖・三島・柳川',
     description: '香ばしい炭火の煙と秘伝のタレ！全国屈指のうなぎ名産地で至高のうなぎ会席を堪能する大人の美食旅。うなぎ養殖発祥の地・静岡県浜名湖かんざんじ温泉の湖畔宿「ホテル鞠水亭」、富士山の清らかな伏流水で磨かれた三島うなぎの銘店巡りと最上階天然温泉「ドーミーイン三島」、情緒あふれる水郷柳川で蒸したて熱々のせいろ蒸しを味わう「柳川温泉ホテル 輝泉荘」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
     url: baseUrl + '/furusato-tax-traditional-unagi-eel-gourmet-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoTraditionalUnagiEelStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             秘伝タレ焼きうなぎ＆名産地温泉宿特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            名産地で味わう極上うなぎ会席＆蒲焼・ひつまぶし名湯宿×ふるさと納税完全ガイド【2026年最新】浜名湖・三島・柳川
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">名産地で味わう極上うなぎ会席＆蒲焼・ひつまぶし名湯宿×ふるさと納税厳選ガイド浜名湖・三島・柳川</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             日本の伝統食文化の中で、最も食欲をそそる芳醇な香りを放つ「うなぎの蒲焼」。皮目はパリッと香ばしく、中はふんわりととろけるような食感、そして何十年も継ぎ足されてきた秘伝の甘辛ダレが絡む炊きたてのご飯――その一口は、まさに日本人に生まれた幸せを感じさせる至極の瞬間です。うなぎ養殖120年以上の歴史を誇り浜名湖の絶景を望む静岡県かんざんじ温泉の「ホテル鞠水亭」、富士山の清らかな雪解け水に数日間打たれることで臭みを完全に抜き旨味だけを凝縮した三島うなぎの拠点「ドーミーイン三島」、そして掘割をどんこ舟で巡る川下りとタレの染みた熱々ご飯が絶品のせいろ蒸しが名物の福岡県水郷柳川の「柳川温泉ホテル 輝泉荘」。産地ならではの卓越した職人技と極上の名湯の組み合わせは、旅人の疲れた身体に確かな活力と極上の幸福感をもたらしてくれます。楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引）を使えば、実質自己負担2,000円で驚くほどお得に本格うなぎ会席ステイが実現。滋養と美味に満ちた、極上のうなぎ温泉紀行へ出かけましょう。
           </p>

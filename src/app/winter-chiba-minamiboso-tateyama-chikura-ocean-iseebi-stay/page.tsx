@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月千葉・南房総館山温泉】極上かずさ和牛を味わう！名宿5選',
+  title: '千葉・南房総館山温泉で過ごす冬の旅（11・12月）！極上かずさ和牛を味わう！名宿5選',
   description: '11月中旬から初冬の千葉・南房総（館山・千倉・白浜）は、厳しい寒さを忘れさせてくれる黒潮の恵みによる温暖な気候と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '館山温泉 宿泊, 千倉温泉 旅館, 千里の風, rokuza 鏡ヶ浦温泉, 房州伊勢海老 宿, かずさ和牛, 館山 富士山 夕景 露天風呂, 南房総 避寒旅行, 11月 12月 千葉温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-chiba-minamiboso-tateyama-chikura-ocean-iseebi-stay/"
   },
   openGraph: {
-    title: '【11・12月千葉・南房総館山温泉】極上かずさ和牛を味わう！名宿5選',
+    title: '千葉・南房総館山温泉で過ごす冬の旅（11・12月）！極上かずさ和牛を味わう！名宿5選',
     description: '11月中旬から初冬の千葉・南房総（館山・千倉・白浜）は、厳しい寒さを忘れさせてくれる黒潮の恵みによる温暖な気候と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-chiba-minamiboso-tateyama-chikura-ocean-iseebi-stay',
     siteName: 'クラドトラベル',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月千葉・南房総館山温泉＆千倉温泉】海越しに望む冠雪富士と温暖避寒の海辺名湯・房州伊勢海老＆地魚一本買い舟盛り・極上かずさ和牛を味わう名宿5選",
+    title: "千葉・南房総館山温泉＆千倉温泉で過ごす冬の旅（11・12月）！海越しに望む冠雪富士と温暖避寒の海辺名湯・房州伊勢海老＆地魚一本買い舟盛り・極上かずさ和牛を味わう名宿5選",
     description: "11月中旬から初冬の千葉・南房総（館山・千倉・白浜）は、厳しい寒さを忘れさせてくれる黒潮の恵みによる温暖な気候と、一足早い初春の気配が漂う関東屈指の避寒リゾート地です。初冬の大気が澄み渡るこの季節の最大の絶景は、穏やかな館山湾（別名・鏡ヶ浦）越しに、白銀の雪帽子を被った雄大な「富士山」が夕陽に染まりながら海の上に浮かび上がる夕景のパノラマ。太平洋と東京湾が交わるこの海域に湧く温泉は、太古の海水成分を濃密に含んだナトリウム-塩化物冷鉱泉（強塩泉）。湯船に身を沈めれば、塩分の被膜が身体を包み込み、湯上がり後も芯まで温かさが持続します。そして初冬の食卓を豪華絢爛に飾るのは、黒潮にもまれて甘みと歯ごたえが凝縮した「房州伊勢海老」、千倉や館山港の定置網で獲れたピチピチの地魚姿造り舟盛り、肉厚な活き鮑、さらに千葉県が誇る上質な霜降り黒毛和牛「かずさ和牛」のサーロインステーキ。心地よい潮風と絶景富士に癒やされる厳選名宿5選を徹底解説します。",
     images: ['https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -328,10 +328,7 @@ export default function ChibaMinamibosoTateyamaWinterPage() {
             <Palmtree className="w-4 h-4 text-cyan-300" />
             11月・12月 千葉・南房総の冬特集 ｜ 館山温泉＆千倉温泉
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            海越しに望む冠雪富士と温暖避寒の海辺名湯<br />
-            房州伊勢海老＆地魚一本買い舟盛りとかずさ和牛名宿
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">海越しに望む冠雪富士と温暖避寒の海辺名湯<br /> 房州伊勢海老＆地魚一本買い舟盛りとかずさ和牛名宿</h1>
           <p className="text-stone-300 text-sm sm:text-base max-w-2xl mx-auto leading-relaxed pt-2">
             黒潮がもたらす温暖な南房総。館山湾（鏡ヶ浦）越しに浮かぶ夕暮れの紅富士と、解禁された房州伊勢海老、定置網地魚舟盛りを堪能する厳選名宿5選。
           </p>

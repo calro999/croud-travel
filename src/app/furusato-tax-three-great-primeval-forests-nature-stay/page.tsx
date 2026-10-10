@@ -42,9 +42,7 @@ export default function Page() {
             <span className="inline-block w-2 h-2 rounded-full bg-rose-400 animate-pulse" />
             日本三大原生林・世界遺産特集
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">
-            日本三大原生林＆世界遺産ネイチャーリゾート×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三大原生林＆世界遺産ネイチャーリゾート×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg md:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed font-normal">
             人類の至宝、太古の息吹が宿る手つかずの森！北海道「知床原生林」オホーツク海を一望する知床第一ホテル、鹿児島「屋久島」樹齢数千年の縄文杉と白谷雲水峡・屋久島いわさきホテル、青森「白神山地」世界最大級のブナ原生林と日本海波打ち際の黄金崎不老ふ死温泉。日本三大原生林（世界自然遺産）の神秘を楽天ふるさと納税宿泊クーポンでお得に体感する完全ガイド。
           </p>

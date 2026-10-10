@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月今治】大山祇神社新春初詣！名宿5選',
+  title: '11・12・1月今治：大山祇神社新春初詣！名宿5選',
   description: '冬の瀬戸内海は澄み渡る青空と多島美が最も美しく輝く季節。世界初の三連吊橋「来島海峡大橋」が架かる愛媛県今治市と、日本総鎮守・大山祇神社が鎮座する大三島。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '今治 ホテル, しまなみ海道 ホテル, 大山祇神社 初詣, 来島海峡大橋 絶景, 鈍川温泉, 今治国際ホテル, GLAMPROOK しまなみ, 来島天然真鯛, 11月 12月 1月 愛媛 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-ehime-imabari-shimanami-oomishima-taimeshi-onsen-stay/"
   },
   openGraph: {
-    title: '【11・12・1月今治】大山祇神社新春初詣！名宿5選',
+    title: '11・12・1月今治：大山祇神社新春初詣！名宿5選',
     description: '冬の瀬戸内海は澄み渡る青空と多島美が最も美しく輝く季節。世界初の三連吊橋「来島海峡大橋」が架かる愛媛県今治市と、日本総鎮守・大山祇神社が鎮座する大三島。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-ehime-imabari-shimanami-oomishima-taimeshi-onsen-stay',
     type: 'article'
@@ -251,10 +251,7 @@ export default function EhimeImabariWinterFeaturePage() {
             <Waves className="w-4 h-4 text-cyan-300" />
             11月・12月・1月冬の特選旅｜愛媛・今治＆しまなみ海道
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">
-            冬の来島海峡絶景＆日本総鎮守・大山祇神社新春初詣！<br className="hidden sm:inline" />
-            来島天然真鯛と名湯に寛ぐ厳選宿5選
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">冬の来島海峡絶景＆日本総鎮守・大山祇神社新春初詣！<br className="hidden sm:inline" /> 来島天然真鯛と名湯に寛ぐ厳選宿5選</h1>
           <p className="text-base sm:text-lg text-slate-200/90 leading-relaxed max-w-4xl mb-8">
             瀬戸内海の多島美を貫く「しまなみ海道」。冬は青空の澄み渡る日が多く、来島海峡大橋の幾何学美と紺碧の海、遠く白雪の石鎚山連峰が織りなす大パノラマが最も鮮やかに望める奇跡のシーズンです。日本総鎮守・大山祇神社での新春開運初詣、来島海峡の激流に育まれた冬の最高峰「寒真鯛」の鯛めしや鯛ちり鍋、伊予牛、今治鉄板焼き鳥。伊予の三名湯「鈍川温泉」や「湯ノ浦温泉」の美肌湯に癒やされる特別な冬旅をご提案します。
           </p>

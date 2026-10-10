@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '日本三大龍穴＆龍神信仰の強力パワースポットと雲海・渓谷名宿×ふるさと納税完全ガイド【2026年最新】室生・貴船・箱根',
+  title: '日本三大龍穴＆龍神信仰の強力パワースポットと雲海・渓谷名宿×ふるさと納税厳選ガイド室生・貴船・箱根',
   description: '大地と天をつなぎ、水と雨を司る龍神が宿る日本最強の神聖なる地「日本三大龍穴」（奈良宇陀・室生龍穴神社吉祥龍穴、京都左京・貴船神社奥宮龍穴、神奈川箱根・箱根神社九頭龍神社本宮）。鬱蒼たる原生林と清冽な渓流、川床料理と雲海露天風呂。楽天ふるさと納税トラベルクーポンで実質2,000円負担で巡る龍神パワースポット巡礼ガイド。',
   keywords: ["日本三大龍穴", "渓谷名宿×ふるさと納税", "2026年最新", "室生", "貴船", "箱根", "温泉宿"],
   alternates: { canonical: baseUrl + '/furusato-tax-three-great-dragon-deity-shrines-sacred-stay/' },
   openGraph: {
-    title: '日本三大龍穴＆龍神信仰の強力パワースポットと雲海・渓谷名宿×ふるさと納税完全ガイド【2026年最新】室生・貴船・箱根',
+    title: '日本三大龍穴＆龍神信仰の強力パワースポットと雲海・渓谷名宿×ふるさと納税厳選ガイド室生・貴船・箱根',
     description: '大地と天をつなぎ、水と雨を司る龍神が宿る日本最強の神聖なる地「日本三大龍穴」（奈良宇陀・室生龍穴神社吉祥龍穴、京都左京・貴船神社奥宮龍穴、神奈川箱根・箱根神社九頭龍神社本宮）。鬱蒼たる原生林と清冽な渓流、川床料理と雲海露天風呂。楽天ふるさと納税トラベルクーポンで実質2,000円負担で巡る龍神パワースポット巡礼ガイド。',
     url: baseUrl + '/furusato-tax-three-great-dragon-deity-shrines-sacred-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoRound63ArticlePage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             日本三大龍穴・龍神パワースポット巡礼ステイ特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            日本三大龍穴＆龍神信仰の強力パワースポットと雲海・渓谷名宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">日本三大龍穴＆龍神信仰の強力パワースポットと雲海・渓谷名宿</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             日本列島の山河や気流のうねりそのものを龍の姿に見立て、水神・財運・昇運・心願成就の最高神として崇められてきた「龍神」。そのエネルギーが大地深くへと凝縮する聖なるポイントが「龍穴（りゅうけつ）」です。「日本三大龍穴」として知られる奈良室生の吉祥龍穴、京都貴船の奥宮龍穴、そして神奈川箱根芦ノ湖畔に鎮座する九頭龍神社。いずれも原生林の巨樹が立ち並び、清流が岩肌を噛み、濃密な神気が満ちる場所です。室生の山深い渓谷で龍神の棲む洞穴に向かって手を合わせ、貴船の清流川床でせせらぎを聴きながら旬の京会席に舌鼓を打ち、芦ノ湖の水上鳥居から富士山を仰ぐひととき。強大な開運・昇運のパワーを受け取った後は、歴史あるクラシックホテルや名門料理旅館で心身を解き放つ贅沢。楽天ふるさと納税トラベルクーポンを駆使して、人生の転機に訪れたい最高峰のスピリチュアルリトリートへ出かけましょう。
           </p>

@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            尾道・千光寺山の紅葉坂道としまなみ海道！瀬戸内海の多島美温泉・秋の地魚＆レモンポークを味わう広島旅
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">尾道・千光寺山の紅葉坂道としまなみ海道！瀬戸内海の多島美温泉・秋の地魚＆レモンポークを味わう広島旅</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             坂道と寺社を彩る秋の紅葉と、穏やかな尾道水道・瀬戸内の豊かな恵みに癒やされる旅
           </p>

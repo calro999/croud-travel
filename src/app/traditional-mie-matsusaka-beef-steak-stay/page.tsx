@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】肉の芸術品・特選松阪牛！炭火ステーキ・すき焼き会席＆伊勢志摩・鳥羽の極上宿5選 | 日本全国・旅宿クラウド',
+  title: '2026年：肉の芸術品・特選松阪牛！炭火ステーキ・すき焼き会席＆伊勢志摩・鳥羽の極上宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！日本最高峰のブランド和牛「松阪牛」の極上サーロインステーキ＆すき焼き！伊勢神宮参拝と鳥羽・賢島オーシャンビュー温泉旅館5選。',
   keywords: ["2026年", "肉の芸術品", "特選松阪牛！炭火ステーキ", "すき焼き会席", "伊勢志摩", "鳥羽の極上宿5選", "日本全国"],
   openGraph: {
-    title: '【2026年】肉の芸術品・特選松阪牛！炭火ステーキ・すき焼き会席＆伊勢志摩・鳥羽の極上宿5選',
+    title: '2026年：肉の芸術品・特選松阪牛！炭火ステーキ・すき焼き会席＆伊勢志摩・鳥羽の極上宿5選',
     description: '2026年最新！日本最高峰のブランド和牛「松阪牛」の極上サーロインステーキ＆すき焼き！伊勢神宮参拝と鳥羽・賢島オーシャンビュー温泉旅館5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/traditional-mie-matsusaka-beef-steak-stay',
@@ -193,9 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> 特選松阪牛会席×伊勢志摩オーシャン露天
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】肉の芸術品・特選松阪牛！炭火ステーキ・すき焼き会席＆伊勢志摩・鳥羽の極上宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」肉の芸術品・特選松阪牛！炭火ステーキ・すき焼き会席＆伊勢志摩・鳥羽の極上宿5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             きめ細やかなサシと芳醇な甘い香り。「肉の芸術品」と称される最高ランク松阪牛の炭火ステーキやすき焼き会席。伊勢神宮のお参りとともに、英虞湾や鳥羽湾の美しいリアス海岸を一望する温泉露天風呂で寛ぐ贅沢な三重ステイ。
           </p>

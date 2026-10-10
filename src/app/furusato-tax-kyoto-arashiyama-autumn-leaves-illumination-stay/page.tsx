@@ -4,14 +4,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '古都を紅に染める錦秋のパノラマ！京都嵐山・嵯峨野紅葉ライトアップ＆渡月橋畔名門温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】 | 旅宿クラウド',
+  title: '古都を紅に染める錦秋のパノラマ！京都嵐山・嵯峨野紅葉ライトアップ＆渡月橋畔名門温泉宿×ふるさと納税厳選ガイド | 旅宿クラウド',
   description: '10月下旬〜11月下旬、嵐山全体が朱と黄金の錦絵に染まる秋の京都！天龍寺庭園・常寂光寺・宝厳院の紅葉ライトアップと、嵐山温泉のとろりとした美肌湯に癒やされる「渡月亭」「花伝抄」「花筏」。本格京懐石と風雅な滞在を、楽天ふるさと納税トラベルクーポンで実質自己負担2,000円で楽しむ完全ガイド。',
   keywords: ["嵯峨野紅葉ライトアップ", "2026年最新秋旅", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kyoto-arashiyama-autumn-leaves-illumination-stay/"
   },
   openGraph: {
-    title: '古都を紅に染める錦秋のパノラマ！京都嵐山・嵯峨野紅葉ライトアップ＆渡月橋畔名門温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】',
+    title: '古都を紅に染める錦秋のパノラマ！京都嵐山・嵯峨野紅葉ライトアップ＆渡月橋畔名門温泉宿×ふるさと納税厳選ガイド',
     description: '10月下旬〜11月下旬、嵐山全体が朱と黄金の錦絵に染まる秋の京都！天龍寺庭園・常寂光寺・宝厳院の紅葉ライトアップと、嵐山温泉のとろりとした美肌湯に癒やされる「渡月亭」「花伝抄」「花筏」。本格京懐石と風雅な滞在を、楽天ふるさと納税トラベルクーポンで実質自己負担2,000円で楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kyoto-arashiyama-autumn-leaves-illumination-stay',
     siteName: '旅宿クラウド',
@@ -65,9 +65,7 @@ export default function FurusatoKyotoArashiyamaAutumnLeavesStayPage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               京都嵐山＆嵯峨野・錦秋紅葉ライトアップ温泉旅館特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              古都を紅に染める錦秋のパノラマ！京都嵐山・嵯峨野紅葉ライトアップ＆渡月橋畔名門温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">古都を紅に染める錦秋のパノラマ！京都嵐山・嵯峨野紅葉ライトアップ＆渡月橋畔名門温泉宿×ふるさと納税厳選ガイド</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               10月下旬〜11月下旬、嵐山全体が朱と黄金の錦絵に染まる秋の京都！天龍寺庭園・常寂光寺・宝厳院の紅葉ライトアップと、嵐山温泉のとろりとした美肌湯に癒やされる「渡月亭」「花伝抄」「花筏」。本格京懐石と風雅な滞在を、楽天ふるさと納税トラベルクーポンで実質自己負担2,000円で楽しむ完全ガイド。
             </p>

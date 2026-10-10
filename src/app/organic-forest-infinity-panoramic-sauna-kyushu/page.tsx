@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【九州名峰パノラマサウナ＆阿蘇湧水】由布院・黒川・霧島！大自然の外気浴サウナ宿5選",
+  title: "九州名峰パノラマサウナ＆阿蘇湧水：由布院・黒川・霧島！大自然の外気浴サウナ宿5選",
   description: "由布岳や阿蘇外輪山、霧島連峰の雄大な山並みを望む絶景サウナ！セルフロウリュ完備の本格フィンランド式サウナと、阿蘇・霧島の超軟水天然湧水水風呂で究極のディープリラックスを叶える宿。",
   keywords: "由布院 サウナ 温泉, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/organic-forest-infinity-panoramic-sauna-kyushu/",
   },
   openGraph: {
-    title: "【九州名峰パノラマサウナ＆阿蘇湧水】由布院・黒川・霧島！大自然の外気浴サウナ宿5選",
+    title: "九州名峰パノラマサウナ＆阿蘇湧水：由布院・黒川・霧島！大自然の外気浴サウナ宿5選",
     description: "由布岳や阿蘇外輪山、霧島連峰の雄大な山並みを望む絶景サウナ！セルフロウリュ完備の本格フィンランド式サウナと、阿蘇・霧島の超軟水天然湧水水風呂で究極のディープリラックスを叶える宿。",
     url: 'https://croud-travel.pages.dev/organic-forest-infinity-panoramic-sauna-kyushu',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【九州名峰パノラマサウナ＆阿蘇湧水】由布院・黒川・霧島！大自然の外気浴サウナ宿5選",
+    title: "九州名峰パノラマサウナ＆阿蘇湧水：由布院・黒川・霧島！大自然の外気浴サウナ宿5選",
     description: "由布岳や阿蘇外輪山、霧島連峰の雄大な山並みを望む絶景サウナ！セルフロウリュ完備の本格フィンランド式サウナと、阿蘇・霧島の超軟水天然湧水水風呂で究極のディープリラックスを叶える宿。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>九州名峰サウナ＆阿蘇天然湧水</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【九州名峰パノラマサウナ＆阿蘇湧水】由布院・黒川・霧島！大自然の外気浴サウナ宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「九州名峰パノラマサウナ＆阿蘇湧水」由布院・黒川・霧島！大自然の外気浴サウナ宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             由布岳や阿蘇外輪山、霧島連峰の雄大な山並みを望む絶景サウナ！セルフロウリュ完備の本格フィンランド式サウナと、阿蘇・霧島の超軟水天然湧水水風呂で究極のディープリラックスを叶える宿。
           </p>

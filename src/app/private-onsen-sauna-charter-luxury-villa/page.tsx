@@ -130,9 +130,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            完全プライベートな一棟貸切！天然温泉掛け流し＆客室専用サウナ付き極上ヴィラ
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">完全プライベートな一棟貸切！天然温泉掛け流し＆客室専用サウナ付き極上ヴィラ</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             グループや家族、大切な仲間だけで広々とした邸宅を贅沢に独占できる一棟貸しヴィラ。24時間好きな時に楽しめる専用の天然温泉と、セルフロウリュができる本格サウナ、広大なテラスでのBBQ。誰にも気兼ねすることなく、最高峰のプライベートな時間をお過ごしいただけます。
           </p>

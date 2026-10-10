@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月道後温泉】日本最古の名湯と極上真鯛鯛めし！名宿5選',
+  title: '道後温泉で過ごす冬の旅（11・12月）！日本最古の名湯と極上真鯛鯛めし！名宿5選',
   description: '保存修理工事を終えて完全復活した日本最古の名湯・道後温泉本館。11月・12月の澄み切った瀬戸内の風を感じる湯めぐりと、冬に最も脂が乗る瀬戸内真鯛の「極上鯛めし」、とろける伊予牛会席を堪能する大人の贅沢冬旅ガイド。',
   keywords: '道後温泉 宿泊 11月 12月, 道後温泉 本館 旅館 おすすめ, 道後 鯛めし 温泉 宿, 伊予牛 道後温泉, 道後温泉 高級旅館, 道後 飛鳥乃湯泉, 道後温泉 モデルコース 冬',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-ehime-dogo-onsen-taimeshi-heritage-stay/",
   },
   openGraph: {
-    title: '【11・12月道後温泉】日本最古の名湯と極上真鯛鯛めし！名宿5選',
+    title: '道後温泉で過ごす冬の旅（11・12月）！日本最古の名湯と極上真鯛鯛めし！名宿5選',
     description: '保存修理工事を終えて完全復活した日本最古の名湯・道後温泉本館。11月・12月の澄み切った瀬戸内の風を感じる湯めぐりと、冬に最も脂が乗る瀬戸内真鯛の「極上鯛めし」、とろける伊予牛会席を堪能する大人の贅沢冬旅ガイド。',
     url: 'https://croud-travel.pages.dev/winter-ehime-dogo-onsen-taimeshi-heritage-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月道後温泉の冬情緒と瀬戸内美味】日本最古の名湯と極上真鯛鯛めし・伊予牛会席の名宿5選",
+    title: "道後温泉の冬情緒と瀬戸内美味で過ごす冬の旅（11・12月）！日本最古の名湯と極上真鯛鯛めし・伊予牛会席の名宿5選",
     description: "保存修理工事を終えて完全復活した日本最古の名湯・道後温泉本館。11月・12月の澄み切った瀬戸内の風を感じる湯めぐりと、冬に最も脂が乗る瀬戸内真鯛の「極上鯛めし」、とろける伊予牛会席を堪能する大人の贅沢冬旅ガイド。",
   }
 };
@@ -266,10 +266,7 @@ export default function DogoWinterPage() {
             <Sparkles className="w-4 h-4 text-orange-300" />
             <span>11月・12月限定 日本最古の名湯と瀬戸内旬魚特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月道後温泉の冬情緒と瀬戸内美味】<br className="hidden sm:inline" />
-            日本最古の名湯と極上真鯛鯛めし・伊予牛会席の名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">道後温泉の冬情緒と瀬戸内美味で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 日本最古の名湯と極上真鯛鯛めし・伊予牛会席の名宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             令和の全館営業再開で輝きを増した道後温泉本館。冬の澄んだ夜空に響く刻太鼓、3000年の美肌名湯に浸かり、最も脂が乗る瀬戸内真鯛の鯛めしと極上の伊予牛に舌鼓を打つ大人の贅沢旅へ。
           </p>

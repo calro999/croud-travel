@@ -1,4 +1,4 @@
-# 【関西】温泉併設グランピングおすすめ7選！客室露天風呂・天然温泉付きドームテント
+# 関西：温泉併設グランピングおすすめ7選！客室露天風呂・天然温泉付きドームテント
 
 - URL: https://croud-travel.pages.dev/posts/kansai-glamping-onsen-dome-tent-guide/
 - 宿泊施設名: グランピングトレーラーＬａｎｉｋａｉ＜淡路島＞

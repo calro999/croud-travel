@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-private-villa-hanare-hideaway-stay/" },
-  title: '【全室離れの隠れ家×ふるさと納税】誰にも会わずに過ごす極上のおこもり客室露天風呂宿完全ガイド | クラウドトラベル',
+  title: '全室離れの隠れ家をふるさと納税でお得に旅する！誰にも会わずに過ごす極上のおこもり客室露天風呂宿厳選ガイド | クラウドトラベル',
   description: 'エグゼクティブやお忍び旅行に選ばれる「全室離れ」のおこもり宿。大分・由布院、静岡・修善寺、神奈川・湯河原の源泉かけ流し客室露天風呂付き宿を厳選。誰にも邪魔されない至高のプライベート時間をふるさと納税で。',
   openGraph: {
-    title: '【全室離れの隠れ家×ふるさと納税】誰にも会わずに過ごす極上のおこもり客室露天風呂宿完全ガイド | クラウドトラベル',
+    title: '全室離れの隠れ家をふるさと納税でお得に旅する！誰にも会わずに過ごす極上のおこもり客室露天風呂宿厳選ガイド | クラウドトラベル',
     description: 'エグゼクティブやお忍び旅行に選ばれる「全室離れ」のおこもり宿。大分・由布院、静岡・修善寺、神奈川・湯河原の源泉かけ流し客室露天風呂付き宿を厳選。誰にも邪魔されない至高のプライベート時間をふるさと納税で。',
     type: 'article',
   },
@@ -59,9 +59,7 @@ export default function Page() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             ふるさと納税×全室離れ・おこもり温泉宿
           </div>
-          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            【全室離れの隠れ家×ふるさと納税】誰にも会わずに過ごす極上のおこもり客室露天風呂宿完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">全室離れの隠れ家をふるさと納税でお得に旅する！誰にも会わずに過ごす極上のおこもり客室露天風呂宿厳選ガイド</h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl mb-6">
             誰にも邪魔されず、プライベートな時間を最優先したい大人の休日。ロビーでの混雑や大浴場での他人の視線から完全に解放され、専用の門をくぐった一戸建ての「離れ客室」でチェックインからチェックアウトまでを完結させる――そんな究極のプライベートステイが今、感度の高い旅行者から絶大な支持を集めています。由布岳の裾野に点在するプライベートガーデン付きヴィラ、伊豆修善寺の竹林に隠れる築100年の数寄屋離れ、そして万葉集にも詠まれた湯河原の渓流沿い料亭旅館。客室専用の源泉かけ流し露天風呂に好きな時に浸かり、夕食は専任仲居が運ぶ部屋食やお食事専用個室で一品出しの懐石をいただく贅沢。こうした全室離れの宿は1泊1人5万〜15万円クラスが中心ですが、楽天ふるさと納税のトラベルクーポン（30％補助）を使えば実質自己負担2,000円で無理なくアップグレード可能。大切な人とおこもりを満喫する最高峰のプライベート温泉旅へご案内します。
           </p>

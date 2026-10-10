@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kumamoto-kurokawa-solo-retreat-onsen-stay/" },
-  title: '【黒川温泉ひとり旅・入湯手形おこもり】渓流露天風呂・立ち湯・あか牛会席！阿蘇の秘湯で里山情緒に浸る極上ソロ温泉厳選3宿',
+  title: '黒川温泉ひとり旅・入湯手形おこもり：渓流露天風呂・立ち湯・あか牛会席！阿蘇の秘湯で里山情緒に浸る極上ソロ温泉厳選3宿',
   description: '阿蘇山麓の静寂の秘湯・黒川！田の原川沿いで渓流露天風呂と足湯が心地よい「夢龍胆」、巨大な大露天風呂や深さ150cmの立ち湯が評判の「やまびこ旅館」、全8室・大人の隠れ家で名湯と美食を味わう「ふじ屋」を楽天トラベル公式API最新データに基づき徹底比較。',
   keywords: '黒川温泉 一人旅 宿,黒川温泉 ホテル 一人,夢龍胆,やまびこ旅館 黒川,黒川温泉 ふじ屋,黒川 入湯手形 ひとり旅',
   openGraph: {
-    title: '【黒川温泉ひとり旅・入湯手形おこもり】渓流露天風呂・立ち湯・あか牛会席！阿蘇の秘湯で里山情緒に浸る極上ソロ温泉厳選3宿',
+    title: '黒川温泉ひとり旅・入湯手形おこもり：渓流露天風呂・立ち湯・あか牛会席！阿蘇の秘湯で里山情緒に浸る極上ソロ温泉厳選3宿',
     description: '阿蘇山麓の静寂の秘湯・黒川！田の原川沿いで渓流露天風呂と足湯が心地よい「夢龍胆」、巨大な大露天風呂や深さ150cmの立ち湯が評判の「やまびこ旅館」、全8室・大人の隠れ家で名湯と美食を味わう「ふじ屋」を楽天トラベル公式API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/kumamoto-kurokawa-solo-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【黒川温泉ひとり旅・入湯手形おこもり】渓流露天風呂・立ち湯・あか牛会席！阿蘇の秘湯で里山情緒に浸る極上ソロ温泉厳選3宿',
+    headline: '黒川温泉ひとり旅・入湯手形おこもり：渓流露天風呂・立ち湯・あか牛会席！阿蘇の秘湯で里山情緒に浸る極上ソロ温泉厳選3宿',
     description: '阿蘇山麓の静寂の秘湯・黒川！田の原川沿いで渓流露天風呂と足湯が心地よい「夢龍胆」、巨大な大露天風呂や深さ150cmの立ち湯が評判の「やまびこ旅館」、全8室・大人の隠れ家で名湯と美食を味わう「ふじ屋」を楽天トラベル公式API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             熊本・黒川温泉ひとり旅＆里山秘湯おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【黒川温泉ひとり旅・入湯手形おこもり】渓流露天風呂・立ち湯・あか牛会席！阿蘇の秘湯で里山情緒に浸る極上ソロ温泉厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「黒川温泉ひとり旅・入湯手形おこもり」渓流露天風呂・立ち湯・あか牛会席！阿蘇の秘湯で里山情緒に浸る極上ソロ温泉厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

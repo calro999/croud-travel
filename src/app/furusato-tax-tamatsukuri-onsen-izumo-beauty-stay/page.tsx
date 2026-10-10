@@ -3,11 +3,11 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【玉造温泉×ふるさと納税】出雲大社参拝と神の湯美肌ステイ！化粧水いらずの名湯＆山陰味覚会席ガイド｜佳翠苑皆美・長楽園・白石家',
+  title: '玉造温泉をふるさと納税でお得に旅する！出雲大社参拝と神の湯美肌ステイ！化粧水いらずの名湯＆山陰味覚会席ガイド｜佳翠苑皆美・長楽園・白石家',
   description: '『出雲国風土記』に「一度洗えば容姿端麗、再び浴びれば万病治癒。」と記された日本最古の美肌温泉・玉造温泉を楽天ふるさと納税で満喫！出雲大社への良縁祈願とセットで訪れたい老舗旅館「佳翠苑 皆美」、日本一の混浴大露天風呂を誇る「長楽園」、花あふれる純和風宿「白石家」を徹底解説。',
   keywords: '玉造温泉 ふるさと納税,出雲大社 温泉 旅館,佳翠苑皆美 ふるさと納税,長楽園 玉造温泉 クーポン,松江市 ふるさと納税 宿泊',
   openGraph: {
-    title: '【玉造温泉×ふるさと納税】出雲大社参拝と神の湯美肌ステイ！化粧水いらずの名湯＆山陰味覚会席ガイド｜佳翠苑皆美・長楽園・白石家',
+    title: '玉造温泉をふるさと納税でお得に旅する！出雲大社参拝と神の湯美肌ステイ！化粧水いらずの名湯＆山陰味覚会席ガイド｜佳翠苑皆美・長楽園・白石家',
     description: '『出雲国風土記』に「一度洗えば容姿端麗、再び浴びれば万病治癒。」と記された日本最古の美肌温泉・玉造温泉を楽天ふるさと納税で満喫！出雲大社への良縁祈願とセットで訪れたい老舗旅館「佳翠苑 皆美」、日本一の混浴大露天風呂を誇る「長楽園」、花あふれる純和風宿「白石家」を徹底解説。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-tamatsukuri-onsen-izumo-beauty-stay',
@@ -54,9 +54,7 @@ export default function FurusatoTaxArticle() {
             <span>•</span>
             <span>自治体公認 宿泊割引</span>
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-5xl font-extrabold tracking-tight text-white font-serif leading-tight">
-            【玉造温泉×ふるさと納税】出雲大社参拝と神の湯美肌ステイ！化粧水いらずの名湯＆山陰味覚会席ガイド｜佳翠苑皆美・長楽園・白石家
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-5xl font-extrabold tracking-tight text-white font-serif leading-tight">玉造温泉をふるさと納税でお得に旅する！出雲大社参拝と神の湯美肌ステイ！化粧水いらずの名湯＆山陰味覚会席ガイド｜佳翠苑皆美・長楽園・白石家</h1>
           <p className="text-stone-300 text-sm md:text-base max-w-2xl mx-auto pt-2 leading-relaxed">
             『出雲国風土記』に「一度洗えば容姿端麗、再び浴びれば万病治癒。」と記された日本最古の美肌温泉・玉造温泉を楽天ふるさと納税で満喫！出雲大社への良縁祈願とセットで訪れたい老舗旅館「佳翠苑 皆美」、日本一の混浴大露天風呂を誇る「長楽園」、花あふれる純和風宿「白石家」を徹底解説。
           </p>

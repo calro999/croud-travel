@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月霧島温泉郷】黒毛和牛！名宿5選',
+  title: '霧島温泉郷で過ごす冬の旅（11・12月）！黒毛和牛！名宿5選',
   description: '坂本龍馬とおりょうが日本初の新婚旅行で訪れた九州屈指の名湯「霧島温泉郷」。初冬の澄み渡る空気の中に立ち上る雄大な湯煙と、霧島連山を望む絶景露天風呂、天然泥パックの美肌泥湯。極上の甘みを誇る「かごしま黒豚」しゃぶしゃぶと黒毛和牛、国宝・霧島神宮参拝を堪能する名宿5選。',
   keywords: '霧島温泉 宿泊 11月 12月, 霧島ホテル 硫黄谷庭園大浴場, 霧島国際ホテル, 旅行人山荘 赤松の湯, さくらさくら温泉 泥湯, ラビスタ霧島ヒルズ, かごしま黒豚 しゃぶしゃぶ, 霧島神宮 国宝',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay/",
   },
   openGraph: {
-    title: '【11・12月霧島温泉郷】黒毛和牛！名宿5選',
+    title: '霧島温泉郷で過ごす冬の旅（11・12月）！黒毛和牛！名宿5選',
     description: '坂本龍馬とおりょうが日本初の新婚旅行で訪れた九州屈指の名湯「霧島温泉郷」。初冬の澄み渡る空気の中に立ち上る雄大な湯煙と、霧島連山を望む絶景露天風呂、天然泥パックの美肌泥湯。極上の甘みを誇る「かごしま黒豚」しゃぶしゃぶと黒毛和牛、国宝・霧島神宮参拝を堪能する名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月霧島温泉郷の冬パノラマと坂本龍馬ゆかりの名湯】湯煙立ち上る霧島連山と乳白色泥湯・鹿児島黒豚しゃぶしゃぶ＆黒毛和牛の宿5選",
+    title: "霧島温泉郷の冬パノラマと坂本龍馬ゆかりの名湯で過ごす冬の旅（11・12月）！湯煙立ち上る霧島連山と乳白色泥湯・鹿児島黒豚しゃぶしゃぶ＆黒毛和牛の宿5選",
     description: "坂本龍馬とおりょうが日本初の新婚旅行で訪れた九州屈指の名湯「霧島温泉郷」。初冬の澄み渡る空気の中に立ち上る雄大な湯煙と、霧島連山を望む絶景露天風呂、天然泥パックの美肌泥湯。極上の甘みを誇る「かごしま黒豚」しゃぶしゃぶと黒毛和牛、国宝・霧島神宮参拝を堪能する名宿5選。",
   }
 };
@@ -297,10 +297,7 @@ export default function KirishimaWinterPage() {
             <Eye className="w-4 h-4 text-rose-300" />
             <span>11月・12月限定 坂本龍馬ゆかりの地＆霧島連山の湯煙と極上かごしま黒豚特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月霧島温泉郷の冬パノラマと坂本龍馬ゆかりの名湯】<br className="hidden sm:inline" />
-            湯煙立ち上る霧島連山と乳白色泥湯・鹿児島黒豚しゃぶしゃぶ＆黒毛和牛の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">霧島温泉郷の冬パノラマと坂本龍馬ゆかりの名湯で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 湯煙立ち上る霧島連山と乳白色泥湯・鹿児島黒豚しゃぶしゃぶ＆黒毛和牛の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             坂本龍馬とおりょうが愛した日本最初の新婚旅行の地「霧島温泉郷」。初冬の澄み渡る大気の中に立ち上る無数の湯煙と、乳白色の硫黄泉や天然泥湯。本場「かごしま黒豚」の甘美なしゃぶしゃぶと黒毛和牛、国宝・霧島神宮の初冬参拝に心洗われる至高の湯旅。
           </p>

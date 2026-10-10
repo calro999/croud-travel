@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kumamoto-aso-caldera-minamiaso-stay/" },
-  title: "【熊本・阿蘇カルデラ＆南阿蘇】大観峰・草千里ヶ浜＆あか牛・白川水源宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "熊本・阿蘇カルデラ＆南阿蘇：大観峰・草千里ヶ浜＆あか牛・白川水源宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "世界最大級のカルデラ・熊本阿蘇エリア完全特化！大観峰の360度パノラマ、草千里ヶ浜の引き馬体験、名水白川水源、阿蘇五岳を望む展望温泉露天風呂、名物「あか牛丼・あか牛ステーキ会席宿」を徹底解説。",
   keywords: ["熊本", "阿蘇カルデラ", "南阿蘇", "大観峰", "草千里ヶ浜", "あか牛", "白川水源宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             ASO CALDERA & NATURE GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【熊本・阿蘇カルデラ＆南阿蘇】大観峰・草千里ヶ浜＆あか牛・白川水源宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「熊本・阿蘇カルデラ＆南阿蘇」大観峰・草千里ヶ浜＆あか牛・白川水源宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             世界最大級の火山カルデラが織りなす雄大な大地「熊本・阿蘇」。大観峰から見下ろす雲海と阿蘇五岳「涅槃像」。草千里ヶ浜のエメラルドグリーンの草原。名水・白川水源が育むヘルシーな極上「あか牛」に舌鼓を打つ大自然の旅。
           </p>

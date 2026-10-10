@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-with-dogs-pets-guide/" },
-  title: "【愛犬と泊まるシルバーウィーク グランピング】プライベートドッグラン付き＆ノーリードOKの極上ヴィラ ｜ 日本全国・旅宿クラウド",
+  title: "愛犬と泊まるシルバーウィーク グランピング：プライベートドッグラン付き＆ノーリードOKの極上ヴィラ ｜ 日本全国・旅宿クラウド",
   description:
     "ワンちゃんと一緒に秋の連休を満喫！客室直結のプライベート芝生ドッグラン、足洗い場・ペット用アメニティ完備、大型犬OK・多頭飼い対応のグランピング施設特集。涼しくなる9月がベストシーズンの理由。",
   keywords: ["愛犬と泊まるシルバーウィーク", "グランピング", "プライベートドッグラン付き", "ノーリードOKの極上ヴィラ", "温泉宿", "宿泊予約", "楽天トラベル"],
@@ -114,14 +114,7 @@ export default function SilverWeekGlampingWithDogsPetsPage() {
             <span className="w-2 h-2 rounded-full bg-amber-400 animate-pulse" />
             愛犬ファーストの秋連休リゾート滞在記
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【愛犬と泊まるシルバーウィーク グランピング】<br />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-300 via-orange-200 to-yellow-200">
-              専用芝生ドッグラン＆ノーリードOK
-            </span>
-            <br />
-            秋風の天然芝を駆け回る極上ヴィラ特集
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「愛犬と泊まるシルバーウィーク グランピング」<br /> <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-300 via-orange-200 to-yellow-200"> 専用芝生ドッグラン＆ノーリードOK </span> <br /> 秋風の天然芝を駆け回る極上ヴィラ特集</h1>
           <p className="text-slate-300 text-base sm:text-lg max-w-3xl leading-relaxed mb-8">
             真夏の危険な暑さを乗り越え、いよいよワンちゃんが快適に屋外で走り回れる最高の秋シーズンが到来。
             お部屋のドアを開ければそのまま直結するプライベートドッグラン、足洗い場や充実の専用アメニティ、

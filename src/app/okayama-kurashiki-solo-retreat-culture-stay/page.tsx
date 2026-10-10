@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/okayama-kurashiki-solo-retreat-culture-stay/" },
-  title: '【岡山・倉敷ひとり旅＆出張】岡山駅直結・倉敷美観地区・大浴場！白壁の街と日本庭園に癒やされる大人のおこもり宿 厳選3選',
+  title: '岡山・倉敷ひとり旅＆出張：岡山駅直結・倉敷美観地区・大浴場！白壁の街と日本庭園に癒やされる大人のおこもり宿 厳選3選',
   description: '山陽新幹線のハブステーション・岡山と、白壁土蔵が連なる風情の街・倉敷！「岡山駅直結で四国・山陰連絡にも最強のランドマーク。」を誇る「ホテルグランヴィア岡山」、倉敷美観地区すぐ隣で木造クラシカルの風格を持つ「倉敷国際ホテル」、最上階に庭園大浴場を備えた「三井ガーデンホテル岡山」を徹底特集。',
   keywords: '岡山 出張 ホテル おすすめ,倉敷 一人旅 ホテル,ホテルグランヴィア岡山 宿泊,倉敷国際ホテル 美観地区,三井ガーデンホテル岡山 大浴場',
   openGraph: {
-    title: '【岡山・倉敷ひとり旅＆出張】岡山駅直結・倉敷美観地区・大浴場！白壁の街と日本庭園に癒やされる大人のおこもり宿 厳選3選',
+    title: '岡山・倉敷ひとり旅＆出張：岡山駅直結・倉敷美観地区・大浴場！白壁の街と日本庭園に癒やされる大人のおこもり宿 厳選3選',
     description: '山陽新幹線のハブステーション・岡山と、白壁土蔵が連なる風情の街・倉敷！「岡山駅直結で四国・山陰連絡にも最強のランドマーク。」を誇る「ホテルグランヴィア岡山」、倉敷美観地区すぐ隣で木造クラシカルの風格を持つ「倉敷国際ホテル」、最上階に庭園大浴場を備えた「三井ガーデンホテル岡山」を徹底特集。',
     url: 'https://croud-travel.pages.dev/okayama-kurashiki-solo-retreat-culture-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【岡山・倉敷ひとり旅＆出張】岡山駅直結・倉敷美観地区・大浴場！白壁の街と日本庭園に癒やされる大人のおこもり宿 厳選3選',
+    headline: '岡山・倉敷ひとり旅＆出張：岡山駅直結・倉敷美観地区・大浴場！白壁の街と日本庭園に癒やされる大人のおこもり宿 厳選3選',
     description: '山陽新幹線のハブステーション・岡山と、白壁土蔵が連なる風情の街・倉敷！「岡山駅直結で四国・山陰連絡にも最強のランドマーク。」を誇る「ホテルグランヴィア岡山」、倉敷美観地区すぐ隣で木造クラシカルの風格を持つ「倉敷国際ホテル」、最上階に庭園大浴場を備えた「三井ガーデンホテル岡山」を徹底特集。',
     author: {
       '@type': 'Organization',
@@ -74,9 +74,7 @@ export default function ArticlePage() {
           <span>✨</span>
           <span>岡山・倉敷＆文化リトリート特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【岡山・倉敷ひとり旅＆出張】岡山駅直結・倉敷美観地区・大浴場！白壁の街と日本庭園に癒やされる大人のおこもり宿 厳選3選
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">「岡山・倉敷ひとり旅＆出張」岡山駅直結・倉敷美観地区・大浴場！白壁の街と日本庭園に癒やされる大人のおこもり宿 厳選3選</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
           山陽新幹線のハブステーション・岡山と、白壁土蔵が連なる風情の街・倉敷！「岡山駅直結で四国・山陰連絡にも最強のランドマーク。」を誇る「ホテルグランヴィア岡山」、倉敷美観地区すぐ隣で木造クラシカルの風格を持つ「倉敷国際ホテル」、最上階に庭園大浴場を備えた「三井ガーデンホテル岡山」を徹底特集。
         </p>

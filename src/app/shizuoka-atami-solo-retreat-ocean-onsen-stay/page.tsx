@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/shizuoka-atami-solo-retreat-ocean-onsen-stay/" },
-  title: '【熱海温泉ひとり旅・海一望おこもり】相模湾オーシャンビュー・貸切源泉露天・熱海海上花火！昭和レトロと絶景リゾート厳選3宿',
+  title: '熱海温泉ひとり旅・海一望おこもり：相模湾オーシャンビュー・貸切源泉露天・熱海海上花火！昭和レトロと絶景リゾート厳選3宿',
   description: '東海道新幹線で東京から最速35分！全室コンドミニアム仕様＆無料展望貸切温泉が評判の「グランビュー熱海」、サンビーチ目の前で展望大浴場を誇る「ホテルサンミ倶楽部 別館」、相模湾を見下ろす高台フレンチオーベルジュ「フォンテーヌ・ブロー熱海」を徹底比較。',
   keywords: '熱海 一人旅 温泉,熱海 ホテル 一人 露天,グランビュー熱海,ホテルサンミ倶楽部別館,オーベルジュフォンテーヌブロー熱海,熱海 花火大会 おこもり',
   openGraph: {
-    title: '【熱海温泉ひとり旅・海一望おこもり】相模湾オーシャンビュー・貸切源泉露天・熱海海上花火！昭和レトロと絶景リゾート厳選3宿',
+    title: '熱海温泉ひとり旅・海一望おこもり：相模湾オーシャンビュー・貸切源泉露天・熱海海上花火！昭和レトロと絶景リゾート厳選3宿',
     description: '東海道新幹線で東京から最速35分！全室コンドミニアム仕様＆無料展望貸切温泉が評判の「グランビュー熱海」、サンビーチ目の前で展望大浴場を誇る「ホテルサンミ倶楽部 別館」、相模湾を見下ろす高台フレンチオーベルジュ「フォンテーヌ・ブロー熱海」を徹底比較。',
     url: 'https://croud-travel.pages.dev/shizuoka-atami-solo-retreat-ocean-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【熱海温泉ひとり旅・海一望おこもり】相模湾オーシャンビュー・貸切源泉露天・熱海海上花火！昭和レトロと絶景リゾート厳選3宿',
+    headline: '熱海温泉ひとり旅・海一望おこもり：相模湾オーシャンビュー・貸切源泉露天・熱海海上花火！昭和レトロと絶景リゾート厳選3宿',
     description: '東海道新幹線で東京から最速35分！全室コンドミニアム仕様＆無料展望貸切温泉が評判の「グランビュー熱海」、サンビーチ目の前で展望大浴場を誇る「ホテルサンミ倶楽部 別館」、相模湾を見下ろす高台フレンチオーベルジュ「フォンテーヌ・ブロー熱海」を徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             静岡・熱海温泉ひとり旅＆海一望おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【熱海温泉ひとり旅・海一望おこもり】相模湾オーシャンビュー・貸切源泉露天・熱海海上花火！昭和レトロと絶景リゾート厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「熱海温泉ひとり旅・海一望おこもり」相模湾オーシャンビュー・貸切源泉露天・熱海海上花火！昭和レトロと絶景リゾート厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

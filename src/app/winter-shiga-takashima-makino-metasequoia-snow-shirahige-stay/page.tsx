@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【12・1月滋賀】近江牛！名宿5選',
+  title: '滋賀で過ごす冬の旅（12・1月）！近江牛！名宿5選',
   description: '冬の奥琵琶湖・高島市は、まるで北欧の童話世界のように静謐で美しい白銀の絶景に包まれます。マキノ高原へと真っ直ぐ続く全長2.4km・約500本。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: 'マキノ ホテル, 高島市 旅館, メタセコイア並木 雪景色, 白鬚神社 初日の出, 天然鴨鍋 滋賀, 近江牛 すき焼き, 奥琵琶湖マキノグランドパークホテル, おごと温泉 びわこ緑水亭, 12月 1月 滋賀 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shiga-takashima-makino-metasequoia-snow-shirahige-stay/"
   },
   openGraph: {
-    title: '【12・1月滋賀】近江牛！名宿5選',
+    title: '滋賀で過ごす冬の旅（12・1月）！近江牛！名宿5選',
     description: '冬の奥琵琶湖・高島市は、まるで北欧の童話世界のように静謐で美しい白銀の絶景に包まれます。マキノ高原へと真っ直ぐ続く全長2.4km・約500本。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-shiga-takashima-makino-metasequoia-snow-shirahige-stay',
     siteName: '地域の宿探訪',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【12・1月滋賀】高島＆マキノ・白鬚神社！白銀のマキノ高原メタセコイア並木雪景色と湖中大鳥居初詣・天然鴨鍋＆近江牛名宿5選",
+    title: "滋賀で過ごす冬の旅（12・1月）！高島＆マキノ・白鬚神社！白銀のマキノ高原メタセコイア並木雪景色と湖中大鳥居初詣・天然鴨鍋＆近江牛名宿5選",
     description: "冬の奥琵琶湖・高島市は、まるで北欧の童話世界のように静謐で美しい白銀の絶景に包まれます。マキノ高原へと真っ直ぐ続く全長2.4km・約500本の「メタセコイア並木」は、枝に純白の雪の花を咲かせた息を呑むスノーロードへと変貌。「近江の厳島」と称される白鬚神社の湖中大鳥居から昇る新春の初日の出と厳かな初詣、冬の滋賀が誇る究極の郷土鍋「天然鴨鍋」と日本三大和牛「近江牛すき焼き」。奥琵琶湖畔の美景リゾートとおごと温泉の名湯を味わう厳選名宿5選を徹底解説します。",
     images: ["https://img.travel.rakuten.co.jp/share/HOTEL/9254/9254.jpg"]
   }
@@ -232,10 +232,7 @@ export default function ShigaTakashimaMakinoWinterPage() {
             <span>12月・1月冬の奥琵琶湖・白銀絶景＆名湯特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">
-            高島＆マキノ・白鬚神社！<br className="hidden sm:inline" />
-            白銀のメタセコイア並木雪景色と湖中大鳥居初詣・天然鴨鍋＆近江牛名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">高島＆マキノ・白鬚神社！<br className="hidden sm:inline" /> 白銀のメタセコイア並木雪景色と湖中大鳥居初詣・天然鴨鍋＆近江牛名宿5選</h1>
 
           <p className="text-slate-300 text-sm sm:text-base lg:text-lg leading-relaxed max-w-3xl mb-8">
             まるで北欧の森へと迷い込んだかのような幻想的な冬の奥琵琶湖・高島市。全長2.4km・約500本の巨木が雪をまとう「マキノ高原メタセコイア並木」の息を呑む白銀スノーロード。「近江の厳島」白鬚神社の湖中大鳥居から昇る神々しい新春の初日の出と初詣。冬の滋賀が誇る究極の郷土鍋「天然鴨鍋」と日本三大和牛「近江牛すき焼き」、奥琵琶湖畔のリゾートとおごと温泉の名湯に癒やされる至福の冬旅をお届けします。

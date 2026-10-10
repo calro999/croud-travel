@@ -5,11 +5,11 @@ import Image from 'next/image';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/fukushima-urabandai-goshikinuma-lake-stay/" },
-  title: '【福島・裏磐梯＆五色沼】神秘の湖沼群・桧原湖カヌー＆磐梯高原リゾート宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+  title: '福島・裏磐梯＆五色沼：神秘の湖沼群・桧原湖カヌー＆磐梯高原リゾート宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
   description: '磐梯山噴火が創り出した奇跡の景観「五色沼湖沼群」のエメラルド・コバルトブルーの水面、裏磐梯最大の「桧原湖」カヌー・遊覧船、紅葉ドライブの名所「磐梯山ゴールドライン」、満天の星空と源泉かけ流し高原温泉リゾートを徹底解説。',
   keywords: ["福島", "裏磐梯", "五色沼", "神秘の湖沼群", "桧原湖カヌー", "磐梯高原リゾート宿", "温泉宿"],
   openGraph: {
-    title: '【福島・裏磐梯＆五色沼】神秘の湖沼群・桧原湖カヌー＆磐梯高原リゾート宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+    title: '福島・裏磐梯＆五色沼：神秘の湖沼群・桧原湖カヌー＆磐梯高原リゾート宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
     description: '磐梯山噴火が創り出した奇跡の景観「五色沼湖沼群」のエメラルド・コバルトブルーの水面、裏磐梯最大の「桧原湖」カヌー・遊覧船、紅葉ドライブの名所「磐梯山ゴールドライン」、満天の星空と源泉かけ流し高原温泉リゾートを徹底解説。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/fukushima-urabandai-goshikinuma-lake-stay',
@@ -50,9 +50,7 @@ export default function Page() {
             <span>🗺️</span>
             <span>URABANDAI & GOSHIKINUMA GUIDE</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">
-            【福島・磐梯高原＆裏磐梯・五色沼】五色沼神秘の湖沼群・桧原湖カヌー＆高原リゾート宿 完全ガイド
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">「福島・磐梯高原＆裏磐梯・五色沼」五色沼神秘の湖沼群・桧原湖カヌー＆高原リゾート宿 厳選ガイド</h1>
           <p className="max-w-3xl mx-auto text-stone-300 text-sm sm:text-base md:text-lg leading-relaxed mb-8">
             明治21年の磐梯山大噴火によって川が堰き止められ、奇跡的に誕生した神秘の高原地帯「裏磐梯」。水酸化鉄などの鉱物成分と光の反射により沼ごとにエメラルドグリーン、コバルトブルー、ターコイズと色彩を変える「五色沼湖沼群」。手漕ぎボートやカヌーで島々を巡る「桧原湖」。秋には黄金色のブナ原生林が全山を染め上げます。日常を離れ、清らかな水と森に包まれる高原リゾートステイへご案内します。
           </p>

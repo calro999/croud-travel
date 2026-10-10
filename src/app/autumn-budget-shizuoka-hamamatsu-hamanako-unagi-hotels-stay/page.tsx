@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【浜松・浜名湖】秋の旬うなぎと湖畔の絶景夕陽！格安・高コスパホテル5選',
+  title: '浜松・浜名湖：秋の旬うなぎと湖畔の絶景夕陽！格安・高コスパホテル5選',
   description: '脂がのって一番旨い秋の「旬うなぎ」と浜名湖の感動的なサンセット！1泊2,000円台〜5,000円台で泊まれる浜松駅前＆浜名湖畔のコスパ抜群・高評価ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHamamatsuHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>秋が一番旨い旬の鰻と湖畔サンセット</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【浜松・浜名湖】秋うなぎ＆浜名湖の夕陽を満喫！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「浜松・浜名湖」秋うなぎ＆浜名湖の夕陽を満喫！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-orange-100/90 max-w-2xl mx-auto leading-relaxed">
             冬眠に備えて脂が乗り、年間で最も美味とされる「秋の鰻（うなぎ）」。さらに浜名湖弁天島に沈む息を呑む夕陽や浜松餃子の食べ比べなど、秋の浜松は見どころ満載。宿泊費を抑えて名物グルメを味わい尽くす厳選ホテルをご紹介します。
           </p>

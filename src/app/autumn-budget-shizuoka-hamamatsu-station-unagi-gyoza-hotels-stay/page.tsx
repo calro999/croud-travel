@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【浜松駅前】秋の浜名湖うなぎ＆浜松餃子ハシゴ旅！2,000円台〜泊まれる格安ホテル5選',
+  title: '浜松駅前：秋の浜名湖うなぎ＆浜松餃子ハシゴ旅！2,000円台〜泊まれる格安ホテル5選',
   description: '秋に旨味と脂が乗る浜名湖名物うなぎや、円形に焼き上げもやしを添えた浜松餃子を満喫！浜松駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHamamatsuStationHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>浜名湖秋うなぎ＆名物餃子グルメ旅</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【浜松駅前】旬の浜名湖うなぎ＆浜松餃子ハシゴ！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「浜松駅前」旬の浜名湖うなぎ＆浜松餃子ハシゴ！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             秋は越冬を控えて身がふっくらと肥え、脂の乗りが最高潮に達する浜名湖うなぎの最旬シーズン。パリッと焼き上げた円形フライパン餃子に茹でもやしを添えた名物「浜松餃子」のハシゴも外せません。新幹線停車駅の浜松駅周辺で2,000円台〜3,000円台で泊まれる超得宿を厳選。
           </p>

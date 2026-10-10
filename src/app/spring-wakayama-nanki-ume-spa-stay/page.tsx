@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【南高梅スイーツ＆梅酒BAR】紀州特産南高梅のフルコースと白浜名湯！和歌山・南紀白浜の癒やし宿5選",
+  title: "南高梅スイーツ＆梅酒BAR：紀州特産南高梅のフルコースと白浜名湯！和歌山・南紀白浜の癒やし宿5選",
   description: "ふっくらジューシーな最高級「紀州南高梅」を使った特製デザートや、数十種類の梅酒を飲み比べる梅酒BAR！太平洋を望む南紀白浜温泉の名湯と、クエや伊勢海老の海鮮会席を満喫する贅沢ステイ。",
   keywords: "南紀白浜 温泉 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/spring-wakayama-nanki-ume-spa-stay/",
   },
   openGraph: {
-    title: "【南高梅スイーツ＆梅酒BAR】紀州特産南高梅のフルコースと白浜名湯！和歌山・南紀白浜の癒やし宿5選",
+    title: "南高梅スイーツ＆梅酒BAR：紀州特産南高梅のフルコースと白浜名湯！和歌山・南紀白浜の癒やし宿5選",
     description: "ふっくらジューシーな最高級「紀州南高梅」を使った特製デザートや、数十種類の梅酒を飲み比べる梅酒BAR！太平洋を望む南紀白浜温泉の名湯と、クエや伊勢海老の海鮮会席を満喫する贅沢ステイ。",
     url: 'https://croud-travel.pages.dev/spring-wakayama-nanki-ume-spa-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【南高梅スイーツ＆梅酒BAR】紀州特産南高梅のフルコースと白浜名湯！和歌山・南紀白浜の癒やし宿5選",
+    title: "南高梅スイーツ＆梅酒BAR：紀州特産南高梅のフルコースと白浜名湯！和歌山・南紀白浜の癒やし宿5選",
     description: "ふっくらジューシーな最高級「紀州南高梅」を使った特製デザートや、数十種類の梅酒を飲み比べる梅酒BAR！太平洋を望む南紀白浜温泉の名湯と、クエや伊勢海老の海鮮会席を満喫する贅沢ステイ。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>紀州南高梅＆白浜名湯</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【南高梅スイーツ＆梅酒BAR】紀州特産南高梅のフルコースと白浜名湯！和歌山・南紀白浜の癒やし宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「南高梅スイーツ＆梅酒BAR」紀州特産南高梅のフルコースと白浜名湯！和歌山・南紀白浜の癒やし宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             ふっくらジューシーな最高級「紀州南高梅」を使った特製デザートや、数十種類の梅酒を飲み比べる梅酒BAR！太平洋を望む南紀白浜温泉の名湯と、クエや伊勢海老の海鮮会席を満喫する贅沢ステイ。
           </p>

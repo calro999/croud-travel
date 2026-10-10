@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/gunma-ikaho-autumn-solo-retreat-golden-spring-stay/" },
-  title: '【10月・11月秋の伊香保温泉ひとり旅・湯元河鹿橋の紅葉ライトアップと黄金の湯おこもり】365段石段街・茶褐色の名湯・上州牛会席！大正ロマン厳選3宿',
+  title: '・11月秋の伊香保温泉ひとり旅・湯元河鹿橋の紅葉ライトアップと黄金の湯おこもりで過ごす冬の旅（10月）！365段石段街・茶褐色の名湯・上州牛会席！大正ロマン厳選3宿',
   description: '10月下旬〜11月中旬は河鹿橋の紅葉が真っ赤に燃え上がる群馬・伊香保温泉！フレンチ仕込みの料理とモダンな洋風旅館で一人旅の満足度抜群の「洋風旅館ぴのん」、伊香保のシンボル石段街に近く創業四百余年の歴史を誇る「森秋旅館」、家庭的なもてなしと源泉かけ流しの「石坂旅館」を楽天API最新データに基づき徹底比較。',
   keywords: '伊香保温泉 一人旅 宿,伊香保 10月 11月 紅葉 温泉,洋風旅館ぴのん 一人旅,森秋旅館,石坂旅館,伊香保 河鹿橋 一人旅 おこもり',
   openGraph: {
-    title: '【10月・11月秋の伊香保温泉ひとり旅・湯元河鹿橋の紅葉ライトアップと黄金の湯おこもり】365段石段街・茶褐色の名湯・上州牛会席！大正ロマン厳選3宿',
+    title: '・11月秋の伊香保温泉ひとり旅・湯元河鹿橋の紅葉ライトアップと黄金の湯おこもりで過ごす冬の旅（10月）！365段石段街・茶褐色の名湯・上州牛会席！大正ロマン厳選3宿',
     description: '10月下旬〜11月中旬は河鹿橋の紅葉が真っ赤に燃え上がる群馬・伊香保温泉！フレンチ仕込みの料理とモダンな洋風旅館で一人旅の満足度抜群の「洋風旅館ぴのん」、伊香保のシンボル石段街に近く創業四百余年の歴史を誇る「森秋旅館」、家庭的なもてなしと源泉かけ流しの「石坂旅館」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/gunma-ikaho-autumn-solo-retreat-golden-spring-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【10月・11月秋の伊香保温泉ひとり旅・湯元河鹿橋の紅葉ライトアップと黄金の湯おこもり】365段石段街・茶褐色の名湯・上州牛会席！大正ロマン厳選3宿',
+    headline: '・11月秋の伊香保温泉ひとり旅・湯元河鹿橋の紅葉ライトアップと黄金の湯おこもりで過ごす冬の旅（10月）！365段石段街・茶褐色の名湯・上州牛会席！大正ロマン厳選3宿',
     description: '10月下旬〜11月中旬は河鹿橋の紅葉が真っ赤に燃え上がる群馬・伊香保温泉！フレンチ仕込みの料理とモダンな洋風旅館で一人旅の満足度抜群の「洋風旅館ぴのん」、伊香保のシンボル石段街に近く創業四百余年の歴史を誇る「森秋旅館」、家庭的なもてなしと源泉かけ流しの「石坂旅館」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             群馬・伊香保温泉10-11月秋の河鹿橋紅葉＆黄金の湯ひとり旅おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【10月・11月秋の伊香保温泉ひとり旅・湯元河鹿橋の紅葉ライトアップと黄金の湯おこもり】365段石段街・茶褐色の名湯・上州牛会席！大正ロマン厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">・11月秋の伊香保温泉ひとり旅・湯元河鹿橋の紅葉ライトアップと黄金の湯おこもりで過ごす冬の旅（10月）！365段石段街・茶褐色の名湯・上州牛会席！大正ロマン厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

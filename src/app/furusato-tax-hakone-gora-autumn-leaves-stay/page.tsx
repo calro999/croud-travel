@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '箱根強羅温泉の登山鉄道紅葉トンネル＆箱根美術館苔庭！白濁にごり湯宿×ふるさと納税完全ガイド【2026年最新秋旅】神奈川',
+  title: '箱根強羅温泉の登山鉄道紅葉トンネル＆箱根美術館苔庭！白濁にごり湯宿×ふるさと納税厳選ガイド神奈川',
   description: '11月上旬〜下旬に箱根山が錦秋に染まる首都圏屈指の温泉リゾート「箱根強羅温泉」。箱根登山鉄道の紅葉トンネルや箱根美術館の深紅の苔庭散策と、大涌谷源泉の濃厚なにごり湯露天風呂を誇る「のうのう箱根」「瑞の香り」「箱根強羅 白檀」で特選相模牛や小田原鮮魚会席を堪能。ふるさと納税で実質2,000円。',
   keywords: ["2026年最新秋旅", "神奈川", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-hakone-gora-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '箱根強羅温泉の登山鉄道紅葉トンネル＆箱根美術館苔庭！白濁にごり湯宿×ふるさと納税完全ガイド【2026年最新秋旅】神奈川',
+    title: '箱根強羅温泉の登山鉄道紅葉トンネル＆箱根美術館苔庭！白濁にごり湯宿×ふるさと納税厳選ガイド神奈川',
     description: '11月上旬〜下旬に箱根山が錦秋に染まる首都圏屈指の温泉リゾート「箱根強羅温泉」。箱根登山鉄道の紅葉トンネルや箱根美術館の深紅の苔庭散策と、大涌谷源泉の濃厚なにごり湯露天風呂を誇る「のうのう箱根」「瑞の香り」「箱根強羅 白檀」で特選相模牛や小田原鮮魚会席を堪能。ふるさと納税で実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-hakone-gora-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -113,9 +113,7 @@ export default function FeatureArticlePage() {
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">
-            箱根強羅温泉の登山鉄道紅葉トンネル＆箱根美術館苔庭！白濁にごり湯宿×ふるさと納税完全ガイド【2026年最新秋旅】神奈川
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">箱根強羅温泉の登山鉄道紅葉トンネル＆箱根美術館苔庭！白濁にごり湯宿×ふるさと納税厳選ガイド神奈川</h1>
           <p className="text-sm md:text-lg text-stone-200 max-w-3xl mx-auto leading-relaxed">
             登山鉄道の紅葉回廊と箱根美術館の苔庭紅葉、大涌谷から引湯する乳白色のにごり湯。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
           </p>

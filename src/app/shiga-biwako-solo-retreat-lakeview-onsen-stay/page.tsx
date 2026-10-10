@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/shiga-biwako-solo-retreat-lakeview-onsen-stay/" },
-  title: '【琵琶湖ひとり旅・絶景おこもり】全室レイクビュー・天然温泉るりの湯・近江牛会席！日本最大の湖に癒やされる極上リゾート宿 厳選3選',
+  title: '琵琶湖ひとり旅・絶景おこもり：全室レイクビュー・天然温泉るりの湯・近江牛会席！日本最大の湖に癒やされる極上リゾート宿 厳選3選',
   description: '京都駅からJR新快速でわずか約9〜20分！「全室バルコニー付きレイクビュー＆天然温泉大浴場。」を誇る「琵琶湖ホテル」、丹下健三設計の38階超高層パノラマタワー「びわ湖大津プリンスホテル」、客室露天風呂と湖畔の朝夕部屋食が自慢の「おごと温泉 びわこ緑水亭」を徹底特集。',
   keywords: '琵琶湖 一人旅 ホテル,琵琶湖ホテル 宿泊,びわ湖大津プリンスホテル レイクビュー,おごと温泉 びわこ緑水亭 一人,滋賀 温泉 ひとり旅',
   openGraph: {
-    title: '【琵琶湖ひとり旅・絶景おこもり】全室レイクビュー・天然温泉るりの湯・近江牛会席！日本最大の湖に癒やされる極上リゾート宿 厳選3選',
+    title: '琵琶湖ひとり旅・絶景おこもり：全室レイクビュー・天然温泉るりの湯・近江牛会席！日本最大の湖に癒やされる極上リゾート宿 厳選3選',
     description: '京都駅からJR新快速でわずか約9〜20分！「全室バルコニー付きレイクビュー＆天然温泉大浴場。」を誇る「琵琶湖ホテル」、丹下健三設計の38階超高層パノラマタワー「びわ湖大津プリンスホテル」、客室露天風呂と湖畔の朝夕部屋食が自慢の「おごと温泉 びわこ緑水亭」を徹底特集。',
     url: 'https://croud-travel.pages.dev/shiga-biwako-solo-retreat-lakeview-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【琵琶湖ひとり旅・絶景おこもり】全室レイクビュー・天然温泉るりの湯・近江牛会席！日本最大の湖に癒やされる極上リゾート宿 厳選3選',
+    headline: '琵琶湖ひとり旅・絶景おこもり：全室レイクビュー・天然温泉るりの湯・近江牛会席！日本最大の湖に癒やされる極上リゾート宿 厳選3選',
     description: '京都駅からJR新快速でわずか約9〜20分！「全室バルコニー付きレイクビュー＆天然温泉大浴場。」を誇る「琵琶湖ホテル」、丹下健三設計の38階超高層パノラマタワー「びわ湖大津プリンスホテル」、客室露天風呂と湖畔の朝夕部屋食が自慢の「おごと温泉 びわこ緑水亭」を徹底特集。',
     author: {
       '@type': 'Organization',
@@ -74,9 +74,7 @@ export default function ArticlePage() {
           <span>✨</span>
           <span>滋賀・琵琶湖レイクビュー＆天然温泉おこもり特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【琵琶湖ひとり旅・絶景おこもり】全室レイクビュー・天然温泉るりの湯・近江牛会席！日本最大の湖に癒やされる極上リゾート宿 厳選3選
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">「琵琶湖ひとり旅・絶景おこもり」全室レイクビュー・天然温泉るりの湯・近江牛会席！日本最大の湖に癒やされる極上リゾート宿 厳選3選</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
           京都駅からJR新快速でわずか約9〜20分！「全室バルコニー付きレイクビュー＆天然温泉大浴場。」を誇る「琵琶湖ホテル」、丹下健三設計の38階超高層パノラマタワー「びわ湖大津プリンスホテル」、客室露天風呂と湖畔の朝夕部屋食が自慢の「おごと温泉 びわこ緑水亭」を徹底特集。
         </p>

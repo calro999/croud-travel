@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月会津芦ノ牧温泉】会津馬刺し！名宿5選',
+  title: '会津芦ノ牧温泉で過ごす冬の旅（11・12月）！会津馬刺し！名宿5選',
   description: '11月から12月にかけて福島県・会津若松の奥座敷「会津芦ノ牧温泉」は、大川（阿賀川）が何万年もの歳月をかけて刻んだ深い渓谷美「大川羽鳥県立自。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '芦ノ牧温泉 宿泊, 会津 芦ノ牧 温泉 11月 12月, 大川荘, 丸峰観光ホテル, 仙峡閣, 芦ノ牧グランドホテル, 芦ノ牧プリンスホテル, 会津馬刺し 宿, 会津牛, 大川渓谷 雪景色',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukushima-ashinomaki-onsen-okawa-valley-snow-stay/"
   },
   openGraph: {
-    title: '【11・12月会津芦ノ牧温泉】会津馬刺し！名宿5選',
+    title: '会津芦ノ牧温泉で過ごす冬の旅（11・12月）！会津馬刺し！名宿5選',
     description: '11月から12月にかけて福島県・会津若松の奥座敷「会津芦ノ牧温泉」は、大川（阿賀川）が何万年もの歳月をかけて刻んだ深い渓谷美「大川羽鳥県立自。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-fukushima-ashinomaki-onsen-okawa-valley-snow-stay',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -280,10 +280,7 @@ export default function AshinomakiOnsenWinterFeature() {
             <Snowflake className="w-4 h-4" />
             11月・12月 冬の渓谷名湯特集｜福島・会津芦ノ牧
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月福島・会津芦ノ牧温泉】<br className="hidden sm:inline" />
-            大川渓谷の初雪絶景と渓流露天・極上会津馬刺し＆会津牛の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">福島・会津芦ノ牧温泉で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 大川渓谷の初雪絶景と渓流露天・極上会津馬刺し＆会津牛の宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             行基菩薩開湯の幻の名湯にして、大川の深い渓谷が初雪で白銀に染まる幽玄の別天地。段々畑のような棚田風露天風呂に浸かり、新鮮な会津馬刺しと会津牛、新酒地酒に酔いしれる至高の冬旅。
           </p>

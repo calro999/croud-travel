@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【福山・尾道】鞆の浦の秋夕陽と尾道水道紅葉！3,000円台〜格安ホテル5選',
+  title: '福山・尾道：鞆の浦の秋夕陽と尾道水道紅葉！3,000円台〜格安ホテル5選',
   description: '常夜燈が浮かぶ歴史港町「鞆の浦」の秋夕陽と、千光寺公園から望む尾道水道の紅葉パノラマ！背脂ミンチが浮かぶ本場尾道ラーメンや小魚料理。福山駅前で1泊3,000円台で泊まれる高評価宿5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetFukuyamaHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>潮待ちの港鞆の浦夕陽＆尾道水道紅葉</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【福山】鞆の浦夕陽＆尾道水道紅葉を満喫！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「福山」鞆の浦夕陽＆尾道水道紅葉を満喫！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             瀬戸内海の穏やかな波とノスタルジックな常夜燈が夕焼けに染まる「鞆の浦（とものうら）」。そして電車で約20分の尾道・千光寺山頂から見下ろす尾道水道と色づくモミジ！夜は福山駅前で平打ち麺に魚介醤油スープが染みる尾道ラーメンや小鯛・ネブトの唐揚げ！3,000円台の優良宿を厳選。
           </p>

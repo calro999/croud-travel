@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/yamagata-solo-business-yamagatagyu-ramen-stay/" },
-  title: '【山形出張＆麺王国ひとり旅】山形駅直結・シモンズベッド・絶品山形牛！ラーメン消費量日本一の街を満喫する極上ホテル 厳選3選',
+  title: '山形出張＆麺王国ひとり旅：山形駅直結・シモンズベッド・絶品山形牛！ラーメン消費量日本一の街を満喫する極上ホテル 厳選3選',
   description: '山形新幹線つばさ直結・ラーメンの聖地＆果樹王国「山形」！「JR山形駅東西自由通路直結のフラッグシップ。」の「ホテルメトロポリタン山形」、駅西口徒歩2分で全室シモンズベッド完備の「リッチモンドホテル山形駅前」、七日町歓楽街近くの「山形グランドホテル」を徹底特集。',
   keywords: '山形 出張 ホテル おすすめ,山形 一人旅 ホテル,ホテルメトロポリタン山形 宿泊,リッチモンドホテル山形駅前 朝食,山形 ラーメン ホテル',
   openGraph: {
-    title: '【山形出張＆麺王国ひとり旅】山形駅直結・シモンズベッド・絶品山形牛！ラーメン消費量日本一の街を満喫する極上ホテル 厳選3選',
+    title: '山形出張＆麺王国ひとり旅：山形駅直結・シモンズベッド・絶品山形牛！ラーメン消費量日本一の街を満喫する極上ホテル 厳選3選',
     description: '山形新幹線つばさ直結・ラーメンの聖地＆果樹王国「山形」！「JR山形駅東西自由通路直結のフラッグシップ。」の「ホテルメトロポリタン山形」、駅西口徒歩2分で全室シモンズベッド完備の「リッチモンドホテル山形駅前」、七日町歓楽街近くの「山形グランドホテル」を徹底特集。',
     url: 'https://croud-travel.pages.dev/yamagata-solo-business-yamagatagyu-ramen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【山形出張＆麺王国ひとり旅】山形駅直結・シモンズベッド・絶品山形牛！ラーメン消費量日本一の街を満喫する極上ホテル 厳選3選',
+    headline: '山形出張＆麺王国ひとり旅：山形駅直結・シモンズベッド・絶品山形牛！ラーメン消費量日本一の街を満喫する極上ホテル 厳選3選',
     description: '山形新幹線つばさ直結・ラーメンの聖地＆果樹王国「山形」！「JR山形駅東西自由通路直結のフラッグシップ。」の「ホテルメトロポリタン山形」、駅西口徒歩2分で全室シモンズベッド完備の「リッチモンドホテル山形駅前」、七日町歓楽街近くの「山形グランドホテル」を徹底特集。',
     author: {
       '@type': 'Organization',
@@ -74,9 +74,7 @@ export default function ArticlePage() {
           <span>✨</span>
           <span>山形・出張＆山形牛・ご当地ラーメン特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【山形出張＆麺王国ひとり旅】山形駅直結・シモンズベッド・絶品山形牛！ラーメン消費量日本一の街を満喫する極上ホテル 厳選3選
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">「山形出張＆麺王国ひとり旅」山形駅直結・シモンズベッド・絶品山形牛！ラーメン消費量日本一の街を満喫する極上ホテル 厳選3選</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
           山形新幹線つばさ直結・ラーメンの聖地＆果樹王国「山形」！「JR山形駅東西自由通路直結のフラッグシップ。」の「ホテルメトロポリタン山形」、駅西口徒歩2分で全室シモンズベッド完備の「リッチモンドホテル山形駅前」、七日町歓楽街近くの「山形グランドホテル」を徹底特集。
         </p>

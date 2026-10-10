@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/matsumoto-city-solo-business-onsen-sauna-stay/" },
-  title: '【松本出張・天然温泉サウナ】国宝松本城・全館畳敷きあづみの湯・信州馬刺し！北アルプス城下町を極める厳選3宿',
+  title: '松本出張・天然温泉サウナ：国宝松本城・全館畳敷きあづみの湯・信州馬刺し！北アルプス城下町を極める厳選3宿',
   description: '特急あずさ・しなの直通！全館畳敷きで最上階天然温泉＆サウナが評判の和風プレミアム「御宿 野乃松本」、駅前すぐで自家源泉天然温泉大浴場を備える「ドーミーイン松本」、手作り郷土朝食と大浴場が愛される「松本ツーリストホテル」を徹底比較。',
   keywords: '松本 出張 ホテル,松本駅 サウナ ホテル,御宿野乃松本,ドーミーイン松本,松本ツーリストホテル,松本城 一人旅',
   openGraph: {
-    title: '【松本出張・天然温泉サウナ】国宝松本城・全館畳敷きあづみの湯・信州馬刺し！北アルプス城下町を極める厳選3宿',
+    title: '松本出張・天然温泉サウナ：国宝松本城・全館畳敷きあづみの湯・信州馬刺し！北アルプス城下町を極める厳選3宿',
     description: '特急あずさ・しなの直通！全館畳敷きで最上階天然温泉＆サウナが評判の和風プレミアム「御宿 野乃松本」、駅前すぐで自家源泉天然温泉大浴場を備える「ドーミーイン松本」、手作り郷土朝食と大浴場が愛される「松本ツーリストホテル」を徹底比較。',
     url: 'https://croud-travel.pages.dev/matsumoto-city-solo-business-onsen-sauna-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【松本出張・天然温泉サウナ】国宝松本城・全館畳敷きあづみの湯・信州馬刺し！北アルプス城下町を極める厳選3宿',
+    headline: '松本出張・天然温泉サウナ：国宝松本城・全館畳敷きあづみの湯・信州馬刺し！北アルプス城下町を極める厳選3宿',
     description: '特急あずさ・しなの直通！全館畳敷きで最上階天然温泉＆サウナが評判の和風プレミアム「御宿 野乃松本」、駅前すぐで自家源泉天然温泉大浴場を備える「ドーミーイン松本」、手作り郷土朝食と大浴場が愛される「松本ツーリストホテル」を徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             長野・松本天然温泉＆北アルプス城下町サウナ出張特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【松本出張・天然温泉サウナ】国宝松本城・全館畳敷きあづみの湯・信州馬刺し！北アルプス城下町を極める厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「松本出張・天然温泉サウナ」国宝松本城・全館畳敷きあづみの湯・信州馬刺し！北アルプス城下町を極める厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

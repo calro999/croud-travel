@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-waterfalls-resort-stay/" },
-  title: '日本三大名瀑＆豪快な水煙と滝見リゾート・温泉宿×ふるさと納税完全ガイド【2026年最新】華厳の滝・那智の滝・袋田の滝',
+  title: '日本三大名瀑＆豪快な水煙と滝見リゾート・温泉宿×ふるさと納税厳選ガイド華厳の滝・那智の滝・袋田の滝',
   description: '轟く爆音と立ち昇る水煙！栃木日光「華厳の滝」落差97mの一大パノラマと中禅寺金谷ホテル、和歌山那智勝浦「那智の滝」落差133m日本一の直瀑・熊野信仰と大洞窟温泉ホテル浦島、茨城大子町「袋田の滝」四段の岩肌を流れる氷瀑の美と袋田温泉思い出浪漫館。日本三大名瀑の大迫力景観と温泉を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大名瀑・大迫力絶景特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大名瀑＆豪快な水煙と滝見リゾート・温泉宿×ふるさと納税完全ガイド【2026年最新】華厳の滝・那智の滝・袋田の滝',
+    title: '日本三大名瀑＆豪快な水煙と滝見リゾート・温泉宿×ふるさと納税厳選ガイド華厳の滝・那智の滝・袋田の滝',
     description: '轟く爆音と立ち昇る水煙！栃木日光「華厳の滝」落差97mの一大パノラマと中禅寺金谷ホテル、和歌山那智勝浦「那智の滝」落差133m日本一の直瀑・熊野信仰と大洞窟温泉ホテル浦島、茨城大子町「袋田の滝」四段の岩肌を流れる氷瀑の美と袋田温泉思い出浪漫館。日本三大名瀑の大迫力景観と温泉を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-waterfalls-resort-stay',
@@ -158,9 +158,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大名瀑・大迫力絶景特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大名瀑＆豪快な滝見温泉宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大名瀑＆豪快な滝見温泉宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             日本各地に数ある滝の中でも、その規模・美しさ・歴史的由緒において頂点に立つ「日本三大名瀑」――世界遺産日光の中禅寺湖から落差97mを一気に落下する栃木の「華厳の滝」、落差133mという日本一の段差を誇り太古より熊野那智大社の御神体として祀られる和歌山の「那智の滝」、そして四段の岩壁を白い布を引くように滑り落ち西行法師も賞賛した茨城の「袋田の滝」。春の新緑、夏の水煙と涼風、秋の錦繍の紅葉、冬の神秘的な氷瀑（凍結した滝）と、四季折々にドラマチックな表情を見せてくれます。滝のマイナスイオンを全身に浴びてリフレッシュした後は、湖畔のリゾートや名湯露天風呂で心身を解きほぐし、日光湯波・勝浦生マグロ・奥久慈軍鶏の美食を味わう旅を楽天ふるさと納税でお楽しみください。
           </p>

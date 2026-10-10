@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月滋賀】極上近江牛！名宿5選',
+  title: '11・12・1月滋賀：極上近江牛！名宿5選',
   description: '11月下旬から1月、日本仏教の母山と仰がれる世界遺産「比叡山延暦寺」は、厳かな白銀の雪化粧に包まれます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '比叡山延暦寺 冬 参拝, 根本中堂 不滅の法灯, おごと温泉 近江牛 宿, 琵琶湖 雪景色 温泉, びわこ緑水亭, 湯の宿木もれび, 暖灯館きくのや, 雄山荘, 琵琶湖グランドホテル, 11月 12月 1月 滋賀 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shiga-hieizan-enryakuji-ogoto-onsen-omigyu-stay/"
   },
   openGraph: {
-    title: '【11・12・1月滋賀】極上近江牛！名宿5選',
+    title: '11・12・1月滋賀：極上近江牛！名宿5選',
     description: '11月下旬から1月、日本仏教の母山と仰がれる世界遺産「比叡山延暦寺」は、厳かな白銀の雪化粧に包まれます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-shiga-hieizan-enryakuji-ogoto-onsen-omigyu-stay',
     type: 'article',
@@ -236,12 +236,7 @@ export default function ShigaHieizanOgotoPage() {
             11月・12月・1月 世界遺産冬参拝＆琵琶湖温泉・近江牛特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-tight sm:leading-snug text-stone-100 font-serif">
-            白銀の霊峰に灯る不滅の法灯と湖畔の雪見名湯<br />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-200 via-amber-300 to-yellow-200">
-              世界遺産・比叡山延暦寺の静謐な冬参拝＆おごと温泉・極上近江牛の名宿
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-tight sm:leading-snug text-stone-100 font-serif">白銀の霊峰に灯る不滅の法灯と湖畔の雪見名湯<br /> <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-200 via-amber-300 to-yellow-200"> 世界遺産・比叡山延暦寺の静謐な冬参拝＆おごと温泉・極上近江牛の名宿 </span></h1>
 
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed max-w-3xl mx-auto font-light">
             日本仏教の母山・比叡山延暦寺。標高848mの白銀の峰に佇む国宝「根本中堂」で、1200年間燃え続ける「不滅の法灯」に祈りを捧げる静謐な冬。山頂から見下ろす雪の琵琶湖の大パノラマ、最澄ゆかりの古湯「おごと温泉」の美肌露天風呂、そして日本三大和牛「近江牛」のとろける美味に癒やされる珠玉の滞在をご案内します。

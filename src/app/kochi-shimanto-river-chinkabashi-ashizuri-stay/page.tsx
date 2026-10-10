@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kochi-shimanto-river-chinkabashi-ashizuri-stay/" },
-  title: "【高知・四万十川＆沈下橋・足摺岬】日本最後の清流カヌー・天然うなぎ＆カツオ宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "高知・四万十川＆沈下橋・足摺岬：日本最後の清流カヌー・天然うなぎ＆カツオ宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "最後の清流と四国最南端・高知四万十＆足摺エリア完全特化！欄干のない「佐田の沈下橋・岩間沈下橋」、四万十川カヌー・屋形船遊覧、足摺岬灯台・金剛福寺、名物「天然鮎・四万十うなぎ・初鰹タタキ宿」を徹底解説。",
   keywords: ["高知", "四万十川", "沈下橋", "足摺岬", "日本最後の清流カヌー", "天然うなぎ", "カツオ宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             SHIMANTO & ASHIZURI GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【高知・四万十川＆沈下橋・足摺岬】日本最後の清流カヌー・天然うなぎ＆カツオ宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「高知・四万十川＆沈下橋・足摺岬」日本最後の清流カヌー・天然うなぎ＆カツオ宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-emerald-100/90 leading-relaxed">
             大自然の原風景がそのまま息づく日本最後の清流「四万十川」。増水時に川底に沈むように設計された欄干のない「沈下橋」。清流を滑るように進むカヌーや帆掛け舟。四国最南端・足摺岬の断崖絶壁と太平洋の大海原。極上の天然うなぎとカツオの藁焼きを味わう旅。
           </p>

@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '名水百選・湧水めぐり＆名水蕎麦豆腐料理の宿×ふるさと納税完全ガイド【2026年最新】忍野八海・安曇野・郡上八幡の名湯',
+  title: '名水百選・湧水めぐり＆名水蕎麦豆腐料理の宿×ふるさと納税厳選ガイド忍野八海・安曇野・郡上八幡の名湯',
   description: '国土の恵み、清冽なる名水の郷へ！世界遺産富士の湧水・山梨忍野八海の手打ち蕎麦宿、北アルプス雪解け湧水・長野安曇野のわさび街道温泉リゾート、名水百選宗祇水・岐阜郡上八幡の天然鮎と名水豆腐。楽天ふるさと納税宿泊クーポンでお得に楽しむ美食水巡りガイド。',
   keywords: ["名水百選", "湧水めぐり", "2026年最新", "忍野八海", "安曇野", "郡上八幡の名湯", "温泉宿"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-spring-water-soba-tofu-onsen-stay/"
   },
   openGraph: {
-    title: '名水百選・湧水めぐり＆名水蕎麦豆腐料理の宿×ふるさと納税完全ガイド【2026年最新】忍野八海・安曇野・郡上八幡の名湯',
+    title: '名水百選・湧水めぐり＆名水蕎麦豆腐料理の宿×ふるさと納税厳選ガイド忍野八海・安曇野・郡上八幡の名湯',
     description: '国土の恵み、清冽なる名水の郷へ！世界遺産富士の湧水・山梨忍野八海の手打ち蕎麦宿、北アルプス雪解け湧水・長野安曇野のわさび街道温泉リゾート、名水百選宗祇水・岐阜郡上八幡の天然鮎と名水豆腐。楽天ふるさと納税宿泊クーポンでお得に楽しむ美食水巡りガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-spring-water-soba-tofu-onsen-stay',
     type: 'article',
@@ -54,9 +54,7 @@ export default function FurusatoFeaturePage() {
             <span>✨</span>
             <span>名水百選・手打ち蕎麦・名水豆腐特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            名水百選・湧水めぐり＆名水蕎麦豆腐料理の宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">名水百選・湧水めぐり＆名水蕎麦豆腐料理の宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             澄み切った湧水がこんこんと湧き出る里には、日本の食文化の原点があります。富士の伏流水やアルプスの雪解け水で打つ喉越し抜群の手打ち十割蕎麦、甘み際立つ名水仕込みの自家製豆腐、清流で育つみずみずしい本わさびや天然鮎。素材本来の繊細な旨味を余すところなく引き出す名水の恵みを、水清き里の名湯とともに楽天ふるさと納税の宿泊クーポンでお得に味わい尽くしましょう。
           </p>

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/dog-friendly-private-onsen-bath-resort-stay/" },
-  title: "【愛犬専用温泉付き客室＆露天風呂宿】伊豆・那須・箱根・関西 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "愛犬専用温泉付き客室＆露天風呂宿：伊豆・那須・箱根・関西 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "愛犬と一緒に温泉で極上の癒やし！客室専用愛犬用温泉・足湯＆露天風呂付き宿完全特化！伊豆高原、那須高原、箱根、京都・関西、愛犬専用バスタブ完備、滑りにくい床素材、美肌の天然温泉宿を徹底解説。",
   keywords: ["愛犬専用温泉付き客室", "露天風呂宿", "伊豆", "那須", "箱根", "関西", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function PetDogResortHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-gradient-to-r from-amber-300 to-yellow-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block shadow">
             DOG PRIVATE ONSEN GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【愛犬専用温泉付き客室＆露天風呂宿】伊豆・那須・箱根・関西 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「愛犬専用温泉付き客室＆露天風呂宿」伊豆・那須・箱根・関西 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             大好きな愛犬と一緒に湯浴みを楽しむ夢の休日「愛犬専用温泉付き客室＆露天風呂宿」。客室テラスに設えられた愛犬専用の天然温泉バスタブや足湯。飼い主の露天風呂のすぐ隣で一緒に温まる至福。愛犬用ドライヤーやトリミング台完備の名宿へ。
           </p>

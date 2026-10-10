@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【最高峰神戸牛＆香住紅ズワイガニ】有馬・城崎で味わう兵庫二大贅沢グルメと名湯宿5選",
+  title: "最高峰神戸牛＆香住紅ズワイガニ：有馬・城崎で味わう兵庫二大贅沢グルメと名湯宿5選",
   description: "世界に誇る最高峰ブランド牛「神戸ビーフ」と、日本海の冬・春の味覚「香住ガニ（紅ズワイガニ）」！日本三古湯・有馬温泉の金泉・銀泉や城崎温泉の外湯めぐりとともに、兵庫が誇る究極の美食を堪能する極上旅。",
   keywords: "有馬温泉 神戸牛 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/spring-hyogo-kobe-beef-tajima-crab-stay/",
   },
   openGraph: {
-    title: "【最高峰神戸牛＆香住紅ズワイガニ】有馬・城崎で味わう兵庫二大贅沢グルメと名湯宿5選",
+    title: "最高峰神戸牛＆香住紅ズワイガニ：有馬・城崎で味わう兵庫二大贅沢グルメと名湯宿5選",
     description: "世界に誇る最高峰ブランド牛「神戸ビーフ」と、日本海の冬・春の味覚「香住ガニ（紅ズワイガニ）」！日本三古湯・有馬温泉の金泉・銀泉や城崎温泉の外湯めぐりとともに、兵庫が誇る究極の美食を堪能する極上旅。",
     url: 'https://croud-travel.pages.dev/spring-hyogo-kobe-beef-tajima-crab-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【最高峰神戸牛＆香住紅ズワイガニ】有馬・城崎で味わう兵庫二大贅沢グルメと名湯宿5選",
+    title: "最高峰神戸牛＆香住紅ズワイガニ：有馬・城崎で味わう兵庫二大贅沢グルメと名湯宿5選",
     description: "世界に誇る最高峰ブランド牛「神戸ビーフ」と、日本海の冬・春の味覚「香住ガニ（紅ズワイガニ）」！日本三古湯・有馬温泉の金泉・銀泉や城崎温泉の外湯めぐりとともに、兵庫が誇る究極の美食を堪能する極上旅。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>神戸牛＆香住ガニ名湯宿</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【最高峰神戸牛＆香住紅ズワイガニ】有馬・城崎で味わう兵庫二大贅沢グルメと名湯宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「最高峰神戸牛＆香住紅ズワイガニ」有馬・城崎で味わう兵庫二大贅沢グルメと名湯宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             世界に誇る最高峰ブランド牛「神戸ビーフ」と、日本海の冬・春の味覚「香住ガニ（紅ズワイガニ）」！日本三古湯・有馬温泉の金泉・銀泉や城崎温泉の外湯めぐりとともに、兵庫が誇る究極の美食を堪能する極上旅。
           </p>

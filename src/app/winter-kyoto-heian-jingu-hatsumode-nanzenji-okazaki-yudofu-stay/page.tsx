@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月京都】初詣と神苑雪景色！名宿5選',
+  title: '11・12・1月京都：初詣と神苑雪景色！名宿5選',
   description: '11月中旬から1月にかけて、京都・岡崎から南禅寺・蹴上にかけての東山山麓は、観光客で賑わう秋の紅葉から一転。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '平安神宮 初詣, 南禅寺 水路閣 雪景色, 南禅寺 湯豆腐, ウェスティン都ホテル京都 温泉, ふふ 京都, 京都トラベラーズイン, 岡崎 宿泊, 11月 12月 1月 京都 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kyoto-heian-jingu-hatsumode-nanzenji-okazaki-yudofu-stay/"
   },
   openGraph: {
-    title: '【11・12・1月京都】初詣と神苑雪景色！名宿5選',
+    title: '11・12・1月京都：初詣と神苑雪景色！名宿5選',
     description: '11月中旬から1月にかけて、京都・岡崎から南禅寺・蹴上にかけての東山山麓は、観光客で賑わう秋の紅葉から一転。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-kyoto-heian-jingu-hatsumode-nanzenji-okazaki-yudofu-stay',
     siteName: '地域の宿探訪',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月京都】平安神宮＆南禅寺・岡崎！初詣と神苑雪景色・水路閣の冬情趣と名物湯豆腐・京懐石の名宿5選",
+    title: "11・12・1月京都：平安神宮＆南禅寺・岡崎！初詣と神苑雪景色・水路閣の冬情趣と名物湯豆腐・京懐石の名宿5選",
     description: "11月中旬から1月にかけて、京都・岡崎から南禅寺・蹴上にかけての東山山麓は、観光客で賑わう秋の紅葉から一転、古都本来の奥深い静寂と凛とした冬の美しさに包まれます。朱塗りの大鳥居が白雪に映える平安神宮の初詣と名勝神苑の雪化粧、赤レンガの水路閣や威風堂々たる三門が冬木立に佇む南禅寺。冷え切った身体に染み渡る発祥の地・南禅寺の名物熱々湯豆腐や冬の京懐石（かぶら蒸し・聖護院大根）。天然温泉や名庭園を備えた至高の隠れ宿。楽天APIから最新取得した実力宿5選を徹底特集します。",
     images: ["https://img.travel.rakuten.co.jp/share/HOTEL/1167/1167.jpg"]
   }
@@ -232,10 +232,7 @@ export default function KyotoHeianJinguWinterPage() {
             <span>11月・12月・1月冬の京都古都初詣＆東山静寂名湯特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">
-            平安神宮＆南禅寺・岡崎！<br className="hidden sm:inline" />
-            初詣と神苑雪景色・水路閣の冬情趣と名物湯豆腐・京懐石の名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">平安神宮＆南禅寺・岡崎！<br className="hidden sm:inline" /> 初詣と神苑雪景色・水路閣の冬情趣と名物湯豆腐・京懐石の名宿5選</h1>
 
           <p className="text-slate-300 text-sm sm:text-base lg:text-lg leading-relaxed max-w-3xl mb-8">
             壮大な朱塗りの大鳥居が雪に映える平安神宮の初詣、赤レンガの水路閣や威風堂々たる三門が冬の静寂に佇む南禅寺。底冷えする京都の旅を温める名物熱々湯豆腐やかぶら蒸し、そして東山の麓に湧く極上の天然温泉スパと名庭園。秋の賑わいから一転、古都本来の澄んだ気品に浸る冬の京都逗留をお届けします。

@@ -3,11 +3,11 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【秋の山形】山寺（立石寺）の奇岩絶壁紅葉クライミングと天童温泉！美食と名湯を楽しむおすすめ旅館5選【2026最新】',
+  title: '秋の山形：山寺（立石寺）の奇岩絶壁紅葉クライミングと天童温泉！美食と名湯を楽しむおすすめ旅館5選「2026最新」',
   description: '松尾芭蕉「閑さや岩にしみ入る蝉の声」の舞台・山寺（宝珠山立石寺）の1015段の石段と五大堂からの錦秋大パノラマ！登山の疲れを癒やす将棋の街・天童温泉の極上宿5選。松の湯、あづま荘、滝の湯の宿泊料金や見どころを詳しくご紹介！',
   keywords: '山寺 紅葉, 立石寺 五大堂 絶景, 天童温泉 旅館, 山形 紅葉 温泉, 天童温泉 滝の湯, 松の湯 天童',
   openGraph: {
-    title: '【秋の山形】山寺（立石寺）の奇岩絶壁紅葉クライミングと天童温泉！美食と名湯を楽しむおすすめ旅館5選【2026最新】',
+    title: '秋の山形：山寺（立石寺）の奇岩絶壁紅葉クライミングと天童温泉！美食と名湯を楽しむおすすめ旅館5選「2026最新」',
     description: '松尾芭蕉ゆかりの山寺・五大堂からの錦秋大パノラマと、天童温泉の美食と名湯を満喫する厳選旅館5選。',
     type: 'article',
     url: 'https://croud-travel.com/autumn-yamagata-yamadera-risshakuji-tendo-onsen-hotels-stay',
@@ -32,9 +32,7 @@ export default function YamaderaTendoAutumnPage() {
             <span className="px-3 py-1 bg-amber-600 text-white text-xs font-bold rounded-full">秋の東北・山形特集</span>
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">見頃目安: 10月下旬〜11月上旬</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">
-            【秋の山形】山寺（立石寺）の奇岩絶壁紅葉クライミングと天童温泉！美食と名湯を楽しむおすすめ旅館5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の山形」山寺（立石寺）の奇岩絶壁紅葉クライミングと天童温泉！美食と名湯を楽しむおすすめ旅館5選</h1>
           <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
             奇岩怪石が連なる宝珠山を彩る錦秋のグラデーション。1,015段の石段を踏みしめ登り詰めた「五大堂」から眼下に広がる紅葉渓谷の大パノラマと、車で約15分の天童温泉で味わう山形牛会席と名湯をご案内します。
           </p>

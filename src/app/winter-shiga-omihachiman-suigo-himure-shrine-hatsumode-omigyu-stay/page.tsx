@@ -5,14 +5,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月滋賀】極上近江牛すき焼き！名宿5選',
+  title: '11・12・1月滋賀：極上近江牛すき焼き！名宿5選',
   description: '近江商人の誇りが息づく重伝建の町並みと琵琶湖の冬景色！11〜1月は白壁土蔵や八幡堀の石垣が静寂な冬の空気に包まれ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '近江八幡 水郷めぐり, こたつ舟 近江八幡, 日牟禮八幡宮 初詣, 八幡山ロープウェー, 近江牛 すき焼き, 宮ヶ浜温泉, 休暇村 近江八幡, ホテルニューオウミ, たねやつぶら餅, 滋賀 冬 旅行',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-shiga-omihachiman-suigo-himure-shrine-hatsumode-omigyu-stay'
   },
   openGraph: {
-    title: '【11・12・1月滋賀】極上近江牛すき焼き！名宿5選',
+    title: '11・12・1月滋賀：極上近江牛すき焼き！名宿5選',
     description: '近江商人の誇りが息づく重伝建の町並みと琵琶湖の冬景色！11〜1月は白壁土蔵や八幡堀の石垣が静寂な冬の空気に包まれ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-shiga-omihachiman-suigo-himure-shrine-hatsumode-omigyu-stay',
     siteName: 'クラドトラベル',
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月滋賀】白壁土蔵が佇む「近江八幡水郷めぐり」冬のこたつ舟！千年の古社「日牟禮八幡宮」新春初詣・極上近江牛すき焼き＆長命寺温泉厳選名宿5選",
+    title: "11・12・1月滋賀：白壁土蔵が佇む「近江八幡水郷めぐり」冬のこたつ舟！千年の古社「日牟禮八幡宮」新春初詣・極上近江牛すき焼き＆長命寺温泉厳選名宿5選",
     description: "近江商人の誇りが息づく重伝建の町並みと琵琶湖の冬景色！11〜1月は白壁土蔵や八幡堀の石垣が静寂な冬の空気に包まれ、重要文化的景観「近江八幡の水郷」では冬限定のこたつ舟に揺られながら枯葦の情緒豊かな水路を進みます。近江商人信仰の総本山「日牟禮八幡宮」での商売繁盛・新春初詣と、八幡山ロープウェーから見晴らす白銀の比良山系と琵琶湖の絶景。きめ細やかな霜降り極まる最高峰「近江牛すき焼き」や赤こんにゃく・丁字麩の郷土美食を味わい、琵琶湖畔の温泉宿や近江八幡のハイクオリティ名宿5選を徹底特集。",
     images: ['https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=80']
   }
@@ -288,11 +288,7 @@ export default function ShigaOmihachimanWinterFeaturePage() {
               <Snowflake className="w-4 h-4 text-amber-400" />
               11月・12月・1月冬の近江湖東探訪スペシャル
             </div>
-            <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight mb-6">
-              【滋賀・近江八幡】<br className="hidden sm:inline" />
-              白壁土蔵佇む「近江八幡水郷めぐり」冬のこたつ舟！<br />
-              千年の古社「日牟禮八幡宮」新春初詣・極上近江牛＆名宿
-            </h1>
+            <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight mb-6">「滋賀・近江八幡」<br className="hidden sm:inline" /> 白壁土蔵佇む「近江八幡水郷めぐり」冬のこたつ舟！<br /> 千年の古社「日牟禮八幡宮」新春初詣・極上近江牛＆名宿</h1>
             <p className="text-sm sm:text-base md:text-lg text-stone-300 leading-relaxed max-w-3xl mx-auto mb-8 font-normal">
               近江商人の誇りと美意識が息づく重要伝統的建造物群保存地区。重要文化的景観第1号に輝く「近江八幡の水郷」で、冬限定のこたつ舟に温もりながら枯葦の迷路をめぐる風流なひととき。商売繁盛を願う近江商人信仰の総本山「日牟禮八幡宮」新春初詣と、八幡山から望む白銀の琵琶湖・比良山系大パノラマ。本場ならではのとろける「近江牛すき焼き」と、琵琶湖畔の宮ヶ浜温泉名宿へご案内します。
             </p>

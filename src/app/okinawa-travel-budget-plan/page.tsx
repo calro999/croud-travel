@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/okinawa-travel-budget-plan/" },
-  title: "【沖縄旅行 予算】2泊3日・3泊4日それぞれいくら？航空券・レンタカー・リゾートホテルのリアル費用",
+  title: "沖縄旅行 予算：2泊3日・3泊4日それぞれいくら？航空券・レンタカー・リゾートホテルのリアル費用",
   description: "沖縄旅行の予算を2泊3日（那覇中心）・3泊4日（美ら海水族館＋恩納村リゾート込み）で完全計算！LCC vs 大手航空の航空券代、レンタカーの有無で変わる費用差、ビーチホテルの宿泊費、沖縄そば・タコライス・ステーキの食費まで。",
   keywords: ["沖縄旅行", "予算", "2泊3日", "3泊4日それぞれいくら？航空券", "レンタカー", "リゾートホテルのリアル費用", "温泉宿"],
 };
@@ -60,10 +60,7 @@ export default function OkinawaTravelBudgetPage() {
           <span className="inline-block bg-white/20 backdrop-blur-md border border-white/40 text-white text-xs font-black px-5 py-2 rounded-full tracking-widest">
             OKINAWA BUDGET SIMULATION
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white drop-shadow-md">
-            【沖縄旅行の予算】<br />
-            最安旅 vs リゾート贅沢旅の振れ幅がすごい！
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white drop-shadow-md">「沖縄旅行の予算」<br /> 最安旅 vs リゾート贅沢旅の振れ幅がすごい！</h1>
           <p className="text-sm md:text-base text-cyan-50 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             LCC＋レンタカーなしで極限まで安く抑えるか、海沿いのリゾートホテルで優雅に過ごすか。スタイルによって「0が1つ違う」ほど予算が変わる沖縄旅行。航空券・レンタカー・食費・ホテル代のリアルな金額を全て公開します。
           </p>

@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月大阪】住吉大社新春初詣！名宿5選',
+  title: '11・12・1月大阪：住吉大社新春初詣！名宿5選',
   description: '冬の大阪は、全長4kmに及ぶ世界最大級の御堂筋イルミネーションや中之島「OSAKA光のルネサンス」が街を眩く彩り。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '大阪 ホテル, 御堂筋 イルミネーション, 住吉大社 初詣, スイスホテル南海大阪, コンラッド大阪, 御宿野乃 大阪淀屋橋, 大阪 てっちり, 11月 12月 1月 大阪 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-osaka-city-sumiyoshi-taisha-hatsumode-illumination-fugu-stay/"
   },
   openGraph: {
-    title: '【11・12・1月大阪】住吉大社新春初詣！名宿5選',
+    title: '11・12・1月大阪：住吉大社新春初詣！名宿5選',
     description: '冬の大阪は、全長4kmに及ぶ世界最大級の御堂筋イルミネーションや中之島「OSAKA光のルネサンス」が街を眩く彩り。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-osaka-city-sumiyoshi-taisha-hatsumode-illumination-fugu-stay',
     type: 'article'
@@ -251,10 +251,7 @@ export default function OsakaCityWinterFeaturePage() {
             <Sparkles className="w-4 h-4 text-amber-300" />
             11月・12月・1月冬の特選旅｜大阪・御堂筋＆住吉大社
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">
-            冬の大阪・住吉大社新春初詣＆御堂筋イルミネーション！<br className="hidden sm:inline" />
-            本場てっちりと煌めく夜景・天然温泉に寛ぐ名宿5選
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">冬の大阪・住吉大社新春初詣＆御堂筋イルミネーション！<br className="hidden sm:inline" /> 本場てっちりと煌めく夜景・天然温泉に寛ぐ名宿5選</h1>
           <p className="text-base sm:text-lg text-slate-200/90 leading-relaxed max-w-4xl mb-8">
             水都大阪が一年で最も眩い輝きを放つ冬。全長4kmの光の街道「御堂筋イルミネーション」や中之島の水辺を彩る「OSAKA光のルネサンス」が都会の夜を幻想的に染め上げ、新春には全国2300社の総本社・住吉大社が開運厄除けの初詣客で賑わいます。大阪人が愛してやまない冬の味覚の王様「本場てっちり（とらふぐ鍋）」となにわ割烹に舌鼓を打ち、地上高層ホテルの絶景や都心の天然温泉に癒やされる特別な冬ステイをご提案します。
           </p>

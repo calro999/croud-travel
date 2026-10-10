@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            十日町・星峠の棚田雲海と日本三大薬湯・松之山温泉！魚沼新米コシヒカリ＆越後妻有秋アート旅
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">十日町・星峠の棚田雲海と日本三大薬湯・松之山温泉！魚沼新米コシヒカリ＆越後妻有秋アート旅</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             黄金の稲穂と棚田を包む朝霧の雲海、日本三大薬湯が誇る大地の恵みと魚沼新米の極上時間
           </p>

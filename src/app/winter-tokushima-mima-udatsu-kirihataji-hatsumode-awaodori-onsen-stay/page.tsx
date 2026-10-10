@@ -3,14 +3,14 @@ import Link from 'next/link';
 import { MapPin, Calendar, Star, ExternalLink, ChevronRight, Sparkles, Compass, ShieldCheck, Heart } from 'lucide-react';
 
 export const metadata = {
-  title: '【藍商人の白壁美・うだつの町並みと四国霊場切幡寺初詣】2026-2027年冬の徳島・美馬＆吉野川！阿波尾鶏地鶏鍋と清流温泉名宿5選',
+  title: '藍商人の白壁美・うだつの町並みと四国霊場切幡寺初詣：2026-2027年冬の徳島・美馬＆吉野川！阿波尾鶏地鶏鍋と清流温泉名宿5選',
   description: '江戸〜明治の藍商人たちが築いた重伝建「脇町・うだつの上がる町並み」の凛とした冬景色！四国八十八箇所第十番札所・切幡寺の五重塔新春初詣。徳島が誇る最高峰地鶏「阿波尾鶏」の水炊き・すき焼きと吉野川流域の美肌温泉に癒やされる冬の厳選名宿5選。',
   keywords: ['美馬・吉野川・阿波', '徳島県 温泉', '冬旅行', '初詣', '11月旅行', '12月旅行', '1月旅行', '宿泊予約', '楽天トラベル'],
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-tokushima-mima-udatsu-kirihataji-hatsumode-awaodori-onsen-stay/',
   },
   openGraph: {
-    title: '【藍商人の白壁美・うだつの町並みと四国霊場切幡寺初詣】2026-2027年冬の徳島・美馬＆吉野川！阿波尾鶏地鶏鍋と清流温泉名宿5選',
+    title: '藍商人の白壁美・うだつの町並みと四国霊場切幡寺初詣：2026-2027年冬の徳島・美馬＆吉野川！阿波尾鶏地鶏鍋と清流温泉名宿5選',
     description: '江戸〜明治の藍商人たちが築いた重伝建「脇町・うだつの上がる町並み」の凛とした冬景色！四国八十八箇所第十番札所・切幡寺の五重塔新春初詣。徳島が誇る最高峰地鶏「阿波尾鶏」の水炊き・すき焼きと吉野川流域の美肌温泉に癒やされる冬の厳選名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-tokushima-mima-udatsu-kirihataji-hatsumode-awaodori-onsen-stay/',
     siteName: '冬の日本厳選旅行ガイド',
@@ -27,7 +27,7 @@ export const metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: '【藍商人の白壁美・うだつの町並みと四国霊場切幡寺初詣】2026-2027年冬の徳島・美馬＆吉野川！阿波尾鶏地鶏鍋と清流温泉名宿5選',
+    title: '藍商人の白壁美・うだつの町並みと四国霊場切幡寺初詣：2026-2027年冬の徳島・美馬＆吉野川！阿波尾鶏地鶏鍋と清流温泉名宿5選',
     description: '江戸〜明治の藍商人たちが築いた重伝建「脇町・うだつの上がる町並み」の凛とした冬景色！四国八十八箇所第十番札所・切幡寺の五重塔新春初詣。徳島が誇る最高峰地鶏「阿波尾鶏」の水炊き・すき焼きと吉野川流域の美肌温泉に癒やされる冬の厳選名宿5選。',
     images: ['https://img.travel.rakuten.co.jp/share/HOTEL/181667/181667.jpg'],
   },
@@ -230,9 +230,7 @@ export default function Page() {
               <span>2026-2027年冬（11月・12月・1月）完全ガイド</span>
             </div>
 
-            <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold tracking-tight leading-snug">
-              【藍商人の白壁美・うだつの町並みと四国霊場切幡寺初詣】2026-2027年冬の徳島・美馬＆吉野川！阿波尾鶏地鶏鍋と清流温泉名宿5選
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold tracking-tight leading-snug">「藍商人の白壁美・うだつの町並みと四国霊場切幡寺初詣」2026-2027年冬の徳島・美馬＆吉野川！阿波尾鶏地鶏鍋と清流温泉名宿5選</h1>
 
             <p className="text-sm sm:text-base text-stone-200 leading-relaxed pt-2">
               江戸〜明治の藍商人たちが築いた重伝建「脇町・うだつの上がる町並み」の凛とした冬景色！四国八十八箇所第十番札所・切幡寺の五重塔新春初詣。徳島が誇る最高峰地鶏「阿波尾鶏」の水炊き・すき焼きと吉野川流域の美肌温泉に癒やされる冬の厳選名宿5選。

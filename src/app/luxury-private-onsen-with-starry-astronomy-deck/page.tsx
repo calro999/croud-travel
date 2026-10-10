@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】日本一の星空・阿智村！天体観測専用デッキ＆満天星露天風呂付き極上宿5選 | 日本全国・旅宿クラウド',
+  title: '2026年：日本一の星空・阿智村！天体観測専用デッキ＆満天星露天風呂付き極上宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！環境省認定日本一の星空の村・長野県阿智村（昼神温泉）！星空ナイトツアーや客室星空デッキ、美肌の湯で宇宙の神秘に包まれる名宿5選。',
   keywords: ["2026年", "日本一の星空", "阿智村！天体観測専用デッキ", "満天星露天風呂付き極上宿5選", "日本全国", "旅宿クラウド", "温泉宿"],
   openGraph: {
-    title: '【2026年】日本一の星空・阿智村！天体観測専用デッキ＆満天星露天風呂付き極上宿5選',
+    title: '2026年：日本一の星空・阿智村！天体観測専用デッキ＆満天星露天風呂付き極上宿5選',
     description: '2026年最新！環境省認定日本一の星空の村・長野県阿智村（昼神温泉）！星空ナイトツアーや客室星空デッキ、美肌の湯で宇宙の神秘に包まれる名宿5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/luxury-private-onsen-with-starry-astronomy-deck',
@@ -193,9 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> 日本一の阿智村星空×昼神美肌名湯
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】日本一の星空・阿智村！天体観測専用デッキ＆満天星露天風呂付き極上宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」日本一の星空・阿智村！天体観測専用デッキ＆満天星露天風呂付き極上宿5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             満天の星が夜空を埋め尽くす「日本一の星空の村」長野県阿智村。天体望遠鏡を備えた展望デッキや、寝湯から星を仰ぐ露天風呂、トロトロの美肌湯として名高い昼神温泉で過ごすロマンチックなひととき。
           </p>

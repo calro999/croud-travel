@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            世界遺産・五箇山合掌造りと庄川峡紅葉遊覧船！庄川温泉郷の美肌湯・秋の鮎料理と富山地酒を味わう秋旅
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">世界遺産・五箇山合掌造りと庄川峡紅葉遊覧船！庄川温泉郷の美肌湯・秋の鮎料理と富山地酒を味わう秋旅</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             エメラルドグリーンの峡谷美を染める紅葉と、合掌造りの里に湧く庄川の名湯・旬鮎の口福
           </p>

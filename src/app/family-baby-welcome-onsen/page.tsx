@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/family-baby-welcome-onsen/" },
-  title: "【赤ちゃん・子連れ歓迎温泉宿】ウェルカムベビー認定・部屋食＆貸切風呂 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "赤ちゃん・子連れ歓迎温泉宿：ウェルカムベビー認定・部屋食＆貸切風呂 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "ミキハウス子育て総研「ウェルカムベビーのお宿」認定ホテル＆旅館完全特化！調乳ポット・おむつ用ゴミ箱完備、赤ちゃん温泉デビュー、周りを気にせず安心の部屋食・個室食、家族専用貸切風呂付き温泉宿を徹底解説。",
   keywords: ["赤ちゃん", "子連れ歓迎温泉宿", "ウェルカムベビー認定", "部屋食", "貸切風呂", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function TargetAudienceHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             BABY & KIDS WELCOME GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【赤ちゃん・子連れ歓迎温泉宿】ウェルカムベビー認定・部屋食＆貸切風呂 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「赤ちゃん・子連れ歓迎温泉宿」ウェルカムベビー認定・部屋食＆貸切風呂 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             初めての家族旅行や赤ちゃんの温泉デビューを全力応援！ミキハウス認定の充実ベビーアメニティ、転んでも痛くない和室・クッションフロア、周囲に気兼ねなく楽しめるお部屋食や貸切風呂完備の極上宿。
           </p>

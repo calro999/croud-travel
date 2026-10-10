@@ -172,9 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>渓谷美×秘境峡谷露天風呂</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            エメラルドグリーンの渓谷美と秘境吊り橋！大自然の峡谷露天風呂に癒やされる隠れ家温泉宿
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">エメラルドグリーンの渓谷美と秘境吊り橋！大自然の峡谷露天風呂に癒やされる隠れ家温泉宿</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             清らかな渓流のせせらぎ、深い緑や錦秋の峡谷、そしてスリルと絶景が広がる吊り橋。手つかずの大自然に抱かれた秘境の露天風呂で、日常の喧騒を完全に忘れて心身をリセットできる隠れ家宿をご紹介します。
           </p>

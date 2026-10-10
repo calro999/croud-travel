@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagano-hirugami-solo-retreat-starry-sky-onsen-stay/" },
-  title: '【昼神温泉ひとり旅・日本一の星空おこもり】pH9.7超とろとろ美肌の湯・阿智村ナイトツアー・信州郷土会席！南信州の星降る里厳選3宿',
+  title: '昼神温泉ひとり旅・日本一の星空おこもり：pH9.7超とろとろ美肌の湯・阿智村ナイトツアー・信州郷土会席！南信州の星降る里厳選3宿',
   description: '環境省認定「日本一星空が綺麗な村」阿智村・昼神温泉！阿知川沿いで庭園露天風呂と温水プールも備える「ひるがみの森」、多彩な大浴場と信州アルプス牛料理が評判の「湯多利の里 伊那華」、囲炉裏炉ばた料理と炭火会席が自慢の老舗「吉弥」を徹底比較。',
   keywords: '昼神温泉 一人旅 宿,阿智村 ホテル 一人 星空,ひるがみの森,湯多利の里 伊那華,昼神温泉 吉弥,阿智村 ナイトツアー ひとり旅',
   openGraph: {
-    title: '【昼神温泉ひとり旅・日本一の星空おこもり】pH9.7超とろとろ美肌の湯・阿智村ナイトツアー・信州郷土会席！南信州の星降る里厳選3宿',
+    title: '昼神温泉ひとり旅・日本一の星空おこもり：pH9.7超とろとろ美肌の湯・阿智村ナイトツアー・信州郷土会席！南信州の星降る里厳選3宿',
     description: '環境省認定「日本一星空が綺麗な村」阿智村・昼神温泉！阿知川沿いで庭園露天風呂と温水プールも備える「ひるがみの森」、多彩な大浴場と信州アルプス牛料理が評判の「湯多利の里 伊那華」、囲炉裏炉ばた料理と炭火会席が自慢の老舗「吉弥」を徹底比較。',
     url: 'https://croud-travel.pages.dev/nagano-hirugami-solo-retreat-starry-sky-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【昼神温泉ひとり旅・日本一の星空おこもり】pH9.7超とろとろ美肌の湯・阿智村ナイトツアー・信州郷土会席！南信州の星降る里厳選3宿',
+    headline: '昼神温泉ひとり旅・日本一の星空おこもり：pH9.7超とろとろ美肌の湯・阿智村ナイトツアー・信州郷土会席！南信州の星降る里厳選3宿',
     description: '環境省認定「日本一星空が綺麗な村」阿智村・昼神温泉！阿知川沿いで庭園露天風呂と温水プールも備える「ひるがみの森」、多彩な大浴場と信州アルプス牛料理が評判の「湯多利の里 伊那華」、囲炉裏炉ばた料理と炭火会席が自慢の老舗「吉弥」を徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             長野・昼神温泉ひとり旅＆日本一の星空おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【昼神温泉ひとり旅・日本一の星空おこもり】pH9.7超とろとろ美肌の湯・阿智村ナイトツアー・信州郷土会席！南信州の星降る里厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「昼神温泉ひとり旅・日本一の星空おこもり」pH9.7超とろとろ美肌の湯・阿智村ナイトツアー・信州郷土会席！南信州の星降る里厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

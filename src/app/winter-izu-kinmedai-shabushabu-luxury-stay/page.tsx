@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【冬が一番脂がのる！稲取・下田の極上金目鯛】しゃぶしゃぶ＆姿煮と伊豆絶景温泉宿5選",
+  title: "冬が一番脂がのる！稲取・下田の極上金目鯛：しゃぶしゃぶ＆姿煮と伊豆絶景温泉宿5選",
   description: "11月〜12月の初冬に脂の乗りが最高潮を迎える伊豆名物「地金目鯛」！鮮やかな紅色の身をサッと出汁にくぐらせる金目鯛しゃぶしゃぶや、秘伝のタレで煮付けた丸ごと姿煮、そして相模湾一望の絶景露天風呂を堪能する旅。",
   keywords: "伊豆 温泉 金目鯛 旅館, 11月旅行, 12月旅行, 冬休み, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-izu-kinmedai-shabushabu-luxury-stay/",
   },
   openGraph: {
-    title: "【冬が一番脂がのる！稲取・下田の極上金目鯛】しゃぶしゃぶ＆姿煮と伊豆絶景温泉宿5選",
+    title: "冬が一番脂がのる！稲取・下田の極上金目鯛：しゃぶしゃぶ＆姿煮と伊豆絶景温泉宿5選",
     description: "11月〜12月の初冬に脂の乗りが最高潮を迎える伊豆名物「地金目鯛」！鮮やかな紅色の身をサッと出汁にくぐらせる金目鯛しゃぶしゃぶや、秘伝のタレで煮付けた丸ごと姿煮、そして相模湾一望の絶景露天風呂を堪能する旅。",
     url: 'https://croud-travel.pages.dev/winter-izu-kinmedai-shabushabu-luxury-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【冬が一番脂がのる！稲取・下田の極上金目鯛】しゃぶしゃぶ＆姿煮と伊豆絶景温泉宿5選",
+    title: "冬が一番脂がのる！稲取・下田の極上金目鯛：しゃぶしゃぶ＆姿煮と伊豆絶景温泉宿5選",
     description: "11月〜12月の初冬に脂の乗りが最高潮を迎える伊豆名物「地金目鯛」！鮮やかな紅色の身をサッと出汁にくぐらせる金目鯛しゃぶしゃぶや、秘伝のタレで煮付けた丸ごと姿煮、そして相模湾一望の絶景露天風呂を堪能する旅。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>極上金目鯛会席＆伊豆絶景温泉</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【冬が一番脂がのる！稲取・下田の極上金目鯛】しゃぶしゃぶ＆姿煮と伊豆絶景温泉宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「冬が一番脂がのる！稲取・下田の極上金目鯛」しゃぶしゃぶ＆姿煮と伊豆絶景温泉宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             11月〜12月の初冬に脂の乗りが最高潮を迎える伊豆名物「地金目鯛」！鮮やかな紅色の身をサッと出汁にくぐらせる金目鯛しゃぶしゃぶや、秘伝のタレで煮付けた丸ごと姿煮、そして相模湾一望の絶景露天風呂を堪能する旅。
           </p>

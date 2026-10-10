@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-kannon-temples-stay/" },
-  title: '日本三大観音＆諸願成就の霊場・下町風情と湖畔の祈り宿×ふるさと納税完全ガイド【2026年最新】浅草観音・石山観音・大須観音',
+  title: '日本三大観音＆諸願成就の霊場・下町風情と湖畔の祈り宿×ふるさと納税厳選ガイド浅草観音・石山観音・大須観音',
   description: '人々の信仰と江戸・上方・尾張の文化を育んだ名刹！都内最古の寺で雷門の賑わいを誇る「浅草寺（浅草観音）」御宿野乃浅草別邸、紫式部ゆかりの西国霊場で瀬田川の清流を望む「石山寺（石山観音）」南郷温泉二葉屋、大須商店街の活気と七ツ寺の歴史薫る「大須観音」ホテルアベスト大須観音駅前。日本三大観音霊場の参拝と名宿ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大観音・聖地祈願特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大観音＆諸願成就の霊場・下町風情と湖畔の祈り宿×ふるさと納税完全ガイド【2026年最新】浅草観音・石山観音・大須観音',
+    title: '日本三大観音＆諸願成就の霊場・下町風情と湖畔の祈り宿×ふるさと納税厳選ガイド浅草観音・石山観音・大須観音',
     description: '人々の信仰と江戸・上方・尾張の文化を育んだ名刹！都内最古の寺で雷門の賑わいを誇る「浅草寺（浅草観音）」御宿野乃浅草別邸、紫式部ゆかりの西国霊場で瀬田川の清流を望む「石山寺（石山観音）」南郷温泉二葉屋、大須商店街の活気と七ツ寺の歴史薫る「大須観音」ホテルアベスト大須観音駅前。日本三大観音霊場の参拝と名宿ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-kannon-temples-stay',
@@ -142,9 +142,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大観音・聖地祈願特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大観音＆諸願成就の霊場・門前町名宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大観音＆諸願成就の霊場・門前町名宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             観世音菩薩の慈悲にすがり、人々の現世利益と心の安らぎを叶えてきた「日本三大観音（三大霊場）」――推古天皇の時代に隅田川から引き揚げられた聖観音像を本尊とし雷門から仲見世の賑わいが江戸情緒を伝える東京の「浅草寺（浅草観音）」、奈良時代に良弁僧正が開山し紫式部が参籠して源氏物語を起筆したと伝わる滋賀大津の「石山寺（石山観音）」、そして美濃国大須から徳川家康の名古屋城築城とともに移転し日本三大経蔵を擁する愛知名古屋の「大須観音（寶生院）」。門前町の名物グルメを味わいながら心洗われる参拝の旅路を、快適なホテルや温泉宿とともに楽天ふるさと納税でお楽しみください。
           </p>

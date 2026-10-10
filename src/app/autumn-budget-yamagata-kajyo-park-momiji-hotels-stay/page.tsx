@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【山形】霞城公園の秋紅葉と本場芋煮を満喫！格安・高コスパホテル5選',
+  title: '山形：霞城公園の秋紅葉と本場芋煮を満喫！格安・高コスパホテル5選',
   description: '秋の山形城跡・霞城公園を彩る見事な紅葉と、河原や名店で味わう熱々の本場芋煮！山形駅周辺でお得に泊まれる1泊3,000円台〜5,000円台の格安・高評価ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetYamagataHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>霞城公園の紅葉絵巻と本場醤油牛芋煮</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【山形】霞城公園の紅葉と本場芋煮を堪能！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「山形」霞城公園の紅葉と本場芋煮を堪能！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-red-100/90 max-w-2xl mx-auto leading-relaxed">
             山形城跡を囲む霞城公園のお濠と木々が錦秋に染まる絶景。里芋と山形牛を醤油仕立てでぐつぐつ煮込んだ本場芋煮、つや姫の新米など、秋の山形は実りの宝庫！駅前徒歩圏の高評価ホテルを1泊3,000円台〜5,000円台で厳選。
           </p>

@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-kanto-fuji-guide/" },
-  title: "【シルバーウィーク2026 富士山・関東グランピング】客室天然温泉＆富士絶景ドームテントおすすめ厳選 ｜ 日本全国・旅宿クラウド",
+  title: "シルバーウィーク2026 富士山・関東グランピング：客室天然温泉＆富士絶景ドームテントおすすめ厳選 ｜ 日本全国・旅宿クラウド",
   description:
     "9月シルバーウィークに行きたい関東・富士五湖周辺の最高峰グランピング特集！部屋から富士山を望む大型ドームテント、客室専用の天然温泉露天風呂、焚き火と秋風を楽しむラグジュアリーステイ予約ガイド。",
   keywords: ["シルバーウィーク2026", "富士山", "関東グランピング", "客室天然温泉", "温泉宿", "宿泊予約", "楽天トラベル"],
@@ -114,14 +114,7 @@ export default function SilverWeekGlampingKantoFujiPage() {
             <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
             2026年秋の連休特選・ラグジュアリーアウトドア
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【シルバーウィーク2026 富士山・関東グランピング】<br />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-300 via-teal-200 to-amber-200">
-              客室天然温泉＆富士絶景ドームテント
-            </span>
-            <br />
-            秋風と焚き火に癒やされる極上リゾート厳選
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「シルバーウィーク2026 富士山・関東グランピング」<br /> <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-300 via-teal-200 to-amber-200"> 客室天然温泉＆富士絶景ドームテント </span> <br /> 秋風と焚き火に癒やされる極上リゾート厳選</h1>
           <p className="text-slate-300 text-base sm:text-lg max-w-3xl leading-relaxed mb-8">
             暑さが和らぎ、空気が澄み渡る9月のシルバーウィークは、冠雪前の雄大な富士山を最も美しく仰ぎ見ることができる黄金期。
             客室から一歩も出ずに湯浴みできる専用天然温泉、プライベートデッキでの本格炭火BBQ、夜空に揺らめく焚き火の炎。

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/ehime-shimanami-kaido-imabari-stay/" },
-  title: "【愛媛・しまなみ海道＆今治】来島海峡大橋・多島美サイクリング＆来島鯛極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "愛媛・しまなみ海道＆今治：来島海峡大橋・多島美サイクリング＆来島鯛極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "サイクリストの聖地・瀬戸内しまなみ海道＆今治エリア完全特化！世界初の三連吊橋「来島海峡大橋」、亀老山展望公園パノラマ、急流観潮船、今治タオル、来島海峡の急流で育つ「来島鯛」とオーシャンビュー宿を徹底解説。",
   keywords: ["愛媛", "しまなみ海道", "今治", "来島海峡大橋", "多島美サイクリング", "来島鯛極上宿", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             SHIMANAMI KAIDO RESORT GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【愛媛・しまなみ海道＆今治】来島海峡大橋・多島美サイクリング＆来島鯛極上宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「愛媛・しまなみ海道＆今治」来島海峡大橋・多島美サイクリング＆来島鯛極上宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             瀬戸内海の島々を6つの橋で結ぶ海の道「しまなみ海道」。世界初の三連吊橋「来島海峡大橋」と青い海。隈研吾設計の「亀老山展望公園」から望む夕日の多島美。身が引き締まった名物「来島鯛」と今治タオルの心地よさに包まれる旅。
           </p>

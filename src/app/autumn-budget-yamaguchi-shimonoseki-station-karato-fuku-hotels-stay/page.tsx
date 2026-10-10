@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【下関駅前】唐戸市場の旬とらふく＆名物瓦そば！2,000円台〜泊まれる格安ホテル5選',
+  title: '下関駅前：唐戸市場の旬とらふく＆名物瓦そば！2,000円台〜泊まれる格安ホテル5選',
   description: '関門海峡を臨む下関！唐戸市場の活気あふれる週末寿司バトル「活きいき馬関街」や秋の味覚・名物とらふく（河豚）、熱々の瓦そば。JR下関駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>関門海峡の海の幸・本場とらふく＆名物瓦そば</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【下関駅前】唐戸市場の旬ふく＆関門海峡！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「下関駅前」唐戸市場の旬ふく＆関門海峡！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             本州最西端の海峡都市・山口県下関。秋から冬にかけて最高潮を迎える「本場下関のとらふく」や、茶そばを熱々の瓦で香ばしく焼き上げる名物「瓦そば」。週末に大賑わいを見せる唐戸市場の海鮮寿司バトルを巡り、下関駅周辺で2,000円台〜泊まれる優良格安ホテルを厳選。
           </p>

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kumamoto-amakusa-islands-sakitsu-stay/" },
-  title: "【熊本・天草諸島＆三角】世界遺産﨑津集落・イルカウォッチング＆天草大王・車海老宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "熊本・天草諸島＆三角：世界遺産﨑津集落・イルカウォッチング＆天草大王・車海老宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "天草五橋で結ばれる島々と潜伏キリシタンの祈り・熊本天草エリア完全特化！世界遺産「﨑津集落（﨑津教会・海の天主堂）」、通詞島沖の「野生イルカウォッチング」、天草五橋ドライブ、三角西港、名物「天草大王・幻の車海老宿」を徹底解説。",
   keywords: ["熊本", "天草諸島", "三角", "世界遺産﨑津集落", "イルカウォッチング", "天草大王", "車海老宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             AMAKUSA ISLANDS & SAKITSU GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【熊本・天草諸島＆三角】世界遺産﨑津集落・イルカウォッチング＆天草大王・車海老宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「熊本・天草諸島＆三角」世界遺産﨑津集落・イルカウォッチング＆天草大王・車海老宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             紺碧の有明海と八代海を跨ぐ「天草五橋」を渡り、120余の島々へ。世界遺産に登録された潜伏キリシタンの漁村「﨑津集落」とゴシック様式の教会。約200頭の野生イルカと出会うクルーズ。幻の地鶏・天草大王と踊り食い車海老を味わう楽園の旅。
           </p>

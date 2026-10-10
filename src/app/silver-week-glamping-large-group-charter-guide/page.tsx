@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-large-group-charter-guide/" },
-  title: "【大人数・10人以上OK グランピング】シルバーウィーク全棟貸切・サークル合宿・3世代家族旅行 ｜ 日本全国・旅宿クラウド",
+  title: "大人数・10人以上OK グランピング：シルバーウィーク全棟貸切・サークル合宿・3世代家族旅行 ｜ 日本全国・旅宿クラウド",
   description:
     "10人〜20人以上のグループでも気兼ねなく楽しめる大型グランピング＆一棟貸しヴィラ特集！全棟貸切でプライベートBBQ、大人数用焚き火スペース、サークルや親族旅行に最適な施設厳選。",
   keywords: ["大人数", "10人以上OK", "グランピング", "シルバーウィーク全棟貸切", "サークル合宿", "3世代家族旅行", "温泉宿"],
@@ -115,14 +115,7 @@ export default function SilverWeekGlampingLargeGroupCharterPage() {
             10人〜20名規模 全棟貸切＆大型ヴィラ特集・2026秋
           </div>
 
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【大人数・10人以上OK グランピング】<br />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-300 via-sky-200 to-violet-200">
-              全棟貸切・サークル合宿・3世代家族
-            </span>
-            <br />
-            大型BBQスペース＆一棟貸しヴィラ厳選
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「大人数・10人以上OK グランピング」<br /> <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-300 via-sky-200 to-violet-200"> 全棟貸切・サークル合宿・3世代家族 </span> <br /> 大型BBQスペース＆一棟貸しヴィラ厳選</h1>
           <p className="text-indigo-100/90 text-base sm:text-lg max-w-3xl leading-relaxed mb-8">
             サークル仲間や大学同期の同窓会、会社のチームビルディング、祖父母から孫まで揃う3世代ファミリー旅行。
             他のお客様に気兼ねなく笑い合える「全棟貸切」「大型一棟貸し古民家・ヴィラ」を徹底厳選。大人数用BBQグリルや巨大ファイヤーピット完備の極上宿をご紹介します。

@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '世界遺産・安芸の宮島と紅葉谷公園の錦秋もみじ！厳島神社＆宮島温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】広島',
+  title: '世界遺産・安芸の宮島と紅葉谷公園の錦秋もみじ！厳島神社＆宮島温泉宿×ふるさと納税厳選ガイド広島',
   description: '11月中旬〜11月下旬に見頃を迎える日本三景・安芸の宮島の「紅葉谷公園（もみじだにこうえん）」。大鳥居と社殿が浮かぶ厳島神社の夕景、宮島島内＆対岸の温泉宿「錦水館」「離れの宿 IBUKU」「グランヴィリオホテル宮島 和蔵」で旬の広島牡蠣や穴子飯・広島牛を堪能。ふるさと納税で実質2,000円。',
   keywords: ["世界遺産", "宮島温泉宿×ふるさと納税", "2026年最新秋旅", "広島", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-miyajima-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '世界遺産・安芸の宮島と紅葉谷公園の錦秋もみじ！厳島神社＆宮島温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】広島',
+    title: '世界遺産・安芸の宮島と紅葉谷公園の錦秋もみじ！厳島神社＆宮島温泉宿×ふるさと納税厳選ガイド広島',
     description: '11月中旬〜11月下旬に見頃を迎える日本三景・安芸の宮島の「紅葉谷公園（もみじだにこうえん）」。大鳥居と社殿が浮かぶ厳島神社の夕景、宮島島内＆対岸の温泉宿「錦水館」「離れの宿 IBUKU」「グランヴィリオホテル宮島 和蔵」で旬の広島牡蠣や穴子飯・広島牛を堪能。ふるさと納税で実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-miyajima-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FeatureArticlePage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               安芸の宮島・紅葉谷公園＆厳島神社特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              世界遺産・安芸の宮島と紅葉谷公園の錦秋もみじ！厳島神社＆宮島温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】広島
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">世界遺産・安芸の宮島と紅葉谷公園の錦秋もみじ！厳島神社＆宮島温泉宿×ふるさと納税厳選ガイド広島</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               11月中旬〜11月下旬に見頃を迎える日本三景・安芸の宮島の「紅葉谷公園（もみじだにこうえん）」。大鳥居と社殿が浮かぶ厳島神社の夕景、宮島島内＆対岸の温泉宿「錦水館」「離れの宿 IBUKU」「グランヴィリオホテル宮島 和蔵」で旬の広島牡蠣や穴子飯・広島牛を堪能。ふるさと納税で実質2,000円。
             </p>

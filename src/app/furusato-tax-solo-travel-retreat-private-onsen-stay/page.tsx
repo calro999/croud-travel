@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '一人旅歓迎！誰にも気兼ねせず自分を癒やす極上おこもり温泉宿×ふるさと納税完全ガイド【2026年最新】箱根湯本・草津・由布院',
+  title: '一人旅歓迎！誰にも気兼ねせず自分を癒やす極上おこもり温泉宿×ふるさと納税厳選ガイド箱根湯本・草津・由布院',
   description: '日常の慌ただしさを離れて心と身体をリセット。一人旅歓迎の客室露天風呂付きプランや静寂の読書ラウンジを備えた大人のご褒美宿を厳選。都心からロマンスカーで直行できる箱根湯本「ホテル南風荘」、湯畑散策と天下の名湯を一人占めする草津温泉「薬師の湯 湯元館」、由布岳の麓で神秘の青湯に抱かれる「由布院温泉 束ノ間」。一人旅プラン充実の名宿に、楽天ふるさと納税トラベルクーポンで実質2,000円負担で宿泊する完全ガイド。',
   keywords: ["2026年最新", "箱根湯本", "草津", "由布院", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: { canonical: baseUrl + '/furusato-tax-solo-travel-retreat-private-onsen-stay/' },
   openGraph: {
-    title: '一人旅歓迎！誰にも気兼ねせず自分を癒やす極上おこもり温泉宿×ふるさと納税完全ガイド【2026年最新】箱根湯本・草津・由布院',
+    title: '一人旅歓迎！誰にも気兼ねせず自分を癒やす極上おこもり温泉宿×ふるさと納税厳選ガイド箱根湯本・草津・由布院',
     description: '日常の慌ただしさを離れて心と身体をリセット。一人旅歓迎の客室露天風呂付きプランや静寂の読書ラウンジを備えた大人のご褒美宿を厳選。都心からロマンスカーで直行できる箱根湯本「ホテル南風荘」、湯畑散策と天下の名湯を一人占めする草津温泉「薬師の湯 湯元館」、由布岳の麓で神秘の青湯に抱かれる「由布院温泉 束ノ間」。一人旅プラン充実の名宿に、楽天ふるさと納税トラベルクーポンで実質2,000円負担で宿泊する完全ガイド。',
     url: baseUrl + '/furusato-tax-solo-travel-retreat-private-onsen-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoSoloTravelRetreatStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             ひとり旅・大人のご褒美温泉リトリート特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            一人旅歓迎！誰にも気兼ねせず自分を癒やす極上おこもり温泉宿×ふるさと納税完全ガイド【2026年最新】箱根湯本・草津・由布院
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">一人旅歓迎！誰にも気兼ねせず自分を癒やす極上おこもり温泉宿×ふるさと納税厳選ガイド箱根湯本・草津・由布院</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             仕事や家事に追われる日々の中で、ふと「一人きりになって静かな場所でゆっくり休みたい。」と感じる瞬間はありませんか？近年、一人旅を歓迎する上質な温泉旅館が急速に増えており、客室露天風呂付きのお部屋や部屋食プラン、落ち着いた読書ライブラリーを備えた宿が働く女性や大人の一人旅派から熱烈な支持を集めています。誰にも気兼ねすることなく、深夜や早朝の好きな時に湯船に浸かり、ベッドで本を読み耽り、美味しいお酒と料理をじっくり味わう――それは何者にも代えがたい最高峰のセルフケアです。都心から好アクセスで須雲川のせせらぎに癒やされる箱根湯本の「ホテル南風荘」、日本一の自然湧出量を誇る草津の湯元近くで名湯を堪能する「薬師の湯 湯元館」、そして由布岳の大自然の中で神秘のミルキーブルーの青湯と静寂に浸る大分由布院の「束ノ間」。一人旅向けの宿泊プランは割高になりがちですが、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引）を使えば、実質自己負担2,000円で驚くほどリーズナブルに憧れのおこもりステイが実現します。自分へのご褒美にふさわしい、至福のソロ温泉リトリートへ出かけましょう。
           </p>

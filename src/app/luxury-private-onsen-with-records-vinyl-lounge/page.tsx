@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】名盤の温もりに浸る。アナログレコード＆真空管アンプラウンジ付き大人の音楽温泉宿5選 | 日本全国・旅宿クラウド',
+  title: '2026年：名盤の温もりに浸る。アナログレコード＆真空管アンプラウンジ付き大人の音楽温泉宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！ヴィンテージレコードと真空管アンプの豊かな響き、名作スピーカーを配したバーラウンジと源泉掛け流し風呂で寛ぐ大人の音楽リトリート5選。',
   keywords: ["2026年", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: '【2026年】名盤の温もりに浸る。アナログレコード＆真空管アンプラウンジ付き大人の音楽温泉宿5選',
+    title: '2026年：名盤の温もりに浸る。アナログレコード＆真空管アンプラウンジ付き大人の音楽温泉宿5選',
     description: '2026年最新！ヴィンテージレコードと真空管アンプの豊かな響き、名作スピーカーを配したバーラウンジと源泉掛け流し風呂で寛ぐ大人の音楽リトリート5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/luxury-private-onsen-with-records-vinyl-lounge',
@@ -193,9 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> アナログレコード×真空管アンプ名湯
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】名盤の温もりに浸る。アナログレコード＆真空管アンプラウンジ付き大人の音楽温泉宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」名盤の温もりに浸る。アナログレコード＆真空管アンプラウンジ付き大人の音楽温泉宿5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             針を落とした瞬間に広がる温かなアナログレコードの音色と真空管アンプの芳醇な響き。名門JBLやタンノイのスピーカーから流れるジャズや名盤クラシックに耳を傾け、ウイスキーや地酒を片手に極上温泉に浸かる。大人の至福リトリート。
           </p>

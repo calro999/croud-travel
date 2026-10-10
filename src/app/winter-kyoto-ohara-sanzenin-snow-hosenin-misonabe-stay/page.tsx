@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月京都】静寂の洛北！名宿5選',
+  title: '11・12・1月京都：静寂の洛北！名宿5選',
   description: '11月下旬から1月、観光客で賑わう京都市内の喧騒を離れ、静寂と清冽な大気に包まれる洛北・大原の里。天台宗の古刹「三千院」では。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '大原三千院 冬 雪景色, 宝泉院 額縁庭園, 大原温泉 宿, 地鶏味噌鍋 京都, お宿 芹生, 大原の里, 民宿大原山荘, ザ・プリンス京都宝ヶ池, 貴船ふじや, 11月 12月 1月 京都 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kyoto-ohara-sanzenin-snow-hosenin-misonabe-stay/"
   },
   openGraph: {
-    title: '【11・12・1月京都】静寂の洛北！名宿5選',
+    title: '11・12・1月京都：静寂の洛北！名宿5選',
     description: '11月下旬から1月、観光客で賑わう京都市内の喧騒を離れ、静寂と清冽な大気に包まれる洛北・大原の里。天台宗の古刹「三千院」では。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-kyoto-ohara-sanzenin-snow-hosenin-misonabe-stay',
     type: 'article',
@@ -236,12 +236,7 @@ export default function KyotoOharaSanzeninPage() {
             11月・12月・1月 洛北の静寂雪景色＆名湯・郷土味噌鍋特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-tight sm:leading-snug text-stone-100 font-serif">
-            白銀の苔庭に佇むわらべ地蔵と額縁庭園の冬美<br />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-200 via-teal-200 to-amber-200">
-              静寂の洛北・大原三千院雪景色＆宝泉院冬参拝と名物地鶏味噌鍋・大原温泉の名宿
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-tight sm:leading-snug text-stone-100 font-serif">白銀の苔庭に佇むわらべ地蔵と額縁庭園の冬美<br /> <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-200 via-teal-200 to-amber-200"> 静寂の洛北・大原三千院雪景色＆宝泉院冬参拝と名物地鶏味噌鍋・大原温泉の名宿 </span></h1>
 
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed max-w-3xl mx-auto font-light">
             京都の冬の真髄が宿る洛北・大原の里。しんしんと白雪が積もる三千院の有清園、愛らしいわらべ地蔵、宝泉院の柱を額縁に見立てた一幅の山水画のような雪景色。冷え切った身体に染み渡る100年伝承の「京地鶏味噌鍋」、弱アルカリ性の美肌名湯「大原温泉」に浸かる大人の隠れ家ステイをご案内します。

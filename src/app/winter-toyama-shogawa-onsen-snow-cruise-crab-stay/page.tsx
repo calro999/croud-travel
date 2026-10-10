@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月富山・庄川温泉郷】寒ブリ！名宿5選',
+  title: '富山・庄川温泉郷で過ごす冬の旅（11・12月）！寒ブリ！名宿5選',
   description: '11月下旬から12月にかけて富山県・庄川峡は、両岸の断崖絶壁が白銀の雪化粧をまとい、水墨画のような幽玄の冬景色が広がります。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '庄川温泉 宿泊, 庄川峡遊覧船 冬, 富山 11月 12月 温泉, 庄川温泉郷 宿, 人肌の宿 川金, 三楽園, ゆめつづり, となみ野庄川荘一萬亭, 五箇山温泉 赤尾館, 富山湾 紅ズワイガニ 宿, 氷見 寒ブリ 庄川温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-toyama-shogawa-onsen-snow-cruise-crab-stay/"
   },
   openGraph: {
-    title: '【11・12月富山・庄川温泉郷】寒ブリ！名宿5選',
+    title: '富山・庄川温泉郷で過ごす冬の旅（11・12月）！寒ブリ！名宿5選',
     description: '11月下旬から12月にかけて富山県・庄川峡は、両岸の断崖絶壁が白銀の雪化粧をまとい、水墨画のような幽玄の冬景色が広がります。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-toyama-shogawa-onsen-snow-cruise-crab-stay',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -280,10 +280,7 @@ export default function ShogawaOnsenWinterFeature() {
             <Snowflake className="w-4 h-4" />
             11月・12月 冬の極上温泉特集｜富山・北陸
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月富山・庄川温泉郷】<br className="hidden sm:inline" />
-            雪見庄川峡遊覧船と富山湾紅ズワイガニ・寒ブリ・白えびの宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">富山・庄川温泉郷で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 雪見庄川峡遊覧船と富山湾紅ズワイガニ・寒ブリ・白えびの宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             水墨画のように静まり返る庄川峡の断崖絶壁とエメラルドグリーンの水鏡。開湯以来の美肌名湯に身を委ね、旬を迎えた富山湾の紅ズワイガニ、寒ブリ、白えびを堪能する大人の冬旅。
           </p>

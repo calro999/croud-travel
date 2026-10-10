@@ -5,11 +5,11 @@ import Image from 'next/image';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kumamoto-amakusa-sakitsu-dolphin-islands-stay/" },
-  title: '【熊本・天草五橋＆崎津集落】世界遺産海の天主堂・イルカ遭遇＆車海老宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+  title: '熊本・天草五橋＆崎津集落：世界遺産海の天主堂・イルカ遭遇＆車海老宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
   description: '世界文化遺産「長崎と天草地方の潜伏キリシタン関連遺産」の象徴・海の天主堂「崎津集落」、天草五橋（天草パールライン）の絶景シーサイドドライブ、通年98％の遭遇率を誇る「野生のミナミハンドウイルカウォッチング」、本場天草車海老と地魚宿を徹底解説。',
   keywords: ["熊本", "天草五橋", "崎津集落", "世界遺産海の天主堂", "イルカ遭遇", "車海老宿", "温泉宿"],
   openGraph: {
-    title: '【熊本・天草五橋＆崎津集落】世界遺産海の天主堂・イルカ遭遇＆車海老宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+    title: '熊本・天草五橋＆崎津集落：世界遺産海の天主堂・イルカ遭遇＆車海老宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
     description: '世界文化遺産「長崎と天草地方の潜伏キリシタン関連遺産」の象徴・海の天主堂「崎津集落」、天草五橋（天草パールライン）の絶景シーサイドドライブ、通年98％の遭遇率を誇る「野生のミナミハンドウイルカウォッチング」、本場天草車海老と地魚宿を徹底解説。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/kumamoto-amakusa-sakitsu-dolphin-islands-stay',
@@ -50,9 +50,7 @@ export default function Page() {
             <span>🗺️</span>
             <span>AMAKUSA & SAKITSU HERITAGE GUIDE</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">
-            【熊本・天草五橋＆下島・崎津集落】世界遺産崎津天主堂・天草五橋＆野生イルカ・車海老宿 完全ガイド
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">「熊本・天草五橋＆下島・崎津集落」世界遺産崎津天主堂・天草五橋＆野生イルカ・車海老宿 厳選ガイド</h1>
           <p className="max-w-3xl mx-auto text-stone-300 text-sm sm:text-base md:text-lg leading-relaxed mb-8">
             大小120余の島々が紺碧の海に浮かぶ天草諸島。九州本土と天草を結ぶ5つの橋を渡る爽快なドライブウェイ「天草五橋（パールライン）」。静かな漁村の海辺にゴシック様式の尖塔が佇む世界遺産「崎津集落・崎津天主堂」。有明海と早崎海峡に約200頭が生息する野生イルカとの感動的な出逢い。そして日本屈指の生産量を誇る甘みたっぷりの「天草車海老」と名湯・下田温泉。キリシタン史跡と豊かな海の生命が息づく天草ステイへご案内します。
           </p>

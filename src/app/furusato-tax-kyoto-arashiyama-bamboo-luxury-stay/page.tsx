@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '渡月橋と竹林の小径の静寂！京都嵐山温泉の保津川一望ラグジュアリー＆老舗料理旅館×ふるさと納税完全攻略ガイド【2026年最新】翠嵐・花伝抄・辨慶',
+  title: '渡月橋と竹林の小径の静寂！京都嵐山温泉の保津川一望ラグジュアリー＆老舗料理旅館×ふるさと納税極上旅ガイド翠嵐・花伝抄・辨慶',
   description: '四季折々の雅が息づく平安の保養地・京都嵐山！渡月橋の借景と竹林の小径散策。「翠嵐 ラグジュアリーコレクションホテル 京都。」「京都 嵐山温泉 花伝抄」「嵐山温泉 嵐山辨慶」を、京都府京都市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。露天風呂付客室、五つの貸切風呂、本格京料理会席を満喫。',
   keywords: ["2026年最新", "翠嵐", "花伝抄", "辨慶", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kyoto-arashiyama-bamboo-luxury-stay/",
   },
   openGraph: {
-    title: '渡月橋と竹林の小径の静寂！京都嵐山温泉の保津川一望ラグジュアリー＆老舗料理旅館×ふるさと納税完全攻略ガイド【2026年最新】翠嵐・花伝抄・辨慶',
+    title: '渡月橋と竹林の小径の静寂！京都嵐山温泉の保津川一望ラグジュアリー＆老舗料理旅館×ふるさと納税極上旅ガイド翠嵐・花伝抄・辨慶',
     description: '四季折々の雅が息づく平安の保養地・京都嵐山！渡月橋の借景と竹林の小径散策。「翠嵐 ラグジュアリーコレクションホテル 京都。」「京都 嵐山温泉 花伝抄」「嵐山温泉 嵐山辨慶」を、京都府京都市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。露天風呂付客室、五つの貸切風呂、本格京料理会席を満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kyoto-arashiyama-bamboo-luxury-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoKyotoArashiyamaBambooStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           平安貴族が愛した雅の極み！京都嵐山温泉特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          渡月橋と竹林の小径の静寂！京都嵐山温泉の保津川一望ラグジュアリー＆老舗料理旅館×ふるさと納税完全攻略ガイド【2026年最新】翠嵐・花伝抄・辨慶
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">渡月橋と竹林の小径の静寂！京都嵐山温泉の保津川一望ラグジュアリー＆老舗料理旅館×ふるさと納税極上旅ガイド翠嵐・花伝抄・辨慶</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoKyotoArashiyamaBambooStayPage() {
               京都の歴史に育まれた伝統とモダンの美が融け合う空間で、この地ならではの格別な体験をご提供いたします。
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “温泉もお料理も本当に素晴らしく、大満足の滞在でした。”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D158466%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoKyotoArashiyamaBambooStayPage() {
               渡月橋まで徒歩約5分！目の前の阪急嵐山駅より京都の中心街まですぐ！天然温泉と5つの貸切風呂が無料！
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “天ぷらとおばんざいが絶品、また泊まりたい懐石料理を頼みました天ぷらはすっごく美味しかったです!!おばんざいも京都ならではの優しいお出汁と湯葉が美味しかったです!次回も旅行の際は泊まりたいです… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D130702%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoKyotoArashiyamaBambooStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               嵐山の真向いに居を構える嵐山温泉　嵐山辨慶。美しい四季の移ろいと京料理・嵐山温泉をお楽しみください。
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “温かなおもてなしに感動しました。家族全員が大満足です。”
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

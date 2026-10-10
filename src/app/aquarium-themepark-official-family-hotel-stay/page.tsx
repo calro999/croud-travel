@@ -180,9 +180,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            開園直前から閉園後まで遊び尽くす！全国の水族館・テーマパーク直結＆オフィシャルホテル
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">開園直前から閉園後まで遊び尽くす！全国の水族館・テーマパーク直結＆オフィシャルホテル</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             朝一番の空いている時間に人気アトラクションを楽しんだり、閉園後のナイトツアーに参加したり。パーク直結や徒歩数分のホテルなら、途中で部屋に戻って休憩できるため小さなお子様連れやシニアも安心。感動体験を余すところなく味わえる特等席ステイをご提案します。
           </p>

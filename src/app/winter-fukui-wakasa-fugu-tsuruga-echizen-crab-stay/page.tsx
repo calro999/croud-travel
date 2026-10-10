@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月福井】冬の若狭湾「若狭ふぐ」てっさ！名宿5選',
+  title: '11・12・1月福井：冬の若狭湾「若狭ふぐ」てっさ！名宿5選',
   description: '11月から1月、北陸新幹線延伸でアクセスが格段に向上した福井県・若狭湾（敦賀・美浜・若狭三方五湖・小浜）は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '若狭ふぐ 温泉宿, 三方五湖 宿泊, 敦賀 越前がに 宿, 水月花, 波華楼, ホテル湾彩, 四季彩の宿花椿, 敦賀マンテンホテル駅前, 11月 12月 1月 福井旅行, 若狭湾 てっさ てっちり',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukui-wakasa-fugu-tsuruga-echizen-crab-stay/"
   },
   openGraph: {
-    title: '【11・12・1月福井】冬の若狭湾「若狭ふぐ」てっさ！名宿5選',
+    title: '11・12・1月福井：冬の若狭湾「若狭ふぐ」てっさ！名宿5選',
     description: '11月から1月、北陸新幹線延伸でアクセスが格段に向上した福井県・若狭湾（敦賀・美浜・若狭三方五湖・小浜）は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-fukui-wakasa-fugu-tsuruga-echizen-crab-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月福井】冬の若狭湾「若狭ふぐ」てっさ・てっちり＆敦賀港越前がに・三方五湖寒うなぎ・海絶景温泉を満喫する名宿5選",
+    title: "11・12・1月福井：冬の若狭湾「若狭ふぐ」てっさ・てっちり＆敦賀港越前がに・三方五湖寒うなぎ・海絶景温泉を満喫する名宿5選",
     description: "11月から1月、北陸新幹線延伸でアクセスが格段に向上した福井県・若狭湾（敦賀・美浜・若狭三方五湖・小浜）は、日本海最北の冷海水が育む名物「若狭ふぐ（トラフグ）」と、敦賀港水揚げの黄色いタグ付き「越前がに」が旬の頂点を迎える至福の季節。プリップリに引き締まった身のてっさ、熱々のてっちり、香ばしいひれ酒、そして三方五湖の寒うなぎや若狭牛。レインボーライン山頂公園から望む冬の三方五湖のパノラマ絶景や北陸道総鎮守・気比神宮の初詣とともに、絶景温泉露天と極上美食に浸る厳選5宿を詳しく紹介します。",
     images: ['https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80']
   }
@@ -42,7 +42,7 @@ export default function FukuiWakasaFuguWinterPage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: "【11・12・1月福井】冬の若狭湾「若狭ふぐ」てっさ・てっちり＆敦賀港越前がに・三方五湖寒うなぎ・海絶景温泉を満喫する名宿5選",
+    headline: "11・12・1月福井：冬の若狭湾「若狭ふぐ」てっさ・てっちり＆敦賀港越前がに・三方五湖寒うなぎ・海絶景温泉を満喫する名宿5選",
     description: "11月から1月、北陸新幹線延伸でアクセスが格段に向上した福井県・若狭湾（敦賀・美浜・若狭三方五湖・小浜）は、日本海最北の冷海水が育む名物「若狭ふぐ（トラフグ）」と、敦賀港水揚げの黄色いタグ付き「越前がに」が旬の頂点を迎える至福の季節。プリップリに引き締まった身のてっさ、熱々のてっちり、香ばしいひれ酒、そして三方五湖の寒うなぎや若狭牛。レインボーライン山頂公園から望む冬の三方五湖のパノラマ絶景や北陸道総鎮守・気比神宮の初詣とともに、絶景温泉露天と極上美食に浸る厳選5宿を詳しく紹介します。",
     image: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
     datePublished: '',
@@ -282,9 +282,7 @@ export default function FukuiWakasaFuguWinterPage() {
             <Snowflake className="w-4 h-4 text-teal-300" />
             11月・12月・1月 冬の日本海・若狭ふぐ＆越前がに極上美食特集
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【11・12・1月福井】冬の若狭湾「若狭ふぐ」てっさ・てっちり＆敦賀港越前がに・三方五湖寒うなぎ・海絶景温泉を満喫する名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「11・12・1月福井」冬の若狭湾「若狭ふぐ」てっさ・てっちり＆敦賀港越前がに・三方五湖寒うなぎ・海絶景温泉を満喫する名宿5選</h1>
           <p className="text-slate-300 text-sm sm:text-base md:text-lg max-w-3xl leading-relaxed">
             日本海最北の冷たい海水が引き締める冬の王者「若狭ふぐ」。透き通るてっさの弾力と熱々のてっちり、香ばしいひれ酒。敦賀港で揚がる本場越前がにや三方五湖の寒うなぎに舌鼓を打ち、レインボーライン山頂公園からの360度パノラマ絶景と名湯に癒やされる贅沢な冬の旅へご案内します。
           </p>

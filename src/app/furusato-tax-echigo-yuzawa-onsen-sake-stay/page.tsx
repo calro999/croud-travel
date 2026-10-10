@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '川端康成『雪国』の舞台！越後湯沢温泉の展望絶景露天風呂＆本場魚沼産コシヒカリ・越後地酒名門宿×ふるさと納税完全攻略ガイド【2026年最新】双葉・NASPAニューオータニ・いなもと',
+  title: '川端康成『雪国』の舞台！越後湯沢温泉の展望絶景露天風呂＆本場魚沼産コシヒカリ・越後地酒名門宿×ふるさと納税極上旅ガイド双葉・NASPAニューオータニ・いなもと',
   description: '新幹線で東京から約70分の雪国名湯・新潟県越後湯沢温泉！文豪・川端康成ゆかりの地。「水が織りなす越後の宿 双葉」「NASPAニューオータニ」「越後のお宿 いなもと」を、新潟県湯沢町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。二十八の多彩なお風呂、本場魚沼産コシヒカリ、越後地酒会席を満喫。',
   keywords: ["本場魚沼産コシヒカリ", "2026年最新", "双葉", "NASPAニューオータニ", "いなもと", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-echigo-yuzawa-onsen-sake-stay/",
   },
   openGraph: {
-    title: '川端康成『雪国』の舞台！越後湯沢温泉の展望絶景露天風呂＆本場魚沼産コシヒカリ・越後地酒名門宿×ふるさと納税完全攻略ガイド【2026年最新】双葉・NASPAニューオータニ・いなもと',
+    title: '川端康成『雪国』の舞台！越後湯沢温泉の展望絶景露天風呂＆本場魚沼産コシヒカリ・越後地酒名門宿×ふるさと納税極上旅ガイド双葉・NASPAニューオータニ・いなもと',
     description: '新幹線で東京から約70分の雪国名湯・新潟県越後湯沢温泉！文豪・川端康成ゆかりの地。「水が織りなす越後の宿 双葉」「NASPAニューオータニ」「越後のお宿 いなもと」を、新潟県湯沢町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。二十八の多彩なお風呂、本場魚沼産コシヒカリ、越後地酒会席を満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-echigo-yuzawa-onsen-sake-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoEchigoYuzawaOnsenStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           新幹線で行ける雪国情熱の名湯！新潟県越後湯沢温泉特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          川端康成『雪国』の舞台！越後湯沢温泉の展望絶景露天風呂＆本場魚沼産コシヒカリ・越後地酒名門宿×ふるさと納税完全攻略ガイド【2026年最新】双葉・NASPAニューオータニ・いなもと
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">川端康成『雪国』の舞台！越後湯沢温泉の展望絶景露天風呂＆本場魚沼産コシヒカリ・越後地酒名門宿×ふるさと納税極上旅ガイド双葉・NASPAニューオータニ・いなもと</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoEchigoYuzawaOnsenStayPage() {
               花水木をテーマに四季折々に花々がお待ちしております。
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “銀婚式の祝い膳とスタッフの細やかな気配り旅行プラン以外でのサービスを感謝。銀婚式の祝い膳やお土産のプレゼント等、気持ち良い気遣いをして頂きました。連泊で宿泊したのですが、個室の夕食の担当し… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D8401%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoEchigoYuzawaOnsenStayPage() {
               窓からは雄大な自然が広がる客室。 滋味溢れる地元食材を楽しみ、天然温泉で疲れを癒してください。
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “清潔なプールと温泉、親切な接客に大満足プールはロッカーも含めて清潔でした。ホテルの方々が皆親切でした。温泉は大変気持ちよかったです飲み放題はその場で作ってくださり、ついつい飲みすぎまし… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D6011%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoEchigoYuzawaOnsenStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               大切な人と過ごす、和らいだ上質なひととき。掛け流しの温泉と本場の魚沼産こしひかり。
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “良い温泉が、駅近にアリ越後湯沢には何回も来ていましたが、宿泊は0回。源泉掛け流しと聞き、初宿泊です。良かった点・外観等から、お部屋も古いと思いきや、キレイです。・露天風呂が、気持ちよか… ”
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/gunma-minakami-solo-retreat-valley-onsen-stay/" },
-  title: '【水上温泉郷ひとり旅・谷川岳大自然おこもり】利根川源流の渓谷美・満天星空露天風呂・太宰治逗留の歴史！上越新幹線直通のリフレッシュ厳選3宿',
+  title: '水上温泉郷ひとり旅・谷川岳大自然おこもり：利根川源流の渓谷美・満天星空露天風呂・太宰治逗留の歴史！上越新幹線直通のリフレッシュ厳選3宿',
   description: '谷川岳の麓、利根川上流の渓谷美を誇る群馬・水上温泉郷！屋上の「天空の湯」から谷川連峰の星空を仰ぐ口コミ★4.6超の「なかや旅館」、太宰治が名作『姥捨』を執筆した歴史と檜風呂が評判の「旅館たにがわ」、11種の貸切露天風呂や広大な高原自然を誇る「ホテルサンバード」を楽天API最新データに基づき徹底比較。',
   keywords: '水上温泉 一人旅 宿,みなかみ ホテル 一人 温泉,なかや旅館 水上,旅館たにがわ,ホテルサンバード 水上,水上温泉 ひとり旅 おこもり',
   openGraph: {
-    title: '【水上温泉郷ひとり旅・谷川岳大自然おこもり】利根川源流の渓谷美・満天星空露天風呂・太宰治逗留の歴史！上越新幹線直通のリフレッシュ厳選3宿',
+    title: '水上温泉郷ひとり旅・谷川岳大自然おこもり：利根川源流の渓谷美・満天星空露天風呂・太宰治逗留の歴史！上越新幹線直通のリフレッシュ厳選3宿',
     description: '谷川岳の麓、利根川上流の渓谷美を誇る群馬・水上温泉郷！屋上の「天空の湯」から谷川連峰の星空を仰ぐ口コミ★4.6超の「なかや旅館」、太宰治が名作『姥捨』を執筆した歴史と檜風呂が評判の「旅館たにがわ」、11種の貸切露天風呂や広大な高原自然を誇る「ホテルサンバード」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/gunma-minakami-solo-retreat-valley-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【水上温泉郷ひとり旅・谷川岳大自然おこもり】利根川源流の渓谷美・満天星空露天風呂・太宰治逗留の歴史！上越新幹線直通のリフレッシュ厳選3宿',
+    headline: '水上温泉郷ひとり旅・谷川岳大自然おこもり：利根川源流の渓谷美・満天星空露天風呂・太宰治逗留の歴史！上越新幹線直通のリフレッシュ厳選3宿',
     description: '谷川岳の麓、利根川上流の渓谷美を誇る群馬・水上温泉郷！屋上の「天空の湯」から谷川連峰の星空を仰ぐ口コミ★4.6超の「なかや旅館」、太宰治が名作『姥捨』を執筆した歴史と檜風呂が評判の「旅館たにがわ」、11種の貸切露天風呂や広大な高原自然を誇る「ホテルサンバード」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             群馬・水上温泉郷ひとり旅＆谷川岳渓谷おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【水上温泉郷ひとり旅・谷川岳大自然おこもり】利根川源流の渓谷美・満天星空露天風呂・太宰治逗留の歴史！上越新幹線直通のリフレッシュ厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「水上温泉郷ひとり旅・谷川岳大自然おこもり」利根川源流の渓谷美・満天星空露天風呂・太宰治逗留の歴史！上越新幹線直通のリフレッシュ厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

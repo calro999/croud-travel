@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            京都・高雄の三尾紅葉（神護寺・高山寺）＆清滝川沿い隠れ家宿で味わう秋の川床名残会席
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">京都・高雄の三尾紅葉（神護寺・高山寺）＆清滝川沿い隠れ家宿で味わう秋の川床名残会席</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             京都一早い紅葉が魅せる神護寺の深紅の石段。清滝川のほとりに佇む隠れ宿で、秋の京料理と静寂に浸る贅沢。
           </p>

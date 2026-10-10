@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月山梨】武田神社新春初詣！名宿5選',
+  title: '11・12・1月山梨：武田神社新春初詣！名宿5選',
   description: '冬の山梨・甲府盆地は、白雪をまとった霊峰富士や南アルプス、八ヶ岳の壮大な連峰が青空に際立つ絶景の季節。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '甲府 ホテル, 武田神社 初詣, 湯村温泉, 常磐ホテル, 信玄の隠し湯, 甲州牛 すき焼き, 甲府 ほうとう, 甲府城 富士山, 11月 12月 1月 山梨 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamanashi-kofu-takeda-shrine-yumura-onsen-koshugyu-stay/"
   },
   openGraph: {
-    title: '【11・12・1月山梨】武田神社新春初詣！名宿5選',
+    title: '11・12・1月山梨：武田神社新春初詣！名宿5選',
     description: '冬の山梨・甲府盆地は、白雪をまとった霊峰富士や南アルプス、八ヶ岳の壮大な連峰が青空に際立つ絶景の季節。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-yamanashi-kofu-takeda-shrine-yumura-onsen-koshugyu-stay',
     type: 'article',
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月山梨】武田神社新春初詣＆富士山・南アルプス雪景色！開湯1200年信玄の隠し湯「湯村温泉」と熱々ほうとう・極上甲州牛の名宿5選",
+    title: "11・12・1月山梨：武田神社新春初詣＆富士山・南アルプス雪景色！開湯1200年信玄の隠し湯「湯村温泉」と熱々ほうとう・極上甲州牛の名宿5選",
     description: "冬の山梨・甲府盆地は、白雪をまとった霊峰富士や南アルプス、八ヶ岳の壮大な連峰が青空に際立つ絶景の季節。武田信玄公の館跡に鎮座し「勝運」をもたらす武田神社の新春初詣、甲府城跡天守台からのパノラマビュー。開湯1200年、信玄公が川中島の合戦での傷を癒やしたと伝わる名湯「信玄の隠し湯・湯村温泉」の弱アルカリ性美肌湯、冬の底冷えを優しく溶かす熱々のかぼちゃほうとう、日本一の肉質等級を誇る「甲州牛」のすき焼きに舌鼓。歴史浪漫と温泉、極上肉を堪能する名宿5選を詳しく解説します。"
   }
 };
@@ -230,10 +230,7 @@ export default function YamanashiKofuYumuraPage() {
             <Flame className="w-4 h-4 text-red-300" />
             11月・12月・1月冬の特選旅｜山梨・甲府＆湯村温泉
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">
-            武田神社新春初詣＆富士山・南アルプス雪景色！<br className="hidden sm:inline" />
-            開湯1200年信玄の隠し湯「湯村温泉」と熱々ほうとう・甲州牛の名宿5選
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">武田神社新春初詣＆富士山・南アルプス雪景色！<br className="hidden sm:inline" /> 開湯1200年信玄の隠し湯「湯村温泉」と熱々ほうとう・甲州牛の名宿5選</h1>
           <p className="text-base sm:text-lg text-amber-100/90 leading-relaxed max-w-4xl mb-8">
             冬の甲府盆地を包む凛とした冷気と、白銀に輝く富士山・南アルプス連峰の圧倒的なパノラマ。武田信玄公の館跡に建ち勝運を授かる「武田神社」での新春初詣、甲府城跡天守台からの雪景色。そして開湯1200年、信玄公が合戦の傷を癒やした「信玄の隠し湯・湯村温泉」の柔らかく温かい名湯。冬の底冷えに染み渡る熱々のかぼちゃほうとうと、最高級霜降り「甲州牛」のすき焼き。甲斐の歴史とぬくもりに浸る名宿を詳しく紹介します。
           </p>

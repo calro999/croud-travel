@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/fukuoka-hakata-early-morning-ramen-breakfast-guide/" },
-  title: "【博多・天神 早朝から食べられる長浜ラーメン＆朝食ビュッフェ】朝6時台オープンの市場めし完全版",
+  title: "博多・天神 早朝から食べられる長浜ラーメン＆朝食ビュッフェ：朝6時台オープンの市場めし完全版",
   description:
     "福岡の朝は早い！長浜鮮魚市場で食べる早朝市場海鮮丼、24時間営業元祖長浜ラーメンの「カタ・替玉」、明太子食べ放題の博多駅前ホテル朝食ビュッフェ、中洲天然温泉ホテル宿泊情報。",
   keywords: ["博多", "天神", "早朝から食べられる長浜ラーメン", "朝食ビュッフェ", "温泉宿", "宿泊予約", "楽天トラベル"],
@@ -155,10 +155,7 @@ export default function FukuokaHakataEarlyMorningGuidePage() {
             <span>🌅 6:00 AM HAKATA MARKET & NOODLE GUIDE</span>
             <span className="w-1.5 h-1.5 rounded-full bg-amber-400 animate-pulse" />
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-snug mb-4 text-balance">
-            【博多・天神 早朝から食べられる長浜ラーメン＆朝食ビュッフェ】<br />
-            朝6時台オープンの市場めし完全版
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-snug mb-4 text-balance">「博多・天神 早朝から食べられる長浜ラーメン＆朝食ビュッフェ」<br /> 朝6時台オープンの市場めし完全版</h1>
           <p className="text-slate-300 text-sm sm:text-base leading-relaxed max-w-2xl mx-auto">
             福岡の朝は全国一活気がある！元祖長浜屋の極細麺＆あっさり豚骨の「朝ラー」、長浜鮮魚市場直営の獲れたて胡麻サバ丼、明太子食べ放題モーニングまで、早起きして味わうべき博多の朝グルメを完全網羅。
           </p>

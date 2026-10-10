@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/mie-kumano-owase-onigajo-stay/" },
-  title: "【三重・熊野＆尾鷲・鬼ヶ城】世界遺産鬼ヶ城・獅子岩＆熊野古道伊勢路・尾鷲ガスエビ宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "三重・熊野＆尾鷲・鬼ヶ城：世界遺産鬼ヶ城・獅子岩＆熊野古道伊勢路・尾鷲ガスエビ宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "荒波が削った奇岩巨岩と世界遺産の祈りの道・三重熊野＆尾鷲エリア完全特化！世界遺産「鬼ヶ城・獅子岩」、熊野古道「松本峠・馬越峠」、七里御浜海岸、尾鷲港水揚げの幻の「ガスエビ」、名物「めはり寿司・熊野牛宿」を徹底解説。",
   keywords: ["三重", "熊野", "尾鷲", "鬼ヶ城", "世界遺産鬼ヶ城", "獅子岩", "熊野古道伊勢路"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             KUMANO & OWASE GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【三重・熊野＆尾鷲・鬼ヶ城】世界遺産鬼ヶ城・獅子岩＆熊野古道伊勢路・尾鷲ガスエビ宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「三重・熊野＆尾鷲・鬼ヶ城」世界遺産鬼ヶ城・獅子岩＆熊野古道伊勢路・尾鷲ガスエビ宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             熊野灘の荒波と風雨が刻んだ大自然の彫刻「世界遺産・鬼ヶ城」と、天に向かって咆哮する「獅子岩」。石畳の苔が美しい熊野古道伊勢路。日本一長い砂礫海岸「七里御浜」。幻の深海エビ「ガスエビ」と熊野地鶏・めはり寿司を味わう旅。
           </p>

@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月遠刈田温泉】初冠雪の蔵王連峰を望む開湯400年の名湯！名宿5選',
+  title: '遠刈田温泉で過ごす冬の旅（11・12月）！初冠雪の蔵王連峰を望む開湯400年の名湯！名宿5選',
   description: '11月中旬から12月の初冬を迎えた宮城蔵王の山麓、遠刈田温泉（とおがったおんせん）は、刈田岳や御釜周辺が白銀の初冠雪をまとい。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '遠刈田温泉 宿泊, 宮城蔵王 温泉, 蔵王鴨せり鍋 旅館, A5仙台牛 ステーキ, 遠刈田こけし 観光, 蔵王 連峰 初冠雪, 硫酸塩泉 美肌湯, 11月 12月 宮城旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-miyagi-togatta-onsen-zao-snow-sendaigyu-kamonabe-stay/"
   },
   openGraph: {
-    title: '【11・12月遠刈田温泉】初冠雪の蔵王連峰を望む開湯400年の名湯！名宿5選',
+    title: '遠刈田温泉で過ごす冬の旅（11・12月）！初冠雪の蔵王連峰を望む開湯400年の名湯！名宿5選',
     description: '11月中旬から12月の初冬を迎えた宮城蔵王の山麓、遠刈田温泉（とおがったおんせん）は、刈田岳や御釜周辺が白銀の初冠雪をまとい。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-miyagi-togatta-onsen-zao-snow-sendaigyu-kamonabe-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月遠刈田温泉】初冠雪の蔵王連峰を望む開湯400年の名湯・最高級A5仙台牛ステーキ＆極上蔵王鴨せり鍋・遠刈田こけしの里を巡る名宿5選",
+    title: "遠刈田温泉で過ごす冬の旅（11・12月）！初冠雪の蔵王連峰を望む開湯400年の名湯・最高級A5仙台牛ステーキ＆極上蔵王鴨せり鍋・遠刈田こけしの里を巡る名宿5選",
     description: "11月中旬から12月の初冬を迎えた宮城蔵王の山麓、遠刈田温泉（とおがったおんせん）は、刈田岳や御釜周辺が白銀の初冠雪をまとい、澄み渡る冷気の中に情緒ある茶褐色の湯煙が立ちのぼる格別の季節を迎えます。開湯から400年以上の歴史を誇る名湯は、豊富な鉄分やメタケイ酸、カルシウムを含んだ硫酸塩・塩化物泉。熱めの湯船に身を沈めれば、冷えた体の芯からじんわりと温まり、湯上がりもポカポカとした保温効果が長く続きます。夕食の膳を彩るのは、初冬に最も脂が乗りコクを増す「蔵王鴨」と名取産根付きせりを合わせた名物「蔵王鴨せり鍋」、見事な霜降りと芳醇な香りを誇る「最高級A5ランク仙台牛」の石焼きステーキや陶板焼き、そして蔵王山麓の新鮮なミルクから生まれる濃厚なフレッシュチーズ。遠刈田こけし発祥の地としての伝統が息づく温泉街散策や、澄んだ冬空に輝く満天の星を望む展望露天風呂など、初冬の宮城蔵王の贅を心ゆくまで堪能できる厳選宿5選を詳しく紹介します。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -367,9 +367,7 @@ export default function MiyagiTogattaWinterPage() {
             <Sparkles className="w-3.5 h-3.5" />
             11月・12月初冬の宮城蔵王・名湯＆美食特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold tracking-tight text-white leading-tight">
-            {metadata.title as string}
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold tracking-tight text-white leading-tight">{metadata.title as string}</h1>
           <p className="text-xs sm:text-sm text-stone-300 leading-relaxed pt-2">
             初冠雪をいただいた蔵王連峰の白銀美と、開湯400年を誇る茶褐色硫酸塩泉のぬくもり。
             根っこまで甘い名取せりと蔵王鴨が織りなす極上せり鍋、A5仙台牛ステーキを堪能する初冬の宮城旅へ。

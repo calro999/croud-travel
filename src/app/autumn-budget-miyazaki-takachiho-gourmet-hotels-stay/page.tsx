@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【宮崎】高千穂峡紅葉ドライブ拠点＆本場チキン南蛮！2,000円台〜格安ホテル5選',
+  title: '宮崎：高千穂峡紅葉ドライブ拠点＆本場チキン南蛮！2,000円台〜格安ホテル5選',
   description: '神話の里・高千穂峡の柱状節理を彩る見事な紅葉とボート遊覧、本場の絶品チキン南蛮＆極上宮崎牛！宮崎駅・橘通り周辺で1泊2,000円台〜4,000円台で泊まれる高評価ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetMiyazakiHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>高千穂峡の神秘紅葉＆本場チキン南蛮</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【宮崎】高千穂峡紅葉＆本場チキン南蛮を満喫！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「宮崎」高千穂峡紅葉＆本場チキン南蛮を満喫！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-rose-100/90 max-w-2xl mx-auto leading-relaxed">
             エメラルドグリーンの水面と真名井の滝、切り立つ柱状節理を黄金色に染める神話の郷「高千穂峡」の秋。夜は宮崎市内の歓楽街・ニシタチで元祖チキン南蛮や炭火地鶏焼き、日本一の宮崎牛を堪能！2,000円台〜4,000円台の驚異的コスパ宿を厳選。
           </p>

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/ishikawa-noto-wakura-onsen-stay/" },
-  title: "【石川・能登和倉温泉】七尾湾オーシャンビュー＆能登牛・寒ブリ極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "石川・能登和倉温泉：七尾湾オーシャンビュー＆能登牛・寒ブリ極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "石川・能登半島和倉温泉エリア完全特化！七尾湾を一望する展望露天風呂、開湯1200年の海の温泉、能登牛・寒ブリ・のどぐろ会席と名門老舗旅館を徹底解説。",
   keywords: ["石川", "能登和倉温泉", "七尾湾オーシャンビュー", "能登牛", "寒ブリ極上宿", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             NOTO WAKURA MICRO GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【石川・能登和倉温泉】七尾湾オーシャンビュー＆能登牛・寒ブリ極上宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「石川・能登和倉温泉」七尾湾オーシャンビュー＆能登牛・寒ブリ極上宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             波静かな七尾湾の海辺に湧き出す、国内屈指の高温泉「和倉温泉」。日本海の旬の恵み（寒ブリ・能登牛・加能ガニ）と、加賀屋をはじめとする名門旅館の極上のおもてなしに浸る旅。
           </p>

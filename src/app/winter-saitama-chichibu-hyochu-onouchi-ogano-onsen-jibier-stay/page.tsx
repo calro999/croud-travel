@@ -13,13 +13,13 @@ import {
 } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "【尾ノ内百景氷柱と薬師の湯】2026-2027年冬の埼玉・秩父＆小鹿野！猪鹿ぼたん鍋と武州和牛名宿5選 ｜ 日本全国・旅宿クラウド",
+  title: "尾ノ内百景氷柱と薬師の湯：2026-2027年冬の埼玉・秩父＆小鹿野！猪鹿ぼたん鍋と武州和牛名宿5選 ｜ 日本全国・旅宿クラウド",
   description: "冬の秩父路を幻想的に彩る尾ノ内百景氷柱・三十槌の氷柱と秩父三社新春初詣！名峰両神山麓に湧く美肌の「小鹿野温泉薬師の湯」、滋味豊かな秩父ジビエ猪鹿ぼたん鍋と極上武州和牛を堪能する大人の隠れ家名宿5選。",
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-saitama-chichibu-hyochu-onouchi-ogano-onsen-jibier-stay",
   },
   openGraph: {
-    title: "【尾ノ内百景氷柱と薬師の湯】2026-2027年冬の埼玉・秩父＆小鹿野！猪鹿ぼたん鍋と武州和牛名宿5選",
+    title: "尾ノ内百景氷柱と薬師の湯：2026-2027年冬の埼玉・秩父＆小鹿野！猪鹿ぼたん鍋と武州和牛名宿5選",
     description: "冬の秩父路を幻想的に彩る尾ノ内百景氷柱・三十槌の氷柱と秩父三社新春初詣！名峰両神山麓に湧く美肌の「小鹿野温泉薬師の湯」、滋味豊かな秩父ジビエ猪鹿ぼたん鍋と極上武州和牛を堪能する大人の隠れ家名宿5選。",
     url: "https://croud-travel.pages.dev/winter-saitama-chichibu-hyochu-onouchi-ogano-onsen-jibier-stay",
     siteName: "日本全国・旅宿クラウド",
@@ -36,7 +36,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "【尾ノ内百景氷柱と薬師の湯】2026-2027年冬の埼玉・秩父＆小鹿野！猪鹿ぼたん鍋と武州和牛名宿5選",
+    title: "尾ノ内百景氷柱と薬師の湯：2026-2027年冬の埼玉・秩父＆小鹿野！猪鹿ぼたん鍋と武州和牛名宿5選",
     description: "冬の秩父路を幻想的に彩る尾ノ内百景氷柱・三十槌の氷柱と秩父三社新春初詣！名峰両神山麓に湧く美肌の「小鹿野温泉薬師の湯」、滋味豊かな秩父ジビエ猪鹿ぼたん鍋と極上武州和牛を堪能する大人の隠れ家名宿5選。",
     images: ["https://img.travel.rakuten.co.jp/share/HOTEL/56702/56702.jpg"],
   },
@@ -167,9 +167,7 @@ export default function FeaturePage() {
               </span>
             </div>
 
-            <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold leading-tight">
-              【尾ノ内百景氷柱と薬師の湯】2026-2027年冬の埼玉・秩父＆小鹿野！猪鹿ぼたん鍋と武州和牛名宿5選
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold leading-tight">「尾ノ内百景氷柱と薬師の湯」2026-2027年冬の埼玉・秩父＆小鹿野！猪鹿ぼたん鍋と武州和牛名宿5選</h1>
 
             <p className="text-stone-300 text-xs sm:text-sm leading-relaxed max-w-3xl pt-2">
               都心から特急ラビューでわずか約80分でアクセスできる埼玉県の奥座敷・秩父路。三峰山や武甲山などの霊峰に抱かれたこの山里は、12月から1月の厳冬期を迎えると、氷点下の澄みきった冷気と清流が生み出す奇跡の自然芸術「尾ノ内百景氷柱」や「三十槌の氷柱（みそつちのひょうちゅう）」で銀世界へと変貌します。岩肌から滴り落ちる湧水が幾重にも重なって凍りつき、巨大な青白い氷のカーテンを織りなす情景はまさに息を呑む絶景。夜間には環境に配慮したライトアップが行われ、昼とは異なる幻想世界が広がります。さらに日本屈指のパワースポット・三峯神社や宝登山神社、秩父神社への厳かな新春初詣、名峰両神山の麓に湧く「小鹿野温泉薬師の湯」のとろりとした美肌湯、冬の野趣あふれる秩父ジビエ「猪鹿ぼたん鍋」や霜降り「武州和牛」のすき焼き。心洗われる冬のショートトリップへと誘います。

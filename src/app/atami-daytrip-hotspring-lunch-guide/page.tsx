@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/atami-daytrip-hotspring-lunch-guide/" },
-  title: "【熱海 日帰り温泉 ランチ付きおすすめ】相模湾一望オーシャンビュー露天風呂＆極上海鮮丼日帰りプラン ｜ 日本全国・旅宿クラウド",
+  title: "熱海 日帰り温泉 ランチ付きおすすめ：相模湾一望オーシャンビュー露天風呂＆極上海鮮丼日帰りプラン ｜ 日本全国・旅宿クラウド",
   description: "東京から50分の熱海で楽しむ日帰り温泉ランチ！相模湾を一望する絶景インフィニティ露天風呂、金目鯛煮付け＆朝獲れ地魚海鮮丼ランチがセットになったホテルプラン徹底比較。",
   keywords: ["熱海", "日帰り温泉", "ランチ付きおすすめ", "極上海鮮丼日帰りプラン", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
@@ -120,10 +120,7 @@ export default function AtamiDaytripHotspringLunchPage() {
             </span>
           </div>
 
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【熱海 日帰り温泉 ランチ付きおすすめ】<br />
-            相模湾一望オーシャンビュー露天風呂＆極上海鮮丼日帰りプラン
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「熱海 日帰り温泉 ランチ付きおすすめ」<br /> 相模湾一望オーシャンビュー露天風呂＆極上海鮮丼日帰りプラン</h1>
 
           <p className="text-xs md:text-sm text-orange-50 leading-relaxed font-medium">
             東京駅から東海道新幹線で最速35〜45分、普通列車でも約1時間45分。思い立ったらすぐ行ける距離感が最大の魅力である熱海温泉。一面に広がる青い相模湾を望むインフィニティ露天風呂と、脂の乗った金目鯛煮付けや朝獲れ海鮮丼がセットになった、極上の日帰り温泉プランを比較解説します。

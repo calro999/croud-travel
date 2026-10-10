@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月福岡】鐘崎天然とらふぐと極上宗像牛！名宿5選',
+  title: '11・12・1月福岡：鐘崎天然とらふぐと極上宗像牛！名宿5選',
   description: '冬の福岡・宗像と岡垣は、世界文化遺産「神宿る島」宗像・沖ノ島と関連遺産群の中枢「宗像大社辺津宮」が新春開運祈願で賑わい。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '宗像 ホテル, 宗像大社 初詣, 鐘崎 とらふぐ, 宗像牛, メルキュール福岡宗像, ぶどうの樹 杜の七種, 宮地嶽神社, 11月 12月 1月 福岡 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukuoka-munakata-taisha-hatsumode-torafugu-munakatagyu-stay/"
   },
   openGraph: {
-    title: '【11・12・1月福岡】鐘崎天然とらふぐと極上宗像牛！名宿5選',
+    title: '11・12・1月福岡：鐘崎天然とらふぐと極上宗像牛！名宿5選',
     description: '冬の福岡・宗像と岡垣は、世界文化遺産「神宿る島」宗像・沖ノ島と関連遺産群の中枢「宗像大社辺津宮」が新春開運祈願で賑わい。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-fukuoka-munakata-taisha-hatsumode-torafugu-munakatagyu-stay',
     type: 'article',
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月福岡】世界遺産・宗像大社新春開運初詣＆玄界灘冬絶景！鐘崎天然とらふぐと極上宗像牛を堪能する名宿5選",
+    title: "11・12・1月福岡：世界遺産・宗像大社新春開運初詣＆玄界灘冬絶景！鐘崎天然とらふぐと極上宗像牛を堪能する名宿5選",
     description: "冬の福岡・宗像と岡垣は、世界文化遺産「神宿る島」宗像・沖ノ島と関連遺産群の中枢「宗像大社辺津宮」が新春開運祈願で賑わい、荒波寄せる玄界灘の海辺に白砂青松の「さつき松原」が広がる神話と美味の郷。11月から1月にかけての冬期は、全国屈指の水揚げを誇る鐘崎漁港の極上「天然とらふぐ」や旬の寒ブリ・ヤリイカ、赤身と霜降りのバランスが秀逸なブランド黒毛和牛「宗像牛」の贅沢な味わい。宮地嶽神社「光の道」にもほど近い玄界灘沿いの厳選名宿5選を徹底解説します。"
   }
 };
@@ -229,10 +229,7 @@ export default function FukuokaMunakataPage() {
             <Snowflake className="w-4 h-4 text-blue-300" />
             11月・12月・1月冬の特選旅｜福岡・宗像＆岡垣
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">
-            世界遺産・宗像大社新春開運初詣＆玄界灘冬絶景！<br className="hidden sm:inline" />
-            鐘崎天然とらふぐと極上宗像牛を堪能する名宿5選
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">世界遺産・宗像大社新春開運初詣＆玄界灘冬絶景！<br className="hidden sm:inline" /> 鐘崎天然とらふぐと極上宗像牛を堪能する名宿5選</h1>
           <p className="text-base sm:text-lg text-stone-200/90 leading-relaxed max-w-4xl mb-8">
             日本神話の三女神が鎮まる世界文化遺産・宗像大社と、荒波打ち寄せる冬の玄界灘。11月から1月にかけての冬期は、全国から参拝者が集う新春開運祈願で聖域が厳かな賑わいを見せ、白砂青松のさつき松原には冬の清々しい風が吹き抜けます。そして福岡屈指の水揚げを誇る鐘崎港の極上「天然とらふぐ」、濃厚な旨みを蓄えた「宗像牛」、旬の寒ブリ。宮地嶽神社「光の道」にもほど近い玄界灘沿いで、神話の祈りと至高の美味に浸る厳選宿をご案内します。
           </p>

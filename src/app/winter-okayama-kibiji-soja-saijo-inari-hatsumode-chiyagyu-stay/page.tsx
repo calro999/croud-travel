@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月岡山】最上稲荷の新春初詣！名宿5選',
+  title: '11・12・1月岡山：最上稲荷の新春初詣！名宿5選',
   description: '古代吉備王国の歴史ロマンと晴れの国の冬空が広がる岡山・吉備路＆総社エリアの11〜1月冬旅特集。初詣参拝客数60万人を誇る中国屈指の大霊場「最。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '最上稲荷 初詣, 吉備津神社 大廻廊, 備中国分寺 五重塔, 千屋牛 岡山, 総社 ホテル, グランヴィア岡山, サントピア岡山総社, 吉備路 冬 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-okayama-kibiji-soja-saijo-inari-hatsumode-chiyagyu-stay/"
   },
   openGraph: {
-    title: '【11・12・1月岡山】最上稲荷の新春初詣！名宿5選',
+    title: '11・12・1月岡山：最上稲荷の新春初詣！名宿5選',
     description: '古代吉備王国の歴史ロマンと晴れの国の冬空が広がる岡山・吉備路＆総社エリアの11〜1月冬旅特集。初詣参拝客数60万人を誇る中国屈指の大霊場「最。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-okayama-kibiji-soja-saijo-inari-hatsumode-chiyagyu-stay',
     type: 'article',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月岡山】最上稲荷の新春初詣＆国宝吉備津神社の400m廻廊！備中国分寺五重塔と幻の千屋牛名宿5選",
+    title: "11・12・1月岡山：最上稲荷の新春初詣＆国宝吉備津神社の400m廻廊！備中国分寺五重塔と幻の千屋牛名宿5選",
     description: "古代吉備王国の歴史ロマンと晴れの国の冬空が広がる岡山・吉備路＆総社エリアの11〜1月冬旅特集。初詣参拝客数60万人を誇る中国屈指の大霊場「最上稲荷（高松稲荷）」の新春開運祈願、桃太郎伝説が息づく国宝「吉備津神社」の荘厳な400m大廻廊、冬の田園に凛とそびえる「備中国分寺五重塔」、日本最古の蔓牛の血統を継ぐ幻の和牛「千屋牛（ちやぎゅう）」と冬の岡山美食。吉備路散策の拠点に最適な厳選ホテル・名宿5選を徹底解説します。",
     images: ['https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -284,11 +284,7 @@ export default function OkayamaKibijiWinterPage() {
               <Sparkles className="w-4 h-4 text-red-300" />
               <span>11月・12月・1月冬の吉備路初詣＆歴史ロマン特集</span>
             </div>
-            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 text-white drop-shadow-md">
-              岡山・吉備路・総社＆最上稲荷<br className="hidden sm:inline" />
-              最上稲荷の新春初詣＆国宝吉備津神社の400m廻廊！<br className="hidden sm:inline" />
-              備中国分寺五重塔と幻の千屋牛を味わう厳選名宿5選
-            </h1>
+            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 text-white drop-shadow-md">岡山・吉備路・総社＆最上稲荷<br className="hidden sm:inline" /> 最上稲荷の新春初詣＆国宝吉備津神社の400m廻廊！<br className="hidden sm:inline" /> 備中国分寺五重塔と幻の千屋牛を味わう厳選名宿5選</h1>
             <p className="max-w-3xl mx-auto text-sm md:text-lg text-red-100 leading-relaxed drop-shadow">
               日本三大稲荷・最上稲荷に響く新春の読経と巨大大鳥居。桃太郎伝説が息づく国宝・吉備津神社の圧巻の400m大廻廊と、冬の田園に凛とそびえる備中国分寺五重塔。日本最古の蔓牛「千屋牛」の極上すき焼きに酔いしれる、晴れの国の冬の聖地巡礼。
             </p>

@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '愛犬と泊まる極上客室露天風呂＆広大ドッグラン温泉宿×ふるさと納税完全ガイド【2026年最新】伊豆高原・那須高原・琵琶湖',
+  title: '愛犬と泊まる極上客室露天風呂＆広大ドッグラン温泉宿×ふるさと納税厳選ガイド伊豆高原・那須高原・琵琶湖',
   description: '大切な愛犬（ペット）と一緒に贅沢な温泉旅行を満喫！伊豆高原の全室客室露天風呂付き英国調隠れ家「別邸 石の家」、那須高原の森に包まれた巨大スパ＆ドッグリゾート「ホテルサンバレー那須」、琵琶湖畔のラグジュアリーステイ「琵琶湖マリオットホテル」。天然芝ドッグラン・愛犬用足湯・客室同伴での美食など、愛犬家の理想をすべて叶える名宿に、楽天ふるさと納税トラベルクーポンで実質2,000円負担で宿泊する完全ガイド。',
   keywords: ["愛犬と泊まる極上客室露天風呂", "2026年最新", "伊豆高原", "那須高原", "琵琶湖", "温泉宿", "宿泊予約"],
   alternates: { canonical: baseUrl + '/furusato-tax-dog-friendly-luxury-onsen-stay/' },
   openGraph: {
-    title: '愛犬と泊まる極上客室露天風呂＆広大ドッグラン温泉宿×ふるさと納税完全ガイド【2026年最新】伊豆高原・那須高原・琵琶湖',
+    title: '愛犬と泊まる極上客室露天風呂＆広大ドッグラン温泉宿×ふるさと納税厳選ガイド伊豆高原・那須高原・琵琶湖',
     description: '大切な愛犬（ペット）と一緒に贅沢な温泉旅行を満喫！伊豆高原の全室客室露天風呂付き英国調隠れ家「別邸 石の家」、那須高原の森に包まれた巨大スパ＆ドッグリゾート「ホテルサンバレー那須」、琵琶湖畔のラグジュアリーステイ「琵琶湖マリオットホテル」。天然芝ドッグラン・愛犬用足湯・客室同伴での美食など、愛犬家の理想をすべて叶える名宿に、楽天ふるさと納税トラベルクーポンで実質2,000円負担で宿泊する完全ガイド。',
     url: baseUrl + '/furusato-tax-dog-friendly-luxury-onsen-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoDogFriendlyLuxuryStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             愛犬・ペット同伴客室露天＆広大ドッグラン特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            愛犬と泊まる極上客室露天風呂＆広大ドッグラン温泉宿×ふるさと納税完全ガイド【2026年最新】伊豆高原・那須高原・琵琶湖
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">愛犬と泊まる極上客室露天風呂＆広大ドッグラン温泉宿×ふるさと納税厳選ガイド伊豆高原・那須高原・琵琶湖</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             「愛犬をペットホテルに預けて旅行に行くのは心が痛む。」「旅先でも温泉や美味しい料理を愛犬と一緒に気兼ねなく楽しみたい。」――そんな愛犬家の願いに応える宿泊施設が全国で劇的に進化しています。相模灘の豊かな自然に抱かれ全室に専用露天風呂を備えた伊豆高原の英国調洋館「別邸 石の家」。那須連山の爽快な空気と広大な敷地で温泉とドッグランを満喫できる栃木・那須高原の「ホテルサンバレー那須」。そして日本最大の湖・琵琶湖の美しい水辺を愛犬とお散歩できる滋賀県守山市のグローバルリゾート「琵琶湖マリオットホテル」。いずれも愛犬用のアメニティや足洗い場、ドッグランが完備され、周囲に気兼ねなくプライベート空間で過ごせる愛犬同伴の最高峰宿です。こうした高規格ドッグリゾートは通常料金が高めに設定されていますが、楽天ふるさと納税のトラベルクーポン（寄付額の最大30％割引）を使えば、実質自己負担2,000円で驚くほどお得に滞在できます。愛犬の喜ぶ笑顔と上質な温泉に癒やされる、ワンランク上の愛犬同伴旅へ出かけましょう。
           </p>

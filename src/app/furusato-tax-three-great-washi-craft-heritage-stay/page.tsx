@@ -42,9 +42,7 @@ export default function Page() {
             <span className="inline-block w-2 h-2 rounded-full bg-rose-400 animate-pulse" />
             日本三大和紙・手漉き工芸特集
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">
-            日本三大和紙の里＆工芸温泉宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三大和紙の里＆工芸温泉宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg md:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed font-normal">
             千年の技と手漉きのぬくもりに触れる日本の美！福井「越前和紙」千五百年の歴史誇る越前の紙漉きとあわら温泉グランディア芳泉、岐阜「美濃和紙」うだつの上がる町並みと長良川の老舗宿十八楼、埼玉「小川和紙」ユネスコ無形文化遺産細川紙の里と秩父美肌の名湯新木鉱泉旅館。日本三大和紙の産地を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。
           </p>

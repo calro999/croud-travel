@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【松本駅前】国宝松本城紅葉＆秋の新そば・山賊焼！4,000円台〜泊まれる格安ホテル5選',
+  title: '松本駅前：国宝松本城紅葉＆秋の新そば・山賊焼！4,000円台〜泊まれる格安ホテル5選',
   description: '北アルプスを望む国宝・松本城の秋の紅葉！香り高い秋の新そばと名物山賊焼。JR篠ノ井線・松本駅周辺で1泊4,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>国宝松本城の錦秋＆香り高い信州新そば・山賊焼</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【松本駅前】国宝松本城紅葉＆信州秋の新そば！<br className="hidden sm:inline" />4,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「松本駅前」国宝松本城紅葉＆信州秋の新そば！<br className="hidden sm:inline" />4,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             現存12天守の一つ、漆黒の壁が美しい国宝「松本城」。秋にはお濠の水面に映えるモミジと冠雪した北アルプスの山並みが絶景を描きます。秋に旬を迎える「信州新そば」の豊かな香りと、ニンニク醤油が香ばしい松本名物「山賊焼」に舌鼓！松本駅周辺で4,000円台〜泊まれる優良ホテルを厳選。
           </p>

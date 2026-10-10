@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            名勝「嵐山・渡月橋」と保津川下り紅葉＆嵯峨野竹林の小径・嵐山温泉の湯浴みと本格京懐石
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">名勝「嵐山・渡月橋」と保津川下り紅葉＆嵯峨野竹林の小径・嵐山温泉の湯浴みと本格京懐石</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             渡月橋を彩る紅葉の山々と嵯峨野の竹林。保津川の清流を下り、名湯・嵐山温泉と極上京懐石に酔いしれる秋。
           </p>

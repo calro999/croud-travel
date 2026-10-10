@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月静岡清水】冬の久能山東照宮新春初詣！名宿5選',
+  title: '11・12・1月静岡清水：冬の久能山東照宮新春初詣！名宿5選',
   description: '冬の静岡・清水エリアは、大気澄み渡る冬晴れの空に純白の雪を抱いた富士山が駿河湾の青に映え。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '静岡 ホテル, 清水 ホテル, 久能山東照宮 初詣, 日本平ホテル, 日本平夢テラス 富士山, 清水港 マグロ, 由比 桜えび, ホテルオーレイン静岡, 11月 12月 1月 静岡 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shizuoka-city-nihondaira-kunozan-toshogu-maguro-stay/"
   },
   openGraph: {
-    title: '【11・12・1月静岡清水】冬の久能山東照宮新春初詣！名宿5選',
+    title: '11・12・1月静岡清水：冬の久能山東照宮新春初詣！名宿5選',
     description: '冬の静岡・清水エリアは、大気澄み渡る冬晴れの空に純白の雪を抱いた富士山が駿河湾の青に映え。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-city-nihondaira-kunozan-toshogu-maguro-stay',
     type: 'article',
@@ -246,10 +246,7 @@ export default function ShizuokaCityWinterPage() {
             <span>11月・12月・1月冬の東海特選ガイド｜静岡・清水・日本平</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            冬の久能山東照宮新春初詣＆日本平富士山パノラマ絶景！<br className="hidden sm:inline" />
-            清水港冬マグロ・由比桜えびと名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">冬の久能山東照宮新春初詣＆日本平富士山パノラマ絶景！<br className="hidden sm:inline" /> 清水港冬マグロ・由比桜えびと名宿5選</h1>
 
           <p className="max-w-4xl text-sm sm:text-base md:text-lg text-slate-300 leading-relaxed font-normal">
             澄み切った青空に輝く純白の冠雪富士と駿河湾のパノラマ。徳川家康公を祀る国宝・久能山東照宮の新春開運祈願、清水港の日本一の極上本マグロと由比の桜えび、名物静岡おでんに舌鼓を打ち、絶景ホテルや天然温泉に寛ぐ極上の冬旅へご案内します。

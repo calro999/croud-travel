@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/oita-yufuin-kinrin-lake-retreat-stay/" },
-  title: "【大分・由布院＆金鱗湖】朝霧の湖・離れ客室露天宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "大分・由布院＆金鱗湖：朝霧の湖・離れ客室露天宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "湯布院のシンボル「金鱗湖」の幻想的な冬の朝霧、豊後富士「由布岳」を仰ぐ大自然、お洒落なショップやアートカフェが連なる「湯の坪街道」、全室離れ・客室露天風呂付きの隠れ家高級旅館を徹底解説。憧れの由布院ステイを厳選。",
   keywords: ["大分", "由布院", "金鱗湖", "朝霧の湖", "離れ客室露天宿", "温泉宿", "宿泊予約"],
 };
@@ -92,9 +92,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             YUFUIN & KINRIN LAKE GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【大分・由布院＆金鱗湖】朝霧の湖畔・由布岳望む離れ客室露天風呂＆湯の坪街道宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「大分・由布院＆金鱗湖」朝霧の湖畔・由布岳望む離れ客室露天風呂＆湯の坪街道宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-teal-100/90 leading-relaxed">
             豊後富士と呼ばれる秀峰・由布岳の裾野に広がる日本屈指の温泉保養地「由布院（湯布院）」。清水と温泉が同時に湧き出る不思議な「金鱗湖」に立ちこめる幻想的な朝霧。木立の中に静かに佇む数奇屋造りの離れ宿、鳥のさえずりと共に楽しむ客室専用露天風呂、そして湯の坪街道のアート散策。大人が心から寛げる洗練された隠れ家リゾートへご案内します。
           </p>

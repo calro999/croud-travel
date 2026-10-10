@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/shizuoka-shimoda-solo-retreat-ocean-onsen-stay/" },
-  title: '【南伊豆・下田温泉ひとり旅・ペリー黒船と白砂ビーチおこもり】自家源泉掛け流し・下田金目鯛づくし・海一望露天風呂！特急サフィール直通の港町厳選3宿',
+  title: '南伊豆・下田温泉ひとり旅・ペリー黒船と白砂ビーチおこもり：自家源泉掛け流し・下田金目鯛づくし・海一望露天風呂！特急サフィール直通の港町厳選3宿',
   description: '幕末開国の舞台とエメラルドグリーンの白浜海岸を抱く南伊豆・下田温泉！里山の静寂と敷地内自噴の極上掛け流し温泉が口コミ★4.7超の「下田セントラルホテル」、海一望の展望大浴場と金目鯛会席が評判の「下田ベイクロシオ」、白浜海岸直結のオーシャンリゾート「ホテル伊豆急」を楽天API最新データに基づき徹底比較。',
   keywords: '下田温泉 一人旅 宿,下田 ホテル 一人 温泉,下田セントラルホテル,下田ベイクロシオ,ホテル伊豆急,下田 ひとり旅 おこもり',
   openGraph: {
-    title: '【南伊豆・下田温泉ひとり旅・ペリー黒船と白砂ビーチおこもり】自家源泉掛け流し・下田金目鯛づくし・海一望露天風呂！特急サフィール直通の港町厳選3宿',
+    title: '南伊豆・下田温泉ひとり旅・ペリー黒船と白砂ビーチおこもり：自家源泉掛け流し・下田金目鯛づくし・海一望露天風呂！特急サフィール直通の港町厳選3宿',
     description: '幕末開国の舞台とエメラルドグリーンの白浜海岸を抱く南伊豆・下田温泉！里山の静寂と敷地内自噴の極上掛け流し温泉が口コミ★4.7超の「下田セントラルホテル」、海一望の展望大浴場と金目鯛会席が評判の「下田ベイクロシオ」、白浜海岸直結のオーシャンリゾート「ホテル伊豆急」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/shizuoka-shimoda-solo-retreat-ocean-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【南伊豆・下田温泉ひとり旅・ペリー黒船と白砂ビーチおこもり】自家源泉掛け流し・下田金目鯛づくし・海一望露天風呂！特急サフィール直通の港町厳選3宿',
+    headline: '南伊豆・下田温泉ひとり旅・ペリー黒船と白砂ビーチおこもり：自家源泉掛け流し・下田金目鯛づくし・海一望露天風呂！特急サフィール直通の港町厳選3宿',
     description: '幕末開国の舞台とエメラルドグリーンの白浜海岸を抱く南伊豆・下田温泉！里山の静寂と敷地内自噴の極上掛け流し温泉が口コミ★4.7超の「下田セントラルホテル」、海一望の展望大浴場と金目鯛会席が評判の「下田ベイクロシオ」、白浜海岸直結のオーシャンリゾート「ホテル伊豆急」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             静岡・下田温泉ひとり旅＆南伊豆オーシャンおこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【南伊豆・下田温泉ひとり旅・ペリー黒船と白砂ビーチおこもり】自家源泉掛け流し・下田金目鯛づくし・海一望露天風呂！特急サフィール直通の港町厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「南伊豆・下田温泉ひとり旅・ペリー黒船と白砂ビーチおこもり」自家源泉掛け流し・下田金目鯛づくし・海一望露天風呂！特急サフィール直通の港町厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

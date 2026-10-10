@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-strange-festivals-stay/" },
-  title: '日本三大奇祭＆天下の奇祭・熱狂の伝統文化と歴史名宿×ふるさと納税完全ガイド【2026年最新】諏訪御柱祭・国府宮はだか祭・男鹿ナマハゲ',
+  title: '日本三大奇祭＆天下の奇祭・熱狂の伝統文化と歴史名宿×ふるさと納税厳選ガイド諏訪御柱祭・国府宮はだか祭・男鹿ナマハゲ',
   description: '魂を揺さぶる熱狂と千年の祈り！長野諏訪「諏訪大社御柱祭」巨木落としの勇壮と上諏訪天然温泉ホテルルートイン上諏訪、愛知稲沢「国府宮はだか祭」数千の裸男がもみ合う厄除神事とお宿和陽館、秋田男鹿「男鹿のナマハゲ」ユネスコ無形文化遺産・荒ぶる神の咆哮と男鹿温泉セイコーグランドホテル。日本三大奇祭の迫力と伝統を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大奇祭・伝統文化特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大奇祭＆天下の奇祭・熱狂の伝統文化と歴史名宿×ふるさと納税完全ガイド【2026年最新】諏訪御柱祭・国府宮はだか祭・男鹿ナマハゲ',
+    title: '日本三大奇祭＆天下の奇祭・熱狂の伝統文化と歴史名宿×ふるさと納税厳選ガイド諏訪御柱祭・国府宮はだか祭・男鹿ナマハゲ',
     description: '魂を揺さぶる熱狂と千年の祈り！長野諏訪「諏訪大社御柱祭」巨木落としの勇壮と上諏訪天然温泉ホテルルートイン上諏訪、愛知稲沢「国府宮はだか祭」数千の裸男がもみ合う厄除神事とお宿和陽館、秋田男鹿「男鹿のナマハゲ」ユネスコ無形文化遺産・荒ぶる神の咆哮と男鹿温泉セイコーグランドホテル。日本三大奇祭の迫力と伝統を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-strange-festivals-stay',
@@ -158,9 +158,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大奇祭・伝統文化特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大奇祭＆熱気と伝統の文化体験宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大奇祭＆熱気と伝統の文化体験宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             日本各地の風土と信仰が育み、常識を超えたスケールと迫力で人々を圧倒する「日本三大奇祭」――七年に一度、樹齢数百年の巨木を山から引き倒し急坂を滑り落ちる木落としで天下に知られる長野の「諏訪大社御柱祭」、極寒の旧暦正月に数千人の裸男たちが厄落としのため神男に群がり揉み合う愛知稲沢の「国府宮はだか祭」、そして大晦日の夜に鬼の面を着けた神の化身が家々を巡り悪疫退散と怠惰を戒めるユネスコ無形文化遺産・秋田男鹿の「ナマハゲ」。五穀豊穣や無病息災を願う人々の純粋な熱気は、見る者の魂を激しく揺さぶります。祭りの歴史を伝える資料館や神社仏閣を巡り、上諏訪温泉や男鹿温泉の名湯に浸かって信州そば・尾張郷土料理・秋田名物石焼料理を堪能する旅を楽天ふるさと納税でお楽しみください。
           </p>

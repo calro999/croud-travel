@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【球体ドームサウナ＆湧水インフィニティ】森の静寂に溶け込むデザイナーズサウナ宿5選",
+  title: "球体ドームサウナ＆湧水インフィニティ：森の静寂に溶け込むデザイナーズサウナ宿5選",
   description: "近未来的な球体パノラマドームサウナと、天然湧水がオーバーフローするインフィニティ水風呂！木々のざわめきと小鳥の声をBGMに、建築美と大自然が融合した最高峰のデザイナーズスパリゾートを厳選紹介。",
   keywords: "ドームテント サウナ 温泉, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/organic-forest-infinity-dome-sauna-stay/",
   },
   openGraph: {
-    title: "【球体ドームサウナ＆湧水インフィニティ】森の静寂に溶け込むデザイナーズサウナ宿5選",
+    title: "球体ドームサウナ＆湧水インフィニティ：森の静寂に溶け込むデザイナーズサウナ宿5選",
     description: "近未来的な球体パノラマドームサウナと、天然湧水がオーバーフローするインフィニティ水風呂！木々のざわめきと小鳥の声をBGMに、建築美と大自然が融合した最高峰のデザイナーズスパリゾートを厳選紹介。",
     url: 'https://croud-travel.pages.dev/organic-forest-infinity-dome-sauna-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【球体ドームサウナ＆湧水インフィニティ】森の静寂に溶け込むデザイナーズサウナ宿5選",
+    title: "球体ドームサウナ＆湧水インフィニティ：森の静寂に溶け込むデザイナーズサウナ宿5選",
     description: "近未来的な球体パノラマドームサウナと、天然湧水がオーバーフローするインフィニティ水風呂！木々のざわめきと小鳥の声をBGMに、建築美と大自然が融合した最高峰のデザイナーズスパリゾートを厳選紹介。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>ドームサウナ＆湧水インフィニティ</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【球体ドームサウナ＆湧水インフィニティ】森の静寂に溶け込むデザイナーズサウナ宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「球体ドームサウナ＆湧水インフィニティ」森の静寂に溶け込むデザイナーズサウナ宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             近未来的な球体パノラマドームサウナと、天然湧水がオーバーフローするインフィニティ水風呂！木々のざわめきと小鳥の声をBGMに、建築美と大自然が融合した最高峰のデザイナーズスパリゾートを厳選紹介。
           </p>

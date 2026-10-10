@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月修善寺温泉】伊豆の小京都で桂川の静寂と伊豆牛会席！名宿5選',
+  title: '修善寺温泉で過ごす冬の旅（11・12月）！伊豆の小京都で桂川の静寂と伊豆牛会席！名宿5選',
   description: '日本で最も遅い11月中旬から12月上旬にかけて見頃を迎える伊豆最古の名湯・修善寺温泉の紅葉。桂川のせせらぎに寄り添う「竹林の小径」と朱塗りの橋、弘法大師ゆかりの独鈷の湯。天城の清流が育む本生わさびと芳醇な伊豆牛ステーキ、駿河湾の冬魚を味わう静寂の初冬ステイ。',
   keywords: '修善寺温泉 宿泊 11月 12月, 修善寺 紅葉 温泉 宿, 竹林の小径 修善寺 旅館, 伊豆牛 温泉 宿, 修善寺温泉 おすすめ 高級旅館, 天城わさび 修善寺, 修善寺 モデルコース',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shizuoka-shuzenji-late-momiji-bamboo-stay/",
   },
   openGraph: {
-    title: '【11・12月修善寺温泉】伊豆の小京都で桂川の静寂と伊豆牛会席！名宿5選',
+    title: '修善寺温泉で過ごす冬の旅（11・12月）！伊豆の小京都で桂川の静寂と伊豆牛会席！名宿5選',
     description: '日本で最も遅い11月中旬から12月上旬にかけて見頃を迎える伊豆最古の名湯・修善寺温泉の紅葉。桂川のせせらぎに寄り添う「竹林の小径」と朱塗りの橋、弘法大師ゆかりの独鈷の湯。天城の清流が育む本生わさびと芳醇な伊豆牛ステーキ、駿河湾の冬魚を味わう静寂の初冬ステイ。',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-shuzenji-late-momiji-bamboo-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月修善寺温泉の遅咲き紅葉と竹林】伊豆の小京都で桂川の静寂と伊豆牛会席を堪能する極上湯宿5選",
+    title: "修善寺温泉の遅咲き紅葉と竹林で過ごす冬の旅（11・12月）！伊豆の小京都で桂川の静寂と伊豆牛会席を堪能する極上湯宿5選",
     description: "日本で最も遅い11月中旬から12月上旬にかけて見頃を迎える伊豆最古の名湯・修善寺温泉の紅葉。桂川のせせらぎに寄り添う「竹林の小径」と朱塗りの橋、弘法大師ゆかりの独鈷の湯。天城の清流が育む本生わさびと芳醇な伊豆牛ステーキ、駿河湾の冬魚を味わう静寂の初冬ステイ。",
   }
 };
@@ -266,10 +266,7 @@ export default function ShuzenjiWinterPage() {
             <Sparkles className="w-4 h-4 text-emerald-300" />
             <span>11月・12月限定 伊豆の小京都・遅咲き紅葉特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月修善寺温泉の遅咲き紅葉と竹林】<br className="hidden sm:inline" />
-            伊豆の小京都で桂川の静寂と伊豆牛会席を堪能する極上湯宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">修善寺温泉の遅咲き紅葉と竹林で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 伊豆の小京都で桂川の静寂と伊豆牛会席を堪能する極上湯宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             日本で最も遅い紅葉が川面を赤く染め、凛と青い竹林が風にそよぐ。弘法大師ゆかりの開湯1200年の名湯に浸かり、芳醇な伊豆牛と天城生わさびの美食に酔いしれる静寂の初冬ステイ。
           </p>

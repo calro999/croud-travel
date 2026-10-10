@@ -3,11 +3,11 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【秋の札幌×格安】紅葉散策とすすきのグルメ！大浴場付き1泊3,000円台〜のコスパ最強おすすめホテル5選【2026最新】',
+  title: '秋の札幌×格安：紅葉散策とすすきのグルメ！大浴場付き1泊3,000円台〜のコスパ最強おすすめホテル5選「2026最新」',
   description: '北海道大学イチョウ並木の黄金トンネルや中島公園の紅葉！夜はすすきので秋鮭・味噌ラーメン・ジンギスカンを満喫。サウナ＆大浴場完備で1泊3,000円〜5,000円台で泊まれる札幌のコスパ最強ホテル5選をご紹介。ベッセルホテル、三井ガーデン、リソルトリニティを徹底比較！',
   keywords: '札幌 格安 ホテル, 札幌 大浴場 サウナ ホテル, 北大 イチョウ並木 紅葉, すすきの グルメ 宿, ベッセルホテルカンパーナすすきの, 三井ガーデンホテル札幌',
   openGraph: {
-    title: '【秋の札幌×格安】紅葉散策とすすきのグルメ！大浴場付き1泊3,000円台〜のコスパ最強おすすめホテル5選【2026最新】',
+    title: '秋の札幌×格安：紅葉散策とすすきのグルメ！大浴場付き1泊3,000円台〜のコスパ最強おすすめホテル5選「2026最新」',
     description: '北大イチョウ並木とすすきのグルメ！大浴場・サウナ付き1泊3,000円台〜のコスパ最強札幌ホテル5選。',
     type: 'article',
     url: 'https://croud-travel.com/autumn-budget-hokkaido-sapporo-gourmet-large-bath-hotels-stay',
@@ -32,9 +32,7 @@ export default function SapporoBudgetAutumnPage() {
             <span className="px-3 py-1 bg-teal-600 text-white text-xs font-bold rounded-full">格安・北海道特集</span>
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">1泊目安: 3,000円台〜5,000円台</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">
-            【秋の札幌×格安】紅葉散策とすすきのグルメ！大浴場付き1泊3,000円台〜のコスパ最強おすすめホテル5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の札幌×格安」紅葉散策とすすきのグルメ！大浴場付き1泊3,000円台〜のコスパ最強おすすめホテル5選</h1>
           <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
             黄金に輝く北海道大学のイチョウ並木と中島公園の水鏡紅葉。すすきのの絶品海鮮やラーメンを心ゆくまで堪能し、清潔な大浴場やサウナで足を伸ばして寛げる札幌の厳選コスパホテルをご紹介します。
           </p>

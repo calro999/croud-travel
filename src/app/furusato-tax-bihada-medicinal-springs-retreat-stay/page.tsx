@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-bihada-medicinal-springs-retreat-stay/" },
-  title: '【奇跡の名湯×ふるさと納税】強炭酸泉・天然泥湯・日本三大美肌の湯で巡る極上湯治リトリート | クラウドトラベル',
+  title: '奇跡の名湯をふるさと納税でお得に旅する！強炭酸泉・天然泥湯・日本三大美肌の湯で巡る極上湯治リトリート | クラウドトラベル',
   description: '炭酸ガスが弾ける大分・長湯温泉、全身を包む鹿児島・霧島の天然泥湯、とろとろ美容液のような佐賀・嬉野温泉。全国屈指の薬湯・美肌湯を楽天ふるさと納税クーポンでお得に楽しむ本格湯治ガイド。',
   openGraph: {
-    title: '【奇跡の名湯×ふるさと納税】強炭酸泉・天然泥湯・日本三大美肌の湯で巡る極上湯治リトリート | クラウドトラベル',
+    title: '奇跡の名湯をふるさと納税でお得に旅する！強炭酸泉・天然泥湯・日本三大美肌の湯で巡る極上湯治リトリート | クラウドトラベル',
     description: '炭酸ガスが弾ける大分・長湯温泉、全身を包む鹿児島・霧島の天然泥湯、とろとろ美容液のような佐賀・嬉野温泉。全国屈指の薬湯・美肌湯を楽天ふるさと納税クーポンでお得に楽しむ本格湯治ガイド。',
     type: 'article',
   },
@@ -59,9 +59,7 @@ export default function Page() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             ふるさと納税×奇跡の美肌泉・薬湯治
           </div>
-          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            【奇跡の名湯×ふるさと納税】強炭酸泉・天然泥湯・日本三大美肌の湯で巡る極上湯治リトリート
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">奇跡の名湯をふるさと納税でお得に旅する！強炭酸泉・天然泥湯・日本三大美肌の湯で巡る極上湯治リトリート</h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl mb-6">
             日本全国に数千ある温泉地の中でも、「入った瞬間に違いがわかる」圧倒的な個性を放つ奇跡の泉質があります。全身がびっしりと銀色の気泡に包まれ血行が劇的に促進される大分・長湯温泉の「天然強炭酸泉」。地底から湧き出る濃厚なミネラルクレイを肌に塗ってパックする鹿児島・霧島温泉郷の「天然泥湯」。まるで高級美容液に浸かっているかのようなぬめりと潤いをもたらす佐賀・嬉野温泉の「日本三大美肌の湯」。こうした本物の名湯宿は、日頃の疲労回復やデトックス、美容を求めるトラベラーにとってまさに地上のオアシスです。楽天ふるさと納税のトラベルクーポンを使えば、泉質にこだわり抜いた本格湯治宿や源泉かけ流し旅館に実質30％オフで宿泊可能。身体の芯から生まれ変わる至高の温泉リトリートへ出かけませんか。
           </p>

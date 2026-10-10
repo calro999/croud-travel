@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kyoto-rainy-day-temple-cafe-guide/" },
-  title: "【京都 雨の日こそ行きたい名所＆町家カフェ】緑鮮やかな苔寺・瑠璃光院・三千院＆おこもり温泉宿",
+  title: "京都 雨の日こそ行きたい名所＆町家カフェ：緑鮮やかな苔寺・瑠璃光院・三千院＆おこもり温泉宿",
   description:
     "雨の日に最も美しく輝く京都の庭園！雨露に濡れる大原三千院や西芳寺（苔寺）の緑、静寂の瑠璃光院、町家ブックカフェで読書タイム、嵐山温泉旅館のしっとり贅沢ステイ。",
   keywords: ["京都", "雨の日こそ行きたい名所", "町家カフェ", "緑鮮やかな苔寺", "瑠璃光院", "三千院", "おこもり温泉宿"],
@@ -134,12 +134,7 @@ export default function KyotoRainyDayTempleCafeGuidePage() {
             <span>🍁 雨に濡れるほどに艶めく、古都千年の深緑と静寂</span>
           </div>
 
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">
-            【京都 雨の日こそ行きたい名所＆町家カフェ】<br />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-rose-300 via-pink-200 to-amber-200">
-              緑鮮やかな苔寺・瑠璃光院・三千院＆おこもり温泉宿
-            </span>
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">「京都 雨の日こそ行きたい名所＆町家カフェ」<br /> <span className="text-transparent bg-clip-text bg-gradient-to-r from-rose-300 via-pink-200 to-amber-200"> 緑鮮やかな苔寺・瑠璃光院・三千院＆おこもり温泉宿 </span></h1>
 
           <p className="text-stone-300 text-base sm:text-lg leading-relaxed max-w-3xl mb-8">
             「京都旅行の予報が雨マークでがっかり…」そんな方にこそ知ってほしい事実があります。

@@ -28,7 +28,7 @@ interface RakutenCategoryData {
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://croud-travel.pages.dev";
 
 export const metadata: Metadata = {
-  title: "【東京観光 完全計画ガイド 2026】1泊2日・2泊3日モデルコース＆東京駅・新宿・渋谷・浅草・夜景ホテル・朝食ビュッフェ ｜ 旅宿クラウド",
+  title: "東京観光 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆東京駅・新宿・渋谷・浅草・夜景ホテル・朝食ビュッフェ ｜ 旅宿クラウド",
   description:
     "東京観光の計画を完全サポート！1泊2日・2泊3日モデルコース、東京駅・新宿・渋谷・浅草・銀座のエリア別攻略法、夜景の見えるホテル、絶品朝食ビュッフェ宿までおすすめの宿泊プランまで徹底網羅。",
   keywords: ["東京観光", "完全計画ガイド", "2026", "1泊2日", "2泊3日モデルコース", "東京駅", "新宿"],
@@ -98,12 +98,7 @@ export default function TokyoHubPage() {
           </span>
         </div>
 
-        <h1 className="text-3xl md:text-5xl font-black font-journal-serif leading-tight text-white">
-          【東京観光 完全ガイド】<br />
-          <span className="bg-gradient-to-r from-amber-200 via-indigo-200 to-teal-100 bg-clip-text text-transparent">
-            最先端トレンド・下町名所・夜景ホテル＆東京駅・新宿拠点
-          </span>
-        </h1>
+        <h1 className="text-3xl md:text-5xl font-black font-journal-serif leading-tight text-white">「東京観光 厳選ガイド」<br /> <span className="bg-gradient-to-r from-amber-200 via-indigo-200 to-teal-100 bg-clip-text text-transparent"> 最先端トレンド・下町名所・夜景ホテル＆東京駅・新宿拠点 </span></h1>
 
         <p className="text-indigo-100/90 text-xs md:text-sm max-w-3xl leading-relaxed font-medium">
           世界を魅了する大都市・東京。「1泊2日で効率よく回るには？」「東京駅・新宿・渋谷のホテル選びは？」「夜景や朝食がすごいホテルは？」を縦掘りし、おすすめの宿泊施設情報で繋ぐ総合ガイド。

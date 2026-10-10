@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【信州スイーツ＆名湯】焼きたて信州アップルパイ＆果実の香るりんご風呂！長野の美食温泉宿5選",
+  title: "信州スイーツ＆名湯：焼きたて信州アップルパイ＆果実の香るりんご風呂！長野の美食温泉宿5選",
   description: "甘酸っぱい香りに包まれる名物「りんご風呂」と、サクサクの自家製焼きたてアップルパイ！信州サーモンや信州牛とともに、長野の豊かな果実と美肌温泉を丸ごと味わえる魅力あふれる宿を徹底解説。",
   keywords: "信州 温泉 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/spring-nagano-shinshu-apple-spa-stay/",
   },
   openGraph: {
-    title: "【信州スイーツ＆名湯】焼きたて信州アップルパイ＆果実の香るりんご風呂！長野の美食温泉宿5選",
+    title: "信州スイーツ＆名湯：焼きたて信州アップルパイ＆果実の香るりんご風呂！長野の美食温泉宿5選",
     description: "甘酸っぱい香りに包まれる名物「りんご風呂」と、サクサクの自家製焼きたてアップルパイ！信州サーモンや信州牛とともに、長野の豊かな果実と美肌温泉を丸ごと味わえる魅力あふれる宿を徹底解説。",
     url: 'https://croud-travel.pages.dev/spring-nagano-shinshu-apple-spa-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【信州スイーツ＆名湯】焼きたて信州アップルパイ＆果実の香るりんご風呂！長野の美食温泉宿5選",
+    title: "信州スイーツ＆名湯：焼きたて信州アップルパイ＆果実の香るりんご風呂！長野の美食温泉宿5選",
     description: "甘酸っぱい香りに包まれる名物「りんご風呂」と、サクサクの自家製焼きたてアップルパイ！信州サーモンや信州牛とともに、長野の豊かな果実と美肌温泉を丸ごと味わえる魅力あふれる宿を徹底解説。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>信州りんご＆果実美肌湯</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【信州スイーツ＆名湯】焼きたて信州アップルパイ＆果実の香るりんご風呂！長野の美食温泉宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「信州スイーツ＆名湯」焼きたて信州アップルパイ＆果実の香るりんご風呂！長野の美食温泉宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             甘酸っぱい香りに包まれる名物「りんご風呂」と、サクサクの自家製焼きたてアップルパイ！信州サーモンや信州牛とともに、長野の豊かな果実と美肌温泉を丸ごと味わえる魅力あふれる宿を徹底解説。
           </p>

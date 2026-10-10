@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【12・1月京都】美山かやぶきの里！名宿5選',
+  title: '京都で過ごす冬の旅（12・1月）！美山かやぶきの里！名宿5選',
   description: '日本の原風景が色濃く残る京都府南丹市「美山かやぶきの里」。12〜1月は茅葺き屋根の上に純白の雪が降り積もり、昔話の世界のような静寂と温もりに包まれます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '美山かやぶきの里 冬, 美山雪灯廊, ぼたん鍋 美山, 湯の花温泉 旅館, 渓山閣, すみや亀峰菴, 翠泉, 丹波牛, 河鹿荘, 12月 1月 京都 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kyoto-miyama-kayabuki-snow-botannabe-tanba-stay/"
   },
   openGraph: {
-    title: '【12・1月京都】美山かやぶきの里！名宿5選',
+    title: '京都で過ごす冬の旅（12・1月）！美山かやぶきの里！名宿5選',
     description: '日本の原風景が色濃く残る京都府南丹市「美山かやぶきの里」。12〜1月は茅葺き屋根の上に純白の雪が降り積もり、昔話の世界のような静寂と温もりに包まれます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-kyoto-miyama-kayabuki-snow-botannabe-tanba-stay',
     siteName: '地域の宿探訪',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【12・1月京都】美山かやぶきの里＆丹波！白銀の茅葺き集落雪景色と雪灯廊・冬の最高峰「天然ぼたん鍋」＆里山雪見温泉名宿5選",
+    title: "京都で過ごす冬の旅（12・1月）！美山かやぶきの里＆丹波！白銀の茅葺き集落雪景色と雪灯廊・冬の最高峰「天然ぼたん鍋」＆里山雪見温泉名宿5選",
     description: "日本の原風景が色濃く残る京都府南丹市「美山かやぶきの里」。12〜1月は茅葺き屋根の上に純白の雪が降り積もり、昔話の世界のような静寂と温もりに包まれます。1月下旬には集落全体が雪灯籠の柔らかな光に照らされる「美山雪灯廊」が開幕。丹波地方の冬の王様・天然猪肉の熱々「ぼたん鍋」や丹波牛、湯の花温泉の美肌露天風呂を満喫できる厳選名宿5選を徹底解説します。",
     images: ["https://img.travel.rakuten.co.jp/share/HOTEL/108931/108931.jpg"]
   }
@@ -236,10 +236,7 @@ export default function KyotoMiyamaTanbaWinterPage() {
             <span>12月・1月冬の京都里山リトリート特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">
-            美山かやぶきの里＆丹波！<br className="hidden sm:inline" />
-            白銀の茅葺き集落雪景色と雪灯廊・冬の最高峰「天然ぼたん鍋」＆里山雪見温泉名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">美山かやぶきの里＆丹波！<br className="hidden sm:inline" /> 白銀の茅葺き集落雪景色と雪灯廊・冬の最高峰「天然ぼたん鍋」＆里山雪見温泉名宿5選</h1>
 
           <p className="text-slate-300 text-sm sm:text-base lg:text-lg leading-relaxed max-w-3xl mb-8">
             京都市内から車で約1時間半、大自然に囲まれた京都府南丹市美山町。重厚な茅葺き屋根が軒を連ねる「美山かやぶきの里」は、冬になると一面の白銀世界へと姿を変え、昔話の絵本から抜け出したようなノスタルジックな静寂に包まれます。1月下旬に開催される幻想の「美山雪灯廊」、丹波山系の豊かな森が育んだ冬の味覚の最高峰・天然猪肉の熱々「ぼたん鍋」、そして亀岡・湯の花温泉の美肌雪見露天風呂。心も体もじんわり温まる、冬の京都の隠れ里へご案内します。

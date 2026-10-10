@@ -5,11 +5,11 @@ import { ChevronRight, Star, MapPin, Sparkles, Snowflake, Mountain, Award, HelpC
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【奥日光華厳の滝ブルーアイス氷瀑と乳白色硫黄泉】2026-2027年冬の日光湯元温泉！雪見露天ととちぎ和牛名宿5選',
+  title: '奥日光華厳の滝ブルーアイス氷瀑と乳白色硫黄泉：2026-2027年冬の日光湯元温泉！雪見露天ととちぎ和牛名宿5選',
   description: '落差97mの日本三名瀑が青く凍りつく「華厳の滝ブルーアイス」と中禅寺湖の雪景色！国民保養温泉地第1号の奥日光湯元温泉（濃厚乳白色硫黄泉）の雪見露天、とちぎ和牛と日光湯波会席を味わう至高の5宿。',
   keywords: ['栃木県温泉', '華厳滝', '奥日光・日光湯元温泉・中禅寺湖', '冬の旅行', '温泉宿5選', '楽天トラベル', 'ふるさと納税'],
   openGraph: {
-    title: '【奥日光華厳の滝ブルーアイス氷瀑と乳白色硫黄泉】2026-2027年冬の日光湯元温泉！雪見露天ととちぎ和牛名宿5選',
+    title: '奥日光華厳の滝ブルーアイス氷瀑と乳白色硫黄泉：2026-2027年冬の日光湯元温泉！雪見露天ととちぎ和牛名宿5選',
     description: '落差97mの日本三名瀑が青く凍りつく「華厳の滝ブルーアイス」と中禅寺湖の雪景色！国民保養温泉地第1号の奥日光湯元温泉（濃厚乳白色硫黄泉）の雪見露天、とちぎ和牛と日光湯波会席を味わう至高の5宿。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/winter-tochigi-okunikko-kegon-falls-ice-yumoto-snow-onsen-stay',
@@ -107,9 +107,7 @@ export default function WinterFeaturePage() {
               <Snowflake className="w-3.5 h-3.5" />
               <span>冬の厳選旅行特集（11月・12月・1月）</span>
             </div>
-            <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug">
-              【奥日光華厳の滝ブルーアイス氷瀑と乳白色硫黄泉】2026-2027年冬の日光湯元温泉！雪見露天ととちぎ和牛名宿5選
-            </h1>
+            <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug">「奥日光華厳の滝ブルーアイス氷瀑と乳白色硫黄泉」2026-2027年冬の日光湯元温泉！雪見露天ととちぎ和牛名宿5選</h1>
             <p className="text-sm md:text-base text-cyan-100/90 max-w-2xl mx-auto leading-relaxed">
               落差97mの日本三名瀑が青く凍りつく「華厳の滝ブルーアイス」と中禅寺湖の雪景色！国民保養温泉地第1号の奥日光湯元温泉（濃厚乳白色硫黄泉）の雪見露天、とちぎ和牛と日光湯波会席を味わう至高の5宿。
             </p>

@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【冬こそ温まる！別府八湯地獄めぐり＆地獄蒸し】日本一の湧出量と湯けむり展望露天宿5選",
+  title: "冬こそ温まる！別府八湯地獄めぐり＆地獄蒸し：日本一の湧出量と湯けむり展望露天宿5選",
   description: "湧出量・源泉数ともに日本一を誇るおんせん県おおいたの象徴「別府温泉郷」！立ち上る白い湯けむりが冬空に映える鉄輪（かんなわ）温泉の「地獄蒸し料理」や、海地獄・血の池地獄などの地獄めぐり、そして極上にごり湯を満喫する旅。",
   keywords: "別府 鉄輪温泉 露天風呂 旅館, 11月旅行, 12月旅行, 冬休み, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-oita-beppu-jigokumushi-hotspring-stay/",
   },
   openGraph: {
-    title: "【冬こそ温まる！別府八湯地獄めぐり＆地獄蒸し】日本一の湧出量と湯けむり展望露天宿5選",
+    title: "冬こそ温まる！別府八湯地獄めぐり＆地獄蒸し：日本一の湧出量と湯けむり展望露天宿5選",
     description: "湧出量・源泉数ともに日本一を誇るおんせん県おおいたの象徴「別府温泉郷」！立ち上る白い湯けむりが冬空に映える鉄輪（かんなわ）温泉の「地獄蒸し料理」や、海地獄・血の池地獄などの地獄めぐり、そして極上にごり湯を満喫する旅。",
     url: 'https://croud-travel.pages.dev/winter-oita-beppu-jigokumushi-hotspring-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【冬こそ温まる！別府八湯地獄めぐり＆地獄蒸し】日本一の湧出量と湯けむり展望露天宿5選",
+    title: "冬こそ温まる！別府八湯地獄めぐり＆地獄蒸し：日本一の湧出量と湯けむり展望露天宿5選",
     description: "湧出量・源泉数ともに日本一を誇るおんせん県おおいたの象徴「別府温泉郷」！立ち上る白い湯けむりが冬空に映える鉄輪（かんなわ）温泉の「地獄蒸し料理」や、海地獄・血の池地獄などの地獄めぐり、そして極上にごり湯を満喫する旅。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>別府八湯地獄めぐり＆地獄蒸し温泉</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【冬こそ温まる！別府八湯地獄めぐり＆地獄蒸し】日本一の湧出量と湯けむり展望露天宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「冬こそ温まる！別府八湯地獄めぐり＆地獄蒸し」日本一の湧出量と湯けむり展望露天宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             湧出量・源泉数ともに日本一を誇るおんせん県おおいたの象徴「別府温泉郷」！立ち上る白い湯けむりが冬空に映える鉄輪（かんなわ）温泉の「地獄蒸し料理」や、海地獄・血の池地獄などの地獄めぐり、そして極上にごり湯を満喫する旅。
           </p>

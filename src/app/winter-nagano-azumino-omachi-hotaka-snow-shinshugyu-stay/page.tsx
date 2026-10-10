@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月長野】雪見露天！名宿5選',
+  title: '11・12・1月長野：雪見露天！名宿5選',
   description: '冠雪した北アルプス後立山連峰（爺ヶ岳・鹿島槍ヶ岳・常念岳）が紺碧の冬空に映える11〜1月の安曇野・大町エリア。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '安曇野 イルミネーション, 大町温泉郷 宿, 穂高神社 初詣, アルプスあづみの公園, 信州サーモン, 信州プレミアム牛, 大町温泉郷 露天風呂, 白馬 パウダースノー, 11月 12月 1月 長野 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagano-azumino-omachi-hotaka-snow-shinshugyu-stay/"
   },
   openGraph: {
-    title: '【11・12・1月長野】雪見露天！名宿5選',
+    title: '11・12・1月長野：雪見露天！名宿5選',
     description: '冠雪した北アルプス後立山連峰（爺ヶ岳・鹿島槍ヶ岳・常念岳）が紺碧の冬空に映える11〜1月の安曇野・大町エリア。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-nagano-azumino-omachi-hotaka-snow-shinshugyu-stay',
     siteName: '地域の宿探訪',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月長野】安曇野＆大町温泉郷！白銀の北アルプス後立山連峰と穂高神社初詣・光のイルミネーション＆雪見露天名宿5選",
+    title: "11・12・1月長野：安曇野＆大町温泉郷！白銀の北アルプス後立山連峰と穂高神社初詣・光のイルミネーション＆雪見露天名宿5選",
     description: "冠雪した北アルプス後立山連峰（爺ヶ岳・鹿島槍ヶ岳・常念岳）が紺碧の冬空に映える11〜1月の安曇野・大町エリア。信濃国三之宮・穂高神社での雪の初詣や、国営アルプスあづみの公園を彩る県内最大級の光のイルミネーション。高瀬渓谷・葛温泉の名湯を引き込む大町温泉郷＆穂高温泉郷の雪見露天風呂、そして信州サーモンや信州プレミアム牛肉を堪能できる厳選名宿5選を徹底特集します。",
     images: ["https://img.travel.rakuten.co.jp/share/HOTEL/7149/7149.jpg"]
   }
@@ -252,9 +252,7 @@ export default function NaganoAzuminoOmachiPage() {
             <Snowflake className="w-3.5 h-3.5 text-emerald-400" />
             11月〜1月限定・白銀の北アルプス冬特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight md:leading-snug text-balance">
-            【11・12・1月長野】安曇野＆大町温泉郷！白銀の北アルプス後立山連峰と穂高神社初詣・光のイルミネーション＆雪見露天名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight md:leading-snug text-balance">「11・12・1月長野」安曇野＆大町温泉郷！白銀の北アルプス後立山連峰と穂高神社初詣・光のイルミネーション＆雪見露天名宿5選</h1>
           <p className="text-stone-300 text-xs sm:text-sm md:text-base leading-relaxed max-w-3xl mx-auto font-medium">
             白銀に冠雪した北アルプスの山並みが広がる安曇野平野。信濃国三之宮・穂高神社での初詣と、満天の星空の下で輝く県内最大級のあづみの公園イルミネーション。葛温泉の名湯を引き込む大町温泉郷の雪見露天と信州牛グルメを満喫する冬の休日へ。
           </p>

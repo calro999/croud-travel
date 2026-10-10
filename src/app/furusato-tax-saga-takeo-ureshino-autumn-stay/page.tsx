@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     canonical: "https://croud-travel.pages.dev/furusato-tax-saga-takeo-ureshino-autumn-stay/",
   },
   openGraph: {
-    title: '【佐賀・武雄＆嬉野温泉】御船山楽園の紅葉まつり＆日本三大美肌の湯！佐賀牛・温泉湯どうふと名宿特集',
+    title: '佐賀・武雄＆嬉野温泉：御船山楽園の紅葉まつり＆日本三大美肌の湯！佐賀牛・温泉湯どうふと名宿特集',
     description: '10月・11月の佐賀・武雄温泉＆嬉野温泉を特集。御船山楽園の壮大な秋の紅葉ライトアップ、とろとろ美肌の湯、名物温泉湯どうふや極上佐賀牛を堪能できる厳選3宿とふるさと納税トラベルクーポンの賢い活用法を徹底解説。',
     url: 'https://croud-travel.pages.dev/furusato-tax-saga-takeo-ureshino-autumn-stay',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            【佐賀・武雄＆嬉野温泉】御船山楽園の紅葉まつり＆日本三大美肌の湯！佐賀牛・温泉湯どうふと名宿特集
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">「佐賀・武雄＆嬉野温泉」御船山楽園の紅葉まつり＆日本三大美肌の湯！佐賀牛・温泉湯どうふと名宿特集</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の佐賀・武雄温泉＆嬉野温泉を特集。御船山楽園の壮大な秋の紅葉ライトアップ、とろとろ美肌の湯、名物温泉湯どうふや極上佐賀牛を堪能できる厳選3宿とふるさと納税トラベルクーポンの賢い活用法を徹底解説。
           </p>

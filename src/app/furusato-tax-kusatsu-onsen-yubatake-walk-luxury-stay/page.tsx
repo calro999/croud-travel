@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '天下の名湯・草津温泉の真髄を味わう！湯畑徒歩圏＆名物源泉掛け流し名門旅館×ふるさと納税完全攻略ガイド【2026年最新】櫻井・一井・奈良屋',
+  title: '天下の名湯・草津温泉の真髄を味わう！湯畑徒歩圏＆名物源泉掛け流し名門旅館×ふるさと納税極上旅ガイド櫻井・一井・奈良屋',
   description: '日本三名泉の筆頭・草津温泉！立ちのぼる湯煙と幻想的な夜のライトアップに包まれる湯畑へ徒歩すぐ。「草津温泉 ホテル櫻井」「草津温泉 ホテル一井」「草津温泉 奈良屋」を、群馬県草津町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。約30mの大浴場、湯守が守る白旗源泉、湯畑一望客室を堪能。',
   keywords: ["天下の名湯", "2026年最新", "櫻井", "一井", "奈良屋", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kusatsu-onsen-yubatake-walk-luxury-stay/",
   },
   openGraph: {
-    title: '天下の名湯・草津温泉の真髄を味わう！湯畑徒歩圏＆名物源泉掛け流し名門旅館×ふるさと納税完全攻略ガイド【2026年最新】櫻井・一井・奈良屋',
+    title: '天下の名湯・草津温泉の真髄を味わう！湯畑徒歩圏＆名物源泉掛け流し名門旅館×ふるさと納税極上旅ガイド櫻井・一井・奈良屋',
     description: '日本三名泉の筆頭・草津温泉！立ちのぼる湯煙と幻想的な夜のライトアップに包まれる湯畑へ徒歩すぐ。「草津温泉 ホテル櫻井」「草津温泉 ホテル一井」「草津温泉 奈良屋」を、群馬県草津町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。約30mの大浴場、湯守が守る白旗源泉、湯畑一望客室を堪能。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kusatsu-onsen-yubatake-walk-luxury-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoKusatsuYubatakeWalkStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           日本一の名湯！草津温泉 湯畑名門宿特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          天下の名湯・草津温泉の真髄を味わう！湯畑徒歩圏＆名物源泉掛け流し名門旅館×ふるさと納税完全攻略ガイド【2026年最新】櫻井・一井・奈良屋
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">天下の名湯・草津温泉の真髄を味わう！湯畑徒歩圏＆名物源泉掛け流し名門旅館×ふるさと納税極上旅ガイド櫻井・一井・奈良屋</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoKusatsuYubatakeWalkStayPage() {
               5ツ星★認定の宿　華やかな近代和風旅館で草津最大級の源泉100%かけ流し温泉を堪能
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “ファミリー向けバイキングバイキングを楽しみにして行きました。もっと肉肉なのかなーと思ってましたが、そんなに肉の種類が多いとは感じませんでした。ステーキはとてもおいしかったです。それ以外も全世代が満… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D56137%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoKusatsuYubatakeWalkStayPage() {
               20室のみの湯畑眺望客室は希少！すき焼きやライブキッチンでのお寿司などを楽しめるビュッフェが話題
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “バイキングとラウンジを満喫、大満足の旅バイキングが食べきれないくらい種類が多く、ライブのお寿司もとても美味しかったです。お部屋は湯畑の見えないら部屋でしたか、湯畑の見えてゆっくりできるラウンジがあ… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D39705%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoKusatsuYubatakeWalkStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               湯畑すぐ。草津最古の源泉『白旗の湯』を楽しめる老舗宿。
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “食事はどの料理も美味しかったです目の前で握っていただけるお寿司も良いパフォーマンスですね部屋にある冷蔵庫に飲みかけの水(部屋に置いてあるペットボトルと同じもの)が入っていたので 前のお客さ… ”
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

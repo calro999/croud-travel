@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【岡山】後楽園・烏城の秋紅葉と名物デミカツ丼！2,000円台〜格安ホテル5選',
+  title: '岡山：後楽園・烏城の秋紅葉と名物デミカツ丼！2,000円台〜格安ホテル5選',
   description: '日本三名園「岡山後楽園」の錦秋ライトアップと漆黒の岡山城（烏城）！濃厚デミグラスソースが絶品のデミカツ丼や秋鰆。岡山駅前で1泊2,000円台〜4,000円台で泊まれる格安・高評価ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetOkayamaHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>日本三名園後楽園の秋紅葉＆元祖デミカツ丼</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【岡山】後楽園の紅葉＆名物デミカツ丼を満喫！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「岡山」後楽園の紅葉＆名物デミカツ丼を満喫！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             大名庭園・岡山後楽園の紅葉ライトアップ「秋の幻想庭園」と、漆黒の天守閣が浮かび上がる岡山城。夜は岡山ご当地グルメの筆頭「デミカツ丼」や旬を迎える秋鰆（さわら）のタタキ、フルーツ王国岡山のパフェに舌鼓！岡山駅周辺で2,000円台から泊まれる高評価ホテルを厳選。
           </p>

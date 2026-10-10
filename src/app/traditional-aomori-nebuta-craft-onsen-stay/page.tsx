@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】勇壮なねぶたの熱気に包まれる！ねぶたアート空間＆青森ヒバ名湯と海鮮極上宿5選 | 日本全国・旅宿クラウド',
+  title: '2026年：勇壮なねぶたの熱気に包まれる！ねぶたアート空間＆青森ヒバ名湯と海鮮極上宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！職人が手掛けた巨大ねぶたの光アートと祭り囃子！大間マグロ・陸奥湾ホタテ会席と香り高い青森ヒバ温泉で津軽・南部の文化に触れる名宿5選。',
   keywords: ["2026年", "青森ヒバ名湯と海鮮極上宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: '【2026年】勇壮なねぶたの熱気に包まれる！ねぶたアート空間＆青森ヒバ名湯と海鮮極上宿5選',
+    title: '2026年：勇壮なねぶたの熱気に包まれる！ねぶたアート空間＆青森ヒバ名湯と海鮮極上宿5選',
     description: '2026年最新！職人が手掛けた巨大ねぶたの光アートと祭り囃子！大間マグロ・陸奥湾ホタテ会席と香り高い青森ヒバ温泉で津軽・南部の文化に触れる名宿5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/traditional-aomori-nebuta-craft-onsen-stay',
@@ -193,9 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> ねぶた光アート×青森ヒバ名湯・大間マグロ
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】勇壮なねぶたの熱気に包まれる！ねぶたアート空間＆青森ヒバ名湯と海鮮極上宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」勇壮なねぶたの熱気に包まれる！ねぶたアート空間＆青森ヒバ名湯と海鮮極上宿5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             和紙と光が織りなす極彩色の巨大「ねぶた」が館内を彩る圧巻の空間。毎夜響く祭り囃子の生演奏に心躍らせ、大間産天然本マグロや陸奥湾ホタテの極上海鮮会席、青森ヒバ造りの名湯で芯から温まる青森の文化リトリート。
           </p>

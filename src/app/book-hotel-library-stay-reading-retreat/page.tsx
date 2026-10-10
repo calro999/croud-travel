@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/book-hotel-library-stay-reading-retreat/" },
-  title: "【週末おこもり・読書＆ブックホテル】数万冊の本に囲まれるライブラリー宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "週末おこもり・読書＆ブックホテル：数万冊の本に囲まれるライブラリー宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "本の世界に没頭する最高のおこもり休日！ブックホテル＆ライブラリー温泉宿完全特化！箱根「箱根本箱」、蔵書数万冊の温泉ライブラリーリゾート、ブックカフェ併設デザイナーズホテル、読書専用ラウンジ宿を徹底解説。",
   keywords: ["週末おこもり", "読書", "ブックホテル", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -89,9 +89,7 @@ export default function WomenSoloRetreatHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-gradient-to-r from-rose-300 to-pink-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block shadow">
             BOOK HOTEL & RETREAT GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【週末おこもり・読書＆ブックホテル】数万冊の本に囲まれるライブラリー宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「週末おこもり・読書＆ブックホテル」数万冊の本に囲まれるライブラリー宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-pink-100/90 leading-relaxed">
             コーヒーを片手にページをめくり、活字の海に溺れる「読書＆ブックホテル」。壁一面に本が並ぶライブラリーラウンジ。客室に持ち込んで朝まで読書に浸る贅沢。温泉で目を休め、美味しい食事と本の世界に包まれる至福のおこもりステイへ。
           </p>

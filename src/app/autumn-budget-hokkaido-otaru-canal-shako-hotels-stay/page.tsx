@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【小樽】秋の味覚シャコ・秋鮭＆運河ガス燈！3,000円台〜泊まれる格安ホテル5選',
+  title: '小樽：秋の味覚シャコ・秋鮭＆運河ガス燈！3,000円台〜泊まれる格安ホテル5選',
   description: '秋限定の小樽名物・大ぶりシャコや旬の秋鮭、ライトアップされた運河のガス燈散策を満喫！小樽駅・運河周辺で1泊3,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetOtaruHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>秋の港町海鮮グルメ＆レトロ運河夜景</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【小樽】旬の秋シャコ・生いくら＆運河ガス燈の夕景！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「小樽」旬の秋シャコ・生いくら＆運河ガス燈の夕景！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-cyan-100/90 max-w-2xl mx-auto leading-relaxed">
             秋の小樽は、小樽前浜で水揚げされる特大の「秋シャコ」や筋子からほぐしたばかりの自家製生いくらが旬を迎える最高の味覚シーズン。夕暮れどきにガス燈が灯る小樽運河の石造り倉庫群を散策し、天然温泉大浴場付きのホテルに3,000円台〜で泊まれる人気宿を厳選。
           </p>

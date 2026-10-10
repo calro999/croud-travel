@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '家族の最高の思い出を！星野リゾート「リゾナーレ」×ふるさと納税完全攻略ガイド【2026年最新】八ヶ岳・熱海・那須で洗練された非日常ステイ',
+  title: '家族の最高の思い出を！星野リゾート「リゾナーレ」×ふるさと納税極上旅ガイド八ヶ岳・熱海・那須で洗練された非日常ステイ',
   description: '洗練されたデザインと土地の恵みを体感するアクティビティが融合した星野リゾートのファミリーリゾートホテル「リゾナーレ」。「リゾナーレ八ヶ岳」「リゾナーレ熱海」「リゾナーレ那須」を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で賢く予約する完全ガイド。波の出る全天候型プール、絶景クライミング、森のアグリツーリズモを体験。',
   keywords: ["2026年最新", "八ヶ岳", "熱海", "那須で洗練された非日常ステイ", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-hoshino-resorts-risonare-family-stay/",
   },
   openGraph: {
-    title: '家族の最高の思い出を！星野リゾート「リゾナーレ」×ふるさと納税完全攻略ガイド【2026年最新】八ヶ岳・熱海・那須で洗練された非日常ステイ',
+    title: '家族の最高の思い出を！星野リゾート「リゾナーレ」×ふるさと納税極上旅ガイド八ヶ岳・熱海・那須で洗練された非日常ステイ',
     description: '洗練されたデザインと土地の恵みを体感するアクティビティが融合した星野リゾートのファミリーリゾートホテル「リゾナーレ」。「リゾナーレ八ヶ岳」「リゾナーレ熱海」「リゾナーレ那須」を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で賢く予約する完全ガイド。波の出る全天候型プール、絶景クライミング、森のアグリツーリズモを体験。',
     url: 'https://croud-travel.pages.dev/furusato-tax-hoshino-resorts-risonare-family-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoHoshinoRisonareStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           憧れの最高峰！星野リゾート リゾナーレ特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          家族の最高の思い出を！星野リゾート「リゾナーレ」×ふるさと納税完全攻略ガイド【2026年最新】八ヶ岳・熱海・那須で洗練された非日常ステイ
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">家族の最高の思い出を！星野リゾート「リゾナーレ」×ふるさと納税極上旅ガイド八ヶ岳・熱海・那須で洗練された非日常ステイ</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoHoshinoRisonareStayPage() {
               八ヶ岳の雄大な自然と土地のワインを堪能するリゾート
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “ヨーロッパの街並みがとても素敵ヨーロッパの街並みが素敵  ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D29487%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoHoshinoRisonareStayPage() {
               熱海の山上より、相模湾と夜景を一望できるお部屋。スタイリッシュなリゾートで多様な滞在スタイルを
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “食事もアクティビティも最高、子連れに最適バイキングの食事がどれもおいしくホテルアクティビティも最高で2日間ホテルだけで楽しく過ごせました。また部屋もとても素敵でした。小さい子ども赤ちゃん連れにもと… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D136112%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoHoshinoRisonareStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               那���の自然豊かな敷地で地域の風景に親しみふれあいながら暮らすように過ごすアグリツーリズモリゾート
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “自然の中で子供と楽しめたが、車がないと不便施設内は自然がいっぱいで、子供にも色々な昆虫や植物を見せてあげられたのが、とても良かった。また、小さいながらも、遊び場があったり絵本があったり、ピザや… ”
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

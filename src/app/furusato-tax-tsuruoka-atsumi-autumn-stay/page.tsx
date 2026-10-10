@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            あつみ温泉の湯けむりと温海川の鮭遡上！出羽の秋味覚（庄内柿・山形牛・日本海地魚）と老舗温泉街の秋旅
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">あつみ温泉の湯けむりと温海川の鮭遡上！出羽の秋味覚（庄内柿・山形牛・日本海地魚）と老舗温泉街の秋旅</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             温海川のせせらぎと千年の名湯、出羽の秋の実りと日本海の海鮮が織りなす極上の時間
           </p>

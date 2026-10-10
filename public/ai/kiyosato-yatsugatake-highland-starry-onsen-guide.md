@@ -1,4 +1,4 @@
-# 【山梨・八ヶ岳】清里温泉おすすめリゾートホテル5選！標高1,200mの星空露天と高原フレンチ
+# 山梨・八ヶ岳：清里温泉おすすめリゾートホテル5選！標高1,200mの星空露天と高原フレンチ
 
 - URL: https://croud-travel.pages.dev/posts/kiyosato-yatsugatake-highland-starry-onsen-guide/
 - 宿泊施設名: 八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里

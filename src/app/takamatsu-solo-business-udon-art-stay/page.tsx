@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/takamatsu-solo-business-udon-art-stay/" },
-  title: '【高松出張＆讃岐うどんひとり旅】高松港・サンポートビュー・天然温泉・名物うどん朝食！瀬戸内の風を感じる快適宿 厳選3選',
+  title: '高松出張＆讃岐うどんひとり旅：高松港・サンポートビュー・天然温泉・名物うどん朝食！瀬戸内の風を感じる快適宿 厳選3選',
   description: '本州と四国を結ぶ海の玄関口・香川県高松市！「高松駅＆高松港直結・瀬戸内海の島々を見渡す最高峰シティホテル。」を誇る「JRホテルクレメント高松」、全室ライブラリーラウンジ付きで上質な滞在を約束する「ロイヤルパークホテル高松」、瓦町駅近くで自家源泉天然温泉と夜鳴きそば完備の「さぬきの湯 ドーミーイン高松」を徹底比較。',
   keywords: '高松 出張 ホテル おすすめ,高松 一人旅 ホテル,JRホテルクレメント高松 宿泊,ロイヤルパークホテル高松 ラウンジ,ドーミーイン高松 温泉',
   openGraph: {
-    title: '【高松出張＆讃岐うどんひとり旅】高松港・サンポートビュー・天然温泉・名物うどん朝食！瀬戸内の風を感じる快適宿 厳選3選',
+    title: '高松出張＆讃岐うどんひとり旅：高松港・サンポートビュー・天然温泉・名物うどん朝食！瀬戸内の風を感じる快適宿 厳選3選',
     description: '本州と四国を結ぶ海の玄関口・香川県高松市！「高松駅＆高松港直結・瀬戸内海の島々を見渡す最高峰シティホテル。」を誇る「JRホテルクレメント高松」、全室ライブラリーラウンジ付きで上質な滞在を約束する「ロイヤルパークホテル高松」、瓦町駅近くで自家源泉天然温泉と夜鳴きそば完備の「さぬきの湯 ドーミーイン高松」を徹底比較。',
     url: 'https://croud-travel.pages.dev/takamatsu-solo-business-udon-art-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【高松出張＆讃岐うどんひとり旅】高松港・サンポートビュー・天然温泉・名物うどん朝食！瀬戸内の風を感じる快適宿 厳選3選',
+    headline: '高松出張＆讃岐うどんひとり旅：高松港・サンポートビュー・天然温泉・名物うどん朝食！瀬戸内の風を感じる快適宿 厳選3選',
     description: '本州と四国を結ぶ海の玄関口・香川県高松市！「高松駅＆高松港直結・瀬戸内海の島々を見渡す最高峰シティホテル。」を誇る「JRホテルクレメント高松」、全室ライブラリーラウンジ付きで上質な滞在を約束する「ロイヤルパークホテル高松」、瓦町駅近くで自家源泉天然温泉と夜鳴きそば完備の「さぬきの湯 ドーミーイン高松」を徹底比較。',
     author: {
       '@type': 'Organization',
@@ -74,9 +74,7 @@ export default function ArticlePage() {
           <span>✨</span>
           <span>高松・出張＆讃岐うどん・瀬戸内アート特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【高松出張＆讃岐うどんひとり旅】高松港・サンポートビュー・天然温泉・名物うどん朝食！瀬戸内の風を感じる快適宿 厳選3選
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">「高松出張＆讃岐うどんひとり旅」高松港・サンポートビュー・天然温泉・名物うどん朝食！瀬戸内の風を感じる快適宿 厳選3選</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
           本州と四国を結ぶ海の玄関口・香川県高松市！「高松駅＆高松港直結・瀬戸内海の島々を見渡す最高峰シティホテル。」を誇る「JRホテルクレメント高松」、全室ライブラリーラウンジ付きで上質な滞在を約束する「ロイヤルパークホテル高松」、瓦町駅近くで自家源泉天然温泉と夜鳴きそば完備の「さぬきの湯 ドーミーイン高松」を徹底比較。
         </p>

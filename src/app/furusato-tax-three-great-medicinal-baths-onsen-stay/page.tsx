@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '日本三大薬湯＆奇跡の濃厚湯治宿×ふるさと納税完全ガイド【2026年最新】有馬・草津・松之山の名湯治体験',
+  title: '日本三大薬湯＆奇跡の濃厚湯治宿×ふるさと納税厳選ガイド有馬・草津・松之山の名湯治体験',
   description: '温泉療養の最高峰！兵庫有馬温泉の含鉄強塩泉金泉、群馬草津温泉の強酸性天下の名湯、新潟十日町松之山温泉の太古の化石海水ジオ温泉。数多くの文人や湯治客を癒やし続けてきた「日本三大薬湯」を楽天ふるさと納税宿泊クーポンでお得に巡る完全ガイド。',
   keywords: ["日本三大薬湯", "奇跡の濃厚湯治宿×ふるさと納税", "2026年最新", "有馬", "草津", "松之山の名湯治体験", "温泉宿"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-medicinal-baths-onsen-stay/"
   },
   openGraph: {
-    title: '日本三大薬湯＆奇跡の濃厚湯治宿×ふるさと納税完全ガイド【2026年最新】有馬・草津・松之山の名湯治体験',
+    title: '日本三大薬湯＆奇跡の濃厚湯治宿×ふるさと納税厳選ガイド有馬・草津・松之山の名湯治体験',
     description: '温泉療養の最高峰！兵庫有馬温泉の含鉄強塩泉金泉、群馬草津温泉の強酸性天下の名湯、新潟十日町松之山温泉の太古の化石海水ジオ温泉。数多くの文人や湯治客を癒やし続けてきた「日本三大薬湯」を楽天ふるさと納税宿泊クーポンでお得に巡る完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-medicinal-baths-onsen-stay',
     type: 'article',
@@ -54,9 +54,7 @@ export default function FurusatoFeaturePage() {
             <span>✨</span>
             <span>日本三大薬湯・本格濃厚湯治特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            日本三大薬湯＆奇跡の濃厚湯治宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">日本三大薬湯＆奇跡の濃厚湯治宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             日本全国に数千ある温泉地の中でも、群を抜く濃厚な有効成分と効能から「日本三大薬湯」と称される有馬温泉・草津温泉・松之山温泉。海水よりも塩分濃度が高く鉄分で赤褐色に染まる有馬の金泉、強力な殺菌力と毎分三万リットルの湧出量を誇る草津の酸性泉、そして太古の海水が地熱で温められた松之山の化石海水ジオ温泉。身体の芯までエネルギーが満ちる本格湯治の旅を、楽天ふるさと納税でお得に体験しましょう。
           </p>

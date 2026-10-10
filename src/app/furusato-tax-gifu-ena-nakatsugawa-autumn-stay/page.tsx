@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            岐阜・東濃 恵那峡の奇岩紅葉クルーズ＆中津川！栗きんとん発祥の地と恵那峡温泉・飛騨牛
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">岐阜・東濃 恵那峡の奇岩紅葉クルーズ＆中津川！栗きんとん発祥の地と恵那峡温泉・飛騨牛</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の岐阜・東濃（恵那＆中津川）特集！木曽川のダム湖にそびえる奇岩怪石と紅葉のコントラストを水上から望む「恵那峡遊覧船」、秋限定の栗きんとん本場めぐり、恵那峡温泉の絶景露天風呂、極上飛騨牛会席をふるさと納税トラベルで味わう東濃の贅沢秋旅。
           </p>

@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-secret-hotsprings-stay/" },
-  title: '日本三大秘湯＆原生林の一軒宿・ケーブルカー露天風呂×ふるさと納税完全ガイド【2026年最新】谷地温泉・祖谷温泉・乳頭温泉郷',
+  title: '日本三大秘湯＆原生林の一軒宿・ケーブルカー露天風呂×ふるさと納税厳選ガイド谷地温泉・祖谷温泉・乳頭温泉郷',
   description: '秘境の静寂と湧き出る大地の恵み！青森八甲田「谷地温泉」開湯400年の霊泉足元湧出と日本三秘湯谷地温泉、徳島三好「祖谷温泉」断崖絶壁をケーブルカーで下る露天風呂と新祖谷温泉ホテルかずら橋、秋田仙北「乳頭温泉郷」白濁の濁り湯とブナ原生林に抱かれる田沢湖高原温泉ロッジアイリス。日本三大秘湯の神秘を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大秘湯・大自然秘境特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大秘湯＆原生林の一軒宿・ケーブルカー露天風呂×ふるさと納税完全ガイド【2026年最新】谷地温泉・祖谷温泉・乳頭温泉郷',
+    title: '日本三大秘湯＆原生林の一軒宿・ケーブルカー露天風呂×ふるさと納税厳選ガイド谷地温泉・祖谷温泉・乳頭温泉郷',
     description: '秘境の静寂と湧き出る大地の恵み！青森八甲田「谷地温泉」開湯400年の霊泉足元湧出と日本三秘湯谷地温泉、徳島三好「祖谷温泉」断崖絶壁をケーブルカーで下る露天風呂と新祖谷温泉ホテルかずら橋、秋田仙北「乳頭温泉郷」白濁の濁り湯とブナ原生林に抱かれる田沢湖高原温泉ロッジアイリス。日本三大秘湯の神秘を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-secret-hotsprings-stay',
@@ -158,9 +158,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大秘湯・大自然秘境特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大秘湯＆秘境の大自然一軒宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大秘湯＆秘境の大自然一軒宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             俗世を離れ、手つかずの自然と滾々と湧き出る原生の湯に身を委ねる「日本三大秘湯」――十和田八幡平国立公園の八甲田山麓に佇む青森の「谷地温泉」、四国山地の急峻なV字渓谷にへばりつくように湯煙を上げる徳島の「祖谷温泉」、そして東北・秋田の乳頭山麓のブナ林に点在する名湯「乳頭温泉郷」。谷地温泉は浴槽の底から自噴する「足元湧出泉」として知られ、400年以上湯治客の体を癒やし続けてきた霊泉。祖谷温泉は専用ケーブルカーで渓谷底へと下りる唯一無二の露天風呂と祖谷のかずら橋で知られる秘境。乳頭温泉郷は七つの異なる源泉が湧き、乳白色の湯に包まれて日本の原風景を味わえます。日常の喧騒を忘れ、真の安らぎを得る秘湯巡りを楽天ふるさと納税でお楽しみください。
           </p>

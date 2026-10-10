@@ -121,9 +121,7 @@ export default async function PrefectureCafesPage({ params }: { params: Promise<
           </span>
         </div>
 
-        <h1 className="text-3xl md:text-5xl font-black font-journal-serif leading-tight text-white">
-          【2026年最新】{prefInfo.name}のおすすめ絶景＆レトロカフェ・スイーツ徹底比較ランキング
-        </h1>
+        <h1 className="text-3xl md:text-5xl font-black font-journal-serif leading-tight text-white">{prefInfo.name}のおすすめ絶景＆レトロカフェ・スイーツ徹底比較ランキング</h1>
 
         <p className="text-amber-100/90 text-xs md:text-sm max-w-3xl leading-relaxed font-medium">
           {prefInfo.name}への旅行・散策で絶対に立ち寄りたい、至高のカフェ＆スイーツスポットを徹底ルポ！SNSで話題のロケーション抜群な絶景テラスカフェから、伝統の町家をリノベーションした風情あふれるレトロ喫茶、地元で愛され続ける老舗スイーツサロンまで、旅行の合間に至福のひとときを過ごせる名店を厳選比較して紹介します。

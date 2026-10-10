@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hokkaido-family-trip-zoo-nature-guide/" },
-  title: "【子連れ北海道旅行 2泊3日モデルコース】旭山動物園＆美瑛富良野ドライブ！子供が喜ぶ体験型ホテルガイド ｜ 日本全国・旅宿クラウド",
+  title: "子連れ北海道旅行 2泊3日モデルコース：旭山動物園＆美瑛富良野ドライブ！子供が喜ぶ体験型ホテルガイド ｜ 日本全国・旅宿クラウド",
   description: "家族で楽しむ北海道旅行！旭山動物園の行動展示、もぐもぐタイムの見学、美瑛の丘散策、大自然を満喫するキッズフレンドリーな宿特集。レンタカー移動時の休憩スポットや子供用アメニティ充実のホテルまとめ。",
   keywords: ["子連れ北海道旅行", "2泊3日モデルコース", "旭山動物園", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -177,10 +177,7 @@ export default function HokkaidoFamilyTripZooNaturePage() {
             </span>
           </div>
 
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【子連れ北海道旅行 2泊3日モデルコース】<br />
-            <span className="text-amber-100">旭山動物園＆美瑛富良野ドライブ！子供が喜ぶ体験型ホテルガイド</span>
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「子連れ北海道旅行 2泊3日モデルコース」<br /> <span className="text-amber-100">旭山動物園＆美瑛富良野ドライブ！子供が喜ぶ体験型ホテルガイド</span></h1>
 
           <p className="text-sm md:text-base text-amber-50/95 leading-relaxed font-normal pt-1">
             広大な北海道の大自然、ホッキョクグマが豪快に水しぶきを上げる旭山動物園、見渡す限りのパッチワークの丘！子連れ旅行では「移動距離」と「拠点ホテル選び」が旅の成否を分ける重要ポイントです。移動ストレスを最小限に抑えた家族みんなが笑顔になれる2泊3日の黄金ルートを大公開！

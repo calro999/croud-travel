@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '銘菓・和カフェ＆老舗スイーツめぐり温泉宿×ふるさと納税完全ガイド【2026年最新】金沢・小布施・伊勢の甘味旅',
+  title: '銘菓・和カフェ＆老舗スイーツめぐり温泉宿×ふるさと納税厳選ガイド金沢・小布施・伊勢の甘味旅',
   description: '女子旅やご褒美旅行に大人気！金沢ひがし茶屋街の金箔ソフト＆抹茶和菓子、長野小布施の焼き栗・モンブラン名店めぐり、三重伊勢おはらい町の赤福・伊勢うどん食べ歩き。歴史ある街並みの名湯旅館を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: ["銘菓", "和カフェ", "2026年最新", "金沢", "小布施", "伊勢の甘味旅", "温泉宿"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-sweets-cafe-wagashi-retro-onsen-stay/"
   },
   openGraph: {
-    title: '銘菓・和カフェ＆老舗スイーツめぐり温泉宿×ふるさと納税完全ガイド【2026年最新】金沢・小布施・伊勢の甘味旅',
+    title: '銘菓・和カフェ＆老舗スイーツめぐり温泉宿×ふるさと納税厳選ガイド金沢・小布施・伊勢の甘味旅',
     description: '女子旅やご褒美旅行に大人気！金沢ひがし茶屋街の金箔ソフト＆抹茶和菓子、長野小布施の焼き栗・モンブラン名店めぐり、三重伊勢おはらい町の赤福・伊勢うどん食べ歩き。歴史ある街並みの名湯旅館を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-sweets-cafe-wagashi-retro-onsen-stay',
     type: 'article',
@@ -54,9 +54,7 @@ export default function FurusatoFeaturePage() {
             <span>✨</span>
             <span>銘菓・和カフェ・老舗甘味特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            銘菓・和カフェ＆老舗スイーツめぐり温泉宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">銘菓・和カフェ＆老舗スイーツめぐり温泉宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             城下町や宿場町、大社の門前町には、何百年もの歴史を誇る老舗和菓子店や、町家をリノベーションしたモダンな和カフェが軒を連ねています。絞りたての濃厚栗モンブラン、職人技が光る上生菓子とお抹茶、できたてのお餅スイーツ。散策で甘美な時間を楽しんだ後は、街歩きの拠点となる上質な温泉宿でゆったりと癒やされる――そんな心華やぐ休日を楽天ふるさと納税でお得に叶えましょう。
           </p>

@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-glass-craft-towns-stay/" },
-  title: '日本三大ガラス工芸の町＆光の芸術・切子の輝きと風雅名宿×ふるさと納税完全ガイド【2026年最新】小樽・東京・鹿児島',
+  title: '日本三大ガラス工芸の町＆光の芸術・切子の輝きと風雅名宿×ふるさと納税厳選ガイド小樽・東京・鹿児島',
   description: '光と色彩が織りなす工芸の最高峰！北海道「小樽切子・北一硝子」ランプ揺れる運河の街とオーセントホテル小樽、東京「江戸切子」繊細なカットが生む下町の技と浅草ビューホテルアネックス六区、鹿児島「薩摩切子」重厚なクリスタルと紅・藍のグラデーションに城山ホテル鹿児島。日本三大ガラス工芸の町を巡り、伝統の美と洗練されたホテルステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大ガラス工芸・伝統美特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大ガラス工芸の町＆光の芸術・切子の輝きと風雅名宿×ふるさと納税完全ガイド【2026年最新】小樽・東京・鹿児島',
+    title: '日本三大ガラス工芸の町＆光の芸術・切子の輝きと風雅名宿×ふるさと納税厳選ガイド小樽・東京・鹿児島',
     description: '光と色彩が織りなす工芸の最高峰！北海道「小樽切子・北一硝子」ランプ揺れる運河の街とオーセントホテル小樽、東京「江戸切子」繊細なカットが生む下町の技と浅草ビューホテルアネックス六区、鹿児島「薩摩切子」重厚なクリスタルと紅・藍のグラデーションに城山ホテル鹿児島。日本三大ガラス工芸の町を巡り、伝統の美と洗練されたホテルステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-glass-craft-towns-stay',
@@ -142,9 +142,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大ガラス工芸・伝統美特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大ガラス工芸の町＆切子の輝きと名宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大ガラス工芸の町＆切子の輝きと名宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             卓越した職人技によってガラスに命を吹き込み、光の屈折と鮮やかな色彩で人々を魅了し続ける「日本三大ガラス工芸の町」――ニシン漁の浮き玉や石油ランプ製造から発展しレトロな洋館にガラスショップや工房が立ち並ぶ北海道の「小樽ガラス（小樽切子・北一硝子）」、江戸時代末期に発祥し十数種類の伝統文様を透明な色ガラスに精緻に刻み込む東京下町の「江戸切子」、そして薩摩藩主・島津斉彬が集成館事業で興し厚い色ガラスにグラデーションを施す「ぼかし」の技術で世界に誇る美を確立した鹿児島の「薩摩切子」。工房での吹きガラス体験やギャラリー鑑賞を堪能した後は、地域の美酒を切子のグラスで傾け、名湯露天風呂と郷土会席に酔いしれる上質な旅を楽天ふるさと納税でお楽しみください。
           </p>

@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【富山】秋の白えび・紅ズワイガニ満喫！富山駅前の格安・高コスパホテル5選',
+  title: '富山：秋の白えび・紅ズワイガニ満喫！富山駅前の格安・高コスパホテル5選',
   description: '秋の富山湾が誇る極上グルメ「富山湾の宝石・白えび」や旬を迎える紅ズワイガニを堪能！北陸新幹線・富山駅周辺で1泊4,000円台〜泊まれる好立地＆格安おすすめホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetToyamaStationHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>富山湾の秋海鮮グルメ＆城下町散策</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【富山駅前】秋の白えび＆紅ズワイガニを堪能！<br className="hidden sm:inline" />4,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「富山駅前」秋の白えび＆紅ズワイガニを堪能！<br className="hidden sm:inline" />4,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-sky-100/90 max-w-2xl mx-auto leading-relaxed">
             秋風が吹き抜ける富山湾は海鮮のベストシーズン。透き通る白えびの刺身や天ぷら、水揚げされたばかりのジューシーな紅ズワイガニ、名物ブラックラーメンまで旨いものが勢揃い。新幹線改札からすぐの好立地に4,000円台〜で泊まり、浮いた予算で贅沢な海鮮三昧を楽しみましょう。
           </p>

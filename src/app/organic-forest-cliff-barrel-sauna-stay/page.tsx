@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【絶壁バレルサウナ】天空の崖上に佇む円形サウナ＆湧水水風呂！息をのむ絶景パノラマ宿5選",
+  title: "絶壁バレルサウナ：天空の崖上に佇む円形サウナ＆湧水水風呂！息をのむ絶景パノラマ宿5選",
   description: "大自然の断崖や天空の丘に設置された北欧木製バレルサウナ！パノラマガラス越しに広がる大パノラマ、天然湧水の冷水風呂、そして心地よい風に包まれる天空外気浴。唯一無二のととのいを体感できる宿を厳選。",
   keywords: "バレルサウナ 温泉 宿, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/organic-forest-cliff-barrel-sauna-stay/",
   },
   openGraph: {
-    title: "【絶壁バレルサウナ】天空の崖上に佇む円形サウナ＆湧水水風呂！息をのむ絶景パノラマ宿5選",
+    title: "絶壁バレルサウナ：天空の崖上に佇む円形サウナ＆湧水水風呂！息をのむ絶景パノラマ宿5選",
     description: "大自然の断崖や天空の丘に設置された北欧木製バレルサウナ！パノラマガラス越しに広がる大パノラマ、天然湧水の冷水風呂、そして心地よい風に包まれる天空外気浴。唯一無二のととのいを体感できる宿を厳選。",
     url: 'https://croud-travel.pages.dev/organic-forest-cliff-barrel-sauna-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【絶壁バレルサウナ】天空の崖上に佇む円形サウナ＆湧水水風呂！息をのむ絶景パノラマ宿5選",
+    title: "絶壁バレルサウナ：天空の崖上に佇む円形サウナ＆湧水水風呂！息をのむ絶景パノラマ宿5選",
     description: "大自然の断崖や天空の丘に設置された北欧木製バレルサウナ！パノラマガラス越しに広がる大パノラマ、天然湧水の冷水風呂、そして心地よい風に包まれる天空外気浴。唯一無二のととのいを体感できる宿を厳選。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>絶壁バレルサウナ＆天空水風呂</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【絶壁バレルサウナ】天空の崖上に佇む円形サウナ＆湧水水風呂！息をのむ絶景パノラマ宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「絶壁バレルサウナ」天空の崖上に佇む円形サウナ＆湧水水風呂！息をのむ絶景パノラマ宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             大自然の断崖や天空の丘に設置された北欧木製バレルサウナ！パノラマガラス越しに広がる大パノラマ、天然湧水の冷水風呂、そして心地よい風に包まれる天空外気浴。唯一無二のととのいを体感できる宿を厳選。
           </p>

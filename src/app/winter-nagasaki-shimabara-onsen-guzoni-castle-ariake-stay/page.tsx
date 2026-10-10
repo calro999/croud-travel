@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月長崎】冬の島原城初詣と名物「具雑煮」！名宿5選',
+  title: '11・12・1月長崎：冬の島原城初詣と名物「具雑煮」！名宿5選',
   description: '有明海と雲仙普賢岳に抱かれた水の都・長崎県島原市。11〜1月は白亜の島原城が澄んだ冬空に映え、年末年始の初詣や武家屋敷散策で賑わいます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '島原温泉 ホテル, 島原 ホテル南風楼, シーサイド島原, 島原城 初詣, 具雑煮 島原, 有明海 牡蠣, がんば料理 島原, 雲仙みかどホテル, 四明荘, 12月 1月 長崎 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagasaki-shimabara-onsen-guzoni-castle-ariake-stay/"
   },
   openGraph: {
-    title: '【11・12・1月長崎】冬の島原城初詣と名物「具雑煮」！名宿5選',
+    title: '11・12・1月長崎：冬の島原城初詣と名物「具雑煮」！名宿5選',
     description: '有明海と雲仙普賢岳に抱かれた水の都・長崎県島原市。11〜1月は白亜の島原城が澄んだ冬空に映え、年末年始の初詣や武家屋敷散策で賑わいます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-nagasaki-shimabara-onsen-guzoni-castle-ariake-stay',
     siteName: '地域の宿探訪',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月長崎】島原温泉＆雲仙・有明海！冬の島原城初詣と名物「具雑煮」・有明海冬牡蠣＆海一望の美肌温泉名宿5選",
+    title: "11・12・1月長崎：島原温泉＆雲仙・有明海！冬の島原城初詣と名物「具雑煮」・有明海冬牡蠣＆海一望の美肌温泉名宿5選",
     description: "有明海と雲仙普賢岳に抱かれた水の都・長崎県島原市。11〜1月は白亜の島原城が澄んだ冬空に映え、年末年始の初詣や武家屋敷散策で賑わいます。島原の乱ゆかりの熱々郷土鍋「具雑煮」や有明海の冬牡蠣、幻のガンバ（ふぐ）料理、長崎和牛を堪能。対岸の有明海から昇る感動の朝日と美肌の島原温泉掛け流し露天風呂を満喫できる厳選名宿5選を徹底解説します。",
     images: ["https://img.travel.rakuten.co.jp/share/HOTEL/878/878.jpg"]
   }
@@ -236,10 +236,7 @@ export default function NagasakiShimabaraAriakeWinterPage() {
             <span>11月・12月・1月冬の長崎・九州旅特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">
-            島原温泉＆雲仙・有明海！<br className="hidden sm:inline" />
-            冬の島原城初詣と名物「具雑煮」・有明海冬牡蠣＆海一望の美肌温泉名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">島原温泉＆雲仙・有明海！<br className="hidden sm:inline" /> 冬の島原城初詣と名物「具雑煮」・有明海冬牡蠣＆海一望の美肌温泉名宿5選</h1>
 
           <p className="text-slate-300 text-sm sm:text-base lg:text-lg leading-relaxed max-w-3xl mb-8">
             雲仙岳の山麓に広がり、有明海に面した歴史と水の都・長崎県島原。冬の澄み渡る青空に映える白亜の島原城天守閣、清らかな湧水が流れる武家屋敷通り、そして島原の乱ゆかりの熱々郷土鍋「具雑煮」。有明海から昇る神々しい冬の朝日を眺めながら、炭酸水素塩泉の美肌露天風呂に浸かり、冬に一番旨味が増す有明海冬牡蠣や長崎和牛、幻のガンバ（ふぐ）料理に舌鼓。心も体もポカポカに温まる島原の贅沢な冬旅をお届けします。

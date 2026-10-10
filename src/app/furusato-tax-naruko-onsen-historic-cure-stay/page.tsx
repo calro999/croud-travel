@@ -3,11 +3,11 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【鳴子温泉郷×ふるさと納税】千年の湯治文化と多彩な源泉めぐり！美肌硫黄泉＆宮城美食ステイガイド｜湯元吉祥・鳴子観光ホテル・鳴子風雅',
+  title: '鳴子温泉郷をふるさと納税でお得に旅する！千年の湯治文化と多彩な源泉めぐり！美肌硫黄泉＆宮城美食ステイガイド｜湯元吉祥・鳴子観光ホテル・鳴子風雅',
   description: '日本にある10種類の泉質のうち8種類が集まる奇跡の温泉郷・鳴子温泉を楽天ふるさと納税でお得に旅する！共立リゾートの和モダン宿「湯元 吉祥」、創業四百年の乳白色名湯「鳴子観光ホテル」、大人の隠れ家リゾート「鳴子風雅」を徹底紹介。鳴子峡の絶景やこけしの街歩き、大崎市トラベルクーポン活用術を網羅。',
   keywords: '鳴子温泉 ふるさと納税,鳴子観光ホテル ふるさと納税,湯元吉祥 クーポン,鳴子風雅 楽天トラベル,大崎市 ふるさと納税 宿泊',
   openGraph: {
-    title: '【鳴子温泉郷×ふるさと納税】千年の湯治文化と多彩な源泉めぐり！美肌硫黄泉＆宮城美食ステイガイド｜湯元吉祥・鳴子観光ホテル・鳴子風雅',
+    title: '鳴子温泉郷をふるさと納税でお得に旅する！千年の湯治文化と多彩な源泉めぐり！美肌硫黄泉＆宮城美食ステイガイド｜湯元吉祥・鳴子観光ホテル・鳴子風雅',
     description: '日本にある10種類の泉質のうち8種類が集まる奇跡の温泉郷・鳴子温泉を楽天ふるさと納税でお得に旅する！共立リゾートの和モダン宿「湯元 吉祥」、創業四百年の乳白色名湯「鳴子観光ホテル」、大人の隠れ家リゾート「鳴子風雅」を徹底紹介。鳴子峡の絶景やこけしの街歩き、大崎市トラベルクーポン活用術を網羅。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-naruko-onsen-historic-cure-stay',
@@ -54,9 +54,7 @@ export default function FurusatoTaxArticle() {
             <span>•</span>
             <span>自治体公認 宿泊割引</span>
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-5xl font-extrabold tracking-tight text-white font-serif leading-tight">
-            【鳴子温泉郷×ふるさと納税】千年の湯治文化と多彩な源泉めぐり！美肌硫黄泉＆宮城美食ステイガイド｜湯元吉祥・鳴子観光ホテル・鳴子風雅
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-5xl font-extrabold tracking-tight text-white font-serif leading-tight">鳴子温泉郷をふるさと納税でお得に旅する！千年の湯治文化と多彩な源泉めぐり！美肌硫黄泉＆宮城美食ステイガイド｜湯元吉祥・鳴子観光ホテル・鳴子風雅</h1>
           <p className="text-stone-300 text-sm md:text-base max-w-2xl mx-auto pt-2 leading-relaxed">
             日本にある10種類の泉質のうち8種類が集まる奇跡の温泉郷・鳴子温泉を楽天ふるさと納税でお得に旅する！共立リゾートの和モダン宿「湯元 吉祥」、創業四百年の乳白色名湯「鳴子観光ホテル」、大人の隠れ家リゾート「鳴子風雅」を徹底紹介。鳴子峡の絶景やこけしの街歩き、大崎市トラベルクーポン活用術を網羅。
           </p>

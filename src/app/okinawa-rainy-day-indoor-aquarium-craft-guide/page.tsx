@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/okinawa-rainy-day-indoor-aquarium-craft-guide/" },
-  title: "【沖縄 雨の日の観光完全ガイド】美ら海水族館・DMMかりゆし・やちむん通り陶芸体験＆屋内プール付きホテル",
+  title: "沖縄 雨の日の観光厳選ガイド：美ら海水族館・DMMかりゆし・やちむん通り陶芸体験＆屋内プール付きホテル",
   description:
     "スコールや台風でも旅行を諦めない！世界最大級の大水槽「美ら海水族館」、映像美の「DMMかりゆし水族館」、壺屋やちむん通りシーサー作り、屋内温水プール完備の大型リゾートホテル徹底比較。",
   keywords: ["沖縄", "雨の日の観光", "美ら海水族館", "DMMかりゆし", "やちむん通り陶芸体験", "屋内プール付きホテル", "温泉宿"],
@@ -83,7 +83,7 @@ export default function OkinawaRainyDayIndoorAquariumCraftGuidePage() {
   // 雨の日モデルコース（北部コース vs 那覇・南部コース）
   const courseOptions = [
     {
-      title: "【プランA：美ら海＆インドア充実コース】（名護〜本部）",
+      title: "プランA：美ら海＆インドア充実コース：（名護〜本部）",
       steps: [
         "10:00 那覇出発、沖縄自動車道で許田ICへ",
         "11:30 美ら海水族館にチェックイン。大水槽前カフェでランチ＆ジンベエザメ給餌見学",
@@ -92,7 +92,7 @@ export default function OkinawaRainyDayIndoorAquariumCraftGuidePage() {
       ]
     },
     {
-      title: "【プランB：那覇・南部 濡れずに巡るカルチャー＆水族館コース】",
+      title: "プランB：那覇・南部 濡れずに巡るカルチャー＆水族館コース：",
       steps: [
         "10:00 壺屋やちむん通りの工房でシーサー手作り体験（約90分）",
         "12:00 国際通り・平和通り商店街（全天候アーケード）で沖縄そば＆サーターアンダギー",
@@ -138,12 +138,7 @@ export default function OkinawaRainyDayIndoorAquariumCraftGuidePage() {
             <span>🐠 台風・スコールでも大丈夫！沖縄全天候型インドア完全攻略</span>
           </div>
 
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">
-            【沖縄 雨の日の観光完全ガイド】<br />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-300 via-sky-200 to-teal-200">
-              美ら海水族館・DMMかりゆし・シーサー陶芸＆屋内プールホテル
-            </span>
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">「沖縄 雨の日の観光厳選ガイド」<br /> <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-300 via-sky-200 to-teal-200"> 美ら海水族館・DMMかりゆし・シーサー陶芸＆屋内プールホテル </span></h1>
 
           <p className="text-cyan-100/90 text-base sm:text-lg leading-relaxed max-w-3xl mb-8">
             南国沖縄の青い空と海を楽しみにしていたのに、滞在予報が雨マークや台風接近…。

@@ -4,14 +4,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '日本三名泉のとろとろ美肌湯＆とろける飛騨牛！下呂温泉・飛騨高山秋の味覚プレミアム名宿×ふるさと納税完全ガイド【2026年最新秋旅】岐阜 | 旅宿クラウド',
+  title: '日本三名泉のとろとろ美肌湯＆とろける飛騨牛！下呂温泉・飛騨高山秋の味覚プレミアム名宿×ふるさと納税厳選ガイド岐阜 | 旅宿クラウド',
   description: '10月〜11月は日本三名泉「下呂温泉」と古い町並みが美しい「飛騨高山」のベストシーズン！pH9.2を誇る天然の化粧水のようなとろとろ美肌湯と、霜降り「A5等級飛騨牛」のすき焼き・しゃぶしゃぶ・ステーキを堪能。「小川屋」「冨岳」「菊半旅館」など厳選名宿を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
   keywords: ["日本三名泉のとろとろ美肌湯", "とろける飛騨牛！下呂温泉", "2026年最新秋旅", "岐阜", "旅宿クラウド", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-gero-hidatakayama-autumn-beef-stay/"
   },
   openGraph: {
-    title: '日本三名泉のとろとろ美肌湯＆とろける飛騨牛！下呂温泉・飛騨高山秋の味覚プレミアム名宿×ふるさと納税完全ガイド【2026年最新秋旅】岐阜',
+    title: '日本三名泉のとろとろ美肌湯＆とろける飛騨牛！下呂温泉・飛騨高山秋の味覚プレミアム名宿×ふるさと納税厳選ガイド岐阜',
     description: '10月〜11月は日本三名泉「下呂温泉」と古い町並みが美しい「飛騨高山」のベストシーズン！pH9.2を誇る天然の化粧水のようなとろとろ美肌湯と、霜降り「A5等級飛騨牛」のすき焼き・しゃぶしゃぶ・ステーキを堪能。「小川屋」「冨岳」「菊半旅館」など厳選名宿を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-gero-hidatakayama-autumn-beef-stay',
     siteName: '旅宿クラウド',
@@ -65,9 +65,7 @@ export default function FurusatoGeroHidaTakayamaAutumnBeefStayPage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               下呂温泉・日本三名泉＆飛騨高山・極上飛騨牛すき焼き美食宿特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              日本三名泉のとろとろ美肌湯＆とろける飛騨牛！下呂温泉・飛騨高山秋の味覚プレミアム名宿×ふるさと納税完全ガイド【2026年最新秋旅】岐阜
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">日本三名泉のとろとろ美肌湯＆とろける飛騨牛！下呂温泉・飛騨高山秋の味覚プレミアム名宿×ふるさと納税厳選ガイド岐阜</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               10月〜11月は日本三名泉「下呂温泉」と古い町並みが美しい「飛騨高山」のベストシーズン！pH9.2を誇る天然の化粧水のようなとろとろ美肌湯と、霜降り「A5等級飛騨牛」のすき焼き・しゃぶしゃぶ・ステーキを堪能。「小川屋」「冨岳」「菊半旅館」など厳選名宿を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。
             </p>

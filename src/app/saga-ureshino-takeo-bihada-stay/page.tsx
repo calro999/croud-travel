@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/saga-ureshino-takeo-bihada-stay/" },
-  title: "【佐賀・嬉野温泉＆武雄温泉】日本三大美肌の湯・温泉湯豆腐＆楼門・嬉野茶宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "佐賀・嬉野温泉＆武雄温泉：日本三大美肌の湯・温泉湯豆腐＆楼門・嬉野茶宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "西九州の二大名湯・佐賀嬉野温泉＆武雄温泉エリア完全特化！日本三大美肌の湯「嬉野温泉」、とろける「温泉湯どうふ」、辰野金吾設計の国重要文化財「武雄温泉楼門」、御船山楽園、嬉野茶と老舗名門旅館を徹底解説。",
   keywords: ["佐賀", "嬉野温泉", "武雄温泉", "日本三大美肌の湯", "温泉湯豆腐", "楼門", "嬉野茶宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             URESHINO & TAKEO ONSEN GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【佐賀・嬉野温泉＆武雄温泉】日本三大美肌の湯・温泉湯豆腐＆楼門・嬉野茶宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「佐賀・嬉野温泉＆武雄温泉」日本三大美肌の湯・温泉湯豆腐＆楼門・嬉野茶宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             肌をつるつるに磨き上げる日本三大美肌の湯「嬉野温泉」と、1300年の歴史を誇る「武雄温泉」。温泉水で煮込んでとろとろに溶ける名物「温泉湯どうふ」。辰野金吾設計の朱塗り楼門と極上の嬉野茶に癒やされる旅。
           </p>

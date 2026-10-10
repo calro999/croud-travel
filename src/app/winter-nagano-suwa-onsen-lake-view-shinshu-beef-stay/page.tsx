@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月諏訪湖・上諏訪温泉】諏訪湖一望露天と千人風呂！名宿5選',
+  title: '諏訪湖・上諏訪温泉で過ごす冬の旅（11・12月）！諏訪湖一望露天と千人風呂！名宿5選',
   description: '11月から12月にかけて冷涼な澄み切った大気の中に冠雪の八ヶ岳と富士山がくっきりと浮かび上がる信州「諏訪湖」と「上諏訪温泉」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '諏訪湖 上諏訪温泉 宿泊, 上諏訪温泉 11月 12月, 双泉の宿 朱白, 浜の湯, ホテル紅や, ぬのはん, 萃sui諏訪湖, 片倉館 千人風呂, 諏訪五蔵 新酒 試飲, 信州プレミアム牛 すき焼き, ワカサギ釣り ドーム船',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagano-suwa-onsen-lake-view-shinshu-beef-stay/",
   },
   openGraph: {
-    title: '【11・12月諏訪湖・上諏訪温泉】諏訪湖一望露天と千人風呂！名宿5選',
+    title: '諏訪湖・上諏訪温泉で過ごす冬の旅（11・12月）！諏訪湖一望露天と千人風呂！名宿5選',
     description: '11月から12月にかけて冷涼な澄み切った大気の中に冠雪の八ヶ岳と富士山がくっきりと浮かび上がる信州「諏訪湖」と「上諏訪温泉」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-nagano-suwa-onsen-lake-view-shinshu-beef-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月諏訪湖・上諏訪温泉の冬名湯と信州美食】諏訪湖一望露天と千人風呂・諏訪五蔵新酒＆信州プレミアム牛の宿5選",
+    title: "諏訪湖・上諏訪温泉の冬名湯と信州美食で過ごす冬の旅（11・12月）！諏訪湖一望露天と千人風呂・諏訪五蔵新酒＆信州プレミアム牛の宿5選",
     description: "11月から12月にかけて冷涼な澄み切った大気の中に冠雪の八ヶ岳と富士山がくっきりと浮かび上がる信州「諏訪湖」と「上諏訪温泉」。毎分万リットル級の圧倒的な湯量を誇る自家源泉や国重文・片倉館千人風呂、諏訪湖冬の風物詩ワカサギ釣り、甲州街道に佇む諏訪五蔵の搾りたて初冬新酒めぐり、極上の信州プレミアム牛肉すき焼き会席を満喫する厳選名宿5選を徹底解説。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80'],
   }
@@ -298,10 +298,7 @@ export default function SuwaOnsenWinterPage() {
             <Wine className="w-4 h-4 text-sky-300" />
             <span>11月・12月限定 諏訪湖初冬パノラマと諏訪五蔵新酒めぐり・信州美食旅</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月諏訪湖・上諏訪温泉の冬名湯と信州美食】<br className="hidden sm:inline" />
-            諏訪湖一望露天と千人風呂・諏訪五蔵新酒＆信州プレミアム牛の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">諏訪湖・上諏訪温泉の冬名湯と信州美食で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 諏訪湖一望露天と千人風呂・諏訪五蔵新酒＆信州プレミアム牛の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-slate-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             初冬の澄み切った大気に浮かぶ冠雪の八ヶ岳と富士山。毎分万リットルを誇る上諏訪温泉の湖畔露天風呂に浸かり、国重文・片倉館千人風呂、諏訪五蔵の搾りたて新酒めぐりと極上信州プレミアム牛すき焼きを堪能する大人の信州旅。
           </p>

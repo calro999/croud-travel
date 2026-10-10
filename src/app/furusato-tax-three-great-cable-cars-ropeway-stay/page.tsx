@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-cable-cars-ropeway-stay/" },
-  title: '日本三大山岳ロープウェイ＆雲上パノラマ・絶景空中散歩のリゾート名宿×ふるさと納税完全ガイド【2026年最新】千畳敷・立山・箱根駒ヶ岳',
+  title: '日本三大山岳ロープウェイ＆雲上パノラマ・絶景空中散歩のリゾート名宿×ふるさと納税厳選ガイド千畳敷・立山・箱根駒ヶ岳',
   description: '天空の世界へと一気に誘う大迫力のロープウェイ旅！長野「中央アルプス駒ヶ岳ロープウェイ」標高2,612m千畳敷カールと駒ヶ根高原リゾートリンクス、富山「立山ロープウェイ」支柱が1本もないワンスパン絶景と日本最高所のホテル立山、神奈川「箱根駒ヶ岳ロープウェイ」芦ノ湖と富士山の大パノラマと箱根星のあかり。雲上のアルプス絶景と名湯温泉、高原フレンチを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '山岳ロープウェイ・雲上パノラマ特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大山岳ロープウェイ＆雲上パノラマ・絶景空中散歩のリゾート名宿×ふるさと納税完全ガイド【2026年最新】千畳敷・立山・箱根駒ヶ岳',
+    title: '日本三大山岳ロープウェイ＆雲上パノラマ・絶景空中散歩のリゾート名宿×ふるさと納税厳選ガイド千畳敷・立山・箱根駒ヶ岳',
     description: '天空の世界へと一気に誘う大迫力のロープウェイ旅！長野「中央アルプス駒ヶ岳ロープウェイ」標高2,612m千畳敷カールと駒ヶ根高原リゾートリンクス、富山「立山ロープウェイ」支柱が1本もないワンスパン絶景と日本最高所のホテル立山、神奈川「箱根駒ヶ岳ロープウェイ」芦ノ湖と富士山の大パノラマと箱根星のあかり。雲上のアルプス絶景と名湯温泉、高原フレンチを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-cable-cars-ropeway-stay',
@@ -154,9 +154,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             山岳ロープウェイ・雲上パノラマ特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大山岳ロープウェイ＆雲上パノラマ・絶景リゾート×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大山岳ロープウェイ＆雲上パノラマ・絶景リゾート×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             高低差数百メートルを一気に昇り、四季折々の絶壁や高山植物、満天の星空が広がる別天地へと案内してくれる「日本の絶景山岳ロープウェイ」――日本最高の高低差（950m）を誇り氷河地形の千畳敷カールと富士山・南アルプス連峰を望む長野の「中央アルプス駒ヶ岳ロープウェイ」、景観保護のため支柱を1本も設けないワンスパン方式として日本最長を誇り黒部湖を眼下に見下ろす富山の「立山ロープウェイ」、そして芦ノ湖畔から箱根最高峰の神山・富士山と相模湾の全景を一望する神奈川の「箱根 駒ヶ岳ロープウェイ」。澄んだ空気に包まれる雲上ステイや温泉露天風呂、地元牛ステーキディナーを満喫する爽快な旅を楽天ふるさと納税でお楽しみください。
           </p>

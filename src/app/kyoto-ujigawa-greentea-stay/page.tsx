@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kyoto-ujigawa-greentea-stay/" },
-  title: "【京都・宇治】平等院鳳凰堂・宇治茶＆源氏物語ゆかりの川畔宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "京都・宇治：平等院鳳凰堂・宇治茶＆源氏物語ゆかりの川畔宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "世界遺産・京都宇治エリア完全特化！十円玉に描かれた平等院鳳凰堂、宇治川の鵜飼い・橘橋、創業数百年の宇治茶老舗（辻利・中村藤吉）の抹茶パフェ、源氏物語宇治十帖と川畔温泉旅館を徹底解説。",
   keywords: ["京都", "宇治", "平等院鳳凰堂", "宇治茶", "源氏物語ゆかりの川畔宿", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             KYOTO UJI TEA & HERITAGE GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【京都・宇治】平等院鳳凰堂・宇治茶＆源氏物語ゆかりの川畔宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「京都・宇治」平等院鳳凰堂・宇治茶＆源氏物語ゆかりの川畔宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             宇治川の滔々たる清流と、極楽浄土を現世に再現した「平等院鳳凰堂」。香ばしい宇治茶の焙じ香が漂う参道。源氏物語の舞台となった歴史の古都で、極上の抹茶スイーツと川畔の静寂に浸る旅。
           </p>

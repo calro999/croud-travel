@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '日本三大イルミネーション直結リゾートホテル×ふるさと納税完全ガイド【2026年最新】あしかが・ハウステンボス・さっぽろ光のステイ',
+  title: '日本三大イルミネーション直結リゾートホテル×ふるさと納税厳選ガイドあしかが・ハウステンボス・さっぽろ光のステイ',
   description: '日本屈指の光の祭典！栃木「あしかがフラワーパーク」光の花の庭、長崎「ハウステンボス」世界最大1,300万球のイルミネーション直営リゾート、北海道「さっぽろホワイトイルミネーション」大通公園ビューホテル。冬の夜空を彩る幻想的な光の世界を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: ["2026年最新", "あしかが", "ハウステンボス", "さっぽろ光のステイ", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-illuminations-resort-stay/"
   },
   openGraph: {
-    title: '日本三大イルミネーション直結リゾートホテル×ふるさと納税完全ガイド【2026年最新】あしかが・ハウステンボス・さっぽろ光のステイ',
+    title: '日本三大イルミネーション直結リゾートホテル×ふるさと納税厳選ガイドあしかが・ハウステンボス・さっぽろ光のステイ',
     description: '日本屈指の光の祭典！栃木「あしかがフラワーパーク」光の花の庭、長崎「ハウステンボス」世界最大1,300万球のイルミネーション直営リゾート、北海道「さっぽろホワイトイルミネーション」大通公園ビューホテル。冬の夜空を彩る幻想的な光の世界を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-illuminations-resort-stay',
     type: 'article',
@@ -54,9 +54,7 @@ export default function FurusatoFeaturePage() {
             <span>✨</span>
             <span>日本三大イルミネーション・光のリゾート特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            日本三大イルミネーション直結リゾートホテル×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">日本三大イルミネーション直結リゾートホテル×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             夜の闇を鮮やかに染め上げる幾千万もの光の粒。夜景鑑賞士が選ぶ「日本三大イルミネーション」――栃木のあしかがフラワーパーク、長崎のハウステンボス、北海道のさっぽろホワイトイルミネーション。藤棚を再現した奇跡の光のトンネル、中世ヨーロッパの街並み全体が光り輝く王国、そして白雪とオブジェが織りなす北国のファンタジー。会場直結や無料送迎付きの快適ホテルを楽天ふるさと納税で予約すれば、冷えた身体を天然温泉で温めながら最高峰の光の芸術を心ゆくまで堪能できます。
           </p>

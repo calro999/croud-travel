@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-gorges-boat-ride-stay/" },
-  title: '日本三大渓谷＆爽快舟下り・清流の奇岩と水辺の温泉名宿×ふるさと納税完全ガイド【2026年最新】保津川・最上川・長瀞',
+  title: '日本三大渓谷＆爽快舟下り・清流の奇岩と水辺の温泉名宿×ふるさと納税厳選ガイド保津川・最上川・長瀞',
   description: '船頭の竿さばきで水しぶきを上げる日本の名舟下り！京都「嵐山・保津川下り」亀岡から嵐山へ巨岩と急流を抜けるスリルと嵐山温泉渡月亭、山形「最上川舟下り」松尾芭蕉の句で知られる大河の舟唄と高見屋最上川別邸紅、埼玉「長瀞ライン下り」天然記念物岩畳の渓谷美と長生館。四季の渓谷美と水辺の老舗温泉旅館を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大渓谷・清流舟下り特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大渓谷＆爽快舟下り・清流の奇岩と水辺の温泉名宿×ふるさと納税完全ガイド【2026年最新】保津川・最上川・長瀞',
+    title: '日本三大渓谷＆爽快舟下り・清流の奇岩と水辺の温泉名宿×ふるさと納税厳選ガイド保津川・最上川・長瀞',
     description: '船頭の竿さばきで水しぶきを上げる日本の名舟下り！京都「嵐山・保津川下り」亀岡から嵐山へ巨岩と急流を抜けるスリルと嵐山温泉渡月亭、山形「最上川舟下り」松尾芭蕉の句で知られる大河の舟唄と高見屋最上川別邸紅、埼玉「長瀞ライン下り」天然記念物岩畳の渓谷美と長生館。四季の渓谷美と水辺の老舗温泉旅館を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-gorges-boat-ride-stay',
@@ -154,9 +154,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大渓谷・清流舟下り特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大渓谷＆爽快舟下り・水辺の名宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大渓谷＆爽快舟下り・水辺の名宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             数万年の歳月をかけて川の流れが岩肌を削り出し、息をのむ大自然の造形美を魅せる「日本の名舟下り・渓谷下り」――丹波亀岡から嵯峨嵐山までの約16kmにわたる渓谷をスリル満点に下る京都の「保津川下り」、山形の大地を貫き船頭の情緒あふれる最上川舟唄が峡谷に響き渡る山形の「最上川舟下り」、そして国の名勝・天然記念物に指定された荒川沿いの結晶片岩（岩畳）の壮観を優雅に巡る埼玉の「長瀞ライン下り」。春の桜、夏の深緑、秋の紅葉、冬の雪景色に彩られた渓谷美を体感し、川沿いの名湯露天風呂や川魚・鮎料理に舌鼓を打つ旅を楽天ふるさと納税でお楽しみください。
           </p>

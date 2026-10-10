@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hokkaido-otaru-yoichi-canal-distillery-stay/" },
-  title: "【北海道・小樽＆余市】小樽運河・ニッカウヰスキー蒸溜所＆寿司海鮮丼宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "北海道・小樽＆余市：小樽運河・ニッカウヰスキー蒸溜所＆寿司海鮮丼宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "ノスタルジックな石造り倉庫とガス灯が輝く小樽運河、日本のウイスキーの聖地・余市蒸溜所、三角市場の豪華海鮮丼やおたる寿司通りを満喫する小樽・余市特化ガイド。運河沿いホテルや温泉リゾートを厳選。",
   keywords: ["北海道", "小樽", "余市", "小樽運河", "ニッカウヰスキー蒸溜所", "寿司海鮮丼宿", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             OTARU & YOICHI GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【北海道・小樽＆余市】小樽運河石造り倉庫街・ニッカウヰスキー蒸溜所＆寿司海鮮丼宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「北海道・小樽＆余市」小樽運河石造り倉庫街・ニッカウヰスキー蒸溜所＆寿司海鮮丼宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-teal-100/90 leading-relaxed">
             ガス灯が水面に揺らめくレトロな小樽運河と、冷涼な気候と清流が育むウイスキーの故郷・余市。明治・大正期に北のウォール街として栄えた重厚な石造り建築やガラス工房、そして日本海で揚がるウニ・イクラ・ニシンなど極上海の幸を味わう特別な北海道ステイへご案内します。
           </p>

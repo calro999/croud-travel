@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '還暦・古希・長寿祝い＆親孝行温泉旅に選ぶ極上名旅館×ふるさと納税完全ガイド【2026年最新】有馬・金沢湯涌・淡路島',
+  title: '還暦・古希・長寿祝い＆親孝行温泉旅に選ぶ極上名旅館×ふるさと納税厳選ガイド有馬・金沢湯涌・淡路島',
   description: 'ご両親への感謝を込めた最高の親孝行！還暦・古希・傘寿など長寿のお祝い旅行にふさわしい名門温泉宿を厳選。日本最古の名湯・有馬温泉で金泉銀泉と贅を尽くした花懐石を味わう「御幸荘 花結び」、加賀百万石の奥座敷・金沢湯涌温泉で数寄屋造りの静寂に浸る「湯の出旅館」、全室オーシャンビューとバリアフリー対応の安心リゾート「淡路インターナショナルホテル ザ・サンプラザ。」。ちゃんちゃんこ貸出や記念写真・個室食などおもてなしの宿に、楽天ふるさと納税トラベルクーポンで実質2,000円負担で宿泊する完全ガイド。',
   keywords: ["還暦", "古希", "長寿祝い", "2026年最新", "有馬", "金沢湯涌", "淡路島"],
   alternates: { canonical: baseUrl + '/furusato-tax-kanreki-celebration-oyakoukou-onsen-stay/' },
   openGraph: {
-    title: '還暦・古希・長寿祝い＆親孝行温泉旅に選ぶ極上名旅館×ふるさと納税完全ガイド【2026年最新】有馬・金沢湯涌・淡路島',
+    title: '還暦・古希・長寿祝い＆親孝行温泉旅に選ぶ極上名旅館×ふるさと納税厳選ガイド有馬・金沢湯涌・淡路島',
     description: 'ご両親への感謝を込めた最高の親孝行！還暦・古希・傘寿など長寿のお祝い旅行にふさわしい名門温泉宿を厳選。日本最古の名湯・有馬温泉で金泉銀泉と贅を尽くした花懐石を味わう「御幸荘 花結び」、加賀百万石の奥座敷・金沢湯涌温泉で数寄屋造りの静寂に浸る「湯の出旅館」、全室オーシャンビューとバリアフリー対応の安心リゾート「淡路インターナショナルホテル ザ・サンプラザ。」。ちゃんちゃんこ貸出や記念写真・個室食などおもてなしの宿に、楽天ふるさと納税トラベルクーポンで実質2,000円負担で宿泊する完全ガイド。',
     url: baseUrl + '/furusato-tax-kanreki-celebration-oyakoukou-onsen-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoKanrekiCelebrationStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             還暦・古希長寿祝い＆親孝行温泉旅特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            還暦・古希・長寿祝い＆親孝行温泉旅に選ぶ極上名旅館×ふるさと納税完全ガイド【2026年最新】有馬・金沢湯涌・淡路島
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">還暦・古希・長寿祝い＆親孝行温泉旅に選ぶ極上名旅館×ふるさと納税厳選ガイド有馬・金沢湯涌・淡路島</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             人生の大きな節目である還暦（60歳）、古希（70歳）、喜寿（77歳）、傘寿（80歳）の長寿祝い。「これまで育ててくれた両親に、記憶に残る特別な旅行をプレゼントしたい。」という親孝行の想いを叶えるには、細やかな配慮と上質なおもてなしを兼ね備えた温泉旅館選びが欠かせません。段差の少ないバリアフリー客室、家族水入らずで気兼ねなく会話が弾む個室食や部屋食、身体の負担を和らげる客室露天風呂、そして赤や紫のちゃんちゃんこ貸出や記念写真サービス。古来より皇族や文人に愛された名湯・有馬温泉の「御幸荘 花結び」、加賀百万石の美意識と料理人の技が息づく金沢湯涌温泉の「湯の出旅館」、そして波穏やかな紀淡海峡を一望する淡路島の絶景宿「ザ・サンプラザ」。家族みんなで集まる特別なお祝い旅行は宿泊費がまとまった額になりますが、楽天ふるさと納税のトラベルクーポン（寄付額の最大30％割引）を使えば、実質自己負担2,000円で驚くほどお得に最高の親孝行ステイが実現します。かけがえのない家族の笑顔と思い出を紡ぐ、至福の長寿祝い温泉旅行へご案内します。
           </p>

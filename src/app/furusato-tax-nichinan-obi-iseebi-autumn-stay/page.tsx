@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            秋の伊勢海老まつり解禁！日南・飫肥城下町の武家屋敷ステイ＆南国日南海岸の絶景オーシャンビュー温泉
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">秋の伊勢海老まつり解禁！日南・飫肥城下町の武家屋敷ステイ＆南国日南海岸の絶景オーシャンビュー温泉</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             秋の黒潮が育む獲れたて天然伊勢海老と日本一の宮崎牛。飫肥の小京都散策とオーシャンビュー露天に癒やされる秋旅。
           </p>

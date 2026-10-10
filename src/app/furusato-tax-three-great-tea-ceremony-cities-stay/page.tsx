@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '日本三大茶道文化都市＆茶室庭園と抹茶・上生菓子を愛でる数寄屋名宿×ふるさと納税完全ガイド【2026年最新】京都・松江・金沢',
+  title: '日本三大茶道文化都市＆茶室庭園と抹茶・上生菓子を愛でる数寄屋名宿×ふるさと納税厳選ガイド京都・松江・金沢',
   description: '侘び寂びの精神と粋なもてなしが息づく「日本三大茶道文化都市」（京都・千利休と三千家本山、島根・不昧公ゆかりの出雲松江、石川・加賀前田家の茶の湯金沢）。名勝日本庭園の茶室、老舗和菓子司の上生菓子、伝統数寄屋建築の老舗名旅館。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ大人の茶の湯リトリート完全ガイド。',
   keywords: ["日本三大茶道文化都市", "茶室庭園と抹茶", "2026年最新", "京都", "松江", "金沢", "温泉宿"],
   alternates: { canonical: baseUrl + '/furusato-tax-three-great-tea-ceremony-cities-stay/' },
   openGraph: {
-    title: '日本三大茶道文化都市＆茶室庭園と抹茶・上生菓子を愛でる数寄屋名宿×ふるさと納税完全ガイド【2026年最新】京都・松江・金沢',
+    title: '日本三大茶道文化都市＆茶室庭園と抹茶・上生菓子を愛でる数寄屋名宿×ふるさと納税厳選ガイド京都・松江・金沢',
     description: '侘び寂びの精神と粋なもてなしが息づく「日本三大茶道文化都市」（京都・千利休と三千家本山、島根・不昧公ゆかりの出雲松江、石川・加賀前田家の茶の湯金沢）。名勝日本庭園の茶室、老舗和菓子司の上生菓子、伝統数寄屋建築の老舗名旅館。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ大人の茶の湯リトリート完全ガイド。',
     url: baseUrl + '/furusato-tax-three-great-tea-ceremony-cities-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoRound65ArticlePage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             日本三大茶道都市・茶の湯文化と数寄屋名宿特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            日本三大茶道文化都市＆茶室庭園と抹茶・上生菓子を愛でる数寄屋名宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">日本三大茶道文化都市＆茶室庭園と抹茶・上生菓子を愛でる数寄屋名宿</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             一服の温かいお茶に心を込め、静寂の中で庭の木々や器の景色を愛でる茶の湯の文化。武将たちが戦乱の世に心の平安を求め、町衆たちが粋と美を競い合った茶道文化が、今なお市民の暮らしの中に色濃く根付く都市、それが「日本三大茶道文化都市」です。千利休以来の茶の湯の本山であり表千家・裏千家・武者小路千家が今に伝える都・京都。大名茶人として名高い松平不昧（ふまい）公が茶道「不昧流」を打ち立て、和菓子の消費量日本一を誇る島根・松江。そして加賀百万石の前田家歴代藩主が京都の文化人を招いて武家茶道を極めた石川・金沢。名勝日本庭園の静けさの中でお点前をいただき、季節の移ろいを繊細に表現した美しい上生菓子に舌鼓を打った後は、名匠の技が光る数寄屋造りの名門旅館で極上のもてなしを受ける時間。楽天ふるさと納税トラベルクーポンを活用して、五感が研ぎ澄まされる極上の茶の湯ステイへ出かけましょう。
           </p>

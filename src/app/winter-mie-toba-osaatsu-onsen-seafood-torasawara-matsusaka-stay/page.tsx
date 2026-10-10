@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月鳥羽・相差温泉】活伊勢海老！名宿5選',
+  title: '鳥羽・相差温泉で過ごす冬の旅（11・12月）！活伊勢海老！名宿5選',
   description: '11月中旬から初冬の伊勢志摩は、鳥羽湾と黒潮が交わる相差（おうさつ）において海の幸が一年で最も豊潤に実る奇跡の季節です。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '相差温泉 宿泊, 鳥羽 旅館, 答志島 トロさわら, 的矢牡蠣 宿, 石神さん 神明神社, 伊勢海老 舟盛り, 松阪牛 温泉宿, 千鳥ヶ浜 露天風呂, 11月 12月 伊勢志摩旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-mie-toba-osaatsu-onsen-seafood-torasawara-matsusaka-stay/"
   },
   openGraph: {
-    title: '【11・12月鳥羽・相差温泉】活伊勢海老！名宿5選',
+    title: '鳥羽・相差温泉で過ごす冬の旅（11・12月）！活伊勢海老！名宿5選',
     description: '11月中旬から初冬の伊勢志摩は、鳥羽湾と黒潮が交わる相差（おうさつ）において海の幸が一年で最も豊潤に実る奇跡の季節です。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-mie-toba-osaatsu-onsen-seafood-torasawara-matsusaka-stay',
     siteName: 'クラドトラベル',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月鳥羽・相差温泉＆答志島】現役海女の里で喰らう冬の豪快舟盛り・旬の答志島トロさわら＆活伊勢海老・的矢牡蠣と極上松阪牛を味わう名宿5選",
+    title: "鳥羽・相差温泉＆答志島で過ごす冬の旅（11・12月）！現役海女の里で喰らう冬の豪快舟盛り・旬の答志島トロさわら＆活伊勢海老・的矢牡蠣と極上松阪牛を味わう名宿5選",
     description: "11月中旬から初冬の伊勢志摩は、鳥羽湾と黒潮が交わる相差（おうさつ）において海の幸が一年で最も豊潤に実る奇跡の季節です。全国一の現役海女数を誇る相差の集落では、海女や漁師たちが水揚げしたピチピチの活魚が巨大な木舟を埋め尽くし、圧巻の大漁舟盛りが食卓を彩ります。特に11月から12月にかけて最盛期を迎える「答志島トロさわら」は、一本釣りで丁寧に釣り上げられ、脂肪分15%以上を蓄えた究極のブランド魚。中トロのようにとろける上品な甘みは、現地でしか出会えない初冬の口福です。さらに解禁されたばかりの濃厚な「的矢牡蠣」、甘みが際立つ「活伊勢海老」のお造りや鬼殻焼き、あわび踊り焼き、そして世界に誇る「松阪牛」の陶板ステーキまで、海と陸の美食が勢揃い。女性の願いを一つ叶えてくれると伝わる神明神社「石神さん」への朝参拝と、太平洋の水平線から昇る神々しい朝日を望む展望露天風呂を満喫する厳選名宿5選を徹底解説します。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -328,10 +328,7 @@ export default function MieTobaOsaatsuWinterPage() {
             <Anchor className="w-4 h-4 text-blue-300" />
             11月・12月 三重・伊勢志摩の冬特集 ｜ 鳥羽・相差温泉＆答志島
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            現役海女の里相差で喰らう冬の豪快舟盛り<br />
-            答志島トロさわら＆活伊勢海老と極上松阪牛名宿
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">現役海女の里相差で喰らう冬の豪快舟盛り<br /> 答志島トロさわら＆活伊勢海老と極上松阪牛名宿</h1>
           <p className="text-stone-300 text-sm sm:text-base max-w-2xl mx-auto leading-relaxed pt-2">
             日本一の海女の町・相差。一本釣り答志島トロさわらが極上の脂を蓄え、解禁された的矢牡蠣と跳ねる伊勢海老、松阪牛が膳を埋め尽くす厳選名宿5選。
           </p>

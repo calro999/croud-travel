@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月嬉野温泉】嬉野茶の香りと名物とろける温泉湯豆腐！名宿5選',
+  title: '嬉野温泉で過ごす冬の旅（11・12月）！嬉野茶の香りと名物とろける温泉湯豆腐！名宿5選',
   description: '斐乃上温泉、喜連川温泉と並び「日本三大美肌の湯」として名高い佐賀県・嬉野温泉。11月から12月にかけて恋しくなる冬の名物「とろける温泉湯豆腐」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '嬉野温泉 宿泊 11月 12月, 嬉野温泉湯豆腐 旅館, 和多屋別荘 嬉野, 大正屋 嬉野温泉, 茶心の宿 和楽園, 椎葉山荘 嬉野, 日本三大美肌の湯 佐賀, 佐賀牛 嬉野温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-saga-ureshino-onsen-bihada-yudofu-stay/",
   },
   openGraph: {
-    title: '【11・12月嬉野温泉】嬉野茶の香りと名物とろける温泉湯豆腐！名宿5選',
+    title: '嬉野温泉で過ごす冬の旅（11・12月）！嬉野茶の香りと名物とろける温泉湯豆腐！名宿5選',
     description: '斐乃上温泉、喜連川温泉と並び「日本三大美肌の湯」として名高い佐賀県・嬉野温泉。11月から12月にかけて恋しくなる冬の名物「とろける温泉湯豆腐」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-saga-ureshino-onsen-bihada-yudofu-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月嬉野温泉の日本三大美肌湯と冬情緒】嬉野茶の香りと名物とろける温泉湯豆腐＆極上佐賀牛の宿5選",
+    title: "嬉野温泉の日本三大美肌湯と冬情緒で過ごす冬の旅（11・12月）！嬉野茶の香りと名物とろける温泉湯豆腐＆極上佐賀牛の宿5選",
     description: "斐乃上温泉、喜連川温泉と並び「日本三大美肌の湯」として名高い佐賀県・嬉野温泉。11月から12月にかけて恋しくなる冬の名物「とろける温泉湯豆腐」、嬉野茶の茶香炉が漂う風情豊かな温泉街、とろみのある重曹泉の露天風呂、そして最高峰A5ランク佐賀牛を心ゆくまで堪能する名宿ガイド。",
   }
 };
@@ -259,10 +259,7 @@ export default function UreshinoWinterPage() {
             <Eye className="w-4 h-4 text-emerald-300" />
             <span>11月・12月限定 日本三大美肌の湯＆名物とろける温泉湯豆腐・極上佐賀牛特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月嬉野温泉の日本三大美肌湯と冬情緒】<br className="hidden sm:inline" />
-            嬉野茶の香りと名物とろける温泉湯豆腐＆極上佐賀牛の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">嬉野温泉の日本三大美肌湯と冬情緒で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 嬉野茶の香りと名物とろける温泉湯豆腐＆極上佐賀牛の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             神功皇后の伝説が息づく「日本三大美肌の湯」嬉野温泉。冬の寒さを優しく包むぬめりのある重曹泉。淡雪のようにとろける名物「嬉野温泉湯豆腐」と、香ばしい嬉野茶の茶香炉、そして最高峰A5ランク佐賀牛を味わう大人の九州冬旅。
           </p>

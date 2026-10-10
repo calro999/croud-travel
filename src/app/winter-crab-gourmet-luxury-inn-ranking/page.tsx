@@ -180,9 +180,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            冬の味覚の王様！極上活蟹・松葉ガニ・越前ガニを心ゆくまで堪能できる厳選温泉宿
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">冬の味覚の王様！極上活蟹・松葉ガニ・越前ガニを心ゆくまで堪能できる厳選温泉宿</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             冬の訪れとともに解禁される日本海の味覚の王者、松葉ガニや越前ガニ。生簀から引き揚げて直前に捌くタグ付き活蟹の刺身、香ばしく炭火で焼き上げる焼きガニ、濃厚な蟹味噌と甲羅酒、そして締めの上品なカニ雑炊まで。一度味わえば忘れられない冬の至福を約束する名宿をご紹介します。
           </p>

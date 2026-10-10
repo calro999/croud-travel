@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月那須】名物立ち湯と極上那須黒毛和牛！名宿5選',
+  title: '那須で過ごす冬の旅（11・12月）！名物立ち湯と極上那須黒毛和牛！名宿5選',
   description: '11月中旬から12月の初冬、雄大な茶臼岳をはじめとする那須連山が白銀の初雪に覆われ、高原全体が静謐な冬の静けさに包まれる季節。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '板室温泉 宿泊, 下野の薬湯, 板室温泉 大黒屋, 綱の湯, 那須黒毛和牛 宿, 板室温泉 山喜, 11月 12月 那須温泉, 那須塩原 湯治',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tochigi-nasu-itamuro-onsen-toji-tochigigyu-stay/"
   },
   openGraph: {
-    title: '【11・12月那須】名物立ち湯と極上那須黒毛和牛！名宿5選',
+    title: '那須で過ごす冬の旅（11・12月）！名物立ち湯と極上那須黒毛和牛！名宿5選',
     description: '11月中旬から12月の初冬、雄大な茶臼岳をはじめとする那須連山が白銀の初雪に覆われ、高原全体が静謐な冬の静けさに包まれる季節。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-tochigi-nasu-itamuro-onsen-toji-tochigigyu-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月那須】開湯1000年「下野の薬湯」板室温泉・名物立ち湯と極上那須黒毛和牛＆初雪の那須連山を望む隠れ宿5選",
+    title: "那須で過ごす冬の旅（11・12月）！開湯1000年「下野の薬湯」板室温泉・名物立ち湯と極上那須黒毛和牛＆初雪の那須連山を望む隠れ宿5選",
     description: "11月中旬から12月の初冬、雄大な茶臼岳をはじめとする那須連山が白銀の初雪に覆われ、高原全体が静謐な冬の静けさに包まれる季節。栃木県那須塩原市の那珂川最上流域に位置する板室温泉（いたむろおんせん）は、平安時代の大同年間（806年）開湯と伝わり、古くから「下野の薬湯（しもつけのやくとう）」として全国から湯治客を集めてきた由緒正しき名湯です。板室名物の「綱の湯（深い湯船に天井から垂らした綱につかまって入浴する独特の立ち湯）。」や、38〜40℃前後の体に負担をかけない優しいアルカリ性単純温泉の源泉かけ流しは、冷え切った関節や筋肉のコリを芯から解きほぐします。夕食には、きめ細やかなサシと芳醇な香りを誇る最高級ブランド「那須黒毛和牛」のステーキやすき焼き、地元那須の高原冬根菜会席が並びます。現代の保養リトリートとアートが融合する大人の隠れ家厳選5宿をご案内します。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -367,9 +367,7 @@ export default function TochigiNasuItamuroWinterPage() {
             <Feather className="w-3.5 h-3.5" />
             11月・12月那須初冬特集・下野の薬湯＆現代湯治リトリート
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold tracking-tight text-white leading-tight">
-            {metadata.title as string}
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold tracking-tight text-white leading-tight">{metadata.title as string}</h1>
           <p className="text-xs sm:text-sm text-stone-300 leading-relaxed pt-2">
             平安開湯1000年「下野の薬湯」が誇る38〜40℃の優しいぬる湯と、伝統の綱の湯立ち湯。
             最高級那須黒毛和牛の陶板焼きやすき焼き、茶臼岳の初雪を望む那須連山の静寂に浸る旅へ。

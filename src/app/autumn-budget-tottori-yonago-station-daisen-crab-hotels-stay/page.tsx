@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【米子駅前】名峰大山の紅葉＆境港紅ズワイガニ！2,000円台〜泊まれる格安ホテル5選',
+  title: '米子駅前：名峰大山の紅葉＆境港紅ズワイガニ！2,000円台〜泊まれる格安ホテル5選',
   description: '西日本屈指の紅葉名所・国立公園大山（伯耆富士）！境港直送の新鮮な紅ズワイガニや大山地鶏・牛骨ラーメン。JR山陰本線・米子駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>名峰大山の錦秋ブナ林＆境港直送の紅ズワイガニ</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【米子駅前】名峰大山の紅葉＆境港の紅ズワイガニ！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「米子駅前」名峰大山の紅葉＆境港の紅ズワイガニ！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             「伯耆富士」と称される国立公園大山（だいせん）の壮大なブナ林の紅葉。秋に旬を迎える境港の甘みたっぷり「紅ズワイガニ」や、濃厚なコクが自慢の「米子牛骨ラーメン」。皆生温泉や大山寺への観光ハブ・米子駅周辺で、2,000円台〜泊まれる優良格安ホテルを厳選。
           </p>

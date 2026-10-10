@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【有田焼・伊万里焼の雅】人間国宝の器で味わう佐賀牛会席！嬉野・武雄の美肌温泉宿5選",
+  title: "有田焼・伊万里焼の雅：人間国宝の器で味わう佐賀牛会席！嬉野・武雄の美肌温泉宿5選",
   description: "日本が世界に誇る陶磁器「有田焼」「伊万里焼」の優美な器でいただく、極上佐賀牛のステーキと日本三大美肌の湯！歴史ある嬉野温泉・武雄温泉で、やきものの美と極上肉グルメに浸る大人の温泉旅。",
   keywords: "嬉野温泉 佐賀牛 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/traditional-saga-arita-yaki-imari-stay/",
   },
   openGraph: {
-    title: "【有田焼・伊万里焼の雅】人間国宝の器で味わう佐賀牛会席！嬉野・武雄の美肌温泉宿5選",
+    title: "有田焼・伊万里焼の雅：人間国宝の器で味わう佐賀牛会席！嬉野・武雄の美肌温泉宿5選",
     description: "日本が世界に誇る陶磁器「有田焼」「伊万里焼」の優美な器でいただく、極上佐賀牛のステーキと日本三大美肌の湯！歴史ある嬉野温泉・武雄温泉で、やきものの美と極上肉グルメに浸る大人の温泉旅。",
     url: 'https://croud-travel.pages.dev/traditional-saga-arita-yaki-imari-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【有田焼・伊万里焼の雅】人間国宝の器で味わう佐賀牛会席！嬉野・武雄の美肌温泉宿5選",
+    title: "有田焼・伊万里焼の雅：人間国宝の器で味わう佐賀牛会席！嬉野・武雄の美肌温泉宿5選",
     description: "日本が世界に誇る陶磁器「有田焼」「伊万里焼」の優美な器でいただく、極上佐賀牛のステーキと日本三大美肌の湯！歴史ある嬉野温泉・武雄温泉で、やきものの美と極上肉グルメに浸る大人の温泉旅。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>有田焼の器＆佐賀牛美食</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【有田焼・伊万里焼の雅】人間国宝の器で味わう佐賀牛会席！嬉野・武雄の美肌温泉宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「有田焼・伊万里焼の雅」人間国宝の器で味わう佐賀牛会席！嬉野・武雄の美肌温泉宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             日本が世界に誇る陶磁器「有田焼」「伊万里焼」の優美な器でいただく、極上佐賀牛のステーキと日本三大美肌の湯！歴史ある嬉野温泉・武雄温泉で、やきものの美と極上肉グルメに浸る大人の温泉旅。
           </p>

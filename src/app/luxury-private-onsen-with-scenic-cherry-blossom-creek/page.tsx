@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【渓流桜の特等席】清流沿いに咲き誇る満開の桜とプライベート露天風呂！春の絶景温泉宿5選",
+  title: "渓流桜の特等席：清流沿いに咲き誇る満開の桜とプライベート露天風呂！春の絶景温泉宿5選",
   description: "清流のせせらぎと、川沿いに咲き誇る淡いピンクの桜並木！客室専用の露天風呂から舞い散る花びらを眺め、夜はライトアップされた夜桜を独占できる、春限定の贅沢なお花見隠れ宿を徹底解説。",
   keywords: "桜 露天風呂 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-cherry-blossom-creek/",
   },
   openGraph: {
-    title: "【渓流桜の特等席】清流沿いに咲き誇る満開の桜とプライベート露天風呂！春の絶景温泉宿5選",
+    title: "渓流桜の特等席：清流沿いに咲き誇る満開の桜とプライベート露天風呂！春の絶景温泉宿5選",
     description: "清流のせせらぎと、川沿いに咲き誇る淡いピンクの桜並木！客室専用の露天風呂から舞い散る花びらを眺め、夜はライトアップされた夜桜を独占できる、春限定の贅沢なお花見隠れ宿を徹底解説。",
     url: 'https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-cherry-blossom-creek',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【渓流桜の特等席】清流沿いに咲き誇る満開の桜とプライベート露天風呂！春の絶景温泉宿5選",
+    title: "渓流桜の特等席：清流沿いに咲き誇る満開の桜とプライベート露天風呂！春の絶景温泉宿5選",
     description: "清流のせせらぎと、川沿いに咲き誇る淡いピンクの桜並木！客室専用の露天風呂から舞い散る花びらを眺め、夜はライトアップされた夜桜を独占できる、春限定の贅沢なお花見隠れ宿を徹底解説。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>渓流桜＆お花見客室露天</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【渓流桜の特等席】清流沿いに咲き誇る満開の桜とプライベート露天風呂！春の絶景温泉宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「渓流桜の特等席」清流沿いに咲き誇る満開の桜とプライベート露天風呂！春の絶景温泉宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             清流のせせらぎと、川沿いに咲き誇る淡いピンクの桜並木！客室専用の露天風呂から舞い散る花びらを眺め、夜はライトアップされた夜桜を独占できる、春限定の贅沢なお花見隠れ宿を徹底解説。
           </p>

@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-tea-plantations-stay/" },
-  title: '日本三大茶園＆天空の緑の絨毯・茶畑パノラマと最高峰の抹茶文化・茶香宿×ふるさと納税完全ガイド【2026年最新】牧之原・宇治・八女',
+  title: '日本三大茶園＆天空の緑の絨毯・茶畑パノラマと最高峰の抹茶文化・茶香宿×ふるさと納税厳選ガイド牧之原・宇治・八女',
   description: '日本列島の茶文化の最高峰を訪ねる！静岡「牧之原大茶園」富士山と緑の大パノラマにホテルアンビア松風閣、京都「宇治茶の里」世界遺産平等院と宇治川のせせらぎホテルトレンドJR宇治駅前、福岡「八女中央大茶園」玉露の日本一の里とくつろぎの森グリーンピア八女。日本三大茶園の美しい茶畑景観と茶懐石を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大茶園・茶香リトリート特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大茶園＆天空の緑の絨毯・茶畑パノラマと最高峰の抹茶文化・茶香宿×ふるさと納税完全ガイド【2026年最新】牧之原・宇治・八女',
+    title: '日本三大茶園＆天空の緑の絨毯・茶畑パノラマと最高峰の抹茶文化・茶香宿×ふるさと納税厳選ガイド牧之原・宇治・八女',
     description: '日本列島の茶文化の最高峰を訪ねる！静岡「牧之原大茶園」富士山と緑の大パノラマにホテルアンビア松風閣、京都「宇治茶の里」世界遺産平等院と宇治川のせせらぎホテルトレンドJR宇治駅前、福岡「八女中央大茶園」玉露の日本一の里とくつろぎの森グリーンピア八女。日本三大茶園の美しい茶畑景観と茶懐石を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-tea-plantations-stay',
@@ -142,9 +142,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大茶園・茶香リトリート特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大茶園＆天空の茶畑パノラマ・茶香宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大茶園＆天空の茶畑パノラマ・茶香宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             古くは鎌倉時代に栄西禅師が種を持ち帰って以来、日本の精神文化やもてなしの心を形作ってきた「日本三大茶園」――見渡す限り緩やかな丘陵地一面に幾筋もの茶畝が広がり富士山を借景に望む日本最大規模の茶産地・静岡の「牧之原大茶園」、覆下栽培によって濃厚なうま味と鮮やかな緑色を引き出し抹茶や玉露の最高峰ブランドとして君臨する京都の「宇治」、そして八女丘陵のスロープ一面に約70ヘクタールの茶畑が広がり伝統本玉露の生産量日本一を誇る福岡の「八女中央大茶園」。茶畑の稜線を望むドライブや茶室での点前体験を楽しんだ後は、お茶のアロマ風呂や茶葉を使った懐石料理に癒やされる特別な旅を楽天ふるさと納税でお楽しみください。
           </p>

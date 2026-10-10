@@ -1,4 +1,4 @@
-# 【秋保温泉】仙台奥座敷のおすすめ温泉旅館7選！豪華バイキング＆室内プール付きリゾート
+# 秋保温泉：仙台奥座敷のおすすめ温泉旅館7選！豪華バイキング＆室内プール付きリゾート
 
 - URL: https://croud-travel.pages.dev/posts/akyu-onsen-sendai-family-buffet-hotels-guide/
 - 宿泊施設名: 秋保温泉 心和む名湯の宿 曽良一

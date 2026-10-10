@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【極上のととのい】森の薪サウナ＆天然冷鉱泉水風呂！大自然の中で深呼吸する森のリトリート宿5選",
+  title: "極上のととのい：森の薪サウナ＆天然冷鉱泉水風呂！大自然の中で深呼吸する森のリトリート宿5選",
   description: "パチパチと薪がはぜる音、白樺のアロマロウリュ、そして地下から湧き出るシングル〜15℃の極上天然水風呂！森の外気浴でディープリラックスできる、サウナー絶賛の全国リトリート温泉宿を厳選紹介。",
   keywords: "サウナ 水風呂 温泉, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/organic-forest-sauna-cold-spring-stay/",
   },
   openGraph: {
-    title: "【極上のととのい】森の薪サウナ＆天然冷鉱泉水風呂！大自然の中で深呼吸する森のリトリート宿5選",
+    title: "極上のととのい：森の薪サウナ＆天然冷鉱泉水風呂！大自然の中で深呼吸する森のリトリート宿5選",
     description: "パチパチと薪がはぜる音、白樺のアロマロウリュ、そして地下から湧き出るシングル〜15℃の極上天然水風呂！森の外気浴でディープリラックスできる、サウナー絶賛の全国リトリート温泉宿を厳選紹介。",
     url: 'https://croud-travel.pages.dev/organic-forest-sauna-cold-spring-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【極上のととのい】森の薪サウナ＆天然冷鉱泉水風呂！大自然の中で深呼吸する森のリトリート宿5選",
+    title: "極上のととのい：森の薪サウナ＆天然冷鉱泉水風呂！大自然の中で深呼吸する森のリトリート宿5選",
     description: "パチパチと薪がはぜる音、白樺のアロマロウリュ、そして地下から湧き出るシングル〜15℃の極上天然水風呂！森の外気浴でディープリラックスできる、サウナー絶賛の全国リトリート温泉宿を厳選紹介。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>薪サウナ＆天然冷鉱泉</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【極上のととのい】森の薪サウナ＆天然冷鉱泉水風呂！大自然の中で深呼吸する森のリトリート宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「極上のととのい」森の薪サウナ＆天然冷鉱泉水風呂！大自然の中で深呼吸する森のリトリート宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             パチパチと薪がはぜる音、白樺のアロマロウリュ、そして地下から湧き出るシングル〜15℃の極上天然水風呂！森の外気浴でディープリラックスできる、サウナー絶賛の全国リトリート温泉宿を厳選紹介。
           </p>

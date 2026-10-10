@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/beppu-solo-retreat-kakenagashi-jigoku-stay/" },
-  title: '【別府温泉ひとり旅・湯治おこもり】別府湾パノラマ・源泉掛け流し客室露天・名物地獄蒸し！湧出量日本一の温泉都で癒やされる名宿 厳選3選',
+  title: '別府温泉ひとり旅・湯治おこもり：別府湾パノラマ・源泉掛け流し客室露天・名物地獄蒸し！湧出量日本一の温泉都で癒やされる名宿 厳選3選',
   description: '日本一の湧出量と泉種を誇るおんせん県おおいたの象徴・別府！「別府湾を一望する大展望露天風呂・棚湯と圧巻のエンタメ温泉リゾート。」の「杉乃井ホテル」、全室客室露天風呂付きで海と一体化する波打ち際の最高峰「AMANE RESORT SEIKAI（潮騒の宿 晴海）。」、庭園露天風呂と関アジ関サバ会席が自慢の老舗「ホテル白菊」を徹底特集。',
   keywords: '別府温泉 一人旅 宿,別府 温泉 おこもり 一人,杉乃井ホテル 宿泊,潮騒の宿 晴海 客室露天,別府 ひとり旅 部屋食',
   openGraph: {
-    title: '【別府温泉ひとり旅・湯治おこもり】別府湾パノラマ・源泉掛け流し客室露天・名物地獄蒸し！湧出量日本一の温泉都で癒やされる名宿 厳選3選',
+    title: '別府温泉ひとり旅・湯治おこもり：別府湾パノラマ・源泉掛け流し客室露天・名物地獄蒸し！湧出量日本一の温泉都で癒やされる名宿 厳選3選',
     description: '日本一の湧出量と泉種を誇るおんせん県おおいたの象徴・別府！「別府湾を一望する大展望露天風呂・棚湯と圧巻のエンタメ温泉リゾート。」の「杉乃井ホテル」、全室客室露天風呂付きで海と一体化する波打ち際の最高峰「AMANE RESORT SEIKAI（潮騒の宿 晴海）。」、庭園露天風呂と関アジ関サバ会席が自慢の老舗「ホテル白菊」を徹底特集。',
     url: 'https://croud-travel.pages.dev/beppu-solo-retreat-kakenagashi-jigoku-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【別府温泉ひとり旅・湯治おこもり】別府湾パノラマ・源泉掛け流し客室露天・名物地獄蒸し！湧出量日本一の温泉都で癒やされる名宿 厳選3選',
+    headline: '別府温泉ひとり旅・湯治おこもり：別府湾パノラマ・源泉掛け流し客室露天・名物地獄蒸し！湧出量日本一の温泉都で癒やされる名宿 厳選3選',
     description: '日本一の湧出量と泉種を誇るおんせん県おおいたの象徴・別府！「別府湾を一望する大展望露天風呂・棚湯と圧巻のエンタメ温泉リゾート。」の「杉乃井ホテル」、全室客室露天風呂付きで海と一体化する波打ち際の最高峰「AMANE RESORT SEIKAI（潮騒の宿 晴海）。」、庭園露天風呂と関アジ関サバ会席が自慢の老舗「ホテル白菊」を徹底特集。',
     author: {
       '@type': 'Organization',
@@ -74,9 +74,7 @@ export default function ArticlePage() {
           <span>✨</span>
           <span>別府温泉・源泉掛け流し＆地獄めぐり特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【別府温泉ひとり旅・湯治おこもり】別府湾パノラマ・源泉掛け流し客室露天・名物地獄蒸し！湧出量日本一の温泉都で癒やされる名宿 厳選3選
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">「別府温泉ひとり旅・湯治おこもり」別府湾パノラマ・源泉掛け流し客室露天・名物地獄蒸し！湧出量日本一の温泉都で癒やされる名宿 厳選3選</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
           日本一の湧出量と泉種を誇るおんせん県おおいたの象徴・別府！「別府湾を一望する大展望露天風呂・棚湯と圧巻のエンタメ温泉リゾート。」の「杉乃井ホテル」、全室客室露天風呂付きで海と一体化する波打ち際の最高峰「AMANE RESORT SEIKAI（潮騒の宿 晴海）。」、庭園露天風呂と関アジ関サバ会席が自慢の老舗「ホテル白菊」を徹底特集。
         </p>

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/chiba-kamogawa-katsuura-boso-seafood-stay/" },
-  title: "【千葉・鴨川＆勝浦】シャチ・四百年朝市＆地金目鯛宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "千葉・鴨川＆勝浦：シャチ・四百年朝市＆地金目鯛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "大迫力のシャチパフォーマンスで大人気の「鴨川シーワールド」、天正年間から続く日本三大朝市「勝浦朝市」、ご当地グルメ勝浦タンタンメン、南房総直送の地金目鯛姿煮や伊勢海老を徹底解説。太平洋一望の温泉ホテルや海鮮宿を厳選。",
   keywords: ["千葉", "鴨川", "勝浦", "シャチ", "四百年朝市", "地金目鯛宿", "温泉宿"],
 };
@@ -92,9 +92,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             KAMOGAWA & KATSUURA GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【千葉・鴨川＆勝浦・南房総】シャチパフォーマンス・勝浦四百年朝市＆地金目鯛宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「千葉・鴨川＆勝浦・南房総」シャチパフォーマンス・勝浦四百年朝市＆地金目鯛宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-teal-100/90 leading-relaxed">
             都心から東京湾アクアラインで気軽に行ける温暖な海洋リゾート「南房総・鴨川・勝浦」。太平洋の雄大な大海原をバックに豪快な水しぶきを上げる「鴨川シーワールド」のシャチ。四百年以上の歴史を誇る「勝浦朝市」の活気と、ピリ辛が癖になる勝浦タンタンメン。そして外房の荒波で育った脂の乗った「地金目鯛」や伊勢海老・アワビの贅沢海鮮会席を堪能する房総ステイへご案内します。
           </p>

@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '日本三大秘境・祖谷のかずら橋＆大歩危峡の断崖紅葉！ケーブルカー露天風呂の宿×ふるさと納税完全ガイド【2026年最新秋旅】徳島',
+  title: '日本三大秘境・祖谷のかずら橋＆大歩危峡の断崖紅葉！ケーブルカー露天風呂の宿×ふるさと納税厳選ガイド徳島',
   description: '10月下旬〜11月中旬に山一面が錦に染まる日本三大秘境「祖谷渓（いやけい）」と吉野川の「大歩危峡（おおぼけきょう）」。スリル満点の祖谷のかずら橋、名物小便小僧、ケーブルカーで行く谷底露天風呂「ホテル祖谷温泉」「ホテルかずら橋」「サンリバー大歩危」で祖谷そばや阿波尾鶏を堪能。ふるさと納税で実質2,000円。',
   keywords: ["日本三大秘境", "祖谷のかずら橋", "2026年最新秋旅", "徳島", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-iya-oboke-gorge-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '日本三大秘境・祖谷のかずら橋＆大歩危峡の断崖紅葉！ケーブルカー露天風呂の宿×ふるさと納税完全ガイド【2026年最新秋旅】徳島',
+    title: '日本三大秘境・祖谷のかずら橋＆大歩危峡の断崖紅葉！ケーブルカー露天風呂の宿×ふるさと納税厳選ガイド徳島',
     description: '10月下旬〜11月中旬に山一面が錦に染まる日本三大秘境「祖谷渓（いやけい）」と吉野川の「大歩危峡（おおぼけきょう）」。スリル満点の祖谷のかずら橋、名物小便小僧、ケーブルカーで行く谷底露天風呂「ホテル祖谷温泉」「ホテルかずら橋」「サンリバー大歩危」で祖谷そばや阿波尾鶏を堪能。ふるさと納税で実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-iya-oboke-gorge-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FeatureArticlePage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               四国・祖谷渓＆大歩危峡 秘境温泉特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              日本三大秘境・祖谷のかずら橋＆大歩危峡の断崖紅葉！ケーブルカー露天風呂の宿×ふるさと納税完全ガイド【2026年最新秋旅】徳島
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">日本三大秘境・祖谷のかずら橋＆大歩危峡の断崖紅葉！ケーブルカー露天風呂の宿×ふるさと納税厳選ガイド徳島</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               10月下旬〜11月中旬に山一面が錦に染まる日本三大秘境「祖谷渓（いやけい）」と吉野川の「大歩危峡（おおぼけきょう）」。スリル満点の祖谷のかずら橋、名物小便小僧、ケーブルカーで行く谷底露天風呂「ホテル祖谷温泉」「ホテルかずら橋」「サンリバー大歩危」で祖谷そばや阿波尾鶏を堪能。ふるさと納税で実質2,000円。
             </p>

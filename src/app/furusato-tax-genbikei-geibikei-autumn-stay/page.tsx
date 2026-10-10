@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            国の名勝「厳美渓・猊鼻渓」舟下り紅葉パノラマ＆一関温泉郷・幻の最高峰「前沢牛」会席
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">国の名勝「厳美渓・猊鼻渓」舟下り紅葉パノラマ＆一関温泉郷・幻の最高峰「前沢牛」会席</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             船頭の唄声響く猊鼻渓の紅葉舟下りと厳美渓のエメラルド渓流。一関の名湯と極上前沢牛に舌鼓を打つ秋の平泉路。
           </p>

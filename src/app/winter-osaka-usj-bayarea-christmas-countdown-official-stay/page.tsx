@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月大阪】天然温泉スパと絶景オフィシャルホテル！名宿5選',
+  title: '11・12・1月大阪：天然温泉スパと絶景オフィシャルホテル！名宿5選',
   description: '冬の大阪は「ユニバーサル・スタジオ・ジャパン（USJ）。」の圧倒的なスケールを誇る「NO LIMIT! クリスマス」、ホグワーツ城の雪景色。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: 'USJ ホテル, ユニバーサルスタジオジャパン クリスマス, USJ オフィシャルホテル, ザ パーク フロント ホテル, ホテル ユニバーサル ポート, リーベルホテル 大阪, 大阪 ベイエリア 夜景, 11月 12月 1月 大阪 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-osaka-usj-bayarea-christmas-countdown-official-stay/"
   },
   openGraph: {
-    title: '【11・12・1月大阪】天然温泉スパと絶景オフィシャルホテル！名宿5選',
+    title: '11・12・1月大阪：天然温泉スパと絶景オフィシャルホテル！名宿5選',
     description: '冬の大阪は「ユニバーサル・スタジオ・ジャパン（USJ）。」の圧倒的なスケールを誇る「NO LIMIT! クリスマス」、ホグワーツ城の雪景色。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-osaka-usj-bayarea-christmas-countdown-official-stay',
     siteName: '地域の宿探訪',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月大阪】USJ冬のクリスマス＆ベイエリア夜景！天然温泉スパと絶景オフィシャルホテル名宿5選",
+    title: "11・12・1月大阪：USJ冬のクリスマス＆ベイエリア夜景！天然温泉スパと絶景オフィシャルホテル名宿5選",
     description: "冬の大阪は「ユニバーサル・スタジオ・ジャパン（USJ）。」の圧倒的なスケールを誇る「NO LIMIT! クリスマス」、ホグワーツ城の雪景色、海遊館の幻想的なイルミネーション、そして大阪港のきらめくベイエリア夜景が最高潮を迎える熱狂のシーズン。パークで一日中遊び尽くした後は、オフィシャルホテルのパークビュールームや天然温泉展望スパで極上の癒やしを。熱々の大阪名物グルメ（てっちり・串カツ・黒毛和牛）とともに満喫する冬の大阪滞在。楽天APIから最新取得した公式ホテル5選を徹底特集します。",
     images: ["https://img.travel.rakuten.co.jp/share/HOTEL/147805/147805.jpg"]
   }
@@ -232,10 +232,7 @@ export default function OsakaUsjBayareaWinterPage() {
             <span>11月・12月・1月冬の大阪エンタメ＆ベイエリア特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">
-            USJ冬のクリスマス＆ベイエリア夜景！<br className="hidden sm:inline" />
-            天然温泉スパと絶景オフィシャルホテル名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">USJ冬のクリスマス＆ベイエリア夜景！<br className="hidden sm:inline" /> 天然温泉スパと絶景オフィシャルホテル名宿5選</h1>
 
           <p className="text-slate-300 text-sm sm:text-base lg:text-lg leading-relaxed max-w-3xl mb-8">
             世界最高峰の光の演出が夜空を焦がす「NO LIMIT! クリスマス」、雪化粧をまとったホグワーツ城の幻想的な佇まい、そして対岸の天保山大観覧車や大阪港を染めるロマンチックなベイエリア夜景。パークで思いきり弾けた後は、歩いてすぐのオフィシャルホテルへ。窓一面に広がるパーク夜景に浸り、地下深層から湧き出る極上の天然温泉スパで冷えた体を芯から解きほぐす至福の冬旅をお届けします。

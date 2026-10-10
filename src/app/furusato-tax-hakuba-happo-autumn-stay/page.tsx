@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            長野・白馬八方尾根の三段紅葉＆北アルプス！日本最高峰pH白馬八方温泉と信州牛フレンチ
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">長野・白馬八方尾根の三段紅葉＆北アルプス！日本最高峰pH白馬八方温泉と信州牛フレンチ</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の長野・白馬特集！白銀の北アルプス冠雪・山腹の紅葉・山麓の緑が織りなす奇跡の「三段紅葉」、日本屈指の強アルカリ性美肌泉「白馬八方温泉」、信州牛や安曇野野菜を贅沢に仕立てた信州フレンチ＆会席をふるさと納税トラベルで楽しむ極上の山岳リゾート滞在。
           </p>

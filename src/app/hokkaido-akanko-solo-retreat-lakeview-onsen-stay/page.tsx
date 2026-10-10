@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hokkaido-akanko-solo-retreat-lakeview-onsen-stay/" },
-  title: '【阿寒摩周・阿寒湖温泉ひとり旅・雄阿寒岳とマリモおこもり】全室温泉露天風呂・アイヌコタン木彫り文化・オホーツク会席！道東国立公園厳選3宿',
+  title: '阿寒摩周・阿寒湖温泉ひとり旅・雄阿寒岳とマリモおこもり：全室温泉露天風呂・アイヌコタン木彫り文化・オホーツク会席！道東国立公園厳選3宿',
   description: '特別天然記念物マリモが生息する神秘の湖・阿寒湖温泉！全室客室露天風呂と最高峰のおもてなしを誇る隠れ宿「あかん鶴雅別荘 鄙の座」、阿寒湖と一体になる空中露天風呂が圧巻の「あかん遊久の里 鶴雅」、自然とアートが調和する「THE FOREST 阿寒 TSURUGA RESORT。」を楽天API最新データに基づき徹底比較。',
   keywords: '阿寒湖温泉 一人旅 宿,阿寒湖 ホテル 一人 温泉,鄙の座 阿寒湖,遊久の里鶴雅,THE FOREST阿寒,阿寒湖 ひとり旅 おこもり',
   openGraph: {
-    title: '【阿寒摩周・阿寒湖温泉ひとり旅・雄阿寒岳とマリモおこもり】全室温泉露天風呂・アイヌコタン木彫り文化・オホーツク会席！道東国立公園厳選3宿',
+    title: '阿寒摩周・阿寒湖温泉ひとり旅・雄阿寒岳とマリモおこもり：全室温泉露天風呂・アイヌコタン木彫り文化・オホーツク会席！道東国立公園厳選3宿',
     description: '特別天然記念物マリモが生息する神秘の湖・阿寒湖温泉！全室客室露天風呂と最高峰のおもてなしを誇る隠れ宿「あかん鶴雅別荘 鄙の座」、阿寒湖と一体になる空中露天風呂が圧巻の「あかん遊久の里 鶴雅」、自然とアートが調和する「THE FOREST 阿寒 TSURUGA RESORT。」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/hokkaido-akanko-solo-retreat-lakeview-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【阿寒摩周・阿寒湖温泉ひとり旅・雄阿寒岳とマリモおこもり】全室温泉露天風呂・アイヌコタン木彫り文化・オホーツク会席！道東国立公園厳選3宿',
+    headline: '阿寒摩周・阿寒湖温泉ひとり旅・雄阿寒岳とマリモおこもり：全室温泉露天風呂・アイヌコタン木彫り文化・オホーツク会席！道東国立公園厳選3宿',
     description: '特別天然記念物マリモが生息する神秘の湖・阿寒湖温泉！全室客室露天風呂と最高峰のおもてなしを誇る隠れ宿「あかん鶴雅別荘 鄙の座」、阿寒湖と一体になる空中露天風呂が圧巻の「あかん遊久の里 鶴雅」、自然とアートが調和する「THE FOREST 阿寒 TSURUGA RESORT。」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             北海道・阿寒湖温泉ひとり旅＆阿寒摩周国立公園おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【阿寒摩周・阿寒湖温泉ひとり旅・雄阿寒岳とマリモおこもり】全室温泉露天風呂・アイヌコタン木彫り文化・オホーツク会席！道東国立公園厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「阿寒摩周・阿寒湖温泉ひとり旅・雄阿寒岳とマリモおこもり」全室温泉露天風呂・アイヌコタン木彫り文化・オホーツク会席！道東国立公園厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

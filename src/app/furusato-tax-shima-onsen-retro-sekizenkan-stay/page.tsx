@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【四万温泉×ふるさと納税】昭和レトロな重要文化財「元禄の湯」＆清流四万川！渓谷美湯宿ガイド｜積善館・やまぐち館・四万たむら',
+  title: '四万温泉をふるさと納税でお得に旅する！昭和レトロな重要文化財「元禄の湯」＆清流四万川！渓谷美湯宿ガイド｜積善館・やまぐち館・四万たむら',
   description: '「四万の病を癒やす」と伝わる群馬県四万温泉を楽天ふるさと納税でお得に贅沢ステイ！日本最古の木造湯治宿・登録有形文化財の「積善館 佳松亭・山荘」、四万川沿いの巨大露天風呂「四万やまぐち館」、創業五百年の源泉宿「四万たむら」を徹底比較。上州牛会席や中之条町トラベルクーポン活用術を網羅。',
   keywords: '四万温泉 ふるさと納税,積善館 クーポン ふるさと納税,四万やまぐち館 宿泊,四万たむら ふるさと納税,中之条町 ふるさと納税 宿泊',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-shima-onsen-retro-sekizenkan-stay/",
   },
   openGraph: {
-    title: '【四万温泉×ふるさと納税】昭和レトロな重要文化財「元禄の湯」＆清流四万川！渓谷美湯宿ガイド｜積善館・やまぐち館・四万たむら',
+    title: '四万温泉をふるさと納税でお得に旅する！昭和レトロな重要文化財「元禄の湯」＆清流四万川！渓谷美湯宿ガイド｜積善館・やまぐち館・四万たむら',
     description: '「四万の病を癒やす」と伝わる群馬県四万温泉を楽天ふるさと納税でお得に贅沢ステイ！日本最古の木造湯治宿・登録有形文化財の「積善館 佳松亭・山荘」、四万川沿いの巨大露天風呂「四万やまぐち館」、創業五百年の源泉宿「四万たむら」を徹底比較。上州牛会席や中之条町トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-shima-onsen-retro-sekizenkan-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -24,7 +24,7 @@ export default function FurusatoArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【四万温泉×ふるさと納税】昭和レトロな重要文化財「元禄の湯」＆清流四万川！渓谷美湯宿ガイド｜積善館・やまぐち館・四万たむら',
+    headline: '四万温泉をふるさと納税でお得に旅する！昭和レトロな重要文化財「元禄の湯」＆清流四万川！渓谷美湯宿ガイド｜積善館・やまぐち館・四万たむら',
     description: '「四万の病を癒やす」と伝わる群馬県四万温泉を楽天ふるさと納税でお得に贅沢ステイ！日本最古の木造湯治宿・登録有形文化財の「積善館 佳松亭・山荘」、四万川沿いの巨大露天風呂「四万やまぐち館」、創業五百年の源泉宿「四万たむら」を徹底比較。上州牛会席や中之条町トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function FurusatoArticlePage() {
           <span>♨️</span>
           <span>群馬県中之条町 ふるさと納税・名湯宿特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【四万温泉×ふるさと納税】昭和レトロな重要文化財「元禄の湯」＆清流四万川！渓谷美湯宿ガイド｜積善館・やまぐち館・四万たむら
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">四万温泉をふるさと納税でお得に旅する！昭和レトロな重要文化財「元禄の湯」＆清流四万川！渓谷美湯宿ガイド｜積善館・やまぐち館・四万たむら</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed">
           「四万の病を癒やす」と伝わる群馬県四万温泉を楽天ふるさと納税でお得に贅沢ステイ！日本最古の木造湯治宿・登録有形文化財の「積善館 佳松亭・山荘」、四万川沿いの巨大露天風呂「四万やまぐち館」、創業五百年の源泉宿「四万たむら」を徹底比較。上州牛会席や中之条町トラベルクーポン活用術を網羅。
         </p>

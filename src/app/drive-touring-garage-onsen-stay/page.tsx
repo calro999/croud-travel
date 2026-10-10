@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/drive-touring-garage-onsen-stay/" },
-  title: "【愛車・ドライブ旅の温泉宿】絶景ワインディング・屋内ガレージ＆EV充電 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "愛車・ドライブ旅の温泉宿：絶景ワインディング・屋内ガレージ＆EV充電 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "車好き・ツーリング愛好家完全特化！ビーナスライン・伊豆スカイライン・阿蘇パノラマライン直結、大切な愛車・バイクを守る屋内ガレージ＆屋根付き駐車場、EV充電スタンド完備、絶景ワインディングと温泉宿を徹底解説。",
   keywords: ["愛車", "ドライブ旅の温泉宿", "絶景ワインディング", "屋内ガレージ", "EV充電", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function TransitStyleHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             DRIVE & SCENIC ROAD GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【愛車・ドライブ旅の温泉宿】絶景ワインディング・屋内ガレージ＆EV充電 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「愛車・ドライブ旅の温泉宿」絶景ワインディング・屋内ガレージ＆EV充電 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             最高のワインディングロードを走り抜けた後に待つ至福の温泉！ビーナスラインや伊豆スカイラインの絶景ドライブ、大切な愛車やバイクを雨風から守る「屋根付きガレージ」、テラスから愛車を眺められるガレージヴィラへ。
           </p>

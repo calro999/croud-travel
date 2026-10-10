@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月瀬波温泉】名物塩引鮭！名宿5選',
+  title: '瀬波温泉で過ごす冬の旅（11・12月）！名物塩引鮭！名宿5選',
   description: '11月から12月にかけて、新潟県北部の日本海沿いに湧く「瀬波温泉」は、水平線に沈む茜色の夕日と荒波が織りなす息を呑むような初冬の絶景を迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '瀬波温泉 宿泊, 瀬波温泉 夕日 露天風呂, 越後村上 鮭 はらこ飯, 塩引鮭, 村上牛 ステーキ 11月 12月, 汐美荘, 大観荘せなみの湯, 磐舟, 静雲荘, 瀬波グランドホテルはぎのや',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-niigata-senami-onsen-sunset-ocean-salmon-murakami-beef-stay/"
   },
   openGraph: {
-    title: '【11・12月瀬波温泉】名物塩引鮭！名宿5選',
+    title: '瀬波温泉で過ごす冬の旅（11・12月）！名物塩引鮭！名宿5選',
     description: '11月から12月にかけて、新潟県北部の日本海沿いに湧く「瀬波温泉」は、水平線に沈む茜色の夕日と荒波が織りなす息を呑むような初冬の絶景を迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-niigata-senami-onsen-sunset-ocean-salmon-murakami-beef-stay',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -246,10 +246,7 @@ export default function NiigataSenamiWinterFeature() {
             <Sunset className="w-4 h-4" />
             11月・12月 日本海夕日露天＆越後村上鮭三昧特集｜新潟・瀬波温泉
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            初冬日本海夕日絶景露天と越後村上鮭三昧<br className="hidden sm:inline" />
-            名物塩引鮭・はらこ飯＆極上村上牛会席の海辺宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">初冬日本海夕日絶景露天と越後村上鮭三昧<br className="hidden sm:inline" /> 名物塩引鮭・はらこ飯＆極上村上牛会席の海辺宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             日本海の水平線に沈む茜色の夕日を望む熱の湯露天風呂。三面川で遡上する旬の鮭を使った伝統の塩引鮭やはらこ飯、A5村上牛の贅沢な美食に酔いしれる冬の越後旅。
           </p>

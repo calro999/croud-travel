@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-glamping-tent/" },
-  title: "【秋・冬キャンプ】薪ストーブ＆焚き火・天然温泉グランピング 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "秋・冬キャンプ：薪ストーブ＆焚き火・天然温泉グランピング 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "冬こそグランピングのベストシーズン！富士山ビューの大型ドームテント、薪ストーブ、プライベート焚き火、天然温泉や貸切サウナを完備した全国の極上グランピングリゾートを徹底解説。",
   keywords: ["冬キャンプ", "薪ストーブ", "焚き火", "天然温泉グランピング", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
@@ -98,9 +98,7 @@ export default function SeasonalFeaturePage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             LUXURY GLAMPING
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【秋・冬キャンプ】薪ストーブ＆焚き火・天然温泉グランピング 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「秋・冬キャンプ」薪ストーブ＆焚き火・天然温泉グランピング 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             パチパチと薪が爆ぜる焚き火の温もり、冷えた体に染み渡る天然温泉、暖房完備の快適な大型ドームテント。手ぶらで豪華なBBQやアウトドア体験を満喫できる秋・冬の贅沢リゾートステイ。
           </p>

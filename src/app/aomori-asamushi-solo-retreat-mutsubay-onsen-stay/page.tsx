@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/aomori-asamushi-solo-retreat-mutsubay-onsen-stay/" },
-  title: '【青森の奥座敷・浅虫温泉ひとり旅・陸奥湾夕日おこもり】開湯1200年名湯・津軽三味線生演奏・名物陸奥湾ホタテづくし！青い森鉄道直通の海辺厳選3宿',
+  title: '青森の奥座敷・浅虫温泉ひとり旅・陸奥湾夕日おこもり：開湯1200年名湯・津軽三味線生演奏・名物陸奥湾ホタテづくし！青い森鉄道直通の海辺厳選3宿',
   description: '棟方志功や太宰治が愛した津軽の名湯・浅虫温泉！毎夜の津軽三味線ライブと陸奥湾一望の展望露天風呂が口コミ★4.6超の「南部屋・海扇閣」、棟方志功ゆかりの美術品と源泉掛け流し岩風呂を誇る「椿館」、自家源泉と落ち着いたモダン和室が心地よい「宿屋つばき」を楽天API最新データに基づき徹底比較。',
   keywords: '浅虫温泉 一人旅 宿,浅虫温泉 ホテル 一人,南部屋海扇閣,浅虫温泉 椿館,宿屋つばき 浅虫,浅虫 ひとり旅 おこもり',
   openGraph: {
-    title: '【青森の奥座敷・浅虫温泉ひとり旅・陸奥湾夕日おこもり】開湯1200年名湯・津軽三味線生演奏・名物陸奥湾ホタテづくし！青い森鉄道直通の海辺厳選3宿',
+    title: '青森の奥座敷・浅虫温泉ひとり旅・陸奥湾夕日おこもり：開湯1200年名湯・津軽三味線生演奏・名物陸奥湾ホタテづくし！青い森鉄道直通の海辺厳選3宿',
     description: '棟方志功や太宰治が愛した津軽の名湯・浅虫温泉！毎夜の津軽三味線ライブと陸奥湾一望の展望露天風呂が口コミ★4.6超の「南部屋・海扇閣」、棟方志功ゆかりの美術品と源泉掛け流し岩風呂を誇る「椿館」、自家源泉と落ち着いたモダン和室が心地よい「宿屋つばき」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/aomori-asamushi-solo-retreat-mutsubay-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【青森の奥座敷・浅虫温泉ひとり旅・陸奥湾夕日おこもり】開湯1200年名湯・津軽三味線生演奏・名物陸奥湾ホタテづくし！青い森鉄道直通の海辺厳選3宿',
+    headline: '青森の奥座敷・浅虫温泉ひとり旅・陸奥湾夕日おこもり：開湯1200年名湯・津軽三味線生演奏・名物陸奥湾ホタテづくし！青い森鉄道直通の海辺厳選3宿',
     description: '棟方志功や太宰治が愛した津軽の名湯・浅虫温泉！毎夜の津軽三味線ライブと陸奥湾一望の展望露天風呂が口コミ★4.6超の「南部屋・海扇閣」、棟方志功ゆかりの美術品と源泉掛け流し岩風呂を誇る「椿館」、自家源泉と落ち着いたモダン和室が心地よい「宿屋つばき」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             青森・浅虫温泉ひとり旅＆陸奥湾シーサイドおこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【青森の奥座敷・浅虫温泉ひとり旅・陸奥湾夕日おこもり】開湯1200年名湯・津軽三味線生演奏・名物陸奥湾ホタテづくし！青い森鉄道直通の海辺厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「青森の奥座敷・浅虫温泉ひとり旅・陸奥湾夕日おこもり」開湯1200年名湯・津軽三味線生演奏・名物陸奥湾ホタテづくし！青い森鉄道直通の海辺厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

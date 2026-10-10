@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-luxury-hotspring-ryokan-stay/" },
-  title: '【実質2,000円で泊まる名湯】高級温泉旅館＆憧れの老舗宿をふるさと納税で予約する完全ガイド | クラウドトラベル',
+  title: '実質2,000円で泊まる名湯：高級温泉旅館＆憧れの老舗宿をふるさと納税で予約する厳選ガイド | クラウドトラベル',
   description: '年末の控除枠やご褒美旅行に最適！草津・伊豆・有馬の名旅館に楽天ふるさと納税トラベルクーポンで泊まる方法を徹底解説。有効期限3年の安心設計と実質2,000円負担の上手な活用術。',
   openGraph: {
-    title: '【実質2,000円で泊まる名湯】高級温泉旅館＆憧れの老舗宿をふるさと納税で予約する完全ガイド | クラウドトラベル',
+    title: '実質2,000円で泊まる名湯：高級温泉旅館＆憧れの老舗宿をふるさと納税で予約する厳選ガイド | クラウドトラベル',
     description: '年末の控除枠やご褒美旅行に最適！草津・伊豆・有馬の名旅館に楽天ふるさと納税トラベルクーポンで泊まる方法を徹底解説。有効期限3年の安心設計と実質2,000円負担の上手な活用術。',
     type: 'article',
   },
@@ -59,9 +59,7 @@ export default function Page() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             ふるさと納税×名湯・高級温泉旅館
           </div>
-          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            【実質2,000円で泊まる名湯】高級温泉旅館＆憧れの老舗宿をふるさと納税で予約する完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">「実質2,000円で泊まる名湯」高級温泉旅館＆憧れの老舗宿をふるさと納税で予約する厳選ガイド</h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl mb-6">
             毎年「年末に慌ててお肉やお米を頼んで冷凍庫がパンクしてしまう。」という方にこそ知ってほしいのが、楽天ふるさと納税のトラベルクーポンです。寄付額の最大30％が宿泊補助クーポンとして戻り、実質2,000円の自己負担で全国の名湯宿に泊まることができます。しかもクーポンの有効期限はたっぷり「3年間」。焦って旅行日を決めなくても、来年や再来年の記念日旅行に向けてじっくり計画を温められます。名湯中の名湯・草津温泉の湯畑を望む宿から、伊豆の全室オーシャンビュー旅館、有馬温泉の歴史ある金泉宿まで、大人の贅沢旅にふさわしい厳選旅館をご紹介します。
           </p>

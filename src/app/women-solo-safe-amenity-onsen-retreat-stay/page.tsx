@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/women-solo-safe-amenity-onsen-retreat-stay/" },
-  title: "【女性一人旅・安心ステイ＆ご褒美温泉宿】女性専用フロア＆Refa・美肌湯 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "女性一人旅・安心ステイ＆ご褒美温泉宿：女性専用フロア＆Refa・美肌湯 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "気兼ねなく自分を癒やす極上ひとり旅！女性一人旅歓迎の安心温泉宿＆ホテル完全特化！女性専用フロア・カードキーセキュリティ、Refa（リファ）ドライヤー＆高級アメニティ完備、お部屋食・個室食事処、美肌の湯を徹底解説。",
   keywords: ["女性一人旅", "安心ステイ", "ご褒美温泉宿", "女性専用フロア", "Refa", "美肌湯", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function WomenSoloRetreatHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-gradient-to-r from-rose-300 to-pink-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block shadow">
             WOMEN SOLO ONSEN GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【女性一人旅・安心ステイ＆ご褒美温泉宿】女性専用フロア＆Refa・美肌湯 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「女性一人旅・安心ステイ＆ご褒美温泉宿」女性専用フロア＆Refa・美肌湯 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-pink-100/90 leading-relaxed">
             誰にも気兼ねなく、自分のペースで過ごす贅沢な休日「女性一人旅・ご褒美温泉宿」。安心のオートロック・女性専用エリア。ReFaのシャワーヘッドや高級スキンケア。お部屋食や半個室ダイニングで味わう美食と、つるつるの美肌温泉へ。
           </p>

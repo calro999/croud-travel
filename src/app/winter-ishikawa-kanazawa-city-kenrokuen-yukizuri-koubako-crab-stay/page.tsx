@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月金沢】寒ブリ！名宿5選',
+  title: '11・12・1月金沢：寒ブリ！名宿5選',
   description: '冬の金沢は、名勝・兼六園の唐崎松に施される雪吊りが冬空に優美な幾何学模様を描き。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '金沢 ホテル, 金沢駅 宿, 兼六園 雪吊り, 尾山神社 初詣, 近江町市場 香箱ガニ, 金沢おでん, ホテル日航金沢, 御宿野乃金沢, 11月 12月 1月 金沢 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-ishikawa-kanazawa-city-kenrokuen-yukizuri-koubako-crab-stay/"
   },
   openGraph: {
-    title: '【11・12・1月金沢】寒ブリ！名宿5選',
+    title: '11・12・1月金沢：寒ブリ！名宿5選',
     description: '冬の金沢は、名勝・兼六園の唐崎松に施される雪吊りが冬空に優美な幾何学模様を描き。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-ishikawa-kanazawa-city-kenrokuen-yukizuri-koubako-crab-stay',
     type: 'article',
@@ -246,10 +246,7 @@ export default function KanazawaCityWinterPage() {
             <span>11月・12月・1月冬の北陸特選ガイド｜石川県金沢市</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            冬の兼六園雪吊り＆尾山神社新春初詣！<br className="hidden sm:inline" />
-            近江町市場の香箱ガニ・寒ブリ・加賀おでんに寛ぐ厳選宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">冬の兼六園雪吊り＆尾山神社新春初詣！<br className="hidden sm:inline" /> 近江町市場の香箱ガニ・寒ブリ・加賀おでんに寛ぐ厳選宿5選</h1>
 
           <p className="max-w-4xl text-sm sm:text-base md:text-lg text-slate-300 leading-relaxed font-normal">
             加賀百万石の栄華を今に伝える城下町・金沢。11月1日に始まる兼六園の唐崎松雪吊り、11月6日のカニ漁解禁で沸き立つ近江町市場、12月の純白ライトアップ、1月の尾山神社ステンドグラス神門新春初詣まで、冬こそ金沢が最も輝く黄金期。北陸の至福の味覚と城下町情緒に浸る上質な冬旅へご案内します。

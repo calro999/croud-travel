@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/winter-snowshoe-frozen-waterfall/" },
-  title: '【冬の自然探検】白銀の氷瀑！名宿5選',
+  title: '冬の自然探検：白銀の氷瀑！名宿5選',
   description: '青く輝く巨大氷瀑とパウダースノー！青森・奥入瀬渓流氷瀑ツアー、福島・裏磐梯イエローフォール、栃木・奥日光戦場ヶ原、長野・志賀高原など、初心者でも楽しめる冬のアウトドア体験と名湯宿を徹底解説。',
   keywords: ["冬の自然探検", "白銀の氷瀑", "スノーシュートレッキング宿", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -98,9 +98,7 @@ export default function SeasonalFeaturePage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             SNOWSHOE & FROZEN WATERFALL
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【冬の自然探検】白銀の氷瀑＆スノーシュートレッキング宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「冬の自然探検」白銀の氷瀑＆スノーシュートレッキング宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             時が止まったかのように凍りつく巨大な滝「氷瀑（ひょうばく）」。スノーシューを履いて白銀の森を踏みしめ、大自然の神秘に出逢う感動のアクティビティ。探検の後は源泉かけ流しの温泉で体を温める極上の冬旅へ。
           </p>

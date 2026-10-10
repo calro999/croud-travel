@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kurashiki-bikan-solo-retreat-culture-stay/" },
-  title: '【倉敷美観地区・ひとり旅おこもり】白壁土蔵の町並み・倉敷紡績の歴史遺産・最上階天然温泉！大原美術館と水運の街を巡る厳選3宿',
+  title: '倉敷美観地区・ひとり旅おこもり：白壁土蔵の町並み・倉敷紡績の歴史遺産・最上階天然温泉！大原美術館と水運の街を巡る厳選3宿',
   description: '岡山駅からJR山陽本線で約17分！国指定重要文化財の赤レンガ紡績工場を再生したアイコニックな「倉敷アイビースクエア」、美観地区徒歩すぐで最上階に天然温泉大浴場を備える「ドーミーイン倉敷」、天望風呂とラウンジが心地よい「ロイヤルパークホテル倉敷」を楽天APIデータに基づき徹底比較。',
   keywords: '倉敷美観地区 一人旅 ホテル,倉敷アイビースクエア 宿泊,ドーミーイン倉敷 一人,ロイヤルパークホテル倉敷,倉敷 大原美術館 デトックス',
   openGraph: {
-    title: '【倉敷美観地区・ひとり旅おこもり】白壁土蔵の町並み・倉敷紡績の歴史遺産・最上階天然温泉！大原美術館と水運の街を巡る厳選3宿',
+    title: '倉敷美観地区・ひとり旅おこもり：白壁土蔵の町並み・倉敷紡績の歴史遺産・最上階天然温泉！大原美術館と水運の街を巡る厳選3宿',
     description: '岡山駅からJR山陽本線で約17分！国指定重要文化財の赤レンガ紡績工場を再生したアイコニックな「倉敷アイビースクエア」、美観地区徒歩すぐで最上階に天然温泉大浴場を備える「ドーミーイン倉敷」、天望風呂とラウンジが心地よい「ロイヤルパークホテル倉敷」を楽天APIデータに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/kurashiki-bikan-solo-retreat-culture-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【倉敷美観地区・ひとり旅おこもり】白壁土蔵の町並み・倉敷紡績の歴史遺産・最上階天然温泉！大原美術館と水運の街を巡る厳選3宿',
+    headline: '倉敷美観地区・ひとり旅おこもり：白壁土蔵の町並み・倉敷紡績の歴史遺産・最上階天然温泉！大原美術館と水運の街を巡る厳選3宿',
     description: '岡山駅からJR山陽本線で約17分！国指定重要文化財の赤レンガ紡績工場を再生したアイコニックな「倉敷アイビースクエア」、美観地区徒歩すぐで最上階に天然温泉大浴場を備える「ドーミーイン倉敷」、天望風呂とラウンジが心地よい「ロイヤルパークホテル倉敷」を楽天APIデータに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -73,9 +73,7 @@ export default function ArticlePage() {
         <div className="inline-block bg-amber-700 text-white text-xs font-semibold px-3 py-1 rounded-full mb-3 tracking-wider">
           ひとり旅・出張・サウナ＆名湯特集
         </div>
-        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">
-          【倉敷美観地区・ひとり旅おこもり】白壁土蔵の町並み・倉敷紡績の歴史遺産・最上階天然温泉！大原美術館と水運の街を巡る厳選3宿
-        </h1>
+        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">「倉敷美観地区・ひとり旅おこもり」白壁土蔵の町並み・倉敷紡績の歴史遺産・最上階天然温泉！大原美術館と水運の街を巡る厳選3宿</h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.12 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>

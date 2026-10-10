@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-traditional-townscape-preservation-stay/" },
-  title: "【重要伝統的建造物群保存地区（重伝建）の町並み宿】角館・近江八幡・飛騨高山・美馬 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "重要伝統的建造物群保存地区（重伝建）の町並み宿：角館・近江八幡・飛騨高山・美馬 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "日本の美しい原風景と匠の技が息づく町並み完全特化！みちのくの小京都「秋田・角館武家屋敷」、八幡堀と白壁土蔵「滋賀・近江八幡」、陣屋と出格子「岐阜・飛騨高山」、うだつの上がる町並み「徳島・美馬」、重伝建エリアの歴史的旅館・古民家宿を徹底解説。",
   keywords: ["角館", "近江八幡", "飛騨高山", "美馬", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
@@ -89,9 +89,7 @@ export default function HistoryHeritageHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             TRADITIONAL TOWNSCAPE GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【重要伝統的建造物群保存地区（重伝建）の町並み宿】角館・近江八幡・飛騨高山・美馬 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「重要伝統的建造物群保存地区（重伝建）の町並み宿」角館・近江八幡・飛騨高山・美馬 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             黒板塀にしだれ桜が揺れる武家屋敷、水運で栄えた八幡堀をゆく和舟、商人たちの富の象徴「うだつ」。国が選定した「重要伝統的建造物群保存地区（重伝建）」。職人の息遣いが残る歴史的建造物に泊まり、日本の美意識に浸る上質な休日。
           </p>

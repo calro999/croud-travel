@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月宮城鳴子温泉郷】多彩な源泉めぐりと初冬の鳴子峡！名宿5選',
+  title: '宮城鳴子温泉郷で過ごす冬の旅（11・12月）！多彩な源泉めぐりと初冬の鳴子峡！名宿5選',
   description: '11月から12月にかけて鳴子峡に初雪が舞い、奥羽山脈の山懐に静寂が訪れるみちのく随一の名湯「鳴子温泉郷」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '鳴子温泉 宿泊, 鳴子温泉郷 11月 12月, 鳴子ホテル, 鳴子風雅, 湯元 吉祥, 旅館すがわら, 旅館大沼, 鳴子峡 冬景色, 鳴子こけし, 仙台牛 すき焼き, 鳴子 栗だんご',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-miyagi-naruko-onsen-yukimi-sendai-beef-stay/",
   },
   openGraph: {
-    title: '【11・12月宮城鳴子温泉郷】多彩な源泉めぐりと初冬の鳴子峡！名宿5選',
+    title: '宮城鳴子温泉郷で過ごす冬の旅（11・12月）！多彩な源泉めぐりと初冬の鳴子峡！名宿5選',
     description: '11月から12月にかけて鳴子峡に初雪が舞い、奥羽山脈の山懐に静寂が訪れるみちのく随一の名湯「鳴子温泉郷」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-miyagi-naruko-onsen-yukimi-sendai-beef-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月宮城鳴子温泉郷の冬湯治と雪見露天】多彩な源泉めぐりと初冬の鳴子峡・極上仙台牛すき焼き＆奥羽郷土会席の宿5選",
+    title: "宮城鳴子温泉郷の冬湯治と雪見露天で過ごす冬の旅（11・12月）！多彩な源泉めぐりと初冬の鳴子峡・極上仙台牛すき焼き＆奥羽郷土会席の宿5選",
     description: "11月から12月にかけて鳴子峡に初雪が舞い、奥羽山脈の山懐に静寂が訪れるみちのく随一の名湯「鳴子温泉郷」。日本に存在する11の泉質のうち実に9種類が集まる奇跡の温泉地で、乳白色・エメラルドグリーン・黒湯など多彩な源泉掛け流しの雪見風呂を堪能。手削りの鳴子こけしが並ぶノスタルジックな湯治街の散策、最高級A5ランク「仙台牛」のすき焼きや陶板焼き、名物栗だんごや奥羽の山里会席を満喫する厳選名宿5選を徹底解説。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80'],
   }
@@ -298,10 +298,7 @@ export default function NarukoOnsenWinterPage() {
             <Footprints className="w-4 h-4 text-emerald-300" />
             <span>11月・12月限定 日本屈指の9泉質が集う湯治場 初冬の鳴子峡雪景色と極上仙台牛</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月宮城鳴子温泉郷の冬湯治と雪見露天】<br className="hidden sm:inline" />
-            多彩な源泉めぐりと初冬の鳴子峡・極上仙台牛すき焼き＆奥羽郷土会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">宮城鳴子温泉郷の冬湯治と雪見露天で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 多彩な源泉めぐりと初冬の鳴子峡・極上仙台牛すき焼き＆奥羽郷土会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-slate-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             国内11泉質のうち9種類が集うみちのく屈指の湯治郷。乳白色やエメラルドグリーンに輝く多彩な雪見風呂、手削りこけしの温もり、最高ランクA5仙台牛と熱々のみたらし栗だんごを堪能する冬の東北旅。
           </p>

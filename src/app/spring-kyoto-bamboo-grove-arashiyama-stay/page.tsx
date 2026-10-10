@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】竹林の小径と渡月橋の風情。嵐山温泉＆極上京懐石を味わう京都の名旅館5選 | 日本全国・旅宿クラウド',
+  title: '2026年：竹林の小径と渡月橋の風情。嵐山温泉＆極上京懐石を味わう京都の名旅館5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！早朝の静寂に包まれる嵐山竹林の小径散策！名物湯豆腐・旬の京懐石とトロトロの嵐山温泉露天風呂で古都の風情に浸るおすすめ名宿5選。',
   keywords: ["2026年", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: '【2026年】竹林の小径と渡月橋の風情。嵐山温泉＆極上京懐石を味わう京都の名旅館5選',
+    title: '2026年：竹林の小径と渡月橋の風情。嵐山温泉＆極上京懐石を味わう京都の名旅館5選',
     description: '2026年最新！早朝の静寂に包まれる嵐山竹林の小径散策！名物湯豆腐・旬の京懐石とトロトロの嵐山温泉露天風呂で古都の風情に浸るおすすめ名宿5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/spring-kyoto-bamboo-grove-arashiyama-stay',
@@ -193,9 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> 嵐山竹林散策×極上京懐石名湯
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】竹林の小径と渡月橋の風情。嵐山温泉＆極上京懐石を味わう京都の名旅館5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」竹林の小径と渡月橋の風情。嵐山温泉＆極上京懐石を味わう京都の名旅館5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             緑陰の美しい嵐山・嵯峨野の竹林の小径や桂川のせせらぎ。早朝の澄んだ空気の中で古都の情緒を独占し、出汁香る旬の京懐石や名物湯豆腐、やわらかな嵐山温泉に浸る、大人のための風雅な京都旅行。
           </p>

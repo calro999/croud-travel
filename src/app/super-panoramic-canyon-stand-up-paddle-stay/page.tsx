@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】水面を滑る感動体験！湖畔＆リバーSUP体験付き絶景リゾート温泉宿5選 | 日本全国・旅宿クラウド',
+  title: '2026年：水面を滑る感動体験！湖畔＆リバーSUP体験付き絶景リゾート温泉宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！本栖湖・中禅寺湖・宮良川等で爽快SUP（スタンドアップパドルボード）！水上アクティビティ後に湖畔一望の露天風呂とサウナでととのう宿5選。',
   keywords: ["2026年", "水面を滑る感動体験！湖畔", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: '【2026年】水面を滑る感動体験！湖畔＆リバーSUP体験付き絶景リゾート温泉宿5選',
+    title: '2026年：水面を滑る感動体験！湖畔＆リバーSUP体験付き絶景リゾート温泉宿5選',
     description: '2026年最新！本栖湖・中禅寺湖・宮良川等で爽快SUP（スタンドアップパドルボード）！水上アクティビティ後に湖畔一望の露天風呂とサウナでととのう宿5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/super-panoramic-canyon-stand-up-paddle-stay',
@@ -193,9 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> 爽快レイクSUP×水辺インフィニティ露天
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】水面を滑る感動体験！湖畔＆リバーSUP体験付き絶景リゾート温泉宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」水面を滑る感動体験！湖畔＆リバーSUP体験付き絶景リゾート温泉宿5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             鏡のように澄み渡る湖面や清流をSUPボードで滑り出す贅沢な朝。初心者でも楽しめるSUPクルージングを満喫した後は、水辺を望むインフィニティ温泉やサウナで爽やかにリフレッシュ。
           </p>

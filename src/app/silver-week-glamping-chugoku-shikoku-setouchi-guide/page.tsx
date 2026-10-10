@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-chugoku-shikoku-setouchi-guide/" },
-  title: "【瀬戸内・中四国シルバーウィーク グランピング】しまなみ海道の多島美＆オリーブ牛BBQ ｜ 日本全国・旅宿クラウド",
+  title: "瀬戸内・中四国シルバーウィーク グランピング：しまなみ海道の多島美＆オリーブ牛BBQ ｜ 日本全国・旅宿クラウド",
   description:
     "穏やかな海と島々を望むシーサイドグランピング！しまなみ海道サイクリングの拠点、小豆島や香川のオリーブ牛＆瀬戸内真鯛グリル、夕暮れのマジックアワーをテラスで過ごす絶景ステイ。",
   keywords: ["瀬戸内", "中四国シルバーウィーク", "グランピング", "しまなみ海道の多島美", "オリーブ牛BBQ", "温泉宿", "宿泊予約"],
@@ -149,11 +149,7 @@ export default function SilverWeekGlampingSetouchiPage() {
             <span>🌅 穏やかな内海と多島美リゾート</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-snug font-journal-serif">
-            【瀬戸内・中四国シルバーウィーク グランピング】
-            <br />
-            <span className="text-amber-300">しまなみ海道の多島美＆オリーブ牛BBQ</span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-snug font-journal-serif">「瀬戸内・中四国シルバーウィーク グランピング」 <br /> <span className="text-amber-300">しまなみ海道の多島美＆オリーブ牛BBQ</span></h1>
 
           <p className="text-sm sm:text-base text-amber-100/90 leading-relaxed max-w-3xl">
             どこまでも穏やかな凪の海と、夕暮れに染まる無数の島影。しまなみ海道の潮風を感じるレモンの島・生口島、尾道沖の離島貸別荘、香川の天然温泉付きオーシャンビューヴィラ。特産のオリーブ牛と瀬戸内真鯛をテラスでグリルする、至高のアイランドリゾートへご案内します。

@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月下田南伊豆温泉郷】伊勢海老会席を満喫する絶景！名宿5選',
+  title: '下田南伊豆温泉郷で過ごす冬の旅（11・12月）！伊勢海老会席を満喫する絶景！名宿5選',
   description: '11月から12月にかけて、伊豆半島南端の下田・南伊豆エリアは、水揚げ日本一を誇る名物「下田の地金目鯛」が最も脂を蓄える最高の旬を迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '下田温泉 宿泊, 南伊豆 温泉 ホテル, 下田 金目鯛 姿煮, 下田温泉 露天風呂 絶景, 爪木崎 水仙 12月, 下田東急ホテル, 下田大和館, 黒船ホテル, ホテル山田屋, 観音温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shizuoka-shimoda-onsen-kinmedai-ocean-view-stay/"
   },
   openGraph: {
-    title: '【11・12月下田南伊豆温泉郷】伊勢海老会席を満喫する絶景！名宿5選',
+    title: '下田南伊豆温泉郷で過ごす冬の旅（11・12月）！伊勢海老会席を満喫する絶景！名宿5選',
     description: '11月から12月にかけて、伊豆半島南端の下田・南伊豆エリアは、水揚げ日本一を誇る名物「下田の地金目鯛」が最も脂を蓄える最高の旬を迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-shimoda-onsen-kinmedai-ocean-view-stay',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -246,10 +246,7 @@ export default function ShizuokaShimodaWinterFeature() {
             <Anchor className="w-4 h-4" />
             11月・12月 冬の伊豆美食＆絶景温泉特集｜静岡・下田・南伊豆温泉郷
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            初冬の海絶景と極上地金目鯛<br className="hidden sm:inline" />
-            水揚げ日本一の金目鯛姿煮＆伊勢海老会席を満喫する絶景宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">初冬の海絶景と極上地金目鯛<br className="hidden sm:inline" /> 水揚げ日本一の金目鯛姿煮＆伊勢海老会席を満喫する絶景宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             黒潮が運ぶ温暖な潮風とエメラルドグリーンの大海原。脂が最も乗り切る下田の地金目鯛と伊勢海老、水平線を望むオーシャンビュー露天風呂で温まる、冬の伊豆の至福ステイ。
           </p>

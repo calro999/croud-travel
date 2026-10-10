@@ -3,11 +3,11 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【秋の名古屋×格安】東山動植物園の紅葉ライトアップと名古屋めし！大浴場付き1泊3,000円台〜のコスパ最強ホテル5選【2026最新】',
+  title: '秋の名古屋×格安：東山動植物園の紅葉ライトアップと名古屋めし！大浴場付き1泊3,000円台〜のコスパ最強ホテル5選「2026最新」',
   description: '東海屈指の紅葉名所「東山動植物園」の奥池水鏡ライトアップと名城公園の秋散策！ひつまぶし・手羽先・味噌カツなど「名古屋めし」を食べ歩き。天然温泉や大浴場付きで1泊3,000円〜5,000円台で泊まれる名古屋のコスパ最強ホテル5選をご紹介。名古屋クラウンホテル、ホテル・アンドルームス栄を徹底比較！',
   keywords: '名古屋 格安 ホテル, 名古屋 大浴場 天然温泉 ホテル, 東山動植物園 紅葉 ライトアップ, 名古屋めし 宿, 名古屋クラウンホテル, ホテルアンドルームス名古屋栄',
   openGraph: {
-    title: '【秋の名古屋×格安】東山動植物園の紅葉ライトアップと名古屋めし！大浴場付き1泊3,000円台〜のコスパ最強ホテル5選【2026最新】',
+    title: '秋の名古屋×格安：東山動植物園の紅葉ライトアップと名古屋めし！大浴場付き1泊3,000円台〜のコスパ最強ホテル5選「2026最新」',
     description: '東山動植物園の紅葉ライトアップと名古屋めし！大浴場付き1泊3,000円台〜のコスパ最強名古屋ホテル5選。',
     type: 'article',
     url: 'https://croud-travel.com/autumn-budget-aichi-nagoya-momiji-large-bath-hotels-stay',
@@ -32,9 +32,7 @@ export default function NagoyaBudgetAutumnPage() {
             <span className="px-3 py-1 bg-teal-600 text-white text-xs font-bold rounded-full">格安・愛知特集</span>
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">1泊目安: 3,000円台〜5,000円台</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">
-            【秋の名古屋×格安】東山動植物園の紅葉ライトアップと名古屋めし！大浴場付き1泊3,000円台〜のコスパ最強ホテル5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の名古屋×格安」東山動植物園の紅葉ライトアップと名古屋めし！大浴場付き1泊3,000円台〜のコスパ最強ホテル5選</h1>
           <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
             池の水面に映し出される東山動植物園の幻想的な紅葉ライトアップ。栄や伏見の中心街で名物ひつまぶしや手羽先を堪能し、天然温泉大浴場やサウナで寛げる名古屋の格安宿をご紹介します。
           </p>

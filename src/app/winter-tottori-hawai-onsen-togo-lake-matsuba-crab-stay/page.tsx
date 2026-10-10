@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月鳥取・はわい温泉】鳥取和牛オレイン55！名宿5選',
+  title: '鳥取・はわい温泉で過ごす冬の旅（11・12月）！鳥取和牛オレイン55！名宿5選',
   description: '11月から12月にかけて鳥取県中央部に位置する東郷湖畔の「はわい温泉・東郷温泉」は、静かな湖面から立ち上る幻想的な朝霧と湯けむりに包まれ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: 'はわい温泉 宿泊, 東郷温泉 宿, はわい温泉 カニ 11月 12月, 望湖楼, 千年亭 はわい温泉, 水明荘 東郷温泉, 湖屋 KOYA, ゆの宿 彩香, 鳥取 松葉ガニ 宿, 鳥取和牛オレイン55, 湖上露天風呂',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tottori-hawai-onsen-togo-lake-matsuba-crab-stay/"
   },
   openGraph: {
-    title: '【11・12月鳥取・はわい温泉】鳥取和牛オレイン55！名宿5選',
+    title: '鳥取・はわい温泉で過ごす冬の旅（11・12月）！鳥取和牛オレイン55！名宿5選',
     description: '11月から12月にかけて鳥取県中央部に位置する東郷湖畔の「はわい温泉・東郷温泉」は、静かな湖面から立ち上る幻想的な朝霧と湯けむりに包まれ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-tottori-hawai-onsen-togo-lake-matsuba-crab-stay',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -280,10 +280,7 @@ export default function HawaiOnsenWinterFeature() {
             <Snowflake className="w-4 h-4" />
             11月・12月 冬の極上名湯特集｜鳥取・はわい温泉＆東郷温泉
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月鳥取・はわい温泉】<br className="hidden sm:inline" />
-            東郷湖上露天風呂と11月解禁鳥取松葉ガニ・鳥取和牛オレイン55の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">鳥取・はわい温泉で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 東郷湖上露天風呂と11月解禁鳥取松葉ガニ・鳥取和牛オレイン55の宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             周囲12kmの静寂の東郷湖に湧く奇跡の湖底温泉。湖上露天風呂から初冬の朝霧と水景を仰ぎ、11月解禁のブランド鳥取松葉ガニととろける鳥取和牛に酔いしれる贅沢な湖畔湯治。
           </p>

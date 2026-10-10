@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '絶景棚田＆日本の原風景里山温泉宿×ふるさと納税完全ガイド【2026年最新】星峠・白米千枚田・大山千枚田の休日',
+  title: '絶景棚田＆日本の原風景里山温泉宿×ふるさと納税厳選ガイド星峠・白米千枚田・大山千枚田の休日',
   description: '日本人の心のふるさと！新潟十日町「星峠の棚田」の水鏡露天風呂、石川輪島「白米千枚田」の日本海夕日パノラマ、千葉鴨川「大山千枚田」の里山癒やしステイ。棚田米と旬の山菜・地魚会席を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: ["絶景棚田", "2026年最新", "星峠", "白米千枚田", "大山千枚田の休日", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-terraced-rice-fields-satoyama-onsen-stay/"
   },
   openGraph: {
-    title: '絶景棚田＆日本の原風景里山温泉宿×ふるさと納税完全ガイド【2026年最新】星峠・白米千枚田・大山千枚田の休日',
+    title: '絶景棚田＆日本の原風景里山温泉宿×ふるさと納税厳選ガイド星峠・白米千枚田・大山千枚田の休日',
     description: '日本人の心のふるさと！新潟十日町「星峠の棚田」の水鏡露天風呂、石川輪島「白米千枚田」の日本海夕日パノラマ、千葉鴨川「大山千枚田」の里山癒やしステイ。棚田米と旬の山菜・地魚会席を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-terraced-rice-fields-satoyama-onsen-stay',
     type: 'article',
@@ -54,9 +54,7 @@ export default function FurusatoFeaturePage() {
             <span>✨</span>
             <span>絶景棚田・里山おこもり特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            絶景棚田＆日本の原風景里山温泉宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">絶景棚田＆日本の原風景里山温泉宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             急峻な山の斜面に幾重にも連なる棚田（千枚田）。春の水鏡に映る茜色の空、初夏の爽快な青田波、秋の黄金色に輝く稲穂、そして冬の静寂なる雪化粧。四季折々に息をのむ美しさを見せる棚田の里には、どこか懐かしく温かい里山温泉宿が点在しています。清らかな水と澄んだ空気で育まれた極上の棚田米、摘みたての山菜や地魚料理を味わいながら、日常を離れた静かな時間を楽天ふるさと納税のトラベルクーポンでお得に堪能しましょう。
           </p>

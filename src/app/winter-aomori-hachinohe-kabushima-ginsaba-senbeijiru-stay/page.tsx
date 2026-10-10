@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月青森】蕪島神社初詣！名宿5選',
+  title: '11・12・1月青森：蕪島神社初詣！名宿5選',
   description: '11月から1月、青森県八戸市は日本一脂が乗る「八戸前沖銀鯖」の最盛期を迎え、出汁の染みた熱々の「八戸せんべい汁」が極上の美味を放ちます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '八戸前沖さば, 銀鯖, 八戸せんべい汁, 八食センター, 七輪村, 蕪島神社 初詣, ドーミーイン本八戸, ダイワロイネットホテル八戸, グランドサンピア八戸, 八戸グランドホテル, コンフォートホテル八戸, みろく横丁, 11月 12月 1月 青森旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay/"
   },
   openGraph: {
-    title: '【11・12・1月青森】蕪島神社初詣！名宿5選',
+    title: '11・12・1月青森：蕪島神社初詣！名宿5選',
     description: '11月から1月、青森県八戸市は日本一脂が乗る「八戸前沖銀鯖」の最盛期を迎え、出汁の染みた熱々の「八戸せんべい汁」が極上の美味を放ちます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月青森】八戸前沖銀鯖と本場せんべい汁・八食センター七輪村買い出し＆蕪島神社初詣・太平洋一望の八戸名宿5選",
+    title: "11・12・1月青森：八戸前沖銀鯖と本場せんべい汁・八食センター七輪村買い出し＆蕪島神社初詣・太平洋一望の八戸名宿5選",
     description: "11月から1月、青森県八戸市は日本一脂が乗る「八戸前沖銀鯖」の最盛期を迎え、出汁の染みた熱々の「八戸せんべい汁」が極上の美味を放ちます。年末年始の活気あふれる八食センターでの買い出しと七輪村の炭火焼き、金運と株価上昇を願う蕪島神社の新春初詣、横丁文化が息づくみろく横丁。冬の八戸を心ゆくまで満喫する厳選名宿5選とモデルコースを徹底ガイドします。",
     images: ['https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80']
   }
@@ -42,7 +42,7 @@ export default function AomoriHachinoheKabushimaWinterPage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: "【11・12・1月青森】八戸前沖銀鯖と本場せんべい汁・八食センター七輪村買い出し＆蕪島神社初詣・太平洋一望の八戸名宿5選",
+    headline: "11・12・1月青森：八戸前沖銀鯖と本場せんべい汁・八食センター七輪村買い出し＆蕪島神社初詣・太平洋一望の八戸名宿5選",
     description: "11月から1月、青森県八戸市は日本一脂が乗る「八戸前沖銀鯖」の最盛期を迎え、出汁の染みた熱々の「八戸せんべい汁」が極上の美味を放ちます。年末年始の活気あふれる八食センターでの買い出しと七輪村の炭火焼き、金運と株価上昇を願う蕪島神社の新春初詣、横丁文化が息づくみろく横丁。冬の八戸を心ゆくまで満喫する厳選名宿5選とモデルコースを徹底ガイドします。",
     image: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
     datePublished: '',
@@ -282,9 +282,7 @@ export default function AomoriHachinoheKabushimaWinterPage() {
             <Fish className="w-4 h-4 text-sky-300" />
             11月・12月・1月 冬の青森・八戸前沖銀鯖＆せんべい汁特集
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【11・12・1月青森】八戸前沖銀鯖と本場せんべい汁・八食センター七輪村買い出し＆蕪島神社初詣・太平洋一望の八戸名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「11・12・1月青森」八戸前沖銀鯖と本場せんべい汁・八食センター七輪村買い出し＆蕪島神社初詣・太平洋一望の八戸名宿5選</h1>
           <p className="text-slate-300 text-sm sm:text-base md:text-lg max-w-3xl leading-relaxed">
             北三陸の冷たい荒波が極上の脂を蓄えさせる日本一のブランド鯖「八戸前沖銀鯖」。南部地鶏の濃厚な出汁を吸ったモチモチの特製南部煎餅がたまらない冬の魂の鍋「八戸せんべい汁」。活気溢れる八食センターの年末年始買い出しと七輪村、金運と株価上昇を祈願する蕪島神社の新春初詣。北国の冬の滋味と熱気を体感する八戸の名宿ステイをご案内します。
           </p>

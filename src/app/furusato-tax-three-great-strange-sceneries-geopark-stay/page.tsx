@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-strange-sceneries-geopark-stay/" },
-  title: '日本三大奇景＆奇岩怪石ジオパーク・絶景パノラマ温泉宿×ふるさと納税完全ガイド【2026年最新】妙義山・寒霞渓・耶馬渓',
+  title: '日本三大奇景＆奇岩怪石ジオパーク・絶景パノラマ温泉宿×ふるさと納税厳選ガイド妙義山・寒霞渓・耶馬渓',
   description: '数百万年の風雨が刻んだ地球の彫刻美！群馬「妙義山」切り立つ荒々しい岩峰群と妙義温泉妙義グリーンホテル＆テラス、香川小豆島「寒霞渓」瀬戸内海を望む表十二景・裏八景とベイリゾートホテル小豆島、大分「耶馬渓」頼山陽が賞賛した奇岩絶壁と天ヶ瀬温泉成天閣。日本三大奇景の大自然ジオアートと名湯を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大奇景・ジオパーク特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大奇景＆奇岩怪石ジオパーク・絶景パノラマ温泉宿×ふるさと納税完全ガイド【2026年最新】妙義山・寒霞渓・耶馬渓',
+    title: '日本三大奇景＆奇岩怪石ジオパーク・絶景パノラマ温泉宿×ふるさと納税厳選ガイド妙義山・寒霞渓・耶馬渓',
     description: '数百万年の風雨が刻んだ地球の彫刻美！群馬「妙義山」切り立つ荒々しい岩峰群と妙義温泉妙義グリーンホテル＆テラス、香川小豆島「寒霞渓」瀬戸内海を望む表十二景・裏八景とベイリゾートホテル小豆島、大分「耶馬渓」頼山陽が賞賛した奇岩絶壁と天ヶ瀬温泉成天閣。日本三大奇景の大自然ジオアートと名湯を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-strange-sceneries-geopark-stay',
@@ -155,9 +155,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大奇景・ジオパーク特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大奇景＆奇岩パノラマ温泉宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大奇景＆奇岩パノラマ温泉宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             火山活動と数百万年におよぶ浸食作用が奇跡の岩峰地形を生み出した「日本三大奇景」――白雲山や金洞山など鋸歯状の岩稜がそそり立ち、日本屈指の岩峰美と修験の歴史を刻む群馬の「妙義山」、瀬戸内海国立公園の中心に位置し、天涯を突く奇岩怪石と四季折々の紅葉・新緑がロープウェイから一望できる小豆島の「寒霞渓」、そして江戸時代の文人・頼山陽がその絶景に感嘆して名付け、青の洞門や競秀峰など数里にわたって奇岩が連なる大分の「耶馬渓」。人間業では成し得ない大自然の圧倒的スケールは、見る者の冒険心と美的好奇心を揺さぶります。岩峰や渓谷を一望する絶景温泉宿を拠点に、上州牛・瀬戸内鮮魚・豊後牛などのご当地美食を心ゆくまで味わう特別な休日を楽天ふるさと納税でお楽しみください。
           </p>

@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            榛名湖の紅葉ロープウェイと伊香保温泉石段街！黄金の湯・白銀の湯と極上上州牛を味わう秋の上州旅
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">榛名湖の紅葉ロープウェイと伊香保温泉石段街！黄金の湯・白銀の湯と極上上州牛を味わう秋の上州旅</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             石段を彩るカエデと湯けむり、名峰・榛名富士の裾野に広がる黄金の秋
           </p>

@@ -5,14 +5,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, Sparkles, Calendar, Utensils, Compass, ExternalLink, Snowflake, Flame, Building, Coffee, ThermometerSun } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月奈良】極上大和牛を味わう！名宿5選',
+  title: '11・12・1月奈良：極上大和牛を味わう！名宿5選',
   description: '11月から1月、古都・奈良の大和路は凛とした冬の澄んだ空気に包まれ、神話と歴史が息づく静謐な祈りの季節を迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '長谷寺 冬牡丹 寒牡丹 見頃, 大神神社 初詣 三輪山, 橿原神宮 初詣 混雑, 大和牛 すき焼き 宿, 長谷寺 温泉 井谷屋, 多武峰観光ホテル, カンデオホテルズ 奈良橿原, グランドメルキュール奈良橿原, ホテル奈良さくらいの郷, 11月 12月 1月 奈良旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nara-hasedera-winter-peony-oomiwa-yamatogyu-stay/"
   },
   openGraph: {
-    title: '【11・12・1月奈良】極上大和牛を味わう！名宿5選',
+    title: '11・12・1月奈良：極上大和牛を味わう！名宿5選',
     description: '11月から1月、古都・奈良の大和路は凛とした冬の澄んだ空気に包まれ、神話と歴史が息づく静謐な祈りの季節を迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-nara-hasedera-winter-peony-oomiwa-yamatogyu-stay',
     type: 'article',
@@ -233,12 +233,7 @@ export default function NaraHasederaOomiwaPage() {
             11月・12月・1月 冬の古都花めぐり・日本最古神社初詣＆大和牛特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-tight sm:leading-snug text-stone-100 font-serif">
-            藁囲いに咲く雪中の花と神宿る三輪山の静謐<br />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-200 via-pink-200 to-amber-200">
-              長谷寺「冬牡丹」と日本最古大神神社初詣・極上大和牛の名宿
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-tight sm:leading-snug text-stone-100 font-serif">藁囲いに咲く雪中の花と神宿る三輪山の静謐<br /> <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-200 via-pink-200 to-amber-200"> 長谷寺「冬牡丹」と日本最古大神神社初詣・極上大和牛の名宿 </span></h1>
 
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed max-w-3xl mx-auto font-light">
             花の御寺・長谷寺の屋根付き登廊に咲く可憐な藁囲いの「冬牡丹」。三輪山をご神体とする日本最古の聖地「大神神社」と建国の神威あふれる「橿原神宮」の新春初詣。熱々の三輪にゅうめんと伝統の極上霜降り「大和牛」のすき焼き、古都の静寂を望む名湯に心癒やされる至福の冬旅へご案内します。

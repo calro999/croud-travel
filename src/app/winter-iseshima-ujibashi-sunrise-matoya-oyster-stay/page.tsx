@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月伊勢神宮】伊勢海老！名宿5選',
+  title: '伊勢神宮で過ごす冬の旅（11・12月）！伊勢海老！名宿5選',
   description: '冬至前後に伊勢神宮・宇治橋大鳥居の中央から昇る神々しい朝日！1年間の感謝を捧げる年越し・お礼参りと、11月から旬を迎える「的矢かき」「活伊勢海老」「松阪牛」、鳥羽湾を望む絶景名湯露天風呂に癒やされる冬の伊勢志摩ステイ。',
   keywords: '伊勢神宮 冬至 日の出, 宇治橋 朝日, 的矢かき 旅館, 伊勢海老 温泉, 鳥羽温泉 旅館, お礼参り 伊勢志摩, 11月 12月 冬旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-iseshima-ujibashi-sunrise-matoya-oyster-stay/",
   },
   openGraph: {
-    title: '【11・12月伊勢神宮】伊勢海老！名宿5選',
+    title: '伊勢神宮で過ごす冬の旅（11・12月）！伊勢海老！名宿5選',
     description: '冬至前後に伊勢神宮・宇治橋大鳥居の中央から昇る神々しい朝日！1年間の感謝を捧げる年越し・お礼参りと、11月から旬を迎える「的矢かき」「活伊勢海老」「松阪牛」、鳥羽湾を望む絶景名湯露天風呂に癒やされる冬の伊勢志摩ステイ。',
     url: 'https://croud-travel.pages.dev/winter-iseshima-ujibashi-sunrise-matoya-oyster-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月伊勢神宮の冬至・年越し参拝】宇治橋の朝日絶景と伊勢志摩の冬の至宝・的矢かき＆伊勢海老宿5選",
+    title: "伊勢神宮の冬至・年越し参拝で過ごす冬の旅（11・12月）！宇治橋の朝日絶景と伊勢志摩の冬の至宝・的矢かき＆伊勢海老宿5選",
     description: "冬至前後に伊勢神宮・宇治橋大鳥居の中央から昇る神々しい朝日！1年間の感謝を捧げる年越し・お礼参りと、11月から旬を迎える「的矢かき」「活伊勢海老」「松阪牛」、鳥羽湾を望む絶景名湯露天風呂に癒やされる冬の伊勢志摩ステイ。",
   }
 };
@@ -266,10 +266,7 @@ export default function IseshimaWinterPage() {
             <Sun className="w-4 h-4 text-amber-200" />
             <span>冬至・年末限定 神域の絶景と冬の味覚</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月伊勢神宮の冬至・年越し参拝】<br className="hidden sm:inline" />
-            宇治橋の朝日絶景と伊勢志摩の冬の至宝・的矢かき＆伊勢海老宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">伊勢神宮の冬至・年越し参拝で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 宇治橋の朝日絶景と伊勢志摩の冬の至宝・的矢かき＆伊勢海老宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             1年で最も昼が短い冬至の前後、大鳥居の中央から黄金色の光が差し込む神秘の光景。1年間の感謝を捧げるお礼参りと、旬を迎えた的矢かき・伊勢海老に舌鼓を打ち、鳥羽の絶景名湯に心洗われる旅へ。
           </p>

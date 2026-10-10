@@ -42,9 +42,7 @@ export default function Page() {
             <span className="inline-block w-2 h-2 rounded-full bg-rose-400 animate-pulse" />
             国宝三大茶室・数寄屋侘び寂び特集
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">
-            国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg md:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed font-normal">
             侘び寂びの精神が極まる日本建築の最高峰！京都「妙喜庵・待庵」千利休唯一現存の国宝茶室とホテル京都エミナース、愛知「有楽苑・如庵」織田有楽斎の美学とホテルインディゴ犬山有楽苑、京都「嵐山・数寄屋名宿」小堀遠州の美意識と割烹旅館城山。国宝三大茶室の静謐な世界を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。
           </p>

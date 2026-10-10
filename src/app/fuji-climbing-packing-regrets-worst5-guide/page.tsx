@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/fuji-climbing-packing-regrets-worst5-guide/" },
-  title: "【富士登山で後悔したことワースト5】高山病・下山時の爪割れ・ヘッドライト忘れ！登頂成功の持ち物チェックリスト ｜ 日本全国・旅宿クラウド",
+  title: "富士登山で後悔したことワースト5：高山病・下山時の爪割れ・ヘッドライト忘れ！登頂成功の持ち物チェックリスト ｜ 日本全国・旅宿クラウド",
   description:
     "初心者が最も後悔する富士登山の落とし穴！登りより辛い下山時のつま先激痛、山小屋の寒暖差、小銭（トイレチップ用100円玉）切れ、ヘッドライトの電池切れ、五合目前泊・後泊におすすめの温泉宿まとめ。",
   keywords: ["高山病", "下山時の爪割れ", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
@@ -202,14 +202,7 @@ export default function FujiClimbingPackingRegretsPage() {
             <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
             富士登山サバイバル・失敗回避白書
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【富士登山で後悔したことワースト5】<br />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-300 via-teal-200 to-emerald-400">
-              高山病・下山時の爪割れ・ヘッドライト忘れ！
-            </span>
-            <br />
-            登頂成功の持ち物チェックリスト
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「富士登山で後悔したことワースト5」<br /> <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-300 via-teal-200 to-emerald-400"> 高山病・下山時の爪割れ・ヘッドライト忘れ！ </span> <br /> 登頂成功の持ち物チェックリスト</h1>
           <p className="text-slate-300 text-base sm:text-lg max-w-3xl leading-relaxed mb-8">
             毎年何千人もの登山初心者が「こんなはずじゃなかった…」と涙を呑む富士山。
             登頂の喜びを打ち砕く下山時の爪の激痛、深夜の岩場でスマホライトが消える恐怖、小銭切れによるトイレ我慢——。

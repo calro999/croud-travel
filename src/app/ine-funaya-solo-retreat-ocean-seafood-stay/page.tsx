@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/ine-funaya-solo-retreat-ocean-seafood-stay/" },
-  title: '【伊根の舟屋・宮津ひとり旅】海に浮かぶ重要伝統的建造物群・奥伊根温泉客室露天・旬の寒ブリ地魚！日本海最深部の静謐おこもり厳選3宿',
+  title: '伊根の舟屋・宮津ひとり旅：海に浮かぶ重要伝統的建造物群・奥伊根温泉客室露天・旬の寒ブリ地魚！日本海最深部の静謐おこもり厳選3宿',
   description: '天橋立駅から丹海バスで約50分！全室に日本海を望む源泉かけ流し露天風呂を備える至高の宿「油屋別館 和亭」、高台から伊根湾の絶景を見下ろす本館「奥伊根温泉 油屋本館」、宮津湾のオーシャンビューとリゾートスパを誇る「メルキュール京都宮津リゾート＆スパ」を徹底比較。',
   keywords: '伊根の舟屋 一人旅 宿,油屋別館 和亭 宿泊,奥伊根温泉 油屋本館,メルキュール京都宮津,伊根 温泉 おこもり 寒ブリ',
   openGraph: {
-    title: '【伊根の舟屋・宮津ひとり旅】海に浮かぶ重要伝統的建造物群・奥伊根温泉客室露天・旬の寒ブリ地魚！日本海最深部の静謐おこもり厳選3宿',
+    title: '伊根の舟屋・宮津ひとり旅：海に浮かぶ重要伝統的建造物群・奥伊根温泉客室露天・旬の寒ブリ地魚！日本海最深部の静謐おこもり厳選3宿',
     description: '天橋立駅から丹海バスで約50分！全室に日本海を望む源泉かけ流し露天風呂を備える至高の宿「油屋別館 和亭」、高台から伊根湾の絶景を見下ろす本館「奥伊根温泉 油屋本館」、宮津湾のオーシャンビューとリゾートスパを誇る「メルキュール京都宮津リゾート＆スパ」を徹底比較。',
     url: 'https://croud-travel.pages.dev/ine-funaya-solo-retreat-ocean-seafood-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【伊根の舟屋・宮津ひとり旅】海に浮かぶ重要伝統的建造物群・奥伊根温泉客室露天・旬の寒ブリ地魚！日本海最深部の静謐おこもり厳選3宿',
+    headline: '伊根の舟屋・宮津ひとり旅：海に浮かぶ重要伝統的建造物群・奥伊根温泉客室露天・旬の寒ブリ地魚！日本海最深部の静謐おこもり厳選3宿',
     description: '天橋立駅から丹海バスで約50分！全室に日本海を望む源泉かけ流し露天風呂を備える至高の宿「油屋別館 和亭」、高台から伊根湾の絶景を見下ろす本館「奥伊根温泉 油屋本館」、宮津湾のオーシャンビューとリゾートスパを誇る「メルキュール京都宮津リゾート＆スパ」を徹底比較。',
     author: {
       '@type': 'Organization',
@@ -73,9 +73,7 @@ export default function ArticlePage() {
         <div className="inline-block bg-amber-700 text-white text-xs font-semibold px-3 py-1 rounded-full mb-3 tracking-wider">
           ひとり旅・出張・サウナ＆名湯特集
         </div>
-        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">
-          【伊根の舟屋・宮津ひとり旅】海に浮かぶ重要伝統的建造物群・奥伊根温泉客室露天・旬の寒ブリ地魚！日本海最深部の静謐おこもり厳選3宿
-        </h1>
+        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">「伊根の舟屋・宮津ひとり旅」海に浮かぶ重要伝統的建造物群・奥伊根温泉客室露天・旬の寒ブリ地魚！日本海最深部の静謐おこもり厳選3宿</h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.12 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>

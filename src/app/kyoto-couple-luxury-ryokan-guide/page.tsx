@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kyoto-couple-luxury-ryokan-guide/" },
-  title: "【京都カップル旅行 おすすめ高級旅館＆町家ホテル】祇園・嵐山で二人きりの特別な夜を過ごす大人の宿",
+  title: "京都カップル旅行 おすすめ高級旅館＆町家ホテル：祇園・嵐山で二人きりの特別な夜を過ごす大人の宿",
   description: "大人の京都カップル旅におすすめの極上宿！坪庭を望む町家一棟貸し、嵐山の静寂に包まれる客室露天風呂付き旅館、旬の京懐石ディナーを味わう風情あふれる記念日ステイ完全ガイド。",
   keywords: ["京都カップル旅行", "おすすめ高級旅館", "町家ホテル", "祇園", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
@@ -101,10 +101,7 @@ export default function KyotoCoupleLuxuryRyokanPage() {
             <span>KYOTO LUXURY RYOKAN & MACHIYA GUIDE</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight md:leading-[1.25] text-emerald-50">
-            【京都カップル旅行 おすすめ高級旅館＆町家ホテル】<br className="hidden sm:inline" />
-            祇園・嵐山で二人きりの特別な夜を過ごす大人の宿
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight md:leading-[1.25] text-emerald-50">「京都カップル旅行 おすすめ高級旅館＆町家ホテル」<br className="hidden sm:inline" /> 祇園・嵐山で二人きりの特別な夜を過ごす大人の宿</h1>
 
           <p className="text-sm md:text-base text-emerald-100/90 max-w-2xl mx-auto leading-relaxed font-light">
             喧騒を離れ、風情ある町家の石畳や竹林のささやきに包まれる旅路。坪庭を望む半露天風呂、伝統と革新が織りなす本格京懐石、記念日にふさわしい大人の隠れ家ステイをご提案します。

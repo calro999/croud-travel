@@ -4,14 +4,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '大粒の極上丹波栗＆芳醇な秋松茸！丹波篠山・信州小布施の秋の味覚プレミアム名旅館×ふるさと納税完全ガイド【2026年最新秋旅】 | 旅宿クラウド',
+  title: '大粒の極上丹波栗＆芳醇な秋松茸！丹波篠山・信州小布施の秋の味覚プレミアム名旅館×ふるさと納税厳選ガイド | 旅宿クラウド',
   description: '10月〜11月限定の最高峰グルメ！大粒で濃厚な甘みを誇る「丹波栗・小布施栗」の焼き栗＆栗おこわと、香り高い「秋の焼き松茸・ぼたん鍋」を本場で堪能。「料理旅館 たかさご」「丹波篠山 近又」「小布施温泉 あけびの湯」など老舗名宿を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
   keywords: ["大粒の極上丹波栗", "芳醇な秋松茸！丹波篠山", "2026年最新秋旅", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-tanba-shinshu-autumn-chestnut-matsutake-gourmet-stay/"
   },
   openGraph: {
-    title: '大粒の極上丹波栗＆芳醇な秋松茸！丹波篠山・信州小布施の秋の味覚プレミアム名旅館×ふるさと納税完全ガイド【2026年最新秋旅】',
+    title: '大粒の極上丹波栗＆芳醇な秋松茸！丹波篠山・信州小布施の秋の味覚プレミアム名旅館×ふるさと納税厳選ガイド',
     description: '10月〜11月限定の最高峰グルメ！大粒で濃厚な甘みを誇る「丹波栗・小布施栗」の焼き栗＆栗おこわと、香り高い「秋の焼き松茸・ぼたん鍋」を本場で堪能。「料理旅館 たかさご」「丹波篠山 近又」「小布施温泉 あけびの湯」など老舗名宿を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-tanba-shinshu-autumn-chestnut-matsutake-gourmet-stay',
     siteName: '旅宿クラウド',
@@ -65,9 +65,7 @@ export default function FurusatoTanbaShinshuChestnutMatsutakeStayPage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               丹波篠山＆信州小布施 新栗・焼き松茸・秋の味覚美食宿特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              大粒の極上丹波栗＆芳醇な秋松茸！丹波篠山・信州小布施の秋の味覚プレミアム名旅館×ふるさと納税完全ガイド【2026年最新秋旅】
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">大粒の極上丹波栗＆芳醇な秋松茸！丹波篠山・信州小布施の秋の味覚プレミアム名旅館×ふるさと納税厳選ガイド</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               10月〜11月限定の最高峰グルメ！大粒で濃厚な甘みを誇る「丹波栗・小布施栗」の焼き栗＆栗おこわと、香り高い「秋の焼き松茸・ぼたん鍋」を本場で堪能。「料理旅館 たかさご」「丹波篠山 近又」「小布施温泉 あけびの湯」など老舗名宿を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。
             </p>

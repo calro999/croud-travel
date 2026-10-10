@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】旨味と甘み極まる幻の島豚！あぐー豚しゃぶしゃぶ＆美ら海・古宇利島リゾート5選 | 日本全国・旅宿クラウド',
+  title: '2026年：旨味と甘み極まる幻の島豚！あぐー豚しゃぶしゃぶ＆美ら海・古宇利島リゾート5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！コレステロールが低く旨味成分豊富な沖縄名物「あぐー豚」しゃぶしゃぶ会席！エメラルドグリーンの美ら海を一望する絶景リゾートホテル5選。',
   keywords: ["2026年", "美ら海", "古宇利島リゾート5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: '【2026年】旨味と甘み極まる幻の島豚！あぐー豚しゃぶしゃぶ＆美ら海・古宇利島リゾート5選',
+    title: '2026年：旨味と甘み極まる幻の島豚！あぐー豚しゃぶしゃぶ＆美ら海・古宇利島リゾート5選',
     description: '2026年最新！コレステロールが低く旨味成分豊富な沖縄名物「あぐー豚」しゃぶしゃぶ会席！エメラルドグリーンの美ら海を一望する絶景リゾートホテル5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/traditional-okinawa-agu-pork-shabu-stay',
@@ -193,9 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> 極上あぐー豚しゃぶ×美ら海オーシャンリゾート
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】旨味と甘み極まる幻の島豚！あぐー豚しゃぶしゃぶ＆美ら海・古宇利島リゾート5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」旨味と甘み極まる幻の島豚！あぐー豚しゃぶしゃぶ＆美ら海・古宇利島リゾート5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             口に入れた瞬間にとろける脂の甘みと濃厚なコクが特徴の沖縄県産「あぐー豚」。シークヮーサーぽん酢や島塩で味わう極上しゃぶしゃぶディナーと、古宇利大橋や美ら海を望むプライベートプール付きリゾートで過ごす至福の沖縄ステイ。
           </p>

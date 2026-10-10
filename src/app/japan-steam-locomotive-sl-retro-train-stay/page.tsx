@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-steam-locomotive-sl-retro-train-stay/" },
-  title: "【SL蒸気機関車＆レトロ列車旅】大井川鐵道・SLばんえつ物語＆温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "SL蒸気機関車＆レトロ列車旅：大井川鐵道・SLばんえつ物語＆温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "汽笛と白煙のノスタルジー！全国の現役SL（蒸気機関車）運行路線＆駅近温泉宿完全特化！静岡「大井川鐵道（きかんしゃトーマス号）」、福島＆新潟「SLばんえつ物語」、秩父鉄道「SLパレオエクスプレス」、寸又峡温泉・東山温泉宿を徹底解説。",
   keywords: ["SL蒸気機関車", "レトロ列車旅", "大井川鐵道", "SLばんえつ物語", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
@@ -89,9 +89,7 @@ export default function RailwayActivityHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-gradient-to-r from-cyan-400 to-blue-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block shadow">
             STEAM LOCOMOTIVE GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【SL蒸気機関車＆レトロ列車旅】大井川鐵道・SLばんえつ物語＆温泉宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「SL蒸気機関車＆レトロ列車旅」大井川鐵道・SLばんえつ物語＆温泉宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-cyan-100/90 leading-relaxed">
             勇壮な汽笛を響かせ、モクモクと煙を上げて力強く走る「SL蒸気機関車」。昭和レトロな木造客車に揺られ、車窓に流れる茶畑や渓谷。大井川鐵道のきかんしゃトーマス号や磐越西線の貴婦人。終着駅の温泉街で湯に浸かる鉄道浪漫の旅へ。
           </p>

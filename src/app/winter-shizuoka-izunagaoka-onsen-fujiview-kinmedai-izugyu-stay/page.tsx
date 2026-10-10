@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月伊豆長岡温泉】金目鯛姿煮を味わう！名宿5選',
+  title: '伊豆長岡温泉で過ごす冬の旅（11・12月）！金目鯛姿煮を味わう！名宿5選',
   description: '11月中旬から12月の初冬を迎えた中伊豆・伊豆の国市「伊豆長岡温泉」は、駿河湾からの温かな黒潮の風に守られた温暖な気候のもと。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '伊豆長岡温泉 宿泊, 富士山 見える 温泉宿, 金目鯛 姿煮 旅館, 伊豆牛 ステーキ, 三養荘 サンバレー 天坊, 伊豆パノラマパーク 碧テラス, 古奈温泉 アルカリ性単純温泉, 11月 12月 伊豆旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shizuoka-izunagaoka-onsen-fujiview-kinmedai-izugyu-stay/"
   },
   openGraph: {
-    title: '【11・12月伊豆長岡温泉】金目鯛姿煮を味わう！名宿5選',
+    title: '伊豆長岡温泉で過ごす冬の旅（11・12月）！金目鯛姿煮を味わう！名宿5選',
     description: '11月中旬から12月の初冬を迎えた中伊豆・伊豆の国市「伊豆長岡温泉」は、駿河湾からの温かな黒潮の風に守られた温暖な気候のもと。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-izunagaoka-onsen-fujiview-kinmedai-izugyu-stay',
     siteName: 'クラドトラベル',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月伊豆長岡温泉】富士山眺望と温暖避寒の古奈名湯・駿河湾朝獲れ地魚舟盛り＆伊豆牛ステーキ・金目鯛姿煮を味わう名宿5選",
+    title: "伊豆長岡温泉で過ごす冬の旅（11・12月）！富士山眺望と温暖避寒の古奈名湯・駿河湾朝獲れ地魚舟盛り＆伊豆牛ステーキ・金目鯛姿煮を味わう名宿5選",
     description: "11月中旬から12月の初冬を迎えた中伊豆・伊豆の国市「伊豆長岡温泉」は、駿河湾からの温かな黒潮の風に守られた温暖な気候のもと、澄み渡る青空にくっきりと浮かび上がる純白の冠雪富士を望む最高の季節を迎えます。平安時代末期に開湯した歴史ある「古奈温泉」と明治期に開かれた「長岡温泉」からなるこの名湯は、肌あたりが柔らかく刺激の少ない無色透明のアルカリ性単純温泉。冷え込む初冬の体を芯から優しく温め、湯上がりは肌がなめらかに潤う美肌の湯として古くから文人や旅人に愛されてきました。食卓を彩るのは、近隣の沼津港や内浦港から直送される駿河湾の初冬の海の幸。脂が乗り切った高級魚「金目鯛」のこってり甘辛い姿煮やしゃぶしゃぶ、朝獲れ地魚の豪快な舟盛り、そして年間出荷数が極めて少なく幻のブランド黒毛和牛と称される「伊豆牛」のフィレステーキ。さらに伊豆パノラマパーク「碧テラス」からの絶景富士ビューや修善寺紅葉の名残まで、初冬の伊豆路を優雅に楽しむ厳選名宿5選を徹底解説します。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -368,9 +368,7 @@ export default function ShizuokaIzunagaokaWinterPage() {
             <Sun className="w-3.5 h-3.5" />
             11月・12月初冬の中伊豆名湯＆富士山絶景特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold tracking-tight text-white leading-tight">
-            {metadata.title as string}
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold tracking-tight text-white leading-tight">{metadata.title as string}</h1>
           <p className="text-xs sm:text-sm text-stone-300 leading-relaxed pt-2">
             駿河湾の黒潮がもたらす温暖な避寒の郷、青空にくっきりと映える白銀の冠雪富士。
             脂が乗り切った金目鯛の姿煮と朝獲れ地魚舟盛り、幻の伊豆牛ステーキと肌に優しい古奈名湯に癒やされる初冬の旅。

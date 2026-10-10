@@ -4,14 +4,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '10月漁解禁！本場・伊勢志摩の活伊勢海老・あわび・松阪牛尽くし美食温泉旅館×ふるさと納税完全ガイド【2026年最新秋旅】鳥取本浦・相差 | 旅宿クラウド',
+  title: '10月漁解禁！本場・伊勢志摩の活伊勢海老・あわび・松阪牛尽くし美食温泉旅館×ふるさと納税厳選ガイド鳥取本浦・相差 | 旅宿クラウド',
   description: '10月に待ちに待った伊勢エビ漁が解禁！本場・伊勢志摩鳥羽でプリップリの伊勢海老お造り・鬼殻焼き・伊勢海老汁を味わい尽くす！自家源泉「珠光の湯」を誇る「サン浦島 悠季の里」、老舗名門「戸田家」、女性に優しい美肌宿「鳥羽ビューホテル 花真珠」。極上の秋の味覚を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
   keywords: ["10月漁解禁！本場", "伊勢志摩の活伊勢海老", "あわび", "2026年最新秋旅", "鳥取本浦", "相差", "旅宿クラウド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-iseshima-autumn-ise-lobster-gourmet-stay/"
   },
   openGraph: {
-    title: '10月漁解禁！本場・伊勢志摩の活伊勢海老・あわび・松阪牛尽くし美食温泉旅館×ふるさと納税完全ガイド【2026年最新秋旅】鳥取本浦・相差',
+    title: '10月漁解禁！本場・伊勢志摩の活伊勢海老・あわび・松阪牛尽くし美食温泉旅館×ふるさと納税厳選ガイド鳥取本浦・相差',
     description: '10月に待ちに待った伊勢エビ漁が解禁！本場・伊勢志摩鳥羽でプリップリの伊勢海老お造り・鬼殻焼き・伊勢海老汁を味わい尽くす！自家源泉「珠光の湯」を誇る「サン浦島 悠季の里」、老舗名門「戸田家」、女性に優しい美肌宿「鳥羽ビューホテル 花真珠」。極上の秋の味覚を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-iseshima-autumn-ise-lobster-gourmet-stay',
     siteName: '旅宿クラウド',
@@ -65,9 +65,7 @@ export default function FurusatoIseshimaAutumnIseLobsterStayPage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               伊勢志摩・鳥羽 10月解禁！秋の初物活伊勢海老まつり名宿特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              10月漁解禁！本場・伊勢志摩の活伊勢海老・あわび・松阪牛尽くし美食温泉旅館×ふるさと納税完全ガイド【2026年最新秋旅】鳥取本浦・相差
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">10月漁解禁！本場・伊勢志摩の活伊勢海老・あわび・松阪牛尽くし美食温泉旅館×ふるさと納税厳選ガイド鳥取本浦・相差</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               10月に待ちに待った伊勢エビ漁が解禁！本場・伊勢志摩鳥羽でプリップリの伊勢海老お造り・鬼殻焼き・伊勢海老汁を味わい尽くす！自家源泉「珠光の湯」を誇る「サン浦島 悠季の里」、老舗名門「戸田家」、女性に優しい美肌宿「鳥羽ビューホテル 花真珠」。極上の秋の味覚を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。
             </p>

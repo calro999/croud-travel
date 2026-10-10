@@ -180,9 +180,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            文明開化と昭和モダンの薫り！日本が誇る最高峰クラシックホテル＆洋館ステイ
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">文明開化と昭和モダンの薫り！日本が誇る最高峰クラシックホテル＆洋館ステイ</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             アール・デコ調のステンドグラス、格調高い彫刻が施された柱やマントルピース、代々受け継がれてきた伝統のコンソメスープやローストビーフ。国内外の要人や皇族をもてなしてきた歴史と品格が息づくクラシックホテルで、時を超えた極上のリゾートステイをお届けします。
           </p>

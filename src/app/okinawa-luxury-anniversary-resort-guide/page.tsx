@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/okinawa-luxury-anniversary-resort-guide/" },
-  title: "【沖縄・宮古島 記念日ヴィラ＆極上リゾート】プライベートプール付き客室で過ごすプロポーズ・ハネムーン旅 ｜ 日本全国・旅宿クラウド",
+  title: "沖縄・宮古島 記念日ヴィラ＆極上リゾート：プライベートプール付き客室で過ごすプロポーズ・ハネムーン旅 ｜ 日本全国・旅宿クラウド",
   description:
     "一生に一度の記念日・ハネムーン・プロポーズにふさわしい沖縄本島＆宮古島の最高峰リゾートヴィラ！プライベートプール・ジェットバス・サンセットディナー付きの極上ラグジュアリーステイガイド。",
   keywords: ["沖縄", "宮古島", "記念日ヴィラ", "極上リゾート", "ハネムーン旅", "温泉宿", "宿泊予約"],
@@ -141,12 +141,7 @@ export default function OkinawaLuxuryAnniversaryResortGuidePage() {
             </span>
           </div>
 
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight text-white drop-shadow-sm font-journal-serif">
-            【沖縄・宮古島 記念日ヴィラ＆極上リゾート】<br />
-            <span className="bg-gradient-to-r from-violet-200 via-fuchsia-100 to-amber-200 bg-clip-text text-transparent">
-              プライベートプール付き客室で過ごすプロポーズ・ハネムーン旅
-            </span>
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight text-white drop-shadow-sm font-journal-serif">「沖縄・宮古島 記念日ヴィラ＆極上リゾート」<br /> <span className="bg-gradient-to-r from-violet-200 via-fuchsia-100 to-amber-200 bg-clip-text text-transparent"> プライベートプール付き客室で過ごすプロポーズ・ハネムーン旅 </span></h1>
 
           <p className="text-sm md:text-base text-violet-100/90 leading-relaxed max-w-2xl font-medium">
             周囲の目を一切気にせず、息を呑む宮古ブルーの海と満天の星空を二人だけで独占するプライベートヴィラ。専用温水プール、テラスでの極上宮古牛ディナー、波音を聞きながら過ごす至極のリゾートステイは、ハネムーンやプロポーズ、大切な結婚記念日にふさわしい最高峰の体験を約束します。

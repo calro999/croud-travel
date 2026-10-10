@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '定山渓温泉の豊平峡ダム紅葉＆渓谷ネイチャールミナリエ！札幌奥座敷露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】北海道',
+  title: '定山渓温泉の豊平峡ダム紅葉＆渓谷ネイチャールミナリエ！札幌奥座敷露天風呂宿×ふるさと納税厳選ガイド北海道',
   description: '10月上旬〜中旬に日本有数のダム湖紅葉が広がる「札幌奥座敷・定山渓温泉＆豊平峡ダム」。環境配慮のハイブリッド電気バスで行く大パノラマや二見吊橋の紅葉ライトアップ、渓谷沿いに湧く名湯「翠蝶館」「章月グランドホテル」「翠山亭倶楽部定山渓」で道産秋鮭・いくらや富良野牛・白老牛会席を堪能。ふるさと納税で実質2,000円。',
   keywords: ["定山渓温泉の豊平峡ダム紅葉", "2026年最新秋旅", "北海道", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-jozankei-hoheikyo-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '定山渓温泉の豊平峡ダム紅葉＆渓谷ネイチャールミナリエ！札幌奥座敷露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】北海道',
+    title: '定山渓温泉の豊平峡ダム紅葉＆渓谷ネイチャールミナリエ！札幌奥座敷露天風呂宿×ふるさと納税厳選ガイド北海道',
     description: '10月上旬〜中旬に日本有数のダム湖紅葉が広がる「札幌奥座敷・定山渓温泉＆豊平峡ダム」。環境配慮のハイブリッド電気バスで行く大パノラマや二見吊橋の紅葉ライトアップ、渓谷沿いに湧く名湯「翠蝶館」「章月グランドホテル」「翠山亭倶楽部定山渓」で道産秋鮭・いくらや富良野牛・白老牛会席を堪能。ふるさと納税で実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-jozankei-hoheikyo-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -113,9 +113,7 @@ export default function FeatureArticlePage() {
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">
-            定山渓温泉の豊平峡ダム紅葉＆渓谷ネイチャールミナリエ！札幌奥座敷露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】北海道
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">定山渓温泉の豊平峡ダム紅葉＆渓谷ネイチャールミナリエ！札幌奥座敷露天風呂宿×ふるさと納税厳選ガイド北海道</h1>
           <p className="text-sm md:text-lg text-stone-200 max-w-3xl mx-auto leading-relaxed">
             豊平峡ダムの切り立つ岩壁を彩る錦秋パノラマと、定山渓渓谷美に浸る上質な札幌奥座敷ステイ。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
           </p>

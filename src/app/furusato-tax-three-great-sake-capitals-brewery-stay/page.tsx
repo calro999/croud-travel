@@ -42,9 +42,7 @@ export default function Page() {
             <span className="inline-block w-2 h-2 rounded-full bg-rose-400 animate-pulse" />
             日本三大酒どころ・美酒美食特集
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">
-            日本三大酒どころ＆酒蔵ツーリズム宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三大酒どころ＆酒蔵ツーリズム宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg md:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed font-normal">
             芳醇な香りと杜氏の魂に酔いしれる酒蔵の街！兵庫「灘五郷」宮水仕込みの男酒と神戸ヴィラフォンテーヌ三宮、京都「伏見」伏水が生むまろやかな女酒とアーバンホテル京都、広島「西条」赤瓦の酒蔵通りと吟醸酒ホテルルートイン東広島西条駅前。日本三大銘醸地（三大酒どころ）の利き酒体験と美酒美食ディナーを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。
           </p>

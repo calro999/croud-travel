@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-terraced-rice-fields-stay/" },
-  title: '日本三大美田・棚田百選＆水鏡と黄金色の日本の原風景・農村リトリート宿×ふるさと納税完全ガイド【2026年最新】星峠・白米千枚田・丸山千枚田',
+  title: '日本三大美田・棚田百選＆水鏡と黄金色の日本の原風景・農村リトリート宿×ふるさと納税厳選ガイド星峠・白米千枚田・丸山千枚田',
   description: '四季折々に輝く日本の原風景と大地の彫刻！新潟十日町「星峠の棚田」雲海と水鏡の幻想世界・まつだい芝峠温泉雲海、石川奥能登「白米千枚田」日本海へ傾斜する千枚の田とホテルルートイン輪島、三重熊野「丸山千枚田」千三百枚の精巧な石垣群と入鹿温泉ホテル瀞流荘。日本三大棚田の壮大な美景と郷土の恵みを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大棚田・日本の原風景特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大美田・棚田百選＆水鏡と黄金色の日本の原風景・農村リトリート宿×ふるさと納税完全ガイド【2026年最新】星峠・白米千枚田・丸山千枚田',
+    title: '日本三大美田・棚田百選＆水鏡と黄金色の日本の原風景・農村リトリート宿×ふるさと納税厳選ガイド星峠・白米千枚田・丸山千枚田',
     description: '四季折々に輝く日本の原風景と大地の彫刻！新潟十日町「星峠の棚田」雲海と水鏡の幻想世界・まつだい芝峠温泉雲海、石川奥能登「白米千枚田」日本海へ傾斜する千枚の田とホテルルートイン輪島、三重熊野「丸山千枚田」千三百枚の精巧な石垣群と入鹿温泉ホテル瀞流荘。日本三大棚田の壮大な美景と郷土の恵みを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-terraced-rice-fields-stay',
@@ -158,9 +158,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大棚田・日本の原風景特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大美田・棚田百選＆日本の原風景リトリート宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大美田・棚田百選＆日本の原風景リトリート宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             先人たちが山あいの急斜面を切り拓き、石を積み上げて築き上げてきた「日本三大美田（棚田百選の最高峰）」――魚沼コシヒカリの産地で早朝の雲海と棚田の水鏡が織りなす息をのむ美しさで知られる新潟十日町の「星峠の棚田」、日本海の青い水平線をバックに小さな田が幾重にも重なり夕暮れ時のイルミネーション（あぜのきらめき）が幻想的な石川能登の「白米千枚田」、そして千三百枚もの石積みが山肌一面を覆い「一枚足りないと思ったら笠の下にあった」と言われるほどの壮大さを誇る三重熊野の「丸山千枚田」。春の水鏡、初夏の新緑、秋の黄金色の稲穂、冬の雪景色と、訪れるたびに日本の美しさを再発見させてくれます。棚田を見渡す温泉宿で寛ぎ、魚沼コシヒカリ・能登牛・熊野地鶏を味わう特別な旅を楽天ふるさと納税でお楽しみください。
           </p>

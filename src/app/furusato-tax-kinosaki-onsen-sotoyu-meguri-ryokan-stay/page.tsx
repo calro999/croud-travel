@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '浴衣と下駄で七つの外湯を巡る！城崎温泉の柳並木通り＆最高峰但馬牛・カニ名宿×ふるさと納税完全攻略ガイド【2026年最新】招月庭・小宿縁・つちや旅館',
+  title: '浴衣と下駄で七つの外湯を巡る！城崎温泉の柳並木通り＆最高峰但馬牛・カニ名宿×ふるさと納税極上旅ガイド招月庭・小宿縁・つちや旅館',
   description: '「駅は玄関、道路は廊下、宿は客室、外湯は大浴場。」！浴衣に下駄を鳴らして巡る城崎温泉の七湯。「西村屋ホテル招月庭」「但馬牛極みの宿 小宿 縁」「城崎温泉 つちや旅館」を、兵庫県豊岡市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。外湯無料パス、五万坪森林庭園、但馬牛ステーキ、カニ料理を満喫。',
   keywords: ["最高峰但馬牛", "2026年最新", "招月庭", "小宿縁", "つちや旅館", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kinosaki-onsen-sotoyu-meguri-ryokan-stay/",
   },
   openGraph: {
-    title: '浴衣と下駄で七つの外湯を巡る！城崎温泉の柳並木通り＆最高峰但馬牛・カニ名宿×ふるさと納税完全攻略ガイド【2026年最新】招月庭・小宿縁・つちや旅館',
+    title: '浴衣と下駄で七つの外湯を巡る！城崎温泉の柳並木通り＆最高峰但馬牛・カニ名宿×ふるさと納税極上旅ガイド招月庭・小宿縁・つちや旅館',
     description: '「駅は玄関、道路は廊下、宿は客室、外湯は大浴場。」！浴衣に下駄を鳴らして巡る城崎温泉の七湯。「西村屋ホテル招月庭」「但馬牛極みの宿 小宿 縁」「城崎温泉 つちや旅館」を、兵庫県豊岡市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。外湯無料パス、五万坪森林庭園、但馬牛ステーキ、カニ料理を満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kinosaki-onsen-sotoyu-meguri-ryokan-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoKinosakiSotoyuMeguriStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           全国屈指の温泉街情緒！城崎温泉 外湯めぐり特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          浴衣と下駄で七つの外湯を巡る！城崎温泉の柳並木通り＆最高峰但馬牛・カニ名宿×ふるさと納税完全攻略ガイド【2026年最新】招月庭・小宿縁・つちや旅館
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">浴衣と下駄で七つの外湯を巡る！城崎温泉の柳並木通り＆最高峰但馬牛・カニ名宿×ふるさと納税極上旅ガイド招月庭・小宿縁・つちや旅館</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoKinosakiSotoyuMeguriStayPage() {
               かに・但馬牛など四季折々の味覚と充実したお風呂。五万坪の森林に囲まれ寛ぎのひとときを。無料駐車場有
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “食事の美味しさとスタッフの温かい対応に感動食事の美味しさに何より驚きました。さすが西村屋だなと思いました。夕食はもちろんのこと、朝食ビュッフェで何気なく並んでいるおばんざいも美味しくて、子供が大き… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D14007%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoKinosakiSotoyuMeguriStayPage() {
               日本で唯一の但馬玄一頭買い肉専門の宿。貸切風呂はじめ湯上りラウンジはビールやワインが楽しめる大人の宿
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “但馬牛のコース料理と親切な接客に大満足但馬牛の料理が、コースで出来たてで美味しく食べれて、とても良かったです。従業員の方々も、とても親切で良かったです。
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D144559%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoKinosakiSotoyuMeguriStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               2025温泉宿総選挙全国第3位　 但馬牛をはじめ、旬を極める料理旅館
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “記念日のサプライズ対応と料理に大満足今回は記念日旅行で利用させていただきました。サプライズも考えていたので、宿泊前から旅館の方と連絡を取らせていただいていましたがその際からとても親切で当日がとても… ”
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

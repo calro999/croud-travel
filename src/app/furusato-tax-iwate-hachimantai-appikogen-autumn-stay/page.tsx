@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            岩手・八幡平アスピーテラインの紅葉パノラマ＆安比高原！秘湯名湯と前沢牛・杜陵ポーク
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">岩手・八幡平アスピーテラインの紅葉パノラマ＆安比高原！秘湯名湯と前沢牛・杜陵ポーク</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の岩手・八幡平＆安比高原特集！日本屈指の紅葉ドライブウェイ「八幡平アスピーテライン」と樹海ラインの圧倒的紅葉グラデーション、大自然に抱かれた名湯・八幡平温泉郷、前沢牛や岩手黒毛和牛・杜陵ポークをふるさと納税トラベルクーポンでお得に味わう東北の秋旅。
           </p>

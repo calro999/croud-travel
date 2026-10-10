@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-columnar-joints-gorges-stay/" },
-  title: '日本三大柱状節理峡谷＆幾何学絶壁とエメラルド清流名湯宿×ふるさと納税完全ガイド【2026年最新】清津峡・高千穂峡・層雲峡',
+  title: '日本三大柱状節理峡谷＆幾何学絶壁とエメラルド清流名湯宿×ふるさと納税厳選ガイド清津峡・高千穂峡・層雲峡',
   description: 'マグマが冷え固まり生まれた地球の彫刻！新潟十日町「清津峡」巨大柱状節理と水鏡アートの清津峡湯元温泉清津館、宮崎「高千穂峡」阿蘇溶岩が刻んだ神話峡谷と名旅館大和屋、北海道「層雲峡」大雪山麓に連なる24kmの大絶壁と朝陽亭。日本三大柱状節理峡谷（三大奇岩峡谷）の圧倒的ダイナミズムを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大柱状節理・峡谷ジオ特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大柱状節理峡谷＆幾何学絶壁とエメラルド清流名湯宿×ふるさと納税完全ガイド【2026年最新】清津峡・高千穂峡・層雲峡',
+    title: '日本三大柱状節理峡谷＆幾何学絶壁とエメラルド清流名湯宿×ふるさと納税厳選ガイド清津峡・高千穂峡・層雲峡',
     description: 'マグマが冷え固まり生まれた地球の彫刻！新潟十日町「清津峡」巨大柱状節理と水鏡アートの清津峡湯元温泉清津館、宮崎「高千穂峡」阿蘇溶岩が刻んだ神話峡谷と名旅館大和屋、北海道「層雲峡」大雪山麓に連なる24kmの大絶壁と朝陽亭。日本三大柱状節理峡谷（三大奇岩峡谷）の圧倒的ダイナミズムを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-columnar-joints-gorges-stay',
@@ -155,9 +155,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大柱状節理・峡谷ジオ特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大柱状節理峡谷＆絶景名湯宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大柱状節理峡谷＆絶景名湯宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             太古の火山活動とマグマの急冷によって規則正しい多角柱の割れ目が刻まれ、その後の河川の浸食によって生まれた自然の驚異「日本三大柱状節理峡谷」――国の名勝・天然記念物に指定され、巨大な岩壁トンネル越しに水鏡アートが広がる新潟の「清津峡」、阿蘇山の火砕流が急冷して形成され、真名井の滝がエメラルドの川面に注ぎ込む神話の郷・宮崎の「高千穂峡」、そして大雪山国立公園の表玄関として石狩川を挟み約24kmにわたって高さ200m級の断崖絶壁が連なる北海道の「層雲峡」。幾何学的な岩肌と滝のしぶき、四季折々の紅葉や新緑が織りなすパノラマは、息をのむ美しさです。渓谷沿いの秘湯旅館や大型温泉ホテルを拠点に、魚沼コシヒカリ・高千穂牛・北海道の山海の幸を堪能する特別な休日を楽天ふるさと納税でお楽しみください。
           </p>

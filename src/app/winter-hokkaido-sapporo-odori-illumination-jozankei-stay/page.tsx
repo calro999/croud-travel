@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月北海道】定山渓雪見露天！名宿5選',
+  title: '11・12・1月北海道：定山渓雪見露天！名宿5選',
   description: '冬の札幌は大通公園を幻想的な光で埋め尽くす「さっぽろホワイトイルミネーション」や「ミュンヘン・クリスマス市」、すすきのの活気。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '札幌 ホテル, 定山渓温泉 旅館, さっぽろホワイトイルミネーション, ミュンヘンクリスマス市, JRタワーホテル日航札幌, 京王プラザホテル札幌, 札幌グランドホテル, 定山渓第一寶亭留 翠山亭, 章月グランドホテル, 11月 12月 1月 北海道 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hokkaido-sapporo-odori-illumination-jozankei-stay/"
   },
   openGraph: {
-    title: '【11・12・1月北海道】定山渓雪見露天！名宿5選',
+    title: '11・12・1月北海道：定山渓雪見露天！名宿5選',
     description: '冬の札幌は大通公園を幻想的な光で埋め尽くす「さっぽろホワイトイルミネーション」や「ミュンヘン・クリスマス市」、すすきのの活気。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-sapporo-odori-illumination-jozankei-stay',
     siteName: '地域の宿探訪',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月北海道】さっぽろホワイトイルミネーション＆定山渓雪見露天！札幌味噌ラーメンと北の味覚に酔いしれる名宿5選",
+    title: "11・12・1月北海道：さっぽろホワイトイルミネーション＆定山渓雪見露天！札幌味噌ラーメンと北の味覚に酔いしれる名宿5選",
     description: "冬の札幌は大通公園を幻想的な光で埋め尽くす「さっぽろホワイトイルミネーション」や「ミュンヘン・クリスマス市」、すすきのの活気、そして車で約50分の奥座敷・定山渓温泉の雪見露天風呂が同時に楽しめる絶景シーズン。本場の熱々札幌味噌ラーメンや道産海鮮丼、シメパフェ文化まで満喫できる冬の北海道王道トリップ。楽天APIから最新取得した札幌駅・大通・定山渓の極上宿5選を徹底特集します。",
     images: ["https://img.travel.rakuten.co.jp/share/HOTEL/76941/76941.jpg"]
   }
@@ -232,10 +232,7 @@ export default function SapporoJozankeiWinterPage() {
             <span>11月・12月・1月冬の北海道厳選特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">
-            さっぽろホワイトイルミネーション＆定山渓雪見露天！<br className="hidden sm:inline" />
-            札幌味噌ラーメンと北の味覚に酔いしれる名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">さっぽろホワイトイルミネーション＆定山渓雪見露天！<br className="hidden sm:inline" /> 札幌味噌ラーメンと北の味覚に酔いしれる名宿5選</h1>
 
           <p className="text-slate-300 text-sm sm:text-base lg:text-lg leading-relaxed max-w-3xl mb-8">
             初雪が舞い降りる11月下旬から白銀のピークを迎える1月にかけて、札幌の街は大通公園を彩る幻想的な光の絨毯「さっぽろホワイトイルミネーション」とドイツの香りが漂う「ミュンヘン・クリスマス市」で一年で最もロマンチックな季節を迎えます。都会の光の祭典と熱気あふれるすすきのグルメを堪能した後は、原生林に抱かれた札幌の奥座敷・定山渓温泉へ。しんしんと降り積もる雪を眺めながらの名湯かけ流し露天風呂は、北国ならではの極上体験です。

@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            熊本・人吉温泉と球磨川の秋霧！国宝青井阿蘇神社紅葉＆球磨焼酎・鮎の塩焼き会席
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">熊本・人吉温泉と球磨川の秋霧！国宝青井阿蘇神社紅葉＆球磨焼酎・鮎の塩焼き会席</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の熊本・人吉＆球磨特集！日本三大急流・球磨川を包む幻想的な秋の「人吉霧」、国宝・青井阿蘇神社の秋風情、開湯700年の歴史を誇る美肌名湯「人吉温泉」、球磨川の落ち鮎や黒毛和牛・500年の歴史を持つ本場球磨焼酎をふるさと納税トラベルで味わう南九州の歴史旅。
           </p>

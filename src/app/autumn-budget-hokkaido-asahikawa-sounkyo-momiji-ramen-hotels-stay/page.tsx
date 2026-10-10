@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【旭川】日本一早い大雪山紅葉拠点＆旭川ラーメン！2,000円台〜格安ホテル5選',
+  title: '旭川：日本一早い大雪山紅葉拠点＆旭川ラーメン！2,000円台〜格安ホテル5選',
   description: '日本一早く色づく大雪山・層雲峡の紅葉狩り拠点に最適！ラードが張った熱々の醤油旭川ラーメンや名物塩ホルモン。旭川駅前で1泊2,000円台〜3,000円台で泊まれる格安・高評価ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetAsahikawaHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>日本一早い大雪山紅葉＆本場旭川ラーメン</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【旭川】大雪山紅葉拠点＆名物旭川ラーメン！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「旭川」大雪山紅葉拠点＆名物旭川ラーメン！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-teal-100/90 max-w-2xl mx-auto leading-relaxed">
             日本一早く見頃を迎える大雪山旭岳や層雲峡の燃えるような紅葉絵巻！肌寒くなる秋の夜は、表面をラードが覆い冷めない熱々の濃厚醤油「旭川ラーメン」や、炭火で香ばしく焼き上げる名物塩ホルモンに舌鼓！旭川駅前で2,000円台から泊まれる超高コスパ宿をご紹介。
           </p>

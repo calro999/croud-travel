@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            雲仙普賢岳の紅葉パノラマ（国天然記念物）＆雲仙地獄の湯けむり白濁硫黄泉・長崎和牛ステーキ
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">雲仙普賢岳の紅葉パノラマ（国天然記念物）＆雲仙地獄の湯けむり白濁硫黄泉・長崎和牛ステーキ</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             仁田峠ロープウェイから望む普賢岳の圧巻紅葉。雲仙地獄の白濁硫黄泉と極上長崎和牛を堪能する秋の長崎路。
           </p>

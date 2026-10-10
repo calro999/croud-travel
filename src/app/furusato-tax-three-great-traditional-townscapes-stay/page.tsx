@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-traditional-townscapes-stay/" },
-  title: '日本三大伝統的町並み＆小江戸・白壁土蔵の重伝建と歴史情緒宿×ふるさと納税完全ガイド【2026年最新】倉敷・川越・竹原',
+  title: '日本三大伝統的町並み＆小江戸・白壁土蔵の重伝建と歴史情緒宿×ふるさと納税厳選ガイド倉敷・川越・竹原',
   description: '往時の繁栄と美しい商家建築が息づく重要伝統的建造物群保存地区！岡山「倉敷美観地区」白壁土蔵となまこ壁・倉敷川沿いの老舗料理旅館鶴形、埼玉「小江戸川越」黒漆喰の蔵造り商家と時の鐘・川越プリンスホテル、広島「安芸の小京都・竹原」製塩と酒造りの重伝建・グリーンスカイホテル竹原。格子戸の路地散策と地酒、名物料理を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大町並み・重伝建特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大伝統的町並み＆小江戸・白壁土蔵の重伝建と歴史情緒宿×ふるさと納税完全ガイド【2026年最新】倉敷・川越・竹原',
+    title: '日本三大伝統的町並み＆小江戸・白壁土蔵の重伝建と歴史情緒宿×ふるさと納税厳選ガイド倉敷・川越・竹原',
     description: '往時の繁栄と美しい商家建築が息づく重要伝統的建造物群保存地区！岡山「倉敷美観地区」白壁土蔵となまこ壁・倉敷川沿いの老舗料理旅館鶴形、埼玉「小江戸川越」黒漆喰の蔵造り商家と時の鐘・川越プリンスホテル、広島「安芸の小京都・竹原」製塩と酒造りの重伝建・グリーンスカイホテル竹原。格子戸の路地散策と地酒、名物料理を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-traditional-townscapes-stay',
@@ -154,9 +154,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大町並み・重伝建特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大伝統的町並み＆白壁土蔵・小江戸の歴史情緒宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大伝統的町並み＆白壁土蔵・小江戸の歴史情緒宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             江戸から明治・大正にかけて商業や海運・産業の中心として栄え、今なお息づく暮らしの美が国の「重要伝統的建造物群保存地区」として大切に守られている「日本の三大伝統的町並み」――白壁の土蔵となまこ壁、川沿いの柳並木が詩情を誘う岡山の「倉敷美観地区」、大火に耐えるため耐火建築として建てられた黒漆喰の蔵造り商家が連なる埼玉の「小江戸・川越」、そして瀬戸内海の製塩と酒造りで財を成した豪商たちの重厚な邸宅が立ち並ぶ広島の「安芸の小京都・竹原」。夕暮れ時に行灯や街灯が灯る静かな町並みを歩き、歴史を感じる宿で土地の美味を味わう情緒豊かな旅を楽天ふるさと納税でお楽しみください。
           </p>

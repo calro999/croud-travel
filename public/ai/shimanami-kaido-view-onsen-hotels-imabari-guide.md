@@ -1,4 +1,4 @@
-# 【しまなみ海道】瀬戸内海を一望する絶景温泉宿！今治・来島海峡大橋の夕景と海鮮会席｜失敗しないおすすめ宿ガイド
+# しまなみ海道：瀬戸内海を一望する絶景温泉宿！今治・来島海峡大橋の夕景と海鮮会席｜失敗しないおすすめ宿ガイド
 
 - URL: https://croud-travel.pages.dev/posts/shimanami-kaido-view-onsen-hotels-imabari-guide/
 - 宿泊施設名: 天然温泉 海道の湯 スーパーホテル今治

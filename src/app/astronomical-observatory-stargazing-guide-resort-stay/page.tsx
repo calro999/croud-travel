@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/astronomical-observatory-stargazing-guide-resort-stay/" },
-  title: "【天体望遠鏡ドーム＆星空案内人（星ソムリエ）常駐宿】本格天体観測 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "天体望遠鏡ドーム＆星空案内人（星ソムリエ）常駐宿：本格天体観測 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "宇宙に一番近いホテル！大型天体望遠鏡ドーム＆星ソムリエ常駐の星空リゾート宿完全特化！長野八ヶ岳・野辺山、南信州阿智村、美ヶ原高原、福島浄土平、月のクレーター・土星の輪・すばる観察、夜間スターウォッチングツアー宿を徹底解説。",
   keywords: ["天体望遠鏡ドーム", "星空案内人（星ソムリエ）常駐宿", "本格天体観測", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -89,9 +89,7 @@ export default function StargazingHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-gradient-to-r from-cyan-400 to-indigo-300 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block shadow">
             OBSERVATORY & STAR SOMMELIER GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【天体望遠鏡ドーム＆星空案内人（星ソムリエ）常駐宿】本格天体観測 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「天体望遠鏡ドーム＆星空案内人（星ソムリエ）常駐宿」本格天体観測 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-indigo-100/90 leading-relaxed">
             漆黒の夜空を貫く満天の天の川。ホテルの屋上や専用ドームに設置された本格的な大型天体望遠鏡。「星空案内人（星ソムリエ）」のわかりやすくロマンチックな星座解説を聞きながら、肉眼では見えない土星の輪や木星の縞模様、月面のクレーターを覗き込む感動の宇宙体験ステイへ。
           </p>

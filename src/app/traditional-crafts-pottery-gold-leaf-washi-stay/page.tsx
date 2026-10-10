@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/traditional-crafts-pottery-gold-leaf-washi-stay/" },
-  title: '伝統工芸体験宿完全ガイド【金沢金箔・越前和紙・有田焼陶芸ステイ】 | クラウドトラベル',
+  title: '伝統工芸体験宿厳選ガイド「金沢金箔・越前和紙・有田焼陶芸ステイ」 | クラウドトラベル',
   description: '金沢の金箔貼り＆九谷焼絵付け、福井の越前和紙漉き・越前焼、佐賀の有田焼・波佐見焼の窯元巡りを特集。職人の手仕事を間近で体感し、自作の器や工芸品を持ち帰る特別なクラフトリゾート。',
   openGraph: {
-    title: '伝統工芸体験宿完全ガイド【金沢金箔・越前和紙・有田焼陶芸ステイ】 | クラウドトラベル',
+    title: '伝統工芸体験宿厳選ガイド「金沢金箔・越前和紙・有田焼陶芸ステイ」 | クラウドトラベル',
     description: '金沢の金箔貼り＆九谷焼絵付け、福井の越前和紙漉き・越前焼、佐賀の有田焼・波佐見焼の窯元巡りを特集。職人の手仕事を間近で体感し、自作の器や工芸品を持ち帰る特別なクラフトリゾート。',
     type: 'article',
   },
@@ -59,9 +59,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             伝統工芸・陶芸体験特化
           </div>
-          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            伝統工芸体験宿完全ガイド【金沢金箔・越前和紙・有田焼陶芸ステイ】
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">伝統工芸体験宿厳選ガイド「金沢金箔・越前和紙・有田焼陶芸ステイ」</h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl">
             金沢の1万分の1ミリまで薄く打ち延ばされた金箔工芸、千五百年の歴史を持つ越前和紙の手漉き体験、そして有田・波佐見の登り窯と白磁の器作り。見るだけでなく、名工の手ほどきを受けながら自分だけの一品を作り上げる贅沢。館内の調度品や料理を彩る器にも最高峰の工芸品が使われ、日本の職人魂と手仕事の温もりに浸るクリエイティブな旅へご案内します。
           </p>

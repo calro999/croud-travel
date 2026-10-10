@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/ishikawa-awazu-solo-retreat-heritage-onsen-stay/" },
-  title: '【加賀温泉郷・粟津温泉ひとり旅・開湯1300年最古の湯おこもり】自家掘り純度100%源泉・加賀会席＆のどぐろ・那谷寺の美林！北陸名湯厳選3宿',
+  title: '加賀温泉郷・粟津温泉ひとり旅・開湯1300年最古の湯おこもり：自家掘り純度100%源泉・加賀会席＆のどぐろ・那谷寺の美林！北陸名湯厳選3宿',
   description: '養老2年（718年）泰澄大師が開湯した加賀温泉郷最古の名湯・粟津温泉！露天風呂付き客室と創業700年の贅を尽くした加賀料理が評判の「のとや」、世界屈指の歴史を誇る老舗旅館「法師」、アットホームな居心地と良心的な価格の「大くぼ旅館」を楽天API最新データに基づき徹底比較。',
   keywords: '粟津温泉 一人旅 宿,粟津 ホテル 一人 温泉,のとや 粟津,法師 粟津温泉,大くぼ旅館,加賀温泉郷 ひとり旅 おこもり',
   openGraph: {
-    title: '【加賀温泉郷・粟津温泉ひとり旅・開湯1300年最古の湯おこもり】自家掘り純度100%源泉・加賀会席＆のどぐろ・那谷寺の美林！北陸名湯厳選3宿',
+    title: '加賀温泉郷・粟津温泉ひとり旅・開湯1300年最古の湯おこもり：自家掘り純度100%源泉・加賀会席＆のどぐろ・那谷寺の美林！北陸名湯厳選3宿',
     description: '養老2年（718年）泰澄大師が開湯した加賀温泉郷最古の名湯・粟津温泉！露天風呂付き客室と創業700年の贅を尽くした加賀料理が評判の「のとや」、世界屈指の歴史を誇る老舗旅館「法師」、アットホームな居心地と良心的な価格の「大くぼ旅館」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/ishikawa-awazu-solo-retreat-heritage-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【加賀温泉郷・粟津温泉ひとり旅・開湯1300年最古の湯おこもり】自家掘り純度100%源泉・加賀会席＆のどぐろ・那谷寺の美林！北陸名湯厳選3宿',
+    headline: '加賀温泉郷・粟津温泉ひとり旅・開湯1300年最古の湯おこもり：自家掘り純度100%源泉・加賀会席＆のどぐろ・那谷寺の美林！北陸名湯厳選3宿',
     description: '養老2年（718年）泰澄大師が開湯した加賀温泉郷最古の名湯・粟津温泉！露天風呂付き客室と創業700年の贅を尽くした加賀料理が評判の「のとや」、世界屈指の歴史を誇る老舗旅館「法師」、アットホームな居心地と良心的な価格の「大くぼ旅館」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             石川・粟津温泉ひとり旅＆加賀最古名湯おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【加賀温泉郷・粟津温泉ひとり旅・開湯1300年最古の湯おこもり】自家掘り純度100%源泉・加賀会席＆のどぐろ・那谷寺の美林！北陸名湯厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「加賀温泉郷・粟津温泉ひとり旅・開湯1300年最古の湯おこもり」自家掘り純度100%源泉・加賀会席＆のどぐろ・那谷寺の美林！北陸名湯厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

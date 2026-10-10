@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kumamoto-kurokawa-autumn-solo-retreat-onsen-hopping-stay/" },
-  title: '【10月・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入湯手形めぐりおこもり】雑木林の秘湯露天・囲炉裏会席・肥後牛炭火焼き！阿蘇山麓リトリート厳選3宿',
+  title: '・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入湯手形めぐりおこもりで過ごす冬の旅（10月）！雑木林の秘湯露天・囲炉裏会席・肥後牛炭火焼き！阿蘇山麓リトリート厳選3宿',
   description: '10月下旬〜11月中旬は阿蘇山麓が秋色に染まるベストシーズン！「街全体が一つの宿」として風情を守り続ける熊本・黒川温泉。原生林に佇み三千坪の敷地に薬師の湯を湛える最高峰の隠れ家「旅館 山河」、温泉街の中心で立ち寄り湯も人気の「旅館 美里」、あたたかな木造の温もりと絶品料理の「旅館 壱の井」を楽天API最新データに基づき徹底比較。',
   keywords: '黒川温泉 一人旅 宿,黒川温泉 10月 11月 紅葉 温泉,旅館 山河 一人旅,旅館 美里,旅館 壱の井,黒川温泉 入湯手形 一人旅 おこもり',
   openGraph: {
-    title: '【10月・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入湯手形めぐりおこもり】雑木林の秘湯露天・囲炉裏会席・肥後牛炭火焼き！阿蘇山麓リトリート厳選3宿',
+    title: '・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入湯手形めぐりおこもりで過ごす冬の旅（10月）！雑木林の秘湯露天・囲炉裏会席・肥後牛炭火焼き！阿蘇山麓リトリート厳選3宿',
     description: '10月下旬〜11月中旬は阿蘇山麓が秋色に染まるベストシーズン！「街全体が一つの宿」として風情を守り続ける熊本・黒川温泉。原生林に佇み三千坪の敷地に薬師の湯を湛える最高峰の隠れ家「旅館 山河」、温泉街の中心で立ち寄り湯も人気の「旅館 美里」、あたたかな木造の温もりと絶品料理の「旅館 壱の井」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/kumamoto-kurokawa-autumn-solo-retreat-onsen-hopping-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【10月・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入湯手形めぐりおこもり】雑木林の秘湯露天・囲炉裏会席・肥後牛炭火焼き！阿蘇山麓リトリート厳選3宿',
+    headline: '・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入湯手形めぐりおこもりで過ごす冬の旅（10月）！雑木林の秘湯露天・囲炉裏会席・肥後牛炭火焼き！阿蘇山麓リトリート厳選3宿',
     description: '10月下旬〜11月中旬は阿蘇山麓が秋色に染まるベストシーズン！「街全体が一つの宿」として風情を守り続ける熊本・黒川温泉。原生林に佇み三千坪の敷地に薬師の湯を湛える最高峰の隠れ家「旅館 山河」、温泉街の中心で立ち寄り湯も人気の「旅館 美里」、あたたかな木造の温もりと絶品料理の「旅館 壱の井」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             熊本黒川温泉・10-11月秋の阿蘇紅葉＆入湯手形ひとり旅おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【10月・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入湯手形めぐりおこもり】雑木林の秘湯露天・囲炉裏会席・肥後牛炭火焼き！阿蘇山麓リトリート厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入湯手形めぐりおこもりで過ごす冬の旅（10月）！雑木林の秘湯露天・囲炉裏会席・肥後牛炭火焼き！阿蘇山麓リトリート厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

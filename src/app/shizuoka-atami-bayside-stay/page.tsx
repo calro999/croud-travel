@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/shizuoka-atami-bayside-stay/" },
-  title: "【静岡・熱海温泉】海上花火＆サンビーチ・相模湾オーシャンビュー宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "静岡・熱海温泉：海上花火＆サンビーチ・相模湾オーシャンビュー宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "都心から新幹線45分！熱海温泉エリア完全特化！年間10回以上開催の熱海海上花火大会、熱海サンビーチ、来宮神社（大楠）、アカオハーブ＆ローズガーデンと相模湾地魚・金目鯛が自慢の温泉ホテルを徹底解説。",
   keywords: ["静岡", "熱海温泉", "海上花火", "サンビーチ", "相模湾オーシャンビュー宿", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             ATAMI ONSEN MICRO GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【静岡・熱海温泉】海上花火＆サンビーチ・相模湾オーシャンビュー宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「静岡・熱海温泉」海上花火＆サンビーチ・相模湾オーシャンビュー宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             青い相模湾とすり鉢状の斜面に広がる熱海の街並み。夜空を彩る大迫力の海上花火大会と、日本屈指の湧出量を誇る美肌温泉。海風を感じながら極上のリゾートステイへ。
           </p>

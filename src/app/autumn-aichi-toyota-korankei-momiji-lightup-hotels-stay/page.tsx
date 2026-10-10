@@ -3,11 +3,11 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【秋の香嵐渓】4000本のもみじ狩りと巴川ライトアップ！三河の名湯と美食を味わうおすすめ宿5選【2026最新】',
+  title: '秋の香嵐渓：4000本のもみじ狩りと巴川ライトアップ！三河の名湯と美食を味わうおすすめ宿5選「2026最新」',
   description: '東海随一の紅葉名所・足助「香嵐渓」の約4,000本のもみじと巴川に架かる待月橋！黄金色に輝く夜間ライトアップと名物五平餅。天然ラドン温泉の猿投温泉や足助の隠れ家宿など厳選5選。木もれ日、金泉閣、川澄屋を徹底比較！',
   keywords: '香嵐渓 紅葉, 香嵐渓 もみじまつり, 待月橋 ライトアップ, 猿投温泉 金泉閣, 足助 旅館, 豊田市 宿',
   openGraph: {
-    title: '【秋の香嵐渓】4000本のもみじ狩りと巴川ライトアップ！三河の名湯と美食を味わうおすすめ宿5選【2026最新】',
+    title: '秋の香嵐渓：4000本のもみじ狩りと巴川ライトアップ！三河の名湯と美食を味わうおすすめ宿5選「2026最新」',
     description: '東海随一の紅葉名所・足助「香嵐渓」の約4,000本のもみじと待月橋ライトアップ！三河の名湯宿5選。',
     type: 'article',
     url: 'https://croud-travel.com/autumn-aichi-toyota-korankei-momiji-lightup-hotels-stay',
@@ -32,9 +32,7 @@ export default function KorankeiAutumnPage() {
             <span className="px-3 py-1 bg-amber-600 text-white text-xs font-bold rounded-full">秋の愛知・東海特集</span>
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">見頃・まつり: 11月上旬〜11月下旬</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">
-            【秋の香嵐渓】4000本のもみじ狩りと巴川ライトアップ！三河の名湯と美食を味わうおすすめ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の香嵐渓」4000本のもみじ狩りと巴川ライトアップ！三河の名湯と美食を味わうおすすめ宿5選</h1>
           <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
             寛永年間に香積寺の三栄和尚が一筋の祈りを込めて植えたのが始まりとされる香嵐渓の紅葉。清流・巴川を黄金と真紅に染める4,000本のもみじトンネルと、三河の名湯・天然ラドン温泉に癒やされる秋の贅沢ステイをご紹介します。
           </p>

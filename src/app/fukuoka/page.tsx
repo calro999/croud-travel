@@ -28,7 +28,7 @@ interface RakutenCategoryData {
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://croud-travel.pages.dev";
 
 export const metadata: Metadata = {
-  title: "【福岡・博多旅行 完全計画ガイド 2026】1泊2日・2泊3日モデルコース＆博多駅・天神・中洲屋台・もつ鍋水炊きグルメ・温泉宿 ｜ 旅宿クラウド",
+  title: "福岡・博多旅行 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆博多駅・天神・中洲屋台・もつ鍋水炊きグルメ・温泉宿 ｜ 旅宿クラウド",
   description:
     "福岡・博多旅行の計画を完全サポート！1泊2日/2泊3日モデルコース、中洲屋台・もつ鍋・ラーメン食べ歩き、博多駅直結ホテル、明太子朝食バイキング宿から温泉旅館までおすすめの宿泊プランまで徹底網羅。",
   keywords: ["福岡", "博多旅行", "完全計画ガイド", "2026", "1泊2日", "2泊3日モデルコース", "博多駅"],
@@ -98,12 +98,7 @@ export default function FukuokaHubPage() {
           </span>
         </div>
 
-        <h1 className="text-3xl md:text-5xl font-black font-journal-serif leading-tight text-white">
-          【福岡・博多旅行 完全ガイド】<br />
-          <span className="bg-gradient-to-r from-amber-200 via-red-200 to-amber-100 bg-clip-text text-transparent">
-            屋台・もつ鍋グルメ・太宰府・糸島＆博多駅周辺ホテル
-          </span>
-        </h1>
+        <h1 className="text-3xl md:text-5xl font-black font-journal-serif leading-tight text-white">「福岡・博多旅行 厳選ガイド」<br /> <span className="bg-gradient-to-r from-amber-200 via-red-200 to-amber-100 bg-clip-text text-transparent"> 屋台・もつ鍋グルメ・太宰府・糸島＆博多駅周辺ホテル </span></h1>
 
         <p className="text-amber-100/90 text-xs md:text-sm max-w-3xl leading-relaxed font-medium">
           アジアの玄関口・グルメ都市福岡。「空港から博多駅へのアクセスは？」「中洲屋台や太宰府天満宮・糸島の回り方は？」「明太子食べ放題朝食の宿は？」を縦掘りし、おすすめの宿泊施設情報で繋ぐ総合ガイド。

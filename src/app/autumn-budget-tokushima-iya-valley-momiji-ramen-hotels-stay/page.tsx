@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【徳島】大歩危・祖谷渓の秘境紅葉と阿波尾鶏！4,000円台〜泊まれる格安ホテル5選',
+  title: '徳島：大歩危・祖谷渓の秘境紅葉と阿波尾鶏！4,000円台〜泊まれる格安ホテル5選',
   description: '日本三大秘境「祖谷渓のかずら橋」や大歩危峡の絶壁紅葉！甘辛スープの徳島ラーメンや地鶏阿波尾鶏を堪能。徳島駅前で1泊4,000円台から泊まれる格安・高評価ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetTokushimaHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>日本三大秘境祖谷の紅葉＆名物阿波尾鶏</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【徳島】祖谷渓の秘境紅葉＆徳島ラーメン！<br className="hidden sm:inline" />4,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「徳島」祖谷渓の秘境紅葉＆徳島ラーメン！<br className="hidden sm:inline" />4,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-teal-100/90 max-w-2xl mx-auto leading-relaxed">
             エメラルドグリーンの吉野川と燃えるような紅葉が崖を彩る「大歩危・祖谷渓」。祖谷のかずら橋を渡るスリルと錦秋の絶景を味わった後は、徳島駅前で豚骨醤油スープと生卵が絡む「徳島ラーメン」やコク豊かな「地鶏阿波尾鶏」に舌鼓！4,000円台〜の優良ホテルをご紹介。
           </p>

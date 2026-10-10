@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/sapporo-shime-parfait-late-night-guide/" },
-  title: "【札幌 すすきの夜パフェ＆深夜ラーメンおすすめ店】深夜2時まで営業！飲んだ後のシメ文化完全攻略",
+  title: "札幌 すすきの夜パフェ＆深夜ラーメンおすすめ店：深夜2時まで営業！飲んだ後のシメ文化完全攻略",
   description:
     "札幌独自の夜文化「シメパフェ」の名店を厳選！旬の北海道フルーツとアイスが美しいアートパフェ、深夜行列のできる味噌ラーメン、すすきのの繁華街から歩いて帰れる大浴場＆サウナ付きホテル。",
   keywords: ["札幌", "すすきの夜パフェ", "深夜ラーメンおすすめ店", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
@@ -195,12 +195,7 @@ export default function SapporoShimeParfaitLateNightGuidePage() {
           <div className="inline-flex items-center gap-2 px-3.5 py-1 rounded-full bg-teal-500/10 border border-teal-500/30 text-teal-300 text-xs font-semibold mb-4 tracking-wide">
             <span className="animate-pulse">🍨</span> 北の歓楽街が育んだ唯一無二のナイトカルチャー
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold text-white tracking-tight leading-snug mb-5">
-            【札幌 すすきの夜パフェ＆深夜ラーメンおすすめ店】
-            <span className="block text-teal-400 mt-2 text-xl sm:text-3xl font-black">
-              深夜2時まで営業！飲んだ後のシメ文化完全攻略
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold text-white tracking-tight leading-snug mb-5">「札幌 すすきの夜パフェ＆深夜ラーメンおすすめ店」 <span className="block text-teal-400 mt-2 text-xl sm:text-3xl font-black"> 深夜2時まで営業！飲んだ後のシメ文化完全攻略 </span></h1>
           <p className="text-slate-300 text-sm sm:text-base leading-relaxed mb-6">
             「飲んだ後のシメはお酒ではなくパフェ」。札幌で定着したシメパフェ文化は、
             旬の北海道ミルクやフルーツ、カクテルジュレを組み合わせた極上のアートスイーツ体験です。

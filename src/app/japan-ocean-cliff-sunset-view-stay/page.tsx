@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-ocean-cliff-sunset-view-stay/" },
-  title: "【絶景断崖オーシャン＆夕陽パノラマ宿】三陸・男鹿・越前・室戸岬・天草 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "絶景断崖オーシャン＆夕陽パノラマ宿：三陸・男鹿・越前・室戸岬・天草 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "荒波が削り出した断崖絶壁と燃えるような夕陽完全特化！三陸復興国立公園・北山崎、男鹿半島・入道崎、福井・東尋坊、高知・室戸岬、熊本・天草松島の夕陽百選、波打ち際の絶景露天風呂温泉旅館を徹底解説。",
   keywords: ["絶景断崖オーシャン", "夕陽パノラマ宿", "三陸", "男鹿", "越前", "室戸岬", "天草"],
 };
@@ -89,9 +89,7 @@ export default function ScenicViewHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             OCEAN CLIFF & SUNSET VIEW GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【絶景断崖オーシャン＆夕陽パノラマ宿】三陸・男鹿・越前・室戸岬・天草 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「絶景断崖オーシャン＆夕陽パノラマ宿」三陸・男鹿・越前・室戸岬・天草 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             見渡す限りの水平線に沈みゆく黄金の太陽！日本の名勝・断崖絶壁に建つ「絶景オーシャン＆夕陽の宿」。三陸海岸の高さ200mの絶壁、男鹿半島のゴジラ岩、東尋坊の夕暮れ。打ち寄せる波音をBGMに湯船に浸かるドラマチックな休日。
           </p>

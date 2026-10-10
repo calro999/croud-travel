@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/okinawa-family-trip-how-many-nights-budget/" },
-  title: "【子連れ沖縄旅行 何泊がベスト？】年齢別おすすめ日数・総額費用＆キッズプール付きリゾートホテル比較 ｜ 日本全国・旅宿クラウド",
+  title: "子連れ沖縄旅行 何泊がベスト？：年齢別おすすめ日数・総額費用＆キッズプール付きリゾートホテル比較 ｜ 日本全国・旅宿クラウド",
   description: "子連れ沖縄旅行は2泊3日？3泊4日？未就学児・小学生の年齢別最適スケジュール、美ら海水族館とビーチの回り方、レンタカー選び、キッズプールやスライダー充実の恩納村ファミリーリゾート徹底解説。",
   keywords: ["子連れ沖縄旅行", "何泊がベスト？", "年齢別おすすめ日数", "総額費用", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
@@ -146,10 +146,7 @@ export default function OkinawaFamilyTripNightsBudgetPage() {
             </span>
           </div>
 
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【子連れ沖縄旅行 何泊がベスト？】<br />
-            <span className="text-sky-300">年齢別おすすめ日数・総額費用＆キッズプール付きリゾートホテル比較</span>
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「子連れ沖縄旅行 何泊がベスト？」<br /> <span className="text-sky-300">年齢別おすすめ日数・総額費用＆キッズプール付きリゾートホテル比較</span></h1>
 
           <p className="text-sm md:text-base text-sky-100/90 leading-relaxed font-normal pt-1">
             「赤ちゃんと行くなら2泊3日？それとも3泊4日？」「家族4人の総額費用はいくら用意すれば足りる？」「レンタカー移動で子どもが飽きないルートは？」初めての子連れ沖縄旅行で迷いがちな疑問をまるごと解決！年齢別の最適日数から予算内訳、キッズプール＆大浴場付きのおすすめリゾートまで徹底解説します。

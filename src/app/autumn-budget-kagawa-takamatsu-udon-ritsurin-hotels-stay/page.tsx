@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【高松】秋の讃岐うどん巡り＆栗林公園紅葉！3,000円台〜泊まれる格安ホテル5選',
+  title: '高松：秋の讃岐うどん巡り＆栗林公園紅葉！3,000円台〜泊まれる格安ホテル5選',
   description: 'いりこ出汁が染みる本場の讃岐うどんハシゴ旅と、一歩一景の美を誇る大名庭園・栗林公園の秋紅葉！高松駅・瓦町周辺で1泊3,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>本場讃岐うどんハシゴ旅＆特別名勝の紅葉</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【高松】名店讃岐うどん巡り＆栗林公園の錦秋！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「高松」名店讃岐うどん巡り＆栗林公園の錦秋！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-emerald-100/90 max-w-2xl mx-auto leading-relaxed">
             秋の香川は名店を何軒も巡る「讃岐うどんハシゴ旅」のベストシーズン。黄金色のだしに浮かぶ打ちたて・茹でたてのコシの強いうどんと、国の特別名勝・栗林公園を彩る紅葉のライトアップ。駅前・瓦町周辺で3,000円台〜泊まれる清潔で便利な格安ホテルを厳選。
           </p>

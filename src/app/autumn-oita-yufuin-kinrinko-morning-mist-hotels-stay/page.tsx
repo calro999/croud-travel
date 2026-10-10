@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【幻想の朝霧と紅葉！秋の由布院】金鱗湖徒歩圏＆由布岳ビューの極上離れ宿5選",
+  title: "幻想の朝霧と紅葉！秋の由布院：金鱗湖徒歩圏＆由布岳ビューの極上離れ宿5選",
   description: "冷え込む秋の早朝、湖面から立ち上る幻想的な朝霧に包まれる金鱗湖と由布岳の絶景！金鱗湖徒歩2分の料亭宿から、全室客室露天風呂付きの離れ宿まで厳選5選。",
   keywords: "由布院 朝霧 金鱗湖 見頃, 由布院温泉 離れ 客室露天風呂, 草庵秋桜, 旅亭 田乃倉, ゆふいん花由, 由布院 高級旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/autumn-oita-yufuin-kinrinko-morning-mist-hotels-stay/",
   },
   openGraph: {
-    title: "【幻想の朝霧と紅葉！秋の由布院】金鱗湖徒歩圏＆由布岳ビューの極上離れ宿5選",
+    title: "幻想の朝霧と紅葉！秋の由布院：金鱗湖徒歩圏＆由布岳ビューの極上離れ宿5選",
     description: "冷え込む秋の早朝、湖面から立ち上る幻想的な朝霧に包まれる金鱗湖と由布岳の絶景！金鱗湖徒歩2分の料亭宿から、全室客室露天風呂付きの離れ宿まで厳選5選。",
     url: 'https://croud-travel.pages.dev/autumn-oita-yufuin-kinrinko-morning-mist-hotels-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【幻想の朝霧と紅葉！秋の由布院】金鱗湖徒歩圏＆由布岳ビューの極上離れ宿5選",
+    title: "幻想の朝霧と紅葉！秋の由布院：金鱗湖徒歩圏＆由布岳ビューの極上離れ宿5選",
     description: "冷え込む秋の早朝、湖面から立ち上る幻想的な朝霧に包まれる金鱗湖と由布岳の絶景！金鱗湖徒歩2分の料亭宿から、全室客室露天風呂付きの離れ宿まで厳選5選。",
   }
 };
@@ -131,9 +131,7 @@ export default function FeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             秋の由布院特集・金鱗湖の朝霧と離れ宿
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【幻想の朝霧と紅葉！秋の由布院】<br className="hidden sm:inline" />金鱗湖徒歩圏＆由布岳ビューの極上離れ宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">「幻想の朝霧と紅葉！秋の由布院」<br className="hidden sm:inline" />金鱗湖徒歩圏＆由布岳ビューの極上離れ宿5選</h1>
           <p className="max-w-2xl mx-auto text-sm md:text-base text-stone-200 leading-relaxed">
             湖底から温泉と清水が湧き出る金鱗湖。秋から冬の冷え込んだ朝、水面から立ち上る真っ白な朝霧が周囲の紅葉を包み込む奇跡の絶景。歩いて朝霧を見に行ける名宿を厳選。
           </p>

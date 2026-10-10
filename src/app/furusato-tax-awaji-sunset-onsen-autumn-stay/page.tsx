@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            兵庫・淡路島サンセット温泉＆秋の鳴門海峡！絶品淡路島3年とらふぐ＆淡路牛会席
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">兵庫・淡路島サンセット温泉＆秋の鳴門海峡！絶品淡路島3年とらふぐ＆淡路牛会席</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の兵庫・淡路島特集！瀬戸内海・播磨灘に沈む茜色の絶景サンセットと湯ざわり滑らかなうずしお温泉＆洲本温泉、秋解禁の極上「淡路島3年とらふぐ」や最高級淡路牛、鳴門海峡の秋の大潮うずしおをふるさと納税トラベルクーポンで満喫する大人の島旅。
           </p>

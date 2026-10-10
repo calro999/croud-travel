@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/saitama-chichibu-solo-retreat-secret-onsen-stay/" },
-  title: '【秩父・長瀞ひとり旅・秩父七湯と囲炉裏古民家おこもり】開湯190年卵水美肌湯・地酒秩父錦・囲炉裏炭火焼き！池袋特急ラビュー77分の里山厳選3宿',
+  title: '秩父・長瀞ひとり旅・秩父七湯と囲炉裏古民家おこもり：開湯190年卵水美肌湯・地酒秩父錦・囲炉裏炭火焼き！池袋特急ラビュー77分の里山厳選3宿',
   description: '武甲山を仰ぐ豊かな里山自然と秩父七湯の歴史を誇る埼玉・秩父温泉！江戸末期開湯の「卵水（たまごみず）」源泉と木造建築が口コミ★4.5超の「新木鉱泉旅館」、本物の囲炉裏端でいただく炭火焼き料理が自慢の「小鹿荘」、豊かな自然と貸切風呂が人気の「梁山泊」を楽天API最新データに基づき徹底比較。',
   keywords: '秩父温泉 一人旅 宿,秩父 ホテル 一人 温泉,新木鉱泉旅館,小鹿荘 秩父,梁山泊 秩父,秩父 ひとり旅 おこもり',
   openGraph: {
-    title: '【秩父・長瀞ひとり旅・秩父七湯と囲炉裏古民家おこもり】開湯190年卵水美肌湯・地酒秩父錦・囲炉裏炭火焼き！池袋特急ラビュー77分の里山厳選3宿',
+    title: '秩父・長瀞ひとり旅・秩父七湯と囲炉裏古民家おこもり：開湯190年卵水美肌湯・地酒秩父錦・囲炉裏炭火焼き！池袋特急ラビュー77分の里山厳選3宿',
     description: '武甲山を仰ぐ豊かな里山自然と秩父七湯の歴史を誇る埼玉・秩父温泉！江戸末期開湯の「卵水（たまごみず）」源泉と木造建築が口コミ★4.5超の「新木鉱泉旅館」、本物の囲炉裏端でいただく炭火焼き料理が自慢の「小鹿荘」、豊かな自然と貸切風呂が人気の「梁山泊」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/saitama-chichibu-solo-retreat-secret-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【秩父・長瀞ひとり旅・秩父七湯と囲炉裏古民家おこもり】開湯190年卵水美肌湯・地酒秩父錦・囲炉裏炭火焼き！池袋特急ラビュー77分の里山厳選3宿',
+    headline: '秩父・長瀞ひとり旅・秩父七湯と囲炉裏古民家おこもり：開湯190年卵水美肌湯・地酒秩父錦・囲炉裏炭火焼き！池袋特急ラビュー77分の里山厳選3宿',
     description: '武甲山を仰ぐ豊かな里山自然と秩父七湯の歴史を誇る埼玉・秩父温泉！江戸末期開湯の「卵水（たまごみず）」源泉と木造建築が口コミ★4.5超の「新木鉱泉旅館」、本物の囲炉裏端でいただく炭火焼き料理が自慢の「小鹿荘」、豊かな自然と貸切風呂が人気の「梁山泊」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             埼玉・秩父温泉ひとり旅＆里山囲炉裏おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【秩父・長瀞ひとり旅・秩父七湯と囲炉裏古民家おこもり】開湯190年卵水美肌湯・地酒秩父錦・囲炉裏炭火焼き！池袋特急ラビュー77分の里山厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「秩父・長瀞ひとり旅・秩父七湯と囲炉裏古民家おこもり」開湯190年卵水美肌湯・地酒秩父錦・囲炉裏炭火焼き！池袋特急ラビュー77分の里山厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

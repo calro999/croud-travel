@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-lacquerwares-stay/" },
-  title: '日本三大漆器＆匠の塗りと会席料理・伝統工芸名旅館宿×ふるさと納税完全ガイド【2026年最新】越前・山中・会津',
+  title: '日本三大漆器＆匠の塗りと会席料理・伝統工芸名旅館宿×ふるさと納税厳選ガイド越前・山中・会津',
   description: '艶やかな漆と蒔絵が織りなす日本の美意識！福井鯖江「越前漆器」1500年の技と名湯あわら温泉まつや千千、石川加賀「山中漆器」木地挽きの最高峰と山中温泉吉祥やまなか、福島「会津塗」蒲生氏郷公ゆかりの金粉蒔絵と会津芦ノ牧温泉丸峰観光ホテル。日本三大漆器の工芸美と名湯を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大漆器・漆芸文化特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大漆器＆匠の塗りと会席料理・伝統工芸名旅館宿×ふるさと納税完全ガイド【2026年最新】越前・山中・会津',
+    title: '日本三大漆器＆匠の塗りと会席料理・伝統工芸名旅館宿×ふるさと納税厳選ガイド越前・山中・会津',
     description: '艶やかな漆と蒔絵が織りなす日本の美意識！福井鯖江「越前漆器」1500年の技と名湯あわら温泉まつや千千、石川加賀「山中漆器」木地挽きの最高峰と山中温泉吉祥やまなか、福島「会津塗」蒲生氏郷公ゆかりの金粉蒔絵と会津芦ノ牧温泉丸峰観光ホテル。日本三大漆器の工芸美と名湯を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-lacquerwares-stay',
@@ -155,9 +155,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大漆器・漆芸文化特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大漆器＆伝統工芸名湯宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大漆器＆伝統工芸名湯宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             縄文の昔から受け継がれ、海外では「japan」の名で賞賛される日本の伝統工芸の最高峰「日本三大漆器」――継体天皇への献上から1500年以上の歴史を紡ぎ、日本の業務用漆器の約8割を一手に担う福井鯖江・河和田地区の「越前漆器」、木目の美しさを生かした挽物轆轤（ろくろ）技術が日本一と称され山中漆器祭でも賑わう石川加賀の「山中漆器」、そして名将・蒲生氏郷が近江から木地師や塗師を招聘して奨励し、華麗な消粉蒔絵で知られる福島会津若松の「会津塗」。職人が何層にも重ねて塗り上げた漆器に盛られる料理は、視覚と触覚の双方に極上の喜びをもたらします。漆器文化の息づく名湯宿に泊まり、伝統の器で供される本格懐石と名湯に心ほどける大人の旅を楽天ふるさと納税でお楽しみください。
           </p>

@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-ancient-capitals-heritage-stay/" },
-  title: '日本三大古都＆千年千載の雅と武家の誇り・歴史息づく町並み宿×ふるさと納税完全ガイド【2026年最新】京都・奈良・鎌倉',
+  title: '日本三大古都＆千年千載の雅と武家の誇り・歴史息づく町並み宿×ふるさと納税厳選ガイド京都・奈良・鎌倉',
   description: '日本の美と歴史の原点を巡る三大古都グランドツアー！京都「平安京・祇園」千年の美意識と伝統の雅・京乃宿ギオン福住、奈良「平城京・ならまち」シルクロードの終着点と天平文化・ホテルアジール奈良、神奈川「鎌倉幕府・由比ヶ浜」源頼朝の武家文化と相模湾の潮風・鎌倉パークホテル。国宝寺社巡り、路地散策、伝統会席とフレンチを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大古都・歴史遺産特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大古都＆千年千載の雅と武家の誇り・歴史息づく町並み宿×ふるさと納税完全ガイド【2026年最新】京都・奈良・鎌倉',
+    title: '日本三大古都＆千年千載の雅と武家の誇り・歴史息づく町並み宿×ふるさと納税厳選ガイド京都・奈良・鎌倉',
     description: '日本の美と歴史の原点を巡る三大古都グランドツアー！京都「平安京・祇園」千年の美意識と伝統の雅・京乃宿ギオン福住、奈良「平城京・ならまち」シルクロードの終着点と天平文化・ホテルアジール奈良、神奈川「鎌倉幕府・由比ヶ浜」源頼朝の武家文化と相模湾の潮風・鎌倉パークホテル。国宝寺社巡り、路地散策、伝統会席とフレンチを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-ancient-capitals-heritage-stay',
@@ -154,9 +154,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大古都・歴史遺産特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大古都＆歴史絵巻の町並み・伝統名宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大古都＆歴史絵巻の町並み・伝統名宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             時代ごとの政治と文化の中心地として栄え、日本の美意識と歴史の骨格を形作ってきた「日本三大古都」――平安建都以来千年にわたり雅やかな宮廷文化と茶道・花道・京料理を育んできた京都の「京都（平安京）」、シルクロードを経て伝来した仏教美術と広大な奈良公園の鹿・世界遺産社寺が息づく奈良の「奈良（平城京）」、そして三方を山に囲まれ天然の要塞に武家政権を打ち立て禅と鎌倉彫の文化が薫る神奈川の「鎌倉（鎌倉幕府）」。夕暮れの町家や古刹をそぞろ歩き、静かな宿で伝統の美味に舌鼓を打つ極上の旅を楽天ふるさと納税でお楽しみください。
           </p>

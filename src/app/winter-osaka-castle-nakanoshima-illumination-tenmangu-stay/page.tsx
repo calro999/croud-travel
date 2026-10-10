@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月大阪】大阪天満宮新春初詣！名宿5選',
+  title: '11・12・1月大阪：大阪天満宮新春初詣！名宿5選',
   description: '冬の水都・大阪は、大阪城西の丸庭園を光の歴史絵巻に変える「大阪城イルミナージュ」や堂島川・中之島を彩る「大阪・光の饗宴」の幻想美に包まれる季節。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '大阪城 ホテル, 大阪天満宮 初詣 ホテル, 大阪城イルミナージュ, 中之島 イルミネーション, ホテルニューオータニ大阪, 帝国ホテル大阪, リーガロイヤルホテル大阪, 11月 12月 1月 大阪 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-osaka-castle-nakanoshima-illumination-tenmangu-stay/"
   },
   openGraph: {
-    title: '【11・12・1月大阪】大阪天満宮新春初詣！名宿5選',
+    title: '11・12・1月大阪：大阪天満宮新春初詣！名宿5選',
     description: '冬の水都・大阪は、大阪城西の丸庭園を光の歴史絵巻に変える「大阪城イルミナージュ」や堂島川・中之島を彩る「大阪・光の饗宴」の幻想美に包まれる季節。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-osaka-castle-nakanoshima-illumination-tenmangu-stay',
     type: 'article',
@@ -246,10 +246,7 @@ export default function OsakaCastleNakanoshimaWinterPage() {
             <span>11月・12月・1月冬の関西特選ガイド｜大阪府大阪市中央区・北区</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            冬の大阪城イルミナージュ＆大阪天満宮新春初詣！<br className="hidden sm:inline" />
-            水都中之島イルミネーションとなにわ冬グルメ名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">冬の大阪城イルミナージュ＆大阪天満宮新春初詣！<br className="hidden sm:inline" /> 水都中之島イルミネーションとなにわ冬グルメ名宿5選</h1>
 
           <p className="max-w-4xl text-sm sm:text-base md:text-lg text-slate-300 leading-relaxed font-normal">
             水の都・大阪が最も華やかに輝く11月から1月。大阪城西の丸庭園を光の歴史絵巻に染める「大阪城イルミナージュ」、堂島川の水辺と中央公会堂を照らす「大阪・光の饗宴」、天神橋筋商店街の活気と学問の神様「大阪天満宮」の新春開運初詣。熱々のてっちり（ふぐ鍋）や串カツ、出汁香るきつねうどんを堪能し、歴史ある名門ホテルで寛ぐ極上の冬旅へご案内します。

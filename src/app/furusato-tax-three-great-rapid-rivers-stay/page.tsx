@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-rapid-rivers-stay/" },
-  title: '日本三大急流＆爽快川下り舟と清流鮎グルメ宿×ふるさと納税完全ガイド【2026年最新】最上川・富士川・球磨川',
+  title: '日本三大急流＆爽快川下り舟と清流鮎グルメ宿×ふるさと納税厳選ガイド最上川・富士川・球磨川',
   description: '激流を駆け抜ける大迫力の川下りと清流の恵み！山形「最上川」芭蕉ゆかりの舟下りと全室リバービュー高見屋最上川別邸紅、静岡「富士川」富士山を仰ぐ日本屈指の急流とホテルルートイン富士中央公園東、熊本「球磨川」球磨川下りと天然アユ・球磨焼酎を味わう登録有形文化財の宿人吉温泉芳野旅館。日本三大急流の豪快な自然美を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大急流・川下り特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大急流＆爽快川下り舟と清流鮎グルメ宿×ふるさと納税完全ガイド【2026年最新】最上川・富士川・球磨川',
+    title: '日本三大急流＆爽快川下り舟と清流鮎グルメ宿×ふるさと納税厳選ガイド最上川・富士川・球磨川',
     description: '激流を駆け抜ける大迫力の川下りと清流の恵み！山形「最上川」芭蕉ゆかりの舟下りと全室リバービュー高見屋最上川別邸紅、静岡「富士川」富士山を仰ぐ日本屈指の急流とホテルルートイン富士中央公園東、熊本「球磨川」球磨川下りと天然アユ・球磨焼酎を味わう登録有形文化財の宿人吉温泉芳野旅館。日本三大急流の豪快な自然美を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-rapid-rivers-stay',
@@ -158,9 +158,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大急流・川下り特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大急流＆川下り舟体験・清流鮎グルメ宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大急流＆川下り舟体験・清流鮎グルメ宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             日本の険しい山々から海へと一気に駆け下る激流「日本三大急流」――出羽三山と庄内平野を潤し松尾芭蕉が「五月雨を あつめて早し 最上川」と詠んだ山形の「最上川」、南アルプスと富士山の間を猛烈な勢いで南下し駿河湾へ注ぐ静岡の「富士川」、そして九州山地を深く穿ちラフティングや伝統の木造川下り舟で名高い熊本の「球磨川」。急流が削り出した深いV字谷や奇岩の景色、船頭さんの巧みな竿さばきと舟唄に耳を傾けるひとときは、旅の最高のハイライトです。川のせせらぎを聞きながら名湯露天風呂に浸かり、清流が育んだ天然アユの塩焼きや山形牛、富士宮やきそば、球磨焼酎に酔いしれる旅を楽天ふるさと納税でお楽しみください。
           </p>

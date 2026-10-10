@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            青森・弘前城菊と紅葉まつり＆津軽の秋！岩木山麓温泉と津軽りんご収穫・極上大間まぐろ
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">青森・弘前城菊と紅葉まつり＆津軽の秋！岩木山麓温泉と津軽りんご収穫・極上大間まぐろ</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の青森・弘前＆津軽特集！天守と老松を彩る弘前公園の紅葉ライトアップと「弘前城菊と紅葉まつり」、津軽富士・岩木山の錦秋パノラマ、収穫最盛期を迎える蜜たっぷり津軽りんご、津軽の郷土料理と大間まぐろをふるさと納税トラベルクーポンでお得に満喫するみちのく秋旅。
           </p>

@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-craft-beer-brewery-hotel-stay/" },
-  title: 'クラフトビール＆ご当地ブルワリーホテル×ふるさと納税完全ガイド【2026年最新】出来立て生ビールと美食ステイ',
+  title: 'クラフトビール＆ご当地ブルワリーホテル×ふるさと納税厳選ガイド出来立て生ビールと美食ステイ',
   description: '軽井沢、修善寺、小樽など全国の名門クラフトビール醸造所直結ホテルやタップルーム付きの宿をふるさと納税でお得に予約！出来立ての限定生ビール飲み比べやペアリングディナーを満喫する大人の旅ガイド。',
   keywords: ["クラフトビール", "2026年最新", "出来立て生ビールと美食ステイ", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: 'クラフトビール＆ご当地ブルワリーホテル×ふるさと納税完全ガイド【2026年最新】出来立て生ビールと美食ステイ',
+    title: 'クラフトビール＆ご当地ブルワリーホテル×ふるさと納税厳選ガイド出来立て生ビールと美食ステイ',
     description: '軽井沢、修善寺、小樽など全国の名門クラフトビール醸造所直結ホテルやタップルーム付きの宿をふるさと納税でお得に予約！出来立ての限定生ビール飲み比べやペアリングディナーを満喫する大人の旅ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-craft-beer-brewery-hotel-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FurusatoTaxPage() {
           <span className="inline-block px-4 py-1.5 rounded-full text-xs md:text-sm font-black bg-gradient-to-r from-amber-500 to-yellow-400 text-slate-950 mb-5 shadow-lg shadow-amber-500/20">
             クラフトビール・ブルワリー特集
           </span>
-          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">
-            クラフトビール＆ブルワリーホテル×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">クラフトビール＆ブルワリーホテル×ふるさと納税ガイド</h1>
           <p className="text-sm md:text-lg text-slate-300 leading-relaxed font-medium">
             軽井沢、修善寺、小樽など全国の名門クラフトビール醸造所直結ホテルやタップルーム付きの宿をふるさと納税でお得に予約！出来立ての限定生ビール飲み比べやペアリングディナーを満喫する大人の旅ガイド。
           </p>

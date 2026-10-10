@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-rapid-currents-strait-stay/" },
-  title: '日本三大急潮＆豪快うず潮パノラマ・激流海峡オーシャンビュー宿×ふるさと納税完全ガイド【2026年最新】鳴門・来島・関門',
+  title: '日本三大急潮＆豪快うず潮パノラマ・激流海峡オーシャンビュー宿×ふるさと納税厳選ガイド鳴門・来島・関門',
   description: '海が滝のように唸りを上げる地球のダイナミズム！徳島「鳴門海峡」世界最大級の渦潮パノラマとベイリゾートホテル鳴門海月、愛媛今治「来島海峡」日本三大急潮の八艘飛び潮流とホテル菊水今治、山口下関「関門海峡」早鞆ノ瀬戸の急潮と本場とらふぐの下関グランドホテル。日本三大急潮の迫力ある海峡クルーズと旬魚を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大急潮・海峡絶景特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大急潮＆豪快うず潮パノラマ・激流海峡オーシャンビュー宿×ふるさと納税完全ガイド【2026年最新】鳴門・来島・関門',
+    title: '日本三大急潮＆豪快うず潮パノラマ・激流海峡オーシャンビュー宿×ふるさと納税厳選ガイド鳴門・来島・関門',
     description: '海が滝のように唸りを上げる地球のダイナミズム！徳島「鳴門海峡」世界最大級の渦潮パノラマとベイリゾートホテル鳴門海月、愛媛今治「来島海峡」日本三大急潮の八艘飛び潮流とホテル菊水今治、山口下関「関門海峡」早鞆ノ瀬戸の急潮と本場とらふぐの下関グランドホテル。日本三大急潮の迫力ある海峡クルーズと旬魚を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-rapid-currents-strait-stay',
@@ -155,9 +155,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大急潮・海峡絶景特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大急潮＆激流うず潮パノラマ宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大急潮＆激流うず潮パノラマ宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             狭い海峡に大量の海水が一気に押し寄せ、まるで激流の川や滝のように潮流が渦巻く「日本三大急潮」――最大時速20kmにおよび直径20mもの巨大な渦潮が渦巻く世界自然遺産級の徳島「鳴門海峡」、しまなみ海道の難所として知られ最大時速10ノット（約18km）の八艘飛び潮流が荒波を立てる愛媛の「来島海峡」、そして本州と九州を隔て源平合戦や宮本武蔵・佐々木小次郎の決闘の舞台となった早鞆ノ瀬戸の潮流が白波を立てる山口・福岡の「関門海峡」。潮の流れが激しい海峡で育った魚は身が引き締まり、脂の乗りと歯ごたえが抜群です。海峡大橋や行き交う大型船、渦潮を見下ろすオーシャンビューホテルを拠点に、鳴門鯛・来島鯛・下関とらふぐなどの至高の海の幸を味わう特別な休日を楽天ふるさと納税でお楽しみください。
           </p>

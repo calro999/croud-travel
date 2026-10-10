@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月別府・鉄輪温泉】初冬の別府湾絶景露天！名宿5選',
+  title: '別府・鉄輪温泉で過ごす冬の旅（11・12月）！初冬の別府湾絶景露天！名宿5選',
   description: '11月から12月にかけて冷気により街一面の湯けむりが最も美しく立ち昇る日本一の湧出量を誇る大分「別府温泉郷」と湯治情緒漂う「鉄輪（かんなわ）温泉」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '別府温泉 宿泊, 鉄輪温泉 11月 12月, 杉乃井ホテル, 潮騒の宿 晴海, 山荘 神和苑, ホテル白菊, 花べっぷ, 鉄輪 湯けむり展望台, 豊後牛 ステーキ, 関アジ 関サバ 刺身, 地獄蒸し料理',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-oita-beppu-kannawa-onsen-yukemuri-bungo-beef-stay/",
   },
   openGraph: {
-    title: '【11・12月別府・鉄輪温泉】初冬の別府湾絶景露天！名宿5選',
+    title: '別府・鉄輪温泉で過ごす冬の旅（11・12月）！初冬の別府湾絶景露天！名宿5選',
     description: '11月から12月にかけて冷気により街一面の湯けむりが最も美しく立ち昇る日本一の湧出量を誇る大分「別府温泉郷」と湯治情緒漂う「鉄輪（かんなわ）温泉」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-oita-beppu-kannawa-onsen-yukemuri-bungo-beef-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月別府・鉄輪温泉の冬湯けむりと海鮮美食】初冬の別府湾絶景露天・鉄輪湯けむり展望と極上豊後牛＆関アジ関サバ会席の宿5選",
+    title: "別府・鉄輪温泉の冬湯けむりと海鮮美食で過ごす冬の旅（11・12月）！初冬の別府湾絶景露天・鉄輪湯けむり展望と極上豊後牛＆関アジ関サバ会席の宿5選",
     description: "11月から12月にかけて冷気により街一面の湯けむりが最も美しく立ち昇る日本一の湧出量を誇る大分「別府温泉郷」と湯治情緒漂う「鉄輪（かんなわ）温泉」。海抜ゼロメートルから高原まで広がる雄大な別府湾の初冬の朝焼けを望む絶景露天風呂、伝統の地獄蒸し料理、大分が誇る豊後水道の荒波で育った「関アジ・関サバ」の活造りや「豊後牛（おおいた和牛）」の極上ステーキを堪能する至高の名宿5選を徹底解説。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80'],
   }
@@ -298,10 +298,7 @@ export default function BeppuOnsenWinterPage() {
             <Waves className="w-4 h-4 text-teal-300" />
             <span>11月・12月限定 日本一の湧出量 鉄輪湯けむり展望と極上豊後牛＆関アジ関サバ</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月別府・鉄輪温泉の冬湯けむりと海鮮美食】<br className="hidden sm:inline" />
-            初冬の別府湾絶景露天・鉄輪湯けむり展望と極上豊後牛＆関アジ関サバ会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">別府・鉄輪温泉の冬湯けむりと海鮮美食で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 初冬の別府湾絶景露天・鉄輪湯けむり展望と極上豊後牛＆関アジ関サバ会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-slate-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             毎分十万リットルを誇るおんせん県おおいたの至宝。冷気により白く輝く鉄輪の湯煙、海抜ゼロメートルから高原まで広がる別府湾の初冬絶景露天、旬を迎えた関アジ関サバと豊後牛ステーキを堪能する極上冬旅。
           </p>

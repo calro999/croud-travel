@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月佐渡】冬の王者「佐渡寒ブリ」と活本ズワイガニ！名宿5選',
+  title: '11・12・1月佐渡：冬の王者「佐渡寒ブリ」と活本ズワイガニ！名宿5選',
   description: '11月から1月、日本海に浮かぶ新潟県・佐渡島は、冬の味覚の王者が勢揃いする一年で最も贅沢なグルメシーズンを迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '佐渡寒ブリ 宿泊, 佐渡島 冬旅行, 佐渡金山 世界遺産 冬, 八幡館 佐渡, 吉田家 加茂湖, 佐渡温泉 かけ流し, 本ズワイガニ 佐渡, 11月 12月 1月 新潟旅行, 波の花 佐渡',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-niigata-sado-island-kanburi-crab-snow-stay/"
   },
   openGraph: {
-    title: '【11・12・1月佐渡】冬の王者「佐渡寒ブリ」と活本ズワイガニ！名宿5選',
+    title: '11・12・1月佐渡：冬の王者「佐渡寒ブリ」と活本ズワイガニ！名宿5選',
     description: '11月から1月、日本海に浮かぶ新潟県・佐渡島は、冬の味覚の王者が勢揃いする一年で最も贅沢なグルメシーズンを迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-niigata-sado-island-kanburi-crab-snow-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月佐渡】冬の王者「佐渡寒ブリ」と活本ズワイガニ・雪化粧の佐渡金山＆日本海絶景の佐渡温泉を堪能する名宿5選",
+    title: "11・12・1月佐渡：冬の王者「佐渡寒ブリ」と活本ズワイガニ・雪化粧の佐渡金山＆日本海絶景の佐渡温泉を堪能する名宿5選",
     description: "11月から1月、日本海に浮かぶ新潟県・佐渡島は、冬の味覚の王者が勢揃いする一年で最も贅沢なグルメシーズンを迎えます。11月中旬に発令される名物「佐渡寒ブリ宣言」を皮切りに、荒海を南下して丸々と太った天然寒ブリが水揚げされ、とろけるような脂の乗りを誇る寒ブリ刺身や極上の寒ブリしゃぶしゃぶが食卓へ。さらに冬の日本海の荒波が育む活本ズワイガニや南蛮エビ、幻のブランド牛「佐渡牛」が贅を極めます。2024年に世界文化遺産に登録された「佐渡島の金山」や北沢浮遊選鉱場跡は、しんしんと降る雪をまとって幽玄の美を放ち、海岸線では冬の風物詩「波の花」が舞い散る情景も。両津湾や加茂湖、日本海の絶景を望む掛け流しの佐渡温泉と美食に酔いしれる厳選5宿を徹底ガイドします。",
     images: ['https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80']
   }
@@ -246,9 +246,7 @@ export default function NiigataSadoIslandPage() {
             <Snowflake className="w-3.5 h-3.5" />
             11月・12月・1月限定 佐渡寒ブリ＆世界遺産金山特集
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-tight">
-            【新潟・佐渡島】冬の王者「佐渡寒ブリ」と活本ズワイガニ・雪化粧の佐渡金山＆日本海絶景の佐渡温泉を堪能する名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-tight">「新潟・佐渡島」冬の王者「佐渡寒ブリ」と活本ズワイガニ・雪化粧の佐渡金山＆日本海絶景の佐渡温泉を堪能する名宿5選</h1>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed pt-2">
             11月に発令される「佐渡寒ブリ宣言」。日本海の荒波が生んだ極上寒ブリの刺身とブリしゃぶ、活本ズワイガニ、そして雪化粧した世界遺産・佐渡金山。源泉かけ流しの美肌温泉とともに味わう冬の離島美食旅へ。
           </p>

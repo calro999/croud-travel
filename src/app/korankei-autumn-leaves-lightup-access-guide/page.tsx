@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/korankei-autumn-leaves-lightup-access-guide/" },
-  title: "【香嵐渓 紅葉もみじまつり2026】4000本の絶景ライトアップ・大渋滞回避アクセス＆名古屋発日帰りバス ｜ 日本全国・旅宿クラウド",
+  title: "香嵐渓 紅葉もみじまつり2026：4000本の絶景ライトアップ・大渋滞回避アクセス＆名古屋発日帰りバス ｜ 日本全国・旅宿クラウド",
   description: "東海随一の紅葉名所「香嵐渓」もみじまつり完全ガイド！巴川に映える4,000本のもみじライトアップ、名物五平餅＆鮎の塩焼き、渋滞を回避する早朝ルート＆名古屋駅発直行日帰りバスツアー比較。",
   keywords: ["香嵐渓", "紅葉もみじまつり2026", "4000本の絶景ライトアップ", "大渋滞回避アクセス", "名古屋発日帰りバス", "温泉宿", "宿泊予約"],
 };
@@ -145,12 +145,7 @@ export default function KorankeiAutumnLeavesAccessPage() {
             2026 Korankei Maple Festival & Light-Up Guide
           </div>
 
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black font-serif tracking-tight text-white leading-snug">
-            【香嵐渓 紅葉もみじまつり2026】
-            <span className="block mt-2 bg-gradient-to-r from-red-300 via-orange-200 to-amber-300 bg-clip-text text-transparent">
-              4000本の絶景ライトアップ・大渋滞回避アクセス＆名古屋発日帰りバス
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black font-serif tracking-tight text-white leading-snug">「香嵐渓 紅葉もみじまつり2026」 <span className="block mt-2 bg-gradient-to-r from-red-300 via-orange-200 to-amber-300 bg-clip-text text-transparent"> 4000本の絶景ライトアップ・大渋滞回避アクセス＆名古屋発日帰りバス </span></h1>
 
           <p className="text-sm sm:text-base text-stone-300 max-w-3xl leading-relaxed">
             東海エリア随一の紅葉の聖地・豊田市足助町「香嵐渓」。巴川沿いから飯盛山にかけて植えられた約4,000本、11種類のもみじが黄金・朱・深紅のグラデーションを描きます。日没から21時まで行われる幻想的なライトアップ、香ばしい五平餅、そして毎秋問題となる「国道153号の猛烈な大渋滞」を確実に回避するアクセス戦略とおすすめ宿泊拠点を分かりやすく解説します。

@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '富士山ビュー客室露天風呂宿×ふるさと納税完全ガイド【2026年最新】河口湖・日本平・箱根芦ノ湖の霊峰一望リゾート',
+  title: '富士山ビュー客室露天風呂宿×ふるさと納税厳選ガイド河口湖・日本平・箱根芦ノ湖の霊峰一望リゾート',
   description: '日本人の心のシンボル・富士山を独占！山梨富士河口湖の「逆さ富士」客室露天風呂宿、静岡日本平山頂から富士山と駿河湾を見晴らすパノラマリゾート、神奈川箱根芦ノ湖の海賊船と霊峰一望温泉。四季折々の富士の雄姿を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: ["2026年最新", "河口湖", "日本平", "箱根芦ノ湖の霊峰一望リゾート", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-open-air-bath-with-majestic-fuji-view-stay/"
   },
   openGraph: {
-    title: '富士山ビュー客室露天風呂宿×ふるさと納税完全ガイド【2026年最新】河口湖・日本平・箱根芦ノ湖の霊峰一望リゾート',
+    title: '富士山ビュー客室露天風呂宿×ふるさと納税厳選ガイド河口湖・日本平・箱根芦ノ湖の霊峰一望リゾート',
     description: '日本人の心のシンボル・富士山を独占！山梨富士河口湖の「逆さ富士」客室露天風呂宿、静岡日本平山頂から富士山と駿河湾を見晴らすパノラマリゾート、神奈川箱根芦ノ湖の海賊船と霊峰一望温泉。四季折々の富士の雄姿を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-open-air-bath-with-majestic-fuji-view-stay',
     type: 'article',
@@ -54,9 +54,7 @@ export default function FurusatoFeaturePage() {
             <span>✨</span>
             <span>富士山ビュー客室露天・パノラマ特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            富士山ビュー客室露天風呂宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">富士山ビュー客室露天風呂宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             世界文化遺産に登録され、古来より人々を魅了し続ける日本の最高峰・富士山。朝日に照らされて赤く輝く「赤富士」、穏やかな湖面に映り込む「逆さ富士」、そして夕暮れのシルエット。客室の専用露天風呂に身を沈め、さえぎるもののない大パノラマで富士山を独占する時間は、まさに極上の贅沢です。甲州ワイン牛や駿河湾の海の幸を味わいながら、特別な記念日やご褒美旅行を楽天ふるさと納税でお得に実現しましょう。
           </p>

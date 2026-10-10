@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-highlands-resort-stay/" },
-  title: '日本三大高原＆爽快マウンテンリゾート・白樺と星空の露天風呂宿×ふるさと納税完全ガイド【2026年最新】志賀高原・軽井沢・白樺湖霧ヶ峰',
+  title: '日本三大高原＆爽快マウンテンリゾート・白樺と星空の露天風呂宿×ふるさと納税厳選ガイド志賀高原・軽井沢・白樺湖霧ヶ峰',
   description: '標高1000〜2000mを吹き抜ける涼風！長野山ノ内「志賀高原」ユネスコエコパークと志賀高原ホテル一望閣、長野「軽井沢高原」明治以来の憧れ避暑地とアパホテル軽井沢駅前軽井沢荘、長野茅野・諏訪「霧ヶ峰・白樺湖」ニッコウキスゲ咲くスカイラインと芹ヶ沢温泉白樺湖ビューホテル。日本三大高原（三大高原リゾート）の爽快ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大高原・避暑マウンテン特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大高原＆爽快マウンテンリゾート・白樺と星空の露天風呂宿×ふるさと納税完全ガイド【2026年最新】志賀高原・軽井沢・白樺湖霧ヶ峰',
+    title: '日本三大高原＆爽快マウンテンリゾート・白樺と星空の露天風呂宿×ふるさと納税厳選ガイド志賀高原・軽井沢・白樺湖霧ヶ峰',
     description: '標高1000〜2000mを吹き抜ける涼風！長野山ノ内「志賀高原」ユネスコエコパークと志賀高原ホテル一望閣、長野「軽井沢高原」明治以来の憧れ避暑地とアパホテル軽井沢駅前軽井沢荘、長野茅野・諏訪「霧ヶ峰・白樺湖」ニッコウキスゲ咲くスカイラインと芹ヶ沢温泉白樺湖ビューホテル。日本三大高原（三大高原リゾート）の爽快ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-highlands-resort-stay',
@@ -155,9 +155,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大高原・避暑マウンテン特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大高原＆マウンテンリゾート宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大高原＆マウンテンリゾート宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             都会の喧騒を離れ、標高1000mから2000mを超える高地に広がる日本屈指の山岳オアシス「日本三大高原（三大高原リゾート）」――広大な原生林と湖沼群が点在しユネスコエコパークに指定され天然温泉も湧き出る長野山ノ内の「志賀高原」、明治時代に外国人避暑地として開かれて以来、洗練されたクラシックホテルや別荘文化が息づく長野の「軽井沢高原」、そしてビーナスライン沿いにニッコウキスゲの黄色い絨毯やレンゲツツジが咲き乱れ富士山やアルプスを望む「霧ヶ峰・白樺湖・美ヶ原高原」。高原の朝は鳥のさえずりで目覚め、夜は降るような満天の星空が広がります。白樺林に囲まれたリゾートホテルや高原温泉宿を拠点に、信州牛や高原野菜、信州蕎麦の美食を堪能する特別な休日を楽天ふるさと納税でお楽しみください。
           </p>

@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【11・12月阿智村の日本一の星空ナイトツアー】昼神温泉の極上美肌湯と南信州冬の味覚宿5選",
+  title: "阿智村の日本一の星空ナイトツアーで過ごす冬の旅（11・12月）！昼神温泉の極上美肌湯と南信州冬の味覚宿5選",
   description: "環境省が認定した「日本一星が輝いて見える村」長野県阿智村。11月・12月は空気が最も澄み渡り、息をのむ満天の天の川と星座が広がるベストシーズン。「美肌の湯」として名高いpH9.7の昼神温泉と、信州プレミアム牛や炉端会席を堪能する感動の星空冬旅ガイド。",
   keywords: '阿智村 星空ツアー 宿泊 11月 12月, 昼神温泉 旅館 冬, 阿智村 ナイトツアー ホテル, 長野 星空 温泉, 昼神温泉 美肌湯, ヘブンスそのはら 冬, 昼神温泉 モデルコース',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagano-achimura-hirugami-starry-sky-stay/",
   },
   openGraph: {
-    title: "【11・12月阿智村の日本一の星空ナイトツアー】昼神温泉の極上美肌湯と南信州冬の味覚宿5選",
+    title: "阿智村の日本一の星空ナイトツアーで過ごす冬の旅（11・12月）！昼神温泉の極上美肌湯と南信州冬の味覚宿5選",
     description: "環境省が認定した「日本一星が輝いて見える村」長野県阿智村。11月・12月は空気が最も澄み渡り、息をのむ満天の天の川と星座が広がるベストシーズン。「美肌の湯」として名高いpH9.7の昼神温泉と、信州プレミアム牛や炉端会席を堪能する感動の星空冬旅ガイド。",
     url: 'https://croud-travel.pages.dev/winter-nagano-achimura-hirugami-starry-sky-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月阿智村の日本一の星空ナイトツアー】昼神温泉の極上美肌湯と南信州冬の味覚宿5選",
+    title: "阿智村の日本一の星空ナイトツアーで過ごす冬の旅（11・12月）！昼神温泉の極上美肌湯と南信州冬の味覚宿5選",
     description: "環境省が認定した「日本一星が輝いて見える村」長野県阿智村。11月・12月は空気が最も澄み渡り、息をのむ満天の天の川と星座が広がるベストシーズン。「美肌の湯」として名高いpH9.7の昼神温泉と、信州プレミアム牛や炉端会席を堪能する感動の星空冬旅ガイド。",
   }
 };
@@ -266,10 +266,7 @@ export default function HirugamiWinterPage() {
             <Sparkles className="w-4 h-4 text-indigo-300" />
             <span>11月・12月限定 日本一の星空＆美肌湯特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月阿智村の日本一の星空ナイトツアー】<br className="hidden sm:inline" />
-            昼神温泉の極上美肌湯と南信州冬の味覚宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">阿智村の日本一の星空ナイトツアーで過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 昼神温泉の極上美肌湯と南信州冬の味覚宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             環境省が認定した「日本一星が輝いて見える場所」。空気が最も澄み切る初冬、標高1400mの山頂に広がる満天の星の海へ。冷えた体をpH9.7のとろとろ美肌温泉で解きほぐし、囲炉裏の炭火料理と信州牛に舌鼓を打つ極上の冬旅。
           </p>

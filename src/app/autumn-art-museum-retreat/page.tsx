@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/autumn-art-museum-retreat/" },
-  title: "【芸術の秋】名作アート鑑賞＆美術館リゾートホテル 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "芸術の秋：名作アート鑑賞＆美術館リゾートホテル 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "感性を刺激する極上ステイ！香川・直島（ベネッセハウス）、神奈川・箱根（ポーラ美術館＆彫刻の森）、徳島・鳴門（大塚国際美術館）、石川・金沢（21世紀美術館）など、美術館に隣接・内包する人気アートホテルを徹底解説。",
   keywords: ["芸術の秋", "名作アート鑑賞", "美術館リゾートホテル", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -98,9 +98,7 @@ export default function SeasonalFeaturePage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             ART & MUSEUM RETREAT
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【芸術の秋】名作アート鑑賞＆美術館リゾートホテル 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「芸術の秋」名作アート鑑賞＆美術館リゾートホテル 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             名画や現代アートの世界に一日中浸り、夜は静かにアートブックを開く贅沢。美しい建築、庭園、美食ディナーと温泉を兼ね備えた、知的好奇心を満たす大人の文化リゾートへ。
           </p>

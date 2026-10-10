@@ -6,14 +6,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月奈良】大和牛！名宿5選',
+  title: '11・12・1月奈良：大和牛！名宿5選',
   description: '初代神武天皇が即位した日本建国の聖地「橿原神宮（かしはらじんぐう）」が約100万人の新春参拝客を迎える11〜1月の冬旅特集。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '橿原神宮 初詣, 橿原神宮 冬, 飛鳥鍋 奈良, 明日香村 冬, 大和牛 すき焼き, グランドメルキュール奈良橿原, カンデオホテルズ奈良橿原, 畝傍山, 奈良 初詣',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nara-kashihara-jingu-hatsumode-asuka-asukunabe-yamatogyu-stay/"
   },
   openGraph: {
-    title: '【11・12・1月奈良】大和牛！名宿5選',
+    title: '11・12・1月奈良：大和牛！名宿5選',
     description: '初代神武天皇が即位した日本建国の聖地「橿原神宮（かしはらじんぐう）」が約100万人の新春参拝客を迎える11〜1月の冬旅特集。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-nara-kashihara-jingu-hatsumode-asuka-asukunabe-yamatogyu-stay',
     type: 'article',
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月奈良】日本建国の聖地「橿原神宮」新春初詣と畝傍山の冬朝霧！飛鳥路の静寂と名物「飛鳥鍋」・大和牛名宿5選",
+    title: "11・12・1月奈良：日本建国の聖地「橿原神宮」新春初詣と畝傍山の冬朝霧！飛鳥路の静寂と名物「飛鳥鍋」・大和牛名宿5選",
     description: "初代神武天皇が即位した日本建国の聖地「橿原神宮（かしはらじんぐう）」が約100万人の新春参拝客を迎える11〜1月の冬旅特集。畝傍山（うねびやま）を背景に白木造りの壮大な社殿が冬朝霧に煙る光景、石舞台古墳や飛鳥寺が静まり返る冬の明日香村、飛鳥時代の宮廷貴族の滋養食にルーツを持つ名物郷土料理「飛鳥鍋（牛乳仕立て出汁）」、極上の霜降りを誇る奈良銘柄牛「大和牛」のすき焼き。橿原・明日香の滞在拠点に最適な厳選ホテル・名宿5選を徹底解説します。",
     images: ['https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -281,10 +281,7 @@ export default function NaraKashiharaWinterPage() {
             <Sunrise className="w-4 h-4 text-amber-300" />
             <span>大和国・奈良 冬の特別紀行（11月・12月・1月）</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 font-journal-serif">
-            日本建国の聖地「橿原神宮」新春初詣と畝傍山の冬朝霧<br className="hidden md:inline" />
-            飛鳥路の静寂と名物「飛鳥鍋」・極上大和牛名宿
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 font-journal-serif">日本建国の聖地「橿原神宮」新春初詣と畝傍山の冬朝霧<br className="hidden md:inline" /> 飛鳥路の静寂と名物「飛鳥鍋」・極上大和牛名宿</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed max-w-3xl mb-6">
             第一代神武天皇が即位し、日本の黎明の歴史が幕を開けた大和の聖地・橿原と明日香村。約100万人が新春の祈りを捧げる橿原神宮の雄大な白木社殿、畝傍山から立ちのぼる神秘的な冬朝霧、飛鳥寺や石舞台古墳が静まり返る冬の明日香。古代貴族の滋養食に由来する名物「飛鳥鍋」と銘柄牛「大和牛」に舌鼓を打つ、歴史と温もりに満ちた冬旅へご案内します。
           </p>

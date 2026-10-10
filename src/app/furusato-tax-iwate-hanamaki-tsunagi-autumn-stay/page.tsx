@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     canonical: "https://croud-travel.pages.dev/furusato-tax-iwate-hanamaki-tsunagi-autumn-stay/",
   },
   openGraph: {
-    title: '【岩手・花巻温泉郷＆盛岡】錦秋の奥羽山脈＆名湯12湯！前沢牛・白金豚と渓谷露天風呂を巡る秋旅',
+    title: '岩手・花巻温泉郷＆盛岡：錦秋の奥羽山脈＆名湯12湯！前沢牛・白金豚と渓谷露天風呂を巡る秋旅',
     description: '10月・11月の岩手・花巻温泉郷＆盛岡つなぎ温泉を特集。宮沢賢治ゆかりのイーハトーブの山々が黄金色に染まる紅葉絶景、12の個性豊かな名湯、前沢牛や白金豚を堪能できる厳選3宿と楽天ふるさと納税の活用術をご紹介。',
     url: 'https://croud-travel.pages.dev/furusato-tax-iwate-hanamaki-tsunagi-autumn-stay',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            【岩手・花巻温泉郷＆盛岡】錦秋の奥羽山脈＆名湯12湯！前沢牛・白金豚と渓谷露天風呂を巡る秋旅
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">「岩手・花巻温泉郷＆盛岡」錦秋の奥羽山脈＆名湯12湯！前沢牛・白金豚と渓谷露天風呂を巡る秋旅</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の岩手・花巻温泉郷＆盛岡つなぎ温泉を特集。宮沢賢治ゆかりのイーハトーブの山々が黄金色に染まる紅葉絶景、12の個性豊かな名湯、前沢牛や白金豚を堪能できる厳選3宿と楽天ふるさと納税の活用術をご紹介。
           </p>

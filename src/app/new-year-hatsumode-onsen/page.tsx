@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/new-year-hatsumode-onsen/" },
-  title: "【年末年始・お正月】初詣＆初日の出ご来光温泉旅館 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "年末年始・お正月：初詣＆初日の出ご来光温泉旅館 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "新しい年の幕開け！伊勢神宮（三重）、鶴岡八幡宮（鎌倉）、成田山新勝寺（千葉）、犬吠埼温泉（本州最速初日の出）など、初詣と温泉おせち料理を堪能できる年末年始の人気宿を徹底解説。",
   keywords: ["年末年始", "お正月", "初詣", "初日の出ご来光温泉旅館", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
@@ -98,9 +98,7 @@ export default function SeasonalFeaturePage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             NEW YEAR RETREAT
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【年末年始・お正月】初詣＆初日の出ご来光温泉旅館 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「年末年始・お正月」初詣＆初日の出ご来光温泉旅館 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             厳かな新年の祈りと、太平洋から昇るまばゆい初日の出。豪華なおせち料理やお雑煮、初湯に浸かるお正月旅行。年末年始に訪れたい開運・初詣の温泉旅館を厳選紹介。
           </p>

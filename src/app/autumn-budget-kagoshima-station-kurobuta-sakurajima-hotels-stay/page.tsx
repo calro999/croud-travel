@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【鹿児島中央駅前】黒豚しゃぶしゃぶ＆桜島絶景庭園！2,000円台〜泊まれる格安ホテル5選',
+  title: '鹿児島中央駅前：黒豚しゃぶしゃぶ＆桜島絶景庭園！2,000円台〜泊まれる格安ホテル5選',
   description: '甘み豊かな黒豚しゃぶしゃぶや名物白熊、雄大な桜島を借景にする仙巌園を満喫！九州新幹線・鹿児島中央駅周辺で1泊2,000円台〜泊まれる超高コスパ格安宿厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetKagoshimaStationHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>極上黒豚グルメ＆桜島を望む名勝大名庭園</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【鹿児島中央駅前】旨味凝縮の黒豚料理＆仙巌園紅葉！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「鹿児島中央駅前」旨味凝縮の黒豚料理＆仙巌園紅葉！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-red-100/90 max-w-2xl mx-auto leading-relaxed">
             脂の甘みとキレが際立つ本場の鹿児島黒豚しゃぶしゃぶや黒豚とんかつ、名物芋焼酎に舌鼓。錦江湾と桜島を借景にする世界遺産の島津家別邸「仙巌園」の秋景色を堪能し、九州新幹線の発着する鹿児島中央駅から徒歩圏に2,000円台〜泊まれる最強コスパ宿を厳選。
           </p>

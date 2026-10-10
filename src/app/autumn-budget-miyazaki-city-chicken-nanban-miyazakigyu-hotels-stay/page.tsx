@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【宮崎市街】本場チキン南蛮＆極上宮崎牛！2,000円台〜泊まれる格安ホテル5選',
+  title: '宮崎市街：本場チキン南蛮＆極上宮崎牛！2,000円台〜泊まれる格安ホテル5選',
   description: '青島神社や高千穂への拠点となる南国宮崎！本場の甘酢タルタルが絡む発祥チキン南蛮や日本一の宮崎牛、地鶏炭火焼き。宮崎駅・橘通り周辺で1泊2,000円台〜3,000円台から泊まれる格安・高コスパホテル5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetFeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>本場発祥チキン南蛮＆極上宮崎牛・地鶏炭火焼</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【宮崎市街】本場チキン南蛮＆宮崎牛へ！<br className="hidden sm:inline" />2,000円台〜泊まれる中心部格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「宮崎市街」本場チキン南蛮＆宮崎牛へ！<br className="hidden sm:inline" />2,000円台〜泊まれる中心部格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-teal-100/90 max-w-2xl mx-auto leading-relaxed">
             南国の心地よい秋風が吹き抜ける宮崎のメインストリート・橘通り！名店「おぐら」で味わう本場発祥のチキン南蛮に、ジューシーな宮崎牛ステーキ、香ばしい地鶏の炭火焼きと本格芋焼酎。ドライブや観光のハブとなる宮崎市中心部で、1泊2,000円台〜3,000円台から泊まれる厳選宿をご紹介。
           </p>

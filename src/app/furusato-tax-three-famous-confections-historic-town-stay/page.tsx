@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-famous-confections-historic-town-stay/" },
-  title: '日本三大銘菓＆城下町の伝統茶寮・老舗和菓子文化宿×ふるさと納税完全ガイド【2026年最新】金沢・長岡・京都',
+  title: '日本三大銘菓＆城下町の伝統茶寮・老舗和菓子文化宿×ふるさと納税厳選ガイド金沢・長岡・京都',
   description: '茶道文化と職人技が生んだ和菓子の最高峰！石川金沢「長生殿」加賀前田家の茶の湯と山中温泉吉祥やまなか、新潟長岡「越乃雪」越後藩主を癒やした淡雪の口どけと蓬平温泉和泉屋、京都「京銘菓文化」御所御用達の至高の甘美と京都祇園料理旅館花楽。日本三大銘菓の城下町と名湯を巡る大人の甘美ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大銘菓・伝統和菓子文化特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大銘菓＆城下町の伝統茶寮・老舗和菓子文化宿×ふるさと納税完全ガイド【2026年最新】金沢・長岡・京都',
+    title: '日本三大銘菓＆城下町の伝統茶寮・老舗和菓子文化宿×ふるさと納税厳選ガイド金沢・長岡・京都',
     description: '茶道文化と職人技が生んだ和菓子の最高峰！石川金沢「長生殿」加賀前田家の茶の湯と山中温泉吉祥やまなか、新潟長岡「越乃雪」越後藩主を癒やした淡雪の口どけと蓬平温泉和泉屋、京都「京銘菓文化」御所御用達の至高の甘美と京都祇園料理旅館花楽。日本三大銘菓の城下町と名湯を巡る大人の甘美ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-famous-confections-historic-town-stay',
@@ -155,9 +155,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大銘菓・伝統和菓子文化特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大銘菓＆城下町茶寮宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大銘菓＆城下町茶寮宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             千利休以来の茶の湯の精神が受け継がれ、各大名家の庇護のもとで独自の発展を遂げた「日本三大銘菓」の街――加賀前田家の豊かな文化政策のもと、森八の三代目八幡太郎道清が創案した落雁の王様「長生殿」を誇る石川の城下町「金沢」、長岡藩三代藩主・牧野忠辰の病を平癒させたことから名付けられた越後特産の餅粉と和三盆が織りなす「越乃雪」の大和屋が息づく新潟「長岡」、そして平安遷都以来の公家文化と禅寺の茶礼が融合し、亀末廣の京のよすがや鍵善良房のくずきりなど無数の名菓を紡ぎ出してきた古都「京都」。名水と厳選素材、職人の研ぎ澄まされた感性によって作られる銘菓は、旅のひとときに格別の深みを与えてくれます。茶室や庭園を備えた格式ある料理旅館や名湯宿を拠点に、お茶と和菓子のマリアージュと郷土懐石に心洗われる贅沢なひとときを楽天ふるさと納税でお楽しみください。
           </p>

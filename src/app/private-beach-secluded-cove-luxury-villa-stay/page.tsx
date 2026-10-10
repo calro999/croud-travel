@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '【2026年】プライベートビーチ＆入江直結！波打ち際を独占する完全貸切オーシャンヴィラ5選 ｜ 日本全国・旅宿クラウド',
+  title: '2026年：プライベートビーチ＆入江直結！波打ち際を独占する完全貸切オーシャンヴィラ5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！客室から砂浜へ直結、誰にも邪魔されない完全プライベートな入江と天然温泉を備えた最高峰オーシャンフロントヴィラ5選。',
   keywords: ["2026年", "プライベートビーチ", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/private-beach-secluded-cove-luxury-villa-stay/",
   },
   openGraph: {
-    title: '【2026年】プライベートビーチ＆入江直結！波打ち際を独占する完全貸切オーシャンヴィラ5選',
+    title: '2026年：プライベートビーチ＆入江直結！波打ち際を独占する完全貸切オーシャンヴィラ5選',
     description: '2026年最新！客室から砂浜へ直結、誰にも邪魔されない完全プライベートな入江と天然温泉を備えた最高峰オーシャンフロントヴィラ5選。',
     url: 'https://croud-travel.pages.dev/private-beach-secluded-cove-luxury-villa-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -172,9 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>プライベートビーチ×完全貸切ヴィラ</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            【2026年】プライベートビーチ＆入江直結！波打ち際を独占する完全貸切オーシャンヴィラ5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」プライベートビーチ＆入江直結！波打ち際を独占する完全貸切オーシャンヴィラ5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             客室のテラスから素足でそのまま白砂のビーチへ。誰にも邪魔されない隠れ家のような入江で、寄せては返す波の音を聞きながら過ごす至福の時間。客室専用の天然温泉露天風呂やインフィニティプールを備えた、国内最高峰のオーシャンフロントラグジュアリー。
           </p>

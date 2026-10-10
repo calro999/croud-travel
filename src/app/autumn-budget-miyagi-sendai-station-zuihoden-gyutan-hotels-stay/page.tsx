@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【仙台駅前】瑞鳳殿紅葉ライトアップ＆名物牛たん炭火焼き！2,000円台〜泊まれる格安ホテル5選',
+  title: '仙台駅前：瑞鳳殿紅葉ライトアップ＆名物牛たん炭火焼き！2,000円台〜泊まれる格安ホテル5選',
   description: '杜の都・仙台！伊達政宗公が眠る瑞鳳殿の極彩色建築と秋の紅葉ライトアップ、ジューシーで肉厚な名物牛たん炭火焼きやずんだ餅。東北新幹線・JR仙台駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>杜の都瑞鳳殿の紅葉ライトアップ＆名物厚切り牛たん炭火焼き</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【仙台駅前】瑞鳳殿紅葉＆名物牛たん炭火焼き！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「仙台駅前」瑞鳳殿紅葉＆名物牛たん炭火焼き！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             伊達政宗公の霊屋「瑞鳳殿（ずいほうでん）」。桃山文化の絢爛豪華な廟建築を取り囲む錦秋のモミジと、幻想的な竹灯籠のライトアップ。炭火で香ばしく焼き上げる肉厚でジューシーな「仙台牛たん」やテールスープ、濃厚な「ずんだシェイク」に舌鼓！東北最大のターミナル・仙台駅周辺で2,000円台〜泊まれる優良ホテルを厳選。
           </p>

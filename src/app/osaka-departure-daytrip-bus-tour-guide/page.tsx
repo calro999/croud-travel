@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/osaka-departure-daytrip-bus-tour-guide/" },
-  title: "【大阪・梅田・難波発 日帰りバスツアーおすすめ】カニ食べ放題・有馬温泉・天橋立・淡路島の人気プラン比較",
+  title: "大阪・梅田・難波発 日帰りバスツアーおすすめ：カニ食べ放題・有馬温泉・天橋立・淡路島の人気プラン比較",
   description: "大阪・梅田・難波発の日帰りバスツアー特集！日本海冬のカニ尽くし食べ放題、有馬温泉の太閤の湯＆神戸牛ランチ、淡路島うずしおクルーズ＆玉ねぎ詰め放題など、日帰りで満喫できる極上バスツアー料金＆予約ガイド。",
   keywords: ["大阪", "梅田", "難波発", "日帰りバスツアーおすすめ", "カニ食べ放題", "有馬温泉", "天橋立"],
 };
@@ -157,12 +157,7 @@ export default function OsakaDepartureDaytripBusTourPage() {
             <span>大阪・梅田・難波発</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-5xl font-black tracking-tight leading-tight md:leading-[1.2] text-white">
-            【大阪・梅田・難波発 日帰りバスツアーおすすめ】
-            <br />
-            <span className="text-rose-300">カニ食べ放題・有馬温泉・天橋立・淡路島</span>
-            <span className="text-rose-100">の人気プラン比較</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-5xl font-black tracking-tight leading-tight md:leading-[1.2] text-white">「大阪・梅田・難波発 日帰りバスツアーおすすめ」 <br /> <span className="text-rose-300">カニ食べ放題・有馬温泉・天橋立・淡路島</span> <span className="text-rose-100">の人気プラン比較</span></h1>
 
           <p className="text-rose-100/90 text-sm md:text-base max-w-3xl leading-relaxed pt-2">
             大阪（梅田・難波）から出発する日帰りバスツアーを完全ナビゲート。日本海冬の味覚・カニ尽くし食べ放題から、有馬温泉の金泉・銀泉巡り＆神戸牛ランチ、鳴門海峡の渦潮クルーズまで、関西人が本気で選ぶコスパ最強プランの料金・見どころを徹底解説。

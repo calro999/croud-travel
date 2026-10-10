@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '日本三大美林＆巨樹・森林セラピー癒やしの宿×ふるさと納税完全ガイド【2026年最新】屋久島・木曽ヒノキ・青森ヒバの森',
+  title: '日本三大美林＆巨樹・森林セラピー癒やしの宿×ふるさと納税厳選ガイド屋久島・木曽ヒノキ・青森ヒバの森',
   description: '深い森の息吹で深呼吸！世界自然遺産鹿児島屋久島の屋久杉原生林リゾート、長野木曽谷の樹齢300年木曽ヒノキ露天風呂宿、青森十和田・奥入瀬渓流を包む青森ヒバの名湯。フィトンチッド満ちる原生林の力で心身を再生する森林リトリートを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: ["日本三大美林", "巨樹", "2026年最新", "屋久島", "木曽ヒノキ", "青森ヒバの森", "温泉宿"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-major-forest-therapy-retreat-stay/"
   },
   openGraph: {
-    title: '日本三大美林＆巨樹・森林セラピー癒やしの宿×ふるさと納税完全ガイド【2026年最新】屋久島・木曽ヒノキ・青森ヒバの森',
+    title: '日本三大美林＆巨樹・森林セラピー癒やしの宿×ふるさと納税厳選ガイド屋久島・木曽ヒノキ・青森ヒバの森',
     description: '深い森の息吹で深呼吸！世界自然遺産鹿児島屋久島の屋久杉原生林リゾート、長野木曽谷の樹齢300年木曽ヒノキ露天風呂宿、青森十和田・奥入瀬渓流を包む青森ヒバの名湯。フィトンチッド満ちる原生林の力で心身を再生する森林リトリートを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-major-forest-therapy-retreat-stay',
     type: 'article',
@@ -54,9 +54,7 @@ export default function FurusatoFeaturePage() {
             <span>✨</span>
             <span>日本三大美林・森林セラピー特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            日本三大美林＆巨樹・森林セラピー癒やしの宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">日本三大美林＆巨樹・森林セラピー癒やしの宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             一歩足を踏み入れれば、木漏れ日と苔の緑、そして鼻腔をくすぐる清々しい樹木の香り。木曽ヒノキ（長野）、青森ヒバ（青森）、そして屋久杉（鹿児島）など、日本が世界に誇る原生林や美林地帯には、日常のストレスを解き放つ不思議な生命力が満ちています。ヒノキ風呂やヒバ風呂に身を委ね、窓の外に広がる深い森のパノラマを眺めながら過ごす時間は、まさに究極の癒やし。楽天ふるさと納税でお得に森のリゾートへ旅立ちましょう。
           </p>

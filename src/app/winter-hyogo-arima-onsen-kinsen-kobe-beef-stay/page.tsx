@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月有馬温泉】日本最古の名湯で芯から温まる冬！名宿5選',
+  title: '有馬温泉で過ごす冬の旅（11・12月）！日本最古の名湯で芯から温まる冬！名宿5選',
   description: '日本三古湯・三名泉の筆頭として豊臣秀吉もこよなく愛した兵庫・有馬温泉。11月の瑞宝寺公園の紅葉の余韻から。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '有馬温泉 宿泊 11月 12月, 有馬温泉 金泉 銀泉, 有馬温泉 神戸牛 旅館, 兵衛向陽閣 有馬グランドホテル, 有馬温泉 おすすめ 宿, 六甲山 夜景 有馬温泉, 有馬温泉 冬 モデルコース',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay/",
   },
   openGraph: {
-    title: '【11・12月有馬温泉】日本最古の名湯で芯から温まる冬！名宿5選',
+    title: '有馬温泉で過ごす冬の旅（11・12月）！日本最古の名湯で芯から温まる冬！名宿5選',
     description: '日本三古湯・三名泉の筆頭として豊臣秀吉もこよなく愛した兵庫・有馬温泉。11月の瑞宝寺公園の紅葉の余韻から。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月有馬温泉の金泉銀泉と六甲山夜景】日本最古の名湯で芯から温まる冬・最高峰神戸牛会席を味わう老舗宿5選",
+    title: "有馬温泉の金泉銀泉と六甲山夜景で過ごす冬の旅（11・12月）！日本最古の名湯で芯から温まる冬・最高峰神戸牛会席を味わう老舗宿5選",
     description: "日本三古湯・三名泉の筆頭として豊臣秀吉もこよなく愛した兵庫・有馬温泉。11月の瑞宝寺公園の紅葉の余韻から、12月の六甲山から望む澄み切った1000万ドルの冬夜景。海水の約2倍の塩分と鉄分を含み冬でも湯冷め知らずの赤茶色の名湯「金泉」と、世界最高峰「神戸牛」の贅沢なすき焼き・ステーキ会席を堪能する極上冬宿ガイド。",
   }
 };
@@ -266,10 +266,7 @@ export default function ArimaWinterPage() {
             <Gem className="w-4 h-4 text-amber-300" />
             <span>11月・12月限定 日本最古の名湯・金泉銀泉と最高峰神戸牛特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月有馬温泉の金泉銀泉と六甲山夜景】<br className="hidden sm:inline" />
-            日本最古の名湯で芯から温まる冬・最高峰神戸牛会席を味わう老舗宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">有馬温泉の金泉銀泉と六甲山夜景で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 日本最古の名湯で芯から温まる冬・最高峰神戸牛会席を味わう老舗宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             神代より湧き出ずる日本最古の名湯。秀吉も傷と疲れを癒やした濃密な赤茶色の「金泉」は冬でも湯冷め知らず。澄み切った六甲山の1000万ドルの夜景と、霜降り美しき神戸牛の極上会席に酔いしれる週末の贅沢旅へ。
           </p>

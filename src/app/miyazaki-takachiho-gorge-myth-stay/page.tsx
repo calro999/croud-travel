@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/miyazaki-takachiho-gorge-myth-stay/" },
-  title: "【宮崎・高千穂峡】真名井の滝・高千穂神楽＆天安河原・宮崎牛極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "宮崎・高千穂峡：真名井の滝・高千穂神楽＆天安河原・宮崎牛極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "神話のふるさと宮崎・高千穂エリア完全特化！柱状節理の断崖絶壁と「真名井の滝」手漕ぎボート、夜毎奉納される「高千穂夜神楽」、天岩戸神社・天安河原、極上宮崎牛炭火焼きと隠れ家温泉宿を徹底解説。",
   keywords: ["宮崎", "高千穂峡", "真名井の滝", "高千穂神楽", "天安河原", "宮崎牛極上宿", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             TAKACHIHO MYTH & NATURE GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【宮崎・高千穂峡】真名井の滝・高千穂神楽＆天安河原・宮崎牛極上宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「宮崎・高千穂峡」真名井の滝・高千穂神楽＆天安河原・宮崎牛極上宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             阿蘇の火山活動が創り出した奇跡の峡谷「高千穂峡」。エメラルドグリーンの水面に流れ落ちる「真名井の滝」。天孫降臨の神話が息づく天安河原と、毎夜響く神楽の音。神秘のパワースポットと宮崎牛に癒やされる旅。
           </p>

@@ -3,11 +3,11 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【秋の京都】嵐山・嵯峨野の錦秋渡月橋と保津川下り！紅葉名所を満喫するおすすめ温泉・極上宿5選【2026最新】',
+  title: '秋の京都：嵐山・嵯峨野の錦秋渡月橋と保津川下り！紅葉名所を満喫するおすすめ温泉・極上宿5選「2026最新」',
   description: '京都の秋を代表する嵐山・渡月橋の山粧う紅葉美と保津川下り。天龍寺の曹源池庭園や嵯峨野竹林の小径散策に最適な嵐山温泉の厳選宿5選。翠嵐、花伝抄など人気宿の宿泊料金・アクセス・魅力を徹底比較解説！',
   keywords: '嵐山 紅葉, 京都 嵯峨野 温泉, 渡月橋 紅葉 宿, 保津川下り 観光, 翠嵐 ラグジュアリーコレクション, 嵐山温泉 花伝抄',
   openGraph: {
-    title: '【秋の京都】嵐山・嵯峨野の錦秋渡月橋と保津川下り！紅葉名所を満喫するおすすめ温泉・極上宿5選【2026最新】',
+    title: '秋の京都：嵐山・嵯峨野の錦秋渡月橋と保津川下り！紅葉名所を満喫するおすすめ温泉・極上宿5選「2026最新」',
     description: '京都の秋を代表する嵐山・渡月橋の山粧う紅葉美と保津川下り。天龍寺の曹源池庭園や嵯峨野竹林の小径散策に最適な嵐山温泉の厳選宿5選。',
     type: 'article',
     url: 'https://croud-travel.com/autumn-kyoto-arashiyama-sagano-momiji-onsen-hotels-stay',
@@ -32,9 +32,7 @@ export default function KyotoArashiyamaAutumnPage() {
             <span className="px-3 py-1 bg-amber-600 text-white text-xs font-bold rounded-full">秋の京都特集</span>
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">見頃目安: 11月中旬〜12月上旬</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">
-            【秋の京都】嵐山・嵯峨野の錦秋渡月橋と保津川下り！紅葉名所を満喫するおすすめ温泉・極上宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の京都」嵐山・嵯峨野の錦秋渡月橋と保津川下り！紅葉名所を満喫するおすすめ温泉・極上宿5選</h1>
           <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
             五山を借景に朱や黄金色に染まる嵐山と大堰川を渡る秋風。早朝の静寂に包まれる天龍寺曹源池庭園や竹林の小径、保津川渓谷を船で下る紅葉美を心ゆくまで堪能できる名宿をご紹介します。
           </p>

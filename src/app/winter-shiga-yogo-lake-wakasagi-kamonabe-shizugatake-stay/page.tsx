@@ -13,13 +13,13 @@ import {
 } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "【神秘の余呉湖ワカサギと本場天然真鴨鍋】2026-2027年冬の滋賀・湖北！賤ヶ岳雪景色と近江牛名宿5選 ｜ 日本全国・旅宿クラウド",
+  title: "神秘の余呉湖ワカサギと本場天然真鴨鍋：2026-2027年冬の滋賀・湖北！賤ヶ岳雪景色と近江牛名宿5選 ｜ 日本全国・旅宿クラウド",
   description: "白銀の賤ヶ岳を映す羽衣伝説の余呉湖で冬のワカサギ釣りと雪景色散策！湖北の冬の至宝「天然真鴨鍋」の芳醇な旨味と最高峰「近江牛」すき焼き、信長・浅井三姉妹ゆかりの名湯・須賀谷温泉に温まる贅沢な冬名宿5選。",
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shiga-yogo-lake-wakasagi-kamonabe-shizugatake-stay",
   },
   openGraph: {
-    title: "【神秘の余呉湖ワカサギと本場天然真鴨鍋】2026-2027年冬の滋賀・湖北！賤ヶ岳雪景色と近江牛名宿5選",
+    title: "神秘の余呉湖ワカサギと本場天然真鴨鍋：2026-2027年冬の滋賀・湖北！賤ヶ岳雪景色と近江牛名宿5選",
     description: "白銀の賤ヶ岳を映す羽衣伝説の余呉湖で冬のワカサギ釣りと雪景色散策！湖北の冬の至宝「天然真鴨鍋」の芳醇な旨味と最高峰「近江牛」すき焼き、信長・浅井三姉妹ゆかりの名湯・須賀谷温泉に温まる贅沢な冬名宿5選。",
     url: "https://croud-travel.pages.dev/winter-shiga-yogo-lake-wakasagi-kamonabe-shizugatake-stay",
     siteName: "日本全国・旅宿クラウド",
@@ -36,7 +36,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "【神秘の余呉湖ワカサギと本場天然真鴨鍋】2026-2027年冬の滋賀・湖北！賤ヶ岳雪景色と近江牛名宿5選",
+    title: "神秘の余呉湖ワカサギと本場天然真鴨鍋：2026-2027年冬の滋賀・湖北！賤ヶ岳雪景色と近江牛名宿5選",
     description: "白銀の賤ヶ岳を映す羽衣伝説の余呉湖で冬のワカサギ釣りと雪景色散策！湖北の冬の至宝「天然真鴨鍋」の芳醇な旨味と最高峰「近江牛」すき焼き、信長・浅井三姉妹ゆかりの名湯・須賀谷温泉に温まる贅沢な冬名宿5選。",
     images: ["https://img.travel.rakuten.co.jp/share/HOTEL/8796/8796.jpg"],
   },
@@ -167,9 +167,7 @@ export default function FeaturePage() {
               </span>
             </div>
 
-            <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold leading-tight">
-              【神秘の余呉湖ワカサギと本場天然真鴨鍋】2026-2027年冬の滋賀・湖北！賤ヶ岳雪景色と近江牛名宿5選
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold leading-tight">「神秘の余呉湖ワカサギと本場天然真鴨鍋」2026-2027年冬の滋賀・湖北！賤ヶ岳雪景色と近江牛名宿5選</h1>
 
             <p className="text-stone-300 text-xs sm:text-sm leading-relaxed max-w-3xl pt-2">
               琵琶湖の最北端、山々に囲まれた周囲わずか約6.4kmの静寂の湖「余呉湖（よごこ）」。風が穏やかな冬の日には周囲の雪山を鏡のように湖面に映し出すことから「鏡湖」とも称され、天女の羽衣伝説や菊石姫の伝承が残る神秘的な湖です。11月下旬から1月の冬期、余呉湖は冬の風物詩である「ワカサギ釣り」で活況を呈し、桟橋やボートから透き通った美魚を釣り上げる太公望たちで賑わいます。眼前にそびえる古戦場・賤ヶ岳（しずがたけ）の頂からは、白銀に染まる余呉湖と雄大な琵琶湖を同時に見下ろす息を呑む大パノラマが出現。そして湖北の冬を語る上で欠かせないのが、全国の美食家がこぞって訪れる究極の味覚「天然真鴨鍋（かもなべ）」。越冬のため飛来した真鴨の芳醇な脂と出汁、日本三大和牛「近江牛」のすき焼き、織田信長や浅井三姉妹ゆかりの名湯・須賀谷温泉の赤茶色の秘湯に寛ぐ、贅沢を極めた大人の冬旅へとお連れします。

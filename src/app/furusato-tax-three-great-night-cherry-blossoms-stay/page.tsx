@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '日本三大夜桜の名所と春の宵を彩る名門ホテル×ふるさと納税完全ガイド【2026年最新】弘前・高田城・上野',
+  title: '日本三大夜桜の名所と春の宵を彩る名門ホテル×ふるさと納税厳選ガイド弘前・高田城・上野',
   description: '春の夜空を桜色に染め上げる日本屈指の夜桜名所「日本三大夜桜」（青森・弘前城の花筏と夜桜、新潟・高田城の四千本ぼんぼり、東京・上野恩賜公園の風情）。幻想的なライトアップと名門ホテルステイ。楽天ふるさと納税完全活用。',
   keywords: ["2026年最新", "弘前", "高田城", "上野", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-night-cherry-blossoms-stay/",
   },
   openGraph: {
-    title: '日本三大夜桜の名所と春の宵を彩る名門ホテル×ふるさと納税完全ガイド【2026年最新】弘前・高田城・上野',
+    title: '日本三大夜桜の名所と春の宵を彩る名門ホテル×ふるさと納税厳選ガイド弘前・高田城・上野',
     description: '春の夜空を桜色に染め上げる日本屈指の夜桜名所「日本三大夜桜」（青森・弘前城の花筏と夜桜、新潟・高田城の四千本ぼんぼり、東京・上野恩賜公園の風情）。幻想的なライトアップと名門ホテルステイ。楽天ふるさと納税完全活用。',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-night-cherry-blossoms-stay',
     siteName: '旅宿クラウド',
@@ -108,9 +108,7 @@ export default function FurusatoUpgradedPage() {
             <span>✨</span>
             <span>日本三大夜桜・春宵絶景ステイ特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            日本三大夜桜の名所と春の宵を彩る名門ホテル×ふるさと納税完全ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">日本三大夜桜の名所と春の宵を彩る名門ホテル×ふるさと納税厳選ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             闇夜に浮かび上がる幾千本もの桜と、水面に映り込む淡紅色の光のコントラスト。「日本三大夜桜」と称される弘前公園、高田城址公園、上野恩賜公園は、息をのむほど幽玄でドラマティックな春の絶景を誇ります。濠を埋め尽くす桜の花筏、ぼんぼりに照らされた三重櫓、そして江戸情緒漂う上野の桜並木。夜風に舞う花吹雪を堪能した後は、洗練されたホテルで美酒とともに余韻に浸る贅沢。楽天ふるさと納税の宿泊クーポンを活用して、一生の思い出に残る夜桜旅行へ出かけましょう。
           </p>

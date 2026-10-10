@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【四日市】御在所岳の三段紅葉とスタミナ四日市とんてき！2,000円台〜格安ホテル5選',
+  title: '四日市：御在所岳の三段紅葉とスタミナ四日市とんてき！2,000円台〜格安ホテル5選',
   description: '山頂から山麓へとグラデーションで移り変わる御在所岳ロープウェイの「三段紅葉」！ニンニクと濃厚甘辛タレが絡む元祖四日市とんてき。近鉄四日市駅前で1泊2,000円台〜4,000円台の高評価宿5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetYokkaichiHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>御在所岳の三段紅葉＆名物四日市とんてき</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【四日市】御在所岳の三段紅葉＆本場とんてき！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「四日市」御在所岳の三段紅葉＆本場とんてき！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-emerald-100/90 max-w-2xl mx-auto leading-relaxed">
             湯の山温泉から御在所ロープウェイで登る御在所岳。秋は山頂のツツジの紅葉から中腹のモミジ、山麓の黄葉へと約1ヶ月かけて山全体が染まる「三段紅葉」の絶景！夜は四日市名物、分厚い豚ロース肉をニンニク濃厚タレで焼き上げたスタミナ満点「四日市とんてき」！2,000円台〜の優良宿を厳選。
           </p>

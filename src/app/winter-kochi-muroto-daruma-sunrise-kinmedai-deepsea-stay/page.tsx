@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月高知】太平洋の奇跡「だるま朝日！名宿5選',
+  title: '11・12・1月高知：太平洋の奇跡「だるま朝日！名宿5選',
   description: '11月中旬から1月中旬、高知県室戸岬は、冷気と黒潮の海水温差が生む冬の光学現象「だるま朝日・だるま夕日」のベストシーズン。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: 'だるま朝日, だるま夕日, 室戸岬, 室戸キンメダイ, 室戸キンメ丼, 御厨人窟 初日の出, 空海, ホテルなはり, 岬観光ホテル, リゾートホテル海辺の果樹園, 11月 12月 1月 高知旅行, 室戸海洋深層水',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kochi-muroto-daruma-sunrise-kinmedai-deepsea-stay/"
   },
   openGraph: {
-    title: '【11・12・1月高知】太平洋の奇跡「だるま朝日！名宿5選',
+    title: '11・12・1月高知：太平洋の奇跡「だるま朝日！名宿5選',
     description: '11月中旬から1月中旬、高知県室戸岬は、冷気と黒潮の海水温差が生む冬の光学現象「だるま朝日・だるま夕日」のベストシーズン。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-kochi-muroto-daruma-sunrise-kinmedai-deepsea-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月高知】太平洋の奇跡「だるま朝日・だるま夕日」と冬の極上「室戸キンメダイ」・御厨人窟初日の出＆海洋深層水リゾート宿5選",
+    title: "11・12・1月高知：太平洋の奇跡「だるま朝日・だるま夕日」と冬の極上「室戸キンメダイ」・御厨人窟初日の出＆海洋深層水リゾート宿5選",
     description: "11月中旬から1月中旬、高知県室戸岬は、冷気と黒潮の海水温差が生む冬の光学現象「だるま朝日・だるま夕日」のベストシーズン。弘法大師空海が開眼した御厨人窟からの元旦初日の出、深海から水揚げされる冬の極上ブランド魚「室戸キンメダイ（金目鯛）」の煮付けやキンメ丼。冬の陽だまりリゾートと太平洋を望む厳選名宿5選と1泊2日モデルコースを徹底ガイドします。",
     images: ['https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80']
   }
@@ -42,7 +42,7 @@ export default function KochiMurotoDarumaWinterPage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: "【11・12・1月高知】太平洋の奇跡「だるま朝日・だるま夕日」と冬の極上「室戸キンメダイ」・御厨人窟初日の出＆海洋深層水リゾート宿5選",
+    headline: "11・12・1月高知：太平洋の奇跡「だるま朝日・だるま夕日」と冬の極上「室戸キンメダイ」・御厨人窟初日の出＆海洋深層水リゾート宿5選",
     description: "11月中旬から1月中旬、高知県室戸岬は、冷気と黒潮の海水温差が生む冬の光学現象「だるま朝日・だるま夕日」のベストシーズン。弘法大師空海が開眼した御厨人窟からの元旦初日の出、深海から水揚げされる冬の極上ブランド魚「室戸キンメダイ（金目鯛）」の煮付けやキンメ丼。冬の陽だまりリゾートと太平洋を望む厳選名宿5選と1泊2日モデルコースを徹底ガイドします。",
     image: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
     datePublished: '',
@@ -282,9 +282,7 @@ export default function KochiMurotoDarumaWinterPage() {
             <Sunrise className="w-4 h-4 text-rose-300" />
             11月・12月・1月 冬の高知・室戸岬だるま太陽＆金目鯛特集
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【11・12・1月高知】太平洋の奇跡「だるま朝日・だるま夕日」と冬の極上「室戸キンメダイ」・御厨人窟初日の出＆海洋深層水リゾート宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「11・12・1月高知」太平洋の奇跡「だるま朝日・だるま夕日」と冬の極上「室戸キンメダイ」・御厨人窟初日の出＆海洋深層水リゾート宿5選</h1>
           <p className="text-slate-300 text-sm sm:text-base md:text-lg max-w-3xl leading-relaxed">
             太平洋を洗う暖流・黒潮と冬の冷気が紡ぎ出す光の奇跡「だるま朝日・だるま夕日」。弘法大師空海が悟りを開いた聖地・御厨人窟からの元旦初日の出と、深海から水揚げされる冬の極上魚王「室戸キンメダイ」。甘辛い照り煮と熱々の出汁茶漬けで締める名物キンメ丼、室戸海洋深層水の温もり。南国・土佐の冬の温かさと雄大な絶景に抱かれる名宿ステイをお届けします。
           </p>

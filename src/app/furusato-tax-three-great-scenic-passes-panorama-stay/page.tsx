@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-scenic-passes-panorama-stay/" },
-  title: '日本三大峠＆雲海パノラマ・歴史街道の難所と高原温泉宿×ふるさと納税完全ガイド【2026年最新】碓氷峠・箱根峠・天城峠',
+  title: '日本三大峠＆雲海パノラマ・歴史街道の難所と高原温泉宿×ふるさと納税厳選ガイド碓氷峠・箱根峠・天城峠',
   description: '山脈を越える風と絶景パノラマを体感する日本の名峠ドライブ！長野・群馬「碓氷峠」めがね橋の煉瓦アーチと旧軽井沢ホテル音羽ノ森、神奈川・静岡「箱根峠」東海道随一の天下の険・芦ノ湖富士山ビュー龍宮殿、静岡伊豆「天城峠」川端康成伊豆の踊子の天城隧道と伊豆長岡温泉ホテル天坊。四季折々の峠道ドライブと高原フレンチ、名湯露天風呂を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大峠・高原ドライブ特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大峠＆雲海パノラマ・歴史街道の難所と高原温泉宿×ふるさと納税完全ガイド【2026年最新】碓氷峠・箱根峠・天城峠',
+    title: '日本三大峠＆雲海パノラマ・歴史街道の難所と高原温泉宿×ふるさと納税厳選ガイド碓氷峠・箱根峠・天城峠',
     description: '山脈を越える風と絶景パノラマを体感する日本の名峠ドライブ！長野・群馬「碓氷峠」めがね橋の煉瓦アーチと旧軽井沢ホテル音羽ノ森、神奈川・静岡「箱根峠」東海道随一の天下の険・芦ノ湖富士山ビュー龍宮殿、静岡伊豆「天城峠」川端康成伊豆の踊子の天城隧道と伊豆長岡温泉ホテル天坊。四季折々の峠道ドライブと高原フレンチ、名湯露天風呂を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-scenic-passes-panorama-stay',
@@ -154,9 +154,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大峠・高原ドライブ特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大峠＆雲海パノラマ・歴史街道の絶景名宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大峠＆雲海パノラマ・歴史街道の絶景名宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             険しい山々を穿ち、国と国、文化と文化を繋いできた歴史ある峠道「日本三大峠・名峠」――アプト式鉄道の遺構・めがね橋や信越国境の雲海パノラマが美しい長野・群馬の「碓氷峠」、箱根八里で「天下の険」と歌われ富士山と芦ノ湖を眼下に望む東海道最大の難所・神奈川の「箱根峠」、そして深い原生林と浄蓮の滝、川端康成の名作『伊豆の踊子』の舞台として知られる伊豆半島の分水嶺・静岡の「天城峠」。四季の紅葉や深緑に彩られたワインディングロードを抜け、静かな高原リゾートや名湯で旅の疲れを癒やす贅沢なひとときを楽天ふるさと納税でお楽しみください。
           </p>

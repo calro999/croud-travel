@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月信州松本浅間温泉】開湯1300年アルカリ単純泉！名宿5選',
+  title: '信州松本浅間温泉で過ごす冬の旅（11・12月）！開湯1300年アルカリ単純泉！名宿5選',
   description: '11月から12月にかけて長野県・松本平は、雪化粧した北アルプスの山並みが澄み渡る初冬の青空にそびえ立ち。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '浅間温泉 宿泊, 松本 温泉 11月 12月, 国宝松本城 雪景色, 菊之湯 浅間温泉, ホテル玉之湯, 別亭一花, 梅の湯, 帰郷亭ゆもとや, 信州新そば 宿, 信州プレミアム牛 すき焼き, 松本城 イルミネーション',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagano-asama-onsen-matsumoto-castle-snow-stay/"
   },
   openGraph: {
-    title: '【11・12月信州松本浅間温泉】開湯1300年アルカリ単純泉！名宿5選',
+    title: '信州松本浅間温泉で過ごす冬の旅（11・12月）！開湯1300年アルカリ単純泉！名宿5選',
     description: '11月から12月にかけて長野県・松本平は、雪化粧した北アルプスの山並みが澄み渡る初冬の青空にそびえ立ち。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-nagano-asama-onsen-matsumoto-castle-snow-stay',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -280,10 +280,7 @@ export default function AsamaOnsenWinterFeature() {
             <Snowflake className="w-4 h-4" />
             11月・12月 冬の極上温泉特集｜長野・信州松本
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月信州松本浅間温泉】<br className="hidden sm:inline" />
-            国宝松本城の初雪と開湯1300年名湯・新そば＆信州牛すき焼きの宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">信州松本浅間温泉で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 国宝松本城の初雪と開湯1300年名湯・新そば＆信州牛すき焼きの宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             雪冠の北アルプスを仰ぐ城下町の奥座敷。松本藩主が愛した弱アルカリ性単純温泉に浸かり、11月解禁の香り高い信州新そばと最高峰ブランド信州プレミアム牛を堪能する大人の贅沢旅。
           </p>

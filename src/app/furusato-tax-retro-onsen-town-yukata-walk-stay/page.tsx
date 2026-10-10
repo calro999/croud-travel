@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '色浴衣と下駄で外湯めぐり＆レトロ温泉街歩き情緒の名宿×ふるさと納税完全ガイド【2026年最新】城崎・渋・銀山',
+  title: '色浴衣と下駄で外湯めぐり＆レトロ温泉街歩き情緒の名宿×ふるさと納税厳選ガイド城崎・渋・銀山',
   description: 'カランコロンと下駄の音を響かせて歩く日本の原風景！柳並木の大谿川沿いに7つの外湯が連なる兵庫・城崎温泉「料理旅館 よしはる」、石畳の坂道と九つの外湯・厄除け巡浴が名物の長野・信州渋温泉「いかり屋旅館」、大正浪漫の木造建築群とガス灯が幻想的な山形「銀山温泉 古勢起屋別館」。色浴衣の無料貸出や名物湯めぐり手形が付いた情緒宿に、楽天ふるさと納税トラベルクーポンで実質2,000円負担で宿泊する完全ガイド。',
   keywords: ["色浴衣と下駄で外湯めぐり", "2026年最新", "城崎", "銀山", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: { canonical: baseUrl + '/furusato-tax-retro-onsen-town-yukata-walk-stay/' },
   openGraph: {
-    title: '色浴衣と下駄で外湯めぐり＆レトロ温泉街歩き情緒の名宿×ふるさと納税完全ガイド【2026年最新】城崎・渋・銀山',
+    title: '色浴衣と下駄で外湯めぐり＆レトロ温泉街歩き情緒の名宿×ふるさと納税厳選ガイド城崎・渋・銀山',
     description: 'カランコロンと下駄の音を響かせて歩く日本の原風景！柳並木の大谿川沿いに7つの外湯が連なる兵庫・城崎温泉「料理旅館 よしはる」、石畳の坂道と九つの外湯・厄除け巡浴が名物の長野・信州渋温泉「いかり屋旅館」、大正浪漫の木造建築群とガス灯が幻想的な山形「銀山温泉 古勢起屋別館」。色浴衣の無料貸出や名物湯めぐり手形が付いた情緒宿に、楽天ふるさと納税トラベルクーポンで実質2,000円負担で宿泊する完全ガイド。',
     url: baseUrl + '/furusato-tax-retro-onsen-town-yukata-walk-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoRetroOnsenTownYukataStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             浴衣で巡るレトロ温泉街歩き＆外湯めぐり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            色浴衣と下駄で外湯めぐり＆レトロ温泉街歩き情緒の名宿×ふるさと納税完全ガイド【2026年最新】城崎・渋・銀山
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">色浴衣と下駄で外湯めぐり＆レトロ温泉街歩き情緒の名宿×ふるさと納税厳選ガイド城崎・渋・銀山</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             宿にチェックインしたら、お気に入りの色浴衣に袖を通し、下駄を鳴らしながら温泉街へ――。湯煙が立ち上るレトロな街並みを歩き、射的場や駄菓子屋を覗き、川沿いの足湯でひと休みしながら名物の外湯を巡る時間は、日本古来の温泉文化の最も美しい情景です。川沿いの柳並木と太鼓橋が絵画のように美しく「街全体が一つの宿」として親しまれる兵庫県・城崎温泉の老舗「料理旅館 よしはる」。昔ながらの石畳の坂道に九つの木造共同浴場が点在し巡浴手形を片手に巡る長野県・信州渋温泉の「いかり屋旅館」。そして大正から昭和初期の木造多層建築が銀山川を挟んで立ち並び、夕暮れにはガス灯が黄金色に輝く奇跡の景観を誇る山形県「銀山温泉 古勢起屋別館」。こうした歴史ある温泉街の人気旅館は予約が取りづらく宿泊単価も高めですが、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を使えば、実質自己負担2,000円で驚くほどお得に風情ある温泉街ステイが実現します。心躍るレトロな湯の町へ、浴衣姿で出かけましょう。
           </p>

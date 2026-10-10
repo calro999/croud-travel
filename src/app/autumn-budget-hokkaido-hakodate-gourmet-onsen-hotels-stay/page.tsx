@@ -3,11 +3,11 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【秋の函館×格安】五稜郭の紅葉と海鮮グルメ！1泊2,000円〜5,000円台の高コスパおすすめホテル5選【2026最新】',
+  title: '秋の函館×格安：五稜郭の紅葉と海鮮グルメ！1泊2,000円〜5,000円台の高コスパおすすめホテル5選「2026最新」',
   description: '星形の城郭が秋色に染まる特別史跡・五稜郭跡と函館山の秋夜景！朝食いくら食べ放題や源泉かけ流し温泉付きでも1泊2,000円〜5,000円台で泊まれる函館のコスパ最強ホテル5選。ホテルエノエ、オールインステイ、イマジンホテルの魅力を徹底比較！',
   keywords: '函館 格安 ホテル, 函館 朝食 美味しい ホテル, 五稜郭 紅葉, 函館山 夜景 宿, ホテルエノエ函館, ホテルオールインステイ函館',
   openGraph: {
-    title: '【秋の函館×格安】五稜郭の紅葉と海鮮グルメ！1泊2,000円〜5,000円台の高コスパおすすめホテル5選【2026最新】',
+    title: '秋の函館×格安：五稜郭の紅葉と海鮮グルメ！1泊2,000円〜5,000円台の高コスパおすすめホテル5選「2026最新」',
     description: '五稜郭の紅葉と函館山夜景！朝食いくら食べ放題や温泉付き1泊2,000円〜5,000円台の高コスパ宿5選。',
     type: 'article',
     url: 'https://croud-travel.com/autumn-budget-hokkaido-hakodate-gourmet-onsen-hotels-stay',
@@ -32,9 +32,7 @@ export default function HakodateBudgetAutumnPage() {
             <span className="px-3 py-1 bg-teal-600 text-white text-xs font-bold rounded-full">格安・北海道特集</span>
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">1泊目安: 2,000円台〜5,000円台</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">
-            【秋の函館×格安】五稜郭の紅葉と海鮮グルメ！1泊2,000円〜5,000円台の高コスパおすすめホテル5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の函館×格安」五稜郭の紅葉と海鮮グルメ！1泊2,000円〜5,000円台の高コスパおすすめホテル5選</h1>
           <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
             五稜郭タワーから見下ろす星形の紅葉パノラマと、空気が澄み渡り輝きを増す函館山からの「100万ドルの夜景」。海鮮市場での食べ歩きや名湯・湯の川温泉を驚きの低価格で満喫できる格安宿をご紹介します。
           </p>

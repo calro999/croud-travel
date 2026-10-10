@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '【2026年】青い海と島時間に包まれる！日本の秘境・離島リゾート＆隠れ家温泉宿5選 ｜ 日本全国・旅宿クラウド',
+  title: '2026年：青い海と島時間に包まれる！日本の秘境・離島リゾート＆隠れ家温泉宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！小豆島・屋久島・佐渡島・奄美大島など、豊かな自然と海に囲まれた離島の極上リゾート＆温泉宿5選。喧騒から離れた究極の島旅へ。',
   keywords: ["2026年", "離島リゾート", "隠れ家温泉宿5選", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/isolated-island-remote-paradise-resort-stay/",
   },
   openGraph: {
-    title: '【2026年】青い海と島時間に包まれる！日本の秘境・離島リゾート＆隠れ家温泉宿5選',
+    title: '2026年：青い海と島時間に包まれる！日本の秘境・離島リゾート＆隠れ家温泉宿5選',
     description: '2026年最新！小豆島・屋久島・佐渡島・奄美大島など、豊かな自然と海に囲まれた離島の極上リゾート＆温泉宿5選。喧騒から離れた究極の島旅へ。',
     url: 'https://croud-travel.pages.dev/isolated-island-remote-paradise-resort-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -172,9 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>離島リゾート×秘境島温泉</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            【2026年】青い海と島時間に包まれる！日本の秘境・離島リゾート＆隠れ家温泉宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」青い海と島時間に包まれる！日本の秘境・離島リゾート＆隠れ家温泉宿5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             船や飛行機で渡る非日常の島旅。どこまでも透明な青い海、島風がそよぐパームツリー、採れたての新鮮な島魚や郷土料理、そして波の音だけが響く露天風呂。手つかずの大自然と温かな島時間に包まれる贅沢な離島ステイをご紹介します。
           </p>

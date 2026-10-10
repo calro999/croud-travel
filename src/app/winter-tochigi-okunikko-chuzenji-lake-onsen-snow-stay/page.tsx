@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月奥日光中禅寺温泉】極上とちぎ和牛！名宿5選',
+  title: '奥日光中禅寺温泉で過ごす冬の旅（11・12月）！極上とちぎ和牛！名宿5選',
   description: '11月から12月にかけて栃木県・奥日光は、標高2,486mの霊峰・男体山が初雪の白銀を纏い。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '奥日光 中禅寺温泉 宿泊, 中禅寺湖 11月 12月, 中禅寺湖 雪 男体山, 中禅寺温泉 にごり湯, 中禅寺金谷ホテル, ザリッツカールトン日光, ホテル花庵, ホテル四季彩, 日光山水, とちぎ和牛 ステーキ, 日光 湯波 宿',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tochigi-okunikko-chuzenji-lake-onsen-snow-stay/",
   },
   openGraph: {
-    title: '【11・12月奥日光中禅寺温泉】極上とちぎ和牛！名宿5選',
+    title: '奥日光中禅寺温泉で過ごす冬の旅（11・12月）！極上とちぎ和牛！名宿5選',
     description: '11月から12月にかけて栃木県・奥日光は、標高2,486mの霊峰・男体山が初雪の白銀を纏い。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-tochigi-okunikko-chuzenji-lake-onsen-snow-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月奥日光中禅寺温泉の初冬中禅寺湖と男体山雪絶景】乳白色硫黄泉露天風呂・極上とちぎ和牛＆日光湯波会席の宿5選",
+    title: "奥日光中禅寺温泉の初冬中禅寺湖と男体山雪絶景で過ごす冬の旅（11・12月）！乳白色硫黄泉露天風呂・極上とちぎ和牛＆日光湯波会席の宿5選",
     description: "11月から12月にかけて栃木県・奥日光は、標高2,486mの霊峰・男体山が初雪の白銀を纏い、湖面標高1,269mの澄み切った中禅寺湖が静寂の鏡のように冬景色を映し出します。日光開山の祖・勝道上人ゆかりの源泉・日光湯元から約12kmを引湯する硫黄泉は、湧出時はエメラルドグリーン、空気に触れて神秘的な乳白色へと変化する美肌の名湯。冬の湖畔を眺めながら温まる雪見露天風呂、とろけるような霜降りの「とちぎ和牛」サーロイン、日光伝統の生湯波（ゆば）会席や奥日光イワナを堪能する極上の奥日光名宿5選を徹底解説。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80'],
   }
@@ -222,9 +222,7 @@ export default function OkunikkoChuzenjiWinterPage() {
             <span>11月・12月 冬の奥日光・中禅寺湖特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月奥日光中禅寺温泉の初冬中禅寺湖と男体山雪絶景】乳白色硫黄泉露天風呂・極上とちぎ和牛＆日光湯波会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">奥日光中禅寺温泉の初冬中禅寺湖と男体山雪絶景で過ごす冬の旅（11・12月）！乳白色硫黄泉露天風呂・極上とちぎ和牛＆日光湯波会席の宿5選</h1>
 
           <p className="text-sm sm:text-base lg:text-lg text-slate-300 leading-relaxed max-w-4xl">
             11月から12月にかけて、栃木県・奥日光は標高2,486mの聖峰・男体山が初雪の純白を纏い、湖面標高1,269mに広がる中禅寺湖は静寂の青い水鏡となって冬の空を映し出します。秋の喧騒が去った奥日光の静けさの中、日光湯元から引かれる源泉掛け流しの乳白色硫黄泉に浸かる贅沢。湯煙の向こうに広がる湖畔と山々の雪景色、極上ブランド牛「とちぎ和牛」のサーロインや日光伝統の引き上げ生湯波料理を心ゆくまで味わう、至高の奥日光名宿を厳選してご紹介します。

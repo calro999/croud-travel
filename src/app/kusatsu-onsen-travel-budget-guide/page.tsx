@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kusatsu-onsen-travel-budget-guide/" },
-  title: "【草津温泉旅行 費用】1泊2日いくらかかる？東京からの交通費＆湯畑周辺の宿泊費を完全計算 ｜ 日本全国・旅宿クラウド",
+  title: "草津温泉旅行 費用：1泊2日いくらかかる？東京からの交通費＆湯畑周辺の宿泊費を完全計算 ｜ 日本全国・旅宿クラウド",
   description: "草津温泉旅行の1泊2日費用を完全解説！東京からの直行バス（3,600円〜）vs 特急草津（6,100円）の交通費比較、湯畑徒歩圏の温泉旅館の宿泊費（8,000〜40,000円）、湯もみショー・西の河原露天風呂の体験費用まで。",
   keywords: ["草津温泉旅行", "費用", "湯畑周辺の宿泊費を完全計算", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -60,9 +60,7 @@ export default function KusatsuBudgetGuidePage() {
           <p className="text-cyan-200 font-bold text-sm uppercase tracking-widest">
             草津温泉は意外と安い！交通費込みで2万円台から行ける証明
           </p>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif leading-tight">
-            【草津温泉旅行 費用】<br />1泊2日いくらかかる？完全計算
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif leading-tight">「草津温泉旅行 費用」<br />1泊2日いくらかかる？完全計算</h1>
           <p className="text-sm text-cyan-50/80 max-w-2xl mx-auto pt-4">
             「草津って遠いし高そう…」と思っていませんか？実は東京から直行バスを使えば驚くほどリーズナブル。湯畑周辺の宿泊費から、湯もみショー、温泉まんじゅう食べ歩きまで全費用を公開します。
           </p>

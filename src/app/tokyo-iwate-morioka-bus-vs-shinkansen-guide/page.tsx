@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tokyo-iwate-morioka-bus-vs-shinkansen-guide/" },
-  title: "【東京〜盛岡・花巻】新幹線はやぶさ vs 夜行バス徹底比較！片道3,500円〜行く三大麺爆食＆花巻温泉郷1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+  title: "東京〜盛岡・花巻：新幹線はやぶさ vs 夜行バス徹底比較！片道3,500円〜行く三大麺爆食＆花巻温泉郷1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "東京から盛岡・花巻へ安く行くには？東北新幹線「はやぶさ」と夜行高速バスの料金・所要時間比較！盛岡三大麺（わんこそば・冷麺・じゃじゃ麺）制覇と宮沢賢治ゆかりの花巻温泉郷を満喫する1泊2日モデルコース。",
   keywords: ["東京〜盛岡", "花巻", "新幹線はやぶさ", "vs", "花巻温泉郷1泊2日モデルコース", "温泉宿", "宿泊予約"],
 };
@@ -149,9 +149,7 @@ export default function HighwayBusArticlePage() {
               交通手段の徹底比較＆最適ルート
             </span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【東京〜盛岡・花巻】新幹線はやぶさ vs 夜行バス徹底比較！片道3,500円〜行く三大麺爆食＆花巻温泉郷1泊2日モデルコース
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">「東京〜盛岡・花巻」新幹線はやぶさ vs 夜行バス徹底比較！片道3,500円〜行く三大麺爆食＆花巻温泉郷1泊2日モデルコース</h1>
           <p className="text-xs md:text-sm text-cyan-100/90 leading-relaxed font-medium">
             東北新幹線「はやぶさ」なら東京〜盛岡最速2時間10分・片道約15,010円（往復約30,020円）。夜行高速バスなら片道約3,500円〜7,500円！往復で2万円以上浮くため、わんこそば100杯挑戦、本場盛岡冷麺、花巻温泉郷の奥座敷名旅館を贅沢に楽しめます。
           </p>

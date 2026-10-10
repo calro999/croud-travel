@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【奈良駅前】東大寺大仏殿＆古都紅葉・三輪そうめん・大和牛！3,000円台〜泊まれる格安ホテル5選',
+  title: '奈良駅前：東大寺大仏殿＆古都紅葉・三輪そうめん・大和牛！3,000円台〜泊まれる格安ホテル5選',
   description: '世界遺産・東大寺の大仏殿と奈良公園の鹿・錦秋の紅葉！名物柿の葉寿司や大和牛、三輪そうめん。JR・近鉄奈良駅周辺で1泊3,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>世界遺産東大寺＆奈良公園の鹿・古都の名物グルメ</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【奈良駅前】東大寺大仏殿＆古都紅葉散歩！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「奈良駅前」東大寺大仏殿＆古都紅葉散歩！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             世界遺産「古都奈良の文化財」の中核をなす東大寺の大仏殿や興福寺五重塔、黄金色に輝く奈良公園のイチョウと愛らしい鹿たち。柿の葉寿司や大和牛、温かいにゅうめんなどの古都グルメに舌鼓！奈良駅周辺で3,000円台〜泊まれる優良格安ホテルを厳選。
           </p>

@@ -4,14 +4,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '11月3日解禁！山梨ヌーボー＆甲州勝沼ワイナリー巡り×石和温泉美食リゾート【ふるさと納税完全ガイド2026】 | 旅宿クラウド',
+  title: '11月3日解禁！山梨ヌーボー＆甲州勝沼ワイナリー巡り×石和温泉美食リゾート「ふるさと納税厳選ガイド2026」 | 旅宿クラウド',
   description: '10〜11月は日本ワイン発祥の地・山梨甲州勝沼がもっとも輝く収穫と新酒（山梨ヌーボー）のシーズン！約30軒の個性豊かなワイナリーでの試飲巡りと、美肌の名湯・石和温泉の掛け流し湯に癒やされる「ホテル古柏園」「ホテル平安」「中村屋旅館」。甲州牛ステーキとワインのマリアージュを、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
   keywords: ["11月3日解禁！山梨ヌーボー", "ふるさと納税", "2026", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-koshu-winery-harvest-autumn-wine-resort-stay/"
   },
   openGraph: {
-    title: '11月3日解禁！山梨ヌーボー＆甲州勝沼ワイナリー巡り×石和温泉美食リゾート【ふるさと納税完全ガイド2026】',
+    title: '11月3日解禁！山梨ヌーボー＆甲州勝沼ワイナリー巡り×石和温泉美食リゾート「ふるさと納税厳選ガイド2026」',
     description: '10〜11月は日本ワイン発祥の地・山梨甲州勝沼がもっとも輝く収穫と新酒（山梨ヌーボー）のシーズン！約30軒の個性豊かなワイナリーでの試飲巡りと、美肌の名湯・石和温泉の掛け流し湯に癒やされる「ホテル古柏園」「ホテル平安」「中村屋旅館」。甲州牛ステーキとワインのマリアージュを、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-koshu-winery-harvest-autumn-wine-resort-stay',
     siteName: '旅宿クラウド',
@@ -65,9 +65,7 @@ export default function FurusatoKoshuWineryHarvestStayPage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               山梨甲州勝沼ワイナリー新酒ワイン＆石和名湯リゾート特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              11月3日解禁！山梨ヌーボー＆甲州勝沼ワイナリー巡り×石和温泉美食リゾート【ふるさと納税完全ガイド2026】
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">11月3日解禁！山梨ヌーボー＆甲州勝沼ワイナリー巡り×石和温泉美食リゾート「ふるさと納税厳選ガイド2026」</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               10〜11月は日本ワイン発祥の地・山梨甲州勝沼がもっとも輝く収穫と新酒（山梨ヌーボー）のシーズン！約30軒の個性豊かなワイナリーでの試飲巡りと、美肌の名湯・石和温泉の掛け流し湯に癒やされる「ホテル古柏園」「ホテル平安」「中村屋旅館」。甲州牛ステーキとワインのマリアージュを、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。
             </p>

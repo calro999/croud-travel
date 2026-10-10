@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '北アルプス冠雪と安曇野の安曇野わさび田紅葉！美肌の穂高温泉郷宿×ふるさと納税完全ガイド【2026年最新秋旅】長野',
+  title: '北アルプス冠雪と安曇野の安曇野わさび田紅葉！美肌の穂高温泉郷宿×ふるさと納税厳選ガイド長野',
   description: '10月中旬〜11月上旬に見頃を迎える「信州安曇野（あずみの）」と穂高温泉郷。大王わさび農場の蓼川水車小屋紅葉と冠雪の北アルプス（常念岳）、名湯「安曇野穂高ビューホテル」「ガーデンあずみ野」「アートキャビン」で信州サーモンや信州そば・安曇野美豚・信州牛を堪能。楽天ふるさと納税で実質2,000円。',
   keywords: ["2026年最新秋旅", "長野", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-azumino-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '北アルプス冠雪と安曇野の安曇野わさび田紅葉！美肌の穂高温泉郷宿×ふるさと納税完全ガイド【2026年最新秋旅】長野',
+    title: '北アルプス冠雪と安曇野の安曇野わさび田紅葉！美肌の穂高温泉郷宿×ふるさと納税厳選ガイド長野',
     description: '10月中旬〜11月上旬に見頃を迎える「信州安曇野（あずみの）」と穂高温泉郷。大王わさび農場の蓼川水車小屋紅葉と冠雪の北アルプス（常念岳）、名湯「安曇野穂高ビューホテル」「ガーデンあずみ野」「アートキャビン」で信州サーモンや信州そば・安曇野美豚・信州牛を堪能。楽天ふるさと納税で実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-azumino-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FeatureArticlePage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               信州・安曇野わさび田紅葉＆穂高温泉郷特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              北アルプス冠雪と安曇野の安曇野わさび田紅葉！美肌の穂高温泉郷宿×ふるさと納税完全ガイド【2026年最新秋旅】長野
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">北アルプス冠雪と安曇野の安曇野わさび田紅葉！美肌の穂高温泉郷宿×ふるさと納税厳選ガイド長野</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               10月中旬〜11月上旬に見頃を迎える「信州安曇野（あずみの）」と穂高温泉郷。大王わさび農場の蓼川水車小屋紅葉と冠雪の北アルプス（常念岳）、名湯「安曇野穂高ビューホテル」「ガーデンあずみ野」「アートキャビン」で信州サーモンや信州そば・安曇野美豚・信州牛を堪能。楽天ふるさと納税で実質2,000円。
             </p>

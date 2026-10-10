@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { MapPin, Calendar, ExternalLink, HelpCircle, ChevronRight, ShieldCheck, Sparkles } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【標高1400mの白銀カルストと満天の星空】2026-2027年冬の愛媛・久万高原！高原温泉と冬絶景宿5選 | クラウドトラベル',
+  title: '標高1400mの白銀カルストと満天の星空：2026-2027年冬の愛媛・久万高原！高原温泉と冬絶景宿5選 | クラウドトラベル',
   description: '四国とは思えない白銀の別世界が広がる「四国カルスト天狗高原」と澄み切った満天の星空！四国霊場第44番大寶寺の新春初詣、滋味豊かな愛媛ブランド牛・きじ鍋と心温まる高原の名湯に寛ぐ大自然の冬名宿5選。',
   keywords: ['愛媛県冬旅行', '久万高原・四国カルスト・面河渓', '冬温泉', '2026', '2027', '雪景色', '冬の味覚', '楽天トラベル', 'ふるさと納税'],
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-ehime-kumakogen-shikoku-karst-snow-starry-hoshifuru-stay',
   },
   openGraph: {
-    title: '【標高1400mの白銀カルストと満天の星空】2026-2027年冬の愛媛・久万高原！高原温泉と冬絶景宿5選',
+    title: '標高1400mの白銀カルストと満天の星空：2026-2027年冬の愛媛・久万高原！高原温泉と冬絶景宿5選',
     description: '四国とは思えない白銀の別世界が広がる「四国カルスト天狗高原」と澄み切った満天の星空！四国霊場第44番大寶寺の新春初詣、滋味豊かな愛媛ブランド牛・きじ鍋と心温まる高原の名湯に寛ぐ大自然の冬名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-ehime-kumakogen-shikoku-karst-snow-starry-hoshifuru-stay',
     siteName: 'クラウドトラベル',
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: '【標高1400mの白銀カルストと満天の星空】2026-2027年冬の愛媛・久万高原！高原温泉と冬絶景宿5選',
+    title: '標高1400mの白銀カルストと満天の星空：2026-2027年冬の愛媛・久万高原！高原温泉と冬絶景宿5選',
     description: '四国とは思えない白銀の別世界が広がる「四国カルスト天狗高原」と澄み切った満天の星空！四国霊場第44番大寶寺の新春初詣、滋味豊かな愛媛ブランド牛・きじ鍋と心温まる高原の名湯に寛ぐ大自然の冬名宿5選。',
   },
 };
@@ -128,9 +128,7 @@ export default function Page() {
             </span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-stone-900 leading-tight">
-            【標高1400mの白銀カルストと満天の星空】2026-2027年冬の愛媛・久万高原！高原温泉と冬絶景宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-stone-900 leading-tight">「標高1400mの白銀カルストと満天の星空」2026-2027年冬の愛媛・久万高原！高原温泉と冬絶景宿5選</h1>
 
           <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pt-1">
             四国とは思えない白銀の別世界が広がる「四国カルスト天狗高原」と澄み切った満天の星空！四国霊場第44番大寶寺の新春初詣、滋味豊かな愛媛ブランド牛・きじ鍋と心温まる高原の名湯に寛ぐ大自然の冬名宿5選。

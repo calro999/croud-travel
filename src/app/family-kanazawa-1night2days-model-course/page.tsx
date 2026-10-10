@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/family-kanazawa-1night2days-model-course/" },
-  title: "【子連れ金沢旅行 1泊2日モデルコース】ベビーカーOKスポット＆キッズ歓迎・和室ホテルの安心プラン ｜ 日本全国・旅宿クラウド",
+  title: "子連れ金沢旅行 1泊2日モデルコース：ベビーカーOKスポット＆キッズ歓迎・和室ホテルの安心プラン ｜ 日本全国・旅宿クラウド",
   description: "小さなお子様や赤ちゃん連れの金沢1泊2日旅行！21世紀美術館のキッズスペース、兼六園の段差回避ルート、近江町市場の子連れランチ、添い寝無料＆和室ありの金沢駅前おすすめホテルを完全ガイド。",
   keywords: ["子連れ金沢旅行", "1泊2日モデルコース", "ベビーカーOKスポット", "キッズ歓迎", "和室ホテルの安心プラン", "温泉宿", "宿泊予約"],
 };
@@ -182,10 +182,7 @@ export default function FamilyKanazawaModelCoursePage() {
             </span>
           </div>
 
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【子連れ金沢旅行 1泊2日モデルコース】<br />
-            <span className="text-emerald-300">ベビーカーOKスポット＆キッズ歓迎・和室ホテルの安心プラン</span>
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「子連れ金沢旅行 1泊2日モデルコース」<br /> <span className="text-emerald-300">ベビーカーOKスポット＆キッズ歓迎・和室ホテルの安心プラン</span></h1>
 
           <p className="text-sm md:text-base text-emerald-100/90 leading-relaxed font-normal pt-1">
             歴史と伝統が息づく街・金沢。「石段や段差が多くてベビーカーは大変そう。」「子どもが騒いでも安心な和室ホテルはある？」と悩むパパママへ。21世紀美術館の授乳室情報から、兼六園のバリアフリールート、近江町市場の混雑回避ランチ、添い寝無料の金沢駅前おすすめ宿まで、リアルな子連れノウハウを凝縮しました！

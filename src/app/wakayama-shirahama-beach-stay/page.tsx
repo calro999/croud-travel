@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/wakayama-shirahama-beach-stay/" },
-  title: "【和歌山・南紀白浜】白良浜・アドベンチャーワールド＆崎の湯・クエ極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "和歌山・南紀白浜：白良浜・アドベンチャーワールド＆崎の湯・クエ極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "関西屈指のビーチリゾート南紀白浜エリア完全特化！真っ白な砂浜「白良浜」、アドベンチャーワールド、日本最古の野天風呂「崎の湯」、三段壁、幻の高級魚クエ料理とオーシャンビュー温泉旅館を徹底解説。",
   keywords: ["和歌山", "南紀白浜", "白良浜", "アドベンチャーワールド", "崎の湯", "クエ極上宿", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             SHIRAHAMA RESORT GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【和歌山・南紀白浜】白良浜・アドベンチャーワールド＆崎の湯・クエ極上宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「和歌山・南紀白浜」白良浜・アドベンチャーワールド＆崎の湯・クエ極上宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             白砂がまぶしいエメラルドグリーンのビーチ「白良浜」。波しぶきがかかる日本最古の海辺露天風呂「崎の湯」。ジャイアントパンダに出逢える「アドベンチャーワールド」と、幻の高級魚クエ鍋に舌鼓を打つリゾートステイ。
           </p>

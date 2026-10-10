@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/enoshima-kamakura-noriorikun-golden-route/" },
-  title: "【江ノ電1日乗車券のりおりくん完全攻略】800円で元を取るモデルコース＆海沿い途中下車の旅 ｜ 日本全国・旅宿クラウド",
+  title: "江ノ電1日乗車券のりおりくん完全攻略：800円で元を取るモデルコース＆海沿い途中下車の旅 ｜ 日本全国・旅宿クラウド",
   description:
     "江ノ電1日乗車券「のりおりくん」（大人800円）を徹底活用！何回乗れば元が取れる？（3回乗車で即元取れ）。鎌倉高校前踏切、七里ヶ浜海カフェ、長谷寺大仏、江ノ島シーキャンドルを巡る最強タイムテーブル。",
   keywords: ["800円で元を取るモデルコース", "海沿い途中下車の旅", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
@@ -167,14 +167,7 @@ export default function EnoshimaKamakuraNoriorikunPage() {
             <span className="w-2 h-2 rounded-full bg-amber-400 animate-ping" />
             江ノ電 乗り放題パス徹底攻略ガイド 2026
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【江ノ電1日乗車券のりおりくん完全攻略】<br />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-300 via-yellow-200 to-amber-400">
-              800円で元を取るモデルコース
-            </span>
-            <br />
-            ＆海沿い途中下車の旅
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「江ノ電1日乗車券のりおりくん完全攻略」<br /> <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-300 via-yellow-200 to-amber-400"> 800円で元を取るモデルコース </span> <br /> ＆海沿い途中下車の旅</h1>
           <p className="text-amber-100/90 text-base sm:text-lg max-w-3xl leading-relaxed mb-8">
             湘南・古都鎌倉を走る憧れのローカル鉄道「江ノ島電鉄」。大人1日800円の「のりおりくん」は、何回乗れば元が取れるのか？
             結論、たった3〜4回の途中下車で誰でも黒字化可能！鎌倉・長谷・七里ヶ浜・鎌倉高校前・江ノ島をムダなく巡る最強タイムテーブルと、湘南・鎌倉の厳選ホテルをご紹介します。

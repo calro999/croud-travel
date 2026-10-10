@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月山形蔵王温泉】極上山形牛すき焼き！名宿5選',
+  title: '山形蔵王温泉で過ごす冬の旅（11・12月）！極上山形牛すき焼き！名宿5選',
   description: '11月下旬から12月にかけて奥羽山脈の主峰・蔵王連峰に雪が降り積もり、冬の奇跡「樹氷（スノーモンスター）」が徐々に姿を現し始める山形「蔵王温泉」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '蔵王温泉 宿泊, 蔵王温泉 11月 12月, 深山荘 高見屋, 蔵王国際ホテル, 蔵王四季のホテル, ルーセントタカミヤ, おおみや旅館, 蔵王 樹氷 ライトアップ, 蔵王ロープウェイ, 山形牛 すき焼き, 山形 芋煮',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay/",
   },
   openGraph: {
-    title: '【11・12月山形蔵王温泉】極上山形牛すき焼き！名宿5選',
+    title: '山形蔵王温泉で過ごす冬の旅（11・12月）！極上山形牛すき焼き！名宿5選',
     description: '11月下旬から12月にかけて奥羽山脈の主峰・蔵王連峰に雪が降り積もり、冬の奇跡「樹氷（スノーモンスター）」が徐々に姿を現し始める山形「蔵王温泉」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月山形蔵王温泉の冬名湯と白銀の樹氷】初雪の強酸性硫黄泉露天と蔵王ロープウェイ・極上山形牛すき焼き＆郷土芋煮会席の宿5選",
+    title: "山形蔵王温泉の冬名湯と白銀の樹氷で過ごす冬の旅（11・12月）！初雪の強酸性硫黄泉露天と蔵王ロープウェイ・極上山形牛すき焼き＆郷土芋煮会席の宿5選",
     description: "11月下旬から12月にかけて奥羽山脈の主峰・蔵王連峰に雪が降り積もり、冬の奇跡「樹氷（スノーモンスター）」が徐々に姿を現し始める山形「蔵王温泉」。開湯1900年の歴史を誇るpH1.5前後の強酸性白濁硫黄泉は肌を滑らかにし血行を促進する「美人づくりの湯」。雪景色に包まれた野趣あふれる露天風呂、とろける肉質のブランド黒毛和牛「山形牛」「蔵王牛」のすき焼きや名物山形芋煮会席を満喫する厳選名宿5選を徹底解説。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80'],
   }
@@ -298,10 +298,7 @@ export default function ZaoOnsenWinterPage() {
             <Snowflake className="w-4 h-4 text-indigo-300" />
             <span>11月・12月限定 開湯1900年の強酸性白濁湯 樹氷形成の奇跡と極上山形牛</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月山形蔵王温泉の冬名湯と白銀の樹氷】<br className="hidden sm:inline" />
-            初雪の強酸性硫黄泉露天と蔵王ロープウェイ・極上山形牛すき焼き＆郷土芋煮会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">山形蔵王温泉の冬名湯と白銀の樹氷で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 初雪の強酸性硫黄泉露天と蔵王ロープウェイ・極上山形牛すき焼き＆郷土芋煮会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-slate-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             奥羽山脈の主峰・蔵王連峰に舞い降りる純白の雪。pH1.5前後の圧倒的な酸性度を誇る乳白色の硫黄泉露天風呂に浸かり、神秘の樹氷形成と極上山形牛すき焼き、熱々の山形芋煮を味わう冬の東北旅。
           </p>

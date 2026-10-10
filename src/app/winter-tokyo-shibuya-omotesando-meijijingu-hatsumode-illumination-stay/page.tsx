@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月東京】明治神宮初詣！名宿5選',
+  title: '11・12・1月東京：明治神宮初詣！名宿5選',
   description: '11月中旬から1月にかけて、渋谷・表参道・原宿は世界中から注目を集める光と祝祭の街へと進化します。表参道約1kmを黄金色に染め上げるケヤキ並。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '渋谷 ホテル, 表参道 イルミネーション, 明治神宮 初詣, 青の洞窟 渋谷, SHIBUYA SKY 富士山, セルリアンタワー東急ホテル, sequence MIYASHITA PARK, 渋谷エクセルホテル東急, 11月 12月 1月 東京 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tokyo-shibuya-omotesando-meijijingu-hatsumode-illumination-stay/"
   },
   openGraph: {
-    title: '【11・12・1月東京】明治神宮初詣！名宿5選',
+    title: '11・12・1月東京：明治神宮初詣！名宿5選',
     description: '11月中旬から1月にかけて、渋谷・表参道・原宿は世界中から注目を集める光と祝祭の街へと進化します。表参道約1kmを黄金色に染め上げるケヤキ並。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-tokyo-shibuya-omotesando-meijijingu-hatsumode-illumination-stay',
     siteName: '地域の宿探訪',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月東京】渋谷＆表参道・原宿！明治神宮初詣＆青の洞窟・表参道ケヤキ並木イルミとSHIBUYA SKY夜景を味わう名宿5選",
+    title: "11・12・1月東京：渋谷＆表参道・原宿！明治神宮初詣＆青の洞窟・表参道ケヤキ並木イルミとSHIBUYA SKY夜景を味わう名宿5選",
     description: "11月中旬から1月にかけて、渋谷・表参道・原宿は世界中から注目を集める光と祝祭の街へと進化します。表参道約1kmを黄金色に染め上げるケヤキ並木イルミネーション、代々木公園へと続く幻想的な「青の洞窟 SHIBUYA」、そして地上229m「SHIBUYA SKY」から冬の澄んだ夜空に広がる富士山夕景と都心360度パノラマ夜景。新春には日本一の参拝者数を誇る明治神宮で厳かな初詣。最新カルチャーと上質なホテルステイが交差する冬の渋谷滞在。楽天APIから最新取得した実力派ホテル5選を徹底解説します。",
     images: ["https://img.travel.rakuten.co.jp/share/HOTEL/11275/11275.jpg"]
   }
@@ -232,10 +232,7 @@ export default function TokyoShibuyaOmotesandoWinterPage() {
             <span>11月・12月・1月冬の都心カルチャー＆イルミネーション特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">
-            渋谷＆表参道・原宿！<br className="hidden sm:inline" />
-            明治神宮初詣＆青の洞窟・表参道イルミとSHIBUYA SKY夜景を味わう名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">渋谷＆表参道・原宿！<br className="hidden sm:inline" /> 明治神宮初詣＆青の洞窟・表参道イルミとSHIBUYA SKY夜景を味わう名宿5選</h1>
 
           <p className="text-slate-300 text-sm sm:text-base lg:text-lg leading-relaxed max-w-3xl mb-8">
             ケヤキ並木を黄金色に染め上げる表参道イルミネーション、代々木公園へと続く「青の洞窟」、そして地上229m「SHIBUYA SKY」から冬の澄んだ大気越しに望む夕富士と摩天楼の夜景。新年には日本一の参拝者数を誇る明治神宮の凛とした杜で初詣。世界最先端のカルチャーと上質なホテルステイが交差する冬の渋谷・表参道滞在をお届けします。

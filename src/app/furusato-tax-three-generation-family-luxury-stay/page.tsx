@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-generation-family-luxury-stay/" },
-  title: '【3世代家族旅行×高額枠一括消化】親孝行＆孫と泊まる客室露天風呂・離れ宿完全ガイド | クラウドトラベル',
+  title: '3世代家族旅行×高額枠一括消化：親孝行＆孫と泊まる客室露天風呂・離れ宿厳選ガイド | クラウドトラベル',
   description: '年収1,000万円超のふるさと納税枠を有効活用！熱海・白浜・那須高原の客室露天風呂付き離れやコネクティングルーム宿を厳選。祖父母・親・子ども全員が笑顔になれる3世代プレミアム家族旅。',
   openGraph: {
-    title: '【3世代家族旅行×高額枠一括消化】親孝行＆孫と泊まる客室露天風呂・離れ宿完全ガイド | クラウドトラベル',
+    title: '3世代家族旅行×高額枠一括消化：親孝行＆孫と泊まる客室露天風呂・離れ宿厳選ガイド | クラウドトラベル',
     description: '年収1,000万円超のふるさと納税枠を有効活用！熱海・白浜・那須高原の客室露天風呂付き離れやコネクティングルーム宿を厳選。祖父母・親・子ども全員が笑顔になれる3世代プレミアム家族旅。',
     type: 'article',
   },
@@ -59,9 +59,7 @@ export default function Page() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             ふるさと納税×3世代・高額枠一括活用
           </div>
-          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            【3世代家族旅行×高額枠一括消化】親孝行＆孫と泊まる客室露天風呂・離れ宿完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">「3世代家族旅行×高額枠一括消化」親孝行＆孫と泊まる客室露天風呂・離れ宿厳選ガイド</h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl mb-6">
             高所得者層ほど直面する「年末に数十万円分のふるさと納税上限枠が余ってしまい、使い道に困る。」という贅沢な悩み。細々とした返礼品を大量に頼むよりも、家族みんなで集まる「3世代親孝行旅行」の宿泊代金に一括充当するのが圧倒的に満足度の高い選択肢です。楽天ふるさと納税のトラベルクーポンなら、10万円の寄付で3万円、30万円の寄付なら9万円分の宿泊補助が手に入り、普段は手が届きにくい広々とした数寄屋造りの離れ客室や、客室専用露天風呂付きのスイートルームを気兼ねなく予約できます。おじいちゃん・おばあちゃんから小さなお孫さんまで、周囲に気兼ねなくゆったり寛げる熱海、白浜、那須高原の特選旅館をご紹介します。
           </p>

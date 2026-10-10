@@ -5,14 +5,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月大阪】勝ち運の寺「勝尾寺」新春初詣！名宿5選',
+  title: '11・12・1月大阪：勝ち運の寺「勝尾寺」新春初詣！名宿5選',
   description: '大阪都心から電車で約30分の北摂に位置する箕面。11〜1月は晩秋の紅葉から冬の雪化粧へと移ろい。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '勝尾寺 初詣, 勝ちダルマ 勝尾寺, 箕面大滝 冬, 箕面大滝 氷瀑, もみじの天ぷら, 箕面温泉, 大江戸温泉物語 箕面観光ホテル, 不死王閣, 箕面萱野駅, 大阪 冬 旅行',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-osaka-minoh-katsuoji-daruma-hatsumode-waterfall-onsen-stay'
   },
   openGraph: {
-    title: '【11・12・1月大阪】勝ち運の寺「勝尾寺」新春初詣！名宿5選',
+    title: '11・12・1月大阪：勝ち運の寺「勝尾寺」新春初詣！名宿5選',
     description: '大阪都心から電車で約30分の北摂に位置する箕面。11〜1月は晩秋の紅葉から冬の雪化粧へと移ろい。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-osaka-minoh-katsuoji-daruma-hatsumode-waterfall-onsen-stay',
     siteName: 'クラドトラベル',
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月大阪】勝ち運の寺「勝尾寺」新春初詣と勝ちダルマ祈願！白銀の「箕面大滝」氷紋と名物もみじ天ぷら・箕面温泉＆北摂厳選名宿5選",
+    title: "11・12・1月大阪：勝ち運の寺「勝尾寺」新春初詣と勝ちダルマ祈願！白銀の「箕面大滝」氷紋と名物もみじ天ぷら・箕面温泉＆北摂厳選名宿5選",
     description: "大阪都心から電車で約30分の北摂に位置する箕面。11〜1月は晩秋の紅葉から冬の雪化粧へと移ろい、日本の滝百選「箕面大滝」では冷え込みが厳しい日に清冽な氷紋や氷瀑が姿を現します。平安時代より勝運祈願の聖地として信仰を集める「勝尾寺」では、境内を埋め尽くす無数の赤い勝ちダルマと厳かな新春初詣。香ばしい伝統銘菓「もみじの天ぷら」や名水ゆば料理を味わい、関西屈指のトロトロ美肌湯「箕面温泉」「伏尾温泉」と北摂の厳選名宿5選を徹底特集。",
     images: ['https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=80']
   }
@@ -288,11 +288,7 @@ export default function OsakaMinohWinterFeaturePage() {
               <Sparkles className="w-4 h-4 text-rose-400" />
               11月・12月・1月冬の北摂探訪スペシャル
             </div>
-            <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight mb-6">
-              【大阪・箕面＆勝尾寺】<br className="hidden sm:inline" />
-              勝ち運の寺「勝尾寺」新春初詣と勝ちダルマ祈願！<br />
-              白銀の「箕面大滝」氷紋と名物もみじ天ぷら・箕面温泉名宿
-            </h1>
+            <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight mb-6">「大阪・箕面＆勝尾寺」<br className="hidden sm:inline" /> 勝ち運の寺「勝尾寺」新春初詣と勝ちダルマ祈願！<br /> 白銀の「箕面大滝」氷紋と名物もみじ天ぷら・箕面温泉名宿</h1>
             <p className="text-sm sm:text-base md:text-lg text-stone-300 leading-relaxed max-w-3xl mx-auto mb-8 font-normal">
               北大阪急行の延伸で都心から直通約20分と飛躍的に身近になった北摂の奥座敷・箕面。境内の至る所を真っ赤な勝ちダルマが埋め尽くす「勝尾寺」で己に打ち勝つ新春初詣。冬の澄んだ大気の中、落差33mの名瀑「箕面大滝」が魅せる氷紋・氷瀑の神秘。1300年の歴史を紡ぐ香ばしい「もみじの天ぷら」と、トロトロの美肌名湯「箕面温泉」「伏尾温泉」を巡る至福の冬旅へご案内します。
             </p>

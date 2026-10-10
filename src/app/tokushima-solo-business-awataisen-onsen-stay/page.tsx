@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tokushima-solo-business-awataisen-onsen-stay/" },
-  title: '【徳島出張＆眉山ひとり旅】徳島駅直結・リバーサイド天然温泉・阿波尾鶏＆徳島ラーメン！四国の東玄関で癒やされる極上ホテル 厳選3選',
+  title: '徳島出張＆眉山ひとり旅：徳島駅直結・リバーサイド天然温泉・阿波尾鶏＆徳島ラーメン！四国の東玄関で癒やされる極上ホテル 厳選3選',
   description: '本州（神戸・淡路島）から高速バス直結・阿波おどりの本場「徳島」！「JR徳島駅直結で眉山を望むランドマークホテル。」の「JRホテルクレメント徳島」、新町川のリバーサイドに天然温泉大浴場を備えた「徳島グランヴィリオホテル」、徳島駅前徒歩1分で安心ステイの「ダイワロイネットホテル徳島駅前」を徹底比較。',
   keywords: '徳島 出張 ホテル おすすめ,徳島 一人旅 ホテル,JRホテルクレメント徳島 宿泊,徳島グランヴィリオホテル 温泉,徳島ラーメン ホテル 駅前',
   openGraph: {
-    title: '【徳島出張＆眉山ひとり旅】徳島駅直結・リバーサイド天然温泉・阿波尾鶏＆徳島ラーメン！四国の東玄関で癒やされる極上ホテル 厳選3選',
+    title: '徳島出張＆眉山ひとり旅：徳島駅直結・リバーサイド天然温泉・阿波尾鶏＆徳島ラーメン！四国の東玄関で癒やされる極上ホテル 厳選3選',
     description: '本州（神戸・淡路島）から高速バス直結・阿波おどりの本場「徳島」！「JR徳島駅直結で眉山を望むランドマークホテル。」の「JRホテルクレメント徳島」、新町川のリバーサイドに天然温泉大浴場を備えた「徳島グランヴィリオホテル」、徳島駅前徒歩1分で安心ステイの「ダイワロイネットホテル徳島駅前」を徹底比較。',
     url: 'https://croud-travel.pages.dev/tokushima-solo-business-awataisen-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【徳島出張＆眉山ひとり旅】徳島駅直結・リバーサイド天然温泉・阿波尾鶏＆徳島ラーメン！四国の東玄関で癒やされる極上ホテル 厳選3選',
+    headline: '徳島出張＆眉山ひとり旅：徳島駅直結・リバーサイド天然温泉・阿波尾鶏＆徳島ラーメン！四国の東玄関で癒やされる極上ホテル 厳選3選',
     description: '本州（神戸・淡路島）から高速バス直結・阿波おどりの本場「徳島」！「JR徳島駅直結で眉山を望むランドマークホテル。」の「JRホテルクレメント徳島」、新町川のリバーサイドに天然温泉大浴場を備えた「徳島グランヴィリオホテル」、徳島駅前徒歩1分で安心ステイの「ダイワロイネットホテル徳島駅前」を徹底比較。',
     author: {
       '@type': 'Organization',
@@ -74,9 +74,7 @@ export default function ArticlePage() {
           <span>✨</span>
           <span>徳島・出張＆阿波尾鶏・リバーサイド特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【徳島出張＆眉山ひとり旅】徳島駅直結・リバーサイド天然温泉・阿波尾鶏＆徳島ラーメン！四国の東玄関で癒やされる極上ホテル 厳選3選
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">「徳島出張＆眉山ひとり旅」徳島駅直結・リバーサイド天然温泉・阿波尾鶏＆徳島ラーメン！四国の東玄関で癒やされる極上ホテル 厳選3選</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
           本州（神戸・淡路島）から高速バス直結・阿波おどりの本場「徳島」！「JR徳島駅直結で眉山を望むランドマークホテル。」の「JRホテルクレメント徳島」、新町川のリバーサイドに天然温泉大浴場を備えた「徳島グランヴィリオホテル」、徳島駅前徒歩1分で安心ステイの「ダイワロイネットホテル徳島駅前」を徹底比較。
         </p>

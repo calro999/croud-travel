@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '日本名水百選の湧水地と名水仕込み美食・美肌温泉宿×ふるさと納税完全ガイド【2026年最新】白川水源・安曇野・柿田川',
+  title: '日本名水百選の湧水地と名水仕込み美食・美肌温泉宿×ふるさと納税厳選ガイド白川水源・安曇野・柿田川',
   description: '大地が育んだ日本屈指の名水湧出地（熊本・南阿蘇白川水源、長野・安曇野わさび田湧水、静岡・富士山柿田川湧水群）。清冽な名水で仕込んだ地酒や信州蕎麦、名水豆腐に舌鼓を打ち、源泉名湯で癒やされる旅。楽天ふるさと納税完全活用。',
   keywords: ["美肌温泉宿×ふるさと納税", "2026年最新", "白川水源", "安曇野", "柿田川", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-famous-spring-waters-healing-stay/",
   },
   openGraph: {
-    title: '日本名水百選の湧水地と名水仕込み美食・美肌温泉宿×ふるさと納税完全ガイド【2026年最新】白川水源・安曇野・柿田川',
+    title: '日本名水百選の湧水地と名水仕込み美食・美肌温泉宿×ふるさと納税厳選ガイド白川水源・安曇野・柿田川',
     description: '大地が育んだ日本屈指の名水湧出地（熊本・南阿蘇白川水源、長野・安曇野わさび田湧水、静岡・富士山柿田川湧水群）。清冽な名水で仕込んだ地酒や信州蕎麦、名水豆腐に舌鼓を打ち、源泉名湯で癒やされる旅。楽天ふるさと納税完全活用。',
     url: 'https://croud-travel.pages.dev/furusato-tax-famous-spring-waters-healing-stay',
     siteName: '旅宿クラウド',
@@ -108,9 +108,7 @@ export default function FurusatoUpgradedPage() {
             <span>✨</span>
             <span>日本名水百選・清冽リトリート特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            日本名水百選の湧水地と名水仕込み美食・美肌温泉宿×ふるさと納税完全ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">日本名水百選の湧水地と名水仕込み美食・美肌温泉宿×ふるさと納税厳選ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             幾重もの地層をくぐり抜け、気の遠くなるような歳月を経て湧き出づる「日本名水百選」の奇跡の水。毎分60トンの清冽な水が砂を巻き上げて噴き出す「白川水源」、北アルプスの雪解け水が広大なわさび田を潤す「安曇野」、富士山の伏流水が青く輝く東洋一の湧水「柿田川」。名水が育む採れたての旬菜、銘酒、そして名水仕込みの美肌温泉。楽天ふるさと納税の宿泊割引クーポンを駆使して、心身を清らかに潤す名水巡礼の旅へ出かけましょう。
           </p>

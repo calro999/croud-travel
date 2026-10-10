@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-pagodas-heritage-stay/" },
-  title: '日本三大五重塔＆天を衝く木造美・国宝の塔と古都・門前名宿×ふるさと納税完全ガイド【2026年最新】法隆寺・東寺・羽黒山',
+  title: '日本三大五重塔＆天を衝く木造美・国宝の塔と古都・門前名宿×ふるさと納税厳選ガイド法隆寺・東寺・羽黒山',
   description: '日本木造建築の最高峰！世界最古の木造建築群を擁する飛鳥の至宝「法隆寺五重塔」門前宿和空法隆寺、現存木造塔として日本一の高さ約55mを誇る密教のシンボル「東寺五重塔」リーガロイヤルホテル京都、杉並木の深山に溶け込む東北最古の国宝美「羽黒山五重塔」湯田川温泉九兵衛旅館。日本三大五重塔の美と歴史ロマンを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大五重塔・国宝建築特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大五重塔＆天を衝く木造美・国宝の塔と古都・門前名宿×ふるさと納税完全ガイド【2026年最新】法隆寺・東寺・羽黒山',
+    title: '日本三大五重塔＆天を衝く木造美・国宝の塔と古都・門前名宿×ふるさと納税厳選ガイド法隆寺・東寺・羽黒山',
     description: '日本木造建築の最高峰！世界最古の木造建築群を擁する飛鳥の至宝「法隆寺五重塔」門前宿和空法隆寺、現存木造塔として日本一の高さ約55mを誇る密教のシンボル「東寺五重塔」リーガロイヤルホテル京都、杉並木の深山に溶け込む東北最古の国宝美「羽黒山五重塔」湯田川温泉九兵衛旅館。日本三大五重塔の美と歴史ロマンを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-pagodas-heritage-stay',
@@ -142,9 +142,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大五重塔・国宝建築特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大五重塔＆国宝木造美・古都門前宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大五重塔＆国宝木造美・古都門前宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             地震大国・日本において千数百年もの間倒れることなく立ち続け、心柱構造による免震の知恵と宮大工の神技を今に伝える「日本三大五重塔（国宝指定の最高峰）」――推古天皇の時代に建立され法隆寺西院伽藍の中心にそびえる世界最古の木造塔である奈良斑鳩の「法隆寺五重塔」、弘法大師空海が構想し徳川家光の再建によって約55mという日本一の木造高さを誇る古都の象徴・京都の「東寺五重塔」、そして樹齢数百年の爺スギが立ち並ぶ羽黒山の杜にひっそりと佇み杮葺き（こけらぶき）の素木造りが静謐な美を放つ山形庄内の「羽黒山五重塔」。凛とした歴史建築の美に心を洗われた後は、古都の精進・京懐石や庄内の山菜・日本海鮮魚を堪能する特別な旅を楽天ふるさと納税でお楽しみください。
           </p>

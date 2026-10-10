@@ -42,9 +42,7 @@ export default function Page() {
             <span className="inline-block w-2 h-2 rounded-full bg-rose-400 animate-pulse" />
             新日本三大夜景・天空パノラマ特集
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">
-            新日本三大夜景＆天空スカイパノラマ宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">新日本三大夜景＆天空スカイパノラマ宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg md:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed font-normal">
             宝石箱をひっくり返したような感動のパノラマ！福岡「皿倉山」100億ドルの夜景とホテルルートイン苅田駅前、山梨「笛吹川フルーツ公園」甲府盆地の星屑パノラマとホテルルートインコート甲府石和、奈良「若草山山頂」古都奈良の静寂と灯火・ホテルニューわかさ。新日本三大夜景の感動的な夜景ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。
           </p>

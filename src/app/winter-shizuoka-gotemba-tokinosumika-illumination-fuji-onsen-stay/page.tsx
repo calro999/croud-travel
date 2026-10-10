@@ -21,14 +21,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【御殿場・時之栖イルミネーション】ひかりのすみか550万球の光！名宿5選',
+  title: '御殿場・時之栖イルミネーション：ひかりのすみか550万球の光！名宿5選',
   description: '静岡・御殿場の冬を彩る日本屈指の光の祭典「時之栖イルミネーション ひかりのすみか」完全ガイド。全長300mの光のトンネル。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '御殿場, 時之栖, イルミネーション, ひかりのすみか, 御殿場高原ビール, 天然温泉 気楽坊, HOTEL CLAD, ドーミーインEXPRESS富士山御殿場, レンブラントプレミアム富士御殿場, 御殿場プレミアムアウトレット, 富士山 観光',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-shizuoka-gotemba-tokinosumika-illumination-fuji-onsen-stay',
   },
   openGraph: {
-    title: '【御殿場・時之栖イルミネーション】ひかりのすみか550万球の光！名宿5選',
+    title: '御殿場・時之栖イルミネーション：ひかりのすみか550万球の光！名宿5選',
     description: '静岡・御殿場の冬を彩る日本屈指の光の祭典「時之栖イルミネーション ひかりのすみか」完全ガイド。全長300mの光のトンネル。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-gotemba-tokinosumika-illumination-fuji-onsen-stay',
     siteName: 'トラベルマップ - 日本の観光名所＆ホテル厳選ガイド',
@@ -45,7 +45,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: '【御殿場・時之栖イルミネーション】ひかりのすみか550万球の光の回廊と白銀の富士山！クラフトビール＆天然温泉を満喫する冬の名宿5選',
+    title: '御殿場・時之栖イルミネーション：ひかりのすみか550万球の光の回廊と白銀の富士山！クラフトビール＆天然温泉を満喫する冬の名宿5選',
     description: '静岡・御殿場の冬を彩る日本屈指の光の祭典「時之栖イルミネーション ひかりのすみか」完全ガイド。全長300mの光のトンネル、日本一の高さを誇る噴水レーザーショー、富士山伏流水の御殿場高原ビールとバイキング、天然温泉「気楽坊」の死海風呂。御殿場アウトレット至近の厳選ホテル・リゾート5選。',
     images: ['https://img.travel.rakuten.co.jp/share/HOTEL/67487/67487.jpg'],
   },
@@ -55,7 +55,7 @@ export default function GotembaTokinosumikaPage() {
   const jsonLdArticle = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【御殿場・時之栖イルミネーション】ひかりのすみか550万球の光の回廊と白銀の富士山！クラフトビール＆天然温泉を満喫する冬の名宿5選',
+    headline: '御殿場・時之栖イルミネーション：ひかりのすみか550万球の光の回廊と白銀の富士山！クラフトビール＆天然温泉を満喫する冬の名宿5選',
     description: '静岡・御殿場の冬を彩る日本屈指の光の祭典「時之栖イルミネーション ひかりのすみか」完全ガイド。全長300mの光のトンネル、日本一の高さを誇る噴水レーザーショー、富士山伏流水の御殿場高原ビールとバイキング、天然温泉「気楽坊」の死海風呂。御殿場アウトレット至近の厳選ホテル・リゾート5選。',
     image: 'https://img.travel.rakuten.co.jp/share/HOTEL/67487/67487.jpg',
     datePublished: 'T00:00:00+09:00',
@@ -171,13 +171,7 @@ export default function GotembaTokinosumikaPage() {
             <span>11月・12月・1月 富士山麓・光とビールの祭典特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight sm:leading-tight mb-6">
-            【御殿場・時之栖イルミネーション】<br className="hidden sm:inline" />
-            ひかりのすみか550万球の回廊と白銀の富士山！<br />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-200 via-orange-200 to-yellow-100">
-              クラフトビール＆天然温泉を満喫する高原名宿5選
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight sm:leading-tight mb-6">「御殿場・時之栖イルミネーション」<br className="hidden sm:inline" /> ひかりのすみか550万球の回廊と白銀の富士山！<br /> <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-200 via-orange-200 to-yellow-100"> クラフトビール＆天然温泉を満喫する高原名宿5選 </span></h1>
 
           <p className="text-sm sm:text-lg text-slate-300 leading-relaxed max-w-3xl mx-auto mb-8">
             富士山の裾野、澄み切った冷気の中で光り輝く日本屈指の光の祭典「時之栖イルミネーション ひかりのすみか」。全長300mを誇る黄金の光のトンネル、最高到達点150mの圧巻の噴水レーザーショー。富士山の伏流水が生む本場「御殿場高原ビール」と焼きたてステーキ、死海風呂や富士展望露天が揃う天然温泉「気楽坊」。冬のアウトレットショッピングと組み合わせる至高のステイをご提案します。

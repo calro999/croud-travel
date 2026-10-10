@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月北海道・洞爺湖温泉】全室レイクビュー展望露天風呂！名宿5選',
+  title: '北海道・洞爺湖温泉で過ごす冬の旅（11・12月）！全室レイクビュー展望露天風呂！名宿5選',
   description: '11月から12月にかけて、北海道有数のカルデラ湖畔に広がる「洞爺湖温泉（とうやこおんせん）」は、日本最北の不凍湖が魅せる静寂の湖面と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '洞爺湖 温泉 宿泊, 北海道 温泉 11月 12月, 湖の栖, 乃の風リゾート, 洞爺湖万世閣, 洞爺サンパレス, 洞爺観光ホテル, 羊蹄山 絶景 宿, 白老牛, 噴火湾ホタテ, 洞爺湖 イルミネーション',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hokkaido-toyako-onsen-lakeview-illumination-stay/"
   },
   openGraph: {
-    title: '【11・12月北海道・洞爺湖温泉】全室レイクビュー展望露天風呂！名宿5選',
+    title: '北海道・洞爺湖温泉で過ごす冬の旅（11・12月）！全室レイクビュー展望露天風呂！名宿5選',
     description: '11月から12月にかけて、北海道有数のカルデラ湖畔に広がる「洞爺湖温泉（とうやこおんせん）」は、日本最北の不凍湖が魅せる静寂の湖面と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-toyako-onsen-lakeview-illumination-stay',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -246,10 +246,7 @@ export default function HokkaidoToyakoWinterFeature() {
             <Snowflake className="w-4 h-4" />
             11月・12月 冬の雪景色＆イルミネーション特集｜北海道・洞爺湖温泉
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            イルミネーションと冠雪羊蹄山絶景<br className="hidden sm:inline" />
-            全室レイクビュー展望露天＆白老牛・冬ホタテの宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">イルミネーションと冠雪羊蹄山絶景<br className="hidden sm:inline" /> 全室レイクビュー展望露天＆白老牛・冬ホタテの宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             日本最北の不凍湖が魅せる静謐の湖面と雪化粧の蝦夷富士。40万球の光のトンネルとインフィニティ展望露天風呂に癒やされる北の大人の冬リゾート。
           </p>

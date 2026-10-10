@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-fuji-view-onsen-resort-stay/" },
-  title: '絶景富士山ビュー露天風呂宿×ふるさと納税完全ガイド【2026年最新】河口湖・山中湖・日本平の霊峰一望リゾート',
+  title: '絶景富士山ビュー露天風呂宿×ふるさと納税厳選ガイド河口湖・山中湖・日本平の霊峰一望リゾート',
   description: '客室露天風呂や大浴場から雄大な世界遺産・富士山を一望！河口湖の逆さ富士、山中湖の紅富士、日本平の夜景パノラマ宿を楽天ふるさと納税宿泊クーポンでお得に予約する絶景旅ガイド。',
   keywords: ["2026年最新", "河口湖", "山中湖", "日本平の霊峰一望リゾート", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: '絶景富士山ビュー露天風呂宿×ふるさと納税完全ガイド【2026年最新】河口湖・山中湖・日本平の霊峰一望リゾート',
+    title: '絶景富士山ビュー露天風呂宿×ふるさと納税厳選ガイド河口湖・山中湖・日本平の霊峰一望リゾート',
     description: '客室露天風呂や大浴場から雄大な世界遺産・富士山を一望！河口湖の逆さ富士、山中湖の紅富士、日本平の夜景パノラマ宿を楽天ふるさと納税宿泊クーポンでお得に予約する絶景旅ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-fuji-view-onsen-resort-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FurusatoTaxPage() {
           <span className="inline-block px-4 py-1.5 rounded-full text-xs md:text-sm font-black bg-gradient-to-r from-amber-500 to-yellow-400 text-slate-950 mb-5 shadow-lg shadow-amber-500/20">
             富士山ビュー・絶景露天宿特集
           </span>
-          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">
-            絶景富士山ビュー露天風呂宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">絶景富士山ビュー露天風呂宿×ふるさと納税ガイド</h1>
           <p className="text-sm md:text-lg text-slate-300 leading-relaxed font-medium">
             客室露天風呂や大浴場から雄大な世界遺産・富士山を一望！河口湖の逆さ富士、山中湖の紅富士、日本平の夜景パノラマ宿を楽天ふるさと納税宿泊クーポンでお得に予約する絶景旅ガイド。
           </p>

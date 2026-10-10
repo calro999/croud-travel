@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【長崎駅前】秋の長崎ちゃんぽん・卓袱料理＆夜景！2,000円台〜泊まれる格安ホテル5選',
+  title: '長崎駅前：秋の長崎ちゃんぽん・卓袱料理＆夜景！2,000円台〜泊まれる格安ホテル5選',
   description: '濃厚白湯スープの熱々長崎ちゃんぽんや皿うどん、世界新三大夜景の稲佐山パノラマ！西九州新幹線・長崎駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetNagasakiStationHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>長崎グルメ三昧＆歴史ある異国情緒散策</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【長崎駅前】秋の熱々ちゃんぽん＆出島・稲佐山夜景！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「長崎駅前」秋の熱々ちゃんぽん＆出島・稲佐山夜景！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             秋の長崎は「長崎くんち」の熱気が残る異国情緒の季節。具だくさんの濃厚白湯ちゃんぽんや極細パリパリ麺の皿うどん、新地中華街の角煮まんじゅうを頬張り、世界新三大夜景の稲佐山へ。西九州新幹線が発着する長崎駅前から徒歩圏で2,000円台〜泊まれる優良宿を厳選。
           </p>

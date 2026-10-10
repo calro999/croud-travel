@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月沖縄那覇】新春波上宮初詣！名宿5選',
+  title: '11・12・1月沖縄那覇：新春波上宮初詣！名宿5選',
   description: '本土が厳しい寒さに震える11月・12月・1月、平均気温18℃前後の温暖な陽光が注ぐ沖縄・那覇エリアは極上の「避冬（ひとう）リゾート」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '那覇 ホテル, 波上宮 初詣, 首里城 見せる復興, 瀬長島ホテル, ロワジールホテル那覇, ハイアットリージェンシー那覇, 国際通り あぐー豚, 11月 12月 1月 沖縄 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-okinawa-naha-naminoe-shrine-hatsumode-agu-resort-stay/"
   },
   openGraph: {
-    title: '【11・12・1月沖縄那覇】新春波上宮初詣！名宿5選',
+    title: '11・12・1月沖縄那覇：新春波上宮初詣！名宿5選',
     description: '本土が厳しい寒さに震える11月・12月・1月、平均気温18℃前後の温暖な陽光が注ぐ沖縄・那覇エリアは極上の「避冬（ひとう）リゾート」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-okinawa-naha-naminoe-shrine-hatsumode-agu-resort-stay',
     type: 'article',
@@ -246,10 +246,7 @@ export default function OkinawaNahaWinterPage() {
             <span>11月・12月・1月冬の沖縄避冬特選ガイド｜那覇・首里・瀬長島</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            新春波上宮初詣＆首里城復興見学！<br className="hidden sm:inline" />
-            国際通り・あぐー豚しゃぶしゃぶとあったか避冬ホテル5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">新春波上宮初詣＆首里城復興見学！<br className="hidden sm:inline" /> 国際通り・あぐー豚しゃぶしゃぶとあったか避冬ホテル5選</h1>
 
           <p className="max-w-4xl text-sm sm:text-base md:text-lg text-slate-300 leading-relaxed font-normal">
             平均気温18℃の温暖な冬の沖縄。隆起サンゴ礁の断崖に佇む琉球八社最高位・波上宮での新春初詣、2026年正殿復元を迎える首里城の躍動する木造工事見学。甘み濃厚な極上あぐー豚しゃぶしゃぶと島野菜、地下深くから湧く天然温泉に浸かる至高の冬籠もりへご案内します。

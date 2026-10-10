@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/gunma-ikaho-solo-retreat-onsen-stay/" },
-  title: '【伊香保温泉ひとり旅・石段街おこもり】黄金の湯・白銀の湯・屋上絶景露天！レトロな石段街で情緒と癒やしを味わう厳選3宿',
+  title: '伊香保温泉ひとり旅・石段街おこもり：黄金の湯・白銀の湯・屋上絶景露天！レトロな石段街で情緒と癒やしを味わう厳選3宿',
   description: '万葉の時代から愛される名湯・伊香保！屋上露天風呂から上州の山並みを一望する「和心の宿 大森」、石段街近くで家庭的な温もりと源泉を楽しめる「旅館 春日楼」、創業440余年を誇る名門「福一」を楽天トラベル公式API最新データに基づき徹底比較。',
   keywords: '伊香保温泉 一人旅 宿,伊香保 ホテル 一人,和心の宿大森,伊香保 福一,旅館春日楼,伊香保 石段街 ひとり旅',
   openGraph: {
-    title: '【伊香保温泉ひとり旅・石段街おこもり】黄金の湯・白銀の湯・屋上絶景露天！レトロな石段街で情緒と癒やしを味わう厳選3宿',
+    title: '伊香保温泉ひとり旅・石段街おこもり：黄金の湯・白銀の湯・屋上絶景露天！レトロな石段街で情緒と癒やしを味わう厳選3宿',
     description: '万葉の時代から愛される名湯・伊香保！屋上露天風呂から上州の山並みを一望する「和心の宿 大森」、石段街近くで家庭的な温もりと源泉を楽しめる「旅館 春日楼」、創業440余年を誇る名門「福一」を楽天トラベル公式API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/gunma-ikaho-solo-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【伊香保温泉ひとり旅・石段街おこもり】黄金の湯・白銀の湯・屋上絶景露天！レトロな石段街で情緒と癒やしを味わう厳選3宿',
+    headline: '伊香保温泉ひとり旅・石段街おこもり：黄金の湯・白銀の湯・屋上絶景露天！レトロな石段街で情緒と癒やしを味わう厳選3宿',
     description: '万葉の時代から愛される名湯・伊香保！屋上露天風呂から上州の山並みを一望する「和心の宿 大森」、石段街近くで家庭的な温もりと源泉を楽しめる「旅館 春日楼」、創業440余年を誇る名門「福一」を楽天トラベル公式API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             群馬・伊香保温泉ひとり旅＆石段街レトロおこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【伊香保温泉ひとり旅・石段街おこもり】黄金の湯・白銀の湯・屋上絶景露天！レトロな石段街で情緒と癒やしを味わう厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「伊香保温泉ひとり旅・石段街おこもり」黄金の湯・白銀の湯・屋上絶景露天！レトロな石段街で情緒と癒やしを味わう厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

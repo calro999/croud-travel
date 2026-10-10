@@ -180,9 +180,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            至福のアフタヌーンティー＆本格極上スパ！女子旅・母娘旅で行きたいご褒美ラグジュアリーホテル
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">至福のアフタヌーンティー＆本格極上スパ！女子旅・母娘旅で行きたいご褒美ラグジュアリーホテル</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             洗練されたラウンジで味わう三段スタンドの華やかな季節のアフタヌーンティー。厳選された紅茶やシャンパンとともに語り合い、午後はホテル直営のラグジュアリースパでアロマオイルトリートメントに身を委ねる。日常を離れ、自分へのご褒美や大切な友人・母娘との優雅な休日を叶える名宿をご紹介します。
           </p>

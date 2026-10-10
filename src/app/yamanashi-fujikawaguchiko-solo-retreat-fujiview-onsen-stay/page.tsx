@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/yamanashi-fujikawaguchiko-solo-retreat-fujiview-onsen-stay/" },
-  title: '【富士山麓・富士河口湖温泉ひとり旅・富士絶景おこもり】屋上展望足湯・富士ビュー露天風呂・甲州牛懐石！新宿特急直通の絶景リトリート厳選3宿',
+  title: '富士山麓・富士河口湖温泉ひとり旅・富士絶景おこもり：屋上展望足湯・富士ビュー露天風呂・甲州牛懐石！新宿特急直通の絶景リトリート厳選3宿',
   description: '世界遺産富士山と河口湖の壮大なパノラマを望む富士五湖屈指の温泉地・富士河口湖温泉！屋上足湯や展望露天風呂から富士山を仰ぐ口コミ★4.7超の名門「湖南荘」、河口湖を見晴らすモダンリゾート「湖のホテル」、富士山と湖を望む数寄屋造りの名宿「若草の宿 丸栄」を楽天API最新データに基づき徹底比較。',
   keywords: '富士河口湖温泉 一人旅 宿,河口湖 ホテル 一人 温泉,湖南荘 河口湖,湖のホテル,若草の宿丸栄,富士山 ひとり旅 おこもり',
   openGraph: {
-    title: '【富士山麓・富士河口湖温泉ひとり旅・富士絶景おこもり】屋上展望足湯・富士ビュー露天風呂・甲州牛懐石！新宿特急直通の絶景リトリート厳選3宿',
+    title: '富士山麓・富士河口湖温泉ひとり旅・富士絶景おこもり：屋上展望足湯・富士ビュー露天風呂・甲州牛懐石！新宿特急直通の絶景リトリート厳選3宿',
     description: '世界遺産富士山と河口湖の壮大なパノラマを望む富士五湖屈指の温泉地・富士河口湖温泉！屋上足湯や展望露天風呂から富士山を仰ぐ口コミ★4.7超の名門「湖南荘」、河口湖を見晴らすモダンリゾート「湖のホテル」、富士山と湖を望む数寄屋造りの名宿「若草の宿 丸栄」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/yamanashi-fujikawaguchiko-solo-retreat-fujiview-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【富士山麓・富士河口湖温泉ひとり旅・富士絶景おこもり】屋上展望足湯・富士ビュー露天風呂・甲州牛懐石！新宿特急直通の絶景リトリート厳選3宿',
+    headline: '富士山麓・富士河口湖温泉ひとり旅・富士絶景おこもり：屋上展望足湯・富士ビュー露天風呂・甲州牛懐石！新宿特急直通の絶景リトリート厳選3宿',
     description: '世界遺産富士山と河口湖の壮大なパノラマを望む富士五湖屈指の温泉地・富士河口湖温泉！屋上足湯や展望露天風呂から富士山を仰ぐ口コミ★4.7超の名門「湖南荘」、河口湖を見晴らすモダンリゾート「湖のホテル」、富士山と湖を望む数寄屋造りの名宿「若草の宿 丸栄」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             山梨・富士河口湖温泉ひとり旅＆富士山絶景おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【富士山麓・富士河口湖温泉ひとり旅・富士絶景おこもり】屋上展望足湯・富士ビュー露天風呂・甲州牛懐石！新宿特急直通の絶景リトリート厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「富士山麓・富士河口湖温泉ひとり旅・富士絶景おこもり」屋上展望足湯・富士ビュー露天風呂・甲州牛懐石！新宿特急直通の絶景リトリート厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

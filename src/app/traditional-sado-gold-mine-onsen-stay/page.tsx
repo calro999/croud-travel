@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】佐渡金山世界遺産登録記念！極上日本海海の幸と絶景夕日温泉宿5選 | 日本全国・旅宿クラウド',
+  title: '2026年：佐渡金山世界遺産登録記念！極上日本海海の幸と絶景夕日温泉宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！祝・世界文化遺産登録の佐渡金山巡り！佐渡沖の寒ブリ・南蛮エビ・紅ズワイガニと七浦海岸の夕日を望む名湯旅館5選。',
   keywords: ["2026年", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: '【2026年】佐渡金山世界遺産登録記念！極上日本海海の幸と絶景夕日温泉宿5選',
+    title: '2026年：佐渡金山世界遺産登録記念！極上日本海海の幸と絶景夕日温泉宿5選',
     description: '2026年最新！祝・世界文化遺産登録の佐渡金山巡り！佐渡沖の寒ブリ・南蛮エビ・紅ズワイガニと七浦海岸の夕日を望む名湯旅館5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/traditional-sado-gold-mine-onsen-stay',
@@ -193,9 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> 佐渡金山世界遺産×日本海極上海鮮
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】佐渡金山世界遺産登録記念！極上日本海海の幸と絶景夕日温泉宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」佐渡金山世界遺産登録記念！極上日本海海の幸と絶景夕日温泉宿5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             世界遺産登録で熱い注目を集める新潟県「佐渡島の金山」。歴史ロマンあふれる史跡や相川の街並みを散策した後は、日本海屈指の豊かな海の幸—獲れたて南蛮エビや活ズワイガニ会席、七浦海岸の茜色に染まる夕日を望む天然温泉で島旅を堪能。
           </p>

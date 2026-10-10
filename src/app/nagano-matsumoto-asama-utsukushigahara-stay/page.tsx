@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagano-matsumoto-asama-utsukushigahara-stay/" },
-  title: "【長野・松本＆浅間温泉・美ヶ原】国宝松本城・クラフトの街＆信州そば・雲海宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "長野・松本＆浅間温泉・美ヶ原：国宝松本城・クラフトの街＆信州そば・雲海宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "城下町文化と高原パノラマ・長野松本＆浅間温泉・美ヶ原エリア完全特化！国宝五重天守「松本城」、中町通りのなまこ壁、美ヶ原高原の雲海、飛鳥時代開湯の「浅間温泉」、手打ち信州そばと信州サーモン宿を徹底解説。",
   keywords: ["長野", "松本", "浅間温泉", "美ヶ原", "国宝松本城", "クラフトの街", "信州そば"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             MATSUMOTO & UTSUKUSHIGAHARA GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【長野・松本＆浅間温泉・美ヶ原】国宝松本城・クラフトの街＆信州そば・雲海宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「長野・松本＆浅間温泉・美ヶ原」国宝松本城・クラフトの街＆信州そば・雲海宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             漆黒の天守がアルプスに映える国宝「松本城」と、民藝とクラフトの息づく城下町「松本」。飛鳥時代からの歴史を誇る文人墨客の奥座敷「浅間温泉」。標高2,000mの美ヶ原高原から見下ろす雲海と、香り高い信州手打ちそばへ。
           </p>

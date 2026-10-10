@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '日本三大漆器＆漆黒と金蒔絵の雅・作家の器で味わう名旅館宿×ふるさと納税完全ガイド【2026年最新】輪島・会津・山中',
+  title: '日本三大漆器＆漆黒と金蒔絵の雅・作家の器で味わう名旅館宿×ふるさと納税厳選ガイド輪島・会津・山中',
   description: '千年を超える日本の美意識と職人技が凝縮された伝統工芸「日本三大漆器」（石川能登・輪島塗、福島・会津塗、石川加賀・山中塗）。沈金・蒔絵の極致、堅牢優美な器でいただく極上懐石料理、登録有形文化財の名旅館。楽天ふるさと納税トラベルクーポンで実質2,000円負担で泊まる大人の知的好奇心を満たすクラフト温泉旅ガイド。',
   keywords: ["日本三大漆器", "漆黒と金蒔絵の雅", "2026年最新", "輪島", "会津", "山中", "温泉宿"],
   alternates: { canonical: baseUrl + '/furusato-tax-three-great-lacquer-craft-historic-inns-stay/' },
   openGraph: {
-    title: '日本三大漆器＆漆黒と金蒔絵の雅・作家の器で味わう名旅館宿×ふるさと納税完全ガイド【2026年最新】輪島・会津・山中',
+    title: '日本三大漆器＆漆黒と金蒔絵の雅・作家の器で味わう名旅館宿×ふるさと納税厳選ガイド輪島・会津・山中',
     description: '千年を超える日本の美意識と職人技が凝縮された伝統工芸「日本三大漆器」（石川能登・輪島塗、福島・会津塗、石川加賀・山中塗）。沈金・蒔絵の極致、堅牢優美な器でいただく極上懐石料理、登録有形文化財の名旅館。楽天ふるさと納税トラベルクーポンで実質2,000円負担で泊まる大人の知的好奇心を満たすクラフト温泉旅ガイド。',
     url: baseUrl + '/furusato-tax-three-great-lacquer-craft-historic-inns-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoRound63ArticlePage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             日本三大漆器・伝統工芸と美食旅館ステイ特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            日本三大漆器＆漆黒と金蒔絵の雅・作家の器で味わう名旅館宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">日本三大漆器＆漆黒と金蒔絵の雅・作家の器で味わう名旅館宿</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             しっとりと手に吸い付くような木肌の温もり、深みのある漆黒と朱の輝き、そして繊細極まる金蒔絵や沈金の文様。世界中から「JAPAN」と称えられてきた漆器文化の頂点を極めるのが「日本三大漆器」です。地の粉と布着せによる頑強な下地と華麗な加飾で堅牢優美を誇る能登・輪島塗、会津藩主の庇護のもとで花開いた消粉蒔絵と朱塗りの名品・福島会津塗、そして木地の挽物技術で日本一と謳われ木目の美しさを活かす加賀・山中塗。名匠たちが魂を込めて削り、塗り重ねた本物の漆器を使い、その土地の山海の恵みをいただく贅沢は、まさに五感で味わう日本の美の極致です。楽天ふるさと納税の宿泊割引クーポンを活用して、伝統文化の息づく名湯の宿で、器と料理が織りなす至福のペアリングステイをご堪能ください。
           </p>

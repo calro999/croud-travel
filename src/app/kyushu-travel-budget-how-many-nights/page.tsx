@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kyushu-travel-budget-how-many-nights/" },
-  title: "【九州旅行 何泊必要？】2泊3日・3泊4日の費用＆福岡→熊本→別府→鹿児島モデルルートの予算内訳",
+  title: "九州旅行 何泊必要？：2泊3日・3泊4日の費用＆福岡→熊本→別府→鹿児島モデルルートの予算内訳",
   description: "九州旅行は何泊あれば満足できる？2泊3日（福岡＋熊本or別府）・3泊4日（福岡→熊本→別府→鹿児島縦断）の費用を内訳付きで完全解説。九州新幹線・高速バスの交通費比較、温泉旅館・ビジネスホテルの相場も。",
   keywords: ["九州旅行", "何泊必要？", "2泊3日", "3泊4日の費用", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
@@ -60,10 +60,7 @@ export default function KyushuTravelNightsPage() {
           <div className="inline-block bg-teal-500 text-white text-xs font-bold px-3 py-1 rounded-sm tracking-widest">
             KYUSHU TRIP PLANNING
           </div>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            九州旅行、ぶっちゃけ何泊必要？<br className="hidden md:block" />
-            2泊3日 vs 3泊4日の費用とルート
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">九州旅行、ぶっちゃけ何泊必要？<br className="hidden md:block" /> 2泊3日 vs 3泊4日の費用とルート</h1>
           <p className="text-sm md:text-base text-emerald-100 font-medium leading-relaxed">
             「九州って広いけど、どこまで回れるの？」九州初心者が最初にぶつかる壁を完全解決。福岡を起点にして、2泊3日ならどこまで行ける？3泊4日なら九州縦断は可能？移動の交通費やご当地グルメの予算まで、徹底的に解説します。
           </p>

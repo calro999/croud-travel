@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            鳥取砂丘の夕日と砂の美術館！鳥取温泉の源泉かけ流し・11月解禁の松葉がにと鳥取和牛を味わう秋旅
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">鳥取砂丘の夕日と砂の美術館！鳥取温泉の源泉かけ流し・11月解禁の松葉がにと鳥取和牛を味わう秋旅</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             黄金の砂丘に沈む茜色の夕日と、街中に湧く自家源泉・冬の王様松葉がにの贅沢
           </p>

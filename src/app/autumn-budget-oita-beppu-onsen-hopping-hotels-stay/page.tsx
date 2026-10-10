@@ -3,11 +3,11 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【秋の別府温泉×格安】地獄めぐりと鶴見岳紅葉！源泉かけ流し1泊3,000円台〜のコスパ最強おすすめ宿5選【2026最新】',
+  title: '秋の別府温泉×格安：地獄めぐりと鶴見岳紅葉！源泉かけ流し1泊3,000円台〜のコスパ最強おすすめ宿5選「2026最新」',
   description: '湧出量日本一を誇るおんせん県おおいた・別府温泉！鶴見岳ロープウェイの紅葉パノラマと湯けむり立ちのぼる地獄めぐり。源泉かけ流し温泉付きで1泊3,000円〜6,000円台で泊まれる格安名宿5選。ホテルニューツルタ、清海荘など徹底比較！',
   keywords: '別府温泉 格安 宿, 別府 温泉 素泊まり 安い, 別府 地獄めぐり, 鶴見岳 紅葉, ホテルニューツルタ, 天空湯房 清海荘',
   openGraph: {
-    title: '【秋の別府温泉×格安】地獄めぐりと鶴見岳紅葉！源泉かけ流し1泊3,000円台〜のコスパ最強おすすめ宿5選【2026最新】',
+    title: '秋の別府温泉×格安：地獄めぐりと鶴見岳紅葉！源泉かけ流し1泊3,000円台〜のコスパ最強おすすめ宿5選「2026最新」',
     description: '湧出量日本一の別府温泉！源泉かけ流し温泉付き1泊3,000円台〜のコスパ最強おすすめ宿5選。',
     type: 'article',
     url: 'https://croud-travel.com/autumn-budget-oita-beppu-onsen-hopping-hotels-stay',
@@ -32,9 +32,7 @@ export default function BeppuBudgetAutumnPage() {
             <span className="px-3 py-1 bg-teal-600 text-white text-xs font-bold rounded-full">格安・温泉特集</span>
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">1泊目安: 3,000円台〜6,000円台</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">
-            【秋の別府温泉×格安】地獄めぐりと鶴見岳紅葉！源泉かけ流し1泊3,000円台〜のコスパ最強おすすめ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の別府温泉×格安」地獄めぐりと鶴見岳紅葉！源泉かけ流し1泊3,000円台〜のコスパ最強おすすめ宿5選</h1>
           <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
             街のいたるところから湯けむりが立ちのぼる世界屈指の温泉天国・別府。標高1,375mの鶴見岳を彩る三段紅葉と、別府湾を一望する展望露天風呂を1泊3,000円台から楽しめる驚異のコスパ宿をご案内します。
           </p>

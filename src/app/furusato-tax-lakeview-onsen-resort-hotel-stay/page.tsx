@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '静かな湖面と雄大な自然を望む絶景レイクビュー温泉リゾート名門ホテル×ふるさと納税完全ガイド【2026年最新】琵琶湖・洞爺湖・箱根芦ノ湖',
+  title: '静かな湖面と雄大な自然を望む絶景レイクビュー温泉リゾート名門ホテル×ふるさと納税厳選ガイド琵琶湖・洞爺湖・箱根芦ノ湖',
   description: '鏡のように輝く湖面と移りゆく空の色彩を部屋や露天風呂から一望！全室レイクビューバルコニーと天然温泉を誇る滋賀のシンボル「琵琶湖ホテル」、洞爺湖と水面が一体化するインフィニティ露天風呂が圧巻の「ザ・レイクスイート 湖の栖」、芦ノ湖越しに富士山を望む国登録有形文化財の名門温泉宿「箱根 蛸川温泉 龍宮殿」。開放感あふれる湖畔の特等席ステイを、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
   keywords: ["2026年最新", "琵琶湖", "洞爺湖", "箱根芦ノ湖", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: { canonical: baseUrl + '/furusato-tax-lakeview-onsen-resort-hotel-stay/' },
   openGraph: {
-    title: '静かな湖面と雄大な自然を望む絶景レイクビュー温泉リゾート名門ホテル×ふるさと納税完全ガイド【2026年最新】琵琶湖・洞爺湖・箱根芦ノ湖',
+    title: '静かな湖面と雄大な自然を望む絶景レイクビュー温泉リゾート名門ホテル×ふるさと納税厳選ガイド琵琶湖・洞爺湖・箱根芦ノ湖',
     description: '鏡のように輝く湖面と移りゆく空の色彩を部屋や露天風呂から一望！全室レイクビューバルコニーと天然温泉を誇る滋賀のシンボル「琵琶湖ホテル」、洞爺湖と水面が一体化するインフィニティ露天風呂が圧巻の「ザ・レイクスイート 湖の栖」、芦ノ湖越しに富士山を望む国登録有形文化財の名門温泉宿「箱根 蛸川温泉 龍宮殿」。開放感あふれる湖畔の特等席ステイを、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
     url: baseUrl + '/furusato-tax-lakeview-onsen-resort-hotel-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoLakeviewOnsenResortStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             湖畔絶景レイクビュー＆インフィニティ露天風呂宿特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            静かな湖面と雄大な自然を望む絶景レイクビュー温泉リゾート名門ホテル×ふるさと納税完全ガイド【2026年最新】琵琶湖・洞爺湖・箱根芦ノ湖
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">静かな湖面と雄大な自然を望む絶景レイクビュー温泉リゾート名門ホテル×ふるさと納税厳選ガイド琵琶湖・洞爺湖・箱根芦ノ湖</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             海のような荒々しい波がなく、静かで穏やかな時間がどこまでも流れる「湖畔（レイクサイド）のリゾートホテル」。遮るもののない広大な水面と、対岸に連なる美しい稜線、そして朝から夕、夜へと刻一刻と表情を変えるグラデーションは、見る人の心を穏やかに解きほぐしてくれます。日本最大の湖・琵琶湖のほとりに建ち、全室バルコニー付き客室と天然温泉「るりの湯」から雄大な湖景を望む「琵琶湖ホテル」、支笏洞爺国立公園の美しいカルデラ湖・洞爺湖にせり出すように造られた最上階のインフィニティ露天風呂が息をのむ「ザ・レイクスイート 湖の栖」、そして芦ノ湖の静寂な湖水越しに霊峰・富士山を一望し、国の登録有形文化財の雅な数寄屋建築を誇る箱根「龍宮殿」。水辺の開放感と良質な天然温泉を心ゆくまで味わうレイクビューの名宿を、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して実質自己負担2,000円で賢く予約し、心洗われるリフレッシュ旅へ出かけましょう。
           </p>

@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            日本新三景「耶馬渓・一目八景」奇岩と紅葉のパノラマ絶景＆名湯別府鉄輪温泉・極上関あじ関さば
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">日本新三景「耶馬渓・一目八景」奇岩と紅葉のパノラマ絶景＆名湯別府鉄輪温泉・極上関あじ関さば</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             奇岩と深紅のコントラストが魅せる耶馬渓の圧倒的景観。別府の湯けむりと豊後水道の極上魚に酔いしれる秋の大分路。
           </p>

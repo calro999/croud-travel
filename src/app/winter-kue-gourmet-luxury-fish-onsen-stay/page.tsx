@@ -180,9 +180,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            白身のトロと称される幻の高級魚！天然本クエ鍋＆クエフルコースを味わう冬の温泉宿
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">白身のトロと称される幻の高級魚！天然本クエ鍋＆クエフルコースを味わう冬の温泉宿</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             「クエを食ったら他の魚は食えん」と食通たちを唸らせる幻の高級魚・クエ。引き締まった上品な白身と、皮と身の間に凝縮されたプルプルの濃厚なコラーゲン。熱々のクエ鍋から立ち上る芳醇な出汁と、旨味をすべて吸い込んだ締めの雑炊。冬にしか味わえない最高峰の美味旅へ。
           </p>

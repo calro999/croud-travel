@@ -78,9 +78,7 @@ export default function PostsIndexPage() {
         <span className="text-[10px] font-extrabold tracking-widest text-amber-300 uppercase bg-amber-400/10 border border-amber-400/20 px-3 py-1 rounded-full inline-block mb-3">
           HOTEL JOURNAL ARCHIVE 📜
         </span>
-        <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight">
-          日本全国の厳選宿・特集ルポ一覧
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight">日本全国の厳選宿・特集ルポ一覧</h1>
         <p className="mt-3 text-xs md:text-sm text-emerald-100/80 max-w-2xl leading-relaxed">
           全国47都道府県の温泉旅館・リゾートホテル・名門シティホテルを旅ライターが徹底取材。エリアや旅のテーマから、今行くべき理想の宿泊体験を探してみてください。
         </p>

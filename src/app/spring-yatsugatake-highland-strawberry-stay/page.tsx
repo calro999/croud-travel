@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】甘い香りに満ちる春の高原！完熟いちご狩り＆摘みたて苺パフェと八ヶ岳温泉宿5選 | 日本全国・旅宿クラウド',
+  title: '2026年：甘い香りに満ちる春の高原！完熟いちご狩り＆摘みたて苺パフェと八ヶ岳温泉宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！八ヶ岳・清里高原のプレミアム完熟いちご狩り食べ放題！ホテル特製あまおう・紅ほっぺパフェと南アルプス連峰を望む高原露天リゾート5選。',
   keywords: ["2026年", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: '【2026年】甘い香りに満ちる春の高原！完熟いちご狩り＆摘みたて苺パフェと八ヶ岳温泉宿5選',
+    title: '2026年：甘い香りに満ちる春の高原！完熟いちご狩り＆摘みたて苺パフェと八ヶ岳温泉宿5選',
     description: '2026年最新！八ヶ岳・清里高原のプレミアム完熟いちご狩り食べ放題！ホテル特製あまおう・紅ほっぺパフェと南アルプス連峰を望む高原露天リゾート5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/spring-yatsugatake-highland-strawberry-stay',
@@ -193,9 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> 八ヶ岳完熟いちご×高原展望名湯
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】甘い香りに満ちる春の高原！完熟いちご狩り＆摘みたて苺パフェと八ヶ岳温泉宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」甘い香りに満ちる春の高原！完熟いちご狩り＆摘みたて苺パフェと八ヶ岳温泉宿5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             澄んだ空気と豊富な日照時間が育む、糖度抜群の高原完熟いちご。契約農園でのいちご狩りやパティシエ特製のいちごパフェを堪能し、八ヶ岳や南アルプス連峰の絶景を望む高原温泉で心ほどける春の休日。
           </p>

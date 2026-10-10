@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月石川・加賀片山津温泉】11月解禁加能ガニ！名宿5選',
+  title: '石川・加賀片山津温泉で過ごす冬の旅（11・12月）！11月解禁加能ガニ！名宿5選',
   description: '11月から12月にかけて石川県加賀市の片山津温泉は、柴山潟の穏やかな水面に初冠雪で純白に輝く霊峰白山連峰が鏡のように映り込む。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '片山津温泉 宿泊, 柴山潟 白山 絶景 11月 12月, 佳水郷, 季がさね, かのや光楽苑, 矢田屋松濤園, 湖畔の宿森本, 加能ガニ 石川, 香箱ガニ 宿, 片山津温泉 塩化物泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-ishikawa-katayamazu-onsen-hakusan-kano-crab-stay/"
   },
   openGraph: {
-    title: '【11・12月石川・加賀片山津温泉】11月解禁加能ガニ！名宿5選',
+    title: '石川・加賀片山津温泉で過ごす冬の旅（11・12月）！11月解禁加能ガニ！名宿5選',
     description: '11月から12月にかけて石川県加賀市の片山津温泉は、柴山潟の穏やかな水面に初冠雪で純白に輝く霊峰白山連峰が鏡のように映り込む。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-ishikawa-katayamazu-onsen-hakusan-kano-crab-stay',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -280,10 +280,7 @@ export default function KatayamazuOnsenWinterFeature() {
             <Snowflake className="w-4 h-4" />
             11月・12月 冬の極上絶景特集｜石川・加賀片山津
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月石川・加賀片山津温泉】<br className="hidden sm:inline" />
-            柴山潟と白山初冠雪パノラマ・11月解禁加能ガニ＆香箱ガニの宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">石川・加賀片山津温泉で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 柴山潟と白山初冠雪パノラマ・11月解禁加能ガニ＆香箱ガニの宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             日に七度色を変える柴山潟の水鏡に映る霊峰白山の初雪。湖底から自噴する高濃度塩化物泉のポカポカ温まり湯に浸かり、青タグ加能ガニと冬限定香箱ガニを堪能する北陸の贅沢旅。
           </p>

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-solo-travel-retreat/" },
-  title: "【おひとり様歓迎】秋・冬の気ままな一人旅温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "おひとり様歓迎：秋・冬の気ままな一人旅温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "誰にも気兼ねしない自由な時間。箱根、熱海、草津温泉、京都など、1名宿泊プランが充実し、露天風呂付き客室や部屋食、大浴場＆サウナで自分を癒やす秋・冬の一人旅宿を徹底解説。",
   keywords: ["おひとり様歓迎", "冬の気ままな一人旅温泉宿", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
@@ -98,9 +98,7 @@ export default function SeasonalFeaturePage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             SOLO RETREAT
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【おひとり様歓迎】秋・冬の気ままな一人旅温泉宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「おひとり様歓迎」秋・冬の気ままな一人旅温泉宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             思い立った時にふらりと出かける一人旅。読書に没頭したり、気の向くままに名湯に浸かったり、美味しい地酒と料理を味わったり。ひとり旅に優しい安心の厳選宿をご紹介します。
           </p>

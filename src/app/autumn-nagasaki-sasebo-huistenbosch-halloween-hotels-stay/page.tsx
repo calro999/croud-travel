@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【2026年秋！ハウステンボス・ハロウィンナイト】イルミネーションと直営・周辺人気ホテル5選",
+  title: "2026年秋！ハウステンボス・ハロウィンナイト：イルミネーションと直営・周辺人気ホテル5選",
   description: "ヨーロッパの街並みが巨大カボチャと幻想的な光に包まれる長崎ハウステンボスのハロウィン！限定パレードやナイトショーを満喫できる直営ホテルから駅前人気宿まで厳選5選。",
   keywords: "ハウステンボス ハロウィン 2026, ハウステンボス ホテル 直営, ホテルヨーロッパ ハウステンボス, ハウステンボス ナイトショー 宿泊, 長崎 秋旅行",
   alternates: {
     canonical: "https://croud-travel.pages.dev/autumn-nagasaki-sasebo-huistenbosch-halloween-hotels-stay/",
   },
   openGraph: {
-    title: "【2026年秋！ハウステンボス・ハロウィンナイト】イルミネーションと直営・周辺人気ホテル5選",
+    title: "2026年秋！ハウステンボス・ハロウィンナイト：イルミネーションと直営・周辺人気ホテル5選",
     description: "ヨーロッパの街並みが巨大カボチャと幻想的な光に包まれる長崎ハウステンボスのハロウィン！限定パレードやナイトショーを満喫できる直営ホテルから駅前人気宿まで厳選5選。",
     url: 'https://croud-travel.pages.dev/autumn-nagasaki-sasebo-huistenbosch-halloween-hotels-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【2026年秋！ハウステンボス・ハロウィンナイト】イルミネーションと直営・周辺人気ホテル5選",
+    title: "2026年秋！ハウステンボス・ハロウィンナイト：イルミネーションと直営・周辺人気ホテル5選",
     description: "ヨーロッパの街並みが巨大カボチャと幻想的な光に包まれる長崎ハウステンボスのハロウィン！限定パレードやナイトショーを満喫できる直営ホテルから駅前人気宿まで厳選5選。",
   }
 };
@@ -131,9 +131,7 @@ export default function FeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             秋のテーマパーク・ハロウィン特集
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【2026年秋！ハウステンボス・ハロウィンナイト】<br className="hidden sm:inline" />イルミネーションと直営・周辺人気ホテル5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">「2026年秋！ハウステンボス・ハロウィンナイト」<br className="hidden sm:inline" />イルミネーションと直営・周辺人気ホテル5選</h1>
           <p className="max-w-2xl mx-auto text-sm md:text-base text-stone-200 leading-relaxed">
             本場ヨーロッパの街並みが幻想的なハロウィンの光と巨大カボチャで彩られるハウステンボスの秋！昼の華やかなパレードから夜のドラマティックなナイトショーまで、時間を気にせず遊び尽くせる人気宿を厳選。
           </p>

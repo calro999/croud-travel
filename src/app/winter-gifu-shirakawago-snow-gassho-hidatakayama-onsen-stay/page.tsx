@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月岐阜】奥飛騨雪見露天と極上飛騨牛会席の！名宿5選',
+  title: '11・12・1月岐阜：奥飛騨雪見露天と極上飛騨牛会席の！名宿5選',
   description: '冬の飛騨路は、日本の原風景が雪化粧に包まれる年間最高の旅情シーズン。世界遺産・白川郷合掌造り集落の白銀の絶景。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '白川郷 ホテル, 飛騨高山 旅館, 奥飛騨温泉郷 雪見露天風呂, 白川郷 ライトアップ, 飛騨牛 会席, 本陣平野屋 花兆庵, 深山桜庵, 高山グリーンホテル, 飛騨亭 花扇, 11月 12月 1月 岐阜 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-gifu-shirakawago-snow-gassho-hidatakayama-onsen-stay/"
   },
   openGraph: {
-    title: '【11・12・1月岐阜】奥飛騨雪見露天と極上飛騨牛会席の！名宿5選',
+    title: '11・12・1月岐阜：奥飛騨雪見露天と極上飛騨牛会席の！名宿5選',
     description: '冬の飛騨路は、日本の原風景が雪化粧に包まれる年間最高の旅情シーズン。世界遺産・白川郷合掌造り集落の白銀の絶景。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-gifu-shirakawago-snow-gassho-hidatakayama-onsen-stay',
     siteName: '地域の宿探訪',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月岐阜】世界遺産白川郷雪景色＆飛騨高山古い町並み！奥飛騨雪見露天と極上飛騨牛会席の名宿5選",
+    title: "11・12・1月岐阜：世界遺産白川郷雪景色＆飛騨高山古い町並み！奥飛騨雪見露天と極上飛騨牛会席の名宿5選",
     description: "冬の飛騨路は、日本の原風景が雪化粧に包まれる年間最高の旅情シーズン。世界遺産・白川郷合掌造り集落の白銀の絶景、新酒の杉玉が掲げられる飛騨高山の風情ある「古い町並み」、そして奥飛騨温泉郷の原生林に抱かれた雪見露天風呂。とろける極上A5飛騨牛の炭火焼きや朴葉味噌とともに、冬の日本の美を極める旅へ。楽天APIから最新取得した本陣平野屋、深山桜庵など厳選宿5選を徹底特集します。",
     images: ["https://img.travel.rakuten.co.jp/share/HOTEL/8327/8327.jpg"]
   }
@@ -232,10 +232,7 @@ export default function ShirakawagoHidaTakayamaWinterPage() {
             <span>11月・12月・1月冬の飛騨路絶景特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">
-            世界遺産白川郷雪景色＆飛騨高山古い町並み！<br className="hidden sm:inline" />
-            奥飛騨雪見露天と極上飛騨牛会席の名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">世界遺産白川郷雪景色＆飛騨高山古い町並み！<br className="hidden sm:inline" /> 奥飛騨雪見露天と極上飛騨牛会席の名宿5選</h1>
 
           <p className="text-slate-300 text-sm sm:text-base lg:text-lg leading-relaxed max-w-3xl mb-8">
             初雪が舞い始める11月下旬から純白の豪雪に包まれる1月にかけて、飛騨路は日本昔話のような白銀の絶景が広がります。世界文化遺産・白川郷合掌造り集落の静寂、新酒の杉玉が青々と掲げられる飛騨高山の風情ある古い町並み、そして北アルプスの原生林に抱かれた奥飛騨温泉郷の雪見露天風呂。とろける最高峰A5飛騨牛の炭火焼きとともに味わう、日本の原風景への贅沢な旅へご案内します。

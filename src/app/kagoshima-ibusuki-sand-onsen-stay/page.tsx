@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kagoshima-ibusuki-sand-onsen-stay/" },
-  title: "【鹿児島・指宿温泉】天然砂むし温泉＆開聞岳パノラマ・黒豚極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "鹿児島・指宿温泉：天然砂むし温泉＆開聞岳パノラマ・黒豚極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "南国鹿児島・指宿温泉エリア完全特化！波打ち際で温まる世界唯一の「天然砂むし温泉」、薩摩富士「開聞岳」、干潮時に歩いて渡る知林ヶ島、鹿児島黒豚しゃぶしゃぶ・さつま揚げと南国リゾート旅館を徹底解説。",
   keywords: ["鹿児島", "指宿温泉", "天然砂むし温泉", "開聞岳パノラマ", "黒豚極上宿", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             IBUSUKI SAND BATH GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【鹿児島・指宿温泉】天然砂むし温泉＆開聞岳パノラマ・黒豚極上宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「鹿児島・指宿温泉」天然砂むし温泉＆開聞岳パノラマ・黒豚極上宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             錦江湾と南国のヤシの木が揺れる「指宿（いぶすき）」。海岸の砂浜に埋もれて波音を聞きながら全身から汗を流す「砂むし温泉」。秀峰・開聞岳を望む絶景露天風呂と、本場鹿児島黒豚・極上焼酎に酔いしれる旅。
           </p>

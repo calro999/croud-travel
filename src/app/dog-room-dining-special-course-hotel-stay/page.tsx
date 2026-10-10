@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/dog-room-dining-special-course-hotel-stay/" },
-  title: "【愛犬同伴OK・お部屋食＆愛犬用特製フルコース宿】無添加ごちそう＆記念日 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "愛犬同伴OK・お部屋食＆愛犬用特製フルコース宿：無添加ごちそう＆記念日 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "愛犬も一緒にお祝いする美食の旅！愛犬用特製フルコース＆お部屋食・レストラン同伴宿完全特化！獣医師・ペット栄養管理士監修の無添加ワンちゃんごはん、バースデーケーキ、飼い主用極上会席・フレンチディナー宿を徹底解説。",
   keywords: ["愛犬同伴OK", "お部屋食", "愛犬用特製フルコース宿", "無添加ごちそう", "記念日", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function PetDogResortHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-gradient-to-r from-amber-300 to-yellow-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block shadow">
             DOG GOURMET DINING GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【愛犬同伴OK・お部屋食＆愛犬用特製フルコース宿】無添加ごちそう＆記念日 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「愛犬同伴OK・お部屋食＆愛犬用特製フルコース宿」無添加ごちそう＆記念日 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             旅行中もずっと一緒、食事の時間も離れない！「愛犬同伴お部屋食＆愛犬用フルコース宿」。お部屋食または愛犬同伴専用ダイニング。獣医師監修の厳選鹿肉や温野菜プレート。愛犬の誕生日や記念日を祝う特製ドッグケーキ付きプランへ。
           </p>

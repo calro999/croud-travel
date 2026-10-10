@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-bell-towers-historic-stay/" },
-  title: '日本三大名鐘＆心の琴線に響く梵鐘・悠久の寺町宿×ふるさと納税完全ガイド【2026年最新】知恩院・平等院・三井寺',
+  title: '日本三大名鐘＆心の琴線に響く梵鐘・悠久の寺町宿×ふるさと納税厳選ガイド知恩院・平等院・三井寺',
   description: '澄んだ音色と歴史の重みを感じる日本三大名鐘巡り！京都東山「知恩院・大鐘楼」大晦日の除夜の鐘で知られる日本最大級の鐘と知恩院和順会館、京都宇治「平等院」天人の姿が浮彫にされた国宝名鐘と花やしき浮舟園、滋賀大津「三井寺」弁慶の引き摺り鐘と近江八景の晩鐘・びわ湖大津プリンスホテル。心洗われる鐘の余韻と古都の風情を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大名鐘・古寺祈り特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大名鐘＆心の琴線に響く梵鐘・悠久の寺町宿×ふるさと納税完全ガイド【2026年最新】知恩院・平等院・三井寺',
+    title: '日本三大名鐘＆心の琴線に響く梵鐘・悠久の寺町宿×ふるさと納税厳選ガイド知恩院・平等院・三井寺',
     description: '澄んだ音色と歴史の重みを感じる日本三大名鐘巡り！京都東山「知恩院・大鐘楼」大晦日の除夜の鐘で知られる日本最大級の鐘と知恩院和順会館、京都宇治「平等院」天人の姿が浮彫にされた国宝名鐘と花やしき浮舟園、滋賀大津「三井寺」弁慶の引き摺り鐘と近江八景の晩鐘・びわ湖大津プリンスホテル。心洗われる鐘の余韻と古都の風情を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-bell-towers-historic-stay',
@@ -154,9 +154,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大名鐘・古寺祈り特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大名鐘＆悠久の古鐘・寺町癒やしの宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大名鐘＆悠久の古鐘・寺町癒やしの宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             古来より「姿の平等院」「銘の神護寺（知恩院）」「音の三井寺」と称えられ、日本の仏教文化と鋳造工芸の最高峰として尊ばれてきた「日本三大名鐘」――重量約70トン・僧侶数十名が力を合わせて打ち鳴らす除夜の鐘の壮観さで知られる京都の「知恩院」、天人や楽器が舞う優美な浮彫彫刻が施され国宝に指定されている京都宇治の「平等院鳳凰堂」、そして弁慶の引き摺り伝説や近江八景「三井の晩鐘」として琵琶湖に美しく響く滋賀の「園城寺（三井寺）」。歴史ある寺町を歩き、心静かに祈りと鐘の音に触れ、贅沢な京料理や琵琶湖の恵みを味わう旅を楽天ふるさと納税でお楽しみください。
           </p>

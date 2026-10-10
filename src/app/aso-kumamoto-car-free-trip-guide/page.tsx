@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/aso-kumamoto-car-free-trip-guide/" },
-  title: "【熊本・阿蘇 車なし観光 1泊2日モデルコース】観光特急あそぼーい！＆産交バスで行くカルデラ大自然旅 ｜ 日本全国・旅宿クラウド",
+  title: "熊本・阿蘇 車なし観光 1泊2日モデルコース：観光特急あそぼーい！＆産交バスで行くカルデラ大自然旅 ｜ 日本全国・旅宿クラウド",
   description: "運転免許なしでも阿蘇の絶景は回れる！熊本駅から特急あそぼーい！・九州横断特急、阿蘇火口シャトルバス、草千里ヶ浜、あか牛丼ランチ、阿蘇駅チカ温泉宿を満喫する公共交通パーフェクトプラン。",
   keywords: ["熊本", "阿蘇", "車なし観光", "1泊2日モデルコース", "観光特急あそぼーい！", "産交バスで行くカルデラ大自然旅", "温泉宿"],
 };
@@ -190,10 +190,7 @@ export default function AsoKumamotoCarFreePage() {
             </span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight font-journal-serif text-amber-50">
-            【熊本・阿蘇 車なし観光 1泊2日】<br className="hidden sm:inline" />
-            特急あそぼーい！＆産交バスで行くカルデラ大自然旅
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight font-journal-serif text-amber-50">「熊本・阿蘇 車なし観光 1泊2日」<br className="hidden sm:inline" /> 特急あそぼーい！＆産交バスで行くカルデラ大自然旅</h1>
 
           <p className="text-sm md:text-base text-amber-100/90 max-w-3xl leading-relaxed">
             「阿蘇は大自然すぎてマイカーやレンタカーがないと無理。」と思っていませんか？実は熊本駅から大人気観光特急「あそぼーい！」に乗り、阿蘇駅前から路線バスと火口シャトルを乗り継げば、草千里ヶ浜の絶景・火口の煙・名物あか牛丼まで、運転ストレスゼロで贅沢に満喫できます！

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/winter-onsen-town-yukata-walk/" },
-  title: "【風情満点】冬の温泉街・浴衣で湯巡り＆街歩き宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "風情満点：冬の温泉街・浴衣で湯巡り＆街歩き宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "石畳に響く下駄の音と立ち上る湯けむり。長野・渋温泉、愛媛・道後温泉、群馬・伊香保温泉、熊本・黒川温泉など、浴衣と丹前を羽織って湯巡りや射的・スイーツ食べ歩きを楽しめる名湯街を徹底解説。",
   keywords: ["風情満点", "冬の温泉街", "浴衣で湯巡り", "街歩き宿", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
@@ -98,9 +98,7 @@ export default function SeasonalFeaturePage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             ONSEN TOWN WALK
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【風情満点】冬の温泉街・浴衣で湯巡り＆街歩き宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「風情満点」冬の温泉街・浴衣で湯巡り＆街歩き宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             どこか懐かしい木造旅館、川沿いの柳並木、夜を照らすガス灯や行燈。冬の冷たい空気の中、温かい温泉に何度も浸かり、温泉街の酒蔵やレトロな甘味処を巡る情緒あふれる大人の温泉旅へ。
           </p>

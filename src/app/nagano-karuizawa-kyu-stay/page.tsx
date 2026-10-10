@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagano-karuizawa-kyu-stay/" },
-  title: "【長野・旧軽井沢＆中軽井沢】雲場池・ハルニレテラス＆高原リゾート宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "長野・旧軽井沢＆中軽井沢：雲場池・ハルニレテラス＆高原リゾート宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "軽井沢エリア完全特化！旧軽井沢銀座、雲場池（スワンレイク）、星野エリア・ハルニレテラス、トンボの湯周辺の観光と、森の隠れ家ホテル・クラシック宿を徹底解説。",
   keywords: ["長野", "旧軽井沢", "中軽井沢", "雲場池", "ハルニレテラス", "高原リゾート宿", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             OLD KARUIZAWA MICRO GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【長野・旧軽井沢＆中軽井沢】雲場池・ハルニレテラス＆高原リゾート宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「長野・旧軽井沢＆中軽井沢」雲場池・ハルニレテラス＆高原リゾート宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             木漏れ日が揺れる白樺の小径と、澄み渡る高原の風。洗練されたベーカリーやカフェが立ち並ぶ旧軽井沢銀座と、清流沿いのハルニレテラス。自然と文化が調和する日本最高峰の高原リゾートへ。
           </p>

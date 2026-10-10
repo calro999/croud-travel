@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-cheap-student-budget-guide/" },
-  title: "【シルバーウィーク 安いグランピングおすすめ】1人1万円台前半！学生・若者グループ向けの格安コスパ宿 ｜ 日本全国・旅宿クラウド",
+  title: "シルバーウィーク 安いグランピングおすすめ：1人1万円台前半！学生・若者グループ向けの格安コスパ宿 ｜ 日本全国・旅宿クラウド",
   description:
     "秋連休に予算を抑えて楽しむ高コスパグランピング！4〜6人で頭割りして1人1万円台前半、食材持ち込み自由で費用節約、学割・グループ割引プランがある全国の人気コテージ＆ドームテント特集。",
   keywords: ["シルバーウィーク", "安いグランピングおすすめ", "1人1万円台前半！学生", "若者グループ向けの格安コスパ宿", "温泉宿", "宿泊予約", "楽天トラベル"],
@@ -180,9 +180,7 @@ export default function SilverWeekGlampingCheapStudentBudgetPage() {
             </span>
           </div>
 
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【シルバーウィーク 安いグランピングおすすめ】1人1万円台前半！学生・若者グループ向けの格安コスパ宿
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「シルバーウィーク 安いグランピングおすすめ」1人1万円台前半！学生・若者グループ向けの格安コスパ宿</h1>
 
           <p className="text-xs md:text-sm text-slate-300 leading-relaxed font-medium">
             「グランピングはお洒落だけど1人3万円以上して手が出ない。」と諦めていませんか？定員4〜6名の一棟貸しコテージや広々ドームテントを仲間とシェアすれば、宿泊費を劇的に圧縮可能！地元スーパーでメガ盛り黒毛和牛やお酒を持ち寄れば、1人1万円台前半で極上の秋BBQナイトが楽しめます。大学生サークル旅行や20代仲間旅に最適なコスパ最強の宿を徹底厳選しました。

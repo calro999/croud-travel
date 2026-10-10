@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/glamping-first-time-regrets-packing-guide/" },
-  title: "【初めてのグランピングで後悔したことワースト5】夜の冷え込み・虫対策・煙で服崩壊！持って行くべき神グッズ ｜ 日本全国・旅宿クラウド",
+  title: "初めてのグランピングで後悔したことワースト5：夜の冷え込み・虫対策・煙で服崩壊！持って行くべき神グッズ ｜ 日本全国・旅宿クラウド",
   description:
     "手ぶらOKの謳い文句を信じて後悔したリアル体験談！標高の高い高原グランピングの夜間極寒、焚き火の火の粉で穴あき服、夜間トイレ移動のランタン不足、虫除けスプレー選びと温泉付きグランピングヴィラ。",
   keywords: ["夜の冷え込み", "虫対策", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
@@ -175,14 +175,7 @@ export default function GlampingFirstTimeRegretsPage() {
             <span className="w-2 h-2 rounded-full bg-teal-400 animate-pulse" />
             グランピング初心者レスキューバイブル
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【初めてのグランピングで後悔したことワースト5】<br />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-teal-300 via-cyan-200 to-emerald-300">
-              夜の冷え込み・虫対策・煙で服崩壊！
-            </span>
-            <br />
-            持って行くべき神グッズ＆客室温泉ヴィラ
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「初めてのグランピングで後悔したことワースト5」<br /> <span className="text-transparent bg-clip-text bg-gradient-to-r from-teal-300 via-cyan-200 to-emerald-300"> 夜の冷え込み・虫対策・煙で服崩壊！ </span> <br /> 持って行くべき神グッズ＆客室温泉ヴィラ</h1>
           <p className="text-slate-300 text-base sm:text-lg max-w-3xl leading-relaxed mb-8">
             「手ぶらで豪華なキャンプ」という甘い広告の裏側には、初心者キャンパーを待ち受ける数々の罠が存在します。
             高原の容赦ない夜間極寒、お気に入りの服を焼き焦がす火の粉、ブヨの猛烈な痒み——。

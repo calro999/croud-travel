@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月栃木・日光湯西川温泉】とちぎ和牛！名宿5選',
+  title: '栃木・日光湯西川温泉で過ごす冬の旅（11・12月）！とちぎ和牛！名宿5選',
   description: '11月から12月にかけて、栃木県日光市の深山幽谷に抱かれた「湯西川温泉」は、広葉樹の紅葉が散り落ちるとともに白銀の初雪が舞い始め。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '湯西川温泉 宿泊, 本家伴久, 彩り湯かしき 花と華, 平の高房, 揚羽, ホテル湯西川, 囲炉裏料理, 平家狩場焼, とちぎ和牛, 雪見露天, 11月 12月 湯西川',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tochigi-yunishigawa-onsen-heike-irori-snow-stay/"
   },
   openGraph: {
-    title: '【11・12月栃木・日光湯西川温泉】とちぎ和牛！名宿5選',
+    title: '栃木・日光湯西川温泉で過ごす冬の旅（11・12月）！とちぎ和牛！名宿5選',
     description: '11月から12月にかけて、栃木県日光市の深山幽谷に抱かれた「湯西川温泉」は、広葉樹の紅葉が散り落ちるとともに白銀の初雪が舞い始め。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-tochigi-yunishigawa-onsen-heike-irori-snow-stay',
     siteName: 'クラドトラベル',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月栃木・日光湯西川温泉の初雪渓谷美と平家落人伝説】名物囲炉裏会席・平家狩場焼＆とちぎ和牛・源泉かけ流し雪見露天名宿5選",
+    title: "栃木・日光湯西川温泉の初雪渓谷美と平家落人伝説で過ごす冬の旅（11・12月）！名物囲炉裏会席・平家狩場焼＆とちぎ和牛・源泉かけ流し雪見露天名宿5選",
     description: "11月から12月にかけて、栃木県日光市の深山幽谷に抱かれた「湯西川温泉」は、広葉樹の紅葉が散り落ちるとともに白銀の初雪が舞い始め、茅葺き屋根の古民家や湯西川渓谷が静謐な冬景色に包まれます。壇ノ浦の戦いに敗れた平家の落人たちが落ち延び、河原の炭火で野鳥や川魚を焼いたことに端を発する伝統の「本場囲炉裏（いろり）料理」平家狩場焼、山椒香るばんだい餅、とろける霜降りの「とちぎ和牛」、香ばしいイワナの骨酒。そして湯守が守り継ぐpH9前後の柔らかな源泉かけ流し雪見露天風呂。深山に佇む平家伝承の厳選名宿5選を徹底解説します。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -248,12 +248,7 @@ export default function WinterTochigiYunishigawaPage() {
             11月・12月 平家落人の隠れ里＆本場囲炉裏料理特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月栃木・日光湯西川温泉】初雪渓谷美と平家落人伝説
-            <span className="block text-amber-300 text-lg sm:text-2xl mt-3 font-normal">
-              名物囲炉裏会席・平家狩場焼＆とちぎ和牛・源泉かけ流し雪見露天名宿5選
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">栃木・日光湯西川温泉で過ごす冬の旅（11・12月）！初雪渓谷美と平家落人伝説 <span className="block text-amber-300 text-lg sm:text-2xl mt-3 font-normal"> 名物囲炉裏会席・平家狩場焼＆とちぎ和牛・源泉かけ流し雪見露天名宿5選 </span></h1>
 
           <p className="text-sm sm:text-base text-stone-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、栃木県日光市の深山幽谷に抱かれた「湯西川温泉」は、広葉樹の紅葉が散り落ちるとともに白銀の初雪が舞い始め、茅葺き屋根の古民家や湯西川渓谷が静謐な冬景色に包まれます。壇ノ浦の戦いに敗れた平家の落人たちが落ち延び、河原の炭火で野鳥や川魚を焼いたことに端を発する伝統の「本場囲炉裏（いろり）料理」平家狩場焼、山椒香るばんだい餅、とろける霜降りの「とちぎ和牛」、香ばしいイワナの骨酒。そして湯守が守り継ぐpH9前後の柔らかな源泉かけ流し雪見露天風呂。深山に佇む平家伝承の厳選名宿5選を徹底解説します。

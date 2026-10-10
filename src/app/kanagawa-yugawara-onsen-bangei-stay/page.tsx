@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kanagawa-yugawara-onsen-bangei-stay/" },
-  title: "【神奈川・湯河原温泉】文豪ゆかりの名湯・万葉公園＆相模湾地魚極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "神奈川・湯河原温泉：文豪ゆかりの名湯・万葉公園＆相模湾地魚極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "都心から特急75分！湯河原温泉エリア完全特化！文豪・夏目漱石や芥川龍之介が執筆した名湯、万葉公園「湯河原惣湯 Books and Retreat。」、不動の滝、相模湾の地魚舟盛りと数寄屋造り料亭旅館を徹底解説。",
   keywords: ["神奈川", "湯河原温泉", "文豪ゆかりの名湯", "万葉公園", "相模湾地魚極上宿", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             YUGAWARA RETREAT GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【神奈川・湯河原温泉】文豪ゆかりの名湯・万葉公園＆相模湾地魚極上宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「神奈川・湯河原温泉」文豪ゆかりの名湯・万葉公園＆相模湾地魚極上宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             『万葉集』に唯一詠われた古湯「湯河原」。千歳川のせせらぎが響く静寂な山あいに、数寄屋造りの名門旅館が佇む。清流沿いのブックリトリートと、相模湾の鮮魚・湯河原みかんに癒やされる大人の隠れ家へ。
           </p>

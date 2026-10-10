@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tokushima-iya-valley-oboke-kazurabashi-stay/" },
-  title: "【徳島・祖谷渓＆大歩危・かずら橋】日本三大秘境・スリルのかずら橋＆大歩危峡舟下り・祖谷そば宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "徳島・祖谷渓＆大歩危・かずら橋：日本三大秘境・スリルのかずら橋＆大歩危峡舟下り・祖谷そば宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "切り立つ断崖とエメラルドグリーンの清流・徳島祖谷渓＆大歩危峡エリア完全特化！国指定重要有形民俗文化財「祖谷のかずら橋」、断崖絶壁に立つ「小便小僧」、大歩危峡遊覧船、渓谷ケーブルカーで行く祖谷温泉、名物「祖谷そば・鮎の塩焼き宿」を徹底解説。",
   keywords: ["徳島", "祖谷渓", "大歩危", "かずら橋", "日本三大秘境", "スリルのかずら橋", "大歩危峡舟下り"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             IYA VALLEY & OBOKE GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【徳島・祖谷渓＆大歩危・かずら橋】日本三大秘境・スリルのかずら橋＆大歩危峡舟下り・祖谷そば宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「徳島・祖谷渓＆大歩危・かずら橋」日本三大秘境・スリルのかずら橋＆大歩危峡舟下り・祖谷そば宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             平家落人伝説が息づく日本三大秘境「徳島・祖谷渓＆大歩危峡」。シラクチカズラで編まれたスリル満点の「祖谷のかずら橋」。200mの断崖を見下ろす小便小僧。専用ケーブルカーで渓谷底へ下る秘境の露天風呂と、素朴な祖谷そばを味わう旅。
           </p>

@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '日本三古湯＆飛鳥・万葉の昔から湧き出る最古の名湯と老舗名旅館×ふるさと納税完全ガイド【2026年最新】道後・有馬・白浜',
+  title: '日本三古湯＆飛鳥・万葉の昔から湧き出る最古の名湯と老舗名旅館×ふるさと納税厳選ガイド道後・有馬・白浜',
   description: '日本書紀や風土記に記された三千年の歴史を誇る「日本三古湯」（愛媛・道後温泉、兵庫・有馬温泉、和歌山・白浜温泉）。聖徳太子や歴代天皇、文豪たちが愛した名湯の原点。文化財の湯屋建築、金泉・銀泉の濃厚濁り湯、太平洋を一望する波打ち際露天風呂。楽天ふるさと納税トラベルクーポンで実質2,000円負担で泊まる極上の歴史名湯ステイ完全ガイド。',
   keywords: ["日本三古湯", "飛鳥", "2026年最新", "道後", "有馬", "白浜", "温泉宿"],
   alternates: { canonical: baseUrl + '/furusato-tax-three-great-ancient-baths-heritage-stay/' },
   openGraph: {
-    title: '日本三古湯＆飛鳥・万葉の昔から湧き出る最古の名湯と老舗名旅館×ふるさと納税完全ガイド【2026年最新】道後・有馬・白浜',
+    title: '日本三古湯＆飛鳥・万葉の昔から湧き出る最古の名湯と老舗名旅館×ふるさと納税厳選ガイド道後・有馬・白浜',
     description: '日本書紀や風土記に記された三千年の歴史を誇る「日本三古湯」（愛媛・道後温泉、兵庫・有馬温泉、和歌山・白浜温泉）。聖徳太子や歴代天皇、文豪たちが愛した名湯の原点。文化財の湯屋建築、金泉・銀泉の濃厚濁り湯、太平洋を一望する波打ち際露天風呂。楽天ふるさと納税トラベルクーポンで実質2,000円負担で泊まる極上の歴史名湯ステイ完全ガイド。',
     url: baseUrl + '/furusato-tax-three-great-ancient-baths-heritage-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoRound66ArticlePage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             日本三古湯・万葉浪漫と最古の歴史名湯ステイ特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            日本三古湯＆飛鳥・万葉の昔から湧き出る最古の名湯と老舗名旅館
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">日本三古湯＆飛鳥・万葉の昔から湧き出る最古の名湯と老舗名旅館</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             神話の時代、白鷺が傷を癒やし、少彦名命（すくなひこなのみこと）が蘇ったと伝えられる伝説の源泉。飛鳥・奈良時代には歴代天皇や貴族が「御幸」を重ね、万葉集にもその風情が数多く詠み込まれた「日本三古湯」。白鷺伝説と夏目漱石の小説『坊っちゃん』の舞台として知られる木造三層楼の愛媛・道後温泉本館。太閤秀吉がこよなく愛し、鉄分と塩分が濃厚な金泉と炭酸ラジウム泉の銀泉を誇る天下の名湯・兵庫の有馬温泉。そして牟婁（むろ）の湯として古くから親しまれ、青く透き通る太平洋の潮騒を浴びながら湯浴みを楽しめる紀州・和歌山の白浜温泉。コンクリートの近代的なスパでは決して味わえない、三千年の大地の鼓動と歴史の重みが溶け込んだ極上の湯船。名門老舗旅館のきめ細やかなおもてなしと、瀬戸内・有馬・紀州の贅を尽くした会席料理に舌鼓を打つひととき。楽天ふるさと納税の宿泊割引クーポンを活用して、日本の温泉文化の頂点に君臨する最古の名湯宿へ出かけましょう。
           </p>

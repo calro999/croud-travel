@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-fruit-kingdoms-auberge-stay/" },
-  title: '日本三大フルーツ王国＆もぎたて果実の恵み・果樹園パノラマと美食リゾート×ふるさと納税完全ガイド【2026年最新】山梨・山形・長野',
+  title: '日本三大フルーツ王国＆もぎたて果実の恵み・果樹園パノラマと美食リゾート×ふるさと納税厳選ガイド山梨・山形・長野',
   description: '太陽を浴びた旬の果実とスイーツの楽園！山梨笛吹「ぶどう・桃の郷」甲府盆地を見下ろすフルーツパーク富士屋ホテル、山形天童「さくらんぼ佐藤錦・ラフランス」将棋と果樹園の天童温泉滝の湯、長野須坂・小布施「シャインマスカット・信州りんご」栗と果樹の欧風オーベルジュ小布施の宿ヴァンヴェール。日本三大フルーツ王国の贅沢な果実旅を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大フルーツ・果樹園美味特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大フルーツ王国＆もぎたて果実の恵み・果樹園パノラマと美食リゾート×ふるさと納税完全ガイド【2026年最新】山梨・山形・長野',
+    title: '日本三大フルーツ王国＆もぎたて果実の恵み・果樹園パノラマと美食リゾート×ふるさと納税厳選ガイド山梨・山形・長野',
     description: '太陽を浴びた旬の果実とスイーツの楽園！山梨笛吹「ぶどう・桃の郷」甲府盆地を見下ろすフルーツパーク富士屋ホテル、山形天童「さくらんぼ佐藤錦・ラフランス」将棋と果樹園の天童温泉滝の湯、長野須坂・小布施「シャインマスカット・信州りんご」栗と果樹の欧風オーベルジュ小布施の宿ヴァンヴェール。日本三大フルーツ王国の贅沢な果実旅を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-fruit-kingdoms-auberge-stay',
@@ -142,9 +142,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大フルーツ・果樹園美味特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大フルーツ王国＆もぎたて果実の美食リゾート×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大フルーツ王国＆もぎたて果実の美食リゾート×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             澄んだ空気、昼夜の寒暖差、そして清らかな山水が奇跡の甘みと香りを育む「日本三大フルーツ王国」――甲府盆地の扇状地に広大な果樹園が広がり桃とぶどうの生産量日本一を誇る山梨の「山梨・笛吹」、初夏を彩る赤いルビー佐藤錦をはじめ西洋梨ラ・フランスや桃が実る山形の「山形・天童・寒河江」、そして標高の高い冷涼な気候を活かして甘みたっぷりの信州りんご三兄弟や大粒シャインマスカットが実る長野の「信州・須坂・小布施」。果樹園での収穫体験やパフェ・ワインを堪能した後は、名湯露天風呂や地元産フルーツを取り入れた極上フレンチ・創作会席に酔いしれる贅沢な旅を楽天ふるさと納税でお楽しみください。
           </p>

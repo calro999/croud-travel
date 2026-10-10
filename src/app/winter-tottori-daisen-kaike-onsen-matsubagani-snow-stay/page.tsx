@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月鳥取】冬旬の松葉ガニ！名宿5選',
+  title: '11・12・1月鳥取：冬旬の松葉ガニ！名宿5選',
   description: '中国地方最高峰・伯耆大山が白銀に輝く11〜1月。ブナの原生林を巡るスノーシューや大神山神社奥宮への雪の初詣。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '伯耆大山 冬 観光, 皆生温泉 ホテル, 皆生温泉 旅館, 松葉ガニ 皆生温泉, 大神山神社 初詣, 大山 スノーシュー, 皆生游月, 華水亭, 鳥取和牛 オレイン55, 12月 1月 鳥取 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tottori-daisen-kaike-onsen-matsubagani-snow-stay/"
   },
   openGraph: {
-    title: '【11・12・1月鳥取】冬旬の松葉ガニ！名宿5選',
+    title: '11・12・1月鳥取：冬旬の松葉ガニ！名宿5選',
     description: '中国地方最高峰・伯耆大山が白銀に輝く11〜1月。ブナの原生林を巡るスノーシューや大神山神社奥宮への雪の初詣。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-tottori-daisen-kaike-onsen-matsubagani-snow-stay',
     siteName: '地域の宿探訪',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月鳥取】伯耆大山＆皆生温泉！白銀の「伯耆富士」絶景と大神山神社初詣・日本海の塩湯露天＆冬旬の松葉ガニ名宿5選",
+    title: "11・12・1月鳥取：伯耆大山＆皆生温泉！白銀の「伯耆富士」絶景と大神山神社初詣・日本海の塩湯露天＆冬旬の松葉ガニ名宿5選",
     description: "中国地方最高峰・伯耆大山が白銀に輝く11〜1月。ブナの原生林を巡るスノーシューや大神山神社奥宮への雪の初詣、そして日本海の海中から湧く美肌の「塩湯」皆生温泉。境港直送のブランドタグ付き松葉ガニのフルコースや鳥取和牛オレイン55、大山どりの極上グルメを堪能できる厳選名宿5選を徹底解説します。",
     images: ["https://img.travel.rakuten.co.jp/share/HOTEL/168732/168732.jpg"]
   }
@@ -232,10 +232,7 @@ export default function TottoriDaisenKaikeWinterPage() {
             <span>11月・12月・1月冬の中国地方旅特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">
-            伯耆大山＆皆生温泉！<br className="hidden sm:inline" />
-            白銀の「伯耆富士」絶景と大神山神社初詣・日本海の塩湯露天＆冬旬の松葉ガニ名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">伯耆大山＆皆生温泉！<br className="hidden sm:inline" /> 白銀の「伯耆富士」絶景と大神山神社初詣・日本海の塩湯露天＆冬旬の松葉ガニ名宿5選</h1>
 
           <p className="text-slate-300 text-sm sm:text-base lg:text-lg leading-relaxed max-w-3xl mb-8">
             中国地方最高峰（標高1,729m）を誇る霊峰・伯耆大山。厳冬期には純白の雪衣を纏い、別名「伯耆富士」と讃えられる荘厳な姿を現します。ブナの原生林を歩くスノートレッキングや、千三百年の歴史を誇る大神山神社奥宮への雪の初詣。そして麓の日本海から湧き出す名湯「皆生温泉」は、海由来のミネラル豊かな塩湯で体の芯までポカポカに。境港直送のブランド松葉ガニと鳥取和牛オレイン55を贅沢に味わう、冬の極上リトリートへご案内します。

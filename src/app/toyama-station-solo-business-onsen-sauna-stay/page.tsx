@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/toyama-station-solo-business-onsen-sauna-stay/" },
-  title: '【富山駅前出張・天然温泉サウナ】立山連峰ビュー・天然温泉剱の湯・富山湾鮨＆白えび！北陸屈指の産業拠点を制する厳選3宿',
+  title: '富山駅前出張・天然温泉サウナ：立山連峰ビュー・天然温泉剱の湯・富山湾鮨＆白えび！北陸屈指の産業拠点を制する厳選3宿',
   description: '北陸新幹線「かがやき」で東京から約2時間8分！全館畳敷きで檜風呂・高温サウナ・海鮮いくら朝食の「御宿 野乃富山」、大手町至近で天然温泉大浴場完備の「ドーミーイン富山」、射水ベイエリアで天然温泉大浴場を誇る「スーパーホテル富山・射水」を徹底比較。',
   keywords: '富山 出張 ホテル,富山駅 サウナ ホテル,御宿野乃富山,ドーミーイン富山,スーパーホテル富山射水,富山湾鮨 一人旅',
   openGraph: {
-    title: '【富山駅前出張・天然温泉サウナ】立山連峰ビュー・天然温泉剱の湯・富山湾鮨＆白えび！北陸屈指の産業拠点を制する厳選3宿',
+    title: '富山駅前出張・天然温泉サウナ：立山連峰ビュー・天然温泉剱の湯・富山湾鮨＆白えび！北陸屈指の産業拠点を制する厳選3宿',
     description: '北陸新幹線「かがやき」で東京から約2時間8分！全館畳敷きで檜風呂・高温サウナ・海鮮いくら朝食の「御宿 野乃富山」、大手町至近で天然温泉大浴場完備の「ドーミーイン富山」、射水ベイエリアで天然温泉大浴場を誇る「スーパーホテル富山・射水」を徹底比較。',
     url: 'https://croud-travel.pages.dev/toyama-station-solo-business-onsen-sauna-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【富山駅前出張・天然温泉サウナ】立山連峰ビュー・天然温泉剱の湯・富山湾鮨＆白えび！北陸屈指の産業拠点を制する厳選3宿',
+    headline: '富山駅前出張・天然温泉サウナ：立山連峰ビュー・天然温泉剱の湯・富山湾鮨＆白えび！北陸屈指の産業拠点を制する厳選3宿',
     description: '北陸新幹線「かがやき」で東京から約2時間8分！全館畳敷きで檜風呂・高温サウナ・海鮮いくら朝食の「御宿 野乃富山」、大手町至近で天然温泉大浴場完備の「ドーミーイン富山」、射水ベイエリアで天然温泉大浴場を誇る「スーパーホテル富山・射水」を徹底比較。',
     author: {
       '@type': 'Organization',
@@ -72,9 +72,7 @@ export default function ArticlePage() {
         <div className="inline-block bg-amber-700 text-white text-xs font-semibold px-3 py-1 rounded-full mb-3 tracking-wider">
           ひとり旅・出張・サウナ＆名湯特集
         </div>
-        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">
-          【富山駅前出張・天然温泉サウナ】立山連峰ビュー・天然温泉剱の湯・富山湾鮨＆白えび！北陸屈指の産業拠点を制する厳選3宿
-        </h1>
+        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">「富山駅前出張・天然温泉サウナ」立山連峰ビュー・天然温泉剱の湯・富山湾鮨＆白えび！北陸屈指の産業拠点を制する厳選3宿</h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.13 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>

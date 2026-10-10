@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagano-bessho-onsen-ueda-castle-stay/" },
-  title: "【長野・別所温泉＆上田城】信州の鎌倉・日本唯一八角三重塔＆真田の赤備え宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "長野・別所温泉＆上田城：信州の鎌倉・日本唯一八角三重塔＆真田の赤備え宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "信州最古の温泉と真田幸村公の城下町・長野上田＆別所エリア完全特化！国宝「安楽寺 八角三重塔」、厄除け「北向観音」、真田氏の難攻不落名城「上田城跡公園」、美肌の硫黄泉「別所温泉外湯めぐり宿」を徹底解説。",
   keywords: ["長野", "別所温泉", "上田城", "信州の鎌倉", "日本唯一八角三重塔", "真田の赤備え宿", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             BESSHO ONSEN & UEDA GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【長野・別所温泉＆上田城】信州の鎌倉・日本唯一八角三重塔＆真田の赤備え宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「長野・別所温泉＆上田城」信州の鎌倉・日本唯一八角三重塔＆真田の赤備え宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-teal-100/90 leading-relaxed">
             枕草子にも記された信州最古の温泉地「別所温泉（信州の鎌倉）」。日本で唯一現存する木造八角塔「国宝 安楽寺八角三重塔」。善光寺と向かい合う厄除けの霊場「北向観音」。徳川軍を二度撃退した真田幸村公ゆかりの「上田城」。ほのかな硫黄香る美肌湯と名物美味だれ焼き鳥の旅。
           </p>

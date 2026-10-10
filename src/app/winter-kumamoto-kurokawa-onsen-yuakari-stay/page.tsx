@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月黒川温泉】竹灯籠が彩る渓流露天風呂と阿蘇あか牛！名宿5選',
+  title: '黒川温泉で過ごす冬の旅（11・12月）！竹灯籠が彩る渓流露天風呂と阿蘇あか牛！名宿5選',
   description: '11月から12月にかけて阿蘇外輪山の冷涼な風が吹き抜ける熊本・黒川温泉。12月中旬から田の原川の渓流に幻想的な竹灯籠が灯る冬の風物詩「湯あかり」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '黒川温泉 宿泊 11月 12月, 黒川温泉 湯あかり, 黒川温泉 入湯手形, あか牛 温泉 宿, 黒川温泉 おすすめ 旅館, 熊本 馬刺し 温泉, 黒川温泉 冬 モデルコース',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kumamoto-kurokawa-onsen-yuakari-stay/",
   },
   openGraph: {
-    title: '【11・12月黒川温泉】竹灯籠が彩る渓流露天風呂と阿蘇あか牛！名宿5選',
+    title: '黒川温泉で過ごす冬の旅（11・12月）！竹灯籠が彩る渓流露天風呂と阿蘇あか牛！名宿5選',
     description: '11月から12月にかけて阿蘇外輪山の冷涼な風が吹き抜ける熊本・黒川温泉。12月中旬から田の原川の渓流に幻想的な竹灯籠が灯る冬の風物詩「湯あかり」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-kumamoto-kurokawa-onsen-yuakari-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月黒川温泉の湯あかりと秘湯情緒】竹灯籠が彩る渓流露天風呂と阿蘇あか牛・肥後会席の名宿5選",
+    title: "黒川温泉の湯あかりと秘湯情緒で過ごす冬の旅（11・12月）！竹灯籠が彩る渓流露天風呂と阿蘇あか牛・肥後会席の名宿5選",
     description: "11月から12月にかけて阿蘇外輪山の冷涼な風が吹き抜ける熊本・黒川温泉。12月中旬から田の原川の渓流に幻想的な竹灯籠が灯る冬の風物詩「湯あかり」、名物「入湯手形」で巡る湯量豊かな野趣あふれる露天風呂。阿蘇あか牛の溶岩焼きステーキや本場極上馬刺しの美食に酔いしれる冬旅ガイド。",
   }
 };
@@ -266,10 +266,7 @@ export default function KurokawaWinterPage() {
             <Sparkles className="w-4 h-4 text-emerald-300" />
             <span>11月・12月限定 阿蘇名湯・冬の竹灯籠と秘湯情緒特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月黒川温泉の湯あかりと秘湯情緒】<br className="hidden sm:inline" />
-            竹灯籠が彩る渓流露天風呂と阿蘇あか牛・肥後会席の名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">黒川温泉の湯あかりと秘湯情緒で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 竹灯籠が彩る渓流露天風呂と阿蘇あか牛・肥後会席の名宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             阿蘇外輪山の深い緑と渓谷に佇む山あいの秘湯。12月中旬の夜、田の原川を照らし出す無数の竹毬灯籠「湯あかり」が幻想的な光景を創り出す。名物「入湯手形」を手に巡る野趣あふれる露天風呂と、阿蘇あか牛・極上馬刺しの美食に満たされる贅沢な冬の旅へ。
           </p>

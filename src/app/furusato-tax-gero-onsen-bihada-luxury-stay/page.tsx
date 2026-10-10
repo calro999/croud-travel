@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '日本三名泉・天下の名湯！下呂温泉の美肌の湯めぐり＆国登録有形文化財・極上飛騨牛会席×ふるさと納税完全攻略ガイド【2026年最新】水明館・望川館・湯之島館',
+  title: '日本三名泉・天下の名湯！下呂温泉の美肌の湯めぐり＆国登録有形文化財・極上飛騨牛会席×ふるさと納税極上旅ガイド水明館・望川館・湯之島館',
   description: '有馬・草津と並ぶ日本三名泉・岐阜県下呂温泉！美容液のような滑らかなpH9.2アルカリ性単純温泉。「下呂温泉 水明館」「下呂温泉 望川館」「下呂温泉 湯之島館」を、岐阜県下呂市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。三大大浴場、千百坪日本庭園、昭和初期木造建築美、最高峰飛騨牛会席を満喫。',
   keywords: ["日本三名泉", "国登録有形文化財", "2026年最新", "水明館", "望川館", "湯之島館", "温泉宿"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-gero-onsen-bihada-luxury-stay/",
   },
   openGraph: {
-    title: '日本三名泉・天下の名湯！下呂温泉の美肌の湯めぐり＆国登録有形文化財・極上飛騨牛会席×ふるさと納税完全攻略ガイド【2026年最新】水明館・望川館・湯之島館',
+    title: '日本三名泉・天下の名湯！下呂温泉の美肌の湯めぐり＆国登録有形文化財・極上飛騨牛会席×ふるさと納税極上旅ガイド水明館・望川館・湯之島館',
     description: '有馬・草津と並ぶ日本三名泉・岐阜県下呂温泉！美容液のような滑らかなpH9.2アルカリ性単純温泉。「下呂温泉 水明館」「下呂温泉 望川館」「下呂温泉 湯之島館」を、岐阜県下呂市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。三大大浴場、千百坪日本庭園、昭和初期木造建築美、最高峰飛騨牛会席を満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-gero-onsen-bihada-luxury-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoGeroOnsenBihadaStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           日本三名泉・美肌の湯！岐阜県下呂温泉特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          日本三名泉・天下の名湯！下呂温泉の美肌の湯めぐり＆国登録有形文化財・極上飛騨牛会席×ふるさと納税完全攻略ガイド【2026年最新】水明館・望川館・湯之島館
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">日本三名泉・天下の名湯！下呂温泉の美肌の湯めぐり＆国登録有形文化財・極上飛騨牛会席×ふるさと納税極上旅ガイド水明館・望川館・湯之島館</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoGeroOnsenBihadaStayPage() {
               趣のことなる三箇所の大浴場と充実した設備が自慢です。
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “館内の素晴らしさと温泉三昧で大満足水明館は一人旅にはちょっと泊まりにくい宿のイメージがあり今回初の宿泊をさせてもらいました。さすがに館内素晴らしく驚嘆せざるを得ませんでした.三箇所ある温泉もどれも… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D8886%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoGeroOnsenBihadaStayPage() {
               約1100坪の日本庭園。大浴場は夜通し利用可能。大人が休めてお子様も遊べる湯上がり処も♪
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “間近で見る花火と改装後の快適な部屋花火が間近に見られる部屋で、料金も非常にリーズナブルでした。部屋も改装後で大変快適に過ごすことができました。 ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D7299%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoGeroOnsenBihadaStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               創業昭和６年。下呂温泉の町並みを眼下に望む敷地５万坪の木立に佇む、登録有形文化財の古格の宿。
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “レトロとモダンな館内と温泉に大満足下呂に行ったら一度は泊まってみたい旅館でした。スタンプラリーがあるおかげで遠慮なく館内が散策できてよかったです。レトロとモダンを堪能できました。部屋は本館で、入っ… ”
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

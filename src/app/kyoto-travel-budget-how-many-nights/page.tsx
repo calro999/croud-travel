@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kyoto-travel-budget-how-many-nights/" },
-  title: "【京都旅行 何泊がベスト？】1泊2日 vs 2泊3日 費用・満足度・モデルコース徹底比較",
+  title: "京都旅行 何泊がベスト？：1泊2日 vs 2泊3日 費用・満足度・モデルコース徹底比較",
   description: "京都旅行は1泊2日と2泊3日どっちがいい？日数ごとの費用・回れるエリア数・混雑回避テクニックを比較。交通費（新幹線/夜行バス）、宿泊費（町家/駅前ホテル）、食費（湯豆腐/抹茶パフェ）の内訳も。",
 };
 
@@ -51,10 +51,7 @@ export default function KyotoNightsGuide() {
   return (
     <div className="max-w-4xl mx-auto px-4 py-10 bg-stone-50">
       <div className="bg-white rounded-3xl p-8 shadow-sm border border-stone-200">
-        <h1 className="font-journal-serif text-3xl font-bold text-teal-900 mb-4 text-center">
-          【京都旅行 何泊がベスト？】1泊2日 vs 2泊3日<br/>
-          費用・満足度・モデルコース徹底比較
-        </h1>
+        <h1 className="font-journal-serif text-3xl font-bold text-teal-900 mb-4 text-center">「京都旅行 何泊がベスト？」1泊2日 vs 2泊3日<br/> 費用・満足度・モデルコース徹底比較</h1>
         
         <p className="text-stone-600 text-center mb-10 max-w-2xl mx-auto leading-relaxed">
           「京都旅行、1泊で足りる？それとも2泊すべき？」<br />

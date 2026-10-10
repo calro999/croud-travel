@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '奇跡の四万ブルーと奥四万湖の錦秋カヌー！千と千尋のモデル積善館＆名湯宿×ふるさと納税完全ガイド【2026年最新秋旅】群馬',
+  title: '奇跡の四万ブルーと奥四万湖の錦秋カヌー！千と千尋のモデル積善館＆名湯宿×ふるさと納税厳選ガイド群馬',
   description: '10月下旬〜11月上旬に見頃を迎える「四万温泉」と「奥四万湖（おくしまこ）」。幻想的なコバルトブルーの水面に映る紅葉とカヌーツアー、日本最古の木造湯宿建築『積善館』や『四万たむら』『あやめや旅館』で四万の病を癒やす名湯と上州牛会席を堪能。楽天ふるさと納税トラベルクーポンで実質2,000円で泊まるレトロ温泉ガイド。',
   keywords: ["名湯宿×ふるさと納税", "2026年最新秋旅", "群馬", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-shima-onsen-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '奇跡の四万ブルーと奥四万湖の錦秋カヌー！千と千尋のモデル積善館＆名湯宿×ふるさと納税完全ガイド【2026年最新秋旅】群馬',
+    title: '奇跡の四万ブルーと奥四万湖の錦秋カヌー！千と千尋のモデル積善館＆名湯宿×ふるさと納税厳選ガイド群馬',
     description: '10月下旬〜11月上旬に見頃を迎える「四万温泉」と「奥四万湖（おくしまこ）」。幻想的なコバルトブルーの水面に映る紅葉とカヌーツアー、日本最古の木造湯宿建築『積善館』や『四万たむら』『あやめや旅館』で四万の病を癒やす名湯と上州牛会席を堪能。楽天ふるさと納税トラベルクーポンで実質2,000円で泊まるレトロ温泉ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-shima-onsen-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FeatureArticlePage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               群馬・四万温泉＆奥四万湖四万ブルー特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              奇跡の四万ブルーと奥四万湖の錦秋カヌー！千と千尋のモデル積善館＆名湯宿×ふるさと納税完全ガイド【2026年最新秋旅】群馬
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">奇跡の四万ブルーと奥四万湖の錦秋カヌー！千と千尋のモデル積善館＆名湯宿×ふるさと納税厳選ガイド群馬</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               10月下旬〜11月上旬に見頃を迎える「四万温泉」と「奥四万湖（おくしまこ）」。幻想的なコバルトブルーの水面に映る紅葉とカヌーツアー、日本最古の木造湯宿建築『積善館』や『四万たむら』『あやめや旅館』で四万の病を癒やす名湯と上州牛会席を堪能。楽天ふるさと納税トラベルクーポンで実質2,000円で泊まるレトロ温泉ガイド。
             </p>

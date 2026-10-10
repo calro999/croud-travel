@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月裏磐梯温泉郷】極上福島牛ステーキ！名宿5選',
+  title: '裏磐梯温泉郷で過ごす冬の旅（11・12月）！極上福島牛ステーキ！名宿5選',
   description: '11月から12月にかけて、標高約800mの磐梯高原に位置する福島県・裏磐梯温泉郷は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '裏磐梯温泉 宿泊, 裏磐梯高原ホテル, 裏磐梯レイクリゾート, 猫魔離宮, 休暇村裏磐梯, 五色沼ホテル, 五色沼 雪景色, 桧原湖 ワカサギ釣り, 福島牛, 会津地鶏鍋, 11月 12月 裏磐梯',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay/"
   },
   openGraph: {
-    title: '【11・12月裏磐梯温泉郷】極上福島牛ステーキ！名宿5選',
+    title: '裏磐梯温泉郷で過ごす冬の旅（11・12月）！極上福島牛ステーキ！名宿5選',
     description: '11月から12月にかけて、標高約800mの磐梯高原に位置する福島県・裏磐梯温泉郷は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay',
     siteName: 'クラドトラベル',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月福島・裏磐梯温泉郷の五色沼初雪ウォークと磐梯山雪景色】極上福島牛ステーキ＆会津地鶏鍋・桧原湖ワカサギを味わう高原リゾート名宿5選",
+    title: "福島・裏磐梯温泉郷の五色沼初雪ウォークと磐梯山雪景色で過ごす冬の旅（11・12月）！極上福島牛ステーキ＆会津地鶏鍋・桧原湖ワカサギを味わう高原リゾート名宿5選",
     description: "11月から12月にかけて、標高約800mの磐梯高原に位置する福島県・裏磐梯温泉郷は、青やエメラルドグリーンに輝く神秘の湖沼群「五色沼」に純白の初雪が降り積もり、冬の幻想美が幕を開けます。堂々たる雪化粧の磐梯山を望む絶景スノーウォーク、冬の桧原湖名物「ワカサギ釣り（暖房完備ドーム船）」の開幕、鉄分や塩分を豊富に含み体の芯から温まる源泉濁り湯露天風呂。夕食にはサシと赤身のバランスが絶妙な「福島牛ステーキ」や、旨味濃厚な会津地鶏鍋、会津伝統の雪下野菜、冬限定の搾りたて地酒を味わう高原の厳選リゾート・温泉名宿5選を徹底解説します。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -248,12 +248,7 @@ export default function WinterFukushimaUrabandaiPage() {
             11月・12月 五色沼初雪ウォーク＆桧原湖ワカサギ特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月福島・裏磐梯温泉郷】五色沼初雪ウォークと磐梯山雪景色
-            <span className="block text-teal-300 text-lg sm:text-2xl mt-3 font-normal">
-              極上福島牛ステーキ＆会津地鶏鍋・桧原湖ワカサギを味わう高原リゾート名宿5選
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">福島・裏磐梯温泉郷で過ごす冬の旅（11・12月）！五色沼初雪ウォークと磐梯山雪景色 <span className="block text-teal-300 text-lg sm:text-2xl mt-3 font-normal"> 極上福島牛ステーキ＆会津地鶏鍋・桧原湖ワカサギを味わう高原リゾート名宿5選 </span></h1>
 
           <p className="text-sm sm:text-base text-slate-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、標高約800mの磐梯高原に位置する福島県・裏磐梯温泉郷は、青やエメラルドグリーンに輝く神秘の湖沼群「五色沼」に純白の初雪が降り積もり、冬の幻想美が幕を開けます。堂々たる雪化粧の磐梯山を望む絶景スノーウォーク、冬の桧原湖名物「ワカサギ釣り（暖房完備ドーム船）」の開幕、鉄分や塩分を豊富に含み体の芯から温まる源泉濁り湯露天風呂。夕食にはサシと赤身のバランスが絶妙な「福島牛ステーキ」や、旨味濃厚な会津地鶏鍋、会津伝統の雪下野菜、冬限定の搾りたて地酒を味わう高原の厳選リゾート・温泉名宿5選を徹底解説します。

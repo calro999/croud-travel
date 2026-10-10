@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/shiga-biwako-hikone-castle-nagahama-kurokabe-stay/" },
-  title: "【滋賀・琵琶湖＆彦根・長浜】国宝彦根城・黒壁＆湖畔温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "滋賀・琵琶湖＆彦根・長浜：国宝彦根城・黒壁＆湖畔温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "現存十二天守・国宝「彦根城」と名園玄宮園、ガラスの街「長浜黒壁スクエア」、琵琶湖一望パノラマと美肌の「おごと温泉」、最高峰の近江牛懐石を徹底解説。湖畔の高級リゾートホテルや伝統温泉旅館を厳選。",
   keywords: ["滋賀", "琵琶湖", "彦根", "長浜", "国宝彦根城", "黒壁", "湖畔温泉宿"],
 };
@@ -92,9 +92,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             BIWAKO & HIKONE NAGAHAMA GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【滋賀・琵琶湖＆彦根・長浜・雄琴】国宝彦根城・黒壁スクエア＆びわ湖一望温泉宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「滋賀・琵琶湖＆彦根・長浜・雄琴」国宝彦根城・黒壁スクエア＆びわ湖一望温泉宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-teal-100/90 leading-relaxed">
             日本最大の湖「琵琶湖」をめぐる歴史と自然の極上旅。井伊家三十五万石の居城にして日本屈指の美しさを誇る国宝「彦根城」。秀吉が初めて城持ちとなった城下町・長浜のレトロモダンな「黒壁スクエア」。対岸の比叡山麓に湧く1200年の名湯「おごと温泉」。夕暮れ時にびわ湖を茜色に染めるサンセットと、三大和牛・近江牛の豊かな美味に酔いしれる滋賀ステイへご案内します。
           </p>

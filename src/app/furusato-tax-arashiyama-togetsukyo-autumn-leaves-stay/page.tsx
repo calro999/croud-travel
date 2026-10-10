@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '京都・嵐山渡月橋の錦秋パノラマ＆嵯峨野トロッコ列車・保津川下り！嵐山温泉京懐石宿×ふるさと納税完全ガイド【2026年最新秋旅】京都',
+  title: '京都・嵐山渡月橋の錦秋パノラマ＆嵯峨野トロッコ列車・保津川下り！嵐山温泉京懐石宿×ふるさと納税厳選ガイド京都',
   description: '11月中旬〜12月上旬に京都屈指の観光名所が燃え盛る紅葉に染まる「京都・嵐山」。渡月橋や天龍寺曹源池庭園の深紅絵巻、嵯峨野トロッコ列車と保津川下りの大渓谷紅葉、桂川沿いに湧く名湯「花筏」「花伝抄」「渡月亭」で嵐山温泉露天風呂と伝統の雅な京懐石・湯豆腐を堪能。ふるさと納税トラベルクーポンで実質2,000円。',
   keywords: ["京都", "嵐山渡月橋の錦秋パノラマ", "嵯峨野トロッコ列車", "2026年最新秋旅", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-arashiyama-togetsukyo-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '京都・嵐山渡月橋の錦秋パノラマ＆嵯峨野トロッコ列車・保津川下り！嵐山温泉京懐石宿×ふるさと納税完全ガイド【2026年最新秋旅】京都',
+    title: '京都・嵐山渡月橋の錦秋パノラマ＆嵯峨野トロッコ列車・保津川下り！嵐山温泉京懐石宿×ふるさと納税厳選ガイド京都',
     description: '11月中旬〜12月上旬に京都屈指の観光名所が燃え盛る紅葉に染まる「京都・嵐山」。渡月橋や天龍寺曹源池庭園の深紅絵巻、嵯峨野トロッコ列車と保津川下りの大渓谷紅葉、桂川沿いに湧く名湯「花筏」「花伝抄」「渡月亭」で嵐山温泉露天風呂と伝統の雅な京懐石・湯豆腐を堪能。ふるさと納税トラベルクーポンで実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-arashiyama-togetsukyo-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -113,9 +113,7 @@ export default function FeatureArticlePage() {
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">
-            京都・嵐山渡月橋の錦秋パノラマ＆嵯峨野トロッコ列車・保津川下り！嵐山温泉京懐石宿×ふるさと納税完全ガイド【2026年最新秋旅】京都
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">京都・嵐山渡月橋の錦秋パノラマ＆嵯峨野トロッコ列車・保津川下り！嵐山温泉京懐石宿×ふるさと納税厳選ガイド京都</h1>
           <p className="text-sm md:text-lg text-stone-200 max-w-3xl mx-auto leading-relaxed">
             桂川に映る渡月橋の紅葉パノラマと嵯峨野トロッコ、雅な嵐山温泉で味わう極上京懐石。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
           </p>

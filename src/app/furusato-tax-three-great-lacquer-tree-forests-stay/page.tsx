@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '日本三大漆原木美林＆うるしの森トレッキングと漆器ギャラリー名旅館×ふるさと納税完全ガイド【2026年最新】浄法寺・会津・丹波',
+  title: '日本三大漆原木美林＆うるしの森トレッキングと漆器ギャラリー名旅館×ふるさと納税厳選ガイド浄法寺・会津・丹波',
   description: '国宝や世界遺産の修復を支える奇跡の天然樹脂「日本三大漆の産地・うるしの森」（岩手二戸・浄法寺漆、福島西会津・会津漆林、京都福知山・丹波漆）。樹齢十数年の木から一滴ずつ採取される漆掻き（うるしかき）の聖地を巡り、新緑と紅葉の美林散策と温泉美食。楽天ふるさと納税トラベルクーポンで実質2,000円負担で泊まる極上の自然・文化リトリート完全ガイド。',
   keywords: ["日本三大漆原木美林", "2026年最新", "浄法寺", "会津", "丹波", "温泉宿", "宿泊予約"],
   alternates: { canonical: baseUrl + '/furusato-tax-three-great-lacquer-tree-forests-stay/' },
   openGraph: {
-    title: '日本三大漆原木美林＆うるしの森トレッキングと漆器ギャラリー名旅館×ふるさと納税完全ガイド【2026年最新】浄法寺・会津・丹波',
+    title: '日本三大漆原木美林＆うるしの森トレッキングと漆器ギャラリー名旅館×ふるさと納税厳選ガイド浄法寺・会津・丹波',
     description: '国宝や世界遺産の修復を支える奇跡の天然樹脂「日本三大漆の産地・うるしの森」（岩手二戸・浄法寺漆、福島西会津・会津漆林、京都福知山・丹波漆）。樹齢十数年の木から一滴ずつ採取される漆掻き（うるしかき）の聖地を巡り、新緑と紅葉の美林散策と温泉美食。楽天ふるさと納税トラベルクーポンで実質2,000円負担で泊まる極上の自然・文化リトリート完全ガイド。',
     url: baseUrl + '/furusato-tax-three-great-lacquer-tree-forests-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoRound65ArticlePage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             日本三大漆原木美林・うるしの森と文化リトリート特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            日本三大漆原木美林＆うるしの森トレッキングと漆器ギャラリー名旅館
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">日本三大漆原木美林＆うるしの森トレッキングと漆器ギャラリー名旅館</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             金閣寺や日光東照宮、中尊寺金色堂など、数々の国宝建造物の輝きを守り続けている国産漆。その採取は、漆掻き職人が1本の木に傷をつけ、1年間でわずかお猪口一杯分（約200グラム）しか採れない極めて貴重な地球の生命の雫です。「日本三大漆原木美林」と称される岩手二戸の浄法寺、福島会津のうるしの森、そして京都丹波夜久野の丹波漆。端正に立ち並ぶ漆の木々は、初夏には清々しい若葉を茂らせ、秋には山一面を燃えるような深紅に染め上げる見事な景観を生み出します。澄んだ森の空気を胸いっぱいに吸い込みながらトレッキングを楽しみ、工房で職人たちの技と情熱に触れた後は、美しい漆器で地元の滋味会席をいただき、自家源泉の名湯に身を委ねる時間。楽天ふるさと納税トラベルクーポンを活用して、日本のものづくりの根源を辿る贅沢な森と工芸の旅へ出かけましょう。
           </p>

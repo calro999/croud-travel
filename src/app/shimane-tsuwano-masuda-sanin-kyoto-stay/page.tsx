@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/shimane-tsuwano-masuda-sanin-kyoto-stay/" },
-  title: "【島根・津和野＆益田】山陰の小京都・掘割の錦鯉＆太皷谷稲成・石見神楽宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "島根・津和野＆益田：山陰の小京都・掘割の錦鯉＆太皷谷稲成・石見神楽宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "武家屋敷と白壁土塀のノスタルジー・島根津和野＆益田エリア完全特化！殿町通りの掘割を泳ぐ錦鯉、千本鳥居の「太皷谷稲成神社」、森鴎外・安野光雅ゆかりの地、伝統芸能「石見神楽」、名物「うずめ飯・鮎料理宿」を徹底解説。",
   keywords: ["島根", "津和野", "益田", "山陰の小京都", "掘割の錦鯉", "太皷谷稲成", "石見神楽宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             TSUWANO & MASUDA GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【島根・津和野＆益田】山陰の小京都・掘割の錦鯉＆太皷谷稲成・石見神楽宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「島根・津和野＆益田」山陰の小京都・掘割の錦鯉＆太皷谷稲成・石見神楽宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             山あいに佇む赤い石州瓦と白壁の城下町「山陰の小京都・津和野」。殿町通りの掘割を悠々と泳ぐ色鮮やかな錦鯉。朱塗りの千本鳥居が連なる太皷谷稲成神社。夜には大迫力の伝統芸能「石見神楽」を鑑賞し、素朴な郷土料理を味わう旅。
           </p>

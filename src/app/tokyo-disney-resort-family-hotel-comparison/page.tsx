@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tokyo-disney-resort-family-hotel-comparison/" },
-  title: "【子連れディズニー後泊ホテル比較】舞浜・新浦安・葛西のコスパ宿＆二段ベッド・洗い場付きお風呂完備 ｜ 日本全国・旅宿クラウド",
+  title: "子連れディズニー後泊ホテル比較：舞浜・新浦安・葛西のコスパ宿＆二段ベッド・洗い場付きお風呂完備 ｜ 日本全国・旅宿クラウド",
   description: "子連れディズニー旅行の宿泊先を徹底比較！舞浜駅直結オフィシャルホテル vs 無料シャトルバス付き新浦安パートナーホテル vs コスパ抜群の葛西エリア。洗い場付きバスルーム、2段ベッドルーム、添い寝無料条件を全比較。",
   keywords: ["子連れディズニー後泊ホテル比較", "舞浜", "新浦安", "葛西のコスパ宿", "二段ベッド", "洗い場付きお風呂完備", "温泉宿"],
 };
@@ -166,10 +166,7 @@ export default function DisneyFamilyHotelComparisonPage() {
             </span>
           </div>
 
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【子連れディズニー後泊ホテル比較】<br />
-            <span className="text-indigo-200">舞浜・新浦安・葛西のコスパ宿＆二段ベッド・洗い場付きお風呂完備</span>
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「子連れディズニー後泊ホテル比較」<br /> <span className="text-indigo-200">舞浜・新浦安・葛西のコスパ宿＆二段ベッド・洗い場付きお風呂完備</span></h1>
 
           <p className="text-sm md:text-base text-indigo-100/90 leading-relaxed font-normal pt-1">
             夢の国で1日中遊び倒した後の帰り道、寝てしまった子どもを抱っこして満員電車に乗るのはパパママにとって最大の修羅場…。「パーク閉園後にそのまま泊まる“後泊”」なら、夜のパレードや花火を最後まで見届けても数分でお風呂とベッドに直行できます！

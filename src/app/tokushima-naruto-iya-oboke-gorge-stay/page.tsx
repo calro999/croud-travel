@@ -5,11 +5,11 @@ import Image from 'next/image';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tokushima-naruto-iya-oboke-gorge-stay/" },
-  title: '【徳島・鳴門＆祖谷渓・大歩危】鳴門渦潮・大塚国際美術館＆祖谷かずら橋秘境宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+  title: '徳島・鳴門＆祖谷渓・大歩危：鳴門渦潮・大塚国際美術館＆祖谷かずら橋秘境宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
   description: '最大直径20mに達する世界最大級「鳴門の渦潮」観潮船と渦の道、世界の名画を原寸大陶板で再現した「大塚国際美術館」、日本三大秘境・祖谷渓の「祖谷のかずら橋」スリル渡橋、大歩危峡遊覧船と吉野川ラフティング、天空露天風呂の秘境宿を徹底解説。',
   keywords: ["徳島", "鳴門", "祖谷渓", "大歩危", "鳴門渦潮", "大塚国際美術館", "祖谷かずら橋秘境宿"],
   openGraph: {
-    title: '【徳島・鳴門＆祖谷渓・大歩危】鳴門渦潮・大塚国際美術館＆祖谷かずら橋秘境宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+    title: '徳島・鳴門＆祖谷渓・大歩危：鳴門渦潮・大塚国際美術館＆祖谷かずら橋秘境宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
     description: '最大直径20mに達する世界最大級「鳴門の渦潮」観潮船と渦の道、世界の名画を原寸大陶板で再現した「大塚国際美術館」、日本三大秘境・祖谷渓の「祖谷のかずら橋」スリル渡橋、大歩危峡遊覧船と吉野川ラフティング、天空露天風呂の秘境宿を徹底解説。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/tokushima-naruto-iya-oboke-gorge-stay',
@@ -50,9 +50,7 @@ export default function Page() {
             <span>🗺️</span>
             <span>NARUTO & IYA OBOKE GORGE GUIDE</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">
-            【徳島・鳴門＆祖谷渓・大歩危峡】世界最大鳴門渦潮・大塚美術館＆祖谷かずら橋秘境宿 完全ガイド
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">「徳島・鳴門＆祖谷渓・大歩危峡」世界最大鳴門渦潮・大塚美術館＆祖谷かずら橋秘境宿 厳選ガイド</h1>
           <p className="max-w-3xl mx-auto text-stone-300 text-sm sm:text-base md:text-lg leading-relaxed mb-8">
             鳴門海峡のダイナミックな潮流が渦巻く海のスペクタクルと、四国山地の奥深くに平家落人伝説が眠る日本屈指の深山秘境。世界最大級のスケールを誇る「鳴門の渦潮」と、世界の名画を一堂に体感できる奇跡のミュージアム「大塚国際美術館」。山あいに分け入れば、シラクチカズラで編まれた吊橋が足元を透かす「祖谷のかずら橋」とエメラルドグリーンの激流が刻んだ「大歩危小歩危」。四国の海と山の両極の感動に出逢う徳島ステイへご案内します。
           </p>

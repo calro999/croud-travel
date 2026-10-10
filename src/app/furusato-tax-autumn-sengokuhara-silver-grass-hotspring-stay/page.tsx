@@ -4,14 +4,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '黄金色に輝くススキの大海原！箱根仙石原ススキ草原＆大涌谷にごり湯温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】 | 旅宿クラウド',
+  title: '黄金色に輝くススキの大海原！箱根仙石原ススキ草原＆大涌谷にごり湯温泉名宿×ふるさと納税厳選ガイド | 旅宿クラウド',
   description: '10月中旬〜11月上旬に見頃を迎える箱根屈指の秋の風物詩「仙石原ススキ草原」。台ヶ岳の山裾一面が黄金色に輝く絶景の散策道と、大涌谷から引湯する乳白色の濃厚にごり湯を堪能！「万寿屋旅館」「箱根ホテル花月園」「センチュリオン箱根別邸」など厳選宿を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
   keywords: ["2026年最新秋旅", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-autumn-sengokuhara-silver-grass-hotspring-stay/"
   },
   openGraph: {
-    title: '黄金色に輝くススキの大海原！箱根仙石原ススキ草原＆大涌谷にごり湯温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】',
+    title: '黄金色に輝くススキの大海原！箱根仙石原ススキ草原＆大涌谷にごり湯温泉名宿×ふるさと納税厳選ガイド',
     description: '10月中旬〜11月上旬に見頃を迎える箱根屈指の秋の風物詩「仙石原ススキ草原」。台ヶ岳の山裾一面が黄金色に輝く絶景の散策道と、大涌谷から引湯する乳白色の濃厚にごり湯を堪能！「万寿屋旅館」「箱根ホテル花月園」「センチュリオン箱根別邸」など厳選宿を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-autumn-sengokuhara-silver-grass-hotspring-stay',
     siteName: '旅宿クラウド',
@@ -65,9 +65,7 @@ export default function FurusatoAutumnSengokuharaSilverGrassStayPage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               箱根仙石原黄金ススキ草原＆大涌谷白濁にごり湯温泉宿特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              黄金色に輝くススキの大海原！箱根仙石原ススキ草原＆大涌谷にごり湯温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">黄金色に輝くススキの大海原！箱根仙石原ススキ草原＆大涌谷にごり湯温泉名宿×ふるさと納税厳選ガイド</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               10月中旬〜11月上旬に見頃を迎える箱根屈指の秋の風物詩「仙石原ススキ草原」。台ヶ岳の山裾一面が黄金色に輝く絶景の散策道と、大涌谷から引湯する乳白色の濃厚にごり湯を堪能！「万寿屋旅館」「箱根ホテル花月園」「センチュリオン箱根別邸」など厳選宿を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。
             </p>

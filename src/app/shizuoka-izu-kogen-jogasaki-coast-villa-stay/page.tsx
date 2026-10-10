@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/shizuoka-izu-kogen-jogasaki-coast-villa-stay/" },
-  title: "【静岡・伊豆高原＆城ヶ崎】城ヶ崎門脇吊橋・大室山＆露天風呂ヴィラ宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "静岡・伊豆高原＆城ヶ崎：城ヶ崎門脇吊橋・大室山＆露天風呂ヴィラ宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "約4000年前の溶岩が創り出した城ヶ崎海岸の断崖絶壁と門脇吊橋、緑のすり鉢状火山・大室山、お洒落な別荘地・伊豆高原の隠れ家リゾートを巡る特化ガイド。客室露天風呂ヴィラや金目鯛美食宿を厳選。",
   keywords: ["静岡", "伊豆高原", "城ヶ崎", "城ヶ崎門脇吊橋", "大室山", "露天風呂ヴィラ宿", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             絶景オーシャンビュー＆ヴィラ特集 🌊
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【静岡・伊豆高原＆城ヶ崎】城ヶ崎門脇吊橋・大室山リフト＆露天風呂ヴィラ宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「静岡・伊豆高原＆城ヶ崎」城ヶ崎門脇吊橋・大室山リフト＆露天風呂ヴィラ宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-teal-100/90 leading-relaxed">
             相模湾の紺碧の海と、大室山の噴火が生んだダイナミックな溶岩海岸「城ヶ崎」。高さ23mのスリルあふれる門脇吊橋、リフトで登る大室山山頂のお鉢巡り、高原の別荘地に点在する隠れ家オーベルジュやプライベート露天風呂ヴィラ。洗練された大人の休日を叶える伊豆高原ステイへご案内します。
           </p>

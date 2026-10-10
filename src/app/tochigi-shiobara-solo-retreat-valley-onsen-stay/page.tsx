@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tochigi-shiobara-solo-retreat-valley-onsen-stay/" },
-  title: '【那須塩原・塩原温泉郷ひとり旅・十一湯渓谷おこもり】開湯1200年名瀑露天・乳白色硫黄泉・文豪の愛した湯治場！箒川渓谷美の秘湯厳選3宿',
+  title: '那須塩原・塩原温泉郷ひとり旅・十一湯渓谷おこもり：開湯1200年名瀑露天・乳白色硫黄泉・文豪の愛した湯治場！箒川渓谷美の秘湯厳選3宿',
   description: '11の温泉地が箒川沿いに連なる塩原十一湯！源泉かけ流しの極上泉と手作りの山海料理が口コミ★4.7超の「山口屋旅館」、奥塩原新湯の濃厚な白濁硫黄泉を堪能できる「やまの宿 下藤屋」、箒川の渓流を見下ろす野趣あふれる渓谷露天風呂が有名な「湯守田中屋」を楽天API最新データに基づき徹底比較。',
   keywords: '塩原温泉 一人旅 宿,塩原温泉 ホテル 一人,山口屋旅館 塩原,やまの宿下藤屋,湯守田中屋,塩原温泉 ひとり旅 おこもり',
   openGraph: {
-    title: '【那須塩原・塩原温泉郷ひとり旅・十一湯渓谷おこもり】開湯1200年名瀑露天・乳白色硫黄泉・文豪の愛した湯治場！箒川渓谷美の秘湯厳選3宿',
+    title: '那須塩原・塩原温泉郷ひとり旅・十一湯渓谷おこもり：開湯1200年名瀑露天・乳白色硫黄泉・文豪の愛した湯治場！箒川渓谷美の秘湯厳選3宿',
     description: '11の温泉地が箒川沿いに連なる塩原十一湯！源泉かけ流しの極上泉と手作りの山海料理が口コミ★4.7超の「山口屋旅館」、奥塩原新湯の濃厚な白濁硫黄泉を堪能できる「やまの宿 下藤屋」、箒川の渓流を見下ろす野趣あふれる渓谷露天風呂が有名な「湯守田中屋」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/tochigi-shiobara-solo-retreat-valley-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【那須塩原・塩原温泉郷ひとり旅・十一湯渓谷おこもり】開湯1200年名瀑露天・乳白色硫黄泉・文豪の愛した湯治場！箒川渓谷美の秘湯厳選3宿',
+    headline: '那須塩原・塩原温泉郷ひとり旅・十一湯渓谷おこもり：開湯1200年名瀑露天・乳白色硫黄泉・文豪の愛した湯治場！箒川渓谷美の秘湯厳選3宿',
     description: '11の温泉地が箒川沿いに連なる塩原十一湯！源泉かけ流しの極上泉と手作りの山海料理が口コミ★4.7超の「山口屋旅館」、奥塩原新湯の濃厚な白濁硫黄泉を堪能できる「やまの宿 下藤屋」、箒川の渓流を見下ろす野趣あふれる渓谷露天風呂が有名な「湯守田中屋」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             栃木・塩原温泉郷ひとり旅＆十一湯渓谷おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【那須塩原・塩原温泉郷ひとり旅・十一湯渓谷おこもり】開湯1200年名瀑露天・乳白色硫黄泉・文豪の愛した湯治場！箒川渓谷美の秘湯厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「那須塩原・塩原温泉郷ひとり旅・十一湯渓谷おこもり」開湯1200年名瀑露天・乳白色硫黄泉・文豪の愛した湯治場！箒川渓谷美の秘湯厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

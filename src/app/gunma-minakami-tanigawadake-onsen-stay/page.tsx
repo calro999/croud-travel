@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/gunma-minakami-tanigawadake-onsen-stay/" },
-  title: "【群馬・みなかみ＆谷川岳】一ノ倉沢・宝川温泉大露天＆利根川宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "群馬・みなかみ＆谷川岳：一ノ倉沢・宝川温泉大露天＆利根川宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "首都圏から近い大自然！魔の山にして世界一のロッククライミング聖地「谷川岳（一ノ倉沢・ロープウェイ）」、世界が認めた巨大露天風呂「宝川温泉」、みなかみ十八湯の源泉かけ流し、利根川源流のアクティビティを徹底解説。渓流露天風呂や高原ロッジを厳選。",
   keywords: ["群馬", "みなかみ", "谷川岳", "一ノ倉沢", "宝川温泉大露天", "利根川宿", "温泉宿"],
 };
@@ -92,9 +92,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             MINAKAMI & TANIGAWA GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【群馬・水上温泉郷＆谷川岳】一ノ倉沢大岩壁・宝川温泉巨石大露天＆利根川宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「群馬・水上温泉郷＆谷川岳」一ノ倉沢大岩壁・宝川温泉巨石大露天＆利根川宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-teal-100/90 leading-relaxed">
             標高1977m、日本百名山の一つにして急峻な岩壁が迫る「谷川岳」。ロープウェイで登る天神平からの雲上パノラマと、日本三大岩場「一ノ倉沢」の圧倒的な絶壁美。利根川の最上流部に点在する「みなかみ十八湯」の中でも、巨石を配した野趣あふれる大露天風呂で世界的に有名な「宝川温泉」。激流ラフティングから静寂の雪見露天まで、五感で自然を体感するみなかみステイへご案内します。
           </p>

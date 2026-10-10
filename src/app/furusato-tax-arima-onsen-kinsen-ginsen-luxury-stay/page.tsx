@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '日本最古の名湯！有馬温泉の金泉・銀泉めぐり＆最高峰神戸牛会席老舗旅館×ふるさと納税完全攻略ガイド【2026年最新】兵衛向陽閣・御所坊・月光園鴻朧館',
+  title: '日本最古の名湯！有馬温泉の金泉・銀泉めぐり＆最高峰神戸牛会席老舗旅館×ふるさと納税極上旅ガイド兵衛向陽閣・御所坊・月光園鴻朧館',
   description: '日本三古湯・日本三名泉の頂点に君臨する有馬温泉！鉄分と塩分を豊富に含む赤褐色の「金泉」と無色透明の炭酸ラドン泉「銀泉」。「兵衛向陽閣」「陶泉 御所坊」「月光園 鴻朧館」を、兵庫県神戸市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。創業七百年の格式、半混浴金泉掛け流し、極上神戸牛会席を満喫。',
   keywords: ["日本最古の名湯！有馬温泉の金泉", "銀泉めぐり", "2026年最新", "兵衛向陽閣", "御所坊", "月光園鴻朧館", "温泉宿"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-arima-onsen-kinsen-ginsen-luxury-stay/",
   },
   openGraph: {
-    title: '日本最古の名湯！有馬温泉の金泉・銀泉めぐり＆最高峰神戸牛会席老舗旅館×ふるさと納税完全攻略ガイド【2026年最新】兵衛向陽閣・御所坊・月光園鴻朧館',
+    title: '日本最古の名湯！有馬温泉の金泉・銀泉めぐり＆最高峰神戸牛会席老舗旅館×ふるさと納税極上旅ガイド兵衛向陽閣・御所坊・月光園鴻朧館',
     description: '日本三古湯・日本三名泉の頂点に君臨する有馬温泉！鉄分と塩分を豊富に含む赤褐色の「金泉」と無色透明の炭酸ラドン泉「銀泉」。「兵衛向陽閣」「陶泉 御所坊」「月光園 鴻朧館」を、兵庫県神戸市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。創業七百年の格式、半混浴金泉掛け流し、極上神戸牛会席を満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-arima-onsen-kinsen-ginsen-luxury-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoArimaOnsenKinsenGinsenStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           日本三名泉・最古の湯！兵庫県有馬温泉特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          日本最古の名湯！有馬温泉の金泉・銀泉めぐり＆最高峰神戸牛会席老舗旅館×ふるさと納税完全攻略ガイド【2026年最新】兵衛向陽閣・御所坊・月光園鴻朧館
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">日本最古の名湯！有馬温泉の金泉・銀泉めぐり＆最高峰神戸牛会席老舗旅館×ふるさと納税極上旅ガイド兵衛向陽閣・御所坊・月光園鴻朧館</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoArimaOnsenKinsenGinsenStayPage() {
               創業700年の老舗旅館。有馬温泉の高台に位置し、有馬最大級の悠々とした三大浴場でお寛ぎいただけます。
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “憧れのお宿で心温まるおもてなしと温泉を満喫憧れのお宿に泊まることができて、とても嬉しかったです。こちらの事情で、チェックインが遅くなり、夕飯が遅いスタートになってしまったのですが、荷物や車など様々… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D8636%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoArimaOnsenKinsenGinsenStayPage() {
               鎌倉以来八百年　古式温泉館　有馬最古の湯宿で100％源泉掛け流しの新鮮な有馬の湯と風情を堪能
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “蒸し風呂も楽しめる!とにかく濃厚な温泉を楽しみに5度目くらい?の利用です。母がとても気に入っており、有馬に行きたい!となると必ずお世話になっています。お宿としての雰囲気、空間、サービスも最高で… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D80572%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoArimaOnsenKinsenGinsenStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               ロビーや浴場等随所より壮大な景色がご覧頂ける有馬随一の立地条件。有馬の元湯をお楽しみくださいませ。
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “上品な会席料理と部屋風呂で記念日を祝福会席料理が前菜からデザートまですごく上品で美味しかったです。部屋風呂も清潔に保たれており、リラックスして過ごすことができました。結婚記念日に旅行に行ったのです… ”
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

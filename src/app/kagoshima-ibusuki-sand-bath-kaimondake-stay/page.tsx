@@ -5,11 +5,11 @@ import Image from 'next/image';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kagoshima-ibusuki-sand-bath-kaimondake-stay/" },
-  title: '【鹿児島・指宿＆開聞岳・知覧】天然砂むし・開聞岳＆知覧武家屋敷・黒豚宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+  title: '鹿児島・指宿＆開聞岳・知覧：天然砂むし・開聞岳＆知覧武家屋敷・黒豚宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
   description: '海岸の自然熱砂に埋まる世界唯一の「天然砂むし温泉 砂楽」、円錐形の美しい薩摩富士「開聞岳」、JR日本最南端「西大山駅」の黄色いポスト、国の名勝に指定された薩摩の小京都「知覧武家屋敷庭園」、本場かごしま黒豚しゃぶしゃぶ宿を徹底解説。',
   keywords: ["鹿児島", "指宿", "開聞岳", "知覧", "天然砂むし", "知覧武家屋敷", "黒豚宿"],
   openGraph: {
-    title: '【鹿児島・指宿＆開聞岳・知覧】天然砂むし・開聞岳＆知覧武家屋敷・黒豚宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+    title: '鹿児島・指宿＆開聞岳・知覧：天然砂むし・開聞岳＆知覧武家屋敷・黒豚宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
     description: '海岸の自然熱砂に埋まる世界唯一の「天然砂むし温泉 砂楽」、円錐形の美しい薩摩富士「開聞岳」、JR日本最南端「西大山駅」の黄色いポスト、国の名勝に指定された薩摩の小京都「知覧武家屋敷庭園」、本場かごしま黒豚しゃぶしゃぶ宿を徹底解説。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/kagoshima-ibusuki-sand-bath-kaimondake-stay',
@@ -50,9 +50,7 @@ export default function Page() {
             <span>🗺️</span>
             <span>IBUSUKI & KAIMONDAKE GUIDE</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">
-            【鹿児島・指宿＆開聞岳・知覧】天然砂むし温泉・薩摩富士開聞岳＆知覧武家屋敷宿 完全ガイド
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">「鹿児島・指宿＆開聞岳・知覧」天然砂むし温泉・薩摩富士開聞岳＆知覧武家屋敷宿 厳選ガイド</h1>
           <p className="max-w-3xl mx-auto text-stone-300 text-sm sm:text-base md:text-lg leading-relaxed mb-8">
             南国情緒あふれる薩摩半島の最南端「指宿」。波打ち際の海岸から湧き出る温泉熱を利用した世界でも唯一無二の入浴法「天然砂むし温泉」。波音を聞きながら温かい砂に包まれ、全身から汗が噴き出すデトックス体験は究極の癒やし。見事に均整の取れた名峰「薩摩富士・開聞岳」。枯山水庭園が美しい薩摩の小京都「知覧武家屋敷」。南国の太陽と大地のエネルギーに心身が満ち潮のように潤う薩摩ステイへご案内します。
           </p>

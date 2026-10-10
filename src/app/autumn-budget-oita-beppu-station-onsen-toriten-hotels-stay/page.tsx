@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【別府駅前】名湯めぐり＆名物とり天・地獄蒸し！2,000円台〜泊まれる格安ホテル5選',
+  title: '別府駅前：名湯めぐり＆名物とり天・地獄蒸し！2,000円台〜泊まれる格安ホテル5選',
   description: '日本一のおんせん県・別府！駅前天然温泉や名物とり天、別府冷麺、立ち上る湯けむりの別府八湯。JR日豊本線・別府駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>日本一の湧出量・別府八湯＆名物とり天・地獄蒸し</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【別府駅前】別府温泉めぐり＆名物とり天！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「別府駅前」別府温泉めぐり＆名物とり天！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             毎分8万リットルを超える湧出量を誇る日本随一の温泉郷・別府。駅前の共同浴場や足湯、サクサクジューシーな大分名物「とり天」、ツルッとした喉越しの別府冷麺。秋の温泉旅を身軽に満喫できる、別府駅周辺で2,000円台〜泊まれる格安ホテルを厳選。
           </p>

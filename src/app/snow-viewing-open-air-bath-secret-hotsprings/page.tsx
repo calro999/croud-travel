@@ -180,9 +180,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            白銀の世界に抱かれる至福！雪見露天風呂と濁り湯が自慢の極上秘湯宿
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">白銀の世界に抱かれる至福！雪見露天風呂と濁り湯が自慢の極上秘湯宿</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             しんしんと降り積もる雪の中、立ち上る湯けむりに包まれる雪見露天風呂は、冬の日本旅における究極の贅沢。白濁した硫黄泉やエメラルドグリーンの濁り湯に身を委ね、凛とした冷気に火照った肌を冷ましながら雪景色を眺める時間は、日常の喧騒を完全に忘れさせてくれます。
           </p>

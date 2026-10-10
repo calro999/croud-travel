@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-post-town-nakasendo-edo-highway-stay/" },
-  title: "【中山道・木曽路の宿場町＆旧街道宿】妻籠宿・馬籠宿・奈良井宿・大内宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "中山道・木曽路の宿場町＆旧街道宿：妻籠宿・馬籠宿・奈良井宿・大内宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "江戸時代の街道情緒にタイムスリップ！中山道木曽路の「妻籠宿」「馬籠宿」「奈良井宿（千軒宿）」、福島会津の茅葺き宿場「大内宿」、歴史ある本陣・脇本陣、出桁造りの古民家宿・木曽ひのき風呂を徹底解説。",
   keywords: ["中山道", "木曽路の宿場町", "旧街道宿", "妻籠宿", "馬籠宿", "奈良井宿", "大内宿"],
 };
@@ -89,9 +89,7 @@ export default function HistoryHeritageHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             POST TOWN & NAKASENDO GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【中山道・木曽路の宿場町＆旧街道宿】妻籠宿・馬籠宿・奈良井宿・大内宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「中山道・木曽路の宿場町＆旧街道宿」妻籠宿・馬籠宿・奈良井宿・大内宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             石畳の坂道に並ぶ格子戸の旅籠、軒先に吊るされた行灯の揺らめく灯り。日本で最初に伝統的建造物群保存地区に選定された「妻籠宿」、島崎藤村の故郷「馬籠宿」、日本最長の宿場「奈良井宿」。江戸の旅人気分で浸かる木曽路の旅へ。
           </p>

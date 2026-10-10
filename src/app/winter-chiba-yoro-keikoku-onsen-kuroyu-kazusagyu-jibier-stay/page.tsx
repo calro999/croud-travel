@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月養老渓谷温泉郷】房総かずさ和牛！名宿5選',
+  title: '養老渓谷温泉郷で過ごす冬の旅（11・12月）！房総かずさ和牛！名宿5選',
   description: '11月下旬から12月上旬にかけて「本州で最も遅い紅葉」のクライマックスを迎える千葉県・房総半島の養老渓谷温泉郷。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '養老渓谷 宿泊, 養老渓谷 紅葉 温泉, 黒湯 モール泉 旅館, 房総かずさ和牛, 天然猪鍋 ぼたん鍋, 粟又の滝 ハイキング, 小湊鐵道 トロッコ, 11月 12月 千葉旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-chiba-yoro-keikoku-onsen-kuroyu-kazusagyu-jibier-stay/"
   },
   openGraph: {
-    title: '【11・12月養老渓谷温泉郷】房総かずさ和牛！名宿5選',
+    title: '養老渓谷温泉郷で過ごす冬の旅（11・12月）！房総かずさ和牛！名宿5選',
     description: '11月下旬から12月上旬にかけて「本州で最も遅い紅葉」のクライマックスを迎える千葉県・房総半島の養老渓谷温泉郷。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-chiba-yoro-keikoku-onsen-kuroyu-kazusagyu-jibier-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月養老渓谷温泉郷】本州一遅い初冬の紅葉ライトアップと美肌黒湯天然温泉・房総かずさ和牛＆天然猪ジビエ鍋を堪能する名宿5選",
+    title: "養老渓谷温泉郷で過ごす冬の旅（11・12月）！本州一遅い初冬の紅葉ライトアップと美肌黒湯天然温泉・房総かずさ和牛＆天然猪ジビエ鍋を堪能する名宿5選",
     description: "11月下旬から12月上旬にかけて「本州で最も遅い紅葉」のクライマックスを迎える千葉県・房総半島の養老渓谷温泉郷。関東の山々が冬枯れの装いを見せる中、温暖な房総の深い渓谷はモミジやカエデが燃えるような赤や黄金色に染まり、初冬の澄んだ夜空を彩る幻想的な紅葉ライトアップが旅人を魅了します。名瀑「粟又の滝」に沿って続く遊歩道では、清流のせせらぎと落葉の絨毯を踏みしめながら至福のハイキングが楽しめます。そして養老渓谷の最大の自慢が、地下深層から湧出する全国的にも珍しいコーラ色〜漆黒の「黒湯（モール泉）」。太古の植物性有機物（フミン酸）と重曹成分を豊富に含んだアルカリ性の湯は、まるで濃密な美容液に包まれているかのようなトロトロの肌触りで、角質を優しく落としてつるつるの素肌へと導きます。夕食の膳には、きめ細やかなサシと芳醇な甘みを誇るブランド牛「房総かずさ和牛」や、11月解禁の冬の恵みである滋味豊かな「天然猪肉のぼたん鍋」、外房直送の地魚舟盛りなど、初冬の房総の贅を極めた料理が並びます。小湊鐵道のノスタルジックな里山風景とともに、心身を深く解きほぐす厳選名宿5選を詳しく紹介します。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -367,9 +367,7 @@ export default function ChibaYoroKeikokuWinterPage() {
             <Sparkles className="w-3.5 h-3.5" />
             11月下旬・12月初冬の房総名峡＆黒湯温泉特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold tracking-tight text-white leading-tight">
-            {metadata.title as string}
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold tracking-tight text-white leading-tight">{metadata.title as string}</h1>
           <p className="text-xs sm:text-sm text-stone-300 leading-relaxed pt-2">
             本州で最も遅くまで燃え上がる養老渓谷の紅葉ライトアップと、漆黒の美肌黒湯天然温泉。
             口の中でほどける房総かずさ和牛と11月解禁の天然猪鍋、小湊鐵道の里山旅情に浸る初冬の休日。

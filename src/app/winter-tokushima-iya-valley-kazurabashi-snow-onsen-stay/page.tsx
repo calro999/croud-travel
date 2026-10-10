@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月徳島】日本三大秘境！名宿5選',
+  title: '11・12・1月徳島：日本三大秘境！名宿5選',
   description: '11月晩秋の紅葉から12月・1月の白銀の世界へと移り変わる徳島県・祖谷渓谷（いやけいこく）。岐阜県の白川郷。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '祖谷のかずら橋 冬, 祖谷温泉 宿泊, ホテル祖谷温泉 ケーブルカー, 大歩危峡まんなか, ホテルかずら橋, サンリバー大歩危, ホテル秘境の湯, 大歩危 こたつ舟, 阿波尾鶏, 祖谷そば, 11月 12月 1月 徳島旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tokushima-iya-valley-kazurabashi-snow-onsen-stay/"
   },
   openGraph: {
-    title: '【11・12・1月徳島】日本三大秘境！名宿5選',
+    title: '11・12・1月徳島：日本三大秘境！名宿5選',
     description: '11月晩秋の紅葉から12月・1月の白銀の世界へと移り変わる徳島県・祖谷渓谷（いやけいこく）。岐阜県の白川郷。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-tokushima-iya-valley-kazurabashi-snow-onsen-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月徳島】日本三大秘境・冬の祖谷渓谷「祖谷のかずら橋」雪景色と大歩危峡・ケーブルカーで行く谷底秘湯露天風呂＆阿波尾鶏を堪能する名宿5選",
+    title: "11・12・1月徳島：日本三大秘境・冬の祖谷渓谷「祖谷のかずら橋」雪景色と大歩危峡・ケーブルカーで行く谷底秘湯露天風呂＆阿波尾鶏を堪能する名宿5選",
     description: "11月晩秋の紅葉から12月・1月の白銀の世界へと移り変わる徳島県・祖谷渓谷（いやけいこく）。岐阜県の白川郷、宮崎県の椎葉村と並び「日本三大秘境」に数えられる断崖絶壁の山懐に、国指定重要有形民俗文化財「祖谷のかずら橋」が佇みます。粉雪をまとったかずら橋とエメラルドグリーンに澄み切る祖谷川の渓谷美、傾斜42度の専用ケーブルカーで下る谷底の自噴秘湯露天風呂、そして囲炉裏端で香ばしく焼き上げる阿波尾鶏や祖谷そばの素朴な美食。喧騒を完全に忘れ去る冬の秘境名宿5選と1泊2日のモデルコースをお届けします。",
     images: ['https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80']
   }
@@ -42,7 +42,7 @@ export default function TokushimaIyaValleyWinterPage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: "【11・12・1月徳島】日本三大秘境・冬の祖谷渓谷「祖谷のかずら橋」雪景色と大歩危峡・ケーブルカーで行く谷底秘湯露天風呂＆阿波尾鶏を堪能する名宿5選",
+    headline: "11・12・1月徳島：日本三大秘境・冬の祖谷渓谷「祖谷のかずら橋」雪景色と大歩危峡・ケーブルカーで行く谷底秘湯露天風呂＆阿波尾鶏を堪能する名宿5選",
     description: "11月晩秋の紅葉から12月・1月の白銀の世界へと移り変わる徳島県・祖谷渓谷（いやけいこく）。岐阜県の白川郷、宮崎県の椎葉村と並び「日本三大秘境」に数えられる断崖絶壁の山懐に、国指定重要有形民俗文化財「祖谷のかずら橋」が佇みます。粉雪をまとったかずら橋とエメラルドグリーンに澄み切る祖谷川の渓谷美、傾斜42度の専用ケーブルカーで下る谷底の自噴秘湯露天風呂、そして囲炉裏端で香ばしく焼き上げる阿波尾鶏や祖谷そばの素朴な美食。喧騒を完全に忘れ去る冬の秘境名宿5選と1泊2日のモデルコースをお届けします。",
     image: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80',
     datePublished: '',
@@ -282,9 +282,7 @@ export default function TokushimaIyaValleyWinterPage() {
             <Snowflake className="w-4 h-4 text-teal-300" />
             11月・12月・1月 冬の四国・日本三大秘境「祖谷のかずら橋」雪景色＆谷底自噴露天風呂特集
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【11・12・1月徳島】日本三大秘境・冬の祖谷渓谷「祖谷のかずら橋」雪景色と大歩危峡・ケーブルカーで行く谷底秘湯露天風呂＆阿波尾鶏を堪能する名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「11・12・1月徳島」日本三大秘境・冬の祖谷渓谷「祖谷のかずら橋」雪景色と大歩危峡・ケーブルカーで行く谷底秘湯露天風呂＆阿波尾鶏を堪能する名宿5選</h1>
           <p className="text-slate-300 text-sm sm:text-base md:text-lg max-w-3xl leading-relaxed">
             白川郷、椎葉村と並び「日本三大秘境」と称される四国の山懐・祖谷渓谷。国指定重要有形民俗文化財「祖谷のかずら橋」が白銀の雪化粧をまとい、眼下には透き通る祖谷川のエメラルドグリーンが息を呑む静寂を描き出します。傾斜42度の専用ケーブルカーで下る谷底の源泉掛け流し露天風呂、大歩危峡の風情あふれるこたつ舟、そして囲炉裏端で焼き上げる阿波尾鶏と素朴な祖谷そば。日常の喧騒から完全に解き放たれる冬の秘境旅へご案内します。
           </p>

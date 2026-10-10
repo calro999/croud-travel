@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/yamanashi-grape-bus-tour-daytrip-guide/" },
-  title: "【山梨 シャインマスカット狩り 日帰りバスツアー2026】巨峰食べ放題＆勝沼ワイナリー・温泉付き最安比較 ｜ 日本全国・旅宿クラウド",
+  title: "山梨 シャインマスカット狩り 日帰りバスツアー2026：巨峰食べ放題＆勝沼ワイナリー・温泉付き最安比較 ｜ 日本全国・旅宿クラウド",
   description: "2026年秋の山梨シャインマスカット狩り日帰りバスツアー特集！高級シャインマスカット食べ放題、勝沼ワイナリー試飲、ハーブ庭園散策、ほったらかし温泉立ち寄りなど、人気ツアーの最安値予約ガイド。",
   keywords: ["山梨", "シャインマスカット狩り", "日帰りバスツアー2026", "巨峰食べ放題", "勝沼ワイナリー", "温泉付き最安比較", "温泉宿"],
 };
@@ -38,7 +38,7 @@ export default function YamanashiGrapeBusTourPage() {
   const tourRankings = [
     {
       rank: "第1位",
-      title: "【贅沢満喫】極上シャインマスカット狩り食べ放題 ＆ 甲州ワイン牛ステーキランチ ＆ 勝沼ワイナリー試飲",
+      title: "贅沢満喫：極上シャインマスカット狩り食べ放題 ＆ 甲州ワイン牛ステーキランチ ＆ 勝沼ワイナリー試飲",
       priceRange: "9,900円〜13,800円",
       route: "新宿/東京発 → 勝沼ぶどう農園（シャインマスカット30分食べ放題）→ 甲州牛ランチ → 歴史ある勝沼ワイナリー見学＆試飲 → ハーブ庭園旅日記",
       appeal: "市場価格1房2,000円〜3,000円する高級シャインマスカットが農園でもぎ取り食べ放題！大粒で皮ごとパリッと弾けるジューシーな甘み。ワインの試飲もたっぷり楽しめる人気の王道コース。",
@@ -46,7 +46,7 @@ export default function YamanashiGrapeBusTourPage() {
     },
     {
       rank: "第2位",
-      title: "【秋の味覚＋絶景温泉】巨峰・シャインマスカット狩り ＆ 山梨郷土料理ほうとう鍋 ＆ ほったらかし温泉入浴",
+      title: "秋の味覚＋絶景温泉：巨峰・シャインマスカット狩り ＆ 山梨郷土料理ほうとう鍋 ＆ ほったらかし温泉入浴",
       priceRange: "10,800円〜14,500円",
       route: "新宿/横浜発 → ぶどう園食べ比べ → 熱々かぼちゃほうとう御膳 → ほったらかし温泉（富士山と甲府盆地を望む絶景露天風呂）→ ご当地お土産館",
       appeal: "山梨ならではのフルーツ狩りと絶景温泉が一度に楽しめる欲張りプラン。甲府盆地を見下ろす大露天風呂に浸かり、名物の温玉揚げを味わう至福の休日。",
@@ -54,7 +54,7 @@ export default function YamanashiGrapeBusTourPage() {
     },
     {
       rank: "第3位",
-      title: "【コスパ最強】ぶどう狩り食べ比べ（巨峰・ピオーネ・マスカット） ＆ ハイジの村スイスビュッフェ ＆ お土産付き",
+      title: "コスパ最強：ぶどう狩り食べ比べ（巨峰・ピオーネ・マスカット） ＆ ハイジの村スイスビュッフェ ＆ お土産付き",
       priceRange: "8,800円〜11,500円",
       route: "東京/池袋発 → フルーツ王国山梨ぶどう狩り → ハイジの村（ヨーロッパ風庭園＆ランチバイキング）→ 信玄餅詰め放題体験 → 帰着",
       appeal: "1万円以下から参加できる驚きの高コスパ！ぶどうのお土産1房プレゼント付きや信玄餅の詰め放題など、両手いっぱいのお土産を持って帰れる大満足ツアー。",
@@ -130,10 +130,7 @@ export default function YamanashiGrapeBusTourPage() {
             </span>
           </div>
 
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【山梨 シャインマスカット狩り 日帰りバスツアー2026】<br />
-            巨峰食べ放題＆勝沼ワイナリー・温泉付き最安比較
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「山梨 シャインマスカット狩り 日帰りバスツアー2026」<br /> 巨峰食べ放題＆勝沼ワイナリー・温泉付き最安比較</h1>
 
           <p className="text-xs md:text-sm text-purple-100/90 leading-relaxed font-medium">
             秋の味覚狩りの主役といえば、大粒で甘い高級シャインマスカット！マイカーで行くと中央道の渋滞やワイナリーでの運転手飲酒NGが悩みどころですが、日帰り観光バスツアーなら都内から乗っているだけで楽々到着＆ワインの無料試飲も思いっきり満喫できます。2026年秋の最新人気プランを徹底比較！

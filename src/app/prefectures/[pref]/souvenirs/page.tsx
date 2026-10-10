@@ -121,9 +121,7 @@ export default async function PrefectureSouvenirsPage({ params }: { params: Prom
           </span>
         </div>
 
-        <h1 className="text-3xl md:text-5xl font-black font-journal-serif leading-tight text-white">
-          【2026年最新】{prefInfo.name}の人気お土産・銘菓・特産品おすすめ比較ランキング
-        </h1>
+        <h1 className="text-3xl md:text-5xl font-black font-journal-serif leading-tight text-white">{prefInfo.name}の人気お土産・銘菓・特産品おすすめ比較ランキング</h1>
 
         <p className="text-emerald-100/90 text-xs md:text-sm max-w-3xl leading-relaxed font-medium">
           {prefInfo.name}旅行の思い出や大切な方への手土産として絶対に失敗しない人気お土産を厳選比較！長年愛される伝統の和菓子・名物銘菓から、SNSやメディアで話題のおしゃれな洋菓子・スイーツ、職場へ配りやすい常温・個包装のばらまき土産、お酒のお供に最高な特産グルメまで徹底紹介します。

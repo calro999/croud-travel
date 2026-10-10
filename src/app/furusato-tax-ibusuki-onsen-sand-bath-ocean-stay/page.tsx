@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【指宿温泉×ふるさと納税】名物天然砂むし温泉＆錦江湾オーシャンビュー！絶景リゾート宿特集｜白水館・指宿ロイヤル・シーサイドホテル',
+  title: '指宿温泉をふるさと納税でお得に旅する！名物天然砂むし温泉＆錦江湾オーシャンビュー！絶景リゾート宿特集｜白水館・指宿ロイヤル・シーサイドホテル',
   description: '世界唯一の天然砂むし温泉と薩摩富士・開聞岳を望む鹿児島県指宿温泉を楽天ふるさと納税でお得に贅沢ステイ！千坪の元禄風呂と砂むし温泉を誇る名門「指宿白水館」、絶景高台オーシャンビューの「指宿ロイヤルホテル」、波打ち際の砂むし温泉完備「指宿シーサイドホテル」を徹底比較。指宿市トラベルクーポン活用術を網羅。',
   keywords: '指宿温泉 ふるさと納税,指宿 砂むし温泉 ふるさと納税,指宿白水館 クーポン,指宿ロイヤルホテル 宿泊,指宿市 ふるさと納税 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-ibusuki-onsen-sand-bath-ocean-stay/",
   },
   openGraph: {
-    title: '【指宿温泉×ふるさと納税】名物天然砂むし温泉＆錦江湾オーシャンビュー！絶景リゾート宿特集｜白水館・指宿ロイヤル・シーサイドホテル',
+    title: '指宿温泉をふるさと納税でお得に旅する！名物天然砂むし温泉＆錦江湾オーシャンビュー！絶景リゾート宿特集｜白水館・指宿ロイヤル・シーサイドホテル',
     description: '世界唯一の天然砂むし温泉と薩摩富士・開聞岳を望む鹿児島県指宿温泉を楽天ふるさと納税でお得に贅沢ステイ！千坪の元禄風呂と砂むし温泉を誇る名門「指宿白水館」、絶景高台オーシャンビューの「指宿ロイヤルホテル」、波打ち際の砂むし温泉完備「指宿シーサイドホテル」を徹底比較。指宿市トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-ibusuki-onsen-sand-bath-ocean-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -24,7 +24,7 @@ export default function FurusatoArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【指宿温泉×ふるさと納税】名物天然砂むし温泉＆錦江湾オーシャンビュー！絶景リゾート宿特集｜白水館・指宿ロイヤル・シーサイドホテル',
+    headline: '指宿温泉をふるさと納税でお得に旅する！名物天然砂むし温泉＆錦江湾オーシャンビュー！絶景リゾート宿特集｜白水館・指宿ロイヤル・シーサイドホテル',
     description: '世界唯一の天然砂むし温泉と薩摩富士・開聞岳を望む鹿児島県指宿温泉を楽天ふるさと納税でお得に贅沢ステイ！千坪の元禄風呂と砂むし温泉を誇る名門「指宿白水館」、絶景高台オーシャンビューの「指宿ロイヤルホテル」、波打ち際の砂むし温泉完備「指宿シーサイドホテル」を徹底比較。指宿市トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function FurusatoArticlePage() {
           <span>♨️</span>
           <span>鹿児島県指宿市 ふるさと納税・名湯宿特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【指宿温泉×ふるさと納税】名物天然砂むし温泉＆錦江湾オーシャンビュー！絶景リゾート宿特集｜白水館・指宿ロイヤル・シーサイドホテル
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">指宿温泉をふるさと納税でお得に旅する！名物天然砂むし温泉＆錦江湾オーシャンビュー！絶景リゾート宿特集｜白水館・指宿ロイヤル・シーサイドホテル</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed">
           世界唯一の天然砂むし温泉と薩摩富士・開聞岳を望む鹿児島県指宿温泉を楽天ふるさと納税でお得に贅沢ステイ！千坪の元禄風呂と砂むし温泉を誇る名門「指宿白水館」、絶景高台オーシャンビューの「指宿ロイヤルホテル」、波打ち際の砂むし温泉完備「指宿シーサイドホテル」を徹底比較。指宿市トラベルクーポン活用術を網羅。
         </p>

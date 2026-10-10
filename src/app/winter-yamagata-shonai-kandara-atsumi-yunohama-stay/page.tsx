@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月山形】寒ブリ！名宿5選',
+  title: '11・12・1月山形：寒ブリ！名宿5選',
   description: '11月から1月、山形県庄内地方（鶴岡・酒田・温海・湯野浜）は、荒波の日本海が育む冬の風物詩「寒鱈（かんだら）汁」の熱気と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '庄内 寒鱈汁, 鶴岡 寒鱈まつり, 湯野浜温泉 ホテル, あつみ温泉 たちばなや, あつみ温泉 萬国屋, HOTEL KAMEYA, 游水亭 いさごや, ホテルリッチ＆ガーデン酒田, 11月 12月 1月 山形旅行, 出羽三山 冬',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamagata-shonai-kandara-atsumi-yunohama-stay/"
   },
   openGraph: {
-    title: '【11・12・1月山形】寒ブリ！名宿5選',
+    title: '11・12・1月山形：寒ブリ！名宿5選',
     description: '11月から1月、山形県庄内地方（鶴岡・酒田・温海・湯野浜）は、荒波の日本海が育む冬の風物詩「寒鱈（かんだら）汁」の熱気と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-yamagata-shonai-kandara-atsumi-yunohama-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月山形】庄内名物「寒鱈汁（どんがら汁）」と極上白子・寒ブリ・出羽三山雪景色＆名湯あつみ・湯野浜温泉を巡る厳選宿5選",
+    title: "11・12・1月山形：庄内名物「寒鱈汁（どんがら汁）」と極上白子・寒ブリ・出羽三山雪景色＆名湯あつみ・湯野浜温泉を巡る厳選宿5選",
     description: "11月から1月、山形県庄内地方（鶴岡・酒田・温海・湯野浜）は、荒波の日本海が育む冬の風物詩「寒鱈（かんだら）汁」の熱気と、白銀に包まれる出羽三山や鳥海山の荘厳な雪景色に包まれます。丸ごと一匹のタラの身、濃厚な白子（あぶらこ）、肝（あぶら）を豪快に煮込んだ熱々のどんがら汁、庄内浜の冬の王者・寒ブリや紅ズワイガニ、とろける庄内牛。1000年以上の歴史を誇るあつみ温泉や日本海一望の湯野浜温泉の雪見露天風呂に浸かり、ユネスコ食文化創造都市・鶴岡の至福の郷土美食に酔いしれる名宿5選を徹底ガイドします。",
     images: ['https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80']
   }
@@ -42,7 +42,7 @@ export default function YamagataShonaiKandaraWinterPage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: "【11・12・1月山形】庄内名物「寒鱈汁（どんがら汁）」と極上白子・寒ブリ・出羽三山雪景色＆名湯あつみ・湯野浜温泉を巡る厳選宿5選",
+    headline: "11・12・1月山形：庄内名物「寒鱈汁（どんがら汁）」と極上白子・寒ブリ・出羽三山雪景色＆名湯あつみ・湯野浜温泉を巡る厳選宿5選",
     description: "11月から1月、山形県庄内地方（鶴岡・酒田・温海・湯野浜）は、荒波の日本海が育む冬の風物詩「寒鱈（かんだら）汁」の熱気と、白銀に包まれる出羽三山や鳥海山の荘厳な雪景色に包まれます。丸ごと一匹のタラの身、濃厚な白子（あぶらこ）、肝（あぶら）を豪快に煮込んだ熱々のどんがら汁、庄内浜の冬の王者・寒ブリや紅ズワイガニ、とろける庄内牛。1000年以上の歴史を誇るあつみ温泉や日本海一望の湯野浜温泉の雪見露天風呂に浸かり、ユネスコ食文化創造都市・鶴岡の至福の郷土美食に酔いしれる名宿5選を徹底ガイドします。",
     image: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
     datePublished: '',
@@ -282,9 +282,7 @@ export default function YamagataShonaiKandaraWinterPage() {
             <Snowflake className="w-4 h-4 text-indigo-300" />
             11月・12月・1月 冬の日本海・庄内ガストロノミー＆雪見露天特集
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【11・12・1月山形】庄内名物「寒鱈汁（どんがら汁）」と極上白子・寒ブリ・出羽三山雪景色＆名湯あつみ・湯野浜温泉を巡る厳選宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「11・12・1月山形」庄内名物「寒鱈汁（どんがら汁）」と極上白子・寒ブリ・出羽三山雪景色＆名湯あつみ・湯野浜温泉を巡る厳選宿5選</h1>
           <p className="text-slate-300 text-sm sm:text-base md:text-lg max-w-3xl leading-relaxed">
             日本海の荒波が運ぶ冬の王者「真鱈（まだら）」。濃厚な肝と白子が溶け合う熱々の「どんがら汁」に舌鼓を打ち、白銀に染まる出羽三山の厳かな杉並木と国宝五重塔の静寂に心を研ぎ澄ます。1000年以上の歴史を刻むあつみ温泉や湯野浜温泉の雪見露天風呂、極上山形牛を心ゆくまで堪能する名宿を厳選紹介します。
           </p>

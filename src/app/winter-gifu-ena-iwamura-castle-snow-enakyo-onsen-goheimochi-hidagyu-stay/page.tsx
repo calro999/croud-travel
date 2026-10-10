@@ -3,13 +3,13 @@ import Link from 'next/link';
 import { Star, MapPin, Calendar, Compass, ShieldCheck, Heart, Sparkles, ExternalLink, ChevronRight } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【日本三大山城・岩村城跡の霧氷美と女城主の里重伝建】2026-2027年冬の岐阜・恵那！恵那峡温泉の絶景露天と飛騨牛朴葉味噌・五平餅名宿5選',
+  title: '日本三大山城・岩村城跡の霧氷美と女城主の里重伝建：2026-2027年冬の岐阜・恵那！恵那峡温泉の絶景露天と飛騨牛朴葉味噌・五平餅名宿5選',
   description: '霧氷と白雪に抱かれる日本三大山城「岩村城跡」と江戸情緒残る城下町重伝建地区！冬の奇岩パノラマ恵那峡温泉の絶景露天風呂。香ばしい郷土の五平餅や極上飛騨牛の朴葉味噌焼きに満たされる冬の東濃・恵那の厳選名宿5選。',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-gifu-ena-iwamura-castle-snow-enakyo-onsen-goheimochi-hidagyu-stay/',
   },
   openGraph: {
-    title: '【日本三大山城・岩村城跡の霧氷美と女城主の里重伝建】2026-2027年冬の岐阜・恵那！恵那峡温泉の絶景露天と飛騨牛朴葉味噌・五平餅名宿5選',
+    title: '日本三大山城・岩村城跡の霧氷美と女城主の里重伝建：2026-2027年冬の岐阜・恵那！恵那峡温泉の絶景露天と飛騨牛朴葉味噌・五平餅名宿5選',
     description: '霧氷と白雪に抱かれる日本三大山城「岩村城跡」と江戸情緒残る城下町重伝建地区！冬の奇岩パノラマ恵那峡温泉の絶景露天風呂。香ばしい郷土の五平餅や極上飛騨牛の朴葉味噌焼きに満たされる冬の東濃・恵那の厳選名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-gifu-ena-iwamura-castle-snow-enakyo-onsen-goheimochi-hidagyu-stay/',
     siteName: '冬の日本厳選旅行ガイド',
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: '【日本三大山城・岩村城跡の霧氷美と女城主の里重伝建】2026-2027年冬の岐阜・恵那！恵那峡温泉の絶景露天と飛騨牛朴葉味噌・五平餅名宿5選',
+    title: '日本三大山城・岩村城跡の霧氷美と女城主の里重伝建：2026-2027年冬の岐阜・恵那！恵那峡温泉の絶景露天と飛騨牛朴葉味噌・五平餅名宿5選',
     description: '霧氷と白雪に抱かれる日本三大山城「岩村城跡」と江戸情緒残る城下町重伝建地区！冬の奇岩パノラマ恵那峡温泉の絶景露天風呂。香ばしい郷土の五平餅や極上飛騨牛の朴葉味噌焼きに満たされる冬の東濃・恵那の厳選名宿5選。',
     images: ['https://img.travel.rakuten.co.jp/share/HOTEL/80774/80774.jpg'],
   },
@@ -229,9 +229,7 @@ export default function Page() {
               <span>2026-2027年冬（11月・12月・1月）完全ガイド</span>
             </div>
 
-            <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold tracking-tight leading-snug">
-              【日本三大山城・岩村城跡の霧氷美と女城主の里重伝建】2026-2027年冬の岐阜・恵那！恵那峡温泉の絶景露天と飛騨牛朴葉味噌・五平餅名宿5選
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold tracking-tight leading-snug">「日本三大山城・岩村城跡の霧氷美と女城主の里重伝建」2026-2027年冬の岐阜・恵那！恵那峡温泉の絶景露天と飛騨牛朴葉味噌・五平餅名宿5選</h1>
 
             <p className="text-sm sm:text-base text-stone-200 leading-relaxed pt-2">
               霧氷と白雪に抱かれる日本三大山城「岩村城跡」と江戸情緒残る城下町重伝建地区！冬の奇岩パノラマ恵那峡温泉の絶景露天風呂。香ばしい郷土の五平餅や極上飛騨牛の朴葉味噌焼きに満たされる冬の東濃・恵那の厳選名宿5選。

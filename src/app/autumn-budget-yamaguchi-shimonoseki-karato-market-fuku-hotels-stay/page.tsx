@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【下関】唐戸市場の秋ふく・海鮮握り＆関門海峡絶景！2,000円台〜泊まれる格安ホテル5選',
+  title: '下関：唐戸市場の秋ふく・海鮮握り＆関門海峡絶景！2,000円台〜泊まれる格安ホテル5選',
   description: '関門海峡の秋風と唐戸市場の活気！旬の天然とらふぐや新鮮握り寿司、関門人道トンネル散策。下関駅・唐戸周辺で1泊2,000円台〜3,000円台から泊まれる格安・高コスパホテル5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetFeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>唐戸市場の秋ふく握り＆関門海峡の秋風</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【下関】唐戸市場の秋ふく＆関門海峡絶景へ！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「下関」唐戸市場の秋ふく＆関門海峡絶景へ！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-teal-100/90 max-w-2xl mx-auto leading-relaxed">
             関門海峡を行き交う大型船と海峡ゆめタワーのパノラマ絶景！秋から本格シーズンに突入する本場下関の「ふく（河豚）」や、週末の唐戸市場「活きいき馬関街」で味わう出来立て海鮮寿司。門司港レトロへの渡船散策も楽しい下関で、1泊2,000円台〜3,000円台の厳選宿をご紹介。
           </p>

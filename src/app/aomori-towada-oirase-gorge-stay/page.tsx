@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/aomori-towada-oirase-gorge-stay/" },
-  title: "【青森・十和田湖＆奥入瀬渓流】特別名勝奥入瀬・銚子大滝＆十和田バラ焼き・ヒメマス宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "青森・十和田湖＆奥入瀬渓流：特別名勝奥入瀬・銚子大滝＆十和田バラ焼き・ヒメマス宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "苔むす渓流とブナの原生林・青森奥入瀬＆十和田湖エリア完全特化！国の特別名勝・天然記念物「奥入瀬渓流（阿修羅の流れ・銚子大滝）」、神秘の「十和田湖遊覧船・十和田神社」、星野リゾート奥入瀬渓流ホテル、名物「十和田バラ焼き・ヒメマス宿」を徹底解説。",
   keywords: ["青森", "十和田湖", "奥入瀬渓流", "特別名勝奥入瀬", "銚子大滝", "十和田バラ焼き", "ヒメマス宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             OIRASE & TOWADA GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【青森・十和田湖＆奥入瀬渓流】特別名勝奥入瀬・銚子大滝＆十和田バラ焼き・ヒメマス宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「青森・十和田湖＆奥入瀬渓流」特別名勝奥入瀬・銚子大滝＆十和田バラ焼き・ヒメマス宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             幾重にも重なる滝とエメラルドグリーンの激流が織りなす大自然の回廊「奥入瀬渓流」と、二重カルデラ湖「十和田湖」。ブナの巨木に囲まれた渓流遊歩道。十和田湖畔に鎮座する十和田神社の神聖な空気。名物ヒメマス料理と十和田バラ焼きを味わう旅。
           </p>

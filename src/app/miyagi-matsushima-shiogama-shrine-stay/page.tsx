@@ -5,11 +5,11 @@ import Image from 'next/image';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/miyagi-matsushima-shiogama-shrine-stay/" },
-  title: '【宮城・松島＆塩竈】日本三景松島クルーズ・塩竈神社＆生マグロ・牡蠣宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+  title: '宮城・松島＆塩竈：日本三景松島クルーズ・塩竈神社＆生マグロ・牡蠣宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
   description: '松尾芭蕉も息を呑んだ日本三景「松島湾」の島巡りクルーズ、伊達政宗の美意識が宿る「国宝 瑞厳寺」と五大堂、陸奥国一之宮「鹽竈神社（塩竈神社）」、日本有数の生マグロ水揚げ港・塩竈の極上寿司と冬の松島焼き牡蠣を味わう宿を徹底解説。',
   keywords: ["宮城", "松島", "塩竈", "日本三景松島クルーズ", "塩竈神社", "生マグロ", "牡蠣宿"],
   openGraph: {
-    title: '【宮城・松島＆塩竈】日本三景松島クルーズ・塩竈神社＆生マグロ・牡蠣宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+    title: '宮城・松島＆塩竈：日本三景松島クルーズ・塩竈神社＆生マグロ・牡蠣宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
     description: '松尾芭蕉も息を呑んだ日本三景「松島湾」の島巡りクルーズ、伊達政宗の美意識が宿る「国宝 瑞厳寺」と五大堂、陸奥国一之宮「鹽竈神社（塩竈神社）」、日本有数の生マグロ水揚げ港・塩竈の極上寿司と冬の松島焼き牡蠣を味わう宿を徹底解説。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/miyagi-matsushima-shiogama-shrine-stay',
@@ -50,9 +50,7 @@ export default function Page() {
             <span>🗺️</span>
             <span>MATSUSHIMA & SHIOGAMA GUIDE</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">
-            【宮城・松島＆塩竈・塩竈神社】日本三景松島湾・国宝瑞厳寺＆三陸生マグロ寿司宿 完全ガイド
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">「宮城・松島＆塩竈・塩竈神社」日本三景松島湾・国宝瑞厳寺＆三陸生マグロ寿司宿 厳選ガイド</h1>
           <p className="max-w-3xl mx-auto text-stone-300 text-sm sm:text-base md:text-lg leading-relaxed mb-8">
             松尾芭蕉が『おくのほそ道』で絶賛した日本三景の筆頭「松島」。白砂青松の島々が海に浮かぶパノラマと、伊達政宗が桃山美術の粋を結集して再建した「国宝 瑞厳寺」。朱塗りの透かし橋を渡る「五大堂」。隣接する塩竈は、平安時代から続く奥州筆頭の大社「鹽竈神社」が鎮座し、日本有数の生マグロ水揚げ量を誇る美食の湊町。三陸の海風と宮城の歴史美に心酔する松島塩竈ステイへご案内します。
           </p>

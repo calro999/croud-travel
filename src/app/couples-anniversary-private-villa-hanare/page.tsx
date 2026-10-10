@@ -180,9 +180,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            二人だけの静寂と贅沢！全室離れ・客室露天風呂付き大人の隠れ家おこもり宿
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">二人だけの静寂と贅沢！全室離れ・客室露天風呂付き大人の隠れ家おこもり宿</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             大切なパートナーの誕生日や結婚記念日、日頃の感謝を伝える旅には、プライバシーが徹底的に守られた「全室離れ」のおこもり宿が最適。専用の客室露天風呂で好きな時に何度でも湯浴みを楽しみ、お部屋で味わう季節の創作会席に舌鼓を打つ、至高のプライベートタイムをお届けします。
           </p>

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/winter-illumination-hotels/" },
-  title: "【冬の夜景】イルミネーション＆クリスマス絶景ホテル 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "冬の夜景：イルミネーション＆クリスマス絶景ホテル 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "光り輝く冬の絶景！丸の内・六本木（東京）、ハウステンボス光の王国（長崎）、中之島・御堂筋（大阪）、あしかがフラワーパーク（栃木）など、幻想的なイルミネーションを満喫できる人気ホテルを徹底解説。",
   keywords: ["冬の夜景", "イルミネーション", "クリスマス絶景ホテル", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -98,9 +98,7 @@ export default function SeasonalFeaturePage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             WINTER ILLUMINATION
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【冬の夜景】イルミネーション＆クリスマス絶景ホテル 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「冬の夜景」イルミネーション＆クリスマス絶景ホテル 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             街中が幻想的な光に包まれる冬。クリスマスデートや家族での特別な旅行に、ホテルのお部屋やレストランからイルミネーションを一望できる極上の夜景ステイをご紹介します。
           </p>

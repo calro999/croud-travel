@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '日本三景・天橋立の松並木紅葉＆西国札所成相寺！天橋立温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】京都',
+  title: '日本三景・天橋立の松並木紅葉＆西国札所成相寺！天橋立温泉名宿×ふるさと納税厳選ガイド京都',
   description: '11月上旬〜11月下旬に見頃を迎える日本三景「天橋立（あまのはしだて）」と紅葉の名刹「成相寺（なりあいじ）」。傘松公園や天橋立ビューランドからの股のぞき絶景、茶褐色の美肌湯「天橋立温泉」の名宿「文珠荘」「天橋立ホテル」「対橋楼」で11月解禁の松葉ガニや丹後牛・寒ブリを堪能。ふるさと納税で実質2,000円。',
   keywords: ["日本三景", "天橋立の松並木紅葉", "2026年最新秋旅", "京都", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-amanohashidate-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '日本三景・天橋立の松並木紅葉＆西国札所成相寺！天橋立温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】京都',
+    title: '日本三景・天橋立の松並木紅葉＆西国札所成相寺！天橋立温泉名宿×ふるさと納税厳選ガイド京都',
     description: '11月上旬〜11月下旬に見頃を迎える日本三景「天橋立（あまのはしだて）」と紅葉の名刹「成相寺（なりあいじ）」。傘松公園や天橋立ビューランドからの股のぞき絶景、茶褐色の美肌湯「天橋立温泉」の名宿「文珠荘」「天橋立ホテル」「対橋楼」で11月解禁の松葉ガニや丹後牛・寒ブリを堪能。ふるさと納税で実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-amanohashidate-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FeatureArticlePage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               京都・天橋立＆西国古刹成相寺紅葉特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              日本三景・天橋立の松並木紅葉＆西国札所成相寺！天橋立温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】京都
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">日本三景・天橋立の松並木紅葉＆西国札所成相寺！天橋立温泉名宿×ふるさと納税厳選ガイド京都</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               11月上旬〜11月下旬に見頃を迎える日本三景「天橋立（あまのはしだて）」と紅葉の名刹「成相寺（なりあいじ）」。傘松公園や天橋立ビューランドからの股のぞき絶景、茶褐色の美肌湯「天橋立温泉」の名宿「文珠荘」「天橋立ホテル」「対橋楼」で11月解禁の松葉ガニや丹後牛・寒ブリを堪能。ふるさと納税で実質2,000円。
             </p>

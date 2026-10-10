@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tokyo-matsumoto-kamikochi-bus-vs-train-guide/" },
-  title: "【東京・新宿〜松本・上高地】特急あずさ vs 直行高速バス徹底比較！片道2,500円〜行く国宝松本城＆上高地1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+  title: "東京・新宿〜松本・上高地：特急あずさ vs 直行高速バス徹底比較！片道2,500円〜行く国宝松本城＆上高地1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "東京・新宿から松本・上高地へ安く行くには？JR中央線特急あずさと高速バス（中央高速バス・さわやか信州号）の料金・所要時間比較！国宝松本城、中町通りの蔵造りカフェ、北アルプスの絶景上高地を満喫する1泊2日モデルコース。",
   keywords: ["東京", "新宿〜松本", "上高地", "特急あずさ", "vs", "上高地1泊2日モデルコース", "温泉宿"],
 };
@@ -157,9 +157,7 @@ export default function HighwayBusArticlePage() {
               交通手段の徹底比較＆最適ルート
             </span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【東京・新宿〜松本・上高地】特急あずさ vs 直行高速バス徹底比較！片道2,500円〜行く国宝松本城＆上高地1泊2日モデルコース
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">「東京・新宿〜松本・上高地」特急あずさ vs 直行高速バス徹底比較！片道2,500円〜行く国宝松本城＆上高地1泊2日モデルコース</h1>
           <p className="text-xs md:text-sm text-cyan-100/90 leading-relaxed font-medium">
             JR特急あずさなら新宿〜松本約2時間30分・片道約6,620円（往復約13,240円）。中央高速バスなら片道約2,500円〜4,000円！料金は電車の約3分の1。上高地直行の夜行・昼行バス「さわやか信州号」なら乗り換えゼロで河童橋の目の前まで行ける大人気ルート。
           </p>

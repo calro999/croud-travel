@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-top-brand-wagyu-beef-stay/" },
-  title: "【日本五大ブランド和牛の宿】松阪牛・神戸牛・米沢牛・近江牛・佐賀牛極上会席 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "日本五大ブランド和牛の宿：松阪牛・神戸牛・米沢牛・近江牛・佐賀牛極上会席 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "日本最高峰のブランド黒毛和牛完全特化！松阪牛のすき焼き、神戸牛サーロイン鉄板焼き、米沢牛のしゃぶしゃぶ、近江牛の陶板焼き、佐賀牛ステーキと名門温泉旅館の贅沢会席プランを徹底解説。",
   keywords: ["日本五大ブランド和牛の宿", "松阪牛", "神戸牛", "米沢牛", "近江牛", "佐賀牛極上会席", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function GourmetCuisineHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             JAPAN TOP BRAND WAGYU GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【日本五大ブランド和牛の宿】松阪牛・神戸牛・米沢牛・近江牛・佐賀牛極上会席 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「日本五大ブランド和牛の宿」松阪牛・神戸牛・米沢牛・近江牛・佐賀牛極上会席 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             とろけるような極上の霜降りと芳醇な香り！日本が世界に誇る三大和牛・五大銘柄牛「松阪牛」「神戸牛」「米沢牛」「近江牛」「佐賀牛」。本場の産地で味わう炭火ステーキ、伝統のすき焼き、温泉宿の贅沢フルコースへ。
           </p>

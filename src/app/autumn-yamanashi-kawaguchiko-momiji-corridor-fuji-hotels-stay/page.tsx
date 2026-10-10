@@ -3,11 +3,11 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【秋の河口湖】もみじ回廊の紅葉まつりと富士山絶景！レイクサイド温泉を満喫するおすすめ名宿5選【2026最新】',
+  title: '秋の河口湖：もみじ回廊の紅葉まつりと富士山絶景！レイクサイド温泉を満喫するおすすめ名宿5選「2026最新」',
   description: '古川沿いに続く真紅の巨木アーチ「もみじ回廊」の幻想的なライトアップと、冠雪した富士山を望む秋の河口湖！富士河口湖温泉の極上レイクビュー宿5選。湖南荘、ホテル鐘山苑、うぶやの魅力を徹底比較！',
   keywords: '河口湖 紅葉, もみじ回廊 ライトアップ, 富士河口湖温泉 宿, 富士山 紅葉 絶景, 湖南荘 河口湖, ホテル鐘山苑',
   openGraph: {
-    title: '【秋の河口湖】もみじ回廊の紅葉まつりと富士山絶景！レイクサイド温泉を満喫するおすすめ名宿5選【2026最新】',
+    title: '秋の河口湖：もみじ回廊の紅葉まつりと富士山絶景！レイクサイド温泉を満喫するおすすめ名宿5選「2026最新」',
     description: '古川沿いに続く真紅の巨木アーチ「もみじ回廊」のライトアップと富士山絶景！極上レイクビュー宿5選。',
     type: 'article',
     url: 'https://croud-travel.com/autumn-yamanashi-kawaguchiko-momiji-corridor-fuji-hotels-stay',
@@ -32,9 +32,7 @@ export default function KawaguchikoAutumnPage() {
             <span className="px-3 py-1 bg-amber-600 text-white text-xs font-bold rounded-full">秋の山梨・富士五湖特集</span>
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">見頃・まつり: 10月下旬〜11月中旬</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">
-            【秋の河口湖】もみじ回廊の紅葉まつりと富士山絶景！レイクサイド温泉を満喫するおすすめ名宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の河口湖」もみじ回廊の紅葉まつりと富士山絶景！レイクサイド温泉を満喫するおすすめ名宿5選</h1>
           <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
             湖畔を彩る約60本の古木が織りなす「もみじ回廊」の鮮烈な深紅。初冠雪をまとった霊峰富士と澄み切った湖水、夜間ライトアップの幻想的な輝きを客室や露天風呂から心ゆくまで堪能できる名宿をご案内します。
           </p>

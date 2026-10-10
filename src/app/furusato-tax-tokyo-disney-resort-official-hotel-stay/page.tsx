@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '舞浜直結！東京ディズニーリゾート公式オフィシャルホテル×ふるさと納税完全攻略ガイド【2026年最新】シェラトン・ヒルトン・グランドニッコーで夢の国をお得に満喫',
+  title: '舞浜直結！東京ディズニーリゾート公式オフィシャルホテル×ふるさと納税極上旅ガイドシェラトン・ヒルトン・グランドニッコーで夢の国をお得に満喫',
   description: 'パークの目の前に泊まる夢の体験！ディズニーリゾートライン駅前でパーク直通シャトル運行、入園保証やホテル内バゲッジデリバリーなど特典満載のオフィシャルホテル。「シェラトン・グランデ・トーキョーベイ・ホテル。」「ヒルトン東京ベイ」「グランドニッコー東京ベイ 舞浜」を、千葉県浦安市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。',
   keywords: ["2026年最新", "シェラトン", "ヒルトン", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-tokyo-disney-resort-official-hotel-stay/",
   },
   openGraph: {
-    title: '舞浜直結！東京ディズニーリゾート公式オフィシャルホテル×ふるさと納税完全攻略ガイド【2026年最新】シェラトン・ヒルトン・グランドニッコーで夢の国をお得に満喫',
+    title: '舞浜直結！東京ディズニーリゾート公式オフィシャルホテル×ふるさと納税極上旅ガイドシェラトン・ヒルトン・グランドニッコーで夢の国をお得に満喫',
     description: 'パークの目の前に泊まる夢の体験！ディズニーリゾートライン駅前でパーク直通シャトル運行、入園保証やホテル内バゲッジデリバリーなど特典満載のオフィシャルホテル。「シェラトン・グランデ・トーキョーベイ・ホテル。」「ヒルトン東京ベイ」「グランドニッコー東京ベイ 舞浜」を、千葉県浦安市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-tokyo-disney-resort-official-hotel-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoTokyoDisneyOfficialHotelStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           超人気！東京ディズニーリゾートオフィシャルホテル特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          舞浜直結！東京ディズニーリゾート公式オフィシャルホテル×ふるさと納税完全攻略ガイド【2026年最新】シェラトン・ヒルトン・グランドニッコーで夢の国をお得に満喫
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">舞浜直結！東京ディズニーリゾート公式オフィシャルホテル×ふるさと納税極上旅ガイドシェラトン・ヒルトン・グランドニッコーで夢の国をお得に満喫</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoTokyoDisneyOfficialHotelStayPage() {
               東京ディズニーリゾート(R)オフィシャルホテル。「ベイサイドステーション」下車、徒歩1分の好立地。
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “ガーデンプールが最高、来年もまた行きたいガーデンプールが最高でした!チェックインからアウトまでホテルステイで満喫させていただきました!来年もプール、行きたいです!
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D27896%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoTokyoDisneyOfficialHotelStayPage() {
               最大6名定員★お子様アメニティ★コンビニ★東京ディズニーリゾート(R)オフィシャルホテル
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “事前の要望が反映されず朝食も期待外れ添い寝がいるのでベッドをくっつけて欲しいと事前にメッセージを送り、チェックインでフロントさんからもくっつけときました!と言われたのに部屋に行ったら全部離れていま… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D1405%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoTokyoDisneyOfficialHotelStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               東京ディズニーリゾート（R）・オフィシャルホテル。上質空間で特別なひと時を
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “お部屋や食事は快適、立地も便利で満足とっても素敵なお部屋ですごせました。レストランは予約なしで入店できお味もよく種類も豊富でした。ベイサイド-ステーションも近くで24時間のお店もあったので… ”
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

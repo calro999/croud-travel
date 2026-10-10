@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/miyagi-matsushima-bay-stay/" },
-  title: "【宮城・日本三景松島】松島湾260島パノラマ・瑞巌寺＆極上牡蠣・牛たん宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "宮城・日本三景松島：松島湾260島パノラマ・瑞巌寺＆極上牡蠣・牛たん宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "日本三景・宮城松島エリア完全特化！松島湾に浮かぶ260余の島々、国宝瑞巌寺、五大堂のすかし橋、福浦島（出会い橋）、本場松島牡蠣・三陸海の幸・仙台牛たんを味わうオーシャンビュー温泉宿を徹底解説。",
   keywords: ["宮城", "日本三景松島", "松島湾260島パノラマ", "瑞巌寺", "極上牡蠣", "牛たん宿", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             MATSUSHIMA BAY MICRO GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【宮城・日本三景松島】松島湾260島パノラマ・瑞巌寺＆極上牡蠣・牛たん宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「宮城・日本三景松島」松島湾260島パノラマ・瑞巌寺＆極上牡蠣・牛たん宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             松尾芭蕉が言葉を失った日本三景「松島」。朝日と夕日に輝く松島湾260余の島々。伊達政宗公が再建した国宝・瑞巌寺の荘厳な佇まいと、ぷりぷりの松島牡蠣・三陸海の幸に舌鼓を打つ極上の海辺旅。
           </p>

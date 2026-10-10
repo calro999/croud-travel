@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-winter-crab-gourmet-luxury-stay/" },
-  title: '【冬の味覚の王様×ふるさと納税】越前ガニ・松葉ガニのタグ付き活蟹尽くし極上温泉宿ガイド | クラウドトラベル',
+  title: '冬の味覚の王様をふるさと納税でお得に旅する！越前ガニ・松葉ガニのタグ付き活蟹尽くし極上温泉宿ガイド | クラウドトラベル',
   description: '1泊1人8万〜15万円の最高峰ブランド活蟹プランを実質30％オフ！城崎温泉・三国温泉・皆生温泉のタグ付き松葉ガニ・越前ガニフルコース宿を厳選。冬の美食旅行をふるさと納税で賢く予約する完全攻略法。',
   openGraph: {
-    title: '【冬の味覚の王様×ふるさと納税】越前ガニ・松葉ガニのタグ付き活蟹尽くし極上温泉宿ガイド | クラウドトラベル',
+    title: '冬の味覚の王様をふるさと納税でお得に旅する！越前ガニ・松葉ガニのタグ付き活蟹尽くし極上温泉宿ガイド | クラウドトラベル',
     description: '1泊1人8万〜15万円の最高峰ブランド活蟹プランを実質30％オフ！城崎温泉・三国温泉・皆生温泉のタグ付き松葉ガニ・越前ガニフルコース宿を厳選。冬の美食旅行をふるさと納税で賢く予約する完全攻略法。',
     type: 'article',
   },
@@ -59,9 +59,7 @@ export default function Page() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             ふるさと納税×冬のブランド蟹・極上活蟹会席
           </div>
-          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            【冬の味覚の王様×ふるさと納税】越前ガニ・松葉ガニのタグ付き活蟹尽くし極上温泉宿ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">冬の味覚の王様をふるさと納税でお得に旅する！越前ガニ・松葉ガニのタグ付き活蟹尽くし極上温泉宿ガイド</h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl mb-6">
             冬の日本海を代表する至高の味覚「本ズワイガニ」。港で水揚げされた証である青や黄色のタグが輝く活蟹は、繊細な甘みの花咲く「蟹刺し」、香ばしい湯気が立ち上る「焼き蟹」、濃厚な蟹味噌が溶け出す「茹で蟹」、そして贅沢な「甲羅酒」や「蟹雑炊」まで、ひと口ごとに唸るような感動をもたらします。しかし近年の高騰により、本物のブランド活蟹フルコースを提供する名門温泉旅館は1泊1人8万〜15万円以上になることも珍しくありません。そこで絶対に活用したいのが楽天ふるさと納税のトラベルクーポンです。寄付額の30％相当が宿泊補助として差し引かれるため、普段なら予算オーバーで諦めていた最上位の「タグ付き活蟹2杯付きフル会席プラン」が驚くほど身近に。兵庫・城崎、福井・三国、鳥取・皆生など、本場漁港直結の厳選名宿をご紹介します。
           </p>

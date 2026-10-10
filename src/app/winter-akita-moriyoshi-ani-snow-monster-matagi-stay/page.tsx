@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月秋田】日本三大樹氷！名宿5選',
+  title: '11・12・1月秋田：日本三大樹氷！名宿5選',
   description: '11月から1月、秋田県北秋田市の秀峰・森吉山（標高1,454m）と阿仁地区は、東北屈指の白銀の世界へと変貌を遂げます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '森吉山 樹氷, 阿仁スキー場 スノーモンスター, 秋田内陸線 冬, 打当温泉 マタギの湯, 比内地鶏 きりたんぽ鍋, 熊鍋 阿仁, 森吉山荘, 11月 12月 1月 秋田旅行, 日本三大樹氷',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-akita-moriyoshi-ani-snow-monster-matagi-stay/"
   },
   openGraph: {
-    title: '【11・12・1月秋田】日本三大樹氷！名宿5選',
+    title: '11・12・1月秋田：日本三大樹氷！名宿5選',
     description: '11月から1月、秋田県北秋田市の秀峰・森吉山（標高1,454m）と阿仁地区は、東北屈指の白銀の世界へと変貌を遂げます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-akita-moriyoshi-ani-snow-monster-matagi-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月秋田】日本三大樹氷・森吉山スノーモンスターと秋田内陸線雪景色・比内地鶏きりたんぽ鍋＆マタギの秘湯を巡る名宿5選",
+    title: "11・12・1月秋田：日本三大樹氷・森吉山スノーモンスターと秋田内陸線雪景色・比内地鶏きりたんぽ鍋＆マタギの秘湯を巡る名宿5選",
     description: "11月から1月、秋田県北秋田市の秀峰・森吉山（標高1,454m）と阿仁地区は、東北屈指の白銀の世界へと変貌を遂げます。蔵王・八甲田と並び「日本三大樹氷」と称される森吉山阿仁の樹氷群（スノーモンスター）は、12月下旬から巨大な雪の彫刻へと成長し、阿仁スキー場のゴンドラで山頂駅に降り立てば見渡す限りの純白の樹氷原が旅人を圧倒。ローカル線「秋田内陸縦貫鉄道（スマイルレール）」の車窓からは、雪煙を上げて走る鉄橋と渓谷の絶景が広がり、冬限定の「ごっつお玉手箱列車」も運行されます。そして夜は、古くから狩猟採集の知恵を紡いできた「阿仁マタギ」の郷で源泉かけ流しの秘湯に浸かり、本場比内地鶏のきりたんぽ鍋や滋味豊かなマタギ鍋、秋田錦牛を熱々の地酒とともに堪能。雄大な雪山と温かな郷土文化が息づく厳選5宿を徹底紹介します。",
     images: ['https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80']
   }
@@ -246,9 +246,7 @@ export default function AkitaMoriyoshiAniPage() {
             <Snowflake className="w-3.5 h-3.5" />
             11月・12月・1月限定 日本三大樹氷＆マタギ秘湯特集
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-tight">
-            【秋田・森吉山】日本三大樹氷・森吉山スノーモンスターと秋田内陸線雪景色・比内地鶏きりたんぽ鍋＆マタギの秘湯を巡る名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-tight">「秋田・森吉山」日本三大樹氷・森吉山スノーモンスターと秋田内陸線雪景色・比内地鶏きりたんぽ鍋＆マタギの秘湯を巡る名宿5選</h1>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed pt-2">
             白銀の森吉山に林立する巨大なスノーモンスター。秋田内陸縦貫鉄道の雪景色を抜け、マタギの知恵が息づく打当温泉の掛け流し秘湯へ。本場比内地鶏のきりたんぽ鍋と名物熊鍋に温まる奥秋田の旅。
           </p>

@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tsuruga-solo-business-shinkansen-seafood-stay/" },
-  title: '【敦賀出張・北陸新幹線ひとり旅】新幹線始発駅直結・名物敦賀真鯛＆越前ガニ・気比神宮大鳥居！日本海ハブ拠点でととのう厳選3宿',
+  title: '敦賀出張・北陸新幹線ひとり旅：新幹線始発駅直結・名物敦賀真鯛＆越前ガニ・気比神宮大鳥居！日本海ハブ拠点でととのう厳選3宿',
   description: '北陸新幹線延伸で東京から直通！JR敦賀駅西口直結のハイクラスビジネス拠点「ホテルグランビナリオＴＳＵＲＵＧＡ」、大浴場と充実の和洋バイキングを備える「ホテルルートイン敦賀駅前」、男性サウナ＆大浴場完備の「敦賀マンテンホテル駅前」を楽天APIデータに基づき徹底比較。',
   keywords: '敦賀 出張 ホテル,敦賀 ホテル 一人旅,ホテルグランビナリオTSURUGA,ホテルルートイン敦賀駅前,敦賀マンテンホテル駅前,北陸新幹線 敦賀真鯛 越前ガニ',
   openGraph: {
-    title: '【敦賀出張・北陸新幹線ひとり旅】新幹線始発駅直結・名物敦賀真鯛＆越前ガニ・気比神宮大鳥居！日本海ハブ拠点でととのう厳選3宿',
+    title: '敦賀出張・北陸新幹線ひとり旅：新幹線始発駅直結・名物敦賀真鯛＆越前ガニ・気比神宮大鳥居！日本海ハブ拠点でととのう厳選3宿',
     description: '北陸新幹線延伸で東京から直通！JR敦賀駅西口直結のハイクラスビジネス拠点「ホテルグランビナリオＴＳＵＲＵＧＡ」、大浴場と充実の和洋バイキングを備える「ホテルルートイン敦賀駅前」、男性サウナ＆大浴場完備の「敦賀マンテンホテル駅前」を楽天APIデータに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/tsuruga-solo-business-shinkansen-seafood-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【敦賀出張・北陸新幹線ひとり旅】新幹線始発駅直結・名物敦賀真鯛＆越前ガニ・気比神宮大鳥居！日本海ハブ拠点でととのう厳選3宿',
+    headline: '敦賀出張・北陸新幹線ひとり旅：新幹線始発駅直結・名物敦賀真鯛＆越前ガニ・気比神宮大鳥居！日本海ハブ拠点でととのう厳選3宿',
     description: '北陸新幹線延伸で東京から直通！JR敦賀駅西口直結のハイクラスビジネス拠点「ホテルグランビナリオＴＳＵＲＵＧＡ」、大浴場と充実の和洋バイキングを備える「ホテルルートイン敦賀駅前」、男性サウナ＆大浴場完備の「敦賀マンテンホテル駅前」を楽天APIデータに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -73,9 +73,7 @@ export default function ArticlePage() {
         <div className="inline-block bg-amber-700 text-white text-xs font-semibold px-3 py-1 rounded-full mb-3 tracking-wider">
           ひとり旅・出張・サウナ＆名湯特集
         </div>
-        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">
-          【敦賀出張・北陸新幹線ひとり旅】新幹線始発駅直結・名物敦賀真鯛＆越前ガニ・気比神宮大鳥居！日本海ハブ拠点でととのう厳選3宿
-        </h1>
+        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">「敦賀出張・北陸新幹線ひとり旅」新幹線始発駅直結・名物敦賀真鯛＆越前ガニ・気比神宮大鳥居！日本海ハブ拠点でととのう厳選3宿</h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.12 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>

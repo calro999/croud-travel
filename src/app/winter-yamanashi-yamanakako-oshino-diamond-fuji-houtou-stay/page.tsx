@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月山梨】富士山を望む絶景温泉！名宿5選',
+  title: '11・12・1月山梨：富士山を望む絶景温泉！名宿5選',
   description: '11月から1月、山梨県山中湖・忍野村は、夕陽が富士山頂に重なり黄金色に輝く奇跡の天体ショー「ダイヤモンド富士」と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '山中湖 ダイヤモンド富士, 忍野八海 冬, 紅富士, 甲州ほうとう鍋, 富士マリオットホテル山中湖, ホテルマウント富士, 富士クラシックホテル, 山中湖秀山荘, ラコストリ山中湖, 山中湖温泉, 11月 12月 1月 山梨旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamanashi-yamanakako-oshino-diamond-fuji-houtou-stay/"
   },
   openGraph: {
-    title: '【11・12・1月山梨】富士山を望む絶景温泉！名宿5選',
+    title: '11・12・1月山梨：富士山を望む絶景温泉！名宿5選',
     description: '11月から1月、山梨県山中湖・忍野村は、夕陽が富士山頂に重なり黄金色に輝く奇跡の天体ショー「ダイヤモンド富士」と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-yamanashi-yamanakako-oshino-diamond-fuji-houtou-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月山梨】冬の澄天に輝く「ダイヤモンド富士」と雪化粧の忍野八海・熱々「甲州ほうとう鍋」＆富士山を望む絶景温泉宿5選",
+    title: "11・12・1月山梨：冬の澄天に輝く「ダイヤモンド富士」と雪化粧の忍野八海・熱々「甲州ほうとう鍋」＆富士山を望む絶景温泉宿5選",
     description: "11月から1月、山梨県山中湖・忍野村は、夕陽が富士山頂に重なり黄金色に輝く奇跡の天体ショー「ダイヤモンド富士」と、朝陽に白雪が紅く染まる「紅富士」の最盛期を迎えます。世界文化遺産・忍野八海の神秘的なコバルトブルーの湧水池と白銀の茅葺き民家、冷えた体を芯から温める熱々の甲州ほうとう鍋や甲州ワインビーフ。富士山と湖を一望する絶景露天風呂を備えた厳選名宿5選を徹底ガイドします。",
     images: ['https://images.unsplash.com/photo-1578637387939-43c525550085?auto=format&fit=crop&w=1200&q=80']
   }
@@ -42,7 +42,7 @@ export default function YamanashiYamanakakoOshinoWinterPage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: "【11・12・1月山梨】冬の澄天に輝く「ダイヤモンド富士」と雪化粧の忍野八海・熱々「甲州ほうとう鍋」＆富士山を望む絶景温泉宿5選",
+    headline: "11・12・1月山梨：冬の澄天に輝く「ダイヤモンド富士」と雪化粧の忍野八海・熱々「甲州ほうとう鍋」＆富士山を望む絶景温泉宿5選",
     description: "11月から1月、山梨県山中湖・忍野村は、夕陽が富士山頂に重なり黄金色に輝く奇跡の天体ショー「ダイヤモンド富士」と、朝陽に白雪が紅く染まる「紅富士」の最盛期を迎えます。世界文化遺産・忍野八海の神秘的なコバルトブルーの湧水池と白銀の茅葺き民家、冷えた体を芯から温める熱々の甲州ほうとう鍋や甲州ワインビーフ。富士山と湖を一望する絶景露天風呂を備えた厳選名宿5選を徹底ガイドします。",
     image: 'https://images.unsplash.com/photo-1578637387939-43c525550085?auto=format&fit=crop&w=1200&q=80',
     datePublished: '',
@@ -282,9 +282,7 @@ export default function YamanashiYamanakakoOshinoWinterPage() {
             <Sun className="w-4 h-4 text-orange-300" />
             11月・12月・1月 冬の富士山麓・ダイヤモンド富士＆名水忍野八海特集
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【11・12・1月山梨】冬の澄天に輝く「ダイヤモンド富士」と雪化粧の忍野八海・熱々「甲州ほうとう鍋」＆富士山を望む絶景温泉宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「11・12・1月山梨」冬の澄天に輝く「ダイヤモンド富士」と雪化粧の忍野八海・熱々「甲州ほうとう鍋」＆富士山を望む絶景温泉宿5選</h1>
           <p className="text-slate-300 text-sm sm:text-base md:text-lg max-w-3xl leading-relaxed">
             標高1,000mの高原に広がる山中湖。夕暮れの富士山頂に太陽が重なる奇跡の瞬間「ダイヤモンド富士」と、朝陽に染まる真紅の「紅富士」。世界遺産・忍野八海のエメラルドの湧水池と白雪の茅葺き民家。冷えた体を芯から温める熱々の甲州ほうとう鍋や甲州ワインビーフ、高アルカリ温泉の富士見露天風呂を満喫する冬の至高旅をご案内します。
           </p>

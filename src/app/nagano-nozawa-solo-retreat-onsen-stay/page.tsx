@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagano-nozawa-solo-retreat-onsen-stay/" },
-  title: '【野沢温泉ひとり旅・十三外湯めぐりおこもり】麻釜の湯けむり・源泉かけ流し硫黄泉・信州牛！信信濃のスキーと湯治の里厳選3宿',
+  title: '野沢温泉ひとり旅・十三外湯めぐりおこもり：麻釜の湯けむり・源泉かけ流し硫黄泉・信州牛！信信濃のスキーと湯治の里厳選3宿',
   description: '天然温泉100%かけ流しの聖地・野沢温泉！名湯「熊の手洗湯」に直結する唯一の宿「お宿てらゆ」、高台から野沢の山並みを一望する展望露天風呂が評判の「野沢グランドホテル」、自家源泉の温もりと家庭的なおもてなしの「げんたろう屋」を楽天API最新データに基づき徹底比較。',
   keywords: '野沢温泉 一人旅 宿,野沢温泉 ホテル 一人,お宿てらゆ,野沢グランドホテル,げんたろう屋,野沢 外湯めぐり ひとり旅',
   openGraph: {
-    title: '【野沢温泉ひとり旅・十三外湯めぐりおこもり】麻釜の湯けむり・源泉かけ流し硫黄泉・信州牛！信信濃のスキーと湯治の里厳選3宿',
+    title: '野沢温泉ひとり旅・十三外湯めぐりおこもり：麻釜の湯けむり・源泉かけ流し硫黄泉・信州牛！信信濃のスキーと湯治の里厳選3宿',
     description: '天然温泉100%かけ流しの聖地・野沢温泉！名湯「熊の手洗湯」に直結する唯一の宿「お宿てらゆ」、高台から野沢の山並みを一望する展望露天風呂が評判の「野沢グランドホテル」、自家源泉の温もりと家庭的なおもてなしの「げんたろう屋」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/nagano-nozawa-solo-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【野沢温泉ひとり旅・十三外湯めぐりおこもり】麻釜の湯けむり・源泉かけ流し硫黄泉・信州牛！信信濃のスキーと湯治の里厳選3宿',
+    headline: '野沢温泉ひとり旅・十三外湯めぐりおこもり：麻釜の湯けむり・源泉かけ流し硫黄泉・信州牛！信信濃のスキーと湯治の里厳選3宿',
     description: '天然温泉100%かけ流しの聖地・野沢温泉！名湯「熊の手洗湯」に直結する唯一の宿「お宿てらゆ」、高台から野沢の山並みを一望する展望露天風呂が評判の「野沢グランドホテル」、自家源泉の温もりと家庭的なおもてなしの「げんたろう屋」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             長野・野沢温泉ひとり旅＆十三外湯めぐりおこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【野沢温泉ひとり旅・十三外湯めぐりおこもり】麻釜の湯けむり・源泉かけ流し硫黄泉・信州牛！信信濃のスキーと湯治の里厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「野沢温泉ひとり旅・十三外湯めぐりおこもり」麻釜の湯けむり・源泉かけ流し硫黄泉・信州牛！信信濃のスキーと湯治の里厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            日本三大急流「球磨川」秋霧と紅葉の渓谷美＆美肌の湯「人吉温泉」・球磨焼酎と極上あか牛
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">日本三大急流「球磨川」秋霧と紅葉の渓谷美＆美肌の湯「人吉温泉」・球磨焼酎と極上あか牛</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             球磨川を包む朝霧と山肌を彩る秋の色。城下町の趣残る名湯・人吉温泉で500年の伝統・球磨焼酎とあか牛に酔いしれる。
           </p>

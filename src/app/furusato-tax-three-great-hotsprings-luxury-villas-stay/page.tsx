@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-hotsprings-luxury-villas-stay/" },
-  title: '日本三大名湯の別邸＆極上離れ・客室露天風呂とおこもり贅沢宿×ふるさと納税完全ガイド【2026年最新】草津・有馬・下呂',
+  title: '日本三大名湯の別邸＆極上離れ・客室露天風呂とおこもり贅沢宿×ふるさと納税厳選ガイド草津・有馬・下呂',
   description: '日本三大名湯（草津・有馬・下呂）の最高峰ステイ！群馬草津「草津温泉 奈良屋」湯守が仕込む極上名湯と歴史情緒、兵庫有馬「有馬温泉 中の坊瑞苑」大人のための金泉銀泉露天風呂スイート、岐阜下呂「下呂温泉 水明館」飛騨川のせせらぎと臨川閣の客室温泉。日本三大名湯の格式ある別邸・離れ宿を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大名湯・最高峰離れ特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大名湯の別邸＆極上離れ・客室露天風呂とおこもり贅沢宿×ふるさと納税完全ガイド【2026年最新】草津・有馬・下呂',
+    title: '日本三大名湯の別邸＆極上離れ・客室露天風呂とおこもり贅沢宿×ふるさと納税厳選ガイド草津・有馬・下呂',
     description: '日本三大名湯（草津・有馬・下呂）の最高峰ステイ！群馬草津「草津温泉 奈良屋」湯守が仕込む極上名湯と歴史情緒、兵庫有馬「有馬温泉 中の坊瑞苑」大人のための金泉銀泉露天風呂スイート、岐阜下呂「下呂温泉 水明館」飛騨川のせせらぎと臨川閣の客室温泉。日本三大名湯の格式ある別邸・離れ宿を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-hotsprings-luxury-villas-stay',
@@ -142,9 +142,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大名湯・最高峰離れ特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大名湯の別邸＆客室露天・極上おこもり宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大名湯の別邸＆客室露天・極上おこもり宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             室町時代の僧・万里集九や江戸幕府の儒学者・林羅山によって選定され、古来より日本一の温泉として愛され続ける「日本三名湯」――日本屈指の酸性度と豊富な自噴湯量を誇り職人が湯守する群馬の「草津温泉」、太古の海水が地下深くから湧き出し鉄分と塩分が濃厚な金泉・銀泉の二つの湯を誇る兵庫の「有馬温泉」、そして美肌の湯として名高く無色透明のなめらかなアルカリ性単純温泉が肌を包み込む岐阜の「下呂温泉」。その中でも名門宿の特別フロアや離れ客室を厳選。誰にも邪魔されない客室露天風呂とプライベートダイニングで、上州牛・神戸牛・飛騨牛を味わい尽くす至高の休日を楽天ふるさと納税でお楽しみください。
           </p>

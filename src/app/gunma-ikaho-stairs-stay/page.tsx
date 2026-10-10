@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/gunma-ikaho-stairs-stay/" },
-  title: "【群馬・伊香保温泉】365段の石段街・黄金の湯＆水沢うどん極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "群馬・伊香保温泉：365段の石段街・黄金の湯＆水沢うどん極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "群馬・伊香保温泉エリア完全特化！365段の石段街散策、茶褐色の名湯「黄金の湯（こがねのゆ）」と透明な「白銀の湯（しろがねのゆ）」、河鹿橋の紅葉、日本三大うどん「水沢うどん」と老舗名門旅館を徹底解説。",
   keywords: ["群馬", "伊香保温泉", "365段の石段街", "黄金の湯", "水沢うどん極上宿", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             IKAHO STAIRS MICRO GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【群馬・伊香保温泉】365段の石段街・黄金の湯＆水沢うどん極上宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「群馬・伊香保温泉」365段の石段街・黄金の湯＆水沢うどん極上宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             榛名山の中腹、標高約700mに位置する「伊香保温泉」。365段の石段を一段一段登るごとに広がるレトロな射的場や足湯。鉄分を豊富に含む茶褐色の黄金の湯に浸かり、歴史の情緒に抱かれる旅。
           </p>

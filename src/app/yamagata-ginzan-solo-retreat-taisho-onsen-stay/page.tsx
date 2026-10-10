@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/yamagata-ginzan-solo-retreat-taisho-onsen-stay/" },
-  title: '【山形・銀山温泉ひとり旅・大正浪漫ガス灯おこもり】木造多層建築群・銀山川の雪景色・山形牛と尾花沢蕎麦！大正タイムスリップの美湯厳選3宿',
+  title: '山形・銀山温泉ひとり旅・大正浪漫ガス灯おこもり：木造多層建築群・銀山川の雪景色・山形牛と尾花沢蕎麦！大正タイムスリップの美湯厳選3宿',
   description: 'ノスタルジックな木造建築が川沿いに並ぶ全国屈指の人気温泉郷・山形・銀山温泉！鏝絵（こてえ）が美しい大正浪漫の象徴「古山閣」、銀山川を見下ろす露天風呂とモダンな快適設備を備えた「仙峡の宿 銀山荘」、銀山温泉のメイン通りに佇む源泉掛け流しの「古勢起屋別館」を楽天API最新データに基づき徹底比較。',
   keywords: '銀山温泉 一人旅 宿,銀山温泉 ホテル 一人,古山閣 銀山温泉,銀山荘,古勢起屋別館,銀山温泉 大正浪漫 ひとり旅',
   openGraph: {
-    title: '【山形・銀山温泉ひとり旅・大正浪漫ガス灯おこもり】木造多層建築群・銀山川の雪景色・山形牛と尾花沢蕎麦！大正タイムスリップの美湯厳選3宿',
+    title: '山形・銀山温泉ひとり旅・大正浪漫ガス灯おこもり：木造多層建築群・銀山川の雪景色・山形牛と尾花沢蕎麦！大正タイムスリップの美湯厳選3宿',
     description: 'ノスタルジックな木造建築が川沿いに並ぶ全国屈指の人気温泉郷・山形・銀山温泉！鏝絵（こてえ）が美しい大正浪漫の象徴「古山閣」、銀山川を見下ろす露天風呂とモダンな快適設備を備えた「仙峡の宿 銀山荘」、銀山温泉のメイン通りに佇む源泉掛け流しの「古勢起屋別館」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/yamagata-ginzan-solo-retreat-taisho-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【山形・銀山温泉ひとり旅・大正浪漫ガス灯おこもり】木造多層建築群・銀山川の雪景色・山形牛と尾花沢蕎麦！大正タイムスリップの美湯厳選3宿',
+    headline: '山形・銀山温泉ひとり旅・大正浪漫ガス灯おこもり：木造多層建築群・銀山川の雪景色・山形牛と尾花沢蕎麦！大正タイムスリップの美湯厳選3宿',
     description: 'ノスタルジックな木造建築が川沿いに並ぶ全国屈指の人気温泉郷・山形・銀山温泉！鏝絵（こてえ）が美しい大正浪漫の象徴「古山閣」、銀山川を見下ろす露天風呂とモダンな快適設備を備えた「仙峡の宿 銀山荘」、銀山温泉のメイン通りに佇む源泉掛け流しの「古勢起屋別館」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             山形・銀山温泉ひとり旅＆大正浪漫おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【山形・銀山温泉ひとり旅・大正浪漫ガス灯おこもり】木造多層建築群・銀山川の雪景色・山形牛と尾花沢蕎麦！大正タイムスリップの美湯厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「山形・銀山温泉ひとり旅・大正浪漫ガス灯おこもり」木造多層建築群・銀山川の雪景色・山形牛と尾花沢蕎麦！大正タイムスリップの美湯厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

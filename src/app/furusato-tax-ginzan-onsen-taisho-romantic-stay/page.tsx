@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: 'ガス灯揺らめく大正ロマンの木造楼閣！銀山温泉の川沿い名門旅館＆極上尾花沢牛会席×ふるさと納税完全攻略ガイド【2026年最新】能登屋・銀山荘・古勢起屋',
+  title: 'ガス灯揺らめく大正ロマンの木造楼閣！銀山温泉の川沿い名門旅館＆極上尾花沢牛会席×ふるさと納税極上旅ガイド能登屋・銀山荘・古勢起屋',
   description: 'まるで千と千尋の神隠しの世界！ガス灯揺らめく銀山温泉の木造多層建築。「能登屋旅館」「仙峡の宿 銀山荘」「古勢起屋別館」を、山形県尾花沢市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。国登録有形文化財、川沿い展望露天寝湯、極上の霜降り尾花沢牛会席を満喫。',
   keywords: ["2026年最新", "能登屋", "銀山荘", "古勢起屋", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-ginzan-onsen-taisho-romantic-stay/",
   },
   openGraph: {
-    title: 'ガス灯揺らめく大正ロマンの木造楼閣！銀山温泉の川沿い名門旅館＆極上尾花沢牛会席×ふるさと納税完全攻略ガイド【2026年最新】能登屋・銀山荘・古勢起屋',
+    title: 'ガス灯揺らめく大正ロマンの木造楼閣！銀山温泉の川沿い名門旅館＆極上尾花沢牛会席×ふるさと納税極上旅ガイド能登屋・銀山荘・古勢起屋',
     description: 'まるで千と千尋の神隠しの世界！ガス灯揺らめく銀山温泉の木造多層建築。「能登屋旅館」「仙峡の宿 銀山荘」「古勢起屋別館」を、山形県尾花沢市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。国登録有形文化財、川沿い展望露天寝湯、極上の霜降り尾花沢牛会席を満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-ginzan-onsen-taisho-romantic-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoGinzanOnsenRomanticStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           雪景色とガス灯の大正ロマン！山形県銀山温泉特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          ガス灯揺らめく大正ロマンの木造楼閣！銀山温泉の川沿い名門旅館＆極上尾花沢牛会席×ふるさと納税完全攻略ガイド【2026年最新】能登屋・銀山荘・古勢起屋
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">ガス灯揺らめく大正ロマンの木造楼閣！銀山温泉の川沿い名門旅館＆極上尾花沢牛会席×ふるさと納税極上旅ガイド能登屋・銀山荘・古勢起屋</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoGinzanOnsenRomanticStayPage() {
               明治25年創業、木造三階建ての宿。昔の面影をそのままに、古き良き時代の懐かしさを伝える佇まい。
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “温泉もお料理も本当に素晴らしく、大満足の滞在でした。”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D183204%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoGinzanOnsenRomanticStayPage() {
               古き良き大正ロマンの漂う銀山温泉。湖上の山々がおりなす四季の彩りをのんびり眺めながら入る露天風呂。
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “他の画像や”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D111234%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoGinzanOnsenRomanticStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               『2011年度・お客様が選んだ4つ星以上の人気宿。』大正浪漫の雪景色・銀山荘の露天風呂もご利用可能
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “温かなおもてなしに感動しました。家族全員が大満足です。”
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

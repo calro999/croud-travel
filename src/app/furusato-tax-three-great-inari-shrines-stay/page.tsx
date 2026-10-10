@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-inari-shrines-stay/" },
-  title: '日本三大稲荷＆千本鳥居・商売繁盛開運祈願と門前町グルメ宿×ふるさと納税完全ガイド【2026年最新】伏見・豊川・祐徳稲荷',
+  title: '日本三大稲荷＆千本鳥居・商売繁盛開運祈願と門前町グルメ宿×ふるさと納税厳選ガイド伏見・豊川・祐徳稲荷',
   description: '朱塗りの鳥居が連なる神域と開運の杜！京都「伏見稲荷大社」千本鳥居の幻想美とアーバンホテル京都、愛知「豊川稲荷」妙厳寺の千体狐・霊狐塚と豊川グランドホテル、佐賀鹿島「祐徳稲荷神社」鎮西日光と称される極彩色の楼門と有明海鮮・嬉野温泉和多屋別荘。日本三大稲荷の商売繁盛祈願を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大稲荷・開運商売繁盛特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大稲荷＆千本鳥居・商売繁盛開運祈願と門前町グルメ宿×ふるさと納税完全ガイド【2026年最新】伏見・豊川・祐徳稲荷',
+    title: '日本三大稲荷＆千本鳥居・商売繁盛開運祈願と門前町グルメ宿×ふるさと納税厳選ガイド伏見・豊川・祐徳稲荷',
     description: '朱塗りの鳥居が連なる神域と開運の杜！京都「伏見稲荷大社」千本鳥居の幻想美とアーバンホテル京都、愛知「豊川稲荷」妙厳寺の千体狐・霊狐塚と豊川グランドホテル、佐賀鹿島「祐徳稲荷神社」鎮西日光と称される極彩色の楼門と有明海鮮・嬉野温泉和多屋別荘。日本三大稲荷の商売繁盛祈願を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-inari-shrines-stay',
@@ -158,9 +158,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大稲荷・開運商売繁盛特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大稲荷＆商売繁盛・開運祈願の名宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大稲荷＆商売繁盛・開運祈願の名宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             五穀豊穣、商売繁盛、家内安全を祈る庶民の信仰のシンボルとして日本全国で愛されてきた「日本三大稲荷」――三万社を超える稲荷神社の総本宮として稲荷山の山頂まで朱色の千本鳥居がトンネルのように続く京都の「伏見稲荷大社」、室町時代開山のお寺（妙厳寺）であり奉納された無数の狐像が並ぶ「霊狐塚」が圧倒的なパワースポットとして知られる愛知の「豊川稲荷」、そして有明海に面する山腹に日光東照宮を思わせる極彩色の本殿が聳え立つ佐賀鹿島の「祐徳稲荷神社」。朱塗りの楼門をくぐり狐の神使に手を合わせれば、日々の迷いが晴れて力強い開運のパワーが湧き上がってきます。門前町名物のいなり寿司やきつねうどん、伏見の日本酒、三河一色産うなぎ、有明海の海の幸を堪能する旅を楽天ふるさと納税でお楽しみください。
           </p>

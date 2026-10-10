@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/miyagi-naruko-onsen-gorge-stay/" },
-  title: "【宮城・鳴子温泉郷＆鳴子峡】日本屈指の多彩な泉質・紅葉深雪橋＆栗だんご宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "宮城・鳴子温泉郷＆鳴子峡：日本屈指の多彩な泉質・紅葉深雪橋＆栗だんご宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "奥州三名湯・国内屈指の泉質の宝庫・宮城鳴子温泉郷エリア完全特化！東北屈指の紅葉名所「鳴子峡（大深沢橋）」、鳴子こけしの里散策、多彩な源泉（重曹泉・硫黄泉・食塩泉）、名物「元祖栗だんご・鳴子温泉旅館」を徹底解説。",
   keywords: ["宮城", "鳴子温泉郷", "鳴子峡", "日本屈指の多彩な泉質", "紅葉深雪橋", "栗だんご宿", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             NARUKO ONSEN & GORGE GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【宮城・鳴子温泉郷＆鳴子峡】日本屈指の多彩な泉質・紅葉深雪橋＆栗だんご宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「宮城・鳴子温泉郷＆鳴子峡」日本屈指の多彩な泉質・紅葉深雪橋＆栗だんご宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             日本に存在する10種類の泉質のうち、なんと8種類が集まる奇跡の温泉郷「鳴子温泉郷」。深さ100mの大渓谷が錦秋に染まる「鳴子峡」と大深沢橋の絶景。カランコロンと下駄の音が響くこけしの温泉街。熱々のみたらし餡が絡む名物栗だんごを味わう旅。
           </p>

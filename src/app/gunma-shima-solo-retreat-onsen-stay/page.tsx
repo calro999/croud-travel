@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/gunma-shima-solo-retreat-onsen-stay/" },
-  title: '【四万温泉ひとり旅・四万ブルーおこもり】四万川清流露天・四万の病を癒す霊泉・上州牛会席！大自然に抱かれる奥群馬の秘湯厳選3宿',
+  title: '四万温泉ひとり旅・四万ブルーおこもり：四万川清流露天・四万の病を癒す霊泉・上州牛会席！大自然に抱かれる奥群馬の秘湯厳選3宿',
   description: '「四万の病を癒す」伝説の名湯・四万温泉！自家源泉の掛け流しと季節の会席が心温まる「あやめや旅館」、プライベートな貸切風呂と洗練のモダン空間が評判の「叶 KANOUYA」、清流沿いで上州牛や手打ちそばを堪能できる「料理旅館くれない」を楽天API最新データに基づき徹底比較。',
   keywords: '四万温泉 一人旅 宿,四万温泉 ホテル 一人,あやめや旅館,叶KANOUYA,料理旅館くれない,四万ブルー ひとり旅 おこもり',
   openGraph: {
-    title: '【四万温泉ひとり旅・四万ブルーおこもり】四万川清流露天・四万の病を癒す霊泉・上州牛会席！大自然に抱かれる奥群馬の秘湯厳選3宿',
+    title: '四万温泉ひとり旅・四万ブルーおこもり：四万川清流露天・四万の病を癒す霊泉・上州牛会席！大自然に抱かれる奥群馬の秘湯厳選3宿',
     description: '「四万の病を癒す」伝説の名湯・四万温泉！自家源泉の掛け流しと季節の会席が心温まる「あやめや旅館」、プライベートな貸切風呂と洗練のモダン空間が評判の「叶 KANOUYA」、清流沿いで上州牛や手打ちそばを堪能できる「料理旅館くれない」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/gunma-shima-solo-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【四万温泉ひとり旅・四万ブルーおこもり】四万川清流露天・四万の病を癒す霊泉・上州牛会席！大自然に抱かれる奥群馬の秘湯厳選3宿',
+    headline: '四万温泉ひとり旅・四万ブルーおこもり：四万川清流露天・四万の病を癒す霊泉・上州牛会席！大自然に抱かれる奥群馬の秘湯厳選3宿',
     description: '「四万の病を癒す」伝説の名湯・四万温泉！自家源泉の掛け流しと季節の会席が心温まる「あやめや旅館」、プライベートな貸切風呂と洗練のモダン空間が評判の「叶 KANOUYA」、清流沿いで上州牛や手打ちそばを堪能できる「料理旅館くれない」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             群馬・四万温泉ひとり旅＆四万ブルーおこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【四万温泉ひとり旅・四万ブルーおこもり】四万川清流露天・四万の病を癒す霊泉・上州牛会席！大自然に抱かれる奥群馬の秘湯厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「四万温泉ひとり旅・四万ブルーおこもり」四万川清流露天・四万の病を癒す霊泉・上州牛会席！大自然に抱かれる奥群馬の秘湯厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

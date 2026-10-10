@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            丹波篠山の秋の味覚狩り（丹波黒枝豆・丹波栗）＆丹波篠山城下町の古民家宿・名物ぼたん鍋
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">丹波篠山の秋の味覚狩り（丹波黒枝豆・丹波栗）＆丹波篠山城下町の古民家宿・名物ぼたん鍋</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             秋の味覚の王者「丹波黒枝豆」「丹波栗」「ぼたん鍋」が集結。歴史息づく城下町の隠れ宿で過ごす極上の美食旅。
           </p>

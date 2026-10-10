@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            宮島・紅葉谷公園の真紅モミジと安芸宮浜温泉！世界遺産嚴島神社・秋の焼き牡蠣＆広島牛を味わう旅
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">宮島・紅葉谷公園の真紅モミジと安芸宮浜温泉！世界遺産嚴島神社・秋の焼き牡蠣＆広島牛を味わう旅</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             朱塗りの大鳥居と真紅のモミジが織りなす絶景、瀬戸内海を望む美肌温泉と名物牡蠣の口福
           </p>

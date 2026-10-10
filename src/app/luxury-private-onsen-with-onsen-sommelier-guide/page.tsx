@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】湯守のこだわりが息づく。本物の源泉掛け流し＆極上泉質を極めた名湯宿5選 | 日本全国・旅宿クラウド',
+  title: '2026年：湯守のこだわりが息づく。本物の源泉掛け流し＆極上泉質を極めた名湯宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！加水・加温・循環一切なしの本物のかけ流し！温泉ソムリエや湯守が守り続ける濃厚なにごり湯・炭酸泉・硫黄泉を堪能する極上温泉宿5選。',
   keywords: ["2026年", "極上泉質を極めた名湯宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: '【2026年】湯守のこだわりが息づく。本物の源泉掛け流し＆極上泉質を極めた名湯宿5選',
+    title: '2026年：湯守のこだわりが息づく。本物の源泉掛け流し＆極上泉質を極めた名湯宿5選',
     description: '2026年最新！加水・加温・循環一切なしの本物のかけ流し！温泉ソムリエや湯守が守り続ける濃厚なにごり湯・炭酸泉・硫黄泉を堪能する極上温泉宿5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/luxury-private-onsen-with-onsen-sommelier-guide',
@@ -193,9 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> 純度100%源泉掛け流し×至極の泉質
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】湯守のこだわりが息づく。本物の源泉掛け流し＆極上泉質を極めた名湯宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」湯守のこだわりが息づく。本物の源泉掛け流し＆極上泉質を極めた名湯宿5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             大地から湧き出る生まれたての恵みをそのまま湯船へ。加水・加温・塩素消毒一切なしの純度100%源泉掛け流し。湯守が毎日温度や湯花を徹底管理する、温泉通も唸る本物の極上名湯宿をご紹介します。
           </p>

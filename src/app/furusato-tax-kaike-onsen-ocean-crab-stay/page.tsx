@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【皆生温泉×ふるさと納税】日本海の絶景オーシャンビュー＆境港直送松葉ガニ！米子名門宿ガイド｜皆生つるや・華水亭・白扇',
+  title: '皆生温泉をふるさと納税でお得に旅する！日本海の絶景オーシャンビュー＆境港直送松葉ガニ！米子名門宿ガイド｜皆生つるや・華水亭・白扇',
   description: '日本海と白砂青松の弓ヶ浜を望む山陰屈指の美肌リゾート・鳥取県皆生温泉を楽天ふるさと納税でお得に満喫！数寄屋造りの名門老舗「皆生つるや」、全室海一望のパノラマ露天風呂「華水亭」、全室展望ジャグジー付き「湯喜望 白扇」を徹底比較。松葉ガニや鳥取和牛会席、米子市トラベルクーポン活用術を網羅。',
   keywords: '皆生温泉 ふるさと納税,皆生温泉 松葉ガニ ふるさと納税,皆生つるや クーポン,華水亭 皆生温泉 宿泊,米子市 ふるさと納税 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kaike-onsen-ocean-crab-stay/",
   },
   openGraph: {
-    title: '【皆生温泉×ふるさと納税】日本海の絶景オーシャンビュー＆境港直送松葉ガニ！米子名門宿ガイド｜皆生つるや・華水亭・白扇',
+    title: '皆生温泉をふるさと納税でお得に旅する！日本海の絶景オーシャンビュー＆境港直送松葉ガニ！米子名門宿ガイド｜皆生つるや・華水亭・白扇',
     description: '日本海と白砂青松の弓ヶ浜を望む山陰屈指の美肌リゾート・鳥取県皆生温泉を楽天ふるさと納税でお得に満喫！数寄屋造りの名門老舗「皆生つるや」、全室海一望のパノラマ露天風呂「華水亭」、全室展望ジャグジー付き「湯喜望 白扇」を徹底比較。松葉ガニや鳥取和牛会席、米子市トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kaike-onsen-ocean-crab-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -24,7 +24,7 @@ export default function FurusatoArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【皆生温泉×ふるさと納税】日本海の絶景オーシャンビュー＆境港直送松葉ガニ！米子名門宿ガイド｜皆生つるや・華水亭・白扇',
+    headline: '皆生温泉をふるさと納税でお得に旅する！日本海の絶景オーシャンビュー＆境港直送松葉ガニ！米子名門宿ガイド｜皆生つるや・華水亭・白扇',
     description: '日本海と白砂青松の弓ヶ浜を望む山陰屈指の美肌リゾート・鳥取県皆生温泉を楽天ふるさと納税でお得に満喫！数寄屋造りの名門老舗「皆生つるや」、全室海一望のパノラマ露天風呂「華水亭」、全室展望ジャグジー付き「湯喜望 白扇」を徹底比較。松葉ガニや鳥取和牛会席、米子市トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function FurusatoArticlePage() {
           <span>♨️</span>
           <span>鳥取県米子市 ふるさと納税・名湯宿特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【皆生温泉×ふるさと納税】日本海の絶景オーシャンビュー＆境港直送松葉ガニ！米子名門宿ガイド｜皆生つるや・華水亭・白扇
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">皆生温泉をふるさと納税でお得に旅する！日本海の絶景オーシャンビュー＆境港直送松葉ガニ！米子名門宿ガイド｜皆生つるや・華水亭・白扇</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed">
           日本海と白砂青松の弓ヶ浜を望む山陰屈指の美肌リゾート・鳥取県皆生温泉を楽天ふるさと納税でお得に満喫！数寄屋造りの名門老舗「皆生つるや」、全室海一望のパノラマ露天風呂「華水亭」、全室展望ジャグジー付き「湯喜望 白扇」を徹底比較。松葉ガニや鳥取和牛会席、米子市トラベルクーポン活用術を網羅。
         </p>

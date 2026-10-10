@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】爽やかな柑橘の香りに包まれる。特産みかんアロマスパスパ＆オーシャンビュー宿5選 | 日本全国・旅宿クラウド',
+  title: '2026年：爽やかな柑橘の香りに包まれる。特産みかんアロマスパスパ＆オーシャンビュー宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！愛媛や湯河原の特産みかん・伊予柑オイルを使った極上アロマスエステ！青い海を一望するインフィニティ露天風呂と柑橘スイーツを満喫する宿5選。',
   keywords: ["2026年", "オーシャンビュー宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: '【2026年】爽やかな柑橘の香りに包まれる。特産みかんアロマスパスパ＆オーシャンビュー宿5選',
+    title: '2026年：爽やかな柑橘の香りに包まれる。特産みかんアロマスパスパ＆オーシャンビュー宿5選',
     description: '2026年最新！愛媛や湯河原の特産みかん・伊予柑オイルを使った極上アロマスエステ！青い海を一望するインフィニティ露天風呂と柑橘スイーツを満喫する宿5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/organic-citrus-spa-ocean-view-stay',
@@ -193,9 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> 特産みかんアロマスパ×オーシャン露天
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】爽やかな柑橘の香りに包まれる。特産みかんアロマスパスパ＆オーシャンビュー宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」爽やかな柑橘の香りに包まれる。特産みかんアロマスパスパ＆オーシャンビュー宿5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             太陽の光をたっぷり浴びたみかんや伊予柑のフレッシュな天然アロマオイル。全身を包み込む極上の柑橘トリートメントエステと、輝く海を眼下に望むインフィニティ露天風呂で心身ともにリフレッシュ。
           </p>

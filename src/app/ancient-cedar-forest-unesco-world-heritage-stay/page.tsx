@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '【2026年】悠久の歴史と祈りの道を歩く！世界遺産・熊野古道＆聖地巡礼の秘湯名宿5選 ｜ 日本全国・旅宿クラウド',
+  title: '2026年：悠久の歴史と祈りの道を歩く！世界遺産・熊野古道＆聖地巡礼の秘湯名宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！世界遺産・熊野古道や吉野、那智の滝を巡る旅。千年以上の歴史を誇る日本最古の湯峰温泉や川湯温泉など、神秘の霊場に佇む名宿5選。',
   keywords: ["2026年", "熊野古道", "聖地巡礼の秘湯名宿5選", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/ancient-cedar-forest-unesco-world-heritage-stay/",
   },
   openGraph: {
-    title: '【2026年】悠久の歴史と祈りの道を歩く！世界遺産・熊野古道＆聖地巡礼の秘湯名宿5選',
+    title: '2026年：悠久の歴史と祈りの道を歩く！世界遺産・熊野古道＆聖地巡礼の秘湯名宿5選',
     description: '2026年最新！世界遺産・熊野古道や吉野、那智の滝を巡る旅。千年以上の歴史を誇る日本最古の湯峰温泉や川湯温泉など、神秘の霊場に佇む名宿5選。',
     url: 'https://croud-travel.pages.dev/ancient-cedar-forest-unesco-world-heritage-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -172,9 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>世界遺産×聖地巡礼の秘湯</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            【2026年】悠久の歴史と祈りの道を歩く！世界遺産・熊野古道＆聖地巡礼の秘湯名宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」悠久の歴史と祈りの道を歩く！世界遺産・熊野古道＆聖地巡礼の秘湯名宿5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             苔むした石畳と鬱蒼とした杉木立が続く祈りの道・熊野古道。熊野三山を巡る聖地巡礼の旅で疲れた体を癒やすのは、河原を掘れば湯が湧く川湯温泉や、1日に7回湯の色が変わる世界遺産の湯・湯峰温泉。神秘的な大自然と歴史の深さに浸る旅をご案内します。
           </p>

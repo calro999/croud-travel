@@ -1,4 +1,4 @@
-# 【鹿児島】ホテルグリーンヒル鹿児島＆霧島・指宿おすすめ宿泊ガイド！天然温泉と黒豚グルメ
+# 鹿児島：ホテルグリーンヒル鹿児島＆霧島・指宿おすすめ宿泊ガイド！天然温泉と黒豚グルメ
 
 - URL: https://croud-travel.pages.dev/posts/hotel-greenhill-kagoshima-stay-guide/
 - 宿泊施設名: ホテルグリーンヒル鹿児島・鹿児島人気宿特集

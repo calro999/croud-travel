@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【大激流ラフティング】吉野川・球磨川で挑む白波アドベンチャー＆天然温泉リゾート宿5選",
+  title: "大激流ラフティング：吉野川・球磨川で挑む白波アドベンチャー＆天然温泉リゾート宿5選",
   description: "日本屈指の激流ポイント吉野川や球磨川、利根川で楽しむエキサイティングなラフティング！白波を乗り越える大興奮のアドベンチャーと、疲れた体を癒やす天然温泉大浴場・絶景サウナを備えた宿を厳選。",
   keywords: "ラフティング 温泉 ホテル, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/super-panoramic-rafting-canyon-stay/",
   },
   openGraph: {
-    title: "【大激流ラフティング】吉野川・球磨川で挑む白波アドベンチャー＆天然温泉リゾート宿5選",
+    title: "大激流ラフティング：吉野川・球磨川で挑む白波アドベンチャー＆天然温泉リゾート宿5選",
     description: "日本屈指の激流ポイント吉野川や球磨川、利根川で楽しむエキサイティングなラフティング！白波を乗り越える大興奮のアドベンチャーと、疲れた体を癒やす天然温泉大浴場・絶景サウナを備えた宿を厳選。",
     url: 'https://croud-travel.pages.dev/super-panoramic-rafting-canyon-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【大激流ラフティング】吉野川・球磨川で挑む白波アドベンチャー＆天然温泉リゾート宿5選",
+    title: "大激流ラフティング：吉野川・球磨川で挑む白波アドベンチャー＆天然温泉リゾート宿5選",
     description: "日本屈指の激流ポイント吉野川や球磨川、利根川で楽しむエキサイティングなラフティング！白波を乗り越える大興奮のアドベンチャーと、疲れた体を癒やす天然温泉大浴場・絶景サウナを備えた宿を厳選。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>激流ラフティング＆天然温泉</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【大激流ラフティング】吉野川・球磨川で挑む白波アドベンチャー＆天然温泉リゾート宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「大激流ラフティング」吉野川・球磨川で挑む白波アドベンチャー＆天然温泉リゾート宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             日本屈指の激流ポイント吉野川や球磨川、利根川で楽しむエキサイティングなラフティング！白波を乗り越える大興奮のアドベンチャーと、疲れた体を癒やす天然温泉大浴場・絶景サウナを備えた宿を厳選。
           </p>

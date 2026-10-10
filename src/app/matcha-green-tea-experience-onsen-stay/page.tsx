@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '【2026年】宇治・静岡・八女の銘茶香る！本格茶室体験とお茶風呂・茶懐石の美肌宿5選 ｜ 日本全国・旅宿クラウド',
+  title: '2026年：宇治・静岡・八女の銘茶香る！本格茶室体験とお茶風呂・茶懐石の美肌宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！名産地のお茶を五感で楽しむお茶旅。本格茶室での点前体験、カテキンたっぷりの茶湯露天風呂、茶葉を使った特製茶懐石が自慢の宿5選。',
   keywords: ["2026年", "宇治", "静岡", "茶懐石の美肌宿5選", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/matcha-green-tea-experience-onsen-stay/",
   },
   openGraph: {
-    title: '【2026年】宇治・静岡・八女の銘茶香る！本格茶室体験とお茶風呂・茶懐石の美肌宿5選',
+    title: '2026年：宇治・静岡・八女の銘茶香る！本格茶室体験とお茶風呂・茶懐石の美肌宿5選',
     description: '2026年最新！名産地のお茶を五感で楽しむお茶旅。本格茶室での点前体験、カテキンたっぷりの茶湯露天風呂、茶葉を使った特製茶懐石が自慢の宿5選。',
     url: 'https://croud-travel.pages.dev/matcha-green-tea-experience-onsen-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -172,9 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>銘茶の香り×本格茶室温泉</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            【2026年】宇治・静岡・八女の銘茶香る！本格茶室体験とお茶風呂・茶懐石の美肌宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」宇治・静岡・八女の銘茶香る！本格茶室体験とお茶風呂・茶懐石の美肌宿5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             淹れたての日本茶の香ばしいアロマに包まれる上質な休日。本格的な数寄屋造りの茶室で味わう抹茶と季節の上生菓子、美肌効果の高い緑茶エキスを浮かべた茶湯露天風呂、そして茶葉の天ぷらやほうじ茶ご飯を堪能する大人の風流ステイ。
           </p>

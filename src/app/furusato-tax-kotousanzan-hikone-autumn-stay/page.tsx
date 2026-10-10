@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            湖東三山（百済寺・金剛輪寺・西明寺）名刹の紅葉巡り＆国宝彦根城・本場近江牛すき焼き会席
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">湖東三山（百済寺・金剛輪寺・西明寺）名刹の紅葉巡り＆国宝彦根城・本場近江牛すき焼き会席</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             千年の古刹に広がる血染めのもみじ。国宝彦根城と琵琶湖を望む名宿でとろける近江牛を味わう秋の休日。
           </p>

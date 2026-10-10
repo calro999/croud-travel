@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/autumn-leaves/" },
-  title: "【全国】紅葉露天風呂＆絶景温泉旅館ガイド ｜ 日本全国・旅宿クラウド",
+  title: "全国：紅葉露天風呂＆絶景温泉旅館ガイド ｜ 日本全国・旅宿クラウド",
   description: "秋の絶景！全国屈指の紅葉名所（日光、箱根、京都嵐山、黒川温泉、乳頭温泉）と、湯船から紅葉を一望できる人気露天風呂付き温泉旅館を徹底比較。見頃時期、アクセス、おすすめの過ごし方完全ガイド。",
   keywords: ["全国", "紅葉露天風呂", "絶景温泉旅館ガイド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -135,9 +135,7 @@ export default function AutumnLeavesOnsenPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             AUTUMN SPECIAL FEATURE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【全国】紅葉露天風呂＆絶景温泉旅館 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「全国」紅葉露天風呂＆絶景温泉旅館 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             秋風が心地よい季節。山々が赤や黄金に染まる絶景を眺めながら、名湯に浸かる至福のひととき。日光、箱根、嵐山、黒川温泉など、全国屈指の紅葉名所とおすすめ温泉宿を厳選紹介。
           </p>

@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            佐賀・日本三大美肌の湯 嬉野温泉＆武雄温泉！トロトロ重曹泉と名物温泉湯どうふ・佐賀牛
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">佐賀・日本三大美肌の湯 嬉野温泉＆武雄温泉！トロトロ重曹泉と名物温泉湯どうふ・佐賀牛</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の佐賀・嬉野＆武雄特集！日本三大美肌の湯に数えられるトロトロの極上重曹泉、秋の茶畑が広がる嬉野茶の秋摘みと紅葉、とろける嬉野温泉湯どうふと最高ランク佐賀牛ステーキをふるさと納税トラベルで堪能する極上癒やし旅。
           </p>

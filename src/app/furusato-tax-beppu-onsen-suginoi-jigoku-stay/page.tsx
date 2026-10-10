@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【別府温泉×ふるさと納税】湧出量日本一・別府地獄めぐり＆メガリゾート！名宿特集｜杉乃井ホテル・潮騒の宿晴海・山荘神和苑',
+  title: '別府温泉をふるさと納税でお得に旅する！湧出量日本一・別府地獄めぐり＆メガリゾート！名宿特集｜杉乃井ホテル・潮騒の宿晴海・山荘神和苑',
   description: '日本一の湧出量を誇る温泉パラダイス・大分県別府温泉郷を楽天ふるさと納税でお得に贅沢ステイ！五段の棚田露天風呂「棚湯」が話題のメガリゾート「杉乃井ホテル」、全室客室露天風呂付きオーシャンリゾート「潮騒の宿 晴海」、鉄輪の高台に佇む能舞台の格式名門「山荘 神和苑」を徹底比較。別府市トラベルクーポン活用術を網羅。',
   keywords: '別府温泉 ふるさと納税,杉乃井ホテル クーポン,潮騒の宿 晴海 ふるさと納税,山荘 神和苑 宿泊,別府市 ふるさと納税 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-beppu-onsen-suginoi-jigoku-stay/",
   },
   openGraph: {
-    title: '【別府温泉×ふるさと納税】湧出量日本一・別府地獄めぐり＆メガリゾート！名宿特集｜杉乃井ホテル・潮騒の宿晴海・山荘神和苑',
+    title: '別府温泉をふるさと納税でお得に旅する！湧出量日本一・別府地獄めぐり＆メガリゾート！名宿特集｜杉乃井ホテル・潮騒の宿晴海・山荘神和苑',
     description: '日本一の湧出量を誇る温泉パラダイス・大分県別府温泉郷を楽天ふるさと納税でお得に贅沢ステイ！五段の棚田露天風呂「棚湯」が話題のメガリゾート「杉乃井ホテル」、全室客室露天風呂付きオーシャンリゾート「潮騒の宿 晴海」、鉄輪の高台に佇む能舞台の格式名門「山荘 神和苑」を徹底比較。別府市トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-beppu-onsen-suginoi-jigoku-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -24,7 +24,7 @@ export default function FurusatoArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【別府温泉×ふるさと納税】湧出量日本一・別府地獄めぐり＆メガリゾート！名宿特集｜杉乃井ホテル・潮騒の宿晴海・山荘神和苑',
+    headline: '別府温泉をふるさと納税でお得に旅する！湧出量日本一・別府地獄めぐり＆メガリゾート！名宿特集｜杉乃井ホテル・潮騒の宿晴海・山荘神和苑',
     description: '日本一の湧出量を誇る温泉パラダイス・大分県別府温泉郷を楽天ふるさと納税でお得に贅沢ステイ！五段の棚田露天風呂「棚湯」が話題のメガリゾート「杉乃井ホテル」、全室客室露天風呂付きオーシャンリゾート「潮騒の宿 晴海」、鉄輪の高台に佇む能舞台の格式名門「山荘 神和苑」を徹底比較。別府市トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function FurusatoArticlePage() {
           <span>♨️</span>
           <span>大分県別府市 ふるさと納税・名湯宿特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【別府温泉×ふるさと納税】湧出量日本一・別府地獄めぐり＆メガリゾート！名宿特集｜杉乃井ホテル・潮騒の宿晴海・山荘神和苑
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">別府温泉をふるさと納税でお得に旅する！湧出量日本一・別府地獄めぐり＆メガリゾート！名宿特集｜杉乃井ホテル・潮騒の宿晴海・山荘神和苑</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed">
           日本一の湧出量を誇る温泉パラダイス・大分県別府温泉郷を楽天ふるさと納税でお得に贅沢ステイ！五段の棚田露天風呂「棚湯」が話題のメガリゾート「杉乃井ホテル」、全室客室露天風呂付きオーシャンリゾート「潮騒の宿 晴海」、鉄輪の高台に佇む能舞台の格式名門「山荘 神和苑」を徹底比較。別府市トラベルクーポン活用術を網羅。
         </p>

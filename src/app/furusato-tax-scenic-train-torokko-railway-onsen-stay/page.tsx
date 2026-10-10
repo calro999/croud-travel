@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '絶景ローカル線＆トロッコ列車めぐり温泉宿×ふるさと納税完全ガイド【2026年最新】わたらせ・大井川SL・只見線の鉄道旅',
+  title: '絶景ローカル線＆トロッコ列車めぐり温泉宿×ふるさと納税厳選ガイドわたらせ・大井川SL・只見線の鉄道旅',
   description: '車窓を流れる日本の原風景！群馬わたらせ渓谷鐵道のオープンデッキトロッコ、静岡大井川鐵道の煙吐くSL蒸気機関車と寸又峡温泉、福島只見線のエメラルド峡谷第一橋梁と奥会津秘湯。鉄道旅情と名湯旅館を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: ["絶景ローカル線", "2026年最新", "わたらせ", "大井川SL", "只見線の鉄道旅", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-scenic-train-torokko-railway-onsen-stay/"
   },
   openGraph: {
-    title: '絶景ローカル線＆トロッコ列車めぐり温泉宿×ふるさと納税完全ガイド【2026年最新】わたらせ・大井川SL・只見線の鉄道旅',
+    title: '絶景ローカル線＆トロッコ列車めぐり温泉宿×ふるさと納税厳選ガイドわたらせ・大井川SL・只見線の鉄道旅',
     description: '車窓を流れる日本の原風景！群馬わたらせ渓谷鐵道のオープンデッキトロッコ、静岡大井川鐵道の煙吐くSL蒸気機関車と寸又峡温泉、福島只見線のエメラルド峡谷第一橋梁と奥会津秘湯。鉄道旅情と名湯旅館を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-scenic-train-torokko-railway-onsen-stay',
     type: 'article',
@@ -54,9 +54,7 @@ export default function FurusatoFeaturePage() {
             <span>✨</span>
             <span>ローカル線・SLトロッコ鉄道旅特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            絶景ローカル線＆トロッコ列車めぐり温泉宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">絶景ローカル線＆トロッコ列車めぐり温泉宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             渓谷沿いをゆっくりと走るトロッコ列車、窓から吹き込む爽快な風、汽笛を鳴らして茶畑を駆け抜ける蒸気機関車。日本全国のローカル線には、四季折々の絶景と古き良き昭和の風情が色濃く残っています。駅近の便利な名宿や、列車が望める展望露天風呂を備えた温泉旅館を楽天ふるさと納税で予約すれば、乗って・撮って・浸かって癒やされる最高の鉄道旅が実現します。
           </p>

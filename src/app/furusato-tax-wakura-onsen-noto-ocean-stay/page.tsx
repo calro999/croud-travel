@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【和倉温泉×ふるさと納税】七尾湾オーシャンビュー＆能登復興応援！海の恵み会席名宿特集｜のと楽・美湾荘・宝仙閣',
+  title: '和倉温泉をふるさと納税でお得に旅する！七尾湾オーシャンビュー＆能登復興応援！海の恵み会席名宿特集｜のと楽・美湾荘・宝仙閣',
   description: '開湯千二百年・七尾湾の波打ち際に湧く海の温泉・石川県和倉温泉を楽天ふるさと納税でお得に旅して応援！広大な庭園露天風呂を誇る「日本の宿 のと楽」、創業百二十年・海一望の「ゆけむりの宿 美湾荘」、総湯隣接の温もり宿「味な宿 宝仙閣」を徹底比較。能登牛や日本海旬魚会席、七尾市トラベルクーポン活用術を網羅。',
   keywords: '和倉温泉 ふるさと納税,和倉温泉 のと楽 クーポン,美湾荘 和倉 ふるさと納税,宝仙閣 和倉温泉 宿泊,七尾市 ふるさと納税 能登応援',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-wakura-onsen-noto-ocean-stay/",
   },
   openGraph: {
-    title: '【和倉温泉×ふるさと納税】七尾湾オーシャンビュー＆能登復興応援！海の恵み会席名宿特集｜のと楽・美湾荘・宝仙閣',
+    title: '和倉温泉をふるさと納税でお得に旅する！七尾湾オーシャンビュー＆能登復興応援！海の恵み会席名宿特集｜のと楽・美湾荘・宝仙閣',
     description: '開湯千二百年・七尾湾の波打ち際に湧く海の温泉・石川県和倉温泉を楽天ふるさと納税でお得に旅して応援！広大な庭園露天風呂を誇る「日本の宿 のと楽」、創業百二十年・海一望の「ゆけむりの宿 美湾荘」、総湯隣接の温もり宿「味な宿 宝仙閣」を徹底比較。能登牛や日本海旬魚会席、七尾市トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-wakura-onsen-noto-ocean-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -24,7 +24,7 @@ export default function FurusatoArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【和倉温泉×ふるさと納税】七尾湾オーシャンビュー＆能登復興応援！海の恵み会席名宿特集｜のと楽・美湾荘・宝仙閣',
+    headline: '和倉温泉をふるさと納税でお得に旅する！七尾湾オーシャンビュー＆能登復興応援！海の恵み会席名宿特集｜のと楽・美湾荘・宝仙閣',
     description: '開湯千二百年・七尾湾の波打ち際に湧く海の温泉・石川県和倉温泉を楽天ふるさと納税でお得に旅して応援！広大な庭園露天風呂を誇る「日本の宿 のと楽」、創業百二十年・海一望の「ゆけむりの宿 美湾荘」、総湯隣接の温もり宿「味な宿 宝仙閣」を徹底比較。能登牛や日本海旬魚会席、七尾市トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function FurusatoArticlePage() {
           <span>♨️</span>
           <span>石川県七尾市 ふるさと納税・名湯宿特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【和倉温泉×ふるさと納税】七尾湾オーシャンビュー＆能登復興応援！海の恵み会席名宿特集｜のと楽・美湾荘・宝仙閣
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">和倉温泉をふるさと納税でお得に旅する！七尾湾オーシャンビュー＆能登復興応援！海の恵み会席名宿特集｜のと楽・美湾荘・宝仙閣</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed">
           開湯千二百年・七尾湾の波打ち際に湧く海の温泉・石川県和倉温泉を楽天ふるさと納税でお得に旅して応援！広大な庭園露天風呂を誇る「日本の宿 のと楽」、創業百二十年・海一望の「ゆけむりの宿 美湾荘」、総湯隣接の温もり宿「味な宿 宝仙閣」を徹底比較。能登牛や日本海旬魚会席、七尾市トラベルクーポン活用術を網羅。
         </p>

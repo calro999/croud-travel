@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kanto-baby-friendly-onsen-ryokan-guide/" },
-  title: "【関東 赤ちゃん連れ温泉旅行おすすめ宿7選】部屋食・貸切風呂・おむつ替えグッズ完備の安心名宿 ｜ 日本全国・旅宿クラウド",
+  title: "関東 赤ちゃん連れ温泉旅行おすすめ宿7選：部屋食・貸切風呂・おむつ替えグッズ完備の安心名宿 ｜ 日本全国・旅宿クラウド",
   description: "赤ちゃんの温泉デビューに安心な関東近郊の名湯宿特集！箱根・伊香保・鬼怒川・湯河原から、離乳食対応、部屋食確約、温度調整可能な貸切風呂、おむつ専用ゴミ箱・ベビーバス完備の極上旅館を厳選比較。",
   keywords: ["関東", "赤ちゃん連れ温泉旅行", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
@@ -144,10 +144,7 @@ export default function KantoBabyFriendlyOnsenGuidePage() {
             </span>
           </div>
 
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【関東 赤ちゃん連れ温泉旅行おすすめ宿7選】<br />
-            <span className="text-rose-200">部屋食・貸切風呂・おむつ替えグッズ完備の安心名宿</span>
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「関東 赤ちゃん連れ温泉旅行おすすめ宿7選」<br /> <span className="text-rose-200">部屋食・貸切風呂・おむつ替えグッズ完備の安心名宿</span></h1>
 
           <p className="text-sm md:text-base text-rose-100/90 leading-relaxed font-normal pt-1">
             「赤ちゃんの初めての温泉、大浴場で泣いたらどうしよう。」「食事中にぐずったら周りに迷惑がかかるかも。」そんな不安をすべて解消！箱根・伊香保など都心からアクセス抜群のエリアから、夕食部屋出し確約、源泉かけ流しの貸切風呂、畳敷き浴場、ベビーグッズ完備の至れり尽くせり旅館を厳選してご紹介します。

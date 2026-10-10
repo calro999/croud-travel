@@ -42,9 +42,7 @@ export default function Page() {
             <span className="inline-block w-2 h-2 rounded-full bg-rose-400 animate-pulse" />
             日本三大鍾乳洞・地底ジオパーク特集
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">
-            日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg md:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed font-normal">
             悠久の時が創り出した地底の神秘！岩手「龍泉洞」世界有数の透明度を誇るドラゴンブルーの地底湖と三陸浄土ヶ浜パークホテル、高知「龍河洞」弥生土器と鍾乳石が一体化した神の壺とオーベルジュ土佐山、山口「秋芳洞」百枚皿・黄金柱の大パノラマと音信川の湯宿大谷山荘。日本三大鍾乳洞の冒険と名湯宿を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。
           </p>

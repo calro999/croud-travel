@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '【2026年】水平線と波しぶきを見下ろす！断崖絶壁・オーシャンクリフ絶景露天風呂の宿5選 ｜ 日本全国・旅宿クラウド',
+  title: '2026年：水平線と波しぶきを見下ろす！断崖絶壁・オーシャンクリフ絶景露天風呂の宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！海にせり出す断崖絶壁から太平洋や日本海を一望するパノラマ露天風呂が圧巻の温泉旅館・リゾートホテル5選。',
   keywords: ["2026年", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/super-panoramic-cliff-edge-ocean-onsen-stay/",
   },
   openGraph: {
-    title: '【2026年】水平線と波しぶきを見下ろす！断崖絶壁・オーシャンクリフ絶景露天風呂の宿5選',
+    title: '2026年：水平線と波しぶきを見下ろす！断崖絶壁・オーシャンクリフ絶景露天風呂の宿5選',
     description: '2026年最新！海にせり出す断崖絶壁から太平洋や日本海を一望するパノラマ露天風呂が圧巻の温泉旅館・リゾートホテル5選。',
     url: 'https://croud-travel.pages.dev/super-panoramic-cliff-edge-ocean-onsen-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -172,9 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>断崖絶壁×海一望パノラマ露天</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            【2026年】水平線と波しぶきを見下ろす！断崖絶壁・オーシャンクリフ絶景露天風呂の宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」水平線と波しぶきを見下ろす！断崖絶壁・オーシャンクリフ絶景露天風呂の宿5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             眼下に打ち寄せるダイナミックな白波と、どこまでも広がる雄大な水平線。まるで海の上に浮かんでいるかのようなスリルと開放感が味わえる断崖絶壁の露天風呂。夕陽が海を茜色に染めるマジックアワーから満天の星空まで、息をのむ絶景の湯浴みへ。
           </p>

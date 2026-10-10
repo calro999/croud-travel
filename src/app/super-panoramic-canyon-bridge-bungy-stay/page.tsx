@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '【2026年】爽快ラフティング＆キャニオニング！大自然アクティビティと癒やしの天然温泉宿5選 ｜ 日本全国・旅宿クラウド',
+  title: '2026年：爽快ラフティング＆キャニオニング！大自然アクティビティと癒やしの天然温泉宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！水上・長瀞・吉野川など、大興奮の急流ラフティングやキャニオニング体験と、疲れた体を包み込む天然温泉がセットになった人気宿5選。',
   keywords: ["2026年", "爽快ラフティング", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/super-panoramic-canyon-bridge-bungy-stay/",
   },
   openGraph: {
-    title: '【2026年】爽快ラフティング＆キャニオニング！大自然アクティビティと癒やしの天然温泉宿5選',
+    title: '2026年：爽快ラフティング＆キャニオニング！大自然アクティビティと癒やしの天然温泉宿5選',
     description: '2026年最新！水上・長瀞・吉野川など、大興奮の急流ラフティングやキャニオニング体験と、疲れた体を包み込む天然温泉がセットになった人気宿5選。',
     url: 'https://croud-travel.pages.dev/super-panoramic-canyon-bridge-bungy-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -172,9 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>爽快アクティビティ×天然温泉</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            【2026年】爽快ラフティング＆キャニオニング！大自然アクティビティと癒やしの天然温泉宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」爽快ラフティング＆キャニオニング！大自然アクティビティと癒やしの天然温泉宿5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             エメラルドグリーンの激流を下るラフティングや、滝壺へ飛び込むキャニオニング。思い切り体を動かして大自然のエネルギーを感じた後は、効能豊かな天然温泉に飛び込んで筋肉の疲労をじんわり解消。仲間や家族と最高の思い出を作る爽快アクティブ旅。
           </p>

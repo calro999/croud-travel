@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/aomori-oirase-towada-nature-stay/" },
-  title: "【青森・十和田湖＆奥入瀬渓流】苔むす清流・銚子大滝＆青森りんご極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "青森・十和田湖＆奥入瀬渓流：苔むす清流・銚子大滝＆青森りんご極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "特別名勝・青森奥入瀬渓流＆十和田湖エリア完全特化！全長14kmの清流散策、銚子大滝、阿修羅の流れ、星野リゾート奥入瀬渓流ホテル、十和田湖遊覧船、十和田バラ焼きと青森食材フレンチ宿を徹底解説。",
   keywords: ["青森", "十和田湖", "奥入瀬渓流", "苔むす清流", "銚子大滝", "青森りんご極上宿", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             OIRASE GORGE NATURE GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【青森・十和田湖＆奥入瀬渓流】苔むす清流・銚子大滝＆青森りんご極上宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「青森・十和田湖＆奥入瀬渓流」苔むす清流・銚子大滝＆青森りんご極上宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             ブナやカエデの原生林を縫うように流れる「奥入瀬渓流（おいらせけいりゅう）」。岩を覆う鮮やかな苔と、激しく水しぶきを上げる滝の数々。十和田湖の深い青と、満点の星空、名湯に癒やされるネイチャーステイ。
           </p>

@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【10月下旬〜11月中旬！甲府昇仙峡の紅葉】日本一の渓谷美と武田信玄の隠し湯・湯村温泉宿5選",
+  title: "下旬〜11月中旬！甲府昇仙峡の紅葉で過ごす冬の旅（10月）！日本一の渓谷美と武田信玄の隠し湯・湯村温泉宿5選",
   description: "国の特別名勝・日本一の渓谷美を誇る「昇仙峡」の奇岩と紅葉！覚円峰の白銀の岸壁と仙娥滝を彩るモミジを愛で、開湯1200年・信玄の隠し湯「湯村温泉」に癒やされる厳選宿5選。",
   keywords: "昇仙峡 紅葉 見頃 10月 11月, 昇仙峡 覚円峰 仙娥滝, 甲府 湯村温泉 旅館 おすすめ, 弘法湯, 旅館明治, 甲州牛 ワイン 宿泊",
   alternates: {
     canonical: "https://croud-travel.pages.dev/autumn-yamanashi-kofu-shosenkyo-yumura-onsen-hotels-stay/",
   },
   openGraph: {
-    title: "【10月下旬〜11月中旬！甲府昇仙峡の紅葉】日本一の渓谷美と武田信玄の隠し湯・湯村温泉宿5選",
+    title: "下旬〜11月中旬！甲府昇仙峡の紅葉で過ごす冬の旅（10月）！日本一の渓谷美と武田信玄の隠し湯・湯村温泉宿5選",
     description: "国の特別名勝・日本一の渓谷美を誇る「昇仙峡」の奇岩と紅葉！覚円峰の白銀の岸壁と仙娥滝を彩るモミジを愛で、開湯1200年・信玄の隠し湯「湯村温泉」に癒やされる厳選宿5選。",
     url: 'https://croud-travel.pages.dev/autumn-yamanashi-kofu-shosenkyo-yumura-onsen-hotels-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【10月下旬〜11月中旬！甲府昇仙峡の紅葉】日本一の渓谷美と武田信玄の隠し湯・湯村温泉宿5選",
+    title: "下旬〜11月中旬！甲府昇仙峡の紅葉で過ごす冬の旅（10月）！日本一の渓谷美と武田信玄の隠し湯・湯村温泉宿5選",
     description: "国の特別名勝・日本一の渓谷美を誇る「昇仙峡」の奇岩と紅葉！覚円峰の白銀の岸壁と仙娥滝を彩るモミジを愛で、開湯1200年・信玄の隠し湯「湯村温泉」に癒やされる厳選宿5選。",
   }
 };
@@ -131,9 +131,7 @@ export default function FeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             10月下旬〜11月中旬！日本一の渓谷美と信玄隠し湯特集
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【10月下旬〜11月中旬！甲府昇仙峡の紅葉】<br className="hidden sm:inline" />日本一の渓谷美と武田信玄の隠し湯・湯村温泉宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">下旬〜11月中旬！甲府昇仙峡の紅葉で過ごす冬の旅（10月）！<br className="hidden sm:inline" />日本一の渓谷美と武田信玄の隠し湯・湯村温泉宿5選</h1>
           <p className="max-w-2xl mx-auto text-sm md:text-base text-stone-200 leading-relaxed">
             国の特別名勝に指定された日本一の渓谷美「御岳昇仙峡」！天を突く奇岩「覚円峰」と名瀑「仙娥滝」を彩る深紅のモミジ。散策後は開湯1200年の武田信玄ゆかりの名湯・甲府湯村温泉へ。
           </p>

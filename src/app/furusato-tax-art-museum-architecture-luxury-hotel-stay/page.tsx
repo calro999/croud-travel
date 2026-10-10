@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '安藤忠雄建築や現代アートと眠る美術館ホテル＆アートリゾート×ふるさと納税完全ガイド【2026年最新】直島・箱根強羅・青森',
+  title: '安藤忠雄建築や現代アートと眠る美術館ホテル＆アートリゾート×ふるさと納税厳選ガイド直島・箱根強羅・青森',
   description: '絵画や彫刻、世界的建築家の美意識に包まれて過ごす知的で贅沢な休日！世界的建築家・安藤忠雄が設計し現代アート作品と共生する瀬戸内直島の最高峰「ベネッセハウス」、彫刻の森美術館やポーラ美術館至近・全室温泉露天風呂付きモダンリゾート「箱根・強羅 佳ら久」、十和田市現代美術館の拠点となり岡本太郎作品や伝統ねぶたアートを体感する「星野リゾート 青森屋」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
   keywords: ["アートリゾート×ふるさと納税", "2026年最新", "直島", "箱根強羅", "青森", "温泉宿", "宿泊予約"],
   alternates: { canonical: baseUrl + '/furusato-tax-art-museum-architecture-luxury-hotel-stay/' },
   openGraph: {
-    title: '安藤忠雄建築や現代アートと眠る美術館ホテル＆アートリゾート×ふるさと納税完全ガイド【2026年最新】直島・箱根強羅・青森',
+    title: '安藤忠雄建築や現代アートと眠る美術館ホテル＆アートリゾート×ふるさと納税厳選ガイド直島・箱根強羅・青森',
     description: '絵画や彫刻、世界的建築家の美意識に包まれて過ごす知的で贅沢な休日！世界的建築家・安藤忠雄が設計し現代アート作品と共生する瀬戸内直島の最高峰「ベネッセハウス」、彫刻の森美術館やポーラ美術館至近・全室温泉露天風呂付きモダンリゾート「箱根・強羅 佳ら久」、十和田市現代美術館の拠点となり岡本太郎作品や伝統ねぶたアートを体感する「星野リゾート 青森屋」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
     url: baseUrl + '/furusato-tax-art-museum-architecture-luxury-hotel-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoArtMuseumHotelStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             現代アート＆名建築ミュージアムホテル特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            安藤忠雄建築や現代アートと眠る美術館ホテル＆アートリゾート×ふるさと納税完全ガイド【2026年最新】直島・箱根強羅・青森
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">安藤忠雄建築や現代アートと眠る美術館ホテル＆アートリゾート×ふるさと納税厳選ガイド直島・箱根強羅・青森</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             絵画や彫刻をただ眺めるだけでなく、美術館そのものに泊まり、夜の閉館後の静けさの中でアートと対話し、朝陽に照らされる名建築の美しさに目覚める――それが「美術館ホテル（ミュージアムホテル・アートリゾート）。」の醍醐味です。瀬戸内海に浮かぶアートの聖地・直島で、世界的建築家・安藤忠雄氏の設計によるコンクリート打放しの建築とモネや草間彌生をはじめとする現代アートが融合した世界的名宿「ベネッセハウス」、箱根の山並みを望む強羅の地に佇み彫刻の森美術館やポーラ美術館のアート巡りの拠点として全室温泉露天風呂を備えるラグジュアリー旅館「箱根・強羅 佳ら久」、そして十和田市現代美術館や奥入瀬のアート散策拠点となり、岡本太郎作の巨大暖炉や職人によるねぶた絵画が館内を彩る「星野リゾート 青森屋」。日常の喧騒から離れ、感性を豊かに刺激する美の空間での滞在を、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を使って実質自己負担2,000円で賢く予約し、知的好奇心を満たす贅沢なアート紀行へ出かけましょう。
           </p>

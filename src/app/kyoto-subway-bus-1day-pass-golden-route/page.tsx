@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kyoto-subway-bus-1day-pass-golden-route/" },
-  title: "【地下鉄・バス1日券で巡る京都観光】1,100円で元を取る黄金ルート＆市バス大渋滞を完全回避する裏ワザ ｜ 日本全国・旅宿クラウド",
+  title: "地下鉄・バス1日券で巡る京都観光：1,100円で元を取る黄金ルート＆市バス大渋滞を完全回避する裏ワザ ｜ 日本全国・旅宿クラウド",
   description: "バス一日券廃止後の新定番「地下鉄・バス1日券」（1,100円）！地下鉄（220円〜）と市バス（230円）を組み合わせ、京都駅周辺の市バス長蛇の列を回避して清水寺・二条城・嵐山・南禅寺を最速で回る時短モデルコース。",
   keywords: ["地下鉄", "バス1日券で巡る京都観光", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
@@ -76,10 +76,7 @@ export default function KyotoSubwayBusPassPage() {
             <span className="w-1.5 h-1.5 rounded-full bg-teal-300"></span>
             <span>交通渋滞ゼロ作戦</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【地下鉄・バス1日券で巡る京都観光】<br className="hidden sm:inline" />
-            <span className="text-teal-300">1,100円で元を取る黄金ルート</span>＆市バス大渋滞を完全回避する裏ワザ
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">「地下鉄・バス1日券で巡る京都観光」<br className="hidden sm:inline" /> <span className="text-teal-300">1,100円で元を取る黄金ルート</span>＆市バス大渋滞を完全回避する裏ワザ</h1>
           <p className="mt-5 text-base sm:text-lg text-teal-100/90 leading-relaxed">
             かつての「市バス1日乗車券（700円）」が観光公害・大混雑により廃止され、現在のスタンダードとなったのが「地下鉄・バス1日券（大人1,100円）」。
             「値上がりして損？」と思いきや、実は地下鉄（初乗り220円〜）と市バス（一律230円）をハイブリッド活用することで、京都駅の超絶バス待ち列をパスし、移動時間を半減させながら余裕で元が取れる最強チケットです。

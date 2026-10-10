@@ -155,9 +155,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            冬の贅沢の極み！本場下関の天然とらふぐ刺し・白子焼き・ひれ酒を堪能する名宿
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">冬の贅沢の極み！本場下関の天然とらふぐ刺し・白子焼き・ひれ酒を堪能する名宿</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             冬の味覚において、他の追随を許さない気品と旨味を誇る「天然とらふぐ」。職人の技が光る大皿のふぐ刺し、プリプリの身と野菜の出汁が染み渡るてっちり鍋、香ばしく炙ったひれ酒。冬だけの至福の美食体験を約束する名宿を厳選しました。
           </p>

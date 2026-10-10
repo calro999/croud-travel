@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【野沢温泉×ふるさと納税】十三の外湯めぐり＆源泉麻釜！信州郷土料理の名宿特集｜旅館さかや・河一屋旅館・住吉屋',
+  title: '野沢温泉をふるさと納税でお得に旅する！十三の外湯めぐり＆源泉麻釜！信州郷土料理の名宿特集｜旅館さかや・河一屋旅館・住吉屋',
   description: '日本屈指の温泉情緒とスキーリゾート・長野県野沢温泉を楽天ふるさと納税でお得に贅沢旅！創業百余年・宮大工造りの湯屋建築を誇る「旅館 さかや」、名湯真湯の白濁露天と信州牛の「河一屋旅館」、麻釜隣接の老舗「村のホテル 住吉屋」を徹底比較。十三外湯めぐりや野沢菜料理、野沢温泉村トラベルクーポン活用術を網羅。',
   keywords: '野沢温泉 ふるさと納税,野沢温泉 外湯 ふるさと納税,旅館さかや クーポン,河一屋旅館 野沢温泉 宿泊,野沢温泉村 ふるさと納税 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-nozawa-onsen-sotoyu-heritage-stay/",
   },
   openGraph: {
-    title: '【野沢温泉×ふるさと納税】十三の外湯めぐり＆源泉麻釜！信州郷土料理の名宿特集｜旅館さかや・河一屋旅館・住吉屋',
+    title: '野沢温泉をふるさと納税でお得に旅する！十三の外湯めぐり＆源泉麻釜！信州郷土料理の名宿特集｜旅館さかや・河一屋旅館・住吉屋',
     description: '日本屈指の温泉情緒とスキーリゾート・長野県野沢温泉を楽天ふるさと納税でお得に贅沢旅！創業百余年・宮大工造りの湯屋建築を誇る「旅館 さかや」、名湯真湯の白濁露天と信州牛の「河一屋旅館」、麻釜隣接の老舗「村のホテル 住吉屋」を徹底比較。十三外湯めぐりや野沢菜料理、野沢温泉村トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-nozawa-onsen-sotoyu-heritage-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -24,7 +24,7 @@ export default function FurusatoArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【野沢温泉×ふるさと納税】十三の外湯めぐり＆源泉麻釜！信州郷土料理の名宿特集｜旅館さかや・河一屋旅館・住吉屋',
+    headline: '野沢温泉をふるさと納税でお得に旅する！十三の外湯めぐり＆源泉麻釜！信州郷土料理の名宿特集｜旅館さかや・河一屋旅館・住吉屋',
     description: '日本屈指の温泉情緒とスキーリゾート・長野県野沢温泉を楽天ふるさと納税でお得に贅沢旅！創業百余年・宮大工造りの湯屋建築を誇る「旅館 さかや」、名湯真湯の白濁露天と信州牛の「河一屋旅館」、麻釜隣接の老舗「村のホテル 住吉屋」を徹底比較。十三外湯めぐりや野沢菜料理、野沢温泉村トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function FurusatoArticlePage() {
           <span>♨️</span>
           <span>長野県野沢温泉村 ふるさと納税・名湯宿特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【野沢温泉×ふるさと納税】十三の外湯めぐり＆源泉麻釜！信州郷土料理の名宿特集｜旅館さかや・河一屋旅館・住吉屋
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">野沢温泉をふるさと納税でお得に旅する！十三の外湯めぐり＆源泉麻釜！信州郷土料理の名宿特集｜旅館さかや・河一屋旅館・住吉屋</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed">
           日本屈指の温泉情緒とスキーリゾート・長野県野沢温泉を楽天ふるさと納税でお得に贅沢旅！創業百余年・宮大工造りの湯屋建築を誇る「旅館 さかや」、名湯真湯の白濁露天と信州牛の「河一屋旅館」、麻釜隣接の老舗「村のホテル 住吉屋」を徹底比較。十三外湯めぐりや野沢菜料理、野沢温泉村トラベルクーポン活用術を網羅。
         </p>

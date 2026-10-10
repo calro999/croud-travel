@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagano-hakuba-tsugaike-alps-stay/" },
-  title: "【長野・白馬＆小谷・栂池高原】北アルプス白馬三山パノラマ・テラス＆信州そば宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "長野・白馬＆小谷・栂池高原：北アルプス白馬三山パノラマ・テラス＆信州そば宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "世界水準のマウンテンリゾート・信州白馬＆栂池エリア完全特化！白馬岩岳「白馬マウンテンハーバー（絶景テラス）」、栂池自然園高層湿原、八方尾根トレッキング、白馬八方温泉（日本屈指の高アルカリ温泉）、名物「信州そば・信州牛宿」を徹底解説。",
   keywords: ["長野", "白馬", "小谷", "栂池高原", "北アルプス白馬三山パノラマ", "テラス", "信州そば宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             HAKUBA & TSUGAIKE GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【長野・白馬＆小谷・栂池高原】北アルプス白馬三山パノラマ・テラス＆信州そば宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「長野・白馬＆小谷・栂池高原」北アルプス白馬三山パノラマ・テラス＆信州そば宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             残雪と新緑、錦秋の三段紅葉が輝く北アルプス白馬連峰「白馬＆小谷・栂池高原」。白馬岩岳山頂の絶景テラス「HAKUBA MOUNTAIN HARBOR。」。標高2,000mの高層湿原「栂池自然園」。pH11を超える美肌の白馬八方温泉と信州グルメを味わう山岳リゾートの旅。
           </p>

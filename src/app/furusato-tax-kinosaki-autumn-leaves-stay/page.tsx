@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '城崎温泉の大谿川柳並木紅葉＆七つの外湯めぐり！但馬牛・松葉ガニ宿×ふるさと納税完全ガイド【2026年最新秋旅】兵庫',
+  title: '城崎温泉の大谿川柳並木紅葉＆七つの外湯めぐり！但馬牛・松葉ガニ宿×ふるさと納税厳選ガイド兵庫',
   description: '10月〜11月に情緒あふれる太鼓橋と柳並木が秋めく関西屈指の温泉街「城崎温泉」。浴衣に下駄を鳴らして巡る開運七つの外湯と、風情ある街並みに佇む「つちや旅館」「山しろや旅館」「みつわ旅館」で日本最高峰のブランド牛・但馬牛や11月解禁の松葉ガニを堪能。ふるさと納税トラベルクーポンで実質2,000円。',
   keywords: ["城崎温泉の大谿川柳並木紅葉", "七つの外湯めぐり！但馬牛", "松葉ガニ宿×ふるさと納税", "2026年最新秋旅", "兵庫", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kinosaki-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '城崎温泉の大谿川柳並木紅葉＆七つの外湯めぐり！但馬牛・松葉ガニ宿×ふるさと納税完全ガイド【2026年最新秋旅】兵庫',
+    title: '城崎温泉の大谿川柳並木紅葉＆七つの外湯めぐり！但馬牛・松葉ガニ宿×ふるさと納税厳選ガイド兵庫',
     description: '10月〜11月に情緒あふれる太鼓橋と柳並木が秋めく関西屈指の温泉街「城崎温泉」。浴衣に下駄を鳴らして巡る開運七つの外湯と、風情ある街並みに佇む「つちや旅館」「山しろや旅館」「みつわ旅館」で日本最高峰のブランド牛・但馬牛や11月解禁の松葉ガニを堪能。ふるさと納税トラベルクーポンで実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kinosaki-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -113,9 +113,7 @@ export default function FeatureArticlePage() {
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">
-            城崎温泉の大谿川柳並木紅葉＆七つの外湯めぐり！但馬牛・松葉ガニ宿×ふるさと納税完全ガイド【2026年最新秋旅】兵庫
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">城崎温泉の大谿川柳並木紅葉＆七つの外湯めぐり！但馬牛・松葉ガニ宿×ふるさと納税厳選ガイド兵庫</h1>
           <p className="text-sm md:text-lg text-stone-200 max-w-3xl mx-auto leading-relaxed">
             浴衣と下駄で歩く大谿川の秋情緒と、七つの外湯めぐり＆極上但馬牛・初物松葉ガニ。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
           </p>

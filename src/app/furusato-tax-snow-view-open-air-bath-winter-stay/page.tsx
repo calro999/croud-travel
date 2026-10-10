@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '白銀の銀世界に浸る絶景雪見露天風呂＆冬の秘湯名旅館×ふるさと納税完全ガイド【2026年最新】万座・越後湯沢・定山渓',
+  title: '白銀の銀世界に浸る絶景雪見露天風呂＆冬の秘湯名旅館×ふるさと納税厳選ガイド万座・越後湯沢・定山渓',
   description: '降り積もる純白の雪と立ち上る湯煙！日本屈指の豪雪地帯でしか出会えない奇跡の雪見露天風呂ステイ。標高1,800mの白銀パノラマと乳白色の濃厚硫黄泉「万座プリンスホテル」、川端康成『雪国』の舞台で幻想的な雪見庭園風呂を満喫する「越後湯沢温泉 湯沢グランドホテル」、札幌の奥座敷で定山渓渓谷の冬景色を望む名旅館「章月グランドホテル」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ冬の極上旅完全ガイド。',
   keywords: ["冬の秘湯名旅館×ふるさと納税", "2026年最新", "万座", "越後湯沢", "定山渓", "温泉宿", "宿泊予約"],
   alternates: { canonical: baseUrl + '/furusato-tax-snow-view-open-air-bath-winter-stay/' },
   openGraph: {
-    title: '白銀の銀世界に浸る絶景雪見露天風呂＆冬の秘湯名旅館×ふるさと納税完全ガイド【2026年最新】万座・越後湯沢・定山渓',
+    title: '白銀の銀世界に浸る絶景雪見露天風呂＆冬の秘湯名旅館×ふるさと納税厳選ガイド万座・越後湯沢・定山渓',
     description: '降り積もる純白の雪と立ち上る湯煙！日本屈指の豪雪地帯でしか出会えない奇跡の雪見露天風呂ステイ。標高1,800mの白銀パノラマと乳白色の濃厚硫黄泉「万座プリンスホテル」、川端康成『雪国』の舞台で幻想的な雪見庭園風呂を満喫する「越後湯沢温泉 湯沢グランドホテル」、札幌の奥座敷で定山渓渓谷の冬景色を望む名旅館「章月グランドホテル」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ冬の極上旅完全ガイド。',
     url: baseUrl + '/furusato-tax-snow-view-open-air-bath-winter-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoSnowViewOpenAirBathStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             白銀の銀世界・絶景雪見露天風呂名宿特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            白銀の銀世界に浸る絶景雪見露天風呂＆冬の秘湯名旅館×ふるさと納税完全ガイド【2026年最新】万座・越後湯沢・定山渓
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">白銀の銀世界に浸る絶景雪見露天風呂＆冬の秘湯名旅館×ふるさと納税厳選ガイド万座・越後湯沢・定山渓</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             日本の冬の旅における究極の風物詩、それが「雪見露天風呂」です。氷点下の凛と張り詰めた冷気の中、頭上から舞い落ちる粉雪を受け止めながら、肩まであたたかい天然温泉に浸かるひととき。顔に当たる冷たい風と身体を包むお湯の温もりのコントラストは、この上ない心地よさを生み出します。標高1,800メートルの高地に位置し「星に一番近い温泉」として白銀の山々を一望する群馬県・万座温泉の「万座プリンスホテル」、国境の長いトンネルを抜けた雪国の名湯で幻想的な雪見庭園露天風呂を誇る新潟県「越後湯沢温泉 湯沢グランドホテル」、そして豊平川の渓谷美と真っ白な雪化粧を眺めながらの名湯三昧が評判の北海道・札幌「定山渓温泉 章月グランドホテル」。雪見露天風呂が楽しめる冬のトップシーズンは人気が高く予約が集中しますが、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引）を使えば、実質自己負担2,000円で驚くほどお得に銀世界の特等席を予約可能です。静寂とぬくもりに包まれる、一生モノの雪見温泉旅へ出かけましょう。
           </p>

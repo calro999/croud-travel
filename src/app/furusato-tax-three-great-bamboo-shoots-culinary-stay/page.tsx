@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '日本三大筍の里＆春の朝掘り白子筍と竹林朝霧リトリート宿×ふるさと納税完全ガイド【2026年最新】京都乙訓・鹿児島さつま・福岡合馬',
+  title: '日本三大筍の里＆春の朝掘り白子筍と竹林朝霧リトリート宿×ふるさと納税厳選ガイド京都乙訓・鹿児島さつま・福岡合馬',
   description: '春のわずか数週間だけ味わえる大地の極上スイーツ「日本三大筍の産地」（京都・向日長岡京乙訓の塚原白子筍、鹿児島・さつま町の早生筍、福岡・北九州小倉南の合馬筍）。粘土質の赤土が育む、えぐみがなく梨のように甘い朝掘り筍のフルコース。竹林の静寂と名湯温泉リゾート。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ春の美食ステイ完全ガイド。',
   keywords: ["日本三大筍の里", "2026年最新", "京都乙訓", "鹿児島さつま", "福岡合馬", "温泉宿", "宿泊予約"],
   alternates: { canonical: baseUrl + '/furusato-tax-three-great-bamboo-shoots-culinary-stay/' },
   openGraph: {
-    title: '日本三大筍の里＆春の朝掘り白子筍と竹林朝霧リトリート宿×ふるさと納税完全ガイド【2026年最新】京都乙訓・鹿児島さつま・福岡合馬',
+    title: '日本三大筍の里＆春の朝掘り白子筍と竹林朝霧リトリート宿×ふるさと納税厳選ガイド京都乙訓・鹿児島さつま・福岡合馬',
     description: '春のわずか数週間だけ味わえる大地の極上スイーツ「日本三大筍の産地」（京都・向日長岡京乙訓の塚原白子筍、鹿児島・さつま町の早生筍、福岡・北九州小倉南の合馬筍）。粘土質の赤土が育む、えぐみがなく梨のように甘い朝掘り筍のフルコース。竹林の静寂と名湯温泉リゾート。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ春の美食ステイ完全ガイド。',
     url: baseUrl + '/furusato-tax-three-great-bamboo-shoots-culinary-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoRound66ArticlePage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             日本三大筍・春の白子筍美食と竹林リトリート特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            日本三大筍の里＆春の朝掘り白子筍と竹林朝霧リトリート宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">日本三大筍の里＆春の朝掘り白子筍と竹林朝霧リトリート宿</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             まだ太陽が昇りきらない早朝、朝霧が立ち込める静寂の竹林。わずかに土が盛り上がりひび割れた瞬間を見逃さず、専用の鍬で掘り起こされる採れたての筍。日光を浴びる前に収穫されたそれは、穂先まで白く透き通り「白子筍（しろこたけのこ）」と呼ばれ、料亭で珍重される春の最高峰の味覚です。その最高峰を誇るのが「日本三大筍の里」。ふかふかの赤土と京都の職人技が産み落とす最高峰・京都乙訓（おとくに）の塚原筍、温暖な気候を活かして全国で最も早く春を告げる鹿児島さつま町の早生筍、そして柔らかな肉質と上品な甘みで全国の一流料亭から指名買いされる福岡北九州・合馬（おうま）の筍。掘り立ての筍はアクがなく、刺身でいただけば果物の梨のようなみずみずしい甘みが口いっぱいに広がります。炭火焼き、天ぷら、筍ご飯、若竹煮と、筍尽くしの春の贅沢会席を堪能した後は、竹林のせせらぎを望む美肌温泉に身を委ねる極上の時間。楽天ふるさと納税トラベルクーポンを活用して、五感で春の息吹を味わうプレミアム美食旅へ出かけましょう。
           </p>

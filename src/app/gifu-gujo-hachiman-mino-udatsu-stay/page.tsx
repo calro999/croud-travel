@@ -5,11 +5,11 @@ import Image from 'next/image';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/gifu-gujo-hachiman-mino-udatsu-stay/" },
-  title: '【岐阜・郡上八幡＆美濃】郡上おどり・名水宗祇水＆美濃うだつの町並み・鮎宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+  title: '岐阜・郡上八幡＆美濃：郡上おどり・名水宗祇水＆美濃うだつの町並み・鮎宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
   description: '水とおどりの城下町「郡上八幡」の日本一美しい山城・名水百選「宗祇水」の水路網、日本一長い盆踊り「郡上おどり（徹夜おどり）」、重要伝統的建造物群保存地区「美濃・うだつの上がる町並み」、美濃手漉き和紙工房、清流長良川の天然鮎宿を徹底解説。',
   keywords: ["岐阜", "郡上八幡", "美濃", "郡上おどり", "名水宗祇水", "美濃うだつの町並み", "鮎宿"],
   openGraph: {
-    title: '【岐阜・郡上八幡＆美濃】郡上おどり・名水宗祇水＆美濃うだつの町並み・鮎宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+    title: '岐阜・郡上八幡＆美濃：郡上おどり・名水宗祇水＆美濃うだつの町並み・鮎宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
     description: '水とおどりの城下町「郡上八幡」の日本一美しい山城・名水百選「宗祇水」の水路網、日本一長い盆踊り「郡上おどり（徹夜おどり）」、重要伝統的建造物群保存地区「美濃・うだつの上がる町並み」、美濃手漉き和紙工房、清流長良川の天然鮎宿を徹底解説。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/gifu-gujo-hachiman-mino-udatsu-stay',
@@ -50,9 +50,7 @@ export default function Page() {
             <span>🗺️</span>
             <span>GUJO HACHIMAN & MINO GUIDE</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">
-            【岐阜・郡上八幡＆美濃・うだつの上がる町並み】宗祇水・郡上おどり＆美濃和紙宿 完全ガイド
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">「岐阜・郡上八幡＆美濃・うだつの上がる町並み」宗祇水・郡上おどり＆美濃和紙宿 厳選ガイド</h1>
           <p className="max-w-3xl mx-auto text-stone-300 text-sm sm:text-base md:text-lg leading-relaxed mb-8">
             奥美濃の山あいに清らかな吉田川が流れ、街中に水路のせせらぎが響く「水の町・郡上八幡」。天空の城とも称される白亜の「郡上八幡城」と、名水百選第一号の「宗祇水」。夏には三十二夜にわたり踊り明かす日本三大盆踊り「郡上おどり」。長良川の下流に位置する「美濃」では、江戸時代の豪商たちが富を競い合った壮麗な「うだつの上がる町並み」と千三百年の伝統を誇る美濃和紙。清流の恵みと職人の技が息づく岐阜・奥美濃ステイへご案内します。
           </p>

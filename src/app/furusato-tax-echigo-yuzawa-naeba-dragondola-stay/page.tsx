@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            苗場ドラゴンドラの紅葉空中散歩と越後湯沢温泉！南魚沼産新米コシヒカリと地酒を味わう秋の新潟旅
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">苗場ドラゴンドラの紅葉空中散歩と越後湯沢温泉！南魚沼産新米コシヒカリと地酒を味わう秋の新潟旅</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             日本最長の空中散歩で染まる大紅葉と、黄金の新米コシヒカリ・名湯湯沢の贅沢
           </p>

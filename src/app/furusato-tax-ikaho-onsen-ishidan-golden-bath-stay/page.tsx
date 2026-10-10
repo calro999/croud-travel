@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【伊香保温泉×ふるさと納税】石段街の風情＆名湯「黄金の湯・白銀の湯」！老舗温泉宿特集｜福一・森秋旅館・千明仁泉亭',
+  title: '伊香保温泉をふるさと納税でお得に旅する！石段街の風情＆名湯「黄金の湯・白銀の湯」！老舗温泉宿特集｜福一・森秋旅館・千明仁泉亭',
   description: '365段の石段街が有名な名湯・群馬県伊香保温泉を楽天ふるさと納税でお得に満喫！創業440年の最高峰老舗「福一」、石段街徒歩1分・黄金の湯掛け流しの「森秋旅館」、文豪徳富蘆花ゆかりの源泉宿「千明仁泉亭」を徹底比較。上州牛会席や渋川市トラベルクーポン活用術を網羅。',
   keywords: '伊香保温泉 ふるさと納税,伊香保温泉 石段街 宿 ふるさと納税,伊香保 福一 クーポン,森秋旅館 ふるさと納税,千明仁泉亭 宿泊',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-ikaho-onsen-ishidan-golden-bath-stay/",
   },
   openGraph: {
-    title: '【伊香保温泉×ふるさと納税】石段街の風情＆名湯「黄金の湯・白銀の湯」！老舗温泉宿特集｜福一・森秋旅館・千明仁泉亭',
+    title: '伊香保温泉をふるさと納税でお得に旅する！石段街の風情＆名湯「黄金の湯・白銀の湯」！老舗温泉宿特集｜福一・森秋旅館・千明仁泉亭',
     description: '365段の石段街が有名な名湯・群馬県伊香保温泉を楽天ふるさと納税でお得に満喫！創業440年の最高峰老舗「福一」、石段街徒歩1分・黄金の湯掛け流しの「森秋旅館」、文豪徳富蘆花ゆかりの源泉宿「千明仁泉亭」を徹底比較。上州牛会席や渋川市トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-ikaho-onsen-ishidan-golden-bath-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -24,7 +24,7 @@ export default function FurusatoArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【伊香保温泉×ふるさと納税】石段街の風情＆名湯「黄金の湯・白銀の湯」！老舗温泉宿特集｜福一・森秋旅館・千明仁泉亭',
+    headline: '伊香保温泉をふるさと納税でお得に旅する！石段街の風情＆名湯「黄金の湯・白銀の湯」！老舗温泉宿特集｜福一・森秋旅館・千明仁泉亭',
     description: '365段の石段街が有名な名湯・群馬県伊香保温泉を楽天ふるさと納税でお得に満喫！創業440年の最高峰老舗「福一」、石段街徒歩1分・黄金の湯掛け流しの「森秋旅館」、文豪徳富蘆花ゆかりの源泉宿「千明仁泉亭」を徹底比較。上州牛会席や渋川市トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function FurusatoArticlePage() {
           <span>♨️</span>
           <span>群馬県渋川市 ふるさと納税・名湯宿特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【伊香保温泉×ふるさと納税】石段街の風情＆名湯「黄金の湯・白銀の湯」！老舗温泉宿特集｜福一・森秋旅館・千明仁泉亭
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">伊香保温泉をふるさと納税でお得に旅する！石段街の風情＆名湯「黄金の湯・白銀の湯」！老舗温泉宿特集｜福一・森秋旅館・千明仁泉亭</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed">
           365段の石段街が有名な名湯・群馬県伊香保温泉を楽天ふるさと納税でお得に満喫！創業440年の最高峰老舗「福一」、石段街徒歩1分・黄金の湯掛け流しの「森秋旅館」、文豪徳富蘆花ゆかりの源泉宿「千明仁泉亭」を徹底比較。上州牛会席や渋川市トラベルクーポン活用術を網羅。
         </p>

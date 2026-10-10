@@ -16,11 +16,11 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【国宝本殿と反橋・摂津国一宮 住吉大社新春初詣】2026-2027年冬の大阪・住吉＆堺！千利休の茶の湯と滋味河内鴨鍋名宿5選 | 旅行キュレーション',
+  title: '国宝本殿と反橋・摂津国一宮 住吉大社新春初詣：2026-2027年冬の大阪・住吉＆堺！千利休の茶の湯と滋味河内鴨鍋名宿5選 | 旅行キュレーション',
   description: '200万人以上が訪れる全国住吉神社の総本社「住吉大社」新春初詣！太鼓橋（反橋）の冬の水鏡と国宝本殿の荘厳美、千利休ゆかりの堺の歴史と冬の極上ブランド肉「河内鴨鍋」・なにわ黒牛に心温まる大阪・堺の厳選名宿5選。',
   keywords: ['住吉・堺・天王寺', '冬旅行', '新春初詣', '温泉', '名宿', '大阪府観光', '楽天トラベル', 'ふるさと納税'],
   openGraph: {
-    title: '【国宝本殿と反橋・摂津国一宮 住吉大社新春初詣】2026-2027年冬の大阪・住吉＆堺！千利休の茶の湯と滋味河内鴨鍋名宿5選',
+    title: '国宝本殿と反橋・摂津国一宮 住吉大社新春初詣：2026-2027年冬の大阪・住吉＆堺！千利休の茶の湯と滋味河内鴨鍋名宿5選',
     description: '200万人以上が訪れる全国住吉神社の総本社「住吉大社」新春初詣！太鼓橋（反橋）の冬の水鏡と国宝本殿の荘厳美、千利休ゆかりの堺の歴史と冬の極上ブランド肉「河内鴨鍋」・なにわ黒牛に心温まる大阪・堺の厳選名宿5選。',
     images: ['https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Sumiyoshi-taisha%2C_keidai-2.jpg/1280px-Sumiyoshi-taisha%2C_keidai-2.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail'],
     type: 'article',
@@ -214,9 +214,7 @@ export default function Page() {
               <span>2026-2027年冬（11月・12月・1月）最新厳選ガイド</span>
             </div>
 
-            <h1 className="text-2xl sm:text-3xl md:text-4xl font-black tracking-tight leading-tight text-white">
-              【国宝本殿と反橋・摂津国一宮 住吉大社新春初詣】2026-2027年冬の大阪・住吉＆堺！千利休の茶の湯と滋味河内鴨鍋名宿5選
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl font-black tracking-tight leading-tight text-white">「国宝本殿と反橋・摂津国一宮 住吉大社新春初詣」2026-2027年冬の大阪・住吉＆堺！千利休の茶の湯と滋味河内鴨鍋名宿5選</h1>
 
             <p className="text-sm sm:text-base text-stone-300 leading-relaxed max-w-3xl pt-2">
               200万人以上が訪れる全国住吉神社の総本社「住吉大社」新春初詣！太鼓橋（反橋）の冬の水鏡と国宝本殿の荘厳美、千利休ゆかりの堺の歴史と冬の極上ブランド肉「河内鴨鍋」・なにわ黒牛に心温まる大阪・堺の厳選名宿5選。

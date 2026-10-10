@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【鹿児島中央駅前】桜島絶景庭園・仙巌園＆名物黒豚しゃぶしゃぶ！2,000円台〜泊まれる格安ホテル5選',
+  title: '鹿児島中央駅前：桜島絶景庭園・仙巌園＆名物黒豚しゃぶしゃぶ！2,000円台〜泊まれる格安ホテル5選',
   description: '錦江湾と桜島を借景にする国指定名勝・仙巌園の秋の菊まつり！極上の鹿児島黒豚しゃぶしゃぶや白くまアイス。九州新幹線・鹿児島中央駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>名勝仙巌園の桜島大パノラマ＆極上鹿児島黒豚しゃぶしゃぶ</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【鹿児島中央駅前】仙巌園の秋景＆極上黒豚！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「鹿児島中央駅前」仙巌園の秋景＆極上黒豚！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             島津家歴代が愛した名勝庭園「仙巌園（磯庭園）」。錦江湾を池に、雄大な桜島を築山に見立てた壮大な借景庭園に咲き誇る秋の菊花。きめ細やかな脂と甘みが溶け出す本場「かごしま黒豚しゃぶしゃぶ」や、名物かき氷「白くま」に舌鼓！鹿児島中央駅周辺で2,000円台〜泊まれる優良ホテルを厳選。
           </p>

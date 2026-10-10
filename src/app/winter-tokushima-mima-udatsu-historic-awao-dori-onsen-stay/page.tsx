@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { MapPin, Calendar, ExternalLink, HelpCircle, ChevronRight, ShieldCheck, Sparkles } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【藍商のうだつの町並みと阿波尾鶏鍋】2026-2027年冬の徳島・美馬！吉野川展望温泉と老舗名宿5選 | クラウドトラベル',
+  title: '藍商のうだつの町並みと阿波尾鶏鍋：2026-2027年冬の徳島・美馬！吉野川展望温泉と老舗名宿5選 | クラウドトラベル',
   description: '重伝建の白壁と装飾瓦が白銀に映える「脇町うだつの町並み」の冬風情！徳島が誇る極上地鶏「阿波尾鶏」の水炊きや冬の美馬そば、吉野川の清流を見下ろす天然温泉でぬくもる心安らぐ冬の歴史旅名宿5選。',
   keywords: ['徳島県冬旅行', '美馬・脇町・吉野川', '冬温泉', '2026', '2027', '雪景色', '冬の味覚', '楽天トラベル', 'ふるさと納税'],
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-tokushima-mima-udatsu-historic-awao-dori-onsen-stay',
   },
   openGraph: {
-    title: '【藍商のうだつの町並みと阿波尾鶏鍋】2026-2027年冬の徳島・美馬！吉野川展望温泉と老舗名宿5選',
+    title: '藍商のうだつの町並みと阿波尾鶏鍋：2026-2027年冬の徳島・美馬！吉野川展望温泉と老舗名宿5選',
     description: '重伝建の白壁と装飾瓦が白銀に映える「脇町うだつの町並み」の冬風情！徳島が誇る極上地鶏「阿波尾鶏」の水炊きや冬の美馬そば、吉野川の清流を見下ろす天然温泉でぬくもる心安らぐ冬の歴史旅名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-tokushima-mima-udatsu-historic-awao-dori-onsen-stay',
     siteName: 'クラウドトラベル',
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: '【藍商のうだつの町並みと阿波尾鶏鍋】2026-2027年冬の徳島・美馬！吉野川展望温泉と老舗名宿5選',
+    title: '藍商のうだつの町並みと阿波尾鶏鍋：2026-2027年冬の徳島・美馬！吉野川展望温泉と老舗名宿5選',
     description: '重伝建の白壁と装飾瓦が白銀に映える「脇町うだつの町並み」の冬風情！徳島が誇る極上地鶏「阿波尾鶏」の水炊きや冬の美馬そば、吉野川の清流を見下ろす天然温泉でぬくもる心安らぐ冬の歴史旅名宿5選。',
   },
 };
@@ -128,9 +128,7 @@ export default function Page() {
             </span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-stone-900 leading-tight">
-            【藍商のうだつの町並みと阿波尾鶏鍋】2026-2027年冬の徳島・美馬！吉野川展望温泉と老舗名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-stone-900 leading-tight">「藍商のうだつの町並みと阿波尾鶏鍋」2026-2027年冬の徳島・美馬！吉野川展望温泉と老舗名宿5選</h1>
 
           <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pt-1">
             重伝建の白壁と装飾瓦が白銀に映える「脇町うだつの町並み」の冬風情！徳島が誇る極上地鶏「阿波尾鶏」の水炊きや冬の美馬そば、吉野川の清流を見下ろす天然温泉でぬくもる心安らぐ冬の歴史旅名宿5選。

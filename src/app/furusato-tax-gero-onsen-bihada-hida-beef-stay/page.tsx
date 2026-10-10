@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【下呂温泉×ふるさと納税】日本三名泉の美肌美湯＆極上飛騨牛！老舗名宿特集｜水明館・湯之島館・小川屋',
+  title: '下呂温泉をふるさと納税でお得に旅する！日本三名泉の美肌美湯＆極上飛騨牛！老舗名宿特集｜水明館・湯之島館・小川屋',
   description: '草津・有馬と並ぶ日本三名泉・岐阜県下呂温泉を楽天ふるさと納税でお得に満喫！飛騨川沿いの一大温泉リゾート「水明館」、昭和六年創業の国登録有形文化財「湯之島館」、名物百帖空間の畳風呂を誇る「小川屋」を徹底比較。とろとろ美肌の湯や最高級A5飛騨牛会席、下呂市トラベルクーポン活用術を網羅。',
   keywords: '下呂温泉 ふるさと納税,下呂温泉 飛騨牛 ふるさと納税,水明館 クーポン 下呂,湯之島館 ふるさと納税,小川屋 下呂市 宿泊',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-gero-onsen-bihada-hida-beef-stay/",
   },
   openGraph: {
-    title: '【下呂温泉×ふるさと納税】日本三名泉の美肌美湯＆極上飛騨牛！老舗名宿特集｜水明館・湯之島館・小川屋',
+    title: '下呂温泉をふるさと納税でお得に旅する！日本三名泉の美肌美湯＆極上飛騨牛！老舗名宿特集｜水明館・湯之島館・小川屋',
     description: '草津・有馬と並ぶ日本三名泉・岐阜県下呂温泉を楽天ふるさと納税でお得に満喫！飛騨川沿いの一大温泉リゾート「水明館」、昭和六年創業の国登録有形文化財「湯之島館」、名物百帖空間の畳風呂を誇る「小川屋」を徹底比較。とろとろ美肌の湯や最高級A5飛騨牛会席、下呂市トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-gero-onsen-bihada-hida-beef-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -24,7 +24,7 @@ export default function FurusatoArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【下呂温泉×ふるさと納税】日本三名泉の美肌美湯＆極上飛騨牛！老舗名宿特集｜水明館・湯之島館・小川屋',
+    headline: '下呂温泉をふるさと納税でお得に旅する！日本三名泉の美肌美湯＆極上飛騨牛！老舗名宿特集｜水明館・湯之島館・小川屋',
     description: '草津・有馬と並ぶ日本三名泉・岐阜県下呂温泉を楽天ふるさと納税でお得に満喫！飛騨川沿いの一大温泉リゾート「水明館」、昭和六年創業の国登録有形文化財「湯之島館」、名物百帖空間の畳風呂を誇る「小川屋」を徹底比較。とろとろ美肌の湯や最高級A5飛騨牛会席、下呂市トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function FurusatoArticlePage() {
           <span>♨️</span>
           <span>岐阜県下呂市 ふるさと納税・名湯宿特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【下呂温泉×ふるさと納税】日本三名泉の美肌美湯＆極上飛騨牛！老舗名宿特集｜水明館・湯之島館・小川屋
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">下呂温泉をふるさと納税でお得に旅する！日本三名泉の美肌美湯＆極上飛騨牛！老舗名宿特集｜水明館・湯之島館・小川屋</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed">
           草津・有馬と並ぶ日本三名泉・岐阜県下呂温泉を楽天ふるさと納税でお得に満喫！飛騨川沿いの一大温泉リゾート「水明館」、昭和六年創業の国登録有形文化財「湯之島館」、名物百帖空間の畳風呂を誇る「小川屋」を徹底比較。とろとろ美肌の湯や最高級A5飛騨牛会席、下呂市トラベルクーポン活用術を網羅。
         </p>

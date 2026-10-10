@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-limestone-caves-stay/" },
-  title: '日本三大鍾乳洞＆地底の神秘美・涼感アドベンチャー宿×ふるさと納税完全ガイド【2026年最新】龍泉洞・秋芳洞・龍河洞',
+  title: '日本三大鍾乳洞＆地底の神秘美・涼感アドベンチャー宿×ふるさと納税厳選ガイド龍泉洞・秋芳洞・龍河洞',
   description: '一億年の時が育んだ大自然の造形美！岩手「龍泉洞」世界有数の透明度を誇るドラゴンブルーの地底湖と浄土ヶ浜パークホテル、山口「秋芳洞」百枚皿と傘づくしの巨大カルスト洞窟と長門湯本温泉大谷山荘、高知「龍河洞」弥生人の神壺遺構と土佐の美食を誇る名門城西館。日本三大鍾乳洞の神秘的な地底空間と天然温泉を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大鍾乳洞・地底ジオアドベンチャー特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大鍾乳洞＆地底の神秘美・涼感アドベンチャー宿×ふるさと納税完全ガイド【2026年最新】龍泉洞・秋芳洞・龍河洞',
+    title: '日本三大鍾乳洞＆地底の神秘美・涼感アドベンチャー宿×ふるさと納税厳選ガイド龍泉洞・秋芳洞・龍河洞',
     description: '一億年の時が育んだ大自然の造形美！岩手「龍泉洞」世界有数の透明度を誇るドラゴンブルーの地底湖と浄土ヶ浜パークホテル、山口「秋芳洞」百枚皿と傘づくしの巨大カルスト洞窟と長門湯本温泉大谷山荘、高知「龍河洞」弥生人の神壺遺構と土佐の美食を誇る名門城西館。日本三大鍾乳洞の神秘的な地底空間と天然温泉を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-limestone-caves-stay',
@@ -155,9 +155,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大鍾乳洞・地底ジオアドベンチャー特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大鍾乳洞＆地底神秘美・名湯宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大鍾乳洞＆地底神秘美・名湯宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             悠久の歳月をかけて地下水が石灰岩を溶かし、奇跡のような地底宮殿を形作った「日本三大鍾乳洞」――世界有数の透明度を誇るドラゴンブルーの地底湖が吸い込まれそうな青のグラデーションを描く岩手岩泉の「龍泉洞」、日本最大級のカルスト台地・秋吉台の地下100mに広がり無数の皿状石灰段丘「百枚皿」や黄金柱が圧巻のスケールを誇る山口美祢の「秋芳洞」、そして一億年の鍾乳石とともに太古の弥生人が暮らした痕跡「神壺（土器が鍾乳石と一体化した世界唯一の遺構）。」が残る高知香美の「龍河洞」。洞内は年中ひんやりとした清涼な空気が漂い、夏は涼しく冬は暖かく、冒険心をくすぐる別世界が広がります。地底探検の後は、三陸・長門湯本・土佐の贅を尽くした温泉宿でゆったりと湯に浸かり、ご当地の山海の幸を味わう贅沢なひとときを楽天ふるさと納税でお楽しみください。
           </p>

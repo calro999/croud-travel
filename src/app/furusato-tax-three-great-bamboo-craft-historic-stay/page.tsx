@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '日本三大竹細工＆しなやかな曲線美・竹林景観と風雅な数寄屋名宿×ふるさと納税完全ガイド【2026年最新】別府・駿河・京都',
+  title: '日本三大竹細工＆しなやかな曲線美・竹林景観と風雅な数寄屋名宿×ふるさと納税厳選ガイド別府・駿河・京都',
   description: '竹の節としなやかさを極限まで活かした日本伝統の手仕事「日本三大竹細工」（大分・別府竹細工、静岡・駿河竹千筋細工、京都・京都竹工芸）。繊細な編み目と陰影が生み出す用の美、風にそよぐ青竹の庭園、風雅な数寄屋建築の老舗旅館。楽天ふるさと納税トラベルクーポンで実質2,000円負担で泊まる大人の工芸温泉ステイ完全ガイド。',
   keywords: ["日本三大竹細工", "しなやかな曲線美", "2026年最新", "別府", "駿河", "京都", "温泉宿"],
   alternates: { canonical: baseUrl + '/furusato-tax-three-great-bamboo-craft-historic-stay/' },
   openGraph: {
-    title: '日本三大竹細工＆しなやかな曲線美・竹林景観と風雅な数寄屋名宿×ふるさと納税完全ガイド【2026年最新】別府・駿河・京都',
+    title: '日本三大竹細工＆しなやかな曲線美・竹林景観と風雅な数寄屋名宿×ふるさと納税厳選ガイド別府・駿河・京都',
     description: '竹の節としなやかさを極限まで活かした日本伝統の手仕事「日本三大竹細工」（大分・別府竹細工、静岡・駿河竹千筋細工、京都・京都竹工芸）。繊細な編み目と陰影が生み出す用の美、風にそよぐ青竹の庭園、風雅な数寄屋建築の老舗旅館。楽天ふるさと納税トラベルクーポンで実質2,000円負担で泊まる大人の工芸温泉ステイ完全ガイド。',
     url: baseUrl + '/furusato-tax-three-great-bamboo-craft-historic-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoRound64ArticlePage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             日本三大竹細工・伝統工芸と数寄屋風雅ステイ特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            日本三大竹細工＆しなやかな曲線美・竹林景観と風雅な数寄屋名宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">日本三大竹細工＆しなやかな曲線美・竹林景観と風雅な数寄屋名宿</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             天に向かって真っ直ぐに伸び、節を持ち、しなやかに風を受け流す「竹」。縄文の昔から日本人の生活に寄り添い、茶の湯の精神とともに工芸の極みへと昇華された竹細工の頂点に立つのが「日本三大竹細工」です。湯治客の台所用品から発祥し、国の伝統的工芸品にも指定された繊細で立体的な編組美を誇る大分・別府竹細工。丸ひごを一本一本手作業で千本格子状に組み上げ、虫籠や花器に幽玄な陰影を生み出す静岡・駿河竹千筋細工。そして千利休以来の茶道文化と結びつき、茶杓や花籠に侘び寂びの精神を宿す京都・嵯峨野の京都竹工芸。青々とした竹林の回廊を散策し、職人の工房で指先の技に魅了された後は、名工の手による竹細工の花器や照明が配された数寄屋造りの名旅館で静寂な宵を過ごす贅沢。楽天ふるさと納税の宿泊割引クーポンを活用して、日本の粋と洗練が宿る極上の工芸リトリートへ出かけましょう。
           </p>

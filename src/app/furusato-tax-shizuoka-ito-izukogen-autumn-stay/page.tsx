@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            静岡・伊豆高原の里山紅葉＆城ヶ崎海岸！海を望む露天風呂と金目鯛姿煮・伊豆牛会席
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">静岡・伊豆高原の里山紅葉＆城ヶ崎海岸！海を望む露天風呂と金目鯛姿煮・伊豆牛会席</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の静岡・伊豆高原特集！大室山の黄金色ススキと城ヶ崎海岸・門脇吊橋のダイナミックな秋絶景、古き良き日本の原風景が広がる里山温泉リゾート「杜の湯 きらの里」、名物金目鯛の姿煮や伊豆牛ステーキ・地魚舟盛りをふるさと納税トラベルクーポンでお得に楽しむ伊豆秋旅。
           </p>

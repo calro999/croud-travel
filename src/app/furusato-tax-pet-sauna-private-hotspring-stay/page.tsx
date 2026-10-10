@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-pet-sauna-private-hotspring-stay/" },
-  title: '【愛犬同伴＆プライベートサウナ】贅沢な休日をご褒美ステイ！ふるさと納税クーポンのスマート活用術 | クラウドトラベル',
+  title: '愛犬同伴＆プライベートサウナ：贅沢な休日をご褒美ステイ！ふるさと納税クーポンのスマート活用術 | クラウドトラベル',
   description: 'ペット宿泊料金やサウナ付き客室の追加費用もふるさと納税クーポンでスマートに解決！裏磐梯の愛犬ペンション、伊豆高原の客室露天風呂宿、白馬の本格サウナロッジなど、自分へのご褒美旅を特集。',
   openGraph: {
-    title: '【愛犬同伴＆プライベートサウナ】贅沢な休日をご褒美ステイ！ふるさと納税クーポンのスマート活用術 | クラウドトラベル',
+    title: '愛犬同伴＆プライベートサウナ：贅沢な休日をご褒美ステイ！ふるさと納税クーポンのスマート活用術 | クラウドトラベル',
     description: 'ペット宿泊料金やサウナ付き客室の追加費用もふるさと納税クーポンでスマートに解決！裏磐梯の愛犬ペンション、伊豆高原の客室露天風呂宿、白馬の本格サウナロッジなど、自分へのご褒美旅を特集。',
     type: 'article',
   },
@@ -59,9 +59,7 @@ export default function Page() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             ふるさと納税×愛犬同伴・個室サウナ宿
           </div>
-          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            【愛犬同伴＆プライベートサウナ】贅沢な休日をご褒美ステイ！ふるさと納税クーポンのスマート活用術
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">「愛犬同伴＆プライベートサウナ」贅沢な休日をご褒美ステイ！ふるさと納税クーポンのスマート活用術</h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl mb-6">
             「大切な愛犬を留守番させずに一緒に泊まりたい。」「誰にも邪魔されないプライベートサウナや客室露天風呂で心身を整えたい。」。そんな特別な滞在ニーズを満たす宿は、充実した設備やきめ細やかなサービスゆえに、一般的な宿泊プランよりも料金が高めに設定されていることが少なくありません。そこで最大限に威力を発揮するのが楽天ふるさと納税のトラベルクーポンです。宿泊代金の最大30％が補助されるため、愛犬用の追加チャージや客室アップグレード費用を丸ごとカバー。福島・裏磐梯の大自然に囲まれたペンションから、伊豆高原のドッグラン付き離れ宿、北アルプス白馬の本格サウナリゾートまで、こだわりの休日をお得に叶える厳選施設をご紹介します。
           </p>

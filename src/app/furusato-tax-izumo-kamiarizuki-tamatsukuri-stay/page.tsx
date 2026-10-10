@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            全国の神々が集う出雲大社「神在月（11月）」参拝＆日本最古の美肌温泉「玉造温泉」・しまね和牛
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">全国の神々が集う出雲大社「神在月（11月）」参拝＆日本最古の美肌温泉「玉造温泉」・しまね和牛</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             神々が集う年に一度の「神在月」。出雲大社の荘厳な祈りと玉造温泉の極上美肌湯、しまね和牛に満たされる秋。
           </p>

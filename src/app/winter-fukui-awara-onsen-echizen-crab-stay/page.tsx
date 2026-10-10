@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月あわら温泉】庭園露天風呂と黄色いタグ付き越前蟹！名宿5選',
+  title: 'あわら温泉で過ごす冬の旅（11・12月）！庭園露天風呂と黄色いタグ付き越前蟹！名宿5選',
   description: '11月6日の越前がに解禁で歓喜に沸く福井の名湯「あわら温泉」。明治の開湯以来、各宿が独自源泉を所有する贅沢な湯巡りと、三國港直送の黄色タグ付き越前がにフルコース、極上若狭牛を堪能。庭園露天風呂が彩る初冬の極上温泉宿5選を徹底解説。',
   keywords: 'あわら温泉 越前がに 宿泊, あわら温泉 11月 12月, 越前蟹 黄色タグ まつや千千, グランディア芳泉, つるや あわら, 清風荘, 若狭牛 芦原温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukui-awara-onsen-echizen-crab-stay/",
   },
   openGraph: {
-    title: '【11・12月あわら温泉】庭園露天風呂と黄色いタグ付き越前蟹！名宿5選',
+    title: 'あわら温泉で過ごす冬の旅（11・12月）！庭園露天風呂と黄色いタグ付き越前蟹！名宿5選',
     description: '11月6日の越前がに解禁で歓喜に沸く福井の名湯「あわら温泉」。明治の開湯以来、各宿が独自源泉を所有する贅沢な湯巡りと、三國港直送の黄色タグ付き越前がにフルコース、極上若狭牛を堪能。庭園露天風呂が彩る初冬の極上温泉宿5選を徹底解説。',
     url: 'https://croud-travel.pages.dev/winter-fukui-awara-onsen-echizen-crab-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月あわら温泉の冬名湯と越前がに】関西の奥座敷・庭園露天風呂と黄色いタグ付き越前蟹＆若狭牛会席の宿5選",
+    title: "あわら温泉の冬名湯と越前がにで過ごす冬の旅（11・12月）！関西の奥座敷・庭園露天風呂と黄色いタグ付き越前蟹＆若狭牛会席の宿5選",
     description: "11月6日の越前がに解禁で歓喜に沸く福井の名湯「あわら温泉」。明治の開湯以来、各宿が独自源泉を所有する贅沢な湯巡りと、三國港直送の黄色タグ付き越前がにフルコース、極上若狭牛を堪能。庭園露天風呂が彩る初冬の極上温泉宿5選を徹底解説。",
   }
 };
@@ -297,10 +297,7 @@ export default function AwaraWinterPage() {
             <Eye className="w-4 h-4 text-amber-300" />
             <span>11月・12月限定 越前がに解禁と関西の奥座敷あわら温泉特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月あわら温泉の冬名湯と越前がに】<br className="hidden sm:inline" />
-            関西の奥座敷・庭園露天風呂と黄色いタグ付き越前蟹＆若狭牛会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">あわら温泉の冬名湯と越前がにで過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 関西の奥座敷・庭園露天風呂と黄色いタグ付き越前蟹＆若狭牛会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             11月6日の越前がに漁解禁とともに冬の黄金期を迎える福井の奥座敷「あわら温泉」。74本もの独自源泉が注ぐ庭園露天風呂で温まり、三國港直送の黄色いタグ付き極上越前がにと若狭牛を味わい尽くす至福の冬旅。
           </p>

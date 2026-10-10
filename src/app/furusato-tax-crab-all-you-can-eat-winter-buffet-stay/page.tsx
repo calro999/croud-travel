@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '冬の味覚の王様！本場カニ食べ放題＆極上松葉ガニ名門宿×ふるさと納税完全攻略ガイド【2026年最新】夕日ヶ浦・城崎温泉で絶品カニ旅',
+  title: '冬の味覚の王様！本場カニ食べ放題＆極上松葉ガニ名門宿×ふるさと納税極上旅ガイド夕日ヶ浦・城崎温泉で絶品カニ旅',
   description: '焼きガニ・カニ刺し・茹でガニ・カニすき鍋・カニ雑炊のフルコースから、ズワイガニ食べ放題まで！「夕日ヶ浦温泉 佳松苑」「城崎温泉 西村屋本館」「城崎温泉 心の宿 三國屋」を、京都府京丹後市・兵庫県豊岡市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。冬の日本海の名湯と最高峰ガニ料理を堪能。',
   keywords: ["2026年最新", "夕日ヶ浦", "城崎温泉で絶品カニ旅", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-crab-all-you-can-eat-winter-buffet-stay/",
   },
   openGraph: {
-    title: '冬の味覚の王様！本場カニ食べ放題＆極上松葉ガニ名門宿×ふるさと納税完全攻略ガイド【2026年最新】夕日ヶ浦・城崎温泉で絶品カニ旅',
+    title: '冬の味覚の王様！本場カニ食べ放題＆極上松葉ガニ名門宿×ふるさと納税極上旅ガイド夕日ヶ浦・城崎温泉で絶品カニ旅',
     description: '焼きガニ・カニ刺し・茹でガニ・カニすき鍋・カニ雑炊のフルコースから、ズワイガニ食べ放題まで！「夕日ヶ浦温泉 佳松苑」「城崎温泉 西村屋本館」「城崎温泉 心の宿 三國屋」を、京都府京丹後市・兵庫県豊岡市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。冬の日本海の名湯と最高峰ガニ料理を堪能。',
     url: 'https://croud-travel.pages.dev/furusato-tax-crab-all-you-can-eat-winter-buffet-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoCrabAllYouCanEatBuffetStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           冬の検索激増！本場カニ尽くし＆食べ放題宿特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          冬の味覚の王様！本場カニ食べ放題＆極上松葉ガニ名門宿×ふるさと納税完全攻略ガイド【2026年最新】夕日ヶ浦・城崎温泉で絶品カニ旅
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">冬の味覚の王様！本場カニ食べ放題＆極上松葉ガニ名門宿×ふるさと納税極上旅ガイド夕日ヶ浦・城崎温泉で絶品カニ旅</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoCrabAllYouCanEatBuffetStayPage() {
               全室海側の客室で日本海を一望◇絶景夕日に時季を彩る旬の美味と温泉を存分にお楽しみください。
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “7階からの景色と食事が素晴らしく静かな時間7階だったので景色が良かったです(その日は夕日は見えませんでしたが)。部屋風呂は良かったですがちょっと熱すぎました。夕食と朝食も素晴らしかったです。後… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D29771%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoCrabAllYouCanEatBuffetStayPage() {
               ◆売切れの日は公式サイトもご確認下さい◆江戸安政期創業、山陰隋一の純日本旅館として皆様をお迎致します
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “お料理も温泉も最高でした。非日常を存分に味わえました。”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D75399%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoCrabAllYouCanEatBuffetStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               客室12室のこじんまりした駅通りの隠れ宿。当館前にある人力車が目印の好立地な宿。
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “スタッフの対応と朝食は最高、部屋への移動は少し大変スタッフの皆様がとてもあたたかく迎えてくれました。お風呂も綺麗ですし、朝食も大変美味しかったです。部屋も綺麗でしたが、部屋までの道のりが思… ”
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

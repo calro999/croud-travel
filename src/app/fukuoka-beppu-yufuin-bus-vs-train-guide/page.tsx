@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/fukuoka-beppu-yufuin-bus-vs-train-guide/" },
-  title: "【福岡・博多〜別府・由布院】特急ゆふいんの森 vs 高速バス徹底比較！料金半額＆湯布院・別府地獄めぐり1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+  title: "福岡・博多〜別府・由布院：特急ゆふいんの森 vs 高速バス徹底比較！料金半額＆湯布院・別府地獄めぐり1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "博多・天神から由布院・別府温泉へ安く行くには？JR特急ゆふいんの森・特急ソニックと高速バス「とよのくに号・ゆふいん号」の料金・時間比較！湯の坪街道散策、金鱗湖、別府八湯を巡る1泊2日モデルコース。",
   keywords: ["福岡", "博多〜別府", "由布院", "特急ゆふいんの森", "vs", "高速バス徹底比較！料金半額", "湯布院"],
 };
@@ -154,9 +154,7 @@ export default function HighwayBusArticlePage() {
               交通手段の徹底比較＆最適ルート
             </span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【福岡・博多〜別府・由布院】特急ゆふいんの森 vs 高速バス徹底比較！料金半額＆湯布院・別府地獄めぐり1泊2日モデルコース
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">「福岡・博多〜別府・由布院」特急ゆふいんの森 vs 高速バス徹底比較！料金半額＆湯布院・別府地獄めぐり1泊2日モデルコース</h1>
           <p className="text-xs md:text-sm text-cyan-100/90 leading-relaxed font-medium">
             JR特急「ソニック」「ゆふいんの森」だと博多〜別府・由布院は片道約5,000円〜6,000円。一方、西鉄高速バス「とよのくに号」「ゆふいん号」なら片道約2,800円〜3,250円（往復割でさらにお得）！天神・博多・福岡空港から乗り換えなしで温泉街へ直行。
           </p>

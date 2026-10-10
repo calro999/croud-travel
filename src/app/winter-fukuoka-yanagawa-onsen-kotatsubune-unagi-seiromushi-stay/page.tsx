@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月福岡・水郷柳川】博多和牛会席を味わう城下町！名宿5選',
+  title: '福岡・水郷柳川で過ごす冬の旅（11・12月）！博多和牛会席を味わう城下町！名宿5選',
   description: '11月から12月にかけて、北原白秋の故郷として知られる水郷・福岡県柳川は、どんこ舟に温かい火鉢やこたつを乗せた冬の風物詩「こたつ舟」が運航を開始し。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '柳川温泉 宿泊, 柳川藩主立花邸御花, 亀の井ホテル柳川, ホテルニューガイア柳川, 柳川白柳荘, 輝泉荘, こたつ舟 川下り, うなぎのせいろ蒸し, 11月 12月 柳川, 博多和牛',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukuoka-yanagawa-onsen-kotatsubune-unagi-seiromushi-stay/"
   },
   openGraph: {
-    title: '【11・12月福岡・水郷柳川】博多和牛会席を味わう城下町！名宿5選',
+    title: '福岡・水郷柳川で過ごす冬の旅（11・12月）！博多和牛会席を味わう城下町！名宿5選',
     description: '11月から12月にかけて、北原白秋の故郷として知られる水郷・福岡県柳川は、どんこ舟に温かい火鉢やこたつを乗せた冬の風物詩「こたつ舟」が運航を開始し。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-fukuoka-yanagawa-onsen-kotatsubune-unagi-seiromushi-stay',
     siteName: 'クラドトラベル',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月福岡・水郷柳川の冬の風物詩「こたつ舟」川下り】名物元祖うなぎのせいろ蒸し＆博多和牛会席を味わう城下町・掘割温泉名宿5選",
+    title: "福岡・水郷柳川の冬の風物詩「こたつ舟」川下りで過ごす冬の旅（11・12月）！名物元祖うなぎのせいろ蒸し＆博多和牛会席を味わう城下町・掘割温泉名宿5選",
     description: "11月から12月にかけて、北原白秋の故郷として知られる水郷・福岡県柳川は、どんこ舟に温かい火鉢やこたつを乗せた冬の風物詩「こたつ舟」が運航を開始し、1年で最も情緒豊かな季節を迎えます。掘割沿いの柳並木やなまこ壁の白壁土塀をぬくぬく温まりながら巡る川下り、旧柳川藩主立花家別邸「御花」の美しい松涛園、そして冷えた身体を芯から解きほぐす天然温泉。湯気を上げる名物「元祖うなぎのせいろ蒸し」の香ばしいタレの香り、有明海の冬の珍味、極上の博多和牛会席を味わう城下町の厳選名宿5選を徹底解説します。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -248,12 +248,7 @@ export default function WinterFukuokaYanagawaPage() {
             11月・12月 冬のこたつ舟＆元祖うなぎせいろ蒸し特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月福岡・水郷柳川】冬の風物詩「こたつ舟」川下り
-            <span className="block text-teal-300 text-lg sm:text-2xl mt-3 font-normal">
-              名物元祖うなぎのせいろ蒸し＆博多和牛会席を味わう城下町・掘割温泉名宿5選
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">福岡・水郷柳川で過ごす冬の旅（11・12月）！冬の風物詩「こたつ舟」川下り <span className="block text-teal-300 text-lg sm:text-2xl mt-3 font-normal"> 名物元祖うなぎのせいろ蒸し＆博多和牛会席を味わう城下町・掘割温泉名宿5選 </span></h1>
 
           <p className="text-sm sm:text-base text-slate-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、詩人・北原白秋の故郷として知られる水郷・福岡県柳川は、どんこ舟に温かい火鉢やこたつを乗せた冬の風物詩「こたつ舟」が運航を開始し、1年で最も情緒豊かな季節を迎えます。掘割沿いの柳並木やなまこ壁の白壁土塀をぬくぬく温まりながら巡る川下り、旧柳川藩主立花家別邸「御花」の美しい松涛園、そして冷えた身体を芯から解きほぐす天然温泉。湯気を上げる名物「元祖うなぎのせいろ蒸し」の香ばしいタレの香り、有明海の冬の珍味、極上の博多和牛会席を味わう城下町の厳選名宿5選を徹底解説します。

@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '【2026年】山頂ゴンドラ直結＆暖炉ラウンジ！白銀パノラマと天然温泉のスノーリゾートホテル5選 ｜ 日本全国・旅宿クラウド',
+  title: '2026年：山頂ゴンドラ直結＆暖炉ラウンジ！白銀パノラマと天然温泉のスノーリゾートホテル5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！ゴンドラ乗り場直結で標高の高い絶景ゲレンデへ直行。暖炉のある優雅なラウンジと雪見露天風呂を満喫できるスノーリゾート5選。',
   keywords: ["2026年", "山頂ゴンドラ直結", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/super-panoramic-gondola-ski-snow-resort/",
   },
   openGraph: {
-    title: '【2026年】山頂ゴンドラ直結＆暖炉ラウンジ！白銀パノラマと天然温泉のスノーリゾートホテル5選',
+    title: '2026年：山頂ゴンドラ直結＆暖炉ラウンジ！白銀パノラマと天然温泉のスノーリゾートホテル5選',
     description: '2026年最新！ゴンドラ乗り場直結で標高の高い絶景ゲレンデへ直行。暖炉のある優雅なラウンジと雪見露天風呂を満喫できるスノーリゾート5選。',
     url: 'https://croud-travel.pages.dev/super-panoramic-gondola-ski-snow-resort',
     siteName: '日本全国・旅宿クラウド',
@@ -172,9 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>ゴンドラ直結×暖炉ラウンジ宿</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            【2026年】山頂ゴンドラ直結＆暖炉ラウンジ！白銀パノラマと天然温泉のスノーリゾートホテル5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」山頂ゴンドラ直結＆暖炉ラウンジ！白銀パノラマと天然温泉のスノーリゾートホテル5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             ホテル目の前から大型ゴンドラで一気に白銀の山頂パノラマへ。ふかふかのパウダースノーを存分に楽しんだ後は、暖炉の火が温かく灯るラウンジでホットワインやカフェを楽しみ、湯けむり立ち上る雪見露天風呂で体を解きほぐす冬の極上ステイ。
           </p>

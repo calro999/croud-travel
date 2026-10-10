@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/dog-private-grass-run-villa-stay/" },
-  title: "【天然芝プライベートドッグラン付きヴィラ】アジリティ＆貸切一棟ステイ 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "天然芝プライベートドッグラン付きヴィラ：アジリティ＆貸切一棟ステイ 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "ノーリードで思いっきり駆け回る歓び！客室専用天然芝プライベートドッグラン付き一棟貸しヴィラ完全特化！千葉九十九里・那須・軽井沢・琵琶湖、アジリティ完備、足洗い場＆温水シャワー、愛犬とBBQを楽しむ宿を徹底解説。",
   keywords: ["アジリティ", "貸切一棟ステイ", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
@@ -89,9 +89,7 @@ export default function PetDogResortHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-gradient-to-r from-amber-300 to-yellow-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block shadow">
             PRIVATE DOG RUN VILLA GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【天然芝プライベートドッグラン付きヴィラ】アジリティ＆貸切一棟ステイ 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「天然芝プライベートドッグラン付きヴィラ」アジリティ＆貸切一棟ステイ 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             リビングの掃き出し窓を開けると、目の前に広がる100平米超の専用天然芝ガーデン！「天然芝プライベートドッグラン付きヴィラ」。他の犬を気にせずノーリードで全力疾走。アジリティ遊具やプール、足洗い場完備。愛犬の笑顔を独占する休日へ。
           </p>

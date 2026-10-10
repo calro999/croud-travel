@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            島根・玉造温泉と出雲大社「神在月」！日本最古の美肌温泉＆宍道湖七道・島根和牛
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">島根・玉造温泉と出雲大社「神在月」！日本最古の美肌温泉＆宍道湖七道・島根和牛</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の島根・玉造温泉＆出雲特集！全国の神々が集う旧暦10月「神在月」の出雲大社参拝、奈良時代から美肌の湯として讃えられる日本最古の化粧水温泉「玉造温泉」、宍道湖の秋七珍や極上島根和牛をふるさと納税トラベルで味わう神話の国の秋旅。
           </p>

@@ -42,9 +42,7 @@ export default function Page() {
             <span className="inline-block w-2 h-2 rounded-full bg-rose-400 animate-pulse" />
             日本三大朝市・活気と美食特集
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">
-            日本三大朝市＆獲れたて海鮮・朝ごはん宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三大朝市＆獲れたて海鮮・朝ごはん宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg md:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed font-normal">
             威勢のいい掛け声と湯気立つ浜焼き！石川「輪島朝市」千年続く露店と能登海の幸ホテル海望、佐賀「呼子朝市」イカの一夜干しと透明な泳ぎイカ活造り唐津シーサイドホテル、千葉「勝浦朝市」四百年の伝統と初鰹・勝浦タンタンメン三日月イン。日本三大朝市の熱気と贅沢な朝食バイキングを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。
           </p>

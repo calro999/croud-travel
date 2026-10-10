@@ -42,9 +42,7 @@ export default function Page() {
             <span className="inline-block w-2 h-2 rounded-full bg-rose-400 animate-pulse" />
             日本三大松原・白砂青松特集
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">
-            日本三大松原＆白砂青松オーシャンビュー宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三大松原＆白砂青松オーシャンビュー宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg md:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed font-normal">
             萬葉の歌人が愛した日本の原風景！京都「天橋立」天に架かる緑の橋と廻旋橋を望む文珠荘、福井「気比の松原」若狭湾の白砂と敦賀トンネル温泉北国グランドホテル、静岡「三保の松原」富士山と駿河湾を一望する風景美術館日本平ホテル。日本三大松原（三大白砂青松）の絶景シーサイドステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。
           </p>

@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】日本の地中海・小豆島！搾りたてオリーブオイル会席＆極上オリーブスパの海宿5選 | 日本全国・旅宿クラウド',
+  title: '2026年：日本の地中海・小豆島！搾りたてオリーブオイル会席＆極上オリーブスパの海宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！瀬戸内海の青とオリーブ畑の絶景！小豆島産エキストラバージンオリーブオイルの創作イタリアン・和会席と美肌オリーブスパの温泉宿5選。',
   keywords: ["2026年", "日本の地中海", "極上オリーブスパの海宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: '【2026年】日本の地中海・小豆島！搾りたてオリーブオイル会席＆極上オリーブスパの海宿5選',
+    title: '2026年：日本の地中海・小豆島！搾りたてオリーブオイル会席＆極上オリーブスパの海宿5選',
     description: '2026年最新！瀬戸内海の青とオリーブ畑の絶景！小豆島産エキストラバージンオリーブオイルの創作イタリアン・和会席と美肌オリーブスパの温泉宿5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/organic-olive-farm-mediterranean-spa-stay',
@@ -193,9 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> 小豆島オリーブ美食×瀬戸内オーシャンスパ
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】日本の地中海・小豆島！搾りたてオリーブオイル会席＆極上オリーブスパの海宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」日本の地中海・小豆島！搾りたてオリーブオイル会席＆極上オリーブスパの海宿5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             青く輝く瀬戸内海と風に揺れるオリーブの樹々。まるでエーゲ海を思わせる小豆島で、名産オリーブオイルを惜しみなく使った美食と、ポリフェノール豊富な天然オリーブオイルトリートメント、多島美に沈む夕日を望む温泉露天に酔いしれる休日。
           </p>

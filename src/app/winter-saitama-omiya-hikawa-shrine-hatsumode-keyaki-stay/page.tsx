@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月埼玉】武州和牛と天然温泉に寛ぐ！名宿5選',
+  title: '11・12・1月埼玉：武州和牛と天然温泉に寛ぐ！名宿5選',
   description: '冬の首都圏近郊で圧倒的な賑わいと幻想美を見せる埼玉・大宮＆さいたま新都心。2400年以上の歴史を誇る武蔵一宮「氷川神社」への新春200万人開。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '大宮 ホテル, さいたま新都心 ホテル, 氷川神社 初詣 ホテル, けやきひろば イルミネーション, パレスホテル大宮, ホテルメトロポリタンさいたま新都心, スーパーホテルPremierさいたま大宮, 武州和牛, 11月 12月 1月 埼玉 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-saitama-omiya-hikawa-shrine-hatsumode-keyaki-stay/"
   },
   openGraph: {
-    title: '【11・12・1月埼玉】武州和牛と天然温泉に寛ぐ！名宿5選',
+    title: '11・12・1月埼玉：武州和牛と天然温泉に寛ぐ！名宿5選',
     description: '冬の首都圏近郊で圧倒的な賑わいと幻想美を見せる埼玉・大宮＆さいたま新都心。2400年以上の歴史を誇る武蔵一宮「氷川神社」への新春200万人開。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-saitama-omiya-hikawa-shrine-hatsumode-keyaki-stay',
     type: 'article',
@@ -246,10 +246,7 @@ export default function SaitamaOmiyaHikawaWinterPage() {
             <span>11月・12月・1月冬の埼玉特選ガイド｜さいたま市大宮区・中央区新都心</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            武蔵一宮氷川神社新春初詣＆けやきひろばイルミネーション！<br className="hidden sm:inline" />
-            武州和牛と天然温泉に寛ぐ名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">武蔵一宮氷川神社新春初詣＆けやきひろばイルミネーション！<br className="hidden sm:inline" /> 武州和牛と天然温泉に寛ぐ名宿5選</h1>
 
           <p className="max-w-4xl text-sm sm:text-base md:text-lg text-slate-300 leading-relaxed font-normal">
             澄み渡る冬晴れの空の下、首都圏屈指の熱気と幻想美が交錯する埼玉・大宮＆さいたま新都心。2400年以上の歴史を刻む武蔵一宮「氷川神社」への新春200万人開運厄除け初詣と日本一長い氷川参道散歩、さいたま新都心「けやきひろば」を15万球の青と白のLEDが包む光の森イルミネーション。深谷ねぎや極上の武州和牛、名物武蔵野うどんの肉汁うどんを味わい、温泉やシティホテルで寛ぐ極上の冬旅へ。

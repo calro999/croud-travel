@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【水上サウナ＆浮遊外気浴】湖や池に浮かぶフローティングサウナと温泉宿5選",
+  title: "水上サウナ＆浮遊外気浴：湖や池に浮かぶフローティングサウナと温泉宿5選",
   description: "穏やかな湖面や池の上に浮かぶフローティングサウナ！水面に直接降りられる階段から飛び込む天然水風呂、そして水上のデッキチェアで揺られながらの外気浴。究極の浮遊感を体験できる最新リゾートを厳選。",
   keywords: "水上 サウナ 温泉 宿, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/organic-forest-floating-tent-sauna-stay/",
   },
   openGraph: {
-    title: "【水上サウナ＆浮遊外気浴】湖や池に浮かぶフローティングサウナと温泉宿5選",
+    title: "水上サウナ＆浮遊外気浴：湖や池に浮かぶフローティングサウナと温泉宿5選",
     description: "穏やかな湖面や池の上に浮かぶフローティングサウナ！水面に直接降りられる階段から飛び込む天然水風呂、そして水上のデッキチェアで揺られながらの外気浴。究極の浮遊感を体験できる最新リゾートを厳選。",
     url: 'https://croud-travel.pages.dev/organic-forest-floating-tent-sauna-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【水上サウナ＆浮遊外気浴】湖や池に浮かぶフローティングサウナと温泉宿5選",
+    title: "水上サウナ＆浮遊外気浴：湖や池に浮かぶフローティングサウナと温泉宿5選",
     description: "穏やかな湖面や池の上に浮かぶフローティングサウナ！水面に直接降りられる階段から飛び込む天然水風呂、そして水上のデッキチェアで揺られながらの外気浴。究極の浮遊感を体験できる最新リゾートを厳選。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>水上サウナ＆浮遊ととのい</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【水上サウナ＆浮遊外気浴】湖や池に浮かぶフローティングサウナと温泉宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「水上サウナ＆浮遊外気浴」湖や池に浮かぶフローティングサウナと温泉宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             穏やかな湖面や池の上に浮かぶフローティングサウナ！水面に直接降りられる階段から飛び込む天然水風呂、そして水上のデッキチェアで揺られながらの外気浴。究極の浮遊感を体験できる最新リゾートを厳選。
           </p>

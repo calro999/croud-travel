@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/airport-access-direct-resort-stay/" },
-  title: "【空港直行＆空港至近リゾート宿】羽田・成田・関空・福岡・那覇・千歳 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "空港直行＆空港至近リゾート宿：羽田・成田・関空・福岡・那覇・千歳 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "フライト前後も快適な空港アクセス特化温泉宿！羽田エアポートガーデン展望温泉、新千歳空港内天然温泉、関空対岸オーシャンビュー、福岡空港至近の博多温泉、那覇空港から直行の瀬長島ウミカジテラス温泉宿を徹底解説。",
   keywords: ["空港直行", "空港至近リゾート宿", "羽田", "成田", "関空", "福岡", "那覇"],
 };
@@ -89,9 +89,7 @@ export default function TransitStyleHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             AIRPORT ACCESS & LUXURY ONEN GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【空港直行＆空港至近リゾート宿】羽田・成田・関空・福岡・那覇・千歳 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「空港直行＆空港至近リゾート宿」羽田・成田・関空・福岡・那覇・千歳 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             飛行機を降りてすぐに温泉と美食のリゾートへ！羽田・新千歳など空港直結・至近の展望天然温泉。滑走路を離着陸する飛行機や富士山を眺めながら湯船に浸かり、フライト前後の移動ストレスをゼロにする究極のスマートステイ。
           </p>

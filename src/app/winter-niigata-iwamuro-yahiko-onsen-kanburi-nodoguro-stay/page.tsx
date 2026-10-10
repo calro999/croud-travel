@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月弥彦】越後一宮彌彦神社参詣！名宿5選',
+  title: '弥彦で過ごす冬の旅（11・12月）！越後一宮彌彦神社参詣！名宿5選',
   description: '11月から12月にかけて、新潟県の日本海沿いに連なる弥彦山麓の弥彦温泉と岩室（いわむろ）温泉は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '岩室温泉 宿泊, 弥彦温泉 宿泊, 新潟 温泉 11月 12月, 穂々, ゆもとや, 四季の宿 みのや, 富士屋, 櫻家, 彌彦神社 参詣, 日本海 寒ブリ, のどぐろ 塩焼き, 岩室温泉 黒湯',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-niigata-iwamuro-yahiko-onsen-kanburi-nodoguro-stay/"
   },
   openGraph: {
-    title: '【11・12月弥彦】越後一宮彌彦神社参詣！名宿5選',
+    title: '弥彦で過ごす冬の旅（11・12月）！越後一宮彌彦神社参詣！名宿5選',
     description: '11月から12月にかけて、新潟県の日本海沿いに連なる弥彦山麓の弥彦温泉と岩室（いわむろ）温泉は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-niigata-iwamuro-yahiko-onsen-kanburi-nodoguro-stay',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -246,10 +246,7 @@ export default function NiigataIwamuroYahikoWinterFeature() {
             <Snowflake className="w-4 h-4" />
             11月・12月 越後一宮参詣＆日本海冬美食特集｜新潟・弥彦＆岩室温泉
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            初冬情緒と日本海寒ブリ・のどぐろ会席<br className="hidden sm:inline" />
-            越後一宮彌彦神社参詣＆開湯300年名物黒湯の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">初冬情緒と日本海寒ブリ・のどぐろ会席<br className="hidden sm:inline" /> 越後一宮彌彦神社参詣＆開湯300年名物黒湯の宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             神域の杉並木に漂う初冬の凛とした静寂。開湯300年を誇る岩室の名物「黒湯」で温まり、荒波の日本海で脂を蓄えた極上の寒ブリとのどぐろ、炊きたて新米コシヒカリに酔いしれる贅沢旅。
           </p>

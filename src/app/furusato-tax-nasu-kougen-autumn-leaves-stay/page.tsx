@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '那須ロープウェイ茶臼岳の絨毯紅葉＆那須高原リゾート！開湯1300年名湯旅館×ふるさと納税完全ガイド【2026年最新秋旅】栃木',
+  title: '那須ロープウェイ茶臼岳の絨毯紅葉＆那須高原リゾート！開湯1300年名湯旅館×ふるさと納税厳選ガイド栃木',
   description: '10月上旬〜10月下旬に見頃を迎える「那須高原・茶臼岳（ちゃうすだけ）」。山全体が赤や黄色に染まる紅葉絨毯をロープウェイから一望、那須御用邸の歴史薫る名湯「那須温泉 山楽」「大丸温泉旅館」「かんすい苑 覚楽」でとちぎ和牛ステーキや野趣あふれる川の湯露天風呂を堪能。楽天ふるさと納税で実質2,000円。',
   keywords: ["2026年最新秋旅", "栃木", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-nasu-kougen-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '那須ロープウェイ茶臼岳の絨毯紅葉＆那須高原リゾート！開湯1300年名湯旅館×ふるさと納税完全ガイド【2026年最新秋旅】栃木',
+    title: '那須ロープウェイ茶臼岳の絨毯紅葉＆那須高原リゾート！開湯1300年名湯旅館×ふるさと納税厳選ガイド栃木',
     description: '10月上旬〜10月下旬に見頃を迎える「那須高原・茶臼岳（ちゃうすだけ）」。山全体が赤や黄色に染まる紅葉絨毯をロープウェイから一望、那須御用邸の歴史薫る名湯「那須温泉 山楽」「大丸温泉旅館」「かんすい苑 覚楽」でとちぎ和牛ステーキや野趣あふれる川の湯露天風呂を堪能。楽天ふるさと納税で実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-nasu-kougen-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FeatureArticlePage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               栃木・那須高原＆茶臼岳紅葉特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              那須ロープウェイ茶臼岳の絨毯紅葉＆那須高原リゾート！開湯1300年名湯旅館×ふるさと納税完全ガイド【2026年最新秋旅】栃木
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">那須ロープウェイ茶臼岳の絨毯紅葉＆那須高原リゾート！開湯1300年名湯旅館×ふるさと納税厳選ガイド栃木</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               10月上旬〜10月下旬に見頃を迎える「那須高原・茶臼岳（ちゃうすだけ）」。山全体が赤や黄色に染まる紅葉絨毯をロープウェイから一望、那須御用邸の歴史薫る名湯「那須温泉 山楽」「大丸温泉旅館」「かんすい苑 覚楽」でとちぎ和牛ステーキや野趣あふれる川の湯露天風呂を堪能。楽天ふるさと納税で実質2,000円。
             </p>

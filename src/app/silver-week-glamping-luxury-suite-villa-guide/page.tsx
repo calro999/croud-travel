@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-luxury-suite-villa-guide/" },
-  title: "【1日3組限定 最高峰ラグジュアリーグランピングヴィラ】誰にも会わない完全プライベート空間＆客室温泉 ｜ 日本全国・旅宿クラウド",
+  title: "1日3組限定 最高峰ラグジュアリーグランピングヴィラ：誰にも会わない完全プライベート空間＆客室温泉 ｜ 日本全国・旅宿クラウド",
   description:
     "一般のドームテントとは一線を画す完全独立型の一棟貸しヴィラ！プライベート温泉プール、専用露天風呂、専属シェフが出張調理する極上フレンチBBQ、大人の隠れ家ラグジュアリーステイ。",
   keywords: ["1日3組限定", "客室温泉", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
@@ -176,9 +176,7 @@ export default function SilverWeekGlampingLuxurySuiteVillaPage() {
             </span>
           </div>
 
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【1日3組限定 最高峰ラグジュアリーグランピングヴィラ】誰にも会わない完全プライベート空間＆客室温泉
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「1日3組限定 最高峰ラグジュアリーグランピングヴィラ」誰にも会わない完全プライベート空間＆客室温泉</h1>
 
           <p className="text-xs md:text-sm text-indigo-100/90 leading-relaxed font-medium">
             一般的なドームテントでは満足できない、本物を知る大人のためのプレミアムエスケープ。周囲の視線を完全に遮断した広大な敷地、客室専用の源泉かけ流し温泉とインフィニティプール、専属シェフが目の前で仕上げる至高のフレンチグリル。大切なパートナーとの記念日や誕生日、誰にも邪魔されない特別な秋連休をお過ごしください。

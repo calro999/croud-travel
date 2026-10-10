@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【沖縄・恩納村×ふるさと納税】西海岸エメラルドビーチ＆最高峰ラグジュアリー！プールヴィラ特集｜ハレクラニ・ハイアット瀬良垣・ルネッサンス',
+  title: '沖縄・恩納村をふるさと納税でお得に旅する！西海岸エメラルドビーチ＆最高峰ラグジュアリー！プールヴィラ特集｜ハレクラニ・ハイアット瀬良垣・ルネッサンス',
   description: '日本屈指の美ら海リゾート・沖縄県恩納村を楽天ふるさと納税でお得に極上バケーション！ハワイ名門の天国の館「ハレクラニ沖縄」、360度海に囲まれた島リゾート「ハイアット リージェンシー 瀬良垣アイランド 沖縄。」、イルカと遊べる「ルネッサンスリゾートオキナワ」を徹底比較。恩納村トラベルクーポン活用術を網羅。',
   keywords: '恩納村 ふるさと納税,ハレクラニ沖縄 クーポン,ハイアット瀬良垣 ふるさと納税,ルネッサンス沖縄 宿泊,恩納村 ふるさと納税 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-okinawa-onna-beach-resort-stay/",
   },
   openGraph: {
-    title: '【沖縄・恩納村×ふるさと納税】西海岸エメラルドビーチ＆最高峰ラグジュアリー！プールヴィラ特集｜ハレクラニ・ハイアット瀬良垣・ルネッサンス',
+    title: '沖縄・恩納村をふるさと納税でお得に旅する！西海岸エメラルドビーチ＆最高峰ラグジュアリー！プールヴィラ特集｜ハレクラニ・ハイアット瀬良垣・ルネッサンス',
     description: '日本屈指の美ら海リゾート・沖縄県恩納村を楽天ふるさと納税でお得に極上バケーション！ハワイ名門の天国の館「ハレクラニ沖縄」、360度海に囲まれた島リゾート「ハイアット リージェンシー 瀬良垣アイランド 沖縄。」、イルカと遊べる「ルネッサンスリゾートオキナワ」を徹底比較。恩納村トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-okinawa-onna-beach-resort-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -24,7 +24,7 @@ export default function FurusatoArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【沖縄・恩納村×ふるさと納税】西海岸エメラルドビーチ＆最高峰ラグジュアリー！プールヴィラ特集｜ハレクラニ・ハイアット瀬良垣・ルネッサンス',
+    headline: '沖縄・恩納村をふるさと納税でお得に旅する！西海岸エメラルドビーチ＆最高峰ラグジュアリー！プールヴィラ特集｜ハレクラニ・ハイアット瀬良垣・ルネッサンス',
     description: '日本屈指の美ら海リゾート・沖縄県恩納村を楽天ふるさと納税でお得に極上バケーション！ハワイ名門の天国の館「ハレクラニ沖縄」、360度海に囲まれた島リゾート「ハイアット リージェンシー 瀬良垣アイランド 沖縄。」、イルカと遊べる「ルネッサンスリゾートオキナワ」を徹底比較。恩納村トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function FurusatoArticlePage() {
           <span>♨️</span>
           <span>沖縄県恩納村（西海岸リゾート） ふるさと納税・名湯宿特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【沖縄・恩納村×ふるさと納税】西海岸エメラルドビーチ＆最高峰ラグジュアリー！プールヴィラ特集｜ハレクラニ・ハイアット瀬良垣・ルネッサンス
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">沖縄・恩納村をふるさと納税でお得に旅する！西海岸エメラルドビーチ＆最高峰ラグジュアリー！プールヴィラ特集｜ハレクラニ・ハイアット瀬良垣・ルネッサンス</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed">
           日本屈指の美ら海リゾート・沖縄県恩納村を楽天ふるさと納税でお得に極上バケーション！ハワイ名門の天国の館「ハレクラニ沖縄」、360度海に囲まれた島リゾート「ハイアット リージェンシー 瀬良垣アイランド 沖縄。」、イルカと遊べる「ルネッサンスリゾートオキナワ」を徹底比較。恩納村トラベルクーポン活用術を網羅。
         </p>

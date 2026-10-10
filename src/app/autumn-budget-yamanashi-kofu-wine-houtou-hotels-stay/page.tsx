@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【甲府】新酒甲州ワインと名物ほうとう！3,000円台〜泊まれる格安ホテル5選',
+  title: '甲府：新酒甲州ワインと名物ほうとう！3,000円台〜泊まれる格安ホテル5選',
   description: '秋に解禁される山梨の新酒甲州ワインと、かぼちゃの甘みが溶け込む熱々の名物ほうとう！甲府駅周辺・天然温泉付きで1泊3,000円台〜泊まれる超高コスパ格安宿厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetKofuHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>秋の山梨新酒ワイン＆甲州名物グルメ</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【甲府】新酒甲州ワイン＆具だくさん熱々ほうとう！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「甲府」新酒甲州ワイン＆具だくさん熱々ほうとう！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-purple-100/90 max-w-2xl mx-auto leading-relaxed">
             11月3日に解禁される山梨ヌーボー（甲州・マスカット・ベーリーAの新酒）と、秋の旬野菜がたっぷり入った熱々の名物ほうとう。武田信玄ゆかりの甲府城跡（舞鶴城公園）を望みながら、自家源泉や天然温泉大浴場を備えた駅近の3,000円台〜格安宿を厳選。
           </p>

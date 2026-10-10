@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-buddhas-heritage-stay/" },
-  title: '日本三大仏＆歴史古都の門前町・国宝仏閣と伝統会席宿×ふるさと納税完全ガイド【2026年最新】奈良・鎌倉・高岡大仏',
+  title: '日本三大仏＆歴史古都の門前町・国宝仏閣と伝統会席宿×ふるさと納税厳選ガイド奈良・鎌倉・高岡大仏',
   description: '千年の祈りと威風堂々の尊顔！奈良「東大寺盧舎那仏」世界最大の木造建築と大仏殿・若草山麓ホテルニューわかさ、神奈川「鎌倉大仏」国宝・青空の下に鎮座する高徳院と湘南フレンチ鎌倉パークホテル、富山「高岡大仏」銅器の町が誇る日本一の美男仏とホテルクラウンヒルズ高岡駅前。日本三大仏の歴史ロマンと門前町文化を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大仏・歴史古都特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大仏＆歴史古都の門前町・国宝仏閣と伝統会席宿×ふるさと納税完全ガイド【2026年最新】奈良・鎌倉・高岡大仏',
+    title: '日本三大仏＆歴史古都の門前町・国宝仏閣と伝統会席宿×ふるさと納税厳選ガイド奈良・鎌倉・高岡大仏',
     description: '千年の祈りと威風堂々の尊顔！奈良「東大寺盧舎那仏」世界最大の木造建築と大仏殿・若草山麓ホテルニューわかさ、神奈川「鎌倉大仏」国宝・青空の下に鎮座する高徳院と湘南フレンチ鎌倉パークホテル、富山「高岡大仏」銅器の町が誇る日本一の美男仏とホテルクラウンヒルズ高岡駅前。日本三大仏の歴史ロマンと門前町文化を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-buddhas-heritage-stay',
@@ -158,9 +158,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大仏・歴史古都特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大仏＆歴史古都・門前町の名宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大仏＆歴史古都・門前町の名宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             国家の安寧や人々の救済を願って建立され、日本の仏教美術・鋳造技術の頂点を極めた「日本三大仏」――聖武天皇の発願により国家事業として鋳造され世界遺産東大寺の大仏殿に鎮座する奈良の「奈良の大仏（盧舎那仏）」、津波で大仏殿が流失して以来六百年以上にわたり青空と潮風の中に端座する神奈川の「鎌倉大仏（高徳院 阿弥陀如来坐像）」、そして加賀前田家ゆかりの鋳物産業の粋を集め与謝野晶子をして「美男におわす」と詠ましめた富山の「高岡大仏」。見上げるほど巨大な仏身の前に立つと、時代を超えて人々が捧げてきた祈りの深さに胸が打たれます。古都の静かな小路を歩き、老舗宿で大和牛・相模湾の地魚・富山湾のキトキト鮮魚を味わう知的な旅を楽天ふるさと納税でお楽しみください。
           </p>

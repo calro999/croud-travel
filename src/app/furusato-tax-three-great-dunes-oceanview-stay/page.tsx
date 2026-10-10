@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '日本三大砂丘の壮大な風紋と夕日オーシャンビュー宿×ふるさと納税完全ガイド【2026年最新】鳥取砂丘・遠州砂丘・吹上浜',
+  title: '日本三大砂丘の壮大な風紋と夕日オーシャンビュー宿×ふるさと納税厳選ガイド鳥取砂丘・遠州砂丘・吹上浜',
   description: '海風が織りなす神秘的な風紋と、見渡す限りの砂と海のコントラスト「日本三大砂丘」（鳥取砂丘・遠州砂丘・吹上浜）。東シナ海や日本海に沈む夕日を望むオーシャンビュー露天風呂と新鮮な海の幸。楽天ふるさと納税の宿泊割引クーポンを利用して巡る絶景沿岸ステイ。',
   keywords: ["2026年最新", "鳥取砂丘", "遠州砂丘", "吹上浜", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-dunes-oceanview-stay/",
   },
   openGraph: {
-    title: '日本三大砂丘の壮大な風紋と夕日オーシャンビュー宿×ふるさと納税完全ガイド【2026年最新】鳥取砂丘・遠州砂丘・吹上浜',
+    title: '日本三大砂丘の壮大な風紋と夕日オーシャンビュー宿×ふるさと納税厳選ガイド鳥取砂丘・遠州砂丘・吹上浜',
     description: '海風が織りなす神秘的な風紋と、見渡す限りの砂と海のコントラスト「日本三大砂丘」（鳥取砂丘・遠州砂丘・吹上浜）。東シナ海や日本海に沈む夕日を望むオーシャンビュー露天風呂と新鮮な海の幸。楽天ふるさと納税の宿泊割引クーポンを利用して巡る絶景沿岸ステイ。',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-dunes-oceanview-stay',
     siteName: '旅宿クラウド',
@@ -108,9 +108,7 @@ export default function FurusatoUpgradedPage() {
             <span>✨</span>
             <span>日本三大砂丘・風紋絶景オーシャンステイ特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            日本三大砂丘の壮大な風紋と夕日オーシャンビュー宿×ふるさと納税完全ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">日本三大砂丘の壮大な風紋と夕日オーシャンビュー宿×ふるさと納税厳選ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             日本にいながらにして砂漠のような神秘的な情景と、どこまでも続く水平線が融合する「日本三大砂丘」。風が砂地に描き出す一瞬の芸術「風紋」、黄金色に輝く夕暮れ時のマジックアワー。砂丘散策の後は、海辺の温泉宿で波音を聞きながら名湯に浸かり、獲れたての伊勢海老や旬魚を味わう贅沢。楽天ふるさと納税を活用して、記憶に深く刻まれる砂丘と海のリゾートへ出かけましょう。
           </p>

@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-highland-resort-french-auberge-stay/" },
-  title: '高原リゾート＆美食フレンチオーベルジュ×ふるさと納税完全ガイド【2026年最新】那須・清里・裏磐梯の森の休日',
+  title: '高原リゾート＆美食フレンチオーベルジュ×ふるさと納税厳選ガイド那須・清里・裏磐梯の森の休日',
   description: '澄んだ空気と木漏れ日の森で味わう極上フレンチコース！那須高原、八ヶ岳清里、裏磐梯など名門高原リゾート＆オーベルジュを楽天ふるさと納税宿泊クーポンでお得に予約する大人旅ガイド。',
   keywords: ["高原リゾート", "2026年最新", "那須", "清里", "裏磐梯の森の休日", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: '高原リゾート＆美食フレンチオーベルジュ×ふるさと納税完全ガイド【2026年最新】那須・清里・裏磐梯の森の休日',
+    title: '高原リゾート＆美食フレンチオーベルジュ×ふるさと納税厳選ガイド那須・清里・裏磐梯の森の休日',
     description: '澄んだ空気と木漏れ日の森で味わう極上フレンチコース！那須高原、八ヶ岳清里、裏磐梯など名門高原リゾート＆オーベルジュを楽天ふるさと納税宿泊クーポンでお得に予約する大人旅ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-highland-resort-french-auberge-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FurusatoTaxPage() {
           <span className="inline-block px-4 py-1.5 rounded-full text-xs md:text-sm font-black bg-gradient-to-r from-amber-500 to-yellow-400 text-slate-950 mb-5 shadow-lg shadow-amber-500/20">
             高原リゾート・森のフレンチ特集
           </span>
-          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">
-            高原リゾート＆フレンチオーベルジュ×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">高原リゾート＆フレンチオーベルジュ×ふるさと納税ガイド</h1>
           <p className="text-sm md:text-lg text-slate-300 leading-relaxed font-medium">
             澄んだ空気と木漏れ日の森で味わう極上フレンチコース！那須高原、八ヶ岳清里、裏磐梯など名門高原リゾート＆オーベルジュを楽天ふるさと納税宿泊クーポンでお得に予約する大人旅ガイド。
           </p>

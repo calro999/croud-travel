@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kyoto-arashiyama-bamboo-stay/" },
-  title: "【京都・嵐山】竹林の小径・渡月橋＆嵯峨野おこもり宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "京都・嵐山：竹林の小径・渡月橋＆嵯峨野おこもり宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "京都・嵐山エリア完全特化！渡月橋、竹林の小径、天龍寺、保津川下り周辺の徒歩観光ルートと、嵐山温泉・客室露天風呂付き旅館を徹底解説。",
   keywords: ["京都", "嵐山", "竹林の小径", "渡月橋", "嵯峨野おこもり宿", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             KYOTO ARASHIYAMA MICRO GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【京都・嵐山】竹林の小径・渡月橋＆嵯峨野おこもり宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「京都・嵐山」竹林の小径・渡月橋＆嵯峨野おこもり宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             早朝の静寂に包まれる竹林の小径、夕暮れに茜色に染まる渡月橋。京都・嵐山を心ゆくまで味わい尽くすための徒歩観光完全ルートと極上宿ガイド。
           </p>

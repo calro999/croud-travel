@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月長崎ハウステンボス】日本一1300万球「光の街の！名宿5選',
+  title: '長崎ハウステンボスで過ごす冬の旅（11・12月）！日本一1300万球「光の街の！名宿5選',
   description: '11月上旬から開幕する世界最大級1300万球の祭典「光の街のクリスマス」！高さ12mの巨大ツリー群、日本初の運河アイススケート、夜空を彩るクリスマス花火を堪能。直営クラシックホテルや源泉温泉付きリゾートで過ごす特別な冬休み。',
   keywords: 'ハウステンボス クリスマス, 光の街のクリスマス, ハウステンボス イルミネーション, ハウステンボス ホテル, ホテルヨーロッパ, ホテルアムステルダム, 長崎 冬旅行 11月 12月',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagasaki-huistenbosch-christmas-lights-stay/",
   },
   openGraph: {
-    title: '【11・12月長崎ハウステンボス】日本一1300万球「光の街の！名宿5選',
+    title: '長崎ハウステンボスで過ごす冬の旅（11・12月）！日本一1300万球「光の街の！名宿5選',
     description: '11月上旬から開幕する世界最大級1300万球の祭典「光の街のクリスマス」！高さ12mの巨大ツリー群、日本初の運河アイススケート、夜空を彩るクリスマス花火を堪能。直営クラシックホテルや源泉温泉付きリゾートで過ごす特別な冬休み。',
     url: 'https://croud-travel.pages.dev/winter-nagasaki-huistenbosch-christmas-lights-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月長崎ハウステンボス】日本一1300万球「光の街のクリスマス」とヨーロッパ風リゾート宿5選",
+    title: "長崎ハウステンボスで過ごす冬の旅（11・12月）！日本一1300万球「光の街のクリスマス」とヨーロッパ風リゾート宿5選",
     description: "11月上旬から開幕する世界最大級1300万球の祭典「光の街のクリスマス」！高さ12mの巨大ツリー群、日本初の運河アイススケート、夜空を彩るクリスマス花火を堪能。直営クラシックホテルや源泉温泉付きリゾートで過ごす特別な冬休み。",
   }
 };
@@ -266,10 +266,7 @@ export default function HuistenboschChristmasPage() {
             <Sparkles className="w-4 h-4 text-amber-300" />
             <span>日本一1,300万球の輝き 冬の特別リゾート特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月長崎ハウステンボス】<br className="hidden sm:inline" />
-            日本一1300万球「光の街のクリスマス」とヨーロッパ風リゾート宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">長崎ハウステンボスで過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 日本一1300万球「光の街のクリスマス」とヨーロッパ風リゾート宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             中世ヨーロッパのレンガ造りの街並みが、1300万球のまばゆい光で満たされる奇跡の季節。運河アイススケートやクリスマス花火に胸躍らせ、直営オフィシャルホテルの気品と温もりに包まれる至福の冬旅へ。
           </p>

@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '出格子の町家と宮川朝市！飛騨高山の古い町並み徒歩圏＆とろとろ美肌温泉・最高峰飛騨牛会席名宿×ふるさと納税完全攻略ガイド【2026年最新】花兆庵・花扇・光風館',
+  title: '出格子の町家と宮川朝市！飛騨高山の古い町並み徒歩圏＆とろとろ美肌温泉・最高峰飛騨牛会席名宿×ふるさと納税極上旅ガイド花兆庵・花扇・光風館',
   description: 'ミシュラン三ツ星の小京都・岐阜県飛騨高山！出格子の古い町並み、赤い中橋、宮川朝市。「本陣平野屋 花兆庵」「飛騨亭 花扇」「本陣平野屋 光風館」を、岐阜県高山市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。古い町並み徒歩1分、神代欅の木造美、A5ランク飛騨牛づくし会席を満喫。',
   keywords: ["とろとろ美肌温泉", "2026年最新", "花兆庵", "花扇", "光風館", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-hida-takayama-old-town-luxury-stay/",
   },
   openGraph: {
-    title: '出格子の町家と宮川朝市！飛騨高山の古い町並み徒歩圏＆とろとろ美肌温泉・最高峰飛騨牛会席名宿×ふるさと納税完全攻略ガイド【2026年最新】花兆庵・花扇・光風館',
+    title: '出格子の町家と宮川朝市！飛騨高山の古い町並み徒歩圏＆とろとろ美肌温泉・最高峰飛騨牛会席名宿×ふるさと納税極上旅ガイド花兆庵・花扇・光風館',
     description: 'ミシュラン三ツ星の小京都・岐阜県飛騨高山！出格子の古い町並み、赤い中橋、宮川朝市。「本陣平野屋 花兆庵」「飛騨亭 花扇」「本陣平野屋 光風館」を、岐阜県高山市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。古い町並み徒歩1分、神代欅の木造美、A5ランク飛騨牛づくし会席を満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-hida-takayama-old-town-luxury-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoHidaTakayamaStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           飛騨の匠の技とミシュラン三ツ星の町！岐阜県高山市特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          出格子の町家と宮川朝市！飛騨高山の古い町並み徒歩圏＆とろとろ美肌温泉・最高峰飛騨牛会席名宿×ふるさと納税完全攻略ガイド【2026年最新】花兆庵・花扇・光風館
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">出格子の町家と宮川朝市！飛騨高山の古い町並み徒歩圏＆とろとろ美肌温泉・最高峰飛騨牛会席名宿×ふるさと納税極上旅ガイド花兆庵・花扇・光風館</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoHidaTakayamaStayPage() {
               【高山陣屋】【古い町並】に最も近い宿。上質なおもてなしでさりげなく満たされる極上の時間をゆっくりと…
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “リピーターも大満足、食事と接客が素晴らしい昨年に引き続き今年はリピータとして9月4日に宿泊した60代と50代の夫婦です。総合評価は今回も大満足でした。来年も機会あえば是非とも利用したいと思いま… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D8327%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoHidaTakayamaStayPage() {
               天然温泉で神代欅をあしらった落ち着きの有る和風旅館
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “初めての利用で大満足、価格高騰が少し残念私は初めて行きましたがとってもよかったです!でも、インバウンドの影響でどんどん値段が上がってるみたいでなかなか行けなくなるのが悲しいです。ゆっくり、まったり… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D4711%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoHidaTakayamaStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               2026年4月より名称変更（旧：本陣平野屋別館）古い町並・陣屋前朝市まで徒歩1分！
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “食事も部屋も快適で立地も良く大満足食事も美味しく、部屋、風呂なども快適で大満足です。また、街歩きの基点として良好な基点で、立地も良いです。 ”
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

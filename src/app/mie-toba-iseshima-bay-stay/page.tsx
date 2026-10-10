@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/mie-toba-iseshima-bay-stay/" },
-  title: "【三重・鳥羽温泉郷】鳥羽水族館・ミキモト真珠島＆伊勢海老会席極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "三重・鳥羽温泉郷：鳥羽水族館・ミキモト真珠島＆伊勢海老会席極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "三重・鳥羽エリア完全特化！飼育種類数日本一の鳥羽水族館（ジュゴン）、ミキモト真珠島、鳥羽湾めぐり遊覧船、答志島・坂手島パノラマと本場伊勢海老・アワビ・牡蠣が味わえるオーシャンビュー温泉旅館を徹底解説。",
   keywords: ["三重", "鳥羽温泉郷", "鳥羽水族館", "ミキモト真珠島", "伊勢海老会席極上宿", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             TOBA BAY RESORT GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【三重・鳥羽温泉郷】鳥羽水族館・ミキモト真珠島＆伊勢海老会席極上宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「三重・鳥羽温泉郷」鳥羽水族館・ミキモト真珠島＆伊勢海老会席極上宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             リアス海岸の穏やかな鳥羽湾に浮かぶ島々。日本で唯一ジュゴンに逢える「鳥羽水族館」と真珠王・御木本幸吉の歴史。海を望む展望露天風呂で温まり、伊勢志摩の海の幸を心ゆくまで堪能する海辺の旅。
           </p>

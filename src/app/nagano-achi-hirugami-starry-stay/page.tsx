@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagano-achi-hirugami-starry-stay/" },
-  title: "【長野・阿智村＆昼神温泉】日本一の星空ナイトツアー・美肌名湯＆信州牛極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "長野・阿智村＆昼神温泉：日本一の星空ナイトツアー・美肌名湯＆信州牛極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "環境省認定「日本一の星空」長野阿智村＆昼神温泉エリア完全特化！天空の楽園ナイトツアー（ヘブンスそのはら）、pH9.7の強アルカリ性美肌温泉、春の花桃の里、信州プレミアム牛と隠れ家旅館を徹底解説。",
   keywords: ["長野", "阿智村", "昼神温泉", "日本一の星空ナイトツアー", "美肌名湯", "信州牛極上宿", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             ACHI STARRY SKY & HIRUGAMI GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【長野・阿智村＆昼神温泉】日本一の星空ナイトツアー・美肌名湯＆信州牛極上宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「長野・阿智村＆昼神温泉」日本一の星空ナイトツアー・美肌名湯＆信州牛極上宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             環境省が認定した日本一の星空の村「長野県阿智村」。標高1,400mの山頂へゴンドラで登り、合図とともに一斉に消灯される満天の天の川。pH9.7を誇る極上のとろとろ美肌湯「昼神温泉」と信州牛に癒やされる天空の旅。
           </p>

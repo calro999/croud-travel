@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/aomori-shimokita-osorezan-oma-stay/" },
-  title: "【青森・下北半島＆恐山・大間】本州最北端大間マグロ・日本三大霊場恐山宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "青森・下北半島＆恐山・大間：本州最北端大間マグロ・日本三大霊場恐山宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "本州最果ての秘境と黒いダイヤモンド・青森下北半島エリア完全特化！日本三大霊場「恐山（宇曽利湖・恐山温泉）」、本州最北端「大間崎・大間まぐろ一本釣り」、国の名勝「仏ヶ浦」、白濁硫黄泉「下風呂温泉郷宿」を徹底解説。",
   keywords: ["青森", "下北半島", "恐山", "大間", "本州最北端大間マグロ", "日本三大霊場恐山宿", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             SHIMOKITA & OMA GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【青森・下北半島＆恐山・大間】本州最北端大間マグロ・日本三大霊場恐山宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「青森・下北半島＆恐山・大間」本州最北端大間マグロ・日本三大霊場恐山宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             荒々しい津軽海峡の波頭と極楽浄土の白砂が交差する「下北半島」。硫黄の香りと風車が回る日本屈指の霊場・恐山。マグロ一本釣りの聖地・本州最北端大間崎。巨大な白緑色凝灰岩が連なる仏ヶ浦。名湯下風呂温泉で味わう本場大間マグロの旅。
           </p>

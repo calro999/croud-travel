@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-major-night-view-luxury-hotel-stay/" },
-  title: '日本三大夜景＆天空スカイラウンジホテル×ふるさと納税完全ガイド【2026年最新】長崎・神戸・函館の1000万ドル夜景ステイ',
+  title: '日本三大夜景＆天空スカイラウンジホテル×ふるさと納税厳選ガイド長崎・神戸・函館の1000万ドル夜景ステイ',
   description: '長崎稲佐山、神戸六甲山、函館山の日本新三大夜景・世界新三大夜景を一望する特等席ホテル！客室バルコニーや最上階スカイバーからきらめく光の海を眺める大人の記念日・ラグジュアリーステイを楽天ふるさと納税でお得に予約。',
   keywords: ["日本三大夜景", "2026年最新", "長崎", "神戸", "函館の1000万ドル夜景ステイ", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: '日本三大夜景＆天空スカイラウンジホテル×ふるさと納税完全ガイド【2026年最新】長崎・神戸・函館の1000万ドル夜景ステイ',
+    title: '日本三大夜景＆天空スカイラウンジホテル×ふるさと納税厳選ガイド長崎・神戸・函館の1000万ドル夜景ステイ',
     description: '長崎稲佐山、神戸六甲山、函館山の日本新三大夜景・世界新三大夜景を一望する特等席ホテル！客室バルコニーや最上階スカイバーからきらめく光の海を眺める大人の記念日・ラグジュアリーステイを楽天ふるさと納税でお得に予約。',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-major-night-view-luxury-hotel-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FurusatoTaxPage() {
           <span className="inline-block px-4 py-1.5 rounded-full text-xs md:text-sm font-black bg-gradient-to-r from-amber-500 to-yellow-400 text-slate-950 mb-5 shadow-lg shadow-amber-500/20">
             日本三大夜景・天空ラウンジ特集
           </span>
-          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">
-            日本三大夜景＆スカイラウンジホテル×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">日本三大夜景＆スカイラウンジホテル×ふるさと納税ガイド</h1>
           <p className="text-sm md:text-lg text-slate-300 leading-relaxed font-medium">
             長崎稲佐山、神戸六甲山、函館山の日本新三大夜景・世界新三大夜景を一望する特等席ホテル！客室バルコニーや最上階スカイバーからきらめく光の海を眺める大人の記念日・ラグジュアリーステイを楽天ふるさと納税でお得に予約。
           </p>

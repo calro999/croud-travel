@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-all-inclusive-luxury/" },
-  title: "【贅沢フリーフロー】お財布フリー！秋・冬の極上オールインクルーシブ宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "贅沢フリーフロー：お財布フリー！秋・冬の極上オールインクルーシブ宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "滞在中の飲食・アクティビティがすべて無料！神奈川・箱根、栃木・那須高原、静岡・東伊豆、宮城・作並秋保温泉など、生ビールや地酒、暖炉ラウンジの軽食を心ゆくまで堪能できる人気宿を徹底解説。",
   keywords: ["贅沢フリーフロー", "お財布フリー！秋", "冬の極上オールインクルーシブ宿", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -98,9 +98,7 @@ export default function SeasonalFeaturePage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             ALL-INCLUSIVE RESORT
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【贅沢フリーフロー】お財布フリー！秋・冬の極上オールインクルーシブ宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「贅沢フリーフロー」お財布フリー！秋・冬の極上オールインクルーシブ宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             チェックインした瞬間から始まるストレスフリーな極上時間。ウェルカムスイーツ、湯上がりの生ビール、バーラウンジの銘酒、豪華ディナーのドリンクまですべて宿泊代金込み。大人のおこもり贅沢ステイへ。
           </p>

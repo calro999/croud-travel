@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '清流のせせらぎと温もり足湯カフェ！ベーカリーテラス＆足湯散策リゾート温泉宿×ふるさと納税完全ガイド【2026年最新】伊豆吉奈・黒川温泉・上高地',
+  title: '清流のせせらぎと温もり足湯カフェ！ベーカリーテラス＆足湯散策リゾート温泉宿×ふるさと納税厳選ガイド伊豆吉奈・黒川温泉・上高地',
   description: '服を着たまま気軽に名湯の温もりと絶景を愉しむ！吉奈温泉の清流沿いに広がる名物足湯カフェ＆焼きたてベーカリー「東府や Resort＆Spa-Izu」、田の原川のせせらぎを望む足湯と大露天風呂仙人風呂「黒川温泉 やまびこ旅館」、北アルプスの絶景を仰ぐ樽風呂足湯と自家源泉かけ流し「上高地温泉ホテル」。美味しいスイーツやパンとともに癒やされる特別な休日を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
   keywords: ["2026年最新", "伊豆吉奈", "黒川温泉", "上高地", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: { canonical: baseUrl + '/furusato-tax-footbath-cafe-ashiyu-terrace-onsen-stay/' },
   openGraph: {
-    title: '清流のせせらぎと温もり足湯カフェ！ベーカリーテラス＆足湯散策リゾート温泉宿×ふるさと納税完全ガイド【2026年最新】伊豆吉奈・黒川温泉・上高地',
+    title: '清流のせせらぎと温もり足湯カフェ！ベーカリーテラス＆足湯散策リゾート温泉宿×ふるさと納税厳選ガイド伊豆吉奈・黒川温泉・上高地',
     description: '服を着たまま気軽に名湯の温もりと絶景を愉しむ！吉奈温泉の清流沿いに広がる名物足湯カフェ＆焼きたてベーカリー「東府や Resort＆Spa-Izu」、田の原川のせせらぎを望む足湯と大露天風呂仙人風呂「黒川温泉 やまびこ旅館」、北アルプスの絶景を仰ぐ樽風呂足湯と自家源泉かけ流し「上高地温泉ホテル」。美味しいスイーツやパンとともに癒やされる特別な休日を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
     url: baseUrl + '/furusato-tax-footbath-cafe-ashiyu-terrace-onsen-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoFootbathCafeAshiyuStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             清流足湯カフェ＆癒やしのベーカリーテラス宿特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            清流のせせらぎと温もり足湯カフェ！ベーカリーテラス＆足湯散策リゾート温泉宿×ふるさと納税完全ガイド【2026年最新】伊豆吉奈・黒川温泉・上高地
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">清流のせせらぎと温もり足湯カフェ！ベーカリーテラス＆足湯散策リゾート温泉宿×ふるさと納税厳選ガイド伊豆吉奈・黒川温泉・上高地</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             大浴場まで行かなくても、服を着たまま靴下を脱ぐだけで、気軽に温泉の温もりと効能を体感できる「足湯（あしゆ）」。近年、その足湯と洗練されたカフェやテラスが融合した「足湯カフェ＆ベーカリーテラス」が、女性旅やカップル、ファミリーの温泉旅行先として絶大な人気を集めています。足先を温かい名湯に浸しながら、目の前を流れる清流や豊かな森を眺め、自家製酵母で焼き上げた香ばしいパンや淹れたてのハンドドリップ珈琲、季節のスイーツを味わう時間は、まさに心身がとろけるような至福のひとときです。伊豆最古の温泉郷・吉奈の清流沿いに広がる三万六千坪の敷地に名物「ベーカリー＆カフェ足湯テラス」を擁する極上リゾート「東府や Resort＆Spa-Izu」、阿蘇・黒川温泉で田の原川のせせらぎを望む足湯と名物「仙人風呂」で温泉情緒を味わい尽くす「やまびこ旅館」、そして特別名勝・上高地の大自然の中で梓川の清流と北アルプスの山並みを望む屋外樽風呂足湯を備えた「上高地温泉ホテル」。日常の疲れを優しく解きほぐす癒やしの足湯テラス宿を、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を使って実質自己負担2,000円で賢く予約し、爽やかな休日へ出かけましょう。
           </p>

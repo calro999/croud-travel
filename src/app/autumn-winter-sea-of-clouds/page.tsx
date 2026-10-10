@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-sea-of-clouds/" },
-  title: "【天空の絶景】雲海テラス＆展望露天風呂の宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "天空の絶景：雲海テラス＆展望露天風呂の宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "足元に広がる雲の大海原！兵庫・竹田城跡、埼玉・秩父三峯、長野・竜王SORA terrace、熊本・阿蘇外輪山など、秋・冬の早朝に息をのむ雲海を望む絶景ホテル＆温泉旅館を徹底解説。",
   keywords: ["天空の絶景", "雲海テラス", "展望露天風呂の宿", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -98,9 +98,7 @@ export default function SeasonalFeaturePage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             SEA OF CLOUDS
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【天空の絶景】雲海テラス＆展望露天風呂の宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「天空の絶景」雲海テラス＆展望露天風呂の宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             冷え込んだ秋から初冬の早朝、限られた気象条件でのみ現れる幻想的な「雲海」。山頂テラスや客室のバルコニー、展望露天風呂から見下ろす白銀の雲海は、息をのむほどの感動をもたらします。
           </p>

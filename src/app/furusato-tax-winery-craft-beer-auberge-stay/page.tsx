@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-winery-craft-beer-auberge-stay/" },
-  title: '【ワイン＆地ビール×ふるさと納税】ぶどう畑を望むワイナリーホテル＆クラフト醸造オーベルジュ旅 | クラウドトラベル',
+  title: 'ワイン＆地ビールをふるさと納税でお得に旅する！ぶどう畑を望むワイナリーホテル＆クラフト醸造オーベルジュ旅 | クラウドトラベル',
   description: 'ワイン愛好家・クラフトビール派必見！山梨・勝沼、北海道・富良野＆余市のぶどう畑を一望するワイナリー併設宿や美食オーベルジュを厳選。テロワールを味わい尽くす大人の美酒ステイをふるさと納税で賢く予約。',
   openGraph: {
-    title: '【ワイン＆地ビール×ふるさと納税】ぶどう畑を望むワイナリーホテル＆クラフト醸造オーベルジュ旅 | クラウドトラベル',
+    title: 'ワイン＆地ビールをふるさと納税でお得に旅する！ぶどう畑を望むワイナリーホテル＆クラフト醸造オーベルジュ旅 | クラウドトラベル',
     description: 'ワイン愛好家・クラフトビール派必見！山梨・勝沼、北海道・富良野＆余市のぶどう畑を一望するワイナリー併設宿や美食オーベルジュを厳選。テロワールを味わい尽くす大人の美酒ステイをふるさと納税で賢く予約。',
     type: 'article',
   },
@@ -59,9 +59,7 @@ export default function Page() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             ふるさと納税×ワイナリーリゾート・クラフトビール宿
           </div>
-          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            【ワイン＆地ビール×ふるさと納税】ぶどう畑を望むワイナリーホテル＆クラフト醸造オーベルジュ旅
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">ワイン＆地ビールをふるさと納税でお得に旅する！ぶどう畑を望むワイナリーホテル＆クラフト醸造オーベルジュ旅</h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl mb-6">
             その土地の土壌、気候、日照、そして人の情熱が凝縮された「テロワール」。日本ワインの銘醸地として世界から注目を集める山梨・勝沼、雄大な大地に広がる北海道・富良野、そして冷涼な気候が育む最高峰のピノ・ノワールやシャルドネで知られる北海道・余市。一面に広がるぶどう畑をテラスから眺め、セラーから取り出されたばかりの限定ワインと、地元食材を極めたシェフ渾身のフレンチとのマリアージュに酔いしれる――お酒と美食を愛する旅人にとって、ワイナリー併設ホテルやオーベルジュへの滞在はまさに憧れの体験です。さらに楽天ふるさと納税のトラベルクーポンを活用すれば、宿泊代金の30％が補助され、実質負担を抑えてワンランク上のペアリングコース付きプランを選択可能。ほろ酔いの心地よさに包まれたまま客室のベッドへ倒れ込める、至福のワイナリーステイへご案内します。
           </p>

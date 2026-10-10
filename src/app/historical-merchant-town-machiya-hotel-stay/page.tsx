@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '【2026年】重要伝統的建造物群・蔵の町に泊まる！町全体がホテルになる分散型古民家ステイ5選 ｜ 日本全国・旅宿クラウド',
+  title: '2026年：重要伝統的建造物群・蔵の町に泊まる！町全体がホテルになる分散型古民家ステイ5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！篠山・竹田城下町・大洲・内子など、江戸・明治の商家や蔵をリノベーションした上質な分散型古民家ホテル5選。暮らすように旅する贅沢。',
   keywords: ["2026年", "重要伝統的建造物群", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/historical-merchant-town-machiya-hotel-stay/",
   },
   openGraph: {
-    title: '【2026年】重要伝統的建造物群・蔵の町に泊まる！町全体がホテルになる分散型古民家ステイ5選',
+    title: '2026年：重要伝統的建造物群・蔵の町に泊まる！町全体がホテルになる分散型古民家ステイ5選',
     description: '2026年最新！篠山・竹田城下町・大洲・内子など、江戸・明治の商家や蔵をリノベーションした上質な分散型古民家ホテル5選。暮らすように旅する贅沢。',
     url: 'https://croud-travel.pages.dev/historical-merchant-town-machiya-hotel-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -144,9 +144,7 @@ export default function Page() {
             <span>•</span>
             <span>商家町・蔵の町×分散型古民家ホテル</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            【2026年】重要伝統的建造物群・蔵の町に泊まる！町全体がホテルになる分散型古民家ステイ5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」重要伝統的建造物群・蔵の町に泊まる！町全体がホテルになる分散型古民家ステイ5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             白壁土蔵や格子の町家が連なる美しい歴史地区。町全体を一つのホテルに見立て、築100年以上の旧家や酒蔵、武家屋敷を上質な宿泊空間にリノベーション。地元の旬素材を活かしたフレンチ会席や、町歩きを楽しみながら日本の美しい暮らしを体感する新しい旅のかたち。
           </p>

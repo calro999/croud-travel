@@ -68,9 +68,7 @@ export default async function FeaturesPage() {
         <span className="inline-block text-[10px] font-extrabold tracking-widest bg-white/20 border border-white/30 px-3.5 py-1 rounded-full uppercase">
           EDITOR&apos;S PICK 💎
         </span>
-        <h1 className="text-2xl md:text-4xl font-black font-journal-serif leading-snug">
-          厳選！特集・まとめ記事一覧
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-black font-journal-serif leading-snug">厳選！特集・まとめ記事一覧</h1>
         <p className="text-teal-100/90 text-xs md:text-sm max-w-2xl leading-relaxed font-medium">
           「特別な記念日に行きたい高級旅館」や「赤ちゃん連れでも安心のウェルカムベビーのお宿。」「話題のサウナ付き絶景ホテル」など、旅の目的やテーマに合わせて厳選した最高品質のまとめ記事をお届けします。気になるタグをクリックして、あなたにぴったりの旅行プランを見つけてください。
         </p>

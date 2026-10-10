@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【静寂の竹林ライトアップ＆客室露天】風にそよぐ笹の音と美肌名湯に癒やされる隠れ宿5選",
+  title: "静寂の竹林ライトアップ＆客室露天：風にそよぐ笹の音と美肌名湯に癒やされる隠れ宿5選",
   description: "美しく手入れされた青竹の林に囲まれる静謐な空間！客室専用露天風呂やテラスから、夜の幻想的な竹林ライトアップを眺めながら極上の湯浴みを楽しめる風雅な名旅館を厳選紹介。",
   keywords: "竹林 露天風呂 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-bamboo-grove/",
   },
   openGraph: {
-    title: "【静寂の竹林ライトアップ＆客室露天】風にそよぐ笹の音と美肌名湯に癒やされる隠れ宿5選",
+    title: "静寂の竹林ライトアップ＆客室露天：風にそよぐ笹の音と美肌名湯に癒やされる隠れ宿5選",
     description: "美しく手入れされた青竹の林に囲まれる静謐な空間！客室専用露天風呂やテラスから、夜の幻想的な竹林ライトアップを眺めながら極上の湯浴みを楽しめる風雅な名旅館を厳選紹介。",
     url: 'https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-bamboo-grove',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【静寂の竹林ライトアップ＆客室露天】風にそよぐ笹の音と美肌名湯に癒やされる隠れ宿5選",
+    title: "静寂の竹林ライトアップ＆客室露天：風にそよぐ笹の音と美肌名湯に癒やされる隠れ宿5選",
     description: "美しく手入れされた青竹の林に囲まれる静謐な空間！客室専用露天風呂やテラスから、夜の幻想的な竹林ライトアップを眺めながら極上の湯浴みを楽しめる風雅な名旅館を厳選紹介。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>竹林ライトアップ＆客室露天風呂</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【静寂の竹林ライトアップ＆客室露天】風にそよぐ笹の音と美肌名湯に癒やされる隠れ宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「静寂の竹林ライトアップ＆客室露天」風にそよぐ笹の音と美肌名湯に癒やされる隠れ宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             美しく手入れされた青竹の林に囲まれる静謐な空間！客室専用露天風呂やテラスから、夜の幻想的な竹林ライトアップを眺めながら極上の湯浴みを楽しめる風雅な名旅館を厳選紹介。
           </p>

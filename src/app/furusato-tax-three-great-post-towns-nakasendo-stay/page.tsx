@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-post-towns-nakasendo-stay/" },
-  title: '日本三大宿場町＆木曽路の出桁造り・江戸の面影残す街道名宿×ふるさと納税完全ガイド【2026年最新】妻籠宿・馬籠宿・奈良井宿',
+  title: '日本三大宿場町＆木曽路の出桁造り・江戸の面影残す街道名宿×ふるさと納税厳選ガイド妻籠宿・馬籠宿・奈良井宿',
   description: 'タイムスリップしたかのような木曽路の町並み！長野木曽「妻籠宿」電線地中化で守られた日本初の重要伝統的建造物群保存地区とおん宿蔦屋、岐阜中津川「馬籠宿」坂道に沿って石畳が続く島崎藤村の故郷と天然温泉ホテル花更紗、長野塩尻「奈良井宿」奈良井千軒の壮麗な出桁造りと歴史の宿場町御宿伊勢屋。木曽檜の薫り、信州そば、木曽牛すき焼きを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大宿場町・中山道街道特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大宿場町＆木曽路の出桁造り・江戸の面影残す街道名宿×ふるさと納税完全ガイド【2026年最新】妻籠宿・馬籠宿・奈良井宿',
+    title: '日本三大宿場町＆木曽路の出桁造り・江戸の面影残す街道名宿×ふるさと納税厳選ガイド妻籠宿・馬籠宿・奈良井宿',
     description: 'タイムスリップしたかのような木曽路の町並み！長野木曽「妻籠宿」電線地中化で守られた日本初の重要伝統的建造物群保存地区とおん宿蔦屋、岐阜中津川「馬籠宿」坂道に沿って石畳が続く島崎藤村の故郷と天然温泉ホテル花更紗、長野塩尻「奈良井宿」奈良井千軒の壮麗な出桁造りと歴史の宿場町御宿伊勢屋。木曽檜の薫り、信州そば、木曽牛すき焼きを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-post-towns-nakasendo-stay',
@@ -154,9 +154,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大宿場町・中山道街道特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大宿場町＆木曽路の出桁造り・街道名宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大宿場町＆木曽路の出桁造り・街道名宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             深い山々に抱かれた中山道六十九次のうち、木曽谷を貫く「木曽路十一宿」のなかでも当時の面影を最も色濃く残す「日本三大宿場町」――保存運動の先駆けとして電柱をなくし江戸の街並みをそのまま今に伝える長野の「妻籠宿」、急勾配の坂道に敷かれた石畳の両脇に水車や旅籠が並び文豪・島崎藤村生誕の地としても名高い岐阜の「馬籠宿」、そして「奈良井千軒」と称され約1キロメートルにわたって出桁造りの町家がずらりと連なる長野の「奈良井宿」。夕暮れ時に行灯が灯る宿場をそぞろ歩き、木曽檜の湯に浸かり、信州の山の恵みを味わう情緒あふれる旅を楽天ふるさと納税でお楽しみください。
           </p>

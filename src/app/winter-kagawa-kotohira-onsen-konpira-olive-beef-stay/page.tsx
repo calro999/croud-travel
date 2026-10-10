@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月ことひら温泉郷】初冬の金刀比羅宮門前名湯！名宿5選',
+  title: 'ことひら温泉郷で過ごす冬の旅（11・12月）！初冬の金刀比羅宮門前名湯！名宿5選',
   description: '11月から12月にかけて香川県・琴平町は、空気が澄み渡り讃岐富士（飯野山）や讃岐平野の美しい冬景色が広がる。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: 'ことひら温泉 宿泊, 金刀比羅宮 11月 12月, こんぴら温泉 宿, 紅梅亭, 桜の抄, 敷島館, 湯元八千代, 琴参閣, 讃岐オリーブ牛, 讃岐うどん, 香川 温泉 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kagawa-kotohira-onsen-konpira-olive-beef-stay/",
   },
   openGraph: {
-    title: '【11・12月ことひら温泉郷】初冬の金刀比羅宮門前名湯！名宿5選',
+    title: 'ことひら温泉郷で過ごす冬の旅（11・12月）！初冬の金刀比羅宮門前名湯！名宿5選',
     description: '11月から12月にかけて香川県・琴平町は、空気が澄み渡り讃岐富士（飯野山）や讃岐平野の美しい冬景色が広がる。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-kagawa-kotohira-onsen-konpira-olive-beef-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月ことひら温泉郷のこんぴら参りと讃岐富士冬絶景】初冬の金刀比羅宮門前名湯・讃岐オリーブ牛ステーキ＆本場手打ち讃岐うどん会席の宿5選",
+    title: "ことひら温泉郷のこんぴら参りと讃岐富士冬絶景で過ごす冬の旅（11・12月）！初冬の金刀比羅宮門前名湯・讃岐オリーブ牛ステーキ＆本場手打ち讃岐うどん会席の宿5選",
     description: "11月から12月にかけて香川県・琴平町は、空気が澄み渡り讃岐富士（飯野山）や讃岐平野の美しい冬景色が広がる、年間で最も快適に金刀比羅宮の石段（御本宮785段・奥社1368段）を登れる参拝のベストシーズンを迎えます。参拝後にじんわりと足の疲れを癒やす門前町の天然温泉露天風呂、初冬の澄んだ夜空を仰ぐ展望露天、小豆島のオリーブ粕で育った香川最高峰の黒毛和牛「讃岐オリーブ牛」の鉄板焼きや陶板ステーキ、伊吹島産いりこ出汁が香る本場手打ち讃岐うどん、瀬戸内の冬真鯛を堪能する名宿5選を徹底解説。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80'],
   }
@@ -222,9 +222,7 @@ export default function KotohiraOnsenWinterPage() {
             <span>11月・12月 冬の香川・琴平 ことひら温泉郷特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月ことひら温泉郷のこんぴら参りと讃岐富士冬絶景】初冬の金刀比羅宮門前名湯・讃岐オリーブ牛ステーキ＆本場手打ち讃岐うどん会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">ことひら温泉郷のこんぴら参りと讃岐富士冬絶景で過ごす冬の旅（11・12月）！初冬の金刀比羅宮門前名湯・讃岐オリーブ牛ステーキ＆本場手打ち讃岐うどん会席の宿5選</h1>
 
           <p className="text-sm sm:text-base lg:text-lg text-slate-300 leading-relaxed max-w-4xl">
             11月から12月にかけて香川県・琴平町は、空気が澄み渡り讃岐富士（飯野山）や讃岐平野の美しい冬景色が広がる、年間で最も快適に金刀比羅宮の石段（御本宮785段・奥社1368段）を登れる参拝のベストシーズンを迎えます。参拝後にじんわりと足の疲れを癒やす門前町の天然温泉露天風呂、初冬の澄んだ夜空を仰ぐ展望露天、小豆島のオリーブ粕で育った香川最高峰の黒毛和牛「讃岐オリーブ牛」の鉄板焼きや陶板ステーキ、伊吹島産いりこ出汁が香る本場手打ち讃岐うどん、瀬戸内の冬真鯛を堪能する名宿を厳選してご紹介します。

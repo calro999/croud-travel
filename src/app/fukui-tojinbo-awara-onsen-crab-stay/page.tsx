@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/fukui-tojinbo-awara-onsen-crab-stay/" },
-  title: "【福井・東尋坊＆あわら温泉】日本海断崖絶壁・越前ガニ宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "福井・東尋坊＆あわら温泉：日本海断崖絶壁・越前ガニ宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "世界三大奇勝・国の天然記念物「東尋坊」の柱状節理断崖絶壁パノラマ、関西の奥座敷「あわら温泉」の74本もの源泉湯巡り、北陸最高峰の冬の味覚・三国港直送の黄色タグ付き「越前ガニ」を徹底解説。名門温泉旅館や海鮮美食宿を厳選。",
   keywords: ["福井", "東尋坊", "あわら温泉", "日本海断崖絶壁", "越前ガニ宿", "温泉宿", "宿泊予約"],
 };
@@ -92,9 +92,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             TOJINBO & AWARA ONSEN GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【福井・東尋坊＆あわら温泉・三国】日本海柱状節理断崖・黄色タグ越前ガニ宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「福井・東尋坊＆あわら温泉・三国」日本海柱状節理断崖・黄色タグ越前ガニ宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-teal-100/90 leading-relaxed">
             日本海の荒波が削り出した巨大な柱状節理の断崖が1kmにわたって続く世界的景勝地「東尋坊」。夕暮れ時に日本海へと沈む息をのむような夕陽と、明治期より関西の文人墨客に「奥座敷」として愛された名湯「あわら温泉」。冬には福井県が誇る最高峰ブランド・三国港水揚げの「越前ガニ」の贅を味わい尽くす、北陸・福井の極上旅へご案内します。
           </p>

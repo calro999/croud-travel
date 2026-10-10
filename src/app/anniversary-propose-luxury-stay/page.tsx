@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/anniversary-propose-luxury-stay/" },
-  title: "【記念日・プロポーズ極上宿】夜景スイート・サプライズ演出＆フレンチフルコース 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "記念日・プロポーズ極上宿：夜景スイート・サプライズ演出＆フレンチフルコース 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "大切な記念日・誕生日・プロポーズ完全特化！最上階パノラマ夜景スイートルーム、シャンパン＆ホールケーキ、100本のバラ花束サプライズ手配、ミシュラン星付きシェフ監修フレンチと一生に一度の感動宿を徹底解説。",
   keywords: ["記念日", "プロポーズ極上宿", "夜景スイート", "サプライズ演出", "フレンチフルコース", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function TargetAudienceHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             ANNIVERSARY & PROPOSE GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【記念日・プロポーズ極上宿】夜景スイート・サプライズ演出＆フレンチフルコース 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「記念日・プロポーズ極上宿」夜景スイート・サプライズ演出＆フレンチフルコース 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             二人の特別な日を最高の感動で彩るアニバーサリーステイ！息をのむ大パノラマ夜景を望むラグジュアリースイート、ベッドルームへの花束やバルーンデコレーションサプライズ、記憶に残る極上ディナーへ。
           </p>

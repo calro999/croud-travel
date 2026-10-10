@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【爽快アクティビティ】森と渓谷を空中滑走ジップライン！自然体験＆温泉が楽しめる大自然リゾート宿5選",
+  title: "爽快アクティビティ：森と渓谷を空中滑走ジップライン！自然体験＆温泉が楽しめる大自然リゾート宿5選",
   description: "大自然の渓谷や森林の上空を一気に滑走するメガジップライン！爽快なアドベンチャー体験と、疲れた体を癒やす天然温泉・絶景露天風呂を兼ね備えた人気リゾートホテルを厳選紹介。カップルやファミリーにも最適！",
   keywords: "アドベンチャー リゾート ホテル, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/super-panoramic-canyon-zip-line-adventure-stay/",
   },
   openGraph: {
-    title: "【爽快アクティビティ】森と渓谷を空中滑走ジップライン！自然体験＆温泉が楽しめる大自然リゾート宿5選",
+    title: "爽快アクティビティ：森と渓谷を空中滑走ジップライン！自然体験＆温泉が楽しめる大自然リゾート宿5選",
     description: "大自然の渓谷や森林の上空を一気に滑走するメガジップライン！爽快なアドベンチャー体験と、疲れた体を癒やす天然温泉・絶景露天風呂を兼ね備えた人気リゾートホテルを厳選紹介。カップルやファミリーにも最適！",
     url: 'https://croud-travel.pages.dev/super-panoramic-canyon-zip-line-adventure-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【爽快アクティビティ】森と渓谷を空中滑走ジップライン！自然体験＆温泉が楽しめる大自然リゾート宿5選",
+    title: "爽快アクティビティ：森と渓谷を空中滑走ジップライン！自然体験＆温泉が楽しめる大自然リゾート宿5選",
     description: "大自然の渓谷や森林の上空を一気に滑走するメガジップライン！爽快なアドベンチャー体験と、疲れた体を癒やす天然温泉・絶景露天風呂を兼ね備えた人気リゾートホテルを厳選紹介。カップルやファミリーにも最適！",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>空中ジップライン＆温泉</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【爽快アクティビティ】森と渓谷を空中滑走ジップライン！自然体験＆温泉が楽しめる大自然リゾート宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「爽快アクティビティ」森と渓谷を空中滑走ジップライン！自然体験＆温泉が楽しめる大自然リゾート宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             大自然の渓谷や森林の上空を一気に滑走するメガジップライン！爽快なアドベンチャー体験と、疲れた体を癒やす天然温泉・絶景露天風呂を兼ね備えた人気リゾートホテルを厳選紹介。カップルやファミリーにも最適！
           </p>

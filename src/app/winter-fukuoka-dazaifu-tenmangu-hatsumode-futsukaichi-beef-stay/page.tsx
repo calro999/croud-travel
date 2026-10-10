@@ -5,14 +5,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, Sparkles, Calendar, Utensils, Compass, ExternalLink, Snowflake, Flame, Building, ThermometerSun } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月福岡】万葉の古湯二日市温泉と博多和牛の！名宿5選',
+  title: '11・12・1月福岡：万葉の古湯二日市温泉と博多和牛の！名宿5選',
   description: '11月から1月、福岡・太宰府は本格的な受験シーズンの合格祈願と、新春三が日に200万人以上が訪れる日本屈指の初詣で最も熱気と神気に包まれる季。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '太宰府天満宮 初詣 混雑, 太宰府 合格祈願 宿泊, 梅ヶ枝餅 名物, 二日市温泉 旅館, 博多和牛 宿, 大丸別荘, HOTEL CULTIA 太宰府, ルートイングランティア太宰府, 扇屋旅館, 二日市グリーンホテル, 11月 12月 1月 福岡旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukuoka-dazaifu-tenmangu-hatsumode-futsukaichi-beef-stay/"
   },
   openGraph: {
-    title: '【11・12・1月福岡】万葉の古湯二日市温泉と博多和牛の！名宿5選',
+    title: '11・12・1月福岡：万葉の古湯二日市温泉と博多和牛の！名宿5選',
     description: '11月から1月、福岡・太宰府は本格的な受験シーズンの合格祈願と、新春三が日に200万人以上が訪れる日本屈指の初詣で最も熱気と神気に包まれる季。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-fukuoka-dazaifu-tenmangu-hatsumode-futsukaichi-beef-stay',
     type: 'article',
@@ -233,12 +233,7 @@ export default function FukuokaDazaifuFutsukaichiPage() {
             11月・12月・1月 冬の学業成就・新春200万人初詣＆万葉名湯特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-tight sm:leading-snug text-stone-100 font-serif">
-            天神さまの祈りと熱々梅ヶ枝餅、万葉の古湯<br />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-200 via-sky-200 to-amber-200">
-              太宰府天満宮合格祈願・初詣＆二日市温泉・博多和牛の名宿
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-tight sm:leading-snug text-stone-100 font-serif">天神さまの祈りと熱々梅ヶ枝餅、万葉の古湯<br /> <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-200 via-sky-200 to-amber-200"> 太宰府天満宮合格祈願・初詣＆二日市温泉・博多和牛の名宿 </span></h1>
 
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed max-w-3xl mx-auto font-light">
             学問の神様・菅原道真公を祀る全国総本宮「太宰府天満宮」。受験合格祈願と200万人が集う新春初詣の熱気、話題の仮殿と早咲きの御神木「飛梅」、香ばしい名物「梅ヶ枝餅」。そして万葉集にも詠まれた開湯1300年の名湯「二日市温泉」と極上「博多和牛」に癒やされる珠玉の冬旅へご案内します。

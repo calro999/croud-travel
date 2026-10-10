@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tottori-kaike-solo-retreat-ocean-onsen-stay/" },
-  title: '【皆生温泉ひとり旅・日本海オーシャンおこもり】弓ヶ浜パノラマ・美肌塩化物泉・境港松葉ガニ！「米子の奥座敷」で癒やされる厳選3宿',
+  title: '皆生温泉ひとり旅・日本海オーシャンおこもり：弓ヶ浜パノラマ・美肌塩化物泉・境港松葉ガニ！「米子の奥座敷」で癒やされる厳選3宿',
   description: '山陰屈指の海辺の温泉郷・皆生！海に浮かぶような絶景露天風呂と最高峰の会席が評判の「皆生松月」、日本海一望の客室と海鮮会席が自慢の「皆生菊乃家」、全室オーシャンビュー＆展望風呂付き客室の「湯喜望 白扇」を楽天API最新データに基づき徹底比較。',
   keywords: '皆生温泉 一人旅 宿,皆生 ホテル 一人 温泉,皆生松月,皆生菊乃家,湯喜望 白扇,皆生温泉 ひとり旅 おこもり',
   openGraph: {
-    title: '【皆生温泉ひとり旅・日本海オーシャンおこもり】弓ヶ浜パノラマ・美肌塩化物泉・境港松葉ガニ！「米子の奥座敷」で癒やされる厳選3宿',
+    title: '皆生温泉ひとり旅・日本海オーシャンおこもり：弓ヶ浜パノラマ・美肌塩化物泉・境港松葉ガニ！「米子の奥座敷」で癒やされる厳選3宿',
     description: '山陰屈指の海辺の温泉郷・皆生！海に浮かぶような絶景露天風呂と最高峰の会席が評判の「皆生松月」、日本海一望の客室と海鮮会席が自慢の「皆生菊乃家」、全室オーシャンビュー＆展望風呂付き客室の「湯喜望 白扇」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/tottori-kaike-solo-retreat-ocean-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【皆生温泉ひとり旅・日本海オーシャンおこもり】弓ヶ浜パノラマ・美肌塩化物泉・境港松葉ガニ！「米子の奥座敷」で癒やされる厳選3宿',
+    headline: '皆生温泉ひとり旅・日本海オーシャンおこもり：弓ヶ浜パノラマ・美肌塩化物泉・境港松葉ガニ！「米子の奥座敷」で癒やされる厳選3宿',
     description: '山陰屈指の海辺の温泉郷・皆生！海に浮かぶような絶景露天風呂と最高峰の会席が評判の「皆生松月」、日本海一望の客室と海鮮会席が自慢の「皆生菊乃家」、全室オーシャンビュー＆展望風呂付き客室の「湯喜望 白扇」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             鳥取・皆生温泉ひとり旅＆日本海オーシャンおこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【皆生温泉ひとり旅・日本海オーシャンおこもり】弓ヶ浜パノラマ・美肌塩化物泉・境港松葉ガニ！「米子の奥座敷」で癒やされる厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「皆生温泉ひとり旅・日本海オーシャンおこもり」弓ヶ浜パノラマ・美肌塩化物泉・境港松葉ガニ！「米子の奥座敷」で癒やされる厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

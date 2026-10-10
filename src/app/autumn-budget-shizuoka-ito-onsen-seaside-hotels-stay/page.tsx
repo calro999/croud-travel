@@ -3,11 +3,11 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【秋の伊東温泉×格安】伊豆高原の紅葉とオーシャンビュー！1泊4,000円台〜のコスパ最強おすすめ温泉宿5選【2026最新】',
+  title: '秋の伊東温泉×格安：伊豆高原の紅葉とオーシャンビュー！1泊4,000円台〜のコスパ最強おすすめ温泉宿5選「2026最新」',
   description: '東京から踊り子号で一本！相模湾を望む伊東温泉と大室山・一碧湖の紅葉散策。源泉かけ流しの美肌温泉や海の幸バイキング付きでも1泊4,000円〜7,000円台で泊まれる格安名宿5選。ホテルよしの、ラヴィエ川良、松川館などを徹底比較！',
   keywords: '伊東温泉 格安 宿, 伊豆 格安 温泉 ホテル, 一碧湖 紅葉, 大室山 秋, ホテルよしの 伊東, ホテルラヴィエ川良',
   openGraph: {
-    title: '【秋の伊東温泉×格安】伊豆高原の紅葉とオーシャンビュー！1泊4,000円台〜のコスパ最強おすすめ温泉宿5選【2026最新】',
+    title: '秋の伊東温泉×格安：伊豆高原の紅葉とオーシャンビュー！1泊4,000円台〜のコスパ最強おすすめ温泉宿5選「2026最新」',
     description: '東京から特急で一本！相模湾の海の幸と源泉かけ流し温泉付き1泊4,000円台〜のコスパ最強おすすめ宿5選。',
     type: 'article',
     url: 'https://croud-travel.com/autumn-budget-shizuoka-ito-onsen-seaside-hotels-stay',
@@ -32,9 +32,7 @@ export default function ItoBudgetAutumnPage() {
             <span className="px-3 py-1 bg-teal-600 text-white text-xs font-bold rounded-full">格安・伊豆特集</span>
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">1泊目安: 4,000円台〜7,000円台</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">
-            【秋の伊東温泉×格安】伊豆高原の紅葉とオーシャンビュー！1泊4,000円台〜のコスパ最強おすすめ温泉宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の伊東温泉×格安」伊豆高原の紅葉とオーシャンビュー！1泊4,000円台〜のコスパ最強おすすめ温泉宿5選</h1>
           <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
             首都圏から好アクセスで毎分3万リットル以上の湧出量を誇る伊東温泉。「伊豆の瞳」一碧湖の鮮やかな紅葉や大室山のすすき草原を巡り、豊富な天然温泉をお財布に優しい価格で堪能できる厳選宿をご紹介します。
           </p>

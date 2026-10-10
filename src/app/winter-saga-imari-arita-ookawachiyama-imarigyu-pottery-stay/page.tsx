@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { MapPin, Calendar, ExternalLink, HelpCircle, ChevronRight, ShieldCheck, Sparkles } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【秘窯の里大川内山と最高峰伊万里牛】2026-2027年冬の佐賀・伊万里＆有田！名窯巡りと美食名宿5選 | クラウドトラベル',
+  title: '秘窯の里大川内山と最高峰伊万里牛：2026-2027年冬の佐賀・伊万里＆有田！名窯巡りと美食名宿5選 | クラウドトラベル',
   description: '静寂に包まれる鍋島藩窯の里「大川内山」の冬景色と有田・陶山神社の新春初詣！日本屈指の黒毛和牛「伊万里牛」の極上すき焼き・ステーキ、源泉掛け流し温泉で心身を解きほぐす至福の冬旅おすすめ名宿5選。',
   keywords: ['佐賀県冬旅行', '伊万里・有田・西松浦', '冬温泉', '2026', '2027', '雪景色', '冬の味覚', '楽天トラベル', 'ふるさと納税'],
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-saga-imari-arita-ookawachiyama-imarigyu-pottery-stay',
   },
   openGraph: {
-    title: '【秘窯の里大川内山と最高峰伊万里牛】2026-2027年冬の佐賀・伊万里＆有田！名窯巡りと美食名宿5選',
+    title: '秘窯の里大川内山と最高峰伊万里牛：2026-2027年冬の佐賀・伊万里＆有田！名窯巡りと美食名宿5選',
     description: '静寂に包まれる鍋島藩窯の里「大川内山」の冬景色と有田・陶山神社の新春初詣！日本屈指の黒毛和牛「伊万里牛」の極上すき焼き・ステーキ、源泉掛け流し温泉で心身を解きほぐす至福の冬旅おすすめ名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-saga-imari-arita-ookawachiyama-imarigyu-pottery-stay',
     siteName: 'クラウドトラベル',
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: '【秘窯の里大川内山と最高峰伊万里牛】2026-2027年冬の佐賀・伊万里＆有田！名窯巡りと美食名宿5選',
+    title: '秘窯の里大川内山と最高峰伊万里牛：2026-2027年冬の佐賀・伊万里＆有田！名窯巡りと美食名宿5選',
     description: '静寂に包まれる鍋島藩窯の里「大川内山」の冬景色と有田・陶山神社の新春初詣！日本屈指の黒毛和牛「伊万里牛」の極上すき焼き・ステーキ、源泉掛け流し温泉で心身を解きほぐす至福の冬旅おすすめ名宿5選。',
   },
 };
@@ -128,9 +128,7 @@ export default function Page() {
             </span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-stone-900 leading-tight">
-            【秘窯の里大川内山と最高峰伊万里牛】2026-2027年冬の佐賀・伊万里＆有田！名窯巡りと美食名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-stone-900 leading-tight">「秘窯の里大川内山と最高峰伊万里牛」2026-2027年冬の佐賀・伊万里＆有田！名窯巡りと美食名宿5選</h1>
 
           <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pt-1">
             静寂に包まれる鍋島藩窯の里「大川内山」の冬景色と有田・陶山神社の新春初詣！日本屈指の黒毛和牛「伊万里牛」の極上すき焼き・ステーキ、源泉掛け流し温泉で心身を解きほぐす至福の冬旅おすすめ名宿5選。

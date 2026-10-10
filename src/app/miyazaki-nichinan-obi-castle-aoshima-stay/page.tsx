@@ -5,11 +5,11 @@ import Image from 'next/image';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/miyazaki-nichinan-obi-castle-aoshima-stay/" },
-  title: '【宮崎・日南＆青島】青島神社・サンメッセ日南モアイ＆飫肥城下町・地頭鶏宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+  title: '宮崎・日南＆青島：青島神社・サンメッセ日南モアイ＆飫肥城下町・地頭鶏宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
   description: '青い海に浮かぶ神話の小島「青島神社」と天然記念物「鬼の洗濯板」、イースター島公認の完全復刻モアイ像「サンメッセ日南」、断崖絶壁の洞窟に鎮座する「鵜戸神宮」運玉投げ、九州の小京都「飫肥城下町」飫肥杉武家屋敷と宮崎地頭鶏・伊勢海老宿を徹底解説。',
   keywords: ["宮崎", "日南", "青島", "青島神社", "サンメッセ日南モアイ", "飫肥城下町", "地頭鶏宿"],
   openGraph: {
-    title: '【宮崎・日南＆青島】青島神社・サンメッセ日南モアイ＆飫肥城下町・地頭鶏宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+    title: '宮崎・日南＆青島：青島神社・サンメッセ日南モアイ＆飫肥城下町・地頭鶏宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
     description: '青い海に浮かぶ神話の小島「青島神社」と天然記念物「鬼の洗濯板」、イースター島公認の完全復刻モアイ像「サンメッセ日南」、断崖絶壁の洞窟に鎮座する「鵜戸神宮」運玉投げ、九州の小京都「飫肥城下町」飫肥杉武家屋敷と宮崎地頭鶏・伊勢海老宿を徹底解説。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/miyazaki-nichinan-obi-castle-aoshima-stay',
@@ -50,9 +50,7 @@ export default function Page() {
             <span>🗺️</span>
             <span>NICHINAN, OBI & AOSHIMA GUIDE</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">
-            【宮崎・日南海岸＆飫肥城下町・青島】鬼の洗濯板・モアイ像＆飫肥武家屋敷宿 完全ガイド
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">「宮崎・日南海岸＆飫肥城下町・青島」鬼の洗濯板・モアイ像＆飫肥武家屋敷宿 厳選ガイド</h1>
           <p className="max-w-3xl mx-auto text-stone-300 text-sm sm:text-base md:text-lg leading-relaxed mb-8">
             南国のフェニックス並木とコバルトブルーの太平洋がどこまでも続く「日南フェニックスロード」。海上の奇岩「鬼の洗濯板」に抱かれた神話の島「青島」。イースター島長老会から世界で唯一公式に復刻を認められた7体のモアイ像が海を見つめる「サンメッセ日南」。太平洋の荒波が打ち寄せる断崖の洞窟「鵜戸神宮」。そして飫肥杉と石垣が美しき武家屋敷の風情を残す九州の小京都「飫肥城下町」。南国の光と歴史ロマンあふれる宮崎・日南ステイへご案内します。
           </p>

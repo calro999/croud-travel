@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【帯広】十勝平野の実りの秋と名物豚丼！植物性モール温泉・2,000円台〜ホテル5選',
+  title: '帯広：十勝平野の実りの秋と名物豚丼！植物性モール温泉・2,000円台〜ホテル5選',
   description: '黄金色に輝く十勝平野のカラマツ紅葉と秋の収穫祭！炭火香る甘辛タレの名物十勝豚丼と、世界でも希少な美肌の「植物性モール温泉」。帯広駅前で1泊2,000円台〜4,000円台の高評価宿5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetObihiroHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>十勝の実りの秋収穫祭＆美肌モール温泉</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【帯広】十勝の実りとモール温泉＆本場豚丼！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「帯広」十勝の実りとモール温泉＆本場豚丼！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-orange-100/90 max-w-2xl mx-auto leading-relaxed">
             雄大な日高山脈を背景にパッチワークのような畑が広がる十勝平野。秋は新じゃが、小麦、チーズ、十勝牛など日本一の食糧基地が実りのピーク！世界的に珍しい植物性モール温泉でツルツルの美肌湯を堪能し、夜は香ばしい炭火焼きの「十勝豚丼」や屋台村へ！2,000円台〜の優良宿を厳選。
           </p>

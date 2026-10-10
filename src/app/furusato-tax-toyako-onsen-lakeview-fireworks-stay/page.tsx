@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【洞爺湖温泉×ふるさと納税】ロングラン花火＆湖上インフィニティスパ！絶景リゾート特集｜ウィンザーホテル洞爺・湖の栖・サンパレス',
+  title: '洞爺湖温泉をふるさと納税でお得に旅する！ロングラン花火＆湖上インフィニティスパ！絶景リゾート特集｜ウィンザーホテル洞爺・湖の栖・サンパレス',
   description: '北海道屈指のカルデラ湖畔・洞爺湖町＆壮瞥町を楽天ふるさと納税でお得に極上ステイ！山頂から湖と海を一望する世界的サミットホテル「ザ・ウィンザーホテル洞爺」、全室客室温泉露天風呂付き「ザ・レイクスイート 湖の栖」、広大な温泉ビーチの「洞爺サンパレス リゾート＆スパ」を徹底比較。ロングラン花火大会やトラベルクーポン活用術を網羅。',
   keywords: '洞爺湖温泉 ふるさと納税,ウィンザーホテル洞爺 クーポン,湖の栖 ふるさと納税 洞爺,洞爺サンパレス 宿泊,洞爺湖町 ふるさと納税 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-toyako-onsen-lakeview-fireworks-stay/",
   },
   openGraph: {
-    title: '【洞爺湖温泉×ふるさと納税】ロングラン花火＆湖上インフィニティスパ！絶景リゾート特集｜ウィンザーホテル洞爺・湖の栖・サンパレス',
+    title: '洞爺湖温泉をふるさと納税でお得に旅する！ロングラン花火＆湖上インフィニティスパ！絶景リゾート特集｜ウィンザーホテル洞爺・湖の栖・サンパレス',
     description: '北海道屈指のカルデラ湖畔・洞爺湖町＆壮瞥町を楽天ふるさと納税でお得に極上ステイ！山頂から湖と海を一望する世界的サミットホテル「ザ・ウィンザーホテル洞爺」、全室客室温泉露天風呂付き「ザ・レイクスイート 湖の栖」、広大な温泉ビーチの「洞爺サンパレス リゾート＆スパ」を徹底比較。ロングラン花火大会やトラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-toyako-onsen-lakeview-fireworks-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -24,7 +24,7 @@ export default function FurusatoArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【洞爺湖温泉×ふるさと納税】ロングラン花火＆湖上インフィニティスパ！絶景リゾート特集｜ウィンザーホテル洞爺・湖の栖・サンパレス',
+    headline: '洞爺湖温泉をふるさと納税でお得に旅する！ロングラン花火＆湖上インフィニティスパ！絶景リゾート特集｜ウィンザーホテル洞爺・湖の栖・サンパレス',
     description: '北海道屈指のカルデラ湖畔・洞爺湖町＆壮瞥町を楽天ふるさと納税でお得に極上ステイ！山頂から湖と海を一望する世界的サミットホテル「ザ・ウィンザーホテル洞爺」、全室客室温泉露天風呂付き「ザ・レイクスイート 湖の栖」、広大な温泉ビーチの「洞爺サンパレス リゾート＆スパ」を徹底比較。ロングラン花火大会やトラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function FurusatoArticlePage() {
           <span>♨️</span>
           <span>北海道洞爺湖町・壮瞥町 ふるさと納税・名湯宿特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【洞爺湖温泉×ふるさと納税】ロングラン花火＆湖上インフィニティスパ！絶景リゾート特集｜ウィンザーホテル洞爺・湖の栖・サンパレス
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">洞爺湖温泉をふるさと納税でお得に旅する！ロングラン花火＆湖上インフィニティスパ！絶景リゾート特集｜ウィンザーホテル洞爺・湖の栖・サンパレス</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed">
           北海道屈指のカルデラ湖畔・洞爺湖町＆壮瞥町を楽天ふるさと納税でお得に極上ステイ！山頂から湖と海を一望する世界的サミットホテル「ザ・ウィンザーホテル洞爺」、全室客室温泉露天風呂付き「ザ・レイクスイート 湖の栖」、広大な温泉ビーチの「洞爺サンパレス リゾート＆スパ」を徹底比較。ロングラン花火大会やトラベルクーポン活用術を網羅。
         </p>

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/art-museum-design-hotel-creative-stay/" },
-  title: "【アート・美術館巡り＆デザインホテル】感性を研ぎ澄ますミュージアムステイ 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "アート・美術館巡り＆デザインホテル：感性を研ぎ澄ますミュージアムステイ 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "アートと建築に浸るクリエイティブな休日！美術館併設ホテル＆デザイナーズホテル完全特化！金沢・直島・箱根・京都、有名建築家が手掛けた空間、現代アートに囲まれる客室、美術館ナイトツアー付き宿を徹底解説。",
   keywords: ["アート", "美術館巡り", "デザインホテル", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -89,9 +89,7 @@ export default function WomenSoloRetreatHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-gradient-to-r from-rose-300 to-pink-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block shadow">
             ART & DESIGN HOTEL GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【アート・美術館巡り＆デザインホテル】感性を研ぎ澄ますミュージアムステイ 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「アート・美術館巡り＆デザインホテル」感性を研ぎ澄ますミュージアムステイ 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-pink-100/90 leading-relaxed">
             空間そのものがひとつの芸術作品。安藤忠雄や坂茂などの名建築家が手掛けた「アート＆デザインホテル」。直島ベネッセハウス、金沢の工芸アートホテル、箱根のポーラ美術館至近宿。感性を刺激し、日常を忘れさせてくれる美の旅へ。
           </p>

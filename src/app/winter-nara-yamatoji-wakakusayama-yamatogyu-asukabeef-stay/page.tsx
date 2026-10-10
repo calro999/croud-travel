@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月奈良・大和路奈良町温泉】名物極上大和牛すき焼き！名宿5選',
+  title: '奈良・大和路奈良町温泉で過ごす冬の旅（11・12月）！名物極上大和牛すき焼き！名宿5選',
   description: '11月から12月にかけて、1300年の歴史を誇る古都・奈良は、秋の喧騒が落ち着きを取り戻し。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '奈良 宿泊, 奈良ホテル, ふふ奈良, むさし野, 春日ホテル, 飛鳥荘, 大和牛 すき焼き, 飛鳥鍋, ならまち, 東大寺 大仏殿, 若草山, 11月 12月 奈良',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nara-yamatoji-wakakusayama-yamatogyu-asukabeef-stay/"
   },
   openGraph: {
-    title: '【11・12月奈良・大和路奈良町温泉】名物極上大和牛すき焼き！名宿5選',
+    title: '奈良・大和路奈良町温泉で過ごす冬の旅（11・12月）！名物極上大和牛すき焼き！名宿5選',
     description: '11月から12月にかけて、1300年の歴史を誇る古都・奈良は、秋の喧騒が落ち着きを取り戻し。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-nara-yamatoji-wakakusayama-yamatogyu-asukabeef-stay',
     siteName: 'クラドトラベル',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月奈良・大和路奈良町温泉の初冬古都散策と若草山冬景色】名物極上大和牛すき焼き＆飛鳥鍋・東大寺大仏殿を望む歴史名宿5選",
+    title: "奈良・大和路奈良町温泉の初冬古都散策と若草山冬景色で過ごす冬の旅（11・12月）！名物極上大和牛すき焼き＆飛鳥鍋・東大寺大仏殿を望む歴史名宿5選",
     description: "11月から12月にかけて、1300年の歴史を誇る古都・奈良は、秋の喧騒が落ち着きを取り戻し、澄み切った初冬の青空の下で静謐な大和路の風情が色濃くなります。冬枯れの木立と愛らしい鹿たちが佇む奈良公園、雪化粧を始めた若草山、凛とした空気に包まれる世界遺産・東大寺大仏殿や春日大社、風情ある格子戸が連なる「ならまち」の散策。夕食には大和の豊かな風土が育んだ最高峰の黒毛和牛「大和牛（やまとうし）」のすき焼きや陶板焼き、牛乳ベースの優しい出汁に鶏肉や旬野菜が溶け合う古代宮廷伝承の郷土鍋「飛鳥鍋（あすかなべ）」、大和野菜。古都の天然温泉に浸かり、歴史の深遠に抱かれる厳選名宿5選を徹底解説します。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -248,12 +248,7 @@ export default function WinterNaraYamatojiPage() {
             11月・12月 初冬の古都奈良散策＆大和牛・飛鳥鍋特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月奈良・大和路奈良町】初冬古都散策と若草山冬景色
-            <span className="block text-amber-300 text-lg sm:text-2xl mt-3 font-normal">
-              名物極上大和牛すき焼き＆飛鳥鍋・東大寺大仏殿を望む歴史名宿5選
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">奈良・大和路奈良町で過ごす冬の旅（11・12月）！初冬古都散策と若草山冬景色 <span className="block text-amber-300 text-lg sm:text-2xl mt-3 font-normal"> 名物極上大和牛すき焼き＆飛鳥鍋・東大寺大仏殿を望む歴史名宿5選 </span></h1>
 
           <p className="text-sm sm:text-base text-stone-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、1300年の歴史を誇る古都・奈良は、秋の喧騒が落ち着きを取り戻し、澄み切った初冬の青空の下で静謐な大和路の風情が色濃くなります。冬枯れの木立と愛らしい鹿たちが佇む奈良公園、雪化粧を始めた若草山、凛とした空気に包まれる世界遺産・東大寺大仏殿や春日大社、風情ある格子戸が連なる「ならまち」の散策。夕食には大和の豊かな風土が育んだ最高峰の黒毛和牛「大和牛（やまとうし）」のすき焼きや陶板焼き、牛乳ベースの優しい出汁に鶏肉や旬野菜が溶け合う古代宮廷伝承の郷土鍋「飛鳥鍋（あすかなべ）」、大和野菜。古都の天然温泉に浸かり、歴史の深遠に抱かれる厳選名宿5選を徹底解説します。

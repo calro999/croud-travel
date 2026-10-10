@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-temple-shukubo-shojin-mindfulness-stay/" },
-  title: '古刹宿坊＆本格精進料理ステイ×ふるさと納税完全ガイド【2026年最新】高野山・善光寺・京都寺院のマインドフルネス旅',
+  title: '古刹宿坊＆本格精進料理ステイ×ふるさと納税厳選ガイド高野山・善光寺・京都寺院のマインドフルネス旅',
   description: '朝のお勤め、写経、瞑想体験、そして伝統の美と健康を支える精進料理！世界遺産高野山や信州善光寺、京都の寺院宿坊を楽天ふるさと納税宿泊クーポンでお得に予約する心洗われるリトリートガイド。',
   keywords: ["古刹宿坊", "2026年最新", "高野山", "善光寺", "京都寺院のマインドフルネス旅", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: '古刹宿坊＆本格精進料理ステイ×ふるさと納税完全ガイド【2026年最新】高野山・善光寺・京都寺院のマインドフルネス旅',
+    title: '古刹宿坊＆本格精進料理ステイ×ふるさと納税厳選ガイド高野山・善光寺・京都寺院のマインドフルネス旅',
     description: '朝のお勤め、写経、瞑想体験、そして伝統の美と健康を支える精進料理！世界遺産高野山や信州善光寺、京都の寺院宿坊を楽天ふるさと納税宿泊クーポンでお得に予約する心洗われるリトリートガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-temple-shukubo-shojin-mindfulness-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FurusatoTaxPage() {
           <span className="inline-block px-4 py-1.5 rounded-full text-xs md:text-sm font-black bg-gradient-to-r from-amber-500 to-yellow-400 text-slate-950 mb-5 shadow-lg shadow-amber-500/20">
             宿坊・精進料理リトリート特集
           </span>
-          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">
-            古刹宿坊＆本格精進料理ステイ×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">古刹宿坊＆本格精進料理ステイ×ふるさと納税ガイド</h1>
           <p className="text-sm md:text-lg text-slate-300 leading-relaxed font-medium">
             朝のお勤め、写経、瞑想体験、そして伝統の美と健康を支える精進料理！世界遺産高野山や信州善光寺、京都の寺院宿坊を楽天ふるさと納税宿泊クーポンでお得に予約する心洗われるリトリートガイド。
           </p>

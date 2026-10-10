@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '地上数十階から望む宝石の夜景パノラマ＆天空スカイバー・クラブラウンジ名門ホテル×ふるさと納税完全ガイド【2026年最新】横浜・長崎・大阪',
+  title: '地上数十階から望む宝石の夜景パノラマ＆天空スカイバー・クラブラウンジ名門ホテル×ふるさと納税厳選ガイド横浜・長崎・大阪',
   description: 'きらめく摩天楼の夜景と上質なカクテルに酔いしれる大人の夜！大観覧車が目の前に輝くバルコニーとバーを誇る「横浜ベイホテル東急」、世界新三大夜景のすり鉢状パノラマを望むクラブラウンジ「ガーデンテラス長崎ホテル＆リゾート」、地上200m大阪中之島の夜景と現代アートが融合する天空ホテル「コンラッド大阪」。極上のナイトビューバー体験を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
   keywords: ["天空スカイバー", "2026年最新", "横浜", "長崎", "大阪", "温泉宿", "宿泊予約"],
   alternates: { canonical: baseUrl + '/furusato-tax-night-sky-cocktail-bar-lounge-hotel-stay/' },
   openGraph: {
-    title: '地上数十階から望む宝石の夜景パノラマ＆天空スカイバー・クラブラウンジ名門ホテル×ふるさと納税完全ガイド【2026年最新】横浜・長崎・大阪',
+    title: '地上数十階から望む宝石の夜景パノラマ＆天空スカイバー・クラブラウンジ名門ホテル×ふるさと納税厳選ガイド横浜・長崎・大阪',
     description: 'きらめく摩天楼の夜景と上質なカクテルに酔いしれる大人の夜！大観覧車が目の前に輝くバルコニーとバーを誇る「横浜ベイホテル東急」、世界新三大夜景のすり鉢状パノラマを望むクラブラウンジ「ガーデンテラス長崎ホテル＆リゾート」、地上200m大阪中之島の夜景と現代アートが融合する天空ホテル「コンラッド大阪」。極上のナイトビューバー体験を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
     url: baseUrl + '/furusato-tax-night-sky-cocktail-bar-lounge-hotel-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoNightSkyBarLoungeStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             天空スカイバー＆クラブラウンジ夜景ホテル特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            地上数十階から望む宝石の夜景パノラマ＆天空スカイバー・クラブラウンジ名門ホテル×ふるさと納税完全ガイド【2026年最新】横浜・長崎・大阪
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">地上数十階から望む宝石の夜景パノラマ＆天空スカイバー・クラブラウンジ名門ホテル×ふるさと納税厳選ガイド横浜・長崎・大阪</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             エレベーターで一気に高層階へ昇ると、そこに広がるのは息を呑むほどドラマチックな夜景パノラマ。街の喧騒が静寂へと変わり、眼下に広がる宝石箱のような都市の灯りや港の漁火を眺めながら、バーテンダーが作る極上のカクテルや上質なシャンパンを傾ける――「天空スカイバー＆クラブラウンジ付きホテル。」での滞在は、大切な人との記念日やプロポーズ、自分へのご褒美にふさわしい最高峰のロマンチックな体験です。横浜みなとみらいの中心に位置し大観覧車のイルミネーションを目の前に望むバー「ジャックス」やバルコニー付き客室を備える「横浜ベイホテル東急」、稲佐山の中腹に建ち世界新三大夜景に選ばれた長崎の港夜景を一望する全室クラブフロア仕様の「ガーデンテラス長崎ホテル＆リゾート」、そして中之島フェスティバルタワーの最上層に位置し地上200mから大阪の摩天楼を見下ろすラグジュアリーホテル「コンラッド大阪」。特別な夜をさらに輝かせる絶景ホテルを、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して実質自己負担2,000円で賢く予約し、大人の贅沢な夜景ステイへ出かけましょう。
           </p>

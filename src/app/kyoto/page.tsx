@@ -39,13 +39,13 @@ interface RakutenCategoryData {
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://croud-travel.pages.dev";
 
 export const metadata: Metadata = {
-  title: "【京都旅行 完全ガイド 2026】1泊2日・2泊3日モデルコース＆カップル・子連れ・女子旅・穴場・おすすめホテル・温泉旅館 ｜ 旅宿クラウド",
+  title: "京都旅行 厳選ガイド 2026：1泊2日・2泊3日モデルコース＆カップル・子連れ・女子旅・穴場・おすすめホテル・温泉旅館 ｜ 旅宿クラウド",
   description:
     "京都旅行の計画を完全サポート！1泊2日・2泊3日の王道＆穴場モデルコース、カップルデート・子連れファミリー・女子旅向けプラン、雨の日や夜の観光スポット、春の桜・秋の紅葉名所から、おすすめ厳選による京都駅周辺ホテル・温泉旅館・美味しい朝食付き宿まで徹底網羅。",
   keywords: ["京都旅行", "2026", "1泊2日", "2泊3日モデルコース", "カップル", "子連れ", "女子旅"],
   alternates: { canonical: "https://croud-travel.pages.dev/kyoto/" },
   openGraph: {
-    title: "京都旅行 完全ガイド 2026 ｜ 旅宿クラウド",
+    title: "京都旅行 厳選ガイド 2026 ｜ 旅宿クラウド",
     description: "京都旅行を思い立ったらまず読むハブガイド。1泊2日/2泊3日モデルコース・旅行タイプ別・シチュエーション別・公式おすすめ人気ホテルを完全連結。",
     url: "https://croud-travel.pages.dev/kyoto",
     siteName: "旅宿クラウド",
@@ -161,12 +161,7 @@ export default function KyotoHubPage() {
           </span>
         </div>
 
-        <h1 className="text-3xl md:text-5xl font-black font-journal-serif leading-tight text-white">
-          【京都旅行 完全ガイド】<br />
-          <span className="bg-gradient-to-r from-amber-200 via-rose-200 to-amber-100 bg-clip-text text-transparent">
-            観光モデルコース・穴場・季節・公式おすすめ人気ホテル＆温泉旅館
-          </span>
-        </h1>
+        <h1 className="text-3xl md:text-5xl font-black font-journal-serif leading-tight text-white">「京都旅行 厳選ガイド」<br /> <span className="bg-gradient-to-r from-amber-200 via-rose-200 to-amber-100 bg-clip-text text-transparent"> 観光モデルコース・穴場・季節・公式おすすめ人気ホテル＆温泉旅館 </span></h1>
 
         <p className="text-rose-100/90 text-xs md:text-sm max-w-3xl leading-relaxed font-medium">
           千年の都・京都。「京都観光は何から計画すればいい？」「1泊2日や2泊3日のおすすめルートは？」「カップルや子連れにぴったりのスポットは？」「雨の日や夜の観光、穴場、おすすめホテルは？」といった検索需要を縦に深掘りし、おすすめの宿泊施設情報で繋ぐ総合ハブガイドです。

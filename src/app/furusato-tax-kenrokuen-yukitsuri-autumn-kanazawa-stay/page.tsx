@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '兼六園の雪吊り＆金沢城・紅葉ライトアップ！深谷温泉・湯涌温泉の名湯宿×ふるさと納税完全ガイド【2026年最新秋旅】石川',
+  title: '兼六園の雪吊り＆金沢城・紅葉ライトアップ！深谷温泉・湯涌温泉の名湯宿×ふるさと納税厳選ガイド石川',
   description: '11月1日から始まる兼六園の冬支度「雪吊り（ゆきつり）」と紅葉ライトアップ！秋の金沢・兼六園を巡り、開湯1300年の金沢湯涌温泉や深谷温泉の名湯宿「元湯石屋」「湯の出旅館」「百楽荘」で能登牛やのどぐろを堪能。楽天ふるさと納税トラベルクーポンで実質2,000円で泊まる極上の金沢秋旅ガイド。',
   keywords: ["兼六園の雪吊り", "金沢城", "紅葉ライトアップ！深谷温泉", "湯涌温泉の名湯宿×ふるさと納税", "2026年最新秋旅", "石川", "温泉宿"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kenrokuen-yukitsuri-autumn-kanazawa-stay/"
   },
   openGraph: {
-    title: '兼六園の雪吊り＆金沢城・紅葉ライトアップ！深谷温泉・湯涌温泉の名湯宿×ふるさと納税完全ガイド【2026年最新秋旅】石川',
+    title: '兼六園の雪吊り＆金沢城・紅葉ライトアップ！深谷温泉・湯涌温泉の名湯宿×ふるさと納税厳選ガイド石川',
     description: '11月1日から始まる兼六園の冬支度「雪吊り（ゆきつり）」と紅葉ライトアップ！秋の金沢・兼六園を巡り、開湯1300年の金沢湯涌温泉や深谷温泉の名湯宿「元湯石屋」「湯の出旅館」「百楽荘」で能登牛やのどぐろを堪能。楽天ふるさと納税トラベルクーポンで実質2,000円で泊まる極上の金沢秋旅ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kenrokuen-yukitsuri-autumn-kanazawa-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FeatureArticlePage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               金沢・兼六園雪吊り＆名湯温泉宿特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              兼六園の雪吊り＆金沢城・紅葉ライトアップ！深谷温泉・湯涌温泉の名湯宿×ふるさと納税完全ガイド【2026年最新秋旅】石川
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">兼六園の雪吊り＆金沢城・紅葉ライトアップ！深谷温泉・湯涌温泉の名湯宿×ふるさと納税厳選ガイド石川</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               11月1日から始まる兼六園の冬支度「雪吊り（ゆきつり）」と紅葉ライトアップ！秋の金沢・兼六園を巡り、開湯1300年の金沢湯涌温泉や深谷温泉の名湯宿「元湯石屋」「湯の出旅館」「百楽荘」で能登牛やのどぐろを堪能。楽天ふるさと納税トラベルクーポンで実質2,000円で泊まる極上の金沢秋旅ガイド。
             </p>

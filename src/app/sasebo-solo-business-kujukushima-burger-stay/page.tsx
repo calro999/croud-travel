@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/sasebo-solo-business-kujukushima-burger-stay/" },
-  title: '【佐世保出張・西九州ひとり旅】九十九島パノラマ・天然温泉ばってんの湯・名物佐世保バーガー！港町でととのう厳選3宿',
+  title: '佐世保出張・西九州ひとり旅：九十九島パノラマ・天然温泉ばってんの湯・名物佐世保バーガー！港町でととのう厳選3宿',
   description: '長崎空港や博多駅から特急みどり・高速バスで直通！ハウステンボス隣接で自家源泉天然温泉大浴場を備える「ホテル日航ハウステンボス」、弓張岳展望台の山頂近くから九十九島の夜景を一望する「弓張の丘ホテル」、JR佐世保駅徒歩約3分の好立地な「佐世保ワシントンホテル」を楽天APIデータに基づき徹底比較。',
   keywords: '佐世保 出張 ホテル,佐世保 ひとり旅 温泉,ホテル日航ハウステンボス,弓張の丘ホテル,佐世保ワシントンホテル,佐世保バーガー 九十九島 レモンステーキ',
   openGraph: {
-    title: '【佐世保出張・西九州ひとり旅】九十九島パノラマ・天然温泉ばってんの湯・名物佐世保バーガー！港町でととのう厳選3宿',
+    title: '佐世保出張・西九州ひとり旅：九十九島パノラマ・天然温泉ばってんの湯・名物佐世保バーガー！港町でととのう厳選3宿',
     description: '長崎空港や博多駅から特急みどり・高速バスで直通！ハウステンボス隣接で自家源泉天然温泉大浴場を備える「ホテル日航ハウステンボス」、弓張岳展望台の山頂近くから九十九島の夜景を一望する「弓張の丘ホテル」、JR佐世保駅徒歩約3分の好立地な「佐世保ワシントンホテル」を楽天APIデータに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/sasebo-solo-business-kujukushima-burger-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【佐世保出張・西九州ひとり旅】九十九島パノラマ・天然温泉ばってんの湯・名物佐世保バーガー！港町でととのう厳選3宿',
+    headline: '佐世保出張・西九州ひとり旅：九十九島パノラマ・天然温泉ばってんの湯・名物佐世保バーガー！港町でととのう厳選3宿',
     description: '長崎空港や博多駅から特急みどり・高速バスで直通！ハウステンボス隣接で自家源泉天然温泉大浴場を備える「ホテル日航ハウステンボス」、弓張岳展望台の山頂近くから九十九島の夜景を一望する「弓張の丘ホテル」、JR佐世保駅徒歩約3分の好立地な「佐世保ワシントンホテル」を楽天APIデータに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -73,9 +73,7 @@ export default function ArticlePage() {
         <div className="inline-block bg-amber-700 text-white text-xs font-semibold px-3 py-1 rounded-full mb-3 tracking-wider">
           ひとり旅・出張・サウナ＆名湯特集
         </div>
-        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">
-          【佐世保出張・西九州ひとり旅】九十九島パノラマ・天然温泉ばってんの湯・名物佐世保バーガー！港町でととのう厳選3宿
-        </h1>
+        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">「佐世保出張・西九州ひとり旅」九十九島パノラマ・天然温泉ばってんの湯・名物佐世保バーガー！港町でととのう厳選3宿</h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.12 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>

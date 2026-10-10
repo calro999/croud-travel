@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/usj-trip-packing-regrets-worst5-guide/" },
-  title: "【USJ旅行で後悔したことワースト5】エクスプレスパスなしで大絶望！？ニンテンドー入場整理券＆必須持ち物",
+  title: "USJ旅行で後悔したことワースト5：エクスプレスパスなしで大絶望！？ニンテンドー入場整理券＆必須持ち物",
   description:
     "ユニバーサル・スタジオ・ジャパンに行く前に必読のリアル後悔談！マリオエリアに入れなかった失敗、濡れるアトラクションでのカッパ忘れ、ロッカー小銭不足、公式アプリ設定とオフィシャルホテル前泊の重要性。",
   keywords: ["必須持ち物", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
@@ -168,11 +168,7 @@ export default function UsjTripPackingRegretsWorst5Page() {
           <div className="inline-flex items-center gap-2 px-3.5 py-1 rounded-full bg-indigo-500/20 border border-indigo-400/40 text-indigo-200 text-xs font-bold tracking-wider uppercase mb-4 backdrop-blur-md">
             <span>⚡</span> Strategy & Survival • ユニバーサル・スタジオ・ジャパン
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6">
-            【USJ旅行で後悔したこと<span className="text-indigo-400">ワースト5</span>】
-            <br />
-            エクスプレスパスなしで大絶望！？ニンテンドー入場整理券＆必須持ち物
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6">「USJ旅行で後悔したこと<span className="text-indigo-400">ワースト5</span>」 <br /> エクスプレスパスなしで大絶望！？ニンテンドー入場整理券＆必須持ち物</h1>
           <p className="text-indigo-100 text-sm sm:text-base leading-relaxed max-w-2xl mx-auto font-medium">
             『行けばなんとかなる』は通用しない！事前準備と持ち物の差で満足度が180度激変するUSJ。
             マリオエリアに入れない悲劇から全身びしょ濡れの地獄まで、リアルな後悔談と即効性のある攻略法を徹底解説。

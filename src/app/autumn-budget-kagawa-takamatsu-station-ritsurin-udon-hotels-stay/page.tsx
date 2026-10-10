@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【高松駅前】特別名勝栗林公園秋ライトアップ＆本場讃岐うどん！3,000円台〜泊まれる格安ホテル5選',
+  title: '高松駅前：特別名勝栗林公園秋ライトアップ＆本場讃岐うどん！3,000円台〜泊まれる格安ホテル5選',
   description: '一歩一景の大名庭園・栗林公園の秋の紅葉ライトアップ！朝から並ぶ本場讃岐うどんの名店巡りや名物骨付鳥。JR予讃線・高松駅周辺で1泊3,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>大名庭園栗林公園の紅葉ライトアップ＆早朝本場讃岐うどん</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【高松駅前】栗林公園紅葉＆本場讃岐うどん！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「高松駅前」栗林公園紅葉＆本場讃岐うどん！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             ミシュラン三ツ星の特別名勝「栗林公園（りつりんこうえん）」。秋の夜を黄金に照らす紅葉ライトアップと南湖の和船。早朝から茹でたてのコシを味わう「本場讃岐うどん」の名店巡りや、スパイシーでジューシーな香川名物「骨付鳥」に舌鼓！高松駅周辺で3,000円台〜泊まれる優良ホテルを厳選。
           </p>

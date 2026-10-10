@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '大観覧車とベイブリッジの煌めく夜景！横浜みなとみらい夜景ラグジュアリーホテル×ふるさと納税完全攻略ガイド【2026年最新】Pier8・グランドインターコンチ・ベイ東急',
+  title: '大観覧車とベイブリッジの煌めく夜景！横浜みなとみらい夜景ラグジュアリーホテル×ふるさと納税極上旅ガイドPier8・グランドインターコンチ・ベイ東急',
   description: 'きらめく大観覧車「コスモクロック21」と東京湾・横浜港のパノラマ夜景！「インターコンチネンタル横浜Pier 8」「ヨコハマ グランド インターコンチネンタル ホテル。」「横浜ベイホテル東急」を、神奈川県横浜市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。ルーフトップテラス、全室バルコニー付き客室、クラブフロアで至高の記念日ステイ。',
   keywords: ["2026年最新", "Pier8", "グランドインターコンチ", "ベイ東急", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-yokohama-minatomirai-nightview-luxury-stay/",
   },
   openGraph: {
-    title: '大観覧車とベイブリッジの煌めく夜景！横浜みなとみらい夜景ラグジュアリーホテル×ふるさと納税完全攻略ガイド【2026年最新】Pier8・グランドインターコンチ・ベイ東急',
+    title: '大観覧車とベイブリッジの煌めく夜景！横浜みなとみらい夜景ラグジュアリーホテル×ふるさと納税極上旅ガイドPier8・グランドインターコンチ・ベイ東急',
     description: 'きらめく大観覧車「コスモクロック21」と東京湾・横浜港のパノラマ夜景！「インターコンチネンタル横浜Pier 8」「ヨコハマ グランド インターコンチネンタル ホテル。」「横浜ベイホテル東急」を、神奈川県横浜市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。ルーフトップテラス、全室バルコニー付き客室、クラブフロアで至高の記念日ステイ。',
     url: 'https://croud-travel.pages.dev/furusato-tax-yokohama-minatomirai-nightview-luxury-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoYokohamaNightviewStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           全国屈指の夜景美！横浜みなとみらい宿特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          大観覧車とベイブリッジの煌めく夜景！横浜みなとみらい夜景ラグジュアリーホテル×ふるさと納税完全攻略ガイド【2026年最新】Pier8・グランドインターコンチ・ベイ東急
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">大観覧車とベイブリッジの煌めく夜景！横浜みなとみらい夜景ラグジュアリーホテル×ふるさと納税極上旅ガイドPier8・グランドインターコンチ・ベイ東急</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoYokohamaNightviewStayPage() {
               みなとみらいの海に浮かぶ、品格と遊び心が共存する新しいラグジュアリーステイ
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “期待していた内容と異なり残念とても残念でした! ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D177505%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoYokohamaNightviewStayPage() {
               みなとみらいのシンボル、風をはらんだヨットの帆の形が特徴のインターナショナルブランドホテル。
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “なだ万の朝食がとても美味しくて大満足なだ万の朝食は、とても美味しかったです。ホテルだから仕方ないですが、エアコンの調整は難しく、夜中に何回も起きてしまいました。
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D5731%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoYokohamaNightviewStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               横浜港を一望できるアーバンリゾートで最上のくつろぎを
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “また泊まりたい清潔感があり、良いホテルに宿泊出来たと思える実感があります。 ”
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/okayama-kurashiki-solo-retreat-bikan-stay/" },
-  title: '【倉敷美観地区ひとり旅・大浴場おこもり】白壁土蔵の町並み・展望大浴場・大原美術館！江戸情緒とデニムの街に癒やされる厳選3宿',
+  title: '倉敷美観地区ひとり旅・大浴場おこもり：白壁土蔵の町並み・展望大浴場・大原美術館！江戸情緒とデニムの街に癒やされる厳選3宿',
   description: '岡山駅からJR山陽本線で約17分！美観地区徒歩すぐで最上階大浴場＆ルーフトップラウンジを誇る「ロイヤルパークホテル倉敷」、倉敷駅前で天然温泉大浴場と地元食材朝食が魅力の「ホテル グラン・ココエ倉敷」、駅徒歩すぐで老舗の安心感「倉敷ステーションホテル」を徹底比較。',
   keywords: '倉敷 一人旅 ホテル,倉敷美観地区 ホテル 大浴場,ロイヤルパークホテル倉敷,ホテルグランココエ倉敷,倉敷ステーションホテル,大原美術館 おこもり',
   openGraph: {
-    title: '【倉敷美観地区ひとり旅・大浴場おこもり】白壁土蔵の町並み・展望大浴場・大原美術館！江戸情緒とデニムの街に癒やされる厳選3宿',
+    title: '倉敷美観地区ひとり旅・大浴場おこもり：白壁土蔵の町並み・展望大浴場・大原美術館！江戸情緒とデニムの街に癒やされる厳選3宿',
     description: '岡山駅からJR山陽本線で約17分！美観地区徒歩すぐで最上階大浴場＆ルーフトップラウンジを誇る「ロイヤルパークホテル倉敷」、倉敷駅前で天然温泉大浴場と地元食材朝食が魅力の「ホテル グラン・ココエ倉敷」、駅徒歩すぐで老舗の安心感「倉敷ステーションホテル」を徹底比較。',
     url: 'https://croud-travel.pages.dev/okayama-kurashiki-solo-retreat-bikan-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【倉敷美観地区ひとり旅・大浴場おこもり】白壁土蔵の町並み・展望大浴場・大原美術館！江戸情緒とデニムの街に癒やされる厳選3宿',
+    headline: '倉敷美観地区ひとり旅・大浴場おこもり：白壁土蔵の町並み・展望大浴場・大原美術館！江戸情緒とデニムの街に癒やされる厳選3宿',
     description: '岡山駅からJR山陽本線で約17分！美観地区徒歩すぐで最上階大浴場＆ルーフトップラウンジを誇る「ロイヤルパークホテル倉敷」、倉敷駅前で天然温泉大浴場と地元食材朝食が魅力の「ホテル グラン・ココエ倉敷」、駅徒歩すぐで老舗の安心感「倉敷ステーションホテル」を徹底比較。',
     author: {
       '@type': 'Organization',
@@ -72,9 +72,7 @@ export default function ArticlePage() {
         <div className="inline-block bg-amber-700 text-white text-xs font-semibold px-3 py-1 rounded-full mb-3 tracking-wider">
           ひとり旅・出張・サウナ＆名湯特集
         </div>
-        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">
-          【倉敷美観地区ひとり旅・大浴場おこもり】白壁土蔵の町並み・展望大浴場・大原美術館！江戸情緒とデニムの街に癒やされる厳選3宿
-        </h1>
+        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">「倉敷美観地区ひとり旅・大浴場おこもり」白壁土蔵の町並み・展望大浴場・大原美術館！江戸情緒とデニムの街に癒やされる厳選3宿</h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.13 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>

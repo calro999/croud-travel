@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【秋田】抱返り渓谷・角館紅葉ときりたんぽ鍋！2,000円台〜泊まれる格安ホテル5選',
+  title: '秋田：抱返り渓谷・角館紅葉ときりたんぽ鍋！2,000円台〜泊まれる格安ホテル5選',
   description: '東北の耶馬渓「抱返り渓谷」のエメラルドブルーと紅葉、新米で仕込んだ本場きりたんぽ鍋！秋田駅・川反周辺で1泊2,000円台〜4,000円台の高評価・格安宿厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetAkitaHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>抱返り渓谷紅葉＆本場きりたんぽ鍋</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【秋田】抱返り渓谷の紅葉＆熱々きりたんぽ！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「秋田」抱返り渓谷の紅葉＆熱々きりたんぽ！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             息を呑むエメラルドブルーの渓流と錦秋のコントラストが美しい「抱返り渓谷」や武家屋敷の秋紅葉。そして新米あきたこまちと比内地鶏の出汁がたまらない「本場きりたんぽ鍋」。秋田駅前・歓楽街川反エリアで2,000円台〜4,000円台の超高コスパ優良ホテルを厳選！
           </p>

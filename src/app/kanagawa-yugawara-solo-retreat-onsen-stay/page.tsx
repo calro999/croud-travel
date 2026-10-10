@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kanagawa-yugawara-solo-retreat-onsen-stay/" },
-  title: '【湯河原温泉ひとり旅・万葉集ゆかり名湯おこもり】相模湾一望・自家源泉かけ流し・伊豆の旬懐石！都心60分の文豪リトリート厳選3宿',
+  title: '湯河原温泉ひとり旅・万葉集ゆかり名湯おこもり：相模湾一望・自家源泉かけ流し・伊豆の旬懐石！都心60分の文豪リトリート厳選3宿',
   description: '『万葉集』唯一の温泉地・湯河原！驚異の口コミ★5.0満点を誇る自家源泉の隠れ宿「グリーン荘」、高台から相模湾と湯河原の街を見晴らす洋館リゾート「ホテル 眺望山荘」、屋上貸切露天風呂と最高峰の月替わり懐石が評判の「ふきや」を楽天API最新データに基づき徹底比較。',
   keywords: '湯河原温泉 一人旅 宿,湯河原 ホテル 一人 温泉,グリーン荘 湯河原,ホテル眺望山荘,湯河原 ふきや,湯河原 ひとり旅 おこもり',
   openGraph: {
-    title: '【湯河原温泉ひとり旅・万葉集ゆかり名湯おこもり】相模湾一望・自家源泉かけ流し・伊豆の旬懐石！都心60分の文豪リトリート厳選3宿',
+    title: '湯河原温泉ひとり旅・万葉集ゆかり名湯おこもり：相模湾一望・自家源泉かけ流し・伊豆の旬懐石！都心60分の文豪リトリート厳選3宿',
     description: '『万葉集』唯一の温泉地・湯河原！驚異の口コミ★5.0満点を誇る自家源泉の隠れ宿「グリーン荘」、高台から相模湾と湯河原の街を見晴らす洋館リゾート「ホテル 眺望山荘」、屋上貸切露天風呂と最高峰の月替わり懐石が評判の「ふきや」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/kanagawa-yugawara-solo-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【湯河原温泉ひとり旅・万葉集ゆかり名湯おこもり】相模湾一望・自家源泉かけ流し・伊豆の旬懐石！都心60分の文豪リトリート厳選3宿',
+    headline: '湯河原温泉ひとり旅・万葉集ゆかり名湯おこもり：相模湾一望・自家源泉かけ流し・伊豆の旬懐石！都心60分の文豪リトリート厳選3宿',
     description: '『万葉集』唯一の温泉地・湯河原！驚異の口コミ★5.0満点を誇る自家源泉の隠れ宿「グリーン荘」、高台から相模湾と湯河原の街を見晴らす洋館リゾート「ホテル 眺望山荘」、屋上貸切露天風呂と最高峰の月替わり懐石が評判の「ふきや」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             神奈川・湯河原温泉ひとり旅＆文豪万葉おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【湯河原温泉ひとり旅・万葉集ゆかり名湯おこもり】相模湾一望・自家源泉かけ流し・伊豆の旬懐石！都心60分の文豪リトリート厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「湯河原温泉ひとり旅・万葉集ゆかり名湯おこもり」相模湾一望・自家源泉かけ流し・伊豆の旬懐石！都心60分の文豪リトリート厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

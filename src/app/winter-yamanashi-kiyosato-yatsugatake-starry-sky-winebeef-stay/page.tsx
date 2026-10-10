@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月山梨】冬の八ヶ岳ブルーと満天の星空観賞！名宿5選',
+  title: '11・12・1月山梨：冬の八ヶ岳ブルーと満天の星空観賞！名宿5選',
   description: '11月から1月、山梨県北杜市の清里高原・八ヶ岳南麓は、晴天率80%超を誇る抜けるような冬晴れ「八ヶ岳ブルー」と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '清里 星空, 八ヶ岳ブルー, 萌木の村, 甲州ワインビーフ, 清里高原ホテル, 八ヶ岳グレイスホテル, ホテル風か, ハットウォールデン, 八ヶ岳 温泉, 11月 12月 1月 山梨旅行, サンメドウズ清里',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamanashi-kiyosato-yatsugatake-starry-sky-winebeef-stay/"
   },
   openGraph: {
-    title: '【11・12・1月山梨】冬の八ヶ岳ブルーと満天の星空観賞！名宿5選',
+    title: '11・12・1月山梨：冬の八ヶ岳ブルーと満天の星空観賞！名宿5選',
     description: '11月から1月、山梨県北杜市の清里高原・八ヶ岳南麓は、晴天率80%超を誇る抜けるような冬晴れ「八ヶ岳ブルー」と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-yamanashi-kiyosato-yatsugatake-starry-sky-winebeef-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月山梨】冬の八ヶ岳ブルーと満天の星空観賞・萌木の村冬景色＆極上「甲州ワインビーフ」・八ヶ岳南麓の高原温泉リゾート宿5選",
+    title: "11・12・1月山梨：冬の八ヶ岳ブルーと満天の星空観賞・萌木の村冬景色＆極上「甲州ワインビーフ」・八ヶ岳南麓の高原温泉リゾート宿5選",
     description: "11月から1月、山梨県北杜市の清里高原・八ヶ岳南麓は、晴天率80%超を誇る抜けるような冬晴れ「八ヶ岳ブルー」と、日本屈指の美しさを誇る満天の星空観賞のベストシーズン。薪ストーブの煙漂う北欧風の「萌木の村」、ワインの絞り粕で育つ極上「甲州ワインビーフ」や濃厚チーズフォンデュ。冬の富士山と南アルプスを望む展望露天風呂付き厳選名宿5選と1泊2日モデルコースを徹底ガイドします。",
     images: ['https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80']
   }
@@ -42,7 +42,7 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: "【11・12・1月山梨】冬の八ヶ岳ブルーと満天の星空観賞・萌木の村冬景色＆極上「甲州ワインビーフ」・八ヶ岳南麓の高原温泉リゾート宿5選",
+    headline: "11・12・1月山梨：冬の八ヶ岳ブルーと満天の星空観賞・萌木の村冬景色＆極上「甲州ワインビーフ」・八ヶ岳南麓の高原温泉リゾート宿5選",
     description: "11月から1月、山梨県北杜市の清里高原・八ヶ岳南麓は、晴天率80%超を誇る抜けるような冬晴れ「八ヶ岳ブルー」と、日本屈指の美しさを誇る満天の星空観賞のベストシーズン。薪ストーブの煙漂う北欧風の「萌木の村」、ワインの絞り粕で育つ極上「甲州ワインビーフ」や濃厚チーズフォンデュ。冬の富士山と南アルプスを望む展望露天風呂付き厳選名宿5選と1泊2日モデルコースを徹底ガイドします。",
     image: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
     datePublished: '',
@@ -282,9 +282,7 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
             <Sparkles className="w-4 h-4 text-indigo-300" />
             11月・12月・1月 冬の山梨・清里高原＆八ヶ岳星空リゾート特集
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【11・12・1月山梨】冬の八ヶ岳ブルーと満天の星空観賞・萌木の村冬景色＆極上「甲州ワインビーフ」・八ヶ岳南麓の高原温泉リゾート宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「11・12・1月山梨」冬の八ヶ岳ブルーと満天の星空観賞・萌木の村冬景色＆極上「甲州ワインビーフ」・八ヶ岳南麓の高原温泉リゾート宿5選</h1>
           <p className="text-slate-300 text-sm sm:text-base md:text-lg max-w-3xl leading-relaxed">
             晴天率80%超を誇る抜けるような冬の青空「八ヶ岳ブルー」。標高1,000m超の澄み切った漆黒の夜空に降り注ぐ、息を呑むような満天の星空。薪ストーブの煙が漂う北欧風のクラフト村「萌木の村」、ワインの絞り粕で育つ至高のブランド黒毛和牛「甲州ワインビーフ」。雪化粧した富士山と南アルプスを望む展望温泉露天風呂。大自然の静寂と上質なリゾートステイをお届けします。
           </p>

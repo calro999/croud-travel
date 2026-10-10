@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-last-minute-empty-rooms-guide/" },
-  title: "【まだ間に合う！シルバーウィーク直前予約グランピング】空室ありの穴場施設＆キャンセル拾いの極意 ｜ 日本全国・旅宿クラウド",
+  title: "まだ間に合う！シルバーウィーク直前予約グランピング：空室ありの穴場施設＆キャンセル拾いの極意 ｜ 日本全国・旅宿クラウド",
   description:
     "連休直前でも諦めない！シルバーウィーク直前に空きが出やすい穴場エリア、キャンセル料発生直前（7日前〜3日前）を狙うキャンセル拾いテクニック、即時予約可能な高評価グランピング施設特集。",
   keywords: ["空室ありの穴場施設", "キャンセル拾いの極意", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
@@ -149,11 +149,7 @@ export default function SilverWeekGlampingLastMinuteGuidePage() {
             <span>⚡ 直前駆け込み予約・空室レスキュー特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-snug font-journal-serif">
-            【まだ間に合う！シルバーウィーク直前予約グランピング】
-            <br />
-            <span className="text-emerald-300">空室ありの穴場施設＆キャンセル拾いの極意</span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-snug font-journal-serif">「まだ間に合う！シルバーウィーク直前予約グランピング」 <br /> <span className="text-emerald-300">空室ありの穴場施設＆キャンセル拾いの極意</span></h1>
 
           <p className="text-sm sm:text-base text-emerald-100/90 leading-relaxed max-w-3xl">
             「シルバーウィーク直前なのにどこも満室で諦めかけている。」という方に朗報です。連休直前は、規定ペナルティを避ける仮押さえキャンセルの大放出期。空室が出やすい穴場エリアの選定術と、今すぐ即時予約を狙える実力派リゾートを厳選してご案内します。

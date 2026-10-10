@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-water-castles-stay/" },
-  title: '日本三大水城＆海を抱く名城天守・海水堀クルーズ宿×ふるさと納税完全ガイド【2026年最新】高松城・今治城・中津城',
+  title: '日本三大水城＆海を抱く名城天守・海水堀クルーズ宿×ふるさと納税厳選ガイド高松城・今治城・中津城',
   description: '海水を湛えた水堀と白亜の天守！香川高松「高松城（玉藻城）」瀬戸内海の海水門とJRホテルクレメント高松、愛媛今治「今治城」藤堂高虎公の築城技術と今治国際ホテル、大分中津「中津城」黒田官兵衛ゆかりの石垣とグランプラザ中津ホテル。日本三大水城（三大海城）の歴史浪漫と瀬戸内・豊後水道の海鮮グルメを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大水城・海城遺産特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大水城＆海を抱く名城天守・海水堀クルーズ宿×ふるさと納税完全ガイド【2026年最新】高松城・今治城・中津城',
+    title: '日本三大水城＆海を抱く名城天守・海水堀クルーズ宿×ふるさと納税厳選ガイド高松城・今治城・中津城',
     description: '海水を湛えた水堀と白亜の天守！香川高松「高松城（玉藻城）」瀬戸内海の海水門とJRホテルクレメント高松、愛媛今治「今治城」藤堂高虎公の築城技術と今治国際ホテル、大分中津「中津城」黒田官兵衛ゆかりの石垣とグランプラザ中津ホテル。日本三大水城（三大海城）の歴史浪漫と瀬戸内・豊後水道の海鮮グルメを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-water-castles-stay',
@@ -155,9 +155,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大水城・海城遺産特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大水城＆名城パノラマ宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大水城＆名城パノラマ宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             海から直接船で城内へ出入りでき、防御と海上交易の要塞として築かれた「日本三大水城（三大海城）」――瀬戸内海の海水を取り入れた広大な堀を持ち、堀の中を泳ぐ真鯛に「鯛の餌やり」ができる風雅な香川の「高松城（玉藻城）」、築城の名手・藤堂高虎が卓越した土木技術で築き、海水堀に浮かぶように立つ日本初の層塔型天守が美しい愛媛の「今治城」、そして軍師・黒田官兵衛が築城を始め細川忠興が完成させた周防灘の河口に位置する奥平十万石の城・大分の「中津城」。満ち引きによって水位が変わる海水堀と、石垣や櫓のコントラストは、陸の山城や平城にはない独特の優美さと迫力を誇ります。名城天守や港を一望するハイグレードホテルを拠点に、瀬戸内海の真鯛や来島海峡の海の幸、中津名物ハモやからあげを味わう歴史旅を楽天ふるさと納税でお楽しみください。
           </p>

@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月静岡】時之栖イルミ！名宿5選',
+  title: '11・12・1月静岡：時之栖イルミ！名宿5選',
   description: '11月から1月にかけて、富士山麓の御殿場・裾野エリアは日本屈指の光と冬富士の絶景リゾートへと輝きを増します。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '御殿場 ホテル, 時之栖 イルミネーション, 御殿場プレミアムアウトレット, HOTEL CLAD, レンブラントプレミアム 富士御殿場, ドーミーイン 富士山御殿場, 富士山 温泉 露天風呂, 11月 12月 1月 静岡 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shizuoka-gotemba-tokinosumika-illumination-fuji-view-stay/"
   },
   openGraph: {
-    title: '【11・12・1月静岡】時之栖イルミ！名宿5選',
+    title: '11・12・1月静岡：時之栖イルミ！名宿5選',
     description: '11月から1月にかけて、富士山麓の御殿場・裾野エリアは日本屈指の光と冬富士の絶景リゾートへと輝きを増します。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-gotemba-tokinosumika-illumination-fuji-view-stay',
     siteName: '地域の宿探訪',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月静岡】御殿場＆裾野！時之栖イルミ＆アウトレットと冬の富士山展望露天風呂名宿5選",
+    title: "11・12・1月静岡：御殿場＆裾野！時之栖イルミ＆アウトレットと冬の富士山展望露天風呂名宿5選",
     description: "11月から1月にかけて、富士山麓の御殿場・裾野エリアは日本屈指の光と冬富士の絶景リゾートへと輝きを増します。約550万球の光が夜空を埋め尽くす御殿場高原 時之栖の「ひかりのすみか」や大迫力の噴水レーザーショー、日本最大級の御殿場プレミアム・アウトレットでの冬のショッピング。そして空気が最も澄み渡る冬ならではの冠雪富士山を湯船から一望する展望露天風呂。名物みくりやそばや静岡そだち和牛とともに満喫する冬の富士山麓滞在。楽天APIから最新取得した実力宿5選を徹底特集します。",
     images: ["https://img.travel.rakuten.co.jp/share/HOTEL/176577/176577.jpg"]
   }
@@ -232,10 +232,7 @@ export default function ShizuokaGotembaWinterPage() {
             <span>11月・12月・1月冬の富士山麓イルミネーション＆絶景温泉特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">
-            御殿場＆裾野！<br className="hidden sm:inline" />
-            時之栖イルミ＆アウトレットと冬の富士山展望露天風呂名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug sm:leading-tight mb-6">御殿場＆裾野！<br className="hidden sm:inline" /> 時之栖イルミ＆アウトレットと冬の富士山展望露天風呂名宿5選</h1>
 
           <p className="text-slate-300 text-sm sm:text-base lg:text-lg leading-relaxed max-w-3xl mb-8">
             約550万球が夜空を埋め尽くす時之栖の光の祭典「ひかりのすみか」、大迫力の噴水レーザーショー、そして日本最大級の御殿場プレミアム・アウトレット。空気が最も澄み渡る冬だからこそ出会える、冠雪の富士山を湯船から見晴らす至高の展望露天風呂と静岡美食に癒やされる冬旅をお届けします。

@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【日本屈指の満天星空＆南十字星】石垣・西表・小浜島！大自然とプライベートヴィラ極上宿5選",
+  title: "日本屈指の満天星空＆南十字星：石垣・西表・小浜島！大自然とプライベートヴィラ極上宿5選",
   description: "国内初の星空保護区に認定された八重山諸島の圧倒的な星空！全室プライベートプールやテラスを備えたリゾートヴィラから、天の川や南十字星を独占鑑賞できる極上のアイランドステイ。",
   keywords: "石垣島 リゾート ホテル, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/traditional-okinawa-yaeyama-stargazing-stay/",
   },
   openGraph: {
-    title: "【日本屈指の満天星空＆南十字星】石垣・西表・小浜島！大自然とプライベートヴィラ極上宿5選",
+    title: "日本屈指の満天星空＆南十字星：石垣・西表・小浜島！大自然とプライベートヴィラ極上宿5選",
     description: "国内初の星空保護区に認定された八重山諸島の圧倒的な星空！全室プライベートプールやテラスを備えたリゾートヴィラから、天の川や南十字星を独占鑑賞できる極上のアイランドステイ。",
     url: 'https://croud-travel.pages.dev/traditional-okinawa-yaeyama-stargazing-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【日本屈指の満天星空＆南十字星】石垣・西表・小浜島！大自然とプライベートヴィラ極上宿5選",
+    title: "日本屈指の満天星空＆南十字星：石垣・西表・小浜島！大自然とプライベートヴィラ極上宿5選",
     description: "国内初の星空保護区に認定された八重山諸島の圧倒的な星空！全室プライベートプールやテラスを備えたリゾートヴィラから、天の川や南十字星を独占鑑賞できる極上のアイランドステイ。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>満天星空＆八重山リゾートヴィラ</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【日本屈指の満天星空＆南十字星】石垣・西表・小浜島！大自然とプライベートヴィラ極上宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「日本屈指の満天星空＆南十字星」石垣・西表・小浜島！大自然とプライベートヴィラ極上宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             国内初の星空保護区に認定された八重山諸島の圧倒的な星空！全室プライベートプールやテラスを備えたリゾートヴィラから、天の川や南十字星を独占鑑賞できる極上のアイランドステイ。
           </p>

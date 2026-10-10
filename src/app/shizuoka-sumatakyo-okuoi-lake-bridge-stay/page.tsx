@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/shizuoka-sumatakyo-okuoi-lake-bridge-stay/" },
-  title: "【静岡・寸又峡＆奥大井湖上駅】死ぬまでに渡りたい夢の吊橋・アプト式鉄道宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "静岡・寸又峡＆奥大井湖上駅：死ぬまでに渡りたい夢の吊橋・アプト式鉄道宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "エメラルドグリーンの湖上絶景と美女づくりの湯・静岡寸又峡＆川根本町エリア完全特化！死ぬまでに一度は渡りたい「夢の吊橋」、湖に浮かぶ秘境駅「奥大井湖上駅（レインボーブリッジ）」、南アルプスあぷとライン、寸又峡温泉宿を徹底解説。",
   keywords: ["静岡", "寸又峡", "奥大井湖上駅", "死ぬまでに渡りたい夢の吊橋", "アプト式鉄道宿", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             SUMATAKYO & OKUOI GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【静岡・寸又峡＆奥大井湖上駅】死ぬまでに渡りたい夢の吊橋・アプト式鉄道宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「静岡・寸又峡＆奥大井湖上駅」死ぬまでに渡りたい夢の吊橋・アプト式鉄道宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-teal-100/90 leading-relaxed">
             チンダル現象が生み出す息を呑むエメラルドグリーンの水面「寸又峡・夢の吊橋」。揺れる橋の中央で祈ると恋が叶うという伝説。大井川のダム湖にぽっかりと浮かぶ神秘の秘境駅「奥大井湖上駅」。日本唯一のアプト式山岳鉄道。トロリとした「美女づくりの湯」で癒やされる秘境旅へ。
           </p>

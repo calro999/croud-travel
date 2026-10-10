@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-tangible-cultural-property-architectural-ryokan-stay/" },
-  title: '登録有形文化財・宮大工名建築旅館×ふるさと納税完全ガイド【2026年最新】修善寺・渋温泉・箱根の歴史的名宿',
+  title: '登録有形文化財・宮大工名建築旅館×ふるさと納税厳選ガイド修善寺・渋温泉・箱根の歴史的名宿',
   description: '国の登録有形文化財に指定された総檜・数寄屋造りの老舗旅館！修善寺・新井旅館や渋温泉・金具屋、箱根・環翠楼など、名工の技と歴史ロマン息づく名宿をふるさと納税宿泊クーポンでお得に予約する保存・体験の旅。',
   keywords: ["登録有形文化財", "宮大工名建築旅館×ふるさと納税", "2026年最新", "修善寺", "渋温泉", "箱根の歴史的名宿", "温泉宿"],
   openGraph: {
-    title: '登録有形文化財・宮大工名建築旅館×ふるさと納税完全ガイド【2026年最新】修善寺・渋温泉・箱根の歴史的名宿',
+    title: '登録有形文化財・宮大工名建築旅館×ふるさと納税厳選ガイド修善寺・渋温泉・箱根の歴史的名宿',
     description: '国の登録有形文化財に指定された総檜・数寄屋造りの老舗旅館！修善寺・新井旅館や渋温泉・金具屋、箱根・環翠楼など、名工の技と歴史ロマン息づく名宿をふるさと納税宿泊クーポンでお得に予約する保存・体験の旅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-tangible-cultural-property-architectural-ryokan-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FurusatoTaxPage() {
           <span className="inline-block px-4 py-1.5 rounded-full text-xs md:text-sm font-black bg-gradient-to-r from-amber-500 to-yellow-400 text-slate-950 mb-5 shadow-lg shadow-amber-500/20">
             文化財建築・歴史的名宿特集
           </span>
-          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">
-            登録有形文化財・宮大工建築旅館×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">登録有形文化財・宮大工建築旅館×ふるさと納税ガイド</h1>
           <p className="text-sm md:text-lg text-slate-300 leading-relaxed font-medium">
             国の登録有形文化財に指定された総檜・数寄屋造りの老舗旅館！修善寺・新井旅館や渋温泉・金具屋、箱根・環翠楼など、名工の技と歴史ロマン息づく名宿をふるさと納税宿泊クーポンでお得に予約する保存・体験の旅。
           </p>

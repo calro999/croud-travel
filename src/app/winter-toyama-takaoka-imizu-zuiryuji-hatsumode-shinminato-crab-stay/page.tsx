@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月富山】国宝「高岡瑞龍寺」初詣と雨晴海岸の気嵐絶景！名宿5選',
+  title: '11・12・1月富山：国宝「高岡瑞龍寺」初詣と雨晴海岸の気嵐絶景！名宿5選',
   description: '北陸富山の歴史遺産と冬の富山湾の味覚に酔いしれる11〜1月の冬旅ガイド。加賀前田家ゆかりの国宝「高岡瑞龍寺」の新春初詣や日本三大仏「高岡大仏」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '国宝 瑞龍寺 初詣, 雨晴海岸 気嵐 立山連峰, 新湊 紅ズワイガニ 昼セリ, 富山湾 寒ブリ, 雨晴温泉 磯はなび, 高岡マンテンホテル, ホテルニューオータニ高岡, 第一イン新湊, 富山 冬 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-toyama-takaoka-imizu-zuiryuji-hatsumode-shinminato-crab-stay/"
   },
   openGraph: {
-    title: '【11・12・1月富山】国宝「高岡瑞龍寺」初詣と雨晴海岸の気嵐絶景！名宿5選',
+    title: '11・12・1月富山：国宝「高岡瑞龍寺」初詣と雨晴海岸の気嵐絶景！名宿5選',
     description: '北陸富山の歴史遺産と冬の富山湾の味覚に酔いしれる11〜1月の冬旅ガイド。加賀前田家ゆかりの国宝「高岡瑞龍寺」の新春初詣や日本三大仏「高岡大仏」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-toyama-takaoka-imizu-zuiryuji-hatsumode-shinminato-crab-stay',
     type: 'article',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月富山】国宝「高岡瑞龍寺」初詣と雨晴海岸の気嵐絶景！新湊紅ズワイガニ＆高岡名宿5選",
+    title: "11・12・1月富山：国宝「高岡瑞龍寺」初詣と雨晴海岸の気嵐絶景！新湊紅ズワイガニ＆高岡名宿5選",
     description: "北陸富山の歴史遺産と冬の富山湾の味覚に酔いしれる11〜1月の冬旅ガイド。加賀前田家ゆかりの国宝「高岡瑞龍寺」の新春初詣や日本三大仏「高岡大仏」、海越しに冠雪の立山連峰を望む雨晴海岸の幻想的な「気嵐（けあらし）」絶景。新湊漁港の昼セリで競り落とされる茹でたてアツアツの「新湊紅ズワイガニ」や、真冬が旬の「富山湾寒ブリ」「白えび」。高岡・射水・雨晴の厳選ホテル・温泉宿5選を詳しくご紹介します。",
     images: ['https://images.unsplash.com/photo-1578637387939-43c525550085?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -284,11 +284,7 @@ export default function ToyamaTakaokaImizuWinterPage() {
               <Sparkles className="w-4 h-4 text-blue-300" />
               <span>11月・12月・1月冬の越中富山旅情特集</span>
             </div>
-            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 text-white drop-shadow-md">
-              富山・高岡＆射水・新湊・雨晴<br className="hidden sm:inline" />
-              国宝「高岡瑞龍寺」新春初詣＆雨晴海岸の気嵐絶景！<br className="hidden sm:inline" />
-              新湊紅ズワイガニ・富山湾寒ブリ＆高岡名宿5選
-            </h1>
+            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 text-white drop-shadow-md">富山・高岡＆射水・新湊・雨晴<br className="hidden sm:inline" /> 国宝「高岡瑞龍寺」新春初詣＆雨晴海岸の気嵐絶景！<br className="hidden sm:inline" /> 新湊紅ズワイガニ・富山湾寒ブリ＆高岡名宿5選</h1>
             <p className="max-w-3xl mx-auto text-sm md:text-lg text-blue-100 leading-relaxed drop-shadow">
               前田利長公の菩提を弔う壮麗な国宝・瑞龍寺の冬景色と新春祈願。富山湾の海面から湯気が立ち上る冬の奇跡「雨晴海岸の気嵐」と冠雪の立山連峰。新湊名物「昼セリ」直送の甘い紅ズワイガニと寒ブリを堪能する、北陸富山の冬の極上紀行。
             </p>

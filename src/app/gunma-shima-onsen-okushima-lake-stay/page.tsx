@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/gunma-shima-onsen-okushima-lake-stay/" },
-  title: "【群馬・四万温泉＆奥四万湖】奇跡の四万ブルー・千と千尋レトロ木造湯宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "群馬・四万温泉＆奥四万湖：奇跡の四万ブルー・千と千尋レトロ木造湯宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "四万の病を癒やす霊泉と息を呑むコバルトブルー・群馬四万温泉エリア完全特化！奇跡の水鏡「奥四万湖（四万ブルー・カヌー）」、現存日本最古の木造湯宿建築「積善館」、日向見薬師堂、飲泉・胃腸の名湯と上州牛宿を徹底解説。",
   keywords: ["群馬", "四万温泉", "奥四万湖", "奇跡の四万ブルー", "千と千尋レトロ木造湯宿", "温泉宿", "宿泊予約"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             SHIMA ONSEN & BLUE LAKE GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【群馬・四万温泉＆奥四万湖】奇跡の四万ブルー・千と千尋レトロ木造湯宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「群馬・四万温泉＆奥四万湖」奇跡の四万ブルー・千と千尋レトロ木造湯宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-teal-100/90 leading-relaxed">
             コバルトブルーの水面が神秘の光を放つ「奥四万湖」と「四万川」。アニメ映画のモデルとも伝わる元禄四年創業の日本最古の木造湯宿「積善館 本館（赤い慶雲橋）」。四万（よんまん）の病を治すと伝わる名湯。レトロな落合通りで焼きまんじゅうを頬張り、湯治の風情に浸る旅。
           </p>

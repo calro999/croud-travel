@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagano-hakuba-happo-stay/" },
-  title: "【長野・白馬八方尾根】白馬マウンテンハーバー＆北アルプス絶景・温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "長野・白馬八方尾根：白馬マウンテンハーバー＆北アルプス絶景・温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "長野・北アルプス白馬エリア完全特化！標高1,289mの絶景テラス「白馬マウンテンハーバー」、八方池トレッキング、白馬八方温泉の高アルカリ美肌湯、冬のパウダースノースキー場と北欧風山岳リゾートを徹底解説。",
   keywords: ["長野", "白馬八方尾根", "白馬マウンテンハーバー", "北アルプス絶景", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             HAKUBA MOUNTAIN MICRO GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【長野・白馬八方尾根】白馬マウンテンハーバー＆北アルプス絶景・温泉宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「長野・白馬八方尾根」白馬マウンテンハーバー＆北アルプス絶景・温泉宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             標高3,000m級の北アルプス白馬連峰が眼前に迫る「白馬」。山頂テラスのブランコから望む三段紅葉と雪山パノラマ。pH11を超える日本最高峰のアルカリ性美肌温泉に浸かり、大自然に抱かれる極上のリゾートへ。
           </p>

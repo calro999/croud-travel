@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月愛媛】大洲城の冬霧とミシュラン名園「臥龍山荘」！名宿5選',
+  title: '11・12・1月愛媛：大洲城の冬霧とミシュラン名園「臥龍山荘」！名宿5選',
   description: '肱川の清流と歴史情緒が息づく伊予の小京都、愛媛・大洲＆内子の11〜1月冬旅特集。江戸の古図面をもとに完全木造復元された名城「大洲城」と肱川あ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '大洲城 木造天守, 臥龍山荘 不老庵, 内子 町並み保存地区, 大洲 いもたき, 内子豚, NIPPONIA 大洲, オーベルジュ内子, 肱川あらし, 愛媛 冬 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-ehime-ozu-uchiko-castle-garyusanso-bikan-uchikobuta-stay/"
   },
   openGraph: {
-    title: '【11・12・1月愛媛】大洲城の冬霧とミシュラン名園「臥龍山荘」！名宿5選',
+    title: '11・12・1月愛媛：大洲城の冬霧とミシュラン名園「臥龍山荘」！名宿5選',
     description: '肱川の清流と歴史情緒が息づく伊予の小京都、愛媛・大洲＆内子の11〜1月冬旅特集。江戸の古図面をもとに完全木造復元された名城「大洲城」と肱川あ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-ehime-ozu-uchiko-castle-garyusanso-bikan-uchikobuta-stay',
     type: 'article',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月愛媛】大洲城の冬霧とミシュラン名園「臥龍山荘」！白壁の内子町並み散策＆名物いもたき・内子豚名宿5選",
+    title: "11・12・1月愛媛：大洲城の冬霧とミシュラン名園「臥龍山荘」！白壁の内子町並み散策＆名物いもたき・内子豚名宿5選",
     description: "肱川の清流と歴史情緒が息づく伊予の小京都、愛媛・大洲＆内子の11〜1月冬旅特集。江戸の古図面をもとに完全木造復元された名城「大洲城」と肱川あらしの冬絶景、崖上に建つ数寄屋建築の至宝「臥龍山荘」、木蝋と白壁の町並みが美しい国の重伝建地区「内子八日市・護国」、愛媛の冬を代表する郷土鍋「大洲のいもたき」、柔らかく甘み豊かな「内子豚」。大洲・内子の歴史滞在に最適な厳選ホテル・名宿5選を徹底解説します。",
     images: ['https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -284,11 +284,7 @@ export default function EhimeOzuUchikoWinterPage() {
               <Sparkles className="w-4 h-4 text-amber-300" />
               <span>11月・12月・1月冬の伊予小京都＆白壁町並み特集</span>
             </div>
-            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 text-white drop-shadow-md">
-              愛媛・大洲＆内子<br className="hidden sm:inline" />
-              大洲城の冬霧とミシュラン名園「臥龍山荘」！<br className="hidden sm:inline" />
-              白壁の内子町並み散策＆名物いもたき・内子豚名宿5選
-            </h1>
+            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 text-white drop-shadow-md">愛媛・大洲＆内子<br className="hidden sm:inline" /> 大洲城の冬霧とミシュラン名園「臥龍山荘」！<br className="hidden sm:inline" /> 白壁の内子町並み散策＆名物いもたき・内子豚名宿5選</h1>
             <p className="max-w-3xl mx-auto text-sm md:text-lg text-amber-100 leading-relaxed drop-shadow">
               肱川の清流に浮かぶ木造完全復元の名城・大洲城と、懸造の不老庵が静まり返るミシュラン名園・臥龍山荘。木蝋と和紙の豪商屋敷が連なる内子八日市の白壁散策。熱々出汁の郷土鍋「大洲のいもたき」と極上「内子豚」に心まで温まる冬の南予紀行。
             </p>

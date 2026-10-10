@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '天然クエ鍋＆幻の高級魚グルメ宿×ふるさと納税完全ガイド【2026年最新】南紀白浜・長崎五島・高知室戸の本クエ会席',
+  title: '天然クエ鍋＆幻の高級魚グルメ宿×ふるさと納税厳選ガイド南紀白浜・長崎五島・高知室戸の本クエ会席',
   description: '冬の味覚の王様・海のダイヤ！和歌山南紀白浜の「天然本クエ鍋」と白良浜オーシャン温泉、長崎五島列島の荒波で育った極上クエ薄造りリゾート、高知室戸の黒潮クエ会席＆海洋深層水スパ。ゼラチン質たっぷりの濃厚な旨味を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: ["天然クエ鍋", "2026年最新", "南紀白浜", "長崎五島", "高知室戸の本クエ会席", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kue-gourmet-luxury-fish-stay/"
   },
   openGraph: {
-    title: '天然クエ鍋＆幻の高級魚グルメ宿×ふるさと納税完全ガイド【2026年最新】南紀白浜・長崎五島・高知室戸の本クエ会席',
+    title: '天然クエ鍋＆幻の高級魚グルメ宿×ふるさと納税厳選ガイド南紀白浜・長崎五島・高知室戸の本クエ会席',
     description: '冬の味覚の王様・海のダイヤ！和歌山南紀白浜の「天然本クエ鍋」と白良浜オーシャン温泉、長崎五島列島の荒波で育った極上クエ薄造りリゾート、高知室戸の黒潮クエ会席＆海洋深層水スパ。ゼラチン質たっぷりの濃厚な旨味を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kue-gourmet-luxury-fish-stay',
     type: 'article',
@@ -54,9 +54,7 @@ export default function FurusatoFeaturePage() {
             <span>✨</span>
             <span>天然クエ鍋・幻の高級魚特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            天然クエ鍋＆幻の高級魚グルメ宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">天然クエ鍋＆幻の高級魚グルメ宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             深海の岩礁に潜み、一本釣りでしか獲れないことから「幻の高級魚」と呼ばれるクエ。上品で淡白な白身でありながら、皮と身の間のゼラチン質にはコラーゲンと濃厚な旨味が凝縮されています。フグよりも美味と称されるクエの薄造り、骨から出汁を取った黄金色のクエ鍋、香ばしいカブト焼き。本場・紀州や長崎五島、土佐の老舗名湯宿で味わう本物の味覚を、楽天ふるさと納税のトラベルクーポンでお得に堪能しましょう。
           </p>

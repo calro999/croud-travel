@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '【2026年】標高1,000mの天空世界！早朝雲海パノラマ＆温泉グランピングリゾート5選 ｜ 日本全国・旅宿クラウド',
+  title: '2026年：標高1,000mの天空世界！早朝雲海パノラマ＆温泉グランピングリゾート5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！朝起きると目の前に一面の雲海が広がる天空グランピングドームと、絶景展望露天風呂や焚き火BARを楽しめる極上アウトドア宿5選。',
   keywords: ["2026年", "温泉グランピングリゾート5選", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/super-panoramic-cloud-sea-glamping-stay/",
   },
   openGraph: {
-    title: '【2026年】標高1,000mの天空世界！早朝雲海パノラマ＆温泉グランピングリゾート5選',
+    title: '2026年：標高1,000mの天空世界！早朝雲海パノラマ＆温泉グランピングリゾート5選',
     description: '2026年最新！朝起きると目の前に一面の雲海が広がる天空グランピングドームと、絶景展望露天風呂や焚き火BARを楽しめる極上アウトドア宿5選。',
     url: 'https://croud-travel.pages.dev/super-panoramic-cloud-sea-glamping-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -172,9 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>早朝雲海パノラマ×天空グランピング</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            【2026年】標高1,000mの天空世界！早朝雲海パノラマ＆温泉グランピングリゾート5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」標高1,000mの天空世界！早朝雲海パノラマ＆温泉グランピングリゾート5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             早朝、テントのカーテンを開けると広がる足元の白い雲海と朝焼けのグラデーション。ホテルのような贅沢な快適空間と、満天の星・焚き火・天然温泉が融合した最高峰のグランピング。息をのむ大自然の奇跡に出会う感動のステイ。
           </p>

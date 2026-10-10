@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '日本三大鍾乳洞の神秘の地底美と山麓名湯宿×ふるさと納税完全ガイド【2026年最新】龍泉洞・秋芳洞・龍河洞',
+  title: '日本三大鍾乳洞の神秘の地底美と山麓名湯宿×ふるさと納税厳選ガイド龍泉洞・秋芳洞・龍河洞',
   description: '何億年もの歳月が創り上げた日本三大鍾乳洞（岩手・龍泉洞、山口・秋芳洞、高知・龍河洞）。ドラゴンブルーの地底湖や百枚皿の造形美に息を呑み、山麓の名湯温泉で癒やされる旅。楽天ふるさと納税宿泊クーポン完全活用。',
   keywords: ["2026年最新", "龍泉洞", "秋芳洞", "龍河洞", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-caves-underground-stay/",
   },
   openGraph: {
-    title: '日本三大鍾乳洞の神秘の地底美と山麓名湯宿×ふるさと納税完全ガイド【2026年最新】龍泉洞・秋芳洞・龍河洞',
+    title: '日本三大鍾乳洞の神秘の地底美と山麓名湯宿×ふるさと納税厳選ガイド龍泉洞・秋芳洞・龍河洞',
     description: '何億年もの歳月が創り上げた日本三大鍾乳洞（岩手・龍泉洞、山口・秋芳洞、高知・龍河洞）。ドラゴンブルーの地底湖や百枚皿の造形美に息を呑み、山麓の名湯温泉で癒やされる旅。楽天ふるさと納税宿泊クーポン完全活用。',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-caves-underground-stay',
     siteName: '旅宿クラウド',
@@ -108,9 +108,7 @@ export default function FurusatoUpgradedPage() {
             <span>✨</span>
             <span>日本三大鍾乳洞・地底美名湯特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            日本三大鍾乳洞の神秘の地底美と山麓名湯宿×ふるさと納税完全ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">日本三大鍾乳洞の神秘の地底美と山麓名湯宿×ふるさと納税厳選ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             地上とは隔絶された静寂と、無数の鍾乳石が織りなす神秘の世界「日本三大鍾乳洞」。世界有数の透明度を誇るドラゴンブルーの地底湖「龍泉洞」、東洋屈指のスケールを誇る千畳敷と百枚皿「秋芳洞」、神の壺が悠久の時を刻む「龍河洞」。大自然のアートを体感した後は、山麓の名湯温泉に浸かり地元の旬魚・美酒に酔いしれる贅沢。楽天ふるさと納税のトラベルクーポンを利用して、実質2,000円の自己負担で実現する地下探検＆名湯ステイへご案内します。
           </p>

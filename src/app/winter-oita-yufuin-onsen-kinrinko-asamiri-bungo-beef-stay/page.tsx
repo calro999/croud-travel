@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月由布院温泉】由布岳冠雪！名宿5選',
+  title: '由布院温泉で過ごす冬の旅（11・12月）！由布岳冠雪！名宿5選',
   description: '11月から12月にかけて大分県・由布院温泉は、冷え込んだ早朝に金鱗湖から立ち昇る幻想的な「朝霧」と、初雪を冠した優美な由布岳の絶景に包まれます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '由布院温泉 宿泊, 由布院 11月 12月, 金鱗湖 朝霧, ゆふいん花由, ゆふいん月燈庵, ゆふいん山水館, 旅亭 田乃倉, ほたるの宿 仙洞, 豊後牛 すき焼き, 由布岳 雪化粧, 大分 温泉 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-oita-yufuin-onsen-kinrinko-asamiri-bungo-beef-stay/",
   },
   openGraph: {
-    title: '【11・12月由布院温泉】由布岳冠雪！名宿5選',
+    title: '由布院温泉で過ごす冬の旅（11・12月）！由布岳冠雪！名宿5選',
     description: '11月から12月にかけて大分県・由布院温泉は、冷え込んだ早朝に金鱗湖から立ち昇る幻想的な「朝霧」と、初雪を冠した優美な由布岳の絶景に包まれます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-oita-yufuin-onsen-kinrinko-asamiri-bungo-beef-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月由布院温泉の冬名湯と金鱗湖の幻想朝霧】由布岳冠雪・離れ露天風呂と極上豊後牛＆冠地鶏鍋会席の宿5選",
+    title: "由布院温泉の冬名湯と金鱗湖の幻想朝霧で過ごす冬の旅（11・12月）！由布岳冠雪・離れ露天風呂と極上豊後牛＆冠地鶏鍋会席の宿5選",
     description: "11月から12月にかけて大分県・由布院温泉は、冷え込んだ早朝に金鱗湖から立ち昇る幻想的な「朝霧」と、初雪を冠した優美な由布岳の絶景に包まれます。メタケイ酸を豊富に含む弱アルカリ性のまろやかな美肌の湯、全室離れや客室露天風呂で過ごす静謐な冬のプライベートタイム、最高峰ブランド黒毛和牛「おおいた和牛（豊後牛）」の炭火焼きやすき焼き、大分特産「冠地鶏」のあったか地鶏鍋を堪能する至高の名宿5選を徹底解説。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80'],
   }
@@ -298,10 +298,7 @@ export default function YufuinOnsenWinterPage() {
             <Sparkles className="w-4 h-4 text-emerald-400" />
             <span>11月・12月限定 由布院盆地が白い霧に染まる奇跡の絶景と豊後牛美食旅</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月由布院温泉の冬名湯と金鱗湖の幻想朝霧】<br className="hidden sm:inline" />
-            由布岳冠雪・離れ露天風呂と極上豊後牛＆冠地鶏鍋会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">由布院温泉の冬名湯と金鱗湖の幻想朝霧で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 由布岳冠雪・離れ露天風呂と極上豊後牛＆冠地鶏鍋会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-slate-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             初冬の澄み渡る冷気の中、金鱗湖の水面を覆い尽くす黄金の朝霧。雪化粧を纏った霊峰・由布岳を仰ぐ客室露天風呂、とろける極上「おおいた和牛」と滋味豊かな地鶏鍋を味わう至高の由布院滞在。
           </p>

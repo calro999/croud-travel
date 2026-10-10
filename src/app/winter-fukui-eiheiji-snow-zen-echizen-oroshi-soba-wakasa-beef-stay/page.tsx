@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月福井】曹洞宗大本山永平寺の雪静寂！名宿5選',
+  title: '11・12・1月福井：曹洞宗大本山永平寺の雪静寂！名宿5選',
   description: '冬の福井・永平寺は、樹齢数百年を数える杉木立と回廊が純白の雪に包まれ、770余年の歴史を誇る禅の祈りが厳かに響き渡る静寂の聖地。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '永平寺 ホテル, 永平寺 親禅の宿 柏樹關, 福井 永平寺 初詣, 越前おろしそば, 若狭牛, 越前がに, コートヤードバイマリオット福井, 11月 12月 1月 福井 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukui-eiheiji-snow-zen-echizen-oroshi-soba-wakasa-beef-stay/"
   },
   openGraph: {
-    title: '【11・12・1月福井】曹洞宗大本山永平寺の雪静寂！名宿5選',
+    title: '11・12・1月福井：曹洞宗大本山永平寺の雪静寂！名宿5選',
     description: '冬の福井・永平寺は、樹齢数百年を数える杉木立と回廊が純白の雪に包まれ、770余年の歴史を誇る禅の祈りが厳かに響き渡る静寂の聖地。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-fukui-eiheiji-snow-zen-echizen-oroshi-soba-wakasa-beef-stay',
     type: 'article',
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月福井】曹洞宗大本山永平寺の雪静寂＆新春開運参拝！名物越前おろしそばと極上若狭牛・越前がにを味わう名宿5選",
+    title: "11・12・1月福井：曹洞宗大本山永平寺の雪静寂＆新春開運参拝！名物越前おろしそばと極上若狭牛・越前がにを味わう名宿5選",
     description: "冬の福井・永平寺は、樹齢数百年を数える杉木立と回廊が純白の雪に包まれ、770余年の歴史を誇る禅の祈りが厳かに響き渡る静寂の聖地。11月から1月にかけての冬期は、永平寺の新春開運参拝や坐禅体験、傘松閣の絵天井の美、名物「越前おろしそば」のピリリとした大根の辛み、そして日本海がもたらす冬の味覚の王者「越前がに」と極上黒毛和牛「若狭牛」の贅沢な味わい。北陸新幹線でより身近になった福井の歴史と美味に浸る厳選名宿5選を詳しくご案内します。"
   }
 };
@@ -229,10 +229,7 @@ export default function FukuiEiheijiPage() {
             <Snowflake className="w-4 h-4 text-teal-300" />
             11月・12月・1月冬の特選旅｜福井・永平寺＆福井市
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">
-            曹洞宗大本山永平寺の雪静寂＆新春開運参拝！<br className="hidden sm:inline" />
-            名物越前おろしそばと極上若狭牛・越前がにを味わう名宿5選
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">曹洞宗大本山永平寺の雪静寂＆新春開運参拝！<br className="hidden sm:inline" /> 名物越前おろしそばと極上若狭牛・越前がにを味わう名宿5選</h1>
           <p className="text-base sm:text-lg text-stone-200/90 leading-relaxed max-w-4xl mb-8">
             樹齢数百年の巨杉が天を突き、白銀の回廊に読経の声が響き渡る曹洞宗大本山永平寺。道元禅師が開創した770余年の祈りの聖地は、冬になると凛とした静けさに満たされ、訪れる者の心を深く洗います。新春の開運参拝や坐禅体験、傘松閣の華麗な天井画。そして冬の越前が誇る大根辛味の越前おろしそば、甘みとろける最高級黒毛和牛「若狭牛」、冬の味覚の王者「越前がに」。北陸新幹線でアクセスが向上した福井で、心と身体を整える厳選宿をご紹介します。
           </p>

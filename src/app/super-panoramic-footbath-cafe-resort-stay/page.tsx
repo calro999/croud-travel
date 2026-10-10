@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '【2026年】絶景足湯カフェ＆テラスBAR！ぽかぽか足湯とドリンクを楽しむ展望リゾート5選 ｜ 日本全国・旅宿クラウド',
+  title: '2026年：絶景足湯カフェ＆テラスBAR！ぽかぽか足湯とドリンクを楽しむ展望リゾート5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！海や山、満天の星を眺めながら足湯に浸かり、クラフトビールやハーブティーを楽しめる絶景足湯カフェ＆バー併設の人気ホテル5選。',
   keywords: ["2026年", "絶景足湯カフェ", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/super-panoramic-footbath-cafe-resort-stay/",
   },
   openGraph: {
-    title: '【2026年】絶景足湯カフェ＆テラスBAR！ぽかぽか足湯とドリンクを楽しむ展望リゾート5選',
+    title: '2026年：絶景足湯カフェ＆テラスBAR！ぽかぽか足湯とドリンクを楽しむ展望リゾート5選',
     description: '2026年最新！海や山、満天の星を眺めながら足湯に浸かり、クラフトビールやハーブティーを楽しめる絶景足湯カフェ＆バー併設の人気ホテル5選。',
     url: 'https://croud-travel.pages.dev/super-panoramic-footbath-cafe-resort-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -172,9 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>絶景足湯カフェ×テラスBAR</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            【2026年】絶景足湯カフェ＆テラスBAR！ぽかぽか足湯とドリンクを楽しむ展望リゾート5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」絶景足湯カフェ＆テラスBAR！ぽかぽか足湯とドリンクを楽しむ展望リゾート5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             心地よい温もりに足を浸しながら、目の前に広がる水平線やアルプスの山並みを眺める至福の時間。オープンテラスの足湯カフェで味わう特製スイーツや地ビール、夜はライトアップされた足湯バーでカクテルを片手に星空観賞ができるリゾートホテル。
           </p>

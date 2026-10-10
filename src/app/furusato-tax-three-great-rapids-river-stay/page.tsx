@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '日本三大急流の豪快な舟下りと大自然リバーサイド温泉宿×ふるさと納税完全ガイド【2026年最新】最上川・富士川・球磨川',
+  title: '日本三大急流の豪快な舟下りと大自然リバーサイド温泉宿×ふるさと納税厳選ガイド最上川・富士川・球磨川',
   description: '轟く水飛沫とダイナミックな渓谷美を誇る「日本三大急流」（山形・最上川、山梨・富士川、熊本・球磨川）。芭蕉ゆかりの舟下り、信玄の隠し湯・下部温泉、清流アユと天然露天風呂。楽天ふるさと納税宿泊クーポン完全活用。',
   keywords: ["2026年最新", "最上川", "富士川", "球磨川", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-rapids-river-stay/",
   },
   openGraph: {
-    title: '日本三大急流の豪快な舟下りと大自然リバーサイド温泉宿×ふるさと納税完全ガイド【2026年最新】最上川・富士川・球磨川',
+    title: '日本三大急流の豪快な舟下りと大自然リバーサイド温泉宿×ふるさと納税厳選ガイド最上川・富士川・球磨川',
     description: '轟く水飛沫とダイナミックな渓谷美を誇る「日本三大急流」（山形・最上川、山梨・富士川、熊本・球磨川）。芭蕉ゆかりの舟下り、信玄の隠し湯・下部温泉、清流アユと天然露天風呂。楽天ふるさと納税宿泊クーポン完全活用。',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-rapids-river-stay',
     siteName: '旅宿クラウド',
@@ -108,9 +108,7 @@ export default function FurusatoUpgradedPage() {
             <span>✨</span>
             <span>日本三大急流・水辺の躍動ステイ特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            日本三大急流の豪快な舟下りと大自然リバーサイド温泉宿×ふるさと納税完全ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">日本三大急流の豪快な舟下りと大自然リバーサイド温泉宿×ふるさと納税厳選ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             山々を切り裂き、轟音とともに流れる圧倒的な水量とダイナミックな渓谷景観「日本三大急流」。「五月雨をあつめて早し」と詠まれた最上川の舟下り、甲州から駿河へと注ぐ急流富士川と名湯下部温泉、そして九州山地を潤す清流球磨川のラフティングとアユ美食。川のせせらぎとマイナスイオンに包まれ、贅沢な源泉かけ流し露天風呂に身を委ねる時間。楽天ふるさと納税の宿泊割引クーポンを利用して、実質2,000円の自己負担で叶える迫力満点のリバーサイドステイへご案内します。
           </p>

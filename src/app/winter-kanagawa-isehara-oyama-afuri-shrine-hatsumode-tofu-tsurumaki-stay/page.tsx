@@ -6,14 +6,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月神奈川】「大山阿夫利神社」新春初詣と！名宿5選',
+  title: '11・12・1月神奈川：「大山阿夫利神社」新春初詣と！名宿5選',
   description: '江戸時代から庶民の信仰を集め日本遺産にも認定された「大山詣り」。11〜1月の冬シーズンは空気が研ぎ澄まされ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '大山阿夫利神社 初詣, 大山詣り, 大山豆腐, 鶴巻温泉 元湯陣屋, 七沢温泉 福元館, 七扇, 玉翠楼, ルートイン伊勢原, ミシュラン 相模湾 絶景, 神奈川 冬温泉',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-kanagawa-isehara-oyama-afuri-shrine-hatsumode-tofu-tsurumaki-stay'
   },
   openGraph: {
-    title: '【11・12・1月神奈川】「大山阿夫利神社」新春初詣と！名宿5選',
+    title: '11・12・1月神奈川：「大山阿夫利神社」新春初詣と！名宿5選',
     description: '江戸時代から庶民の信仰を集め日本遺産にも認定された「大山詣り」。11〜1月の冬シーズンは空気が研ぎ澄まされ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-kanagawa-isehara-oyama-afuri-shrine-hatsumode-tofu-tsurumaki-stay',
     type: 'article',
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月神奈川】「大山阿夫利神社」新春初詣と相模湾冬パノラマ！名水大山豆腐料理＆名湯「鶴巻・七沢温泉」厳選名宿5選",
+    title: "11・12・1月神奈川：「大山阿夫利神社」新春初詣と相模湾冬パノラマ！名水大山豆腐料理＆名湯「鶴巻・七沢温泉」厳選名宿5選",
     description: "江戸時代から庶民の信仰を集め日本遺産にも認定された「大山詣り」。11〜1月の冬シーズンは空気が研ぎ澄まされ、大山阿夫利神社下社境内からミシュラン二つ星に輝く相模湾・江の島・房総半島までの絶景パノラマが広がります。標高1,252mの霊峰で迎える厳かな新春初詣と大山寺の静寂。参道で味わう名水仕込みの熱々大山豆腐会席や名物猪鍋。冷えた身体を芯から解きほぐす世界屈指のカルシウム含有量を誇る「鶴巻温泉」や東丹沢の秘湯「七沢温泉」の厳選名宿5選を徹底特集。",
     images: ['https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -281,10 +281,7 @@ export default function KanagawaOyamaWinterPage() {
             <Snowflake className="w-4 h-4 text-teal-300" />
             <span>関東・神奈川 湘南・東丹沢 冬の特別紀行（11月・12月・1月）</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 font-journal-serif">
-            「大山阿夫利神社」新春初詣と相模湾冬パノラマ！<br className="hidden md:inline" />
-            名水大山豆腐料理＆名湯「鶴巻・七沢温泉」厳選名宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 font-journal-serif">「大山阿夫利神社」新春初詣と相模湾冬パノラマ！<br className="hidden md:inline" /> 名水大山豆腐料理＆名湯「鶴巻・七沢温泉」厳選名宿5選</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mb-6">
             新宿駅から小田急ロマンスカーで伊勢原まで約50分。古代より「雨降山（あふりやま）」として水の神・山の神を祀り、江戸時代には庶民の爆発的なブームとなった日本遺産「大山詣り」。11〜1月の冬期は、大気中の湿度が劇的に下がり、阿夫利神社下社から見渡す相模湾・江の島・三浦半島・房総半島の大パノラマがミシュラン二つ星の輝きを放ちます。名水で仕立てる熱々大山豆腐会席、丹沢の野趣あふれるぼたん鍋。そして世界屈指の名湯・鶴巻温泉や東丹沢屈指のとろみ湯・七沢温泉の名旅館へご案内します。
           </p>

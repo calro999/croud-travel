@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-ski-snowboard-slope-resort-stay/" },
-  title: '【ゲレンデ直結×白銀リゾート】スキー・スノボ＆雪見露天風呂をふるさと納税でお得に楽しむ旅 | クラウドトラベル',
+  title: 'ゲレンデ直結×白銀リゾート：スキー・スノボ＆雪見露天風呂をふるさと納税でお得に楽しむ旅 | クラウドトラベル',
   description: 'リフト券や用具レンタル込みの高額スキーツアーも実質30％オフ！ニセコ・白馬・越後湯沢のスキー場直結ホテルと雪見温泉宿を厳選。パウダースノーと極上温泉をふるさと納税で賢く満喫する完全攻略法。',
   openGraph: {
-    title: '【ゲレンデ直結×白銀リゾート】スキー・スノボ＆雪見露天風呂をふるさと納税でお得に楽しむ旅 | クラウドトラベル',
+    title: 'ゲレンデ直結×白銀リゾート：スキー・スノボ＆雪見露天風呂をふるさと納税でお得に楽しむ旅 | クラウドトラベル',
     description: 'リフト券や用具レンタル込みの高額スキーツアーも実質30％オフ！ニセコ・白馬・越後湯沢のスキー場直結ホテルと雪見温泉宿を厳選。パウダースノーと極上温泉をふるさと納税で賢く満喫する完全攻略法。',
     type: 'article',
   },
@@ -59,9 +59,7 @@ export default function Page() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             ふるさと納税×スキー場直結・スノーリゾート
           </div>
-          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            【ゲレンデ直結×白銀リゾート】スキー・スノボ＆雪見露天風呂をふるさと納税でお得に楽しむ旅
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">「ゲレンデ直結×白銀リゾート」スキー・スノボ＆雪見露天風呂をふるさと納税でお得に楽しむ旅</h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl mb-6">
             冬のアウトドアの花形であるスキー＆スノーボード旅行。近年はインバウンド人気や物価高の影響で、リフト1日券やゲレンデサイドホテルの宿泊料金が高騰傾向にあります。家族連れやグループで数泊すると15万〜30万円を超えることも珍しくありません。そこで冬のスキーヤー・スノーボーダーに強くおすすめしたいのが、楽天ふるさと納税のトラベルクーポンです。自治体への寄付で獲得した30％宿泊補助クーポンを使えば、ブーツを履いたまま部屋を出てリフトに直行できる「ゲレンデ直結ホテル」や、滑走後の冷えた身体を芯から温める「雪見露天風呂自慢の温泉宿」にお得にステイできます。パウダースノーの聖地・ニセコ、北アルプスの絶景が広がる白馬、首都圏から新幹線で最速70分の越後湯沢など、白銀の世界へご案内します。
           </p>

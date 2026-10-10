@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【A5米沢牛すき焼き＆佐藤錦さくらんぼ】山形名物グルメと小野川・天童・かみのやま温泉宿5選",
+  title: "A5米沢牛すき焼き＆佐藤錦さくらんぼ：山形名物グルメと小野川・天童・かみのやま温泉宿5選",
   description: "日本三大和牛「米沢牛」のとろける極上すき焼き・ステーキと、初夏の赤い宝石「佐藤錦」さくらんぼスイーツ！将棋の街・天童温泉や美肌のかみのやま温泉で、フルーツ王国山形の美食と名湯を堪能する旅。",
   keywords: "天童温泉 露天風呂 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/spring-yamagata-yonezawa-beef-cherry-stay/",
   },
   openGraph: {
-    title: "【A5米沢牛すき焼き＆佐藤錦さくらんぼ】山形名物グルメと小野川・天童・かみのやま温泉宿5選",
+    title: "A5米沢牛すき焼き＆佐藤錦さくらんぼ：山形名物グルメと小野川・天童・かみのやま温泉宿5選",
     description: "日本三大和牛「米沢牛」のとろける極上すき焼き・ステーキと、初夏の赤い宝石「佐藤錦」さくらんぼスイーツ！将棋の街・天童温泉や美肌のかみのやま温泉で、フルーツ王国山形の美食と名湯を堪能する旅。",
     url: 'https://croud-travel.pages.dev/spring-yamagata-yonezawa-beef-cherry-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【A5米沢牛すき焼き＆佐藤錦さくらんぼ】山形名物グルメと小野川・天童・かみのやま温泉宿5選",
+    title: "A5米沢牛すき焼き＆佐藤錦さくらんぼ：山形名物グルメと小野川・天童・かみのやま温泉宿5選",
     description: "日本三大和牛「米沢牛」のとろける極上すき焼き・ステーキと、初夏の赤い宝石「佐藤錦」さくらんぼスイーツ！将棋の街・天童温泉や美肌のかみのやま温泉で、フルーツ王国山形の美食と名湯を堪能する旅。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>米沢牛すき焼き＆佐藤錦スイーツ</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【A5米沢牛すき焼き＆佐藤錦さくらんぼ】山形名物グルメと小野川・天童・かみのやま温泉宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「A5米沢牛すき焼き＆佐藤錦さくらんぼ」山形名物グルメと小野川・天童・かみのやま温泉宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             日本三大和牛「米沢牛」のとろける極上すき焼き・ステーキと、初夏の赤い宝石「佐藤錦」さくらんぼスイーツ！将棋の街・天童温泉や美肌のかみのやま温泉で、フルーツ王国山形の美食と名湯を堪能する旅。
           </p>

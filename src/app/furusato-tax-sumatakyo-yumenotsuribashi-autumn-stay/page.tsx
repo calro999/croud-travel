@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '寸又峡・夢の吊橋のエメラルド湖面紅葉＆美女づくりの湯！秘境寸又峡温泉×ふるさと納税完全ガイド【2026年最新秋旅】静岡',
+  title: '寸又峡・夢の吊橋のエメラルド湖面紅葉＆美女づくりの湯！秘境寸又峡温泉×ふるさと納税厳選ガイド静岡',
   description: '11月上旬〜下旬にエメラルドグリーンのチンダル湖と紅葉が奇跡のコントラストを描く「静岡・寸又峡 夢の吊橋」。南アルプスの山懐に抱かれた秘湯「寸又峡温泉 湯屋飛龍の宿」「光山荘」「土筆旅館」で肌がとろけるような重曹泉「美女づくりの湯」と南アルプス鹿肉ジビエ・川魚料理を堪能。ふるさと納税で実質2,000円。',
   keywords: ["寸又峡", "夢の吊橋のエメラルド湖面紅葉", "2026年最新秋旅", "静岡", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-sumatakyo-yumenotsuribashi-autumn-stay/"
   },
   openGraph: {
-    title: '寸又峡・夢の吊橋のエメラルド湖面紅葉＆美女づくりの湯！秘境寸又峡温泉×ふるさと納税完全ガイド【2026年最新秋旅】静岡',
+    title: '寸又峡・夢の吊橋のエメラルド湖面紅葉＆美女づくりの湯！秘境寸又峡温泉×ふるさと納税厳選ガイド静岡',
     description: '11月上旬〜下旬にエメラルドグリーンのチンダル湖と紅葉が奇跡のコントラストを描く「静岡・寸又峡 夢の吊橋」。南アルプスの山懐に抱かれた秘湯「寸又峡温泉 湯屋飛龍の宿」「光山荘」「土筆旅館」で肌がとろけるような重曹泉「美女づくりの湯」と南アルプス鹿肉ジビエ・川魚料理を堪能。ふるさと納税で実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-sumatakyo-yumenotsuribashi-autumn-stay',
     siteName: '旅宿クラウド',
@@ -113,9 +113,7 @@ export default function FeatureArticlePage() {
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">
-            寸又峡・夢の吊橋のエメラルド湖面紅葉＆美女づくりの湯！秘境寸又峡温泉×ふるさと納税完全ガイド【2026年最新秋旅】静岡
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">寸又峡・夢の吊橋のエメラルド湖面紅葉＆美女づくりの湯！秘境寸又峡温泉×ふるさと納税厳選ガイド静岡</h1>
           <p className="text-sm md:text-lg text-stone-200 max-w-3xl mx-auto leading-relaxed">
             エメラルドグリーンの湖面に架かる夢の吊橋紅葉と、とろとろの肌触りを誇る美女づくりの湯。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
           </p>

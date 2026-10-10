@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-strawberry-picking-resort/" },
-  title: "【もぎたて完熟】冬・春いちご狩り＆温泉リゾートホテル 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "もぎたて完熟：冬・春いちご狩り＆温泉リゾートホテル 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "甘くてジューシーな完熟いちご食べ放題！栃木（とちおとめ＆スカイベリー）、静岡伊豆（紅ほっぺ）、千葉南房総、福岡（あまおう）など、観光農園でのいちご狩りと極上温泉をセットで楽しむ冬旅宿を徹底解説。",
   keywords: ["もぎたて完熟", "春いちご狩り", "温泉リゾートホテル", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -98,9 +98,7 @@ export default function SeasonalFeaturePage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             STRAWBERRY PICKING & SPA
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【もぎたて完熟】冬・春いちご狩り＆温泉リゾートホテル 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「もぎたて完熟」冬・春いちご狩り＆温泉リゾートホテル 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             12月から春にかけて最盛期を迎えるいちご狩り。大粒で真っ赤に実った完熟いちごをその場で頬張る幸せ。いちご狩り農園へのアクセスが良く、温泉やご当地スイーツを楽しめる人気ホテルへ。
           </p>

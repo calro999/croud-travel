@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '【2026年】プライベートクルーズ＆ヨットハーバー！海から絶景を望む極上マリーナリゾート5選 ｜ 日本全国・旅宿クラウド',
+  title: '2026年：プライベートクルーズ＆ヨットハーバー！海から絶景を望む極上マリーナリゾート5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！専用クルーザーでのサンセットクルージングやマリーナ直結のオーシャンビュー客室と天然温泉を楽しめるラグジュアリーホテル5選。',
   keywords: ["2026年", "プライベートクルーズ", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/luxury-chartered-yacht-cruising-resort-stay/",
   },
   openGraph: {
-    title: '【2026年】プライベートクルーズ＆ヨットハーバー！海から絶景を望む極上マリーナリゾート5選',
+    title: '2026年：プライベートクルーズ＆ヨットハーバー！海から絶景を望む極上マリーナリゾート5選',
     description: '2026年最新！専用クルーザーでのサンセットクルージングやマリーナ直結のオーシャンビュー客室と天然温泉を楽しめるラグジュアリーホテル5選。',
     url: 'https://croud-travel.pages.dev/luxury-chartered-yacht-cruising-resort-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -172,9 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>プライベートクルーズ×マリーナリゾート</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            【2026年】プライベートクルーズ＆ヨットハーバー！海から絶景を望む極上マリーナリゾート5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」プライベートクルーズ＆ヨットハーバー！海から絶景を望む極上マリーナリゾート5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             青く輝く海をプライベートクルーザーで巡る爽快なサンセットクルーズ。マリーナに面した開放的なテラス、波音を聞きながら浸かる天然温泉露天風呂、そして新鮮な海の幸を味わう極上ディナー。海を愛する大人のための贅沢なマリンリゾートをご案内します。
           </p>

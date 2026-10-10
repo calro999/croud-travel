@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月岩手】名物瓶ドン」と太平洋絶景オーシャンビュー！名宿5選',
+  title: '11・12・1月岩手：名物瓶ドン」と太平洋絶景オーシャンビュー！名宿5選',
   description: '冬の澄み渡る群青の太平洋と白銀の奇岩美を巡る11〜1月の岩手・三陸海岸（宮古・田老・久慈）特集。国の名勝「浄土ヶ浜」の冬景色や。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '浄土ヶ浜 冬, 三陸 毛ガニ 宿, 宮古 瓶ドン, 寒アワビ 岩手, 三陸復興国立公園 観光, 休暇村 陸中宮古, 浄土ヶ浜パークホテル, 三陸鉄道 こたつ列車, 宮古市 ホテル',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-iwate-sanriku-miyako-jodogahama-kegani-stay/"
   },
   openGraph: {
-    title: '【11・12・1月岩手】名物瓶ドン」と太平洋絶景オーシャンビュー！名宿5選',
+    title: '11・12・1月岩手：名物瓶ドン」と太平洋絶景オーシャンビュー！名宿5選',
     description: '冬の澄み渡る群青の太平洋と白銀の奇岩美を巡る11〜1月の岩手・三陸海岸（宮古・田老・久慈）特集。国の名勝「浄土ヶ浜」の冬景色や。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-iwate-sanriku-miyako-jodogahama-kegani-stay',
     type: 'article',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月岩手】白銀の浄土ヶ浜と冬の三陸海鮮紀行！旬を迎える「三陸毛ガニ・寒アワビ・名物瓶ドン」と太平洋絶景オーシャンビュー名宿5選",
+    title: "11・12・1月岩手：白銀の浄土ヶ浜と冬の三陸海鮮紀行！旬を迎える「三陸毛ガニ・寒アワビ・名物瓶ドン」と太平洋絶景オーシャンビュー名宿5選",
     description: "冬の澄み渡る群青の太平洋と白銀の奇岩美を巡る11〜1月の岩手・三陸海岸（宮古・田老・久慈）特集。国の名勝「浄土ヶ浜」の冬景色や、冬に最も甘みとカニ味噌が詰まる「三陸宮古の毛ガニ」、11〜12月限定の伝統「寒アワビ」、宮古発祥の名物「瓶ドン」。三陸復興国立公園のダイナミックな海岸美と水平線を望む絶景オーシャンビュー名宿5選を完全ガイドします。",
     images: ['https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -284,11 +284,7 @@ export default function IwateSanrikuMiyakoWinterPage() {
               <Sparkles className="w-4 h-4 text-cyan-300" />
               <span>11月・12月・1月冬の東北旅情特集</span>
             </div>
-            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 text-white drop-shadow-md">
-              岩手・三陸宮古＆久慈・浄土ヶ浜<br className="hidden sm:inline" />
-              白銀の浄土ヶ浜絶景と冬が旬の「三陸毛ガニ・寒アワビ」<br className="hidden sm:inline" />
-              名物「瓶ドン」＆太平洋展望オーシャンビュー名宿5選
-            </h1>
+            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 text-white drop-shadow-md">岩手・三陸宮古＆久慈・浄土ヶ浜<br className="hidden sm:inline" /> 白銀の浄土ヶ浜絶景と冬が旬の「三陸毛ガニ・寒アワビ」<br className="hidden sm:inline" /> 名物「瓶ドン」＆太平洋展望オーシャンビュー名宿5選</h1>
             <p className="max-w-3xl mx-auto text-sm md:text-lg text-blue-100 leading-relaxed drop-shadow">
               冬の澄み渡る群青の海と、白雪をまとった白緑色の奇岩が織りなす極楽浄土の絶景「浄土ヶ浜」。親潮が育む冬の最高峰「三陸毛ガニ」の濃厚なカニ味噌、伝統の寒アワビ、そして自分好みで盛り付ける名物「瓶ドン」を心ゆくまで味わう冬の三陸海鮮紀行。
             </p>

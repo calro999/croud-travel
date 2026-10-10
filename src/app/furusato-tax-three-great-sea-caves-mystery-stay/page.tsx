@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-sea-caves-mystery-stay/" },
-  title: '日本三大海食洞＆波濤が穿った奇跡の洞門・神秘の青の洞窟と絶景海宿×ふるさと納税完全ガイド【2026年最新】堂ヶ島・芥屋の大門・七ツ釜',
+  title: '日本三大海食洞＆波濤が穿った奇跡の洞門・神秘の青の洞窟と絶景海宿×ふるさと納税厳選ガイド堂ヶ島・芥屋の大門・七ツ釜',
   description: '荒波と大自然の彫刻が織りなす神秘の海食洞窟！西伊豆「堂ヶ島天窓洞」天然記念物の青の洞窟と堂ヶ島温泉ホテル、福岡糸島「芥屋の大門」日本最大の玄武岩柱状節理洞門とグローカルホテル糸島、佐賀唐津「屋形石の七ツ釜」玄界灘の激浪が穿った七つの洞窟と唐津シーサイドホテル。日本三大海食洞の神秘と海の幸を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大海食洞・秘境ジオ特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大海食洞＆波濤が穿った奇跡の洞門・神秘の青の洞窟と絶景海宿×ふるさと納税完全ガイド【2026年最新】堂ヶ島・芥屋の大門・七ツ釜',
+    title: '日本三大海食洞＆波濤が穿った奇跡の洞門・神秘の青の洞窟と絶景海宿×ふるさと納税厳選ガイド堂ヶ島・芥屋の大門・七ツ釜',
     description: '荒波と大自然の彫刻が織りなす神秘の海食洞窟！西伊豆「堂ヶ島天窓洞」天然記念物の青の洞窟と堂ヶ島温泉ホテル、福岡糸島「芥屋の大門」日本最大の玄武岩柱状節理洞門とグローカルホテル糸島、佐賀唐津「屋形石の七ツ釜」玄界灘の激浪が穿った七つの洞窟と唐津シーサイドホテル。日本三大海食洞の神秘と海の幸を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-sea-caves-mystery-stay',
@@ -142,9 +142,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大海食洞・秘境ジオ特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大海食洞＆青の洞窟・波濤の造形美宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大海食洞＆青の洞窟・波濤の造形美宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             何万年もの歳月にわたり打ち寄せた怒濤が岩肌を削り、神秘的なドームやトンネルを穿った「日本三大海食洞」――遊覧船で洞窟内に入ると天井が丸く抜け光が射し込む青の洞窟として世界的にも名高い静岡西伊豆の「堂ヶ島天窓洞」、玄武岩の六角柱が見事に整列した日本最大の柱状節理海食洞であり国の天然記念物にも指定されている福岡糸島の「芥屋の大門（けやのおおと）」、そして玄界灘の荒波によって深く彫り込まれた七つの洞門が並び遊覧船「イカ丸」での洞窟潜入クルーズがスリリングな佐賀唐津の「屋形石の七ツ釜」。海食洞の神秘に息をのんだ後は、伊豆の金目鯛や玄界灘の活イカ、極上のオーシャンビュー温泉露天風呂で心身を解きほぐす特別な休日を楽天ふるさと納税でお楽しみください。
           </p>

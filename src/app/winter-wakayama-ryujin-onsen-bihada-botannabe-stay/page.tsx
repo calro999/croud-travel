@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月和歌山・龍神温泉】名物紀州天然ぼたん鍋！名宿5選',
+  title: '和歌山・龍神温泉で過ごす冬の旅（11・12月）！名物紀州天然ぼたん鍋！名宿5選',
   description: '11月から12月にかけて、紀伊半島の奥深き山懐・日高川の上流に位置する「龍神温泉」は、山々の晩秋の紅葉が散り落ち。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '龍神温泉 宿泊, 和歌山 温泉 11月 12月, 季楽里 龍神, 下御殿, 上御殿, 美人亭, 民宿旅館 ささゆり, 日本三美人の湯, ぼたん鍋, 熊野牛 会席, 日高川 渓谷露天',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-wakayama-ryujin-onsen-bihada-botannabe-stay/"
   },
   openGraph: {
-    title: '【11・12月和歌山・龍神温泉】名物紀州天然ぼたん鍋！名宿5選',
+    title: '和歌山・龍神温泉で過ごす冬の旅（11・12月）！名物紀州天然ぼたん鍋！名宿5選',
     description: '11月から12月にかけて、紀伊半島の奥深き山懐・日高川の上流に位置する「龍神温泉」は、山々の晩秋の紅葉が散り落ち。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-wakayama-ryujin-onsen-bihada-botannabe-stay',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -246,10 +246,7 @@ export default function WakayamaRyujinWinterFeature() {
             <Droplets className="w-4 h-4" />
             11月・12月 日本三美人の湯＆極上ぼたん鍋特集｜和歌山・龍神温泉
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            初冬渓谷美と日本三美人の湯<br className="hidden sm:inline" />
-            名物紀州天然ぼたん鍋＆最高峰熊野牛会席の隠れ家宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">初冬渓谷美と日本三美人の湯<br className="hidden sm:inline" /> 名物紀州天然ぼたん鍋＆最高峰熊野牛会席の隠れ家宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             弘法大師ゆかりの霊泉にして徳川藩主の隠し湯。日高川の渓流に朝霧が立ち込める静寂の中、トロトロの重曹泉で潤い、11月狩猟解禁の天然猪ぼたん鍋と熊野牛に心満たされる極上の休日。
           </p>

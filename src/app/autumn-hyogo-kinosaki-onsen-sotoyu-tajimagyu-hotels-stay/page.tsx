@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【秋の浴衣散歩と七つの外湯！城崎温泉】極上但馬牛と老舗・有形文化財の名旅館5選",
+  title: "秋の浴衣散歩と七つの外湯！城崎温泉：極上但馬牛と老舗・有形文化財の名旅館5選",
   description: "柳並木と太鼓橋が続く風情あふれる城崎温泉！名物「七つの外湯巡り」を浴衣と下駄で楽しみ、世界の舌を魅了する但馬牛や旬の日本海グルメを味わうおすすめ名宿5選。",
   keywords: "城崎温泉 外湯巡り 旅館 おすすめ, 城崎温泉 但馬牛 宿泊, 西村屋本館, 三木屋 城崎, 城崎 浴衣 散策",
   alternates: {
     canonical: "https://croud-travel.pages.dev/autumn-hyogo-kinosaki-onsen-sotoyu-tajimagyu-hotels-stay/",
   },
   openGraph: {
-    title: "【秋の浴衣散歩と七つの外湯！城崎温泉】極上但馬牛と老舗・有形文化財の名旅館5選",
+    title: "秋の浴衣散歩と七つの外湯！城崎温泉：極上但馬牛と老舗・有形文化財の名旅館5選",
     description: "柳並木と太鼓橋が続く風情あふれる城崎温泉！名物「七つの外湯巡り」を浴衣と下駄で楽しみ、世界の舌を魅了する但馬牛や旬の日本海グルメを味わうおすすめ名宿5選。",
     url: 'https://croud-travel.pages.dev/autumn-hyogo-kinosaki-onsen-sotoyu-tajimagyu-hotels-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【秋の浴衣散歩と七つの外湯！城崎温泉】極上但馬牛と老舗・有形文化財の名旅館5選",
+    title: "秋の浴衣散歩と七つの外湯！城崎温泉：極上但馬牛と老舗・有形文化財の名旅館5選",
     description: "柳並木と太鼓橋が続く風情あふれる城崎温泉！名物「七つの外湯巡り」を浴衣と下駄で楽しみ、世界の舌を魅了する但馬牛や旬の日本海グルメを味わうおすすめ名宿5選。",
   }
 };
@@ -131,9 +131,7 @@ export default function FeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             名湯街歩き特集・外湯巡りと但馬牛
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【秋の浴衣散歩と七つの外湯！城崎温泉】<br className="hidden sm:inline" />極上但馬牛と老舗・有形文化財の名旅館5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">「秋の浴衣散歩と七つの外湯！城崎温泉」<br className="hidden sm:inline" />極上但馬牛と老舗・有形文化財の名旅館5選</h1>
           <p className="max-w-2xl mx-auto text-sm md:text-base text-stone-200 leading-relaxed">
             大谿川沿いの柳並木と太鼓橋。カランコロンと下駄の音を響かせながら巡る「七つの外湯」。秋風が心地よい温泉街で、世界に誇る黒毛和牛の最高峰「但馬牛」に舌鼓を打つ至福の休日。
           </p>

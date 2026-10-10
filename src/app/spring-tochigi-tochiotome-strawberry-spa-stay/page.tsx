@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【とちおとめ＆スカイベリー苺スイーツ】日光・鬼怒川温泉の贅沢ビュッフェと名湯宿5選",
+  title: "とちおとめ＆スカイベリー苺スイーツ：日光・鬼怒川温泉の贅沢ビュッフェと名湯宿5選",
   description: "いちご王国・栃木が誇る「とちおとめ」「スカイベリー」「とちあいか」の食べ比べスイーツ！日光東照宮や鬼怒川渓谷の絶景を楽しみながら、豪華ディナービュッフェと美肌温泉を満喫する大満足ステイ。",
   keywords: "鬼怒川温泉 露天風呂 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/spring-tochigi-tochiotome-strawberry-spa-stay/",
   },
   openGraph: {
-    title: "【とちおとめ＆スカイベリー苺スイーツ】日光・鬼怒川温泉の贅沢ビュッフェと名湯宿5選",
+    title: "とちおとめ＆スカイベリー苺スイーツ：日光・鬼怒川温泉の贅沢ビュッフェと名湯宿5選",
     description: "いちご王国・栃木が誇る「とちおとめ」「スカイベリー」「とちあいか」の食べ比べスイーツ！日光東照宮や鬼怒川渓谷の絶景を楽しみながら、豪華ディナービュッフェと美肌温泉を満喫する大満足ステイ。",
     url: 'https://croud-travel.pages.dev/spring-tochigi-tochiotome-strawberry-spa-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【とちおとめ＆スカイベリー苺スイーツ】日光・鬼怒川温泉の贅沢ビュッフェと名湯宿5選",
+    title: "とちおとめ＆スカイベリー苺スイーツ：日光・鬼怒川温泉の贅沢ビュッフェと名湯宿5選",
     description: "いちご王国・栃木が誇る「とちおとめ」「スカイベリー」「とちあいか」の食べ比べスイーツ！日光東照宮や鬼怒川渓谷の絶景を楽しみながら、豪華ディナービュッフェと美肌温泉を満喫する大満足ステイ。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>栃木プレミアム苺＆鬼怒川名湯</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【とちおとめ＆スカイベリー苺スイーツ】日光・鬼怒川温泉の贅沢ビュッフェと名湯宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「とちおとめ＆スカイベリー苺スイーツ」日光・鬼怒川温泉の贅沢ビュッフェと名湯宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             いちご王国・栃木が誇る「とちおとめ」「スカイベリー」「とちあいか」の食べ比べスイーツ！日光東照宮や鬼怒川渓谷の絶景を楽しみながら、豪華ディナービュッフェと美肌温泉を満喫する大満足ステイ。
           </p>

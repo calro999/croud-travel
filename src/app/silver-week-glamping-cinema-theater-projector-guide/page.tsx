@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-cinema-theater-projector-guide/" },
-  title: "【プロジェクター・巨大シアター付きグランピング】テント内で映画鑑賞＆推し活！夜長を楽しむシアターステイ ｜ 日本全国・旅宿クラウド",
+  title: "プロジェクター・巨大シアター付きグランピング：テント内で映画鑑賞＆推し活！夜長を楽しむシアターステイ ｜ 日本全国・旅宿クラウド",
   description:
     "ドームテントの天井や大画面スクリーンに映像を投影！100インチ超えの大迫力プロジェクター、高音質スピーカー完備、動画配信サービス見放題で楽しむ夜の映画祭＆推し活お泊まり会。",
   keywords: ["プロジェクター", "巨大シアター付きグランピング", "テント内で映画鑑賞", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
@@ -172,9 +172,7 @@ export default function SilverWeekGlampingCinemaTheaterProjectorPage() {
             </span>
           </div>
 
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【プロジェクター・巨大シアター付きグランピング】テント内で映画鑑賞＆推し活！夜長を楽しむシアターステイ
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「プロジェクター・巨大シアター付きグランピング」テント内で映画鑑賞＆推し活！夜長を楽しむシアターステイ</h1>
 
           <p className="text-xs md:text-sm text-indigo-100/90 leading-relaxed font-medium">
             ドームテントの白い壁や天井一面に投影される100インチ超えの銀幕。涼風が心地よい秋の夜長、気の置けない仲間や恋人とベッドに横たわりながら、映画の世界に没入する贅沢を味わいませんか？高音質スピーカー、ポップコーン、推し活ライブ鑑賞にも最適なプロジェクター完備のシアターグランピングを厳選しました。

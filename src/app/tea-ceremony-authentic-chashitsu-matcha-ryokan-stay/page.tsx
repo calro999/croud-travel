@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tea-ceremony-authentic-chashitsu-matcha-ryokan-stay/" },
-  title: '茶道・本格茶室＆抹茶体験宿完全ガイド【京都・金沢・宇治数寄屋ステイ】 | クラウドトラベル',
+  title: '茶道・本格茶室＆抹茶体験宿厳選ガイド「京都・金沢・宇治数寄屋ステイ」 | クラウドトラベル',
   description: '数寄屋造りの名門旅館に備えられた本格茶室、裏千家・表千家の点前体験、加賀百万石の茶の湯文化、宇治の茶畑を望むティーリゾートを特集。一期一会の精神と極上和菓子を味わう大人の旅。',
   openGraph: {
-    title: '茶道・本格茶室＆抹茶体験宿完全ガイド【京都・金沢・宇治数寄屋ステイ】 | クラウドトラベル',
+    title: '茶道・本格茶室＆抹茶体験宿厳選ガイド「京都・金沢・宇治数寄屋ステイ」 | クラウドトラベル',
     description: '数寄屋造りの名門旅館に備えられた本格茶室、裏千家・表千家の点前体験、加賀百万石の茶の湯文化、宇治の茶畑を望むティーリゾートを特集。一期一会の精神と極上和菓子を味わう大人の旅。',
     type: 'article',
   },
@@ -59,9 +59,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             本格茶室・茶道体験特化
           </div>
-          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            茶道・本格茶室＆抹茶体験宿完全ガイド【京都・金沢・宇治数寄屋ステイ】
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">茶道・本格茶室＆抹茶体験宿厳選ガイド「京都・金沢・宇治数寄屋ステイ」</h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl">
             千利休が大成した「侘び茶」の精神。頭を下げて躙口（にじりぐち）をくぐれば、そこは世俗の身分や日常の喧騒を忘れ、亭主と客人が心を通わせるわずか四畳半の小宇宙。季節の花と掛け軸、釜の湯が沸く松風の音、抹茶の鮮やかな緑と芳醇な香り。日本の伝統建築美と茶の湯のおもてなしが息づく、選りすぐりの数寄屋旅館とティーリゾートへご案内します。
           </p>

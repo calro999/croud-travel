@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/shizuoka-inatori-solo-retreat-ocean-onsen-stay/" },
-  title: '【東伊豆・稲取温泉ひとり旅・太平洋インフィニティ絶景おこもり】波打ち際露天風呂・金目鯛煮付け発祥の地・雛のつるし飾り！伊豆急直通の海リトリート厳選3宿',
+  title: '東伊豆・稲取温泉ひとり旅・太平洋インフィニティ絶景おこもり：波打ち際露天風呂・金目鯛煮付け発祥の地・雛のつるし飾り！伊豆急直通の海リトリート厳選3宿',
   description: '岬の先端に突き出た東伊豆屈指のオーシャンビュー温泉地・稲取温泉！全室オーシャンビューと絶景インフィニティ露天風呂が口コミ★4.5超の「海一望絶景の宿 いなとり荘」、多彩な展望露天と金目鯛姿煮が自慢の「稲取東海ホテル湯苑」、全室露天風呂付きの贅沢空間「石花海」を楽天API最新データに基づき徹底比較。',
   keywords: '稲取温泉 一人旅 宿,稲取 ホテル 一人 温泉,いなとり荘,稲取東海ホテル湯苑,石花海 稲取,東伊豆 ひとり旅 おこもり',
   openGraph: {
-    title: '【東伊豆・稲取温泉ひとり旅・太平洋インフィニティ絶景おこもり】波打ち際露天風呂・金目鯛煮付け発祥の地・雛のつるし飾り！伊豆急直通の海リトリート厳選3宿',
+    title: '東伊豆・稲取温泉ひとり旅・太平洋インフィニティ絶景おこもり：波打ち際露天風呂・金目鯛煮付け発祥の地・雛のつるし飾り！伊豆急直通の海リトリート厳選3宿',
     description: '岬の先端に突き出た東伊豆屈指のオーシャンビュー温泉地・稲取温泉！全室オーシャンビューと絶景インフィニティ露天風呂が口コミ★4.5超の「海一望絶景の宿 いなとり荘」、多彩な展望露天と金目鯛姿煮が自慢の「稲取東海ホテル湯苑」、全室露天風呂付きの贅沢空間「石花海」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/shizuoka-inatori-solo-retreat-ocean-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【東伊豆・稲取温泉ひとり旅・太平洋インフィニティ絶景おこもり】波打ち際露天風呂・金目鯛煮付け発祥の地・雛のつるし飾り！伊豆急直通の海リトリート厳選3宿',
+    headline: '東伊豆・稲取温泉ひとり旅・太平洋インフィニティ絶景おこもり：波打ち際露天風呂・金目鯛煮付け発祥の地・雛のつるし飾り！伊豆急直通の海リトリート厳選3宿',
     description: '岬の先端に突き出た東伊豆屈指のオーシャンビュー温泉地・稲取温泉！全室オーシャンビューと絶景インフィニティ露天風呂が口コミ★4.5超の「海一望絶景の宿 いなとり荘」、多彩な展望露天と金目鯛姿煮が自慢の「稲取東海ホテル湯苑」、全室露天風呂付きの贅沢空間「石花海」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             静岡・稲取温泉ひとり旅＆東伊豆オーシャンおこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【東伊豆・稲取温泉ひとり旅・太平洋インフィニティ絶景おこもり】波打ち際露天風呂・金目鯛煮付け発祥の地・雛のつるし飾り！伊豆急直通の海リトリート厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「東伊豆・稲取温泉ひとり旅・太平洋インフィニティ絶景おこもり」波打ち際露天風呂・金目鯛煮付け発祥の地・雛のつるし飾り！伊豆急直通の海リトリート厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

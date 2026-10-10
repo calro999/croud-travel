@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月草津温泉】名物上州牛すき焼き！名宿5選',
+  title: '草津温泉で過ごす冬の旅（11・12月）！名物上州牛すき焼き！名宿5選',
   description: '11月から12月にかけて、毎分3万2300リットル以上という日本一の自然湧出量を誇る東の横綱「草津温泉（くさつおんせん）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '草津温泉 宿泊, ホテル櫻井, 望雲, 奈良屋, ホテル一井, 綿の湯, 上州牛 すき焼き, 湯畑 ライトアップ, 雪見露天, 湯もみ, 11月 12月 草津温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-gunma-kusatsu-onsen-yubatake-yukimi-joshugyu-stay/"
   },
   openGraph: {
-    title: '【11・12月草津温泉】名物上州牛すき焼き！名宿5選',
+    title: '草津温泉で過ごす冬の旅（11・12月）！名物上州牛すき焼き！名宿5選',
     description: '11月から12月にかけて、毎分3万2300リットル以上という日本一の自然湧出量を誇る東の横綱「草津温泉（くさつおんせん）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-gunma-kusatsu-onsen-yubatake-yukimi-joshugyu-stay',
     siteName: 'クラドトラベル',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月群馬・草津温泉の湯畑雪景色と日本一の名湯】名物上州牛すき焼き＆湯もみ体験・冬の酸性美肌泉を愉しむ名宿5選",
+    title: "群馬・草津温泉の湯畑雪景色と日本一の名湯で過ごす冬の旅（11・12月）！名物上州牛すき焼き＆湯もみ体験・冬の酸性美肌泉を愉しむ名宿5選",
     description: "11月から12月にかけて、毎分3万2300リットル以上という日本一の自然湧出量を誇る東の横綱「草津温泉（くさつおんせん）」は、標高約1200メートルの高原に初雪が舞い降り、温泉街の中心「湯畑（ゆばたけ）」から立ち上る豪快な湯けむりと冬のライトアップが織りなす最も幻想的な季節を迎えます。pH2前後の日本屈指の強酸性泉は、強力な殺菌力と新陳代謝促進効果を持ち、冷えた冬の身体を芯の芯まで熱く温めてくれます。西の河原公園の広大な雪見大露天風呂や熱乃湯の伝統「湯もみと踊り」。夕食には群馬の豊かな大自然が育んだ最高峰の黒毛和牛「上州牛（じょうしゅうぎゅう）」のすき焼きやしゃぶしゃぶ、冬に甘みを極める下仁田葱、名物舞茸料理。名実ともに日本を代表する名湯草津で、至福の冬籠りを叶える厳選名宿5選を徹底解説します。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -248,12 +248,7 @@ export default function WinterGunmaKusatsuOnsenPage() {
             11月・12月 湯畑雪景色＆湧出量日本一・極上上州牛すき焼き特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月群馬・草津温泉】湯畑雪景色と日本一の名湯
-            <span className="block text-emerald-300 text-lg sm:text-2xl mt-3 font-normal">
-              名物上州牛すき焼き＆湯もみ体験・冬の酸性美肌泉を愉しむ名宿5選
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">群馬・草津温泉で過ごす冬の旅（11・12月）！湯畑雪景色と日本一の名湯 <span className="block text-emerald-300 text-lg sm:text-2xl mt-3 font-normal"> 名物上州牛すき焼き＆湯もみ体験・冬の酸性美肌泉を愉しむ名宿5選 </span></h1>
 
           <p className="text-sm sm:text-base text-stone-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、毎分3万2300リットル以上という日本一の自然湧出量を誇る東の横綱「草津温泉（くさつおんせん）」は、標高約1200メートルの高原に初雪が舞い降り、温泉街の中心「湯畑（ゆばたけ）」から立ち上る豪快な湯けむりと冬のライトアップが織りなす最も幻想的な季節を迎えます。pH2前後の日本屈指の強酸性泉は、強力な殺菌力と新陳代謝促進効果を持ち、冷えた冬の身体を芯の芯まで熱く温めてくれます。西の河原公園の広大な雪見大露天風呂や熱乃湯の伝統「湯もみと踊り」。夕食には群馬の豊かな大自然が育んだ最高峰の黒毛和牛「上州牛（じょうしゅうぎゅう）」のすき焼きやしゃぶしゃぶ、冬に甘みを極める下仁田葱、名物舞茸料理。名実ともに日本を代表する名湯草津で、至福の冬籠りを叶える厳選名宿5選を徹底解説します。

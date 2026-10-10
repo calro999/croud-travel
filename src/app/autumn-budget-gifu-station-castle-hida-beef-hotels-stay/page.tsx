@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【岐阜駅前】岐阜城金華山パノラマ＆名物飛騨牛・鮎料理！2,000円台〜泊まれる格安ホテル5選',
+  title: '岐阜駅前：岐阜城金華山パノラマ＆名物飛騨牛・鮎料理！2,000円台〜泊まれる格安ホテル5選',
   description: '織田信長公が天下布武を掲げた難攻不落の名城・岐阜城と金華山ロープウェイの秋パノラマ！とろける霜降り飛騨牛すき焼きや長良川の鮎料理。JR東海道本線・岐阜駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>金華山岐阜城の天下布武パノラマ＆極上霜降り飛騨牛・長良川鮎</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【岐阜駅前】岐阜城金華山秋景＆極上飛騨牛！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「岐阜駅前」岐阜城金華山秋景＆極上飛騨牛！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             金華山山頂にそびえる信長公ゆかりの山城「岐阜城」。天守閣の望楼から見渡す濃尾平野と清流長良川の絶景、山肌を鮮やかに染める秋の紅葉。きめ細やかな霜降りと甘い脂がとろける「飛騨牛」のステーキや朴葉味噌焼き、秋に脂が乗る落ち鮎料理に舌鼓！岐阜駅周辺で2,000円台〜泊まれる優良ホテルを厳選。
           </p>

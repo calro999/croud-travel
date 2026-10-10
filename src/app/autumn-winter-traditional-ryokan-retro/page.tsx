@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-traditional-ryokan-retro/" },
-  title: "【大正ロマンの宿】文化財建築美と木造意匠！老舗名門旅館 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "大正ロマンの宿：文化財建築美と木造意匠！老舗名門旅館 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "時を超えて愛される日本の美。山形・銀山温泉、長野・渋温泉金具屋、静岡・伊東温泉、兵庫・城崎温泉など、国の登録有形文化財や宮大工の粋が息づく木造建築旅館を徹底解説。",
   keywords: ["大正ロマンの宿", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
@@ -98,9 +98,7 @@ export default function SeasonalFeaturePage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             HERITAGE & TAISHO ROMAN
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【大正ロマンの宿】文化財建築美と木造意匠！老舗名門旅館 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「大正ロマンの宿」文化財建築美と木造意匠！老舗名門旅館 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             飴色に磨かれた木の廊下、精緻な組子細工の障子、職人の技が光る格天井。どこか懐かしく温かい大正ロマンの風情に包まれ、何代にもわたって受け継がれてきた名湯とおもてなしに浸る特別な旅。
           </p>

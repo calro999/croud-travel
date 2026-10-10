@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            徳島・鳴門海峡の秋の大潮うずしお＆大毛島リゾート！鳴門鯛・阿波牛と絶景オーシャンビュー温泉
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">徳島・鳴門海峡の秋の大潮うずしお＆大毛島リゾート！鳴門鯛・阿波牛と絶景オーシャンビュー温泉</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の徳島・鳴門特集！一年でもっとも渦が大きくなる秋の大潮「鳴門の渦潮」観潮船クルーズ、大塚国際美術館の西洋名画鑑賞、鳴門海峡を一望する南欧風リゾートホテルと鳴門温泉、激流で引き締まった絶品「鳴門鯛」や阿波牛をふるさと納税トラベルで味わう四国の秋旅。
           </p>

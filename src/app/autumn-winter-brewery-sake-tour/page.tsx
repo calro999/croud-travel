@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-brewery-sake-tour/" },
-  title: "【新酒の季節】日本酒酒蔵めぐり＆地酒飲み比べ温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "新酒の季節：日本酒酒蔵めぐり＆地酒飲み比べ温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "秋のひやおろしから冬の搾りたて新酒まで！新潟越後湯沢（ぽんしゅ館）、福島会津東山温泉、京都伏見酒蔵通り、広島西条酒蔵通りなど、名門酒蔵めぐりと地酒ペアリング会席を堪能する極上温泉宿を徹底解説。",
   keywords: ["新酒の季節", "日本酒酒蔵めぐり", "地酒飲み比べ温泉宿", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
@@ -98,9 +98,7 @@ export default function SeasonalFeaturePage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             SAKE & BREWERY TOUR
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【新酒の季節】日本酒酒蔵めぐり＆地酒飲み比べ温泉宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「新酒の季節」日本酒酒蔵めぐり＆地酒飲み比べ温泉宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             新米で仕込んだ出来立ての新酒や、ひと夏寝かせてまろやかになった秋の「ひやおろし」。歴史ある白壁の酒蔵通りを歩き、夜は厳選された銘酒と郷土料理のマリアージュに酔いしれる大人の旅。
           </p>

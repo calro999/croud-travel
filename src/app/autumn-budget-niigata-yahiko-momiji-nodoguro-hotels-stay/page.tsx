@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【新潟】弥彦公園の紅葉谷と極上のどぐろ！3,000円台〜泊まれる格安ホテル5選',
+  title: '新潟：弥彦公園の紅葉谷と極上のどぐろ！3,000円台〜泊まれる格安ホテル5選',
   description: '朱塗りの観月橋とモミジが織りなす弥彦公園紅葉谷の絶景！獲れたての日本海のどぐろと新米魚沼産コシヒカリを味わう秋旅。新潟駅前で1泊3,000円台〜4,000円台の高評価ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetNiigataHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>弥彦公園紅葉谷＆新米コシヒカリ・のどぐろ</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【新潟】弥彦紅葉谷＆極上のどぐろを満喫！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「新潟」弥彦紅葉谷＆極上のどぐろを満喫！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-teal-100/90 max-w-2xl mx-auto leading-relaxed">
             ライトアップされた朱色の太鼓橋にモミジが降り注ぐ「弥彦公園もみじ谷」。秋の日本海で脂が乗り切った高級魚のどぐろの塩焼きや刺身、そして収穫されたばかりのピカピカの新米コシヒカリ！新潟駅前の超コスパホテルに泊まり、秋の食と絶景を贅沢に味わいましょう。
           </p>

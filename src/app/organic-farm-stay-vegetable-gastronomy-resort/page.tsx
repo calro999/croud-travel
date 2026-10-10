@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '【2026年】採れたて無農薬野菜とローカルガストロノミー！自家農園が自慢のオーガニック美食宿5選 ｜ 日本全国・旅宿クラウド',
+  title: '2026年：採れたて無農薬野菜とローカルガストロノミー！自家農園が自慢のオーガニック美食宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！敷地内の自家農園で朝採れた新鮮野菜やハーブを贅沢に使ったファーム・トゥ・テーブル料理と上質な温泉を堪能できる美食宿5選。',
   keywords: ["2026年", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/organic-farm-stay-vegetable-gastronomy-resort/",
   },
   openGraph: {
-    title: '【2026年】採れたて無農薬野菜とローカルガストロノミー！自家農園が自慢のオーガニック美食宿5選',
+    title: '2026年：採れたて無農薬野菜とローカルガストロノミー！自家農園が自慢のオーガニック美食宿5選',
     description: '2026年最新！敷地内の自家農園で朝採れた新鮮野菜やハーブを贅沢に使ったファーム・トゥ・テーブル料理と上質な温泉を堪能できる美食宿5選。',
     url: 'https://croud-travel.pages.dev/organic-farm-stay-vegetable-gastronomy-resort',
     siteName: '日本全国・旅宿クラウド',
@@ -172,9 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>自家農園オーガニック×ローカル美食</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            【2026年】採れたて無農薬野菜とローカルガストロノミー！自家農園が自慢のオーガニック美食宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」採れたて無農薬野菜とローカルガストロノミー！自家農園が自慢のオーガニック美食宿5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             土の香りとみずみずしい大地のエネルギーが詰まった朝採れオーガニック野菜。シェフ自ら畑で収穫した旬の食材を独創的なガストロノミーコースに仕立てる極上のダイニング。心と体が内側から浄化される、ファームステイと名湯の旅へ。
           </p>

@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【12月開幕！三十槌の氷柱＆秩父温泉】大自然の氷のアートと秩父名物グルメ宿5選",
+  title: "開幕！三十槌の氷柱＆秩父温泉で過ごす冬の旅（12月）！大自然の氷のアートと秩父名物グルメ宿5選",
   description: "12月中旬から奥秩父の渓谷に姿を現す天然の氷の芸術「三十槌の氷柱（みそつちのつらら）」！夜の幻想的なライトアップ鑑賞と、秩父温泉の柔らかな美肌湯、名物・豚みそ漬け焼きや手打ち蕎麦を堪能する冬旅。",
   keywords: "秩父 温泉 旅館, 11月旅行, 12月旅行, 冬休み, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-chichibu-icicle-misotsuchi-stay/",
   },
   openGraph: {
-    title: "【12月開幕！三十槌の氷柱＆秩父温泉】大自然の氷のアートと秩父名物グルメ宿5選",
+    title: "開幕！三十槌の氷柱＆秩父温泉で過ごす冬の旅（12月）！大自然の氷のアートと秩父名物グルメ宿5選",
     description: "12月中旬から奥秩父の渓谷に姿を現す天然の氷の芸術「三十槌の氷柱（みそつちのつらら）」！夜の幻想的なライトアップ鑑賞と、秩父温泉の柔らかな美肌湯、名物・豚みそ漬け焼きや手打ち蕎麦を堪能する冬旅。",
     url: 'https://croud-travel.pages.dev/winter-chichibu-icicle-misotsuchi-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【12月開幕！三十槌の氷柱＆秩父温泉】大自然の氷のアートと秩父名物グルメ宿5選",
+    title: "開幕！三十槌の氷柱＆秩父温泉で過ごす冬の旅（12月）！大自然の氷のアートと秩父名物グルメ宿5選",
     description: "12月中旬から奥秩父の渓谷に姿を現す天然の氷の芸術「三十槌の氷柱（みそつちのつらら）」！夜の幻想的なライトアップ鑑賞と、秩父温泉の柔らかな美肌湯、名物・豚みそ漬け焼きや手打ち蕎麦を堪能する冬旅。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>三十槌の氷柱＆秩父名湯宿</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【12月開幕！三十槌の氷柱＆秩父温泉】大自然の氷のアートと秩父名物グルメ宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">開幕！三十槌の氷柱＆秩父温泉で過ごす冬の旅（12月）！大自然の氷のアートと秩父名物グルメ宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             12月中旬から奥秩父の渓谷に姿を現す天然の氷の芸術「三十槌の氷柱（みそつちのつらら）」！夜の幻想的なライトアップ鑑賞と、秩父温泉の柔らかな美肌湯、名物・豚みそ漬け焼きや手打ち蕎麦を堪能する冬旅。
           </p>

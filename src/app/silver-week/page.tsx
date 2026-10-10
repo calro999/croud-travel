@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week/" },
-  title: "【秋の連休】シルバーウィーク旅行・おすすめ人気ホテル＆リゾート ｜ 日本全国・旅宿クラウド",
+  title: "秋の連休：シルバーウィーク旅行・おすすめ人気ホテル＆リゾート ｜ 日本全国・旅宿クラウド",
   description: "秋の大型連休・シルバーウィーク旅行特集！軽井沢高原リゾート、富士山＆河口湖、熱海温泉、沖縄混雑回避ステイ、USJ秋イベントなど、家族旅行やカップル旅行にぴったりの厳選ホテル＆温泉宿を完全ガイド。",
   keywords: ["秋の連休", "シルバーウィーク旅行", "おすすめ人気ホテル", "リゾート", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
@@ -107,9 +107,7 @@ export default function SilverWeekPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-teal-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             SILVER WEEK SPECIAL
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【秋の連休】シルバーウィーク旅行・人気ホテル＆リゾート特集
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「秋の連休」シルバーウィーク旅行・人気ホテル＆リゾート特集</h1>
           <p className="text-xs md:text-sm text-teal-100/90 leading-relaxed">
             爽快な秋晴れの下、家族やカップルで出かけたいシルバーウィーク。軽井沢や富士五湖の高原リゾートから、熱海温泉の美食、秋の沖縄・USJまで、満足度の高い厳選宿泊プランを徹底解説。
           </p>

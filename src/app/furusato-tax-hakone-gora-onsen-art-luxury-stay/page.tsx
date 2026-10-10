@@ -3,11 +3,11 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【箱根強羅温泉×ふるさと納税】美肌のにごり湯＆全室露天風呂付き客室！大人の隠れ家名旅館完全ガイド｜箱根強羅白檀・季の湯雪月花・桐谷箱根荘',
+  title: '箱根強羅温泉をふるさと納税でお得に旅する！美肌のにごり湯＆全室露天風呂付き客室！大人の隠れ家名旅館厳選ガイド｜箱根強羅白檀・季の湯雪月花・桐谷箱根荘',
   description: '日本一の温泉リゾート・箱根の中でも屈指の高級別荘地「強羅温泉」を楽天ふるさと納税でお得に満喫！自然林に包まれ白檀の香りが漂う最高級宿「白檀」、強羅駅前で全室檜露天風呂を備えた人気宿「季の湯 雪月花」、大涌谷引湯の源泉掛け流しにごり湯を誇る老舗「桐谷 箱根荘」を徹底比較。箱根町クーポン活用術を網羅。',
   keywords: '箱根強羅温泉 ふるさと納税,箱根 露天風呂付き客室 ふるさと納税,白檀 箱根 ふるさと納税,雪月花 強羅 クーポン,箱根町 ふるさと納税 宿泊',
   openGraph: {
-    title: '【箱根強羅温泉×ふるさと納税】美肌のにごり湯＆全室露天風呂付き客室！大人の隠れ家名旅館完全ガイド｜箱根強羅白檀・季の湯雪月花・桐谷箱根荘',
+    title: '箱根強羅温泉をふるさと納税でお得に旅する！美肌のにごり湯＆全室露天風呂付き客室！大人の隠れ家名旅館厳選ガイド｜箱根強羅白檀・季の湯雪月花・桐谷箱根荘',
     description: '日本一の温泉リゾート・箱根の中でも屈指の高級別荘地「強羅温泉」を楽天ふるさと納税でお得に満喫！自然林に包まれ白檀の香りが漂う最高級宿「白檀」、強羅駅前で全室檜露天風呂を備えた人気宿「季の湯 雪月花」、大涌谷引湯の源泉掛け流しにごり湯を誇る老舗「桐谷 箱根荘」を徹底比較。箱根町クーポン活用術を網羅。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-hakone-gora-onsen-art-luxury-stay',
@@ -54,9 +54,7 @@ export default function FurusatoTaxArticle() {
             <span>•</span>
             <span>自治体公認 宿泊割引</span>
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-5xl font-extrabold tracking-tight text-white font-serif leading-tight">
-            【箱根強羅温泉×ふるさと納税】美肌のにごり湯＆全室露天風呂付き客室！大人の隠れ家名旅館完全ガイド｜箱根強羅白檀・季の湯雪月花・桐谷箱根荘
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-5xl font-extrabold tracking-tight text-white font-serif leading-tight">箱根強羅温泉をふるさと納税でお得に旅する！美肌のにごり湯＆全室露天風呂付き客室！大人の隠れ家名旅館厳選ガイド｜箱根強羅白檀・季の湯雪月花・桐谷箱根荘</h1>
           <p className="text-stone-300 text-sm md:text-base max-w-2xl mx-auto pt-2 leading-relaxed">
             日本一の温泉リゾート・箱根の中でも屈指の高級別荘地「強羅温泉」を楽天ふるさと納税でお得に満喫！自然林に包まれ白檀の香りが漂う最高級宿「白檀」、強羅駅前で全室檜露天風呂を備えた人気宿「季の湯 雪月花」、大涌谷引湯の源泉掛け流しにごり湯を誇る老舗「桐谷 箱根荘」を徹底比較。箱根町クーポン活用術を網羅。
           </p>

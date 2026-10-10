@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月愛媛】宇和海寒ブリ！名宿5選',
+  title: '11・12・1月愛媛：宇和海寒ブリ！名宿5選',
   description: '四国南予の歴史と海の幸に酔いしれる11〜1月の冬旅ガイド。日本に12基しか残らない現存天守「宇和島城」の冬の静寂と伊達十万石の城下町散策。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '宇和島鯛めし 本場, 宇和島城 現存天守, 宇和海 寒ブリ, 八幡浜ちゃんぽん, 南予 ホテル, 宇和島 オリエンタルホテル, クレメント宇和島, だてまぐろ, 愛媛 冬 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-ehime-uwajima-yawatahama-taimeshi-kanburi-castle-stay/"
   },
   openGraph: {
-    title: '【11・12・1月愛媛】宇和海寒ブリ！名宿5選',
+    title: '11・12・1月愛媛：宇和海寒ブリ！名宿5選',
     description: '四国南予の歴史と海の幸に酔いしれる11〜1月の冬旅ガイド。日本に12基しか残らない現存天守「宇和島城」の冬の静寂と伊達十万石の城下町散策。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-ehime-uwajima-yawatahama-taimeshi-kanburi-castle-stay',
     type: 'article',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月愛媛】宇和島城の冬情趣と本場「宇和島鯛めし」・宇和海寒ブリ！八幡浜ちゃんぽん＆南予の名宿5選",
+    title: "11・12・1月愛媛：宇和島城の冬情趣と本場「宇和島鯛めし」・宇和海寒ブリ！八幡浜ちゃんぽん＆南予の名宿5選",
     description: "四国南予の歴史と海の幸に酔いしれる11〜1月の冬旅ガイド。日本に12基しか残らない現存天守「宇和島城」の冬の静寂と伊達十万石の城下町散策。宇和海の荒波で脂が乗り切った真鯛に生卵と甘辛タレを絡める本場「宇和島鯛めし」や、真冬が旬の「宇和海寒ブリ」「だてまぐろ（本マグロ）」、極甘の南予みかん、そして八幡浜港のソウルフード「八幡浜ちゃんぽん」。宇和島・八幡浜の観光拠点として最適な厳選ホテル・温泉宿5選を徹底解説します。",
     images: ['https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -284,11 +284,7 @@ export default function EhimeUwajimaYawatahamaWinterPage() {
               <Sparkles className="w-4 h-4 text-cyan-300" />
               <span>11月・12月・1月冬の四国南予旅情特集</span>
             </div>
-            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 text-white drop-shadow-md">
-              愛媛・宇和島＆八幡浜・南予<br className="hidden sm:inline" />
-              現存天守「宇和島城」冬情趣と伊達十万石の城下町！<br className="hidden sm:inline" />
-              本場「宇和島鯛めし」・宇和海寒ブリ＆南予名宿5選
-            </h1>
+            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 text-white drop-shadow-md">愛媛・宇和島＆八幡浜・南予<br className="hidden sm:inline" /> 現存天守「宇和島城」冬情趣と伊達十万石の城下町！<br className="hidden sm:inline" /> 本場「宇和島鯛めし」・宇和海寒ブリ＆南予名宿5選</h1>
             <p className="max-w-3xl mx-auto text-sm md:text-lg text-cyan-100 leading-relaxed drop-shadow">
               日本に12基しか現存しない木造天守が澄んだ冬空に凛とそびえる宇和島城。リアス海岸が育む真冬の極上「真鯛」を生卵と秘伝ダレで味わう本場宇和島鯛めしや、脂の乗った宇和海寒ブリ、八幡浜ちゃんぽん。城下町の歴史と海鮮グルメに浸る冬の南予紀行。
             </p>

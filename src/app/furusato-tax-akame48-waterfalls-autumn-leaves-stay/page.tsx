@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '赤目四十八滝の渓谷もみじハイキング＆竹あかりライトアップ！赤目温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】三重',
+  title: '赤目四十八滝の渓谷もみじハイキング＆竹あかりライトアップ！赤目温泉名宿×ふるさと納税厳選ガイド三重',
   description: '11月上旬〜11月下旬に見頃を迎える「赤目四十八滝（あかめしじゅうはちたき）」。名瀑「赤目五瀑」を彩るモミジと苔むした岩肌の渓谷美、幻想的な「竹あかり」ナイトウォーク、忍者の隠れ宿「対泉閣」「山水園」「滝本屋」で伊賀牛すき焼きや旬の松茸・山里会席を堪能。楽天ふるさと納税で実質2,000円。',
   keywords: ["2026年最新秋旅", "三重", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-akame48-waterfalls-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '赤目四十八滝の渓谷もみじハイキング＆竹あかりライトアップ！赤目温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】三重',
+    title: '赤目四十八滝の渓谷もみじハイキング＆竹あかりライトアップ！赤目温泉名宿×ふるさと納税厳選ガイド三重',
     description: '11月上旬〜11月下旬に見頃を迎える「赤目四十八滝（あかめしじゅうはちたき）」。名瀑「赤目五瀑」を彩るモミジと苔むした岩肌の渓谷美、幻想的な「竹あかり」ナイトウォーク、忍者の隠れ宿「対泉閣」「山水園」「滝本屋」で伊賀牛すき焼きや旬の松茸・山里会席を堪能。楽天ふるさと納税で実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-akame48-waterfalls-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FeatureArticlePage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               三重・赤目四十八滝＆忍者の里温泉特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              赤目四十八滝の渓谷もみじハイキング＆竹あかりライトアップ！赤目温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】三重
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">赤目四十八滝の渓谷もみじハイキング＆竹あかりライトアップ！赤目温泉名宿×ふるさと納税厳選ガイド三重</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               11月上旬〜11月下旬に見頃を迎える「赤目四十八滝（あかめしじゅうはちたき）」。名瀑「赤目五瀑」を彩るモミジと苔むした岩肌の渓谷美、幻想的な「竹あかり」ナイトウォーク、忍者の隠れ宿「対泉閣」「山水園」「滝本屋」で伊賀牛すき焼きや旬の松茸・山里会席を堪能。楽天ふるさと納税で実質2,000円。
             </p>

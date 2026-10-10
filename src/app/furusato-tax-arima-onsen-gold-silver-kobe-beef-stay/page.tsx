@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【有馬温泉×ふるさと納税】金泉・銀泉のダブル湯巡り＆極上神戸牛！老舗名門宿特集｜兵衛向陽閣・欽山・中の坊瑞苑',
+  title: '有馬温泉をふるさと納税でお得に旅する！金泉・銀泉のダブル湯巡り＆極上神戸牛！老舗名門宿特集｜兵衛向陽閣・欽山・中の坊瑞苑',
   description: '日本三古湯・三名泉の誉れ高き名湯・兵庫県有馬温泉を楽天ふるさと納税でお得に贅沢ステイ！創業七百年の伝統を誇る「兵衛向陽閣」、ミシュラン掲載の大人の料亭旅館「欽山」、十三歳未満お断りの至高のおこもり宿「中の坊 瑞苑」を徹底比較。神戸牛会席や神戸市トラベルクーポン活用術を網羅。',
   keywords: '有馬温泉 ふるさと納税,有馬温泉 金泉 銀泉 ふるさと納税,兵衛向陽閣 クーポン,欽山 有馬温泉 ふるさと納税,中の坊瑞苑 神戸市 宿泊',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-arima-onsen-gold-silver-kobe-beef-stay/",
   },
   openGraph: {
-    title: '【有馬温泉×ふるさと納税】金泉・銀泉のダブル湯巡り＆極上神戸牛！老舗名門宿特集｜兵衛向陽閣・欽山・中の坊瑞苑',
+    title: '有馬温泉をふるさと納税でお得に旅する！金泉・銀泉のダブル湯巡り＆極上神戸牛！老舗名門宿特集｜兵衛向陽閣・欽山・中の坊瑞苑',
     description: '日本三古湯・三名泉の誉れ高き名湯・兵庫県有馬温泉を楽天ふるさと納税でお得に贅沢ステイ！創業七百年の伝統を誇る「兵衛向陽閣」、ミシュラン掲載の大人の料亭旅館「欽山」、十三歳未満お断りの至高のおこもり宿「中の坊 瑞苑」を徹底比較。神戸牛会席や神戸市トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-arima-onsen-gold-silver-kobe-beef-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -24,7 +24,7 @@ export default function FurusatoArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【有馬温泉×ふるさと納税】金泉・銀泉のダブル湯巡り＆極上神戸牛！老舗名門宿特集｜兵衛向陽閣・欽山・中の坊瑞苑',
+    headline: '有馬温泉をふるさと納税でお得に旅する！金泉・銀泉のダブル湯巡り＆極上神戸牛！老舗名門宿特集｜兵衛向陽閣・欽山・中の坊瑞苑',
     description: '日本三古湯・三名泉の誉れ高き名湯・兵庫県有馬温泉を楽天ふるさと納税でお得に贅沢ステイ！創業七百年の伝統を誇る「兵衛向陽閣」、ミシュラン掲載の大人の料亭旅館「欽山」、十三歳未満お断りの至高のおこもり宿「中の坊 瑞苑」を徹底比較。神戸牛会席や神戸市トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function FurusatoArticlePage() {
           <span>♨️</span>
           <span>兵庫県神戸市 ふるさと納税・名湯宿特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【有馬温泉×ふるさと納税】金泉・銀泉のダブル湯巡り＆極上神戸牛！老舗名門宿特集｜兵衛向陽閣・欽山・中の坊瑞苑
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">有馬温泉をふるさと納税でお得に旅する！金泉・銀泉のダブル湯巡り＆極上神戸牛！老舗名門宿特集｜兵衛向陽閣・欽山・中の坊瑞苑</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed">
           日本三古湯・三名泉の誉れ高き名湯・兵庫県有馬温泉を楽天ふるさと納税でお得に贅沢ステイ！創業七百年の伝統を誇る「兵衛向陽閣」、ミシュラン掲載の大人の料亭旅館「欽山」、十三歳未満お断りの至高のおこもり宿「中の坊 瑞苑」を徹底比較。神戸牛会席や神戸市トラベルクーポン活用術を網羅。
         </p>

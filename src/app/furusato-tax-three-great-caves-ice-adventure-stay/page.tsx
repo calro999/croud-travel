@@ -42,9 +42,7 @@ export default function Page() {
             <span className="inline-block w-2 h-2 rounded-full bg-rose-400 animate-pulse" />
             日本三大氷穴・洞窟アドベンチャー特集
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">
-            日本三大氷穴・洞窟探検宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三大氷穴・洞窟探検宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg md:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed font-normal">
             真夏でも氷の世界と数億年の石灰岩アート！山梨「富岳風穴・鳴沢氷穴」青木ヶ原樹海の天然クーラーとロイヤルホテル河口湖、沖縄「玉泉洞」東洋一の美しさを誇る三十万本の鍾乳石とおきなわ天然温泉ユインチホテル南城、鹿児島「昇竜洞」沖永良部島ケイビングの聖地とおきえらぶフローラルホテル。日本三大洞窟探検の感動を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。
           </p>

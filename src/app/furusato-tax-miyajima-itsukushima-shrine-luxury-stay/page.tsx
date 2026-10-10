@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【宮島・厳島神社×ふるさと納税】世界遺産の大鳥居と潮湯温泉！瀬戸内名物牡蠣・穴子会席特集｜錦水館・岩惣・有もと',
+  title: '宮島・厳島神社をふるさと納税でお得に旅する！世界遺産の大鳥居と潮湯温泉！瀬戸内名物牡蠣・穴子会席特集｜錦水館・岩惣・有もと',
   description: '日本三景・世界文化遺産に輝く神の島・広島県廿日市市「宮島（厳島）」を楽天ふるさと納税でお得に贅沢滞在！宮島唯一の自家源泉潮湯温泉を誇る「錦水館」、安政元年創業・皇室や文豪も愛した名門「みやじまの宿 岩惣」、厳島神社徒歩3分・創業三百余年の老舗「宮島グランドホテル 有もと」を徹底比較。廿日市市トラベルクーポン活用術を網羅。',
   keywords: '宮島 ふるさと納税,錦水館 クーポン 宮島,岩惣 ふるさと納税 宿泊,宮島ホテル有もと ふるさと納税,廿日市市 ふるさと納税 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-miyajima-itsukushima-shrine-luxury-stay/",
   },
   openGraph: {
-    title: '【宮島・厳島神社×ふるさと納税】世界遺産の大鳥居と潮湯温泉！瀬戸内名物牡蠣・穴子会席特集｜錦水館・岩惣・有もと',
+    title: '宮島・厳島神社をふるさと納税でお得に旅する！世界遺産の大鳥居と潮湯温泉！瀬戸内名物牡蠣・穴子会席特集｜錦水館・岩惣・有もと',
     description: '日本三景・世界文化遺産に輝く神の島・広島県廿日市市「宮島（厳島）」を楽天ふるさと納税でお得に贅沢滞在！宮島唯一の自家源泉潮湯温泉を誇る「錦水館」、安政元年創業・皇室や文豪も愛した名門「みやじまの宿 岩惣」、厳島神社徒歩3分・創業三百余年の老舗「宮島グランドホテル 有もと」を徹底比較。廿日市市トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-miyajima-itsukushima-shrine-luxury-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -24,7 +24,7 @@ export default function FurusatoArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【宮島・厳島神社×ふるさと納税】世界遺産の大鳥居と潮湯温泉！瀬戸内名物牡蠣・穴子会席特集｜錦水館・岩惣・有もと',
+    headline: '宮島・厳島神社をふるさと納税でお得に旅する！世界遺産の大鳥居と潮湯温泉！瀬戸内名物牡蠣・穴子会席特集｜錦水館・岩惣・有もと',
     description: '日本三景・世界文化遺産に輝く神の島・広島県廿日市市「宮島（厳島）」を楽天ふるさと納税でお得に贅沢滞在！宮島唯一の自家源泉潮湯温泉を誇る「錦水館」、安政元年創業・皇室や文豪も愛した名門「みやじまの宿 岩惣」、厳島神社徒歩3分・創業三百余年の老舗「宮島グランドホテル 有もと」を徹底比較。廿日市市トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function FurusatoArticlePage() {
           <span>♨️</span>
           <span>広島県廿日市市（宮島） ふるさと納税・名湯宿特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【宮島・厳島神社×ふるさと納税】世界遺産の大鳥居と潮湯温泉！瀬戸内名物牡蠣・穴子会席特集｜錦水館・岩惣・有もと
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">宮島・厳島神社をふるさと納税でお得に旅する！世界遺産の大鳥居と潮湯温泉！瀬戸内名物牡蠣・穴子会席特集｜錦水館・岩惣・有もと</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed">
           日本三景・世界文化遺産に輝く神の島・広島県廿日市市「宮島（厳島）」を楽天ふるさと納税でお得に贅沢滞在！宮島唯一の自家源泉潮湯温泉を誇る「錦水館」、安政元年創業・皇室や文豪も愛した名門「みやじまの宿 岩惣」、厳島神社徒歩3分・創業三百余年の老舗「宮島グランドホテル 有もと」を徹底比較。廿日市市トラベルクーポン活用術を網羅。
         </p>

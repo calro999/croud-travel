@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/three-generation-family-celebration-stay/" },
-  title: "【三世代旅行＆還暦・長寿祝い温泉宿】バリアフリー・個室宴会＆二間続き客室 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "三世代旅行＆還暦・長寿祝い温泉宿：バリアフリー・個室宴会＆二間続き客室 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "祖父母・両親・孫の三世代旅行＆還暦・古希・喜寿・米寿のお祝い温泉宿完全特化！車椅子対応バリアフリー客室、大人数で泊まれる二間続き・コネクティングルーム、祝い膳＆赤いちゃんちゃんこ貸出、個室宴会場付き名門旅館を徹底解説。",
   keywords: ["三世代旅行", "還暦", "長寿祝い温泉宿", "バリアフリー", "個室宴会", "二間続き客室", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function TargetAudienceHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             3-GENERATION & CELEBRATION GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【三世代旅行＆還暦・長寿祝い温泉宿】バリアフリー・個室宴会＆二間続き客室 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「三世代旅行＆還暦・長寿祝い温泉宿」バリアフリー・個室宴会＆二間続き客室 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             おじいちゃん・おばあちゃんからお孫さんまで笑顔があふれる三世代旅行！車椅子でも安心の段差なしフラット設計、ゆったり寛げる二間続きの広々和洋室、お祝いのちゃんちゃんこや記念写真付きプランで一生の思い出を。
           </p>

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/osaka-tottori-matsue-bus-vs-train-guide/" },
-  title: "【大阪・神戸〜鳥取・松江・出雲】高速バス vs 特急スーパーはくと徹底比較！料金半額＆縁結び出雲大社・鳥取砂丘1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+  title: "大阪・神戸〜鳥取・松江・出雲：高速バス vs 特急スーパーはくと徹底比較！料金半額＆縁結び出雲大社・鳥取砂丘1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "大阪・神戸から鳥取・松江・出雲へ行くなら高速バスと特急どっちがお得？JR特急スーパーはくと・特急やくもと直行高速バスの料金・所要時間比較！鳥取砂丘、国宝松江城、縁結び出雲大社を巡る1泊2日モデルコース。",
   keywords: ["大阪", "神戸〜鳥取", "松江", "出雲", "高速バス", "vs", "縁結び出雲大社"],
 };
@@ -157,9 +157,7 @@ export default function HighwayBusArticlePage() {
               交通手段の徹底比較＆最適ルート
             </span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【大阪・神戸〜鳥取・松江・出雲】高速バス vs 特急スーパーはくと徹底比較！料金半額＆縁結び出雲大社・鳥取砂丘1泊2日モデルコース
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">「大阪・神戸〜鳥取・松江・出雲」高速バス vs 特急スーパーはくと徹底比較！料金半額＆縁結び出雲大社・鳥取砂丘1泊2日モデルコース</h1>
           <p className="text-xs md:text-sm text-cyan-100/90 leading-relaxed font-medium">
             JR特急「スーパーはくと」だと大阪〜鳥取は約7,500円、大阪〜出雲市（岡山経由やくも）は約11,000円。一方、直行高速バスなら大阪・神戸から鳥取片道約3,200円〜、松江・出雲片道約4,500円〜！山陰の海の幸、松葉ガニ、宍道湖の夕日、玉造温泉の美肌の湯を満喫する旅。
           </p>

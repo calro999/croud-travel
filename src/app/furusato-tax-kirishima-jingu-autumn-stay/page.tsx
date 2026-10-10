@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            霧島神宮の紅葉参道と天孫降臨の森！霧島温泉郷の多彩な泉質・鹿児島黒豚・黒牛溶岩焼きを味わう秋の南九州旅
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">霧島神宮の紅葉参道と天孫降臨の森！霧島温泉郷の多彩な泉質・鹿児島黒豚・黒牛溶岩焼きを味わう秋の南九州旅</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             神話の森を染める真紅の紅葉と、霧島連峰が育む多彩な源泉・極上黒豚の口福
           </p>

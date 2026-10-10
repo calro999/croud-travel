@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/shakyo-meditation-mindfulness-sacred-temple-stay/" },
-  title: '写経・写仏＆瞑想マインドフルネス宿完全ガイド【出羽三山・お遍路・鎌倉】 | クラウドトラベル',
+  title: '写経・写仏＆瞑想マインドフルネス宿厳選ガイド「出羽三山・お遍路・鎌倉」 | クラウドトラベル',
   description: '出羽三山（羽黒山）山伏修行ゆかりの宿坊、四国八十八ヶ所霊場のお遍路寺院、古都鎌倉の禅寺ゆかりの宿を特集。墨をすり一文字ずつ仏の言葉をなぞる写経、阿字観瞑想でマインドフルネスを体感する旅。',
   openGraph: {
-    title: '写経・写仏＆瞑想マインドフルネス宿完全ガイド【出羽三山・お遍路・鎌倉】 | クラウドトラベル',
+    title: '写経・写仏＆瞑想マインドフルネス宿厳選ガイド「出羽三山・お遍路・鎌倉」 | クラウドトラベル',
     description: '出羽三山（羽黒山）山伏修行ゆかりの宿坊、四国八十八ヶ所霊場のお遍路寺院、古都鎌倉の禅寺ゆかりの宿を特集。墨をすり一文字ずつ仏の言葉をなぞる写経、阿字観瞑想でマインドフルネスを体感する旅。',
     type: 'article',
   },
@@ -59,9 +59,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             写経・写仏・瞑想特化
           </div>
-          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            写経・写仏＆瞑想マインドフルネス宿完全ガイド【出羽三山・お遍路・鎌倉】
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">写経・写仏＆瞑想マインドフルネス宿厳選ガイド「出羽三山・お遍路・鎌倉」</h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl">
             静寂に包まれた寺院の一室、すずりに水を垂らしてゆっくりと墨をすり、筆先を整えて般若心経の文字をなぞる「写経（しゃきょう）」。また、下絵の仏様を丁寧に筆で写し取る「写仏（しゃぶつ）」。文字や絵にひたすら集中することで、日々の不安や雑念が消え去り、心が驚くほど穏やかに整っていきます。自分自身を取り戻す、静寂のマインドフルネス宿へご案内します。
           </p>

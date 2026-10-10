@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '標高2000m超の雲上リゾート！立山黒部アルペンルートの夕日・満天の星と高山植物トレッキング名宿×ふるさと納税完全攻略ガイド【2026年最新】弥陀ヶ原・立山高原・森の風',
+  title: '標高2000m超の雲上リゾート！立山黒部アルペンルートの夕日・満天の星と高山植物トレッキング名宿×ふるさと納税極上旅ガイド弥陀ヶ原・立山高原・森の風',
   description: '世界有数の山岳観光ルート・立山黒部アルペンルート！雪の大谷、みくりが池、大パノラマの雲海。「弥陀ヶ原ホテル」「立山高原ホテル」「立山連峰の宿 ホテル森の風立山」を、富山県立山町・富山市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。標高1900m雲上の露天風呂、富山湾の海の幸、星空ツアーを満喫。',
   keywords: ["2026年最新", "弥陀ヶ原", "立山高原", "森の風", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-tateyama-kurobe-alpen-route-resort-stay/",
   },
   openGraph: {
-    title: '標高2000m超の雲上リゾート！立山黒部アルペンルートの夕日・満天の星と高山植物トレッキング名宿×ふるさと納税完全攻略ガイド【2026年最新】弥陀ヶ原・立山高原・森の風',
+    title: '標高2000m超の雲上リゾート！立山黒部アルペンルートの夕日・満天の星と高山植物トレッキング名宿×ふるさと納税極上旅ガイド弥陀ヶ原・立山高原・森の風',
     description: '世界有数の山岳観光ルート・立山黒部アルペンルート！雪の大谷、みくりが池、大パノラマの雲海。「弥陀ヶ原ホテル」「立山高原ホテル」「立山連峰の宿 ホテル森の風立山」を、富山県立山町・富山市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。標高1900m雲上の露天風呂、富山湾の海の幸、星空ツアーを満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-tateyama-kurobe-alpen-route-resort-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoTateyamaAlpenRouteStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           雪の大谷と雲上の星空！立山黒部アルペンルート特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          標高2000m超の雲上リゾート！立山黒部アルペンルートの夕日・満天の星と高山植物トレッキング名宿×ふるさと納税完全攻略ガイド【2026年最新】弥陀ヶ原・立山高原・森の風
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">標高2000m超の雲上リゾート！立山黒部アルペンルートの夕日・満天の星と高山植物トレッキング名宿×ふるさと納税極上旅ガイド弥陀ヶ原・立山高原・森の風</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoTateyamaAlpenRouteStayPage() {
               立川黒部アルペンルート内　標高1930ｍの雄大な自然に包まれながら過ごす特別な時間
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “とても楽しい滞在でした立山黒部を訪れる時にどこかで1泊したいと思い、こちらのホテルを選びました。弥陀ヶ原湿原のガイドツアーやスライドショーなど、滞在中のイベントが盛りだくさんでとても楽しめまし… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D184017%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoTateyamaAlpenRouteStayPage() {
               【立山高原ホテル】　標高2,300ｍにある、北アルプス山岳リゾートホテル
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “露天風呂からの景色が最高で、お料理もとても美味しかったです。”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D197399%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoTateyamaAlpenRouteStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               アルペンルート観光に絶好のホテルです。源泉掛け流し露天風呂付き『別邸 四季彩』が大好評です。
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “創作料理とスタッフの心遣いに癒される時間夕食の創作料理は、料理長の思いが込められており、とても美味しくいただけました。さらにスタッフの皆様の親切丁寧なもてなしにも癒されました。眺望がない部屋でした… ”
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

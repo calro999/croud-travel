@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '日本三大銘牛の極上鉄板焼き＆すき焼き名湯宿×ふるさと納税完全ガイド【2026年最新】松阪牛・神戸牛・米沢牛',
+  title: '日本三大銘牛の極上鉄板焼き＆すき焼き名湯宿×ふるさと納税厳選ガイド松阪牛・神戸牛・米沢牛',
   description: '世界が絶賛する最高峰の和牛ブランド「日本三大和牛」（松阪牛・神戸ビーフ・米沢牛）。口の中でとろける極上の霜降り肉を、本場の名門料理旅館や名湯宿の客室・鉄板焼きカウンターで堪能。楽天ふるさと納税の宿泊割引クーポンを活用して、至高の美食温泉旅へ。',
   keywords: ["日本三大銘牛の極上鉄板焼き", "すき焼き名湯宿×ふるさと納税", "2026年最新", "松阪牛", "神戸牛", "米沢牛", "温泉宿"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-wagyu-beef-luxury-stay/",
   },
   openGraph: {
-    title: '日本三大銘牛の極上鉄板焼き＆すき焼き名湯宿×ふるさと納税完全ガイド【2026年最新】松阪牛・神戸牛・米沢牛',
+    title: '日本三大銘牛の極上鉄板焼き＆すき焼き名湯宿×ふるさと納税厳選ガイド松阪牛・神戸牛・米沢牛',
     description: '世界が絶賛する最高峰の和牛ブランド「日本三大和牛」（松阪牛・神戸ビーフ・米沢牛）。口の中でとろける極上の霜降り肉を、本場の名門料理旅館や名湯宿の客室・鉄板焼きカウンターで堪能。楽天ふるさと納税の宿泊割引クーポンを活用して、至高の美食温泉旅へ。',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-wagyu-beef-luxury-stay',
     siteName: '旅宿クラウド',
@@ -108,9 +108,7 @@ export default function FurusatoUpgradedPage() {
             <span>✨</span>
             <span>日本三大和牛・極上ガストロノミー特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            日本三大銘牛の極上鉄板焼き＆すき焼き名湯宿×ふるさと納税完全ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">日本三大銘牛の極上鉄板焼き＆すき焼き名湯宿×ふるさと納税厳選ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             日本が世界に誇る肉の芸術品「松阪牛」「神戸ビーフ」「米沢牛」。徹底した血統管理と伝統の肥育技術によって生み出されるきめ細やかなサシ、甘みと芳醇な香りは、まさに至福の味覚体験です。本特集では、各産地の歴史ある温泉街で本物の三大和牛会席を供する名宿を厳選。楽天ふるさと納税の宿泊クーポンを活用して、実質2,000円の自己負担で叶える究極のガストロノミー温泉ステイをお届けします。
           </p>

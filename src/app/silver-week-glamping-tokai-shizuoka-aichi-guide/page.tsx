@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-tokai-shizuoka-aichi-guide/" },
-  title: "【東海シルバーウィーク グランピング】静岡・伊豆・愛知おすすめ！海鮮BBQ＆みかん狩り体験 ｜ 日本全国・旅宿クラウド",
+  title: "東海シルバーウィーク グランピング：静岡・伊豆・愛知おすすめ！海鮮BBQ＆みかん狩り体験 ｜ 日本全国・旅宿クラウド",
   description:
     "名古屋・静岡発着の秋連休旅行！伊豆半島の金目鯛・アワビ浜焼き付きグランピング、浜名湖のレイクビューヴィラ、知多半島のサンセットドームテント。温暖な東海エリアで過ごす秋グランピング特集。",
   keywords: ["東海シルバーウィーク", "グランピング", "静岡", "伊豆", "愛知おすすめ！海鮮BBQ", "みかん狩り体験", "温泉宿"],
@@ -115,14 +115,7 @@ export default function SilverWeekGlampingTokaiShizuokaAichiPage() {
             東海・静岡・伊豆の秋リゾート特集・2026年秋連休
           </div>
 
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【東海シルバーウィーク グランピング】<br />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-orange-300 via-amber-200 to-yellow-200">
-              静岡・伊豆・愛知おすすめ宿厳選
-            </span>
-            <br />
-            海鮮浜焼きBBQ＆秋の味覚体験ステイ
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「東海シルバーウィーク グランピング」<br /> <span className="text-transparent bg-clip-text bg-gradient-to-r from-orange-300 via-amber-200 to-yellow-200"> 静岡・伊豆・愛知おすすめ宿厳選 </span> <br /> 海鮮浜焼きBBQ＆秋の味覚体験ステイ</h1>
           <p className="text-orange-100/90 text-base sm:text-lg max-w-3xl leading-relaxed mb-8">
             名古屋・静岡市街から好アクセスの東海リゾート。相模湾を望む伊豆高原のラグジュアリードームから、手ぶらBBQと天然温泉が揃う極上アウトドアヴィラまで厳選してご紹介。
             伊豆の金目鯛やアワビの浜焼きグリル、みかん狩り農園や大室山散策と組み合わせた、秋連休に最適な滞在プランを提案します。

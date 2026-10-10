@@ -180,9 +180,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            黄金色に染まる海と空のマジックアワー！夕日絶景オーシャンビュー露天風呂宿
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">黄金色に染まる海と空のマジックアワー！夕日絶景オーシャンビュー露天風呂宿</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             昼から夜へと移り変わるわずか30分間、空と海がオレンジから茜色、紫へと息をのむような美しいグラデーションを描くマジックアワー。波の音をBGMに、水平線にゆっくりと沈みゆく夕日を露天風呂から眺める時間は、どんな贅沢にも勝る特別な癒やしをもたらしてくれます。
           </p>

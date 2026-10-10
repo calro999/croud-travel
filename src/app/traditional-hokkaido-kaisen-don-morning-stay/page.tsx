@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】朝からいくら・ウニ・ホタテかけ放題！北海道の海鮮勝手丼朝食が凄すぎるホテル5選 | 日本全国・旅宿クラウド',
+  title: '2026年：朝からいくら・ウニ・ホタテかけ放題！北海道の海鮮勝手丼朝食が凄すぎるホテル5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！朝食の美味しさ日本一を競う函館・札幌・小樽の海鮮バイキング！いくら盛り放題の絶品勝手丼と天然温泉展望風呂が自慢の宿5選。',
   keywords: ["2026年", "朝からいくら", "ウニ", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: '【2026年】朝からいくら・ウニ・ホタテかけ放題！北海道の海鮮勝手丼朝食が凄すぎるホテル5選',
+    title: '2026年：朝からいくら・ウニ・ホタテかけ放題！北海道の海鮮勝手丼朝食が凄すぎるホテル5選',
     description: '2026年最新！朝食の美味しさ日本一を競う函館・札幌・小樽の海鮮バイキング！いくら盛り放題の絶品勝手丼と天然温泉展望風呂が自慢の宿5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/traditional-hokkaido-kaisen-don-morning-stay',
@@ -193,9 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> いくら盛り放題海鮮朝食×北海道名湯
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】朝からいくら・ウニ・ホタテかけ放題！北海道の海鮮勝手丼朝食が凄すぎるホテル5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」朝からいくら・ウニ・ホタテかけ放題！北海道の海鮮勝手丼朝食が凄すぎるホテル5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             朝からキラキラ輝くいくらや甘いホタテ、新鮮なマグロやサーモンを好きなだけご飯にのせて作る自分だけの贅沢「勝手丼」。全国の旅行者を虜にする北海道の豪華海鮮朝食と、夜景を見渡す天然温泉で満たされる最高の朝。
           </p>

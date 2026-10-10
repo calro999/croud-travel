@@ -180,9 +180,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            赤ちゃん連れも安心！室内温水プール＆充実のキッズアメニティが嬉しいファミリー宿
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">赤ちゃん連れも安心！室内温水プール＆充実のキッズアメニティが嬉しいファミリー宿</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             小さな子どもを連れての旅行は、荷物の多さや周りへの気兼ねなど心配事が尽きないもの。しかし、充実したキッズパークや天候を気にせず遊べる室内温水プール、部屋食や離乳食の手配が整ったウェルカムベビー認定宿なら、パパママも心からリフレッシュできます。
           </p>

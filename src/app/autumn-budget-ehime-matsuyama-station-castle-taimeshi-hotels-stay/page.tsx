@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【松山市駅・大街道】松山城秋のロープウェイ＆名物宇和島鯛めし！2,000円台〜泊まれる格安ホテル5選',
+  title: '松山市駅・大街道：松山城秋のロープウェイ＆名物宇和島鯛めし！2,000円台〜泊まれる格安ホテル5選',
   description: '現存12天守・松山城の紅葉と山頂からのパノラマ絶景！新鮮な真鯛を特製タレと生卵で絡める名物宇和島鯛めし＆松山鯛めし。伊予鉄道・松山市駅や大街道周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>名城松山城の秋の紅葉＆新鮮な愛媛名物・宇和島鯛めし</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【松山市駅・大街道】松山城紅葉＆名物鯛めし！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「松山市駅・大街道」松山城紅葉＆名物鯛めし！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             標高132mの勝山山頂にそびえる国指定重要文化財「松山城」。秋の紅葉を眺めながら登るロープウェイ・リフトや、天守からの瀬戸内海の眺望。プリプリの鯛の刺身に出汁と卵を絡めて熱々ご飯にかける「宇和島鯛めし」に舌鼓！松山市駅・大街道周辺で2,000円台〜泊まれる優良ホテルを厳選。
           </p>

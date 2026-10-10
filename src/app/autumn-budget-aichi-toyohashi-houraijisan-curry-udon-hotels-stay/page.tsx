@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【豊橋】鳳来寺山・香嵐渓紅葉ドライブ拠点＆豊橋カレーうどん！2,000円台〜格安ホテル5選',
+  title: '豊橋：鳳来寺山・香嵐渓紅葉ドライブ拠点＆豊橋カレーうどん！2,000円台〜格安ホテル5選',
   description: '1425段の石段とモミジが美しい奥三河の名刹「鳳来寺山」や香嵐渓！底にご飯ととろろが隠れた名物「豊橋カレーうどん」やヤマサのちくわ。豊橋駅前で1泊2,000円台〜4,000円台で泊まれる高評価宿5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetToyohashiHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>奥三河鳳来寺山紅葉＆名物豊橋カレーうどん</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【豊橋】鳳来寺山紅葉拠点＆豊橋カレーうどん！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「豊橋」鳳来寺山紅葉拠点＆豊橋カレーうどん！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-rose-100/90 max-w-2xl mx-auto leading-relaxed">
             国の名勝・鳳来寺山の鏡岩に映える錦秋のモミジや、日本屈指の紅葉名所「香嵐渓」へのドライブ拠点！夜は自家製うどんの下にとろろご飯が隠された驚きのご当地グルメ「豊橋カレーうどん」や、炭火で焼く老舗ヤマサのちくわ！新幹線停車駅・豊橋駅前で2,000円台〜の優良宿を厳選。
           </p>

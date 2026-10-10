@@ -28,7 +28,7 @@ interface RakutenCategoryData {
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://croud-travel.pages.dev";
 
 export const metadata: Metadata = {
-  title: "【沖縄旅行 完全計画ガイド 2026】2泊3日・3泊4日モデルコース＆那覇・恩納村・美ら海水族館・ビーチリゾートホテル・レンタカー ｜ 旅宿クラウド",
+  title: "沖縄旅行 完全計画ガイド 2026：2泊3日・3泊4日モデルコース＆那覇・恩納村・美ら海水族館・ビーチリゾートホテル・レンタカー ｜ 旅宿クラウド",
   description:
     "沖縄旅行の計画を完全サポート！2泊3日・3泊4日の王道モデルコース、恩納村や北部の絶景ビーチリゾート、カップル・子連れプール付きホテル、那覇国際通り周辺宿からレンタカー＆雨の日観光まで、おすすめの宿泊プランまで徹底網羅。",
   keywords: ["沖縄旅行", "完全計画ガイド", "2026", "2泊3日", "3泊4日モデルコース", "那覇", "恩納村"],
@@ -117,12 +117,7 @@ export default function OkinawaHubPage() {
           </span>
         </div>
 
-        <h1 className="text-3xl md:text-5xl font-black font-journal-serif leading-tight text-white">
-          【沖縄旅行 完全ガイド】<br />
-          <span className="bg-gradient-to-r from-cyan-200 via-teal-100 to-amber-100 bg-clip-text text-transparent">
-            青の絶景ビーチ・リゾートホテル・美ら海・王道モデルコース
-          </span>
-        </h1>
+        <h1 className="text-3xl md:text-5xl font-black font-journal-serif leading-tight text-white">「沖縄旅行 厳選ガイド」<br /> <span className="bg-gradient-to-r from-cyan-200 via-teal-100 to-amber-100 bg-clip-text text-transparent"> 青の絶景ビーチ・リゾートホテル・美ら海・王道モデルコース </span></h1>
 
         <p className="text-cyan-100/90 text-xs md:text-sm max-w-3xl leading-relaxed font-medium">
           エメラルドグリーンの海と琉球文化が息づく沖縄。「2泊3日の効率的な回り方は？」「ビーチリゾートホテルの選び方は？」「子連れプールや雨の日スポットは？」を徹底深掘りし、おすすめの宿泊施設情報で繋ぐ総合ガイド。

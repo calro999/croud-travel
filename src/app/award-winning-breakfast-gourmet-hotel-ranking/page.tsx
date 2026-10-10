@@ -180,9 +180,7 @@ export default function Page() {
             </span>
             <span className="text-[10px] text-slate-400 font-bold">2026年最新版</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">
-            朝から贅沢の極み！いくら盛り放題＆ご当地海鮮ビュッフェが自慢の朝食日本一ホテル特集
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-emerald-950 leading-tight">朝から贅沢の極み！いくら盛り放題＆ご当地海鮮ビュッフェが自慢の朝食日本一ホテル特集</h1>
           <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium pt-2">
             旅の最大の楽しみの一つであるホテルの朝ごはん。炊きたてのご飯の上にこぼれんばかりに盛る天然いくらや新鮮な魚介、シェフが目の前で焼き上げるふわとろオムレツ、焼き立てパンの芳醇な香り。朝起きるのが待ち遠しくなる、圧倒的なクオリティを誇る朝食自慢のホテルをご案内します。
           </p>

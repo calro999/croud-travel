@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '日本三大松原の白砂青松オーシャンビュー宿×ふるさと納税完全ガイド【2026年最新】三保の松原・虹の松原・気比の松原',
+  title: '日本三大松原の白砂青松オーシャンビュー宿×ふるさと納税厳選ガイド三保の松原・虹の松原・気比の松原',
   description: '青い海と白い砂浜、幾万本もの黒松が美しく連なる日本三大松原（静岡・三保の松原、佐賀・唐津虹の松原、福井・敦賀気比の松原）。富士山を望む絶景宿や玄界灘・若狭湾の海の幸を味わう旅。楽天ふるさと納税完全活用。',
   keywords: ["2026年最新", "三保の松原", "虹の松原", "気比の松原", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-pine-groves-oceanview-stay/",
   },
   openGraph: {
-    title: '日本三大松原の白砂青松オーシャンビュー宿×ふるさと納税完全ガイド【2026年最新】三保の松原・虹の松原・気比の松原',
+    title: '日本三大松原の白砂青松オーシャンビュー宿×ふるさと納税厳選ガイド三保の松原・虹の松原・気比の松原',
     description: '青い海と白い砂浜、幾万本もの黒松が美しく連なる日本三大松原（静岡・三保の松原、佐賀・唐津虹の松原、福井・敦賀気比の松原）。富士山を望む絶景宿や玄界灘・若狭湾の海の幸を味わう旅。楽天ふるさと納税完全活用。',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-pine-groves-oceanview-stay',
     siteName: '旅宿クラウド',
@@ -108,9 +108,7 @@ export default function FurusatoUpgradedPage() {
             <span>✨</span>
             <span>日本三大松原・白砂青松オーシャン特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            日本三大松原の白砂青松オーシャンビュー宿×ふるさと納税完全ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">日本三大松原の白砂青松オーシャンビュー宿×ふるさと納税厳選ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             古来より数多の歌人や絵師を魅了し、日本の美の象徴とされてきた「日本三大松原」。駿河湾越しに霊峰富士を仰ぐ「三保の松原」、唐津湾沿いに虹の弧を描く百年の松林「虹の松原」、万葉の息吹を今に伝える敦賀湾の「気比の松原」。心地よい潮風と松の香りに包まれ、夕暮れに染まる水平線を望む至福の時間。楽天ふるさと納税の宿泊割引クーポンを駆使して、日本の伝統美薫る名松原オーシャンリゾートへお出かけください。
           </p>

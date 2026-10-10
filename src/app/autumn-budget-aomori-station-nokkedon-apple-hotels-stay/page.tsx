@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【青森駅前】名物のっけ丼＆旬の津軽りんご・地酒！5,000円台〜泊まれる格安ホテル5選',
+  title: '青森駅前：名物のっけ丼＆旬の津軽りんご・地酒！5,000円台〜泊まれる格安ホテル5選',
   description: '青森魚菜センターの自分だけ海鮮丼「元祖のっけ丼」、秋の完熟津軽りんごや十三湖しじみラーメン！JR奥羽本線・青森駅周辺で泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>元祖のっけ丼の極上海鮮＆秋の完熟津軽りんご</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【青森駅前】魚菜センターのっけ丼＆旬の味覚！<br className="hidden sm:inline" />格安・高コスパホテル厳選5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「青森駅前」魚菜センターのっけ丼＆旬の味覚！<br className="hidden sm:inline" />格安・高コスパホテル厳選5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             津軽海峡の新鮮なマグロやホタテ、イクラを好きなだけのせて作る「青森魚菜センター元祖のっけ丼」。甘酸っぱい秋の採れたて津軽りんごスイーツや、濃厚な煮干しラーメンに舌鼓！ウォーターフロントの青森ベイブリッジ散歩を楽しみ、青森駅周辺で泊まれる優良ホテルを厳選。
           </p>

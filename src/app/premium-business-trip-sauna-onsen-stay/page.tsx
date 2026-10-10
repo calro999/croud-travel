@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/premium-business-trip-sauna-onsen-stay/" },
-  title: '【ワンランク上の出張泊】天然温泉・本格サウナ・絶景ビュー完備！仕事の疲れを極限まで癒やすプレミアムビジネスホテル 厳選3選',
+  title: 'ワンランク上の出張泊：天然温泉・本格サウナ・絶景ビュー完備！仕事の疲れを極限まで癒やすプレミアムビジネスホテル 厳選3選',
   description: '「出張先のホテルはただ寝るだけではもったいない。」「翌日の商談やプレゼンに向けて最高のコンディションを整えたい。」。そんなビジネスパーソンへ。地上36階の天空露天風呂を誇る「三井ガーデンホテル豊洲プレミア」、銀座のど真ん中で天然温泉と黒湯サウナを満喫する「ドーミーインPREMIUM銀座」、奥湯河原直送の美肌湯が注ぐ「スーパーホテルPremier銀座」を徹底特集。',
   keywords: '出張 ホテル サウナ 東京,天然温泉 ビジネスホテル 東京,ドーミーインPREMIUM銀座 宿泊,三井ガーデンホテル豊洲プレミア 大浴場,快適出張 ホテル おすすめ',
   openGraph: {
-    title: '【ワンランク上の出張泊】天然温泉・本格サウナ・絶景ビュー完備！仕事の疲れを極限まで癒やすプレミアムビジネスホテル 厳選3選',
+    title: 'ワンランク上の出張泊：天然温泉・本格サウナ・絶景ビュー完備！仕事の疲れを極限まで癒やすプレミアムビジネスホテル 厳選3選',
     description: '「出張先のホテルはただ寝るだけではもったいない。」「翌日の商談やプレゼンに向けて最高のコンディションを整えたい。」。そんなビジネスパーソンへ。地上36階の天空露天風呂を誇る「三井ガーデンホテル豊洲プレミア」、銀座のど真ん中で天然温泉と黒湯サウナを満喫する「ドーミーインPREMIUM銀座」、奥湯河原直送の美肌湯が注ぐ「スーパーホテルPremier銀座」を徹底特集。',
     url: 'https://croud-travel.pages.dev/premium-business-trip-sauna-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【ワンランク上の出張泊】天然温泉・本格サウナ・絶景ビュー完備！仕事の疲れを極限まで癒やすプレミアムビジネスホテル 厳選3選',
+    headline: 'ワンランク上の出張泊：天然温泉・本格サウナ・絶景ビュー完備！仕事の疲れを極限まで癒やすプレミアムビジネスホテル 厳選3選',
     description: '「出張先のホテルはただ寝るだけではもったいない。」「翌日の商談やプレゼンに向けて最高のコンディションを整えたい。」。そんなビジネスパーソンへ。地上36階の天空露天風呂を誇る「三井ガーデンホテル豊洲プレミア」、銀座のど真ん中で天然温泉と黒湯サウナを満喫する「ドーミーインPREMIUM銀座」、奥湯河原直送の美肌湯が注ぐ「スーパーホテルPremier銀座」を徹底特集。',
     author: {
       '@type': 'Organization',
@@ -74,9 +74,7 @@ export default function ArticlePage() {
           <span>✨</span>
           <span>快適出張・プレミアムビジホ特集</span>
         </div>
-        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【ワンランク上の出張泊】天然温泉・本格サウナ・絶景ビュー完備！仕事の疲れを極限まで癒やすプレミアムビジネスホテル 厳選3選
-        </h1>
+        <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">「ワンランク上の出張泊」天然温泉・本格サウナ・絶景ビュー完備！仕事の疲れを極限まで癒やすプレミアムビジネスホテル 厳選3選</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
           「出張先のホテルはただ寝るだけではもったいない。」「翌日の商談やプレゼンに向けて最高のコンディションを整えたい。」。そんなビジネスパーソンへ。地上36階の天空露天風呂を誇る「三井ガーデンホテル豊洲プレミア」、銀座のど真ん中で天然温泉と黒湯サウナを満喫する「ドーミーインPREMIUM銀座」、奥湯河原直送の美肌湯が注ぐ「スーパーホテルPremier銀座」を徹底特集。
         </p>

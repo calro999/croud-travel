@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            羽黒山杉並木紅葉と湯野浜温泉の夕日！秋の庄内味覚（新米つや姫・寒鱈・庄内豚）と開運温泉旅
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">羽黒山杉並木紅葉と湯野浜温泉の夕日！秋の庄内味覚（新米つや姫・寒鱈・庄内豚）と開運温泉旅</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             神秘の杉並木に宿る秋の光と、日本海を黄金に染める湯野浜の夕湯治
           </p>

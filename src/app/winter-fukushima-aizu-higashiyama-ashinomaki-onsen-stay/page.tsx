@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月会津東山温泉】名物会津牛！名宿5選',
+  title: '会津東山温泉で過ごす冬の旅（11・12月）！名物会津牛！名宿5選',
   description: '11月から12月にかけて、鶴ヶ城の武家文化と城下町情緒が息づく福島県会津若松市の「東山温泉（ひがしやまおんせん）」と「芦ノ牧温泉（あしのまき。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '会津東山温泉 宿泊, 芦ノ牧温泉 宿, 御宿東鳳, 大川荘, 原瀧, 今昔亭, 丸峰, 会津牛, 会津馬刺し, こづゆ, 11月 12月 東山温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay/"
   },
   openGraph: {
-    title: '【11・12月会津東山温泉】名物会津牛！名宿5選',
+    title: '会津東山温泉で過ごす冬の旅（11・12月）！名物会津牛！名宿5選',
     description: '11月から12月にかけて、鶴ヶ城の武家文化と城下町情緒が息づく福島県会津若松市の「東山温泉（ひがしやまおんせん）」と「芦ノ牧温泉（あしのまき。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay',
     siteName: 'クラドトラベル',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月福島・会津東山温泉＆芦ノ牧温泉の渓谷雪景色と城下町情緒】名物会津牛＆極上馬刺し・郷土こづゆと渓谷露天の名宿5選",
+    title: "福島・会津東山温泉＆芦ノ牧温泉の渓谷雪景色と城下町情緒で過ごす冬の旅（11・12月）！名物会津牛＆極上馬刺し・郷土こづゆと渓谷露天の名宿5選",
     description: "11月から12月にかけて、鶴ヶ城の武家文化と城下町情緒が息づく福島県会津若松市の「東山温泉（ひがしやまおんせん）」と「芦ノ牧温泉（あしのまきおんせん）」は、湯川渓谷や阿賀川（大川）の切り立つ断崖に初雪が降り積もり、水墨画のような渓谷雪見露天が旅人を魅了する季節を迎えます。開湯約1300年の歴史を誇る東山温泉のサラリとした硫酸塩泉と、湯量豊富な芦ノ牧温泉の弱アルカリ性美肌泉。冷えた身体を温めた後は、会津漆器で振る舞われる江戸時代からの伝統郷土料理「こづゆ」、赤身の芳醇な旨味と甘みが際立つ極上「会津馬刺し」、きめ細やかなサシが入ったブランド黒毛和牛「会津牛」、全国新酒鑑評会で金賞を席巻する会津の銘酒。初冬の奥会津の静寂と温もりに包まれる厳選名宿5選を徹底解説します。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -248,12 +248,7 @@ export default function WinterFukushimaAizuOnsenPage() {
             11月・12月 渓谷雪見露天＆名物会津牛・極上馬刺し・城下町特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月福島・会津東山＆芦ノ牧温泉】渓谷雪景色と城下町情緒
-            <span className="block text-rose-300 text-lg sm:text-2xl mt-3 font-normal">
-              名物会津牛＆極上馬刺し・郷土こづゆと渓谷露天の名宿5選
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">福島・会津東山＆芦ノ牧温泉で過ごす冬の旅（11・12月）！渓谷雪景色と城下町情緒 <span className="block text-rose-300 text-lg sm:text-2xl mt-3 font-normal"> 名物会津牛＆極上馬刺し・郷土こづゆと渓谷露天の名宿5選 </span></h1>
 
           <p className="text-sm sm:text-base text-stone-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、鶴ヶ城の武家文化と城下町情緒が息づく福島県会津若松市の「東山温泉（ひがしやまおんせん）」と「芦ノ牧温泉（あしのまきおんせん）」は、湯川渓谷や阿賀川（大川）の切り立つ断崖に初雪が降り積もり、水墨画のような渓谷雪見露天が旅人を魅了する季節を迎えます。開湯約1300年の歴史を誇る東山温泉のサラリとした硫酸塩泉と、湯量豊富な芦ノ牧温泉の弱アルカリ性美肌泉。冷えた身体を温めた後は、会津漆器で振る舞われる江戸時代からの伝統郷土料理「こづゆ」、赤身の芳醇な旨味と甘みが際立つ極上「会津馬刺し」、きめ細やかなサシが入ったブランド黒毛和牛「会津牛」、全国新酒鑑評会で金賞を席巻する会津の銘酒。初冬の奥会津の静寂と温もりに包まれる厳選名宿5選を徹底解説します。

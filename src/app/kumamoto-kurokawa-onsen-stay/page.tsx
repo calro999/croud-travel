@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kumamoto-kurokawa-onsen-stay/" },
-  title: "【熊本・黒川温泉】入湯手形＆渓流露天風呂めぐり極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "熊本・黒川温泉：入湯手形＆渓流露天風呂めぐり極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "阿蘇・黒川温泉エリア完全特化！入湯手形での28露天風呂めぐり、川端通りの食べ歩き、囲炉裏料理と渓流沿いの隠れ家木造旅館を徹底解説。",
   keywords: ["熊本", "黒川温泉", "入湯手形", "渓流露天風呂めぐり極上宿", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             KUROKAWA ONSEN MICRO GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【熊本・黒川温泉】入湯手形＆渓流露天風呂めぐり極上宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「熊本・黒川温泉」入湯手形＆渓流露天風呂めぐり極上宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             杉木立に囲まれた山あいの渓流沿いに、統一された黒と木目の落ち着いた旅館が連なる「黒川温泉」。入湯手形を首から下げて下駄を鳴らし、個性豊かな露天風呂を巡る極上の癒やし旅。
           </p>

@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kanazawa-trip-packing-regrets-worst5-guide/" },
-  title: "【金沢旅行で後悔したことワースト5】月曜定休トラップ＆21美予約忘れ！海鮮丼行列を回避する持ち物＆知恵袋",
+  title: "金沢旅行で後悔したことワースト5：月曜定休トラップ＆21美予約忘れ！海鮮丼行列を回避する持ち物＆知恵袋",
   description:
     "金沢観光のよくある落とし穴を全解説！21世紀美術館スイミングプールの事前予約逃し、主要名所・飲食店の月曜一斉定休日トラップ、近江町市場の早仕舞い、折りたたみ傘必須の気候対策と駅前温泉宿。",
   keywords: ["月曜定休トラップ", "知恵袋", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
@@ -166,11 +166,7 @@ export default function KanazawaTripPackingRegretsWorst5Page() {
           <div className="inline-flex items-center gap-2 px-3.5 py-1 rounded-full bg-amber-500/20 border border-amber-400/40 text-amber-200 text-xs font-bold tracking-wider uppercase mb-4 backdrop-blur-md">
             <span>🏮</span> Smart Travel Guide • 加賀百万石 金沢
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6">
-            【金沢旅行で後悔したこと<span className="text-amber-400">ワースト5</span>】
-            <br />
-            月曜定休トラップ＆21美予約忘れ！海鮮丼行列を回避する持ち物＆知恵袋
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6">「金沢旅行で後悔したこと<span className="text-amber-400">ワースト5</span>」 <br /> 月曜定休トラップ＆21美予約忘れ！海鮮丼行列を回避する持ち物＆知恵袋</h1>
           <p className="text-amber-100 text-sm sm:text-base leading-relaxed max-w-2xl mx-auto font-medium">
             風情あふれる城下町・金沢で観光客がハマりやすい『見落としがちな罠』。
             突然の通り雨、美術館の予約漏れ、月曜一斉定休日、市場の行列地獄を完全回避するための必勝ノウハウ。

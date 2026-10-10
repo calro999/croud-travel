@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月愛知】伊良湖天然とらふぐと新源泉「！名宿5選',
+  title: '愛知で過ごす冬の旅（11・12月）！伊良湖天然とらふぐと新源泉「！名宿5選',
   description: '11月から12月、太平洋と三河湾の黒潮が交差する愛知県渥美半島の先端・伊良湖岬（田原市）は、冬の最高級美食「伊良湖天然とらふぐ」の最盛期を迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '伊良湖温泉 宿泊, 伊良湖 天然とらふぐ, 渥美牛 宿, 伊良湖岬 温泉宿, 伊良湖オーシャンリゾート, 角上楼 ふぐ, 11月 12月 愛知旅行, 渥美半島 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-aichi-irago-onsen-torafugu-atsumigyu-stay/"
   },
   openGraph: {
-    title: '【11・12月愛知】伊良湖天然とらふぐと新源泉「！名宿5選',
+    title: '愛知で過ごす冬の旅（11・12月）！伊良湖天然とらふぐと新源泉「！名宿5選',
     description: '11月から12月、太平洋と三河湾の黒潮が交差する愛知県渥美半島の先端・伊良湖岬（田原市）は、冬の最高級美食「伊良湖天然とらふぐ」の最盛期を迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-aichi-irago-onsen-torafugu-atsumigyu-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月愛知】伊良湖天然とらふぐと新源泉「伊良湖温泉」美肌の湯・極上渥美牛＆伊良湖岬の夕日パノラマを巡る名宿5選",
+    title: "愛知で過ごす冬の旅（11・12月）！伊良湖天然とらふぐと新源泉「伊良湖温泉」美肌の湯・極上渥美牛＆伊良湖岬の夕日パノラマを巡る名宿5選",
     description: "11月から12月、太平洋と三河湾の黒潮が交差する愛知県渥美半島の先端・伊良湖岬（田原市）は、冬の最高級美食「伊良湖天然とらふぐ」の最盛期を迎えます。遠州灘の荒波で育った天然とらふぐは、身の引き締まりと濃厚な旨味が格別。てっさ、てっちり、香ばしいひれ酒、そして渥美半島の大自然で育まれた霜降り「渥美牛」の陶板焼きが初冬の食卓を贅沢に彩ります。さらに近年開湯した注目の新源泉「伊良湖温泉」は、塩化物泉特有の優れた保温・保湿力を誇り「美肌と冷え性改善の温まり湯」として評判。冬の澄み渡る空の下、伊良湖岬灯台や恋路ヶ浜に沈む夕日と満天の星空を眺めながら優雅に寛げる厳選5宿を詳しくご案内します。",
     images: ['https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -367,9 +367,7 @@ export default function AichiIragoOnsenWinterPage() {
             <Anchor className="w-3.5 h-3.5" />
             11月・12月愛知初冬特集・伊良湖天然とらふぐ＆新源泉名湯探訪
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold tracking-tight text-white leading-tight">
-            {metadata.title as string}
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold tracking-tight text-white leading-tight">{metadata.title as string}</h1>
           <p className="text-xs sm:text-sm text-stone-300 leading-relaxed pt-2">
             遠州灘と三河湾の荒波が育む「伊良湖天然とらふぐ」の引き締まった歯応えと至高の旨味。
             新源泉「伊良湖温泉」の温まり美肌湯と、霜降り渥美牛、伊良湖岬の水平線に沈む冬夕日を巡る旅へ。

@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '【2026年】和漢薬草スチームサウナ＆薬膳養生！自然治癒力を高める薬草温活温泉宿5選 ｜ 日本全国・旅宿クラウド',
+  title: '2026年：和漢薬草スチームサウナ＆薬膳養生！自然治癒力を高める薬草温活温泉宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！当帰やよもぎなど十数種の国産生薬を蒸留した薬草サウナと、濃厚な薬草湯、体を芯から温める薬膳会席でデトックスできる養生宿5選。',
   keywords: ["2026年", "和漢薬草スチームサウナ", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/organic-medicinal-herb-sauna-detox-stay/",
   },
   openGraph: {
-    title: '【2026年】和漢薬草スチームサウナ＆薬膳養生！自然治癒力を高める薬草温活温泉宿5選',
+    title: '2026年：和漢薬草スチームサウナ＆薬膳養生！自然治癒力を高める薬草温活温泉宿5選',
     description: '2026年最新！当帰やよもぎなど十数種の国産生薬を蒸留した薬草サウナと、濃厚な薬草湯、体を芯から温める薬膳会席でデトックスできる養生宿5選。',
     url: 'https://croud-travel.pages.dev/organic-medicinal-herb-sauna-detox-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -158,9 +158,7 @@ export default function Page() {
             <span>•</span>
             <span>薬草スチームサウナ×薬膳温活宿</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">
-            【2026年】和漢薬草スチームサウナ＆薬膳養生！自然治癒力を高める薬草温活温泉宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」和漢薬草スチームサウナ＆薬膳養生！自然治癒力を高める薬草温活温泉宿5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             香ばしい和漢ハーブの蒸気に包まれる薬草スチームサウナ。古来より湯治客を癒やしてきた薬草風呂で発汗を促し、旬の生薬と地場野菜を取り入れた本格薬膳料理で体内環境を整える。疲れた現代人の心身を内側から再生する本格温活ステイ。
           </p>

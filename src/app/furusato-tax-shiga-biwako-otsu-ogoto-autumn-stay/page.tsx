@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            琵琶湖・おごと温泉と比叡山延暦寺の紅葉！近江牛会席＆最澄開湯1200年の名湯
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">琵琶湖・おごと温泉と比叡山延暦寺の紅葉！近江牛会席＆最澄開湯1200年の名湯</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の滋賀・大津＆おごと温泉特集！世界遺産・比叡山延暦寺や日吉大社の壮麗なもみじ祭り、琵琶湖の朝焼けを望む最澄開湯1200年の美肌名湯「おごと温泉」、日本三大和牛・近江牛の極上会席をふるさと納税トラベルでお得に堪能する大人の秋旅プラン。
           </p>

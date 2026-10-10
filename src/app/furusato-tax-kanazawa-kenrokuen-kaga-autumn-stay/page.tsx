@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            金沢・兼六園の雪吊り紅葉と奥座敷・湯涌温泉！加能ガニ解禁＆加賀百万石の秋会席
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">金沢・兼六園の雪吊り紅葉と奥座敷・湯涌温泉！加能ガニ解禁＆加賀百万石の秋会席</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の石川・金沢＆湯涌温泉特集！日本三名園・兼六園の伝統行事「雪吊り作業」と錦秋の庭園美、11月6日解禁の冬の王様「加能ガニ（越前・松葉蟹）」、竹久夢二ゆかりの金沢の奥座敷「湯涌温泉」の美肌湯をふるさと納税トラベルで楽しむ贅沢プラン。
           </p>

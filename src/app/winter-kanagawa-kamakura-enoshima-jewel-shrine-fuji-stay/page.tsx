@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月神奈川】鶴岡八幡宮新春初詣！名宿5選',
+  title: '11・12・1月神奈川：鶴岡八幡宮新春初詣！名宿5選',
   description: '11月から1月、湘南・鎌倉・江の島は澄み切った冬空が広がり、相模湾の向こうに純白の冠雪を抱いた富士山が最もくっきりと美しく浮かび上がります。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '鎌倉 江の島 冬 旅行, 湘南の宝石, 江の島シーキャンドル イルミネーション, 鶴岡八幡宮 初詣, 富士山 夕景 湘南, 鎌倉プリンスホテル, ホテルメトロポリタン鎌倉, 江の島ホテル, ブレスホテル, かいひん荘鎌倉, 寒平目 カワハギ 肝和え, 葉山牛, 11月 12月 1月 神奈川旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay/"
   },
   openGraph: {
-    title: '【11・12・1月神奈川】鶴岡八幡宮新春初詣！名宿5選',
+    title: '11・12・1月神奈川：鶴岡八幡宮新春初詣！名宿5選',
     description: '11月から1月、湘南・鎌倉・江の島は澄み切った冬空が広がり、相模湾の向こうに純白の冠雪を抱いた富士山が最もくっきりと美しく浮かび上がります。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月神奈川】冬の湘南・江の島シーキャンドル「湘南の宝石」イルミネーション＆鶴岡八幡宮新春初詣・富士山夕景と相模湾冬の地魚を味わう名宿5選",
+    title: "11・12・1月神奈川：冬の湘南・江の島シーキャンドル「湘南の宝石」イルミネーション＆鶴岡八幡宮新春初詣・富士山夕景と相模湾冬の地魚を味わう名宿5選",
     description: "11月から1月、湘南・鎌倉・江の島は澄み切った冬空が広がり、相模湾の向こうに純白の冠雪を抱いた富士山が最もくっきりと美しく浮かび上がります。関東三大イルミネーションに数えられる「湘南の宝石」で光輝く江の島シーキャンドル、新春の幕開けを厳かに祈る鶴岡八幡宮や長谷寺の初詣、海沿いを走るレトロな江ノ電、そして冬に脂が乗る寒平目や相模湾の地魚、希少な葉山牛。海と古都の歴史が調和する冬の湘南・鎌倉を満喫する厳選名宿5選と1泊2日の冬のモデルコースを徹底解説します。",
     images: ['https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80']
   }
@@ -42,7 +42,7 @@ export default function KanagawaKamakuraEnoshimaWinterPage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: "【11・12・1月神奈川】冬の湘南・江の島シーキャンドル「湘南の宝石」イルミネーション＆鶴岡八幡宮新春初詣・富士山夕景と相模湾冬の地魚を味わう名宿5選",
+    headline: "11・12・1月神奈川：冬の湘南・江の島シーキャンドル「湘南の宝石」イルミネーション＆鶴岡八幡宮新春初詣・富士山夕景と相模湾冬の地魚を味わう名宿5選",
     description: "11月から1月、湘南・鎌倉・江の島は澄み切った冬空が広がり、相模湾の向こうに純白の冠雪を抱いた富士山が最もくっきりと美しく浮かび上がります。関東三大イルミネーションに数えられる「湘南の宝石」で光輝く江の島シーキャンドル、新春の幕開けを厳かに祈る鶴岡八幡宮や長谷寺の初詣、海沿いを走るレトロな江ノ電、そして冬に脂が乗る寒平目や相模湾の地魚、希少な葉山牛。海と古都の歴史が調和する冬の湘南・鎌倉を満喫する厳選名宿5選と1泊2日の冬のモデルコースを徹底解説します。",
     image: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80',
     datePublished: '',
@@ -282,9 +282,7 @@ export default function KanagawaKamakuraEnoshimaWinterPage() {
             <Camera className="w-4 h-4 text-blue-300" />
             11月・12月・1月 冬の神奈川・鎌倉＆江の島湘南リゾート特集
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【11・12・1月神奈川】冬の湘南・江の島シーキャンドル「湘南の宝石」イルミネーション＆鶴岡八幡宮新春初詣・富士山夕景と相模湾冬の地魚を味わう名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「11・12・1月神奈川」冬の湘南・江の島シーキャンドル「湘南の宝石」イルミネーション＆鶴岡八幡宮新春初詣・富士山夕景と相模湾冬の地魚を味わう名宿5選</h1>
           <p className="text-slate-300 text-sm sm:text-base md:text-lg max-w-3xl leading-relaxed">
             透き通る大気の中に純白の富士山が浮かび上がる冬の相模湾。関東三大イルミネーション「湘南の宝石」が輝く江の島シーキャンドルの光の宮殿、新春の願いを捧げる鶴岡八幡宮の初詣、海風を浴びて走る江ノ電の情景。冬に脂が乗り切る寒平目やカワハギの肝和え、幻の葉山牛ステーキ。大人の感性を解き放つ冬の鎌倉・江の島の名宿とモデルコースをご案内します。
           </p>

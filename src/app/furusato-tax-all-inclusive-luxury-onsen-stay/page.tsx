@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: 'オールインクルーシブで財布を気にせず寛ぐ極上温泉宿×ふるさと納税完全ガイド【2026年最新】作並・箱根宮ノ下・磐梯熱海',
+  title: 'オールインクルーシブで財布を気にせず寛ぐ極上温泉宿×ふるさと納税厳選ガイド作並・箱根宮ノ下・磐梯熱海',
   description: 'チェックインからチェックアウトまで追加料金ゼロ！生ビール・ワイン・地酒のフリーフローや湯上がりアイス、上質なサロンでのカフェタイムを心ゆくまで堪能。広瀬川の渓流露天風呂と暖炉ラウンジが魅力の仙台作並「ゆづくしSalon一の坊」、全室露天風呂付き離れで極上のプライベートステイを提供する「Nazuna箱根宮ノ下」、福島の銘酒と美肌湯に酔いしれる磐梯熱海「浅香荘」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
   keywords: ["2026年最新", "作並", "箱根宮ノ下", "磐梯熱海", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: { canonical: baseUrl + '/furusato-tax-all-inclusive-luxury-onsen-stay/' },
   openGraph: {
-    title: 'オールインクルーシブで財布を気にせず寛ぐ極上温泉宿×ふるさと納税完全ガイド【2026年最新】作並・箱根宮ノ下・磐梯熱海',
+    title: 'オールインクルーシブで財布を気にせず寛ぐ極上温泉宿×ふるさと納税厳選ガイド作並・箱根宮ノ下・磐梯熱海',
     description: 'チェックインからチェックアウトまで追加料金ゼロ！生ビール・ワイン・地酒のフリーフローや湯上がりアイス、上質なサロンでのカフェタイムを心ゆくまで堪能。広瀬川の渓流露天風呂と暖炉ラウンジが魅力の仙台作並「ゆづくしSalon一の坊」、全室露天風呂付き離れで極上のプライベートステイを提供する「Nazuna箱根宮ノ下」、福島の銘酒と美肌湯に酔いしれる磐梯熱海「浅香荘」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
     url: baseUrl + '/furusato-tax-all-inclusive-luxury-onsen-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoAllInclusiveLuxuryStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             オールインクルーシブ＆フリーフロー極上温泉宿特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            オールインクルーシブで財布を気にせず寛ぐ極上温泉宿×ふるさと納税完全ガイド【2026年最新】作並・箱根宮ノ下・磐梯熱海
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">オールインクルーシブで財布を気にせず寛ぐ極上温泉宿×ふるさと納税厳選ガイド作並・箱根宮ノ下・磐梯熱海</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             「滞在中にドリンク代やアクティビティ代を気にせず、心の底からリラックスしたい。」――そんな大人の旅人から圧倒的な支持を集めているのが「オールインクルーシブスタイルの温泉宿」です。チェックインした瞬間からウェルカムドリンクと特製スイーツが振る舞われ、湯上がり処では冷えた生ビールやアイスキャンディーが自由に楽しめ、夕食時のアルコールペアリングはもちろん、夜のバータイムやお夜食まで全てが無料。追加精算の煩わしさから完全に解放される快適さは一度体験すると病みつきになります。渓流沿いの露天風呂と広大なサロンで思い思いの時間を過ごせる仙台作並温泉の「ゆづくしSalon一の坊」、全室に専用露天風呂を備え上質な和モダン空間でフリーフローを満喫できる「Nazuna箱根宮ノ下」、そして福島の誇る美酒と源泉かけ流しを味わい尽くす磐梯熱海温泉の「浅香荘」。プレミアムなサービスが充実している分、通常料金は高めに設定されていますが、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引）を活用すれば、実質自己負担2,000円で驚くほどお得に滞在可能です。何もしない贅沢に身を委ねる、最高峰のオールインクルーシブ温泉旅へ出かけましょう。
           </p>

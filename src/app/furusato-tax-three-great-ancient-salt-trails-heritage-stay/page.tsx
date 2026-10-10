@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '日本三大塩の道＆歴史古道トレッキングと日本海の塩・山の幸美食宿×ふるさと納税完全ガイド【2026年最新】千国・三州・秋葉',
+  title: '日本三大塩の道＆歴史古道トレッキングと日本海の塩・山の幸美食宿×ふるさと納税厳選ガイド千国・三州・秋葉',
   description: '海のない信州へと命の塩と海産物を運んだ険しくも美しい祈りと生活の道「日本三大塩の道」（新潟糸魚川〜長野松本・千国街道、愛知岡崎〜長野塩尻・三州街道、静岡相良〜長野茅野・秋葉街道）。石畳や杉木立の古道トレッキング、名湯白馬温泉や昼神温泉、炉端会席。楽天ふるさと納税トラベルクーポンで実質2,000円負担で巡る歴史ロマン宿泊ガイド。',
   keywords: ["日本三大塩の道", "山の幸美食宿×ふるさと納税", "2026年最新", "千国", "三州", "秋葉", "温泉宿"],
   alternates: { canonical: baseUrl + '/furusato-tax-three-great-ancient-salt-trails-heritage-stay/' },
   openGraph: {
-    title: '日本三大塩の道＆歴史古道トレッキングと日本海の塩・山の幸美食宿×ふるさと納税完全ガイド【2026年最新】千国・三州・秋葉',
+    title: '日本三大塩の道＆歴史古道トレッキングと日本海の塩・山の幸美食宿×ふるさと納税厳選ガイド千国・三州・秋葉',
     description: '海のない信州へと命の塩と海産物を運んだ険しくも美しい祈りと生活の道「日本三大塩の道」（新潟糸魚川〜長野松本・千国街道、愛知岡崎〜長野塩尻・三州街道、静岡相良〜長野茅野・秋葉街道）。石畳や杉木立の古道トレッキング、名湯白馬温泉や昼神温泉、炉端会席。楽天ふるさと納税トラベルクーポンで実質2,000円負担で巡る歴史ロマン宿泊ガイド。',
     url: baseUrl + '/furusato-tax-three-great-ancient-salt-trails-heritage-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoRound64ArticlePage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             日本三大塩の道・歴史古道と名湯ステイ特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            日本三大塩の道＆歴史古道トレッキングと日本海の塩・山の幸美食宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">日本三大塩の道＆歴史古道トレッキングと日本海の塩・山の幸美食宿</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             山国・信州に暮らす人々にとって、塩は生命を維持するために何としても手に入れなければならない最も尊い宝でした。日本海や太平洋の塩田で焚かれた塩を、歩荷（ぼっか）や牛馬の背に揺られて険しい峠を越えて運んだ歴史古道、それが「塩の道」です。「敵に塩を送る」の故事でも名高い日本海糸魚川から北アルプス山麓を縫って松本へと至る千国街道（ちくにかいどう）。三河湾の塩を信州伊那谷へと運び中馬（ちゅうま）が行き交った三州街道（足助街道）。そして遠州灘の塩とともに火防の神・秋葉神社への信仰者が踏み固めた秋葉街道。杉木立の石畳、今も残る常夜灯や道祖神、そして峠の茶屋跡。自らの足で古道を歩き、先人たちの過酷な歩みに思いを馳せた後は、沿線に湧き出る美肌の名湯に浸かり、日本海の海の幸と信州の山の幸が出会う郷土料理を味わうひととき。楽天ふるさと納税トラベルクーポンを活用して、深い歴史ロマンと大自然に抱かれる心豊かな古道温泉旅へ出かけましょう。
           </p>

@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【金沢駅前】兼六園秋の雪吊り＆のどぐろ・金沢おでん！2,000円台〜泊まれる格安ホテル5選',
+  title: '金沢駅前：兼六園秋の雪吊り＆のどぐろ・金沢おでん！2,000円台〜泊まれる格安ホテル5選',
   description: '鼓門迎える金沢駅前！名勝・兼六園の秋の紅葉と風物詩「雪吊り」、近江町市場ののどぐろや熱々金沢おでん。北陸新幹線・金沢駅周辺で1泊2,000円台〜泊まれる高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>名勝兼六園の秋散歩＆近江町市場・金沢おでんグルメ</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【金沢駅前】兼六園雪吊り散歩＆旬の海鮮・おでん！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「金沢駅前」兼六園雪吊り散歩＆旬の海鮮・おでん！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             世界的にも美しい木造建築「鼓門」が迎える金沢駅。日本三名園「兼六園」の華やかな紅葉と冬支度の風物詩「雪吊り（ゆきづり）」、近江町市場の脂がのったのどぐろ、出汁の染みた金沢おでん。金沢駅周辺で2,000円台〜泊まれる格安・高コスパホテルを厳選。
           </p>

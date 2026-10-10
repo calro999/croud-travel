@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/yamagata-sakata-sankyo-warehouse-shonai-stay/" },
-  title: "【山形・酒田＆山居倉庫・庄内砂丘】北前船豪商の港町・酒田ラーメン＆日本海夕陽宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "山形・酒田＆山居倉庫・庄内砂丘：北前船豪商の港町・酒田ラーメン＆日本海夕陽宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "北前船航路の繁栄とケヤキ並木の美！山形酒田エリア完全特化！国指定史跡「山居倉庫（ケヤキ並木・米穀倉庫）」、日本一の大地主「本間家旧本邸」、日和山公園、名物「酒田ラーメン・庄内浜海鮮宿」を徹底解説。",
   keywords: ["山形", "酒田", "山居倉庫", "庄内砂丘", "北前船豪商の港町", "酒田ラーメン", "日本海夕陽宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             SAKATA & SANKYO GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【山形・酒田＆山居倉庫・庄内砂丘】北前船豪商の港町・酒田ラーメン＆日本海夕陽宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「山形・酒田＆山居倉庫・庄内砂丘」北前船豪商の港町・酒田ラーメン＆日本海夕陽宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-teal-100/90 leading-relaxed">
             「西の堺、東の酒田」と謳われた北前船交易の港町「酒田」。明治26年築、ケヤキ並木の木陰に佇む黒板塀の「山居倉庫」。日本一の大地主・本間家の栄華を伝える武家屋敷と庭園。飛魚（アゴ）出汁が澄み渡る「酒田のラーメン」と庄内浜の海の幸を味わう旅。
           </p>

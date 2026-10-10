@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-pine-groves-stay/" },
-  title: '日本三大松原＆白砂青松ドライブ・絶景シーサイドオーシャンビュー温泉宿×ふるさと納税完全ガイド【2026年最新】三保松原・虹の松原・気比松原',
+  title: '日本三大松原＆白砂青松ドライブ・絶景シーサイドオーシャンビュー温泉宿×ふるさと納税厳選ガイド三保松原・虹の松原・気比松原',
   description: '白砂と青松、青い海が描く日本の原風景！静岡清水「三保松原」羽衣伝説と霊峰富士の絶景パノラマ・天女の館羽衣ホテル、佐賀唐津「虹の松原」鏡山から見下ろす4.5km100万本の松林と全室東シナ海一望唐津シーサイドホテル、福井敦賀「気比の松原」若狭湾の白砂と赤松・ホテルルートイン敦賀駅前。日本三大松原の海岸美を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大松原・白砂青松特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大松原＆白砂青松ドライブ・絶景シーサイドオーシャンビュー温泉宿×ふるさと納税完全ガイド【2026年最新】三保松原・虹の松原・気比松原',
+    title: '日本三大松原＆白砂青松ドライブ・絶景シーサイドオーシャンビュー温泉宿×ふるさと納税厳選ガイド三保松原・虹の松原・気比松原',
     description: '白砂と青松、青い海が描く日本の原風景！静岡清水「三保松原」羽衣伝説と霊峰富士の絶景パノラマ・天女の館羽衣ホテル、佐賀唐津「虹の松原」鏡山から見下ろす4.5km100万本の松林と全室東シナ海一望唐津シーサイドホテル、福井敦賀「気比の松原」若狭湾の白砂と赤松・ホテルルートイン敦賀駅前。日本三大松原の海岸美を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-pine-groves-stay',
@@ -158,9 +158,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大松原・白砂青松特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大松原＆白砂青松オーシャンビュー宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大松原＆白砂青松オーシャンビュー宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             古来より詩歌や浮世絵に描かれ、日本の海岸景観の最高峰として讃えられてきた「日本三大松原」――駿河湾越しに世界文化遺産・富士山を仰ぎ羽衣伝説の松が今も息づく静岡の「三保松原」、玄界灘の唐津湾沿いに弓なりに4.5kmにわたって100万本の黒松が緑の虹のように連なる佐賀唐津の「虹の松原」、そして敦賀湾の奥深くに赤松と黒松が交錯し白砂の浜辺がどこまでも広がる福井敦賀の「気比の松原」。潮風に揺れる松の緑と寄せては返す白波、そして水平線に沈む夕日を眺める時間は、日常の喧騒を忘れさせてくれる至福のひとときです。松原沿いのシーサイドリゾートや温泉宿を拠点に、清水マグロ・唐津の呼子イカ・越前若狭の海の幸を堪能するドライブ旅を楽天ふるさと納税でお楽しみください。
           </p>

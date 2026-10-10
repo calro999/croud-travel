@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月大分・筋湯温泉】くじゅう連山初冬の霧氷雪景色！名宿5選',
+  title: '大分・筋湯温泉で過ごす冬の旅（11・12月）！くじゅう連山初冬の霧氷雪景色！名宿5選',
   description: '11月中旬から九州屈指の寒冷地である標高1000mの九重高原を初冬の冷気が包み込み。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '筋湯温泉 宿泊, 九重温泉 旅館, 筋湯温泉 旅館白滝, 宿房 花しのぶ, 九重悠々亭, たからや旅館, 季の郷 山の湯, うたせ大浴場, 豊後牛 すき焼き, 九重夢ポーク, 11月 12月 大分温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-oita-sujiyu-onsen-kuju-snow-bungo-beef-stay/"
   },
   openGraph: {
-    title: '【11・12月大分・筋湯温泉】くじゅう連山初冬の霧氷雪景色！名宿5選',
+    title: '大分・筋湯温泉で過ごす冬の旅（11・12月）！くじゅう連山初冬の霧氷雪景色！名宿5選',
     description: '11月中旬から九州屈指の寒冷地である標高1000mの九重高原を初冬の冷気が包み込み。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-oita-sujiyu-onsen-kuju-snow-bungo-beef-stay',
     siteName: 'クラドトラベル',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月大分・筋湯温泉＆九重連山】くじゅう連山初冬の霧氷雪景色と打たせ湯日本一・極上おおいた豊後牛＆九重夢ポークを堪能する名宿5選",
+    title: "大分・筋湯温泉＆九重連山で過ごす冬の旅（11・12月）！くじゅう連山初冬の霧氷雪景色と打たせ湯日本一・極上おおいた豊後牛＆九重夢ポークを堪能する名宿5選",
     description: "11月中旬から九州屈指の寒冷地である標高1000mの九重高原を初冬の冷気が包み込み、くじゅう連山の稜線が幻想的な霧氷や白雪に覆われる大分県・筋湯温泉（すじゆおんせん）。開湯1000年以上の歴史を誇り、「筋の病に効く」として全国の湯治客に親しまれてきたこの山峡の名湯は、高さ3mから18筋の湯が豪快に落ちる共同浴場「うたせ大浴場」をはじめ、乳白色の硫黄泉やメタケイ酸豊富な美肌湯が湧き出る秘湯の里です。冷え切った身体を名湯で芯から温めた後は、大分が誇る最高峰の黒毛和牛「おおいた豊後牛」の霜降りすき焼きや陶板ステーキ、きめ細やかな旨味のブランド豚「九重夢ポーク」のしゃぶしゃぶ鍋、地獄蒸し料理など、冬の山里の滋味を贅沢に味わえます。初冬の九重連山で静寂と至福の温もりに浸る厳選名宿5選を詳細に紐解きます。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -337,10 +337,7 @@ export default function OitaSujiyuKujuPage() {
             <Snowflake className="w-4 h-4 text-amber-300" />
             11月・12月 九州の冬温泉特集 ｜ 大分・筋湯温泉＆九重連山
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            標高1000mくじゅう連山の霧氷雪景色<br />
-            日本一の打たせ湯と極上おおいた豊後牛名宿
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">標高1000mくじゅう連山の霧氷雪景色<br /> 日本一の打たせ湯と極上おおいた豊後牛名宿</h1>
           <p className="text-stone-300 text-sm sm:text-base max-w-2xl mx-auto leading-relaxed pt-2">
             18筋の湯が落ちる「うたせ大浴場」と乳白色の自噴硫黄泉。小松地獄の湯けむりが舞う山峡で味わう九重夢ポークと霜降り豊後牛。
           </p>

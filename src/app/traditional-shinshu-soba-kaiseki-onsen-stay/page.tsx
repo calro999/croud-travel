@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】挽きたて・打ちたて・茹でたて！信州手打ち蕎麦会席＆北アルプス展望温泉宿5選 | 日本全国・旅宿クラウド',
+  title: '2026年：挽きたて・打ちたて・茹でたて！信州手打ち蕎麦会席＆北アルプス展望温泉宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！長野・戸隠・安曇野の名水が育む絶品手打ち蕎麦尽くし会席！北アルプスの雪形や新緑を望む絶景露天風呂と信州美食を堪能する名宿5選。',
   keywords: ["2026年", "挽きたて", "打ちたて", "茹でたて！信州手打ち蕎麦会席", "北アルプス展望温泉宿5選", "日本全国", "旅宿クラウド"],
   openGraph: {
-    title: '【2026年】挽きたて・打ちたて・茹でたて！信州手打ち蕎麦会席＆北アルプス展望温泉宿5選',
+    title: '2026年：挽きたて・打ちたて・茹でたて！信州手打ち蕎麦会席＆北アルプス展望温泉宿5選',
     description: '2026年最新！長野・戸隠・安曇野の名水が育む絶品手打ち蕎麦尽くし会席！北アルプスの雪形や新緑を望む絶景露天風呂と信州美食を堪能する名宿5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/traditional-shinshu-soba-kaiseki-onsen-stay',
@@ -193,9 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> 信州手打ち蕎麦会席×北アルプス展望名湯
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】挽きたて・打ちたて・茹でたて！信州手打ち蕎麦会席＆北アルプス展望温泉宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」挽きたて・打ちたて・茹でたて！信州手打ち蕎麦会席＆北アルプス展望温泉宿5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             澄んだ名水と寒暖差が育む長野県特産の信州蕎麦。職人が丹精込めて打つ十割蕎麦や蕎麦がき、信州プレミアム牛肉との贅沢な会席料理。北アルプスの雄峰を一望する展望露天風呂で心洗われる信州の休日。
           </p>

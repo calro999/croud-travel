@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tokyo-asakusa-solo-retreat-onsen-stay/" },
-  title: '【浅草ひとり旅・下町温泉おこもり】隅田川スカイツリー夜景・天然温泉展望露天・老舗江戸前グルメ！歴史と現代が交差する厳選3宿',
+  title: '浅草ひとり旅・下町温泉おこもり：隅田川スカイツリー夜景・天然温泉展望露天・老舗江戸前グルメ！歴史と現代が交差する厳選3宿',
   description: '羽田・成田空港や都内各所から直通アクセス！隅田川と東京スカイツリーの絶景を望む展望足湯＆露天風呂が名物の「ドーミーインEXPRESS浅草」、銀座線田原町駅徒歩2分でシモンズベッド快眠を約束する「ホテルサンルート浅草」、最上階に展望大浴殿を完備した「アパホテル〈浅草 蔵前〉」を楽天APIデータに基づき徹底比較。',
   keywords: '浅草 一人旅 ホテル,浅草 温泉 宿,ドーミーインEXPRESS浅草,ホテルサンルート浅草,浅草 ひとり 大浴場,スカイツリー 夜景 ホテル',
   openGraph: {
-    title: '【浅草ひとり旅・下町温泉おこもり】隅田川スカイツリー夜景・天然温泉展望露天・老舗江戸前グルメ！歴史と現代が交差する厳選3宿',
+    title: '浅草ひとり旅・下町温泉おこもり：隅田川スカイツリー夜景・天然温泉展望露天・老舗江戸前グルメ！歴史と現代が交差する厳選3宿',
     description: '羽田・成田空港や都内各所から直通アクセス！隅田川と東京スカイツリーの絶景を望む展望足湯＆露天風呂が名物の「ドーミーインEXPRESS浅草」、銀座線田原町駅徒歩2分でシモンズベッド快眠を約束する「ホテルサンルート浅草」、最上階に展望大浴殿を完備した「アパホテル〈浅草 蔵前〉」を楽天APIデータに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/tokyo-asakusa-solo-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【浅草ひとり旅・下町温泉おこもり】隅田川スカイツリー夜景・天然温泉展望露天・老舗江戸前グルメ！歴史と現代が交差する厳選3宿',
+    headline: '浅草ひとり旅・下町温泉おこもり：隅田川スカイツリー夜景・天然温泉展望露天・老舗江戸前グルメ！歴史と現代が交差する厳選3宿',
     description: '羽田・成田空港や都内各所から直通アクセス！隅田川と東京スカイツリーの絶景を望む展望足湯＆露天風呂が名物の「ドーミーインEXPRESS浅草」、銀座線田原町駅徒歩2分でシモンズベッド快眠を約束する「ホテルサンルート浅草」、最上階に展望大浴殿を完備した「アパホテル〈浅草 蔵前〉」を楽天APIデータに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -72,9 +72,7 @@ export default function ArticlePage() {
         <div className="inline-block bg-amber-700 text-white text-xs font-semibold px-3 py-1 rounded-full mb-3 tracking-wider">
           ひとり旅・出張・サウナ＆名湯特集
         </div>
-        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">
-          【浅草ひとり旅・下町温泉おこもり】隅田川スカイツリー夜景・天然温泉展望露天・老舗江戸前グルメ！歴史と現代が交差する厳選3宿
-        </h1>
+        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">「浅草ひとり旅・下町温泉おこもり」隅田川スカイツリー夜景・天然温泉展望露天・老舗江戸前グルメ！歴史と現代が交差する厳選3宿</h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.13 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>

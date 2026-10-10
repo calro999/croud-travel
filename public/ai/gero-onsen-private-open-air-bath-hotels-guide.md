@@ -1,4 +1,4 @@
-# 【下呂温泉】客室露天風呂付きおすすめ宿6選！カップル・記念日に泊まりたい美肌の湯
+# 下呂温泉：客室露天風呂付きおすすめ宿6選！カップル・記念日に泊まりたい美肌の湯
 
 - URL: https://croud-travel.pages.dev/posts/gero-onsen-private-open-air-bath-hotels-guide/
 - 宿泊施設名: オテル・ド・マロニエ 下呂温泉

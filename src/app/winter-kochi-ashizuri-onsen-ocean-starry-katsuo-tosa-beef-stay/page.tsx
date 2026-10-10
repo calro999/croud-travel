@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月高知・足摺温泉郷】戻り鰹藁焼きタタキ！名宿5選',
+  title: '高知・足摺温泉郷で過ごす冬の旅（11・12月）！戻り鰹藁焼きタタキ！名宿5選',
   description: '11月から12月にかけて、四国最南端の足摺岬・足摺温泉郷は、初冬でも黒潮の暖流により温暖な気候に恵まれ、紺碧の太平洋が広がるダイナミックな断崖絶景と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '足摺温泉 宿泊, 足摺岬 ホテル, 戻り鰹 藁焼き 高知, 土佐あかうし, 足摺 星空 11月 12月, 足摺国際ホテル, TheMana Village, アシズリテルメ, 足摺サニーサイドホテル, 味彩の宿 南国',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kochi-ashizuri-onsen-ocean-starry-katsuo-tosa-beef-stay/"
   },
   openGraph: {
-    title: '【11・12月高知・足摺温泉郷】戻り鰹藁焼きタタキ！名宿5選',
+    title: '高知・足摺温泉郷で過ごす冬の旅（11・12月）！戻り鰹藁焼きタタキ！名宿5選',
     description: '11月から12月にかけて、四国最南端の足摺岬・足摺温泉郷は、初冬でも黒潮の暖流により温暖な気候に恵まれ、紺碧の太平洋が広がるダイナミックな断崖絶景と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-kochi-ashizuri-onsen-ocean-starry-katsuo-tosa-beef-stay',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -246,10 +246,7 @@ export default function KochiAshizuriWinterFeature() {
             <Sparkle className="w-4 h-4" />
             11月・12月 四国最南端黒潮＆満天星空特集｜高知・足摺温泉郷
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            初冬の黒潮絶景と満天の星空<br className="hidden sm:inline" />
-            戻り鰹藁焼きタタキ＆幻の土佐あかうし会席を堪能する名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">初冬の黒潮絶景と満天の星空<br className="hidden sm:inline" /> 戻り鰹藁焼きタタキ＆幻の土佐あかうし会席を堪能する名宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             四国最南端を洗う黒潮の温暖な風と、光害ゼロの夜空に降り注ぐ天の川。脂の乗った極上戻り鰹の藁焼きタタキと弘法大師ゆかりの千二百年名湯に浸かる、初冬の高知の贅沢旅。
           </p>

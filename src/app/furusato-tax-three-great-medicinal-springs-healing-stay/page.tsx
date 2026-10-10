@@ -42,9 +42,7 @@ export default function Page() {
             <span className="inline-block w-2 h-2 rounded-full bg-rose-400 animate-pulse" />
             日本三大薬湯・本格湯治特集
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">
-            日本三大薬湯＆濃厚生薬湯治宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三大薬湯＆濃厚生薬湯治宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg md:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed font-normal">
             万病を癒やす奇跡の薬効成分！新潟「松之山温泉」太古の海水が湧出するジオプレッシャーの奇跡ひなの宿ちとせ、群馬「草津温泉」強酸性の圧倒的殺菌力と湯畑源泉かけ流しの名門望雲、兵庫「有馬温泉」豊臣秀吉が愛した鉄分・塩分超濃厚の金泉兵衛向陽閣。日本三大薬湯の本格湯治リトリートを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。
           </p>

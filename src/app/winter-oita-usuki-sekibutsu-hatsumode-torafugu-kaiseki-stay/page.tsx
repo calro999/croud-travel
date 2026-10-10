@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { MapPin, Calendar, ExternalLink, HelpCircle, ChevronRight, ShieldCheck, Sparkles } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【国宝臼杵石仏の新春初詣と本場臼杵ふぐ】2026-2027年冬の大分・臼杵！極上厚切りてっさと名湯宿5選 | クラウドトラベル',
+  title: '国宝臼杵石仏の新春初詣と本場臼杵ふぐ：2026-2027年冬の大分・臼杵！極上厚切りてっさと名湯宿5選 | クラウドトラベル',
   description: '平安・鎌倉の祈りが息づく国宝「臼杵磨崖仏（臼杵石仏）」での新春初詣と、全国の食通が絶賛する豊後水道の最高峰「臼杵とらふぐ」！本場ならではの厚切りてっさ、白子焼き、ひれ酒と名湯を味わう冬旅厳選5宿。',
   keywords: ['大分県冬旅行', '臼杵・豊後水道・津久見', '冬温泉', '2026', '2027', '雪景色', '冬の味覚', '楽天トラベル', 'ふるさと納税'],
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-oita-usuki-sekibutsu-hatsumode-torafugu-kaiseki-stay',
   },
   openGraph: {
-    title: '【国宝臼杵石仏の新春初詣と本場臼杵ふぐ】2026-2027年冬の大分・臼杵！極上厚切りてっさと名湯宿5選',
+    title: '国宝臼杵石仏の新春初詣と本場臼杵ふぐ：2026-2027年冬の大分・臼杵！極上厚切りてっさと名湯宿5選',
     description: '平安・鎌倉の祈りが息づく国宝「臼杵磨崖仏（臼杵石仏）」での新春初詣と、全国の食通が絶賛する豊後水道の最高峰「臼杵とらふぐ」！本場ならではの厚切りてっさ、白子焼き、ひれ酒と名湯を味わう冬旅厳選5宿。',
     url: 'https://croud-travel.pages.dev/winter-oita-usuki-sekibutsu-hatsumode-torafugu-kaiseki-stay',
     siteName: 'クラウドトラベル',
@@ -62,9 +62,7 @@ export default function WinterFeaturePage() {
               <Sparkles className="w-3.5 h-3.5" />
               <span>2026-2027年 冬季限定・厳選名宿特集</span>
             </div>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold tracking-tight leading-tight text-balance">
-              【国宝臼杵石仏の新春初詣と本場臼杵ふぐ】2026-2027年冬の大分・臼杵！極上厚切りてっさと名湯宿5選
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold tracking-tight leading-tight text-balance">「国宝臼杵石仏の新春初詣と本場臼杵ふぐ」2026-2027年冬の大分・臼杵！極上厚切りてっさと名湯宿5選</h1>
             <p className="max-w-2xl mx-auto text-xs sm:text-sm text-stone-300 leading-relaxed text-pretty">
               大分県南部、豊後水道に面した歴史ある城下町・臼杵（うすき）。冬の11月から1月、全国から熱烈な食通がこぞってこの町を目指す最大の理由、それが「本場・臼杵ふぐ」です。豊後水道の荒波と早い潮流に揉まれて育った最高級のとらふぐを、熟練の職人が当日締めて豪快に引く厚切りのてっさ（ふぐ刺し）は、通常のふぐ刺しとは別次元の弾力と甘みを誇り、「噛むほどに旨みが爆発する」と称賛されます。さらに町外れの深山には、平安時代後期から鎌倉時代の祈りが岩肌に刻まれた日本彫刻の至宝・国宝「臼杵磨崖仏（臼杵石仏）」が鎮座。雪をまとった古仏群への新春初詣で心を洗われ、白子焼きやひれ酒に酔いしれ、別府や六ヶ迫の名湯で身体を温める至高の冬旅をお届けします。
             </p>

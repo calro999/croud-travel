@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【12月開幕！野沢温泉パウダースノー】天然雪100%ゲレンデと名物！名宿5選',
+  title: '開幕！野沢温泉パウダースノーで過ごす冬の旅（12月）！天然雪100%ゲレンデと名物！名宿5選',
   description: '12月上旬オープン！天然雪100%の極上パウダースノーと総滑走距離44kmを誇る「野沢温泉スキー場」！江戸時代から湯仲間が大切に守り継ぐ名物「13の外湯めぐり」と、冬の風物詩・野沢菜本漬け、信州牛会席に寛ぐ老舗温泉宿ステイ。',
   keywords: '野沢温泉 スキー, 野沢温泉 パウダースノー, 野沢温泉 外湯めぐり, 野沢温泉 旅館, 信州牛 温泉, 長野 12月 スキー場, ゲレンデ直結 温泉宿',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay/",
   },
   openGraph: {
-    title: '【12月開幕！野沢温泉パウダースノー】天然雪100%ゲレンデと名物！名宿5選',
+    title: '開幕！野沢温泉パウダースノーで過ごす冬の旅（12月）！天然雪100%ゲレンデと名物！名宿5選',
     description: '12月上旬オープン！天然雪100%の極上パウダースノーと総滑走距離44kmを誇る「野沢温泉スキー場」！江戸時代から湯仲間が大切に守り継ぐ名物「13の外湯めぐり」と、冬の風物詩・野沢菜本漬け、信州牛会席に寛ぐ老舗温泉宿ステイ。',
     url: 'https://croud-travel.pages.dev/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【12月開幕！野沢温泉パウダースノー】天然雪100%ゲレンデと名物13外湯めぐり＆信州牛美食宿5選",
+    title: "開幕！野沢温泉パウダースノーで過ごす冬の旅（12月）！天然雪100%ゲレンデと名物13外湯めぐり＆信州牛美食宿5選",
     description: "12月上旬オープン！天然雪100%の極上パウダースノーと総滑走距離44kmを誇る「野沢温泉スキー場」！江戸時代から湯仲間が大切に守り継ぐ名物「13の外湯めぐり」と、冬の風物詩・野沢菜本漬け、信州牛会席に寛ぐ老舗温泉宿ステイ。",
   }
 };
@@ -266,10 +266,7 @@ export default function NozawaWinterPage() {
             <Snowflake className="w-4 h-4 text-cyan-200" />
             <span>12月シーズン開幕！天然雪100%＆名湯めぐり</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【12月開幕！野沢温泉パウダースノー】<br className="hidden sm:inline" />
-            天然雪100%ゲレンデと名物13外湯めぐり＆信州牛美食宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">開幕！野沢温泉パウダースノーで過ごす冬の旅（12月）！<br className="hidden sm:inline" /> 天然雪100%ゲレンデと名物13外湯めぐり＆信州牛美食宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             標高1,650mから降り積もる極上のサラサラ粉雪。滑走を楽しんだ後は、江戸時代から受け継がれる13の外湯を浴衣と下駄で巡り、信州牛ステーキと名物野沢菜に舌鼓を打つ日本最高峰のスノー＆温泉リトリート。
           </p>

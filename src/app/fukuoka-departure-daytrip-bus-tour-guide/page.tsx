@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/fukuoka-departure-daytrip-bus-tour-guide/" },
-  title: "【福岡・博多発 日帰りバスツアー】呼子活イカ・由布院温泉街散策・阿蘇カルデラ絶景の格安ツアー比較",
+  title: "福岡・博多発 日帰りバスツアー：呼子活イカ・由布院温泉街散策・阿蘇カルデラ絶景の格安ツアー比較",
   description: "福岡・博多・天神発の日帰りバスツアー！佐賀呼子の透明な活きイカ会席、湯布院金鱗湖＆露天風呂入浴、熊本阿蘇のあか牛ランチなど、車なし・手ぶらで大満足できるおすすめ日帰りツアーまとめ。",
   keywords: ["福岡", "博多発", "日帰りバスツアー", "呼子活イカ", "由布院温泉街散策", "温泉宿", "宿泊予約"],
 };
@@ -156,12 +156,7 @@ export default function FukuokaDepartureDaytripBusTourPage() {
             <span>博多・天神発 手ぶら日帰り</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-5xl font-black tracking-tight leading-tight md:leading-[1.2] text-white">
-            【福岡・博多発 日帰りバスツアー】
-            <br />
-            <span className="text-teal-300">呼子活イカ・由布院温泉街散策・阿蘇カルデラ絶景</span>
-            <span className="text-teal-100">の格安ツアー比較</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-5xl font-black tracking-tight leading-tight md:leading-[1.2] text-white">「福岡・博多発 日帰りバスツアー」 <br /> <span className="text-teal-300">呼子活イカ・由布院温泉街散策・阿蘇カルデラ絶景</span> <span className="text-teal-100">の格安ツアー比較</span></h1>
 
           <p className="text-teal-100/90 text-sm md:text-base max-w-3xl leading-relaxed pt-2">
             博多駅・天神から出発する人気日帰りバスツアーを完全ナビ！佐賀呼子の透明な活きイカ会席、大分湯布院の金鱗湖散策と立ち寄り温泉、熊本阿蘇の雄大なカルデラとあか牛ランチまで、電車や車より手軽でコスパ抜群な九州日帰り旅の決定版。

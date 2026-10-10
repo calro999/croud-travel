@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            静岡・伊豆最古の名湯 修善寺温泉と竹林の小径紅葉！歴史の湯回廊と極上伊豆牛・天城軍鶏
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">静岡・伊豆最古の名湯 修善寺温泉と竹林の小径紅葉！歴史の湯回廊と極上伊豆牛・天城軍鶏</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の静岡・修善寺＆中伊豆特集！弘法大師開湯1200年の歴史を誇る伊豆最古の温泉街、桂川沿いの「竹林の小径」と修禅寺境内の燃えるような紅葉ライトアップ、歴史ある名宿の湯回廊、天城軍鶏や極上伊豆牛をふるさと納税トラベルクーポンでお得に堪能する大人の秋旅。
           </p>

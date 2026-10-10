@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【高知】高知城の秋紅葉と戻り鰹の塩タタキ！3,000円台〜格安ホテル5選',
+  title: '高知：高知城の秋紅葉と戻り鰹の塩タタキ！3,000円台〜格安ホテル5選',
   description: '追手門と天守閣を彩る高知城の錦秋と、脂が乗り切った秋の「戻り鰹（かつお）の塩タタキ」！ひろめ市場で豪快な昼飲み＆屋台餃子。高知駅・はりまや橋周辺で1泊3,000円台〜5,000円台の高評価宿5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetKochiHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>高知城の錦秋絵巻＆脂が乗る戻り鰹</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【高知】高知城の紅葉＆戻り鰹の塩タタキ！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「高知」高知城の紅葉＆戻り鰹の塩タタキ！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-rose-100/90 max-w-2xl mx-auto leading-relaxed">
             江戸時代の天守と追手門が両方現存する名城「高知城」の紅葉と鏡川の秋景色！初鰹よりも脂がたっぷりと乗った秋の最高峰「戻り鰹の藁焼き塩タタキ」。そして熱気あふれる「ひろめ市場」でのハシゴ酒やパリパリの屋台安兵衛餃子！高知市内中心部で3,000円台〜泊まれる良質宿を厳選。
           </p>

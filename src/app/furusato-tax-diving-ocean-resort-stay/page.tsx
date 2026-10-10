@@ -4,14 +4,14 @@ import Link from 'next/link';
 import Image from 'next/image';
 
 export const metadata: Metadata = {
-  title: '海中展望＆ダイビング・シュノーケリング直結リゾート×ふるさと納税完全ガイド【2026年最新】恩納村・串本・西伊豆のマリンホテル',
+  title: '海中展望＆ダイビング・シュノーケリング直結リゾート×ふるさと納税厳選ガイド恩納村・串本・西伊豆のマリンホテル',
   description: '透明度抜群の海へ直行！沖縄恩納村の青の洞窟、和歌山串本の本州最南端テーブルサンゴ礁、静岡西伊豆のダイビングポイントに隣接したオーシャンリゾート。機材洗い場や温水シャワー完備、オーシャンビュー客室と新鮮海の幸を楽天ふるさと納税でお得に予約するガイド。',
   keywords: ["海中展望", "ダイビング", "2026年最新", "恩納村", "串本", "西伊豆のマリンホテル", "温泉宿"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-diving-ocean-resort-stay/"
   },
   openGraph: {
-    title: '海中展望＆ダイビング・シュノーケリング直結リゾート×ふるさと納税完全ガイド【2026年最新】恩納村・串本・西伊豆のマリンホテル',
+    title: '海中展望＆ダイビング・シュノーケリング直結リゾート×ふるさと納税厳選ガイド恩納村・串本・西伊豆のマリンホテル',
     description: '透明度抜群の海へ直行！沖縄恩納村の青の洞窟、和歌山串本の本州最南端テーブルサンゴ礁、静岡西伊豆のダイビングポイントに隣接したオーシャンリゾート。機材洗い場や温水シャワー完備、オーシャンビュー客室と新鮮海の幸を楽天ふるさと納税でお得に予約するガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-diving-ocean-resort-stay',
     type: 'article',
@@ -55,9 +55,7 @@ export default function FurusatoFeaturePage() {
             <span>✨</span>
             <span>海中展望・ダイビングマリン特集</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">
-            海中展望＆ダイビング・シュノーケリング直結リゾート×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">海中展望＆ダイビング・シュノーケリング直結リゾート×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
             カラフルな熱帯魚が群れ泳ぐサンゴ礁、神秘的な青の洞窟、そしてダイナミックな海中地形。日本全国の屈指のマリンスポットには、ダイビングやシュノーケリングに最適化された快適なリゾートホテルが点在しています。専用機材洗い場やボート出航港へのアクセス抜群の拠点を楽天ふるさと納税の宿泊クーポンで予約すれば、アクティビティ後の疲れを天然温泉や絶品海鮮会席で極上にリフレッシュできます。
           </p>

@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '11月解禁！兵庫香住の松葉ガニ＆幻の香住ガニ！日本海の絶景温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】兵庫',
+  title: '11月解禁！兵庫香住の松葉ガニ＆幻の香住ガニ！日本海の絶景温泉宿×ふるさと納税厳選ガイド兵庫',
   description: '秋の香住といえば関西唯一の水揚げを誇る紅ズワイ「香住ガニ」と、11月6日解禁の本場「松葉ガニ」！茹でガニ・カニ刺し・焼きガニ・カニ鍋を味わい尽くす贅沢プラン、香住温泉の名宿「さだ助」「甲羅戯」「小宿 梅乃家」で日本海の夕景と名湯を満喫。楽天ふるさと納税で実質2,000円で泊まる冬先取りカニ旅ガイド。',
   keywords: ["11月解禁！兵庫香住の松葉ガニ", "2026年最新秋旅", "兵庫", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kasumi-matsuba-crab-stay/"
   },
   openGraph: {
-    title: '11月解禁！兵庫香住の松葉ガニ＆幻の香住ガニ！日本海の絶景温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】兵庫',
+    title: '11月解禁！兵庫香住の松葉ガニ＆幻の香住ガニ！日本海の絶景温泉宿×ふるさと納税厳選ガイド兵庫',
     description: '秋の香住といえば関西唯一の水揚げを誇る紅ズワイ「香住ガニ」と、11月6日解禁の本場「松葉ガニ」！茹でガニ・カニ刺し・焼きガニ・カニ鍋を味わい尽くす贅沢プラン、香住温泉の名宿「さだ助」「甲羅戯」「小宿 梅乃家」で日本海の夕景と名湯を満喫。楽天ふるさと納税で実質2,000円で泊まる冬先取りカニ旅ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kasumi-matsuba-crab-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FeatureArticlePage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               兵庫香住・松葉ガニ＆香住ガニ解禁特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              11月解禁！兵庫香住の松葉ガニ＆幻の香住ガニ！日本海の絶景温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】兵庫
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">11月解禁！兵庫香住の松葉ガニ＆幻の香住ガニ！日本海の絶景温泉宿×ふるさと納税厳選ガイド兵庫</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               秋の香住といえば関西唯一の水揚げを誇る紅ズワイ「香住ガニ」と、11月6日解禁の本場「松葉ガニ」！茹でガニ・カニ刺し・焼きガニ・カニ鍋を味わい尽くす贅沢プラン、香住温泉の名宿「さだ助」「甲羅戯」「小宿 梅乃家」で日本海の夕景と名湯を満喫。楽天ふるさと納税で実質2,000円で泊まる冬先取りカニ旅ガイド。
             </p>

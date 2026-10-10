@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/wakayama-solo-business-ramen-castle-stay/" },
-  title: '【和歌山出張・ひとり旅】天然温泉紀州の湯・和歌山城パノラマ・濃厚豚骨醤油中華そば！城下町でととのう快適出張宿 厳選3選',
+  title: '和歌山出張・ひとり旅：天然温泉紀州の湯・和歌山城パノラマ・濃厚豚骨醤油中華そば！城下町でととのう快適出張宿 厳選3選',
   description: '関西南部の拠点・和歌山市での出張や一人旅に！自家源泉天然温泉と夜鳴きそばが揃う「ドーミーインPREMIUM和歌山」、和歌山城の夜景を望むハイクラスな「ダイワロイネットホテル和歌山」、JR和歌山駅直結の「ホテルグランヴィア和歌山」を徹底比較。',
   keywords: '和歌山 出張 ホテル,和歌山 ホテル 一人旅,ドーミーインPREMIUM和歌山,ダイワロイネットホテル和歌山,ホテルグランヴィア和歌山,和歌山ラーメン 中華そば',
   openGraph: {
-    title: '【和歌山出張・ひとり旅】天然温泉紀州の湯・和歌山城パノラマ・濃厚豚骨醤油中華そば！城下町でととのう快適出張宿 厳選3選',
+    title: '和歌山出張・ひとり旅：天然温泉紀州の湯・和歌山城パノラマ・濃厚豚骨醤油中華そば！城下町でととのう快適出張宿 厳選3選',
     description: '関西南部の拠点・和歌山市での出張や一人旅に！自家源泉天然温泉と夜鳴きそばが揃う「ドーミーインPREMIUM和歌山」、和歌山城の夜景を望むハイクラスな「ダイワロイネットホテル和歌山」、JR和歌山駅直結の「ホテルグランヴィア和歌山」を徹底比較。',
     url: 'https://croud-travel.pages.dev/wakayama-solo-business-ramen-castle-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【和歌山出張・ひとり旅】天然温泉紀州の湯・和歌山城パノラマ・濃厚豚骨醤油中華そば！城下町でととのう快適出張宿 厳選3選',
+    headline: '和歌山出張・ひとり旅：天然温泉紀州の湯・和歌山城パノラマ・濃厚豚骨醤油中華そば！城下町でととのう快適出張宿 厳選3選',
     description: '関西南部の拠点・和歌山市での出張や一人旅に！自家源泉天然温泉と夜鳴きそばが揃う「ドーミーインPREMIUM和歌山」、和歌山城の夜景を望むハイクラスな「ダイワロイネットホテル和歌山」、JR和歌山駅直結の「ホテルグランヴィア和歌山」を徹底比較。',
     author: {
       '@type': 'Organization',
@@ -73,9 +73,7 @@ export default function ArticlePage() {
         <div className="inline-block bg-amber-700 text-white text-xs font-semibold px-3 py-1 rounded-full mb-3 tracking-wider">
           ひとり旅・出張・サウナ＆名湯特集
         </div>
-        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">
-          【和歌山出張・ひとり旅】天然温泉紀州の湯・和歌山城パノラマ・濃厚豚骨醤油中華そば！城下町でととのう快適出張宿 厳選3選
-        </h1>
+        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">「和歌山出張・ひとり旅」天然温泉紀州の湯・和歌山城パノラマ・濃厚豚骨醤油中華そば！城下町でととのう快適出張宿 厳選3選</h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.12 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>

@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tokyo-shinjuku-solo-business-onsen-stay/" },
-  title: '【新宿出張・大浴場スパステイ】高層ビル夜景・都心展望スパ・新宿御苑！世界最大のターミナルを制する厳選3宿',
+  title: '新宿出張・大浴場スパステイ：高層ビル夜景・都心展望スパ・新宿御苑！世界最大のターミナルを制する厳選3宿',
   description: 'JR・私鉄各線が乗り入れる世界最大の乗降客数を誇る新宿駅！高層ビル街でハイクラスな滞在と快適デスクを誇る「ダイワロイネットホテル西新宿 PREMIER。」、新宿御苑前駅すぐで人工温泉大浴殿を完備した「アパホテル〈新宿御苑前〉」、展望プールと露天風呂付き大浴場を備える「アパホテル＆リゾート〈西新宿五丁目駅前タワー〉。」を徹底比較。',
   keywords: '新宿 出張 ホテル,新宿 ホテル 大浴場,ダイワロイネット西新宿PREMIER,アパホテル新宿御苑前,アパホテル西新宿五丁目駅前タワー,新宿 ひとり旅',
   openGraph: {
-    title: '【新宿出張・大浴場スパステイ】高層ビル夜景・都心展望スパ・新宿御苑！世界最大のターミナルを制する厳選3宿',
+    title: '新宿出張・大浴場スパステイ：高層ビル夜景・都心展望スパ・新宿御苑！世界最大のターミナルを制する厳選3宿',
     description: 'JR・私鉄各線が乗り入れる世界最大の乗降客数を誇る新宿駅！高層ビル街でハイクラスな滞在と快適デスクを誇る「ダイワロイネットホテル西新宿 PREMIER。」、新宿御苑前駅すぐで人工温泉大浴殿を完備した「アパホテル〈新宿御苑前〉」、展望プールと露天風呂付き大浴場を備える「アパホテル＆リゾート〈西新宿五丁目駅前タワー〉。」を徹底比較。',
     url: 'https://croud-travel.pages.dev/tokyo-shinjuku-solo-business-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【新宿出張・大浴場スパステイ】高層ビル夜景・都心展望スパ・新宿御苑！世界最大のターミナルを制する厳選3宿',
+    headline: '新宿出張・大浴場スパステイ：高層ビル夜景・都心展望スパ・新宿御苑！世界最大のターミナルを制する厳選3宿',
     description: 'JR・私鉄各線が乗り入れる世界最大の乗降客数を誇る新宿駅！高層ビル街でハイクラスな滞在と快適デスクを誇る「ダイワロイネットホテル西新宿 PREMIER。」、新宿御苑前駅すぐで人工温泉大浴殿を完備した「アパホテル〈新宿御苑前〉」、展望プールと露天風呂付き大浴場を備える「アパホテル＆リゾート〈西新宿五丁目駅前タワー〉。」を徹底比較。',
     author: {
       '@type': 'Organization',
@@ -72,9 +72,7 @@ export default function ArticlePage() {
         <div className="inline-block bg-amber-700 text-white text-xs font-semibold px-3 py-1 rounded-full mb-3 tracking-wider">
           ひとり旅・出張・サウナ＆名湯特集
         </div>
-        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">
-          【新宿出張・大浴場スパステイ】高層ビル夜景・都心展望スパ・新宿御苑！世界最大のターミナルを制する厳選3宿
-        </h1>
+        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">「新宿出張・大浴場スパステイ」高層ビル夜景・都心展望スパ・新宿御苑！世界最大のターミナルを制する厳選3宿</h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.13 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>

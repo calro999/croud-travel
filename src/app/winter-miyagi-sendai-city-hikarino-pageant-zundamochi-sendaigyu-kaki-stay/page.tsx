@@ -4,13 +4,13 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '冬の仙台市内・光のページェント完全ガイド｜仙台牛・ずんだ・閖上牡蠣と都市型天然温泉宿',
+  title: '冬の仙台市内・光のページェント厳選ガイド｜仙台牛・ずんだ・閖上牡蠣と都市型天然温泉宿',
   description: '12月に輝く定禅寺通の光のページェントから瑞鳳殿の初詣、仙台牛しゃぶしゃぶ・ずんだ餅・閖上牡蠣まで。宮城・仙台市内の冬旅を楽天トラベル人気宿とともに徹底解説。天然温泉付き宿も必見。',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-miyagi-sendai-city-hikarino-pageant-zundamochi-sendaigyu-kaki-stay/",
   },
   openGraph: {
-    title: '冬の仙台市内・光のページェント完全ガイド｜仙台牛・ずんだ・閖上牡蠣と都市型天然温泉宿',
+    title: '冬の仙台市内・光のページェント厳選ガイド｜仙台牛・ずんだ・閖上牡蠣と都市型天然温泉宿',
     description: '12月に輝く定禅寺通の光のページェントから瑞鳳殿の初詣、仙台牛しゃぶしゃぶ・ずんだ餅・閖上牡蠣まで。宮城・仙台市内の冬旅を楽天トラベル人気宿とともに徹底解説。',
     url: 'https://croud-travel.pages.dev/winter-miyagi-sendai-city-hikarino-pageant-zundamochi-sendaigyu-kaki-stay',
     siteName: 'Croud Travel',
@@ -60,7 +60,7 @@ export default function Page() {
       },
       {
         '@type': 'Article',
-        headline: '冬の仙台市内・光のページェント完全ガイド｜仙台牛・ずんだ・閖上牡蠣と都市型天然温泉宿',
+        headline: '冬の仙台市内・光のページェント厳選ガイド｜仙台牛・ずんだ・閖上牡蠣と都市型天然温泉宿',
         description: '12月に輝く定禅寺通の光のページェントから瑞鳳殿の初詣、仙台牛しゃぶしゃぶ・ずんだ餅・閖上牡蠣まで。宮城・仙台市内の冬旅を徹底解説。',
         url: 'https://croud-travel.pages.dev/winter-miyagi-sendai-city-hikarino-pageant-zundamochi-sendaigyu-kaki-stay',
         publisher: { '@type': 'Organization', name: 'Croud Travel', url: 'https://croud-travel.pages.dev' },
@@ -92,10 +92,7 @@ export default function Page() {
           <span>冬の仙台市内・光のページェント×仙台牛×温泉宿</span>
         </nav>
 
-        <h1 className="text-2xl font-bold mb-4 leading-snug">
-          冬の仙台市内・光のページェント完全ガイド<br />
-          <span className="text-lg font-normal text-gray-600">仙台牛・ずんだ・閖上牡蠣と都市型天然温泉宿</span>
-        </h1>
+        <h1 className="text-2xl font-bold mb-4 leading-snug">冬の仙台市内・光のページェント厳選ガイド<br /> <span className="text-lg font-normal text-gray-600">仙台牛・ずんだ・閖上牡蠣と都市型天然温泉宿</span></h1>
 
         <p className="text-gray-600 text-sm mb-8">
           更新日：2024年12月 ｜ 対象時期：11月〜1月

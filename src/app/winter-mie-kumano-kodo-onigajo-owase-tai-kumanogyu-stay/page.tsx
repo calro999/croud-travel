@@ -13,13 +13,13 @@ import {
 } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "【世界遺産熊野古道と鬼ヶ城の絶景】2026-2027年冬の三重・熊野＆尾鷲！尾鷲真鯛と熊野牛名宿5選 ｜ 日本全国・旅宿クラウド",
+  title: "世界遺産熊野古道と鬼ヶ城の絶景：2026-2027年冬の三重・熊野＆尾鷲！尾鷲真鯛と熊野牛名宿5選 ｜ 日本全国・旅宿クラウド",
   description: "冬こそ歩き頃を迎える世界遺産「熊野古道伊勢路」と奇岩怪石の景勝「鬼ヶ城」！冬に旬を迎える極上「尾鷲真鯛」や幻の銘柄和牛「熊野牛」、名湯・湯ノ口温泉に寛ぎ心洗われる新春の紀伊半島おすすめ名宿5選。",
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-mie-kumano-kodo-onigajo-owase-tai-kumanogyu-stay",
   },
   openGraph: {
-    title: "【世界遺産熊野古道と鬼ヶ城の絶景】2026-2027年冬の三重・熊野＆尾鷲！尾鷲真鯛と熊野牛名宿5選",
+    title: "世界遺産熊野古道と鬼ヶ城の絶景：2026-2027年冬の三重・熊野＆尾鷲！尾鷲真鯛と熊野牛名宿5選",
     description: "冬こそ歩き頃を迎える世界遺産「熊野古道伊勢路」と奇岩怪石の景勝「鬼ヶ城」！冬に旬を迎える極上「尾鷲真鯛」や幻の銘柄和牛「熊野牛」、名湯・湯ノ口温泉に寛ぎ心洗われる新春の紀伊半島おすすめ名宿5選。",
     url: "https://croud-travel.pages.dev/winter-mie-kumano-kodo-onigajo-owase-tai-kumanogyu-stay",
     siteName: "日本全国・旅宿クラウド",
@@ -36,7 +36,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "【世界遺産熊野古道と鬼ヶ城の絶景】2026-2027年冬の三重・熊野＆尾鷲！尾鷲真鯛と熊野牛名宿5選",
+    title: "世界遺産熊野古道と鬼ヶ城の絶景：2026-2027年冬の三重・熊野＆尾鷲！尾鷲真鯛と熊野牛名宿5選",
     description: "冬こそ歩き頃を迎える世界遺産「熊野古道伊勢路」と奇岩怪石の景勝「鬼ヶ城」！冬に旬を迎える極上「尾鷲真鯛」や幻の銘柄和牛「熊野牛」、名湯・湯ノ口温泉に寛ぎ心洗われる新春の紀伊半島おすすめ名宿5選。",
     images: ["https://img.travel.rakuten.co.jp/share/HOTEL/79395/79395.jpg"],
   },
@@ -167,9 +167,7 @@ export default function FeaturePage() {
               </span>
             </div>
 
-            <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold leading-tight">
-              【世界遺産熊野古道と鬼ヶ城の絶景】2026-2027年冬の三重・熊野＆尾鷲！尾鷲真鯛と熊野牛名宿5選
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold leading-tight">「世界遺産熊野古道と鬼ヶ城の絶景」2026-2027年冬の三重・熊野＆尾鷲！尾鷲真鯛と熊野牛名宿5選</h1>
 
             <p className="text-stone-300 text-xs sm:text-sm leading-relaxed max-w-3xl pt-2">
               紀伊半島の南東部に位置し、紺碧の熊野灘と峻険な紀伊山地に抱かれた三重県熊野市および尾鷲市。世界遺産「紀伊山地の霊場と参詣道」の重要な一角を担う熊野古道伊勢路（馬越峠や松本峠）は、真夏の酷暑や湿気とは無縁の11月から1月の冬こそが、温暖な黒潮気候に恵まれて最も快適に踏破できる黄金期を迎えます。熊野灘の荒波が削り出した国の名勝「鬼ヶ城」や巨岩「獅子岩」は、冬の澄み渡る青空と白波のコントラストで一年で最も劇的な景観を現出。そして何より旅人を惹きつけるのが、寒さとともに身が引き締まり上質な脂を蓄える「尾鷲真鯛」や近海寒ブリ、そして三重が誇る幻の黒毛和牛「熊野牛」のすき焼き・ステーキです。太古の修験と祈りの歴史が息づく山懐で、湯ノ口温泉や入鹿温泉の源泉に身を委ね、心洗われる新春の開運旅をご案内します。

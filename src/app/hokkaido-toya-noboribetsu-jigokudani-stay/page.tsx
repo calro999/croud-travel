@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hokkaido-toya-noboribetsu-jigokudani-stay/" },
-  title: "【北海道・洞爺湖＆登別】地獄谷・洞爺湖花火＆絶景温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "北海道・洞爺湖＆登別：地獄谷・洞爺湖花火＆絶景温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "北海道屈指の温泉天国！9種類の多彩な泉質が湧き出す「登別地獄谷」、半年間毎夜打ち上がる「洞爺湖ロングラン花火大会」、世界ジオパーク「有珠山・昭和新山」を徹底解説。レイクビュー露天風呂や老舗硫黄泉旅館を厳選。",
   keywords: ["北海道", "洞爺湖", "登別", "地獄谷", "洞爺湖花火", "絶景温泉宿", "温泉宿"],
 };
@@ -92,9 +92,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             TOYA & NOBORIBETSU GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【北海道・洞爺湖＆登別温泉】登別地獄谷・洞爺湖花火＆有珠山ジオパーク宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「北海道・洞爺湖＆登別温泉」登別地獄谷・洞爺湖花火＆有珠山ジオパーク宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-teal-100/90 leading-relaxed">
             もうもうと立ち上る白煙と煮えたぎる熱湯が圧倒的な迫力を放つ「登別地獄谷」。9種類もの異なる泉質が湧き出る日本有数の名湯から、半年間にわたり毎晩夜空を彩る「洞爺湖ロングラン花火大会」の絶景レイクビューへ。大地の鼓動を肌で感じる有珠山ジオパークのダイナミズムと、極上のいで湯と北海道の美食に癒される至高のステイへご案内します。
           </p>

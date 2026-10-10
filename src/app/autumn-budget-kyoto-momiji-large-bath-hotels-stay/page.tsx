@@ -3,11 +3,11 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【秋の京都×格安】紅葉狩りをお得に満喫！大浴場・サウナ付き1泊4,000円台〜のコスパ最強おすすめホテル5選【2026最新】',
+  title: '秋の京都×格安：紅葉狩りをお得に満喫！大浴場・サウナ付き1泊4,000円台〜のコスパ最強おすすめホテル5選「2026最新」',
   description: '宿泊費が高騰する秋の京都で賢く旅する！清水寺や東福寺の紅葉狩り、夜間ライトアップ後にゆったり足を伸ばせる大浴場・サウナ完備の格安ホテル5選。ロワジールホテル京都東寺、ホテルエルシエントなど1泊4,000円〜7,000円台の高評価宿を徹底比較！',
   keywords: '京都 格安 ホテル, 京都 大浴場 ホテル, 京都 紅葉 宿泊 安い, ロワジールホテル京都東寺, ホテルエルシエント京都八条口, ベッセルホテルカンパーナ京都五条',
   openGraph: {
-    title: '【秋の京都×格安】紅葉狩りをお得に満喫！大浴場・サウナ付き1泊4,000円台〜のコスパ最強おすすめホテル5選【2026最新】',
+    title: '秋の京都×格安：紅葉狩りをお得に満喫！大浴場・サウナ付き1泊4,000円台〜のコスパ最強おすすめホテル5選「2026最新」',
     description: '宿泊費が高騰する秋の京都で賢く旅する！大浴場・サウナ完備の1泊4,000円台〜コスパ最強ホテル5選。',
     type: 'article',
     url: 'https://croud-travel.com/autumn-budget-kyoto-momiji-large-bath-hotels-stay',
@@ -32,9 +32,7 @@ export default function KyotoBudgetAutumnPage() {
             <span className="px-3 py-1 bg-teal-600 text-white text-xs font-bold rounded-full">格安・コスパ旅特集</span>
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">1泊目安: 4,000円台〜7,000円台</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">
-            【秋の京都×格安】紅葉狩りをお得に満喫！大浴場・サウナ付き1泊4,000円台〜のコスパ最強おすすめホテル5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の京都×格安」紅葉狩りをお得に満喫！大浴場・サウナ付き1泊4,000円台〜のコスパ最強おすすめホテル5選</h1>
           <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
             ハイシーズンの京都はホテル代が高騰しがちですが、大浴場付き＆高評価でも1泊4,000円台から泊まれる優良宿が実は存在します。紅葉散策で歩き疲れた身体を癒やすおすすめコスパホテルをご紹介します。
           </p>

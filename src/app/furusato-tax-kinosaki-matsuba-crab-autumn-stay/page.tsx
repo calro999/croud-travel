@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '11月6日解禁の本場・城崎温泉松葉ガニ＆七つの外湯めぐり！老舗旅館×ふるさと納税完全ガイド【2026年最新秋旅】兵庫',
+  title: '11月6日解禁の本場・城崎温泉松葉ガニ＆七つの外湯めぐり！老舗旅館×ふるさと納税厳選ガイド兵庫',
   description: '11月6日に待ちに待ったカニ漁が解禁！関西屈指の温泉街「城崎温泉（きのさきおんせん）」。柳並木と太鼓橋が続く情緒あふれる街並みでの浴衣外湯めぐり、名門老舗宿「西村屋ホテル招月庭」「西村屋本館」「ときわ別館」で津居山港・柴山港水揚げの極上松葉ガニと但馬牛を堪能。楽天ふるさと納税で実質2,000円で泊まる冬先取りガイド。',
   keywords: ["11月6日解禁の本場", "城崎温泉松葉ガニ", "2026年最新秋旅", "兵庫", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kinosaki-matsuba-crab-autumn-stay/"
   },
   openGraph: {
-    title: '11月6日解禁の本場・城崎温泉松葉ガニ＆七つの外湯めぐり！老舗旅館×ふるさと納税完全ガイド【2026年最新秋旅】兵庫',
+    title: '11月6日解禁の本場・城崎温泉松葉ガニ＆七つの外湯めぐり！老舗旅館×ふるさと納税厳選ガイド兵庫',
     description: '11月6日に待ちに待ったカニ漁が解禁！関西屈指の温泉街「城崎温泉（きのさきおんせん）」。柳並木と太鼓橋が続く情緒あふれる街並みでの浴衣外湯めぐり、名門老舗宿「西村屋ホテル招月庭」「西村屋本館」「ときわ別館」で津居山港・柴山港水揚げの極上松葉ガニと但馬牛を堪能。楽天ふるさと納税で実質2,000円で泊まる冬先取りガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kinosaki-matsuba-crab-autumn-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FeatureArticlePage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               兵庫・城崎温泉＆11月解禁松葉ガニ特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              11月6日解禁の本場・城崎温泉松葉ガニ＆七つの外湯めぐり！老舗旅館×ふるさと納税完全ガイド【2026年最新秋旅】兵庫
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">11月6日解禁の本場・城崎温泉松葉ガニ＆七つの外湯めぐり！老舗旅館×ふるさと納税厳選ガイド兵庫</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               11月6日に待ちに待ったカニ漁が解禁！関西屈指の温泉街「城崎温泉（きのさきおんせん）」。柳並木と太鼓橋が続く情緒あふれる街並みでの浴衣外湯めぐり、名門老舗宿「西村屋ホテル招月庭」「西村屋本館」「ときわ別館」で津居山港・柴山港水揚げの極上松葉ガニと但馬牛を堪能。楽天ふるさと納税で実質2,000円で泊まる冬先取りガイド。
             </p>

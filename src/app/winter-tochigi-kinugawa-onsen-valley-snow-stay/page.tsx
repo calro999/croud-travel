@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月鬼怒川温泉】とちぎ和牛！名宿5選',
+  title: '鬼怒川温泉で過ごす冬の旅（11・12月）！とちぎ和牛！名宿5選',
   description: '江戸時代は日光詣での大名や僧侶のみに許された関東屈指の名湯・鬼怒川温泉。11月中旬の晩秋の残り香から12月の初雪へと移ろう初冬、清流と奇岩が織りなす鬼怒川渓谷の絶景を望む露天風呂と、肉汁溢れるA5とちぎ和牛や伝統の日光生ゆば懐石を心ゆくまで堪能する名宿ガイド。',
   keywords: '鬼怒川温泉 宿泊 11月 12月, 鬼怒川温泉 雪景色 露天風呂, とちぎ和牛 日光ゆば 鬼怒川, 鬼怒川温泉 あさや 空中庭園露天風呂, 鬼怒川金谷ホテル, 鬼怒川温泉 山楽, 鬼怒楯岩大吊橋 冬, スペーシアX 鬼怒川温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tochigi-kinugawa-onsen-valley-snow-stay/",
   },
   openGraph: {
-    title: '【11・12月鬼怒川温泉】とちぎ和牛！名宿5選',
+    title: '鬼怒川温泉で過ごす冬の旅（11・12月）！とちぎ和牛！名宿5選',
     description: '江戸時代は日光詣での大名や僧侶のみに許された関東屈指の名湯・鬼怒川温泉。11月中旬の晩秋の残り香から12月の初雪へと移ろう初冬、清流と奇岩が織りなす鬼怒川渓谷の絶景を望む露天風呂と、肉汁溢れるA5とちぎ和牛や伝統の日光生ゆば懐石を心ゆくまで堪能する名宿ガイド。',
     url: 'https://croud-travel.pages.dev/winter-tochigi-kinugawa-onsen-valley-snow-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月鬼怒川温泉の初冬渓谷美と名湯】雪化粧の奇岩とアルカリ性美肌泉・とちぎ和牛＆日光生ゆば会席の宿5選",
+    title: "鬼怒川温泉の初冬渓谷美と名湯で過ごす冬の旅（11・12月）！雪化粧の奇岩とアルカリ性美肌泉・とちぎ和牛＆日光生ゆば会席の宿5選",
     description: "江戸時代は日光詣での大名や僧侶のみに許された関東屈指の名湯・鬼怒川温泉。11月中旬の晩秋の残り香から12月の初雪へと移ろう初冬、清流と奇岩が織りなす鬼怒川渓谷の絶景を望む露天風呂と、肉汁溢れるA5とちぎ和牛や伝統の日光生ゆば懐石を心ゆくまで堪能する名宿ガイド。",
   }
 };
@@ -259,10 +259,7 @@ export default function KinugawaWinterPage() {
             <Eye className="w-4 h-4 text-amber-300" />
             <span>11月・12月限定 鬼怒川渓谷初冬美景＆日光ゆば・とちぎ和牛会席特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月鬼怒川温泉の初冬渓谷美と名湯】<br className="hidden sm:inline" />
-            雪化粧の奇岩とアルカリ性美肌泉・とちぎ和牛＆日光生ゆば会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">鬼怒川温泉の初冬渓谷美と名湯で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 雪化粧の奇岩とアルカリ性美肌泉・とちぎ和牛＆日光生ゆば会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             かつて日光詣での大名や高僧のみに入湯が許された関東の奥座敷・鬼怒川温泉。11月の晩秋の静寂から12月の雪景色へと移ろう渓谷美。アルカリ性美肌湯に癒やされ、日光伝統の生湯波と霜降り極上のとちぎ和牛に舌鼓を打つ大人の冬旅。
           </p>

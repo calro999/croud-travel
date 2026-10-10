@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            城崎温泉の秋の七湯めぐりと11月解禁「津居山かに（松葉がに）」！柳並木と但馬牛を味わう極上温泉旅
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">城崎温泉の秋の七湯めぐりと11月解禁「津居山かに（松葉がに）」！柳並木と但馬牛を味わう極上温泉旅</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             カランコロンと響く下駄の音と、11月解禁の極上津居山がにがもたらす至福の夜
           </p>

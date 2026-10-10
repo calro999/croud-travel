@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            那智の滝と熊野古道の秋紅葉！南紀勝浦温泉の海辺洞窟露天風呂・生まぐろ＆熊野牛を味わう聖地紀州旅
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">那智の滝と熊野古道の秋紅葉！南紀勝浦温泉の海辺洞窟露天風呂・生まぐろ＆熊野牛を味わう聖地紀州旅</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             神仏習合の聖地を彩る錦秋の滝と、太平洋の絶景露天・勝浦生まぐろの極上の口福
           </p>

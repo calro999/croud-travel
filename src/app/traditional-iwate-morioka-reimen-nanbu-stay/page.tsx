@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Heart, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【盛岡冷麺＆前沢牛・花巻温泉郷】南部鉄器の器美学と岩手最高峰の美食名湯宿5選",
+  title: "盛岡冷麺＆前沢牛・花巻温泉郷：南部鉄器の器美学と岩手最高峰の美食名湯宿5選",
   description: "重厚で美しい伝統工芸「南部鉄器」の鍋でいただく最高峰ブランド牛「前沢牛」すき焼きと、本場盛岡冷麺！宮沢賢治ゆかりの花巻温泉郷や繋温泉で、東北の豊かな文化と名湯露天風呂に癒やされる旅。",
   keywords: "花巻温泉 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/traditional-iwate-morioka-reimen-nanbu-stay/",
   },
   openGraph: {
-    title: "【盛岡冷麺＆前沢牛・花巻温泉郷】南部鉄器の器美学と岩手最高峰の美食名湯宿5選",
+    title: "盛岡冷麺＆前沢牛・花巻温泉郷：南部鉄器の器美学と岩手最高峰の美食名湯宿5選",
     description: "重厚で美しい伝統工芸「南部鉄器」の鍋でいただく最高峰ブランド牛「前沢牛」すき焼きと、本場盛岡冷麺！宮沢賢治ゆかりの花巻温泉郷や繋温泉で、東北の豊かな文化と名湯露天風呂に癒やされる旅。",
     url: 'https://croud-travel.pages.dev/traditional-iwate-morioka-reimen-nanbu-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【盛岡冷麺＆前沢牛・花巻温泉郷】南部鉄器の器美学と岩手最高峰の美食名湯宿5選",
+    title: "盛岡冷麺＆前沢牛・花巻温泉郷：南部鉄器の器美学と岩手最高峰の美食名湯宿5選",
     description: "重厚で美しい伝統工芸「南部鉄器」の鍋でいただく最高峰ブランド牛「前沢牛」すき焼きと、本場盛岡冷麺！宮沢賢治ゆかりの花巻温泉郷や繋温泉で、東北の豊かな文化と名湯露天風呂に癒やされる旅。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>南部鉄器＆前沢牛美食</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【盛岡冷麺＆前沢牛・花巻温泉郷】南部鉄器の器美学と岩手最高峰の美食名湯宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「盛岡冷麺＆前沢牛・花巻温泉郷」南部鉄器の器美学と岩手最高峰の美食名湯宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             重厚で美しい伝統工芸「南部鉄器」の鍋でいただく最高峰ブランド牛「前沢牛」すき焼きと、本場盛岡冷麺！宮沢賢治ゆかりの花巻温泉郷や繋温泉で、東北の豊かな文化と名湯露天風呂に癒やされる旅。
           </p>

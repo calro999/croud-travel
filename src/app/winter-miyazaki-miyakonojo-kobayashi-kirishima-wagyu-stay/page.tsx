@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月宮崎】霧島東神社」初詣！名宿5選',
+  title: '11・12・1月宮崎：霧島東神社」初詣！名宿5選',
   description: '冬の澄み渡る大空に白銀の冠雪をいただく霧島連山の大パノラマと、天孫降臨神話が息づく11〜1月の宮崎・都城＆高原・小林エリア特集。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '都城 宮崎牛 宿, 狭野神社 初詣, 霧島東神社 パワースポット, 極楽温泉 匠の宿, 都城市 温泉 ホテル, えびの高原 冬, 霧島連山 雪景色, 11月 12月 1月 宮崎 旅行, 黒霧島 蔵元',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-miyazaki-miyakonojo-kobayashi-kirishima-wagyu-stay/"
   },
   openGraph: {
-    title: '【11・12・1月宮崎】霧島東神社」初詣！名宿5選',
+    title: '11・12・1月宮崎：霧島東神社」初詣！名宿5選',
     description: '冬の澄み渡る大空に白銀の冠雪をいただく霧島連山の大パノラマと、天孫降臨神話が息づく11〜1月の宮崎・都城＆高原・小林エリア特集。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-miyazaki-miyakonojo-kobayashi-kirishima-wagyu-stay',
     type: 'article',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月宮崎】都城＆小林・えびの！白銀の霧島連山ジオパークと神話の「狭野神社・霧島東神社」初詣・日本一の肉のまち「都城産宮崎牛」＆美肌温泉宿5選",
+    title: "11・12・1月宮崎：都城＆小林・えびの！白銀の霧島連山ジオパークと神話の「狭野神社・霧島東神社」初詣・日本一の肉のまち「都城産宮崎牛」＆美肌温泉宿5選",
     description: "冬の澄み渡る大空に白銀の冠雪をいただく霧島連山の大パノラマと、天孫降臨神話が息づく11〜1月の宮崎・都城＆高原・小林エリア特集。神武天皇生誕の地・狭野神社や天逆鉾を遥拝する霧島東神社での厳かな初詣。日本一の肉のまち・都城が誇る最高峰ブランド「都城産宮崎牛」の贅沢鉄板焼きやすき焼き、本場本格芋焼酎の芳醇な味わい。そして高濃度炭酸泉やえびの高原の美肌温泉に癒やされる厳選名宿5選を徹底解説します。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -284,11 +284,7 @@ export default function MiyazakiMiyakonojoWinterPage() {
               <Sparkles className="w-4 h-4 text-amber-300" />
               <span>11月・12月・1月冬の南九州旅情特集</span>
             </div>
-            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 text-white drop-shadow-md">
-              宮崎・都城＆小林・えびの<br className="hidden sm:inline" />
-              白銀の霧島連山と神話の「狭野神社・霧島東神社」初詣<br className="hidden sm:inline" />
-              日本一の肉のまち「都城産宮崎牛」＆美肌温泉宿5選
-            </h1>
+            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 text-white drop-shadow-md">宮崎・都城＆小林・えびの<br className="hidden sm:inline" /> 白銀の霧島連山と神話の「狭野神社・霧島東神社」初詣<br className="hidden sm:inline" /> 日本一の肉のまち「都城産宮崎牛」＆美肌温泉宿5選</h1>
             <p className="max-w-3xl mx-auto text-sm md:text-lg text-emerald-100 leading-relaxed drop-shadow">
               冬の澄み渡る大空に映える白銀の霧島連山と、天孫降臨神話の古刹での新春初詣。全国和牛能力共進会で日本一を誇る極上「都城産宮崎牛」の芳醇な味わいと、黄金色の高濃度炭酸泉に浸かり心身を温める贅沢な冬の宮崎旅をお届けします。
             </p>

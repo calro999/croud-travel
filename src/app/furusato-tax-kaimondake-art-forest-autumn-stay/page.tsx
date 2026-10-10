@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            薩摩富士・開聞岳の黄金ススキと指宿温泉砂むし！霧島アートの森紅葉と鹿児島黒豚・黒牛を味わう秋旅
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">薩摩富士・開聞岳の黄金ススキと指宿温泉砂むし！霧島アートの森紅葉と鹿児島黒豚・黒牛を味わう秋旅</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             薩摩富士の裾野を彩る黄金のススキと、指宿の熱砂に包まれる極上のデトックス
           </p>

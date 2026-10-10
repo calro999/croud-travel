@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kofu-solo-business-takeda-wine-onsen-stay/" },
-  title: '【甲府出張・信玄公の城下町】天然温泉甲斐路の湯・甲府城天守台・甲州ワイン＆名物ほうとう！武田の杜でととのう厳選3宿',
+  title: '甲府出張・信玄公の城下町：天然温泉甲斐路の湯・甲府城天守台・甲州ワイン＆名物ほうとう！武田の杜でととのう厳選3宿',
   description: '新宿からJR特急あずさ・かいじで直通約85分！最上階天然温泉とサウナ・夜鳴きそばが揃う「ドーミーイン甲府」、富士山と甲府盆地を望む高台のシティリゾート「甲府記念日ホテル」、甲府城跡に隣接し城下町の歴史を感じる「城のホテル甲府」を楽天APIデータに基づき徹底比較。',
   keywords: '甲府 出張 ホテル,甲府 温泉 一人旅,ドーミーイン甲府,甲府記念日ホテル,城のホテル甲府,甲州ワイン ほうとう 鳥もつ煮',
   openGraph: {
-    title: '【甲府出張・信玄公の城下町】天然温泉甲斐路の湯・甲府城天守台・甲州ワイン＆名物ほうとう！武田の杜でととのう厳選3宿',
+    title: '甲府出張・信玄公の城下町：天然温泉甲斐路の湯・甲府城天守台・甲州ワイン＆名物ほうとう！武田の杜でととのう厳選3宿',
     description: '新宿からJR特急あずさ・かいじで直通約85分！最上階天然温泉とサウナ・夜鳴きそばが揃う「ドーミーイン甲府」、富士山と甲府盆地を望む高台のシティリゾート「甲府記念日ホテル」、甲府城跡に隣接し城下町の歴史を感じる「城のホテル甲府」を楽天APIデータに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/kofu-solo-business-takeda-wine-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【甲府出張・信玄公の城下町】天然温泉甲斐路の湯・甲府城天守台・甲州ワイン＆名物ほうとう！武田の杜でととのう厳選3宿',
+    headline: '甲府出張・信玄公の城下町：天然温泉甲斐路の湯・甲府城天守台・甲州ワイン＆名物ほうとう！武田の杜でととのう厳選3宿',
     description: '新宿からJR特急あずさ・かいじで直通約85分！最上階天然温泉とサウナ・夜鳴きそばが揃う「ドーミーイン甲府」、富士山と甲府盆地を望む高台のシティリゾート「甲府記念日ホテル」、甲府城跡に隣接し城下町の歴史を感じる「城のホテル甲府」を楽天APIデータに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -73,9 +73,7 @@ export default function ArticlePage() {
         <div className="inline-block bg-amber-700 text-white text-xs font-semibold px-3 py-1 rounded-full mb-3 tracking-wider">
           ひとり旅・出張・サウナ＆名湯特集
         </div>
-        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">
-          【甲府出張・信玄公の城下町】天然温泉甲斐路の湯・甲府城天守台・甲州ワイン＆名物ほうとう！武田の杜でととのう厳選3宿
-        </h1>
+        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">「甲府出張・信玄公の城下町」天然温泉甲斐路の湯・甲府城天守台・甲州ワイン＆名物ほうとう！武田の杜でととのう厳選3宿</h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.12 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>

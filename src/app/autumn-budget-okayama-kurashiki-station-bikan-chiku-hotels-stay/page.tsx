@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【倉敷駅前】美観地区白壁の町並み＆名物ままかり！2,000円台〜泊まれる格安ホテル5選',
+  title: '倉敷駅前：美観地区白壁の町並み＆名物ままかり！2,000円台〜泊まれる格安ホテル5選',
   description: '白壁の蔵屋敷と掘割の柳並木が美しい倉敷美観地区！名物ままかり寿司や瀬戸内鮮魚。JR山陽本線・倉敷駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>倉敷美観地区の白壁秋散歩＆瀬戸内の名物グルメ</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【倉敷駅前】美観地区の秋散歩＆瀬戸内海鮮！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「倉敷駅前」美観地区の秋散歩＆瀬戸内海鮮！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-amber-100/90 max-w-2xl mx-auto leading-relaxed">
             白壁の土蔵と瓦屋根が連なる重要伝統的建造物群保存地区「倉敷美観地区」。秋風そよぐ掘割沿いの柳並木や大原美術館の散策、隣の家からご飯（まま）を借りてくるほど美味しいとされる名物「ままかり」に舌鼓！倉敷駅周辺で2,000円台〜泊まれる優良ホテルを厳選。
           </p>

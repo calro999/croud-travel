@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tokyo-mie-ise-shima-bus-vs-train-guide/" },
-  title: "【東京〜伊勢神宮・鳥羽】新幹線＋近鉄特急 vs 直行夜行バス徹底比較！片道4,000円〜行くお伊勢参り＆おかげ横丁1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+  title: "東京〜伊勢神宮・鳥羽：新幹線＋近鉄特急 vs 直行夜行バス徹底比較！片道4,000円〜行くお伊勢参り＆おかげ横丁1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "東京から伊勢神宮・鳥羽へ行くなら近鉄特急と直行夜行バスどっちがお得？料金・所要時間比較！早朝の外宮・内宮早朝参拝とおかげ横丁食べ歩き、鳥羽・伊勢志摩の温泉リゾートを満喫する1泊2日モデルコース。",
   keywords: ["東京〜伊勢神宮", "鳥羽", "新幹線＋近鉄特急", "vs", "おかげ横丁1泊2日モデルコース", "温泉宿", "宿泊予約"],
 };
@@ -149,9 +149,7 @@ export default function HighwayBusArticlePage() {
               交通手段の徹底比較＆最適ルート
             </span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【東京〜伊勢神宮・鳥羽】新幹線＋近鉄特急 vs 直行夜行バス徹底比較！片道4,000円〜行くお伊勢参り＆おかげ横丁1泊2日モデルコース
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">「東京〜伊勢神宮・鳥羽」新幹線＋近鉄特急 vs 直行夜行バス徹底比較！片道4,000円〜行くお伊勢参り＆おかげ横丁1泊2日モデルコース</h1>
           <p className="text-xs md:text-sm text-cyan-100/90 leading-relaxed font-medium">
             新幹線＋近鉄特急（名古屋乗り換え）だと東京〜伊勢市は約14,500円（往復約29,000円）。一方、バスタ新宿・大宮・横浜からの直行夜行バスなら乗り換えゼロ・片道約4,000円〜8,500円！早朝の外宮・内宮を人混みゼロで参拝できる究極のお伊勢参り。
           </p>

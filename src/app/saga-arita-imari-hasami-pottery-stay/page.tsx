@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/saga-arita-imari-hasami-pottery-stay/" },
-  title: "【佐賀＆長崎・有田＆伊万里・波佐見】日本磁器発祥の地・トンバイ塀の窯元＆伊万里牛宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "佐賀＆長崎・有田＆伊万里・波佐見：日本磁器発祥の地・トンバイ塀の窯元＆伊万里牛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "400年の伝統を誇る肥前やきものロード完全特化！日本磁器のふるさと「有田焼（トンバイ塀・泉山磁石場）」、秘窯の里「伊万里・大川内山」、モダンで大人気の「波佐見焼（陶器市・西の原）」、武雄温泉、名物「伊万里牛・器の美食宿」を徹底解説。",
   keywords: ["佐賀", "長崎", "有田", "伊万里", "波佐見", "日本磁器発祥の地", "トンバイ塀の窯元"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             ARITA & IMARI POTTERY GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【佐賀＆長崎・有田＆伊万里・波佐見】日本磁器発祥の地・トンバイ塀の窯元＆伊万里牛宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「佐賀＆長崎・有田＆伊万里・波佐見」日本磁器発祥の地・トンバイ塀の窯元＆伊万里牛宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             白い磁肌に華やかな赤絵が映える「有田焼」、鍋島藩窯の気品漂う「伊万里焼」、日常を彩るモダンな「波佐見焼」。登り窯のレンガを再利用したトンバイ塀の小径。陶磁器の器で味わう最高級伊万里牛ステーキと、開湯1300年の名湯武雄温泉へ。
           </p>

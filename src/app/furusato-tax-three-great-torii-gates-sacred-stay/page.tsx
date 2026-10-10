@@ -42,9 +42,7 @@ export default function Page() {
             <span className="inline-block w-2 h-2 rounded-full bg-rose-400 animate-pulse" />
             日本三大鳥居・神域パワースポット特集
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">
-            日本三大鳥居＆聖地パワースポット宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三大鳥居＆聖地パワースポット宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg md:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed font-normal">
             神域と現世を結ぶ壮大な朱塗りの門！広島「厳島神社大鳥居」海に浮かぶ世界遺産と宮島グランドホテル有もと、奈良「大神神社大鳥居」三輪山を仰ぐ日本最古の神社とホテル奈良さくらいの郷、京都「平安神宮大鳥居」岡崎の文化ゾーンとホテルオークラ京都岡崎別邸。日本三大鳥居（大鳥居）の神聖なエネルギーを楽天ふるさと納税宿泊クーポンでお得に授かる完全ガイド。
           </p>

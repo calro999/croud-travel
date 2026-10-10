@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '子どもが主役の夢の国！レゴランド・ジャパン公式ホテル＆名古屋ファミリー名宿×ふるさと納税完全攻略ガイド【2026年最新】レゴランドホテル・マリオット・ベッセル',
+  title: '子どもが主役の夢の国！レゴランド・ジャパン公式ホテル＆名古屋ファミリー名宿×ふるさと納税極上旅ガイドレゴランドホテル・マリオット・ベッセル',
   description: 'レゴブロックの世界に泊まる感動体験！パークエントランス目の前の公式「レゴランド・ジャパン・ホテル」、JR名古屋駅直結の高級パートナー「名古屋マリオットアソシアホテル」、18歳以下添い寝無料で大人気の「ベッセルホテルカンパーナ名古屋」を、愛知県名古屋市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。',
   keywords: ["ジャパン公式ホテル", "2026年最新", "レゴランドホテル", "マリオット", "ベッセル", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-legoland-japan-official-hotel-stay/",
   },
   openGraph: {
-    title: '子どもが主役の夢の国！レゴランド・ジャパン公式ホテル＆名古屋ファミリー名宿×ふるさと納税完全攻略ガイド【2026年最新】レゴランドホテル・マリオット・ベッセル',
+    title: '子どもが主役の夢の国！レゴランド・ジャパン公式ホテル＆名古屋ファミリー名宿×ふるさと納税極上旅ガイドレゴランドホテル・マリオット・ベッセル',
     description: 'レゴブロックの世界に泊まる感動体験！パークエントランス目の前の公式「レゴランド・ジャパン・ホテル」、JR名古屋駅直結の高級パートナー「名古屋マリオットアソシアホテル」、18歳以下添い寝無料で大人気の「ベッセルホテルカンパーナ名古屋」を、愛知県名古屋市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-legoland-japan-official-hotel-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoLegolandOfficialHotelStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           家族旅行大人気！レゴランド・ジャパン公式宿特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          子どもが主役の夢の国！レゴランド・ジャパン公式ホテル＆名古屋ファミリー名宿×ふるさと納税完全攻略ガイド【2026年最新】レゴランドホテル・マリオット・ベッセル
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">子どもが主役の夢の国！レゴランド・ジャパン公式ホテル＆名古屋ファミリー名宿×ふるさと納税極上旅ガイドレゴランドホテル・マリオット・ベッセル</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoLegolandOfficialHotelStayPage() {
               外観から内観に至るまでレゴブロックの世界が広がり、楽しさと喜びに満ちた思い出を築くことができます。
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “男児大歓喜男児大歓喜の楽しさでした!また行きたい!レゴランドホテルで泊まりたい!と毎日のように言っています。夏休みだったのでお高かったですが、その価値はあります。また来たいです。クチコミの… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D167248%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoLegolandOfficialHotelStayPage() {
               かつてない上質のくつろぎと、世界のおもてなしを、あなたに・・・。
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “名古屋駅直結で幼児連れの移動が楽でした名古屋駅直結で、幼児連れの旅行には、移動が少なく助かりました。他の宿泊者は、インバウンドのアジアの方が多い印象でした。
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D12543%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoLegolandOfficialHotelStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               名古屋駅から徒歩９分で名古屋ステイに便利。サウナ付大浴場完備で旅に安らぎを。
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “レゴランド前泊に最適レゴランドの前泊で利用しました。朝ごはんをゆっくり食べても、開園まで十分間に合いました。お盆期間中でしたが、早い時間の朝食にしたためかそこまで混み合わず、朝からマグロ丼が食べら… ”
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/saitama-chichibu-nagatoro-line-kudari-stay/" },
-  title: "【埼玉・秩父＆長瀞】長瀞ライン下り・三峯神社＆芝桜宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "埼玉・秩父＆長瀞：長瀞ライン下り・三峯神社＆芝桜宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "国の名勝・天然記念物「長瀞の岩畳」と荒川ライン下り、関東屈指の天空パワースポット「三峯神社」の雲海、羊山公園のピンクの絨毯「芝桜の丘」、秩父名物わらじカツ丼や豚みそ丼を徹底解説。美肌温泉旅館や清流リゾートを厳選。",
   keywords: ["埼玉", "秩父", "長瀞", "長瀞ライン下り", "三峯神社", "芝桜宿", "温泉宿"],
 };
@@ -92,9 +92,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             CHICHIBU & NAGATORO GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【埼玉・秩父＆長瀞】長瀞ライン下り岩畳・三峯神社雲海＆羊山公園芝桜宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「埼玉・秩父＆長瀞」長瀞ライン下り岩畳・三峯神社雲海＆羊山公園芝桜宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-teal-100/90 leading-relaxed">
             都心から特急でわずか約80分、豊かな山々と清流に抱かれた埼玉のリゾート「秩父・長瀞」。荒川の渓谷美を船頭の巧みな竿さばきで下る「長瀞ライン下り」と国の天然記念物「岩畳」。標高1100mの神域に鎮座する関東屈指のパワースポット「三峯神社」の神秘的な雲海。滋味あふれる名物グルメと良質な天然温泉で心洗われる週末トリップへご案内します。
           </p>

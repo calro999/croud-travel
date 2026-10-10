@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kanazawa-rainy-day-indoor-guide/" },
-  title: "【金沢 雨の日の観光モデルコース】「弁当忘れても傘忘れるな」の街！21世紀美術館・ひがし茶屋街カフェ・金箔貼り体験",
+  title: "金沢 雨の日の観光モデルコース：「弁当忘れても傘忘れるな」の街！21世紀美術館・ひがし茶屋街カフェ・金箔貼り体験",
   description:
     "雨の日が多い金沢だからこそインドア施設が超充実！金沢21世紀美術館のスイミングプール、近江町市場の屋根付きアーケード海鮮丼、ひがし茶屋街のお座敷カフェ、雨情に浸る駅前温泉宿ガイド。",
   keywords: ["金沢", "雨の日の観光モデルコース", "ひがし茶屋街カフェ", "金箔貼り体験", "温泉宿", "宿泊予約", "楽天トラベル"],
@@ -154,12 +154,7 @@ export default function KanazawaRainyDayIndoorGuidePage() {
             <span>🌧️ 弁当忘れても傘忘れるな！加賀百万石のインドア観光術</span>
           </div>
 
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">
-            【金沢 雨の日の観光モデルコース】<br />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-teal-300 via-emerald-200 to-cyan-300">
-              21世紀美術館・近江町市場・金箔体験＆雨情に浸る温泉宿
-            </span>
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">「金沢 雨の日の観光モデルコース」<br /> <span className="text-transparent bg-clip-text bg-gradient-to-r from-teal-300 via-emerald-200 to-cyan-300"> 21世紀美術館・近江町市場・金箔体験＆雨情に浸る温泉宿 </span></h1>
 
           <p className="text-slate-300 text-base sm:text-lg leading-relaxed max-w-3xl mb-8">
             年間降雨日数が多い金沢には、古くから「弁当忘れても傘忘れるな」という言葉があります。

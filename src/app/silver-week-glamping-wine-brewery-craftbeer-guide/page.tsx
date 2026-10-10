@@ -7,7 +7,7 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-wine-brewery-craftbeer-guide/" },
-  title: "【ワイナリー・クラフトビール付きグランピング】勝沼・長野で楽しむ！美酒とペアリングBBQの秋旅 ｜ 日本全国・旅宿クラウド",
+  title: "ワイナリー・クラフトビール付きグランピング：勝沼・長野で楽しむ！美酒とペアリングBBQの秋旅 ｜ 日本全国・旅宿クラウド",
   description:
     "お酒好きのための美食グランピング！山梨勝沼のワイナリー巡り隣接宿、クラフトビールサーバー飲み放題付きドームテント、ソムリエ厳選ワインとジビエ・甲州牛のマリアージュを堪能する大人の休日。",
   keywords: ["ワイナリー", "クラフトビール付きグランピング", "勝沼", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
@@ -176,9 +176,7 @@ export default function SilverWeekGlampingWineBreweryCraftbeerPage() {
             </span>
           </div>
 
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【ワイナリー・クラフトビール付きグランピング】勝沼・長野で楽しむ！美酒とペアリングBBQの秋旅
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「ワイナリー・クラフトビール付きグランピング」勝沼・長野で楽しむ！美酒とペアリングBBQの秋旅</h1>
 
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed font-medium">
             ブドウがたわわに実る秋の勝沼、清冽な仕込み水がクラフトビールを育む信州や新潟の高原。夜風が涼やかさを増すシルバーウィークは、専用生ビールサーバーから注ぐ芳醇なクラフトビールと、地元ワイナリー直送のワインを片手に過ごす「美酒グランピング」のベストシーズンです。極上肉の炭火グリルと合わせるペアリングの贅沢を体感してください。

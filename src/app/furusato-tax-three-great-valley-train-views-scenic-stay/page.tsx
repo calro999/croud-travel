@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '日本三大渓谷鉄道＆嵯峨野トロッコ・大井川SL・只見線の絶景鉄道旅と名湯宿×ふるさと納税完全ガイド【2026年最新】京都・静岡・福島',
+  title: '日本三大渓谷鉄道＆嵯峨野トロッコ・大井川SL・只見線の絶景鉄道旅と名湯宿×ふるさと納税厳選ガイド京都・静岡・福島',
   description: '車窓いっぱいに広がるエメラルドグリーンの渓谷美と汽笛の響き「日本三大渓谷鉄道」（京都・嵯峨野観光鉄道トロッコ列車、静岡・大井川鐵道SL＆アプト式列車、福島新潟・JR只見線）。鉄橋から望む絶景パノラマと、秘境の名湯温泉旅館。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ贅沢な鉄道ロマン宿泊ガイド。',
   keywords: ["日本三大渓谷鉄道", "嵯峨野トロッコ", "大井川SL", "2026年最新", "京都", "静岡", "福島"],
   alternates: { canonical: baseUrl + '/furusato-tax-three-great-valley-train-views-scenic-stay/' },
   openGraph: {
-    title: '日本三大渓谷鉄道＆嵯峨野トロッコ・大井川SL・只見線の絶景鉄道旅と名湯宿×ふるさと納税完全ガイド【2026年最新】京都・静岡・福島',
+    title: '日本三大渓谷鉄道＆嵯峨野トロッコ・大井川SL・只見線の絶景鉄道旅と名湯宿×ふるさと納税厳選ガイド京都・静岡・福島',
     description: '車窓いっぱいに広がるエメラルドグリーンの渓谷美と汽笛の響き「日本三大渓谷鉄道」（京都・嵯峨野観光鉄道トロッコ列車、静岡・大井川鐵道SL＆アプト式列車、福島新潟・JR只見線）。鉄橋から望む絶景パノラマと、秘境の名湯温泉旅館。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ贅沢な鉄道ロマン宿泊ガイド。',
     url: baseUrl + '/furusato-tax-three-great-valley-train-views-scenic-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoRound64ArticlePage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             日本三大渓谷鉄道・絶景ローカル線ステイ特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            日本三大渓谷鉄道＆嵯峨野トロッコ・大井川SL・只見線の絶景鉄道旅と名湯宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">日本三大渓谷鉄道＆嵯峨野トロッコ・大井川SL・只見線の絶景鉄道旅と名湯宿</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             ガタゴトと心地よい揺れに身を委ね、窓の外に目をやれば、切り立つ断崖絶壁と透き通るエメラルドグリーンの渓流がどこまでも続く「日本三大渓谷鉄道」。保津川の渓谷美を吹き抜ける風とともにオープン客車で走り抜ける京都・嵯峨野トロッコ列車、白煙を上げて大井川沿いを力強く疾走する現役SLと南アルプスあぷとラインが寸又峡へと誘う静岡・大井川鐵道、そして幾重にもかかる鉄橋と只見川の水鏡が織りなす世界屈指の絶景ローカル線・福島新潟のJR只見線。慌ただしい自動車の旅では決して出会えない、線路の上だからこそ眺められる秘境の絶景と、レトロな駅舎、素朴な温もりに満ちた車窓風景。沿線には川のせせらぎを聴きながら湯浴みを楽しめる名湯旅館が点在し、地元の山菜や川魚、銘酒が疲れた旅人を温かく迎えてくれます。楽天ふるさと納税の宿泊割引クーポンを活用して、一生忘れられない鉄道ロマン溢れる大人の温泉旅へ出かけましょう。
           </p>

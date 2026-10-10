@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月乳頭温泉郷】名物きりたんぽ鍋！名宿5選',
+  title: '乳頭温泉郷で過ごす冬の旅（11・12月）！名物きりたんぽ鍋！名宿5選',
   description: '11月から12月にかけて、十和田八幡平国立公園の乳頭山麓に抱かれた秋田県仙北市の「乳頭温泉郷（にゅうとうおんせんきょう）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '乳頭温泉郷 宿泊, 乳頭温泉 宿, 休暇村 乳頭温泉郷, 田沢湖レイクリゾート, 大釜温泉, セルリアンリゾートAONI, 駒ヶ岳温泉, きりたんぽ鍋, 比内地鶏, 鶴の湯 送迎, 11月 12月 乳頭温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-akita-nyuto-onsen-yukimi-kiritanpo-hinaijidori-stay/"
   },
   openGraph: {
-    title: '【11・12月乳頭温泉郷】名物きりたんぽ鍋！名宿5選',
+    title: '乳頭温泉郷で過ごす冬の旅（11・12月）！名物きりたんぽ鍋！名宿5選',
     description: '11月から12月にかけて、十和田八幡平国立公園の乳頭山麓に抱かれた秋田県仙北市の「乳頭温泉郷（にゅうとうおんせんきょう）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-akita-nyuto-onsen-yukimi-kiritanpo-hinaijidori-stay',
     siteName: 'クラドトラベル',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月秋田・乳頭温泉郷の初冬雪見秘湯】名物きりたんぽ鍋＆比内地鶏・ブナ原生林に湧く七湯の濁り湯を巡る名宿5選",
+    title: "秋田・乳頭温泉郷の初冬雪見秘湯で過ごす冬の旅（11・12月）！名物きりたんぽ鍋＆比内地鶏・ブナ原生林に湧く七湯の濁り湯を巡る名宿5選",
     description: "11月から12月にかけて、十和田八幡平国立公園の乳頭山麓に抱かれた秋田県仙北市の「乳頭温泉郷（にゅうとうおんせんきょう）」は、日本中の温泉ファンが息を呑む白銀の秘湯シーズンへと突入します。初雪がブナの原生林を静かに覆い、立ち上る白い湯けむりと乳白色・茶褐色の濁り湯が幻想的なコントラストを描きます。厳しい寒さの中で浸かる雪見露天風呂の開放感はまさに至福。夕食には収穫したての新米あきたこまちを手作業で香ばしく焼き上げた名物「きりたんぽ鍋」や、濃厚なコクと歯ごたえが自慢の「比内地鶏」、郷土の味「山の芋鍋」、初冬に旬を迎えるハタハタ。雪の静寂に包まれる秋田の奥座敷で、心も身体も芯から温まる極上の厳選名宿5選を徹底解説します。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -248,12 +248,7 @@ export default function WinterAkitaNyutoOnsenPage() {
             11月・12月 初冬の秘湯雪見露天＆名物きりたんぽ鍋特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月秋田・乳頭温泉郷】初冬雪見秘湯と濁り湯めぐり
-            <span className="block text-cyan-300 text-lg sm:text-2xl mt-3 font-normal">
-              名物きりたんぽ鍋＆比内地鶏・ブナ原生林に湧く七湯の濁り湯を巡る名宿5選
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">秋田・乳頭温泉郷で過ごす冬の旅（11・12月）！初冬雪見秘湯と濁り湯めぐり <span className="block text-cyan-300 text-lg sm:text-2xl mt-3 font-normal"> 名物きりたんぽ鍋＆比内地鶏・ブナ原生林に湧く七湯の濁り湯を巡る名宿5選 </span></h1>
 
           <p className="text-sm sm:text-base text-stone-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、十和田八幡平国立公園の乳頭山麓に抱かれた秋田県仙北市の「乳頭温泉郷（にゅうとうおんせんきょう）」は、日本中の温泉ファンが息を呑む白銀の秘湯シーズンへと突入します。初雪がブナの原生林を静かに覆い、立ち上る白い湯けむりと乳白色・茶褐色の濁り湯が幻想的なコントラストを描きます。厳しい寒さの中で浸かる雪見露天風呂の開放感はまさに至福。夕食には収穫したての新米あきたこまちを手作業で香ばしく焼き上げた名物「きりたんぽ鍋」や、濃厚なコクと歯ごたえが自慢の「比内地鶏」、郷土の味「山の芋鍋」、初冬に旬を迎えるハタハタ。雪の静寂に包まれる秋田の奥座敷で、心も身体も芯から温まる極上の厳選名宿5選を徹底解説します。

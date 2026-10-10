@@ -3,11 +3,11 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '【秋の阿智村・昼神温泉】日本一の星空ナイトツアーと美肌温泉！南信州の秋を満喫するおすすめ名宿5選【2026最新】',
+  title: '秋の阿智村・昼神温泉：日本一の星空ナイトツアーと美肌温泉！南信州の秋を満喫するおすすめ名宿5選「2026最新」',
   description: '環境省認定「日本一の星空」の村・阿智村ヘブンスそのはらの秋の星空ナイトツアー！澄み切った秋の夜空に輝く満天の天の川と、pH9.7を誇る昼神温泉のとろとろ美肌の湯。はなや、ひるがみの森、清風苑など人気宿5選を徹底解説！',
   keywords: '阿智村 星空 ナイトツアー, 昼神温泉 宿, ヘブンスそのはら 秋, 昼神温泉 美肌の湯, 昼神温泉 はなや, ひるがみの森',
   openGraph: {
-    title: '【秋の阿智村・昼神温泉】日本一の星空ナイトツアーと美肌温泉！南信州の秋を満喫するおすすめ名宿5選【2026最新】',
+    title: '秋の阿智村・昼神温泉：日本一の星空ナイトツアーと美肌温泉！南信州の秋を満喫するおすすめ名宿5選「2026最新」',
     description: '環境省認定「日本一の星空」の村・阿智村ヘブンスそのはらの秋の星空ナイトツアーと、昼神温泉のとろとろ美肌の湯。人気宿5選。',
     type: 'article',
     url: 'https://croud-travel.com/autumn-nagano-achimura-hirugami-starry-sky-hotels-stay',
@@ -32,9 +32,7 @@ export default function AchimuraHirugamiAutumnPage() {
             <span className="px-3 py-1 bg-amber-600 text-white text-xs font-bold rounded-full">秋の信州・絶景特集</span>
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">星空・紅葉: 10月中旬〜11月下旬</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">
-            【秋の阿智村・昼神温泉】日本一の星空ナイトツアーと美肌温泉！南信州の秋を満喫するおすすめ名宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の阿智村・昼神温泉」日本一の星空ナイトツアーと美肌温泉！南信州の秋を満喫するおすすめ名宿5選</h1>
           <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
             大気が澄みわたり星の瞬きがひときわ輝く秋の阿智村。ロープウェイで標高1,400mの高原へ向かう「天空の楽園 ナイトツアー」と、全国屈指の強アルカリ性を誇る昼神温泉で心身をとろけさせる極上のリトリート旅をご紹介します。
           </p>

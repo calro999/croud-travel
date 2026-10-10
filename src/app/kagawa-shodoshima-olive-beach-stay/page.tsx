@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kagawa-shodoshima-olive-beach-stay/" },
-  title: "【香川・小豆島】エンジェルロード・寒霞渓＆オリーブ牛・海辺リゾート 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "香川・小豆島：エンジェルロード・寒霞渓＆オリーブ牛・海辺リゾート 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "瀬戸内海に浮かぶオリーブの島・小豆島エリア完全特化！潮が引くと現れる恋人の聖地「エンジェルロード」、日本三大渓谷美「寒霞渓」ロープウェイ、オリーブ公園の魔法のほうき、オリーブ牛と絶景海辺温泉宿を徹底解説。",
   keywords: ["香川", "小豆島", "エンジェルロード", "寒霞渓", "オリーブ牛", "海辺リゾート", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             SHODOSHIMA ISLAND GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【香川・小豆島】エンジェルロード・寒霞渓＆オリーブ牛・海辺リゾート 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「香川・小豆島」エンジェルロード・寒霞渓＆オリーブ牛・海辺リゾート 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             温暖な瀬戸内海に浮かぶ「小豆島」。1日2回干潮時だけに現れる神秘の砂の道「エンジェルロード」。岩肌と紅葉が織りなす「寒霞渓」の絶景。オリーブの風を感じる温泉リゾートと、極上のオリーブ牛に舌鼓を打つ島旅。
           </p>

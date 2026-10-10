@@ -5,11 +5,11 @@ import { ChevronRight, Star, MapPin, Sparkles, Snowflake, Mountain, Award, HelpC
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【HAKUBA VALLEY極上パウダースノーと白馬八方温泉】2026-2027年冬の白馬山麓！高アルカリ美肌湯と信州牛名宿5選',
+  title: 'HAKUBA VALLEY極上パウダースノーと白馬八方温泉：2026-2027年冬の白馬山麓！高アルカリ美肌湯と信州牛名宿5選',
   description: '世界水準の極上ドライパウダースノーHAKUBA VALLEYと日本屈指の強アルカリ美肌の湯「白馬八方温泉」！白馬三山の白銀絶景パノラマ、信州プレミアム牛や信州サーモンを堪能するリゾートホテル＆名旅館5選。',
   keywords: ['長野県温泉', '白馬八方尾根スキー場', '白馬・八方尾根・栂池高原', '冬の旅行', '温泉宿5選', '楽天トラベル', 'ふるさと納税'],
   openGraph: {
-    title: '【HAKUBA VALLEY極上パウダースノーと白馬八方温泉】2026-2027年冬の白馬山麓！高アルカリ美肌湯と信州牛名宿5選',
+    title: 'HAKUBA VALLEY極上パウダースノーと白馬八方温泉：2026-2027年冬の白馬山麓！高アルカリ美肌湯と信州牛名宿5選',
     description: '世界水準の極上ドライパウダースノーHAKUBA VALLEYと日本屈指の強アルカリ美肌の湯「白馬八方温泉」！白馬三山の白銀絶景パノラマ、信州プレミアム牛や信州サーモンを堪能するリゾートホテル＆名旅館5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/winter-nagano-hakuba-valley-powder-snow-happo-onsen-stay',
@@ -107,9 +107,7 @@ export default function WinterFeaturePage() {
               <Snowflake className="w-3.5 h-3.5" />
               <span>冬の厳選旅行特集（11月・12月・1月）</span>
             </div>
-            <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug">
-              【HAKUBA VALLEY極上パウダースノーと白馬八方温泉】2026-2027年冬の白馬山麓！高アルカリ美肌湯と信州牛名宿5選
-            </h1>
+            <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold tracking-tight leading-snug">「HAKUBA VALLEY極上パウダースノーと白馬八方温泉」2026-2027年冬の白馬山麓！高アルカリ美肌湯と信州牛名宿5選</h1>
             <p className="text-sm md:text-base text-cyan-100/90 max-w-2xl mx-auto leading-relaxed">
               世界水準の極上ドライパウダースノーHAKUBA VALLEYと日本屈指の強アルカリ美肌の湯「白馬八方温泉」！白馬三山の白銀絶景パノラマ、信州プレミアム牛や信州サーモンを堪能するリゾートホテル＆名旅館5選。
             </p>

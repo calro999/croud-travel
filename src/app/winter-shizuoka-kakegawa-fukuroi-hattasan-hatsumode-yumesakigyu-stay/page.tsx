@@ -6,14 +6,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月静岡】厄除け大本山「法多山尊永寺」！名宿5選',
+  title: '11・12・1月静岡：厄除け大本山「法多山尊永寺」！名宿5選',
   description: '遠州三山を代表する厄除けの名刹「法多山尊永寺（はったさん）」が約100万人を超える初詣客で賑わう11〜1月の冬旅特集。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '法多山 初詣, 法多山 厄除団子, 可睡齋 ひなまつり, 掛川城 冬, 遠州夢咲牛, ドーミーイン掛川, くれたけイン袋井, 遠州三山 冬, 静岡 初詣 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shizuoka-kakegawa-fukuroi-hattasan-hatsumode-yumesakigyu-stay/"
   },
   openGraph: {
-    title: '【11・12・1月静岡】厄除け大本山「法多山尊永寺」！名宿5選',
+    title: '11・12・1月静岡：厄除け大本山「法多山尊永寺」！名宿5選',
     description: '遠州三山を代表する厄除けの名刹「法多山尊永寺（はったさん）」が約100万人を超える初詣客で賑わう11〜1月の冬旅特集。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-kakegawa-fukuroi-hattasan-hatsumode-yumesakigyu-stay',
     type: 'article',
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月静岡】厄除け大本山「法多山尊永寺」新春初詣と掛川城木造天守！「可睡齋」日本最大級ひなまつり＆遠州夢咲牛名宿5選",
+    title: "11・12・1月静岡：厄除け大本山「法多山尊永寺」新春初詣と掛川城木造天守！「可睡齋」日本最大級ひなまつり＆遠州夢咲牛名宿5選",
     description: "遠州三山を代表する厄除けの名刹「法多山尊永寺（はったさん）」が約100万人を超える初詣客で賑わう11〜1月の冬旅特集。神聖な杉木立の参道と名物「厄除団子」、曹洞宗の名刹「可睡齋」の冬室内ぼたんと日本最大級32段1,200体の雛人形、日本初の本格木造復元天守「掛川城」の凛とした佇まい、全国和牛共進会で最高賞を受賞した幻の黒毛和牛「遠州夢咲牛」と掛川深蒸し茶。掛川・袋井の滞在拠点に最適な厳選ホテル・名宿5選を徹底解説します。",
     images: ['https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -281,10 +281,7 @@ export default function ShizuokaKakegawaWinterPage() {
             <Sunrise className="w-4 h-4 text-emerald-300" />
             <span>遠州・静岡 冬の特別紀行（11月・12月・1月）</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 font-journal-serif">
-            厄除け大本山「法多山尊永寺」新春初詣と掛川城木造天守<br className="hidden md:inline" />
-            可睡齋ひなまつり＆幻の黒毛和牛「遠州夢咲牛」名宿
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight tracking-tight mb-6 font-journal-serif">厄除け大本山「法多山尊永寺」新春初詣と掛川城木造天守<br className="hidden md:inline" /> 可睡齋ひなまつり＆幻の黒毛和牛「遠州夢咲牛」名宿</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mb-6">
             温暖な気候と豊かな自然に恵まれた東海道の要衝・掛川と袋井。遠州三山筆頭「法多山尊永寺」に100万人を超える参拝者が集う11月〜1月の新春シーズン、名物厄除団子の湯気と凛とした杉並木が旅人を迎えます。日本初の木造復元天守・掛川城の気品ある佇まい、可睡齋の日本最大級ひなまつり、そして日本一に輝いた黒毛和牛「遠州夢咲牛」と掛川深蒸し茶の滋味。心晴れやかな新春の遠州旅をご案内します。
           </p>

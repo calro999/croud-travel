@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【福井駅前】越前おろしそば＆ソースカツ丼・福井城跡！3,000円台〜泊まれる格安ホテル5選',
+  title: '福井駅前：越前おろしそば＆ソースカツ丼・福井城跡！3,000円台〜泊まれる格安ホテル5選',
   description: 'ピリッと辛み大根が効いた越前おろしそばと元祖ソースカツ丼！北陸新幹線延伸で注目の福井駅・福井城址周辺で1泊3,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetFukuiStationHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>越前秋新そば＆名物ソースカツ丼グルメ</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【福井駅前】越前おろしそば＆ソースカツ丼！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「福井駅前」越前おろしそば＆ソースカツ丼！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-emerald-100/90 max-w-2xl mx-auto leading-relaxed">
             北陸新幹線が開業し東京から乗り換えなしで直結した福井！秋に収穫される香気豊かな「越前秋新そば」に辛み大根と削り節をかけた名物おろしそば、ヨーロッパ軒のウスターソースが染みる薄切りカツ丼。徳川家康が縄張りを手掛けた福井城跡周辺で3,000円台〜泊まれる優良宿を厳選。
           </p>

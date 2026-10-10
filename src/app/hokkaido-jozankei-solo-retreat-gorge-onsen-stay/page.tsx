@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hokkaido-jozankei-solo-retreat-gorge-onsen-stay/" },
-  title: '【札幌の奥座敷・定山渓温泉ひとり旅・豊平川渓谷おこもり】全室客室温泉露天・囲炉裏会席・源泉掛け流し湯守！札幌直通バス60分の極上リトリート厳選3宿',
+  title: '札幌の奥座敷・定山渓温泉ひとり旅・豊平川渓谷おこもり：全室客室温泉露天・囲炉裏会席・源泉掛け流し湯守！札幌直通バス60分の極上リトリート厳選3宿',
   description: '原生林と豊平川の深い渓谷美に包まれる札幌の奥座敷・定山渓温泉！全室展望風呂付きで広大な敷地に静寂が広がる最高峰リゾート「奥定山渓温泉 佳松御苑」、民芸調の温もりと囲炉裏焼き・手作り温泉情緒が口コミ★4.6超の「ぬくもりの宿 ふる川」、名門の伝統と多彩な大浴場を誇る「定山渓第一寶亭留 翠山亭」を楽天API最新データに基づき徹底比較。',
   keywords: '定山渓温泉 一人旅 宿,定山渓 ホテル 一人 温泉,佳松御苑 定山渓,ぬくもりの宿ふる川,定山渓第一寶亭留翠山亭,定山渓 ひとり旅 おこもり',
   openGraph: {
-    title: '【札幌の奥座敷・定山渓温泉ひとり旅・豊平川渓谷おこもり】全室客室温泉露天・囲炉裏会席・源泉掛け流し湯守！札幌直通バス60分の極上リトリート厳選3宿',
+    title: '札幌の奥座敷・定山渓温泉ひとり旅・豊平川渓谷おこもり：全室客室温泉露天・囲炉裏会席・源泉掛け流し湯守！札幌直通バス60分の極上リトリート厳選3宿',
     description: '原生林と豊平川の深い渓谷美に包まれる札幌の奥座敷・定山渓温泉！全室展望風呂付きで広大な敷地に静寂が広がる最高峰リゾート「奥定山渓温泉 佳松御苑」、民芸調の温もりと囲炉裏焼き・手作り温泉情緒が口コミ★4.6超の「ぬくもりの宿 ふる川」、名門の伝統と多彩な大浴場を誇る「定山渓第一寶亭留 翠山亭」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/hokkaido-jozankei-solo-retreat-gorge-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【札幌の奥座敷・定山渓温泉ひとり旅・豊平川渓谷おこもり】全室客室温泉露天・囲炉裏会席・源泉掛け流し湯守！札幌直通バス60分の極上リトリート厳選3宿',
+    headline: '札幌の奥座敷・定山渓温泉ひとり旅・豊平川渓谷おこもり：全室客室温泉露天・囲炉裏会席・源泉掛け流し湯守！札幌直通バス60分の極上リトリート厳選3宿',
     description: '原生林と豊平川の深い渓谷美に包まれる札幌の奥座敷・定山渓温泉！全室展望風呂付きで広大な敷地に静寂が広がる最高峰リゾート「奥定山渓温泉 佳松御苑」、民芸調の温もりと囲炉裏焼き・手作り温泉情緒が口コミ★4.6超の「ぬくもりの宿 ふる川」、名門の伝統と多彩な大浴場を誇る「定山渓第一寶亭留 翠山亭」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,9 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             北海道・定山渓温泉ひとり旅＆豊平川渓谷おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">
-            【札幌の奥座敷・定山渓温泉ひとり旅・豊平川渓谷おこもり】全室客室温泉露天・囲炉裏会席・源泉掛け流し湯守！札幌直通バス60分の極上リトリート厳選3宿
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「札幌の奥座敷・定山渓温泉ひとり旅・豊平川渓谷おこもり」全室客室温泉露天・囲炉裏会席・源泉掛け流し湯守！札幌直通バス60分の極上リトリート厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">
             更新日： | 監修：クラウドトラベル ひとり旅・出張調査班（楽天トラベルAPI最新提携）
           </p>

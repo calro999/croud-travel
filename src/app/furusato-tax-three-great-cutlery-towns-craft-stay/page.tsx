@@ -42,9 +42,7 @@ export default function Page() {
             <span className="inline-block w-2 h-2 rounded-full bg-rose-400 animate-pulse" />
             日本三大刃物・伝統工芸特集
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">
-            日本三大刃物の里＆職人クラフト宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三大刃物の里＆職人クラフト宿×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg md:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed font-normal">
             「折れず、曲がらず、よく切れる」日本のものづくり魂！岐阜「関市」世界三大刃物産地とホテルルートイン関、福井「越前打刃物」七百年の火造り鍛造タケフナイフビレッジとホテルクラウンヒルズ武生駅前、大阪「堺刃物」プロ料理人が選ぶ最高峰包丁とホテルアゴーラリージェンシー大阪堺。日本三大刃物の産地を楽天ふるさと納税宿泊クーポンでお得に巡る完全ガイド。
           </p>

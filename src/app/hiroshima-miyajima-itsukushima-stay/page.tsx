@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hiroshima-miyajima-itsukushima-stay/" },
-  title: "【広島・宮島＆嚴島神社】海に浮かぶ大鳥居・弥山＆牡蠣・穴子飯宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "広島・宮島＆嚴島神社：海に浮かぶ大鳥居・弥山＆牡蠣・穴子飯宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "日本三景・安芸の宮島エリア完全特化！世界遺産「嚴島神社」大鳥居の潮干狩り・満潮の絶景、宮島ロープウエー弥山登山、揚げもみじ・焼き牡蠣食べ歩きと老舗温泉旅館を徹底解説。",
   keywords: ["広島", "宮島", "嚴島神社", "海に浮かぶ大鳥居", "弥山", "牡蠣", "穴子飯宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             MIYAJIMA ITSUKUSHIMA MICRO GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【広島・宮島＆嚴島神社】海に浮かぶ大鳥居・弥山＆牡蠣・穴子飯宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「広島・宮島＆嚴島神社」海に浮かぶ大鳥居・弥山＆牡蠣・穴子飯宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             潮の満ち引きで海に浮かぶ世界遺産「嚴島神社」。宮島に宿泊した人だけが出逢える、観光客が去った後の静寂な夜のライトアップと神聖な早朝参拝。名物あなごめしと宮島温泉に癒やされる特別な島時間。
           </p>

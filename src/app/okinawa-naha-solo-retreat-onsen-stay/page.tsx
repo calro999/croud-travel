@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/okinawa-naha-solo-retreat-onsen-stay/" },
-  title: '【那覇・国際通りひとり旅】大浴場＆プール・ゆいレール直結・やちむん通り！南国の潮風と琉球文化に浸る大人の厳選3宿',
+  title: '那覇・国際通りひとり旅：大浴場＆プール・ゆいレール直結・やちむん通り！南国の潮風と琉球文化に浸る大人の厳選3宿',
   description: '那覇空港からゆいレールで約12〜16分！牧志駅直結で雨に濡れずチェックインできる安心の「ダイワロイネットホテル那覇国際通り」、県庁前駅徒歩圏で大浴場＆本格サウナを完備する「ワイズキャビン＆ホテル那覇国際通り」、異国情緒漂うプール＆屋外バーを備えた「ホテルパームロイヤルリゾート国際通り」を徹底比較。',
   keywords: '那覇 一人旅 ホテル,国際通り ホテル 大浴場,ダイワロイネット那覇国際通り,ワイズキャビン那覇国際通り,パームロイヤルNAHA,那覇 ワーケーション 一人',
   openGraph: {
-    title: '【那覇・国際通りひとり旅】大浴場＆プール・ゆいレール直結・やちむん通り！南国の潮風と琉球文化に浸る大人の厳選3宿',
+    title: '那覇・国際通りひとり旅：大浴場＆プール・ゆいレール直結・やちむん通り！南国の潮風と琉球文化に浸る大人の厳選3宿',
     description: '那覇空港からゆいレールで約12〜16分！牧志駅直結で雨に濡れずチェックインできる安心の「ダイワロイネットホテル那覇国際通り」、県庁前駅徒歩圏で大浴場＆本格サウナを完備する「ワイズキャビン＆ホテル那覇国際通り」、異国情緒漂うプール＆屋外バーを備えた「ホテルパームロイヤルリゾート国際通り」を徹底比較。',
     url: 'https://croud-travel.pages.dev/okinawa-naha-solo-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【那覇・国際通りひとり旅】大浴場＆プール・ゆいレール直結・やちむん通り！南国の潮風と琉球文化に浸る大人の厳選3宿',
+    headline: '那覇・国際通りひとり旅：大浴場＆プール・ゆいレール直結・やちむん通り！南国の潮風と琉球文化に浸る大人の厳選3宿',
     description: '那覇空港からゆいレールで約12〜16分！牧志駅直結で雨に濡れずチェックインできる安心の「ダイワロイネットホテル那覇国際通り」、県庁前駅徒歩圏で大浴場＆本格サウナを完備する「ワイズキャビン＆ホテル那覇国際通り」、異国情緒漂うプール＆屋外バーを備えた「ホテルパームロイヤルリゾート国際通り」を徹底比較。',
     author: {
       '@type': 'Organization',
@@ -72,9 +72,7 @@ export default function ArticlePage() {
         <div className="inline-block bg-amber-700 text-white text-xs font-semibold px-3 py-1 rounded-full mb-3 tracking-wider">
           ひとり旅・出張・サウナ＆名湯特集
         </div>
-        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">
-          【那覇・国際通りひとり旅】大浴場＆プール・ゆいレール直結・やちむん通り！南国の潮風と琉球文化に浸る大人の厳選3宿
-        </h1>
+        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">「那覇・国際通りひとり旅」大浴場＆プール・ゆいレール直結・やちむん通り！南国の潮風と琉球文化に浸る大人の厳選3宿</h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.13 更新</time>
           <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>

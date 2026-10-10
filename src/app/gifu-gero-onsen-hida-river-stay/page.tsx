@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/gifu-gero-onsen-hida-river-stay/" },
-  title: "【岐阜・下呂温泉＆馬瀬川】日本三名泉美肌の湯・飛騨牛宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "岐阜・下呂温泉＆馬瀬川：日本三名泉美肌の湯・飛騨牛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "有馬・草津と並ぶ日本三名泉「下呂温泉」の絹のような美肌湯、飛騨川沿いの温泉街そぞろ歩き、最高級A5等級飛騨牛の極上懐石、清流馬瀬川の天然鮎と合掌造りを徹底解説。老舗名旅館や展望露天風呂宿を厳選。",
   keywords: ["岐阜", "下呂温泉", "馬瀬川", "日本三名泉美肌の湯", "飛騨牛宿", "温泉宿", "宿泊予約"],
 };
@@ -92,9 +92,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             GERO ONSEN & HIDA RIVER GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【岐阜・下呂温泉＆飛騨川・馬瀬川】日本三名泉美肌の湯・飛騨牛懐石＆合掌の里宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「岐阜・下呂温泉＆飛騨川・馬瀬川」日本三名泉美肌の湯・飛騨牛懐石＆合掌の里宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-teal-100/90 leading-relaxed">
             室町時代の儒学者・万里集九や江戸幕府の儒官・林羅山によって「日本三名泉」と称えられた天下の名湯「下呂温泉」。pH9を超えるアルカリ性単純温泉は、浸かった瞬間に肌がツルツルになる天然の石鹸のような美肌効果を誇ります。飛騨川のせせらぎ、湯けむり立ち上る足湯巡り、そして舌の上でとろける飛騨牛の贅を味わう至高の岐阜ステイへご案内します。
           </p>

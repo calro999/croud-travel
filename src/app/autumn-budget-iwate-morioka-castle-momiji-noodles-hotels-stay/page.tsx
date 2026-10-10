@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【盛岡】盛岡城跡公園の紅葉絵巻と三大麺巡り！格安・高コスパホテル5選',
+  title: '盛岡：盛岡城跡公園の紅葉絵巻と三大麺巡り！格安・高コスパホテル5選',
   description: '世界が注目する街・盛岡！盛岡城跡公園の石垣を彩るモミジのライトアップと、わんこそば・盛岡冷麺・じゃじゃ麺の三大麺巡り。盛岡駅前で1泊2,000円台〜4,000円台の高評価宿5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetMoriokaHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>盛岡城跡の紅葉石垣＆三大麺食べ比べ</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【盛岡】盛岡城跡の石垣紅葉＆名物三大麺！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「盛岡」盛岡城跡の石垣紅葉＆名物三大麺！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-rose-100/90 max-w-2xl mx-auto leading-relaxed">
             ニューヨーク・タイムズ「行くべき場所」に選ばれ世界中から脚光を浴びる盛岡。花崗岩の美しい石垣に鮮やかな紅葉が映える盛岡城跡公園（岩手公園）や中津川の鮭の遡上など、秋の盛岡は旅情たっぷり。盛岡駅前で1泊2,000円台〜4,000円台の高評価ホテルを厳選！
           </p>

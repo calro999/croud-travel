@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { MapPin, Calendar, ExternalLink, HelpCircle, ChevronRight, ShieldCheck, Sparkles } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【冬の静寂はての浜と日本一の車海老三昧】2026-2027年冬の久米島！海洋深層水スパと絶景リゾートホテル5選 | クラウドトラベル',
+  title: '冬の静寂はての浜と日本一の車海老三昧：2026-2027年冬の久米島！海洋深層水スパと絶景リゾートホテル5選 | クラウドトラベル',
   description: 'エメラルドグリーンの大海原に浮かぶ白砂の天国「はての浜」の冬クルーズ！冬に旬の最盛期を迎える「久米島産極上活車海老」の踊り食いや塩焼き、海洋深層水温浴スパで心身を解きほぐす至高の南国冬リゾート5選。',
   keywords: ['沖縄県冬旅行', '久米島・はての浜', '冬温泉', '2026', '2027', '雪景色', '冬の味覚', '楽天トラベル', 'ふるさと納税'],
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-okinawa-kumejima-hatenohama-kurumaebi-ocean-resort-stay',
   },
   openGraph: {
-    title: '【冬の静寂はての浜と日本一の車海老三昧】2026-2027年冬の久米島！海洋深層水スパと絶景リゾートホテル5選',
+    title: '冬の静寂はての浜と日本一の車海老三昧：2026-2027年冬の久米島！海洋深層水スパと絶景リゾートホテル5選',
     description: 'エメラルドグリーンの大海原に浮かぶ白砂の天国「はての浜」の冬クルーズ！冬に旬の最盛期を迎える「久米島産極上活車海老」の踊り食いや塩焼き、海洋深層水温浴スパで心身を解きほぐす至高の南国冬リゾート5選。',
     url: 'https://croud-travel.pages.dev/winter-okinawa-kumejima-hatenohama-kurumaebi-ocean-resort-stay',
     siteName: 'クラウドトラベル',
@@ -62,9 +62,7 @@ export default function WinterFeaturePage() {
               <Sparkles className="w-3.5 h-3.5" />
               <span>2026-2027年 冬季限定・厳選名宿特集</span>
             </div>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold tracking-tight leading-tight text-balance">
-              【冬の静寂はての浜と日本一の車海老三昧】2026-2027年冬の久米島！海洋深層水スパと絶景リゾートホテル5選
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold tracking-tight leading-tight text-balance">「冬の静寂はての浜と日本一の車海老三昧」2026-2027年冬の久米島！海洋深層水スパと絶景リゾートホテル5選</h1>
             <p className="max-w-2xl mx-auto text-xs sm:text-sm text-stone-300 leading-relaxed text-pretty">
               沖縄本島から西へ約100km、飛行機でわずか30分で辿り着ける離島・久米島（くめじま）。夏の賑わいが落ち着いた11月から1月、この島は冬の平均気温が18〜21度と春のように過ごしやすく、大人が静かにリフレッシュするための隠れ家リゾートへと姿を変えます。冬の久米島を訪れる最大の特権は、一年で最も海の透明度が高まる季節に「はての浜」を訪れられること。エメラルドグリーンに輝く広大な海原に、純白の砂州だけが360度広がる光景はまさに息を呑む奇跡の美しさです。さらに久米島は、全国一の養殖生産量を誇る「車海老の島」。11月から1月はまさに活車海老の旬のピークであり、ピチピチと跳ねる踊り食いや香ばしい塩焼きは悶絶ものの旨さ。水深612mから汲み上げる清らかな海洋深層水スパで癒やされる、極上の南国冬旅をご案内します。
             </p>

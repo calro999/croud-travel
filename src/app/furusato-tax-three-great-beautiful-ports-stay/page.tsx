@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-beautiful-ports-stay/" },
-  title: '日本三大美港＆世界遺産富士山と夜景パノラマ・ウォーターフロント宿×ふるさと納税完全ガイド【2026年最新】清水港・長崎港・神戸港',
+  title: '日本三大美港＆世界遺産富士山と夜景パノラマ・ウォーターフロント宿×ふるさと納税厳選ガイド清水港・長崎港・神戸港',
   description: '海と都市が織りなす絶景美港！静岡「清水港」霊峰富士と駿河湾を望む風景美術館日本平ホテル、長崎「長崎港」世界新三大夜景のすり鉢状パノラマとホテルニュー長崎、兵庫「神戸港」開港150年のハイカラ文化と全室バルコニー神戸メリケンパークオリエンタルホテル。日本三大美港の汽笛とライトアップに包まれる上質ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大美港・ベイサイド夜景特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大美港＆世界遺産富士山と夜景パノラマ・ウォーターフロント宿×ふるさと納税完全ガイド【2026年最新】清水港・長崎港・神戸港',
+    title: '日本三大美港＆世界遺産富士山と夜景パノラマ・ウォーターフロント宿×ふるさと納税厳選ガイド清水港・長崎港・神戸港',
     description: '海と都市が織りなす絶景美港！静岡「清水港」霊峰富士と駿河湾を望む風景美術館日本平ホテル、長崎「長崎港」世界新三大夜景のすり鉢状パノラマとホテルニュー長崎、兵庫「神戸港」開港150年のハイカラ文化と全室バルコニー神戸メリケンパークオリエンタルホテル。日本三大美港の汽笛とライトアップに包まれる上質ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-beautiful-ports-stay',
@@ -155,9 +155,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大美港・ベイサイド夜景特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大美港＆夜景オーシャンビュー宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大美港＆夜景オーシャンビュー宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             天然の良港として古くから海外交易の表玄関を担い、自然美と都市景観が見事に融合した「日本三大美港」――駿河湾越しに仰ぎ見る世界文化遺産・富士山と三保松原の絶景を擁し日本一の深さを誇る静岡の「清水港」、すり鉢状の丘陵地に広がる家々の灯りが海面に映り込み「1000万ドルの夜景」と称される長崎の「長崎港」、そして六甲山を背にポートタワーや海洋博物館が美しくライトアップされる国際貿易港・兵庫の「神戸港」。昼は大型客船の優美な船影を眺め、夜は海風を感じながらテラスでワインを傾ける時間は、至高の贅沢です。港を一望するハイグレードホテルを拠点に、清水マグロ・長崎卓袱料理・神戸牛ディナーを堪能する特別な休日を楽天ふるさと納税でお楽しみください。
           </p>

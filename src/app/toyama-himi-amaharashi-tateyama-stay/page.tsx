@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/toyama-himi-amaharashi-tateyama-stay/" },
-  title: "【富山・氷見＆雨晴海岸・立山連峰】海越しに望む3000m立山連峰・氷見寒ブリ宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "富山・氷見＆雨晴海岸・立山連峰：海越しに望む3000m立山連峰・氷見寒ブリ宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "世界屈指の絶景・海越しにそびえる立山連峰と海の幸王国・富山氷見エリア完全特化！義経伝説の雨晴海岸（女岩）、氷見漁港直送「氷見寒ブリ・白えび」、ひみ番屋街、氷見温泉郷のオーシャンビュー美肌宿を徹底解説。",
   keywords: ["富山", "氷見", "雨晴海岸", "立山連峰", "海越しに望む3000m立山連峰", "氷見寒ブリ宿", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             HIMI & AMAHARASHI GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【富山・氷見＆雨晴海岸・立山連峰】海越しに望む3000m立山連峰・氷見寒ブリ宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「富山・氷見＆雨晴海岸・立山連峰」海越しに望む3000m立山連峰・氷見寒ブリ宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-emerald-100/90 leading-relaxed">
             富山湾の青い海の向こうに、標高3,000m級の北アルプス立山連峰が白銀に輝く奇跡のパノラマ「雨晴海岸」。冬の日本海の王者「氷見寒ブリ」の極上刺身とブリしゃぶ。潮風を感じる氷見温泉郷のナトリウム塩化物泉。富山湾のキトキトな美味に酔いしれる旅。
           </p>

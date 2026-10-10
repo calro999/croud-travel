@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-train-window-views-stay/" },
-  title: '日本三大車窓＆絶景スイッチバック・高原パノラマ温泉宿×ふるさと納税完全ガイド【2026年最新】姨捨・矢岳越え・狩勝峠',
+  title: '日本三大車窓＆絶景スイッチバック・高原パノラマ温泉宿×ふるさと納税厳選ガイド姨捨・矢岳越え・狩勝峠',
   description: '車窓を流れる息をのむ大パノラマ！長野千曲「姨捨駅」善光寺平を見下ろすスイッチバックの絶景と戸倉上山田温泉リバーサイド上田館、宮崎熊本鹿児島「肥薩線矢岳越え」霧島連峰と桜島を望む天空路線と霧島温泉ホテル霧島キャッスル、北海道十勝「旧狩勝峠」大雪山系と十勝平野を望む雄大な大地とサホロリゾートホテル。日本三大車窓の鉄旅ロマンを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大車窓・天空鉄旅特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大車窓＆絶景スイッチバック・高原パノラマ温泉宿×ふるさと納税完全ガイド【2026年最新】姨捨・矢岳越え・狩勝峠',
+    title: '日本三大車窓＆絶景スイッチバック・高原パノラマ温泉宿×ふるさと納税厳選ガイド姨捨・矢岳越え・狩勝峠',
     description: '車窓を流れる息をのむ大パノラマ！長野千曲「姨捨駅」善光寺平を見下ろすスイッチバックの絶景と戸倉上山田温泉リバーサイド上田館、宮崎熊本鹿児島「肥薩線矢岳越え」霧島連峰と桜島を望む天空路線と霧島温泉ホテル霧島キャッスル、北海道十勝「旧狩勝峠」大雪山系と十勝平野を望む雄大な大地とサホロリゾートホテル。日本三大車窓の鉄旅ロマンを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-train-window-views-stay',
@@ -158,9 +158,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大車窓・天空鉄旅特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大車窓＆天空パノラマ・絶景温泉宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大車窓＆天空パノラマ・絶景温泉宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             鉄道の黄金時代から旅情あふれる名景として語り継がれてきた「日本三大車窓」――JR篠ノ井線の姨捨駅から見下ろす千曲川と棚田・善光寺平の夜景パノラマが美しい長野の「姨捨の車窓」、熊本から宮崎・鹿児島へと抜けるJR肥薩線の山岳区間で霧島連峰と遠く桜島を仰ぐ九州の「矢岳越え」、そして旧国鉄根室本線で大雪山系の山並みとどこまでも続く十勝平野の原生林を見晴らした北海道の「狩勝峠」。山を越えるために工夫されたスイッチバックやループ線、トンネルを抜けた瞬間に視界が開ける圧倒的な感動は、鉄道旅ならではの醍醐味です。名車窓の余韻に浸りながら名湯温泉に身を委ね、信州十割蕎麦・薩摩黒豚・十勝牛とチーズを堪能する特別な旅を楽天ふるさと納税でお楽しみください。
           </p>

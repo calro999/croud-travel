@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月盛岡】冬の盛岡八幡宮新春開運初詣！名宿5選',
+  title: '11・12・1月盛岡：冬の盛岡八幡宮新春開運初詣！名宿5選',
   description: '冬の盛岡は、冠雪した霊峰・岩手山（南部片富士）が澄み渡る青空に凛とそびえ立ち。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '盛岡 ホテル, 繋温泉 旅館, つなぎ温泉 宿泊, 盛岡八幡宮 初詣, 岩手山 絶景, 盛岡三大麺, ホテル紫苑, 愛真館, ドーミーイン盛岡, 11月 12月 1月 盛岡 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-iwate-morioka-tsunagi-onsen-hatsumode-wagyu-stay/"
   },
   openGraph: {
-    title: '【11・12・1月盛岡】冬の盛岡八幡宮新春開運初詣！名宿5選',
+    title: '11・12・1月盛岡：冬の盛岡八幡宮新春開運初詣！名宿5選',
     description: '冬の盛岡は、冠雪した霊峰・岩手山（南部片富士）が澄み渡る青空に凛とそびえ立ち。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-iwate-morioka-tsunagi-onsen-hatsumode-wagyu-stay',
     type: 'article',
@@ -231,10 +231,7 @@ export default function IwateMoriokaPage() {
             <Snowflake className="w-4 h-4 text-cyan-300 animate-spin" />
             11月・12月・1月冬の特選旅｜岩手・盛岡＆繋温泉
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">
-            冬の盛岡八幡宮新春開運初詣＆岩手山白銀パノラマ！<br className="hidden sm:inline" />
-            繋温泉の美肌いで湯と盛岡三大麺・雫石牛に寛ぐ名宿5選
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">冬の盛岡八幡宮新春開運初詣＆岩手山白銀パノラマ！<br className="hidden sm:inline" /> 繋温泉の美肌いで湯と盛岡三大麺・雫石牛に寛ぐ名宿5選</h1>
           <p className="text-base sm:text-lg text-slate-200/90 leading-relaxed max-w-4xl mb-8">
             東北新幹線で東京から約2時間10分。冬の盛岡は、澄み切った北国の青空の下、純白の雪を戴く雄大な霊峰・岩手山（南部片富士）が凛然と輝く美しい季節です。盛岡八幡宮での新春初詣や厳寒の伝統行事「裸参り」、白鳥が遊ぶ中津川沿いの赤レンガレトロ建築散策、そして湯量豊かな繋温泉の雪見露天風呂。盛岡三大麺（熱々じゃじゃ麺・わんこそば・盛岡冷麺）や雫石牛を味わい尽くす冬籠もりの旅へご案内します。
           </p>

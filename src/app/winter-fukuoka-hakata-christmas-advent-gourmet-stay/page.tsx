@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【11・12月福岡クリスマスアドベント】博多駅・天神の光の街と本場もつ鍋・水炊き極上宿5選",
+  title: "福岡クリスマスアドベントで過ごす冬の旅（11・12月）！博多駅・天神の光の街と本場もつ鍋・水炊き極上宿5選",
   description: "11月中旬から博多駅・天神・中洲が煌めく日本最大級の祭典「福岡クリスマスアドベント」！限定マグカップで楽しむホットワインと冬の博多名物（もつ鍋・水炊き）、冷えた体を芯から温める天然温泉・大浴場付きの厳選ホテルステイ。",
   keywords: '福岡 クリスマスアドベント, 博多 クリスマスマーケット, 天神 イルミネーション, 博多 もつ鍋 ホテル, 福岡 温泉 ホテル, 博多駅 大浴場, 冬旅行 11月 12月',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukuoka-hakata-christmas-advent-gourmet-stay/",
   },
   openGraph: {
-    title: "【11・12月福岡クリスマスアドベント】博多駅・天神の光の街と本場もつ鍋・水炊き極上宿5選",
+    title: "福岡クリスマスアドベントで過ごす冬の旅（11・12月）！博多駅・天神の光の街と本場もつ鍋・水炊き極上宿5選",
     description: "11月中旬から博多駅・天神・中洲が煌めく日本最大級の祭典「福岡クリスマスアドベント」！限定マグカップで楽しむホットワインと冬の博多名物（もつ鍋・水炊き）、冷えた体を芯から温める天然温泉・大浴場付きの厳選ホテルステイ。",
     url: 'https://croud-travel.pages.dev/winter-fukuoka-hakata-christmas-advent-gourmet-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月福岡クリスマスアドベント】博多駅・天神の光の街と本場もつ鍋・水炊き極上宿5選",
+    title: "福岡クリスマスアドベントで過ごす冬の旅（11・12月）！博多駅・天神の光の街と本場もつ鍋・水炊き極上宿5選",
     description: "11月中旬から博多駅・天神・中洲が煌めく日本最大級の祭典「福岡クリスマスアドベント」！限定マグカップで楽しむホットワインと冬の博多名物（もつ鍋・水炊き）、冷えた体を芯から温める天然温泉・大浴場付きの厳選ホテルステイ。",
   }
 };
@@ -266,10 +266,7 @@ export default function FukuokaChristmasPage() {
             <Sparkles className="w-4 h-4 text-amber-300" />
             <span>11月・12月限定 冬の特選ガイド</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月福岡クリスマスアドベント】<br className="hidden sm:inline" />
-            博多駅・天神の光の街と本場もつ鍋・水炊き極上宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">福岡クリスマスアドベントで過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 博多駅・天神の光の街と本場もつ鍋・水炊き極上宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             街全体が温かな光とホットワインの香りに包まれる冬の福岡。イルミネーションを満喫した後は、本場のもつ鍋や水炊きに舌鼓を打ち、極上の天然温泉付きホテルで芯から温まる贅沢な旅へ。
           </p>

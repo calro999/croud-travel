@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-coastal-sceneries-stay/" },
-  title: '日本三大白砂青松＆海の絶景パノラマ・海岸リゾート温泉宿×ふるさと納税完全ガイド【2026年最新】天橋立・三保松原・気比の松原',
+  title: '日本三大白砂青松＆海の絶景パノラマ・海岸リゾート温泉宿×ふるさと納税厳選ガイド天橋立・三保松原・気比の松原',
   description: '白砂と幾千の青松が描く日本の原風景！京都宮津「天橋立」日本三景股のぞきパノラマと和のリゾート文珠荘、静岡「三保松原」世界遺産富士山と羽衣の松望む風景美術館日本平ホテル、福井敦賀「気比の松原」万葉の海浜とホテルルートイン敦賀駅前。日本三大白砂青松（三大松原名勝）のシーサイドオーシャンビューを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大白砂青松・海浜絶景特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大白砂青松＆海の絶景パノラマ・海岸リゾート温泉宿×ふるさと納税完全ガイド【2026年最新】天橋立・三保松原・気比の松原',
+    title: '日本三大白砂青松＆海の絶景パノラマ・海岸リゾート温泉宿×ふるさと納税厳選ガイド天橋立・三保松原・気比の松原',
     description: '白砂と幾千の青松が描く日本の原風景！京都宮津「天橋立」日本三景股のぞきパノラマと和のリゾート文珠荘、静岡「三保松原」世界遺産富士山と羽衣の松望む風景美術館日本平ホテル、福井敦賀「気比の松原」万葉の海浜とホテルルートイン敦賀駅前。日本三大白砂青松（三大松原名勝）のシーサイドオーシャンビューを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-coastal-sceneries-stay',
@@ -155,9 +155,7 @@ export default function Page() {
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
             日本三大白砂青松・海浜絶景特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大白砂青松＆海岸絶景パノラマ宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">日本三大白砂青松＆海岸絶景パノラマ宿×ふるさと納税ガイド</h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
             日本古来の歌枕として万葉集や百人一首に詠まれ、絵画や庭園の理想景とされてきた「日本三大白砂青松（三大松原）」――神が天と地を架けるために創ったという神話が残り約5000本の松が砂州を覆う日本三景・京都の「天橋立」、駿河湾越しに仰ぎ見る霊峰富士と波打ち際の松林が世界文化遺産の構成資産に登録された静岡の「三保松原」、そして聖徳太子の時代に一夜にして出現したという伝説が残り敦賀湾の穏やかな波とアカマツ・クロマツが広がる福井の「気比の松原」。寄せては返す波の音と潮の香り、そして緑の松のコントラストは、日本人の美意識の原点と言えます。松原や海を一望する海辺のリゾートホテルや老舗料理旅館に泊まり、日本海の松葉ガニや駿河湾の桜えび・駿河湾鮮魚を味わう特別な休日を楽天ふるさと納税でお楽しみください。
           </p>

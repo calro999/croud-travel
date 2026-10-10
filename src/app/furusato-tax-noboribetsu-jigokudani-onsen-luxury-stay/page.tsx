@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '湯量毎分3000L・9種の源泉デパート！登別温泉の地獄谷一望大浴場＆カニ食べ放題名門宿×ふるさと納税完全攻略ガイド【2026年最新】第一滝本館・まほろば・グランドホテル',
+  title: '湯量毎分3000L・9種の源泉デパート！登別温泉の地獄谷一望大浴場＆カニ食べ放題名門宿×ふるさと納税極上旅ガイド第一滝本館・まほろば・グランドホテル',
   description: '日本屈指の温泉天国・北海道登別温泉！立ちのぼる白煙が圧巻の地獄谷に隣接。「第一滝本館」「登別温泉 ホテル まほろば」「登別温泉 登別グランドホテル」を、北海道登別市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。1500坪の温泉天国、日本最大級露天風呂、カニ食べ放題ビュッフェ、鬼サウナを堪能。',
   keywords: ["湯量毎分3000L", "2026年最新", "第一滝本館", "まほろば", "グランドホテル", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-noboribetsu-jigokudani-onsen-luxury-stay/",
   },
   openGraph: {
-    title: '湯量毎分3000L・9種の源泉デパート！登別温泉の地獄谷一望大浴場＆カニ食べ放題名門宿×ふるさと納税完全攻略ガイド【2026年最新】第一滝本館・まほろば・グランドホテル',
+    title: '湯量毎分3000L・9種の源泉デパート！登別温泉の地獄谷一望大浴場＆カニ食べ放題名門宿×ふるさと納税極上旅ガイド第一滝本館・まほろば・グランドホテル',
     description: '日本屈指の温泉天国・北海道登別温泉！立ちのぼる白煙が圧巻の地獄谷に隣接。「第一滝本館」「登別温泉 ホテル まほろば」「登別温泉 登別グランドホテル」を、北海道登別市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。1500坪の温泉天国、日本最大級露天風呂、カニ食べ放題ビュッフェ、鬼サウナを堪能。',
     url: 'https://croud-travel.pages.dev/furusato-tax-noboribetsu-jigokudani-onsen-luxury-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoNoboribetsuJigokudaniStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           温泉のデパート！北海道登別温泉特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          湯量毎分3000L・9種の源泉デパート！登別温泉の地獄谷一望大浴場＆カニ食べ放題名門宿×ふるさと納税完全攻略ガイド【2026年最新】第一滝本館・まほろば・グランドホテル
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">湯量毎分3000L・9種の源泉デパート！登別温泉の地獄谷一望大浴場＆カニ食べ放題名門宿×ふるさと納税極上旅ガイド第一滝本館・まほろば・グランドホテル</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoNoboribetsuJigokudaniStayPage() {
               地獄谷と対峙するロケーション。湧き出る5つの泉質を35種の浴槽で。ようこそ、『第一滝本館』へ。
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “お風呂が広く、駐車や送迎のサービスも充実お風呂が予想通り広くて良かったです。熊牧場に行ったのですが、その間駐車もさせてくれお迎えもありサービスも良かったです。素泊まりしかプランがなくバイキングコー… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D30109%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoNoboribetsuJigokudaniStayPage() {
               日本最大級露天風呂と３１のお風呂で本物の温泉リゾートを満喫！
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “露天風呂とバイキング朝も美味しかったですが、夜のバイキングが絶品でした。海鮮、肉、すべての食事が美味しかったです。全部食べきれませんでした。お風呂は露天風呂の眺望が最高でした。年甲斐も… ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D12568%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoNoboribetsuJigokudaniStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               鬼サウナで、鬼ととのう。「サウナシュラン2023」5位受賞！【楽天トラベルアワード2年連続金賞受賞】
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “バイキング料理に大満足、イカの塩辛も欲しいバイキングの料理が美味しかったー!!大満足でしたー!!強いて言えば、あさもイカの塩辛置いて欲しいです!
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

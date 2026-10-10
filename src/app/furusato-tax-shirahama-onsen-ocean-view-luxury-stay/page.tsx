@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '青い海と真っ白な砂浜！南紀白浜温泉の絶景オーシャンビュー露天風呂＆幻のクエ・熊野牛名門旅館×ふるさと納税完全攻略ガイド【2026年最新】むさし・海舟・シーモア',
+  title: '青い海と真っ白な砂浜！南紀白浜温泉の絶景オーシャンビュー露天風呂＆幻のクエ・熊野牛名門旅館×ふるさと納税極上旅ガイドむさし・海舟・シーモア',
   description: '万葉の時代から愛される日本三古湯・南紀白浜温泉！真っ白な白良浜と太平洋の絶景パノラマ。「紀州・白浜温泉 むさし」「浜千鳥の湯 海舟」「SHIRAHAMA KEY TERRACE HOTEL SEAMORE。」を、和歌山県白浜町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。海混浴露天風呂、インフィニティ足湯、幻のクエ鍋・熊野牛を満喫。',
   keywords: ["幻のクエ", "2026年最新", "むさし", "海舟", "シーモア", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-shirahama-onsen-ocean-view-luxury-stay/",
   },
   openGraph: {
-    title: '青い海と真っ白な砂浜！南紀白浜温泉の絶景オーシャンビュー露天風呂＆幻のクエ・熊野牛名門旅館×ふるさと納税完全攻略ガイド【2026年最新】むさし・海舟・シーモア',
+    title: '青い海と真っ白な砂浜！南紀白浜温泉の絶景オーシャンビュー露天風呂＆幻のクエ・熊野牛名門旅館×ふるさと納税極上旅ガイドむさし・海舟・シーモア',
     description: '万葉の時代から愛される日本三古湯・南紀白浜温泉！真っ白な白良浜と太平洋の絶景パノラマ。「紀州・白浜温泉 むさし」「浜千鳥の湯 海舟」「SHIRAHAMA KEY TERRACE HOTEL SEAMORE。」を、和歌山県白浜町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。海混浴露天風呂、インフィニティ足湯、幻のクエ鍋・熊野牛を満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-shirahama-onsen-ocean-view-luxury-stay',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
@@ -58,9 +58,7 @@ export default function FurusatoShirahamaOnsenOceanStayPage() {
         <div className="inline-block bg-gradient-to-r from-amber-600 to-amber-800 text-white text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3 shadow-sm">
           南国の風と白砂青松の絶景！和歌山県南紀白浜温泉特集
         </div>
-        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">
-          青い海と真っ白な砂浜！南紀白浜温泉の絶景オーシャンビュー露天風呂＆幻のクエ・熊野牛名門旅館×ふるさと納税完全攻略ガイド【2026年最新】むさし・海舟・シーモア
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight mb-4">青い海と真っ白な砂浜！南紀白浜温泉の絶景オーシャンビュー露天風呂＆幻のクエ・熊野牛名門旅館×ふるさと納税極上旅ガイドむさし・海舟・シーモア</h1>
         <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-500">
           <time dateTime="">公開</time>
           <span>•</span>
@@ -162,11 +160,6 @@ export default function FurusatoShirahamaOnsenOceanStayPage() {
               【白良浜まで徒歩1分】2種類の源泉とライブキッチンバイキングが愉しめる本格和風旅館へ。
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “綺麗かつ広い部屋で不満ゼロでした。素晴らしかったです。 ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D19739%26f_flg%3DPLAN"
@@ -204,11 +197,6 @@ export default function FurusatoShirahamaOnsenOceanStayPage() {
               目の前に広がる海と共に過ごす贅沢なリゾートへ！海一望の露天風呂や貸切露天風呂など極上の温泉を堪能
             </div>
           </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “すべてのサービスが最高でした全サービス最高 ”
-            </blockquote>
-          </div>
           <div className="pt-2">
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D68224%26f_flg%3DPLAN"
@@ -245,11 +233,6 @@ export default function FurusatoShirahamaOnsenOceanStayPage() {
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
               【7月8日NEWOPEN】滞在型サイクルホテル☆ホテルシーモアの温泉入り放題♪
             </div>
-          </div>
-          <div className="user-review-wrapper">
-            <blockquote className="bg-gray-50 border-l-4 border-gray-400 p-4 rounded-r-xl mb-6 text-xs md:text-sm text-gray-700 italic">
-              <strong>宿泊者の声:</strong> “ロケーションは最高だが移動や騒音が気になる二度目の利用です。温泉のある本館へは徒歩で行くことができますが、やはり夏場は夜遅くでも暑く、朝風呂に行くには日傘必須でした。部屋はコンクリート壁で… ”
-            </blockquote>
           </div>
           <div className="pt-2">
             <a

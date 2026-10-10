@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-brand-jidori-mizutaki-gourmet-stay/" },
-  title: 'ブランド地鶏・水炊き・軍鶏料理の名湯宿×ふるさと納税完全ガイド【2026年最新】比内地鶏・土佐ジロー・黒さつま鶏の美食旅',
+  title: 'ブランド地鶏・水炊き・軍鶏料理の名湯宿×ふるさと納税厳選ガイド比内地鶏・土佐ジロー・黒さつま鶏の美食旅',
   description: '日本三大美味鶏の比内地鶏きりたんぽ鍋、高知の土佐ジロー軍鶏鍋、鹿児島黒さつま鶏の炭火焼き！噛むほどに旨味が溢れる銘柄地鶏と極上温泉旅館を楽天ふるさと納税宿泊クーポンでお得に予約する肉食・郷土美食ガイド。',
   keywords: ["ブランド地鶏", "水炊き", "軍鶏料理の名湯宿×ふるさと納税", "2026年最新", "比内地鶏", "土佐ジロー", "黒さつま鶏の美食旅"],
   openGraph: {
-    title: 'ブランド地鶏・水炊き・軍鶏料理の名湯宿×ふるさと納税完全ガイド【2026年最新】比内地鶏・土佐ジロー・黒さつま鶏の美食旅',
+    title: 'ブランド地鶏・水炊き・軍鶏料理の名湯宿×ふるさと納税厳選ガイド比内地鶏・土佐ジロー・黒さつま鶏の美食旅',
     description: '日本三大美味鶏の比内地鶏きりたんぽ鍋、高知の土佐ジロー軍鶏鍋、鹿児島黒さつま鶏の炭火焼き！噛むほどに旨味が溢れる銘柄地鶏と極上温泉旅館を楽天ふるさと納税宿泊クーポンでお得に予約する肉食・郷土美食ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-brand-jidori-mizutaki-gourmet-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FurusatoTaxPage() {
           <span className="inline-block px-4 py-1.5 rounded-full text-xs md:text-sm font-black bg-gradient-to-r from-amber-500 to-yellow-400 text-slate-950 mb-5 shadow-lg shadow-amber-500/20">
             ブランド地鶏・軍鶏水炊き特集
           </span>
-          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">
-            ブランド地鶏・水炊き・軍鶏料理の名湯宿×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl md:text-5xl font-black text-white leading-tight tracking-tight mb-6">ブランド地鶏・水炊き・軍鶏料理の名湯宿×ふるさと納税ガイド</h1>
           <p className="text-sm md:text-lg text-slate-300 leading-relaxed font-medium">
             日本三大美味鶏の比内地鶏きりたんぽ鍋、高知の土佐ジロー軍鶏鍋、鹿児島黒さつま鶏の炭火焼き！噛むほどに旨味が溢れる銘柄地鶏と極上温泉旅館を楽天ふるさと納税宿泊クーポンでお得に予約する肉食・郷土美食ガイド。
           </p>

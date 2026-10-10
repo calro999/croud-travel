@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12・1月香川】屋島寺新春初詣！名宿5選',
+  title: '11・12・1月香川：屋島寺新春初詣！名宿5選',
   description: '冬の香川・高松は、一歩一景の美を誇る国の特別名勝「栗林公園」が静寂と凛とした風情に包まれる特別な季節。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '高松 ホテル, 栗林公園 冬, オリーブハマチ, オリーブ牛 すき焼き, 屋島寺 初詣, JRホテルクレメント高松, HOTEL花樹海, しっぽくうどん, 11月 12月 1月 香川 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kagawa-takamatsu-ritsurin-yashima-olive-hamachi-udon-stay/"
   },
   openGraph: {
-    title: '【11・12・1月香川】屋島寺新春初詣！名宿5選',
+    title: '11・12・1月香川：屋島寺新春初詣！名宿5選',
     description: '冬の香川・高松は、一歩一景の美を誇る国の特別名勝「栗林公園」が静寂と凛とした風情に包まれる特別な季節。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-kagawa-takamatsu-ritsurin-yashima-olive-hamachi-udon-stay',
     type: 'article',
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12・1月香川】特別名勝「栗林公園」の冬景色＆屋島寺新春初詣！冬限定の奇跡魚「オリーブハマチ」と讃岐うどん・オリーブ牛の名宿5選",
+    title: "11・12・1月香川：特別名勝「栗林公園」の冬景色＆屋島寺新春初詣！冬限定の奇跡魚「オリーブハマチ」と讃岐うどん・オリーブ牛の名宿5選",
     description: "冬の香川・高松は、一歩一景の美を誇る国の特別名勝「栗林公園」が静寂と凛とした風情に包まれる特別な季節。掬月亭で味わう抹茶、源平合戦の古戦場・屋島山頂からの瀬戸内海初日の出と四国霊場第84番札所「屋島寺」の新春初詣。そして1月中旬までの冬期限定でしか味わえない香川の奇跡のブランド魚「オリーブハマチ（脂がのってさっぱりとした極上の身）。」の刺身やしゃぶしゃぶ、冬の風物詩「讃岐しっぽくうどん」、讃岐牛の最高峰「オリーブ牛」のすき焼き。瀬戸内の多島美を望む温泉展望宿や名門ホテル厳選5選を詳しく紹介します。"
   }
 };
@@ -230,10 +230,7 @@ export default function KagawaTakamatsuYashimaPage() {
             <Sparkles className="w-4 h-4 text-teal-300" />
             11月・12月・1月冬の特選旅｜香川・高松＆屋島・庵治
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">
-            特別名勝「栗林公園」の冬景色＆屋島寺新春初詣！<br className="hidden sm:inline" />
-            冬限定の奇跡魚「オリーブハマチ」と讃岐うどん・オリーブ牛の名宿5選
-          </h1>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight text-white mb-6">特別名勝「栗林公園」の冬景色＆屋島寺新春初詣！<br className="hidden sm:inline" /> 冬限定の奇跡魚「オリーブハマチ」と讃岐うどん・オリーブ牛の名宿5選</h1>
           <p className="text-base sm:text-lg text-teal-100/90 leading-relaxed max-w-4xl mb-8">
             一歩一景の美意識が息づく国の特別名勝「栗林公園」が静けさに包まれる冬。南湖に映る松の翠と雪吊りの風情、歴代藩主が愛した掬月亭での一服。源平合戦の舞台・屋島山頂からの瀬戸内海初日の出と四国霊場・屋島寺での新春開運参拝。そして1月中旬までの冬限定でしか味わえない奇跡の極上魚「オリーブハマチ」、心まで温まる具だくさんの讃岐しっぽくうどん、最高峰の「オリーブ牛」すき焼き。瀬戸内の穏やかな陽光と美食に癒やされる厳選宿をご案内します。
           </p>

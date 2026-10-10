@@ -110,9 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">
-            長野・安曇野の田園紅葉＆北アルプス眺望！穂高温泉郷の秘湯と名水わさび・信州サーモン
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">長野・安曇野の田園紅葉＆北アルプス眺望！穂高温泉郷の秘湯と名水わさび・信州サーモン</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の長野・安曇野＆穂高温泉郷特集！北アルプス常念岳・爺ヶ岳の冠雪と安曇野わさび田の清流、大王わさび農場の秋景色、中房渓谷から引湯する名湯「穂高温泉郷」、信州プレミアム牛や信州サーモン・新そばをふるさと納税トラベルクーポンでお得に楽しむ信州リゾート滞在。
           </p>

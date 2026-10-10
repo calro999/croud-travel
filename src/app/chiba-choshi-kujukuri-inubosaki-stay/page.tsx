@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/chiba-choshi-kujukuri-inubosaki-stay/" },
-  title: "【千葉・銚子＆九十九里・犬吠埼】本州一早い日の出・犬吠埼灯台＆銚子電鉄・金目鯛宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "千葉・銚子＆九十九里・犬吠埼：本州一早い日の出・犬吠埼灯台＆銚子電鉄・金目鯛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "太平洋の水平線パノラマと海の幸王国・千葉銚子＆九十九里エリア完全特化！本州平地で一番早い日の出「犬吠埼灯台」、東洋のドーバー「屏風ヶ浦」、レトロな「銚子電鉄」、犬吠埼天然温泉、名物「銚子つりきんめ・九十九里ハマグリ宿」を徹底解説。",
   keywords: ["千葉", "銚子", "九十九里", "犬吠埼", "本州一早い日の出", "犬吠埼灯台", "銚子電鉄"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             CHOSHI & KUJUKURI GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【千葉・銚子＆九十九里・犬吠埼】本州一早い日の出・犬吠埼灯台＆銚子電鉄・金目鯛宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「千葉・銚子＆九十九里・犬吠埼」本州一早い日の出・犬吠埼灯台＆銚子電鉄・金目鯛宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             山頂・離島を除き本州で一番早く朝日が昇る岬「犬吠埼」と、太平洋の白波が打ち寄せる「九十九里浜」。白亜の犬吠埼灯台と高さ50mの断崖「屏風ヶ浦」。銚子電鉄に揺られながら、黄金色に輝く「銚子つりきんめ」と天然温泉を味わう旅。
           </p>

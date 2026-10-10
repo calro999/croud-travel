@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-remote-island-luxury-resort-stay/" },
-  title: '【大人の隠れ家・極上の離島リゾート】日常を完全遮断する南国アイランドふるさと納税ステイ | クラウドトラベル',
+  title: '大人の隠れ家・極上の離島リゾート：日常を完全遮断する南国アイランドふるさと納税ステイ | クラウドトラベル',
   description: '本土では決して味わえない圧倒的な静寂と大自然。屋久島・奄美大島・石垣島の世界遺産ロッジやオーシャンフロントヴィラを楽天ふるさと納税で賢く予約。飛行機や船で渡る大人のアイランドエスケープ。',
   openGraph: {
-    title: '【大人の隠れ家・極上の離島リゾート】日常を完全遮断する南国アイランドふるさと納税ステイ | クラウドトラベル',
+    title: '大人の隠れ家・極上の離島リゾート：日常を完全遮断する南国アイランドふるさと納税ステイ | クラウドトラベル',
     description: '本土では決して味わえない圧倒的な静寂と大自然。屋久島・奄美大島・石垣島の世界遺産ロッジやオーシャンフロントヴィラを楽天ふるさと納税で賢く予約。飛行機や船で渡る大人のアイランドエスケープ。',
     type: 'article',
   },
@@ -59,9 +59,7 @@ export default function Page() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             ふるさと納税×極上離島リゾート・自然遺産ステイ
           </div>
-          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            【大人の隠れ家・極上の離島リゾート】日常を完全遮断する南国アイランドふるさと納税ステイ
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">「大人の隠れ家・極上の離島リゾート」日常を完全遮断する南国アイランドふるさと納税ステイ</h1>
           <p className="text-stone-300 text-base md:text-lg leading-relaxed max-w-3xl mb-6">
             都会の喧騒や慌ただしい日常から物理的に距離を置き、心と身体を真のリセットへと導く「離島の旅」。フェリーのデッキに立ち海原を渡る時間や、プロペラ機が小さな滑走路に着陸した瞬間の高揚感は、本州の旅とは一線を画す特別な旅情をもたらします。樹齢数千年の縄文杉が息づく世界自然遺産・屋久島、東洋のガラパゴスと称される豊かなマングローブと奄美ブルーの海が広がる奄美大島、そしてサンゴ礁と満天の天の川に包まれる八重山諸島の玄関口・石垣島。こうした離島にあるハイクラスリゾートや一棟貸しヴィラは、流通コストや贅沢な空間設計から宿泊料金が高めに設定されていますが、楽天ふるさと納税のトラベルクーポンを使えば実質30％割引で予約可能。自治体への寄付を通じて手付かずの自然保護を応援しながら、一生忘れられない離島滞在へ出かけませんか。
           </p>

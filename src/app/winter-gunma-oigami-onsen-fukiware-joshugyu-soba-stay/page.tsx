@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【11・12月老神温泉】赤城山北麓！名宿5選',
+  title: '老神温泉で過ごす冬の旅（11・12月）！赤城山北麓！名宿5選',
   description: '11月中旬から12月の初冬を迎えた群馬県沼田市の利根町、老神温泉（おいがみおんせん）は、赤城山と日光白根山に挟まれた片品川の深い渓谷に佇み。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '老神温泉 宿泊, 吹割の滝 旅館, 上州牛 すき焼き 宿, 上州麦豚 温泉, 手打ち十割蕎麦 沼田, 単純硫黄泉 美肌湯, 混浴露天風呂 老神, 11月 12月 群馬旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-gunma-oigami-onsen-fukiware-joshugyu-soba-stay/"
   },
   openGraph: {
-    title: '【11・12月老神温泉】赤城山北麓！名宿5選',
+    title: '老神温泉で過ごす冬の旅（11・12月）！赤城山北麓！名宿5選',
     description: '11月中旬から12月の初冬を迎えた群馬県沼田市の利根町、老神温泉（おいがみおんせん）は、赤城山と日光白根山に挟まれた片品川の深い渓谷に佇み。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-gunma-oigami-onsen-fukiware-joshugyu-soba-stay',
     siteName: 'クラドトラベル',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【11・12月老神温泉】赤城山北麓・初冬の片品渓谷美と美肌単純硫黄泉・極上上州牛すき焼き＆上州麦豚・手打ち十割蕎麦を味わう名宿5選",
+    title: "老神温泉で過ごす冬の旅（11・12月）！赤城山北麓・初冬の片品渓谷美と美肌単純硫黄泉・極上上州牛すき焼き＆上州麦豚・手打ち十割蕎麦を味わう名宿5選",
     description: "11月中旬から12月の初冬を迎えた群馬県沼田市の利根町、老神温泉（おいがみおんせん）は、赤城山と日光白根山に挟まれた片品川の深い渓谷に佇み、凛とした澄み渡る冷気の中に情緒ある湯煙が立ちのぼる格別の秘湯シーズンを迎えます。赤城の神（大蛇）と日光男体山の神（大百足）の神話伝説が残る歴史ある名湯は、肌あたりが柔らかくほのかな硫黄の香りが漂う単純硫黄温泉。湯船に身を沈めれば、冷えた体の芯からじんわりと温まり、湯上がりも潤いと保温が持続します。車で約10分の距離には「東洋のナイアガラ」と称される名勝・吹割の滝が静寂に包まれ、初冬の澄んだ水流と奇岩の絶景が広がります。夕食には群馬の大自然が育んだ最高峰ブランド「上州牛」のすき焼き鍋や陶板ステーキ、きめ細やかな肉質の「上州麦豚」、尾瀬山麓の清らかな伏流水で打つ風味豊かな「手打ち十割蕎麦」、大粒の名物「尾瀬花豆」など滋味豊かな上州の恵みが勢揃い。初冬の北関東で心温まる山里リトリートを約束する厳選宿5選をご紹介します。",
     images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
   }
@@ -367,9 +367,7 @@ export default function GunmaOigamiWinterPage() {
             <Sparkles className="w-3.5 h-3.5" />
             11月・12月初冬の群馬沼田・老神温泉＆吹割の滝特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold tracking-tight text-white leading-tight">
-            {metadata.title as string}
-          </h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold tracking-tight text-white leading-tight">{metadata.title as string}</h1>
           <p className="text-xs sm:text-sm text-stone-300 leading-relaxed pt-2">
             片品川の深い渓谷に漂う硫黄の湯煙と、大蛇伝説が息づく開湯の歴史。
             とろける最高峰上州牛すき焼き、上州麦豚、尾瀬の湧水で打つ十割蕎麦を堪能する初冬の群馬旅へ。

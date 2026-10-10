@@ -7,12 +7,12 @@ import Link from 'next/link';
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
-  title: '客室専用プライベートサウナ＆天然水風呂・露天風呂付きヴィラ宿×ふるさと納税完全ガイド【2026年最新】熱海・河口湖・霧島',
+  title: '客室専用プライベートサウナ＆天然水風呂・露天風呂付きヴィラ宿×ふるさと納税厳選ガイド熱海・河口湖・霧島',
   description: '好きな時に好きなだけセルフロウリュを満喫！相模湾の絶景を望む客室本格サウナ付きスイート「ＩＳＨＩＮＯＹＡ熱海」、富士山を仰ぐ完全独立型グランピングヴィラ「天空の温泉ヴィラ紬 河口湖」、美肌源泉かけ流しと専用バレルサウナで極上のととのいへ導く「こしかの温泉」。他人の目を気にせず水風呂と外気浴を独占できるプライベートサウナ宿に、楽天ふるさと納税トラベルクーポンで実質2,000円負担で泊まる完全ガイド。',
   keywords: ["客室専用プライベートサウナ", "天然水風呂", "2026年最新", "熱海", "河口湖", "霧島", "温泉宿"],
   alternates: { canonical: baseUrl + '/furusato-tax-private-room-sauna-totonoi-villa-stay/' },
   openGraph: {
-    title: '客室専用プライベートサウナ＆天然水風呂・露天風呂付きヴィラ宿×ふるさと納税完全ガイド【2026年最新】熱海・河口湖・霧島',
+    title: '客室専用プライベートサウナ＆天然水風呂・露天風呂付きヴィラ宿×ふるさと納税厳選ガイド熱海・河口湖・霧島',
     description: '好きな時に好きなだけセルフロウリュを満喫！相模湾の絶景を望む客室本格サウナ付きスイート「ＩＳＨＩＮＯＹＡ熱海」、富士山を仰ぐ完全独立型グランピングヴィラ「天空の温泉ヴィラ紬 河口湖」、美肌源泉かけ流しと専用バレルサウナで極上のととのいへ導く「こしかの温泉」。他人の目を気にせず水風呂と外気浴を独占できるプライベートサウナ宿に、楽天ふるさと納税トラベルクーポンで実質2,000円負担で泊まる完全ガイド。',
     url: baseUrl + '/furusato-tax-private-room-sauna-totonoi-villa-stay',
     siteName: '旅宿クラウド',
@@ -68,9 +68,7 @@ export default function FurusatoPrivateRoomSaunaTotonoiStayPage() {
           <div className="inline-block px-3.5 py-1 bg-amber-500/20 text-amber-200 border border-amber-400/30 rounded-full text-xs font-semibold mb-4 tracking-wider">
             客室専用サウナ＆天然温泉ととのいヴィラ特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">
-            客室専用プライベートサウナ＆天然水風呂・露天風呂付きヴィラ宿×ふるさと納税完全ガイド【2026年最新】熱海・河口湖・霧島
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">客室専用プライベートサウナ＆天然水風呂・露天風呂付きヴィラ宿×ふるさと納税厳選ガイド熱海・河口湖・霧島</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
             空前のサウナブームが定着する中、今最もサウナーたちの憧れの的となっているのが「客室に本格サウナと水風呂、外気浴デッキが完備されたプライベートサウナ宿。」です。大浴場のサウナでは叶わないアロマ水での思いのままのセルフロウリュ、好きな温度での水風呂ダイブ、そして水着のままテラスのリクライニングチェアに身を投げ出して深呼吸する時間――他人の視線や混雑のストレスから完全に解放され、自分たちだけのペースで「極上のととのい」を追求できます。相模湾を見下ろす高台に佇みプライベートサウナと温泉露天風呂を備えた「ＩＳＨＩＮＯＹＡ熱海」、正面に富士山を望む絶景テラスとフィンランド式サウナを誇る「天空の温泉ヴィラ紬 河口湖」、そして美肌の湯として名高い天然温泉とバレルサウナが融合した鹿児島・霧島の「こしかの温泉」。こうした最新サウナ付きスイートや一棟貸しヴィラは高価格帯ですが、楽天ふるさと納税のトラベルクーポン（寄付額の最大30％割引・有効期間3年）を使えば、実質自己負担2,000円で夢のサウナ合宿ステイが叶います。心と身体を芯から解き放つ、最高峰のプライベートととのい旅へ出かけましょう。
           </p>

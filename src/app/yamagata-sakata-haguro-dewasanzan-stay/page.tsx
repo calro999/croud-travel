@@ -5,11 +5,11 @@ import Image from 'next/image';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/yamagata-sakata-haguro-dewasanzan-stay/" },
-  title: '【山形・酒田＆羽黒山】山居倉庫・五重塔杉並木＆庄内浜寿司・宿坊 完全ガイド ｜ 日本全国・旅宿クラウド',
+  title: '山形・酒田＆羽黒山：山居倉庫・五重塔杉並木＆庄内浜寿司・宿坊 厳選ガイド ｜ 日本全国・旅宿クラウド',
   description: '北前船交易で栄えた湊町酒田の白壁土蔵「山居倉庫」ケヤキ並木・本間家旧本邸、ミシュラン三ツ星・出羽三山羽黒山の「国宝五重塔」と樹齢三百年二千四百四十六段杉並木参道、庄内浜天然地魚の極上握り寿司と平田牧場金華豚を味わう宿を徹底解説。',
   keywords: ["山形", "酒田", "羽黒山", "山居倉庫", "五重塔杉並木", "庄内浜寿司", "宿坊"],
   openGraph: {
-    title: '【山形・酒田＆羽黒山】山居倉庫・五重塔杉並木＆庄内浜寿司・宿坊 完全ガイド ｜ 日本全国・旅宿クラウド',
+    title: '山形・酒田＆羽黒山：山居倉庫・五重塔杉並木＆庄内浜寿司・宿坊 厳選ガイド ｜ 日本全国・旅宿クラウド',
     description: '北前船交易で栄えた湊町酒田の白壁土蔵「山居倉庫」ケヤキ並木・本間家旧本邸、ミシュラン三ツ星・出羽三山羽黒山の「国宝五重塔」と樹齢三百年二千四百四十六段杉並木参道、庄内浜天然地魚の極上握り寿司と平田牧場金華豚を味わう宿を徹底解説。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/yamagata-sakata-haguro-dewasanzan-stay',
@@ -50,9 +50,7 @@ export default function Page() {
             <span>🗺️</span>
             <span>SAKATA & HAGURO DEWASANZAN GUIDE</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">
-            【山形・酒田＆羽黒山・出羽三山】山居倉庫・国宝五重塔杉並木＆庄内浜寿司宿 完全ガイド
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">「山形・酒田＆羽黒山・出羽三山」山居倉庫・国宝五重塔杉並木＆庄内浜寿司宿 厳選ガイド</h1>
           <p className="max-w-3xl mx-auto text-stone-300 text-sm sm:text-base md:text-lg leading-relaxed mb-8">
             「西の堺、東の酒田」と謳われ、北前船の日本海交易で豪商たちが繁栄を極めた湊町「酒田」。米の保存のために建てられた漆喰白壁の「山居倉庫」と風情あるケヤキ並木。修験道の霊場として千四百年の歴史を刻む「出羽三山・羽黒山」では、深山幽谷の静寂の中に佇む東北最古の「国宝五重塔」と2,446段の石段杉並木。そして日本海の荒波が育んだ庄内浜の極上寿司。精神の再生と北前船ロマンに浸る山形庄内ステイへご案内します。
           </p>

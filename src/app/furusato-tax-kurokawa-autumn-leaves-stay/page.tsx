@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '阿蘇・黒川温泉の渓流紅葉と入湯手形めぐり！田の原川沿いの風情ある名宿×ふるさと納税完全ガイド【2026年最新秋旅】熊本',
+  title: '阿蘇・黒川温泉の渓流紅葉と入湯手形めぐり！田の原川沿いの風情ある名宿×ふるさと納税厳選ガイド熊本',
   description: '10月下旬〜11月中旬に山里全体が秋色に包まれる九州屈指の人気温泉郷「黒川温泉」。田の原川沿いの雑木林紅葉と情緒ある杉皮屋根の街並み、名物「入湯手形」でめぐる野趣あふれる露天風呂、名宿「山河」「新明館」「美里」であか牛ステーキや肥後馬刺しを堪能。楽天ふるさと納税で実質2,000円で泊まる極上里山ステイ。',
   keywords: ["阿蘇", "2026年最新秋旅", "熊本", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kurokawa-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '阿蘇・黒川温泉の渓流紅葉と入湯手形めぐり！田の原川沿いの風情ある名宿×ふるさと納税完全ガイド【2026年最新秋旅】熊本',
+    title: '阿蘇・黒川温泉の渓流紅葉と入湯手形めぐり！田の原川沿いの風情ある名宿×ふるさと納税厳選ガイド熊本',
     description: '10月下旬〜11月中旬に山里全体が秋色に包まれる九州屈指の人気温泉郷「黒川温泉」。田の原川沿いの雑木林紅葉と情緒ある杉皮屋根の街並み、名物「入湯手形」でめぐる野趣あふれる露天風呂、名宿「山河」「新明館」「美里」であか牛ステーキや肥後馬刺しを堪能。楽天ふるさと納税で実質2,000円で泊まる極上里山ステイ。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kurokawa-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FeatureArticlePage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               熊本・阿蘇黒川温泉＆渓流紅葉特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              阿蘇・黒川温泉の渓流紅葉と入湯手形めぐり！田の原川沿いの風情ある名宿×ふるさと納税完全ガイド【2026年最新秋旅】熊本
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">阿蘇・黒川温泉の渓流紅葉と入湯手形めぐり！田の原川沿いの風情ある名宿×ふるさと納税厳選ガイド熊本</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               10月下旬〜11月中旬に山里全体が秋色に包まれる九州屈指の人気温泉郷「黒川温泉」。田の原川沿いの雑木林紅葉と情緒ある杉皮屋根の街並み、名物「入湯手形」でめぐる野趣あふれる露天風呂、名宿「山河」「新明館」「美里」であか牛ステーキや肥後馬刺しを堪能。楽天ふるさと納税で実質2,000円で泊まる極上里山ステイ。
             </p>

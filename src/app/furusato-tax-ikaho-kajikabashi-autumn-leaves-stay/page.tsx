@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '伊香保温泉の河鹿橋もみじライトアップ＆365段石段街！黄金の湯宿×ふるさと納税完全ガイド【2026年最新秋旅】群馬',
+  title: '伊香保温泉の河鹿橋もみじライトアップ＆365段石段街！黄金の湯宿×ふるさと納税厳選ガイド群馬',
   description: '10月下旬〜11月中旬に真っ赤に染まる名所「伊香保温泉 河鹿橋」。朱塗りの太鼓橋と紅葉ライトアップの幻想的なコントラスト、365段の石段街の足湯・射的巡りと、鉄分豊富なにごり湯「黄金の湯」を誇る「旅館 さくらい」「森秋旅館」「洋風旅館ぴのん」で上州牛・上州麦豚会席を堪能。ふるさと納税で実質2,000円。',
   keywords: ["2026年最新秋旅", "群馬", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-ikaho-kajikabashi-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '伊香保温泉の河鹿橋もみじライトアップ＆365段石段街！黄金の湯宿×ふるさと納税完全ガイド【2026年最新秋旅】群馬',
+    title: '伊香保温泉の河鹿橋もみじライトアップ＆365段石段街！黄金の湯宿×ふるさと納税厳選ガイド群馬',
     description: '10月下旬〜11月中旬に真っ赤に染まる名所「伊香保温泉 河鹿橋」。朱塗りの太鼓橋と紅葉ライトアップの幻想的なコントラスト、365段の石段街の足湯・射的巡りと、鉄分豊富なにごり湯「黄金の湯」を誇る「旅館 さくらい」「森秋旅館」「洋風旅館ぴのん」で上州牛・上州麦豚会席を堪能。ふるさと納税で実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-ikaho-kajikabashi-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -113,9 +113,7 @@ export default function FeatureArticlePage() {
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">
-            伊香保温泉の河鹿橋もみじライトアップ＆365段石段街！黄金の湯宿×ふるさと納税完全ガイド【2026年最新秋旅】群馬
-          </h1>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">伊香保温泉の河鹿橋もみじライトアップ＆365段石段街！黄金の湯宿×ふるさと納税厳選ガイド群馬</h1>
           <p className="text-sm md:text-lg text-stone-200 max-w-3xl mx-auto leading-relaxed">
             朱塗りの河鹿橋を包み込む燃えるような紅葉ライトアップと、石段街に湧く茶褐色の黄金の湯。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
           </p>

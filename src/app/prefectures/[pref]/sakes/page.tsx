@@ -121,9 +121,7 @@ export default async function PrefectureSakesPage({ params }: { params: Promise<
           </span>
         </div>
 
-        <h1 className="text-3xl md:text-5xl font-black font-journal-serif leading-tight text-white">
-          【2026年最新】{prefInfo.name}の銘酒・地酒・日本酒＆名醸蔵おすすめ比較ランキング
-        </h1>
+        <h1 className="text-3xl md:text-5xl font-black font-journal-serif leading-tight text-white">{prefInfo.name}の銘酒・地酒・日本酒＆名醸蔵おすすめ比較ランキング</h1>
 
         <p className="text-indigo-100/90 text-xs md:text-sm max-w-3xl leading-relaxed font-medium">
           清冽な雪解け水や極上の名水、恵まれた酒米、そして代々受け継がれてきた杜氏（とうじ）の技が光る{prefInfo.name}の地酒。旅先の温泉宿での晩酌や、大切な方へのお土産、ご自宅でじっくり味わいたい至高の純米大吟醸や限定銘柄を徹底比較して紹介します。

@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/heritage-cultural-wooden-ryokan/" },
-  title: "【登録有形文化財・名建築の宿】宮大工の木造建築・文豪が愛した老舗旅館 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "登録有形文化財・名建築の宿：宮大工の木造建築・文豪が愛した老舗旅館 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "国登録有形文化財・宮大工の名建築旅館完全特化！釘を一本も使わない数寄屋造り、文豪が執筆に訪れた客室、歴史ある磨き上げられた廊下、日本庭園と伝統会席を味わう至高のクラシックステイを徹底解説。",
   keywords: ["登録有形文化財", "名建築の宿", "宮大工の木造建築", "文豪が愛した老舗旅館", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
@@ -89,9 +89,7 @@ export default function HeritageOnsenHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             HERITAGE ARCHITECTURE RYOKAN GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【登録有形文化財・名建築の宿】宮大工の木造建築・文豪が愛した老舗旅館 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「登録有形文化財・名建築の宿」宮大工の木造建築・文豪が愛した老舗旅館 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             日本の美意識と宮大工の匠の技が息づく「登録有形文化財の宿」。明治・大正・昭和の文豪や皇族が愛した伝統木造建築、釘を使わない数寄屋造り、磨き抜かれた艶やかな廊下。時を超えて受け継がれる極上のおもてなしへ。
           </p>

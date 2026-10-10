@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tokyo-izu-atami-bus-vs-train-guide/" },
-  title: "【東京から熱海・伊豆 安く行く方法】新幹線・特急踊り子・普通電車を徹底比較！温泉1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+  title: "東京から熱海・伊豆 安く行く方法：新幹線・特急踊り子・普通電車を徹底比較！温泉1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "東京から熱海・伊豆へ安く行く方法！新幹線（約4,270円）・特急踊り子（約3,340円）・普通列車グリーン車（約1,980円）の料金・所要時間比較。片道2,000円台で行く熱海食べ歩き＆相模湾一望オーシャンビュー露天風呂宿ガイド。",
   keywords: ["東京から熱海", "伊豆", "安く行く方法", "新幹線", "特急踊り子", "温泉宿", "宿泊予約"],
 };
@@ -157,9 +157,7 @@ export default function HighwayBusArticlePage() {
               交通手段の徹底比較＆最適ルート
             </span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【東京から熱海・伊豆 安く行く方法】新幹線・特急踊り子・普通電車を徹底比較！温泉1泊2日モデルコース
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">「東京から熱海・伊豆 安く行く方法」新幹線・特急踊り子・普通電車を徹底比較！温泉1泊2日モデルコース</h1>
           <p className="text-xs md:text-sm text-cyan-100/90 leading-relaxed font-medium">
             東海道新幹線なら東京〜熱海わずか約35分（片道約4,270円）。一方、上野東京ライン・東海道線の普通列車グリーン車や直行バスなら片道約1,980円〜2,500円！浮いたお金で熱海プリンや金目鯛の煮付け、相模湾一望の絶景温泉宿に泊まる贅沢な週末旅。
           </p>

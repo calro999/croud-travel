@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【久留米】秋月城跡の紅葉黒門＆元祖とんこつ久留米ラーメン！2,000円台〜格安ホテル5選',
+  title: '久留米：秋月城跡の紅葉黒門＆元祖とんこつ久留米ラーメン！2,000円台〜格安ホテル5選',
   description: '筑前の小京都「秋月城跡」の黒門を彩る見事な紅葉と柳川こたつ舟！白濁豚骨スープ発祥の「久留米ラーメン」や日本屈指の焼き鳥激戦区グルメ。久留米駅前で1泊2,000円台〜4,000円台の高評価宿5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetKurumeHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>筑前小京都秋月城跡紅葉＆元祖とんこつ</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【久留米】秋月紅葉拠点＆元祖久留米ラーメン！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「久留米」秋月紅葉拠点＆元祖久留米ラーメン！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-rose-100/90 max-w-2xl mx-auto leading-relaxed">
             黒門に重なる燃えるような紅葉が美しい「筑前の小京都・秋月城跡」や柳川川下りへの観光拠点。夜は豚骨ラーメン発祥の地・久留米で濃厚クリーミーな「呼び戻しスープ」の久留米ラーメンや、ダルム・丸腸など人口比日本一の焼き鳥文化に舌鼓！西鉄・JR久留米駅周辺で2,000円台〜の優良宿を厳選。
           </p>

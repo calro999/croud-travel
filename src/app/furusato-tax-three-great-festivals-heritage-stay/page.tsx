@@ -4,14 +4,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '日本三大美祭＆伝統工芸・山鉾の街の老舗旅館×ふるさと納税完全ガイド【2026年最新】高山祭・秩父夜祭・祇園祭',
+  title: '日本三大美祭＆伝統工芸・山鉾の街の老舗旅館×ふるさと納税厳選ガイド高山祭・秩父夜祭・祇園祭',
   description: '日本が世界に誇る絢爛豪華な伝統美！岐阜「高山祭」屋台のからくり人形と飛騨牛会席、埼玉「秩父夜祭」冬の夜空を焦がす笠鉾・屋台と奥秩父温泉、京都「祇園祭」石畳の路地に佇む京町家旅館と京懐石。ユネスコ無形文化遺産の歴史絵巻を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: 'ふるさと納税, 楽天トラベル, 旅行クーポン, 宿泊記, ホテル予約, 国内旅行, おすすめ宿, 温泉旅館',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-festivals-heritage-stay/",
   },
   openGraph: {
-    title: '日本三大美祭＆伝統工芸・山鉾の街の老舗旅館×ふるさと納税完全ガイド【2026年最新】高山祭・秩父夜祭・祇園祭',
+    title: '日本三大美祭＆伝統工芸・山鉾の街の老舗旅館×ふるさと納税厳選ガイド高山祭・秩父夜祭・祇園祭',
     description: '日本が世界に誇る絢爛豪華な伝統美！岐阜「高山祭」屋台のからくり人形と飛騨牛会席、埼玉「秩父夜祭」冬の夜空を焦がす笠鉾・屋台と奥秩父温泉、京都「祇園祭」石畳の路地に佇む京町家旅館と京懐石。ユネスコ無形文化遺産の歴史絵巻を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-three-great-festivals-heritage-stay',
     siteName: 'トラベル総合ナビ',
@@ -56,9 +56,7 @@ export default function Page() {
             <span>✨</span>
             <span>日本三大美祭・山鉾の街特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6 text-white drop-shadow-sm">
-            日本三大美祭＆伝統工芸・山鉾の街の老舗旅館×ふるさと納税ガイド
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6 text-white drop-shadow-sm">日本三大美祭＆伝統工芸・山鉾の街の老舗旅館×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-xl text-slate-200 leading-relaxed font-normal max-w-4xl">
             幾百年受け継がれる宮大工の魂と絢爛豪華な屋台。日本の美意識が結晶した歴史の街に泊まる
           </p>

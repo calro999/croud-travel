@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hyogo-takeda-castle-asago-ikuno-stay/" },
-  title: "【兵庫・竹田城跡＆朝来・生野銀山】雲海に浮かぶ天空の城・生野鉱山坑道＆但馬牛宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "兵庫・竹田城跡＆朝来・生野銀山：雲海に浮かぶ天空の城・生野鉱山坑道＆但馬牛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "日本のマチュピチュ・天空の城跡と産業遺産・兵庫朝来エリア完全特化！国史跡「竹田城跡（雲海展望台・立雲峡）」、日本遺産「生野銀山（観光坑道・鉱山町）」、あさご芸術の森、名物「但馬牛・岩津ねぎ宿」を徹底解説。",
   keywords: ["兵庫", "竹田城跡", "朝来", "生野銀山", "雲海に浮かぶ天空の城", "生野鉱山坑道", "但馬牛宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             TAKEDA CASTLE & ASAGO GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【兵庫・竹田城跡＆朝来・生野銀山】雲海に浮かぶ天空の城・生野鉱山坑道＆但馬牛宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「兵庫・竹田城跡＆朝来・生野銀山」雲海に浮かぶ天空の城・生野鉱山坑道＆但馬牛宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             標高353mの古城山山頂に広がる石垣遺構「国史跡・天空の城 竹田城跡」。秋の早朝、濃密な朝霧に包まれて雲海に浮かぶ幻想の姿。戦国時代から昭和まで稼働した「生野銀山」の地下鉱山探検。日本三大和牛のルーツ但馬牛と日本三大葱・岩津ねぎを味わう旅。
           </p>

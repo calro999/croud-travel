@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【米子駅前】秋の境港紅ズワイガニ＆大山紅葉！3,000円台〜泊まれる格安ホテル5選',
+  title: '米子駅前：秋の境港紅ズワイガニ＆大山紅葉！3,000円台〜泊まれる格安ホテル5選',
   description: '日本一の水揚げを誇る境港の秋解禁・紅ズワイガニや大山地鶏の旨味を堪能！伯耆富士・大山の雄大な紅葉を望む米子駅周辺で1泊3,000円台〜泊まれる格安ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetYonagoStationHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>境港カニ解禁グルメ＆伯耆富士の秋絶景</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【米子駅前】秋の境港紅ズワイガニ＆米子城跡展望！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「米子駅前」秋の境港紅ズワイガニ＆米子城跡展望！<br className="hidden sm:inline" />3,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-blue-100/90 max-w-2xl mx-auto leading-relaxed">
             秋風とともに漁が解禁される境港名物「紅ズワイガニ」。ジューシーで甘み濃厚なカニ身やカニ味噌、地元ブランド大山地鶏や大山そばを贅沢に味わい、米子城天守台からの中海・大山パノラマを堪能。米子駅から徒歩すぐの好立地に3,000円台〜泊まれる優良宿を厳選。
           </p>

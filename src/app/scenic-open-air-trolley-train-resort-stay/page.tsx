@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/scenic-open-air-trolley-train-resort-stay/" },
-  title: "【絶景観光トロッコ列車＆オープン客車】黒部峡谷・嵯峨野・南阿蘇＆名湯 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "絶景観光トロッコ列車＆オープン客車：黒部峡谷・嵯峨野・南阿蘇＆名湯 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "窓のない爽快オープンデッキで風を感じる！全国の人気観光トロッコ列車＆渓谷温泉宿完全特化！富山「黒部峡谷トロッコ電車」、京都嵐山「嵯峨野トロッコ列車」、熊本「南阿蘇鉄道ゆうすげ号」、宇奈月温泉・嵐山温泉宿を徹底解説。",
   keywords: ["絶景観光トロッコ列車", "オープン客車", "黒部峡谷", "嵯峨野", "南阿蘇", "名湯", "温泉宿"],
 };
@@ -89,9 +89,7 @@ export default function RailwayActivityHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-gradient-to-r from-cyan-400 to-blue-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block shadow">
             TROLLEY TRAIN GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【絶景観光トロッコ列車＆オープン客車】黒部峡谷・嵯峨野・南阿蘇＆名湯 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「絶景観光トロッコ列車＆オープン客車」黒部峡谷・嵯峨野・南阿蘇＆名湯 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-cyan-100/90 leading-relaxed">
             窓ガラスのないオープン客車に吹き抜ける心地よい渓谷の風！「絶景観光トロッコ列車」。険しいV字峡谷を縫うように走る黒部峡谷鉄道、保津川の絶壁を望む京都嵯峨野トロッコ、阿蘇の大カルデラを横断する南阿蘇トロッコ。大自然と秘湯を巡る旅へ。
           </p>

@@ -21,14 +21,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【冬の鳥取砂丘＆白兎神社初詣】本場松葉ガニ！名宿5選',
+  title: '冬の鳥取砂丘＆白兎神社初詣：本場松葉ガニ！名宿5選',
   description: '冬の日本海からの寒風が織りなす奇跡の絶景「雪の鳥取砂丘」と神秘の風紋。日本神話『因幡の白兎』ゆかりの「白兎神社」新春縁結び初詣。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '鳥取砂丘, 雪砂丘, 風紋, 白兎神社, 初詣, 松葉ガニ, 鳥取温泉, 観水庭こぜにや, ホテルモナーク鳥取, ホテルニューオータニ鳥取, 冬の山陰旅行, 因幡の白兎',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-tottori-sand-dunes-snow-matsubagani-hakuto-shrine-stay',
   },
   openGraph: {
-    title: '【冬の鳥取砂丘＆白兎神社初詣】本場松葉ガニ！名宿5選',
+    title: '冬の鳥取砂丘＆白兎神社初詣：本場松葉ガニ！名宿5選',
     description: '冬の日本海からの寒風が織りなす奇跡の絶景「雪の鳥取砂丘」と神秘の風紋。日本神話『因幡の白兎』ゆかりの「白兎神社」新春縁結び初詣。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-tottori-sand-dunes-snow-matsubagani-hakuto-shrine-stay',
     siteName: 'トラベルマップ - 日本の観光名所＆ホテル厳選ガイド',
@@ -45,7 +45,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: '【冬の鳥取砂丘＆白兎神社初詣】雪砂丘と神秘の風紋！因幡の白兎縁結び＆本場松葉ガニ・鳥取温泉を味わい尽くす厳選宿5選',
+    title: '冬の鳥取砂丘＆白兎神社初詣：雪砂丘と神秘の風紋！因幡の白兎縁結び＆本場松葉ガニ・鳥取温泉を味わい尽くす厳選宿5選',
     description: '冬の日本海からの寒風が織りなす奇跡の絶景「雪の鳥取砂丘」と神秘の風紋。日本神話『因幡の白兎』ゆかりの「白兎神社」新春縁結び初詣、冬の味覚の王様・11月解禁の本場「松葉ガニ」フルコースと鳥取和牛。開湯120年の鳥取温泉自家源泉掛け流し宿など、冬の山陰を満喫する厳選ホテル5選。',
     images: ['https://img.travel.rakuten.co.jp/share/HOTEL/14072/14072.jpg'],
   },
@@ -55,7 +55,7 @@ export default function TottoriSandDunesPage() {
   const jsonLdArticle = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【冬の鳥取砂丘＆白兎神社初詣】雪砂丘と神秘の風紋！因幡の白兎縁結び＆本場松葉ガニ・鳥取温泉を味わい尽くす厳選宿5選',
+    headline: '冬の鳥取砂丘＆白兎神社初詣：雪砂丘と神秘の風紋！因幡の白兎縁結び＆本場松葉ガニ・鳥取温泉を味わい尽くす厳選宿5選',
     description: '冬の日本海からの寒風が織りなす奇跡の絶景「雪の鳥取砂丘」と神秘の風紋。日本神話『因幡の白兎』ゆかりの「白兎神社」新春縁結び初詣、冬の味覚の王様・11月解禁の本場「松葉ガニ」フルコースと鳥取和牛。開湯120年の鳥取温泉自家源泉掛け流し宿など、冬の山陰を満喫する厳選ホテル5選。',
     image: 'https://img.travel.rakuten.co.jp/share/HOTEL/14072/14072.jpg',
     datePublished: 'T00:00:00+09:00',
@@ -171,13 +171,7 @@ export default function TottoriSandDunesPage() {
             <span>11月・12月・1月 山陰の白銀雪砂丘＆松葉ガニ解禁特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight sm:leading-tight mb-6">
-            【冬の鳥取砂丘＆白兎神社初詣】<br className="hidden sm:inline" />
-            白銀の雪砂丘と神秘の風紋！因幡の白兎伝説の縁結び祈願と<br />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-200 via-yellow-200 to-rose-200">
-              冬の味覚の王様「本場松葉ガニ・鳥取温泉」名宿5選
-            </span>
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight sm:leading-tight mb-6">「冬の鳥取砂丘＆白兎神社初詣」<br className="hidden sm:inline" /> 白銀の雪砂丘と神秘の風紋！因幡の白兎伝説の縁結び祈願と<br /> <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-200 via-yellow-200 to-rose-200"> 冬の味覚の王様「本場松葉ガニ・鳥取温泉」名宿5選 </span></h1>
 
           <p className="text-sm sm:text-lg text-slate-300 leading-relaxed max-w-3xl mx-auto mb-8">
             日本海の荒波と寒風が創り出す冬の奇跡「白銀の雪砂丘」。どこまでも続く純白の世界に刻まれる神秘の風紋と、鉛色の海が織りなすドラマチックな絶景。古事記の神話『因幡の白兎』が息づく白兎神社での良縁結び・新春初詣。11月上旬に解禁されたばかりの本場「松葉ガニ」の贅沢なフルコース会席と、開湯120年の鳥取温泉で心ほどける極上の冬旅へ。

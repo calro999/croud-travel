@@ -5,11 +5,11 @@ import Image from 'next/image';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/shiga-nagahama-omihachiman-chikubushima-stay/" },
-  title: '【滋賀・長浜＆近江八幡】黒壁スクエア・竹生島クルーズ＆八幡堀・近江牛宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+  title: '滋賀・長浜＆近江八幡：黒壁スクエア・竹生島クルーズ＆八幡堀・近江牛宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
   description: '明治の洋館とガラス工芸の街「長浜黒壁スクエア」、琵琶湖に浮かぶ日本三大弁財天の聖地「竹生島（宝厳寺・都久夫須麻神社）」クルーズ、豊臣秀次が開いた近江商人の城下町「近江八幡水郷めぐり・八幡堀」、日本三大和牛「近江牛」のすき焼き宿を徹底解説。',
   keywords: ["滋賀", "長浜", "近江八幡", "黒壁スクエア", "竹生島クルーズ", "八幡堀", "近江牛宿"],
   openGraph: {
-    title: '【滋賀・長浜＆近江八幡】黒壁スクエア・竹生島クルーズ＆八幡堀・近江牛宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+    title: '滋賀・長浜＆近江八幡：黒壁スクエア・竹生島クルーズ＆八幡堀・近江牛宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
     description: '明治の洋館とガラス工芸の街「長浜黒壁スクエア」、琵琶湖に浮かぶ日本三大弁財天の聖地「竹生島（宝厳寺・都久夫須麻神社）」クルーズ、豊臣秀次が開いた近江商人の城下町「近江八幡水郷めぐり・八幡堀」、日本三大和牛「近江牛」のすき焼き宿を徹底解説。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/shiga-nagahama-omihachiman-chikubushima-stay',
@@ -50,9 +50,7 @@ export default function Page() {
             <span>🗺️</span>
             <span>NAGAHAMA, OMIHACHIMAN & CHIKUBUSHIMA GUIDE</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">
-            【滋賀・長浜＆近江八幡・竹生島】黒壁スクエア・神の棲む竹生島＆八幡堀・近江牛宿 完全ガイド
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">「滋賀・長浜＆近江八幡・竹生島」黒壁スクエア・神の棲む竹生島＆八幡堀・近江牛宿 厳選ガイド</h1>
           <p className="max-w-3xl mx-auto text-stone-300 text-sm sm:text-base md:text-lg leading-relaxed mb-8">
             日本最大の湖・琵琶湖の東岸に広がる歴史と水の都。羽柴秀吉が初めて城持ち大名となり築いた長浜の町並みに、明治の銀行建築を再生したガラスの街「黒壁スクエア」。古くから神が棲む島として信仰を集める琵琶湖上のパワースポット「竹生島」。近江商人の誇りが息づく白壁土蔵と水郷の風情が残る「近江八幡・八幡堀」。そして口の中でとろける日本三大和牛「近江牛」。湖の風と美酒、近江の歴史を巡るステイへご案内します。
           </p>

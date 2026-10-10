@@ -5,7 +5,7 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【福島】磐梯吾妻スカイラインの絶景紅葉と円盤餃子！格安ホテル5選',
+  title: '福島：磐梯吾妻スカイラインの絶景紅葉と円盤餃子！格安ホテル5選',
   description: '天空の紅葉ロード「磐梯吾妻スカイライン」のパノラマ絶景と、パリパリ香ばしい名物「福島円盤餃子」！福島駅周辺で1泊2,000円台〜4,000円台で泊まれる格安・高評価ホテル厳選5選。',
 };
 
@@ -30,9 +30,7 @@ export default function AutumnBudgetFukushimaHotelsPage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>磐梯吾妻の紅葉パノラマ＆名物円盤餃子</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【福島】磐梯吾妻スカイライン紅葉＆円盤餃子！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">「福島」磐梯吾妻スカイライン紅葉＆円盤餃子！<br className="hidden sm:inline" />2,000円台〜泊まれる格安・高コスパ宿5選</h1>
           <p className="text-sm md:text-base text-red-100/90 max-w-2xl mx-auto leading-relaxed">
             火星のような荒涼とした火山地形と燃えるような紅葉が広がる日本屈指の山岳道路「磐梯吾妻スカイライン・浄土平」。夜は福島駅周辺の老舗居酒屋で、フライパン一杯に丸く焼き上げた名物「円盤餃子」と全国新酒鑑評会で金賞常連の福島地酒を！2,000円台〜4,000円台の高評価宿をご紹介。
           </p>

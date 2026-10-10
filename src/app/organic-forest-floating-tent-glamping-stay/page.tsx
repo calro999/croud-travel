@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【2026年】森の宙に浮かぶ幻想空間！空中テント・ドームテント＆森林プライベートサウナ宿5選 | 日本全国・旅宿クラウド',
+  title: '2026年：森の宙に浮かぶ幻想空間！空中テント・ドームテント＆森林プライベートサウナ宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！木々の間に浮かぶフローティングテントやパノラマドームテント！満天の星空とプライベートテントサウナ、豪華BBQを愉しむ大自然グランピング5選。',
   keywords: ["2026年", "ドームテント", "森林プライベートサウナ宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: '【2026年】森の宙に浮かぶ幻想空間！空中テント・ドームテント＆森林プライベートサウナ宿5選',
+    title: '2026年：森の宙に浮かぶ幻想空間！空中テント・ドームテント＆森林プライベートサウナ宿5選',
     description: '2026年最新！木々の間に浮かぶフローティングテントやパノラマドームテント！満天の星空とプライベートテントサウナ、豪華BBQを愉しむ大自然グランピング5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/organic-forest-floating-tent-glamping-stay',
@@ -193,9 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> 空中テント星空ドーム×森林プライベートサウナ
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">
-            【2026年】森の宙に浮かぶ幻想空間！空中テント・ドームテント＆森林プライベートサウナ宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」森の宙に浮かぶ幻想空間！空中テント・ドームテント＆森林プライベートサウナ宿5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             まるで雲の上に浮かんでいるかのような空中テントや、ベッドから星空を仰ぐ大型ドームテント。小鳥のさえずりで目覚め、森のプライベートサウナでロウリュを楽しんだ後は、地元特産牛の贅沢BBQに舌鼓を打つ極上のアウトドア体験。
           </p>

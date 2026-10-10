@@ -6,7 +6,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/chiba-tateyama-shirahama-nojimazaki-stay/" },
-  title: "【千葉・館山＆白浜・野島崎】房総最南端白亜の灯台・フラワーライン＆伊勢海老宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  title: "千葉・館山＆白浜・野島崎：房総最南端白亜の灯台・フラワーライン＆伊勢海老宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
   description: "黒潮の恵みと温暖な楽園・南房総館山＆白浜エリア完全特化！房総半島最南端「野島埼灯台（ラバーズベンチ）」、日本の道百選「房総フラワーライン」、館山城（城山公園）、名物「房総伊勢海老・アワビ・地魚寿司宿」を徹底解説。",
   keywords: ["千葉", "館山", "白浜", "野島崎", "房総最南端白亜の灯台", "フラワーライン", "伊勢海老宿"],
 };
@@ -89,9 +89,7 @@ export default function MicroTouristHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             TATEYAMA & NOJIMAZAKI GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【千葉・館山＆白浜・野島崎】房総最南端白亜の灯台・フラワーライン＆伊勢海老宿 完全ガイド
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「千葉・館山＆白浜・野島崎」房総最南端白亜の灯台・フラワーライン＆伊勢海老宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             どこまでも青い太平洋と黒潮の温暖な気候「南房総・館山＆白浜」。房総半島最南端にそびえる白亜の「野島埼灯台」。夕陽と富士山を同時に望む絶景ラバーズベンチ。冬から春に咲き乱れる菜の花とポピー。獲れたての房総伊勢海老とアワビを味わうシーサイドの旅。
           </p>

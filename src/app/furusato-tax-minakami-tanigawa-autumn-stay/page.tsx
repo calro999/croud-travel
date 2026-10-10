@@ -101,9 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">
-            谷川岳の紅葉ロープウェイとみなかみ十八湯！利根川源流の渓谷美と上州牛・舞茸を味わう秋の群馬旅
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">谷川岳の紅葉ロープウェイとみなかみ十八湯！利根川源流の渓谷美と上州牛・舞茸を味わう秋の群馬旅</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             谷川連峰の三段紅葉と利根川の渓流美、歴史ある湯けむりに包まれる上州の秋
           </p>

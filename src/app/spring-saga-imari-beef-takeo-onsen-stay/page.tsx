@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【極上A5伊万里牛＆武雄温泉美肌湯】1300年の名湯と佐賀の最高峰グルメを堪能する名宿5選",
+  title: "極上A5伊万里牛＆武雄温泉美肌湯：1300年の名湯と佐賀の最高峰グルメを堪能する名宿5選",
   description: "澄んだ空気と清らかな水が育んだ最高級黒毛和牛「伊万里牛」！辰野金吾設計の楼門で有名な歴史ある武雄温泉のトロトロ美肌湯と、佐賀牛・伊万里牛の極上ステーキに舌鼓を打つ雅な九州温泉旅。",
   keywords: "武雄温泉 露天風呂 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/spring-saga-imari-beef-takeo-onsen-stay/",
   },
   openGraph: {
-    title: "【極上A5伊万里牛＆武雄温泉美肌湯】1300年の名湯と佐賀の最高峰グルメを堪能する名宿5選",
+    title: "極上A5伊万里牛＆武雄温泉美肌湯：1300年の名湯と佐賀の最高峰グルメを堪能する名宿5選",
     description: "澄んだ空気と清らかな水が育んだ最高級黒毛和牛「伊万里牛」！辰野金吾設計の楼門で有名な歴史ある武雄温泉のトロトロ美肌湯と、佐賀牛・伊万里牛の極上ステーキに舌鼓を打つ雅な九州温泉旅。",
     url: 'https://croud-travel.pages.dev/spring-saga-imari-beef-takeo-onsen-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【極上A5伊万里牛＆武雄温泉美肌湯】1300年の名湯と佐賀の最高峰グルメを堪能する名宿5選",
+    title: "極上A5伊万里牛＆武雄温泉美肌湯：1300年の名湯と佐賀の最高峰グルメを堪能する名宿5選",
     description: "澄んだ空気と清らかな水が育んだ最高級黒毛和牛「伊万里牛」！辰野金吾設計の楼門で有名な歴史ある武雄温泉のトロトロ美肌湯と、佐賀牛・伊万里牛の極上ステーキに舌鼓を打つ雅な九州温泉旅。",
   }
 };
@@ -132,9 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>A5伊万里牛＆武雄温泉美肌湯</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【極上A5伊万里牛＆武雄温泉美肌湯】1300年の名湯と佐賀の最高峰グルメを堪能する名宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">「極上A5伊万里牛＆武雄温泉美肌湯」1300年の名湯と佐賀の最高峰グルメを堪能する名宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             澄んだ空気と清らかな水が育んだ最高級黒毛和牛「伊万里牛」！辰野金吾設計の楼門で有名な歴史ある武雄温泉のトロトロ美肌湯と、佐賀牛・伊万里牛の極上ステーキに舌鼓を打つ雅な九州温泉旅。
           </p>

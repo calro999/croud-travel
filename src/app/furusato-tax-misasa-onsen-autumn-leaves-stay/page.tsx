@@ -3,14 +3,14 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '世界屈指のラジウム温泉・三朝温泉と国立公園大山の紅葉！名湯旅館×ふるさと納税完全ガイド【2026年最新秋旅】鳥取',
+  title: '世界屈指のラジウム温泉・三朝温泉と国立公園大山の紅葉！名湯旅館×ふるさと納税厳選ガイド鳥取',
   description: '10月下旬〜11月中旬に見頃を迎える西日本屈指の名峰「大山（だいせん）」のブナ原生林紅葉と「三朝温泉（みささおんせん）」。世界屈指の高濃度ラドンを含む「三たび朝を迎えると元気になる」奇跡の湯、名門老舗宿「依山楼 岩崎」「旅館 大橋」「ちくま旅館」で11月解禁の鳥取松葉ガニや鳥取和牛オレイン55を堪能。ふるさと納税で実質2,000円。',
   keywords: ["世界屈指のラジウム温泉", "2026年最新秋旅", "鳥取", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-misasa-onsen-autumn-leaves-stay/"
   },
   openGraph: {
-    title: '世界屈指のラジウム温泉・三朝温泉と国立公園大山の紅葉！名湯旅館×ふるさと納税完全ガイド【2026年最新秋旅】鳥取',
+    title: '世界屈指のラジウム温泉・三朝温泉と国立公園大山の紅葉！名湯旅館×ふるさと納税厳選ガイド鳥取',
     description: '10月下旬〜11月中旬に見頃を迎える西日本屈指の名峰「大山（だいせん）」のブナ原生林紅葉と「三朝温泉（みささおんせん）」。世界屈指の高濃度ラドンを含む「三たび朝を迎えると元気になる」奇跡の湯、名門老舗宿「依山楼 岩崎」「旅館 大橋」「ちくま旅館」で11月解禁の鳥取松葉ガニや鳥取和牛オレイン55を堪能。ふるさと納税で実質2,000円。',
     url: 'https://croud-travel.pages.dev/furusato-tax-misasa-onsen-autumn-leaves-stay',
     siteName: '旅宿クラウド',
@@ -64,9 +64,7 @@ export default function FeatureArticlePage() {
             <span className="inline-block bg-amber-500/20 text-amber-300 text-xs md:text-sm font-bold px-3.5 py-1.5 rounded-full border border-amber-400/30">
               鳥取・三朝温泉＆大山ブナ原生林紅葉特集
             </span>
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">
-              世界屈指のラジウム温泉・三朝温泉と国立公園大山の紅葉！名湯旅館×ふるさと納税完全ガイド【2026年最新秋旅】鳥取
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">世界屈指のラジウム温泉・三朝温泉と国立公園大山の紅葉！名湯旅館×ふるさと納税厳選ガイド鳥取</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
               10月下旬〜11月中旬に見頃を迎える西日本屈指の名峰「大山（だいせん）」のブナ原生林紅葉と「三朝温泉（みささおんせん）」。世界屈指の高濃度ラドンを含む「三たび朝を迎えると元気になる」奇跡の湯、名門老舗宿「依山楼 岩崎」「旅館 大橋」「ちくま旅館」で11月解禁の鳥取松葉ガニや鳥取和牛オレイン55を堪能。ふるさと納税で実質2,000円。
             </p>
