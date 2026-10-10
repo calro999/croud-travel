@@ -19,3 +19,4 @@ showcase_okinawa
 toyama-famous-things-gourmet-spots-guide
 showcase_oita
 october-travel-city-chofu-fuchu-kids-family-guide
+showcase_aomori
