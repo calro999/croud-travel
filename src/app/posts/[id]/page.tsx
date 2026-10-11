@@ -374,7 +374,7 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
           )}
         </div>
 
-        {/* 期間限定：スペシャルクーポンWEEK特大バナー（アイキャッチ直下の特等席） */}
+        {/* 公式企画：5と0のつく日＆ふるさと納税 特大キャンペーンバナー（アイキャッチ直下の特等席） */}
         <SpecialCouponBanner />
 
         {/* 目次 ＆ 読了目安時間 */}

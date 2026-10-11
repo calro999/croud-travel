@@ -4,11 +4,11 @@ import Link from "next/link";
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/campaigns/" },
   title: "最新：楽天トラベルお得キャンペーン・クーポン・セール一覧 ｜ 日本全国・旅宿クラウド",
-  description: "楽天トラベルの最新割引クーポン、サマーセール、5と0のつく日高級宿セール、ふるさと納税クーポン、初めて利用キャンペーンなどの超お得な最新セール情報を一挙ご紹介！",
+  description: "楽天トラベルの最新割引クーポン、5と0のつく日高級宿セール、ふるさと納税宿泊クーポン、ボーナスプログラム、初めて利用キャンペーンなどの超お得な最新セール情報を一挙ご紹介！",
   keywords: ["最新", "楽天トラベルお得キャンペーン", "クーポン", "セール一覧", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
     title: "最新：楽天トラベルお得キャンペーン・クーポン・セール一覧",
-    description: "楽天トラベルの最新割引クーポン、サマーセール、5と0のつく日高級宿セール、ふるさと納税クーポンなどの超お得な最新セール情報を一挙ご紹介！",
+    description: "楽天トラベルの最新割引クーポン、5と0のつく日高級宿セール、ふるさと納税宿泊クーポンなどの超お得な最新セール情報を一挙ご紹介！",
   }
 };
 
@@ -26,18 +26,6 @@ interface CampaignItem {
 }
 
 const CAMPAIGNS: CampaignItem[] = [
-  {
-    id: "rakuten-special-coupon-week",
-    title: "楽天トラベル スペシャルクーポンWEEK",
-    badge: "9/1 9:59まで期間限定！",
-    discountInfo: "旅行予約が最大30%OFFクーポン配布",
-    description: "期間限定で開催されるスペシャルクーポンWEEK！全国の対象ホテル・温泉旅館で使える最大30%OFFクーポンをはじめ、お得な割引特典が多数登場。数量限定のため早めの獲得がおすすめです。",
-    targetDays: "〜(火) 09:59まで開催中",
-    highlights: ["国内旅行・宿泊予約が最大30%OFF", "対象の高級ホテル・温泉宿で使える限定クーポン", "秋の行楽・シルバーウィーク旅行にも活用可能"],
-    affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Fcoupon-week%2F",
-    imageUrl: "/images/travel_special.png",
-    category: "大型セール"
-  },
   {
     id: "rakuten-5and0-luxury",
     title: "5と0のつく日 高級宿・温泉宿セール",
@@ -63,27 +51,27 @@ const CAMPAIGNS: CampaignItem[] = [
     category: "地域応援・クーポン"
   },
   {
-    id: "summer-sale-2026",
-    title: "楽天トラベル サマーセール＆季節大感謝祭",
-    badge: "期間限定ビッグセール",
-    discountInfo: "半額プラン多数＋1万円相当クーポン配布",
-    description: "夏休み・秋の行楽シーズンに向けた楽天トラベル最大級の半額＆割引大セール！家族旅行やカップル旅行、国内リゾートの目玉プランが満載です。",
-    targetDays: "数量限定・期間限定開催中",
-    highlights: ["全国の人気ホテルが直前＆先々予約で半額", "レンタカー・高速バスも併せて大幅値引き", "タイムセール限定特別クーポン多数"],
-    affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fcoupon%2F",
-    imageUrl: "/images/rakuten_summer_sale_banner.png",
-    category: "大型セール"
+    id: "rakuten-bonus-program",
+    title: "楽天トラベル ボーナスプログラム（会員限定特典）",
+    badge: "常時開催中・ポイント最大2.5倍",
+    discountInfo: "国内宿泊で楽天ポイント倍率が常時アップ",
+    description: "楽天トラベルを利用するほどステージが上がり、国内宿泊のポイント還元率がアップする常設プログラム！定期的な旅行や出張におすすめの制度です。",
+    targetDays: "エントリー不要・常時適用",
+    highlights: ["ランクに応じてポイント還元率が最大2.5倍", "全国の対象ホテル・温泉宿が対象", "他の割引クーポンと併用可能"],
+    affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fcamp%2Fbonus-program%2F",
+    imageUrl: "/images/rakuten_bonus_program.png",
+    category: "定期開催"
   },
   {
-    id: "obon-summer-vacation-pool-hotspring",
-    title: "お盆旅行・夏休み プール付きホテル＆夏休み温泉大特集（楽天トラベルセール）",
-    badge: "お盆・夏休み直前＆先々セール",
-    discountInfo: "最大30%OFF＋プール付き・温泉大浴場宿特集",
-    description: "2026年のお盆旅行・夏休みに絶対行きたい！屋外ナイトプールやウォータースライダー完備のファミリーホテル、絶景露天風呂のある夏休み温泉宿の楽天トラベルセール・特別クーポンをまとめ公開。",
-    targetDays: "お盆・夏休みシーズン限定（楽天 セール トラベル）",
-    highlights: ["子連れファミリーに大人気のプール完備ホテル", "夏休みのナイトプール・ビーチ直結リゾート", "絶景露天風呂・家族風呂のある夏休み温泉宿"],
-    affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Fsummer%2F",
-    imageUrl: "/images/rakuten_summer_sale_banner.png",
+    id: "rakuten-seasonal-deals",
+    title: "秋冬の温泉旅行＆ご当地グルメ応援セール",
+    badge: "最新シーズン限定企画",
+    discountInfo: "早期予約クーポン＆限定タイムセールプラン",
+    description: "秋の紅葉狩りや冬の雪見露天風呂、カニ・ふぐ・地魚などの冬グルメを満喫するための期間限定セール！早期予約でお得なプランが続々登場。",
+    targetDays: "秋冬シーズン限定・順次更新中",
+    highlights: ["全国の人気温泉宿・露天風呂付き客室がお得", "冬の味覚（カニ・寒ブリ・地鶏など）プラン多数", "楽天トラベル限定の直前割・早期割"],
+    affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fcoupon%2F",
+    imageUrl: "/images/travel_hero_onsen.png",
     category: "大型セール"
   },
   {

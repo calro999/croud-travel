@@ -455,12 +455,12 @@ export default function FamilyKanazawaModelCoursePage() {
 
         <div className="pt-2 text-center">
           <a
-            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Fcoupon-week%2F"
+            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fcamp%2F50luxday%2Ftop%2F"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-gradient-to-r from-amber-400 via-orange-400 to-amber-500 text-stone-950 font-black text-sm rounded-2xl shadow-lg hover:shadow-xl hover:brightness-105 transition"
           >
-            <span>🎟️ 楽天トラベルの最新割引クーポンを獲得して金沢宿を予約する</span>
+            <span>🎟️ 楽天トラベルの「5と0のつく日」限定クーポンを獲得して金沢宿を予約する</span>
             <span>→</span>
           </a>
         </div>
