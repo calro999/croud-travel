@@ -32,3 +32,4 @@ hotel-amenity-packing-checklist-hotels-guide
 showcase_hiroshima
 dogo-onsen-main-building-private-bath-hotels-guide
 showcase_okinawa
+obon-wakayama-lastminute-guide
