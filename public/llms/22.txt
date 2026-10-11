@@ -1,4 +1,14 @@
-# 静岡県の宿泊・観光記事（96件）
+# 静岡県の宿泊・観光記事（97件）
+
+## 熱海温泉の冬海上花火大会と熱海梅園の日本一早咲きの梅！オーシャンビュー波音露天風呂と金目鯛煮付け・伊勢海老名宿ガイド
+- 記事: https://croud-travel.pages.dev/posts/atami-onsen-winter-fireworks-early-plum-kinmedai-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/atami-onsen-winter-fireworks-early-plum-kinmedai-guide.md
+- 宿泊施設名: 熱海温泉　三平荘
+- エリア: 熱海
+- 参考価格: ¥17000〜
+- 評価: 4.17
+
+11月〜1月の熱海温泉を徹底ガイド！冬の澄んだ夜空に響く「冬海上花火大会」、1月開幕「日本一早咲きの熱海梅園梅まつり」、樹齢2100年来宮神社の大楠、相模湾を望むオーシャンビュー塩化物泉、秘伝タレの金目鯛姿煮と活伊勢海老会席、昭和倶楽部ほか厳選宿と冬の1泊2日モデルコース。
 
 ## 伊豆・下田温泉で300万本の爪木崎水仙まつりと極上金目鯛煮付けを堪能！冬の南伊豆オーシャンビュー名旅館厳選ガイド
 - 記事: https://croud-travel.pages.dev/posts/shimoda-tsumekizaki-narcissus-kinmedai-winter-onsen-guide/

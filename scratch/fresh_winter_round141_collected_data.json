@@ -1,0 +1,627 @@
+{
+  "theme_1_kinosaki": {
+    "id": "theme_1_kinosaki",
+    "slug": "kinosaki-onsen-matsuba-crab-snow-sotoyu-meguri-guide",
+    "title": "城崎温泉の冬本番・活松葉ガニ会席と雪の柳並木外湯めぐり！七田の外湯巡り手形と玄武洞・出石皿そば名宿ガイド",
+    "prefecture": "兵庫県",
+    "area": "城崎温泉・豊岡",
+    "rakutenKeyword": "城崎温泉",
+    "wikiSpots": [
+      "城崎温泉",
+      "玄武洞",
+      "出石"
+    ],
+    "hotels": [
+      {
+        "hotelNo": 5595,
+        "hotelName": "城崎温泉　しののめ荘",
+        "hotelKanaName": "きのさきおんせん　しののめそう",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5595/5595.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5595/5595_room.jpg",
+        "reviewCount": 126,
+        "reviewAverage": 3.86,
+        "hotelMinCharge": 11900,
+        "address1": "兵庫県",
+        "address2": "豊岡市城崎町湯島757番地",
+        "access": "中国自動車道福崎ICから播但道経由で約90分間です。",
+        "hotelSpecial": "【岩風呂とカニ料理】”但馬”の旬を味わえる自慢の料理と温泉が楽しめる木造三階建ての純和風旅館温泉",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5595%2F5595.html"
+      },
+      {
+        "hotelNo": 14007,
+        "hotelName": "城崎温泉　西村屋ホテル招月庭",
+        "hotelKanaName": "きのさきおんせん　にしむらやほてる　しょうげつてい",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14007/14007.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14007/14007_room.jpg",
+        "reviewCount": 1188,
+        "reviewAverage": 4.7,
+        "hotelMinCharge": 35200,
+        "address1": "兵庫県",
+        "address2": "豊岡市城崎町湯島1016-2",
+        "access": "【電車】JR城崎温泉駅から旅館組合無料乗合バスで5～15分【車】北近畿豊岡自動車道・豊岡出石ICから約18分",
+        "hotelSpecial": "かに・但馬牛など四季折々の味覚と充実したお風呂。五万坪の森林に囲まれ寛ぎのひとときを。無料駐車場有",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14007%2F14007.html"
+      },
+      {
+        "hotelNo": 165044,
+        "hotelName": "城崎温泉　花小路　彩月",
+        "hotelKanaName": "きのさきおんせん　はなこうじ　さいげつ",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/165044/165044.jpg",
+        "roomImageUrl": "",
+        "reviewCount": 229,
+        "reviewAverage": 4.69,
+        "hotelMinCharge": 17600,
+        "address1": "兵庫県",
+        "address2": "豊岡市城崎町湯島108",
+        "access": "ＪＲ　城崎温泉駅より徒歩にて約３分",
+        "hotelSpecial": "プライベート重視が嬉しい♪貸切温泉×個室レストラン／城崎温泉おとな専用湯宿",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F165044%2F165044.html"
+      },
+      {
+        "hotelNo": 28079,
+        "hotelName": "城崎温泉　ときわ別館",
+        "hotelKanaName": "きのさきおんせん　ときわべっかん",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28079/28079.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28079/28079_heya.jpg",
+        "reviewCount": 209,
+        "reviewAverage": 4.69,
+        "hotelMinCharge": 15400,
+        "address1": "兵庫県",
+        "address2": "豊岡市城崎町湯島1013番地",
+        "access": "JR山陰本線「城崎温泉駅」、無料バスで5分 ／北近畿豊岡道「但馬空港IC」より国道312号線、県道3号線経由で約30分。",
+        "hotelSpecial": "夕朝お部屋食・露天風呂付き客室で、静かに籠る休日を。ラウンジでの無料ドリンクサービス有",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28079%2F28079.html"
+      },
+      {
+        "hotelNo": 188143,
+        "hotelName": "城崎温泉　晴嵐亭",
+        "hotelKanaName": "きのさきおんせん　せいらんてい",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/188143/188143.jpg",
+        "roomImageUrl": "",
+        "reviewCount": 0,
+        "reviewAverage": 0,
+        "hotelMinCharge": 7700,
+        "address1": "兵庫県",
+        "address2": "豊岡市城崎町湯島1075",
+        "access": "城崎温泉駅から送迎バスで約8分（徒歩約22分）",
+        "hotelSpecial": "館内はまるでギャラリー！美術の宿「晴嵐亭」静寂に包まれた庭園に鳥たちの声が心地よく響きます。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F188143%2F188143.html"
+      },
+      {
+        "hotelNo": 11351,
+        "hotelName": "城崎温泉　湯楽　Ｙｕｒａｋｕ　Ｋｉｎｏｓａｋｉ　Ｓｐａ＆Ｇａｒｄｅｎｓ",
+        "hotelKanaName": "きのさきおんせん　ゆらく",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/11351/11351.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/11351/11351_room.jpg",
+        "reviewCount": 1057,
+        "reviewAverage": 4.59,
+        "hotelMinCharge": 14080,
+        "address1": "兵庫県",
+        "address2": "豊岡市城崎町湯島844",
+        "access": "城崎温泉駅から徒歩20分『送迎あり』北近畿豊岡道、播但連絡道路、但馬空港ICより→312号線を北上.",
+        "hotelSpecial": "楽天アワード＆マイスター受賞★お料理評価好評◎＆３つのお花・フルーツの無料貸切風呂が大人気",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F11351%2F11351.html"
+      }
+    ],
+    "wikiSpotsData": [
+      {
+        "spotName": "城崎温泉",
+        "wikiTitle": "城崎温泉",
+        "extract": "城崎温泉（きのさきおんせん）は、兵庫県豊岡市城崎町にある温泉。平安時代以前から知られる長い歴史を持つ。江戸時代には「海内第一泉（かいだいだいいちせん）」と呼ばれ、今もその碑が残る。有馬温泉、湯村温泉とともに兵庫県を代表する温泉でもある。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Kinosaki_onsen02_1920.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      },
+      {
+        "spotName": "玄武洞",
+        "wikiTitle": "玄武洞",
+        "extract": "玄武洞（げんぶどう）は、兵庫県豊岡市赤石の円山川東岸にある洞窟・絶壁。国の天然記念物に指定され、山陰海岸国立公園に含まれる。玄武洞のほか、青龍洞、白虎洞、南朱雀洞、北朱雀洞の洞窟が玄武洞公園として整備されている。",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Genbudo_Park_in_Toyooka_Hyogo.JPG/3840px-Genbudo_Park_in_Toyooka_Hyogo.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "spotName": "出石",
+        "wikiTitle": "出石",
+        "extract": "出石（いずし）は、兵庫県豊岡市にある地区で、かつての出石城の城下町。豊岡市出石伝統的建造物群保存地区の名称で国の重要伝統的建造物群保存地区として選定されている。",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/080516_Izushi_Toyooka_Hyogo_pref_Japan01bs5.jpg/3840px-080516_Izushi_Toyooka_Hyogo_pref_Japan01bs5.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      }
+    ]
+  },
+  "theme_2_hanamaki": {
+    "id": "theme_2_hanamaki",
+    "slug": "hanamaki-onsen-kyo-tachiyu-snow-roten-ihatov-guide",
+    "title": "花巻温泉郷の白銀秘湯・名物立湯雪見風呂と前沢牛すき焼き！宮沢賢治イーハトーブ雪景色と賢治記念館を巡る名宿ガイド",
+    "prefecture": "岩手県",
+    "area": "花巻・北上",
+    "rakutenKeyword": "花巻温泉",
+    "wikiSpots": [
+      "花巻温泉郷",
+      "鉛温泉",
+      "宮沢賢治記念館"
+    ],
+    "hotels": [
+      {
+        "hotelNo": 13483,
+        "hotelName": "花巻温泉　ホテル紅葉館",
+        "hotelKanaName": "はなまきおんせん　こうようかん",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13483/13483.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13483/13483_w.jpg",
+        "reviewCount": 3815,
+        "reviewAverage": 4.31,
+        "hotelMinCharge": 11900,
+        "address1": "岩手県",
+        "address2": "花巻市湯本第1地割125",
+        "access": "花巻IC：右折後直進4km（5分）、JR新花巻駅・JR花巻駅：無料送迎バス20分（定時運行・完全予約制）",
+        "hotelSpecial": "日本の宿アワード TOP47＆ブロンズアワード受賞！10種のかに料理と牛ステーキ＆串揚げフェア開催中",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13483%2F13483.html"
+      },
+      {
+        "hotelNo": 13484,
+        "hotelName": "花巻温泉　ホテル千秋閣",
+        "hotelKanaName": "はなまきおんせん　せんしゅうかく",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13484/13484.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13484/13484_w.jpg",
+        "reviewCount": 2187,
+        "reviewAverage": 4.23,
+        "hotelMinCharge": 11900,
+        "address1": "岩手県",
+        "address2": "花巻市湯本第1地割125",
+        "access": "花巻IC：右折後直進4km（5分）、JR新花巻駅・JR花巻駅：無料送迎バス20分（定時運行・完全予約制）",
+        "hotelSpecial": "【10種のかに料理と出来立て牛ステーキ＆串揚げフェア開催中】一人旅からグループまであらゆるニーズに◎",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13484%2F13484.html"
+      },
+      {
+        "hotelNo": 13485,
+        "hotelName": "花巻温泉　ホテル花巻",
+        "hotelKanaName": "はなまきおんせん　はなまき",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13485/13485.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13485/13485_w.jpg",
+        "reviewCount": 1904,
+        "reviewAverage": 4.37,
+        "hotelMinCharge": 11900,
+        "address1": "岩手県",
+        "address2": "花巻市湯本第1地割125",
+        "access": "花巻IC：右折後直進4km（5分）、JR新花巻駅・JR花巻駅：無料送迎バス20分（定時運行・完全予約制）",
+        "hotelSpecial": "【庭園露天風呂「花巻満天の湯」24年11月新設】かに＆牛ステーキと揚げたて天ぷら＆釜めしフェア開催中",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13485%2F13485.html"
+      },
+      {
+        "hotelNo": 13482,
+        "hotelName": "花巻温泉　佳松園",
+        "hotelKanaName": "はなまきおんせん　かしょうえん",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13482/13482.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13482/13482_w.jpg",
+        "reviewCount": 1117,
+        "reviewAverage": 4.69,
+        "hotelMinCharge": 24200,
+        "address1": "岩手県",
+        "address2": "花巻市湯本第1地割125-2",
+        "access": "花巻IC：右折後直進4km（5分）、JR新花巻駅・JR花巻駅：無料送迎バス20分（定時運行・完全予約制）",
+        "hotelSpecial": "とろとろの湯と心に残るおもてなし。特別な日を佳松園で過ごす愉しみ。花巻ICよりわずか5分の別世界。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13482%2F13482.html"
+      },
+      {
+        "hotelNo": 9546,
+        "hotelName": "花巻温泉郷　新鉛温泉　結びの宿　愛隣館",
+        "hotelKanaName": "しんなまりおんせん　むすびのやど　あいりんかん",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9546/9546.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9546/9546_kan.jpg",
+        "reviewCount": 6283,
+        "reviewAverage": 4.3,
+        "hotelMinCharge": 11385,
+        "address1": "岩手県",
+        "address2": "花巻市鉛字西鉛23番地",
+        "access": "送迎バス（要予約）でＪＲ新花巻駅よりで約40～60分・ＪＲ花巻駅より約25～40分、東北道花巻南ＩＣより車で約20分",
+        "hotelSpecial": "楽天トラベル ゴールドアワード・日本の宿TOP47受賞！新お食事処「里山ダイニング」誕生！",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9546%2F9546.html"
+      },
+      {
+        "hotelNo": 10689,
+        "hotelName": "花巻温泉　割烹旅館　廣美亭",
+        "hotelKanaName": "はなまきおんせん　かっぽうりょかん　ひろみてい",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10689/10689.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10689/10689_war.jpg",
+        "reviewCount": 335,
+        "reviewAverage": 4.6,
+        "hotelMinCharge": 15400,
+        "address1": "岩手県",
+        "address2": "花巻市湯本1-88-1",
+        "access": "東北自動車道花巻ＩＣより5分・JR花巻空港駅よりタクシーで15分・東北新幹線新花巻駅より無料送迎バスあり（要プラン確認）",
+        "hotelSpecial": "花巻温泉で唯一の割烹旅館。岩手の旬の素材を使った本格会席料理が自慢の宿。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10689%2F10689.html"
+      }
+    ],
+    "wikiSpotsData": [
+      {
+        "spotName": "花巻温泉郷",
+        "wikiTitle": "花巻温泉郷",
+        "extract": "花巻温泉郷（はなまきおんせんきょう）は、岩手県花巻市（旧国陸奥国、明治以降は陸中国）の西部に位置する温泉の総称（温泉郷）。台川と豊沢川沿いを中心に湧出する12の温泉群である。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/%E8%8A%B1%E5%B7%BB%E6%B8%A9%E6%B3%89_%E3%83%90%E3%83%A9%E5%9C%92%E3%81%A8%E3%83%9B%E3%83%86%E3%83%AB3%E9%A4%A8.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      },
+      {
+        "spotName": "鉛温泉",
+        "wikiTitle": "鉛温泉",
+        "extract": "鉛温泉（なまりおんせん）は、岩手県花巻市（旧国陸奥国、明治以降は陸中国）花巻温泉郷にある温泉。",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Namari_Onsen_Fujisan_Ryokan.jpg/3840px-Namari_Onsen_Fujisan_Ryokan.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "spotName": "宮沢賢治ゆかりのイーハトーブ花巻",
+        "wikiTitle": "宮沢賢治",
+        "extract": "宮沢 賢治 は、日本の詩人、童話作家。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Miyazawa_Kenji.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      }
+    ]
+  },
+  "theme_3_kurokawa": {
+    "id": "theme_3_kurokawa",
+    "slug": "kurokawa-onsen-yuakari-snow-noten-aso-guide",
+    "title": "黒川温泉の冬の幻想「湯あかり」竹灯籠雪景色と入湯手形野天風呂！阿蘇カルデラ絶景と肥後あか牛・馬刺し名宿ガイド",
+    "prefecture": "熊本県",
+    "area": "黒川・杖立・わいた",
+    "rakutenKeyword": "黒川温泉",
+    "wikiSpots": [
+      "黒川温泉",
+      "阿蘇山",
+      "草千里ヶ浜"
+    ],
+    "hotels": [
+      {
+        "hotelNo": 67258,
+        "hotelName": "黒川温泉　旅館　美里",
+        "hotelKanaName": "くろかわおんせん　りょかん　みさと",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67258/67258.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67258/67258_wa.jpg",
+        "reviewCount": 451,
+        "reviewAverage": 4.67,
+        "hotelMinCharge": 16500,
+        "address1": "熊本県",
+        "address2": "阿蘇郡南小国町満願寺6690",
+        "access": "阿蘇駅から車で約４０分／九州横断バスにて約１時間",
+        "hotelSpecial": "黒川唯一の時間によって色が変わる不思議な硫黄泉、露天風呂・内湯・家族湯にてご堪能ください♪",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67258%2F67258.html"
+      },
+      {
+        "hotelNo": 4725,
+        "hotelName": "黒川温泉　夢龍胆",
+        "hotelKanaName": "くろかわおんせん　ゆめりんどう",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4725/4725.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4725/4725_heya1.jpg",
+        "reviewCount": 411,
+        "reviewAverage": 4.31,
+        "hotelMinCharge": 15400,
+        "address1": "熊本県",
+        "address2": "阿蘇郡南小国町満願寺6430-1",
+        "access": "大分道日田ＩＣより車で６０分、黒川温泉バス停より徒歩1分。送迎あり(条件あり)事前予約要。",
+        "hotelSpecial": "黒川温泉中心部に位置し、清流田ノ原川のほとりに面した情緒溢れるお料理自慢の純和風旅館。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4725%2F4725.html"
+      },
+      {
+        "hotelNo": 31796,
+        "hotelName": "黒川温泉　湯峡の響き　優彩",
+        "hotelKanaName": "くろかわおんせん　ゆきょうのひびき　ゆうさい",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31796/31796.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31796/31796_r1.jpg",
+        "reviewCount": 2082,
+        "reviewAverage": 4.29,
+        "hotelMinCharge": 26620,
+        "address1": "熊本県",
+        "address2": "阿蘇郡南小国町満願寺北黒川6554-1",
+        "access": "ＪＲ豊肥線　阿蘇駅より別府行バスで約５０分　黒川温泉下車徒歩１０分",
+        "hotelSpecial": "竹林、渓流、檜の香りに抱かれながら広い浴槽でゆっくりと癒しの時間を。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31796%2F31796.html"
+      },
+      {
+        "hotelNo": 68062,
+        "hotelName": "黒川温泉　夢龍胆　花泊まり",
+        "hotelKanaName": "くろかわおんせん　ゆめりんどう　はなどまり",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68062/68062.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68062/68062_m.jpg",
+        "reviewCount": 243,
+        "reviewAverage": 4.72,
+        "hotelMinCharge": 16500,
+        "address1": "熊本県",
+        "address2": "阿蘇郡南小国町満願寺6564-1",
+        "access": "ＪＲ阿蘇駅から車で約４０分／九州横断バスで約１時間",
+        "hotelSpecial": "【クチコミ4,6】全室渓流沿いの広々和洋室は落ち着きがありリピーター様も多い",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68062%2F68062.html"
+      },
+      {
+        "hotelNo": 56843,
+        "hotelName": "黒川温泉　黒川荘",
+        "hotelKanaName": "くろかわおんせん　くろかわそう",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/56843/56843.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/56843/56843_ky.jpg",
+        "reviewCount": 302,
+        "reviewAverage": 4.78,
+        "hotelMinCharge": 15000,
+        "address1": "熊本県",
+        "address2": "阿蘇郡南小国町満願寺6755-1",
+        "access": "福岡方面より黒川温泉直行バスあり　熊本方面より九州横断バスあり",
+        "hotelSpecial": "◆源泉かけ流し、7つの湯処がある湯めぐりの宿◆食事は完全個室のお食事処でゆっくりとご堪能ください",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F56843%2F56843.html"
+      },
+      {
+        "hotelNo": 163005,
+        "hotelName": "黒川温泉　旅館　壱の井",
+        "hotelKanaName": "くろかわおんせん　りょかん　いちのい",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/163005/163005.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/163005/163005_kan1.jpg",
+        "reviewCount": 111,
+        "reviewAverage": 4.55,
+        "hotelMinCharge": 23100,
+        "address1": "熊本県",
+        "address2": "阿蘇郡南小国町満願寺6630-1",
+        "access": "日田駅または阿蘇駅よりお車、日田ＩＣよりお車にて約１時間",
+        "hotelSpecial": "黒川温泉中心部まで徒歩７分。静かな山間、自然に囲まれた場所に立地。癒しの硫黄温泉をご満喫くださいませ",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F163005%2F163005.html"
+      }
+    ],
+    "wikiSpotsData": [
+      {
+        "spotName": "黒川温泉",
+        "wikiTitle": "黒川温泉",
+        "extract": "黒川温泉（くろかわおんせん）は、熊本県阿蘇郡南小国町にある温泉である。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Kurokawa_Onsen_-%E6%B8%A9%E6%B3%89%E8%A1%97.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      },
+      {
+        "spotName": "阿蘇山",
+        "wikiTitle": "阿蘇山",
+        "extract": "阿蘇山（あそさん、あそざん）は、日本の九州中央部、熊本県阿蘇地方に位置する火山。カルデラを伴う大型の複成火山であり、活火山である。",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/20140516%E9%98%BF%E8%98%87%E5%B1%B1%E5%BA%83%E5%9F%9F.jpg/3840px-20140516%E9%98%BF%E8%98%87%E5%B1%B1%E5%BA%83%E5%9F%9F.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "spotName": "草千里ヶ浜",
+        "wikiTitle": "草千里ヶ浜",
+        "extract": "草千里ヶ浜（くさせんりがはま）または草千里（くさせんり）は、熊本県阿蘇市、阿蘇郡南阿蘇村にある面積78万5,000㎡の草原地帯。阿蘇を代表する観光地にもなっている。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Kusasenrigahama_in_Aso_City_2007_0811_03.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      }
+    ]
+  },
+  "theme_4_unazuki": {
+    "id": "theme_4_unazuki",
+    "slug": "unazuki-onsen-kurobe-gorge-snow-kanburi-crab-guide",
+    "title": "宇奈月温泉の黒部峡谷雪景色と弱アルカリ性美肌の湯！冬の王者「氷見寒ブリ」「紅ズワイガニ」と冬花火を愉しむ名宿ガイド",
+    "prefecture": "富山県",
+    "area": "宇奈月・黒部",
+    "rakutenKeyword": "宇奈月温泉",
+    "wikiSpots": [
+      "宇奈月温泉",
+      "黒部峡谷",
+      "氷見漁港"
+    ],
+    "hotels": [
+      {
+        "hotelNo": 40625,
+        "hotelName": "黒部峡谷・宇奈月温泉　ホテル黒部",
+        "hotelKanaName": "くろべきょうこく・うなづきおんせん　くろべ",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40625/40625.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40625/40625_kya.jpg",
+        "reviewCount": 1253,
+        "reviewAverage": 4.37,
+        "hotelMinCharge": 8800,
+        "address1": "富山県",
+        "address2": "黒部市宇奈月温泉７番地",
+        "access": "北陸新幹線黒部宇奈月温泉駅から富山地鉄乗り換え25分。 宇奈月温泉駅から歩10分／北陸道 黒部ＩＣから約20分。",
+        "hotelSpecial": "『宇奈月温泉随一の眺望』四季折々の地元食材と透明な美肌湯を堪能",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40625%2F40625.html"
+      },
+      {
+        "hotelNo": 39383,
+        "hotelName": "人気の露天風呂客室と富山の旬菜美味　宇奈月温泉サン柳亭",
+        "hotelKanaName": "にんきのろてんぶろきゃくしつととやまのしゅんさいびみ　うなづきおんせん　さんやなぎてい",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/39383/39383.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/39383/39383_a.jpg",
+        "reviewCount": 646,
+        "reviewAverage": 4.68,
+        "hotelMinCharge": 22300,
+        "address1": "富山県",
+        "address2": "黒部市宇奈月温泉1397-2",
+        "access": "富山地方鉄道　宇奈月温泉駅から送迎車あり",
+        "hotelSpecial": "令和5年3月オープン☆川側特別室　宇奈月の山々と眼下に清流黒部川　貸切岩盤浴や貸切露天風呂も好評！",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F39383%2F39383.html"
+      },
+      {
+        "hotelNo": 4804,
+        "hotelName": "宇奈月温泉の老舗旅館　延対寺荘",
+        "hotelKanaName": "うなづきおんせんのしにせりょかん　えんたいじそう",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4804/4804.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4804/4804_take.jpg",
+        "reviewCount": 1593,
+        "reviewAverage": 4.3,
+        "hotelMinCharge": 16500,
+        "address1": "富山県",
+        "address2": "黒部市宇奈月温泉53",
+        "access": "北陸自動車道黒部 Ｉ．Ｃより２０分。富山地方鉄道「宇奈月温泉駅」より徒歩５分。",
+        "hotelSpecial": "温泉街でも最も眺望の良い場所に立地し、源泉１００％の加温・加水無しの湯がお楽しみいただけます。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4804%2F4804.html"
+      },
+      {
+        "hotelNo": 10634,
+        "hotelName": "ＴＯＧＥＮ　黒部　宇奈月温泉",
+        "hotelKanaName": "とうげん　くろべ　うなづきおんせん",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10634/10634.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10634/10634_rm.jpg",
+        "reviewCount": 1178,
+        "reviewAverage": 4.42,
+        "hotelMinCharge": 25300,
+        "address1": "富山県",
+        "address2": "黒部市宇奈月温泉22-1",
+        "access": "富山地方鉄道「宇奈月温泉駅」より徒歩５分。北陸HW黒部ＩＣより２０分。立山・黒部アルペンルート立山駅まで約８０分。",
+        "hotelSpecial": "黒部峡谷や立山黒部アルペンルートの観光の拠点にぴったり！黒部川の眺望抜群♪貸切露天風呂の宿",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10634%2F10634.html"
+      },
+      {
+        "hotelNo": 184485,
+        "hotelName": "グランヴィリオホテル宇奈月温泉－ルートインホテルズ－",
+        "hotelKanaName": "ぐらんヴぃりおほてるうなづきおんせん",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184485/184485.jpg",
+        "roomImageUrl": "",
+        "reviewCount": 546,
+        "reviewAverage": 4.63,
+        "hotelMinCharge": 11800,
+        "address1": "富山県",
+        "address2": "黒部市宇奈月温泉7-26",
+        "access": "富山地方鉄道 宇奈月温泉駅より 徒歩5分/北陸道 黒部ICより 車で約20分",
+        "hotelSpecial": "2022年9月28日(水)OPEN！天然温泉大浴場を備えたリゾートホテルで癒しのひとときを",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F184485%2F184485.html"
+      },
+      {
+        "hotelNo": 10719,
+        "hotelName": "宇奈月温泉　延楽",
+        "hotelKanaName": "うなづきおんせん　えんらく",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10719/10719.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10719/10719_war.jpg",
+        "reviewCount": 554,
+        "reviewAverage": 4.57,
+        "hotelMinCharge": 31900,
+        "address1": "富山県",
+        "address2": "黒部市宇奈月温泉347-1",
+        "access": "富山地方鉄道「宇奈月温泉駅」より徒歩3分 / 北陸自動車道 黒部ICより約２０分",
+        "hotelSpecial": "季節のお料理と樹齢四百年の総檜露天風呂。露天風呂付き客室でゆったり自分時間。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10719%2F10719.html"
+      }
+    ],
+    "wikiSpotsData": [
+      {
+        "spotName": "宇奈月温泉",
+        "wikiTitle": "宇奈月温泉",
+        "extract": "宇奈月温泉（うなづきおんせん）は、富山県黒部市にある温泉。黒部川の電源開発を背景として1923年（大正12年）11月22日に開湯された温泉地で、黒部川の河岸段丘面（標高約200メートル）に位置する。黒部川の渓谷沿いなどに旅館や保養所が立ち並び、峡谷美を愛でる黒部峡谷鉄道のトロッコ観光の拠点でもある。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Unaduki_Onsens.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      },
+      {
+        "spotName": "黒部峡谷",
+        "wikiTitle": "黒部峡谷",
+        "extract": "黒部峡谷（くろべきょうこく）は、富山県黒部市、黒部川中流 - 上流にある峡谷（V字谷）。立山連峰と後立山連峰の間を分けるように北上する黒部川が花崗岩質の岩石を下刻して形成した日本一深い急峻な谷である。中部山岳国立公園に含まれており、国の特別天然記念物（天然保護区域）及び特別名勝に指定されている。清津渓谷、大杉谷とともに日本三大渓谷に選定され、また日本の秘境百選の一つにも挙げられている。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/S-ji-kyo_in_Kurobe_Gorge.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      },
+      {
+        "spotName": "氷見漁港",
+        "wikiTitle": "氷見漁港",
+        "extract": "氷見漁港（ひみぎょこう）は、富山県氷見市にある第3種漁港である。漁港管理者は富山県。漁港面積は約35万 m2（うち泊地面積は約14万 m2）。",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Himi_port.jpg/3840px-Himi_port.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      }
+    ]
+  },
+  "theme_5_atami": {
+    "id": "theme_5_atami",
+    "slug": "atami-onsen-winter-fireworks-early-plum-kinmedai-guide",
+    "title": "熱海温泉の冬海上花火大会と熱海梅園の日本一早咲きの梅！オーシャンビュー波音露天風呂と金目鯛煮付け・伊勢海老名宿ガイド",
+    "prefecture": "静岡県",
+    "area": "熱海",
+    "rakutenKeyword": "熱海温泉",
+    "wikiSpots": [
+      "熱海温泉",
+      "熱海梅園",
+      "來宮神社"
+    ],
+    "hotels": [
+      {
+        "hotelNo": 108115,
+        "hotelName": "熱海温泉　伊東園ホテル熱海館",
+        "hotelKanaName": "あたみおんせん　いとうえんほてるあたみかん",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108115/108115.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108115/108115_ru.jpg",
+        "reviewCount": 2836,
+        "reviewAverage": 3.6,
+        "hotelMinCharge": 6248,
+        "address1": "静岡県",
+        "address2": "熱海市田原本町4-16",
+        "access": "熱海駅より徒歩にて２分",
+        "hotelSpecial": "ＪＲ熱海駅より徒歩１分。ホテル直下より汲み上げられる自家源泉がお楽しみ頂けます。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108115%2F108115.html"
+      },
+      {
+        "hotelNo": 38267,
+        "hotelName": "熱海温泉　三平荘",
+        "hotelKanaName": "あたみおんせん　さんぺいそう",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38267/38267.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38267/38267_fur.jpg",
+        "reviewCount": 169,
+        "reviewAverage": 4.17,
+        "hotelMinCharge": 17000,
+        "address1": "静岡県",
+        "address2": "熱海市水口町1-7",
+        "access": "熱海駅より車で5分、徒歩15分、熱海サンビーチ徒歩10分",
+        "hotelSpecial": "熱海温泉の中心街に佇む、お部屋食が魅力の全11室の閑静な湯宿。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38267%2F38267.html"
+      },
+      {
+        "hotelNo": 9557,
+        "hotelName": "熱海温泉　金城館（伊東園ホテルズ）",
+        "hotelKanaName": "あたみおんせん　きんじょうかん",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9557/9557.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9557/9557_heya.jpg",
+        "reviewCount": 730,
+        "reviewAverage": 3.97,
+        "hotelMinCharge": 8448,
+        "address1": "静岡県",
+        "address2": "熱海市昭和町10-33",
+        "access": "ＪＲ東海道線「熱海駅」車10分",
+        "hotelSpecial": "金鯱輝く大浴場と露天風呂、美しい日本庭園を満喫。夕食バイキングはアルコールも飲み放題付き",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9557%2F9557.html"
+      },
+      {
+        "hotelNo": 15680,
+        "hotelName": "熱海温泉　ホテル　サンミ倶楽部",
+        "hotelKanaName": "あたみおんせん　さんみくらぶ",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15680/15680.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15680/15680_r.jpg",
+        "reviewCount": 986,
+        "reviewAverage": 3.88,
+        "hotelMinCharge": 6352,
+        "address1": "静岡県",
+        "address2": "熱海市和田浜南町5-8",
+        "access": "JR東海道線『熱海駅』より東海バス『マリンスパあたみ』下車　徒歩1分",
+        "hotelSpecial": "オーシャンビュー客室に海一望の温泉も人気！館内には24 Hコンビニ有り♪",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15680%2F15680.html"
+      },
+      {
+        "hotelNo": 147964,
+        "hotelName": "熱海温泉　昭和倶楽部",
+        "hotelKanaName": "あたみおんせん　しょうわくらぶ",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147964/147964.jpg",
+        "roomImageUrl": "",
+        "reviewCount": 371,
+        "reviewAverage": 4.52,
+        "hotelMinCharge": 9350,
+        "address1": "静岡県",
+        "address2": "熱海市昭和町17-31",
+        "access": "熱海駅よりお車にて約７分",
+        "hotelSpecial": "全7室の大人の隠れ宿。60平米以上室のゆったりとお過ごしいただける和洋室。天然温泉とお料理自慢の宿",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147964%2F147964.html"
+      },
+      {
+        "hotelNo": 44112,
+        "hotelName": "熱海温泉　アタミシーズンホテル（伊東園ホテルズ）",
+        "hotelKanaName": "あたみおんせん　あたみしーずんほ���る",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/44112/44112.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/44112/44112_da.jpg",
+        "reviewCount": 822,
+        "reviewAverage": 3.87,
+        "hotelMinCharge": 10098,
+        "address1": "静岡県",
+        "address2": "熱海市咲見町6-1",
+        "access": "JR  熱海駅より車で５分、徒歩１０分",
+        "hotelSpecial": "ゆったりとした時間の流れ、熱海の風、洗練された大人の空間。 ご夕食時間90分飲み放題付",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F44112%2F44112.html"
+      }
+    ],
+    "wikiSpotsData": [
+      {
+        "spotName": "熱海温泉",
+        "wikiTitle": "熱海温泉",
+        "extract": "熱海温泉（あたみおんせん）は、静岡県熱海市にある温泉。伊豆湯河原温泉、伊豆山温泉、南熱海温泉とともに熱海の四大温泉の一つである。また、日本の三大温泉の一つとも言われる。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Japan_Izu_peninsula_topographic_map.webp?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      },
+      {
+        "spotName": "熱海梅園",
+        "wikiTitle": "熱海梅園",
+        "extract": "熱海梅園（あたみばいえん）は、静岡県熱海市にある市営の庭園。日本で最も早咲きの梅、そして最も遅い紅葉と言われている。60品種・469本の梅をはじめとする各種植物が植えられており、熱海市の観光名所の1つとなっている。",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Atami_baien_-_March_7_2021_various_14_34_49_754000.jpeg/1920px-Atami_baien_-_March_7_2021_various_14_34_49_754000.jpeg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "spotName": "来宮神社（大楠パワースポット）",
+        "wikiTitle": "来宮神社",
+        "extract": "來宮神社（きのみやじんじゃ）は、静岡県熱海市にある神社である。社格は旧村社。",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Kinomiya_Shrine_Haiden.jpg/3840px-Kinomiya_Shrine_Haiden.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      }
+    ]
+  }
+}

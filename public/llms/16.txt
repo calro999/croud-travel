@@ -1,4 +1,14 @@
-# 富山県の宿泊・観光記事（39件）
+# 富山県の宿泊・観光記事（40件）
+
+## 宇奈月温泉の黒部峡谷雪景色と弱アルカリ性美肌の湯！冬の王者「氷見寒ブリ」「紅ズワイガニ」と冬花火を愉しむ名宿ガイド
+- 記事: https://croud-travel.pages.dev/posts/unazuki-onsen-kurobe-gorge-snow-kanburi-crab-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/unazuki-onsen-kurobe-gorge-snow-kanburi-crab-guide.md
+- 宿泊施設名: 黒部峡谷・宇奈月温泉　ホテル黒部
+- エリア: 宇奈月・黒部
+- 参考価格: ¥8800〜
+- 評価: 4.37
+
+11月〜1月の宇奈月温泉を徹底取材！黒部峡谷の白銀絶景と日本屈指の透明度を誇る「つべつべ美肌の湯」、富山湾の冬の王者「氷見の寒ブリ」しゃぶしゃぶ、新湊港紅ズワイガニ会席、宇奈月温泉冬物語の雪上花火、サン柳亭ほか厳選宿と冬の1泊2日モデルコース。
 
 ## 富山県：温泉街の湯めぐりと風情を満喫する旅！厳選宿3選とモデルコース
 - 記事: https://croud-travel.pages.dev/posts/16406/

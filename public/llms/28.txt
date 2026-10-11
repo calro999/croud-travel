@@ -1,4 +1,14 @@
-# 兵庫県の宿泊・観光記事（51件）
+# 兵庫県の宿泊・観光記事（52件）
+
+## 城崎温泉の冬本番・活松葉ガニ会席と雪の柳並木外湯めぐり！七田の外湯巡り手形と玄武洞・出石皿そば名宿ガイド
+- 記事: https://croud-travel.pages.dev/posts/kinosaki-onsen-matsuba-crab-snow-sotoyu-meguri-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/kinosaki-onsen-matsuba-crab-snow-sotoyu-meguri-guide.md
+- 宿泊施設名: 城崎温泉　西村屋ホテル招月庭
+- エリア: 城崎温泉・豊岡
+- 参考価格: ¥35200〜
+- 評価: 4.7
+
+11月〜1月の城崎温泉を徹底解説！11月6日解禁の津居山港タグ付き活松葉ガニフルコース、大谿川の雪舞う柳並木と下駄で巡る七つの外湯めぐり、玄武洞の柱状節理、出石皿そば、名門西村屋ホテル招月庭ほか厳選宿と冬の1泊2日モデルコース。
 
 ## 兵庫県：ホテルオークラ神戸宿泊ガイド！神戸ポートタワーのとなり、35階建て・アクセス＆魅力ルポ
 - 記事: https://croud-travel.pages.dev/posts/1648/

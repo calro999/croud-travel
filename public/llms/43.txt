@@ -1,4 +1,14 @@
-# 熊本県の宿泊・観光記事（69件）
+# 熊本県の宿泊・観光記事（70件）
+
+## 黒川温泉の冬の幻想「湯あかり」竹灯籠雪景色と入湯手形野天風呂！阿蘇カルデラ絶景と肥後あか牛・馬刺し名宿ガイド
+- 記事: https://croud-travel.pages.dev/posts/kurokawa-onsen-yuakari-snow-noten-aso-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/kurokawa-onsen-yuakari-snow-noten-aso-guide.md
+- 宿泊施設名: 黒川温泉　旅館　美里
+- エリア: 黒川・杖立・わいた
+- 参考価格: ¥16500〜
+- 評価: 4.67
+
+12月〜1月の黒川温泉を徹底特集！田の原川沿いに数百の竹毬灯籠が浮かぶ冬の風物詩「湯あかり」、小国杉の入湯手形で巡る個性派野天風呂、雪の阿蘇草千里ケ浜パノラマ、肥後あか牛溶岩焼きと本場特選馬刺し会席、旅館美里ほか厳選宿と冬の1泊2日モデルコース。
 
 ## 【熊本】山鹿温泉 清流荘宿泊記｜極上の創作会席と名湯に浸かる贅沢な休日
 - 記事: https://croud-travel.pages.dev/posts/16334/

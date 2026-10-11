@@ -1,4 +1,14 @@
-# 岩手県の宿泊・観光記事（50件）
+# 岩手県の宿泊・観光記事（51件）
+
+## 花巻温泉郷の白銀秘湯・名物立湯雪見風呂と前沢牛すき焼き！宮沢賢治イーハトーブ雪景色と賢治記念館を巡る名宿ガイド
+- 記事: https://croud-travel.pages.dev/posts/hanamaki-onsen-kyo-tachiyu-snow-roten-ihatov-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/hanamaki-onsen-kyo-tachiyu-snow-roten-ihatov-guide.md
+- 宿泊施設名: 花巻温泉　佳松園
+- エリア: 花巻・北上
+- 参考価格: ¥24200〜
+- 評価: 4.69
+
+11月〜1月の花巻温泉郷を完全網羅！奥羽山脈の白銀渓谷に湧く12の名湯、鉛温泉「白猿の湯（日本一深い自噴立湯）」、大沢温泉の雪見露天、宮沢賢治イーハトーブ記念館・童話村、前沢牛すき焼きと白金豚鍋、佳松園ほか厳選宿と冬の1泊2日モデルコース。
 
 ## おすすめ宿：鶯宿温泉 ゆとりろ雫石の魅力と見どころをご紹介
 - 記事: https://croud-travel.pages.dev/posts/198934/
