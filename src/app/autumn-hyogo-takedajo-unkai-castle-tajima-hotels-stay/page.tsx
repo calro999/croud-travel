@@ -68,8 +68,8 @@ export default function TakedaCastleAutumnPage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://upload.wikimedia.org/wikipedia/commons/2/26/%E7%AB%B9%E7%94%B0%E5%9F%8E.JPG"
                 alt="天空の城・国史跡 竹田城跡と秋の雲海"
@@ -81,7 +81,7 @@ export default function TakedaCastleAutumnPage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">天空の城・国史跡 竹田城跡と秋の雲海の歴史と見どころ</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">竹田城（たけだじょう）は、現在の兵庫県朝来市和田山町竹田にあった日本の城（山城）。 縄張りが虎が臥せているように見えることから、別名虎臥城（とらふすじょう、こがじょう）。国の史跡に指定されている。また城下から遥か高く見上げる山の頂に位置し、しばしば円山川の川霧により霞むことから、「天空の城」や「日本のマチュピチュ」とも呼ばれる。雲海に浮かび上がる古城の累々たる石垣群の威容は、名物ともなっている。 東に立雲峡を望む標高353.7mの古城山（虎臥山）の山頂に築かれ、縄張りは南北約400m、東西約100m。天守台をほぼ中央に配置し、本丸、二の丸、三の丸、南二の丸が連郭式に配され、北千畳部と南千畳を双翼とし、天守台北西部に花屋敷と称する一郭がある。廃城から約400年を経ているが、石垣がほぼそのままの状態で残っており、現存する山城として日本屈指の規模となっている。 朝来市は2012年4月に竹田城の管理・宣伝をする「竹田城課」を新設した。（2017年4月に観光交流課と文化財課に業務を移管され、現在は竹田城課は存在しない。）</p>
               <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
@@ -100,7 +100,7 @@ export default function TakedaCastleAutumnPage() {
 
           <div className="space-y-8">
 
-            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col md:flex-row hover:shadow-md transition">
+            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col hover:shadow-md transition">
               <div className="md:w-5/12 relative h-56 md:h-auto min-h-[220px]">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/153666/153666.jpg"
@@ -147,7 +147,7 @@ export default function TakedaCastleAutumnPage() {
               </div>
             </div>
 
-            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col md:flex-row hover:shadow-md transition">
+            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col hover:shadow-md transition">
               <div className="md:w-5/12 relative h-56 md:h-auto min-h-[220px]">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/145001/145001.jpg"
@@ -194,7 +194,7 @@ export default function TakedaCastleAutumnPage() {
               </div>
             </div>
 
-            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col md:flex-row hover:shadow-md transition">
+            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col hover:shadow-md transition">
               <div className="md:w-5/12 relative h-56 md:h-auto min-h-[220px]">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/40571/40571.jpg"
@@ -241,7 +241,7 @@ export default function TakedaCastleAutumnPage() {
               </div>
             </div>
 
-            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col md:flex-row hover:shadow-md transition">
+            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col hover:shadow-md transition">
               <div className="md:w-5/12 relative h-56 md:h-auto min-h-[220px]">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/8537/8537.jpg"
@@ -288,7 +288,7 @@ export default function TakedaCastleAutumnPage() {
               </div>
             </div>
 
-            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col md:flex-row hover:shadow-md transition">
+            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col hover:shadow-md transition">
               <div className="md:w-5/12 relative h-56 md:h-auto min-h-[220px]">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/139826/139826.jpg"

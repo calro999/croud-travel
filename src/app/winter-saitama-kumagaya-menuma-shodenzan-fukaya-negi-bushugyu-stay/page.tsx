@@ -321,8 +321,8 @@ export default function Page() {
               <MapPin className="w-4 h-4" />
               <span>近隣名所アーカイブ＆公式百科事典連携</span>
             </div>
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-              <div className="md:col-span-5 relative h-56 rounded-xl overflow-hidden bg-stone-800">
+            <div className="flex flex-col gap-6">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-800">
                 <img
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Menuma_Shouden_Kangi-in_201810a.jpg/1280px-Menuma_Shouden_Kangi-in_201810a.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="国宝・妻沼聖天山歓喜院（埼玉の日光東照宮・精緻な彫刻美と新春縁結び開運）"
@@ -330,7 +330,7 @@ export default function Page() {
                   loading="lazy"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <div>
                   <span className="text-[11px] text-cyan-300 font-mono">Spot Spotlight</span>
                   <h3 className="text-lg sm:text-xl font-bold text-white">
@@ -392,8 +392,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/67407/67407.jpg"
                       alt="四季の湯温泉　ホテルヘリテイジ（森林公園・熊谷）"
@@ -401,7 +401,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       熊谷の南部に位置する武蔵丘陵の豊かな森の中に広がる、本格的な天然温泉リゾートホテル。最大の魅力は、敷地内から滾々と湧き出る自家源泉を使用した「四季の湯温泉」。広々とした内湯はもちろん、水着を着用して家族やカップルで楽しめる巨大な滝の露天風呂やジャグジー、薬湯など多彩な湯巡りが楽しめます。冬の夕食には、地元埼玉の滋味あふれる旬野菜や霜降りの国産牛を使った特選会席を用意。都心からわずか1時間とは思えない深い森の静寂の中で、冷えた身体を芯から解きほぐす極上のリフレッシュが叶います。
                     </p>
@@ -459,8 +459,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/72808/72808.jpg"
                       alt="キングアンバサダーホテル熊谷"
@@ -468,7 +468,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       新幹線が停車するJR熊谷駅北口から徒歩わずか3分という抜群のアクセスを誇る上質なシティホテル。洗練されたアールデコ調の館内は落ち着いた雰囲気に包まれ、全室に導入されたシモンズ製ベッドが長旅の疲れを優しく癒やしてくれます。妻沼聖天山への直通バスが発着する駅前広場にも近く、国宝参拝や埼玉北部の史跡巡りのベースキャンプとして最適。朝食には地元埼玉県産の新鮮卵や採れたて野菜を贅沢に使った和洋ビュッフェが並び、心地よい旅の朝を演出してくれます。
                     </p>
@@ -526,8 +526,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/151166/151166.jpg"
                       alt="国済寺天然温泉　ハナホテル深谷＆スパ"
@@ -535,7 +535,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       歴史ある国済寺の境内に隣接し、地下深くから汲み上げた良質な天然温泉スパを併設した人気の温泉ホテル。泉質は肌をしっとりと包み込む弱アルカリ性の美肌温泉で、内湯や露天風呂、サウナを完備しており、宿泊者は滞在中何度でも温泉を満喫できます。客室は機能的かつ温かみのあるインテリアで統一され、旅の快適性を追求。朝食には地元深谷の名産品を取り入れた身体に優しいバイキングが無料で提供され、冬の深谷観光や渋沢栄一生家巡りの拠点として圧倒的な支持を集めています。
                     </p>
@@ -593,8 +593,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/162616/162616.jpg"
                       alt="花園天然温泉　ハナホテル　花園インター"
@@ -602,7 +602,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       関越自動車道花園ICから車でわずか2分という好立地にあり、深谷市街や熊谷はもちろん、秩父・長瀞方面へのドライブ旅行にも絶好のハブとなる天然温泉ホテル。自家源泉の天然温泉大浴場では、冬のドライブで凝り固まった筋肉をじんわりと温める至福の湯浴みが楽しめます。周辺には大型道の駅「はなぞの」やスイーツの名店が点在し、冬の深谷ねぎや地酒のお買い物を楽しむのにも最適。清潔で広々としたベッドと充実のアメニティが揃い、快適な埼玉冬旅を約束してくれます。
                     </p>
@@ -660,8 +660,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/167186/167186.jpg"
                       alt="行田天然温泉　ハナホテル行田"
@@ -669,7 +669,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       熊谷と深谷に隣接し、映画『のぼうの城』の舞台として名高い忍城や、レトロな足袋蔵が立ち並ぶ行田市に位置する天然温泉ホテル。館内には自家源泉を引いた天然温泉大浴場が備わり、弱アルカリ性の柔らかな湯が冷えた身体を心地よく包み込みます。妻沼聖天山や深谷の渋沢栄一記念館へも車で20分圏内とアクセス良好。歴史情緒漂う城下町をのんびりと散策した後は、温かな温泉とふかふかのベッドで心安らぐ夜を過ごせます。
                     </p>
@@ -708,7 +708,7 @@ export default function Page() {
 
         {/* ふるさと納税セクション */}
         <section className="max-w-4xl mx-auto px-4 mb-12">
-          <div className="bg-gradient-to-br from-amber-500/10 via-amber-500/5 to-transparent rounded-2xl p-6 sm:p-8 border border-amber-500/20 shadow-sm flex flex-col md:flex-row items-center justify-between gap-6">
+          <div className="bg-gradient-to-br from-amber-500/10 via-amber-500/5 to-transparent rounded-2xl p-6 sm:p-8 border border-amber-500/20 shadow-sm flex flex-col items-center justify-between gap-6">
             <div className="space-y-2 text-center md:text-left">
               <span className="bg-amber-600 text-white text-[10px] font-bold px-2 py-0.5 rounded-full uppercase">
                 Furusato Tax

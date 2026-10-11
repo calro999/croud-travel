@@ -146,7 +146,7 @@ export default function FurusatoFeaturePage() {
                 key="40019"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/40019/40019.jpg"
                     alt="越後湯沢温泉　松泉閣花月"
@@ -207,7 +207,7 @@ export default function FurusatoFeaturePage() {
                 key="14667"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/14667/14667.jpg"
                     alt="赤湯温泉　大正ロマン香る癒しの宿　丹波館"
@@ -253,7 +253,7 @@ export default function FurusatoFeaturePage() {
                 key="56950"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/56950/56950.jpg"
                     alt="赤湯温泉　美術館のような宿　旅館やまと屋"
@@ -314,7 +314,7 @@ export default function FurusatoFeaturePage() {
                 key="184634"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/184634/184634.jpg"
                     alt="奏　伏見稲荷大社前"

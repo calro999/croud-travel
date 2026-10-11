@@ -68,8 +68,8 @@ export default function IkahoOnsenAutumnPage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Ikaho_Onsen_03.jpg/1280px-Ikaho_Onsen_03.jpg"
                 alt="名湯・伊香保温泉と湯元河鹿橋の紅葉"
@@ -81,7 +81,7 @@ export default function IkahoOnsenAutumnPage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">名湯・伊香保温泉と湯元河鹿橋の紅葉の歴史と見どころ</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">伊香保温泉（いかほおんせん）は、群馬県渋川市伊香保町にある温泉。草津温泉と並んで県を代表する名湯で、上毛かるたでは「伊香保温泉 日本の名湯」と歌われている。 「伊香保温泉」として地域団体商標に登録されている。</p>
               <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
@@ -100,7 +100,7 @@ export default function IkahoOnsenAutumnPage() {
 
           <div className="space-y-8">
 
-            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col md:flex-row hover:shadow-md transition">
+            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col hover:shadow-md transition">
               <div className="md:w-5/12 relative h-56 md:h-auto min-h-[220px]">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/70871/70871.jpg"
@@ -147,7 +147,7 @@ export default function IkahoOnsenAutumnPage() {
               </div>
             </div>
 
-            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col md:flex-row hover:shadow-md transition">
+            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col hover:shadow-md transition">
               <div className="md:w-5/12 relative h-56 md:h-auto min-h-[220px]">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/10737/10737.jpg"
@@ -194,7 +194,7 @@ export default function IkahoOnsenAutumnPage() {
               </div>
             </div>
 
-            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col md:flex-row hover:shadow-md transition">
+            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col hover:shadow-md transition">
               <div className="md:w-5/12 relative h-56 md:h-auto min-h-[220px]">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/19271/19271.jpg"
@@ -241,7 +241,7 @@ export default function IkahoOnsenAutumnPage() {
               </div>
             </div>
 
-            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col md:flex-row hover:shadow-md transition">
+            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col hover:shadow-md transition">
               <div className="md:w-5/12 relative h-56 md:h-auto min-h-[220px]">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/7170/7170.jpg"
@@ -288,7 +288,7 @@ export default function IkahoOnsenAutumnPage() {
               </div>
             </div>
 
-            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col md:flex-row hover:shadow-md transition">
+            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col hover:shadow-md transition">
               <div className="md:w-5/12 relative h-56 md:h-auto min-h-[220px]">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/80783/80783.jpg"

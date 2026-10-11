@@ -60,8 +60,8 @@ export default function AutumnBudgetFukuiStationHotelsPage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Fukui_Castle01st3200.jpg/1280px-Fukui_Castle01st3200.jpg"
                 alt="福井城本丸石垣と水濠"
@@ -73,7 +73,7 @@ export default function AutumnBudgetFukuiStationHotelsPage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">家康の次男・結城秀康が築いた名城・巨大な内堀と御廊下橋</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
                 福井城（ふくいじょう）は、福井県福井市大手にある平城。本丸と二の丸の縄張りは徳川家康によるものとされ、初代藩主・結城秀康が築城しました。壮大な水濠と打込接ぎの石垣が今も残り、復元された屋根付きの木橋「御廊下橋」が秋の木々と見事な調和を見せます。
@@ -100,8 +100,8 @@ export default function AutumnBudgetFukuiStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（城址水濠ビュー）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/8373/8373.jpg"
                   alt="ホテルフクイキャッスル"
@@ -110,7 +110,7 @@ export default function AutumnBudgetFukuiStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   ホテルフクイキャッスル
                 </h3>
@@ -155,8 +155,8 @@ export default function AutumnBudgetFukuiStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（駅東口すぐ）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/1999/1999.jpg"
                   alt="ホテル京福 福井駅前"
@@ -165,7 +165,7 @@ export default function AutumnBudgetFukuiStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   ホテル京福　福井駅前
                 </h3>
@@ -210,8 +210,8 @@ export default function AutumnBudgetFukuiStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（クチコミ高評価）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/160794/160794.jpg"
                   alt="９ＳＴＡＹ福井駅前"
@@ -220,7 +220,7 @@ export default function AutumnBudgetFukuiStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   ９ＳＴＡＹ福井駅前
                 </h3>
@@ -265,8 +265,8 @@ export default function AutumnBudgetFukuiStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（上質シティホテル）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/181073/181073.jpg"
                   alt="ホテルフジタ福井"
@@ -275,7 +275,7 @@ export default function AutumnBudgetFukuiStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   ホテルフジタ福井
                 </h3>
@@ -320,8 +320,8 @@ export default function AutumnBudgetFukuiStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（駅西口すぐ）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/68558/68558.jpg"
                   alt="東横ＩＮＮ福井駅前"
@@ -330,7 +330,7 @@ export default function AutumnBudgetFukuiStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   東横ＩＮＮ福井駅前
                 </h3>

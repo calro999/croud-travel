@@ -60,8 +60,8 @@ export default function AutumnBudgetHotelsPage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">巨大地下空間・日本遺産ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Oya-saikutsujo-ato-2.jpg/1280px-Oya-saikutsujo-ato-2.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                 alt="大谷石の採掘が生んだ地下の巨大神殿：大谷資料館"
@@ -73,7 +73,7 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">広さ2万平方メートルの地下採掘場跡・映画ロケ地としても名高い神秘の空間</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
                 大谷資料館（おおやしりょうかん）は、栃木県宇都宮市大谷町にある大谷石（おおやいし）の採掘場跡を公開する資料館。地下約30mに広がる採掘跡は広さ約2万平方メートルにおよび、まるで古代ローマの地下神殿のような荘厳で幻想的な光景が広がります。坑内は年間を通じて約8℃前後のひんやりとした冷気に包まれ、数々の映画やミュージックビデオのロケ地としても著名です。
@@ -100,8 +100,8 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（5729件のクチコミ）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/37936/37936.jpg"
                   alt="リッチモンドホテル宇都宮駅前"
@@ -110,7 +110,7 @@ export default function AutumnBudgetHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   リッチモンドホテル宇都宮駅前
                 </h3>
@@ -156,8 +156,8 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（2226件のクチコミ）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/30679/30679.jpg"
                   alt="アパホテル〈宇都宮駅前〉"
@@ -166,7 +166,7 @@ export default function AutumnBudgetHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   アパホテル〈宇都宮駅前〉
                 </h3>
@@ -212,8 +212,8 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（3005件のクチコミ）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/108189/108189.jpg"
                   alt="リッチモンドホテル宇都宮駅前アネックス"
@@ -222,7 +222,7 @@ export default function AutumnBudgetHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   リッチモンドホテル宇都宮駅前アネックス
                 </h3>
@@ -268,8 +268,8 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（231件のクチコミ）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/199220/199220.jpg"
                   alt="ほてる寛楽プレミア　宇都宮駅東口（ＯＰＥＮ）"
@@ -278,7 +278,7 @@ export default function AutumnBudgetHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   ほてる寛楽プレミア　宇都宮駅東口（ＯＰＥＮ）
                 </h3>
@@ -324,8 +324,8 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（1177件のクチコミ）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/108346/108346.jpg"
                   alt="東横ＩＮＮ宇都宮駅前１"
@@ -334,7 +334,7 @@ export default function AutumnBudgetHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   東横ＩＮＮ宇都宮駅前１
                 </h3>

@@ -139,7 +139,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-6">
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/104702/104702.jpg"
                   alt="天然温泉関門の湯　ドーミーインＰＲＥＭＩＵＭ下関（ドーミーイン・御宿野乃　ホテルズグループ） 外観・館内"
@@ -147,7 +147,7 @@ export default function ArticlePage() {
                   loading="lazy"
                 />
               </div>
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/104702/104702_kya.jpg"
                   alt="天然温泉関門の湯　ドーミーインＰＲＥＭＩＵＭ下関（ドーミーイン・御宿野乃　ホテルズグループ） 客室・お風呂"
@@ -208,7 +208,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-6">
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/178561/178561.jpg"
                   alt="ヴィアイン下関＜維新の湯＞（ＪＲ西日本グループ） 外観・館内"
@@ -216,7 +216,7 @@ export default function ArticlePage() {
                   loading="lazy"
                 />
               </div>
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/178561/178561_kan1.jpg"
                   alt="ヴィアイン下関＜維新の湯＞（ＪＲ西日本グループ） 客室・お風呂"
@@ -277,7 +277,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-6">
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/104619/104619.jpg"
                   alt="下関ステーションホテル 外観・館内"
@@ -285,7 +285,7 @@ export default function ArticlePage() {
                   loading="lazy"
                 />
               </div>
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/104619/104619.jpg"
                   alt="下関ステーションホテル 客室・お風呂"

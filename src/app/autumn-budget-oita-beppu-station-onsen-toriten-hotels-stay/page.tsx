@@ -60,8 +60,8 @@ export default function AutumnBudgetHotelsPage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">おんせん県おおいた名湯ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Beppu_Tower02s4s3200.jpg/1280px-Beppu_Tower02s4s3200.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                 alt="日本一の湧出量を誇る温泉都：別府温泉（別府八湯）"
@@ -73,7 +73,7 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">千余年の歴史を紡ぐ源泉・立ち上る湯けむりと豊かな泉質</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
                 別府温泉（べっぷおんせん）は、大分県別府市内各地に湧出する温泉の総称。源泉数・湧出量ともに日本一を誇り、浜脇、別府、観海寺、堀田、明礬、鉄輪、柴石、亀川の「別府八湯」で構成されます。古くは『豊後国風土記』にも記載され、湯治場として発展。秋には涼やかな風の中で立ち上る湯けむりと温かい湯が格別の心地よさを届けてくれます。
@@ -100,8 +100,8 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（1268件のクチコミ）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/180258/180258.jpg"
                   alt="天然温泉　鉄輪の湯　スーパーホテル別府駅前"
@@ -110,7 +110,7 @@ export default function AutumnBudgetHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   天然温泉　鉄輪の湯　スーパーホテル別府駅前
                 </h3>
@@ -156,8 +156,8 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（2294件のクチコミ）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/778/778.jpg"
                   alt="別府駅西口前　ホテル　フジヨシ"
@@ -166,7 +166,7 @@ export default function AutumnBudgetHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   別府駅西口前　ホテル　フジヨシ
                 </h3>
@@ -212,8 +212,8 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（548件のクチコミ）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/183506/183506.jpg"
                   alt="アパホテル〈別府駅前〉"
@@ -222,7 +222,7 @@ export default function AutumnBudgetHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   アパホテル〈別府駅前〉
                 </h3>
@@ -268,8 +268,8 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（3409件のクチコミ）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/9401/9401.jpg"
                   alt="別府駅前　ホテルシーウェーブ別府"
@@ -278,7 +278,7 @@ export default function AutumnBudgetHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   別府駅前　ホテルシーウェーブ別府
                 </h3>
@@ -324,8 +324,8 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（327件のクチコミ）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/167883/167883.jpg"
                   alt="ＨＯＴＥＬ　ＡＺ　大分別府駅前店"
@@ -334,7 +334,7 @@ export default function AutumnBudgetHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   ＨＯＴＥＬ　ＡＺ　大分別府駅前店
                 </h3>

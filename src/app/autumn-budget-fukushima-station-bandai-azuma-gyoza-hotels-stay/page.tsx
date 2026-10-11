@@ -60,8 +60,8 @@ export default function AutumnBudgetHotelsPage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">日本百名山・火山景観ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Fukushima%2C_mount_Issaikyouzan_2008_1.JPG/1280px-Fukushima%2C_mount_Issaikyouzan_2008_1.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                 alt="魔女の瞳を抱く吾妻連峰の名峰：一切経山（吾妻山）"
@@ -73,7 +73,7 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">磐梯吾妻スカイライン浄土平・コバルトブルーの火口湖と錦秋パノラマ</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
                 一切経山（いっさいきょうざん）は、福島県と山形県の県境に連なる吾妻連峰の主峰の一つ（標高1,949m）。火山活動が生み出した荒涼とした浄土平から登山道が整備され、山頂直下の火口湖「五色沼」は太陽光によってエメラルドグリーンからコバルトブルーへと色を変えることから「魔女の瞳」と呼ばれます。秋には磐梯吾妻スカイライン沿いの山肌が黄色や赤に染まり、天上の紅葉絶景が広がります。
@@ -100,8 +100,8 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（4442件のクチコミ）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/67908/67908.jpg"
                   alt="リッチモンドホテル福島駅前"
@@ -110,7 +110,7 @@ export default function AutumnBudgetHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   リッチモンドホテル福島駅前
                 </h3>
@@ -156,8 +156,8 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（1106件のクチコミ）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/14047/14047.jpg"
                   alt="アパホテル〈福島駅東〉"
@@ -166,7 +166,7 @@ export default function AutumnBudgetHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   アパホテル〈福島駅東〉
                 </h3>
@@ -212,8 +212,8 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（2179件のクチコミ）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/160664/160664.jpg"
                   alt="アパホテル〈福島駅前〉"
@@ -222,7 +222,7 @@ export default function AutumnBudgetHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   アパホテル〈福島駅前〉
                 </h3>
@@ -268,8 +268,8 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（188件のクチコミ）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/181826/181826.jpg"
                   alt="福島駅東口から徒歩３分　ホテル板倉"
@@ -278,7 +278,7 @@ export default function AutumnBudgetHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   福島駅東口から徒歩３分　ホテル板倉
                 </h3>
@@ -324,8 +324,8 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（1799件のクチコミ）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/111180/111180.jpg"
                   alt="ホテルクラウンヒルズ福島駅前（ＢＢＨホテルグループ）"
@@ -334,7 +334,7 @@ export default function AutumnBudgetHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   ホテルクラウンヒルズ福島駅前（ＢＢＨホテルグループ）
                 </h3>

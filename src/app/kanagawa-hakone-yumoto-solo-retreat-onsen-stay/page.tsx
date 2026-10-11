@@ -127,7 +127,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-6">
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100 sm:col-span-2">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 sm:col-span-2">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/187989/187989.jpg"
                   alt="箱根湯本　温泉旅館「大和館」 外観・館内"
@@ -183,7 +183,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-6">
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100 sm:col-span-2">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 sm:col-span-2">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/9669/9669.jpg"
                   alt="箱根湯本温泉　箱根パークス吉野 外観・館内"
@@ -238,7 +238,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-6">
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100 sm:col-span-2">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 sm:col-span-2">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/165731/165731.jpg"
                   alt="箱根湯本温泉　離れ山家荘 外観・館内"

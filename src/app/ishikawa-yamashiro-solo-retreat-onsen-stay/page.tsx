@@ -127,7 +127,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-6">
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100 sm:col-span-2">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 sm:col-span-2">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/7955/7955.jpg"
                   alt="山代温泉　料理自慢の宿　ホテルききょう 外観・館内"
@@ -182,7 +182,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-6">
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100 sm:col-span-2">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 sm:col-span-2">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/10624/10624.jpg"
                   alt="山代温泉　葉渡莉（はとり） 外観・館内"
@@ -238,7 +238,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-6">
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100 sm:col-span-2">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 sm:col-span-2">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/6191/6191.jpg"
                   alt="山代温泉　瑠璃光 外観・館内"

@@ -305,9 +305,9 @@ export default function HokkaidoShikaribetsuNukabiraWinterPage() {
           <div className="space-y-8">
             {hotelsData.map((h) => (
               <article key={h.id} className="bg-white rounded-2xl border border-slate-200/80 shadow-sm overflow-hidden hover:shadow-md transition-shadow">
-                <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 p-6 sm:p-8">
-                  <div className="lg:col-span-5 space-y-3">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-slate-100">
+                <div className="flex flex-col p-5 sm:p-7 md:p-8 gap-5">
+                  <div className="w-full space-y-3">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                       <img 
                         src={h.img} 
                         alt={h.name}
@@ -331,7 +331,7 @@ export default function HokkaidoShikaribetsuNukabiraWinterPage() {
                     </div>
                   </div>
 
-                  <div className="lg:col-span-7 flex flex-col justify-between space-y-4">
+                  <div className="w-full flex flex-col justify-between space-y-4">
                     <div>
                       <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-sky-600 transition-colors">
                         <a href={h.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2">

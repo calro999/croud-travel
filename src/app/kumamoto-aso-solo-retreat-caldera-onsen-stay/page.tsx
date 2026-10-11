@@ -127,7 +127,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-6">
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100 sm:col-span-2">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 sm:col-span-2">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/144461/144461.jpg"
                   alt="南阿蘇久木野温泉　旅館　心乃間間 外観・館内"
@@ -183,7 +183,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-6">
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100 sm:col-span-2">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 sm:col-span-2">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/31687/31687.jpg"
                   alt="蘇る山と故郷　阿蘇内牧温泉　蘇山郷 外観・館内"
@@ -239,7 +239,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-6">
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100 sm:col-span-2">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 sm:col-span-2">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/38542/38542.jpg"
                   alt="阿蘇内牧温泉　御料理旅館　親和苑 外観・館内"

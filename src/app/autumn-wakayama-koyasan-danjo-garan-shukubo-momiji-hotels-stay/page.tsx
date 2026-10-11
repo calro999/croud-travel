@@ -68,8 +68,8 @@ export default function KoyasanShukuboAutumnPage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Danjogaran_Koyasan12n3200.jpg/1280px-Danjogaran_Koyasan12n3200.jpg"
                 alt="世界遺産・霊峰高野山と壇上伽藍の紅葉"
@@ -81,7 +81,7 @@ export default function KoyasanShukuboAutumnPage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">世界遺産・霊峰高野山と壇上伽藍の紅葉の歴史と見どころ</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">高野山（こうやさん）は、和歌山県北部、和歌山県伊都郡高野町にある地域の名称である。周囲を1,000m級の山々に囲まれた標高約800mの山上盆地に町並みが広がる。 「高野"山"」という名ではあるものの、地理学上の山ではない。高野山内は「一山境内地」といわれ高野山全域が寺の境内地とされ、境内の中に発展した町であり、元来は高野山全体と金剛峯寺は同義である。そのため高野山内の歴史、伽藍、文化財関連については、金剛峯寺で詳述している。 平安時代の弘仁7年（816年）に嵯峨天皇から空海（弘法大師）が下賜され、修禅の道場として開いた日本仏教における聖地の1つである。 現在は「壇上伽藍」と呼ばれる根本道場を中心とする宗教都市を形成している。山内の寺院数は高野山真言宗総本山金剛峯寺（山号は高野山）、大本山宝寿院のほか、子院が117か寺に及び、その約半数が宿坊を兼ねている。 2004年（平成16年）7月7日、高野山町石道と金剛峯寺境内（6地区）、建造物12件が熊野、吉野・大峯と共に「紀伊山地の霊場と参詣道」としてユネスコの世界遺産に登録された。さらに2016年（平成28年）10月24日、高野参詣道（町石道を含み登録名称変更）として黒河道、女人道、京大坂道不動坂、三谷坂（丹生酒殿神社含む）が世界遺産に追加登録された。</p>
               <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
@@ -100,7 +100,7 @@ export default function KoyasanShukuboAutumnPage() {
 
           <div className="space-y-8">
 
-            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col md:flex-row hover:shadow-md transition">
+            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col hover:shadow-md transition">
               <div className="md:w-5/12 relative h-56 md:h-auto min-h-[220px]">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/84804/84804.jpg"
@@ -147,7 +147,7 @@ export default function KoyasanShukuboAutumnPage() {
               </div>
             </div>
 
-            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col md:flex-row hover:shadow-md transition">
+            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col hover:shadow-md transition">
               <div className="md:w-5/12 relative h-56 md:h-auto min-h-[220px]">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/107848/107848.jpg"
@@ -194,7 +194,7 @@ export default function KoyasanShukuboAutumnPage() {
               </div>
             </div>
 
-            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col md:flex-row hover:shadow-md transition">
+            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col hover:shadow-md transition">
               <div className="md:w-5/12 relative h-56 md:h-auto min-h-[220px]">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/53353/53353.jpg"
@@ -241,7 +241,7 @@ export default function KoyasanShukuboAutumnPage() {
               </div>
             </div>
 
-            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col md:flex-row hover:shadow-md transition">
+            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col hover:shadow-md transition">
               <div className="md:w-5/12 relative h-56 md:h-auto min-h-[220px]">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/13751/13751.jpg"
@@ -288,7 +288,7 @@ export default function KoyasanShukuboAutumnPage() {
               </div>
             </div>
 
-            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col md:flex-row hover:shadow-md transition">
+            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col hover:shadow-md transition">
               <div className="md:w-5/12 relative h-56 md:h-auto min-h-[220px]">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/14119/14119.jpg"

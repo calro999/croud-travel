@@ -60,8 +60,8 @@ export default function AutumnBudgetFeaturePage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/%E5%94%90%E6%88%B8%E5%B8%82%E5%A0%B4202309.jpg/1280px-%E5%94%90%E6%88%B8%E5%B8%82%E5%A0%B4202309.jpg"
                 alt="関門の台所・唐戸市場と関門海峡"
@@ -73,7 +73,7 @@ export default function AutumnBudgetFeaturePage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">関門の台所・唐戸市場と関門海峡の歴史と見どころ</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">唐戸市場（からといちば）は、山口県下関市唐戸町にある地方卸売市場。</p>
               <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
@@ -111,8 +111,8 @@ export default function AutumnBudgetFeaturePage() {
                 下関駅近く
               </span>
             </div>
-            <div className="grid md:grid-cols-12 gap-6 items-center pt-2">
-              <div className="md:col-span-5 relative h-48 md:h-56 rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+            <div className="flex flex-col gap-5 items-center pt-2">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/178561/178561.jpg"
                   alt="ヴィアイン下関＜維新の湯＞（ＪＲ西日本グループ）"
@@ -121,7 +121,7 @@ export default function AutumnBudgetFeaturePage() {
                   sizes="(max-width: 768px) 100vw, 350px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   下関駅から徒歩わずか2分という好立地にありながら、館内に天然温泉「維新の湯」を完備。温かい天然温泉で旅の疲れをほぐし、清潔感あふれる客室で快適に過ごせます。ビジネス・観光どちらにも大人気。
                 </p>
@@ -170,8 +170,8 @@ export default function AutumnBudgetFeaturePage() {
                 下関駅近く
               </span>
             </div>
-            <div className="grid md:grid-cols-12 gap-6 items-center pt-2">
-              <div className="md:col-span-5 relative h-48 md:h-56 rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+            <div className="flex flex-col gap-5 items-center pt-2">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/7013/7013.jpg"
                   alt="下関グランドホテル"
@@ -180,7 +180,7 @@ export default function AutumnBudgetFeaturePage() {
                   sizes="(max-width: 768px) 100vw, 350px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   関門海峡と唐戸市場のすぐそばに位置し、客室の窓から海峡を行き交う船を眺められる絶好のロケーション。市場での朝食や海響館、門司港へのフェリー乗り場も徒歩圏内で、贅沢な立地ながらお手頃プランが魅力。
                 </p>
@@ -229,8 +229,8 @@ export default function AutumnBudgetFeaturePage() {
                 下関駅近く
               </span>
             </div>
-            <div className="grid md:grid-cols-12 gap-6 items-center pt-2">
-              <div className="md:col-span-5 relative h-48 md:h-56 rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+            <div className="flex flex-col gap-5 items-center pt-2">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/9134/9134.jpg"
                   alt="プラザホテル下関"
@@ -239,7 +239,7 @@ export default function AutumnBudgetFeaturePage() {
                   sizes="(max-width: 768px) 100vw, 350px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   下関のランドマーク「海峡ゆめタワー」に隣接し、市内観光や唐戸市場へのアクセスが良好。ゆとりある客室と丁寧なサービス、リーズナブルな価格設定で高いリピート率を誇るシティホテルです。
                 </p>
@@ -288,8 +288,8 @@ export default function AutumnBudgetFeaturePage() {
                 下関駅近く
               </span>
             </div>
-            <div className="grid md:grid-cols-12 gap-6 items-center pt-2">
-              <div className="md:col-span-5 relative h-48 md:h-56 rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+            <div className="flex flex-col gap-5 items-center pt-2">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/15701/15701.jpg"
                   alt="スカイハートホテル下関"
@@ -298,7 +298,7 @@ export default function AutumnBudgetFeaturePage() {
                   sizes="(max-width: 768px) 100vw, 350px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   下関駅東口からアクセス良好で、観光やビジネスに使い勝手抜群。充実したアメニティや無料朝食サービスが好評で、手頃な価格で安心して宿泊できる王道の高コスパビジネスホテルです。
                 </p>
@@ -347,8 +347,8 @@ export default function AutumnBudgetFeaturePage() {
                 下関駅近く
               </span>
             </div>
-            <div className="grid md:grid-cols-12 gap-6 items-center pt-2">
-              <div className="md:col-span-5 relative h-48 md:h-56 rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+            <div className="flex flex-col gap-5 items-center pt-2">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/4831/4831.jpg"
                   alt="ＫＯＫＯ　ＳＴＡＹ　下関"
@@ -357,7 +357,7 @@ export default function AutumnBudgetFeaturePage() {
                   sizes="(max-width: 768px) 100vw, 350px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   下関駅徒歩圏内に位置し、1泊2,000円台という圧倒的なリーズナブルさを誇るスマートホテル。シンプルで無駄のない客室設計と快眠ベッドで、滞在費を極限まで抑えてグルメに集中したい方に最適です。
                 </p>

@@ -187,7 +187,7 @@ export default function FukuokaDepartureDaytripBusTourPage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「呼子活イカ・由布院温泉街散策・阿蘇カルデラ絶景の格安ツアー比較。」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
       />
         {/* 🌟 Official Banner Section */}
-        <section className="bg-gradient-to-r from-teal-700 via-teal-600 to-cyan-700 rounded-3xl p-6 md:p-8 text-white shadow-xl shadow-teal-950/10 flex flex-col md:flex-row items-center justify-between gap-6 border border-teal-400/30">
+        <section className="bg-gradient-to-r from-teal-700 via-teal-600 to-cyan-700 rounded-3xl p-6 md:p-8 text-white shadow-xl shadow-teal-950/10 flex flex-col items-center justify-between gap-6 border border-teal-400/30">
           <div className="space-y-2 text-center md:text-left">
             <span className="inline-block px-3 py-0.5 rounded-full bg-white/20 text-white text-xs font-extrabold uppercase tracking-wider">
               Rakuten Travel Official

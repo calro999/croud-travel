@@ -60,8 +60,8 @@ export default function AutumnBudgetOtaruHotelsPage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Otaru_Hokkaido_canal.JPG/1280px-Otaru_Hokkaido_canal.JPG"
                 alt="小樽運河と石造倉庫群"
@@ -73,7 +73,7 @@ export default function AutumnBudgetOtaruHotelsPage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">北海道開拓の玄関口・緩やかに湾曲する歴史の運河</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
                 小樽運河（おたるうんが）は、1923年（大正12年）に完成した運河。海岸の沖合埋立て方式で築かれたため、直線ではなく緩やかに湾曲しているのが特徴です。文化庁選定日本遺産「北海道の心臓と呼ばれたまち・小樽」を構成し、秋の澄んだ空気の中でガス燈が照らす石造倉庫群の水面反射が旅情を誘います。
@@ -100,8 +100,8 @@ export default function AutumnBudgetOtaruHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（クチコミ高評価）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/178636/178636.jpg"
                   alt="コージーイン小樽"
@@ -110,7 +110,7 @@ export default function AutumnBudgetOtaruHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   コージーイン小樽　Ｃｏｚｙ　Ｉｎｎ　ＯＴＡＲＵ
                 </h3>
@@ -155,8 +155,8 @@ export default function AutumnBudgetOtaruHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（大浴場完備）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/166148/166148.jpg"
                   alt="ホテル・トリフィート小樽運河"
@@ -165,7 +165,7 @@ export default function AutumnBudgetOtaruHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   ホテル・トリフィート小樽運河
                 </h3>
@@ -210,8 +210,8 @@ export default function AutumnBudgetOtaruHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（運河目の前）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/3119/3119.jpg"
                   alt="ホテルノルド小樽"
@@ -220,7 +220,7 @@ export default function AutumnBudgetOtaruHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   ホテルノルド小樽
                 </h3>
@@ -265,8 +265,8 @@ export default function AutumnBudgetOtaruHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（展望天然温泉）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/5170/5170.jpg"
                   alt="ホテルソニア小樽"
@@ -275,7 +275,7 @@ export default function AutumnBudgetOtaruHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   ホテルソニア小樽
                 </h3>
@@ -320,8 +320,8 @@ export default function AutumnBudgetOtaruHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（絶景インフィニティ温泉）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/196182/196182.jpg"
                   alt="小樽グランベルホテル"
@@ -330,7 +330,7 @@ export default function AutumnBudgetOtaruHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   小樽グランベルホテル
                 </h3>

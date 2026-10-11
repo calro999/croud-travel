@@ -472,8 +472,8 @@ export default function TendoWinterPage() {
                 key={hotel.id}
                 className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 hover:shadow-md transition duration-300"
               >
-                <div className="grid grid-cols-1 lg:grid-cols-12 gap-0">
-                  <div className="lg:col-span-5 relative min-h-[280px] lg:min-h-full bg-stone-900">
+                <div className="flex flex-col">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] overflow-hidden">
                     <Image
                       src={hotel.img}
                       alt={hotel.name}
@@ -484,7 +484,7 @@ export default function TendoWinterPage() {
                       第{hotel.id}位 厳選宿
                     </div>
                   </div>
-                  <div className="lg:col-span-7 p-6 sm:p-8 flex flex-col justify-between space-y-6">
+                  <div className="w-full p-5 sm:p-7 flex flex-col justify-between space-y-4">
                     <div className="space-y-4">
                       <div className="flex flex-wrap items-center justify-between gap-2">
                         <div className="flex items-center gap-1.5 text-amber-500">

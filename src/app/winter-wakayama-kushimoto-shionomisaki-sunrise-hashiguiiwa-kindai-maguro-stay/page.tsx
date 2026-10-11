@@ -406,9 +406,9 @@ export default function WakayamaKushimotoWinterPage() {
             {hotelsData.map((hotel) => (
               <div 
                 key={hotel.id} 
-                className="bg-white rounded-2xl border border-slate-200/90 shadow-sm overflow-hidden hover:shadow-md transition duration-300 flex flex-col md:flex-row"
+                className="bg-white rounded-2xl border border-slate-200/90 shadow-sm overflow-hidden hover:shadow-md transition duration-300 flex flex-col"
               >
-                <div className="md:w-5/12 relative aspect-[4/3] md:aspect-auto">
+                <div className="md:w-5/12 relative aspect-[16/9] sm:aspect-[21/9] md:aspect-auto">
                   <img 
                     src={hotel.img} 
                     alt={hotel.name}

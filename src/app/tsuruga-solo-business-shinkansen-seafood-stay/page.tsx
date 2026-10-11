@@ -139,7 +139,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-6">
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/70274/70274.jpg"
                   alt="ホテルルートイン敦賀駅前 外観・館内"
@@ -147,7 +147,7 @@ export default function ArticlePage() {
                   loading="lazy"
                 />
               </div>
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/70274/70274_gr.jpg"
                   alt="ホテルルートイン敦賀駅前 客室・お風呂"
@@ -208,7 +208,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-6">
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/128494/128494.jpg"
                   alt="敦賀マンテンホテル駅前（マンテンホテルグループ） 外観・館内"
@@ -216,7 +216,7 @@ export default function ArticlePage() {
                   loading="lazy"
                 />
               </div>
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/128494/128494.jpg"
                   alt="敦賀マンテンホテル駅前（マンテンホテルグループ） 客室・お風呂"
@@ -277,7 +277,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-6">
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/184200/184200.jpg"
                   alt="ホテルグランビナリオＴＳＵＲＵＧＡ 外観・館内"
@@ -285,7 +285,7 @@ export default function ArticlePage() {
                   loading="lazy"
                 />
               </div>
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/184200/184200.jpg"
                   alt="ホテルグランビナリオＴＳＵＲＵＧＡ 客室・お風呂"

@@ -60,8 +60,8 @@ export default function AutumnBudgetHotelsPage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">水戸藩特別史跡ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Kodokan%2C_Mito%2C_2020.jpg/1280px-Kodokan%2C_Mito%2C_2020.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                 alt="水戸徳川家の精神を宿す：旧弘道館（日本遺産・国指定特別史跡）"
@@ -73,7 +73,7 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">徳川斉昭公が創設した日本最大の藩校・歴史薫る正庁と秋の庭園</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
                 弘道館（こうどうかん）は、江戸時代後期に水戸藩第9代藩主・徳川斉昭によって開設された藩校。文武両道の修練場として敷地内に正庁や至善堂、武術場などが整備され、最後の将軍・徳川慶喜公が大政奉還後に恭順謹慎した場所としても知られます。秋には重厚な茅葺き屋根の正門や庭園が落ち着いた秋色に染まり、水戸駅北口から徒歩約8分で歴史探訪が楽しめます。
@@ -100,8 +100,8 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（720件のクチコミ）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/151370/151370.jpg"
                   alt="アパホテル〈水戸駅前〉"
@@ -110,7 +110,7 @@ export default function AutumnBudgetHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   アパホテル〈水戸駅前〉
                 </h3>
@@ -156,8 +156,8 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（2600件のクチコミ）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/2736/2736.jpg"
                   alt="アパホテル〈水戸駅北〉"
@@ -166,7 +166,7 @@ export default function AutumnBudgetHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   アパホテル〈水戸駅北〉
                 </h3>
@@ -212,8 +212,8 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（573件のクチコミ）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/52989/52989.jpg"
                   alt="東横ＩＮＮ水戸駅南口"
@@ -222,7 +222,7 @@ export default function AutumnBudgetHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   東横ＩＮＮ水戸駅南口
                 </h3>
@@ -268,8 +268,8 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（429件のクチコミ）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/196793/196793.jpg"
                   alt="コンフォートホテル水戸"
@@ -278,7 +278,7 @@ export default function AutumnBudgetHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   コンフォートホテル水戸
                 </h3>
@@ -324,8 +324,8 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（2217件のクチコミ）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/28434/28434.jpg"
                   alt="スマイルホテル水戸"
@@ -334,7 +334,7 @@ export default function AutumnBudgetHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   スマイルホテル水戸
                 </h3>

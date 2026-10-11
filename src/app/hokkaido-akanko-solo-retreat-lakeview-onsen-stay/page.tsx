@@ -127,7 +127,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-6">
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100 sm:col-span-2">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 sm:col-span-2">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/37362/37362.jpg"
                   alt="阿寒湖温泉　あかん鶴雅別荘鄙の座 外観・館内"
@@ -183,7 +183,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-6">
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100 sm:col-span-2">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 sm:col-span-2">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/40045/40045.jpg"
                   alt="あかん遊久の里鶴雅 外観・館内"
@@ -240,7 +240,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-6">
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100 sm:col-span-2">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 sm:col-span-2">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/41841/41841.jpg"
                   alt="ＴＨＥ　ＦＯＲＥＳＴ阿寒　ＴＳＵＲＵＧＡＲＥＳＯＲＴ（旧：阿寒の森鶴雅リゾート花ゆう香） 外観・館内"

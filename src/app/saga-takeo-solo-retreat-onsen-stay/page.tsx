@@ -127,7 +127,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-6">
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100 sm:col-span-2">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 sm:col-span-2">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/13417/13417.jpg"
                   alt="武雄温泉　御船山楽園ホテル 外観・館内"
@@ -182,7 +182,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-6">
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100 sm:col-span-2">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 sm:col-span-2">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/9074/9074.jpg"
                   alt="セントラルホテル武雄温泉駅前 外観・館内"
@@ -237,7 +237,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-6">
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100 sm:col-span-2">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 sm:col-span-2">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/184906/184906.jpg"
                   alt="武雄温泉　星の華 外観・館内"

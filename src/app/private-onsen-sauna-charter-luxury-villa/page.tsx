@@ -175,7 +175,7 @@ export default function Page() {
                 </div>
 
                 <div className="p-6 grid grid-cols-1 md:grid-cols-3 gap-6 items-center">
-                  <div className="md:col-span-1 aspect-[4/3] rounded-2xl overflow-hidden bg-slate-100 relative">
+                  <div className="md:col-span-1 aspect-[16/9] sm:aspect-[21/9] rounded-2xl overflow-hidden bg-slate-100 relative">
                     {h.hotelImageUrl ? (
                       <img
                         src={h.hotelImageUrl}

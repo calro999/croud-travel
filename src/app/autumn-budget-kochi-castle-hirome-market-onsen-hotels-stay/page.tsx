@@ -68,8 +68,8 @@ export default function KochiBudgetAutumnPage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Kochi_Castle%2C_Outemon-3.jpg/1280px-Kochi_Castle%2C_Outemon-3.jpg"
                 alt="南海道随一の名城・高知城追手門と天守閣"
@@ -81,7 +81,7 @@ export default function KochiBudgetAutumnPage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">南海道随一の名城・高知城追手門と天守閣の歴史と見どころ</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">高知城（こうちじょう）は、高知県高知市にある日本の城。瓦や壁の色が鷹の羽の色に似ているとして、鷹城（たかじょう）とも呼ばれる。 江戸時代には土佐藩の藩庁が二の丸御殿に置かれた。江戸時代に築かれた天守が残る現存天守十二城の一つであるほか、本丸御殿や追手門等が現存する。城跡は国の史跡に指定されている。日本100名城に選定されている。四国八十八景27番。</p>
               <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
@@ -100,7 +100,7 @@ export default function KochiBudgetAutumnPage() {
 
           <div className="space-y-8">
 
-            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col md:flex-row hover:shadow-md transition">
+            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col hover:shadow-md transition">
               <div className="md:w-5/12 relative h-56 md:h-auto min-h-[220px]">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/8682/8682.jpg"
@@ -147,7 +147,7 @@ export default function KochiBudgetAutumnPage() {
               </div>
             </div>
 
-            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col md:flex-row hover:shadow-md transition">
+            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col hover:shadow-md transition">
               <div className="md:w-5/12 relative h-56 md:h-auto min-h-[220px]">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/182859/182859.jpg"
@@ -194,7 +194,7 @@ export default function KochiBudgetAutumnPage() {
               </div>
             </div>
 
-            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col md:flex-row hover:shadow-md transition">
+            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col hover:shadow-md transition">
               <div className="md:w-5/12 relative h-56 md:h-auto min-h-[220px]">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/16087/16087.jpg"
@@ -241,7 +241,7 @@ export default function KochiBudgetAutumnPage() {
               </div>
             </div>
 
-            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col md:flex-row hover:shadow-md transition">
+            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col hover:shadow-md transition">
               <div className="md:w-5/12 relative h-56 md:h-auto min-h-[220px]">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/44261/44261.jpg"
@@ -288,7 +288,7 @@ export default function KochiBudgetAutumnPage() {
               </div>
             </div>
 
-            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col md:flex-row hover:shadow-md transition">
+            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col hover:shadow-md transition">
               <div className="md:w-5/12 relative h-56 md:h-auto min-h-[220px]">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/40671/40671.jpg"

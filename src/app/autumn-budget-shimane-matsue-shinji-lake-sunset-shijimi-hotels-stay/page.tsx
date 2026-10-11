@@ -60,8 +60,8 @@ export default function AutumnBudgetFeaturePage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://upload.wikimedia.org/wikipedia/commons/1/13/Lake_shinji_landsat.jpg"
                 alt="日本の夕陽百選・宍道湖の夕暮れと嫁ヶ島"
@@ -73,7 +73,7 @@ export default function AutumnBudgetFeaturePage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">日本の夕陽百選・宍道湖の夕暮れと嫁ヶ島の歴史と見どころ</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">宍道湖（しんじこ）は、島根県松江市と出雲市にまたがる湖。一級水系の斐伊川(ひいかわ)の一部である。 湖沼水質保全特別措置法指定湖沼。日本百景。主に大橋川・中海・境水道を介して日本海と接続し、淡水湖ではなく汽水湖となっている（平均塩分濃度は海水の約1/10である）。河川整備計画等では宍道湖合流点より上流側の区間を斐伊川本川と称する。斐伊川本川下流部から境水道まではほぼ水位差がなく潮位も影響を受けている。ヤマトシジミの一大産地として知られる。</p>
               <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
@@ -111,8 +111,8 @@ export default function AutumnBudgetFeaturePage() {
                 松江駅近く
               </span>
             </div>
-            <div className="grid md:grid-cols-12 gap-6 items-center pt-2">
-              <div className="md:col-span-5 relative h-48 md:h-56 rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+            <div className="flex flex-col gap-5 items-center pt-2">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/5005/5005.jpg"
                   alt="松江しんじ湖温泉　ニューアーバンホテル本館・別館"
@@ -121,7 +121,7 @@ export default function AutumnBudgetFeaturePage() {
                   sizes="(max-width: 768px) 100vw, 350px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   宍道湖の湖畔に建ち、展望大浴場やレストランから宍道湖の絶景を望める最高のロケーション。館内には天然温泉の大浴場があり、夕暮れ時の入浴はまさに至福。湖畔の散策や松江城観光の拠点に最適です。
                 </p>
@@ -170,8 +170,8 @@ export default function AutumnBudgetFeaturePage() {
                 松江駅近く
               </span>
             </div>
-            <div className="grid md:grid-cols-12 gap-6 items-center pt-2">
-              <div className="md:col-span-5 relative h-48 md:h-56 rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+            <div className="flex flex-col gap-5 items-center pt-2">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/529/529.jpg"
                   alt="松江エクセルホテル東急"
@@ -180,7 +180,7 @@ export default function AutumnBudgetFeaturePage() {
                   sizes="(max-width: 768px) 100vw, 350px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   JR松江駅の目の前という抜群の好立地を誇る上質シティホテル。洗練された客室空間と山陰の味覚を取り入れた評判のレストランを備え、駅近の利便性と上質な滞在をリーズナブルに両立できます。
                 </p>
@@ -229,8 +229,8 @@ export default function AutumnBudgetFeaturePage() {
                 松江駅近く
               </span>
             </div>
-            <div className="grid md:grid-cols-12 gap-6 items-center pt-2">
-              <div className="md:col-span-5 relative h-48 md:h-56 rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+            <div className="flex flex-col gap-5 items-center pt-2">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/177606/177606.jpg"
                   alt="松江アーバンホテルキュービックルーム"
@@ -239,7 +239,7 @@ export default function AutumnBudgetFeaturePage() {
                   sizes="(max-width: 768px) 100vw, 350px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   松江駅から徒歩ですぐの好立地にあり、プライベート空間が確保された清潔なキュービックルーム。リーズナブルな価格設定で出雲・松江観光の拠点として高い支持を集める穴場の高コスパ宿です。
                 </p>
@@ -288,8 +288,8 @@ export default function AutumnBudgetFeaturePage() {
                 松江駅近く
               </span>
             </div>
-            <div className="grid md:grid-cols-12 gap-6 items-center pt-2">
-              <div className="md:col-span-5 relative h-48 md:h-56 rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+            <div className="flex flex-col gap-5 items-center pt-2">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/816/816.jpg"
                   alt="全室源泉温泉かけ流し　松江シティホテル別館"
@@ -298,7 +298,7 @@ export default function AutumnBudgetFeaturePage() {
                   sizes="(max-width: 768px) 100vw, 350px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   全客室に天然温泉が引かれており、お部屋のバスルームで24時間源泉掛け流しの湯を独り占めできる贅沢さ。松江大橋に近く、周辺のレトロな街並みや飲食店街へのアクセスも良好です。
                 </p>
@@ -347,8 +347,8 @@ export default function AutumnBudgetFeaturePage() {
                 松江駅近く
               </span>
             </div>
-            <div className="grid md:grid-cols-12 gap-6 items-center pt-2">
-              <div className="md:col-span-5 relative h-48 md:h-56 rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+            <div className="flex flex-col gap-5 items-center pt-2">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/815/815.jpg"
                   alt="全室源泉温泉かけ流し　松江シティホテル本館"
@@ -357,7 +357,7 @@ export default function AutumnBudgetFeaturePage() {
                   sizes="(max-width: 768px) 100vw, 350px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   お部屋で源泉掛け流し温泉を楽しめる個性的なクラシックホテル。時計台が目印のレトロな外観と、松江の繁華街や堀川に近い便利な立地が魅力で、格安料金で気兼ねなく温泉ステイが楽しめます。
                 </p>

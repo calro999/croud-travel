@@ -139,7 +139,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-6">
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/5509/5509.jpg"
                   alt="伊東ホテルジュラク 外観・館内"
@@ -147,7 +147,7 @@ export default function ArticlePage() {
                   loading="lazy"
                 />
               </div>
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/5509/5509_wa.jpg"
                   alt="伊東ホテルジュラク 客室・お風呂"
@@ -208,7 +208,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-6">
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/1376/1376.jpg"
                   alt="伊東温泉　青山やまと 外観・館内"
@@ -216,7 +216,7 @@ export default function ArticlePage() {
                   loading="lazy"
                 />
               </div>
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/1376/1376_heya.jpg"
                   alt="伊東温泉　青山やまと 客室・お風呂"
@@ -278,7 +278,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-6">
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/14377/14377.jpg"
                   alt="伊東温泉　ホテル　ラヴィエ川良 外観・館内"
@@ -286,7 +286,7 @@ export default function ArticlePage() {
                   loading="lazy"
                 />
               </div>
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/14377/14377_w.jpg"
                   alt="伊東温泉　ホテル　ラヴィエ川良 客室・お風呂"

@@ -60,8 +60,8 @@ export default function AutumnBudgetMatsuyamaOkaidoHotelsPage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://upload.wikimedia.org/wikipedia/commons/0/07/%E6%9D%BE%E5%B1%B1%E5%9F%8E%E5%A4%A9%E5%AE%88_%282372904566%29.jpg"
                 alt="松山城天守と城郭"
@@ -73,7 +73,7 @@ export default function AutumnBudgetMatsuyamaOkaidoHotelsPage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">勝山山頂にそびえる連立式天守・瀬戸内海を一望する眺望</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
                 松山城（まつやまじょう）は、愛媛県松山市の中心部・勝山に築かれた日本の城。別名「金亀城（きんきじょう）」。江戸時代以前に建造された天守が現存する「現存12天守」の一つであり、国の重要文化財に指定されています。ロープウェイやリフトで登ることができ、秋の紅葉に包まれた天守最上階からは松山市街と瀬戸内海の多島美が一望できます。
@@ -100,8 +100,8 @@ export default function AutumnBudgetMatsuyamaOkaidoHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（超格安プライス）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/164470/164470.jpg"
                   alt="ホテル勝山"
@@ -110,7 +110,7 @@ export default function AutumnBudgetMatsuyamaOkaidoHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   ホテル勝山
                 </h3>
@@ -155,8 +155,8 @@ export default function AutumnBudgetMatsuyamaOkaidoHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（無料朝食高評価）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/20374/20374.jpg"
                   alt="アビスイン道後・松山"
@@ -165,7 +165,7 @@ export default function AutumnBudgetMatsuyamaOkaidoHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   アビスイン道後・松山
                 </h3>
@@ -210,8 +210,8 @@ export default function AutumnBudgetMatsuyamaOkaidoHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（最新駅前ホテル）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/199177/199177.jpg"
                   alt="アパホテル〈松山市駅前〉"
@@ -220,7 +220,7 @@ export default function AutumnBudgetMatsuyamaOkaidoHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   アパホテル〈松山市駅前〉
                 </h3>
@@ -265,8 +265,8 @@ export default function AutumnBudgetMatsuyamaOkaidoHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（展望露天風呂）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/43995/43995.jpg"
                   alt="ホテルＮｏ．１松山"
@@ -275,7 +275,7 @@ export default function AutumnBudgetMatsuyamaOkaidoHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   ホテルＮｏ．１松山
                 </h3>
@@ -320,8 +320,8 @@ export default function AutumnBudgetMatsuyamaOkaidoHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（超高評価デザイン宿）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/183045/183045.jpg"
                   alt="レフ松山市駅 by ベッセルホテルズ"
@@ -330,7 +330,7 @@ export default function AutumnBudgetMatsuyamaOkaidoHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   レフ松山市駅　ｂｙ　ベッセルホテルズ
                 </h3>

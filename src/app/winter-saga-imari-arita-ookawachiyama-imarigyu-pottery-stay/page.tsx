@@ -213,16 +213,16 @@ export default function Page() {
               <span className="text-[11px] text-stone-400">Wikipedia公式情報連携</span>
             </div>
 
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-              <div className="md:col-span-5 overflow-hidden rounded-xl border border-stone-200 bg-stone-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full overflow-hidden rounded-xl border border-stone-200 bg-stone-100 aspect-[16/9] sm:aspect-[21/9]">
                 <img
                   src="https://upload.wikimedia.org/wikipedia/commons/3/31/Floral_Plate_Nabeshima.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
                   alt="秘窯の里・大川内山（鍋島藩窯跡と冬の白磁散策）"
-                  className="w-full h-48 md:h-56 object-cover hover:scale-105 transition-transform duration-300"
+                  className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
                   loading="lazy"
                 />
               </div>
-              <div className="md:col-span-7 space-y-2">
+              <div className="w-full space-y-3">
                 <h3 className="font-bold text-stone-900 text-sm sm:text-base">
                   秘窯の里・大川内山（鍋島藩窯跡と冬の白磁散策） の見どころと歴史
                 </h3>
@@ -251,7 +251,7 @@ export default function Page() {
 
           {/* 宿カード 1: セントラルホテル伊万里 */}
           <article className="bg-white rounded-2xl border border-stone-200 shadow-sm overflow-hidden hover:shadow-md transition-shadow">
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-0">
+            <div className="flex flex-col">
               <div className="md:col-span-5 relative min-h-[240px]">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/68081/68081.jpg"
@@ -318,7 +318,7 @@ export default function Page() {
 
           {/* 宿カード 2: 伊万里グランドホテル */}
           <article className="bg-white rounded-2xl border border-stone-200 shadow-sm overflow-hidden hover:shadow-md transition-shadow">
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-0">
+            <div className="flex flex-col">
               <div className="md:col-span-5 relative min-h-[240px]">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/72059/72059.jpg"
@@ -385,7 +385,7 @@ export default function Page() {
 
           {/* 宿カード 3: ＨＯＴＥＬ　ＡＺ　長崎波佐見店 */}
           <article className="bg-white rounded-2xl border border-stone-200 shadow-sm overflow-hidden hover:shadow-md transition-shadow">
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-0">
+            <div className="flex flex-col">
               <div className="md:col-span-5 relative min-h-[240px]">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/147983/147983.jpg"
@@ -452,7 +452,7 @@ export default function Page() {
 
           {/* 宿カード 4: ホテルステイ伊万里 */}
           <article className="bg-white rounded-2xl border border-stone-200 shadow-sm overflow-hidden hover:shadow-md transition-shadow">
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-0">
+            <div className="flex flex-col">
               <div className="md:col-span-5 relative min-h-[240px]">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/201925/201925.jpg"
@@ -516,7 +516,7 @@ export default function Page() {
 
           {/* 宿カード 5: Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＨＯＵＳＥ　ｘ　ＷＩＬＬ　ＳＴＹＬＥ　佐賀伊万里 */}
           <article className="bg-white rounded-2xl border border-stone-200 shadow-sm overflow-hidden hover:shadow-md transition-shadow">
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-0">
+            <div className="flex flex-col">
               <div className="md:col-span-5 relative min-h-[240px]">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/169108/169108.jpg"

@@ -69,7 +69,7 @@ export default function HakoneBudgetGuidePage() {
 
       {/* 箱根フリーパス検証セクション */}
       <section className="bg-orange-50 rounded-3xl p-8 border border-orange-200 shadow-sm">
-        <div className="flex flex-col md:flex-row gap-8 items-center">
+        <div className="flex flex-col gap-8 items-center">
           <div className="flex-1 space-y-4">
             <h2 className="text-2xl font-black text-orange-950 font-journal-serif">
               🎫 「箱根フリーパス」は本当に元が取れる？
@@ -173,7 +173,7 @@ export default function HakoneBudgetGuidePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
             {hotels.map((hotel: any) => (
               <article key={hotel.hotelNo} className="bg-white rounded-2xl overflow-hidden shadow-sm border border-slate-200 hover:border-orange-300 transition flex flex-col group">
-                <div className="aspect-[4/3] relative overflow-hidden bg-slate-100">
+                <div className="aspect-[16/9] sm:aspect-[21/9] relative overflow-hidden bg-slate-100">
                   {hotel.hotelImageUrl && (
                     <img src={hotel.hotelImageUrl} alt={hotel.hotelName} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
                   )}

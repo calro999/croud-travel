@@ -60,8 +60,8 @@ export default function AutumnBudgetHotelsPage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">重伝建・白壁の町並みガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Kurasiki_morning01.JPG/1280px-Kurasiki_morning01.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                 alt="江戸幕府の天領として栄えた商人の町：倉敷美観地区"
@@ -73,7 +73,7 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">倉敷川の掘割と柳並木・白壁土蔵が織りなす錦秋のレトロ散歩</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
                 倉敷美観地区（くらしきびかんちく）は、岡山県倉敷市にある伝統的建造物群保存地区。江戸時代に幕府直轄の「天領」として物資の集散地となり、倉敷川沿いに白壁の土蔵や町家が立ち並びました。大原美術館や旧大原家住宅など歴史的建造物が集まり、秋には柳の葉と木々の紅葉が白壁に映え、多くの観光客を魅了します。
@@ -100,8 +100,8 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（3395件のクチコミ）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/75332/75332.jpg"
                   alt="アパホテル〈倉敷駅前〉"
@@ -110,7 +110,7 @@ export default function AutumnBudgetHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   アパホテル〈倉敷駅前〉
                 </h3>
@@ -156,8 +156,8 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（795件のクチコミ）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/177110/177110.jpg"
                   alt="グリーンリッチホテル倉敷駅前　人工温泉・二股湯の華"
@@ -166,7 +166,7 @@ export default function AutumnBudgetHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   グリーンリッチホテル倉敷駅前　人工温泉・二股湯の華
                 </h3>
@@ -212,8 +212,8 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（230件のクチコミ）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/179392/179392.jpg"
                   alt="ホテルリブマックス岡山倉敷駅前"
@@ -222,7 +222,7 @@ export default function AutumnBudgetHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   ホテルリブマックス岡山倉敷駅前
                 </h3>
@@ -268,8 +268,8 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（578件のクチコミ）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/108342/108342.jpg"
                   alt="東横ＩＮＮ倉敷駅南口"
@@ -278,7 +278,7 @@ export default function AutumnBudgetHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   東横ＩＮＮ倉敷駅南口
                 </h3>
@@ -324,8 +324,8 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（1893件のクチコミ）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/130504/130504.jpg"
                   alt="倉敷駅前ユニバーサルホテル（ユニバーサルホテルチェーン）"
@@ -334,7 +334,7 @@ export default function AutumnBudgetHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   倉敷駅前ユニバーサルホテル（ユニバーサルホテルチェーン）
                 </h3>

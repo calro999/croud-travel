@@ -321,8 +321,8 @@ export default function Page() {
               <MapPin className="w-4 h-4" />
               <span>近隣名所アーカイブ＆公式百科事典連携</span>
             </div>
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-              <div className="md:col-span-5 relative h-56 rounded-xl overflow-hidden bg-stone-800">
+            <div className="flex flex-col gap-6">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-800">
                 <img
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Yoshinogari-iseki_zenkei.JPG/1280px-Yoshinogari-iseki_zenkei.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="国指定特別史跡・吉野ヶ里歴史公園（弥生の大集落と冬の幻想祭典「光の響」）"
@@ -330,7 +330,7 @@ export default function Page() {
                   loading="lazy"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <div>
                   <span className="text-[11px] text-cyan-300 font-mono">Spot Spotlight</span>
                   <h3 className="text-lg sm:text-xl font-bold text-white">
@@ -392,8 +392,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/166515/166515.jpg"
                       alt="ガーデンテラス佐賀ホテル＆リゾート"
@@ -401,7 +401,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       佐賀市内に佇み、都会の喧騒を離れたリゾート空間を提供するハイエンドホテル。全客室が広々としたテラスを備えたスイート仕様で、木と石の温もりが調和した上質なインテリアが非日常を演出します。宿泊者専用クラブラウンジでは、佐賀の銘酒やフィンガーフードが自由に楽しめる贅沢なもてなし。夕食には専属シェフが目の前で焼き上げる最高級A5ランク佐賀牛の鉄板焼きコースを堪能でき、舌の上でとろける芳醇な肉の甘みと旨味に酔いしれる至福の夜を過ごせます。
                     </p>
@@ -459,8 +459,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/15108/15108.jpg"
                       alt="古湯温泉　旅館　杉乃家"
@@ -468,7 +468,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       古湯温泉の高台に位置し、窓の向こうに広がる山々の稜線と温泉街の静寂を一望できる老舗温泉旅館。宿自慢の展望露天風呂からは、澄み切った冬の星空と湯けむりを眺めながら、名湯「ぬる湯」に心ゆくまで浸ることができます。ph9.5を超えるアルカリ性の柔らかな湯は、まるで美容液のように肌を潤します。夕食には料理長が厳選した最高品質の佐賀牛を贅沢に使った陶板焼きやしゃぶしゃぶ、地元の清流で育った川魚料理が並び、心温まるもてなしとともに深い寛ぎを満喫できます。
                     </p>
@@ -526,8 +526,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/79385/79385.jpg"
                       alt="ホテルマリターレ創世　佐賀"
@@ -535,7 +535,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       佐賀駅北口からほど近く、イタリア・ルネサンス様式の壮麗な建築が目を引くプレミアムホテル。一歩足を踏み入れれば、ヨーロッパのクラシックホテルを訪れたかのような気品あふれるロビーと調度品が出迎えてくれます。客室は優雅でゆとりのある設計が施され、最高級の寝具が極上の眠りをお届け。館内レストランでは佐賀牛や玄界灘・有明海の新鮮食材を駆使した華やかな本格フレンチや日本料理会席が味わえ、吉野ヶ里歴史公園の光の響や佐賀城下散策の後に優雅な余韻に浸れる名宿です。
                     </p>
@@ -593,8 +593,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/40343/40343.jpg"
                       alt="古湯温泉　ＯＮＣＲＩ　／　おんくり"
@@ -602,7 +602,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       古湯温泉の清らかな渓流沿いに広がる、「ジャパニーズ・コンフォート」をコンセプトにしたモダンな温泉リゾートホテル。最大の魅力は、源泉温度の異なるぬる湯やあつ湯、寝湯、打たせ湯、露天風呂など多彩な浴槽が揃う広大な大浴場「SHIORI」。時間を忘れてぬる湯に身を委ねる現代の湯治スタイルが楽しめます。館内には暖炉のあるラウンジやライブラリーが配され、冬の静かな読書時間を演出。夕食には地場産野菜や佐賀牛の旨味をシンプルかつ大胆に引き出した創作料理が振る舞われ、感度の高い大人旅に選ばれ続けています。
                     </p>
@@ -660,8 +660,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/5830/5830.jpg"
                       alt="ホテルニューオータニ佐賀"
@@ -669,7 +669,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       佐賀城址の歴史薫るお堀のほとりに佇み、緑豊かな自然と静寂に包まれた佐賀を代表する格式あるグランドホテル。客室の窓からは季節の移ろいを感じるお堀の風景が広がり、新春の佐賀神社参拝や佐賀城本丸歴史館へも徒歩圏内という絶好のロケーションを誇ります。ニューオータニならではの洗練されたおもてなしと安心感の中で、極上の佐賀牛料理や地元有明海の旬の恵みを堪能。落ち着いた大人の冬の佐賀滞在を約束してくれる名宿です。
                     </p>
@@ -708,7 +708,7 @@ export default function Page() {
 
         {/* ふるさと納税セクション */}
         <section className="max-w-4xl mx-auto px-4 mb-12">
-          <div className="bg-gradient-to-br from-amber-500/10 via-amber-500/5 to-transparent rounded-2xl p-6 sm:p-8 border border-amber-500/20 shadow-sm flex flex-col md:flex-row items-center justify-between gap-6">
+          <div className="bg-gradient-to-br from-amber-500/10 via-amber-500/5 to-transparent rounded-2xl p-6 sm:p-8 border border-amber-500/20 shadow-sm flex flex-col items-center justify-between gap-6">
             <div className="space-y-2 text-center md:text-left">
               <span className="bg-amber-600 text-white text-[10px] font-bold px-2 py-0.5 rounded-full uppercase">
                 Furusato Tax

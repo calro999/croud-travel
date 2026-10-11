@@ -60,8 +60,8 @@ export default function AutumnBudgetHamamatsuStationHotelsPage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Hamamatsu_Castle%2C_enkei-3.jpg/1280px-Hamamatsu_Castle%2C_enkei-3.jpg"
                 alt="浜松城（出世城）"
@@ -73,7 +73,7 @@ export default function AutumnBudgetHamamatsuStationHotelsPage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">家康公が青年期を過ごした「出世城」の秋景観</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
                 浜松城（はままつじょう）は、静岡県浜松市中央区にある日本の城跡。荒々しく積み上げられた「野面積みの石垣」が特徴です。歴代城主の多くが後に江戸幕府の重鎮へと出世したことから「出世城」と称され、秋には天守閣を囲む城址公園の木々が見事な紅葉に染まります。
@@ -100,8 +100,8 @@ export default function AutumnBudgetHamamatsuStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（超格安プライス）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/153121/153121.jpg"
                   alt="ホテルリブマックスBUDGET浜松駅前"
@@ -110,7 +110,7 @@ export default function AutumnBudgetHamamatsuStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   ホテルリブマックスＢＵＤＧＥＴ浜松駅前
                 </h3>
@@ -155,8 +155,8 @@ export default function AutumnBudgetHamamatsuStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（カレー無料朝食）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/9479/9479.jpg"
                   alt="ホテルセレクトイン浜松駅前"
@@ -165,7 +165,7 @@ export default function AutumnBudgetHamamatsuStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   ホテルセレクトイン浜松駅前
                 </h3>
@@ -210,8 +210,8 @@ export default function AutumnBudgetHamamatsuStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（大浴場＆朝食高評価）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/165781/165781.jpg"
                   alt="くれたけイン浜松駅南口 プレミアム"
@@ -220,7 +220,7 @@ export default function AutumnBudgetHamamatsuStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   くれたけイン浜松駅南口 プレミアム
                 </h3>
@@ -265,8 +265,8 @@ export default function AutumnBudgetHamamatsuStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（駅至近＆快適設備）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/589/589.jpg"
                   alt="アパホテル〈浜松駅南〉"
@@ -275,7 +275,7 @@ export default function AutumnBudgetHamamatsuStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   アパホテル〈浜松駅南〉
                 </h3>
@@ -320,8 +320,8 @@ export default function AutumnBudgetHamamatsuStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（無料朝食）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/25132/25132.jpg"
                   alt="ホテルルートイン浜松駅東"
@@ -330,7 +330,7 @@ export default function AutumnBudgetHamamatsuStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   東横ＩＮＮ浜松駅北口
                 </h3>

@@ -60,8 +60,8 @@ export default function AutumnBudgetFeaturePage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/_Aoshima_Island_%28Miyazaki%29Aerial_photography%E9%9D%92%E5%B3%B6_%28%E5%AE%AE%E5%B4%8E%E7%9C%8C%29DJI_0249_%282%29%E7%A9%BA%E6%92%AE.jpg/1280px-_Aoshima_Island_%28Miyazaki%29Aerial_photography%E9%9D%92%E5%B3%B6_%28%E5%AE%AE%E5%B4%8E%E7%9C%8C%29DJI_0249_%282%29%E7%A9%BA%E6%92%AE.jpg"
                 alt="鬼の洗濯板に囲まれた神話の島・青島と青島神社"
@@ -73,7 +73,7 @@ export default function AutumnBudgetFeaturePage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">鬼の洗濯板に囲まれた神話の島・青島と青島神社の歴史と見どころ</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">青島（あおしま）は、宮崎県宮崎市青島地域の南東部海岸付近に所在する架橋された島。 島の規模は周囲860m、面積約4.4ヘクタール(ha)、高さ約6メートル(m)。干潮時は陸続きだが満潮時には島となり、陸繋島になりつつある。対岸は青島海岸と呼ばれ、青島海水浴場などを含む一大観光地になっている。青島と青島海岸とは弥生橋によって結ばれている。青島神社の鎮座地。</p>
               <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
@@ -111,8 +111,8 @@ export default function AutumnBudgetFeaturePage() {
                 宮崎駅近く
               </span>
             </div>
-            <div className="grid md:grid-cols-12 gap-6 items-center pt-2">
-              <div className="md:col-span-5 relative h-48 md:h-56 rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+            <div className="flex flex-col gap-5 items-center pt-2">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/12635/12635.jpg"
                   alt="ホテルエリアワン宮崎（ホテルエリアワングループ）"
@@ -121,7 +121,7 @@ export default function AutumnBudgetFeaturePage() {
                   sizes="(max-width: 768px) 100vw, 350px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   繁華街・橘通りから徒歩圏内の便利な立地にあり、1泊2,000円台という驚異的な宿泊料金を実現。機能的な客室と無料Wi-Fiが揃い、浮いた予算をグルメに全振りしたい旅行者にぴったりの宿です。
                 </p>
@@ -170,8 +170,8 @@ export default function AutumnBudgetFeaturePage() {
                 宮崎駅近く
               </span>
             </div>
-            <div className="grid md:grid-cols-12 gap-6 items-center pt-2">
-              <div className="md:col-span-5 relative h-48 md:h-56 rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+            <div className="flex flex-col gap-5 items-center pt-2">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/138088/138088.jpg"
                   alt="クセになる林荘"
@@ -180,7 +180,7 @@ export default function AutumnBudgetFeaturePage() {
                   sizes="(max-width: 768px) 100vw, 350px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   宮崎市街地の閑静な場所に位置し、どこか懐かしい温かなおもてなしが心地よいホテル。リーズナブルな価格設定ながら清潔な客室と美味しい朝食が人気で、リピーターの多い隠れた名宿です。
                 </p>
@@ -229,8 +229,8 @@ export default function AutumnBudgetFeaturePage() {
                 宮崎駅近く
               </span>
             </div>
-            <div className="grid md:grid-cols-12 gap-6 items-center pt-2">
-              <div className="md:col-span-5 relative h-48 md:h-56 rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+            <div className="flex flex-col gap-5 items-center pt-2">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/16092/16092.jpg"
                   alt="ホテル　メリージュ"
@@ -239,7 +239,7 @@ export default function AutumnBudgetFeaturePage() {
                   sizes="(max-width: 768px) 100vw, 350px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   宮崎市の中心・橘通り交差点近くにそびえるランドマークホテル。広々としたロビーと清潔感のある客室、館内レストランを備え、シティホテルの快適さを手頃な価格で満喫できます。
                 </p>
@@ -288,8 +288,8 @@ export default function AutumnBudgetFeaturePage() {
                 宮崎駅近く
               </span>
             </div>
-            <div className="grid md:grid-cols-12 gap-6 items-center pt-2">
-              <div className="md:col-span-5 relative h-48 md:h-56 rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+            <div className="flex flex-col gap-5 items-center pt-2">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/16813/16813.jpg"
                   alt="たまゆら温泉＆サウナ完備の宿　宮崎ライオンズホテル"
@@ -298,7 +298,7 @@ export default function AutumnBudgetFeaturePage() {
                   sizes="(max-width: 768px) 100vw, 350px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   宮崎市街地中心部にありながら、美肌の湯として名高い「たまゆら温泉」の天然温泉とドライサウナを完備。ニシタチで美味しい地鶏と焼酎を楽しんだ後、温泉でじっくり温まる最高の贅沢が叶います。
                 </p>
@@ -347,8 +347,8 @@ export default function AutumnBudgetFeaturePage() {
                 宮崎駅近く
               </span>
             </div>
-            <div className="grid md:grid-cols-12 gap-6 items-center pt-2">
-              <div className="md:col-span-5 relative h-48 md:h-56 rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+            <div className="flex flex-col gap-5 items-center pt-2">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/135382/135382.jpg"
                   alt="ＪＲ九州ホテル宮崎"
@@ -357,7 +357,7 @@ export default function AutumnBudgetFeaturePage() {
                   sizes="(max-width: 768px) 100vw, 350px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   JR宮崎駅の改札を出てすぐという圧倒的な利便性。洗練されたモダンなインテリアと快適なシモンズベッドを備え、日南海岸や青島への観光拠点としても抜群の安心感を誇ります。
                 </p>

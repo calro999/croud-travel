@@ -322,7 +322,7 @@ export default function HyogoKobePortWinterPage() {
             {hotels.map((hotel) => (
               <div 
                 key={hotel.id}
-                className="bg-white rounded-3xl overflow-hidden border border-slate-200/90 shadow-sm hover:shadow-md transition duration-300 flex flex-col lg:flex-row"
+                className="bg-white rounded-3xl overflow-hidden border border-slate-200/90 shadow-sm hover:shadow-md transition duration-300 flex flex-col"
               >
                 {/* Hotel Image Container */}
                 <div className="lg:w-2/5 relative min-h-[280px] lg:min-h-full bg-slate-100 overflow-hidden">

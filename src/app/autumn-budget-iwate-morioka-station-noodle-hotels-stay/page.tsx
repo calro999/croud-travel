@@ -60,8 +60,8 @@ export default function AutumnBudgetMoriokaStationHotelsPage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/171103_Morioka_Castle_Morioka_Iwate_pref_Japan02bs.jpg/1280px-171103_Morioka_Castle_Morioka_Iwate_pref_Japan02bs.jpg"
                 alt="盛岡城跡公園の紅葉と石垣"
@@ -73,7 +73,7 @@ export default function AutumnBudgetMoriokaStationHotelsPage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">南部藩主の居城・白亜の花崗岩石垣を彩るモミジの紅葉</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
                 盛岡城（もりおかじょう）は、岩手県盛岡市にあった南部氏20万石の居城。国の史跡・日本100名城に指定されています。東北三名城の一つに数えられ、白っぽい花崗岩を美しく積み上げた高石垣が特徴。秋にはモミジやカエデが鮮やかに色づき、石垣とのコントラストが詩情を誘います。
@@ -100,8 +100,8 @@ export default function AutumnBudgetMoriokaStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（大浴場＆サウナ）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/153340/153340.jpg"
                   alt="ホテルグローバルビュー盛岡"
@@ -110,7 +110,7 @@ export default function AutumnBudgetMoriokaStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   ホテルグローバルビュー盛岡
                 </h3>
@@ -155,8 +155,8 @@ export default function AutumnBudgetMoriokaStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（駅至近＆高評価）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/196889/196889.jpg"
                   alt="アパホテル〈盛岡駅前〉"
@@ -165,7 +165,7 @@ export default function AutumnBudgetMoriokaStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   アパホテル〈盛岡駅前〉
                 </h3>
@@ -210,8 +210,8 @@ export default function AutumnBudgetMoriokaStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（超高評価ホテル）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/181404/181404.jpg"
                   alt="リッチモンドホテル盛岡駅前"
@@ -220,7 +220,7 @@ export default function AutumnBudgetMoriokaStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   リッチモンドホテル盛岡駅前
                 </h3>
@@ -265,8 +265,8 @@ export default function AutumnBudgetMoriokaStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（バス・トイレ別）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/183248/183248.jpg"
                   alt="ダイワロイネットホテル盛岡駅前"
@@ -275,7 +275,7 @@ export default function AutumnBudgetMoriokaStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   ダイワロイネットホテル盛岡駅前
                 </h3>
@@ -320,8 +320,8 @@ export default function AutumnBudgetMoriokaStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（無料朝食付）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/78213/78213.jpg"
                   alt="東横ＩＮＮ盛岡駅南口駅前"
@@ -330,7 +330,7 @@ export default function AutumnBudgetMoriokaStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   東横ＩＮＮ盛岡駅南口駅前
                 </h3>

@@ -147,8 +147,8 @@ export default function Page() {
 
           <div className="grid grid-cols-1 gap-8">
             
-            <div key="10689" className="bg-slate-50 rounded-2xl border border-slate-200 overflow-hidden hover:shadow-md transition-shadow flex flex-col md:flex-row">
-              <div className="md:w-2/5 relative min-h-[220px] bg-slate-200">
+            <div key="10689" className="bg-slate-50 rounded-2xl border border-slate-200 overflow-hidden hover:shadow-md transition-shadow flex flex-col">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] bg-slate-200">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/10689/10689.jpg"
                   alt="花巻温泉　割烹旅館　廣美亭"
@@ -162,7 +162,7 @@ export default function Page() {
                 
               </div>
 
-              <div className="p-5 md:w-3/5 flex flex-col justify-between space-y-4">
+              <div className="p-5 sm:p-7 w-full flex flex-col justify-between space-y-4">
                 <div>
                   <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors">
                     <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D10689" target="_blank" rel="noopener noreferrer">
@@ -209,8 +209,8 @@ export default function Page() {
               </div>
             </div>
             
-            <div key="9536" className="bg-slate-50 rounded-2xl border border-slate-200 overflow-hidden hover:shadow-md transition-shadow flex flex-col md:flex-row">
-              <div className="md:w-2/5 relative min-h-[220px] bg-slate-200">
+            <div key="9536" className="bg-slate-50 rounded-2xl border border-slate-200 overflow-hidden hover:shadow-md transition-shadow flex flex-col">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] bg-slate-200">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/9536/9536.jpg"
                   alt="岩手　花巻温泉郷　鉛温泉　藤三旅館"
@@ -224,7 +224,7 @@ export default function Page() {
                 
               </div>
 
-              <div className="p-5 md:w-3/5 flex flex-col justify-between space-y-4">
+              <div className="p-5 sm:p-7 w-full flex flex-col justify-between space-y-4">
                 <div>
                   <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors">
                     <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D9536" target="_blank" rel="noopener noreferrer">
@@ -271,8 +271,8 @@ export default function Page() {
               </div>
             </div>
             
-            <div key="62683" className="bg-slate-50 rounded-2xl border border-slate-200 overflow-hidden hover:shadow-md transition-shadow flex flex-col md:flex-row">
-              <div className="md:w-2/5 relative min-h-[220px] bg-slate-200">
+            <div key="62683" className="bg-slate-50 rounded-2xl border border-slate-200 overflow-hidden hover:shadow-md transition-shadow flex flex-col">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] bg-slate-200">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/62683/62683.jpg"
                   alt="岩手花巻　台温泉　旅館　ほっと・彩　そめや"
@@ -286,7 +286,7 @@ export default function Page() {
                 
               </div>
 
-              <div className="p-5 md:w-3/5 flex flex-col justify-between space-y-4">
+              <div className="p-5 sm:p-7 w-full flex flex-col justify-between space-y-4">
                 <div>
                   <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors">
                     <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D62683" target="_blank" rel="noopener noreferrer">
@@ -349,8 +349,8 @@ export default function Page() {
 
           <div className="grid grid-cols-1 gap-8">
             
-            <div key="38764" className="bg-slate-50 rounded-2xl border border-slate-200 overflow-hidden hover:shadow-md transition-shadow flex flex-col md:flex-row">
-              <div className="md:w-2/5 relative min-h-[220px] bg-slate-200">
+            <div key="38764" className="bg-slate-50 rounded-2xl border border-slate-200 overflow-hidden hover:shadow-md transition-shadow flex flex-col">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] bg-slate-200">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/38764/38764.jpg"
                   alt="越後湯沢温泉　湯沢グランドホテル＜新潟県＞"
@@ -364,7 +364,7 @@ export default function Page() {
                 
               </div>
 
-              <div className="p-5 md:w-3/5 flex flex-col justify-between space-y-4">
+              <div className="p-5 sm:p-7 w-full flex flex-col justify-between space-y-4">
                 <div>
                   <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors">
                     <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D38764" target="_blank" rel="noopener noreferrer">
@@ -411,8 +411,8 @@ export default function Page() {
               </div>
             </div>
             
-            <div key="40019" className="bg-slate-50 rounded-2xl border border-slate-200 overflow-hidden hover:shadow-md transition-shadow flex flex-col md:flex-row">
-              <div className="md:w-2/5 relative min-h-[220px] bg-slate-200">
+            <div key="40019" className="bg-slate-50 rounded-2xl border border-slate-200 overflow-hidden hover:shadow-md transition-shadow flex flex-col">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] bg-slate-200">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/40019/40019.jpg"
                   alt="越後湯沢温泉　松泉閣花月"
@@ -426,7 +426,7 @@ export default function Page() {
                 
               </div>
 
-              <div className="p-5 md:w-3/5 flex flex-col justify-between space-y-4">
+              <div className="p-5 sm:p-7 w-full flex flex-col justify-between space-y-4">
                 <div>
                   <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors">
                     <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D40019" target="_blank" rel="noopener noreferrer">
@@ -473,8 +473,8 @@ export default function Page() {
               </div>
             </div>
             
-            <div key="55869" className="bg-slate-50 rounded-2xl border border-slate-200 overflow-hidden hover:shadow-md transition-shadow flex flex-col md:flex-row">
-              <div className="md:w-2/5 relative min-h-[220px] bg-slate-200">
+            <div key="55869" className="bg-slate-50 rounded-2xl border border-slate-200 overflow-hidden hover:shadow-md transition-shadow flex flex-col">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] bg-slate-200">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/55869/55869.jpg"
                   alt="越後湯沢温泉　越後のお宿　いなもと"
@@ -488,7 +488,7 @@ export default function Page() {
                 
               </div>
 
-              <div className="p-5 md:w-3/5 flex flex-col justify-between space-y-4">
+              <div className="p-5 sm:p-7 w-full flex flex-col justify-between space-y-4">
                 <div>
                   <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors">
                     <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D55869" target="_blank" rel="noopener noreferrer">
@@ -551,8 +551,8 @@ export default function Page() {
 
           <div className="grid grid-cols-1 gap-8">
             
-            <div key="130472" className="bg-slate-50 rounded-2xl border border-slate-200 overflow-hidden hover:shadow-md transition-shadow flex flex-col md:flex-row">
-              <div className="md:w-2/5 relative min-h-[220px] bg-slate-200">
+            <div key="130472" className="bg-slate-50 rounded-2xl border border-slate-200 overflow-hidden hover:shadow-md transition-shadow flex flex-col">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] bg-slate-200">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/130472/130472.jpg"
                   alt="旅館　浪花館　丹波・篠山　篭坊温泉"
@@ -562,7 +562,7 @@ export default function Page() {
                 
               </div>
 
-              <div className="p-5 md:w-3/5 flex flex-col justify-between space-y-4">
+              <div className="p-5 sm:p-7 w-full flex flex-col justify-between space-y-4">
                 <div>
                   <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors">
                     <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D130472" target="_blank" rel="noopener noreferrer">
@@ -609,8 +609,8 @@ export default function Page() {
               </div>
             </div>
             
-            <div key="195973" className="bg-slate-50 rounded-2xl border border-slate-200 overflow-hidden hover:shadow-md transition-shadow flex flex-col md:flex-row">
-              <div className="md:w-2/5 relative min-h-[220px] bg-slate-200">
+            <div key="195973" className="bg-slate-50 rounded-2xl border border-slate-200 overflow-hidden hover:shadow-md transition-shadow flex flex-col">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] bg-slate-200">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/195973/195973.jpg"
                   alt="グランヴィリオホテル丹波篠山　和蔵－ルートインホテルズ－"
@@ -624,7 +624,7 @@ export default function Page() {
                 
               </div>
 
-              <div className="p-5 md:w-3/5 flex flex-col justify-between space-y-4">
+              <div className="p-5 sm:p-7 w-full flex flex-col justify-between space-y-4">
                 <div>
                   <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors">
                     <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D195973" target="_blank" rel="noopener noreferrer">
@@ -671,8 +671,8 @@ export default function Page() {
               </div>
             </div>
             
-            <div key="18267" className="bg-slate-50 rounded-2xl border border-slate-200 overflow-hidden hover:shadow-md transition-shadow flex flex-col md:flex-row">
-              <div className="md:w-2/5 relative min-h-[220px] bg-slate-200">
+            <div key="18267" className="bg-slate-50 rounded-2xl border border-slate-200 overflow-hidden hover:shadow-md transition-shadow flex flex-col">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] bg-slate-200">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/18267/18267.jpg"
                   alt="丹波篠山　潯陽楼"
@@ -686,7 +686,7 @@ export default function Page() {
                 
               </div>
 
-              <div className="p-5 md:w-3/5 flex flex-col justify-between space-y-4">
+              <div className="p-5 sm:p-7 w-full flex flex-col justify-between space-y-4">
                 <div>
                   <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors">
                     <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D18267" target="_blank" rel="noopener noreferrer">

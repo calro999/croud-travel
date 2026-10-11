@@ -60,8 +60,8 @@ export default function AutumnBudgetHakodateHotelsPage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Hakodate_Goryokaku_Panorama_1.JPG/1280px-Hakodate_Goryokaku_Panorama_1.JPG"
                 alt="特別史跡・五稜郭跡の星形紅葉"
@@ -73,7 +73,7 @@ export default function AutumnBudgetHakodateHotelsPage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">特別史跡・五稜郭跡の星形紅葉の歴史と見どころ</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">五稜郭（ごりょうかく）は、江戸時代末期に江戸幕府が蝦夷地の箱館（現在の北海道函館市）郊外に築造した稜堡式の城郭。 予算書時点から五稜郭の名称は用いられていたが、築造中は亀田役所土塁（かめだやくしょどるい）または亀田御役所土塁（かめだおんやくしょどるい）とも呼ばれた。元は湿地でネコヤナギが多く生えていた土地であることから、柳野城（やなぎのじょう）の別名を持つ。</p>
               <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">

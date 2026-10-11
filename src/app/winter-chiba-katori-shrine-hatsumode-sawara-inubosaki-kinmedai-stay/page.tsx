@@ -313,8 +313,8 @@ export default function Page() {
               </span>
             </div>
 
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-5 items-center">
-              <div className="md:col-span-5 relative h-48 sm:h-56 rounded-xl overflow-hidden bg-stone-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Katori-jingu_haiden_shomen.JPG/1280px-Katori-jingu_haiden_shomen.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="下総国一宮・香取神宮（全国400社ある香取神社の総本社・勝運厄除け新春初詣）"
@@ -322,7 +322,7 @@ export default function Page() {
                   loading="lazy"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="font-bold text-stone-900 text-sm sm:text-base">
                   【下総国一宮・香取神宮（全国400社ある香取神社の総本社・勝運厄除け新春初詣）の見どころと歴史】
                 </h3>
@@ -376,8 +376,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/166043/166043.jpg"
                       alt="佐原商家町ホテルＮＩＰＰＯＮＩＡ"
@@ -385,7 +385,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       重伝建に指定された佐原の商家町に点在する、江戸・明治・大正期の古民家や蔵をモダンに改修した上質な分散型ブティックホテル。町の歴史に溶け込むように滞在し、重厚な梁や格子戸の温もりに包まれる非日常の宿泊体験が叶います。レストランでは北総の肥沃な大地が育んだ新鮮野菜やブランド和牛、下総醤油を用いた極上フレンチを提供。香取神宮への初詣と佐原の冬散歩を最も贅沢に彩る名宿です。
                     </p>
@@ -440,8 +440,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/176708/176708.jpg"
                       alt="ホテルルートイン香取佐原駅前"
@@ -449,7 +449,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       JR佐原駅北口のロータリーに面し、香取神宮や小江戸佐原の古い町並みへの観光拠点として圧倒的な利便性を誇るスタイリッシュなホテル。館内には旅の疲労をじんわりと解きほぐすラジウム人工温泉大浴場を備え、冬の観光帰りに心ゆくまで温まることができます。全室に加湿空気清浄機や無料Wi-Fi、快適ベッドが整い、機能的で清潔感あふれる空間が心地よい滞在を演出します。
                     </p>
@@ -507,8 +507,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/40498/40498.jpg"
                       alt="犬吠埼潮の湯温泉　犬吠埼観光ホテル"
@@ -516,7 +516,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       犬吠埼灯台の南側、白波が打ち寄せる海岸線に佇む老舗の海辺の温泉ホテル。全客室から雄大な太平洋のパノラマを一望でき、朝には水平線から昇る荘厳な朝日が部屋を満たします。塩分を含んだ「潮の湯温泉」は保温効果抜群で、冬の冷えた身体の芯までポカポカに。夕食には銚子港から毎日仕入れる脂ののった金目鯛の姿煮付けや地魚の刺身が贅沢に並び、海の恵みを五感で堪能できます。
                     </p>
@@ -574,8 +574,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/4691/4691.jpg"
                       alt="‐犬吠埼温泉元湯　黒潮の湯‐　絶景の宿　犬吠埼ホテル"
@@ -583,7 +583,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       白亜の犬吠埼灯台に隣接し、広大な敷地から太平洋をパノラマで見渡す本格リゾートホテル。敷地内から湧出する自家源泉「黒潮の湯」を満喫できる露天風呂は、潮騒を聞きながら冬の星空や初日の出を眺める特等席。広々とした和室や洋室が揃い、ファミリーからカップルまで快適に過ごせます。銚子の寒キンメや地元ブランド肉をふんだんに使った豪華会席ディナーが冬の旅を優雅に締めくくります。
                     </p>
@@ -641,8 +641,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/147705/147705.jpg"
                       alt="別邸　海と森"
@@ -650,7 +650,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       犬吠埼の先端近く、太平洋を臨む広大な原生林の中にひっそりと佇むハイクラス・ラグジュアリー旅館。すべての客室が独立したテラスと客室露天風呂を備え、森の緑と海の青が交差する静寂の中で、誰にも邪魔されない至高の時間を過ごせます。夕食には銚子港で水揚げされた最上級の寒つり金目鯛、伊勢海老、上質な房総和牛を使った目にも鮮やかな懐石料理が供され、記念日や新春の特別な旅行に最適です。
                     </p>

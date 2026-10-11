@@ -139,7 +139,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-6">
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/30691/30691.jpg"
                   alt="別府温泉　竹と椿のお宿　花べっぷ 外観・館内"
@@ -147,7 +147,7 @@ export default function ArticlePage() {
                   loading="lazy"
                 />
               </div>
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/30691/30691_h.jpg"
                   alt="別府温泉　竹と椿のお宿　花べっぷ 客室・お風呂"
@@ -209,7 +209,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-6">
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/158425/158425.jpg"
                   alt="別府鉄輪温泉　山荘　神和苑 外観・館内"
@@ -217,7 +217,7 @@ export default function ArticlePage() {
                   loading="lazy"
                 />
               </div>
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/158425/158425.jpg"
                   alt="別府鉄輪温泉　山荘　神和苑 客室・お風呂"
@@ -278,7 +278,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-6">
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/5543/5543.jpg"
                   alt="別府最大級の露天風呂の宿　おにやまホテル 外観・館内"
@@ -286,7 +286,7 @@ export default function ArticlePage() {
                   loading="lazy"
                 />
               </div>
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/5543/5543_ro.jpg"
                   alt="別府最大級の露天風呂の宿　おにやまホテル 客室・お風呂"

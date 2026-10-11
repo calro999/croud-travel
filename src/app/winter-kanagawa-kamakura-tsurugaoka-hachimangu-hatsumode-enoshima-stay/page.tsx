@@ -281,9 +281,9 @@ export default function KamakuraTsurugaokaPage() {
                   <span>神奈川県鎌倉市七里ヶ浜東1-2-18（江ノ島電鉄七里ヶ浜駅～徒歩約8分。無料送迎バスあり。または有料バスにて潮騒通り下車徒歩約1分。）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                       <img 
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/1679/1679.jpg" 
                         alt="鎌倉プリンスホテル 外観・客室イメージ" 
@@ -293,7 +293,7 @@ export default function KamakuraTsurugaokaPage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
                         <CheckCircle2 className="w-4 h-4 text-rose-600" />
@@ -368,9 +368,9 @@ export default function KamakuraTsurugaokaPage() {
                   <span>神奈川県鎌倉市小町1-8-1（JR鎌倉駅東口より徒歩にて約２分）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                       <img 
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/177689/177689.jpg" 
                         alt="ホテルメトロポリタン鎌倉 外観・客室イメージ" 
@@ -380,7 +380,7 @@ export default function KamakuraTsurugaokaPage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
                         <CheckCircle2 className="w-4 h-4 text-rose-600" />
@@ -455,9 +455,9 @@ export default function KamakuraTsurugaokaPage() {
                   <span>神奈川県鎌倉市由比ガ浜4-6-13（江ノ島電鉄　由比ヶ浜駅より徒歩５分／ＪＲ　鎌倉駅より車で約５分）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                       <img 
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/68515/68515.jpg" 
                         alt="ＫＫＲ鎌倉わかみや（国家公務員共済組合連合会鎌倉保養所） 外観・客室イメージ" 
@@ -467,7 +467,7 @@ export default function KamakuraTsurugaokaPage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
                         <CheckCircle2 className="w-4 h-4 text-rose-600" />
@@ -542,9 +542,9 @@ export default function KamakuraTsurugaokaPage() {
                   <span>神奈川県藤沢市江の島-1-3-8（小田急江ノ島線～片瀬江ノ島駅より徒歩約１０分）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                       <img 
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/179415/179415.jpg" 
                         alt="江の島ホテル 外観・客室イメージ" 
@@ -554,7 +554,7 @@ export default function KamakuraTsurugaokaPage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
                         <CheckCircle2 className="w-4 h-4 text-rose-600" />
@@ -629,9 +629,9 @@ export default function KamakuraTsurugaokaPage() {
                   <span>神奈川県藤沢市鵠沼海岸1-7-11（鵠沼海岸駅より徒歩15分）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                       <img 
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/147040/147040.jpg" 
                         alt="ＢＲＥＡＴＨ　ＨＯＴＥＬ（ブレスホテル） 外観・客室イメージ" 
@@ -641,7 +641,7 @@ export default function KamakuraTsurugaokaPage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
                         <CheckCircle2 className="w-4 h-4 text-rose-600" />

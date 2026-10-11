@@ -472,8 +472,8 @@ export default function KirishimaWinterPage() {
                 key={hotel.id}
                 className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200 hover:shadow-md transition-all duration-300"
               >
-                <div className="grid grid-cols-1 lg:grid-cols-12 gap-0">
-                  <div className="lg:col-span-5 relative h-64 lg:h-auto min-h-[260px] bg-stone-100">
+                <div className="flex flex-col">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] overflow-hidden">
                     <Image
                       src={hotel.img}
                       alt={hotel.name}
@@ -486,7 +486,7 @@ export default function KirishimaWinterPage() {
                     </div>
                   </div>
 
-                  <div className="lg:col-span-7 p-6 sm:p-8 flex flex-col justify-between space-y-6">
+                  <div className="w-full p-5 sm:p-7 flex flex-col justify-between space-y-4">
                     <div className="space-y-3">
                       <div className="flex flex-wrap items-center justify-between gap-2">
                         <span className="text-xs font-bold text-rose-800 bg-rose-50 px-2.5 py-1 rounded-md border border-rose-200/50">

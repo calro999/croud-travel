@@ -382,8 +382,8 @@ export default function MisasaCrabWinterPage() {
                 key={hotel.id} 
                 className="bg-white rounded-3xl overflow-hidden border border-stone-200/90 shadow-sm hover:shadow-md transition-shadow duration-300"
               >
-                <div className="grid grid-cols-1 lg:grid-cols-12 gap-0">
-                  <div className="lg:col-span-5 relative h-64 sm:h-72 lg:h-auto min-h-[300px] bg-stone-100">
+                <div className="flex flex-col">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] overflow-hidden">
                     <Image
                       src={hotel.img}
                       alt={hotel.name}
@@ -396,7 +396,7 @@ export default function MisasaCrabWinterPage() {
                     </div>
                   </div>
 
-                  <div className="lg:col-span-7 p-6 sm:p-8 flex flex-col justify-between space-y-6">
+                  <div className="w-full p-5 sm:p-7 flex flex-col justify-between space-y-4">
                     <div>
                       <div className="flex flex-wrap items-center justify-between gap-2 mb-2">
                         <span className="text-xs font-semibold text-rose-700 bg-rose-50 px-2.5 py-1 rounded-md">

@@ -60,8 +60,8 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Topographic_map_of_Kyushu.webp/1280px-Topographic_map_of_Kyushu.webp"
                 alt="錦江湾に浮かぶ雄大な活火山・桜島"
@@ -73,7 +73,7 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">錦江湾に浮かぶ雄大な活火山・桜島の歴史と見どころ</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">桜島（さくらじま）は、日本の九州南部、鹿児島県の鹿児島湾（錦江湾）北部に位置する東西約12km、南北約10 km、周囲約55 km、面積約77 km2の活火山。鹿児島県指定名勝。 かつては名称のとおり島であったが、1914年（大正3年）に発生した大正大噴火により東側にかつて存在した瀬戸海峡が埋め立てられ大隅半島と陸続きになっている。  桜島火山は鹿児島湾北部に位置する直径約20kmの姶良カルデラ南縁付近にあり、このカルデラは2.9万年前の巨大噴火で誕生し、その3千年ほど後に桜島火山が誕生した。日本の火山の中では比較的新しい火山である。桜島火山は有史以来、噴火を頻繁に繰り返してきた。噴火の記録も多く、現在もなお活発な活動を続けている。海の中にそびえるその山容は特に異彩を放っており、鹿児島のシンボルの一つとされ、観光地としても知られている。2007年に日本の地質百選に選定された。国際火山学及び地球内部化学協会が指定する防災十年火山の一つだった。 また、火山噴火予知連絡会によって火山防災のために監視・観測体制の充実等の必要がある火山に選定されている。</p>
               <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">

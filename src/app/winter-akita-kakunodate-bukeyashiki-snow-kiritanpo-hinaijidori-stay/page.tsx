@@ -445,7 +445,7 @@ export default function AkitaKakunodatePage() {
             {hotels.map((hotel) => (
               <div 
                 key={hotel.id}
-                className="bg-white rounded-3xl border border-slate-200/80 shadow-xs hover:shadow-md transition-shadow duration-300 overflow-hidden flex flex-col md:flex-row"
+                className="bg-white rounded-3xl border border-slate-200/80 shadow-xs hover:shadow-md transition-shadow duration-300 overflow-hidden flex flex-col"
               >
                 {/* Hotel Image */}
                 <div className="md:w-5/12 relative min-h-[260px] md:min-h-[320px] bg-slate-100">

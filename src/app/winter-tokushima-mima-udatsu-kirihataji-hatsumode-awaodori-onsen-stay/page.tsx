@@ -313,8 +313,8 @@ export default function Page() {
               </span>
             </div>
 
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-5 items-center">
-              <div className="md:col-span-5 relative h-48 sm:h-56 rounded-xl overflow-hidden bg-stone-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Wakimati_minamimati_20250828_1.jpg/1280px-Wakimati_minamimati_20250828_1.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="国指定重要伝統的建造物群保存地区・脇町うだつの町並み（藍商人の繁栄美と冬情話）"
@@ -322,7 +322,7 @@ export default function Page() {
                   loading="lazy"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="font-bold text-stone-900 text-sm sm:text-base">
                   【国指定重要伝統的建造物群保存地区・脇町うだつの町並み（藍商人の繁栄美と冬情話）の見どころと歴史】
                 </h3>
@@ -376,8 +376,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/181667/181667.jpg"
                       alt="ＰＡＹＳＡＧＥ　ＭＯＲＩＧＵＣＨＩ（ペイサージュモリグチ）"
@@ -385,7 +385,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       脇町のうだつの町並みの中に佇む、江戸時代から続く藍商人「旧森口家」の歴史的邸宅を再生した珠玉のブティックホテル。黒漆喰の重厚な門をくぐると、往時の風情を残す柱や梁と洗練されたデザイナーズ家具が調和した上質な静寂が広がります。夕食には徳島産の旬魚介や阿波牛、吉野川の恵みを活かした本格フレンチディナーを提供。町の歴史の一部になったかのような贅沢な滞在が約束されます。
                     </p>
@@ -440,8 +440,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/13994/13994.jpg"
                       alt="癒しの宿　土柱ランド新温泉"
@@ -449,7 +449,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       アメリカのロッキー山脈、イタリアのチロル地方と並び「世界三大奇勝」に数えられる阿波の土柱のすぐそばに位置する温泉旅館。館内には古くから湯治客に親しまれてきた天然ラドン温泉が湧き、冬の観光で冷えた身体を芯からポカポカに温めてくれます。夕食には徳島が誇る「阿波牛」の濃厚なすき焼き会席が並び、雄大な自然に囲まれた静寂の中で心安らぐひとときを過ごせます。
                     </p>
@@ -507,8 +507,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/9409/9409.jpg"
                       alt="ビジネスホテルマツカ"
@@ -516,7 +516,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       美馬市脇町の中心市街地に位置し、うだつの町並み散策のベースキャンプとして絶大な支持を集めるホテル。最上階には市内を一望できる展望大浴場と本格サウナが備わり、冬の旅の疲れをゆったりと解き放つことができます。清潔で機能的な客室には快適なベッドやWi-Fiが完備され、観光からビジネスまで快適なステイをサポートしてくれます。
                     </p>
@@ -574,8 +574,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/40401/40401.jpg"
                       alt="セントラルホテル鴨島"
@@ -583,7 +583,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       吉野川市鴨島町の中心に位置し、四国霊場第十番・切幡寺や第十一番・藤井寺への巡礼、吉野川平野の観光拠点として長年親しまれるシティホテル。駅からのアクセスも良好で、館内には落ち着いた雰囲気の客室が揃います。食事処では徳島名産の阿波尾鶏を使った鍋料理や御膳が用意され、冬の静かな吉野川の旅を心地よくサポートしてくれます。
                     </p>
@@ -641,8 +641,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/67851/67851.jpg"
                       alt="ビジネスホテルアクセス阿波"
@@ -650,7 +650,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       徳島自動車道土成インターチェンジの目の前に位置し、マイカーでのにし阿波周遊や四国遍路の拠点として抜群の機動力を誇るホテル。全客室にシモンズ社製ベッドが導入され、快眠を追求した清潔な客室空間が魅力です。阿波の土柱や切幡寺へも車で数分と至近で、リーズナブルで快適な冬の徳島ステイが叶います。
                     </p>

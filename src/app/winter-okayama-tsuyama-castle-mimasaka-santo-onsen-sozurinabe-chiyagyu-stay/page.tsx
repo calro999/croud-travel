@@ -313,8 +313,8 @@ export default function Page() {
               </span>
             </div>
 
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-5 items-center">
-              <div className="md:col-span-5 relative h-48 sm:h-56 rounded-xl overflow-hidden bg-stone-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://upload.wikimedia.org/wikipedia/commons/c/c1/%E6%B4%A5%E5%B1%B1%E5%9F%8E%E5%82%99%E4%B8%AD%E6%AB%93.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
                   alt="日本三大平山城・津山城（鶴山公園・豪壮な石垣群と冬の雪化粧の城下町）"
@@ -322,7 +322,7 @@ export default function Page() {
                   loading="lazy"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="font-bold text-stone-900 text-sm sm:text-base">
                   【日本三大平山城・津山城（鶴山公園・豪壮な石垣群と冬の雪化粧の城下町）の見どころと歴史】
                 </h3>
@@ -376,8 +376,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/168420/168420.jpg"
                       alt="ザ・シロヤマテラス津山別邸"
@@ -385,7 +385,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       津山城跡の麓に誕生した、城下町の歴史と現代の快適性が調和したハイクラス・シティリゾート。広々としたテラス付き客室からは荘厳な津山城の石垣が一望でき、冬のライトアップされた夜城も旅情を高めます。最上階の展望露天風呂「城見の湯」では、冷たい冬風を感じながら良質な天然温泉に浸かる極上のリラックスを満喫。夕食には岡山が誇る最古の血統牛「千屋牛」の鉄板焼きやすき焼きが並び、贅沢な冬の夜を約束します。
                     </p>
@@ -443,8 +443,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/19734/19734.jpg"
                       alt="登録有形文化財の宿　奥津温泉　名泉鍵湯　奥津荘"
@@ -452,7 +452,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       奥津川の清流沿いに佇む、棟方志功をはじめ数々の文人墨客が逗留した名宿。宿の象徴である「鍵湯」は、かつて津山藩主が鍵をかけて一般人の入浴を禁じたほどの霊泉で、川底の岩盤の間から自噴する無色透明の極上湯に空気に触れることなく浸かれます。木造建築の温もりと静寂が漂う館内、雪見の渓流を眺めながら味わう山里料理の数々は、冬の温泉旅の究極の癒やしを提供してくれます。
                     </p>
@@ -507,8 +507,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/177949/177949.jpg"
                       alt="八景"
@@ -516,7 +516,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       湯原温泉のシンボル「砂湯」の対岸、旭川の清流のほとりに建つ心温まる料理宿。女性や家族連れに絶大な支持を受ける理由は、調味料から手作りにこだわり、地元美作の大地が育んだ旬の野菜を50種類以上使って仕立てる滋味あふれる「山里料理」。川面を望む露天風呂からは冬の雪化粧した山肌が間近に迫り、柔らかな名湯が旅の疲れを優しく解き放ちます。
                     </p>
@@ -574,8 +574,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/147649/147649.jpg"
                       alt="湯原温泉　元禄旅籠　油屋"
@@ -583,7 +583,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       湯原温泉街の中心に位置し、300年以上の歴史を誇る老舗旅館。名作映画の舞台を思わせる風格ある佇まいと、現代の過ごしやすさを両立した客室が迎えます。館内には自家源泉から滾々と注がれる「薬師湯」があり、肌に吸い付くような柔らかな湯ざわりが自慢。冬の夕食には、地元の伝統そずり鍋や厳選和牛、日本海から届く新鮮魚介を取り入れた豪華会席が並び、老舗ならではの深いもてなしを実感できます。
                     </p>
@@ -641,8 +641,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/17794/17794.jpg"
                       alt="湯郷温泉　ポピースプリングス　リゾート＆スパ"
@@ -650,7 +650,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       白鷺の伝説で名高い湯郷温泉にありながら、カリフォルニアのミッション様式を取り入れたスタイリッシュなリゾートホテル。館内には心地よいハーブの香りが漂い、美肌の湯郷温泉を引いたジャグジー大浴場や本格アロマトリートメントで極上のリフレッシュが叶います。夕食は地元の契約農家が育てる有機野菜や良質肉を使ったヘルシーな本格フレンチコース。女子旅やカップルでの冬の温泉ステイに最適な一軒です。
                     </p>

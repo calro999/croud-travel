@@ -68,8 +68,8 @@ export default function KurashikiBudgetAutumnPage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Kurasiki_morning01.JPG/1280px-Kurasiki_morning01.JPG"
                 alt="白壁と柳並木の町並み保存地区・倉敷美観地区"
@@ -81,7 +81,7 @@ export default function KurashikiBudgetAutumnPage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">白壁と柳並木の町並み保存地区・倉敷美観地区の歴史と見どころ</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">倉敷美観地区（くらしきびかんちく、Kurashiki Bikan historical quarter）は、岡山県倉敷市にある町並保存地区・観光地区である。 当エリアは倉敷市の美観地区景観条例にもとづき定められたもので、同市本町全域、中央1丁目北部（前神町など）、東町・阿知2丁目・鶴形2丁目の各一部が含まれる。広義の美観地区の面積は21.0ヘクタールで、うち伝統的建造物群保存地区（第一種美観地区）が15.0ヘクタール、伝統美観保存地区（第二種美観地区）が6.0ヘクタールとなっている。伝統的建造物群保存地区（倉敷川周辺）は倉敷川畔伝統的建造物群保存地区（くらしきがわはん でんとうてきけんぞうぶつぐん ほぞんちく）の名称で国の重要伝統的建造物群保存地区として選定されている。 江戸時代初期の寛永19年（1642年）、江戸幕府の天領に定められた際に倉敷代官所が当地区に設けられ、以来備中国南部の物資の集散地として発展した歴史を持つ。倉敷川の畔から鶴形山南側の街道一帯に白壁なまこ壁の屋敷や蔵が並び、天領時代の町並みをよく残している。1969年に倉敷市の条例に基づき美観地区に定められ、1979年（昭和54年）に県内2件目の重要伝統的建造物群保存地区として選定された。 また、1930年（昭和5年）に建てられた日本最初の西洋美術館大原美術館や1888年（明治21年）に代官所跡地に建てられた旧倉敷紡績工場の建物を改修・再利用した観光施設倉敷アイビースクエア等も当地区を代表する建築物である。</p>
               <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
@@ -100,7 +100,7 @@ export default function KurashikiBudgetAutumnPage() {
 
           <div className="space-y-8">
 
-            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col md:flex-row hover:shadow-md transition">
+            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col hover:shadow-md transition">
               <div className="md:w-5/12 relative h-56 md:h-auto min-h-[220px]">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/80773/80773.jpg"
@@ -147,7 +147,7 @@ export default function KurashikiBudgetAutumnPage() {
               </div>
             </div>
 
-            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col md:flex-row hover:shadow-md transition">
+            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col hover:shadow-md transition">
               <div className="md:w-5/12 relative h-56 md:h-auto min-h-[220px]">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/178392/178392.jpg"
@@ -194,7 +194,7 @@ export default function KurashikiBudgetAutumnPage() {
               </div>
             </div>
 
-            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col md:flex-row hover:shadow-md transition">
+            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col hover:shadow-md transition">
               <div className="md:w-5/12 relative h-56 md:h-auto min-h-[220px]">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/181244/181244.jpg"
@@ -241,7 +241,7 @@ export default function KurashikiBudgetAutumnPage() {
               </div>
             </div>
 
-            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col md:flex-row hover:shadow-md transition">
+            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col hover:shadow-md transition">
               <div className="md:w-5/12 relative h-56 md:h-auto min-h-[220px]">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/182714/182714.jpg"
@@ -288,7 +288,7 @@ export default function KurashikiBudgetAutumnPage() {
               </div>
             </div>
 
-            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col md:flex-row hover:shadow-md transition">
+            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col hover:shadow-md transition">
               <div className="md:w-5/12 relative h-56 md:h-auto min-h-[220px]">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/72042/72042.jpg"

@@ -304,9 +304,9 @@ export default function GunmaManzaWinterPage() {
             {hotelsData.map((h) => (
               <article 
                 key={h.id}
-                className="bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-shadow duration-300 border border-slate-100 flex flex-col lg:flex-row"
+                className="bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-shadow duration-300 border border-slate-100 flex flex-col"
               >
-                <div className="lg:w-2/5 relative min-h-[260px] lg:min-h-full">
+                <div className="relative w-full aspect-[16/9] sm:aspect-[21/9] bg-slate-100 overflow-hidden">
                   <img 
                     src={h.img} 
                     alt={h.name}

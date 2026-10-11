@@ -64,7 +64,7 @@ export default function KyotoNightsGuide() {
             回れるエリアの限界を知る
           </h2>
           
-          <div className="flex flex-col md:flex-row gap-6">
+          <div className="flex flex-col gap-6">
             <div className="flex-1 bg-stone-100 rounded-2xl p-6 border-l-4 border-stone-400">
               <h3 className="font-bold text-lg text-stone-800 mb-3">⏱ 1泊2日の場合</h3>
               <p className="text-stone-700 mb-3"><strong>限界エリア：</strong> 東山エリア（清水寺・八坂神社・祇園）＋ 嵐山エリア</p>

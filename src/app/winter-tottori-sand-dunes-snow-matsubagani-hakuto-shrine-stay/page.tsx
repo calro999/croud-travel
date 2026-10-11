@@ -281,9 +281,9 @@ export default function TottoriSandDunesPage() {
                   <span>鳥取県鳥取市永楽温泉町651（鳥取駅より徒歩10分・無料送迎バス有 / 中国道佐用JCT経由鳥取ＩＣより車８分　鳥取砂丘へ車２０分　コンビニ徒歩2分）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                       <img 
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/14072/14072.jpg" 
                         alt="鳥取温泉　観水庭こぜにや 外観・客室イメージ" 
@@ -293,7 +293,7 @@ export default function TottoriSandDunesPage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
                         <CheckCircle2 className="w-4 h-4 text-amber-600" />
@@ -368,9 +368,9 @@ export default function TottoriSandDunesPage() {
                   <span>鳥取県鳥取市永楽温泉町403（ＪＲ鳥取駅北口出口より徒歩5分 / 鳥取自動車道鳥取ICより車で10分 / コンビニへ徒歩1分 / 鳥取砂丘へ車で20分）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                       <img 
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/591/591.jpg" 
                         alt="鳥取温泉　ホテルモナーク鳥取 外観・客室イメージ" 
@@ -380,7 +380,7 @@ export default function TottoriSandDunesPage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
                         <CheckCircle2 className="w-4 h-4 text-amber-600" />
@@ -455,9 +455,9 @@ export default function TottoriSandDunesPage() {
                   <span>鳥取県鳥取市今町2-153（JR/ＪＲ鳥取駅から徒歩３分。 車/鳥取ＩＣより車で７分。）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                       <img 
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/5623/5623.jpg" 
                         alt="ホテルニューオータニ鳥取 外観・客室イメージ" 
@@ -467,7 +467,7 @@ export default function TottoriSandDunesPage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
                         <CheckCircle2 className="w-4 h-4 text-amber-600" />
@@ -542,9 +542,9 @@ export default function TottoriSandDunesPage() {
                   <span>鳥取県鳥取市末広温泉町556（ＪＲ鳥取駅よりバス５分→生協病院前　徒歩2分 JR鳥取駅より徒歩15分）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                       <img 
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/18911/18911.jpg" 
                         alt="鳥取温泉　白兎会館 外観・客室イメージ" 
@@ -554,7 +554,7 @@ export default function TottoriSandDunesPage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
                         <CheckCircle2 className="w-4 h-4 text-amber-600" />
@@ -629,9 +629,9 @@ export default function TottoriSandDunesPage() {
                   <span>鳥取県鳥取市永楽温泉町102-6（ＪＲ鳥取駅北口より徒歩にて約３分、鳥取自動車道 鳥取ＩＣより国道53号線を鳥取市方面へ車で14分）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                       <img 
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/176748/176748.jpg" 
                         alt="グリーンリッチホテル鳥取駅前　人工温泉・二股湯の華 外観・客室イメージ" 
@@ -641,7 +641,7 @@ export default function TottoriSandDunesPage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
                         <CheckCircle2 className="w-4 h-4 text-amber-600" />

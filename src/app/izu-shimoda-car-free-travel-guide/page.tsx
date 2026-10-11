@@ -243,7 +243,7 @@ export default function IzuShimodaCarFreeTravelGuidePage() {
           ))}
         </div>
 
-        <div className="bg-cyan-900 text-cyan-100 rounded-2xl p-5 text-xs md:text-sm flex flex-col md:flex-row items-center justify-between gap-4">
+        <div className="bg-cyan-900 text-cyan-100 rounded-2xl p-5 text-xs md:text-sm flex flex-col items-center justify-between gap-4">
           <div className="space-y-1">
             <div className="font-bold text-white flex items-center gap-2">
               <span>💡</span> 電車ファン必見「リゾート21（黒船電車・キンメ電車）」
@@ -342,7 +342,7 @@ export default function IzuShimodaCarFreeTravelGuidePage() {
 
       {/* 楽天トラベル クーポン＆ホテルセクション */}
       <section className="space-y-6">
-        <div className="flex flex-col md:flex-row md:items-end justify-between gap-3 border-b border-cyan-200 pb-4">
+        <div className="flex flex-col md:items-end justify-between gap-3 border-b border-cyan-200 pb-4">
           <div>
             <div className="inline-flex items-center gap-1.5 text-xs font-black text-cyan-600 tracking-wider uppercase mb-1">
               <span className="w-2 h-2 rounded-full bg-cyan-500"></span>

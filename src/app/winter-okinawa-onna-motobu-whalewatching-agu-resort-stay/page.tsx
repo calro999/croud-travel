@@ -369,10 +369,10 @@ export default function OkinawaOnnaMotobuWinterPage() {
             {hotelsData.map((hotel) => (
               <div 
                 key={hotel.id}
-                className="bg-white rounded-3xl overflow-hidden shadow-xs border border-stone-200 hover:shadow-md transition-shadow duration-300 flex flex-col md:flex-row"
+                className="bg-white rounded-3xl overflow-hidden shadow-xs border border-stone-200 hover:shadow-md transition-shadow duration-300 flex flex-col"
               >
                 {/* Hotel Image */}
-                <div className="md:w-2/5 relative min-h-[260px] md:min-h-full bg-stone-100 overflow-hidden">
+                <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                   <img 
                     src={hotel.img} 
                     alt={hotel.name}
@@ -390,7 +390,7 @@ export default function OkinawaOnnaMotobuWinterPage() {
                 </div>
 
                 {/* Hotel Details */}
-                <div className="p-6 md:p-8 md:w-3/5 flex flex-col justify-between space-y-5">
+                <div className="p-6 md:p-8 w-full flex flex-col justify-between space-y-5">
                   <div className="space-y-3">
                     <div className="flex flex-wrap items-center justify-between gap-2">
                       <span className="text-xs text-stone-500 flex items-center gap-1">

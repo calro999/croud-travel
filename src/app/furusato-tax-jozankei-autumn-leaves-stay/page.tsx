@@ -171,7 +171,7 @@ export default function FeatureArticlePage() {
                   </p>
                 </div>
 
-                <div className="grid md:grid-cols-12 gap-6 items-center">
+                <div className="flex flex-col gap-5 items-center">
                   <div className="md:col-span-6">
                     <div className="relative aspect-video rounded-2xl overflow-hidden shadow-inner bg-stone-100 group">
                       <img
@@ -240,7 +240,7 @@ export default function FeatureArticlePage() {
                   </p>
                 </div>
 
-                <div className="grid md:grid-cols-12 gap-6 items-center">
+                <div className="flex flex-col gap-5 items-center">
                   <div className="md:col-span-6">
                     <div className="relative aspect-video rounded-2xl overflow-hidden shadow-inner bg-stone-100 group">
                       <img
@@ -309,7 +309,7 @@ export default function FeatureArticlePage() {
                   </p>
                 </div>
 
-                <div className="grid md:grid-cols-12 gap-6 items-center">
+                <div className="flex flex-col gap-5 items-center">
                   <div className="md:col-span-6">
                     <div className="relative aspect-video rounded-2xl overflow-hidden shadow-inner bg-stone-100 group">
                       <img

@@ -383,9 +383,9 @@ export default function KochiSukumoShimantoWinterPage() {
             <div className="space-y-8">
               {hotelsList.map((hotel) => (
                 <article key={hotel.id} className="bg-white rounded-2xl border border-slate-200 overflow-hidden shadow-sm hover:shadow-md transition-shadow">
-                  <div className="grid grid-cols-1 md:grid-cols-12 gap-6 p-6">
+                  <div className="flex flex-col p-5 sm:p-7 md:p-8 gap-5">
                     <div className="md:col-span-5 flex flex-col justify-between">
-                      <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-slate-100 mb-4">
+                      <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 mb-4">
                         <img
                           src={hotel.img}
                           alt={hotel.name}
@@ -414,7 +414,7 @@ export default function KochiSukumoShimantoWinterPage() {
                       </div>
                     </div>
 
-                    <div className="md:col-span-7 flex flex-col justify-between space-y-4">
+                    <div className="w-full flex flex-col justify-between space-y-4">
                       <div>
                         <h3 className="text-xl font-bold text-slate-900 leading-snug mb-2">
                           {hotel.name}

@@ -60,8 +60,8 @@ export default function AutumnBudgetToyamaStationHotelsPage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Toyama_Municipal_Folk_Museum_%28mock_keep_tower_of_the_Toyama_Castle%29_20180503.jpg/1280px-Toyama_Municipal_Folk_Museum_%28mock_keep_tower_of_the_Toyama_Castle%29_20180503.jpg"
                 alt="富山城（富山城址公園）"
@@ -73,7 +73,7 @@ export default function AutumnBudgetToyamaStationHotelsPage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">富山城（浮城・安住城）の歴史と散策ハイライト</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
                 富山城（とやまじょう）は、越中国新川郡富山（現在の富山県富山市丸の内）にあった平城。「浮城（うきしろ）」や「安住城」とも称され、続日本100名城の一つに選定されています。秋には公園内の樹木が鮮やかに色づき、水濠に映る天守閣と紅葉のコントラストが美しい市民の憩いの場です。
@@ -100,8 +100,8 @@ export default function AutumnBudgetToyamaStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（朝食高評価）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/54041/54041.jpg"
                   alt="コンフォートホテル富山駅前"
@@ -110,7 +110,7 @@ export default function AutumnBudgetToyamaStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   コンフォートホテル富山駅前
                 </h3>
@@ -155,8 +155,8 @@ export default function AutumnBudgetToyamaStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（高機能設備）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/111246/111246.jpg"
                   alt="アパホテル〈富山駅前南〉"
@@ -165,7 +165,7 @@ export default function AutumnBudgetToyamaStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   アパホテル〈富山駅前南〉
                 </h3>
@@ -210,8 +210,8 @@ export default function AutumnBudgetToyamaStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（駅チカ安心感）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/108377/108377.jpg"
                   alt="東横ＩＮＮ富山駅新幹線口１"
@@ -220,7 +220,7 @@ export default function AutumnBudgetToyamaStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   東横ＩＮＮ富山駅新幹線口１
                 </h3>
@@ -265,8 +265,8 @@ export default function AutumnBudgetToyamaStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（サウナ付き大浴場）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/15287/15287.jpg"
                   alt="ホテルアルファーワン富山駅前"
@@ -275,7 +275,7 @@ export default function AutumnBudgetToyamaStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   ホテルアルファーワン富山駅前
                 </h3>
@@ -320,8 +320,8 @@ export default function AutumnBudgetToyamaStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（大浴場＆朝食）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/2101/2101.jpg"
                   alt="ホテルルートイン富山駅前"
@@ -330,7 +330,7 @@ export default function AutumnBudgetToyamaStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   ホテルルートイン富山駅前
                 </h3>

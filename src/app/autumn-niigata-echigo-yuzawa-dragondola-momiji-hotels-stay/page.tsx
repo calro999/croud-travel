@@ -241,8 +241,8 @@ export default function FeaturePage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Naeba_Ski_Resort_%286788805622%29.jpg/1280px-Naeba_Ski_Resort_%286788805622%29.jpg"
                 alt="日本最長ゴンドラ・苗場ドラゴンドラと越後湯沢温泉"
@@ -254,7 +254,7 @@ export default function FeaturePage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">日本最長ゴンドラ・苗場ドラゴンドラと越後湯沢温泉の歴史と見どころ</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">苗場スキー場（なえばスキーじょう）は、日本の新潟県南魚沼郡湯沢町大字三国にあるスキー場。旧コクドの経営を引き継いだ西武グループの株式会社西武・プリンスホテルズワールドワイドが運営している。西武グループの総帥だった堤義明がスキー場を中心とした一大リゾート地を建設する構想を立て、グループ系列の国土計画が三国山脈の筍山（たけのこやま、標高1789.7 m、後述）一帯の土地を購入、1961年（昭和36年）12月23日に苗場国際スキー場という名称でオープンした。その後、1973年（昭和48年）5月に現在の「苗場スキー場」に改称している。またスキー場内には日本のリゾートホテルの代表格と評される苗場プリンスホテルが立地しており、同ホテルも客室1800、収容人数4200人という規模から「世界一の規模」といわれた。ゲレンデの標高差は約900 mにおよび、積雪の深さは2 - 4 m、雪質は粉雪である。 新潟県はスキー場が多い県であるが、その中でも苗場スキー場は東京から2時間圏内の本格的スキー場であること、また標高が高く雪質が良いことから、スキー客に人気があると評され、日本を代表するスキー場、日本屈指の集客力を誇るスキー場とも評されている。1991年（平成3年）時点では単一スキー場としては日本一の収容数を誇り、スキーブームにあった1992年（平成4年）には利用客302万人を記録、スキーをしない者でもその名を知る場所と言われた。1998年（平成10年）の正月三が日には東京ディズニーランドの21万人に次ぎ、苗場スキー場には日本の行楽地で2番目となる15万人の行楽客が訪れており、また警察庁が2003年（平成15年）末に発表した2004年（平成16年）正月三が日の人出予想でも、苗場スキー場は東京ディズニーリゾート (TDL) 、ユニバーサル・スタジオ・ジャパン (USJ) とともに、10万人以上の人出が見込まれる行楽地3箇所の一つとして挙げられている。</p>
               <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
@@ -278,9 +278,9 @@ export default function FeaturePage() {
             {hotelList.map((hotel, index) => (
               <div 
                 key={index} 
-                className="bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-all duration-300 border border-stone-200/80 flex flex-col md:flex-row group"
+                className="bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-all duration-300 border border-stone-200/80 flex flex-col group"
               >
-                <div className="relative w-full md:w-2/5 h-64 md:h-auto min-h-[260px] overflow-hidden">
+                <div className="relative w-full aspect-[16/9] sm:aspect-[21/9] md:aspect-[2/1] overflow-hidden">
                   <Image 
                     src={hotel.img} 
                     alt={hotel.name}
@@ -293,7 +293,7 @@ export default function FeaturePage() {
                   </div>
                 </div>
 
-                <div className="p-6 md:p-8 md:w-3/5 flex flex-col justify-between space-y-6">
+                <div className="p-6 md:p-8 w-full flex flex-col justify-between space-y-6">
                   <div>
                     <div className="flex items-center gap-2 mb-2">
                       <div className="flex items-center text-amber-500">

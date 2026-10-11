@@ -338,7 +338,7 @@ export default function TokyoAsakusaWinterPage() {
             {hotels.map((hotel) => (
               <div 
                 key={hotel.id} 
-                className="bg-white rounded-3xl overflow-hidden border border-slate-200/80 shadow-md hover:shadow-xl transition-all duration-300 flex flex-col md:flex-row"
+                className="bg-white rounded-3xl overflow-hidden border border-slate-200/80 shadow-md hover:shadow-xl transition-all duration-300 flex flex-col"
               >
                 {/* Hotel Image */}
                 <div className="relative md:w-2/5 h-64 md:h-auto min-h-[260px] bg-slate-100 overflow-hidden">
@@ -356,7 +356,7 @@ export default function TokyoAsakusaWinterPage() {
                 </div>
 
                 {/* Hotel Info */}
-                <div className="p-6 sm:p-8 md:w-3/5 flex flex-col justify-between space-y-6">
+                <div className="p-6 sm:p-8 w-full flex flex-col justify-between space-y-6">
                   <div className="space-y-3">
                     <div className="flex items-center gap-2 text-xs font-medium text-red-700 bg-red-50 px-3 py-1 rounded-lg w-fit">
                       <MapPin className="w-3.5 h-3.5" />

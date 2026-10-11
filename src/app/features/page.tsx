@@ -76,7 +76,7 @@ export default async function FeaturesPage() {
       </section>
 
       {/* 🍁 秋の行楽・美食温泉宿35選 特設まとめバナー */}
-      <section className="bg-gradient-to-r from-amber-600 via-orange-600 to-amber-700 rounded-3xl p-6 md:p-8 text-white shadow-lg flex flex-col md:flex-row items-center justify-between gap-6">
+      <section className="bg-gradient-to-r from-amber-600 via-orange-600 to-amber-700 rounded-3xl p-6 md:p-8 text-white shadow-lg flex flex-col items-center justify-between gap-6">
         <div className="space-y-2">
           <span className="inline-block text-[10px] font-black tracking-wider bg-white/20 px-3 py-0.5 rounded-full uppercase">
             季節の超特別企画 🍁

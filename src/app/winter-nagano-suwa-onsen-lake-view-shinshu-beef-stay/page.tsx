@@ -462,7 +462,7 @@ export default function SuwaOnsenWinterPage() {
             {hotelList.map((hotel) => (
               <div 
                 key={hotel.id}
-                className="bg-white rounded-3xl overflow-hidden shadow-sm hover:shadow-md transition-shadow border border-slate-200/80 flex flex-col md:flex-row"
+                className="bg-white rounded-3xl overflow-hidden shadow-sm hover:shadow-md transition-shadow border border-slate-200/80 flex flex-col"
               >
                 <div className="relative md:w-2/5 h-64 md:h-auto min-h-[260px] bg-slate-100">
                   <Image
@@ -485,7 +485,7 @@ export default function SuwaOnsenWinterPage() {
                   </div>
                 </div>
 
-                <div className="p-6 sm:p-8 md:w-3/5 flex flex-col justify-between space-y-5">
+                <div className="p-6 sm:p-8 w-full flex flex-col justify-between space-y-5">
                   <div className="space-y-3">
                     <div className="space-y-1">
                       <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-sky-800 transition">

@@ -388,7 +388,7 @@ export default function TokushimaMinamiawaWinterPage() {
                 >
                   <div className="p-6 md:p-8 space-y-6">
                     {/* Header */}
-                    <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 border-b border-slate-100 pb-4">
+                    <div className="flex flex-col md:items-center justify-between gap-4 border-b border-slate-100 pb-4">
                       <div>
                         <div className="flex items-center gap-2 mb-1">
                           <span className="bg-blue-600 text-white text-xs font-bold px-2.5 py-0.5 rounded-full">

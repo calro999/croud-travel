@@ -195,7 +195,7 @@ export default function TokyoDepartureDaytripBusTourPage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「季節のフルーツ狩り・絶景温泉・食べ放題の最強プラン徹底比較。」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
       />
         {/* 🌟 Official Banner Section */}
-        <section className="bg-gradient-to-r from-emerald-600 via-teal-600 to-emerald-700 rounded-3xl p-6 md:p-8 text-white shadow-xl shadow-emerald-900/10 flex flex-col md:flex-row items-center justify-between gap-6 border border-emerald-400/30">
+        <section className="bg-gradient-to-r from-emerald-600 via-teal-600 to-emerald-700 rounded-3xl p-6 md:p-8 text-white shadow-xl shadow-emerald-900/10 flex flex-col items-center justify-between gap-6 border border-emerald-400/30">
           <div className="space-y-2 text-center md:text-left">
             <span className="inline-block px-3 py-0.5 rounded-full bg-white/20 text-white text-xs font-extrabold uppercase tracking-wider">
               Rakuten Travel Official

@@ -186,7 +186,7 @@ export default function OsakaTravelBudgetPage() {
                 key={hotel.hotelNo}
                 className="flex flex-col bg-white rounded-2xl overflow-hidden shadow border border-emerald-900/10 hover:shadow-lg transition-shadow"
               >
-                <div className="aspect-[4/3] relative bg-stone-100">
+                <div className="aspect-[16/9] sm:aspect-[21/9] relative bg-stone-100">
                   {hotel.hotelImageUrl ? (
                     <img
                       src={hotel.hotelImageUrl}

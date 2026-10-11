@@ -135,7 +135,7 @@ export default function Page() {
                 </p>
               </div>
 
-              <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 p-6 sm:p-8 items-center bg-slate-950/40">
+              <div className="flex flex-col p-5 sm:p-7 md:p-8 gap-5 items-center bg-slate-950/40">
                 <div className="lg:col-span-5 relative h-64 sm:h-72 w-full rounded-2xl overflow-hidden border border-slate-800">
                   <Image
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/18848/18848.jpg"
@@ -149,7 +149,7 @@ export default function Page() {
                   </div>
                 </div>
 
-                <div className="lg:col-span-7 flex flex-col justify-between space-y-4">
+                <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
                     <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
                       宮島グランドホテル　有もと
@@ -206,7 +206,7 @@ export default function Page() {
                 </p>
               </div>
 
-              <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 p-6 sm:p-8 items-center bg-slate-950/40">
+              <div className="flex flex-col p-5 sm:p-7 md:p-8 gap-5 items-center bg-slate-950/40">
                 <div className="lg:col-span-5 relative h-64 sm:h-72 w-full rounded-2xl overflow-hidden border border-slate-800">
                   <Image
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/184470/184470.jpg"
@@ -220,7 +220,7 @@ export default function Page() {
                   </div>
                 </div>
 
-                <div className="lg:col-span-7 flex flex-col justify-between space-y-4">
+                <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
                     <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
                       ホテル奈良さくらいの郷
@@ -277,7 +277,7 @@ export default function Page() {
                 </p>
               </div>
 
-              <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 p-6 sm:p-8 items-center bg-slate-950/40">
+              <div className="flex flex-col p-5 sm:p-7 md:p-8 gap-5 items-center bg-slate-950/40">
                 <div className="lg:col-span-5 relative h-64 sm:h-72 w-full rounded-2xl overflow-hidden border border-slate-800">
                   <Image
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/183379/183379.jpg"
@@ -291,7 +291,7 @@ export default function Page() {
                   </div>
                 </div>
 
-                <div className="lg:col-span-7 flex flex-col justify-between space-y-4">
+                <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
                     <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
                       ホテルオークラ京都　岡崎別邸

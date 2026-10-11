@@ -201,7 +201,7 @@ export default function AwajiIslandCarFreePage() {
 
       <div className="max-w-5xl mx-auto px-4 mt-8 space-y-12">
         {/* 🏷️ 楽天トラベル 高速バス＆宿泊予約バナー */}
-        <div className="bg-gradient-to-r from-indigo-900 via-indigo-800 to-sky-900 rounded-2xl p-5 md:p-6 text-white shadow-md flex flex-col md:flex-row items-center justify-between gap-4 border border-indigo-700/50">
+        <div className="bg-gradient-to-r from-indigo-900 via-indigo-800 to-sky-900 rounded-2xl p-5 md:p-6 text-white shadow-md flex flex-col items-center justify-between gap-4 border border-indigo-700/50">
           <div className="space-y-1 text-center md:text-left">
             <span className="inline-block bg-sky-400 text-slate-950 text-[11px] font-black px-2.5 py-0.5 rounded">
               楽天トラベル 高速バス・宿クーポン

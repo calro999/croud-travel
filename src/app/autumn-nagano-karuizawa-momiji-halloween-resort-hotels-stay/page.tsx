@@ -241,8 +241,8 @@ export default function FeaturePage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Mikasa-Dori%2C_Karuizawa.jpg/1280px-Mikasa-Dori%2C_Karuizawa.jpg"
                 alt="高原リゾート・軽井沢の紅葉と雲場池"
@@ -254,7 +254,7 @@ export default function FeaturePage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">高原リゾート・軽井沢の紅葉と雲場池の歴史と見どころ</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">軽井沢（かるいざわ）は、長野県東信地方の佐久地域を中心に見られる地名である。避暑地・別荘地としてブランド化された地名であり、狭義には長野県北佐久郡軽井沢町の旧軽井沢地区（ウィキ座標、旧軽井沢メインストリートも参照）あるいは軽井沢町全体を指し、広義には隣接する御代田町（西軽井沢）、群馬県吾妻郡長野原町大字北軽井沢・吾妻郡嬬恋村（奥軽井沢）・安中市（東軽井沢）といった周辺部を含む。</p>
               <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
@@ -278,9 +278,9 @@ export default function FeaturePage() {
             {hotelList.map((hotel, index) => (
               <div 
                 key={index} 
-                className="bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-all duration-300 border border-stone-200/80 flex flex-col md:flex-row group"
+                className="bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-all duration-300 border border-stone-200/80 flex flex-col group"
               >
-                <div className="relative w-full md:w-2/5 h-64 md:h-auto min-h-[260px] overflow-hidden">
+                <div className="relative w-full aspect-[16/9] sm:aspect-[21/9] md:aspect-[2/1] overflow-hidden">
                   <Image 
                     src={hotel.img} 
                     alt={hotel.name}
@@ -293,7 +293,7 @@ export default function FeaturePage() {
                   </div>
                 </div>
 
-                <div className="p-6 md:p-8 md:w-3/5 flex flex-col justify-between space-y-6">
+                <div className="p-6 md:p-8 w-full flex flex-col justify-between space-y-6">
                   <div>
                     <div className="flex items-center gap-2 mb-2">
                       <div className="flex items-center text-amber-500">

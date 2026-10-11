@@ -307,7 +307,7 @@ export default function KyotoKifuneKuramaPage() {
                 key={h.id}
                 className="bg-white rounded-3xl overflow-hidden shadow-xs border border-stone-200/80 hover:shadow-md transition duration-300"
               >
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-0">
+                <div className="flex flex-col">
                   <div className="md:col-span-5 relative min-h-[240px] md:min-h-full">
                     <img 
                       src={h.img} 

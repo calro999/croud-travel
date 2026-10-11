@@ -146,7 +146,7 @@ export default function FurusatoFeaturePage() {
                 key="27871"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/27871/27871.jpg"
                     alt="湯野温泉　芳山園"
@@ -192,7 +192,7 @@ export default function FurusatoFeaturePage() {
                 key="13743"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/13743/13743.jpg"
                     alt="宮浜温泉　湯の宿　宮浜グランドホテル"
@@ -253,7 +253,7 @@ export default function FurusatoFeaturePage() {
                 key="198507"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/198507/198507.jpg"
                     alt="大江戸温泉物語Ｐｒｅｍｉｕｍ　長崎ホテル清風（リニューアルオープン）"
@@ -299,7 +299,7 @@ export default function FurusatoFeaturePage() {
                 key="15873"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/15873/15873.jpg"
                     alt="長崎バスターミナルホテル"
@@ -345,7 +345,7 @@ export default function FurusatoFeaturePage() {
                 key="108257"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/108257/108257.jpg"
                     alt="稲佐山温泉　ホテルアマンディ　～長崎の日本三大夜景を一望～"
@@ -406,7 +406,7 @@ export default function FurusatoFeaturePage() {
                 key="4822"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/4822/4822.jpg"
                     alt="ホテルイースト２１東京（オークラホテルズ＆リゾーツ）"
@@ -452,7 +452,7 @@ export default function FurusatoFeaturePage() {
                 key="5754"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/5754/5754.jpg"
                     alt="水戸プラザホテル"

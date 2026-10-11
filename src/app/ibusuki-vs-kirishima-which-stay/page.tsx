@@ -200,8 +200,8 @@ export default function IbusukiVsKirishimaPage() {
           <div className="grid gap-8">
             
             <div className="bg-white rounded-3xl border border-stone-200 overflow-hidden shadow-sm hover:shadow-md transition">
-              <div className="grid md:grid-cols-12 gap-6 p-6 sm:p-8">
-                <div className="md:col-span-5 relative min-h-[220px] rounded-2xl overflow-hidden bg-stone-100">
+              <div className="flex flex-col gap-5 p-6 sm:p-8">
+                <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-2xl overflow-hidden bg-stone-100">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/12529/12529.jpg"
                     alt="鹿児島　砂むし温泉　指宿白水館"
@@ -212,7 +212,7 @@ export default function IbusukiVsKirishimaPage() {
                     指宿名門・砂むし館内完備
                   </div>
                 </div>
-                <div className="md:col-span-7 flex flex-col justify-between space-y-4">
+                <div className="w-full flex flex-col justify-between space-y-4">
                   <div className="space-y-2">
                     <div className="flex items-center gap-3">
                       <span className="text-xs text-stone-500 flex items-center gap-1">
@@ -250,8 +250,8 @@ export default function IbusukiVsKirishimaPage() {
               </div>
             </div>
             <div className="bg-white rounded-3xl border border-stone-200 overflow-hidden shadow-sm hover:shadow-md transition">
-              <div className="grid md:grid-cols-12 gap-6 p-6 sm:p-8">
-                <div className="md:col-span-5 relative min-h-[220px] rounded-2xl overflow-hidden bg-stone-100">
+              <div className="flex flex-col gap-5 p-6 sm:p-8">
+                <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-2xl overflow-hidden bg-stone-100">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/49347/49347.jpg"
                     alt="指宿温泉　夫婦露天風呂の宿　吟松（ぎんしょう）"
@@ -262,7 +262,7 @@ export default function IbusukiVsKirishimaPage() {
                     錦江湾フロント・夫婦露天風呂
                   </div>
                 </div>
-                <div className="md:col-span-7 flex flex-col justify-between space-y-4">
+                <div className="w-full flex flex-col justify-between space-y-4">
                   <div className="space-y-2">
                     <div className="flex items-center gap-3">
                       <span className="text-xs text-stone-500 flex items-center gap-1">
@@ -300,8 +300,8 @@ export default function IbusukiVsKirishimaPage() {
               </div>
             </div>
             <div className="bg-white rounded-3xl border border-stone-200 overflow-hidden shadow-sm hover:shadow-md transition">
-              <div className="grid md:grid-cols-12 gap-6 p-6 sm:p-8">
-                <div className="md:col-span-5 relative min-h-[220px] rounded-2xl overflow-hidden bg-stone-100">
+              <div className="flex flex-col gap-5 p-6 sm:p-8">
+                <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-2xl overflow-hidden bg-stone-100">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/31775/31775.jpg"
                     alt="指宿砂むし温泉　指宿シーサイドホテル"
@@ -312,7 +312,7 @@ export default function IbusukiVsKirishimaPage() {
                     全室オーシャンビュー＆名物砂むし会席
                   </div>
                 </div>
-                <div className="md:col-span-7 flex flex-col justify-between space-y-4">
+                <div className="w-full flex flex-col justify-between space-y-4">
                   <div className="space-y-2">
                     <div className="flex items-center gap-3">
                       <span className="text-xs text-stone-500 flex items-center gap-1">
@@ -367,8 +367,8 @@ export default function IbusukiVsKirishimaPage() {
           <div className="grid gap-8">
             
             <div className="bg-white rounded-3xl border border-stone-200 overflow-hidden shadow-sm hover:shadow-md transition">
-              <div className="grid md:grid-cols-12 gap-6 p-6 sm:p-8">
-                <div className="md:col-span-5 relative min-h-[220px] rounded-2xl overflow-hidden bg-stone-100">
+              <div className="flex flex-col gap-5 p-6 sm:p-8">
+                <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-2xl overflow-hidden bg-stone-100">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/25134/25134.jpg"
                     alt="霧島温泉　霧島　旅行人山荘"
@@ -379,7 +379,7 @@ export default function IbusukiVsKirishimaPage() {
                     原生林の秘湯・鹿が訪れる絶景露天
                   </div>
                 </div>
-                <div className="md:col-span-7 flex flex-col justify-between space-y-4">
+                <div className="w-full flex flex-col justify-between space-y-4">
                   <div className="space-y-2">
                     <div className="flex items-center gap-3">
                       <span className="text-xs text-stone-500 flex items-center gap-1">
@@ -417,8 +417,8 @@ export default function IbusukiVsKirishimaPage() {
               </div>
             </div>
             <div className="bg-white rounded-3xl border border-stone-200 overflow-hidden shadow-sm hover:shadow-md transition">
-              <div className="grid md:grid-cols-12 gap-6 p-6 sm:p-8">
-                <div className="md:col-span-5 relative min-h-[220px] rounded-2xl overflow-hidden bg-stone-100">
+              <div className="flex flex-col gap-5 p-6 sm:p-8">
+                <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-2xl overflow-hidden bg-stone-100">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/38553/38553.jpg"
                     alt="霧島温泉郷　霧島ホテル"
@@ -429,7 +429,7 @@ export default function IbusukiVsKirishimaPage() {
                     14源泉硫黄谷庭園大浴場
                   </div>
                 </div>
-                <div className="md:col-span-7 flex flex-col justify-between space-y-4">
+                <div className="w-full flex flex-col justify-between space-y-4">
                   <div className="space-y-2">
                     <div className="flex items-center gap-3">
                       <span className="text-xs text-stone-500 flex items-center gap-1">
@@ -467,8 +467,8 @@ export default function IbusukiVsKirishimaPage() {
               </div>
             </div>
             <div className="bg-white rounded-3xl border border-stone-200 overflow-hidden shadow-sm hover:shadow-md transition">
-              <div className="grid md:grid-cols-12 gap-6 p-6 sm:p-8">
-                <div className="md:col-span-5 relative min-h-[220px] rounded-2xl overflow-hidden bg-stone-100">
+              <div className="flex flex-col gap-5 p-6 sm:p-8">
+                <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-2xl overflow-hidden bg-stone-100">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/16708/16708.jpg"
                     alt="霧島の森に佇むオーベルジュ　ＡＵＢＥＧＩＯ霧島観光ホテル"
@@ -479,7 +479,7 @@ export default function IbusukiVsKirishimaPage() {
                     桜島一望の展望風呂・黒豚美味
                   </div>
                 </div>
-                <div className="md:col-span-7 flex flex-col justify-between space-y-4">
+                <div className="w-full flex flex-col justify-between space-y-4">
                   <div className="space-y-2">
                     <div className="flex items-center gap-3">
                       <span className="text-xs text-stone-500 flex items-center gap-1">

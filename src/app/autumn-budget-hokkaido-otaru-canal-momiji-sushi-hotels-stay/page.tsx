@@ -60,8 +60,8 @@ export default function AutumnBudgetFeaturePage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Otaru_Hokkaido_Japan.jpg/1280px-Otaru_Hokkaido_Japan.jpg"
                 alt="歴史と浪漫の小樽運河"
@@ -73,7 +73,7 @@ export default function AutumnBudgetFeaturePage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">歴史と浪漫の小樽運河の歴史と見どころ</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">小樽運河（おたるうんが）は、北海道小樽市にある運河。現在は物流機能としての使命を終えており、文化庁選定日本遺産「北海道の『心臓』と呼ばれたまち・小樽」を構成する遺産のひとつ。 1923年（大正12年）完成。日本国内唯一となる海岸の沖合い埋立て方式で造られており、緩やかに湾曲しているのが特徴になっている。全長1,140 mあり、幅は臨港線沿いは20 m、北部（通称：北運河）は当時のままの40 mになっている。 1986年（昭和61年）に運河の一部を埋立てて幅の半分が道路となって散策路が整備されると小樽市の観光資源になり、周辺地区を含めて観光地へと変貌した。散策路には63基のガス灯が設置されている。運河沿いにある木骨石造倉庫群は当時の姿を残しており、夕暮れ時からライトアップしている。また、運河周辺では『小樽雪あかりの路』『おたる☆浅草橋オールディーズナイト』などのイベントを開催している。</p>
               <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
@@ -111,8 +111,8 @@ export default function AutumnBudgetFeaturePage() {
                 小樽駅近く
               </span>
             </div>
-            <div className="grid md:grid-cols-12 gap-6 items-center pt-2">
-              <div className="md:col-span-5 relative h-48 md:h-56 rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+            <div className="flex flex-col gap-5 items-center pt-2">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/5170/5170.jpg"
                   alt="ホテルソニア小樽"
@@ -121,7 +121,7 @@ export default function AutumnBudgetFeaturePage() {
                   sizes="(max-width: 768px) 100vw, 350px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   小樽運河の目の前に位置し、石造り倉庫群の散策に最高のロケーション。館内には天然温泉大浴場があり、秋の運河歩きで冷えた身体をじんわり癒せます。ヨーロッパ調の落ち着いた客室と港町らしい朝食も大好評。
                 </p>
@@ -170,8 +170,8 @@ export default function AutumnBudgetFeaturePage() {
                 小樽駅近く
               </span>
             </div>
-            <div className="grid md:grid-cols-12 gap-6 items-center pt-2">
-              <div className="md:col-span-5 relative h-48 md:h-56 rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+            <div className="flex flex-col gap-5 items-center pt-2">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/196182/196182.jpg"
                   alt="小樽グランベルホテル"
@@ -180,7 +180,7 @@ export default function AutumnBudgetFeaturePage() {
                   sizes="(max-width: 768px) 100vw, 350px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   最上階に小樽港と街並みを見渡す展望露天風呂を完備したスタイリッシュホテル。運河散策の拠点にぴったりで、モダンな客室デザインと高品質なアメニティが揃い、コスパ抜群の滞在が叶います。
                 </p>
@@ -229,8 +229,8 @@ export default function AutumnBudgetFeaturePage() {
                 小樽駅近く
               </span>
             </div>
-            <div className="grid md:grid-cols-12 gap-6 items-center pt-2">
-              <div className="md:col-span-5 relative h-48 md:h-56 rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+            <div className="flex flex-col gap-5 items-center pt-2">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/3119/3119.jpg"
                   alt="ホテルノルド小樽"
@@ -239,7 +239,7 @@ export default function AutumnBudgetFeaturePage() {
                   sizes="(max-width: 768px) 100vw, 350px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   運河の正面に堂々と佇むヨーロッパ調のランドマークホテル。中央のステンドグラスパティオが美しく、最上階バーラウンジからの運河夜景は格別。周辺の名門寿司店やカフェへのアクセスも抜群です。
                 </p>
@@ -288,8 +288,8 @@ export default function AutumnBudgetFeaturePage() {
                 小樽駅近く
               </span>
             </div>
-            <div className="grid md:grid-cols-12 gap-6 items-center pt-2">
-              <div className="md:col-span-5 relative h-48 md:h-56 rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+            <div className="flex flex-col gap-5 items-center pt-2">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/166148/166148.jpg"
                   alt="ホテル・トリフィート小樽運河"
@@ -298,7 +298,7 @@ export default function AutumnBudgetFeaturePage() {
                   sizes="(max-width: 768px) 100vw, 350px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   小樽のノスタルジックな歴史と現代アートが融合した新感覚ホテル。小樽銭湯文化を取り入れた広々とした大浴場でリフレッシュでき、運河や寿司屋通りへの観光アクセスも快適そのものです。
                 </p>
@@ -347,8 +347,8 @@ export default function AutumnBudgetFeaturePage() {
                 小樽駅近く
               </span>
             </div>
-            <div className="grid md:grid-cols-12 gap-6 items-center pt-2">
-              <div className="md:col-span-5 relative h-48 md:h-56 rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+            <div className="flex flex-col gap-5 items-center pt-2">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/181196/181196.jpg"
                   alt="ＡＬＰＨＡＢＥＤ　ＩＮＮ　小樽駅前"
@@ -357,7 +357,7 @@ export default function AutumnBudgetFeaturePage() {
                   sizes="(max-width: 768px) 100vw, 350px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   小樽駅徒歩2分という抜群の立地にあり、手頃な料金で広々とした機能的ルームに宿泊可能。無駄を省いたスマートチェックインと快適なベッドで、旅の予算をグルメに全振りしたい旅行者に絶大な支持を得ています。
                 </p>

@@ -319,10 +319,10 @@ export default function WinterFukuiWakasaPage() {
             {hotels.map((h) => (
               <div 
                 key={h.id}
-                className="bg-white rounded-3xl overflow-hidden shadow-sm hover:shadow-md transition-shadow duration-300 border border-slate-200/80 flex flex-col lg:flex-row"
+                className="bg-white rounded-3xl overflow-hidden shadow-sm hover:shadow-md transition-shadow duration-300 border border-slate-200/80 flex flex-col"
               >
                 {/* Hotel Image */}
-                <div className="lg:w-2/5 relative min-h-[260px] lg:min-h-full">
+                <div className="relative w-full aspect-[16/9] sm:aspect-[21/9] bg-slate-100 overflow-hidden">
                   <Image
                     src={h.img}
                     alt={h.name}

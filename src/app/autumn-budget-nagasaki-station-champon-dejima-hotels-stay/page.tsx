@@ -60,8 +60,8 @@ export default function AutumnBudgetNagasakiStationHotelsPage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Plattegrond_van_het_eiland_Deshima_te_Nagasaki.jpg/1280px-Plattegrond_van_het_eiland_Deshima_te_Nagasaki.jpg"
                 alt="出島の歴史絵図"
@@ -73,7 +73,7 @@ export default function AutumnBudgetNagasakiStationHotelsPage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">江戸幕府が築いた人工島・オランダ商館の復元史跡</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
                 出島（でじま）は、1634年に江戸幕府が対外政策の一環として長崎に築造した日本初の本格的な人工島。扇型の形状で、1641年から1859年までオランダ東インド会社商館が置かれ、鎖国下の日本で唯一西洋に開かれた窓口でした。現在では当時のオランダ商館やカピタン部屋が見事に復元され、秋の心地よい風情のなか歴史散歩を楽しめます。
@@ -100,8 +100,8 @@ export default function AutumnBudgetNagasakiStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（超破格プライス）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/180388/180388.jpg"
                   alt="Coruscant Hotel 長崎駅1"
@@ -110,7 +110,7 @@ export default function AutumnBudgetNagasakiStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   Ｃｏｒｕｓｃａｎｔ　Ｈｏｔｅｌ　長崎駅１（コルサントホテル）
                 </h3>
@@ -155,8 +155,8 @@ export default function AutumnBudgetNagasakiStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（デザインアパートメント）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/178621/178621.jpg"
                   alt="グランドベース長崎駅前"
@@ -165,7 +165,7 @@ export default function AutumnBudgetNagasakiStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   グランドベース長崎駅前
                 </h3>
@@ -210,8 +210,8 @@ export default function AutumnBudgetNagasakiStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（駅直結級の好立地）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/37511/37511.jpg"
                   alt="ホテル クオーレ長崎駅前"
@@ -220,7 +220,7 @@ export default function AutumnBudgetNagasakiStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   ホテル　クオーレ長崎駅前
                 </h3>
@@ -265,8 +265,8 @@ export default function AutumnBudgetNagasakiStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（港町好立地）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/70850/70850.jpg"
                   alt="アパホテル〈長崎駅南〉"
@@ -275,7 +275,7 @@ export default function AutumnBudgetNagasakiStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   アパホテル〈長崎駅南〉
                 </h3>
@@ -320,8 +320,8 @@ export default function AutumnBudgetNagasakiStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（超高評価温泉宿）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/179673/179673.jpg"
                   alt="ドーミーインPREMIUM長崎駅前"
@@ -330,7 +330,7 @@ export default function AutumnBudgetNagasakiStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   天然温泉　鶴港の湯　ドーミーインＰＲＥＭＩＵＭ長崎駅前
                 </h3>

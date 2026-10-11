@@ -353,9 +353,9 @@ export default function FukuokaHarazuruWinterFeature() {
                 key={h.id} 
                 className="bg-white rounded-3xl overflow-hidden shadow-sm border border-slate-200/90 hover:shadow-md transition duration-300"
               >
-                <div className="grid grid-cols-1 lg:grid-cols-12 gap-0">
+                <div className="flex flex-col">
                   {/* Image Column */}
-                  <div className="lg:col-span-5 relative h-64 sm:h-80 lg:h-auto min-h-[260px] bg-slate-100">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] overflow-hidden">
                     <Image
                       src={h.img}
                       alt={h.name}
@@ -370,7 +370,7 @@ export default function FukuokaHarazuruWinterFeature() {
                   </div>
 
                   {/* Content Column */}
-                  <div className="lg:col-span-7 p-6 sm:p-8 flex flex-col justify-between space-y-6">
+                  <div className="w-full p-5 sm:p-7 flex flex-col justify-between space-y-4">
                     <div className="space-y-4">
                       <div className="space-y-2">
                         <div className="flex flex-wrap items-center gap-3 text-xs">

@@ -275,16 +275,16 @@ export default function FeaturePage() {
               <span className="text-[11px] text-stone-400">Wikipedia公式情報連携</span>
             </div>
 
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-              <div className="md:col-span-5 overflow-hidden rounded-xl border border-stone-200 bg-stone-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full overflow-hidden rounded-xl border border-stone-200 bg-stone-100 aspect-[16/9] sm:aspect-[21/9]">
                 <img
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Lake_Yogo01s3200.jpg/1280px-Lake_Yogo01s3200.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="羽衣伝説の鏡湖・余呉湖（冬のワカサギ釣りと賤ヶ岳雪景色）"
-                  className="w-full h-48 md:h-56 object-cover hover:scale-105 transition-transform duration-300"
+                  className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
                   loading="lazy"
                 />
               </div>
-              <div className="md:col-span-7 space-y-2">
+              <div className="w-full space-y-3">
                 <h3 className="font-bold text-stone-900 text-sm sm:text-base">
                   羽衣伝説の鏡湖・余呉湖（冬のワカサギ釣りと賤ヶ岳雪景色） の見どころと歴史
                 </h3>
@@ -313,8 +313,8 @@ export default function FeaturePage() {
 
 
             <div className="bg-white rounded-2xl border border-stone-200 overflow-hidden shadow-sm hover:shadow-md transition-shadow">
-              <div className="grid grid-cols-1 md:grid-cols-12 gap-0">
-                <div className="md:col-span-5 relative min-h-[220px] md:min-h-[280px]">
+              <div className="flex flex-col">
+                <div className="relative w-full aspect-[16/9] sm:aspect-[21/9] md:aspect-[2/1] overflow-hidden bg-stone-100">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/8796/8796.jpg"
                     alt="ＹＡＭＡＴＯ　ＴＨＥ　ＳＥＡＳＯＮＳ　須賀谷温泉"
@@ -325,7 +325,7 @@ export default function FeaturePage() {
                     第1位
                   </div>
                 </div>
-                <div className="md:col-span-7 p-5 md:p-6 flex flex-col justify-between space-y-4">
+                <div className="p-5 sm:p-7 md:p-8 flex flex-col justify-between space-y-5">
                   <div className="space-y-2">
                     <div className="flex items-center justify-between gap-2">
                       <span className="text-[11px] font-bold text-cyan-800 bg-cyan-50 px-2 py-0.5 rounded border border-cyan-100">
@@ -375,8 +375,8 @@ export default function FeaturePage() {
             
 
             <div className="bg-white rounded-2xl border border-stone-200 overflow-hidden shadow-sm hover:shadow-md transition-shadow">
-              <div className="grid grid-cols-1 md:grid-cols-12 gap-0">
-                <div className="md:col-span-5 relative min-h-[220px] md:min-h-[280px]">
+              <div className="flex flex-col">
+                <div className="relative w-full aspect-[16/9] sm:aspect-[21/9] md:aspect-[2/1] overflow-hidden bg-stone-100">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/160682/160682.jpg"
                     alt="しずがたけ光明石之湯　想古亭　げんない"
@@ -387,7 +387,7 @@ export default function FeaturePage() {
                     第2位
                   </div>
                 </div>
-                <div className="md:col-span-7 p-5 md:p-6 flex flex-col justify-between space-y-4">
+                <div className="p-5 sm:p-7 md:p-8 flex flex-col justify-between space-y-5">
                   <div className="space-y-2">
                     <div className="flex items-center justify-between gap-2">
                       <span className="text-[11px] font-bold text-cyan-800 bg-cyan-50 px-2 py-0.5 rounded border border-cyan-100">
@@ -432,8 +432,8 @@ export default function FeaturePage() {
             
 
             <div className="bg-white rounded-2xl border border-stone-200 overflow-hidden shadow-sm hover:shadow-md transition-shadow">
-              <div className="grid grid-cols-1 md:grid-cols-12 gap-0">
-                <div className="md:col-span-5 relative min-h-[220px] md:min-h-[280px]">
+              <div className="flex flex-col">
+                <div className="relative w-full aspect-[16/9] sm:aspect-[21/9] md:aspect-[2/1] overflow-hidden bg-stone-100">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/137456/137456.jpg"
                     alt="尾上　旅館　うをよし"
@@ -444,7 +444,7 @@ export default function FeaturePage() {
                     第3位
                   </div>
                 </div>
-                <div className="md:col-span-7 p-5 md:p-6 flex flex-col justify-between space-y-4">
+                <div className="p-5 sm:p-7 md:p-8 flex flex-col justify-between space-y-5">
                   <div className="space-y-2">
                     <div className="flex items-center justify-between gap-2">
                       <span className="text-[11px] font-bold text-cyan-800 bg-cyan-50 px-2 py-0.5 rounded border border-cyan-100">
@@ -489,8 +489,8 @@ export default function FeaturePage() {
             
 
             <div className="bg-white rounded-2xl border border-stone-200 overflow-hidden shadow-sm hover:shadow-md transition-shadow">
-              <div className="grid grid-cols-1 md:grid-cols-12 gap-0">
-                <div className="md:col-span-5 relative min-h-[220px] md:min-h-[280px]">
+              <div className="flex flex-col">
+                <div className="relative w-full aspect-[16/9] sm:aspect-[21/9] md:aspect-[2/1] overflow-hidden bg-stone-100">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/179000/179000.jpg"
                     alt="レジーナリゾートびわ湖長浜"
@@ -501,7 +501,7 @@ export default function FeaturePage() {
                     第4位
                   </div>
                 </div>
-                <div className="md:col-span-7 p-5 md:p-6 flex flex-col justify-between space-y-4">
+                <div className="p-5 sm:p-7 md:p-8 flex flex-col justify-between space-y-5">
                   <div className="space-y-2">
                     <div className="flex items-center justify-between gap-2">
                       <span className="text-[11px] font-bold text-cyan-800 bg-cyan-50 px-2 py-0.5 rounded border border-cyan-100">
@@ -551,8 +551,8 @@ export default function FeaturePage() {
             
 
             <div className="bg-white rounded-2xl border border-stone-200 overflow-hidden shadow-sm hover:shadow-md transition-shadow">
-              <div className="grid grid-cols-1 md:grid-cols-12 gap-0">
-                <div className="md:col-span-5 relative min-h-[220px] md:min-h-[280px]">
+              <div className="flex flex-col">
+                <div className="relative w-full aspect-[16/9] sm:aspect-[21/9] md:aspect-[2/1] overflow-hidden bg-stone-100">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/13910/13910.jpg"
                     alt="びわ湖畔　おいしい湯の宿　長浜太閤温泉　浜湖月"
@@ -563,7 +563,7 @@ export default function FeaturePage() {
                     第5位
                   </div>
                 </div>
-                <div className="md:col-span-7 p-5 md:p-6 flex flex-col justify-between space-y-4">
+                <div className="p-5 sm:p-7 md:p-8 flex flex-col justify-between space-y-5">
                   <div className="space-y-2">
                     <div className="flex items-center justify-between gap-2">
                       <span className="text-[11px] font-bold text-cyan-800 bg-cyan-50 px-2 py-0.5 rounded border border-cyan-100">

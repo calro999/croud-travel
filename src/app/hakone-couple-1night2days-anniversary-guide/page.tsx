@@ -316,7 +316,7 @@ export default function HakoneCoupleAnniversaryGuidePage() {
 
         {/* 厳選！記念日におすすめの箱根人気宿（楽天トラベル提携） */}
         <section className="space-y-6">
-          <div className="flex flex-col md:flex-row md:items-end justify-between gap-2 border-b border-rose-200 pb-3">
+          <div className="flex flex-col md:items-end justify-between gap-2 border-b border-rose-200 pb-3">
             <div>
               <div className="flex items-center gap-2 text-rose-600 font-bold text-xs uppercase tracking-wider">
                 <span>🏨 FEATURED HOTELS</span>

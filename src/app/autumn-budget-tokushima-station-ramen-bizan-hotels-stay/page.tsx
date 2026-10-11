@@ -60,8 +60,8 @@ export default function AutumnBudgetTokushimaStationHotelsPage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Mount_Bizan_from_Yoshinogawa_Bridge.JPG/1280px-Mount_Bizan_from_Yoshinogawa_Bridge.JPG"
                 alt="吉野川橋から望む眉山"
@@ -73,7 +73,7 @@ export default function AutumnBudgetTokushimaStationHotelsPage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">眉の形に見える優美な山容・山頂展望台から望む吉野川と紀伊水道</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
                 眉山（びざん）は、徳島県徳島市にある標高290mの山。どの方向から眺めても眉の姿に見えることからその名がついたとされ、万葉集にも詠まれた阿波の象徴です。麓の「阿波おどり会館」5階からロープウェイが運行しており、秋の澄んだ空気のなか、徳島平野と紀伊水道、遠く大鳴門橋まで望む夜景パノラマは必見です。
@@ -100,8 +100,8 @@ export default function AutumnBudgetTokushimaStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（駅チカ＆快適設備）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/7503/7503.jpg"
                   alt="アパホテル〈徳島駅前〉"
@@ -110,7 +110,7 @@ export default function AutumnBudgetTokushimaStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   アパホテル〈徳島駅前〉
                 </h3>
@@ -155,8 +155,8 @@ export default function AutumnBudgetTokushimaStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（クチコミ高評価）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/532/532.jpg"
                   alt="スマイルホテル徳島"
@@ -165,7 +165,7 @@ export default function AutumnBudgetTokushimaStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   スマイルホテル徳島
                 </h3>
@@ -210,8 +210,8 @@ export default function AutumnBudgetTokushimaStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（眉山登山口すぐ）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/68537/68537.jpg"
                   alt="東横ＩＮＮ徳島駅眉山口"
@@ -220,7 +220,7 @@ export default function AutumnBudgetTokushimaStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   東横ＩＮＮ徳島駅眉山口
                 </h3>
@@ -265,8 +265,8 @@ export default function AutumnBudgetTokushimaStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（駅近＆無料朝食）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/108376/108376.jpg"
                   alt="東横ＩＮＮ徳島駅前"
@@ -275,7 +275,7 @@ export default function AutumnBudgetTokushimaStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   東横ＩＮＮ徳島駅前
                 </h3>
@@ -320,8 +320,8 @@ export default function AutumnBudgetTokushimaStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（駅正面＆ハイクオリティ）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/149130/149130.jpg"
                   alt="ダイワロイネットホテル徳島駅前"
@@ -330,7 +330,7 @@ export default function AutumnBudgetTokushimaStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   ダイワロイネットホテル徳島駅前
                 </h3>

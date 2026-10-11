@@ -273,7 +273,7 @@ export default function TokyoBirthdaySurpriseHotelPage() {
 
         {/* 厳選5選 ホテル一覧表示 */}
         <section className="space-y-6">
-          <div className="flex flex-col md:flex-row md:items-end justify-between gap-2 border-b border-amber-200 pb-3">
+          <div className="flex flex-col md:items-end justify-between gap-2 border-b border-amber-200 pb-3">
             <div>
               <div className="flex items-center gap-2 text-amber-600 font-bold text-xs uppercase tracking-wider">
                 <span>💎 TOP 5 LUXURY SELECTION</span>
@@ -314,7 +314,7 @@ export default function TokyoBirthdaySurpriseHotelPage() {
                   </div>
 
                   {/* テキスト詳細エリア */}
-                  <div className="md:col-span-7 p-6 flex flex-col justify-between space-y-4">
+                  <div className="w-full p-6 flex flex-col justify-between space-y-4">
                     <div className="space-y-3">
                       <div className="flex flex-wrap items-center justify-between gap-2">
                         <div className="flex items-center gap-2 bg-amber-50 border border-amber-200 px-2.5 py-1 rounded-lg text-xs">

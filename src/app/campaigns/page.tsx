@@ -154,7 +154,7 @@ export default function CampaignsPage() {
         {CAMPAIGNS.map((campaign) => (
           <article
             key={campaign.id}
-            className="border border-emerald-950/10 bg-white rounded-3xl overflow-hidden shadow-sm hover:shadow-md transition duration-300 grid grid-cols-1 md:grid-cols-12 gap-6 p-6 md:p-8 items-center"
+            className="border border-emerald-950/10 bg-white rounded-3xl overflow-hidden shadow-sm hover:shadow-md transition duration-300 flex flex-col p-5 sm:p-7 md:p-8 gap-5 md:p-8 items-center"
           >
             {/* 左側：イメージ画像 */}
             <div className="md:col-span-4 aspect-video md:aspect-square relative rounded-2xl overflow-hidden bg-emerald-50 border border-emerald-950/5 flex items-center justify-center">

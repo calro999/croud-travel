@@ -331,9 +331,9 @@ export default function AsahikawaPenguinWinterPage() {
                   <span>北海道旭川市宮下通10丁目3-3（ＪＲ旭川駅東口より徒歩２分）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                       <img 
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/148897/148897.jpg" 
                         alt="ホテルＷＢＦグランデ旭川の外観・客室イメージ" 
@@ -342,7 +342,7 @@ export default function AsahikawaPenguinWinterPage() {
                       />
                     </div>
                   </div>
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div className="space-y-3">
                       <div className="bg-sky-50/60 p-3.5 rounded-xl border border-sky-100 text-xs sm:text-sm text-slate-700">
                         <p className="font-bold text-sky-950 mb-1 flex items-center gap-1">
@@ -416,9 +416,9 @@ export default function AsahikawaPenguinWinterPage() {
                   <span>北海道旭川市宮下通7丁目2番5号（■JR旭川駅直結■　旭川空港、旭山動物園行きバス停はホテルの目の前　繁華街も徒歩圏内です♪）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                       <img 
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/147739/147739.jpg" 
                         alt="ＪＲイン旭川の外観・客室イメージ" 
@@ -427,7 +427,7 @@ export default function AsahikawaPenguinWinterPage() {
                       />
                     </div>
                   </div>
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div className="space-y-3">
                       <div className="bg-sky-50/60 p-3.5 rounded-xl border border-sky-100 text-xs sm:text-sm text-slate-700">
                         <p className="font-bold text-sky-950 mb-1 flex items-center gap-1">
@@ -501,9 +501,9 @@ export default function AsahikawaPenguinWinterPage() {
                   <span>北海道旭川市7条通6丁目29番地2（旭川駅西側北口より車で5分。旭川鷹栖ＩＣより車で15分。旭川空港よりバスで40分（7条昭和通停留所 ホテル前））</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                       <img 
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/224/224.jpg" 
                         alt="アートホテル旭川の外観・客室イメージ" 
@@ -512,7 +512,7 @@ export default function AsahikawaPenguinWinterPage() {
                       />
                     </div>
                   </div>
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div className="space-y-3">
                       <div className="bg-sky-50/60 p-3.5 rounded-xl border border-sky-100 text-xs sm:text-sm text-slate-700">
                         <p className="font-bold text-sky-950 mb-1 flex items-center gap-1">
@@ -586,9 +586,9 @@ export default function AsahikawaPenguinWinterPage() {
                   <span>北海道旭川市５条８丁目緑橋通（ＪＲ函館本線旭川駅より徒歩約１２分。道央道旭川鷹栖ＩＣから車で１５分。旭川空港からのバス停留所も徒歩２分にございます。）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                       <img 
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/4652/4652.jpg" 
                         alt="ホテルクレッセント旭川の外観・客室イメージ" 
@@ -597,7 +597,7 @@ export default function AsahikawaPenguinWinterPage() {
                       />
                     </div>
                   </div>
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div className="space-y-3">
                       <div className="bg-sky-50/60 p-3.5 rounded-xl border border-sky-100 text-xs sm:text-sm text-slate-700">
                         <p className="font-bold text-sky-950 mb-1 flex items-center gap-1">
@@ -671,9 +671,9 @@ export default function AsahikawaPenguinWinterPage() {
                   <span>北海道旭川市1条通7丁目（ＪＲ旭川駅『北口(西側)』より徒歩３分）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                       <img 
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/50750/50750.jpg" 
                         alt="天然温泉プレミアホテル―ＣＡＢＩＮ―旭川の外観・客室イメージ" 
@@ -682,7 +682,7 @@ export default function AsahikawaPenguinWinterPage() {
                       />
                     </div>
                   </div>
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div className="space-y-3">
                       <div className="bg-sky-50/60 p-3.5 rounded-xl border border-sky-100 text-xs sm:text-sm text-slate-700">
                         <p className="font-bold text-sky-950 mb-1 flex items-center gap-1">

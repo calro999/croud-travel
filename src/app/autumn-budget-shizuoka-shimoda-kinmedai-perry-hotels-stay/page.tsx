@@ -60,8 +60,8 @@ export default function AutumnBudgetShimodaKinmedaiHotelsPage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Shimoda_Port_Shimodau_Shizuoka_pref_Japan01s.jpg/1280px-Shimoda_Port_Shimodau_Shizuoka_pref_Japan01s.jpg"
                 alt="下田港と開国の歴史景観"
@@ -73,7 +73,7 @@ export default function AutumnBudgetShimodaKinmedaiHotelsPage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">幕末の開国史跡と金目鯛水揚げ日本一の良港</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
                 下田港（しもだこう）は、静岡県下田市にある歴史的な港湾。1854年の日米和親条約締結により開港され、マシュー・ペリー率いる黒船艦隊が来航した開国の舞台です。現在では金目鯛の水揚げ量が日本一を誇る水産拠点としても名高く、港沿いには金目鯛料理や干物店が軒を連ねます。
@@ -100,8 +100,8 @@ export default function AutumnBudgetShimodaKinmedaiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（源泉かけ流し温泉）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/14761/14761.jpg"
                   alt="下田荘 浜辺の湯"
@@ -110,7 +110,7 @@ export default function AutumnBudgetShimodaKinmedaiHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   下田荘　浜辺の湯
                 </h3>
@@ -155,8 +155,8 @@ export default function AutumnBudgetShimodaKinmedaiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（2食バイキング付）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/50545/50545.jpg"
                   alt="下田温泉 下田伊東園ホテルはな岬"
@@ -165,7 +165,7 @@ export default function AutumnBudgetShimodaKinmedaiHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   下田温泉　下田伊東園ホテルはな岬
                 </h3>
@@ -210,8 +210,8 @@ export default function AutumnBudgetShimodaKinmedaiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（超高評価宿）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/5645/5645.jpg"
                   alt="下田温泉 下田ベイクロシオ"
@@ -220,7 +220,7 @@ export default function AutumnBudgetShimodaKinmedaiHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   下田温泉　下田ベイクロシオ
                 </h3>
@@ -265,8 +265,8 @@ export default function AutumnBudgetShimodaKinmedaiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（港湾絶景大浴場）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/1307/1307.jpg"
                   alt="下田温泉 黒船ホテル"
@@ -275,7 +275,7 @@ export default function AutumnBudgetShimodaKinmedaiHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   下田温泉　黒船ホテル
                 </h3>
@@ -320,8 +320,8 @@ export default function AutumnBudgetShimodaKinmedaiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（名門リゾート）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/1660/1660.jpg"
                   alt="下田東急ホテル"
@@ -330,7 +330,7 @@ export default function AutumnBudgetShimodaKinmedaiHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   下田東急ホテル
                 </h3>

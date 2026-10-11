@@ -306,7 +306,7 @@ export default function FukuiEchizenCoastPage() {
               <article key={hotel.id} className="bg-white rounded-3xl overflow-hidden border border-stone-200 shadow-sm hover:shadow-md transition">
                 <div className="p-6 md:p-8 space-y-6">
                   {/* ヘッダー情報 */}
-                  <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 border-b border-stone-100 pb-5">
+                  <div className="flex flex-col md:items-center justify-between gap-4 border-b border-stone-100 pb-5">
                     <div>
                       <div className="flex items-center gap-2 mb-1.5">
                         <span className="bg-amber-600 text-white text-xs font-black px-2.5 py-0.5 rounded-full">

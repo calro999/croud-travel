@@ -147,7 +147,7 @@ export default function FurusatoFeaturePage() {
                 key="72689"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/72689/72689.jpg"
                     alt="河口湖カントリーコテージＢａｎ＆グランピングリゾート"
@@ -193,7 +193,7 @@ export default function FurusatoFeaturePage() {
                 key="180435"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/180435/180435.jpg"
                     alt="ＨＡＮＺ　ＯＵＴＤＯＯＲ　ＲＥＳＯＲＴ（旧：グランピングヴィラハンズ河口湖）"
@@ -239,7 +239,7 @@ export default function FurusatoFeaturePage() {
                 key="185235"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/185235/185235.jpg"
                     alt="Ｍｔ．Ｆｕｊｉグランピングテラス嶺乃華　＾"
@@ -300,7 +300,7 @@ export default function FurusatoFeaturePage() {
                 key="183951"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/183951/183951.jpg"
                     alt="南阿蘇　Ｂｌｕｅ　Ｂｅｅ　Ｇａｒｄｅｎ"
@@ -346,7 +346,7 @@ export default function FurusatoFeaturePage() {
                 key="198835"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/198835/198835.jpg"
                     alt="南阿蘇フィールドホテル"
@@ -392,7 +392,7 @@ export default function FurusatoFeaturePage() {
                 key="196111"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/196111/196111.jpg"
                     alt="南阿蘇ＳＴＡＹＨＡＰＰＹ"
@@ -453,7 +453,7 @@ export default function FurusatoFeaturePage() {
                 key="184489"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/184489/184489.jpg"
                     alt="那須温泉グランピング　Ｎｅｎｎ（ネン）"
@@ -499,7 +499,7 @@ export default function FurusatoFeaturePage() {
                 key="196027"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/196027/196027.jpg"
                     alt="プライベートグランピング｜ＮＡＧＯＭＩ　ＣＡＭＰ那須"
@@ -545,7 +545,7 @@ export default function FurusatoFeaturePage() {
                 key="192958"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/192958/192958.jpg"
                     alt="フォレストグランピングリゾート稜「ＩＴＵ」"

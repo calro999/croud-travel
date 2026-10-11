@@ -60,8 +60,8 @@ export default function AutumnBudgetTottoriStationHotelsPage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Tottori-Sakyu_Tottori_Japan.JPG/1280px-Tottori-Sakyu_Tottori_Japan.JPG"
                 alt="鳥取砂丘と日本海"
@@ -73,7 +73,7 @@ export default function AutumnBudgetTottoriStationHotelsPage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">千代川の砂と日本海の風がつくる風紋・馬の背からの大海原パノラマ</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
                 鳥取砂丘（とっとりさきゅう）は、鳥取市の日本海海岸に広がる代表的海岸砂丘で、国の天然記念物。山陰海岸国立公園の特別保護地区に指定されています。秋の爽やかな海風が砂丘一面に描く芸術的な「風紋」や、高さ47mの「馬の背」の頂上から見下ろす紺碧の日本海、日本海に沈む夕日の美しさは圧巻です。
@@ -100,8 +100,8 @@ export default function AutumnBudgetTottoriStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（朝食無料高評価）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/70969/70969.jpg"
                   alt="スーパーホテル鳥取駅前"
@@ -110,7 +110,7 @@ export default function AutumnBudgetTottoriStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   スーパーホテル鳥取駅前
                 </h3>
@@ -155,8 +155,8 @@ export default function AutumnBudgetTottoriStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（大浴場＆サウナ）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/5567/5567.jpg"
                   alt="ホテルRESH 鳥取駅前"
@@ -165,7 +165,7 @@ export default function AutumnBudgetTottoriStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   ホテルＲＥＳＨ　鳥取駅前
                 </h3>
@@ -210,8 +210,8 @@ export default function AutumnBudgetTottoriStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（駅チカ＆快適設備）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/196888/196888.jpg"
                   alt="アパホテル〈鳥取駅前〉"
@@ -220,7 +220,7 @@ export default function AutumnBudgetTottoriStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   アパホテル〈鳥取駅前〉
                 </h3>
@@ -265,8 +265,8 @@ export default function AutumnBudgetTottoriStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（朝食無料＆駅近）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/108315/108315.jpg"
                   alt="東横ＩＮＮ鳥取駅南口"
@@ -275,7 +275,7 @@ export default function AutumnBudgetTottoriStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   東横ＩＮＮ鳥取駅南口
                 </h3>
@@ -320,8 +320,8 @@ export default function AutumnBudgetTottoriStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（温泉大浴場＆サウナ）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/176748/176748.jpg"
                   alt="グリーンリッチホテル鳥取駅前"
@@ -330,7 +330,7 @@ export default function AutumnBudgetTottoriStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   グリーンリッチホテル鳥取駅前　人工温泉・二股湯の華
                 </h3>

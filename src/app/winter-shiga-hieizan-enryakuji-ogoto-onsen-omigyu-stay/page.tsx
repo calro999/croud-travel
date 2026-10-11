@@ -462,7 +462,7 @@ export default function ShigaHieizanOgotoPage() {
 
                   {/* Hotel Story Content */}
                   <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 items-center">
-                    <div className="lg:col-span-5 relative rounded-2xl overflow-hidden aspect-[4/3] bg-stone-100">
+                    <div className="lg:col-span-5 relative rounded-2xl overflow-hidden aspect-[16/9] sm:aspect-[21/9] bg-stone-100">
                       {/* eslint-disable-next-line @next/next/no-img-element */}
                       <img 
                         src={hotel.img} 

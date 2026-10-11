@@ -310,8 +310,8 @@ export default function Page() {
               </span>
             </div>
 
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-5 items-center">
-              <div className="md:col-span-5 relative h-48 sm:h-56 rounded-xl overflow-hidden bg-stone-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Tatamigaura_01.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
                   alt="国指定天然記念物・石見畳ヶ浦（隆起海床の千畳敷・冬の日本海白波奇勝）"
@@ -319,7 +319,7 @@ export default function Page() {
                   loading="lazy"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="font-bold text-stone-900 text-sm sm:text-base">
                   【国指定天然記念物・石見畳ヶ浦（隆起海床の千畳敷・冬の日本海白波奇勝）の見どころと歴史】
                 </h3>
@@ -373,8 +373,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/431/431.jpg"
                       alt="島根浜田ワシントンホテルプラザ"
@@ -382,7 +382,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       JR浜田駅の南口から徒歩3分、浜田市街の中心に位置する安心のブランドホテル。石見畳ヶ浦への観光や石見神楽の定期公演会場へのアクセス拠点として最適です。フロントの温かなおもてなしと機能的な客室が旅の疲れを優しく癒やします。ホテルのすぐ周辺には、冬のどんちっちノドグロの塩焼きや刺身、石見の銘酒を揃える海鮮割烹が立ち並び、夜の浜田グルメを心ゆくまで堪能できます。
                     </p>
@@ -440,8 +440,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/70385/70385.jpg"
                       alt="グリーンリッチホテル浜田駅前　人工温泉・二股湯の華"
@@ -449,7 +449,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       JR浜田駅前に建つスタイリッシュで清潔感あふれるホテル。館内には旅の疲労をじんわりと解きほぐす人工温泉大浴場が備わり、冬の冷たい海風を浴びた身体を温かい湯船でじっくり癒やすことができます。客室はデザイナーズ監修の洗練された空間で、広々としたデスクや快適ベッドを完備。駅前周辺のグルメ巡りや翌朝の観光への出発もスムーズです。
                     </p>
@@ -507,8 +507,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/72814/72814.jpg"
                       alt="いわみの湯　旭温泉　隠家ゆかり"
@@ -516,7 +516,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       浜田ICから車で約20分、中国山地の山あいに湧く名湯・旭温泉の上質な温泉旅館。とろりとした美容液のような泉質は「美肌の湯」として名高く、湯上がりの肌がしっとりと潤う至福の湯浴みが叶います。落ち着きある和室で過ごす静かな時間とともに、夕食には浜田港直送のどんちっちノドグロや石見ポーク、地元契約農家の冬野菜をふんだんに盛り込んだ贅沢な懐石料理が並びます。
                     </p>
@@ -574,8 +574,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/13871/13871.jpg"
                       alt="美又温泉　かめや旅館＜島根県＞"
@@ -583,7 +583,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       浜田市金城町の山懐に抱かれた美又温泉に佇む歴史ある湯宿。全国の温泉通を唸らせるPH9.8という驚異のアルカリ性を誇るお湯は、まるで天然の化粧水に浸かっているかのようなトロトロの肌触り。冬の乾燥した肌を優しく潤してくれます。夕食には日本海で獲れた旬の海の幸や山の恵みを使った温かな郷土料理が並び、心も身体も芯からほぐれる究極の癒やしを提供します。
                     </p>
@@ -641,8 +641,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/80636/80636.jpg"
                       alt="有福温泉　三階旅館"
@@ -650,7 +650,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       聖徳太子の時代に開湯したと伝わる有福温泉の風情ある石段街に位置する名門旅館。江戸時代から続く歴史を感じさせる木造の落ち着いた空間に、現代の快適性が溶け込んでいます。透き通るような名湯「有福の湯」は肌を滑らかにする名泉。冬の夜には、浜田港で水揚げされた極上のノドグロの塩焼きや地元の山の幸を、プライベートな部屋食でゆっくりと味わう贅沢なひとときが約束されます。
                     </p>

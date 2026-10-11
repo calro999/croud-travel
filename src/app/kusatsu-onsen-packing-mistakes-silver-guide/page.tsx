@@ -261,7 +261,7 @@ export default function KusatsuPackingMistakesPage() {
 
       {/* 楽天トラベル割引クーポン＆湯畑周辺おすすめ旅館セクション */}
       <section className="space-y-6">
-        <div className="bg-gradient-to-r from-red-600 to-rose-600 rounded-3xl p-6 md:p-8 text-white shadow-lg flex flex-col md:flex-row items-center justify-between gap-6">
+        <div className="bg-gradient-to-r from-red-600 to-rose-600 rounded-3xl p-6 md:p-8 text-white shadow-lg flex flex-col items-center justify-between gap-6">
           <div className="space-y-2 text-center md:text-left">
             <span className="bg-white/20 text-white text-xs font-black px-3 py-1 rounded-full uppercase tracking-wider inline-block">
               Rakuten Travel Deal
@@ -297,7 +297,7 @@ export default function KusatsuPackingMistakesPage() {
           {hotels.slice(0, 4).map((hotel) => (
             <div
               key={hotel.hotelNo}
-              className="bg-white rounded-3xl p-5 md:p-6 border border-slate-200 hover:border-amber-400 shadow-sm hover:shadow-md transition-all flex flex-col md:flex-row gap-6 items-start"
+              className="bg-white rounded-3xl p-5 md:p-6 border border-slate-200 hover:border-amber-400 shadow-sm hover:shadow-md transition-all flex flex-col gap-6 items-start"
             >
               {hotel.hotelImageUrl && (
                 <div className="w-full md:w-56 h-44 rounded-2xl overflow-hidden bg-slate-100 shrink-0">

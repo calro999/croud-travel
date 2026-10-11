@@ -278,9 +278,9 @@ export default function ShigaKogenSnowMonkeyPage() {
                   <span>長野県下高井郡山ノ内町志賀高原焼額山（ＪＲ長野駅より急行バス・志賀高原行で約１時間40分／上信越自動車道、信州中野ＩＣからＲ２９２経由で約３０ｋｍ。）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                       <img 
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/30695/30695.jpg" 
                         alt="志賀高原プリンスホテル 外観・客室イメージ" 
@@ -290,7 +290,7 @@ export default function ShigaKogenSnowMonkeyPage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
                         <CheckCircle2 className="w-4 h-4 text-emerald-600" />
@@ -365,9 +365,9 @@ export default function ShigaKogenSnowMonkeyPage() {
                   <span>長野県下高井郡山ノ内町平穏3137（長野電鉄 湯田中駅より 徒歩7分　【地獄谷野猿公苑入口まで車で20分】）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                       <img 
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/52848/52848.jpg" 
                         alt="湯田中温泉　よろづや 外観・客室イメージ" 
@@ -377,7 +377,7 @@ export default function ShigaKogenSnowMonkeyPage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
                         <CheckCircle2 className="w-4 h-4 text-emerald-600" />
@@ -452,9 +452,9 @@ export default function ShigaKogenSnowMonkeyPage() {
                   <span>長野県下高井郡山ノ内町平穏2202（長野電鉄線　湯田中駅／上信越自動車道　信州中野ＩＣより国道２９２号線を志賀高原方面へ約１５分）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                       <img 
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/32044/32044.jpg" 
                         alt="渋温泉　歴史の宿　金具屋 外観・客室イメージ" 
@@ -464,7 +464,7 @@ export default function ShigaKogenSnowMonkeyPage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
                         <CheckCircle2 className="w-4 h-4 text-emerald-600" />
@@ -539,9 +539,9 @@ export default function ShigaKogenSnowMonkeyPage() {
                   <span>長野県下高井郡山ノ内町大字平穏3294番地（ＪＲ長野駅より乗換４５分、湯田中駅より徒歩２分。）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                       <img 
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/4720/4720.jpg" 
                         alt="湯田中温泉　ホテル椿野 外観・客室イメージ" 
@@ -551,7 +551,7 @@ export default function ShigaKogenSnowMonkeyPage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
                         <CheckCircle2 className="w-4 h-4 text-emerald-600" />
@@ -626,9 +626,9 @@ export default function ShigaKogenSnowMonkeyPage() {
                   <span>長野県下高井郡山ノ内町志賀高原横手山１番地（長野電鉄湯田中駅　／　湯田中より長電バスにて５０分）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                       <img 
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/30822/30822.jpg" 
                         alt="志賀パレスホテル 外観・客室イメージ" 
@@ -638,7 +638,7 @@ export default function ShigaKogenSnowMonkeyPage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
                         <CheckCircle2 className="w-4 h-4 text-emerald-600" />

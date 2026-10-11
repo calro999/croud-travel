@@ -263,8 +263,8 @@ export default function FeaturePage() {
                 近隣の必見名所：常陸国の蔵の街・真壁の町並み（重要伝統的建造物群保存地区・潮田家見世蔵と筑波山神社初詣）
               </h2>
             </div>
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-              <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3] bg-stone-100">
+            <div className="flex flex-col gap-6">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                 <img
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Ushioda-ke_House.JPG/1280px-Ushioda-ke_House.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="真壁町"
@@ -272,7 +272,7 @@ export default function FeaturePage() {
                   loading="lazy"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="font-bold text-stone-900 text-lg">
                   真壁町
                 </h3>
@@ -335,8 +335,8 @@ export default function FeaturePage() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/10637/10637.jpg"
                       alt="筑波山温泉　筑波山江戸屋"
@@ -344,7 +344,7 @@ export default function FeaturePage() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>筑波山神社拝殿のすぐ隣に位置し、霊峰の神気に包まれる静寂のロケーション</span></li>
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>樹齢数百年を数える御神木や巨石を配した野趣あふれる露天風呂と名物足湯</span></li>
@@ -410,8 +410,8 @@ export default function FeaturePage() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/128427/128427.jpg"
                       alt="筑波山京成ホテル"
@@ -419,7 +419,7 @@ export default function FeaturePage() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>標高約540mのつつじヶ丘に建ち、全客室や露天風呂から関東平野の大パノラマを一望</span></li>
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>夜には東京タワーやスカイツリー、都心の煌めく100万ドルの夜景が眼下に広がる</span></li>
@@ -485,8 +485,8 @@ export default function FeaturePage() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/68560/68560.jpg"
                       alt="ホテルベストランド"
@@ -494,7 +494,7 @@ export default function FeaturePage() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>つくばエクスプレス研究学園駅徒歩1分！筑波山や真壁へのドライブ起点に最適</span></li>
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>シモンズ社製高級ベッドとデザイナーズ家具を配した上質で洗練された空間設計</span></li>
@@ -560,8 +560,8 @@ export default function FeaturePage() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/79343/79343.jpg"
                       alt="ダイワロイネットホテルつくば"
@@ -569,7 +569,7 @@ export default function FeaturePage() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>つくば駅A5出口から徒歩わずか1分！筑波山直行シャトルバス乗り場へも至近</span></li>
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>全室に加湿空気清浄機と個別空調を完備し、冬の旅行中も万全の快適性をキープ</span></li>
@@ -635,8 +635,8 @@ export default function FeaturePage() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/1302/1302.jpg"
                       alt="ホテル日航つくば"
@@ -644,7 +644,7 @@ export default function FeaturePage() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>つくば市中心部に位置し、洗練されたホスピタリティと上質な館内施設が充実</span></li>
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>吹き抜けのアトリウムロビーと多彩なレストラン・バーで過ごす特別なひととき</span></li>

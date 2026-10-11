@@ -303,8 +303,8 @@ export default function Page() {
               </h2>
             </div>
 
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-              <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+            <div className="flex flex-col gap-6">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                 <img
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Omiwa-jinja_haiden.JPG/1280px-Omiwa-jinja_haiden.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="大和国一之宮・大神神社（日本最古の神社・三輪山信仰と新春開運初詣）"
@@ -312,7 +312,7 @@ export default function Page() {
                   loading="lazy"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="font-bold text-stone-900 text-base">
                   【大和国一之宮・大神神社（日本最古の神社・三輪山信仰と新春開運初詣）の見どころと歴史】
                 </h3>
@@ -367,8 +367,8 @@ export default function Page() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/14788/14788.jpg"
                       alt="多武峰観光ホテル"
@@ -376,7 +376,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                     <li key="0" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">大化の改新ゆかりの談山神社の目の前！多武峰の静寂な山懐に抱かれた歴史ある宿</span></li>
                     <li key="1" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">大和牛や季節の山菜、特製鍋「義経鍋」など大和の伝統と滋味を極めた名物料理</span></li>
@@ -433,8 +433,8 @@ export default function Page() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/165797/165797.jpg"
                       alt="ＣＡＮＤＥＯ　ＨＯＴＥＬＳ（カンデオホテルズ）奈良橿原"
@@ -442,7 +442,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                     <li key="0" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">近鉄大和八木駅より徒歩3分！大神神社・橿原神宮・明日香村へのアクセス至便な好立地</span></li>
                     <li key="1" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">最上階スカイスパ「光の湯」！満天の星空と大和三山を見晴らす絶景展望露天風呂＆サウナ</span></li>
@@ -499,8 +499,8 @@ export default function Page() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/9221/9221.jpg"
                       alt="グランドメルキュール奈良橿原"
@@ -508,7 +508,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                     <li key="0" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">近鉄橿原神宮前駅東口より徒歩1分！駅前ロータリーに面した抜群のアクセシビリティ</span></li>
                     <li key="1" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">広々とした温泉大浴場とサウナを完備し、大和路巡りで歩き疲れた身体をゆったり癒やす</span></li>
@@ -565,8 +565,8 @@ export default function Page() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/178445/178445.jpg"
                       alt="ホテルルートイン桜井駅前"
@@ -574,7 +574,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                     <li key="0" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">JR・近鉄桜井駅南口より徒歩わずか1分！三輪駅まで1駅、大神神社参拝に最も近いホテル</span></li>
                     <li key="1" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">ラジウム人工温泉大浴場「旅人の湯」で足を伸ばして温まる快適なバスタイム</span></li>
@@ -631,8 +631,8 @@ export default function Page() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/153484/153484.jpg"
                       alt="門前おかげ楼"
@@ -640,7 +640,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                     <li key="0" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">宝山寺参道に佇み、眼下に大阪・奈良のパノラマ夜景を見晴らす絶景のロケーション</span></li>
                     <li key="1" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">昭和レトロな風情を残す全室趣の異なる客室で、静寂とプライベートな寛ぎを満喫</span></li>

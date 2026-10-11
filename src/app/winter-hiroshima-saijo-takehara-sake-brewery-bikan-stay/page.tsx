@@ -396,7 +396,7 @@ export default function HiroshimaSaijoTakeharaWinterPage() {
               {hotelsList.map((hotel: any) => (
                 <div 
                   key={hotel.id}
-                  className="bg-white rounded-3xl overflow-hidden border border-slate-200 shadow-sm hover:shadow-md transition flex flex-col md:flex-row"
+                  className="bg-white rounded-3xl overflow-hidden border border-slate-200 shadow-sm hover:shadow-md transition flex flex-col"
                 >
                   <div className="md:w-5/12 relative h-64 md:h-auto min-h-[260px]">
                     <img 

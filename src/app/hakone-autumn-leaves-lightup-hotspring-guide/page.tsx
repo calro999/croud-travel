@@ -339,7 +339,7 @@ export default function HakoneAutumnLeavesHotspringGuidePage() {
                 className="bg-stone-50 rounded-2xl overflow-hidden border border-rose-200/80 hover:border-rose-500 hover:shadow-lg transition-all duration-300 flex flex-col justify-between"
               >
                 <div>
-                  <div className="relative aspect-[4/3] w-full bg-stone-200 overflow-hidden">
+                  <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full bg-stone-200 overflow-hidden">
                     {hotel.hotelImageUrl ? (
                       <img
                         src={hotel.hotelImageUrl}

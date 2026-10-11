@@ -435,9 +435,9 @@ export default function AkiuWinterPage() {
                 key={hotel.id}
                 className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/90 hover:shadow-xl transition-all duration-300 flex flex-col"
               >
-                <div className="grid grid-cols-1 lg:grid-cols-12 gap-0">
+                <div className="flex flex-col">
                   {/* Hotel Image Container */}
-                  <div className="lg:col-span-5 relative min-h-[300px] lg:min-h-full bg-stone-100">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] overflow-hidden">
                     <Image
                       src={hotel.img}
                       alt={hotel.name}
@@ -450,7 +450,7 @@ export default function AkiuWinterPage() {
                   </div>
 
                   {/* Hotel Content */}
-                  <div className="lg:col-span-7 p-6 sm:p-8 flex flex-col justify-between space-y-6">
+                  <div className="w-full p-5 sm:p-7 flex flex-col justify-between space-y-4">
                     <div>
                       <div className="flex items-center justify-between gap-2 mb-2 flex-wrap">
                         <span className="text-xs font-semibold text-emerald-800 bg-emerald-50 px-2.5 py-1 rounded-lg border border-emerald-200">

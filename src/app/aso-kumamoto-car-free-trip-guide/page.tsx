@@ -217,7 +217,7 @@ export default function AsoKumamotoCarFreePage() {
 
       <div className="max-w-5xl mx-auto px-4 mt-8 space-y-12">
         {/* 🎫 クーポン＆予約バナーセクション */}
-        <div className="bg-gradient-to-r from-amber-500 via-amber-600 to-yellow-600 rounded-2xl p-4 sm:p-6 text-white shadow-md flex flex-col md:flex-row items-center justify-between gap-4">
+        <div className="bg-gradient-to-r from-amber-500 via-amber-600 to-yellow-600 rounded-2xl p-4 sm:p-6 text-white shadow-md flex flex-col items-center justify-between gap-4">
           <div className="space-y-1 text-center md:text-left">
             <div className="inline-block bg-stone-950/40 text-amber-200 text-xs font-black px-2.5 py-0.5 rounded">
               楽天トラベル限定クーポン配布中

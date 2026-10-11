@@ -303,8 +303,8 @@ export default function Page() {
               </h2>
             </div>
 
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-              <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+            <div className="flex flex-col gap-6">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                 <img
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Noradokei_02.JPG/1280px-Noradokei_02.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="土佐の小京都・野良時計と土居廓中武家屋敷（手作り大時計の響きと室戸岬だるま朝日）"
@@ -312,7 +312,7 @@ export default function Page() {
                   loading="lazy"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="font-bold text-stone-900 text-base">
                   【土佐の小京都・野良時計と土居廓中武家屋敷（手作り大時計の響きと室戸岬だるま朝日）の見どころと歴史】
                 </h3>
@@ -367,8 +367,8 @@ export default function Page() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/20497/20497.jpg"
                       alt="ホテルＴＡＭＡＩ"
@@ -376,7 +376,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                     <li key="0" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">野良時計や土居廓中武家屋敷、岩崎弥太郎生家まで車で数分の絶好の観光ロケーション</span></li>
                     <li key="1" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">最上階のレストランから太平洋と安芸の街並みを一望する心地よいパノラマビュー</span></li>
@@ -433,8 +433,8 @@ export default function Page() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/20702/20702.jpg"
                       alt="ホテル　なはり"
@@ -442,7 +442,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                     <li key="0" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">奈半利駅から徒歩圏内！室戸岬と安芸の中間に位置し、東高知周遊に最適なアクセス</span></li>
                     <li key="1" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">室戸海洋深層水を取り入れた大浴場で、ミネラルたっぷりの癒やしの湯浴みを体験</span></li>
@@ -499,8 +499,8 @@ export default function Page() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/13721/13721.jpg"
                       alt="リゾートホテル海辺の果樹園"
@@ -508,7 +508,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                     <li key="0" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">太平洋を見下ろす高台に建ち、全室バルコニー付きの開放的なオーシャンビュー客室</span></li>
                     <li key="1" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">黒潮の海風を感じる露天風呂と大浴場を完備し、満天の星空を眺めながら極上の湯浴み</span></li>
@@ -565,8 +565,8 @@ export default function Page() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/15239/15239.jpg"
                       alt="高知黒潮ホテル"
@@ -574,7 +574,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                     <li key="0" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">地下1300mから湧き出る自家源泉の天然温泉「黒潮温泉 龍馬の湯」で至福の湯巡り</span></li>
                     <li key="1" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">露天風呂やサウナ・歩行浴プールを備えた充実の温浴施設で冬の寒さを癒やす</span></li>
@@ -631,8 +631,8 @@ export default function Page() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/1807/1807.jpg"
                       alt="サザンシティホテル"
@@ -640,7 +640,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                     <li key="0" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">高知龍馬空港や南国ICから車で約10〜15分！東高知ドライブのゲートウェイに最適な立地</span></li>
                     <li key="1" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">旅の疲れをゆったり癒やせる男女別大浴場を完備し、足を伸ばしてリラックス</span></li>

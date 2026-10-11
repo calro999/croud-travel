@@ -482,9 +482,9 @@ export default function NaraKashiharaWinterPage() {
                 key={hotel.id} 
                 className="bg-white rounded-2xl overflow-hidden border border-slate-200/90 shadow-md hover:shadow-xl transition duration-300"
               >
-                <div className="grid grid-cols-1 lg:grid-cols-12 gap-0">
+                <div className="flex flex-col">
                   {/* Hotel Image */}
-                  <div className="lg:col-span-5 relative min-h-[260px] lg:min-h-full">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] overflow-hidden">
                     <img 
                       src={hotel.img} 
                       alt={hotel.name}
@@ -499,7 +499,7 @@ export default function NaraKashiharaWinterPage() {
                   </div>
 
                   {/* Hotel Content */}
-                  <div className="lg:col-span-7 p-6 md:p-8 flex flex-col justify-between space-y-6">
+                  <div className="w-full p-5 sm:p-7 flex flex-col justify-between space-y-4">
                     <div className="space-y-4">
                       <div className="flex flex-wrap items-center justify-between gap-2">
                         <span className="text-xs font-extrabold text-amber-800 bg-amber-50 px-2.5 py-0.5 rounded border border-amber-200">

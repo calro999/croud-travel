@@ -151,8 +151,8 @@ export default function WinterFeaturePage() {
               </div>
               <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所解説</span>
             </div>
-            <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-              <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+            <div className="flex flex-col gap-6 p-6">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
                 <Image
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Atami_baien_-_March_7_2021_various_14_34_49_754000.jpeg/1280px-Atami_baien_-_March_7_2021_various_14_34_49_754000.jpeg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="熱海梅園（日本一早咲きの梅の名所）"
@@ -164,7 +164,7 @@ export default function WinterFeaturePage() {
                   <span className="text-[10px] text-white/90">写真出典: Wikimedia Commons</span>
                 </div>
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">熱海梅園（日本一早咲きの梅の名所）の歴史と見どころ</h3>
                 <p className="text-xs md:text-sm text-stone-600 leading-relaxed">熱海梅園（あたみばいえん）は、静岡県熱海市にある市営の庭園。日本で最も早咲きの梅、そして最も遅い紅葉と言われている。60品種・469本の梅をはじめとする各種植物が植えられており、熱海市の観光名所の1つとなっている。</p>
                 <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
@@ -220,9 +220,9 @@ export default function WinterFeaturePage() {
                   <span>静岡県熱海市東海岸町5-24（アクセス：ＪＲ熱海駅からタクシーで５分。徒歩１３分。熱海サンビーチまでは徒歩３分♪）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100 border border-stone-100 shadow-sm">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-100 shadow-sm">
                       <Image
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/16668/16668.jpg"
                         alt="熱海温泉　古屋旅館"
@@ -233,7 +233,7 @@ export default function WinterFeaturePage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-xs font-bold text-stone-500 uppercase tracking-wider mb-2">宿のハイライト・こだわり</h4>
                       <ul className="space-y-1.5 mb-4">
@@ -314,9 +314,9 @@ export default function WinterFeaturePage() {
                   <span>静岡県熱海市伊豆山1048-4（アクセス：ＪＲ熱海駅よりお車にて約１５分  タクシーで１,５００円程度　　　改装　：リニューアルOPEN）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100 border border-stone-100 shadow-sm">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-100 shadow-sm">
                       <Image
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/142952/142952.jpg"
                         alt="ホテルグランバッハ熱海クレッシェンド"
@@ -327,7 +327,7 @@ export default function WinterFeaturePage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-xs font-bold text-stone-500 uppercase tracking-wider mb-2">宿のハイライト・こだわり</h4>
                       <ul className="space-y-1.5 mb-4">
@@ -408,9 +408,9 @@ export default function WinterFeaturePage() {
                   <span>静岡県熱海市熱海1993-250（アクセス：宿泊棟によりフロントが異なります。【ホライゾン】⇒ホライゾン・ウイング【オーシャン】⇒オーシャン・ウイング）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100 border border-stone-100 shadow-sm">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-100 shadow-sm">
                       <Image
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/5417/5417.jpg"
                         alt="ホテルニューアカオ"
@@ -421,7 +421,7 @@ export default function WinterFeaturePage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-xs font-bold text-stone-500 uppercase tracking-wider mb-2">宿のハイライト・こだわり</h4>
                       <ul className="space-y-1.5 mb-4">
@@ -502,9 +502,9 @@ export default function WinterFeaturePage() {
                   <span>静岡県熱海市和田浜南町10-1（アクセス：東京から新幹線で50分！熱海駅よりタクシーで約10分。送迎バス　9:40～19:00まで40分毎）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100 border border-stone-100 shadow-sm">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-100 shadow-sm">
                       <Image
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/1656/1656.jpg"
                         alt="熱海温泉　熱海後楽園ホテル"
@@ -515,7 +515,7 @@ export default function WinterFeaturePage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-xs font-bold text-stone-500 uppercase tracking-wider mb-2">宿のハイライト・こだわり</h4>
                       <ul className="space-y-1.5 mb-4">
@@ -596,9 +596,9 @@ export default function WinterFeaturePage() {
                   <span>静岡県熱海市田原本町4-16（アクセス：熱海駅より徒歩にて２分）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100 border border-stone-100 shadow-sm">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-100 shadow-sm">
                       <Image
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/108115/108115.jpg"
                         alt="熱海温泉　伊東園ホテル熱海館"
@@ -609,7 +609,7 @@ export default function WinterFeaturePage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-xs font-bold text-stone-500 uppercase tracking-wider mb-2">宿のハイライト・こだわり</h4>
                       <ul className="space-y-1.5 mb-4">

@@ -441,7 +441,7 @@ export default function EhimeImabariWinterFeaturePage() {
             {hotels.map((hotel) => (
               <div 
                 key={hotel.id}
-                className="bg-white rounded-3xl p-6 sm:p-8 shadow-xs border border-slate-200 hover:border-cyan-300 transition-all duration-300 flex flex-col md:flex-row gap-6 lg:gap-8"
+                className="bg-white rounded-3xl p-6 sm:p-8 shadow-xs border border-slate-200 hover:border-cyan-300 transition-all duration-300 flex flex-col gap-6 lg:gap-8"
               >
                 {/* Hotel Image */}
                 <div className="md:w-5/12 shrink-0">

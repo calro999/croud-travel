@@ -60,8 +60,8 @@ export default function AutumnBudgetKumamotoHotelsPage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Kumamoto_Castle_Keep_Tower_20221022-3.jpg/1280px-Kumamoto_Castle_Keep_Tower_20221022-3.jpg"
                 alt="名城・熊本城（銀杏城）の天守閣と大イチョウ"
@@ -73,7 +73,7 @@ export default function AutumnBudgetKumamotoHotelsPage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">名城・熊本城（銀杏城）の天守閣と大イチョウの歴史と見どころ</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">熊本城（くまもとじょう）は、熊本県熊本市中央区（肥後国飽田郡熊本）にあった安土桃山時代から江戸時代の日本の城。別名「銀杏城（ぎんなんじょう）」。 加藤清正が中世城郭を取り込み改築した平山城で、加藤氏改易後は幕末まで熊本藩細川家の居城だった。明治時代には西南戦争の戦場となった。西南戦争の直前に大小天守や御殿など本丸の建築群が焼失したが、宇土櫓を始めとする櫓・城門・塀が現存し、13棟（櫓11棟、門1棟、塀1棟）が国の重要文化財に指定されている。また、城跡は「熊本城跡」として国の特別史跡に指定されている。</p>
               <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">

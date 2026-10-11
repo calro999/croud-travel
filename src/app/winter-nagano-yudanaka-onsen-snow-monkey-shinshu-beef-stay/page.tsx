@@ -325,8 +325,8 @@ export default function NaganoYudanakaWinterPage() {
                 key={h.id}
                 className="bg-white rounded-3xl overflow-hidden shadow-sm border border-slate-200/90 hover:shadow-md transition-shadow duration-300"
               >
-                <div className="grid grid-cols-1 lg:grid-cols-12 gap-0">
-                  <div className="lg:col-span-5 relative min-h-[260px] lg:min-h-full">
+                <div className="flex flex-col">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] overflow-hidden">
                     <img 
                       src={h.img} 
                       alt={h.name}
@@ -343,7 +343,7 @@ export default function NaganoYudanakaWinterPage() {
                     </div>
                   </div>
 
-                  <div className="lg:col-span-7 p-6 sm:p-8 flex flex-col justify-between space-y-6">
+                  <div className="w-full p-5 sm:p-7 flex flex-col justify-between space-y-4">
                     <div className="space-y-4">
                       <div className="flex flex-wrap items-center justify-between gap-2">
                         <span className="text-xs font-semibold px-2.5 py-1 rounded-md bg-indigo-50 text-indigo-800 border border-indigo-200">

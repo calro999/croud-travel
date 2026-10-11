@@ -420,7 +420,7 @@ export default function ShimaneTsuwanoOnsenWinterPage() {
                 key={hotel.id}
                 className="bg-white rounded-3xl border border-stone-200 shadow-xs overflow-hidden transition-all duration-300 hover:shadow-md hover:border-red-300"
               >
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-0">
+                <div className="flex flex-col">
                   <div className="md:col-span-5 relative min-h-[240px] md:min-h-full">
                     {/* eslint-disable-next-line @next/next/no-img-element */}
                     <img 

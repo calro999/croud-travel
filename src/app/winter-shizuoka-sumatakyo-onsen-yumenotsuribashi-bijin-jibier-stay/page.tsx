@@ -388,10 +388,10 @@ export default function ShizuokaSumatakyoOnsenWinterPage() {
           <div className="space-y-8">
             {hotelsData.map((hotel) => (
               <div key={hotel.id} className="bg-white rounded-3xl overflow-hidden border border-stone-200 shadow-md hover:shadow-lg transition-shadow">
-                <div className="grid grid-cols-1 lg:grid-cols-12 gap-0">
+                <div className="flex flex-col">
                   
                   {/* Hotel Image & Basic Badges */}
-                  <div className="lg:col-span-5 relative min-h-[260px] lg:min-h-full">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] overflow-hidden">
                     <img 
                       src={hotel.img} 
                       alt={hotel.name} 
@@ -414,7 +414,7 @@ export default function ShizuokaSumatakyoOnsenWinterPage() {
                   </div>
 
                   {/* Hotel Story & Details */}
-                  <div className="lg:col-span-7 p-6 sm:p-8 flex flex-col justify-between space-y-6">
+                  <div className="w-full p-5 sm:p-7 flex flex-col justify-between space-y-4">
                     <div>
                       <div className="flex flex-wrap items-center gap-2 mb-2">
                         <span className="text-xs font-semibold text-teal-800 bg-teal-50 px-2.5 py-1 rounded-md border border-teal-200">

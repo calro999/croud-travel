@@ -204,9 +204,9 @@ export default function Page() {
           <div className="space-y-8">
             {hotels.map((hotel: any, index: number) => (
               <article key={hotel.hotelNo || index} className="bg-white rounded-2xl border border-stone-200 shadow-sm overflow-hidden hover:shadow-md transition">
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 p-6">
-                  <div className="md:col-span-5 space-y-3">
-                    <div className="relative rounded-xl overflow-hidden aspect-[4/3] bg-stone-100">
+                <div className="flex flex-col p-5 sm:p-7 md:p-8 gap-5">
+                  <div className="w-full space-y-3">
+                    <div className="relative rounded-xl overflow-hidden aspect-[16/9] sm:aspect-[21/9] bg-stone-100">
                       <img
                         src={hotel.hotelImageUrl}
                         alt={hotel.hotelName}
@@ -223,7 +223,7 @@ export default function Page() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between space-y-4">
+                  <div className="w-full flex flex-col justify-between space-y-4">
                     <div className="space-y-2">
                       <h3 className="text-lg md:text-xl font-bold font-journal-serif text-emerald-950 leading-snug">
                         <a href={hotel.affiliateUrl} target="_blank" rel="noopener noreferrer nofollow" className="hover:text-emerald-700">

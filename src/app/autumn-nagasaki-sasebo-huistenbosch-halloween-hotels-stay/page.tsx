@@ -241,8 +241,8 @@ export default function FeaturePage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Huis_Ten_Bosch_-_01.jpg"
                 alt="ヨーロッパの街並み・ハウステンボスの秋"
@@ -254,7 +254,7 @@ export default function FeaturePage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">ヨーロッパの街並み・ハウステンボスの秋の歴史と見どころ</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">ハウステンボス（蘭: Huis Ten Bosch）は、長崎県佐世保市にあるテーマパーク。略称は「HTB」、テンボス。オランダの街並みを再現し、ヨーロッパ全体をテーマとしている。東京ディズニーリゾートの1.5倍の敷地面積で、単独テーマパークとしては日本最大。ドラマ・映画・CMなどのロケ地としても使われている。佐世保市の町にもなっており、所在地の住所は「佐世保市ハウステンボス町（まち）1-1」。</p>
               <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
@@ -278,9 +278,9 @@ export default function FeaturePage() {
             {hotelList.map((hotel, index) => (
               <div 
                 key={index} 
-                className="bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-all duration-300 border border-stone-200/80 flex flex-col md:flex-row group"
+                className="bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-all duration-300 border border-stone-200/80 flex flex-col group"
               >
-                <div className="relative w-full md:w-2/5 h-64 md:h-auto min-h-[260px] overflow-hidden">
+                <div className="relative w-full aspect-[16/9] sm:aspect-[21/9] md:aspect-[2/1] overflow-hidden">
                   <Image 
                     src={hotel.img} 
                     alt={hotel.name}
@@ -293,7 +293,7 @@ export default function FeaturePage() {
                   </div>
                 </div>
 
-                <div className="p-6 md:p-8 md:w-3/5 flex flex-col justify-between space-y-6">
+                <div className="p-6 md:p-8 w-full flex flex-col justify-between space-y-6">
                   <div>
                     <div className="flex items-center gap-2 mb-2">
                       <div className="flex items-center text-amber-500">

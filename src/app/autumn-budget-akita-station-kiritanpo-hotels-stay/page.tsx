@@ -60,8 +60,8 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Kogetsu-pond_in_Senshu_Park_20180520.jpg/1280px-Kogetsu-pond_in_Senshu_Park_20180520.jpg"
                 alt="千秋公園（久保田城跡）胡月池"
@@ -73,7 +73,7 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">佐竹藩主が築いた久保田城跡・水濠と御隅櫓を彩る秋の紅葉</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
                 千秋公園（せんしゅうこうえん）は、秋田県秋田市にある久保田城跡を整備した名勝公園。江戸時代に久保田藩主・佐竹氏が築いた平山城で、石垣をほとんど用いず土塁を多用した堅牢な縄張りが特徴。復元された御隅櫓や表門、胡月池の周りをモミジやイチョウが華やかに彩り、秋の城下町散策に最適です。
@@ -100,8 +100,8 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（超破格プライス）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/196574/196574.jpg"
                   alt="EN HOTEL Akita"
@@ -110,7 +110,7 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   ＥＮ　ＨＯＴＥＬ　Ａｋｉｔａ
                 </h3>
@@ -155,8 +155,8 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（クチコミ高評価）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/187580/187580.jpg"
                   alt="クインテッサホテル秋田"
@@ -165,7 +165,7 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   クインテッサホテル秋田
                 </h3>
@@ -210,8 +210,8 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（クチコミ高評価宿）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/73983/73983.jpg"
                   alt="リッチモンドホテル秋田駅前"
@@ -220,7 +220,7 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   リッチモンドホテル秋田駅前
                 </h3>
@@ -265,8 +265,8 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（超高評価ホテル）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/192772/192772.jpg"
                   alt="ダイワロイネットホテル秋田駅前"
@@ -275,7 +275,7 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   ダイワロイネットホテル秋田駅前
                 </h3>
@@ -320,8 +320,8 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（駅直結＆朝食無料）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/39502/39502.jpg"
                   alt="東横ＩＮＮ秋田駅東口"
@@ -330,7 +330,7 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   東横ＩＮＮ秋田駅東口
                 </h3>

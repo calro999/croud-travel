@@ -197,7 +197,7 @@ export default function AtamiBudgetGuidePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
             {hotels.map((hotel: any) => (
               <article key={hotel.hotelNo} className="bg-white rounded-2xl overflow-hidden shadow-sm border border-slate-200 group">
-                <div className="aspect-[4/3] relative overflow-hidden bg-slate-100">
+                <div className="aspect-[16/9] sm:aspect-[21/9] relative overflow-hidden bg-slate-100">
                   {hotel.hotelImageUrl && (
                     <img src={hotel.hotelImageUrl} alt={hotel.hotelName} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
                   )}

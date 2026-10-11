@@ -319,9 +319,9 @@ export default function WinterGifuGeroOnsenPage() {
                 key={hotel.id}
                 className="bg-white rounded-3xl overflow-hidden shadow-xs border border-stone-200 hover:shadow-md transition duration-300"
               >
-                <div className="grid grid-cols-1 lg:grid-cols-12 gap-0">
+                <div className="flex flex-col">
                   {/* Image & Quick Specs */}
-                  <div className="lg:col-span-5 relative min-h-[260px] sm:min-h-[320px] bg-stone-100 overflow-hidden">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] overflow-hidden">
                     <img 
                       src={hotel.img} 
                       alt={hotel.name}
@@ -346,7 +346,7 @@ export default function WinterGifuGeroOnsenPage() {
                   </div>
 
                   {/* Body Content */}
-                  <div className="lg:col-span-7 p-6 sm:p-8 flex flex-col justify-between space-y-6">
+                  <div className="w-full p-5 sm:p-7 flex flex-col justify-between space-y-4">
                     <div className="space-y-4">
                       <div>
                         <span className="text-xs font-bold text-amber-800 tracking-wide uppercase">

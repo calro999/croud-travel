@@ -241,8 +241,8 @@ export default function FeaturePage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://upload.wikimedia.org/wikipedia/commons/4/42/Kurokawa_Onsen_-%E6%B8%A9%E6%B3%89%E8%A1%97.jpg"
                 alt="渓谷に佇む秘湯・黒川温泉と入湯手形"
@@ -254,7 +254,7 @@ export default function FeaturePage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">渓谷に佇む秘湯・黒川温泉と入湯手形の歴史と見どころ</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">黒川温泉（くろかわおんせん）は、熊本県阿蘇郡南小国町にある温泉である。 阿蘇山の北に位置し、南小国温泉郷の一つを構成する。広義の阿蘇温泉郷に含む場合もある。 全国屈指の人気温泉地として知られ、2009年版ミシュラン・グリーンガイド・ジャポンで、温泉地としては異例の二つ星で掲載された。なお「黒川温泉」の名称は2006年に地域団体商標として商標登録（地域ブランド）されている。</p>
               <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
@@ -278,9 +278,9 @@ export default function FeaturePage() {
             {hotelList.map((hotel, index) => (
               <div 
                 key={index} 
-                className="bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-all duration-300 border border-stone-200/80 flex flex-col md:flex-row group"
+                className="bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-all duration-300 border border-stone-200/80 flex flex-col group"
               >
-                <div className="relative w-full md:w-2/5 h-64 md:h-auto min-h-[260px] overflow-hidden">
+                <div className="relative w-full aspect-[16/9] sm:aspect-[21/9] md:aspect-[2/1] overflow-hidden">
                   <Image 
                     src={hotel.img} 
                     alt={hotel.name}
@@ -293,7 +293,7 @@ export default function FeaturePage() {
                   </div>
                 </div>
 
-                <div className="p-6 md:p-8 md:w-3/5 flex flex-col justify-between space-y-6">
+                <div className="p-6 md:p-8 w-full flex flex-col justify-between space-y-6">
                   <div>
                     <div className="flex items-center gap-2 mb-2">
                       <div className="flex items-center text-amber-500">

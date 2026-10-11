@@ -213,16 +213,16 @@ export default function Page() {
               <span className="text-[11px] text-stone-400">Wikipedia公式情報連携</span>
             </div>
 
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-              <div className="md:col-span-5 overflow-hidden rounded-xl border border-stone-200 bg-stone-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full overflow-hidden rounded-xl border border-stone-200 bg-stone-100 aspect-[16/9] sm:aspect-[21/9]">
                 <img
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/%E7%8A%AC%E9%B3%B4%E5%B1%B1%E6%B8%93%E8%B0%B7_2013.11.23_-_panoramio.jpg/1280px-%E7%8A%AC%E9%B3%B4%E5%B1%B1%E6%B8%93%E8%B0%B7_2013.11.23_-_panoramio.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="犬鳴山修験道（七宝瀧寺と静寂の渓谷美）"
-                  className="w-full h-48 md:h-56 object-cover hover:scale-105 transition-transform duration-300"
+                  className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
                   loading="lazy"
                 />
               </div>
-              <div className="md:col-span-7 space-y-2">
+              <div className="w-full space-y-3">
                 <h3 className="font-bold text-stone-900 text-sm sm:text-base">
                   犬鳴山修験道（七宝瀧寺と静寂の渓谷美） の見どころと歴史
                 </h3>
@@ -251,7 +251,7 @@ export default function Page() {
 
           {/* 宿カード 1: 犬鳴山温泉　不動口館 */}
           <article className="bg-white rounded-2xl border border-stone-200 shadow-sm overflow-hidden hover:shadow-md transition-shadow">
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-0">
+            <div className="flex flex-col">
               <div className="md:col-span-5 relative min-h-[240px]">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/104779/104779.jpg"
@@ -318,7 +318,7 @@ export default function Page() {
 
           {/* 宿カード 2: 犬鳴山温泉　み奈美亭 */}
           <article className="bg-white rounded-2xl border border-stone-200 shadow-sm overflow-hidden hover:shadow-md transition-shadow">
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-0">
+            <div className="flex flex-col">
               <div className="md:col-span-5 relative min-h-[240px]">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/109452/109452.jpg"
@@ -385,7 +385,7 @@ export default function Page() {
 
           {/* 宿カード 3: 関空温泉ホテルガーデンパレス */}
           <article className="bg-white rounded-2xl border border-stone-200 shadow-sm overflow-hidden hover:shadow-md transition-shadow">
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-0">
+            <div className="flex flex-col">
               <div className="md:col-span-5 relative min-h-[240px]">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/222/222.jpg"
@@ -452,7 +452,7 @@ export default function Page() {
 
           {/* 宿カード 4: ホテルニューユタカ */}
           <article className="bg-white rounded-2xl border border-stone-200 shadow-sm overflow-hidden hover:shadow-md transition-shadow">
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-0">
+            <div className="flex flex-col">
               <div className="md:col-span-5 relative min-h-[240px]">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/1316/1316.jpg"
@@ -519,7 +519,7 @@ export default function Page() {
 
           {/* 宿カード 5: スターゲイトホテル関西エアポート（ＳｉＳ　ＳＴＡＲＧＡＴＥ　ＨＯＴＥＬ） */}
           <article className="bg-white rounded-2xl border border-stone-200 shadow-sm overflow-hidden hover:shadow-md transition-shadow">
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-0">
+            <div className="flex flex-col">
               <div className="md:col-span-5 relative min-h-[240px]">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/197/197.jpg"

@@ -472,7 +472,7 @@ export default function HokkaidoWakkanaiWinterPage() {
                   {/* Hotel Image & Basic Specs */}
                   <div className="lg:col-span-5 flex flex-col justify-between">
                     <div>
-                      <div className="relative rounded-xl overflow-hidden mb-4 aspect-[4/3] bg-slate-950">
+                      <div className="relative rounded-xl overflow-hidden mb-4 aspect-[16/9] sm:aspect-[21/9] bg-slate-950">
                         {/* eslint-disable-next-line @next/next/no-img-element */}
                         <img 
                           src={hotel.img} 

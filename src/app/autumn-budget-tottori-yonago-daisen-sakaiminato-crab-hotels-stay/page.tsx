@@ -60,8 +60,8 @@ export default function AutumnBudgetYonagoHotelsPage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Sakaiminato_city_office_1.jpg/1280px-Sakaiminato_city_office_1.jpg"
                 alt="水木しげるロードと日本海屈指の漁港・境港"
@@ -73,7 +73,7 @@ export default function AutumnBudgetYonagoHotelsPage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">水木しげるロードと日本海屈指の漁港・境港の歴史と見どころ</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">境港市（さかいみなとし）は、中国地方の北部に位置する鳥取県の西部の市で、日本海側の重要港湾として栄えてきた街である。 白砂青松の続く弓ヶ浜半島は東南にそびえる大山を背景に風光明媚な景観を呈しており、「日本の白砂青松100選」や「日本の渚100選」に選ばれている。 市内に所在する境漁港は日本海側随一の漁港として水揚げ量全国3位(平成4年度から平成8年度までの5年間は全国1位）であり、日本一の水揚げ量のベニズワイガニや日本有数のクロマグロの水揚げで知られる。 日本の著名な漫画家の水木しげるの出身地でもあり、代表作の『ゲゲゲの鬼太郎』に登場するキャラクターの銅像がならぶ水木しげるロード、市が発行する住民票の写しの透かしに『ゲゲゲの鬼太郎』に登場するキャラクターが使われていること、境線に「鬼太郎列車」が運転されていることでも有名である。 鳥取県内で最も人口が少ない市であるが、中国地方の市で最も面積が狭い。 市名の読みは「さかいみなと」であるが、市民は「さかえ」と呼ぶことも多い（境港市の管理施設に「さかえ公園」があり資料には親しみを込めて名付けられたとしている）。かつての境村、境町の読み方の名残である。アメダスの観測ポイントは「境（さかえ）」である。一方で港湾の方の「境港」は「さかいこう」と呼ぶ。</p>
               <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">

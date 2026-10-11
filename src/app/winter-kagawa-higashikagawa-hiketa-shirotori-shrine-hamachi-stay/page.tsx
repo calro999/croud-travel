@@ -310,8 +310,8 @@ export default function Page() {
               </span>
             </div>
 
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-5 items-center">
-              <div className="md:col-span-5 relative h-48 sm:h-56 rounded-xl overflow-hidden bg-stone-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://upload.wikimedia.org/wikipedia/commons/7/73/Shirotori_shrine_Kagawa.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
                   alt="讃岐国・白鳥神社（日本武尊白鳥伝説と新春開運厄除け初詣）"
@@ -319,7 +319,7 @@ export default function Page() {
                   loading="lazy"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="font-bold text-stone-900 text-sm sm:text-base">
                   【讃岐国・白鳥神社（日本武尊白鳥伝説と新春開運厄除け初詣）の見どころと歴史】
                 </h3>
@@ -373,8 +373,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/68660/68660.jpg"
                       alt="じゃこ丸パーク津田（国民宿舎松琴閣　クアパーク津田）"
@@ -382,7 +382,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       日本の渚百選に選ばれる「津田の松原」県立琴林公園の海辺に位置する癒やしの公共の宿。白砂青松の美しい海岸林と穏やかな瀬戸内海が目の前に広がり、客室や温泉大浴場から朝夕の絶景を満喫できます。温泉施設は打たせ湯や気泡湯、サウナなどを備えた本格クアハウス。冬の夕食には、脂の乗ったオリーブハマチの刺身や郷土の味わいを取り入れた会席コースが並び、心温まる寛ぎの時間を過ごせます。
                     </p>
@@ -440,8 +440,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/10981/10981.jpg"
                       alt="あじ温泉　庵治観光ホテル　海のやどり"
@@ -449,7 +449,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       映画『世界の中心で、愛をさけぶ』の舞台となった庵治半島の突端に建つ海辺の温泉宿。眼前に遮るもののない瀬戸内海の大パノラマが広がり、行き交う船や島々を眺めながら静かな時間を過ごせます。温泉は肌に優しい弱アルカリ性の自家源泉で、冬の澄んだ夜空の星を仰ぐ展望露天風呂は格別の風情。東かがわの白鳥神社や引田へのドライブ旅の拠点として贅沢な滞在が叶います。
                     </p>
@@ -507,8 +507,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/192093/192093.jpg"
                       alt="クラフトホテル瀬戸内"
@@ -516,7 +516,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       日本一の手袋の街・東かがわ市の職人技とものづくり精神をテーマにした洗練のブティックホテル。温もりのある木やファブリックを活かしたスタイリッシュな空間は、機能的でありながら旅の疲れを優しく解きほぐします。白鳥神社や引田の町並み、安戸池へ車で数分の距離に位置し、東讃岐の歴史探訪や冬のオリーブハマチ巡りの拠点として高い人気を集めています。
                     </p>
@@ -574,8 +574,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/41416/41416.jpg"
                       alt="夕凪の湯　ＨＯＴＥＬ花樹海"
@@ -583,7 +583,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       高松の市街地と瀬戸内海を見晴らす高台に位置し、緑豊かな木々に包まれた都市型温泉リゾート。最上階の展望パノラマ露天風呂からは、昼は多島美の海を、夜は宝石箱のように煌めく高松の街の灯りを眺めながら名湯に浸かれます。料理は讃岐の旬の食材を知り尽くした料理長が腕を振るう季節の本格会席。東かがわへの日帰りドライブと高松の夜景を贅沢に両立できる名宿です。
                     </p>
@@ -641,8 +641,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/13730/13730.jpg"
                       alt="高松国際ホテル"
@@ -650,7 +650,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       高松の東部に位置し、東かがわや引田へのドライブアクセスが極めてスムーズな格式あるシティホテル。広々としたロビーや手入れの行き届いた日本庭園が格式を感じさせ、ビジネスから観光まで幅広い旅行者に愛されています。館内のレストランでは、冬の讃岐の海の幸やブランド牛を使った特別ディナーを提供。安心感のあるサービスと快適な客室空間が心地よい旅を支えてくれます。
                     </p>

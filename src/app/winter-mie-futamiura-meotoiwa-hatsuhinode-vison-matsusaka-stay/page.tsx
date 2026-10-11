@@ -321,8 +321,8 @@ export default function Page() {
               <MapPin className="w-4 h-4" />
               <span>近隣名所アーカイブ＆公式百科事典連携</span>
             </div>
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-              <div className="md:col-span-5 relative h-56 rounded-xl overflow-hidden bg-stone-800">
+            <div className="flex flex-col gap-6">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-800">
                 <img
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Futamiokitama_jinja_Haiden.jpg/1280px-Futamiokitama_jinja_Haiden.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="禊の聖地・二見興玉神社（伊勢湾の夫婦岩と冬の清らかな初日の出・満月）"
@@ -330,7 +330,7 @@ export default function Page() {
                   loading="lazy"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <div>
                   <span className="text-[11px] text-cyan-300 font-mono">Spot Spotlight</span>
                   <h3 className="text-lg sm:text-xl font-bold text-white">
@@ -392,8 +392,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/40332/40332.jpg"
                       alt="上質の美味とおもてなし。オーシャンビューの宿　旅荘　海の蝶"
@@ -401,7 +401,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       二見浦の高台、緑豊かな岬に佇み、目の前に広がる伊勢湾の雄大なオーシャンパノラマを独占できる高級温泉旅館。全客室が海に面しており、朝には海から昇る清らかな朝日、夜には静かな潮騒とともに煌めく満月をプライベートな空間から堪能できます。敷地内にはプライベートビーチや散策路が広がり、旅情を満喫。夕食には三重県が誇る最高峰ブランド「松阪牛」の炭火焼きや、獲れたての伊勢海老・アワビなど伊勢志摩の至宝をふんだんに盛り込んだ豪華会席が並び、記念日や新春の特別な滞在に相応しい極上の時間をお届けします。
                     </p>
@@ -459,8 +459,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/182683/182683.jpg"
                       alt="ホテルヴィソン"
@@ -468,7 +468,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       多気の壮大な自然美と共生するように山の斜面にデザインされた、日本最大級リゾートVISONの中核を担うハイエンドリゾートホテル。すべての客室に広々としたテラスが備わり、木々の緑と澄んだ冬の風を感じながら、まるで自然の中に溶け込むような滞在が楽しめます。宿泊者は三重大学と共同研究された薬草温浴施設「本草湯」を自由に利用でき、冬の身体を内側から整える極上の癒やしを体験。夕食にはVISON内の多彩な一流レストランから好みのスタイルを選べ、美食とウェルネスが融合した新しい旅の歓びを満喫できます。
                     </p>
@@ -526,8 +526,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/7563/7563.jpg"
                       alt="ジャズが流れる海辺のお宿　浜千代館"
@@ -535,7 +535,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       二見浦の海岸通り沿いに位置し、名所「夫婦岩」まで波打ち際の遊歩道を歩いてわずか5分という絶好のロケーションを誇る海辺の和風旅館。館内には心地よいジャズの名曲が静かに流れ、旅人の心を優しく解きほぐします。夫婦岩の初日の出を拝む早朝散拝にもこれ以上ない便利さ。趣の異なる貸切風呂も備わり、プライベートな湯浴みを楽しめます。夕食には伊勢湾で水揚げされた新鮮な海の幸や、柔らかくジューシーな松阪牛料理が並び、家庭的で温かなもてなしとともに心温まる冬の伊勢旅を演出してくれます。
                     </p>
@@ -593,8 +593,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/40176/40176.jpg"
                       alt="ホテルキャッスルイン伊勢夫婦岩（旧：ホテルリゾートイン二見）"
@@ -602,7 +602,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       二見浦の海岸近くに位置し、夫婦岩へのアクセスはもちろん、伊勢志摩スカイラインや国道への合流もスムーズな観光拠点ホテル。館内には伊勢湾を望む大浴場に加え、宿泊者が無料で利用できる趣の異なる複数の貸切風呂が用意されており、家族やカップルで気兼ねなく温まることができます。コストパフォーマンスに優れた宿泊プランが揃い、気軽に伊勢二見の冬景色と初詣を満喫したい旅行者に幅広く支持されています。
                     </p>
@@ -660,8 +660,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/7848/7848.jpg"
                       alt="伊勢志摩国立公園・二見浦　二見温泉　蘇民の湯　ホテル清海"
@@ -669,7 +669,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       二見浦の海沿いに建ち、古くから伝わる蘇民将来の伝説にちなんだ自家源泉天然温泉「蘇民の湯」を誇る老舗温泉ホテル。窓の外一面に広がる伊勢湾の大海原を眺めながら入る展望露天風呂は格別の爽快感で、塩分を含む良質な泉質が湯冷めを防ぎ、冬の身体をポカポカに保ちます。夕食には伊勢志摩の荒波で育った新鮮な地魚の舟盛りや、冬ならではの海鮮鍋会席が振る舞われ、雄大な海の景色と名湯の温もりに包まれる旅情豊かなひとときを過ごせます。
                     </p>
@@ -708,7 +708,7 @@ export default function Page() {
 
         {/* ふるさと納税セクション */}
         <section className="max-w-4xl mx-auto px-4 mb-12">
-          <div className="bg-gradient-to-br from-amber-500/10 via-amber-500/5 to-transparent rounded-2xl p-6 sm:p-8 border border-amber-500/20 shadow-sm flex flex-col md:flex-row items-center justify-between gap-6">
+          <div className="bg-gradient-to-br from-amber-500/10 via-amber-500/5 to-transparent rounded-2xl p-6 sm:p-8 border border-amber-500/20 shadow-sm flex flex-col items-center justify-between gap-6">
             <div className="space-y-2 text-center md:text-left">
               <span className="bg-amber-600 text-white text-[10px] font-bold px-2 py-0.5 rounded-full uppercase">
                 Furusato Tax

@@ -60,8 +60,8 @@ export default function AutumnBudgetNiigataHotelsPage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Iyahiko-jinja_1.JPG/1280px-Iyahiko-jinja_1.JPG"
                 alt="越後一宮・彌彦神社ともみじ谷の紅葉"
@@ -73,7 +73,7 @@ export default function AutumnBudgetNiigataHotelsPage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">越後一宮・彌彦神社ともみじ谷の紅葉の歴史と見どころ</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">弥彦神社（やひこじんじゃ、旧字体: 彌彥神󠄀社󠄁）は、新潟県西蒲原郡弥彦村弥彦にある神社。式内社（名神大社）、越後国一宮。旧社格は国幣中社で、現在は神社本庁の別表神社。</p>
               <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">

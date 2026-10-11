@@ -313,10 +313,10 @@ export default function HokkaidoFamilyTripZooNaturePage() {
           {hotels.map((hotel, index) => (
             <article
               key={hotel.hotelNo || index}
-              className="bg-white border-2 border-amber-200/90 rounded-3xl p-6 md:p-8 shadow-md hover:shadow-xl transition-all duration-300 grid grid-cols-1 md:grid-cols-12 gap-6 items-center"
+              className="bg-white border-2 border-amber-200/90 rounded-3xl p-6 md:p-8 shadow-md hover:shadow-xl transition-all duration-300 flex flex-col gap-6"
             >
               {/* ホテル画像 */}
-              <div className="md:col-span-4 relative rounded-2xl overflow-hidden aspect-[4/3] bg-amber-50 shadow-inner">
+              <div className="md:col-span-4 relative rounded-2xl overflow-hidden aspect-[16/9] sm:aspect-[21/9] bg-amber-50 shadow-inner">
                 {hotel.hotelImageUrl ? (
                   <img
                     src={hotel.hotelImageUrl}

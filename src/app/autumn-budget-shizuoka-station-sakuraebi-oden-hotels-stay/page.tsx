@@ -60,8 +60,8 @@ export default function AutumnBudgetShizuokaStationHotelsPage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://upload.wikimedia.org/wikipedia/commons/1/16/%E9%A7%BF%E5%BA%9C%E5%9F%8E%E6%9D%B1%E5%BE%A1%E9%96%80%E3%81%A8%E5%B7%BD%E6%AB%93.jpg"
                 alt="駿府城東御門と巽櫓"
@@ -73,7 +73,7 @@ export default function AutumnBudgetShizuokaStationHotelsPage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">大御所・徳川家康公ゆかりの城郭と紅葉庭園</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
                 駿府城（すんぷじょう）は、静岡県静岡市葵区にあった日本の城。江戸初期には徳川家康が大御所として駿府政権を敷いた中心地です。現在は本丸・二の丸跡が「駿府城公園」として整備され、東御門や巽櫓、紅葉山庭園など秋の散策に最適な歴史スポットとなっています。
@@ -100,8 +100,8 @@ export default function AutumnBudgetShizuokaStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（抜群のコスパ）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/172407/172407.jpg"
                   alt="アパホテル〈静岡駅北〉"
@@ -110,7 +110,7 @@ export default function AutumnBudgetShizuokaStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   アパホテル〈静岡駅北〉
                 </h3>
@@ -155,8 +155,8 @@ export default function AutumnBudgetShizuokaStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（大浴場＆生ビール）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/146873/146873.jpg"
                   alt="くれたけインプレミアム静岡駅前"
@@ -165,7 +165,7 @@ export default function AutumnBudgetShizuokaStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   くれたけインプレミアム静岡駅前
                 </h3>
@@ -210,8 +210,8 @@ export default function AutumnBudgetShizuokaStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（安心の設備）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/70230/70230.jpg"
                   alt="静鉄ホテルプレジオ 静岡駅北"
@@ -220,7 +220,7 @@ export default function AutumnBudgetShizuokaStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   静鉄ホテルプレジオ 静岡駅北
                 </h3>
@@ -265,8 +265,8 @@ export default function AutumnBudgetShizuokaStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（クチコミ高評価）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/136127/136127.jpg"
                   alt="静鉄ホテルプレジオ 静岡駅南"
@@ -275,7 +275,7 @@ export default function AutumnBudgetShizuokaStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   静鉄ホテルプレジオ 静岡駅南
                 </h3>
@@ -320,8 +320,8 @@ export default function AutumnBudgetShizuokaStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（朝食無料）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/178250/178250.jpg"
                   alt="東横ＩＮＮ静岡駅北口"
@@ -330,7 +330,7 @@ export default function AutumnBudgetShizuokaStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   東横ＩＮＮ静岡駅北口
                 </h3>

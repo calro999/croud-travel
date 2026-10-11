@@ -138,7 +138,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-6">
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/147710/147710.jpg"
                   alt="天然温泉　錦鯱の湯　ドーミーインＰＲＥＭＩＵＭ名古屋栄（ドーミーイン・御宿野乃　ホテルズグループ） 外観・館内"
@@ -146,7 +146,7 @@ export default function ArticlePage() {
                   loading="lazy"
                 />
               </div>
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/147710/147710_kan.jpg"
                   alt="天然温泉　錦鯱の湯　ドーミーインＰＲＥＭＩＵＭ名古屋栄（ドーミーイン・御宿野乃　ホテルズグループ） 客室・お風呂"
@@ -207,7 +207,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-6">
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/17984/17984.jpg"
                   alt="サウナ＆カプセルホテル　ウェルビー今池 外観・館内"
@@ -215,7 +215,7 @@ export default function ArticlePage() {
                   loading="lazy"
                 />
               </div>
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/17984/17984_man.jpg"
                   alt="サウナ＆カプセルホテル　ウェルビー今池 客室・お風呂"
@@ -276,7 +276,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-6">
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/182569/182569.jpg"
                   alt="天然温泉ホテルリブマックスＰＲＥＭＩＵＭ名古屋丸の内 外観・館内"
@@ -284,7 +284,7 @@ export default function ArticlePage() {
                   loading="lazy"
                 />
               </div>
-              <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100">
+              <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/182569/182569.jpg"
                   alt="天然温泉ホテルリブマックスＰＲＥＭＩＵＭ名古屋丸の内 客室・お風呂"

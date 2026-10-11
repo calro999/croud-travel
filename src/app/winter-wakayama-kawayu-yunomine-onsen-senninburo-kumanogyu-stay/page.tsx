@@ -415,7 +415,7 @@ export default function WakayamaKawayuYunomineWinterPage() {
             {hotelCards.map((hotel) => (
               <div 
                 key={hotel.id}
-                className="bg-white rounded-3xl border border-stone-200 shadow-xs hover:shadow-md transition-shadow overflow-hidden flex flex-col md:flex-row"
+                className="bg-white rounded-3xl border border-stone-200 shadow-xs hover:shadow-md transition-shadow overflow-hidden flex flex-col"
               >
                 <div className="md:w-5/12 relative aspect-16/10 md:aspect-auto overflow-hidden bg-stone-100">
                   {/* eslint-disable-next-line @next/next/no-img-element */}

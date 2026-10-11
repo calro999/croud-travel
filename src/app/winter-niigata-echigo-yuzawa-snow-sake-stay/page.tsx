@@ -374,7 +374,7 @@ export default function YuzawaWinterPage() {
             {hotelList.map((hotel) => (
               <div 
                 key={hotel.id}
-                className="bg-white rounded-3xl overflow-hidden border border-stone-200/80 shadow-md hover:shadow-xl transition-all duration-300 flex flex-col lg:flex-row group"
+                className="bg-white rounded-3xl overflow-hidden border border-stone-200/80 shadow-md hover:shadow-xl transition-all duration-300 flex flex-col group"
               >
                 {/* Image Box */}
                 <div className="lg:w-5/12 relative min-h-[300px] lg:min-h-[420px] overflow-hidden bg-stone-100">

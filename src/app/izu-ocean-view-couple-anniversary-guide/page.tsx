@@ -256,7 +256,7 @@ export default function IzuOceanViewCoupleAnniversaryGuidePage() {
             return (
               <article
                 key={hotel.hotelNo}
-                className="bg-white rounded-3xl overflow-hidden border border-cyan-200 shadow-lg hover:shadow-xl transition-all duration-300 flex flex-col md:flex-row group"
+                className="bg-white rounded-3xl overflow-hidden border border-cyan-200 shadow-lg hover:shadow-xl transition-all duration-300 flex flex-col group"
               >
                 {/* 画像エリア */}
                 <div className="md:w-5/12 relative min-h-[260px] md:min-h-[320px] bg-slate-100 overflow-hidden shrink-0">

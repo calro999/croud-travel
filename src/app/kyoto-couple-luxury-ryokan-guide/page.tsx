@@ -204,7 +204,7 @@ export default function KyotoCoupleLuxuryRyokanPage() {
 
         {/* 厳選！京都の高級旅館＆町家宿一覧 */}
         <section className="space-y-6">
-          <div className="flex flex-col md:flex-row md:items-end justify-between gap-2 border-b border-emerald-200 pb-3">
+          <div className="flex flex-col md:items-end justify-between gap-2 border-b border-emerald-200 pb-3">
             <div>
               <div className="flex items-center gap-2 text-emerald-700 font-bold text-xs uppercase tracking-wider">
                 <span>🏮 SELECTED KYOTO STAYS</span>

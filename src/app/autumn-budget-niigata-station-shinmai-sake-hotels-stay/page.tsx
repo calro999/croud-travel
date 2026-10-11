@@ -60,8 +60,8 @@ export default function AutumnBudgetNiigataStationHotelsPage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Bandaibashi-Bridge.JPG/1280px-Bandaibashi-Bridge.JPG"
                 alt="萬代橋の美しい石造り六連アーチ"
@@ -73,7 +73,7 @@ export default function AutumnBudgetNiigataStationHotelsPage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">大河・信濃川を渡る六連アーチの優美な石造橋</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
                 萬代橋（ばんだいばし）は、新潟市中央区の信濃川に架かる道路橋梁で、国の重要文化財に指定されています。1929年（昭和4年）に完成した現在の3代目橋は、御影石で化粧された美しい六連アーチが特徴。夕暮れどきに信濃川の水面が黄金色に染まる情景や、夜のライトアップ散策は新潟観光の象徴です。
@@ -100,8 +100,8 @@ export default function AutumnBudgetNiigataStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（超格安プライス）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/167086/167086.jpg"
                   alt="ホテルリブマックス新潟駅前"
@@ -110,7 +110,7 @@ export default function AutumnBudgetNiigataStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   ホテルリブマックス新潟駅前
                 </h3>
@@ -155,8 +155,8 @@ export default function AutumnBudgetNiigataStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（朝食無料高評価）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/73877/73877.jpg"
                   alt="コンフォートホテル新潟駅前"
@@ -165,7 +165,7 @@ export default function AutumnBudgetNiigataStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   コンフォートホテル新潟駅前
                 </h3>
@@ -210,8 +210,8 @@ export default function AutumnBudgetNiigataStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（駅直結＆広々客室）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/67938/67938.jpg"
                   alt="アートホテル新潟駅前"
@@ -220,7 +220,7 @@ export default function AutumnBudgetNiigataStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   アートホテル新潟駅前
                 </h3>
@@ -265,8 +265,8 @@ export default function AutumnBudgetNiigataStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（都市型リゾート大浴場）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/183212/183212.jpg"
                   alt="アパホテル＆リゾート〈新潟駅前大通〉"
@@ -275,7 +275,7 @@ export default function AutumnBudgetNiigataStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   アパホテル＆リゾート〈新潟駅前大通〉
                 </h3>
@@ -320,8 +320,8 @@ export default function AutumnBudgetNiigataStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（大浴場＆郷土料理朝食）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/1170/1170.jpg"
                   alt="新潟第一ホテル"
@@ -330,7 +330,7 @@ export default function AutumnBudgetNiigataStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   新潟第一ホテル
                 </h3>

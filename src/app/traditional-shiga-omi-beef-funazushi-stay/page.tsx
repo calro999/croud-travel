@@ -183,9 +183,9 @@ export default function FeaturePage() {
             {hotelList.map((hotel, index) => (
               <div 
                 key={index} 
-                className="bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-all duration-300 border border-stone-200/80 flex flex-col md:flex-row group"
+                className="bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-all duration-300 border border-stone-200/80 flex flex-col group"
               >
-                <div className="relative w-full md:w-2/5 h-64 md:h-auto min-h-[260px] overflow-hidden">
+                <div className="relative w-full aspect-[16/9] sm:aspect-[21/9] md:aspect-[2/1] overflow-hidden">
                   <Image 
                     src={hotel.img} 
                     alt={hotel.name}
@@ -198,7 +198,7 @@ export default function FeaturePage() {
                   </div>
                 </div>
 
-                <div className="p-6 md:p-8 md:w-3/5 flex flex-col justify-between space-y-6">
+                <div className="p-6 md:p-8 w-full flex flex-col justify-between space-y-6">
                   <div>
                     <div className="flex items-center gap-2 mb-2">
                       <div className="flex items-center text-amber-500">

@@ -151,8 +151,8 @@ export default function WinterFeaturePage() {
               </div>
               <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所解説</span>
             </div>
-            <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-              <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+            <div className="flex flex-col gap-6 p-6">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
                 <Image
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Jewelry-Ice.jpg/1280px-Jewelry-Ice.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="豊頃町・大津海岸のジュエリーアイス"
@@ -164,7 +164,7 @@ export default function WinterFeaturePage() {
                   <span className="text-[10px] text-white/90">写真出典: Wikimedia Commons</span>
                 </div>
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">豊頃町・大津海岸のジュエリーアイスの歴史と見どころ</h3>
                 <p className="text-xs md:text-sm text-stone-600 leading-relaxed">ジュエリーアイス (Jewelry Ice) は、北海道十勝管内の中川郡豊頃町にある大津海岸で冬季に見られる氷塊。透明度が高く、光を浴びると宝石（ジュエリー）のように輝いて見えることからこの名で呼ばれる。 見ごろの時期は、その年の天候によっても変化するが、おおむね1月中旬から2月下旬頃まで。最盛期には海岸を埋めつくすほどの氷塊が見られることもある。</p>
                 <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
@@ -220,9 +220,9 @@ export default function WinterFeaturePage() {
                   <span>北海道河東郡音更町十勝川温泉南12-1（アクセス：JR帯広駅より車で２０分。札幌より車で約3時間／札幌⇔[札幌北ＩＣ～音更帯広ＩＣ]⇔十勝川温泉）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100 border border-stone-100 shadow-sm">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-100 shadow-sm">
                       <Image
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/5818/5818.jpg"
                         alt="十勝川温泉　第一ホテル"
@@ -233,7 +233,7 @@ export default function WinterFeaturePage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-xs font-bold text-stone-500 uppercase tracking-wider mb-2">宿のハイライト・こだわり</h4>
                       <ul className="space-y-1.5 mb-4">
@@ -314,9 +314,9 @@ export default function WinterFeaturePage() {
                   <span>北海道河東郡音更町十勝川温泉南14-2（アクセス：【バス】JR帯広駅より30分（観月苑前下車）｜【お車】帯広駅より20分、音更帯広ICより20分、帯広空港より40分）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100 border border-stone-100 shadow-sm">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-100 shadow-sm">
                       <Image
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/19237/19237.jpg"
                         alt="十勝川温泉　観月苑"
@@ -327,7 +327,7 @@ export default function WinterFeaturePage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-xs font-bold text-stone-500 uppercase tracking-wider mb-2">宿のハイライト・こだわり</h4>
                       <ul className="space-y-1.5 mb-4">
@@ -408,9 +408,9 @@ export default function WinterFeaturePage() {
                   <span>北海道河東郡音更町十勝川温泉南15-1（アクセス：帯広駅より車で約２０分）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100 border border-stone-100 shadow-sm">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-100 shadow-sm">
                       <Image
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/54836/54836.jpg"
                         alt="十勝川温泉　ホテル大平原"
@@ -421,7 +421,7 @@ export default function WinterFeaturePage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-xs font-bold text-stone-500 uppercase tracking-wider mb-2">宿のハイライト・こだわり</h4>
                       <ul className="space-y-1.5 mb-4">
@@ -502,9 +502,9 @@ export default function WinterFeaturePage() {
                   <span>北海道帯広市西1条南11（アクセス：・ＪＲ帯広駅より徒歩３分　・帯広空港連絡バスあり　バス停ホテルの目の前）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100 border border-stone-100 shadow-sm">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-100 shadow-sm">
                       <Image
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/50753/50753.jpg"
                         alt="天然温泉　プレミアホテル―ＣＡＢＩＮ―帯広"
@@ -515,7 +515,7 @@ export default function WinterFeaturePage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-xs font-bold text-stone-500 uppercase tracking-wider mb-2">宿のハイライト・こだわり</h4>
                       <ul className="space-y-1.5 mb-4">
@@ -596,9 +596,9 @@ export default function WinterFeaturePage() {
                   <span>北海道河東郡音更町十勝川温泉北15-1（アクセス：ＪＲ帯広駅前バスターミナルからバスで25分／道東道帯広・音更ＩＣより車で15分／帯広空港より車で45分）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100 border border-stone-100 shadow-sm">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-100 shadow-sm">
                       <Image
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/30897/30897.jpg"
                         alt="十勝川温泉　笹井ホテル"
@@ -609,7 +609,7 @@ export default function WinterFeaturePage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-xs font-bold text-stone-500 uppercase tracking-wider mb-2">宿のハイライト・こだわり</h4>
                       <ul className="space-y-1.5 mb-4">

@@ -303,8 +303,8 @@ export default function Page() {
               </h2>
             </div>
 
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-              <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+            <div className="flex flex-col gap-6">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                 <img
                   src="https://upload.wikimedia.org/wikipedia/commons/3/37/Besshi_copper_mine.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
                   alt="東洋のマチュピチュ・別子銅山東平遺構（標高750mの産業遺産と霊峰石鎚山新春初詣）"
@@ -312,7 +312,7 @@ export default function Page() {
                   loading="lazy"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="font-bold text-stone-900 text-base">
                   【東洋のマチュピチュ・別子銅山東平遺構（標高750mの産業遺産と霊峰石鎚山新春初詣）の見どころと歴史】
                 </h3>
@@ -367,8 +367,8 @@ export default function Page() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/110/110.jpg"
                       alt="リーガロイヤルホテル新居浜"
@@ -376,7 +376,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                     <li key="0" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">JR新居浜駅より車で約5分！別子銅山やマインピア別子へのアクセス抜群のランドマーク</span></li>
                     <li key="1" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">広々としたエレガントな客室と充実のホテル設備でワンランク上の滞在をお届け</span></li>
@@ -433,8 +433,8 @@ export default function Page() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/28430/28430.jpg"
                       alt="ホテルルートイン新居浜"
@@ -442,7 +442,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                     <li key="0" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">松山自動車道・新居浜ICより車で約7分！車での別子銅山・マインピア別子観光に最適</span></li>
                     <li key="1" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">旅の疲れを心地よく癒やすラジウム人工温泉大浴場「旅人の湯」を男女別に完備</span></li>
@@ -499,8 +499,8 @@ export default function Page() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/56772/56772.jpg"
                       alt="休暇村　瀬戸内東予"
@@ -508,7 +508,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                     <li key="0" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">日本の渚百選・桜井海岸を眼下に見下ろす高台に建ち、全室オーシャンビューの絶景</span></li>
                     <li key="1" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">美肌の天然温泉「志河川温泉」を引き込んだ展望大浴場と潮風香る露天風呂</span></li>
@@ -565,8 +565,8 @@ export default function Page() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/145488/145488.jpg"
                       alt="源泉かけ流しの宿　湯之谷温泉"
@@ -574,7 +574,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                     <li key="0" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">弘法大師空海が開湯したと伝わる四国最古級の名湯！石鎚山登山口近くの静寂な山里</span></li>
                     <li key="1" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">加温加水なしの純粋な源泉かけ流し天然温泉！硫黄の香りと微細な湯の花が舞う極上の泉質</span></li>
@@ -631,8 +631,8 @@ export default function Page() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/68559/68559.jpg"
                       alt="天然温泉　伊予の湯　スーパーホテル新居浜"
@@ -640,7 +640,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                     <li key="0" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">新居浜市街の中心部に位置し、新居浜駅や繁華街へのアクセスに優れた好立地</span></li>
                     <li key="1" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">肌に優しい天然温泉「伊予の湯」大浴場を完備し、夜通し入浴可能でリフレッシュ</span></li>

@@ -153,16 +153,16 @@ export default function WinterFeaturePage() {
               <span className="text-[11px] text-stone-400">Wikipedia公式情報連携</span>
             </div>
 
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-              <div className="md:col-span-5 overflow-hidden rounded-xl border border-stone-200 bg-stone-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full overflow-hidden rounded-xl border border-stone-200 bg-stone-100 aspect-[16/9] sm:aspect-[21/9]">
                 <img
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A3%E8%8F%85%E6%B2%BC%E5%90%88%E6%8E%8C%E9%9B%86%E8%90%BD.jpg/1280px-%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A3%E8%8F%85%E6%B2%BC%E5%90%88%E6%8E%8C%E9%9B%86%E8%90%BD.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="世界遺産・五箇山合掌造り集落（相倉・菅沼）"
-                  className="w-full h-48 md:h-56 object-cover hover:scale-105 transition-transform duration-300"
+                  className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
                   loading="lazy"
                 />
               </div>
-              <div className="md:col-span-7 space-y-2">
+              <div className="w-full space-y-3">
                 <h3 className="font-bold text-stone-900 text-sm sm:text-base">
                   世界遺産・五箇山合掌造り集落（相倉・菅沼） の見どころと歴史
                 </h3>
@@ -191,7 +191,7 @@ export default function WinterFeaturePage() {
 
           {/* Hotel Card 1 */}
           <article className="bg-white rounded-2xl border border-stone-200 shadow-sm overflow-hidden hover:shadow-md transition-shadow">
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-0">
+            <div className="flex flex-col">
               <div className="md:col-span-5 relative min-h-[240px] md:min-h-full">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/14958/14958.jpg"
@@ -253,7 +253,7 @@ export default function WinterFeaturePage() {
 
           {/* Hotel Card 2 */}
           <article className="bg-white rounded-2xl border border-stone-200 shadow-sm overflow-hidden hover:shadow-md transition-shadow">
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-0">
+            <div className="flex flex-col">
               <div className="md:col-span-5 relative min-h-[240px] md:min-h-full">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/10937/10937.jpg"
@@ -319,7 +319,7 @@ export default function WinterFeaturePage() {
 
           {/* Hotel Card 3 */}
           <article className="bg-white rounded-2xl border border-stone-200 shadow-sm overflow-hidden hover:shadow-md transition-shadow">
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-0">
+            <div className="flex flex-col">
               <div className="md:col-span-5 relative min-h-[240px] md:min-h-full">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/50131/50131.jpg"
@@ -385,7 +385,7 @@ export default function WinterFeaturePage() {
 
           {/* Hotel Card 4 */}
           <article className="bg-white rounded-2xl border border-stone-200 shadow-sm overflow-hidden hover:shadow-md transition-shadow">
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-0">
+            <div className="flex flex-col">
               <div className="md:col-span-5 relative min-h-[240px] md:min-h-full">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/187181/187181.jpg"
@@ -451,7 +451,7 @@ export default function WinterFeaturePage() {
 
           {/* Hotel Card 5 */}
           <article className="bg-white rounded-2xl border border-stone-200 shadow-sm overflow-hidden hover:shadow-md transition-shadow">
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-0">
+            <div className="flex flex-col">
               <div className="md:col-span-5 relative min-h-[240px] md:min-h-full">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/31820/31820.jpg"

@@ -424,7 +424,7 @@ export default function AshinomakiOnsenWinterFeature() {
             {hotels.map((h) => (
               <div 
                 key={h.id}
-                className="bg-white rounded-3xl overflow-hidden shadow-sm border border-slate-200/80 hover:shadow-md transition duration-300 flex flex-col md:flex-row"
+                className="bg-white rounded-3xl overflow-hidden shadow-sm border border-slate-200/80 hover:shadow-md transition duration-300 flex flex-col"
               >
                 <div className="relative w-full md:w-2/5 h-64 md:h-auto min-h-[260px] bg-slate-100 flex-shrink-0">
                   <Image

@@ -281,9 +281,9 @@ export default function GotembaTokinosumikaPage() {
                   <span>静岡県御殿場市神山719（ＪＲ御殿場線岩波駅から車で５分／新幹線三島駅より車で３5分◇三島駅⇔時之栖シャトルバス／御殿場駅⇔時之栖無料シャトルバス）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                       <img 
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/67487/67487.jpg" 
                         alt="御殿場高原　時之栖(ときのすみか) 外観・客室イメージ" 
@@ -293,7 +293,7 @@ export default function GotembaTokinosumikaPage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
                         <CheckCircle2 className="w-4 h-4 text-amber-600" />
@@ -368,9 +368,9 @@ export default function GotembaTokinosumikaPage() {
                   <span>静岡県御殿場市東田中1089（◇東名御殿場ICから徒歩5分◇ＪＲ御殿場駅から車で5分■東京国際空港から当館最寄りの御殿場ICまで高速バスで120分）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                       <img 
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/128483/128483.jpg" 
                         alt="ホテルリゾート&amp;レストラン　マースガーデンウッド御殿場 外観・客室イメージ" 
@@ -380,7 +380,7 @@ export default function GotembaTokinosumikaPage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
                         <CheckCircle2 className="w-4 h-4 text-amber-600" />
@@ -455,9 +455,9 @@ export default function GotembaTokinosumikaPage() {
                   <span>静岡県御殿場市深沢2571（御殿場駅より小田急箱根高速バス又はお車にて１０分）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                       <img 
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/106186/106186.jpg" 
                         alt="レンブラントプレミアム富士御殿場 外観・客室イメージ" 
@@ -467,7 +467,7 @@ export default function GotembaTokinosumikaPage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
                         <CheckCircle2 className="w-4 h-4 text-amber-600" />
@@ -542,9 +542,9 @@ export default function GotembaTokinosumikaPage() {
                   <span>静岡県御殿場市東田中1505-3（東名高速道路　御殿場ICから車で3分）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                       <img 
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/182462/182462.jpg" 
                         alt="天然温泉　富士桜の湯　ドーミーインＥＸＰＲＥＳＳ富士山御殿場（ドーミーイン・御宿野乃グループ） 外観・客室イメージ" 
@@ -554,7 +554,7 @@ export default function GotembaTokinosumikaPage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
                         <CheckCircle2 className="w-4 h-4 text-amber-600" />
@@ -629,9 +629,9 @@ export default function GotembaTokinosumikaPage() {
                   <span>静岡県御殿場市深沢2839-1（東名高速道路「御殿場IC」から約2km。）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                       <img 
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/176577/176577.jpg" 
                         alt="ＨＯＴＥＬ　ＣＬＡＤ 外観・客室イメージ" 
@@ -641,7 +641,7 @@ export default function GotembaTokinosumikaPage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
                         <CheckCircle2 className="w-4 h-4 text-amber-600" />

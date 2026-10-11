@@ -72,7 +72,7 @@ export default function KusatsuBudgetGuidePage() {
         <h2 className="text-2xl font-black font-journal-serif text-slate-900 mb-6 text-center">
           📊 1泊2日 草津温泉の予算別シミュレーション
         </h2>
-        <div className="flex flex-col md:flex-row gap-6">
+        <div className="flex flex-col gap-6">
           <div className="flex-1 bg-white border border-slate-200 rounded-3xl p-6 shadow-sm hover:shadow-md transition">
             <h3 className="text-center font-bold text-slate-500 mb-2">バス利用・最安プラン</h3>
             <div className="text-center text-3xl font-black text-slate-800 mb-4">¥22,000<span className="text-base font-normal">〜</span></div>

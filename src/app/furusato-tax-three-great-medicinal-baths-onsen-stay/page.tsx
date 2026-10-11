@@ -146,7 +146,7 @@ export default function FurusatoFeaturePage() {
                 key="31675"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/31675/31675.jpg"
                     alt="草津温泉　中村屋旅館＜群馬県＞"
@@ -192,7 +192,7 @@ export default function FurusatoFeaturePage() {
                 key="136294"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/136294/136294.jpg"
                     alt="草津温泉　松坂屋旅館＜群馬県＞"
@@ -238,7 +238,7 @@ export default function FurusatoFeaturePage() {
                 key="108634"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/108634/108634.jpg"
                     alt="草津温泉　源泉かけ流しの宿　ひのき亭　牧水"
@@ -299,7 +299,7 @@ export default function FurusatoFeaturePage() {
                 key="1206"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/1206/1206.jpg"
                     alt="神戸牛と有馬温泉　天然金泉・銀泉の宿　有馬御苑"
@@ -345,7 +345,7 @@ export default function FurusatoFeaturePage() {
                 key="111249"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/111249/111249.jpg"
                     alt="有馬温泉　四季の彩　旅篭　客前料理と全室金泉露天付の湯籠り宿"
@@ -391,7 +391,7 @@ export default function FurusatoFeaturePage() {
                 key="80573"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/80573/80573.jpg"
                     alt="神戸有馬温泉　元湯龍泉閣～赤ちゃんも楽しめるお部屋食の宿～"
@@ -452,7 +452,7 @@ export default function FurusatoFeaturePage() {
                 key="153680"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/153680/153680.jpg"
                     alt="松之山温泉　和泉屋　＜新潟県＞"
@@ -498,7 +498,7 @@ export default function FurusatoFeaturePage() {
                 key="108273"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/108273/108273.jpg"
                     alt="越後松之山温泉　凌雲閣"
@@ -544,7 +544,7 @@ export default function FurusatoFeaturePage() {
                 key="31236"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/31236/31236.jpg"
                     alt="松之山温泉　酒の宿　玉城屋"

@@ -228,7 +228,7 @@ export default function KantoBabyFriendlyOnsenGuidePage() {
           {babyBathCriteria.map((item, idx) => (
             <div
               key={idx}
-              className="flex flex-col md:flex-row md:items-center justify-between gap-4 p-5 rounded-2xl bg-gradient-to-r from-rose-50/50 to-pink-50/30 border border-rose-100 hover:border-rose-300 transition"
+              className="flex flex-col md:items-center justify-between gap-4 p-5 rounded-2xl bg-gradient-to-r from-rose-50/50 to-pink-50/30 border border-rose-100 hover:border-rose-300 transition"
             >
               <div className="flex items-start gap-4">
                 <span className="text-2xl font-black font-journal-serif text-rose-400">

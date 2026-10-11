@@ -282,9 +282,9 @@ export default function MonbetsuDriftIcePage() {
                   <span>北海道紋別市幸町5-1-35（JR石北線遠軽駅より車で45分/オホーツク紋別空港より車で10分/旭川紋別自動車道・浮島ＩＣ→国道273号線約80分）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                       <img 
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/14610/14610.jpg" 
                         alt="ホテルオホーツクパレス 外観・客室イメージ" 
@@ -294,7 +294,7 @@ export default function MonbetsuDriftIcePage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
                         <CheckCircle2 className="w-4 h-4 text-sky-600" />
@@ -369,9 +369,9 @@ export default function MonbetsuDriftIcePage() {
                   <span>北海道紋別市港町7丁目1-58（オホーツク紋別空港から車で約10分。旭川紋別自動車道・丸瀬布（まるせっぷ）ＩＣから約60分。）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                       <img 
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/863/863.jpg" 
                         alt="紋別セントラルホテル 外観・客室イメージ" 
@@ -381,7 +381,7 @@ export default function MonbetsuDriftIcePage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
                         <CheckCircle2 className="w-4 h-4 text-sky-600" />
@@ -456,9 +456,9 @@ export default function MonbetsuDriftIcePage() {
                   <span>北海道網走市呼人159（ＪＲ　呼人駅から徒歩１０分　◆JR呼人駅から無料送迎あり（前日20時までの予約制）詳しくはお問合せください。）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                       <img 
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/68067/68067.jpg" 
                         alt="北天の丘あばしり湖鶴雅リゾート 外観・客室イメージ" 
@@ -468,7 +468,7 @@ export default function MonbetsuDriftIcePage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
                         <CheckCircle2 className="w-4 h-4 text-sky-600" />
@@ -543,9 +543,9 @@ export default function MonbetsuDriftIcePage() {
                   <span>北海道網走市呼人23（ＪＲ網走駅よりタクシーで約8分　　女満別空港から航空機の発着に合わせて運行する連絡バス乗車、網走観光ホテル前下車徒歩6分）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                       <img 
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/31670/31670.jpg" 
                         alt="天都の宿　網走観光ホテル（BBHホテルグループ） 外観・客室イメージ" 
@@ -555,7 +555,7 @@ export default function MonbetsuDriftIcePage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
                         <CheckCircle2 className="w-4 h-4 text-sky-600" />
@@ -630,9 +630,9 @@ export default function MonbetsuDriftIcePage() {
                   <span>北海道網走市新町1-2-13（ＪＲ網走駅より徒歩１分／女満別空港より網走まで車で２０分）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                       <img 
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/32093/32093.jpg" 
                         alt="ホテルルートイン網走駅前 外観・客室イメージ" 
@@ -642,7 +642,7 @@ export default function MonbetsuDriftIcePage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
                         <CheckCircle2 className="w-4 h-4 text-sky-600" />

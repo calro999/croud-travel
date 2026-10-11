@@ -192,7 +192,7 @@ export default function FurusatoUpgradedPage() {
               </div>
 
               <div className="rounded-3xl bg-stone-950/80 border border-stone-800 overflow-hidden shadow-2xl">
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-0">
+                <div className="flex flex-col">
                   <div className="md:col-span-5 relative min-h-[300px] md:min-h-full bg-stone-900">
                     <Image
                       src={h.hotelImageUrl}

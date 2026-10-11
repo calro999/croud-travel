@@ -443,7 +443,7 @@ export default function HiroshimaTomonouraWinterPage() {
 
                   {/* Image & Description Grid */}
                   <div className="grid grid-cols-1 md:grid-cols-12 gap-6">
-                    <div className="md:col-span-5 relative h-56 md:h-auto min-h-[220px] rounded-2xl overflow-hidden bg-stone-100">
+                    <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                       <img 
                         src={hotel.img} 
                         alt={hotel.name}
@@ -451,7 +451,7 @@ export default function HiroshimaTomonouraWinterPage() {
                         loading="lazy"
                       />
                     </div>
-                    <div className="md:col-span-7 space-y-4">
+                    <div className="w-full space-y-4">
                       <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                         {hotel.story}
                       </p>

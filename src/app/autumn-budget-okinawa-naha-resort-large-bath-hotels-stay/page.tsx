@@ -68,8 +68,8 @@ export default function OkinawaBudgetAutumnPage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Naha_Okinawa_Japan_Shuri-Castle-01.jpg/1280px-Naha_Okinawa_Japan_Shuri-Castle-01.jpg"
                 alt="琉球王国の栄華・世界遺産 首里城公園"
@@ -81,7 +81,7 @@ export default function OkinawaBudgetAutumnPage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">琉球王国の栄華・世界遺産 首里城公園の歴史と見どころ</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">首里城（しゅりじょう、沖縄語: すいぐしく）は、琉球王国中山首里（現在の沖縄県那覇市）にあったグスク（御城）の城趾。第一尚氏から第二尚氏に続く尚氏王統の居城跡である。 首里城公園として整備されており、首里城公園は城郭に囲まれた国営沖縄記念公園首里城地区（国立公園区域）と城郭周辺の県営首里城公園（県営公園区域）で構成される。2000年（平成12年）には、首里城公園内の首里城跡、園比屋武御嶽石門、玉陵が「琉球王国のグスク及び関連遺産群」の一つとして世界遺産に登録された。  第二次世界大戦中に焼失後、1992年に柱・壁・瓦など朱色を基調として再建された。しかし、2019年（令和元年）10月31日に正殿など主要7棟が火災で焼失し、その後復旧作業が進められている。2026年（令和8年）秋に正殿の木造復元が完成する。その後、南殿、北殿、黄金御殿、二階御殿、番所、中城御殿などの木造復元をする予定である。</p>
               <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
@@ -100,7 +100,7 @@ export default function OkinawaBudgetAutumnPage() {
 
           <div className="space-y-8">
 
-            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col md:flex-row hover:shadow-md transition">
+            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col hover:shadow-md transition">
               <div className="md:w-5/12 relative h-56 md:h-auto min-h-[220px]">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/166949/166949.jpg"
@@ -147,7 +147,7 @@ export default function OkinawaBudgetAutumnPage() {
               </div>
             </div>
 
-            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col md:flex-row hover:shadow-md transition">
+            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col hover:shadow-md transition">
               <div className="md:w-5/12 relative h-56 md:h-auto min-h-[220px]">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/172254/172254.jpg"
@@ -194,7 +194,7 @@ export default function OkinawaBudgetAutumnPage() {
               </div>
             </div>
 
-            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col md:flex-row hover:shadow-md transition">
+            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col hover:shadow-md transition">
               <div className="md:w-5/12 relative h-56 md:h-auto min-h-[220px]">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/128440/128440.jpg"
@@ -241,7 +241,7 @@ export default function OkinawaBudgetAutumnPage() {
               </div>
             </div>
 
-            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col md:flex-row hover:shadow-md transition">
+            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col hover:shadow-md transition">
               <div className="md:w-5/12 relative h-56 md:h-auto min-h-[220px]">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/182884/182884.jpg"
@@ -287,7 +287,7 @@ export default function OkinawaBudgetAutumnPage() {
               </div>
             </div>
 
-            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col md:flex-row hover:shadow-md transition">
+            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col hover:shadow-md transition">
               <div className="md:w-5/12 relative h-56 md:h-auto min-h-[220px]">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/56974/56974.jpg"

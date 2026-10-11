@@ -60,8 +60,8 @@ export default function AutumnBudgetKagoshimaStationHotelsPage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Isoteien-sakurajima2.jpg/1280px-Isoteien-sakurajima2.jpg"
                 alt="仙巌園から望む雄大な桜島"
@@ -73,7 +73,7 @@ export default function AutumnBudgetKagoshimaStationHotelsPage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">錦江湾を池に、桜島を築山に見立てた壮大な借景庭園</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
                 仙巌園（せんがんえん）は、薩摩藩主・島津氏の別邸として万治年間に築かれた大名庭園（国の名勝）。錦江湾を池に見立て、対岸にそびえる雄大な桜島を築山として借景にしたダイナミックな景観は圧巻。世界文化遺産「明治日本の産業革命遺産」の構成資産でもあり、秋には菊花展や紅葉の彩りが楽しめます。
@@ -100,8 +100,8 @@ export default function AutumnBudgetKagoshimaStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（超格安＆高評価）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/189101/189101.jpg"
                   alt="HOTEL NOIR 鹿児島中央駅"
@@ -110,7 +110,7 @@ export default function AutumnBudgetKagoshimaStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   ＨＯＴＥＬ　ＮＯＩＲ（ホテルノイル）鹿児島中央駅
                 </h3>
@@ -155,8 +155,8 @@ export default function AutumnBudgetKagoshimaStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（クチコミ高評価）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/172024/172024.jpg"
                   alt="ネム〜ル 鹿児島中央駅"
@@ -165,7 +165,7 @@ export default function AutumnBudgetKagoshimaStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   ネム～ル　鹿児島中央駅
                 </h3>
@@ -210,8 +210,8 @@ export default function AutumnBudgetKagoshimaStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（アンティーク調空間）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/44873/44873.jpg"
                   alt="ホテル ガストフ"
@@ -220,7 +220,7 @@ export default function AutumnBudgetKagoshimaStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   ホテル　ガストフ
                 </h3>
@@ -265,8 +265,8 @@ export default function AutumnBudgetKagoshimaStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（駅近＆朝食無料）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/108387/108387.jpg"
                   alt="東横ＩＮＮ鹿児島中央駅西口"
@@ -275,7 +275,7 @@ export default function AutumnBudgetKagoshimaStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   東横ＩＮＮ鹿児島中央駅西口
                 </h3>
@@ -320,8 +320,8 @@ export default function AutumnBudgetKagoshimaStationHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（源泉かけ流し温泉）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/8940/8940.jpg"
                   alt="天然温泉かけ流し 絹肌の湯 シルクイン鹿児島"
@@ -330,7 +330,7 @@ export default function AutumnBudgetKagoshimaStationHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   天然温泉かけ流し　絹肌の湯　シルクイン鹿児島
                 </h3>

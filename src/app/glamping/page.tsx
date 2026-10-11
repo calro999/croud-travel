@@ -130,7 +130,7 @@ export default function GlampingHubPage() {
 
       {/* 楽天トラベル クーポン還元訴求バナー */}
       <div className="max-w-5xl mx-auto px-4 -mt-5 relative z-20">
-        <div className="bg-gradient-to-r from-amber-600 to-orange-600 rounded-2xl p-4 md:p-5 shadow-lg text-white flex flex-col md:flex-row items-center justify-between gap-4">
+        <div className="bg-gradient-to-r from-amber-600 to-orange-600 rounded-2xl p-4 md:p-5 shadow-lg text-white flex flex-col items-center justify-between gap-4">
           <div className="flex items-center gap-3">
             <span className="text-2xl md:text-3xl">🏷️</span>
             <div>
@@ -625,7 +625,7 @@ export default function GlampingHubPage() {
         {/* 全国の人気グランピング施設ピックアップ */}
         {hotels.length > 0 && (
           <section className="bg-white rounded-3xl p-6 md:p-8 shadow-sm border border-slate-200">
-            <div className="flex flex-col md:flex-row md:items-center justify-between gap-3 mb-6">
+            <div className="flex flex-col md:items-center justify-between gap-3 mb-6">
               <div>
                 <span className="text-emerald-700 font-bold text-xs uppercase tracking-wider">Rakuten Travel Data</span>
                 <h2 className="font-journal-serif text-xl md:text-2xl font-bold text-slate-900 mt-0.5">

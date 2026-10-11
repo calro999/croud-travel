@@ -303,8 +303,8 @@ export default function Page() {
               </h2>
             </div>
 
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-              <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+            <div className="flex flex-col gap-6">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                 <img
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Sangui_%28Triangle_Rock%29_of_Sefa-Utaki.jpg/1280px-Sangui_%28Triangle_Rock%29_of_Sefa-Utaki.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="世界遺産・斎場御嶽（琉球王国最高の聖地・新春開運祈願と知念岬初日の出）"
@@ -312,7 +312,7 @@ export default function Page() {
                   loading="lazy"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="font-bold text-stone-900 text-base">
                   【世界遺産・斎場御嶽（琉球王国最高の聖地・新春開運祈願と知念岬初日の出）の見どころと歴史】
                 </h3>
@@ -367,8 +367,8 @@ export default function Page() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/187553/187553.jpg"
                       alt="百名伽藍"
@@ -376,7 +376,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                     <li key="0" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">赤瓦と琉球石灰岩が織りなす回廊建築！全室から神秘の美ら海を一望する圧倒的プライベート空間</span></li>
                     <li key="1" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">客室ごとに趣の異なる専用方丈庵（展望露天風呂）を完備し、波の音を聴きながら湯浴みを満喫</span></li>
@@ -433,8 +433,8 @@ export default function Page() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/74545/74545.jpg"
                       alt="ウェルネスリゾート沖縄　ユインチホテル南城"
@@ -442,7 +442,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                     <li key="0" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">標高約150mの高台に建ち、眼下にコバルトブルーの太平洋と知念半島を望む絶景パノラマ</span></li>
                     <li key="1" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">約500万年前の地層から湧き出る天然温泉「さしきの猿人の湯」！眺望と美肌効果を誇る名湯</span></li>
@@ -499,8 +499,8 @@ export default function Page() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/139989/139989.jpg"
                       alt="琉球温泉　瀬長島ホテル"
@@ -508,7 +508,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                     <li key="0" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">西海岸の海と慶良間諸島、那覇空港の滑走路を行き交う飛行機を一望する特等席のロケーション</span></li>
                     <li key="1" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">地下1000mから湧く「龍神の湯」！立ち湯露天風呂から眺める夕陽と冬の澄んだ夜空は圧巻</span></li>
@@ -565,8 +565,8 @@ export default function Page() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/76401/76401.jpg"
                       alt="サザンビーチホテル&amp;リゾート沖縄"
@@ -574,7 +574,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                     <li key="0" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">目の前に広がる白い砂浜と美々ビーチ！開放感あふれるモダンな客室から望む雄大な海景色</span></li>
                     <li key="1" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">冬期も快適に利用できる屋内温水プールやサウナを完備し、ファミリーやカップルに最適</span></li>
@@ -631,8 +631,8 @@ export default function Page() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/75371/75371.jpg"
                       alt="ホテルグランビューガーデン沖縄"
@@ -640,7 +640,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                     <li key="0" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">那覇空港から車で約15分！大型アウトレットモールあしびなーや大型商業施設へ徒歩圏内</span></li>
                     <li key="1" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">サウナ付きの展望大浴場を完備し、冬の散策で疲れた身体をゆったりとリフレッシュ</span></li>

@@ -264,8 +264,8 @@ export default function FeaturePage() {
                 近隣の必見名所：薩摩の小京都・知覧武家屋敷庭園（国の名勝・生垣と枯山水美・開聞岳パノラマ）
               </h2>
             </div>
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-              <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3] bg-stone-100">
+            <div className="flex flex-col gap-6">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                 <img
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Chiran_Fumoto_01.JPG/1280px-Chiran_Fumoto_01.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="武家屋敷通り (南九州市)"
@@ -273,7 +273,7 @@ export default function FeaturePage() {
                   loading="lazy"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="font-bold text-stone-900 text-lg">
                   武家屋敷通り (南九州市)
                 </h3>
@@ -336,8 +336,8 @@ export default function FeaturePage() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/50792/50792.jpg"
                       alt="空と海を臨む宿　Ocean　Hotel　Iwato（旧：枕崎観光ホテル　岩戸）"
@@ -345,7 +345,7 @@ export default function FeaturePage() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>全室から東シナ海と立神岩の奇勝を一望するパノラマオーシャンビュー</span></li>
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>夕食には本場枕崎の一本釣り鰹の藁焼きタタキや地魚刺身・黒豚会席を堪能</span></li>
@@ -411,8 +411,8 @@ export default function FeaturePage() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/12529/12529.jpg"
                       alt="鹿児島　砂むし温泉　指宿白水館"
@@ -420,7 +420,7 @@ export default function FeaturePage() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>敷地内に広大な日本庭園と薩摩の歴史を伝える薩摩伝承館を併設した格式ある名宿</span></li>
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>江戸の銭湯や浮世絵を再現した千坪の「元禄風呂」と館内併設の本格「砂むし温泉」</span></li>
@@ -486,8 +486,8 @@ export default function FeaturePage() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/49347/49347.jpg"
                       alt="指宿温泉　夫婦露天風呂の宿　吟松（ぎんしょう）"
@@ -495,7 +495,7 @@ export default function FeaturePage() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>目の前が錦江湾の砂浜！全室に源泉かけ流しの客室専用露天風呂を完備</span></li>
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>宿の名物「砂浜露天風呂」や海と一体化するインフィニティ展望露天風呂</span></li>
@@ -561,8 +561,8 @@ export default function FeaturePage() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/8580/8580.jpg"
                       alt="指宿温泉　休暇村　指宿"
@@ -570,7 +570,7 @@ export default function FeaturePage() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>錦江湾に面した開放的なリゾートロケーションと美しく手入れされた椰子の庭園</span></li>
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>宿専用の砂むし温泉と、潮風が吹き抜ける源泉かけ流しの半露天大浴場</span></li>
@@ -636,8 +636,8 @@ export default function FeaturePage() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/198633/198633.jpg"
                       alt="吹上砂丘荘"
@@ -645,7 +645,7 @@ export default function FeaturePage() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>白砂青松が続く吹上浜に隣接！松林の澄んだ空気と静寂に包まれる隠れ家ロケーション</span></li>
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>身体の芯から温まる美肌の天然温泉大浴場とサウナで日頃の疲労を爽快にリセット</span></li>

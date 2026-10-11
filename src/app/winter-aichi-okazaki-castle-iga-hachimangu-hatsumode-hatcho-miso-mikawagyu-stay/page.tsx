@@ -310,8 +310,8 @@ export default function Page() {
               </span>
             </div>
 
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-5 items-center">
-              <div className="md:col-span-5 relative h-48 sm:h-56 rounded-xl overflow-hidden bg-stone-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Igahachimangu.jpg/1280px-Igahachimangu.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="国指定重要文化財・伊賀八幡宮（徳川将軍家祈願所・家康公武運長久の聖地新春初詣）"
@@ -319,7 +319,7 @@ export default function Page() {
                   loading="lazy"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="font-bold text-stone-900 text-sm sm:text-base">
                   【国指定重要文化財・伊賀八幡宮（徳川将軍家祈願所・家康公武運長久の聖地新春初詣）の見どころと歴史】
                 </h3>
@@ -373,8 +373,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/1192/1192.jpg"
                       alt="岡崎ニューグランドホテル"
@@ -382,7 +382,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       岡崎城址公園に隣接し、清流・乙川を見下ろす好立地に佇む岡崎を代表する格式あるシティホテル。客室や最上階の大浴場からは、冬の空にそびえ立つ岡崎城天守を間近に眺めることができ、城下町の歴史に浸る滞在が叶います。館内レストランでは八丁味噌を使った伝統の創作料理やブランド三河牛のステーキを提供。伊賀八幡宮や八丁味噌蔵巡りの観光拠点として最高の利便性と快適さを誇ります。
                     </p>
@@ -440,8 +440,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/70325/70325.jpg"
                       alt="ＡＢホテル岡崎"
@@ -449,7 +449,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       JR岡崎駅西口のすぐそばに位置し、電車でも車でもアクセス抜群のスタイリッシュなホテル。館内には足を伸ばしてゆったりと浸かれる天然温泉大浴場を備え、冬の観光で冷えた身体を心地よく温めてくれます。全室に加湿空気清浄機や無料Wi-Fi、快眠ベッドを完備。無料の和洋バイキング朝食も充実しており、コストパフォーマンスと快適性を兼ね備えた人気宿です。
                     </p>
@@ -507,8 +507,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/182194/182194.jpg"
                       alt="ホテルリブマックス岡崎"
@@ -516,7 +516,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       名鉄東岡崎駅エリアに位置し、岡崎城や八丁味噌蔵通りへの歴史散歩に最適なビジネスホテル。全室に快適なシモンズ製ベッドや電子レンジ、Wi-Fiを備え、シンプルながら使い勝手の良い客室空間が魅力です。ホテルの周辺には八丁味噌煮込みうどんの老舗や居酒屋が多く、夜の城下町グルメを自由に開拓したいアクティブな旅行者にぴったりです。
                     </p>
@@ -574,8 +574,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/31249/31249.jpg"
                       alt="蒲郡温泉　銀河伝説煌めく天空の宿　天の丸"
@@ -583,7 +583,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       岡崎と蒲郡の境界にそびえる遠望峰山（とぼねやま）の山頂近くに建つ、絶景自慢の本格温泉ホテル。眼下には冬の澄んだ空気の中に広がる三河湾の海原と街の煌めく夜景が広がり、まさに天空の城にいるかのような非日常感を味わえます。天然温泉の露天風呂からは満天の星を仰ぎながらの湯浴みが楽しめ、夕食には三河牛や近海魚介の会席を堪能。岡崎散策の後に優雅な夜を過ごすのに最適です。
                     </p>
@@ -641,8 +641,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/68493/68493.jpg"
                       alt="ＡＢホテル　三河安城　南館"
@@ -650,7 +650,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       東海道新幹線の停車駅である三河安城駅の南口ロータリーすぐそばに位置し、遠方からのアクセスに圧倒的な強みを持つホテル。岡崎駅へもJR在来線で約10分と非常にスムーズです。館内には旅の疲れを癒やす清潔な大浴場を備え、機能的な客室と無料の朝食サービスで快適な滞在を提供。新幹線を利用して西三河・岡崎の冬旅を楽しむ方に強くおすすめできる一軒です。
                     </p>

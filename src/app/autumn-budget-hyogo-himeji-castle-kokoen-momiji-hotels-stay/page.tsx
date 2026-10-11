@@ -60,8 +60,8 @@ export default function AutumnBudgetHimejiHotelsPage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Himeji_castle_in_may_2015.jpg/1280px-Himeji_castle_in_may_2015.jpg"
                 alt="世界遺産・白鷺城こと姫路城と好古園紅葉"
@@ -73,7 +73,7 @@ export default function AutumnBudgetHimejiHotelsPage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">世界遺産・白鷺城こと姫路城と好古園紅葉の歴史と見どころ</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">姫路城（ひめじじょう）は、兵庫県姫路市にある日本の城。江戸時代初期に建てられた天守や櫓等の主要建築物が現存し、国宝や重要文化財に指定されている。また、主郭部を含む中堀の内側は「姫路城跡」として国の特別史跡に指定されている。また、ユネスコの世界遺産（文化遺産）リストにも登録され、日本100名城などに選定されている。別名は白鷺城（はくろじょう・しらさぎじょう。詳細は名称の由来と別名を参照）。</p>
               <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">

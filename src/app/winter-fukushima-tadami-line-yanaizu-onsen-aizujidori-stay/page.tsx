@@ -275,16 +275,16 @@ export default function FeaturePage() {
               <span className="text-[11px] text-stone-400">Wikipedia公式情報連携</span>
             </div>
 
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-              <div className="md:col-span-5 overflow-hidden rounded-xl border border-stone-200 bg-stone-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full overflow-hidden rounded-xl border border-stone-200 bg-stone-100 aspect-[16/9] sm:aspect-[21/9]">
                 <img
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/%E5%9C%93%E8%94%B5%E5%AF%BA_-_panoramio_%282%29.jpg/1280px-%E5%9C%93%E8%94%B5%E5%AF%BA_-_panoramio_%282%29.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="霊場・福満虚空藏菩薩圓蔵寺（赤べこ発祥と冬の只見川絶景）"
-                  className="w-full h-48 md:h-56 object-cover hover:scale-105 transition-transform duration-300"
+                  className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
                   loading="lazy"
                 />
               </div>
-              <div className="md:col-span-7 space-y-2">
+              <div className="w-full space-y-3">
                 <h3 className="font-bold text-stone-900 text-sm sm:text-base">
                   霊場・福満虚空藏菩薩圓蔵寺（赤べこ発祥と冬の只見川絶景） の見どころと歴史
                 </h3>
@@ -313,8 +313,8 @@ export default function FeaturePage() {
 
 
             <div className="bg-white rounded-2xl border border-stone-200 overflow-hidden shadow-sm hover:shadow-md transition-shadow">
-              <div className="grid grid-cols-1 md:grid-cols-12 gap-0">
-                <div className="md:col-span-5 relative min-h-[220px] md:min-h-[280px]">
+              <div className="flex flex-col">
+                <div className="relative w-full aspect-[16/9] sm:aspect-[21/9] md:aspect-[2/1] overflow-hidden bg-stone-100">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/10686/10686.jpg"
                     alt="会津柳津温泉　瀞流の宿　かわち"
@@ -325,7 +325,7 @@ export default function FeaturePage() {
                     第1位
                   </div>
                 </div>
-                <div className="md:col-span-7 p-5 md:p-6 flex flex-col justify-between space-y-4">
+                <div className="p-5 sm:p-7 md:p-8 flex flex-col justify-between space-y-5">
                   <div className="space-y-2">
                     <div className="flex items-center justify-between gap-2">
                       <span className="text-[11px] font-bold text-cyan-800 bg-cyan-50 px-2 py-0.5 rounded border border-cyan-100">
@@ -375,8 +375,8 @@ export default function FeaturePage() {
             
 
             <div className="bg-white rounded-2xl border border-stone-200 overflow-hidden shadow-sm hover:shadow-md transition-shadow">
-              <div className="grid grid-cols-1 md:grid-cols-12 gap-0">
-                <div className="md:col-span-5 relative min-h-[220px] md:min-h-[280px]">
+              <div className="flex flex-col">
+                <div className="relative w-full aspect-[16/9] sm:aspect-[21/9] md:aspect-[2/1] overflow-hidden bg-stone-100">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/43798/43798.jpg"
                     alt="柳津温泉　つきみが丘町民センター"
@@ -387,7 +387,7 @@ export default function FeaturePage() {
                     第2位
                   </div>
                 </div>
-                <div className="md:col-span-7 p-5 md:p-6 flex flex-col justify-between space-y-4">
+                <div className="p-5 sm:p-7 md:p-8 flex flex-col justify-between space-y-5">
                   <div className="space-y-2">
                     <div className="flex items-center justify-between gap-2">
                       <span className="text-[11px] font-bold text-cyan-800 bg-cyan-50 px-2 py-0.5 rounded border border-cyan-100">
@@ -437,8 +437,8 @@ export default function FeaturePage() {
             
 
             <div className="bg-white rounded-2xl border border-stone-200 overflow-hidden shadow-sm hover:shadow-md transition-shadow">
-              <div className="grid grid-cols-1 md:grid-cols-12 gap-0">
-                <div className="md:col-span-5 relative min-h-[220px] md:min-h-[280px]">
+              <div className="flex flex-col">
+                <div className="relative w-full aspect-[16/9] sm:aspect-[21/9] md:aspect-[2/1] overflow-hidden bg-stone-100">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/182836/182836.jpg"
                     alt="宮下温泉　ふるさと荘"
@@ -449,7 +449,7 @@ export default function FeaturePage() {
                     第3位
                   </div>
                 </div>
-                <div className="md:col-span-7 p-5 md:p-6 flex flex-col justify-between space-y-4">
+                <div className="p-5 sm:p-7 md:p-8 flex flex-col justify-between space-y-5">
                   <div className="space-y-2">
                     <div className="flex items-center justify-between gap-2">
                       <span className="text-[11px] font-bold text-cyan-800 bg-cyan-50 px-2 py-0.5 rounded border border-cyan-100">
@@ -499,8 +499,8 @@ export default function FeaturePage() {
             
 
             <div className="bg-white rounded-2xl border border-stone-200 overflow-hidden shadow-sm hover:shadow-md transition-shadow">
-              <div className="grid grid-cols-1 md:grid-cols-12 gap-0">
-                <div className="md:col-span-5 relative min-h-[220px] md:min-h-[280px]">
+              <div className="flex flex-col">
+                <div className="relative w-full aspect-[16/9] sm:aspect-[21/9] md:aspect-[2/1] overflow-hidden bg-stone-100">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/14215/14215.jpg"
                     alt="柳津温泉　旅館　内田屋"
@@ -511,7 +511,7 @@ export default function FeaturePage() {
                     第4位
                   </div>
                 </div>
-                <div className="md:col-span-7 p-5 md:p-6 flex flex-col justify-between space-y-4">
+                <div className="p-5 sm:p-7 md:p-8 flex flex-col justify-between space-y-5">
                   <div className="space-y-2">
                     <div className="flex items-center justify-between gap-2">
                       <span className="text-[11px] font-bold text-cyan-800 bg-cyan-50 px-2 py-0.5 rounded border border-cyan-100">
@@ -561,8 +561,8 @@ export default function FeaturePage() {
             
 
             <div className="bg-white rounded-2xl border border-stone-200 overflow-hidden shadow-sm hover:shadow-md transition-shadow">
-              <div className="grid grid-cols-1 md:grid-cols-12 gap-0">
-                <div className="md:col-span-5 relative min-h-[220px] md:min-h-[280px]">
+              <div className="flex flex-col">
+                <div className="relative w-full aspect-[16/9] sm:aspect-[21/9] md:aspect-[2/1] overflow-hidden bg-stone-100">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/111208/111208.jpg"
                     alt="歳時記の郷　奥会津　清水屋旅館"
@@ -573,7 +573,7 @@ export default function FeaturePage() {
                     第5位
                   </div>
                 </div>
-                <div className="md:col-span-7 p-5 md:p-6 flex flex-col justify-between space-y-4">
+                <div className="p-5 sm:p-7 md:p-8 flex flex-col justify-between space-y-5">
                   <div className="space-y-2">
                     <div className="flex items-center justify-between gap-2">
                       <span className="text-[11px] font-bold text-cyan-800 bg-cyan-50 px-2 py-0.5 rounded border border-cyan-100">

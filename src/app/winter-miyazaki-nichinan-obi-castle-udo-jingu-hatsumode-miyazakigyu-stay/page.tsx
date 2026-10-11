@@ -303,8 +303,8 @@ export default function Page() {
               </h2>
             </div>
 
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-              <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+            <div className="flex flex-col gap-6">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                 <img
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Obi%2C_Nichinan%2C_%C5%8Ctemon_Street_01.jpg/1280px-Obi%2C_Nichinan%2C_%C5%8Ctemon_Street_01.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="日州の小京都・飫肥城下町（重要伝統的建造物群保存地区・飫肥杉と武家屋敷）"
@@ -312,7 +312,7 @@ export default function Page() {
                   loading="lazy"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="font-bold text-stone-900 text-base">
                   【日州の小京都・飫肥城下町（重要伝統的建造物群保存地区・飫肥杉と武家屋敷）の見どころと歴史】
                 </h3>
@@ -367,8 +367,8 @@ export default function Page() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/187408/187408.jpg"
                       alt="天然温泉ひなたの宿日南宮崎"
@@ -376,7 +376,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                     <li key="0" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">歴史ある飫肥の自然に囲まれた立地！pH値の高いとろとろの天然温泉大浴場＆サウナ</span></li>
                     <li key="1" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">木の温もりが漂う洗練された和モダン客室でプライベートな寛ぎの時間を約束</span></li>
@@ -433,8 +433,8 @@ export default function Page() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/51210/51210.jpg"
                       alt="日南海岸　南郷プリンスホテル"
@@ -442,7 +442,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                     <li key="0" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">青い海と緑の島々が織りなす日南海岸国定公園の特等席！バルコニー付きの全室海側客室</span></li>
                     <li key="1" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">ホテル前から出航する水中観光船や島巡りなど、温暖な南国の自然を満喫できるアクティビティ</span></li>
@@ -499,8 +499,8 @@ export default function Page() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/18414/18414.jpg"
                       alt="ホテル　青島サンクマール"
@@ -508,7 +508,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                     <li key="0" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">国の天然記念物「鬼の洗濯板」が目の前！太平洋の水平線を180度見渡す絶景ロケーション</span></li>
                     <li key="1" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">とろみのある良質な自家源泉天然温泉！波の音を聴きながら湯船に浸かる展望大浴場</span></li>
@@ -565,8 +565,8 @@ export default function Page() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/8782/8782.jpg"
                       alt="ＡＮＡホリデイ・インリゾート宮崎　ｂｙ　ＩＨＧ"
@@ -574,7 +574,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                     <li key="0" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">パームツリーが揺れる南国リゾート感満載の広大な敷地！青島神社へ徒歩圏内の好立地</span></li>
                     <li key="1" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">「青島温泉」を引き込んだ展望温泉大浴場と室内プール・フィットネスを完備</span></li>
@@ -631,8 +631,8 @@ export default function Page() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/30939/30939.jpg"
                       alt="ホテルシーズン日南"
@@ -640,7 +640,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                     <li key="0" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">プロ野球春季キャンプ地として名高い日南市油津！広渡川の河口近くに位置する快適ホテル</span></li>
                     <li key="1" className="flex items-start gap-2"><Sparkles className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" /><span className="text-stone-700 text-sm font-medium">全室ゆったりとした広さを確保し、上質なベッドと充実のアメニティで心地よい休息を提供</span></li>

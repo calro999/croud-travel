@@ -398,7 +398,7 @@ export default function EhimeUwajimaYawatahamaWinterPage() {
 
             <div className="space-y-8">
               {hotelsList.map((hotel) => (
-                <div key={hotel.id} className="bg-white rounded-2xl shadow-md border border-slate-200 overflow-hidden hover:shadow-lg transition flex flex-col md:flex-row">
+                <div key={hotel.id} className="bg-white rounded-2xl shadow-md border border-slate-200 overflow-hidden hover:shadow-lg transition flex flex-col">
                   <div className="md:w-5/12 relative h-64 md:h-auto min-h-[240px]">
                     <img 
                       src={hotel.img} 

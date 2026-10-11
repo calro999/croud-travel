@@ -60,8 +60,8 @@ export default function AutumnBudgetMatsuyamaHotelsPage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://upload.wikimedia.org/wikipedia/commons/0/07/%E6%9D%BE%E5%B1%B1%E5%9F%8E%E5%A4%A9%E5%AE%88_%282372904566%29.jpg"
                 alt="現存十二天守・勝山にそびえる松山城"
@@ -73,7 +73,7 @@ export default function AutumnBudgetMatsuyamaHotelsPage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">現存十二天守・勝山にそびえる松山城の歴史と見どころ</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">松山城（まつやまじょう）は、愛媛県（旧伊予国）松山市に築かれた日本の城。別名金亀城（きんきじょう）、勝山城（かつやまじょう）。「松山城」と呼ばれる城は、同じ現存12天守の一つである備中松山城（岡山県高梁市）など各地に存在する。本城も「伊予松山城」と呼び分けられることもあるが、松山市にあることもあり、単に「松山城」とした場合は一般的に本城を指す。 江戸時代に同地などを治めた伊予松山藩の藩主居城および政庁として築かれた。松山城が建つ勝山は「城山」とも呼ばれ、城跡の主要部分が城山公園として整備されている。四国最大の城郭であるほか、建物がよく保存されている。前述のように、現存12天守の一つである大天守を含む21棟が国の重要文化財に、城郭遺構が国の史跡に指定されている。そのほか、連立式天守群の小天守以下5棟をはじめとする22棟（塀を含む）が木造で復元されている。 天守は江戸時代後期に再建されたもので、現存12天守の中で最も新しい。</p>
               <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">

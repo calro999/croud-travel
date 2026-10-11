@@ -329,7 +329,7 @@ export default function NiigataMatsunoyamaPage() {
                 id={`hotel-${hotel.id}`}
                 className="bg-white rounded-3xl overflow-hidden shadow-xs border border-stone-200 hover:shadow-md transition duration-300"
               >
-                <div className="grid grid-cols-1 lg:grid-cols-12 gap-0">
+                <div className="flex flex-col">
                   {/* Hotel Image Container */}
                   <div className="relative lg:col-span-5 h-64 lg:h-auto min-h-[260px]">
                     <Image
@@ -344,7 +344,7 @@ export default function NiigataMatsunoyamaPage() {
                   </div>
 
                   {/* Hotel Content */}
-                  <div className="lg:col-span-7 p-6 sm:p-8 flex flex-col justify-between space-y-6">
+                  <div className="w-full p-5 sm:p-7 flex flex-col justify-between space-y-4">
                     <div className="space-y-3">
                       <div className="flex items-center gap-3 flex-wrap">
                         <div className="flex items-center gap-1 text-amber-600 bg-amber-50 px-2.5 py-1 rounded-full text-xs font-bold">

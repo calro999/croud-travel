@@ -60,8 +60,8 @@ export default function AutumnBudgetNaganoCityHotelsPage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Zenkoji_Temple_Hondo.jpg/1280px-Zenkoji_Temple_Hondo.jpg"
                 alt="国宝本堂・信州善光寺と門前町散策"
@@ -73,7 +73,7 @@ export default function AutumnBudgetNaganoCityHotelsPage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">国宝本堂・信州善光寺と門前町散策の歴史と見どころ</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">善光寺（ぜんこうじ）は、長野県長野市元善町に存在する無宗派の単立仏教寺院。住職は「大勧進貫主」と「大本願上人」の両名が務め、実際の護持・運営は天台宗と浄土宗が担っている（後述）。 本尊は日本最古と伝わる一光三尊阿弥陀如来（善光寺如来）で、絶対秘仏である。近年は七年に一度とされている開帳は前立本尊（まえだちほんぞん）で行い、本堂前には触ると御利益（ごりやく）が得られるとされる回向柱（えこうばしら）が建てられる。 この善光寺如来は由緒ある仏像として権威の象徴とも見なされ、戦国時代には大名がこぞって自領（本拠地）に善光寺如来を遷座させ、各地を転々とした。 昔から多くの人々が日本中から善光寺を目指して参詣し、「一生に一度は参れ善光寺」と言われた。長野市の中心市街地は善光寺門前町を含み、長野市ほか北信に広がる長野盆地は「善光寺平」とも呼ばれる。</p>
               <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">

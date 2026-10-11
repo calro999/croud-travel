@@ -60,8 +60,8 @@ export default function AutumnBudgetFeaturePage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Mount_Bizan_from_Shimmachi_River_20200607.jpg/1280px-Mount_Bizan_from_Shimmachi_River_20200607.jpg"
                 alt="徳島市のシンボル・眉山ロープウェイと阿波パノラマ"
@@ -73,7 +73,7 @@ export default function AutumnBudgetFeaturePage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">徳島市のシンボル・眉山ロープウェイと阿波パノラマの歴史と見どころ</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">眉山（びざん）は、徳島県徳島市にある山。徳島市のシンボル的存在として親しまれている。 どの方向から眺めても眉の姿に見えることからその名がついたといわれる。徳島県立城南高等学校や徳島市立高等学校をはじめ徳島市内にある多くの学校では校歌の歌詞に「眉山」が登場する。2007年にはここを舞台にした映画『眉山-びざん-』が公開された。とくしま88景に選定。</p>
               <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
@@ -111,8 +111,8 @@ export default function AutumnBudgetFeaturePage() {
                 徳島駅近く
               </span>
             </div>
-            <div className="grid md:grid-cols-12 gap-6 items-center pt-2">
-              <div className="md:col-span-5 relative h-48 md:h-56 rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+            <div className="flex flex-col gap-5 items-center pt-2">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/7503/7503.jpg"
                   alt="アパホテル〈徳島駅前〉"
@@ -121,7 +121,7 @@ export default function AutumnBudgetFeaturePage() {
                   sizes="(max-width: 768px) 100vw, 350px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   JR徳島駅から徒歩ですぐの好立地。機能的な客室設備と快眠ベッド、スムーズな自動チェックインで快適そのもの。駅周辺の徳島ラーメン名店巡りや眉山ロープウェイへのアクセスも抜群です。
                 </p>
@@ -170,8 +170,8 @@ export default function AutumnBudgetFeaturePage() {
                 徳島駅近く
               </span>
             </div>
-            <div className="grid md:grid-cols-12 gap-6 items-center pt-2">
-              <div className="md:col-span-5 relative h-48 md:h-56 rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+            <div className="flex flex-col gap-5 items-center pt-2">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/8830/8830.jpg"
                   alt="ハイパーイン　ホテル越久（えちひさ）"
@@ -180,7 +180,7 @@ export default function AutumnBudgetFeaturePage() {
                   sizes="(max-width: 768px) 100vw, 350px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   徳島の飲食店街に近い両国橋エリアに位置し、夜のグルメ探索に最適。全室にシモンズ製ベッドを導入し、手頃な料金でワンランク上の寝心地を提供してくれる実力派ホテルです。
                 </p>
@@ -229,8 +229,8 @@ export default function AutumnBudgetFeaturePage() {
                 徳島駅近く
               </span>
             </div>
-            <div className="grid md:grid-cols-12 gap-6 items-center pt-2">
-              <div className="md:col-span-5 relative h-48 md:h-56 rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+            <div className="flex flex-col gap-5 items-center pt-2">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/28052/28052.jpg"
                   alt="ホテル千秋閣＜徳島県＞"
@@ -239,7 +239,7 @@ export default function AutumnBudgetFeaturePage() {
                   sizes="(max-width: 768px) 100vw, 350px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   徳島城跡の緑や吉野川の自然を感じられる閑静な立地。清潔感あふれる客室と心のこもった接客で評判が高く、落ち着いて旅の疲れを癒したい方に選ばれています。
                 </p>
@@ -288,8 +288,8 @@ export default function AutumnBudgetFeaturePage() {
                 徳島駅近く
               </span>
             </div>
-            <div className="grid md:grid-cols-12 gap-6 items-center pt-2">
-              <div className="md:col-span-5 relative h-48 md:h-56 rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+            <div className="flex flex-col gap-5 items-center pt-2">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/187619/187619.jpg"
                   alt="天空のスカイビューホテル　眉山海月"
@@ -298,7 +298,7 @@ export default function AutumnBudgetFeaturePage() {
                   sizes="(max-width: 768px) 100vw, 350px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   眉山の山頂付近に建ち、ロビーや客室から徳島市街と紀伊水道を一望する息をのむ絶景が自慢。秋の澄み切った夜景を眺めながら、非日常のひとときをリーズナブルな価格で過ごせます。
                 </p>
@@ -347,8 +347,8 @@ export default function AutumnBudgetFeaturePage() {
                 徳島駅近く
               </span>
             </div>
-            <div className="grid md:grid-cols-12 gap-6 items-center pt-2">
-              <div className="md:col-span-5 relative h-48 md:h-56 rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+            <div className="flex flex-col gap-5 items-center pt-2">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/17801/17801.jpg"
                   alt="ハイパーイン　メイアップ徳島"
@@ -357,7 +357,7 @@ export default function AutumnBudgetFeaturePage() {
                   sizes="(max-width: 768px) 100vw, 350px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   徳島最大の繁華街・秋田町に近く、夜遅くまで食事を楽しみたい旅行者に大人気。シンプルで清潔な客室と無料の軽朝食サービスが付いて、コスパの高さが光るビジネスホテルです。
                 </p>

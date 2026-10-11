@@ -385,7 +385,7 @@ export default function IkahoWinterPage() {
             {hotelList.map((hotel) => (
               <div 
                 key={hotel.id} 
-                className="bg-white rounded-3xl overflow-hidden shadow-md border border-stone-200/80 hover:shadow-xl transition-all duration-300 flex flex-col lg:flex-row"
+                className="bg-white rounded-3xl overflow-hidden shadow-md border border-stone-200/80 hover:shadow-xl transition-all duration-300 flex flex-col"
               >
                 {/* Image Box */}
                 <div className="lg:w-5/12 relative min-h-[300px] lg:min-h-full bg-stone-100">

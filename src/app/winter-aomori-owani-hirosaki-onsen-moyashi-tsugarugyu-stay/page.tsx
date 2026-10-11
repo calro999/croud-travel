@@ -446,7 +446,7 @@ export default function AomoriOwaniHirosakiWinterPage() {
                   </div>
 
                   {/* Image and Story Grid */}
-                  <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-start">
+                  <div className="flex flex-col gap-6">
                     <div className="md:col-span-5 space-y-2">
                       <div className="relative aspect-4/3 rounded-2xl overflow-hidden bg-stone-100 border border-stone-200">
                         {/* eslint-disable-next-line @next/next/no-img-element */}
@@ -462,7 +462,7 @@ export default function AomoriOwaniHirosakiWinterPage() {
                       </p>
                     </div>
 
-                    <div className="md:col-span-7 space-y-4 text-xs sm:text-sm text-stone-600 leading-relaxed">
+                    <div className="w-full space-y-4 text-xs sm:text-sm text-stone-600 leading-relaxed">
                       <p>{hotel.story}</p>
                       
                       <div className="bg-stone-50 rounded-2xl p-4 border border-stone-100 space-y-2">

@@ -151,8 +151,8 @@ export default function WinterFeaturePage() {
               </div>
               <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所解説</span>
             </div>
-            <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-              <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+            <div className="flex flex-col gap-6 p-6">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
                 <Image
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Itsukushima_Shrine_Torii_Gate_%2813890465459%29.jpg/1280px-Itsukushima_Shrine_Torii_Gate_%2813890465459%29.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="世界遺産・厳島神社（安芸の宮島）"
@@ -164,7 +164,7 @@ export default function WinterFeaturePage() {
                   <span className="text-[10px] text-white/90">写真出典: Wikimedia Commons</span>
                 </div>
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">世界遺産・厳島神社（安芸の宮島）の歴史と見どころ</h3>
                 <p className="text-xs md:text-sm text-stone-600 leading-relaxed">厳島神社（いつくしまじんじゃ、公式表記:嚴島神社）は、広島県廿日市市の厳島（宮島）にある神社。式内社（名神大社）、安芸国一宮。旧社格は官幣中社で、現在は神社本庁の別表神社。神紋は「三つ盛り二重亀甲に剣花菱」。古くは「伊都岐島神社」とも記された。全国に約500社ある厳島神社の総本社である。 佐伯直の直系が代々世襲して来たとされているが、一時期藤原氏に横取りされた時期があったものの政略結婚により取り戻し、古代から現在も続いていると記載されている。 広島湾に浮かぶ厳島（宮島）の北東…</p>
                 <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
@@ -220,9 +220,9 @@ export default function WinterFeaturePage() {
                   <span>広島県廿日市市宮島町1133（アクセス：宮島口駅よりフェリーで約10分。宮島桟橋より徒歩5分）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100 border border-stone-100 shadow-sm">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-100 shadow-sm">
                       <Image
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/6271/6271.jpg"
                         alt="宮島潮湯温泉　錦水館"
@@ -233,7 +233,7 @@ export default function WinterFeaturePage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-xs font-bold text-stone-500 uppercase tracking-wider mb-2">宿のハイライト・こだわり</h4>
                       <ul className="space-y-1.5 mb-4">
@@ -314,9 +314,9 @@ export default function WinterFeaturePage() {
                   <span>広島県廿日市市宮島町1165（アクセス：宮島口駅よりフェリーで約10分。宮島桟橋より徒歩1分）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100 border border-stone-100 shadow-sm">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-100 shadow-sm">
                       <Image
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/161276/161276.jpg"
                         alt="ホテル宮島別荘"
@@ -327,7 +327,7 @@ export default function WinterFeaturePage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-xs font-bold text-stone-500 uppercase tracking-wider mb-2">宿のハイライト・こだわり</h4>
                       <ul className="space-y-1.5 mb-4">
@@ -408,9 +408,9 @@ export default function WinterFeaturePage() {
                   <span>広島県廿日市市宮島町849（アクセス：ＪＲ山陽本線宮島口駅下車、宮島口桟橋よりフェリーで１０分。宮島桟橋下船後、厳島神社方面へ徒歩5分／厳島神社まで徒歩約7分）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100 border border-stone-100 shadow-sm">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-100 shadow-sm">
                       <Image
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/11125/11125.jpg"
                         alt="宮島　神撰の宿　ホテルみや離宮"
@@ -421,7 +421,7 @@ export default function WinterFeaturePage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-xs font-bold text-stone-500 uppercase tracking-wider mb-2">宿のハイライト・こだわり</h4>
                       <ul className="space-y-1.5 mb-4">
@@ -502,9 +502,9 @@ export default function WinterFeaturePage() {
                   <span>広島県廿日市市宮島口西1-1-17（アクセス：宮島口駅(JR・広電)からタクシーで約3分。JR宮島口駅から無料送迎バス有り《30分間隔／8時～14時 15時～19時》）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100 border border-stone-100 shadow-sm">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-100 shadow-sm">
                       <Image
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/7754/7754.jpg"
                         alt="安芸グランドホテル"
@@ -515,7 +515,7 @@ export default function WinterFeaturePage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-xs font-bold text-stone-500 uppercase tracking-wider mb-2">宿のハイライト・こだわり</h4>
                       <ul className="space-y-1.5 mb-4">
@@ -596,9 +596,9 @@ export default function WinterFeaturePage() {
                   <span>広島県廿日市市宮島町南町364（アクセス：宮島口桟橋よりフェリーで１０分～宮島桟橋よりマイクロバスにて送迎）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100 border border-stone-100 shadow-sm">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-100 shadow-sm">
                       <Image
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/18848/18848.jpg"
                         alt="宮島グランドホテル　有もと"
@@ -609,7 +609,7 @@ export default function WinterFeaturePage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-xs font-bold text-stone-500 uppercase tracking-wider mb-2">宿のハイライト・こだわり</h4>
                       <ul className="space-y-1.5 mb-4">

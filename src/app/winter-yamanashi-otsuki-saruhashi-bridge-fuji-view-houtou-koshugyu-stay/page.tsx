@@ -264,8 +264,8 @@ export default function FeaturePage() {
                 近隣の必見名所：日本三奇橋・名勝猿橋（桂川の深い渓谷美と浮世絵の情景・秀麗富嶽富士パノラマ）
               </h2>
             </div>
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-              <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3] bg-stone-100">
+            <div className="flex flex-col gap-6">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                 <img
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Saru_hashi-1a.jpg/1280px-Saru_hashi-1a.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="猿橋"
@@ -273,7 +273,7 @@ export default function FeaturePage() {
                   loading="lazy"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="font-bold text-stone-900 text-lg">
                   猿橋
                 </h3>
@@ -336,8 +336,8 @@ export default function FeaturePage() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/183891/183891.jpg"
                       alt="東横ＩＮＮ富士山大月駅"
@@ -345,7 +345,7 @@ export default function FeaturePage() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>JR中央線・富士急行線「大月駅」から徒歩わずか1分の抜群の好立地</span></li>
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>客室の窓から富士山を望む富士山ビュールームを用意（天候による）</span></li>
@@ -411,8 +411,8 @@ export default function FeaturePage() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/167096/167096.jpg"
                       alt="山梨泊まれる温泉　より道の湯"
@@ -420,7 +420,7 @@ export default function FeaturePage() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>富士急行線「都留市駅」から徒歩1分！地下1,500mから湧く上質な天然温泉</span></li>
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>露天風呂・高濃度炭酸泉・ロウリュサウナ・岩盤浴など充実の温浴施設を完備</span></li>
@@ -486,8 +486,8 @@ export default function FeaturePage() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/19206/19206.jpg"
                       alt="庭園と感動の宿　富士山温泉　ホテル鐘山苑"
@@ -495,7 +495,7 @@ export default function FeaturePage() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>四季の美を映す壮大な日本庭園と、最上階の露天風呂から望む感動の富士山ビュー</span></li>
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>名湯「富士山温泉」の大浴場や庭園露天風呂で楽しむ贅を尽くした湯浴み</span></li>
@@ -561,8 +561,8 @@ export default function FeaturePage() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/158471/158471.jpg"
                       alt="ホテルマイステイズ富士山　展望温泉"
@@ -570,7 +570,7 @@ export default function FeaturePage() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>富士急ハイランド駅近く！大月・都留からのアクセスも良好なリゾート拠点</span></li>
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>最上階の展望露天風呂からさえぎるもののない大迫力の富士山パノラマを満喫</span></li>
@@ -636,8 +636,8 @@ export default function FeaturePage() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/75376/75376.jpg"
                       alt="富士山と湖を望むリゾート　ホテル　マウント富士"
@@ -645,7 +645,7 @@ export default function FeaturePage() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>山中湖と富士山を眼下に見下ろす標高1,100mの絶景パノラマロケーション</span></li>
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>美肌の湯として名高い天然温泉「満天星の湯」の露天風呂から望む冬富士と星空</span></li>

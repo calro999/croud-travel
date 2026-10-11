@@ -310,8 +310,8 @@ export default function Page() {
               </span>
             </div>
 
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-5 items-center">
-              <div className="md:col-span-5 relative h-48 sm:h-56 rounded-xl overflow-hidden bg-stone-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Iwamura_Castle.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
                   alt="日本三大山城・岩村城跡（標高717m・六段壁の石垣美と霧氷の城跡）"
@@ -319,7 +319,7 @@ export default function Page() {
                   loading="lazy"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="font-bold text-stone-900 text-sm sm:text-base">
                   【日本三大山城・岩村城跡（標高717m・六段壁の石垣美と霧氷の城跡）の見どころと歴史】
                 </h3>
@@ -373,8 +373,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/80774/80774.jpg"
                       alt="城麓の宿　岩村山荘"
@@ -382,7 +382,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       日本三大山城・岩村城の登城口に最も近い場所に佇む、山城の歴史を今に伝える名宿。女城主の哀話が伝わる城址の麓で、静寂と木々の温もりに包まれる特別な宿泊体験が叶います。夕食は地元の恵みを活かした伝統の山城料理。上質な飛騨牛の朴葉味噌焼きや岩魚の塩焼き、季節の野菜鍋など、身体の芯から温まる滋味深い味わいが揃い、歴史好きの旅人から絶大な支持を集めています。
                     </p>
@@ -440,8 +440,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/187294/187294.jpg"
                       alt="恵那峡温泉ホテル　ゆずり葉"
@@ -449,7 +449,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       木曽川が刻んだ壮大な恵那峡の絶壁を見下ろす丘の上に建つ温泉ホテル。客室の大きな窓や露天風呂からは、雪化粧した恵那峡のダイナミックな景観が一望でき、冬の静けさと壮大さを五感で感じられます。天然温泉は塩分を多く含む強塩泉で、入浴後もぽかぽかとした温もりが長く持続。料理長が丹精込めて仕立てる飛騨牛の霜降り肉会席が、旅の満足感を極限まで高めてくれます。
                     </p>
@@ -507,8 +507,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/8027/8027.jpg"
                       alt="ホテル花更紗"
@@ -516,7 +516,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       恵那から車で約15分、自然豊かな中津川の地に位置する本格温泉リゾートホテル。最大の魅力は全国屈指のとろとろとした肌触りを誇る重曹泉（ナトリウム-炭酸水素塩温泉）で、湯上がりの肌がつるつるになると女性に大人気です。広々とした大浴場や露天風呂で冬の寒さを忘れ、夕食には極上の飛騨牛や中津川名物の栗を使った甘味が並ぶ豪華会席を堪能できます。
                     </p>
@@ -574,8 +574,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/183952/183952.jpg"
                       alt="お宿Ｏｎｎ　中津川"
@@ -583,7 +583,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       中山道の宿場町として栄えた中津川の中心地に誕生した、上質なライフスタイルホテル。エントランスから客室に至るまで東濃ヒノキなどの天然木がふんだんに用いられ、木の香りに包まれながらリラックスできます。館内には最新のサウナと大浴場が整い、冬の冷えた身体をととのえるのに最適。岩村城や妻籠・馬籠への観光拠点としても高い機能性を誇ります。
                     </p>
@@ -641,8 +641,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/182008/182008.jpg"
                       alt="ほしとせせらぎのぐらんぴんぐ"
@@ -650,7 +650,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       中津川の自然豊かな森の中に広がる本格グランピングリゾート。冬でも暖かい快適なドームテント内から、澄み渡る冬の夜空に瞬く満天の星空を眺める非日常の時間を過ごせます。隣接する温泉施設の美肌天然温泉に何度でも入れるのが嬉しいポイント。夕食には屋根付きの暖かいテラスで味わう飛騨牛の贅沢バーベキューやすき焼きが用意され、特別な冬の思い出づくりに最適です。
                     </p>

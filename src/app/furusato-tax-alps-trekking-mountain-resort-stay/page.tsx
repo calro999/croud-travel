@@ -146,7 +146,7 @@ export default function FurusatoFeaturePage() {
                 key="7445"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/7445/7445.jpg"
                     alt="安曇野高原リゾート（旧：ＡＭＢＩＥＮＴ安曇野ホテル／ＡＭＢＩＥＮＴ安曇野コテージ）"
@@ -192,7 +192,7 @@ export default function FurusatoFeaturePage() {
                 key="5757"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/5757/5757.jpg"
                     alt="高天ヶ原温泉　志賀パークホテル"
@@ -238,7 +238,7 @@ export default function FurusatoFeaturePage() {
                 key="196659"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/196659/196659.jpg"
                     alt="温泉ホテル安曇野アートキャビン"
@@ -299,7 +299,7 @@ export default function FurusatoFeaturePage() {
                 key="16773"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/16773/16773.jpg"
                     alt="白馬みずばしょう温泉　ホテル　シェラリゾート白馬"
@@ -345,7 +345,7 @@ export default function FurusatoFeaturePage() {
                 key="15934"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/15934/15934.jpg"
                     alt="白馬姫川温泉　北アルプスを一望　ホテル白馬＜長野県＞"
@@ -391,7 +391,7 @@ export default function FurusatoFeaturePage() {
                 key="11010"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/11010/11010.jpg"
                     alt="奥白馬温泉　ホテルグリーンプラザ白馬"
@@ -452,7 +452,7 @@ export default function FurusatoFeaturePage() {
                 key="184017"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/184017/184017.jpg"
                     alt="立山黒部アルペンルートオフィシャルホテル　弥陀ヶ原ホテル"
@@ -498,7 +498,7 @@ export default function FurusatoFeaturePage() {
                 key="9088"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/9088/9088.jpg"
                     alt="ホテルテトラリゾート立山国際（旧立山国際ホテル）"
@@ -544,7 +544,7 @@ export default function FurusatoFeaturePage() {
                 key="197399"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/197399/197399.jpg"
                     alt="立山高原ホテル"

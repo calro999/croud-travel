@@ -264,8 +264,8 @@ export default function FeaturePage() {
                 近隣の必見名所：肥前浜宿酒蔵通り（重要伝統的建造物群保存地区・白壁土蔵の冬新酒情緒と祐徳稲荷新春初詣）
               </h2>
             </div>
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-              <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3] bg-stone-100">
+            <div className="flex flex-col gap-6">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                 <img
                   src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Hamasyuku_kashima_saga_japan.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
                   alt="鹿島市浜庄津町浜金屋町"
@@ -273,7 +273,7 @@ export default function FeaturePage() {
                   loading="lazy"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="font-bold text-stone-900 text-lg">
                   鹿島市浜庄津町浜金屋町
                 </h3>
@@ -336,8 +336,8 @@ export default function FeaturePage() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/6006/6006.jpg"
                       alt="竹崎かにと日本酒の宿　鶴荘"
@@ -345,7 +345,7 @@ export default function FeaturePage() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>有明海を一望する太良町の海岸沿いに建ち、名物竹崎カニ料理で圧倒的な評価を誇る宿</span></li>
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>冬に旨味が凝縮する活竹崎カニの茹で・焼き・刺身と、佐賀の厳選地酒ペアリング</span></li>
@@ -411,8 +411,8 @@ export default function FeaturePage() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/40527/40527.jpg"
                       alt="嬉野温泉　和多屋別荘"
@@ -420,7 +420,7 @@ export default function FeaturePage() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>嬉野川沿いに広がる2万坪の広大な敷地！日本庭園とモダンな美空間が調和</span></li>
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>自家源泉から湧き出るトロトロの美肌温泉「大浴場御影殿」と野趣あふれる露天風呂</span></li>
@@ -486,8 +486,8 @@ export default function FeaturePage() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/19923/19923.jpg"
                       alt="嬉野温泉　大正屋"
@@ -495,7 +495,7 @@ export default function FeaturePage() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>創業大正14年！皇族や文人墨客にも愛されてきた嬉野温泉最高峰の老舗旅館</span></li>
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>美しく手入れされた日本庭園を眺める大浴場「四季の湯」や名物「滝の湯」の美肌泉</span></li>
@@ -561,8 +561,8 @@ export default function FeaturePage() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/52858/52858.jpg"
                       alt="嬉野温泉　茶心の宿　和楽園"
@@ -570,7 +570,7 @@ export default function FeaturePage() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>嬉野名産の緑茶をテーマにした個性豊かな温泉宿！ロビーに漂う茶香炉の心地よい香り</span></li>
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>大きな茶壺からお茶のエキスが注がれる名物「お茶露天風呂」で至福のスキンケア</span></li>
@@ -636,8 +636,8 @@ export default function FeaturePage() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/13417/13417.jpg"
                       alt="武雄温泉　御船山楽園ホテル"
@@ -645,7 +645,7 @@ export default function FeaturePage() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>国登録記念物「御船山楽園」の広大な自然に囲まれた唯一無二のロケーション</span></li>
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>チームラボによるランプの森のアート空間と、世界大会受賞の本格サウナ「らかんの湯」</span></li>

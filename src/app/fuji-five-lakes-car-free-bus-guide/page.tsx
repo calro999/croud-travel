@@ -248,7 +248,7 @@ export default function FujiFiveLakesCarFreeBusGuidePage() {
           ))}
         </div>
 
-        <div className="bg-emerald-900 text-emerald-100 rounded-2xl p-5 text-xs md:text-sm flex flex-col md:flex-row items-center justify-between gap-4">
+        <div className="bg-emerald-900 text-emerald-100 rounded-2xl p-5 text-xs md:text-sm flex flex-col items-center justify-between gap-4">
           <div className="space-y-1">
             <div className="font-bold text-white flex items-center gap-2">
               <span>🎟️</span> おすすめフリーパス：河口湖・西湖周遊バスフリークーポン
@@ -349,7 +349,7 @@ export default function FujiFiveLakesCarFreeBusGuidePage() {
 
       {/* ホテル＆旅館紹介（Rakuten Travel） */}
       <section className="space-y-6">
-        <div className="flex flex-col md:flex-row md:items-end justify-between gap-3 border-b border-teal-200 pb-4">
+        <div className="flex flex-col md:items-end justify-between gap-3 border-b border-teal-200 pb-4">
           <div>
             <div className="inline-flex items-center gap-1.5 text-xs font-black text-teal-700 tracking-wider uppercase mb-1">
               <span className="w-2 h-2 rounded-full bg-teal-600"></span>

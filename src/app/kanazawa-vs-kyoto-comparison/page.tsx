@@ -76,7 +76,7 @@ export default function KanazawaVsKyotoPage() {
               <span className="block text-sm text-slate-400 mb-2">Round 1</span>
               【食】絶品グルメ対決
             </h2>
-            <div className="flex flex-col md:flex-row gap-8">
+            <div className="flex flex-col gap-8">
               <div className="flex-1">
                 <h3 className="text-xl font-bold mb-3 pb-2 border-b-2 border-blue-200">🌊 金沢：日本海の恵み</h3>
                 <p className="text-slate-600 mb-3">
@@ -127,7 +127,7 @@ export default function KanazawaVsKyotoPage() {
             <p className="text-slate-700 leading-relaxed text-center mb-6">
               実は大きな違いが出るのが「温泉」です。
             </p>
-            <div className="flex flex-col md:flex-row justify-center gap-6">
+            <div className="flex flex-col justify-center gap-6">
               <div className="bg-blue-50 p-6 rounded-2xl md:w-1/2">
                 <h4 className="font-bold text-blue-900 mb-2">金沢の温泉</h4>
                 <p className="text-sm text-blue-800">

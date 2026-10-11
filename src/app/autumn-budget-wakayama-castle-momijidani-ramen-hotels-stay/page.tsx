@@ -60,8 +60,8 @@ export default function AutumnBudgetWakayamaHotelsPage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/%E5%92%8C%E6%AD%8C%E5%B1%B1%E5%9F%8E_%E5%A4%A9%E5%AE%88%E9%96%A3%EF%BC%882024%E5%B9%B4%EF%BC%89.jpg/1280px-%E5%92%8C%E6%AD%8C%E5%B1%B1%E5%9F%8E_%E5%A4%A9%E5%AE%88%E9%96%A3%EF%BC%882024%E5%B9%B4%EF%BC%89.jpg"
                 alt="名勝西之丸庭園（紅葉渓庭園）と徳川御三家・和歌山城"
@@ -73,7 +73,7 @@ export default function AutumnBudgetWakayamaHotelsPage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">名勝西之丸庭園（紅葉渓庭園）と徳川御三家・和歌山城の歴史と見どころ</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">和歌山城（わかやまじょう）は、和歌山県和歌山市一番丁にある日本の城（平山城）。徳川御三家の一つ紀州藩紀州徳川家の居城である。城跡は国の史跡に指定されている。</p>
               <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">

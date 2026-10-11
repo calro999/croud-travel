@@ -255,9 +255,9 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid md:grid-cols-12 gap-6 p-6">
+                <div className="flex flex-col gap-5 p-6">
                   <div className="md:col-span-5 space-y-2">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-slate-100 border border-slate-200">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-200">
                       <img
                         src={h.hotelImageUrl || h.roomImageUrl || '/images/no-image.jpg'}
                         alt={h.hotelName}
@@ -270,7 +270,7 @@ export default function Page() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between space-y-4">
+                  <div className="w-full flex flex-col justify-between space-y-4">
                     <div className="space-y-3">
                       <div className="flex items-start justify-between">
                         <div>

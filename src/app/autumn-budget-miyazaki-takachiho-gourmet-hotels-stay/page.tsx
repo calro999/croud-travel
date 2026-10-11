@@ -60,8 +60,8 @@ export default function AutumnBudgetMiyazakiHotelsPage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Takachiho-kyo%28Gorge%29_-_River_-_%E5%B7%9D.jpg/1280px-Takachiho-kyo%28Gorge%29_-_River_-_%E5%B7%9D.jpg"
                 alt="国の名勝天然記念物・神話息づく高千穂峡と真名井の滝"
@@ -73,7 +73,7 @@ export default function AutumnBudgetMiyazakiHotelsPage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">国の名勝天然記念物・神話息づく高千穂峡と真名井の滝の歴史と見どころ</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">高千穂峡（たかちほきょう）は、宮崎県西臼杵郡高千穂町三田井にある五ヶ瀬川にかかる峡谷。阿蘇山の南東25kmに位置する柱状節理が発達した深い谷で、断崖の高さは平均80m、高いところで100mにも達しており、これが東西7kmにわたり続いている。 阿蘇山の噴火活動（火砕流）による堆積溶岩が急激に冷却され、それが五ヶ瀬川による浸食作用を受けて形成されたV字峡谷である。秩父帯のスレート・砂岩層を基盤とし、阿蘇山の約12万年前の噴出による火砕流堆積物が河谷下部を構成する。さらに高千穂峡遊歩道の上部には阿蘇山の約9万年前の噴出による火砕流堆積物がみられ、両者は溶結している。 1934年（昭和9年）に「五箇瀬川峡谷（高千穂峡谷）」として国の名勝、天然記念物に指定され、昭和40年（1965年）3月25日には祖母傾国定公園の一部に指定された。真名井の滝、玉垂の滝、あららぎの滝などが有名である。</p>
               <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">

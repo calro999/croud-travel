@@ -371,9 +371,9 @@ export default function WinterTochigiYunishigawaPage() {
                 id={'hotel-' + hotel.id}
                 className="bg-white rounded-3xl border border-stone-200 shadow-sm hover:shadow-xl transition-all duration-300 overflow-hidden flex flex-col"
               >
-                <div className="grid grid-cols-1 lg:grid-cols-12 gap-0">
+                <div className="flex flex-col">
                   {/* Hotel Image */}
-                  <div className="lg:col-span-5 relative min-h-[280px] sm:min-h-[340px] bg-stone-100 overflow-hidden">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] overflow-hidden">
                     <img
                       src={hotel.img}
                       alt={hotel.name}
@@ -393,7 +393,7 @@ export default function WinterTochigiYunishigawaPage() {
                   </div>
 
                   {/* Hotel Details */}
-                  <div className="lg:col-span-7 p-6 sm:p-8 flex flex-col justify-between space-y-6">
+                  <div className="w-full p-5 sm:p-7 flex flex-col justify-between space-y-4">
                     <div className="space-y-3">
                       <div className="flex flex-wrap items-center justify-between gap-2">
                         <div className="flex items-center gap-1 text-amber-500 text-sm font-bold">

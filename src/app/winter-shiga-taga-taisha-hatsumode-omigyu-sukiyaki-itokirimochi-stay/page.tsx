@@ -313,8 +313,8 @@ export default function Page() {
               </span>
             </div>
 
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-5 items-center">
-              <div className="md:col-span-5 relative h-48 sm:h-56 rounded-xl overflow-hidden bg-stone-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Taga-taisha%2C_shaden-1.jpg/1280px-Taga-taisha%2C_shaden-1.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="近江国第一の古社・多賀大社（命の親神・延命長寿と縁結びの新春初詣50万人）"
@@ -322,7 +322,7 @@ export default function Page() {
                   loading="lazy"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="font-bold text-stone-900 text-sm sm:text-base">
                   【近江国第一の古社・多賀大社（命の親神・延命長寿と縁結びの新春初詣50万人）の見どころと歴史】
                 </h3>
@@ -376,8 +376,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/149302/149302.jpg"
                       alt="料亭旅館やす井"
@@ -385,7 +385,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       国宝彦根城の城下町に佇む、明治2年創業の歴史を誇る名門料亭旅館。約400坪の手入れの行き届いた日本庭園を囲むように数寄屋造りの客室が配され、雪吊りが施された冬の庭園を眺めながら心静かな時間を過ごせます。料亭としての誇りが息づく料理は、極上A5ランク近江牛をメインに、冬の琵琶湖の湖魚や京風の出汁を効かせた至高の会席料理。多賀大社への新春参拝と彦根の歴史探訪をこれ以上なく優雅に彩る最高峰の宿です。
                     </p>
@@ -443,8 +443,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/145042/145042.jpg"
                       alt="彦根キャッスル　リゾート＆スパ"
@@ -452,7 +452,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       彦根城の中堀に面し、客室や温泉大浴場から国宝天守の雄姿を真正面に眺めることができる上質なリゾートホテル。最上階の「城見の湯」露天風呂からは、雪化粧した彦根城が冬空に浮かび上がる絶景を望みながらの湯浴みが楽しめます。館内レストランでは本場近江牛のステーキや特選すき焼きをはじめ、近江八幡の赤こんにゃくや湖魚など滋賀の恵みを贅沢に使ったディナーが用意され、大人の冬旅に贅沢な充足感をもたらします。
                     </p>
@@ -510,8 +510,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/188914/188914.jpg"
                       alt="ホテルビワドッグ"
@@ -519,7 +519,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       彦根の琵琶湖岸に広がる、愛犬とともに最高峰のステイを楽しめるハイエンドリゾートホテル。すべての客室から遮るもののない広大なマザーレイク琵琶湖の絶景が広がり、冬の澄んだ湖面の輝きに心が洗われます。愛犬同伴はもちろん、一般の旅行客にとっても極上のサービスと空間を提供。夕食には地元滋賀の最高級近江牛や契約農家の朝採れ野菜を使った目にも鮮やかな創作和会席が並び、心温まる至福の夜を約束します。
                     </p>
@@ -577,8 +577,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/147618/147618.jpg"
                       alt="永源寺温泉　八風の湯　宿「八風別館」"
@@ -586,7 +586,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       鈴鹿山脈の麓、清流・愛知川のほとりに位置する永源寺温泉の上質な隠れ家温泉宿。別館の客室はすべて専用の温泉露天風呂付き離れとなっており、冬の凛とした渓流のせせらぎを聞きながら、プライベートな空間で何度でも名湯を満喫できます。泉質は肌をなめらかに包み込む弱アルカリ性の天然温泉。夕食には本場近江牛の石焼きや川魚の塩焼きなど、里山の温もりに満ちた豪華会席が提供され、心身を解きほぐす極上の湯治が叶います。
                     </p>
@@ -644,8 +644,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/106249/106249.jpg"
                       alt="クレフィール湖東"
@@ -653,7 +653,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       東近江市の緑豊かな丘陵地に位置し、鈴鹿の山並みと湖東平野を見晴らす眺望自慢のホテル。名神高速道路のスマートICからも近く、多賀大社や湖東三山へのアクセス拠点として最適です。館内には広々とした展望大浴場が備わり、旅の疲れを心地よく癒やしてくれます。夕食には滋賀が誇る認定近江牛を贅沢に使ったすき焼きや陶板焼きのコースが用意され、コストパフォーマンスの高さと温かな接客で多くのリピーターに愛されています。
                     </p>

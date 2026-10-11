@@ -60,8 +60,8 @@ export default function AutumnBudgetFeaturePage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Kokusai-dori08s3s4440.jpg/1280px-Kokusai-dori08s3s4440.jpg"
                 alt="那覇のメインストリート・国際通りと屋台村"
@@ -73,7 +73,7 @@ export default function AutumnBudgetFeaturePage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">那覇のメインストリート・国際通りと屋台村の歴史と見どころ</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">国際通り（こくさいどおり/こくさいとおり）は、沖縄県那覇市の県庁北口交差点（パレットくもじ前交差点）から安里三叉路までの約1.6 kmの通り。沖縄県で最も賑やかな通りであり那覇最大の繁華街である。 「国際通り」の読み方は、沖縄県内や国の機関を含め一般的には「こくさいどおり」と呼ばれているが、通りの入り口には「こくさいとおり」と彫られたシーサーの石碑がある。</p>
               <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
@@ -111,8 +111,8 @@ export default function AutumnBudgetFeaturePage() {
                 ゆいレール県庁前駅徒歩３分
               </span>
             </div>
-            <div className="grid md:grid-cols-12 gap-6 items-center pt-2">
-              <div className="md:col-span-5 relative h-48 md:h-56 rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+            <div className="flex flex-col gap-5 items-center pt-2">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/166949/166949.jpg"
                   alt="ワイズキャビン＆ホテル那覇国際通り"
@@ -121,7 +121,7 @@ export default function AutumnBudgetFeaturePage() {
                   sizes="(max-width: 768px) 100vw, 350px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   ゆいレール県庁前駅から徒歩3分、国際通りまで徒歩1分の最高立地。男性専用大浴場やサウナを完備し、旅の疲れをしっかりリセットできます。プライベートが保たれた個室キャビンで2,000円台の圧倒的コスパ。
                 </p>
@@ -170,8 +170,8 @@ export default function AutumnBudgetFeaturePage() {
                 ゆいレール　【牧志駅より徒歩３分】　国際通りにあるので買い物や観光に最適です。
               </span>
             </div>
-            <div className="grid md:grid-cols-12 gap-6 items-center pt-2">
-              <div className="md:col-span-5 relative h-48 md:h-56 rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+            <div className="flex flex-col gap-5 items-center pt-2">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/78126/78126.jpg"
                   alt="ホテル　オーシャン（那覇国際通り）"
@@ -180,7 +180,7 @@ export default function AutumnBudgetFeaturePage() {
                   sizes="(max-width: 768px) 100vw, 350px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   国際通りに面した絶好のロケーションで、沖縄県産食材をたっぷり使った朝食バイキングが大人気。アメニティバーやウェルカムドリンクも充実しており、ファミリーや一人旅問わず★4.59の高評価を獲得しています。
                 </p>
@@ -229,8 +229,8 @@ export default function AutumnBudgetFeaturePage() {
                 那覇空港からゆいレールで約20分、「牧志」駅下車直結、徒歩約1分！！国際通りに面しています。
               </span>
             </div>
-            <div className="grid md:grid-cols-12 gap-6 items-center pt-2">
-              <div className="md:col-span-5 relative h-48 md:h-56 rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+            <div className="flex flex-col gap-5 items-center pt-2">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/128440/128440.jpg"
                   alt="ダイワロイネットホテル那覇国際通り"
@@ -239,7 +239,7 @@ export default function AutumnBudgetFeaturePage() {
                   sizes="(max-width: 768px) 100vw, 350px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   ゆいレール牧志駅に直結し、雨の日でも濡れずにチェックイン可能。国際通りの東端に位置し、観光やショッピングの拠点として抜群の機動力を誇ります。広々としたデスクとベッドで快適なホテルステイが叶います。
                 </p>
@@ -288,8 +288,8 @@ export default function AutumnBudgetFeaturePage() {
                 那覇空港駅近く
               </span>
             </div>
-            <div className="grid md:grid-cols-12 gap-6 items-center pt-2">
-              <div className="md:col-span-5 relative h-48 md:h-56 rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+            <div className="flex flex-col gap-5 items-center pt-2">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/183254/183254.jpg"
                   alt="アルファベッドイン那覇国際通りＥＡＳＴ"
@@ -298,7 +298,7 @@ export default function AutumnBudgetFeaturePage() {
                   sizes="(max-width: 768px) 100vw, 350px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   国際通りエリアの静かな通りに位置するモダンなコンドミニアム風ホテル。多人数でもゆったり過ごせるスタイリッシュな客室空間が魅力で、友人グループや家族での秋旅行に抜群のコストパフォーマンスを発揮します。
                 </p>
@@ -347,8 +347,8 @@ export default function AutumnBudgetFeaturePage() {
                 ゆいレール「牧志駅」より徒歩１分・国際通りまで徒歩0分♪那覇空港からホテルまでゆいレールで15分♪
               </span>
             </div>
-            <div className="grid md:grid-cols-12 gap-6 items-center pt-2">
-              <div className="md:col-span-5 relative h-48 md:h-56 rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
+            <div className="flex flex-col gap-5 items-center pt-2">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100 border border-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/158644/158644.jpg"
                   alt="ＨＯＴＥＬ　ＴＨＥ　ＣＵＢＥ　那覇国際通り"
@@ -357,7 +357,7 @@ export default function AutumnBudgetFeaturePage() {
                   sizes="(max-width: 768px) 100vw, 350px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   国際通りからすぐの好立地にあり、必要な設備を機能的に凝縮したスマートホテル。無駄を省いたミニマルな空間設計でリーズナブルな宿泊料金を実現し、夜遅くまでグルメを楽しみたい旅行者に大好評です。
                 </p>

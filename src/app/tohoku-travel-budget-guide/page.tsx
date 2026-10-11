@@ -124,7 +124,7 @@ export default function TohokuBudgetGuidePage() {
         <p className="text-sm text-slate-700 mb-6 leading-relaxed">
           東北旅行の費用の大部分を占めるのが交通費。安く抑えるなら高速バス、時間を買うなら新幹線です。
         </p>
-        <div className="flex flex-col md:flex-row gap-4 mb-6">
+        <div className="flex flex-col gap-4 mb-6">
           <Link href="/tokyo-sendai-bus-vs-shinkansen-guide" className="flex-1 bg-slate-50 hover:bg-slate-100 p-4 rounded-2xl border border-slate-200 transition group">
             <h3 className="font-bold text-teal-800 text-sm mb-2 group-hover:underline">▶ 東京〜仙台の移動比較</h3>
             <p className="text-xs text-slate-600">新幹線はやぶさ（約11,410円） vs 高速バス（約2,500円〜）の詳細解説はこちら。</p>

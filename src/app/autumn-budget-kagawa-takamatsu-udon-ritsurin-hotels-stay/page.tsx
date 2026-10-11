@@ -60,8 +60,8 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Ritsurin.JPG/1280px-Ritsurin.JPG"
                 alt="栗林公園の掬月亭と南湖"
@@ -73,7 +73,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">大名庭園の最高峰・紫雲山を借景にした錦秋の絵巻</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
                 栗林公園（りつりんこうえん）は、江戸時代初期に高松藩主・松平家により築庭された回遊式大名庭園。国の特別名勝に指定され、ミシュラン・グリーンガイド・ジャポンでも三つ星を獲得。「一歩一景」と称される変化に富んだ景観が広がり、秋の紅葉シーズンには偃月橋（えんげつきょう）や掬月亭が幻想的にライトアップされます。
@@ -100,8 +100,8 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（クチコミ高評価）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/183326/183326.jpg"
                   alt="ホテルエリアワン高松シティ"
@@ -110,7 +110,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   ホテルエリアワン高松シティ
                 </h3>
@@ -155,8 +155,8 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（老舗高評価ホテル）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/13730/13730.jpg"
                   alt="高松国際ホテル"
@@ -165,7 +165,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   高松国際ホテル
                 </h3>
@@ -210,8 +210,8 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（中央通り好立地）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/8869/8869.jpg"
                   alt="リーガホテルゼスト高松"
@@ -220,7 +220,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   リーガホテルゼスト高松
                 </h3>
@@ -265,8 +265,8 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（天然温泉＆無料朝食）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/50215/50215.jpg"
                   alt="スーパーホテル高松・田町"
@@ -275,7 +275,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   天然温泉　讃岐の湯　スーパーホテル高松・田町
                 </h3>
@@ -320,8 +320,8 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（超高評価デザイン宿）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/181859/181859.jpg"
                   alt="ＫＯＫＯ ＨＯＴＥＬ 高松"
@@ -330,7 +330,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   ＫＯＫＯ　ＨＯＴＥＬ　高松
                 </h3>

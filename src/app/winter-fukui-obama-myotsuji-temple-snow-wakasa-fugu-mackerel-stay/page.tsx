@@ -310,8 +310,8 @@ export default function Page() {
               </span>
             </div>
 
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-5 items-center">
-              <div className="md:col-span-5 relative h-48 sm:h-56 rounded-xl overflow-hidden bg-stone-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://upload.wikimedia.org/wikipedia/commons/6/65/Myotsuji_and_pagoda.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
                   alt="国宝・明通寺（坂上田村麻呂開創・深山に佇む本堂と三重塔の冬雪景）"
@@ -319,7 +319,7 @@ export default function Page() {
                   loading="lazy"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="font-bold text-stone-900 text-sm sm:text-base">
                   【国宝・明通寺（坂上田村麻呂開創・深山に佇む本堂と三重塔の冬雪景）の見どころと歴史】
                 </h3>
@@ -373,8 +373,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/687/687.jpg"
                       alt="夕雅と旬彩の宿　せくみ屋"
@@ -382,7 +382,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       小浜港の海辺に佇む、若狭路の歴史と美食を象徴する老舗の温泉旅館。肌をなめらかに包み込む天然温泉大浴場を備え、冬の観光帰りに心ゆくまで身体を温めることができます。冬の看板料理は、地元小浜で水揚げされる本場「若狭ふぐ」のフルコース。美しく透き通るてっさの歯ごたえ、身がほろりと解けるてっちり鍋、熱々のひれ酒まで、ふぐの旨味を余すところなく堪能できる至高の食体験が待っています。
                     </p>
@@ -440,8 +440,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/72715/72715.jpg"
                       alt="若狭みかた　きらら温泉　水月花"
@@ -449,7 +449,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       世界的な年縞（ねんこう）で知られる三方五湖のひとつ、水月湖の静かな湖畔にたたずむリゾート温泉宿。客室や露天風呂からは、静まり返った湖面と雪をいただく対岸の山々が一望でき、冬ならではの幽玄な美しさに心が洗われます。天然温泉「きらら温泉」は身体が芯から温まる良泉。夕食には冬の若狭ふぐコースをはじめ、福井の海山の恵みを贅沢に盛り込んだ会席が並び、贅沢な冬の夜を演出します。
                     </p>
@@ -507,8 +507,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/14593/14593.jpg"
                       alt="海香の宿　波華楼"
@@ -516,7 +516,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       若狭湾の静かな入江に佇む、大人向けの落ち着いた隠れ家温泉旅館。客室のテラスからは広大な日本海の海原が広がり、冬の荒々しくも美しい波の表情を独り占めできます。館内には細やかな気配りとおもてなしが行き届き、喧騒を離れた特別な時間を約束。夕食には極上の若狭とらふぐや近海で揚がるタグ付き越前がにを取り入れた豪華な懐石料理が振る舞われ、美食と絶景に酔いしれる滞在が叶います。
                     </p>
@@ -571,8 +571,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/13898/13898.jpg"
                       alt="四季彩の宿　花椿"
@@ -580,7 +580,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       美しい若狭湾の海岸線に程近い、料理自慢の温もりあふれる温泉宿。気取らない温かなサービスと、港町ならではの圧倒的な鮮度を誇る魚介料理が多くのリピーターを魅了しています。冬の目玉は、自家製のポン酢で味わうボリューム満点の若狭ふぐ会席。てっさやてっちりはもちろん、ふぐの唐揚げや白子料理など、本場小浜ならではの贅沢な味わいをリーズナブルに楽しむことができます。
                     </p>
@@ -638,8 +638,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/75186/75186.jpg"
                       alt="ホテルアーバンポート"
@@ -647,7 +647,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       小浜港のウォーターフロントに位置し、爽快なオーシャンビューと機能的な設備を兼ね備えたスタイリッシュなホテル。客室の窓からは小浜湾を行き交う漁船や冬の海原が一望でき、旅情を盛り上げます。明通寺や鯖街道の宿場町「熊川宿」へのアクセス拠点として極めて便利。周辺には地元の海鮮居酒屋や名物焼き鯖の専門店も多く、気ままに小浜の夜を楽しみたい旅人に最適です。
                     </p>

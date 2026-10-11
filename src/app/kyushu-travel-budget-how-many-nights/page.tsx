@@ -182,7 +182,7 @@ export default function KyushuTravelNightsPage() {
                 rel="noopener noreferrer"
                 className="group block bg-white rounded-xl overflow-hidden border border-stone-200 hover:border-emerald-500 hover:shadow-lg transition-all"
               >
-                <div className="aspect-[4/3] relative overflow-hidden">
+                <div className="aspect-[16/9] sm:aspect-[21/9] relative overflow-hidden">
                   {hotel.hotelImageUrl ? (
                     <img
                       src={hotel.hotelImageUrl}

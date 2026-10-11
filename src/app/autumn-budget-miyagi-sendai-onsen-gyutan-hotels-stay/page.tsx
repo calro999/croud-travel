@@ -68,8 +68,8 @@ export default function SendaiBudgetAutumnPage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://upload.wikimedia.org/wikipedia/commons/f/ff/SendaiJoOtemonSumiYagura2003-11.jpg"
                 alt="杜の都・仙台城跡（青葉城）と伊達政宗公騎馬像"
@@ -81,7 +81,7 @@ export default function SendaiBudgetAutumnPage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">杜の都・仙台城跡（青葉城）と伊達政宗公騎馬像の歴史と見どころ</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">仙台城（せんだいじょう、旧字体: 仙臺城）は、宮城県仙台市青葉区（陸奥国宮城郡）の青葉山にあった日本の城（平山城）。雅称は青葉城。国の史跡。 慶長年間に伊達政宗が築城してから、廃藩置県・廃城令までの約270年にわたり伊達氏代々の居城であり、仙台藩の政庁であった。二代藩主伊達忠宗の代に完成した仙台城は約2万坪で、大藩にふさわしい大規模な城だった。地震などによる損害を受けながらも修復を繰り返し、奥羽越列藩同盟盟主として戊辰戦争を経るも、一度も戦火を見ることなく城としての役割を終えて、明治維新を迎えた。 その後は明治から大正にかけて陸軍用地となり多くの建築物が解体された。数少ない遺構であった大手門、脇櫓、巽門は国宝（旧国宝）に指定されていたが、第二次世界大戦時の仙台空襲により焼失した。現在では、宮城県知事公舎正門に転用された寅の門の部材が残るのみである。</p>
               <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
@@ -100,7 +100,7 @@ export default function SendaiBudgetAutumnPage() {
 
           <div className="space-y-8">
 
-            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col md:flex-row hover:shadow-md transition">
+            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col hover:shadow-md transition">
               <div className="md:w-5/12 relative h-56 md:h-auto min-h-[220px]">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/69306/69306.jpg"
@@ -147,7 +147,7 @@ export default function SendaiBudgetAutumnPage() {
               </div>
             </div>
 
-            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col md:flex-row hover:shadow-md transition">
+            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col hover:shadow-md transition">
               <div className="md:w-5/12 relative h-56 md:h-auto min-h-[220px]">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/187247/187247.jpg"
@@ -194,7 +194,7 @@ export default function SendaiBudgetAutumnPage() {
               </div>
             </div>
 
-            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col md:flex-row hover:shadow-md transition">
+            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col hover:shadow-md transition">
               <div className="md:w-5/12 relative h-56 md:h-auto min-h-[220px]">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/191668/191668.jpg"
@@ -241,7 +241,7 @@ export default function SendaiBudgetAutumnPage() {
               </div>
             </div>
 
-            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col md:flex-row hover:shadow-md transition">
+            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col hover:shadow-md transition">
               <div className="md:w-5/12 relative h-56 md:h-auto min-h-[220px]">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/57055/57055.jpg"
@@ -288,7 +288,7 @@ export default function SendaiBudgetAutumnPage() {
               </div>
             </div>
 
-            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col md:flex-row hover:shadow-md transition">
+            <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200 flex flex-col hover:shadow-md transition">
               <div className="md:w-5/12 relative h-56 md:h-auto min-h-[220px]">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/151427/151427.jpg"

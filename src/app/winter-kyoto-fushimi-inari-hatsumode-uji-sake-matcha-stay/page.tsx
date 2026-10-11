@@ -339,7 +339,7 @@ export default function KyotoFushimiPage() {
           <div className="space-y-10">
             {hotels.map((hotel) => (
               <article key={hotel.id} className="bg-white rounded-3xl border border-slate-200/90 shadow-sm overflow-hidden hover:shadow-md transition">
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-0">
+                <div className="flex flex-col">
                   <div className="md:col-span-5 relative min-h-[260px] bg-slate-100">
                     <img 
                       src={hotel.img} 

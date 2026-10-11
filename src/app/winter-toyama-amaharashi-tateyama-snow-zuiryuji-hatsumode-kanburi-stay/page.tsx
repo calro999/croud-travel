@@ -313,8 +313,8 @@ export default function Page() {
               </span>
             </div>
 
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-5 items-center">
-              <div className="md:col-span-5 relative h-48 sm:h-56 rounded-xl overflow-hidden bg-stone-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                 <img
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Himi-line-amaharashi.jpg/1280px-Himi-line-amaharashi.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="能登半島国定公園・雨晴海岸（富山湾越しに望む冠雪立山連峰・冬の世界的絶景）"
@@ -322,7 +322,7 @@ export default function Page() {
                   loading="lazy"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="font-bold text-stone-900 text-sm sm:text-base">
                   【能登半島国定公園・雨晴海岸（富山湾越しに望む冠雪立山連峰・冬の世界的絶景）の見どころと歴史】
                 </h3>
@@ -376,8 +376,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/171911/171911.jpg"
                       alt="移り住みたくなる宿『イミグレ』"
@@ -385,7 +385,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       氷見の小高い海沿いに位置し、富山湾の壮大なパノラマと立山連峰の稜線を望む全室オーシャンビューの上質なブティックホテル。白を基調とした洗練された客室は大きな窓を備え、波のせせらぎを聞きながら冬の海の色彩の移ろいを心ゆくまで鑑賞できます。ディナーは富山湾のキトキトな冬の寒ぶりや旬魚介、氷見牛をフレンチの手法で美しく仕立てた極上コース。都会の喧騒を離れて大人の贅沢な冬を過ごすのに最適です。
                     </p>
@@ -443,8 +443,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/108620/108620.jpg"
                       alt="ブリと氷見牛の宿　ひみ栄和温泉元湯　民宿　叶"
@@ -452,7 +452,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       氷見の海沿いに佇み、全国の美食家が「冬の寒ぶり」を目当てに集う名物温泉民宿・旅館。宿の最大の自慢は、店主が自ら氷見漁港の競りで仕入れる本物の「ひみ寒ぶり」を頭から尾まで余すところなく堪能できる豪華会席。さらに自家源泉の天然温泉はナトリウム・塩化物泉で保温効果が高く、冬の冷えた身体を芯から温めます。本物の味と名湯に出会える冬の富山随一の美食の宿です。
                     </p>
@@ -510,8 +510,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/20589/20589.jpg"
                       alt="氷見温泉郷　くつろぎの宿　うみあかり"
@@ -519,7 +519,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       氷見温泉郷の北端、富山湾の波打ち際に建つ絶景温泉ホテル。自慢の露天風呂は湯船の縁が海へと続くかのようなインフィニティ設計で、冬晴れの日には富山湾越しに純白の立山連峰を眺めながらの至高の湯浴みが堪能できます。客室からも海から昇る朝日を一望。夕食には氷見漁港から直送される寒ぶりの刺身やしゃぶしゃぶ、氷見牛のステーキが並び、富山の冬の醍醐味を五感で満喫できます。
                     </p>
@@ -577,8 +577,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/108675/108675.jpg"
                       alt="雨晴温泉　磯はなび"
@@ -586,7 +586,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       名勝・雨晴海岸を見下ろす丘の上に佇み、富山湾と立山連峰のパノラマビューを誇る名門温泉旅館。海に向かってせり出すように造られた展望露天風呂からは、冬の澄んだ大気の中に浮かび上がる立山連峰の雄姿を眺めながら、良質な天然温泉に身を委ねることができます。夕食には冬の寒ぶりを中心に、日本海の海の幸を丁寧に仕立てた会席料理が供され、新春初詣と雨晴海岸観光の拠点として最高峰の寛ぎを提供します。
                     </p>
@@ -644,8 +644,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/161065/161065.jpg"
                       alt="ホテルルートイン高岡駅前"
@@ -653,7 +653,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       JR高岡駅前に位置し、国宝・高岡瑞龍寺への新春初詣や、JR氷見線を利用した雨晴海岸・氷見へのアクセス拠点として抜群の利便性を誇るホテル。館内には旅の疲労を優しく癒やすラジウム人工温泉大浴場を備え、冬の観光帰りに心ゆくまで温まることができます。全室に加湿空気清浄機や快適ベッドが整い、充実の無料朝食バイキングとともにアクティブな冬の富山旅を快適にサポートします。
                     </p>

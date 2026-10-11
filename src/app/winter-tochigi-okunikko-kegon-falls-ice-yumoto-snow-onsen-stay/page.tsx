@@ -151,8 +151,8 @@ export default function WinterFeaturePage() {
               </div>
               <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所解説</span>
             </div>
-            <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-              <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+            <div className="flex flex-col gap-6 p-6">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
                 <Image
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Kegon_Taki.jpg/1280px-Kegon_Taki.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="奥日光・華厳の滝（冬のブルーアイス氷瀑）"
@@ -164,7 +164,7 @@ export default function WinterFeaturePage() {
                   <span className="text-[10px] text-white/90">写真出典: Wikimedia Commons</span>
                 </div>
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">奥日光・華厳の滝（冬のブルーアイス氷瀑）の歴史と見どころ</h3>
                 <p className="text-xs md:text-sm text-stone-600 leading-relaxed">華厳滝（けごんのたき）は、栃木県日光市にある、落差97メートルの滝。中禅寺湖から流れ出る大尻川（おおじりがわ）が、平常時の水量では幅7メートルにわたり岸壁を落下する。袋田の滝（茨城県）、那智滝（和歌山県）とともに「日本三名瀑」の一つとされる景勝地、観光地である。霧降の滝や裏見滝と合わせて日光三名瀑とも、湯滝や竜頭の滝と合わせて奥日光三名瀑とも言われ、日光・奥日光の三名瀑を合わせて日光五名瀑と称されることもある。 発見者は勝道上人と伝えられ、仏教経典の『華厳経』から名づけられた…</p>
                 <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
@@ -220,9 +220,9 @@ export default function WinterFeaturePage() {
                   <span>栃木県日光市湯元2551（アクセス：東武・JR日光駅～バス75分～湯元温泉バスターミナル～徒歩2分/日光宇都宮道路清滝ICより約45分 日光東照宮～車60分）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100 border border-stone-100 shadow-sm">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-100 shadow-sm">
                       <Image
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/15755/15755.jpg"
                         alt="日光湯元温泉　奥日光　森のホテル"
@@ -233,7 +233,7 @@ export default function WinterFeaturePage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-xs font-bold text-stone-500 uppercase tracking-wider mb-2">宿のハイライト・こだわり</h4>
                       <ul className="space-y-1.5 mb-4">
@@ -314,9 +314,9 @@ export default function WinterFeaturePage() {
                   <span>栃木県日光市湯元2549-7（アクセス：東武日光駅バス湯元温泉行下車5分　日光東照宮車60分）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100 border border-stone-100 shadow-sm">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-100 shadow-sm">
                       <Image
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/135482/135482.jpg"
                         alt="日光湯元温泉　日光グランドホテル　ほのかな宿樹林"
@@ -327,7 +327,7 @@ export default function WinterFeaturePage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-xs font-bold text-stone-500 uppercase tracking-wider mb-2">宿のハイライト・こだわり</h4>
                       <ul className="space-y-1.5 mb-4">
@@ -408,9 +408,9 @@ export default function WinterFeaturePage() {
                   <span>栃木県日光市湯元2549-28（アクセス：ＪＲ・東武　日光駅より東武バス湯元温泉行で８０分、「湯元温泉」バス停下車で徒歩１分）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100 border border-stone-100 shadow-sm">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-100 shadow-sm">
                       <Image
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/111168/111168.jpg"
                         alt="日光湯元温泉　スパビレッジ　カマヤ"
@@ -421,7 +421,7 @@ export default function WinterFeaturePage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-xs font-bold text-stone-500 uppercase tracking-wider mb-2">宿のハイライト・こだわり</h4>
                       <ul className="space-y-1.5 mb-4">
@@ -493,9 +493,9 @@ export default function WinterFeaturePage() {
                   <span>栃木県日光市中宮祠2482（アクセス：日光宇都宮有料道路清滝IC～車で約25分（いろは坂経由）東武日光駅～無料送迎バス有（運行時間変動有）日光東照宮迄車40分）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100 border border-stone-100 shadow-sm">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-100 shadow-sm">
                       <Image
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/28759/28759.jpg"
                         alt="日光中禅寺温泉　中禅寺金谷ホテル"
@@ -506,7 +506,7 @@ export default function WinterFeaturePage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-xs font-bold text-stone-500 uppercase tracking-wider mb-2">宿のハイライト・こだわり</h4>
                       <ul className="space-y-1.5 mb-4">
@@ -587,9 +587,9 @@ export default function WinterFeaturePage() {
                   <span>栃木県日光市湯元2549-6（アクセス：お車で、日光道清滝I.Cより40分、関越道沼田I.Cより90分(冬季閉鎖)。電車・バスで、日光駅より路線バスで80分。）</span>
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-6">
+                <div className="flex flex-col gap-6 mb-6">
                   <div className="md:col-span-5">
-                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-stone-100 border border-stone-100 shadow-sm">
+                    <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-100 shadow-sm">
                       <Image
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/8337/8337.jpg"
                         alt="奥日光湯元温泉　奥日光高原ホテル"
@@ -600,7 +600,7 @@ export default function WinterFeaturePage() {
                     </div>
                   </div>
 
-                  <div className="md:col-span-7 flex flex-col justify-between">
+                  <div className="w-full flex flex-col justify-between">
                     <div>
                       <h4 className="text-xs font-bold text-stone-500 uppercase tracking-wider mb-2">宿のハイライト・こだわり</h4>
                       <ul className="space-y-1.5 mb-4">

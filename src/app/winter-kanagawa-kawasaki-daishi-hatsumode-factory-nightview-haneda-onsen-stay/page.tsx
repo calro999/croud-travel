@@ -321,8 +321,8 @@ export default function Page() {
               <MapPin className="w-4 h-4" />
               <span>近隣名所アーカイブ＆公式百科事典連携</span>
             </div>
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-              <div className="md:col-span-5 relative h-56 rounded-xl overflow-hidden bg-stone-800">
+            <div className="flex flex-col gap-6">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-800">
                 <img
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Kawasaki_Daishi_-_2024_Oct_1_various_19_07_54_558000.jpeg/1280px-Kawasaki_Daishi_-_2024_Oct_1_various_19_07_54_558000.jpeg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="厄除弘法大師・金剛山金乗院平間寺（川崎大師・新春初詣300万人の大本山）"
@@ -330,7 +330,7 @@ export default function Page() {
                   loading="lazy"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <div>
                   <span className="text-[11px] text-cyan-300 font-mono">Spot Spotlight</span>
                   <h3 className="text-lg sm:text-xl font-bold text-white">
@@ -392,8 +392,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/177946/177946.jpg"
                       alt="ホテルメトロポリタン川崎"
@@ -401,7 +401,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       JR川崎駅西口から屋根付きデッキ直結という抜群の利便性を誇るハイクラス・シティホテル。「出会いと物語が始まる場所」をコンセプトに、音楽のまち川崎にふさわしいレコードやアートが配された洗練された空間が広がります。すべての客室に独立した洗い場付きバスルームとシモンズ製特注ベッドが備わり、都会の喧騒を忘れさせるプライベートな安らぎを提供。レストランではオープンキッチンから出来立てが運ばれるグリル料理や神奈川県産野菜の朝食ビュッフェが楽しめ、川崎大師への新春初詣と工場夜景鑑賞を優雅に楽しむ最高峰の拠点です。
                     </p>
@@ -459,8 +459,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/176996/176996.jpg"
                       alt="天然温泉　扇浜の湯　ドーミーイン川崎（ドーミーイン・御宿野乃　ホテルズグループ）"
@@ -468,7 +468,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       川崎の中心街に位置し、最上階の15階に本格的な自家源泉の天然温泉大浴場を備えた大人気ホテル。地下から湧き出る温泉は漆黒の「黒湯」で、肌をなめらかに整える重曹泉。澄んだ冬空を仰ぐ展望露天風呂や、オートロウリュサウナで極上のととのいを体験できます。お風呂上がりにはアイスや乳酸菌飲料の無料サービス、夜遅くにはお馴染みの「夜鳴きそば（醤油ラーメン）」の振る舞いも。朝食にはいくらや海鮮を好きなだけ盛り付けられる海鮮丼が並び、温泉好き・サウナ好きにはたまらない滞在を約束します。
                     </p>
@@ -526,8 +526,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/2056/2056.jpg"
                       alt="川崎日航ホテル"
@@ -535,7 +535,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       JR川崎駅東口の目の前にそびえ立ち、長年多くの旅人やビジネス客に愛され続けてきた格式ある老舗ホテル。地下街アゼリアと直結しているため、冬の寒風に晒されることなくスムーズに移動できます。客室は高層階に位置し、夜には京浜工業地帯や東京湾方面のきらびやかな夜景を一望。ホテルオークラグループの確かな技術を受け継ぐレストランでは、季節の厳選素材を活かした西洋料理や和食が楽しめ、初詣や夜景ツアーの後にゆったりと寛ぐ安心感あふれるひとときを提供します。
                     </p>
@@ -593,8 +593,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/179577/179577.jpg"
                       alt="ホテル縁道"
@@ -602,7 +602,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       東海道五十三次の宿場町「川崎宿」の歴史を現代の感性で再解釈した、ユニークで温かみあふれるコンセプトホテル。館内には旅人と地元の人々の「縁」をつなぐ仕掛けが随所に散りばめられ、シンプルながら質感の高い木を基調とした客室が心地よい寛ぎをもたらします。1階のレストラン「縁道食堂」では、香ばしい炭火焼き料理や地元神奈川の銘酒、クラフトビールが楽しめ、チェーンホテルにはない温かなストーリーを感じながら冬の川崎滞在を深く楽しむことができます。
                     </p>
@@ -660,8 +660,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/51214/51214.jpg"
                       alt="相鉄フレッサイン　川崎駅東口"
@@ -669,7 +669,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       川崎駅東口の賑やかな繁華街のほど近くにあり、観光にもビジネスにも抜群のフットワークを誇るスタイリッシュなホテル。全室に導入されたシモンズ製高級ベッドが上質な眠りをサポートし、冬の乾燥する季節に嬉しい全室加湿機能付き空気清浄機を完備。フロント前のアメニティバーには豊富なスキンケア用品や入浴剤が用意されており、手ぶらでも快適に宿泊できます。京急大師線への乗り換えも至近で、川崎大師への早朝参拝にも最適なフットワークを誇ります。
                     </p>
@@ -708,7 +708,7 @@ export default function Page() {
 
         {/* ふるさと納税セクション */}
         <section className="max-w-4xl mx-auto px-4 mb-12">
-          <div className="bg-gradient-to-br from-amber-500/10 via-amber-500/5 to-transparent rounded-2xl p-6 sm:p-8 border border-amber-500/20 shadow-sm flex flex-col md:flex-row items-center justify-between gap-6">
+          <div className="bg-gradient-to-br from-amber-500/10 via-amber-500/5 to-transparent rounded-2xl p-6 sm:p-8 border border-amber-500/20 shadow-sm flex flex-col items-center justify-between gap-6">
             <div className="space-y-2 text-center md:text-left">
               <span className="bg-amber-600 text-white text-[10px] font-bold px-2 py-0.5 rounded-full uppercase">
                 Furusato Tax

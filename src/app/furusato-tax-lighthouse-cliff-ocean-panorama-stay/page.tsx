@@ -146,7 +146,7 @@ export default function FurusatoFeaturePage() {
                 key="165626"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/165626/165626.jpg"
                     alt="湖畔の温泉宿くにびき　グランピングベースＩＺＵＭＯ"
@@ -207,7 +207,7 @@ export default function FurusatoFeaturePage() {
                 key="184687"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/184687/184687.jpg"
                     alt="犬吠埼温泉　黒潮の湯　ホテルルートイン銚子駅西"
@@ -253,7 +253,7 @@ export default function FurusatoFeaturePage() {
                 key="40498"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/40498/40498.jpg"
                     alt="犬吠埼潮の湯温泉　犬吠埼観光ホテル"
@@ -299,7 +299,7 @@ export default function FurusatoFeaturePage() {
                 key="4691"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/4691/4691.jpg"
                     alt="‐犬吠埼温泉元湯　黒潮の湯‐　絶景の宿　犬吠埼ホテル"
@@ -360,7 +360,7 @@ export default function FurusatoFeaturePage() {
                 key="8724"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/8724/8724.jpg"
                     alt="メルキュール高知土佐リゾート＆スパ"
@@ -406,7 +406,7 @@ export default function FurusatoFeaturePage() {
                 key="139956"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/139956/139956.jpg"
                     alt="岬観光ホテル"

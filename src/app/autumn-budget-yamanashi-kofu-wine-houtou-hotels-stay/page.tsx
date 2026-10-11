@@ -60,8 +60,8 @@ export default function AutumnBudgetKofuHotelsPage() {
             </div>
             <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
           </div>
-          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
-            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+          <div className="flex flex-col gap-6 p-6">
+            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
               <Image
                 src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Koufu_Castle_%284936837377%29.jpg"
                 alt="甲府城（舞鶴城公園）天守台"
@@ -73,7 +73,7 @@ export default function AutumnBudgetKofuHotelsPage() {
                 <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
               </div>
             </div>
-            <div className="md:col-span-7 space-y-3">
+            <div className="w-full space-y-3">
               <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">武田氏滅亡後に築かれた名城・天守台から望む富士山と甲府盆地</h3>
               <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
                 甲府城（こうふじょう）は、山梨県甲府市にあった城で、「舞鶴城（まいづるじょう）」の雅号を持つ国指定史跡。武田氏滅亡後に豊臣秀吉の命により築城され、巨大な野面積みの石垣が今も残ります。天守台に登ると秋の甲府盆地や遠く富士山を一望でき、城内を彩る紅葉のグラデーションも見事です。
@@ -100,8 +100,8 @@ export default function AutumnBudgetKofuHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（超格安プライス）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/187168/187168.jpg"
                   alt="トラベルイン甲府"
@@ -110,7 +110,7 @@ export default function AutumnBudgetKofuHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   トラベルイン甲府
                 </h3>
@@ -155,8 +155,8 @@ export default function AutumnBudgetKofuHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（天然温泉＆朝食無料）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/129530/129530.jpg"
                   alt="スーパーホテル甲府昭和インター"
@@ -165,7 +165,7 @@ export default function AutumnBudgetKofuHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   天然温泉　甲州隠し湯　スーパーホテル甲府昭和インター
                 </h3>
@@ -210,8 +210,8 @@ export default function AutumnBudgetKofuHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（駅至近＆無料朝食）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/52640/52640.jpg"
                   alt="東横ＩＮＮ甲府駅南口１"
@@ -220,7 +220,7 @@ export default function AutumnBudgetKofuHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   東横ＩＮＮ甲府駅南口１
                 </h3>
@@ -265,8 +265,8 @@ export default function AutumnBudgetKofuHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（飲食店街至近）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/9474/9474.jpg"
                   alt="センティア・ホテル内藤"
@@ -275,7 +275,7 @@ export default function AutumnBudgetKofuHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   センティア・ホテル内藤
                 </h3>
@@ -320,8 +320,8 @@ export default function AutumnBudgetKofuHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（自家源泉＆夜鳴きそば）</span>
               </div>
             </div>
-            <div className="grid md:grid-cols-12 gap-6">
-              <div className="md:col-span-5 relative h-52 md:h-auto rounded-xl overflow-hidden bg-slate-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-slate-100">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/68069/68069.jpg"
                   alt="天然温泉 甲斐路の湯 ドーミーイン甲府"
@@ -330,7 +330,7 @@ export default function AutumnBudgetKofuHotelsPage() {
                   sizes="(max-width: 768px) 100vw, 360px"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="text-xl font-bold text-slate-900 leading-snug">
                   天然温泉　甲斐路の湯　ドーミーイン甲府
                 </h3>

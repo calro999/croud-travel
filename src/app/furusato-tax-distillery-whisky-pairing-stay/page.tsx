@@ -146,7 +146,7 @@ export default function FurusatoFeaturePage() {
                 key="172337"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/172337/172337.jpg"
                     alt="アンワインドホテルアンドバー小樽（ＵＮＷＩＮＤ　ＨＯＴＥＬ　＆　ＢＡＲ　小樽）"
@@ -192,7 +192,7 @@ export default function FurusatoFeaturePage() {
                 key="825"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/825/825.jpg"
                     alt="オーセントホテル小樽"
@@ -238,7 +238,7 @@ export default function FurusatoFeaturePage() {
                 key="183954"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/183954/183954.jpg"
                     alt="グリッズプレミアムホテル小樽"
@@ -299,7 +299,7 @@ export default function FurusatoFeaturePage() {
                 key="28780"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/28780/28780.jpg"
                     alt="八ヶ岳の恵みを味わうレストラン＆ホテル　オーベルジュ清里"
@@ -360,7 +360,7 @@ export default function FurusatoFeaturePage() {
                 key="2636"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/2636/2636.jpg"
                     alt="ナチュラルファームシティ農園ホテル　＜秩父の街並みを眼下に望むロケーション＞"
@@ -406,7 +406,7 @@ export default function FurusatoFeaturePage() {
                 key="184555"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/184555/184555.jpg"
                     alt="ＮＩＰＰＯＮＩＡ　秩父　門前町"
@@ -452,7 +452,7 @@ export default function FurusatoFeaturePage() {
                 key="68504"
                 className="group flex flex-col rounded-2xl bg-stone-950/80 border border-stone-800 overflow-hidden hover:border-amber-500/40 transition-all duration-300"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-900">
+                <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden bg-stone-900">
                   <img
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/68504/68504.jpg"
                     alt="小さなホテル　セラヴィ"

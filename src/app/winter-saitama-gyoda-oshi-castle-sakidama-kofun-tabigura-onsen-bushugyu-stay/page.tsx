@@ -264,8 +264,8 @@ export default function FeaturePage() {
                 近隣の必見名所：武蔵国屈指の名城・忍城（のぼうの城の舞台・御三階櫓の雪景色と足袋蔵の街並み）
               </h2>
             </div>
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-              <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3] bg-stone-100">
+            <div className="flex flex-col gap-6">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                 <img
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Oshi-jo.JPG/1280px-Oshi-jo.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="忍城"
@@ -273,7 +273,7 @@ export default function FeaturePage() {
                   loading="lazy"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <h3 className="font-bold text-stone-900 text-lg">
                   忍城
                 </h3>
@@ -336,8 +336,8 @@ export default function FeaturePage() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/18683/18683.jpg"
                       alt="羽生天然温泉ルートイングランティア羽生ＳＰＡ　ＲＥＳＯＲＴ"
@@ -345,7 +345,7 @@ export default function FeaturePage() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>地下から湧く本格天然温泉「羽生温泉」の大浴場・露天風呂・サウナ施設を完備</span></li>
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>行田の忍城やさきたま古墳群、羽生水郷公園への車でのアクセスが極めてスムーズ</span></li>
@@ -411,8 +411,8 @@ export default function FeaturePage() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/72808/72808.jpg"
                       alt="キングアンバサダーホテル熊谷"
@@ -420,7 +420,7 @@ export default function FeaturePage() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>JR熊谷駅から徒歩至近！新幹線や高崎線を利用した都心からのアクセスも抜群</span></li>
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>ゆとりある広さを誇る洗練された客室と高級ベッドで快適な睡眠をサポート</span></li>
@@ -486,8 +486,8 @@ export default function FeaturePage() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/161022/161022.jpg"
                       alt="ホテルルートイン熊谷"
@@ -495,7 +495,7 @@ export default function FeaturePage() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>無料駐車場を完備し、行田の忍城やさきたま古墳群へのマイカードライブに最適</span></li>
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>足を伸ばして温まれるラジウム人工温泉大浴場「旅人の湯」でリフレッシュ</span></li>
@@ -561,8 +561,8 @@ export default function FeaturePage() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/181831/181831.jpg"
                       alt="サウナ付鉱泉浴大浴場付『ホテルグランワイズ熊谷駅前プレミア』"
@@ -570,7 +570,7 @@ export default function FeaturePage() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>熊谷駅徒歩圏内！駅前の飲食店街や商業施設へのアクセスが抜群の好立地</span></li>
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>本格サウナと鉱泉浴大浴場を完備し、出張や観光の疲れを最高にととのえる</span></li>
@@ -636,8 +636,8 @@ export default function FeaturePage() {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-                  <div className="md:col-span-5 relative rounded-xl overflow-hidden shadow-inner aspect-[4/3]">
+                <div className="flex flex-col gap-6">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/1486/1486.jpg"
                       alt="スマイルホテル熊谷"
@@ -645,7 +645,7 @@ export default function FeaturePage() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-4">
+                  <div className="w-full space-y-4">
                     <ul className="space-y-2">
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>JR熊谷駅北口から徒歩約2分の駅前立地で電車利用の旅に圧倒的な利便性</span></li>
                       <li className="flex items-start gap-2 text-xs sm:text-sm text-stone-700 font-medium"><span className="text-cyan-700 font-bold shrink-0">✔</span><span>全室に高速Wi-Fiと加湿空気清浄機を完備し、冬の乾燥シーズンも安心快適</span></li>

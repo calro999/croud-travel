@@ -326,7 +326,7 @@ export default function NisekoOnsenWinterPage() {
             {hotels.map((h) => (
               <div 
                 key={h.id}
-                className="bg-white rounded-3xl overflow-hidden shadow-sm hover:shadow-md transition-shadow border border-slate-200/80 flex flex-col md:flex-row group"
+                className="bg-white rounded-3xl overflow-hidden shadow-sm hover:shadow-md transition-shadow border border-slate-200/80 flex flex-col group"
               >
                 {/* Image */}
                 <div className="relative md:w-2/5 h-64 md:h-auto min-h-[260px] bg-slate-100 overflow-hidden">
@@ -348,7 +348,7 @@ export default function NisekoOnsenWinterPage() {
                 </div>
 
                 {/* Info */}
-                <div className="p-6 sm:p-8 md:w-3/5 flex flex-col justify-between space-y-5">
+                <div className="p-6 sm:p-8 w-full flex flex-col justify-between space-y-5">
                   <div className="space-y-3">
                     <div className="flex items-start justify-between gap-2">
                       <h3 className="text-lg sm:text-xl font-bold text-slate-900 group-hover:text-cyan-700 transition-colors">

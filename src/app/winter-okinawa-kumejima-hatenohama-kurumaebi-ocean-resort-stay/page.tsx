@@ -153,16 +153,16 @@ export default function WinterFeaturePage() {
               <span className="text-[11px] text-stone-400">Wikipedia公式情報連携</span>
             </div>
 
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-              <div className="md:col-span-5 overflow-hidden rounded-xl border border-stone-200 bg-stone-100">
+            <div className="flex flex-col gap-5">
+              <div className="w-full overflow-hidden rounded-xl border border-stone-200 bg-stone-100 aspect-[16/9] sm:aspect-[21/9]">
                 <img
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Kumejima.jpg/1280px-Kumejima.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="久米島・はての浜（東洋一の美しさを誇る白砂の楽園）"
-                  className="w-full h-48 md:h-56 object-cover hover:scale-105 transition-transform duration-300"
+                  className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
                   loading="lazy"
                 />
               </div>
-              <div className="md:col-span-7 space-y-2">
+              <div className="w-full space-y-3">
                 <h3 className="font-bold text-stone-900 text-sm sm:text-base">
                   久米島・はての浜（東洋一の美しさを誇る白砂の楽園） の見どころと歴史
                 </h3>
@@ -191,7 +191,7 @@ export default function WinterFeaturePage() {
 
           {/* Hotel Card 1 */}
           <article className="bg-white rounded-2xl border border-stone-200 shadow-sm overflow-hidden hover:shadow-md transition-shadow">
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-0">
+            <div className="flex flex-col">
               <div className="md:col-span-5 relative min-h-[240px] md:min-h-full">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/65975/65975.jpg"
@@ -257,7 +257,7 @@ export default function WinterFeaturePage() {
 
           {/* Hotel Card 2 */}
           <article className="bg-white rounded-2xl border border-stone-200 shadow-sm overflow-hidden hover:shadow-md transition-shadow">
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-0">
+            <div className="flex flex-col">
               <div className="md:col-span-5 relative min-h-[240px] md:min-h-full">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/31362/31362.jpg"
@@ -323,7 +323,7 @@ export default function WinterFeaturePage() {
 
           {/* Hotel Card 3 */}
           <article className="bg-white rounded-2xl border border-stone-200 shadow-sm overflow-hidden hover:shadow-md transition-shadow">
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-0">
+            <div className="flex flex-col">
               <div className="md:col-span-5 relative min-h-[240px] md:min-h-full">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/29731/29731.jpg"
@@ -389,7 +389,7 @@ export default function WinterFeaturePage() {
 
           {/* Hotel Card 4 */}
           <article className="bg-white rounded-2xl border border-stone-200 shadow-sm overflow-hidden hover:shadow-md transition-shadow">
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-0">
+            <div className="flex flex-col">
               <div className="md:col-span-5 relative min-h-[240px] md:min-h-full">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/70267/70267.jpg"
@@ -455,7 +455,7 @@ export default function WinterFeaturePage() {
 
           {/* Hotel Card 5 */}
           <article className="bg-white rounded-2xl border border-stone-200 shadow-sm overflow-hidden hover:shadow-md transition-shadow">
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-0">
+            <div className="flex flex-col">
               <div className="md:col-span-5 relative min-h-[240px] md:min-h-full">
                 <img
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/197648/197648.jpg"

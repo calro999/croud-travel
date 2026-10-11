@@ -321,8 +321,8 @@ export default function Page() {
               <MapPin className="w-4 h-4" />
               <span>近隣名所アーカイブ＆公式百科事典連携</span>
             </div>
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-              <div className="md:col-span-5 relative h-56 rounded-xl overflow-hidden bg-stone-800">
+            <div className="flex flex-col gap-6">
+              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-800">
                 <img
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Sumiyoshi-taisha%2C_keidai-2.jpg/1280px-Sumiyoshi-taisha%2C_keidai-2.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="摂津国一宮・住吉大社（国宝四棟本殿・渡るだけでお祓いになる反橋太鼓橋）"
@@ -330,7 +330,7 @@ export default function Page() {
                   loading="lazy"
                 />
               </div>
-              <div className="md:col-span-7 space-y-3">
+              <div className="w-full space-y-3">
                 <div>
                   <span className="text-[11px] text-cyan-300 font-mono">Spot Spotlight</span>
                   <h3 className="text-lg sm:text-xl font-bold text-white">
@@ -392,8 +392,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/144947/144947.jpg"
                       alt="大阪マリオット都ホテル"
@@ -401,7 +401,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       大阪のランドマーク「あべのハルカス」の高層フロアに位置する世界水準のラグジュアリーホテル。すべての客室が地上約100m以上の天空にあり、足元から広がる巨大な窓からは、大阪平野から遠く明石海峡大橋まで一望する息を呑むような大パノラマが広がります。天王寺駅直結という利便性に加え、駅前の路面電車「阪堺電車」に乗れば、レトロな車窓に揺られながら住吉大社前まで情緒たっぷりのショートトリップが可能。高層階レストランでの上質なディナーとともに、一生の記憶に残る新春の記念ステイが叶います。
                     </p>
@@ -459,8 +459,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/1181/1181.jpg"
                       alt="スイスホテル南海大阪"
@@ -468,7 +468,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       南海なんば駅の直上に位置し、関西国際空港や住吉大社へのフットワークが抜群の国際派ラグジュアリーホテル。南海本線に乗ればわずか9分で住吉大社駅に到着できるため、初詣の拠点としてこれ以上ない利便性を誇ります。客室はスイスの機能美と和の落ち着きが調和した上質なインテリアで統一され、広々としたバスタブで旅の疲れを心地よくリセット。最上階のレストランでは世界各国の美食や極上のワインが楽しめ、華やかな大阪の夜を優雅に締めくくることができます。
                     </p>
@@ -526,8 +526,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/1144/1144.jpg"
                       alt="シェラトン都ホテル大阪"
@@ -535,7 +535,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       古くからの歴史と文化が香る上本町に佇み、長年多くの賓客をもてなしてきた格式ある名門ホテル。近鉄上本町駅に直結し、地下鉄谷町線への乗り換えもスムーズで、住吉大社や四天王寺へのアクセスも快適です。客室は上品で落ち着きのある色彩でコーディネートされ、都会の中にありながら静かな安らぎを提供。ホテル内には伝統の技が光る日本料理や中国料理レストランが充実しており、家族での三世代新春旅行や大切な記念日にも安心して選べる名宿です。
                     </p>
@@ -593,8 +593,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/111247/111247.jpg"
                       alt="ダイワロイネットホテル堺東"
@@ -602,7 +602,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       堺の行政・商業の中心地である南海高野線「堺東駅」の目の前に位置するハイクオリティホテル。千利休ゆかりの茶の湯スポットや世界遺産・百舌鳥古墳群、伝統の堺刃物の町並みを巡る観光拠点として絶好のロケーションを誇ります。客室は明るくモダンなデザインで、ワイドなベッドと独立したライティングデスクを備え、旅の疲れを癒やす快適な環境が整っています。周辺には老舗の郷土料理店や河内鴨を味わえる名店が多数点在し、堺の夜のグルメ散策にも困りません。
                     </p>
@@ -660,8 +660,8 @@ export default function Page() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-                  <div className="md:col-span-5 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-stone-100">
+                <div className="flex flex-col gap-4">
+                  <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
                     <img
                       src="https://img.travel.rakuten.co.jp/share/HOTEL/105/105.jpg"
                       alt="ホテル　アゴーラ　リージェンシー　大阪堺"
@@ -669,7 +669,7 @@ export default function Page() {
                       loading="lazy"
                     />
                   </div>
-                  <div className="md:col-span-7 space-y-3">
+                  <div className="w-full space-y-3">
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       かつて海外貿易で栄えた堺旧港のウォーターフロントに位置し、南海本線堺駅に直結する大型シティリゾートホテル。住吉大社駅へは南海本線でわずか2駅（約5分）という圧倒的なアクセスの良さを誇り、新春の早朝初詣にも最高の立地です。広々としたロビーや客室からは堺の港町のパノラマや大阪湾の夕景が望め、リゾート感あふれる滞在が楽しめます。館内には本格鉄板焼きレストランやバーラウンジが完備され、大人の上質な冬の休日を演出してくれます。
                     </p>
@@ -708,7 +708,7 @@ export default function Page() {
 
         {/* ふるさと納税セクション */}
         <section className="max-w-4xl mx-auto px-4 mb-12">
-          <div className="bg-gradient-to-br from-amber-500/10 via-amber-500/5 to-transparent rounded-2xl p-6 sm:p-8 border border-amber-500/20 shadow-sm flex flex-col md:flex-row items-center justify-between gap-6">
+          <div className="bg-gradient-to-br from-amber-500/10 via-amber-500/5 to-transparent rounded-2xl p-6 sm:p-8 border border-amber-500/20 shadow-sm flex flex-col items-center justify-between gap-6">
             <div className="space-y-2 text-center md:text-left">
               <span className="bg-amber-600 text-white text-[10px] font-bold px-2 py-0.5 rounded-full uppercase">
                 Furusato Tax
