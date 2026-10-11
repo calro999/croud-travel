@@ -33,6 +33,41 @@ export default function AllFeaturesAccordion() {
             </h4>
             <div className="flex flex-wrap gap-1.5 pt-1">
               <Link
+                href="/winter-hokkaido-shikotsuko-luxury-aonoza-suizantei-shiraogyu-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-slate-700 bg-white hover:bg-teal-700 hover:text-white rounded-lg border border-slate-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="支笏湖碧の座＆全室温泉露天スイート・白老牛毛ガニ名宿5選"
+              >
+                支笏湖碧の座＆全室露天白老牛宿
+              </Link>
+              <Link
+                href="/winter-tochigi-nikko-chuzenji-lake-luxury-ritz-carlton-kanaya-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-slate-700 bg-white hover:bg-teal-700 hover:text-white rounded-lg border border-slate-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="中禅寺湖ザ・リッツ・カールトン日光＆金谷ホテル・とちぎ和牛宿5選"
+              >
+                中禅寺湖リッツ日光＆金谷ホテル宿
+              </Link>
+              <Link
+                href="/winter-shizuoka-atami-izusan-luxury-sekaie-ocean-roten-iseebi-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-slate-700 bg-white hover:bg-teal-700 hover:text-white rounded-lg border border-slate-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="熱海伊豆山グランバッハ＆断崖絶景露天・冬花火伊勢海老宿5選"
+              >
+                熱海伊豆山断崖絶景＆花火伊勢海老宿
+              </Link>
+              <Link
+                href="/winter-kyoto-arashiyama-luxury-suiran-roten-suite-kaiseki-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-slate-700 bg-white hover:bg-teal-700 hover:text-white rounded-lg border border-slate-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="嵐山翠嵐ラグジュアリーコレクション＆嵐山温泉露天京懐石宿5選"
+              >
+                嵐山翠嵐ラグジュアリー＆京懐石宿
+              </Link>
+              <Link
+                href="/winter-ishikawa-kaga-yamashiro-luxury-araya-totoan-kanogani-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-slate-700 bg-white hover:bg-teal-700 hover:text-white rounded-lg border border-slate-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="加賀山代あらや滔々庵＆解禁加能ガニ極上フルコース名宿5選"
+              >
+                加賀山代あらや滔々庵＆加能ガニ宿
+              </Link>
+              <Link
                 href="/winter-kanagawa-hakone-sengokuhara-luxury-hanare-roten-suite-stay"
                 className="px-2.5 py-1 text-[11px] font-semibold text-slate-700 bg-white hover:bg-teal-700 hover:text-white rounded-lg border border-slate-200/80 shadow-2xs transition truncate max-w-[200px]"
                 title="箱根仙石原全室露天付き離れ＆白濁硫黄泉・極上相州牛宿5選"

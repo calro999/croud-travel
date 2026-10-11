@@ -7,6 +7,36 @@ export interface TrendTopicItem {
 
 export const FEATURE_TREND_TOPICS: TrendTopicItem[] = [
   {
+    slug: 'winter-hokkaido-shikotsuko-luxury-aonoza-suizantei-shiraogyu-stay',
+    title: "支笏湖ブルーの初冬静寂と全室温泉露天スイート！北海道・碧の座＆翠山亭・極上白老牛名宿5選",
+    desc: "水質日本一のカルデラ湖！鶴雅最高峰『碧の座』オールインクルーシブ、全室温泉露天スイートと白老牛ステーキ…",
+    badge: '高級・11・12月特集'
+  },
+  {
+    slug: 'winter-tochigi-nikko-chuzenji-lake-luxury-ritz-carlton-kanaya-stay',
+    title: "奥日光・中禅寺湖畔の最高峰リゾート！栃木・ザ・リッツ・カールトン日光＆金谷ホテル・とちぎ和牛名宿5選",
+    desc: "標高1200m天空の湖と男体山雪景色！世界初のリッツ・カールトン白濁硫黄温泉、伝統フレンチと極上とちぎ和牛…",
+    badge: '高級・11・12月特集'
+  },
+  {
+    slug: 'winter-shizuoka-atami-izusan-luxury-sekaie-ocean-roten-iseebi-stay',
+    title: "相模湾見下ろす断崖絶景露天風呂とプライベートヴィラ！静岡・熱海伊豆山グランバッハ＆伊勢海老名宿5選",
+    desc: "冬の熱海海上花火をお部屋から鑑賞！相模湾一望インフィニティ露天風呂、天然活伊勢海老と静岡そだち和牛鉄板焼き…",
+    badge: '高級・11・12月特集'
+  },
+  {
+    slug: 'winter-kyoto-arashiyama-luxury-suiran-roten-suite-kaiseki-stay',
+    title: "保津川渓流沿いの歴史美と嵐山温泉露天付きスイート！京都・翠嵐ラグジュアリーコレクションと京懐石名宿5選",
+    desc: "初冬の静けさに包まれる渡月橋と竹林の小径！保津川沿いのマリオット最高峰『翠嵐』、嵐山温泉露天と極上京懐石…",
+    badge: '高級・11・12月特集'
+  },
+  {
+    slug: 'winter-ishikawa-kaga-yamashiro-luxury-araya-totoan-kanogani-stay',
+    title: "魯山人の美意識宿る数寄屋名門と加能ガニ極上フルコース！石川・加賀山代あらや滔々庵＆能登牛名宿5選",
+    desc: "11月6日解禁青タグの最高峰加能ガニ！元湯掛け流しと魯山人ゆかりの料亭旅館『あらや滔々庵』、極上能登牛会席…",
+    badge: '高級・11・12月特集'
+  },
+  {
     slug: 'winter-kanagawa-hakone-sengokuhara-luxury-hanare-roten-suite-stay',
     title: "全室露天風呂付き極上離れと白濁硫黄泉！箱根・仙石原の隠れ家高級宿と極上相州牛名宿5選",
     desc: "大涌谷直送の白濁硫黄泉を客室露天で独り占め！金乃竹仙石原や翠松園、黄金色のすすき草原と相州牛懐石…",
