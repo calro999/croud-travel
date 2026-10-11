@@ -7,6 +7,36 @@ export interface TrendTopicItem {
 
 export const FEATURE_TREND_TOPICS: TrendTopicItem[] = [
   {
+    slug: 'winter-shizuoka-izu-shuzenji-luxury-asaba-sora-onsen-stay',
+    title: "竹林の小径の静寂と数寄屋露天離れ！静岡・柳生の庄＆宙SORA・天城軍鶏・伊豆伊勢海老名宿5選",
+    desc: "弘法大師開湯の歴史を紡ぐ伊豆最古の湯！竹林に佇む本格料亭旅館『柳生の庄』や『宙 SORA』、国の登録文化財『新井旅館』…",
+    badge: '高級・11〜1月特集'
+  },
+  {
+    slug: 'winter-hokkaido-niseko-luxury-resort-parkhyatt-setsuniseko-yotei-stay',
+    title: "世界屈指のパウダースノーと羊蹄山ビュー雪見スイート！北海道・雪ニセコ＆パークハイアット・極上食材名宿5選",
+    desc: "世界中が憧れる奇跡の粉雪JAPOW！羊蹄山を望む最高峰リゾート『雪ニセコ』『パーク ハイアット ニセコ』、白老牛やタラバガニ…",
+    badge: '高級・12〜1月特集'
+  },
+  {
+    slug: 'winter-hyogo-kinosaki-luxury-nishimuraya-mikiya-tsuiyamagani-stay',
+    title: "雪の柳並木と最高峰青タグ津居山ガニ解禁！兵庫・創業160年西村屋本館＆三木屋・活松葉ガニ名宿5選",
+    desc: "日帰り水揚げの最高峰・青タグ津居山ガニ！創業160年の名門『西村屋本館』や志賀直哉ゆかりの『三木屋』、雪の柳並木と外湯めぐり…",
+    badge: '高級・11〜1月特集'
+  },
+  {
+    slug: 'winter-tottori-misasa-kaike-luxury-matsubagani-ryokan-ohashi-yugetsu-stay',
+    title: "奇跡の自噴ラジウム温泉と日本海インフィニティ露天！鳥取・旅館大橋＆皆生游月・鳥取松葉ガニ名宿5選",
+    desc: "世界屈指の高濃度ラドンを含む三朝温泉と皆生温泉！国登録有形文化財『旅館 大橋』自噴巌窟の湯や『皆生 游月』、鳥取松葉ガニ五輝星…",
+    badge: '高級・11〜1月特集'
+  },
+  {
+    slug: 'winter-fukushima-aizu-ashinomaki-higashiyama-luxury-ookawaso-mukaitaki-snow-stay',
+    title: "幻想の浮き舞台雪景色と文化財雪見ろうそく！福島・大川荘＆登録有形文化財向瀧・雪見露天と会津馬刺し名宿5選",
+    desc: "奥会津の白銀世界と大川渓谷の絶景！三味線浮き舞台の『大川荘』や中庭に雪見ろうそくが灯る『向瀧』、雪見露天風呂と極上会津馬刺し…",
+    badge: '高級・12〜1月特集'
+  },
+  {
     slug: 'winter-mie-ago-bay-luxury-basara-shimanokaze-matsusaka-stay',
     title: "英虞湾の夕景リアスと全室離れ露天風呂！三重・汀渚ばさら邸＆志摩観光ホテル・天然伊勢海老・松阪牛名宿5選",
     desc: "伊勢志摩国立公園の英虞湾を望む至高のリゾート！『汀渚 ばさら邸』客室露天風呂と天然伊勢海老・A5等級松阪牛…",

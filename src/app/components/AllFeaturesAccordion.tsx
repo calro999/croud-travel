@@ -29,9 +29,44 @@ export default function AllFeaturesAccordion() {
           <div className="space-y-2">
             <h4 className="text-xs font-black text-slate-800 flex items-center gap-1.5 pb-1 border-b border-slate-200">
               <span>❄️</span>
-              <span>冬・新春初詣・雪見露天・旬のカニ特集 (448選)</span>
+              <span>冬・新春初詣・雪見露天・旬のカニ特集 (453選)</span>
             </h4>
             <div className="flex flex-wrap gap-1.5 pt-1">
+              <Link
+                href="/winter-shizuoka-izu-shuzenji-luxury-asaba-sora-onsen-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-slate-700 bg-white hover:bg-teal-700 hover:text-white rounded-lg border border-slate-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="竹林の小径の静寂と数寄屋露天離れ！静岡・柳生の庄＆宙SORA・天城軍鶏・伊豆伊勢海老名宿5選"
+              >
+                修善寺柳生の庄＆天城軍鶏伊勢海老宿
+              </Link>
+              <Link
+                href="/winter-hokkaido-niseko-luxury-resort-parkhyatt-setsuniseko-yotei-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-slate-700 bg-white hover:bg-teal-700 hover:text-white rounded-lg border border-slate-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="世界屈指のパウダースノーと羊蹄山ビュー雪見スイート！北海道・雪ニセコ＆パークハイアット・極上食材名宿5選"
+              >
+                ニセコ雪ニセコ＆パークハイアット宿
+              </Link>
+              <Link
+                href="/winter-hyogo-kinosaki-luxury-nishimuraya-mikiya-tsuiyamagani-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-slate-700 bg-white hover:bg-teal-700 hover:text-white rounded-lg border border-slate-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="雪の柳並木と最高峰青タグ津居山ガニ解禁！兵庫・創業160年西村屋本館＆三木屋・活松葉ガニ名宿5選"
+              >
+                城崎温泉西村屋本館＆津居山ガニ宿
+              </Link>
+              <Link
+                href="/winter-tottori-misasa-kaike-luxury-matsubagani-ryokan-ohashi-yugetsu-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-slate-700 bg-white hover:bg-teal-700 hover:text-white rounded-lg border border-slate-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="奇跡の自噴ラジウム温泉と日本海インフィニティ露天！鳥取・旅館大橋＆皆生游月・鳥取松葉ガニ名宿5選"
+              >
+                三朝旅館大橋＆皆生游月松葉ガニ宿
+              </Link>
+              <Link
+                href="/winter-fukushima-aizu-ashinomaki-higashiyama-luxury-ookawaso-mukaitaki-snow-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-slate-700 bg-white hover:bg-teal-700 hover:text-white rounded-lg border border-slate-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="幻想の浮き舞台雪景色と文化財雪見ろうそく！福島・大川荘＆登録有形文化財向瀧・雪見露天と会津馬刺し名宿5選"
+              >
+                会津大川荘浮き舞台＆向瀧雪見ろうそく宿
+              </Link>
               <Link
                 href="/winter-mie-ago-bay-luxury-basara-shimanokaze-matsusaka-stay"
                 className="px-2.5 py-1 text-[11px] font-semibold text-slate-700 bg-white hover:bg-teal-700 hover:text-white rounded-lg border border-slate-200/80 shadow-2xs transition truncate max-w-[200px]"

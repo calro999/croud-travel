@@ -1,0 +1,42 @@
+{
+  "shizuoka_izu_shuzenji_luxury": {
+    "title": "修善寺温泉",
+    "query": "修善寺温泉",
+    "label": "桂川のせせらぎと幽玄な青竹が続く小径・修善寺温泉（伊豆の小京都・弘法大師開湯の古湯）",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/181124_Shuzenji_Onsen_Izu_Shizuoka_pref_Japan01s3.jpg/1280px-181124_Shuzenji_Onsen_Izu_Shizuoka_pref_Japan01s3.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "extract": "修善寺温泉（しゅぜんじおんせん）は、静岡県伊豆市修善寺にあり、伊豆半島で最も歴史がある温泉。日本百名湯に選ばれている。",
+    "detailHistory": "静岡県伊豆市北部、修善寺川（通称・桂川）沿いに広がる伊豆半島最古の温泉街。平安時代の大同2年（807年）に弘法大師空海が湧出させた『独鈷の湯（とっこのゆ）』が開湯伝説とされ、夏目漱石や芥川龍之介、川端康成ら名だたる文豪が愛逗留した『伊豆の小京都』です。川沿いには青々とした竹林が天へと伸びる『竹林の小径』や朱塗りの渡月橋・桂橋が架かり、初冬の澄んだ空気の中で風情ある散策が愉しめます。温泉は無色透明でさらりとした肌触りの弱アルカリ性単純温泉。冬には天城山麓の猪肉を使った牡丹鍋や天城軍鶏、伊豆近海で獲れる伊勢海老や金目鯛が旬を迎えます。"
+  },
+  "hokkaido_niseko_luxury_resort": {
+    "title": "羊蹄山",
+    "query": "羊蹄山",
+    "label": "冬の青空に聳え立つ白銀の蝦夷富士・羊蹄山（世界が羨望するJAPOWとニセコのパノラマ絶景）",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Yotei-zan-from-hirafu.jpg/1280px-Yotei-zan-from-hirafu.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "extract": "羊蹄山（ようていざん）は、北海道後志地方南部（胆振国北西部）にある、標高1,898メートルの成層火山。別名を蝦夷富士（えぞふじ）ともいい、西南北海道では一番の高さの山である。",
+    "detailHistory": "北海道後志地方南部に位置する標高1,898mの成層火山で、日本百名山の一つ。富士山に酷似した端正な円錐形の山容から『蝦夷富士（えぞふじ）』と称えられ、ニセコエリアのあらゆる場所からその神々しい姿を望むことができます。冬のニセコはシベリアからの寒気と日本海の湿気がぶつかり合い、水分含有率わずか8％前後という世界最高峰の超極上ドライパウダースノー『JAPOW（ジャパウ）』が降り積もる国際的スノーリゾート。白銀に輝く羊蹄山を眺めながら入る雪見露天風呂や、北海道産黒毛和牛、新鮮な海の幸を味わう極上の冬リゾートステイが世界中の富裕層を魅了しています。"
+  },
+  "hyogo_kinosaki_luxury_tsuiyama": {
+    "title": "城崎温泉",
+    "query": "城崎温泉",
+    "label": "大谿川の柳並木と太鼓橋が織りなす雪情緒・城崎温泉（志賀直哉ゆかりの文学と七田の外湯めぐり）",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Kinosaki_onsen02_1920.jpg/1280px-Kinosaki_onsen02_1920.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "extract": "城崎温泉（きのさきおんせん）は、兵庫県豊岡市城崎町にある温泉。平安時代以前から知られる長い歴史を持つ。江戸時代には「海内第一泉（かいだいだいいちせん）」と呼ばれ、今もその碑が残る。有馬温泉、湯村温泉とともに兵庫県を代表する温泉でもある。",
+    "detailHistory": "兵庫県豊岡市城崎町、日本海に近い大谿川（おおたにがわ）沿いに開けた1300年の歴史を誇る名湯。奈良時代の養老4年（720年）に道智上人の祈祷によって湧出したと伝えられ、志賀直哉の名作短編『城の崎にて』の舞台としても名高い文学の街です。川沿いの柳並木と風情ある太鼓橋、浴衣姿に下駄の音が響く温泉街には『一の湯』『御所の湯』など個性豊かな7つの外湯が点在。11月上旬の冬のズワイガニ漁解禁とともに、隣接する津居山港で日帰り水揚げされる最高級ブランド『青タグ津居山ガニ』を求めて全国から食通が集まります。"
+  },
+  "tottori_misasa_kaike_luxury": {
+    "title": "三朝温泉",
+    "query": "三朝温泉",
+    "label": "世界屈指の高濃度ラドンを含む奇跡の治癒泉・三朝温泉（三朝川沿いの湯治場と三徳山三仏寺）",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Misasa_onsen_kawaranoyu_202106.jpg/1280px-Misasa_onsen_kawaranoyu_202106.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "extract": "三朝温泉 は、鳥取県東伯郡三朝町にある温泉。日本百景。",
+    "detailHistory": "鳥取県東伯郡三朝町、三朝川の河畔に広がる開湯850年以上の歴史を誇る名湯。平安時代末期、源義朝の家臣・大久保左馬之祐が白狼を助けたことで妙見菩薩から温泉の場所を教わったという白狼伝説が残ります。世界有数の高濃度ラドンを含有する放射能泉で、『三たび朝を迎えると元気になる』と称される奇跡の湯治場。川沿いの共同浴場『株湯』や河原風呂をはじめ、古き良き木造旅館が情緒を醸し出します。初冬には鳥取県が誇る最高峰ブランド『五輝星』を含む鳥取松葉ガニや鳥取和牛オレイン55など贅沢な山陰の冬の味覚が揃います。"
+  },
+  "fukushima_aizu_ashinomaki_higashiyama": {
+    "title": "東山温泉",
+    "query": "東山温泉",
+    "label": "湯川の渓流沿いに湧く会津藩の奥座敷・東山温泉（竹久夢二や与謝野晶子も愛した歴史の湯）",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Higashiyama_Onsen_01.jpg/1280px-Higashiyama_Onsen_01.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "extract": "東山温泉（ひがしやまおんせん）とは、福島県会津若松市にある温泉。",
+    "detailHistory": "福島県会津若松市中心部から南東へ車でわずか10分、湯川の深い渓谷沿いに広がる開湯約1300年の名湯。天平年間に行基によって発見されたと伝えられ、江戸時代には会津藩の湯治場として歴代藩主や新選組副長・土方歳三、竹久夢二、与謝野晶子ら多くの歴史人が訪れました。冬には深い渓谷に深々と雪が降り積もり、中庭の雪景色に無数のろうそくが灯る幻想的な『雪見ろうそく』など冬ならではの幽玄な美が広がります。近隣の芦ノ牧温泉の大川渓谷絶景とともに、極上の会津馬刺しや福島牛、雪国仕込みの名酒が旅の夜を豊かに彩ります。"
+  }
+}
