@@ -314,6 +314,7 @@
 - [ハウステンボス「白銀の世界・光の街のクリスマス」と雲仙温泉！1300万球冬イルミネーションと湯煙地獄・霧氷名宿ガイド](https://croud-travel.pages.dev/posts/theme_4_huistenbosch): ホテルオークラＪＲハウステンボス（長崎県）
 - [万座温泉の標高1800m白銀乳白色秘湯と日本一の濃厚硫黄泉！満天の冬星空・パウダースノー雪見大露天風呂名宿ガイド](https://croud-travel.pages.dev/posts/theme_5_manza): 万座温泉　万座亭（群馬県）
 - [丹後・間人温泉の幻の「間人ガニ」と雪化粧の伊根の舟屋！日本三景・雪の天橋立飛龍観と極上寒ブリしゃぶしゃぶ名宿ガイド](https://croud-travel.pages.dev/posts/theme_2_tango): 窓に広がる夕日と海　美食を奏で１５０有余年　間人温泉　炭平（京都府）
+- [【長野県】歴史とレトロな街並みを巡る旅！城下町・宿場町と厳選宿3選](https://croud-travel.pages.dev/posts/1562): 松本駅から一番近い大浴場のある　ホテルニューステーション＜長野県＞（長野県）
 - [【愛媛】極上源泉と進化系サウナを堪能！たかのこのホテル滞在記](https://croud-travel.pages.dev/posts/140784): たかのこのホテル（愛媛県）
 - [大内宿の白銀茅葺き雪まつりと会津若松・東山温泉！鶴ヶ城の雪化粧と名物ねぎそば・極上会津馬刺しを味わう名宿ガイド](https://croud-travel.pages.dev/posts/aizu-higashiyama-onsen-ouchijuku-snow-tsurugajo-winter-guide): 会津東山温泉　月のあかり（福島県）
 - [阿寒湖の奇跡フロストフラワーと氷上フェスティバル！アイヌコタン雪灯りと源泉かけ流し雪見温泉・道東美味宿ガイド](https://croud-travel.pages.dev/posts/akan-lake-frost-flower-ice-festival-ainu-kotan-winter-guide): 阿寒湖温泉　あかん鶴雅別荘鄙の座（北海道）
@@ -358,4 +359,3 @@
 - [那須温泉：清水屋宿泊ルポ！鹿の湯源泉かけ流し白濁湯と絶品懐石膳](https://croud-travel.pages.dev/posts/109132): 那須湯本温泉　鹿の湯源泉かけ流しの宿　旅館　清水屋＜栃木県・那須郡＞（栃木県）
 - [沖縄：女子旅で巡る神秘の聖地と絶景映えスポット！至福の癒やし宿3選](https://croud-travel.pages.dev/posts/78094): ロワジールスパタワー那覇（沖縄県）
 - [大分県：別府鉄輪温泉 やすらぎの宿 由布宿泊ガイド！地獄めぐり徒歩圏の鉄輪温泉♪露天・内・アクセス＆魅力ルポ](https://croud-travel.pages.dev/posts/72895): 別府鉄輪温泉　やすらぎの宿　由布（大分県）
-- [長崎：洋館と和の情緒を巡るレトロ旅！歴史薫る街並み散策とおすすめ厳選宿3選](https://croud-travel.pages.dev/posts/184764): アパホテル〈長崎出島〉（長崎県）

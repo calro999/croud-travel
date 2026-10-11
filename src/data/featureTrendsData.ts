@@ -6,6 +6,36 @@ export interface TrendTopicItem {
 }
 
 export const FEATURE_TREND_TOPICS: TrendTopicItem[] = [
+  {
+    slug: 'winter-fukushima-iizaka-onsen-sabakoyu-enban-gyoza-fukushimagyu-stay',
+    title: "奥州三名湯・飯坂温泉の熱湯共同浴場と名物円盤餃子！福島・鯖湖湯めぐりと極上福島牛名宿5選",
+    desc: "45℃超えの熱気あふれる源泉共同浴場めぐり！パリパリ焼き立て名物円盤餃子、摺上川渓谷美ととろける福島牛すき焼き…",
+    badge: '11・12月特集'
+  },
+  {
+    slug: 'winter-miyagi-zao-fox-village-kamasaki-onsen-shiroishi-umen-sendaigyu-stay',
+    title: "冬毛モフモフの蔵王キツネ村と開湯600年鎌先温泉の薬湯！宮城・白石温麺と極上仙台牛名宿5選",
+    desc: "11〜12月限定モフモフ冬毛のキツネたち！奥羽の薬湯・鎌先温泉の木造数寄屋旅館、胃腸に優しい伝統白石温麺と最高峰仙台牛…",
+    badge: '11・12月特集'
+  },
+  {
+    slug: 'winter-oita-hita-onsen-mamedamachi-river-mist-hita-yakisoba-oita-wagyu-stay',
+    title: "水郷日田の初冬川霧と天領小京都・豆田町の白壁通り散策！大分・元祖日田焼きそばとおおいた和牛名宿5選",
+    desc: "三隈川を包む幽玄の川霧と美肌日田温泉！重伝建・豆田町の白壁町家巡り、カリカリ麺の元祖日田焼きそばと豊後牛会席…",
+    badge: '11・12月特集'
+  },
+  {
+    slug: 'winter-hyogo-tatsuno-murotsu-oyster-shinmaiko-sunset-aioi-onsen-stay',
+    title: "播磨灘の初冬の味覚・室津牡蠣解禁と小京都たつの白壁散策！兵庫・新舞子夕日と播磨灘絶景露天宿5選",
+    desc: "11月中旬解禁！加熱しても縮まない極上室津牡蠣フルコース。播磨の小京都・龍野城下町、新舞子海岸の黄金色干潟夕日…",
+    badge: '11・12月特集'
+  },
+  {
+    slug: 'winter-yamagata-onogawa-onsen-bihada-yonezawagyu-sukiyaki-mame-moyashi-stay',
+    title: "小野小町ゆかりの美肌硫黄泉と初冬の米沢牛すき焼き！山形・小野川温泉名物豆もやしラーメンと雪見露天宿5選",
+    desc: "毎分千L自噴のラジウム美肌温泉！冬の奇跡・温泉熱で育つ小野川豆もやしラーメン、最高峰米沢牛の濃厚すき焼きと初雪露天…",
+    badge: '11・12月特集'
+  },
             {
               slug: 'winter-mie-kumano-kodo-onigajo-owase-tai-kumanogyu-stay',
               title: "世界遺産熊野古道と鬼ヶ城の絶景！三重・熊野＆尾鷲・極上尾鷲真鯛と熊野牛名宿5選",

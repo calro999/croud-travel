@@ -33,6 +33,41 @@ export default function AllFeaturesAccordion() {
             </h4>
             <div className="flex flex-wrap gap-1.5 pt-1">
               <Link
+                href="/winter-fukushima-iizaka-onsen-sabakoyu-enban-gyoza-fukushimagyu-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-slate-700 bg-white hover:bg-teal-700 hover:text-white rounded-lg border border-slate-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="飯坂温泉鯖湖湯熱湯めぐり＆名物円盤餃子・福島牛名宿5選"
+              >
+                飯坂温泉熱湯＆円盤餃子・福島牛宿
+              </Link>
+              <Link
+                href="/winter-miyagi-zao-fox-village-kamasaki-onsen-shiroishi-umen-sendaigyu-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-slate-700 bg-white hover:bg-teal-700 hover:text-white rounded-lg border border-slate-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="冬毛モフモフ蔵王キツネ村＆鎌先温泉・白石温麺仙台牛名宿5選"
+              >
+                蔵王キツネ村＆鎌先温泉・仙台牛宿
+              </Link>
+              <Link
+                href="/winter-oita-hita-onsen-mamedamachi-river-mist-hita-yakisoba-oita-wagyu-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-slate-700 bg-white hover:bg-teal-700 hover:text-white rounded-lg border border-slate-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="日田温泉初冬川霧＆豆田町白壁散策・元祖日田焼きそば宿5選"
+              >
+                日田温泉川霧＆豆田町・日田焼きそば宿
+              </Link>
+              <Link
+                href="/winter-hyogo-tatsuno-murotsu-oyster-shinmaiko-sunset-aioi-onsen-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-slate-700 bg-white hover:bg-teal-700 hover:text-white rounded-lg border border-slate-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="室津牡蠣解禁＆播磨小京都たつの・新舞子夕日絶景露天宿5選"
+              >
+                室津牡蠣解禁＆龍野・新舞子絶景露天宿
+              </Link>
+              <Link
+                href="/winter-yamagata-onogawa-onsen-bihada-yonezawagyu-sukiyaki-mame-moyashi-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-slate-700 bg-white hover:bg-teal-700 hover:text-white rounded-lg border border-slate-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="小野川温泉美肌硫黄泉＆冬の豆もやしラーメン・米沢牛宿5選"
+              >
+                小野川温泉美肌湯＆豆もやし米沢牛宿
+              </Link>
+              <Link
                 href="/winter-hokkaido-tokachi-jewelry-ice-mall-onsen-sauna-stay"
                 className="px-2.5 py-1 text-[11px] font-semibold text-slate-700 bg-white hover:bg-teal-700 hover:text-white rounded-lg border border-slate-200/80 shadow-2xs transition truncate max-w-[200px]"
                 title="十勝ジュエリーアイス＆十勝川モール温泉・極上サウナ宿5選"

@@ -3,7 +3,7 @@ set -euo pipefail
 
 # ==========================================
 # 汎用リモートビルドスクリプト (Windows ゲーミングPC WSL2)
-# Windowsが未起動またはタイムアウトした場合は安全に終了
+# フリーズ防止: タイムアウト設定 & 非圧縮LAN高速同期
 # ==========================================
 REMOTE_HOST="${REMOTE_HOST:-192.168.11.16}"
 REMOTE_USER="${REMOTE_USER:-matta}"
@@ -16,7 +16,7 @@ REMOTE_DIR="${REMOTE_DIR:-~/build-workspace/$PROJECT_NAME}"
 BUILD_COMMAND="${BUILD_COMMAND:-${1:-npm run build-local}}"
 BUILD_OUTPUT_DIR="${BUILD_OUTPUT_DIR:-${2:-}}"
 
-# 出力先ディレクトリの自動判別（Next.js静的エクスポートならout）
+# 出力先ディレクトリの自動判別（Next.jsならoutまたは.next、Vite等ならdist）
 if [ -z "$BUILD_OUTPUT_DIR" ]; then
   if [ -d "out" ] || grep -q '"next build"' package.json 2>/dev/null; then
     if grep -q "output: 'export'" next.config.* 2>/dev/null || grep -q 'output: "export"' next.config.* 2>/dev/null; then
@@ -29,9 +29,7 @@ if [ -z "$BUILD_OUTPUT_DIR" ]; then
   fi
 fi
 
-# -------------------------------------------------------------
-# ゲーミングPC (Windows WSL2) の接続チェック (タイムアウト: 2秒)
-# -------------------------------------------------------------
+# ゲーミングPC の接続チェック (タイムアウト: 2秒)
 echo "==> [接続確認] Windows (ゲーミングPC) の接続状態をチェック中..."
 set +e
 nc -zv -G 2 "${REMOTE_HOST}" "${REMOTE_PORT}" > /dev/null 2>&1
@@ -47,7 +45,7 @@ if [ ${CONNECT_STATUS} -ne 0 ]; then
 fi
 
 echo "🟢 Windows ゲーミングPC を検知しました (12コア CPUを活用します)"
-SSH_CMD="ssh -i ${SSH_KEY} -p ${REMOTE_PORT} -o StrictHostKeyChecking=accept-new -o ConnectTimeout=5"
+SSH_CMD="ssh -i ${SSH_KEY} -p ${REMOTE_PORT} -o StrictHostKeyChecking=accept-new -o ConnectTimeout=5 -o ServerAliveInterval=15 -o ServerAliveCountMax=3"
 
 echo "==> [1/4] Windows側作業ディレクトリを準備中 ($PROJECT_NAME)..."
 ${SSH_CMD} "${REMOTE_USER}@${REMOTE_HOST}" "mkdir -p ${REMOTE_DIR}"
@@ -70,11 +68,9 @@ ${SSH_CMD} "${REMOTE_USER}@${REMOTE_HOST}" "bash -lc 'cd ${REMOTE_DIR} && if [ -
 
 echo "==> [4/4] 成果物 (${BUILD_OUTPUT_DIR}) をMacへ同期・回収中..."
 mkdir -p "./${BUILD_OUTPUT_DIR}"
-# 圧縮(-z)を外し、タイムアウト60秒を設定。高速LAN内で高速・安全に同期
 rsync -av --delete --timeout=60 \
   -e "${SSH_CMD}" \
   "${REMOTE_USER}@${REMOTE_HOST}:${REMOTE_DIR}/${BUILD_OUTPUT_DIR}/" \
   "./${BUILD_OUTPUT_DIR}/"
 
-# 注意: .next は巨大な中間キャッシュ（3GB超）のため回収不要。outのみ回収して完了。
 echo "==> [完了] リモートビルドが正常に完了し、Macへ成果物を回収しました！"
