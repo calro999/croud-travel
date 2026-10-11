@@ -7,6 +7,66 @@ export interface TrendTopicItem {
 
 export const FEATURE_TREND_TOPICS: TrendTopicItem[] = [
   {
+    slug: 'winter-mie-ago-bay-luxury-basara-shimanokaze-matsusaka-stay',
+    title: "英虞湾の夕景リアスと全室離れ露天風呂！三重・汀渚ばさら邸＆志摩観光ホテル・天然伊勢海老・松阪牛名宿5選",
+    desc: "伊勢志摩国立公園の英虞湾を望む至高のリゾート！『汀渚 ばさら邸』客室露天風呂と天然伊勢海老・A5等級松阪牛…",
+    badge: '高級・11・12月特集'
+  },
+  {
+    slug: 'winter-yamanashi-kawaguchiko-luxury-fufu-konansou-fuji-stay',
+    title: "冠雪富士を望む全室富士山ビュー温泉露天！山梨・ふふ河口湖＆うぶや・極上甲州牛名宿5選",
+    desc: "初冬の澄み渡る空気と雪化粧の富士山絶景！木々の温もりに抱かれるスモールラグジュアリー『ふふ 河口湖』…",
+    badge: '高級・11・12月特集'
+  },
+  {
+    slug: 'winter-kumamoto-kurokawa-luxury-takefue-hoshinoya-akaushi-stay',
+    title: "阿蘇外輪山と湯あかり幻想美に抱かれる奥座敷！熊本・深山山荘＆山あいの宿山みず木・極上阿蘇あか牛名宿5選",
+    desc: "冬の夜を彩る竹灯籠『湯あかり』と渓流露天風呂！黒川温泉の離れ宿『深山山荘』、自家源泉掛け流しと阿蘇あか牛ステーキ…",
+    badge: '高級・11・12月特集'
+  },
+  {
+    slug: 'winter-kyoto-tango-taizagani-luxury-sumihei-amadori-matsuba-stay',
+    title: "幻の間人ガニ解禁と日本海オーシャンビュー客室露天！京都丹後・間人温泉炭平＆夕日ヶ浦・活松葉ガニ名宿5選",
+    desc: "11月解禁の緑タグ『幻の間人ガニ』！全室オーシャンビュー客室露天風呂の老舗旅館『間人温泉 炭平』…",
+    badge: '高級・11・12月特集'
+  },
+  {
+    slug: 'winter-kagoshima-kirishima-myoken-luxury-gajin-ishiharaso-kurobuta-stay',
+    title: "天降川の渓流野天風呂と源泉自噴炭酸泉！鹿児島・妙見石原荘＆忘れの里雅叙苑・極上黒毛和牛名宿5選",
+    desc: "霧島連山の麓、天降川渓流沿いに自噴する名湯！日本屈指の温泉宿『妙見石原荘』、源泉掛け流し野天風呂と鹿児島黒牛…",
+    badge: '高級・11・12月特集'
+  },
+  {
+    slug: 'winter-mie-ago-bay-luxury-basara-shimanokaze-matsusaka-stay',
+    title: "英虞湾の夕景リアス美と全室離れ露天スイート！三重・志摩ばさら邸＆ベイスイート・伊勢海老と松阪牛名宿5選",
+    desc: "夕日に染まる英虞湾リアス海岸！4000坪の離れ隠れ宿『ばさら邸』、伊勢志摩サミット舞台のベイスイートと活伊勢海老・A5松阪牛…",
+    badge: '最高級・11・12月特集'
+  },
+  {
+    slug: 'winter-yamanashi-kawaguchiko-luxury-fufu-konansou-fuji-stay',
+    title: "雄大な冠雪富士を客室露天から独占！山梨・ふふ河口湖＆湖南荘・逆さ富士と極上甲州牛懐石名宿5選",
+    desc: "空気が澄み渡る初冬の富士山ビュー！全室バイオエタノール暖炉と自家源泉露天『ふふ河口湖』、屋上足湯と甲州牛ステーキ…",
+    badge: '最高級・11・12月特集'
+  },
+  {
+    slug: 'winter-kumamoto-kurokawa-luxury-takefue-hoshinoya-akaushi-stay',
+    title: "幽玄な渓谷と湯煙に抱かれる全室離れ極上宿！熊本・黒川温泉深山山荘＆山みず木・阿蘇あか牛名宿5選",
+    desc: "冬の風物詩「湯あかり」と静寂の阿蘇外輪山！山みず木別邸『深山山荘』、自家源泉掛け流し離れ露天風呂と阿蘇あか牛炭火焼き…",
+    badge: '最高級・11・12月特集'
+  },
+  {
+    slug: 'winter-kyoto-tango-taizagani-luxury-sumihei-amadori-matsuba-stay',
+    title: "幻のブランド蟹・間人ガニと日本海一望露天スイート！京都丹後・創業明治名門「炭平」＆極上松葉ガニ名宿5選",
+    desc: "11月6日解禁の日帰り操業「幻の間人ガニ」！全室オーシャンビューと6つの貸切露天『間人温泉 炭平』、極上活蟹フルコース…",
+    badge: '最高級・11・12月特集'
+  },
+  {
+    slug: 'winter-kagoshima-kirishima-myoken-luxury-gajin-ishiharaso-kurobuta-stay',
+    title: "天降川の自噴炭酸泉と全室離れ露天リゾート！鹿児島・妙見石原荘＆きりしま悠久の宿一心・黒毛和牛名宿5選",
+    desc: "川床から自噴する奇跡の炭酸水素塩泉！全国屈指の『妙見石原荘』、広大な敷地にわずか7棟の離れ『一心』と日本一鹿児島黒牛…",
+    badge: '最高級・11・12月特集'
+  },
+  {
     slug: 'winter-hokkaido-shikotsuko-luxury-aonoza-suizantei-shiraogyu-stay',
     title: "支笏湖ブルーの初冬静寂と全室温泉露天スイート！北海道・碧の座＆翠山亭・極上白老牛名宿5選",
     desc: "水質日本一のカルデラ湖！鶴雅最高峰『碧の座』オールインクルーシブ、全室温泉露天スイートと白老牛ステーキ…",

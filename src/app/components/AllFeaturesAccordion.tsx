@@ -29,9 +29,44 @@ export default function AllFeaturesAccordion() {
           <div className="space-y-2">
             <h4 className="text-xs font-black text-slate-800 flex items-center gap-1.5 pb-1 border-b border-slate-200">
               <span>❄️</span>
-              <span>冬・新春初詣・雪見露天・旬のカニ特集 (443選)</span>
+              <span>冬・新春初詣・雪見露天・旬のカニ特集 (448選)</span>
             </h4>
             <div className="flex flex-wrap gap-1.5 pt-1">
+              <Link
+                href="/winter-mie-ago-bay-luxury-basara-shimanokaze-matsusaka-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-slate-700 bg-white hover:bg-teal-700 hover:text-white rounded-lg border border-slate-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="英虞湾の夕景リアスと全室離れ露天風呂！三重・汀渚ばさら邸＆志摩観光ホテル・天然伊勢海老・松阪牛名宿5選"
+              >
+                志摩賢島ばさら邸＆伊勢海老松阪牛宿
+              </Link>
+              <Link
+                href="/winter-yamanashi-kawaguchiko-luxury-fufu-konansou-fuji-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-slate-700 bg-white hover:bg-teal-700 hover:text-white rounded-lg border border-slate-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="冠雪富士を望む全室富士山ビュー温泉露天！山梨・ふふ河口湖＆うぶや・極上甲州牛名宿5選"
+              >
+                富士河口湖ふふ＆富士山ビュー露天宿
+              </Link>
+              <Link
+                href="/winter-kumamoto-kurokawa-luxury-takefue-hoshinoya-akaushi-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-slate-700 bg-white hover:bg-teal-700 hover:text-white rounded-lg border border-slate-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="阿蘇外輪山と湯あかり幻想美に抱かれる奥座敷！熊本・深山山荘＆山あいの宿山みず木・極上阿蘇あか牛名宿5選"
+              >
+                黒川温泉深山山荘＆阿蘇あか牛離れ宿
+              </Link>
+              <Link
+                href="/winter-kyoto-tango-taizagani-luxury-sumihei-amadori-matsuba-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-slate-700 bg-white hover:bg-teal-700 hover:text-white rounded-lg border border-slate-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="幻の間人ガニ解禁と日本海オーシャンビュー客室露天！京都丹後・間人温泉炭平＆夕日ヶ浦・活松葉ガニ名宿5選"
+              >
+                丹後間人ガニ炭平＆日本海絶景露天宿
+              </Link>
+              <Link
+                href="/winter-kagoshima-kirishima-myoken-luxury-gajin-ishiharaso-kurobuta-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-slate-700 bg-white hover:bg-teal-700 hover:text-white rounded-lg border border-slate-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="天降川の渓流野天風呂と源泉自噴炭酸泉！鹿児島・妙見石原荘＆忘れの里雅叙苑・極上黒毛和牛名宿5選"
+              >
+                霧島妙見石原荘＆渓流野天炭酸泉宿
+              </Link>
               <Link
                 href="/winter-hokkaido-shikotsuko-luxury-aonoza-suizantei-shiraogyu-stay"
                 className="px-2.5 py-1 text-[11px] font-semibold text-slate-700 bg-white hover:bg-teal-700 hover:text-white rounded-lg border border-slate-200/80 shadow-2xs transition truncate max-w-[200px]"
