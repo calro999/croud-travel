@@ -169,9 +169,10 @@ export default function FeaturePage() {
 
             <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold leading-tight">「光の道夕景と日本一の大注連縄・宮地嶽神社新春初詣」2026-2027年冬の福岡・福津＆玄界灘！天然とらふぐと博多和牛名宿5選</h1>
 
-            <p className="text-stone-300 text-xs sm:text-sm leading-relaxed max-w-3xl pt-2">
-              福岡市街と北九州市の中間に位置し、玄界灘の白波と豊かな松林が広がる福岡県福津市および宗像市。ここに鎮座する「宮地嶽神社」は、約1700年の歴史を誇り、息長足姫命（神功皇后）を祀る全国の宮地嶽神社の総本宮です。境内正面に掲げられた大注連縄は直径2.6m・長さ11m・重さ3tにおよび、名実ともに日本一の威容。毎年10月下旬と2月下旬には神社石段から玄界灘の相島へと沈む夕日が一直線の黄金の参道を照らし出す奇跡の絶景「光の道」で世界的な脚光を浴びましたが、11月から1月の冬期も、凛とした澄んだ冬空に夕日が沈む感動的な夕景と、毎年200万人以上の参拝者が押し寄せる九州屈指の新春開運初詣で賑わいます。さらに、玄界灘の荒波に揉まれて身が締まり、冬に脂の乗りが最高潮を迎える「天然とらふぐ」の薄造り（てっさ）やてっちり鍋、透き通る活ヤリイカ、福岡の銘柄牛「博多和牛」や地元宗像の「むなかた牛」の極上会席。海と祈りの聖地で、身体を温める展望風呂や離れの隠れ家に憩う極上の冬旅をお届けします。
-            </p>
+            <div className="space-y-3 pt-3 max-w-3xl text-stone-200 text-sm sm:text-base leading-relaxed sm:leading-loose">
+              <p>福岡市街と北九州市の中間に位置し、玄界灘の白波と豊かな松林が広がる福岡県福津市および宗像市。ここに鎮座する「宮地嶽神社」は、約1700年の歴史を誇り、息長足姫命（神功皇后）を祀る全国の宮地嶽神社の総本宮です。境内正面に掲げられた大注連縄は直径2.6m・長さ11m・重さ3tにおよび、名実ともに日本一の威容。</p>
+              <p>毎年10月下旬と2月下旬には神社石段から玄界灘の相島へと沈む夕日が一直線の黄金の参道を照らし出す奇跡の絶景「光の道」で世界的な脚光を浴びましたが、11月から1月の冬期も、凛とした澄んだ冬空に夕日が沈む感動的な夕景と、毎年200万人以上の参拝者が押し寄せる九州屈指の新春開運初詣で賑わいます。さらに、玄界灘の荒波に揉まれて身が締まり、冬に脂の乗りが最高潮を迎える「天然とらふぐ」の薄造り（てっさ）やてっちり鍋、透き通る活ヤリイカ、福岡の銘柄牛「博多和牛」や地元宗像の「むなかた牛」の極上会席。海と祈りの聖地で、身体を温める展望風呂や離れの隠れ家に憩う極上の冬旅をお届けします。</p>
+            </div>
           </div>
         </header>
 
@@ -245,16 +246,47 @@ export default function FeaturePage() {
                 </h2>
               </div>
             </div>
-            <div className="text-xs sm:text-sm text-stone-700 leading-relaxed whitespace-pre-line space-y-2">
-              【エリアへのアクセス】
-・電車・JR：JR鹿児島本線「福間駅」下車。福間駅みやじ口より西鉄バス「宮地嶽神社前」行きで約5〜10分（徒歩約25分）。博多駅から福間駅まで快速で約25分、小倉駅から快速で約40分とアクセス至便。
-・車・マイカー：九州自動車道「古賀IC」または「若宮IC」より国道3号・県道経由で宮地嶽神社まで約15〜20分。福岡空港・博多駅周辺から車で約45分。
-・宗像大社・玄海エリアへの周遊：宮地嶽神社から世界遺産「宗像大社辺津宮」へは車で約15分。海岸沿いの宿へも車で15〜20分で移動可能。
-
-【見頃・気候・おすすめの服装】
-・ベストシーズン：11月中旬〜1月下旬（冬の玄界灘の夕景、新春開運初詣、とらふぐ・寒ブリの最盛期）。
-・気温の目安：玄界灘沿岸部は対馬暖流の影響を受けるものの、冬期は北西の季節風が強く吹き付け、体感温度は5℃前後まで冷え込みます。日中は8〜12℃前後。
-・服装のポイント：海岸沿いや神社境内は海風が吹き抜けるため、防風性の高いダウンジャケットやコート、マフラー、手袋が必須。奥の院巡り（八社巡り）や参道の石段を歩くため、歩きやすいスニーカーでお出かけください。
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
+              <div className="bg-stone-50 rounded-xl p-4 sm:p-5 border border-stone-200/80 space-y-3">
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2">
+                  <span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
+                  <span>エリアへのアクセス</span>
+                </h4>
+                <ul className="space-y-2 text-xs sm:text-sm text-stone-600 leading-relaxed">
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">電車・JR：</strong>JR鹿児島本線「福間駅」下車。福間駅みやじ口より西鉄バス「宮地嶽神社前」行きで約5〜10分（徒歩約25分）。博多駅から福間駅まで快速で約25分、小倉駅から快速で約40分とアクセス至便。</span>
+                  </li>
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">車・マイカー：</strong>九州自動車道「古賀IC」または「若宮IC」より国道3号・県道経由で宮地嶽神社まで約15〜20分。福岡空港・博多駅周辺から車で約45分。</span>
+                  </li>
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">宗像大社・玄海エリアへの周遊：</strong>宮地嶽神社から世界遺産「宗像大社辺津宮」へは車で約15分。海岸沿いの宿へも車で15〜20分で移動可能。</span>
+                  </li>
+                </ul>
+              </div>
+              <div className="bg-stone-50 rounded-xl p-4 sm:p-5 border border-stone-200/80 space-y-3">
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2">
+                  <span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
+                  <span>見頃・気候・おすすめの服装</span>
+                </h4>
+                <ul className="space-y-2 text-xs sm:text-sm text-stone-600 leading-relaxed">
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">ベストシーズン：</strong>11月中旬〜1月下旬（冬の玄界灘の夕景、新春開運初詣、とらふぐ・寒ブリの最盛期）。</span>
+                  </li>
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">気温の目安：</strong>玄界灘沿岸部は対馬暖流の影響を受けるものの、冬期は北西の季節風が強く吹き付け、体感温度は5℃前後まで冷え込みます。日中は8〜12℃前後。</span>
+                  </li>
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">服装のポイント：</strong>海岸沿いや神社境内は海風が吹き抜けるため、防風性の高いダウンジャケットやコート、マフラー、手袋が必須。奥の院巡り（八社巡り）や参道の石段を歩くため、歩きやすいスニーカーでお出かけください。</span>
+                  </li>
+                </ul>
+              </div>
             </div>
           </div>
         </section>
@@ -346,16 +378,17 @@ export default function FeaturePage() {
                         御宿　はなわらび
                       </a>
                     </h3>
-                    <p className="text-xs text-stone-600 leading-relaxed">
-                      宗像の豊かな自然に包まれた約3,000坪もの日本庭園の中に、静かに佇む数寄屋造りの高級隠れ家旅館。四季折々の植栽が手入れされた庭園を眺めながら過ごす客室は、都会の喧騒を完全に忘れさせてくれる極上の癒やし空間です。自慢の料理は、毎朝玄界灘から水揚げされるピチピチの活魚や冬の天然とらふぐ、甘みが際立つイカの姿造りなど、素材の力を最大限に引き出した華やかな日本会席。大浴場からは木々の緑を眺められ、新春の初詣帰りに心静かに寛ぐ大人の冬籠もりに相応しい名宿です。
-                    </p>
+                    <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
+                      <p>宗像の豊かな自然に包まれた約3,000坪もの日本庭園の中に、静かに佇む数寄屋造りの高級隠れ家旅館。四季折々の植栽が手入れされた庭園を眺めながら過ごす客室は、都会の喧騒を完全に忘れさせてくれる極上の癒やし空間です。</p>
+                      <p>自慢の料理は、毎朝玄界灘から水揚げされるピチピチの活魚や冬の天然とらふぐ、甘みが際立つイカの姿造りなど、素材の力を最大限に引き出した華やかな日本会席。大浴場からは木々の緑を眺められ、新春の初詣帰りに心静かに寛ぐ大人の冬籠もりに相応しい名宿です。</p>
+                    </div>
                     <ul className="text-xs text-stone-700 space-y-1 pt-1">
                       <li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>約3,000坪の広大な敷地にわずか数室の贅沢な離れ和室</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>玄界灘直送のとらふぐ・ヤリイカ・地魚を贅沢に盛り込んだ極上会席</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>庭園の緑を望む大浴場と季節の薬湯で心身を解きほぐす静寂のひととき</span></li>
                     </ul>
                   </div>
 
                   
-                <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
+                <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
                   <p className="leading-relaxed">{"「スタッフの気配りと食事が最高なお宿こちらのお宿は、とにかくスタッフさんがみなさん感じが良く、気配りができる方ばかりで感動しました。愛犬と一緒に泊まったのですが、愛犬のことも気にかけてくれ、お声…。」"}</p>
                 </div>
@@ -411,16 +444,17 @@ export default function FeaturePage() {
                         ぶどうの樹ふくつ海岸通り　光の海ホテル＆リゾート　波の音（旧：グランピング福岡）
                       </a>
                     </h3>
-                    <p className="text-xs text-stone-600 leading-relaxed">
-                      福津海岸沿いに位置し、目の前に果てしなく広がる玄界灘の絶景を望むラグジュアリーなビーチリゾートホテル。すべての客室が海に面しており、夕暮れ時には空と海が茜色に染まりゆく感動的なサンセットをプライベートなテラスから一望できます。ディナーは「ぶどうの樹」がプロデュースする本格鮨割烹にて、近海で獲れた冬のとらふぐや脂の乗った寒ブリ、極上の博多和牛を贅沢に使用した創作コースを堪能。潮騒をBGMに眠りにつく、上質でロマンチックな冬のリゾートステイが叶います。
-                    </p>
+                    <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
+                      <p>福津海岸沿いに位置し、目の前に果てしなく広がる玄界灘の絶景を望むラグジュアリーなビーチリゾートホテル。すべての客室が海に面しており、夕暮れ時には空と海が茜色に染まりゆく感動的なサンセットをプライベートなテラスから一望できます。</p>
+                      <p>ディナーは「ぶどうの樹」がプロデュースする本格鮨割烹にて、近海で獲れた冬のとらふぐや脂の乗った寒ブリ、極上の博多和牛を贅沢に使用した創作コースを堪能。潮騒をBGMに眠りにつく、上質でロマンチックな冬のリゾートステイが叶います。</p>
+                    </div>
                     <ul className="text-xs text-stone-700 space-y-1 pt-1">
                       <li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>全室オーシャンフロント！テラスから玄界灘の絶景夕日と潮騒を独占</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>ぶどうの樹直営の鮨割烹で味わう冬の極上とらふぐと玄界灘の鮮魚</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>波の音に包まれる上質なデザイナーズ空間と温かなホスピタリティ</span></li>
                     </ul>
                   </div>
 
                   
-                <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
+                <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
                   <p className="leading-relaxed">{"「砂遊び 貝拾い ブランコとても楽しんでいました。上がり口に水道があり足やおも。」"}</p>
                 </div>
@@ -476,9 +510,10 @@ export default function FeaturePage() {
                         お寺で過ごすやすらぎのひととき　明石寺　大日屋旅館
                       </a>
                     </h3>
-                    <p className="text-xs text-stone-600 leading-relaxed">
-                      宗像の歴史ある名刹・明石寺の境内に佇み、まるでお寺の離れに泊まるかのような静謐な時間を過ごせる人気の温泉旅館。日常の喧騒から離れ、澄んだ空気の中で自分自身と向き合う特別なひとときを提供します。夕食には宗像の豊かな海と大地の恵みをふんだんに使った手作りの会席料理が並び、素材本来の滋味深い味わいが心と身体に優しく染み渡ります。朝には静かな境内を散策し、宮地嶽神社や宗像大社への新春参拝と合わせることで、心身ともに清められる極上の開運旅が実現します。
-                    </p>
+                    <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
+                      <p>宗像の歴史ある名刹・明石寺の境内に佇み、まるでお寺の離れに泊まるかのような静謐な時間を過ごせる人気の温泉旅館。日常の喧騒から離れ、澄んだ空気の中で自分自身と向き合う特別なひとときを提供します。</p>
+                      <p>夕食には宗像の豊かな海と大地の恵みをふんだんに使った手作りの会席料理が並び、素材本来の滋味深い味わいが心と身体に優しく染み渡ります。朝には静かな境内を散策し、宮地嶽神社や宗像大社への新春参拝と合わせることで、心身ともに清められる極上の開運旅が実現します。</p>
+                    </div>
                     <ul className="text-xs text-stone-700 space-y-1 pt-1">
                       <li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>弘法大師ゆかりの寺院・明石寺に隣接する心洗われる宿坊ステイ</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>地元の旬野菜や玄界灘の海の幸を丁寧に仕立てた手作り精進・和食会席</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>清潔で落ち着きのある和空間と温かいおもてなしでリピーター多数</span></li>
                     </ul>
@@ -536,16 +571,17 @@ export default function FeaturePage() {
                         玄海旅館
                       </a>
                     </h3>
-                    <p className="text-xs text-stone-600 leading-relaxed">
-                      全国屈指の水揚げを誇る鐘崎漁港のすぐ近く、玄界灘の荒波を見下ろす高台に建つ老舗料理旅館。宿の最大の誇りは、長年培われた確かな目利きと職人技で振る舞われる冬の魚介料理。特に冬期限定の「鐘崎天然とらふぐ会席」は、大皿に美しく引かれた透き通るてっさ、ふっくら香ばしい唐揚げ、旨味たっぷりのてっちり鍋と雑炊まで、本場の味を心ゆくまで堪能できます。海を見渡す展望風呂で温まった後は、波音を聞きながら贅沢な美食の余韻に浸れます。
-                    </p>
+                    <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
+                      <p>全国屈指の水揚げを誇る鐘崎漁港のすぐ近く、玄界灘の荒波を見下ろす高台に建つ老舗料理旅館。宿の最大の誇りは、長年培われた確かな目利きと職人技で振る舞われる冬の魚介料理。</p>
+                      <p>特に冬期限定の「鐘崎天然とらふぐ会席」は、大皿に美しく引かれた透き通るてっさ、ふっくら香ばしい唐揚げ、旨味たっぷりのてっちり鍋と雑炊まで、本場の味を心ゆくまで堪能できます。海を見渡す展望風呂で温まった後は、波音を聞きながら贅沢な美食の余韻に浸れます。</p>
+                    </div>
                     <ul className="text-xs text-stone-700 space-y-1 pt-1">
                       <li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>客室から雄大な玄界灘をパノラマで望むオーシャンビューの好立地</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>鐘崎漁港直送！冬の王様「天然とらふぐ」のフルコースと地魚づくし</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>海を眺める展望大浴場と創業以来受け継がれる老舗の真心</span></li>
                     </ul>
                   </div>
 
                   
-                <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
+                <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
                   <p className="leading-relaxed">{"「夕食は豪華で部屋は木の香りが心地よい夕食は素晴らしかったです少食の方は食べきれない?部屋は新しく、木の香りがしました^o^本館からお風呂や部屋は屋外を歩くので、雨除けがあると尚いい… つづきはこち。」"}</p>
                 </div>
@@ -601,9 +637,10 @@ export default function FeaturePage() {
                         桝屋旅館
                       </a>
                     </h3>
-                    <p className="text-xs text-stone-600 leading-relaxed">
-                      世界遺産「神宿る島」宗像・沖ノ島と関連遺産群の玄関口である神湊港のすぐそばに佇む、気取らない温かな港町の和風旅館。宮地嶽神社や宗像大社への参拝はもちろん、大島への渡航拠点としても抜群のロケーションを誇ります。家族経営ならではの細やかな気配りと清潔な客室が旅人の心をほぐします。夕食にはその日に水揚げされたピチピチの近海魚のお造りや煮付け、冬の鍋料理が並び、港町ならではの圧倒的な鮮度とボリュームで大満足の滞在を約束してくれます。
-                    </p>
+                    <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
+                      <p>世界遺産「神宿る島」宗像・沖ノ島と関連遺産群の玄関口である神湊港のすぐそばに佇む、気取らない温かな港町の和風旅館。宮地嶽神社や宗像大社への参拝はもちろん、大島への渡航拠点としても抜群のロケーションを誇ります。</p>
+                      <p>家族経営ならではの細やかな気配りと清潔な客室が旅人の心をほぐします。夕食にはその日に水揚げされたピチピチの近海魚のお造りや煮付け、冬の鍋料理が並び、港町ならではの圧倒的な鮮度とボリュームで大満足の滞在を約束してくれます。</p>
+                    </div>
                     <ul className="text-xs text-stone-700 space-y-1 pt-1">
                       <li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>世界遺産・宗像大社中津宮のある大島行きフェリー乗り場（神湊港）至近</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>港町ならではの鮮度抜群の地魚刺身盛り合わせと郷土料理</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>アットホームで心温まるもてなしとコストパフォーマンス抜群の宿泊プラン</span></li>
                     </ul>

@@ -169,9 +169,10 @@ export default function FeaturePage() {
 
             <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold leading-tight">「日本海魚のアメ横・寺泊冬のカニ市場と商売繁盛高龍神社」2026-2027年冬の新潟・寺泊＆長岡！とろみ美肌湯と越後牛名宿5選</h1>
 
-            <p className="text-stone-300 text-xs sm:text-sm leading-relaxed max-w-3xl pt-2">
-              日本海の雄大な荒波を眼前に臨む新潟県長岡市寺泊。国道402号沿いに鮮魚店や海産物問屋がずらりと軒を連ねる「寺泊魚の市場通り（通称・魚のアメ横）」は、冬になると一年で最も熱気にあふれる黄金期を迎えます。11月上旬に解禁された本ズワイガニや紅ズワイガニ、日本海の荒波で揉まれた極上の寒ブリ、甘みたっぷりの南蛮エビが店頭に山積みされ、店先で香ばしく焼かれるイカやホタテの浜焼きの煙が食欲を刺激。そして長岡の山懐に分け入ると、龍神伝説が息づく商売繁盛の奇跡の古社「高龍神社（こうりゅうじんじゃ）」が鎮座。全国の経営者や起業家が名刺を奉納しに訪れる新春初詣の聖地です。その門前に湧くのが、長岡の奥座敷「蓬平温泉（よもぎひらおんせん）」。肌にまとわりつくような驚くほどのとろみを持つ強アルカリ性ナトリウム-炭酸水素塩泉は、まさに天然の化粧水そのもの。雪見露天風呂に浸かり、芳醇な越後牛ステーキと新潟が誇る銘酒「久保田」「越乃寒梅」で乾杯する、贅沢極まる越後の冬旅へと誘います。
-            </p>
+            <div className="space-y-3 pt-3 max-w-3xl text-stone-200 text-sm sm:text-base leading-relaxed sm:leading-loose">
+              <p>日本海の雄大な荒波を眼前に臨む新潟県長岡市寺泊。国道402号沿いに鮮魚店や海産物問屋がずらりと軒を連ねる「寺泊魚の市場通り（通称・魚のアメ横）」は、冬になると一年で最も熱気にあふれる黄金期を迎えます。11月上旬に解禁された本ズワイガニや紅ズワイガニ、日本海の荒波で揉まれた極上の寒ブリ、甘みたっぷりの南蛮エビが店頭に山積みされ、店先で香ばしく焼かれるイカやホタテの浜焼きの煙が食欲を刺激。そして長岡の山懐に分け入ると、龍神伝説が息づく商売繁盛の奇跡の古社「高龍神社（こうりゅうじんじゃ）」が鎮座。</p>
+              <p>全国の経営者や起業家が名刺を奉納しに訪れる新春初詣の聖地です。その門前に湧くのが、長岡の奥座敷「蓬平温泉（よもぎひらおんせん）」。肌にまとわりつくような驚くほどのとろみを持つ強アルカリ性ナトリウム-炭酸水素塩泉は、まさに天然の化粧水そのもの。雪見露天風呂に浸かり、芳醇な越後牛ステーキと新潟が誇る銘酒「久保田」「越乃寒梅」で乾杯する、贅沢極まる越後の冬旅へと誘います。</p>
+            </div>
           </div>
         </header>
 
@@ -245,16 +246,47 @@ export default function FeaturePage() {
                 </h2>
               </div>
             </div>
-            <div className="text-xs sm:text-sm text-stone-700 leading-relaxed whitespace-pre-line space-y-2">
-              【エリアへのアクセス】
-・電車・新幹線：上越新幹線「長岡駅」下車（東京駅から最速約1時間15分）。長岡駅から寺泊までは越後交通バスで約60分（車・レンタカーで約40分）。蓬平温泉・高龍神社へは長岡駅東口より路線バスまたは宿の送迎車で約25〜30分。
-・車・マイカー：関越自動車道・北陸自動車道「長岡IC」より寺泊まで約40分。「長岡南越路スマートIC」より蓬平温泉まで約20分。
-・寺泊〜蓬平温泉周遊：寺泊から蓬平温泉へは車で約50分。日本海の海の幸を堪能した後に山あいの秘湯へ向かう冬のゴールデンルートです。
-
-【見頃・気候・おすすめの服装】
-・ベストシーズン：11月中旬〜1月下旬（冬カニ・寒ブリの最盛期、高龍神社の新春初詣、蓬平温泉の雪見風呂）。
-・気温の目安：日本海沿岸の寺泊は風が強く体感温度が氷点下近くまで下がります。山間部の蓬平温泉は豪雪地帯となり、日中でも0〜3℃、夜間は氷点下に達します。
-・服装のポイント：防寒・防風・防水を兼ね備えたしっかりとしたアウター、長靴やスノーブーツ、手袋、マフラーが必須。高龍神社の急な階段（約118段）や雪道を登るため、足元は滑り止め付きの靴をご用意ください。お車の場合はスタッドレスタイヤの装着が不可欠です。
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
+              <div className="bg-stone-50 rounded-xl p-4 sm:p-5 border border-stone-200/80 space-y-3">
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2">
+                  <span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
+                  <span>エリアへのアクセス</span>
+                </h4>
+                <ul className="space-y-2 text-xs sm:text-sm text-stone-600 leading-relaxed">
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">電車・新幹線：</strong>上越新幹線「長岡駅」下車（東京駅から最速約1時間15分）。長岡駅から寺泊までは越後交通バスで約60分（車・レンタカーで約40分）。蓬平温泉・高龍神社へは長岡駅東口より路線バスまたは宿の送迎車で約25〜30分。</span>
+                  </li>
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">車・マイカー：</strong>関越自動車道・北陸自動車道「長岡IC」より寺泊まで約40分。「長岡南越路スマートIC」より蓬平温泉まで約20分。</span>
+                  </li>
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">寺泊〜蓬平温泉周遊：</strong>寺泊から蓬平温泉へは車で約50分。日本海の海の幸を堪能した後に山あいの秘湯へ向かう冬のゴールデンルートです。</span>
+                  </li>
+                </ul>
+              </div>
+              <div className="bg-stone-50 rounded-xl p-4 sm:p-5 border border-stone-200/80 space-y-3">
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2">
+                  <span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
+                  <span>見頃・気候・おすすめの服装</span>
+                </h4>
+                <ul className="space-y-2 text-xs sm:text-sm text-stone-600 leading-relaxed">
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">ベストシーズン：</strong>11月中旬〜1月下旬（冬カニ・寒ブリの最盛期、高龍神社の新春初詣、蓬平温泉の雪見風呂）。</span>
+                  </li>
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">気温の目安：</strong>日本海沿岸の寺泊は風が強く体感温度が氷点下近くまで下がります。山間部の蓬平温泉は豪雪地帯となり、日中でも0〜3℃、夜間は氷点下に達します。</span>
+                  </li>
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">服装のポイント：</strong>防寒・防風・防水を兼ね備えたしっかりとしたアウター、長靴やスノーブーツ、手袋、マフラーが必須。高龍神社の急な階段（約118段）や雪道を登るため、足元は滑り止め付きの靴をご用意ください。お車の場合はスタッドレスタイヤの装着が不可欠です。</span>
+                  </li>
+                </ul>
+              </div>
             </div>
           </div>
         </section>
@@ -346,16 +378,17 @@ export default function FeaturePage() {
                         よもぎひら温泉　和泉屋
                       </a>
                     </h3>
-                    <p className="text-xs text-stone-600 leading-relaxed">
-                      長岡の奥座敷・蓬平温泉を代表する屈指の高級和風旅館。館内にはそれぞれ趣の異なる三つの大浴場があり、時間帯によって男女入れ替えで多彩な湯巡りが楽しめます。雪化粧した山肌を眺めながら浸かる露天風呂はまさに極楽の心地よさ。とろりとした美肌泉がお肌をしっとりと包み込みます。夕食には新潟が誇るブランド牛「越後牛」をメインに、寺泊直送の新鮮な海の幸や雪国の滋味豊かな郷土料理が美しく並び、全国の温泉通から絶大な支持を集めています。
-                    </p>
+                    <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
+                      <p>長岡の奥座敷・蓬平温泉を代表する屈指の高級和風旅館。館内にはそれぞれ趣の異なる三つの大浴場があり、時間帯によって男女入れ替えで多彩な湯巡りが楽しめます。雪化粧した山肌を眺めながら浸かる露天風呂はまさに極楽の心地よさ。</p>
+                      <p>とろりとした美肌泉がお肌をしっとりと包み込みます。夕食には新潟が誇るブランド牛「越後牛」をメインに、寺泊直送の新鮮な海の幸や雪国の滋味豊かな郷土料理が美しく並び、全国の温泉通から絶大な支持を集めています。</p>
+                    </div>
                     <ul className="text-xs text-stone-700 space-y-1 pt-1">
                       <li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>趣の異なる三つの大浴場と野趣豊かな雪見露天風呂の湯巡り</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>強いつるつる感・とろみ感を誇る自家源泉「よもぎひら温泉」美肌湯</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>越後牛ステーキと日本海の鮮魚・山菜を盛り込んだ豪華会席ディナー</span></li>
                     </ul>
                   </div>
 
                   
-                <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
+                <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
                   <p className="leading-relaxed">{"「大満足ご飯も美味しくお酒も美味しく温泉でのんびりできて、満喫した!って感じです。ご飯を残してしまうのが申し訳ないので少食プラン作って欲しいです。つづ。」"}</p>
                 </div>
@@ -411,16 +444,17 @@ export default function FeaturePage() {
                         寺泊岬温泉　ホテル飛鳥
                       </a>
                     </h3>
-                    <p className="text-xs text-stone-600 leading-relaxed">
-                      寺泊の海岸線を見下ろす高台に建ち、館内のいたるところから壮大な日本海の海景色を望む絶景温泉ホテル。冬の澄んだ日には遠く佐渡島までくっきりと見渡せます。夕食は寺泊港から直接仕入れる新鮮そのものの海の幸。冬の本ズワイガニの甲羅盛りやお造り、脂が乗った寒ブリのしゃぶしゃぶなど、海の恵みを存分に味わい尽くすプランが大人気。潮風を感じながら浸かる露天風呂も格別で、波の音とともに贅沢な時間を過ごせます。
-                    </p>
+                    <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
+                      <p>寺泊の海岸線を見下ろす高台に建ち、館内のいたるところから壮大な日本海の海景色を望む絶景温泉ホテル。冬の澄んだ日には遠く佐渡島までくっきりと見渡せます。夕食は寺泊港から直接仕入れる新鮮そのものの海の幸。</p>
+                      <p>冬の本ズワイガニの甲羅盛りやお造り、脂が乗った寒ブリのしゃぶしゃぶなど、海の恵みを存分に味わい尽くすプランが大人気。潮風を感じながら浸かる露天風呂も格別で、波の音とともに贅沢な時間を過ごせます。</p>
+                    </div>
                     <ul className="text-xs text-stone-700 space-y-1 pt-1">
                       <li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>客室や露天風呂から雄大な日本海と佐渡島を見晴らすパノラマビュー</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>寺泊港直送の本ズワイガニ・寒ブリ・南蛮エビを味わう海鮮会席</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>日本海に沈む夕日と満天の星空を眺める開放的な展望温泉</span></li>
                     </ul>
                   </div>
 
                   
-                <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
+                <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
                   <p className="leading-relaxed">{"「スタッフの接客と美味しい食事に感動!食事が美味しかったのは言うまでもなく、一番驚いたのはスタッフの皆様の意識の高さです。気遣いを含め、接客が本当に素晴らしく、感動いたしました。ぜひまた伺い… つづ。」"}</p>
                 </div>
@@ -476,16 +510,17 @@ export default function FeaturePage() {
                         かにと活魚料理の宿　海風亭　寺泊　日本海
                       </a>
                     </h3>
-                    <p className="text-xs text-stone-600 leading-relaxed">
-                      寺泊海岸通りに位置し、新鮮な海の幸を心ゆくまで堪能するために建てられた料理自慢の宿。玄関を入ると大型の生簀があり、冬には活ズワイガニや近海の活魚が元気に泳いでいます。夕食には茹でガニ、焼きガニ、カニすき鍋など、カニの旨味を余すところなく味わえる本格カニ会席が並び、カニ好きにはたまらない幸福な時間が訪れます。食後は手入れの行き届いた和室でゆったりとくつろぎ、港町の旅情を満喫できます。
-                    </p>
+                    <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
+                      <p>寺泊海岸通りに位置し、新鮮な海の幸を心ゆくまで堪能するために建てられた料理自慢の宿。玄関を入ると大型の生簀があり、冬には活ズワイガニや近海の活魚が元気に泳いでいます。</p>
+                      <p>夕食には茹でガニ、焼きガニ、カニすき鍋など、カニの旨味を余すところなく味わえる本格カニ会席が並び、カニ好きにはたまらない幸福な時間が訪れます。食後は手入れの行き届いた和室でゆったりとくつろぎ、港町の旅情を満喫できます。</p>
+                    </div>
                     <ul className="text-xs text-stone-700 space-y-1 pt-1">
                       <li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>名物「魚のアメ横」まで車で数分！観光と買い物に抜群の立地</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>館内の生簀から揚げたばかりの極上カニ料理と旬の活魚割烹</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>落ち着きのある純和風客室と心温まる港町のおもてなし</span></li>
                     </ul>
                   </div>
 
                   
-                <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
+                <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
                   <p className="leading-relaxed">{"「食事も美味しく接客も丁寧で大満足食事が朝夜共に美味しく満足感が高かった。従業員の方がテキパキしていて好感を持てた。周りの人にもお勧めしたいです。」"}</p>
                 </div>
@@ -541,16 +576,17 @@ export default function FeaturePage() {
                         ホテルニューグリーンプラザ（オープン）
                       </a>
                     </h3>
-                    <p className="text-xs text-stone-600 leading-relaxed">
-                      長岡市の中心部、JR長岡駅前に2026年にオープンした最新鋭のホテル。新幹線を降りてすぐチェックインできる抜群の機動性を誇り、寺泊や高龍神社、蓬平温泉への周遊旅行のベースとして極めて機能的です。最新の空調や防音設備、上質なベッドが導入されており、旅の疲れをしっかり癒やしてくれます。朝食には魚沼産コシヒカリの新米と郷土色豊かな和洋メニューが提供され、爽快な朝のスタートが切れます。
-                    </p>
+                    <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
+                      <p>長岡市の中心部、JR長岡駅前に2026年にオープンした最新鋭のホテル。新幹線を降りてすぐチェックインできる抜群の機動性を誇り、寺泊や高龍神社、蓬平温泉への周遊旅行のベースとして極めて機能的です。</p>
+                      <p>最新の空調や防音設備、上質なベッドが導入されており、旅の疲れをしっかり癒やしてくれます。朝食には魚沼産コシヒカリの新米と郷土色豊かな和洋メニューが提供され、爽快な朝のスタートが切れます。</p>
+                    </div>
                     <ul className="text-xs text-stone-700 space-y-1 pt-1">
                       <li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>JR長岡駅直結・徒歩圏内！新幹線利用や観光の拠点に最高のアクセス</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>2026年オープンの最新設備・シモンズベッドと高速Wi-Fi完備</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>長岡市街の夜景を見渡す快適な客室と地元新潟の食材を使った朝食</span></li>
                     </ul>
                   </div>
 
                   
-                <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
+                <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
                   <p className="leading-relaxed">{"「リニューアル後の部屋は清潔で快適今回リニューアル後に宿泊しました。部屋も清潔で気に入りました。また利用した際に詳しく書きたいです。つづきは。」"}</p>
                 </div>
@@ -606,16 +642,17 @@ export default function FeaturePage() {
                         蓬平温泉　蓬莱館　福引屋
                       </a>
                     </h3>
-                    <p className="text-xs text-stone-600 leading-relaxed">
-                      高龍神社の鳥居のすぐそばに佇み、商売繁盛の参拝客や湯治客を長年温かく迎えてきた老舗温泉旅館。館内には龍神信仰にまつわる神秘的な雰囲気が漂い、心静かな時間を過ごせます。自慢のお湯は蓬平温泉特有の強いぬめり感を持つ名湯で、湯上がりの肌のすべすべ感に誰もが驚かされます。夕食には地元新潟のブランド豚「越後もちぶた」のしゃぶしゃぶや、岩魚の塩焼き、契約栽培の炊きたてコシヒカリなど、素朴で温かい郷土の味が並びます。
-                    </p>
+                    <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
+                      <p>高龍神社の鳥居のすぐそばに佇み、商売繁盛の参拝客や湯治客を長年温かく迎えてきた老舗温泉旅館。館内には龍神信仰にまつわる神秘的な雰囲気が漂い、心静かな時間を過ごせます。</p>
+                      <p>自慢のお湯は蓬平温泉特有の強いぬめり感を持つ名湯で、湯上がりの肌のすべすべ感に誰もが驚かされます。夕食には地元新潟のブランド豚「越後もちぶた」のしゃぶしゃぶや、岩魚の塩焼き、契約栽培の炊きたてコシヒカリなど、素朴で温かい郷土の味が並びます。</p>
+                    </div>
                     <ul className="text-xs text-stone-700 space-y-1 pt-1">
                       <li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>商売繁盛の奇跡・高龍神社のすぐ麓に位置する歴史ある湯宿</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>天然の化粧水と称されるとろみ豊かな源泉と巨石を配した露天風呂</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>越後もちぶたや契約農家の魚沼コシヒカリを味わう心づくしの山里料理</span></li>
                     </ul>
                   </div>
 
                   
-                <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
+                <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
                   <p className="leading-relaxed">{"「マイナスイオンと温泉、食事に大満足!車を降りてすぐにマイナスイオンの空気に感動!とても、良い時期に来たようです。思わず深呼吸してしまいました。温泉はとろとろ、すべすべ。凄いです!食事は地元… つづ。」"}</p>
                 </div>

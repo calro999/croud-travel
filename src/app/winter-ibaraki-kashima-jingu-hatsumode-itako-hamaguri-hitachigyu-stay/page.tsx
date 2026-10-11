@@ -169,9 +169,10 @@ export default function FeaturePage() {
 
             <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold leading-tight">「関東最古の霊場・鹿島神宮新春初詣と水郷の冬景色」2026-2027年冬の茨城・鹿島＆潮来！鹿島灘はまぐりと極上常陸牛名宿5選</h1>
 
-            <p className="text-stone-300 text-xs sm:text-sm leading-relaxed max-w-3xl pt-2">
-              太平洋の鹿島灘と広大な北浦・霞ヶ浦に挟まれた茨城県鹿行（ろっこう）地域。この地に鎮座する「鹿島神宮」は、神武天皇元年の創建と伝わる関東最古の古社であり、日本全国に約600社ある鹿島神社の総本社です。武神・武甕槌大神（たけみかづちのおおかみ）を祀り、「すべての始まりの地」「人生の道開き」として崇敬を集め、千葉の香取神宮、神栖の息栖神社とともに「東国三社」の筆頭を担います。冬の朝、杉木立がそびえる奥参道に立ち込める朝霧と、1日40万リットルもの清らかな湧水を湛える「御手洗池（みたらしいけ）」の静けさは、日々の雑踏を忘れさせる神聖な空気そのもの。新春の初詣には全国から多くの参拝者が開運と勝負運を祈願して訪れます。そして冬の鹿島灘は、身がぎっしりと詰まり濃厚な出汁を放つ「鹿島灘はまぐり」の旬の最盛期。炭火焼きや酒蒸しの香ばしさに喉が鳴り、茨城が誇る極上霜降り黒毛和牛「常陸牛」のすき焼きや網焼き、水郷潮来の冬景色と温かな天然温泉に癒やされる、関東屈指の開運冬旅へお連れします。
-            </p>
+            <div className="space-y-3 pt-3 max-w-3xl text-stone-200 text-sm sm:text-base leading-relaxed sm:leading-loose">
+              <p>太平洋の鹿島灘と広大な北浦・霞ヶ浦に挟まれた茨城県鹿行（ろっこう）地域。この地に鎮座する「鹿島神宮」は、神武天皇元年の創建と伝わる関東最古の古社であり、日本全国に約600社ある鹿島神社の総本社です。武神・武甕槌大神（たけみかづちのおおかみ）を祀り、「すべての始まりの地」「人生の道開き」として崇敬を集め、千葉の香取神宮、神栖の息栖神社とともに「東国三社」の筆頭を担います。冬の朝、杉木立がそびえる奥参道に立ち込める朝霧と、1日40万リットルもの清らかな湧水を湛える「御手洗池（みたらしいけ）」の静けさは、日々の雑踏を忘れさせる神聖な空気そのもの。</p>
+              <p>新春の初詣には全国から多くの参拝者が開運と勝負運を祈願して訪れます。そして冬の鹿島灘は、身がぎっしりと詰まり濃厚な出汁を放つ「鹿島灘はまぐり」の旬の最盛期。炭火焼きや酒蒸しの香ばしさに喉が鳴り、茨城が誇る極上霜降り黒毛和牛「常陸牛」のすき焼きや網焼き、水郷潮来の冬景色と温かな天然温泉に癒やされる、関東屈指の開運冬旅へお連れします。</p>
+            </div>
           </div>
         </header>
 
@@ -245,17 +246,51 @@ export default function FeaturePage() {
                 </h2>
               </div>
             </div>
-            <div className="text-xs sm:text-sm text-stone-700 leading-relaxed whitespace-pre-line space-y-2">
-              【エリアへのアクセス】
-・高速バス（東京方面から最も便利）：東京駅八重洲南口より高速バス「かしま号」が約10〜20分間隔で運行（所要約2時間、鹿島神宮・鹿島セントラルホテル直通）。乗り換えなしで非常にスムーズ。
-・電車・JR：JR鹿島線・鹿島臨海鉄道大洗鹿島線「鹿島神宮駅」下車、鹿島神宮大鳥居まで徒歩約10分。潮来へはJR鹿島線「潮来駅」下車。
-・車・マイカー：東関東自動車道「潮来IC」より鹿島神宮まで約15分。都心（首都高湾岸線）から約1時間30分とアクセス良好。
-・東国三社巡り：鹿島神宮から息栖神社（神栖市）へは車で約20分、香取神宮（香取市）へは車で約30分で周遊可能。
-
-【見頃・気候・おすすめの服装】
-・ベストシーズン：11月下旬〜1月下旬（鹿島神宮新春初詣、冬の鹿島灘はまぐり・常陸牛の旬）。
-・気温の目安：太平洋に面しているため積雪は極めて稀ですが、海風が強く吹くため冬の朝晩は0〜3℃前後、日中でも8〜11℃程度と肌寒くなります。
-・服装のポイント：広大な鹿島神宮境内（東京ドーム約15個分）を歩いて参拝するため、防風性のあるコートやダウンジャケット、歩きやすいフラットな靴でお出かけください。御手洗池周辺や奥参道は木陰で冷え込むため、マフラーや手袋の持参をおすすめします。
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
+              <div className="bg-stone-50 rounded-xl p-4 sm:p-5 border border-stone-200/80 space-y-3">
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2">
+                  <span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
+                  <span>エリアへのアクセス</span>
+                </h4>
+                <ul className="space-y-2 text-xs sm:text-sm text-stone-600 leading-relaxed">
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">高速バス（東京方面から最も便利）：</strong>東京駅八重洲南口より高速バス「かしま号」が約10〜20分間隔で運行（所要約2時間、鹿島神宮・鹿島セントラルホテル直通）。乗り換えなしで非常にスムーズ。</span>
+                  </li>
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">電車・JR：</strong>JR鹿島線・鹿島臨海鉄道大洗鹿島線「鹿島神宮駅」下車、鹿島神宮大鳥居まで徒歩約10分。潮来へはJR鹿島線「潮来駅」下車。</span>
+                  </li>
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">車・マイカー：</strong>東関東自動車道「潮来IC」より鹿島神宮まで約15分。都心（首都高湾岸線）から約1時間30分とアクセス良好。</span>
+                  </li>
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">東国三社巡り：</strong>鹿島神宮から息栖神社（神栖市）へは車で約20分、香取神宮（香取市）へは車で約30分で周遊可能。</span>
+                  </li>
+                </ul>
+              </div>
+              <div className="bg-stone-50 rounded-xl p-4 sm:p-5 border border-stone-200/80 space-y-3">
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2">
+                  <span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
+                  <span>見頃・気候・おすすめの服装</span>
+                </h4>
+                <ul className="space-y-2 text-xs sm:text-sm text-stone-600 leading-relaxed">
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">ベストシーズン：</strong>11月下旬〜1月下旬（鹿島神宮新春初詣、冬の鹿島灘はまぐり・常陸牛の旬）。</span>
+                  </li>
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">気温の目安：</strong>太平洋に面しているため積雪は極めて稀ですが、海風が強く吹くため冬の朝晩は0〜3℃前後、日中でも8〜11℃程度と肌寒くなります。</span>
+                  </li>
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">服装のポイント：</strong>広大な鹿島神宮境内（東京ドーム約15個分）を歩いて参拝するため、防風性のあるコートやダウンジャケット、歩きやすいフラットな靴でお出かけください。御手洗池周辺や奥参道は木陰で冷え込むため、マフラーや手袋の持参をおすすめします。</span>
+                  </li>
+                </ul>
+              </div>
             </div>
           </div>
         </section>
@@ -347,16 +382,17 @@ export default function FeaturePage() {
                         たびのホテル鹿島
                       </a>
                     </h3>
-                    <p className="text-xs text-stone-600 leading-relaxed">
-                      鹿嶋市の中心エリアに位置し、観光にもビジネスにも抜群の利便性と居心地の良さを誇るホテル。館内には足を伸ばしてゆったりと浸かれる大浴場が完備されており、冬の鹿島神宮参拝や水郷散策で冷え切った身体を芯からポカポカに温めてくれます。客室は清潔感に溢れ、上質なシモンズベッドが心地よい眠りを約束。朝食には茨城ならではの納豆や新鮮な卵、地元食材を活かした和洋ビュッフェが並び、元気に冬の旅路へ出発できます。
-                    </p>
+                    <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
+                      <p>鹿嶋市の中心エリアに位置し、観光にもビジネスにも抜群の利便性と居心地の良さを誇るホテル。館内には足を伸ばしてゆったりと浸かれる大浴場が完備されており、冬の鹿島神宮参拝や水郷散策で冷え切った身体を芯からポカポカに温めてくれます。</p>
+                      <p>客室は清潔感に溢れ、上質なシモンズベッドが心地よい眠りを約束。朝食には茨城ならではの納豆や新鮮な卵、地元食材を活かした和洋ビュッフェが並び、元気に冬の旅路へ出発できます。</p>
+                    </div>
                     <ul className="text-xs text-stone-700 space-y-1 pt-1">
                       <li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>旅の疲れを心地よく癒やす人工温泉大浴場「旅人の湯」</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>シモンズ社製ベッドと加湿空気清浄機を完備した快適な客室</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>地元食材を取り入れた朝食ビュッフェと鹿島神宮への便利なアクセス</span></li>
                     </ul>
                   </div>
 
                   
-                <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
+                <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
                   <p className="leading-relaxed">{"「新築で清潔感があり、お風呂も部屋も快適急な神栖への出張で利用しました。新築らしくキレイ。お風呂も部屋もキレイでした。また、利用したいと思います。」"}</p>
                 </div>
@@ -412,16 +448,17 @@ export default function FeaturePage() {
                         ホテル　レイ　イン　鹿島（旧ホテルウィングインターナショナル鹿嶋）
                       </a>
                     </h3>
-                    <p className="text-xs text-stone-600 leading-relaxed">
-                      鹿嶋市内の主要スポットへのアクセス拠点として高い人気を誇る機能的なシティホテル。鹿島神宮の大鳥居まで車で数分という抜群の立地で、早朝の澄んだ空気の中で行われる新春初詣にも最適のベースキャンプです。客室は落ち着いたインテリアで統一され、ゆったりとしたデスクやWi-Fiも完備。周辺には地元の新鮮な魚介や鹿島灘はまぐりを提供する飲食店も多く、自由気ままに水郷の夜を堪能できます。
-                    </p>
+                    <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
+                      <p>鹿嶋市内の主要スポットへのアクセス拠点として高い人気を誇る機能的なシティホテル。鹿島神宮の大鳥居まで車で数分という抜群の立地で、早朝の澄んだ空気の中で行われる新春初詣にも最適のベースキャンプです。</p>
+                      <p>客室は落ち着いたインテリアで統一され、ゆったりとしたデスクやWi-Fiも完備。周辺には地元の新鮮な魚介や鹿島灘はまぐりを提供する飲食店も多く、自由気ままに水郷の夜を堪能できます。</p>
+                    </div>
                     <ul className="text-xs text-stone-700 space-y-1 pt-1">
                       <li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>JR鹿島神宮駅から車で約5分・鹿島サッカースタジアムや神宮へのアクセス至便</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>ゆとりある広さの客室と充実のアメニティで連泊にも最適</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>館内レストランで味わう茨城の恵みと手頃で安心の宿泊プラン</span></li>
                     </ul>
                   </div>
 
                   
-                <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
+                <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
                   <p className="leading-relaxed">{"「清潔感ある部屋と親切丁寧なフロント対応いつも利用させて頂きありがとうございます清潔感ある部屋親切丁寧なフロント対応朝食午前6時より利用できてコストパフォーマンス良いホテルまたご。」"}</p>
                 </div>
@@ -477,16 +514,17 @@ export default function FeaturePage() {
                         天然温泉「千両の湯」スーパーホテル鹿嶋
                       </a>
                     </h3>
-                    <p className="text-xs text-stone-600 leading-relaxed">
-                      鹿嶋エリアで唯一、館内に男女別の天然温泉大浴場「千両の湯」を備えた人気の宿泊施設。無色透明で肌触りの良い天然温泉は、疲労回復や冷え性改善に効果が高く、参拝帰りの冷えた身体を優しく包み込みます。さらに毎朝焼き上げられる香ばしいクロワッサンやオーガニック野菜を取り入れた無料健康朝食が大好評。自分に合った硬さを選べる快眠枕など細やかなサービスも行き届き、気軽に満足度の高い冬ステイを楽しめます。
-                    </p>
+                    <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
+                      <p>鹿嶋エリアで唯一、館内に男女別の天然温泉大浴場「千両の湯」を備えた人気の宿泊施設。無色透明で肌触りの良い天然温泉は、疲労回復や冷え性改善に効果が高く、参拝帰りの冷えた身体を優しく包み込みます。</p>
+                      <p>さらに毎朝焼き上げられる香ばしいクロワッサンやオーガニック野菜を取り入れた無料健康朝食が大好評。自分に合った硬さを選べる快眠枕など細やかなサービスも行き届き、気軽に満足度の高い冬ステイを楽しめます。</p>
+                    </div>
                     <ul className="text-xs text-stone-700 space-y-1 pt-1">
                       <li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>男女別天然温泉「千両の湯」で楽しむ本格的な温泉浴</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>毎朝ホテルで焼き上げるサクサクのクロワッサンと健康朝食ビュッフェ</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>選べる快眠枕と防音・遮光性に優れた機能的な客室空間</span></li>
                     </ul>
                   </div>
 
                   
-                <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
+                <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
                   <p className="leading-relaxed">{"「温泉も朝食も大満足、またリピートしたい夫婦二人でビジネスホテルへ宿泊は不安でしたが当日予約で泊まれて温泉も部屋も朝食もコンパクトですが、とても良かったです!またリピートしたいと思います!クチコ…。」"}</p>
                 </div>
@@ -542,16 +580,17 @@ export default function FeaturePage() {
                         亀の井ホテル　潮来
                       </a>
                     </h3>
-                    <p className="text-xs text-stone-600 leading-relaxed">
-                      水郷潮来の北浦湖畔に建ち、全客室の窓から広大な水辺の景色を見渡せる絶景のリゾート温泉ホテル。最大の自慢は、最上階の展望大浴場から望む北浦のパノラマ。冬の夕暮れ時には湖面が黄金色に染まる息を呑む夕景を眺めながら天然温泉に浸かる贅沢が味わえます。夕食には茨城が誇る最高峰「常陸牛」のジューシーなステーキや陶板焼き、鹿島灘はまぐり、水郷ならではの郷土料理が彩り豊かに並び、心豊かなひとときを演出します。
-                    </p>
+                    <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
+                      <p>水郷潮来の北浦湖畔に建ち、全客室の窓から広大な水辺の景色を見渡せる絶景のリゾート温泉ホテル。最大の自慢は、最上階の展望大浴場から望む北浦のパノラマ。</p>
+                      <p>冬の夕暮れ時には湖面が黄金色に染まる息を呑む夕景を眺めながら天然温泉に浸かる贅沢が味わえます。夕食には茨城が誇る最高峰「常陸牛」のジューシーなステーキや陶板焼き、鹿島灘はまぐり、水郷ならではの郷土料理が彩り豊かに並び、心豊かなひとときを演出します。</p>
+                    </div>
                     <ul className="text-xs text-stone-700 space-y-1 pt-1">
                       <li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>全客室および大浴場から北浦の雄大なレイクビューパノラマを一望</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>展望大浴場に注がれる潮来の天然温泉と冬の夕景</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>常陸牛の陶板焼きや鹿島灘はまぐり・冬の湖魚を取り入れた四季会席</span></li>
                     </ul>
                   </div>
 
                   
-                <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
+                <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
                   <p className="leading-relaxed">{"「丁寧な説明でしたが、前の方にはされていた、タンメンの話しはなかった。GoToPassの説明していた… 投。」"}</p>
                 </div>
@@ -607,9 +646,10 @@ export default function FeaturePage() {
                         ビジネス旅館　扇屋
                       </a>
                     </h3>
-                    <p className="text-xs text-stone-600 leading-relaxed">
-                      潮来駅の近くに佇み、どこか懐かしい昭和の風情と家庭的な温かいもてなしで旅人を迎える老舗旅館。気取らない雰囲気の中で、のんびりと水郷の旅情を味わいたい方に最適です。お料理は板前である主人が一品一品丁寧に仕上げる手作り和食で、旬の刺身や煮魚、地元の新鮮野菜を使った煮物など、素朴ながらも心に染み渡る美味しさ。鹿島神宮や香取神宮を巡る一人旅やビジネス利用にもおすすめの温かな宿です。
-                    </p>
+                    <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
+                      <p>潮来駅の近くに佇み、どこか懐かしい昭和の風情と家庭的な温かいもてなしで旅人を迎える老舗旅館。気取らない雰囲気の中で、のんびりと水郷の旅情を味わいたい方に最適です。</p>
+                      <p>お料理は板前である主人が一品一品丁寧に仕上げる手作り和食で、旬の刺身や煮魚、地元の新鮮野菜を使った煮物など、素朴ながらも心に染み渡る美味しさ。鹿島神宮や香取神宮を巡る一人旅やビジネス利用にもおすすめの温かな宿です。</p>
+                    </div>
                     <ul className="text-xs text-stone-700 space-y-1 pt-1">
                       <li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>JR潮来駅から徒歩圏内！水郷の町並み散策に便利な好立地</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>板前が心を込めて作る家庭的でボリューム満点の和食膳</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>リーズナブルな宿泊料金と昭和レトロな落ち着きある客室</span></li>
                     </ul>

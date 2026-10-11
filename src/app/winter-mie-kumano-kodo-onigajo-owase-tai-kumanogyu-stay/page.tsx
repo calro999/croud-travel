@@ -169,9 +169,10 @@ export default function FeaturePage() {
 
             <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold leading-tight">「世界遺産熊野古道と鬼ヶ城の絶景」2026-2027年冬の三重・熊野＆尾鷲！尾鷲真鯛と熊野牛名宿5選</h1>
 
-            <p className="text-stone-300 text-xs sm:text-sm leading-relaxed max-w-3xl pt-2">
-              紀伊半島の南東部に位置し、紺碧の熊野灘と峻険な紀伊山地に抱かれた三重県熊野市および尾鷲市。世界遺産「紀伊山地の霊場と参詣道」の重要な一角を担う熊野古道伊勢路（馬越峠や松本峠）は、真夏の酷暑や湿気とは無縁の11月から1月の冬こそが、温暖な黒潮気候に恵まれて最も快適に踏破できる黄金期を迎えます。熊野灘の荒波が削り出した国の名勝「鬼ヶ城」や巨岩「獅子岩」は、冬の澄み渡る青空と白波のコントラストで一年で最も劇的な景観を現出。そして何より旅人を惹きつけるのが、寒さとともに身が引き締まり上質な脂を蓄える「尾鷲真鯛」や近海寒ブリ、そして三重が誇る幻の黒毛和牛「熊野牛」のすき焼き・ステーキです。太古の修験と祈りの歴史が息づく山懐で、湯ノ口温泉や入鹿温泉の源泉に身を委ね、心洗われる新春の開運旅をご案内します。
-            </p>
+            <div className="space-y-3 pt-3 max-w-3xl text-stone-200 text-sm sm:text-base leading-relaxed sm:leading-loose">
+              <p>紀伊半島の南東部に位置し、紺碧の熊野灘と峻険な紀伊山地に抱かれた三重県熊野市および尾鷲市。世界遺産「紀伊山地の霊場と参詣道」の重要な一角を担う熊野古道伊勢路（馬越峠や松本峠）は、真夏の酷暑や湿気とは無縁の11月から1月の冬こそが、温暖な黒潮気候に恵まれて最も快適に踏破できる黄金期を迎えます。熊野灘の荒波が削り出した国の名勝「鬼ヶ城」や巨岩「獅子岩」は、冬の澄み渡る青空と白波のコントラストで一年で最も劇的な景観を現出。</p>
+              <p>そして何より旅人を惹きつけるのが、寒さとともに身が引き締まり上質な脂を蓄える「尾鷲真鯛」や近海寒ブリ、そして三重が誇る幻の黒毛和牛「熊野牛」のすき焼き・ステーキです。太古の修験と祈りの歴史が息づく山懐で、湯ノ口温泉や入鹿温泉の源泉に身を委ね、心洗われる新春の開運旅をご案内します。</p>
+            </div>
           </div>
         </header>
 
@@ -189,21 +190,21 @@ export default function FeaturePage() {
             <div className="bg-white rounded-xl p-5 border border-stone-200 space-y-2">
               <span className="text-xs font-bold text-cyan-700 tracking-wider">REASON 01</span>
               <h3 className="font-bold text-stone-900 text-base">黒潮の恩恵で真冬も温暖！世界遺産「熊野古道伊勢路」を快適に歩くベストシーズン</h3>
-              <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">日本海側の豪雪とは対照的に、冬の東紀州は日中10〜15℃前後と極めて過ごしやすい気候。馬越峠の苔むす美しい石畳や、松本峠から望む七里御浜の雄大な海岸線パノラマを、汗をかかずに澄んだ大気の中でじっくりと歩き抜くことができます。</p>
+              <p className="text-sm sm:text-base text-stone-600 leading-relaxed">日本海側の豪雪とは対照的に、冬の東紀州は日中10〜15℃前後と極めて過ごしやすい気候。馬越峠の苔むす美しい石畳や、松本峠から望む七里御浜の雄大な海岸線パノラマを、汗をかかずに澄んだ大気の中でじっくりと歩き抜くことができます。</p>
             </div>
             
 
             <div className="bg-white rounded-xl p-5 border border-stone-200 space-y-2">
               <span className="text-xs font-bold text-cyan-700 tracking-wider">REASON 02</span>
               <h3 className="font-bold text-stone-900 text-base">奇岩怪石の断崖美「鬼ヶ城」と七里御浜に轟く太平洋の白波絶景</h3>
-              <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">地震の隆起と熊野灘の怒涛が創り出した約1.2kmの海蝕洞窟群・鬼ヶ城。冬の強い季節風によって打ち寄せる迫力満点の白波と、どこまでも青い冬空の対比は息を呑む迫力。隣接する獅子岩や花の窟神社での新春祈願も格別の清々しさです。</p>
+              <p className="text-sm sm:text-base text-stone-600 leading-relaxed">地震の隆起と熊野灘の怒涛が創り出した約1.2kmの海蝕洞窟群・鬼ヶ城。冬の強い季節風によって打ち寄せる迫力満点の白波と、どこまでも青い冬空の対比は息を呑む迫力。隣接する獅子岩や花の窟神社での新春祈願も格別の清々しさです。</p>
             </div>
             
 
             <div className="bg-white rounded-xl p-5 border border-stone-200 space-y-2">
               <span className="text-xs font-bold text-cyan-700 tracking-wider">REASON 03</span>
               <h3 className="font-bold text-stone-900 text-base">冬に極まる「尾鷲真鯛」の濃厚な旨味と幻の銘柄黒毛和牛「熊野牛」の饗宴</h3>
-              <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">黒潮の潮流で揉まれた尾鷲真鯛は、冬に最も脂が乗り上品な甘みが際立ちます。お造りや鯛しゃぶ、郷土の鯛飯は至高の味わい。さらに年間出荷数が限られる希少なブランド牛「熊野牛」の芳醇な肉質を合わせ、美食の限りを尽くす冬の晩餐が叶います。</p>
+              <p className="text-sm sm:text-base text-stone-600 leading-relaxed">黒潮の潮流で揉まれた尾鷲真鯛は、冬に最も脂が乗り上品な甘みが際立ちます。お造りや鯛しゃぶ、郷土の鯛飯は至高の味わい。さらに年間出荷数が限られる希少なブランド牛「熊野牛」の芳醇な肉質を合わせ、美食の限りを尽くす冬の晩餐が叶います。</p>
             </div>
             
             </div>
@@ -219,16 +220,47 @@ export default function FeaturePage() {
                 アクセス・気候・おすすめの服装
               </h3>
             </div>
-            <div className="whitespace-pre-line text-xs sm:text-sm text-stone-600 leading-relaxed">
-              【エリアへのアクセス】
-・電車・JR特急：JR名古屋駅から特急「南紀」で熊野市駅まで直通約3時間、尾鷲駅まで約2時間40分。新大阪・天王寺方面からは特急「くろしお」で新宮駅経由、または名古屋回り特急利用。
-・車・マイカー：伊勢自動車道・紀勢自動車道「尾鷲北IC」「熊野大泊IC」まで直結。名古屋ICから約2時間15分、大阪松原JCTから西名阪道・名阪国道・伊勢道経由で約3時間。
-・熊野古道各峠への移動：熊野市駅・尾鷲駅前から三交バス（三重交通）が運行しており、登山口バス停へのアクセスが良好。無料駐車場も整備されています。
-
-【見頃・気候・おすすめの服装】
-・ベストシーズン：11月中旬〜1月下旬（古道歩きに最適な冷涼晴天が続き、冬の魚介と新春初詣の好期）。
-・気温の目安：太平洋側の平野部は日中10〜13℃程度と温暖ですが、早朝や峠の山影では3〜5℃前後まで冷え込みます。
-・服装のポイント：峠歩きには脱ぎ着しやすい吸汗速乾インナーと防風ウインドブレーカーのレイヤリングが最適。石畳は湿気や落ち葉で滑りやすいため、グリップ力の高いトレッキングシューズを推奨します。海岸沿いの鬼ヶ城散策では海風が強いため、風を通さないアウターが便利です。
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
+              <div className="bg-stone-50 rounded-xl p-4 sm:p-5 border border-stone-200/80 space-y-3">
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2">
+                  <span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
+                  <span>エリアへのアクセス</span>
+                </h4>
+                <ul className="space-y-2 text-xs sm:text-sm text-stone-600 leading-relaxed">
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">電車・JR特急：</strong>JR名古屋駅から特急「南紀」で熊野市駅まで直通約3時間、尾鷲駅まで約2時間40分。新大阪・天王寺方面からは特急「くろしお」で新宮駅経由、または名古屋回り特急利用。</span>
+                  </li>
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">車・マイカー：</strong>伊勢自動車道・紀勢自動車道「尾鷲北IC」「熊野大泊IC」まで直結。名古屋ICから約2時間15分、大阪松原JCTから西名阪道・名阪国道・伊勢道経由で約3時間。</span>
+                  </li>
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">熊野古道各峠への移動：</strong>熊野市駅・尾鷲駅前から三交バス（三重交通）が運行しており、登山口バス停へのアクセスが良好。無料駐車場も整備されています。</span>
+                  </li>
+                </ul>
+              </div>
+              <div className="bg-stone-50 rounded-xl p-4 sm:p-5 border border-stone-200/80 space-y-3">
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2">
+                  <span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
+                  <span>見頃・気候・おすすめの服装</span>
+                </h4>
+                <ul className="space-y-2 text-xs sm:text-sm text-stone-600 leading-relaxed">
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">ベストシーズン：</strong>11月中旬〜1月下旬（古道歩きに最適な冷涼晴天が続き、冬の魚介と新春初詣の好期）。</span>
+                  </li>
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">気温の目安：</strong>太平洋側の平野部は日中10〜13℃程度と温暖ですが、早朝や峠の山影では3〜5℃前後まで冷え込みます。</span>
+                  </li>
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">服装のポイント：</strong>峠歩きには脱ぎ着しやすい吸汗速乾インナーと防風ウインドブレーカーのレイヤリングが最適。石畳は湿気や落ち葉で滑りやすいため、グリップ力の高いトレッキングシューズを推奨します。海岸沿いの鬼ヶ城散策では海風が強いため、風を通さないアウターが便利です。</span>
+                  </li>
+                </ul>
+              </div>
             </div>
           </div>
         </section>
@@ -256,7 +288,7 @@ export default function FeaturePage() {
                 <h3 className="font-bold text-stone-900 text-sm sm:text-base">
                   世界遺産・鬼ヶ城（荒波が削り出した奇岩断崖と熊野古道） の見どころと歴史
                 </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
+                <p className="text-sm sm:text-base text-stone-600 leading-relaxed">
                   鬼ヶ城（おにがじょう）は、三重県熊野市木本町にある海岸景勝地。国の名勝（「熊野の鬼ケ城 附 獅子巖」〈くまののおにがじょう つけたり ししいわ〉）の一部である。 熊野灘の荒波に削られた大小無数の海食洞が、地震による隆起によって階段上に並び、熊野灘に面して約1.2km続いている。志摩半島から続くリアス式海岸の最南端で、これより南はなだらかな砂浜の海岸（七里御浜）へと変わる。東口から山頂へ通じるハイキングコースには桜が植えられており、春には4種類の桜が次から次へと開花して長期間花…
                 </p>
                 <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
@@ -307,14 +339,15 @@ export default function FeaturePage() {
                     <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">
                       里創人　熊野倶楽部
                     </h3>
-                    <p className="text-xs text-stone-600 leading-relaxed">
-                      世界遺産・熊野古道の麓に広がる約3万平米もの広大な里山空間に佇む最高峰リゾート。全客室が離れ形式のスイート仕様となっており、木の温もりと開放感あふれるプライベート空間が約束されます。館内には自家源泉の内湯と開放的な露天風呂を備え、湯上がりにラウンジで三重の銘酒やフィンガーフードを自由に楽しめるオールインクルーシブスタイルが好評。冬のディナーには厳選された熊野牛の鉄板焼きや、熊野灘から届く鮮魚を贅沢に仕立てた創作会席が並び、日常を忘れる極上の冬籠もりが叶います。
-                    </p>
-                    <ul className="text-xs text-stone-700 space-y-1 pt-1 border-t border-stone-100">
+                    <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
+                      <p>世界遺産・熊野古道の麓に広がる約3万平米もの広大な里山空間に佇む最高峰リゾート。全客室が離れ形式のスイート仕様となっており、木の温もりと開放感あふれるプライベート空間が約束されます。</p>
+                      <p>館内には自家源泉の内湯と開放的な露天風呂を備え、湯上がりにラウンジで三重の銘酒やフィンガーフードを自由に楽しめるオールインクルーシブスタイルが好評。冬のディナーには厳選された熊野牛の鉄板焼きや、熊野灘から届く鮮魚を贅沢に仕立てた創作会席が並び、日常を忘れる極上の冬籠もりが叶います。</p>
+                    </div>
+                    <ul className="text-xs sm:text-sm text-stone-700 space-y-2 pt-2 border-t border-stone-100">
                       <li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>熊野杉を贅沢に使った離れスイートルームと満天の星空露天</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>オールインクルーシブで三重の地酒やクラフトビールを満喫</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>熊野牛ステーキや伊勢海老・熊野灘の旬魚を味わう四季の特別会席</span></li>
                     </ul>
                     
-                <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
+                <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
                   <p className="leading-relaxed">{"「部屋にも、食事中も虫がたくさんいて困った。食事は少し品数が少なかった。スタッフの方々はとても親切で丁寧でサービスも大変良かったです。」"}</p>
                 </div>
@@ -368,14 +401,15 @@ export default function FeaturePage() {
                     <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">
                       入鹿温泉ホテル瀞流荘
                     </h3>
-                    <p className="text-xs text-stone-600 leading-relaxed">
-                      奥熊野の秘境・入鹿温泉に位置し、清流北山川のせせらぎを眼下に望む温泉宿。最大の名物は、かつて鉱山で使われていたレールを走る専用トロッコ列車で約10分の湯ノ口温泉へ移動できること。湯ノ口温泉は加水・加温一切なしの源泉掛け流しで、身体の芯から温まると湯治客からも絶賛されています。館内の大浴場からも冬の渓谷美をパノラマで一望。夕食には三重県が誇る熊野牛の陶板焼きや、紀伊半島の旬の山海の幸をふんだんに盛り込んだ滋味豊かな会席料理が堪能できます。
-                    </p>
-                    <ul className="text-xs text-stone-700 space-y-1 pt-1 border-t border-stone-100">
+                    <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
+                      <p>奥熊野の秘境・入鹿温泉に位置し、清流北山川のせせらぎを眼下に望む温泉宿。最大の名物は、かつて鉱山で使われていたレールを走る専用トロッコ列車で約10分の湯ノ口温泉へ移動できること。湯ノ口温泉は加水・加温一切なしの源泉掛け流しで、身体の芯から温まると湯治客からも絶賛されています。</p>
+                      <p>館内の大浴場からも冬の渓谷美をパノラマで一望。夕食には三重県が誇る熊野牛の陶板焼きや、紀伊半島の旬の山海の幸をふんだんに盛り込んだ滋味豊かな会席料理が堪能できます。</p>
+                    </div>
+                    <ul className="text-xs sm:text-sm text-stone-700 space-y-2 pt-2 border-t border-stone-100">
                       <li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>北山川の雄大な渓流を望む展望大浴場と露天風呂</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>専用トロッコ列車で往復できる名湯「湯ノ口温泉」の源泉掛け流し</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>熊野牛陶板焼きや清流の恵み・冬の郷土料理会席</span></li>
                     </ul>
                     
-                <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
+                <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
                   <p className="leading-relaxed">{"「騒音はあったがスタッフの対応が丁寧で安心連泊で予約しました。宿泊日当日の夜は若者のグループに明け方近くまで騒がれ、ゆっくり眠ることができず辛い思いをしました。翌朝にこのことをフロントに申し上げ、同… 投。」"}</p>
                 </div>
@@ -429,14 +463,15 @@ export default function FeaturePage() {
                     <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">
                       ホテルなみ
                     </h3>
-                    <p className="text-xs text-stone-600 leading-relaxed">
-                      世界遺産・鬼ヶ城や七里御浜のすぐそばの高台に建ち、全客室の窓から紺碧の太平洋を見渡せるロケーション抜群のホテル。冬の早朝には水平線から昇る感動的な初日の出や朝焼けを部屋にいながら拝むことができます。熊野古道散策の拠点としても極めて機能的。夕食は併設のレストランで、近隣の漁港から直送される新鮮な地魚の姿造りや、柔らかくジューシーな熊野牛の石焼きを味わうプランが人気。清潔でモダンな空間と温かい接客で、一人旅から家族旅行まで幅広く支持されています。
-                    </p>
-                    <ul className="text-xs text-stone-700 space-y-1 pt-1 border-t border-stone-100">
+                    <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
+                      <p>世界遺産・鬼ヶ城や七里御浜のすぐそばの高台に建ち、全客室の窓から紺碧の太平洋を見渡せるロケーション抜群のホテル。冬の早朝には水平線から昇る感動的な初日の出や朝焼けを部屋にいながら拝むことができます。熊野古道散策の拠点としても極めて機能的。</p>
+                      <p>夕食は併設のレストランで、近隣の漁港から直送される新鮮な地魚の姿造りや、柔らかくジューシーな熊野牛の石焼きを味わうプランが人気。清潔でモダンな空間と温かい接客で、一人旅から家族旅行まで幅広く支持されています。</p>
+                    </div>
+                    <ul className="text-xs sm:text-sm text-stone-700 space-y-2 pt-2 border-t border-stone-100">
                       <li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>目の前に広がる雄大な熊野灘と七里御浜の絶景パノラマビュー</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>名勝「鬼ヶ城」まで車で約2分！観光拠点に抜群のロケーション</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>朝水揚げされた地魚のお造りや熊野牛を気軽に味わえる贅沢御膳</span></li>
                     </ul>
                     
-                <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
+                <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
                   <p className="leading-relaxed">{"「新鮮な刺身と夕食に大満足、また利用したい刺身は新鮮でおいしかったです。夜ご飯もおいしく、大変満足でした。また利用したいと思います。つづ。」"}</p>
                 </div>
@@ -490,14 +525,15 @@ export default function FeaturePage() {
                     <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">
                       尾鷲シーサイドビュー
                     </h3>
-                    <p className="text-xs text-stone-600 leading-relaxed">
-                      尾鷲市街から少し南、美しい三木浦湾の入り江を見下ろす高台に佇む料理自慢の隠れ家宿。全客室が海に面しており、穏やかな波音と港の灯りが旅情をかき立てます。宿の最大の誇りは、全国屈指のブランド「尾鷲真鯛」を余すところなく味わえる料理。真鯛の薄造り、皮目をサッと湯通しした絶品鯛しゃぶ、じっくり炊き上げた鯛の兜煮など、冬に脂が乗った真鯛の旨味を心ゆくまで堪能できます。展望風呂からは刻々と色を変える海の夕景が広がり、美食を愛する旅人に愛され続けています。
-                    </p>
-                    <ul className="text-xs text-stone-700 space-y-1 pt-1 border-t border-stone-100">
+                    <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
+                      <p>尾鷲市街から少し南、美しい三木浦湾の入り江を見下ろす高台に佇む料理自慢の隠れ家宿。全客室が海に面しており、穏やかな波音と港の灯りが旅情をかき立てます。宿の最大の誇りは、全国屈指のブランド「尾鷲真鯛」を余すところなく味わえる料理。</p>
+                      <p>真鯛の薄造り、皮目をサッと湯通しした絶品鯛しゃぶ、じっくり炊き上げた鯛の兜煮など、冬に脂が乗った真鯛の旨味を心ゆくまで堪能できます。展望風呂からは刻々と色を変える海の夕景が広がり、美食を愛する旅人に愛され続けています。</p>
+                    </div>
+                    <ul className="text-xs sm:text-sm text-stone-700 space-y-2 pt-2 border-t border-stone-100">
                       <li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>静穏なリアス式海岸・三木浦湾を一望する静かな隠れ家宿</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>冬に極まる「尾鷲真鯛」のしゃぶしゃぶ・兜煮・お造りフルコース</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>海を眺めながら温まる貸切展望風呂と心尽くしのおもてなし</span></li>
                     </ul>
                     
-                <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
+                <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
                   <p className="leading-relaxed">{"「女性にも優しい魚が美味しい宿素敵なホテルでした目の前が魚釣りできるところなので男性が多いのではないかと思うのですが女性にも優しい宿です食事も残してしまって(品数多くて)申し訳なかったのです… つづ。」"}</p>
                 </div>
@@ -551,14 +587,15 @@ export default function FeaturePage() {
                     <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">
                       ビジネスホテル　河上
                     </h3>
-                    <p className="text-xs text-stone-600 leading-relaxed">
-                      熊野市の中心市街地に位置し、JR熊野市駅やバスターミナルから徒歩すぐという利便性を誇るホテル。熊野古道伊勢路のトレッキングや、鬼ヶ城・花の窟神社巡りをアクティブに楽しみたい旅人にとって最高のベースキャンプです。客室は手入れが行き届き機能的で、ゆったりとしたベッドが歩き疲れた身体を心地よく休ませてくれます。夕食は徒歩圏内にある地元の割烹や居酒屋で、冬の熊野灘で獲れたモチガツオや地魚、地酒を味わい、自由気ままな冬の紀州旅を満喫できます。
-                    </p>
-                    <ul className="text-xs text-stone-700 space-y-1 pt-1 border-t border-stone-100">
+                    <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
+                      <p>熊野市の中心市街地に位置し、JR熊野市駅やバスターミナルから徒歩すぐという利便性を誇るホテル。熊野古道伊勢路のトレッキングや、鬼ヶ城・花の窟神社巡りをアクティブに楽しみたい旅人にとって最高のベースキャンプです。</p>
+                      <p>客室は手入れが行き届き機能的で、ゆったりとしたベッドが歩き疲れた身体を心地よく休ませてくれます。夕食は徒歩圏内にある地元の割烹や居酒屋で、冬の熊野灘で獲れたモチガツオや地魚、地酒を味わい、自由気ままな冬の紀州旅を満喫できます。</p>
+                    </div>
+                    <ul className="text-xs sm:text-sm text-stone-700 space-y-2 pt-2 border-t border-stone-100">
                       <li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>JR熊野市駅から徒歩約5分！電車旅や早朝出発のトレッキングに最適</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>清潔で機能的な客室と無料Wi-Fi・充実のアメニティ</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>周辺には郷土料理店や地魚居酒屋が多数点在しグルメ巡りも軽快</span></li>
                     </ul>
                     
-                <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
+                <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
                   <p className="leading-relaxed">{"「感想選択肢が無かったので宿泊したが駅前と利便性が良いと思っていたのに食事を取る場所が徒歩圏内に全く無くてビックリ!決して安価では無かったので低レベルのビジネスホテルと言わざる得ない宿だっ… つづ。」"}</p>
                 </div>
@@ -628,7 +665,7 @@ export default function FeaturePage() {
                 <span className="text-cyan-700 font-extrabold">Q.</span>
                 <span>熊野古道伊勢路（馬越峠や松本峠）は冬でも積雪なく歩けますか？</span>
               </h3>
-              <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
+              <p className="text-sm sm:text-base text-stone-600 leading-relaxed pl-5">
                 はい。南紀・東紀州の沿岸部は黒潮の影響で真冬でも積雪することは極めて稀です。11月から1月は天候が安定し雨量も年間で最も少ないため、快適にトレッキングを楽しめます。ただし日陰の石畳は露で滑りやすい場合があるため、しっかりした登山靴やトレッキングシューズでお歩きください。
               </p>
             </div>
@@ -639,7 +676,7 @@ export default function FeaturePage() {
                 <span className="text-cyan-700 font-extrabold">Q.</span>
                 <span>名物「尾鷲真鯛」や「熊野牛」を一番美味しく味わえる時期はいつですか？</span>
               </h3>
-              <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
+              <p className="text-sm sm:text-base text-stone-600 leading-relaxed pl-5">
                 尾鷲真鯛は海水温が下がる11月から2月にかけて脂が乗り、身が引き締まるため冬がベストシーズンです。熊野牛は通年で安定した品質ですが、冬は温かいすき焼き鍋やしゃぶしゃぶ、ステーキ会席として提供されるプランが多く、温泉後の身体に染み渡る極上の味わいとなります。
               </p>
             </div>
@@ -650,7 +687,7 @@ export default function FeaturePage() {
                 <span className="text-cyan-700 font-extrabold">Q.</span>
                 <span>公共交通機関（電車・バス）だけでも熊野古道や鬼ヶ城を巡れますか？</span>
               </h3>
-              <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
+              <p className="text-sm sm:text-base text-stone-600 leading-relaxed pl-5">
                 十分に巡ることが可能です。JR熊野市駅から鬼ヶ城センターへは路線バスで約5分（徒歩でも約25分）。松本峠や馬越峠の登山口へも路線バスが運行しています。また瀞流荘や湯ノ口温泉へはJR熊野市駅からの送迎バスや路線バスが運行されており、山間部の秘湯へもアクセス可能です。
               </p>
             </div>

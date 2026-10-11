@@ -169,9 +169,10 @@ export default function FeaturePage() {
 
             <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold leading-tight">「聖徳太子開創の霊峰・信貴山朝護孫子寺と世界一の福寅」2026-2027年冬の奈良・生駒＆信貴山！信貴山温泉と大和牛・ぼたん鍋名宿5選</h1>
 
-            <p className="text-stone-300 text-xs sm:text-sm leading-relaxed max-w-3xl pt-2">
-              大阪と奈良の境界にそびえる生駒山地の南端、標高437mの信貴山（しぎさん）の山懐に広がる「信貴山朝護孫子寺（ちょうごそんしじ）」。今から約1400年前、聖徳太子が物部守屋討伐の戦勝祈願をした際、天空に毘沙門天王が現れ必勝の秘法を授けたのが「寅の年・寅の日・寅の刻」であったと伝わり、毘沙門天信仰の総本山として全国に知られます。境内入口で参拝客を出迎えるのは、首を振る巨大な「世界一福寅（張子の寅）」。一歩足を踏み入れれば、金運・商売繁盛・開運招福の強い気が満ち溢れ、新春初詣には関西一円から膨大な参拝者が訪れます。谷を渡る国の登録有形文化財「開運橋」から望む冬の渓谷美や、本堂舞台から大和盆地を一望するパノラマは息を呑む絶景。参拝の後は、信貴山の清らかな山懐に湧く「信貴山温泉」で冷えた身体を解きほぐし、冬に最も脂が乗る猪肉を使った名物「ぼたん鍋」や、鎌倉時代からの歴史を誇る奈良の最高峰銘柄牛「大和牛（やまとうし）」のすき焼きに舌鼓。古都の歴史と大自然の温もりに包まれる至福の大和冬旅をご案内します。
-            </p>
+            <div className="space-y-3 pt-3 max-w-3xl text-stone-200 text-sm sm:text-base leading-relaxed sm:leading-loose">
+              <p>大阪と奈良の境界にそびえる生駒山地の南端、標高437mの信貴山（しぎさん）の山懐に広がる「信貴山朝護孫子寺（ちょうごそんしじ）」。今から約1400年前、聖徳太子が物部守屋討伐の戦勝祈願をした際、天空に毘沙門天王が現れ必勝の秘法を授けたのが「寅の年・寅の日・寅の刻」であったと伝わり、毘沙門天信仰の総本山として全国に知られます。境内入口で参拝客を出迎えるのは、首を振る巨大な「世界一福寅（張子の寅）」。一歩足を踏み入れれば、金運・商売繁盛・開運招福の強い気が満ち溢れ、新春初詣には関西一円から膨大な参拝者が訪れます。</p>
+              <p>谷を渡る国の登録有形文化財「開運橋」から望む冬の渓谷美や、本堂舞台から大和盆地を一望するパノラマは息を呑む絶景。参拝の後は、信貴山の清らかな山懐に湧く「信貴山温泉」で冷えた身体を解きほぐし、冬に最も脂が乗る猪肉を使った名物「ぼたん鍋」や、鎌倉時代からの歴史を誇る奈良の最高峰銘柄牛「大和牛（やまとうし）」のすき焼きに舌鼓。古都の歴史と大自然の温もりに包まれる至福の大和冬旅をご案内します。</p>
+            </div>
           </div>
         </header>
 
@@ -245,16 +246,47 @@ export default function FeaturePage() {
                 </h2>
               </div>
             </div>
-            <div className="text-xs sm:text-sm text-stone-700 leading-relaxed whitespace-pre-line space-y-2">
-              【エリアへのアクセス】
-・電車・公共交通：近鉄生駒線「信貴山下駅」またはJR・近鉄「王寺駅」北口より奈良交通バス「信貴山門」行きで約20分。大阪方面からは、近鉄大阪線「山本駅」経由信貴山口駅より西信貴ケーブル「高安山駅」下車、近鉄バス「信貴山門」行きで約7分。大阪難波駅から王寺駅までJR大和路快速で約20分と至近。
-・車・マイカー：西名阪自動車道「法隆寺IC」または「香芝IC」より国道25号経由で約20〜25分。第二阪奈道路「壱分IC」より信貴生駒スカイライン経由で約30分。大阪市内から約45分。
-・法隆寺・斑鳩エリアへの周遊：信貴山から世界遺産「法隆寺」へは車で約20分。新春の聖徳太子ゆかりの地を巡るドライブコースに最適。
-
-【見頃・気候・おすすめの服装】
-・ベストシーズン：11月下旬〜1月下旬（信貴山朝護孫子寺新春初詣、冬の澄んだ夜景、ぼたん鍋と温泉の旬）。
-・気温の目安：山上の信貴山は奈良盆地や大阪平野部よりも気温が2〜3℃低く、冬の朝晩は氷点下近くまで冷え込みます。日中は6〜10℃前後。
-・服装のポイント：境内は山肌に沿って階段や坂道が多いため、歩きやすい防寒シューズまたはスニーカーが最適。厚手のコートやダウンジャケット、手袋を着用して温かい服装でお参りください。
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
+              <div className="bg-stone-50 rounded-xl p-4 sm:p-5 border border-stone-200/80 space-y-3">
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2">
+                  <span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
+                  <span>エリアへのアクセス</span>
+                </h4>
+                <ul className="space-y-2 text-xs sm:text-sm text-stone-600 leading-relaxed">
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">電車・公共交通：</strong>近鉄生駒線「信貴山下駅」またはJR・近鉄「王寺駅」北口より奈良交通バス「信貴山門」行きで約20分。大阪方面からは、近鉄大阪線「山本駅」経由信貴山口駅より西信貴ケーブル「高安山駅」下車、近鉄バス「信貴山門」行きで約7分。大阪難波駅から王寺駅までJR大和路快速で約20分と至近。</span>
+                  </li>
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">車・マイカー：</strong>西名阪自動車道「法隆寺IC」または「香芝IC」より国道25号経由で約20〜25分。第二阪奈道路「壱分IC」より信貴生駒スカイライン経由で約30分。大阪市内から約45分。</span>
+                  </li>
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">法隆寺・斑鳩エリアへの周遊：</strong>信貴山から世界遺産「法隆寺」へは車で約20分。新春の聖徳太子ゆかりの地を巡るドライブコースに最適。</span>
+                  </li>
+                </ul>
+              </div>
+              <div className="bg-stone-50 rounded-xl p-4 sm:p-5 border border-stone-200/80 space-y-3">
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2">
+                  <span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
+                  <span>見頃・気候・おすすめの服装</span>
+                </h4>
+                <ul className="space-y-2 text-xs sm:text-sm text-stone-600 leading-relaxed">
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">ベストシーズン：</strong>11月下旬〜1月下旬（信貴山朝護孫子寺新春初詣、冬の澄んだ夜景、ぼたん鍋と温泉の旬）。</span>
+                  </li>
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">気温の目安：</strong>山上の信貴山は奈良盆地や大阪平野部よりも気温が2〜3℃低く、冬の朝晩は氷点下近くまで冷え込みます。日中は6〜10℃前後。</span>
+                  </li>
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">服装のポイント：</strong>境内は山肌に沿って階段や坂道が多いため、歩きやすい防寒シューズまたはスニーカーが最適。厚手のコートやダウンジャケット、手袋を着用して温かい服装でお参りください。</span>
+                  </li>
+                </ul>
+              </div>
             </div>
           </div>
         </section>
@@ -346,16 +378,17 @@ export default function FeaturePage() {
                         柿本家
                       </a>
                     </h3>
-                    <p className="text-xs text-stone-600 leading-relaxed">
-                      信貴山の緑豊かな山懐に佇み、創業100年を超える歴史と格式を誇る名門料亭旅館。客室からは信貴山の雄大な稜線や渓谷美が一望でき、露天風呂付き客室では冬の澄んだ星空と冷涼な空気を感じながらプライベートな湯浴みが楽しめます。宿の真骨頂である料理は、選び抜かれた奈良の銘柄「大和牛」の炭火焼きや、旬の大和野菜を美しく散りばめた極上の会席料理。日常を忘れ、心静かに特別な記念日や冬の休日を過ごしたい大人のための名宿です。
-                    </p>
+                    <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
+                      <p>信貴山の緑豊かな山懐に佇み、創業100年を超える歴史と格式を誇る名門料亭旅館。客室からは信貴山の雄大な稜線や渓谷美が一望でき、露天風呂付き客室では冬の澄んだ星空と冷涼な空気を感じながらプライベートな湯浴みが楽しめます。</p>
+                      <p>宿の真骨頂である料理は、選び抜かれた奈良の銘柄「大和牛」の炭火焼きや、旬の大和野菜を美しく散りばめた極上の会席料理。日常を忘れ、心静かに特別な記念日や冬の休日を過ごしたい大人のための名宿です。</p>
+                    </div>
                     <ul className="text-xs text-stone-700 space-y-1 pt-1">
                       <li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>信貴山の四季折々の自然と渓谷を見晴らすテラス付き露天風呂客室</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>料理長が腕を振るう四季の本格懐石・A5ランク大和牛の極上ステーキ</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>創業百余年の歴史と洗練された和モダン空間が織りなす上質な時間</span></li>
                     </ul>
                   </div>
 
                   
-                <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
+                <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
                   <p className="leading-relaxed">{"「室内風呂でゆっくり、細やかな気遣いに感謝室内風呂付きに泊まるのは初めてですが、自分の好きなタイミングで入れゆっくり過ごすことが出来ました。ご飯を豪華にしたかったので、マタニティプランにはしなかった… 投。」"}</p>
                 </div>
@@ -411,16 +444,17 @@ export default function FeaturePage() {
                         天然湧出信貴山温泉　信貴山観光ホテル
                       </a>
                     </h3>
-                    <p className="text-xs text-stone-600 leading-relaxed">
-                      信貴山朝護孫子寺の門前に位置し、信貴山観光や新春初詣の拠点として絶大な人気を誇る温泉旅館。地下から自然湧出する天然信貴山温泉は、肌に優しくじんわりと温まる単純温泉で、広々とした大浴場や冬の雪景色を望む露天風呂で心ゆくまで癒やされます。夕食の目玉は、冬限定の名物「ぼたん鍋」。特製味噌出汁で煮込む新鮮な猪肉は臭みが全くなく、濃厚な脂の甘みと地場野菜の旨味が溶け合って格別の美味しさを誇ります。
-                    </p>
+                    <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
+                      <p>信貴山朝護孫子寺の門前に位置し、信貴山観光や新春初詣の拠点として絶大な人気を誇る温泉旅館。地下から自然湧出する天然信貴山温泉は、肌に優しくじんわりと温まる単純温泉で、広々とした大浴場や冬の雪景色を望む露天風呂で心ゆくまで癒やされます。</p>
+                      <p>夕食の目玉は、冬限定の名物「ぼたん鍋」。特製味噌出汁で煮込む新鮮な猪肉は臭みが全くなく、濃厚な脂の甘みと地場野菜の旨味が溶け合って格別の美味しさを誇ります。</p>
+                    </div>
                     <ul className="text-xs text-stone-700 space-y-1 pt-1">
                       <li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>信貴山唯一の自家湧出天然温泉！大浴場と信貴の山並みを望む露天風呂</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>朝護孫子寺まで徒歩数分！開運初詣の拠点に抜群のロケーション</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>冬の味覚の王様「天然猪肉の特製ぼたん鍋」と大和牛のすき焼きプラン</span></li>
                     </ul>
                   </div>
 
                   
-                <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
+                <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
                   <p className="leading-relaxed">{"「家から電車で送迎もあり、手軽に利用してます。リーズナブルなお値段とアットホーム的な接客も気に入ってます。特に気に入ってるのは、露天風呂です。こじんまりしてますが、開放的です。クチコミの詳細はこ…。」"}</p>
                 </div>
@@ -476,16 +510,17 @@ export default function FeaturePage() {
                         わんわんパラダイス　奈良生駒（旧：亀の井ホテル　大和平群）
                       </a>
                     </h3>
-                    <p className="text-xs text-stone-600 leading-relaxed">
-                      信貴山の麓、平群の豊かな自然に抱かれた愛犬家御用達のリゾートホテル。大切な愛犬と一緒に気兼ねなく温泉旅行が楽しめる設備が整っており、広々とした客室やドッグランで愛犬ものびのび過ごせます。館内には天然平群温泉が注がれる大浴場があり、美肌効果の高いお湯で冷えた身体を温められます。夕食には大和牛の陶板焼きなど、奈良の味覚を散りばめた会席料理が提供され、家族みんなで笑顔になれる冬の思い出作りをサポートします。
-                    </p>
+                    <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
+                      <p>信貴山の麓、平群の豊かな自然に抱かれた愛犬家御用達のリゾートホテル。大切な愛犬と一緒に気兼ねなく温泉旅行が楽しめる設備が整っており、広々とした客室やドッグランで愛犬ものびのび過ごせます。</p>
+                      <p>館内には天然平群温泉が注がれる大浴場があり、美肌効果の高いお湯で冷えた身体を温められます。夕食には大和牛の陶板焼きなど、奈良の味覚を散りばめた会席料理が提供され、家族みんなで笑顔になれる冬の思い出作りをサポートします。</p>
+                    </div>
                     <ul className="text-xs text-stone-700 space-y-1 pt-1">
                       <li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>愛犬同伴専用ルーム完備！屋内外ドッグランとペット用アメニティ充実</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>肌触りなめらかな天然平群温泉の大浴場とサウナで心身リフレッシュ</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>大和牛や奈良の旬菜を味わう本格和食コースディナー</span></li>
                     </ul>
                   </div>
 
                   
-                <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
+                <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
                   <p className="leading-relaxed">{"「愛犬と一緒に快適に過ごせて大満足愛犬と、仲良く旅行できて、設備も整っていて満足しました。」"}</p>
                 </div>
@@ -541,9 +576,10 @@ export default function FeaturePage() {
                         生駒のお宿　城山旅館
                       </a>
                     </h3>
-                    <p className="text-xs text-stone-600 leading-relaxed">
-                      生駒山の中腹、宝山寺の参道近くの高台に佇む料理自慢の老舗旅館。宿の最大の魅力は、窓一面に広がる息を呑むような大阪平野の大パノラマ夜景。冬の澄み渡る空気の中で瞬く無数の街明かりを、お部屋にいながら静かに鑑賞できます。お料理は腕利きの料理人が旬の素材を吟味して仕立てる本格和食会席。大和牛のしゃぶしゃぶやすき焼き、冬の旬魚が美しく並び、信貴山初詣と合わせた贅沢な山の手ステイを満喫できます。
-                    </p>
+                    <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
+                      <p>生駒山の中腹、宝山寺の参道近くの高台に佇む料理自慢の老舗旅館。宿の最大の魅力は、窓一面に広がる息を呑むような大阪平野の大パノラマ夜景。冬の澄み渡る空気の中で瞬く無数の街明かりを、お部屋にいながら静かに鑑賞できます。</p>
+                      <p>お料理は腕利きの料理人が旬の素材を吟味して仕立てる本格和食会席。大和牛のしゃぶしゃぶやすき焼き、冬の旬魚が美しく並び、信貴山初詣と合わせた贅沢な山の手ステイを満喫できます。</p>
+                    </div>
                     <ul className="text-xs text-stone-700 space-y-1 pt-1">
                       <li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>客室や展望ロビーから大阪平野の100万ドルの夜景を一望するロケーション</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>毎朝市場で仕入れる鮮魚と大和牛を盛り込んだ老舗の本格会席</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>アットホームで細やかなもてなしと生駒山・信貴山への好アクセス</span></li>
                     </ul>
@@ -601,9 +637,10 @@ export default function FeaturePage() {
                         門前おかげ楼
                       </a>
                     </h3>
-                    <p className="text-xs text-stone-600 leading-relaxed">
-                      生駒山の門前町に佇み、昭和初期の貴重な近代和風建築として国の登録有形文化財に指定されている格式高い料理旅館。歴史を感じさせる欄間や格子窓、重厚な木造の設えが訪れる旅人をノスタルジックな世界へと誘います。料理は漢方や薬膳の知恵を取り入れた体に優しい会席で、冬の冷えを解消し免疫力を高めてくれる鍋料理や季節の小鉢が好評。静けさの中で古き良き日本の美意識に浸る、大人の隠れ家ステイに最適です。
-                    </p>
+                    <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
+                      <p>生駒山の門前町に佇み、昭和初期の貴重な近代和風建築として国の登録有形文化財に指定されている格式高い料理旅館。歴史を感じさせる欄間や格子窓、重厚な木造の設えが訪れる旅人をノスタルジックな世界へと誘います。</p>
+                      <p>料理は漢方や薬膳の知恵を取り入れた体に優しい会席で、冬の冷えを解消し免疫力を高めてくれる鍋料理や季節の小鉢が好評。静けさの中で古き良き日本の美意識に浸る、大人の隠れ家ステイに最適です。</p>
+                    </div>
                     <ul className="text-xs text-stone-700 space-y-1 pt-1">
                       <li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>昭和初期の面影を今に伝える登録有形文化財の風情ある建物</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>スパイスと漢方を取り入れた薬膳料理や身体を温める鍋料理</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>レトロな趣と木の温もりに包まれる静寂の隠れ家ステイ</span></li>
                     </ul>

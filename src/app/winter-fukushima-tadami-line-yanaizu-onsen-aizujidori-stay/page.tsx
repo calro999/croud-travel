@@ -169,9 +169,10 @@ export default function FeaturePage() {
 
             <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold leading-tight">「白銀のJR只見線と赤べこ発祥圓蔵寺」2026-2027年冬の福島・奥会津＆柳津！開湯1200年名湯と会津地鶏名宿5選</h1>
 
-            <p className="text-stone-300 text-xs sm:text-sm leading-relaxed max-w-3xl pt-2">
-              福島県西部に位置し、只見川の清流と険しい山々に囲まれた奥会津の玄関口・柳津町および大沼郡三島町。世界中の鉄道ファンや旅行者が「世界で最もロマンチックな雪景色の鉄道路線。」と絶賛するJR只見線は、11月から1月の冬期を迎えると、第一只見川橋梁をはじめとするアーチ橋と白銀のブナ原生林、川霧が織りなす水墨画のような幻想美の頂点を迎えます。只見川の断崖の上にそびえ立ち、会津の守り神「赤べこ」の発祥地として名高い福満虚空藏菩薩圓蔵寺（柳津虚空蔵尊）では、新春の厄除け初詣や毎年1月7日に下帯姿の男衆が麻縄をよじ登る天下の奇祭「七日堂裸まいり」が厳かに執り行われます。開湯1200年の名湯「柳津温泉」や只見川の川面を望む早戸温泉・宮下温泉の雪見露天風呂、コクと弾力あふれる「会津地鶏の水炊き鍋」や会津名物「極上馬刺し」、蒸したて熱々の柳津あわまんじゅう。静寂と温もりに包まれる奥会津の冬ごもりへと旅人を誘います。
-            </p>
+            <div className="space-y-3 pt-3 max-w-3xl text-stone-200 text-sm sm:text-base leading-relaxed sm:leading-loose">
+              <p>福島県西部に位置し、只見川の清流と険しい山々に囲まれた奥会津の玄関口・柳津町および大沼郡三島町。世界中の鉄道ファンや旅行者が「世界で最もロマンチックな雪景色の鉄道路線。」と絶賛するJR只見線は、11月から1月の冬期を迎えると、第一只見川橋梁をはじめとするアーチ橋と白銀のブナ原生林、川霧が織りなす水墨画のような幻想美の頂点を迎えます。</p>
+              <p>只見川の断崖の上にそびえ立ち、会津の守り神「赤べこ」の発祥地として名高い福満虚空藏菩薩圓蔵寺（柳津虚空蔵尊）では、新春の厄除け初詣や毎年1月7日に下帯姿の男衆が麻縄をよじ登る天下の奇祭「七日堂裸まいり」が厳かに執り行われます。開湯1200年の名湯「柳津温泉」や只見川の川面を望む早戸温泉・宮下温泉の雪見露天風呂、コクと弾力あふれる「会津地鶏の水炊き鍋」や会津名物「極上馬刺し」、蒸したて熱々の柳津あわまんじゅう。静寂と温もりに包まれる奥会津の冬ごもりへと旅人を誘います。</p>
+            </div>
           </div>
         </header>
 
@@ -189,21 +190,21 @@ export default function FeaturePage() {
             <div className="bg-white rounded-xl p-5 border border-stone-200 space-y-2">
               <span className="text-xs font-bold text-cyan-700 tracking-wider">REASON 01</span>
               <h3 className="font-bold text-stone-900 text-base">世界が絶賛する「JR只見線第一只見川橋梁」の息を呑む白銀パノラマ</h3>
-              <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">雪深い渓谷を縫うように走るJR只見線。道の駅みしま宿近くの第一只見川橋梁ビューポイントからは、鏡のような只見川の川面に映る鉄橋と雪化粧したキハ110系気動車の姿を望むことができ、冬ならではの静寂と奇跡の瞬間に出逢えます。</p>
+              <p className="text-sm sm:text-base text-stone-600 leading-relaxed">雪深い渓谷を縫うように走るJR只見線。道の駅みしま宿近くの第一只見川橋梁ビューポイントからは、鏡のような只見川の川面に映る鉄橋と雪化粧したキハ110系気動車の姿を望むことができ、冬ならではの静寂と奇跡の瞬間に出逢えます。</p>
             </div>
             
 
             <div className="bg-white rounded-xl p-5 border border-stone-200 space-y-2">
               <span className="text-xs font-bold text-cyan-700 tracking-wider">REASON 02</span>
               <h3 className="font-bold text-stone-900 text-base">赤べこ発祥の霊場「福満虚空藏菩薩圓蔵寺」の新春初詣と七日堂裸まいり</h3>
-              <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">弘法大師の作と伝わる本尊を祀る日本三大虚空蔵尊の一つ・圓蔵寺。難工事を助けた赤毛の牛の伝説から「赤べこ」が生まれた聖地で、新春の初詣では家内安全や学業成就を願う参拝客で賑わいます。雪の只見川を見下ろす舞台造りの本堂は圧巻の迫力です。</p>
+              <p className="text-sm sm:text-base text-stone-600 leading-relaxed">弘法大師の作と伝わる本尊を祀る日本三大虚空蔵尊の一つ・圓蔵寺。難工事を助けた赤毛の牛の伝説から「赤べこ」が生まれた聖地で、新春の初詣では家内安全や学業成就を願う参拝客で賑わいます。雪の只見川を見下ろす舞台造りの本堂は圧巻の迫力です。</p>
             </div>
             
 
             <div className="bg-white rounded-xl p-5 border border-stone-200 space-y-2">
               <span className="text-xs font-bold text-cyan-700 tracking-wider">REASON 03</span>
               <h3 className="font-bold text-stone-900 text-base">開湯1200年の名湯「柳津温泉」の雪見風呂と濃厚な「会津地鶏鍋」・極上馬刺し</h3>
-              <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">塩化物泉の保湿効果で湯冷めしない柳津温泉や、薬効豊かな炭酸水素塩泉の早戸温泉。冬の川風を感じながら浸かる雪見露天風呂はまさに極楽。夕食には豊かな旨味としっかりした歯ごたえの「会津地鶏」鍋や、辛子味噌でいただく新鮮な馬刺しなど会津の冬の美食が並びます。</p>
+              <p className="text-sm sm:text-base text-stone-600 leading-relaxed">塩化物泉の保湿効果で湯冷めしない柳津温泉や、薬効豊かな炭酸水素塩泉の早戸温泉。冬の川風を感じながら浸かる雪見露天風呂はまさに極楽。夕食には豊かな旨味としっかりした歯ごたえの「会津地鶏」鍋や、辛子味噌でいただく新鮮な馬刺しなど会津の冬の美食が並びます。</p>
             </div>
             
             </div>
@@ -219,16 +220,47 @@ export default function FeaturePage() {
                 アクセス・気候・おすすめの服装
               </h3>
             </div>
-            <div className="whitespace-pre-line text-xs sm:text-sm text-stone-600 leading-relaxed">
-              【エリアへのアクセス】
-・電車：JR磐越西線「会津若松駅」よりJR只見線に乗り換え「会津柳津駅」まで約1時間、「会津宮下駅」まで約1時間20分。東京方面からは東北新幹線「郡山駅」経由で会津若松駅へアクセス。
-・車：磐越自動車道「会津坂下IC」より国道252号線を経由して柳津町市街地まで約10〜15分、三島町まで約25分。東京方面から約3時間30分、仙台方面から約2時間。
-・第一只見川橋梁ビューポイント：道の駅みしま宿（三島町）から遊歩道を登り徒歩約5〜10分。
-
-【見頃・気候・おすすめの服装】
-・ベストシーズン：11月下旬〜1月下旬（只見線の雪景色、圓蔵寺新春初詣・七日堂裸まいり、雪見温泉の最盛期）。
-・気温の目安：奥会津は全国屈指の特別豪雪地帯であり、12月〜1月の真冬は日中でも氷点下になる日が多く、朝晩は氷点下5℃〜10℃近くまで冷え込みます。
-・服装のポイント：本格的な防寒対策が必須です。極厚手のダウンコート、フリース、保温吸湿インナー、防寒手袋、厚手の靴下、耳あて付きニット帽を着用してください。足元は深い雪や凍結に対応できる防水・防滑仕様のスノーブーツ（長靴等）が絶対に必要です。マイカーの場合は4WD車＋高性能スタッドレスタイヤが必須です。
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
+              <div className="bg-stone-50 rounded-xl p-4 sm:p-5 border border-stone-200/80 space-y-3">
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2">
+                  <span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
+                  <span>エリアへのアクセス</span>
+                </h4>
+                <ul className="space-y-2 text-xs sm:text-sm text-stone-600 leading-relaxed">
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">電車：</strong>JR磐越西線「会津若松駅」よりJR只見線に乗り換え「会津柳津駅」まで約1時間、「会津宮下駅」まで約1時間20分。東京方面からは東北新幹線「郡山駅」経由で会津若松駅へアクセス。</span>
+                  </li>
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">車：</strong>磐越自動車道「会津坂下IC」より国道252号線を経由して柳津町市街地まで約10〜15分、三島町まで約25分。東京方面から約3時間30分、仙台方面から約2時間。</span>
+                  </li>
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">第一只見川橋梁ビューポイント：</strong>道の駅みしま宿（三島町）から遊歩道を登り徒歩約5〜10分。</span>
+                  </li>
+                </ul>
+              </div>
+              <div className="bg-stone-50 rounded-xl p-4 sm:p-5 border border-stone-200/80 space-y-3">
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2">
+                  <span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
+                  <span>見頃・気候・おすすめの服装</span>
+                </h4>
+                <ul className="space-y-2 text-xs sm:text-sm text-stone-600 leading-relaxed">
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">ベストシーズン：</strong>11月下旬〜1月下旬（只見線の雪景色、圓蔵寺新春初詣・七日堂裸まいり、雪見温泉の最盛期）。</span>
+                  </li>
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">気温の目安：</strong>奥会津は全国屈指の特別豪雪地帯であり、12月〜1月の真冬は日中でも氷点下になる日が多く、朝晩は氷点下5℃〜10℃近くまで冷え込みます。</span>
+                  </li>
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">服装のポイント：</strong>本格的な防寒対策が必須です。極厚手のダウンコート、フリース、保温吸湿インナー、防寒手袋、厚手の靴下、耳あて付きニット帽を着用してください。足元は深い雪や凍結に対応できる防水・防滑仕様のスノーブーツ（長靴等）が絶対に必要です。マイカーの場合は4WD車＋高性能スタッドレスタイヤが必須です。</span>
+                  </li>
+                </ul>
+              </div>
             </div>
           </div>
         </section>
@@ -256,7 +288,7 @@ export default function FeaturePage() {
                 <h3 className="font-bold text-stone-900 text-sm sm:text-base">
                   霊場・福満虚空藏菩薩圓蔵寺（赤べこ発祥と冬の只見川絶景） の見どころと歴史
                 </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
+                <p className="text-sm sm:text-base text-stone-600 leading-relaxed">
                   柳津町（やないづまち）は、福島県会津地方（奥会津）に位置し、河沼郡に属する町。 奥会津の入り口に位置し、圓蔵寺の門前町として発展してきた。赤べこ伝説発祥の地である。
                 </p>
                 <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
@@ -307,14 +339,15 @@ export default function FeaturePage() {
                     <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">
                       会津柳津温泉　瀞流の宿　かわち
                     </h3>
-                    <p className="text-xs text-stone-600 leading-relaxed">
-                      只見川のほとりに佇み、窓を開ければ雄大な渓流と雪化粧した山並みが絵画のように広がる柳津温泉の名旅館。自慢の露天風呂は只見川に迫り出すように造られており、冬のひんやりとした川風を受けながら、豊富に湧出する源泉掛け流しの湯に肩まで浸かる贅沢を満喫できます。夕食には引き締まった肉質と深いコクが自慢の「会津地鶏」を特製出汁で味わう鍋料理を中心に、会津名物の赤身馬刺しや山菜料理が美しく並び、心温まる奥会津の夜を演出してくれます。
-                    </p>
-                    <ul className="text-xs text-stone-700 space-y-1 pt-1 border-t border-stone-100">
+                    <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
+                      <p>只見川のほとりに佇み、窓を開ければ雄大な渓流と雪化粧した山並みが絵画のように広がる柳津温泉の名旅館。自慢の露天風呂は只見川に迫り出すように造られており、冬のひんやりとした川風を受けながら、豊富に湧出する源泉掛け流しの湯に肩まで浸かる贅沢を満喫できます。</p>
+                      <p>夕食には引き締まった肉質と深いコクが自慢の「会津地鶏」を特製出汁で味わう鍋料理を中心に、会津名物の赤身馬刺しや山菜料理が美しく並び、心温まる奥会津の夜を演出してくれます。</p>
+                    </div>
+                    <ul className="text-xs sm:text-sm text-stone-700 space-y-2 pt-2 border-t border-stone-100">
                       <li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>全室リバービュー！只見川の清流と雪景色を見下ろす絶好のロケーション</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>自家源泉の柳津温泉・肌をなめらかに潤すナトリウム塩化物泉の雪見露天</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>会津地鶏の水炊き鍋や特選馬刺し・季節の郷土山菜料理</span></li>
                     </ul>
                     
-                <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
+                <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
                   <p className="leading-relaxed">{"「温泉と料理に大満足、接客も心地よい宿温泉が大変良かったです。料理も美味しく、地元の食材を使った郷土料理は、少しずつですが、種類が多くて満足できました。部屋も広くて、洗面、トイレ、シャワーが… つづ。」"}</p>
                 </div>
@@ -368,14 +401,15 @@ export default function FeaturePage() {
                     <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">
                       柳津温泉　つきみが丘町民センター
                     </h3>
-                    <p className="text-xs text-stone-600 leading-relaxed">
-                      柳津温泉街を見下ろす緑豊かな高台に建ち、清潔で機能的な設備と温かなサービスで親しまれる公共の温泉宿。広々とした大浴場には柳津温泉の源泉が注がれ、大きな窓から雪化粧した奥会津の山々と只見川のパノラマを眺めながらゆったりと手足を伸ばせます。夕食は会津牛の陶板焼きや新鮮な川魚、季節の小鉢など、手作りの郷土の味が揃いコストパフォーマンスも抜群。圓蔵寺へも車で数分と観光拠点に最適な宿です。
-                    </p>
-                    <ul className="text-xs text-stone-700 space-y-1 pt-1 border-t border-stone-100">
+                    <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
+                      <p>柳津温泉街を見下ろす緑豊かな高台に建ち、清潔で機能的な設備と温かなサービスで親しまれる公共の温泉宿。広々とした大浴場には柳津温泉の源泉が注がれ、大きな窓から雪化粧した奥会津の山々と只見川のパノラマを眺めながらゆったりと手足を伸ばせます。</p>
+                      <p>夕食は会津牛の陶板焼きや新鮮な川魚、季節の小鉢など、手作りの郷土の味が揃いコストパフォーマンスも抜群。圓蔵寺へも車で数分と観光拠点に最適な宿です。</p>
+                    </div>
+                    <ul className="text-xs sm:text-sm text-stone-700 space-y-2 pt-2 border-t border-stone-100">
                       <li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>柳津の町並みと只見川を一望する高台のパノラマビュー</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>ゆったりとした天然温泉大浴場とサウナで心身をリフレッシュ</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>会津の郷土食材をふんだんに取り入れた真心のこもった和食膳</span></li>
                     </ul>
                     
-                <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
+                <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
                   <p className="leading-relaxed">{"「実家のようにくつろげる安心感我が家や実家の様な場所です つづ。」"}</p>
                 </div>
@@ -429,14 +463,15 @@ export default function FeaturePage() {
                     <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">
                       宮下温泉　ふるさと荘
                     </h3>
-                    <p className="text-xs text-stone-600 leading-relaxed">
-                      JR只見線の第一只見川橋梁ビューポイントがある三島町に位置し、宮下温泉の清らかな源泉をたたえる素朴で心温まる宿。只見線の撮影や冬の奥会津巡りを楽しむ旅人にとって最高の立地を誇ります。お風呂は肌に優しいナトリウム・カルシウム-硫酸塩・塩化物泉で、入浴後もぽかぽかと温かさが持続。夕食には奥会津の山で採れた山菜の天ぷらや煮物、川魚の塩焼きなど、素朴ながら滋味豊かな郷土料理が並び、心安らぐひとときを過ごせます。
-                    </p>
-                    <ul className="text-xs text-stone-700 space-y-1 pt-1 border-t border-stone-100">
+                    <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
+                      <p>JR只見線の第一只見川橋梁ビューポイントがある三島町に位置し、宮下温泉の清らかな源泉をたたえる素朴で心温まる宿。只見線の撮影や冬の奥会津巡りを楽しむ旅人にとって最高の立地を誇ります。</p>
+                      <p>お風呂は肌に優しいナトリウム・カルシウム-硫酸塩・塩化物泉で、入浴後もぽかぽかと温かさが持続。夕食には奥会津の山で採れた山菜の天ぷらや煮物、川魚の塩焼きなど、素朴ながら滋味豊かな郷土料理が並び、心安らぐひとときを過ごせます。</p>
+                    </div>
+                    <ul className="text-xs sm:text-sm text-stone-700 space-y-2 pt-2 border-t border-stone-100">
                       <li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>JR只見線「会津宮下駅」近く！第一只見川橋梁観光の絶好の拠点</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>只見川のせせらぎが響く宮下温泉・硫酸塩・塩化物泉の温まる天然温泉</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>地元のお母さんたちが手作りする奥会津の滋味あふれる田舎料理</span></li>
                     </ul>
                     
-                <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
+                <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
                   <p className="leading-relaxed">{"「眺めとお風呂がサイコー 割引情報の周知を希望お風呂と部屋からの眺めサイコー福島割りの情報なく一人三千円損した感じ(_)畳替えたんですね また行きます。」"}</p>
                 </div>
@@ -490,14 +525,15 @@ export default function FeaturePage() {
                     <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">
                       柳津温泉　旅館　内田屋
                     </h3>
-                    <p className="text-xs text-stone-600 leading-relaxed">
-                      圓蔵寺の参道近くに位置し、創業以来多くの参詣客や文人墨客を迎えてきた風情ある純和風旅館。門前町ならではの落ち着いた雰囲気が漂い、静かに旅の情緒を味わいたい方に最適です。天然温泉のお風呂は清潔に保たれ、旅の疲れをやさしく癒やしてくれます。夕食には会津地鶏の焼き物や鍋、地元産そば粉を使った打ち立ての手打ちそば、冬の山菜の煮物など、女将が真心を込めて作る郷土料理が並び、どこか懐かしい温もりに包まれます。
-                    </p>
-                    <ul className="text-xs text-stone-700 space-y-1 pt-1 border-t border-stone-100">
+                    <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
+                      <p>圓蔵寺の参道近くに位置し、創業以来多くの参詣客や文人墨客を迎えてきた風情ある純和風旅館。門前町ならではの落ち着いた雰囲気が漂い、静かに旅の情緒を味わいたい方に最適です。</p>
+                      <p>天然温泉のお風呂は清潔に保たれ、旅の疲れをやさしく癒やしてくれます。夕食には会津地鶏の焼き物や鍋、地元産そば粉を使った打ち立ての手打ちそば、冬の山菜の煮物など、女将が真心を込めて作る郷土料理が並び、どこか懐かしい温もりに包まれます。</p>
+                    </div>
+                    <ul className="text-xs sm:text-sm text-stone-700 space-y-2 pt-2 border-t border-stone-100">
                       <li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>福満虚空藏菩薩圓蔵寺まで徒歩数分！新春初詣や参拝に最高の立地</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>歴史ある純和風客室と奥会津の自然石を配した天然温泉風呂</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>会津地鶏や手打ちそば・冬の根菜をじっくり味わう手作り膳</span></li>
                     </ul>
                     
-                <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
+                <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
                   <p className="leading-relaxed">{"「美味しい食事と熱いお風呂に大満足ご飯がとても美味しかったです。でも、土地柄か、全体的に味が濃いので、その点はご注意を。子どもたち(小6・中2)が馬刺しにハマりました。あと、五穀米が程よく味があって… 投。」"}</p>
                 </div>
@@ -551,10 +587,11 @@ export default function FeaturePage() {
                     <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">
                       歳時記の郷　奥会津　清水屋旅館
                     </h3>
-                    <p className="text-xs text-stone-600 leading-relaxed">
-                      只見川をさらに遡った大沼郡金山町に位置し、奥会津の豊かな自然と伝統文化を肌で感じられる風情ある温泉旅館。周辺には全国的にも珍しい天然炭酸温泉が点在し、効能豊かな名湯巡りの拠点としても人気を集めています。館内は木の温もりに満ちた落ち着いた空間で、冬の厳しい寒さを忘れさせてくれる温かなおもてなしが魅力。夕食には奥会津の風土が育んだ伝統野菜や山の恵みを活かした郷土会席が並び、深い安らぎを与えてくれます。
-                    </p>
-                    <ul className="text-xs text-stone-700 space-y-1 pt-1 border-t border-stone-100">
+                    <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
+                      <p>只見川をさらに遡った大沼郡金山町に位置し、奥会津の豊かな自然と伝統文化を肌で感じられる風情ある温泉旅館。周辺には全国的にも珍しい天然炭酸温泉が点在し、効能豊かな名湯巡りの拠点としても人気を集めています。</p>
+                      <p>館内は木の温もりに満ちた落ち着いた空間で、冬の厳しい寒さを忘れさせてくれる温かなおもてなしが魅力。夕食には奥会津の風土が育んだ伝統野菜や山の恵みを活かした郷土会席が並び、深い安らぎを与えてくれます。</p>
+                    </div>
+                    <ul className="text-xs sm:text-sm text-stone-700 space-y-2 pt-2 border-t border-stone-100">
                       <li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>奥会津金山町の大自然に抱かれた静寂のロケーション</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>天然のミネラルと炭酸ガスを豊富に含む奥会津の希少な源泉</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>地元産の赤カボチャや山菜・奥会津の伝統食を味わう贅沢</span></li>
                     </ul>
                     
@@ -623,7 +660,7 @@ export default function FeaturePage() {
                 <span className="text-cyan-700 font-extrabold">Q.</span>
                 <span>冬のJR只見線は豪雪で運休することはありますか？</span>
               </h3>
-              <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
+              <p className="text-sm sm:text-base text-stone-600 leading-relaxed pl-5">
                 只見線は豪雪地帯を走るため、猛吹雪や大雪の際には遅延や計画運休が発生することがあります。冬期に旅行される際は、JR東日本の運行情報（どこトレ）をこまめに確認し、余裕を持ったスケジュールを組むことをおすすめします。主要な温泉宿では最寄り駅からの送迎に対応しています。
               </p>
             </div>
@@ -634,7 +671,7 @@ export default function FeaturePage() {
                 <span className="text-cyan-700 font-extrabold">Q.</span>
                 <span>赤べこ発祥の圓蔵寺や第一只見川橋梁ビューポイントは雪道でも登れますか？</span>
               </h3>
-              <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
+              <p className="text-sm sm:text-base text-stone-600 leading-relaxed pl-5">
                 圓蔵寺の境内や石段、道の駅みしま宿から第一只見川橋梁ビューポイントへの遊歩道は、除雪や踏み固めがされていますが、急な坂道や階段が凍結している場合があります。滑りにくいスノーブーツを着用し、手すりを利用するなど足元に十分注意して登ってください。
               </p>
             </div>
@@ -645,7 +682,7 @@ export default function FeaturePage() {
                 <span className="text-cyan-700 font-extrabold">Q.</span>
                 <span>名物「あわまんじゅう」はどこで購入できますか？</span>
               </h3>
-              <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
+              <p className="text-sm sm:text-base text-stone-600 leading-relaxed pl-5">
                 圓蔵寺の門前町（柳津温泉街）にある「小池菓子舗」などの和菓子店で販売されています。粟ともち米を使った黄色いプチプチとした生地の中に上品なこし餡が入っており、店頭で蒸したての温かいものをその場で味わうのが冬の醍醐味です。お土産としても大人気です。
               </p>
             </div>

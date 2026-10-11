@@ -169,9 +169,10 @@ export default function FeaturePage() {
 
             <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold leading-tight">「尾ノ内百景氷柱と薬師の湯」2026-2027年冬の埼玉・秩父＆小鹿野！猪鹿ぼたん鍋と武州和牛名宿5選</h1>
 
-            <p className="text-stone-300 text-xs sm:text-sm leading-relaxed max-w-3xl pt-2">
-              都心から特急ラビューでわずか約80分でアクセスできる埼玉県の奥座敷・秩父路。三峰山や武甲山などの霊峰に抱かれたこの山里は、12月から1月の厳冬期を迎えると、氷点下の澄みきった冷気と清流が生み出す奇跡の自然芸術「尾ノ内百景氷柱」や「三十槌の氷柱（みそつちのひょうちゅう）」で銀世界へと変貌します。岩肌から滴り落ちる湧水が幾重にも重なって凍りつき、巨大な青白い氷のカーテンを織りなす情景はまさに息を呑む絶景。夜間には環境に配慮したライトアップが行われ、昼とは異なる幻想世界が広がります。さらに日本屈指のパワースポット・三峯神社や宝登山神社、秩父神社への厳かな新春初詣、名峰両神山の麓に湧く「小鹿野温泉薬師の湯」のとろりとした美肌湯、冬の野趣あふれる秩父ジビエ「猪鹿ぼたん鍋」や霜降り「武州和牛」のすき焼き。心洗われる冬のショートトリップへと誘います。
-            </p>
+            <div className="space-y-3 pt-3 max-w-3xl text-stone-200 text-sm sm:text-base leading-relaxed sm:leading-loose">
+              <p>都心から特急ラビューでわずか約80分でアクセスできる埼玉県の奥座敷・秩父路。三峰山や武甲山などの霊峰に抱かれたこの山里は、12月から1月の厳冬期を迎えると、氷点下の澄みきった冷気と清流が生み出す奇跡の自然芸術「尾ノ内百景氷柱」や「三十槌の氷柱（みそつちのひょうちゅう）」で銀世界へと変貌します。岩肌から滴り落ちる湧水が幾重にも重なって凍りつき、巨大な青白い氷のカーテンを織りなす情景はまさに息を呑む絶景。</p>
+              <p>夜間には環境に配慮したライトアップが行われ、昼とは異なる幻想世界が広がります。さらに日本屈指のパワースポット・三峯神社や宝登山神社、秩父神社への厳かな新春初詣、名峰両神山の麓に湧く「小鹿野温泉薬師の湯」のとろりとした美肌湯、冬の野趣あふれる秩父ジビエ「猪鹿ぼたん鍋」や霜降り「武州和牛」のすき焼き。心洗われる冬のショートトリップへと誘います。</p>
+            </div>
           </div>
         </header>
 
@@ -189,21 +190,21 @@ export default function FeaturePage() {
             <div className="bg-white rounded-xl p-5 border border-stone-200 space-y-2">
               <span className="text-xs font-bold text-cyan-700 tracking-wider">REASON 01</span>
               <h3 className="font-bold text-stone-900 text-base">厳冬の秩父路を青白く染める「尾ノ内百景氷柱」と「三十槌の氷柱」の壮大な造形美</h3>
-              <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">奥秩父の厳しい冬の冷え込みが創り出す天然・人工の巨大氷瀑アート。三十槌の氷柱では天然の湧水が凍りついた繊細な氷のカーテンを間近に眺められ、尾ノ内渓谷では吊り橋の上から白銀の氷柱群を見下ろす圧倒的なスケールを体感できます。</p>
+              <p className="text-sm sm:text-base text-stone-600 leading-relaxed">奥秩父の厳しい冬の冷え込みが創り出す天然・人工の巨大氷瀑アート。三十槌の氷柱では天然の湧水が凍りついた繊細な氷のカーテンを間近に眺められ、尾ノ内渓谷では吊り橋の上から白銀の氷柱群を見下ろす圧倒的なスケールを体感できます。</p>
             </div>
             
 
             <div className="bg-white rounded-xl p-5 border border-stone-200 space-y-2">
               <span className="text-xs font-bold text-cyan-700 tracking-wider">REASON 02</span>
               <h3 className="font-bold text-stone-900 text-base">名峰両神山の恵み「小鹿野温泉薬師の湯」ととろみのある美肌の湯ごもり</h3>
-              <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">小鹿野町や秩父路に点在する名湯は、pH9前後のアルカリ性単純温泉やメタホウ酸を含む美肌の湯。湯上がりの肌がつるつるになると評判で、氷柱散策で冷え切った手足を芯からじんわりと温めてくれます。</p>
+              <p className="text-sm sm:text-base text-stone-600 leading-relaxed">小鹿野町や秩父路に点在する名湯は、pH9前後のアルカリ性単純温泉やメタホウ酸を含む美肌の湯。湯上がりの肌がつるつるになると評判で、氷柱散策で冷え切った手足を芯からじんわりと温めてくれます。</p>
             </div>
             
 
             <div className="bg-white rounded-xl p-5 border border-stone-200 space-y-2">
               <span className="text-xs font-bold text-cyan-700 tracking-wider">REASON 03</span>
               <h3 className="font-bold text-stone-900 text-base">冬の野趣あふれる「秩父ジビエ猪鹿鍋」と極上霜降り「武州和牛」の美食</h3>
-              <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">秩父の山々で獲れた新鮮な猪肉・鹿肉を特製の田舎味噌や出汁で煮込む「ぼたん鍋」は、臭みがなく脂の甘みが際立つ冬の郷土のご馳走。さらに埼玉のブランド牛「武州和牛」のすき焼きや陶板焼き、名物わらじカツ丼など多彩なご当地グルメが揃います。</p>
+              <p className="text-sm sm:text-base text-stone-600 leading-relaxed">秩父の山々で獲れた新鮮な猪肉・鹿肉を特製の田舎味噌や出汁で煮込む「ぼたん鍋」は、臭みがなく脂の甘みが際立つ冬の郷土のご馳走。さらに埼玉のブランド牛「武州和牛」のすき焼きや陶板焼き、名物わらじカツ丼など多彩なご当地グルメが揃います。</p>
             </div>
             
             </div>
@@ -219,16 +220,47 @@ export default function FeaturePage() {
                 アクセス・気候・おすすめの服装
               </h3>
             </div>
-            <div className="whitespace-pre-line text-xs sm:text-sm text-stone-600 leading-relaxed">
-              【エリアへのアクセス】
-・電車：西武池袋駅から特急ラビューで「西武秩父駅」まで最短77分。秩父鉄道「御花畑駅」から「三峰口駅」方面へ接続。
-・バス：西武秩父駅または秩父駅から西武観光バス「小鹿野車庫」行き・「栗尾」行きに乗車し約35〜45分。三十槌の氷柱へは西武秩父駅から「三峯神社」行きバスで約45分「三十槌」下車。
-・車：関越自動車道「花園IC」より皆野寄居有料道路・国道140号・国道299号を経由して小鹿野町まで約45分。池袋方面から車で約2時間。
-
-【見頃・気候・おすすめの服装】
-・ベストシーズン：12月下旬〜1月下旬（三十槌・尾ノ内氷柱の最盛期、秩父三社新春初詣、温泉とジビエ鍋の最盛期）。
-・気温の目安：盆地特有の内陸性気候のため、12月〜1月の夜間・早朝は氷点下3℃〜5℃以下まで下がります。日中も5〜9℃前後。
-・服装のポイント：氷柱見学エリアは足元が凍結している場合があるため、滑り止めのあるスニーカーやスノーブーツが必須。厚手のダウンコート、ニット帽、ネックウォーマー、手袋、カイロを必ず携行してください。車で訪れる場合はスタッドレスタイヤの装着が不可欠です。
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
+              <div className="bg-stone-50 rounded-xl p-4 sm:p-5 border border-stone-200/80 space-y-3">
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2">
+                  <span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
+                  <span>エリアへのアクセス</span>
+                </h4>
+                <ul className="space-y-2 text-xs sm:text-sm text-stone-600 leading-relaxed">
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">電車：</strong>西武池袋駅から特急ラビューで「西武秩父駅」まで最短77分。秩父鉄道「御花畑駅」から「三峰口駅」方面へ接続。</span>
+                  </li>
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">バス：</strong>西武秩父駅または秩父駅から西武観光バス「小鹿野車庫」行き・「栗尾」行きに乗車し約35〜45分。三十槌の氷柱へは西武秩父駅から「三峯神社」行きバスで約45分「三十槌」下車。</span>
+                  </li>
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">車：</strong>関越自動車道「花園IC」より皆野寄居有料道路・国道140号・国道299号を経由して小鹿野町まで約45分。池袋方面から車で約2時間。</span>
+                  </li>
+                </ul>
+              </div>
+              <div className="bg-stone-50 rounded-xl p-4 sm:p-5 border border-stone-200/80 space-y-3">
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2">
+                  <span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
+                  <span>見頃・気候・おすすめの服装</span>
+                </h4>
+                <ul className="space-y-2 text-xs sm:text-sm text-stone-600 leading-relaxed">
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">ベストシーズン：</strong>12月下旬〜1月下旬（三十槌・尾ノ内氷柱の最盛期、秩父三社新春初詣、温泉とジビエ鍋の最盛期）。</span>
+                  </li>
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">気温の目安：</strong>盆地特有の内陸性気候のため、12月〜1月の夜間・早朝は氷点下3℃〜5℃以下まで下がります。日中も5〜9℃前後。</span>
+                  </li>
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">服装のポイント：</strong>氷柱見学エリアは足元が凍結している場合があるため、滑り止めのあるスニーカーやスノーブーツが必須。厚手のダウンコート、ニット帽、ネックウォーマー、手袋、カイロを必ず携行してください。車で訪れる場合はスタッドレスタイヤの装着が不可欠です。</span>
+                  </li>
+                </ul>
+              </div>
             </div>
           </div>
         </section>
@@ -256,7 +288,7 @@ export default function FeaturePage() {
                 <h3 className="font-bold text-stone-900 text-sm sm:text-base">
                   厳冬の造形美・三十槌の氷柱＆尾ノ内百景氷柱 の見どころと歴史
                 </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
+                <p className="text-sm sm:text-base text-stone-600 leading-relaxed">
                   氷柱（ひょうちゅう、つらら）は氷の柱。特に「つらら」は岩場や建物の軒下などから水滴が垂れてできる棒状に伸びた氷を指す。 1983年（昭和58年）の対馬勝年らの提案では、水滴が凍結して下方に伸びたものを「つらら」、下から上方に伸びたものを「氷筍」、両者が接合したものを「氷柱」と呼ぶことを提案している。
                 </p>
                 <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
@@ -307,14 +339,15 @@ export default function FeaturePage() {
                     <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">
                       小鹿野温泉　香り豊かな花のおもてなし　須崎旅館
                     </h3>
-                    <p className="text-xs text-stone-600 leading-relaxed">
-                      小鹿野の古き良き町並みに溶け込む、明治初年創業の歴史ある老舗旅館。女将の温かい笑顔と館内いっぱいに彩られた生花のおもてなしが旅人の心をほぐします。敷地内にはとろみのある小鹿野温泉をたたえる大浴場のほか、趣ある貸切露天風呂も完備されており、冬の澄んだ星空を眺めながらの湯浴みは格別の贅沢。夕食には厳選された武州和牛のすき焼きや、地元農家の採れたて根菜を使った煮物、秩父名物のみそポテトなど、手作りの温もりが詰まった会席が並びます。
-                    </p>
-                    <ul className="text-xs text-stone-700 space-y-1 pt-1 border-t border-stone-100">
+                    <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
+                      <p>小鹿野の古き良き町並みに溶け込む、明治初年創業の歴史ある老舗旅館。女将の温かい笑顔と館内いっぱいに彩られた生花のおもてなしが旅人の心をほぐします。</p>
+                      <p>敷地内にはとろみのある小鹿野温泉をたたえる大浴場のほか、趣ある貸切露天風呂も完備されており、冬の澄んだ星空を眺めながらの湯浴みは格別の贅沢。夕食には厳選された武州和牛のすき焼きや、地元農家の採れたて根菜を使った煮物、秩父名物のみそポテトなど、手作りの温もりが詰まった会席が並びます。</p>
+                    </div>
+                    <ul className="text-xs sm:text-sm text-stone-700 space-y-2 pt-2 border-t border-stone-100">
                       <li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>館内随所に飾られた可憐な花々とレトロモダンな純和風客室</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>美肌の小鹿野温泉を引いた貸切露天風呂と大浴場</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>武州和牛すき焼きや手作り季節料理・名物みそポテト</span></li>
                     </ul>
                     
-                <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
+                <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
                   <p className="leading-relaxed">{"「アットホームな雰囲気と素敵なスタッフに癒やされるアットホームな雰囲気で、滞在中はとてもリラックス出来て過ごせました。働いていらっしゃる方たちが皆素敵ですね～また利用したいと思いました。クチコミ…。」"}</p>
                 </div>
@@ -368,10 +401,11 @@ export default function FeaturePage() {
                     <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">
                       小鹿野温泉　越後屋旅館
                     </h3>
-                    <p className="text-xs text-stone-600 leading-relaxed">
-                      江戸時代から旅人を迎え続けてきた小鹿野宿の名宿。歴史を感じさせる重厚な梁や格子戸が随所に残り、まるでタイムスリップしたかのような静謐な時間が流れます。こちらの冬の名物といえば、代々受け継がれてきた特製ブレンド味噌でじっくり煮込む本場天然ぼたん鍋。野性味あふれる猪肉の濃厚なコクとたっぷりの地元ネギやごぼうが絶妙に調和し、身体の芯から温まります。手入れの行き届いた温泉大浴場とともに、冬の奥秩父ならではの贅沢な逗留を約束してくれます。
-                    </p>
-                    <ul className="text-xs text-stone-700 space-y-1 pt-1 border-t border-stone-100">
+                    <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
+                      <p>江戸時代から旅人を迎え続けてきた小鹿野宿の名宿。歴史を感じさせる重厚な梁や格子戸が随所に残り、まるでタイムスリップしたかのような静謐な時間が流れます。こちらの冬の名物といえば、代々受け継がれてきた特製ブレンド味噌でじっくり煮込む本場天然ぼたん鍋。</p>
+                      <p>野性味あふれる猪肉の濃厚なコクとたっぷりの地元ネギやごぼうが絶妙に調和し、身体の芯から温まります。手入れの行き届いた温泉大浴場とともに、冬の奥秩父ならではの贅沢な逗留を約束してくれます。</p>
+                    </div>
+                    <ul className="text-xs sm:text-sm text-stone-700 space-y-2 pt-2 border-t border-stone-100">
                       <li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>江戸時代の面影をそのまま伝える風情豊かな木造建築の美</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>冬季限定の特製自家製味噌仕立て・天然猪肉ぼたん鍋</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>小鹿野温泉の名湯と静寂に包まれる贅沢なひととき</span></li>
                     </ul>
                     
@@ -424,14 +458,15 @@ export default function FeaturePage() {
                     <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">
                       両神温泉　国民宿舎　両神荘
                     </h3>
-                    <p className="text-xs text-stone-600 leading-relaxed">
-                      名峰両神山の登山口近く、大自然の静寂に包まれた高台に位置する人気宿。最大の魅力は、国民保養温泉地にも指定された「両神温泉薬師の湯」。pH9.1を誇るアルカリ性温泉は石鹸のようなクレンジング効果があり、入浴後すぐに肌が滑らかになるのを実感できます。露天風呂からは冬枯れの木立と奥秩父の山並みを一望。夕食は武州和牛の陶板焼きや地元産の手打ちそば、清流魚の塩焼きなど、滋味豊かな山の幸が満載でコストパフォーマンスの高さも抜群です。
-                    </p>
-                    <ul className="text-xs text-stone-700 space-y-1 pt-1 border-t border-stone-100">
+                    <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
+                      <p>名峰両神山の登山口近く、大自然の静寂に包まれた高台に位置する人気宿。最大の魅力は、国民保養温泉地にも指定された「両神温泉薬師の湯」。pH9.1を誇るアルカリ性温泉は石鹸のようなクレンジング効果があり、入浴後すぐに肌が滑らかになるのを実感できます。</p>
+                      <p>露天風呂からは冬枯れの木立と奥秩父の山並みを一望。夕食は武州和牛の陶板焼きや地元産の手打ちそば、清流魚の塩焼きなど、滋味豊かな山の幸が満載でコストパフォーマンスの高さも抜群です。</p>
+                    </div>
+                    <ul className="text-xs sm:text-sm text-stone-700 space-y-2 pt-2 border-t border-stone-100">
                       <li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>pH9.1を誇る「薬師の湯」源泉掛け流しの広々とした大浴場と露天風呂</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>両神山麓の自然林を望む開放的なロケーションと落ち着いた客室</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>武州和牛の陶板焼きや秩父の旬の山の幸を満喫する和食膳</span></li>
                     </ul>
                     
-                <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
+                <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
                   <p className="leading-relaxed">{"「部屋は清潔で温泉も食事も大満足部屋がとてもきれい。温泉も食事も満足できました。」"}</p>
                 </div>
@@ -485,14 +520,15 @@ export default function FeaturePage() {
                     <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">
                       二百年の農家屋敷　宮本家
                     </h3>
-                    <p className="text-xs text-stone-600 leading-relaxed">
-                      江戸幕府の直轄地であった奥秩父に建つ、築約200年の重厚な農家屋敷を改装した個性豊かな名宿。当主は元幕内力士というユニークな経歴を持ち、囲炉裏端でいただく豪快な炭火焼き料理と秘伝の出汁で仕立てる本格ちゃんこ鍋、秩父の鹿肉料理は圧顔の美味しさです。敷地内には蔵を改装した温泉風呂や五右衛門風呂など多彩なプライベート温泉があり、貸切でゆっくりと美肌湯を堪能可能。心身ともに温まる忘れられない冬の体験が待っています。
-                    </p>
-                    <ul className="text-xs text-stone-700 space-y-1 pt-1 border-t border-stone-100">
+                    <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
+                      <p>江戸幕府の直轄地であった奥秩父に建つ、築約200年の重厚な農家屋敷を改装した個性豊かな名宿。当主は元幕内力士というユニークな経歴を持ち、囲炉裏端でいただく豪快な炭火焼き料理と秘伝の出汁で仕立てる本格ちゃんこ鍋、秩父の鹿肉料理は圧顔の美味しさです。</p>
+                      <p>敷地内には蔵を改装した温泉風呂や五右衛門風呂など多彩なプライベート温泉があり、貸切でゆっくりと美肌湯を堪能可能。心身ともに温まる忘れられない冬の体験が待っています。</p>
+                    </div>
+                    <ul className="text-xs sm:text-sm text-stone-700 space-y-2 pt-2 border-t border-stone-100">
                       <li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>幕末の農家屋敷を再生した趣深い空間と大相撲の歴史展示</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>囲炉裏端で焼き上げる川魚・秩父野菜と直伝の本格ちゃんこ鍋</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>五右衛門風呂や蔵風呂など趣向を凝らした多彩な貸切温泉風呂</span></li>
                     </ul>
                     
-                <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
+                <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
                   <p className="leading-relaxed">{"「スタッフの方達の細やかなお気遣いにほっこり。とても静かにのんびりくつろげます。ちゃんこ鍋をはじめお食事も美味しくて、川魚の塩焼きの焼き加減も最高に抜群でしたお風呂も気持ちよくとてもゆっ… つづきは。」"}</p>
                 </div>
@@ -546,14 +582,15 @@ export default function FeaturePage() {
                     <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">
                       秩父七湯『御代の湯』　新木鉱泉旅館
                     </h3>
-                    <p className="text-xs text-stone-600 leading-relaxed">
-                      秩父盆地の東端、横瀬川のせせらぎ沿いに佇む創業文政十年の歴史を誇る名旅館。秩父七湯の中で最古の歴史を持つ自家源泉「御代の湯」は、ほのかな硫黄の香りととろりとした肌触りが特徴で、近郷近在から湯治客が集まる奇跡の美肌湯です。総檜造りの大浴場や露天風呂に注がれる名湯で芯まで温まった後は、名物のすずらん鍋（きのこや旬菜と特製出汁の鍋）や武州和牛を盛り込んだ創作会席に舌鼓。静けさに包まれた老舗の風格が漂います。
-                    </p>
-                    <ul className="text-xs text-stone-700 space-y-1 pt-1 border-t border-stone-100">
+                    <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
+                      <p>秩父盆地の東端、横瀬川のせせらぎ沿いに佇む創業文政十年の歴史を誇る名旅館。秩父七湯の中で最古の歴史を持つ自家源泉「御代の湯」は、ほのかな硫黄の香りととろりとした肌触りが特徴で、近郷近在から湯治客が集まる奇跡の美肌湯です。</p>
+                      <p>総檜造りの大浴場や露天風呂に注がれる名湯で芯まで温まった後は、名物のすずらん鍋（きのこや旬菜と特製出汁の鍋）や武州和牛を盛り込んだ創作会席に舌鼓。静けさに包まれた老舗の風格が漂います。</p>
+                    </div>
+                    <ul className="text-xs sm:text-sm text-stone-700 space-y-2 pt-2 border-t border-stone-100">
                       <li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>江戸時代から湧き出でる秩父七湯最古の自家源泉と総檜風呂</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>ぬめり感のある極上の単純硫黄冷鉱泉で極まる美肌効果</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>秩父名物すずらん鍋や武州牛・四季折々の手作り創作会席</span></li>
                     </ul>
                     
-                <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
+                <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
                   <p className="leading-relaxed">{"「ずっと気になってた新木鉱泉さんの枠が空いてたので利用させていただきました。お風呂は自慢の鉱泉だけあって、滑らかに身体に馴染みます。外の露天風呂と源泉の水風呂の交互浴を繰り返し入ることで気持… つづ。」"}</p>
                 </div>
@@ -623,7 +660,7 @@ export default function FeaturePage() {
                 <span className="text-cyan-700 font-extrabold">Q.</span>
                 <span>氷柱（三十槌・尾ノ内）の見学には車がないと行けませんか？</span>
               </h3>
-              <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
+              <p className="text-sm sm:text-base text-stone-600 leading-relaxed pl-5">
                 路線バスやツアーバスを利用して訪れることが可能です。三十槌の氷柱へは西武秩父駅から三峯神社行きの路線バスが運行しており、氷柱シーズン中には土休日を中心に臨時便や急行バスが増便されることがあります。尾ノ内氷柱へも小鹿野町営バスが運行しています。ただし本数が限られるため、事前に最新ダイヤをご確認ください。
               </p>
             </div>
@@ -634,7 +671,7 @@ export default function FeaturePage() {
                 <span className="text-cyan-700 font-extrabold">Q.</span>
                 <span>小鹿野温泉の泉質や効能はどのような特徴がありますか？</span>
               </h3>
-              <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
+              <p className="text-sm sm:text-base text-stone-600 leading-relaxed pl-5">
                 小鹿野温泉（両神温泉や須崎旅館の源泉）は、pH9を超える高アルカリ性の単純温泉が多く、古い角質をやさしくオフして肌をすべすべにする美肌効果が特徴です。神経痛や冷え性、疲労回復にも効果があり、冬の冷え切った身体を温めるのに最適です。
               </p>
             </div>
@@ -645,7 +682,7 @@ export default function FeaturePage() {
                 <span className="text-cyan-700 font-extrabold">Q.</span>
                 <span>冬の秩父・小鹿野ドライブで雪道対策は必要ですか？</span>
               </h3>
-              <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
+              <p className="text-sm sm:text-base text-stone-600 leading-relaxed pl-5">
                 はい、スタッドレスタイヤ（またはチェーン携行）を強く推奨します。降雪がない日でも、国道140号や国道299号の日陰部分、山間部の橋の上などは路面凍結（ブラックアイスバーン）が頻繁に発生します。特に早朝や夜間の移動には十分な車間距離と安全運転を心がけてください。
               </p>
             </div>

@@ -169,9 +169,10 @@ export default function FeaturePage() {
 
             <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold leading-tight">「白銀の水墨画世界・山寺立石寺と将棋のまち天童温泉」2026-2027年冬の山形・山寺＆天童！美肌名湯と極上山形牛すき焼き名宿5選</h1>
 
-            <p className="text-stone-300 text-xs sm:text-sm leading-relaxed max-w-3xl pt-2">
-              奥羽山脈と出羽丘陵に抱かれ、四季の移ろいが鮮やかな山形県の内陸部に位置する天童市と山形市山寺。貞観2年（860年）に慈覚大師円仁が開山した霊峰・宝珠山立石寺（通称・山寺）は、松尾芭蕉が「閑さや岩にしみ入る蝉の声」の名句を残したことで名高い東北屈指の古刹です。新緑や紅葉の美しさもさることながら、11月下旬から1月の厳冬期を迎えると、奇岩怪石の山肌や根本中堂、開山堂、五大堂が真っ白な雪に覆われ、一歩足を踏み入れればそこは静寂の極み、まるで一幅の墨絵の世界へと迷い込んだかのような神秘の絶景が出現します。千段を超える雪の石段を踏みしめながら登り切る「悪縁切りと開運」の冬の巡礼を終えた後は、将棋駒の生産量日本一を誇る名湯「天童温泉」へ。弱アルカリ性のまろやかな美肌泉に身を委ね、極上のサシが入った最高峰「山形牛」のとろけるすき焼きや炭火ステーキ、熱々の郷土芋煮、冬の手打ち山形蕎麦に舌鼓を打つ、温もり溢れるみちのくの冬旅をご案内します。
-            </p>
+            <div className="space-y-3 pt-3 max-w-3xl text-stone-200 text-sm sm:text-base leading-relaxed sm:leading-loose">
+              <p>奥羽山脈と出羽丘陵に抱かれ、四季の移ろいが鮮やかな山形県の内陸部に位置する天童市と山形市山寺。貞観2年（860年）に慈覚大師円仁が開山した霊峰・宝珠山立石寺（通称・山寺）は、松尾芭蕉が「閑さや岩にしみ入る蝉の声」の名句を残したことで名高い東北屈指の古刹です。新緑や紅葉の美しさもさることながら、11月下旬から1月の厳冬期を迎えると、奇岩怪石の山肌や根本中堂、開山堂、五大堂が真っ白な雪に覆われ、一歩足を踏み入れればそこは静寂の極み、まるで一幅の墨絵の世界へと迷い込んだかのような神秘の絶景が出現します。</p>
+              <p>千段を超える雪の石段を踏みしめながら登り切る「悪縁切りと開運」の冬の巡礼を終えた後は、将棋駒の生産量日本一を誇る名湯「天童温泉」へ。弱アルカリ性のまろやかな美肌泉に身を委ね、極上のサシが入った最高峰「山形牛」のとろけるすき焼きや炭火ステーキ、熱々の郷土芋煮、冬の手打ち山形蕎麦に舌鼓を打つ、温もり溢れるみちのくの冬旅をご案内します。</p>
+            </div>
           </div>
         </header>
 
@@ -245,16 +246,47 @@ export default function FeaturePage() {
                 </h2>
               </div>
             </div>
-            <div className="text-xs sm:text-sm text-stone-700 leading-relaxed whitespace-pre-line space-y-2">
-              【エリアへのアクセス】
-・電車・新幹線：山形新幹線「天童駅」下車。東京駅から直通約2時間45分。山寺へはJR仙山線「山寺駅」下車（山形駅から約20分、仙台駅から快速で約50分）。天童駅から山寺へは車・タクシーで約15分。
-・車・マイカー：山形自動車道「山形北IC」より天童温泉まで約15分、東北中央自動車道「天童IC」より約10分。仙台宮城ICから作並・山寺経由で約1時間15分。
-・山寺〜天童温泉周遊：天童駅〜山寺駅間は路線バスまたはタクシーで約15分。雪道の運転に不安がある方は電車・タクシーでの移動がおすすめです。
-
-【見頃・気候・おすすめの服装】
-・ベストシーズン：11月下旬〜1月下旬（山寺の雪景色、雪見露天風呂、山形牛グルメの最盛期）。
-・気温の目安：12月〜1月の天童・山寺エリアは日中でも0〜4℃前後、朝晩は氷点下5℃以下まで冷え込みます。積雪も日常的です。
-・服装のポイント：山寺の石段（約1,015段）は雪や凍結で非常に滑りやすくなります。長靴またはアイゼン・滑り止め付きの防水スノーブーツが絶対に必要です（山寺登山口の売店等で長靴のレンタルもあります）。厚手のダウンジャケット、ニット帽、防寒手袋、カイロを完備してください。車でお越しの際はスタッドレスタイヤ装着が必須です。
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
+              <div className="bg-stone-50 rounded-xl p-4 sm:p-5 border border-stone-200/80 space-y-3">
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2">
+                  <span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
+                  <span>エリアへのアクセス</span>
+                </h4>
+                <ul className="space-y-2 text-xs sm:text-sm text-stone-600 leading-relaxed">
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">電車・新幹線：</strong>山形新幹線「天童駅」下車。東京駅から直通約2時間45分。山寺へはJR仙山線「山寺駅」下車（山形駅から約20分、仙台駅から快速で約50分）。天童駅から山寺へは車・タクシーで約15分。</span>
+                  </li>
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">車・マイカー：</strong>山形自動車道「山形北IC」より天童温泉まで約15分、東北中央自動車道「天童IC」より約10分。仙台宮城ICから作並・山寺経由で約1時間15分。</span>
+                  </li>
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">山寺〜天童温泉周遊：</strong>天童駅〜山寺駅間は路線バスまたはタクシーで約15分。雪道の運転に不安がある方は電車・タクシーでの移動がおすすめです。</span>
+                  </li>
+                </ul>
+              </div>
+              <div className="bg-stone-50 rounded-xl p-4 sm:p-5 border border-stone-200/80 space-y-3">
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2">
+                  <span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
+                  <span>見頃・気候・おすすめの服装</span>
+                </h4>
+                <ul className="space-y-2 text-xs sm:text-sm text-stone-600 leading-relaxed">
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">ベストシーズン：</strong>11月下旬〜1月下旬（山寺の雪景色、雪見露天風呂、山形牛グルメの最盛期）。</span>
+                  </li>
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">気温の目安：</strong>12月〜1月の天童・山寺エリアは日中でも0〜4℃前後、朝晩は氷点下5℃以下まで冷え込みます。積雪も日常的です。</span>
+                  </li>
+                  <li className="flex items-start gap-1.5">
+                    <span className="text-cyan-700 font-bold shrink-0">・</span>
+                    <span><strong className="text-stone-800 font-semibold">服装のポイント：</strong>山寺の石段（約1,015段）は雪や凍結で非常に滑りやすくなります。長靴またはアイゼン・滑り止め付きの防水スノーブーツが絶対に必要です（山寺登山口の売店等で長靴のレンタルもあります）。厚手のダウンジャケット、ニット帽、防寒手袋、カイロを完備してください。車でお越しの際はスタッドレスタイヤ装着が必須です。</span>
+                  </li>
+                </ul>
+              </div>
             </div>
           </div>
         </section>
@@ -346,16 +378,17 @@ export default function FeaturePage() {
                         天童温泉　湯の香　松の湯
                       </a>
                     </h3>
-                    <p className="text-xs text-stone-600 leading-relaxed">
-                      明治時代に創業し、天童温泉の歴史とともに上質な湯治文化を育んできた大人のための隠れ家旅館。最大の魅力は、全客室に惜しみなく注がれる自家源泉100%掛け流しの半露天風呂。誰にも邪魔されず、冬の澄んだ風を感じながら24時間いつでも好きな時に名湯を満喫できます。夕食には厳しい基準をクリアした最高峰「山形牛」の極上サーロインステーキや、地元契約農家から届く新鮮野菜を贅沢に仕立てた月替わりの懐石料理が並び、記念日やご褒美旅行に最高の贅沢を約束します。
-                    </p>
+                    <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
+                      <p>明治時代に創業し、天童温泉の歴史とともに上質な湯治文化を育んできた大人のための隠れ家旅館。最大の魅力は、全客室に惜しみなく注がれる自家源泉100%掛け流しの半露天風呂。</p>
+                      <p>誰にも邪魔されず、冬の澄んだ風を感じながら24時間いつでも好きな時に名湯を満喫できます。夕食には厳しい基準をクリアした最高峰「山形牛」の極上サーロインステーキや、地元契約農家から届く新鮮野菜を贅沢に仕立てた月替わりの懐石料理が並び、記念日やご褒美旅行に最高の贅沢を約束します。</p>
+                    </div>
                     <ul className="text-xs text-stone-700 space-y-1 pt-1">
                       <li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>全客室に天然温泉100%源泉掛け流しの半露天風呂を完備</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>山形牛の最高級部位ステーキや四季の山形味覚を味わう特別懐石</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>大正浪漫の面影とモダンが美しく調和した静寂の上質空間</span></li>
                     </ul>
                   </div>
 
                   
-                <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
+                <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
                   <p className="leading-relaxed">{"「優しい味の食事と源泉掛け流しの温泉に癒される全体的にバランスの取れた宿です。食事は優しい味で大変満足しました。お風呂は源泉掛流しでとても気持ちよく癒されました。」"}</p>
                 </div>
@@ -411,16 +444,17 @@ export default function FeaturePage() {
                         天童温泉　松伯亭　あづま荘
                       </a>
                     </h3>
-                    <p className="text-xs text-stone-600 leading-relaxed">
-                      数寄屋造りの優雅な建築と四季折々に表情を変える日本庭園が迎えてくれる天童温泉屈指の老舗名門旅館。メディアでも話題の看板ねこがお出迎えしてくれるアットホームな温もりも人気の理由です。冬には庭園に白い雪が降り積もり、広々とした大浴場や露天風呂から眺める雪見風呂はまさに至福。夕食にはとろけるような食感の山形牛を贅沢に使ったすき焼き鍋や、山形の郷土色豊かな手作り料理が並び、細やかな仲居さんのおもてなしとともに心温まる滞在を叶えてくれます。
-                    </p>
+                    <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
+                      <p>数寄屋造りの優雅な建築と四季折々に表情を変える日本庭園が迎えてくれる天童温泉屈指の老舗名門旅館。メディアでも話題の看板ねこがお出迎えしてくれるアットホームな温もりも人気の理由です。</p>
+                      <p>冬には庭園に白い雪が降り積もり、広々とした大浴場や露天風呂から眺める雪見風呂はまさに至福。夕食にはとろけるような食感の山形牛を贅沢に使ったすき焼き鍋や、山形の郷土色豊かな手作り料理が並び、細やかな仲居さんのおもてなしとともに心温まる滞在を叶えてくれます。</p>
+                    </div>
                     <ul className="text-xs text-stone-700 space-y-1 pt-1">
                       <li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>手入れの行き届いた数寄屋造りの格調高い佇まいと美しい日本庭園</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>大浴場・露天風呂に注がれる効能豊かな天童の名湯と雪見風呂</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>山形牛のすき焼き・しゃぶしゃぶ鍋と旬の山菜・地魚を取り入れた会席</span></li>
                     </ul>
                   </div>
 
                   
-                <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
+                <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
                   <p className="leading-relaxed">{"「食事も器も素敵で、心地よい時間を満喫夕食、朝食ともとても美味しく器も素敵でおなかいっぱいになりました。館内や従業員の方の対応も含めて心地よい時間を過ごせました。の詳細はこ… つづ。」"}</p>
                 </div>
@@ -476,16 +510,17 @@ export default function FeaturePage() {
                         天童温泉　ほほえみの宿　滝の湯
                       </a>
                     </h3>
-                    <p className="text-xs text-stone-600 leading-relaxed">
-                      プロ棋士が熱戦を繰り広げる将棋の竜王戦などタイトル戦の舞台としても名高い、天童温泉を象徴する最高峰旅館。広大な館内には巨木や巨石を配した開放感抜群の大浴場と野趣豊かな露天風呂があり、湯煙の向こうに広がる雪景色を愛でながら極上の湯浴みが楽しめます。食事へのこだわりも格別で、自社農園で育てられた安全安心な無農薬野菜と、A5ランク山形牛のステーキかすき焼きをメインにした彩り豊かな会席料理を提供。格式の高さと居心地の良さが高次元で融合しています。
-                    </p>
+                    <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
+                      <p>プロ棋士が熱戦を繰り広げる将棋の竜王戦などタイトル戦の舞台としても名高い、天童温泉を象徴する最高峰旅館。広大な館内には巨木や巨石を配した開放感抜群の大浴場と野趣豊かな露天風呂があり、湯煙の向こうに広がる雪景色を愛でながら極上の湯浴みが楽しめます。</p>
+                      <p>食事へのこだわりも格別で、自社農園で育てられた安全安心な無農薬野菜と、A5ランク山形牛のステーキかすき焼きをメインにした彩り豊かな会席料理を提供。格式の高さと居心地の良さが高次元で融合しています。</p>
+                    </div>
                     <ul className="text-xs text-stone-700 space-y-1 pt-1">
                       <li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>天童随一の広さを誇る大浴場と巨岩を配した野趣あふれる庭園露天風呂</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>自社農園栽培の無農薬野菜と最高ランク山形牛の贅沢会席ディナー</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>将棋のタイトル戦も行われる伝統と気品あふれるラグジュアリーステイ</span></li>
                     </ul>
                   </div>
 
                   
-                <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
+                <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
                   <p className="leading-relaxed">{"「お部屋と食事に大満足、最高のホカンス!お部屋とても素敵でした。お部屋にコーヒーマシンが付いているのが結構ありがたかったです。夜ご飯はステーキと鮑が特に美味しかったです。お部屋でくつろいで、… つづ。」"}</p>
                 </div>
@@ -541,16 +576,17 @@ export default function FeaturePage() {
                         天童温泉　ほほえみの空湯舟　つるや
                       </a>
                     </h3>
-                    <p className="text-xs text-stone-600 leading-relaxed">
-                      伝統的な温泉街の中で、現代的な快適性と和の情緒を洗練されたデザインで表現した人気モダン旅館。館内には趣の異なる多彩な客室が用意され、露天風呂付き客室ではプライベートな雪見風呂を贅沢に独占できます。夕食はスタイリッシュなダイニングでいただく創作和食。柔らかな山形牛のローストやしゃぶしゃぶ、冬の味覚を散りばめた目にも鮮やかな料理の数々が特別な夜を華やかに彩ります。カップルや女子旅にも絶大な支持を受けるお洒落な温泉宿です。
-                    </p>
+                    <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
+                      <p>伝統的な温泉街の中で、現代的な快適性と和の情緒を洗練されたデザインで表現した人気モダン旅館。館内には趣の異なる多彩な客室が用意され、露天風呂付き客室ではプライベートな雪見風呂を贅沢に独占できます。夕食はスタイリッシュなダイニングでいただく創作和食。</p>
+                      <p>柔らかな山形牛のローストやしゃぶしゃぶ、冬の味覚を散りばめた目にも鮮やかな料理の数々が特別な夜を華やかに彩ります。カップルや女子旅にも絶大な支持を受けるお洒落な温泉宿です。</p>
+                    </div>
                     <ul className="text-xs text-stone-700 space-y-1 pt-1">
                       <li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>スタイリッシュな和モダン客室とプライベートな温泉露天風呂</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>天童の街並みと奥羽山脈の山並みを見晴らす最上階の絶景風呂</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>山形牛や米沢豚一番育ちを堪能する創作和食ダイニングディナー</span></li>
                     </ul>
                   </div>
 
                   
-                <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
+                <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
                   <p className="leading-relaxed">{"「のんびりと心穏やかに過ごせる場所のんびり過ごしやすいお宿でした。つづ。」"}</p>
                 </div>
@@ -606,16 +642,17 @@ export default function FeaturePage() {
                         天童温泉　美味求真の宿　天童ホテル
                       </a>
                     </h3>
-                    <p className="text-xs text-stone-600 leading-relaxed">
-                      「美味求真」を宿のテーマに掲げ、食の感動を追求し続ける天童温泉の大型温泉ホテル。大浴場には岩肌を流れる滝が配され、ダイナミックな景観を眺めながらゆったりと天然温泉に浸かることができます。夕食には山形牛の陶板焼きやせいろ蒸し、地元山形の名産品をふんだんに取り入れた豪華な会席料理がテーブルを埋め尽くし、美食の喜びに心躍ります。館内設備も充実しており、三世代旅行や友人同士のグループ旅行でも気兼ねなく楽しめる頼もしい名宿です。
-                    </p>
+                    <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
+                      <p>「美味求真」を宿のテーマに掲げ、食の感動を追求し続ける天童温泉の大型温泉ホテル。大浴場には岩肌を流れる滝が配され、ダイナミックな景観を眺めながらゆったりと天然温泉に浸かることができます。</p>
+                      <p>夕食には山形牛の陶板焼きやせいろ蒸し、地元山形の名産品をふんだんに取り入れた豪華な会席料理がテーブルを埋め尽くし、美食の喜びに心躍ります。館内設備も充実しており、三世代旅行や友人同士のグループ旅行でも気兼ねなく楽しめる頼もしい名宿です。</p>
+                    </div>
                     <ul className="text-xs text-stone-700 space-y-1 pt-1">
                       <li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>滝が流れる広大な大浴場と檜露天風呂で楽しむ源泉の恵み</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>「美味求真」を掲げる料理長渾身の山形牛会席と朝食ビュッフェ</span></li><li className="flex items-start gap-1.5"><span className="text-cyan-700 font-bold">✓</span><span>天童駅からのアクセス良好！ファミリーからグループまで快適ステイ</span></li>
                     </ul>
                   </div>
 
                   
-                <div className="bg-stone-50 rounded-xl p-3 text-xs text-stone-600 border border-stone-200/60">
+                <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
                   <p className="leading-relaxed">{"「家族全員大満足、半個室の夕食でゆったり家族で宿泊しましたが、全員大満足でした。夕食が半個室でゆったりできました。つづ。」"}</p>
                 </div>
