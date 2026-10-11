@@ -29,13 +29,16 @@ const options = {
   }
 };
 
+console.log('Submitting 5 URLs to IndexNow (Bing/Yandex/Seznam):');
+urls.forEach(u => console.log(` - ${u}`));
+
 const req = https.request(options, (res) => {
-  console.log(`IndexNow status code: ${res.statusCode}`);
+  console.log(`\nIndexNow API HTTP Response Code: ${res.statusCode}`);
   res.on('data', (d) => {
     process.stdout.write(d);
   });
   res.on('end', () => {
-    console.log('\nIndexNow submission completed successfully.');
+    console.log('IndexNow submission finished successfully.');
   });
 });
 
