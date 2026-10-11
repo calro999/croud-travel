@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://croud-travel.pages.dev/posts/140784/</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://croud-travel.pages.dev/posts/aizu-higashiyama-onsen-ouchijuku-snow-tsurugajo-winter-guide/</loc>
     <lastmod>2026-10-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -67,6 +73,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://croud-travel.pages.dev/posts/theme_4_misasa/</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://croud-travel.pages.dev/posts/nagayu-onsen-natural-carbonated-spring-kuju-winter-guide/</loc>
     <lastmod>2026-10-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -98,6 +110,30 @@
   </url>
   <url>
     <loc>https://croud-travel.pages.dev/posts/shimonoseki-torafugu-nagato-yumoto-onsen-motonosumi-winter-guide/</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/posts/theme_2_shirahone/</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/posts/theme_3_shuzenji/</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/posts/theme_1_sounkyo/</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/posts/theme_5_tendo/</loc>
     <lastmod>2026-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>

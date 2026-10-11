@@ -1,0 +1,627 @@
+{
+  "theme_1_sounkyo": {
+    "id": "theme_1_sounkyo",
+    "slug": "sounkyo-onsen-hyobaku-festival-daisetsuzan-winter-guide",
+    "title": "層雲峡温泉の氷瀑まつりと大雪山白銀大渓谷！七色ライトアップ氷の宮殿と旭山動物園雪景色・源泉かけ流し名宿ガイド",
+    "prefecture": "北海道",
+    "area": "層雲峡・大雪山",
+    "rakutenKeyword": "層雲峡温泉",
+    "wikiSpots": [
+      "層雲峡",
+      "大雪山",
+      "旭川市旭山動物園"
+    ],
+    "hotels": [
+      {
+        "hotelNo": 30034,
+        "hotelName": "層雲峡温泉　湯元　銀泉閣（ＢＢＨホテルグループ）",
+        "hotelKanaName": "そううんきょうおんせん　ゆもと　ぎんせんかく（びーびーえっちほてるぐるーぷ",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30034/30034.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30034/30034_w.jpg",
+        "reviewCount": 624,
+        "reviewAverage": 4.12,
+        "hotelMinCharge": 4800,
+        "address1": "北海道",
+        "address2": "上川郡上川町層雲峡温泉公園まち",
+        "access": "ＪＲ函館本線旭川駅で乗換、石北本線上川駅下車バスで３０分",
+        "hotelSpecial": "大雪山ならではの天然素材を使った料理と肌触りがやわらかな100%源泉掛け流しの天然温泉が自慢",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30034%2F30034.html"
+      },
+      {
+        "hotelNo": 167255,
+        "hotelName": "層雲峡温泉　ホテル雲井",
+        "hotelKanaName": "そううんきょうおんせん　ほてるくもい",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/167255/167255.jpg",
+        "roomImageUrl": "",
+        "reviewCount": 20,
+        "reviewAverage": 5,
+        "hotelMinCharge": 5011,
+        "address1": "北海道",
+        "address2": "上川郡上川町層雲峡",
+        "access": "上川駅より道北バス「層雲峡」行きにて終点「層雲峡」下車、徒歩にて約３分",
+        "hotelSpecial": "北海道層雲峡温泉の深い渓谷に湯けむり立つ、静かな湯治宿",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F167255%2F167255.html"
+      },
+      {
+        "hotelNo": 29716,
+        "hotelName": "層雲峡温泉　朝陽リゾートホテル",
+        "hotelKanaName": "そううんきょうおんせん　ちょうよう　りぞーとほてる",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29716/29716.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29716/29716_k.jpg",
+        "reviewCount": 2385,
+        "reviewAverage": 3.98,
+        "hotelMinCharge": 11930,
+        "address1": "北海道",
+        "address2": "上川郡上川町層雲峡温泉",
+        "access": "JR上川駅下車　道北バスで約３０分/札幌・旭川発の送迎バス運行（2026/3/31迄）",
+        "hotelSpecial": "２種の源泉「白濁の湯」と「赤茶の湯」は層雲峡エリアで当館だけ！貸切風呂と岩盤浴も利用できます。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29716%2F29716.html"
+      },
+      {
+        "hotelNo": 41466,
+        "hotelName": "層雲峡温泉　層雲峡マウントビューホテル",
+        "hotelKanaName": "そううんきょうおんせん　そううんきょう　まうんとびゅーほてる",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/41466/41466.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/41466/41466_kya.jpg",
+        "reviewCount": 478,
+        "reviewAverage": 3.85,
+        "hotelMinCharge": 8250,
+        "address1": "北海道",
+        "address2": "上川郡層雲峡温泉",
+        "access": "ＪＲ上川駅よりタクシーで３０分／旭川空港より車で９０分",
+        "hotelSpecial": "静かな洋風のたたずまいの中で、温泉を楽しみ落ち着いて過ごせる「秘境の森に彩られた天然のいで湯」",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F41466%2F41466.html"
+      },
+      {
+        "hotelNo": 136165,
+        "hotelName": "層雲峡温泉　温泉ペンション銀河",
+        "hotelKanaName": "おんせんぺんしょんぎんが",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/136165/136165.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/136165/136165_wa.jpg",
+        "reviewCount": 111,
+        "reviewAverage": 4.44,
+        "hotelMinCharge": 6600,
+        "address1": "北海道",
+        "address2": "上川郡上川町層雲峡",
+        "access": "上川駅から層雲峡温泉行きバス３０分",
+        "hotelSpecial": "天然温泉でリフレッシュ！100％源泉掛け流しの贅沢な湯船が堪能できるアットホームなペンション。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F136165%2F136165.html"
+      },
+      {
+        "hotelNo": 149497,
+        "hotelName": "ホテルトレンド旭川",
+        "hotelKanaName": "とれんどあさひかわ",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/149497/149497.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/149497/149497_kan1.jpg",
+        "reviewCount": 333,
+        "reviewAverage": 3.54,
+        "hotelMinCharge": 1500,
+        "address1": "北海道",
+        "address2": "旭川市永山3条19-1-2",
+        "access": "JR永山駅より徒歩にて約7分",
+        "hotelSpecial": "駐車場無料！旭山動物園まで車で１５分、あさひかわラーメン村まで車で１５分、雪の美術館まで車で30分",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F149497%2F149497.html"
+      }
+    ],
+    "wikiSpotsData": [
+      {
+        "spotName": "層雲峡",
+        "wikiTitle": "層雲峡",
+        "extract": "層雲峡（そううんきょう）は、北海道上川町にある峡谷である。大雪山国立公園に位置し、石狩川を挟み約24キロメートルの断崖絶壁が続く。大雪山黒岳山麓にある層雲峡温泉は大型ホテルなどが立ち並ぶ北海道有数の規模を誇る温泉街で、層雲峡および大雪山観光の中心地となっている。",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Japan_Map_Lincun.svg/langja-1280px-Japan_Map_Lincun.svg.png?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "spotName": "大雪山",
+        "wikiTitle": "大雪山",
+        "extract": "大雪山（たいせつざん、だいせつざん）は、北海道の中央にある旭岳などの山々からなる巨大な山塊の名称。大雪山系とも呼ばれ、一帯は大雪山国立公園に指定されている。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Daisetsu0001.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      },
+      {
+        "spotName": "旭川市旭山動物園",
+        "wikiTitle": "旭川市旭山動物園",
+        "extract": "旭川市旭山動物園 は、北海道旭川市東旭川町倉沼にある旭川市が運営する動物園で通称は旭山動物園である。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Asahiyama_zoo_entrance.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      }
+    ]
+  },
+  "theme_2_shirahone": {
+    "id": "theme_2_shirahone",
+    "slug": "shirahone-onsen-milky-snow-roten-norikura-winter-guide",
+    "title": "白骨温泉の白銀乳白色秘湯と名物野天風呂！「三日入れば三年風邪をひかぬ」名湯と乗鞍高原氷瀑・信州投じ蕎麦名宿ガイド",
+    "prefecture": "長野県",
+    "area": "白骨・乗鞍",
+    "rakutenKeyword": "白骨温泉",
+    "wikiSpots": [
+      "白骨温泉",
+      "乗鞍高原",
+      "乗鞍岳"
+    ],
+    "hotels": [
+      {
+        "hotelNo": 141241,
+        "hotelName": "白骨温泉　小梨の湯　笹屋",
+        "hotelKanaName": "しらほねおんせん　こなしのゆ　ささや",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/141241/141241.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/141241/141241_kya.jpg",
+        "reviewCount": 131,
+        "reviewAverage": 4.65,
+        "hotelMinCharge": 21945,
+        "address1": "長野県",
+        "address2": "松本市安曇4182-1",
+        "access": "ＪＲ　松本駅より、松本電鉄　新島々下車、バスにて６０分",
+        "hotelSpecial": "白樺林が織りなす静けさへ。自然に包まれて貸切露天に浸かる、心も身体も湯に溶ける大人旅",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F141241%2F141241.html"
+      },
+      {
+        "hotelNo": 38986,
+        "hotelName": "白骨温泉　お宿つるや　（旧：つるや旅館）",
+        "hotelKanaName": "しらほねおんせん　おやどつるや　つるやりょかん",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38986/38986.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38986/38986_he.jpg",
+        "reviewCount": 618,
+        "reviewAverage": 4.07,
+        "hotelMinCharge": 9900,
+        "address1": "長野県",
+        "address2": "松本市安曇4202-6",
+        "access": "松本ICより沢渡経由で車で60分。国道158号線→沢渡（さわんど）より県道300号線が最短ルートです。",
+        "hotelSpecial": "四季の自然と乳白色の「絹の湯」でほっと一息。心がすっと軽くなる、白骨温泉の気軽な現代湯治旅",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38986%2F38986.html"
+      },
+      {
+        "hotelNo": 128531,
+        "hotelName": "白骨温泉　白船グランドホテル",
+        "hotelKanaName": "しらほねおんせん　しらふねぐらんどほてる",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/128531/128531.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/128531/128531_wa.jpg",
+        "reviewCount": 428,
+        "reviewAverage": 4.12,
+        "hotelMinCharge": 18900,
+        "address1": "長野県",
+        "address2": "松本市安曇4203",
+        "access": "松本ICより約60分、高山西ICより約80分。R158経由、さわんど温泉より県道300号線���車15分",
+        "hotelSpecial": "大自然を堪能できる露天風呂。名湯白骨温泉の人気宿です。お料理は地元食材を中心としております。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F128531%2F128531.html"
+      },
+      {
+        "hotelNo": 32100,
+        "hotelName": "白骨温泉　湯元齋藤旅館",
+        "hotelKanaName": "しらほねおんせん　ゆもと　さいとうりょかん",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/32100/32100.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/32100/32100_kan1.jpg",
+        "reviewCount": 863,
+        "reviewAverage": 4.61,
+        "hotelMinCharge": 20900,
+        "address1": "長野県",
+        "address2": "松本市安曇白骨温泉4195",
+        "access": "お車で松本ICから60分、高山ICから70分。上高地へは「さわんどバスターミナル」乗り換えで約60分。",
+        "hotelSpecial": "二百八十余年の間源泉を守り続ける湯守の宿。レトロモダンな造りの館内には寛ぎの空間が広がっています。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F32100%2F32100.html"
+      },
+      {
+        "hotelNo": 188417,
+        "hotelName": "白骨温泉　おやすみ処球道",
+        "hotelKanaName": "しらほねおんせん　おやすみどころきゅうどう",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/188417/188417.jpg",
+        "roomImageUrl": "",
+        "reviewCount": 2,
+        "reviewAverage": 0,
+        "hotelMinCharge": 15000,
+        "address1": "長野県",
+        "address2": "松本市安曇4197-16",
+        "access": "ＪＲ松本駅より上高地線　で約３０分。バスに乗り換え約５４分。",
+        "hotelSpecial": "＊天空テラスから夜空に輝く星に願いを。良質な温泉に恵まれた古民家風の小さなお宿です。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F188417%2F188417.html"
+      },
+      {
+        "hotelNo": 162900,
+        "hotelName": "白骨温泉　湯元齋藤別館",
+        "hotelKanaName": "しらほねおんせん　ゆもとさいとうべっかん",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/162900/162900.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/162900/162900_kan1.jpg",
+        "reviewCount": 107,
+        "reviewAverage": 4.6,
+        "hotelMinCharge": 18590,
+        "address1": "長野県",
+        "address2": "松本市安曇4200",
+        "access": "松本ICから約60分、高山西ICから約70分。国道158号線経由、沢渡（さわんど）より県道300号線が最短ルートです。",
+        "hotelSpecial": "湯元の源泉を掛け流しで贅沢に堪能できる昔ながらのお湯の宿で、皆様のご来館を心よりお待ちしております。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F162900%2F162900.html"
+      }
+    ],
+    "wikiSpotsData": [
+      {
+        "spotName": "白骨温泉",
+        "wikiTitle": "白骨温泉",
+        "extract": "白骨温泉（しらほねおんせん）は、長野県松本市安曇（旧国信濃国）にある温泉である。北アルプス・乗鞍岳の山麓（標高1400メートルほど）の中部山岳国立公園区域内にあり、国民保養温泉地にも指定されている。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Sirahone_spa_kyoudou-noten-buro_2008.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      },
+      {
+        "spotName": "乗鞍高原",
+        "wikiTitle": "乗鞍高原",
+        "extract": "乗鞍高原（のりくらこうげん）は、飛騨山脈（北アルプス）南部東側に位置する高原。\n観光利用が盛んであり、夏は避暑、夏から秋にかけては登山、冬はスキーを目的とする観光客が多く訪れる。また複数の温泉が湧出しているほか、他所（湯川源泉）からの引湯もなされている。標高1600m付近に「休暇村乗鞍高原」がある。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Norikura_Plateau_from_Mount_Norikura.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      },
+      {
+        "spotName": "乗鞍岳",
+        "wikiTitle": "乗鞍岳",
+        "extract": "乗鞍岳（のりくらだけ）は、飛騨山脈南部の長野県松本市と岐阜県高山市にまたがる剣ヶ峰（標高3,026 m）を主峰とする山々の総称。山頂部の権現池火口の外輪山に位置する最高峰の剣ヶ峰、朝日岳などの8峰を含め、摩利支天岳、富士見岳など23の峰があり、高山市奥飛騨温泉郷、高山市丹生川町、高山市朝日町、高山市高根町、長野県松本市安曇にまたがる広大な裾野をもつ。飛騨側の高山市街地などから大きな山容を望むことができ、親しまれてきた山である。剣ヶ峰は、本州を太平洋側と日本海側に分ける分水界上の最高峰でもある。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Norikura-air.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      }
+    ]
+  },
+  "theme_3_shuzenji": {
+    "id": "theme_3_shuzenji",
+    "slug": "shuzenji-onsen-bamboo-forest-snow-winter-plum-izu-guide",
+    "title": "修善寺温泉の冬の小京都・竹林の小径と早咲き修善寺梅林！弘法大師ゆかりの独鈷の湯とズガニうどん・伊豆牛会席名宿ガイド",
+    "prefecture": "静岡県",
+    "area": "中伊豆・修善寺",
+    "rakutenKeyword": "修善寺温泉",
+    "wikiSpots": [
+      "修善寺温泉",
+      "修禅寺",
+      "竹林の小径"
+    ],
+    "hotels": [
+      {
+        "hotelNo": 109030,
+        "hotelName": "伊豆・修善寺温泉　ホテル滝亭",
+        "hotelKanaName": "いず・しゅぜんじおんせん　ほてるたきてい",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/109030/109030.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/109030/109030_bth.jpg",
+        "reviewCount": 485,
+        "reviewAverage": 3.66,
+        "hotelMinCharge": 4850,
+        "address1": "静岡県",
+        "address2": "伊豆市修善寺722",
+        "access": "修善寺駅から修善寺温泉行きバス乗車して約１０分、総合会館下車徒歩1分",
+        "hotelSpecial": "和と洋がほどよく融合した心やすらぐ宿",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F109030%2F109030.html"
+      },
+      {
+        "hotelNo": 130639,
+        "hotelName": "修善寺温泉　五葉館",
+        "hotelKanaName": "ごようかん",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/130639/130639.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/130639/130639_ru.jpg",
+        "reviewCount": 125,
+        "reviewAverage": 4.57,
+        "hotelMinCharge": 20740,
+        "address1": "静岡県",
+        "address2": "伊豆市修善寺765-2",
+        "access": "伊豆箱根鉄道　修善寺駅よりバスで８分／お車は、東名沼津ICより伊豆縦貫道・伊豆中央道・修善寺道路で約30分",
+        "hotelSpecial": "旅のご褒美は、口の中でとろける伊豆牛と3つの貸切風呂。美味と湯に癒される、特別な時間をお届けします。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F130639%2F130639.html"
+      },
+      {
+        "hotelNo": 29806,
+        "hotelName": "修善寺温泉　瑞の里　〇久（まるきゅう）旅館",
+        "hotelKanaName": "しゅぜんじおんせん　みずのさと　まるきゅうりょかん",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29806/29806.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29806/29806_w.jpg",
+        "reviewCount": 680,
+        "reviewAverage": 4.43,
+        "hotelMinCharge": 19250,
+        "address1": "静岡県",
+        "address2": "伊豆市修善寺1146",
+        "access": "修善寺駅よりタクシー約10分／東名高速　沼津ＩＣより伊豆縦貫道を通り約30分",
+        "hotelSpecial": "冷蔵庫飲物無料★2024「泳ぎ湯」「寝湯」新設★宴処新装★『お客様が選ぶ人気宿』常連宿",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29806%2F29806.html"
+      },
+      {
+        "hotelNo": 31865,
+        "hotelName": "修善寺温泉　国の登録文化財の宿　新井旅館",
+        "hotelKanaName": "しゅぜんじおんせん　くにのとうろくぶんかざいのやど　あらいりょかん",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31865/31865.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31865/31865_he.jpg",
+        "reviewCount": 267,
+        "reviewAverage": 4.56,
+        "hotelMinCharge": 24420,
+        "address1": "静岡県",
+        "address2": "伊豆市修善寺970",
+        "access": "伊豆箱根鉄道線 修善寺駅よりバスまたはタクシーで10分／東名・新東名高速 沼津ICより伊豆縦貫道経由45分",
+        "hotelSpecial": "ミシュランで二つ星の竹林の小径まで徒歩2分、修善寺温泉の中心で観光に便利です",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31865%2F31865.html"
+      },
+      {
+        "hotelNo": 72797,
+        "hotelName": "修善寺温泉　柳生の庄",
+        "hotelKanaName": "しゅぜんじおんせん　やぎゅうのしょう",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/72797/72797.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/72797/72797_hana.jpg",
+        "reviewCount": 36,
+        "reviewAverage": 5,
+        "hotelMinCharge": 54450,
+        "address1": "静岡県",
+        "address2": "伊豆市修善寺1116-6",
+        "access": "伊豆箱根鉄道　修善寺駅から車で約１０分 東名高速道路沼津ICまたは新東名高速道路長泉沼津ICから30分　",
+        "hotelSpecial": "修善寺温泉の奥にある閑静な旅館。本格懐石料理と露天風呂が好評。露天風呂付客室や離れもおすすめ。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F72797%2F72797.html"
+      },
+      {
+        "hotelNo": 27983,
+        "hotelName": "修善寺温泉　宙ＳＯＲＡ　渡月荘金龍",
+        "hotelKanaName": "しゅぜんじおんせん　そら　とげつそう　きんりゅう",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/27983/27983.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/27983/27983_mel.jpg",
+        "reviewCount": 633,
+        "reviewAverage": 4.71,
+        "hotelMinCharge": 13200,
+        "address1": "静岡県",
+        "address2": "伊豆市修善寺3455",
+        "access": "伊豆箱根鉄道修善寺駅から路線バスまたはタクシー（送迎不可）/東名高速沼津ICから伊豆縦貫道・伊豆中央道経由約３５分",
+        "hotelSpecial": "客室からは四季を感じられる自然が一望できます。月替りの会席は人気の絶品です。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F27983%2F27983.html"
+      }
+    ],
+    "wikiSpotsData": [
+      {
+        "spotName": "修善寺温泉",
+        "wikiTitle": "修善寺温泉",
+        "extract": "修善寺温泉（しゅぜんじおんせん）は、静岡県伊豆市修善寺にあり、伊豆半島で最も歴史がある温泉。日本百名湯に選ばれている。",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/181124_Shuzenji_Onsen_Izu_Shizuoka_pref_Japan01s3.jpg/3840px-181124_Shuzenji_Onsen_Izu_Shizuoka_pref_Japan01s3.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "spotName": "修禅寺",
+        "wikiTitle": "修禅寺",
+        "extract": "修禅寺（しゅぜんじ）は、静岡県伊豆市修善寺にある曹洞宗の寺院。山号は福地山。正式名称は「福地山修禅萬安禅寺（ふくちざんしゅぜんばんなんぜんじ）」で、略して福地山修禅寺と呼んでいる（宗教法人としての名称は「修禅寺」）。修善寺温泉街の中心にある。夏目漱石の『思ひ出す事など』（修善寺の大患）、岡本綺堂の『修禅寺物語』でも名高い。",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/181124_Shuzenji_Izu_Shizuoka_pref_Japan04s3.jpg/3840px-181124_Shuzenji_Izu_Shizuoka_pref_Japan04s3.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "spotName": "竹林の小径",
+        "wikiTitle": "竹林の小径",
+        "extract": "竹林の小径（ちくりんのこみち）は竹林の中にある狭い道の意味で、日本各地に存在する。嵐山竹林の小径 - 京都府京都市右京区の竹林の小径\n修善寺温泉 - 静岡県伊豆市の竹林の小径",
+        "image": null
+      }
+    ]
+  },
+  "theme_4_misasa": {
+    "id": "theme_4_misasa",
+    "slug": "misasa-onsen-radium-hotspring-matsuba-crab-winter-guide",
+    "title": "三朝温泉の世界屈指高濃度ラドン泉と活松葉ガニフルコース！三朝橋河原風呂と国宝三徳山三佛寺・冬の鳥取名宿ガイド",
+    "prefecture": "鳥取県",
+    "area": "三朝・倉吉",
+    "rakutenKeyword": "三朝温泉",
+    "wikiSpots": [
+      "三朝温泉",
+      "三徳山",
+      "鳥取砂丘"
+    ],
+    "hotels": [
+      {
+        "hotelNo": 40046,
+        "hotelName": "三朝温泉　旅館　大橋",
+        "hotelKanaName": "みささおんせん　おおはし",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40046/40046.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40046/40046_gr.jpg",
+        "reviewCount": 280,
+        "reviewAverage": 4.41,
+        "hotelMinCharge": 14300,
+        "address1": "鳥取県",
+        "address2": "東伯郡三朝町三朝302-1",
+        "access": "JR山陰本線-倉吉駅下車～バス20分／中国道-院庄ICよりＲ１７９号を倉吉方面に約50分/ANA羽田～鳥取～バス～倉吉",
+        "hotelSpecial": "舘は国登録有形文化財。自家源泉５ヶ所の内、自噴泉が３ヶ所ある「巌窟の湯」が名物風呂！",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40046%2F40046.html"
+      },
+      {
+        "hotelNo": 130086,
+        "hotelName": "三朝温泉　自家源泉かけ流し露天風呂　清流荘",
+        "hotelKanaName": "さんきょうろてん　せいりゅうそう",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/130086/130086.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/130086/130086_rm1.jpg",
+        "reviewCount": 1040,
+        "reviewAverage": 4.42,
+        "hotelMinCharge": 8800,
+        "address1": "鳥取県",
+        "address2": "東伯郡三朝町三朝309",
+        "access": "ＪＲ倉吉駅から車で約20分。倉吉駅・高速バス三朝温泉口まで無料送迎有り。※お一人様OK♪最終便17:00となります。",
+        "hotelSpecial": "三朝川沿いにあり、四季折々の自然のうつろいを感じられる宿。館内には八つの湯殿があり、湯めぐりも可能♪",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F130086%2F130086.html"
+      },
+      {
+        "hotelNo": 164488,
+        "hotelName": "三朝温泉　健康づくりの宿　ブランナールみささ",
+        "hotelKanaName": "みささおんせん　けんこうづくりのやど　ぶらんなーるみささ",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/164488/164488.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/164488/164488_kan1.jpg",
+        "reviewCount": 268,
+        "reviewAverage": 3.99,
+        "hotelMinCharge": 11550,
+        "address1": "鳥取県",
+        "address2": "東伯郡三朝町三朝388-1",
+        "access": "倉吉駅よりお車で約20分",
+        "hotelSpecial": "【ラドン熱気浴】【自家源泉ラドン温泉】【旬のお料理】　健康づくりの宿　ブランナールみささ",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F164488%2F164488.html"
+      },
+      {
+        "hotelNo": 80535,
+        "hotelName": "三朝温泉　渓泉閣",
+        "hotelKanaName": "けいせんかく",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/80535/80535.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/80535/80535_war.jpg",
+        "reviewCount": 143,
+        "reviewAverage": 4.19,
+        "hotelMinCharge": 7700,
+        "address1": "鳥取県",
+        "address2": "東伯郡三朝町山田180",
+        "access": "ＪＲ　倉吉駅よりお車で１５分",
+        "hotelSpecial": "三朝の湯けむり、渓流の音。鳥取グルメと大浴場・露天風呂の他にサウナなど種類豊富な三朝温泉を堪能！",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F80535%2F80535.html"
+      },
+      {
+        "hotelNo": 153377,
+        "hotelName": "三朝温泉桃園館",
+        "hotelKanaName": "みささおんせん　とうえんかん",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/153377/153377.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/153377/153377_kan1.jpg",
+        "reviewCount": 68,
+        "reviewAverage": 3.86,
+        "hotelMinCharge": 4320,
+        "address1": "鳥取県",
+        "address2": "東伯郡三朝町山田118-1",
+        "access": "ＪＲ倉吉駅より三朝温泉行バスにて２０分／中国道 院庄ＩＣよりＲ１７９経由で６０分／米子道 湯原ＩＣより４５分",
+        "hotelSpecial": "【日本遺産】に選ばれた三朝温泉を源泉100%でお楽しみいただける温泉旅館です！",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F153377%2F153377.html"
+      },
+      {
+        "hotelNo": 28068,
+        "hotelName": "三朝温泉　かがり火の宿　有楽",
+        "hotelKanaName": "みささおんせん　ゆうらく",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28068/28068.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28068/28068_heya.jpg",
+        "reviewCount": 202,
+        "reviewAverage": 4.46,
+        "hotelMinCharge": 8250,
+        "address1": "鳥取県",
+        "address2": "東伯郡三朝町三朝642-1",
+        "access": "ＪＲ倉吉駅より三朝温泉行きバスで温泉南口下車徒歩２分／中国道・院庄ＩＣ下車１７９Ｒ経由で５０分",
+        "hotelSpecial": "世界屈指のラジウム泉、名湯三朝温泉。岩造りの露天風呂、大浴場でお楽しみ下さい。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28068%2F28068.html"
+      }
+    ],
+    "wikiSpotsData": [
+      {
+        "spotName": "三朝温泉",
+        "wikiTitle": "三朝温泉",
+        "extract": "三朝温泉 は、鳥取県東伯郡三朝町にある温泉。日本百景。",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Misasa_onsen_kawaranoyu_202106.jpg/3840px-Misasa_onsen_kawaranoyu_202106.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "spotName": "三徳山",
+        "wikiTitle": "三徳山",
+        "extract": "三徳山（みとくさん）は、鳥取県東伯郡三朝町にある山である。標高899.6メートル。706年に役行者により修験の霊地と定められたと伝わる。山名は蔵王・子守・勝手の三所権現を山内に祀り「福徳」「智徳」「寿徳」の3つの徳が授かる山の由来と、「法身（美しい）」「般若（にごりのない）」「解脱（働きのある心）」の3つの徳に由来する。麓には国宝投入堂を有する三徳山三佛寺が存在する。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Ja-tottori-sanbutsuji-nageiredou.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      },
+      {
+        "spotName": "鳥取砂丘",
+        "wikiTitle": "鳥取砂丘",
+        "extract": "鳥取砂丘（とっとりさきゅう）は、鳥取県鳥取市の日本海海岸に広がる日本の代表的な海岸砂丘。広義には鳥取平野の海岸沿いに位置する東西16km、南北2.4kmの砂丘のことで、末恒砂丘、湖山砂丘、浜坂砂丘、福部砂丘の総称である。狭義にはこのうち千代川東岸の浜坂砂丘のことをいい、その一部は観光砂丘となっている。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Tottori-Sakyu_Tottori_Japan.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      }
+    ]
+  },
+  "theme_5_tendo": {
+    "id": "theme_5_tendo",
+    "slug": "tendo-onsen-snow-yamadera-risshakuji-yamagata-beef-guide",
+    "title": "天童温泉の雪の山寺（立石寺）水墨画絶景と将棋駒の街！弱アルカリ美肌の湯と極上山形牛すき焼き・寒中さくらんぼ名宿ガイド",
+    "prefecture": "山形県",
+    "area": "天童・山形",
+    "rakutenKeyword": "天童温泉",
+    "wikiSpots": [
+      "天童温泉",
+      "立石寺",
+      "舞鶴山"
+    ],
+    "hotels": [
+      {
+        "hotelNo": 18363,
+        "hotelName": "天童温泉　松伯亭　あづま荘",
+        "hotelKanaName": "てんどうおんせん　しょうはくてい　あづまそう",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18363/18363.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18363/18363_heya.jpg",
+        "reviewCount": 624,
+        "reviewAverage": 4.64,
+        "hotelMinCharge": 12980,
+        "address1": "山形県",
+        "address2": "天童市鎌田2-2-1",
+        "access": "ＪＲ天童駅下車（東京～天童間　山形新幹線で約２時間４０分）／山形自動車道　山形北ＩＣより２０分",
+        "hotelSpecial": "2024年5月西館リニューアル!!天童温泉で唯一の屋根のない開放感ある露天風呂。『山形牛』に舌鼓♪",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18363%2F18363.html"
+      },
+      {
+        "hotelNo": 52812,
+        "hotelName": "天童温泉　湯の香　松の湯",
+        "hotelKanaName": "ゆのか　まつのゆ",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/52812/52812.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/52812/52812_i.jpg",
+        "reviewCount": 188,
+        "reviewAverage": 4.72,
+        "hotelMinCharge": 20570,
+        "address1": "山形県",
+        "address2": "天童市鎌田本町2-2-54",
+        "access": "山形新幹線東京駅から天童駅まで約2時間45分。天童駅から車で約5分",
+        "hotelSpecial": "天童唯一二種類の源泉100%を掛流し☆山形牛付お部屋食",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52812%2F52812.html"
+      },
+      {
+        "hotelNo": 5954,
+        "hotelName": "天童温泉　美味求真の宿　天童ホテル",
+        "hotelKanaName": "てんどうおんせん　てんどうほてる",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5954/5954.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5954/5954_heya.jpg",
+        "reviewCount": 1899,
+        "reviewAverage": 4.55,
+        "hotelMinCharge": 12100,
+        "address1": "山形県",
+        "address2": "天童市鎌田本町2-1-3",
+        "access": "山形新幹線で東京駅ー天童駅3H。天童駅東口から無料送迎4分（要予約）。天童ICから10分、山形北ICから15分。街中の宿",
+        "hotelSpecial": "【楽天トラベルゴールドアワード】【楽天トラベル日本の宿】2024年W受賞！山形の旬を味わえる会席料理",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5954%2F5954.html"
+      },
+      {
+        "hotelNo": 146875,
+        "hotelName": "天童温泉　ほほえみの空湯舟　つるや",
+        "hotelKanaName": "てんどうおんせん　ほほえみのくうゆふ　つるや",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/146875/146875.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/146875/146875_kan.jpg",
+        "reviewCount": 366,
+        "reviewAverage": 4.56,
+        "hotelMinCharge": 18700,
+        "address1": "山形県",
+        "address2": "天童市鎌田本町2-5-14",
+        "access": "JR天童駅よりお車にて５分、徒歩にて１５分（無料送迎あり）。山形北ＩＣより１５分。",
+        "hotelSpecial": "全館畳敷きの宿。山形の四季折々のお料理、ほほえみ一杯のおもてなしで癒しのひとときを",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F146875%2F146875.html"
+      },
+      {
+        "hotelNo": 53746,
+        "hotelName": "天童温泉　ほほえみの宿　滝の湯",
+        "hotelKanaName": "てんどうおんせん　ほほえみのやど　たきのゆ",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/53746/53746.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/53746/53746_ro.jpg",
+        "reviewCount": 1055,
+        "reviewAverage": 4.58,
+        "hotelMinCharge": 17050,
+        "address1": "山形県",
+        "address2": "天童市鎌田本町1-1-30",
+        "access": "ＪＲ山形新幹線　天童駅より車にて３分、徒歩にて１５分（無料送迎あり）　山形北ＩＣより２０分",
+        "hotelSpecial": "天童温泉と宿泊者専用ラウンジで、心身をやさしく整える滞在をお楽しみください。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F53746%2F53746.html"
+      },
+      {
+        "hotelNo": 84800,
+        "hotelName": "天童温泉　栄屋ホテル",
+        "hotelKanaName": "てんどうおんせんさかえやほてる",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/84800/84800.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/84800/84800_spa.jpg",
+        "reviewCount": 479,
+        "reviewAverage": 4.02,
+        "hotelMinCharge": 6050,
+        "address1": "山形県",
+        "address2": "天童市鎌田2-3-16",
+        "access": "天童駅よりお車にて５分",
+        "hotelSpecial": "天童唯一の出羽の山々を見渡す絶景展望露天風呂と山形の味覚会席で心ほどける極上旅",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F84800%2F84800.html"
+      }
+    ],
+    "wikiSpotsData": [
+      {
+        "spotName": "天童温泉",
+        "wikiTitle": "天童温泉",
+        "extract": "天童温泉（てんどうおんせん）は、山形県天童市（旧出羽国、明治以降は羽前国）にある温泉。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Tend%C5%8D.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      },
+      {
+        "spotName": "立石寺",
+        "wikiTitle": "立石寺",
+        "extract": "立石寺（りっしゃくじ）は、山形県山形市にある、天台宗の仏教寺院。山寺（やまでら）の通称で知られ、古くは「りゅうしゃくじ」と称した。正式には宝珠山阿所川院立石寺（ほうじゅさんあそかわいんりっしゃくじ）と称する。本尊は薬師如来。",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Risshaku-ji_konponchudo.jpg/3840px-Risshaku-ji_konponchudo.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "spotName": "舞鶴山",
+        "wikiTitle": "舞鶴山",
+        "extract": "舞鶴山（まいづるやま）は、山形県天童市にある山である。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Maiduruyama_Tendou%2C_Yamagata.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      }
+    ]
+  }
+}
