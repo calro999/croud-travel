@@ -1,4 +1,4 @@
-# 北海道の宿泊・観光記事（117件）
+# 北海道の宿泊・観光記事（119件）
 
 ## 阿寒湖の奇跡フロストフラワーと氷上フェスティバル！アイヌコタン雪灯りと源泉かけ流し雪見温泉・道東美味宿ガイド
 - 記事: https://croud-travel.pages.dev/posts/akan-lake-frost-flower-ice-festival-ainu-kotan-winter-guide/
@@ -9,6 +9,26 @@
 - 評価: 4.9
 
 12月〜1月の阿寒湖温泉を大特集！マイナス15℃以下の早朝に湖面に咲く奇跡の「フロストフラワー（霜の花）」、氷上フェスティバルICE・愛す・阿寒の冬花火、阿寒アイヌコタンの幻想雪灯り、湖水一望の源泉かけ流し雪見露天風呂と阿寒モシリ牛・ワカサギ天ぷらを味わう厳選名宿ガイド。
+
+## 十勝川温泉の奇跡のモール温泉と豊頃町ジュエリーアイス！白銀の十勝平野絶景と十勝牛・ラクレットチーズ美食宿ガイド
+- 記事: https://croud-travel.pages.dev/posts/tokachigawa-onsen-moor-hotspring-jewelry-ice-winter-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/tokachigawa-onsen-moor-hotspring-jewelry-ice-winter-guide.md
+- 宿泊施設名: 十勝川温泉　観月苑
+- エリア: 十勝・帯広
+- 参考価格: ¥13750〜
+- 評価: 4.48
+
+11月〜1月の十勝川温泉＆豊頃町ジュエリーアイスを徹底ガイド！世界でも希少な琥珀色の「植物性モール温泉」の美肌効果、大津海岸に輝く天然クリスタル氷塊ジュエリーアイス、十勝ハーブ牛・濃厚ラクレットチーズ・帯広豚丼を味わう冬の厳選名宿と1泊2日モデルコース。
+
+## 洞爺湖温泉の冬イルミネーションと雪の羊蹄山パノラマ！不凍湖の絶景レイクビュー雪見露天と噴火湾ホタテ名宿ガイド
+- 記事: https://croud-travel.pages.dev/posts/toyako-onsen-winter-illumination-lake-view-yotei-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/toyako-onsen-winter-illumination-lake-view-yotei-guide.md
+- 宿泊施設名: 洞爺湖温泉　ホテルグランド　トーヤ
+- エリア: 洞爺・登別
+- 参考価格: ¥5500〜
+- 評価: 4.08
+
+11月〜1月の洞爺湖温泉＆冬イルミネーションを徹底特集！日本最北の不凍湖が魅せる雪の羊蹄山レイクビュー露天、約40万球の光のトンネル、噴火湾の旬の大粒冬ホタテと洞爺湖黒毛和牛会席を堪能する冬の厳選ホテルと1泊2日モデルプラン。
 
 ## 小樽ゆき物語「青の運河」と朝里川温泉の旅！冬の小樽寿司通り握りと白樺の雪見露天風呂を堪能するおすすめホテル・旅館厳選ガイド
 - 記事: https://croud-travel.pages.dev/posts/otaru-snow-story-canal-illumination-asarigawa-onsen-guide/

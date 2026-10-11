@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "build": "node bundle_posts.js && next build && node cleanup_export.js",
+    "build": "./remote-build.sh",
+    "build-local": "node bundle_posts.js && next build && node cleanup_export.js",
     "dev": "next dev",
     "start": "next start",
     "lint": "eslint",

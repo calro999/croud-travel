@@ -1,0 +1,612 @@
+{
+  "theme_1_tokachigawa": {
+    "id": "theme_1_tokachigawa",
+    "slug": "tokachigawa-onsen-moor-hotspring-jewelry-ice-winter-guide",
+    "title": "十勝川温泉の奇跡のモール温泉と豊頃町ジュエリーアイス！白銀の十勝平野絶景と十勝牛・ラクレットチーズ美食宿ガイド",
+    "prefecture": "北海道",
+    "area": "十勝・帯広",
+    "rakutenKeyword": "十勝川温泉",
+    "wikiSpots": [
+      "十勝川温泉",
+      "モール温泉",
+      "豊頃町"
+    ],
+    "hotels": [
+      {
+        "hotelNo": 54836,
+        "hotelName": "十勝川温泉　ホテル大平原",
+        "hotelKanaName": "とかちがわおんせん　だいへいげん",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/54836/54836.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/54836/54836_k.jpg",
+        "reviewCount": 889,
+        "reviewAverage": 3.95,
+        "hotelMinCharge": 7700,
+        "address1": "北海道",
+        "address2": "河東郡音更町十勝川温泉南15-1",
+        "access": "帯広駅より車で約２０分",
+        "hotelSpecial": "世界でも珍しい植物性モール温泉を掛け流し♪",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54836%2F54836.html"
+      },
+      {
+        "hotelNo": 19237,
+        "hotelName": "十勝川温泉　観月苑",
+        "hotelKanaName": "とかちがわおんせん　かんげつえん",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19237/19237.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19237/19237_r.jpg",
+        "reviewCount": 2029,
+        "reviewAverage": 4.48,
+        "hotelMinCharge": 13750,
+        "address1": "北海道",
+        "address2": "河東郡音更町十勝川温泉南14-2",
+        "access": "【バス】JR帯広駅より30分（観月苑前下車）｜【お車】帯広駅より20分、音更帯広ICより20分、帯広空港より40分",
+        "hotelSpecial": "十勝川温泉初！２０２０年５月フィンランド式サウナへリニューアル！",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19237%2F19237.html"
+      },
+      {
+        "hotelNo": 30897,
+        "hotelName": "十勝川温泉　笹井ホテル",
+        "hotelKanaName": "とかちおんせん　ささいほてる",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30897/30897.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30897/30897_kan1.jpg",
+        "reviewCount": 1217,
+        "reviewAverage": 4.2,
+        "hotelMinCharge": 9650,
+        "address1": "北海道",
+        "address2": "河東郡音更町十勝川温泉北15-1",
+        "access": "ＪＲ帯広駅前バスターミナルからバスで25分／道東道帯広・音更ＩＣより車で15分／帯広空港より車で45分",
+        "hotelSpecial": "かけ流しのモール温泉が人気の老舗ホテル。昨年改装したレストランでは和洋中のバイキングで楽しいお食事を",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30897%2F30897.html"
+      },
+      {
+        "hotelNo": 27858,
+        "hotelName": "十勝川温泉　とかち宿　田園",
+        "hotelKanaName": "とかちがわおんせん　とかちやど　でんえん",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/27858/27858.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/27858/27858_heya.jpg",
+        "reviewCount": 109,
+        "reviewAverage": 0,
+        "hotelMinCharge": 0,
+        "address1": "北海道",
+        "address2": "河東郡音更町十勝川温泉南17-2",
+        "access": "ＪＲ帯広駅より十勝川温泉行きバスでガーデンスパ下車　バスのお客さまは御電話ください",
+        "hotelSpecial": "温泉も食も景観も☆ふるさと十勝川温泉　モール温泉　☆天然温泉の湧く湯宿",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F27858%2F27858.html"
+      },
+      {
+        "hotelNo": 43848,
+        "hotelName": "十勝川温泉　三余庵",
+        "hotelKanaName": "とかちがわおんせん　さんよあん　　",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/43848/43848.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/43848/43848_ra.jpg",
+        "reviewCount": 92,
+        "reviewAverage": 4.8,
+        "hotelMinCharge": 47225,
+        "address1": "北海道",
+        "address2": "河東郡音更町十勝川温泉南13",
+        "access": "●ＪＲ帯広駅より車で20分　●JR帯広駅⇔十勝川温泉[宿泊者限定バス無料有]※当館までお問い合わせください。",
+        "hotelSpecial": "お客様との出会いの瞬間を大切に、心尽くしのおもてなしを。日常を忘れ心ゆくまでおくつろぎください。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F43848%2F43848.html"
+      },
+      {
+        "hotelNo": 5818,
+        "hotelName": "十勝川温泉　第一ホテル",
+        "hotelKanaName": "とかちがわおんせん　だいいちほてる",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5818/5818.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5818/5818_ky.jpg",
+        "reviewCount": 1449,
+        "reviewAverage": 4.57,
+        "hotelMinCharge": 15900,
+        "address1": "北海道",
+        "address2": "河東郡音更町十勝川温泉南12-1",
+        "access": "JR帯広駅より車で２０分。札幌より車で約3時間／札幌⇔[札幌北ＩＣ～音更帯広ＩＣ]⇔十勝川温泉",
+        "hotelSpecial": "北海道遺産に選定されたモール温泉。美人の湯を心ゆくまでご堪能下さい",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5818%2F5818.html"
+      }
+    ],
+    "wikiSpotsData": [
+      {
+        "spotName": "十勝川温泉",
+        "wikiTitle": "十勝川温泉",
+        "extract": "十勝川温泉（とかちがわおんせん）は、北海道河東郡音更町にある温泉。",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/131012_Tokachigawa_Onsen_Otofuke_Hokkaido_Japan01s3.jpg/3840px-131012_Tokachigawa_Onsen_Otofuke_Hokkaido_Japan01s3.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "spotName": "モール温泉",
+        "wikiTitle": "モール泉",
+        "extract": "モール泉（モールせん）とは、泥炭層を通して湧出するフミン酸やフルボ酸といった透明で褐色を帯びた腐植物質を含む温泉。モール温泉またはモール系温泉ともいう。",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/131012_Tokachigawa_Onsen_Otofuke_Hokkaido_Japan11s.jpg/3840px-131012_Tokachigawa_Onsen_Otofuke_Hokkaido_Japan11s.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "spotName": "豊頃町",
+        "wikiTitle": "豊頃町",
+        "extract": "豊頃町（とよころちょう）は、北海道十勝総合振興局管内の中川郡にある町。十勝地方の東南端に位置している。十勝地方の開拓が十勝川を河口から遡上する形で進んだ歴史から十勝地方発祥の地とされ、大津地区と呼ばれる河口住居地の中央近くに碑がある。ハルニレの木が町のシンボルとなっている。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/The_famous_Japanese_Elm%2C_Toyokoro_Town%2C_Hokkaido.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      }
+    ]
+  },
+  "theme_2_toyako": {
+    "id": "theme_2_toyako",
+    "slug": "toyako-onsen-winter-illumination-lake-view-yotei-guide",
+    "title": "洞爺湖温泉の冬イルミネーションと雪の羊蹄山パノラマ！不凍湖の絶景レイクビュー雪見露天と噴火湾ホタテ名宿ガイド",
+    "prefecture": "北海道",
+    "area": "洞爺・登別",
+    "rakutenKeyword": "洞爺湖温泉",
+    "wikiSpots": [
+      "洞爺湖",
+      "洞爺湖温泉",
+      "昭和新山"
+    ],
+    "hotels": [
+      {
+        "hotelNo": 10975,
+        "hotelName": "洞爺湖温泉　北海ホテル",
+        "hotelKanaName": "とうやこおんせん　ほっかい",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10975/10975.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10975/10975_room.jpg",
+        "reviewCount": 294,
+        "reviewAverage": 3.93,
+        "hotelMinCharge": 7150,
+        "address1": "北海道",
+        "address2": "虻田郡洞爺湖町洞爺湖温泉 147",
+        "access": "新千歳空港より車で約２時間３０分／札幌より車で中山峠経由約２時間／",
+        "hotelSpecial": "湖の漁業権を持つ、源泉１００％の温泉ホテル。洞爺湖の恵みをお膳に♪有珠山噴火口に一番近い宿",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10975%2F10975.html"
+      },
+      {
+        "hotelNo": 12539,
+        "hotelName": "洞爺湖温泉　洞爺観光ホテル",
+        "hotelKanaName": "とうやこおんせん　とうやかんこう",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/12539/12539.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/12539/12539_room.jpg",
+        "reviewCount": 2152,
+        "reviewAverage": 3.91,
+        "hotelMinCharge": 7150,
+        "address1": "北海道",
+        "address2": "虻田郡洞爺湖町洞爺湖温泉町33",
+        "access": "洞爺駅より車で20分 虻田洞爺湖ICより車で8分、伊達ICより30分",
+        "hotelSpecial": "全客室湖側になり洞爺湖、中島、羊蹄山が一望でき眺望抜群！全室wifi完備！お得なクーポン発行中！",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F12539%2F12539.html"
+      },
+      {
+        "hotelNo": 14467,
+        "hotelName": "洞爺湖温泉　ホテルグランド　トーヤ",
+        "hotelKanaName": "とうやこおんせん　ぐらんど　とーや",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14467/14467.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14467/14467_heya.jpg",
+        "reviewCount": 496,
+        "reviewAverage": 4.08,
+        "hotelMinCharge": 5500,
+        "address1": "北海道",
+        "address2": "虻田郡洞爺湖町洞爺湖温泉 144",
+        "access": "ＪＲ室蘭本線洞爺駅より車で約15分／道央道虻田洞爺湖ＩＣより20分",
+        "hotelSpecial": "洞爺湖湖畔に位置し、湖に面したお部屋からは中島・羊蹄山(エゾ富士）が一望出来ます。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14467%2F14467.html"
+      },
+      {
+        "hotelNo": 29995,
+        "hotelName": "ゆとりろ洞爺湖",
+        "hotelKanaName": "ゆとりろとうやこ",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29995/29995.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29995/29995_r.jpg",
+        "reviewCount": 3017,
+        "reviewAverage": 3.92,
+        "hotelMinCharge": 5390,
+        "address1": "北海道",
+        "address2": "虻田郡洞爺湖町洞爺湖温泉78",
+        "access": "ＪＲ洞爺駅よりバスで15分／洞爺ＩＣより約15分",
+        "hotelSpecial": "源泉至近の温泉自慢！安心の部屋食プランもご用意、くつろぎの湯宿",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29995%2F29995.html"
+      },
+      {
+        "hotelNo": 149334,
+        "hotelName": "天然温泉　幸鐘の湯　ドーミーイン東室蘭（ドーミーイン・御宿野乃　ホテルズグループ）",
+        "hotelKanaName": "てんねんおんせん　こうしょうのゆ　どーみーいんひがしむろらん",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/149334/149334.jpg",
+        "roomImageUrl": "",
+        "reviewCount": 1759,
+        "reviewAverage": 4.38,
+        "hotelMinCharge": 5819,
+        "address1": "北海道",
+        "address2": "室蘭市中島町2-30-11",
+        "access": "東室蘭駅西口より直進 徒歩にて約５分",
+        "hotelSpecial": "男女別天然温泉大浴場が自慢のホテル。東室蘭駅から徒歩5分。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F149334%2F149334.html"
+      },
+      {
+        "hotelNo": 50663,
+        "hotelName": "八雲温泉　おぼこ荘",
+        "hotelKanaName": "やくもおんせん　おぼこそう",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50663/50663.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50663/50663_wa.jpg",
+        "reviewCount": 164,
+        "reviewAverage": 4.69,
+        "hotelMinCharge": 13900,
+        "address1": "北海道",
+        "address2": "二海郡八雲町鉛川622",
+        "access": "八雲ICより車で２０分、八雲駅より車で２５分",
+        "hotelSpecial": "松前藩の時代から愛され続けた名湯・八雲温泉を楽しむ！夕食は海と山の幸を！大自然に囲まれた癒しの宿",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F50663%2F50663.html"
+      }
+    ],
+    "wikiSpotsData": [
+      {
+        "spotName": "洞爺湖",
+        "wikiTitle": "洞爺湖",
+        "extract": "洞爺湖（とうやこ）は、北海道虻田郡洞爺湖町と有珠郡壮瞥町にまたがる湖。二級河川長流川水系に属する。周辺が支笏洞爺国立公園に指定されており、洞爺湖有珠山ジオパークとして『日本ジオパーク』『世界ジオパーク』に登録されている。また、「日本百景」「新日本旅行地100選」「美しい日本の歩きたくなるみち500選」にも選定されている。",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/130922_Lake_Toya_Toyako_Hokkaido_Japan03s3.jpg/3840px-130922_Lake_Toya_Toyako_Hokkaido_Japan03s3.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "spotName": "洞爺湖温泉",
+        "wikiTitle": "洞爺湖温泉",
+        "extract": "洞爺湖温泉 は、北海道虻田郡洞爺湖町にある温泉、または洞爺湖町と有珠郡壮瞥町の地名。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/View_of_T%C5%8Dyako-onsen_town.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      },
+      {
+        "spotName": "昭和新山",
+        "wikiTitle": "昭和新山",
+        "extract": "昭和新山（しょうわしんざん）は、北海道有珠郡壮瞥町にある火山。または壮瞥町の地名。支笏洞爺国立公園内にあり、国の特別天然記念物に指定されている。また、有珠山とともに日本の地質百選に選定され、周辺地域がユネスコ世界ジオパークである洞爺湖有珠山ジオパークの一部となっている。",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/130922_Showa-shinzan_Sobetsu_Hokkaido_Japan01s3.jpg/3840px-130922_Showa-shinzan_Sobetsu_Hokkaido_Japan01s3.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      }
+    ]
+  },
+  "theme_3_minakami": {
+    "id": "theme_3_minakami",
+    "slug": "minakami-onsen-tanigawadake-snow-river-roten-guide",
+    "title": "水上温泉郷の谷川岳冠雪パノラマと利根川渓谷雪見露天風呂！首都圏から新幹線で行く白銀秘湯と上州牛会席名宿ガイド",
+    "prefecture": "群馬県",
+    "area": "水上・谷川・猿ヶ京",
+    "rakutenKeyword": "水上温泉",
+    "wikiSpots": [
+      "水上温泉",
+      "谷川岳",
+      "利根川"
+    ],
+    "hotels": [
+      {
+        "hotelNo": 2497,
+        "hotelName": "水上温泉　ペンション　朝ねぼう",
+        "hotelKanaName": "あさねぼう",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2497/2497.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2497/2497_bas.jpg",
+        "reviewCount": 329,
+        "reviewAverage": 4.87,
+        "hotelMinCharge": 12540,
+        "address1": "群馬県",
+        "address2": "利根郡みなかみ町綱子294-1",
+        "access": "水上ICより車で15分、上越線水上駅より湯の小屋、宝川行きバス10分「経塚」で下車",
+        "hotelSpecial": "谷川温泉の源泉と、お手製の欧風家庭料理や焼き立てクロワッサンを堪能できるペンション。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2497%2F2497.html"
+      },
+      {
+        "hotelNo": 184453,
+        "hotelName": "水上温泉　あらたし　みなかみ",
+        "hotelKanaName": "あらたし　みなかみ",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184453/184453.jpg",
+        "roomImageUrl": "",
+        "reviewCount": 635,
+        "reviewAverage": 4.41,
+        "hotelMinCharge": 15100,
+        "address1": "群馬県",
+        "address2": "利根郡みなかみ町湯原740-3",
+        "access": "JR上越線水上駅から徒歩15分",
+        "hotelSpecial": "2022年11月開業！清流利根川を眺める全室露天風呂付ホテル",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F184453%2F184453.html"
+      },
+      {
+        "hotelNo": 31846,
+        "hotelName": "水上温泉　おやど　松葉屋",
+        "hotelKanaName": "みなかみおんせん　おやど　まつばや",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31846/31846.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31846/31846_he.jpg",
+        "reviewCount": 238,
+        "reviewAverage": 4.3,
+        "hotelMinCharge": 6000,
+        "address1": "群馬県",
+        "address2": "利根郡みなかみ町小日向669",
+        "access": "上越線　水上駅より徒歩５分／関越自動車道　水上ＩＣより車で１０分",
+        "hotelSpecial": "利根川と谷川岳を一望できる宿・新鮮な素材で造る料理が自慢。展望風呂でリラックス",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31846%2F31846.html"
+      },
+      {
+        "hotelNo": 5766,
+        "hotelName": "水上温泉　みなかみホテルジュラク",
+        "hotelKanaName": "みなかみおんせん　みなかみほてる　じゅらく",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5766/5766.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5766/5766_meal.jpg",
+        "reviewCount": 4081,
+        "reviewAverage": 4.67,
+        "hotelMinCharge": 18500,
+        "address1": "群馬県",
+        "address2": "利根郡みなかみ町湯原665",
+        "access": "【お車】水上ＩＣより約10分【電車】水上駅から徒歩10分・無料送迎バス2分。水上駅ご到着時お電話下さい",
+        "hotelSpecial": "見て楽しい♪食べて美味しい♪シェフ達の作りたて豪華グルメ味わえる！ブッフェダイニング",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5766%2F5766.html"
+      },
+      {
+        "hotelNo": 108787,
+        "hotelName": "水上温泉　ＫＫＲ水上　水明荘（国家公務員共済組合連合会水上保養所）",
+        "hotelKanaName": "けーけーあーるみなかみ　すいめいそう",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108787/108787.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108787/108787_kan.jpg",
+        "reviewCount": 65,
+        "reviewAverage": 4.24,
+        "hotelMinCharge": 9800,
+        "address1": "群馬県",
+        "address2": "利根郡みなかみ町大穴859",
+        "access": "組合員の方はチェックインの際に組合員証等をご提示ください。",
+        "hotelSpecial": "KKR宿泊施設は国家公務員共済組合連合会が組合員等の利用を目的として運営しています。一般の方も宿泊可",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108787%2F108787.html"
+      },
+      {
+        "hotelNo": 165148,
+        "hotelName": "水上キャンプ場リバーストーン",
+        "hotelKanaName": "みなかみきゃんぷじょうりばーすとーん",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/165148/165148.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/165148/165148_kan1.jpg",
+        "reviewCount": 30,
+        "reviewAverage": 4.14,
+        "hotelMinCharge": 12000,
+        "address1": "群馬県",
+        "address2": "利根郡みなかみ町綱子221-1",
+        "access": "水上駅／湯��曽駅よりお車",
+        "hotelSpecial": "水上の大自然で優雅に過ごせるキャンプ場がニューオープン！全室ベットタイプで豪華ＢＢＱを楽しもう！！",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F165148%2F165148.html"
+      }
+    ],
+    "wikiSpotsData": [
+      {
+        "spotName": "水上温泉",
+        "wikiTitle": "水上温泉",
+        "extract": "水上温泉（みなかみおんせん）は、群馬県利根郡みなかみ町にある温泉。谷川岳南麓一帯を水上温泉郷と呼び、その根幹を成す中心温泉地である。第二次世界大戦後になって交通アクセスの良さを理由に大幅に規模を拡大し、草津温泉や伊香保温泉と並ぶ県下有数の温泉地として発展した。「上毛かるた」では、「み」の札に「水上谷川　スキーと登山」として採録されている。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Minakami_Onsen_01.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      },
+      {
+        "spotName": "谷川岳",
+        "wikiTitle": "谷川岳",
+        "extract": "谷川岳（たにがわだけ）は、群馬県利根郡みなかみ町と新潟県南魚沼郡湯沢町の県境（上越国境）にある山。山頂部はトマの耳 とオキの耳 の二峰に分かれた双耳峰となっている。日本百名山、新日本百名山、ぐんま百名山、越後百山、新潟100名山、関東百名山、甲信越百名山、新日本旅行地100選の一つ。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Tanigawadake.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      },
+      {
+        "spotName": "利根川",
+        "wikiTitle": "利根川",
+        "extract": "利根川（とねがわ）は、大水上山を水源として関東地方を北から東へ流れ、太平洋に注ぐ一級河川。一級水系であり、利根川水系の本川（本流）である。河川の規模は日本最大級であり、日本三大河川のひとつ。首都圏の水源として国内の経済活動上重要な役割を果たしている。「坂東太郎（ばんどうたろう。“東国にある日本一の大河”）」の異名を持つ日本三大暴れ川のひとつで、江戸時代初期に行われた河川改修である利根川東遷事業により、流路を変更された歴史を持つ。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Estuary_of_Tone_river_20081229.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      }
+    ]
+  },
+  "theme_4_katsuura": {
+    "id": "theme_4_katsuura",
+    "slug": "nanki-katsuura-onsen-tuna-bokido-kumano-nachi-winter-guide",
+    "title": "南紀勝浦温泉の冬本番生マグロ会席と洞窟露天風呂・忘帰洞！世界遺産熊野那智大社新春開運初詣を巡る名宿ガイド",
+    "prefecture": "和歌山県",
+    "area": "勝浦・串本・すさみ",
+    "rakutenKeyword": "南紀勝浦温泉",
+    "wikiSpots": [
+      "南紀勝浦温泉",
+      "熊野那智大社",
+      "那智の滝"
+    ],
+    "hotels": [
+      {
+        "hotelNo": 68247,
+        "hotelName": "南紀勝浦温泉　くつろぎの宿　料理旅館　万清楼",
+        "hotelKanaName": "まんせいろう",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68247/68247.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68247/68247_w.jpg",
+        "reviewCount": 830,
+        "reviewAverage": 4.41,
+        "hotelMinCharge": 16500,
+        "address1": "和歌山県",
+        "address2": "東牟婁郡那智勝浦町勝浦448",
+        "access": "JR「紀伊勝浦駅」より徒歩約7分／大阪から紀勢自動車道「すさみ南IC」経由で約3時間半",
+        "hotelSpecial": "【ホテル浦島の温泉も利用可】紀州勝浦産の生まぐろや南紀の食材を使った会席料理をお楽しみください。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68247%2F68247.html"
+      },
+      {
+        "hotelNo": 54556,
+        "hotelName": "南紀勝浦温泉　ホテル浦島",
+        "hotelKanaName": "なんきかつうらおんせん　ほてるうらしま",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/54556/54556.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/54556/54556_b1.jpg",
+        "reviewCount": 6478,
+        "reviewAverage": 4.22,
+        "hotelMinCharge": 10450,
+        "address1": "和歌山県",
+        "address2": "東牟婁郡那智勝浦町勝浦1165-2",
+        "access": "ＪＲ紀勢線　紀伊勝浦駅から徒歩6分で桟橋へ。更に専用ボート又は、シャトルバスで５分　詳しくは交通案内ページをご覧ください",
+        "hotelSpecial": "【楽天トラベルゴールドアワード受賞】圧倒的なスケールと開放感！天然洞窟温泉など湯巡りを楽しもう♪",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54556%2F54556.html"
+      },
+      {
+        "hotelNo": 6002,
+        "hotelName": "南紀勝浦温泉　ホテルなぎさや",
+        "hotelKanaName": "なんきかつうらおんせん　ほてるなぎさや",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6002/6002.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6002/6002_bath.jpg",
+        "reviewCount": 688,
+        "reviewAverage": 3.97,
+        "hotelMinCharge": 8800,
+        "address1": "和歌山県",
+        "address2": "東牟婁郡那智勝浦町大字湯川955番地の1",
+        "access": "JR「紀伊勝浦駅」より車で約5分（事前予約で送迎サービス有）／大阪から紀勢自動車道「すさみ南IC」経由で約3時間半",
+        "hotelSpecial": "トンネルを抜けるとそこは…映画のような入り江の中にある秘密のお宿",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F6002%2F6002.html"
+      },
+      {
+        "hotelNo": 107899,
+        "hotelName": "ＴＡＯＹＡ那智勝浦",
+        "hotelKanaName": "たおやなちかつうら",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/107899/107899.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/107899/107899_wa.jpg",
+        "reviewCount": 1504,
+        "reviewAverage": 4.3,
+        "hotelMinCharge": 18600,
+        "address1": "和歌山県",
+        "address2": "東牟婁郡那智勝浦町湯川1108",
+        "access": "紀伊勝浦駅よりお車にて２分",
+        "hotelSpecial": "海に囲まれた和モダンを感じるラウンジでオールインクルーシブ体験をご堪能ください。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F107899%2F107899.html"
+      },
+      {
+        "hotelNo": 75227,
+        "hotelName": "勝浦温泉　休暇村　南紀勝浦",
+        "hotelKanaName": "かつうらおんせん　きゅうかむら　なんきかつうら",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/75227/75227.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/75227/75227_grnv.jpg",
+        "reviewCount": 642,
+        "reviewAverage": 4.36,
+        "hotelMinCharge": 12100,
+        "address1": "和歌山県",
+        "address2": "東牟婁郡那智勝浦町宇久井719",
+        "access": "送迎バス（要予約）",
+        "hotelSpecial": "熊野灘の潮騒と朝陽に癒される高台のリゾートホテル",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F75227%2F75227.html"
+      }
+    ],
+    "wikiSpotsData": [
+      {
+        "spotName": "南紀勝浦温泉",
+        "wikiTitle": "南紀勝浦温泉",
+        "extract": "南紀勝浦温泉（なんきかつうらおんせん）は、和歌山県東牟婁郡那智勝浦町（旧国紀伊国）にある温泉である。もともと勝浦温泉と呼ばれていたが、近年になって旅行業界や観光協会などが「南紀」を冠するようになった。近畿圏では一般に「勝浦」だけで当温泉地を指す。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Onsen_in_Nachikatsuura%2C_Japan.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      },
+      {
+        "spotName": "熊野那智大社",
+        "wikiTitle": "熊野那智大社",
+        "extract": "熊野那智大社（くまのなちたいしゃ）は、和歌山県東牟婁郡那智勝浦町那智山にある神社。熊野本宮大社・熊野速玉大社と共に、熊野三山を構成する。熊野夫須美大神を主祭神とする。かつては那智神社、熊野夫須美神社、熊野那智神社などと名乗っていた。また熊野十二所権現や十三所権現、那智山権現ともいう。旧社格は官幣中社で、現在は神社本庁の別表神社。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Shrine_Kumano_nachi01.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      },
+      {
+        "spotName": "那智の滝",
+        "wikiTitle": "那智滝",
+        "extract": "那智滝（なちのたき）は、和歌山県東牟婁郡那智勝浦町の那智川中流にかかる滝。石英斑岩からなるほとんど垂直の断崖に沿って落下し、落ち口の幅13メートル、滝壺までの落差は133メートルに達し、その姿は熊野灘からも望見することができる。",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Nachi_Falls_2025-10-13.jpg/3840px-Nachi_Falls_2025-10-13.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      }
+    ]
+  },
+  "theme_5_nagayu": {
+    "id": "theme_5_nagayu",
+    "slug": "nagayu-onsen-natural-carbonated-spring-kuju-winter-guide",
+    "title": "長湯温泉の奇跡の天然炭酸泉とラムネ温泉館！久住連山雪景色と芹川沿い雪見湯・極上豊後牛＆スッポン鍋名宿ガイド",
+    "prefecture": "大分県",
+    "area": "竹田・久住・長湯",
+    "rakutenKeyword": "長湯温泉",
+    "wikiSpots": [
+      "長湯温泉",
+      "ラムネ温泉館",
+      "九重連山"
+    ],
+    "hotels": [
+      {
+        "hotelNo": 37846,
+        "hotelName": "長湯温泉　紅葉館＜大分県＞",
+        "hotelKanaName": "ながゆおんせん　こうようかん＜おおいたけん＞",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/37846/37846.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/37846/37846_spa.jpg",
+        "reviewCount": 148,
+        "reviewAverage": 3.8,
+        "hotelMinCharge": 7150,
+        "address1": "大分県",
+        "address2": "竹田市直入町長湯7996",
+        "access": "ＪＲ豊肥本線　豊後竹田駅より車で２０分",
+        "hotelSpecial": "長湯名物カニ湯は目の前！温泉情緒あふれる老舗で心落ち着く静かな時間を♪自慢のチャンコ鍋はボリューム◎",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F37846%2F37846.html"
+      },
+      {
+        "hotelNo": 74753,
+        "hotelName": "長湯温泉　やすらぎの宿　かどやＲｅ",
+        "hotelKanaName": "やすらぎのやど　かどやあーるいー",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/74753/74753.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/74753/74753_kya.jpg",
+        "reviewCount": 160,
+        "reviewAverage": 4.07,
+        "hotelMinCharge": 6700,
+        "address1": "大分県",
+        "address2": "竹田市直入町長湯7985-2",
+        "access": "豊後竹田駅よりバスで５０分、バス停「長湯車庫前」下車徒歩５分",
+        "hotelSpecial": "濃厚な長湯温泉を満喫♪全６室の家庭的な旅館。リフレッシュ・リラックス・リメンバー・リターンの宿",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F74753%2F74753.html"
+      },
+      {
+        "hotelNo": 40731,
+        "hotelName": "長湯温泉　丸長旅館",
+        "hotelKanaName": "ながゆおんせん　まるちょうりょかん",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40731/40731.jpg",
+        "roomImageUrl": "",
+        "reviewCount": 54,
+        "reviewAverage": 4.85,
+        "hotelMinCharge": 18000,
+        "address1": "大分県",
+        "address2": "竹田市直入町長湯温泉７９９５－２",
+        "access": "◆湯布院IC国道210号を湯平温泉経由で広域農道50分◆ＪＲ豊肥本線　豊後竹田駅から車（タクシー）で３０分",
+        "hotelSpecial": "長湯温泉「ガニ湯」を一望できる純和風旅館。小さくてもいい宝石のような宿を目指しおもてなし致します♪",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40731%2F40731.html"
+      },
+      {
+        "hotelNo": 29175,
+        "hotelName": "長湯温泉　かじか庵",
+        "hotelKanaName": "ながゆおんせん　かじかあん",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29175/29175.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29175/29175_w6.jpg",
+        "reviewCount": 466,
+        "reviewAverage": 4.25,
+        "hotelMinCharge": 8500,
+        "address1": "大分県",
+        "address2": "竹田市直入町長湯2961",
+        "access": "熊本空港より車で約2時間弱/湯布院ICより約45分/豊肥線豊後竹田駅より車で25分",
+        "hotelSpecial": "豊富な“湯の花”が自慢の炭酸泉♪１泊２食プランには、岩盤浴か家族湯無料！",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29175%2F29175.html"
+      },
+      {
+        "hotelNo": 108788,
+        "hotelName": "長湯温泉　大丸旅館",
+        "hotelKanaName": "ながゆおんせん　だいまるりょかん",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108788/108788.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108788/108788_wa.jpg",
+        "reviewCount": 200,
+        "reviewAverage": 4.39,
+        "hotelMinCharge": 19800,
+        "address1": "大分県",
+        "address2": "竹田市直入町長湯7992-1",
+        "access": "JR豊肥本線・豊後竹田駅よりお車にて25分。（駅から路線バスもあります。長湯行き約40分、長湯下車。）",
+        "hotelSpecial": "長湯温泉の老舗宿。全室・芹川に面し温泉街散策にも便利。泡付き炭酸泉「ラムネ温泉館」入浴無料。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108788%2F108788.html"
+      },
+      {
+        "hotelNo": 104673,
+        "hotelName": "長湯温泉　上野屋旅館",
+        "hotelKanaName": "ながゆおんせん　うえのやりょかん",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/104673/104673.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/104673/104673_ru.jpg",
+        "reviewCount": 100,
+        "reviewAverage": 4.33,
+        "hotelMinCharge": 6600,
+        "address1": "大分県",
+        "address2": "竹田市直入町長湯7961",
+        "access": "JR豊肥本線・豊後竹田駅より長湯温泉行バスで45分（お車で30分）。【マイカー】大分道・湯布院ICから車で45分",
+        "hotelSpecial": "飲んで良し、浸かって良しの自慢の温泉。  高濃度の炭酸ガスを含むお湯です。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F104673%2F104673.html"
+      }
+    ],
+    "wikiSpotsData": [
+      {
+        "spotName": "長湯温泉",
+        "wikiTitle": "長湯温泉",
+        "extract": "長湯温泉（ながゆおんせん）は、大分県竹田市直入町（旧国豊後国）にある温泉である。炭酸濃度、湧出量、温度から「世界屈指の炭酸泉」、「日本有数の炭酸泉」とされ、その効能（飲泉含む）で知られている。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Ganiyu.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      },
+      {
+        "spotName": "岡城跡",
+        "wikiTitle": "岡城 (豊後国)",
+        "extract": "岡城（おかじょう）は、大分県竹田市大字竹田（豊後国直入郡竹田）にあった日本の城（山城）。臥牛城（がぎゅうじょう）・豊後竹田城（ぶんごたけたじょう）とも呼ばれる。日本百名城の一つ。雲海に浮かぶ城だが、「天空の城」の火付け役である但馬竹田城（たけだじょう）とは、とは「田」の読み方が異なる（こちらは清音の「た」）。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Okajoshi.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      },
+      {
+        "spotName": "九重連山",
+        "wikiTitle": "九重山",
+        "extract": "九重山（くじゅうさん）は、大分県玖珠郡九重町と竹田市久住町の境界に位置する山々の総称（地質学上の呼称）。最高峰は九州本土最高峰でもある中岳（標高1,791m）。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Makinoto_Pass_-_01.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      }
+    ]
+  }
+}

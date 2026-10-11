@@ -1,4 +1,14 @@
-# 大分県の宿泊・観光記事（47件）
+# 大分県の宿泊・観光記事（48件）
+
+## 長湯温泉の奇跡の天然炭酸泉とラムネ温泉館！久住連山雪景色と芹川沿い雪見湯・極上豊後牛＆スッポン鍋名宿ガイド
+- 記事: https://croud-travel.pages.dev/posts/nagayu-onsen-natural-carbonated-spring-kuju-winter-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/nagayu-onsen-natural-carbonated-spring-kuju-winter-guide.md
+- 宿泊施設名: 長湯温泉　やすらぎの宿　かどやＲｅ
+- エリア: 竹田・久住・長湯
+- 参考価格: ¥6700〜
+- 評価: 4.07
+
+11月〜1月の長湯温泉＆竹田城下町を大特集！世界屈指の高濃度天然炭酸泉「ラムネ温泉館」と全身を包む銀の気泡浴、芹川沿いの雪見露天、国史跡岡城跡の冬景色、名物スッポン鍋と豊後牛陶板焼きを味わう冬の厳選名宿と1泊2日湯治モデルコース。
 
 ## 大分県：別府鉄輪温泉 やすらぎの宿 由布宿泊ガイド！地獄めぐり徒歩圏の鉄輪温泉♪露天・内・アクセス＆魅力ルポ
 - 記事: https://croud-travel.pages.dev/posts/72895/

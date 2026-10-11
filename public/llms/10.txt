@@ -1,4 +1,4 @@
-# 群馬県の宿泊・観光記事（84件）
+# 群馬県の宿泊・観光記事（85件）
 
 ## 草津温泉の冬の湯畑ライトアップと西の河原雪見露天風呂！氷点下に立ち上る湯けむりと上州牛会席を味わうおすすめ名宿ガイド
 - 記事: https://croud-travel.pages.dev/posts/kusatsu-onsen-yubatake-winter-lightup-snow-bath-guide/
@@ -9,6 +9,16 @@
 - 評価: 4.69
 
 11月〜1月の草津温泉・冬の湯畑ライトアップを大特集！氷点下に立ち上る猛烈な湯けむり、西の河原公園の日本屈指の雪見露天風呂、熱乃湯の湯もみ体験、強酸性源泉かけ流しの名宿と上州牛会席、1泊2日モデルプランを徹底解説。
+
+## 水上温泉郷の谷川岳冠雪パノラマと利根川渓谷雪見露天風呂！首都圏から新幹線で行く白銀秘湯と上州牛会席名宿ガイド
+- 記事: https://croud-travel.pages.dev/posts/minakami-onsen-tanigawadake-snow-river-roten-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/minakami-onsen-tanigawadake-snow-river-roten-guide.md
+- 宿泊施設名: 水上温泉　ペンション　朝ねぼう
+- エリア: 水上・谷川・猿ヶ京
+- 参考価格: ¥12540〜
+- 評価: 4.87
+
+11月〜1月の水上温泉郷＆谷川岳を大特集！東京から新幹線でわずか約66分の白銀雪国リゾート。利根川の渓流雪見露天風呂、谷川岳ロープウェイ天神平冠雪パノラマ、上州牛すき焼き・上州もち豚鍋・焼きカレーを堪能する冬の厳選名宿とモデルコース。
 
 ## おすすめ宿：セントラルホテル高崎の魅力と見どころをご紹介
 - 記事: https://croud-travel.pages.dev/posts/15259/
