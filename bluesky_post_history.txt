@@ -35,3 +35,4 @@ showcase_okinawa
 obon-wakayama-lastminute-guide
 showcase_hokkaido
 niigata-sake-uonuma-scenery-hotels-guide
+showcase_ishikawa
