@@ -7,6 +7,36 @@ export interface TrendTopicItem {
 
 export const FEATURE_TREND_TOPICS: TrendTopicItem[] = [
   {
+    slug: 'winter-kanagawa-hakone-sengokuhara-luxury-hanare-roten-suite-stay',
+    title: "全室露天風呂付き極上離れと白濁硫黄泉！箱根・仙石原の隠れ家高級宿と極上相州牛名宿5選",
+    desc: "大涌谷直送の白濁硫黄泉を客室露天で独り占め！金乃竹仙石原や翠松園、黄金色のすすき草原と相州牛懐石…",
+    badge: '高級・11・12月特集'
+  },
+  {
+    slug: 'winter-shizuoka-izukogen-luxury-hanare-roten-zagyoso-kinmedai-stay',
+    title: "全室離れ客室露天風呂と相模湾絶景！静岡・伊豆高原の坐漁荘＆お宿うち山・極上地金目鯛名宿5選",
+    desc: "城ヶ崎海岸パノラマと相模湾の青！ABBA RESORTS坐漁荘＆お宿うち山、極上地金目鯛の姿煮としずおか和牛…",
+    badge: '高級・11・12月特集'
+  },
+  {
+    slug: 'winter-hyogo-arima-onsen-luxury-kinzan-gold-silver-kobe-beef-stay',
+    title: "日本最古の名湯・金泉銀泉を客室露天で！兵庫・有馬温泉の名門欽山＆中の坊瑞苑と神戸牛名宿5選",
+    desc: "濃厚赤褐色の金泉と美肌銀泉！ミシュラン掲載の格式高い料亭旅館、とろける最高峰神戸牛ステーキと伝統会席…",
+    badge: '高級・11・12月特集'
+  },
+  {
+    slug: 'winter-nagano-tobira-onsen-myojinkan-relais-chateaux-shinshu-french-stay',
+    title: "世界基準ルレ・エ・シャトー加盟「明神館」と山峡秘湯！長野・渓流雪見立ち湯とフレンチ名宿5選",
+    desc: "標高1050m山峡の原生林に抱かれるリトリート！深さ120cmの雪見立ち湯露天、自家農園野菜と信州牛オーガニックフレンチ…",
+    badge: '高級・11・12月特集'
+  },
+  {
+    slug: 'winter-kumamoto-kurokawa-shirakawa-luxury-takefue-gekkouju-akagyu-stay',
+    title: "竹林の秘境・憧れのラグジュアリー離れ「竹ふえ」と「月洸樹」！熊本・黒川奥座敷と極上あか牛名宿5選",
+    desc: "一生に一度は泊まりたい日本最高峰の離れ宿！客室専用巨大露天風呂、冬の湯あかり幻想美と幻のあか牛フィレ肉炭火焼き…",
+    badge: '高級・11・12月特集'
+  },
+  {
     slug: 'winter-fukushima-iizaka-onsen-sabakoyu-enban-gyoza-fukushimagyu-stay',
     title: "奥州三名湯・飯坂温泉の熱湯共同浴場と名物円盤餃子！福島・鯖湖湯めぐりと極上福島牛名宿5選",
     desc: "45℃超えの熱気あふれる源泉共同浴場めぐり！パリパリ焼き立て名物円盤餃子、摺上川渓谷美ととろける福島牛すき焼き…",

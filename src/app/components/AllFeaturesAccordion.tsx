@@ -33,6 +33,41 @@ export default function AllFeaturesAccordion() {
             </h4>
             <div className="flex flex-wrap gap-1.5 pt-1">
               <Link
+                href="/winter-kanagawa-hakone-sengokuhara-luxury-hanare-roten-suite-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-slate-700 bg-white hover:bg-teal-700 hover:text-white rounded-lg border border-slate-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="箱根仙石原全室露天付き離れ＆白濁硫黄泉・極上相州牛宿5選"
+              >
+                箱根仙石原露天付き離れ＆相州牛宿
+              </Link>
+              <Link
+                href="/winter-shizuoka-izukogen-luxury-hanare-roten-zagyoso-kinmedai-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-slate-700 bg-white hover:bg-teal-700 hover:text-white rounded-lg border border-slate-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="伊豆高原全室離れ客室露天＆坐漁荘・地金目鯛姿煮名宿5選"
+              >
+                伊豆高原離れ露天＆坐漁荘金目鯛宿
+              </Link>
+              <Link
+                href="/winter-hyogo-arima-onsen-luxury-kinzan-gold-silver-kobe-beef-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-slate-700 bg-white hover:bg-teal-700 hover:text-white rounded-lg border border-slate-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="有馬温泉名門欽山＆中の坊瑞苑・金泉銀泉客室露天神戸牛宿5選"
+              >
+                有馬温泉欽山＆金泉客室露天神戸牛宿
+              </Link>
+              <Link
+                href="/winter-nagano-tobira-onsen-myojinkan-relais-chateaux-shinshu-french-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-slate-700 bg-white hover:bg-teal-700 hover:text-white rounded-lg border border-slate-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="扉温泉ルレ・エ・シャトー明神館＆雪見立ち湯フレンチ宿5選"
+              >
+                扉温泉明神館雪見立ち湯＆フレンチ宿
+              </Link>
+              <Link
+                href="/winter-kumamoto-kurokawa-shirakawa-luxury-takefue-gekkouju-akagyu-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-slate-700 bg-white hover:bg-teal-700 hover:text-white rounded-lg border border-slate-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="黒川温泉奥座敷・憧れの離れ露天「竹ふえ」「月洸樹」あか牛宿5選"
+              >
+                黒川奥座敷憧れ離れ露天＆あか牛宿
+              </Link>
+              <Link
                 href="/winter-fukushima-iizaka-onsen-sabakoyu-enban-gyoza-fukushimagyu-stay"
                 className="px-2.5 py-1 text-[11px] font-semibold text-slate-700 bg-white hover:bg-teal-700 hover:text-white rounded-lg border border-slate-200/80 shadow-2xs transition truncate max-w-[200px]"
                 title="飯坂温泉鯖湖湯熱湯めぐり＆名物円盤餃子・福島牛名宿5選"
