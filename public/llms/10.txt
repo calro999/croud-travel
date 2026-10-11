@@ -1,4 +1,14 @@
-# 群馬県の宿泊・観光記事（85件）
+# 群馬県の宿泊・観光記事（86件）
+
+## 万座温泉の標高1800m白銀乳白色秘湯と日本一の濃厚硫黄泉！満天の冬星空・パウダースノー雪見大露天風呂名宿ガイド
+- 記事: https://croud-travel.pages.dev/posts/theme_5_manza/
+- 全文Markdown: https://croud-travel.pages.dev/ai/theme_5_manza.md
+- 宿泊施設名: 万座温泉　万座亭
+- エリア: 万座・嬬恋
+- 参考価格: ¥5500〜
+- 評価: 4.39
+
+群馬県・万座温泉の11月・12月・1月冬特集！日本一の硫黄含有量を誇る標高1,800mの白銀乳白色秘湯、雪見大野天風呂と満天の星空、極上シルキースノー万座スキー場と上州牛会席名宿ガイド。
 
 ## 草津温泉の冬の湯畑ライトアップと西の河原雪見露天風呂！氷点下に立ち上る湯けむりと上州牛会席を味わうおすすめ名宿ガイド
 - 記事: https://croud-travel.pages.dev/posts/kusatsu-onsen-yubatake-winter-lightup-snow-bath-guide/

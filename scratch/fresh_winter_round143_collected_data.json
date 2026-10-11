@@ -1,0 +1,695 @@
+{
+  "theme_1_himi": {
+    "id": "theme_1_himi",
+    "slug": "himi-onsen-kanburi-amaharashi-tateyama-winter-guide",
+    "title": "氷見温泉郷の冬の王者「ひみ寒ぶり」と雨晴海岸の気嵐絶景！海越しに望む白銀立山連峰パノラマ・源泉かけ流し名宿ガイド",
+    "prefecture": "富山県",
+    "area": "氷見・高岡",
+    "rakutenKeyword": "氷見温泉",
+    "wikiSpots": [
+      "氷見温泉郷",
+      "雨晴海岸",
+      "立山連峰"
+    ],
+    "hotels": [
+      {
+        "hotelNo": 40912,
+        "hotelName": "民宿　與市郎",
+        "hotelKanaName": "よいちろう",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40912/40912.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40912/40912_hu.jpg",
+        "reviewCount": 36,
+        "reviewAverage": 2.64,
+        "hotelMinCharge": 5500,
+        "address1": "富山県",
+        "address2": "氷見市窪2557-2",
+        "access": "ＪＲ　氷見駅より徒歩１５分、車で５分／高岡北ＩＣより車で２０分",
+        "hotelSpecial": "【10(月連休空室わずか！】氷見でとれたてのキトキト魚料理を、おなかいっぱいお召し上がり下さい",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40912%2F40912.html"
+      },
+      {
+        "hotelNo": 141093,
+        "hotelName": "氷見温泉郷　民宿いけもり",
+        "hotelKanaName": "みんしゅくいけもり",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/141093/141093.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/141093/141093_kya.jpg",
+        "reviewCount": 84,
+        "reviewAverage": 4.09,
+        "hotelMinCharge": 8500,
+        "address1": "富山県",
+        "address2": "氷見市指崎1632　　　　　　　　　　　　　　　　　　　　　　　　　　",
+        "access": "氷見駅よりお車にて約２０分（６.０ｋｍ）/【車】北陸（東海北陸）自動車道⇒能越自動車道　氷見北ＩＣより５分",
+        "hotelSpecial": "魚処・氷見の山里に佇む、癒しの宿。露天風呂が自慢です☆【全室Wi-Fi完備！ 】",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F141093%2F141093.html"
+      },
+      {
+        "hotelNo": 108622,
+        "hotelName": "氷見温泉郷　民宿すがた",
+        "hotelKanaName": "ひみおんせんきょう　みんしゅくすがた",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108622/108622.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108622/108622_kya.jpg",
+        "reviewCount": 40,
+        "reviewAverage": 4.63,
+        "hotelMinCharge": 7200,
+        "address1": "富山県",
+        "address2": "氷見市阿尾653",
+        "access": "氷見駅よりお車で５分",
+        "hotelSpecial": "海鮮料理はキトキト！思う存分、美味や珍味を味わった後は、ゆっくりと湯につかって疲れを癒して頂けます。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108622%2F108622.html"
+      },
+      {
+        "hotelNo": 20589,
+        "hotelName": "氷見温泉郷　くつろぎの宿　うみあかり",
+        "hotelKanaName": "ひみおんせんきょう　くつろぎのやど　うみあかり",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20589/20589.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20589/20589_hon.jpg",
+        "reviewCount": 1890,
+        "reviewAverage": 4.4,
+        "hotelMinCharge": 19360,
+        "address1": "富山県",
+        "address2": "氷見市宇波10-1",
+        "access": "ＪＲ氷見駅よりお車で約１５分／灘浦ＩＣより約3分／小杉ＩＣより約５０分",
+        "hotelSpecial": "朝夕に輝く富山湾の海や雄大な立山連峰の自然の景色の中で氷見の海の幸・山の幸を堪能。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F20589%2F20589.html"
+      },
+      {
+        "hotelNo": 29954,
+        "hotelName": "氷見温泉郷　魚巡りの宿　永芳閣（ＢＢＨホテルグループ）",
+        "hotelKanaName": "ひみおんせんきょう　さかなめぐりのやど　えいほうかく(びーびーえっちほてるぐるーぷ)",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29954/29954.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29954/29954_rei.jpg",
+        "reviewCount": 1719,
+        "reviewAverage": 4.39,
+        "hotelMinCharge": 8200,
+        "address1": "富山県",
+        "address2": "氷見市阿尾3257",
+        "access": "【ＪＲ】氷見線　氷見駅から車で１０分（無料送迎あり）/【車】北陸（東海北陸）自動車道⇒能越自動車道　氷見北ＩＣより５分",
+        "hotelSpecial": "北陸の富山を代表する、お魚処氷見の旅館。評判の魚料理と絶景の露天。海一望の客室。貸切風呂無料プランも",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29954%2F29954.html"
+      }
+    ],
+    "wikiSpotsData": [
+      {
+        "spotName": "氷見温泉郷",
+        "wikiTitle": "氷見温泉郷",
+        "extract": "氷見温泉郷（ひみおんせんきょう）は、富山県氷見市（旧国越中国）内各地に所在する温泉の総称（温泉郷）。氷見市および氷見市観光協会では、能登半島国定公園　氷見温泉郷、他県の観光案内では、氷見温泉と呼ばれていることが多い。",
+        "image": null
+      },
+      {
+        "spotName": "雨晴海岸",
+        "wikiTitle": "雨晴海岸",
+        "extract": "雨晴海岸（あまはらしかいがん）は、富山県高岡市北部の海岸。付近は男岩や女岩をはじめとする小さな島や岩礁が多く、立山連峰を背景に望む景勝地である。能登半島国定公園に含まれ、日本の渚百選に選ばれている。富山県指定の「氷見海岸鳥獣保護区」の一部として鳥獣保護区にもなっている。",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Himi-line-amaharashi.jpg/3840px-Himi-line-amaharashi.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "spotName": "立山連峰",
+        "wikiTitle": "立山連峰",
+        "extract": "立山連峰（たてやまれんぽう）は、飛騨山脈（北アルプス）の北部、黒部川の西岸に連なる山域の群峰。東岸の後立山連峰と双対する雄大な群峰・連峰群である。中部山岳国立公園の一部となっている。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Japan_Chubu_mountains_relief_location_map.webp?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      },
+      {
+        "spotName": "富山湾",
+        "wikiTitle": "富山湾",
+        "extract": "富山湾（とやまわん）は、本州日本海側のほぼ中央部、富山県の北に位置する湾であり、日本海側の日本列島では最大の外洋性内湾である。旧名は「有磯海（ありそうみ）」である。",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/The_aerial_photograph_of_Toyama_-_flickr%283%29.jpg/3840px-The_aerial_photograph_of_Toyama_-_flickr%283%29.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      }
+    ]
+  },
+  "theme_2_tango": {
+    "id": "theme_2_tango",
+    "slug": "tango-taiza-crab-ine-funaya-amanohashidate-winter-guide",
+    "title": "丹後・間人温泉の幻の「間人ガニ」と雪化粧の伊根の舟屋！日本三景・雪の天橋立飛龍観と極上寒ブリしゃぶしゃぶ名宿ガイド",
+    "prefecture": "京都府",
+    "area": "丹後・天橋立",
+    "rakutenKeyword": "間人温泉",
+    "wikiSpots": [
+      "丹後半島",
+      "伊根の舟屋",
+      "天橋立"
+    ],
+    "hotels": [
+      {
+        "hotelNo": 67435,
+        "hotelName": "窓に広がる夕日と海　美食を奏で１５０有余年　間人温泉　炭平",
+        "hotelKanaName": "まどにひろがるゆうひとうみ　びしょくをかなで１５０ゆうよねん　たいざおんせん　すみへい",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67435/67435.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67435/67435_k.jpg",
+        "reviewCount": 486,
+        "reviewAverage": 4.6,
+        "hotelMinCharge": 32000,
+        "address1": "京都府",
+        "address2": "京丹後市丹後町間人3718",
+        "access": "京都丹後鉄道・網野駅から約20分無料送迎有（要予約）/　山陰近畿自動車道【京丹後大宮IC】から車で約30分",
+        "hotelSpecial": "ここは、いにしえの皇后が愛した桃源郷、悠久から変わらぬ情景の中で、美食を奏で百五十有余年",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67435%2F67435.html"
+      },
+      {
+        "hotelNo": 151200,
+        "hotelName": "間人温泉郷　海辺の宿　夕凪",
+        "hotelKanaName": "たいざおんせんきょううみべのやどゆうなぎ",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/151200/151200.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/151200/151200_kan1.jpg",
+        "reviewCount": 90,
+        "reviewAverage": 4.5,
+        "hotelMinCharge": 8800,
+        "address1": "京都府",
+        "address2": "京丹後市丹後町間人4260",
+        "access": "網野駅よりお車にて約１５分",
+        "hotelSpecial": "間人蟹の本場にある海辺の温泉宿。海水浴場へ徒歩3分、全室オーシャンビューで現役漁師の海の幸は絶品",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F151200%2F151200.html"
+      },
+      {
+        "hotelNo": 19220,
+        "hotelName": "間人温泉郷　宿居　三養荘",
+        "hotelKanaName": "さんようそう",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19220/19220.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19220/19220_heya.jpg",
+        "reviewCount": 148,
+        "reviewAverage": 3.43,
+        "hotelMinCharge": 6050,
+        "address1": "京都府",
+        "address2": "京丹後市丹後町間人2708",
+        "access": "京都丹後鉄道網野駅よりバスで約30分※ご送迎致します（要連絡）／【京丹後大宮IC】から車で約30分",
+        "hotelSpecial": "間人温泉郷の老舗料理宿。間人ガニや地物鮮魚を活かした京都料亭仕込みの料理と天然温泉が魅力です。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19220%2F19220.html"
+      },
+      {
+        "hotelNo": 8209,
+        "hotelName": "間人温泉郷　昭恋館　よ志のや",
+        "hotelKanaName": "しょうれんかん　よしのや",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8209/8209.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8209/8209_room.jpg",
+        "reviewCount": 247,
+        "reviewAverage": 4.61,
+        "hotelMinCharge": 10800,
+        "address1": "京都府",
+        "address2": "京丹後市丹後町間人1297-3",
+        "access": "【京丹後大宮IC】から車で約30分／京都丹後鉄道・網野駅から約20分無料送迎有（前日までの要予約）",
+        "hotelSpecial": "【個室食事処や貸切風呂】漁師町の高台に佇む料理旅館で、「現代の名工」を賜った絶品蟹料理を堪能！",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8209%2F8209.html"
+      },
+      {
+        "hotelNo": 67483,
+        "hotelName": "心をほどく体験と心が躍る蟹と魚　海辺のうまし宿　とト屋",
+        "hotelKanaName": "うましやど　ととや",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67483/67483.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67483/67483_h.jpg",
+        "reviewCount": 181,
+        "reviewAverage": 3.75,
+        "hotelMinCharge": 7900,
+        "address1": "京都府",
+        "address2": "京丹後市丹後町間人566",
+        "access": "京都丹後鉄道・網野駅から約20分無料送迎有（要予約）/  山陰近畿自動車道【京丹後大宮IC】から車で約30分",
+        "hotelSpecial": "活間人ガニ・活地ガニが食べれる自慢の宿。海・山・里を楽しむ！丹後の大自然に佇む小宿◎",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67483%2F67483.html"
+      },
+      {
+        "hotelNo": 178547,
+        "hotelName": "１日６組限定　ー独占、という名の贅沢ー　炭平別邸　季ト時",
+        "hotelKanaName": "どくせん　というなのぜいたく　すみへいべってい　ときととき",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/178547/178547.jpg",
+        "roomImageUrl": "",
+        "reviewCount": 499,
+        "reviewAverage": 4.88,
+        "hotelMinCharge": 35600,
+        "address1": "兵庫県",
+        "address2": "豊岡市城崎町湯島797",
+        "access": "ＪＲ　城崎温泉駅より徒歩にて約５分",
+        "hotelSpecial": "ー眼下に広がる城崎温泉情緒は必見ー城崎温泉ピュア源泉かけ流し風呂、こころ盛り上がる要素が満載！",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F178547%2F178547.html"
+      }
+    ],
+    "wikiSpotsData": [
+      {
+        "spotName": "丹後半島",
+        "wikiTitle": "丹後半島",
+        "extract": "丹後半島（たんごはんとう）は、京都府北部にある半島。日本海に向かって北東方向に突き出ている。与謝半島（よさはんとう）、奥丹後半島（おくたんごはんとう）という別名があり、由良半島（ゆらはんとう）という旧称がある。海岸部など一部は丹後天橋立大江山国定公園に含まれる。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Tango_Peninsula_Relief_Map%2C_SRTM.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      },
+      {
+        "spotName": "伊根の舟屋",
+        "wikiTitle": "伊根の舟屋",
+        "extract": "伊根の舟屋（いねのふなや）は、京都府与謝郡伊根町の伊根湾（伊根浦）沿いの海面すれすれに立ち並ぶ船倉兼民家で、1階に船の収納庫、上階に住居を備えた、この地区独特の伝統的建造物である。この景観に人口2千人ほどの町に年間30万人超の観光客が訪れている。",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Funaya_in_Ine_Town%2C_Yosa_District%2C_Kyoto_Prefecture_003.jpg/3840px-Funaya_in_Ine_Town%2C_Yosa_District%2C_Kyoto_Prefecture_003.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "spotName": "天橋立",
+        "wikiTitle": "天橋立",
+        "extract": "天橋立（あまのはしだて）は、京都府宮津市にある、宮津湾と阿蘇海を南北に隔てる全長3.6キロメートルの湾口砂州。松島、厳島と並ぶ日本三景の一つであり、日本遺産「300年を紡ぐ絹が織り成す丹後ちりめん回廊」の構成文化財の一つに指定されている。2024年（令和6年）の観光入込客数は300万5700人と、京都府の自治体別では京都市、宇治市、京丹波町、亀岡市に次いで第5位である。",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Amanohashidate_view_from_Kasamatsu_Park01s3s4410.jpg/3840px-Amanohashidate_view_from_Kasamatsu_Park01s3s4410.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      }
+    ]
+  },
+  "theme_3_awajishima": {
+    "id": "theme_3_awajishima",
+    "slug": "awajishima-3year-torafugu-suisenkyo-uzushio-winter-guide",
+    "title": "淡路島温泉の冬の極上味覚「淡路島3年とらふぐ」と灘黒岩水仙郷！鳴門海峡の冬渦潮とうずしお温泉美肌の湯・絶景名宿ガイド",
+    "prefecture": "兵庫県",
+    "area": "淡路島・南あわじ",
+    "rakutenKeyword": "南淡路 温泉",
+    "wikiSpots": [
+      "淡路島",
+      "鳴門海峡",
+      "灘黒岩水仙郷"
+    ],
+    "hotels": [
+      {
+        "hotelNo": 15819,
+        "hotelName": "休暇村　南淡路　＜淡路島＞",
+        "hotelKanaName": "きゅうかむら　みなみあわじ",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15819/15819.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15819/15819_nai.jpg",
+        "reviewCount": 875,
+        "reviewAverage": 4.47,
+        "hotelMinCharge": 12500,
+        "address1": "兵庫県",
+        "address2": "南あわじ市福良丙870-1",
+        "access": "ＪＲ三宮駅より高速バス利用の場合、淡路交通バス・神姫バスにて「福良」下車、送迎１０分（無料シャトルバスあり）",
+        "hotelSpecial": "７月１２日　ビュッフェリニューアルOPEN　　新しいレストランで開催",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15819%2F15819.html"
+      },
+      {
+        "hotelNo": 8038,
+        "hotelName": "淡路島うずしお温泉　うめ丸",
+        "hotelKanaName": "うずしおおんせん　うめまる",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8038/8038.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8038/8038_bath.jpg",
+        "reviewCount": 1097,
+        "reviewAverage": 4.52,
+        "hotelMinCharge": 11880,
+        "address1": "兵庫県",
+        "address2": "南あわじ市阿那賀1137-9",
+        "access": "電車：ＪＲ三ノ宮駅乗換、福良行高速バス『陸の港西淡（70分）』下車（無料送迎10分※要予約）、車：淡路島南IC（車5分）",
+        "hotelSpecial": "高台から見渡す鳴門海峡の大絶景を見ながら、飛び跳ねる程の新鮮な【鯛の活造り料理】が味わえる宿。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8038%2F8038.html"
+      },
+      {
+        "hotelNo": 67828,
+        "hotelName": "サンセットビューホテル　けひの海～うずしお温泉～　＜淡路島＞",
+        "hotelKanaName": "さんせっとびゅーほてる　けひのうみ　うずしおおんせん",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67828/67828.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67828/67828_syo.jpg",
+        "reviewCount": 763,
+        "reviewAverage": 4.62,
+        "hotelMinCharge": 11960,
+        "address1": "兵庫県",
+        "address2": "南あわじ市松帆古津路970-76",
+        "access": "バス：各線「陸の港西淡」「西淡志知」下車、無料送迎車（要予約）　車：神戸淡路鳴門自動車道、西淡三原ICより５～８分",
+        "hotelSpecial": "夕日百選に選ばれる慶野松原に臨む海辺のリゾートホテル。夕食は淡路島の素材を活かした自慢の和食会席。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67828%2F67828.html"
+      },
+      {
+        "hotelNo": 52574,
+        "hotelName": "南あわじ温泉郷　うずしお温泉　淡路島海上ホテル",
+        "hotelKanaName": "みなみあわじおんせんきょう　うずしおおんせん　あわじしまかいじょうほてる",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/52574/52574.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/52574/52574_syo.jpg",
+        "reviewCount": 916,
+        "reviewAverage": 4.18,
+        "hotelMinCharge": 7700,
+        "address1": "兵庫県",
+        "address2": "南あわじ市福良甲21-1",
+        "access": "明石海峡大橋海峡　垂水ＪＣＴより車で約１時間（６７ｋｍ）",
+        "hotelSpecial": "淡路島・福良湾が目の前！全室で夕日と海が見え、旬食材を取り入れた会席料理と温泉と当館専用釣り桟橋！",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52574%2F52574.html"
+      },
+      {
+        "hotelNo": 30115,
+        "hotelName": "うずしお温泉　活魚料理　民宿　観潮荘　＜淡路島＞",
+        "hotelKanaName": "うずしおおんせん　かつぎょりょうり　みんしゅく　かんちょうそう",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30115/30115.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30115/30115_s1.jpg",
+        "reviewCount": 341,
+        "reviewAverage": 4.33,
+        "hotelMinCharge": 14300,
+        "address1": "兵庫県",
+        "address2": "南あわじ市阿那賀906-2",
+        "access": "淡路島南インターより車にて２分・徒歩１３分・淡路島南インターバス停送迎有り（事前連絡お願いします。）",
+        "hotelSpecial": "新鮮な海の幸がいっぱい。活造り、ほうらく焼きなど、最高の味覚が楽しめます。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30115%2F30115.html"
+      },
+      {
+        "hotelNo": 30000,
+        "hotelName": "うずしお温泉　坂口荘　＜淡路島＞",
+        "hotelKanaName": "さかぐちそう",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30000/30000.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30000/30000_s2.jpg",
+        "reviewCount": 292,
+        "reviewAverage": 4.75,
+        "hotelMinCharge": 12000,
+        "address1": "兵庫県",
+        "address2": "南あわじ市阿那賀1186",
+        "access": "水口バス停（西淡町ルートバス　せいたくんバス）／神戸三ノ宮から高速バス陸の港せいだん下車　バスで１５分",
+        "hotelSpecial": "★お料理クチコミ５つ星★新鮮なお魚とうずしお温泉を満喫！！海も近く釣りにも便利♪釣り船予約可能◎",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30000%2F30000.html"
+      },
+      {
+        "hotelNo": 19743,
+        "hotelName": "淡路うずしお温泉　民宿　しら波荘　＜淡路島＞",
+        "hotelKanaName": "あわじ　うずしおおんせん　みんしゅく　しらなみそう",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19743/19743.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19743/19743_h.jpg",
+        "reviewCount": 88,
+        "reviewAverage": 4.33,
+        "hotelMinCharge": 0,
+        "address1": "兵庫県",
+        "address2": "南あわじ市阿那賀伊毘851",
+        "access": "高速バス陸の港西淡／淡路島南ＩＣよりお車で５分",
+        "hotelSpecial": "美人の湯うずしお温泉と、夏はハモ・冬はふぐ等四季折々の活魚料理でおもてなし致します。釣船手配します。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19743%2F19743.html"
+      }
+    ],
+    "wikiSpotsData": [
+      {
+        "spotName": "淡路島",
+        "wikiTitle": "淡路島",
+        "extract": "淡路島（あわじしま）は、瀬戸内海東部に位置する島。日本国内では島としては主要4島を含め11番目に面積が大きく、瀬戸内海では最大面積の島で、人口は約12万人。令制国の淡路国の主要国域を占める。近畿地方の兵庫県に属し、北から淡路市・中心都市の洲本市・南あわじ市の3市で区分される。日本神話の国産みの島としても知られる。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Awaji-island_1.png?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      },
+      {
+        "spotName": "鳴門海峡",
+        "wikiTitle": "鳴門海峡",
+        "extract": "鳴門海峡 は、日本の四国の北東端にある大毛島孫崎（徳島県鳴門市）と淡路島門崎（兵庫県南あわじ市）との間に位置する海峡。瀬戸内海の播磨灘と太平洋の紀伊水道を結ぶ海峡である。「大鳴門（おおなると）」ともいう。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Japan_Osaka_Bay_relief_map.webp?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      },
+      {
+        "spotName": "灘黒岩水仙郷",
+        "wikiTitle": "灘黒岩水仙郷",
+        "extract": "灘黒岩水仙郷（なだくろいわすいせんきょう）は、兵庫県南あわじ市（旧南淡町）灘黒岩に位置するスイセンの群生地である。日本三大群生地の一つ。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Nadakuroiwasuisenkyou.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      }
+    ]
+  },
+  "theme_4_huistenbosch": {
+    "id": "theme_4_huistenbosch",
+    "slug": "huistenbosch-winter-illumination-unzen-onsen-nagasaki-guide",
+    "title": "ハウステンボス「白銀の世界・光の街のクリスマス」と雲仙温泉！1300万球冬イルミネーションと湯煙地獄・霧氷名宿ガイド",
+    "prefecture": "長崎県",
+    "area": "佐世保・雲仙",
+    "rakutenKeyword": "ハウステンボス",
+    "wikiSpots": [
+      "ハウステンボス",
+      "雲仙温泉",
+      "雲仙岳"
+    ],
+    "hotels": [
+      {
+        "hotelNo": 9057,
+        "hotelName": "ホテルオークラＪＲハウステンボス",
+        "hotelKanaName": "ほてるおーくらじぇいあーるはうすてんぼす",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9057/9057.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9057/9057_twn.jpg",
+        "reviewCount": 3277,
+        "reviewAverage": 4.59,
+        "hotelMinCharge": 5750,
+        "address1": "長崎県",
+        "address2": "佐世保市ハウステンボス町10",
+        "access": "西九州自動車道　佐世保大塔ICより車で15分/長崎空港よりバスで70分／JR博多駅より特急ハウステンボス号で110分",
+        "hotelSpecial": "スタッフのおもてなしに心和らぎ、天然温泉が疲れを癒す魅力あるリゾートホテルです。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9057%2F9057.html"
+      },
+      {
+        "hotelNo": 9159,
+        "hotelName": "ホテルヨーロッパ　ハウステンボス",
+        "hotelKanaName": "ほてるよーろっぱ　はうすてんぼす",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9159/9159.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9159/9159_twn.jpg",
+        "reviewCount": 2519,
+        "reviewAverage": 4.62,
+        "hotelMinCharge": 17000,
+        "address1": "長崎県",
+        "address2": "佐世保市ハウステンボス町7-7",
+        "access": "博多駅→特急約100分／長崎駅→快速約90分／長崎空港→高速船約45分・バス約60分",
+        "hotelSpecial": "ハウステンボス直営／ハウステンボス最上位ホテル。クラシカルな世界観と専用クルーズで贅沢なひと時を。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9159%2F9159.html"
+      },
+      {
+        "hotelNo": 9157,
+        "hotelName": "ホテルアムステルダム　ハウステンボス",
+        "hotelKanaName": "ほてるあむすてるだむ　はうすてんぼす",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9157/9157.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9157/9157_twn.jpg",
+        "reviewCount": 2558,
+        "reviewAverage": 4.59,
+        "hotelMinCharge": 16200,
+        "address1": "長崎県",
+        "address2": "佐世保市ハウステンボス町7-7",
+        "access": "博多駅→特急約100分／長崎駅→快速約90分／長崎空港→高速船約45分・バス約60分",
+        "hotelSpecial": "ハウステンボス直営／ハウステンボステーマパーク内に位置する唯一のホテルで、抜群の立地と癒しの滞在を。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9157%2F9157.html"
+      },
+      {
+        "hotelNo": 9156,
+        "hotelName": "フォレストヴィラ　ハウステンボス",
+        "hotelKanaName": "ふぉれすとう゛ぃら　はうすてんぼす",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9156/9156.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9156/9156_twr.jpg",
+        "reviewCount": 1117,
+        "reviewAverage": 4.42,
+        "hotelMinCharge": 8500,
+        "address1": "長崎県",
+        "address2": "佐世保市ハウステンボス町7-7　",
+        "access": "博多駅→特急約100分／長崎駅→快速約90分／長崎空港→高速船約45分・バス約60分",
+        "hotelSpecial": "ハウステンボス直営／別荘感覚のメゾネットコテージで、家族や仲間と自由に賑やかなハウステンボス滞在を。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9156%2F9156.html"
+      },
+      {
+        "hotelNo": 1793,
+        "hotelName": "ホテル日航ハウステンボス",
+        "hotelKanaName": "にっこう　はうすてんぼす",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1793/1793.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1793/1793_twn.jpg",
+        "reviewCount": 3142,
+        "reviewAverage": 4.45,
+        "hotelMinCharge": 8000,
+        "address1": "長崎県",
+        "address2": "佐世保市ハウステンボス町6番地",
+        "access": "●ＪＲハウステンボス駅から徒歩で10分●長崎市内から車で９０分●佐世保駅より車で30分",
+        "hotelSpecial": "ハウステンボスまでは徒歩３分♪花と緑に囲まれたリゾートホテル",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1793%2F1793.html"
+      },
+      {
+        "hotelNo": 130617,
+        "hotelName": "ホテルデンハーグ　ハウステンボス",
+        "hotelKanaName": "ほてるでんはーぐ　はうすてんぼす",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/130617/130617.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/130617/130617_kan.jpg",
+        "reviewCount": 3134,
+        "reviewAverage": 4.32,
+        "hotelMinCharge": 11400,
+        "address1": "長崎県",
+        "address2": "佐世保市ハウステンボス町7-9",
+        "access": "博多駅→特急約100分／長崎駅→快速約90分／長崎空港→高速船約45分・バス約60分",
+        "hotelSpecial": "ハウステンボス直営／静かな海辺に建つ、オールインクルーシブホテル。添い寝のお子様はお食事無料！",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F130617%2F130617.html"
+      }
+    ],
+    "wikiSpotsData": [
+      {
+        "spotName": "ハウステンボス",
+        "wikiTitle": "ハウステンボス",
+        "extract": "ハウステンボス は、長崎県佐世保市にあるテーマパーク。略称は「HTB」、テンボス。オランダの街並みを再現し、ヨーロッパ全体をテーマとしている。東京ディズニーリゾートの1.5倍の敷地面積で、単独テーマパークとしては日本最大。ドラマ・映画・CMなどのロケ地としても使われている。佐世保市の町にもなっており、所在地の住所は「佐世保市ハウステンボス町（まち）1-1」。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Huis_Ten_Bosch_-_01.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      },
+      {
+        "spotName": "雲仙温泉",
+        "wikiTitle": "雲仙温泉",
+        "extract": "雲仙温泉（うんぜんおんせん）は、長崎県雲仙市小浜町雲仙（旧国肥前国）にある、キリシタン殉教悲史の舞台で世界的に有名な温泉。日本初の国立公園（雲仙天草国立公園）に指定された温泉保養地である。",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/140322_Unzen_Onsen_Nagasaki_pref_Japan01s3.jpg/3840px-140322_Unzen_Onsen_Nagasaki_pref_Japan01s3.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "spotName": "雲仙岳",
+        "wikiTitle": "雲仙岳",
+        "extract": "雲仙岳 は、長崎県の島原半島中央部にある20以上の山々からなる火山群の総称である。火山学上は「雲仙火山」といい、広義では東の眉山から西の猿葉山までの山々を含む。複雑な山容から、三岳五峰、八葉、二十四峰、三十六峰など数字を用いた様々な呼称があった。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Fugendake_02_Pyroplastic_flow_area.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      }
+    ],
+    "unzenHotels": [
+      {
+        "hotelNo": 6194,
+        "hotelName": "雲仙温泉　民芸モダンの宿　雲仙福田屋",
+        "hotelKanaName": "うんぜんおんせん　みんげいもだんのやど　うんぜんふくだや",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6194/6194.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6194/6194_ky.jpg",
+        "reviewCount": 891,
+        "reviewAverage": 4.53,
+        "hotelMinCharge": 13200,
+        "address1": "長崎県",
+        "address2": "雲仙市小浜町雲仙380-2",
+        "access": "長崎自動車道 諫早ＩＣ及びＪＲ諌早駅より車で５５分",
+        "hotelSpecial": "2023年客室リニューアル！四季の恵みの会席料理、厳選かけ流しの絶景露天風呂が自慢の福を結ぶ癒しの宿",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F6194%2F6194.html"
+      },
+      {
+        "hotelNo": 41803,
+        "hotelName": "雲仙温泉・源泉かけ流し＆おしどりの池を望む美食の宿　東園",
+        "hotelKanaName": "うんぜんおんせん　あずまえん",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/41803/41803.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/41803/41803_kan1.jpg",
+        "reviewCount": 558,
+        "reviewAverage": 4.48,
+        "hotelMinCharge": 18343,
+        "address1": "長崎県",
+        "address2": "雲仙市小浜町雲仙181",
+        "access": "諫早駅より路線バスで８０分",
+        "hotelSpecial": "和の贅を尽くした客室からの眺めが素晴らしい。湯処「莉園」は池を一望することが出来るかけ流し温泉です。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F41803%2F41803.html"
+      },
+      {
+        "hotelNo": 31749,
+        "hotelName": "雲仙温泉　ゆやど　雲仙新湯",
+        "hotelKanaName": "うんぜんおんせん　ゆやど　うんぜんしんゆ",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31749/31749.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31749/31749_w.jpg",
+        "reviewCount": 725,
+        "reviewAverage": 4.53,
+        "hotelMinCharge": 10048,
+        "address1": "長崎県",
+        "address2": "雲仙市小浜町雲仙320",
+        "access": "ＪＲ諫早駅より車で60分、長崎空港から車で90分",
+        "hotelSpecial": "【美肌の湯】 は、どこよりも濃く。 “最上のご褒美” をお届け。個室食プラン、露天風呂付きプランあり",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31749%2F31749.html"
+      },
+      {
+        "hotelNo": 31933,
+        "hotelName": "雲仙温泉　雲仙スカイホテル",
+        "hotelKanaName": "うんぜんおんせん　うんぜん　すかいほてる",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31933/31933.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31933/31933_lo.jpg",
+        "reviewCount": 398,
+        "reviewAverage": 3.79,
+        "hotelMinCharge": 17000,
+        "address1": "長崎県",
+        "address2": "雲仙市小浜町雲仙323-1",
+        "access": "島鉄バス　雲仙営業所前／長崎自動車道　諫早インターより車にて６０分／島原港より車にて４０分",
+        "hotelSpecial": "雲仙国立公園温泉街の中心に位置する温泉旅館。雲仙地蔵入口徒歩１分、源泉掛け流し大浴場露天風呂が自慢",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31933%2F31933.html"
+      }
+    ]
+  },
+  "theme_5_manza": {
+    "id": "theme_5_manza",
+    "slug": "manza-onsen-milky-sulfur-snow-roten-winter-guide",
+    "title": "万座温泉の標高1800m白銀乳白色秘湯と日本一の濃厚硫黄泉！満天の冬星空・パウダースノー雪見大露天風呂名宿ガイド",
+    "prefecture": "群馬県",
+    "area": "万座・嬬恋",
+    "rakutenKeyword": "万座温泉",
+    "wikiSpots": [
+      "万座温泉",
+      "上信越高原国立公園",
+      "浅間山"
+    ],
+    "hotels": [
+      {
+        "hotelNo": 8658,
+        "hotelName": "万座温泉　万座亭",
+        "hotelKanaName": "まんざおんせん　まんざてい",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8658/8658.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8658/8658_ha.jpg",
+        "reviewCount": 958,
+        "reviewAverage": 4.39,
+        "hotelMinCharge": 5500,
+        "address1": "群馬県",
+        "address2": "吾妻郡嬬恋村万座温泉内",
+        "access": "関越自動車道渋川伊香保ICより120分。国道292号線・県道牧干俣線は冬期通行止。",
+        "hotelSpecial": "大人気★ログ風の露天風呂＆乳白色の効能豊かな名湯で心と体の保養！貸切風呂も人気♪",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8658%2F8658.html"
+      },
+      {
+        "hotelNo": 67057,
+        "hotelName": "万座温泉　万座高原ホテル",
+        "hotelKanaName": "まんざおんせん　まんざこうげん",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67057/67057.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67057/67057_kya.jpg",
+        "reviewCount": 2103,
+        "reviewAverage": 4.05,
+        "hotelMinCharge": 2793,
+        "address1": "群馬県",
+        "address2": "吾妻郡嬬恋村万座温泉",
+        "access": "ＪＲ吾妻線万座鹿沢口駅からバスで４０分、タクシーで３５分。／軽井沢ＩＣから鬼押、万座ハイウェー（有料道路）経由で６４ｋｍ",
+        "hotelSpecial": "4種の源泉、8つの浴槽からなる露天風呂をお楽しみください。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67057%2F67057.html"
+      },
+      {
+        "hotelNo": 3033,
+        "hotelName": "万座温泉　日進舘",
+        "hotelKanaName": "まんざおんせん　にっしんかん",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/3033/3033.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/3033/3033_rm1.jpg",
+        "reviewCount": 2561,
+        "reviewAverage": 4.22,
+        "hotelMinCharge": 8240,
+        "address1": "群馬県",
+        "address2": "吾妻郡嬬恋村大字干俣万座温泉２４０１",
+        "access": "上信越自動車道碓氷軽井沢ＩＣより車で９０分。",
+        "hotelSpecial": "標高1800ｍ万座温泉の老舗宿『日進舘』＜エントリーで最大ポイント15倍！得旅キャンペーン実施中！＞",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F3033%2F3033.html"
+      },
+      {
+        "hotelNo": 172064,
+        "hotelName": "万座温泉　湯の花旅館",
+        "hotelKanaName": "まんざおんせん　ゆのはなりょかん",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/172064/172064.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/172064/172064_kan1.jpg",
+        "reviewCount": 76,
+        "reviewAverage": 4.13,
+        "hotelMinCharge": 7000,
+        "address1": "群馬県",
+        "address2": "吾妻郡嬬恋村干俣2401",
+        "access": "JR吾妻線万座・鹿沢口駅より西武高原バスで約40分",
+        "hotelSpecial": "湯治宿！日本で唯一のサルノコシカケ風呂で身も心も癒し体験",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172064%2F172064.html"
+      },
+      {
+        "hotelNo": 9154,
+        "hotelName": "万座温泉　万座ホテルジュラク",
+        "hotelKanaName": "まんざほてるじゅらく",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9154/9154.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9154/9154_lob.jpg",
+        "reviewCount": 2854,
+        "reviewAverage": 4.42,
+        "hotelMinCharge": 16500,
+        "address1": "群馬県",
+        "address2": "吾妻郡嬬恋村万座温泉",
+        "access": "「車」渋川より約76km（約120分）軽井沢より約64km（約90分）「電車バス」万座鹿沢口駅～路線バス（40分）",
+        "hotelSpecial": "乳白色の露天風呂「空噴（からぶき）」を望む圧倒的な開放感！オールインクルーシブで優雅な温泉ステイ",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9154%2F9154.html"
+      },
+      {
+        "hotelNo": 30739,
+        "hotelName": "万座温泉　万座プリンスホテル",
+        "hotelKanaName": "まんざおんせん　まんざ　ぷりんすほてる",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30739/30739.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30739/30739_t1.jpg",
+        "reviewCount": 2214,
+        "reviewAverage": 3.79,
+        "hotelMinCharge": 3893,
+        "address1": "群馬県",
+        "address2": "吾妻郡嬬恋村万座温泉",
+        "access": "北陸新幹線「軽井沢駅南口」より送迎バスあり（約９０分：要事前予約）／上信越自動車道「碓氷軽井沢IC」より約６４km",
+        "hotelSpecial": "極上にごり湯と、標高1800ｍの絶景。地元食材を取り入れたバラエティ豊かなブッフェを堪能。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30739%2F30739.html"
+      }
+    ],
+    "wikiSpotsData": [
+      {
+        "spotName": "万座温泉",
+        "wikiTitle": "万座温泉",
+        "extract": "万座温泉（まんざおんせん）は、群馬県吾妻郡嬬恋村干俣（ほしまた）（旧国上野国）にある上信越高原国立公園内、標高1,800mに位置する温泉。岐阜県下呂市の濁河温泉と並び通年自家用車で辿り着ける日本最高所の温泉である。近くには湯釜・涸釜・水釜の3つの爆裂火口湖がある。",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Manza_Onsen_Tsumagoi_Gunma01bs4272.jpg/3840px-Manza_Onsen_Tsumagoi_Gunma01bs4272.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "spotName": "上信越高原国立公園",
+        "wikiTitle": "上信越高原国立公園",
+        "extract": "上信越高原国立公園（じょうしんえつこうげんこくりつこうえん）は、日本国の群馬県（上野国）、長野県（信濃国）及び新潟県（越後国）の3県の境界にまたがる国立公園である。上信越国立公園とも言う。",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Kusatsu-Shiranesan03s5s4272.jpg/3840px-Kusatsu-Shiranesan03s5s4272.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "spotName": "浅間山",
+        "wikiTitle": "浅間山",
+        "extract": "浅間山（あさまやま）は、長野県北佐久郡軽井沢町及び御代田町と群馬県吾妻郡嬬恋村との境にある、標高2,568メートルの成層火山。山体は安山岩質、円錐形でカルデラも形成されており、活発な活火山として知られる。",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/AsamaYamaS.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      }
+    ]
+  }
+}

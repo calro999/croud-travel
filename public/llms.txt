@@ -309,6 +309,11 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [淡路島温泉の冬の極上味覚「淡路島3年とらふぐ」と灘黒岩水仙郷！鳴門海峡の冬渦潮とうずしお温泉美肌の湯・絶景名宿ガイド](https://croud-travel.pages.dev/posts/theme_3_awajishima): 休暇村　南淡路　＜淡路島＞（兵庫県）
+- [氷見温泉郷の冬の王者「ひみ寒ぶり」と雨晴海岸の気嵐絶景！海越しに望む白銀立山連峰パノラマ・源泉かけ流し名宿ガイド](https://croud-travel.pages.dev/posts/theme_1_himi): 氷見温泉郷　くつろぎの宿　うみあかり（富山県）
+- [ハウステンボス「白銀の世界・光の街のクリスマス」と雲仙温泉！1300万球冬イルミネーションと湯煙地獄・霧氷名宿ガイド](https://croud-travel.pages.dev/posts/theme_4_huistenbosch): ホテルオークラＪＲハウステンボス（長崎県）
+- [万座温泉の標高1800m白銀乳白色秘湯と日本一の濃厚硫黄泉！満天の冬星空・パウダースノー雪見大露天風呂名宿ガイド](https://croud-travel.pages.dev/posts/theme_5_manza): 万座温泉　万座亭（群馬県）
+- [丹後・間人温泉の幻の「間人ガニ」と雪化粧の伊根の舟屋！日本三景・雪の天橋立飛龍観と極上寒ブリしゃぶしゃぶ名宿ガイド](https://croud-travel.pages.dev/posts/theme_2_tango): 窓に広がる夕日と海　美食を奏で１５０有余年　間人温泉　炭平（京都府）
 - [【愛媛】極上源泉と進化系サウナを堪能！たかのこのホテル滞在記](https://croud-travel.pages.dev/posts/140784): たかのこのホテル（愛媛県）
 - [大内宿の白銀茅葺き雪まつりと会津若松・東山温泉！鶴ヶ城の雪化粧と名物ねぎそば・極上会津馬刺しを味わう名宿ガイド](https://croud-travel.pages.dev/posts/aizu-higashiyama-onsen-ouchijuku-snow-tsurugajo-winter-guide): 会津東山温泉　月のあかり（福島県）
 - [阿寒湖の奇跡フロストフラワーと氷上フェスティバル！アイヌコタン雪灯りと源泉かけ流し雪見温泉・道東美味宿ガイド](https://croud-travel.pages.dev/posts/akan-lake-frost-flower-ice-festival-ainu-kotan-winter-guide): 阿寒湖温泉　あかん鶴雅別荘鄙の座（北海道）
@@ -354,8 +359,3 @@
 - [沖縄：女子旅で巡る神秘の聖地と絶景映えスポット！至福の癒やし宿3選](https://croud-travel.pages.dev/posts/78094): ロワジールスパタワー那覇（沖縄県）
 - [大分県：別府鉄輪温泉 やすらぎの宿 由布宿泊ガイド！地獄めぐり徒歩圏の鉄輪温泉♪露天・内・アクセス＆魅力ルポ](https://croud-travel.pages.dev/posts/72895): 別府鉄輪温泉　やすらぎの宿　由布（大分県）
 - [長崎：洋館と和の情緒を巡るレトロ旅！歴史薫る街並み散策とおすすめ厳選宿3選](https://croud-travel.pages.dev/posts/184764): アパホテル〈長崎出島〉（長崎県）
-- [宮古島：アラマンダスプレンディド宿泊記！シギラの新星で叶える極上の休日](https://croud-travel.pages.dev/posts/197781): アラマンダスプレンディド＜宮古島＞（沖縄県）
-- [栃木：歴史とレトロな街並み散策を満喫！名湯に癒やされる厳選宿とおすすめ旅](https://croud-travel.pages.dev/posts/2984): 鬼怒川温泉　鬼怒川パークホテルズ（栃木県）
-- [千葉：美味しい温泉夢みさき宿泊ルポ！食いしん坊を唸らせる美食と名湯の休日](https://croud-travel.pages.dev/posts/2955): 美味しい温泉　夢みさき（千葉県）
-- [徳島県：歴史とレトロな街並み散策！ノスタルジーを巡る大人の休日と厳選宿3選](https://croud-travel.pages.dev/posts/172821): 天然温泉　光まちの湯　スーパーホテル阿南・富岡（徳島県）
-- [徳島：ホテルクラウンヒルズ鳴門宿泊ルポ！高速バス至近の利便性と充実のバイキング](https://croud-travel.pages.dev/posts/128426): ホテルクラウンヒルズ鳴門　高速鳴門前（ＢＢＨホテルグループ）（徳島県）
