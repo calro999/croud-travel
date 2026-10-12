@@ -89,10 +89,31 @@ export default async function FeaturesPage() {
           </p>
         </div>
         <Link
-          href="/campaigns"
+          href="/campaigns/autumn-gourmet-travel"
           className="w-full md:w-auto px-8 py-4 bg-white text-amber-900 hover:bg-amber-50 font-black text-xs md:text-sm rounded-2xl shadow-md transition text-center whitespace-nowrap"
         >
-          秋の味覚 35選まとめを見る →
+          秋の味覚 特集まとめを見る →
+        </Link>
+      </section>
+
+      {/* ❄️ 冬の絶景・美食温泉宿 特設まとめバナー */}
+      <section className="bg-gradient-to-r from-slate-900 via-sky-950 to-indigo-950 rounded-3xl p-6 md:p-8 text-white shadow-lg flex flex-col md:flex-row items-center justify-between gap-6 border border-sky-500/20">
+        <div className="space-y-2">
+          <span className="inline-block text-[10px] font-black tracking-wider bg-sky-500/20 text-sky-200 border border-sky-400/30 px-3 py-0.5 rounded-full uppercase">
+            冬の超特別企画 ❄️
+          </span>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif">
+            【2026-2027年最新】全国の冬の絶景温泉＆冬の美食満喫特集 500選 まとめ
+          </h2>
+          <p className="text-sky-100 text-xs md:text-sm max-w-2xl leading-relaxed">
+            松葉ガニ・越前ガニ、下関とらふぐ、雪見露天風呂、新春開運初詣、きらめく冬イルミネーションまで！全国エリア別の厳選特集記事500選を一挙公開。
+          </p>
+        </div>
+        <Link
+          href="/winter-travel-special"
+          className="w-full md:w-auto px-8 py-4 bg-sky-400 text-sky-950 hover:bg-sky-300 font-black text-xs md:text-sm rounded-2xl shadow-md transition text-center whitespace-nowrap"
+        >
+          冬の厳選特集まとめを見る →
         </Link>
       </section>
 
