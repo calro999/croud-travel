@@ -309,6 +309,7 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【福岡】二日市グリーンホテル宿泊ルポ！JR駅100mの好立地と観光拠点としての魅力](https://croud-travel.pages.dev/posts/54960): 二日市グリーンホテル（福岡県）
 - [淡路島温泉の冬の極上味覚「淡路島3年とらふぐ」と灘黒岩水仙郷！鳴門海峡の冬渦潮とうずしお温泉美肌の湯・絶景名宿ガイド](https://croud-travel.pages.dev/posts/awajishima-3year-torafugu-suisenkyo-uzushio-winter-guide): 休暇村　南淡路　＜淡路島＞（兵庫県）
 - [氷見温泉郷の冬の王者「ひみ寒ぶり」と雨晴海岸の気嵐絶景！海越しに望む白銀立山連峰パノラマ・源泉かけ流し名宿ガイド](https://croud-travel.pages.dev/posts/himi-onsen-kanburi-amaharashi-tateyama-winter-guide): 氷見温泉郷　くつろぎの宿　うみあかり（富山県）
 - [ハウステンボス「白銀の世界・光の街のクリスマス」と雲仙温泉！1300万球冬イルミネーションと湯煙地獄・霧氷名宿ガイド](https://croud-travel.pages.dev/posts/huistenbosch-winter-illumination-unzen-onsen-nagasaki-guide): ホテルオークラＪＲハウステンボス（長崎県）
@@ -358,4 +359,3 @@
 - [兵庫県：ホテルオークラ神戸宿泊ガイド！神戸ポートタワーのとなり、35階建て・アクセス＆魅力ルポ](https://croud-travel.pages.dev/posts/1648): ホテルオークラ神戸（兵庫県）
 - [北海道：絶品グルメと地酒を巡る！心満たされる美食旅モデルコースと厳選宿3選](https://croud-travel.pages.dev/posts/67259): クロスホテル札幌（オリックスホテルズ＆リゾーツ）（北海道）
 - [富山県：温泉街の湯めぐりと風情を満喫する旅！厳選宿3選とモデルコース](https://croud-travel.pages.dev/posts/16406): ホテル祥園（富山県）
-- [湯河原：湯もと小町館宿泊記！大正ロマン薫る湯元通りで源泉掛け流しを堪能](https://croud-travel.pages.dev/posts/161209): 湯河原温泉　湯もと小町館（神奈川県）
