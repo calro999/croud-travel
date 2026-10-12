@@ -232,9 +232,9 @@ export default function AsoKumamotoCarFreePage() {
             <div className="inline-block bg-stone-950/40 text-amber-200 text-xs font-black px-2.5 py-0.5 rounded">
               楽天トラベル限定クーポン配布中
             </div>
-            <h3 className="text-base sm:text-lg font-black font-journal-serif">
+            <p className="text-base sm:text-lg font-black font-journal-serif">
               阿蘇・熊本エリアの宿泊が最大20%OFF！駅前宿・名湯旅館クーポン
-            </h3>
+            </p>
             <p className="text-xs text-amber-100">
               5と0のつく日はさらにポイント還元率アップ。特急列車＋宿のダイナミックパッケージも対象！
             </p>

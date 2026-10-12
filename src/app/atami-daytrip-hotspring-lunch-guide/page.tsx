@@ -165,9 +165,9 @@ export default function AtamiDaytripHotspringLunchPage() {
           >
             <div>
               <span className="text-[10px] font-bold text-orange-600 uppercase">費用白書</span>
-              <h3 className="text-sm font-black text-slate-900 group-hover:text-orange-700 transition">
+              <div className="text-sm font-black text-slate-900 group-hover:text-orange-700 transition">
                 【熱海・伊豆旅行 費用】日帰り・1泊2日でいくら？片道2,000円で行く全費用
-              </h3>
+              </div>
             </div>
             <span className="text-orange-600 font-bold ml-2">→</span>
           </Link>
@@ -178,9 +178,9 @@ export default function AtamiDaytripHotspringLunchPage() {
           >
             <div>
               <span className="text-[10px] font-bold text-orange-600 uppercase">交通比較</span>
-              <h3 className="text-sm font-black text-slate-900 group-hover:text-orange-700 transition">
+              <div className="text-sm font-black text-slate-900 group-hover:text-orange-700 transition">
                 【東京から熱海・伊豆 安く行く方法】新幹線・特急踊り子・普通列車を徹底比較
-              </h3>
+              </div>
             </div>
             <span className="text-orange-600 font-bold ml-2">→</span>
           </Link>
