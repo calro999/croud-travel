@@ -113,6 +113,31 @@ export default function FeaturePage() {
   "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/%E5%8F%A4%E9%96%91%E3%81%AE%E6%BB%9D.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
 };
 
+
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "尾ノ内百景氷柱と薬師の湯：2026-2027年冬の埼玉・秩父＆小鹿野！猪鹿ぼたん鍋と武州和牛名宿5選 ｜ 日本全国・旅宿クラウド",
+    "description": "冬の秩父路を幻想的に彩る尾ノ内百景氷柱・三十槌の氷柱と秩父三社新春初詣！名峰両神山麓に湧く美肌の「小鹿野温泉薬師の湯」、滋味豊かな秩父ジビエ猪鹿ぼたん鍋と極上武州和牛を堪能する大人の隠れ家名宿5選。",
+    "image": ["https://croud-travel.pages.dev/winter-saitama-chichibu-hyochu-onouchi-ogano-onsen-jibier-stay"],
+    "author": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "url": "https://croud-travel.pages.dev/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://croud-travel.pages.dev/favicon.ico"
+      }
+    },
+    "datePublished": "2026-09-01T09:00:00+09:00",
+    "dateModified": "2026-10-12T11:00:00+09:00",
+    "mainEntityOfPage": "https://croud-travel.pages.dev/winter-saitama-chichibu-hyochu-onouchi-ogano-onsen-jibier-stay/"
+  };
+
   return (
     <>
       <script
@@ -128,6 +153,11 @@ export default function FeaturePage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(touristAttractionSchema) }}
       />
 
+      
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
       <main className="min-h-screen bg-stone-50 pb-20">
         {/* パンくずリスト */}
         <nav

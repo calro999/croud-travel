@@ -24,6 +24,31 @@ export const metadata: Metadata = {
 };
 
 export default function WinterFeaturePage() {
+
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【播磨灘の初冬の味覚・室津牡蠣解禁と小京都たつの白壁散策】2026-2027年11-12月の兵庫・西播磨！加熱しても縮まない極上室津かき尽くしと新舞子海岸の絶景夕日・播磨灘オーシャンビュー温泉名宿5選 | クラウドトラベル",
+    "description": "11月中旬に待望の漁解禁を迎える播磨灘の極上ブランド「室津牡蠣（むろつがき）」！加熱しても身が縮まず、濃厚な甘みと弾力を誇る焼き牡蠣・牡蠣鍋を本場で味わう至福の初冬旅。「播磨の小京都」龍野の風情ある武家屋敷・白壁の町並み散策と、干潟が茜色に染まる新舞子海岸のサンセット。瀬戸内海を一望するパノラマ露天風呂に癒やされる厳選名宿5選。",
+    "image": ["https://croud-travel.pages.dev/winter-hyogo-tatsuno-murotsu-oyster-shinmaiko-sunset-aioi-onsen-stay"],
+    "author": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "url": "https://croud-travel.pages.dev/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://croud-travel.pages.dev/favicon.ico"
+      }
+    },
+    "datePublished": "2026-09-01T09:00:00+09:00",
+    "dateModified": "2026-10-12T11:00:00+09:00",
+    "mainEntityOfPage": "https://croud-travel.pages.dev/winter-hyogo-tatsuno-murotsu-oyster-shinmaiko-sunset-aioi-onsen-stay/"
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
       {/* 構造化データ: FAQ & Breadcrumb */}
@@ -118,6 +143,11 @@ export default function WinterFeaturePage() {
       </header>
 
       {/* メインコンテンツ */}
+      
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
       <main className="max-w-4xl mx-auto px-4 py-10 space-y-12">
         
         {/* 導入解説 */}

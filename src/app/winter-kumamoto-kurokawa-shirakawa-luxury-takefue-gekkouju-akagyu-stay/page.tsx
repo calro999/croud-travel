@@ -24,6 +24,31 @@ export const metadata: Metadata = {
 };
 
 export default function LuxuryWinterFeaturePage() {
+
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【竹林の秘境・日本最高峰ラグジュアリー離れ「竹ふえ」と「月洸樹」】2026-2027年11-12月初冬の熊本・黒川温泉郷奥座敷！広大な客室専用露天風呂と幻のあか牛フィレ炭火焼き・大人の一生に一度は泊まりたい憧れ名宿5選 | クラウドトラベル",
+    "description": "阿蘇外輪山の奥深く、鬱蒼とした竹林と清らかな小川に包まれた南小国・黒川温泉郷の奥座敷。全国の温泉ファンが「一生に一度は泊まりたい」と憧れる日本最高峰のプライベート離れ「竹ふえ」や「月洸樹 黒川」。数百平米もの広さを誇る客室専用露天風呂や内湯に自家源泉が並々と掛け流され、冬の冷たい大気の中で竹林のライトアップを眺める至高の湯浴み。熊本が誇る幻の和牛「あか牛」の極上フィレ肉炭火焼きと季節の創作会席を味わう、究極の贅沢名宿5選。",
+    "image": ["https://croud-travel.pages.dev/winter-kumamoto-kurokawa-shirakawa-luxury-takefue-gekkouju-akagyu-stay"],
+    "author": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "url": "https://croud-travel.pages.dev/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://croud-travel.pages.dev/favicon.ico"
+      }
+    },
+    "datePublished": "2026-09-01T09:00:00+09:00",
+    "dateModified": "2026-10-12T11:00:00+09:00",
+    "mainEntityOfPage": "https://croud-travel.pages.dev/winter-kumamoto-kurokawa-shirakawa-luxury-takefue-gekkouju-akagyu-stay/"
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
       {/* 構造化データ: FAQ & Breadcrumb */}
@@ -118,6 +143,11 @@ export default function LuxuryWinterFeaturePage() {
       </header>
 
       {/* メインコンテンツ */}
+      
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
       <main className="max-w-4xl mx-auto px-4 py-10 space-y-12">
         
         {/* 導入解説 */}

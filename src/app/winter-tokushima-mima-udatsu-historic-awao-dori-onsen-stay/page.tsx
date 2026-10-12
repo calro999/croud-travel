@@ -95,6 +95,31 @@ export default function Page() {
     ]
   };
 
+
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "藍商のうだつの町並みと阿波尾鶏鍋：2026-2027年冬の徳島・美馬！吉野川展望温泉と老舗名宿5選 | クラウドトラベル",
+    "description": "重伝建の白壁と装飾瓦が白銀に映える「脇町うだつの町並み」の冬風情！徳島が誇る極上地鶏「阿波尾鶏」の水炊きや冬の美馬そば、吉野川の清流を見下ろす天然温泉でぬくもる心安らぐ冬の歴史旅名宿5選。",
+    "image": ["https://croud-travel.pages.dev/winter-tokushima-mima-udatsu-historic-awao-dori-onsen-stay"],
+    "author": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "url": "https://croud-travel.pages.dev/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://croud-travel.pages.dev/favicon.ico"
+      }
+    },
+    "datePublished": "2026-09-01T09:00:00+09:00",
+    "dateModified": "2026-10-12T11:00:00+09:00",
+    "mainEntityOfPage": "https://croud-travel.pages.dev/winter-tokushima-mima-udatsu-historic-awao-dori-onsen-stay/"
+  };
+
   return (
     <>
       <script
@@ -102,6 +127,11 @@ export default function Page() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 
+      
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
       <main className="min-h-screen bg-stone-50/50 pb-20">
         {/* パンくずリスト */}
         <nav className="max-w-4xl mx-auto px-4 py-4 text-xs text-stone-500 flex items-center gap-1.5 flex-wrap">

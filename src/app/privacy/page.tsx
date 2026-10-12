@@ -7,6 +7,31 @@ export const metadata: Metadata = {
 };
 
 export default function PrivacyPolicyPage() {
+
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "プライバシーポリシー ｜ 日本全国・旅宿クラウド",
+    "description": "日本全国・旅宿クラウドのプライバシーポリシー（個人情報保護方針・免責事項・アフィリエイトプログラムに関する表記）について定めています。",
+    "image": ["https://croud-travel.pages.dev/ogp.jpg"],
+    "author": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "url": "https://croud-travel.pages.dev/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://croud-travel.pages.dev/favicon.ico"
+      }
+    },
+    "datePublished": "2026-09-01T09:00:00+09:00",
+    "dateModified": "2026-10-12T11:00:00+09:00",
+    "mainEntityOfPage": "https://croud-travel.pages.dev/privacy/"
+  };
+
   return (
     <div className="max-w-4xl mx-auto py-10 px-4 sm:px-6 space-y-8">
       <nav className="text-xs text-slate-500 flex items-center gap-2">

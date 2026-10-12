@@ -24,6 +24,31 @@ export const metadata: Metadata = {
 };
 
 export default function WinterFeaturePage() {
+
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【水郷日田の初冬川霧と天領小京都・豆田町の白壁通り散策】2026-2027年11-12月初冬の大分・日田温泉！三隈川の川霧を望む屋形船情緒と名物日田焼きそば・おおいた和牛と美肌の名湯5選 | クラウドトラベル",
+    "description": "水郷（すいきょう）と称される大分県日田市。11月〜12月の寒暖差が生み出す三隈川の幻想的な「川霧」と、江戸幕府直轄の天領として栄えた「豆田町」の白壁土蔵が連なる歴史情緒。パリッとした麺の食感がやみつきになる元祖「日田焼きそば」や老舗酒蔵の吟醸酒、とろける豊後牛（おおいた和牛）を堪能し、三隈川を一望する源泉掛け流し美肌温泉に浸る初冬の厳選名宿5選。",
+    "image": ["https://croud-travel.pages.dev/winter-oita-hita-onsen-mamedamachi-river-mist-hita-yakisoba-oita-wagyu-stay"],
+    "author": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "url": "https://croud-travel.pages.dev/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://croud-travel.pages.dev/favicon.ico"
+      }
+    },
+    "datePublished": "2026-09-01T09:00:00+09:00",
+    "dateModified": "2026-10-12T11:00:00+09:00",
+    "mainEntityOfPage": "https://croud-travel.pages.dev/winter-oita-hita-onsen-mamedamachi-river-mist-hita-yakisoba-oita-wagyu-stay/"
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
       {/* 構造化データ: FAQ & Breadcrumb */}
@@ -118,6 +143,11 @@ export default function WinterFeaturePage() {
       </header>
 
       {/* メインコンテンツ */}
+      
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
       <main className="max-w-4xl mx-auto px-4 py-10 space-y-12">
         
         {/* 導入解説 */}

@@ -113,6 +113,31 @@ export default function FeaturePage() {
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/%E5%9C%93%E8%94%B5%E5%AF%BA_-_panoramio_%282%29.jpg/1280px-%E5%9C%93%E8%94%B5%E5%AF%BA_-_panoramio_%282%29.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
 };
 
+
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "白銀のJR只見線と赤べこ発祥圓蔵寺：2026-2027年冬の福島・奥会津＆柳津！開湯1200年名湯と会津地鶏名宿5選 ｜ 日本全国・旅宿クラウド",
+    "description": "世界を魅了する第一只見川橋梁の雪景色と赤べこ発祥の霊場「圓蔵寺」新春初詣！只見川の清流を望む柳津温泉・早戸温泉の雪見露天風呂、旨味凝縮の「会津地鶏鍋」と極上馬刺しに舌鼓を打つ奥会津の冬籠もり名宿5選。",
+    "image": ["https://croud-travel.pages.dev/winter-fukushima-tadami-line-yanaizu-onsen-aizujidori-stay"],
+    "author": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "url": "https://croud-travel.pages.dev/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://croud-travel.pages.dev/favicon.ico"
+      }
+    },
+    "datePublished": "2026-09-01T09:00:00+09:00",
+    "dateModified": "2026-10-12T11:00:00+09:00",
+    "mainEntityOfPage": "https://croud-travel.pages.dev/winter-fukushima-tadami-line-yanaizu-onsen-aizujidori-stay/"
+  };
+
   return (
     <>
       <script
@@ -128,6 +153,11 @@ export default function FeaturePage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(touristAttractionSchema) }}
       />
 
+      
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
       <main className="min-h-screen bg-stone-50 pb-20">
         {/* パンくずリスト */}
         <nav

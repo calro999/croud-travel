@@ -121,6 +121,31 @@ export default function FeaturePage() {
     }
   };
 
+
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "肥前浜宿の酒蔵通り重伝建と日本三大稲荷・祐徳稲荷神社新春初詣：2026-2027年冬の佐賀・鹿島＆嬉野！冬の新酒仕込みと佐賀牛・有明海苔名宿5選 | 旅宿クラウド",
+    "description": "国の重伝建・白壁土蔵が連なる「肥前浜宿酒蔵通り」の冬新酒仕込み情緒と、日本三大稲荷「祐徳稲荷神社」新春開運初詣！有明海の初摘み極上海苔や冬の竹崎カニ、最高峰佐賀牛会席。日本三大美肌の湯・嬉野温泉や武雄温泉の名湯に浸かり、芳醇な佐賀の銘酒を味わう至福の冬厳選名宿5選。",
+    "image": ["https://croud-travel.pages.dev/winter-saga-kashima-hizenhamashuku-yutoku-inari-hatsumode-sagagyu-stay"],
+    "author": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "url": "https://croud-travel.pages.dev/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://croud-travel.pages.dev/favicon.ico"
+      }
+    },
+    "datePublished": "2026-09-01T09:00:00+09:00",
+    "dateModified": "2026-10-12T11:00:00+09:00",
+    "mainEntityOfPage": "https://croud-travel.pages.dev/winter-saga-kashima-hizenhamashuku-yutoku-inari-hatsumode-sagagyu-stay/"
+  };
+
   return (
     <>
       <script
@@ -307,7 +332,12 @@ export default function FeaturePage() {
               </p>
             </div>
 
-            <div className="space-y-8">
+            
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
+      <div className="space-y-8">
 
             <div className="bg-white rounded-2xl border border-stone-200/90 shadow-sm overflow-hidden hover:shadow-md transition-shadow">
               <div className="p-6 sm:p-8 space-y-6">

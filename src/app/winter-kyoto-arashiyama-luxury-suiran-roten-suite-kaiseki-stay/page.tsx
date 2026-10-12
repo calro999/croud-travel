@@ -24,6 +24,31 @@ export const metadata: Metadata = {
 };
 
 export default function UltraLuxuryWinterFeaturePage() {
+
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【保津川渓流沿いの歴史美と嵐山温泉露天付きプライベートスイート】2026-2027年11-12月初冬の京都・嵐山！世界最高峰「翠嵐 ラグジュアリーコレクションホテル 京都」＆老舗料亭旅館・初冬の渡月橋と極上京懐石名宿5選 | クラウドトラベル",
+    "description": "紅葉の喧騒が落ち着き、凛とした初冬の静寂が包み込む京都・嵐山。保津川の清流沿いに佇む世界的ラグジュアリーホテル「翠嵐 ラグジュアリーコレクションホテル 京都」をはじめ、嵐山温泉の肌触り滑らかな湯を客室露天風呂で愉しむ最高峰の宿。渡月橋や竹林の小径の静かな朝散策と、伝統の技が光る繊細な京懐石・丹波牛会席。日本の美意識の粋を極めた大人の記念日ステイ厳選5選。",
+    "image": ["https://croud-travel.pages.dev/winter-kyoto-arashiyama-luxury-suiran-roten-suite-kaiseki-stay"],
+    "author": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "url": "https://croud-travel.pages.dev/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://croud-travel.pages.dev/favicon.ico"
+      }
+    },
+    "datePublished": "2026-09-01T09:00:00+09:00",
+    "dateModified": "2026-10-12T11:00:00+09:00",
+    "mainEntityOfPage": "https://croud-travel.pages.dev/winter-kyoto-arashiyama-luxury-suiran-roten-suite-kaiseki-stay/"
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
       {/* 構造化データ: FAQ & Breadcrumb */}
@@ -118,6 +143,11 @@ export default function UltraLuxuryWinterFeaturePage() {
       </header>
 
       {/* メインコンテンツ */}
+      
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
       <main className="max-w-4xl mx-auto px-4 py-10 space-y-12">
         
         {/* 導入解説 */}

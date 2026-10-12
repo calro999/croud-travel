@@ -113,6 +113,31 @@ export default function FeaturePage() {
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Teradomari_Fish_Market_Street_20081013.jpg/1280px-Teradomari_Fish_Market_Street_20081013.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
 };
 
+
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本海魚のアメ横・寺泊冬のカニ市場と商売繁盛高龍神社：2026-2027年冬の新潟・寺泊＆長岡！とろみ美肌湯と越後牛名宿5選 ｜ 日本全国・旅宿クラウド",
+    "description": "冬の日本海の至宝・本ズワイガニや寒ブリが活気あふれる寺泊「魚のアメ横」と、全国の起業家が詣でる商売繁盛の奇跡「高龍神社」新春初詣！長岡の奥座敷・蓬平温泉の極上とろみ美肌湯と、越後牛・地酒に心満たされる新潟の冬名宿5選。",
+    "image": ["https://croud-travel.pages.dev/winter-niigata-nagaoka-teradomari-kani-yomogihira-onsen-koryu-stay"],
+    "author": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "url": "https://croud-travel.pages.dev/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://croud-travel.pages.dev/favicon.ico"
+      }
+    },
+    "datePublished": "2026-09-01T09:00:00+09:00",
+    "dateModified": "2026-10-12T11:00:00+09:00",
+    "mainEntityOfPage": "https://croud-travel.pages.dev/winter-niigata-nagaoka-teradomari-kani-yomogihira-onsen-koryu-stay/"
+  };
+
   return (
     <>
       <script
@@ -128,6 +153,11 @@ export default function FeaturePage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(touristAttractionSchema) }}
       />
 
+      
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
       <main className="min-h-screen bg-stone-50 pb-20">
         {/* パンくずリスト */}
         <nav

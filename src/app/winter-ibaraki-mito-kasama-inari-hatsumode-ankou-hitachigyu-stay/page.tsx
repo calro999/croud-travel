@@ -215,6 +215,31 @@ export default function IbarakiMitoKasamaPage() {
   };
 
 
+
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "11・12・1月茨城：笠間稲荷神社新春開運初詣！名宿5選",
+    "description": "冬の茨城・水戸＆笠間は、日本三大稲荷「笠間稲荷神社」の新春初詣と、日本三名園「偕楽園」で咲き誇る気品高き早咲き冬梅を巡る歴史と開運の旅舞台。楽天トラベルの最新空室状況・限定割引プランを徹底比較！",
+    "image": ["https://croud-travel.pages.dev/winter-ibaraki-mito-kasama-inari-hatsumode-ankou-hitachigyu-stay"],
+    "author": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "url": "https://croud-travel.pages.dev/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://croud-travel.pages.dev/favicon.ico"
+      }
+    },
+    "datePublished": "2026-09-01T09:00:00+09:00",
+    "dateModified": "2026-10-12T11:00:00+09:00",
+    "mainEntityOfPage": "https://croud-travel.pages.dev/winter-ibaraki-mito-kasama-inari-hatsumode-ankou-hitachigyu-stay/"
+  };
+
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800">
       <script
@@ -242,6 +267,11 @@ export default function IbarakiMitoKasamaPage() {
       </header>
 
       {/* Main Container */}
+      
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
 
         {/* Deep Dive Overview Section */}

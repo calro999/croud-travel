@@ -32,6 +32,31 @@ export default function WinterFeaturePage() {
   const faqJsonLd = {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "五箇山合掌造り集落の冬のライトアップ日程は？", "acceptedAnswer": {"@type": "Answer", "text": "相倉集落や菅沼集落では、例年冬期に期間限定で夜間ライトアップイベントが開催されます。日没とともに純白の雪を被った合掌造り家屋が柔らかな光に照らし出され、息を呑む幻想的な世界が広がります。開催日や見学ルールは年ごとに異なるため、五箇山総合案内所や南砺市観光協会の最新公式発表を事前にご確認ください。"}}, {"@type": "Question", "name": "冬の五箇山観光に車で行く場合の注意点は？", "acceptedAnswer": {"@type": "Answer", "text": "12月から2月の五箇山および国道156号線は完全な雪道となります。必ずスタッドレスタイヤ（4WD推奨）を装着し、急発進・急ブレーキ・急ハンドルを避けて慎重に運転してください。降雪時は道路除雪が迅速に行われますが、吹雪による視界不良にも注意が必要です。雪道運転に不慣れな方は、JR新高岡駅から運行されている「世界遺産バス」の利用が最も安全で確実です。"}}, {"@type": "Question", "name": "五箇山と白川郷の違いは何ですか？", "acceptedAnswer": {"@type": "Answer", "text": "白川郷（荻町集落）は約100棟の合掌造りが集まる大規模な観光地で大型バスも多く賑やかです。一方、五箇山（相倉・菅沼）は規模が20棟・9棟とコンパクトで、土産物店が立ち並ぶことなく、昔ながらの山里の静けさと住民の慎ましい生活感が色濃く残っています。素朴な日本の原風景と静かな雪景色をじっくり味わいたい方には五箇山が圧倒的におすすめです。"}}]};
   const breadcrumbJsonLd = {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev"}, {"@type": "ListItem", "position": 2, "name": "富山県の観光・温泉宿", "item": "https://croud-travel.pages.dev/prefectures/toyama"}, {"@type": "ListItem", "position": 3, "name": "【世界遺産五箇山合掌集落の雪景色と庄川峡】2026-2027年冬の南砺・五箇山！雪見露天と堅豆腐名宿5選", "item": "https://croud-travel.pages.dev/winter-toyama-gokayama-gassho-snow-lightup-ainokura-suganuma-stay"}]};
 
+
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "世界遺産五箇山合掌集落の雪景色と庄川峡：2026-2027年冬の南砺・五箇山！雪見露天と堅豆腐名宿5選 | クラウドトラベル",
+    "description": "白銀の山里に佇む世界遺産・五箇山合掌造り集落（相倉・菅沼）の冬景色と幻想的な雪あかり！名物・五箇山堅豆腐や岩魚塩焼き、庄川峡の雪見露天風呂と富山湾の旬味覚を堪能する極上隠れ宿5選。",
+    "image": ["https://croud-travel.pages.dev/winter-toyama-gokayama-gassho-snow-lightup-ainokura-suganuma-stay"],
+    "author": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "url": "https://croud-travel.pages.dev/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://croud-travel.pages.dev/favicon.ico"
+      }
+    },
+    "datePublished": "2026-09-01T09:00:00+09:00",
+    "dateModified": "2026-10-12T11:00:00+09:00",
+    "mainEntityOfPage": "https://croud-travel.pages.dev/winter-toyama-gokayama-gassho-snow-lightup-ainokura-suganuma-stay/"
+  };
+
   return (
     <>
       <script
@@ -43,6 +68,11 @@ export default function WinterFeaturePage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
       />
 
+      
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
       <main className="min-h-screen bg-stone-50/50 text-stone-800 pb-16">
         {/* パンくずリスト */}
         <div className="bg-white border-b border-stone-200">

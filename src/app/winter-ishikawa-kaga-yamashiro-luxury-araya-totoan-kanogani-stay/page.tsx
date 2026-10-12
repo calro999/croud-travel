@@ -24,6 +24,31 @@ export const metadata: Metadata = {
 };
 
 export default function UltraLuxuryWinterFeaturePage() {
+
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【魯山人の美意識が宿る数寄屋造りの名門と加能ガニ極上フルコース】2026-2027年11-12月初冬の石川・加賀温泉郷！名門「あらや滔々庵」＆「山中温泉 花紫」・源泉掛け流し客室露天風呂と初冬解禁のズワイガニ・能登牛名宿5選 | クラウドトラベル",
+    "description": "開湯1300年の歴史を誇る加賀温泉郷（山代温泉・山中温泉）。美食家・北大路魯山人が逗留し美意識を磨いた名門中の名門「あらや滔々庵」や、渓谷美を望む全室露天付き「花紫」など。11月6日の冬漁解禁とともに始まる最高峰ブランド「加能ガニ（青タグ）」の焼きガニ・カニ刺し・甲羅味噌焼きと、とろける能登牛会席。加賀百万石の伝統工芸と極上の名湯が織りなす最高峰の冬旅厳選5選。",
+    "image": ["https://croud-travel.pages.dev/winter-ishikawa-kaga-yamashiro-luxury-araya-totoan-kanogani-stay"],
+    "author": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "url": "https://croud-travel.pages.dev/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://croud-travel.pages.dev/favicon.ico"
+      }
+    },
+    "datePublished": "2026-09-01T09:00:00+09:00",
+    "dateModified": "2026-10-12T11:00:00+09:00",
+    "mainEntityOfPage": "https://croud-travel.pages.dev/winter-ishikawa-kaga-yamashiro-luxury-araya-totoan-kanogani-stay/"
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
       {/* 構造化データ: FAQ & Breadcrumb */}
@@ -118,6 +143,11 @@ export default function UltraLuxuryWinterFeaturePage() {
       </header>
 
       {/* メインコンテンツ */}
+      
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
       <main className="max-w-4xl mx-auto px-4 py-10 space-y-12">
         
         {/* 導入解説 */}

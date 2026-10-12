@@ -24,6 +24,31 @@ export const metadata: Metadata = {
 };
 
 export default function UltraLuxuryWinterFeaturePage() {
+
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【相模湾を見下ろす断崖の絶景露天風呂と極上プライベートヴィラ】2026-2027年11-12月初冬の静岡・熱海伊豆山＆南熱海！最高峰「ATAMI せかいえ」＆迎賓館・冬の熱海海上花火と伊豆天然伊勢海老・静岡そだち和牛名宿5選 | クラウドトラベル",
+    "description": "都心から新幹線でわずか45分、相模湾のコバルトブルーを一望する熱海・伊豆山。太平洋を見下ろす高台に建ち、全室に源泉掛け流し露天風呂を備えた名門「ATAMI せかいえ」や、大人の静寂を約束する迎賓館リゾート。初冬の澄んだ夜空を彩る名物「熱海海上花火大会」の特等席と、冬に甘みを増す駿河湾・相模湾の活伊勢海老、ブランド牛「静岡そだち」の鉄板焼き。海と空が溶け合う至高のラグジュアリーステイ厳選5選。",
+    "image": ["https://croud-travel.pages.dev/winter-shizuoka-atami-izusan-luxury-sekaie-ocean-roten-iseebi-stay"],
+    "author": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "url": "https://croud-travel.pages.dev/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://croud-travel.pages.dev/favicon.ico"
+      }
+    },
+    "datePublished": "2026-09-01T09:00:00+09:00",
+    "dateModified": "2026-10-12T11:00:00+09:00",
+    "mainEntityOfPage": "https://croud-travel.pages.dev/winter-shizuoka-atami-izusan-luxury-sekaie-ocean-roten-iseebi-stay/"
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
       {/* 構造化データ: FAQ & Breadcrumb */}
@@ -118,6 +143,11 @@ export default function UltraLuxuryWinterFeaturePage() {
       </header>
 
       {/* メインコンテンツ */}
+      
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
       <main className="max-w-4xl mx-auto px-4 py-10 space-y-12">
         
         {/* 導入解説 */}

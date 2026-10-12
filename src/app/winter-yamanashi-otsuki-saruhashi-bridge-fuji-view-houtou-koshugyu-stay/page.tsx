@@ -121,6 +121,31 @@ export default function FeaturePage() {
     }
   };
 
+
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三奇橋・名勝猿橋の冬峡谷美と霊峰富士パノラマ：2026-2027年冬の山梨・大月＆都留！名物手打ちほうとうと甲州牛会席名宿5選 | 旅宿クラウド",
+    "description": "歌川広重の浮世絵にも描かれた日本三奇橋・国の名勝「猿橋」の冬峡谷雪景色と、岩殿山から仰ぐ秀麗富嶽十二景・冠雪の富士山大パノラマ！熱々の名物手打ちかぼちゃほうとうや甲州富士桜ポーク、最高峰甲州牛会席。都留の美肌天然温泉「より道の湯」や快適ホテルで寛ぐ冬の東山梨厳選名宿5選。",
+    "image": ["https://croud-travel.pages.dev/winter-yamanashi-otsuki-saruhashi-bridge-fuji-view-houtou-koshugyu-stay"],
+    "author": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "url": "https://croud-travel.pages.dev/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://croud-travel.pages.dev/favicon.ico"
+      }
+    },
+    "datePublished": "2026-09-01T09:00:00+09:00",
+    "dateModified": "2026-10-12T11:00:00+09:00",
+    "mainEntityOfPage": "https://croud-travel.pages.dev/winter-yamanashi-otsuki-saruhashi-bridge-fuji-view-houtou-koshugyu-stay/"
+  };
+
   return (
     <>
       <script
@@ -307,7 +332,12 @@ export default function FeaturePage() {
               </p>
             </div>
 
-            <div className="space-y-8">
+            
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
+      <div className="space-y-8">
 
             <div className="bg-white rounded-2xl border border-stone-200/90 shadow-sm overflow-hidden hover:shadow-md transition-shadow">
               <div className="p-6 sm:p-8 space-y-6">

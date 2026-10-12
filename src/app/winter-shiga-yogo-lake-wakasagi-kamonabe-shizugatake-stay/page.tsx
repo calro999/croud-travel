@@ -113,6 +113,31 @@ export default function FeaturePage() {
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Lake_Yogo01s3200.jpg/1280px-Lake_Yogo01s3200.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
 };
 
+
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "神秘の余呉湖ワカサギと本場天然真鴨鍋：2026-2027年冬の滋賀・湖北！賤ヶ岳雪景色と近江牛名宿5選 ｜ 日本全国・旅宿クラウド",
+    "description": "白銀の賤ヶ岳を映す羽衣伝説の余呉湖で冬のワカサギ釣りと雪景色散策！湖北の冬の至宝「天然真鴨鍋」の芳醇な旨味と最高峰「近江牛」すき焼き、信長・浅井三姉妹ゆかりの名湯・須賀谷温泉に温まる贅沢な冬名宿5選。",
+    "image": ["https://croud-travel.pages.dev/winter-shiga-yogo-lake-wakasagi-kamonabe-shizugatake-stay"],
+    "author": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "url": "https://croud-travel.pages.dev/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://croud-travel.pages.dev/favicon.ico"
+      }
+    },
+    "datePublished": "2026-09-01T09:00:00+09:00",
+    "dateModified": "2026-10-12T11:00:00+09:00",
+    "mainEntityOfPage": "https://croud-travel.pages.dev/winter-shiga-yogo-lake-wakasagi-kamonabe-shizugatake-stay/"
+  };
+
   return (
     <>
       <script
@@ -128,6 +153,11 @@ export default function FeaturePage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(touristAttractionSchema) }}
       />
 
+      
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
       <main className="min-h-screen bg-stone-50 pb-20">
         {/* パンくずリスト */}
         <nav

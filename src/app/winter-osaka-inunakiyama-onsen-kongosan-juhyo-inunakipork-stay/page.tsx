@@ -95,6 +95,31 @@ export default function Page() {
     ]
   };
 
+
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "静寂の渓谷露天と金剛山樹氷：2026-2027年冬の大阪・犬鳴山温泉！犬鳴ポークと名湯宿5選 | クラウドトラベル",
+    "description": "都心から約50分で辿り着く大阪随一の秘境「犬鳴山温泉」と金剛山の幻想的な冬の樹氷！修験道の歴史薫る渓流露天風呂、ブランド豚「犬鳴ポーク」のしゃぶしゃぶや冬のぼたん鍋を堪能する大人の冬籠もり名宿5選。",
+    "image": ["https://croud-travel.pages.dev/winter-osaka-inunakiyama-onsen-kongosan-juhyo-inunakipork-stay"],
+    "author": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "url": "https://croud-travel.pages.dev/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://croud-travel.pages.dev/favicon.ico"
+      }
+    },
+    "datePublished": "2026-09-01T09:00:00+09:00",
+    "dateModified": "2026-10-12T11:00:00+09:00",
+    "mainEntityOfPage": "https://croud-travel.pages.dev/winter-osaka-inunakiyama-onsen-kongosan-juhyo-inunakipork-stay/"
+  };
+
   return (
     <>
       <script
@@ -102,6 +127,11 @@ export default function Page() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 
+      
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
       <main className="min-h-screen bg-stone-50/50 pb-20">
         {/* パンくずリスト */}
         <nav className="max-w-4xl mx-auto px-4 py-4 text-xs text-stone-500 flex items-center gap-1.5 flex-wrap">

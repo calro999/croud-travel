@@ -24,6 +24,31 @@ export const metadata: Metadata = {
 };
 
 export default function LuxuryWinterFeaturePage() {
+
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【全室離れ客室露天風呂と相模湾絶景オーシャンビュー】2026-2027年11-12月初冬の静岡・伊豆高原！最高峰ABBA RESORTS坐漁荘＆お宿うち山・極上地金目鯛と伊勢海老・しずおか和牛を味わう大人の記念日ラグジュアリー名宿5選 | クラウドトラベル",
+    "description": "都心から特急でわずか2時間、相模湾と伊豆大島を望む静岡屈指のリゾート地・伊豆高原。初冬の澄んだ大気のもと、全室に趣の異なる源泉掛け流し専用露天風呂を備えた極上の離れ宿で過ごす至福の時間。世界基準のおもてなしを誇る名門宿から、海を見晴らす高台のプライベートスイートまで。冬に脂が乗る極上地金目鯛の煮付けや活伊勢海老、しずおか和牛を堪能する大人の記念日名宿5選。",
+    "image": ["https://croud-travel.pages.dev/winter-shizuoka-izukogen-luxury-hanare-roten-zagyoso-kinmedai-stay"],
+    "author": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "url": "https://croud-travel.pages.dev/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://croud-travel.pages.dev/favicon.ico"
+      }
+    },
+    "datePublished": "2026-09-01T09:00:00+09:00",
+    "dateModified": "2026-10-12T11:00:00+09:00",
+    "mainEntityOfPage": "https://croud-travel.pages.dev/winter-shizuoka-izukogen-luxury-hanare-roten-zagyoso-kinmedai-stay/"
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
       {/* 構造化データ: FAQ & Breadcrumb */}
@@ -118,6 +143,11 @@ export default function LuxuryWinterFeaturePage() {
       </header>
 
       {/* メインコンテンツ */}
+      
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
       <main className="max-w-4xl mx-auto px-4 py-10 space-y-12">
         
         {/* 導入解説 */}

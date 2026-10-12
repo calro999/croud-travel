@@ -24,6 +24,31 @@ export const metadata: Metadata = {
 };
 
 export default function WinterFeaturePage() {
+
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【奥州三名湯・飯坂温泉の熱湯共同浴場と名物円盤餃子】2026-2027年11-12月初冬の福島・飯坂！芭蕉ゆかりの鯖湖湯と波来湯・熱気あふれる湯めぐり、パリパリ焼き立て「名物円盤餃子」ととろける福島牛すき焼き・露天風呂名宿5選 | クラウドトラベル",
+    "description": "奥州三名湯の歴史を刻む福島の奥座敷・飯坂温泉！松尾芭蕉も浸かった日本最古級の木造共同浴場「鯖湖湯」をはじめとする熱湯共同浴場めぐりで、冬の寒気を吹き飛ばす芯からの温まり。摺上川の渓谷美を望む露天風呂と、名店が競い合う香ばしい「名物円盤餃子」、極上福島牛すき焼きを堪能する初冬の厳選名宿5選。",
+    "image": ["https://croud-travel.pages.dev/winter-fukushima-iizaka-onsen-sabakoyu-enban-gyoza-fukushimagyu-stay"],
+    "author": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "url": "https://croud-travel.pages.dev/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://croud-travel.pages.dev/favicon.ico"
+      }
+    },
+    "datePublished": "2026-09-01T09:00:00+09:00",
+    "dateModified": "2026-10-12T11:00:00+09:00",
+    "mainEntityOfPage": "https://croud-travel.pages.dev/winter-fukushima-iizaka-onsen-sabakoyu-enban-gyoza-fukushimagyu-stay/"
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
       {/* 構造化データ: FAQ & Breadcrumb */}
@@ -118,6 +143,11 @@ export default function WinterFeaturePage() {
       </header>
 
       {/* メインコンテンツ */}
+      
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
       <main className="max-w-4xl mx-auto px-4 py-10 space-y-12">
         
         {/* 導入解説 */}

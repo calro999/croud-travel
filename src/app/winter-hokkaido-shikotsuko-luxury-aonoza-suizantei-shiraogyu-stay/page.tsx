@@ -24,6 +24,31 @@ export const metadata: Metadata = {
 };
 
 export default function UltraLuxuryWinterFeaturePage() {
+
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【支笏湖ブルーの初冬静寂と全室温泉露天付きラグジュアリースイート】2026-2027年11-12月の北海道・支笏湖！最高峰「碧の座」＆レイクサイド名宿・北海道産白老牛と冬の極上毛ガニ名宿5選 | クラウドトラベル",
+    "description": "日本屈指の透明度を誇るカルデラ湖・支笏湖。11月〜12月の初冬は観光の混雑が去り、澄み渡る「支笏湖ブルー」の静寂と冠雪した恵庭岳の雄姿が湖面に映る最も美しい季節。鶴雅グループの最高峰ブランド「しこつ湖 鶴雅別荘 碧の座」をはじめ、全室に温泉露天風呂を備えた大人のプレミアムリゾート。とろける極上白老牛や噴火湾・オホーツクの冬の味覚を堪能する大人の記念日ステイ厳選5選。",
+    "image": ["https://croud-travel.pages.dev/winter-hokkaido-shikotsuko-luxury-aonoza-suizantei-shiraogyu-stay"],
+    "author": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "url": "https://croud-travel.pages.dev/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://croud-travel.pages.dev/favicon.ico"
+      }
+    },
+    "datePublished": "2026-09-01T09:00:00+09:00",
+    "dateModified": "2026-10-12T11:00:00+09:00",
+    "mainEntityOfPage": "https://croud-travel.pages.dev/winter-hokkaido-shikotsuko-luxury-aonoza-suizantei-shiraogyu-stay/"
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
       {/* 構造化データ: FAQ & Breadcrumb */}
@@ -118,6 +143,11 @@ export default function UltraLuxuryWinterFeaturePage() {
       </header>
 
       {/* メインコンテンツ */}
+      
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
       <main className="max-w-4xl mx-auto px-4 py-10 space-y-12">
         
         {/* 導入解説 */}

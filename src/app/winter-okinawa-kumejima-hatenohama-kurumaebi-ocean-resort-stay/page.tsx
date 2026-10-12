@@ -32,6 +32,31 @@ export default function WinterFeaturePage() {
   const faqJsonLd = {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "冬でも「はての浜」へのツアーは催行されていますか？", "acceptedAnswer": {"@type": "Answer", "text": "はい、冬期も毎日ツアー船が運航されています（泊フィッシャリーナ発）。冬は北風の影響で海況が荒れる日もありますが、天候が穏やかな日は夏以上の驚異的な透明度を誇るエメラルドグリーンの絶景に出会えます。防風ジャケットを着用して参加するのがおすすめです。"}}, {"@type": "Question", "name": "久米島名物の「車海老」はどこで食べられますか？", "acceptedAnswer": {"@type": "Answer", "text": "久米島島内の多くの居酒屋やホテル内レストラン、車海老養殖場直営の食事処で堪能できます。特に11月から1月は活車海老の出荷最盛期のため、刺身（踊り食い）、塩焼き、天ぷら、車海老ドッグなど多彩な料理を味わえます。島内の人気店は予約が必須です。"}}, {"@type": "Question", "name": "冬の久米島で海に入ることはできますか？", "acceptedAnswer": {"@type": "Answer", "text": "ウェットスーツを着用すれば、冬でもシュノーケリングやダイビングが十分に楽しめます。冬の久米島近海はプランクトンが少なく透明度が30mを超える日も多く、マンタやウミガメとの遭遇率も高まります。海水浴ではなく温浴を楽しみたい方は、海洋深層水を利用したホテルの大浴場やスパが最適です。"}}]};
   const breadcrumbJsonLd = {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev"}, {"@type": "ListItem", "position": 2, "name": "沖縄県の観光・温泉宿", "item": "https://croud-travel.pages.dev/prefectures/okinawa"}, {"@type": "ListItem", "position": 3, "name": "【冬の静寂はての浜と日本一の車海老三昧】2026-2027年冬の久米島！海洋深層水スパと絶景リゾートホテル5選", "item": "https://croud-travel.pages.dev/winter-okinawa-kumejima-hatenohama-kurumaebi-ocean-resort-stay"}]};
 
+
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "冬の静寂はての浜と日本一の車海老三昧：2026-2027年冬の久米島！海洋深層水スパと絶景リゾートホテル5選 | クラウドトラベル",
+    "description": "エメラルドグリーンの大海原に浮かぶ白砂の天国「はての浜」の冬クルーズ！冬に旬の最盛期を迎える「久米島産極上活車海老」の踊り食いや塩焼き、海洋深層水温浴スパで心身を解きほぐす至高の南国冬リゾート5選。",
+    "image": ["https://croud-travel.pages.dev/winter-okinawa-kumejima-hatenohama-kurumaebi-ocean-resort-stay"],
+    "author": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "url": "https://croud-travel.pages.dev/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://croud-travel.pages.dev/favicon.ico"
+      }
+    },
+    "datePublished": "2026-09-01T09:00:00+09:00",
+    "dateModified": "2026-10-12T11:00:00+09:00",
+    "mainEntityOfPage": "https://croud-travel.pages.dev/winter-okinawa-kumejima-hatenohama-kurumaebi-ocean-resort-stay/"
+  };
+
   return (
     <>
       <script
@@ -43,6 +68,11 @@ export default function WinterFeaturePage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
       />
 
+      
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
       <main className="min-h-screen bg-stone-50/50 text-stone-800 pb-16">
         {/* パンくずリスト */}
         <div className="bg-white border-b border-stone-200">

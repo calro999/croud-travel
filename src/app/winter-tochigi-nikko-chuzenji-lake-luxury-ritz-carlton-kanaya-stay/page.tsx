@@ -24,6 +24,31 @@ export const metadata: Metadata = {
 };
 
 export default function UltraLuxuryWinterFeaturePage() {
+
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【標高1200mの奥日光・中禅寺湖畔に佇む最高峰リゾート】2026-2027年11-12月初冬の栃木・日光中禅寺湖！「ザ・リッツ・カールトン日光」＆「中禅寺金谷ホテル」・男体山の初雪と日光湯元白濁硫黄泉・極上とちぎ和牛名宿5選 | クラウドトラベル",
+    "description": "標高約1200mの高地に位置し、霊峰・男体山と青く澄み渡る中禅寺湖を望む奥日光。マリオット最高峰「ザ・リッツ・カールトン日光」やクラシックホテルの名門「中禅寺金谷ホテル」など、世界基準のホスピタリティと日光湯元から引湯する乳白色の硫黄泉露天風呂。澄んだ大気のもとで味わう最高ランク「とちぎ和牛」のステーキや本格フレンチディナーを堪能する極上の贅沢リトリート厳選5選。",
+    "image": ["https://croud-travel.pages.dev/winter-tochigi-nikko-chuzenji-lake-luxury-ritz-carlton-kanaya-stay"],
+    "author": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "url": "https://croud-travel.pages.dev/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://croud-travel.pages.dev/favicon.ico"
+      }
+    },
+    "datePublished": "2026-09-01T09:00:00+09:00",
+    "dateModified": "2026-10-12T11:00:00+09:00",
+    "mainEntityOfPage": "https://croud-travel.pages.dev/winter-tochigi-nikko-chuzenji-lake-luxury-ritz-carlton-kanaya-stay/"
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
       {/* 構造化データ: FAQ & Breadcrumb */}
@@ -118,6 +143,11 @@ export default function UltraLuxuryWinterFeaturePage() {
       </header>
 
       {/* メインコンテンツ */}
+      
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
       <main className="max-w-4xl mx-auto px-4 py-10 space-y-12">
         
         {/* 導入解説 */}

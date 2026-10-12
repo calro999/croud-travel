@@ -113,6 +113,31 @@ export default function FeaturePage() {
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Risshaku-ji_konponchudo.jpg/1280px-Risshaku-ji_konponchudo.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
 };
 
+
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "白銀の水墨画世界・山寺立石寺と将棋のまち天童温泉：2026-2027年冬の山形・山寺＆天童！美肌名湯と極上山形牛すき焼き名宿5選 ｜ 日本全国・旅宿クラウド",
+    "description": "松尾芭蕉ゆかりの奇岩霊山「宝珠山立石寺（山寺）」が白銀に包まれる一幅の水墨画の絶景と冬の開運千段石段！将棋駒のまち「天童温泉」の美肌の湯、極上霜降り「山形牛」のすき焼き・ステーキと冬の手打ち蕎麦に心温まる東北の名宿5選。",
+    "image": ["https://croud-travel.pages.dev/winter-yamagata-tendo-onsen-yamadera-snow-risshakuji-yamagatagyu-stay"],
+    "author": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "url": "https://croud-travel.pages.dev/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://croud-travel.pages.dev/favicon.ico"
+      }
+    },
+    "datePublished": "2026-09-01T09:00:00+09:00",
+    "dateModified": "2026-10-12T11:00:00+09:00",
+    "mainEntityOfPage": "https://croud-travel.pages.dev/winter-yamagata-tendo-onsen-yamadera-snow-risshakuji-yamagatagyu-stay/"
+  };
+
   return (
     <>
       <script
@@ -128,6 +153,11 @@ export default function FeaturePage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(touristAttractionSchema) }}
       />
 
+      
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
       <main className="min-h-screen bg-stone-50 pb-20">
         {/* パンくずリスト */}
         <nav
