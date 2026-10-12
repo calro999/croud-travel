@@ -189,7 +189,7 @@ export default function FurusatoArticlePage() {
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
                     <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 16階「RISTORANTE E&apos;VOLTA il Cielo。」での極上イタリアン
+                      <span className="text-amber-600">✓</span> 16階「RISTORANTE E&apos;VOLTA il Cielo」での極上イタリアン
                     </h5>
                     <p className="text-stone-600 leading-relaxed">厳選された日本の食材と本場イタリアの技法が融合したコース。東京の夜景を眺めながら優雅なディナーを味わえます。</p>
                   </div>
@@ -201,7 +201,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.45点、口コミ3800件超。「ビューバスから見える東京タワーの夜景が最高にロマンチック。」「銀座の買い物にも便利でスタッフの接客も洗練されている。」とカップル・記念日に大人気。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.45点、口コミ3800件超。「ビューバスから見える東京タワーの夜景が最高にロマンチック」「銀座の買い物にも便利でスタッフの接客も洗練されている」とカップル・記念日に大人気。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -285,7 +285,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価3.83点、利便性抜群。「歌舞伎座のすぐそばで観劇に最高だった」「銀座の真ん中でどこに行くにも便利、お部屋も清潔で快適。」と好評。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価3.83点、利便性抜群。「歌舞伎座のすぐそばで観劇に最高だった」「銀座の真ん中でどこに行くにも便利、お部屋も清潔で快適」と好評。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -369,7 +369,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.12点、口コミ2900件超。「クラシカルなヨーロッパ調の内装が可愛くて落ち着く。」「銀座駅からも近くて静かでコスパも良い」と女子旅やビジネスに好評。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.12点、口コミ2900件超。「クラシカルなヨーロッパ調の内装が可愛くて落ち着く」「銀座駅からも近くて静かでコスパも良い」と女子旅やビジネスに好評。</p>
               </div>
 
               {/* 宿基本情報 */}

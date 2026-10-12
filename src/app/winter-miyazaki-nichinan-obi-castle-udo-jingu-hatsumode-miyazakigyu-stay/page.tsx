@@ -387,7 +387,7 @@ export default function Page() {
                     </p>
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-4 text-xs text-amber-950/90 leading-relaxed italic">
-                  「バイキング料理でお腹いっぱい、祝福のひと時今回もご利用させていただきました。バイキング料理をお腹いっぱい食べて、祝福のひと時を過ごせました。館内スタッフの皆様、ありがとうございます。これからも、お。」
+                  「バイキング料理でお腹いっぱい、祝福のひと時今回もご利用させていただきました。バイキング料理をお腹いっぱい食べて、祝福のひと時を過ごせました。館内スタッフの皆様、ありがとうございます。これからも、お」
                 </div>
                   </div>
                 </div>
@@ -453,7 +453,7 @@ export default function Page() {
                     </p>
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-4 text-xs text-amber-950/90 leading-relaxed italic">
-                  「プライベートビーチが最高、また行きたいライオンズキャンプのホテルでプライベートビーチがあってとっても良かったです。宮崎いった際は宿泊したいです。」
+                  「プライベートビーチが最高、また行きたいライオンズキャンプのホテルでプライベートビーチがあってとっても良かったです。宮崎いった際は宿泊したいです」
                 </div>
                   </div>
                 </div>
@@ -585,7 +585,7 @@ export default function Page() {
                     </p>
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-4 text-xs text-amber-950/90 leading-relaxed italic">
-                  「海が目の前の好立地、窓の清掃に期待ロケーション最高でした。すぐ海でした。窓がもっと綺麗だったら、景色ももっと綺麗に見えただろうな、と思いました。たくさんの外国人も泊まってらっしゃって、サー。」
+                  「海が目の前の好立地、窓の清掃に期待ロケーション最高でした。すぐ海でした。窓がもっと綺麗だったら、景色ももっと綺麗に見えただろうな、と思いました。たくさんの外国人も泊まってらっしゃって、サー」
                 </div>
                   </div>
                 </div>
@@ -651,7 +651,7 @@ export default function Page() {
                     </p>
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-4 text-xs text-amber-950/90 leading-relaxed italic">
-                  「いつもと違う雰囲気で、また利用したい出張の時はいつも一般的なビジネスホテルでしたが今回はいつもと違った雰囲気のホテルで宿泊出来ました。また、機会があれば。」
+                  「いつもと違う雰囲気で、また利用したい出張の時はいつも一般的なビジネスホテルでしたが今回はいつもと違った雰囲気のホテルで宿泊出来ました。また、機会があれば」
                 </div>
                   </div>
                 </div>

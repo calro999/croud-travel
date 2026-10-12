@@ -57,7 +57,7 @@ export default function FurusatoFeaturePage() {
           </div>
           <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-amber-100 tracking-tight leading-tight sm:leading-snug mb-6">天空の露天風呂付きグランピング＆星空ドーム×ふるさと納税ガイド</h1>
           <p className="text-base sm:text-lg lg:text-xl text-stone-300 max-w-3xl mx-auto leading-relaxed mb-8">
-            「自然の中で開放感を味わいたいけれど、温泉にもゆっくり浸かりたいし、清潔で快適なベッドで眠りたい。」。そんな欲張りな願いを叶えるのが、客室専用の天然温泉露天風呂やジャグジーを備えた最新ラグジュアリーグランピングです。冷暖房完備のドームテント、地元銘柄肉の豪華グリルBBQ、そして夜空に輝く満天の星。楽天ふるさと納税を活用して、上質で非日常なアウトドアリゾートをお得に体験しましょう。
+            「自然の中で開放感を味わいたいけれど、温泉にもゆっくり浸かりたいし、清潔で快適なベッドで眠りたい」。そんな欲張りな願いを叶えるのが、客室専用の天然温泉露天風呂やジャグジーを備えた最新ラグジュアリーグランピングです。冷暖房完備のドームテント、地元銘柄肉の豪華グリルBBQ、そして夜空に輝く満天の星。楽天ふるさと納税を活用して、上質で非日常なアウトドアリゾートをお得に体験しましょう。
           </p>
 
           {/* 公式キャンペーンCTA */}

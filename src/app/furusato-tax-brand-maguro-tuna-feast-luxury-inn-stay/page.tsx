@@ -193,7 +193,7 @@ export default function FurusatoBrandMaguroTunaStayPage() {
                     本州最北端・下北半島の津軽海峡沿いに位置する歴史ある下風呂温泉郷に佇み、名物の津軽海峡本マグロ（大間マグロ）と濃厚な硫黄泉を心ゆくまで堪能できる温泉旅館。夕食には大間産本マグロの大トロ・中トロ・赤身を惜しみなく盛り込んだお造りや、旬の海峡魚介、地元名物のイカ刺しが並び、魚好きを唸らせる圧巻の料理が評判です。源泉かけ流しの乳白色の硫黄泉は大浴場に豊富に注がれ、湯治場として栄えた確かな湯力を実感。津軽海峡の漁火を眺めながら静かな本州最果ての旅情に浸れます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「下北の味覚と温泉を堪能、最高の旅でした最北の宿目指して来ました温泉は女風呂の硫黄泉は隣りの日帰り温泉の熱湯より更に熱いので水で薄めて入りましたいい湯でした夕飯はウニ甘かった鮑も最高でした 沢山…。」
+                    「下北の味覚と温泉を堪能、最高の旅でした最北の宿目指して来ました温泉は女風呂の硫黄泉は隣りの日帰り温泉の熱湯より更に熱いので水で薄めて入りましたいい湯でした夕飯はウニ甘かった鮑も最高でした 沢山…」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -315,7 +315,7 @@ export default function FurusatoBrandMaguroTunaStayPage() {
                     都心から約1時間、三浦海岸駅より徒歩約6分の好立地に建ち、全室オーシャンビューの本館をはじめ広々とした客室を誇る人気温泉リゾート。夕食バイキングでは、三浦三崎港直送の上質なマグロを刺身やお寿司で心ゆくまで味わえる「まぐろ食べ放題」が大好評。自家源泉の天然温泉大浴場や露天風呂、屋内温水プールなど充実したウェルネス施設も魅力です。都心からのアクセスが抜群で、気軽に本場の三崎まぐろと温泉旅を両立させたいファミリーやカップルに圧倒的な支持を集めています。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「部屋が広く接客も丁寧で大満足部屋がとても広く大変満足しました。フロントの接客も丁寧で問題にも早急に対応していただけました。」
+                    「部屋が広く接客も丁寧で大満足部屋がとても広く大変満足しました。フロントの接客も丁寧で問題にも早急に対応していただけました」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">

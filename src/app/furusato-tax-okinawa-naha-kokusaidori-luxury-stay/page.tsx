@@ -201,7 +201,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.44点、口コミ2000件超。「国際通りが近くて便利、最上階のラウンジからの景色が最高。」「スタッフの気配りが素晴らしく、お部屋のベッドも快適。」と絶賛。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.44点、口コミ2000件超。「国際通りが近くて便利、最上階のラウンジからの景色が最高」「スタッフの気配りが素晴らしく、お部屋のベッドも快適」と絶賛。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -285,7 +285,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.64点、口コミ高評価。「国際通り直結で立地が最強、大浴場やプールもあって最高だった。」「お部屋が広くて綺麗、朝食ビュッフェのレベルが高い。」と大人気。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.64点、口コミ高評価。「国際通り直結で立地が最強、大浴場やプールもあって最高だった」「お部屋が広くて綺麗、朝食ビュッフェのレベルが高い」と大人気。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -369,7 +369,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.33点、口コミ高評価。「那覇で本格的な天然温泉に入れるのが素晴らしい。」「空港から近くて移動が楽、お部屋も広くてくつろげた。」とシニア・家族連れに人気。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.33点、口コミ高評価。「那覇で本格的な天然温泉に入れるのが素晴らしい」「空港から近くて移動が楽、お部屋も広くてくつろげた」とシニア・家族連れに人気。</p>
               </div>
 
               {/* 宿基本情報 */}

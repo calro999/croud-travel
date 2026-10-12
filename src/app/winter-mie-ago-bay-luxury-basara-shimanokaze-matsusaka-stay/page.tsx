@@ -250,7 +250,7 @@ export default function LuxuryStayPage() {
 
               <div className="bg-slate-50 p-4 rounded-xl border-l-4 border-amber-500 text-xs md:text-sm text-slate-600 italic mb-6">
                 <span className="font-bold text-slate-700 not-italic block mb-1">宿泊者のクチコミ体験談</span>
-                「三度目の利用、お風呂も食事も最高レベル三回目の宿泊です。villaについているお風呂が最高でした。お食事もおもてなしも最高レベルです。」
+                「三度目の利用、お風呂も食事も最高レベル三回目の宿泊です。villaについているお風呂が最高でした。お食事もおもてなしも最高レベルです」
               </div>
 
               <div className="pt-2">
@@ -457,7 +457,7 @@ export default function LuxuryStayPage() {
 
               <div className="bg-slate-50 p-4 rounded-xl border-l-4 border-amber-500 text-xs md:text-sm text-slate-600 italic mb-6">
                 <span className="font-bold text-slate-700 not-italic block mb-1">宿泊者のクチコミ体験談</span>
-                「窓から見える絶景が絵画のように美しい部屋の窓から見える絶景が額に入った絵画のように美しかった。」
+                「窓から見える絶景が絵画のように美しい部屋の窓から見える絶景が額に入った絵画のように美しかった」
               </div>
 
               <div className="pt-2">
@@ -526,7 +526,7 @@ export default function LuxuryStayPage() {
 
               <div className="bg-slate-50 p-4 rounded-xl border-l-4 border-amber-500 text-xs md:text-sm text-slate-600 italic mb-6">
                 <span className="font-bold text-slate-700 not-italic block mb-1">宿泊者のクチコミ体験談</span>
-                「南欧リゾートの優雅な佇まいと英虞湾の絶景、伊勢志摩の美食フレンチ＆和食が極上の滞在を演出。」
+                「南欧リゾートの優雅な佇まいと英虞湾の絶景、伊勢志摩の美食フレンチ＆和食が極上の滞在を演出」
               </div>
 
               <div className="pt-2">

@@ -387,7 +387,7 @@ export default function Page() {
                     </p>
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-4 text-xs text-amber-950/90 leading-relaxed italic">
-                  「温かい接客と美味しい義経鍋に大満足ホテルの方々がとても暖かく接してくださって気持ちよく過ごせました。義経鍋も美味しかったし、色々な食材を食べることができてよかったです。」
+                  「温かい接客と美味しい義経鍋に大満足ホテルの方々がとても暖かく接してくださって気持ちよく過ごせました。義経鍋も美味しかったし、色々な食材を食べることができてよかったです」
                 </div>
                   </div>
                 </div>
@@ -453,7 +453,7 @@ export default function Page() {
                     </p>
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-4 text-xs text-amber-950/90 leading-relaxed italic">
-                  「駅近で清潔、大浴場もあり眺めも良好駅から近く、清潔でした。大浴場有難いです。」
+                  「駅近で清潔、大浴場もあり眺めも良好駅から近く、清潔でした。大浴場有難いです」
                 </div>
                   </div>
                 </div>
@@ -519,7 +519,7 @@ export default function Page() {
                     </p>
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-4 text-xs text-amber-950/90 leading-relaxed italic">
-                  「朝ごはんも色々あって美味しくいただきました。部屋の備品にホコリが積もっているのが気になりました。水を入れるポットの蓋。」
+                  「朝ごはんも色々あって美味しくいただきました。部屋の備品にホコリが積もっているのが気になりました。水を入れるポットの蓋」
                 </div>
                   </div>
                 </div>
@@ -585,7 +585,7 @@ export default function Page() {
                     </p>
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-4 text-xs text-amber-950/90 leading-relaxed italic">
-                  「駅近で便利、朝食と大浴場が最高に快適観光の拠点として、駅至近の大変便利な場所にあり助かります。ホテルルートインは朝食付きで大浴場があるのでとてもお気に入りです。」
+                  「駅近で便利、朝食と大浴場が最高に快適観光の拠点として、駅至近の大変便利な場所にあり助かります。ホテルルートインは朝食付きで大浴場があるのでとてもお気に入りです」
                 </div>
                   </div>
                 </div>

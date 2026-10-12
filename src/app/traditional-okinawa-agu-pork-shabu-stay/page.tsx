@@ -204,7 +204,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ウォーターマークホテル沖縄 宮古島＜伊良部島＞。」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ウォーターマークホテル沖縄 宮古島＜伊良部島＞。」へは、宮古島空港より車で約35分、みやこ下地島空港より車で約5分。最寄りの宮古空港駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ウォーターマークホテル沖縄 宮古島＜伊良部島＞。」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ウォーターマークホテル沖縄 宮古島＜伊良部島＞。」は『日本の渚100選に選ばれた美しいビーチで、夕陽の名所ホテルより青い海も、夕陽も一望でき��。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ウォーターマークホテル沖縄 宮古島＜伊良部島＞。」では季節ごとに異なる宿泊プランや料理プランが用意されています。ご旅行の人数や滞在スタイルに合わせて最適なプランをお選びいただけます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ウォーターマークホテル沖縄 宮古島＜伊良部島＞」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ウォーターマークホテル沖縄 宮古島＜伊良部島＞」へは、宮古島空港より車で約35分、みやこ下地島空港より車で約5分。最寄りの宮古空港駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ウォーターマークホテル沖縄 宮古島＜伊良部島＞」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ウォーターマークホテル沖縄 宮古島＜伊良部島＞」は『日本の渚100選に選ばれた美しいビーチで、夕陽の名所ホテルより青い海も、夕陽も一望でき��。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ウォーターマークホテル沖縄 宮古島＜伊良部島＞」では季節ごとに異なる宿泊プランや料理プランが用意されています。ご旅行の人数や滞在スタイルに合わせて最適なプランをお選びいただけます。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -583,9 +583,9 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 宮古空港駅よりアクセス。宮古島空港より車で約35分、みやこ下地島空港より車で約5分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「ウォーターマークホテル沖縄 宮古島＜伊良部島＞。」にチェックイン。日本の渚100選に選ばれた美しいビーチで、夕陽の名所ホテルより青い海も、夕陽も一望でき���す。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「ウォーターマークホテル沖縄 宮古島＜伊良部島＞。」の湯処へ。日本の渚100選に選ばれた美しいビーチで、夕陽の名所ホテルより青い海もとともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「ウォーターマークホテル沖縄 宮古島＜伊良部島＞。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「ウォーターマークホテル沖縄 宮古島＜伊良部島＞」にチェックイン。日本の渚100選に選ばれた美しいビーチで、夕陽の名所ホテルより青い海も、夕陽も一望でき���す。などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「ウォーターマークホテル沖縄 宮古島＜伊良部島＞」の湯処へ。日本の渚100選に選ばれた美しいビーチで、夕陽の名所ホテルより青い海もとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「ウォーターマークホテル沖縄 宮古島＜伊良部島＞」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -594,8 +594,8 @@ export default function FeatureDetailPage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ウォーターマークホテル沖縄 宮古島＜伊良部島＞。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「ウォーターマークホテル沖縄 宮古島＜伊良部島＞。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ウォーターマークホテル沖縄 宮古島＜伊良部島＞」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「ウォーターマークホテル沖縄 宮古島＜伊良部島＞」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は沖縄県宮古島市伊良部佐和田前原1725の観光名所や特産品店へ立ち寄り。旅の思い出を胸に大満足で帰路へ。</li>
               </ul>
             </div>
@@ -613,20 +613,20 @@ export default function FeatureDetailPage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「ウォーターマークホテル沖縄 宮古島＜伊良部島＞。」へのアクセスや移動方法について</span>
+                <span>Q. 「ウォーターマークホテル沖縄 宮古島＜伊良部島＞」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「ウォーターマークホテル沖縄 宮古島＜伊良部島＞。」へは、宮古島空港より車で約35分、みやこ下地島空港より車で約5分。最寄りの宮古空港駅からの経路案内も充実しています。
+                A. 「ウォーターマークホテル沖縄 宮古島＜伊良部島＞」へは、宮古島空港より車で約35分、みやこ下地島空港より車で約5分。最寄りの宮古空港駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「ウォーターマークホテル沖縄 宮古島＜伊良部島＞。」の魅力や予約時のポイントは？</span>
+                <span>Q. 「ウォーターマークホテル沖縄 宮古島＜伊良部島＞」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「ウォーターマークホテル沖縄 宮古島＜伊良部島＞。」は『日本の渚100選に選ばれた美しいビーチで、夕陽の名所ホテルより青い海も、夕陽も一望でき��。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「ウォーターマークホテル沖縄 宮古島＜伊良部島＞」は『日本の渚100選に選ばれた美しいビーチで、夕陽の名所ホテルより青い海も、夕陽も一望でき��。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -635,7 +635,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「ウォーターマークホテル沖縄 宮古島＜伊良部島＞。」では季節ごとに異なる宿泊プランや料理プランが用意されています。ご旅行の人数や滞在スタイルに合わせて最適なプランをお選びいただけます。
+                A. 「ウォーターマークホテル沖縄 宮古島＜伊良部島＞」では季節ごとに異なる宿泊プランや料理プランが用意されています。ご旅行の人数や滞在スタイルに合わせて最適なプランをお選びいただけます。
               </p>
             </details>
           </div>

@@ -317,7 +317,7 @@ export default function Page() {
 
               <div className="bg-slate-50 p-4 rounded-xl border-l-4 border-amber-500 text-xs md:text-sm text-slate-600 italic mb-6">
                 <span className="font-bold text-slate-700 not-italic block mb-1">宿泊者のクチコミ体験談</span>
-                「丁寧な接客だがバリアフリールームに手すり希望スタッフさんは皆さん丁寧な接客をしてくれました。バリアフリールームに手すりが欲しいです。」
+                「丁寧な接客だがバリアフリールームに手すり希望スタッフさんは皆さん丁寧な接客をしてくれました。バリアフリールームに手すりが欲しいです」
               </div>
 
               <div className="pt-2">

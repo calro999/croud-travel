@@ -82,7 +82,7 @@ export default function ArticlePage() {
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
             <p className="font-bold text-amber-950 text-base sm:text-lg">
-              「国境の長いトンネルを抜けると雪国であった。」川端康成が逗留した名湯郷・越後湯沢。谷川連峰の山並みを眺め、魚沼産コシヒカリと地酒に酔いしれるソロステイ
+              「国境の長いトンネルを抜けると雪国であった」川端康成が逗留した名湯郷・越後湯沢。谷川連峰の山並みを眺め、魚沼産コシヒカリと地酒に酔いしれるソロステイ
             </p>
             <p>
               東京駅から新幹線でわずか70分という抜群のアクセスを誇る新潟県・越後湯沢温泉。無色透明で肌に優しい弱アルカリ性の単純温泉は、旅の疲れを優しく芯からほぐしてくれます。越後のおいしい水と南魚沼の豊かな実りが、一人旅の滞在をこの上なく贅沢にしてくれます。

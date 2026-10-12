@@ -201,7 +201,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.51点、口コミ1200件超。「二種類の温泉がどちらも最高で肌がすべすべになった。」「森に囲まれた環境と秋田の郷土料理バイキングに大満足。」と絶賛。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.51点、口コミ1200件超。「二種類の温泉がどちらも最高で肌がすべすべになった」「森に囲まれた環境と秋田の郷土料理バイキングに大満足」と絶賛。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -285,7 +285,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.33点、口コミ1400件超。「お部屋が広くて清潔、お風呂も広々として気持ちよかった。」「バイキングの品数が多く郷土料理が美味しかった。」と好評。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.33点、口コミ1400件超。「お部屋が広くて清潔、お風呂も広々として気持ちよかった」「バイキングの品数が多く郷土料理が美味しかった」と好評。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -369,7 +369,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.63点、口コミ700件超。「鶴の湯への送迎サービスが素晴らしく、宿のお風呂も料理も十割そばも最高。」「静かで温かい最高の隠れ宿」と熱狂的なリピーター多数。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.63点、口コミ700件超。「鶴の湯への送迎サービスが素晴らしく、宿のお風呂も料理も十割そばも最高」「静かで温かい最高の隠れ宿」と熱狂的なリピーター多数。</p>
               </div>
 
               {/* 宿基本情報 */}

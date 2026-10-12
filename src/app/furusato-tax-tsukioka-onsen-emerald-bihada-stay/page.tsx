@@ -201,7 +201,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.77点という圧倒的な最高峰スコア。「お風呂のお湯が本当にエメラルドグリーンで肌がつるつるになった。」「スタッフの接客もお料理も建物もすべてが一流で感動。」と絶賛されています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.77点という圧倒的な最高峰スコア。「お風呂のお湯が本当にエメラルドグリーンで肌がつるつるになった」「スタッフの接客もお料理も建物もすべてが一流で感動」と絶賛されています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -285,7 +285,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.65点、口コミ2500件超。「お湯が素晴らしく肌がしっとりすべすべになった。」「お料理の品数と味が素晴らしく、また必ず泊まりたい。」と高いリピート率。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.65点、口コミ2500件超。「お湯が素晴らしく肌がしっとりすべすべになった」「お料理の品数と味が素晴らしく、また必ず泊まりたい」と高いリピート率。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -369,7 +369,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.11点、口コミ1200件超。「露天風呂のお湯が本格的でとても気持ちよかった。」「コスパが良く温泉街の散策にも便利だった」と好評です。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.11点、口コミ1200件超。「露天風呂のお湯が本格的でとても気持ちよかった」「コスパが良く温泉街の散策にも便利だった」と好評です。</p>
               </div>
 
               {/* 宿基本情報 */}

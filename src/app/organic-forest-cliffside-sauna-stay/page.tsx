@@ -204,7 +204,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「赤穂温泉 絶景露天風呂の宿 銀波荘」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「赤穂温泉 絶景露天風呂の宿 銀波荘」へは、JR山陽本線・播州赤穂駅より路線バス約20分「御崎バス停」より徒歩1分・無料送迎あり／山陽自動車道・赤穂ＩＣより約10分。最寄りの播州赤穂駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「赤穂温泉 絶景露天風呂の宿 銀波荘」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「赤穂温泉 絶景露天風呂の宿 銀波荘」は『ＴＶや雑誌でも多数掲載！海と温泉が一体になって全身を包みこむ体験を堪能できる絶景露天風呂が。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「赤穂温泉 絶景露天風呂の宿 銀波荘」と「海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「赤穂温泉 絶景露天風呂の宿 銀波荘」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「赤穂温泉 絶景露天風呂の宿 銀波荘」へは、JR山陽本線・播州赤穂駅より路線バス約20分「御崎バス停」より徒歩1分・無料送迎あり／山陽自動車道・赤穂ＩＣより約10分。最寄りの播州赤穂駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「赤穂温泉 絶景露天風呂の宿 銀波荘」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「赤穂温泉 絶景露天風呂の宿 銀波荘」は『ＴＶや雑誌でも多数掲載！海と温泉が一体になって全身を包みこむ体験を堪能できる絶景露天風呂が。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「赤穂温泉 絶景露天風呂の宿 銀波荘」と「海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -596,7 +596,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「赤穂温泉 絶景露天風呂の宿 銀波荘」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「赤穂温泉 絶景露天風呂の宿 銀波荘」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -635,7 +635,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「赤穂温泉 絶景露天風呂の宿 銀波荘」と「海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「赤穂温泉 絶景露天風呂の宿 銀波荘」と「海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

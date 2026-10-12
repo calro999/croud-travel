@@ -201,7 +201,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.86点、口コミ極めて高評価。「全室露天付きでお湯も素晴らしく、モダン懐石の美味しさに感動。」「ラウンジや貸切風呂のクオリティが別格」と大絶賛。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.86点、口コミ極めて高評価。「全室露天付きでお湯も素晴らしく、モダン懐石の美味しさに感動」「ラウンジや貸切風呂のクオリティが別格」と大絶賛。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -285,7 +285,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.42点、口コミ3000件超。「一万坪の庭園の素晴らしさと、源泉掛け流しのお風呂の湯量に圧倒された。」「料理も美味しく、箱根湯本駅から歩いて行けるのも便利。」と高評価。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.42点、口コミ3000件超。「一万坪の庭園の素晴らしさと、源泉掛け流しのお風呂の湯量に圧倒された」「料理も美味しく、箱根湯本駅から歩いて行けるのも便利」と高評価。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -369,7 +369,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.34点、口コミ3500件超。「駅から近くてアクセス最高、お風呂も広くて気持ちいい。」「フレンチや和食のクオリティが高く、スタッフの対応も素晴らしい。」とファミリー・シニアに大人気。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.34点、口コミ3500件超。「駅から近くてアクセス最高、お風呂も広くて気持ちいい」「フレンチや和食のクオリティが高く、スタッフの対応も素晴らしい」とファミリー・シニアに大人気。</p>
               </div>
 
               {/* 宿基本情報 */}

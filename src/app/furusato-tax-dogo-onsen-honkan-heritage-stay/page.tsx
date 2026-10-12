@@ -201,7 +201,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.67点、口コミ1400件超。「庭園の美しさと静けさ、スタッフの接客の洗練さに感動。」「料理が素晴らしく道後で泊まるなら絶対ここ。」と絶大な信頼を得ています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.67点、口コミ1400件超。「庭園の美しさと静けさ、スタッフの接客の洗練さに感動」「料理が素晴らしく道後で泊まるなら絶対ここ」と絶大な信頼を得ています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -285,7 +285,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.77点の最高峰スコア。「部屋のお風呂が最高で何度も入った」「ラウンジからの松山城の景色が美しく、料理も接客もパーフェクト。」と大人の旅行者に大人気。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.77点の最高峰スコア。「部屋のお風呂が最高で何度も入った」「ラウンジからの松山城の景色が美しく、料理も接客もパーフェクト」と大人の旅行者に大人気。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -369,7 +369,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.43点、口コミ2600件超。「本館のすぐ隣で観光にとても便利」「屋上露天風呂が開放的で気持ちよく、お食事も美味しかった。」と高い人気。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.43点、口コミ2600件超。「本館のすぐ隣で観光にとても便利」「屋上露天風呂が開放的で気持ちよく、お食事も美味しかった」と高い人気。</p>
               </div>
 
               {/* 宿基本情報 */}

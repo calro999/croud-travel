@@ -388,7 +388,7 @@ export default function LuxuryStayPage() {
 
               <div className="bg-slate-50 p-4 rounded-xl border-l-4 border-amber-500 text-xs md:text-sm text-slate-600 italic mb-6">
                 <span className="font-bold text-slate-700 not-italic block mb-1">宿泊者のクチコミ体験談</span>
-                「屋上露天風呂「富士見の湯」から望む初冬の霊峰富士と河口湖の逆さ富士が圧巻の美しさ。」
+                「屋上露天風呂「富士見の湯」から望む初冬の霊峰富士と河口湖の逆さ富士が圧巻の美しさ」
               </div>
 
               <div className="pt-2">
@@ -526,7 +526,7 @@ export default function LuxuryStayPage() {
 
               <div className="bg-slate-50 p-4 rounded-xl border-l-4 border-amber-500 text-xs md:text-sm text-slate-600 italic mb-6">
                 <span className="font-bold text-slate-700 not-italic block mb-1">宿泊者のクチコミ体験談</span>
-                「全室に開放的なテラスを完備。天空のインフィニティ露天風呂から富士山と湖が一体となる絶景を満喫。」
+                「全室に開放的なテラスを完備。天空のインフィニティ露天風呂から富士山と湖が一体となる絶景を満喫」
               </div>
 
               <div className="pt-2">

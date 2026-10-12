@@ -267,7 +267,7 @@ export default function WinterFeaturePage() {
                       宿泊者の生の声・クチコミ抜粋
                     </h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
-                      「厳島神社を望む絶景と細やかな配慮に感謝出産前の思い出として、貸切風呂のあるお部屋に宿泊しました。お部屋からは厳島神社がよく見えて、ロケーションもとても良かったです。お風呂は夜と朝の2回。」
+                      「厳島神社を望む絶景と細やかな配慮に感謝出産前の思い出として、貸切風呂のあるお部屋に宿泊しました。お部屋からは厳島神社がよく見えて、ロケーションもとても良かったです。お風呂は夜と朝の2回」
                     </p>
                   </div>
                   <div className="pt-2">
@@ -361,7 +361,7 @@ export default function WinterFeaturePage() {
                       宿泊者の生の声・クチコミ抜粋
                     </h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
-                      「海側の絶景と広島牛ステーキに大満足海側の部屋だったんですがとてもいい眺めでした。フェリー乗り場も目の前で便利です。昼間と違い朝と夜は人も少なくのんびり散歩できました。夕食バイキングにはオプショ。」
+                      「海側の絶景と広島牛ステーキに大満足海側の部屋だったんですがとてもいい眺めでした。フェリー乗り場も目の前で便利です。昼間と違い朝と夜は人も少なくのんびり散歩できました。夕食バイキングにはオプショ」
                     </p>
                   </div>
                   <div className="pt-2">
@@ -455,7 +455,7 @@ export default function WinterFeaturePage() {
                       宿泊者の生の声・クチコミ抜粋
                     </h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
-                      「宮島の観光に最適、料理も美味しく快適清潔感があり綺麗なホテルでした。お料理も美味しく客室から鳥居が見え宮島宿泊にはぴったりなホテルです。スタッフさんの対応も気持ち良く、食事を配膳し。」
+                      「宮島の観光に最適、料理も美味しく快適清潔感があり綺麗なホテルでした。お料理も美味しく客室から鳥居が見え宮島宿泊にはぴったりなホテルです。スタッフさんの対応も気持ち良く、食事を配膳し」
                     </p>
                   </div>
                   <div className="pt-2">
@@ -549,7 +549,7 @@ export default function WinterFeaturePage() {
                       宿泊者の生の声・クチコミ抜粋
                     </h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
-                      「プールと遊覧船からの鳥居に大満足ブールもあり楽しめました。遊覧船での厳島神社の鳥居を間近で観れて迫力があり良かったです。」
+                      「プールと遊覧船からの鳥居に大満足ブールもあり楽しめました。遊覧船での厳島神社の鳥居を間近で観れて迫力があり良かったです」
                     </p>
                   </div>
                   <div className="pt-2">
@@ -643,7 +643,7 @@ export default function WinterFeaturePage() {
                       宿泊者の生の声・クチコミ抜粋
                     </h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
-                      「厳島神社にすぐたどり着けるロケーションで、宮島観光にはオススメです。夕食朝食付きにしてよかったです。夜の散歩企画なども開催されていてサービス面でもオススメです。」
+                      「厳島神社にすぐたどり着けるロケーションで、宮島観光にはオススメです。夕食朝食付きにしてよかったです。夜の散歩企画なども開催されていてサービス面でもオススメです」
                     </p>
                   </div>
                   <div className="pt-2">

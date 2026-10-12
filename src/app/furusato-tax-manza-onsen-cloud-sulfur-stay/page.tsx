@@ -201,7 +201,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.33点、口コミ3400件超。「極楽湯から見た星空と白濁したお湯が人生最高。」「お湯の薬効がすごくて体の痛みが消えた」と圧倒的なリピート率。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.33点、口コミ3400件超。「極楽湯から見た星空と白濁したお湯が人生最高」「お湯の薬効がすごくて体の痛みが消えた」と圧倒的なリピート率。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -285,7 +285,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.24点、口コミ3100件超。「こまくさの湯からの眺めが絶景で雲の上にいるよう。」「お湯が真っ白で硫黄の香りが心地よく、また来たい。」と好評。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.24点、口コミ3100件超。「こまくさの湯からの眺めが絶景で雲の上にいるよう」「お湯が真っ白で硫黄の香りが心地よく、また来たい」と好評。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -369,7 +369,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.31点、口コミ2700件超。「石庭露天風呂の種類の多さと広さに大興奮」「色とりどりのお湯に入れてプリンスホテルのお風呂も行けて最高。」と高評価。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.31点、口コミ2700件超。「石庭露天風呂の種類の多さと広さに大興奮」「色とりどりのお湯に入れてプリンスホテルのお風呂も行けて最高」と高評価。</p>
               </div>
 
               {/* 宿基本情報 */}

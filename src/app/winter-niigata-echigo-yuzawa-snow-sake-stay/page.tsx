@@ -268,7 +268,7 @@ export default function YuzawaWinterPage() {
           </div>
           <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">越後湯沢温泉の雪国情緒と地酒巡りで過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 川端康成ゆかりの名湯・南魚沼産コシヒカリ新米と越後もち豚会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
-            「国境の長いトンネルを抜けると雪国であった。」。東京から新幹線で最速約70分。谷川連峰を越えた先に広がる純白の白銀世界。日本一の南魚沼産コシヒカリ新米の甘み、ぽんしゅ館の地酒呑み比べ、柔らかな湯が芯まで温める至福の冬旅へ。
+            「国境の長いトンネルを抜けると雪国であった」。東京から新幹線で最速約70分。谷川連峰を越えた先に広がる純白の白銀世界。日本一の南魚沼産コシヒカリ新米の甘み、ぽんしゅ館の地酒呑み比べ、柔らかな湯が芯まで温める至福の冬旅へ。
           </p>
           <div className="mt-8 flex items-center justify-center gap-4 text-xs text-stone-300">
             <span className="flex items-center gap-1.5"><Calendar className="w-4 h-4 text-indigo-400" /> 取材・更新: 2026年9月最新</span>

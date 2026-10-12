@@ -188,7 +188,7 @@ export default function FurusatoRound62ArticlePage() {
                     日本の山岳温泉リゾート　新玉川温泉
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「ファミリーなら新玉川、食事重視なら玉川温泉新玉川温泉と玉川温泉の両方に宿泊しました。ファミリーで利用するなら、新玉川温泉のほうが過ごしやすい印象です。両施設を行き来できるバスもあるので、温…。」
+                    「ファミリーなら新玉川、食事重視なら玉川温泉新玉川温泉と玉川温泉の両方に宿泊しました。ファミリーで利用するなら、新玉川温泉のほうが過ごしやすい印象です。両施設を行き来できるバスもあるので、温…」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -243,7 +243,7 @@ export default function FurusatoRound62ArticlePage() {
                     三朝温泉　依山楼　岩崎
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「家族旅行家族旅行で利用しました。高齢の両親も快適に過ごすことが出来る素敵な旅館でした。お部屋の露天風呂も最高で、食事を含めとても良い時が過ごせました。」
+                    「家族旅行家族旅行で利用しました。高齢の両親も快適に過ごすことが出来る素敵な旅館でした。お部屋の露天風呂も最高で、食事を含めとても良い時が過ごせました」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -298,7 +298,7 @@ export default function FurusatoRound62ArticlePage() {
                     草津温泉　奈良屋
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「食事はどの料理も美味しかったです目の前で握っていただけるお寿司も良いパフォーマンスですね部屋にある冷蔵庫に飲みかけの水(部屋に置いてあるペットボトルと同じもの)が入っていたので 前のお客さ…。」
+                    「食事はどの料理も美味しかったです目の前で握っていただけるお寿司も良いパフォーマンスですね部屋にある冷蔵庫に飲みかけの水(部屋に置いてあるペットボトルと同じもの)が入っていたので 前のお客さ…」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">

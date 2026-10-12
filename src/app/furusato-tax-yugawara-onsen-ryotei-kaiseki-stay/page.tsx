@@ -201,7 +201,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.48点。「奥湯河原の自然と数寄屋の佇まいに癒やされた。」「お料理が一口ごとに感動する美味しさで、サービスも完璧。」と記念日利用に大絶賛。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.48点。「奥湯河原の自然と数寄屋の佇まいに癒やされた」「お料理が一口ごとに感動する美味しさで、サービスも完璧」と記念日利用に大絶賛。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -285,7 +285,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.31点、口コミ1400件超。「展望露天風呂からの景色が最高でお湯も肌に優しい。」「名物の湯葉料理が絶品で、接客も温かく素晴らしい宿。」とリピーター多数。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.31点、口コミ1400件超。「展望露天風呂からの景色が最高でお湯も肌に優しい」「名物の湯葉料理が絶品で、接客も温かく素晴らしい宿」とリピーター多数。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -369,7 +369,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.46点。「貸切露天風呂からの景色が素晴らしく、お風呂巡りが楽しかった。」「お部屋食の懐石料理がどれも美味しく、細やかな心遣いに感動した。」と高い満足度。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.46点。「貸切露天風呂からの景色が素晴らしく、お風呂巡りが楽しかった」「お部屋食の懐石料理がどれも美味しく、細やかな心遣いに感動した」と高い満足度。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -404,7 +404,7 @@ export default function FurusatoArticlePage() {
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
               <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
                 <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                リニューアルした万葉公園「湯河原惣湯 Books and Retreat。」
+                リニューアルした万葉公園「湯河原惣湯 Books and Retreat」
               </h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 渓流沿いの森林浴と源泉掛け流し足湯、カフェが融合した人気スポット。木漏れ日の中で読書やカフェタイムを優雅に楽しめます。

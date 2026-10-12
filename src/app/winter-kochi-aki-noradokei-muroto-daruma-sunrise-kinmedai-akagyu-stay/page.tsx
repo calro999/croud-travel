@@ -387,7 +387,7 @@ export default function Page() {
                     </p>
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-4 text-xs text-amber-950/90 leading-relaxed italic">
-                  「落ち着いた心地よい空間の中、温かい温泉とおいしいお料理で日頃の疲れを癒やすことができました。」
+                  「落ち着いた心地よい空間の中、温かい温泉とおいしいお料理で日頃の疲れを癒やすことができました」
                 </div>
                   </div>
                 </div>
@@ -453,7 +453,7 @@ export default function Page() {
                     </p>
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-4 text-xs text-amber-950/90 leading-relaxed italic">
-                  「併設レストランと桧の露天風呂でゆったり夕飯は近くの居酒屋、翌朝は古民家のモーニングが気になり、素泊まりで予約。ところが夕は天候が悪くホテル併設のストランを利用しました。通常のレストランのようで、こ。」
+                  「併設レストランと桧の露天風呂でゆったり夕飯は近くの居酒屋、翌朝は古民家のモーニングが気になり、素泊まりで予約。ところが夕は天候が悪くホテル併設のストランを利用しました。通常のレストランのようで、こ」
                 </div>
                   </div>
                 </div>
@@ -519,7 +519,7 @@ export default function Page() {
                     </p>
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-4 text-xs text-amber-950/90 leading-relaxed italic">
-                  「スタンプラリーと卓球で子供が大満足子どものスタンプラリーが楽しめて良かったです。卓球も汗だくで子どもが楽しんでました。」
+                  「スタンプラリーと卓球で子供が大満足子どものスタンプラリーが楽しめて良かったです。卓球も汗だくで子どもが楽しんでました」
                 </div>
                   </div>
                 </div>
@@ -585,7 +585,7 @@ export default function Page() {
                     </p>
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-4 text-xs text-amber-950/90 leading-relaxed italic">
-                  「温泉と焼肉は最高だが駅からの距離が難点温泉(それもph9以上のアルカリ泉、さらにサウナも)や焼肉店が併設されていたので、ただ宿泊するよりも楽しむことができた。一方、鉄道駅から10分以上も歩く必。」
+                  「温泉と焼肉は最高だが駅からの距離が難点温泉(それもph9以上のアルカリ泉、さらにサウナも)や焼肉店が併設されていたので、ただ宿泊するよりも楽しむことができた。一方、鉄道駅から10分以上も歩く必」
                 </div>
                   </div>
                 </div>
@@ -651,7 +651,7 @@ export default function Page() {
                     </p>
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-4 text-xs text-amber-950/90 leading-relaxed italic">
-                  「広く綺麗で大満足の空間広く綺麗で大満足です。」
+                  「広く綺麗で大満足の空間広く綺麗で大満足です」
                 </div>
                   </div>
                 </div>

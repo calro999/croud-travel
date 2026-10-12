@@ -188,7 +188,7 @@ export default function FurusatoRound66ArticlePage() {
                     道後温泉　茶玻瑠
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「食事は満足、立地も最高で散策に便利夕食も朝食も種類が豊富で大変満足でした。また、道後温泉も目の前で温泉街散策にも、とてもいい立地でした。1つお願いがあるとしたら、夕食に子ども用メイン料理がつく…。」
+                    「食事は満足、立地も最高で散策に便利夕食も朝食も種類が豊富で大変満足でした。また、道後温泉も目の前で温泉街散策にも、とてもいい立地でした。1つお願いがあるとしたら、夕食に子ども用メイン料理がつく…」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -243,7 +243,7 @@ export default function FurusatoRound66ArticlePage() {
                     有馬温泉　兵衛向陽閣
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「憧れのお宿で心温まるおもてなしと温泉を満喫憧れのお宿に泊まることができて、とても嬉しかったです。こちらの事情で、チェックインが遅くなり、夕飯が遅いスタートになってしまったのですが、荷物や車など様々…。」
+                    「憧れのお宿で心温まるおもてなしと温泉を満喫憧れのお宿に泊まることができて、とても嬉しかったです。こちらの事情で、チェックインが遅くなり、夕飯が遅いスタートになってしまったのですが、荷物や車など様々…」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -298,7 +298,7 @@ export default function FurusatoRound66ArticlePage() {
                     浜千鳥の湯　海舟（共立リゾート）
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「すべてのサービスが最高でした全サービス最高。」
+                    「すべてのサービスが最高でした全サービス最高」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">

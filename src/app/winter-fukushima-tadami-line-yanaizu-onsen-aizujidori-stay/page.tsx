@@ -170,7 +170,7 @@ export default function FeaturePage() {
             <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold leading-tight">「白銀のJR只見線と赤べこ発祥圓蔵寺」2026-2027年冬の福島・奥会津＆柳津！開湯1200年名湯と会津地鶏名宿5選</h1>
 
             <div className="space-y-3 pt-3 max-w-3xl text-stone-200 text-sm sm:text-base leading-relaxed sm:leading-loose">
-              <p>福島県西部に位置し、只見川の清流と険しい山々に囲まれた奥会津の玄関口・柳津町および大沼郡三島町。世界中の鉄道ファンや旅行者が「世界で最もロマンチックな雪景色の鉄道路線。」と絶賛するJR只見線は、11月から1月の冬期を迎えると、第一只見川橋梁をはじめとするアーチ橋と白銀のブナ原生林、川霧が織りなす水墨画のような幻想美の頂点を迎えます。</p>
+              <p>福島県西部に位置し、只見川の清流と険しい山々に囲まれた奥会津の玄関口・柳津町および大沼郡三島町。世界中の鉄道ファンや旅行者が「世界で最もロマンチックな雪景色の鉄道路線」と絶賛するJR只見線は、11月から1月の冬期を迎えると、第一只見川橋梁をはじめとするアーチ橋と白銀のブナ原生林、川霧が織りなす水墨画のような幻想美の頂点を迎えます。</p>
               <p>只見川の断崖の上にそびえ立ち、会津の守り神「赤べこ」の発祥地として名高い福満虚空藏菩薩圓蔵寺（柳津虚空蔵尊）では、新春の厄除け初詣や毎年1月7日に下帯姿の男衆が麻縄をよじ登る天下の奇祭「七日堂裸まいり」が厳かに執り行われます。開湯1200年の名湯「柳津温泉」や只見川の川面を望む早戸温泉・宮下温泉の雪見露天風呂、コクと弾力あふれる「会津地鶏の水炊き鍋」や会津名物「極上馬刺し」、蒸したて熱々の柳津あわまんじゅう。静寂と温もりに包まれる奥会津の冬ごもりへと旅人を誘います。</p>
             </div>
           </div>
@@ -411,7 +411,7 @@ export default function FeaturePage() {
                     
                 <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「実家のようにくつろげる安心感我が家や実家の様な場所です つづ。」"}</p>
+                  <p className="leading-relaxed">{"「実家のようにくつろげる安心感我が家や実家の様な場所です つづ」"}</p>
                 </div>
             
                   </div>
@@ -473,7 +473,7 @@ export default function FeaturePage() {
                     
                 <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「眺めとお風呂がサイコー 割引情報の周知を希望お風呂と部屋からの眺めサイコー福島割りの情報なく一人三千円損した感じ(_)畳替えたんですね また行きます。」"}</p>
+                  <p className="leading-relaxed">{"「眺めとお風呂がサイコー 割引情報の周知を希望お風呂と部屋からの眺めサイコー福島割りの情報なく一人三千円損した感じ(_)畳替えたんですね また行きます」"}</p>
                 </div>
             
                   </div>
@@ -535,7 +535,7 @@ export default function FeaturePage() {
                     
                 <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「美味しい食事と熱いお風呂に大満足ご飯がとても美味しかったです。でも、土地柄か、全体的に味が濃いので、その点はご注意を。子どもたち(小6・中2)が馬刺しにハマりました。あと、五穀米が程よく味があって… 投。」"}</p>
+                  <p className="leading-relaxed">{"「美味しい食事と熱いお風呂に大満足ご飯がとても美味しかったです。でも、土地柄か、全体的に味が濃いので、その点はご注意を。子どもたち(小6・中2)が馬刺しにハマりました。あと、五穀米が程よく味があって… 投」"}</p>
                 </div>
             
                   </div>

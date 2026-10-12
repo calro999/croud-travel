@@ -47,7 +47,7 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"熊本で全国的に有名なサウナの聖地に宿泊できる？","acceptedAnswer":{"@type":"Answer","text":"「サウナと天然温泉 湯けむり天国 湯らっくす。」は宿泊・カプセル利用が可能。アウフグースや塩サウナ、天然水風呂、名物サウナ飯（麻婆豆腐等）を24時間満喫できます。"}},{"@type":"Question","name":"繁華街の真ん中で眺望の良い露天風呂とサウナがあるホテルは？","acceptedAnswer":{"@type":"Answer","text":"「カンデオホテルズ熊本新市街」は新市街アーケードすぐ。最上階の展望露天「スカイスパ」とオートロウリュサウナで極上のリラックスが味わえます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"熊本で全国的に有名なサウナの聖地に宿泊できる？","acceptedAnswer":{"@type":"Answer","text":"「サウナと天然温泉 湯けむり天国 湯らっくす」は宿泊・カプセル利用が可能。アウフグースや塩サウナ、天然水風呂、名物サウナ飯（麻婆豆腐等）を24時間満喫できます。"}},{"@type":"Question","name":"繁華街の真ん中で眺望の良い露天風呂とサウナがあるホテルは？","acceptedAnswer":{"@type":"Answer","text":"「カンデオホテルズ熊本新市街」は新市街アーケードすぐ。最上階の展望露天「スカイスパ」とオートロウリュサウナで極上のリラックスが味わえます。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -224,7 +224,7 @@ export default function ArticlePage() {
                 <dt className="text-stone-500 font-medium">所在地</dt>
                 <dd className="sm:col-span-3 text-stone-800">熊本県熊本市中央区辛島町3-1</dd>
                 <dt className="text-stone-500 font-medium">アクセス</dt>
-                <dd className="sm:col-span-3 text-stone-800">◆空港よりバス「熊本桜町バスターミナル(旧称熊本交通センター)。」下車徒歩1分◆ＪＲ熊本駅から路面電車「辛島町」下車2分</dd>
+                <dd className="sm:col-span-3 text-stone-800">◆空港よりバス「熊本桜町バスターミナル(旧称熊本交通センター)」下車徒歩1分◆ＪＲ熊本駅から路面電車「辛島町」下車2分</dd>
               </dl>
             </div>
 
@@ -340,7 +340,7 @@ export default function ArticlePage() {
                 <span>熊本で全国的に有名なサウナの聖地に宿泊できる？</span>
               </h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
-                「サウナと天然温泉 湯けむり天国 湯らっくす。」は宿泊・カプセル利用が可能。アウフグースや塩サウナ、天然水風呂、名物サウナ飯（麻婆豆腐等）を24時間満喫できます。
+                「サウナと天然温泉 湯けむり天国 湯らっくす」は宿泊・カプセル利用が可能。アウフグースや塩サウナ、天然水風呂、名物サウナ飯（麻婆豆腐等）を24時間満喫できます。
               </p>
             </div>
             <div className="bg-white p-4 sm:p-5 rounded-xl border border-stone-200">
@@ -394,7 +394,7 @@ export default function ArticlePage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">14:00〜</strong> 熊本駅よりアクセス。◆空港よりバス「熊本桜町バスターミナル(旧称熊本交通センター)。」下車徒歩1分◆ＪＲ熊本駅から路面電車「辛島町」下車2分。</li>
+                <li>・<strong className="text-stone-800">14:00〜</strong> 熊本駅よりアクセス。◆空港よりバス「熊本桜町バスターミナル(旧称熊本交通センター)」下車徒歩1分◆ＪＲ熊本駅から路面電車「辛島町」下車2分。</li>
                 <li>・<strong className="text-stone-800">15:30〜</strong> 「天然温泉 六花の湯 ドーミーイン熊本」にチェックイン。■最上階に露天風呂付！天然温泉大浴場（サウナ完備）■桜町バスターミナルの目の前■繁華街へも徒歩圏内などの宿の特徴に期待を高めつつ客室へ。</li>
                 <li>・<strong className="text-stone-800">17:00〜</strong> 「天然温泉 六花の湯 ドーミーイン熊本」の湯処へ。■最上階に露天風呂付！天然温泉大浴場（サウナ完備）■桜町バスターミナルとともに、夕暮れの特別な寛ぎを満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「天然温泉 六花の湯 ドーミーイン熊本」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>

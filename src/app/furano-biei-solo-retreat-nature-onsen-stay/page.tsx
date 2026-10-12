@@ -48,7 +48,7 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"富良野駅前で天然温泉大浴場とサウナがあるホテルは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 紫雲の湯 ラビスタ富良野ヒルズ。」はJR富良野駅から徒歩約3分。最上階に天然温泉大浴場と露天風呂、高温サウナを完備し、無料の夜鳴きそばも楽しめます。"}},{"@type":"Question","name":"森の中で静かに過ごしたい大人のおこもりにおすすめは？","acceptedAnswer":{"@type":"Answer","text":"「新富良野プリンスホテル」は豊かな自然林に囲まれ、「ニングルテラス」やカフェ「森の時計」、富良野温泉「紫彩の湯」を備えた本格リゾートです。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"富良野駅前で天然温泉大浴場とサウナがあるホテルは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 紫雲の湯 ラビスタ富良野ヒルズ」はJR富良野駅から徒歩約3分。最上階に天然温泉大浴場と露天風呂、高温サウナを完備し、無料の夜鳴きそばも楽しめます。"}},{"@type":"Question","name":"森の中で静かに過ごしたい大人のおこもりにおすすめは？","acceptedAnswer":{"@type":"Answer","text":"「新富良野プリンスホテル」は豊かな自然林に囲まれ、「ニングルテラス」やカフェ「森の時計」、富良野温泉「紫彩の湯」を備えた本格リゾートです。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -365,7 +365,7 @@ export default function ArticlePage() {
                 <span>富良野駅前で天然温泉大浴場とサウナがあるホテルは？</span>
               </h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
-                「天然温泉 紫雲の湯 ラビスタ富良野ヒルズ。」はJR富良野駅から徒歩約3分。最上階に天然温泉大浴場と露天風呂、高温サウナを完備し、無料の夜鳴きそばも楽しめます。
+                「天然温泉 紫雲の湯 ラビスタ富良野ヒルズ」はJR富良野駅から徒歩約3分。最上階に天然温泉大浴場と露天風呂、高温サウナを完備し、無料の夜鳴きそばも楽しめます。
               </p>
             </div>
             <div className="bg-white p-4 sm:p-5 rounded-xl border border-stone-200">
@@ -420,9 +420,9 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 富良野駅よりアクセス。ＪＲ富良野駅より徒歩3分・旭川空港からバスで約1時間・新千歳空港からお車で約2時間10分・札幌市内からお車で約2時間。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「天然温泉 紫雲の湯 ラビスタ富良野ヒルズ。」にチェックイン。富良野市内一望できる最上階天然温泉大浴場・貸切風呂完備♪ファミリーにも安心なお子様アメニティも充実！などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「天然温泉 紫雲の湯 ラビスタ富良野ヒルズ。」の湯処へ。富良野市内一望できる最上階天然温泉大浴場・貸切風呂完備♪ファミリーにもとともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「天然温泉 紫雲の湯 ラビスタ富良野ヒルズ。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「天然温泉 紫雲の湯 ラビスタ富良野ヒルズ」にチェックイン。富良野市内一望できる最上階天然温泉大浴場・貸切風呂完備♪ファミリーにも安心なお子様アメニティも充実！などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「天然温泉 紫雲の湯 ラビスタ富良野ヒルズ」の湯処へ。富良野市内一望できる最上階天然温泉大浴場・貸切風呂完備♪ファミリーにもとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「天然温泉 紫雲の湯 ラビスタ富良野ヒルズ」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -431,8 +431,8 @@ export default function ArticlePage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「天然温泉 紫雲の湯 ラビスタ富良野ヒルズ。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「天然温泉 紫雲の湯 ラビスタ富良野ヒルズ。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「天然温泉 紫雲の湯 ラビスタ富良野ヒルズ」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「天然温泉 紫雲の湯 ラビスタ富良野ヒルズ」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「新富良野プリンスホテル」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>

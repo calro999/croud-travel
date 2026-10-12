@@ -201,7 +201,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.67点、口コミ1300件超。「大露天風呂の開放感とお湯の良さが素晴らしく、お料理も芸術品のように美味しい。」「接客が洗練されていて感動」と絶賛。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.67点、口コミ1300件超。「大露天風呂の開放感とお湯の良さが素晴らしく、お料理も芸術品のように美味しい」「接客が洗練されていて感動」と絶賛。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -285,7 +285,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.56点、口コミ9200件超という圧倒的実績。「お風呂もプールもバイキングも大満足」「スタッフの子供への気配りが素晴らしく三世代旅行に最高。」と大好評。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.56点、口コミ9200件超という圧倒的実績。「お風呂もプールもバイキングも大満足」「スタッフの子供への気配りが素晴らしく三世代旅行に最高」と大好評。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -369,7 +369,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.24点、口コミ5400件超。「お風呂の種類が多くて硫黄泉が本格的」「バイキングが美味しく子供もプールで大はしゃぎだった。」とファミリーに大人気。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.24点、口コミ5400件超。「お風呂の種類が多くて硫黄泉が本格的」「バイキングが美味しく子供もプールで大はしゃぎだった」とファミリーに大人気。</p>
               </div>
 
               {/* 宿基本情報 */}

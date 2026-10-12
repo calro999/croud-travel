@@ -201,7 +201,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.67点、口コミ1400件超。「露天風呂の硫黄泉が素晴らしく星空が最高に綺麗だった。」「伝統のフレンチが絶品でスタッフの気配りも一流。」と絶賛。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.67点、口コミ1400件超。「露天風呂の硫黄泉が素晴らしく星空が最高に綺麗だった」「伝統のフレンチが絶品でスタッフの気配りも一流」と絶賛。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -285,7 +285,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.60点、口コミ1200件超。「部屋からの湖の景色が絵画のよう」「二種類のお風呂がどちらも素晴らしく、野菜たっぷりの料理も美味しかった。」と高評価。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.60点、口コミ1200件超。「部屋からの湖の景色が絵画のよう」「二種類のお風呂がどちらも素晴らしく、野菜たっぷりの料理も美味しかった」と高評価。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -369,7 +369,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.33点、口コミ800件超。「お風呂の硫黄泉が本格的でとても気持ちよかった。」「部屋から湖が見えて立地も良く、スタッフも親切だった。」と評判です。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.33点、口コミ800件超。「お風呂の硫黄泉が本格的でとても気持ちよかった」「部屋から湖が見えて立地も良く、スタッフも親切だった」と評判です。</p>
               </div>
 
               {/* 宿基本情報 */}

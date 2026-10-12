@@ -201,7 +201,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.64点、口コミ6200件超。「駅直結で便利すぎる、お部屋からの夜景が圧巻。」「朝食ビュッフェのオムレツやひつまぶしが最高に美味しい。」と大絶賛。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.64点、口コミ6200件超。「駅直結で便利すぎる、お部屋からの夜景が圧巻」「朝食ビュッフェのオムレツやひつまぶしが最高に美味しい」と大絶賛。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -285,7 +285,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.63点、口コミ高評価。「お部屋が広くてテラスが最高、プールも高級感がある。」「スタッフの接客がとても丁寧で洗練された大人のホテル。」と評判。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.63点、口コミ高評価。「お部屋が広くてテラスが最高、プールも高級感がある」「スタッフの接客がとても丁寧で洗練された大人のホテル」と評判。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -369,7 +369,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.55点、口コミ2600件超。「老舗ならではの行き届いた接客とおもてなしに感動。」「お部屋の改装が綺麗でベッドも寝心地が良く大満足。」と信頼の評価。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.55点、口コミ2600件超。「老舗ならではの行き届いた接客とおもてなしに感動」「お部屋の改装が綺麗でベッドも寝心地が良く大満足」と信頼の評価。</p>
               </div>
 
               {/* 宿基本情報 */}

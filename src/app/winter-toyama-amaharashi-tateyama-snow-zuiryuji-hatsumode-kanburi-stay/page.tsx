@@ -397,7 +397,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「富山湾の絶景と絶品フレンチ、最高のおもてなし北アルプスの薬師岳に登った後に氷見のイミグレさんにおじゃましました。」"}</span>
+                  <span>{"「富山湾の絶景と絶品フレンチ、最高のおもてなし北アルプスの薬師岳に登った後に氷見のイミグレさんにおじゃましました」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -464,7 +464,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「割引でお得に宿泊、料理も美味しく完食氷見割ほかの割引が多数使えて安く泊まれました。部屋は狭めで、テレビをどこから見るか迷いましたが、料理はおいしく、完食させていただきました。風呂も狭めですが、男性。」"}</span>
+                  <span>{"「割引でお得に宿泊、料理も美味しく完食氷見割ほかの割引が多数使えて安く泊まれました。部屋は狭めで、テレビをどこから見るか迷いましたが、料理はおいしく、完食させていただきました。風呂も狭めですが、男性」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -531,7 +531,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「癒される旅一人旅で利用させていただきました。建物の年数は感じますが、お部屋などリノベーションされておりとても綺麗でした。14時～21時までのソフトクリームとコーヒーお茶でロビーで雑誌を読みなが。」"}</span>
+                  <span>{"「癒される旅一人旅で利用させていただきました。建物の年数は感じますが、お部屋などリノベーションされておりとても綺麗でした。14時～21時までのソフトクリームとコーヒーお茶でロビーで雑誌を読みなが」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -598,7 +598,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「全体的に良かったです。もう少し食事が良ければ、最高です。」"}</span>
+                  <span>{"「全体的に良かったです。もう少し食事が良ければ、最高です」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -665,7 +665,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「受付の人の対応が悪いチェックインの対応する人数が一人しかいないためずいぶん待たされた。機械の導入等を考えた方が良い。」"}</span>
+                  <span>{"「受付の人の対応が悪いチェックインの対応する人数が一人しかいないためずいぶん待たされた。機械の導入等を考えた方が良い」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -722,7 +722,7 @@ export default function Page() {
             <h4 className="font-bold text-stone-900 text-sm mt-3 first:mt-0">【エリアへのアクセス】</h4>
             <p className="text-xs text-stone-600 leading-relaxed pl-2">・電車・新幹線：JR北陸新幹線「新高岡駅」下車。JR城端線に乗り換えて高岡駅まで約3分。雨晴海岸へは高岡駅よりJR氷見線で「雨晴駅」まで約22分、駅より徒歩約5分。国宝瑞龍寺へは新高岡駅北口より徒歩約15分、または高岡駅瑞龍寺口より徒歩約10分。氷見温泉郷へは高岡駅よりJR氷見線で氷見駅まで約30分、各宿の無料送迎バス運行。</p>
             <p className="text-xs text-stone-600 leading-relaxed pl-2">・車・マイカー：能越自動車道「高岡北IC」より雨晴海岸まで約15分、「氷見IC」より氷見温泉郷まで約10分。能越自動車道「高岡IC」より瑞龍寺まで約10分。東京（練馬IC）から関越・上信越・北陸道経由で約4時間30分、大阪（吹田IC）から名神・北陸道経由で約3時間45分。</p>
-            <p className="text-xs text-stone-600 leading-relaxed pl-2">・観光列車：土日祝日を中心にJR氷見線・城端線を走る観光列車「べるもんた（ベル・モンターニュ・エ・メール）。」から車窓の富山湾と立山連峰を望む旅も大人気。</p>
+            <p className="text-xs text-stone-600 leading-relaxed pl-2">・観光列車：土日祝日を中心にJR氷見線・城端線を走る観光列車「べるもんた（ベル・モンターニュ・エ・メール）」から車窓の富山湾と立山連峰を望む旅も大人気。</p>
             <h4 className="font-bold text-stone-900 text-sm mt-3 first:mt-0">【見頃・気候・おすすめの服装】</h4>
             <p className="text-xs text-stone-600 leading-relaxed pl-2">・ベストシーズン：11月下旬〜1月下旬（ひみ寒ぶりの最盛期、冠雪立山連峰のベストビュー、瑞龍寺新春初詣）。</p>
             <p className="text-xs text-stone-600 leading-relaxed pl-2">・気温の目安：日本海側の冬気候のため、12月下旬〜1月は雪の日が多くなります。最高気温は5〜8℃、最低気温は0℃前後に冷え込みます。冬晴れの日は放射冷却で朝の気温が氷点下に達します。</p>

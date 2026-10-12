@@ -110,7 +110,7 @@ export default function Page() {
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172875%2F172875.html",
     "featureKey": "tile_sekishu",
     "featureLabel": "島根県江津市・浜田市ふるさと納税・赤瓦が日本海の夕日に映える伝統工芸「石州瓦の町」開湯1300年の名湯有福温泉ステイ",
-    "themeTitle": "島根県江津市・益田市ふるさと納税：赤瓦が美しい石州街道のモダン温泉ホテル「MASCOS HOTEL（マスコスホテル）。」",
+    "themeTitle": "島根県江津市・益田市ふるさと納税：赤瓦が美しい石州街道のモダン温泉ホテル「MASCOS HOTEL（マスコスホテル）」",
     "themeDesc": "赤瓦が街並みを彩る石見地方に位置し、石州瓦や地元木材、伝統工芸を取り入れたデザインホテル。地下から湧き出る天然温泉大浴場を備え、山陰日本海直送の極上のどぐろや石見ポークを活かしたクラフトダイニングを楽しめます。",
     "revAvg": "4.5",
     "minCharge": "4,400"

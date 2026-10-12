@@ -143,7 +143,7 @@ export default function UsjHalloweenFeaturePage() {
               access: "ユニバーサルシティ駅より徒歩約１分",
               special: "パークに1番近いオフィシャルホテル☆ユニバーサルシティ駅から徒歩1分の好立地！",
               url: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147805%2F147805.html",
-              story: "ユニバーサルシティ駅とパークのメインゲートを結ぶメインストリートに面し、USJメインゲートまで徒歩わずか1分という至極の特等席に位置する「ザ パーク フロント ホテル アット ユニバーサル・スタジオ・ジャパン。」。タイムトラベルをコンセプトにした館内は、アメリカの過去から未来へと旅するような洗練されたエンターテインメント空間です。パークビュールームからは夜のパークの煌びやかなネオンやジェットコースターのライトアップを目の前に見下ろすことができ、ホラーナイトの興奮冷めやらぬまま贅沢な夜を過ごせます。専用セキュリティエレベーターや充実の設備で、家族連れやカップルに圧倒的人気を誇ります。",
+              story: "ユニバーサルシティ駅とパークのメインゲートを結ぶメインストリートに面し、USJメインゲートまで徒歩わずか1分という至極の特等席に位置する「ザ パーク フロント ホテル アット ユニバーサル・スタジオ・ジャパン」。タイムトラベルをコンセプトにした館内は、アメリカの過去から未来へと旅するような洗練されたエンターテインメント空間です。パークビュールームからは夜のパークの煌びやかなネオンやジェットコースターのライトアップを目の前に見下ろすことができ、ホラーナイトの興奮冷めやらぬまま贅沢な夜を過ごせます。専用セキュリティエレベーターや充実の設備で、家族連れやカップルに圧倒的人気を誇ります。",
               roomTip: "パークビュールームまたはスーペリアフロア。窓一面に広がるUSJの夜景とパークの歓声を感じられるプレミアムな眺望。",
               gourmetTip: "ブッフェダイニング「アーカラ」の秋のディナーブッフェ。シェフが目の前でカッティングするジューシーなローストビーフやハロウィーン特製デザート。",
               highlights: [
@@ -337,7 +337,7 @@ export default function UsjHalloweenFeaturePage() {
             <div className="border-l-4 border-purple-600 pl-4 mb-6">
               <span className="text-xs font-bold text-purple-600 tracking-wider uppercase">Horror Maze & Survival</span>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                生還率わずか！？背筋が凍る「バイオハザード・ナイト・オブ・ヒーローズ。」と体験型メイズ
+                生還率わずか！？背筋が凍る「バイオハザード・ナイト・オブ・ヒーローズ」と体験型メイズ
               </h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">

@@ -394,7 +394,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「料理に温泉日本酒1人旅にも優しい良い宿です。」"}</span>
+                  <span>{"「料理に温泉日本酒1人旅にも優しい良い宿です」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -461,7 +461,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「飛騨牛づくしの食事とマッサージチェアで大満足主人の誕生日旅行の為、奮発してマッサージチェア付きの部屋で飛騨牛のプランにしました。夕食はほんとに肉づくし、刺身の内容の中にもサーモン、カツオにロースト。」"}</span>
+                  <span>{"「飛騨牛づくしの食事とマッサージチェアで大満足主人の誕生日旅行の為、奮発してマッサージチェア付きの部屋で飛騨牛のプランにしました。夕食はほんとに肉づくし、刺身の内容の中にもサーモン、カツオにロースト」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -528,7 +528,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「バイクの屋根付き駐車場雨は降っていませんでしたが、バイクは屋根の下に駐車でき有り難かったです。リーズナブルということで食事の量はちょっと少なめだけど、品数もありちょうどいい感じで、美味しかった。」"}</span>
+                  <span>{"「バイクの屋根付き駐車場雨は降っていませんでしたが、バイクは屋根の下に駐車でき有り難かったです。リーズナブルということで食事の量はちょっと少なめだけど、品数もありちょうどいい感じで、美味しかった」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -595,7 +595,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「中津川や馬籠への観光に便利な立地中津川宿、馬籠宿に便利。館内は、スリッパで綺麗、茶漬けサービスは良いよ他の画像や。」"}</span>
+                  <span>{"「中津川や馬籠への観光に便利な立地中津川宿、馬籠宿に便利。館内は、スリッパで綺麗、茶漬けサービスは良いよ他の画像や」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">

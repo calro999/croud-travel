@@ -193,7 +193,7 @@ export default function FurusatoStrawberryBuffetSweetsStayPage() {
                     那須高原の雄大な自然に囲まれた総合リゾートホテル。いちごの生産量日本一を誇る栃木県ならではの、地元契約農家から届くとちおとめやスカイベリーをふんだんに使用した大人気のストロベリーフェアを開催。ホテル名物のバイキングレストラン「エルバージュ」では、数十種類のいちごスイーツに加え、握り寿司や那須高原野菜、焼き立てステーキなど豪華な料理が並びます。敷地内から湧き出る天然温泉の大型大浴場や露天風呂、温水プール、キッズコーナーなども完備し、ファミリーからカップルまで圧倒的な満足度を誇る名宿です。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「バイキングと便利な設備で3回目のリピートバイキングがどれも美味しかったです。特にローストビーフと、那須牛乳を使ったバニラアイスが最高でした。また、廊下に氷とウォーターサーバーが設置してあるので…。」
+                    「バイキングと便利な設備で3回目のリピートバイキングがどれも美味しかったです。特にローストビーフと、那須牛乳を使ったバニラアイスが最高でした。また、廊下に氷とウォーターサーバーが設置してあるので…」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -254,7 +254,7 @@ export default function FurusatoStrawberryBuffetSweetsStayPage() {
                     神戸の六甲アイランドに位置し、世界基準のラグジュアリーと和の温もりが融合する名門シェラトンホテル。春先には館内レストラン「ガーデンカフェ」で毎年大人気のストロベリースイーツビュッフェが開催され、華やかな苺スイーツやシェフ特製の本格料理が並びます。最大の魅力は、敷地内の地下1,600mから湧き出る本格的な自家源泉の天然温泉スパ「濱泉（はまいずみ）」。打たせ湯や露天風呂、サウナを完備した優雅な湯処でリフレッシュした後にいただく甘酸っぱいいちごスイーツは、至極の贅沢体験です。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「温泉とラウンジ、食事を存分に満喫!温泉、ラウンジ、食事など満喫しました。」
+                    「温泉とラウンジ、食事を存分に満喫!温泉、ラウンジ、食事など満喫しました」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -315,7 +315,7 @@ export default function FurusatoStrawberryBuffetSweetsStayPage() {
                     東京湾を望む幕張新都心に位置し、ホテルニューオータニの伝統を受け継ぐ洗練されたホスピタリティを誇るシティ＆リゾートホテル。ホテルニューオータニの代名詞とも言える「博多あまおう」を贅沢に使った「スーパーあまおうショートケーキ」やロールケーキ、タルトなどがビュッフェ形式で惜しみなく提供されるストロベリーフェアは、全国から予約が殺到する伝説的イベント。緑豊かな日本庭園や開放的な客室、貝殻型プールなどを備え、都心からのアクセスも良好な都会のオアシスで至福のスイーツステイを堪能できます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「落ち着いた心地よい空間の中、温かい温泉とおいしいお料理で日頃の疲れを癒やすことができました。」
+                    「落ち着いた心地よい空間の中、温かい温泉とおいしいお料理で日頃の疲れを癒やすことができました」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">

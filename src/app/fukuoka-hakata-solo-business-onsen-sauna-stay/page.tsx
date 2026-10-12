@@ -47,7 +47,7 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"博多駅近くで天然温泉大浴場が最も広くて快適なホテルは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 八百治の湯 八百治博多ホテル」は博多駅から徒歩約5分。地下1,250mから湧出する豊富な湯量を誇る広々とした天然温泉大浴場とサウナを完備しています。"}},{"@type":"Question","name":"中洲の歓楽街にも近く、サウナと夜食サービスが充実している宿は？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 御笠の湯 ドーミーイン博多祇園。」は地下鉄祇園駅すぐ、中洲へも徒歩圏内。自家源泉の天然温泉大浴場、高温サウナ、名物夜鳴きそばが無料で楽しめます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"博多駅近くで天然温泉大浴場が最も広くて快適なホテルは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 八百治の湯 八百治博多ホテル」は博多駅から徒歩約5分。地下1,250mから湧出する豊富な湯量を誇る広々とした天然温泉大浴場とサウナを完備しています。"}},{"@type":"Question","name":"中洲の歓楽街にも近く、サウナと夜食サービスが充実している宿は？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 御笠の湯 ドーミーイン博多祇園」は地下鉄祇園駅すぐ、中洲へも徒歩圏内。自家源泉の天然温泉大浴場、高温サウナ、名物夜鳴きそばが無料で楽しめます。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -372,7 +372,7 @@ export default function ArticlePage() {
                 <span>中洲の歓楽街にも近く、サウナと夜食サービスが充実している宿は？</span>
               </h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
-                「天然温泉 御笠の湯 ドーミーイン博多祇園。」は地下鉄祇園駅すぐ、中洲へも徒歩圏内。自家源泉の天然温泉大浴場、高温サウナ、名物夜鳴きそばが無料で楽しめます。
+                「天然温泉 御笠の湯 ドーミーイン博多祇園」は地下鉄祇園駅すぐ、中洲へも徒歩圏内。自家源泉の天然温泉大浴場、高温サウナ、名物夜鳴きそばが無料で楽しめます。
               </p>
             </div>
           </div>
@@ -431,7 +431,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「天然温泉 八百治の湯 八百治博多ホテル」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「天然温泉 八百治の湯 八百治博多ホテル」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「天然温泉 御笠の湯 ドーミーイン博多祇園。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「天然温泉 御笠の湯 ドーミーイン博多祇園」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>

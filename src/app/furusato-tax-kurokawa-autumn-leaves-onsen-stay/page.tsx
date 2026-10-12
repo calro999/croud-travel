@@ -130,7 +130,7 @@ export default function FeatureArticlePage() {
               秋の風情と旬の味覚を堪能する特別な旅
             </h2>
             <p className="text-stone-700 leading-relaxed text-sm md:text-base mb-6">
-              阿蘇の山深くに佇む黒川温泉は、「街全体が一つの宿、通りは廊下、旅館は客室。」という理念のもと統一された景観美を誇る全国屈指の人気温泉郷。秋になると田の原川沿いの木々が一斉に色づき、杉木立に囲まれた露天風呂から見上げる紅葉は格別の風情。名物の入湯手形を使って異なる源泉やユニークな洞窟風呂・立ち湯などを巡り、あか牛ステーキに舌鼓を打てます。
+              阿蘇の山深くに佇む黒川温泉は、「街全体が一つの宿、通りは廊下、旅館は客室」という理念のもと統一された景観美を誇る全国屈指の人気温泉郷。秋になると田の原川沿いの木々が一斉に色づき、杉木立に囲まれた露天風呂から見上げる紅葉は格別の風情。名物の入湯手形を使って異なる源泉やユニークな洞窟風呂・立ち湯などを巡り、あか牛ステーキに舌鼓を打てます。
             </p>
             <div className="bg-amber-50/80 rounded-xl p-5 border border-amber-200/80">
               <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2">

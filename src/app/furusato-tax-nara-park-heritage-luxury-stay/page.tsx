@@ -201,7 +201,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.63点、口コミ2600件超。「建物の歴史と気品に圧倒された、まさに文化財に泊まる体験。」「三笠でのディナーも朝食の茶粥も素晴らしく至福の時間だった。」と大絶賛。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.63点、口コミ2600件超。「建物の歴史と気品に圧倒された、まさに文化財に泊まる体験」「三笠でのディナーも朝食の茶粥も素晴らしく至福の時間だった」と大絶賛。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -285,7 +285,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.79点、口コミ極めて高評価。「お部屋の露天風呂とお庭の景色が最高で完璧なプライベート感。」「お料理がどれも美味しく、スタッフの気配りも一流。」と最高峰の評価。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.79点、口コミ極めて高評価。「お部屋の露天風呂とお庭の景色が最高で完璧なプライベート感」「お料理がどれも美味しく、スタッフの気配りも一流」と最高峰の評価。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -369,7 +369,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.00点。「JWブランドならではの豪華な内装とプールの設備が素晴らしい。」「朝食ビュッフェが美味しく、ラウンジのカクテルタイムも優雅だった。」と高評価。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.00点。「JWブランドならではの豪華な内装とプールの設備が素晴らしい」「朝食ビュッフェが美味しく、ラウンジのカクテルタイムも優雅だった」と高評価。</p>
               </div>
 
               {/* 宿基本情報 */}

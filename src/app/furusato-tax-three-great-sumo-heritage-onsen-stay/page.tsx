@@ -188,7 +188,7 @@ export default function FurusatoRound65ArticlePage() {
                     第一ホテル両国
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「部屋は暑かったが価格は非常に手頃全館空調との事でしたが、猛暑でしかも雨。湿度も高かったのでお部屋が暑かった。個別に空調の温度が調整出来たら良かった。このお部屋の広さでこの値段は申し訳無いと思う位、…。」
+                    「部屋は暑かったが価格は非常に手頃全館空調との事でしたが、猛暑でしかも雨。湿度も高かったのでお部屋が暑かった。個別に空調の温度が調整出来たら良かった。このお部屋の広さでこの値段は申し訳無いと思う位、…」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -243,7 +243,7 @@ export default function FurusatoRound65ArticlePage() {
                     出雲・玉造温泉　白石家
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「スタッフの温かい心遣いに感動しましたスタッフのかたの教育がしっかりされていて、気持ちよく過ごせます。食事の席や車にスタッフのかたからの素敵なご挨拶が書いてありあたたかい気持ちになりました。… つづきはこち��。」
+                    「スタッフの温かい心遣いに感動しましたスタッフのかたの教育がしっかりされていて、気持ちよく過ごせます。食事の席や車にスタッフのかたからの素敵なご挨拶が書いてありあたたかい気持ちになりました。… つづきはこち��」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">

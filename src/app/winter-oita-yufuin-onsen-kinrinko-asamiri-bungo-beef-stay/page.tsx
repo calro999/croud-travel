@@ -597,7 +597,7 @@ export default function YufuinOnsenWinterPage() {
                 <h3 className="font-bold text-slate-900 text-sm sm:text-base">由布院アートギャラリー巡り〜カフェタイムとお土産選び</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
-                チェックアウト後は「COMICO ART MUSEUM YUFUIN。」などの現代美術館や民芸村へ。静寂な冬の森に佇む美術館でアート鑑賞を楽しんだ後は、金鱗湖畔のカフェで温かい珈琲とスイーツを堪能。駅前通りで大分名産のカボス製品や柚子胡椒、とり天せんべいなどのお土産を購入し、満足感に包まれながら帰路へ。
+                チェックアウト後は「COMICO ART MUSEUM YUFUIN」などの現代美術館や民芸村へ。静寂な冬の森に佇む美術館でアート鑑賞を楽しんだ後は、金鱗湖畔のカフェで温かい珈琲とスイーツを堪能。駅前通りで大分名産のカボス製品や柚子胡椒、とり天せんべいなどのお土産を購入し、満足感に包まれながら帰路へ。
               </p>
             </div>
           </div>

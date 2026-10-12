@@ -201,7 +201,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.43点、口コミ2100件超。「お部屋の温泉露天風呂が広く泉質も最高」「スタッフの接客が行き届いており、お料理も一品一品が絶品だった。」と高い信頼を獲得。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.43点、口コミ2100件超。「お部屋の温泉露天風呂が広く泉質も最高」「スタッフの接客が行き届いており、お料理も一品一品が絶品だった」と高い信頼を獲得。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -285,7 +285,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.48点、口コミ1100件超。「部屋のお風呂が檜造りで景色もよく最高」「貸切風呂が無料でたくさんあり、食事もボリューム満点で美味しかった。」と大好評。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.48点、口コミ1100件超。「部屋のお風呂が檜造りで景色もよく最高」「貸切風呂が無料でたくさんあり、食事もボリューム満点で美味しかった」と大好評。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -369,7 +369,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.56点、口コミ2900件超。「ビュッフェの美味しさと種類の多さに感動」「館内全体がアロマの良い香りに包まれ、森の中で本当にリフレッシュできた。」と絶賛。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.56点、口コミ2900件超。「ビュッフェの美味しさと種類の多さに感動」「館内全体がアロマの良い香りに包まれ、森の中で本当にリフレッシュできた」と絶賛。</p>
               </div>
 
               {/* 宿基本情報 */}

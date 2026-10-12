@@ -333,7 +333,7 @@ export default function Page() {
             </div>
             <div className="bg-stone-950/60 p-4 rounded-2xl border border-stone-800">
               <span className="text-amber-400 font-bold block mb-1">💡 旅のワンポイント・秘訣</span>
-              <span className="text-stone-300">超有名店「日の出製麺所（坂出市）」の店頭うどん営業時間は「昼の11:30〜12:30のわずか1時間。」という幻のうどん店として有名です。</span>
+              <span className="text-stone-300">超有名店「日の出製麺所（坂出市）」の店頭うどん営業時間は「昼の11:30〜12:30のわずか1時間」という幻のうどん店として有名です。</span>
             </div>
           </div>
 

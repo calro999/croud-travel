@@ -461,7 +461,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「半露天風呂と女将さんの心遣いに大満足半露天風呂付きのお部屋を予約しましたがチェックアウトまで温度管理がされていて、とても快適で気持ちの良いお風呂で温泉宿を満喫出来ました。女将さんが夕食の時色々。」"}</span>
+                  <span>{"「半露天風呂と女将さんの心遣いに大満足半露天風呂付きのお部屋を予約しましたがチェックアウトまで温度管理がされていて、とても快適で気持ちの良いお風呂で温泉宿を満喫出来ました。女将さんが夕食の時色々」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -528,7 +528,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「禁煙室なのに廊下からタバコの煙が入り込む一階の部屋は禁煙部屋でも廊下からタバコの煙が入ってきて部屋中が臭くなる。」"}</span>
+                  <span>{"「禁煙室なのに廊下からタバコの煙が入り込む一階の部屋は禁煙部屋でも廊下からタバコの煙が入ってきて部屋中が臭くなる」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -595,7 +595,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「駅近で部屋も広くバスタブも大きく大満足素泊まりで2泊しましたが、駅近と言うロケーションですが、価格が安いし、部屋はこの値段ではほぉ～というくらい広いですし、バスタブも大きくて大満足でした。また。」"}</span>
+                  <span>{"「駅近で部屋も広くバスタブも大きく大満足素泊まりで2泊しましたが、駅近と言うロケーションですが、価格が安いし、部屋はこの値段ではほぉ～というくらい広いですし、バスタブも大きくて大満足でした。また」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -662,7 +662,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「バスタブにお湯をためようかと思いましたが、バスタブを指でこすると垢がすごかったのでやめました。洗面所のコップにも汚。」"}</span>
+                  <span>{"「バスタブにお湯をためようかと思いましたが、バスタブを指でこすると垢がすごかったのでやめました。洗面所のコップにも汚」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">

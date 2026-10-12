@@ -201,7 +201,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.80点、口コミ絶賛の最高峰。「スタッフのホスピタリティが完璧で別世界、一生の思い出になった。」「クラブラウンジのクオリティとお部屋の重厚感が別格。」と感動の声多数。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.80点、口コミ絶賛の最高峰。「スタッフのホスピタリティが完璧で別世界、一生の思い出になった」「クラブラウンジのクオリティとお部屋の重厚感が別格」と感動の声多数。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -285,7 +285,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.50点、口コミ高評価。「駅直結で立地最高、お部屋が広くて洗練されている。」「クラブラウンジからの景色が美しく、スタッフの気配りも素晴らしい。」と大好評。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.50点、口コミ高評価。「駅直結で立地最高、お部屋が広くて洗練されている」「クラブラウンジからの景色が美しく、スタッフの気配りも素晴らしい」と大好評。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -369,7 +369,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価3.50点、口コミ7000件超。「駅の目の前でアクセス抜群、リムジンバスも直結で便利。」「朝食バイキングが種類豊富でとても美味しかった。」と定評。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価3.50点、口コミ7000件超。「駅の目の前でアクセス抜群、リムジンバスも直結で便利」「朝食バイキングが種類豊富でとても美味しかった」と定評。</p>
               </div>
 
               {/* 宿基本情報 */}

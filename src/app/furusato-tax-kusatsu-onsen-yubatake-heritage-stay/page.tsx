@@ -201,7 +201,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.67点、口コミ2400件超。「お風呂の泉質が素晴らしく肌がツルツルになった。」「湯畑にも近く静かで、スタッフのおもてなしとお料理が最高。」と大絶賛されています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.67点、口コミ2400件超。「お風呂の泉質が素晴らしく肌がツルツルになった」「湯畑にも近く静かで、スタッフのおもてなしとお料理が最高」と大絶賛されています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -285,7 +285,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.39点、口コミ4700件超。「湯畑が本当に目の前で観光に最高」「大浴場の白濁したお湯が本格的で、湯畑の夜景にも感動した。」と圧倒的な人気を誇ります。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.39点、口コミ4700件超。「湯畑が本当に目の前で観光に最高」「大浴場の白濁したお湯が本格的で、湯畑の夜景にも感動した」と圧倒的な人気を誇ります。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -369,7 +369,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.61点、口コミ1200件超。「お湯が本当に柔らかく、これまで入った草津の湯で一番。」「宿全体の雰囲気が洗練されており素晴らしい滞在だった。」と熱烈な支持。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.61点、口コミ1200件超。「お湯が本当に柔らかく、これまで入った草津の湯で一番」「宿全体の雰囲気が洗練されており素晴らしい滞在だった」と熱烈な支持。</p>
               </div>
 
               {/* 宿基本情報 */}

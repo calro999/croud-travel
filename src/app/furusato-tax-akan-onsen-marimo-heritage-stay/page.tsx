@@ -201,7 +201,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.43点、口コミ3400件超。「展望露天風呂からの阿寒湖の眺めが圧巻」「食事の種類が多くどれも絶品、スタッフの気配りも素晴らしかった。」と絶賛の声。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.43点、口コミ3400件超。「展望露天風呂からの阿寒湖の眺めが圧巻」「食事の種類が多くどれも絶品、スタッフの気配りも素晴らしかった」と絶賛の声。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -285,7 +285,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.83点という驚異的な超高スコア。「お部屋の露天風呂、バーの雰囲気、お料理すべてが人生で一番。」「静かに大人の休日を過ごすには最高の宿」と絶賛されています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.83点という驚異的な超高スコア。「お部屋の露天風呂、バーの雰囲気、お料理すべてが人生で一番」「静かに大人の休日を過ごすには最高の宿」と絶賛されています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -369,7 +369,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.24点、口コミ3800件超。「屋上のインフィニティスパが本当に素晴らしく夕日や星空が最高。」「サウナもお風呂もバイキングも大満足」と高評価。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.24点、口コミ3800件超。「屋上のインフィニティスパが本当に素晴らしく夕日や星空が最高」「サウナもお風呂もバイキングも大満足」と高評価。</p>
               </div>
 
               {/* 宿基本情報 */}

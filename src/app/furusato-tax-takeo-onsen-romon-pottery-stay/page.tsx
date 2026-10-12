@@ -201,7 +201,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.39点、口コミ1200件超。「レトロなアンティークの雰囲気が最高で珈琲も美味しい。」「お風呂のお湯がトロトロで接客も温かかった。」と大人気です。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.39点、口コミ1200件超。「レトロなアンティークの雰囲気が最高で珈琲も美味しい」「お風呂のお湯がトロトロで接客も温かかった」と大人気です。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -285,7 +285,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.42点、口コミ1100件超。「最上階のお風呂からの眺めが素晴らしくお湯も最高。」「お料理の佐賀牛がとても美味しくスタッフも親切だった。」と評判。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.42点、口コミ1100件超。「最上階のお風呂からの眺めが素晴らしくお湯も最高」「お料理の佐賀牛がとても美味しくスタッフも親切だった」と評判。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -369,7 +369,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.33点。「楼門が目の前で観光に最高のロケーション」「女将さんの接客が温かく、お風呂もお湯が良くてとても落ち着けた。」と好評です。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.33点。「楼門が目の前で観光に最高のロケーション」「女将さんの接客が温かく、お風呂もお湯が良くてとても落ち着けた」と好評です。</p>
               </div>
 
               {/* 宿基本情報 */}

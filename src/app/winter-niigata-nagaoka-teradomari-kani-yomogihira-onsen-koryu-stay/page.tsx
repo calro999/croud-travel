@@ -390,7 +390,7 @@ export default function FeaturePage() {
                   
                 <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「大満足ご飯も美味しくお酒も美味しく温泉でのんびりできて、満喫した!って感じです。ご飯を残してしまうのが申し訳ないので少食プラン作って欲しいです。つづ。」"}</p>
+                  <p className="leading-relaxed">{"「大満足ご飯も美味しくお酒も美味しく温泉でのんびりできて、満喫した!って感じです。ご飯を残してしまうのが申し訳ないので少食プラン作って欲しいです。つづ」"}</p>
                 </div>
             
 
@@ -522,7 +522,7 @@ export default function FeaturePage() {
                   
                 <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「食事も美味しく接客も丁寧で大満足食事が朝夜共に美味しく満足感が高かった。従業員の方がテキパキしていて好感を持てた。周りの人にもお勧めしたいです。」"}</p>
+                  <p className="leading-relaxed">{"「食事も美味しく接客も丁寧で大満足食事が朝夜共に美味しく満足感が高かった。従業員の方がテキパキしていて好感を持てた。周りの人にもお勧めしたいです」"}</p>
                 </div>
             
 
@@ -588,7 +588,7 @@ export default function FeaturePage() {
                   
                 <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「リニューアル後の部屋は清潔で快適今回リニューアル後に宿泊しました。部屋も清潔で気に入りました。また利用した際に詳しく書きたいです。つづきは。」"}</p>
+                  <p className="leading-relaxed">{"「リニューアル後の部屋は清潔で快適今回リニューアル後に宿泊しました。部屋も清潔で気に入りました。また利用した際に詳しく書きたいです。つづきは」"}</p>
                 </div>
             
 

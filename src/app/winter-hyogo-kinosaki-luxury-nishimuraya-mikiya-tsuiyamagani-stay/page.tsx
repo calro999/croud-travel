@@ -248,7 +248,7 @@ export default function Page() {
 
               <div className="bg-slate-50 p-4 rounded-xl border-l-4 border-amber-500 text-xs md:text-sm text-slate-600 italic mb-6">
                 <span className="font-bold text-slate-700 not-italic block mb-1">宿泊者のクチコミ体験談</span>
-                「落ち着いた心地よい空間の中、温かい温泉とおいしいお料理で日頃の疲れを癒やすことができました。」
+                「落ち着いた心地よい空間の中、温かい温泉とおいしいお料理で日頃の疲れを癒やすことができました」
               </div>
 
               <div className="pt-2">
@@ -317,7 +317,7 @@ export default function Page() {
 
               <div className="bg-slate-50 p-4 rounded-xl border-l-4 border-amber-500 text-xs md:text-sm text-slate-600 italic mb-6">
                 <span className="font-bold text-slate-700 not-italic block mb-1">宿泊者のクチコミ体験談</span>
-                「部屋は広くて綺麗、料理の量と質も大満足部屋も大きく綺麗でした。お料理も量、質ともに満足でした。」
+                「部屋は広くて綺麗、料理の量と質も大満足部屋も大きく綺麗でした。お料理も量、質ともに満足でした」
               </div>
 
               <div className="pt-2">

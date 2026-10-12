@@ -292,7 +292,7 @@ export default function Page() {
 
                   <div className="mt-3 p-3 bg-stone-50 rounded-lg border border-stone-200/60 text-xs text-stone-600 italic">
                     <p className="font-semibold text-[11px] text-stone-500 not-italic mb-0.5">宿泊者のクチコミ抜粋：</p>
-                    「料理と景色が最高、エレベーターがあれば完璧料理がとてもよかったです。景色もとてもよかったです。エレベーターがあればもっとよかったです。また、泊まりたいと思います。」
+                    「料理と景色が最高、エレベーターがあれば完璧料理がとてもよかったです。景色もとてもよかったです。エレベーターがあればもっとよかったです。また、泊まりたいと思います」
                   </div>
 
                   <div className="mt-3 pt-3 border-t border-stone-100 text-[11px] text-stone-500 space-y-0.5">
@@ -359,7 +359,7 @@ export default function Page() {
 
                   <div className="mt-3 p-3 bg-stone-50 rounded-lg border border-stone-200/60 text-xs text-stone-600 italic">
                     <p className="font-semibold text-[11px] text-stone-500 not-italic mb-0.5">宿泊者のクチコミ抜粋：</p>
-                    「息子とお酒の飲み比べと美味しい朝食に大満足20歳になった息子とラウンジで色んなお酒を飲み比べどれが好きそう?と一口づつ試したり飲み方変えたりできて大エンジョイ雨だったのでずっとお部屋。」
+                    「息子とお酒の飲み比べと美味しい朝食に大満足20歳になった息子とラウンジで色んなお酒を飲み比べどれが好きそう?と一口づつ試したり飲み方変えたりできて大エンジョイ雨だったのでずっとお部屋」
                   </div>
 
                   <div className="mt-3 pt-3 border-t border-stone-100 text-[11px] text-stone-500 space-y-0.5">
@@ -426,7 +426,7 @@ export default function Page() {
 
                   <div className="mt-3 p-3 bg-stone-50 rounded-lg border border-stone-200/60 text-xs text-stone-600 italic">
                     <p className="font-semibold text-[11px] text-stone-500 not-italic mb-0.5">宿泊者のクチコミ抜粋：</p>
-                    「接客とロケーションが最高、食事も大満足接客対応がとても素晴らしくロケーションも抜群でした。朝食、夕食ともとても美味しく是非また利用したいです。色々、高知の宿を迷いましたが、ここにして良かったです。」
+                    「接客とロケーションが最高、食事も大満足接客対応がとても素晴らしくロケーションも抜群でした。朝食、夕食ともとても美味しく是非また利用したいです。色々、高知の宿を迷いましたが、ここにして良かったです」
                   </div>
 
                   <div className="mt-3 pt-3 border-t border-stone-100 text-[11px] text-stone-500 space-y-0.5">
@@ -493,7 +493,7 @@ export default function Page() {
 
                   <div className="mt-3 p-3 bg-stone-50 rounded-lg border border-stone-200/60 text-xs text-stone-600 italic">
                     <p className="font-semibold text-[11px] text-stone-500 not-italic mb-0.5">宿泊者のクチコミ抜粋：</p>
-                    「広く綺麗で大満足の空間広く綺麗で大満足です。」
+                    「広く綺麗で大満足の空間広く綺麗で大満足です」
                   </div>
 
                   <div className="mt-3 pt-3 border-t border-stone-100 text-[11px] text-stone-500 space-y-0.5">

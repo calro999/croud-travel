@@ -189,7 +189,7 @@ export default function SilverWeekGlampingAirConditioningBedPage() {
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「水回り完全個別＆シモンズ製ベッド」ホテル同等以上の快適さ！潔癖派も安心の高規格グランピング</h1>
 
           <p className="text-xs md:text-sm text-emerald-100/90 leading-relaxed font-medium">
-            「大自然には癒やされたいけれど、共用トイレや虫、寝心地の悪さは我慢できない…。」。そんな女性やアウトドア初心者の不安を完全に解消する、ホテルグレードの高規格グランピングを厳選。客室直結の温水洗浄便座トイレ、シモンズ製極上ベッド、24時間冷暖房完備で、大自然の爽快感とシティホテルの安心感を同時に手に入れられます。
+            「大自然には癒やされたいけれど、共用トイレや虫、寝心地の悪さは我慢できない…」。そんな女性やアウトドア初心者の不安を完全に解消する、ホテルグレードの高規格グランピングを厳選。客室直結の温水洗浄便座トイレ、シモンズ製極上ベッド、24時間冷暖房完備で、大自然の爽快感とシティホテルの安心感を同時に手に入れられます。
           </p>
 
           <div className="pt-2 flex flex-wrap gap-4 text-xs font-bold text-emerald-300">

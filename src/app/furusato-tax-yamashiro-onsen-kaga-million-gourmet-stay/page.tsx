@@ -183,7 +183,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.49点、口コミ3700件超。「お風呂の種類が多くて館内湯巡りだけで大満足。」「温泉たまご作り体験が楽しく、食事も美味しかった。」と圧倒的なリピート率を誇ります。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.49点、口コミ3700件超。「お風呂の種類が多くて館内湯巡りだけで大満足」「温泉たまご作り体験が楽しく、食事も美味しかった」と圧倒的なリピート率を誇ります。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -277,7 +277,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.40点、口コミ1000件超。「木造の館内が落ち着きスタッフの接客も温かい。」「古総湯がすぐ目の前で山代の風情を満喫できた。」と高い評価を得ています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.40点、口コミ1000件超。「木造の館内が落ち着きスタッフの接客も温かい」「古総湯がすぐ目の前で山代の風情を満喫できた」と高い評価を得ています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.70点の最高峰スコア。「生花が美しくお部屋食の料理が芸術品レベルで美味しい。」「仲居さんの心配りが素晴らしく人生最高の宿。」と絶賛されています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.70点の最高峰スコア。「生花が美しくお部屋食の料理が芸術品レベルで美味しい」「仲居さんの心配りが素晴らしく人生最高の宿」と絶賛されています。</p>
               </div>
 
               {/* 宿基本情報 */}

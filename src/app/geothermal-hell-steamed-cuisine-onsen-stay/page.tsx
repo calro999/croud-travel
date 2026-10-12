@@ -320,9 +320,9 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 別府（大分）駅よりアクセス。「みゆき坂」から「いでゆ坂」へ下り、湯けむり通りへ入る。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋。」にチェックイン。湯けむりにつつまれる鉄輪。旅館ならではの、女将厳選の大分の食材でおもてなし。Wifi完備などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋。」の湯処へ。湯けむりにつつまれる鉄輪。旅館ならではの、女将厳選の大分の食材でおもてとともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋」にチェックイン。湯けむりにつつまれる鉄輪。旅館ならではの、女将厳選の大分の食材でおもてなし。Wifi完備などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋」の湯処へ。湯けむりにつつまれる鉄輪。旅館ならではの、女将厳選の大分の食材でおもてとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -331,8 +331,8 @@ export default function Page() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「別府明礬温泉 岡本屋旅館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
@@ -350,20 +350,20 @@ export default function Page() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋。」へのアクセスや移動方法について</span>
+                <span>Q. 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋。」へは、「みゆき坂」から「いでゆ坂」へ下り、湯けむり通りへ入る。最寄りの別府（大分）駅からの経路案内も充実しています。
+                A. 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋」へは、「みゆき坂」から「いでゆ坂」へ下り、湯けむり通りへ入る。最寄りの別府（大分）駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋。」の魅力や予約時のポイントは？</span>
+                <span>Q. 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋。」は『湯けむりにつつまれる鉄輪。旅館ならではの、女将厳選の大分の食材でおもてなし。Wifi完備。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋」は『湯けむりにつつまれる鉄輪。旅館ならではの、女将厳選の大分の食材でおもてなし。Wifi完備。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -372,7 +372,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋。」と「別府明礬温泉 岡本屋旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋」と「別府明礬温泉 岡本屋旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

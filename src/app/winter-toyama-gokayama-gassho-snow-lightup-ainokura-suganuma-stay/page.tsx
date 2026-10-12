@@ -359,7 +359,7 @@ export default function WinterFeaturePage() {
 
             <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700 leading-relaxed">
               <span className="font-bold text-amber-900 block mb-1">宿泊者のクチコミ抜粋:</span>
-              「立地、料理、部屋、温泉、すべて満足です。世界遺産から近い立地にあることで宿泊を決めました。料理も美味しく館内も綺麗で温泉も満喫でき良かったです。皇族の方もいらしたことがあるみたいでした。ひとつだけ。」
+              「立地、料理、部屋、温泉、すべて満足です。世界遺産から近い立地にあることで宿泊を決めました。料理も美味しく館内も綺麗で温泉も満喫でき良かったです。皇族の方もいらしたことがあるみたいでした。ひとつだけ」
             </div>
 
                   <div className="mt-3 pt-3 border-t border-stone-100 text-[11px] text-stone-500 space-y-0.5">
@@ -425,7 +425,7 @@ export default function WinterFeaturePage() {
 
             <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700 leading-relaxed">
               <span className="font-bold text-amber-900 block mb-1">宿泊者のクチコミ抜粋:</span>
-              「6回目の利用、サウナ後のビールと食事が最高今回6回目の利用です、相変わらず居心地が良くてスタッフも親切 風呂の脱衣所のロッカーも新しいのが納入されていて良かった(前回は鍵の無いロッカーが多くて難儀。」
+              「6回目の利用、サウナ後のビールと食事が最高今回6回目の利用です、相変わらず居心地が良くてスタッフも親切 風呂の脱衣所のロッカーも新しいのが納入されていて良かった(前回は鍵の無いロッカーが多くて難儀」
             </div>
 
                   <div className="mt-3 pt-3 border-t border-stone-100 text-[11px] text-stone-500 space-y-0.5">

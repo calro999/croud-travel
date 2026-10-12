@@ -201,7 +201,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.76点の超高評価。「部屋からもお風呂からも富士山が目の前にドーンと見えて感動した。」「スタッフの接客、湯上がりビール、料理すべてが満点。」と圧倒的なリピート率。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.76点の超高評価。「部屋からもお風呂からも富士山が目の前にドーンと見えて感動した」「スタッフの接客、湯上がりビール、料理すべてが満点」と圧倒的なリピート率。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -285,7 +285,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.68点、口コミ1300件超。「最上階のお風呂から見た朝日に輝く富士山が忘れられない。」「夕食がお部屋食でとても美味しく、接客も丁寧で素晴らしかった。」と高い満足度。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.68点、口コミ1300件超。「最上階のお風呂から見た朝日に輝く富士山が忘れられない」「夕食がお部屋食でとても美味しく、接客も丁寧で素晴らしかった」と高い満足度。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -369,7 +369,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.60点、口コミ1100件超。「スタッフ全員の気配りが素晴らしく、車椅子でも快適に過ごせた。」「湖畔の立地が良く、富士山の眺望と料理も大満足。」と高評価を得ています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.60点、口コミ1100件超。「スタッフ全員の気配りが素晴らしく、車椅子でも快適に過ごせた」「湖畔の立地が良く、富士山の眺望と料理も大満足」と高評価を得ています。</p>
               </div>
 
               {/* 宿基本情報 */}

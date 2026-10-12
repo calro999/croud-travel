@@ -49,7 +49,7 @@ export default function FurusatoAllInclusiveLuxuryStayPage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊。」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊。」へは、最寄駅／ＪＲ仙山線「作並駅」無料送迎あり 要事前予約 仙台駅～作並駅（快速約30分）作並駅～一の坊（送迎車で約5分）。最寄りの作並駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊。」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊。」は『新客室“Seyryu”2023年4月OPEN オールインクルーシブで過ごす、里山リトリート。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊。」と「Ｎａｚｕｎａ箱根宮ノ下」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊」へは、最寄駅／ＪＲ仙山線「作並駅」無料送迎あり 要事前予約 仙台駅～作並駅（快速約30分）作並駅～一の坊（送迎車で約5分）。最寄りの作並駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊」は『新客室“Seyryu”2023年4月OPEN オールインクルーシブで過ごす、里山リトリート。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊」と「Ｎａｚｕｎａ箱根宮ノ下」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -70,7 +70,7 @@ export default function FurusatoAllInclusiveLuxuryStayPage() {
           </div>
           <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">オールインクルーシブで財布を気にせず寛ぐ極上温泉宿×ふるさと納税厳選ガイド作並・箱根宮ノ下・磐梯熱海</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
-            「滞在中にドリンク代やアクティビティ代を気にせず、心の底からリラックスしたい。」――そんな大人の旅人から圧倒的な支持を集めているのが「オールインクルーシブスタイルの温泉宿」です。チェックインした瞬間からウェルカムドリンクと特製スイーツが振る舞われ、湯上がり処では冷えた生ビールやアイスキャンディーが自由に楽しめ、夕食時のアルコールペアリングはもちろん、夜のバータイムやお夜食まで全てが無料。追加精算の煩わしさから完全に解放される快適さは一度体験すると病みつきになります。渓流沿いの露天風呂と広大なサロンで思い思いの時間を過ごせる仙台作並温泉の「ゆづくしSalon一の坊」、全室に専用露天風呂を備え上質な和モダン空間でフリーフローを満喫できる「Nazuna箱根宮ノ下」、そして福島の誇る美酒と源泉かけ流しを味わい尽くす磐梯熱海温泉の「浅香荘」。プレミアムなサービスが充実している分、通常料金は高めに設定されていますが、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引）を活用すれば、実質自己負担2,000円で驚くほどお得に滞在可能です。何もしない贅沢に身を委ねる、最高峰のオールインクルーシブ温泉旅へ出かけましょう。
+            「滞在中にドリンク代やアクティビティ代を気にせず、心の底からリラックスしたい」――そんな大人の旅人から圧倒的な支持を集めているのが「オールインクルーシブスタイルの温泉宿」です。チェックインした瞬間からウェルカムドリンクと特製スイーツが振る舞われ、湯上がり処では冷えた生ビールやアイスキャンディーが自由に楽しめ、夕食時のアルコールペアリングはもちろん、夜のバータイムやお夜食まで全てが無料。追加精算の煩わしさから完全に解放される快適さは一度体験すると病みつきになります。渓流沿いの露天風呂と広大なサロンで思い思いの時間を過ごせる仙台作並温泉の「ゆづくしSalon一の坊」、全室に専用露天風呂を備え上質な和モダン空間でフリーフローを満喫できる「Nazuna箱根宮ノ下」、そして福島の誇る美酒と源泉かけ流しを味わい尽くす磐梯熱海温泉の「浅香荘」。プレミアムなサービスが充実している分、通常料金は高めに設定されていますが、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引）を活用すれば、実質自己負担2,000円で驚くほどお得に滞在可能です。何もしない贅沢に身を委ねる、最高峰のオールインクルーシブ温泉旅へ出かけましょう。
           </p>
           <div className="flex flex-wrap gap-4 pt-4 border-t border-amber-900/50 text-xs text-amber-200/90 font-medium">
             <span>✓ 寄付額の最大30％相当が宿泊クーポンに</span>
@@ -436,9 +436,9 @@ export default function FurusatoAllInclusiveLuxuryStayPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 作並駅よりアクセス。最寄駅／ＪＲ仙山線「作並駅」無料送迎あり 要事前予約 仙台駅～作並駅（快速約30分）作並駅～一の坊（送迎車で約5分）。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊。」にチェックイン。新客室“Seyryu”2023年4月OPEN オールインクルーシブで過ごす、里山リトリートステイなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊。」の湯処へ。新客室“Seyryu”2023年4月OPEN オールインクルーシブで過とともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊」にチェックイン。新客室“Seyryu”2023年4月OPEN オールインクルーシブで過ごす、里山リトリートステイなどの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊」の湯処へ。新客室“Seyryu”2023年4月OPEN オールインクルーシブで過とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -447,8 +447,8 @@ export default function FurusatoAllInclusiveLuxuryStayPage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「Ｎａｚｕｎａ箱根宮ノ下」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
@@ -466,20 +466,20 @@ export default function FurusatoAllInclusiveLuxuryStayPage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊。」へのアクセスや移動方法について</span>
+                <span>Q. 「仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊。」へは、最寄駅／ＪＲ仙山線「作並駅」無料送迎あり 要事前予約 仙台駅～作並駅（快速約30分）作並駅～一の坊（送迎車で約5分）。最寄りの作並駅からの経路案内も充実しています。
+                A. 「仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊」へは、最寄駅／ＪＲ仙山線「作並駅」無料送迎あり 要事前予約 仙台駅～作並駅（快速約30分）作並駅～一の坊（送迎車で約5分）。最寄りの作並駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊。」の魅力や予約時のポイントは？</span>
+                <span>Q. 「仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊。」は『新客室“Seyryu”2023年4月OPEN オールインクルーシブで過ごす、里山リトリート。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊」は『新客室“Seyryu”2023年4月OPEN オールインクルーシブで過ごす、里山リトリート。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -488,7 +488,7 @@ export default function FurusatoAllInclusiveLuxuryStayPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊。」と「Ｎａｚｕｎａ箱根宮ノ下」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊」と「Ｎａｚｕｎａ箱根宮ノ下」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

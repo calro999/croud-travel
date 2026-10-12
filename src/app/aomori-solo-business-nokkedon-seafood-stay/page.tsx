@@ -7,11 +7,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/aomori-solo-business-nokkedon-seafood-stay/" },
   title: '青森出張＆港町ひとり旅：青森駅近・のっけ丼・陸奥湾ホタテ・十和田牛！本州最北の拠点で整う極上ホテル 厳選3選',
-  description: '本州最北のターミナル・青森県青森市！「新町通り中心・広々バスルームと快適デスク完備。」の「ダイワロイネットホテル青森」、アスパム通り沿いでシモンズベッドと青森りんご朝食が自慢の「リッチモンドホテル青森」、ウォーターフロント至近の「ホテルJALシティ青森」を徹底特集。',
+  description: '本州最北のターミナル・青森県青森市！「新町通り中心・広々バスルームと快適デスク完備」の「ダイワロイネットホテル青森」、アスパム通り沿いでシモンズベッドと青森りんご朝食が自慢の「リッチモンドホテル青森」、ウォーターフロント至近の「ホテルJALシティ青森」を徹底特集。',
   keywords: '青森 出張 ホテル おすすめ,青森 一人旅 ホテル,のっけ丼 ホテル 青森駅,ダイワロイネットホテル青森 宿泊,リッチモンドホテル青森 朝食',
   openGraph: {
     title: '青森出張＆港町ひとり旅：青森駅近・のっけ丼・陸奥湾ホタテ・十和田牛！本州最北の拠点で整う極上ホテル 厳選3選',
-    description: '本州最北のターミナル・青森県青森市！「新町通り中心・広々バスルームと快適デスク完備。」の「ダイワロイネットホテル青森」、アスパム通り沿いでシモンズベッドと青森りんご朝食が自慢の「リッチモンドホテル青森」、ウォーターフロント至近の「ホテルJALシティ青森」を徹底特集。',
+    description: '本州最北のターミナル・青森県青森市！「新町通り中心・広々バスルームと快適デスク完備」の「ダイワロイネットホテル青森」、アスパム通り沿いでシモンズベッドと青森りんご朝食が自慢の「リッチモンドホテル青森」、ウォーターフロント至近の「ホテルJALシティ青森」を徹底特集。',
     url: 'https://croud-travel.pages.dev/aomori-solo-business-nokkedon-seafood-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -24,7 +24,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '青森出張＆港町ひとり旅：青森駅近・のっけ丼・陸奥湾ホタテ・十和田牛！本州最北の拠点で整う極上ホテル 厳選3選',
-    description: '本州最北のターミナル・青森県青森市！「新町通り中心・広々バスルームと快適デスク完備。」の「ダイワロイネットホテル青森」、アスパム通り沿いでシモンズベッドと青森りんご朝食が自慢の「リッチモンドホテル青森」、ウォーターフロント至近の「ホテルJALシティ青森」を徹底特集。',
+    description: '本州最北のターミナル・青森県青森市！「新町通り中心・広々バスルームと快適デスク完備」の「ダイワロイネットホテル青森」、アスパム通り沿いでシモンズベッドと青森りんご朝食が自慢の「リッチモンドホテル青森」、ウォーターフロント至近の「ホテルJALシティ青森」を徹底特集。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・出張調査班',
@@ -76,7 +76,7 @@ export default function ArticlePage() {
         </div>
         <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">「青森出張＆港町ひとり旅」青森駅近・のっけ丼・陸奥湾ホタテ・十和田牛！本州最北の拠点で整う極上ホテル 厳選3選</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
-          本州最北のターミナル・青森県青森市！「新町通り中心・広々バスルームと快適デスク完備。」の「ダイワロイネットホテル青森」、アスパム通り沿いでシモンズベッドと青森りんご朝食が自慢の「リッチモンドホテル青森」、ウォーターフロント至近の「ホテルJALシティ青森」を徹底特集。
+          本州最北のターミナル・青森県青森市！「新町通り中心・広々バスルームと快適デスク完備」の「ダイワロイネットホテル青森」、アスパム通り沿いでシモンズベッドと青森りんご朝食が自慢の「リッチモンドホテル青森」、ウォーターフロント至近の「ホテルJALシティ青森」を徹底特集。
         </p>
       </header>
 
@@ -159,7 +159,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.56点。「部屋が広くお風呂とトイレが別でとても快適でした。」「新町通りの真ん中で飲食店も多く出張の定宿です。」と大絶賛。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.56点。「部屋が広くお風呂とトイレが別でとても快適でした」「新町通りの真ん中で飲食店も多く出張の定宿です」と大絶賛。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -234,7 +234,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.45点。「スタッフの笑顔と丁寧な接客が素晴らしかった。」「朝食のりんごジュースやホタテ料理がとても美味しかったです。」と好評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.45点。「スタッフの笑顔と丁寧な接客が素晴らしかった」「朝食のりんごジュースやホタテ料理がとても美味しかったです」と好評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -309,7 +309,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.29点。「立地が良く部屋も清潔で快適に過ごせました。」「スタッフの対応が親切で安心して泊まれるホテルです。」と定評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.29点。「立地が良く部屋も清潔で快適に過ごせました」「スタッフの対応が親切で安心して泊まれるホテルです」と定評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">

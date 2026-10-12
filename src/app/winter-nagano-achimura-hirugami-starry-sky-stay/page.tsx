@@ -101,7 +101,7 @@ export default function HirugamiWinterPage() {
             "name": "星空ツアーのチケット予約や宿からのアクセス方法は？",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "冬期のウインターナイトツアーは事前日時指定予約制が基本です。昼神温泉の多くの宿泊施設では「ツアーチケット確約＋会場までの無料送迎バス付き宿泊プラン。」を用意しているため、個人で手配するよりも宿の提携パックを利用するのが最も確実で移動も楽です。"
+              "text": "冬期のウインターナイトツアーは事前日時指定予約制が基本です。昼神温泉の多くの宿泊施設では「ツアーチケット確約＋会場までの無料送迎バス付き宿泊プラン」を用意しているため、個人で手配するよりも宿の提携パックを利用するのが最も確実で移動も楽です。"
             }
           }
         ]
@@ -492,7 +492,7 @@ export default function HirugamiWinterPage() {
             <div>
               <span className="text-xs font-bold text-indigo-700 uppercase tracking-widest">Recommended Itinerary</span>
               <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                初冬の阿智村を満喫する「1泊2日 日本一の星空＆美肌湯モデルコース。」
+                初冬の阿智村を満喫する「1泊2日 日本一の星空＆美肌湯モデルコース」
               </h2>
             </div>
           </div>

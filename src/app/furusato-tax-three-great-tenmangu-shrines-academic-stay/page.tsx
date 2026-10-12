@@ -243,7 +243,7 @@ export default function FurusatoRound63ArticlePage() {
                     京都ブライトンホテル
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「GOODでした。ホテルの方の対応、大変心地よく素晴らしかったです。朝食付きプランで、和食懐石を選んでみました。物足りなかったらどうしよう、と思っていましたが、1つ1つに拘りが感じられて…。」
+                    「GOODでした。ホテルの方の対応、大変心地よく素晴らしかったです。朝食付きプランで、和食懐石を選んでみました。物足りなかったらどうしよう、と思っていましたが、1つ1つに拘りが感じられて…」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -298,7 +298,7 @@ export default function FurusatoRound63ArticlePage() {
                     防府グランドホテル
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「朝食は美味しく防音も万全だが融通は利かず当日、結婚式に出席するために利用しました。気温が暑いことが予想されたので、早めにお部屋を使わせてもらえないかと連絡してみましたが、答えはNOでした。待た…。」
+                    「朝食は美味しく防音も万全だが融通は利かず当日、結婚式に出席するために利用しました。気温が暑いことが予想されたので、早めにお部屋を使わせてもらえないかと連絡してみましたが、答えはNOでした。待た…」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">

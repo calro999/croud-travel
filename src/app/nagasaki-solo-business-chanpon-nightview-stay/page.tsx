@@ -7,11 +7,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagasaki-solo-business-chanpon-nightview-stay/" },
   title: '長崎出張＆夜景ひとり旅：西九州新幹線直結・天然温泉サウナ・稲佐山ビュー！本場ちゃんぽんを味わう極上宿 厳選3選',
-  description: '西九州新幹線かもめ開業で進化する港町・長崎！「JR長崎駅西口直結のワールドクラスホテル。」の「ヒルトン長崎」、駅東口徒歩すぐで天然温泉大浴場と夜鳴きそば完備の「ドーミーインPREMIUM長崎駅前」、駅前広場正面の格式ある老舗「ホテルニュー長崎」を徹底特集。',
+  description: '西九州新幹線かもめ開業で進化する港町・長崎！「JR長崎駅西口直結のワールドクラスホテル」の「ヒルトン長崎」、駅東口徒歩すぐで天然温泉大浴場と夜鳴きそば完備の「ドーミーインPREMIUM長崎駅前」、駅前広場正面の格式ある老舗「ホテルニュー長崎」を徹底特集。',
   keywords: '長崎 出張 ホテル おすすめ,長崎 一人旅 ホテル,ヒルトン長崎 宿泊,ドーミーイン長崎駅前 温泉,長崎 ちゃんぽん ホテル',
   openGraph: {
     title: '長崎出張＆夜景ひとり旅：西九州新幹線直結・天然温泉サウナ・稲佐山ビュー！本場ちゃんぽんを味わう極上宿 厳選3選',
-    description: '西九州新幹線かもめ開業で進化する港町・長崎！「JR長崎駅西口直結のワールドクラスホテル。」の「ヒルトン長崎」、駅東口徒歩すぐで天然温泉大浴場と夜鳴きそば完備の「ドーミーインPREMIUM長崎駅前」、駅前広場正面の格式ある老舗「ホテルニュー長崎」を徹底特集。',
+    description: '西九州新幹線かもめ開業で進化する港町・長崎！「JR長崎駅西口直結のワールドクラスホテル」の「ヒルトン長崎」、駅東口徒歩すぐで天然温泉大浴場と夜鳴きそば完備の「ドーミーインPREMIUM長崎駅前」、駅前広場正面の格式ある老舗「ホテルニュー長崎」を徹底特集。',
     url: 'https://croud-travel.pages.dev/nagasaki-solo-business-chanpon-nightview-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -24,7 +24,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '長崎出張＆夜景ひとり旅：西九州新幹線直結・天然温泉サウナ・稲佐山ビュー！本場ちゃんぽんを味わう極上宿 厳選3選',
-    description: '西九州新幹線かもめ開業で進化する港町・長崎！「JR長崎駅西口直結のワールドクラスホテル。」の「ヒルトン長崎」、駅東口徒歩すぐで天然温泉大浴場と夜鳴きそば完備の「ドーミーインPREMIUM長崎駅前」、駅前広場正面の格式ある老舗「ホテルニュー長崎」を徹底特集。',
+    description: '西九州新幹線かもめ開業で進化する港町・長崎！「JR長崎駅西口直結のワールドクラスホテル」の「ヒルトン長崎」、駅東口徒歩すぐで天然温泉大浴場と夜鳴きそば完備の「ドーミーインPREMIUM長崎駅前」、駅前広場正面の格式ある老舗「ホテルニュー長崎」を徹底特集。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・出張調査班',
@@ -76,7 +76,7 @@ export default function ArticlePage() {
         </div>
         <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">「長崎出張＆夜景ひとり旅」西九州新幹線直結・天然温泉サウナ・稲佐山ビュー！本場ちゃんぽんを味わう極上宿 厳選3選</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
-          西九州新幹線かもめ開業で進化する港町・長崎！「JR長崎駅西口直結のワールドクラスホテル。」の「ヒルトン長崎」、駅東口徒歩すぐで天然温泉大浴場と夜鳴きそば完備の「ドーミーインPREMIUM長崎駅前」、駅前広場正面の格式ある老舗「ホテルニュー長崎」を徹底特集。
+          西九州新幹線かもめ開業で進化する港町・長崎！「JR長崎駅西口直結のワールドクラスホテル」の「ヒルトン長崎」、駅東口徒歩すぐで天然温泉大浴場と夜鳴きそば完備の「ドーミーインPREMIUM長崎駅前」、駅前広場正面の格式ある老舗「ホテルニュー長崎」を徹底特集。
         </p>
       </header>
 
@@ -159,7 +159,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.64点。「駅直結で立地最高、部屋も新しく広くてサウナとお風呂も大満足でした。」「スタッフの対応が洗練されていて長崎出張ならここ一択。」と絶賛。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.64点。「駅直結で立地最高、部屋も新しく広くてサウナとお風呂も大満足でした」「スタッフの対応が洗練されていて長崎出張ならここ一択」と絶賛。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -234,7 +234,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.52点。「駅近で天然温泉とサウナに入れるのがありがたい。」「朝食の皿うどんとカステラが美味しく、夜鳴きそばも安定の味でした。」と高評価。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.52点。「駅近で天然温泉とサウナに入れるのがありがたい」「朝食の皿うどんとカステラが美味しく、夜鳴きそばも安定の味でした」と高評価。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -309,7 +309,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.43点。「駅の目の前でアクセス抜群、スタッフの対応も一流でした。」「部屋が広くて清潔で、とても快適に過ごせました。」と定評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.43点。「駅の目の前でアクセス抜群、スタッフの対応も一流でした」「部屋が広くて清潔で、とても快適に過ごせました」と定評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">

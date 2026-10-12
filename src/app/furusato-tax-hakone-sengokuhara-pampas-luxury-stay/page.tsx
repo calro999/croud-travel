@@ -183,7 +183,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.55点。「お部屋の露天風呂のにごり湯の質が最高」「料理の一品一品が芸術品のように美しく美味しかった。」と記念日ステイの定番として絶賛されています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.55点。「お部屋の露天風呂のにごり湯の質が最高」「料理の一品一品が芸術品のように美しく美味しかった」と記念日ステイの定番として絶賛されています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -277,7 +277,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.43点。「乳白色の温泉が素晴らしく何度も入った」「広大な庭園の散歩が心地よくスタッフの接客も丁寧だった。」と伝統を愛する温泉ファンから高評価です。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.43点。「乳白色の温泉が素晴らしく何度も入った」「広大な庭園の散歩が心地よくスタッフの接客も丁寧だった」と伝統を愛する温泉ファンから高評価です。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.59点。「お部屋が広くて新しくとても快適」「温泉のにごり湯が良くフレンチディナーも美味しかった。」と新しいスタイルの箱根滞在として人気急上昇中です。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.59点。「お部屋が広くて新しくとても快適」「温泉のにごり湯が良くフレンチディナーも美味しかった」と新しいスタイルの箱根滞在として人気急上昇中です。</p>
               </div>
 
               {/* 宿基本情報 */}

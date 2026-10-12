@@ -201,7 +201,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.66点、口コミ1300件超。「鷹の湯の木造建築とお湯の素晴らしさに感動。」「おもてなし、お部屋、お料理すべてが一流で最高峰の宿。」と絶賛。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.66点、口コミ1300件超。「鷹の湯の木造建築とお湯の素晴らしさに感動」「おもてなし、お部屋、お料理すべてが一流で最高峰の宿」と絶賛。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -285,7 +285,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.60点、口コミ1100件超。「露天風呂の真湯のお湯が最高で肌がつるつるになった。」「信州牛が絶品でスタッフの対応も素晴らしかった。」と高評価。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.60点、口コミ1100件超。「露天風呂の真湯のお湯が最高で肌がつるつるになった」「信州牛が絶品でスタッフの対応も素晴らしかった」と高評価。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -369,7 +369,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.56点。「麻釜のすぐ隣で雰囲気が最高」「自家源泉のお湯が素晴らしく、民芸調の落ち着いた館内とお料理に癒やされた。」と好評。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.56点。「麻釜のすぐ隣で雰囲気が最高」「自家源泉のお湯が素晴らしく、民芸調の落ち着いた館内とお料理に癒やされた」と好評。</p>
               </div>
 
               {/* 宿基本情報 */}

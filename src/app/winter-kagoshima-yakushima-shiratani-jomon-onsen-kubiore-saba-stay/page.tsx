@@ -231,7 +231,7 @@ export default function WinterFeaturePage() {
 
             <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700 leading-relaxed">
               <span className="font-bold text-amber-900 block mb-1">宿泊者のクチコミ抜粋:</span>
-              「眺めは最高だが、部屋は古さを感じる写真ではキレイに映っていますが、部屋自体は古い旅館をリフォームされたものかと思います。眺めはとてもキレイでした。」
+              「眺めは最高だが、部屋は古さを感じる写真ではキレイに映っていますが、部屋自体は古い旅館をリフォームされたものかと思います。眺めはとてもキレイでした」
             </div>
 
                   <div className="mt-3 pt-3 border-t border-stone-100 text-[11px] text-stone-500 space-y-0.5">
@@ -359,7 +359,7 @@ export default function WinterFeaturePage() {
 
             <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700 leading-relaxed">
               <span className="font-bold text-amber-900 block mb-1">宿泊者のクチコミ抜粋:</span>
-              「静かな環境と景色が良く、また訪れたい部屋からの景色がよかったです。周りに何もなく車通りも少ないので、とにかく静かでした。屋久杉や白谷雲水峡は今回はいけませんでしたが、またリベンジしたいと思います。」
+              「静かな環境と景色が良く、また訪れたい部屋からの景色がよかったです。周りに何もなく車通りも少ないので、とにかく静かでした。屋久杉や白谷雲水峡は今回はいけませんでしたが、またリベンジしたいと思います」
             </div>
 
                   <div className="mt-3 pt-3 border-t border-stone-100 text-[11px] text-stone-500 space-y-0.5">
@@ -425,7 +425,7 @@ export default function WinterFeaturePage() {
 
             <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700 leading-relaxed">
               <span className="font-bold text-amber-900 block mb-1">宿泊者のクチコミ抜粋:</span>
-              「また泊まりに来たいと思える場所ここに泊まれて良かったです。」
+              「また泊まりに来たいと思える場所ここに泊まれて良かったです」
             </div>
 
                   <div className="mt-3 pt-3 border-t border-stone-100 text-[11px] text-stone-500 space-y-0.5">
@@ -491,7 +491,7 @@ export default function WinterFeaturePage() {
 
             <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700 leading-relaxed">
               <span className="font-bold text-amber-900 block mb-1">宿泊者のクチコミ抜粋:</span>
-              「施設は綺麗で麦茶のサービスが嬉しい施設は綺麗でサービスもいい。麦茶が部屋に用意されているのが嬉しかった。大浴場にもあるし。朝食だけバイキングが少し寂しかった。」
+              「施設は綺麗で麦茶のサービスが嬉しい施設は綺麗でサービスもいい。麦茶が部屋に用意されているのが嬉しかった。大浴場にもあるし。朝食だけバイキングが少し寂しかった」
             </div>
 
                   <div className="mt-3 pt-3 border-t border-stone-100 text-[11px] text-stone-500 space-y-0.5">

@@ -183,7 +183,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.56点、口コミ3700件超。「建物の重厚さと美しさに圧倒された」「王様のビュッフェは名前負けしない人生最高のバイキング。」と熱狂的なファンを抱えています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.56点、口コミ3700件超。「建物の重厚さと美しさに圧倒された」「王様のビュッフェは名前負けしない人生最高のバイキング」と熱狂的なファンを抱えています。</p>
               </div>
 
               {/* 宿基本情報 */}

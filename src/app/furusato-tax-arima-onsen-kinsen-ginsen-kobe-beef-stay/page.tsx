@@ -183,7 +183,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.55点、口コミ2500件超。「三つの大浴場の金泉がどれも最高で大満足」「お料理の神戸牛が驚くほど柔らかく美味しかった。」と世代を問わず絶賛されています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.55点、口コミ2500件超。「三つの大浴場の金泉がどれも最高で大満足」「お料理の神戸牛が驚くほど柔らかく美味しかった」と世代を問わず絶賛されています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -277,7 +277,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.55点、口コミ1600件超。「部屋や大浴場からの落葉山の紅葉が息をのむ美しさだった。」「料理が一品一品繊細で感動した」とリピーターが多数。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.55点、口コミ1600件超。「部屋や大浴場からの落葉山の紅葉が息をのむ美しさだった」「料理が一品一品繊細で感動した」とリピーターが多数。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.44点。「唯一無二のノスタルジックな雰囲気に魅了された。」「金泉のお湯の濃さと但馬牛の美味しさは他では味わえない。」と熱狂的なファンに支持されています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.44点。「唯一無二のノスタルジックな雰囲気に魅了された」「金泉のお湯の濃さと但馬牛の美味しさは他では味わえない」と熱狂的なファンに支持されています。</p>
               </div>
 
               {/* 宿基本情報 */}

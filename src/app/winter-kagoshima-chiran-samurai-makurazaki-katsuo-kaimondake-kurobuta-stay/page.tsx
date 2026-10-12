@@ -361,7 +361,7 @@ export default function FeaturePage() {
 
                     <div className="bg-amber-50/70 border border-amber-200/60 rounded-lg p-3 text-xs text-stone-700 space-y-1">
                       <span className="font-bold text-amber-900 block">宿泊者のクチコミ・評判抜粋</span>
-                      <p className="line-clamp-2 italic text-stone-600">「景色が最高で素晴らしい眺め景色最高でした。」</p>
+                      <p className="line-clamp-2 italic text-stone-600">「景色が最高で素晴らしい眺め景色最高でした」</p>
                     </div>
                   </div>
                 </div>
@@ -436,7 +436,7 @@ export default function FeaturePage() {
 
                     <div className="bg-amber-50/70 border border-amber-200/60 rounded-lg p-3 text-xs text-stone-700 space-y-1">
                       <span className="font-bold text-amber-900 block">宿泊者のクチコミ・評判抜粋</span>
-                      <p className="line-clamp-2 italic text-stone-600">「砂蒸し温泉と丁寧なおもてなしに大満足白水館とても良かったです。車を玄関近くまで入ることができ、お出迎えしていただきました。部屋も海辺が見え眺めが良かったです。何より温泉は広く砂蒸しも指宿の潮の香り。」</p>
+                      <p className="line-clamp-2 italic text-stone-600">「砂蒸し温泉と丁寧なおもてなしに大満足白水館とても良かったです。車を玄関近くまで入ることができ、お出迎えしていただきました。部屋も海辺が見え眺めが良かったです。何より温泉は広く砂蒸しも指宿の潮の香り」</p>
                     </div>
                   </div>
                 </div>
@@ -511,7 +511,7 @@ export default function FeaturePage() {
 
                     <div className="bg-amber-50/70 border border-amber-200/60 rounded-lg p-3 text-xs text-stone-700 space-y-1">
                       <span className="font-bold text-amber-900 block">宿泊者のクチコミ・評判抜粋</span>
-                      <p className="line-clamp-2 italic text-stone-600">「部屋露天風呂からの絶景と揚げたて薩摩揚げ初の鹿児島宿泊に吟松を選びました。理由は1源泉掛け流しの部屋露天風呂からの眺望2目の前で作られる薩摩揚げ3砂蒸温泉部屋露天風呂:眼下に海(錦。」</p>
+                      <p className="line-clamp-2 italic text-stone-600">「部屋露天風呂からの絶景と揚げたて薩摩揚げ初の鹿児島宿泊に吟松を選びました。理由は1源泉掛け流しの部屋露天風呂からの眺望2目の前で作られる薩摩揚げ3砂蒸温泉部屋露天風呂:眼下に海(錦」</p>
                     </div>
                   </div>
                 </div>
@@ -586,7 +586,7 @@ export default function FeaturePage() {
 
                     <div className="bg-amber-50/70 border border-amber-200/60 rounded-lg p-3 text-xs text-stone-700 space-y-1">
                       <span className="font-bold text-amber-900 block">宿泊者のクチコミ・評判抜粋</span>
-                      <p className="line-clamp-2 italic text-stone-600">「家族旅行で使用しました名高い指宿温泉ですがちょっと市街地からは離れているので静かです近くにコンビニはないので予め買っておくのが良いでしょう駐車場は施設の前で安心ですお部屋は海側できれいな景色でした温泉。」</p>
+                      <p className="line-clamp-2 italic text-stone-600">「家族旅行で使用しました名高い指宿温泉ですがちょっと市街地からは離れているので静かです近くにコンビニはないので予め買っておくのが良いでしょう駐車場は施設の前で安心ですお部屋は海側できれいな景色でした温泉」</p>
                     </div>
                   </div>
                 </div>
@@ -661,7 +661,7 @@ export default function FeaturePage() {
 
                     <div className="bg-amber-50/70 border border-amber-200/60 rounded-lg p-3 text-xs text-stone-700 space-y-1">
                       <span className="font-bold text-amber-900 block">宿泊者のクチコミ・評判抜粋</span>
-                      <p className="line-clamp-2 italic text-stone-600">「リニューアルされてキレイ夕食のお刺身が新鮮でおいしかった。」</p>
+                      <p className="line-clamp-2 italic text-stone-600">「リニューアルされてキレイ夕食のお刺身が新鮮でおいしかった」</p>
                     </div>
                   </div>
                 </div>

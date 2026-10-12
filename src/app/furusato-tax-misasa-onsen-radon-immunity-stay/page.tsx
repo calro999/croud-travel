@@ -183,7 +183,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.43点、口コミ2100件超。「お風呂の種類が豊富でラドン温泉の効能を実感した。」「川沿いの静かなロケーションと丁寧な接客に癒やされた。」と絶賛されています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.43点、口コミ2100件超。「お風呂の種類が豊富でラドン温泉の効能を実感した」「川沿いの静かなロケーションと丁寧な接客に癒やされた」と絶賛されています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -277,7 +277,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.45点、口コミ2200件超。「庭園露天風呂の広さと雰囲気が最高」「バラ風呂がとても優雅で料理も美味しかった。」と女性客やカップルから大人気です。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.45点、口コミ2200件超。「庭園露天風呂の広さと雰囲気が最高」「バラ風呂がとても優雅で料理も美味しかった」と女性客やカップルから大人気です。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.40点。「掛け流しの温泉の泉質が素晴らしく体が軽くなった。」「お料理がとても繊細で美しく、スタッフの心遣いに感謝。」と高評価です。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.40点。「掛け流しの温泉の泉質が素晴らしく体が軽くなった」「お料理がとても繊細で美しく、スタッフの心遣いに感謝」と高評価です。</p>
               </div>
 
               {/* 宿基本情報 */}

@@ -201,7 +201,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.61点、口コミ500件超。「全室露天風呂からの景色が最高で、アメニティやラウンジサービスも超一流。」「記念日宿泊に選んで心から感動した」と絶大な支持を獲得しています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.61点、口コミ500件超。「全室露天風呂からの景色が最高で、アメニティやラウンジサービスも超一流」「記念日宿泊に選んで心から感動した」と絶大な支持を獲得しています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -285,7 +285,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.83点の驚異的高得点。「お部屋のお風呂の泉質が素晴らしく何度も入った。」「白檀の香りと静かな空間、心のこもった接客に感服した。」と最高峰の評価。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.83点の驚異的高得点。「お部屋のお風呂の泉質が素晴らしく何度も入った」「白檀の香りと静かな空間、心のこもった接客に感服した」と最高峰の評価。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -369,7 +369,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.25点、口コミ8200件超という圧倒的実績。「強羅駅目の前で観光に便利」「お部屋の檜風呂と無料の夜鳴きそばサービスが嬉しい。」と高い人気を誇ります。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.25点、口コミ8200件超という圧倒的実績。「強羅駅目の前で観光に便利」「お部屋の檜風呂と無料の夜鳴きそばサービスが嬉しい」と高い人気を誇ります。</p>
               </div>
 
               {/* 宿基本情報 */}

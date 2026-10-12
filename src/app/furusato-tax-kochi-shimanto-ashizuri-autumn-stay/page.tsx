@@ -313,7 +313,7 @@ export default function Page() {
             <div className="space-y-3">
               <h4 className="font-bold text-stone-900 text-sm">宿の魅力と秋の過ごし方</h4>
               <p className="text-sm text-stone-700 leading-relaxed">
-                「海・星・サウナ。すべてが満ちる、太平洋を望む極上の休日。」
+                「海・星・サウナ。すべてが満ちる、太平洋を望む極上の休日」
               </p>
               <div className="bg-stone-50 p-3 rounded text-xs text-stone-600 space-y-1">
                 <p><span className="font-semibold text-stone-800">アクセス:</span> 車（四万十中央ＩＣから約２時間）または公共交通機関（最終連絡はバス）にて足摺岬まで</p>

@@ -320,9 +320,9 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> お車の場合 ：道の駅椿はなの湯から約２分 空港、電車等でお越しの場合 ：無料の送迎サービスをご利用いただけますで現地へ到着。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ。」へチェックイン。落ち着いた空間で旅の荷を解き、ゆったりとした時間をスタート。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ。」の湯処へ。日頃の疲れを癒やす湯浴みとともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ」へチェックイン。落ち着いた空間で旅の荷を解き、ゆったりとした時間をスタート。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ」の湯処へ。日頃の疲れを癒やす湯浴みとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -331,9 +331,9 @@ export default function Page() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「熱川温泉 絶景と露天風呂の宿 たかみホテル。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「熱川温泉 絶景と露天風呂の宿 たかみホテル」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -350,20 +350,20 @@ export default function Page() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ。」へのアクセスや移動方法について</span>
+                <span>Q. 「海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ。」へは、お車の場合 ：道の駅椿はなの湯から約２分 空港、電車等でお越しの場合 ：無料の送迎サービスをご利用いただけます。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。
+                A. 「海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ」へは、お車の場合 ：道の駅椿はなの湯から約２分 空港、電車等でお越しの場合 ：無料の送迎サービスをご利用いただけます。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ。」の魅力や予約時のポイントは？</span>
+                <span>Q. 「海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ。」は上質な客室空間とおもてなしが旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ」は上質な客室空間とおもてなしが旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -372,7 +372,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ。」と「熱川温泉 絶景と露天風呂の宿 たかみホテル。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ」と「熱川温泉 絶景と露天風呂の宿 たかみホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

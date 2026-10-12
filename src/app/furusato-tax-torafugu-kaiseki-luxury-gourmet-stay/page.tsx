@@ -193,7 +193,7 @@ export default function FurusatoTorafuguKaisekiStayPage() {
                     本州最西端・関門海峡の目の前に建ち、昭和天皇をはじめ国内外のVIPを迎えてきた歴史と格式を誇る下関の迎賓館ホテル。唐戸市場まで徒歩すぐの好立地に位置し、下関名物「天然とらふぐ」を熟練の料理人が腕によりをかけて仕立てる極上フルコースが大好評。大皿に菊花のように美しく盛られたてっさ、ふぐちり鍋、香ばしいひれ酒など本場ならではの深い味わいを堪能できます。客室やレストランの大きな窓から行き交う巨大客船や関門橋のライトアップを眺めながら、洗練されたひとときをお過ごしいただけます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「唐戸市場に近く、豪華で綺麗な空間綺麗で豪華なホテルでした。唐戸市場にも近くて満足です。」
+                    「唐戸市場に近く、豪華で綺麗な空間綺麗で豪華なホテルでした。唐戸市場にも近くて満足です」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">

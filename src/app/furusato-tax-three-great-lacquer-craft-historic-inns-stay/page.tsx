@@ -188,7 +188,7 @@ export default function FurusatoRound63ArticlePage() {
                     旅館　橋本屋
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「手作りの食事が美味しく、接客も丁寧で大満足皆さんとても優しく説明も丁寧でした。夕食も朝食もご家族で手作りされていると聞きました。一品ずつでてくるので時間はかかりますが、どれも美味しく、とて…。」
+                    「手作りの食事が美味しく、接客も丁寧で大満足皆さんとても優しく説明も丁寧でした。夕食も朝食もご家族で手作りされていると聞きました。一品ずつでてくるので時間はかかりますが、どれも美味しく、とて…」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -243,7 +243,7 @@ export default function FurusatoRound63ArticlePage() {
                     会津東山温泉　向瀧
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「アレルギー対応の確認ミス?8月30日に宿泊しました。事前に「食品アレルギー」の有無をメールで尋ねられ、アレルギー無しと伝えてあったのですが、夕食時の説明で「エビアレルギーとの事でエビを抜いてありま…。」
+                    「アレルギー対応の確認ミス?8月30日に宿泊しました。事前に「食品アレルギー」の有無をメールで尋ねられ、アレルギー無しと伝えてあったのですが、夕食時の説明で「エビアレルギーとの事でエビを抜いてありま…」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -298,7 +298,7 @@ export default function FurusatoRound63ArticlePage() {
                     山中温泉　吉祥やまなか
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「豪華な建物と温泉、鉄板焼きに大満足遅い夏休み旅行として家族四人で利用しました。建物も加賀らしく豪華絢爛で素晴らしく、温泉、食事(鉄板焼き)も非常に良かったです。雨の次の日であったため、川が…。」
+                    「豪華な建物と温泉、鉄板焼きに大満足遅い夏休み旅行として家族四人で利用しました。建物も加賀らしく豪華絢爛で素晴らしく、温泉、食事(鉄板焼き)も非常に良かったです。雨の次の日であったため、川が…」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">

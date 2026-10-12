@@ -201,7 +201,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.46点、口コミ4700件超。「三つのお風呂がどれも素晴らしく金泉を満喫できた。」「お料理が美味しくスタッフの接客も丁寧で大満足。」と高い信頼を獲得しています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.46点、口コミ4700件超。「三つのお風呂がどれも素晴らしく金泉を満喫できた」「お料理が美味しくスタッフの接客も丁寧で大満足」と高い信頼を獲得しています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -285,7 +285,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.73点という圧倒的高スコア。「お料理が芸術品のように美味しく感動した」「静かで落ち着いた雰囲気とおもてなしの素晴らしさはさすが名門。」と絶賛されています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.73点という圧倒的高スコア。「お料理が芸術品のように美味しく感動した」「静かで落ち着いた雰囲気とおもてなしの素晴らしさはさすが名門」と絶賛されています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -369,7 +369,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.75点の最高峰評価。「金泉と銀泉の両方に入ることができて最高」「おもてなしのレベルが高く、静かにゆったりと過ごせる最高の宿。」と熱い支持。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.75点の最高峰評価。「金泉と銀泉の両方に入ることができて最高」「おもてなしのレベルが高く、静かにゆったりと過ごせる最高の宿」と熱い支持。</p>
               </div>
 
               {/* 宿基本情報 */}

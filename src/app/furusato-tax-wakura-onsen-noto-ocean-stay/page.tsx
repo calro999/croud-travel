@@ -201,7 +201,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.33点、口コミ1500件超。「露天風呂からの七尾湾の景色が最高」「お料理がボリュームたっぷりで能登牛も魚もとても美味しかった。」と好評です。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.33点、口コミ1500件超。「露天風呂からの七尾湾の景色が最高」「お料理がボリュームたっぷりで能登牛も魚もとても美味しかった」と好評です。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -285,7 +285,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.40点、口コミ1800件超。「部屋からもお風呂からも海が目の前に見えて感動。」「スタッフの温かいおもてなしと美味しいご飯に癒やされた。」とリピーター多数。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.40点、口コミ1800件超。「部屋からもお風呂からも海が目の前に見えて感動」「スタッフの温かいおもてなしと美味しいご飯に癒やされた」とリピーター多数。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -369,7 +369,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.25点。「総湯がすぐ隣でとても便利だった」「接客がとても親切でお料理も家庭的で美味しかった。」と温かい口コミが寄せられています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.25点。「総湯がすぐ隣でとても便利だった」「接客がとても親切でお料理も家庭的で美味しかった」と温かい口コミが寄せられています。</p>
               </div>
 
               {/* 宿基本情報 */}

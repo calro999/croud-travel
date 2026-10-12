@@ -183,7 +183,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.37点、口コミ1500件超。「4つの貸切風呂が素晴らしく温泉を心ゆくまで堪能できた。」「夕食・朝食ともに品数が多く味も大満足」と高い支持を得ています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.37点、口コミ1500件超。「4つの貸切風呂が素晴らしく温泉を心ゆくまで堪能できた」「夕食・朝食ともに品数が多く味も大満足」と高い支持を得ています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -277,7 +277,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.25点、口コミ1100件超。「お湯のトロトロ感と硫黄の香りが最高で感動した。」「スタッフの方々の温かい笑顔と挨拶に癒やされた。」と温泉と接客に定評があります。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.25点、口コミ1100件超。「お湯のトロトロ感と硫黄の香りが最高で感動した」「スタッフの方々の温かい笑顔と挨拶に癒やされた」と温泉と接客に定評があります。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価3.87点、口コミ2100件超。「お洒落な雰囲気で夫婦やカップル旅行にぴったり。」「ライブキッチンのステーキがとても美味しかった。」と落ち着いた滞在を求める層に人気です。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価3.87点、口コミ2100件超。「お洒落な雰囲気で夫婦やカップル旅行にぴったり」「ライブキッチンのステーキがとても美味しかった」と落ち着いた滞在を求める層に人気です。</p>
               </div>
 
               {/* 宿基本情報 */}

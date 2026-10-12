@@ -254,7 +254,7 @@ export default function FurusatoRetroOnsenTownYukataStayPage() {
                     千三百年の歴史を誇る信州渋温泉のメインストリート・石畳の小路沿いに佇む風情あふれる温泉宿。渋温泉名物の「九湯めぐり（厄除巡浴外湯めぐり）」の鍵を受け取り、手ぬぐいにスタンプを押しながら九つの外湯を巡る伝統体験が楽しめます。宿自慢の源泉かけ流し天然温泉は肌当たり滑らかで、身体の芯からポカポカに温まります。信州サーモンや信州牛、地元高原野菜を使った素朴で心温まる田舎会席料理が、旅情を優しく包み込みます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「温泉が素晴らしく、夏でも涼しく快適温泉が素晴らしいです。お部屋も十分満足です。真夏の8月にクーラーを使わずに寝られるほどに涼しく、朝夕は外湯めぐりにおすすめです。」
+                    「温泉が素晴らしく、夏でも涼しく快適温泉が素晴らしいです。お部屋も十分満足です。真夏の8月にクーラーを使わずに寝られるほどに涼しく、朝夕は外湯めぐりにおすすめです」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">

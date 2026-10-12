@@ -64,7 +64,7 @@ export default function ArticlePage() {
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅でプライベートに貸切温泉を楽しめる熱海の宿は？","acceptedAnswer":{"@type":"Answer","text":"「貸切温泉のコンドミニアム グランビュー熱海。」は熱海駅徒歩圏内。屋上展望露天風呂などを無料で貸切利用でき、一人旅に大人気です。"}},{"@type":"Question","name":"サンビーチや花火大会を見るのに最適なロケーションの宿は？","acceptedAnswer":{"@type":"Answer","text":"「熱海温泉 ホテルサンミ倶楽部 別館」は熱海港・サンビーチの目の前に位置し、相模湾のパノラマビューを客室や大浴場から楽しめます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅でプライベートに貸切温泉を楽しめる熱海の宿は？","acceptedAnswer":{"@type":"Answer","text":"「貸切温泉のコンドミニアム グランビュー熱海」は熱海駅徒歩圏内。屋上展望露天風呂などを無料で貸切利用でき、一人旅に大人気です。"}},{"@type":"Question","name":"サンビーチや花火大会を見るのに最適なロケーションの宿は？","acceptedAnswer":{"@type":"Answer","text":"「熱海温泉 ホテルサンミ倶楽部 別館」は熱海港・サンビーチの目の前に位置し、相模湾のパノラマビューを客室や大浴場から楽しめます。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -309,7 +309,7 @@ export default function ArticlePage() {
                 <span>一人旅でプライベートに貸切温泉を楽しめる熱海の宿は？</span>
               </h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
-                「貸切温泉のコンドミニアム グランビュー熱海。」は熱海駅徒歩圏内。屋上展望露天風呂などを無料で貸切利用でき、一人旅に大人気です。
+                「貸切温泉のコンドミニアム グランビュー熱海」は熱海駅徒歩圏内。屋上展望露天風呂などを無料で貸切利用でき、一人旅に大人気です。
               </p>
             </div>
             <div className="bg-white p-4 sm:p-5 rounded-xl border border-stone-200">
@@ -359,9 +359,9 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 熱海駅よりアクセス。熱海駅から徒歩7分！熱海サンビーチまで徒歩3分！熱海滞在に便利な立地で飲食店は周辺に多数あり♪。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「貸切温泉のコンドミニアム グランビュー熱海。」にチェックイン。熱海駅徒歩7分☆海まで3分！3室限定の半露天風呂客室と７つの開発業務が人気のコンドミニアムホテル！などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「貸切温泉のコンドミニアム グランビュー熱海。」の湯処へ。熱海駅徒歩7分☆海まで3分！3室限定の半露天風呂客室と７つの開発業務がとともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「貸切温泉のコンドミニアム グランビュー熱海。」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「貸切温泉のコンドミニアム グランビュー熱海」にチェックイン。熱海駅徒歩7分☆海まで3分！3室限定の半露天風呂客室と７つの開発業務が人気のコンドミニアムホテル！などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「貸切温泉のコンドミニアム グランビュー熱海」の湯処へ。熱海駅徒歩7分☆海まで3分！3室限定の半露天風呂客室と７つの開発業務がとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「貸切温泉のコンドミニアム グランビュー熱海」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -370,8 +370,8 @@ export default function ArticlePage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「貸切温泉のコンドミニアム グランビュー熱海。」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「貸切温泉のコンドミニアム グランビュー熱海。」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「貸切温泉のコンドミニアム グランビュー熱海」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「貸切温泉のコンドミニアム グランビュー熱海」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「オーベルジュ フォンテーヌ・ブロー熱海」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>

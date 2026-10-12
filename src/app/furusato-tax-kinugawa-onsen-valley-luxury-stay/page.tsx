@@ -201,7 +201,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.67点、口コミ7600件超という驚異的人気。「空中庭園露天風呂からの景色とお湯が最高」「バイキングのクオリティが高すぎて全世代が大満足。」とリピーターが後を絶ちません。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.67点、口コミ7600件超という驚異的人気。「空中庭園露天風呂からの景色とお湯が最高」「バイキングのクオリティが高すぎて全世代が大満足」とリピーターが後を絶ちません。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -285,7 +285,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.77点という最高ランク。「おもてなし、お部屋からの景色、お料理のすべてが完璧。」「ショコラバーとラウンジの雰囲気が素晴らしく大人の休日に最適。」と絶賛。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.77点という最高ランク。「おもてなし、お部屋からの景色、お料理のすべてが完璧」「ショコラバーとラウンジの雰囲気が素晴らしく大人の休日に最適」と絶賛。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -369,7 +369,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.70点、口コミ1100件超。「部屋とお風呂からの渓谷の眺めが圧巻」「スタッフの細やかな心配りと美味しい料理に心が癒やされた。」と非常に高い満足度。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.70点、口コミ1100件超。「部屋とお風呂からの渓谷の眺めが圧巻」「スタッフの細やかな心配りと美味しい料理に心が癒やされた」と非常に高い満足度。</p>
               </div>
 
               {/* 宿基本情報 */}

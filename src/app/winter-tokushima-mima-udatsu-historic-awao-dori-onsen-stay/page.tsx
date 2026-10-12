@@ -292,7 +292,7 @@ export default function Page() {
 
                   <div className="mt-3 p-3 bg-stone-50 rounded-lg border border-stone-200/60 text-xs text-stone-600 italic">
                     <p className="font-semibold text-[11px] text-stone-500 not-italic mb-0.5">宿泊者のクチコミ抜粋：</p>
-                    「禁煙室なのに廊下からタバコの煙が入り込む一階の部屋は禁煙部屋でも廊下からタバコの煙が入ってきて部屋中が臭くなる。」
+                    「禁煙室なのに廊下からタバコの煙が入り込む一階の部屋は禁煙部屋でも廊下からタバコの煙が入ってきて部屋中が臭くなる」
                   </div>
 
                   <div className="mt-3 pt-3 border-t border-stone-100 text-[11px] text-stone-500 space-y-0.5">
@@ -359,7 +359,7 @@ export default function Page() {
 
                   <div className="mt-3 p-3 bg-stone-50 rounded-lg border border-stone-200/60 text-xs text-stone-600 italic">
                     <p className="font-semibold text-[11px] text-stone-500 not-italic mb-0.5">宿泊者のクチコミ抜粋：</p>
-                    「清潔な館内と無料のマッサージチェアが最高外観は古いですが内部はとても清潔で好感が持てました。館内のあちこちにエアドックを始め各メーカーの空気清浄機があり清掃も行き届いています。ただスタッフ。」
+                    「清潔な館内と無料のマッサージチェアが最高外観は古いですが内部はとても清潔で好感が持てました。館内のあちこちにエアドックを始め各メーカーの空気清浄機があり清掃も行き届いています。ただスタッフ」
                   </div>
 
                   <div className="mt-3 pt-3 border-t border-stone-100 text-[11px] text-stone-500 space-y-0.5">
@@ -426,7 +426,7 @@ export default function Page() {
 
                   <div className="mt-3 p-3 bg-stone-50 rounded-lg border border-stone-200/60 text-xs text-stone-600 italic">
                     <p className="font-semibold text-[11px] text-stone-500 not-italic mb-0.5">宿泊者のクチコミ抜粋：</p>
-                    「古さを生かした清潔な空間と手作りの料理建物・設備の古さありますが、水回り等随所で改修されており、清潔で快適、懐かしい雰囲気でよかったです。夕食は地元食材満載でとても美味しく頂きました。派手では。」
+                    「古さを生かした清潔な空間と手作りの料理建物・設備の古さありますが、水回り等随所で改修されており、清潔で快適、懐かしい雰囲気でよかったです。夕食は地元食材満載でとても美味しく頂きました。派手では」
                   </div>
 
                   <div className="mt-3 pt-3 border-t border-stone-100 text-[11px] text-stone-500 space-y-0.5">
@@ -557,7 +557,7 @@ export default function Page() {
 
                   <div className="mt-3 p-3 bg-stone-50 rounded-lg border border-stone-200/60 text-xs text-stone-600 italic">
                     <p className="font-semibold text-[11px] text-stone-500 not-italic mb-0.5">宿泊者のクチコミ抜粋：</p>
-                    「キッズルームが充実、朝食も美味しく大満足幼児連れで和室に泊まりたかったので、空いていた本館に2泊しました。駐車場も無料で出し入れ可能。大浴場もあり、朝食もすべて美味しく満足しました。そして何よ。」
+                    「キッズルームが充実、朝食も美味しく大満足幼児連れで和室に泊まりたかったので、空いていた本館に2泊しました。駐車場も無料で出し入れ可能。大浴場もあり、朝食もすべて美味しく満足しました。そして何よ」
                   </div>
 
                   <div className="mt-3 pt-3 border-t border-stone-100 text-[11px] text-stone-500 space-y-0.5">

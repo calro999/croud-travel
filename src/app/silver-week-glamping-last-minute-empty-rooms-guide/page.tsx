@@ -162,7 +162,7 @@ export default function SilverWeekGlampingLastMinuteGuidePage() {
           <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-snug font-journal-serif">「まだ間に合う！シルバーウィーク直前予約グランピング」 <br /> <span className="text-emerald-300">空室ありの穴場施設＆キャンセル拾いの極意</span></h1>
 
           <p className="text-sm sm:text-base text-emerald-100/90 leading-relaxed max-w-3xl">
-            「シルバーウィーク直前なのにどこも満室で諦めかけている。」という方に朗報です。連休直前は、規定ペナルティを避ける仮押さえキャンセルの大放出期。空室が出やすい穴場エリアの選定術と、今すぐ即時予約を狙える実力派リゾートを厳選してご案内します。
+            「シルバーウィーク直前なのにどこも満室で諦めかけている」という方に朗報です。連休直前は、規定ペナルティを避ける仮押さえキャンセルの大放出期。空室が出やすい穴場エリアの選定術と、今すぐ即時予約を狙える実力派リゾートを厳選してご案内します。
           </p>
 
           <div className="pt-2 flex flex-wrap gap-4 text-xs font-bold text-emerald-200">

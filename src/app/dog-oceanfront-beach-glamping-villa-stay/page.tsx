@@ -101,7 +101,7 @@ export default function PetDogResortHubPage() {
           </span>
           <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「海直結・愛犬とビーチフロントグランピング＆ヴィラ」砂浜ラン＆BBQ 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
-            朝起きてゲートを開ければ、そこはどこまでも広がるプライベートビーチ！「愛犬とビーチフロントグランピング＆ヴィラ。」。波打ち際を全力でダッシュし、海風を感じながらの焚き火とテラスBBQ。波音を聞きながら愛犬と眠るオーシャンステイへ。
+            朝起きてゲートを開ければ、そこはどこまでも広がるプライベートビーチ！「愛犬とビーチフロントグランピング＆ヴィラ」。波打ち際を全力でダッシュし、海風を感じながらの焚き火とテラスBBQ。波音を聞きながら愛犬と眠るオーシャンステイへ。
           </p>
         </div>
       </div>

@@ -64,7 +64,7 @@ export default function ArticlePage() {
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で海と一体になれるインフィニティ絶景露天風呂とサウナを満喫できる宿は？","acceptedAnswer":{"@type":"Answer","text":"「海一望絶景の宿 いなとり荘」は最上階展望露天風呂や絶景サウナを備え、楽天口コミ★4.5超。水平線を眺めながらととのう至福の一人旅が叶います。"}},{"@type":"Question","name":"一人旅で稲取名物の金目鯛料理を心ゆくまで満喫したいなら？","acceptedAnswer":{"@type":"Answer","text":"「絶景温泉と魚介満腹の宿 稲取東海ホテル湯苑。」は全室オーシャンフロントで、自慢の金目鯛姿煮とお造りを一人旅でも贅沢に味わえます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で海と一体になれるインフィニティ絶景露天風呂とサウナを満喫できる宿は？","acceptedAnswer":{"@type":"Answer","text":"「海一望絶景の宿 いなとり荘」は最上階展望露天風呂や絶景サウナを備え、楽天口コミ★4.5超。水平線を眺めながらととのう至福の一人旅が叶います。"}},{"@type":"Question","name":"一人旅で稲取名物の金目鯛料理を心ゆくまで満喫したいなら？","acceptedAnswer":{"@type":"Answer","text":"「絶景温泉と魚介満腹の宿 稲取東海ホテル湯苑」は全室オーシャンフロントで、自慢の金目鯛姿煮とお造りを一人旅でも贅沢に味わえます。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -319,7 +319,7 @@ export default function ArticlePage() {
                 <span>一人旅で稲取名物の金目鯛料理を心ゆくまで満喫したいなら？</span>
               </h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
-                「絶景温泉と魚介満腹の宿 稲取東海ホテル湯苑。」は全室オーシャンフロントで、自慢の金目鯛姿煮とお造りを一人旅でも贅沢に味わえます。
+                「絶景温泉と魚介満腹の宿 稲取東海ホテル湯苑」は全室オーシャンフロントで、自慢の金目鯛姿煮とお造りを一人旅でも贅沢に味わえます。
               </p>
             </div>
           </div>
@@ -373,7 +373,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「海一望絶景の宿 いなとり荘」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「海一望絶景の宿 いなとり荘」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「絶景温泉と魚介満腹の宿 稲取東海ホテル湯苑。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「絶景温泉と魚介満腹の宿 稲取東海ホテル湯苑」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>

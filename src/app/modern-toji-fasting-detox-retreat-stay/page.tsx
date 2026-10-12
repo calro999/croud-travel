@@ -101,7 +101,7 @@ export default function WellnessRetreatHubPage() {
           </span>
           <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「現代版プチ湯治＆ファスティング宿」デトックス・薬膳料理＆温泉リトリート 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
-            日々の疲れやストレスを手放し、本来の自分を取り戻す「現代版プチ湯治＆ファスティングリトリート。」。管理栄養士監修の酵素ジュース断食、滋味あふれる薬膳料理、歴史ある名湯での湯治体験で、体の内側から輝く美と健康を。
+            日々の疲れやストレスを手放し、本来の自分を取り戻す「現代版プチ湯治＆ファスティングリトリート」。管理栄養士監修の酵素ジュース断食、滋味あふれる薬膳料理、歴史ある名湯での湯治体験で、体の内側から輝く美と健康を。
           </p>
         </div>
       </div>

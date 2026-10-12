@@ -292,7 +292,7 @@ export default function Page() {
 
                   <div className="mt-3 p-3 bg-stone-50 rounded-lg border border-stone-200/60 text-xs text-stone-600 italic">
                     <p className="font-semibold text-[11px] text-stone-500 not-italic mb-0.5">宿泊者のクチコミ抜粋：</p>
-                    「川を望むロビーと温泉、細やかな心配りに満足チェックインより早い時間に到着しましたが、チェックインまで川が眼下に望めるロビーでゆったり過ごさせていただけました。部屋には茶菓子のほか、ドリップコーヒー。」
+                    「川を望むロビーと温泉、細やかな心配りに満足チェックインより早い時間に到着しましたが、チェックインまで川が眼下に望めるロビーでゆったり過ごさせていただけました。部屋には茶菓子のほか、ドリップコーヒー」
                   </div>
 
                   <div className="mt-3 pt-3 border-t border-stone-100 text-[11px] text-stone-500 space-y-0.5">
@@ -359,7 +359,7 @@ export default function Page() {
 
                   <div className="mt-3 p-3 bg-stone-50 rounded-lg border border-stone-200/60 text-xs text-stone-600 italic">
                     <p className="font-semibold text-[11px] text-stone-500 not-italic mb-0.5">宿泊者のクチコミ抜粋：</p>
-                    「スタッフの気配りと温泉に癒やされた旅スタッフの方も親切で、夕食の時にキープした焼酎を部屋に持ち帰ったら、何も言っていないのに、その後にグラスや氷を部屋に持って来てくれました。アルコール類が高かった。」
+                    「スタッフの気配りと温泉に癒やされた旅スタッフの方も親切で、夕食の時にキープした焼酎を部屋に持ち帰ったら、何も言っていないのに、その後にグラスや氷を部屋に持って来てくれました。アルコール類が高かった」
                   </div>
 
                   <div className="mt-3 pt-3 border-t border-stone-100 text-[11px] text-stone-500 space-y-0.5">
@@ -426,7 +426,7 @@ export default function Page() {
 
                   <div className="mt-3 p-3 bg-stone-50 rounded-lg border border-stone-200/60 text-xs text-stone-600 italic">
                     <p className="font-semibold text-[11px] text-stone-500 not-italic mb-0.5">宿泊者のクチコミ抜粋：</p>
-                    「食事は最高だがマッサージ機の点検を希望2台あるマッサージ機の左側の左足は、また骨折級に締め付けました。点検の頻度をあげて欲しいです。食事はサイコーでした。」
+                    「食事は最高だがマッサージ機の点検を希望2台あるマッサージ機の左側の左足は、また骨折級に締め付けました。点検の頻度をあげて欲しいです。食事はサイコーでした」
                   </div>
 
                   <div className="mt-3 pt-3 border-t border-stone-100 text-[11px] text-stone-500 space-y-0.5">
@@ -493,7 +493,7 @@ export default function Page() {
 
                   <div className="mt-3 p-3 bg-stone-50 rounded-lg border border-stone-200/60 text-xs text-stone-600 italic">
                     <p className="font-semibold text-[11px] text-stone-500 not-italic mb-0.5">宿泊者のクチコミ抜粋：</p>
-                    「送迎バス利用でゆっくり過ごしたいホテル当日予約で1泊しました立地に関してコンビニ等がすぐ近くにはないので正直不便を感じると思います車移動の旅行なら使いやすいかとでも部屋から一歩もでない。」
+                    「送迎バス利用でゆっくり過ごしたいホテル当日予約で1泊しました立地に関してコンビニ等がすぐ近くにはないので正直不便を感じると思います車移動の旅行なら使いやすいかとでも部屋から一歩もでない」
                   </div>
 
                   <div className="mt-3 pt-3 border-t border-stone-100 text-[11px] text-stone-500 space-y-0.5">
@@ -560,7 +560,7 @@ export default function Page() {
 
                   <div className="mt-3 p-3 bg-stone-50 rounded-lg border border-stone-200/60 text-xs text-stone-600 italic">
                     <p className="font-semibold text-[11px] text-stone-500 not-italic mb-0.5">宿泊者のクチコミ抜粋：</p>
-                    「43階からの絶景と便利な立地で大満足絶景のお部屋(43階)43階のお部屋に宿泊しましたが、とにかく部屋からの夜景が本当に美しくて感動しました!もちろん朝の景色も素晴らしく、部屋にいるだけで特別。」
+                    「43階からの絶景と便利な立地で大満足絶景のお部屋(43階)43階のお部屋に宿泊しましたが、とにかく部屋からの夜景が本当に美しくて感動しました!もちろん朝の景色も素晴らしく、部屋にいるだけで特別」
                   </div>
 
                   <div className="mt-3 pt-3 border-t border-stone-100 text-[11px] text-stone-500 space-y-0.5">

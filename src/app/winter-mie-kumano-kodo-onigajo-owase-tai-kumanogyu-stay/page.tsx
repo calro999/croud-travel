@@ -349,7 +349,7 @@ export default function FeaturePage() {
                     
                 <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「部屋にも、食事中も虫がたくさんいて困った。食事は少し品数が少なかった。スタッフの方々はとても親切で丁寧でサービスも大変良かったです。」"}</p>
+                  <p className="leading-relaxed">{"「部屋にも、食事中も虫がたくさんいて困った。食事は少し品数が少なかった。スタッフの方々はとても親切で丁寧でサービスも大変良かったです」"}</p>
                 </div>
             
                   </div>
@@ -411,7 +411,7 @@ export default function FeaturePage() {
                     
                 <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「騒音はあったがスタッフの対応が丁寧で安心連泊で予約しました。宿泊日当日の夜は若者のグループに明け方近くまで騒がれ、ゆっくり眠ることができず辛い思いをしました。翌朝にこのことをフロントに申し上げ、同… 投。」"}</p>
+                  <p className="leading-relaxed">{"「騒音はあったがスタッフの対応が丁寧で安心連泊で予約しました。宿泊日当日の夜は若者のグループに明け方近くまで騒がれ、ゆっくり眠ることができず辛い思いをしました。翌朝にこのことをフロントに申し上げ、同… 投」"}</p>
                 </div>
             
                   </div>
@@ -473,7 +473,7 @@ export default function FeaturePage() {
                     
                 <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「新鮮な刺身と夕食に大満足、また利用したい刺身は新鮮でおいしかったです。夜ご飯もおいしく、大変満足でした。また利用したいと思います。つづ。」"}</p>
+                  <p className="leading-relaxed">{"「新鮮な刺身と夕食に大満足、また利用したい刺身は新鮮でおいしかったです。夜ご飯もおいしく、大変満足でした。また利用したいと思います。つづ」"}</p>
                 </div>
             
                   </div>

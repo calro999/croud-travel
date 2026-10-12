@@ -387,7 +387,7 @@ export default function Page() {
                     </p>
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-4 text-xs text-amber-950/90 leading-relaxed italic">
-                  「窓拭きしたことがないという感じでした。洗面所のコップが紙コップなのはまだしも、部屋のグラスやマグカップもなく、紙コップと。」
+                  「窓拭きしたことがないという感じでした。洗面所のコップが紙コップなのはまだしも、部屋のグラスやマグカップもなく、紙コップと」
                 </div>
                   </div>
                 </div>
@@ -519,7 +519,7 @@ export default function Page() {
                     </p>
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-4 text-xs text-amber-950/90 leading-relaxed italic">
-                  「隣室や上階の音が響き、騒がしく落ち着かない施設が古いので、部屋で隣の部屋と上の部屋の音が丸聞こえ。お客さんの民度が次第であるが、団体客に挟まれると地獄。家族間の交流があって、フロア中、ドラえもんや。」
+                  「隣室や上階の音が響き、騒がしく落ち着かない施設が古いので、部屋で隣の部屋と上の部屋の音が丸聞こえ。お客さんの民度が次第であるが、団体客に挟まれると地獄。家族間の交流があって、フロア中、ドラえもんや」
                 </div>
                   </div>
                 </div>
@@ -585,7 +585,7 @@ export default function Page() {
                     </p>
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-4 text-xs text-amber-950/90 leading-relaxed italic">
-                  「お風呂は満足だが設備や衛生面に難あり初めて利用しました。近いのですぐ行けるところは良かったですが、古い宿なのでゴキの訪問などありました。すぐ退治しましたが。部屋の電気が部屋を出なければ無い。」
+                  「お風呂は満足だが設備や衛生面に難あり初めて利用しました。近いのですぐ行けるところは良かったですが、古い宿なのでゴキの訪問などありました。すぐ退治しましたが。部屋の電気が部屋を出なければ無い」
                 </div>
                   </div>
                 </div>
@@ -651,7 +651,7 @@ export default function Page() {
                     </p>
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-4 text-xs text-amber-950/90 leading-relaxed italic">
-                  「車だとアクセス良くアルコールバーも充実立地としては新居浜駅から若干離れていますが、そもそも新居浜の市街地的に明確な中心部が無いのでまあこんなもんでしょうと駐車場は豊富にあるので問題ありませんで。」
+                  「車だとアクセス良くアルコールバーも充実立地としては新居浜駅から若干離れていますが、そもそも新居浜の市街地的に明確な中心部が無いのでまあこんなもんでしょうと駐車場は豊富にあるので問題ありませんで」
                 </div>
                   </div>
                 </div>

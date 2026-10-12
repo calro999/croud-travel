@@ -394,7 +394,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「アクセス良好で岡崎城を望む快適な部屋シルバーウィークに利用させていただきました。徒歩圏内に最寄り駅、コンビニ、飲み屋街があり少し歩きますがアクセスは良いと思います。岡崎城も歩いていけました。シ。」"}</span>
+                  <span>{"「アクセス良好で岡崎城を望む快適な部屋シルバーウィークに利用させていただきました。徒歩圏内に最寄り駅、コンビニ、飲み屋街があり少し歩きますがアクセスは良いと思います。岡崎城も歩いていけました。シ」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -461,7 +461,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「喫煙のにおいが残る以外は満足9階が以前は喫煙室でにおいが残っていました。この点を除けば、他は満足です。」"}</span>
+                  <span>{"「喫煙のにおいが残る以外は満足9階が以前は喫煙室でにおいが残っていました。この点を除けば、他は満足です」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -528,7 +528,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「場所と清潔さに対して価格が安すぎて驚き場所、設備、部屋の清潔さを見て値段が安くてビックリでした。」"}</span>
+                  <span>{"「場所と清潔さに対して価格が安すぎて驚き場所、設備、部屋の清潔さを見て値段が安くてビックリでした」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -595,7 +595,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「眺めと食事は最高だが設備とサービスに課題ありお部屋からの眺めがとても良く、お天気が良ければ星もきれいに見えて素敵でした。夕食もとても美味しく、楽しめました。一方で、建物が少し古く、お部屋の中に。」"}</span>
+                  <span>{"「眺めと食事は最高だが設備とサービスに課題ありお部屋からの眺めがとても良く、お天気が良ければ星もきれいに見えて素敵でした。夕食もとても美味しく、楽しめました。一方で、建物が少し古く、お部屋の中に」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -662,7 +662,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「早めの予約で高騰を回避、助かりました結婚式参加の為宿取りました。アジア大会の為、値段が、爆上がりしているな所 早めに取る事が、出来て良かった。」"}</span>
+                  <span>{"「早めの予約で高騰を回避、助かりました結婚式参加の為宿取りました。アジア大会の為、値段が、爆上がりしているな所 早めに取る事が、出来て良かった」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">

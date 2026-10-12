@@ -387,7 +387,7 @@ export default function Page() {
                     </p>
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-4 text-xs text-amber-950/90 leading-relaxed italic">
-                  「貸切風呂から眺める海の景色が最高貸切風呂に入りながらの海の景色が最高でした。」
+                  「貸切風呂から眺める海の景色が最高貸切風呂に入りながらの海の景色が最高でした」
                 </div>
                   </div>
                 </div>
@@ -453,7 +453,7 @@ export default function Page() {
                     </p>
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-4 text-xs text-amber-950/90 leading-relaxed italic">
-                  「温泉とアクティビティが充実、家族で満喫子供達もお気に入りで沖縄旅行の最終日に何度か利用させていただいています。夕食も、朝食も猿人の湯もとても良いです。沖縄でこのような温泉があるホテル等なか。」
+                  「温泉とアクティビティが充実、家族で満喫子供達もお気に入りで沖縄旅行の最終日に何度か利用させていただいています。夕食も、朝食も猿人の湯もとても良いです。沖縄でこのような温泉があるホテル等なか」
                 </div>
                   </div>
                 </div>
@@ -519,7 +519,7 @@ export default function Page() {
                     </p>
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-4 text-xs text-amber-950/90 leading-relaxed italic">
-                  「朝食と露天風呂は最高、和室に椅子が欲しい初めて宿泊しました!朝食も美味しく、部屋の露天風呂もスパも良かったです。」
+                  「朝食と露天風呂は最高、和室に椅子が欲しい初めて宿泊しました!朝食も美味しく、部屋の露天風呂もスパも良かったです」
                 </div>
                   </div>
                 </div>
@@ -585,7 +585,7 @@ export default function Page() {
                     </p>
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-4 text-xs text-amber-950/90 leading-relaxed italic">
-                  「清潔感がありプールは楽しめたが朝食は混雑サービスや施設の充実度は期待より低かったが、清潔感がありプールもあるのでこどもたちは楽しんでいました。ビュッフェはたのしみにしていたが、朝食では混み合っ。」
+                  「清潔感がありプールは楽しめたが朝食は混雑サービスや施設の充実度は期待より低かったが、清潔感がありプールもあるのでこどもたちは楽しんでいました。ビュッフェはたのしみにしていたが、朝食では混み合っ」
                 </div>
                   </div>
                 </div>
@@ -651,7 +651,7 @@ export default function Page() {
                     </p>
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-4 text-xs text-amber-950/90 leading-relaxed italic">
-                  「立地と朝食を考えればコスパは十分この立地で、朝食付きでこのお値段ならコスパはいいと思います。コンビニなどは少し歩く必要があるので、あらかじめ時間に余裕を持っておくか、事前に買い物を済ませておく。」
+                  「立地と朝食を考えればコスパは十分この立地で、朝食付きでこのお値段ならコスパはいいと思います。コンビニなどは少し歩く必要があるので、あらかじめ時間に余裕を持っておくか、事前に買い物を済ませておく」
                 </div>
                   </div>
                 </div>

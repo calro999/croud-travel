@@ -5,14 +5,14 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: '浅草・スカイツリーをふるさと納税でお得に旅する！雷門の情緒＆大迫力のタワービュー！下町名湯＆最新ホテル特集｜浅草ビューホテル・THE GATE HOTEL・御宿野乃',
-  description: '江戸情緒と最先端のタワーが交差する東京屈指の観光地・東京都台東区「浅草」を楽天ふるさと納税でお得に満喫！東京スカイツリーと浅草寺を一望する「浅草ビューホテル アネックス 六区」、雷門徒歩2分の洗練デザイナーズ「THE GATE HOTEL 雷門 by HULIC。」、全館畳敷き＆黒湯天然温泉の「天然温泉 凌雲の湯 御宿 野乃 浅草」を徹底比較。台東区トラベルクーポン活用術を網羅。',
+  description: '江戸情緒と最先端のタワーが交差する東京屈指の観光地・東京都台東区「浅草」を楽天ふるさと納税でお得に満喫！東京スカイツリーと浅草寺を一望する「浅草ビューホテル アネックス 六区」、雷門徒歩2分の洗練デザイナーズ「THE GATE HOTEL 雷門 by HULIC」、全館畳敷き＆黒湯天然温泉の「天然温泉 凌雲の湯 御宿 野乃 浅草」を徹底比較。台東区トラベルクーポン活用術を網羅。',
   keywords: '浅草 ホテル ふるさと納税,浅草ビューホテル クーポン,THE GATE HOTEL 雷門 ふるさと納税,御宿野乃 浅草 宿泊,台東区 ふるさと納税 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-tokyo-asakusa-skytree-view-stay/",
   },
   openGraph: {
     title: '浅草・スカイツリーをふるさと納税でお得に旅する！雷門の情緒＆大迫力のタワービュー！下町名湯＆最新ホテル特集｜浅草ビューホテル・THE GATE HOTEL・御宿野乃',
-    description: '江戸情緒と最先端のタワーが交差する東京屈指の観光地・東京都台東区「浅草」を楽天ふるさと納税でお得に満喫！東京スカイツリーと浅草寺を一望する「浅草ビューホテル アネックス 六区」、雷門徒歩2分の洗練デザイナーズ「THE GATE HOTEL 雷門 by HULIC。」、全館畳敷き＆黒湯天然温泉の「天然温泉 凌雲の湯 御宿 野乃 浅草」を徹底比較。台東区トラベルクーポン活用術を網羅。',
+    description: '江戸情緒と最先端のタワーが交差する東京屈指の観光地・東京都台東区「浅草」を楽天ふるさと納税でお得に満喫！東京スカイツリーと浅草寺を一望する「浅草ビューホテル アネックス 六区」、雷門徒歩2分の洗練デザイナーズ「THE GATE HOTEL 雷門 by HULIC」、全館畳敷き＆黒湯天然温泉の「天然温泉 凌雲の湯 御宿 野乃 浅草」を徹底比較。台東区トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-tokyo-asakusa-skytree-view-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -25,7 +25,7 @@ export default function FurusatoArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '浅草・スカイツリーをふるさと納税でお得に旅する！雷門の情緒＆大迫力のタワービュー！下町名湯＆最新ホテル特集｜浅草ビューホテル・THE GATE HOTEL・御宿野乃',
-    description: '江戸情緒と最先端のタワーが交差する東京屈指の観光地・東京都台東区「浅草」を楽天ふるさと納税でお得に満喫！東京スカイツリーと浅草寺を一望する「浅草ビューホテル アネックス 六区」、雷門徒歩2分の洗練デザイナーズ「THE GATE HOTEL 雷門 by HULIC。」、全館畳敷き＆黒湯天然温泉の「天然温泉 凌雲の湯 御宿 野乃 浅草」を徹底比較。台東区トラベルクーポン活用術を網羅。',
+    description: '江戸情緒と最先端のタワーが交差する東京屈指の観光地・東京都台東区「浅草」を楽天ふるさと納税でお得に満喫！東京スカイツリーと浅草寺を一望する「浅草ビューホテル アネックス 六区」、雷門徒歩2分の洗練デザイナーズ「THE GATE HOTEL 雷門 by HULIC」、全館畳敷き＆黒湯天然温泉の「天然温泉 凌雲の湯 御宿 野乃 浅草」を徹底比較。台東区トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル 観光・ふるさと納税調査班',
@@ -49,7 +49,7 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「浅草ビューホテル アネックス 六区」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「浅草ビューホテル アネックス 六区」へは、公共交通機関またはお車でのアクセスが可能です。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「浅草ビューホテル アネックス 六区」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「浅草ビューホテル アネックス 六区」は『和の伝統文化に触れ、“本当の浅草”を感じる体験型ホテル。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「浅草ビューホテル アネックス 六区」と「ＴＨＥ ＧＡＴＥ ＨＯＴＥＬ 雷門 ｂｙ ＨＵＬＩＣ。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「浅草ビューホテル アネックス 六区」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「浅草ビューホテル アネックス 六区」へは、公共交通機関またはお車でのアクセスが可能です。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「浅草ビューホテル アネックス 六区」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「浅草ビューホテル アネックス 六区」は『和の伝統文化に触れ、“本当の浅草”を感じる体験型ホテル。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「浅草ビューホテル アネックス 六区」と「ＴＨＥ ＧＡＴＥ ＨＯＴＥＬ 雷門 ｂｙ ＨＵＬＩＣ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -77,7 +77,7 @@ export default function FurusatoArticlePage() {
         </div>
         <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">浅草・スカイツリーをふるさと納税でお得に旅する！雷門の情緒＆大迫力のタワービュー！下町名湯＆最新ホテル特集｜浅草ビューホテル・THE GATE HOTEL・御宿野乃</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed">
-          江戸情緒と最先端のタワーが交差する東京屈指の観光地・東京都台東区「浅草」を楽天ふるさと納税でお得に満喫！東京スカイツリーと浅草寺を一望する「浅草ビューホテル アネックス 六区」、雷門徒歩2分の洗練デザイナーズ「THE GATE HOTEL 雷門 by HULIC。」、全館畳敷き＆黒湯天然温泉の「天然温泉 凌雲の湯 御宿 野乃 浅草」を徹底比較。台東区トラベルクーポン活用術を網羅。
+          江戸情緒と最先端のタワーが交差する東京屈指の観光地・東京都台東区「浅草」を楽天ふるさと納税でお得に満喫！東京スカイツリーと浅草寺を一望する「浅草ビューホテル アネックス 六区」、雷門徒歩2分の洗練デザイナーズ「THE GATE HOTEL 雷門 by HULIC」、全館畳敷き＆黒湯天然温泉の「天然温泉 凌雲の湯 御宿 野乃 浅草」を徹底比較。台東区トラベルクーポン活用術を網羅。
         </p>
       </header>
 
@@ -201,7 +201,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.50点、口コミ高評価。「スカイツリーの眺めが最高で、お部屋も和モダンで清潔。」「浅草寺や花やしきへのアクセスが抜群でスタッフも親切。」と好評。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.50点、口コミ高評価。「スカイツリーの眺めが最高で、お部屋も和モダンで清潔」「浅草寺や花やしきへのアクセスが抜群でスタッフも親切」と好評。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -285,7 +285,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.45点、口コミ2500件超。「13階からのスカイツリーの眺めが圧巻」「朝食のエッグベネディクトが絶品で、雷門のすぐそばで観光に便利。」と大人気。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.45点、口コミ2500件超。「13階からのスカイツリーの眺めが圧巻」「朝食のエッグベネディクトが絶品で、雷門のすぐそばで観光に便利」と大人気。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -369,7 +369,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.43点、口コミ2600件超。「黒湯の天然温泉がとても気持ちよくサウナも最高。」「朝食のいくら丼が豪華で、全館畳敷きなのが落ち着く。」と高評価。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.43点、口コミ2600件超。「黒湯の天然温泉がとても気持ちよくサウナも最高」「朝食のいくら丼が豪華で、全館畳敷きなのが落ち着く」と高評価。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -546,7 +546,7 @@ export default function FurusatoArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「浅草ビューホテル アネックス 六区」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「浅草ビューホテル アネックス 六区」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ＴＨＥ ＧＡＴＥ ＨＯＴＥＬ 雷門 ｂｙ ＨＵＬＩＣ。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ＴＨＥ ＧＡＴＥ ＨＯＴＥＬ 雷門 ｂｙ ＨＵＬＩＣ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -585,7 +585,7 @@ export default function FurusatoArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「浅草ビューホテル アネックス 六区」と「ＴＨＥ ＧＡＴＥ ＨＯＴＥＬ 雷門 ｂｙ ＨＵＬＩＣ。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「浅草ビューホテル アネックス 六区」と「ＴＨＥ ＧＡＴＥ ＨＯＴＥＬ 雷門 ｂｙ ＨＵＬＩＣ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

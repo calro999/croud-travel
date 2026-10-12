@@ -293,7 +293,7 @@ export default function WinterFeaturePage() {
 
             <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700 leading-relaxed">
               <span className="font-bold text-amber-900 block mb-1">宿泊者のクチコミ抜粋:</span>
-              「駅近で清潔な部屋と大浴場、食事も大満足駅前で立地良しで、清潔なお部屋で、大浴場もありました。夕飯と朝食も美味しく、良いホテルでした。他の画像や。」
+              「駅近で清潔な部屋と大浴場、食事も大満足駅前で立地良しで、清潔なお部屋で、大浴場もありました。夕飯と朝食も美味しく、良いホテルでした。他の画像や」
             </div>
 
                   <div className="mt-3 pt-3 border-t border-stone-100 text-[11px] text-stone-500 space-y-0.5">
@@ -359,7 +359,7 @@ export default function WinterFeaturePage() {
 
             <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700 leading-relaxed">
               <span className="font-bold text-amber-900 block mb-1">宿泊者のクチコミ抜粋:</span>
-              「夕食の海の幸会席が豪華で大満足ホテルは決して新しくは無いので、設備的には普通だと思う。でもお値段もリーズナブルなので私としては全く問題なし。今回は朝夕食付きにしたので、大満足だったのは夕食(海の幸。」
+              「夕食の海の幸会席が豪華で大満足ホテルは決して新しくは無いので、設備的には普通だと思う。でもお値段もリーズナブルなので私としては全く問題なし。今回は朝夕食付きにしたので、大満足だったのは夕食(海の幸」
             </div>
 
                   <div className="mt-3 pt-3 border-t border-stone-100 text-[11px] text-stone-500 space-y-0.5">
@@ -425,7 +425,7 @@ export default function WinterFeaturePage() {
 
             <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700 leading-relaxed">
               <span className="font-bold text-amber-900 block mb-1">宿泊者のクチコミ抜粋:</span>
-              「清潔で使いやすく、温泉も満喫できた清潔で使いやすかったです。温泉もあってよかったです。」
+              「清潔で使いやすく、温泉も満喫できた清潔で使いやすかったです。温泉もあってよかったです」
             </div>
 
                   <div className="mt-3 pt-3 border-t border-stone-100 text-[11px] text-stone-500 space-y-0.5">
@@ -491,7 +491,7 @@ export default function WinterFeaturePage() {
 
             <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700 leading-relaxed">
               <span className="font-bold text-amber-900 block mb-1">宿泊者のクチコミ抜粋:</span>
-              「スタッフの対応が良く、佐伯を満喫できたホテルでの食事はしてないですが、スタッフの対応が良く気持良かったです。佐伯は食事も美味しく満喫しました。」
+              「スタッフの対応が良く、佐伯を満喫できたホテルでの食事はしてないですが、スタッフの対応が良く気持良かったです。佐伯は食事も美味しく満喫しました」
             </div>
 
                   <div className="mt-3 pt-3 border-t border-stone-100 text-[11px] text-stone-500 space-y-0.5">

@@ -7,11 +7,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/yamagata-solo-business-yamagatagyu-ramen-stay/" },
   title: '山形出張＆麺王国ひとり旅：山形駅直結・シモンズベッド・絶品山形牛！ラーメン消費量日本一の街を満喫する極上ホテル 厳選3選',
-  description: '山形新幹線つばさ直結・ラーメンの聖地＆果樹王国「山形」！「JR山形駅東西自由通路直結のフラッグシップ。」の「ホテルメトロポリタン山形」、駅西口徒歩2分で全室シモンズベッド完備の「リッチモンドホテル山形駅前」、七日町歓楽街近くの「山形グランドホテル」を徹底特集。',
+  description: '山形新幹線つばさ直結・ラーメンの聖地＆果樹王国「山形」！「JR山形駅東西自由通路直結のフラッグシップ」の「ホテルメトロポリタン山形」、駅西口徒歩2分で全室シモンズベッド完備の「リッチモンドホテル山形駅前」、七日町歓楽街近くの「山形グランドホテル」を徹底特集。',
   keywords: '山形 出張 ホテル おすすめ,山形 一人旅 ホテル,ホテルメトロポリタン山形 宿泊,リッチモンドホテル山形駅前 朝食,山形 ラーメン ホテル',
   openGraph: {
     title: '山形出張＆麺王国ひとり旅：山形駅直結・シモンズベッド・絶品山形牛！ラーメン消費量日本一の街を満喫する極上ホテル 厳選3選',
-    description: '山形新幹線つばさ直結・ラーメンの聖地＆果樹王国「山形」！「JR山形駅東西自由通路直結のフラッグシップ。」の「ホテルメトロポリタン山形」、駅西口徒歩2分で全室シモンズベッド完備の「リッチモンドホテル山形駅前」、七日町歓楽街近くの「山形グランドホテル」を徹底特集。',
+    description: '山形新幹線つばさ直結・ラーメンの聖地＆果樹王国「山形」！「JR山形駅東西自由通路直結のフラッグシップ」の「ホテルメトロポリタン山形」、駅西口徒歩2分で全室シモンズベッド完備の「リッチモンドホテル山形駅前」、七日町歓楽街近くの「山形グランドホテル」を徹底特集。',
     url: 'https://croud-travel.pages.dev/yamagata-solo-business-yamagatagyu-ramen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -24,7 +24,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '山形出張＆麺王国ひとり旅：山形駅直結・シモンズベッド・絶品山形牛！ラーメン消費量日本一の街を満喫する極上ホテル 厳選3選',
-    description: '山形新幹線つばさ直結・ラーメンの聖地＆果樹王国「山形」！「JR山形駅東西自由通路直結のフラッグシップ。」の「ホテルメトロポリタン山形」、駅西口徒歩2分で全室シモンズベッド完備の「リッチモンドホテル山形駅前」、七日町歓楽街近くの「山形グランドホテル」を徹底特集。',
+    description: '山形新幹線つばさ直結・ラーメンの聖地＆果樹王国「山形」！「JR山形駅東西自由通路直結のフラッグシップ」の「ホテルメトロポリタン山形」、駅西口徒歩2分で全室シモンズベッド完備の「リッチモンドホテル山形駅前」、七日町歓楽街近くの「山形グランドホテル」を徹底特集。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・出張調査班',
@@ -76,7 +76,7 @@ export default function ArticlePage() {
         </div>
         <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">「山形出張＆麺王国ひとり旅」山形駅直結・シモンズベッド・絶品山形牛！ラーメン消費量日本一の街を満喫する極上ホテル 厳選3選</h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed pt-2">
-          山形新幹線つばさ直結・ラーメンの聖地＆果樹王国「山形」！「JR山形駅東西自由通路直結のフラッグシップ。」の「ホテルメトロポリタン山形」、駅西口徒歩2分で全室シモンズベッド完備の「リッチモンドホテル山形駅前」、七日町歓楽街近くの「山形グランドホテル」を徹底特集。
+          山形新幹線つばさ直結・ラーメンの聖地＆果樹王国「山形」！「JR山形駅東西自由通路直結のフラッグシップ」の「ホテルメトロポリタン山形」、駅西口徒歩2分で全室シモンズベッド完備の「リッチモンドホテル山形駅前」、七日町歓楽街近くの「山形グランドホテル」を徹底特集。
         </p>
       </header>
 
@@ -159,7 +159,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.43点。「駅直結で立地が最強。南館の部屋が新しくお風呂もセパレートで最高でした。」「朝食の芋煮とつや姫が美味しく、出張ならここ一択。」と大絶賛。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.43点。「駅直結で立地が最強。南館の部屋が新しくお風呂もセパレートで最高でした」「朝食の芋煮とつや姫が美味しく、出張ならここ一択」と大絶賛。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -234,7 +234,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.44点。「駅近で部屋も広く、スタッフの接客がとても丁寧でした。」「朝食の芋煮が美味しく、デスクワークもしやすくて大満足。」と高評価。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.44点。「駅近で部屋も広く、スタッフの接客がとても丁寧でした」「朝食の芋煮が美味しく、デスクワークもしやすくて大満足」と高評価。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -309,7 +309,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.05点。「七日町に近くて飲食店が多く便利でした」「スタッフの対応が親切で落ち着いて過ごせました。」と定評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.05点。「七日町に近くて飲食店が多く便利でした」「スタッフの対応が親切で落ち着いて過ごせました」と定評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">

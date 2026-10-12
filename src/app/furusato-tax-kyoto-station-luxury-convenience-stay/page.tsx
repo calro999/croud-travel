@@ -201,7 +201,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.47点、口コミ6200件超。「駅直結で荷物預けもスムーズ、立地が最高すぎる。」「スタッフのホスピタリティとお部屋からの京都タワーの眺めが素晴らしい。」と絶賛。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.47点、口コミ6200件超。「駅直結で荷物預けもスムーズ、立地が最高すぎる」「スタッフのホスピタリティとお部屋からの京都タワーの眺めが素晴らしい」と絶賛。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -285,7 +285,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.60点、口コミ高評価。「ロビーの階段とお部屋の雰囲気がとにかくおしゃれ。」「静かで落ち着いた空間とお料理の美味しさに感動した。」と大人気。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.60点、口コミ高評価。「ロビーの階段とお部屋の雰囲気がとにかくおしゃれ」「静かで落ち着いた空間とお料理の美味しさに感動した」と大人気。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -369,7 +369,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.26点、口コミ4800件超。「回転レストランからの夜景がロマンチックで最高。」「スタッフの接客がとても親切丁寧で、シャトルバスも便利。」と高い満足度。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.26点、口コミ4800件超。「回転レストランからの夜景がロマンチックで最高」「スタッフの接客がとても親切丁寧で、シャトルバスも便利」と高い満足度。</p>
               </div>
 
               {/* 宿基本情報 */}

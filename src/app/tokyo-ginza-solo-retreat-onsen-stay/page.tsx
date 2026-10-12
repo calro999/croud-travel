@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tokyo-ginza-solo-retreat-onsen-stay/" },
   title: '銀座ひとり旅・大浴場おこもり：歌舞伎座・洗練モダン大浴殿・極上江戸前グルメ！大人の憧れ街で心満たされる厳選3宿',
-  description: '東銀座駅・銀座駅から徒歩数分！歌舞伎座木挽町広場すぐで和モダン大浴場を備える「三井ガーデンホテル銀座五丁目」、スタイリッシュな銀座の隠れ家スパ「ザ・スクエアホテル銀座」、銀座中央通りも至近で抜群の洗練空間を誇る「ダイワロイネットホテル銀座 PREMIER。」を徹底比較。',
+  description: '東銀座駅・銀座駅から徒歩数分！歌舞伎座木挽町広場すぐで和モダン大浴場を備える「三井ガーデンホテル銀座五丁目」、スタイリッシュな銀座の隠れ家スパ「ザ・スクエアホテル銀座」、銀座中央通りも至近で抜群の洗練空間を誇る「ダイワロイネットホテル銀座 PREMIER」を徹底比較。',
   keywords: '銀座 一人旅 ホテル,銀座 ホテル 大浴場,三井ガーデンホテル銀座五丁目,ザスクエアホテル銀座,ダイワロイネットホテル銀座PREMIER,銀座 おこもり 宿',
   openGraph: {
     title: '銀座ひとり旅・大浴場おこもり：歌舞伎座・洗練モダン大浴殿・極上江戸前グルメ！大人の憧れ街で心満たされる厳選3宿',
-    description: '東銀座駅・銀座駅から徒歩数分！歌舞伎座木挽町広場すぐで和モダン大浴場を備える「三井ガーデンホテル銀座五丁目」、スタイリッシュな銀座の隠れ家スパ「ザ・スクエアホテル銀座」、銀座中央通りも至近で抜群の洗練空間を誇る「ダイワロイネットホテル銀座 PREMIER。」を徹底比較。',
+    description: '東銀座駅・銀座駅から徒歩数分！歌舞伎座木挽町広場すぐで和モダン大浴場を備える「三井ガーデンホテル銀座五丁目」、スタイリッシュな銀座の隠れ家スパ「ザ・スクエアホテル銀座」、銀座中央通りも至近で抜群の洗練空間を誇る「ダイワロイネットホテル銀座 PREMIER」を徹底比較。',
     url: 'https://croud-travel.pages.dev/tokyo-ginza-solo-retreat-onsen-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
@@ -23,7 +23,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '銀座ひとり旅・大浴場おこもり：歌舞伎座・洗練モダン大浴殿・極上江戸前グルメ！大人の憧れ街で心満たされる厳選3宿',
-    description: '東銀座駅・銀座駅から徒歩数分！歌舞伎座木挽町広場すぐで和モダン大浴場を備える「三井ガーデンホテル銀座五丁目」、スタイリッシュな銀座の隠れ家スパ「ザ・スクエアホテル銀座」、銀座中央通りも至近で抜群の洗練空間を誇る「ダイワロイネットホテル銀座 PREMIER。」を徹底比較。',
+    description: '東銀座駅・銀座駅から徒歩数分！歌舞伎座木挽町広場すぐで和モダン大浴場を備える「三井ガーデンホテル銀座五丁目」、スタイリッシュな銀座の隠れ家スパ「ザ・スクエアホテル銀座」、銀座中央通りも至近で抜群の洗練空間を誇る「ダイワロイネットホテル銀座 PREMIER」を徹底比較。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル ひとり旅・出張調査班',
@@ -47,7 +47,7 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「歌舞伎座・洗練モダン大浴殿・極上江戸前グルメ！大人の憧れ街で心満たされる厳選3宿。」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「歌舞伎座・洗練モダン大浴殿・極上江戸前グルメ！大人の憧れ街で心満たされる厳選3宿」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -393,7 +393,7 @@ export default function ArticlePage() {
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 「歌舞伎座・洗練モダン大浴殿・極上江戸前グルメ！大人の憧れ街で心満たされる厳選3宿。」を効率よく巡るコツは？</span>
+                <span>Q. 「歌舞伎座・洗練モダン大浴殿・極上江戸前グルメ！大人の憧れ街で心満たされる厳選3宿」を効率よく巡るコツは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">

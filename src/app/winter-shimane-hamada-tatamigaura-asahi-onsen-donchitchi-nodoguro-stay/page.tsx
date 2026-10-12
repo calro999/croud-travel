@@ -394,7 +394,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「地元食材の朝食は美味、もう少しボリュームが欲しい朝食に地元食材を使い、それぞれの説明も印刷したものがあり分かりやすかったしおいしかったです。ぼりゅむがもう少しあると良かったです。クチコミの詳細。」"}</span>
+                  <span>{"「地元食材の朝食は美味、もう少しボリュームが欲しい朝食に地元食材を使い、それぞれの説明も印刷したものがあり分かりやすかったしおいしかったです。ぼりゅむがもう少しあると良かったです。クチコミの詳細」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -461,7 +461,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「部屋適度に広く清潔感、コスパ大部屋・ベッド・バス・トイレが適度に広く丁度良い、リフォームのようで綺麗、全体に清潔感ありコスパ大です (ベッドの読書灯ナシ、エアコン音、エアコンが効くまでの部屋臭が少。」"}</span>
+                  <span>{"「部屋適度に広く清潔感、コスパ大部屋・ベッド・バス・トイレが適度に広く丁度良い、リフォームのようで綺麗、全体に清潔感ありコスパ大です (ベッドの読書灯ナシ、エアコン音、エアコンが効くまでの部屋臭が少」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -528,7 +528,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「館内のラウンジが充実しており退屈知らず立地的には周りに観光できる場所がなかったので、少しお散歩したいというのは難しかったです。ただそれを補っていただけるほど、館内のラウンジが充実していたので退。」"}</span>
+                  <span>{"「館内のラウンジが充実しており退屈知らず立地的には周りに観光できる場所がなかったので、少しお散歩したいというのは難しかったです。ただそれを補っていただけるほど、館内のラウンジが充実していたので退」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -595,7 +595,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「食事、お風呂最高90代の母2人連れて行きました娘よりよく食べ、美味しい食事を満喫しました。お風呂も気持ちよくはいりました。元湯のチケットももらいお得でした。お湯はとってもスベスベでした。」"}</span>
+                  <span>{"「食事、お風呂最高90代の母2人連れて行きました娘よりよく食べ、美味しい食事を満喫しました。お風呂も気持ちよくはいりました。元湯のチケットももらいお得でした。お湯はとってもスベスベでした」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">

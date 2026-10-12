@@ -289,7 +289,7 @@ export default function ArticlePage() {
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">温泉街の中心にある無料の足湯広場。夜になると色とりどりの和傘が照らし出され、一人静かに夕涼みを楽しめます。</p>
             </div>
             <div className="space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">「プレミアムポルポ（新潟地酒・干物・煎餅の試食散策）。」</h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">「プレミアムポルポ（新潟地酒・干物・煎餅の試食散策）」</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">月岡温泉街には新潟の地酒を試飲できる「蔵」や、自分で煎餅を手焼きできる「田」などユニークな専門店が並びます。</p>
             </div>
             <div className="space-y-2">

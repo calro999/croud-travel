@@ -457,7 +457,7 @@ export default function LuxuryStayPage() {
 
               <div className="bg-slate-50 p-4 rounded-xl border-l-4 border-amber-500 text-xs md:text-sm text-slate-600 italic mb-6">
                 <span className="font-bold text-slate-700 not-italic block mb-1">宿泊者のクチコミ体験談</span>
-                「大人のための隠れ宿。全室展望温泉風呂付き、冬の松葉ガニフルコースと極上の寛ぎ。」
+                「大人のための隠れ宿。全室展望温泉風呂付き、冬の松葉ガニフルコースと極上の寛ぎ」
               </div>
 
               <div className="pt-2">
@@ -526,7 +526,7 @@ export default function LuxuryStayPage() {
 
               <div className="bg-slate-50 p-4 rounded-xl border-l-4 border-amber-500 text-xs md:text-sm text-slate-600 italic mb-6">
                 <span className="font-bold text-slate-700 not-italic block mb-1">宿泊者のクチコミ体験談</span>
-                「幻の間人ガニを炭火焼きや刺しで味わい尽くす老舗宿。昭和レトロな風情と温かいもてなし。」
+                「幻の間人ガニを炭火焼きや刺しで味わい尽くす老舗宿。昭和レトロな風情と温かいもてなし」
               </div>
 
               <div className="pt-2">

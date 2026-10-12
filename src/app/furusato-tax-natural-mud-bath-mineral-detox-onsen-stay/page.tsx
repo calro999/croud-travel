@@ -49,7 +49,7 @@ export default function FurusatoNaturalMudBathStayPage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「後生掛温泉」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「後生掛温泉」へは、鹿角八幡平ICより車で45分。最寄りの鹿角花輪駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「後生掛温泉」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「後生掛温泉」は『開湯300年。古くから『馬で来て、足駄で帰る、後生掛』と謡われる八幡平国立公園内に佇む一軒』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「後生掛温泉」と「どろ湯の旅籠さくらさくら温泉 霧島神宮温泉郷。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「後生掛温泉」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「後生掛温泉」へは、鹿角八幡平ICより車で45分。最寄りの鹿角花輪駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「後生掛温泉」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「後生掛温泉」は『開湯300年。古くから『馬で来て、足駄で帰る、後生掛』と謡われる八幡平国立公園内に佇む一軒』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「後生掛温泉」と「どろ湯の旅籠さくらさくら温泉 霧島神宮温泉郷」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -70,7 +70,7 @@ export default function FurusatoNaturalMudBathStayPage() {
           </div>
           <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-serif mb-6 leading-tight tracking-tight text-amber-50">天然ミネラル泥パックで全身ツルツル美肌！極上泥湯温泉＆湯治名旅館×ふるさと納税厳選ガイド八幡平後生掛・霧島・別府鉄輪</h1>
           <p className="text-stone-300 text-sm md:text-base lg:text-lg leading-relaxed max-w-4xl mb-6">
-            地下深くの火山活動によって噴き出す、微細なミネラル成分を豊富に含んだ天然の温泉泥「泥湯（どろゆ・クレイバス）」。通常の温泉水とは比較にならないほど高い吸着力と保温力を持ち、毛穴の奥の皮脂や老廃物をすっきりと取り除きながら、ミネラルを肌の角質層深くまで届けてくれる天然のエステ・デトックス温泉です。湯底から湧き出す温かい火山泥に身を沈めると、とろりとした独特の浮力と心地よい重みで全身の緊張がほどけ、洗い流した後の肌は驚くほど滑らかで吸い付くような陶器肌へと生まれ変わります。十和田八幡平国立公園の標高約1,000mに位置し、「馬で来て足駄で帰る（不自由な身体で来ても下駄で元気に歩いて帰れる）。」と語り継がれる名物泥風呂（火山泥湿湯）や箱蒸し風呂を誇る秋田県「後生掛温泉」、硫黄成分をたっぷり含んだ天然の泥パックを顔や全身に塗って乾かす元祖泥湯リゾートとして全国の美肌ファンに愛される鹿児島県「さくらさくら温泉」、そして日本屈指の湯量を誇る別府鉄輪で良質な鉱泥クレイと名物の地獄蒸し料理を堪能できる「神丘温泉 豊山荘」。地球の命の息吹を肌で感じる稀少な泥湯宿を、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を使って実質自己負担2,000円で賢く予約し、極上の再生美肌旅へ出かけましょう。
+            地下深くの火山活動によって噴き出す、微細なミネラル成分を豊富に含んだ天然の温泉泥「泥湯（どろゆ・クレイバス）」。通常の温泉水とは比較にならないほど高い吸着力と保温力を持ち、毛穴の奥の皮脂や老廃物をすっきりと取り除きながら、ミネラルを肌の角質層深くまで届けてくれる天然のエステ・デトックス温泉です。湯底から湧き出す温かい火山泥に身を沈めると、とろりとした独特の浮力と心地よい重みで全身の緊張がほどけ、洗い流した後の肌は驚くほど滑らかで吸い付くような陶器肌へと生まれ変わります。十和田八幡平国立公園の標高約1,000mに位置し、「馬で来て足駄で帰る（不自由な身体で来ても下駄で元気に歩いて帰れる）」と語り継がれる名物泥風呂（火山泥湿湯）や箱蒸し風呂を誇る秋田県「後生掛温泉」、硫黄成分をたっぷり含んだ天然の泥パックを顔や全身に塗って乾かす元祖泥湯リゾートとして全国の美肌ファンに愛される鹿児島県「さくらさくら温泉」、そして日本屈指の湯量を誇る別府鉄輪で良質な鉱泥クレイと名物の地獄蒸し料理を堪能できる「神丘温泉 豊山荘」。地球の命の息吹を肌で感じる稀少な泥湯宿を、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を使って実質自己負担2,000円で賢く予約し、極上の再生美肌旅へ出かけましょう。
           </p>
           <div className="flex flex-wrap gap-4 pt-4 border-t border-amber-900/50 text-xs text-amber-200/90 font-medium">
             <span>✓ 寄付額の最大30％相当が宿泊クーポンに</span>
@@ -193,7 +193,7 @@ export default function FurusatoNaturalMudBathStayPage() {
                     十和田八幡平国立公園の雄大な大自然、標高約1,000mの高原に位置し、開湯三百有余年の歴史を誇る名門湯治宿。宿の名物は、足元から湧き出る天然の温かい火山泥に首まで浸かる「泥風呂（火山泥湿湯）」。きめ細やかな泥の心地よい重みと温熱効果が全身を包み込み、神経痛や美肌に絶大な効能を誇ります。さらに首だけを出して蒸気を浴びる「箱蒸し風呂」や滝風呂、神経痛の湯など7つの多彩な湯殿を完備。比内地鶏や八幡平ポーク、山菜を使った滋味深い手作り料理とともに、本物の湯治の力を実感できる温泉好き憧れの宿です。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「スムーズな受付と個室感覚の食事で快適な温泉旅チェックインの際、2年前の情報が反映されてフロントの方も不要な説明を省略してくださり、スムーズに短時間で部屋に入れました。今回も、後生掛温泉ならでは…。」
+                    「スムーズな受付と個室感覚の食事で快適な温泉旅チェックインの際、2年前の情報が反映されてフロントの方も不要な説明を省略してくださり、スムーズに短時間で部屋に入れました。今回も、後生掛温泉ならでは…」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -449,7 +449,7 @@ export default function FurusatoNaturalMudBathStayPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「後生掛温泉」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「後生掛温泉」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「どろ湯の旅籠さくらさくら温泉 霧島神宮温泉郷。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「どろ湯の旅籠さくらさくら温泉 霧島神宮温泉郷」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -488,7 +488,7 @@ export default function FurusatoNaturalMudBathStayPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「後生掛温泉」と「どろ湯の旅籠さくらさくら温泉 霧島神宮温泉郷。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「後生掛温泉」と「どろ湯の旅籠さくらさくら温泉 霧島神宮温泉郷」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

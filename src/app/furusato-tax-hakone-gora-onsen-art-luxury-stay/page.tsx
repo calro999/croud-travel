@@ -183,7 +183,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.70点の超高評価。「お部屋の露天風呂からの景色とお湯が最高」「白檀の香りと静けさに日常のストレスがすべて消えた。」「料理のクオリティが素晴らしい」と絶賛されています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.70点の超高評価。「お部屋の露天風呂からの景色とお湯が最高」「白檀の香りと静けさに日常のストレスがすべて消えた」「料理のクオリティが素晴らしい」と絶賛されています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -277,7 +277,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベルレビュー数多数の超人気宿。「駅前でアクセス抜群なのに温泉情緒がすごい。」「貸切風呂が無料で利用でき、客室露天風呂も快適だった。」と高い満足度を獲得しています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベルレビュー数多数の超人気宿。「駅前でアクセス抜群なのに温泉情緒がすごい」「貸切風呂が無料で利用でき、客室露天風呂も快適だった」と高い満足度を獲得しています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.08点。「大涌谷のにごり湯が本当に素晴らしく体が芯から温まる。」「スタッフの温かい接客と静かな環境に癒やされた。」と泉質重視派から絶賛されています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.08点。「大涌谷のにごり湯が本当に素晴らしく体が芯から温まる」「スタッフの温かい接客と静かな環境に癒やされた」と泉質重視派から絶賛されています。</p>
               </div>
 
               {/* 宿基本情報 */}

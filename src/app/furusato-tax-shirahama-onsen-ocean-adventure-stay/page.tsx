@@ -201,7 +201,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.60点、口コミ3400件超。「王様のビュッフェが圧巻のクオリティで建物もまさに宮殿。」「お部屋が広すぎて別世界、一生の思い出になった。」と大絶賛。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.60点、口コミ3400件超。「王様のビュッフェが圧巻のクオリティで建物もまさに宮殿」「お部屋が広すぎて別世界、一生の思い出になった」と大絶賛。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -285,7 +285,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.33点、口コミ5200件超。「白良浜が目の前で海遊びに最高」「お風呂のお湯が良く、バイキングも種類豊富で美味しかった。」とファミリーに大人気。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.33点、口コミ5200件超。「白良浜が目の前で海遊びに最高」「お風呂のお湯が良く、バイキングも種類豊富で美味しかった」とファミリーに大人気。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -369,7 +369,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.45点、口コミ3100件超。「部屋とお風呂からの白良浜の眺めが最高」「お料理のクエがとても美味しく、接客も丁寧で大満足。」と高評価。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.45点、口コミ3100件超。「部屋とお風呂からの白良浜の眺めが最高」「お料理のクエがとても美味しく、接客も丁寧で大満足」と高評価。</p>
               </div>
 
               {/* 宿基本情報 */}

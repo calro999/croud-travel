@@ -159,7 +159,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.50点。「新幹線改札からすぐで本当に便利でした。お部屋も綺麗でスタッフの対応も一流。」「朝食が美味しく出張の定宿です」と大絶賛。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.50点。「新幹線改札からすぐで本当に便利でした。お部屋も綺麗でスタッフの対応も一流」「朝食が美味しく出張の定宿です」と大絶賛。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -234,7 +234,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.45点。「天然温泉とサウナがあって出張の疲れが完全に取れました。」「川反の飲食店街にも歩いて行けて立地も最高。」と高評価。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.45点。「天然温泉とサウナがあって出張の疲れが完全に取れました」「川反の飲食店街にも歩いて行けて立地も最高」と高評価。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
@@ -309,7 +309,7 @@ export default function ArticlePage() {
 
               <div className="space-y-2 text-xs sm:text-sm text-stone-600 bg-amber-50/50 p-4 rounded-xl border border-amber-100/60">
                 <p className="font-semibold text-amber-900">📝 宿泊者の生の声・評判：</p>
-                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.47点。「お堀の景色が綺麗で部屋も広く、スタッフの接客がとても丁寧でした。」「落ち着いて静かに過ごせる素晴らしいホテル。」と定評。</p>
+                <p className="leading-relaxed text-stone-700">楽天トラベル評価4.47点。「お堀の景色が綺麗で部屋も広く、スタッフの接客がとても丁寧でした」「落ち着いて静かに過ごせる素晴らしいホテル」と定評。</p>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">

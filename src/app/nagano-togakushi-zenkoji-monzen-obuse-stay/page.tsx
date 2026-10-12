@@ -560,7 +560,7 @@ export default function Page() {
             </div>
             <div className="bg-stone-950/60 p-4 rounded-2xl border border-stone-800">
               <span className="text-amber-400 font-bold block mb-1">🚗 交通アクセス</span>
-              <span className="text-stone-300">長野電鉄「小布施駅」下車徒歩約10分。上信越道「小布施ハイウェイオアシス（スマートIC）。」すぐ。</span>
+              <span className="text-stone-300">長野電鉄「小布施駅」下車徒歩約10分。上信越道「小布施ハイウェイオアシス（スマートIC）」すぐ。</span>
             </div>
             <div className="bg-stone-950/60 p-4 rounded-2xl border border-stone-800">
               <span className="text-amber-400 font-bold block mb-1">💡 旅のワンポイント・秘訣</span>

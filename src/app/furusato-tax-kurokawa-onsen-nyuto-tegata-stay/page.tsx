@@ -75,7 +75,7 @@ export default function FurusatoTaxArticle() {
             雑木林に溶け込む里山情緒、渓流のせせらぎと湯巡り手形——黒川温泉で過ごす至高の隠れ家ステイ
           </h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
-            阿蘇山と九重連山に抱かれた緑豊かな山あいに佇む黒川温泉。「街全体が一軒の宿、通りは廊下、旅館は客室、木々は庭の植木。」という統一された景観づくりと自然保護の理念のもと、すべての旅館が木と土の温もりを大切にした純和風の佇まいを守り続けています。看板やネオンを排し、里山の原風景を残した温泉街を浴衣に下駄履きで歩く時間は、日本人が忘れかけていた旅の原点を思い出させてくれます。
+            阿蘇山と九重連山に抱かれた緑豊かな山あいに佇む黒川温泉。「街全体が一軒の宿、通りは廊下、旅館は客室、木々は庭の植木」という統一された景観づくりと自然保護の理念のもと、すべての旅館が木と土の温もりを大切にした純和風の佇まいを守り続けています。看板やネオンを排し、里山の原風景を残した温泉街を浴衣に下駄履きで歩く時間は、日本人が忘れかけていた旅の原点を思い出させてくれます。
           </p>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             黒川温泉の最大の魅力は、地元特産の小国杉で作られた「入湯手形」を使って、各宿自慢の趣向を凝らした露天風呂を巡れること。渓流沿いの大野天風呂、巨岩をくり抜いた野趣あふれる湯船、神秘的な洞窟風呂など、泉質も景観も異なる名湯が旅人を迎えます。そして夕食には、阿蘇の大自然が育んだブランド和牛「あか牛」やヤマメ、山菜を使った贅沢な会席料理。南小国町へのふるさと納税を活用すれば、寄付額の30%相当が宿泊クーポンとして還元され、憧れの隠れ家旅館へ驚くほどお得に滞在できます。
@@ -183,7 +183,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.62点。「川沿いの露天風呂が言葉を失うほど美しかった。」「スタッフの物腰が柔らかく、本当に心が洗われる滞在になった。」と絶賛の口コミが絶えません。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.62点。「川沿いの露天風呂が言葉を失うほど美しかった」「スタッフの物腰が柔らかく、本当に心が洗われる滞在になった」と絶賛の口コミが絶えません。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -277,7 +277,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.56点、口コミ約700件。「化粧水の湯の名前通り肌がつるつるになった。」「スタッフの温かい気配りと食事が本当に美味しかった。」とリピーターが多数。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.56点、口コミ約700件。「化粧水の湯の名前通り肌がつるつるになった」「スタッフの温かい気配りと食事が本当に美味しかった」とリピーターが多数。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -371,7 +371,7 @@ export default function FurusatoTaxArticle() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.65点。「洞窟風呂のアドベンチャー感と泉質の良さが最高。」「古い木造建築の風情と川のせせらぎに癒やされた。」と高い評価を獲得しています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.65点。「洞窟風呂のアドベンチャー感と泉質の良さが最高」「古い木造建築の風情と川のせせらぎに癒やされた」と高い評価を獲得しています。</p>
               </div>
 
               {/* 宿基本情報 */}

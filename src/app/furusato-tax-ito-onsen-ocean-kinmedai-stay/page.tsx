@@ -201,7 +201,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.67点、口コミ1500件超。「お部屋食の金目鯛が絶品で接客もパーフェクト。」「お風呂からの景色が素晴らしく何度もリピートしている。」と絶賛。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.67点、口コミ1500件超。「お部屋食の金目鯛が絶品で接客もパーフェクト」「お風呂からの景色が素晴らしく何度もリピートしている」と絶賛。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -285,7 +285,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.11点、口コミ3200件超。「海底温泉で子供が大喜び」「部屋からの海の景色が素晴らしくハトヤの伝統を感じられた。」とファミリーに大人気。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.11点、口コミ3200件超。「海底温泉で子供が大喜び」「部屋からの海の景色が素晴らしくハトヤの伝統を感じられた」とファミリーに大人気。</p>
               </div>
 
               {/* 宿基本情報 */}

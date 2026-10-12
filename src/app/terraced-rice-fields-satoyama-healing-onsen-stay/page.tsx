@@ -116,7 +116,7 @@ export default function Page() {
     "access": "ＪＲ飯田線　天竜峡駅／中央自動車道飯田ＩＣ・Ｒ１５１経由県道２３７号",
     "parkingInformation": "有　５０台　無料　先着順  【EV・PHEV用の充電設備を新設致しました】",
     "nearestStation": "天竜峡",
-    "hotelSpecial": "「お客様の倖せを 千代に永遠に お不動さんのお宿。」奥天竜は千代【不動温泉】天竜峡に程近い山郷の一軒宿",
+    "hotelSpecial": "「お客様の倖せを 千代に永遠に お不動さんのお宿」奥天竜は千代【不動温泉】天竜峡に程近い山郷の一軒宿",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31988%2F31988.html"
   }
 ];

@@ -201,7 +201,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.50点、国内外の賞を多数受賞。「谷川岳を望むお部屋の露天風呂と建築の美しさが別格。」「接客、お料理、アメニティすべてが一流の最高峰旅館。」と絶賛。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.50点、国内外の賞を多数受賞。「谷川岳を望むお部屋の露天風呂と建築の美しさが別格」「接客、お料理、アメニティすべてが一流の最高峰旅館」と絶賛。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -285,7 +285,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.09点、口コミ4700件超。「四つの源泉掛け流しのお風呂が最高で庭園も広い。」「リニューアルしてプレミアムになり、バイキングもお部屋も大満足。」と高評価。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.09点、口コミ4700件超。「四つの源泉掛け流しのお風呂が最高で庭園も広い」「リニューアルしてプレミアムになり、バイキングもお部屋も大満足」と高評価。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -369,7 +369,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.08点、口コミ2500件超。「利根川のすぐそばにある露天風呂が開放感抜群。」「館内のお風呂がとにかくたくさんあって飽きない。」と温泉好きに人気。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.08点、口コミ2500件超。「利根川のすぐそばにある露天風呂が開放感抜群」「館内のお風呂がとにかくたくさんあって飽きない」と温泉好きに人気。</p>
               </div>
 
               {/* 宿基本情報 */}

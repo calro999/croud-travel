@@ -267,7 +267,7 @@ export default function FurusatoYabakeiKurokawaAutumnLeavesStayPage() {
                   </div>
                   <div className="md:col-span-6 space-y-4">
                     <p className="text-stone-700 text-sm md:text-base leading-relaxed">
-                      黒川温泉の雑木林の奥深くにひっそりと佇む大人の隠れ家旅館。敷地内に「薬師の湯（単純硫黄泉）」と「美肌の湯（ナトリウム-塩化物・炭酸水素塩・硫酸塩泉）。」という2つの自家源泉を引いており、渓流沿いの混浴大露天風呂「もやいの湯」や女性専用露天「四季の湯」、複数の貸切風呂で極上の湯巡りが叶います。落ち着きある数寄屋造りの客室と、季節の移ろいを丁寧に映した繊細な山里会席が旅情を深めてくれます。
+                      黒川温泉の雑木林の奥深くにひっそりと佇む大人の隠れ家旅館。敷地内に「薬師の湯（単純硫黄泉）」と「美肌の湯（ナトリウム-塩化物・炭酸水素塩・硫酸塩泉）」という2つの自家源泉を引いており、渓流沿いの混浴大露天風呂「もやいの湯」や女性専用露天「四季の湯」、複数の貸切風呂で極上の湯巡りが叶います。落ち着きある数寄屋造りの客室と、季節の移ろいを丁寧に映した繊細な山里会席が旅情を深めてくれます。
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
                       <div><strong className="text-stone-800">♨️ 温泉・特徴：</strong> 黒川温泉の下手にある山河旅館。温泉街とはまた違った風情をお楽しみいただけます。</div>

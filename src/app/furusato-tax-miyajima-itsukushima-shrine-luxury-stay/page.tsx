@@ -201,7 +201,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.66点、口コミ2600件超。「宮島で唯一の天然温泉がとても気持ち良かった。」「夜の大鳥居のライトアップを見に行くのに最高の立地とおもてなし。」と絶賛。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.66点、口コミ2600件超。「宮島で唯一の天然温泉がとても気持ち良かった」「夜の大鳥居のライトアップを見に行くのに最高の立地とおもてなし」と絶賛。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -285,7 +285,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.45点。「歴史の重みを感じる佇まいともみじ谷の緑が素晴らしかった。」「接客のきめ細やかさと静寂な空間は宮島屈指。」と格別の評価。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.45点。「歴史の重みを感じる佇まいともみじ谷の緑が素晴らしかった」「接客のきめ細やかさと静寂な空間は宮島屈指」と格別の評価。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -369,7 +369,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.58点、口コミ1500件超。「神社まで本当に近くて夜の散歩が最高だった。」「お部屋が広くて綺麗、お料理も牡蠣やお肉がとても美味しかった。」と大好評。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.58点、口コミ1500件超。「神社まで本当に近くて夜の散歩が最高だった」「お部屋が広くて綺麗、お料理も牡蠣やお肉がとても美味しかった」と大好評。</p>
               </div>
 
               {/* 宿基本情報 */}

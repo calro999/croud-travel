@@ -110,7 +110,7 @@ export default function Page() {
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F6067%2F6067.html",
     "featureKey": "forest_hinoki",
     "featureLabel": "長野県木曽町・南木曽町ふるさと納税・伊勢神宮のご神木を育む伊勢神宮御杣山「木曽ヒノキ美林」木曽路温泉郷ステイ",
-    "themeTitle": "長野県木曽町ふるさと納税：木曽ヒノキの香る宿場町・創業三百余年の歴史を紡ぐ「きそふくしま温泉 街道浪漫 おん宿 蔦屋。」",
+    "themeTitle": "長野県木曽町ふるさと納税：木曽ヒノキの香る宿場町・創業三百余年の歴史を紡ぐ「きそふくしま温泉 街道浪漫 おん宿 蔦屋」",
     "themeDesc": "中山道福島宿の木曽川沿いに建つ、江戸享保年間創業の老舗温泉宿。木曽ヒノキをふんだんに使った大浴場や露天風呂で心地よいアロマに包まれ、夕食は極上の信州牛ステーキや木曽川のイワナ塩焼き、信州十割蕎麦を風情ある個室で楽しめます。",
     "revAvg": "4.2",
     "minCharge": "8,090"

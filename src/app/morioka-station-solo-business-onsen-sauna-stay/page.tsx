@@ -47,7 +47,7 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"盛岡市中心街で天然温泉大浴場とサウナがあるホテルは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 さんさの湯 ドーミーイン盛岡」は繁華街・中央通に面し、最上階の天然温泉大浴場、高温サウナ、名物夜鳴きそばが完備されています。"}},{"@type":"Question","name":"盛岡駅前でリーズナブルに天然温泉に入れるビジネスホテルは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 りんどうの湯 スーパーホテル盛岡。」は盛岡駅前徒歩圏内。男女別天然温泉大浴場と健康朝食バイキングが無料で付いておりコスパ抜群です。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"盛岡市中心街で天然温泉大浴場とサウナがあるホテルは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 さんさの湯 ドーミーイン盛岡」は繁華街・中央通に面し、最上階の天然温泉大浴場、高温サウナ、名物夜鳴きそばが完備されています。"}},{"@type":"Question","name":"盛岡駅前でリーズナブルに天然温泉に入れるビジネスホテルは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 りんどうの湯 スーパーホテル盛岡」は盛岡駅前徒歩圏内。男女別天然温泉大浴場と健康朝食バイキングが無料で付いておりコスパ抜群です。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -349,7 +349,7 @@ export default function ArticlePage() {
                 <span>盛岡駅前でリーズナブルに天然温泉に入れるビジネスホテルは？</span>
               </h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
-                「天然温泉 りんどうの湯 スーパーホテル盛岡。」は盛岡駅前徒歩圏内。男女別天然温泉大浴場と健康朝食バイキングが無料で付いておりコスパ抜群です。
+                「天然温泉 りんどうの湯 スーパーホテル盛岡」は盛岡駅前徒歩圏内。男女別天然温泉大浴場と健康朝食バイキングが無料で付いておりコスパ抜群です。
               </p>
             </div>
           </div>

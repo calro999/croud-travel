@@ -82,7 +82,7 @@ export default function ArticlePage() {
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
             <p className="font-bold text-amber-950 text-base sm:text-lg">
-              「国境の長いトンネルを抜けると雪国であった。」。新幹線駅から徒歩圏に広がる湯の町で、やわらかなアルカリ性単純温泉と魚沼産コシヒカリ・越後の地酒に浸る贅沢な休日
+              「国境の長いトンネルを抜けると雪国であった」。新幹線駅から徒歩圏に広がる湯の町で、やわらかなアルカリ性単純温泉と魚沼産コシヒカリ・越後の地酒に浸る贅沢な休日
             </p>
             <p>
               東京駅から上越新幹線で1本、改札を出れば駅ナカ「ぽんしゅ館」で新潟全蔵元の地酒利き酒体験が迎えてくれる越後湯沢。古くは平安時代から続く歴史ある温泉は、肌に優しくさらりとした無色透明の単純温泉。冬は銀世界の山々、春から秋は眩しい新緑と黄金色の稲穂を眺めながら、文豪たちが愛した静寂の空間で心身を解きほぐせます。

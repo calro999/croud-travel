@@ -201,7 +201,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.76点、口コミ2500件超。「運河のすぐ前で夜のライトアップ散歩に最高。」「スタッフの温かいおもてなしと朝食の美味しさが忘れられない。」と絶大な人気。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.76点、口コミ2500件超。「運河のすぐ前で夜のライトアップ散歩に最高」「スタッフの温かいおもてなしと朝食の美味しさが忘れられない」と絶大な人気。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -285,7 +285,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.68点、口コミ高評価。「日本庭園の美しさと露天風呂付き客室の居心地が最高。」「お料理がどれも繊細で美味しく、静かに贅沢な休日を過ごせた。」と高評価。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.68点、口コミ高評価。「日本庭園の美しさと露天風呂付き客室の居心地が最高」「お料理がどれも繊細で美味しく、静かに贅沢な休日を過ごせた」と高評価。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -369,7 +369,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.60点。「歴史ある鰊御殿の重厚感と高台からの石狩湾の眺望が素晴らしい。」「露天風呂からの絶景と料亭のお料理は一生に一度の価値がある。」と大絶賛。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.60点。「歴史ある鰊御殿の重厚感と高台からの石狩湾の眺望が素晴らしい」「露天風呂からの絶景と料亭のお料理は一生に一度の価値がある」と大絶賛。</p>
               </div>
 
               {/* 宿基本情報 */}

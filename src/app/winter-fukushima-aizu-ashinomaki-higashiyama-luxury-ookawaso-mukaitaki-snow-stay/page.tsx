@@ -248,7 +248,7 @@ export default function Page() {
 
               <div className="bg-slate-50 p-4 rounded-xl border-l-4 border-amber-500 text-xs md:text-sm text-slate-600 italic mb-6">
                 <span className="font-bold text-slate-700 not-italic block mb-1">宿泊者のクチコミ体験談</span>
-                「料理が美味しく、おもてなしと温泉に大満足料理がとても美味しく、おもてなしも良かったです。お風呂も良かった。」
+                「料理が美味しく、おもてなしと温泉に大満足料理がとても美味しく、おもてなしも良かったです。お風呂も良かった」
               </div>
 
               <div className="pt-2">
@@ -386,7 +386,7 @@ export default function Page() {
 
               <div className="bg-slate-50 p-4 rounded-xl border-l-4 border-amber-500 text-xs md:text-sm text-slate-600 italic mb-6">
                 <span className="font-bold text-slate-700 not-italic block mb-1">宿泊者のクチコミ体験談</span>
-                「バイキングは絶品、露天風呂にも感動バイキングは、食べた物全てが美味しかったです。お寿司、刺身、ネギそば、牛すじ煮込み、天ぷら等。ただ、通路が狭いのが残念...温泉は、気持ち良かったです。」
+                「バイキングは絶品、露天風呂にも感動バイキングは、食べた物全てが美味しかったです。お寿司、刺身、ネギそば、牛すじ煮込み、天ぷら等。ただ、通路が狭いのが残念...温泉は、気持ち良かったです」
               </div>
 
               <div className="pt-2">
@@ -455,7 +455,7 @@ export default function Page() {
 
               <div className="bg-slate-50 p-4 rounded-xl border-l-4 border-amber-500 text-xs md:text-sm text-slate-600 italic mb-6">
                 <span className="font-bold text-slate-700 not-italic block mb-1">宿泊者のクチコミ体験談</span>
-                「伝統と新しいサービスが融合した老舗の質ウエルカムドリンクの提供や抹茶の振る舞い、シャンプーバーや足湯等伝統と新しいサービスが両方ある良い宿でした。スタッフと料理は流石の老舗クオリティです。」
+                「伝統と新しいサービスが融合した老舗の質ウエルカムドリンクの提供や抹茶の振る舞い、シャンプーバーや足湯等伝統と新しいサービスが両方ある良い宿でした。スタッフと料理は流石の老舗クオリティです」
               </div>
 
               <div className="pt-2">

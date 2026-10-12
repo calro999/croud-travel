@@ -267,7 +267,7 @@ export default function WinterFeaturePage() {
                       宿泊者の生の声・クチコミ抜粋
                     </h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
-                      「高齢者への配慮ある食事に感謝、良い思い出に家族旅行の良い想い出を作ることができました。お食事も高齢者を考慮した切り方などに対応していただきとても感謝しております。」
+                      「高齢者への配慮ある食事に感謝、良い思い出に家族旅行の良い想い出を作ることができました。お食事も高齢者を考慮した切り方などに対応していただきとても感謝しております」
                     </p>
                   </div>
                   <div className="pt-2">
@@ -361,7 +361,7 @@ export default function WinterFeaturePage() {
                       宿泊者の生の声・クチコミ抜粋
                     </h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
-                      「一人旅でも落ち着けるカウンター席が最高 2回目の利用。一人旅での利用でビュッフェスタイルの食事の場合、落ち着いて食事が難しい場合もあるが、この宿は一人での利用者用に風景を見つつ食事ができるカウンタ。」
+                      「一人旅でも落ち着けるカウンター席が最高 2回目の利用。一人旅での利用でビュッフェスタイルの食事の場合、落ち着いて食事が難しい場合もあるが、この宿は一人での利用者用に風景を見つつ食事ができるカウンタ」
                     </p>
                   </div>
                   <div className="pt-2">
@@ -455,7 +455,7 @@ export default function WinterFeaturePage() {
                       宿泊者の生の声・クチコミ抜粋
                     </h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
-                      「温泉付き客室が快適、庭にはリスの姿も大浴場が苦手な子どもがいるので、温泉付きのお部屋を選びました。もっと小さいお風呂かと思いきや、ゆったり入ることができる立派なお風呂でした!大浴場も利用し。」
+                      「温泉付き客室が快適、庭にはリスの姿も大浴場が苦手な子どもがいるので、温泉付きのお部屋を選びました。もっと小さいお風呂かと思いきや、ゆったり入ることができる立派なお風呂でした!大浴場も利用し」
                     </p>
                   </div>
                   <div className="pt-2">
@@ -549,7 +549,7 @@ export default function WinterFeaturePage() {
                       宿泊者の生の声・クチコミ抜粋
                     </h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
-                      「サウナと温泉が快適、朝食も種類豊富で満足サウナもあり温泉も快適です。朝食にバリエーションがあり楽しめました。」
+                      「サウナと温泉が快適、朝食も種類豊富で満足サウナもあり温泉も快適です。朝食にバリエーションがあり楽しめました」
                     </p>
                   </div>
                   <div className="pt-2">
@@ -643,7 +643,7 @@ export default function WinterFeaturePage() {
                       宿泊者の生の声・クチコミ抜粋
                     </h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
-                      「食事もデザートも充実、バーの対応も最高朝食、夕食共種類豊富でデザートも充実してて良かったし、飲み放題を頼んだのですがバーテンダーの方も気さくに対応してくださってとても満足でしたクチコミの詳細は。」
+                      「食事もデザートも充実、バーの対応も最高朝食、夕食共種類豊富でデザートも充実してて良かったし、飲み放題を頼んだのですがバーテンダーの方も気さくに対応してくださってとても満足でしたクチコミの詳細は」
                     </p>
                   </div>
                   <div className="pt-2">

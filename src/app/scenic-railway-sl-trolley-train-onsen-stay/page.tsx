@@ -141,7 +141,7 @@ export default function Page() {
     "access": "富山地方鉄道「宇奈月温泉駅」下車徒歩３分　無料送迎バス有※要確認／北陸自動車道黒部IC下車約２０分",
     "parkingInformation": "140台の無料駐車スペースがございます。",
     "nearestStation": "宇奈月温泉",
-    "hotelSpecial": "おかげさまで連続受賞！「楽天トラベル 日本の宿アワード2025 TOP47。」♪",
+    "hotelSpecial": "おかげさまで連続受賞！「楽天トラベル 日本の宿アワード2025 TOP47」♪",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9591%2F9591.html"
   }
 ];

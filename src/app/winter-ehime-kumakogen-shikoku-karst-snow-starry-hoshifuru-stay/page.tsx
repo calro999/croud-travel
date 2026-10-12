@@ -292,7 +292,7 @@ export default function Page() {
 
                   <div className="mt-3 p-3 bg-stone-50 rounded-lg border border-stone-200/60 text-xs text-stone-600 italic">
                     <p className="font-semibold text-[11px] text-stone-500 not-italic mb-0.5">宿泊者のクチコミ抜粋：</p>
-                    「ライダーへの配慮と温かい接客に感謝!ツーリング旅で四国カルストへ。ただ天候が不安定だったので、予定時間よりかなり早く到着してしまったのにも関わらず、ガレージにバイクを入れさせてもらい非常に助かりま。」
+                    「ライダーへの配慮と温かい接客に感謝!ツーリング旅で四国カルストへ。ただ天候が不安定だったので、予定時間よりかなり早く到着してしまったのにも関わらず、ガレージにバイクを入れさせてもらい非常に助かりま」
                   </div>
 
                   <div className="mt-3 pt-3 border-t border-stone-100 text-[11px] text-stone-500 space-y-0.5">
@@ -359,7 +359,7 @@ export default function Page() {
 
                   <div className="mt-3 p-3 bg-stone-50 rounded-lg border border-stone-200/60 text-xs text-stone-600 italic">
                     <p className="font-semibold text-[11px] text-stone-500 not-italic mb-0.5">宿泊者のクチコミ抜粋：</p>
-                    「部屋に冷蔵庫もトイレ洗面も無く廊下に出ると虫だらけ。」
+                    「部屋に冷蔵庫もトイレ洗面も無く廊下に出ると虫だらけ」
                   </div>
 
                   <div className="mt-3 pt-3 border-t border-stone-100 text-[11px] text-stone-500 space-y-0.5">
@@ -554,7 +554,7 @@ export default function Page() {
 
                   <div className="mt-3 p-3 bg-stone-50 rounded-lg border border-stone-200/60 text-xs text-stone-600 italic">
                     <p className="font-semibold text-[11px] text-stone-500 not-italic mb-0.5">宿泊者のクチコミ抜粋：</p>
-                    「バイキングと立地が最高、駐車場も助かったバイキングが想像以上で美味しかったです。入り口で見かけた飲み放題を注文し、ビールと食事を堪能しました。お部屋は古かったですが、全体的に満足です。道後温泉の観。」
+                    「バイキングと立地が最高、駐車場も助かったバイキングが想像以上で美味しかったです。入り口で見かけた飲み放題を注文し、ビールと食事を堪能しました。お部屋は古かったですが、全体的に満足です。道後温泉の観」
                   </div>
 
                   <div className="mt-3 pt-3 border-t border-stone-100 text-[11px] text-stone-500 space-y-0.5">

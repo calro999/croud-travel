@@ -101,7 +101,7 @@ export default function ThemeParkActivityHubPage() {
           </span>
           <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「富士急ハイランド＆富士五湖アクティビティ宿」絶叫アトラクション＆グランピング 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
-            FUJIYAMA・ド・ドドンパ・ええじゃないかで絶叫し、富士山麓の湖で風を切る！「富士急ハイランド＆富士五湖アクティビティ宿。」。開園前優先入園特典付きオフィシャルホテル。湖畔でのカヌー・SUPや森のグランピングで大自然を満喫する休日へ。
+            FUJIYAMA・ド・ドドンパ・ええじゃないかで絶叫し、富士山麓の湖で風を切る！「富士急ハイランド＆富士五湖アクティビティ宿」。開園前優先入園特典付きオフィシャルホテル。湖畔でのカヌー・SUPや森のグランピングで大自然を満喫する休日へ。
           </p>
         </div>
       </div>

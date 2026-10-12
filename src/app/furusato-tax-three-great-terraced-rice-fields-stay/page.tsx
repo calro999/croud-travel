@@ -79,7 +79,7 @@ export default function Page() {
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52983%2F52983.html",
     "featureKey": "tanada_shiroyone",
     "featureLabel": "石川県輪島市ふるさと納税・日本海へ雪崩れ込む千枚のあぜ道「白米千枚田」能登牛と輪島温泉八汐",
-    "themeTitle": "石川県輪島市ふるさと納税：世界農業遺産・白米千枚田への拠点「輪島天然温泉 旅人の湯 ホテルルートイン輪島。」",
+    "themeTitle": "石川県輪島市ふるさと納税：世界農業遺産・白米千枚田への拠点「輪島天然温泉 旅人の湯 ホテルルートイン輪島」",
     "themeDesc": "輪島市街の中心、輪島朝市や白米千枚田へのドライブアクセス抜群なホテル。自家源泉の天然温泉大浴場を備え、旅の疲れをリフレッシュ。能登の復興を応援しながら、輪島ならではの新鮮な海の幸や能登牛グルメの旅を楽しめます。",
     "revAvg": "4.6",
     "minCharge": "11,200"

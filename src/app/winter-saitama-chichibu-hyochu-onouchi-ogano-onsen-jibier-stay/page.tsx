@@ -349,7 +349,7 @@ export default function FeaturePage() {
                     
                 <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「アットホームな雰囲気と素敵なスタッフに癒やされるアットホームな雰囲気で、滞在中はとてもリラックス出来て過ごせました。働いていらっしゃる方たちが皆素敵ですね～また利用したいと思いました。クチコミ…。」"}</p>
+                  <p className="leading-relaxed">{"「アットホームな雰囲気と素敵なスタッフに癒やされるアットホームな雰囲気で、滞在中はとてもリラックス出来て過ごせました。働いていらっしゃる方たちが皆素敵ですね～また利用したいと思いました。クチコミ…」"}</p>
                 </div>
             
                   </div>
@@ -468,7 +468,7 @@ export default function FeaturePage() {
                     
                 <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「部屋は清潔で温泉も食事も大満足部屋がとてもきれい。温泉も食事も満足できました。」"}</p>
+                  <p className="leading-relaxed">{"「部屋は清潔で温泉も食事も大満足部屋がとてもきれい。温泉も食事も満足できました」"}</p>
                 </div>
             
                   </div>
@@ -530,7 +530,7 @@ export default function FeaturePage() {
                     
                 <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「スタッフの方達の細やかなお気遣いにほっこり。とても静かにのんびりくつろげます。ちゃんこ鍋をはじめお食事も美味しくて、川魚の塩焼きの焼き加減も最高に抜群でしたお風呂も気持ちよくとてもゆっ… つづきは。」"}</p>
+                  <p className="leading-relaxed">{"「スタッフの方達の細やかなお気遣いにほっこり。とても静かにのんびりくつろげます。ちゃんこ鍋をはじめお食事も美味しくて、川魚の塩焼きの焼き加減も最高に抜群でしたお風呂も気持ちよくとてもゆっ… つづきは」"}</p>
                 </div>
             
                   </div>

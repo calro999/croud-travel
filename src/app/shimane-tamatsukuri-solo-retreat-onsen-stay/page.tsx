@@ -64,7 +64,7 @@ export default function ArticlePage() {
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅でも温かいもてなしと出雲の郷土芸能を楽しめる宿は？","acceptedAnswer":{"@type":"Answer","text":"「出雲・玉造温泉 白石家」はおもてなし評価全国トップクラス。毎晩ロビーで開催される安来節民謡ショーや、美肌温泉・しまね和牛会席が一人旅でも大人気です。"}},{"@type":"Question","name":"自家源泉かけ流しの本物の美肌湯にじっくり浸かりたいなら？","acceptedAnswer":{"@type":"Answer","text":"「玉造温泉 源泉かけ流しの宿 湯陣 千代の湯。」は敷地内から湧出する源泉を惜しみなく使用。静かで落ち着いた大人の一人旅にぴったりです。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅でも温かいもてなしと出雲の郷土芸能を楽しめる宿は？","acceptedAnswer":{"@type":"Answer","text":"「出雲・玉造温泉 白石家」はおもてなし評価全国トップクラス。毎晩ロビーで開催される安来節民謡ショーや、美肌温泉・しまね和牛会席が一人旅でも大人気です。"}},{"@type":"Question","name":"自家源泉かけ流しの本物の美肌湯にじっくり浸かりたいなら？","acceptedAnswer":{"@type":"Answer","text":"「玉造温泉 源泉かけ流しの宿 湯陣 千代の湯」は敷地内から湧出する源泉を惜しみなく使用。静かで落ち着いた大人の一人旅にぴったりです。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -82,7 +82,7 @@ export default function ArticlePage() {
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
             <p className="font-bold text-amber-950 text-base sm:text-lg">
-              「ひとたび濯げば形容端正しく、再び浴すれば万の病悉に除こる。」。三種の神器・勾玉のふるさとで、まるで化粧水のような神湯に浸かり運気を呼び込むソロトリップ
+              「ひとたび濯げば形容端正しく、再び浴すれば万の病悉に除こる」。三種の神器・勾玉のふるさとで、まるで化粧水のような神湯に浸かり運気を呼び込むソロトリップ
             </p>
             <p>
               島根県松江市に位置し、奈良時代から「美肌の湯」として神話に語り継がれる玉造温泉。製薬会社の分析でも高級化粧水レベルの保湿・水分補給作用が科学的に実証されており、出雲大社への参拝と合わせた一人旅リトリートに絶大な人気を誇ります。
@@ -318,7 +318,7 @@ export default function ArticlePage() {
                 <span>自家源泉かけ流しの本物の美肌湯にじっくり浸かりたいなら？</span>
               </h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
-                「玉造温泉 源泉かけ流しの宿 湯陣 千代の湯。」は敷地内から湧出する源泉を惜しみなく使用。静かで落ち着いた大人の一人旅にぴったりです。
+                「玉造温泉 源泉かけ流しの宿 湯陣 千代の湯」は敷地内から湧出する源泉を惜しみなく使用。静かで落ち着いた大人の一人旅にぴったりです。
               </p>
             </div>
           </div>
@@ -372,7 +372,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「出雲・玉造温泉 白石家」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「出雲・玉造温泉 白石家」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「玉造温泉 源泉かけ流しの宿 湯陣 千代の湯。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「玉造温泉 源泉かけ流しの宿 湯陣 千代の湯」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>

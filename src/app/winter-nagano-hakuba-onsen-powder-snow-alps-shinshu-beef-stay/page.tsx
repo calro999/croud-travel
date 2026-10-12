@@ -567,7 +567,7 @@ export default function HakubaOnsenWinterPage() {
                 <h3 className="font-bold text-slate-900 text-sm sm:text-base">長野駅から特急バスで白馬到着〜白馬マウンテンハーバー絶景〜山岳宿チェックイン</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
-                北陸新幹線・長野駅から特急バスで白馬八方バスターミナルへ。白馬岩岳マウンテンリゾートへ向かい、ゴンドラで山頂テラス「HAKUBA MOUNTAIN HARBOR。」へ。正面に迫る白銀の白馬三山の壮大なパノラマを眺めながら、THE CITY BAKERYの焼き立てプレッツェルクロワッサンと温かいカフェラテを堪能。15時に和田野の森のリゾートホテルへチェックイン。pH11.2の白馬八方温泉露天風呂に浸かり、初雪の森を眺めながらツルツルの美肌湯を満喫します。
+                北陸新幹線・長野駅から特急バスで白馬八方バスターミナルへ。白馬岩岳マウンテンリゾートへ向かい、ゴンドラで山頂テラス「HAKUBA MOUNTAIN HARBOR」へ。正面に迫る白銀の白馬三山の壮大なパノラマを眺めながら、THE CITY BAKERYの焼き立てプレッツェルクロワッサンと温かいカフェラテを堪能。15時に和田野の森のリゾートホテルへチェックイン。pH11.2の白馬八方温泉露天風呂に浸かり、初雪の森を眺めながらツルツルの美肌湯を満喫します。
               </p>
             </div>
 

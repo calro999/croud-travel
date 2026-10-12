@@ -204,7 +204,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「伊豆高原温泉ホテル 森の泉」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「伊豆高原温泉ホテル 森の泉」へは、最寄り駅 川奈駅より車で約15分（※無料送迎／予約制） 最寄りIC 小田原西ICから車で約90分。最寄りの川奈（静岡）駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「伊豆高原温泉ホテル 森の泉」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「伊豆高原温泉ホテル 森の泉」は『広大な大自然に佇む大人の癒し空間でオールインクルーシブを満喫◇伊豆の味覚と四季折々の景色を。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「伊豆高原温泉ホテル 森の泉」と「伊豆高原 記念日を祝う宿 自然家．Ｈａｃｏ。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「伊豆高原温泉ホテル 森の泉」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「伊豆高原温泉ホテル 森の泉」へは、最寄り駅 川奈駅より車で約15分（※無料送迎／予約制） 最寄りIC 小田原西ICから車で約90分。最寄りの川奈（静岡）駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「伊豆高原温泉ホテル 森の泉」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「伊豆高原温泉ホテル 森の泉」は『広大な大自然に佇む大人の癒し空間でオールインクルーシブを満喫◇伊豆の味覚と四季折々の景色を。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「伊豆高原温泉ホテル 森の泉」と「伊豆高原 記念日を祝う宿 自然家．Ｈａｃｏ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -596,7 +596,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「伊豆高原温泉ホテル 森の泉」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「伊豆高原温泉ホテル 森の泉」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「伊豆高原 記念日を祝う宿 自然家．Ｈａｃｏ。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「伊豆高原 記念日を祝う宿 自然家．Ｈａｃｏ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -635,7 +635,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「伊豆高原温泉ホテル 森の泉」と「伊豆高原 記念日を祝う宿 自然家．Ｈａｃｏ。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「伊豆高原温泉ホテル 森の泉」と「伊豆高原 記念日を祝う宿 自然家．Ｈａｃｏ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

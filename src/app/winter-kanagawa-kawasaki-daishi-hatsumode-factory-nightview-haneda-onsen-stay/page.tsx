@@ -417,7 +417,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「川崎駅直結で綺麗、コスパも抜群の拠点新しいホテルで部屋も綺麗で清潔に保たれています。ビジネス、観光の拠点としても川崎駅直結なので大変便利です。価格も都内、横浜市内と比較してもコスパが良いと思います。」"}</span>
+                  <span>{"「川崎駅直結で綺麗、コスパも抜群の拠点新しいホテルで部屋も綺麗で清潔に保たれています。ビジネス、観光の拠点としても川崎駅直結なので大変便利です。価格も都内、横浜市内と比較してもコスパが良いと思います」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -484,7 +484,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「ドーミーイン好きですが。ドーミーインが好きなので良く利用しています。スタッフの方々は、テキパキと動かれており。」"}</span>
+                  <span>{"「ドーミーイン好きですが。ドーミーインが好きなので良く利用しています。スタッフの方々は、テキパキと動かれており」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -551,7 +551,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「リニューアルされた清潔な部屋と高層階の景色3連休初日の土曜日に急遽宿泊が必要になり、夕方の予約の上利用させて頂きました。チェックイン時刻に間に合いそうになく、連絡をした際にもとても丁寧に対応頂。」"}</span>
+                  <span>{"「リニューアルされた清潔な部屋と高層階の景色3連休初日の土曜日に急遽宿泊が必要になり、夕方の予約の上利用させて頂きました。チェックイン時刻に間に合いそうになく、連絡をした際にもとても丁寧に対応頂」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -618,7 +618,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「部屋もお風呂もきれいで快適な空間部屋やお風呂がきれいで気持ちよく宿泊できました。」"}</span>
+                  <span>{"「部屋もお風呂もきれいで快適な空間部屋やお風呂がきれいで気持ちよく宿泊できました」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">
@@ -685,7 +685,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「駅近で飲食店も多く、接客も素晴らしい駅から近く、コンビニ、飲食店も多数あり、また利用したいです。接客がとてもよかったです。」"}</span>
+                  <span>{"「駅近で飲食店も多く、接客も素晴らしい駅から近く、コンビニ、飲食店も多数あり、また利用したいです。接客がとてもよかったです」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">

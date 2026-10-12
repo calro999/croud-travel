@@ -77,7 +77,7 @@ export default function Page() {
     "hotelSpecial": "ご宿泊者は24時間万葉の湯入り放題！.心ゆくまで温泉を満喫下さい。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10854%2F10854.html",
     "label": "京都府八幡市ふるさと納税・厄除け開運の三大八幡「国宝 石清水八幡宮」男山ケーブルと京都ホテルステイ",
-    "themeTitle": "京都府八幡市・西京区ふるさと納税：男山山上に鎮座する国宝「石清水八幡宮」と「京都竹の郷温泉 万葉の湯 ホテル京都エミナース。」",
+    "themeTitle": "京都府八幡市・西京区ふるさと納税：男山山上に鎮座する国宝「石清水八幡宮」と「京都竹の郷温泉 万葉の湯 ホテル京都エミナース」",
     "themeDesc": "厄除け開運の総本山・石清水八幡宮への参拝拠点。敷地内から湧く二つの自家源泉による美肌の天然温泉と多彩な露天風呂で癒やされ、京の旬素材を活かした本格京会席を心ゆくまで味わえます。",
     "revAvg": "4.1",
     "minCharge": "6,600"
@@ -180,7 +180,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「宇佐ホテルリバーサイド」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「宇佐ホテルリバーサイド」へは、電車：JR日豊本線、柳ヶ浦駅より車で8分／お車：東九州自動車道、宇佐ICより5分。最寄りの柳ヶ浦駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「宇佐ホテルリバーサイド」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「宇佐ホテルリバーサイド」は『フロントは安心の24時間対応 国宝宇佐神宮のお膝元、駅館川のほとり、今日もなごやかに営業中。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「宇佐ホテルリバーサイド」と「京都竹の郷温泉 万葉の湯 ホテル京都エミナース。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「宇佐ホテルリバーサイド」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「宇佐ホテルリバーサイド」へは、電車：JR日豊本線、柳ヶ浦駅より車で8分／お車：東九州自動車道、宇佐ICより5分。最寄りの柳ヶ浦駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「宇佐ホテルリバーサイド」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「宇佐ホテルリバーサイド」は『フロントは安心の24時間対応 国宝宇佐神宮のお膝元、駅館川のほとり、今日もなごやかに営業中。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「宇佐ホテルリバーサイド」と「京都竹の郷温泉 万葉の湯 ホテル京都エミナース」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         
         {/* 特集の魅力セクション */}
@@ -456,7 +456,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「宇佐ホテルリバーサイド」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「宇佐ホテルリバーサイド」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「京都竹の郷温泉 万葉の湯 ホテル京都エミナース。」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「京都竹の郷温泉 万葉の湯 ホテル京都エミナース」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -495,7 +495,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「宇佐ホテルリバーサイド」と「京都竹の郷温泉 万葉の湯 ホテル京都エミナース。」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
+                A. 「宇佐ホテルリバーサイド」と「京都竹の郷温泉 万葉の湯 ホテル京都エミナース」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

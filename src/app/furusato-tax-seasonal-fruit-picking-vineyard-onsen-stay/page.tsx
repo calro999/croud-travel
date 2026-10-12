@@ -193,7 +193,7 @@ export default function FurusatoSeasonalFruitPickingStayPage() {
                     山梨県屈指の果樹園地帯・笛吹市石和温泉に位置し、緑豊かな日本庭園と手作りの郷土懐石が評判の温もりある名旅館。石和温泉は日本有数のブドウ・桃の産地に囲まれており、シーズン中はいちご狩りや桃狩り、シャインマスカット狩りの観光農園へ車ですぐの好立地。アルカリ性単純温泉のやわらかな天然温泉を引く大浴場や露天風呂で旅の疲れを癒やした後は、山梨名物の甲州牛やほうとう鍋、地元ワイナリーの銘醸甲州ワインを心ゆくまでお楽しみいただけます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「昭和レトロな空間と温かい接客に大満足女将さんやスタッフさんもとても優しく、昭和を感じさせるお部屋ですごく落ちついて宿泊が出来ました!タイムスリップした感じで色々と楽しませて頂きました!また、行き… 投。」
+                    「昭和レトロな空間と温かい接客に大満足女将さんやスタッフさんもとても優しく、昭和を感じさせるお部屋ですごく落ちついて宿泊が出来ました!タイムスリップした感じで色々と楽しませて頂きました!また、行き… 投」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -254,7 +254,7 @@ export default function FurusatoSeasonalFruitPickingStayPage() {
                     静岡県屈指のいちごの産地として知られる伊豆の国市に佇み、平安時代から続く名湯「古奈温泉」の源泉かけ流しを誇る老舗料理旅館。周辺には章姫や紅ほっぺを時間無制限で楽しめる人気のいちご狩り施設が多数集結しています。館内にはヒノキの香り漂う貸切風呂や趣ある大浴場が揃い、肌当たり滑らかな美肌の湯を堪能。夕食には駿河湾から直送される鮮魚のお造りや季節の会席料理が美しく並び、心温まる伊豆の休日を満喫できます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「お風呂と食事は満足、部屋は綺麗だが落ち着かずお風呂も食事も満足です。お部屋は新しくされて綺麗ですが、少し落ち着かない感じでした。」
+                    「お風呂と食事は満足、部屋は綺麗だが落ち着かずお風呂も食事も満足です。お部屋は新しくされて綺麗ですが、少し落ち着かない感じでした」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">

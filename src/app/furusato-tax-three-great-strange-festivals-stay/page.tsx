@@ -110,7 +110,7 @@ export default function Page() {
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52102%2F52102.html",
     "featureKey": "matsuri_namahage",
     "featureLabel": "秋田県男鹿市ふるさと納税・ユネスコ無形文化遺産・泣く子はいねがの咆哮「男鹿のナマハゲ」男鹿温泉郷別邸つばき",
-    "themeTitle": "秋田県男鹿市ふるさと納税：男鹿ナマハゲ伝承館至近・名物石焼料理と名湯「男鹿温泉 湯けむりリゾート セイコーグランドホテル。」",
+    "themeTitle": "秋田県男鹿市ふるさと納税：男鹿ナマハゲ伝承館至近・名物石焼料理と名湯「男鹿温泉 湯けむりリゾート セイコーグランドホテル」",
     "themeDesc": "ナマハゲ発祥の地・男鹿半島の温泉リゾート。男鹿温泉郷の源泉かけ流し大浴場と露天風呂で温まり、夕食は真っ赤に焼けた溶岩石を桶に投入して一瞬で煮立てる名物「男鹿名物石焼料理」や日本海の新鮮な海の幸を豪快に堪能できます。",
     "revAvg": "4.1",
     "minCharge": "11,110"

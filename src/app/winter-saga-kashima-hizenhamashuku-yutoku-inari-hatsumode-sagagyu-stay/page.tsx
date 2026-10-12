@@ -361,7 +361,7 @@ export default function FeaturePage() {
 
                     <div className="bg-amber-50/70 border border-amber-200/60 rounded-lg p-3 text-xs text-stone-700 space-y-1">
                       <span className="font-bold text-amber-900 block">宿泊者のクチコミ・評判抜粋</span>
-                      <p className="line-clamp-2 italic text-stone-600">「有明海を望む静かな宿、食事も温泉も大満足有明海を望む好立地にも関わらず静かで穏やかな宿です。最近リニューアルされた内装は木材の良さを生かした落ち着きがありそれでいて明るく快適でした。客室には独特な。」</p>
+                      <p className="line-clamp-2 italic text-stone-600">「有明海を望む静かな宿、食事も温泉も大満足有明海を望む好立地にも関わらず静かで穏やかな宿です。最近リニューアルされた内装は木材の良さを生かした落ち着きがありそれでいて明るく快適でした。客室には独特な」</p>
                     </div>
                   </div>
                 </div>
@@ -511,7 +511,7 @@ export default function FeaturePage() {
 
                     <div className="bg-amber-50/70 border border-amber-200/60 rounded-lg p-3 text-xs text-stone-700 space-y-1">
                       <span className="font-bold text-amber-900 block">宿泊者のクチコミ・評判抜粋</span>
-                      <p className="line-clamp-2 italic text-stone-600">「部屋の扉もそうですが、クッション材を付けるなどして開け閉めの。」</p>
+                      <p className="line-clamp-2 italic text-stone-600">「部屋の扉もそうですが、クッション材を付けるなどして開け閉めの」</p>
                     </div>
                   </div>
                 </div>

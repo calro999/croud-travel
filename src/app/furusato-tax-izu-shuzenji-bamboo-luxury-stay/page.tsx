@@ -227,7 +227,7 @@ export default function FurusatoShuzenjiBambooStayPage() {
             <div><strong>楽天評価:</strong> <span className="text-amber-600 font-bold text-base">★ 4.34</span> (1944件)</div>
             <div><strong>参考価格:</strong> 1名あたり約11,800円〜</div>
           </div>
-          <p className="text-base text-gray-800 leading-relaxed mb-6">修禅寺や桂川の散策拠点として最高のロケーションに位置する、共立リゾートがプロデュースする温泉ホテル。最大の魅力は、館内に用意された「七つの無料貸切風呂（檜、信楽焼、岩風呂など）。」。空いていれば予約なしで何度でも湯巡りができ、家族やカップルでプライベートな温泉時間を満喫できます。客室は和の温もりを感じる洗練された和洋室。夕食は旬の刺身や天ぷら、伊豆の郷土料理が彩り豊かに並ぶハーフバイキングや和食会席が選べ、共立リゾート名物の夜鳴きそばサービスとともに滞在の満足感を高めてくれます。</p>
+          <p className="text-base text-gray-800 leading-relaxed mb-6">修禅寺や桂川の散策拠点として最高のロケーションに位置する、共立リゾートがプロデュースする温泉ホテル。最大の魅力は、館内に用意された「七つの無料貸切風呂（檜、信楽焼、岩風呂など）」。空いていれば予約なしで何度でも湯巡りができ、家族やカップルでプライベートな温泉時間を満喫できます。客室は和の温もりを感じる洗練された和洋室。夕食は旬の刺身や天ぷら、伊豆の郷土料理が彩り豊かに並ぶハーフバイキングや和食会席が選べ、共立リゾート名物の夜鳴きそばサービスとともに滞在の満足感を高めてくれます。</p>
           <div className="hotel-special-wrapper">
             <div className="bg-amber-50 border-l-4 border-amber-600 p-4 rounded-r-xl mb-6 text-sm text-amber-950">
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
@@ -306,7 +306,7 @@ export default function FurusatoShuzenjiBambooStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

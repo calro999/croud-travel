@@ -153,7 +153,7 @@ export default function FurusatoOkinawaBeachResortStayPage() {
             <div><strong>楽天評価:</strong> <span className="text-amber-600 font-bold text-base">★ 4.81</span> (717件)</div>
             <div><strong>参考価格:</strong> 1名あたり約36,021円〜</div>
           </div>
-          <p className="text-base text-gray-800 leading-relaxed mb-6">沖縄海岸国定公園の美しい海岸線沿いに佇む、世界屈指のラグジュアリーリゾートホテル。「天国にふさわしい館」を意味するハレクラニの名の通り、全360室が東シナ海を望むオーシャンビュー設計。ホテルのシンボルである約150万枚のモザイクタイルで描かれた「オーキッドプール」をはじめ、静寂の大人専用クワイエットプールなど5つのプールを完備。客室は「セブンシェイズ・オブ・ホワイト（7色の白）。」を基調とした洗練の極み。ミシュラン二つ星シェフ監修のイノベーティブフレンチ「SHIROUX（シルー）」やサンセットバーで過ごす時間は、人生最高のバカンスを約束してくれます。</p>
+          <p className="text-base text-gray-800 leading-relaxed mb-6">沖縄海岸国定公園の美しい海岸線沿いに佇む、世界屈指のラグジュアリーリゾートホテル。「天国にふさわしい館」を意味するハレクラニの名の通り、全360室が東シナ海を望むオーシャンビュー設計。ホテルのシンボルである約150万枚のモザイクタイルで描かれた「オーキッドプール」をはじめ、静寂の大人専用クワイエットプールなど5つのプールを完備。客室は「セブンシェイズ・オブ・ホワイト（7色の白）」を基調とした洗練の極み。ミシュラン二つ星シェフ監修のイノベーティブフレンチ「SHIROUX（シルー）」やサンセットバーで過ごす時間は、人生最高のバカンスを約束してくれます。</p>
           <div className="hotel-special-wrapper">
             <div className="bg-amber-50 border-l-4 border-amber-600 p-4 rounded-r-xl mb-6 text-sm text-amber-950">
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
@@ -306,7 +306,7 @@ export default function FurusatoOkinawaBeachResortStayPage() {
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
             <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）。」となっています。旅行予定に合わせてじっくり使えます。
+              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">

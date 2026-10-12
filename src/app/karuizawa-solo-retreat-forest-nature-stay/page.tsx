@@ -421,8 +421,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 軽井沢駅よりアクセス。軽井沢駅南口より8：00～21：00時の間、約30分間隔にて無料シャトルバスを随時運行☆。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「軽井沢プリンスホテル イースト」にチェックイン。「森の中、物語を見つけに。」温泉、スポーツ、ショッピングなど自由な滞在を楽しむ高原リゾートなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「軽井沢プリンスホテル イースト」の湯処へ。「森の中、物語を見つけに。」温泉、スポーツ、ショッピングなど自由な滞在とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「軽井沢プリンスホテル イースト」にチェックイン。「森の中、物語を見つけに」温泉、スポーツ、ショッピングなど自由な滞在を楽しむ高原リゾートなどの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「軽井沢プリンスホテル イースト」の湯処へ。「森の中、物語を見つけに」温泉、スポーツ、ショッピングなど自由な滞在とともに、夕暮れの特別な寛ぎを満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「軽井沢プリンスホテル イースト」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>

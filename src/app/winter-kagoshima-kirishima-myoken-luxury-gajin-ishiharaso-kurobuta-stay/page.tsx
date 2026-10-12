@@ -319,7 +319,7 @@ export default function LuxuryStayPage() {
 
               <div className="bg-slate-50 p-4 rounded-xl border-l-4 border-amber-500 text-xs md:text-sm text-slate-600 italic mb-6">
                 <span className="font-bold text-slate-700 not-italic block mb-1">宿泊者のクチコミ体験談</span>
-                「全室離れ・客室専用露天風呂付き。自家源泉の掛け流しと、鹿児島黒毛和牛を使った極上の創作和食会席。」
+                「全室離れ・客室専用露天風呂付き。自家源泉の掛け流しと、鹿児島黒毛和牛を使った極上の創作和食会席」
               </div>
 
               <div className="pt-2">

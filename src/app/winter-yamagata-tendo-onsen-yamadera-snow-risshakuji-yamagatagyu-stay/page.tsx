@@ -390,7 +390,7 @@ export default function FeaturePage() {
                   
                 <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「優しい味の食事と源泉掛け流しの温泉に癒される全体的にバランスの取れた宿です。食事は優しい味で大変満足しました。お風呂は源泉掛流しでとても気持ちよく癒されました。」"}</p>
+                  <p className="leading-relaxed">{"「優しい味の食事と源泉掛け流しの温泉に癒される全体的にバランスの取れた宿です。食事は優しい味で大変満足しました。お風呂は源泉掛流しでとても気持ちよく癒されました」"}</p>
                 </div>
             
 
@@ -588,7 +588,7 @@ export default function FeaturePage() {
                   
                 <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「のんびりと心穏やかに過ごせる場所のんびり過ごしやすいお宿でした。つづ。」"}</p>
+                  <p className="leading-relaxed">{"「のんびりと心穏やかに過ごせる場所のんびり過ごしやすいお宿でした。つづ」"}</p>
                 </div>
             
 
@@ -654,7 +654,7 @@ export default function FeaturePage() {
                   
                 <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「家族全員大満足、半個室の夕食でゆったり家族で宿泊しましたが、全員大満足でした。夕食が半個室でゆったりできました。つづ。」"}</p>
+                  <p className="leading-relaxed">{"「家族全員大満足、半個室の夕食でゆったり家族で宿泊しましたが、全員大満足でした。夕食が半個室でゆったりできました。つづ」"}</p>
                 </div>
             
 

@@ -201,7 +201,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.63点、口コミ800件超。「乳白色のお湯が本当に素晴らしく、何度も入浴した。」「スタッフの接客が洗練されており、食事も部屋もすべてが最高峰。」と絶賛されています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.63点、口コミ800件超。「乳白色のお湯が本当に素晴らしく、何度も入浴した」「スタッフの接客が洗練されており、食事も部屋もすべてが最高峰」と絶賛されています。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -285,7 +285,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.75点の高得点。「貸切露天風呂の風情とお湯の良さが感動的」「囲炉裏料理がどれも絶品で、静かに温泉を堪能したい人には最高の宿。」とリピーターが絶えません。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.75点の高得点。「貸切露天風呂の風情とお湯の良さが感動的」「囲炉裏料理がどれも絶品で、静かに温泉を堪能したい人には最高の宿」とリピーターが絶えません。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -369,7 +369,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.50点、口コミ500件超。「桂の木の下のお風呂の雰囲気が最高で、白濁したお湯も素晴らしい。」「家庭的なおもてなしと美味しい郷土料理に癒やされた。」と秘湯ファンから愛されています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.50点、口コミ500件超。「桂の木の下のお風呂の雰囲気が最高で、白濁したお湯も素晴らしい」「家庭的なおもてなしと美味しい郷土料理に癒やされた」と秘湯ファンから愛されています。</p>
               </div>
 
               {/* 宿基本情報 */}

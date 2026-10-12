@@ -188,7 +188,7 @@ export default function FurusatoRound64ArticlePage() {
                     白馬姫川温泉　白馬ハイランドホテル
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「お風呂は綺麗で食事も美味しく接客も丁寧ホテルは少し古さを感じましたが、お風呂は改装されて?かなり綺麗でした。特に宿泊者専用のお風呂は広くとても快適でした。(お風呂まで少し遠いですが)朝食・夕食…。」
+                    「お風呂は綺麗で食事も美味しく接客も丁寧ホテルは少し古さを感じましたが、お風呂は改装されて?かなり綺麗でした。特に宿泊者専用のお風呂は広くとても快適でした。(お風呂まで少し遠いですが)朝食・夕食…」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -243,7 +243,7 @@ export default function FurusatoRound64ArticlePage() {
                     昼神温泉　湯多利の里　伊那華
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「昼神温泉 【いなか】最高!約12年ぶりに、昼神温泉へ。親がよく利用しているとのことで、私は2回目の宿泊。12年ぶりだったために、食事のメニューとかもすっかり忘れ、山菜がメインであった様な、、、そ…。」
+                    「昼神温泉 【いなか】最高!約12年ぶりに、昼神温泉へ。親がよく利用しているとのことで、私は2回目の宿泊。12年ぶりだったために、食事のメニューとかもすっかり忘れ、山菜がメインであった様な、、、そ…」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -298,7 +298,7 @@ export default function FurusatoRound64ArticlePage() {
                     高遠温泉　高遠さくらホテル
                   </h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「高遠湖の景色と温泉、スマートな接客に大満足高遠湖を臨むお部屋は、景色を眺めとてもリラックスすることができました。美肌効果のある温泉はとっても気持ちよかったです。レストランは夕食 朝食ともに 、ち…。」
+                    「高遠湖の景色と温泉、スマートな接客に大満足高遠湖を臨むお部屋は、景色を眺めとてもリラックスすることができました。美肌効果のある温泉はとっても気持ちよかったです。レストランは夕食 朝食ともに 、ち…」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">

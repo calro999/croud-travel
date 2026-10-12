@@ -185,7 +185,7 @@ export default function SilverWeekGlampingKidsPlayActivityPage() {
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「子連れグランピング巨大遊具＆体験付き」アスレチック・動物ふれあい・収穫体験で子供が大はしゃぎ！</h1>
 
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed font-medium">
-            「子供を大自然の中で思いっきり遊ばせたい、でもテント泊の準備や衛生面はちょっと心配。」そんなファミリーの願いを叶える体験型グランピング！森のツリーハウスアスレチックから、もふもふ動物への餌やり、石窯ピザ焼き、秋の味覚収穫まで、親子の笑顔があふれる特別な休日をご提案します。全室エアコン＆専用バスルーム完備でママパパもストレスゼロ！
+            「子供を大自然の中で思いっきり遊ばせたい、でもテント泊の準備や衛生面はちょっと心配」そんなファミリーの願いを叶える体験型グランピング！森のツリーハウスアスレチックから、もふもふ動物への餌やり、石窯ピザ焼き、秋の味覚収穫まで、親子の笑顔があふれる特別な休日をご提案します。全室エアコン＆専用バスルーム完備でママパパもストレスゼロ！
           </p>
 
           <div className="pt-2 flex flex-wrap gap-4 text-xs font-bold text-amber-300">

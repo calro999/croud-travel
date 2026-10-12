@@ -406,7 +406,7 @@ export default function FeaturePage() {
                     
                 <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「食事がとても美味しく大満足御飯がとてもおいしかったです。お風呂も気持ちよかった。」"}</p>
+                  <p className="leading-relaxed">{"「食事がとても美味しく大満足御飯がとてもおいしかったです。お風呂も気持ちよかった」"}</p>
                 </div>
             
                   </div>
@@ -468,7 +468,7 @@ export default function FeaturePage() {
                     
                 <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「宮崎牛のしゃぶしゃぶが美味しく量も適度宮崎牛のしゃぶしゃぶおいしかったです。料理の量も適度でした。」"}</p>
+                  <p className="leading-relaxed">{"「宮崎牛のしゃぶしゃぶが美味しく量も適度宮崎牛のしゃぶしゃぶおいしかったです。料理の量も適度でした」"}</p>
                 </div>
             
                   </div>

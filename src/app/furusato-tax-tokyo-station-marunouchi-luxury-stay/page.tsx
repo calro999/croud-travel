@@ -201,7 +201,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.83点、口コミ絶賛の最高峰。「重要文化財の中に泊まる特別感とお部屋のクラシカルな美しさに感動。」「朝食ブッフェの美味しさとスタッフの対応が別格。」と憧れの宿。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.83点、口コミ絶賛の最高峰。「重要文化財の中に泊まる特別感とお部屋のクラシカルな美しさに感動」「朝食ブッフェの美味しさとスタッフの対応が別格」と憧れの宿。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -285,7 +285,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.71点、口コミ高評価。「テラスからの皇居の景色が美しく、都会のオアシスそのもの。」「スタッフの立ち振る舞いが完璧で最高のご褒美になった。」と大絶賛。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.71点、口コミ高評価。「テラスからの皇居の景色が美しく、都会のオアシスそのもの」「スタッフの立ち振る舞いが完璧で最高のご褒美になった」と大絶賛。</p>
               </div>
 
               {/* 宿基本情報 */}
@@ -369,7 +369,7 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.70点、口コミ3000件超。「老舗ならではの安心感とスタッフのプロフェッショナルな対応に感動。」「バイキングのローストビーフが絶品で一生の思い出になった。」と信頼の評価。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.70点、口コミ3000件超。「老舗ならではの安心感とスタッフのプロフェッショナルな対応に感動」「バイキングのローストビーフが絶品で一生の思い出になった」と信頼の評価。</p>
               </div>
 
               {/* 宿基本情報 */}
