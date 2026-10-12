@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     description: '冬の宮崎・日南海岸エリアは、紺碧の太平洋が広がる温暖な気候のもと、奇岩怪石の断崖洞窟に鎮座する霊場「鵜戸神宮」が新春開運の初詣祈願と運玉投げ。',
     url: 'https://croud-travel.pages.dev/winter-miyazaki-nichinan-udo-shrine-hatsumode-iseebi-wagyu-stay',
     type: 'article',
-    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/51210/51210.jpg' }]
+    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/51210/51210.jpg' , alt: "11・12・1月宮崎日南：名物伊勢海老！名宿5選"}]
   }
 };
 

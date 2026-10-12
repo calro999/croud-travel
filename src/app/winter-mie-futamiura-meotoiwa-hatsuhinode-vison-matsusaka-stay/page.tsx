@@ -26,7 +26,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '伊勢湾の霊峰・二見浦夫婦岩の初日の出と日本最大級VISON：2026-2027年冬の三重・伊勢二見＆多気！薬草温泉と極上松阪牛名宿5選',
     description: '冬の澄んだ朝日に輝く二見興玉神社「夫婦岩」の新春初日の出・初詣と冬の満月の神秘！日本最大級の商業リゾート「VISON」の本草湯と美食巡り、本場伊勢の極上「松阪牛」すき焼きや冬の伊勢海老・的矢牡蠣に満たされる三重の厳選名宿5選。',
-    images: ['https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Futamiokitama_jinja_Haiden.jpg/1280px-Futamiokitama_jinja_Haiden.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail'],
+    images: [{ url: "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Futamiokitama_jinja_Haiden.jpg/1280px-Futamiokitama_jinja_Haiden.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail", alt: "伊勢湾の霊峰・二見浦夫婦岩の初日の出と日本最大級VISON：2026-2027年冬の三重・伊勢二見＆多気！薬草温泉と極上松阪牛名宿5選 | 旅行キュレーション" }],
     type: 'article',
   },
 };

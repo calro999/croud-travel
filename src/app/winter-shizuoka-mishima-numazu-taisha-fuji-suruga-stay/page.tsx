@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     description: '冬の三島・沼津は、大気が一年で最も澄み渡り、純白の冠雪を抱く富士山と紺碧の駿河湾が圧巻のコントラストを描く至高のシーズン。',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-mishima-numazu-taisha-fuji-suruga-stay',
     type: 'article',
-    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/179020/179020.jpg' }]
+    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/179020/179020.jpg' , alt: "11・12・1月三島沼津：冬の三嶋大社新春開運初詣！名宿5選"}]
   }
 };
 

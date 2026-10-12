@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     description: '冬の東京・浅草＆押上は、1400年の歴史を誇る浅草寺の朱塗り本堂と雷門が新春初詣の祈りで満ち。',
     url: 'https://croud-travel.pages.dev/winter-tokyo-asakusa-sensoji-hatsumode-skytree-edomae-stay',
     type: 'article',
-    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/177986/177986.jpg' }]
+    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/177986/177986.jpg' , alt: "11・12・1月浅草押上：浅草寺新春初詣！名宿5選"}]
   }
 };
 

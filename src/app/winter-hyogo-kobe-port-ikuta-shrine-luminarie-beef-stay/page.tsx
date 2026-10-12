@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     description: '冬の港町・神戸は、澄み切った冷涼な空気が六甲山と神戸港の「1000万ドルの夜景」を最も眩しく煌めかせ。',
     url: 'https://croud-travel.pages.dev/winter-hyogo-kobe-port-ikuta-shrine-luminarie-beef-stay',
     type: 'article',
-    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/149298/149298.jpg' }]
+    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/149298/149298.jpg' , alt: "11・12・1月神戸：生田神社新春開運初詣！名宿5選"}]
   }
 };
 

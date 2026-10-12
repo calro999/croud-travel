@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     description: '本土が厳しい寒さに震える11月・12月・1月、平均気温18℃前後の温暖な陽光が注ぐ沖縄・那覇エリアは極上の「避冬（ひとう）リゾート」。',
     url: 'https://croud-travel.pages.dev/winter-okinawa-naha-naminoe-shrine-hatsumode-agu-resort-stay',
     type: 'article',
-    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/139989/139989.jpg' }]
+    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/139989/139989.jpg' , alt: "11・12・1月沖縄那覇：新春波上宮初詣！名宿5選"}]
   }
 };
 

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     description: '冬の和歌山・加太エリアは、紀淡海峡の彼方に沈む鮮やかな夕陽と友ヶ島のシルエットが旅情をかきたて。',
     url: 'https://croud-travel.pages.dev/winter-wakayama-city-kada-onsen-hatsumode-taimeshi-kue-stay',
     type: 'article',
-    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/9090/9090.jpg' }]
+    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/9090/9090.jpg' , alt: "11・12・1月和歌山加太：冬の日前神宮新春開運初詣！名宿5選"}]
   }
 };
 

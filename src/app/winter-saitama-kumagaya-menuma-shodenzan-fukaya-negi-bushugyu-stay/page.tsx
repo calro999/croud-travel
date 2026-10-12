@@ -26,7 +26,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '国宝・妻沼聖天山新春初詣と冬の極上深谷ねぎ：2026-2027年冬の埼玉・熊谷＆深谷！美肌天然温泉と武州和牛すき焼き名宿5選',
     description: '「埼玉の日光東照宮」と称される国宝・妻沼聖天山歓喜院の精緻な彫刻美と新春開運初詣！寒さで糖度15度を超える冬の至宝「深谷ねぎ」のねぎカルビやすき焼き、渋沢栄一の郷愁、天然温泉のぬくもりに癒やされる埼玉北部の厳選名宿5選。',
-    images: ['https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Menuma_Shouden_Kangi-in_201810a.jpg/1280px-Menuma_Shouden_Kangi-in_201810a.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail'],
+    images: [{ url: "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Menuma_Shouden_Kangi-in_201810a.jpg/1280px-Menuma_Shouden_Kangi-in_201810a.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail", alt: "国宝・妻沼聖天山新春初詣と冬の極上深谷ねぎ：2026-2027年冬の埼玉・熊谷＆深谷！美肌天然温泉と武州和牛すき焼き名宿5選 | 旅行キュレーション" }],
     type: 'article',
   },
 };

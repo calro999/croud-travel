@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     description: '冬の三重北勢（鈴鹿・桑名・四日市）は、全国猿田彦神社総本宮・伊勢国一の宮「椿大神社」の清冽な神域で新春のみちびき開運を祈願し。',
     url: 'https://croud-travel.pages.dev/winter-mie-suzuka-tsubaki-shrine-nabana-kuwana-hamaguri-stay',
     type: 'article',
-    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/106022/106022.jpg' }]
+    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/106022/106022.jpg' , alt: "11・12・1月三重鈴鹿桑名：椿大神社新春みちびき初詣！名宿5選"}]
   }
 };
 

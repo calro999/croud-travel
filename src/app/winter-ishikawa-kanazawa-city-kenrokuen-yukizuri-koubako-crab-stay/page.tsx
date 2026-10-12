@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     description: '冬の金沢は、名勝・兼六園の唐崎松に施される雪吊りが冬空に優美な幾何学模様を描き。',
     url: 'https://croud-travel.pages.dev/winter-ishikawa-kanazawa-city-kenrokuen-yukizuri-koubako-crab-stay',
     type: 'article',
-    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/2050/2050.jpg' }]
+    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/2050/2050.jpg' , alt: "11・12・1月金沢：寒ブリ！名宿5選"}]
   }
 };
 

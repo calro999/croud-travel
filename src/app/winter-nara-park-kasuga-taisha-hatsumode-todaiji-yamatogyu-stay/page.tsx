@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     description: '1300年の歴史が静かに息づく古都・奈良の冬。世界遺産・春日大社の朱塗りの社殿と無数の釣燈籠が白雪に映える新春開運初詣、東大寺大仏殿の厳かな佇まい。',
     url: 'https://croud-travel.pages.dev/winter-nara-park-kasuga-taisha-hatsumode-todaiji-yamatogyu-stay',
     type: 'article',
-    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/1148/1148.jpg' }]
+    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/1148/1148.jpg' , alt: "11・12・1月奈良：大和牛すき焼きと古都の静謐に寛ぐ厳選！名宿5選"}]
   }
 };
 

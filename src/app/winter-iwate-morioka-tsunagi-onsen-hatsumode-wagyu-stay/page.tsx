@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     description: '冬の盛岡は、冠雪した霊峰・岩手山（南部片富士）が澄み渡る青空に凛とそびえ立ち。',
     url: 'https://croud-travel.pages.dev/winter-iwate-morioka-tsunagi-onsen-hatsumode-wagyu-stay',
     type: 'article',
-    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/10629/10629.jpg' }]
+    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/10629/10629.jpg' , alt: "11・12・1月盛岡：冬の盛岡八幡宮新春開運初詣！名宿5選"}]
   }
 };
 

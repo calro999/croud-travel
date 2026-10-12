@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     description: '冬の京都南部（伏見・宇治）は、全国3万社を数える稲荷神社の総本宮「伏見稲荷大社」の朱塗り千本鳥居が冬の青空に鮮やかに映える絶景ロケーションとともに楽しむ宿泊ガイドです。',
     url: 'https://croud-travel.pages.dev/winter-kyoto-fushimi-inari-hatsumode-uji-sake-matcha-stay',
     type: 'article',
-    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/1445/1445.jpg' }]
+    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/1445/1445.jpg' , alt: "11・12・1月京都伏見宇治：伏見稲荷大社新春千本鳥居初詣！名宿5選"}]
   }
 };
 

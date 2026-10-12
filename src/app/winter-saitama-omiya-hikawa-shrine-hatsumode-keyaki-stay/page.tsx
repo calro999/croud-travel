@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     description: '冬の首都圏近郊で圧倒的な賑わいと幻想美を見せる埼玉・大宮＆さいたま新都心。2400年以上の歴史を誇る武蔵一宮「氷川神社」への新春200万人開。',
     url: 'https://croud-travel.pages.dev/winter-saitama-omiya-hikawa-shrine-hatsumode-keyaki-stay',
     type: 'article',
-    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/13564/13564.jpg' }]
+    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/13564/13564.jpg' , alt: "11・12・1月埼玉：武州和牛と天然温泉に寛ぐ！名宿5選"}]
   }
 };
 

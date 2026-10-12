@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     description: '冬の東京ベイエリアは、澄み切った澄明な冬空にレインボーブリッジと東京タワーが重なり合う年間最美の夜景シーズン。',
     url: 'https://croud-travel.pages.dev/winter-tokyo-odaiba-toyosu-senkyakubanrai-yakei-stay',
     type: 'article',
-    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/1917/1917.jpg' }]
+    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/1917/1917.jpg' , alt: "11・12・1月東京：お台場レインボー花火！名宿5選"}]
   }
 };
 

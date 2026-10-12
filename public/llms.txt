@@ -314,6 +314,9 @@
 - [ハウステンボス「白銀の世界・光の街のクリスマス」と雲仙温泉！1300万球冬イルミネーションと湯煙地獄・霧氷名宿ガイド](https://croud-travel.pages.dev/posts/theme_4_huistenbosch): ホテルオークラＪＲハウステンボス（長崎県）
 - [万座温泉の標高1800m白銀乳白色秘湯と日本一の濃厚硫黄泉！満天の冬星空・パウダースノー雪見大露天風呂名宿ガイド](https://croud-travel.pages.dev/posts/theme_5_manza): 万座温泉　万座亭（群馬県）
 - [丹後・間人温泉の幻の「間人ガニ」と雪化粧の伊根の舟屋！日本三景・雪の天橋立飛龍観と極上寒ブリしゃぶしゃぶ名宿ガイド](https://croud-travel.pages.dev/posts/theme_2_tango): 窓に広がる夕日と海　美食を奏で１５０有余年　間人温泉　炭平（京都府）
+- [【山口県】ご当地絶品グルメと地酒巡りを満喫する贅沢旅！絶品名物と厳選温泉宿3選](https://croud-travel.pages.dev/posts/56197): 俵山温泉　泉屋旅館（山口県）
+- [【三重】Hotel 津 Center Palace宿泊ルポ！和モダンな空間と大浴場の極上ステイ](https://croud-travel.pages.dev/posts/184012): Ｈｏｔｅｌ　津　Ｃｅｎｔｅｒ　Ｐａｌａｃｅ（ホテル津センターパレス）（三重県）
+- [【愛媛美食旅】絶品グルメと地酒を巡る！心満たされる愛媛の極上旅ガイド](https://croud-travel.pages.dev/posts/1036): 今治国際ホテル（愛媛県）
 - [【長野県】歴史とレトロな街並みを巡る旅！城下町・宿場町と厳選宿3選](https://croud-travel.pages.dev/posts/1562): 松本駅から一番近い大浴場のある　ホテルニューステーション＜長野県＞（長野県）
 - [【愛媛】極上源泉と進化系サウナを堪能！たかのこのホテル滞在記](https://croud-travel.pages.dev/posts/140784): たかのこのホテル（愛媛県）
 - [大内宿の白銀茅葺き雪まつりと会津若松・東山温泉！鶴ヶ城の雪化粧と名物ねぎそば・極上会津馬刺しを味わう名宿ガイド](https://croud-travel.pages.dev/posts/aizu-higashiyama-onsen-ouchijuku-snow-tsurugajo-winter-guide): 会津東山温泉　月のあかり（福島県）
@@ -356,6 +359,3 @@
 - [北海道：絶品グルメと地酒を巡る！心満たされる美食旅モデルコースと厳選宿3選](https://croud-travel.pages.dev/posts/67259): クロスホテル札幌（オリックスホテルズ＆リゾーツ）（北海道）
 - [富山県：温泉街の湯めぐりと風情を満喫する旅！厳選宿3選とモデルコース](https://croud-travel.pages.dev/posts/16406): ホテル祥園（富山県）
 - [湯河原：湯もと小町館宿泊記！大正ロマン薫る湯元通りで源泉掛け流しを堪能](https://croud-travel.pages.dev/posts/161209): 湯河原温泉　湯もと小町館（神奈川県）
-- [那須温泉：清水屋宿泊ルポ！鹿の湯源泉かけ流し白濁湯と絶品懐石膳](https://croud-travel.pages.dev/posts/109132): 那須湯本温泉　鹿の湯源泉かけ流しの宿　旅館　清水屋＜栃木県・那須郡＞（栃木県）
-- [沖縄：女子旅で巡る神秘の聖地と絶景映えスポット！至福の癒やし宿3選](https://croud-travel.pages.dev/posts/78094): ロワジールスパタワー那覇（沖縄県）
-- [大分県：別府鉄輪温泉 やすらぎの宿 由布宿泊ガイド！地獄めぐり徒歩圏の鉄輪温泉♪露天・内・アクセス＆魅力ルポ](https://croud-travel.pages.dev/posts/72895): 別府鉄輪温泉　やすらぎの宿　由布（大分県）
