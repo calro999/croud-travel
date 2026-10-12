@@ -12,8 +12,8 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "furusato-tax-three-great-beautiful-forests-wood-stay",
-    "description": "",
+    "headline": "日本三大美林＆天然木アロマ温泉宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "清々しい木の香りに包まれる極上の森林浴ステイ！青森「青森ヒバ」日本一の耐久性と芳香・むつグランドホテル斗南温泉、秋田「秋田スギ」樹齢二百年の巨木と大館曲げわっぱ・大館ぽかぽか温泉ホテル、長野「木曽ヒノキ」伊勢神宮御用達の銘木と木曽路宿場町・きそふくしま温泉おん宿蔦屋。日本三大美林の清冽な癒やしと銘木...",
     "url": "https://croud-travel.pages.dev/furusato-tax-three-great-beautiful-forests-wood-stay/",
     "publisher": {
       "@type": "Organization",
@@ -32,7 +32,9 @@ export default function Page() {
 
   return (
     <>
-      <head>
+            <head>
+        <title>日本三大美林＆天然木アロマ温泉宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</title>
+        <meta name="description" content="清々しい木の香りに包まれる極上の森林浴ステイ！青森「青森ヒバ」日本一の耐久性と芳香・むつグランドホテル斗南温泉、秋田「秋田スギ」樹齢二百年の巨木と大館曲げわっぱ・大館ぽかぽか温泉ホテル、長野「木曽ヒノキ」伊勢神宮御用達の銘木と木曽路宿場町・きそふくしま温泉おん宿蔦屋。日本三大美林の清冽な癒やしと銘木..." />
         <link rel="canonical" href="https://croud-travel.pages.dev/furusato-tax-three-great-beautiful-forests-wood-stay/" />
       </head>
     <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">

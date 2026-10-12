@@ -12,8 +12,8 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "furusato-tax-three-great-morning-markets-seafood-stay",
-    "description": "",
+    "headline": "日本三大朝市＆獲れたて海鮮・朝ごはん宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "威勢のいい掛け声と湯気立つ浜焼き！石川「輪島朝市」千年続く露店と能登海の幸ホテル海望、佐賀「呼子朝市」イカの一夜干しと透明な泳ぎイカ活造り唐津シーサイドホテル、千葉「勝浦朝市」四百年の伝統と初鰹・勝浦タンタンメン三日月イン。日本三大朝市の熱気と贅沢な朝食バイキングを楽天ふるさと納税宿泊クーポンでお得...",
     "url": "https://croud-travel.pages.dev/furusato-tax-three-great-morning-markets-seafood-stay/",
     "publisher": {
       "@type": "Organization",
@@ -32,7 +32,9 @@ export default function Page() {
 
   return (
     <>
-      <head>
+            <head>
+        <title>日本三大朝市＆獲れたて海鮮・朝ごはん宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</title>
+        <meta name="description" content="威勢のいい掛け声と湯気立つ浜焼き！石川「輪島朝市」千年続く露店と能登海の幸ホテル海望、佐賀「呼子朝市」イカの一夜干しと透明な泳ぎイカ活造り唐津シーサイドホテル、千葉「勝浦朝市」四百年の伝統と初鰹・勝浦タンタンメン三日月イン。日本三大朝市の熱気と贅沢な朝食バイキングを楽天ふるさと納税宿泊クーポンでお得..." />
         <link rel="canonical" href="https://croud-travel.pages.dev/furusato-tax-three-great-morning-markets-seafood-stay/" />
       </head>
     <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">

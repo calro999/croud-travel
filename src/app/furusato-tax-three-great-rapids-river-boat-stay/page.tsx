@@ -12,8 +12,8 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "furusato-tax-three-great-rapids-river-boat-stay",
-    "description": "",
+    "headline": "日本三大急流＆舟下り・リバーサイド宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "水しぶきを浴びて進む大迫力の舟旅！山形「最上川」芭蕉の舟唄と高見屋最上川別邸紅、山梨「富士川」武田信玄の隠し湯下部ホテル、熊本「球磨川」九州一の激流下りと人吉城下町の有形文化財芳野旅館。日本三大急流の豪快な舟下りと清流リバーサイド温泉を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。...",
     "url": "https://croud-travel.pages.dev/furusato-tax-three-great-rapids-river-boat-stay/",
     "publisher": {
       "@type": "Organization",
@@ -32,7 +32,9 @@ export default function Page() {
 
   return (
     <>
-      <head>
+            <head>
+        <title>日本三大急流＆舟下り・リバーサイド宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</title>
+        <meta name="description" content="水しぶきを浴びて進む大迫力の舟旅！山形「最上川」芭蕉の舟唄と高見屋最上川別邸紅、山梨「富士川」武田信玄の隠し湯下部ホテル、熊本「球磨川」九州一の激流下りと人吉城下町の有形文化財芳野旅館。日本三大急流の豪快な舟下りと清流リバーサイド温泉を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。..." />
         <link rel="canonical" href="https://croud-travel.pages.dev/furusato-tax-three-great-rapids-river-boat-stay/" />
       </head>
     <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">

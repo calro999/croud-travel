@@ -12,8 +12,8 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "furusato-tax-three-great-pine-groves-sandbar-stay",
-    "description": "",
+    "headline": "日本三大松原＆白砂青松オーシャンビュー宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "萬葉の歌人が愛した日本の原風景！京都「天橋立」天に架かる緑の橋と廻旋橋を望む文珠荘、福井「気比の松原」若狭湾の白砂と敦賀トンネル温泉北国グランドホテル、静岡「三保の松原」富士山と駿河湾を一望する風景美術館日本平ホテル。日本三大松原（三大白砂青松）の絶景シーサイドステイを楽天ふるさと納税宿泊クーポンで...",
     "url": "https://croud-travel.pages.dev/furusato-tax-three-great-pine-groves-sandbar-stay/",
     "publisher": {
       "@type": "Organization",
@@ -32,7 +32,9 @@ export default function Page() {
 
   return (
     <>
-      <head>
+            <head>
+        <title>日本三大松原＆白砂青松オーシャンビュー宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</title>
+        <meta name="description" content="萬葉の歌人が愛した日本の原風景！京都「天橋立」天に架かる緑の橋と廻旋橋を望む文珠荘、福井「気比の松原」若狭湾の白砂と敦賀トンネル温泉北国グランドホテル、静岡「三保の松原」富士山と駿河湾を一望する風景美術館日本平ホテル。日本三大松原（三大白砂青松）の絶景シーサイドステイを楽天ふるさと納税宿泊クーポンで..." />
         <link rel="canonical" href="https://croud-travel.pages.dev/furusato-tax-three-great-pine-groves-sandbar-stay/" />
       </head>
     <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">

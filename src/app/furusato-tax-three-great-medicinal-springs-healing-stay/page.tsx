@@ -12,8 +12,8 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "furusato-tax-three-great-medicinal-springs-healing-stay",
-    "description": "",
+    "headline": "日本三大薬湯＆濃厚生薬湯治宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "万病を癒やす奇跡の薬効成分！新潟「松之山温泉」太古の海水が湧出するジオプレッシャーの奇跡ひなの宿ちとせ、群馬「草津温泉」強酸性の圧倒的殺菌力と湯畑源泉かけ流しの名門望雲、兵庫「有馬温泉」豊臣秀吉が愛した鉄分・塩分超濃厚の金泉兵衛向陽閣。日本三大薬湯の本格湯治リトリートを楽天ふるさと納税宿泊クーポンで...",
     "url": "https://croud-travel.pages.dev/furusato-tax-three-great-medicinal-springs-healing-stay/",
     "publisher": {
       "@type": "Organization",
@@ -32,7 +32,9 @@ export default function Page() {
 
   return (
     <>
-      <head>
+            <head>
+        <title>日本三大薬湯＆濃厚生薬湯治宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</title>
+        <meta name="description" content="万病を癒やす奇跡の薬効成分！新潟「松之山温泉」太古の海水が湧出するジオプレッシャーの奇跡ひなの宿ちとせ、群馬「草津温泉」強酸性の圧倒的殺菌力と湯畑源泉かけ流しの名門望雲、兵庫「有馬温泉」豊臣秀吉が愛した鉄分・塩分超濃厚の金泉兵衛向陽閣。日本三大薬湯の本格湯治リトリートを楽天ふるさと納税宿泊クーポンで..." />
         <link rel="canonical" href="https://croud-travel.pages.dev/furusato-tax-three-great-medicinal-springs-healing-stay/" />
       </head>
     <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">

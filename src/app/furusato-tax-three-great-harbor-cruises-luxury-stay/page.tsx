@@ -12,8 +12,8 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "furusato-tax-three-great-harbor-cruises-luxury-stay",
-    "description": "",
+    "headline": "日本三大港クルーズ＆夜景ディナークルーズ宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "洋上から望む1000万ドルのスカイライン！兵庫「神戸港クルーズ」コンチェルト＆ルミナス神戸2とホテルラ・スイート神戸ハーバーランド、神奈川「横浜港クルーズ」マリーンルージュと横浜ベイホテル東急、長崎「長崎港クルーズ」軍艦島上陸船とホテルモントレ長崎。日本三大クルーズ港の洋上贅沢ステイを楽天ふるさと納...",
     "url": "https://croud-travel.pages.dev/furusato-tax-three-great-harbor-cruises-luxury-stay/",
     "publisher": {
       "@type": "Organization",
@@ -32,7 +32,9 @@ export default function Page() {
 
   return (
     <>
-      <head>
+            <head>
+        <title>日本三大港クルーズ＆夜景ディナークルーズ宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</title>
+        <meta name="description" content="洋上から望む1000万ドルのスカイライン！兵庫「神戸港クルーズ」コンチェルト＆ルミナス神戸2とホテルラ・スイート神戸ハーバーランド、神奈川「横浜港クルーズ」マリーンルージュと横浜ベイホテル東急、長崎「長崎港クルーズ」軍艦島上陸船とホテルモントレ長崎。日本三大クルーズ港の洋上贅沢ステイを楽天ふるさと納..." />
         <link rel="canonical" href="https://croud-travel.pages.dev/furusato-tax-three-great-harbor-cruises-luxury-stay/" />
       </head>
     <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">

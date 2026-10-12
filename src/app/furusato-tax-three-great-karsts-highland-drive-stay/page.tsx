@@ -12,8 +12,8 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "furusato-tax-three-great-karsts-highland-drive-stay",
-    "description": "",
+    "headline": "日本三大カルスト台地＆絶景スカイドライブ宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "白銀の石灰岩が織りなす大自然のパノラマ！山口「秋吉台」日本最大のカルスト台地ドライブと美祢グランドホテル、高知・愛媛「四国カルスト」標高1400m天空の白い高原と星ふるヴィレッジTENGU、福岡「平尾台」羊群原の雄大パノラマと小倉名門ホテルルートイン。日本三大カルストの絶景ロードトリップを楽天ふるさ...",
     "url": "https://croud-travel.pages.dev/furusato-tax-three-great-karsts-highland-drive-stay/",
     "publisher": {
       "@type": "Organization",
@@ -32,7 +32,9 @@ export default function Page() {
 
   return (
     <>
-      <head>
+            <head>
+        <title>日本三大カルスト台地＆絶景スカイドライブ宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</title>
+        <meta name="description" content="白銀の石灰岩が織りなす大自然のパノラマ！山口「秋吉台」日本最大のカルスト台地ドライブと美祢グランドホテル、高知・愛媛「四国カルスト」標高1400m天空の白い高原と星ふるヴィレッジTENGU、福岡「平尾台」羊群原の雄大パノラマと小倉名門ホテルルートイン。日本三大カルストの絶景ロードトリップを楽天ふるさ..." />
         <link rel="canonical" href="https://croud-travel.pages.dev/furusato-tax-three-great-karsts-highland-drive-stay/" />
       </head>
     <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">

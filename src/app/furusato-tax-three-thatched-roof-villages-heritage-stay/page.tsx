@@ -12,8 +12,8 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "furusato-tax-three-thatched-roof-villages-heritage-stay",
-    "description": "",
+    "headline": "日本三大茅葺きの里＆原風景ノスタルジー宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "日本人の心のふるさと、茅葺き屋根が連なる奇跡の風景！京都「美山かやぶきの里」清流美山川と料理旅館枕川楼、福島「大内宿」江戸の宿場町とねぎそば・会津湯野上温泉ホテル大坂屋、岐阜「白川郷合掌造り集落」世界遺産の豪雪集落と天然温泉白川郷の湯。日本三大茅葺きの里（三大合掌・茅葺き集落）の温もりを楽天ふるさと...",
     "url": "https://croud-travel.pages.dev/furusato-tax-three-thatched-roof-villages-heritage-stay/",
     "publisher": {
       "@type": "Organization",
@@ -32,7 +32,9 @@ export default function Page() {
 
   return (
     <>
-      <head>
+            <head>
+        <title>日本三大茅葺きの里＆原風景ノスタルジー宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</title>
+        <meta name="description" content="日本人の心のふるさと、茅葺き屋根が連なる奇跡の風景！京都「美山かやぶきの里」清流美山川と料理旅館枕川楼、福島「大内宿」江戸の宿場町とねぎそば・会津湯野上温泉ホテル大坂屋、岐阜「白川郷合掌造り集落」世界遺産の豪雪集落と天然温泉白川郷の湯。日本三大茅葺きの里（三大合掌・茅葺き集落）の温もりを楽天ふるさと..." />
         <link rel="canonical" href="https://croud-travel.pages.dev/furusato-tax-three-thatched-roof-villages-heritage-stay/" />
       </head>
     <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">

@@ -12,8 +12,8 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "furusato-tax-three-great-sake-capitals-brewery-stay",
-    "description": "",
+    "headline": "日本三大酒どころ＆酒蔵ツーリズム宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "芳醇な香りと杜氏の魂に酔いしれる酒蔵の街！兵庫「灘五郷」宮水仕込みの男酒と神戸ヴィラフォンテーヌ三宮、京都「伏見」伏水が生むまろやかな女酒とアーバンホテル京都、広島「西条」赤瓦の酒蔵通りと吟醸酒ホテルルートイン東広島西条駅前。日本三大銘醸地（三大酒どころ）の利き酒体験と美酒美食ディナーを楽天ふるさと...",
     "url": "https://croud-travel.pages.dev/furusato-tax-three-great-sake-capitals-brewery-stay/",
     "publisher": {
       "@type": "Organization",
@@ -32,7 +32,9 @@ export default function Page() {
 
   return (
     <>
-      <head>
+            <head>
+        <title>日本三大酒どころ＆酒蔵ツーリズム宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</title>
+        <meta name="description" content="芳醇な香りと杜氏の魂に酔いしれる酒蔵の街！兵庫「灘五郷」宮水仕込みの男酒と神戸ヴィラフォンテーヌ三宮、京都「伏見」伏水が生むまろやかな女酒とアーバンホテル京都、広島「西条」赤瓦の酒蔵通りと吟醸酒ホテルルートイン東広島西条駅前。日本三大銘醸地（三大酒どころ）の利き酒体験と美酒美食ディナーを楽天ふるさと..." />
         <link rel="canonical" href="https://croud-travel.pages.dev/furusato-tax-three-great-sake-capitals-brewery-stay/" />
       </head>
     <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">

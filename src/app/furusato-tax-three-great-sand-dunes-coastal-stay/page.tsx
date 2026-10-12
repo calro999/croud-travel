@@ -12,8 +12,8 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "furusato-tax-three-great-sand-dunes-coastal-stay",
-    "description": "",
+    "headline": "日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "日本離れした雄大な砂の世界！鳥取「鳥取砂丘」ラクダ遊歩と日本海パノラマ・鳥取温泉ホテルモナーク鳥取、鹿児島「吹上浜」47km続く白砂青松の砂丘美と吹上砂丘荘、静岡「中田島砂丘」遠州灘の潮風と美しい風紋アート・ホテルルートイン浜名湖。日本三大砂丘の非日常リゾートステイを楽天ふるさと納税宿泊クーポンでお...",
     "url": "https://croud-travel.pages.dev/furusato-tax-three-great-sand-dunes-coastal-stay/",
     "publisher": {
       "@type": "Organization",
@@ -32,7 +32,9 @@ export default function Page() {
 
   return (
     <>
-      <head>
+            <head>
+        <title>日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</title>
+        <meta name="description" content="日本離れした雄大な砂の世界！鳥取「鳥取砂丘」ラクダ遊歩と日本海パノラマ・鳥取温泉ホテルモナーク鳥取、鹿児島「吹上浜」47km続く白砂青松の砂丘美と吹上砂丘荘、静岡「中田島砂丘」遠州灘の潮風と美しい風紋アート・ホテルルートイン浜名湖。日本三大砂丘の非日常リゾートステイを楽天ふるさと納税宿泊クーポンでお..." />
         <link rel="canonical" href="https://croud-travel.pages.dev/furusato-tax-three-great-sand-dunes-coastal-stay/" />
       </head>
     <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">

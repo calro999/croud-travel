@@ -12,8 +12,8 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "furusato-tax-three-great-torii-gates-sacred-stay",
-    "description": "",
+    "headline": "日本三大鳥居＆聖地パワースポット宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "神域と現世を結ぶ壮大な朱塗りの門！広島「厳島神社大鳥居」海に浮かぶ世界遺産と宮島グランドホテル有もと、奈良「大神神社大鳥居」三輪山を仰ぐ日本最古の神社とホテル奈良さくらいの郷、京都「平安神宮大鳥居」岡崎の文化ゾーンとホテルオークラ京都岡崎別邸。日本三大鳥居（大鳥居）の神聖なエネルギーを楽天ふるさと納...",
     "url": "https://croud-travel.pages.dev/furusato-tax-three-great-torii-gates-sacred-stay/",
     "publisher": {
       "@type": "Organization",
@@ -32,7 +32,9 @@ export default function Page() {
 
   return (
     <>
-      <head>
+            <head>
+        <title>日本三大鳥居＆聖地パワースポット宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</title>
+        <meta name="description" content="神域と現世を結ぶ壮大な朱塗りの門！広島「厳島神社大鳥居」海に浮かぶ世界遺産と宮島グランドホテル有もと、奈良「大神神社大鳥居」三輪山を仰ぐ日本最古の神社とホテル奈良さくらいの郷、京都「平安神宮大鳥居」岡崎の文化ゾーンとホテルオークラ京都岡崎別邸。日本三大鳥居（大鳥居）の神聖なエネルギーを楽天ふるさと納..." />
         <link rel="canonical" href="https://croud-travel.pages.dev/furusato-tax-three-great-torii-gates-sacred-stay/" />
       </head>
     <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">

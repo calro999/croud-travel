@@ -12,8 +12,8 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "furusato-tax-three-great-precipitous-coasts-stay",
-    "description": "",
+    "headline": "日本三大名勝断崖海岸＆パノラマ海宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "荒波が削り出した地球のダイナミズム！岩手「北山崎」高さ200mの海のアルプスと全室オーシャンビューホテル羅賀荘、福井「東尋坊」国の天然記念物柱状節理と三国温泉三国オーシャンリゾート＆ホテル、高知「足摺岬」黒潮打ち寄せる四国最南端の絶壁と足摺サニーサイドホテル。日本三大名勝海岸（三大断崖海岸）の絶叫絶...",
     "url": "https://croud-travel.pages.dev/furusato-tax-three-great-precipitous-coasts-stay/",
     "publisher": {
       "@type": "Organization",
@@ -32,7 +32,9 @@ export default function Page() {
 
   return (
     <>
-      <head>
+            <head>
+        <title>日本三大名勝断崖海岸＆パノラマ海宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</title>
+        <meta name="description" content="荒波が削り出した地球のダイナミズム！岩手「北山崎」高さ200mの海のアルプスと全室オーシャンビューホテル羅賀荘、福井「東尋坊」国の天然記念物柱状節理と三国温泉三国オーシャンリゾート＆ホテル、高知「足摺岬」黒潮打ち寄せる四国最南端の絶壁と足摺サニーサイドホテル。日本三大名勝海岸（三大断崖海岸）の絶叫絶..." />
         <link rel="canonical" href="https://croud-travel.pages.dev/furusato-tax-three-great-precipitous-coasts-stay/" />
       </head>
     <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">

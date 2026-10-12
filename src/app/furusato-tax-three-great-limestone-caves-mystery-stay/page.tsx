@@ -12,8 +12,8 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "furusato-tax-three-great-limestone-caves-mystery-stay",
-    "description": "",
+    "headline": "日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "悠久の時が創り出した地底の神秘！岩手「龍泉洞」世界有数の透明度を誇るドラゴンブルーの地底湖と三陸浄土ヶ浜パークホテル、高知「龍河洞」弥生土器と鍾乳石が一体化した神の壺とオーベルジュ土佐山、山口「秋芳洞」百枚皿・黄金柱の大パノラマと音信川の湯宿大谷山荘。日本三大鍾乳洞の冒険と名湯宿を楽天ふるさと納税宿...",
     "url": "https://croud-travel.pages.dev/furusato-tax-three-great-limestone-caves-mystery-stay/",
     "publisher": {
       "@type": "Organization",
@@ -32,7 +32,9 @@ export default function Page() {
 
   return (
     <>
-      <head>
+            <head>
+        <title>日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</title>
+        <meta name="description" content="悠久の時が創り出した地底の神秘！岩手「龍泉洞」世界有数の透明度を誇るドラゴンブルーの地底湖と三陸浄土ヶ浜パークホテル、高知「龍河洞」弥生土器と鍾乳石が一体化した神の壺とオーベルジュ土佐山、山口「秋芳洞」百枚皿・黄金柱の大パノラマと音信川の湯宿大谷山荘。日本三大鍾乳洞の冒険と名湯宿を楽天ふるさと納税宿..." />
         <link rel="canonical" href="https://croud-travel.pages.dev/furusato-tax-three-great-limestone-caves-mystery-stay/" />
       </head>
     <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">

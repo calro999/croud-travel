@@ -12,8 +12,8 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "furusato-tax-three-great-gardens-heritage-luxury-stay",
-    "description": "",
+    "headline": "日本三大名園＆大名庭園を愛でる名門宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "加賀・岡山・水戸藩主が築いた天下の庭園美！石川「兼六園」徽軫灯籠と雪吊りの雪景色・料理旅館金沢茶屋、岡山「後楽園」岡山城を借景とする延養亭の美とホテルグランヴィア岡山、茨城「偕楽園」三千本の梅林と千波湖を望むホテルザウエストヒルズ水戸。日本三大名園（三名園）の四季折々の絶景ステイを楽天ふるさと納税宿...",
     "url": "https://croud-travel.pages.dev/furusato-tax-three-great-gardens-heritage-luxury-stay/",
     "publisher": {
       "@type": "Organization",
@@ -32,7 +32,9 @@ export default function Page() {
 
   return (
     <>
-      <head>
+            <head>
+        <title>日本三大名園＆大名庭園を愛でる名門宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</title>
+        <meta name="description" content="加賀・岡山・水戸藩主が築いた天下の庭園美！石川「兼六園」徽軫灯籠と雪吊りの雪景色・料理旅館金沢茶屋、岡山「後楽園」岡山城を借景とする延養亭の美とホテルグランヴィア岡山、茨城「偕楽園」三千本の梅林と千波湖を望むホテルザウエストヒルズ水戸。日本三大名園（三名園）の四季折々の絶景ステイを楽天ふるさと納税宿..." />
         <link rel="canonical" href="https://croud-travel.pages.dev/furusato-tax-three-great-gardens-heritage-luxury-stay/" />
       </head>
     <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">

@@ -12,8 +12,8 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "furusato-tax-three-great-fire-festivals-passion-stay",
-    "description": "",
+    "headline": "日本三大火祭り＆燃え盛る情熱の伝統宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "夜空を焦がす大松明と飛び散る火の粉！和歌山「那智の火祭」世界遺産熊野那智大社の大松明と南紀勝浦温泉ホテル浦島、長野「野沢温泉の道祖神祭り」天下の奇祭と名門河一屋旅館、京都「鞍馬の火祭」街道を埋め尽くす炎の乱舞とザ・プリンス京都宝ヶ池。日本三大火祭りの圧倒的な迫力と熱気を楽天ふるさと納税宿泊クーポンで...",
     "url": "https://croud-travel.pages.dev/furusato-tax-three-great-fire-festivals-passion-stay/",
     "publisher": {
       "@type": "Organization",
@@ -32,7 +32,9 @@ export default function Page() {
 
   return (
     <>
-      <head>
+            <head>
+        <title>日本三大火祭り＆燃え盛る情熱の伝統宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</title>
+        <meta name="description" content="夜空を焦がす大松明と飛び散る火の粉！和歌山「那智の火祭」世界遺産熊野那智大社の大松明と南紀勝浦温泉ホテル浦島、長野「野沢温泉の道祖神祭り」天下の奇祭と名門河一屋旅館、京都「鞍馬の火祭」街道を埋め尽くす炎の乱舞とザ・プリンス京都宝ヶ池。日本三大火祭りの圧倒的な迫力と熱気を楽天ふるさと納税宿泊クーポンで..." />
         <link rel="canonical" href="https://croud-travel.pages.dev/furusato-tax-three-great-fire-festivals-passion-stay/" />
       </head>
     <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">

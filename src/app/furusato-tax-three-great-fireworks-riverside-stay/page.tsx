@@ -12,8 +12,8 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "furusato-tax-three-great-fireworks-riverside-stay",
-    "description": "",
+    "headline": "日本三大花火大会＆リバーサイド展望宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "日本中の花火師が命を懸ける最高峰の光の芸術！新潟「長岡まつり大花火大会」信濃川を埋め尽くす復興祈願フェニックスとホテルルートイン長岡駅前、秋田「全国花火競技大会・大曲の花火」内閣総理大臣賞を争う昼夜花火とホテルルートイン大曲駅前、茨城「土浦全国花火競技大会」秋の夜空を焦がす競技玉とホテルクラウンヒル...",
     "url": "https://croud-travel.pages.dev/furusato-tax-three-great-fireworks-riverside-stay/",
     "publisher": {
       "@type": "Organization",
@@ -32,7 +32,9 @@ export default function Page() {
 
   return (
     <>
-      <head>
+            <head>
+        <title>日本三大花火大会＆リバーサイド展望宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</title>
+        <meta name="description" content="日本中の花火師が命を懸ける最高峰の光の芸術！新潟「長岡まつり大花火大会」信濃川を埋め尽くす復興祈願フェニックスとホテルルートイン長岡駅前、秋田「全国花火競技大会・大曲の花火」内閣総理大臣賞を争う昼夜花火とホテルルートイン大曲駅前、茨城「土浦全国花火競技大会」秋の夜空を焦がす競技玉とホテルクラウンヒル..." />
         <link rel="canonical" href="https://croud-travel.pages.dev/furusato-tax-three-great-fireworks-riverside-stay/" />
       </head>
     <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">

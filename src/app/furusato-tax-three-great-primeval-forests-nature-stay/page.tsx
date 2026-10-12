@@ -12,8 +12,8 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "furusato-tax-three-great-primeval-forests-nature-stay",
-    "description": "",
+    "headline": "日本三大原生林＆世界遺産ネイチャーリゾート×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "人類の至宝、太古の息吹が宿る手つかずの森！北海道「知床原生林」オホーツク海を一望する知床第一ホテル、鹿児島「屋久島」樹齢数千年の縄文杉と白谷雲水峡・屋久島いわさきホテル、青森「白神山地」世界最大級のブナ原生林と日本海波打ち際の黄金崎不老ふ死温泉。日本三大原生林（世界自然遺産）の神秘を楽天ふるさと納税...",
     "url": "https://croud-travel.pages.dev/furusato-tax-three-great-primeval-forests-nature-stay/",
     "publisher": {
       "@type": "Organization",
@@ -32,7 +32,9 @@ export default function Page() {
 
   return (
     <>
-      <head>
+            <head>
+        <title>日本三大原生林＆世界遺産ネイチャーリゾート×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</title>
+        <meta name="description" content="人類の至宝、太古の息吹が宿る手つかずの森！北海道「知床原生林」オホーツク海を一望する知床第一ホテル、鹿児島「屋久島」樹齢数千年の縄文杉と白谷雲水峡・屋久島いわさきホテル、青森「白神山地」世界最大級のブナ原生林と日本海波打ち際の黄金崎不老ふ死温泉。日本三大原生林（世界自然遺産）の神秘を楽天ふるさと納税..." />
         <link rel="canonical" href="https://croud-travel.pages.dev/furusato-tax-three-great-primeval-forests-nature-stay/" />
       </head>
     <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">

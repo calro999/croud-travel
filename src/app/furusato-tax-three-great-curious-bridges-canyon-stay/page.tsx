@@ -12,8 +12,8 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "furusato-tax-three-great-curious-bridges-canyon-stay",
-    "description": "",
+    "headline": "日本三奇橋＆スリル満点の名橋・渓谷宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "先人たちの驚異的な木造建築美！山口「錦帯橋」五連の木造アーチ橋とアパホテル山口岩国駅前西、山梨「甲斐の猿橋」橋脚を使わない刎橋構造と石和温泉ホテル平安、徳島「祖谷のかずら橋」足元が透けるスリルと秘境の新祖谷温泉ホテルかずら橋。日本三奇橋の絶景と渓谷美を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガ...",
     "url": "https://croud-travel.pages.dev/furusato-tax-three-great-curious-bridges-canyon-stay/",
     "publisher": {
       "@type": "Organization",
@@ -32,7 +32,9 @@ export default function Page() {
 
   return (
     <>
-      <head>
+            <head>
+        <title>日本三奇橋＆スリル満点の名橋・渓谷宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</title>
+        <meta name="description" content="先人たちの驚異的な木造建築美！山口「錦帯橋」五連の木造アーチ橋とアパホテル山口岩国駅前西、山梨「甲斐の猿橋」橋脚を使わない刎橋構造と石和温泉ホテル平安、徳島「祖谷のかずら橋」足元が透けるスリルと秘境の新祖谷温泉ホテルかずら橋。日本三奇橋の絶景と渓谷美を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガ..." />
         <link rel="canonical" href="https://croud-travel.pages.dev/furusato-tax-three-great-curious-bridges-canyon-stay/" />
       </head>
     <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">

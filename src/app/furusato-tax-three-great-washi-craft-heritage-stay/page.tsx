@@ -12,8 +12,8 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "furusato-tax-three-great-washi-craft-heritage-stay",
-    "description": "",
+    "headline": "日本三大和紙の里＆工芸温泉宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "千年の技と手漉きのぬくもりに触れる日本の美！福井「越前和紙」千五百年の歴史誇る越前の紙漉きとあわら温泉グランディア芳泉、岐阜「美濃和紙」うだつの上がる町並みと長良川の老舗宿十八楼、埼玉「小川和紙」ユネスコ無形文化遺産細川紙の里と秩父美肌の名湯新木鉱泉旅館。日本三大和紙の産地を楽天ふるさと納税宿泊クー...",
     "url": "https://croud-travel.pages.dev/furusato-tax-three-great-washi-craft-heritage-stay/",
     "publisher": {
       "@type": "Organization",
@@ -32,7 +32,9 @@ export default function Page() {
 
   return (
     <>
-      <head>
+            <head>
+        <title>日本三大和紙の里＆工芸温泉宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</title>
+        <meta name="description" content="千年の技と手漉きのぬくもりに触れる日本の美！福井「越前和紙」千五百年の歴史誇る越前の紙漉きとあわら温泉グランディア芳泉、岐阜「美濃和紙」うだつの上がる町並みと長良川の老舗宿十八楼、埼玉「小川和紙」ユネスコ無形文化遺産細川紙の里と秩父美肌の名湯新木鉱泉旅館。日本三大和紙の産地を楽天ふるさと納税宿泊クー..." />
         <link rel="canonical" href="https://croud-travel.pages.dev/furusato-tax-three-great-washi-craft-heritage-stay/" />
       </head>
     <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">

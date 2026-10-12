@@ -12,8 +12,8 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "furusato-tax-new-three-major-night-views-sky-stay",
-    "description": "",
+    "headline": "新日本三大夜景＆天空スカイパノラマ宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "宝石箱をひっくり返したような感動のパノラマ！福岡「皿倉山」100億ドルの夜景とホテルルートイン苅田駅前、山梨「笛吹川フルーツ公園」甲府盆地の星屑パノラマとホテルルートインコート甲府石和、奈良「若草山山頂」古都奈良の静寂と灯火・ホテルニューわかさ。新日本三大夜景の感動的な夜景ステイを楽天ふるさと納税宿...",
     "url": "https://croud-travel.pages.dev/furusato-tax-new-three-major-night-views-sky-stay/",
     "publisher": {
       "@type": "Organization",
@@ -32,7 +32,9 @@ export default function Page() {
 
   return (
     <>
-      <head>
+            <head>
+        <title>新日本三大夜景＆天空スカイパノラマ宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</title>
+        <meta name="description" content="宝石箱をひっくり返したような感動のパノラマ！福岡「皿倉山」100億ドルの夜景とホテルルートイン苅田駅前、山梨「笛吹川フルーツ公園」甲府盆地の星屑パノラマとホテルルートインコート甲府石和、奈良「若草山山頂」古都奈良の静寂と灯火・ホテルニューわかさ。新日本三大夜景の感動的な夜景ステイを楽天ふるさと納税宿..." />
         <link rel="canonical" href="https://croud-travel.pages.dev/furusato-tax-new-three-major-night-views-sky-stay/" />
       </head>
     <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">

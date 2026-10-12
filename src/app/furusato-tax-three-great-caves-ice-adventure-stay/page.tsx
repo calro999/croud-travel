@@ -12,8 +12,8 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "furusato-tax-three-great-caves-ice-adventure-stay",
-    "description": "",
+    "headline": "日本三大氷穴・洞窟探検宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "真夏でも氷の世界と数億年の石灰岩アート！山梨「富岳風穴・鳴沢氷穴」青木ヶ原樹海の天然クーラーとロイヤルホテル河口湖、沖縄「玉泉洞」東洋一の美しさを誇る三十万本の鍾乳石とおきなわ天然温泉ユインチホテル南城、鹿児島「昇竜洞」沖永良部島ケイビングの聖地とおきえらぶフローラルホテル。日本三大洞窟探検の感動を...",
     "url": "https://croud-travel.pages.dev/furusato-tax-three-great-caves-ice-adventure-stay/",
     "publisher": {
       "@type": "Organization",
@@ -32,7 +32,9 @@ export default function Page() {
 
   return (
     <>
-      <head>
+            <head>
+        <title>日本三大氷穴・洞窟探検宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</title>
+        <meta name="description" content="真夏でも氷の世界と数億年の石灰岩アート！山梨「富岳風穴・鳴沢氷穴」青木ヶ原樹海の天然クーラーとロイヤルホテル河口湖、沖縄「玉泉洞」東洋一の美しさを誇る三十万本の鍾乳石とおきなわ天然温泉ユインチホテル南城、鹿児島「昇竜洞」沖永良部島ケイビングの聖地とおきえらぶフローラルホテル。日本三大洞窟探検の感動を..." />
         <link rel="canonical" href="https://croud-travel.pages.dev/furusato-tax-three-great-caves-ice-adventure-stay/" />
       </head>
     <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">

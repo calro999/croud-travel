@@ -12,8 +12,8 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "furusato-tax-three-great-curious-festivals-heritage-stay",
-    "description": "",
+    "headline": "日本三大奇祭＆天下の熱狂カルチャー宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "日本人の情熱が爆発する奇想天外な祭典！長野「諏訪大社御柱祭」巨木が坂を駆け下る木落しと上諏訪温泉ホテル紅や、愛知「国府宮はだか祭」数万の裸男が厄を祓う熱気とお宿和陽館、秋田「男鹿のナマハゲ」ユネスコ無形文化遺産と男鹿温泉セイコーグランドホテル。日本三大奇祭の度肝を抜くエネルギーを楽天ふるさと納税宿泊...",
     "url": "https://croud-travel.pages.dev/furusato-tax-three-great-curious-festivals-heritage-stay/",
     "publisher": {
       "@type": "Organization",
@@ -32,7 +32,9 @@ export default function Page() {
 
   return (
     <>
-      <head>
+            <head>
+        <title>日本三大奇祭＆天下の熱狂カルチャー宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</title>
+        <meta name="description" content="日本人の情熱が爆発する奇想天外な祭典！長野「諏訪大社御柱祭」巨木が坂を駆け下る木落しと上諏訪温泉ホテル紅や、愛知「国府宮はだか祭」数万の裸男が厄を祓う熱気とお宿和陽館、秋田「男鹿のナマハゲ」ユネスコ無形文化遺産と男鹿温泉セイコーグランドホテル。日本三大奇祭の度肝を抜くエネルギーを楽天ふるさと納税宿泊..." />
         <link rel="canonical" href="https://croud-travel.pages.dev/furusato-tax-three-great-curious-festivals-heritage-stay/" />
       </head>
     <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">

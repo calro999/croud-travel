@@ -12,8 +12,8 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "furusato-tax-three-great-gorges-canyon-scenery-stay",
-    "description": "",
+    "headline": "日本三大峡谷＆断崖絶壁・エメラルド渓谷宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "地球が創り出した壮大な造形美！新潟「清津峡」水鏡アートのトンネルと清津館、富山「黒部峡谷」トロッコ電車で行く大自然とホテル黒部、和歌山・奈良・三重「瀞峡」巨岩とエメラルドの深淵ウォータージェット船と里創人熊野倶楽部。日本三大峡谷の圧倒的パノラマと渓谷温泉宿を楽天ふるさと納税宿泊クーポンでお得に楽しむ...",
     "url": "https://croud-travel.pages.dev/furusato-tax-three-great-gorges-canyon-scenery-stay/",
     "publisher": {
       "@type": "Organization",
@@ -32,7 +32,9 @@ export default function Page() {
 
   return (
     <>
-      <head>
+            <head>
+        <title>日本三大峡谷＆断崖絶壁・エメラルド渓谷宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</title>
+        <meta name="description" content="地球が創り出した壮大な造形美！新潟「清津峡」水鏡アートのトンネルと清津館、富山「黒部峡谷」トロッコ電車で行く大自然とホテル黒部、和歌山・奈良・三重「瀞峡」巨岩とエメラルドの深淵ウォータージェット船と里創人熊野倶楽部。日本三大峡谷の圧倒的パノラマと渓谷温泉宿を楽天ふるさと納税宿泊クーポンでお得に楽しむ..." />
         <link rel="canonical" href="https://croud-travel.pages.dev/furusato-tax-three-great-gorges-canyon-scenery-stay/" />
       </head>
     <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">
