@@ -149,5 +149,9 @@
   ],
   "price": 11350,
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/20100719_Dazaifu_Tenmangu_Shrine_3328.jpg/3840px-20100719_Dazaifu_Tenmangu_Shrine_3328.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38630%2F38630.html"
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38630%2F38630.html",
+  "hotel_name": "太宰府・二日市温泉・筑後おすすめ宿特集",
+  "prefecture": "福岡県",
+  "area": "太宰府・二日市・筑後",
+  "is_special_feature": true
 }

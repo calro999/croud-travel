@@ -204,5 +204,9 @@
   "price": 72600,
   "rating": 4.95,
   "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Japan_Mount_Fuji_relief_location_map.webp?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F"
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F",
+  "hotel_name": "山梨おすすめホテル・温泉旅館特集",
+  "prefecture": "山梨県",
+  "area": "甲府・石和・富士五湖",
+  "is_special_feature": true
 }
