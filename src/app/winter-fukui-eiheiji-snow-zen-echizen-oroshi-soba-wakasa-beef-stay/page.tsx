@@ -215,31 +215,6 @@ export default function FukuiEiheijiPage() {
   };
 
 
-
-  const articleSchema = {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "11・12・1月福井：曹洞宗大本山永平寺の雪静寂！名宿5選",
-    "description": "冬の福井・永平寺は、樹齢数百年を数える杉木立と回廊が純白の雪に包まれ、770余年の歴史を誇る禅の祈りが厳かに響き渡る静寂の聖地。楽天トラベルの最新空室状況・限定割引プランを徹底比較！",
-    "image": ["https://croud-travel.pages.dev/winter-fukui-eiheiji-snow-zen-echizen-oroshi-soba-wakasa-beef-stay"],
-    "author": {
-      "@type": "Organization",
-      "name": "日本全国・旅宿クラウド",
-      "url": "https://croud-travel.pages.dev/"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "日本全国・旅宿クラウド",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://croud-travel.pages.dev/favicon.ico"
-      }
-    },
-    "datePublished": "2026-09-01T09:00:00+09:00",
-    "dateModified": "2026-10-12T11:00:00+09:00",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/winter-fukui-eiheiji-snow-zen-echizen-oroshi-soba-wakasa-beef-stay/"
-  };
-
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800">
       <script
@@ -267,11 +242,6 @@ export default function FukuiEiheijiPage() {
       </header>
 
       {/* Main Container */}
-      
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
-      />
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
 
         {/* Deep Dive Overview Section */}

@@ -216,31 +216,6 @@ export default function YamaguchiIwakuniSuooshimaPage() {
   };
 
 
-
-  const articleSchema = {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "11・12・1月山口：白蛇神社新春初詣！名宿5選",
-    "description": "冬の山口・岩国と周防大島は、水墨画のように美しい日本三名橋「錦帯橋」の雪化粧と、瀬戸内海の温暖な冬晴れが共存する魅力あふれる季節。楽天トラベルの最新空室状況・限定割引プランを徹底比較！",
-    "image": ["https://croud-travel.pages.dev/winter-yamaguchi-iwakuni-kintaikyo-suo-oshima-mikan-nabe-takamorigyu-stay"],
-    "author": {
-      "@type": "Organization",
-      "name": "日本全国・旅宿クラウド",
-      "url": "https://croud-travel.pages.dev/"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "日本全国・旅宿クラウド",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://croud-travel.pages.dev/favicon.ico"
-      }
-    },
-    "datePublished": "2026-09-01T09:00:00+09:00",
-    "dateModified": "2026-10-12T11:00:00+09:00",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/winter-yamaguchi-iwakuni-kintaikyo-suo-oshima-mikan-nabe-takamorigyu-stay/"
-  };
-
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800">
       <script
@@ -268,11 +243,6 @@ export default function YamaguchiIwakuniSuooshimaPage() {
       </header>
 
       {/* Main Container */}
-      
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
-      />
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
 
         {/* Deep Dive Overview Section */}

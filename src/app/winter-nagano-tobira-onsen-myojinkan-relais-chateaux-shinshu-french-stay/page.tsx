@@ -24,31 +24,6 @@ export const metadata: Metadata = {
 };
 
 export default function LuxuryWinterFeaturePage() {
-
-  const articleSchema = {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "【世界基準ルレ・エ・シャトー加盟「明神館」と山峡の秘湯】2026-2027年11-12月初冬の長野・松本奥座敷！渓流立ち湯雪見露天風呂と信州オーガニックフレンチ・自然に抱かれる最高峰ウェルネスリトリート名宿5選 | クラウドトラベル",
-    "description": "国定公園の豊かな山峡、薄川の清流沿いに佇む長野・松本の奥座敷「扉温泉」。世界の一流ホテル・レストランのみが加盟を許される「ルレ・エ・シャトー」に名を連ねる名門「明神館」をはじめ、初冬の静寂と自然の調和を五感で味わう最高峰リゾート。渓流と一体化する名物「雪見立ち湯露天風呂」や、無農薬自家農園野菜と信州プレミアム牛を用いたモダンフレンチ・創作和食懐石。日常の喧騒から完全に解き放たれる極上リトリート名宿5選。",
-    "image": ["https://croud-travel.pages.dev/winter-nagano-tobira-onsen-myojinkan-relais-chateaux-shinshu-french-stay"],
-    "author": {
-      "@type": "Organization",
-      "name": "日本全国・旅宿クラウド",
-      "url": "https://croud-travel.pages.dev/"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "日本全国・旅宿クラウド",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://croud-travel.pages.dev/favicon.ico"
-      }
-    },
-    "datePublished": "2026-09-01T09:00:00+09:00",
-    "dateModified": "2026-10-12T11:00:00+09:00",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/winter-nagano-tobira-onsen-myojinkan-relais-chateaux-shinshu-french-stay/"
-  };
-
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
       {/* 構造化データ: FAQ & Breadcrumb */}
@@ -143,11 +118,6 @@ export default function LuxuryWinterFeaturePage() {
       </header>
 
       {/* メインコンテンツ */}
-      
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
-      />
       <main className="max-w-4xl mx-auto px-4 py-10 space-y-12">
         
         {/* 導入解説 */}

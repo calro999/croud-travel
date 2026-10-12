@@ -24,31 +24,6 @@ export const metadata: Metadata = {
 };
 
 export default function LuxuryWinterFeaturePage() {
-
-  const articleSchema = {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "【日本最古の名湯・金湯銀湯を客室露天で独り占め】2026-2027年11-12月初冬の兵庫・有馬温泉！名門・欽山＆中の坊瑞苑・極上神戸牛ステーキと伝統会席・ミシュラン掲載の大人の最高峰高級旅館5選 | クラウドトラベル",
-    "description": "日本三古湯・三名泉の筆頭に君臨する兵庫県・有馬温泉。鉄分と塩分を豊富に含み赤褐色に輝く「金泉」と、炭酸とラドンを含む無色透明の「銀泉」というふたつの奇跡の湯を擁する聖地。ミシュランガイドに掲載され、一流の料亭旅館として名高い「欽山」や、大人の静寂を約束する「中の坊 瑞苑」など、全室スイートや専用露天風呂付き客室で過ごす最高峰の滞在。世界最高峰ブランド「神戸牛」の炭火焼きステーキや伝統会席を堪能する極上名宿5選。",
-    "image": ["https://croud-travel.pages.dev/winter-hyogo-arima-onsen-luxury-kinzan-gold-silver-kobe-beef-stay"],
-    "author": {
-      "@type": "Organization",
-      "name": "日本全国・旅宿クラウド",
-      "url": "https://croud-travel.pages.dev/"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "日本全国・旅宿クラウド",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://croud-travel.pages.dev/favicon.ico"
-      }
-    },
-    "datePublished": "2026-09-01T09:00:00+09:00",
-    "dateModified": "2026-10-12T11:00:00+09:00",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/winter-hyogo-arima-onsen-luxury-kinzan-gold-silver-kobe-beef-stay/"
-  };
-
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
       {/* 構造化データ: FAQ & Breadcrumb */}
@@ -143,11 +118,6 @@ export default function LuxuryWinterFeaturePage() {
       </header>
 
       {/* メインコンテンツ */}
-      
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
-      />
       <main className="max-w-4xl mx-auto px-4 py-10 space-y-12">
         
         {/* 導入解説 */}

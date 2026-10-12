@@ -95,31 +95,6 @@ export default function Page() {
     ]
   };
 
-
-  const articleSchema = {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "冬に透明度極まる仁淀ブルーと中津渓谷：2026-2027年冬の高知・仁淀川！渓流温泉と土佐あかうし名宿5選 | クラウドトラベル",
-    "description": "年間で最も透明度が高まり神秘のコバルトブルーに輝く奇跡の清流「仁淀川」の冬絶景！中津渓谷トレッキング、旨味凝縮の「幻の和牛・土佐あかうし」鍋と清流のせせらぎを聞く名湯露天風呂に癒やされる冬名宿5選。",
-    "image": ["https://croud-travel.pages.dev/winter-kochi-niyodogawa-niyodoblue-nakatsu-tosa-akagyu-onsen-stay"],
-    "author": {
-      "@type": "Organization",
-      "name": "日本全国・旅宿クラウド",
-      "url": "https://croud-travel.pages.dev/"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "日本全国・旅宿クラウド",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://croud-travel.pages.dev/favicon.ico"
-      }
-    },
-    "datePublished": "2026-09-01T09:00:00+09:00",
-    "dateModified": "2026-10-12T11:00:00+09:00",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/winter-kochi-niyodogawa-niyodoblue-nakatsu-tosa-akagyu-onsen-stay/"
-  };
-
   return (
     <>
       <script
@@ -127,11 +102,6 @@ export default function Page() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 
-      
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
-      />
       <main className="min-h-screen bg-stone-50/50 pb-20">
         {/* パンくずリスト */}
         <nav className="max-w-4xl mx-auto px-4 py-4 text-xs text-stone-500 flex items-center gap-1.5 flex-wrap">

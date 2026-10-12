@@ -113,31 +113,6 @@ export default function FeaturePage() {
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Haiden_of_Miyajidake_Shrine.JPG/1280px-Haiden_of_Miyajidake_Shrine.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
 };
 
-
-  const articleSchema = {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "光の道夕景と日本一の大注連縄・宮地嶽神社新春初詣：2026-2027年冬の福岡・福津＆玄界灘！天然とらふぐと博多和牛名宿5選 ｜ 日本全国・旅宿クラウド",
-    "description": "嵐のCMで話題となった「光の道」と日本一の大注連縄を誇る開運神社「宮地嶽神社」新春初詣！冬の澄み渡る玄界灘の夕景、冬に旬を迎える極上「天然とらふぐ」や活ヤリイカ、博多和牛の贅沢会席に舌鼓を打つ冬の厳選名宿5選。",
-    "image": ["https://croud-travel.pages.dev/winter-fukuoka-fukutsu-miyajidake-shrine-hatsumode-hikari-genkainada-stay"],
-    "author": {
-      "@type": "Organization",
-      "name": "日本全国・旅宿クラウド",
-      "url": "https://croud-travel.pages.dev/"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "日本全国・旅宿クラウド",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://croud-travel.pages.dev/favicon.ico"
-      }
-    },
-    "datePublished": "2026-09-01T09:00:00+09:00",
-    "dateModified": "2026-10-12T11:00:00+09:00",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/winter-fukuoka-fukutsu-miyajidake-shrine-hatsumode-hikari-genkainada-stay/"
-  };
-
   return (
     <>
       <script
@@ -153,11 +128,6 @@ export default function FeaturePage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(touristAttractionSchema) }}
       />
 
-      
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
-      />
       <main className="min-h-screen bg-stone-50 pb-20">
         {/* パンくずリスト */}
         <nav

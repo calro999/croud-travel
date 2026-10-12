@@ -24,31 +24,6 @@ export const metadata: Metadata = {
 };
 
 export default function WinterFeaturePage() {
-
-  const articleSchema = {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "【小野小町ゆかりの美肌硫黄泉と初冬の米沢牛すき焼き】2026-2027年11-12月初冬の山形・小野川温泉！名物豆もやしラーメンと甲子大黒天参拝・情緒あふれる雪見露天風呂名宿5選 | クラウドトラベル",
-    "description": "平安の美女・小野小町が病を癒やしたと伝わる開湯1200年の名湯「小野川温泉」！毎分千リットルを超える豊富な源泉はラジウムと硫黄・塩分を含み、初冬の冷えた肌をしっとり潤す極上の美肌泉。温泉熱で冬に育てる冬の風物詩「小野川豆もやし」ラーメンや、日本屈指のブランド肉「米沢牛」の芳醇なすき焼き会席。湯煙たなびく温泉街で雪見風呂を心ゆくまで満喫する厳選名宿5選。",
-    "image": ["https://croud-travel.pages.dev/winter-yamagata-onogawa-onsen-bihada-yonezawagyu-sukiyaki-mame-moyashi-stay"],
-    "author": {
-      "@type": "Organization",
-      "name": "日本全国・旅宿クラウド",
-      "url": "https://croud-travel.pages.dev/"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "日本全国・旅宿クラウド",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://croud-travel.pages.dev/favicon.ico"
-      }
-    },
-    "datePublished": "2026-09-01T09:00:00+09:00",
-    "dateModified": "2026-10-12T11:00:00+09:00",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/winter-yamagata-onogawa-onsen-bihada-yonezawagyu-sukiyaki-mame-moyashi-stay/"
-  };
-
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
       {/* 構造化データ: FAQ & Breadcrumb */}
@@ -143,11 +118,6 @@ export default function WinterFeaturePage() {
       </header>
 
       {/* メインコンテンツ */}
-      
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
-      />
       <main className="max-w-4xl mx-auto px-4 py-10 space-y-12">
         
         {/* 導入解説 */}

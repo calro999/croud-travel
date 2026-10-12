@@ -90,40 +90,6 @@ export default function SeasonalFeaturePage() {
 
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
-      
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "冬の避寒リゾート：寒さ知らず！名宿5選の観光や宿泊で、特におすすめのシーズンや時期はいつですか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "四季折々の見どころがあり、旬の地元食材（海の幸・ご当地和牛など）や温泉の心地よさを楽しめる時期が特におすすめです。混雑を避けたい場合は平日のご旅行が快適です。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "現地の主なアクセス方法や車・公共交通機関の利便性は？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "主要ターミナル駅からの特急・路線バスのほか、高速道路ICからのアクセスも整っています。広域の観光スポットや景勝地を効率的に巡る場合は、レンタカーやマイカーの利用も便利です。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "宿泊プランや宿選びで失敗しないためのポイントは？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "露天風呂付き客室や旬の会席料理プラン、展望大浴場など宿ごとに多彩な魅力があります。連休や週末は予約が集中しやすいため、楽天トラベルなどの割引クーポンを活用し早めの空室確認がおすすめです。"
-      }
-    }
-  ]
-}) }}
-      />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}

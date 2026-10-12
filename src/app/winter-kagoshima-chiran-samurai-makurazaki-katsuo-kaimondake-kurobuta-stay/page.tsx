@@ -121,31 +121,6 @@ export default function FeaturePage() {
     }
   };
 
-
-  const articleSchema = {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "薩摩の小京都・知覧武家屋敷庭園と開聞岳絶景：2026-2027年冬の鹿児島・南薩摩＆枕崎！本場一本釣り鰹と鹿児島黒豚・黒牛会席名宿5選 | 旅宿クラウド",
-    "description": "薩摩の小京都・国の名勝「知覧武家屋敷庭園」の冬枯山水美と、薩摩富士・開聞岳を望む雄大な冬パノラマ！本場枕崎の最高級本枯節・一本釣り鰹の藁焼きタタキや、極上の鹿児島黒豚・鹿児島黒牛会席に舌鼓。温暖な南薩摩の心地よい潮風と美肌天然温泉に癒やされる厳選名宿5選。",
-    "image": ["https://croud-travel.pages.dev/winter-kagoshima-chiran-samurai-makurazaki-katsuo-kaimondake-kurobuta-stay"],
-    "author": {
-      "@type": "Organization",
-      "name": "日本全国・旅宿クラウド",
-      "url": "https://croud-travel.pages.dev/"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "日本全国・旅宿クラウド",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://croud-travel.pages.dev/favicon.ico"
-      }
-    },
-    "datePublished": "2026-09-01T09:00:00+09:00",
-    "dateModified": "2026-10-12T11:00:00+09:00",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/winter-kagoshima-chiran-samurai-makurazaki-katsuo-kaimondake-kurobuta-stay/"
-  };
-
   return (
     <>
       <script
@@ -332,12 +307,7 @@ export default function FeaturePage() {
               </p>
             </div>
 
-            
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
-      />
-      <div className="space-y-8">
+            <div className="space-y-8">
 
             <div className="bg-white rounded-2xl border border-stone-200/90 shadow-sm overflow-hidden hover:shadow-md transition-shadow">
               <div className="p-6 sm:p-8 space-y-6">

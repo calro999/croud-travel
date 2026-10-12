@@ -121,31 +121,6 @@ export default function FeaturePage() {
     }
   };
 
-
-  const articleSchema = {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "常陸国の蔵の街・真壁の町並み重伝建と筑波山神社新春初詣：2026-2027年冬の茨城・桜川＆筑波！名物常陸秋そばと常陸牛会席名宿5選 | 旅宿クラウド",
-    "description": "国の重伝建・登録文化財が100棟以上連なる蔵の街「真壁の町並み」の冬風情と、関東屈指の開運霊峰「筑波山神社」新春初詣！冬に風味際立つ極上「常陸秋そば」や霜降り常陸牛、筑波山温泉郷の絶景雪見露天風呂。澄み切った関東平野の冬空の下、悠久の歴史と美肌温泉に浸る厳選名宿5選。",
-    "image": ["https://croud-travel.pages.dev/winter-ibaraki-sakuragawa-makabe-townscape-tsukubasan-shrine-hatsumode-hitachigyu-stay"],
-    "author": {
-      "@type": "Organization",
-      "name": "日本全国・旅宿クラウド",
-      "url": "https://croud-travel.pages.dev/"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "日本全国・旅宿クラウド",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://croud-travel.pages.dev/favicon.ico"
-      }
-    },
-    "datePublished": "2026-09-01T09:00:00+09:00",
-    "dateModified": "2026-10-12T11:00:00+09:00",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/winter-ibaraki-sakuragawa-makabe-townscape-tsukubasan-shrine-hatsumode-hitachigyu-stay/"
-  };
-
   return (
     <>
       <script
@@ -331,12 +306,7 @@ export default function FeaturePage() {
               </p>
             </div>
 
-            
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
-      />
-      <div className="space-y-8">
+            <div className="space-y-8">
 
             <div className="bg-white rounded-2xl border border-stone-200/90 shadow-sm overflow-hidden hover:shadow-md transition-shadow">
               <div className="p-6 sm:p-8 space-y-6">

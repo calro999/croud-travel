@@ -32,31 +32,6 @@ export default function WinterFeaturePage() {
   const faqJsonLd = {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "臼杵のふぐが他の地域のふぐと違う理由は何ですか？", "acceptedAnswer": {"@type": "Answer", "text": "最大の特長は「鮮度」と「厚さ」です。一般的な下関などのふぐ刺しは、身を1〜2日寝かせてアミノ酸を引き出し薄く引きますが、臼杵では豊後水道で揚がった活きの良いとらふぐを当日さばき、身のコリコリとした強い弾力を楽しむために通常の2〜3倍の厚みで引きます。さらに、ポン酢に小ネギではなく「カボス」と特産のネギをたっぷりと巻いて食べるのも臼杵独特の贅沢な食文化です。"}}, {"@type": "Question", "name": "臼杵石仏の拝観所要時間と冬の見どころは？", "acceptedAnswer": {"@type": "Answer", "text": "国宝臼杵石仏は4つの群（ホキ石仏第1群・第2群、山王石仏、古園石仏）に分かれており、遊歩道を一周する拝観所要時間は約40分〜1時間です。冬の早朝は観光客も少なく、朝霧や薄雪の中に佇む大日如来像の荘厳な姿を静かに拝観できます。段差や石段があるため歩きやすいスニーカーでの拝観がおすすめです。"}}, {"@type": "Question", "name": "臼杵観光の際に宿泊は臼杵市内と大分・別府のどちらが良いですか？", "acceptedAnswer": {"@type": "Answer", "text": "夜に本格的な臼杵ふぐ会席とひれ酒を心ゆくまで堪能したい方は、臼杵市内の料亭旅館や駅前ホテルへの宿泊が断然おすすめです。翌日に大型温泉リゾートや地獄めぐりも楽しみたい場合は、臼杵から特急で30〜45分の大分市内や別府温泉に宿を取り、夕方に臼杵へ足を伸ばすプランも人気があります。"}}]};
   const breadcrumbJsonLd = {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev"}, {"@type": "ListItem", "position": 2, "name": "大分県の観光・温泉宿", "item": "https://croud-travel.pages.dev/prefectures/oita"}, {"@type": "ListItem", "position": 3, "name": "【国宝臼杵石仏の新春初詣と本場臼杵ふぐ】2026-2027年冬の大分・臼杵！極上厚切りてっさと名湯宿5選", "item": "https://croud-travel.pages.dev/winter-oita-usuki-sekibutsu-hatsumode-torafugu-kaiseki-stay"}]};
 
-
-  const articleSchema = {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "国宝臼杵石仏の新春初詣と本場臼杵ふぐ：2026-2027年冬の大分・臼杵！極上厚切りてっさと名湯宿5選 | クラウドトラベル",
-    "description": "平安・鎌倉の祈りが息づく国宝「臼杵磨崖仏（臼杵石仏）」での新春初詣と、全国の食通が絶賛する豊後水道の最高峰「臼杵とらふぐ」！本場ならではの厚切りてっさ、白子焼き、ひれ酒と名湯を味わう冬旅厳選5宿。",
-    "image": ["https://croud-travel.pages.dev/winter-oita-usuki-sekibutsu-hatsumode-torafugu-kaiseki-stay"],
-    "author": {
-      "@type": "Organization",
-      "name": "日本全国・旅宿クラウド",
-      "url": "https://croud-travel.pages.dev/"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "日本全国・旅宿クラウド",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://croud-travel.pages.dev/favicon.ico"
-      }
-    },
-    "datePublished": "2026-09-01T09:00:00+09:00",
-    "dateModified": "2026-10-12T11:00:00+09:00",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/winter-oita-usuki-sekibutsu-hatsumode-torafugu-kaiseki-stay/"
-  };
-
   return (
     <>
       <script
@@ -68,11 +43,6 @@ export default function WinterFeaturePage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
       />
 
-      
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
-      />
       <main className="min-h-screen bg-stone-50/50 text-stone-800 pb-16">
         {/* パンくずリスト */}
         <div className="bg-white border-b border-stone-200">
