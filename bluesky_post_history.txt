@@ -43,3 +43,4 @@ showcase_fukuoka
 silverweek-where-to-go-recommendation-guide
 showcase_nara
 myoko-akakura-onsen-resort-hotels-guide
+showcase_hokkaido
