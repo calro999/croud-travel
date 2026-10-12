@@ -1,6 +1,6 @@
 # 丹後・間人温泉の幻の「間人ガニ」と雪化粧の伊根の舟屋！日本三景・雪の天橋立飛龍観と極上寒ブリしゃぶしゃぶ名宿ガイド
 
-- URL: https://croud-travel.pages.dev/posts/theme_2_tango/
+- URL: https://croud-travel.pages.dev/posts/tango-taiza-crab-ine-funaya-amanohashidate-winter-guide/
 - 宿泊施設名: 窓に広がる夕日と海　美食を奏で１５０有余年　間人温泉　炭平
 - 都道府県: 京都府
 - エリア: 丹後・天橋立

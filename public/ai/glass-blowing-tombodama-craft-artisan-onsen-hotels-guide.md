@@ -1,4 +1,4 @@
-# トンボ玉・吹きガラス・切子細工！ガラス工芸体験ができる名門温泉宿おすすめ10選：トンボ玉・吹きガラス・切子細工！ガラス工芸体験ができる名門温泉宿おすすめ10選の魅力を極める！北海道小樽・静岡伊豆高原・滋賀長浜・長野諏訪湖・石川加賀山中・兵庫城崎の特選宿泊ガイド（glass-blowing-tombodama-craft-artisan-onsen-hotels-guide）
+# トンボ玉・吹きガラス・切子細工！ガラス工芸体験ができる名門温泉宿おすすめ10選 ｜ 小樽・伊豆高原・長浜・諏訪湖・山中温泉
 
 - URL: https://croud-travel.pages.dev/posts/glass-blowing-tombodama-craft-artisan-onsen-hotels-guide/
 - 宿泊施設名: トンボ玉・吹きガラス・切子細工！ガラス工芸体験ができる名門温泉宿おすすめ10選

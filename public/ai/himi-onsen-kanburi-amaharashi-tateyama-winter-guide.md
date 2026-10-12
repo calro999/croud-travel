@@ -1,6 +1,6 @@
 # 氷見温泉郷の冬の王者「ひみ寒ぶり」と雨晴海岸の気嵐絶景！海越しに望む白銀立山連峰パノラマ・源泉かけ流し名宿ガイド
 
-- URL: https://croud-travel.pages.dev/posts/theme_1_himi/
+- URL: https://croud-travel.pages.dev/posts/himi-onsen-kanburi-amaharashi-tateyama-winter-guide/
 - 宿泊施設名: 氷見温泉郷　くつろぎの宿　うみあかり
 - 都道府県: 富山県
 - エリア: 氷見・高岡

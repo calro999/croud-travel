@@ -1,6 +1,6 @@
 # 修善寺温泉の冬の小京都・竹林の小径と早咲き修善寺梅林！弘法大師ゆかりの独鈷の湯とズガニうどん・伊豆牛会席名宿ガイド
 
-- URL: https://croud-travel.pages.dev/posts/theme_3_shuzenji/
+- URL: https://croud-travel.pages.dev/posts/shuzenji-onsen-bamboo-forest-snow-winter-plum-izu-guide/
 - 宿泊施設名: 修善寺温泉　瑞の里　〇久（まるきゅう）旅館
 - 都道府県: 静岡県
 - エリア: 中伊豆・修善寺

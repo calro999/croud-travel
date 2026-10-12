@@ -1,8 +1,8 @@
 # 京都府の宿泊・観光記事（48件）
 
 ## 丹後・間人温泉の幻の「間人ガニ」と雪化粧の伊根の舟屋！日本三景・雪の天橋立飛龍観と極上寒ブリしゃぶしゃぶ名宿ガイド
-- 記事: https://croud-travel.pages.dev/posts/theme_2_tango/
-- 全文Markdown: https://croud-travel.pages.dev/ai/theme_2_tango.md
+- 記事: https://croud-travel.pages.dev/posts/tango-taiza-crab-ine-funaya-amanohashidate-winter-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/tango-taiza-crab-ine-funaya-amanohashidate-winter-guide.md
 - 宿泊施設名: 窓に広がる夕日と海　美食を奏で１５０有余年　間人温泉　炭平
 - エリア: 丹後・天橋立
 - 参考価格: ¥32000〜
@@ -284,7 +284,7 @@
 - 参考価格: ¥4600〜
 - 評価: 4.51
 
-京都府近畿にある人気宿「京都山科 ホテル山楽」の温泉・客室の評判、食事の魅力、無料駐車場・アクセス情報を深掘り特集。写真・。
+京都府近畿にある人気宿「京都山科 ホテル山楽」の温泉・客室の評判、食事の魅力、無料駐車場・アクセス情報を深掘り特集。写真や宿の特徴をご紹介。
 
 ## ｈｏｔｅｌ ＭＯＮｄａｙ 京都丸太町宿泊記＆滞在レビュー｜客室・温泉・料理のこだわり【京都府】
 - 記事: https://croud-travel.pages.dev/posts/181992/
@@ -374,7 +374,7 @@
 - 参考価格: ¥4400〜
 - 評価: 4.17
 
-京都府近畿にある人気宿「ＡＢホテル京都四条堀川」の温泉・客室の評判、食事の魅力、無料駐車場・アクセス情報を深掘り特集。写真・。
+京都府近畿にある人気宿「ＡＢホテル京都四条堀川」の温泉・客室の評判、食事の魅力、無料駐車場・アクセス情報を深掘り特集。写真や宿の特徴をご紹介。
 
 ## 夕日ヶ浦温泉 海舟＜京都府＞に泊まる大人の休日｜おすすめポイント＆過ごし方ナビ
 - 記事: https://croud-travel.pages.dev/posts/67971/

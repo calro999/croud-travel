@@ -1,6 +1,6 @@
 # 層雲峡温泉の氷瀑まつりと大雪山白銀大渓谷！七色ライトアップ氷の宮殿と旭山動物園雪景色・源泉かけ流し名宿ガイド
 
-- URL: https://croud-travel.pages.dev/posts/theme_1_sounkyo/
+- URL: https://croud-travel.pages.dev/posts/sounkyo-onsen-hyobaku-festival-daisetsuzan-winter-guide/
 - 宿泊施設名: 層雲峡温泉　湯元　銀泉閣（ＢＢＨホテルグループ）
 - 都道府県: 北海道
 - エリア: 層雲峡・大雪山

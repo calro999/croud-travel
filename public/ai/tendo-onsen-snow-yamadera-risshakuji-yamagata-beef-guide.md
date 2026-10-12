@@ -1,6 +1,6 @@
 # 天童温泉の雪の山寺（立石寺）水墨画絶景と将棋駒の街！弱アルカリ美肌の湯と極上山形牛すき焼き・寒中さくらんぼ名宿ガイド
 
-- URL: https://croud-travel.pages.dev/posts/theme_5_tendo/
+- URL: https://croud-travel.pages.dev/posts/tendo-onsen-snow-yamadera-risshakuji-yamagata-beef-guide/
 - 宿泊施設名: 天童温泉　松伯亭　あづま荘
 - 都道府県: 山形県
 - エリア: 天童・山形

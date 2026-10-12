@@ -1,6 +1,6 @@
 # 三朝温泉の世界屈指高濃度ラドン泉と活松葉ガニフルコース！三朝橋河原風呂と国宝三徳山三佛寺・冬の鳥取名宿ガイド
 
-- URL: https://croud-travel.pages.dev/posts/theme_4_misasa/
+- URL: https://croud-travel.pages.dev/posts/misasa-onsen-radium-hotspring-matsuba-crab-winter-guide/
 - 宿泊施設名: 三朝温泉　旅館　大橋
 - 都道府県: 鳥取県
 - エリア: 三朝・倉吉

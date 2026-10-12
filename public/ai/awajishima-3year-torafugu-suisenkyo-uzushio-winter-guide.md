@@ -1,6 +1,6 @@
 # 淡路島温泉の冬の極上味覚「淡路島3年とらふぐ」と灘黒岩水仙郷！鳴門海峡の冬渦潮とうずしお温泉美肌の湯・絶景名宿ガイド
 
-- URL: https://croud-travel.pages.dev/posts/theme_3_awajishima/
+- URL: https://croud-travel.pages.dev/posts/awajishima-3year-torafugu-suisenkyo-uzushio-winter-guide/
 - 宿泊施設名: 休暇村　南淡路　＜淡路島＞
 - 都道府県: 兵庫県
 - エリア: 淡路島・南あわじ

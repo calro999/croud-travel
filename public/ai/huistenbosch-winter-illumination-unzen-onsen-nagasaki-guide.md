@@ -1,6 +1,6 @@
 # ハウステンボス「白銀の世界・光の街のクリスマス」と雲仙温泉！1300万球冬イルミネーションと湯煙地獄・霧氷名宿ガイド
 
-- URL: https://croud-travel.pages.dev/posts/theme_4_huistenbosch/
+- URL: https://croud-travel.pages.dev/posts/huistenbosch-winter-illumination-unzen-onsen-nagasaki-guide/
 - 宿泊施設名: ホテルオークラＪＲハウステンボス
 - 都道府県: 長崎県
 - エリア: 佐世保・雲仙

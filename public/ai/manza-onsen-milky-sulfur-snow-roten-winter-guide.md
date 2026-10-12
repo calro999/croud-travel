@@ -1,6 +1,6 @@
 # 万座温泉の標高1800m白銀乳白色秘湯と日本一の濃厚硫黄泉！満天の冬星空・パウダースノー雪見大露天風呂名宿ガイド
 
-- URL: https://croud-travel.pages.dev/posts/theme_5_manza/
+- URL: https://croud-travel.pages.dev/posts/manza-onsen-milky-sulfur-snow-roten-winter-guide/
 - 宿泊施設名: 万座温泉　万座亭
 - 都道府県: 群馬県
 - エリア: 万座・嬬恋

@@ -1,6 +1,6 @@
 # 白骨温泉の白銀乳白色秘湯と名物野天風呂！「三日入れば三年風邪をひかぬ」名湯と乗鞍高原氷瀑・信州投じ蕎麦名宿ガイド
 
-- URL: https://croud-travel.pages.dev/posts/theme_2_shirahone/
+- URL: https://croud-travel.pages.dev/posts/shirahone-onsen-milky-snow-roten-norikura-winter-guide/
 - 宿泊施設名: 白骨温泉　小梨の湯　笹屋
 - 都道府県: 長野県
 - エリア: 白骨・乗鞍
