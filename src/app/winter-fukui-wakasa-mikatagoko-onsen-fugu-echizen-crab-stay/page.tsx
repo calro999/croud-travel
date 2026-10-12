@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '福井・若狭三方五湖で過ごす冬の旅（11・12月）！越前蟹！名宿5選',
-  description: '11月から12月にかけて、国の名勝・三方五湖（みかたごこ）と敦賀湾を擁する福井県若狭エリアは。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、国の名勝・三方五湖（みかたごこ）と敦賀湾を擁する福井県若狭エリアの魅力とおすすめ宿泊施設を詳しくご紹介します。',
   keywords: '三方五湖 宿泊, 水月花, 虹岳島荘, 波華楼, ホテル湾彩, 敦賀マンテンホテル駅前, 若狭ふぐ 11月 12月, 越前蟹, 焼き鯖, 北陸新幹線敦賀',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukui-wakasa-mikatagoko-onsen-fugu-echizen-crab-stay/"
   },
   openGraph: {
     title: '福井・若狭三方五湖で過ごす冬の旅（11・12月）！越前蟹！名宿5選',
-    description: '11月から12月にかけて、国の名勝・三方五湖（みかたごこ）と敦賀湾を擁する福井県若狭エリアは。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、国の名勝・三方五湖（みかたごこ）と敦賀湾を擁する福井県若狭エリアの魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-fukui-wakasa-mikatagoko-onsen-fugu-echizen-crab-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/72715/72715.jpg',
         width: 1200,
         height: 630,
         alt: '初冬の三方五湖レイクビューと若狭ふぐフルコース・敦賀温泉露天風呂'

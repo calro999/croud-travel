@@ -8,17 +8,17 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月宮崎日南：名物伊勢海老！名宿5選',
-  description: '冬の宮崎・日南海岸エリアは、紺碧の太平洋が広がる温暖な気候のもと、奇岩怪石の断崖洞窟に鎮座する霊場「鵜戸神宮」が新春開運の初詣祈願と運玉投げ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '冬の宮崎・日南海岸エリアは、紺碧の太平洋が広がる温暖な気候のもと、奇岩怪石の断崖洞窟に鎮座する霊場「鵜戸神宮」が新春開運の初詣祈願と運玉投げ。',
   keywords: '日南 ホテル, 鵜戸神宮 初詣, 日南 温泉, 南郷プリンスホテル, 合歓のはな, 日南 伊勢海老, 宮崎牛, 飫肥城下町, 11月 12月 1月 宮崎 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-miyazaki-nichinan-udo-shrine-hatsumode-iseebi-wagyu-stay/"
   },
   openGraph: {
     title: '11・12・1月宮崎日南：名物伊勢海老！名宿5選',
-    description: '冬の宮崎・日南海岸エリアは、紺碧の太平洋が広がる温暖な気候のもと、奇岩怪石の断崖洞窟に鎮座する霊場「鵜戸神宮」が新春開運の初詣祈願と運玉投げ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '冬の宮崎・日南海岸エリアは、紺碧の太平洋が広がる温暖な気候のもと、奇岩怪石の断崖洞窟に鎮座する霊場「鵜戸神宮」が新春開運の初詣祈願と運玉投げ。',
     url: 'https://croud-travel.pages.dev/winter-miyazaki-nichinan-udo-shrine-hatsumode-iseebi-wagyu-stay',
     type: 'article',
-    images: [{ url: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80' }]
+    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/51210/51210.jpg' }]
   }
 };
 

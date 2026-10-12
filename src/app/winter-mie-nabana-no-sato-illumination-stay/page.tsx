@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     locale: 'ja_JP',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/12599/12599.jpg',
         width: 1200,
         height: 630,
         alt: "【11・12月！なばなの里イルミネーション】光のトンネルと湯の山温泉・長島リゾート宿5選",
@@ -41,7 +41,7 @@ export default function FeaturePage() {
     "@type": "Article",
     "headline": "【11・12月！なばなの里イルミネーション】光のトンネルと湯の山温泉・長島リゾート宿5選",
     "description": "日本最大級のスケールを誇る「なばなの里イルミネーション」！長さ200メートルの光のトンネルや水上イルミネーションを鑑賞し、開湯1300年の名湯・湯の山温泉の美肌湯や伊勢湾の海の幸に寛ぐ極上旅。",
-    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://img.travel.rakuten.co.jp/share/HOTEL/12599/12599.jpg",
     "datePublished": "T00:00:00+09:00",
     "dateModified": "T00:00:00+09:00",
     "author": {
@@ -124,7 +124,7 @@ export default function FeaturePage() {
         <div className="absolute inset-0 bg-stone-900/40 z-10" />
         <div 
           className="absolute inset-0 bg-cover bg-center transform scale-105 transition-transform duration-1000"
-          style={{ backgroundImage: "url('https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1600&q=80')" }}
+          style={{ backgroundImage: "url('https://img.travel.rakuten.co.jp/share/HOTEL/12599/12599.jpg')" }}
         />
         
         <div className="relative z-20 max-w-4xl mx-auto px-4 text-center">

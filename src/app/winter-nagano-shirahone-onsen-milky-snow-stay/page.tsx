@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '白骨温泉で過ごす冬の旅（11・12月）！3日入れば3年風邪ひかぬ霊泉！名宿5選',
-  description: '北アルプス乗鞍岳の山懐、標高1,400メートルの深い原生林に抱かれた日本屈指の秘湯「白骨温泉」。「3日入れば3年風邪をひかない」と謳われる乳。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '北アルプス乗鞍岳の山懐、標高1,400メートルの深い原生林に抱かれた日本屈指の秘湯「白骨温泉」。「3日入れば3年風邪をひかない」と謳われる乳。',
   keywords: '白骨温泉 宿泊 11月 12月, 白骨温泉 乳白色 露天風呂, 泡の湯 白骨, 湯元齋藤旅館, 白船荘 新宅旅館, 信州プレミアム牛 投汁そば, 北アルプス 雪見温泉, 長野 秘湯',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagano-shirahone-onsen-milky-snow-stay/",
   },
   openGraph: {
     title: '白骨温泉で過ごす冬の旅（11・12月）！3日入れば3年風邪ひかぬ霊泉！名宿5選',
-    description: '北アルプス乗鞍岳の山懐、標高1,400メートルの深い原生林に抱かれた日本屈指の秘湯「白骨温泉」。「3日入れば3年風邪をひかない」と謳われる乳。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '北アルプス乗鞍岳の山懐、標高1,400メートルの深い原生林に抱かれた日本屈指の秘湯「白骨温泉」。「3日入れば3年風邪をひかない」と謳われる乳。',
     url: 'https://croud-travel.pages.dev/winter-nagano-shirahone-onsen-milky-snow-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/56929/56929.jpg',
         width: 1200,
         height: 630,
         alt: "【11・12月白骨温泉の北アルプス初冬雪景色と乳白色秘湯】3日入れば3年風邪ひかぬ霊泉・信州プレミアム牛＆投汁そばの宿5選",
@@ -66,7 +66,7 @@ export default function ShirahoneWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-nagano-shirahone-onsen-milky-snow-stay#article",
         "headline": "【11・12月白骨温泉の北アルプス初冬雪景色と乳白色秘湯】3日入れば3年風邪ひかぬ霊泉・信州プレミアム牛＆投汁そばの宿5選",
         "description": "北アルプス乗鞍岳の山懐、標高1,400メートルの深い原生林に抱かれた日本屈指の秘湯「白骨温泉」。「3日入れば3年風邪をひかない」と謳われる乳白色の炭酸水素塩泉。11月中旬の初雪から12月の白銀静寂世界に浸る雪見露天風呂と、信州プレミアム牛＆名物投汁そばに心温まる名宿ガイド。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/56929/56929.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {
@@ -273,7 +273,7 @@ export default function ShirahoneWinterPage() {
       {/* Hero Header */}
       <header className="relative h-[520px] md:h-[620px] flex items-center justify-center text-white overflow-hidden bg-stone-950">
         <Image
-          src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1600&q=85"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/56929/56929.jpg"
           alt="白骨温泉・北アルプス標高1400mの白銀雪景色と神秘の乳白色露天風呂"
           fill
           priority

@@ -8,17 +8,17 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月岡山：雲海に浮かぶ天空の山城！名宿5選',
-  description: '冬の岡山・高梁＆新見・美星町は、標高430mの臥牛山頂に佇む現存天守「備中松山城」が一面の白い霧海に浮かび上がる年間最大の絶景シーズン。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '冬の岡山・高梁＆新見・美星町は、標高430mの臥牛山頂に佇む現存天守「備中松山城」が一面の白い霧海に浮かび上がる年間最大の絶景シーズン。',
   keywords: '備中松山城 雲海, 高梁 ホテル, 備中松山城 天空の城, 美星町 星空, 千屋牛 すき焼き, 吹屋ふるさと村, 高梁国際ホテル, 新見 ホテル, 11月 12月 1月 岡山 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-okayama-takahashi-bitchu-matsuyama-castle-unkai-chiyagyu-stay/"
   },
   openGraph: {
     title: '11・12・1月岡山：雲海に浮かぶ天空の山城！名宿5選',
-    description: '冬の岡山・高梁＆新見・美星町は、標高430mの臥牛山頂に佇む現存天守「備中松山城」が一面の白い霧海に浮かび上がる年間最大の絶景シーズン。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '冬の岡山・高梁＆新見・美星町は、標高430mの臥牛山頂に佇む現存天守「備中松山城」が一面の白い霧海に浮かび上がる年間最大の絶景シーズン。',
     url: 'https://croud-travel.pages.dev/winter-okayama-takahashi-bitchu-matsuyama-castle-unkai-chiyagyu-stay',
     type: 'article',
-    images: [{ url: 'https://images.unsplash.com/photo-1578637387939-43c525550085?auto=format&fit=crop&w=1200&q=630', width: 1200, height: 630, alt: '備中松山城の雲海と美星町の星空' }]
+    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/39582/39582.jpg', width: 1200, height: 630, alt: '備中松山城の雲海と美星町の星空' }]
   },
   twitter: {
     card: 'summary_large_image',

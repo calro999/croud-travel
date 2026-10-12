@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '富士河口湖温泉郷で過ごす冬の旅（11・12月）！湖畔展望露天！名宿5選',
-  description: '11月から12月にかけて富士五湖・河口湖畔は、1年の中で最も空気が澄み渡り、雪化粧を纏った霊峰富士の絶景が美しく輝く年間最高のシーズンを迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて富士五湖・河口湖畔は、1年の中で最も空気が澄み渡り、雪化粧を纏った霊峰富士の絶景が美しく輝く年間最高のシーズンを迎えます。',
   keywords: '富士河口湖温泉 宿泊, 河口湖 11月 12月, 富士山 逆さ富士, 紅富士 露天風呂, 秀峰閣 湖月, ラビスタ富士河口湖, 湖南荘, 富士ビューホテル, 若草の宿 丸栄, 甲州牛 すき焼き, ほうとう, 山梨 温泉 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamanashi-kawaguchiko-onsen-fuji-view-koshu-beef-stay/",
   },
   openGraph: {
     title: '富士河口湖温泉郷で過ごす冬の旅（11・12月）！湖畔展望露天！名宿5選',
-    description: '11月から12月にかけて富士五湖・河口湖畔は、1年の中で最も空気が澄み渡り、雪化粧を纏った霊峰富士の絶景が美しく輝く年間最高のシーズンを迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて富士五湖・河口湖畔は、1年の中で最も空気が澄み渡り、雪化粧を纏った霊峰富士の絶景が美しく輝く年間最高のシーズンを迎えます。',
     url: 'https://croud-travel.pages.dev/winter-yamanashi-kawaguchiko-onsen-fuji-view-koshu-beef-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/43939/43939.jpg',
         width: 1200,
         height: 630,
         alt: "【11・12月富士河口湖温泉郷の澄み渡る白銀富士と紅富士絶景】湖畔展望露天・極上甲州牛すき焼き＆熱々名物ほうとう会席の宿5選",
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "富士河口湖温泉郷の澄み渡る白銀富士と紅富士絶景で過ごす冬の旅（11・12月）！湖畔展望露天・極上甲州牛すき焼き＆熱々名物ほうとう会席の宿5選",
     description: "11月から12月にかけて富士五湖・河口湖畔は、1年の中で最も空気が澄み渡り、雪化粧を纏った霊峰富士の絶景が美しく輝く年間最高のシーズンを迎えます。早朝の朝日に赤く染まる「紅富士」や湖面に映る「逆さ富士」を望む展望客室露天風呂、硫酸塩泉のまろやかな温まり美肌湯、山梨が誇る最高峰ブランド黒毛和牛「甲州牛」のすき焼きや陶板ステーキ、熱々のかぼちゃ名物ほうとう会席を満喫する厳選名宿5選を徹底解説。",
-    images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80'],
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/43939/43939.jpg'],
   }
 };
 
@@ -71,7 +71,7 @@ export default function KawaguchikoOnsenWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-yamanashi-kawaguchiko-onsen-fuji-view-koshu-beef-stay#article",
         "headline": "【11・12月富士河口湖温泉郷の澄み渡る白銀富士と紅富士絶景】湖畔展望露天・極上甲州牛すき焼き＆熱々名物ほうとう会席の宿5選",
         "description": "11月から12月にかけて富士五湖・河口湖畔は、1年の中で最も空気が澄み渡り、雪化粧を纏った霊峰富士の絶景が美しく輝く年間最高のシーズンを迎えます。早朝の朝日に赤く染まる「紅富士」や湖面に映る「逆さ富士」を望む展望客室露天風呂、硫酸塩泉のまろやかな温まり美肌湯、山梨が誇る最高峰ブランド黒毛和牛「甲州牛」のすき焼きや陶板ステーキ、熱々のかぼちゃ名物ほうとう会席を満喫する厳選名宿5選を徹底解説。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/43939/43939.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {
@@ -286,7 +286,7 @@ export default function KawaguchikoOnsenWinterPage() {
       {/* Hero Header */}
       <header className="relative h-[520px] md:h-[620px] flex items-center justify-center text-white overflow-hidden bg-slate-950">
         <Image
-          src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1600&q=85"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/43939/43939.jpg"
           alt="初冬の澄み渡る河口湖の湖面に映る雪化粧した富士山の逆さ富士と紅富士"
           fill
           priority

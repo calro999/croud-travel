@@ -9,19 +9,19 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月栃木：佐野厄除け大師初詣！名宿5選',
-  description: '11月から1月、栃木県足利市と佐野市は、日本三大イルミネーション第1位「あしかがフラワーパーク 光の花の庭」の500万球が輝き。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から1月、栃木県足利市と佐野市は、日本三大イルミネーション第1位「あしかがフラワーパーク 光の花の庭」の500万球が輝き。',
   keywords: 'あしかがフラワーパーク イルミネーション, 光の花の庭, 佐野厄除け大師 初詣, 佐野ラーメン, 青竹手打ち, ニューミヤコホテル足利本館, ホテルルートイン佐野藤岡インター, ホテルサンルート佐野, とちあいか 苺狩り, 11月 12月 1月 栃木旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay/"
   },
   openGraph: {
     title: '11・12・1月栃木：佐野厄除け大師初詣！名宿5選',
-    description: '11月から1月、栃木県足利市と佐野市は、日本三大イルミネーション第1位「あしかがフラワーパーク 光の花の庭」の500万球が輝き。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から1月、栃木県足利市と佐野市は、日本三大イルミネーション第1位「あしかがフラワーパーク 光の花の庭」の500万球が輝き。',
     url: 'https://croud-travel.pages.dev/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay',
     siteName: 'クラドトラベル',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/44871/44871.jpg',
         width: 1200,
         height: 630,
         alt: 'あしかがフラワーパーク光の花の庭と佐野厄除け大師'
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月栃木：日本一の光の祭典「あしかがフラワーパーク光の花の庭」・佐野厄除け大師初詣＆手打ち佐野ラーメン・とちおとめ苺ステイ宿5選",
     description: "11月から1月、栃木県足利市と佐野市は、日本三大イルミネーション第1位「あしかがフラワーパーク 光の花の庭」の500万球が輝き、関東屈指の初詣参拝者を迎える「佐野厄除け大師」の厳かな祈りに包まれます。澄んだ冬空に広がる青竹手打ち佐野ラーメンの熱気、冬に甘みが凝縮するとちおとめ＆とちあいか苺狩り。冬の両毛エリアを満喫する厳選名宿5選と1泊2日モデルコースを徹底ガイドします。",
-    images: ['https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/44871/44871.jpg']
   }
 };
 
@@ -44,7 +44,7 @@ export default function TochigiAshikagaFlowerparkWinterPage() {
     '@type': 'Article',
     headline: "11・12・1月栃木：日本一の光の祭典「あしかがフラワーパーク光の花の庭」・佐野厄除け大師初詣＆手打ち佐野ラーメン・とちおとめ苺ステイ宿5選",
     description: "11月から1月、栃木県足利市と佐野市は、日本三大イルミネーション第1位「あしかがフラワーパーク 光の花の庭」の500万球が輝き、関東屈指の初詣参拝者を迎える「佐野厄除け大師」の厳かな祈りに包まれます。澄んだ冬空に広がる青竹手打ち佐野ラーメンの熱気、冬に甘みが凝縮するとちおとめ＆とちあいか苺狩り。冬の両毛エリアを満喫する厳選名宿5選と1泊2日モデルコースを徹底ガイドします。",
-    image: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://img.travel.rakuten.co.jp/share/HOTEL/44871/44871.jpg',
     datePublished: '',
     dateModified: '',
     author: {
@@ -270,7 +270,7 @@ export default function TochigiAshikagaFlowerparkWinterPage() {
       <header className="relative bg-slate-950 text-white overflow-hidden py-16 sm:py-24">
         <div className="absolute inset-0 opacity-35 mix-blend-overlay">
           <img 
-            src="https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1800&q=80" 
+            src="https://img.travel.rakuten.co.jp/share/HOTEL/44871/44871.jpg" 
             alt="あしかがフラワーパーク光の花の庭と佐野厄除け大師" 
             className="w-full h-full object-cover"
           />

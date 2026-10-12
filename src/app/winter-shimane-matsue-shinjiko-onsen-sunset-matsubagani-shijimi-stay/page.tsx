@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '島根・松江しんじ湖温泉で過ごす冬の旅（11・12月）！解禁松葉ガニ！名宿5選',
-  description: '11月から12月にかけて、水の都・松江の宍道湖畔に湧く松江しんじ湖温泉は、澄み切った初冬の空に広がる「夕日百選」宍道湖の真紅のサンセットと。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、水の都・松江の宍道湖畔に湧く松江しんじ湖温泉は、澄み切った初冬の空に広がる「夕日百選」宍道湖の真紅のサンセットと。',
   keywords: '松江しんじ湖温泉 宿泊, なにわ一水, ホテル一畑, 松平閣, 大橋館, ニューアーバンホテル, 宍道湖 夕日, 松葉ガニ 宿, 寒シジミ, しまね和牛, 堀川遊覧船 こたつ船, 11月 12月 松江',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shimane-matsue-shinjiko-onsen-sunset-matsubagani-shijimi-stay/"
   },
   openGraph: {
     title: '島根・松江しんじ湖温泉で過ごす冬の旅（11・12月）！解禁松葉ガニ！名宿5選',
-    description: '11月から12月にかけて、水の都・松江の宍道湖畔に湧く松江しんじ湖温泉は、澄み切った初冬の空に広がる「夕日百選」宍道湖の真紅のサンセットと。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、水の都・松江の宍道湖畔に湧く松江しんじ湖温泉は、澄み切った初冬の空に広がる「夕日百選」宍道湖の真紅のサンセットと。',
     url: 'https://croud-travel.pages.dev/winter-shimane-matsue-shinjiko-onsen-sunset-matsubagani-shijimi-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/52116/52116.jpg',
         width: 1200,
         height: 630,
         alt: '松江しんじ湖温泉の宍道湖夕日レイクビューと冬の味覚名宿'
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "島根・松江しんじ湖温泉の宍道湖夕日絶景と冬の味覚で過ごす冬の旅（11・12月）！解禁松葉ガニ＆寒シジミ鍋・しまね和牛会席を愉しむ湖畔レイクビュー名宿5選",
     description: "11月から12月にかけて、水の都・松江の宍道湖畔に湧く松江しんじ湖温泉は、澄み切った初冬の空に広がる「夕日百選」宍道湖の真紅のサンセットと、11月に解禁を迎えた冬の味覚の王者「松葉ガニ」が揃う最高のハイシーズンを迎えます。湖上を茜色に染める夕景と飛来する冬鳥のシルエット、国宝・松江城の堀川遊覧船「こたつ船」で温まる城下町巡り、77度を超える高温良質なナトリウム・カルシウム硫酸塩泉のレイクビュー露天風呂。旨味あふれる松葉ガニフルコースや、ぷっくり肥えた宍道湖産寒シジミ鍋、極上しまね和牛を堪能する湖畔の厳選名宿5選を徹底解説します。",
-    images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/52116/52116.jpg']
   }
 };
 

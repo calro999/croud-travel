@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '島根・出雲大社周辺温泉で過ごす冬の旅（11・12月）！しまね和牛！名宿5選',
-  description: '旧暦10月（新暦11月）を迎えると、全国の八百万（やおよろず）の神々が出雲の地に集まることから「神在月（かみありづき）」と呼ばれ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '旧暦10月（新暦11月）を迎えると、全国の八百万（やおよろず）の神々が出雲の地に集まることから「神在月（かみありづき）」と呼ばれ。',
   keywords: '出雲大社 宿泊, 出雲 温泉 11月 12月, いにしえの宿佳雲, お宿月夜のうさぎ, 竹野屋旅館, はたご小田温泉, マリンタラソ出雲, 神在月 宿泊, しまね和牛 宿, 出雲そば 宿',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shimane-izumo-taisha-kamiarizuki-shimane-wagyu-stay/"
   },
   openGraph: {
     title: '島根・出雲大社周辺温泉で過ごす冬の旅（11・12月）！しまね和牛！名宿5選',
-    description: '旧暦10月（新暦11月）を迎えると、全国の八百万（やおよろず）の神々が出雲の地に集まることから「神在月（かみありづき）」と呼ばれ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '旧暦10月（新暦11月）を迎えると、全国の八百万（やおよろず）の神々が出雲の地に集まることから「神在月（かみありづき）」と呼ばれ。',
     url: 'https://croud-travel.pages.dev/winter-shimane-izumo-taisha-kamiarizuki-shimane-wagyu-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/160909/160909.jpg',
         width: 1200,
         height: 630,
         alt: '神在月の出雲大社と出雲周辺の温泉旅館露天風呂'
@@ -69,7 +69,7 @@ export default function ShimaneIzumoWinterFeature() {
         },
         "headline": "【11・12月島根・出雲大社周辺温泉の神在月・神在祭参拝と初冬解禁日本海の幸】出雲そば・しまね和牛＆日本海夕景露天の宿5選",
         "description": "旧暦10月（新暦11月）を迎えると、全国の八百万（やおよろず）の神々が出雲の地に集まることから「神在月（かみありづき）」と呼ばれ、出雲大社では「神迎祭」「神在祭」「縁結大祭」が厳かに執り行われます。11月から12月の出雲地方は、人生の良縁や幸福を祈る参拝客の敬虔な熱気と、日本海から届く初冬の豊かな海の幸で満たされます。11月上旬に解禁される山陰の冬の王者「松葉ガニ」や脂の乗った「ノドグロ」、名物「出雲そば」、そして最高峰の肉質を誇る「しまね和牛」の極上会席。出雲大社まで徒歩圏の参拝の宿や、日本海の荒波と夕日を望む海辺の隠れ宿、川のせせらぎに癒やされる源泉掛け流しの名旅館5選を徹底解説。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/160909/160909.jpg",
         "datePublished": "T08:00:00+09:00",
         "dateModified": "T08:00:00+09:00",
         "publisher": {
@@ -268,7 +268,7 @@ export default function ShimaneIzumoWinterFeature() {
       {/* Header Banner */}
       <header className="relative w-full h-[360px] sm:h-[480px] flex items-end justify-center bg-slate-900 text-white overflow-hidden">
         <Image
-          src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/160909/160909.jpg"
           alt="初冬の神在月を迎える出雲大社と周辺温泉の風情"
           fill
           priority

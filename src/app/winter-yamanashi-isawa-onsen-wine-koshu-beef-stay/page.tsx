@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     locale: 'ja_JP',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/19894/19894.jpg',
         width: 1200,
         height: 630,
         alt: "【11・12月石和温泉の新酒ワインと美肌湯】富士を望む甲州名湯と甲州牛ステーキ・冬のほうとう会席宿5選",
@@ -47,7 +47,7 @@ export default function IsawaWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay#article",
         "headline": "【11・12月石和温泉の新酒ワインと美肌湯】富士を望む甲州名湯と甲州牛ステーキ・冬のほうとう会席宿5選",
         "description": "11月3日の山梨ヌーボー解禁とともに華やぐ甲州・石和温泉。雪化粧した富士山や南アルプスを望み、毎分湧出する豊富な美肌アルカリ単純温泉に身を浸す贅沢。最高峰A5ランク甲州牛のステーキと熱々の甲州かぼちゃほうとう、できたての新酒甲州ワインを味わい尽くす初冬の美食湯宿ガイド。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/19894/19894.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {
@@ -254,7 +254,7 @@ export default function IsawaWinterPage() {
       {/* Hero Header */}
       <header className="relative h-[520px] md:h-[620px] flex items-center justify-center text-white overflow-hidden bg-stone-950">
         <Image
-          src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1600&q=85"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/19894/19894.jpg"
           alt="冬の石和温泉・甲府盆地から望む雪化粧の富士山と湯けむり"
           fill
           priority

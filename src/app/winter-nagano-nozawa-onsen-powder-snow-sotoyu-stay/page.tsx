@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     locale: 'ja_JP',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/8186/8186.jpg',
         width: 1200,
         height: 630,
         alt: "【12月開幕！野沢温泉パウダースノー】天然雪100%ゲレンデと名物13外湯めぐり＆信州牛美食宿5選",
@@ -47,7 +47,7 @@ export default function NozawaWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay#article",
         "headline": "【12月開幕！野沢温泉パウダースノー】天然雪100%ゲレンデと名物13外湯めぐり＆信州牛美食宿5選",
         "description": "12月上旬オープン！天然雪100%の極上パウダースノーと総滑走距離44kmを誇る「野沢温泉スキー場」！江戸時代から湯仲間が大切に守り継ぐ名物「13の外湯めぐり」と、冬の風物詩・野沢菜本漬け、信州牛会席に寛ぐ老舗温泉宿ステイ。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/8186/8186.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {
@@ -254,7 +254,7 @@ export default function NozawaWinterPage() {
       {/* Hero Header */}
       <header className="relative h-[520px] md:h-[620px] flex items-center justify-center text-white overflow-hidden bg-stone-950">
         <Image
-          src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1600&q=85"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/8186/8186.jpg"
           alt="野沢温泉の雪景色と立ち上る温泉街の湯けむり"
           fill
           priority

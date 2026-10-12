@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '函館湯で過ごす冬の旅（11・12月）！毛蟹会席！名宿5選',
-  description: '11月から12月にかけて津軽海峡にイカ釣り漁船の幻想的な漁火（いさりび）が瞬く北海道三大温泉郷「湯の川温泉」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて津軽海峡にイカ釣り漁船の幻想的な漁火（いさりび）が瞬く北海道三大温泉郷「湯の川温泉」。',
   keywords: '函館 湯の川温泉 宿泊, 湯の川温泉 11月 12月, 湯の川プリンスホテル渚亭, 望楼NOGUCHI函館, 割烹旅館 若松, 函館クリスマスファンタジー, 津軽海峡 漁火 露天風呂, 冬イカ 毛蟹 函館朝市',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay/",
   },
   openGraph: {
     title: '函館湯で過ごす冬の旅（11・12月）！毛蟹会席！名宿5選',
-    description: '11月から12月にかけて津軽海峡にイカ釣り漁船の幻想的な漁火（いさりび）が瞬く北海道三大温泉郷「湯の川温泉」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて津軽海峡にイカ釣り漁船の幻想的な漁火（いさりび）が瞬く北海道三大温泉郷「湯の川温泉」。',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/5842/5842.jpg',
         width: 1200,
         height: 630,
         alt: "【11・12月函館湯の川温泉の冬名湯と漁火海鮮】津軽海峡インフィニティ露天と函館クリスマスファンタジー・冬イカ＆毛蟹会席の宿5選",
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "函館湯の川温泉の冬名湯と漁火海鮮で過ごす冬の旅（11・12月）！津軽海峡インフィニティ露天と函館クリスマスファンタジー・冬イカ＆毛蟹会席の宿5選",
     description: "11月から12月にかけて津軽海峡にイカ釣り漁船の幻想的な漁火（いさりび）が瞬く北海道三大温泉郷「湯の川温泉」。海と一体化するインフィニティ露天風呂、赤レンガ倉庫を彩る巨大ツリー「函館クリスマスファンタジー」、函館朝市直送の透き通る冬イカ刺しや濃厚な毛蟹、大沼牛を堪能。初冬の函館を満喫する極上名宿5選を徹底解説。",
-    images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80'],
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/5842/5842.jpg'],
   }
 };
 
@@ -71,7 +71,7 @@ export default function HakodateYunokawaWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay#article",
         "headline": "【11・12月函館湯の川温泉の冬名湯と漁火海鮮】津軽海峡インフィニティ露天と函館クリスマスファンタジー・冬イカ＆毛蟹会席の宿5選",
         "description": "11月から12月にかけて津軽海峡にイカ釣り漁船の幻想的な漁火（いさりび）が瞬く北海道三大温泉郷「湯の川温泉」。海と一体化するインフィニティ露天風呂、赤レンガ倉庫を彩る巨大ツリー「函館クリスマスファンタジー」、函館朝市直送の透き通る冬イカ刺しや濃厚な毛蟹、大沼牛を堪能。初冬の函館を満喫する極上名宿5選を徹底解説。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/5842/5842.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {
@@ -286,7 +286,7 @@ export default function HakodateYunokawaWinterPage() {
       {/* Hero Header */}
       <header className="relative h-[520px] md:h-[620px] flex items-center justify-center text-white overflow-hidden bg-slate-950">
         <Image
-          src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1600&q=85"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/5842/5842.jpg"
           alt="函館湯の川温泉の津軽海峡を望むインフィニティ露天風呂と初冬のイカ釣り漁火"
           fill
           priority

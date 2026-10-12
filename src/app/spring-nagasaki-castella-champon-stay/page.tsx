@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     locale: 'ja_JP',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/6000/6000.jpg',
         width: 1200,
         height: 630,
         alt: "【本場長崎カステラ＆極上卓袱会席】雲仙・小浜・平戸の異国情緒と美肌名湯宿5選",
@@ -41,7 +41,7 @@ export default function FeaturePage() {
     "@type": "Article",
     "headline": "【本場長崎カステラ＆極上卓袱会席】雲仙・小浜・平戸の異国情緒と美肌名湯宿5選",
     "description": "創業数百年の伝統が息づく長崎カステラや異国情緒あふれる卓袱（しっぽく）料理！大地のエネルギーが噴き出す雲仙地獄の名湯や橘湾の夕日を望む小浜温泉で、長崎の文化と極上温泉に浸る旅。",
-    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://img.travel.rakuten.co.jp/share/HOTEL/6000/6000.jpg",
     "datePublished": "T00:00:00+09:00",
     "dateModified": "T00:00:00+09:00",
     "author": {
@@ -124,7 +124,7 @@ export default function FeaturePage() {
         <div className="absolute inset-0 bg-stone-900/40 z-10" />
         <div 
           className="absolute inset-0 bg-cover bg-center transform scale-105 transition-transform duration-1000"
-          style={{ backgroundImage: "url('https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1600&q=80')" }}
+          style={{ backgroundImage: "url('https://img.travel.rakuten.co.jp/share/HOTEL/6000/6000.jpg')" }}
         />
         
         <div className="relative z-20 max-w-4xl mx-auto px-4 text-center">

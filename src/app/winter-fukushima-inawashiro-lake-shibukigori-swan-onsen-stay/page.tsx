@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '福島で過ごす冬の旅（12・1月）！雪見露天風呂と会津地鶏！名宿5選',
-  description: '厳冬期の福島・猪苗代湖は、大自然が創り出す奇跡の氷結アート「しぶき氷」と、シベリアから飛来する数千羽の優雅な白鳥たちが出迎える幻想的な白銀の世界です。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '厳冬期の福島・猪苗代湖は、大自然が創り出す奇跡の氷結アート「しぶき氷」と、シベリアから飛来する数千羽の優雅な白鳥たちが出迎える幻想的な白銀の世界です。',
   keywords: '猪苗代湖 ホテル, 磐梯熱海温泉 旅館, 猪苗代湖 しぶき氷, 猪苗代湖 白鳥, 磐梯山 雪景色, ホテルリステル猪苗代, ホテル華の湯, 四季彩一力, 守田屋, 12月 1月 福島 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukushima-inawashiro-lake-shibukigori-swan-onsen-stay/"
   },
   openGraph: {
     title: '福島で過ごす冬の旅（12・1月）！雪見露天風呂と会津地鶏！名宿5選',
-    description: '厳冬期の福島・猪苗代湖は、大自然が創り出す奇跡の氷結アート「しぶき氷」と、シベリアから飛来する数千羽の優雅な白鳥たちが出迎える幻想的な白銀の世界です。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '厳冬期の福島・猪苗代湖は、大自然が創り出す奇跡の氷結アート「しぶき氷」と、シベリアから飛来する数千羽の優雅な白鳥たちが出迎える幻想的な白銀の世界です。',
     url: 'https://croud-travel.pages.dev/winter-fukushima-inawashiro-lake-shibukigori-swan-onsen-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',

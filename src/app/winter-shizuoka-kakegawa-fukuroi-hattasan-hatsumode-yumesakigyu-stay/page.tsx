@@ -7,19 +7,19 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月静岡：厄除け大本山「法多山尊永寺」！名宿5選',
-  description: '遠州三山を代表する厄除けの名刹「法多山尊永寺（はったさん）」が約100万人を超える初詣客で賑わう11〜1月の冬旅特集。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '遠州三山を代表する厄除けの名刹「法多山尊永寺（はったさん）」が約100万人を超える初詣客で賑わう11〜1月の冬旅特集。',
   keywords: '法多山 初詣, 法多山 厄除団子, 可睡齋 ひなまつり, 掛川城 冬, 遠州夢咲牛, ドーミーイン掛川, くれたけイン袋井, 遠州三山 冬, 静岡 初詣 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shizuoka-kakegawa-fukuroi-hattasan-hatsumode-yumesakigyu-stay/"
   },
   openGraph: {
     title: '11・12・1月静岡：厄除け大本山「法多山尊永寺」！名宿5選',
-    description: '遠州三山を代表する厄除けの名刹「法多山尊永寺（はったさん）」が約100万人を超える初詣客で賑わう11〜1月の冬旅特集。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '遠州三山を代表する厄除けの名刹「法多山尊永寺（はったさん）」が約100万人を超える初詣客で賑わう11〜1月の冬旅特集。',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-kakegawa-fukuroi-hattasan-hatsumode-yumesakigyu-stay',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/141597/141597.jpg',
         width: 1200,
         height: 630,
         alt: '冬の掛川城天守と法多山尊永寺の参道情景'
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月静岡：厄除け大本山「法多山尊永寺」新春初詣と掛川城木造天守！「可睡齋」日本最大級ひなまつり＆遠州夢咲牛名宿5選",
     description: "遠州三山を代表する厄除けの名刹「法多山尊永寺（はったさん）」が約100万人を超える初詣客で賑わう11〜1月の冬旅特集。神聖な杉木立の参道と名物「厄除団子」、曹洞宗の名刹「可睡齋」の冬室内ぼたんと日本最大級32段1,200体の雛人形、日本初の本格木造復元天守「掛川城」の凛とした佇まい、全国和牛共進会で最高賞を受賞した幻の黒毛和牛「遠州夢咲牛」と掛川深蒸し茶。掛川・袋井の滞在拠点に最適な厳選ホテル・名宿5選を徹底解説します。",
-    images: ['https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?auto=format&fit=crop&w=1200&h=630&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/141597/141597.jpg']
   }
 };
 
@@ -42,7 +42,7 @@ export default function ShizuokaKakegawaWinterPage() {
     "@type": "Article",
     "headline": "【11・12・1月静岡】厄除け大本山「法多山尊永寺」新春初詣と掛川城木造天守！「可睡齋」日本最大級ひなまつり＆遠州夢咲牛名宿5選",
     "description": "遠州三山を代表する厄除けの名刹「法多山尊永寺（はったさん）」が約100万人を超える初詣客で賑わう11〜1月の冬旅特集。神聖な杉木立の参道と名物「厄除団子」、曹洞宗の名刹「可睡齋」の冬室内ぼたんと日本最大級32段1,200体の雛人形、日本初の本格木造復元天守「掛川城」の凛とした佇まい、全国和牛共進会で最高賞を受賞した幻の黒毛和牛「遠州夢咲牛」と掛川深蒸し茶。掛川・袋井の滞在拠点に最適な厳選ホテル・名宿5選を徹底解説します。",
-    "image": "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?auto=format&fit=crop&w=1200&h=630&q=80",
+    "image": "https://img.travel.rakuten.co.jp/share/HOTEL/141597/141597.jpg",
     "datePublished": "T12:00:00+09:00",
     "dateModified": "T12:00:00+09:00",
     "author": {

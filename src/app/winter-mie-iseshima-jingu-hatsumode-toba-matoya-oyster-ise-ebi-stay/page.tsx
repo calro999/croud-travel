@@ -7,19 +7,19 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月三重：伊勢海老！名宿5選',
-  description: '二千年の歴史を誇る日本の心のふるさと・伊勢志摩を巡る11〜1月の冬紀行。冬至前後に宇治橋大鳥居の中央から昇る奇跡の朝光と「伊勢神宮（内宮・外。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '二千年の歴史を誇る日本の心のふるさと・伊勢志摩を巡る11〜1月の冬紀行。冬至前後に宇治橋大鳥居の中央から昇る奇跡の朝光と「伊勢神宮（内宮・外。',
   keywords: '伊勢神宮 初詣, 宇治橋 日の出 冬, 的矢かき 伊勢志摩, 伊勢海老 鳥羽, 鳥羽国際ホテル, 志摩観光ホテル, いにしえの宿 伊久, 三重 冬旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-mie-iseshima-jingu-hatsumode-toba-matoya-oyster-ise-ebi-stay/"
   },
   openGraph: {
     title: '11・12・1月三重：伊勢海老！名宿5選',
-    description: '二千年の歴史を誇る日本の心のふるさと・伊勢志摩を巡る11〜1月の冬紀行。冬至前後に宇治橋大鳥居の中央から昇る奇跡の朝光と「伊勢神宮（内宮・外。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '二千年の歴史を誇る日本の心のふるさと・伊勢志摩を巡る11〜1月の冬紀行。冬至前後に宇治橋大鳥居の中央から昇る奇跡の朝光と「伊勢神宮（内宮・外。',
     url: 'https://croud-travel.pages.dev/winter-mie-iseshima-jingu-hatsumode-toba-matoya-oyster-ise-ebi-stay',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/8529/8529.jpg',
         width: 1200,
         height: 630,
         alt: '冬至の宇治橋大鳥居から昇る黄金色の朝日と伊勢神宮'
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月三重：「伊勢神宮」新春初詣と宇治橋の冬日の出！冬旬「的矢かき」・伊勢海老・松阪牛会席＆鳥羽・賢島名宿5選",
     description: "二千年の歴史を誇る日本の心のふるさと・伊勢志摩を巡る11〜1月の冬紀行。冬至前後に宇治橋大鳥居の中央から昇る奇跡の朝光と「伊勢神宮（内宮・外宮）」厳かな新春初詣、五十鈴川の清冽な流れ。的矢湾の恵みが育む冬のブランド牡蠣「的矢かき」、伊勢湾で水揚げされる伊勢海老、本場・松阪牛のすき焼き・ステーキ。鳥羽温泉郷や英虞湾を望む賢島のリゾートなど、極上の冬の滞在を叶える厳選名宿5選を徹底解説します。",
-    images: ['https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&h=630&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/8529/8529.jpg']
   }
 };
 
@@ -42,7 +42,7 @@ export default function MieIseshimaWinterPage() {
     "@type": "Article",
     "headline": "【11・12・1月三重】「伊勢神宮」新春初詣と宇治橋の冬日の出！冬旬「的矢かき」・伊勢海老・松阪牛会席＆鳥羽・賢島名宿5選",
     "description": "二千年の歴史を誇る日本の心のふるさと・伊勢志摩を巡る11〜1月の冬紀行。冬至前後に宇治橋大鳥居の中央から昇る奇跡の朝光と「伊勢神宮（内宮・外宮）」厳かな新春初詣、五十鈴川の清冽な流れ。的矢湾の恵みが育む冬のブランド牡蠣「的矢かき」、伊勢湾で水揚げされる伊勢海老、本場・松阪牛のすき焼き・ステーキ。鳥羽温泉郷や英虞湾を望む賢島のリゾートなど、極上の冬の滞在を叶える厳選名宿5選を徹底解説します。",
-    "image": "https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&h=630&q=80",
+    "image": "https://img.travel.rakuten.co.jp/share/HOTEL/8529/8529.jpg",
     "datePublished": "T15:00:00+09:00",
     "dateModified": "T15:00:00+09:00",
     "author": {

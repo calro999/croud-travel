@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     locale: 'ja_JP',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/1614/1614.jpg',
         width: 1200,
         height: 630,
         alt: "【大激流ラフティング】吉野川・球磨川で挑む白波アドベンチャー＆天然温泉リゾート宿5選",
@@ -41,7 +41,7 @@ export default function FeaturePage() {
     "@type": "Article",
     "headline": "【大激流ラフティング】吉野川・球磨川で挑む白波アドベンチャー＆天然温泉リゾート宿5選",
     "description": "日本屈指の激流ポイント吉野川や球磨川、利根川で楽しむエキサイティングなラフティング！白波を乗り越える大興奮のアドベンチャーと、疲れた体を癒やす天然温泉大浴場・絶景サウナを備えた宿を厳選。",
-    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://img.travel.rakuten.co.jp/share/HOTEL/1614/1614.jpg",
     "datePublished": "T00:00:00+09:00",
     "dateModified": "T00:00:00+09:00",
     "author": {
@@ -124,7 +124,7 @@ export default function FeaturePage() {
         <div className="absolute inset-0 bg-stone-900/40 z-10" />
         <div 
           className="absolute inset-0 bg-cover bg-center transform scale-105 transition-transform duration-1000"
-          style={{ backgroundImage: "url('https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1600&q=80')" }}
+          style={{ backgroundImage: "url('https://img.travel.rakuten.co.jp/share/HOTEL/1614/1614.jpg')" }}
         />
         
         <div className="relative z-20 max-w-4xl mx-auto px-4 text-center">

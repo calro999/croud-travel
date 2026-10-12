@@ -7,19 +7,19 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月北海道：雪原に舞う特別天然記念物「丹！名宿5選',
-  description: '道東の冬が織りなす白銀の詩情・釧路の11〜1月冬紀行。純白の雪原に優美な翼を広げる特別天然記念物「タンチョウ（丹頂鶴）」の求愛ダンス。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '道東の冬が織りなす白銀の詩情・釧路の11〜1月冬紀行。純白の雪原に優美な翼を広げる特別天然記念物「タンチョウ（丹頂鶴）」の求愛ダンス。',
   keywords: '丹頂鶴 冬, 鶴居村 タンチョウ, 幣舞橋 夕日, 釧路 炉端焼き, 真だち 白子, ラビスタ釧路川, ドーミーイン釧路, 釧路 天然温泉, 勝手丼 和商市場, 道東 冬旅行',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-hokkaido-kushiro-tancho-crane-snow-nusamaibashi-sunset-robata-stay'
   },
   openGraph: {
     title: '11・12・1月北海道：雪原に舞う特別天然記念物「丹！名宿5選',
-    description: '道東の冬が織りなす白銀の詩情・釧路の11〜1月冬紀行。純白の雪原に優美な翼を広げる特別天然記念物「タンチョウ（丹頂鶴）」の求愛ダンス。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '道東の冬が織りなす白銀の詩情・釧路の11〜1月冬紀行。純白の雪原に優美な翼を広げる特別天然記念物「タンチョウ（丹頂鶴）」の求愛ダンス。',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-kushiro-tancho-crane-snow-nusamaibashi-sunset-robata-stay',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1517411032315-54ef2cb783bb?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/56846/56846.jpg',
         width: 1200,
         height: 630,
         alt: '雪原に舞う特別天然記念物丹頂鶴と世界三大夕日の幣舞橋'
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月北海道：雪原に舞う特別天然記念物「丹頂鶴」と世界三大夕日「幣舞橋」！炭火炉端焼き・冬の真だち＆釧路天然温泉名宿5選",
     description: "道東の冬が織りなす白銀の詩情・釧路の11〜1月冬紀行。純白の雪原に優美な翼を広げる特別天然記念物「タンチョウ（丹頂鶴）」の求愛ダンス、世界三大夕日と称賛される幣舞橋のドラマチックな真紅の黄昏。氷点下の静寂に包まれる釧路湿原の霧氷パノラマ。北の海が育む冬の至宝「真だち（タラの白子）」や脂ののったメンメ（キンキ）、炭火の煙が立ち上る元祖「釧路炉端焼き」、和商市場の名物勝手丼。冷えた身体を包み込む展望天然温泉と極上名宿5選を徹底紹介。",
-    images: ['https://images.unsplash.com/photo-1517411032315-54ef2cb783bb?auto=format&fit=crop&w=1200&h=630&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/56846/56846.jpg']
   }
 };
 
@@ -42,7 +42,7 @@ export default function HokkaidoKushiroWinterPage() {
     "@type": "Article",
     "headline": "【11・12・1月北海道】雪原に舞う特別天然記念物「丹頂鶴」と世界三大夕日「幣舞橋」！炭火炉端焼き・冬の真だち＆釧路天然温泉名宿5選",
     "description": "道東の冬が織りなす白銀の詩情・釧路の11〜1月冬紀行。純白の雪原に優美な翼を広げる特別天然記念物「タンチョウ（丹頂鶴）」の求愛ダンス、世界三大夕日と称賛される幣舞橋のドラマチックな真紅の黄昏。氷点下の静寂に包まれる釧路湿原の霧氷パノラマ。北の海が育む冬の至宝「真だち（タラの白子）」や脂ののったメンメ（キンキ）、炭火の煙が立ち上る元祖「釧路炉端焼き」、和商市場の名物勝手丼。冷えた身体を包み込む展望天然温泉と極上名宿5選を徹底紹介。",
-    "image": "https://images.unsplash.com/photo-1517411032315-54ef2cb783bb?auto=format&fit=crop&w=1200&h=630&q=80",
+    "image": "https://img.travel.rakuten.co.jp/share/HOTEL/56846/56846.jpg",
     "datePublished": "T18:00:00+09:00",
     "dateModified": "T18:00:00+09:00",
     "author": {

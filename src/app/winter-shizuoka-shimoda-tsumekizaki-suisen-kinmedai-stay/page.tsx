@@ -9,19 +9,19 @@ import {
 
 export const metadata: Metadata = {
   title: '静岡で過ごす冬の旅（12・1月）！下田港直送極上「一本釣り地金目鯛」！名宿5選',
-  description: '12月中旬から1月下旬、静岡県伊豆半島の南端・下田の須崎半島「爪木崎」では。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '12月中旬から1月下旬、静岡県伊豆半島の南端・下田の須崎半島「爪木崎」での魅力とおすすめ宿泊施設を詳しくご紹介します。',
   keywords: '爪木崎 水仙まつり, 下田 地金目鯛 宿泊, 下田温泉 名宿, 下田東急ホテル, 下田大和館, 下田ビューホテル, 下田セントラルホテル, 下田プリンスホテル, ペリーロード 冬, 南伊豆 旅行, 12月 1月 静岡観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shizuoka-shimoda-tsumekizaki-suisen-kinmedai-stay/"
   },
   openGraph: {
     title: '静岡で過ごす冬の旅（12・1月）！下田港直送極上「一本釣り地金目鯛」！名宿5選',
-    description: '12月中旬から1月下旬、静岡県伊豆半島の南端・下田の須崎半島「爪木崎」では。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '12月中旬から1月下旬、静岡県伊豆半島の南端・下田の須崎半島「爪木崎」での魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-shimoda-tsumekizaki-suisen-kinmedai-stay',
     siteName: 'クラドトラベル',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/4615/4615.jpg',
         width: 1200,
         height: 630,
         alt: '冬の静岡県下田・爪木崎水仙と青い海の風景'
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "静岡で過ごす冬の旅（12・1月）！300万本が咲き誇る爪木崎水仙まつりと富士山絶景・下田港直送極上「一本釣り地金目鯛」を堪能する下田・南伊豆の名宿5選",
     description: "12月中旬から1月下旬、静岡県伊豆半島の南端・下田の須崎半島「爪木崎」では、海を見下ろす岬一面に約300万本もの野水仙が咲き乱れる「爪木崎水仙まつり」が開催されます。甘い水仙の香りと真っ赤なアロエの花、コバルトブルーの太平洋が織りなす冬のコントラストは圧巻。さらに冬は下田港水揚げの一本釣り「地金目鯛（じきんめ）」に最も上質な脂が乗る美食の最高潮。温暖な南伊豆の気候と美肌の名湯に癒やされる厳選名宿5選とモデルコースをお届けします。",
-    images: ['https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/4615/4615.jpg']
   }
 };
 
@@ -44,7 +44,7 @@ export default function ShizuokaShimodaTsumekizakiWinterPage() {
     '@type': 'Article',
     headline: "静岡で過ごす冬の旅（12・1月）！300万本が咲き誇る爪木崎水仙まつりと富士山絶景・下田港直送極上「一本釣り地金目鯛」を堪能する下田・南伊豆の名宿5選",
     description: "12月中旬から1月下旬、静岡県伊豆半島の南端・下田の須崎半島「爪木崎」では、海を見下ろす岬一面に約300万本もの野水仙が咲き乱れる「爪木崎水仙まつり」が開催されます。甘い水仙の香りと真っ赤なアロエの花、コバルトブルーの太平洋が織りなす冬のコントラストは圧巻。さらに冬は下田港水揚げの一本釣り「地金目鯛（じきんめ）」に最も上質な脂が乗る美食の最高潮。温暖な南伊豆の気候と美肌の名湯に癒やされる厳選名宿5選とモデルコースをお届けします。",
-    image: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://img.travel.rakuten.co.jp/share/HOTEL/4615/4615.jpg',
     datePublished: '',
     dateModified: '',
     author: {
@@ -270,7 +270,7 @@ export default function ShizuokaShimodaTsumekizakiWinterPage() {
       <header className="relative bg-slate-950 text-white overflow-hidden py-16 sm:py-24">
         <div className="absolute inset-0 opacity-35 mix-blend-overlay">
           <img 
-            src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1800&q=80" 
+            src="https://img.travel.rakuten.co.jp/share/HOTEL/4615/4615.jpg" 
             alt="冬の静岡・南伊豆下田の海と爪木崎水仙まつりの風景" 
             className="w-full h-full object-cover"
           />

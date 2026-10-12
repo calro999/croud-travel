@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     locale: 'ja_JP',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/12599/12599.jpg',
         width: 1200,
         height: 630,
         alt: "【A5松阪牛すき焼き＆網焼き】本場三重の最高峰肉会席！湯の山温泉・榊原温泉の名湯宿5選",
@@ -41,7 +41,7 @@ export default function FeaturePage() {
     "@type": "Article",
     "headline": "【A5松阪牛すき焼き＆網焼き】本場三重の最高峰肉会席！湯の山温泉・榊原温泉の名湯宿5選",
     "description": "「肉の芸術品」と称される最高峰A5ランク松阪牛を本場のすき焼き・網焼き・炙り寿司で堪能！鈴鹿山脈の麓に佇む湯の山温泉や、清少納言ゆかりの名湯・榊原温泉で、至高の肉美食ステイを。",
-    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://img.travel.rakuten.co.jp/share/HOTEL/12599/12599.jpg",
     "datePublished": "T00:00:00+09:00",
     "dateModified": "T00:00:00+09:00",
     "author": {
@@ -124,7 +124,7 @@ export default function FeaturePage() {
         <div className="absolute inset-0 bg-stone-900/40 z-10" />
         <div 
           className="absolute inset-0 bg-cover bg-center transform scale-105 transition-transform duration-1000"
-          style={{ backgroundImage: "url('https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1600&q=80')" }}
+          style={{ backgroundImage: "url('https://img.travel.rakuten.co.jp/share/HOTEL/12599/12599.jpg')" }}
         />
         
         <div className="relative z-20 max-w-4xl mx-auto px-4 text-center">

@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月岐阜：奥飛騨雪見露天と極上飛騨牛会席の！名宿5選',
-  description: '冬の飛騨路は、日本の原風景が雪化粧に包まれる年間最高の旅情シーズン。世界遺産・白川郷合掌造り集落の白銀の絶景。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '冬の飛騨路は、日本の原風景が雪化粧に包まれる年間最高の旅情シーズン。世界遺産・白川郷合掌造り集落の白銀の絶景。',
   keywords: '白川郷 ホテル, 飛騨高山 旅館, 奥飛騨温泉郷 雪見露天風呂, 白川郷 ライトアップ, 飛騨牛 会席, 本陣平野屋 花兆庵, 深山桜庵, 高山グリーンホテル, 飛騨亭 花扇, 11月 12月 1月 岐阜 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-gifu-shirakawago-snow-gassho-hidatakayama-onsen-stay/"
   },
   openGraph: {
     title: '11・12・1月岐阜：奥飛騨雪見露天と極上飛騨牛会席の！名宿5選',
-    description: '冬の飛騨路は、日本の原風景が雪化粧に包まれる年間最高の旅情シーズン。世界遺産・白川郷合掌造り集落の白銀の絶景。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '冬の飛騨路は、日本の原風景が雪化粧に包まれる年間最高の旅情シーズン。世界遺産・白川郷合掌造り集落の白銀の絶景。',
     url: 'https://croud-travel.pages.dev/winter-gifu-shirakawago-snow-gassho-hidatakayama-onsen-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',

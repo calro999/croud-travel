@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '富山・庄川温泉郷で過ごす冬の旅（11・12月）！寒ブリ！名宿5選',
-  description: '11月下旬から12月にかけて富山県・庄川峡は、両岸の断崖絶壁が白銀の雪化粧をまとい、水墨画のような幽玄の冬景色が広がります。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月下旬から12月にかけて富山県・庄川峡は、両岸の断崖絶壁が白銀の雪化粧をまとい、水墨画のような幽玄の冬景色が広がります。',
   keywords: '庄川温泉 宿泊, 庄川峡遊覧船 冬, 富山 11月 12月 温泉, 庄川温泉郷 宿, 人肌の宿 川金, 三楽園, ゆめつづり, となみ野庄川荘一萬亭, 五箇山温泉 赤尾館, 富山湾 紅ズワイガニ 宿, 氷見 寒ブリ 庄川温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-toyama-shogawa-onsen-snow-cruise-crab-stay/"
   },
   openGraph: {
     title: '富山・庄川温泉郷で過ごす冬の旅（11・12月）！寒ブリ！名宿5選',
-    description: '11月下旬から12月にかけて富山県・庄川峡は、両岸の断崖絶壁が白銀の雪化粧をまとい、水墨画のような幽玄の冬景色が広がります。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月下旬から12月にかけて富山県・庄川峡は、両岸の断崖絶壁が白銀の雪化粧をまとい、水墨画のような幽玄の冬景色が広がります。',
     url: 'https://croud-travel.pages.dev/winter-toyama-shogawa-onsen-snow-cruise-crab-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/10937/10937.jpg',
         width: 1200,
         height: 630,
         alt: '冬の庄川峡遊覧船と庄川温泉郷の雪景色'
@@ -69,7 +69,7 @@ export default function ShogawaOnsenWinterFeature() {
         },
         "headline": "【11・12月富山・庄川温泉郷の雪見庄川峡遊覧船と冬の味覚】富山湾紅ズワイガニ・寒ブリ・白えび＆源泉美肌の宿5選",
         "description": "11月下旬から12月にかけて富山県・庄川峡は、両岸の断崖絶壁が白銀の雪化粧をまとい、水墨画のような幽玄の冬景色が広がります。庄川峡遊覧船（小牧ダム〜大牧）から望む雪景色と湖面の水鏡、開湯以来湯治客を癒やし続ける庄川清流温泉・鳥越温泉のにごり湯や炭酸泉、11月に本格シーズンを迎える富山湾の紅ズワイガニ、氷見・新湊直送の脂が乗った極上寒ブリの刺身とブリしゃぶ、宝石のような白えびのかき揚げ、富山牛のサーロインを堪能する名宿5選を徹底解説。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/10937/10937.jpg",
         "datePublished": "T04:00:00+09:00",
         "dateModified": "T04:00:00+09:00",
         "publisher": {
@@ -268,7 +268,7 @@ export default function ShogawaOnsenWinterFeature() {
       {/* Header Banner */}
       <header className="relative w-full h-[360px] sm:h-[480px] flex items-end justify-center bg-slate-900 text-white overflow-hidden">
         <Image
-          src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1600&q=80"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/10937/10937.jpg"
           alt="冬の富山庄川峡遊覧船と雪見温泉"
           fill
           priority

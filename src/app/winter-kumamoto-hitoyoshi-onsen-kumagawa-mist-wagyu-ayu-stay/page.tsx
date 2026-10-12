@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '熊本・人吉温泉郷で過ごす冬の旅（11・12月）！極上球磨黒毛和牛！名宿5選',
-  description: '11月から12月にかけて、相良（さがら）700年の城下町の歴史が息づく熊本県南部の人吉盆地は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、相良（さがら）700年の城下町の歴史が息づく熊本県南部の人吉盆地の魅力とおすすめ宿泊施設を詳しくご紹介します。',
   keywords: '人吉温泉 宿泊, あゆの里, 翠嵐楼, 芳野旅館, 鍋屋, ホテルサン人吉, 球磨川 朝霧 11月 12月, 子持ち鮎, 球磨黒毛和牛, 球磨焼酎',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kumamoto-hitoyoshi-onsen-kumagawa-mist-wagyu-ayu-stay/"
   },
   openGraph: {
     title: '熊本・人吉温泉郷で過ごす冬の旅（11・12月）！極上球磨黒毛和牛！名宿5選',
-    description: '11月から12月にかけて、相良（さがら）700年の城下町の歴史が息づく熊本県南部の人吉盆地は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、相良（さがら）700年の城下町の歴史が息づく熊本県南部の人吉盆地の魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-kumamoto-hitoyoshi-onsen-kumagawa-mist-wagyu-ayu-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/19539/19539.jpg',
         width: 1200,
         height: 630,
         alt: '初冬の球磨川と人吉温泉の朝霧・名物子持ち鮎と美肌露天風呂'

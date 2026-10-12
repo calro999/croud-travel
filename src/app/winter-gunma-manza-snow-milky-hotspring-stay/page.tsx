@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     locale: 'ja_JP',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/67057/67057.jpg',
         width: 1200,
         height: 630,
         alt: "【12月標高1800mの白銀世界！万座温泉にごり湯】日本一の濃厚硫黄泉と雪見絶景宿5選",
@@ -41,7 +41,7 @@ export default function FeaturePage() {
     "@type": "Article",
     "headline": "【12月標高1800mの白銀世界！万座温泉にごり湯】日本一の濃厚硫黄泉と雪見絶景宿5選",
     "description": "標高1800mの雲上に位置する「星に一番近い温泉・万座温泉」！日本一の硫黄含有量を誇る乳白色のにごり湯露天風呂から、一面の白銀世界と満天の星空を眺める、これぞ本物の冬の雪見温泉体験。",
-    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://img.travel.rakuten.co.jp/share/HOTEL/67057/67057.jpg",
     "datePublished": "T00:00:00+09:00",
     "dateModified": "T00:00:00+09:00",
     "author": {
@@ -124,7 +124,7 @@ export default function FeaturePage() {
         <div className="absolute inset-0 bg-stone-900/40 z-10" />
         <div 
           className="absolute inset-0 bg-cover bg-center transform scale-105 transition-transform duration-1000"
-          style={{ backgroundImage: "url('https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1600&q=80')" }}
+          style={{ backgroundImage: "url('https://img.travel.rakuten.co.jp/share/HOTEL/67057/67057.jpg')" }}
         />
         
         <div className="relative z-20 max-w-4xl mx-auto px-4 text-center">

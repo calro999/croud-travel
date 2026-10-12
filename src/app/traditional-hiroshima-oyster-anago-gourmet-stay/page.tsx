@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     locale: 'ja_JP',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/18097/18097.jpg',
         width: 1200,
         height: 630,
         alt: "【2026最新】ぷりぷり広島牡蠣＆極上あなごめし！宮島・瀬戸内海を一望する絶景美食温泉宿5選",
@@ -41,7 +41,7 @@ export default function FeaturePage() {
     "@type": "Article",
     "headline": "【2026最新】ぷりぷり広島牡蠣＆極上あなごめし！宮島・瀬戸内海を一望する絶景美食温泉宿5選",
     "description": "身が引き締まり旨味が凝縮した極上広島牡蠣の焼き・鍋・フライと、ふっくら香ばしい名物あなごめし！世界遺産・厳島神社を望む宮島や瀬戸内海のオーシャンビュー名湯で味わう至福の美食宿を厳選。",
-    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://img.travel.rakuten.co.jp/share/HOTEL/18097/18097.jpg",
     "datePublished": "T00:00:00+09:00",
     "dateModified": "T00:00:00+09:00",
     "author": {
@@ -124,7 +124,7 @@ export default function FeaturePage() {
         <div className="absolute inset-0 bg-stone-900/40 z-10" />
         <div 
           className="absolute inset-0 bg-cover bg-center transform scale-105 transition-transform duration-1000"
-          style={{ backgroundImage: "url('https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1600&q=80')" }}
+          style={{ backgroundImage: "url('https://img.travel.rakuten.co.jp/share/HOTEL/18097/18097.jpg')" }}
         />
         
         <div className="relative z-20 max-w-4xl mx-auto px-4 text-center">

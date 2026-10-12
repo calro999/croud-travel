@@ -9,19 +9,19 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月北海道：極上富良野和牛！名宿5選',
-  description: '11月下旬から1月、北海道の中央に位置するトマムと富良野は、氷点下20度〜30度にも達する極寒が生み出す世界屈指のパウダースノーと。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月下旬から1月、北海道の中央に位置するトマムと富良野は、氷点下20度〜30度にも達する極寒が生み出す世界屈指のパウダースノーと。',
   keywords: 'トマム アイスヴィレッジ 冬, 霧氷テラス 星野リゾート, 富良野和牛 ステーキ, 富良野 チーズフォンデュ, リゾナーレトマム, トマムザタワー, 新富良野プリンスホテル, ラビスタ富良野ヒルズ, 11月 12月 1月 北海道旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hokkaido-tomamu-furano-ice-village-wagyu-stay/"
   },
   openGraph: {
     title: '11・12・1月北海道：極上富良野和牛！名宿5選',
-    description: '11月下旬から1月、北海道の中央に位置するトマムと富良野は、氷点下20度〜30度にも達する極寒が生み出す世界屈指のパウダースノーと。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月下旬から1月、北海道の中央に位置するトマムと富良野は、氷点下20度〜30度にも達する極寒が生み出す世界屈指のパウダースノーと。',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-tomamu-furano-ice-village-wagyu-stay',
     siteName: 'クラドトラベル',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1517048676732-d65bc937f952?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/30110/30110.jpg',
         width: 1200,
         height: 630,
         alt: '白銀の北海道トマム霧氷テラスと氷の街'
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月北海道：氷の街トマム「アイスヴィレッジ」と白銀の富良野・極上富良野和牛＆濃厚ふらのチーズフォンデュを堪能する冬リゾート名宿5選",
     description: "11月下旬から1月、北海道の中央に位置するトマムと富良野は、氷点下20度〜30度にも達する極寒が生み出す世界屈指のパウダースノーと、奇跡の氷の幻想世界に包まれます。星野リゾートトマムに期間限定で出現する氷の街「アイスヴィレッジ」では、氷の教会や氷のBar、氷の滑り台が青い光に輝き、ゴンドラで向かう標高1,088mの「霧氷テラス」では木々がまとう純白の氷結晶と日高山脈の壮大な冬パノラマに息を呑みます。白銀に染まる富良野の森に優しい灯りが灯る「ニングルテラス」の散策、寒さを忘れさせる最高峰の「富良野和牛」ステーキやすき焼き、地元産生乳から作られる濃厚な「ふらのチーズフォンデュ」。極上の冬リゾートと天然温泉を満喫する厳選5宿を紹介します。",
-    images: ['https://images.unsplash.com/photo-1517048676732-d65bc937f952?auto=format&fit=crop&w=1200&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/30110/30110.jpg']
   }
 };
 
@@ -44,7 +44,7 @@ export default function HokkaidoTomamuFuranoWinterPage() {
     '@type': 'Article',
     headline: "11・12・1月北海道：氷の街トマム「アイスヴィレッジ」と白銀の富良野・極上富良野和牛＆濃厚ふらのチーズフォンデュを堪能する冬リゾート名宿5選",
     description: "11月下旬から1月、北海道の中央に位置するトマムと富良野は、氷点下20度〜30度にも達する極寒が生み出す世界屈指のパウダースノーと、奇跡の氷の幻想世界に包まれます。星野リゾートトマムに期間限定で出現する氷の街「アイスヴィレッジ」では、氷の教会や氷のBar、氷の滑り台が青い光に輝き、ゴンドラで向かう標高1,088mの「霧氷テラス」では木々がまとう純白の氷結晶と日高山脈の壮大な冬パノラマに息を呑みます。白銀に染まる富良野の森に優しい灯りが灯る「ニングルテラス」の散策、寒さを忘れさせる最高峰の「富良野和牛」ステーキやすき焼き、地元産生乳から作られる濃厚な「ふらのチーズフォンデュ」。極上の冬リゾートと天然温泉を満喫する厳選5宿を紹介します。",
-    image: 'https://images.unsplash.com/photo-1517048676732-d65bc937f952?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://img.travel.rakuten.co.jp/share/HOTEL/30110/30110.jpg',
     datePublished: '',
     dateModified: '',
     author: {
@@ -270,7 +270,7 @@ export default function HokkaidoTomamuFuranoWinterPage() {
       <header className="relative bg-stone-900 text-white overflow-hidden py-16 sm:py-24">
         <div className="absolute inset-0 opacity-40 mix-blend-overlay">
           <img 
-            src="https://images.unsplash.com/photo-1517048676732-d65bc937f952?auto=format&fit=crop&w=1800&q=80" 
+            src="https://img.travel.rakuten.co.jp/share/HOTEL/30110/30110.jpg" 
             alt="白銀の北海道トマムと雪山" 
             className="w-full h-full object-cover"
           />

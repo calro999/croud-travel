@@ -9,21 +9,21 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月長野：日本一の星空ナイトツアーとp！名宿5選',
-  description: '11月から1月、南信州の澄んだ大気と日本アルプスの山々に抱かれた長野県阿智村「昼神温泉」は、一年で最も夜空の輝きが増す奇跡の天体観測シーズンを迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から1月、南信州の澄んだ大気と日本アルプスの山々に抱かれた長野県阿智村「昼神温泉」は、一年で最も夜空の輝きが増す奇跡の天体観測シーズンを迎えます。',
   keywords: '昼神温泉 宿泊, 阿智村 星空 ホテル, 昼神温泉 美肌の湯, 南信州牛 宿, 天空の楽園 ナイトツアー, 桂月 昼神, 石苔亭いしだ, 11月 12月 1月 長野旅行, 信州サーモン',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay/"
   },
   openGraph: {
     title: '11・12・1月長野：日本一の星空ナイトツアーとp！名宿5選',
-    description: '11月から1月、南信州の澄んだ大気と日本アルプスの山々に抱かれた長野県阿智村「昼神温泉」は、一年で最も夜空の輝きが増す奇跡の天体観測シーズンを迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から1月、南信州の澄んだ大気と日本アルプスの山々に抱かれた長野県阿智村「昼神温泉」は、一年で最も夜空の輝きが増す奇跡の天体観測シーズンを迎えます。',
     url: 'https://croud-travel.pages.dev/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/5624/5624.jpg',
         width: 1200,
         height: 630,
         alt: '阿智村の満天の冬星空と南信州の山並み'
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月長野：日本一の星空ナイトツアーとpH9.7強アルカリ美肌の湯・極上南信州牛＆信州サーモンを味わう昼神温泉名宿5選",
     description: "11月から1月、南信州の澄んだ大気と日本アルプスの山々に抱かれた長野県阿智村「昼神温泉」は、一年で最も夜空の輝きが増す奇跡の天体観測シーズンを迎えます。環境省が「日本一星が輝いて見える場所」として最高評価を下した阿智村。初冬から真冬にかけては湿度が下がり大気の透明度が極限まで高まるため、冬の大三角や天の川、満天の星々がまるで降るような臨場感で夜空一面に広がります。ヘブンスそのはらで開催される「天空の楽園 ウィンターナイトツアー」で宇宙の神秘に触れた後は、全国屈指のpH9.7を誇る強アルカリ性単純硫黄泉へ。古い角質を落とし肌をしっとり潤す「奇跡の美人の湯」で体の芯まで解きほぐされます。夕食には南信州の豊かな大地が育んだ霜降り「南信州牛・信州プレミアム牛」の炭火焼きや、清流で育つ鮮やかな「信州サーモン」、名物五平餅が並ぶ美食の宴。冬の星空と極上美肌湯に癒やされる厳選5宿をご案内します。",
-    images: ['https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&h=630&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/5624/5624.jpg']
   }
 };
 
@@ -51,7 +51,7 @@ export default function NaganoHirugamiOnsenWinterPage() {
         },
         "headline": "【11・12・1月長野】日本一の星空ナイトツアーとpH9.7強アルカリ美肌の湯・極上南信州牛＆信州サーモンを味わう昼神温泉名宿5選",
         "description": "11月から1月、南信州の澄んだ大気と日本アルプスの山々に抱かれた長野県阿智村「昼神温泉」は、一年で最も夜空の輝きが増す奇跡の天体観測シーズンを迎えます。環境省が「日本一星が輝いて見える場所」として最高評価を下した阿智村。初冬から真冬にかけては湿度が下がり大気の透明度が極限まで高まるため、冬の大三角や天の川、満天の星々がまるで降るような臨場感で夜空一面に広がります。ヘブンスそのはらで開催される「天空の楽園 ウィンターナイトツアー」で宇宙の神秘に触れた後は、全国屈指のpH9.7を誇る強アルカリ性単純硫黄泉へ。古い角質を落とし肌をしっとり潤す「奇跡の美人の湯」で体の芯まで解きほぐされます。夕食には南信州の豊かな大地が育んだ霜降り「南信州牛・信州プレミアム牛」の炭火焼きや、清流で育つ鮮やかな「信州サーモン」、名物五平餅が並ぶ美食の宴。冬の星空と極上美肌湯に癒やされる厳選5宿をご案内します。",
-        "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&h=630&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/5624/5624.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {
@@ -235,7 +235,7 @@ export default function NaganoHirugamiOnsenWinterPage() {
       <header className="relative bg-gradient-to-b from-indigo-950 via-slate-900 to-indigo-950 text-white py-16 sm:py-24 px-4 sm:px-6 lg:px-8">
         <div className="absolute inset-0 opacity-35 mix-blend-screen overflow-hidden">
           <img 
-            src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1920&q=80" 
+            src="https://img.travel.rakuten.co.jp/share/HOTEL/5624/5624.jpg" 
             alt="阿智村の満天の星空と冬の星座" 
             className="w-full h-full object-cover"
           />

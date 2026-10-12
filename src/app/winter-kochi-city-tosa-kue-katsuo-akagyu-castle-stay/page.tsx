@@ -9,19 +9,19 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月高知：冬の幻の高級魚「天然クエ鍋」！名宿5選',
-  description: '11月から1月、南国土佐・高知は、荒波の太平洋が育む幻の高級魚「天然クエ（九絵）」の濃厚な旨みと、脂の乗り切った戻り鰹の藁焼き塩タタキ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から1月、南国土佐・高知は、荒波の太平洋が育む幻の高級魚「天然クエ（九絵）」の濃厚な旨みと、脂の乗り切った戻り鰹の藁焼き塩タタキ。',
   keywords: '高知 クエ鍋, 高知 鰹タタキ, 高知城 冬 ライトアップ, 城西館, 高知 三翠園, 土佐御苑, ドーミーイン高知, 土佐あかうし, 11月 12月 1月 高知旅行, 桂浜 初日の出',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kochi-city-tosa-kue-katsuo-akagyu-castle-stay/"
   },
   openGraph: {
     title: '11・12・1月高知：冬の幻の高級魚「天然クエ鍋」！名宿5選',
-    description: '11月から1月、南国土佐・高知は、荒波の太平洋が育む幻の高級魚「天然クエ（九絵）」の濃厚な旨みと、脂の乗り切った戻り鰹の藁焼き塩タタキ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から1月、南国土佐・高知は、荒波の太平洋が育む幻の高級魚「天然クエ（九絵）」の濃厚な旨みと、脂の乗り切った戻り鰹の藁焼き塩タタキ。',
     url: 'https://croud-travel.pages.dev/winter-kochi-city-tosa-kue-katsuo-akagyu-castle-stay',
     siteName: 'クラドトラベル',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/8075/8075.jpg',
         width: 1200,
         height: 630,
         alt: '冬の高知城と桂浜の太平洋絶景'
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月高知：冬の幻の高級魚「天然クエ鍋」と脂の乗る戻り鰹・土佐あかうし＆高知城冬ライトアップ・桂浜初日の出・天然温泉宿5選",
     description: "11月から1月、南国土佐・高知は、荒波の太平洋が育む幻の高級魚「天然クエ（九絵）」の濃厚な旨みと、脂の乗り切った戻り鰹の藁焼き塩タタキ、赤身の芸術「土佐あかうし」が集う冬の美食天国となります。美しくライトアップされる現存天守・高知城の夜景やひろめ市場の熱気、桂浜から望む太平洋の雄大な初日の出。高知城下の歴史ある天然温泉や老舗旅館、海辺のリゾートで土佐の豪快な郷土料理と酒文化に酔いしれる厳選名宿5選を徹底ガイドします。",
-    images: ['https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/8075/8075.jpg']
   }
 };
 
@@ -44,7 +44,7 @@ export default function KochiCityTosaKueWinterPage() {
     '@type': 'Article',
     headline: "11・12・1月高知：冬の幻の高級魚「天然クエ鍋」と脂の乗る戻り鰹・土佐あかうし＆高知城冬ライトアップ・桂浜初日の出・天然温泉宿5選",
     description: "11月から1月、南国土佐・高知は、荒波の太平洋が育む幻の高級魚「天然クエ（九絵）」の濃厚な旨みと、脂の乗り切った戻り鰹の藁焼き塩タタキ、赤身の芸術「土佐あかうし」が集う冬の美食天国となります。美しくライトアップされる現存天守・高知城の夜景やひろめ市場の熱気、桂浜から望む太平洋の雄大な初日の出。高知城下の歴史ある天然温泉や老舗旅館、海辺のリゾートで土佐の豪快な郷土料理と酒文化に酔いしれる厳選名宿5選を徹底ガイドします。",
-    image: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://img.travel.rakuten.co.jp/share/HOTEL/8075/8075.jpg',
     datePublished: '',
     dateModified: '',
     author: {
@@ -270,7 +270,7 @@ export default function KochiCityTosaKueWinterPage() {
       <header className="relative bg-slate-950 text-white overflow-hidden py-16 sm:py-24">
         <div className="absolute inset-0 opacity-35 mix-blend-overlay">
           <img 
-            src="https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1800&q=80" 
+            src="https://img.travel.rakuten.co.jp/share/HOTEL/8075/8075.jpg" 
             alt="冬の高知城と土佐湾の荒波" 
             className="w-full h-full object-cover"
           />

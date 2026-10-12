@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月秋田：雪見露天！名宿5選',
-  description: 'みちのくの豪雪地帯・秋田県県南の横手市と湯沢市。11〜1月は450年の伝統を誇る小正月行事「横手のかまくら」の白銀情景が広がり。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: 'みちのくの豪雪地帯・秋田県県南の横手市と湯沢市。11〜1月は450年の伝統を誇る小正月行事「横手のかまくら」の白銀情景が広がり。',
   keywords: '横手かまくら ホテル, 小安峡温泉 旅館, 多郎兵衛旅館, 稲住温泉, ホテルプラザアネックス横手, 稲庭うどん 湯沢, 皆瀬牛, 小安峡 しがっこ, 12月 1月 秋田 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-akita-yokote-kamakura-oyasukyo-shigakko-inaniwa-stay/"
   },
   openGraph: {
     title: '11・12・1月秋田：雪見露天！名宿5選',
-    description: 'みちのくの豪雪地帯・秋田県県南の横手市と湯沢市。11〜1月は450年の伝統を誇る小正月行事「横手のかまくら」の白銀情景が広がり。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: 'みちのくの豪雪地帯・秋田県県南の横手市と湯沢市。11〜1月は450年の伝統を誇る小正月行事「横手のかまくら」の白銀情景が広がり。',
     url: 'https://croud-travel.pages.dev/winter-akita-yokote-kamakura-oyasukyo-shigakko-inaniwa-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',

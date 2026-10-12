@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '宮城鳴子温泉郷で過ごす冬の旅（11・12月）！多彩な源泉めぐりと初冬の鳴子峡！名宿5選',
-  description: '11月から12月にかけて鳴子峡に初雪が舞い、奥羽山脈の山懐に静寂が訪れるみちのく随一の名湯「鳴子温泉郷」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて鳴子峡に初雪が舞い、奥羽山脈の山懐に静寂が訪れるみちのく随一の名湯「鳴子温泉郷」。',
   keywords: '鳴子温泉 宿泊, 鳴子温泉郷 11月 12月, 鳴子ホテル, 鳴子風雅, 湯元 吉祥, 旅館すがわら, 旅館大沼, 鳴子峡 冬景色, 鳴子こけし, 仙台牛 すき焼き, 鳴子 栗だんご',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-miyagi-naruko-onsen-yukimi-sendai-beef-stay/",
   },
   openGraph: {
     title: '宮城鳴子温泉郷で過ごす冬の旅（11・12月）！多彩な源泉めぐりと初冬の鳴子峡！名宿5選',
-    description: '11月から12月にかけて鳴子峡に初雪が舞い、奥羽山脈の山懐に静寂が訪れるみちのく随一の名湯「鳴子温泉郷」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて鳴子峡に初雪が舞い、奥羽山脈の山懐に静寂が訪れるみちのく随一の名湯「鳴子温泉郷」。',
     url: 'https://croud-travel.pages.dev/winter-miyagi-naruko-onsen-yukimi-sendai-beef-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/106199/106199.jpg',
         width: 1200,
         height: 630,
         alt: "【11・12月宮城鳴子温泉郷の冬湯治と雪見露天】多彩な源泉めぐりと初冬の鳴子峡・極上仙台牛すき焼き＆奥羽郷土会席の宿5選",
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "宮城鳴子温泉郷の冬湯治と雪見露天で過ごす冬の旅（11・12月）！多彩な源泉めぐりと初冬の鳴子峡・極上仙台牛すき焼き＆奥羽郷土会席の宿5選",
     description: "11月から12月にかけて鳴子峡に初雪が舞い、奥羽山脈の山懐に静寂が訪れるみちのく随一の名湯「鳴子温泉郷」。日本に存在する11の泉質のうち実に9種類が集まる奇跡の温泉地で、乳白色・エメラルドグリーン・黒湯など多彩な源泉掛け流しの雪見風呂を堪能。手削りの鳴子こけしが並ぶノスタルジックな湯治街の散策、最高級A5ランク「仙台牛」のすき焼きや陶板焼き、名物栗だんごや奥羽の山里会席を満喫する厳選名宿5選を徹底解説。",
-    images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80'],
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/106199/106199.jpg'],
   }
 };
 
@@ -71,7 +71,7 @@ export default function NarukoOnsenWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-miyagi-naruko-onsen-yukimi-sendai-beef-stay#article",
         "headline": "【11・12月宮城鳴子温泉郷の冬湯治と雪見露天】多彩な源泉めぐりと初冬の鳴子峡・極上仙台牛すき焼き＆奥羽郷土会席の宿5選",
         "description": "11月から12月にかけて鳴子峡に初雪が舞い、奥羽山脈の山懐に静寂が訪れるみちのく随一の名湯「鳴子温泉郷」。日本に存在する11の泉質のうち実に9種類が集まる奇跡の温泉地で、乳白色・エメラルドグリーン・黒湯など多彩な源泉掛け流しの雪見風呂を堪能。手削りの鳴子こけしが並ぶノスタルジックな湯治街の散策、最高級A5ランク「仙台牛」のすき焼きや陶板焼き、名物栗だんごや奥羽の山里会席を満喫する厳選名宿5選を徹底解説。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/106199/106199.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {
@@ -286,7 +286,7 @@ export default function NarukoOnsenWinterPage() {
       {/* Hero Header */}
       <header className="relative h-[520px] md:h-[620px] flex items-center justify-center text-white overflow-hidden bg-slate-950">
         <Image
-          src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1600&q=85"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/106199/106199.jpg"
           alt="奥羽山脈の初雪に煙る鳴子温泉郷と多彩な源泉掛け流しの雪見露天風呂"
           fill
           priority

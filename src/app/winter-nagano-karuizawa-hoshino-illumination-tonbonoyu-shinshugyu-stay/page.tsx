@@ -9,19 +9,19 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月長野：星野エリアもみの木イルミネーション！名宿5選',
-  description: '11月から1月、浅間山の南麓に位置する避暑地・軽井沢は、観光の喧騒が去り、澄み切った青空と白銀の静寂に包まれる最も美しい季節を迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から1月、浅間山の南麓に位置する避暑地・軽井沢は、観光の喧騒が去り、澄み切った青空と白銀の静寂に包まれる最も美しい季節を迎えます。',
   keywords: '軽井沢 冬 旅行, 星野エリア イルミネーション, 星野温泉 トンボの湯, 軽井沢高原教会 キャンドルナイト, ハルニレテラス 冬, 軽井沢プリンスホテル イースト, ホテルインディゴ軽井沢, ルシアン旧軽井沢, 軽井沢プリンスホテル ウエスト, 旧軽井沢ホテル音羽ノ森, 信州プレミアム牛 薪火, 11月 12月 1月 長野旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagano-karuizawa-hoshino-illumination-tonbonoyu-shinshugyu-stay/"
   },
   openGraph: {
     title: '11・12・1月長野：星野エリアもみの木イルミネーション！名宿5選',
-    description: '11月から1月、浅間山の南麓に位置する避暑地・軽井沢は、観光の喧騒が去り、澄み切った青空と白銀の静寂に包まれる最も美しい季節を迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から1月、浅間山の南麓に位置する避暑地・軽井沢は、観光の喧騒が去り、澄み切った青空と白銀の静寂に包まれる最も美しい季節を迎えます。',
     url: 'https://croud-travel.pages.dev/winter-nagano-karuizawa-hoshino-illumination-tonbonoyu-shinshugyu-stay',
     siteName: 'クラドトラベル',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/181343/181343.jpg',
         width: 1200,
         height: 630,
         alt: '冬の軽井沢の森と星野エリアのイルミネーション'
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月長野：冬の軽井沢高原リゾート・星野エリアもみの木イルミネーション＆星野温泉トンボの湯雪見風呂・信州プレミアム牛薪火ディナーを満喫する極上高原名宿5選",
     description: "11月から1月、浅間山の南麓に位置する避暑地・軽井沢は、観光の喧騒が去り、澄み切った青空と白銀の静寂に包まれる最も美しい季節を迎えます。星野エリアに輝く高さ10mの天然もみの木イルミネーション、湯煙漂う美肌の湯「星野温泉 トンボの湯」の雪見露天風呂、せせらぎ沿いに薪ストーブが灯るハルニレテラス、そして冬の寒気の中で味わう信州プレミアム牛の薪火グリルや本格フレンチ。冬の軽井沢の洗練されたリゾートステイを叶える厳選名宿5選と1泊2日の冬のモデルコースを徹底解説します。",
-    images: ['https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?auto=format&fit=crop&w=1200&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/181343/181343.jpg']
   }
 };
 
@@ -44,7 +44,7 @@ export default function NaganoKaruizawaHoshinoWinterPage() {
     '@type': 'Article',
     headline: "11・12・1月長野：冬の軽井沢高原リゾート・星野エリアもみの木イルミネーション＆星野温泉トンボの湯雪見風呂・信州プレミアム牛薪火ディナーを満喫する極上高原名宿5選",
     description: "11月から1月、浅間山の南麓に位置する避暑地・軽井沢は、観光の喧騒が去り、澄み切った青空と白銀の静寂に包まれる最も美しい季節を迎えます。星野エリアに輝く高さ10mの天然もみの木イルミネーション、湯煙漂う美肌の湯「星野温泉 トンボの湯」の雪見露天風呂、せせらぎ沿いに薪ストーブが灯るハルニレテラス、そして冬の寒気の中で味わう信州プレミアム牛の薪火グリルや本格フレンチ。冬の軽井沢の洗練されたリゾートステイを叶える厳選名宿5選と1泊2日の冬のモデルコースを徹底解説します。",
-    image: 'https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://img.travel.rakuten.co.jp/share/HOTEL/181343/181343.jpg',
     datePublished: '',
     dateModified: '',
     author: {
@@ -270,7 +270,7 @@ export default function NaganoKaruizawaHoshinoWinterPage() {
       <header className="relative bg-slate-950 text-white overflow-hidden py-16 sm:py-24">
         <div className="absolute inset-0 opacity-35 mix-blend-overlay">
           <img 
-            src="https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?auto=format&fit=crop&w=1800&q=80" 
+            src="https://img.travel.rakuten.co.jp/share/HOTEL/181343/181343.jpg" 
             alt="冬の軽井沢の森と星野エリアのイルミネーション" 
             className="w-full h-full object-cover"
           />

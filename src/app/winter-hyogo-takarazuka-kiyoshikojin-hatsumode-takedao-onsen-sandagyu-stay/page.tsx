@@ -7,19 +7,19 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月兵庫：武田尾温泉の秘湯雪見露天！名宿5選',
-  description: '夢の舞台が華やぐ宝塚大劇場と、武庫川渓谷の奥深くに隠された秘湯・武田尾温泉を巡る11〜1月の冬紀行。「火の神・台所の神」として関西一円から信。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '夢の舞台が華やぐ宝塚大劇場と、武庫川渓谷の奥深くに隠された秘湯・武田尾温泉を巡る11〜1月の冬紀行。「火の神・台所の神」として関西一円から信。',
   keywords: '宝塚大劇場 冬, 清荒神 初詣, 中山寺 初詣, 武田尾温泉 紅葉舘別庭あざれ, 宝塚ホテル, ホテル若水, 三田牛, 宝塚温泉, 兵庫 冬旅行, 隈研吾 温泉',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-hyogo-takarazuka-kiyoshikojin-hatsumode-takedao-onsen-sandagyu-stay'
   },
   openGraph: {
     title: '11・12・1月兵庫：武田尾温泉の秘湯雪見露天！名宿5選',
-    description: '夢の舞台が華やぐ宝塚大劇場と、武庫川渓谷の奥深くに隠された秘湯・武田尾温泉を巡る11〜1月の冬紀行。「火の神・台所の神」として関西一円から信。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '夢の舞台が華やぐ宝塚大劇場と、武庫川渓谷の奥深くに隠された秘湯・武田尾温泉を巡る11〜1月の冬紀行。「火の神・台所の神」として関西一円から信。',
     url: 'https://croud-travel.pages.dev/winter-hyogo-takarazuka-kiyoshikojin-hatsumode-takedao-onsen-sandagyu-stay',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/76395/76395.jpg',
         width: 1200,
         height: 630,
         alt: '冬の武庫川渓谷に佇む武田尾温泉の湯けむりと宝塚大劇場の優雅な佇まい'
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月兵庫：宝塚大劇場冬公演と「清荒神清澄寺」新春初詣！武田尾温泉の秘湯雪見露天＆極上「三田牛」厳選名宿5選",
     description: "夢の舞台が華やぐ宝塚大劇場と、武庫川渓谷の奥深くに隠された秘湯・武田尾温泉を巡る11〜1月の冬紀行。「火の神・台所の神」として関西一円から信仰を集める清荒神清澄寺や聖徳太子創建の中山寺で迎える厳かな新春初詣。隈研吾氏設計の離れで味わう武田尾温泉の自家源泉ラドン露天風呂、大劇場オフィシャルホテルの気品あふれる滞在。兵庫県最高峰のブランド黒毛和牛「三田牛」のすき焼きや冬のぼたん鍋を堪能する厳選名宿5選を徹底特集。",
-    images: ['https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&h=630&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/76395/76395.jpg']
   }
 };
 
@@ -42,7 +42,7 @@ export default function HyogoTakarazukaWinterPage() {
     "@type": "Article",
     "headline": "【11・12・1月兵庫】宝塚大劇場冬公演と「清荒神清澄寺」新春初詣！武田尾温泉の秘湯雪見露天＆極上「三田牛」厳選名宿5選",
     "description": "夢の舞台が華やぐ宝塚大劇場と、武庫川渓谷の奥深くに隠された秘湯・武田尾温泉を巡る11〜1月の冬紀行。「火の神・台所の神」として関西一円から信仰を集める清荒神清澄寺や聖徳太子創建の中山寺で迎える厳かな新春初詣。隈研吾氏設計の離れで味わう武田尾温泉の自家源泉ラドン露天風呂、大劇場オフィシャルホテルの気品あふれる滞在。兵庫県最高峰のブランド黒毛和牛「三田牛」のすき焼きや冬のぼたん鍋を堪能する厳選名宿5選を徹底特集。",
-    "image": "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&h=630&q=80",
+    "image": "https://img.travel.rakuten.co.jp/share/HOTEL/76395/76395.jpg",
     "datePublished": "T00:00:00+09:00",
     "dateModified": "T00:00:00+09:00",
     "author": {

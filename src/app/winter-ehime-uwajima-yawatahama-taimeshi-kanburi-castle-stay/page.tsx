@@ -8,19 +8,19 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月愛媛：宇和海寒ブリ！名宿5選',
-  description: '四国南予の歴史と海の幸に酔いしれる11〜1月の冬旅ガイド。日本に12基しか残らない現存天守「宇和島城」の冬の静寂と伊達十万石の城下町散策。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '四国南予の歴史と海の幸に酔いしれる11〜1月の冬旅ガイド。日本に12基しか残らない現存天守「宇和島城」の冬の静寂と伊達十万石の城下町散策。',
   keywords: '宇和島鯛めし 本場, 宇和島城 現存天守, 宇和海 寒ブリ, 八幡浜ちゃんぽん, 南予 ホテル, 宇和島 オリエンタルホテル, クレメント宇和島, だてまぐろ, 愛媛 冬 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-ehime-uwajima-yawatahama-taimeshi-kanburi-castle-stay/"
   },
   openGraph: {
     title: '11・12・1月愛媛：宇和海寒ブリ！名宿5選',
-    description: '四国南予の歴史と海の幸に酔いしれる11〜1月の冬旅ガイド。日本に12基しか残らない現存天守「宇和島城」の冬の静寂と伊達十万石の城下町散策。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '四国南予の歴史と海の幸に酔いしれる11〜1月の冬旅ガイド。日本に12基しか残らない現存天守「宇和島城」の冬の静寂と伊達十万石の城下町散策。',
     url: 'https://croud-travel.pages.dev/winter-ehime-uwajima-yawatahama-taimeshi-kanburi-castle-stay',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/789/789.jpg',
         width: 1200,
         height: 630,
         alt: '冬の愛媛・宇和島城現存天守と本場宇和島鯛めし'
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月愛媛：宇和島城の冬情趣と本場「宇和島鯛めし」・宇和海寒ブリ！八幡浜ちゃんぽん＆南予の名宿5選",
     description: "四国南予の歴史と海の幸に酔いしれる11〜1月の冬旅ガイド。日本に12基しか残らない現存天守「宇和島城」の冬の静寂と伊達十万石の城下町散策。宇和海の荒波で脂が乗り切った真鯛に生卵と甘辛タレを絡める本場「宇和島鯛めし」や、真冬が旬の「宇和海寒ブリ」「だてまぐろ（本マグロ）」、極甘の南予みかん、そして八幡浜港のソウルフード「八幡浜ちゃんぽん」。宇和島・八幡浜の観光拠点として最適な厳選ホテル・温泉宿5選を徹底解説します。",
-    images: ['https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&h=630&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/789/789.jpg']
   }
 };
 
@@ -43,7 +43,7 @@ export default function EhimeUwajimaYawatahamaWinterPage() {
         "@type": "Article",
         "headline": "【11・12・1月愛媛】宇和島城の冬情趣と本場「宇和島鯛めし」・宇和海寒ブリ！八幡浜ちゃんぽん＆南予の名宿5選",
         "description": "四国南予の歴史と海の幸に酔いしれる11〜1月の冬旅ガイド。日本に12基しか残らない現存天守「宇和島城」の冬の静寂と伊達十万石の城下町散策。宇和海の荒波で脂が乗り切った真鯛に生卵と甘辛タレを絡める本場「宇和島鯛めし」や、真冬が旬の「宇和海寒ブリ」「だてまぐろ（本マグロ）」、極甘の南予みかん、そして八幡浜港のソウルフード「八幡浜ちゃんぽん」。宇和島・八幡浜の観光拠点として最適な厳選ホテル・温泉宿5選を徹底解説します。",
-        "image": "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&h=630&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/789/789.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {

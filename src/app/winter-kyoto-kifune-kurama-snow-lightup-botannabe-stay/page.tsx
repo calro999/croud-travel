@@ -9,19 +9,19 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月京都：白銀の貴船神社！名宿5選',
-  description: '11月から1月、京都市街地の喧騒から離れた京都洛北の奥座敷「貴船・鞍馬」は、凛とした冬の澄んだ空気と幽玄の白銀世界に包まれます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から1月、京都市街地の喧騒から離れた京都洛北の奥座敷「貴船・鞍馬」は、凛とした冬の澄んだ空気と幽玄の白銀世界に包まれます。',
   keywords: '貴船神社 積雪ライトアップ, 貴船 ぼたん鍋, 貴船ふじや, 右源太 貴船, 貴船 ひろや, 京都奥座敷 宿泊, 叡山電鉄 きらら, 11月 12月 1月 京都旅行, 鞍馬寺 雪景色',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay/"
   },
   openGraph: {
     title: '11・12・1月京都：白銀の貴船神社！名宿5選',
-    description: '11月から1月、京都市街地の喧騒から離れた京都洛北の奥座敷「貴船・鞍馬」は、凛とした冬の澄んだ空気と幽玄の白銀世界に包まれます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から1月、京都市街地の喧騒から離れた京都洛北の奥座敷「貴船・鞍馬」は、凛とした冬の澄んだ空気と幽玄の白銀世界に包まれます。',
     url: 'https://croud-travel.pages.dev/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay',
     siteName: 'クラドトラベル',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/67265/67265.jpg',
         width: 1200,
         height: 630,
         alt: '白銀の貴船神社ライトアップと冬の京都奥座敷'
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月京都：白銀の貴船神社・積雪日限定ライトアップと冬の京都奥座敷・極上天然猪肉ぼたん鍋＆京都牛を愉しむ静寂の名宿5選",
     description: "11月から1月、京都市街地の喧騒から離れた京都洛北の奥座敷「貴船・鞍馬」は、凛とした冬の澄んだ空気と幽玄の白銀世界に包まれます。夏の川床で名高い貴船ですが、冬こそが静寂に浸れる通好みの季節。降雪時のみ開催される貴船神社の「積雪日限定ライトアップ」では、朱色の春日灯籠が並ぶ石段参道に白雪が降り積もり、闇夜に浮かび上がる光景は息を呑むほどの幻想美を誇ります。この季節の主役は、雪景色を眺めながら座敷や囲炉裏でいただく冬の美食。京都丹波の山々で獲れた極上の「天然猪肉のぼたん鍋」をはじめ、とろける甘みの「京都牛」すき焼き、名物すっぽん鍋、汲み上げ湯葉、雪深い川の恵みを活かした川魚料理が贅沢に並びます。叡山電鉄「きらら」の車窓から望む冬景色と、清流・貴船川のせせらぎに癒やされる厳選料理旅館5宿を徹底ガイドします。",
-    images: ['https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/67265/67265.jpg']
   }
 };
 
@@ -53,7 +53,7 @@ export default function KyotoKifuneKuramaPage() {
         },
         "headline": "【11・12・1月京都】白銀の貴船神社・積雪日限定ライトアップと冬の京都奥座敷・極上天然猪肉ぼたん鍋＆京都牛を愉しむ静寂の名宿5選",
         "description": "11月から1月、京都市街地の喧騒から離れた京都洛北の奥座敷「貴船・鞍馬」は、凛とした冬の澄んだ空気と幽玄の白銀世界に包まれます。夏の川床で名高い貴船ですが、冬こそが静寂に浸れる通好みの季節。降雪時のみ開催される貴船神社の「積雪日限定ライトアップ」では、朱色の春日灯籠が並ぶ石段参道に白雪が降り積もり、闇夜に浮かび上がる光景は息を呑むほどの幻想美を誇ります。この季節の主役は、雪景色を眺めながら座敷や囲炉裏でいただく冬の美食。京都丹波の山々で獲れた極上の「天然猪肉のぼたん鍋」をはじめ、とろける甘みの「京都牛」すき焼き、名物すっぽん鍋、汲み上げ湯葉、雪深い川の恵みを活かした川魚料理が贅沢に並びます。叡山電鉄「きらら」の車窓から望む冬景色と、清流・貴船川のせせらぎに癒やされる厳選料理旅館5宿を徹底ガイドします。",
-        "image": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/67265/67265.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {
@@ -236,7 +236,7 @@ export default function KyotoKifuneKuramaPage() {
       <header className="relative bg-gradient-to-b from-stone-900 via-stone-800 to-stone-900 text-white py-16 sm:py-24 px-4 sm:px-6 lg:px-8">
         <div className="absolute inset-0 opacity-30 mix-blend-overlay overflow-hidden">
           <img 
-            src="https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1920&q=80" 
+            src="https://img.travel.rakuten.co.jp/share/HOTEL/67265/67265.jpg" 
             alt="雪の貴船神社ライトアップ背景" 
             className="w-full h-full object-cover"
           />

@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '浜名湖 舘山寺温泉で過ごす冬の旅（11・12月）！名物冬うなぎ！名宿5選',
-  description: '11月から12月にかけて、静岡県西部に広がる浜名湖畔の舘山寺（かんざんじ）温泉は、遠州灘の冬の至宝「天然とらふぐ」が水揚げの最盛期を迎え。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、静岡県西部に広がる浜名湖畔の舘山寺（かんざんじ）温泉は、遠州灘の冬の至宝「天然とらふぐ」が水揚げの最盛期を迎え。',
   keywords: '舘山寺温泉 宿泊, 浜名湖 温泉 11月 12月, ホテル ウェルシーズン浜名湖, 山水館欣龍, ホテル鞠水亭, 時わすれ 開華亭, グランドメルキュール浜名湖, 遠州灘 天然とらふぐ, 浜名湖うなぎ, 浜名湖 レイクビュー露天',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay/"
   },
   openGraph: {
     title: '浜名湖 舘山寺温泉で過ごす冬の旅（11・12月）！名物冬うなぎ！名宿5選',
-    description: '11月から12月にかけて、静岡県西部に広がる浜名湖畔の舘山寺（かんざんじ）温泉は、遠州灘の冬の至宝「天然とらふぐ」が水揚げの最盛期を迎え。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、静岡県西部に広がる浜名湖畔の舘山寺（かんざんじ）温泉は、遠州灘の冬の至宝「天然とらふぐ」が水揚げの最盛期を迎え。',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/3112/3112.jpg',
         width: 1200,
         height: 630,
         alt: '初冬の浜名湖と舘山寺温泉のレイクビュー露天風呂'
@@ -69,7 +69,7 @@ export default function ShizuokaKanzanjiWinterFeature() {
         },
         "headline": "【11・12月静岡・浜名湖 舘山寺温泉の初冬レイクビューと遠州灘天然とらふぐ】名物冬うなぎ＆湖畔パノラマ展望露天風呂の宿5選",
         "description": "11月から12月にかけて、静岡県西部に広がる浜名湖畔の舘山寺（かんざんじ）温泉は、遠州灘の冬の至宝「天然とらふぐ」が水揚げの最盛期を迎え、脂が乗った名物「浜名湖うなぎ」とともに年間で最も贅沢な美食シーズンに突入します。初冬の澄み渡る青空のもと、湖面越しに遠く冠雪した富士山を望む絶景露天風呂や、舘山寺ロープウェイから眺める夕暮れのパノラマは圧巻。冷えた身体を芯から温める良質な塩化物温泉と、極上の冬の味覚を心ゆくまで堪能できる厳選の温泉宿・リゾートホテル5選を詳しく解説します。",
-        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&h=630&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/3112/3112.jpg",
         "datePublished": "T11:00:00+09:00",
         "dateModified": "T11:00:00+09:00",
         "publisher": {
@@ -234,7 +234,7 @@ export default function ShizuokaKanzanjiWinterFeature() {
       {/* Header Banner */}
       <header className="relative w-full h-[360px] sm:h-[480px] flex items-end justify-center bg-slate-900 text-white overflow-hidden">
         <Image
-          src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/3112/3112.jpg"
           alt="初冬の浜名湖と舘山寺温泉レイクビュー"
           fill
           priority

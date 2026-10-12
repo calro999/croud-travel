@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '有馬温泉で過ごす冬の旅（11・12月）！日本最古の名湯で芯から温まる冬！名宿5選',
-  description: '日本三古湯・三名泉の筆頭として豊臣秀吉もこよなく愛した兵庫・有馬温泉。11月の瑞宝寺公園の紅葉の余韻から。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '日本三古湯・三名泉の筆頭として豊臣秀吉もこよなく愛した兵庫・有馬温泉。11月の瑞宝寺公園の紅葉の余韻から。',
   keywords: '有馬温泉 宿泊 11月 12月, 有馬温泉 金泉 銀泉, 有馬温泉 神戸牛 旅館, 兵衛向陽閣 有馬グランドホテル, 有馬温泉 おすすめ 宿, 六甲山 夜景 有馬温泉, 有馬温泉 冬 モデルコース',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay/",
   },
   openGraph: {
     title: '有馬温泉で過ごす冬の旅（11・12月）！日本最古の名湯で芯から温まる冬！名宿5選',
-    description: '日本三古湯・三名泉の筆頭として豊臣秀吉もこよなく愛した兵庫・有馬温泉。11月の瑞宝寺公園の紅葉の余韻から。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '日本三古湯・三名泉の筆頭として豊臣秀吉もこよなく愛した兵庫・有馬温泉。11月の瑞宝寺公園の紅葉の余韻から。',
     url: 'https://croud-travel.pages.dev/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/8636/8636.jpg',
         width: 1200,
         height: 630,
         alt: "【11・12月有馬温泉の金泉銀泉と六甲山夜景】日本最古の名湯で芯から温まる冬・最高峰神戸牛会席を味わう老舗宿5選",
@@ -47,7 +47,7 @@ export default function ArimaWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay#article",
         "headline": "【11・12月有馬温泉の金泉銀泉と六甲山夜景】日本最古の名湯で芯から温まる冬・最高峰神戸牛会席を味わう老舗宿5選",
         "description": "日本三古湯・三名泉の筆頭として豊臣秀吉もこよなく愛した兵庫・有馬温泉。11月の瑞宝寺公園の紅葉の余韻から、12月の六甲山から望む澄み切った1000万ドルの冬夜景。海水の約2倍の塩分と鉄分を含み冬でも湯冷め知らずの赤茶色の名湯「金泉」と、世界最高峰「神戸牛」の贅沢なすき焼き・ステーキ会席を堪能する極上冬宿ガイド。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/8636/8636.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {
@@ -254,7 +254,7 @@ export default function ArimaWinterPage() {
       {/* Hero Header */}
       <header className="relative h-[520px] md:h-[620px] flex items-center justify-center text-white overflow-hidden bg-stone-950">
         <Image
-          src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1600&q=85"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/8636/8636.jpg"
           alt="冬の有馬温泉・湯けむり立ち上る赤茶色の金泉露天風呂と歴史ある温泉街の格子戸"
           fill
           priority

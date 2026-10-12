@@ -22,14 +22,14 @@ import {
 
 export const metadata: Metadata = {
   title: '冬の鳥取砂丘＆白兎神社初詣：本場松葉ガニ！名宿5選',
-  description: '冬の日本海からの寒風が織りなす奇跡の絶景「雪の鳥取砂丘」と神秘の風紋。日本神話『因幡の白兎』ゆかりの「白兎神社」新春縁結び初詣。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '冬の日本海からの寒風が織りなす奇跡の絶景「雪の鳥取砂丘」と神秘の風紋。日本神話『因幡の白兎』ゆかりの「白兎神社」新春縁結び初詣。',
   keywords: '鳥取砂丘, 雪砂丘, 風紋, 白兎神社, 初詣, 松葉ガニ, 鳥取温泉, 観水庭こぜにや, ホテルモナーク鳥取, ホテルニューオータニ鳥取, 冬の山陰旅行, 因幡の白兎',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-tottori-sand-dunes-snow-matsubagani-hakuto-shrine-stay',
   },
   openGraph: {
     title: '冬の鳥取砂丘＆白兎神社初詣：本場松葉ガニ！名宿5選',
-    description: '冬の日本海からの寒風が織りなす奇跡の絶景「雪の鳥取砂丘」と神秘の風紋。日本神話『因幡の白兎』ゆかりの「白兎神社」新春縁結び初詣。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '冬の日本海からの寒風が織りなす奇跡の絶景「雪の鳥取砂丘」と神秘の風紋。日本神話『因幡の白兎』ゆかりの「白兎神社」新春縁結び初詣。',
     url: 'https://croud-travel.pages.dev/winter-tottori-sand-dunes-snow-matsubagani-hakuto-shrine-stay',
     siteName: 'トラベルマップ - 日本の観光名所＆ホテル厳選ガイド',
     locale: 'ja_JP',

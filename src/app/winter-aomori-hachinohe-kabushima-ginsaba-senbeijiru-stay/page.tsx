@@ -9,19 +9,19 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月青森：蕪島神社初詣！名宿5選',
-  description: '11月から1月、青森県八戸市は日本一脂が乗る「八戸前沖銀鯖」の最盛期を迎え、出汁の染みた熱々の「八戸せんべい汁」が極上の美味を放ちます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から1月、青森県八戸市は日本一脂が乗る「八戸前沖銀鯖」の最盛期を迎え、出汁の染みた熱々の「八戸せんべい汁」が極上の美味を放ちます。',
   keywords: '八戸前沖さば, 銀鯖, 八戸せんべい汁, 八食センター, 七輪村, 蕪島神社 初詣, ドーミーイン本八戸, ダイワロイネットホテル八戸, グランドサンピア八戸, 八戸グランドホテル, コンフォートホテル八戸, みろく横丁, 11月 12月 1月 青森旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay/"
   },
   openGraph: {
     title: '11・12・1月青森：蕪島神社初詣！名宿5選',
-    description: '11月から1月、青森県八戸市は日本一脂が乗る「八戸前沖銀鯖」の最盛期を迎え、出汁の染みた熱々の「八戸せんべい汁」が極上の美味を放ちます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から1月、青森県八戸市は日本一脂が乗る「八戸前沖銀鯖」の最盛期を迎え、出汁の染みた熱々の「八戸せんべい汁」が極上の美味を放ちます。',
     url: 'https://croud-travel.pages.dev/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay',
     siteName: 'クラドトラベル',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/166325/166325.jpg',
         width: 1200,
         height: 630,
         alt: '冬の八戸港と太平洋の荒波・蕪島神社'
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月青森：八戸前沖銀鯖と本場せんべい汁・八食センター七輪村買い出し＆蕪島神社初詣・太平洋一望の八戸名宿5選",
     description: "11月から1月、青森県八戸市は日本一脂が乗る「八戸前沖銀鯖」の最盛期を迎え、出汁の染みた熱々の「八戸せんべい汁」が極上の美味を放ちます。年末年始の活気あふれる八食センターでの買い出しと七輪村の炭火焼き、金運と株価上昇を願う蕪島神社の新春初詣、横丁文化が息づくみろく横丁。冬の八戸を心ゆくまで満喫する厳選名宿5選とモデルコースを徹底ガイドします。",
-    images: ['https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/166325/166325.jpg']
   }
 };
 
@@ -44,7 +44,7 @@ export default function AomoriHachinoheKabushimaWinterPage() {
     '@type': 'Article',
     headline: "11・12・1月青森：八戸前沖銀鯖と本場せんべい汁・八食センター七輪村買い出し＆蕪島神社初詣・太平洋一望の八戸名宿5選",
     description: "11月から1月、青森県八戸市は日本一脂が乗る「八戸前沖銀鯖」の最盛期を迎え、出汁の染みた熱々の「八戸せんべい汁」が極上の美味を放ちます。年末年始の活気あふれる八食センターでの買い出しと七輪村の炭火焼き、金運と株価上昇を願う蕪島神社の新春初詣、横丁文化が息づくみろく横丁。冬の八戸を心ゆくまで満喫する厳選名宿5選とモデルコースを徹底ガイドします。",
-    image: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://img.travel.rakuten.co.jp/share/HOTEL/166325/166325.jpg',
     datePublished: '',
     dateModified: '',
     author: {
@@ -270,7 +270,7 @@ export default function AomoriHachinoheKabushimaWinterPage() {
       <header className="relative bg-slate-950 text-white overflow-hidden py-16 sm:py-24">
         <div className="absolute inset-0 opacity-35 mix-blend-overlay">
           <img 
-            src="https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1800&q=80" 
+            src="https://img.travel.rakuten.co.jp/share/HOTEL/166325/166325.jpg" 
             alt="冬の八戸港と太平洋の荒波・蕪島神社" 
             className="w-full h-full object-cover"
           />

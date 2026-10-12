@@ -7,19 +7,19 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月群馬：桐生新町と床もみじの名刹「宝徳寺」新春初詣！名宿5選',
-  description: '「西の西陣、東の桐生」と称された織物の都・桐生が最も静謐で趣深い表情を見せる11〜1月の冬旅特集。ピカピカに磨かれた本堂の漆床に雪景色や新春。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '「西の西陣、東の桐生」と称された織物の都・桐生が最も静謐で趣深い表情を見せる11〜1月の冬旅特集。ピカピカに磨かれた本堂の漆床に雪景色や新春。',
   keywords: '宝徳寺 床もみじ, 宝徳寺 初詣, ひもかわうどん 桐生, 桐生新町 重伝建, 上州牛 すき焼き, パークイン桐生, 梨木館, 桐生 グルメ 冬, 群馬 初詣 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-gunma-kiryu-houtokuji-hatsumode-himokawa-udon-joshugyu-stay/"
   },
   openGraph: {
     title: '11・12・1月群馬：桐生新町と床もみじの名刹「宝徳寺」新春初詣！名宿5選',
-    description: '「西の西陣、東の桐生」と称された織物の都・桐生が最も静謐で趣深い表情を見せる11〜1月の冬旅特集。ピカピカに磨かれた本堂の漆床に雪景色や新春。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '「西の西陣、東の桐生」と称された織物の都・桐生が最も静謐で趣深い表情を見せる11〜1月の冬旅特集。ピカピカに磨かれた本堂の漆床に雪景色や新春。',
     url: 'https://croud-travel.pages.dev/winter-gunma-kiryu-houtokuji-hatsumode-himokawa-udon-joshugyu-stay',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/8983/8983.jpg',
         width: 1200,
         height: 630,
         alt: '冬の宝徳寺本堂の床もみじと桐生新町のこぎり屋根情景'
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月群馬：織物の都・桐生新町と床もみじの名刹「宝徳寺」新春初詣！冬の熱々「幅広ひもかわうどん」＆上州牛・両毛名宿5選",
     description: "「西の西陣、東の桐生」と称された織物の都・桐生が最も静謐で趣深い表情を見せる11〜1月の冬旅特集。ピカピカに磨かれた本堂の漆床に雪景色や新春の光が映り込む名刹「宝徳寺」の新春特別祈祷、重要伝統的建造物群保存地区「桐生新町」ののこぎり屋根工場と白壁土蔵、幅十センチ以上にも及ぶ桐生名物「ひもかわうどん」の熱々肉汁仕立て、豊かな赤身と上質なサシを誇る「上州牛」すき焼き。桐生・みどり市エリアの滞在拠点に最適な厳選ホテル・名宿5選を徹底解説します。",
-    images: ['https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&h=630&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/8983/8983.jpg']
   }
 };
 
@@ -42,7 +42,7 @@ export default function GunmaKiryuWinterPage() {
     "@type": "Article",
     "headline": "【11・12・1月群馬】織物の都・桐生新町と床もみじの名刹「宝徳寺」新春初詣！冬の熱々「幅広ひもかわうどん」＆上州牛・両毛名宿5選",
     "description": "「西の西陣、東の桐生」と称された織物の都・桐生が最も静謐で趣深い表情を見せる11〜1月の冬旅特集。ピカピカに磨かれた本堂の漆床に雪景色や新春の光が映り込む名刹「宝徳寺」の新春特別祈祷、重要伝統的建造物群保存地区「桐生新町」ののこぎり屋根工場と白壁土蔵、幅十センチ以上にも及ぶ桐生名物「ひもかわうどん」の熱々肉汁仕立て、豊かな赤身と上質なサシを誇る「上州牛」すき焼き。桐生・みどり市エリアの滞在拠点に最適な厳選ホテル・名宿5選を徹底解説します。",
-    "image": "https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&h=630&q=80",
+    "image": "https://img.travel.rakuten.co.jp/share/HOTEL/8983/8983.jpg",
     "datePublished": "T12:00:00+09:00",
     "dateModified": "T12:00:00+09:00",
     "author": {

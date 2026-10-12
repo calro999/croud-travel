@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '沖縄で過ごす冬の旅（1月）！本部！名宿5選',
-  description: '本州が真冬の寒波に包まれる1月中旬、沖縄・やんばるの森から日本一早い春が始まります。標高453mの八重岳を濃いピンク色に染め上げる約7,00。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '本州が真冬の寒波に包まれる1月中旬、沖縄・やんばるの森から日本一早い春が始まります。標高453mの八重岳を濃いピンク色に染め上げる約7,00。',
   keywords: '本部 ホテル, 今帰仁 ホテル, 八重岳桜まつり, 今帰仁城跡 桜, オリオンモトブリゾート, アラマハイナコンドホテル, 美ら海水族館 ホテル, ヒルトン沖縄瀬底リゾート, 1月 沖縄 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-okinawa-motobu-nakijin-yaedake-sakura-festival-agu-resort-stay/"
   },
   openGraph: {
     title: '沖縄で過ごす冬の旅（1月）！本部！名宿5選',
-    description: '本州が真冬の寒波に包まれる1月中旬、沖縄・やんばるの森から日本一早い春が始まります。標高453mの八重岳を濃いピンク色に染め上げる約7,00。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '本州が真冬の寒波に包まれる1月中旬、沖縄・やんばるの森から日本一早い春が始まります。標高453mの八重岳を濃いピンク色に染め上げる約7,00。',
     url: 'https://croud-travel.pages.dev/winter-okinawa-motobu-nakijin-yaedake-sakura-festival-agu-resort-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',

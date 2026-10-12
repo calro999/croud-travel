@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '武雄温泉で過ごす冬の旅（11・12月）！国重文！名宿5選',
-  description: '1300年の歴史を誇り、東京駅を設計した辰野金吾が手がけた国重要文化財「朱塗りの楼門」がシンボルの名湯「武雄温泉」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '1300年の歴史を誇り、東京駅を設計した辰野金吾が手がけた国重要文化財「朱塗りの楼門」がシンボルの名湯「武雄温泉」。',
   keywords: '武雄温泉 宿泊, 武雄温泉 11月 12月, 御船山楽園ホテル, 懐石宿 扇屋, ホテル春慶屋, 京都屋 武雄, 風の森 奥武雄, 辰野金吾 朱塗り楼門, 佐賀牛 ステーキ, 御船山楽園 紅葉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-saga-takeo-onsen-romon-saga-beef-stay/",
   },
   openGraph: {
     title: '武雄温泉で過ごす冬の旅（11・12月）！国重文！名宿5選',
-    description: '1300年の歴史を誇り、東京駅を設計した辰野金吾が手がけた国重要文化財「朱塗りの楼門」がシンボルの名湯「武雄温泉」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '1300年の歴史を誇り、東京駅を設計した辰野金吾が手がけた国重要文化財「朱塗りの楼門」がシンボルの名湯「武雄温泉」。',
     url: 'https://croud-travel.pages.dev/winter-saga-takeo-onsen-romon-saga-beef-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/13417/13417.jpg',
         width: 1200,
         height: 630,
         alt: "【11・12月武雄温泉の冬名湯と最高峰佐賀牛】国重文・朱塗り楼門と1300年美肌古湯・御船山初冬風情＆極上佐賀牛会席の宿5選",
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "武雄温泉の冬名湯と最高峰佐賀牛で過ごす冬の旅（11・12月）！国重文・朱塗り楼門と1300年美肌古湯・御船山初冬風情＆極上佐賀牛会席の宿5選",
     description: "1300年の歴史を誇り、東京駅を設計した辰野金吾が手がけた国重要文化財「朱塗りの楼門」がシンボルの名湯「武雄温泉」。宮本武蔵やシーボルトも浸かった弱アルカリ性単純温泉のトロリとした美肌湯で癒やされ、11月の御船山楽園紅葉ライトアップから初冬の静寂、最高峰の肉質等級を誇る「佐賀牛」の鉄板焼き・すき焼き、とろける温泉湯豆腐を堪能。西九州新幹線でアクセスも快適な厳選名宿5選を徹底解説。",
-    images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80'],
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/13417/13417.jpg'],
   }
 };
 
@@ -71,7 +71,7 @@ export default function TakeoWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-saga-takeo-onsen-romon-saga-beef-stay#article",
         "headline": "【11・12月武雄温泉の冬名湯と最高峰佐賀牛】国重文・朱塗り楼門と1300年美肌古湯・御船山初冬風情＆極上佐賀牛会席の宿5選",
         "description": "1300年の歴史を誇り、東京駅を設計した辰野金吾が手がけた国重要文化財「朱塗りの楼門」がシンボルの名湯「武雄温泉」。宮本武蔵やシーボルトも浸かった弱アルカリ性単純温泉のトロリとした美肌湯で癒やされ、11月の御船山楽園紅葉ライトアップから初冬の静寂、最高峰の肉質等級を誇る「佐賀牛」の鉄板焼き・すき焼き、とろける温泉湯豆腐を堪能。西九州新幹線でアクセスも快適な厳選名宿5選を徹底解説。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/13417/13417.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {
@@ -286,7 +286,7 @@ export default function TakeoWinterPage() {
       {/* Hero Header */}
       <header className="relative h-[520px] md:h-[620px] flex items-center justify-center text-white overflow-hidden bg-stone-950">
         <Image
-          src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1600&q=85"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/13417/13417.jpg"
           alt="武雄温泉の辰野金吾設計朱塗り楼門と御船山楽園初冬庭園露天風呂・A5佐賀牛会席"
           fill
           priority

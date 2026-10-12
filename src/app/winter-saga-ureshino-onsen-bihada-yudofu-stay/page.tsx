@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '嬉野温泉で過ごす冬の旅（11・12月）！嬉野茶の香りと名物とろける温泉湯豆腐！名宿5選',
-  description: '斐乃上温泉、喜連川温泉と並び「日本三大美肌の湯」として名高い佐賀県・嬉野温泉。11月から12月にかけて恋しくなる冬の名物「とろける温泉湯豆腐」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '斐乃上温泉、喜連川温泉と並び「日本三大美肌の湯」として名高い佐賀県・嬉野温泉。11月から12月にかけて恋しくなる冬の名物「とろける温泉湯豆腐」。',
   keywords: '嬉野温泉 宿泊 11月 12月, 嬉野温泉湯豆腐 旅館, 和多屋別荘 嬉野, 大正屋 嬉野温泉, 茶心の宿 和楽園, 椎葉山荘 嬉野, 日本三大美肌の湯 佐賀, 佐賀牛 嬉野温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-saga-ureshino-onsen-bihada-yudofu-stay/",
   },
   openGraph: {
     title: '嬉野温泉で過ごす冬の旅（11・12月）！嬉野茶の香りと名物とろける温泉湯豆腐！名宿5選',
-    description: '斐乃上温泉、喜連川温泉と並び「日本三大美肌の湯」として名高い佐賀県・嬉野温泉。11月から12月にかけて恋しくなる冬の名物「とろける温泉湯豆腐」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '斐乃上温泉、喜連川温泉と並び「日本三大美肌の湯」として名高い佐賀県・嬉野温泉。11月から12月にかけて恋しくなる冬の名物「とろける温泉湯豆腐」。',
     url: 'https://croud-travel.pages.dev/winter-saga-ureshino-onsen-bihada-yudofu-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/40527/40527.jpg',
         width: 1200,
         height: 630,
         alt: "【11・12月嬉野温泉の日本三大美肌湯と冬情緒】嬉野茶の香りと名物とろける温泉湯豆腐＆極上佐賀牛の宿5選",
@@ -66,7 +66,7 @@ export default function UreshinoWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-saga-ureshino-onsen-bihada-yudofu-stay#article",
         "headline": "【11・12月嬉野温泉の日本三大美肌湯と冬情緒】嬉野茶の香りと名物とろける温泉湯豆腐＆極上佐賀牛の宿5選",
         "description": "斐乃上温泉、喜連川温泉と並び「日本三大美肌の湯」として名高い佐賀県・嬉野温泉。11月から12月にかけて恋しくなる冬の名物「とろける温泉湯豆腐」、嬉野茶の茶香炉が漂う風情豊かな温泉街、とろみのある重曹泉の露天風呂、そして最高峰A5ランク佐賀牛を心ゆくまで堪能する名宿ガイド。",
-        "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/40527/40527.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {
@@ -247,7 +247,7 @@ export default function UreshinoWinterPage() {
       {/* Hero Header */}
       <header className="relative h-[520px] md:h-[620px] flex items-center justify-center text-white overflow-hidden bg-stone-950">
         <Image
-          src="https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1600&q=85"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/40527/40527.jpg"
           alt="嬉野温泉・日本三大美肌の湯と初冬の茶畑風景・温泉湯豆腐の風情"
           fill
           priority

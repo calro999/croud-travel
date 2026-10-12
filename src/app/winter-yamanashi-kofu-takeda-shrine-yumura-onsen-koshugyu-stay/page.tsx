@@ -9,17 +9,17 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月山梨：武田神社新春初詣！名宿5選',
-  description: '冬の山梨・甲府盆地は、白雪をまとった霊峰富士や南アルプス、八ヶ岳の壮大な連峰が青空に際立つ絶景の季節。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '冬の山梨・甲府盆地は、白雪をまとった霊峰富士や南アルプス、八ヶ岳の壮大な連峰が青空に際立つ絶景の季節。',
   keywords: '甲府 ホテル, 武田神社 初詣, 湯村温泉, 常磐ホテル, 信玄の隠し湯, 甲州牛 すき焼き, 甲府 ほうとう, 甲府城 富士山, 11月 12月 1月 山梨 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamanashi-kofu-takeda-shrine-yumura-onsen-koshugyu-stay/"
   },
   openGraph: {
     title: '11・12・1月山梨：武田神社新春初詣！名宿5選',
-    description: '冬の山梨・甲府盆地は、白雪をまとった霊峰富士や南アルプス、八ヶ岳の壮大な連峰が青空に際立つ絶景の季節。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '冬の山梨・甲府盆地は、白雪をまとった霊峰富士や南アルプス、八ヶ岳の壮大な連峰が青空に際立つ絶景の季節。',
     url: 'https://croud-travel.pages.dev/winter-yamanashi-kofu-takeda-shrine-yumura-onsen-koshugyu-stay',
     type: 'article',
-    images: [{ url: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=630', width: 1200, height: 630, alt: '武田神社新春初詣と湯村温泉雪見風呂' }]
+    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/9045/9045.jpg', width: 1200, height: 630, alt: '武田神社新春初詣と湯村温泉雪見風呂' }]
   },
   twitter: {
     card: 'summary_large_image',

@@ -6,14 +6,14 @@ import { Star, MapPin, CheckCircle2, Sparkles, Calendar, Utensils, Compass, Exte
 
 export const metadata: Metadata = {
   title: '11・12・1月福岡：万葉の古湯二日市温泉と博多和牛の！名宿5選',
-  description: '11月から1月、福岡・太宰府は本格的な受験シーズンの合格祈願と、新春三が日に200万人以上が訪れる日本屈指の初詣で最も熱気と神気に包まれる季。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から1月、福岡・太宰府は本格的な受験シーズンの合格祈願と、新春三が日に200万人以上が訪れる日本屈指の初詣で最も熱気と神気に包まれる季。',
   keywords: '太宰府天満宮 初詣 混雑, 太宰府 合格祈願 宿泊, 梅ヶ枝餅 名物, 二日市温泉 旅館, 博多和牛 宿, 大丸別荘, HOTEL CULTIA 太宰府, ルートイングランティア太宰府, 扇屋旅館, 二日市グリーンホテル, 11月 12月 1月 福岡旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukuoka-dazaifu-tenmangu-hatsumode-futsukaichi-beef-stay/"
   },
   openGraph: {
     title: '11・12・1月福岡：万葉の古湯二日市温泉と博多和牛の！名宿5選',
-    description: '11月から1月、福岡・太宰府は本格的な受験シーズンの合格祈願と、新春三が日に200万人以上が訪れる日本屈指の初詣で最も熱気と神気に包まれる季。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から1月、福岡・太宰府は本格的な受験シーズンの合格祈願と、新春三が日に200万人以上が訪れる日本屈指の初詣で最も熱気と神気に包まれる季。',
     url: 'https://croud-travel.pages.dev/winter-fukuoka-dazaifu-tenmangu-hatsumode-futsukaichi-beef-stay',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/38630/38630.jpg', width: 1200, height: 630, alt: '太宰府天満宮初詣と二日市温泉名宿' }]

@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '北海道で過ごす冬の旅（12・1月）！然別湖！名宿5選',
-  description: '大雪山国立公園の南端、北海道で最も標高の高い自然湖・然別湖が厚い氷に閉ざされる12〜1月。完全結氷した湖上にわずか60日間だけ現れる幻の村「。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '大雪山国立公園の南端、北海道で最も標高の高い自然湖・然別湖が厚い氷に閉ざされる12〜1月。完全結氷した湖上にわずか60日間だけ現れる幻の村「。',
   keywords: '然別湖コタン ホテル, 然別湖畔温泉ホテル風水, 氷上露天風呂 然別湖, ぬかびら源泉郷 旅館, タウシュベツ川橋梁 冬, 十勝ハーブ牛, サホロリゾート, 十勝川温泉 観月苑, モール温泉, 12月 1月 北海道 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hokkaido-shikaribetsu-kotan-nukabira-onsen-ice-stay/"
   },
   openGraph: {
     title: '北海道で過ごす冬の旅（12・1月）！然別湖！名宿5選',
-    description: '大雪山国立公園の南端、北海道で最も標高の高い自然湖・然別湖が厚い氷に閉ざされる12〜1月。完全結氷した湖上にわずか60日間だけ現れる幻の村「。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '大雪山国立公園の南端、北海道で最も標高の高い自然湖・然別湖が厚い氷に閉ざされる12〜1月。完全結氷した湖上にわずか60日間だけ現れる幻の村「。',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-shikaribetsu-kotan-nukabira-onsen-ice-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',

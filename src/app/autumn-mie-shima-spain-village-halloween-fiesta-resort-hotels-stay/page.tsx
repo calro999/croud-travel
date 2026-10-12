@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     type: 'article',
     locale: 'ja_JP',
     images: [{
-      url: 'https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=1200&q=80',
+      url: 'https://img.travel.rakuten.co.jp/share/HOTEL/7770/7770.jpg',
       width: 1200,
       height: 630,
       alt: '秋の志摩スペイン村 パルケエスパーニャと白壁の街並み'
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "秋の志摩スペイン村パルケエスパーニャ：情熱のハロウィーンフィエスタ！フォトジェニックなカボチャ広場・限定パレード＆伊勢志摩温泉リゾート厳選名宿5選",
     description: "陽光あふれる情熱の国スペインを再現したテーマパーク「志摩スペイン村パルケエスパーニャ」。秋にはパーク全体がオレンジ色に染まる「ハロウィーンフィエスタ」が開幕！マヨール広場に登場する巨大な「モンスターパンプキン」のフォトスポットや、ハロウィーン限定衣装をまとったドンキホーテや仲間たちとのグリーティング、陽気なフラメンコショーが繰り広げられます。異国情緒あふれる白壁の街並みで味わう本場パエリャやチュロス、そしてパーク隣接の南欧風リゾートホテルや英虞湾の絶景を望む極上天然温泉名宿5選を徹底特集。",
-    images: ['https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=1200&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/7770/7770.jpg']
   }
 };
 
@@ -39,7 +39,7 @@ export default function ShimaSpanishHalloweenFeaturePage() {
     "@type": "Article",
     "headline": "【秋の志摩スペイン村パルケエスパーニャ】情熱のハロウィーンフィエスタ！フォトジェニックなカボチャ広場・限定パレード＆伊勢志摩温泉リゾート厳選名宿5選",
     "description": "陽光あふれる情熱の国スペインを再現したテーマパーク「志摩スペイン村パルケエスパーニャ」。秋にはパーク全体がオレンジ色に染まる「ハロウィーンフィエスタ」が開幕！マヨール広場に登場する巨大な「モンスターパンプキン」のフォトスポットや、ハロウィーン限定衣装をまとったドンキホーテや仲間たちとのグリーティング、陽気なフラメンコショーが繰り広げられます。異国情緒あふれる白壁の街並みで味わう本場パエリャやチュロス、そしてパーク隣接の南欧風リゾートホテルや英虞湾の絶景を望む極上天然温泉名宿5選を徹底特集。",
-    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://img.travel.rakuten.co.jp/share/HOTEL/7770/7770.jpg",
     "datePublished": "T10:00:00+09:00",
     "dateModified": "T10:00:00+09:00",
     "author": {

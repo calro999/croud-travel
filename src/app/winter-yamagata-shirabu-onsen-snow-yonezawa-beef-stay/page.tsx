@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '白布温泉で過ごす冬の旅（11・12月）！西吾妻山の豪雪秘湯と開湯700年の名物湯滝！名宿5選',
-  description: '11月中旬から深い雪に包まれる山形県米沢市の秘境・西吾妻山山麓に位置する白布温泉（しらぶおんせん）と新高湯温泉。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月中旬から深い雪に包まれる山形県米沢市の秘境・西吾妻山山麓に位置する白布温泉（しらぶおんせん）と新高湯温泉。',
   keywords: '白布温泉 宿泊, 新高湯温泉 旅館, 白布温泉 東屋, 白布温泉 中屋別館 不動閣, 湯滝の宿 西屋, 吾妻屋旅館, 小野川温泉 吾妻荘, 米沢牛 すき焼き, 打たせ湯, 湯滝, 11月 12月 山形温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamagata-shirabu-onsen-snow-yonezawa-beef-stay/"
   },
   openGraph: {
     title: '白布温泉で過ごす冬の旅（11・12月）！西吾妻山の豪雪秘湯と開湯700年の名物湯滝！名宿5選',
-    description: '11月中旬から深い雪に包まれる山形県米沢市の秘境・西吾妻山山麓に位置する白布温泉（しらぶおんせん）と新高湯温泉。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月中旬から深い雪に包まれる山形県米沢市の秘境・西吾妻山山麓に位置する白布温泉（しらぶおんせん）と新高湯温泉。',
     url: 'https://croud-travel.pages.dev/winter-yamagata-shirabu-onsen-snow-yonezawa-beef-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/146112/146112.jpg',
         width: 1200,
         height: 630,
         alt: '初冬の白銀に包まれる白布温泉と西吾妻山の雪見露天風呂'
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "山形・白布温泉＆新高湯温泉で過ごす冬の旅（11・12月）！西吾妻山の豪雪秘湯と開湯700年の名物湯滝・最高峰A5米沢牛すき焼きを堪能する名宿5選",
     description: "11月中旬から深い雪に包まれる山形県米沢市の秘境・西吾妻山山麓に位置する白布温泉（しらぶおんせん）と新高湯温泉。標高900〜1126mの高地に湧く名湯は、白馬の傷を癒やした伝説に由来し、開湯700年の歴史を誇る米沢八湯屈指の古湯です。頭上から豪快に滝のように注がれる名物「湯滝（打たせ湯）」や、茅葺き屋根の重厚な湯宿、大樽川渓谷を見下ろす雪見露天風呂など、東北の厳しい冬ならではの情趣に満ちています。夕食には、日本三大和牛の頂点に君臨する「米沢牛」のA5ランク特選すき焼きや陶板ステーキ、山形名物の温かい芋煮汁、伝統野菜や地酒「東光」など、寒風で冷えた身体を芯から解きほぐす至極の郷土美食が並びます。初冬の白銀の山峡で本物の秘湯と美食に浸る厳選名宿5選を徹底解説します。",
-    images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/146112/146112.jpg']
   }
 };
 
@@ -325,7 +325,7 @@ export default function YamagataShirabuYonezawaPage() {
       <header className="relative bg-gradient-to-b from-stone-900 via-stone-800 to-stone-900 text-white py-16 sm:py-24 px-4 sm:px-6 lg:px-8 overflow-hidden">
         <div className="absolute inset-0 opacity-25 mix-blend-overlay pointer-events-none">
           <Image
-            src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=2000&q=80"
+            src="https://img.travel.rakuten.co.jp/share/HOTEL/146112/146112.jpg"
             alt="初冬の白布温泉と西吾妻山の豪雪雪景色"
             fill
             className="object-cover"

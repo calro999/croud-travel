@@ -9,19 +9,19 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月長崎：冬の味覚「九十九島かき」焼き！名宿5選',
-  description: '11月から1月、長崎県佐世保市・九十九島は、濃厚な甘みと旨味がギュッと詰まった旬の「九十九島かき」の焼き牡蠣小屋と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から1月、長崎県佐世保市・九十九島は、濃厚な甘みと旨味がギュッと詰まった旬の「九十九島かき」の焼き牡蠣小屋と。',
   keywords: '九十九島かき, ハウステンボス 光の王国, 佐世保 焼き牡蠣小屋, レモンステーキ, ホテルオークラJRハウステンボス, ホテルヨーロッパ, 弓張の丘ホテル, ホテル日航ハウステンボス, フラッグス佐世保九十九島, 九十九島温泉, 11月 12月 1月 長崎旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagasaki-sasebo-kujukushima-oyster-illumination-stay/"
   },
   openGraph: {
     title: '11・12・1月長崎：冬の味覚「九十九島かき」焼き！名宿5選',
-    description: '11月から1月、長崎県佐世保市・九十九島は、濃厚な甘みと旨味がギュッと詰まった旬の「九十九島かき」の焼き牡蠣小屋と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から1月、長崎県佐世保市・九十九島は、濃厚な甘みと旨味がギュッと詰まった旬の「九十九島かき」の焼き牡蠣小屋と。',
     url: 'https://croud-travel.pages.dev/winter-nagasaki-sasebo-kujukushima-oyster-illumination-stay',
     siteName: 'クラドトラベル',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/9057/9057.jpg',
         width: 1200,
         height: 630,
         alt: '冬の九十九島サンセットとハウステンボス光の王国'
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月長崎：冬の味覚「九十九島かき」焼き牡蠣小屋と世界最大イルミ「ハウステンボス光の王国」・佐世保名物＆九十九島温泉リゾート宿5選",
     description: "11月から1月、長崎県佐世保市・九十九島は、濃厚な甘みと旨味がギュッと詰まった旬の「九十九島かき」の焼き牡蠣小屋と、世界最大1300万球が輝く「ハウステンボス光の王国」で一年で最もロマンチックな季節を迎えます。西海国立公園の島々を茜色に染める夕陽パノラマ、佐世保名物レモンステーキや元祖佐世保バーガー。九十九島温泉やハウステンボス直営の名宿5選と冬のモデルコースを徹底ガイドします。",
-    images: ['https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/9057/9057.jpg']
   }
 };
 
@@ -44,7 +44,7 @@ export default function NagasakiSaseboKujukushimaWinterPage() {
     '@type': 'Article',
     headline: "11・12・1月長崎：冬の味覚「九十九島かき」焼き牡蠣小屋と世界最大イルミ「ハウステンボス光の王国」・佐世保名物＆九十九島温泉リゾート宿5選",
     description: "11月から1月、長崎県佐世保市・九十九島は、濃厚な甘みと旨味がギュッと詰まった旬の「九十九島かき」の焼き牡蠣小屋と、世界最大1300万球が輝く「ハウステンボス光の王国」で一年で最もロマンチックな季節を迎えます。西海国立公園の島々を茜色に染める夕陽パノラマ、佐世保名物レモンステーキや元祖佐世保バーガー。九十九島温泉やハウステンボス直営の名宿5選と冬のモデルコースを徹底ガイドします。",
-    image: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://img.travel.rakuten.co.jp/share/HOTEL/9057/9057.jpg',
     datePublished: '',
     dateModified: '',
     author: {
@@ -270,7 +270,7 @@ export default function NagasakiSaseboKujukushimaWinterPage() {
       <header className="relative bg-slate-950 text-white overflow-hidden py-16 sm:py-24">
         <div className="absolute inset-0 opacity-40 mix-blend-overlay">
           <img 
-            src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1800&q=80" 
+            src="https://img.travel.rakuten.co.jp/share/HOTEL/9057/9057.jpg" 
             alt="冬の九十九島サンセットとハウステンボス" 
             className="w-full h-full object-cover"
           />

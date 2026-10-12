@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '徳島・祖谷温泉で過ごす冬の旅（11・12月）！特選阿波牛！名宿5選',
-  description: '11月から12月にかけて四国の霊峰・剣山山系の深山幽谷に抱かれた「徳島・祖谷渓（いやけい）＆大歩危峡（おおぼけきょう）。」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて四国の霊峰・剣山山系の深山幽谷に抱かれた「徳島・祖谷渓（いやけい）＆大歩危峡（おおぼけきょう）。」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
   keywords: '祖谷温泉 宿泊, 大歩危 温泉 11月 12月, ホテル祖谷温泉, 祖谷美人, 大歩危峡まんなか, ホテルかずら橋, ホテル秘境の湯, 祖谷そば, 阿波牛 すき焼き 宿, 日本三大秘境 露天風呂',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tokushima-iya-valley-onsen-hikyo-awa-beef-stay/"
   },
   openGraph: {
     title: '徳島・祖谷温泉で過ごす冬の旅（11・12月）！特選阿波牛！名宿5選',
-    description: '11月から12月にかけて四国の霊峰・剣山山系の深山幽谷に抱かれた「徳島・祖谷渓（いやけい）＆大歩危峡（おおぼけきょう）。」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて四国の霊峰・剣山山系の深山幽谷に抱かれた「徳島・祖谷渓（いやけい）＆大歩危峡（おおぼけきょう）。」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-tokushima-iya-valley-onsen-hikyo-awa-beef-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/13663/13663.jpg',
         width: 1200,
         height: 630,
         alt: '冬の祖谷渓谷と雪景色の秘境温泉'
@@ -69,7 +69,7 @@ export default function IyaOnsenWinterFeature() {
         },
         "headline": "【11・12月徳島・祖谷温泉の日本三大秘境初雪渓谷美と谷底露天風呂】特選阿波牛・名物祖谷そば＆ケーブルカーで行く秘湯の宿5選",
         "description": "11月から12月にかけて四国の霊峰・剣山山系の深山幽谷に抱かれた「徳島・祖谷渓（いやけい）＆大歩危峡（おおぼけきょう）。」は、日本三大秘境にふさわしい静寂と、初冠雪の白銀に化粧されたV字渓谷の圧倒的な自然美に包まれます。断崖絶壁から専用ケーブルカーで高低差170mの谷底へ下り、エメラルドグリーンの祖谷川の清流すれすれで浸かる自噴掛け流しの単純硫黄泉。スロープカーで登る天空露天風呂、とろける旨味の極上黒毛和牛「阿波牛」の陶板焼き、香り高い名物「祖谷そば」、囲炉裏の炭火で香ばしく焼き上げる郷土の伝統料理「でこまわし」を満喫する至高の秘湯宿5選を徹底解説。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/13663/13663.jpg",
         "datePublished": "T06:00:00+09:00",
         "dateModified": "T06:00:00+09:00",
         "publisher": {
@@ -268,7 +268,7 @@ export default function IyaOnsenWinterFeature() {
       {/* Header Banner */}
       <header className="relative w-full h-[360px] sm:h-[480px] flex items-end justify-center bg-slate-900 text-white overflow-hidden">
         <Image
-          src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1600&q=80"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/13663/13663.jpg"
           alt="冬の祖谷渓谷と大自然の秘境温泉"
           fill
           priority

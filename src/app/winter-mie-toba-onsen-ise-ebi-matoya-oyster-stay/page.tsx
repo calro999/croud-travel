@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '鳥羽温泉郷で過ごす冬の旅（11・12月）！鳥羽湾パノラマ絶景露天風呂！名宿5選',
-  description: '11月から12月にかけて三重県・伊勢志摩の鳥羽温泉郷は、秋の禁漁明けから本番を迎える冬の二大味覚「本場伊勢海老」と「的矢牡蠣（まとやかき）」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて三重県・伊勢志摩の鳥羽温泉郷は、秋の禁漁明けから本番を迎える冬の二大味覚「本場伊勢海老」と「的矢牡蠣（まとやかき）」。',
   keywords: '鳥羽温泉 宿泊, 鳥羽 11月 12月, 伊勢海老 宿 鳥羽, 的矢牡蠣, 鳥羽国際ホテル 潮路亭, 戸田家, 鳥羽シーサイドホテル, 季さら, ホテルアルティア鳥羽, 松阪牛, 伊勢志摩 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay/",
   },
   openGraph: {
     title: '鳥羽温泉郷で過ごす冬の旅（11・12月）！鳥羽湾パノラマ絶景露天風呂！名宿5選',
-    description: '11月から12月にかけて三重県・伊勢志摩の鳥羽温泉郷は、秋の禁漁明けから本番を迎える冬の二大味覚「本場伊勢海老」と「的矢牡蠣（まとやかき）」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて三重県・伊勢志摩の鳥羽温泉郷は、秋の禁漁明けから本番を迎える冬の二大味覚「本場伊勢海老」と「的矢牡蠣（まとやかき）」。',
     url: 'https://croud-travel.pages.dev/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/8528/8528.jpg',
         width: 1200,
         height: 630,
         alt: "【11・12月鳥羽温泉郷の旬を迎える伊勢海老と的矢牡蠣】鳥羽湾パノラマ絶景露天風呂・極上松阪牛ステーキ＆答志島トロさわら会席の宿5選",
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "鳥羽温泉郷の旬を迎える伊勢海老と的矢牡蠣で過ごす冬の旅（11・12月）！鳥羽湾パノラマ絶景露天風呂・極上松阪牛ステーキ＆答志島トロさわら会席の宿5選",
     description: "11月から12月にかけて三重県・伊勢志摩の鳥羽温泉郷は、秋の禁漁明けから本番を迎える冬の二大味覚「本場伊勢海老」と「的矢牡蠣（まとやかき）」の最高峰シーズンに突入します。波静かな鳥羽湾に浮かぶ島々や朝焼けパノラマを望む絶景展望露天風呂、ミキモト真珠パウダーを配合したパールオーロラ風呂、一本釣りで水揚げされる脂の乗った「答志島トロさわら」の炙り、世界に誇る銘柄牛「松阪牛」の陶板焼きやすき焼きを心ゆくまで堪能する至福の海辺名宿5選を徹底解説。",
-    images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80'],
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/8528/8528.jpg'],
   }
 };
 
@@ -71,7 +71,7 @@ export default function TobaOnsenWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay#article",
         "headline": "【11・12月鳥羽温泉郷の旬を迎える伊勢海老と的矢牡蠣】鳥羽湾パノラマ絶景露天風呂・極上松阪牛ステーキ＆答志島トロさわら会席の宿5選",
         "description": "11月から12月にかけて三重県・伊勢志摩の鳥羽温泉郷は、秋の禁漁明けから本番を迎える冬の二大味覚「本場伊勢海老」と「的矢牡蠣（まとやかき）」の最高峰シーズンに突入します。波静かな鳥羽湾に浮かぶ島々や朝焼けパノラマを望む絶景展望露天風呂、ミキモト真珠パウダーを配合したパールオーロラ風呂、一本釣りで水揚げされる脂の乗った「答志島トロさわら」の炙り、世界に誇る銘柄牛「松阪牛」の陶板焼きやすき焼きを心ゆくまで堪能する至福の海辺名宿5選を徹底解説。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/8528/8528.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {

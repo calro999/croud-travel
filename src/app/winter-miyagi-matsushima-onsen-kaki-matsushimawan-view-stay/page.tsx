@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '松島温泉で過ごす冬の旅（11・12月）！日本三景日の出パノラマ展望露天！名宿5選',
-  description: '11月から12月にかけて、日本三景の一つに数えられる宮城県・松島湾は、初冬の澄み切った冷涼な空気によって260余りの島々が最も鮮やかに浮かび。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、日本三景の一つに数えられる宮城県・松島湾は、初冬の澄み切った冷涼な空気によって260余りの島々が最も鮮やかに浮かび。',
   keywords: '松島温泉 宿泊, 宮城 温泉 11月 12月, 松島一の坊, ホテル松島大観荘, 小松館 好風亭, 松島センチュリーホテル, ホテル絶景の館, 松島牡蠣 宿, 仙台牛 会席, 日本三景 日の出 露天風呂',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-miyagi-matsushima-onsen-kaki-matsushimawan-view-stay/"
   },
   openGraph: {
     title: '松島温泉で過ごす冬の旅（11・12月）！日本三景日の出パノラマ展望露天！名宿5選',
-    description: '11月から12月にかけて、日本三景の一つに数えられる宮城県・松島湾は、初冬の澄み切った冷涼な空気によって260余りの島々が最も鮮やかに浮かび。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、日本三景の一つに数えられる宮城県・松島湾は、初冬の澄み切った冷涼な空気によって260余りの島々が最も鮮やかに浮かび。',
     url: 'https://croud-travel.pages.dev/winter-miyagi-matsushima-onsen-kaki-matsushimawan-view-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/29234/29234.jpg',
         width: 1200,
         height: 630,
         alt: '初冬の松島湾絶景と松島温泉展望露天風呂'
@@ -69,7 +69,7 @@ export default function MiyagiMatsushimaWinterFeature() {
         },
         "headline": "【11・12月宮城・松島温泉の初冬松島湾絶景と解禁・極上松島牡蠣】日本三景日の出パノラマ展望露天＆仙台牛会席の宿5選",
         "description": "11月から12月にかけて、日本三景の一つに数えられる宮城県・松島湾は、初冬の澄み切った冷涼な空気によって260余りの島々が最も鮮やかに浮かび上がる絶景シーズンを迎えます。この時期の松島を象徴するのが、秋から冬にかけて水揚げが本格解禁される名物「松島牡蠣（かき）」。豊かな三陸の山々から流れ込むミネラルをたっぷり吸収した牡蠣は、ぷりぷりと大粒で甘みと濃厚なコクが凝縮しています。さらに宮城が誇る最高峰ブランド「仙台牛」や三陸直送の海の幸、地下深層から湧き出る「絹肌の湯」こと松島温泉が旅人を迎えます。太平洋の水平線から昇る神々しい朝焼けを客室や展望露天風呂から独占する、初冬の松島おすすめ名旅館・ホテル5選を徹底解説。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/29234/29234.jpg",
         "datePublished": "T09:00:00+09:00",
         "dateModified": "T09:00:00+09:00",
         "publisher": {
@@ -234,7 +234,7 @@ export default function MiyagiMatsushimaWinterFeature() {
       {/* Header Banner */}
       <header className="relative w-full h-[360px] sm:h-[480px] flex items-end justify-center bg-slate-900 text-white overflow-hidden">
         <Image
-          src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/29234/29234.jpg"
           alt="初冬の松島湾と日本三景の島々"
           fill
           priority

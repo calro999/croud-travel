@@ -9,19 +9,19 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月佐賀：冬の有明海名物「竹崎カニ」と日本三大稲荷！名宿5選',
-  description: '11月から1月、佐賀県の有明海沿岸・太良町では、甲羅に濃厚な朱色の内子（卵巣）をぎっしりと蓄えた冬のメス「竹崎カニ」が最高潮の旬を迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から1月、佐賀県の有明海沿岸・太良町では、甲羅に濃厚な朱色の内子（卵巣）をぎっしりと蓄えた冬のメス「竹崎カニ」が最高潮の旬を迎えます。',
   keywords: '竹崎カニ 冬 旬, 太良町 カニ 宿泊, 祐徳稲荷神社 初詣, 嬉野温泉 宿泊, 和多屋別荘, 蟹御殿, 梅崎亭, 和楽園, ホテル華翠苑, 温泉湯豆腐 嬉野, 11月 12月 1月 佐賀旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-saga-tara-takezaki-crab-yutoku-inari-ureshino-stay/"
   },
   openGraph: {
     title: '11・12・1月佐賀：冬の有明海名物「竹崎カニ」と日本三大稲荷！名宿5選',
-    description: '11月から1月、佐賀県の有明海沿岸・太良町では、甲羅に濃厚な朱色の内子（卵巣）をぎっしりと蓄えた冬のメス「竹崎カニ」が最高潮の旬を迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から1月、佐賀県の有明海沿岸・太良町では、甲羅に濃厚な朱色の内子（卵巣）をぎっしりと蓄えた冬のメス「竹崎カニ」が最高潮の旬を迎えます。',
     url: 'https://croud-travel.pages.dev/winter-saga-tara-takezaki-crab-yutoku-inari-ureshino-stay',
     siteName: 'クラドトラベル',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/53097/53097.jpg',
         width: 1200,
         height: 630,
         alt: '冬の佐賀県有明海と竹崎カニ・祐徳稲荷神社の風景'
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月佐賀：冬の有明海名物「竹崎カニ」と日本三大稲荷・祐徳稲荷神社の初詣・日本三大美肌の湯「嬉野温泉」温泉湯豆腐を堪能する名宿5選",
     description: "11月から1月、佐賀県の有明海沿岸・太良町では、甲羅に濃厚な朱色の内子（卵巣）をぎっしりと蓄えた冬のメス「竹崎カニ」が最高潮の旬を迎えます。日本三大稲荷の一つとして名高い鹿島市の「祐徳稲荷神社」では、朱塗りの壮麗な本殿が冬晴れの青空に映え、年末年始の初詣に多くの参拝客で賑わいます。さらに車で足を伸ばせば、日本三大美肌の湯として名高い「嬉野温泉」の名物・とろとろの「温泉湯豆腐」で身も心も芯から温まります。冬の有明海グルメとパワースポット、極上名湯を巡る厳選名宿5選をお届けします。",
-    images: ['https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/53097/53097.jpg']
   }
 };
 
@@ -44,7 +44,7 @@ export default function SagaTaraTakezakiWinterPage() {
     '@type': 'Article',
     headline: "11・12・1月佐賀：冬の有明海名物「竹崎カニ」と日本三大稲荷・祐徳稲荷神社の初詣・日本三大美肌の湯「嬉野温泉」温泉湯豆腐を堪能する名宿5選",
     description: "11月から1月、佐賀県の有明海沿岸・太良町では、甲羅に濃厚な朱色の内子（卵巣）をぎっしりと蓄えた冬のメス「竹崎カニ」が最高潮の旬を迎えます。日本三大稲荷の一つとして名高い鹿島市の「祐徳稲荷神社」では、朱塗りの壮麗な本殿が冬晴れの青空に映え、年末年始の初詣に多くの参拝客で賑わいます。さらに車で足を伸ばせば、日本三大美肌の湯として名高い「嬉野温泉」の名物・とろとろの「温泉湯豆腐」で身も心も芯から温まります。冬の有明海グルメとパワースポット、極上名湯を巡る厳選名宿5選をお届けします。",
-    image: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://img.travel.rakuten.co.jp/share/HOTEL/53097/53097.jpg',
     datePublished: '',
     dateModified: '',
     author: {
@@ -270,7 +270,7 @@ export default function SagaTaraTakezakiWinterPage() {
       <header className="relative bg-slate-950 text-white overflow-hidden py-16 sm:py-24">
         <div className="absolute inset-0 opacity-35 mix-blend-overlay">
           <img 
-            src="https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1800&q=80" 
+            src="https://img.travel.rakuten.co.jp/share/HOTEL/53097/53097.jpg" 
             alt="冬の佐賀県有明海と竹崎カニの風景" 
             className="w-full h-full object-cover"
           />

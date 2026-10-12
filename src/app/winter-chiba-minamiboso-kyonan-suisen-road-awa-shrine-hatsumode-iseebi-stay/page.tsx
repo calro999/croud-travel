@@ -6,20 +6,20 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月千葉：房総伊勢海老！名宿5選',
-  description: '黒潮の影響で真冬でも温暖な気候に恵まれた常春の地・南房総と鋸南・館山。12月中旬〜1月は山肌を白く染める「江月水仙ロード」の約1000万本の。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '黒潮の影響で真冬でも温暖な気候に恵まれた常春の地・南房総と鋸南・館山。12月中旬〜1月は山肌を白く染める「江月水仙ロード」の約1000万本の。',
   keywords: '江月水仙ロード 見頃, 安房神社 初詣 金運, 野島埼灯台 初日の出, 房総伊勢海老 冬, 金目鯛 姿煮 南房総, 休暇村館山, 白浜オーシャンリゾート, 千葉 冬 旅行, 南房総 観光',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-chiba-minamiboso-kyonan-suisen-road-awa-shrine-hatsumode-iseebi-stay'
   },
   openGraph: {
     title: '11・12・1月千葉：房総伊勢海老！名宿5選',
-    description: '黒潮の影響で真冬でも温暖な気候に恵まれた常春の地・南房総と鋸南・館山。12月中旬〜1月は山肌を白く染める「江月水仙ロード」の約1000万本の。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '黒潮の影響で真冬でも温暖な気候に恵まれた常春の地・南房総と鋸南・館山。12月中旬〜1月は山肌を白く染める「江月水仙ロード」の約1000万本の。',
     url: 'https://croud-travel.pages.dev/winter-chiba-minamiboso-kyonan-suisen-road-awa-shrine-hatsumode-iseebi-stay',
     siteName: 'クラドトラベル',
     type: 'article',
     locale: 'ja_JP',
     images: [{
-      url: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80',
+      url: 'https://img.travel.rakuten.co.jp/share/HOTEL/8495/8495.jpg',
       width: 1200,
       height: 630,
       alt: '冬の南房総 江月水仙ロードと安房神社の神聖な鳥居'
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月千葉：常春の南房総「江月水仙ロード」1000万本の水仙の香りと房総フラワーライン！日本三大金運神社「安房神社」新春初詣・野島埼灯台の初日の出＆房総伊勢海老・金目鯛厳選名宿5選",
     description: "黒潮の影響で真冬でも温暖な気候に恵まれた常春の地・南房総と鋸南・館山。12月中旬〜1月は山肌を白く染める「江月水仙ロード」の約1000万本の日本水仙が甘い芳香を放ち、房総フラワーラインでは早咲きの黄色い菜の花が春の訪れを告げます。日本三大金運神社に数えられる安房国一宮「安房神社」で迎える新春初詣、本州屈指の日の出名所「野島埼灯台」の絶景。黒潮が育む「房総伊勢海老」や「金目鯛の姿煮」に舌鼓を打ち、太平洋を一望する温泉宿に憩う冬の特選名宿5選。",
-    images: ['https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/8495/8495.jpg']
   }
 };
 
@@ -39,7 +39,7 @@ export default function ChibaMinamibosoWinterFeaturePage() {
     "@type": "Article",
     "headline": "【11・12・1月千葉】常春の南房総「江月水仙ロード」1000万本の水仙の香りと房総フラワーライン！日本三大金運神社「安房神社」新春初詣・野島埼灯台の初日の出＆房総伊勢海老・金目鯛厳選名宿5選",
     "description": "黒潮の影響で真冬でも温暖な気候に恵まれた常春の地・南房総と鋸南・館山。12月中旬〜1月は山肌を白く染める「江月水仙ロード」の約1000万本の日本水仙が甘い芳香を放ち、房総フラワーラインでは早咲きの黄色い菜の花が春の訪れを告げます。日本三大金運神社に数えられる安房国一宮「安房神社」で迎える新春初詣、本州屈指の日の出名所「野島埼灯台」の絶景。黒潮が育む「房総伊勢海老」や「金目鯛の姿煮」に舌鼓を打ち、太平洋を一望する温泉宿に憩う冬の特選名宿5選。",
-    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://img.travel.rakuten.co.jp/share/HOTEL/8495/8495.jpg",
     "datePublished": "T09:00:00+09:00",
     "dateModified": "T09:00:00+09:00",
     "author": {

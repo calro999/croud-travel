@@ -9,19 +9,19 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月沖縄：恩納村絶景スパリゾート5選！名宿5選',
-  description: '11月から1月、沖縄本島（恩納村・本部・名護）は、平均気温20℃前後の快適な気候に恵まれ、喧騒を離れて大人の贅沢な時間を過ごせる冬の楽園となります。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から1月、沖縄本島（恩納村・本部・名護）は、平均気温20℃前後の快適な気候に恵まれ、喧騒を離れて大人の贅沢な時間を過ごせる冬の楽園となります。',
   keywords: '沖縄 ホエールウォッチング, ハレクラニ沖縄, ハイアットリージェンシー瀬良垣, ルネッサンスリゾートオキナワ, ホテルモントレ沖縄, 美ら海水族館 冬, アグー豚 しゃぶしゃぶ, もとぶ牛 ステーキ, 11月 12月 1月 沖縄旅行, 恩納村 リゾートホテル',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-okinawa-onna-motobu-whalewatching-agu-resort-stay/"
   },
   openGraph: {
     title: '11・12・1月沖縄：恩納村絶景スパリゾート5選！名宿5選',
-    description: '11月から1月、沖縄本島（恩納村・本部・名護）は、平均気温20℃前後の快適な気候に恵まれ、喧騒を離れて大人の贅沢な時間を過ごせる冬の楽園となります。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から1月、沖縄本島（恩納村・本部・名護）は、平均気温20℃前後の快適な気候に恵まれ、喧騒を離れて大人の贅沢な時間を過ごせる冬の楽園となります。',
     url: 'https://croud-travel.pages.dev/winter-okinawa-onna-motobu-whalewatching-agu-resort-stay',
     siteName: 'クラドトラベル',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/172611/172611.jpg',
         width: 1200,
         height: 630,
         alt: '冬の沖縄恩納村の海とホエールウォッチング'
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月沖縄：冬の楽園リゾート！12月下旬開幕「ホエールウォッチング」と美ら海水族館・冬のアグー豚しゃぶしゃぶ＆もとぶ牛・恩納村絶景スパリゾート5選",
     description: "11月から1月、沖縄本島（恩納村・本部・名護）は、平均気温20℃前後の快適な気候に恵まれ、喧騒を離れて大人の贅沢な時間を過ごせる冬の楽園となります。12月下旬からは野生のザトウクジラが来遊する感動の「ホエールウォッチング」が開幕。澄み切ったエメラルドグリーンの東シナ海、混雑なく優雅に巡る沖縄美ら海水族館や備瀬のフクギ並木。旨みあふれる「やんばる島豚あぐー」の熱々しゃぶしゃぶや極上もとぶ牛ステーキ。恩納村屈指のラグジュアリースパリゾートで心身を解き放つ厳選名宿5選を徹底解説します。",
-    images: ['https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/172611/172611.jpg']
   }
 };
 
@@ -44,7 +44,7 @@ export default function OkinawaOnnaMotobuWinterPage() {
     '@type': 'Article',
     headline: "11・12・1月沖縄：冬の楽園リゾート！12月下旬開幕「ホエールウォッチング」と美ら海水族館・冬のアグー豚しゃぶしゃぶ＆もとぶ牛・恩納村絶景スパリゾート5選",
     description: "11月から1月、沖縄本島（恩納村・本部・名護）は、平均気温20℃前後の快適な気候に恵まれ、喧騒を離れて大人の贅沢な時間を過ごせる冬の楽園となります。12月下旬からは野生のザトウクジラが来遊する感動の「ホエールウォッチング」が開幕。澄み切ったエメラルドグリーンの東シナ海、混雑なく優雅に巡る沖縄美ら海水族館や備瀬のフクギ並木。旨みあふれる「やんばる島豚あぐー」の熱々しゃぶしゃぶや極上もとぶ牛ステーキ。恩納村屈指のラグジュアリースパリゾートで心身を解き放つ厳選名宿5選を徹底解説します。",
-    image: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://img.travel.rakuten.co.jp/share/HOTEL/172611/172611.jpg',
     datePublished: '',
     dateModified: '',
     author: {
@@ -270,7 +270,7 @@ export default function OkinawaOnnaMotobuWinterPage() {
       <header className="relative bg-slate-950 text-white overflow-hidden py-16 sm:py-24">
         <div className="absolute inset-0 opacity-35 mix-blend-overlay">
           <img 
-            src="https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1800&q=80" 
+            src="https://img.travel.rakuten.co.jp/share/HOTEL/172611/172611.jpg" 
             alt="冬のエメラルドグリーンの沖縄恩納村の海" 
             className="w-full h-full object-cover"
           />

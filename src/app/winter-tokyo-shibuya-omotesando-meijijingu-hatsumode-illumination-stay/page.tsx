@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月東京：明治神宮初詣！名宿5選',
-  description: '11月中旬から1月にかけて、渋谷・表参道・原宿は世界中から注目を集める光と祝祭の街へと進化します。表参道約1kmを黄金色に染め上げるケヤキ並。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月中旬から1月にかけて、渋谷・表参道・原宿は世界中から注目を集める光と祝祭の街へと進化します。表参道約1kmを黄金色に染め上げるケヤキ並。',
   keywords: '渋谷 ホテル, 表参道 イルミネーション, 明治神宮 初詣, 青の洞窟 渋谷, SHIBUYA SKY 富士山, セルリアンタワー東急ホテル, sequence MIYASHITA PARK, 渋谷エクセルホテル東急, 11月 12月 1月 東京 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tokyo-shibuya-omotesando-meijijingu-hatsumode-illumination-stay/"
   },
   openGraph: {
     title: '11・12・1月東京：明治神宮初詣！名宿5選',
-    description: '11月中旬から1月にかけて、渋谷・表参道・原宿は世界中から注目を集める光と祝祭の街へと進化します。表参道約1kmを黄金色に染め上げるケヤキ並。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月中旬から1月にかけて、渋谷・表参道・原宿は世界中から注目を集める光と祝祭の街へと進化します。表参道約1kmを黄金色に染め上げるケヤキ並。',
     url: 'https://croud-travel.pages.dev/winter-tokyo-shibuya-omotesando-meijijingu-hatsumode-illumination-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',

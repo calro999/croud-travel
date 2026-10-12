@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     type: 'article',
     locale: 'ja_JP',
     images: [{
-      url: 'https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80',
+      url: 'https://img.travel.rakuten.co.jp/share/HOTEL/147805/147805.jpg',
       width: 1200,
       height: 630,
       alt: '秋のUSJ ハロウィーン・ホラー・ナイトとオフィシャルホテルの夜景'
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "秋のUSJハロウィーン2026：絶叫の「ハロウィーン・ホラー・ナイト」＆ストリート・ゾンビ！昼はポケモン・夜はゾンビデダンス＆パーク直結オフィシャル厳選名宿5選",
     description: "秋のユニバーサル・スタジオ・ジャパン（USJ）が究極の熱狂と興奮に包まれる「ハロウィーン・イベント」。日中は「ハハハ！ ハロウィーン・パーティ」でDJピカチュウやゲンガー、ミニオンたちと全身全霊で踊り狂い、夜はパークが一変して恐怖の底に突き落とされる「ハロウィーン・ホラー・ナイト」が開幕！大量の凶悪ゾンビが徘徊する「ストリート・ゾンビ」や、Adoの楽曲に合わせてゾンビと群衆が狂乱する「ゾンビ・デ・ダンス」、恐怖のホラー・メイズ＆バイオハザード体験。パーク徒歩数分の感動立地を誇るオフィシャルホテル＆展望天然温泉付き厳選名宿5選を徹底特集。",
-    images: ['https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/147805/147805.jpg']
   }
 };
 
@@ -39,7 +39,7 @@ export default function UsjHalloweenFeaturePage() {
     "@type": "Article",
     "headline": "【秋のUSJハロウィーン2026】絶叫の「ハロウィーン・ホラー・ナイト」＆ストリート・ゾンビ！昼はポケモン・夜はゾンビデダンス＆パーク直結オフィシャル厳選名宿5選",
     "description": "秋のユニバーサル・スタジオ・ジャパン（USJ）が究極の熱狂と興奮に包まれる「ハロウィーン・イベント」。日中は「ハハハ！ ハロウィーン・パーティ」でDJピカチュウやゲンガー、ミニオンたちと全身全霊で踊り狂い、夜はパークが一変して恐怖の底に突き落とされる「ハロウィーン・ホラー・ナイト」が開幕！大量の凶悪ゾンビが徘徊する「ストリート・ゾンビ」や、Adoの楽曲に合わせてゾンビと群衆が狂乱する「ゾンビ・デ・ダンス」、恐怖のホラー・メイズ＆バイオハザード体験。パーク徒歩数分の感動立地を誇るオフィシャルホテル＆展望天然温泉付き厳選名宿5選を徹底特集。",
-    "image": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://img.travel.rakuten.co.jp/share/HOTEL/147805/147805.jpg",
     "datePublished": "T10:00:00+09:00",
     "dateModified": "T10:00:00+09:00",
     "author": {

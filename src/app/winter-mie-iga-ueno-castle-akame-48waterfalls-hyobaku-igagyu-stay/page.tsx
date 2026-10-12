@@ -6,20 +6,20 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月三重：菅原道真公祀る「上野天神宮」新春初詣！名宿5選',
-  description: '忍者の里として世界に知られる三重県伊賀・名張。11〜1月は盆地特有の厳しい冷え込みがもたらす白銀の冬景色が広がります。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '忍者の里として世界に知られる三重県伊賀・名張。11〜1月は盆地特有の厳しい冷え込みがもたらす白銀の冬景色が広がります。',
   keywords: '伊賀上野城 冬 雪景色, 上野天神宮 初詣, 赤目四十八滝 氷瀑, 伊賀牛 すき焼き, 赤目温泉 対泉閣, 山水園 赤目, 伊賀 忍者 冬 旅行, 三重 冬 観光',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-mie-iga-ueno-castle-akame-48waterfalls-hyobaku-igagyu-stay'
   },
   openGraph: {
     title: '11・12・1月三重：菅原道真公祀る「上野天神宮」新春初詣！名宿5選',
-    description: '忍者の里として世界に知られる三重県伊賀・名張。11〜1月は盆地特有の厳しい冷え込みがもたらす白銀の冬景色が広がります。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '忍者の里として世界に知られる三重県伊賀・名張。11〜1月は盆地特有の厳しい冷え込みがもたらす白銀の冬景色が広がります。',
     url: 'https://croud-travel.pages.dev/winter-mie-iga-ueno-castle-akame-48waterfalls-hyobaku-igagyu-stay',
     siteName: 'クラドトラベル',
     type: 'article',
     locale: 'ja_JP',
     images: [{
-      url: 'https://images.unsplash.com/photo-1545569341-9eb8b30979d9?auto=format&fit=crop&w=1200&q=80',
+      url: 'https://img.travel.rakuten.co.jp/share/HOTEL/7155/7155.jpg',
       width: 1200,
       height: 630,
       alt: '冬の伊賀上野城 白銀の天守と赤目四十八滝の氷瀑'
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月三重：忍者の里「伊賀上野城」白銀の高石垣と芭蕉翁生家・菅原道真公祀る「上野天神宮」新春初詣！冬限定「赤目四十八滝」氷瀑トレッキング・幻の最高峰「伊賀牛すき焼き」＆赤目温泉厳選名宿5選",
     description: "忍者の里として世界に知られる三重県伊賀・名張。11〜1月は盆地特有の厳しい冷え込みがもたらす白銀の冬景色が広がります。築城の名手・藤堂高虎が築いた高さ約30mの日本一の高石垣を誇る「伊賀上野城」の雪景色、学問の神・菅原道真公を祀る「上野天神宮」の新春初詣。名勝「赤目四十八滝」では冷気で凍りついた神秘の氷瀑が出現し、伊賀盆地の清らかな風土が育む幻の黒毛和牛「伊賀牛」のとろけるすき焼きを堪能。歴史情緒と極上の名湯「赤目温泉」を巡る冬の特選名宿5選。",
-    images: ['https://images.unsplash.com/photo-1545569341-9eb8b30979d9?auto=format&fit=crop&w=1200&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/7155/7155.jpg']
   }
 };
 
@@ -39,7 +39,7 @@ export default function MieIgaWinterFeaturePage() {
     "@type": "Article",
     "headline": "【11・12・1月三重】忍者の里「伊賀上野城」白銀の高石垣と芭蕉翁生家・菅原道真公祀る「上野天神宮」新春初詣！冬限定「赤目四十八滝」氷瀑トレッキング・幻の最高峰「伊賀牛すき焼き」＆赤目温泉厳選名宿5選",
     "description": "忍者の里として世界に知られる三重県伊賀・名張。11〜1月は盆地特有の厳しい冷え込みがもたらす白銀の冬景色が広がります。築城の名手・藤堂高虎が築いた高さ約30mの日本一の高石垣を誇る「伊賀上野城」の雪景色、学問の神・菅原道真公を祀る「上野天神宮」の新春初詣。名勝「赤目四十八滝」では冷気で凍りついた神秘の氷瀑が出現し、伊賀盆地の清らかな風土が育む幻の黒毛和牛「伊賀牛」のとろけるすき焼きを堪能。歴史情緒と極上の名湯「赤目温泉」を巡る冬の特選名宿5選。",
-    "image": "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://img.travel.rakuten.co.jp/share/HOTEL/7155/7155.jpg",
     "datePublished": "T09:00:00+09:00",
     "dateModified": "T09:00:00+09:00",
     "author": {

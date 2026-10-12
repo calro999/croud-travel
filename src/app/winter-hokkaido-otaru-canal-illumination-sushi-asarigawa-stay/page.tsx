@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '北海道・小樽で過ごす冬の旅（11・12月）！小樽前浜極上寿司！名宿5選',
-  description: '11月から12月にかけて、小樽は初雪が舞い散る運河沿いに約1万個の青色LEDが輝く冬の風物詩「小樽ゆき物語・青の運河」が開幕し。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、小樽は初雪が舞い散る運河沿いに約1万個の青色LEDが輝く冬の風物詩「小樽ゆき物語・青の運河」が開幕し。',
   keywords: '小樽温泉 宿泊, ホテルノイシュロス小樽, おたる宏楽園, 運河の宿おたるふる川, オーセントホテル小樽, ホテル武蔵亭, 小樽ゆき物語, 青の運河 11月 12月, 朝里川温泉, 小樽寿司',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hokkaido-otaru-canal-illumination-sushi-asarigawa-stay/"
   },
   openGraph: {
     title: '北海道・小樽で過ごす冬の旅（11・12月）！小樽前浜極上寿司！名宿5選',
-    description: '11月から12月にかけて、小樽は初雪が舞い散る運河沿いに約1万個の青色LEDが輝く冬の風物詩「小樽ゆき物語・青の運河」が開幕し。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、小樽は初雪が舞い散る運河沿いに約1万個の青色LEDが輝く冬の風物詩「小樽ゆき物語・青の運河」が開幕し。',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-otaru-canal-illumination-sushi-asarigawa-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/20682/20682.jpg',
         width: 1200,
         height: 630,
         alt: '初冬の小樽運河と青の運河イルミネーション・朝里川温泉雪見露天風呂'

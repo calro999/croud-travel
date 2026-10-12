@@ -8,19 +8,19 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月高知：冬が旬の「宿毛寒ブリ！名宿5選',
-  description: '冬の澄み切った大気と水平線が織りなす奇跡の光景を巡る11〜1月の高知西南・宿毛＆四万十特集。冬の宿毛湾を真っ赤に染め上げる蜃気楼の絶景「だる。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '冬の澄み切った大気と水平線が織りなす奇跡の光景を巡る11〜1月の高知西南・宿毛＆四万十特集。冬の宿毛湾を真っ赤に染め上げる蜃気楼の絶景「だる。',
   keywords: '宿毛 だるま夕日, 宿毛 寒ブリ 宿, 四万十川 冬 観光, 宿毛リゾート 椰子の湯, 宿毛 本マグロ, 四万十牛 宿, 沈下橋 ドライブ, 高知 冬 旅行, 四万十市 ホテル',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kochi-sukumo-daruma-sunset-shimanto-stay/"
   },
   openGraph: {
     title: '11・12・1月高知：冬が旬の「宿毛寒ブリ！名宿5選',
-    description: '冬の澄み切った大気と水平線が織りなす奇跡の光景を巡る11〜1月の高知西南・宿毛＆四万十特集。冬の宿毛湾を真っ赤に染め上げる蜃気楼の絶景「だる。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '冬の澄み切った大気と水平線が織りなす奇跡の光景を巡る11〜1月の高知西南・宿毛＆四万十特集。冬の宿毛湾を真っ赤に染め上げる蜃気楼の絶景「だる。',
     url: 'https://croud-travel.pages.dev/winter-kochi-sukumo-daruma-sunset-shimanto-stay',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/153227/153227.jpg',
         width: 1200,
         height: 630,
         alt: '冬の高知・宿毛湾だるま夕日と四万十川の絶景'
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月高知：宿毛湾の奇跡「だるま夕日」と四万十川の冬旅！冬が旬の「宿毛寒ブリ・本マグロ・四万十牛」と太平洋一望のリゾート温泉名宿5選",
     description: "冬の澄み切った大気と水平線が織りなす奇跡の光景を巡る11〜1月の高知西南・宿毛＆四万十特集。冬の宿毛湾を真っ赤に染め上げる蜃気楼の絶景「だるま夕日」や、静寂に包まれる日本最後の清流「四万十川」の沈下橋。豊後水道の荒波が育む脂の乗った「宿毛寒ブリ」、養殖本マグロ、幻の「四万十牛」すき焼き。太平洋の絶景パノラマを望む温泉リゾートなど厳選名宿5選を徹底ガイドします。",
-    images: ['https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&h=630&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/153227/153227.jpg']
   }
 };
 
@@ -43,7 +43,7 @@ export default function KochiSukumoShimantoWinterPage() {
         "@type": "Article",
         "headline": "【11・12・1月高知】宿毛湾の奇跡「だるま夕日」と四万十川の冬旅！冬が旬の「宿毛寒ブリ・本マグロ・四万十牛」と太平洋一望のリゾート温泉名宿5選",
         "description": "冬の澄み切った大気と水平線が織りなす奇跡の光景を巡る11〜1月の高知西南・宿毛＆四万十特集。冬の宿毛湾を真っ赤に染め上げる蜃気楼の絶景「だるま夕日」や、静寂に包まれる日本最後の清流「四万十川」の沈下橋。豊後水道の荒波が育む脂の乗った「宿毛寒ブリ」、養殖本マグロ、幻の「四万十牛」すき焼き。太平洋の絶景パノラマを望む温泉リゾートなど厳選名宿5選を徹底ガイドします。",
-        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&h=630&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/153227/153227.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {

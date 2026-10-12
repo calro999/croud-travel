@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '花巻温泉郷で過ごす冬の旅（11・12月）！極上前沢牛！名宿5選',
-  description: '童話作家・宮沢賢治が愛した理想郷「イーハトーブ」の地・岩手県花巻温泉郷。11月下旬の初雪から12月の白銀世界へと移ろう初冬。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '童話作家・宮沢賢治が愛した理想郷「イーハトーブ」の地・岩手県花巻温泉郷。11月下旬の初雪から12月の白銀世界へと移ろう初冬。',
   keywords: '花巻温泉郷 宿泊 11月 12月, 花巻温泉 佳松園 予約, 鉛温泉 藤三旅館 白猿の湯, 前沢牛 白金豚 旅館, 花巻温泉 雪見露天風呂, 宮沢賢治 イーハトーブ 花巻, 花巻温泉郷 冬 モデルコース',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay/",
   },
   openGraph: {
     title: '花巻温泉郷で過ごす冬の旅（11・12月）！極上前沢牛！名宿5選',
-    description: '童話作家・宮沢賢治が愛した理想郷「イーハトーブ」の地・岩手県花巻温泉郷。11月下旬の初雪から12月の白銀世界へと移ろう初冬。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '童話作家・宮沢賢治が愛した理想郷「イーハトーブ」の地・岩手県花巻温泉郷。11月下旬の初雪から12月の白銀世界へと移ろう初冬。',
     url: 'https://croud-travel.pages.dev/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/13482/13482.jpg',
         width: 1200,
         height: 630,
         alt: "【11・12月花巻温泉郷の白銀雪見露天と宮沢賢治の世界】奥羽山脈の名湯巡り・極上前沢牛＆白金豚しゃぶしゃぶの宿5選",
@@ -47,7 +47,7 @@ export default function HanamakiWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay#article",
         "headline": "【11・12月花巻温泉郷の白銀雪見露天と宮沢賢治の世界】奥羽山脈の名湯巡り・極上前沢牛＆白金豚しゃぶしゃぶの宿5選",
         "description": "童話作家・宮沢賢治が愛した理想郷「イーハトーブ」の地・岩手県花巻温泉郷。11月下旬の初雪から12月の白銀世界へと移ろう初冬、赤松林に囲まれた美肌の湯や日本一深い自噴立ち湯で愉しむ雪見露天風呂。霜降り極上の前沢牛すき焼きとブランド豚「白金豚」のしゃぶしゃぶ、南部杜氏が醸す寒造り地酒を堪能する名宿ガイド。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/13482/13482.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {
@@ -254,7 +254,7 @@ export default function HanamakiWinterPage() {
       {/* Hero Header */}
       <header className="relative h-[520px] md:h-[620px] flex items-center justify-center text-white overflow-hidden bg-stone-950">
         <Image
-          src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1600&q=85"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/13482/13482.jpg"
           alt="初冬の花巻温泉郷・雪化粧した南部赤松林と湯けむり立ち上る雪見露天風呂"
           fill
           priority

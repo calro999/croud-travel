@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '花巻南温泉郷で過ごす冬の旅（11・12月）！自噴立ち湯「白猿の湯」と極上前沢牛！名宿5選',
-  description: '11月中旬から初冬の白銀世界へと移ろう岩手県花巻市の奥座敷・花巻南温泉郷。豊沢川の清流に沿って点在する鉛温泉や大沢温泉は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月中旬から初冬の白銀世界へと移ろう岩手県花巻市の奥座敷・花巻南温泉郷。豊沢川の清流に沿って点在する鉛温泉や大沢温泉の魅力とおすすめ宿泊施設を詳しくご紹介します。',
   keywords: '花巻南温泉郷 宿泊, 鉛温泉 藤三旅館, 大沢温泉 山水閣, 結びの宿 愛隣館, ホテル志戸平, 山の神温泉 優香苑, 白猿の湯, 立ち湯, 前沢牛, 白金豚, 宮沢賢治 温泉, 11月 12月 岩手温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-iwate-hanamaki-minami-namari-osawa-snow-stay/"
   },
   openGraph: {
     title: '花巻南温泉郷で過ごす冬の旅（11・12月）！自噴立ち湯「白猿の湯」と極上前沢牛！名宿5選',
-    description: '11月中旬から初冬の白銀世界へと移ろう岩手県花巻市の奥座敷・花巻南温泉郷。豊沢川の清流に沿って点在する鉛温泉や大沢温泉は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月中旬から初冬の白銀世界へと移ろう岩手県花巻市の奥座敷・花巻南温泉郷。豊沢川の清流に沿って点在する鉛温泉や大沢温泉の魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-iwate-hanamaki-minami-namari-osawa-snow-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/9536/9536.jpg',
         width: 1200,
         height: 630,
         alt: '初冬の白銀に包まれる花巻南温泉郷と豊沢川雪見露天風呂'
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "岩手・花巻南温泉郷で過ごす冬の旅（11・12月）！白銀の豊沢渓谷と宮沢賢治ゆかりの木造湯治宿・自噴立ち湯「白猿の湯」と極上前沢牛＆白金豚を堪能する名宿5選",
     description: "11月中旬から初冬の白銀世界へと移ろう岩手県花巻市の奥座敷・花巻南温泉郷。豊沢川の清流に沿って点在する鉛温泉や大沢温泉は、宮沢賢治や高村光太郎ら文豪が愛した東北屈指の歴史ある湯治場です。足元から澄んだ源泉が滾々と自噴する日本一深い天然岩風呂「白猿の湯」をはじめ、川面と一体になる大沢の湯の雪見混浴露天、宮大工の技が息づく格調高い木造建築など、冬の寒さを忘れさせる風情あふれる名湯が揃います。夕餉には、岩手が誇る最高峰の銘柄牛「前沢牛」や「雫石牛」のすき焼き・ステーキ、きめ細やかな肉質と甘みが際立つ花巻名物「白金豚（プラチナポーク）」のしゃぶしゃぶ、南部ひっつみ鍋など、滋味あふれるみちのくの冬の味覚を心ゆくまで満喫できます。初冬の花巻南温泉郷で極上の癒やしを約束する厳選名宿5選を詳細に解説します。",
-    images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/9536/9536.jpg']
   }
 };
 
@@ -325,7 +325,7 @@ export default function IwateHanamakiMinamiPage() {
       <header className="relative bg-gradient-to-b from-stone-900 via-stone-800 to-stone-900 text-white py-16 sm:py-24 px-4 sm:px-6 lg:px-8 overflow-hidden">
         <div className="absolute inset-0 opacity-25 mix-blend-overlay pointer-events-none">
           <Image
-            src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=2000&q=80"
+            src="https://img.travel.rakuten.co.jp/share/HOTEL/9536/9536.jpg"
             alt="白銀の花巻南温泉郷と豊沢川の初冬雪景色"
             fill
             className="object-cover"

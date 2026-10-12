@@ -8,17 +8,17 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月福井：曹洞宗大本山永平寺の雪静寂！名宿5選',
-  description: '冬の福井・永平寺は、樹齢数百年を数える杉木立と回廊が純白の雪に包まれ、770余年の歴史を誇る禅の祈りが厳かに響き渡る静寂の聖地。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '冬の福井・永平寺は、樹齢数百年を数える杉木立と回廊が純白の雪に包まれ、770余年の歴史を誇る禅の祈りが厳かに響き渡る静寂の聖地。',
   keywords: '永平寺 ホテル, 永平寺 親禅の宿 柏樹關, 福井 永平寺 初詣, 越前おろしそば, 若狭牛, 越前がに, コートヤードバイマリオット福井, 11月 12月 1月 福井 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukui-eiheiji-snow-zen-echizen-oroshi-soba-wakasa-beef-stay/"
   },
   openGraph: {
     title: '11・12・1月福井：曹洞宗大本山永平寺の雪静寂！名宿5選',
-    description: '冬の福井・永平寺は、樹齢数百年を数える杉木立と回廊が純白の雪に包まれ、770余年の歴史を誇る禅の祈りが厳かに響き渡る静寂の聖地。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '冬の福井・永平寺は、樹齢数百年を数える杉木立と回廊が純白の雪に包まれ、770余年の歴史を誇る禅の祈りが厳かに響き渡る静寂の聖地。',
     url: 'https://croud-travel.pages.dev/winter-fukui-eiheiji-snow-zen-echizen-oroshi-soba-wakasa-beef-stay',
     type: 'article',
-    images: [{ url: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=630', width: 1200, height: 630, alt: '大本山永平寺の雪景色と静寂の回廊' }]
+    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/173065/173065.jpg', width: 1200, height: 630, alt: '大本山永平寺の雪景色と静寂の回廊' }]
   },
   twitter: {
     card: 'summary_large_image',

@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '磐梯熱海温泉で過ごす冬の旅（11・12月）！萩姫伝説の美人の湯！名宿5選',
-  description: '南北朝時代の萩姫伝説が息づく郡山の奥座敷「磐梯熱海温泉」。pH9を超えるアルカリ性単純泉と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '南北朝時代の萩姫伝説が息づく郡山の奥座敷「磐梯熱海温泉」。pH9を超えるアルカリ性単純泉と。',
   keywords: '磐梯熱海温泉 宿泊, 磐梯熱海温泉 11月 12月, ホテル華の湯, 離れの宿 よもぎ埜, 四季彩 一力, 守田屋, 萩姫伝説 美人の湯, 猪苗代湖 白鳥 飛来, 福島牛 すき焼き, 会津新酒',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukushima-bandai-atami-onsen-bihada-swan-stay/",
   },
   openGraph: {
     title: '磐梯熱海温泉で過ごす冬の旅（11・12月）！萩姫伝説の美人の湯！名宿5選',
-    description: '南北朝時代の萩姫伝説が息づく郡山の奥座敷「磐梯熱海温泉」。pH9を超えるアルカリ性単純泉と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '南北朝時代の萩姫伝説が息づく郡山の奥座敷「磐梯熱海温泉」。pH9を超えるアルカリ性単純泉と。',
     url: 'https://croud-travel.pages.dev/winter-fukushima-bandai-atami-onsen-bihada-swan-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/15988/15988.jpg',
         width: 1200,
         height: 630,
         alt: "【11・12月磐梯熱海温泉の冬名湯と美肌ぬる湯】萩姫伝説の美人の湯・猪苗代湖白鳥飛来と極上福島牛＆会津新酒の宿5選",
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "磐梯熱海温泉の冬名湯と美肌ぬる湯で過ごす冬の旅（11・12月）！萩姫伝説の美人の湯・猪苗代湖白鳥飛来と極上福島牛＆会津新酒の宿5選",
     description: "南北朝時代の萩姫伝説が息づく郡山の奥座敷「磐梯熱海温泉」。pH9を超えるアルカリ性単純泉と、元湯の「ぬる湯」＆自家源泉「あつ湯」の交互浴で至高の美肌効果を体感。11月にシベリアから猪苗代湖へ飛来する優美な白鳥群と磐梯山初冠雪、極上の霜降り福島牛、会津郷土料理こづゆ、初冬のしぼりたて新酒地酒を堪能する名宿5選を徹底解説。",
-    images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80'],
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/15988/15988.jpg'],
   }
 };
 
@@ -71,7 +71,7 @@ export default function BandaiAtamiWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-fukushima-bandai-atami-onsen-bihada-swan-stay#article",
         "headline": "【11・12月磐梯熱海温泉の冬名湯と美肌ぬる湯】萩姫伝説の美人の湯・猪苗代湖白鳥飛来と極上福島牛＆会津新酒の宿5選",
         "description": "南北朝時代の萩姫伝説が息づく郡山の奥座敷「磐梯熱海温泉」。pH9を超えるアルカリ性単純泉と、元湯の「ぬる湯」＆自家源泉「あつ湯」の交互浴で至高の美肌効果を体感。11月にシベリアから猪苗代湖へ飛来する優美な白鳥群と磐梯山初冠雪、極上の霜降り福島牛、会津郷土料理こづゆ、初冬のしぼりたて新酒地酒を堪能する名宿5選を徹底解説。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/15988/15988.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {
@@ -286,7 +286,7 @@ export default function BandaiAtamiWinterPage() {
       {/* Hero Header */}
       <header className="relative h-[520px] md:h-[620px] flex items-center justify-center text-white overflow-hidden bg-slate-950">
         <Image
-          src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1600&q=85"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/15988/15988.jpg"
           alt="磐梯熱海温泉の清流五百川雪見露天風呂と萩姫伝説の美肌ぬる湯・極上福島牛"
           fill
           priority

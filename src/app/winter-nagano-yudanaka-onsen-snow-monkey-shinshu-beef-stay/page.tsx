@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '信州湯田中渋温泉郷で過ごす冬の旅（11・12月）！登録有形文化財風呂！名宿5選',
-  description: '11月下旬から12月にかけて長野県・北信濃の志賀高原山麓に広がる湯田中渋温泉郷は、初雪が舞い始め。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月下旬から12月にかけて長野県・北信濃の志賀高原山麓に広がる湯田中渋温泉郷は、初雪が舞い始め。',
   keywords: '湯田中温泉 宿泊, 渋温泉 11月 12月, 地獄谷 スノーモンキー 宿, よろづや 桃山風呂, あぶらや燈千, 清風荘, 湯田中 島屋, 春蘭の宿さかえや, 信州牛 ステーキ, 九湯めぐり, 長野 冬 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagano-yudanaka-onsen-snow-monkey-shinshu-beef-stay/",
   },
   openGraph: {
     title: '信州湯田中渋温泉郷で過ごす冬の旅（11・12月）！登録有形文化財風呂！名宿5選',
-    description: '11月下旬から12月にかけて長野県・北信濃の志賀高原山麓に広がる湯田中渋温泉郷は、初雪が舞い始め。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月下旬から12月にかけて長野県・北信濃の志賀高原山麓に広がる湯田中渋温泉郷は、初雪が舞い始め。',
     url: 'https://croud-travel.pages.dev/winter-nagano-yudanaka-onsen-snow-monkey-shinshu-beef-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/52848/52848.jpg',
         width: 1200,
         height: 630,
         alt: "【11・12月信州湯田中渋温泉郷の雪中スノーモンキーと開湯1350年名湯】登録有形文化財風呂・信州プレミアム牛ステーキ＆雪見酒の宿5選",
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "信州湯田中渋温泉郷の雪中スノーモンキーと開湯1350年名湯で過ごす冬の旅（11・12月）！登録有形文化財風呂・信州プレミアム牛ステーキ＆雪見酒の宿5選",
     description: "11月下旬から12月にかけて長野県・北信濃の志賀高原山麓に広がる湯田中渋温泉郷は、初雪が舞い始め、世界で唯一温泉に入るニホンザルが見られる「地獄谷野猿公苑（スノーモンキー）」の本格シーズンが開幕します。開湯から1350年以上の歴史を誇る湯田中温泉・渋温泉は、石畳の小径に湯煙が立ち上り、国の登録有形文化財に指定された壮麗な木造建築「桃山風呂」や9つの外湯めぐりが情緒豊か。湯上がりに味わう「信州プレミアム牛肉」の陶板ステーキや信州サーモン、名物信州そば、北信流の雪見地酒を堪能する至福の温泉旅名宿5選を徹底解説。",
-    images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80'],
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/52848/52848.jpg'],
   }
 };
 
@@ -71,7 +71,7 @@ export default function NaganoYudanakaWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-nagano-yudanaka-onsen-snow-monkey-shinshu-beef-stay#article",
         "headline": "【11・12月信州湯田中渋温泉郷の雪中スノーモンキーと開湯1350年名湯】登録有形文化財風呂・信州プレミアム牛ステーキ＆雪見酒の宿5選",
         "description": "11月下旬から12月にかけて長野県・北信濃の志賀高原山麓に広がる湯田中渋温泉郷は、初雪が舞い始め、世界で唯一温泉に入るニホンザルが見られる「地獄谷野猿公苑（スノーモンキー）」の本格シーズンが開幕します。開湯から1350年以上の歴史を誇る湯田中温泉・渋温泉は、石畳の小径に湯煙が立ち上り、国の登録有形文化財に指定された壮麗な木造建築「桃山風呂」や9つの外湯めぐりが情緒豊か。湯上がりに味わう「信州プレミアム牛肉」の陶板ステーキや信州サーモン、名物信州そば、北信流の雪見地酒を堪能する至福の温泉旅名宿5選を徹底解説。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/52848/52848.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {

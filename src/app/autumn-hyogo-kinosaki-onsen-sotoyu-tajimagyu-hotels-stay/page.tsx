@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     locale: 'ja_JP',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/75399/75399.jpg',
         width: 1200,
         height: 630,
         alt: "城崎温泉 柳並木",
@@ -119,7 +119,7 @@ export default function FeaturePage() {
       <header className="relative bg-stone-900 text-white py-16 md:py-24 overflow-hidden">
         <div className="absolute inset-0 opacity-40 mix-blend-overlay">
           <Image 
-            src="https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1600&q=80" 
+            src="https://img.travel.rakuten.co.jp/share/HOTEL/75399/75399.jpg" 
             alt="城崎温泉 柳並木"
             fill
             priority

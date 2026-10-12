@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月愛知：冬旬の天然とらふぐ！名宿5選',
-  description: '黒潮の恩恵を受ける愛知県・渥美半島（田原市）は、冬でも日差しが暖かく、1月上旬からは日本屈指の早春を告げる「渥美半島菜の花まつり」が開幕。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '黒潮の恩恵を受ける愛知県・渥美半島（田原市）は、冬でも日差しが暖かく、1月上旬からは日本屈指の早春を告げる「渥美半島菜の花まつり」が開幕に合わせて訪れたい周辺の厳選宿をまとめました。',
   keywords: '渥美半島 ホテル, 伊良湖 ホテル, 伊良湖温泉 旅館, 渥美半島 菜の花まつり, 伊良湖岬 初日の出, 天然とらふぐ 渥美半島, 大アサリ 伊良湖, 角上楼, 伊良湖オーシャンリゾート, 1月 愛知 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-aichi-atsumi-irako-nanohana-torafugu-asari-stay/"
   },
   openGraph: {
     title: '11・12・1月愛知：冬旬の天然とらふぐ！名宿5選',
-    description: '黒潮の恩恵を受ける愛知県・渥美半島（田原市）は、冬でも日差しが暖かく、1月上旬からは日本屈指の早春を告げる「渥美半島菜の花まつり」が開幕。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '黒潮の恩恵を受ける愛知県・渥美半島（田原市）は、冬でも日差しが暖かく、1月上旬からは日本屈指の早春を告げる「渥美半島菜の花まつり」が開幕に合わせて訪れたい周辺の厳選宿をまとめました。',
     url: 'https://croud-travel.pages.dev/winter-aichi-atsumi-irako-nanohana-torafugu-asari-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',

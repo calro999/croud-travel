@@ -22,14 +22,14 @@ import {
 
 export const metadata: Metadata = {
   title: '志賀高原＆地獄谷野猿公苑：スノーモンキーと極上パウダースノー！名宿5選',
-  description: '世界が息を呑む奇跡の光景「温泉に入る雪猿（スノーモンキー）」地獄谷野猿公苑の冬攻略完全ガイド。白銀の横手山・焼額山パウダースノー。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '世界が息を呑む奇跡の光景「温泉に入る雪猿（スノーモンキー）」地獄谷野猿公苑の冬攻略完全ガイド。白銀の横手山・焼額山パウダースノー。',
   keywords: '志賀高原, 地獄谷野猿公苑, スノーモンキー, 湯田中温泉, 渋温泉, 志賀高原プリンスホテル, 金具屋, よろづや, 九湯めぐり, 信州牛, 冬旅行, スキー',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-nagano-shiga-kogen-snow-monkey-jigokudani-onsen-stay',
   },
   openGraph: {
     title: '志賀高原＆地獄谷野猿公苑：スノーモンキーと極上パウダースノー！名宿5選',
-    description: '世界が息を呑む奇跡の光景「温泉に入る雪猿（スノーモンキー）」地獄谷野猿公苑の冬攻略完全ガイド。白銀の横手山・焼額山パウダースノー。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '世界が息を呑む奇跡の光景「温泉に入る雪猿（スノーモンキー）」地獄谷野猿公苑の冬攻略完全ガイド。白銀の横手山・焼額山パウダースノー。',
     url: 'https://croud-travel.pages.dev/winter-nagano-shiga-kogen-snow-monkey-jigokudani-onsen-stay',
     siteName: 'トラベルマップ - 日本の観光名所＆ホテル厳選ガイド',
     locale: 'ja_JP',

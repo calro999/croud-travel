@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月東京：HIBIYA Magic Timeイルミ！名宿5選',
-  description: '11月中旬から1月にかけて、銀座・日比谷・有楽町は世界屈指の洗練と華やぎに満ちた冬の祝祭シーズンを迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月中旬から1月にかけて、銀座・日比谷・有楽町は世界屈指の洗練と華やぎに満ちた冬の祝祭シーズンを迎えます。',
   keywords: '銀座 ホテル, 日比谷 イルミネーション, 東京クリスマスマーケット 日比谷, 帝国ホテル 東京, ザ ペニンシュラ東京, 三井ガーデンホテル銀座プレミア, 銀座 美食 すき焼き, 11月 12月 1月 東京 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tokyo-ginza-hibiya-illumination-christmas-market-luxury-stay/"
   },
   openGraph: {
     title: '11・12・1月東京：HIBIYA Magic Timeイルミ！名宿5選',
-    description: '11月中旬から1月にかけて、銀座・日比谷・有楽町は世界屈指の洗練と華やぎに満ちた冬の祝祭シーズンを迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月中旬から1月にかけて、銀座・日比谷・有楽町は世界屈指の洗練と華やぎに満ちた冬の祝祭シーズンを迎えます。',
     url: 'https://croud-travel.pages.dev/winter-tokyo-ginza-hibiya-illumination-christmas-market-luxury-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',

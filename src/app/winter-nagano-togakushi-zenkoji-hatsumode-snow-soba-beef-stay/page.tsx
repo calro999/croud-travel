@@ -9,19 +9,19 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月長野：国宝善光寺「お朝事」初詣！名宿5選',
-  description: '11月から1月、信州の冬は静謐と祈りに満ちた神聖な季節を迎えます。樹齢400年を超える杉並木が一面の雪化粧に包まれる日本屈指の聖地「戸隠神社。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から1月、信州の冬は静謐と祈りに満ちた神聖な季節を迎えます。樹齢400年を超える杉並木が一面の雪化粧に包まれる日本屈指の聖地「戸隠神社。',
   keywords: '戸隠神社 冬 奥社 杉並木, 戸隠そば 新そば 冬, 善光寺 お朝事 初詣, 善光寺 宿坊 淵之坊, ホテル国際21 長野, 長野ホテル犀北館, チサングランド長野, 長野東急REIホテル, 信州牛 すき焼き, 11月 12月 1月 長野旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagano-togakushi-zenkoji-hatsumode-snow-soba-beef-stay/"
   },
   openGraph: {
     title: '11・12・1月長野：国宝善光寺「お朝事」初詣！名宿5選',
-    description: '11月から1月、信州の冬は静謐と祈りに満ちた神聖な季節を迎えます。樹齢400年を超える杉並木が一面の雪化粧に包まれる日本屈指の聖地「戸隠神社。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から1月、信州の冬は静謐と祈りに満ちた神聖な季節を迎えます。樹齢400年を超える杉並木が一面の雪化粧に包まれる日本屈指の聖地「戸隠神社。',
     url: 'https://croud-travel.pages.dev/winter-nagano-togakushi-zenkoji-hatsumode-snow-soba-beef-stay',
     siteName: 'クラドトラベル',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/2571/2571.jpg',
         width: 1200,
         height: 630,
         alt: '冬の戸隠神社・白銀の杉並木と国宝善光寺の雪景色'
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月長野：白銀の戸隠神社・奥社杉並木と冬の戸隠新そば＆国宝善光寺「お朝事」初詣・信州牛を堪能する名宿5選",
     description: "11月から1月、信州の冬は静謐と祈りに満ちた神聖な季節を迎えます。樹齢400年を超える杉並木が一面の雪化粧に包まれる日本屈指の聖地「戸隠神社・奥社」の白銀古道と、秋収穫の風味豊かな「戸隠手打ち新そば」。そして約1400年の歴史を誇り「一生に一度は善光寺参り」と称される国宝「善光寺」での冬の朝のお朝事（あさじ）・お数珠頂戴と新春初詣。善光寺門前の歴史ある宿坊や格式高いシティホテル、信州プレミアム牛肉のすき焼きと信州味噌仕立ての温かな郷土料理に癒やされる冬の名宿5選をお届けします。",
-    images: ['https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/2571/2571.jpg']
   }
 };
 
@@ -44,7 +44,7 @@ export default function NaganoTogakushiZenkojiWinterPage() {
     '@type': 'Article',
     headline: "11・12・1月長野：白銀の戸隠神社・奥社杉並木と冬の戸隠新そば＆国宝善光寺「お朝事」初詣・信州牛を堪能する名宿5選",
     description: "11月から1月、信州の冬は静謐と祈りに満ちた神聖な季節を迎えます。樹齢400年を超える杉並木が一面の雪化粧に包まれる日本屈指の聖地「戸隠神社・奥社」の白銀古道と、秋収穫の風味豊かな「戸隠手打ち新そば」。そして約1400年の歴史を誇り「一生に一度は善光寺参り」と称される国宝「善光寺」での冬の朝のお朝事（あさじ）・お数珠頂戴と新春初詣。善光寺門前の歴史ある宿坊や格式高いシティホテル、信州プレミアム牛肉のすき焼きと信州味噌仕立ての温かな郷土料理に癒やされる冬の名宿5選をお届けします。",
-    image: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://img.travel.rakuten.co.jp/share/HOTEL/2571/2571.jpg',
     datePublished: '',
     dateModified: '',
     author: {
@@ -271,7 +271,7 @@ export default function NaganoTogakushiZenkojiWinterPage() {
       <header className="relative bg-slate-950 text-white overflow-hidden py-16 sm:py-24">
         <div className="absolute inset-0 opacity-35 mix-blend-overlay">
           <img 
-            src="https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1800&q=80" 
+            src="https://img.travel.rakuten.co.jp/share/HOTEL/2571/2571.jpg" 
             alt="冬の信州・白銀の戸隠神社奥社杉並木と善光寺" 
             className="w-full h-full object-cover"
           />

@@ -8,17 +8,17 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月愛知：三光稲荷神社新春初詣！名宿5選',
-  description: '冬の愛知・犬山は、木曽川の断崖にそびえる現存最古の木造天守「国宝犬山城」が凛とした青空と朝霧に映え。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '冬の愛知・犬山は、木曽川の断崖にそびえる現存最古の木造天守「国宝犬山城」が凛とした青空と朝霧に映える絶景ロケーションとともに楽しむ宿泊ガイドです。',
   keywords: '犬山 ホテル, 国宝犬山城 冬景色, 三光稲荷神社 初詣, 犬山温泉 白帝の湯, 名古屋コーチン 鍋, ホテルインディゴ犬山有楽苑, 灯屋迎帆楼, 11月 12月 1月 愛知 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-aichi-inuyama-castle-kiso-river-nagoya-cochin-stay/"
   },
   openGraph: {
     title: '11・12・1月愛知：三光稲荷神社新春初詣！名宿5選',
-    description: '冬の愛知・犬山は、木曽川の断崖にそびえる現存最古の木造天守「国宝犬山城」が凛とした青空と朝霧に映え。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '冬の愛知・犬山は、木曽川の断崖にそびえる現存最古の木造天守「国宝犬山城」が凛とした青空と朝霧に映える絶景ロケーションとともに楽しむ宿泊ガイドです。',
     url: 'https://croud-travel.pages.dev/winter-aichi-inuyama-castle-kiso-river-nagoya-cochin-stay',
     type: 'article',
-    images: [{ url: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=630', width: 1200, height: 630, alt: '国宝犬山城と木曽川の冬景色' }]
+    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/183344/183344.jpg', width: 1200, height: 630, alt: '国宝犬山城と木曽川の冬景色' }]
   },
   twitter: {
     card: 'summary_large_image',

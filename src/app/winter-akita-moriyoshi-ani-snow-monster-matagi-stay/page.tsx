@@ -9,19 +9,19 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月秋田：日本三大樹氷！名宿5選',
-  description: '11月から1月、秋田県北秋田市の秀峰・森吉山（標高1,454m）と阿仁地区は、東北屈指の白銀の世界へと変貌を遂げます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から1月、秋田県北秋田市の秀峰・森吉山（標高1,454m）と阿仁地区は、東北屈指の白銀の世界へと変貌を遂げます。',
   keywords: '森吉山 樹氷, 阿仁スキー場 スノーモンスター, 秋田内陸線 冬, 打当温泉 マタギの湯, 比内地鶏 きりたんぽ鍋, 熊鍋 阿仁, 森吉山荘, 11月 12月 1月 秋田旅行, 日本三大樹氷',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-akita-moriyoshi-ani-snow-monster-matagi-stay/"
   },
   openGraph: {
     title: '11・12・1月秋田：日本三大樹氷！名宿5選',
-    description: '11月から1月、秋田県北秋田市の秀峰・森吉山（標高1,454m）と阿仁地区は、東北屈指の白銀の世界へと変貌を遂げます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から1月、秋田県北秋田市の秀峰・森吉山（標高1,454m）と阿仁地区は、東北屈指の白銀の世界へと変貌を遂げます。',
     url: 'https://croud-travel.pages.dev/winter-akita-moriyoshi-ani-snow-monster-matagi-stay',
     siteName: 'クラドトラベル',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/43897/43897.jpg',
         width: 1200,
         height: 630,
         alt: '森吉山阿仁の樹氷スノーモンスターと秋田内陸線'
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月秋田：日本三大樹氷・森吉山スノーモンスターと秋田内陸線雪景色・比内地鶏きりたんぽ鍋＆マタギの秘湯を巡る名宿5選",
     description: "11月から1月、秋田県北秋田市の秀峰・森吉山（標高1,454m）と阿仁地区は、東北屈指の白銀の世界へと変貌を遂げます。蔵王・八甲田と並び「日本三大樹氷」と称される森吉山阿仁の樹氷群（スノーモンスター）は、12月下旬から巨大な雪の彫刻へと成長し、阿仁スキー場のゴンドラで山頂駅に降り立てば見渡す限りの純白の樹氷原が旅人を圧倒。ローカル線「秋田内陸縦貫鉄道（スマイルレール）」の車窓からは、雪煙を上げて走る鉄橋と渓谷の絶景が広がり、冬限定の「ごっつお玉手箱列車」も運行されます。そして夜は、古くから狩猟採集の知恵を紡いできた「阿仁マタギ」の郷で源泉かけ流しの秘湯に浸かり、本場比内地鶏のきりたんぽ鍋や滋味豊かなマタギ鍋、秋田錦牛を熱々の地酒とともに堪能。雄大な雪山と温かな郷土文化が息づく厳選5宿を徹底紹介します。",
-    images: ['https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/43897/43897.jpg']
   }
 };
 
@@ -53,7 +53,7 @@ export default function AkitaMoriyoshiAniPage() {
         },
         "headline": "【11・12・1月秋田】日本三大樹氷・森吉山スノーモンスターと秋田内陸線雪景色・比内地鶏きりたんぽ鍋＆マタギの秘湯を巡る名宿5選",
         "description": "11月から1月、秋田県北秋田市の秀峰・森吉山（標高1,454m）と阿仁地区は、東北屈指の白銀の世界へと変貌を遂げます。蔵王・八甲田と並び「日本三大樹氷」と称される森吉山阿仁の樹氷群（スノーモンスター）は、12月下旬から巨大な雪の彫刻へと成長し、阿仁スキー場のゴンドラで山頂駅に降り立てば見渡す限りの純白の樹氷原が旅人を圧倒。ローカル線「秋田内陸縦貫鉄道（スマイルレール）」の車窓からは、雪煙を上げて走る鉄橋と渓谷の絶景が広がり、冬限定の「ごっつお玉手箱列車」も運行されます。そして夜は、古くから狩猟採集の知恵を紡いできた「阿仁マタギ」の郷で源泉かけ流しの秘湯に浸かり、本場比内地鶏のきりたんぽ鍋や滋味豊かなマタギ鍋、秋田錦牛を熱々の地酒とともに堪能。雄大な雪山と温かな郷土文化が息づく厳選5宿を徹底紹介します。",
-        "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/43897/43897.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {
@@ -236,7 +236,7 @@ export default function AkitaMoriyoshiAniPage() {
       <header className="relative bg-gradient-to-b from-stone-900 via-stone-800 to-stone-900 text-white py-16 sm:py-24 px-4 sm:px-6 lg:px-8">
         <div className="absolute inset-0 opacity-30 mix-blend-overlay overflow-hidden">
           <img 
-            src="https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1920&q=80" 
+            src="https://img.travel.rakuten.co.jp/share/HOTEL/43897/43897.jpg" 
             alt="森吉山の樹氷原背景" 
             className="w-full h-full object-cover"
           />

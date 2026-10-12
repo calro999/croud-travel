@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '下北半島下風呂温泉で過ごす冬の旅（11・12月）！津軽海峡冬景色と名物風間浦あ！名宿5選',
-  description: '11月から12月にかけて、本州最北端・下北半島の津軽海峡沿いに位置する風間浦村の「下風呂温泉（しもふろおんせん）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、本州最北端・下北半島の津軽海峡沿いに位置する風間浦村の「下風呂温泉（しもふろおんせん）」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
   keywords: '下風呂温泉 宿泊, 風間浦鮟鱇, 大間マグロ, ホテルニュー下風呂, 下風呂観光ホテル 三浦屋, まるほん旅館, 薬研温泉 薬研荘, むつグランドホテル, 白濁硫黄泉, 11月 12月 下北半島温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-aomori-shimofuro-onsen-oma-maguro-ankou-tsugaru-stay/"
   },
   openGraph: {
     title: '下北半島下風呂温泉で過ごす冬の旅（11・12月）！津軽海峡冬景色と名物風間浦あ！名宿5選',
-    description: '11月から12月にかけて、本州最北端・下北半島の津軽海峡沿いに位置する風間浦村の「下風呂温泉（しもふろおんせん）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、本州最北端・下北半島の津軽海峡沿いに位置する風間浦村の「下風呂温泉（しもふろおんせん）」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-aomori-shimofuro-onsen-oma-maguro-ankou-tsugaru-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/179893/179893.jpg',
         width: 1200,
         height: 630,
         alt: '津軽海峡冬景色と下風呂温泉の湯煙'
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "青森・下北半島下風呂温泉で過ごす冬の旅（11・12月）！津軽海峡冬景色と名物風間浦あんこう・極重大間マグロと白濁硫黄泉を巡る名宿5選",
     description: "11月から12月にかけて、本州最北端・下北半島の津軽海峡沿いに位置する風間浦村の「下風呂温泉（しもふろおんせん）」は、海峡を渡る寒風と初雪が舞う冬の旅情に包まれます。文豪・井上靖が名作『海峡』の執筆にあたり滞在したこの地は、室町時代から五百年以上の歴史を誇る秘湯。白濁した強い硫黄の香りを放つ「大湯」「新湯」など複数の源泉が湧き、対岸の北海道・恵山岬や海峡を照らすイカ釣り漁船の漁火を望む雪見風呂は圧巻です。さらに初冬の下風呂温泉を語る上で欠かせないのが、全国で唯一、生きたまま水揚げされる幻の極上魚「風間浦鮟鱇（かざまうらあんこう）」。鮮度抜群だからこそ味わえる透明なあんこうの刺身や濃厚な肝和え、熱々のあんこう鍋、そして近隣の大間港から届く「大間マグロ」。最果ての海峡温泉で心身を解き放つ至極の名宿5選を徹底解説します。",
-    images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/179893/179893.jpg']
   }
 };
 

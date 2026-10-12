@@ -9,19 +9,19 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月長野：中山道！名宿5選',
-  description: '11月から1月、信州・木曽路（中山道）は、日本最長の宿場町「奈良井宿」や重要伝統的建造物群保存地区「妻籠宿」の木造千本格子に純白の雪が降り積もり。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から1月、信州・木曽路（中山道）は、日本最長の宿場町「奈良井宿」や重要伝統的建造物群保存地区「妻籠宿」の木造千本格子に純白の雪が降り積もり。',
   keywords: '木曽路 冬, 奈良井宿 雪景色, 妻籠宿, 投じ蕎麦, すんき鍋, ＢＹＡＫＵ Ｎａｒａｉ, 木曽路の宿いわや, ＴＡＯＹＡ木曽路, 木曽牛, 木曽温泉, 11月 12月 1月 長野旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagano-kisoji-narai-tsumago-snow-toujisoba-stay/"
   },
   openGraph: {
     title: '11・12・1月長野：中山道！名宿5選',
-    description: '11月から1月、信州・木曽路（中山道）は、日本最長の宿場町「奈良井宿」や重要伝統的建造物群保存地区「妻籠宿」の木造千本格子に純白の雪が降り積もり。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から1月、信州・木曽路（中山道）は、日本最長の宿場町「奈良井宿」や重要伝統的建造物群保存地区「妻籠宿」の木造千本格子に純白の雪が降り積もり。',
     url: 'https://croud-travel.pages.dev/winter-nagano-kisoji-narai-tsumago-snow-toujisoba-stay',
     siteName: 'クラドトラベル',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/182769/182769.jpg',
         width: 1200,
         height: 630,
         alt: '冬の木曽路・奈良井宿の雪景色と千本格子'
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月長野：中山道・木曽路の雪化粧宿場町（奈良井宿・妻籠宿）と冬の郷土味覚「投じ蕎麦・すんき鍋」・木曽牛＆木曽御嶽山麓の雪見温泉宿5選",
     description: "11月から1月、信州・木曽路（中山道）は、日本最長の宿場町「奈良井宿」や重要伝統的建造物群保存地区「妻籠宿」の木造千本格子に純白の雪が降り積もり、江戸時代へタイムスリップしたかのような静寂美に包まれます。冬限定の奇跡の発酵食「すんき鍋」や竹籠でくぐらせる名物「投じ蕎麦」、極上木曽牛のすき焼き。雪化粧の中央アルプスや木曽御嶽山を望む雪見露天風呂が自慢の厳選名宿5選を徹底ガイドします。",
-    images: ['https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/182769/182769.jpg']
   }
 };
 
@@ -44,7 +44,7 @@ export default function NaganoKisojiNaraiTsumagoWinterPage() {
     '@type': 'Article',
     headline: "11・12・1月長野：中山道・木曽路の雪化粧宿場町（奈良井宿・妻籠宿）と冬の郷土味覚「投じ蕎麦・すんき鍋」・木曽牛＆木曽御嶽山麓の雪見温泉宿5選",
     description: "11月から1月、信州・木曽路（中山道）は、日本最長の宿場町「奈良井宿」や重要伝統的建造物群保存地区「妻籠宿」の木造千本格子に純白の雪が降り積もり、江戸時代へタイムスリップしたかのような静寂美に包まれます。冬限定の奇跡の発酵食「すんき鍋」や竹籠でくぐらせる名物「投じ蕎麦」、極上木曽牛のすき焼き。雪化粧の中央アルプスや木曽御嶽山を望む雪見露天風呂が自慢の厳選名宿5選を徹底ガイドします。",
-    image: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://img.travel.rakuten.co.jp/share/HOTEL/182769/182769.jpg',
     datePublished: '',
     dateModified: '',
     author: {
@@ -270,7 +270,7 @@ export default function NaganoKisojiNaraiTsumagoWinterPage() {
       <header className="relative bg-slate-950 text-white overflow-hidden py-16 sm:py-24">
         <div className="absolute inset-0 opacity-40 mix-blend-overlay">
           <img 
-            src="https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1800&q=80" 
+            src="https://img.travel.rakuten.co.jp/share/HOTEL/182769/182769.jpg" 
             alt="冬の木曽路・雪化粧の奈良井宿" 
             className="w-full h-full object-cover"
           />

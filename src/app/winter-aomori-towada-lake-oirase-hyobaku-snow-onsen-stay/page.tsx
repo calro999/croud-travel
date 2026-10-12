@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '青森で過ごす冬の旅（12・1月）！奥入瀬渓流温泉雪見露天！名宿5選',
-  description: '冬の青森・奥入瀬渓流と十和田湖は、息を呑むほどの静寂と大自然が創り出す神秘の氷結アート「巨大氷瀑（ひょうばく）」「氷柱」に包まれる白銀の聖地です。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '冬の青森・奥入瀬渓流と十和田湖は、息を呑むほどの静寂と大自然が創り出す神秘の氷結アート「巨大氷瀑（ひょうばく）」「氷柱」に包まれる白銀の聖地です。',
   keywords: '奥入瀬渓流 ホテル, 十和田湖 旅館, 奥入瀬渓流 氷瀑, 氷瀑ライトアップ, 十和田神社 初詣, 十和田バラ焼き, 星野リゾート 奥入瀬渓流ホテル, 十和田ホテル, 12月 1月 青森 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-aomori-towada-lake-oirase-hyobaku-snow-onsen-stay/"
   },
   openGraph: {
     title: '青森で過ごす冬の旅（12・1月）！奥入瀬渓流温泉雪見露天！名宿5選',
-    description: '冬の青森・奥入瀬渓流と十和田湖は、息を呑むほどの静寂と大自然が創り出す神秘の氷結アート「巨大氷瀑（ひょうばく）」「氷柱」に包まれる白銀の聖地です。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '冬の青森・奥入瀬渓流と十和田湖は、息を呑むほどの静寂と大自然が創り出す神秘の氷結アート「巨大氷瀑（ひょうばく）」「氷柱」に包まれる白銀の聖地です。',
     url: 'https://croud-travel.pages.dev/winter-aomori-towada-lake-oirase-hyobaku-snow-onsen-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',

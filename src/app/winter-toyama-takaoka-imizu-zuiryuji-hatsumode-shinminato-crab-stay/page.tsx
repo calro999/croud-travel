@@ -8,19 +8,19 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月富山：国宝「高岡瑞龍寺」初詣と雨晴海岸の気嵐絶景！名宿5選',
-  description: '北陸富山の歴史遺産と冬の富山湾の味覚に酔いしれる11〜1月の冬旅ガイド。加賀前田家ゆかりの国宝「高岡瑞龍寺」の新春初詣や日本三大仏「高岡大仏」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '北陸富山の歴史遺産と冬の富山湾の味覚に酔いしれる11〜1月の冬旅ガイド。加賀前田家ゆかりの国宝「高岡瑞龍寺」の新春初詣や日本三大仏「高岡大仏」。',
   keywords: '国宝 瑞龍寺 初詣, 雨晴海岸 気嵐 立山連峰, 新湊 紅ズワイガニ 昼セリ, 富山湾 寒ブリ, 雨晴温泉 磯はなび, 高岡マンテンホテル, ホテルニューオータニ高岡, 第一イン新湊, 富山 冬 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-toyama-takaoka-imizu-zuiryuji-hatsumode-shinminato-crab-stay/"
   },
   openGraph: {
     title: '11・12・1月富山：国宝「高岡瑞龍寺」初詣と雨晴海岸の気嵐絶景！名宿5選',
-    description: '北陸富山の歴史遺産と冬の富山湾の味覚に酔いしれる11〜1月の冬旅ガイド。加賀前田家ゆかりの国宝「高岡瑞龍寺」の新春初詣や日本三大仏「高岡大仏」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '北陸富山の歴史遺産と冬の富山湾の味覚に酔いしれる11〜1月の冬旅ガイド。加賀前田家ゆかりの国宝「高岡瑞龍寺」の新春初詣や日本三大仏「高岡大仏」。',
     url: 'https://croud-travel.pages.dev/winter-toyama-takaoka-imizu-zuiryuji-hatsumode-shinminato-crab-stay',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1578637387939-43c525550085?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/108675/108675.jpg',
         width: 1200,
         height: 630,
         alt: '冬の富山・雨晴海岸の気嵐と海越しに望む白銀の立山連峰'
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月富山：国宝「高岡瑞龍寺」初詣と雨晴海岸の気嵐絶景！新湊紅ズワイガニ＆高岡名宿5選",
     description: "北陸富山の歴史遺産と冬の富山湾の味覚に酔いしれる11〜1月の冬旅ガイド。加賀前田家ゆかりの国宝「高岡瑞龍寺」の新春初詣や日本三大仏「高岡大仏」、海越しに冠雪の立山連峰を望む雨晴海岸の幻想的な「気嵐（けあらし）」絶景。新湊漁港の昼セリで競り落とされる茹でたてアツアツの「新湊紅ズワイガニ」や、真冬が旬の「富山湾寒ブリ」「白えび」。高岡・射水・雨晴の厳選ホテル・温泉宿5選を詳しくご紹介します。",
-    images: ['https://images.unsplash.com/photo-1578637387939-43c525550085?auto=format&fit=crop&w=1200&h=630&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/108675/108675.jpg']
   }
 };
 
@@ -43,7 +43,7 @@ export default function ToyamaTakaokaImizuWinterPage() {
         "@type": "Article",
         "headline": "【11・12・1月富山】国宝「高岡瑞龍寺」初詣と雨晴海岸の気嵐絶景！新湊紅ズワイガニ＆高岡名宿5選",
         "description": "北陸富山の歴史遺産と冬の富山湾の味覚に酔いしれる11〜1月の冬旅ガイド。加賀前田家ゆかりの国宝「高岡瑞龍寺」の新春初詣や日本三大仏「高岡大仏」、海越しに冠雪の立山連峰を望む雨晴海岸の幻想的な「気嵐（けあらし）」絶景。新湊漁港の昼セリで競り落とされる茹でたてアツアツの「新湊紅ズワイガニ」や、真冬が旬の「富山湾寒ブリ」「白えび」。高岡・射水・雨晴の厳選ホテル・温泉宿5選を詳しくご紹介します。",
-        "image": "https://images.unsplash.com/photo-1578637387939-43c525550085?auto=format&fit=crop&w=1200&h=630&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/108675/108675.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {

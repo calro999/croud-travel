@@ -9,19 +9,19 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月高知：太平洋の奇跡「だるま朝日！名宿5選',
-  description: '11月中旬から1月中旬、高知県室戸岬は、冷気と黒潮の海水温差が生む冬の光学現象「だるま朝日・だるま夕日」のベストシーズン。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月中旬から1月中旬、高知県室戸岬は、冷気と黒潮の海水温差が生む冬の光学現象「だるま朝日・だるま夕日」のベストシーズン。',
   keywords: 'だるま朝日, だるま夕日, 室戸岬, 室戸キンメダイ, 室戸キンメ丼, 御厨人窟 初日の出, 空海, ホテルなはり, 岬観光ホテル, リゾートホテル海辺の果樹園, 11月 12月 1月 高知旅行, 室戸海洋深層水',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kochi-muroto-daruma-sunrise-kinmedai-deepsea-stay/"
   },
   openGraph: {
     title: '11・12・1月高知：太平洋の奇跡「だるま朝日！名宿5選',
-    description: '11月中旬から1月中旬、高知県室戸岬は、冷気と黒潮の海水温差が生む冬の光学現象「だるま朝日・だるま夕日」のベストシーズン。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月中旬から1月中旬、高知県室戸岬は、冷気と黒潮の海水温差が生む冬の光学現象「だるま朝日・だるま夕日」のベストシーズン。',
     url: 'https://croud-travel.pages.dev/winter-kochi-muroto-daruma-sunrise-kinmedai-deepsea-stay',
     siteName: 'クラドトラベル',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/20702/20702.jpg',
         width: 1200,
         height: 630,
         alt: '冬の室戸岬だるま朝日と太平洋の奇跡'
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月高知：太平洋の奇跡「だるま朝日・だるま夕日」と冬の極上「室戸キンメダイ」・御厨人窟初日の出＆海洋深層水リゾート宿5選",
     description: "11月中旬から1月中旬、高知県室戸岬は、冷気と黒潮の海水温差が生む冬の光学現象「だるま朝日・だるま夕日」のベストシーズン。弘法大師空海が開眼した御厨人窟からの元旦初日の出、深海から水揚げされる冬の極上ブランド魚「室戸キンメダイ（金目鯛）」の煮付けやキンメ丼。冬の陽だまりリゾートと太平洋を望む厳選名宿5選と1泊2日モデルコースを徹底ガイドします。",
-    images: ['https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/20702/20702.jpg']
   }
 };
 
@@ -44,7 +44,7 @@ export default function KochiMurotoDarumaWinterPage() {
     '@type': 'Article',
     headline: "11・12・1月高知：太平洋の奇跡「だるま朝日・だるま夕日」と冬の極上「室戸キンメダイ」・御厨人窟初日の出＆海洋深層水リゾート宿5選",
     description: "11月中旬から1月中旬、高知県室戸岬は、冷気と黒潮の海水温差が生む冬の光学現象「だるま朝日・だるま夕日」のベストシーズン。弘法大師空海が開眼した御厨人窟からの元旦初日の出、深海から水揚げされる冬の極上ブランド魚「室戸キンメダイ（金目鯛）」の煮付けやキンメ丼。冬の陽だまりリゾートと太平洋を望む厳選名宿5選と1泊2日モデルコースを徹底ガイドします。",
-    image: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://img.travel.rakuten.co.jp/share/HOTEL/20702/20702.jpg',
     datePublished: '',
     dateModified: '',
     author: {
@@ -270,7 +270,7 @@ export default function KochiMurotoDarumaWinterPage() {
       <header className="relative bg-slate-950 text-white overflow-hidden py-16 sm:py-24">
         <div className="absolute inset-0 opacity-35 mix-blend-overlay">
           <img 
-            src="https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1800&q=80" 
+            src="https://img.travel.rakuten.co.jp/share/HOTEL/20702/20702.jpg" 
             alt="冬の室戸岬だるま朝日と太平洋の奇跡" 
             className="w-full h-full object-cover"
           />

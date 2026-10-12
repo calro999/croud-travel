@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '信州 別所温泉で過ごす冬の旅（11・12月）！極上信州プレミアム牛！名宿5選',
-  description: '11月から12月にかけて、信州最古の温泉地として「信州の鎌倉」と称される長野県上田市の「別所温泉」は、山並みに初雪が冠し。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、信州最古の温泉地として「信州の鎌倉」と称される長野県上田市の「別所温泉」は、山並みに初雪が冠し。',
   keywords: '別所温泉 宿泊, 信州 温泉 11月 12月, 七草の湯, かしわや本店, 上松や, 玉屋旅館, 中松屋, 北向観音 参拝, 信州プレミアム牛, 源泉掛け流し 硫黄泉, 信州の鎌倉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagano-bessho-onsen-shinshu-beef-heritage-stay/"
   },
   openGraph: {
     title: '信州 別所温泉で過ごす冬の旅（11・12月）！極上信州プレミアム牛！名宿5選',
-    description: '11月から12月にかけて、信州最古の温泉地として「信州の鎌倉」と称される長野県上田市の「別所温泉」は、山並みに初雪が冠し。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、信州最古の温泉地として「信州の鎌倉」と称される長野県上田市の「別所温泉」は、山並みに初雪が冠し。',
     url: 'https://croud-travel.pages.dev/winter-nagano-bessho-onsen-shinshu-beef-heritage-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/109186/109186.jpg',
         width: 1200,
         height: 630,
         alt: '初冬の信州別所温泉と北向観音・名湯掛け流し露天風呂'
@@ -69,7 +69,7 @@ export default function NaganoBesshoWinterFeature() {
         },
         "headline": "【11・12月長野・信州 別所温泉の古湯情緒と北向観音初冬参拝】極上信州プレミアム牛＆名湯掛け流し硫黄泉で寛ぐ老舗旅館5選",
         "description": "11月から12月にかけて、信州最古の温泉地として「信州の鎌倉」と称される長野県上田市の「別所温泉」は、山並みに初雪が冠し、石畳の小路に白い湯けむりが立ち込める風情豊かな初冬を迎えます。善光寺と向かい合う厄除けの名刹「北向観音堂」への初冬参拝や、日本唯一の国宝八角三重塔を抱く安楽寺の静寂。ほのかに硫黄が香る源泉掛け流しの名湯で芯から温まり、霜降りがとろける極上「信州プレミアム牛」や千曲川の清流が育む信州サーモン、旬のサンふじ林檎を堪能する名門旅館5選を詳しく解説します。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/109186/109186.jpg",
         "datePublished": "T11:00:00+09:00",
         "dateModified": "T11:00:00+09:00",
         "publisher": {
@@ -234,7 +234,7 @@ export default function NaganoBesshoWinterFeature() {
       {/* Header Banner */}
       <header className="relative w-full h-[360px] sm:h-[480px] flex items-end justify-center bg-slate-900 text-white overflow-hidden">
         <Image
-          src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1600&q=80"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/109186/109186.jpg"
           alt="塩田平と初冬の別所温泉街パノラマ"
           fill
           priority

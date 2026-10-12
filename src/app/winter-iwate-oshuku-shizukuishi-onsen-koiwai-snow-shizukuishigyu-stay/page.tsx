@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '鶯宿温泉＆雫石で過ごす冬の旅（11・12月）！開湯450年の名湯と小岩井農場雪景色！名宿5選',
-  description: '11月から12月にかけて、秀峰・岩手山の雄大な裾野に広がる岩手県雫石町（しずくいしちょう）は、澄み切った初冬の空と白銀の雪化粧に彩られます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、秀峰・岩手山の雄大な裾野に広がる岩手県雫石町（しずくいしちょう）は、澄み切った初冬の空と白銀の雪化粧に彩られます。',
   keywords: '鶯宿温泉 宿泊, 雫石プリンスホテル, ホテル森の風 鶯宿, 川長, ゆとりろ雫石, あけぼの荘, 雫石牛, 小岩井農場 イルミネーション, 盛岡冷麺, 11月 12月 岩手温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-iwate-oshuku-shizukuishi-onsen-koiwai-snow-shizukuishigyu-stay/"
   },
   openGraph: {
     title: '鶯宿温泉＆雫石で過ごす冬の旅（11・12月）！開湯450年の名湯と小岩井農場雪景色！名宿5選',
-    description: '11月から12月にかけて、秀峰・岩手山の雄大な裾野に広がる岩手県雫石町（しずくいしちょう）は、澄み切った初冬の空と白銀の雪化粧に彩られます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、秀峰・岩手山の雄大な裾野に広がる岩手県雫石町（しずくいしちょう）は、澄み切った初冬の空と白銀の雪化粧に彩られます。',
     url: 'https://croud-travel.pages.dev/winter-iwate-oshuku-shizukuishi-onsen-koiwai-snow-shizukuishigyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/9572/9572.jpg',
         width: 1200,
         height: 630,
         alt: '初冬の岩手山と鶯宿温泉の雪景色'
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "岩手・鶯宿温泉＆雫石で過ごす冬の旅（11・12月）！開湯450年の名湯と小岩井農場雪景色・極上雫石牛＆盛岡三大麺を味わう名宿5選",
     description: "11月から12月にかけて、秀峰・岩手山の雄大な裾野に広がる岩手県雫石町（しずくいしちょう）は、澄み切った初冬の空と白銀の雪化粧に彩られます。天正年間に一羽の傷ついた鶯（うぐいす）が川の湧水で傷を癒やしていたことから名付けられた「鶯宿温泉（おうしゅくおんせん）」は、開湯450余年の歴史を誇る名湯。毎分3,000リットル以上という圧倒的な湯量を誇り、肌に吸い付くようなアルカリ性単純温泉や単純硫黄泉が雪景色の中に湧き上がります。11月下旬から12月には、近隣の小岩井農場で東北最大級の光の祭典「銀河農場の夜（イルミネーション）」が開催され、白銀の大地ときらめく光の幻想的な競演が楽しめます。夕食には甘みと旨味が凝縮した「雫石牛」や「前沢牛」のステーキ、三陸直送の海の幸、盛岡冷麺やじゃじゃ麺などのご当地麺。初冬の岩手・雫石で極上の雪見風呂と美食に満たされる厳選名宿5選を詳しく紹介します。",
-    images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/9572/9572.jpg']
   }
 };
 

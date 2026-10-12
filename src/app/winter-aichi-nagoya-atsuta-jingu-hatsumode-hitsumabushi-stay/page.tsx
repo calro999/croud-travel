@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月愛知：三種の神器を祀る「熱田神宮」新春初詣！名宿5選',
-  description: '11月の晩秋から新春1月にかけて、年間約200万人以上の参拝客で賑わう東海随一の聖地「熱田神宮」。三種の神器の一つ「草薙神剣（くさなぎのみつ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月の晩秋から新春1月にかけて、年間約200万人以上の参拝客で賑わう東海随一の聖地「熱田神宮」。三種の神器の一つ「草薙神剣（くさなぎのみつ。',
   keywords: '熱田神宮 初詣, 熱田神宮 ひつまぶし, 名古屋 冬 旅行, 名古屋コーチン 鍋, 名古屋マリオットアソシアホテル, ANAクラウンプラザホテルグランコート名古屋, 名古屋観光ホテル, ヒルトン名古屋, 三井ガーデンホテル名古屋プレミア, 11月 12月 1月 愛知 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-aichi-nagoya-atsuta-jingu-hatsumode-hitsumabushi-stay/"
   },
   openGraph: {
     title: '11・12・1月愛知：三種の神器を祀る「熱田神宮」新春初詣！名宿5選',
-    description: '11月の晩秋から新春1月にかけて、年間約200万人以上の参拝客で賑わう東海随一の聖地「熱田神宮」。三種の神器の一つ「草薙神剣（くさなぎのみつ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月の晩秋から新春1月にかけて、年間約200万人以上の参拝客で賑わう東海随一の聖地「熱田神宮」。三種の神器の一つ「草薙神剣（くさなぎのみつ。',
     url: 'https://croud-travel.pages.dev/winter-aichi-nagoya-atsuta-jingu-hatsumode-hitsumabushi-stay',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/12543/12543.jpg', width: 1200, height: 630, alt: '熱田神宮初詣とひつまぶし・名古屋名宿' }]

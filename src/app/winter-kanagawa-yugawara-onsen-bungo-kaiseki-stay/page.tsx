@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '湯河原温泉で過ごす冬の旅（11・12月）！相模湾の伊勢海老！名宿5選',
-  description: '万葉集に唯一詠まれた関東最古の名湯・神奈川県湯河原温泉。11月下旬から12月上旬にかけて奥湯河原やもみじの郷を彩る関東で最も遅い錦秋の紅葉。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '万葉集に唯一詠まれた関東最古の名湯・神奈川県湯河原温泉。11月下旬から12月上旬にかけて奥湯河原やもみじの郷を彩る関東で最も遅い錦秋の紅葉。',
   keywords: '湯河原温泉 宿泊 11月 12月, 湯河原温泉 紅葉 もみじの郷, 奥湯河原 旅館 おすすめ, 上野屋 山翠楼 湯河原, 湯河原 伊勢海老 金目鯛, 文豪 湯河原温泉 夏目漱石, 湯河原温泉 冬 モデルコース',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay/",
   },
   openGraph: {
     title: '湯河原温泉で過ごす冬の旅（11・12月）！相模湾の伊勢海老！名宿5選',
-    description: '万葉集に唯一詠まれた関東最古の名湯・神奈川県湯河原温泉。11月下旬から12月上旬にかけて奥湯河原やもみじの郷を彩る関東で最も遅い錦秋の紅葉。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '万葉集に唯一詠まれた関東最古の名湯・神奈川県湯河原温泉。11月下旬から12月上旬にかけて奥湯河原やもみじの郷を彩る関東で最も遅い錦秋の紅葉。',
     url: 'https://croud-travel.pages.dev/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/31980/31980.jpg',
         width: 1200,
         height: 630,
         alt: "【11・12月湯河原温泉の名湯と奥湯河原晩秋紅葉】文豪が愛した万葉の隠れ家・相模湾の伊勢海老＆地魚会席の宿5選",
@@ -47,7 +47,7 @@ export default function YugawaraWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay#article",
         "headline": "【11・12月湯河原温泉の名湯と奥湯河原晩秋紅葉】文豪が愛した万葉の隠れ家・相模湾の伊勢海老＆地魚会席の宿5選",
         "description": "万葉集に唯一詠まれた関東最古の名湯・神奈川県湯河原温泉。11月下旬から12月上旬にかけて奥湯河原やもみじの郷を彩る関東で最も遅い錦秋の紅葉。夏目漱石や芥川龍之介ら文豪が愛した静寂の数寄屋宿、肌を柔らかく包む弱アルカリ性源泉、そして相模湾の冬の味覚・伊勢海老や寒金目鯛の贅沢会席を堪能する極上冬旅ガイド。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/31980/31980.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {
@@ -254,7 +254,7 @@ export default function YugawaraWinterPage() {
       {/* Hero Header */}
       <header className="relative h-[520px] md:h-[620px] flex items-center justify-center text-white overflow-hidden bg-stone-950">
         <Image
-          src="https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1600&q=85"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/31980/31980.jpg"
           alt="初冬の奥湯河原・清流沿いの遅咲き紅葉と歴史ある木造数寄屋造りの老舗温泉宿"
           fill
           priority

@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '伊豆稲取温泉で過ごす冬の旅（11・12月）！オーシャンビュー展望露天風呂！名宿5選',
-  description: '11月から12月にかけて、伊豆半島東海岸の岬に広がる稲取温泉は、冬の味覚の最高峰「稲取一本釣り地金目鯛（きんめだい）」が年間で最も上質な脂を。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、伊豆半島東海岸の岬に広がる稲取温泉は、冬の味覚の最高峰「稲取一本釣り地金目鯛（きんめだい）」が年間で最も上質な脂を。',
   keywords: '稲取温泉 宿泊, 伊豆 温泉 11月 12月, 稲取銀水荘, 食べるお宿 浜の湯, 稲取東海ホテル湯苑, いなとり荘, 石花海, 稲取金目鯛 姿煮, 相模灘 絶景露天, 伊豆 避寒旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay/"
   },
   openGraph: {
     title: '伊豆稲取温泉で過ごす冬の旅（11・12月）！オーシャンビュー展望露天風呂！名宿5選',
-    description: '11月から12月にかけて、伊豆半島東海岸の岬に広がる稲取温泉は、冬の味覚の最高峰「稲取一本釣り地金目鯛（きんめだい）」が年間で最も上質な脂を。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、伊豆半島東海岸の岬に広がる稲取温泉は、冬の味覚の最高峰「稲取一本釣り地金目鯛（きんめだい）」が年間で最も上質な脂を。',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/8711/8711.jpg',
         width: 1200,
         height: 630,
         alt: '初冬の伊豆稲取温泉と相模灘を望むオーシャンビュー絶景露天風呂'
@@ -69,7 +69,7 @@ export default function ShizuokaInatoriWinterFeature() {
         },
         "headline": "【11・12月静岡・伊豆稲取温泉の極上地金目鯛会席と相模灘絶景】オーシャンビュー展望露天風呂＆伊豆温暖避寒の宿5選",
         "description": "11月から12月にかけて、伊豆半島東海岸の岬に広がる稲取温泉は、冬の味覚の最高峰「稲取一本釣り地金目鯛（きんめだい）」が年間で最も上質な脂を蓄える最高の旬を迎えます。黒潮の恩恵を受ける伊豆稲取は、初冬でも穏やかで温暖な気候に恵まれ、寒さを逃れて贅沢な美食と温泉を楽しみたい避寒旅行に最適。目の前に広がる相模灘の水平線から昇る神々しい朝日、伊豆大島を望むパノラマ絶景露天風呂、そして秘伝のタレでふっくら炊き上げた名物「金目鯛の姿煮」に舌鼓を打つ、厳選のおすすめ温泉旅館5選を旅行専門ライターが徹底ガイドします。",
-        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&h=630&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/8711/8711.jpg",
         "datePublished": "T10:00:00+09:00",
         "dateModified": "T10:00:00+09:00",
         "publisher": {
@@ -234,7 +234,7 @@ export default function ShizuokaInatoriWinterFeature() {
       {/* Header Banner */}
       <header className="relative w-full h-[360px] sm:h-[480px] flex items-end justify-center bg-slate-900 text-white overflow-hidden">
         <Image
-          src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/8711/8711.jpg"
           alt="相模灘の水平線と初冬の伊豆稲取温泉"
           fill
           priority

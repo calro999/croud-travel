@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: 'ニセコ温泉郷で過ごす冬の旅（11・12月）！道産黒毛和牛！名宿5選',
-  description: '11月下旬から12月にかけて北海道・ニセコ山麓は、世界中のスキーヤーや旅人を魅了する超微粒子の初雪「パウダースノー（Japow）」に包まれ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月下旬から12月にかけて北海道・ニセコ山麓は、世界中のスキーヤーや旅人を魅了する超微粒子の初雪「パウダースノー（Japow）」に包まれ。',
   keywords: 'ニセコ温泉 宿泊, ニセコ 11月 12月, ニセコ パウダースノー, 羊蹄山 絶景 宿, 杢の抄, 木ニセコ, パークハイアットニセコ, ヒルトンニセコビレッジ, ニセコノーザンリゾート, 道産牛 ステーキ, 北海道 冬 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hokkaido-niseko-onsen-powder-snow-yotei-stay/",
   },
   openGraph: {
     title: 'ニセコ温泉郷で過ごす冬の旅（11・12月）！道産黒毛和牛！名宿5選',
-    description: '11月下旬から12月にかけて北海道・ニセコ山麓は、世界中のスキーヤーや旅人を魅了する超微粒子の初雪「パウダースノー（Japow）」に包まれ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月下旬から12月にかけて北海道・ニセコ山麓は、世界中のスキーヤーや旅人を魅了する超微粒子の初雪「パウダースノー（Japow）」に包まれ。',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-niseko-onsen-powder-snow-yotei-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/142863/142863.jpg',
         width: 1200,
         height: 630,
         alt: "【11・12月ニセコ温泉郷の初雪パウダースノーと羊蹄山絶景】白銀の蝦夷富士望む露天風呂・道産黒毛和牛＆冬の北海味覚ディナーの宿5選",
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "ニセコ温泉郷の初雪パウダースノーと羊蹄山絶景で過ごす冬の旅（11・12月）！白銀の蝦夷富士望む露天風呂・道産黒毛和牛＆冬の北海味覚ディナーの宿5選",
     description: "11月下旬から12月にかけて北海道・ニセコ山麓は、世界中のスキーヤーや旅人を魅了する超微粒子の初雪「パウダースノー（Japow）」に包まれ、雄大な羊蹄山（蝦夷富士）が純白の雪化粧を纏います。白銀の原生林に抱かれた源泉掛け流しの雪見露天風呂、暖炉が揺らめく洗練されたラグジュアリーホテル、北海道産白老牛や十勝ハーブ牛の鉄板焼き、近海で獲れた冬の活毛ガニやウニ、タラバガニを贅沢に味わう至福の名宿5選を徹底解説。",
-    images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80'],
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/142863/142863.jpg'],
   }
 };
 
@@ -71,7 +71,7 @@ export default function NisekoOnsenWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-hokkaido-niseko-onsen-powder-snow-yotei-stay#article",
         "headline": "【11・12月ニセコ温泉郷の初雪パウダースノーと羊蹄山絶景】白銀の蝦夷富士望む露天風呂・道産黒毛和牛＆冬の北海味覚ディナーの宿5選",
         "description": "11月下旬から12月にかけて北海道・ニセコ山麓は、世界中のスキーヤーや旅人を魅了する超微粒子の初雪「パウダースノー（Japow）」に包まれ、雄大な羊蹄山（蝦夷富士）が純白の雪化粧を纏います。白銀の原生林に抱かれた源泉掛け流しの雪見露天風呂、暖炉が揺らめく洗練されたラグジュアリーホテル、北海道産白老牛や十勝ハーブ牛の鉄板焼き、近海で獲れた冬の活毛ガニやウニ、タラバガニを贅沢に味わう至福の名宿5選を徹底解説。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/142863/142863.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {

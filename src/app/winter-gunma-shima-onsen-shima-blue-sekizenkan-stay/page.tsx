@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '四万温泉で過ごす冬の旅（11・12月）！清流雪見露天！名宿5選',
-  description: '11月から12月にかけて上州・群馬の奥座敷「四万温泉」は、四万川や奥四万湖が年間で最も澄み渡る奇跡のコバルトブルー「四万ブルー」を湛え。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて上州・群馬の奥座敷「四万温泉」は、四万川や奥四万湖が年間で最も澄み渡る奇跡のコバルトブルー「四万ブルー」を湛え。',
   keywords: '四万温泉 宿泊, 四万温泉 11月 12月, 積善館 四万温泉, 四万やまぐち館, 四万たむら, 柏屋旅館 四万, 豊島屋 四万温泉, 四万ブルー, 上州牛 すき焼き 宿, 群馬 温泉 冬旅',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-gunma-shima-onsen-shima-blue-sekizenkan-stay/"
   },
   openGraph: {
     title: '四万温泉で過ごす冬の旅（11・12月）！清流雪見露天！名宿5選',
-    description: '11月から12月にかけて上州・群馬の奥座敷「四万温泉」は、四万川や奥四万湖が年間で最も澄み渡る奇跡のコバルトブルー「四万ブルー」を湛え。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて上州・群馬の奥座敷「四万温泉」は、四万川や奥四万湖が年間で最も澄み渡る奇跡のコバルトブルー「四万ブルー」を湛え。',
     url: 'https://croud-travel.pages.dev/winter-gunma-shima-onsen-shima-blue-sekizenkan-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/76361/76361.jpg',
         width: 1200,
         height: 630,
         alt: '初冬の四万温泉と四万ブルーの渓谷美'
@@ -69,7 +69,7 @@ export default function ShimaOnsenWinterFeature() {
         },
         "headline": "【11・12月群馬・四万温泉の神秘の四万ブルーと千二百年霊泉】積善館の歴史情緒・上州牛会席＆清流雪見露天の宿5選",
         "description": "11月から12月にかけて上州・群馬の奥座敷「四万温泉」は、四万川や奥四万湖が年間で最も澄み渡る奇跡のコバルトブルー「四万ブルー」を湛え、渓谷の木々が晩秋の落葉から初雪の白銀へと移ろう幽玄の季節を迎えます。「四万の病を癒やす霊泉」として開湯1200年の歴史を誇る名湯は、胃腸病や美肌に効能高い弱食塩・硫酸塩泉。日本最古の木造湯宿建築として名高い積善館をはじめ、四万川の渓流沿いに佇む自家源泉掛け流しの名旅館、甘みあふれる群馬の特選上州牛や冬の旬菜会席を堪能する極上宿5選を徹底解説。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/76361/76361.jpg",
         "datePublished": "T06:00:00+09:00",
         "dateModified": "T06:00:00+09:00",
         "publisher": {
@@ -268,7 +268,7 @@ export default function ShimaOnsenWinterFeature() {
       {/* Header Banner */}
       <header className="relative w-full h-[360px] sm:h-[480px] flex items-end justify-center bg-slate-900 text-white overflow-hidden">
         <Image
-          src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1600&q=80"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/76361/76361.jpg"
           alt="冬の四万温泉と四万ブルーの渓谷風景"
           fill
           priority

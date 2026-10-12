@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '黒川温泉で過ごす冬の旅（11・12月）！竹灯籠が彩る渓流露天風呂と阿蘇あか牛！名宿5選',
-  description: '11月から12月にかけて阿蘇外輪山の冷涼な風が吹き抜ける熊本・黒川温泉。12月中旬から田の原川の渓流に幻想的な竹灯籠が灯る冬の風物詩「湯あかり」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて阿蘇外輪山の冷涼な風が吹き抜ける熊本・黒川温泉。12月中旬から田の原川の渓流に幻想的な竹灯籠が灯る冬の風物詩「湯あかり」。',
   keywords: '黒川温泉 宿泊 11月 12月, 黒川温泉 湯あかり, 黒川温泉 入湯手形, あか牛 温泉 宿, 黒川温泉 おすすめ 旅館, 熊本 馬刺し 温泉, 黒川温泉 冬 モデルコース',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kumamoto-kurokawa-onsen-yuakari-stay/",
   },
   openGraph: {
     title: '黒川温泉で過ごす冬の旅（11・12月）！竹灯籠が彩る渓流露天風呂と阿蘇あか牛！名宿5選',
-    description: '11月から12月にかけて阿蘇外輪山の冷涼な風が吹き抜ける熊本・黒川温泉。12月中旬から田の原川の渓流に幻想的な竹灯籠が灯る冬の風物詩「湯あかり」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて阿蘇外輪山の冷涼な風が吹き抜ける熊本・黒川温泉。12月中旬から田の原川の渓流に幻想的な竹灯籠が灯る冬の風物詩「湯あかり」。',
     url: 'https://croud-travel.pages.dev/winter-kumamoto-kurokawa-onsen-yuakari-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/151280/151280.jpg',
         width: 1200,
         height: 630,
         alt: "【11・12月黒川温泉の湯あかりと秘湯情緒】竹灯籠が彩る渓流露天風呂と阿蘇あか牛・肥後会席の名宿5選",
@@ -47,7 +47,7 @@ export default function KurokawaWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-kumamoto-kurokawa-onsen-yuakari-stay#article",
         "headline": "【11・12月黒川温泉の湯あかりと秘湯情緒】竹灯籠が彩る渓流露天風呂と阿蘇あか牛・肥後会席の名宿5選",
         "description": "11月から12月にかけて阿蘇外輪山の冷涼な風が吹き抜ける熊本・黒川温泉。12月中旬から田の原川の渓流に幻想的な竹灯籠が灯る冬の風物詩「湯あかり」、名物「入湯手形」で巡る湯量豊かな野趣あふれる露天風呂。阿蘇あか牛の溶岩焼きステーキや本場極上馬刺しの美食に酔いしれる冬旅ガイド。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/151280/151280.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {
@@ -254,7 +254,7 @@ export default function KurokawaWinterPage() {
       {/* Hero Header */}
       <header className="relative h-[520px] md:h-[620px] flex items-center justify-center text-white overflow-hidden bg-stone-950">
         <Image
-          src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1600&q=85"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/151280/151280.jpg"
           alt="冬の黒川温泉・田の原川を彩る幻想的な竹灯籠の湯あかりと渓流露天風呂"
           fill
           priority

@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '千葉・南房総温泉郷で過ごす冬の旅（11・12月）！太平洋パノラマ絶景露天！名宿5選',
-  description: '11月から12月にかけて、東京湾アクアラインで都心からわずか90分で訪れることができる房総半島南部「南房総温泉郷（鴨川・小湊・千倉・館山・白浜）。」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、東京湾アクアラインで都心からわずか90分で訪れることができる房総半島南部「南房総温泉郷（鴨川・小湊・千倉・館山・白浜）。」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
   keywords: '南房総 温泉 宿泊, 千葉 温泉 11月 12月, 鴨川館, 満ちてくる心の宿 吉夢, 網元の宿 ろくや, 休暇村館山, 白浜オーシャンリゾート, 房州伊勢海老 宿, 房総 避寒旅行, 太平洋 絶景露天風呂 千葉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay/"
   },
   openGraph: {
     title: '千葉・南房総温泉郷で過ごす冬の旅（11・12月）！太平洋パノラマ絶景露天！名宿5選',
-    description: '11月から12月にかけて、東京湾アクアラインで都心からわずか90分で訪れることができる房総半島南部「南房総温泉郷（鴨川・小湊・千倉・館山・白浜）。」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、東京湾アクアラインで都心からわずか90分で訪れることができる房総半島南部「南房総温泉郷（鴨川・小湊・千倉・館山・白浜）。」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/51733/51733.jpg',
         width: 1200,
         height: 630,
         alt: '初冬の南房総温泉郷と太平洋パノラマ絶景露天風呂'
@@ -69,7 +69,7 @@ export default function ChibaMinamibosoWinterFeature() {
         },
         "headline": "【11・12月千葉・南房総温泉郷の温暖避寒旅と旬の伊勢海老・房州地魚】太平洋パノラマ絶景露天＆貸切風呂の宿5選",
         "description": "11月から12月にかけて、東京湾アクアラインで都心からわずか90分で訪れることができる房総半島南部「南房総温泉郷（鴨川・小湊・千倉・館山・白浜）。」は、黒潮がもたらす温暖な海洋性気候に包まれ、冬の厳しい寒さを逃れて穏やかな海風を感じられる関東屈指の避寒リゾートです。11・12月は秋に解禁された名物「房州伊勢海老」が最も甘みと身の締まりを極める最盛期を迎え、金目鯛の姿煮や房州アワビ、朝獲れ地魚姿造りが食卓を彩ります。太平洋の水平線から昇る神々しい朝焼けを露天風呂から独占する、初冬の南房総おすすめ名旅館・絶景リゾート5選を徹底解説。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/51733/51733.jpg",
         "datePublished": "T08:00:00+09:00",
         "dateModified": "T08:00:00+09:00",
         "publisher": {
@@ -268,7 +268,7 @@ export default function ChibaMinamibosoWinterFeature() {
       {/* Header Banner */}
       <header className="relative w-full h-[360px] sm:h-[480px] flex items-end justify-center bg-slate-900 text-white overflow-hidden">
         <Image
-          src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/51733/51733.jpg"
           alt="初冬の南房総温泉郷と太平洋の朝焼け"
           fill
           priority

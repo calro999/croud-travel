@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '滋賀・おごと温泉で過ごす冬の旅（11・12月）！特選近江牛！名宿5選',
-  description: '11月から12月にかけて、京都駅からJR湖西線でわずか20分という好立地にありながら、雄大な琵琶湖の湖畔に静かに佇む「おごと温泉（雄琴温泉）」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、京都駅からJR湖西線でわずか20分という好立地にありながら、雄大な琵琶湖の湖畔に静かに佇む「おごと温泉（雄琴温泉）」。',
   keywords: 'おごと温泉 宿泊, おごと温泉 11月 12月, びわこ緑水亭, びわ湖花街道, 暖灯館きくのや, 雄山荘, 湯の宿木もれび, 近江牛 宿, 琵琶湖 温泉 露天風呂, 比叡山 延暦寺 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shiga-ogoto-onsen-biwako-omigyu-stay/"
   },
   openGraph: {
     title: '滋賀・おごと温泉で過ごす冬の旅（11・12月）！特選近江牛！名宿5選',
-    description: '11月から12月にかけて、京都駅からJR湖西線でわずか20分という好立地にありながら、雄大な琵琶湖の湖畔に静かに佇む「おごと温泉（雄琴温泉）」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、京都駅からJR湖西線でわずか20分という好立地にありながら、雄大な琵琶湖の湖畔に静かに佇む「おごと温泉（雄琴温泉）」。',
     url: 'https://croud-travel.pages.dev/winter-shiga-ogoto-onsen-biwako-omigyu-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/3165/3165.jpg',
         width: 1200,
         height: 630,
         alt: '初冬のおごと温泉と琵琶湖のレイクビュー露天風呂'
@@ -69,7 +69,7 @@ export default function ShigaOgotoWinterFeature() {
         },
         "headline": "【11・12月滋賀・おごと温泉の初冬びわ湖景観と開湯千二百年美肌霊泉】比叡山初雪・特選近江牛＆冬限定真鴨鍋会席の宿5選",
         "description": "11月から12月にかけて、京都駅からJR湖西線でわずか20分という好立地にありながら、雄大な琵琶湖の湖畔に静かに佇む「おごと温泉（雄琴温泉）」。平安時代初頭、比叡山延暦寺を開いた伝教大師・最澄によって開湯されたと伝わる歴史ある古湯は、pH9.0を誇る高アルカリ性単純温泉で、肌の角質をやさしく落としてしっとり潤す「美肌の湯」として名高い名泉です。初冬には比叡山の峰々が初冠雪の白をまとい、朝夕の琵琶湖は澄み切った水面が神秘的な茜色に染まります。夕食には日本三大和牛「近江牛」のとろける霜降りステーキやすき焼き、そして冬の琵琶湖の風物詩である天然真鴨の「鴨鍋」を味わう厳選名旅館5選を徹底解説。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/3165/3165.jpg",
         "datePublished": "T08:00:00+09:00",
         "dateModified": "T08:00:00+09:00",
         "publisher": {
@@ -268,7 +268,7 @@ export default function ShigaOgotoWinterFeature() {
       {/* Header Banner */}
       <header className="relative w-full h-[360px] sm:h-[480px] flex items-end justify-center bg-slate-900 text-white overflow-hidden">
         <Image
-          src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/3165/3165.jpg"
           alt="初冬の琵琶湖とおごと温泉の絶景レイクビュー"
           fill
           priority

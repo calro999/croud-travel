@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     locale: 'ja_JP',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/16773/16773.jpg',
         width: 1200,
         height: 630,
         alt: "【12月白馬スキー場オープン！北アルプス雪山リゾート】八方尾根＆白馬八方美肌温泉宿5選",
@@ -41,7 +41,7 @@ export default function FeaturePage() {
     "@type": "Article",
     "headline": "【12月白馬スキー場オープン！北アルプス雪山リゾート】八方尾根＆白馬八方美肌温泉宿5選",
     "description": "12月上旬から順次シーズンインする日本屈指のビッグゲレンデ・白馬八方尾根＆エイブル白馬五竜！極上のパウダースノーで爽快クルージングを楽しんだ後は、日本屈指の強アルカリ性美肌湯・白馬八方温泉と信州グルメを満喫。",
-    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://img.travel.rakuten.co.jp/share/HOTEL/16773/16773.jpg",
     "datePublished": "T00:00:00+09:00",
     "dateModified": "T00:00:00+09:00",
     "author": {
@@ -124,7 +124,7 @@ export default function FeaturePage() {
         <div className="absolute inset-0 bg-stone-900/40 z-10" />
         <div 
           className="absolute inset-0 bg-cover bg-center transform scale-105 transition-transform duration-1000"
-          style={{ backgroundImage: "url('https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1600&q=80')" }}
+          style={{ backgroundImage: "url('https://img.travel.rakuten.co.jp/share/HOTEL/16773/16773.jpg')" }}
         />
         
         <div className="relative z-20 max-w-4xl mx-auto px-4 text-center">

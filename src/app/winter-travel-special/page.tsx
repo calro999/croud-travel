@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     url: "https://croud-travel.pages.dev/winter-travel-special",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80",
+        url: "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Shirakawa-go_%282017-07-22%29.jpg/3840px-Shirakawa-go_%282017-07-22%29.jpg",
         width: 1200,
         height: 630,
         alt: "冬の絶景温泉＆美食特集"

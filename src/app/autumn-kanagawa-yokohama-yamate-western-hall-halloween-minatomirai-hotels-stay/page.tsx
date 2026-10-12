@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     type: 'article',
     locale: 'ja_JP',
     images: [{
-      url: 'https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=80',
+      url: 'https://img.travel.rakuten.co.jp/share/HOTEL/2003/2003.jpg',
       width: 1200,
       height: 630,
       alt: '秋の横浜 山手西洋館のクラシカルな街並みとみなとみらいの夜景'
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "秋の横浜山手西洋館ハロウィーン：歴史ある洋館7館の本格装飾と山手ハロウィーンウォーク！みなとみらい夜景・絶品アフタヌーンティー＆クラシック・ベイサイド厳選名宿5選",
     description: "横浜開港の歴史息づく山手の丘に佇む異人館街「山手西洋館」。10月下旬には「エリスマン邸」「ベーリック・ホール」「外交官の家」など国指定重要文化財を含む西洋館7館が、フラワーアーティストやコーディネーターによる洗練された本格ハロウィーン装飾で彩られます。スタンプラリーや仮装パレードが賑わう「山手ハロウィーンウォーク」、港の見える丘公園の秋バラ、元町ショッピングストリートのカフェ巡り。夜はみなとみらいの煌めく大観覧車とベイブリッジの夜景を望み、歴史あるクラシックホテルやハイクオリティタワーホテル厳選5選を徹底特集。",
-    images: ['https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/2003/2003.jpg']
   }
 };
 
@@ -39,7 +39,7 @@ export default function YokohamaHalloweenFeaturePage() {
     "@type": "Article",
     "headline": "【秋の横浜山手西洋館ハロウィーン】歴史ある洋館7館の本格装飾と山手ハロウィーンウォーク！みなとみらい夜景・絶品アフタヌーンティー＆クラシック・ベイサイド厳選名宿5選",
     "description": "横浜開港の歴史息づく山手の丘に佇む異人館街「山手西洋館」。10月下旬には「エリスマン邸」「ベーリック・ホール」「外交官の家」など国指定重要文化財を含む西洋館7館が、フラワーアーティストやコーディネーターによる洗練された本格ハロウィーン装飾で彩られます。スタンプラリーや仮装パレードが賑わう「山手ハロウィーンウォーク」、港の見える丘公園の秋バラ、元町ショッピングストリートのカフェ巡り。夜はみなとみらいの煌めく大観覧車とベイブリッジの夜景を望み、歴史あるクラシックホテルやハイクオリティタワーホテル厳選5選を徹底特集。",
-    "image": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://img.travel.rakuten.co.jp/share/HOTEL/2003/2003.jpg",
     "datePublished": "T10:00:00+09:00",
     "dateModified": "T10:00:00+09:00",
     "author": {

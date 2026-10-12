@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '茨城・北茨城温泉郷で過ごす冬の旅（11・12月）！五浦！名宿5選',
-  description: '11月から12月にかけて、東京から常磐道やJR特急ひたちで約2時間の茨城県最北部「北茨城温泉郷（平潟・磯原・五浦）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、東京から常磐道やJR特急ひたちで約2時間の茨城県最北部「北茨城温泉郷（平潟・磯原・五浦）」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
   keywords: '北茨城 温泉 宿泊, 磯原温泉, 五浦温泉, 平潟港温泉, まるみつ旅館, としまや月浜の湯, 五浦観光ホテル, 二ツ島観光ホテル, 磯原シーサイドホテル, あんこう鍋 どぶ汁, 常陸牛 宿, 太平洋 日の出 露天風呂',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-ibaraki-kitaibaraki-isohara-onsen-ankou-dobujiru-stay/"
   },
   openGraph: {
     title: '茨城・北茨城温泉郷で過ごす冬の旅（11・12月）！五浦！名宿5選',
-    description: '11月から12月にかけて、東京から常磐道やJR特急ひたちで約2時間の茨城県最北部「北茨城温泉郷（平潟・磯原・五浦）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、東京から常磐道やJR特急ひたちで約2時間の茨城県最北部「北茨城温泉郷（平潟・磯原・五浦）」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-ibaraki-kitaibaraki-isohara-onsen-ankou-dobujiru-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/31660/31660.jpg',
         width: 1200,
         height: 630,
         alt: '初冬の北茨城五浦海岸と太平洋の日の出絶景'
@@ -69,7 +69,7 @@ export default function IbarakiKitaibarakiWinterFeature() {
         },
         "headline": "【11・12月茨城・北茨城温泉郷の元祖あんこう鍋・濃厚どぶ汁と太平洋絶景】五浦・磯原の温まり美肌塩化物泉＆常陸牛の宿5選",
         "description": "11月から12月にかけて、東京から常磐道やJR特急ひたちで約2時間の茨城県最北部「北茨城温泉郷（平潟・磯原・五浦）」は、冬の味覚の王様「あんこう」の本格シーズンを迎えます。北茨城は全国あんこう鍋発祥の地として知られ、水を一切使わずに生あん肝を鍋肌でじっくり乾煎りして溶かし、秘伝味噌とアンコウ自身の水分だけで炊き上げる究極の漁師料理「どぶ汁（どぶじる）」の本場です。太平洋の荒波が削り出した奇岩・六角堂が佇む五浦海岸の絶景、地下深層から湧出する高濃度塩化物泉の「温まり美肌の湯」、そして銘柄牛「常陸牛」の極上会席。水平線から昇る初冬の日の出を露天風呂から望む、北茨城の厳選名旅館・温泉ホテル5選を徹底解説。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/31660/31660.jpg",
         "datePublished": "T09:00:00+09:00",
         "dateModified": "T09:00:00+09:00",
         "publisher": {
@@ -234,7 +234,7 @@ export default function IbarakiKitaibarakiWinterFeature() {
       {/* Header Banner */}
       <header className="relative w-full h-[360px] sm:h-[480px] flex items-end justify-center bg-slate-900 text-white overflow-hidden">
         <Image
-          src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/31660/31660.jpg"
           alt="初冬の北茨城海岸と太平洋の荒波"
           fill
           priority

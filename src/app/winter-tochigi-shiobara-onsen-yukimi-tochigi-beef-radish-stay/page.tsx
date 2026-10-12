@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '栃木・塩原温泉で過ごす冬の旅（11・12月）！極上とちぎ和牛会席！名宿5選',
-  description: '11月から12月にかけて、栃木県北部の那須連山山麓に広がる名湯「塩原温泉郷」は、箒川（ほうきがわ）沿いの渓谷が初雪に彩られ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、栃木県北部の那須連山山麓に広がる名湯「塩原温泉郷」は、箒川（ほうきがわ）沿いの渓谷が初雪に彩られ。',
   keywords: '塩原温泉 宿泊, 塩原温泉 老舗旅館, 塩原温泉 雪見露天, とちぎ和牛 すき焼き, 塩原大根 11月 12月, 湯守田中屋, 湯の花荘, 明賀屋本館, 四季味亭ふじや, 光雲荘',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tochigi-shiobara-onsen-yukimi-tochigi-beef-radish-stay/"
   },
   openGraph: {
     title: '栃木・塩原温泉で過ごす冬の旅（11・12月）！極上とちぎ和牛会席！名宿5選',
-    description: '11月から12月にかけて、栃木県北部の那須連山山麓に広がる名湯「塩原温泉郷」は、箒川（ほうきがわ）沿いの渓谷が初雪に彩られ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、栃木県北部の那須連山山麓に広がる名湯「塩原温泉郷」は、箒川（ほうきがわ）沿いの渓谷が初雪に彩られ。',
     url: 'https://croud-travel.pages.dev/winter-tochigi-shiobara-onsen-yukimi-tochigi-beef-radish-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/31902/31902.jpg',
         width: 1200,
         height: 630,
         alt: '初冬の箒川渓谷と塩原温泉の雪見露天風呂'
@@ -69,7 +69,7 @@ export default function TochigiShiobaraWinterFeature() {
         },
         "headline": "【11・12月栃木・塩原温泉の初冬箒川雪見露天と名湯十一湯巡り】極上とちぎ和牛会席＆旬の塩原高原大根を味わう老舗宿5選",
         "description": "11月から12月にかけて、栃木県北部の那須連山山麓に広がる名湯「塩原温泉郷」は、箒川（ほうきがわ）沿いの渓谷が初雪に彩られ、静寂と白い湯けむりが立ち込める情緒豊かな初冬を迎えます。千二百年以上の歴史を誇る「塩原十一湯」は、乳白色の硫黄泉から炭酸水素塩泉、弱食塩泉まで多彩な名湯が揃い、雪見露天風呂の風情は格別。さらに初冬に寒暖差で甘みが極限まで凝縮する名物「塩原高原大根」や、とろける霜降り「とちぎ和牛」のすき焼き・ステーキ会席を堪能する至極の老舗旅館5選を詳しく解説します。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/31902/31902.jpg",
         "datePublished": "T12:00:00+09:00",
         "dateModified": "T12:00:00+09:00",
         "publisher": {
@@ -234,7 +234,7 @@ export default function TochigiShiobaraWinterFeature() {
       {/* Header Banner */}
       <header className="relative w-full h-[360px] sm:h-[480px] flex items-end justify-center bg-slate-900 text-white overflow-hidden">
         <Image
-          src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1600&q=80"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/31902/31902.jpg"
           alt="初冬の箒川渓谷と塩原温泉の雪見露天"
           fill
           priority

@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月山口：ふぐを味わう！名宿5選',
-  description: '冬の日本海が最も透明度を増す11月中旬から1月。エメラルドグリーンとコバルトブルーの海を貫く「角島大橋」の絶景。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '冬の日本海が最も透明度を増す11月中旬から1月。エメラルドグリーンとコバルトブルーの海を貫く「角島大橋」の絶景。',
   keywords: '長門湯本温泉 ホテル, 角島大橋 ホテル, 元乃隅神社 初詣, 大谷山荘, ホテル西長門リゾート, ホテル楊貴館, 仙崎イカ, とらふぐ, 11月 12月 1月 山口 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamaguchi-nagato-tsunoshima-motonosumi-shrine-hatsumode-onsen-stay/"
   },
   openGraph: {
     title: '11・12・1月山口：ふぐを味わう！名宿5選',
-    description: '冬の日本海が最も透明度を増す11月中旬から1月。エメラルドグリーンとコバルトブルーの海を貫く「角島大橋」の絶景。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '冬の日本海が最も透明度を増す11月中旬から1月。エメラルドグリーンとコバルトブルーの海を貫く「角島大橋」の絶景。',
     url: 'https://croud-travel.pages.dev/winter-yamaguchi-nagato-tsunoshima-motonosumi-shrine-hatsumode-onsen-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',

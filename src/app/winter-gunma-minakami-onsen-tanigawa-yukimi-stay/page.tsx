@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: 'みなかみ温泉郷で過ごす冬の旅（11・12月）！利根川渓谷露天と谷川岳初冠雪！名宿5選',
-  description: '11月下旬から12月にかけて谷川連峰が白銀の初冠雪を纏い、利根川源流の渓谷に初冬の静寂が広がる群馬「みなかみ温泉郷」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月下旬から12月にかけて谷川連峰が白銀の初冠雪を纏い、利根川源流の渓谷に初冬の静寂が広がる群馬「みなかみ温泉郷」。',
   keywords: 'みなかみ温泉 宿泊, 水上温泉 11月 12月, 松乃井 大江戸温泉, 別邸 仙寿庵, 宝川温泉 汪泉閣, あらたし みなかみ, みなかみホテルジュラク, 谷川岳 雪見露天風呂, 上州牛 すき焼き, 利根川 渓谷 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-gunma-minakami-onsen-tanigawa-yukimi-stay/",
   },
   openGraph: {
     title: 'みなかみ温泉郷で過ごす冬の旅（11・12月）！利根川渓谷露天と谷川岳初冠雪！名宿5選',
-    description: '11月下旬から12月にかけて谷川連峰が白銀の初冠雪を纏い、利根川源流の渓谷に初冬の静寂が広がる群馬「みなかみ温泉郷」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月下旬から12月にかけて谷川連峰が白銀の初冠雪を纏い、利根川源流の渓谷に初冬の静寂が広がる群馬「みなかみ温泉郷」。',
     url: 'https://croud-travel.pages.dev/winter-gunma-minakami-onsen-tanigawa-yukimi-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/9290/9290.jpg',
         width: 1200,
         height: 630,
         alt: "【11・12月みなかみ温泉郷の冬名湯と谷川岳雪見風呂】利根川渓谷露天と谷川岳初冠雪・極上上州牛＆旬きのこ会席の宿5選",
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "みなかみ温泉郷の冬名湯と谷川岳雪見風呂で過ごす冬の旅（11・12月）！利根川渓谷露天と谷川岳初冠雪・極上上州牛＆旬きのこ会席の宿5選",
     description: "11月下旬から12月にかけて谷川連峰が白銀の初冠雪を纏い、利根川源流の渓谷に初冬の静寂が広がる群馬「みなかみ温泉郷」。ルレ・エ・シャトー加盟の世界最高峰旅館から天下一の広さを誇る宝川温泉の雪見大露天風呂、清流を望む全室露天風呂付きモダンホテルまで、極上ブランド肉「上州牛」やすき焼き、地元特産の肉厚舞茸きのこ会席を堪能する厳選名宿5選を徹底解説。",
-    images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80'],
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/9290/9290.jpg'],
   }
 };
 
@@ -71,7 +71,7 @@ export default function MinakamiOnsenWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-gunma-minakami-onsen-tanigawa-yukimi-stay#article",
         "headline": "【11・12月みなかみ温泉郷の冬名湯と谷川岳雪見風呂】利根川渓谷露天と谷川岳初冠雪・極上上州牛＆旬きのこ会席の宿5選",
         "description": "11月下旬から12月にかけて谷川連峰が白銀の初冠雪を纏い、利根川源流の渓谷に初冬の静寂が広がる群馬「みなかみ温泉郷」。ルレ・エ・シャトー加盟の世界最高峰旅館から天下一の広さを誇る宝川温泉の雪見大露天風呂、清流を望む全室露天風呂付きモダンホテルまで、極上ブランド肉「上州牛」やすき焼き、地元特産の肉厚舞茸きのこ会席を堪能する厳選名宿5選を徹底解説。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/9290/9290.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {
@@ -286,7 +286,7 @@ export default function MinakamiOnsenWinterPage() {
       {/* Hero Header */}
       <header className="relative h-[520px] md:h-[620px] flex items-center justify-center text-white overflow-hidden bg-slate-950">
         <Image
-          src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1600&q=85"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/9290/9290.jpg"
           alt="谷川岳初冠雪と利根川渓谷の雪見露天風呂・みなかみ温泉郷の大自然"
           fill
           priority

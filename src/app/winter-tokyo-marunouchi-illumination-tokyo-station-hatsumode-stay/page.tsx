@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月東京：丸の内イルミネーション！名宿5選',
-  description: '冬の東京・丸の内は、約1.2kmにわたりシャンパンゴールドに輝く「丸の内イルミネーション」と、美しくライトアップされた東京駅丸の内赤レンガ駅舎。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '冬の東京・丸の内は、約1.2kmにわたりシャンパンゴールドに輝く「丸の内イルミネーション」と、美しくライトアップされた東京駅丸の内赤レンガ駅舎。',
   keywords: '丸の内 ホテル, 東京駅 ホテル, 丸の内イルミネーション, 東京ステーションホテル, パレスホテル東京, 丸ノ内ホテル, 皇居 初詣, 日本橋 福徳神社, 11月 12月 1月 東京 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tokyo-marunouchi-illumination-tokyo-station-hatsumode-stay/"
   },
   openGraph: {
     title: '11・12・1月東京：丸の内イルミネーション！名宿5選',
-    description: '冬の東京・丸の内は、約1.2kmにわたりシャンパンゴールドに輝く「丸の内イルミネーション」と、美しくライトアップされた東京駅丸の内赤レンガ駅舎。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '冬の東京・丸の内は、約1.2kmにわたりシャンパンゴールドに輝く「丸の内イルミネーション」と、美しくライトアップされた東京駅丸の内赤レンガ駅舎。',
     url: 'https://croud-travel.pages.dev/winter-tokyo-marunouchi-illumination-tokyo-station-hatsumode-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',

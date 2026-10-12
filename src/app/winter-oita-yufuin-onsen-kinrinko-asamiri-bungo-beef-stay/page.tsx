@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '由布院温泉で過ごす冬の旅（11・12月）！由布岳冠雪！名宿5選',
-  description: '11月から12月にかけて大分県・由布院温泉は、冷え込んだ早朝に金鱗湖から立ち昇る幻想的な「朝霧」と、初雪を冠した優美な由布岳の絶景に包まれます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて大分県・由布院温泉は、冷え込んだ早朝に金鱗湖から立ち昇る幻想的な「朝霧」と、初雪を冠した優美な由布岳の絶景に包まれます。',
   keywords: '由布院温泉 宿泊, 由布院 11月 12月, 金鱗湖 朝霧, ゆふいん花由, ゆふいん月燈庵, ゆふいん山水館, 旅亭 田乃倉, ほたるの宿 仙洞, 豊後牛 すき焼き, 由布岳 雪化粧, 大分 温泉 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-oita-yufuin-onsen-kinrinko-asamiri-bungo-beef-stay/",
   },
   openGraph: {
     title: '由布院温泉で過ごす冬の旅（11・12月）！由布岳冠雪！名宿5選',
-    description: '11月から12月にかけて大分県・由布院温泉は、冷え込んだ早朝に金鱗湖から立ち昇る幻想的な「朝霧」と、初雪を冠した優美な由布岳の絶景に包まれます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて大分県・由布院温泉は、冷え込んだ早朝に金鱗湖から立ち昇る幻想的な「朝霧」と、初雪を冠した優美な由布岳の絶景に包まれます。',
     url: 'https://croud-travel.pages.dev/winter-oita-yufuin-onsen-kinrinko-asamiri-bungo-beef-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/76377/76377.jpg',
         width: 1200,
         height: 630,
         alt: "【11・12月由布院温泉の冬名湯と金鱗湖の幻想朝霧】由布岳冠雪・離れ露天風呂と極上豊後牛＆冠地鶏鍋会席の宿5選",
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "由布院温泉の冬名湯と金鱗湖の幻想朝霧で過ごす冬の旅（11・12月）！由布岳冠雪・離れ露天風呂と極上豊後牛＆冠地鶏鍋会席の宿5選",
     description: "11月から12月にかけて大分県・由布院温泉は、冷え込んだ早朝に金鱗湖から立ち昇る幻想的な「朝霧」と、初雪を冠した優美な由布岳の絶景に包まれます。メタケイ酸を豊富に含む弱アルカリ性のまろやかな美肌の湯、全室離れや客室露天風呂で過ごす静謐な冬のプライベートタイム、最高峰ブランド黒毛和牛「おおいた和牛（豊後牛）」の炭火焼きやすき焼き、大分特産「冠地鶏」のあったか地鶏鍋を堪能する至高の名宿5選を徹底解説。",
-    images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80'],
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/76377/76377.jpg'],
   }
 };
 
@@ -71,7 +71,7 @@ export default function YufuinOnsenWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-oita-yufuin-onsen-kinrinko-asamiri-bungo-beef-stay#article",
         "headline": "【11・12月由布院温泉の冬名湯と金鱗湖の幻想朝霧】由布岳冠雪・離れ露天風呂と極上豊後牛＆冠地鶏鍋会席の宿5選",
         "description": "11月から12月にかけて大分県・由布院温泉は、冷え込んだ早朝に金鱗湖から立ち昇る幻想的な「朝霧」と、初雪を冠した優美な由布岳の絶景に包まれます。メタケイ酸を豊富に含む弱アルカリ性のまろやかな美肌の湯、全室離れや客室露天風呂で過ごす静謐な冬のプライベートタイム、最高峰ブランド黒毛和牛「おおいた和牛（豊後牛）」の炭火焼きやすき焼き、大分特産「冠地鶏」のあったか地鶏鍋を堪能する至高の名宿5選を徹底解説。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/76377/76377.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {
@@ -286,7 +286,7 @@ export default function YufuinOnsenWinterPage() {
       {/* Hero Header */}
       <header className="relative h-[520px] md:h-[620px] flex items-center justify-center text-white overflow-hidden bg-slate-950">
         <Image
-          src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1600&q=85"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/76377/76377.jpg"
           alt="早朝の金鱗湖に立ち昇る幻想的な白い朝霧と初冠雪の由布岳"
           fill
           priority

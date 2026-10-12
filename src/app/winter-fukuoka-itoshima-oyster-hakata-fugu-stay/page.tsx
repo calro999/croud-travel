@@ -9,19 +9,19 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月福岡：冬の糸島カキ小屋めぐりと玄界！名宿5選',
-  description: '11月から1月、福岡は玄界灘の冬の恵みが一斉に旬を迎える全国屈指の美食パラダイスとなります。福岡市民や全国の旅行者が心待ちにする冬の看板風物詩が。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から1月、福岡は玄界灘の冬の恵みが一斉に旬を迎える全国屈指の美食パラダイスとなります。福岡市民や全国の旅行者が心待ちにする冬の看板風物詩が。',
   keywords: '糸島 カキ小屋 冬, 博多 もつ鍋 宿泊, 玄界灘 とらふぐ, ヒルトン福岡シーホーク, 都ホテル博多, ザルイガンズ, ホテルマリノアリゾート福岡, ドーミーインPREMIUM博多, 11月 12月 1月 福岡旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukuoka-itoshima-oyster-hakata-fugu-stay/"
   },
   openGraph: {
     title: '11・12・1月福岡：冬の糸島カキ小屋めぐりと玄界！名宿5選',
-    description: '11月から1月、福岡は玄界灘の冬の恵みが一斉に旬を迎える全国屈指の美食パラダイスとなります。福岡市民や全国の旅行者が心待ちにする冬の看板風物詩が。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から1月、福岡は玄界灘の冬の恵みが一斉に旬を迎える全国屈指の美食パラダイスとなります。福岡市民や全国の旅行者が心待ちにする冬の看板風物詩が。',
     url: 'https://croud-travel.pages.dev/winter-fukuoka-itoshima-oyster-hakata-fugu-stay',
     siteName: 'クラドトラベル',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/1137/1137.jpg',
         width: 1200,
         height: 630,
         alt: '冬の博多湾と福岡タワーの煌めく夜景'
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月福岡：冬の糸島カキ小屋めぐりと玄界灘の天然とらふぐ・熱々博多もつ鍋＆水炊き・海を望むリゾート＆天然温泉を満喫する名宿5選",
     description: "11月から1月、福岡は玄界灘の冬の恵みが一斉に旬を迎える全国屈指の美食パラダイスとなります。福岡市民や全国の旅行者が心待ちにする冬の看板風物詩が、糸島半島（岐志・船越・加布里・福吉）に立ち並ぶ名物「糸島カキ小屋」。炭火やガス火で香ばしく焼き上げるミルキーで濃厚な糸島カキをはじめ、荒海で育った天然とらふぐや高級魚アラ（クエ）、そして寒風の中で湯気を上げる熱々の博多もつ鍋や濃厚白濁スープの博多水炊き。博多駅前の壮大なイルミネーション「光の街・博多」の煌めきや、糸島の美しい海岸美、博多湾を望む絶景オーシャンビューホテル＆屋上天然温泉スパで至福の冬旅を叶える厳選5宿を紹介します。",
-    images: ['https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/1137/1137.jpg']
   }
 };
 
@@ -44,7 +44,7 @@ export default function FukuokaItoshimaHakataWinterPage() {
     '@type': 'Article',
     headline: "11・12・1月福岡：冬の糸島カキ小屋めぐりと玄界灘の天然とらふぐ・熱々博多もつ鍋＆水炊き・海を望むリゾート＆天然温泉を満喫する名宿5選",
     description: "11月から1月、福岡は玄界灘の冬の恵みが一斉に旬を迎える全国屈指の美食パラダイスとなります。福岡市民や全国の旅行者が心待ちにする冬の看板風物詩が、糸島半島（岐志・船越・加布里・福吉）に立ち並ぶ名物「糸島カキ小屋」。炭火やガス火で香ばしく焼き上げるミルキーで濃厚な糸島カキをはじめ、荒海で育った天然とらふぐや高級魚アラ（クエ）、そして寒風の中で湯気を上げる熱々の博多もつ鍋や濃厚白濁スープの博多水炊き。博多駅前の壮大なイルミネーション「光の街・博多」の煌めきや、糸島の美しい海岸美、博多湾を望む絶景オーシャンビューホテル＆屋上天然温泉スパで至福の冬旅を叶える厳選5宿を紹介します。",
-    image: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://img.travel.rakuten.co.jp/share/HOTEL/1137/1137.jpg',
     datePublished: '',
     dateModified: '',
     author: {
@@ -270,7 +270,7 @@ export default function FukuokaItoshimaHakataWinterPage() {
       <header className="relative bg-stone-900 text-white overflow-hidden py-16 sm:py-24">
         <div className="absolute inset-0 opacity-40 mix-blend-overlay">
           <img 
-            src="https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1800&q=80" 
+            src="https://img.travel.rakuten.co.jp/share/HOTEL/1137/1137.jpg" 
             alt="冬の博多湾と福岡都市夜景" 
             className="w-full h-full object-cover"
           />

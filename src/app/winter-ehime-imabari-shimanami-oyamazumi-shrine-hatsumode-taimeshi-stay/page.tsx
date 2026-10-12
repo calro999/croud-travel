@@ -6,20 +6,20 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月愛媛：日本総鎮守「大山祇神社」樹齢！名宿5選',
-  description: '瀬戸内海に浮かぶ神の島と多島美パノラマ！11〜1月のしまなみ海道は空気が澄み。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '瀬戸内海に浮かぶ神の島と多島美パノラマ！11〜1月のしまなみ海道は空気が澄み。',
   keywords: '大山祇神社 初詣, 大山祇神社 樹齢2600年, しまなみ海道 冬, 来島海峡大橋, 今治鯛めし, 鈍川温泉, 今治国際ホテル, 大三島 初詣, 亀老山展望公園, 愛媛 冬 旅行',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-ehime-imabari-shimanami-oyamazumi-shrine-hatsumode-taimeshi-stay'
   },
   openGraph: {
     title: '11・12・1月愛媛：日本総鎮守「大山祇神社」樹齢！名宿5選',
-    description: '瀬戸内海に浮かぶ神の島と多島美パノラマ！11〜1月のしまなみ海道は空気が澄み。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '瀬戸内海に浮かぶ神の島と多島美パノラマ！11〜1月のしまなみ海道は空気が澄み。',
     url: 'https://croud-travel.pages.dev/winter-ehime-imabari-shimanami-oyamazumi-shrine-hatsumode-taimeshi-stay',
     siteName: 'クラドトラベル',
     type: 'article',
     locale: 'ja_JP',
     images: [{
-      url: 'https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=80',
+      url: 'https://img.travel.rakuten.co.jp/share/HOTEL/1036/1036.jpg',
       width: 1200,
       height: 630,
       alt: '冬のしまなみ海道 来島海峡大橋と大山祇神社の樹齢2600年御神木'
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月愛媛：日本総鎮守「大山祇神社」樹齢2600年神木新春初詣！冬晴れしまなみ海道パノラマ・甘み極まる瀬戸内真鯛今治鯛めし＆鈍川温泉厳選名宿5選",
     description: "瀬戸内海に浮かぶ神の島と多島美パノラマ！11〜1月のしまなみ海道は空気が澄み、来島海峡大橋の雄大な造形美と冬晴れのブルーの海が息を呑む絶景を描き出します。日本総鎮守の尊称を持つ大三島「大山祇神社」では、天然記念物・樹齢2600年の御神木楠が放つ神秘の気息に包まれる厳かな新春初詣。身が締まり脂が乗った冬の瀬戸内真鯛を土鍋でふっくら炊き上げる「今治鯛めし」や来島海峡の海鮮会席、伊予の三湯「鈍川温泉」美肌湯と今治の洗練名宿5選を徹底特集。",
-    images: ['https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/1036/1036.jpg']
   }
 };
 
@@ -39,7 +39,7 @@ export default function EhimeImabariWinterFeaturePage() {
     "@type": "Article",
     "headline": "【11・12・1月愛媛】日本総鎮守「大山祇神社」樹齢2600年神木新春初詣！冬晴れしまなみ海道パノラマ・甘み極まる瀬戸内真鯛今治鯛めし＆鈍川温泉厳選名宿5選",
     "description": "瀬戸内海に浮かぶ神の島と多島美パノラマ！11〜1月のしまなみ海道は空気が澄み、来島海峡大橋の雄大な造形美と冬晴れのブルーの海が息を呑む絶景を描き出します。日本総鎮守の尊称を持つ大三島「大山祇神社」では、天然記念物・樹齢2600年の御神木楠が放つ神秘の気息に包まれる厳かな新春初詣。身が締まり脂が乗った冬の瀬戸内真鯛を土鍋でふっくら炊き上げる「今治鯛めし」や来島海峡の海鮮会席、伊予の三湯「鈍川温泉」美肌湯と今治の洗練名宿5選を徹底特集。",
-    "image": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://img.travel.rakuten.co.jp/share/HOTEL/1036/1036.jpg",
     "datePublished": "T06:00:00+09:00",
     "dateModified": "T06:00:00+09:00",
     "author": {

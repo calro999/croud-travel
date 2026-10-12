@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     locale: 'ja_JP',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1490806843957-31f4c9a91c65?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/10956/10956.jpg',
         width: 1200,
         height: 630,
         alt: "【11・12月箱根芦ノ湖の冬晴れ富士山絶景】澄み渡る空と雪化粧の富士を望む露天風呂＆極上湯宿5選",
@@ -47,7 +47,7 @@ export default function HakoneWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-kanagawa-hakone-fuji-view-onsen-stay#article",
         "headline": "【11・12月箱根芦ノ湖の冬晴れ富士山絶景】澄み渡る空と雪化粧の富士を望む露天風呂＆極上湯宿5選",
         "description": "年間で最も晴天率が高く空気が研ぎ澄まされる11月・12月の箱根芦ノ湖。紺碧の湖面に映る雪化粧の富士山と箱根神社の平和の鳥居。芦ノ湖を望む絶景露天風呂に浸かり、相模湾の冬魚や足柄牛に舌鼓を打つ、首都圏からすぐ行ける至高の冬リゾート温泉ガイド。",
-        "image": "https://images.unsplash.com/photo-1490806843957-31f4c9a91c65?auto=format&fit=crop&w=1200&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/10956/10956.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {
@@ -254,7 +254,7 @@ export default function HakoneWinterPage() {
       {/* Hero Header */}
       <header className="relative h-[520px] md:h-[620px] flex items-center justify-center text-white overflow-hidden bg-stone-900">
         <Image
-          src="https://images.unsplash.com/photo-1490806843957-31f4c9a91c65?auto=format&fit=crop&w=1600&q=85"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/10956/10956.jpg"
           alt="冬の箱根芦ノ湖・雪化粧をまとった雄大な富士山と静かな湖面"
           fill
           priority

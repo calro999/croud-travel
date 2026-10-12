@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     type: "article",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80",
+        url: "https://img.travel.rakuten.co.jp/share/HOTEL/12529/12529.jpg",
         width: 1200,
         height: 630,
         alt: "鹿児島 指宿温泉と霧島温泉の比較"

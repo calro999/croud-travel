@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '磐梯熱海温泉で過ごす冬の旅（11・12月）！萩姫伝説の美肌ぬる湯！名宿5選',
-  description: '11月から12月にかけて、福島県の中央部・郡山市の奥座敷として清流五百川（ごひゃくがわ）沿いに広がる「磐梯熱海温泉（ばんだいあたみおんせん）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、福島県の中央部・郡山市の奥座敷として清流五百川（ごひゃくがわ）沿いに広がる「磐梯熱海温泉（ばんだいあたみおんせん）」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
   keywords: '磐梯熱海温泉 旅館, ホテル華の湯, 四季彩 一力, 守田屋, よもぎ埜, 栄楽館, 萩姫伝説, 美肌ぬる湯, 福島牛, 猪苗代湖 白鳥, 11月 12月 福島温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukushima-bandaiatami-onsen-hagihime-fukushimagyu-stay/"
   },
   openGraph: {
     title: '磐梯熱海温泉で過ごす冬の旅（11・12月）！萩姫伝説の美肌ぬる湯！名宿5選',
-    description: '11月から12月にかけて、福島県の中央部・郡山市の奥座敷として清流五百川（ごひゃくがわ）沿いに広がる「磐梯熱海温泉（ばんだいあたみおんせん）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、福島県の中央部・郡山市の奥座敷として清流五百川（ごひゃくがわ）沿いに広がる「磐梯熱海温泉（ばんだいあたみおんせん）」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-fukushima-bandaiatami-onsen-hagihime-fukushimagyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/15988/15988.jpg',
         width: 1200,
         height: 630,
         alt: '初冬の磐梯熱海温泉と五百川のせせらぎ'
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "福島・磐梯熱海温泉で過ごす冬の旅（11・12月）！萩姫伝説の美肌ぬる湯・初冬猪苗代湖の白鳥と極上福島牛・地酒を味わう名宿5選",
     description: "11月から12月にかけて、福島県の中央部・郡山市の奥座敷として清流五百川（ごひゃくがわ）沿いに広がる「磐梯熱海温泉（ばんだいあたみおんせん）」は、初冬の澄み渡る冷気と静寂に包まれます。南北朝時代、難病に苦しんでいた京の都の美しい「萩姫（はぎひめ）」が不動明王のお告げに従い、都から数えて五百本目の川を遡って辿り着き、湯に浸かることで見事に全快したというロマンあふれる「萩姫伝説」が息づく古湯です。pH9前後のアルカリ性単純温泉は、肌にまとわりつくように滑らかで、古くから「美人をつくるぬる湯」として親しまれてきました。初冬には近隣の猪苗代湖にシベリアから何千羽もの白鳥が飛来し、冠雪した磐梯山を背景に優雅に舞う姿は息を呑む絶景です。夕食にはきめ細やかな霜降りと上品な脂の甘みが特徴の「福島牛」の陶板焼きやすき焼き、郡山伝統の鯉料理、全国新酒鑑評会で金賞を誇る福島地酒のしぼりたて新酒。初冬の中通りで心身を解きほぐす厳選名宿5選を詳しく紹介します。",
-    images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/15988/15988.jpg']
   }
 };
 

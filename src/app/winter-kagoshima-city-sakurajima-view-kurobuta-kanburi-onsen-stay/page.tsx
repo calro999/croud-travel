@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月鹿児島市：本場黒豚しゃぶしゃぶと錦江湾寒ブリ！名宿5選',
-  description: '冬の南九州・鹿児島は澄み切った青空が広がり、錦江湾に浮かぶ雄大な桜島が年間で最も美しくクリアに望める絶景シーズン。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '冬の南九州・鹿児島は澄み切った青空が広がり、錦江湾に浮かぶ雄大な桜島が年間で最も美しくクリアに望める絶景シーズン。',
   keywords: '鹿児島 ホテル, 桜島 絶景 ホテル, 照国神社 初詣, 城山ホテル鹿児島, ソラリア西鉄ホテル鹿児島, シェラトン鹿児島, 鹿児島 黒豚しゃぶしゃぶ, 錦江湾 寒ブリ, 11月 12月 1月 鹿児島 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kagoshima-city-sakurajima-view-kurobuta-kanburi-onsen-stay/"
   },
   openGraph: {
     title: '11・12・1月鹿児島市：本場黒豚しゃぶしゃぶと錦江湾寒ブリ！名宿5選',
-    description: '冬の南九州・鹿児島は澄み切った青空が広がり、錦江湾に浮かぶ雄大な桜島が年間で最も美しくクリアに望める絶景シーズン。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '冬の南九州・鹿児島は澄み切った青空が広がり、錦江湾に浮かぶ雄大な桜島が年間で最も美しくクリアに望める絶景シーズン。',
     url: 'https://croud-travel.pages.dev/winter-kagoshima-city-sakurajima-view-kurobuta-kanburi-onsen-stay',
     type: 'article'
   }

@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '作並温泉で過ごす冬の旅（11・12月）！極上A5仙台牛ステーキ！名宿5選',
-  description: '11月から12月にかけて、杜の都・仙台の奥座敷として古くから親しまれる作並温泉および秋保温泉エリアは、広瀬川や名取川の深い渓谷が初雪に彩られ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、杜の都・仙台の奥座敷として古くから親しまれる作並温泉および秋保温泉エリアは、広瀬川や名取川の深い渓谷が初雪に彩られ。',
   keywords: '作並温泉 宿泊, 作並温泉 一の坊, 岩松旅館, 仙台せり鍋, A5仙台牛, 美女づくりの湯, 作並温泉 雪見露天風呂, 秋保温泉 緑水亭, 11月 12月 宮城 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-miyagi-sakunami-onsen-yukimi-sendai-beef-serinabe-stay/"
   },
   openGraph: {
     title: '作並温泉で過ごす冬の旅（11・12月）！極上A5仙台牛ステーキ！名宿5選',
-    description: '11月から12月にかけて、杜の都・仙台の奥座敷として古くから親しまれる作並温泉および秋保温泉エリアは、広瀬川や名取川の深い渓谷が初雪に彩られ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、杜の都・仙台の奥座敷として古くから親しまれる作並温泉および秋保温泉エリアは、広瀬川や名取川の深い渓谷が初雪に彩られ。',
     url: 'https://croud-travel.pages.dev/winter-miyagi-sakunami-onsen-yukimi-sendai-beef-serinabe-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/28670/28670.jpg',
         width: 1200,
         height: 630,
         alt: '初冬の作並温泉・広瀬川渓谷と雪見岩風呂'
@@ -69,7 +69,7 @@ export default function MiyagiSakunamiWinterFeature() {
         },
         "headline": "【11・12月宮城・作並温泉＆仙台奥座敷の初冬広瀬川雪見露天と美女づくりの湯】極上A5仙台牛ステーキ＆名物仙台せり鍋会席を味わう老舗宿5選",
         "description": "11月から12月にかけて、杜の都・仙台の奥座敷として古くから親しまれる作並温泉および秋保温泉エリアは、広瀬川や名取川の深い渓谷が初雪に彩られ、湯けむりが白く立ち上る情緒豊かな初冬の温泉情緒に包まれます。奈良時代に行基菩薩が発見し、歴代仙台藩主も湯治に訪れた作並温泉は、肌をしっとりと包み込む弱アルカリ性の「美女づくりの湯」。夕食には見事なサシが入った最高級A5仙台牛の陶板ステーキやしゃぶしゃぶ、そして冬の宮城を代表する風物詩・根っこまでシャキシャキと甘い名物「仙台せり鍋」を地酒とともに味わう厳選名宿5選を徹底解説します。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/28670/28670.jpg",
         "datePublished": "T13:00:00+09:00",
         "dateModified": "T13:00:00+09:00",
         "publisher": {
@@ -234,7 +234,7 @@ export default function MiyagiSakunamiWinterFeature() {
       {/* Header Banner */}
       <header className="relative w-full h-[360px] sm:h-[480px] flex items-end justify-center bg-slate-900 text-white overflow-hidden">
         <Image
-          src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1600&q=80"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/28670/28670.jpg"
           alt="作並温泉の広瀬川雪景色と天然雪見岩風呂"
           fill
           priority

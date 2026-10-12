@@ -8,17 +8,17 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月沖縄那覇：新春波上宮初詣！名宿5選',
-  description: '本土が厳しい寒さに震える11月・12月・1月、平均気温18℃前後の温暖な陽光が注ぐ沖縄・那覇エリアは極上の「避冬（ひとう）リゾート」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '本土が厳しい寒さに震える11月・12月・1月、平均気温18℃前後の温暖な陽光が注ぐ沖縄・那覇エリアは極上の「避冬（ひとう）リゾート」。',
   keywords: '那覇 ホテル, 波上宮 初詣, 首里城 見せる復興, 瀬長島ホテル, ロワジールホテル那覇, ハイアットリージェンシー那覇, 国際通り あぐー豚, 11月 12月 1月 沖縄 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-okinawa-naha-naminoe-shrine-hatsumode-agu-resort-stay/"
   },
   openGraph: {
     title: '11・12・1月沖縄那覇：新春波上宮初詣！名宿5選',
-    description: '本土が厳しい寒さに震える11月・12月・1月、平均気温18℃前後の温暖な陽光が注ぐ沖縄・那覇エリアは極上の「避冬（ひとう）リゾート」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '本土が厳しい寒さに震える11月・12月・1月、平均気温18℃前後の温暖な陽光が注ぐ沖縄・那覇エリアは極上の「避冬（ひとう）リゾート」。',
     url: 'https://croud-travel.pages.dev/winter-okinawa-naha-naminoe-shrine-hatsumode-agu-resort-stay',
     type: 'article',
-    images: [{ url: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80' }]
+    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/139989/139989.jpg' }]
   }
 };
 

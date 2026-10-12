@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '会津東山温泉で過ごす冬の旅（11・12月）！雪化粧の湯川渓谷露天と会津地鶏！名宿5選',
-  description: '11月下旬の初雪から12月の白銀世界へと移ろう福島・会津の奥座敷「東山温泉」。開湯1300年、湯川の渓流沿いに佇む風情ある木造建築群と渓谷美。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月下旬の初雪から12月の白銀世界へと移ろう福島・会津の奥座敷「東山温泉」。開湯1300年、湯川の渓流沿いに佇む風情ある木造建築群と渓谷美。',
   keywords: '会津東山温泉 宿泊 11月 12月, 東山温泉 雪景色 旅館, 会津若松 温泉 宿, 会津 馬刺し 温泉 旅館, 東山温泉 向瀧 東鳳 瀧の湯, 会津地鶏 宿, 会津若松 モデルコース 冬',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukushima-aizu-higashiyama-snow-heritage-stay/",
   },
   openGraph: {
     title: '会津東山温泉で過ごす冬の旅（11・12月）！雪化粧の湯川渓谷露天と会津地鶏！名宿5選',
-    description: '11月下旬の初雪から12月の白銀世界へと移ろう福島・会津の奥座敷「東山温泉」。開湯1300年、湯川の渓流沿いに佇む風情ある木造建築群と渓谷美。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月下旬の初雪から12月の白銀世界へと移ろう福島・会津の奥座敷「東山温泉」。開湯1300年、湯川の渓流沿いに佇む風情ある木造建築群と渓谷美。',
     url: 'https://croud-travel.pages.dev/winter-fukushima-aizu-higashiyama-snow-heritage-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/67896/67896.jpg',
         width: 1200,
         height: 630,
         alt: "【11・12月会津東山温泉の初雪と武家文化】雪化粧の湯川渓谷露天と会津地鶏・極上馬刺し会席の宿5選",
@@ -47,7 +47,7 @@ export default function HigashiyamaWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-fukushima-aizu-higashiyama-snow-heritage-stay#article",
         "headline": "【11・12月会津東山温泉の初雪と武家文化】雪化粧の湯川渓谷露天と会津地鶏・極上馬刺し会席の宿5選",
         "description": "11月下旬の初雪から12月の白銀世界へと移ろう福島・会津の奥座敷「東山温泉」。開湯1300年、湯川の渓流沿いに佇む風情ある木造建築群と渓谷美。雪化粧した山肌を望む雪見露天風呂と、会津漆器でいただく本場極上馬刺し・会津地鶏・郷土料理こづゆ、そして全国新酒鑑評会金賞の会津美酒を堪能する冬旅ガイド。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/67896/67896.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {
@@ -254,7 +254,7 @@ export default function HigashiyamaWinterPage() {
       {/* Hero Header */}
       <header className="relative h-[520px] md:h-[620px] flex items-center justify-center text-white overflow-hidden bg-stone-950">
         <Image
-          src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1600&q=85"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/67896/67896.jpg"
           alt="冬の会津東山温泉・湯川渓谷の雪景色と歴史ある温泉街の灯り"
           fill
           priority

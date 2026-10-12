@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '小豆島温泉で過ごす冬の旅（11・12月）！海一望露天風呂！名宿5選',
-  description: '11月下旬から12月にかけて瀬戸内海の小豆島は、温暖で穏やかな気候の中、日本三大渓谷美「寒霞渓」の紅葉から初冬の岩肌へと移ろうダイナミックな景観と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月下旬から12月にかけて瀬戸内海の小豆島は、温暖で穏やかな気候の中、日本三大渓谷美「寒霞渓」の紅葉から初冬の岩肌へと移ろうダイナミックな景観と。',
   keywords: '小豆島 温泉 宿泊, 小豆島 11月 12月, 小豆島国際ホテル, ベイリゾートホテル小豆島, 島宿真里, 海音真里, 国民宿舎小豆島, 寒霞渓 冬, エンジェルロード 夕日, 小豆島オリーブ牛 宿, 讃岐でんぶく フグ',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kagawa-shodoshima-onsen-kankakei-olive-beef-stay/"
   },
   openGraph: {
     title: '小豆島温泉で過ごす冬の旅（11・12月）！海一望露天風呂！名宿5選',
-    description: '11月下旬から12月にかけて瀬戸内海の小豆島は、温暖で穏やかな気候の中、日本三大渓谷美「寒霞渓」の紅葉から初冬の岩肌へと移ろうダイナミックな景観と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月下旬から12月にかけて瀬戸内海の小豆島は、温暖で穏やかな気候の中、日本三大渓谷美「寒霞渓」の紅葉から初冬の岩肌へと移ろうダイナミックな景観と。',
     url: 'https://croud-travel.pages.dev/winter-kagawa-shodoshima-onsen-kankakei-olive-beef-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/17990/17990.jpg',
         width: 1200,
         height: 630,
         alt: '冬の小豆島エンジェルロードと海一望温泉'
@@ -69,7 +69,7 @@ export default function ShodoshimaOnsenWinterFeature() {
         },
         "headline": "【11・12月小豆島温泉の初冬寒霞渓奇岩絶景とエンジェルロード夕日】海一望露天風呂・小豆島オリーブ牛ステーキ＆冬の讃岐でんぶく会席の宿5選",
         "description": "11月下旬から12月にかけて瀬戸内海の小豆島は、温暖で穏やかな気候の中、日本三大渓谷美「寒霞渓」の紅葉から初冬の岩肌へと移ろうダイナミックな景観と、オリーブの収穫・搾りたて初摘みオリーブオイルの豊かな香りに包まれます。干潮時に海の中から現れる神秘の砂の道「エンジェルロード」の冬の澄んだ夕景、瀬戸内海を行き交う船を眺めながら癒やされる絶景温泉露天風呂、オリーブの搾り果実で育った最高級黒毛和牛「小豆島オリーブ牛」、冬の瀬戸内海の隠れた極上フグ「讃岐でんぶく」、島仕込み手延べそうめんや木桶仕込み醤油会席を味わう至高のアイランド名宿5選を徹底解説。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/17990/17990.jpg",
         "datePublished": "T04:00:00+09:00",
         "dateModified": "T04:00:00+09:00",
         "publisher": {
@@ -268,7 +268,7 @@ export default function ShodoshimaOnsenWinterFeature() {
       {/* Header Banner */}
       <header className="relative w-full h-[360px] sm:h-[480px] flex items-end justify-center bg-slate-900 text-white overflow-hidden">
         <Image
-          src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1600&q=80"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/17990/17990.jpg"
           alt="冬の小豆島エンジェルロードと海一望温泉"
           fill
           priority

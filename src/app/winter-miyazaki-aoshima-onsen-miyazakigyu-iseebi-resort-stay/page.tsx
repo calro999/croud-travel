@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '宮崎・青島温泉で過ごす冬の旅（11・12月）！日向灘伊勢海老！名宿5選',
-  description: '11月から12月にかけて、日南海岸の玄関口に位置する宮崎・青島温泉は、本州が本格的な冬の寒気に包まれるなか。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、日南海岸の玄関口に位置する宮崎・青島温泉は、本州が本格的な冬の寒気に包まれるなか。',
   keywords: '青島温泉 宿泊, 宮崎 温泉 11月 12月, ANAホリデイ・インリゾート宮崎, 青島サンクマール, ルートイングランティアあおしま太陽閣, 地蔵庵, 青島フィッシャーマンズ, 宮崎牛 鉄板焼き, 伊勢海老 宿, 鬼の洗濯板 絶景',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay/"
   },
   openGraph: {
     title: '宮崎・青島温泉で過ごす冬の旅（11・12月）！日向灘伊勢海老！名宿5選',
-    description: '11月から12月にかけて、日南海岸の玄関口に位置する宮崎・青島温泉は、本州が本格的な冬の寒気に包まれるなか。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、日南海岸の玄関口に位置する宮崎・青島温泉は、本州が本格的な冬の寒気に包まれるなか。',
     url: 'https://croud-travel.pages.dev/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/8782/8782.jpg',
         width: 1200,
         height: 630,
         alt: '初冬の宮崎・青島温泉と鬼の洗濯板を望む太平洋絶景露天風呂'
@@ -69,7 +69,7 @@ export default function MiyazakiAoshimaWinterFeature() {
         },
         "headline": "【11・12月宮崎・青島温泉の南国温暖避寒と鬼の洗濯板絶景】最高峰宮崎牛・日向灘伊勢海老＆美肌炭酸泉リゾートの宿5選",
         "description": "11月から12月にかけて、日南海岸の玄関口に位置する宮崎・青島温泉は、本州が本格的な冬の寒気に包まれるなか、日中は18〜20℃前後まで気温が上がる温暖な南国リゾート気候に恵まれ、極上の避寒旅行シーズンを迎えます。国の天然記念物「鬼の洗濯板」に囲まれた神秘の青島神社、太平洋・日向灘の青い水平線を望む絶景展望露天風呂、そしてまるで天然の美容液のようなトロトロの美肌炭酸水素塩泉。夕食には4大会連続内閣総理大臣賞に輝く日本一の「宮崎牛」鉄板焼きや、秋から冬にかけて旬を迎える日向灘獲れの「天然伊勢海老」に舌鼓。心も身体も温まる厳選おすすめホテル・温泉旅館5選を徹底解説します。",
-        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&h=630&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/8782/8782.jpg",
         "datePublished": "T10:00:00+09:00",
         "dateModified": "T10:00:00+09:00",
         "publisher": {
@@ -234,7 +234,7 @@ export default function MiyazakiAoshimaWinterFeature() {
       {/* Header Banner */}
       <header className="relative w-full h-[360px] sm:h-[480px] flex items-end justify-center bg-slate-900 text-white overflow-hidden">
         <Image
-          src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/8782/8782.jpg"
           alt="青島の鬼の洗濯板と南国宮崎の青い海"
           fill
           priority

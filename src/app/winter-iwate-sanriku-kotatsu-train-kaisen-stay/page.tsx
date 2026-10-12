@@ -9,19 +9,19 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月岩手：三陸鉄道こたつ列車の冬絶景と浄土ヶ浜雪景色！名宿5選',
-  description: '11月から1月、岩手県三陸沿岸（宮古・釜石・大船渡・田野畑）は、太平洋の紺碧と雪化粧した白亜の奇岩が織りなす息を呑む絶景の季節を迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から1月、岩手県三陸沿岸（宮古・釜石・大船渡・田野畑）は、太平洋の紺碧と雪化粧した白亜の奇岩が織りなす息を呑む絶景の季節を迎えます。',
   keywords: '三陸鉄道 こたつ列車, 浄土ヶ浜 冬, 瓶ドン 宮古, 三陸あわび 宿泊, 三陸毛ガニ 宿, 浄土ヶ浜パークホテル, 大船渡温泉, ホテル羅賀荘, 11月 12月 1月 岩手旅行, リアス海岸 絶景温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-iwate-sanriku-kotatsu-train-kaisen-stay/"
   },
   openGraph: {
     title: '11・12・1月岩手：三陸鉄道こたつ列車の冬絶景と浄土ヶ浜雪景色！名宿5選',
-    description: '11月から1月、岩手県三陸沿岸（宮古・釜石・大船渡・田野畑）は、太平洋の紺碧と雪化粧した白亜の奇岩が織りなす息を呑む絶景の季節を迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から1月、岩手県三陸沿岸（宮古・釜石・大船渡・田野畑）は、太平洋の紺碧と雪化粧した白亜の奇岩が織りなす息を呑む絶景の季節を迎えます。',
     url: 'https://croud-travel.pages.dev/winter-iwate-sanriku-kotatsu-train-kaisen-stay',
     siteName: 'クラドトラベル',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/64789/64789.jpg',
         width: 1200,
         height: 630,
         alt: '岩手三陸鉄道と雪景色の浄土ヶ浜'
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月岩手：三陸鉄道こたつ列車の冬絶景と浄土ヶ浜雪景色・名物瓶ドン＆極上三陸あわび・毛ガニを味わう海沿いの名宿5選",
     description: "11月から1月、岩手県三陸沿岸（宮古・釜石・大船渡・田野畑）は、太平洋の紺碧と雪化粧した白亜の奇岩が織りなす息を呑む絶景の季節を迎えます。12月から運行を開始する三陸鉄道の冬の風物詩「こたつ列車」では、車内にぬくぬくのこたつが設えられ、車窓を流れるリアス海岸の雪景色と名物駅弁を堪能。名勝・浄土ヶ浜では、純白の雪と松の緑、澄み切った海のコントラストがまるで一幅の日本画のような幽玄美を放ちます。冬の三陸グルメは全国屈指の贅沢さを誇り、宮古名物「瓶ドン」をはじめ、旨味の詰まった肉厚な「三陸あわび」、身がぎっしり詰まった冬の「三陸毛ガニ」、濃厚なタラの白子や寒鱈汁、そして岩手が誇る最高級前沢牛がテーブルを彩ります。冬ならではの澄み渡る潮風と絶景温泉に癒やされる厳選5宿を詳しく紹介します。",
-    images: ['https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/64789/64789.jpg']
   }
 };
 
@@ -53,7 +53,7 @@ export default function IwateSanrikuKotatsuTrainPage() {
         },
         "headline": "【11・12・1月岩手】三陸鉄道こたつ列車の冬絶景と浄土ヶ浜雪景色・名物瓶ドン＆極上三陸あわび・毛ガニを味わう海沿いの名宿5選",
         "description": "11月から1月、岩手県三陸沿岸（宮古・釜石・大船渡・田野畑）は、太平洋の紺碧と雪化粧した白亜の奇岩が織りなす息を呑む絶景の季節を迎えます。12月から運行を開始する三陸鉄道の冬の風物詩「こたつ列車」では、車内にぬくぬくのこたつが設えられ、車窓を流れるリアス海岸の雪景色と名物駅弁を堪能。名勝・浄土ヶ浜では、純白の雪と松の緑、澄み切った海のコントラストがまるで一幅の日本画のような幽玄美を放ちます。冬の三陸グルメは全国屈指の贅沢さを誇り、宮古名物「瓶ドン」をはじめ、旨味の詰まった肉厚な「三陸あわび」、身がぎっしり詰まった冬の「三陸毛ガニ」、濃厚なタラの白子や寒鱈汁、そして岩手が誇る最高級前沢牛がテーブルを彩ります。冬ならではの澄み渡る潮風と絶景温泉に癒やされる厳選5宿を詳しく紹介します。",
-        "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/64789/64789.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {
@@ -236,7 +236,7 @@ export default function IwateSanrikuKotatsuTrainPage() {
       <header className="relative bg-gradient-to-b from-stone-900 via-stone-800 to-stone-900 text-white py-16 sm:py-24 px-4 sm:px-6 lg:px-8">
         <div className="absolute inset-0 opacity-30 mix-blend-overlay overflow-hidden">
           <img 
-            src="https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1920&q=80" 
+            src="https://img.travel.rakuten.co.jp/share/HOTEL/64789/64789.jpg" 
             alt="三陸沿岸の雪景色背景" 
             className="w-full h-full object-cover"
           />

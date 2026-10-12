@@ -8,19 +8,19 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月滋賀：日本三大和牛「近江牛」極上すき焼き！名宿5選',
-  description: '白壁土蔵が立ち並ぶ八幡堀の風情ある雪景色と、近江商人の守護神「日牟禮八幡宮」での新春初詣を巡る11〜1月の滋賀・近江八幡＆東近江・安土特集。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '白壁土蔵が立ち並ぶ八幡堀の風情ある雪景色と、近江商人の守護神「日牟禮八幡宮」での新春初詣を巡る11〜1月の滋賀・近江八幡＆東近江・安土特集。',
   keywords: '近江八幡 八幡堀 雪景色, 日牟禮八幡宮 初詣, 近江牛 宿 滋賀, 休暇村 近江八幡, 近江八幡 温泉 旅館, 安土城跡 冬, 赤こんにゃく 近江八幡, 11月 12月 1月 滋賀 旅行, ホテルニューオウミ',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shiga-omihachiman-hachimanbori-himure-omigyu-stay/"
   },
   openGraph: {
     title: '11・12・1月滋賀：日本三大和牛「近江牛」極上すき焼き！名宿5選',
-    description: '白壁土蔵が立ち並ぶ八幡堀の風情ある雪景色と、近江商人の守護神「日牟禮八幡宮」での新春初詣を巡る11〜1月の滋賀・近江八幡＆東近江・安土特集。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '白壁土蔵が立ち並ぶ八幡堀の風情ある雪景色と、近江商人の守護神「日牟禮八幡宮」での新春初詣を巡る11〜1月の滋賀・近江八幡＆東近江・安土特集。',
     url: 'https://croud-travel.pages.dev/winter-shiga-omihachiman-hachimanbori-himure-omigyu-stay',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/76886/76886.jpg',
         width: 1200,
         height: 630,
         alt: '冬の滋賀・近江八幡八幡堀雪景色と日牟禮八幡宮初詣'
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月滋賀：近江八幡＆安土・東近江！雪化粧の水郷めぐり・八幡堀冬情趣と「日牟禮八幡宮」初詣・日本三大和牛「近江牛」極上すき焼き＆琵琶湖東岸名宿5選",
     description: "白壁土蔵が立ち並ぶ八幡堀の風情ある雪景色と、近江商人の守護神「日牟禮八幡宮」での新春初詣を巡る11〜1月の滋賀・近江八幡＆東近江・安土特集。冬の静寂に包まれるヨシ原の水郷めぐりや、織田信長公が天下布武の拠点とした安土城跡の雪景色。日本三大和牛「近江牛」のとろける極上すき焼きや、冬の郷土味覚「赤こんにゃく・丁字麩」。そして琵琶湖の雄大な眺望と天然温泉に癒やされる厳選名宿5選を徹底特集します。",
-    images: ['https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&h=630&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/76886/76886.jpg']
   }
 };
 
@@ -43,7 +43,7 @@ export default function ShigaOmihachimanWinterPage() {
         "@type": "Article",
         "headline": "【11・12・1月滋賀】近江八幡＆安土・東近江！雪化粧の水郷めぐり・八幡堀冬情趣と「日牟禮八幡宮」初詣・日本三大和牛「近江牛」極上すき焼き＆琵琶湖東岸名宿5選",
         "description": "白壁土蔵が立ち並ぶ八幡堀の風情ある雪景色と、近江商人の守護神「日牟禮八幡宮」での新春初詣を巡る11〜1月の滋賀・近江八幡＆東近江・安土特集。冬の静寂に包まれるヨシ原の水郷めぐりや、織田信長公が天下布武の拠点とした安土城跡の雪景色。日本三大和牛「近江牛」のとろける極上すき焼きや、冬の郷土味覚「赤こんにゃく・丁字麩」。そして琵琶湖の雄大な眺望と天然温泉に癒やされる厳選名宿5選を徹底特集します。",
-        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&h=630&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/76886/76886.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {

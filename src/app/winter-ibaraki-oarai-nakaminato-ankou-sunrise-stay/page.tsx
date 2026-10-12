@@ -9,19 +9,19 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月茨城：大洗磯前神社「神磯の鳥居」初！名宿5選',
-  description: '11月から1月、茨城県大洗・那珂湊は、太平洋の荒波打つ岩礁に立つ大洗磯前神社「神磯の鳥居」の初日の出と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から1月、茨城県大洗・那珂湊は、太平洋の荒波打つ岩礁に立つ大洗磯前神社「神磯の鳥居」の初日の出と。',
   keywords: '大洗 あんこう鍋, 神磯の鳥居 初日の出, 大洗磯前神社, 那珂湊おさかな市場, 大洗ホテル, 大洗パークホテル, 里海邸, 亀の井ホテル大洗, 大洗シーサイドホテル, 大洗温泉, どぶ汁, 11月 12月 1月 茨城旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-ibaraki-oarai-nakaminato-ankou-sunrise-stay/"
   },
   openGraph: {
     title: '11・12・1月茨城：大洗磯前神社「神磯の鳥居」初！名宿5選',
-    description: '11月から1月、茨城県大洗・那珂湊は、太平洋の荒波打つ岩礁に立つ大洗磯前神社「神磯の鳥居」の初日の出と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から1月、茨城県大洗・那珂湊は、太平洋の荒波打つ岩礁に立つ大洗磯前神社「神磯の鳥居」の初日の出と。',
     url: 'https://croud-travel.pages.dev/winter-ibaraki-oarai-nakaminato-ankou-sunrise-stay',
     siteName: 'クラドトラベル',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/178205/178205.jpg',
         width: 1200,
         height: 630,
         alt: '冬の大洗磯前神社神磯の鳥居と太平洋の朝陽'
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月茨城：大洗磯前神社「神磯の鳥居」初日の出と冬の極上「大洗あんこう鍋（どぶ汁）」・那珂湊おさかな市場買い出し＆太平洋一望の大洗温泉宿5選",
     description: "11月から1月、茨城県大洗・那珂湊は、太平洋の荒波打つ岩礁に立つ大洗磯前神社「神磯の鳥居」の初日の出と、冬に肝が肥大化し旨味の頂点を極める「大洗あんこう鍋（どぶ汁）」で最高の賑わいを見せます。那珂湊おさかな市場の活気あふれる年末年始買い出し、塩分豊富で体が芯から温まる大洗温泉。太平洋の絶景を望む厳選名宿5選と冬旅のモデルコースを徹底ガイドします。",
-    images: ['https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/178205/178205.jpg']
   }
 };
 
@@ -44,7 +44,7 @@ export default function IbarakiOaraiNakaminatoWinterPage() {
     '@type': 'Article',
     headline: "11・12・1月茨城：大洗磯前神社「神磯の鳥居」初日の出と冬の極上「大洗あんこう鍋（どぶ汁）」・那珂湊おさかな市場買い出し＆太平洋一望の大洗温泉宿5選",
     description: "11月から1月、茨城県大洗・那珂湊は、太平洋の荒波打つ岩礁に立つ大洗磯前神社「神磯の鳥居」の初日の出と、冬に肝が肥大化し旨味の頂点を極める「大洗あんこう鍋（どぶ汁）」で最高の賑わいを見せます。那珂湊おさかな市場の活気あふれる年末年始買い出し、塩分豊富で体が芯から温まる大洗温泉。太平洋の絶景を望む厳選名宿5選と冬旅のモデルコースを徹底ガイドします。",
-    image: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://img.travel.rakuten.co.jp/share/HOTEL/178205/178205.jpg',
     datePublished: '',
     dateModified: '',
     author: {
@@ -270,7 +270,7 @@ export default function IbarakiOaraiNakaminatoWinterPage() {
       <header className="relative bg-slate-950 text-white overflow-hidden py-16 sm:py-24">
         <div className="absolute inset-0 opacity-35 mix-blend-overlay">
           <img 
-            src="https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1800&q=80" 
+            src="https://img.travel.rakuten.co.jp/share/HOTEL/178205/178205.jpg" 
             alt="冬の大洗磯前神社神磯の鳥居と初日の出" 
             className="w-full h-full object-cover"
           />

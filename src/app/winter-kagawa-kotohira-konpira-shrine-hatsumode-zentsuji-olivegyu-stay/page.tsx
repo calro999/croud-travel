@@ -7,19 +7,19 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月香川：四国随一の初詣「金刀比羅宮」！名宿5選',
-  description: '四国屈指のパワースポット「こんぴらさん」で迎える11〜1月の冬紀行。古くから「一生に一度はこんぴら参り」と親しまれる金刀比羅宮御本宮785段。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '四国屈指のパワースポット「こんぴらさん」で迎える11〜1月の冬紀行。古くから「一生に一度はこんぴら参り」と親しまれる金刀比羅宮御本宮785段。',
   keywords: '金刀比羅宮 初詣, こんぴらさん 温泉, 善通寺 初詣, こんぴら温泉郷 名宿, 讃岐オリーブ牛, 紅梅亭, 琴参閣, 敷島館, 香川 冬旅行, 琴平温泉 露天風呂',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-kagawa-kotohira-konpira-shrine-hatsumode-zentsuji-olivegyu-stay'
   },
   openGraph: {
     title: '11・12・1月香川：四国随一の初詣「金刀比羅宮」！名宿5選',
-    description: '四国屈指のパワースポット「こんぴらさん」で迎える11〜1月の冬紀行。古くから「一生に一度はこんぴら参り」と親しまれる金刀比羅宮御本宮785段。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '四国屈指のパワースポット「こんぴらさん」で迎える11〜1月の冬紀行。古くから「一生に一度はこんぴら参り」と親しまれる金刀比羅宮御本宮785段。',
     url: 'https://croud-travel.pages.dev/winter-kagawa-kotohira-konpira-shrine-hatsumode-zentsuji-olivegyu-stay',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/5901/5901.jpg',
         width: 1200,
         height: 630,
         alt: '冬の金刀比羅宮本宮石段と讃岐富士を望むこんぴら温泉郷'
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月香川：四国随一の初詣「金刀比羅宮」785段石段と弘法大師誕生の地「善通寺」新春祈願！讃岐オリーブ牛＆こんぴら温泉郷名宿5選",
     description: "四国屈指のパワースポット「こんぴらさん」で迎える11〜1月の冬紀行。古くから「一生に一度はこんぴら参り」と親しまれる金刀比羅宮御本宮785段・奥社1368段の石段参拝と新春初詣、弘法大師空海御誕生の地・総本山善通寺の厳かな祈願。冬の讃岐平野に映える讃岐富士（飯野山）の絶景。冷えた身体を芯から解きほぐす「こんぴら温泉郷」の名湯露天風呂と、冬に脂の甘みが極まる讃岐オリーブ牛、本場の熱々讃岐うどん、骨付鳥を味わい尽くす厳選名宿5選を徹底解説。",
-    images: ['https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&h=630&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/5901/5901.jpg']
   }
 };
 
@@ -42,7 +42,7 @@ export default function KagawaKotohiraWinterPage() {
     "@type": "Article",
     "headline": "【11・12・1月香川】四国随一の初詣「金刀比羅宮」785段石段と弘法大師誕生の地「善通寺」新春祈願！讃岐オリーブ牛＆こんぴら温泉郷名宿5選",
     "description": "四国屈指のパワースポット「こんぴらさん」で迎える11〜1月の冬紀行。古くから「一生に一度はこんぴら参り」と親しまれる金刀比羅宮御本宮785段・奥社1368段の石段参拝と新春初詣、弘法大師空海御誕生の地・総本山善通寺の厳かな祈願。冬の讃岐平野に映える讃岐富士（飯野山）の絶景。冷えた身体を芯から解きほぐす「こんぴら温泉郷」の名湯露天風呂と、冬に脂の甘みが極まる讃岐オリーブ牛、本場の熱々讃岐うどん、骨付鳥を味わい尽くす厳選名宿5選を徹底解説。",
-    "image": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&h=630&q=80",
+    "image": "https://img.travel.rakuten.co.jp/share/HOTEL/5901/5901.jpg",
     "datePublished": "T18:00:00+09:00",
     "dateModified": "T18:00:00+09:00",
     "author": {

@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '鞆の浦温泉で過ごす冬の旅（11・12月）！瀬戸内海初冬の夕暮れと潮待ちの港情緒！名宿5選',
-  description: '11月中旬から12月の初冬、瀬戸内海の穏やかな潮風に包まれる広島県福山市・鞆の浦（とものうら）は、一年で最も空気が澄み渡り。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月中旬から12月の初冬、瀬戸内海の穏やかな潮風に包まれる広島県福山市・鞆の浦（とものうら）は、一年で最も空気が澄み渡り。',
   keywords: '鞆の浦温泉 宿泊, 鞆の浦 旅館, 寒真鯛 鯛めし, 峠下牛 広島牛, 保命酒 鞆の浦, 遠音近音 漣亭 鴎風亭, 潮待ちの港 日本遺産, 常夜燈 仙酔島, 11月 12月 瀬戸内海旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hiroshima-tomonoura-onsen-setouchi-taimeshi-taoshitagyu-stay/"
   },
   openGraph: {
     title: '鞆の浦温泉で過ごす冬の旅（11・12月）！瀬戸内海初冬の夕暮れと潮待ちの港情緒！名宿5選',
-    description: '11月中旬から12月の初冬、瀬戸内海の穏やかな潮風に包まれる広島県福山市・鞆の浦（とものうら）は、一年で最も空気が澄み渡り。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月中旬から12月の初冬、瀬戸内海の穏やかな潮風に包まれる広島県福山市・鞆の浦（とものうら）は、一年で最も空気が澄み渡り。',
     url: 'https://croud-travel.pages.dev/winter-hiroshima-tomonoura-onsen-setouchi-taimeshi-taoshitagyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/111259/111259.jpg',
         width: 1200,
         height: 630,
         alt: '初冬の鞆の浦常夜燈と夕暮れの穏やかな瀬戸内海'
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "鞆の浦温泉で過ごす冬の旅（11・12月）！瀬戸内海初冬の夕暮れと潮待ちの港情緒・名物寒真鯛の鯛めし＆地魚姿造り・幻の峠下牛と保命酒を味わう名宿5選",
     description: "11月中旬から12月の初冬、瀬戸内海の穏やかな潮風に包まれる広島県福山市・鞆の浦（とものうら）は、一年で最も空気が澄み渡り、仙酔島や弁天島を茜色に染め上げる夕暮れのグラデーションが息をのむ美しさを放つ季節を迎えます。万葉の時代から「潮待ちの港」として栄え、坂本龍馬のいろは丸事件ゆかりの地としても名高いこの港町は、江戸時代の常夜燈や石造りの雁木、格子戸の町家が奇跡的に残る日本遺産の街。冷え込む初冬の旅人を温めるのは、ラジウムを豊富に含む天然鞆の浦温泉の湯浴みと、瀬戸内海の豊かな海が育んだ冬の美食の数々です。荒波で身を引き締めた初冬の「寒真鯛」を香ばしく炊き上げた名物「鯛めし」や熱々の出汁をかける「鯛茶漬け」、ネブトやチヌなど朝獲れ小魚の姿造り、そして広島県竹原の豊かな自然が育んだ幻の黒毛和牛「峠下牛（たおしたぎゅう）」の陶板ステーキ。さらに江戸初期より伝わる十六種の和漢薬草酒「保命酒（ほうめいしゅ）」の滋養まで、瀬戸内初冬の贅を味わい尽くす厳選名宿5選を徹底解説します。",
-    images: ['https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&h=630&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/111259/111259.jpg']
   }
 };
 

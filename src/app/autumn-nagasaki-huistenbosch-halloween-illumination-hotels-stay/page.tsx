@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     type: 'article',
     locale: 'ja_JP',
     images: [{
-      url: 'https://images.unsplash.com/photo-1549144511-f099e773c147?auto=format&fit=crop&w=1200&q=80',
+      url: 'https://img.travel.rakuten.co.jp/share/HOTEL/9057/9057.jpg',
       width: 1200,
       height: 630,
       alt: '秋のハウステンボス ヨーロッパの街並みとイルミネーション'
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "秋の長崎ハウステンボス：ヨーロッパの街並みが包まれるハロウィーンフェスティバル！世界最大級ナイトイルミネーション・秋のグルメ＆直営・オフィシャル厳選名宿5選",
     description: "日本一の広さを誇るテーマパーク「長崎ハウステンボス」が、オレンジとゴールドの光に包まれる「ハロウィーンフェスティバル」。本場ヨーロッパのレンガ造りの街並みや運河沿いには、巨大なカボチャのランタンやフォトジェニックなハロウィーン装飾が点灯。夜には世界最大1300万球が輝く「光の王国」イルミネーションと、大迫力のハロウィーンナイト花火が夜空を染め上げます。クラシカルなヨーロッパ調の直営クラシックホテルや、黄金色の温泉が湧くオフィシャルホテル厳選5選を徹底特集。",
-    images: ['https://images.unsplash.com/photo-1549144511-f099e773c147?auto=format&fit=crop&w=1200&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/9057/9057.jpg']
   }
 };
 
@@ -39,7 +39,7 @@ export default function HuistenboschHalloweenFeaturePage() {
     "@type": "Article",
     "headline": "【秋の長崎ハウステンボス】ヨーロッパの街並みが包まれるハロウィーンフェスティバル！世界最大級ナイトイルミネーション・秋のグルメ＆直営・オフィシャル厳選名宿5選",
     "description": "日本一の広さを誇るテーマパーク「長崎ハウステンボス」が、オレンジとゴールドの光に包まれる「ハロウィーンフェスティバル」。本場ヨーロッパのレンガ造りの街並みや運河沿いには、巨大なカボチャのランタンやフォトジェニックなハロウィーン装飾が点灯。夜には世界最大1300万球が輝く「光の王国」イルミネーションと、大迫力のハロウィーンナイト花火が夜空を染め上げます。クラシカルなヨーロッパ調の直営クラシックホテルや、黄金色の温泉が湧くオフィシャルホテル厳選5選を徹底特集。",
-    "image": "https://images.unsplash.com/photo-1549144511-f099e773c147?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://img.travel.rakuten.co.jp/share/HOTEL/9057/9057.jpg",
     "datePublished": "T10:00:00+09:00",
     "dateModified": "T10:00:00+09:00",
     "author": {

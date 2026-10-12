@@ -9,19 +9,19 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月山梨：冬の八ヶ岳ブルーと満天の星空観賞！名宿5選',
-  description: '11月から1月、山梨県北杜市の清里高原・八ヶ岳南麓は、晴天率80%超を誇る抜けるような冬晴れ「八ヶ岳ブルー」と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から1月、山梨県北杜市の清里高原・八ヶ岳南麓は、晴天率80%超を誇る抜けるような冬晴れ「八ヶ岳ブルー」と。',
   keywords: '清里 星空, 八ヶ岳ブルー, 萌木の村, 甲州ワインビーフ, 清里高原ホテル, 八ヶ岳グレイスホテル, ホテル風か, ハットウォールデン, 八ヶ岳 温泉, 11月 12月 1月 山梨旅行, サンメドウズ清里',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamanashi-kiyosato-yatsugatake-starry-sky-winebeef-stay/"
   },
   openGraph: {
     title: '11・12・1月山梨：冬の八ヶ岳ブルーと満天の星空観賞！名宿5選',
-    description: '11月から1月、山梨県北杜市の清里高原・八ヶ岳南麓は、晴天率80%超を誇る抜けるような冬晴れ「八ヶ岳ブルー」と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から1月、山梨県北杜市の清里高原・八ヶ岳南麓は、晴天率80%超を誇る抜けるような冬晴れ「八ヶ岳ブルー」と。',
     url: 'https://croud-travel.pages.dev/winter-yamanashi-kiyosato-yatsugatake-starry-sky-winebeef-stay',
     siteName: 'クラドトラベル',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/28379/28379.jpg',
         width: 1200,
         height: 630,
         alt: '冬の清里八ヶ岳ブルーと満天の星空観賞'
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月山梨：冬の八ヶ岳ブルーと満天の星空観賞・萌木の村冬景色＆極上「甲州ワインビーフ」・八ヶ岳南麓の高原温泉リゾート宿5選",
     description: "11月から1月、山梨県北杜市の清里高原・八ヶ岳南麓は、晴天率80%超を誇る抜けるような冬晴れ「八ヶ岳ブルー」と、日本屈指の美しさを誇る満天の星空観賞のベストシーズン。薪ストーブの煙漂う北欧風の「萌木の村」、ワインの絞り粕で育つ極上「甲州ワインビーフ」や濃厚チーズフォンデュ。冬の富士山と南アルプスを望む展望露天風呂付き厳選名宿5選と1泊2日モデルコースを徹底ガイドします。",
-    images: ['https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/28379/28379.jpg']
   }
 };
 
@@ -44,7 +44,7 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
     '@type': 'Article',
     headline: "11・12・1月山梨：冬の八ヶ岳ブルーと満天の星空観賞・萌木の村冬景色＆極上「甲州ワインビーフ」・八ヶ岳南麓の高原温泉リゾート宿5選",
     description: "11月から1月、山梨県北杜市の清里高原・八ヶ岳南麓は、晴天率80%超を誇る抜けるような冬晴れ「八ヶ岳ブルー」と、日本屈指の美しさを誇る満天の星空観賞のベストシーズン。薪ストーブの煙漂う北欧風の「萌木の村」、ワインの絞り粕で育つ極上「甲州ワインビーフ」や濃厚チーズフォンデュ。冬の富士山と南アルプスを望む展望露天風呂付き厳選名宿5選と1泊2日モデルコースを徹底ガイドします。",
-    image: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://img.travel.rakuten.co.jp/share/HOTEL/28379/28379.jpg',
     datePublished: '',
     dateModified: '',
     author: {
@@ -270,7 +270,7 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
       <header className="relative bg-slate-950 text-white overflow-hidden py-16 sm:py-24">
         <div className="absolute inset-0 opacity-35 mix-blend-overlay">
           <img 
-            src="https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1800&q=80" 
+            src="https://img.travel.rakuten.co.jp/share/HOTEL/28379/28379.jpg" 
             alt="冬の清里八ヶ岳ブルーと満天の星空観賞" 
             className="w-full h-full object-cover"
           />

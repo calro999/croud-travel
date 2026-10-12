@@ -8,19 +8,19 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月鹿児島：国宝「霧島神宮」新春初詣と湯！名宿5選',
-  description: '南九州随一のパワースポットと天下の名湯に癒やされる11〜1月の冬旅ガイド。天孫降臨神話が息づく国宝「霧島神宮」の新春初詣と朱塗りの本殿。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '南九州随一のパワースポットと天下の名湯に癒やされる11〜1月の冬旅ガイド。天孫降臨神話が息づく国宝「霧島神宮」の新春初詣と朱塗りの本殿。',
   keywords: '霧島神宮 初詣 国宝, 霧島温泉郷 旅館, 丸尾温泉 にごり湯, 霧島国際ホテル, 霧島ホテル 庭園大浴場, ラビスタ霧島ヒルズ, かごしま黒豚 しゃぶしゃぶ, 鹿児島 冬 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kagoshima-kirishima-jingu-hatsumode-onsen-kurobuta-stay/"
   },
   openGraph: {
     title: '11・12・1月鹿児島：国宝「霧島神宮」新春初詣と湯！名宿5選',
-    description: '南九州随一のパワースポットと天下の名湯に癒やされる11〜1月の冬旅ガイド。天孫降臨神話が息づく国宝「霧島神宮」の新春初詣と朱塗りの本殿。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '南九州随一のパワースポットと天下の名湯に癒やされる11〜1月の冬旅ガイド。天孫降臨神話が息づく国宝「霧島神宮」の新春初詣と朱塗りの本殿。',
     url: 'https://croud-travel.pages.dev/winter-kagoshima-kirishima-jingu-hatsumode-onsen-kurobuta-stay',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/18243/18243.jpg',
         width: 1200,
         height: 630,
         alt: '冬の鹿児島・国宝霧島神宮新春初詣と丸尾温泉郷の湯けむり'
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月鹿児島：国宝「霧島神宮」新春初詣と湯けむり立ち上る丸尾温泉！源泉露天＆極上黒豚名宿5選",
     description: "南九州随一のパワースポットと天下の名湯に癒やされる11〜1月の冬旅ガイド。天孫降臨神話が息づく国宝「霧島神宮」の新春初詣と朱塗りの本殿。標高600〜800mの山懐に湯けむりがもうもうと立ち上る「霧島温泉郷（丸尾温泉・硫黄谷温泉）」の乳白色の源泉掛け流し露天風呂。冬に甘みと旨味が最高潮に達する本場「かごしま黒豚」のしゃぶしゃぶや黒毛和牛、きびなご、本格芋焼酎。冬の霧島連山の雄大な景観を望む厳選名宿5選を詳しくご紹介します。",
-    images: ['https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&h=630&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/18243/18243.jpg']
   }
 };
 
@@ -43,7 +43,7 @@ export default function KagoshimaKirishimaWinterPage() {
         "@type": "Article",
         "headline": "【11・12・1月鹿児島】国宝「霧島神宮」新春初詣と湯けむり立ち上る丸尾温泉！源泉露天＆極上黒豚名宿5選",
         "description": "南九州随一のパワースポットと天下の名湯に癒やされる11〜1月の冬旅ガイド。天孫降臨神話が息づく国宝「霧島神宮」の新春初詣と朱塗りの本殿。標高600〜800mの山懐に湯けむりがもうもうと立ち上る「霧島温泉郷（丸尾温泉・硫黄谷温泉）」の乳白色の源泉掛け流し露天風呂。冬に甘みと旨味が最高潮に達する本場「かごしま黒豚」のしゃぶしゃぶや黒毛和牛、きびなご、本格芋焼酎。冬の霧島連山の雄大な景観を望む厳選名宿5選を詳しくご紹介します。",
-        "image": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&h=630&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/18243/18243.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {

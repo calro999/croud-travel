@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '和歌山・龍神温泉で過ごす冬の旅（11・12月）！名物紀州天然ぼたん鍋！名宿5選',
-  description: '11月から12月にかけて、紀伊半島の奥深き山懐・日高川の上流に位置する「龍神温泉」は、山々の晩秋の紅葉が散り落ち。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、紀伊半島の奥深き山懐・日高川の上流に位置する「龍神温泉」は、山々の晩秋の紅葉が散り落ち。',
   keywords: '龍神温泉 宿泊, 和歌山 温泉 11月 12月, 季楽里 龍神, 下御殿, 上御殿, 美人亭, 民宿旅館 ささゆり, 日本三美人の湯, ぼたん鍋, 熊野牛 会席, 日高川 渓谷露天',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-wakayama-ryujin-onsen-bihada-botannabe-stay/"
   },
   openGraph: {
     title: '和歌山・龍神温泉で過ごす冬の旅（11・12月）！名物紀州天然ぼたん鍋！名宿5選',
-    description: '11月から12月にかけて、紀伊半島の奥深き山懐・日高川の上流に位置する「龍神温泉」は、山々の晩秋の紅葉が散り落ち。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、紀伊半島の奥深き山懐・日高川の上流に位置する「龍神温泉」は、山々の晩秋の紅葉が散り落ち。',
     url: 'https://croud-travel.pages.dev/winter-wakayama-ryujin-onsen-bihada-botannabe-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/43782/43782.jpg',
         width: 1200,
         height: 630,
         alt: '初冬の日高川渓谷美と龍神温泉の日本三美人の湯'
@@ -69,7 +69,7 @@ export default function WakayamaRyujinWinterFeature() {
         },
         "headline": "【11・12月和歌山・龍神温泉の初冬渓谷美と日本三美人の湯】名物紀州天然ぼたん鍋＆最高峰熊野牛会席を味わう隠れ家宿5選",
         "description": "11月から12月にかけて、紀伊半島の奥深き山懐・日高川の上流に位置する「龍神温泉」は、山々の晩秋の紅葉が散り落ち、清流沿いに初冬の朝霧が立ち込める幽玄な渓谷美に包まれます。群馬の川中温泉、島根の湯の川温泉と並び「日本三美人の湯」と称されるトロトロの炭酸水素塩泉は、冬の冷えや乾燥で疲れた肌を驚くほど滑らかに潤す名湯。さらに11月15日の狩猟解禁とともに登場する本場紀州の「天然猪肉のぼたん鍋」や、霜降りがとろける「熊野牛」の贅沢会席を堪能できる厳選宿5選を詳しく解説します。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/43782/43782.jpg",
         "datePublished": "T11:00:00+09:00",
         "dateModified": "T11:00:00+09:00",
         "publisher": {
@@ -234,7 +234,7 @@ export default function WakayamaRyujinWinterFeature() {
       {/* Header Banner */}
       <header className="relative w-full h-[360px] sm:h-[480px] flex items-end justify-center bg-slate-900 text-white overflow-hidden">
         <Image
-          src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1600&q=80"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/43782/43782.jpg"
           alt="日高川の清流と初冬の龍神温泉渓谷美"
           fill
           priority

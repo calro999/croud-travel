@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '長崎・平戸温泉郷で過ごす冬の旅（11・12月）！特選平戸和牛会席！名宿5選',
-  description: '11月から12月にかけて、長崎県北西端に浮かぶ歴史と異国情緒の島・平戸温泉郷は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、長崎県北西端に浮かぶ歴史と異国情緒の島・平戸温泉郷の魅力とおすすめ宿泊施設を詳しくご紹介します。',
   keywords: '平戸温泉 宿泊, 旗松亭, 平戸海上ホテル, サムソンホテル, ホテル彩陽, ホテル蘭風, 天然クエ鍋, 寒ヒラメ 11月 12月, 平戸和牛, 平戸城',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagasaki-hirado-onsen-kue-hirame-hirado-beef-stay/"
   },
   openGraph: {
     title: '長崎・平戸温泉郷で過ごす冬の旅（11・12月）！特選平戸和牛会席！名宿5選',
-    description: '11月から12月にかけて、長崎県北西端に浮かぶ歴史と異国情緒の島・平戸温泉郷は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、長崎県北西端に浮かぶ歴史と異国情緒の島・平戸温泉郷の魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-nagasaki-hirado-onsen-kue-hirame-hirado-beef-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/37526/37526.jpg',
         width: 1200,
         height: 630,
         alt: '初冬の平戸城と平戸瀬戸の黒潮海景・天然クエ鍋と美肌温泉'

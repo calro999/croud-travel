@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '岐阜・長良川温泉で過ごす冬の旅（11・12月）！含鉄美肌の黄金赤湯と最高峰A！名宿5選',
-  description: '11月中旬から初冬の岐阜・長良川温泉は、夏の鵜飼の賑わいが去り、凛とした冬の澄んだ大気と歴史情緒が色濃く漂う大人の隠れ家へと姿を変えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月中旬から初冬の岐阜・長良川温泉は、夏の鵜飼の賑わいが去り、凛とした冬の澄んだ大気と歴史情緒が色濃く漂う大人の隠れ家へと姿を変えます。',
   keywords: '長良川温泉 宿泊, 岐阜 旅館, 十八楼, ホテルパーク, 岐阜城 ライトアップ, 金華山 温泉, 飛騨牛 すき焼き, 子持ち鮎 甘露煮, 含鉄泉 赤湯, 11月 12月 岐阜旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-gifu-nagaragawa-onsen-gihujo-hidagyu-ayu-stay/"
   },
   openGraph: {
     title: '岐阜・長良川温泉で過ごす冬の旅（11・12月）！含鉄美肌の黄金赤湯と最高峰A！名宿5選',
-    description: '11月中旬から初冬の岐阜・長良川温泉は、夏の鵜飼の賑わいが去り、凛とした冬の澄んだ大気と歴史情緒が色濃く漂う大人の隠れ家へと姿を変えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月中旬から初冬の岐阜・長良川温泉は、夏の鵜飼の賑わいが去り、凛とした冬の澄んだ大気と歴史情緒が色濃く漂う大人の隠れ家へと姿を変えます。',
     url: 'https://croud-travel.pages.dev/winter-gifu-nagaragawa-onsen-gihujo-hidagyu-ayu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/2979/2979.jpg',
         width: 1200,
         height: 630,
         alt: '初冬の長良川と金華山頂にそびえる岐阜城の絶景'
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "岐阜・長良川温泉で過ごす冬の旅（11・12月）！金華山と岐阜城の初冬静寂・含鉄美肌の黄金赤湯と最高峰A5飛騨牛すき焼き＆冬の子持ち鮎甘露煮を愛でる名宿5選",
     description: "11月中旬から初冬の岐阜・長良川温泉は、夏の鵜飼の賑わいが去り、凛とした冬の澄んだ大気と歴史情緒が色濃く漂う大人の隠れ家へと姿を変えます。金華山の山頂にそびえる名城「岐阜城」は、初冬の青空や夕茜を背景に孤高の美しさを放ち、川面には水鏡となってその雄姿を映し出します。長良川の河畔に湧く名湯は、鉄分を極めて豊富に含み、湧出直後は無色透明でありながら空気に触れることで鮮やかな赤褐色（黄金色）へと変化する奇跡の「含鉄泉（赤湯）」。塩分と鉄分が身体を芯からポカポカと温め、冷え性や疲労を優しく解きほぐします。そして冬の膳を彩るのは、きめ細やかなサシと芳醇な香りを誇る最高峰A5ランク「飛騨牛」のすき焼きや朴葉味噌焼き、秋から冬にかけて卵をたっぷりと抱えて旨味が最高潮に達する「冬の子持ち鮎」の炭火塩焼きやじっくり煮込んだ甘露煮。古い格子戸が連なる川原町のノスタルジックな散策とともに楽しむ厳選名宿5選を徹底解説します。",
-    images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/2979/2979.jpg']
   }
 };
 

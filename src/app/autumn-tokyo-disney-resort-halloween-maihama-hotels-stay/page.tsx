@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     type: 'article',
     locale: 'ja_JP',
     images: [{
-      url: 'https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&w=1200&q=80',
+      url: 'https://img.travel.rakuten.co.jp/share/HOTEL/179245/179245.jpg',
       width: 1200,
       height: 630,
       alt: '秋の東京ディズニーリゾート ハロウィーン装飾と舞浜の夜景'
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "秋の東京ディズニーリゾート・ハロウィーン：ディズニー・ハロウィーン＆ヴィランズの饗宴！仮装・限定パレード・秋のグルメ＆舞浜オフィシャル・パートナー厳選名宿5選",
     description: "秋の東京ディズニーリゾート（TDR）が熱狂と怪しい魅力に包まれる一大イベント「ディズニー・ハロウィーン」。東京ディズニーランドでは妖しくも魅惑的なヴィランズたちが主役となるパレード「ザ・ヴィランズ・ハロウィーン “Into the Frenzy”。」やハロウィーン限定スペシャルまん・チュロスが登場。東京ディズニーシーではアメリカンウォーターフロントの華やかなデコレーションやトリックオアトリート体験が満喫できます。全身仮装のルールや人気アトラクション「ホーンテッドマンション “ホリデーナイトメアー”。」の攻略法、そしてパークの余韻に浸りながらゆったり寛げる舞浜オフィシャルホテル＆新浦安パートナーホテル厳選5選を徹底特集。",
-    images: ['https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&w=1200&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/179245/179245.jpg']
   }
 };
 
@@ -39,7 +39,7 @@ export default function TdrHalloweenFeaturePage() {
     "@type": "Article",
     "headline": "【秋の東京ディズニーリゾート・ハロウィーン】ディズニー・ハロウィーン＆ヴィランズの饗宴！仮装・限定パレード・秋のグルメ＆舞浜オフィシャル・パートナー厳選名宿5選",
     "description": "秋の東京ディズニーリゾート（TDR）が熱狂と怪しい魅力に包まれる一大イベント「ディズニー・ハロウィーン」。東京ディズニーランドでは妖しくも魅惑的なヴィランズたちが主役となるパレード「ザ・ヴィランズ・ハロウィーン “Into the Frenzy”。」やハロウィーン限定スペシャルまん・チュロスが登場。東京ディズニーシーではアメリカンウォーターフロントの華やかなデコレーションやトリックオアトリート体験が満喫できます。全身仮装のルールや人気アトラクション「ホーンテッドマンション “ホリデーナイトメアー”。」の攻略法、そしてパークの余韻に浸りながらゆったり寛げる舞浜オフィシャルホテル＆新浦安パートナーホテル厳選5選を徹底特集。",
-    "image": "https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://img.travel.rakuten.co.jp/share/HOTEL/179245/179245.jpg",
     "datePublished": "T10:00:00+09:00",
     "dateModified": "T10:00:00+09:00",
     "author": {

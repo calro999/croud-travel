@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '福井で過ごす冬の旅（12・1月）！絶景温泉！名宿5選',
-  description: '冬の日本海の荒波が打ち寄せる断崖絶壁に清楚な水仙の花々が咲き乱れる12〜1月の福井・越前海岸。日本三大水仙群生地の絶景を巡る「越前水仙まつり。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '冬の日本海の荒波が打ち寄せる断崖絶壁に清楚な水仙の花々が咲き乱れる12〜1月の福井・越前海岸。日本三大水仙群生地の絶景を巡る「越前水仙まつり。',
   keywords: '越前水仙まつり, 越前がに 宿, 越前海岸 旅館, 越前岬 観光, 黄色タグ 越前蟹, 越前温泉 ホテル, せいこがに 福井, 劔神社 初詣, 12月 1月 福井 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukui-echizen-coast-suisen-crab-misaki-stay/"
   },
   openGraph: {
     title: '福井で過ごす冬の旅（12・1月）！絶景温泉！名宿5選',
-    description: '冬の日本海の荒波が打ち寄せる断崖絶壁に清楚な水仙の花々が咲き乱れる12〜1月の福井・越前海岸。日本三大水仙群生地の絶景を巡る「越前水仙まつり。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '冬の日本海の荒波が打ち寄せる断崖絶壁に清楚な水仙の花々が咲き乱れる12〜1月の福井・越前海岸。日本三大水仙群生地の絶景を巡る「越前水仙まつり。',
     url: 'https://croud-travel.pages.dev/winter-fukui-echizen-coast-suisen-crab-misaki-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',

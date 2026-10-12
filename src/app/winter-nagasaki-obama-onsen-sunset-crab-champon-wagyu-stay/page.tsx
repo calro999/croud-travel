@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '長崎・雲仙小浜温泉で過ごす冬の旅（11・12月）！橘湾の茜色落日と熱量日本一1！名宿5選',
-  description: '11月中旬から初冬の長崎・島原半島西岸に位置する小浜温泉（おばまおんせん）は、澄み切った冬空の下。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月中旬から初冬の長崎・島原半島西岸に位置する小浜温泉（おばまおんせん）は、澄み切った冬空の下。',
   keywords: '小浜温泉 宿泊, 雲仙 温泉 旅館, 伊勢屋 小浜, オレンジ・ベイ, ほっとふっと105, 橘湾 夕日 露天風呂, 冬ワタリガニ, 小浜ちゃんぽん, 雲仙あかね牛, 11月 12月 長崎旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagasaki-obama-onsen-sunset-crab-champon-wagyu-stay/"
   },
   openGraph: {
     title: '長崎・雲仙小浜温泉で過ごす冬の旅（11・12月）！橘湾の茜色落日と熱量日本一1！名宿5選',
-    description: '11月中旬から初冬の長崎・島原半島西岸に位置する小浜温泉（おばまおんせん）は、澄み切った冬空の下。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月中旬から初冬の長崎・島原半島西岸に位置する小浜温泉（おばまおんせん）は、澄み切った冬空の下。',
     url: 'https://croud-travel.pages.dev/winter-nagasaki-obama-onsen-sunset-crab-champon-wagyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/15973/15973.jpg',
         width: 1200,
         height: 630,
         alt: '初冬の長崎小浜温泉橘湾に沈む黄金の夕陽と湯煙'
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "長崎・雲仙小浜温泉で過ごす冬の旅（11・12月）！橘湾の茜色落日と熱量日本一105℃の源泉・初冬の味覚橘湾冬ワタリガニ＆名物小浜ちゃんぽん・極上雲仙あかね牛を堪能する名宿5選",
     description: "11月中旬から初冬の長崎・島原半島西岸に位置する小浜温泉（おばまおんせん）は、澄み切った冬空の下、橘湾を鮮やかな茜色に染め上げる壮大な落日パノラマに包まれます。地下から湧き出す源泉の温度は驚異の105度、湧出量×温度で算出される総熱量は日本一を誇り、高濃度の食塩泉が冷え切った身体の芯まで熱を浸透させ、湯上がり後も驚くほどポカポカ感が持続します。海沿いに延びる日本一長い105mの足湯「ほっとふっと105」では、立ち上る白煙とともに夕陽が水平線に沈むドラマチックな瞬間を特等席で体感。そして初冬の食卓を彩るのは、橘湾の豊かな潮流で育ち、濃厚な内子と上品な甘みを蓄えた「冬ワタリガニ（ガザミ）」、殻付き牡蠣や地魚の海鮮蒸し料理、さらに豚骨と魚介の旨味が凝縮したご当地グルメ「小浜ちゃんぽん」、赤身の旨味が濃厚な希少ブランド「雲仙あかね牛」のステーキ会席。夕陽と圧倒的熱量に癒やされる初冬の厳選名宿5選を徹底解説します。",
-    images: ['https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&h=630&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/15973/15973.jpg']
   }
 };
 

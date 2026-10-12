@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月筑波山：冬の筑波山神社新春初詣！名宿5選',
-  description: '「西の富士、東の筑波」と称される関東の名峰・筑波山。冬は空気が冴え渡り、山頂や中腹から東京スカイツリーや富士山。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '「西の富士、東の筑波」と称される関東の名峰・筑波山。冬は空気が冴え渡り、山頂や中腹から東京スカイツリーや富士山。',
   keywords: '筑波山 ホテル, 筑波山温泉 旅館, 筑波山神社 初詣, 筑波山 夜景, 筑波山江戸屋, 筑波山京成ホテル, 常陸牛, つくばうどん, 11月 12月 1月 筑波山 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-ibaraki-tsukubasan-shrine-hatsumode-yakei-onsen-hitachigyu-stay/"
   },
   openGraph: {
     title: '11・12・1月筑波山：冬の筑波山神社新春初詣！名宿5選',
-    description: '「西の富士、東の筑波」と称される関東の名峰・筑波山。冬は空気が冴え渡り、山頂や中腹から東京スカイツリーや富士山。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '「西の富士、東の筑波」と称される関東の名峰・筑波山。冬は空気が冴え渡り、山頂や中腹から東京スカイツリーや富士山。',
     url: 'https://croud-travel.pages.dev/winter-ibaraki-tsukubasan-shrine-hatsumode-yakei-onsen-hitachigyu-stay',
     type: 'article'
   }

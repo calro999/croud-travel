@@ -22,14 +22,14 @@ import {
 
 export const metadata: Metadata = {
   title: '御殿場・時之栖イルミネーション：ひかりのすみか550万球の光！名宿5選',
-  description: '静岡・御殿場の冬を彩る日本屈指の光の祭典「時之栖イルミネーション ひかりのすみか」完全ガイド。全長300mの光のトンネル。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '静岡・御殿場の冬を彩る日本屈指の光の祭典「時之栖イルミネーション ひかりのすみか」完全ガイド。全長300mの光のトンネル。',
   keywords: '御殿場, 時之栖, イルミネーション, ひかりのすみか, 御殿場高原ビール, 天然温泉 気楽坊, HOTEL CLAD, ドーミーインEXPRESS富士山御殿場, レンブラントプレミアム富士御殿場, 御殿場プレミアムアウトレット, 富士山 観光',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-shizuoka-gotemba-tokinosumika-illumination-fuji-onsen-stay',
   },
   openGraph: {
     title: '御殿場・時之栖イルミネーション：ひかりのすみか550万球の光！名宿5選',
-    description: '静岡・御殿場の冬を彩る日本屈指の光の祭典「時之栖イルミネーション ひかりのすみか」完全ガイド。全長300mの光のトンネル。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '静岡・御殿場の冬を彩る日本屈指の光の祭典「時之栖イルミネーション ひかりのすみか」完全ガイド。全長300mの光のトンネル。',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-gotemba-tokinosumika-illumination-fuji-onsen-stay',
     siteName: 'トラベルマップ - 日本の観光名所＆ホテル厳選ガイド',
     locale: 'ja_JP',

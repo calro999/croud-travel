@@ -9,17 +9,17 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月山口：白蛇神社新春初詣！名宿5選',
-  description: '冬の山口・岩国と周防大島は、水墨画のように美しい日本三名橋「錦帯橋」の雪化粧と、瀬戸内海の温暖な冬晴れが共存する魅力あふれる季節。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '冬の山口・岩国と周防大島は、水墨画のように美しい日本三名橋「錦帯橋」の雪化粧と、瀬戸内海の温暖な冬晴れが共存する魅力あふれる季節。',
   keywords: '岩国 ホテル, 錦帯橋 雪景色, 周防大島 みかん鍋, 白蛇神社 初詣, 岩国国際観光ホテル, 高森牛 すき焼き, 獺祭 岩国, 錦帯橋温泉, 11月 12月 1月 山口 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamaguchi-iwakuni-kintaikyo-suo-oshima-mikan-nabe-takamorigyu-stay/"
   },
   openGraph: {
     title: '11・12・1月山口：白蛇神社新春初詣！名宿5選',
-    description: '冬の山口・岩国と周防大島は、水墨画のように美しい日本三名橋「錦帯橋」の雪化粧と、瀬戸内海の温暖な冬晴れが共存する魅力あふれる季節。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '冬の山口・岩国と周防大島は、水墨画のように美しい日本三名橋「錦帯橋」の雪化粧と、瀬戸内海の温暖な冬晴れが共存する魅力あふれる季節。',
     url: 'https://croud-travel.pages.dev/winter-yamaguchi-iwakuni-kintaikyo-suo-oshima-mikan-nabe-takamorigyu-stay',
     type: 'article',
-    images: [{ url: 'https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=630', width: 1200, height: 630, alt: '錦帯橋の冬景色と錦帯橋温泉・高森牛会席' }]
+    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/11295/11295.jpg', width: 1200, height: 630, alt: '錦帯橋の冬景色と錦帯橋温泉・高森牛会席' }]
   },
   twitter: {
     card: 'summary_large_image',

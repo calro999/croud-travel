@@ -8,17 +8,17 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月埼玉：武州和牛と天然温泉に寛ぐ！名宿5選',
-  description: '冬の首都圏近郊で圧倒的な賑わいと幻想美を見せる埼玉・大宮＆さいたま新都心。2400年以上の歴史を誇る武蔵一宮「氷川神社」への新春200万人開。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '冬の首都圏近郊で圧倒的な賑わいと幻想美を見せる埼玉・大宮＆さいたま新都心。2400年以上の歴史を誇る武蔵一宮「氷川神社」への新春200万人開。',
   keywords: '大宮 ホテル, さいたま新都心 ホテル, 氷川神社 初詣 ホテル, けやきひろば イルミネーション, パレスホテル大宮, ホテルメトロポリタンさいたま新都心, スーパーホテルPremierさいたま大宮, 武州和牛, 11月 12月 1月 埼玉 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-saitama-omiya-hikawa-shrine-hatsumode-keyaki-stay/"
   },
   openGraph: {
     title: '11・12・1月埼玉：武州和牛と天然温泉に寛ぐ！名宿5選',
-    description: '冬の首都圏近郊で圧倒的な賑わいと幻想美を見せる埼玉・大宮＆さいたま新都心。2400年以上の歴史を誇る武蔵一宮「氷川神社」への新春200万人開。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '冬の首都圏近郊で圧倒的な賑わいと幻想美を見せる埼玉・大宮＆さいたま新都心。2400年以上の歴史を誇る武蔵一宮「氷川神社」への新春200万人開。',
     url: 'https://croud-travel.pages.dev/winter-saitama-omiya-hikawa-shrine-hatsumode-keyaki-stay',
     type: 'article',
-    images: [{ url: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80' }]
+    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/13564/13564.jpg' }]
   }
 };
 

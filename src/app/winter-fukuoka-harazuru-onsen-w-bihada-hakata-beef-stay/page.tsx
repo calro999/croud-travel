@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '福岡・原鶴温泉で過ごす冬の旅（11・12月）！博多和牛会席！名宿5選',
-  description: '11月から12月にかけて、福岡市内から高速で約60分、九州一の大河・筑後川のほとりに佇む「原鶴温泉（はらづるおんせん）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、福岡市内から高速で約60分、九州一の大河・筑後川のほとりに佇む「原鶴温泉（はらづるおんせん）」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
   keywords: '原鶴温泉 宿泊, 福岡 温泉 11月 12月, 原鶴温泉 泰泉閣, 延命館, ホテルパーレンス小野屋, 原鶴グランドスカイホテル, 六峰舘, 博多和牛 宿, W美肌の湯, 筑後川 絶景露天',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay/"
   },
   openGraph: {
     title: '福岡・原鶴温泉で過ごす冬の旅（11・12月）！博多和牛会席！名宿5選',
-    description: '11月から12月にかけて、福岡市内から高速で約60分、九州一の大河・筑後川のほとりに佇む「原鶴温泉（はらづるおんせん）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、福岡市内から高速で約60分、九州一の大河・筑後川のほとりに佇む「原鶴温泉（はらづるおんせん）」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/37876/37876.jpg',
         width: 1200,
         height: 630,
         alt: '初冬の筑後川と原鶴温泉の展望露天風呂からのパノラマ絶景'
@@ -69,7 +69,7 @@ export default function FukuokaHarazuruWinterFeature() {
         },
         "headline": "【11・12月福岡・原鶴温泉の筑後川冬情緒と奇跡のW美肌の湯】博多和牛会席＆掛け流し展望露天の湯巡り宿5選",
         "description": "11月から12月にかけて、福岡市内から高速で約60分、九州一の大河・筑後川のほとりに佇む「原鶴温泉（はらづるおんせん）」は、川面に初冬の朝霧が立ち込め、柿やすだちが実る筑後平野の豊かな風情に包まれます。原鶴温泉の最大の魅力は、角質を落とす「弱アルカリ性単純温泉」と、美白効果を高める「単純硫黄泉」という2つの美肌成分を併せ持つ全国的にも極めて希少な「W美肌の湯（ダブル美肌の湯）」。冬の冷えや乾燥で疲れた肌を驚くほど滑らかに潤す名湯と、福岡が誇る最高峰「博多和牛」のすき焼きや陶板焼き、朝倉の旬の冬野菜をふんだんに使った会席料理を堪能できる、厳選の名旅館・温泉ホテル5選を徹底解説します。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/37876/37876.jpg",
         "datePublished": "T10:00:00+09:00",
         "dateModified": "T10:00:00+09:00",
         "publisher": {
@@ -234,7 +234,7 @@ export default function FukuokaHarazuruWinterFeature() {
       {/* Header Banner */}
       <header className="relative w-full h-[360px] sm:h-[480px] flex items-end justify-center bg-slate-900 text-white overflow-hidden">
         <Image
-          src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/37876/37876.jpg"
           alt="筑後川の雄大な流れと初冬の原鶴温泉街"
           fill
           priority

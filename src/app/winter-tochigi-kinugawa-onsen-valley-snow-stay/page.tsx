@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     locale: 'ja_JP',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/28440/28440.jpg',
         width: 1200,
         height: 630,
         alt: "【11・12月鬼怒川温泉の初冬渓谷美と名湯】雪化粧の奇岩とアルカリ性美肌泉・とちぎ和牛＆日光生ゆば会席の宿5選",
@@ -66,7 +66,7 @@ export default function KinugawaWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-tochigi-kinugawa-onsen-valley-snow-stay#article",
         "headline": "【11・12月鬼怒川温泉の初冬渓谷美と名湯】雪化粧の奇岩とアルカリ性美肌泉・とちぎ和牛＆日光生ゆば会席の宿5選",
         "description": "江戸時代は日光詣での大名や僧侶のみに許された関東屈指の名湯・鬼怒川温泉。11月中旬の晩秋の残り香から12月の初雪へと移ろう初冬、清流と奇岩が織りなす鬼怒川渓谷の絶景を望む露天風呂と、肉汁溢れるA5とちぎ和牛や伝統の日光生ゆば懐石を心ゆくまで堪能する名宿ガイド。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/28440/28440.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {
@@ -247,7 +247,7 @@ export default function KinugawaWinterPage() {
       {/* Hero Header */}
       <header className="relative h-[520px] md:h-[620px] flex items-center justify-center text-white overflow-hidden bg-stone-950">
         <Image
-          src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1600&q=85"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/28440/28440.jpg"
           alt="鬼怒川温泉の初冬渓谷美・雪化粧した奇岩と清流を望む絶景露天風呂"
           fill
           priority

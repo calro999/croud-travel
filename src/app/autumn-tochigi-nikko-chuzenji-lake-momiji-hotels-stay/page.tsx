@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     locale: 'ja_JP',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/28759/28759.jpg',
         width: 1200,
         height: 630,
         alt: "日光中禅寺湖の紅葉",
@@ -119,7 +119,7 @@ export default function FeaturePage() {
       <header className="relative bg-stone-900 text-white py-16 md:py-24 overflow-hidden">
         <div className="absolute inset-0 opacity-40 mix-blend-overlay">
           <Image 
-            src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80" 
+            src="https://img.travel.rakuten.co.jp/share/HOTEL/28759/28759.jpg" 
             alt="日光中禅寺湖の紅葉"
             fill
             priority

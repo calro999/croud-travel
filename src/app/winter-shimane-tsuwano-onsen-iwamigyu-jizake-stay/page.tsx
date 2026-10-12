@@ -9,21 +9,21 @@ import {
 
 export const metadata: Metadata = {
   title: '山陰で過ごす冬の旅（11・12月）！山陰の小京都！名宿5選',
-  description: '11月から12月の初冬、石州瓦の赤茶色の屋根と白い漆喰壁が美しいコントラストを描く島根県津和野町は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月の初冬、石州瓦の赤茶色の屋根と白い漆喰壁が美しいコントラストを描く島根県津和野町の魅力とおすすめ宿泊施設を詳しくご紹介します。',
   keywords: '津和野 宿泊, 津和野温泉, 石見牛 宿, 津和野 冬の旅, ゆとりろ津和野, 若槻 津和野, マスコスホテル, 荒磯館, 11月 12月 島根観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shimane-tsuwano-onsen-iwamigyu-jizake-stay/"
   },
   openGraph: {
     title: '山陰で過ごす冬の旅（11・12月）！山陰の小京都！名宿5選',
-    description: '11月から12月の初冬、石州瓦の赤茶色の屋根と白い漆喰壁が美しいコントラストを描く島根県津和野町は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月の初冬、石州瓦の赤茶色の屋根と白い漆喰壁が美しいコントラストを描く島根県津和野町の魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-shimane-tsuwano-onsen-iwamigyu-jizake-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/184494/184494.jpg',
         width: 1200,
         height: 630,
         alt: '山陰の小京都津和野の町並みと冬景色'
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "山陰で過ごす冬の旅（11・12月）！山陰の小京都・津和野の冬情緒と冬の新酒蔵開き・幻の石見牛＆津和野温泉の静謐な湯浴みを堪能する名宿5選",
     description: "11月から12月の初冬、石州瓦の赤茶色の屋根と白い漆喰壁が美しいコントラストを描く島根県津和野町は、山陰の小京都と呼ばれるにふさわしい静寂と深い歴史情趣に包まれます。殿町通りの掘割をゆったりと泳ぐ色鮮やかな錦鯉、津和野城跡から見下ろす早朝の幻想的な「朝霧雲海」、千本鳥居が山肌を朱色に染め上げる太鼓谷稲成神社など、初冬の津和野はどこを切り取っても風情ある絵画のよう。名水百選に恵まれた津和野では、11月下旬から冬の新酒仕込みと蔵開きが始まり、搾りたての芳醇な地酒の香りが町を包みます。美食の主役は、年間わずかしか出荷されない幻のブランド黒毛和牛「石見牛（いわみぎゅう）」のステーキや陶板焼き、そしてご飯の下に旬の野菜を隠した伝統郷土料理「うずめ飯」。津和野唯一の天然温泉や益田の日本海を望む荒磯温泉など、大人の初冬旅情を満喫する厳選5宿をご案内します。",
-    images: ['https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=1200&h=630&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/184494/184494.jpg']
   }
 };
 

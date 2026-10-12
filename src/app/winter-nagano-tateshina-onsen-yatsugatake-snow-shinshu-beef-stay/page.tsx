@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '蓼科温泉郷で過ごす冬の旅（11・12月）！極上信州蓼科牛ステーキ！名宿5選',
-  description: '11月から12月にかけて、長野県・八ヶ岳連峰の裾野に広がる蓼科高原・蓼科温泉郷は、静寂な白樺林やカラマツ林が初雪に彩られ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、長野県・八ヶ岳連峰の裾野に広がる蓼科高原・蓼科温泉郷は、静寂な白樺林やカラマツ林が初雪に彩られ。',
   keywords: '蓼科温泉 宿泊, 蓼科 親湯温泉, 蓼科グランドホテル滝の湯, 蓼科東急ホテル, リゾートホテル蓼科, 信州蓼科牛, 御射鹿池 11月 12月, 八ヶ岳 雪見露天風呂, 武田信玄 隠し湯',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagano-tateshina-onsen-yatsugatake-snow-shinshu-beef-stay/"
   },
   openGraph: {
     title: '蓼科温泉郷で過ごす冬の旅（11・12月）！極上信州蓼科牛ステーキ！名宿5選',
-    description: '11月から12月にかけて、長野県・八ヶ岳連峰の裾野に広がる蓼科高原・蓼科温泉郷は、静寂な白樺林やカラマツ林が初雪に彩られ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、長野県・八ヶ岳連峰の裾野に広がる蓼科高原・蓼科温泉郷は、静寂な白樺林やカラマツ林が初雪に彩られ。',
     url: 'https://croud-travel.pages.dev/winter-nagano-tateshina-onsen-yatsugatake-snow-shinshu-beef-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/2938/2938.jpg',
         width: 1200,
         height: 630,
         alt: '初冬の蓼科温泉郷と八ヶ岳雪景色・渓流露天風呂'
@@ -69,7 +69,7 @@ export default function NaganoTateshinaWinterFeature() {
         },
         "headline": "【11・12月長野・蓼科温泉郷の初冬八ヶ岳雪景色と信玄の隠し湯】極上信州蓼科牛ステーキ＆信州サーモン・新蕎麦会席を愉しむ高原名宿5選",
         "description": "11月から12月にかけて、長野県・八ヶ岳連峰の裾野に広がる蓼科高原・蓼科温泉郷は、静寂な白樺林やカラマツ林が初雪に彩られ、蓼科湖や御射鹿池（みしゃかいけ）が氷雪の神秘的な冬景色へと移ろう息を呑むような初冬を迎えます。戦国武将・武田信玄公が川中島の戦いで傷ついた兵士を癒やしたと伝わる「信玄の隠し湯」は、美肌効果と疲労回復に優れた名湯。夕食にはジューシーで上品な甘みの「信州蓼科牛」ステーキ、清流が育む「信州サーモン」、収穫したての香り高い信州新蕎麦を味わう厳選高原名宿5選を徹底解説します。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/2938/2938.jpg",
         "datePublished": "T13:00:00+09:00",
         "dateModified": "T13:00:00+09:00",
         "publisher": {
@@ -234,7 +234,7 @@ export default function NaganoTateshinaWinterFeature() {
       {/* Header Banner */}
       <header className="relative w-full h-[360px] sm:h-[480px] flex items-end justify-center bg-slate-900 text-white overflow-hidden">
         <Image
-          src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1600&q=80"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/2938/2938.jpg"
           alt="初冬の八ヶ岳連峰と白樺林・蓼科温泉の雪見露天風呂"
           fill
           priority

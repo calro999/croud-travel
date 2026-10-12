@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '南知多温泉郷で過ごす冬の旅（11・12月）！天然とらふぐフルコース！名宿5選',
-  description: '11月から12月にかけて愛知県・知多半島の最南端に位置する南知多温泉郷（内海・山海・師崎）は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて愛知県・知多半島の最南端に位置する南知多温泉郷（内海・山海・師崎）の魅力とおすすめ宿泊施設を詳しくご紹介します。',
   keywords: '南知多温泉 宿泊, 南知多 とらふぐ 宿, 南知多 11月 12月 温泉, 源氏香, 花乃丸, 粛海風, THE BEACH KUROTAKE, 山海館, 知多牛 ステーキ 宿, 日間賀島 たこ, 伊勢湾 夕日 露天風呂',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay/"
   },
   openGraph: {
     title: '南知多温泉郷で過ごす冬の旅（11・12月）！天然とらふぐフルコース！名宿5選',
-    description: '11月から12月にかけて愛知県・知多半島の最南端に位置する南知多温泉郷（内海・山海・師崎）は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて愛知県・知多半島の最南端に位置する南知多温泉郷（内海・山海・師崎）の魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/28124/28124.jpg',
         width: 1200,
         height: 630,
         alt: '冬の南知多温泉郷と伊勢湾夕日絶景露天風呂'
@@ -69,7 +69,7 @@ export default function MinamichitaOnsenWinterFeature() {
         },
         "headline": "【11・12月南知多温泉郷の伊勢湾パノラマ夕日露天と本場とらふぐ】天然とらふぐフルコース・知多牛ステーキ＆日間賀島たこ会席の海辺宿5選",
         "description": "11月から12月にかけて愛知県・知多半島の最南端に位置する南知多温泉郷（内海・山海・師崎）は、全国屈指の天然とらふぐ水揚げ高を誇る日間賀島・篠島・師崎港から、冬の味覚の王様「とらふぐ」が届く最高潮シーズンを迎えます。伊勢湾の水平線に沈む黄金色の夕日と満天の星を望む展望露天風呂、地下1,300mから湧き出る濃厚な塩化物強塩泉（熱の湯）、薄造りの透き通るてっさ、旨味あふれるてっちり（ふぐ鍋）、香ばしいふぐ唐揚げやひれ酒、愛知の誇る銘柄黒毛和牛「知多牛」のヒレ・サーロインステーキ、名物タコ料理を堪能する海辺の名宿5選を徹底解説。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/28124/28124.jpg",
         "datePublished": "T04:00:00+09:00",
         "dateModified": "T04:00:00+09:00",
         "publisher": {
@@ -268,7 +268,7 @@ export default function MinamichitaOnsenWinterFeature() {
       {/* Header Banner */}
       <header className="relative w-full h-[360px] sm:h-[480px] flex items-end justify-center bg-slate-900 text-white overflow-hidden">
         <Image
-          src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1600&q=80"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/28124/28124.jpg"
           alt="冬の南知多温泉郷と伊勢湾夕日絶景露天風呂"
           fill
           priority

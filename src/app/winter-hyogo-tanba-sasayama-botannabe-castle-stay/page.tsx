@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月兵庫：冬本番！名宿5選',
-  description: '11月15日の狩猟解禁とともに冬本番を迎える兵庫県・丹波篠山。丹波の深い山々で木の実を食べて育った天然猪肉は、冬の寒さとともに上質な白脂を蓄え。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月15日の狩猟解禁とともに冬本番を迎える兵庫県・丹波篠山。丹波の深い山々で木の実を食べて育った天然猪肉は、冬の寒さとともに上質な白脂を蓄え。',
   keywords: '丹波篠山 ぼたん鍋, ぼたん鍋 発祥 宿, 篠山城下町 ホテル, 丹波篠山 冬 旅行, 篠山城下町ホテル NIPPONIA, 丹波篠山 近又, 豆家, 丹波篠山牛, 11月 12月 1月 兵庫 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hyogo-tanba-sasayama-botannabe-castle-stay/"
   },
   openGraph: {
     title: '11・12・1月兵庫：冬本番！名宿5選',
-    description: '11月15日の狩猟解禁とともに冬本番を迎える兵庫県・丹波篠山。丹波の深い山々で木の実を食べて育った天然猪肉は、冬の寒さとともに上質な白脂を蓄え。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月15日の狩猟解禁とともに冬本番を迎える兵庫県・丹波篠山。丹波の深い山々で木の実を食べて育った天然猪肉は、冬の寒さとともに上質な白脂を蓄え。',
     url: 'https://croud-travel.pages.dev/winter-hyogo-tanba-sasayama-botannabe-castle-stay',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/149449/149449.jpg', width: 1200, height: 630, alt: '丹波篠山ぼたん鍋と城下町名宿' }]

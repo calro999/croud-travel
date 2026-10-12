@@ -8,19 +8,19 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月徳島：冬が旬の「天然伊勢海老！名宿5選',
-  description: '冬の黒潮が育む南阿波の絶景と豊かな冬の恵みを巡る11〜1月の徳島南部・美波町＆海陽町特集。四国霊場第23番札所として名高い厄除け大師「薬王寺。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '冬の黒潮が育む南阿波の絶景と豊かな冬の恵みを巡る11〜1月の徳島南部・美波町＆海陽町特集。四国霊場第23番札所として名高い厄除け大師「薬王寺。',
   keywords: '薬王寺 初詣, 徳島 厄除け 温泉, 美波町 観光, 南阿波 伊勢海老 宿, 海陽町 宍喰温泉, 徳島 冬 旅行, 日和佐 大浜海岸, アオリイカ 徳島, 阿波尾鶏 宿',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tokushima-minamiawa-yakuouji-hatsumode-iseebi-stay/"
   },
   openGraph: {
     title: '11・12・1月徳島：冬が旬の「天然伊勢海老！名宿5選',
-    description: '冬の黒潮が育む南阿波の絶景と豊かな冬の恵みを巡る11〜1月の徳島南部・美波町＆海陽町特集。四国霊場第23番札所として名高い厄除け大師「薬王寺。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '冬の黒潮が育む南阿波の絶景と豊かな冬の恵みを巡る11〜1月の徳島南部・美波町＆海陽町特集。四国霊場第23番札所として名高い厄除け大師「薬王寺。',
     url: 'https://croud-travel.pages.dev/winter-tokushima-minamiawa-yakuouji-hatsumode-iseebi-stay',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/8721/8721.jpg',
         width: 1200,
         height: 630,
         alt: '冬の徳島・南阿波太平洋絶景と薬王寺初詣'
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月徳島：美波＆牟岐・海陽町！四国霊場第23番札所・厄除け大師「薬王寺」初詣＆冬が旬の「天然伊勢海老・アオリイカ・阿波尾鶏」と太平洋絶景温泉宿5選",
     description: "冬の黒潮が育む南阿波の絶景と豊かな冬の恵みを巡る11〜1月の徳島南部・美波町＆海陽町特集。四国霊場第23番札所として名高い厄除け大師「薬王寺」での初詣や、冬の澄み渡る太平洋を望む日和佐大浜海岸・日和佐城。冬に甘みと身詰まりが最高潮を迎える「天然伊勢海老」やアオリイカ、名地鶏「阿波尾鶏」の贅沢会席。そして太平洋の水平線を望む美肌温泉に癒やされる厳選名宿5選を完全ガイドします。",
-    images: ['https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&h=630&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/8721/8721.jpg']
   }
 };
 
@@ -43,7 +43,7 @@ export default function TokushimaMinamiawaWinterPage() {
         "@type": "Article",
         "headline": "【11・12・1月徳島】美波＆牟岐・海陽町！四国霊場第23番札所・厄除け大師「薬王寺」初詣＆冬が旬の「天然伊勢海老・アオリイカ・阿波尾鶏」と太平洋絶景温泉宿5選",
         "description": "冬の黒潮が育む南阿波の絶景と豊かな冬の恵みを巡る11〜1月の徳島南部・美波町＆海陽町特集。四国霊場第23番札所として名高い厄除け大師「薬王寺」での初詣や、冬の澄み渡る太平洋を望む日和佐大浜海岸・日和佐城。冬に甘みと身詰まりが最高潮を迎える「天然伊勢海老」やアオリイカ、名地鶏「阿波尾鶏」の贅沢会席。そして太平洋の水平線を望む美肌温泉に癒やされる厳選名宿5選を完全ガイドします。",
-        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&h=630&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/8721/8721.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {

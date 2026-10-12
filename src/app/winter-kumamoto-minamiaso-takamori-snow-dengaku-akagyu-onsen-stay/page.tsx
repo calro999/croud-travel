@@ -8,19 +8,19 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月熊本：極上あか牛！名宿5選',
-  description: '世界最大級の阿蘇カルデラが白銀に染まる11〜1月の冬旅完全ガイド。澄み渡る冬空にそびえる阿蘇五岳（根子岳・高岳）の雄大な雪景色パノラマと。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '世界最大級の阿蘇カルデラが白銀に染まる11〜1月の冬旅完全ガイド。澄み渡る冬空にそびえる阿蘇五岳（根子岳・高岳）の雄大な雪景色パノラマと。',
   keywords: '南阿蘇 温泉 旅館, 高森田楽 囲炉裏, 阿蘇あか牛 ステーキ, 南阿蘇ルナ天文台, 竹楽亭 露天風呂, 休暇村南阿蘇, 亀の井ホテル阿蘇, 阿蘇五岳 雪景色, 熊本 冬 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kumamoto-minamiaso-takamori-snow-dengaku-akagyu-onsen-stay/"
   },
   openGraph: {
     title: '11・12・1月熊本：極上あか牛！名宿5選',
-    description: '世界最大級の阿蘇カルデラが白銀に染まる11〜1月の冬旅完全ガイド。澄み渡る冬空にそびえる阿蘇五岳（根子岳・高岳）の雄大な雪景色パノラマと。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '世界最大級の阿蘇カルデラが白銀に染まる11〜1月の冬旅完全ガイド。澄み渡る冬空にそびえる阿蘇五岳（根子岳・高岳）の雄大な雪景色パノラマと。',
     url: 'https://croud-travel.pages.dev/winter-kumamoto-minamiaso-takamori-snow-dengaku-akagyu-onsen-stay',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/18413/18413.jpg',
         width: 1200,
         height: 630,
         alt: '冬の熊本・白銀の阿蘇五岳パノラマと南阿蘇温泉郷の露天風呂'
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月熊本：白銀の阿蘇五岳パノラマと冬の伝統「高森田楽」！美肌の南阿蘇温泉郷＆極上あか牛名宿5選",
     description: "世界最大級の阿蘇カルデラが白銀に染まる11〜1月の冬旅完全ガイド。澄み渡る冬空にそびえる阿蘇五岳（根子岳・高岳）の雄大な雪景色パノラマと、南阿蘇鉄道トロッコ列車や白川水源の静寂。囲炉裏を囲んで炭火でじっくり焼き上げる冬の郷土料理「高森田楽」の香ばしい味噌とやまめ、そして肉の旨味が凝縮した「阿蘇あか牛」のステーキ・すき焼き。絶景雪見露天と美肌温泉、満天の冬の星空を満喫できる南阿蘇・高森の厳選名宿5選を詳しくご紹介します。",
-    images: ['https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&h=630&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/18413/18413.jpg']
   }
 };
 
@@ -43,7 +43,7 @@ export default function KumamotoMinamiasoWinterPage() {
         "@type": "Article",
         "headline": "【11・12・1月熊本】白銀の阿蘇五岳パノラマと冬の伝統「高森田楽」！美肌の南阿蘇温泉郷＆極上あか牛名宿5選",
         "description": "世界最大級の阿蘇カルデラが白銀に染まる11〜1月の冬旅完全ガイド。澄み渡る冬空にそびえる阿蘇五岳（根子岳・高岳）の雄大な雪景色パノラマと、南阿蘇鉄道トロッコ列車や白川水源の静寂。囲炉裏を囲んで炭火でじっくり焼き上げる冬の郷土料理「高森田楽」の香ばしい味噌とやまめ、そして肉の旨味が凝縮した「阿蘇あか牛」のステーキ・すき焼き。絶景雪見露天と美肌温泉、満天の冬の星空を満喫できる南阿蘇・高森の厳選名宿5選を詳しくご紹介します。",
-        "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&h=630&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/18413/18413.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {

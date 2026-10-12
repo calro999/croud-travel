@@ -9,17 +9,17 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月福岡：門司港レトロ浪漫灯彩イルミネーション！名宿5選',
-  description: '冬の北九州・門司港は、大正ロマン薫る赤煉瓦洋館群が約30万球の光に包まれる「門司港レトロ浪漫灯彩」で幻想的な輝きを放ちます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '冬の北九州・門司港は、大正ロマン薫る赤煉瓦洋館群が約30万球の光に包まれる「門司港レトロ浪漫灯彩」で幻想的な輝きを放ちます。',
   keywords: '門司港 ホテル, 門司港レトロ イルミネーション, 豊前海一粒牡蠣, 門司港 焼きカレー, プレミアホテル門司港, リーガロイヤルホテル小倉, 小倉牛, 関門海峡 夜景, 11月 12月 1月 福岡 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukuoka-mojiko-retro-illumination-buzen-oyster-kokuragyu-stay/"
   },
   openGraph: {
     title: '11・12・1月福岡：門司港レトロ浪漫灯彩イルミネーション！名宿5選',
-    description: '冬の北九州・門司港は、大正ロマン薫る赤煉瓦洋館群が約30万球の光に包まれる「門司港レトロ浪漫灯彩」で幻想的な輝きを放ちます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '冬の北九州・門司港は、大正ロマン薫る赤煉瓦洋館群が約30万球の光に包まれる「門司港レトロ浪漫灯彩」で幻想的な輝きを放ちます。',
     url: 'https://croud-travel.pages.dev/winter-fukuoka-mojiko-retro-illumination-buzen-oyster-kokuragyu-stay',
     type: 'article',
-    images: [{ url: 'https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=630', width: 1200, height: 630, alt: '門司港レトロ浪漫灯彩と関門海峡の冬夜景' }]
+    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/3164/3164.jpg', width: 1200, height: 630, alt: '門司港レトロ浪漫灯彩と関門海峡の冬夜景' }]
   },
   twitter: {
     card: 'summary_large_image',

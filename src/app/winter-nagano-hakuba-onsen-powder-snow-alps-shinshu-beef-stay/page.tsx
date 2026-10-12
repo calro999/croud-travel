@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '白馬山麓温泉で過ごす冬の旅（11・12月）！白銀連峰望む露天！名宿5選',
-  description: '11月下旬から12月にかけて北アルプスの名峰・白馬連峰が純白の雪を纏い、世界中からスキーヤーや旅人が集う国際山岳リゾート・長野県「白馬村」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月下旬から12月にかけて北アルプスの名峰・白馬連峰が純白の雪を纏い、世界中からスキーヤーや旅人が集う国際山岳リゾート・長野県「白馬村」。',
   keywords: '白馬温泉 宿泊, 白馬 11月 12月, 白馬八方温泉, 白馬東急ホテル, 白馬ハイランドホテル, コートヤード白馬, 白馬樅の木ホテル, シェラリゾート白馬, 信州プレミアム牛, 信州サーモン, 北アルプス 雪見露天, 長野 温泉 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay/",
   },
   openGraph: {
     title: '白馬山麓温泉で過ごす冬の旅（11・12月）！白銀連峰望む露天！名宿5選',
-    description: '11月下旬から12月にかけて北アルプスの名峰・白馬連峰が純白の雪を纏い、世界中からスキーヤーや旅人が集う国際山岳リゾート・長野県「白馬村」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月下旬から12月にかけて北アルプスの名峰・白馬連峰が純白の雪を纏い、世界中からスキーヤーや旅人が集う国際山岳リゾート・長野県「白馬村」。',
     url: 'https://croud-travel.pages.dev/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/1173/1173.jpg',
         width: 1200,
         height: 630,
         alt: "【11・12月白馬山麓温泉の初雪パウダースノーと北アルプス絶景】白銀連峰望む露天・pH11高アルカリ美肌湯と極上信州牛＆信州サーモン会席の宿5選",
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "白馬山麓温泉の初雪パウダースノーと北アルプス絶景で過ごす冬の旅（11・12月）！白銀連峰望む露天・pH11高アルカリ美肌湯と極上信州牛＆信州サーモン会席の宿5選",
     description: "11月下旬から12月にかけて北アルプスの名峰・白馬連峰が純白の雪を纏い、世界中からスキーヤーや旅人が集う国際山岳リゾート・長野県「白馬村」。日本屈指の水素イオン濃度pH11.2以上を誇る強アルカリ性美肌名湯「白馬八方温泉」や、3,000m級の白銀パノラマを仰ぐ絶景露天風呂、暖炉の火が揺らぐヨーロッパ調のクラシックホテル、厳しい寒さを越えて旨味を凝縮させた極上「信州プレミアム牛」ステーキや清流「信州サーモン」会席を堪能する名宿5選を徹底解説。",
-    images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80'],
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/1173/1173.jpg'],
   }
 };
 
@@ -71,7 +71,7 @@ export default function HakubaOnsenWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay#article",
         "headline": "【11・12月白馬山麓温泉の初雪パウダースノーと北アルプス絶景】白銀連峰望む露天・pH11高アルカリ美肌湯と極上信州牛＆信州サーモン会席の宿5選",
         "description": "11月下旬から12月にかけて北アルプスの名峰・白馬連峰が純白の雪を纏い、世界中からスキーヤーや旅人が集う国際山岳リゾート・長野県「白馬村」。日本屈指の水素イオン濃度pH11.2以上を誇る強アルカリ性美肌名湯「白馬八方温泉」や、3,000m級の白銀パノラマを仰ぐ絶景露天風呂、暖炉の火が揺らぐヨーロッパ調のクラシックホテル、厳しい寒さを越えて旨味を凝縮させた極上「信州プレミアム牛」ステーキや清流「信州サーモン」会席を堪能する名宿5選を徹底解説。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/1173/1173.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {
@@ -286,7 +286,7 @@ export default function HakubaOnsenWinterPage() {
       {/* Hero Header */}
       <header className="relative h-[520px] md:h-[620px] flex items-center justify-center text-white overflow-hidden bg-slate-950">
         <Image
-          src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1600&q=85"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/1173/1173.jpg"
           alt="純白の雪を纏った北アルプス白馬連峰と静寂のブナ原生林に佇む山岳リゾート"
           fill
           priority

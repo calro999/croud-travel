@@ -8,17 +8,17 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月茨城：笠間稲荷神社新春開運初詣！名宿5選',
-  description: '冬の茨城・水戸＆笠間は、日本三大稲荷「笠間稲荷神社」の新春初詣と、日本三名園「偕楽園」で咲き誇る気品高き早咲き冬梅を巡る歴史と開運の旅舞台。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '冬の茨城・水戸＆笠間は、日本三大稲荷「笠間稲荷神社」の新春初詣と、日本三名園「偕楽園」で咲き誇る気品高き早咲き冬梅を巡る歴史と開運の旅舞台。',
   keywords: '水戸 ホテル, 笠間稲荷神社 初詣, 水戸 偕楽園 冬梅, あんこう鍋 水戸, 常陸牛 すき焼き, 笠間焼, 水戸プラザホテル, 11月 12月 1月 茨城 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-ibaraki-mito-kasama-inari-hatsumode-ankou-hitachigyu-stay/"
   },
   openGraph: {
     title: '11・12・1月茨城：笠間稲荷神社新春開運初詣！名宿5選',
-    description: '冬の茨城・水戸＆笠間は、日本三大稲荷「笠間稲荷神社」の新春初詣と、日本三名園「偕楽園」で咲き誇る気品高き早咲き冬梅を巡る歴史と開運の旅舞台。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '冬の茨城・水戸＆笠間は、日本三大稲荷「笠間稲荷神社」の新春初詣と、日本三名園「偕楽園」で咲き誇る気品高き早咲き冬梅を巡る歴史と開運の旅舞台。',
     url: 'https://croud-travel.pages.dev/winter-ibaraki-mito-kasama-inari-hatsumode-ankou-hitachigyu-stay',
     type: 'article',
-    images: [{ url: 'https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=630', width: 1200, height: 630, alt: '笠間稲荷神社と水戸偕楽園冬梅' }]
+    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/5754/5754.jpg', width: 1200, height: 630, alt: '笠間稲荷神社と水戸偕楽園冬梅' }]
   },
   twitter: {
     card: 'summary_large_image',

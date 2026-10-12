@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     locale: 'ja_JP',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/108587/108587.jpg',
         width: 1200,
         height: 630,
         alt: "【上州牛すき焼き＆下仁田ねぎ】群馬名物とろける極上すき焼き会席！草津・伊香保・四万の名湯宿5選",
@@ -41,7 +41,7 @@ export default function FeaturePage() {
     "@type": "Article",
     "headline": "【上州牛すき焼き＆下仁田ねぎ】群馬名物とろける極上すき焼き会席！草津・伊香保・四万の名湯宿5選",
     "description": "きめ細やかなサシの上州牛と、熱を通すと甘くとろける下仁田ねぎの黄金コンビ！名湯・草津温泉や伊香保、四万温泉で、職人特製の割り下で味わう至高のすき焼き会席と美肌の湯を堪能する極上ステイ。",
-    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://img.travel.rakuten.co.jp/share/HOTEL/108587/108587.jpg",
     "datePublished": "T00:00:00+09:00",
     "dateModified": "T00:00:00+09:00",
     "author": {
@@ -124,7 +124,7 @@ export default function FeaturePage() {
         <div className="absolute inset-0 bg-stone-900/40 z-10" />
         <div 
           className="absolute inset-0 bg-cover bg-center transform scale-105 transition-transform duration-1000"
-          style={{ backgroundImage: "url('https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1600&q=80')" }}
+          style={{ backgroundImage: "url('https://img.travel.rakuten.co.jp/share/HOTEL/108587/108587.jpg')" }}
         />
         
         <div className="relative z-20 max-w-4xl mx-auto px-4 text-center">

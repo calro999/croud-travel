@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '山口・下関と川棚温泉で過ごす冬の旅（11・12月）！関門海峡！名宿5選',
-  description: '11月から12月にかけて、本州最西端に位置する山口県下関市および響灘沿いの名湯「川棚温泉（かわたなおんせん）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、本州最西端に位置する山口県下関市および響灘沿いの名湯「川棚温泉（かわたなおんせん）」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
   keywords: '下関 温泉 宿泊, 川棚温泉, 下関 とらふぐ 宿, 川棚グランドホテル, 下関温泉 風の海, 割烹旅館 寿美礼, 関門の宿 源平荘, ホテル西長門リゾート, 瓦そば, 関門海峡 絶景 宿',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamaguchi-shimonoseki-kawatana-onsen-torafugu-kawarasoba-stay/"
   },
   openGraph: {
     title: '山口・下関と川棚温泉で過ごす冬の旅（11・12月）！関門海峡！名宿5選',
-    description: '11月から12月にかけて、本州最西端に位置する山口県下関市および響灘沿いの名湯「川棚温泉（かわたなおんせん）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、本州最西端に位置する山口県下関市および響灘沿いの名湯「川棚温泉（かわたなおんせん）」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-yamaguchi-shimonoseki-kawatana-onsen-torafugu-kawarasoba-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/13539/13539.jpg',
         width: 1200,
         height: 630,
         alt: '初冬の関門海峡と下関温泉の夕暮れ絶景'
@@ -69,7 +69,7 @@ export default function YamaguchiShimonosekiWinterFeature() {
         },
         "headline": "【11・12月山口・下関と川棚温泉の本場とらふぐ解禁美食と元祖瓦そば】関門海峡・響灘夕景＆開湯八百年ラジウム美肌泉の宿5選",
         "description": "11月から12月にかけて、本州最西端に位置する山口県下関市および響灘沿いの名湯「川棚温泉（かわたなおんせん）」は、冬の味覚の最高峰「本場とらふぐ（下関ふく）」が最も身を引き締め、濃厚な旨味を蓄える年間最高のハイシーズンを迎えます。日本屈指のふぐ水揚げを誇る南風泊港から届く極上の天然・厳選とらふぐは、職人技が光る繊細な菊盛りの「てっさ」、身がぷりぷりの「てっちり」、香ばしい「ひれ酒」で五感を満たします。さらに熱々の日本瓦で茶そばを焼き上げる名物「元祖瓦そば」、毛利侯の隠れ湯として愛された開湯800年の名湯ラジウム泉。関門海峡と響灘の絶景夕日に癒やされる、初冬の下関・川棚の厳選名旅館・ホテル5選を徹底解説。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/13539/13539.jpg",
         "datePublished": "T09:00:00+09:00",
         "dateModified": "T09:00:00+09:00",
         "publisher": {
@@ -234,7 +234,7 @@ export default function YamaguchiShimonosekiWinterFeature() {
       {/* Header Banner */}
       <header className="relative w-full h-[360px] sm:h-[480px] flex items-end justify-center bg-slate-900 text-white overflow-hidden">
         <Image
-          src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/13539/13539.jpg"
           alt="関門海峡の夕景と初冬の海"
           fill
           priority

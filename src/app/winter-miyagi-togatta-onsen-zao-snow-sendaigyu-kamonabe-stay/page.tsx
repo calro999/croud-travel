@@ -9,21 +9,21 @@ import {
 
 export const metadata: Metadata = {
   title: '遠刈田温泉で過ごす冬の旅（11・12月）！初冠雪の蔵王連峰を望む開湯400年の名湯！名宿5選',
-  description: '11月中旬から12月の初冬を迎えた宮城蔵王の山麓、遠刈田温泉（とおがったおんせん）は、刈田岳や御釜周辺が白銀の初冠雪をまとい。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月中旬から12月の初冬を迎えた宮城蔵王の山麓、遠刈田温泉（とおがったおんせん）は、刈田岳や御釜周辺が白銀の初冠雪をまとい。',
   keywords: '遠刈田温泉 宿泊, 宮城蔵王 温泉, 蔵王鴨せり鍋 旅館, A5仙台牛 ステーキ, 遠刈田こけし 観光, 蔵王 連峰 初冠雪, 硫酸塩泉 美肌湯, 11月 12月 宮城旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-miyagi-togatta-onsen-zao-snow-sendaigyu-kamonabe-stay/"
   },
   openGraph: {
     title: '遠刈田温泉で過ごす冬の旅（11・12月）！初冠雪の蔵王連峰を望む開湯400年の名湯！名宿5選',
-    description: '11月中旬から12月の初冬を迎えた宮城蔵王の山麓、遠刈田温泉（とおがったおんせん）は、刈田岳や御釜周辺が白銀の初冠雪をまとい。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月中旬から12月の初冬を迎えた宮城蔵王の山麓、遠刈田温泉（とおがったおんせん）は、刈田岳や御釜周辺が白銀の初冠雪をまとい。',
     url: 'https://croud-travel.pages.dev/winter-miyagi-togatta-onsen-zao-snow-sendaigyu-kamonabe-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/4742/4742.jpg',
         width: 1200,
         height: 630,
         alt: '初冠雪の蔵王連峰を望む遠刈田温泉の初冬風景'
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "遠刈田温泉で過ごす冬の旅（11・12月）！初冠雪の蔵王連峰を望む開湯400年の名湯・最高級A5仙台牛ステーキ＆極上蔵王鴨せり鍋・遠刈田こけしの里を巡る名宿5選",
     description: "11月中旬から12月の初冬を迎えた宮城蔵王の山麓、遠刈田温泉（とおがったおんせん）は、刈田岳や御釜周辺が白銀の初冠雪をまとい、澄み渡る冷気の中に情緒ある茶褐色の湯煙が立ちのぼる格別の季節を迎えます。開湯から400年以上の歴史を誇る名湯は、豊富な鉄分やメタケイ酸、カルシウムを含んだ硫酸塩・塩化物泉。熱めの湯船に身を沈めれば、冷えた体の芯からじんわりと温まり、湯上がりもポカポカとした保温効果が長く続きます。夕食の膳を彩るのは、初冬に最も脂が乗りコクを増す「蔵王鴨」と名取産根付きせりを合わせた名物「蔵王鴨せり鍋」、見事な霜降りと芳醇な香りを誇る「最高級A5ランク仙台牛」の石焼きステーキや陶板焼き、そして蔵王山麓の新鮮なミルクから生まれる濃厚なフレッシュチーズ。遠刈田こけし発祥の地としての伝統が息づく温泉街散策や、澄んだ冬空に輝く満天の星を望む展望露天風呂など、初冬の宮城蔵王の贅を心ゆくまで堪能できる厳選宿5選を詳しく紹介します。",
-    images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/4742/4742.jpg']
   }
 };
 

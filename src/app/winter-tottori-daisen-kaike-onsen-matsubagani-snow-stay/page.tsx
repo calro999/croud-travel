@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月鳥取：冬旬の松葉ガニ！名宿5選',
-  description: '中国地方最高峰・伯耆大山が白銀に輝く11〜1月。ブナの原生林を巡るスノーシューや大神山神社奥宮への雪の初詣。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '中国地方最高峰・伯耆大山が白銀に輝く11〜1月。ブナの原生林を巡るスノーシューや大神山神社奥宮への雪の初詣。',
   keywords: '伯耆大山 冬 観光, 皆生温泉 ホテル, 皆生温泉 旅館, 松葉ガニ 皆生温泉, 大神山神社 初詣, 大山 スノーシュー, 皆生游月, 華水亭, 鳥取和牛 オレイン55, 12月 1月 鳥取 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tottori-daisen-kaike-onsen-matsubagani-snow-stay/"
   },
   openGraph: {
     title: '11・12・1月鳥取：冬旬の松葉ガニ！名宿5選',
-    description: '中国地方最高峰・伯耆大山が白銀に輝く11〜1月。ブナの原生林を巡るスノーシューや大神山神社奥宮への雪の初詣。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '中国地方最高峰・伯耆大山が白銀に輝く11〜1月。ブナの原生林を巡るスノーシューや大神山神社奥宮への雪の初詣。',
     url: 'https://croud-travel.pages.dev/winter-tottori-daisen-kaike-onsen-matsubagani-snow-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',

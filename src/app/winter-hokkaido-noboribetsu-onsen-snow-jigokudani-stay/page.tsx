@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '登別温泉で過ごす冬の旅（11・12月）！圧倒的湯量と9つの泉質！名宿5選',
-  description: '11月下旬の初雪から12月の白銀世界へと移ろう北海道・登別温泉。荒涼とした岩肌からもうもうと白煙を上げる雪化粧の地獄谷。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月下旬の初雪から12月の白銀世界へと移ろう北海道・登別温泉。荒涼とした岩肌からもうもうと白煙を上げる雪化粧の地獄谷。',
   keywords: '登別温泉 宿泊 11月 12月, 登別 地獄谷 雪景色, 登別温泉 第一滝本館, 登別 毛ガニ 白老牛, 登別温泉 おすすめ 宿, 登別 泉質 露天風呂, 北海道 冬 温泉 モデルコース',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay/",
   },
   openGraph: {
     title: '登別温泉で過ごす冬の旅（11・12月）！圧倒的湯量と9つの泉質！名宿5選',
-    description: '11月下旬の初雪から12月の白銀世界へと移ろう北海道・登別温泉。荒涼とした岩肌からもうもうと白煙を上げる雪化粧の地獄谷。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月下旬の初雪から12月の白銀世界へと移ろう北海道・登別温泉。荒涼とした岩肌からもうもうと白煙を上げる雪化粧の地獄谷。',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/30109/30109.jpg',
         width: 1200,
         height: 630,
         alt: "【11・12月登別温泉の白銀地獄谷と極上名湯】圧倒的湯量と9つの泉質・冬の北海道毛ガニ＆白老牛を堪能する名宿5選",
@@ -47,7 +47,7 @@ export default function NoboribetsuWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay#article",
         "headline": "【11・12月登別温泉の白銀地獄谷と極上名湯】圧倒的湯量と9つの泉質・冬の北海道毛ガニ＆白老牛を堪能する名宿5選",
         "description": "11月下旬の初雪から12月の白銀世界へと移ろう北海道・登別温泉。荒涼とした岩肌からもうもうと白煙を上げる雪化粧の地獄谷、世界でも稀な9種類もの多彩な泉質を誇る名湯巡り。冬に身がぎっしり詰まる北海道産毛ガニと地元胆振の最高峰ブランド白老牛ステーキに舌鼓を打つ冬の極上北国旅ガイド。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/30109/30109.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {
@@ -254,7 +254,7 @@ export default function NoboribetsuWinterPage() {
       {/* Hero Header */}
       <header className="relative h-[520px] md:h-[620px] flex items-center justify-center text-white overflow-hidden bg-stone-950">
         <Image
-          src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1600&q=85"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/30109/30109.jpg"
           alt="冬の登別温泉・白銀の雪化粧に包まれた地獄谷と立ち上る白煙の湯けむり"
           fill
           priority

@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     locale: 'ja_JP',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/67258/67258.jpg',
         width: 1200,
         height: 630,
         alt: "【極上馬刺し＆あか牛炭火焼き】火の国熊本の豪快肉グルメと黒川温泉・阿蘇の秘湯宿5選",
@@ -41,7 +41,7 @@ export default function FeaturePage() {
     "@type": "Article",
     "headline": "【極上馬刺し＆あか牛炭火焼き】火の国熊本の豪快肉グルメと黒川温泉・阿蘇の秘湯宿5選",
     "description": "とろける霜降り「熊本特選馬刺し」と、ヘルシーで赤身の旨味が凝縮した「阿蘇あか牛」！全国屈指の人気温泉地・黒川温泉の風情ある露天風呂めぐり（入湯手形）と、阿蘇の大自然に抱かれる至高の美食宿を厳選。",
-    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://img.travel.rakuten.co.jp/share/HOTEL/67258/67258.jpg",
     "datePublished": "T00:00:00+09:00",
     "dateModified": "T00:00:00+09:00",
     "author": {
@@ -124,7 +124,7 @@ export default function FeaturePage() {
         <div className="absolute inset-0 bg-stone-900/40 z-10" />
         <div 
           className="absolute inset-0 bg-cover bg-center transform scale-105 transition-transform duration-1000"
-          style={{ backgroundImage: "url('https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1600&q=80')" }}
+          style={{ backgroundImage: "url('https://img.travel.rakuten.co.jp/share/HOTEL/67258/67258.jpg')" }}
         />
         
         <div className="relative z-20 max-w-4xl mx-auto px-4 text-center">

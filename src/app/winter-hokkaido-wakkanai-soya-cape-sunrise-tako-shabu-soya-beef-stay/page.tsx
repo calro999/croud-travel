@@ -7,19 +7,19 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月北海道：日本最北端「宗谷岬」冬の初日！名宿5選',
-  description: '北緯45度31分、日本最北端の地・稚内と宗谷岬で迎える11〜1月の冬紀行。白銀のオホーツク海から昇る日本最北端の元旦初日の出と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '北緯45度31分、日本最北端の地・稚内と宗谷岬で迎える11〜1月の冬紀行。白銀のオホーツク海から昇る日本最北端の元旦初日の出と。',
   keywords: '宗谷岬 初日の出, 稚内 冬旅行, 稚内港北防波堤ドーム, タコしゃぶ 稚内, 宗谷黒牛, ドーミーイン稚内, サフィールホテル稚内, 稚内グランドホテル, 日本最北端の地の碑, 利尻富士 冬',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-hokkaido-wakkanai-soya-cape-sunrise-tako-shabu-soya-beef-stay'
   },
   openGraph: {
     title: '11・12・1月北海道：日本最北端「宗谷岬」冬の初日！名宿5選',
-    description: '北緯45度31分、日本最北端の地・稚内と宗谷岬で迎える11〜1月の冬紀行。白銀のオホーツク海から昇る日本最北端の元旦初日の出と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '北緯45度31分、日本最北端の地・稚内と宗谷岬で迎える11〜1月の冬紀行。白銀のオホーツク海から昇る日本最北端の元旦初日の出と。',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-wakkanai-soya-cape-sunrise-tako-shabu-soya-beef-stay',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1517824806704-9040b037703b?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/67473/67473.jpg',
         width: 1200,
         height: 630,
         alt: '冬の白銀に染まる宗谷岬の日本最北端の地の碑とオホーツク海の水平線'
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月北海道：日本最北端「宗谷岬」冬の初日の出と氷門の詩情！極上「宗谷黒牛」＆名物タコしゃぶ・稚内天然温泉名宿5選",
     description: "北緯45度31分、日本最北端の地・稚内と宗谷岬で迎える11〜1月の冬紀行。白銀のオホーツク海から昇る日本最北端の元旦初日の出と、古代ローマ建築の風格を漂わせる北海道遺産「稚内港北防波堤ドーム」。冬の澄んだ大気の先に浮かぶ秀峰・利尻富士の雄姿。水揚げ日本一を誇るミズダコの極上「元祖タコしゃぶ」と、厳寒の宗谷丘陵で育まれる希少黒毛和牛「宗谷黒牛」の鉄板焼き。最果ての厳しい寒さを忘れさせる自家源泉の天然温泉と、心温まるホスピタリティが宿る厳選名宿5選を徹底特集。",
-    images: ['https://images.unsplash.com/photo-1517824806704-9040b037703b?auto=format&fit=crop&w=1200&h=630&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/67473/67473.jpg']
   }
 };
 
@@ -42,7 +42,7 @@ export default function HokkaidoWakkanaiWinterPage() {
     "@type": "Article",
     "headline": "【11・12・1月北海道】日本最北端「宗谷岬」冬の初日の出と氷門の詩情！極上「宗谷黒牛」＆名物タコしゃぶ・稚内天然温泉名宿5選",
     "description": "北緯45度31分、日本最北端の地・稚内と宗谷岬で迎える11〜1月の冬紀行。白銀のオホーツク海から昇る日本最北端の元旦初日の出と、古代ローマ建築の風格を漂わせる北海道遺産「稚内港北防波堤ドーム」。冬の澄んだ大気の先に浮かぶ秀峰・利尻富士の雄姿。水揚げ日本一を誇るミズダコの極上「元祖タコしゃぶ」と、厳寒の宗谷丘陵で育まれる希少黒毛和牛「宗谷黒牛」の鉄板焼き。最果ての厳しい寒さを忘れさせる自家源泉の天然温泉と、心温まるホスピタリティが宿る厳選名宿5選を徹底特集。",
-    "image": "https://images.unsplash.com/photo-1517824806704-9040b037703b?auto=format&fit=crop&w=1200&h=630&q=80",
+    "image": "https://img.travel.rakuten.co.jp/share/HOTEL/67473/67473.jpg",
     "datePublished": "T00:00:00+09:00",
     "dateModified": "T00:00:00+09:00",
     "author": {

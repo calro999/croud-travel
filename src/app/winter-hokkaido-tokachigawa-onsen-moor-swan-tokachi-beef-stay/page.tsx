@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '北海道・十勝川温泉で過ごす冬の旅（11・12月）！極上十勝牛ステーキ！名宿5選',
-  description: '11月から12月にかけて、広大な十勝平野に位置する十勝川温泉は、シベリアから優雅なオオハクチョウが越冬のために飛来し。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、広大な十勝平野に位置する十勝川温泉は、シベリアから優雅なオオハクチョウが越冬のために飛来し。',
   keywords: '十勝川温泉 宿泊, 十勝川温泉 ホテル, モール温泉 北海道, 十勝牛 ステーキ, 十勝川 白鳥 飛来 11月 12月, 十勝川温泉 第一ホテル, 観月苑, 三余庵, ホテル大平原, 笹井ホテル',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hokkaido-tokachigawa-onsen-moor-swan-tokachi-beef-stay/"
   },
   openGraph: {
     title: '北海道・十勝川温泉で過ごす冬の旅（11・12月）！極上十勝牛ステーキ！名宿5選',
-    description: '11月から12月にかけて、広大な十勝平野に位置する十勝川温泉は、シベリアから優雅なオオハクチョウが越冬のために飛来し。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、広大な十勝平野に位置する十勝川温泉は、シベリアから優雅なオオハクチョウが越冬のために飛来し。',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-tokachigawa-onsen-moor-swan-tokachi-beef-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/5818/5818.jpg',
         width: 1200,
         height: 630,
         alt: '初冬の十勝川温泉と白鳥飛来・モール温泉の絶景'
@@ -69,7 +69,7 @@ export default function HokkaidoTokachigawaWinterFeature() {
         },
         "headline": "【11・12月北海道・十勝川温泉の初冬白鳥飛来と美肌遺産モール温泉】極上十勝牛ステーキ＆十勝野チーズ会席を愉しむ名宿5選",
         "description": "11月から12月にかけて、広大な十勝平野に位置する十勝川温泉は、シベリアから優雅なオオハクチョウが越冬のために飛来し、澄み渡る「十勝晴れ」の青空と雪化粧した日高山脈が織りなす息を呑むような初冬の絶景を迎えます。世界でも極めて希少な太古の植物堆積層から湧く「植物性モール温泉」は、北海道遺産にも選定された天然の美肌化粧水。湯上がりに肌が驚くほどすべすべになり、体の芯までポカポカに温まります。夕食にはジューシーな十勝牛・十勝和牛のステーキ、濃厚な十勝野ラクレットチーズ、越冬野菜を贅沢に味わう厳選名宿5選を徹底解説します。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/5818/5818.jpg",
         "datePublished": "T12:00:00+09:00",
         "dateModified": "T12:00:00+09:00",
         "publisher": {
@@ -234,7 +234,7 @@ export default function HokkaidoTokachigawaWinterFeature() {
       {/* Header Banner */}
       <header className="relative w-full h-[360px] sm:h-[480px] flex items-end justify-center bg-slate-900 text-white overflow-hidden">
         <Image
-          src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1600&q=80"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/5818/5818.jpg"
           alt="十勝川の初冬絶景と白鳥飛来・モール温泉"
           fill
           priority

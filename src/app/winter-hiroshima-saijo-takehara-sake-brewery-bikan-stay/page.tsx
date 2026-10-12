@@ -8,19 +8,19 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月広島：西条酒蔵通りの冬新酒仕込み！名宿5選',
-  description: '灘・伏見と並び称される日本三大銘醸地「西条酒蔵通り」が最も熱気を帯びる11〜1月の冬旅特集。赤レンガ煙突と白壁なまこ壁が連なる路地に立ち上る。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '灘・伏見と並び称される日本三大銘醸地「西条酒蔵通り」が最も熱気を帯びる11〜1月の冬旅特集。赤レンガ煙突と白壁なまこ壁が連なる路地に立ち上る。',
   keywords: '西条 酒蔵通り 冬, 美酒鍋 西条, 竹原 町並み保存地区, 峠下牛, 東広島 ホテル, グリーンスカイホテル竹原, モーリス 西条, 新酒仕込み 広島, 安芸の小京都',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hiroshima-saijo-takehara-sake-brewery-bikan-stay/"
   },
   openGraph: {
     title: '11・12・1月広島：西条酒蔵通りの冬新酒仕込み！名宿5選',
-    description: '灘・伏見と並び称される日本三大銘醸地「西条酒蔵通り」が最も熱気を帯びる11〜1月の冬旅特集。赤レンガ煙突と白壁なまこ壁が連なる路地に立ち上る。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '灘・伏見と並び称される日本三大銘醸地「西条酒蔵通り」が最も熱気を帯びる11〜1月の冬旅特集。赤レンガ煙突と白壁なまこ壁が連なる路地に立ち上る。',
     url: 'https://croud-travel.pages.dev/winter-hiroshima-saijo-takehara-sake-brewery-bikan-stay',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1578632767115-351597cf2477?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/144995/144995.jpg',
         width: 1200,
         height: 630,
         alt: '冬の広島・西条酒蔵通りと竹原町並み保存地区の風情'
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月広島：西条酒蔵通りの冬新酒仕込み＆名物「美酒鍋」！安芸の小京都・竹原町並み保存地区と厳選名宿5選",
     description: "灘・伏見と並び称される日本三大銘醸地「西条酒蔵通り」が最も熱気を帯びる11〜1月の冬旅特集。赤レンガ煙突と白壁なまこ壁が連なる路地に立ち上る新酒の吟醸香、蔵人の知恵から生まれた日本酒鍋「美酒鍋（びしゅなべ）」、安芸の小京都・竹原町並み保存地区の静寂と普明閣からの冬景色、竹原のブランド和牛「峠下牛」や瀬戸内の冬真鯛。東広島西条・竹原の滞在拠点に最適な厳選ホテル・名宿5選を徹底解説します。",
-    images: ['https://images.unsplash.com/photo-1578632767115-351597cf2477?auto=format&fit=crop&w=1200&h=630&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/144995/144995.jpg']
   }
 };
 
@@ -43,7 +43,7 @@ export default function HiroshimaSaijoTakeharaWinterPage() {
         "@type": "Article",
         "headline": "【11・12・1月広島】西条酒蔵通りの冬新酒仕込み＆名物「美酒鍋」！安芸の小京都・竹原町並み保存地区と厳選名宿5選",
         "description": "灘・伏見と並び称される日本三大銘醸地「西条酒蔵通り」が最も熱気を帯びる11〜1月の冬旅特集。赤レンガ煙突と白壁なまこ壁が連なる路地に立ち上る新酒の吟醸香、蔵人の知恵から生まれた日本酒鍋「美酒鍋（びしゅなべ）」、安芸の小京都・竹原町並み保存地区の静寂と普明閣からの冬景色、竹原のブランド和牛「峠下牛」や瀬戸内の冬真鯛。東広島西条・竹原の滞在拠点に最適な厳選ホテル・名宿5選を徹底解説します。",
-        "image": "https://images.unsplash.com/photo-1578632767115-351597cf2477?auto=format&fit=crop&w=1200&h=630&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/144995/144995.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {

@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '男鹿温泉郷で過ごす冬の旅（11・12月）！日本海荒波雪見露天！名宿5選',
-  description: '11月から12月にかけて日本海に突き出た秋田県・男鹿半島は、初冬の雷鳴とともに大群で沿岸に押し寄せる秋田の県魚「ハタハタ（雷魚）」の漁獲シー。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて日本海に突き出た秋田県・男鹿半島は、初冬の雷鳴とともに大群で沿岸に押し寄せる秋田の県魚「ハタハタ（雷魚）」の漁獲シー。',
   keywords: '男鹿温泉 宿泊, 男鹿温泉郷 11月 12月, 別邸つばき 男鹿, 元湯雄山閣, セイコーグランドホテル 男鹿, 男鹿観光ホテル, 男鹿ホテル, ハタハタ 温泉 宿, 石焼き鍋 男鹿, なまはげ 宿泊',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-akita-oga-onsen-ishiyaki-namahage-snow-stay/"
   },
   openGraph: {
     title: '男鹿温泉郷で過ごす冬の旅（11・12月）！日本海荒波雪見露天！名宿5選',
-    description: '11月から12月にかけて日本海に突き出た秋田県・男鹿半島は、初冬の雷鳴とともに大群で沿岸に押し寄せる秋田の県魚「ハタハタ（雷魚）」の漁獲シー。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて日本海に突き出た秋田県・男鹿半島は、初冬の雷鳴とともに大群で沿岸に押し寄せる秋田の県魚「ハタハタ（雷魚）」の漁獲シー。',
     url: 'https://croud-travel.pages.dev/winter-akita-oga-onsen-ishiyaki-namahage-snow-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/20504/20504.jpg',
         width: 1200,
         height: 630,
         alt: '冬の男鹿半島と日本海の荒波雪景色'
@@ -69,7 +69,7 @@ export default function OgaOnsenWinterFeature() {
         },
         "headline": "【11・12月秋田・男鹿温泉郷の初冬名物ハタハタと豪快石焼き鍋】なまはげ伝承の里・日本海荒波雪見露天＆海水の温まり湯の宿5選",
         "description": "11月から12月にかけて日本海に突き出た秋田県・男鹿半島は、初冬の雷鳴とともに大群で沿岸に押し寄せる秋田の県魚「ハタハタ（雷魚）」の漁獲シーズンを迎え、半島全体が冬の到来の歓喜に包まれます。千度近くまで真っ赤に熱した地元の溶岩石（男鹿石）を木樽の出汁に一気に投入して瞬間沸騰させる男鹿の伝統漁師料理「名物・石焼き鍋」は、魚の旨味を閉じ込めた大迫力の郷土グルメ。さらに大晦日の伝統行事「なまはげ」の神秘的な文化に触れ、海水に近い高濃度の塩分を含み湯冷め知らずの「男鹿温泉（塩化物泉）」の雪見露天風呂に浸かる、初冬の男鹿半島厳選宿5選を徹底解説。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/20504/20504.jpg",
         "datePublished": "T07:00:00+09:00",
         "dateModified": "T07:00:00+09:00",
         "publisher": {
@@ -268,7 +268,7 @@ export default function OgaOnsenWinterFeature() {
       {/* Header Banner */}
       <header className="relative w-full h-[360px] sm:h-[480px] flex items-end justify-center bg-slate-900 text-white overflow-hidden">
         <Image
-          src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1600&q=80"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/20504/20504.jpg"
           alt="冬の男鹿半島と日本海の雪景色"
           fill
           priority

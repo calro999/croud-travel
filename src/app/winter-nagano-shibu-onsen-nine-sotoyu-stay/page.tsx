@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '渋温泉で過ごす冬の旅（11・12月）！木造建築が彩る冬のノスタルジー！名宿5選',
-  description: '開湯1300年、下駄の音がカランコロンと響く長野県・信州渋温泉。11月の晩秋の冷気から12月の雪舞う石畳の温泉街へ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '開湯1300年、下駄の音がカランコロンと響く長野県・信州渋温泉。11月の晩秋の冷気から12月の雪舞う石畳の温泉街へ。',
   keywords: '渋温泉 宿泊 11月 12月, 渋温泉 九湯めぐり, 歴史の宿 金具屋 予約, 渋温泉 外湯めぐり 鍵, 信州プレミアム牛 旅館, 地獄谷野猿公苑 スノーモンキー 渋温泉, 渋温泉 冬 雪景色',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagano-shibu-onsen-nine-sotoyu-stay/",
   },
   openGraph: {
     title: '渋温泉で過ごす冬の旅（11・12月）！木造建築が彩る冬のノスタルジー！名宿5選',
-    description: '開湯1300年、下駄の音がカランコロンと響く長野県・信州渋温泉。11月の晩秋の冷気から12月の雪舞う石畳の温泉街へ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '開湯1300年、下駄の音がカランコロンと響く長野県・信州渋温泉。11月の晩秋の冷気から12月の雪舞う石畳の温泉街へ。',
     url: 'https://croud-travel.pages.dev/winter-nagano-shibu-onsen-nine-sotoyu-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/32044/32044.jpg',
         width: 1200,
         height: 630,
         alt: "【11・12月渋温泉の厄除巡浴九湯めぐりと石畳情緒】木造建築が彩る冬のノスタルジー・信州プレミアム牛と地酒の宿5選",
@@ -47,7 +47,7 @@ export default function ShibuWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-nagano-shibu-onsen-nine-sotoyu-stay#article",
         "headline": "【11・12月渋温泉の厄除巡浴九湯めぐりと石畳情緒】木造建築が彩る冬のノスタルジー・信州プレミアム牛と地酒の宿5選",
         "description": "開湯1300年、下駄の音がカランコロンと響く長野県・信州渋温泉。11月の晩秋の冷気から12月の雪舞う石畳の温泉街へ。宿泊者限定のマスターキーで巡る名物「厄除巡浴九湯めぐり」、登録有形文化財の木造建築・歴史の宿金具屋を照らす灯り、そして極上の信州プレミアム牛肉と地酒を味わう冬の風情あふれる名宿ガイド。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/32044/32044.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {
@@ -254,7 +254,7 @@ export default function ShibuWinterPage() {
       {/* Hero Header */}
       <header className="relative h-[520px] md:h-[620px] flex items-center justify-center text-white overflow-hidden bg-stone-950">
         <Image
-          src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1600&q=85"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/32044/32044.jpg"
           alt="初冬の信州渋温泉・ライトアップされた歴史の宿金具屋と石畳に舞い散る初雪"
           fill
           priority

@@ -9,19 +9,19 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月沖縄：冬の石垣島！名宿5選',
-  description: '11月から1月、本州の真冬の寒さを逃れて平均気温20度前後の穏やかな暖かさに包まれる八重山諸島の玄関口・石垣島。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から1月、本州の真冬の寒さを逃れて平均気温20度前後の穏やかな暖かさに包まれる八重山諸島の玄関口・石垣島。',
   keywords: '石垣島 冬 旅行, 石垣島 南十字星, 川平湾 グラスボート, ANAインターコンチネンタル石垣リゾート, フサキビーチリゾート, グランヴィリオリゾート石垣島, アートホテル石垣島, 石垣シーサイドホテル, 石垣牛 焼肉, アーサ汁, 星空保護区, 11月 12月 1月 沖縄旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-okinawa-ishigaki-kabilabay-starrysky-beef-resort-stay/"
   },
   openGraph: {
     title: '11・12・1月沖縄：冬の石垣島！名宿5選',
-    description: '11月から1月、本州の真冬の寒さを逃れて平均気温20度前後の穏やかな暖かさに包まれる八重山諸島の玄関口・石垣島。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から1月、本州の真冬の寒さを逃れて平均気温20度前後の穏やかな暖かさに包まれる八重山諸島の玄関口・石垣島。',
     url: 'https://croud-travel.pages.dev/winter-okinawa-ishigaki-kabilabay-starrysky-beef-resort-stay',
     siteName: 'クラドトラベル',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/1973/1973.jpg',
         width: 1200,
         height: 630,
         alt: '冬の沖縄石垣島川平湾のエメラルドブルーと南国リゾート'
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月沖縄：冬の石垣島・星空保護区の南十字星と川平湾エメラルドブルー・極上石垣牛焼肉＆旬の冬アーサを堪能する南国リゾート名宿5選",
     description: "11月から1月、本州の真冬の寒さを逃れて平均気温20度前後の穏やかな暖かさに包まれる八重山諸島の玄関口・石垣島。日本初の「星空保護区」に認定された西表石垣国立公園の夜空には、12月から日本国内で唯一「南十字星」が南の水平線上に輝き始め、ミシュラン三ツ星の名勝「川平湾」は冬の澄み渡る陽光を受けて息をのむエメラルドブルーの輝きを放ちます。冬に旬を迎える採れたて新海苔「アーサ（アオサ）」の磯の香り豊かな郷土料理や、最高峰ブランド黒毛和牛「石垣牛」の炭火焼肉。南国の心地よい島風と極上のホスピタリティに癒やされる厳選リゾート名宿5選と冬のモデルコースを詳しくお届けします。",
-    images: ['https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/1973/1973.jpg']
   }
 };
 
@@ -44,7 +44,7 @@ export default function OkinawaIshigakiKabilabayWinterPage() {
     '@type': 'Article',
     headline: "11・12・1月沖縄：冬の石垣島・星空保護区の南十字星と川平湾エメラルドブルー・極上石垣牛焼肉＆旬の冬アーサを堪能する南国リゾート名宿5選",
     description: "11月から1月、本州の真冬の寒さを逃れて平均気温20度前後の穏やかな暖かさに包まれる八重山諸島の玄関口・石垣島。日本初の「星空保護区」に認定された西表石垣国立公園の夜空には、12月から日本国内で唯一「南十字星」が南の水平線上に輝き始め、ミシュラン三ツ星の名勝「川平湾」は冬の澄み渡る陽光を受けて息をのむエメラルドブルーの輝きを放ちます。冬に旬を迎える採れたて新海苔「アーサ（アオサ）」の磯の香り豊かな郷土料理や、最高峰ブランド黒毛和牛「石垣牛」の炭火焼肉。南国の心地よい島風と極上のホスピタリティに癒やされる厳選リゾート名宿5選と冬のモデルコースを詳しくお届けします。",
-    image: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://img.travel.rakuten.co.jp/share/HOTEL/1973/1973.jpg',
     datePublished: '',
     dateModified: '',
     author: {
@@ -270,7 +270,7 @@ export default function OkinawaIshigakiKabilabayWinterPage() {
       <header className="relative bg-slate-950 text-white overflow-hidden py-16 sm:py-24">
         <div className="absolute inset-0 opacity-40 mix-blend-overlay">
           <img 
-            src="https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1800&q=80" 
+            src="https://img.travel.rakuten.co.jp/share/HOTEL/1973/1973.jpg" 
             alt="冬の沖縄石垣島川平湾のエメラルドブルーと南国リゾート" 
             className="w-full h-full object-cover"
           />

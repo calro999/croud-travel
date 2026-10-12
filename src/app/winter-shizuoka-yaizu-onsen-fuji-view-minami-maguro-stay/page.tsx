@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '焼津温泉で過ごす冬の旅（11・12月）！深層水高張性美肌温まりの湯！名宿5選',
-  description: '11月から12月にかけて駿河湾に面した水産都市・静岡県焼津市は、一年の中で最も大気が澄み渡り。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて駿河湾に面した水産都市・静岡県焼津市は、一年の中で最も大気が澄み渡り。',
   keywords: '焼津温泉 宿泊, 焼津温泉 11月 12月, 焼津グランドホテル, ホテルアンビア松風閣, 月と鮪石上, 亀の井ホテル焼津, 焼津温泉やいづマリンパレス, 天然南マグロ 宿, 富士山 露天風呂 駿河湾, 焼津 避寒旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay/"
   },
   openGraph: {
     title: '焼津温泉で過ごす冬の旅（11・12月）！深層水高張性美肌温まりの湯！名宿5選',
-    description: '11月から12月にかけて駿河湾に面した水産都市・静岡県焼津市は、一年の中で最も大気が澄み渡り。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて駿河湾に面した水産都市・静岡県焼津市は、一年の中で最も大気が澄み渡り。',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/9036/9036.jpg',
         width: 1200,
         height: 630,
         alt: '初冬の焼津温泉と駿河湾越しの富士山絶景露天風呂'
@@ -69,7 +69,7 @@ export default function ShizuokaYaizuWinterFeature() {
         },
         "headline": "【11・12月静岡・焼津温泉の初冬駿河湾越し富士山絶景と天然南マグロ】深層水高張性美肌温まりの湯＆極上鮪尽くしの宿5選",
         "description": "11月から12月にかけて駿河湾に面した水産都市・静岡県焼津市は、一年の中で最も大気が澄み渡り、紺碧の駿河湾越しに純白の雪を戴く雄大な富士山がくっきりと浮かび上がる絶景のピークを迎えます。日本屈指の遠洋漁業基地である焼津港には、南氷洋の荒波で育ち濃厚な甘みと上品な脂の乗りを誇る「天然南マグロ（ミナミマグロ・インドマグロ）。」が極上の鮮度で水揚げされます。地下1500メートルの太古の地層から湧出する「焼津温泉」は、海水の約半分の高濃度塩分を含む弱アルカリ性カルシウム・ナトリウム-塩化物泉で、芯まで温まり湯冷めしない奇跡の美肌泉。駿河湾富士見露天と極上南マグロ会席を堪能する厳選宿5選を徹底解説。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/9036/9036.jpg",
         "datePublished": "T08:00:00+09:00",
         "dateModified": "T08:00:00+09:00",
         "publisher": {
@@ -268,7 +268,7 @@ export default function ShizuokaYaizuWinterFeature() {
       {/* Header Banner */}
       <header className="relative w-full h-[360px] sm:h-[480px] flex items-end justify-center bg-slate-900 text-white overflow-hidden">
         <Image
-          src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/9036/9036.jpg"
           alt="初冬の駿河湾越しに望む富士山と焼津温泉の露天風呂"
           fill
           priority

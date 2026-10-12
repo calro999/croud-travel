@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月北海道：定山渓雪見露天！名宿5選',
-  description: '冬の札幌は大通公園を幻想的な光で埋め尽くす「さっぽろホワイトイルミネーション」や「ミュンヘン・クリスマス市」、すすきのの活気。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '冬の札幌は大通公園を幻想的な光で埋め尽くす「さっぽろホワイトイルミネーション」や「ミュンヘン・クリスマス市」、すすきのの活気。',
   keywords: '札幌 ホテル, 定山渓温泉 旅館, さっぽろホワイトイルミネーション, ミュンヘンクリスマス市, JRタワーホテル日航札幌, 京王プラザホテル札幌, 札幌グランドホテル, 定山渓第一寶亭留 翠山亭, 章月グランドホテル, 11月 12月 1月 北海道 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hokkaido-sapporo-odori-illumination-jozankei-stay/"
   },
   openGraph: {
     title: '11・12・1月北海道：定山渓雪見露天！名宿5選',
-    description: '冬の札幌は大通公園を幻想的な光で埋め尽くす「さっぽろホワイトイルミネーション」や「ミュンヘン・クリスマス市」、すすきのの活気。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '冬の札幌は大通公園を幻想的な光で埋め尽くす「さっぽろホワイトイルミネーション」や「ミュンヘン・クリスマス市」、すすきのの活気。',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-sapporo-odori-illumination-jozankei-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',

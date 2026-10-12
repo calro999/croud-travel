@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月東京：花園神社初詣を味わう！名宿5選',
-  description: '11月中旬から1月にかけて、新宿・西新宿エリアは世界最大のターミナルを包み込む光の祭典「新宿ミナミルミ」やサザンテラスの幻想的な冬イルミネーション。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月中旬から1月にかけて、新宿・西新宿エリアは世界最大のターミナルを包み込む光の祭典「新宿ミナミルミ」やサザンテラスの幻想的な冬イルミネーション。',
   keywords: '新宿 ホテル, 西新宿 ホテル, 新宿ミナミルミ, 都庁展望室 富士山, 花園神社 初詣, キンプトン新宿東京, 京王プラザホテル, ハイアットリージェンシー東京, ホテルグレイスリー新宿, 11月 12月 1月 東京 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tokyo-shinjuku-nishishinjuku-illumination-hatsumode-luxury-stay/"
   },
   openGraph: {
     title: '11・12・1月東京：花園神社初詣を味わう！名宿5選',
-    description: '11月中旬から1月にかけて、新宿・西新宿エリアは世界最大のターミナルを包み込む光の祭典「新宿ミナミルミ」やサザンテラスの幻想的な冬イルミネーション。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月中旬から1月にかけて、新宿・西新宿エリアは世界最大のターミナルを包み込む光の祭典「新宿ミナミルミ」やサザンテラスの幻想的な冬イルミネーション。',
     url: 'https://croud-travel.pages.dev/winter-tokyo-shinjuku-nishishinjuku-illumination-hatsumode-luxury-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',

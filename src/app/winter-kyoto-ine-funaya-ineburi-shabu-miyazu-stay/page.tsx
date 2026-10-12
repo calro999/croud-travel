@@ -9,19 +9,19 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月京都：雪化粧の伊根湾「伊根の舟屋」！名宿5選',
-  description: '11月から1月、京都府丹後半島・伊根町と宮津市は、日本海に浮かぶ約230軒の「伊根の舟屋群」が静かに雪をまとう水墨画のような絶景と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から1月、京都府丹後半島・伊根町と宮津市は、日本海に浮かぶ約230軒の「伊根の舟屋群」が静かに雪をまとう水墨画のような絶景と。',
   keywords: '伊根の舟屋 冬, 伊根ブリ, ブリしゃぶ, 天橋立 雪景色, 油屋別館和亭, 玄妙庵, 天橋立ホテル, 油屋本館, 茶六別館, 奥伊根温泉, 宮津温泉, 11月 12月 1月 京都旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kyoto-ine-funaya-ineburi-shabu-miyazu-stay/"
   },
   openGraph: {
     title: '11・12・1月京都：雪化粧の伊根湾「伊根の舟屋」！名宿5選',
-    description: '11月から1月、京都府丹後半島・伊根町と宮津市は、日本海に浮かぶ約230軒の「伊根の舟屋群」が静かに雪をまとう水墨画のような絶景と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から1月、京都府丹後半島・伊根町と宮津市は、日本海に浮かぶ約230軒の「伊根の舟屋群」が静かに雪をまとう水墨画のような絶景と。',
     url: 'https://croud-travel.pages.dev/winter-kyoto-ine-funaya-ineburi-shabu-miyazu-stay',
     siteName: 'クラドトラベル',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/70670/70670.jpg',
         width: 1200,
         height: 630,
         alt: '冬の伊根湾に佇む伊根の舟屋群の雪景色'
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月京都：雪化粧の伊根湾「伊根の舟屋」と日本三大寒ブリ「伊根ブリしゃぶしゃぶ」・海の京都宮津温泉＆冬の天橋立雪景色名宿5選",
     description: "11月から1月、京都府丹後半島・伊根町と宮津市は、日本海に浮かぶ約230軒の「伊根の舟屋群」が静かに雪をまとう水墨画のような絶景と、日本三大寒ブリの一つとして名高いブランド魚「伊根ブリ」が旬の最高潮を迎えます。極上の霜降り寒ブリを熱々出汁にくぐらせる「ブリしゃぶ鍋」、日本三景・天橋立の白銀の「雪の飛龍観」、美肌の湯として名高い奥伊根温泉＆宮津温泉。海の京都を代表する厳選名宿5選を徹底ガイドします。",
-    images: ['https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/70670/70670.jpg']
   }
 };
 
@@ -44,7 +44,7 @@ export default function KyotoIneFunayaMiyazuWinterPage() {
     '@type': 'Article',
     headline: "11・12・1月京都：雪化粧の伊根湾「伊根の舟屋」と日本三大寒ブリ「伊根ブリしゃぶしゃぶ」・海の京都宮津温泉＆冬の天橋立雪景色名宿5選",
     description: "11月から1月、京都府丹後半島・伊根町と宮津市は、日本海に浮かぶ約230軒の「伊根の舟屋群」が静かに雪をまとう水墨画のような絶景と、日本三大寒ブリの一つとして名高いブランド魚「伊根ブリ」が旬の最高潮を迎えます。極上の霜降り寒ブリを熱々出汁にくぐらせる「ブリしゃぶ鍋」、日本三景・天橋立の白銀の「雪の飛龍観」、美肌の湯として名高い奥伊根温泉＆宮津温泉。海の京都を代表する厳選名宿5選を徹底ガイドします。",
-    image: 'https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://img.travel.rakuten.co.jp/share/HOTEL/70670/70670.jpg',
     datePublished: '',
     dateModified: '',
     author: {
@@ -270,7 +270,7 @@ export default function KyotoIneFunayaMiyazuWinterPage() {
       <header className="relative bg-slate-950 text-white overflow-hidden py-16 sm:py-24">
         <div className="absolute inset-0 opacity-40 mix-blend-overlay">
           <img 
-            src="https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1800&q=80" 
+            src="https://img.travel.rakuten.co.jp/share/HOTEL/70670/70670.jpg" 
             alt="冬の伊根の舟屋群雪景色" 
             className="w-full h-full object-cover"
           />

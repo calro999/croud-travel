@@ -8,17 +8,17 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月大分：宇佐神宮新春開運初詣！名宿5選',
-  description: '冬の大分・宇佐＆国東半島は、全国4万社を超える八幡宮の総本宮「宇佐神宮」での新春初詣と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '冬の大分・宇佐＆国東半島は、全国4万社を超える八幡宮の総本宮「宇佐神宮」での新春初詣と。',
   keywords: '宇佐神宮 初詣, 国東半島 ホテル, 富貴寺 旅庵蕗薹, 豊後牛 すき焼き, 豊前海 車海老, 宇佐からあげ, 昭和の町, 11月 12月 1月 大分 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-oita-usa-jingu-kunisaki-hatsumode-bungogyu-seafood-stay/"
   },
   openGraph: {
     title: '11・12・1月大分：宇佐神宮新春開運初詣！名宿5選',
-    description: '冬の大分・宇佐＆国東半島は、全国4万社を超える八幡宮の総本宮「宇佐神宮」での新春初詣と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '冬の大分・宇佐＆国東半島は、全国4万社を超える八幡宮の総本宮「宇佐神宮」での新春初詣と。',
     url: 'https://croud-travel.pages.dev/winter-oita-usa-jingu-kunisaki-hatsumode-bungogyu-seafood-stay',
     type: 'article',
-    images: [{ url: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=630', width: 1200, height: 630, alt: '宇佐神宮と国東六郷満山の富貴寺' }]
+    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/167291/167291.jpg', width: 1200, height: 630, alt: '宇佐神宮と国東六郷満山の富貴寺' }]
   },
   twitter: {
     card: 'summary_large_image',

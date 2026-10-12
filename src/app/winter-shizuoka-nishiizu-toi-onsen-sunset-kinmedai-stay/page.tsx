@@ -9,21 +9,21 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月静岡：伊勢海老！名宿5選',
-  description: '11月から1月、温暖な黒潮が洗う西伊豆最古の名湯「土肥（とい）温泉」は、駿河湾の彼方に雪化粧した富士山を望む絶景と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から1月、温暖な黒潮が洗う西伊豆最古の名湯「土肥（とい）温泉」は、駿河湾の彼方に雪化粧した富士山を望む絶景と。',
   keywords: '土肥温泉 宿泊, 土肥桜 宿, 西伊豆 夕日 富士山 ホテル, 寒金目鯛 姿煮 宿, 湯の花亭 土肥, 富岳群青, 粋松亭, 11月 12月 1月 静岡旅行, 西伊豆 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shizuoka-nishiizu-toi-onsen-sunset-kinmedai-stay/"
   },
   openGraph: {
     title: '11・12・1月静岡：伊勢海老！名宿5選',
-    description: '11月から1月、温暖な黒潮が洗う西伊豆最古の名湯「土肥（とい）温泉」は、駿河湾の彼方に雪化粧した富士山を望む絶景と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から1月、温暖な黒潮が洗う西伊豆最古の名湯「土肥（とい）温泉」は、駿河湾の彼方に雪化粧した富士山を望む絶景と。',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-nishiizu-toi-onsen-sunset-kinmedai-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/64790/64790.jpg',
         width: 1200,
         height: 630,
         alt: '駿河湾越しの夕日と雪化粧した富士山の絶景'
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月静岡：西伊豆・土肥温泉の黄金夕日富士と極上寒金目鯛姿煮＆伊勢海老・日本一早咲きの土肥桜露天を巡る名宿5選",
     description: "11月から1月、温暖な黒潮が洗う西伊豆最古の名湯「土肥（とい）温泉」は、駿河湾の彼方に雪化粧した富士山を望む絶景と、冬の最高峰の海の幸が揃う黄金シーズンを迎えます。空気が澄み渡る初冬から真冬にかけての夕暮れ時、海と空を茜色から黄金色へと染め上げる「西伊豆の夕日」と富士山のシルエットは、息を呑むほどドラマチックな美しさ。さらに12月中旬から蕾をほころばせ、1月中旬には満開を迎える「日本一早咲きの土肥桜（といざくら）」は、極濃ピンクの花びらが冬の碧空に映える奇跡の風物詩です。湯量豊富な弱アルカリ性のカルシウム・ナトリウム-硫酸塩・塩化物温泉は、冷えた体を芯から温める名湯。夕食には脂の乗り切った名物「寒金目鯛の姿煮」や甘み溢れる「伊勢海老」、あわびの踊り焼き、近隣の戸田港から届く深海魚・高足ガニが食卓を彩ります。冬花見と夕日絶景、海の美食を満喫できる厳選5宿をご案内します。",
-    images: ['https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&h=630&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/64790/64790.jpg']
   }
 };
 
@@ -51,7 +51,7 @@ export default function ShizuokaNishiizuToiOnsenWinterPage() {
         },
         "headline": "【11・12・1月静岡】西伊豆・土肥温泉の黄金夕日富士と極上寒金目鯛姿煮＆伊勢海老・日本一早咲きの土肥桜露天を巡る名宿5選",
         "description": "11月から1月、温暖な黒潮が洗う西伊豆最古の名湯「土肥（とい）温泉」は、駿河湾の彼方に雪化粧した富士山を望む絶景と、冬の最高峰の海の幸が揃う黄金シーズンを迎えます。空気が澄み渡る初冬から真冬にかけての夕暮れ時、海と空を茜色から黄金色へと染め上げる「西伊豆の夕日」と富士山のシルエットは、息を呑むほどドラマチックな美しさ。さらに12月中旬から蕾をほころばせ、1月中旬には満開を迎える「日本一早咲きの土肥桜（といざくら）」は、極濃ピンクの花びらが冬の碧空に映える奇跡の風物詩です。湯量豊富な弱アルカリ性のカルシウム・ナトリウム-硫酸塩・塩化物温泉は、冷えた体を芯から温める名湯。夕食には脂の乗り切った名物「寒金目鯛の姿煮」や甘み溢れる「伊勢海老」、あわびの踊り焼き、近隣の戸田港から届く深海魚・高足ガニが食卓を彩ります。冬花見と夕日絶景、海の美食を満喫できる厳選5宿をご案内します。",
-        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&h=630&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/64790/64790.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {
@@ -235,7 +235,7 @@ export default function ShizuokaNishiizuToiOnsenWinterPage() {
       <header className="relative bg-gradient-to-b from-orange-950 via-stone-900 to-amber-950 text-white py-16 sm:py-24 px-4 sm:px-6 lg:px-8">
         <div className="absolute inset-0 opacity-35 mix-blend-overlay overflow-hidden">
           <img 
-            src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1920&q=80" 
+            src="https://img.travel.rakuten.co.jp/share/HOTEL/64790/64790.jpg" 
             alt="駿河湾の夕日と富士山のパノラマ" 
             className="w-full h-full object-cover"
           />

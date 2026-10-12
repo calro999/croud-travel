@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '熊本・杖立温泉で過ごす冬の旅（11・12月）！名物地獄蒸しと極上肥後あか牛！名宿5選',
-  description: '11月中旬から阿蘇・小国郷の山峡に冷涼な冬の気配が満ち、杖立川の川面から幾筋もの真っ白な湯けむりがダイナミックに立ち上る熊本県・杖立温泉（つ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月中旬から阿蘇・小国郷の山峡に冷涼な冬の気配が満ち、杖立川の川面から幾筋もの真っ白な湯けむりがダイナミックに立ち上る熊本県・杖立温泉（つ。',
   keywords: '杖立温泉 宿泊, わいた温泉郷 旅館, つえたて温泉ひぜんや, 純和風旅館 泉屋, 葉隠館, 旅館よろづや, 旅館 山翠, むし湯, 地獄蒸し, 肥後あか牛, 杖立プリン, 11月 12月 熊本温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kumamoto-tsuetate-waita-onsen-steaming-higogyu-stay/"
   },
   openGraph: {
     title: '熊本・杖立温泉で過ごす冬の旅（11・12月）！名物地獄蒸しと極上肥後あか牛！名宿5選',
-    description: '11月中旬から阿蘇・小国郷の山峡に冷涼な冬の気配が満ち、杖立川の川面から幾筋もの真っ白な湯けむりがダイナミックに立ち上る熊本県・杖立温泉（つ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月中旬から阿蘇・小国郷の山峡に冷涼な冬の気配が満ち、杖立川の川面から幾筋もの真っ白な湯けむりがダイナミックに立ち上る熊本県・杖立温泉（つ。',
     url: 'https://croud-travel.pages.dev/winter-kumamoto-tsuetate-waita-onsen-steaming-higogyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/25092/25092.jpg',
         width: 1200,
         height: 630,
         alt: '初冬の阿蘇小国・杖立温泉の立ち上る湯けむりと渓流風景'
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "熊本・杖立温泉＆わいた温泉郷で過ごす冬の旅（11・12月）！初冬に立ち上る湯けむりと元祖むし湯・名物地獄蒸しと極上肥後あか牛を堪能する名宿5選",
     description: "11月中旬から阿蘇・小国郷の山峡に冷涼な冬の気配が満ち、杖立川の川面から幾筋もの真っ白な湯けむりがダイナミックに立ち上る熊本県・杖立温泉（つえたておんせん）とわいた温泉郷。平安時代、弘法大師空海が旅の疲れを癒やしたと伝えられ、開湯1800年を超える古湯は、高温の塩化物泉の蒸気を活かした日本最古級の天然サウナ「むし湯」や、街の随所に設けられた共同の「蒸し場（地獄蒸し）」など、独特の湯治文化が今なお息づく特別な温泉郷です。初冬の冷え込んだ空気の中で高温の源泉に浸かり、むし湯でたっぷり汗を流した後は、熊本が誇る赤身肉の最高峰「肥後あか牛」のすき焼きや陶板ステーキ、本場熊本直送の極上霜降り馬刺し、地獄蒸し野菜や名物の杖立プリンなど、滋味豊かな阿蘇の冬の味覚を心ゆくまで堪能できます。初冬の阿蘇小国で心も身体も温まる厳選名宿5選を徹底解説します。",
-    images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/25092/25092.jpg']
   }
 };
 
@@ -325,7 +325,7 @@ export default function KumamotoTsuetateWaitaPage() {
       <header className="relative bg-gradient-to-b from-stone-900 via-stone-800 to-stone-900 text-white py-16 sm:py-24 px-4 sm:px-6 lg:px-8 overflow-hidden">
         <div className="absolute inset-0 opacity-25 mix-blend-overlay pointer-events-none">
           <Image
-            src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=2000&q=80"
+            src="https://img.travel.rakuten.co.jp/share/HOTEL/25092/25092.jpg"
             alt="初冬の阿蘇小国・杖立温泉の湯けむりと山並み"
             fill
             className="object-cover"

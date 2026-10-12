@@ -9,19 +9,19 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月宮城：南三陸キラキラいくら丼と気仙！名宿5選',
-  description: '11月から1月、黒潮と親潮が交差する三陸沖は、脂の乗りが最高潮を迎える冬の味覚シーズン。気仙沼港に水揚げされる幻の極上メカジキ「冬木廻（ふゆ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から1月、黒潮と親潮が交差する三陸沖は、脂の乗りが最高潮を迎える冬の味覚シーズン。気仙沼港に水揚げされる幻の極上メカジキ「冬木廻（ふゆ。',
   keywords: '気仙沼 メカジキ 冬木廻, 南三陸 キラキラいくら丼, 気仙沼温泉 宿泊, サンマリン気仙沼ホテル観洋, 気仙沼プラザホテル, 南三陸 ホテル観洋, 網元の宿 磯村, フカヒレ 気仙沼, 唐桑半島 巨釜半造, 11月 12月 1月 宮城旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-miyagi-kesennuma-minamisanriku-mekajiki-ikuradon-stay/"
   },
   openGraph: {
     title: '11・12・1月宮城：南三陸キラキラいくら丼と気仙！名宿5選',
-    description: '11月から1月、黒潮と親潮が交差する三陸沖は、脂の乗りが最高潮を迎える冬の味覚シーズン。気仙沼港に水揚げされる幻の極上メカジキ「冬木廻（ふゆ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から1月、黒潮と親潮が交差する三陸沖は、脂の乗りが最高潮を迎える冬の味覚シーズン。気仙沼港に水揚げされる幻の極上メカジキ「冬木廻（ふゆ。',
     url: 'https://croud-travel.pages.dev/winter-miyagi-kesennuma-minamisanriku-mekajiki-ikuradon-stay',
     siteName: 'クラドトラベル',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/15784/15784.jpg',
         width: 1200,
         height: 630,
         alt: '冬の三陸海岸・気仙沼湾と南三陸志津川湾の絶景'
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月宮城：冬の三陸の至宝・極上戻りメカジキ「冬木廻」＆南三陸キラキラいくら丼と気仙沼深層天然温泉を満喫する絶景名宿5選",
     description: "11月から1月、黒潮と親潮が交差する三陸沖は、脂の乗りが最高潮を迎える冬の味覚シーズン。気仙沼港に水揚げされる幻の極上メカジキ「冬木廻（ふゆきまわり）」のとろけるような脂と旨味、南三陸さんさん商店街を彩る宝石のような「南三陸キラキラいくら丼」、冬の牡蠣・アワビ・気仙沼フカヒレ。太平洋の荒波が削り出した唐桑半島・巨釜半造の雪化粧と、地下深くから湧く高濃度塩化物泉「気仙沼深層天然温泉」。冬の三陸海岸の豊かな恵みと絶景露天風呂を堪能する名宿5選をお届けします。",
-    images: ['https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/15784/15784.jpg']
   }
 };
 
@@ -44,7 +44,7 @@ export default function MiyagiKesennumaMinamisanrikuWinterPage() {
     '@type': 'Article',
     headline: "11・12・1月宮城：冬の三陸の至宝・極上戻りメカジキ「冬木廻」＆南三陸キラキラいくら丼と気仙沼深層天然温泉を満喫する絶景名宿5選",
     description: "11月から1月、黒潮と親潮が交差する三陸沖は、脂の乗りが最高潮を迎える冬の味覚シーズン。気仙沼港に水揚げされる幻の極上メカジキ「冬木廻（ふゆきまわり）」のとろけるような脂と旨味、南三陸さんさん商店街を彩る宝石のような「南三陸キラキラいくら丼」、冬の牡蠣・アワビ・気仙沼フカヒレ。太平洋の荒波が削り出した唐桑半島・巨釜半造の雪化粧と、地下深くから湧く高濃度塩化物泉「気仙沼深層天然温泉」。冬の三陸海岸の豊かな恵みと絶景露天風呂を堪能する名宿5選をお届けします。",
-    image: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://img.travel.rakuten.co.jp/share/HOTEL/15784/15784.jpg',
     datePublished: '',
     dateModified: '',
     author: {
@@ -271,7 +271,7 @@ export default function MiyagiKesennumaMinamisanrikuWinterPage() {
       <header className="relative bg-slate-950 text-white overflow-hidden py-16 sm:py-24">
         <div className="absolute inset-0 opacity-35 mix-blend-overlay">
           <img 
-            src="https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1800&q=80" 
+            src="https://img.travel.rakuten.co.jp/share/HOTEL/15784/15784.jpg" 
             alt="冬の三陸海岸・気仙沼湾と太平洋の絶景" 
             className="w-full h-full object-cover"
           />

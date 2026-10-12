@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '肘折温泉の豪雪秘湯で過ごす冬の旅（11・12月）！極上山形牛！名宿5選',
-  description: '11月から12月にかけて、山形県大蔵村の出羽山地に抱かれたカルデラ盆地「肘折温泉（ひじおりおんせん）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、山形県大蔵村の出羽山地に抱かれたカルデラ盆地「肘折温泉（ひじおりおんせん）」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
   keywords: '肘折温泉 宿泊, 肘折温泉 旅館, 湯宿 元河原湯, 丸屋, 優心の宿 観月, 三春屋, 亀屋旅館, 山形牛, 芋煮鍋, 豪雪秘湯, 11月 12月 肘折温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamagata-hijiori-onsen-heavy-snow-toji-yamagata-beef-stay/"
   },
   openGraph: {
     title: '肘折温泉の豪雪秘湯で過ごす冬の旅（11・12月）！極上山形牛！名宿5選',
-    description: '11月から12月にかけて、山形県大蔵村の出羽山地に抱かれたカルデラ盆地「肘折温泉（ひじおりおんせん）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、山形県大蔵村の出羽山地に抱かれたカルデラ盆地「肘折温泉（ひじおりおんせん）」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-yamagata-hijiori-onsen-heavy-snow-toji-yamagata-beef-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/29437/29437.jpg',
         width: 1200,
         height: 630,
         alt: '山形肘折温泉の豪雪風景と立ち上る湯煙'
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "山形・肘折温泉の豪雪秘湯で過ごす冬の旅（11・12月）！開湯1200年の霊泉と朝市情緒・極上山形牛＆名物芋煮鍋に心温まる名宿5選",
     description: "11月から12月にかけて、山形県大蔵村の出羽山地に抱かれたカルデラ盆地「肘折温泉（ひじおりおんせん）」は、日本屈指の豪雪地帯ならではの壮麗な白銀世界へと姿を変えます。西暦807年の開湯から1200年以上の歴史を刻むこの秘湯は、肘を折った老僧が湯に入って完治したという伝説から名付けられ、古くから湯治場として栄えてきました。銅山川沿いに木造三階建ての風情ある旅館がひしめき合い、降る雪の中に湯煙が立ち上る光景はまさに日本の原風景。炭酸水素塩泉や塩化物泉など豊富なメタケイ酸を含む名湯は「温まりの湯」「傷治りの湯」として親しまれ、雪冷えした身体を芯から解きほぐします。夕食には山形牛のすき焼きや陶板焼き、寒さが増すほど旨味を深める郷土の熱々芋煮鍋、最上地方の山の幸。雪深き静寂に包まれる肘折温泉で、本物の湯治情緒と温もりに浸る厳選名宿5選を徹底解説します。",
-    images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/29437/29437.jpg']
   }
 };
 

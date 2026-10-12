@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '弥彦で過ごす冬の旅（11・12月）！越後一宮彌彦神社参詣！名宿5選',
-  description: '11月から12月にかけて、新潟県の日本海沿いに連なる弥彦山麓の弥彦温泉と岩室（いわむろ）温泉は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、新潟県の日本海沿いに連なる弥彦山麓の弥彦温泉と岩室（いわむろ）温泉の魅力とおすすめ宿泊施設を詳しくご紹介します。',
   keywords: '岩室温泉 宿泊, 弥彦温泉 宿泊, 新潟 温泉 11月 12月, 穂々, ゆもとや, 四季の宿 みのや, 富士屋, 櫻家, 彌彦神社 参詣, 日本海 寒ブリ, のどぐろ 塩焼き, 岩室温泉 黒湯',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-niigata-iwamuro-yahiko-onsen-kanburi-nodoguro-stay/"
   },
   openGraph: {
     title: '弥彦で過ごす冬の旅（11・12月）！越後一宮彌彦神社参詣！名宿5選',
-    description: '11月から12月にかけて、新潟県の日本海沿いに連なる弥彦山麓の弥彦温泉と岩室（いわむろ）温泉は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、新潟県の日本海沿いに連なる弥彦山麓の弥彦温泉と岩室（いわむろ）温泉の魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-niigata-iwamuro-yahiko-onsen-kanburi-nodoguro-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/29686/29686.jpg',
         width: 1200,
         height: 630,
         alt: '初冬の越後一宮彌彦神社と岩室温泉の名湯露天風呂'
@@ -69,7 +69,7 @@ export default function NiigataIwamuroYahikoWinterFeature() {
         },
         "headline": "【11・12月新潟・弥彦＆岩室温泉の初冬情緒と日本海寒ブリ・のどぐろ会席】越後一宮彌彦神社参詣＆開湯300年名物黒湯の宿5選",
         "description": "11月から12月にかけて、新潟県の日本海沿いに連なる弥彦山麓の弥彦温泉と岩室（いわむろ）温泉は、越後平野の黄金色の実りから初雪の白銀へと季節が移ろう風情豊かな初冬を迎えます。越後一宮「彌彦神社」の初冬の厳かな空気に包まれ、開湯300年の歴史を誇る岩室の名物「黒湯」で冷えた身体をじっくり温める至福のひととき。そして11月に水揚げが本格化する荒波の日本海直送「寒ブリ」や脂の乗った「のどぐろ塩焼き」、新米コシヒカリと越後の銘酒に酔いしれる厳選温泉宿5選を詳しく解説します。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/29686/29686.jpg",
         "datePublished": "T11:00:00+09:00",
         "dateModified": "T11:00:00+09:00",
         "publisher": {
@@ -234,7 +234,7 @@ export default function NiigataIwamuroYahikoWinterFeature() {
       {/* Header Banner */}
       <header className="relative w-full h-[360px] sm:h-[480px] flex items-end justify-center bg-slate-900 text-white overflow-hidden">
         <Image
-          src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1600&q=80"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/29686/29686.jpg"
           alt="越後平野と初冬の弥彦山・岩室温泉"
           fill
           priority

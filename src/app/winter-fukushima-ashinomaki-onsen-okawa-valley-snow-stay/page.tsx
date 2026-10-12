@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '会津芦ノ牧温泉で過ごす冬の旅（11・12月）！会津馬刺し！名宿5選',
-  description: '11月から12月にかけて福島県・会津若松の奥座敷「会津芦ノ牧温泉」は、大川（阿賀川）が何万年もの歳月をかけて刻んだ深い渓谷美「大川羽鳥県立自。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて福島県・会津若松の奥座敷「会津芦ノ牧温泉」は、大川（阿賀川）が何万年もの歳月をかけて刻んだ深い渓谷美「大川羽鳥県立自。',
   keywords: '芦ノ牧温泉 宿泊, 会津 芦ノ牧 温泉 11月 12月, 大川荘, 丸峰観光ホテル, 仙峡閣, 芦ノ牧グランドホテル, 芦ノ牧プリンスホテル, 会津馬刺し 宿, 会津牛, 大川渓谷 雪景色',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukushima-ashinomaki-onsen-okawa-valley-snow-stay/"
   },
   openGraph: {
     title: '会津芦ノ牧温泉で過ごす冬の旅（11・12月）！会津馬刺し！名宿5選',
-    description: '11月から12月にかけて福島県・会津若松の奥座敷「会津芦ノ牧温泉」は、大川（阿賀川）が何万年もの歳月をかけて刻んだ深い渓谷美「大川羽鳥県立自。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて福島県・会津若松の奥座敷「会津芦ノ牧温泉」は、大川（阿賀川）が何万年もの歳月をかけて刻んだ深い渓谷美「大川羽鳥県立自。',
     url: 'https://croud-travel.pages.dev/winter-fukushima-ashinomaki-onsen-okawa-valley-snow-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/12682/12682.jpg',
         width: 1200,
         height: 630,
         alt: '冬の大川渓谷と会津芦ノ牧温泉の雪景色'
@@ -69,7 +69,7 @@ export default function AshinomakiOnsenWinterFeature() {
         },
         "headline": "【11・12月福島・会津芦ノ牧温泉の大川渓谷初雪絶景と渓流露天】会津馬刺し・極上会津牛＆源泉かけ流し湯めぐりの宿5選",
         "description": "11月から12月にかけて福島県・会津若松の奥座敷「会津芦ノ牧温泉」は、大川（阿賀川）が何万年もの歳月をかけて刻んだ深い渓谷美「大川羽鳥県立自然公園」が初雪で白銀に化粧され、水墨画のような幽玄の冬景色が広がります。千数百年の昔、行基菩薩が開湯したと伝わる名湯は、渓谷の岩肌から自噴する弱アルカリ性低張性高温泉。渓谷に突き出すような迫力満点の棚田風露天風呂や空中露天風呂、極上の赤身が舌先でとろける本場「会津馬刺し」、福島県産黒毛和牛「会津牛」の陶板焼き、会津地酒の初しぼりを味わう厳選名宿5選を徹底解説。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/12682/12682.jpg",
         "datePublished": "T05:00:00+09:00",
         "dateModified": "T05:00:00+09:00",
         "publisher": {
@@ -268,7 +268,7 @@ export default function AshinomakiOnsenWinterFeature() {
       {/* Header Banner */}
       <header className="relative w-full h-[360px] sm:h-[480px] flex items-end justify-center bg-slate-900 text-white overflow-hidden">
         <Image
-          src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1600&q=80"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/12682/12682.jpg"
           alt="冬の大川渓谷と会津芦ノ牧温泉の雪景色"
           fill
           priority

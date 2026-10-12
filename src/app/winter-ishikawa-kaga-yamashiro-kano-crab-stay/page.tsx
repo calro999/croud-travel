@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '加賀温泉郷で過ごす冬の旅（11・12月）！山代！名宿5選',
-  description: '11月6日の北陸冬の風物詩・ズワイガニ漁解禁とともに美食の最盛期を迎える石川県・加賀温泉郷（山代温泉・山中温泉）。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月6日の北陸冬の風物詩・ズワイガニ漁解禁とともに美食の最盛期を迎える石川県・加賀温泉郷（山代温泉・山中温泉）。',
   keywords: '加賀温泉郷 宿泊 11月 12月, 山代温泉 カニ 旅館, 山中温泉 加能ガニ 香箱ガニ, あらや滔々庵 ゆのくに天祥, 加賀温泉 おすすめ 宿, 九谷焼 温泉 会席, 加賀 冬 モデルコース',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-ishikawa-kaga-yamashiro-kano-crab-stay/",
   },
   openGraph: {
     title: '加賀温泉郷で過ごす冬の旅（11・12月）！山代！名宿5選',
-    description: '11月6日の北陸冬の風物詩・ズワイガニ漁解禁とともに美食の最盛期を迎える石川県・加賀温泉郷（山代温泉・山中温泉）。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月6日の北陸冬の風物詩・ズワイガニ漁解禁とともに美食の最盛期を迎える石川県・加賀温泉郷（山代温泉・山中温泉）。',
     url: 'https://croud-travel.pages.dev/winter-ishikawa-kaga-yamashiro-kano-crab-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/1616/1616.jpg',
         width: 1200,
         height: 630,
         alt: "【11・12月加賀温泉郷の冬の贅と加能ガニ解禁】山代・山中温泉の歴史名湯と九谷焼で味わう極上ズワイガニ会席の宿5選",
@@ -47,7 +47,7 @@ export default function KagaWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-ishikawa-kaga-yamashiro-kano-crab-stay#article",
         "headline": "【11・12月加賀温泉郷の冬の贅と加能ガニ解禁】山代・山中温泉の歴史名湯と九谷焼で味わう極上ズワイガニ会席の宿5選",
         "description": "11月6日の北陸冬の風物詩・ズワイガニ漁解禁とともに美食の最盛期を迎える石川県・加賀温泉郷（山代温泉・山中温泉）。開湯1300年の歴史を誇る名湯巡りと、青いタグが輝く石川ブランド「加能ガニ」や内子・外子が濃厚な「香箱ガニ」。九谷焼や山中塗の絢爛な器で冬の日本海会席を味わう極上の大人旅ガイド。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/1616/1616.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {
@@ -254,7 +254,7 @@ export default function KagaWinterPage() {
       {/* Hero Header */}
       <header className="relative h-[520px] md:h-[620px] flex items-center justify-center text-white overflow-hidden bg-stone-950">
         <Image
-          src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1600&q=85"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/1616/1616.jpg"
           alt="冬の加賀温泉郷・山代温泉古総湯の紅殻格子と湯けむり、解禁された極上の加能ガニ会席"
           fill
           priority

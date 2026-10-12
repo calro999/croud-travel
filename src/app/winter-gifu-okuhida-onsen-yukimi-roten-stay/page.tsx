@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '奥飛騨温泉郷で過ごす冬の旅（11・12月）！飛騨牛朴葉味噌焼き会席！名宿5選',
-  description: '北アルプス穂高連峰の懐に抱かれた日本屈指の温泉天国・岐阜県奥飛騨温泉郷。11月下旬の初冠雪から12月の白銀世界へと移ろう初冬。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '北アルプス穂高連峰の懐に抱かれた日本屈指の温泉天国・岐阜県奥飛騨温泉郷。11月下旬の初冠雪から12月の白銀世界へと移ろう初冬。',
   keywords: '奥飛騨温泉郷 宿泊 11月 12月, 奥飛騨 雪見露天風呂, 平湯温泉 福地温泉 新穂高温泉, 飛騨牛 朴葉味噌 旅館, 深山桜庵 孫九郎 槍見館, 新穂高ロープウェイ 冬, 奥飛騨 冬 ドライブ スタッドレスタイヤ',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-gifu-okuhida-onsen-yukimi-roten-stay/",
   },
   openGraph: {
     title: '奥飛騨温泉郷で過ごす冬の旅（11・12月）！飛騨牛朴葉味噌焼き会席！名宿5選',
-    description: '北アルプス穂高連峰の懐に抱かれた日本屈指の温泉天国・岐阜県奥飛騨温泉郷。11月下旬の初冠雪から12月の白銀世界へと移ろう初冬。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '北アルプス穂高連峰の懐に抱かれた日本屈指の温泉天国・岐阜県奥飛騨温泉郷。11月下旬の初冠雪から12月の白銀世界へと移ろう初冬。',
     url: 'https://croud-travel.pages.dev/winter-gifu-okuhida-onsen-yukimi-roten-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/65440/65440.jpg',
         width: 1200,
         height: 630,
         alt: "【11・12月奥飛騨温泉郷の雪見露天と北アルプス絶景】圧倒的湯量と雄大な山岳美・飛騨牛朴葉味噌焼き会席の宿5選",
@@ -47,7 +47,7 @@ export default function OkuhidaWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-gifu-okuhida-onsen-yukimi-roten-stay#article",
         "headline": "【11・12月奥飛騨温泉郷の雪見露天と北アルプス絶景】圧倒的湯量と雄大な山岳美・飛騨牛朴葉味噌焼き会席の宿5選",
         "description": "北アルプス穂高連峰の懐に抱かれた日本屈指の温泉天国・岐阜県奥飛騨温泉郷。11月下旬の初冠雪から12月の白銀世界へと移ろう初冬、毎分44,000リットルを超える圧倒的な湯量を誇る雪見大露天風呂と、極上A5等級飛騨牛の香ばしい朴葉味噌焼き・囲炉裏会席を五感で堪能する冬の名宿ガイド。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/65440/65440.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {
@@ -254,7 +254,7 @@ export default function OkuhidaWinterPage() {
       {/* Hero Header */}
       <header className="relative h-[520px] md:h-[620px] flex items-center justify-center text-white overflow-hidden bg-stone-950">
         <Image
-          src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1600&q=85"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/65440/65440.jpg"
           alt="初冬の奥飛騨温泉郷・北アルプス穂高連峰の雪景色と湯けむり立ち上る雪見露天風呂"
           fill
           priority

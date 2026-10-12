@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '浅虫温泉で過ごす冬の旅（11・12月）！津軽海峡冬本マグロ！名宿5選',
-  description: '11月から12月にかけて青森の奥座敷「浅虫温泉」は、初冠雪を戴く八甲田連峰を背に。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて青森の奥座敷「浅虫温泉」は、初冠雪を戴く八甲田連峰を背に位置する注目の宿と観光モデルコースをご案内します。',
   keywords: '浅虫温泉 宿泊, 浅虫温泉 11月 12月, 海扇閣 浅虫, 浅虫さくら観光ホテル, 椿館 浅虫, 割烹旅館さつき, 辰巳館 浅虫, 津軽海峡マグロ 宿, 陸奥湾ホタテ, 津軽三味線 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay/"
   },
   openGraph: {
     title: '浅虫温泉で過ごす冬の旅（11・12月）！津軽海峡冬本マグロ！名宿5選',
-    description: '11月から12月にかけて青森の奥座敷「浅虫温泉」は、初冠雪を戴く八甲田連峰を背に。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて青森の奥座敷「浅虫温泉」は、初冠雪を戴く八甲田連峰を背に位置する注目の宿と観光モデルコースをご案内します。',
     url: 'https://croud-travel.pages.dev/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/4962/4962.jpg',
         width: 1200,
         height: 630,
         alt: '冬の浅虫温泉と陸奥湾の風景'
@@ -69,7 +69,7 @@ export default function AsamushiOnsenWinterFeature() {
         },
         "headline": "【11・12月青森・浅虫温泉の初冬陸奥湾絶景と開湯千二百年名湯】津軽海峡冬本マグロ・肉厚陸奥湾ホタテ＆津軽三味線響く宿5選",
         "description": "11月から12月にかけて青森の奥座敷「浅虫温泉」は、初冠雪を戴く八甲田連峰を背に、冷たい潮風が吹き抜ける陸奥湾（青森湾）の海原と湯の島が水墨画のように浮かぶ風光明媚な初冬の季節を迎えます。平安時代に慈覚大師円仁が開湯したと伝わる名湯は、肌触り柔らかで体の芯まで温もりを届ける無色透明の弱アルカリ性単純温泉。津軽海峡の荒波で脂が乗り切った最高峰の「冬の本マグロ」、陸奥湾の恵みが凝縮した肉厚で甘みたっぷりの「活ホタテ」、毎夜ロビーに力強く響き渡る津軽三味線の生演奏、棟方志功ゆかりの芸術情緒を堪能する厳選名宿5選を徹底解説。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/4962/4962.jpg",
         "datePublished": "T06:00:00+09:00",
         "dateModified": "T06:00:00+09:00",
         "publisher": {
@@ -268,7 +268,7 @@ export default function AsamushiOnsenWinterFeature() {
       {/* Header Banner */}
       <header className="relative w-full h-[360px] sm:h-[480px] flex items-end justify-center bg-slate-900 text-white overflow-hidden">
         <Image
-          src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1600&q=80"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/4962/4962.jpg"
           alt="冬の浅虫温泉と陸奥湾の風景"
           fill
           priority

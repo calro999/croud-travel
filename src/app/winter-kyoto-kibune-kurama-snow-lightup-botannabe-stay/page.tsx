@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月京都：雪の貴船神社積雪日限定ライトアップ！名宿5選',
-  description: '冬の京都で最も幽玄な美しさを放つ洛北の奥座敷・貴船、鞍馬、大原。しんしんと降り積もる白銀の雪と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '冬の京都で最も幽玄な美しさを放つ洛北の奥座敷・貴船、鞍馬、大原。しんしんと降り積もる白銀の雪と。',
   keywords: '貴船 旅館, 大原 温泉, 貴船神社 積雪ライトアップ, ぼたん鍋 京都, 貴船ふじや, お宿 芹生, 料理旅館 右源太, 大原の里, 11月 12月 1月 京都 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kyoto-kibune-kurama-snow-lightup-botannabe-stay/"
   },
   openGraph: {
     title: '11・12・1月京都：雪の貴船神社積雪日限定ライトアップ！名宿5選',
-    description: '冬の京都で最も幽玄な美しさを放つ洛北の奥座敷・貴船、鞍馬、大原。しんしんと降り積もる白銀の雪と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '冬の京都で最も幽玄な美しさを放つ洛北の奥座敷・貴船、鞍馬、大原。しんしんと降り積もる白銀の雪と。',
     url: 'https://croud-travel.pages.dev/winter-kyoto-kibune-kurama-snow-lightup-botannabe-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',

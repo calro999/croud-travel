@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     url: "https://croud-travel.pages.dev/campaigns/autumn-gourmet-travel",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&h=630&q=80",
+        url: "https://img.travel.rakuten.co.jp/share/HOTEL/14588/14588.jpg",
         width: 1200,
         height: 630,
         alt: "秋の味覚＆名湯旅館特集"

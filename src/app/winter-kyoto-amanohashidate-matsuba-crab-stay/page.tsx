@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '天橋立で過ごす冬の旅（11・12月）！寒ブリしゃぶしゃぶ！名宿5選',
-  description: '日本三景の筆頭・京都府丹後天橋立。11月6日の冬のズワイガニ漁解禁とともに美食の最高峰シーズンが開幕。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '日本三景の筆頭・京都府丹後天橋立。11月6日の冬のズワイガニ漁解禁とともに美食の最高峰シーズンが開幕に合わせて訪れたい周辺の厳選宿をまとめました。',
   keywords: '天橋立 宿泊 11月 12月, 天橋立 カニ 解禁, 間人ガニ 旅館 天橋立, 松葉ガニ カニ刺し 天橋立, 天橋立温泉 文珠荘 北野屋, 天橋立 冬 雪景色 飛龍観, 寒ブリしゃぶしゃぶ 丹後',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kyoto-amanohashidate-matsuba-crab-stay/",
   },
   openGraph: {
     title: '天橋立で過ごす冬の旅（11・12月）！寒ブリしゃぶしゃぶ！名宿5選',
-    description: '日本三景の筆頭・京都府丹後天橋立。11月6日の冬のズワイガニ漁解禁とともに美食の最高峰シーズンが開幕。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '日本三景の筆頭・京都府丹後天橋立。11月6日の冬のズワイガニ漁解禁とともに美食の最高峰シーズンが開幕に合わせて訪れたい周辺の厳選宿をまとめました。',
     url: 'https://croud-travel.pages.dev/winter-kyoto-amanohashidate-matsuba-crab-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/76913/76913.jpg',
         width: 1200,
         height: 630,
         alt: "【11・12月天橋立の白砂青松雪景色とカニ漁解禁】日本三景を望む冬の美肌湯・幻の間人ガニ＆寒ブリしゃぶしゃぶの宿5選",
@@ -47,7 +47,7 @@ export default function AmanohashidateWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-kyoto-amanohashidate-matsuba-crab-stay#article",
         "headline": "【11・12月天橋立の白砂青松雪景色とカニ漁解禁】日本三景を望む冬の美肌湯・幻の間人ガニ＆寒ブリしゃぶしゃぶの宿5選",
         "description": "日本三景の筆頭・京都府丹後天橋立。11月6日の冬のズワイガニ漁解禁とともに美食の最高峰シーズンが開幕。松並木にうっすらと初雪が降り積もる「白砂青松の幻雪景」、地下1,500mから湧き出る茶褐色の美肌湯「天橋立温泉」、そして幻の極上「間人ガニ（たいざがに）」や丹後若狭湾の寒ブリしゃぶしゃぶを味わう至高の冬名宿ガイド。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/76913/76913.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {
@@ -254,7 +254,7 @@ export default function AmanohashidateWinterPage() {
       {/* Hero Header */}
       <header className="relative h-[520px] md:h-[620px] flex items-center justify-center text-white overflow-hidden bg-stone-950">
         <Image
-          src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1600&q=85"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/76913/76913.jpg"
           alt="初冬の日本三景天橋立・雪化粧した白砂青松の松並木と宮津湾の雄大な雪景色"
           fill
           priority

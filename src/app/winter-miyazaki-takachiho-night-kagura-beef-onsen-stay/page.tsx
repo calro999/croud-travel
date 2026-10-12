@@ -9,19 +9,19 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月宮崎：天岩戸神社初詣！名宿5選',
-  description: '11月中旬から2月上旬、神話の里・宮崎県高千穂町では、国の重要無形民俗文化財に指定されている「高千穂の夜神楽（よかぐら）」が奉納される冬の神。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月中旬から2月上旬、神話の里・宮崎県高千穂町では、国の重要無形民俗文化財に指定されている「高千穂の夜神楽（よかぐら）」が奉納される冬の神。',
   keywords: '高千穂 夜神楽 冬, 高千穂峡 真名井の滝, 高千穂牛 宿泊, 天岩戸神社 初詣, 天安河原, 旅館 神仙, 神隠れ 高千穂, ソレスト高千穂ホテル, ホテル高千穂, ホテル グレイトフル高千穂, 11月 12月 1月 宮崎旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-miyazaki-takachiho-night-kagura-beef-onsen-stay/"
   },
   openGraph: {
     title: '11・12・1月宮崎：天岩戸神社初詣！名宿5選',
-    description: '11月中旬から2月上旬、神話の里・宮崎県高千穂町では、国の重要無形民俗文化財に指定されている「高千穂の夜神楽（よかぐら）」が奉納される冬の神。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月中旬から2月上旬、神話の里・宮崎県高千穂町では、国の重要無形民俗文化財に指定されている「高千穂の夜神楽（よかぐら）」が奉納される冬の神。',
     url: 'https://croud-travel.pages.dev/winter-miyazaki-takachiho-night-kagura-beef-onsen-stay',
     siteName: 'クラドトラベル',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/30082/30082.jpg',
         width: 1200,
         height: 630,
         alt: '冬の宮崎県高千穂峡真名井の滝と神話の風景'
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月宮崎：国の重要無形民俗文化財・高千穂の「夜神楽」と神秘の高千穂峡・最高峰「高千穂牛」＆天岩戸神社初詣を巡る神話の冬名宿5選",
     description: "11月中旬から2月上旬、神話の里・宮崎県高千穂町では、国の重要無形民俗文化財に指定されている「高千穂の夜神楽（よかぐら）」が奉納される冬の神聖なシーズンを迎えます。阿蘇の溶岩が削り出した柱状節理の渓谷美を誇る「高千穂峡・真名井の滝」、天照大神の岩戸隠れ伝説が息づく「天岩戸神社」や無数の積石が神秘的な「天安河原」での冬の初詣。そして内閣総理大臣賞を受賞した最高峰ブランド黒毛和牛「高千穂牛」の極上会席。日本発祥の神話と祈りに包まれる冬の名宿5選とモデルコースをお届けします。",
-    images: ['https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/30082/30082.jpg']
   }
 };
 
@@ -44,7 +44,7 @@ export default function MiyazakiTakachihoNightKaguraWinterPage() {
     '@type': 'Article',
     headline: "11・12・1月宮崎：国の重要無形民俗文化財・高千穂の「夜神楽」と神秘の高千穂峡・最高峰「高千穂牛」＆天岩戸神社初詣を巡る神話の冬名宿5選",
     description: "11月中旬から2月上旬、神話の里・宮崎県高千穂町では、国の重要無形民俗文化財に指定されている「高千穂の夜神楽（よかぐら）」が奉納される冬の神聖なシーズンを迎えます。阿蘇の溶岩が削り出した柱状節理の渓谷美を誇る「高千穂峡・真名井の滝」、天照大神の岩戸隠れ伝説が息づく「天岩戸神社」や無数の積石が神秘的な「天安河原」での冬の初詣。そして内閣総理大臣賞を受賞した最高峰ブランド黒毛和牛「高千穂牛」の極上会席。日本発祥の神話と祈りに包まれる冬の名宿5選とモデルコースをお届けします。",
-    image: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://img.travel.rakuten.co.jp/share/HOTEL/30082/30082.jpg',
     datePublished: '',
     dateModified: '',
     author: {
@@ -270,7 +270,7 @@ export default function MiyazakiTakachihoNightKaguraWinterPage() {
       <header className="relative bg-slate-950 text-white overflow-hidden py-16 sm:py-24">
         <div className="absolute inset-0 opacity-35 mix-blend-overlay">
           <img 
-            src="https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1800&q=80" 
+            src="https://img.travel.rakuten.co.jp/share/HOTEL/30082/30082.jpg" 
             alt="冬の宮崎県高千穂峡真名井の滝と夜神楽の風景" 
             className="w-full h-full object-cover"
           />

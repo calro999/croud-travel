@@ -6,20 +6,20 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月島根：幻の石見和牛厳選！名宿5選',
-  description: '周囲を山々に囲まれた山陰の小京都・島根県津和野。11〜1月は雪化粧した武家屋敷の白壁となまこ壁。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '周囲を山々に囲まれた山陰の小京都・島根県津和野。11〜1月は雪化粧した武家屋敷の白壁となまこ壁。',
   keywords: '太皷谷稲成神社 初詣 千本鳥居, 津和野 殿町通り 雪景色, うずめ飯 元祖 津和野, 石見和牛 冬, ゆとりろ津和野, 若槻 津和野, 島根 冬 旅行, 山陰の小京都 津和野 観光',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-shimane-tsuwano-taikodani-inari-hatsumode-uzumemeshi-iwamigyu-stay'
   },
   openGraph: {
     title: '11・12・1月島根：幻の石見和牛厳選！名宿5選',
-    description: '周囲を山々に囲まれた山陰の小京都・島根県津和野。11〜1月は雪化粧した武家屋敷の白壁となまこ壁。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '周囲を山々に囲まれた山陰の小京都・島根県津和野。11〜1月は雪化粧した武家屋敷の白壁となまこ壁。',
     url: 'https://croud-travel.pages.dev/winter-shimane-tsuwano-taikodani-inari-hatsumode-uzumemeshi-iwamigyu-stay',
     siteName: 'クラドトラベル',
     type: 'article',
     locale: 'ja_JP',
     images: [{
-      url: 'https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=1200&q=80',
+      url: 'https://img.travel.rakuten.co.jp/share/HOTEL/184494/184494.jpg',
       width: 1200,
       height: 630,
       alt: '冬の津和野 太皷谷稲成神社の千本鳥居と殿町通りの雪景色'
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月島根：山陰の小京都「津和野」雪化粧の殿町通りとなまこ壁・朱塗りの千本鳥居「太皷谷稲成神社」新春初詣！日本五大稲荷・冬の伝統熱々郷土料理「うずめ飯」＆幻の石見和牛厳選名宿5選",
     description: "周囲を山々に囲まれた山陰の小京都・島根県津和野。11〜1月は雪化粧した武家屋敷の白壁となまこ壁、堀割を泳ぐ色鮮やかな錦鯉が情緒あふれる冬景色を描き出します。日本五大稲荷の一つ「太皷谷稲成神社」では、約1000本の朱塗りの千本鳥居トンネルを登り新年の願望成就を祈る新春初詣。江戸時代から伝わる熱々の伝統郷土料理「うずめ飯」に舌鼓を打ち、幻の黒毛和牛「石見和牛」や銘酒「初陣」を堪能。歴史と静寂に包まれる名湯宿に寛ぐ冬の特選名宿5選。",
-    images: ['https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=1200&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/184494/184494.jpg']
   }
 };
 
@@ -39,7 +39,7 @@ export default function ShimaneTsuwanoWinterFeaturePage() {
     "@type": "Article",
     "headline": "【11・12・1月島根】山陰の小京都「津和野」雪化粧の殿町通りとなまこ壁・朱塗りの千本鳥居「太皷谷稲成神社」新春初詣！日本五大稲荷・冬の伝統熱々郷土料理「うずめ飯」＆幻の石見和牛厳選名宿5選",
     "description": "周囲を山々に囲まれた山陰の小京都・島根県津和野。11〜1月は雪化粧した武家屋敷の白壁となまこ壁、堀割を泳ぐ色鮮やかな錦鯉が情緒あふれる冬景色を描き出します。日本五大稲荷の一つ「太皷谷稲成神社」では、約1000本の朱塗りの千本鳥居トンネルを登り新年の願望成就を祈る新春初詣。江戸時代から伝わる熱々の伝統郷土料理「うずめ飯」に舌鼓を打ち、幻の黒毛和牛「石見和牛」や銘酒「初陣」を堪能。歴史と静寂に包まれる名湯宿に寛ぐ冬の特選名宿5選。",
-    "image": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://img.travel.rakuten.co.jp/share/HOTEL/184494/184494.jpg",
     "datePublished": "T09:00:00+09:00",
     "dateModified": "T09:00:00+09:00",
     "author": {

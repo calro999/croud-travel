@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '北海道・層雲峡温泉で過ごす冬の旅（11・12月）！名湯硫黄泉！名宿5選',
-  description: '11月から12月にかけて、北海道屋根・大雪山連峰の麓に位置する層雲峡温泉は、巨大な柱状節理の断崖絶壁が白銀に染まり。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、北海道屋根・大雪山連峰の麓に位置する層雲峡温泉は、巨大な柱状節理の断崖絶壁が白銀に染まり。',
   keywords: '層雲峡温泉 宿泊, 北海道 温泉 11月 12月, ホテル大雪, 層雲峡 朝陽亭, 層雲閣, 朝陽リゾートホテル, 層雲峡マウントビューホテル, 大雪山 雪見露天, 上川十勝牛, オホーツク冬海鮮',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hokkaido-sounkyo-onsen-snow-gorge-stay/"
   },
   openGraph: {
     title: '北海道・層雲峡温泉で過ごす冬の旅（11・12月）！名湯硫黄泉！名宿5選',
-    description: '11月から12月にかけて、北海道屋根・大雪山連峰の麓に位置する層雲峡温泉は、巨大な柱状節理の断崖絶壁が白銀に染まり。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、北海道屋根・大雪山連峰の麓に位置する層雲峡温泉は、巨大な柱状節理の断崖絶壁が白銀に染まり。',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-sounkyo-onsen-snow-gorge-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/40960/40960.jpg',
         width: 1200,
         height: 630,
         alt: '初冬の層雲峡温泉と雪景色の大雪山峡谷露天風呂'
@@ -69,7 +69,7 @@ export default function HokkaidoSounkyoWinterFeature() {
         },
         "headline": "【11・12月北海道・層雲峡温泉の初冬峡谷美と大雪山雪見露天】名湯硫黄泉＆上川十勝牛・オホーツク冬海鮮会席の宿5選",
         "description": "11月から12月にかけて、北海道屋根・大雪山連峰の麓に位置する層雲峡温泉は、巨大な柱状節理の断崖絶壁が白銀に染まり、水墨画のような渓谷美が広がる初冬の雪景色を迎えます。厳冬期の氷瀑まつり本番前のこの時期は、静寂に包まれた峡谷でゆったりと雪見露天を満喫できる絶好の隠れシーズン。冷えた身体を芯から温める単純硫黄泉の湯けむり、地元・上川町産ポークやジューシーな十勝牛、オホーツク海直送の冬の味覚を心ゆくまで堪能する厳選温泉ホテル・名旅館5選を徹底ガイドします。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/40960/40960.jpg",
         "datePublished": "T10:00:00+09:00",
         "dateModified": "T10:00:00+09:00",
         "publisher": {
@@ -234,7 +234,7 @@ export default function HokkaidoSounkyoWinterFeature() {
       {/* Header Banner */}
       <header className="relative w-full h-[360px] sm:h-[480px] flex items-end justify-center bg-slate-900 text-white overflow-hidden">
         <Image
-          src="https://images.unsplash.com/photo-1517411032315-54ef2cb783bb?auto=format&fit=crop&w=1600&q=80"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/40960/40960.jpg"
           alt="雪化粧した大雪山連峰と初冬の層雲峡温泉峡谷"
           fill
           priority

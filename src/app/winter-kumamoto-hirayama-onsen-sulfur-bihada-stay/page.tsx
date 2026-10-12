@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '熊本・平山温泉で過ごす冬の旅（11・12月）！特選肥後あか牛！名宿5選',
-  description: '11月から12月にかけて熊本県北部・山鹿市の山あいに隠れる「平山温泉」は、冷涼な初冬の大気の中に立ち上る乳白色の湯けむりと。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて熊本県北部・山鹿市の山あいに隠れる「平山温泉」は、冷涼な初冬の大気の中に立ち上る乳白色の湯けむりと。',
   keywords: '平山温泉 宿泊, 平山温泉 11月 12月, ほたるの長屋 平山温泉, 一木一草 平山, 善屋 平山温泉, 奥山鹿温泉旅館, 上田屋 平山, 肥後あか牛 宿, 熊本 馬刺し 温泉, pH9.7 美肌 硫黄泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kumamoto-hirayama-onsen-sulfur-bihada-stay/"
   },
   openGraph: {
     title: '熊本・平山温泉で過ごす冬の旅（11・12月）！特選肥後あか牛！名宿5選',
-    description: '11月から12月にかけて熊本県北部・山鹿市の山あいに隠れる「平山温泉」は、冷涼な初冬の大気の中に立ち上る乳白色の湯けむりと。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて熊本県北部・山鹿市の山あいに隠れる「平山温泉」は、冷涼な初冬の大気の中に立ち上る乳白色の湯けむりと。',
     url: 'https://croud-travel.pages.dev/winter-kumamoto-hirayama-onsen-sulfur-bihada-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/52134/52134.jpg',
         width: 1200,
         height: 630,
         alt: '初冬の平山温泉の竹林と湯けむり'
@@ -69,7 +69,7 @@ export default function HirayamaOnsenWinterFeature() {
         },
         "headline": "【11・12月熊本・平山温泉の竹林秘湯と極上トロトロ美肌硫黄泉】加藤清正の霊泉伝説・特選肥後あか牛＆霜降り馬刺し会席の宿5選",
         "description": "11月から12月にかけて熊本県北部・山鹿市の山あいに隠れる「平山温泉」は、冷涼な初冬の大気の中に立ち上る乳白色の湯けむりと、風にそよぐ緑鮮やかな竹林のコントラストが息をのむ静寂の秘湯郷。平安末期に皮膚病を治したと伝わり、戦国武将・加藤清正公が重い汗疹を癒やしたと伝えられる名湯は、pH9.7を誇る強アルカリ性単純硫黄泉。まるで美容液に浸かっているかのような驚異的なトロトロ・ヌルヌルとした湯ざわりは全国の温泉愛好家を圧倒します。全室離れや客室露天を備えた大人の隠れ宿で、ジューシーな赤身が旨い肥後あか牛の溶岩焼きや極上本場馬刺しを味わう厳選宿5選を徹底解説。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/52134/52134.jpg",
         "datePublished": "T07:00:00+09:00",
         "dateModified": "T07:00:00+09:00",
         "publisher": {
@@ -268,7 +268,7 @@ export default function HirayamaOnsenWinterFeature() {
       {/* Header Banner */}
       <header className="relative w-full h-[360px] sm:h-[480px] flex items-end justify-center bg-slate-900 text-white overflow-hidden">
         <Image
-          src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1600&q=80"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/52134/52134.jpg"
           alt="冬の平山温泉と竹林の静寂"
           fill
           priority

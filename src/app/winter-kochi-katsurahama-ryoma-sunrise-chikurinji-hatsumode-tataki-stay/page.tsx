@@ -6,20 +6,20 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月高知：知恵の文殊「五台山 竹林寺」新春初詣！名宿5選',
-  description: '黒潮洗う南国土佐の冬景色！11〜1月は澄み渡る青空と群青の太平洋が広がり。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '黒潮洗う南国土佐の冬景色！11〜1月は澄み渡る青空と群青の太平洋が広がり。',
   keywords: '桂浜 初日の出, 坂本龍馬像 桂浜, 竹林寺 初詣, 高知 鰹のタタキ, 戻り鰹 藁焼き, 土佐あかうし, 城西館, 三翠園, ひろめ市場, 高知 冬 旅行',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-kochi-katsurahama-ryoma-sunrise-chikurinji-hatsumode-tataki-stay'
   },
   openGraph: {
     title: '11・12・1月高知：知恵の文殊「五台山 竹林寺」新春初詣！名宿5選',
-    description: '黒潮洗う南国土佐の冬景色！11〜1月は澄み渡る青空と群青の太平洋が広がり。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '黒潮洗う南国土佐の冬景色！11〜1月は澄み渡る青空と群青の太平洋が広がり。',
     url: 'https://croud-travel.pages.dev/winter-kochi-katsurahama-ryoma-sunrise-chikurinji-hatsumode-tataki-stay',
     siteName: 'クラドトラベル',
     type: 'article',
     locale: 'ja_JP',
     images: [{
-      url: 'https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=80',
+      url: 'https://img.travel.rakuten.co.jp/share/HOTEL/8075/8075.jpg',
       width: 1200,
       height: 630,
       alt: '冬の桂浜 太平洋の水平線から昇る初日の出と坂本龍馬像'
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "11・12・1月高知：太平洋望む名勝「桂浜」初日の出と坂本龍馬像！知恵の文殊「五台山 竹林寺」新春初詣・極上戻り鰹藁焼き塩タタキ＆土佐あかうし厳選名宿5選",
     description: "黒潮洗う南国土佐の冬景色！11〜1月は澄み渡る青空と群青の太平洋が広がり、名勝「桂浜」の弓状の渚からは水平線から昇る感動的な初日の出と威風堂々の坂本龍馬銅像を拝することができます。四国八十八ヶ所第31番札所「五台山 竹林寺」では国名勝庭園の静寂と文殊菩薩への新春初詣・合格学業祈願。冬に脂が乗る戻り鰹の豪快な藁焼き塩タタキや幻の和牛「土佐あかうし」のすき焼き・土佐皿鉢料理を堪能し、高知城下の天然温泉や老舗旅館など厳選名宿5選を徹底特集。",
-    images: ['https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/8075/8075.jpg']
   }
 };
 
@@ -39,7 +39,7 @@ export default function KochiKatsurahamaWinterFeaturePage() {
     "@type": "Article",
     "headline": "【11・12・1月高知】太平洋望む名勝「桂浜」初日の出と坂本龍馬像！知恵の文殊「五台山 竹林寺」新春初詣・極上戻り鰹藁焼き塩タタキ＆土佐あかうし厳選名宿5選",
     "description": "黒潮洗う南国土佐の冬景色！11〜1月は澄み渡る青空と群青の太平洋が広がり、名勝「桂浜」の弓状の渚からは水平線から昇る感動的な初日の出と威風堂々の坂本龍馬銅像を拝することができます。四国八十八ヶ所第31番札所「五台山 竹林寺」では国名勝庭園の静寂と文殊菩薩への新春初詣・合格学業祈願。冬に脂が乗る戻り鰹の豪快な藁焼き塩タタキや幻の和牛「土佐あかうし」のすき焼き・土佐皿鉢料理を堪能し、高知城下の天然温泉や老舗旅館など厳選名宿5選を徹底特集。",
-    "image": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://img.travel.rakuten.co.jp/share/HOTEL/8075/8075.jpg",
     "datePublished": "T06:00:00+09:00",
     "dateModified": "T06:00:00+09:00",
     "author": {

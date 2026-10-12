@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '京都で過ごす冬の旅（12・1月）！美山かやぶきの里！名宿5選',
-  description: '日本の原風景が色濃く残る京都府南丹市「美山かやぶきの里」。12〜1月は茅葺き屋根の上に純白の雪が降り積もり、昔話の世界のような静寂と温もりに包まれます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '日本の原風景が色濃く残る京都府南丹市「美山かやぶきの里」。12〜1月は茅葺き屋根の上に純白の雪が降り積もり、昔話の世界のような静寂と温もりに包まれます。',
   keywords: '美山かやぶきの里 冬, 美山雪灯廊, ぼたん鍋 美山, 湯の花温泉 旅館, 渓山閣, すみや亀峰菴, 翠泉, 丹波牛, 河鹿荘, 12月 1月 京都 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kyoto-miyama-kayabuki-snow-botannabe-tanba-stay/"
   },
   openGraph: {
     title: '京都で過ごす冬の旅（12・1月）！美山かやぶきの里！名宿5選',
-    description: '日本の原風景が色濃く残る京都府南丹市「美山かやぶきの里」。12〜1月は茅葺き屋根の上に純白の雪が降り積もり、昔話の世界のような静寂と温もりに包まれます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '日本の原風景が色濃く残る京都府南丹市「美山かやぶきの里」。12〜1月は茅葺き屋根の上に純白の雪が降り積もり、昔話の世界のような静寂と温もりに包まれます。',
     url: 'https://croud-travel.pages.dev/winter-kyoto-miyama-kayabuki-snow-botannabe-tanba-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',

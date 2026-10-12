@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '長崎で過ごす冬の旅（12・1月）！名物ちゃんぽんと長崎和牛を味わう！名宿5選',
-  description: '冬の長崎は、1万5000個もの極彩色中国提灯が街路を埋め尽くす「長崎ランタンフェスティバル」や世界新三大夜景・稲佐山から見下ろす1000万ド。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '冬の長崎は、1万5000個もの極彩色中国提灯が街路を埋め尽くす「長崎ランタンフェスティバル」や世界新三大夜景・稲佐山から見下ろす1000万ド。',
   keywords: '長崎 ホテル, 稲佐山 夜景 ホテル, 長崎ランタンフェスティバル, ガーデンテラス長崎, ルークプラザホテル, ホテルニュー長崎, グラバー園 イルミネーション, 長崎ちゃんぽん, 12月 1月 長崎 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagasaki-city-lantern-festival-inasayama-nightview-champon-stay/"
   },
   openGraph: {
     title: '長崎で過ごす冬の旅（12・1月）！名物ちゃんぽんと長崎和牛を味わう！名宿5選',
-    description: '冬の長崎は、1万5000個もの極彩色中国提灯が街路を埋め尽くす「長崎ランタンフェスティバル」や世界新三大夜景・稲佐山から見下ろす1000万ド。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '冬の長崎は、1万5000個もの極彩色中国提灯が街路を埋め尽くす「長崎ランタンフェスティバル」や世界新三大夜景・稲佐山から見下ろす1000万ド。',
     url: 'https://croud-travel.pages.dev/winter-nagasaki-city-lantern-festival-inasayama-nightview-champon-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',

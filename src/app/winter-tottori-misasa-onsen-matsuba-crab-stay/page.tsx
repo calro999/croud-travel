@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     locale: 'ja_JP',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/40046/40046.jpg',
         width: 1200,
         height: 630,
         alt: "【11月解禁！鳥取松葉ガニと三朝温泉】日本海直送タグ付き活ガニと世界屈指のラジウム名湯宿5選",
@@ -47,7 +47,7 @@ export default function MisasaCrabWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-tottori-misasa-onsen-matsuba-crab-stay#article",
         "headline": "【11月解禁！鳥取松葉ガニと三朝温泉】日本海直送タグ付き活ガニと世界屈指のラジウム名湯宿5選",
         "description": "11月6日解禁！境港・網代港直送のブランドタグ付き「活松葉ガニ」フルコース！開湯850年、世界有数のラドン含有量を誇る三朝温泉の奇跡のホルミシス効果に浸かり、国登録有形文化財の老舗宿や大庭園露天風呂で寛ぐ冬の至高旅。",
-        "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/40046/40046.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {
@@ -254,7 +254,7 @@ export default function MisasaCrabWinterPage() {
       {/* Hero Header */}
       <header className="relative h-[520px] md:h-[620px] flex items-center justify-center text-white overflow-hidden bg-stone-950">
         <Image
-          src="https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1600&q=85"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/40046/40046.jpg"
           alt="山陰・三朝温泉の湯けむりと冬の日本海で水揚げされる極上松葉ガニ"
           fill
           priority

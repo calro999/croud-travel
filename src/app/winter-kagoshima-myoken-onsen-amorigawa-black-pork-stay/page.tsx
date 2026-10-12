@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '鹿児島・妙見温泉で過ごす冬の旅（11・12月）！極上鹿児島黒豚しゃぶしゃぶと！名宿5選',
-  description: '11月から12月にかけて、霧島連山の麓を流れる清流・天降川（あもりがわ）沿いに湯けむりを上げる「妙見温泉」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、霧島連山の麓を流れる清流・天降川（あもりがわ）沿いに湯けむりを上げる「妙見温泉」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
   keywords: '妙見温泉 旅館, 妙見石原荘, 鳥遊ぶ森の宿 ふたり静, きらく温泉, 田島本館, 妙見温泉 ねむ, 自噴炭酸泉, 天降川 露天風呂, 鹿児島黒豚しゃぶしゃぶ, 鹿児島黒牛, 11月 12月 鹿児島温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kagoshima-myoken-onsen-amorigawa-black-pork-stay/"
   },
   openGraph: {
     title: '鹿児島・妙見温泉で過ごす冬の旅（11・12月）！極上鹿児島黒豚しゃぶしゃぶと！名宿5選',
-    description: '11月から12月にかけて、霧島連山の麓を流れる清流・天降川（あもりがわ）沿いに湯けむりを上げる「妙見温泉」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、霧島連山の麓を流れる清流・天降川（あもりがわ）沿いに湯けむりを上げる「妙見温泉」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-kagoshima-myoken-onsen-amorigawa-black-pork-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/109078/109078.jpg',
         width: 1200,
         height: 630,
         alt: '初冬の鹿児島県霧島・天降川渓流と妙見温泉の自噴露天風呂'
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "鹿児島・妙見温泉で過ごす冬の旅（11・12月）！天降川渓流の自噴炭酸泉露天と初冬の静寂・極上鹿児島黒豚しゃぶしゃぶと黒毛和牛を堪能する名宿5選",
     description: "11月から12月にかけて、霧島連山の麓を流れる清流・天降川（あもりがわ）沿いに湯けむりを上げる「妙見温泉」は、南国・鹿児島ならではの穏やかな小春日和と澄み渡る初冬の静けさに包まれます。地中深くから炭酸ガスとともに轟音を響かせて自噴する妙見の湯は、ナトリウム・カルシウム・マグネシウム-炭酸水素塩泉。肌にまとわりつく細やかな気泡と豊富なメタケイ酸が古い角質を落とし、まるで美容液に浸かっているかのような驚異的な美肌効果をもたらします。渓流の瀬音と一体化する野天風呂に身を委ねれば、日常の喧騒が嘘のように洗い流されていきます。夕餉には、サツマイモを飼料に育った本物の「かごしま黒豚」の極上しゃぶしゃぶやすき焼き、日本一の栄冠に輝く「鹿児島黒牛」のステーキ、天降川の鮎、新鮮なきびなごのお造りなど、薩摩が誇る冬の美食が集結。初冬の鹿児島で心身を解き放つ厳選名宿5選を詳しく紹介します。",
-    images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80']
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/109078/109078.jpg']
   }
 };
 
@@ -45,7 +45,7 @@ export default function KagoshimaMyokenPage() {
     '@type': 'Article',
     headline: "鹿児島・妙見温泉で過ごす冬の旅（11・12月）！天降川渓流の自噴炭酸泉露天と初冬の静寂・極上鹿児島黒豚しゃぶしゃぶと黒毛和牛を堪能する名宿5選",
     description: "11月から12月にかけて、霧島連山の麓を流れる清流・天降川（あもりがわ）沿いに湯けむりを上げる「妙見温泉」は、南国・鹿児島ならではの穏やかな小春日和と澄み渡る初冬の静けさに包まれます。地中深くから炭酸ガスとともに轟音を響かせて自噴する妙見の湯は、ナトリウム・カルシウム・マグネシウム-炭酸水素塩泉。肌にまとわりつく細やかな気泡と豊富なメタケイ酸が古い角質を落とし、まるで美容液に浸かっているかのような驚異的な美肌効果をもたらします。渓流の瀬音と一体化する野天風呂に身を委ねれば、日常の喧騒が嘘のように洗い流されていきます。夕餉には、サツマイモを飼料に育った本物の「かごしま黒豚」の極上しゃぶしゃぶやすき焼き、日本一の栄冠に輝く「鹿児島黒牛」のステーキ、天降川の鮎、新鮮なきびなごのお造りなど、薩摩が誇る冬の美食が集結。初冬の鹿児島で心身を解き放つ厳選名宿5選を詳しく紹介します。",
-    image: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&h=630&q=80',
+    image: 'https://img.travel.rakuten.co.jp/share/HOTEL/109078/109078.jpg',
     datePublished: 'T12:00:00+09:00',
     dateModified: 'T12:00:00+09:00',
     author: {
@@ -200,7 +200,7 @@ export default function KagoshimaMyokenPage() {
       {/* Hero Section */}
       <header className="relative w-full h-[65vh] min-h-[480px] max-h-[640px] flex items-end justify-start overflow-hidden">
         <Image
-          src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=2000&q=85"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/109078/109078.jpg"
           alt="初冬の鹿児島県・天降川渓流と妙見温泉の雪見露天風呂"
           fill
           priority

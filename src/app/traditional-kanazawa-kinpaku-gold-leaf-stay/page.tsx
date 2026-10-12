@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     locale: 'ja_JP',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/54103/54103.jpg',
         width: 1200,
         height: 630,
         alt: "【金沢金箔エステ＆加賀会席】純金箔の贅沢スパ体験と山中・山代・粟津温泉の名宿5選",
@@ -41,7 +41,7 @@ export default function FeaturePage() {
     "@type": "Article",
     "headline": "【金沢金箔エステ＆加賀会席】純金箔の贅沢スパ体験と山中・山代・粟津温泉の名宿5選",
     "description": "金沢が誇る伝統工芸「金箔」を贅沢に使った黄金の金箔フェイシャルエステ＆金箔酒！開湯1300年の歴史を誇る加賀温泉郷（山中・山代・粟津）で、九谷焼の器で味わう極上加賀会席と名湯に浸る贅沢旅。",
-    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://img.travel.rakuten.co.jp/share/HOTEL/54103/54103.jpg",
     "datePublished": "T00:00:00+09:00",
     "dateModified": "T00:00:00+09:00",
     "author": {
@@ -124,7 +124,7 @@ export default function FeaturePage() {
         <div className="absolute inset-0 bg-stone-900/40 z-10" />
         <div 
           className="absolute inset-0 bg-cover bg-center transform scale-105 transition-transform duration-1000"
-          style={{ backgroundImage: "url('https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1600&q=80')" }}
+          style={{ backgroundImage: "url('https://img.travel.rakuten.co.jp/share/HOTEL/54103/54103.jpg')" }}
         />
         
         <div className="relative z-20 max-w-4xl mx-auto px-4 text-center">

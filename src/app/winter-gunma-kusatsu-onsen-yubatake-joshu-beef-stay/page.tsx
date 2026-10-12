@@ -10,21 +10,21 @@ import {
 
 export const metadata: Metadata = {
   title: '草津温泉で過ごす冬の旅（11・12月）！湯畑の冬幻想イルミ！名宿5選',
-  description: '11月から12月にかけて日本屈指の名湯・草津温泉は湯畑から立ち上る真っ白な湯煙と初冬の幻想的なイルミネーションに包まれます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて日本屈指の名湯・草津温泉は湯畑から立ち上る真っ白な湯煙と初冬の幻想的なイルミネーションに包まれます。',
   keywords: '草津温泉 宿泊, 草津温泉 11月 12月, ホテル櫻井, 奈良屋, 望雲, 季の庭, 大阪屋旅館, 湯畑 ライトアップ, 白旗源泉, 万代鉱源泉, 上州牛 すき焼き, 草津 湯もみショー',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-gunma-kusatsu-onsen-yubatake-joshu-beef-stay/",
   },
   openGraph: {
     title: '草津温泉で過ごす冬の旅（11・12月）！湯畑の冬幻想イルミ！名宿5選',
-    description: '11月から12月にかけて日本屈指の名湯・草津温泉は湯畑から立ち上る真っ白な湯煙と初冬の幻想的なイルミネーションに包まれます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて日本屈指の名湯・草津温泉は湯畑から立ち上る真っ白な湯煙と初冬の幻想的なイルミネーションに包まれます。',
     url: 'https://croud-travel.pages.dev/winter-gunma-kusatsu-onsen-yubatake-joshu-beef-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80',
+        url: 'https://img.travel.rakuten.co.jp/share/HOTEL/56137/56137.jpg',
         width: 1200,
         height: 630,
         alt: "【11・12月草津温泉の冬名湯と湯畑ライトアップ】湯畑の冬幻想イルミ・湯けむり露天と極上上州牛すき焼き・群馬地酒の宿5選",
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "草津温泉の冬名湯と湯畑ライトアップで過ごす冬の旅（11・12月）！湯畑の冬幻想イルミ・湯けむり露天と極上上州牛すき焼き・群馬地酒の宿5選",
     description: "11月から12月にかけて日本屈指の名湯・草津温泉は湯畑から立ち上る真っ白な湯煙と初冬の幻想的なイルミネーションに包まれます。標高1,200mの澄んだ冷気の中で楽しむ酸性・含硫黄・アルミニウム・硫酸塩・塩化物温泉の圧倒的な温まり効果、天下の名湯「湯畑源泉」「万代鉱源泉」「西の河原源泉」の湯巡り、最高級「上州牛」のすき焼きや陶板ステーキ、群馬の銘酒を堪能する極上名宿5選を徹底解説。",
-    images: ['https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80'],
+    images: ['https://img.travel.rakuten.co.jp/share/HOTEL/56137/56137.jpg'],
   }
 };
 
@@ -71,7 +71,7 @@ export default function KusatsuOnsenWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-gunma-kusatsu-onsen-yubatake-joshu-beef-stay#article",
         "headline": "【11・12月草津温泉の冬名湯と湯畑ライトアップ】湯畑の冬幻想イルミ・湯けむり露天と極上上州牛すき焼き・群馬地酒の宿5選",
         "description": "11月から12月にかけて日本屈指の名湯・草津温泉は湯畑から立ち上る真っ白な湯煙と初冬の幻想的なイルミネーションに包まれます。標高1,200mの澄んだ冷気の中で楽しむ酸性・含硫黄・アルミニウム・硫酸塩・塩化物温泉の圧倒的な温まり効果、天下の名湯「湯畑源泉」「万代鉱源泉」「西の河原源泉」の湯巡り、最高級「上州牛」のすき焼きや陶板ステーキ、群馬の銘酒を堪能する極上名宿5選を徹底解説。",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
+        "image": "https://img.travel.rakuten.co.jp/share/HOTEL/56137/56137.jpg",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "author": {
@@ -286,7 +286,7 @@ export default function KusatsuOnsenWinterPage() {
       {/* Hero Header */}
       <header className="relative h-[520px] md:h-[620px] flex items-center justify-center text-white overflow-hidden bg-slate-950">
         <Image
-          src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1600&q=85"
+          src="https://img.travel.rakuten.co.jp/share/HOTEL/56137/56137.jpg"
           alt="初冬の草津温泉湯畑から立ち上る幻想的な白い湯煙と夜間ライトアップ"
           fill
           priority
