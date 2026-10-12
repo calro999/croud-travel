@@ -38,6 +38,25 @@ export const metadata: Metadata = {
   }
 };
 
+const faqList = [
+  {
+    "q": "花巻温泉郷の11月・12月の降雪時期と雪景色の見頃は？",
+    "a": "岩手県花巻市は東北の内陸部に位置し、例年11月中旬に奥羽山脈の山々が初冠雪を迎えます。温泉街周辺では11月下旬頃に初雪が降り、12月に入ると本格的な積雪となって美しい白銀世界が広がります。赤松林の枝に雪が積もり、渓流沿いの露天風呂から雪景色を眺められる『雪見露天風呂』は12月上旬から3月上旬にかけてベストシーズンとなります。お車の場合はスタッドレスタイヤの装着が必須です。"
+  },
+  {
+    "q": "花巻温泉郷（花巻・台・鉛・新鉛など）の温泉の違いと特徴は？",
+    "a": "花巻温泉郷は豊沢川や台川沿いに連なる十数箇所の個性豊かな温泉の総称です。代表的な『花巻温泉』は広大な赤松林に囲まれ、pH9.0のとろみある美肌アルカリ性単純温泉が特徴。『台温泉』は開湯600年の歴史を持つ湯治場風情の天然硫黄泉。『鉛温泉（藤三旅館）』は深さ1.25mの天然岩底から自噴する立ち湯『白猿の湯』で日本全国に知られます。それぞれ泉質・効能・風情が異なり、湯めぐりの醍醐味を存分に味わえます。"
+  },
+  {
+    "q": "新幹線や飛行機でのアクセスと無料送迎バスの運行は？",
+    "a": "東北新幹線『新花巻駅』から花巻温泉郷の各宿へは、宿泊者専用の無料送迎バスや路線バスが運行しており、約20〜30分で到着します。東京駅からは東北新幹線『はやぶさ』『やまびこ』で約2時間30分〜3時間です。また『いわて花巻空港』からもタクシーや連絡バスで約15〜20分と至近。雪道の運転を避けたい冬の旅行でも、公共交通機関だけで快適かつ安全にアクセスできます。"
+  },
+  {
+    "q": "花巻温泉郷で絶対に味わいたい冬の美食は何ですか？",
+    "a": "岩手県が世界に誇る最高級黒毛和牛『前沢牛（まえさわぎゅう）』の霜降りステーキやすき焼きは圧巻の美味しさです。また、花巻の澄んだ伏流水と非遺伝子組換え飼料で育てられる特産ブランド豚『白金豚（プラチナポーク）』は、きめ細やかな肉質と甘い脂がしゃぶしゃぶで絶品です。さらに南部鉄器の小鍋で仕立てる郷土の味『ひっつみ汁』や、南部杜氏の里・岩手が誇る寒造りの銘酒（南部美人、月の輪など）が冬の膳を彩ります。"
+  }
+];
+
 export default function HanamakiWinterPage() {
   const jsonLd = {
     "@context": "https://schema.org",
@@ -633,7 +652,35 @@ export default function HanamakiWinterPage() {
           </div>
         </section>
 
-        {/* FAQ Section */}
+        
+        {/* Section: FAQ */}
+        <section id="faq" className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-stone-200/80 space-y-6">
+          <div className="flex items-center gap-3 pb-3 border-b border-stone-100">
+            <div className="p-2 rounded-xl bg-amber-50 text-amber-800">
+              <HelpCircle className="w-5 h-5" />
+            </div>
+            <div>
+              <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Frequently Asked Questions</span>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
+                よくある質問（FAQ）
+              </h2>
+            </div>
+          </div>
+          <div className="space-y-4">
+            {faqList.map((item, idx) => (
+              <div key={idx} className="p-5 rounded-2xl bg-stone-50 border border-stone-200/60 space-y-2">
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
+                  <span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{item.q}</span>
+                </h3>
+                <p className="text-stone-600 text-xs sm:text-sm leading-relaxed pl-6 border-l-2 border-amber-200">
+                  {item.a}
+                </p>
+              </div>
+            ))}
+          </div>
+        </section>
+
         
 
         {/* Related Features & Internal Links */}

@@ -38,6 +38,25 @@ export const metadata: Metadata = {
   }
 };
 
+const faqList = [
+  {
+    "q": "丹後・天橋立の冬のズワイガニ漁解禁日と旬の時期は？",
+    "a": "京都府丹後地方や日本海側のズワイガニ漁は、毎年『11月6日0時』に一斉に解禁されます。11月上旬から翌年3月下旬までが松葉ガニのシーズンですが、特に11月中旬〜12月下旬はカニの身入りが良く、雌ガニ（コッペガニ・セコガニ）の内子・外子を味わえる貴重な時期です。京都府間人（たいざ）港で水揚げされる幻の『間人ガニ（緑タグ）』や舞鶴港の『津居山ガニ』など、極上のブランドガニが各宿の会席を彩ります。"
+  },
+  {
+    "q": "天橋立の雪景色（白砂青松の幻雪景）はいつ頃見られますか？",
+    "a": "天橋立で雪景色が見られるのは、例年12月上旬から2月にかけてです。約5,000本の松並木にうっすらと純白の雪が降り積もり、青い海と白い砂浜、雪をかぶった緑の松が織りなす光景は『幻雪の天橋立』と呼ばれ、日本三景の中でも屈指の幽玄な美しさを誇ります。天橋立ビューランド（南側・飛龍観）や傘松公園（北側・昇龍観）の展望台から見下ろす雪のパノラマは息をのむ絶景です。"
+  },
+  {
+    "q": "京都駅や大阪駅からのアクセス方法と所要時間は？",
+    "a": "JR京都駅からは特急『はしだて』号で乗り換えなし約2時間5分で天橋立駅に到着します。JR新大阪駅・大阪駅からは特急『こうのとり』で福知山駅乗り換え、京都丹後鉄道で約2時間15分です。お車の場合は京都縦貫自動車道が全線開通しているため、京都市内から約1時間30分〜2時間、大阪市内から約2時間とドライブも快適。12月中旬以降にお車でお越しの際はスタッドレスタイヤの装着をおすすめします。"
+  },
+  {
+    "q": "天橋立温泉の泉質と特徴は何ですか？",
+    "a": "天橋立温泉は1999年に地下1,500メートルから湧出した比較的新しい名湯で、『神妙の湯』の別名を持ちます。泉質は含塩化土類食塩泉（ナトリウム-塩化物泉）で、空気に触れると微かに茶褐色を帯びるのが特徴です。海水のミネラルと塩分を豊富に含み、とろりとした湯ざわりで肌がしっとりすべすべになる『美肌の湯』として知られます。塩分が膜を作るため保温効果が極めて高く、冬でも湯冷めしません。"
+  }
+];
+
 export default function AmanohashidateWinterPage() {
   const jsonLd = {
     "@context": "https://schema.org",
@@ -624,7 +643,35 @@ export default function AmanohashidateWinterPage() {
           </div>
         </section>
 
-        {/* FAQ Section */}
+        
+        {/* Section: FAQ */}
+        <section id="faq" className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-stone-200/80 space-y-6">
+          <div className="flex items-center gap-3 pb-3 border-b border-stone-100">
+            <div className="p-2 rounded-xl bg-amber-50 text-amber-800">
+              <HelpCircle className="w-5 h-5" />
+            </div>
+            <div>
+              <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Frequently Asked Questions</span>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
+                よくある質問（FAQ）
+              </h2>
+            </div>
+          </div>
+          <div className="space-y-4">
+            {faqList.map((item, idx) => (
+              <div key={idx} className="p-5 rounded-2xl bg-stone-50 border border-stone-200/60 space-y-2">
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
+                  <span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{item.q}</span>
+                </h3>
+                <p className="text-stone-600 text-xs sm:text-sm leading-relaxed pl-6 border-l-2 border-amber-200">
+                  {item.a}
+                </p>
+              </div>
+            ))}
+          </div>
+        </section>
+
         
 
         {/* Related Features & Internal Links */}

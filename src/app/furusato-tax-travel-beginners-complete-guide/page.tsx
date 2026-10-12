@@ -544,7 +544,7 @@ export default function FurusatoTaxTravelBeginnersGuide() {
         
 
         {/* FAQ Section */}
-        <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
+        <section id="section-7" className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
             <h2 className="text-2xl md:text-3xl font-bold text-stone-900">

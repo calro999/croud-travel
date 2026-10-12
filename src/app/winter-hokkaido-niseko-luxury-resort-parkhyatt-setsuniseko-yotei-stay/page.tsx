@@ -73,7 +73,7 @@ export default function Page() {
       "@type": "ListItem",
       "position": 2,
       "name": "北海道",
-      "item": "https://travel.navitime.jp.net/prefecture/hokkaido"
+      "item": "https://travel.navitime.jp.net/prefectures/hokkaido"
     },
     {
       "@type": "ListItem",
@@ -92,7 +92,7 @@ export default function Page() {
           <div className="max-w-5xl mx-auto flex items-center gap-2 text-slate-500 flex-wrap">
             <Link href="/" className="hover:text-amber-600">ホーム</Link>
             <span>&gt;</span>
-            <Link href="/prefecture/hokkaido" className="hover:text-amber-600">北海道</Link>
+            <Link href="/prefectures/hokkaido" className="hover:text-amber-600">北海道</Link>
             <span>&gt;</span>
             <span className="text-slate-800 font-medium truncate">【世界屈指のパウダースノーと羊蹄山ビュー雪見スイート】2026-2027年12-1月冬の北海道・ニセコ！「雪ニセコ」＆「パーク ハイアット ニセコ HANAZONO」・北海道冬の極上食材名宿5選</span>
           </div>

@@ -73,7 +73,7 @@ export default function Page() {
       "@type": "ListItem",
       "position": 2,
       "name": "兵庫県",
-      "item": "https://travel.navitime.jp.net/prefecture/hyogo"
+      "item": "https://travel.navitime.jp.net/prefectures/hyogo"
     },
     {
       "@type": "ListItem",
@@ -92,7 +92,7 @@ export default function Page() {
           <div className="max-w-5xl mx-auto flex items-center gap-2 text-slate-500 flex-wrap">
             <Link href="/" className="hover:text-amber-600">ホーム</Link>
             <span>&gt;</span>
-            <Link href="/prefecture/hyogo" className="hover:text-amber-600">兵庫県</Link>
+            <Link href="/prefectures/hyogo" className="hover:text-amber-600">兵庫県</Link>
             <span>&gt;</span>
             <span className="text-slate-800 font-medium truncate">【雪の柳並木と最高峰・青タグ津居山ガニ解禁】2026-2027年11-1月冬の兵庫・城崎温泉！創業160年「西村屋本館」＆「三木屋」・活松葉ガニフルコースと外湯めぐり名宿5選</span>
           </div>

@@ -38,6 +38,25 @@ export const metadata: Metadata = {
   }
 };
 
+const faqList = [
+  {
+    "q": "湯河原温泉・奥湯河原の紅葉の見頃はいつ頃ですか？",
+    "a": "湯河原温泉は相模湾に面した温暖な気候のため、関東地方で最も遅く紅葉の見頃を迎える名所です。例年11月中旬頃から色づき始め、11月下旬から12月上旬にかけてピークを迎えます。奥湯河原の『もみじの郷（池峰池周辺）』や万葉公園の渓流沿いには数百本のもみじが真っ赤に燃え上がり、12月に入っても美しい紅葉狩りが楽しめます。"
+  },
+  {
+    "q": "東京からのアクセス方法と所要時間はどのくらいですか？",
+    "a": "東京駅からはJR特急『踊り子』号で湯河原駅まで乗り換えなし約75分です。東海道新幹線の場合は東京駅から熱海駅または小田原駅で東海道本線に乗り換えて約60〜70分で到着します。お車の場合は東名高速道路・厚木ICから小田原厚木道路、西湘バイパス・真鶴道路を経由して都心から約90分〜120分と、首都圏からのアクセスは極めて快適で雪の心配もほとんどありません。"
+  },
+  {
+    "q": "湯河原温泉の泉質と効能の特徴は何ですか？",
+    "a": "湯河原温泉の泉質は主に『弱アルカリ性単純温泉』および『ナトリウム・カルシウム-塩化物・硫酸塩泉。』です。『万葉集』の東歌にも詠まれた関東最古の温泉であり、無色透明で肌あたりが非常に柔らかいのが特徴です。塩分が汗の蒸発を防ぐため湯冷めしにくく、冷え性や神経痛、疲労回復に優れた効果を発揮します。肌の角質をやさしく落としてしっとり保湿する『美肌の湯』『薬師の湯』としても名高い名泉です。"
+  },
+  {
+    "q": "冬の湯河原で味わうべき海の幸と特産グルメは？",
+    "a": "目の前の相模湾（真鶴港・小田原港）で水揚げされる冬の魚介が主役です。特に身が引き締まり甘みが凝縮する『伊勢海老』や、脂が乗った『寒金目鯛（姿煮やしゃぶしゃぶ）』、朝獲れの地魚のお造りは絶品です。また、柑橘王国でもある湯河原の初冬に旬を迎える甘酸っぱい『湯河原みかん（大津みかん・青島温州）』や、地元大豆を使った自家製湯葉・豆腐料理も外せない名物です。"
+  }
+];
+
 export default function YugawaraWinterPage() {
   const jsonLd = {
     "@context": "https://schema.org",
@@ -387,6 +406,26 @@ export default function YugawaraWinterPage() {
           </div>
         </section>
 
+        {/* Section 2: Springs */}
+        <section id="springs" className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-stone-200/80 space-y-6">
+          <div className="flex items-center gap-3 pb-3 border-b border-stone-100">
+            <div className="p-2 rounded-xl bg-orange-50 text-orange-800">
+              <Waves className="w-5 h-5" />
+            </div>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
+              万葉の「薬師の湯」泉質と文豪逗留の歴史
+            </h2>
+          </div>
+          <div className="space-y-4 text-xs sm:text-sm text-stone-600 leading-relaxed">
+            <p>
+              湯河原温泉は『万葉集』の東歌にも詠まれた関東屈指の古湯であり、無色透明で肌あたりが非常に柔らかいのが特徴です。泉質は「弱アルカリ性単純温泉」および「ナトリウム・カルシウム-塩化物・硫酸塩泉」で、塩分が肌を包んで湯冷めを防ぎ、体の芯から温めます。
+            </p>
+            <p>
+              古くから「薬師の湯」「傷の湯」として親しまれ、明治から大正にかけては夏目漱石、島崎藤村、芥川龍之介、谷崎潤一郎など数多くの文豪が逗留し、不朽の名作を生み出す着想を得ました。豊かな自然と清らかな名湯が、今も旅人に静謐な癒やしを届けています。
+            </p>
+          </div>
+        </section>
+
         {/* Hotels List */}
         <section id="hotels" className="space-y-12">
           <div className="text-center max-w-2xl mx-auto space-y-3">
@@ -591,7 +630,35 @@ export default function YugawaraWinterPage() {
           </div>
         </section>
 
-        {/* FAQ Section */}
+        
+        {/* Section: FAQ */}
+        <section id="faq" className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-stone-200/80 space-y-6">
+          <div className="flex items-center gap-3 pb-3 border-b border-stone-100">
+            <div className="p-2 rounded-xl bg-amber-50 text-amber-800">
+              <HelpCircle className="w-5 h-5" />
+            </div>
+            <div>
+              <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Frequently Asked Questions</span>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
+                よくある質問（FAQ）
+              </h2>
+            </div>
+          </div>
+          <div className="space-y-4">
+            {faqList.map((item, idx) => (
+              <div key={idx} className="p-5 rounded-2xl bg-stone-50 border border-stone-200/60 space-y-2">
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
+                  <span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{item.q}</span>
+                </h3>
+                <p className="text-stone-600 text-xs sm:text-sm leading-relaxed pl-6 border-l-2 border-amber-200">
+                  {item.a}
+                </p>
+              </div>
+            ))}
+          </div>
+        </section>
+
         
 
         {/* Related Features & Internal Links */}

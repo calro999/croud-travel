@@ -38,6 +38,25 @@ export const metadata: Metadata = {
   }
 };
 
+const faqList = [
+  {
+    "q": "奥飛騨温泉郷の11月・12月の雪の状況と道路の注意点は？",
+    "a": "奥飛騨温泉郷は標高約800m〜1,200mの豪雪山岳地帯に位置します。例年11月中旬に山頂付近が冠雪し、11月下旬〜12月上旬には温泉街にも本格的な積雪や路面凍結が発生します。お車で訪れる場合は必ずスタッドレスタイヤの装着またはタイヤチェーンの携行が義務付けられます。松本方面からの安房峠道路（国道158号トンネル）や高山方面からの国道158号は除雪体制が整っていますが、早朝・日没後のブラックアイスバーンには厳重な警戒が必要です。雪道運転に不慣れな方は、JR高山駅またはJR松本駅からの特急バス（濃飛バス・アルピコ交通）の利用が最も安全でおすすめです。"
+  },
+  {
+    "q": "奥飛騨温泉郷（平湯・福地・新平湯・栃尾・新穂高）の泉質の特徴は？",
+    "a": "奥飛騨温泉郷は5つの独立した温泉地から成り、湧出量は毎分44,000リットル以上と日本第2位を誇ります。平湯温泉は武田信玄ゆかりの歴史を持ち、含硫黄・炭酸水素塩泉で湯の花が舞う濁り湯。福地温泉は平安時代の村上天皇が湯治に訪れたと伝わる重曹泉・炭酸水素塩泉でエメラルドグリーンの美しい濁り湯が特徴。新穂高温泉は蒲田川沿いに単純温泉や塩化物泉が自噴し、日本一の露天風呂天国として知られます。多くの宿が自家源泉を複数本所有し、加水・加温なしの贅沢な源泉かけ流しを実現しています。"
+  },
+  {
+    "q": "11月・12月の新穂高ロープウェイの運行状況と見どころは？",
+    "a": "日本唯一の2階建てゴンドラが運行する新穂高ロープウェイは通年営業しています。標高2,156mの西穂高口駅屋上展望台からは、ミシュラン・グリーンガイド・ジャポンで二つ星を獲得した北アルプス（槍ヶ岳・穂高連峰・笠ヶ岳）の360度大雪山パノラマが眼前に迫ります。初冬は空気が極限まで澄み渡り、白銀に輝く峰々と青空のコントラストが一年で最も鮮やかです。山頂の気温は11月で0度〜氷点下5度、12月には氷点下10度以下まで冷え込むため、厳重な防寒着（ダウン、ニット帽、手袋、滑りにくい冬靴）が必須です。"
+  },
+  {
+    "q": "奥飛騨温泉郷で絶対に食べるべき冬の名物グルメは？",
+    "a": "飛騨が誇る黒毛和牛の最高峰『A5等級飛騨牛』です。特に、乾燥させた朴（ほお）の葉の上に自家製の特製味噌、ネギ、キノコ、飛騨牛を乗せて炭火で香ばしく焼き上げる『飛騨牛の朴葉味噌焼き』は、立ち上る甘香ばしい匂いと肉の融けるようなサシの甘みが白米やお酒に抜群に合います。また、清流で育つ岩魚（いわな）の塩焼きや香ばしい『骨酒』、奥飛騨サーモンのお造り、平湯の温泉水で茹でる『はんたい玉子（黄身が固く白身がとろりとした温泉卵）。』も必食の美味です。"
+  }
+];
+
 export default function OkuhidaWinterPage() {
   const jsonLd = {
     "@context": "https://schema.org",
@@ -652,7 +671,35 @@ export default function OkuhidaWinterPage() {
           </div>
         </section>
 
-        {/* FAQ Section */}
+        
+        {/* Section: FAQ */}
+        <section id="faq" className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-stone-200/80 space-y-6">
+          <div className="flex items-center gap-3 pb-3 border-b border-stone-100">
+            <div className="p-2 rounded-xl bg-amber-50 text-amber-800">
+              <HelpCircle className="w-5 h-5" />
+            </div>
+            <div>
+              <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Frequently Asked Questions</span>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
+                よくある質問（FAQ）
+              </h2>
+            </div>
+          </div>
+          <div className="space-y-4">
+            {faqList.map((item, idx) => (
+              <div key={idx} className="p-5 rounded-2xl bg-stone-50 border border-stone-200/60 space-y-2">
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
+                  <span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{item.q}</span>
+                </h3>
+                <p className="text-stone-600 text-xs sm:text-sm leading-relaxed pl-6 border-l-2 border-amber-200">
+                  {item.a}
+                </p>
+              </div>
+            ))}
+          </div>
+        </section>
+
         
 
         {/* Related Features & Internal Links */}

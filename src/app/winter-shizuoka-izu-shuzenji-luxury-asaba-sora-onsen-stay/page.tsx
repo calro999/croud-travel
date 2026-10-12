@@ -73,7 +73,7 @@ export default function Page() {
       "@type": "ListItem",
       "position": 2,
       "name": "静岡県",
-      "item": "https://travel.navitime.jp.net/prefecture/shizuoka"
+      "item": "https://travel.navitime.jp.net/prefectures/shizuoka"
     },
     {
       "@type": "ListItem",
@@ -92,7 +92,7 @@ export default function Page() {
           <div className="max-w-5xl mx-auto flex items-center gap-2 text-slate-500 flex-wrap">
             <Link href="/" className="hover:text-amber-600">ホーム</Link>
             <span>&gt;</span>
-            <Link href="/prefecture/shizuoka" className="hover:text-amber-600">静岡県</Link>
+            <Link href="/prefectures/shizuoka" className="hover:text-amber-600">静岡県</Link>
             <span>&gt;</span>
             <span className="text-slate-800 font-medium truncate">【竹林の小径の静寂と数寄屋露天離れ】2026-2027年11-1月冬の静岡・伊豆修善寺温泉！「柳生の庄」＆「宙 SORA 渡月荘金龍」・天城軍鶏と伊豆伊勢海老・名門美食宿5選</span>
           </div>

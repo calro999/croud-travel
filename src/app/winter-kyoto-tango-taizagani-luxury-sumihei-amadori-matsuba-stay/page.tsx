@@ -63,7 +63,7 @@ export default function LuxuryStayPage() {
       "@type": "ListItem",
       "position": 2,
       "name": "京都府",
-      "item": "https://travel.navitime.jp.net/prefecture/kyoto"
+      "item": "https://travel.navitime.jp.net/prefectures/kyoto"
     },
     {
       "@type": "ListItem",
@@ -90,7 +90,7 @@ export default function LuxuryStayPage() {
           <div className="max-w-6xl mx-auto px-4 py-3 text-xs md:text-sm text-slate-500 flex items-center space-x-2">
             <Link href="/" className="hover:text-amber-600 transition">ホーム</Link>
             <span>/</span>
-            <Link href="/prefecture/kyoto" className="hover:text-amber-600 transition">京都府</Link>
+            <Link href="/prefectures/kyoto" className="hover:text-amber-600 transition">京都府</Link>
             <span>/</span>
             <span className="text-slate-800 font-semibold truncate">丹後・京丹後・間人・夕日ヶ浦 最高級宿特集</span>
           </div>

@@ -38,6 +38,25 @@ export const metadata: Metadata = {
   }
 };
 
+const faqList = [
+  {
+    "q": "渋温泉名物の「厄除巡浴九湯めぐり」の仕組みと利用方法は？",
+    "a": "渋温泉の宿泊者だけが体験できる特別な外湯めぐりです。チェックイン時に宿泊宿から『外湯巡り専用のマスターキー』を預かります。石畳の通りに点在する一番湯『初湯』から九番湯『大湯』までの9つの外湯の鍵を開けて入浴できます。各外湯に備え付けの朱印を『巡浴手ぬぐい（各宿や土産物店で販売）』に押し、最後に温泉街の高台にある『渋高薬師』へ参拝して印をいただくことで、満願成就・厄除け・安産育児・不老長寿のご利益があると古くから信仰されています。"
+  },
+  {
+    "q": "渋温泉の11月・12月の気候と積雪状況は？",
+    "a": "志賀高原の麓に位置する渋温泉は、11月上旬から朝晩の冷え込みが厳しくなり、11月下旬には山沿いで初雪が舞います。12月に入ると温泉街の石畳や木造建築の屋根にも本格的な積雪が見られ、美しい雪景色が広がります。冬の気温は日中でも2〜6度、朝晩は氷点下まで下がります。石畳の道は凍結して滑りやすくなるため、宿で貸し出される丹前・羽織の着用に加え、歩きやすい防滑ブーツや厚手の靴下の持参が強く推奨されます。車の場合はスタッドレスタイヤが必須です。"
+  },
+  {
+    "q": "地獄谷野猿公苑（スノーモンキー）へは渋温泉からどうやって行けますか？",
+    "a": "渋温泉から地獄谷野猿公苑の入口（上林温泉・野猿公苑専用駐車場）までは、車やタクシーで約5〜10分、路線バスなら約7分です。そこから野猿公苑までは、雪に覆われた美しい杉林の遊歩道を徒歩で片道約30〜35分歩きます。11月下旬〜12月は野生のニホンザルが厳しい寒さを凌ぐために天然温泉に肩まで浸かる『スノーモンキー』の愛らしい姿を高確率で観察できます。遊歩道は雪やぬかるみがあるため、防水性のあるスノーブーツと防寒具が必須です。"
+  },
+  {
+    "q": "渋温泉で味わうべきご当地グルメや名産品は何ですか？",
+    "a": "長野県が誇るブランド黒毛和牛『信州プレミアム牛』やすき焼き、信州の清流で育つ『信州サーモン』のお造りは各宿の会席料理の花形です。また、温泉街では湯けむりの中で蒸し上げられる熱々の『温泉まんじゅう（うずまきパン等）』の食べ歩きや、北信州の十割手打ち蕎麦、志賀高原の湧水で仕込まれた銘酒『縁喜（玉村本店）』の地酒やクラフトビールも大人気です。"
+  }
+];
+
 export default function ShibuWinterPage() {
   const jsonLd = {
     "@context": "https://schema.org",
@@ -646,7 +665,35 @@ export default function ShibuWinterPage() {
           </div>
         </section>
 
-        {/* FAQ Section */}
+        
+        {/* Section: FAQ */}
+        <section id="faq" className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-stone-200/80 space-y-6">
+          <div className="flex items-center gap-3 pb-3 border-b border-stone-100">
+            <div className="p-2 rounded-xl bg-amber-50 text-amber-800">
+              <HelpCircle className="w-5 h-5" />
+            </div>
+            <div>
+              <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Frequently Asked Questions</span>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
+                よくある質問（FAQ）
+              </h2>
+            </div>
+          </div>
+          <div className="space-y-4">
+            {faqList.map((item, idx) => (
+              <div key={idx} className="p-5 rounded-2xl bg-stone-50 border border-stone-200/60 space-y-2">
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
+                  <span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{item.q}</span>
+                </h3>
+                <p className="text-stone-600 text-xs sm:text-sm leading-relaxed pl-6 border-l-2 border-amber-200">
+                  {item.a}
+                </p>
+              </div>
+            ))}
+          </div>
+        </section>
+
         
 
         {/* Related Features & Internal Links */}

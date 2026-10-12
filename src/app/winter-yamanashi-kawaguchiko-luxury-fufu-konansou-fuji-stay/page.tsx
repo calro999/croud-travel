@@ -63,7 +63,7 @@ export default function LuxuryStayPage() {
       "@type": "ListItem",
       "position": 2,
       "name": "山梨県",
-      "item": "https://travel.navitime.jp.net/prefecture/yamanashi"
+      "item": "https://travel.navitime.jp.net/prefectures/yamanashi"
     },
     {
       "@type": "ListItem",
@@ -90,7 +90,7 @@ export default function LuxuryStayPage() {
           <div className="max-w-6xl mx-auto px-4 py-3 text-xs md:text-sm text-slate-500 flex items-center space-x-2">
             <Link href="/" className="hover:text-amber-600 transition">ホーム</Link>
             <span>/</span>
-            <Link href="/prefecture/yamanashi" className="hover:text-amber-600 transition">山梨県</Link>
+            <Link href="/prefectures/yamanashi" className="hover:text-amber-600 transition">山梨県</Link>
             <span>/</span>
             <span className="text-slate-800 font-semibold truncate">河口湖・富士吉田 最高級宿特集</span>
           </div>

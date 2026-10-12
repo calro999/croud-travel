@@ -63,7 +63,7 @@ export default function LuxuryStayPage() {
       "@type": "ListItem",
       "position": 2,
       "name": "熊本県",
-      "item": "https://travel.navitime.jp.net/prefecture/kumamoto"
+      "item": "https://travel.navitime.jp.net/prefectures/kumamoto"
     },
     {
       "@type": "ListItem",
@@ -90,7 +90,7 @@ export default function LuxuryStayPage() {
           <div className="max-w-6xl mx-auto px-4 py-3 text-xs md:text-sm text-slate-500 flex items-center space-x-2">
             <Link href="/" className="hover:text-amber-600 transition">ホーム</Link>
             <span>/</span>
-            <Link href="/prefecture/kumamoto" className="hover:text-amber-600 transition">熊本県</Link>
+            <Link href="/prefectures/kumamoto" className="hover:text-amber-600 transition">熊本県</Link>
             <span>/</span>
             <span className="text-slate-800 font-semibold truncate">黒川温泉・瀬の本・南小国 最高級宿特集</span>
           </div>

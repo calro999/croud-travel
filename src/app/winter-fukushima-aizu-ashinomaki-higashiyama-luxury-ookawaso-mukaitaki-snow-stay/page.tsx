@@ -73,7 +73,7 @@ export default function Page() {
       "@type": "ListItem",
       "position": 2,
       "name": "福島県",
-      "item": "https://travel.navitime.jp.net/prefecture/fukushima"
+      "item": "https://travel.navitime.jp.net/prefectures/fukushima"
     },
     {
       "@type": "ListItem",
@@ -92,7 +92,7 @@ export default function Page() {
           <div className="max-w-5xl mx-auto flex items-center gap-2 text-slate-500 flex-wrap">
             <Link href="/" className="hover:text-amber-600">ホーム</Link>
             <span>&gt;</span>
-            <Link href="/prefecture/fukushima" className="hover:text-amber-600">福島県</Link>
+            <Link href="/prefectures/fukushima" className="hover:text-amber-600">福島県</Link>
             <span>&gt;</span>
             <span className="text-slate-800 font-medium truncate">【幻想の浮き舞台雪景色と文化財雪見ろうそく】2026-2027年12-1月真冬の福島・会津芦ノ牧＆東山温泉！「大川荘」＆登録有形文化財「向瀧」・渓谷雪見露天と極上会津馬刺し名宿5選</span>
           </div>
