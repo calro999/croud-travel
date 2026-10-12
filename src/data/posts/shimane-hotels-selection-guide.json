@@ -225,5 +225,6 @@
   "hotel_name": "島根観光おすすめ温泉旅館・ホテル特集",
   "prefecture": "島根県",
   "area": "松江・玉造・出雲",
-  "is_special_feature": true
+  "is_special_feature": true,
+  "rating": 4.15
 }
