@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-ishikawa-kanazawa-station-kenrokuen-tsuzumimon-hotels-stay/",
+  },
+
   title: '金沢駅前：兼六園秋の雪吊り＆のどぐろ・金沢おでん！2,000円台〜泊まれる格安ホテル5選',
   description: '鼓門迎える金沢駅前！名勝・兼六園の秋の紅葉と風物詩「雪吊り」、近江町市場ののどぐろや熱々金沢おでん。北陸新幹線・金沢駅周辺で1泊2,000円台〜泊まれる高コスパ格安ホテル厳選5選。',
 };

@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-niigata-station-shinmai-sake-hotels-stay/",
+  },
+
   title: '新潟駅前：新米コシヒカリ・南蛮エビ＆日本酒角打ち！2,000円台〜泊まれる格安ホテル5選',
   description: '秋の新米コシヒカリやぷりぷりの南蛮エビ、ぽんしゅ館の日本酒飲み比べ！新装・新潟駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

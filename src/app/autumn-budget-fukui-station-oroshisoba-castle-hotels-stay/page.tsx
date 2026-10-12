@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-fukui-station-oroshisoba-castle-hotels-stay/",
+  },
+
   title: '福井駅前：越前おろしそば＆ソースカツ丼・福井城跡！3,000円台〜泊まれる格安ホテル5選',
   description: 'ピリッと辛み大根が効いた越前おろしそばと元祖ソースカツ丼！北陸新幹線延伸で注目の福井駅・福井城址周辺で1泊3,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

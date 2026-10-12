@@ -3,6 +3,10 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-nagasaki-glover-garden-onsen-hotels-stay/",
+  },
+
   title: '秋の長崎×格安：グラバー園の秋バラと世界新三大夜景！大浴場付き1泊3,000円〜5,000円台のコスパ最強ホテル5選「2026最新」',
   description: '異国情緒あふれる南山手グラバー園の秋バラ・紅葉と、稲佐山から望む世界新三大夜景！長崎ちゃんぽんや卓袱料理を満喫。大浴場やサウナ完備で1泊3,000円〜5,000円台で泊まれる長崎駅周辺の格安ホテル5選。ホテルクオーレ長崎駅前、hotel H2などを徹底比較！',
   keywords: '長崎 格安 ホテル, 長崎 大浴場 ホテル 安い, グラバー園 秋バラ 紅葉, 稲佐山 夜景 宿, ホテルクオーレ長崎駅前, hotel H2 長崎',

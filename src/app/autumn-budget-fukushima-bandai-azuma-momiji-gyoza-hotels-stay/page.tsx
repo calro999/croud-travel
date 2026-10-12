@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-fukushima-bandai-azuma-momiji-gyoza-hotels-stay/",
+  },
+
   title: '福島：磐梯吾妻スカイラインの絶景紅葉と円盤餃子！格安ホテル5選',
   description: '天空の紅葉ロード「磐梯吾妻スカイライン」のパノラマ絶景と、パリパリ香ばしい名物「福島円盤餃子」！福島駅周辺で1泊2,000円台〜4,000円台で泊まれる格安・高評価ホテル厳選5選。',
 };

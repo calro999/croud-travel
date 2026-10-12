@@ -3,6 +3,10 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-ishikawa-kanazawa-kenrokuen-yukitsuri-momiji-hotels-stay/",
+  },
+
   title: '秋の金沢：兼六園の雪吊りと紅葉ライトアップ！秋の風情と温泉を味わうおすすめ名宿5選「2026最新」',
   description: '11月1日から始まる兼六園の冬支度「雪吊り」と唐崎松・霞ヶ池の鮮やかな紅葉ライトアップ！金沢湯涌温泉や市内中心部のクラシック名門ホテルなど厳選5宿をご紹介。百楽荘、ホテル山楽、御宿野乃金沢の宿泊情報を徹底比較！',
   keywords: '兼六園 雪吊り, 金沢 紅葉 ライトアップ, 兼六園 観光 宿, 金沢湯涌温泉, 金沢白鳥路 ホテル山楽, 百楽荘 金沢',

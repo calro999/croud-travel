@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-akita-kakunodate-momiji-kiritanpo-hotels-stay/",
+  },
+
   title: '秋田：抱返り渓谷・角館紅葉ときりたんぽ鍋！2,000円台〜泊まれる格安ホテル5選',
   description: '東北の耶馬渓「抱返り渓谷」のエメラルドブルーと紅葉、新米で仕込んだ本場きりたんぽ鍋！秋田駅・川反周辺で1泊2,000円台〜4,000円台の高評価・格安宿厳選5選。',
 };

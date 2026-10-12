@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-hokkaido-otaru-canal-momiji-sushi-hotels-stay/",
+  },
+
   title: '小樽：運河のガス灯秋夜景＆旬の秋鮭・握り寿司！2,000円台〜泊まれる格安ホテル5選',
   description: '小樽運河のガス灯と石造り倉庫を彩る秋の蔦紅葉、天狗山から見下ろす夜景！秋サケやイクラ、本場の寿司通り巡り。小樽駅・運河周辺で1泊2,000円台〜3,000円台から泊まれる格安・高評価宿5選。',
 };

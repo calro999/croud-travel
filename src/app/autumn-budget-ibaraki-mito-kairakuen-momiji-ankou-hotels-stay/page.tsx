@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-ibaraki-mito-kairakuen-momiji-ankou-hotels-stay/",
+  },
+
   title: '水戸：偕楽園もみじ谷ライトアップと旬のあんこう鍋！2,000円台〜格安ホテル5選',
   description: '日本三名園「偕楽園もみじ谷」の幻想的な秋紅葉ライトアップと千波湖！11月解禁の濃厚どぶ汁・あんこう鍋や水戸納豆懐石。水戸駅前で1泊2,000円台〜4,000円台で泊まれる格安・高評価宿5選。',
 };

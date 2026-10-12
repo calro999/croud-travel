@@ -4,6 +4,10 @@ import { Metadata } from 'next';
 import { ExternalLink, Calendar, MapPin, Sparkles, ChevronRight, CheckCircle2, Info, Compass, HelpCircle } from 'lucide-react';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/winter-saga-kashima-hizenhamashuku-yutoku-inari-hatsumode-sagagyu-stay/",
+  },
+
   title: '肥前浜宿の酒蔵通り重伝建と日本三大稲荷・祐徳稲荷神社新春初詣：2026-2027年冬の佐賀・鹿島＆嬉野！冬の新酒仕込みと佐賀牛・有明海苔名宿5選 | 旅宿クラウド',
   description: '国の重伝建・白壁土蔵が連なる「肥前浜宿酒蔵通り」の冬新酒仕込み情緒と、日本三大稲荷「祐徳稲荷神社」新春開運初詣！有明海の初摘み極上海苔や冬の竹崎カニ、最高峰佐賀牛会席。日本三大美肌の湯・嬉野温泉や武雄温泉の名湯に浸かり、芳醇な佐賀の銘酒を味わう至福の冬厳選名宿5選。',
   keywords: ['鹿島・肥前浜宿・祐徳門前・嬉野', '佐賀県', '冬旅行', '温泉旅館', '楽天トラベル', 'ふるさと納税', 'ホテルおすすめ'],

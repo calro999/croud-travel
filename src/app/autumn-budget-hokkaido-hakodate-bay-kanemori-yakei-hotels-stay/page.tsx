@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-hokkaido-hakodate-bay-kanemori-yakei-hotels-stay/",
+  },
+
   title: '函館ベイエリア：函館山世界三大夜景＆金森赤レンガ倉庫・海鮮！2,000円台〜泊まれる格安ホテル5選',
   description: '函館山からの世界三大夜景と金森赤レンガ倉庫のガス灯秋散歩！ラッキーピエロのチャイニーズチキンバーガーや朝市の新鮮イクラ丼。JR函館駅・ベイエリア周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

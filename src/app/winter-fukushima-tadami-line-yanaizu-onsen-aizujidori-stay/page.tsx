@@ -349,7 +349,7 @@ export default function FeaturePage() {
                     
                 <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「温泉と料理に大満足、接客も心地よい宿温泉が大変良かったです。料理も美味しく、地元の食材を使った郷土料理は、少しずつですが、種類が多くて満足できました。部屋も広くて、洗面、トイレ、シャワーが… つづ。」"}</p>
+                  <p className="leading-relaxed">{"「温泉と料理に大満足、接客も心地よい宿温泉が大変良かったです。料理も美味しく、地元の食材を使った郷土料理は、少しずつですが、種類が多くて満足できました。部屋も広くて、洗面、トイレ、シャワーが…」"}</p>
                 </div>
             
                   </div>

@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-iwate-morioka-station-castle-reimen-hotels-stay/",
+  },
+
   title: '盛岡駅前：盛岡城跡公園の紅葉＆名物盛岡冷麺・じゃじゃ麺！3,000円台〜泊まれる格安ホテル5選',
   description: '美しい花崗岩の石垣と紅葉が映える盛岡城跡公園（岩手公園）！牛骨スープと弾力麺が絶品の盛岡冷麺、チータンタンで締める盛岡じゃじゃ麺。東北新幹線・JR盛岡駅周辺で1泊3,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

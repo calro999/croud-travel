@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-gifu-station-castle-hida-beef-hotels-stay/",
+  },
+
   title: '岐阜駅前：岐阜城金華山パノラマ＆名物飛騨牛・鮎料理！2,000円台〜泊まれる格安ホテル5選',
   description: '織田信長公が天下布武を掲げた難攻不落の名城・岐阜城と金華山ロープウェイの秋パノラマ！とろける霜降り飛騨牛すき焼きや長良川の鮎料理。JR東海道本線・岐阜駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

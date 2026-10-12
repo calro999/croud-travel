@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-gunma-takasaki-station-pasta-haruna-hotels-stay/",
+  },
+
   title: '高崎駅前：上毛三山・榛名山紅葉＆名物高崎パスタ！3,000円台〜泊まれる格安ホテル5選',
   description: 'パスタの街・高崎の名物キングオブパスタや焼きまんじゅう、上毛三山・榛名山や榛名湖の秋の紅葉！北陸・上越新幹線・高崎駅周辺で1泊3,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

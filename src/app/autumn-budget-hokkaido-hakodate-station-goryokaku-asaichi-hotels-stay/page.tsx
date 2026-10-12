@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-hokkaido-hakodate-station-goryokaku-asaichi-hotels-stay/",
+  },
+
   title: '函館駅前：五稜郭紅葉＆函館朝市・活イカ・塩ラーメン！2,000円台〜泊まれる格安ホテル5選',
   description: '函館朝市の新鮮な活イカ海鮮丼や名物函館塩ラーメン、星形城郭・五稜郭の錦秋の紅葉！JR函館駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

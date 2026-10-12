@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-hyogo-himeji-station-castle-kokoen-hotels-stay/",
+  },
+
   title: '姫路駅前：世界遺産姫路城・好古園紅葉＆名物姫路おでん！2,000円台〜泊まれる格安ホテル5選',
   description: '白鷺城と称される世界遺産・姫路城と大名庭園・好古園の錦秋の紅葉ライトアップ！生姜醤油で味わう名物姫路おでん。山陽新幹線・JR姫路駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

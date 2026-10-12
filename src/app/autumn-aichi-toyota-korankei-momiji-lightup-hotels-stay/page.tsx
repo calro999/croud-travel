@@ -3,6 +3,10 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-aichi-toyota-korankei-momiji-lightup-hotels-stay/",
+  },
+
   title: '秋の香嵐渓：4000本のもみじ狩りと巴川ライトアップ！三河の名湯と美食を味わうおすすめ宿5選「2026最新」',
   description: '東海随一の紅葉名所・足助「香嵐渓」の約4,000本のもみじと巴川に架かる待月橋！黄金色に輝く夜間ライトアップと名物五平餅。天然ラドン温泉の猿投温泉や足助の隠れ家宿など厳選5選。木もれ日、金泉閣、川澄屋を徹底比較！',
   keywords: '香嵐渓 紅葉, 香嵐渓 もみじまつり, 待月橋 ライトアップ, 猿投温泉 金泉閣, 足助 旅館, 豊田市 宿',

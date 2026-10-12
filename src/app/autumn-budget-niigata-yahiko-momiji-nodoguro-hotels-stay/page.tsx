@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-niigata-yahiko-momiji-nodoguro-hotels-stay/",
+  },
+
   title: '新潟：弥彦公園の紅葉谷と極上のどぐろ！3,000円台〜泊まれる格安ホテル5選',
   description: '朱塗りの観月橋とモミジが織りなす弥彦公園紅葉谷の絶景！獲れたての日本海のどぐろと新米魚沼産コシヒカリを味わう秋旅。新潟駅前で1泊3,000円台〜4,000円台の高評価ホテル厳選5選。',
 };

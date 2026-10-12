@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-nagano-matsumoto-station-castle-soba-hotels-stay/",
+  },
+
   title: '松本駅前：国宝松本城紅葉＆秋の新そば・山賊焼！4,000円台〜泊まれる格安ホテル5選',
   description: '北アルプスを望む国宝・松本城の秋の紅葉！香り高い秋の新そばと名物山賊焼。JR篠ノ井線・松本駅周辺で1泊4,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-wakayama-castle-momijidani-ramen-hotels-stay/",
+  },
+
   title: '和歌山：和歌山城紅葉渓庭園と中華そば！2,000円台〜泊まれる格安ホテル5選',
   description: '名勝和歌山城「紅葉渓庭園」の水鏡紅葉と御橋廊下、豚骨醤油のコク深い本場和歌山ラーメン！和歌山駅前で1泊2,000円台〜4,000円台で泊まれる格安・高コスパホテル厳選5選。',
 };

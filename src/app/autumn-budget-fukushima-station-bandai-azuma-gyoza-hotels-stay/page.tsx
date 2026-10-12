@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-fukushima-station-bandai-azuma-gyoza-hotels-stay/",
+  },
+
   title: '福島駅前：吾妻山紅葉ドライブ＆名物円盤餃子！2,000円台〜泊まれる格安ホテル5選',
   description: '磐梯吾妻スカイラインの魔女の瞳・一切経山と吾妻連峰の錦秋絵巻！パリパリの皮と野菜の甘みがたまらない名物福島円盤餃子。東北新幹線・JR福島駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

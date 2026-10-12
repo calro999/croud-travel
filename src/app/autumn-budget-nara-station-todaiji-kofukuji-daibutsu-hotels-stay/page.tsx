@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-nara-station-todaiji-kofukuji-daibutsu-hotels-stay/",
+  },
+
   title: '奈良駅前：東大寺大仏殿＆古都紅葉・三輪そうめん・大和牛！3,000円台〜泊まれる格安ホテル5選',
   description: '世界遺産・東大寺の大仏殿と奈良公園の鹿・錦秋の紅葉！名物柿の葉寿司や大和牛、三輪そうめん。JR・近鉄奈良駅周辺で1泊3,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

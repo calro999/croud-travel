@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-shizuoka-hamamatsu-station-unagi-gyoza-hotels-stay/",
+  },
+
   title: '浜松駅前：秋の浜名湖うなぎ＆浜松餃子ハシゴ旅！2,000円台〜泊まれる格安ホテル5選',
   description: '秋に旨味と脂が乗る浜名湖名物うなぎや、円形に焼き上げもやしを添えた浜松餃子を満喫！浜松駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

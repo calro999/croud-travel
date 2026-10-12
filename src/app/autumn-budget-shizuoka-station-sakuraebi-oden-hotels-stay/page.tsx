@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-shizuoka-station-sakuraebi-oden-hotels-stay/",
+  },
+
   title: '静岡駅前：駿河湾の戻り鰹・桜えび＆黒おでん！3,000円台〜泊まれる格安ホテル5選',
   description: '秋の駿河湾がもたらす極上の戻り鰹や由比の桜えび、青葉横丁で熱々の静岡黒おでんを堪能！静岡駅周辺で1泊3,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

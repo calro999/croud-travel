@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-kochi-station-katsuo-hirome-market-hotels-stay/",
+  },
+
   title: '高知駅前：秋の戻り鰹塩たたき＆ひろめ市場！3,000円台〜泊まれる格安ホテル5選',
   description: '脂ののった秋の戻り鰹（かつお）の藁焼き塩たたき！屋台村・ひろめ市場の熱気と現存天守・高知城の秋紅葉。JR土讃線・高知駅周辺で1泊3,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

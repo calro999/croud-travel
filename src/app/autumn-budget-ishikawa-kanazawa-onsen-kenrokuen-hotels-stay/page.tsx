@@ -3,6 +3,10 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-ishikawa-kanazawa-onsen-kenrokuen-hotels-stay/",
+  },
+
   title: '秋の金沢×格安：兼六園の雪吊りと秋のカニ解禁！天然温泉付き1泊3,000円〜6,000円台の高コスパホテル5選「2026最新」',
   description: '11月1日から始まる兼六園の「雪吊り」と北陸のカニ解禁！宿泊費を賢く抑えつつ、天然温泉やサウナで極上の癒やしを満喫できる金沢のコスパ最強ホテル5選。the b金沢片町、スーパーホテルPremier、御宿野乃金沢など高評価宿を徹底比較！',
   keywords: '金沢 格安 ホテル, 金沢 天然温泉 ホテル 安い, 兼六園 雪吊り 宿, カニ解禁 金沢, スーパーホテルPremier金沢駅東口, 御宿野乃金沢',

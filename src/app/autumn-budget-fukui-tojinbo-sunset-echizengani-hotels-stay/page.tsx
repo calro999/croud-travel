@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-fukui-tojinbo-sunset-echizengani-hotels-stay/",
+  },
+
   title: '福井：東尋坊の日本海夕陽と越前秋グルメ！3,000円台〜泊まれる格安ホテル5選',
   description: '国の名勝「東尋坊」の断崖絶壁に沈む感動の秋夕陽と、北陸新幹線延伸で沸く福井！本場の福井ソースカツ丼や越前おろしそばを堪能。福井駅・芦原周辺で1泊3,000円台〜5,000円台の高評価宿5選。',
 };

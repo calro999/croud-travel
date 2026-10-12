@@ -3,6 +3,10 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-shizuoka-atami-onsen-fireworks-hotels-stay/",
+  },
+
   title: '秋の熱海温泉×格安：海上花火大会と相模湾絶景！1泊4,000円台〜のコスパ最強おすすめ温泉宿5選「2026最新」',
   description: '秋の澄んだ夜空を彩る「熱海海上花火大会」と熱海梅園の日本一遅い紅葉！東京から新幹線40分で気軽に行ける熱海温泉。オーシャンビュー展望風呂や源泉かけ流し温泉付きで1泊4,000円〜6,000円台で泊まれる格安名宿5選。ホテルリゾーピア、レクトーレ熱海小嵐を徹底比較！',
   keywords: '熱海温泉 格安 宿, 熱海 花火大会 宿泊 安い, 熱海 オーシャンビュー ホテル, 熱海梅園 紅葉, ホテルリゾーピア熱海, レクトーレ熱海小嵐',

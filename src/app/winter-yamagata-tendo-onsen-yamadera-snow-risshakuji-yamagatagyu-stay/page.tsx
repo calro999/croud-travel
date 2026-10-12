@@ -456,7 +456,7 @@ export default function FeaturePage() {
                   
                 <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「食事も器も素敵で、心地よい時間を満喫夕食、朝食ともとても美味しく器も素敵でおなかいっぱいになりました。館内や従業員の方の対応も含めて心地よい時間を過ごせました。の詳細はこ… つづ。」"}</p>
+                  <p className="leading-relaxed">{"「食事も器も素敵で、心地よい時間を満喫夕食、朝食ともとても美味しく器も素敵でおなかいっぱいになりました。館内や従業員の方の対応も含めて心地よい時間を過ごせました。の詳細はこ…」"}</p>
                 </div>
             
 
@@ -522,7 +522,7 @@ export default function FeaturePage() {
                   
                 <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「お部屋と食事に大満足、最高のホカンス!お部屋とても素敵でした。お部屋にコーヒーマシンが付いているのが結構ありがたかったです。夜ご飯はステーキと鮑が特に美味しかったです。お部屋でくつろいで、… つづ。」"}</p>
+                  <p className="leading-relaxed">{"「お部屋と食事に大満足、最高のホカンス!お部屋とても素敵でした。お部屋にコーヒーマシンが付いているのが結構ありがたかったです。夜ご飯はステーキと鮑が特に美味しかったです。お部屋でくつろいで、…」"}</p>
                 </div>
             
 

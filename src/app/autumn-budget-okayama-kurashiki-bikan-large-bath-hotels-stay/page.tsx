@@ -3,6 +3,10 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-okayama-kurashiki-bikan-large-bath-hotels-stay/",
+  },
+
   title: '秋の倉敷美観地区×格安：白壁の町並み紅葉と大原美術館！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」',
   description: '倉敷川沿いの柳並木と紅葉のコントラスト、レトロな白壁の町並み散策！名物ぶっかけうどんや岡山フルーツパフェを満喫。大浴場や天然温泉付きで1泊4,000円〜7,000円台で泊まれる倉敷のコスパ最強ホテル5選。ロイヤルパークホテル倉敷、ドーミーイン倉敷などを徹底比較！',
   keywords: '倉敷 格安 ホテル, 倉敷美観地区 宿泊 安い, 倉敷 大浴場 ホテル, 大原美術館 紅葉, ロイヤルパークホテル倉敷, ドーミーイン倉敷',

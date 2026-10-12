@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-hokkaido-furano-wine-tomita-hotels-stay/",
+  },
+
   title: '富良野：秋の収穫祭・ふらのワイン＆丘陵紅葉！4,000円台〜泊まれる格安リゾートホテル5選',
   description: '秋限定の「ふらのワイン」新酒や名物オムカレー、十勝岳連峰を望むファーム富田の秋花畑！北の大地・富良野で1泊4,000円台〜泊まれる格安・高コスパホテル厳選5選。',
 };

@@ -3,6 +3,10 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-fukuoka-hakata-gourmet-onsen-hotels-stay/",
+  },
+
   title: '秋の福岡・博多×格安：太宰府の紅葉と中洲屋台グルメ！天然温泉＆大浴場付き1泊6,000円台〜のコスパ最強ホテル5選「2026最新」',
   description: '太宰府天満宮や竈門神社の鮮やかな紅葉散策と、夜の中洲・天神屋台めぐり（もつ鍋・水炊き・豚骨ラーメン）！歩き疲れた身体を癒やす天然温泉や大浴場付きで1泊6,000円〜7,000円台の高評価ホテル5選。八百治博多、ホテル・トリフィートなど厳選宿を徹底比較！',
   keywords: '福岡 格安 ホテル, 博多 大浴場 ホテル, 太宰府天満宮 紅葉, 博多 屋台 宿, 八百治博多ホテル, ホテルトリフィート博多祇園',

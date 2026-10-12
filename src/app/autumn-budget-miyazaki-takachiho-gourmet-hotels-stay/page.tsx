@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-miyazaki-takachiho-gourmet-hotels-stay/",
+  },
+
   title: '宮崎：高千穂峡紅葉ドライブ拠点＆本場チキン南蛮！2,000円台〜格安ホテル5選',
   description: '神話の里・高千穂峡の柱状節理を彩る見事な紅葉とボート遊覧、本場の絶品チキン南蛮＆極上宮崎牛！宮崎駅・橘通り周辺で1泊2,000円台〜4,000円台で泊まれる高評価ホテル厳選5選。',
 };

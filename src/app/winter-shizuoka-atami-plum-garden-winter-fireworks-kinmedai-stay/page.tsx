@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Sparkles, Snowflake, Mountain, Award, HelpC
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/winter-shizuoka-atami-plum-garden-winter-fireworks-kinmedai-stay/",
+  },
+
   title: '日本一早咲きの熱海梅園と冬海上花火：2026-2027年冬の熱海温泉！絶景オーシャンビュー露天＆金目鯛名宿5選',
   description: '日本一早咲きを誇る熱海梅園の梅まつりと冬の澄んだ夜空を彩る熱海海上花火大会！波打ち際の絶景露天風呂と脂が乗った冬の金目鯛煮付け会席を味わう熱海温泉の人気名旅館5選。',
   keywords: ['静岡県温泉', '熱海梅園', '熱海・伊豆', '冬の旅行', '温泉宿5選', '楽天トラベル', 'ふるさと納税'],

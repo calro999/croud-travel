@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-fukuoka-kurume-ramen-yakitori-hotels-stay/",
+  },
+
   title: '久留米：秋月城跡の紅葉黒門＆元祖とんこつ久留米ラーメン！2,000円台〜格安ホテル5選',
   description: '筑前の小京都「秋月城跡」の黒門を彩る見事な紅葉と柳川こたつ舟！白濁豚骨スープ発祥の「久留米ラーメン」や日本屈指の焼き鳥激戦区グルメ。久留米駅前で1泊2,000円台〜4,000円台の高評価宿5選。',
 };

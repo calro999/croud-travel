@@ -3,6 +3,10 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-miyagi-sendai-onsen-gyutan-hotels-stay/",
+  },
+
   title: '秋の仙台×格安：定禅寺通りのケヤキ紅葉と牛たんグルメ！天然温泉付き1泊4,000円台〜のコスパ最強おすすめホテル5選「2026最新」',
   description: '杜の都・仙台の定禅寺通りの黄金色ケヤキ並木と秋保大滝の紅葉！名物炭火焼き牛たんや秋の「はらこ飯」を堪能。天然温泉大浴場＆サウナ付きでも1泊4,000円〜7,000円台で泊まれる仙台の格安ホテル5選をご紹介。スーパーホテル、ドーミーイン仙台駅前を徹底比較！',
   keywords: '仙台 格安 ホテル, 仙台 天然温泉 ホテル, 定禅寺通り 紅葉, 牛たん 仙台 宿, ドーミーイン仙台駅前, スーパーホテルPremier仙台国分町',

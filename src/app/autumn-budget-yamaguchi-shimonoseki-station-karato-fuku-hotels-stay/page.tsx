@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-yamaguchi-shimonoseki-station-karato-fuku-hotels-stay/",
+  },
+
   title: '下関駅前：唐戸市場の旬とらふく＆名物瓦そば！2,000円台〜泊まれる格安ホテル5選',
   description: '関門海峡を臨む下関！唐戸市場の活気あふれる週末寿司バトル「活きいき馬関街」や秋の味覚・名物とらふく（河豚）、熱々の瓦そば。JR下関駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

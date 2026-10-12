@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-fukushima-iwaki-hawaiians-joban-seafood-hotels-stay/",
+  },
+
   title: 'いわき：常磐ものの秋魚グルメ＆ハワイアンズ拠点！2,000円台〜格安ホテル5選',
   description: '常夏の温泉パラダイス「スパリゾートハワイアンズ」とアクアマリンふくしま！築地・豊洲のプロが絶賛する「常磐もの」のヒラメ・メヒカリ・あんこう鍋。いわき駅周辺で1泊2,000円台〜3,000円台で泊まれる高評価宿5選。',
 };

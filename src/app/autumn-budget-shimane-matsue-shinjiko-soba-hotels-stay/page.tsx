@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-shimane-matsue-shinjiko-soba-hotels-stay/",
+  },
+
   title: '松江・宍道湖：秋の宍道湖七珍・出雲そば＆国宝松江城！3,000円台〜泊まれる格安ホテル5選',
   description: '秋の味覚・宍道湖七珍のシジミ汁や挽きぐるみ出雲そば、湖畔を茜色に染める宍道湖夕日！国宝天守・松江城下で1泊3,000円台〜泊まれる超高コスパ格安宿厳選5選。',
 };

@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-okayama-kurashiki-station-bikan-chiku-hotels-stay/",
+  },
+
   title: '倉敷駅前：美観地区白壁の町並み＆名物ままかり！2,000円台〜泊まれる格安ホテル5選',
   description: '白壁の蔵屋敷と掘割の柳並木が美しい倉敷美観地区！名物ままかり寿司や瀬戸内鮮魚。JR山陽本線・倉敷駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-yamanashi-kofu-wine-houtou-hotels-stay/",
+  },
+
   title: '甲府：新酒甲州ワインと名物ほうとう！3,000円台〜泊まれる格安ホテル5選',
   description: '秋に解禁される山梨の新酒甲州ワインと、かぼちゃの甘みが溶け込む熱々の名物ほうとう！甲府駅周辺・天然温泉付きで1泊3,000円台〜泊まれる超高コスパ格安宿厳選5選。',
 };

@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-aomori-hachinohe-tanesashi-senbeijiru-hotels-stay/",
+  },
+
   title: '八戸：種差海岸の秋風散策と八戸せんべい汁！2,000円台〜泊まれる格安ホテル5選',
   description: '天然芝生が広がる種差海岸の秋絶景と、日本最大級の館鼻岸壁朝市！熱々の具だくさん八戸せんべい汁や八戸前沖サバ。本八戸・八戸駅周辺で1泊2,000円台〜4,000円台の格安・高評価宿5選。',
 };

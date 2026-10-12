@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-hokkaido-otaru-canal-shako-hotels-stay/",
+  },
+
   title: '小樽：秋の味覚シャコ・秋鮭＆運河ガス燈！3,000円台〜泊まれる格安ホテル5選',
   description: '秋限定の小樽名物・大ぶりシャコや旬の秋鮭、ライトアップされた運河のガス燈散策を満喫！小樽駅・運河周辺で1泊3,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

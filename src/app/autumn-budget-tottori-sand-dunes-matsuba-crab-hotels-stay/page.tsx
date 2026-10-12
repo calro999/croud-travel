@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-tottori-sand-dunes-matsuba-crab-hotels-stay/",
+  },
+
   title: '鳥取：解禁の松葉がにと秋風の鳥取砂丘を満喫！格安・高コスパホテル5選',
   description: '11月上旬解禁の冬の味覚の王様「松葉がに」と、風紋が美しく広がる秋の鳥取砂丘！鳥取駅前で1泊3,000円台〜4,000円台で泊まれる格安・高評価ホテル厳選5選。',
 };

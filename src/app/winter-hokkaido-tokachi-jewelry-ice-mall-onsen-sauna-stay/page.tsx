@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Sparkles, Snowflake, Mountain, Award, HelpC
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/winter-hokkaido-tokachi-jewelry-ice-mall-onsen-sauna-stay/",
+  },
+
   title: '極寒の奇跡ジュエリーアイスとモール温泉：2026-2027年冬の十勝川温泉＆極上サウナ宿5選',
   description: '太平洋の大津海岸に打ち上げられる透明な氷の結晶「ジュエリーアイス」！世界でも希少な琥珀色の美肌湯「十勝川モール温泉」と本格フィンランド式サウナ、十勝牛やラクレットチーズを堪能する極上冬宿5選。',
   keywords: ['北海道温泉', 'ジュエリーアイス', '十勝・十勝川温泉・帯広', '冬の旅行', '温泉宿5選', '楽天トラベル', 'ふるさと納税'],

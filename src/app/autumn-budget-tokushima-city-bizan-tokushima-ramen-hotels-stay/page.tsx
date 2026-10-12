@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-tokushima-city-bizan-tokushima-ramen-hotels-stay/",
+  },
+
   title: '徳島市街：眉山秋パノラマ＆甘辛豚バラ徳島ラーメン！4,000円台〜泊まれる格安ホテル5選',
   description: '眉山ロープウェイから眺める阿波の秋景色と吉野川の清流！濃厚甘辛スープに生卵が絡む名物徳島ラーメンや阿波尾鶏。徳島駅・繁華街周辺で1泊4,000円台から泊まれる格安・高コスパホテル5選。',
 };

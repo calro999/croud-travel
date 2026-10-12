@@ -3,6 +3,10 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-wakayama-koyasan-danjo-garan-shukubo-momiji-hotels-stay/",
+  },
+
   title: '秋の高野山：壇上伽藍の蛇腹道紅葉トンネルと奥の院！心洗われるおすすめ歴史宿坊5選「2026最新」',
   description: '標高800mの聖地・高野山は10月下旬から鮮やかな紅葉のピークへ！壇上伽藍と金剛峯寺を結ぶ「蛇腹道（じゃばらみち）」の真紅のトンネル。伝統の精進料理と朝のお勤めを体験できる極上宿坊5選をご紹介。明王院、不動院、西禅院を徹底比較！',
   keywords: '高野山 紅葉, 蛇腹道 ライトアップ, 高野山 宿坊 おすすめ, 金剛峯寺 秋, 明王院 高野山, 不動院 宿坊',

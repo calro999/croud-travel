@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-hokkaido-obihiro-tokachi-butadon-onsen-hotels-stay/",
+  },
+
   title: '帯広：十勝平野の実りの秋と名物豚丼！植物性モール温泉・2,000円台〜ホテル5選',
   description: '黄金色に輝く十勝平野のカラマツ紅葉と秋の収穫祭！炭火香る甘辛タレの名物十勝豚丼と、世界でも希少な美肌の「植物性モール温泉」。帯広駅前で1泊2,000円台〜4,000円台の高評価宿5選。',
 };

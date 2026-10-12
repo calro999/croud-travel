@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-niigata-station-echigo-sake-shinmai-hotels-stay/",
+  },
+
   title: '新潟駅前：新米コシヒカリ＆越後地酒利き酒・万代橋！2,000円台〜泊まれる格安ホテル5選',
   description: '秋の収穫・新米魚沼コシヒカリとぽんしゅ館の越後地酒500種利き酒！国指定重要文化財・萬代橋の信濃川秋夕景。上越新幹線・JR新潟駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

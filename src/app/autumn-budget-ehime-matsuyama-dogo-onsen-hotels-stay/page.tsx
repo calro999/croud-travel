@@ -3,6 +3,10 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-ehime-matsuyama-dogo-onsen-hotels-stay/",
+  },
+
   title: '秋の松山・道後温泉×格安：松山城の紅葉と最古の名湯外湯めぐり！1泊4,000円台〜のコスパ最強おすすめ宿5選「2026最新」',
   description: '改修を終え全館営業を再開した「道後温泉本館」と松山城の秋パノラマ！名物宇和島鯛めしやみかんスイーツを満喫。温泉大浴場やサウナ完備で1泊4,000円〜6,000円台で泊まれる道後・松山市内の格安宿5選。ダイワロイネットホテル松山、喜助の宿、にぎたつ会館を徹底比較！',
   keywords: '道後温泉 格安 宿, 松山 大浴場 ホテル 安い, 松山城 紅葉, 道後温泉本館 外湯めぐり, ダイワロイネットホテル松山, 喜助の宿 松山',

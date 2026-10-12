@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-ehime-matsuyama-station-castle-taimeshi-hotels-stay/",
+  },
+
   title: '松山市駅・大街道：松山城秋のロープウェイ＆名物宇和島鯛めし！2,000円台〜泊まれる格安ホテル5選',
   description: '現存12天守・松山城の紅葉と山頂からのパノラマ絶景！新鮮な真鯛を特製タレと生卵で絡める名物宇和島鯛めし＆松山鯛めし。伊予鉄道・松山市駅や大街道周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

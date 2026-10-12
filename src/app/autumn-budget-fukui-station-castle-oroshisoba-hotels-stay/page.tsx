@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-fukui-station-castle-oroshisoba-hotels-stay/",
+  },
+
   title: '福井駅前：福井城跡秋散歩＆越前おろしそば・ソースカツ丼！3,000円台〜泊まれる格安ホテル5選',
   description: '北陸新幹線延伸で大注目！結城秀康公が築いた福井城跡の内堀と石垣、ピリッと辛味大根が効いた越前おろしそばやヨーロッパ軒の元祖ソースカツ丼。JR福井駅周辺で1泊3,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

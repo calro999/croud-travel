@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-kumamoto-station-castle-akagyu-hotels-stay/",
+  },
+
   title: '熊本駅前：日本三名城熊本城の銀杏紅葉＆名物あか牛丼・馬刺し！4,000円台〜泊まれる格安ホテル5選',
   description: '銀杏城と称される名城・熊本城の大イチョウ黄葉と秋の天守閣！阿蘇の大自然が育んだ名物あか牛丼や本場極上馬刺し、熊本ラーメン。九州新幹線・JR熊本駅周辺で1泊4,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

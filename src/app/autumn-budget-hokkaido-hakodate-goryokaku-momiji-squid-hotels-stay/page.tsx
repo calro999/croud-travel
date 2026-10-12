@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-hokkaido-hakodate-goryokaku-momiji-squid-hotels-stay/",
+  },
+
   title: '函館：五稜郭の星形秋紅葉と名物秋真イカ！2,000円台〜泊まれる格安ホテル5選',
   description: '五稜郭タワーから見下ろす星形の紅葉絨毯と函館山秋夜景！秋に旬を迎える透き通る真イカ刺しや朝市のいくら丼。函館駅・五稜郭周辺で1泊2,000円台〜3,000円台で泊まれる格安・高評価宿5選。',
 };

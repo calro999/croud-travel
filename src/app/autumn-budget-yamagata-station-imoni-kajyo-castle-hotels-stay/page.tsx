@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-yamagata-station-imoni-kajyo-castle-hotels-stay/",
+  },
+
   title: '山形駅前：名物芋煮鍋＆霞城公園紅葉！3,000円台〜泊まれる格安ホテル5選',
   description: '秋の山形名物・里芋と山形牛の絶品芋煮鍋、最上義光公ゆかりの国指定史跡・霞城公園（山形城跡）の紅葉！山形新幹線・山形駅周辺で1泊3,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

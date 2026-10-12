@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-tottori-yonago-station-daisen-crab-hotels-stay/",
+  },
+
   title: '米子駅前：名峰大山の紅葉＆境港紅ズワイガニ！2,000円台〜泊まれる格安ホテル5選',
   description: '西日本屈指の紅葉名所・国立公園大山（伯耆富士）！境港直送の新鮮な紅ズワイガニや大山地鶏・牛骨ラーメン。JR山陰本線・米子駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

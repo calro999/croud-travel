@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-tottori-yonago-daisen-sakaiminato-crab-hotels-stay/",
+  },
+
   title: '米子：国立公園大山の紅葉ドライブ拠点＆境港紅ずわいがに！1,000円台〜ホテル5選',
   description: '西日本屈指の名峰・伯耆富士「大山（だいせん）」の錦秋ブナ林と、水揚げ日本一・境港の紅ずわいがに！皆生温泉の海辺足湯。米子駅前で1泊1,000円台〜3,000円台で泊まれる超高コスパ宿5選。',
 };

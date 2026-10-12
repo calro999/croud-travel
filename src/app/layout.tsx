@@ -231,6 +231,12 @@ export default function RootLayout({
               <div className="flex flex-wrap justify-center gap-4 text-[11px] font-bold text-teal-900/80">
                 <Link href="/" className="hover:text-teal-800">ホーム</Link>
                 <span>•</span>
+                <Link href="/about" className="hover:text-teal-800 text-teal-800">運営者情報・編集方針</Link>
+                <span>•</span>
+                <Link href="/privacy" className="hover:text-teal-800">プライバシーポリシー</Link>
+                <span>•</span>
+                <Link href="/contact" className="hover:text-teal-800">お問い合わせ</Link>
+                <span>•</span>
                 <Link href="/prefectures" className="hover:text-teal-800">都道府県一覧</Link>
                 <span>•</span>
                 <Link href="/features" className="hover:text-teal-800 text-teal-800">特集一覧</Link>

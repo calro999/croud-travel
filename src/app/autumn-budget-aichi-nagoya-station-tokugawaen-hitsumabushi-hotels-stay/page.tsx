@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-aichi-nagoya-station-tokugawaen-hitsumabushi-hotels-stay/",
+  },
+
   title: '名古屋駅前：徳川園錦秋ライトアップ＆名物ひつまぶし・味噌カツ！3,000円台〜泊まれる格安ホテル5選',
   description: '尾張徳川家の大名庭園・徳川園の紅葉ライトアップ！香ばしい炭火焼きのひつまぶしや濃厚味噌カツ、手羽先唐揚げ。東海道新幹線・JR名古屋駅太閤通口（新幹線口）周辺で1泊3,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

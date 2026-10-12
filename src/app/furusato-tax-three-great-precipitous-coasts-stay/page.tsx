@@ -31,6 +31,10 @@ export default function Page() {
   };
 
   return (
+    <>
+      <head>
+        <link rel="canonical" href="https://croud-travel.pages.dev/furusato-tax-three-great-precipitous-coasts-stay/" />
+      </head>
     <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -542,5 +546,6 @@ export default function Page() {
     
       <HubRelatedPosts currentSlug="furusato-tax-three-great-precipitous-coasts-stay" />
 </div>
+    </>
   );
 }

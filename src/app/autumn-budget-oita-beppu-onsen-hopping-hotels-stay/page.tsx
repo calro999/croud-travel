@@ -3,6 +3,10 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-oita-beppu-onsen-hopping-hotels-stay/",
+  },
+
   title: '秋の別府温泉×格安：地獄めぐりと鶴見岳紅葉！源泉かけ流し1泊3,000円台〜のコスパ最強おすすめ宿5選「2026最新」',
   description: '湧出量日本一を誇るおんせん県おおいた・別府温泉！鶴見岳ロープウェイの紅葉パノラマと湯けむり立ちのぼる地獄めぐり。源泉かけ流し温泉付きで1泊3,000円〜6,000円台で泊まれる格安名宿5選。ホテルニューツルタ、清海荘など徹底比較！',
   keywords: '別府温泉 格安 宿, 別府 温泉 素泊まり 安い, 別府 地獄めぐり, 鶴見岳 紅葉, ホテルニューツルタ, 天空湯房 清海荘',

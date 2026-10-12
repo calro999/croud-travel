@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-hokkaido-kushiro-sunset-robata-hotels-stay/",
+  },
+
   title: '釧路：世界三大夕陽の幣舞橋と釧路湿原紅葉！天然温泉・3,000円台〜格安ホテル5選',
   description: 'バリ島・マニラと並び世界三大夕陽と称される釧路「幣舞橋」の感動サンセットと、秋色に染まる広大な釧路湿原！炭火で豪快に焼く名物炉端焼き。釧路駅前で1泊3,000円台〜5,000円台の高評価宿5選。',
 };

@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-yamanashi-kofu-station-shosenkyo-houtou-hotels-stay/",
+  },
+
   title: '甲府駅前：特別名勝昇仙峡の紅葉＆名物ほうとう・甲州ワイン！3,000円台〜泊まれる格安ホテル5選',
   description: '日本一の渓谷美を誇る特別名勝・昇仙峡の錦秋紅葉！カボチャと根菜が染み渡る熱々の名物ほうとうや新酒甲州ワイン。JR中央本線・甲府駅周辺で1泊3,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

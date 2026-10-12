@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-nagano-station-zenkoji-apple-soba-hotels-stay/",
+  },
+
   title: '長野駅前：善光寺秋詣＆信州りんご・戸隠そば！5,000円台〜泊まれる格安ホテル5選',
   description: '一生に一度は善光寺参り！国宝本堂のお戒壇巡りや秋の信州りんごスイーツ、香り高い新そば・戸隠そば。北陸新幹線・JR長野駅周辺で1泊5,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-miyazaki-station-aoshima-chicken-nanban-hotels-stay/",
+  },
+
   title: '宮崎駅前：青島・鬼の洗濯板の秋絶景＆本場チキン南蛮！3,000円台〜泊まれる格安ホテル5選',
   description: '波状岩「鬼の洗濯板」と青島神社の海岸秋散歩！甘酢と濃厚タルタルソースが絡む本場チキン南蛮や極上宮崎牛炭火焼き。JR日豊本線・宮崎駅周辺で1泊3,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

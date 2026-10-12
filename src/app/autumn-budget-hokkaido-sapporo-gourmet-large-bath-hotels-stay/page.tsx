@@ -3,6 +3,10 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-hokkaido-sapporo-gourmet-large-bath-hotels-stay/",
+  },
+
   title: '秋の札幌×格安：紅葉散策とすすきのグルメ！大浴場付き1泊3,000円台〜のコスパ最強おすすめホテル5選「2026最新」',
   description: '北海道大学イチョウ並木の黄金トンネルや中島公園の紅葉！夜はすすきので秋鮭・味噌ラーメン・ジンギスカンを満喫。サウナ＆大浴場完備で1泊3,000円〜5,000円台で泊まれる札幌のコスパ最強ホテル5選をご紹介。ベッセルホテル、三井ガーデン、リソルトリニティを徹底比較！',
   keywords: '札幌 格安 ホテル, 札幌 大浴場 サウナ ホテル, 北大 イチョウ並木 紅葉, すすきの グルメ 宿, ベッセルホテルカンパーナすすきの, 三井ガーデンホテル札幌',

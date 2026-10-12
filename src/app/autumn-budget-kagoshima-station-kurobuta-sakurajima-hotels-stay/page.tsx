@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-kagoshima-station-kurobuta-sakurajima-hotels-stay/",
+  },
+
   title: '鹿児島中央駅前：黒豚しゃぶしゃぶ＆桜島絶景庭園！2,000円台〜泊まれる格安ホテル5選',
   description: '甘み豊かな黒豚しゃぶしゃぶや名物白熊、雄大な桜島を借景にする仙巌園を満喫！九州新幹線・鹿児島中央駅周辺で1泊2,000円台〜泊まれる超高コスパ格安宿厳選5選。',
 };

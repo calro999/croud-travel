@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-shimane-matsue-shinji-lake-sunset-shijimi-hotels-stay/",
+  },
+
   title: '松江：宍道湖の夕日絶景＆旬の宍道湖七珍しじみ汁！3,000円台〜泊まれる格安ホテル5選',
   description: '日本の夕陽百選に選ばれる宍道湖の幻想的な夕暮れと松江城の秋紅葉！秋の脂が乗った宍道湖七珍・しじみ汁や出雲そば。松江駅・しんじ湖温泉周辺で1泊3,000円台〜4,000円台から泊まれる格安・高コスパ宿5選。',
 };

@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-hokkaido-asahikawa-station-sounkyo-ramen-hotels-stay/",
+  },
+
   title: '旭川駅前：大雪山層雲峡の紅葉＆名物旭川醤油ラーメン！2,000円台〜泊まれる格安ホテル5選',
   description: '日本一早い紅葉・大雪山国立公園層雲峡の錦秋断崖美！ラードが香る熱々の名物旭川醤油ラーメンや塩ホルモン。JR函館本線・旭川駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

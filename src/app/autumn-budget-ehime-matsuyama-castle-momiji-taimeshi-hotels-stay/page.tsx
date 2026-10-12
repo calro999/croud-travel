@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-ehime-matsuyama-castle-momiji-taimeshi-hotels-stay/",
+  },
+
   title: '松山：松山城の紅葉絵巻と本場宇和島鯛めし！3,000円台〜格安ホテル5選',
   description: '名城松山城の天守閣を彩る秋モミジと、リニューアル完了の道後温泉本館湯巡り！甘辛ダレと生卵が絡む本場鯛めし。松山駅・大街道周辺で1泊3,000円台〜4,000円台の格安・高評価宿5選。',
 };

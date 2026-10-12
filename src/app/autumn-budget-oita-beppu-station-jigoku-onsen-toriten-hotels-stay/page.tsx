@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-oita-beppu-station-jigoku-onsen-toriten-hotels-stay/",
+  },
+
   title: '別府駅前：湯けむり地獄めぐり＆本場とり天・別府冷麺！2,000円台〜泊まれる格安ホテル5選',
   description: '日本一の湧出量を誇る温泉天国・別府！駅前天然温泉や地獄めぐりの秋景色、名物とり天や別府冷麺。別府駅徒歩1〜3分以内で1泊2,000円台〜3,000円台から泊まれる格安・高コスパホテル5選。',
 };

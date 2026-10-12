@@ -3,6 +3,10 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-osaka-midosuji-ichou-onsen-hotels-stay/",
+  },
+
   title: '秋の大阪×格安：御堂筋の黄金イチョウ並木と道頓堀グルメ！天然温泉＆大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」',
   description: '約4kmにわたる御堂筋のイチョウ並木と大阪城公園の紅葉、USJの秋イベント！たこ焼きや串カツのグルメを食べ歩き、地下から湧き出る天然温泉大浴場で寛げる大阪のコスパ最強格安ホテル5選。スーパーホテル花乃井、リーベルホテル大阪などを徹底比較！',
   keywords: '大阪 格安 ホテル, 大阪 天然温泉 ホテル, 御堂筋 イチョウ並木 紅葉, 道頓堀 グルメ 宿, スーパーホテル大阪天然温泉 花乃井, リーベルホテル大阪',

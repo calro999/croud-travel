@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-tottori-station-sakyu-mosaebi-hotels-stay/",
+  },
+
   title: '鳥取駅前：秋の鳥取和牛・モサエビ＆黄金の鳥取砂丘！3,000円台〜泊まれる格安ホテル5選',
   description: '地元でしか味わえない幻のモサエビや鳥取和牛、風紋が美しく輝く秋の鳥取砂丘！鳥取駅周辺で1泊3,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-tokushima-station-bizan-ramen-hotels-stay/",
+  },
+
   title: '徳島駅前：眉山の秋パノラマ展望＆濃厚徳島ラーメン！4,000円台〜泊まれる格安ホテル5選',
   description: '万葉集にも詠まれた名山・眉山（びざん）ロープウェイからの秋の大パノラマ！甘辛豚バラ肉と生卵が絡む濃厚すき焼き風・徳島ラーメン。JR高徳線・徳島駅周辺で1泊4,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

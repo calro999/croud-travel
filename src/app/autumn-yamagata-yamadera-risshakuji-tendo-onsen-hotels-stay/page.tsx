@@ -3,6 +3,10 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-yamagata-yamadera-risshakuji-tendo-onsen-hotels-stay/",
+  },
+
   title: '秋の山形：山寺（立石寺）の奇岩絶壁紅葉クライミングと天童温泉！美食と名湯を楽しむおすすめ旅館5選「2026最新」',
   description: '松尾芭蕉「閑さや岩にしみ入る蝉の声」の舞台・山寺（宝珠山立石寺）の1015段の石段と五大堂からの錦秋大パノラマ！登山の疲れを癒やす将棋の街・天童温泉の極上宿5選。松の湯、あづま荘、滝の湯の宿泊料金や見どころを詳しくご紹介！',
   keywords: '山寺 紅葉, 立石寺 五大堂 絶景, 天童温泉 旅館, 山形 紅葉 温泉, 天童温泉 滝の湯, 松の湯 天童',

@@ -456,7 +456,7 @@ export default function FeaturePage() {
                   
                 <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「スタッフの接客と美味しい食事に感動!食事が美味しかったのは言うまでもなく、一番驚いたのはスタッフの皆様の意識の高さです。気遣いを含め、接客が本当に素晴らしく、感動いたしました。ぜひまた伺い… つづ。」"}</p>
+                  <p className="leading-relaxed">{"「スタッフの接客と美味しい食事に感動!食事が美味しかったのは言うまでもなく、一番驚いたのはスタッフの皆様の意識の高さです。気遣いを含め、接客が本当に素晴らしく、感動いたしました。ぜひまた伺い…」"}</p>
                 </div>
             
 
@@ -654,7 +654,7 @@ export default function FeaturePage() {
                   
                 <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「マイナスイオンと温泉、食事に大満足!車を降りてすぐにマイナスイオンの空気に感動!とても、良い時期に来たようです。思わず深呼吸してしまいました。温泉はとろとろ、すべすべ。凄いです!食事は地元… つづ。」"}</p>
+                  <p className="leading-relaxed">{"「マイナスイオンと温泉、食事に大満足!車を降りてすぐにマイナスイオンの空気に感動!とても、良い時期に来たようです。思わず深呼吸してしまいました。温泉はとろとろ、すべすべ。凄いです!食事は地元…」"}</p>
                 </div>
             
 

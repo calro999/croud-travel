@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-hokkaido-kushiro-station-sunset-robata-hotels-stay/",
+  },
+
   title: '釧路駅前：世界三大夕日・幣舞橋＆名物炉端焼き・秋刀魚！4,000円台〜泊まれる格安ホテル5選',
   description: 'バリ島・マニラと並ぶ「世界三大夕日」の幣舞橋サンセット！秋に脂が乗り切る名物秋刀魚（サンマ）の炉端焼きや勝手丼、釧路湿原の秋景色。JR根室本線・釧路駅周辺で1泊4,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

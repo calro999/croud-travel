@@ -587,7 +587,7 @@ export default function FeaturePage() {
                     
                 <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「高濃度炭酸泉と清潔なサウナでゆったり温泉最高でした。冷泉の高濃度炭酸が最高に気持ち良いです。サウナも広くて清潔でした。日帰り入浴の方も多いので、泊まりの利用はすいている、夜遅い時間と朝がゆ… つづ。」"}</p>
+                  <p className="leading-relaxed">{"「高濃度炭酸泉と清潔なサウナでゆったり温泉最高でした。冷泉の高濃度炭酸が最高に気持ち良いです。サウナも広くて清潔でした。日帰り入浴の方も多いので、泊まりの利用はすいている、夜遅い時間と朝がゆ…」"}</p>
                 </div>
             
                   </div>

@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-nagano-matsumoto-castle-momiji-hotels-stay/",
+  },
+
   title: '松本：国宝松本城の秋紅葉と新そばを味わう！高コスパ格安ホテル5選',
   description: '秋の松本城の黒漆とモミジのコントラスト、収穫を迎えた風味豊かな信州新そばを堪能！松本駅前や城下町でお得に泊まれる1泊4,000円台〜6,000円台の格安・高評価宿5選をご紹介。',
 };

@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-okinawa-naha-kokusaidori-yatai-orion-hotels-stay/",
+  },
+
   title: '那覇国際通り：秋の心地よい夜風＆屋台村オリオンビール！2,000円台〜泊まれる格安ホテル5選',
   description: '真夏の猛暑が落ち着き、最も過ごしやすい秋の沖縄・那覇！国際通り屋台村で楽しむオリオンビールやあぐー豚、公設市場の新鮮魚介。国際通り徒歩すぐで1泊2,000円台〜3,000円台から泊まれる格安・高コスパ宿5選。',
 };

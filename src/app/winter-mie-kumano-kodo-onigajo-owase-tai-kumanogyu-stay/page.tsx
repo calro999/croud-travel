@@ -535,7 +535,7 @@ export default function FeaturePage() {
                     
                 <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「女性にも優しい魚が美味しい宿素敵なホテルでした目の前が魚釣りできるところなので男性が多いのではないかと思うのですが女性にも優しい宿です食事も残してしまって(品数多くて)申し訳なかったのです… つづ。」"}</p>
+                  <p className="leading-relaxed">{"「女性にも優しい魚が美味しい宿素敵なホテルでした目の前が魚釣りできるところなので男性が多いのではないかと思うのですが女性にも優しい宿です食事も残してしまって(品数多くて)申し訳なかったのです…」"}</p>
                 </div>
             
                   </div>
@@ -597,7 +597,7 @@ export default function FeaturePage() {
                     
                 <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「感想選択肢が無かったので宿泊したが駅前と利便性が良いと思っていたのに食事を取る場所が徒歩圏内に全く無くてビックリ!決して安価では無かったので低レベルのビジネスホテルと言わざる得ない宿だっ… つづ。」"}</p>
+                  <p className="leading-relaxed">{"「感想選択肢が無かったので宿泊したが駅前と利便性が良いと思っていたのに食事を取る場所が徒歩圏内に全く無くてビックリ!決して安価では無かったので低レベルのビジネスホテルと言わざる得ない宿だっ…」"}</p>
                 </div>
             
                   </div>

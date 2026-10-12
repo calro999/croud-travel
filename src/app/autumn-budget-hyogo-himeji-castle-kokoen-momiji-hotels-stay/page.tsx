@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-hyogo-himeji-castle-kokoen-momiji-hotels-stay/",
+  },
+
   title: '姫路：世界遺産姫路城・好古園の紅葉会と姫路おでん！3,000円台〜格安ホテル5選',
   description: '白鷺城の白壁と鮮やかな紅葉の対比、日本庭園「好古園」の紅葉会ライトアップ！生姜醤油で味わう名物姫路おでんと播磨灘の焼き穴子。姫路駅前で1泊3,000円台〜4,000円台の高評価宿5選。',
 };

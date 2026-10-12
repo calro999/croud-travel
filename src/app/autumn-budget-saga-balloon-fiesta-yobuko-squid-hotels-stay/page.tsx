@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-saga-balloon-fiesta-yobuko-squid-hotels-stay/",
+  },
+
   title: '佐賀：アジア最大級バルーンフェスタと呼子イカ・佐賀牛！3,000円台〜格安ホテル5選',
   description: '秋空をカラフルに埋め尽くす100機の熱気球「佐賀インターナショナルバルーンフェスタ」！透明に透き通る名物呼子の活イカ姿造りと最高峰佐賀牛。佐賀駅前で1泊3,000円台〜5,000円台の高評価宿5選。',
 };

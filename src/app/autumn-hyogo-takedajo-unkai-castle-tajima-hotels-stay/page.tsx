@@ -3,6 +3,10 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-hyogo-takedajo-unkai-castle-tajima-hotels-stay/",
+  },
+
   title: '秋の竹田城跡：天空の城の幻想的な雲海と但馬牛グルメ！城下町を満喫するおすすめ宿5選「2026最新」',
   description: '10月〜11月が最も雲海発生率が高まる「天空の城」竹田城跡！早朝の立雲峡から望む雲海に浮かぶ石垣の城と情緒ある城下町散策。朱々、ホテルEN、有斐軒など但馬の味覚と名湯を楽しむ厳選宿5選をご紹介。',
   keywords: '竹田城跡 雲海 見頃, 天空の城 宿, 立雲峡 展望台, 竹田城下町 旅館, ホテルEN 竹田城, 朱々 竹田',

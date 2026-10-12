@@ -3,6 +3,10 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-kanagawa-hakone-sengokuhara-susuki-onsen-hotels-stay/",
+  },
+
   title: '秋の箱根：仙石原すすき草原の黄金絨毯と強羅温泉にごり湯！秋絶景を愛でるおすすめ名宿5選「2026最新」',
   description: '台ヶ岳の山麓に広がる箱根仙石原すすき草原の一面黄金色の波と、大涌谷源泉の乳白色にごり湯を満喫！センチュリオン箱根別邸、BLISSTIA箱根仙石原など、秋の箱根を極上の温泉と美食で満喫する厳選宿5選をご紹介。',
   keywords: '箱根 すすき 草原, 仙石原 ススキ 見頃, 箱根 にごり湯 宿, 強羅温泉 秋, センチュリオン箱根別邸, BLISSTIA箱根仙石原',

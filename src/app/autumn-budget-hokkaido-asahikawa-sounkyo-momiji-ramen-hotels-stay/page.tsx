@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-hokkaido-asahikawa-sounkyo-momiji-ramen-hotels-stay/",
+  },
+
   title: '旭川：日本一早い大雪山紅葉拠点＆旭川ラーメン！2,000円台〜格安ホテル5選',
   description: '日本一早く色づく大雪山・層雲峡の紅葉狩り拠点に最適！ラードが張った熱々の醤油旭川ラーメンや名物塩ホルモン。旭川駅前で1泊2,000円台〜3,000円台で泊まれる格安・高評価ホテル厳選5選。',
 };

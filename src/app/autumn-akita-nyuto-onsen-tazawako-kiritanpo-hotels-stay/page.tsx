@@ -3,6 +3,10 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-akita-nyuto-onsen-tazawako-kiritanpo-hotels-stay/",
+  },
+
   title: '秋の乳頭温泉郷・田沢湖：ブナ原生林の黄金紅葉と名物きりたんぽ鍋！憧れの秘湯温泉宿5選「2026最新」',
   description: '十和田八幡平国立公園のブナ林が黄金色に染まる乳頭温泉郷の秋！乳白色の名湯露天風呂と新米の秋田名物「きりたんぽ鍋」を味わう至福の秘湯ステイ。休暇村乳頭温泉郷、花心亭しらはまなど厳選5宿の見どころを詳しくご紹介！',
   keywords: '乳頭温泉郷 紅葉, 田沢湖 紅葉 宿, 乳頭温泉 秘湯, きりたんぽ鍋 秋田, 休暇村 乳頭温泉郷, 花心亭しらはま',

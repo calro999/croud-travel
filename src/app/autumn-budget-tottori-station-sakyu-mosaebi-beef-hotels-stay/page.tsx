@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-tottori-station-sakyu-mosaebi-beef-hotels-stay/",
+  },
+
   title: '鳥取駅前：黄金の鳥取砂丘＆幻のモサエビ・鳥取和牛！3,000円台〜泊まれる格安ホテル5選',
   description: '山陰海岸国立公園・鳥取砂丘の美しい風紋と日本海の秋の夕日！地元でしか味わえない幻の「モサエビ」や上質な鳥取和牛。JR山陰本線・鳥取駅周辺で1泊3,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

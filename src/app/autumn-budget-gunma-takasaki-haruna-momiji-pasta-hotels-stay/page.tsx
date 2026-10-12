@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-gunma-takasaki-haruna-momiji-pasta-hotels-stay/",
+  },
+
   title: '高崎：榛名湖・妙義山紅葉ドライブ拠点＆高崎パスタ！3,000円台〜格安ホテル5選',
   description: '榛名富士が湖面に映る榛名湖紅葉や妙義山の岩峰美！パスタの街・高崎でボリューム満点の名物シャンゴ風パスタや焼きまんじゅう。高崎駅前で1泊3,000円台〜5,000円台で泊まれる格安・高評価ホテル厳選5選。',
 };

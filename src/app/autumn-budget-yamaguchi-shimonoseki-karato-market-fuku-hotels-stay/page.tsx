@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-yamaguchi-shimonoseki-karato-market-fuku-hotels-stay/",
+  },
+
   title: '下関：唐戸市場の秋ふく・海鮮握り＆関門海峡絶景！2,000円台〜泊まれる格安ホテル5選',
   description: '関門海峡の秋風と唐戸市場の活気！旬の天然とらふぐや新鮮握り寿司、関門人道トンネル散策。下関駅・唐戸周辺で1泊2,000円台〜3,000円台から泊まれる格安・高コスパホテル5選。',
 };

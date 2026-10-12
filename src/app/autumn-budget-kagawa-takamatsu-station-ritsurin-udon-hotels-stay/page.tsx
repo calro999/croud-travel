@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-kagawa-takamatsu-station-ritsurin-udon-hotels-stay/",
+  },
+
   title: '高松駅前：特別名勝栗林公園秋ライトアップ＆本場讃岐うどん！3,000円台〜泊まれる格安ホテル5選',
   description: '一歩一景の大名庭園・栗林公園の秋の紅葉ライトアップ！朝から並ぶ本場讃岐うどんの名店巡りや名物骨付鳥。JR予讃線・高松駅周辺で1泊3,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

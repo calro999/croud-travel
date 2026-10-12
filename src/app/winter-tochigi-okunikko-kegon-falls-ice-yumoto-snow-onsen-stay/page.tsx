@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Sparkles, Snowflake, Mountain, Award, HelpC
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/winter-tochigi-okunikko-kegon-falls-ice-yumoto-snow-onsen-stay/",
+  },
+
   title: '奥日光華厳の滝ブルーアイス氷瀑と乳白色硫黄泉：2026-2027年冬の日光湯元温泉！雪見露天ととちぎ和牛名宿5選',
   description: '落差97mの日本三名瀑が青く凍りつく「華厳の滝ブルーアイス」と中禅寺湖の雪景色！国民保養温泉地第1号の奥日光湯元温泉（濃厚乳白色硫黄泉）の雪見露天、とちぎ和牛と日光湯波会席を味わう至高の5宿。',
   keywords: ['栃木県温泉', '華厳滝', '奥日光・日光湯元温泉・中禅寺湖', '冬の旅行', '温泉宿5選', '楽天トラベル', 'ふるさと納税'],

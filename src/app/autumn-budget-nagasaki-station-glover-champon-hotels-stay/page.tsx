@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-nagasaki-station-glover-champon-hotels-stay/",
+  },
+
   title: '長崎駅前：グラバー園秋散歩＆本場長崎ちゃんぽん！2,000円台〜泊まれる格安ホテル5選',
   description: '世界遺産・グラバー園のレトロ洋館と秋の南山手散歩！鶏ガラと豚骨の濃厚白湯・本場長崎ちゃんぽんや皿うどん。西九州新幹線・JR長崎駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-aichi-toyohashi-houraijisan-curry-udon-hotels-stay/",
+  },
+
   title: '豊橋：鳳来寺山・香嵐渓紅葉ドライブ拠点＆豊橋カレーうどん！2,000円台〜格安ホテル5選',
   description: '1425段の石段とモミジが美しい奥三河の名刹「鳳来寺山」や香嵐渓！底にご飯ととろろが隠れた名物「豊橋カレーうどん」やヤマサのちくわ。豊橋駅前で1泊2,000円台〜4,000円台で泊まれる高評価宿5選。',
 };

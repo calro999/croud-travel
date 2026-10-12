@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-tokushima-iya-valley-momiji-ramen-hotels-stay/",
+  },
+
   title: '徳島：大歩危・祖谷渓の秘境紅葉と阿波尾鶏！4,000円台〜泊まれる格安ホテル5選',
   description: '日本三大秘境「祖谷渓のかずら橋」や大歩危峡の絶壁紅葉！甘辛スープの徳島ラーメンや地鶏阿波尾鶏を堪能。徳島駅前で1泊4,000円台から泊まれる格安・高評価ホテル厳選5選。',
 };

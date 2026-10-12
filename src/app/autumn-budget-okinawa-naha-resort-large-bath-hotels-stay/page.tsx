@@ -3,6 +3,10 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-okinawa-naha-resort-large-bath-hotels-stay/",
+  },
+
   title: '秋の沖縄・那覇×格安：快適オフシーズン旅！大浴場付き1泊2,000円〜5,000円台の高コスパリゾートホテル5選「2026最新」',
   description: '猛暑と台風が去り、最高気温25度前後の最も過ごしやすい秋の沖縄！オフシーズンで宿泊費が大幅ダウンする今こそチャンス。国際通り近くで大浴場やサウナ完備の格安ホテル5選。ワイズキャビン那覇、ダイワロイネット国際通り、ホテルリソルトリニティを徹底比較！',
   keywords: '那覇 格安 ホテル, 沖縄 大浴場 ホテル, 那覇 国際通り ホテル 安い, 秋の沖縄 旅行, ワイズキャビン那覇国際通り, ホテルリソルトリニティ那覇',

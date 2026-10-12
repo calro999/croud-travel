@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-tochigi-utsunomiya-station-gyoza-oya-hotels-stay/",
+  },
+
   title: '宇都宮駅前：日光紅葉前泊＆名物宇都宮餃子・大谷石地下宮殿！2,000円台〜泊まれる格安ホテル5選',
   description: '日光・中禅寺湖の紅葉狩り前泊に最適！パリッとジューシーな宇都宮餃子食べ比べや大谷資料館の巨大地下空間。東北新幹線・JR宇都宮駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

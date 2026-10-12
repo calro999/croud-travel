@@ -254,7 +254,7 @@ export default function FurusatoNightSkyBarLoungeStayPage() {
                     世界新三大夜景に選ばれた長崎港のすり鉢状の夜景を一望する稲佐山の中腹に佇む、建築家・隈研吾氏設計によるスタイリッシュなデザイナーズリゾート。全客室が広々としたオーシャン＆夜景ビューのテラス付きで、宿泊者は専用クラブラウンジでシャンパンや長崎銘菓を自由に楽しめます。最上階の天空バーや創作鉄板焼きレストランからは、宝石箱をひっくり返したかのような長崎1000万ドルの夜景が広がり、日常のすべてを忘れさせる非日常の贅沢に包まれます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「ロケーション、部屋からの眺めは最高です。長崎駅からの送迎もあって便利です。ベットの隙間に前に宿泊していた方のヘアブラシが落ちてたり、バスタブに水アカが残ってい… つづ。」
+                    「ロケーション、部屋からの眺めは最高です。長崎駅からの送迎もあって便利です。ベットの隙間に前に宿泊していた方のヘアブラシが落ちてたり、バスタブに水アカが残ってい…」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">

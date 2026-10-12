@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-mie-yokkaichi-gozaisho-tonteki-hotels-stay/",
+  },
+
   title: '四日市：御在所岳の三段紅葉とスタミナ四日市とんてき！2,000円台〜格安ホテル5選',
   description: '山頂から山麓へとグラデーションで移り変わる御在所岳ロープウェイの「三段紅葉」！ニンニクと濃厚甘辛タレが絡む元祖四日市とんてき。近鉄四日市駅前で1泊2,000円台〜4,000円台の高評価宿5選。',
 };

@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-tottori-yonago-station-crab-hotels-stay/",
+  },
+
   title: '米子駅前：秋の境港紅ズワイガニ＆大山紅葉！3,000円台〜泊まれる格安ホテル5選',
   description: '日本一の水揚げを誇る境港の秋解禁・紅ズワイガニや大山地鶏の旨味を堪能！伯耆富士・大山の雄大な紅葉を望む米子駅周辺で1泊3,000円台〜泊まれる格安ホテル厳選5選。',
 };

@@ -592,7 +592,7 @@ export default function FeaturePage() {
                     
                 <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「ずっと気になってた新木鉱泉さんの枠が空いてたので利用させていただきました。お風呂は自慢の鉱泉だけあって、滑らかに身体に馴染みます。外の露天風呂と源泉の水風呂の交互浴を繰り返し入ることで気持… つづ。」"}</p>
+                  <p className="leading-relaxed">{"「ずっと気になってた新木鉱泉さんの枠が空いてたので利用させていただきました。お風呂は自慢の鉱泉だけあって、滑らかに身体に馴染みます。外の露天風呂と源泉の水風呂の交互浴を繰り返し入ることで気持…」"}</p>
                 </div>
             
                   </div>

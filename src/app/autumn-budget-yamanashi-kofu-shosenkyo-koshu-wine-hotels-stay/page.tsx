@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-yamanashi-kofu-shosenkyo-koshu-wine-hotels-stay/",
+  },
+
   title: '甲府：御岳昇仙峡の渓谷紅葉と甲州新酒ワイン！3,000円台〜格安ホテル5選',
   description: '日本一の渓谷美「御岳昇仙峡」の覚円峰を彩る紅葉と仙娥滝！解禁を迎えるフルーティーな甲州新酒ワインと熱々の甲州ほうとう。甲府周辺で1泊3,000円台〜5,000円台の高評価ホテル厳選5選。',
 };

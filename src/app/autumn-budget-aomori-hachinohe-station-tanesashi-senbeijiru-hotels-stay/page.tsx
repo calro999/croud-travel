@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-aomori-hachinohe-station-tanesashi-senbeijiru-hotels-stay/",
+  },
+
   title: '八戸駅・本八戸：種差海岸の秋絶景＆館鼻岸壁朝市・せんべい汁！2,000円台〜泊まれる格安ホテル5選',
   description: '三陸復興国立公園・種差海岸の天然芝生地と雄大な太平洋！巨大朝市「館鼻岸壁朝市」の活気や出汁が染みる名物八戸せんべい汁・前沖サバ。JR八戸駅・本八戸駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

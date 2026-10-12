@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-shizuoka-nihondaira-fuji-oden-hotels-stay/",
+  },
+
   title: '静岡：日本平の富士山絶景と黒おでん！1,000円台〜泊まれる格安ホテル5選',
   description: '澄み渡る秋空に映える霊峰富士と日本平の秋景色、青葉横丁で熱々の静岡黒おでんを堪能！静岡駅前で1泊1,000円台〜3,000円台で泊まれる超高コスパ格安ホテル厳選5選。',
 };

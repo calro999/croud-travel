@@ -3,6 +3,10 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-shizuoka-izu-shuzenji-bamboo-path-momiji-hotels-stay/",
+  },
+
   title: '秋の伊豆・修善寺温泉：竹林の小径紅葉と桂川の清流散策！歴史薫る風雅なおすすめ名旅館5選「2026最新」',
   description: '「伊豆の小京都」修善寺温泉の竹林の小径と桂川に架かる朱塗りの橋を彩る鮮やかな紅葉。文化財の老舗宿や野趣あふれる離れ宿など厳選5宿をご紹介。柳生の庄、宙SORA、新井旅館の魅力を徹底比較！',
   keywords: '修善寺温泉 紅葉, 竹林の小径 見頃, 伊豆 修善寺 旅館, 柳生の庄, 新井旅館 文化財, 宙SORA 渡月荘金龍',

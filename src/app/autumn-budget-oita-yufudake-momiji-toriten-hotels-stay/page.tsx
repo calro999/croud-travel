@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-oita-yufudake-momiji-toriten-hotels-stay/",
+  },
+
   title: '大分：由布岳・くじゅう連山紅葉拠点＆豊後グルメ！2,000円台〜格安ホテル5選',
   description: 'くじゅう連山・由布岳の山肌を染める一面のススキと紅葉！本場の関あじ・とり天・豊後牛を堪能。大分駅前で1泊2,000円台〜3,000円台で泊まれる超高コスパホテル厳選5選。',
 };

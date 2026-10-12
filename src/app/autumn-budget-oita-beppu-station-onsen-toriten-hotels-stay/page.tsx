@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-oita-beppu-station-onsen-toriten-hotels-stay/",
+  },
+
   title: '別府駅前：名湯めぐり＆名物とり天・地獄蒸し！2,000円台〜泊まれる格安ホテル5選',
   description: '日本一のおんせん県・別府！駅前天然温泉や名物とり天、別府冷麺、立ち上る湯けむりの別府八湯。JR日豊本線・別府駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-kochi-modorigatsuo-hirome-market-hotels-stay/",
+  },
+
   title: '高知：高知城の秋紅葉と戻り鰹の塩タタキ！3,000円台〜格安ホテル5選',
   description: '追手門と天守閣を彩る高知城の錦秋と、脂が乗り切った秋の「戻り鰹（かつお）の塩タタキ」！ひろめ市場で豪快な昼飲み＆屋台餃子。高知駅・はりまや橋周辺で1泊3,000円台〜5,000円台の高評価宿5選。',
 };

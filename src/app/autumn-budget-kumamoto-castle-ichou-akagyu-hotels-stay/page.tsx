@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-kumamoto-castle-ichou-akagyu-hotels-stay/",
+  },
+
   title: '熊本：銀杏城の黄金イチョウと阿蘇あか牛！3,000円台〜泊まれる格安ホテル5選',
   description: '大天守前にそびえる大イチョウが黄金に輝く名城「熊本城（別名：銀杏城）」！旨味凝縮のヘルシーな阿蘇あか牛丼や焦がしニンニク黒マー油の熊本ラーメン。熊本市内・駅前で1泊3,000円台〜4,000円台の高評価宿5選。',
 };

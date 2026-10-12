@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-nagasaki-station-champon-dejima-hotels-stay/",
+  },
+
   title: '長崎駅前：秋の長崎ちゃんぽん・卓袱料理＆夜景！2,000円台〜泊まれる格安ホテル5選',
   description: '濃厚白湯スープの熱々長崎ちゃんぽんや皿うどん、世界新三大夜景の稲佐山パノラマ！西九州新幹線・長崎駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

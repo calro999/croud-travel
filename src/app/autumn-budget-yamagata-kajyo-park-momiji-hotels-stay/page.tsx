@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-yamagata-kajyo-park-momiji-hotels-stay/",
+  },
+
   title: '山形：霞城公園の秋紅葉と本場芋煮を満喫！格安・高コスパホテル5選',
   description: '秋の山形城跡・霞城公園を彩る見事な紅葉と、河原や名店で味わう熱々の本場芋煮！山形駅周辺でお得に泊まれる1泊3,000円台〜5,000円台の格安・高評価ホテル厳選5選。',
 };

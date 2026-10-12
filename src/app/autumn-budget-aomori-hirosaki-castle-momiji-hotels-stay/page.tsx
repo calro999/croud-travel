@@ -3,6 +3,10 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-aomori-hirosaki-castle-momiji-hotels-stay/",
+  },
+
   title: '秋の弘前×格安：弘前城菊と紅葉まつりと焼きたてアップルパイ！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」',
   description: '約1,000本のモミジが天守とお濠を染める「弘前城菊と紅葉まつり」の幻想的なライトアップ！名物アップルパイの食べ比べや津軽ラーメンを満喫。サウナ＆天然温泉大浴場付きで1泊4,000円〜7,000円台で泊まれる弘前の格安ホテル5選。アートホテル弘前シティ、ドーミーイン弘前などを徹底比較！',
   keywords: '弘前 格安 ホテル, 弘前 大浴場 天然温泉 ホテル, 弘前城菊と紅葉まつり, アップルパイ 弘前, アートホテル弘前シティ, ドーミーイン弘前',

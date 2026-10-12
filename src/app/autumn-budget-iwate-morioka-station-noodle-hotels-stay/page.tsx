@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-iwate-morioka-station-noodle-hotels-stay/",
+  },
+
   title: '盛岡駅前：秋の盛岡三大麺＆盛岡城跡紅葉！3,000円台〜泊まれる格安ホテル5選',
   description: '盛岡冷麺・わんこそば・じゃじゃ麺の三大麺ハシゴ旅と、石垣を赤く染める盛岡城跡公園の錦秋！東北新幹線・盛岡駅周辺で1泊3,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

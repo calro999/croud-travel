@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-aomori-station-nokkedon-apple-hotels-stay/",
+  },
+
   title: '青森駅前：名物のっけ丼＆旬の津軽りんご・地酒！5,000円台〜泊まれる格安ホテル5選',
   description: '青森魚菜センターの自分だけ海鮮丼「元祖のっけ丼」、秋の完熟津軽りんごや十三湖しじみラーメン！JR奥羽本線・青森駅周辺で泊まれる超高コスパ格安ホテル厳選5選。',
 };

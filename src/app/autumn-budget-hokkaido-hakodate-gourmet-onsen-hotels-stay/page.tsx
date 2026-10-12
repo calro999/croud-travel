@@ -3,6 +3,10 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-hokkaido-hakodate-gourmet-onsen-hotels-stay/",
+  },
+
   title: '秋の函館×格安：五稜郭の紅葉と海鮮グルメ！1泊2,000円〜5,000円台の高コスパおすすめホテル5選「2026最新」',
   description: '星形の城郭が秋色に染まる特別史跡・五稜郭跡と函館山の秋夜景！朝食いくら食べ放題や源泉かけ流し温泉付きでも1泊2,000円〜5,000円台で泊まれる函館のコスパ最強ホテル5選。ホテルエノエ、オールインステイ、イマジンホテルの魅力を徹底比較！',
   keywords: '函館 格安 ホテル, 函館 朝食 美味しい ホテル, 五稜郭 紅葉, 函館山 夜景 宿, ホテルエノエ函館, ホテルオールインステイ函館',

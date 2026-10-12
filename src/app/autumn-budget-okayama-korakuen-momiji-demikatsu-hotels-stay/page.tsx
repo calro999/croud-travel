@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-okayama-korakuen-momiji-demikatsu-hotels-stay/",
+  },
+
   title: '岡山：後楽園・烏城の秋紅葉と名物デミカツ丼！2,000円台〜格安ホテル5選',
   description: '日本三名園「岡山後楽園」の錦秋ライトアップと漆黒の岡山城（烏城）！濃厚デミグラスソースが絶品のデミカツ丼や秋鰆。岡山駅前で1泊2,000円台〜4,000円台で泊まれる格安・高評価ホテル厳選5選。',
 };

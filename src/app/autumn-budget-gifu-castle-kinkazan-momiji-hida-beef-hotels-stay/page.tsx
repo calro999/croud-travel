@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-gifu-castle-kinkazan-momiji-hida-beef-hotels-stay/",
+  },
+
   title: '岐阜：金華山・岐阜城のパノラマ紅葉と飛騨牛グルメ！2,000円台〜格安ホテル5選',
   description: '黄金色に染まる金華山と難攻不落の岐阜城天守閣からの絶景！名物飛騨牛や落ち鮎を堪能する秋旅。岐阜駅周辺で1泊2,000円台〜5,000円台で泊まれる格安・高評価ホテル厳選5選。',
 };

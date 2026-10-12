@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-hokkaido-otaru-station-canal-sushi-hotels-stay/",
+  },
+
   title: '小樽駅前：小樽運河秋散歩＆秋シャコ・小樽寿司！2,000円台〜泊まれる格安ホテル5選',
   description: '石造倉庫群とガス灯が灯るノスタルジックな小樽運河！秋に旬を迎える小樽産「秋シャコ」や新鮮な小樽寿司、ルタオのスイーツ。JR函館本線・小樽駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

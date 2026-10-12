@@ -3,6 +3,10 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-nagano-kamikochi-shirahone-onsen-autumn-hotels-stay/",
+  },
+
   title: '秋の上高地・白骨温泉：カラマツ黄葉と乳白色の秘湯！閉山前に訪れたい絶景名宿5選「2026最新」',
   description: '11月中旬の閉山祭を前に黄金色に染まる上高地のカラマツ並木と穂高連峰。湯川渓谷に湧く「3日入れば3年風邪をひかない」白骨温泉の乳白色露天風呂を満喫！小梨の湯笹屋、湯元齋藤旅館など秋の秘湯宿5選をご紹介。',
   keywords: '上高地 黄葉, カラマツ 黄金, 白骨温泉 宿, 上高地 閉山祭, 小梨の湯 笹屋, 湯元齋藤旅館',

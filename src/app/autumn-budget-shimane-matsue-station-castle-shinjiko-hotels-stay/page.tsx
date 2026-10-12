@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-shimane-matsue-station-castle-shinjiko-hotels-stay/",
+  },
+
   title: '松江駅前：国宝松江城・宍道湖の夕日＆名物出雲そば・しじみ汁！5,000円台〜泊まれる格安ホテル5選',
   description: '千鳥城と親しまれる国宝・松江城の秋の紅葉と日本の夕日百選・宍道湖サンセット！挽きぐるみの香り高い割子そばや濃厚しじみ汁。JR山陰本線・松江駅周辺で1泊5,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

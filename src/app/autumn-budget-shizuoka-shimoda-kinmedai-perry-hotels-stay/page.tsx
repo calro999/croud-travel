@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-shizuoka-shimoda-kinmedai-perry-hotels-stay/",
+  },
+
   title: '伊豆下田：旬の金目鯛煮付け＆名湯満喫！3,000円台〜泊まれる格安温泉ホテル5選',
   description: '秋に脂が乗り最高潮の旨味を誇る下田名物「金目鯛の煮付け」と黒船来航の歴史情緒を満喫！伊豆急下田駅周辺・下田温泉で3,000円台〜泊まれる格安・高コスパ宿厳選5選。',
 };

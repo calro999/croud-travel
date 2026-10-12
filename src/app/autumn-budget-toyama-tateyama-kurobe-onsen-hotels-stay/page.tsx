@@ -3,6 +3,10 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-toyama-tateyama-kurobe-onsen-hotels-stay/",
+  },
+
   title: '秋の富山×格安：立山連峰の三段紅葉と富山湾の白えび・紅ズワイガニ！天然温泉付き1泊4,000円〜6,000円台のコスパ最強ホテル5選「2026最新」',
   description: '立山黒部アルペンルートや黒部峡谷トロッコ電車の紅葉拠点！富山湾の「白えび」や秋解禁の紅ズワイガニを満喫。サウナ＆天然温泉大浴場付きで1泊4,000円〜6,000円台で泊まれる富山駅周辺の格安ホテル5選。富山マンテンホテル、御宿野乃富山を徹底比較！',
   keywords: '富山 格安 ホテル, 富山 天然温泉 ホテル 安い, 立山黒部アルペンルート 紅葉 宿, 富山湾 白えび グルメ, 富山マンテンホテル, 御宿野乃富山',

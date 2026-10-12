@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-tochigi-utsunomiya-station-gyoza-hotels-stay/",
+  },
+
   title: '宇都宮駅前：熱々宇都宮餃子ハシゴ旅＆大谷石散策！2,000円台〜泊まれる格安ホテル5選',
   description: 'パリッと香ばしい焼き餃子・水餃子のハシゴ旅と、幻想的な地下宮殿・大谷資料館散策！新幹線停車・宇都宮駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

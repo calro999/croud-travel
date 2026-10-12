@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-miyazaki-city-chicken-nanban-miyazakigyu-hotels-stay/",
+  },
+
   title: '宮崎市街：本場チキン南蛮＆極上宮崎牛！2,000円台〜泊まれる格安ホテル5選',
   description: '青島神社や高千穂への拠点となる南国宮崎！本場の甘酢タルタルが絡む発祥チキン南蛮や日本一の宮崎牛、地鶏炭火焼き。宮崎駅・橘通り周辺で1泊2,000円台〜3,000円台から泊まれる格安・高コスパホテル5選。',
 };

@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-toyama-station-shiroebi-crab-hotels-stay/",
+  },
+
   title: '富山：秋の白えび・紅ズワイガニ満喫！富山駅前の格安・高コスパホテル5選',
   description: '秋の富山湾が誇る極上グルメ「富山湾の宝石・白えび」や旬を迎える紅ズワイガニを堪能！北陸新幹線・富山駅周辺で1泊4,000円台〜泊まれる好立地＆格安おすすめホテル厳選5選。',
 };

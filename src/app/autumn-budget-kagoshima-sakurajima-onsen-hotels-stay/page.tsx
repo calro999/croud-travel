@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-kagoshima-sakurajima-onsen-hotels-stay/",
+  },
+
   title: '鹿児島：桜島一望と黒豚しゃぶしゃぶを満喫！秋の温泉・高コスパ格安宿5選',
   description: '秋の鹿児島旅を満喫する格安＆高コスパな温泉・ビジネスホテル厳選5選！桜島の雄大な絶景や名物黒豚しゃぶしゃぶ、天然温泉を1人1泊3,000円台〜5,000円台でお得に楽しむ滞在プランをご案内。',
 };

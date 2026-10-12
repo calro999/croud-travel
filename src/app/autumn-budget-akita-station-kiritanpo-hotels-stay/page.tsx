@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-akita-station-kiritanpo-hotels-stay/",
+  },
+
   title: '秋田駅前：新米きりたんぽ鍋＆千秋公園紅葉！2,000円台〜泊まれる格安ホテル5選',
   description: '秋の新米あきたこまちで作る本場の熱々きりたんぽ鍋や比内地鶏、久保田城跡・千秋公園の美しい紅葉！秋田新幹線・秋田駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

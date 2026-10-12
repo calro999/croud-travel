@@ -3,6 +3,10 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-kyoto-momiji-large-bath-hotels-stay/",
+  },
+
   title: '秋の京都×格安：紅葉狩りをお得に満喫！大浴場・サウナ付き1泊4,000円台〜のコスパ最強おすすめホテル5選「2026最新」',
   description: '宿泊費が高騰する秋の京都で賢く旅する！清水寺や東福寺の紅葉狩り、夜間ライトアップ後にゆったり足を伸ばせる大浴場・サウナ完備の格安ホテル5選。ロワジールホテル京都東寺、ホテルエルシエントなど1泊4,000円〜7,000円台の高評価宿を徹底比較！',
   keywords: '京都 格安 ホテル, 京都 大浴場 ホテル, 京都 紅葉 宿泊 安い, ロワジールホテル京都東寺, ホテルエルシエント京都八条口, ベッセルホテルカンパーナ京都五条',

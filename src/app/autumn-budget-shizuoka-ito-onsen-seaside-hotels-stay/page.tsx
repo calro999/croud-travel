@@ -3,6 +3,10 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-shizuoka-ito-onsen-seaside-hotels-stay/",
+  },
+
   title: '秋の伊東温泉×格安：伊豆高原の紅葉とオーシャンビュー！1泊4,000円台〜のコスパ最強おすすめ温泉宿5選「2026最新」',
   description: '東京から踊り子号で一本！相模湾を望む伊東温泉と大室山・一碧湖の紅葉散策。源泉かけ流しの美肌温泉や海の幸バイキング付きでも1泊4,000円〜7,000円台で泊まれる格安名宿5選。ホテルよしの、ラヴィエ川良、松川館などを徹底比較！',
   keywords: '伊東温泉 格安 宿, 伊豆 格安 温泉 ホテル, 一碧湖 紅葉, 大室山 秋, ホテルよしの 伊東, ホテルラヴィエ川良',

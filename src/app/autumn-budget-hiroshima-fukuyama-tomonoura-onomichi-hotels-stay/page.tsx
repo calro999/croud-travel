@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-hiroshima-fukuyama-tomonoura-onomichi-hotels-stay/",
+  },
+
   title: '福山・尾道：鞆の浦の秋夕陽と尾道水道紅葉！3,000円台〜格安ホテル5選',
   description: '常夜燈が浮かぶ歴史港町「鞆の浦」の秋夕陽と、千光寺公園から望む尾道水道の紅葉パノラマ！背脂ミンチが浮かぶ本場尾道ラーメンや小魚料理。福山駅前で1泊3,000円台で泊まれる高評価宿5選。',
 };

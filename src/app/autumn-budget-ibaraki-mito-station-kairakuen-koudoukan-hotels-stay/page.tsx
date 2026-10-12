@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-ibaraki-mito-station-kairakuen-koudoukan-hotels-stay/",
+  },
+
   title: '水戸駅前：国指定特別史跡弘道館＆名物あんこう鍋！2,000円台〜泊まれる格安ホテル5選',
   description: '水戸徳川家の藩校・弘道館の秋の風情と偕楽園、旬を迎える濃厚あんこう鍋！JR常磐線・水戸駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

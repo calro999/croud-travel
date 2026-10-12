@@ -254,7 +254,7 @@ export default function FurusatoFootbathCafeAshiyuStayPage() {
                     黒川温泉を流れる田の原川の渓流沿いに佇み、茅葺き屋根の門をくぐると看板犬が温かく出迎えてくれる風情豊かな名旅館。川沿いには誰でも気軽に立ち寄れる足湯が設けられており、川のせせらぎに耳を澄ませながら足元からポカポカと温まることができます。宿の名物は黒川温泉で一番の広さを誇る大露天風呂「仙人風呂」や立ち湯、プライベートな貸切風呂。夕食には熊本名物の馬刺しや肥後あか牛のステーキ、地元小国の高原野菜を使った心尽くしの会席料理が並び、温かな九州の温泉情緒に包まれます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「お風呂お料理、お部屋も川に面してとても良かったです。夕食はお腹いっぱ… つづ。」
+                    「お風呂お料理、お部屋も川に面してとても良かったです。夕食はお腹いっぱ…」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">

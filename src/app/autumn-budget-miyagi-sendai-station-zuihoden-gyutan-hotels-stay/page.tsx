@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-miyagi-sendai-station-zuihoden-gyutan-hotels-stay/",
+  },
+
   title: '仙台駅前：瑞鳳殿紅葉ライトアップ＆名物牛たん炭火焼き！2,000円台〜泊まれる格安ホテル5選',
   description: '杜の都・仙台！伊達政宗公が眠る瑞鳳殿の極彩色建築と秋の紅葉ライトアップ、ジューシーで肉厚な名物牛たん炭火焼きやずんだ餅。東北新幹線・JR仙台駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

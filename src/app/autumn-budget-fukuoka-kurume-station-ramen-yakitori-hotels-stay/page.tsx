@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-fukuoka-kurume-station-ramen-yakitori-hotels-stay/",
+  },
+
   title: '久留米駅前：高良大社の紅葉パノラマ＆元祖豚骨久留米ラーメン・焼き鳥！2,000円台〜泊まれる格安ホテル5選',
   description: '筑後国一宮・高良大社からの筑後平野秋パノラマと紅葉谷！白濁濃厚豚骨スープ発祥の「元祖久留米ラーメン」や名物ダルムの焼き鳥。九州新幹線・JR久留米駅や西鉄久留米駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。',
 };

@@ -3,6 +3,10 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-shiga-biwako-valley-ogoto-onsen-hotels-stay/",
+  },
+
   title: '秋の琵琶湖：びわ湖バレイの紅葉テラスとおごと温泉！近江牛とレイクビューを満喫するおすすめ名宿5選「2026最新」',
   description: '標高1100mの「びわ湖テラス」から見下ろす紅葉とびわ湖ブルーの大パノラマ！比叡山延暦寺の紅葉巡りにも最適な開湯1200年のおごと温泉。暖灯館きくのや、びわ湖花街道、湯元館など近江牛会席と美肌温泉の極上宿5選を徹底解説！',
   keywords: 'びわ湖バレイ 紅葉, びわ湖テラス 秋, おごと温泉 宿, 比叡山延暦寺 紅葉, おごと温泉 暖灯館きくのや, びわ湖花街道',

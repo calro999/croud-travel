@@ -3,6 +3,10 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-shizuoka-sumatakyo-yume-no-tsuribashi-hotels-stay/",
+  },
+
   title: '秋の寸又峡：夢の吊橋のエメラルド湖水と鮮烈な紅葉！美女づくりの湯を満喫するおすすめ秘境宿5選「2026最新」',
   description: 'チンダル現象で輝くエメラルドグリーンの湖水に架かる寸又峡「夢の吊橋」と山肌を彩る紅葉の絶景！トロトロの硫黄泉「美女づくりの湯」を満喫する秘境宿5選。川根温泉ホテル、翠紅苑、ふれあいコテージの魅力を徹底比較！',
   keywords: '寸又峡 夢の吊橋, 寸又峡 紅葉 見頃, 寸又峡温泉 宿, 美女づくりの湯, 川根温泉ホテル, 翠紅苑',

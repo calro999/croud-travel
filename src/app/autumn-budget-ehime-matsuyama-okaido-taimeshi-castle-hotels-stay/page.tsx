@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-ehime-matsuyama-okaido-taimeshi-castle-hotels-stay/",
+  },
+
   title: '松山・大街道：宇和島鯛めし＆現存天守・松山城！2,000円台〜泊まれる格安ホテル5選',
   description: '新鮮な真鯛と特製タレ卵黄が絶品の宇和島鯛めし、現存12天守の松山城紅葉！道後温泉への路面電車もすぐの大街道・松山市駅周辺で1泊2,000円台〜泊まれる超高コスパ格安宿厳選5選。',
 };

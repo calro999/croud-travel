@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-nara-park-todaiji-momiji-hotels-stay/",
+  },
+
   title: '奈良：奈良公園の鹿と東大寺・若草山秋紅葉！2,000円台〜泊まれる格安ホテル5選',
   description: '黄金色のイチョウとモミジに囲まれる鹿たちの楽園「奈良公園」と東大寺大仏殿！名物柿の葉寿司や三輪そうめん。JR・近鉄奈良駅前で1泊2,000円台〜4,000円台で泊まれる格安・高評価宿5選。',
 };

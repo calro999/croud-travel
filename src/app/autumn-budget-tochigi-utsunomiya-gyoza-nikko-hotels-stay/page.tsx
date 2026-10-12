@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-tochigi-utsunomiya-gyoza-nikko-hotels-stay/",
+  },
+
   title: '宇都宮：日光紅葉の玄関口＆本場餃子食べ比べ！格安・高コスパホテル5選',
   description: '日光・中禅寺湖の紅葉狩り拠点に最適！みんみん・正嗣など本場の宇都宮餃子通りを巡る秋旅に便利な、1泊3,000円台〜5,000円台の駅前高評価ホテル厳選5選。',
 };

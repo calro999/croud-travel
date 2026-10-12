@@ -3,6 +3,10 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-hiroshima-shukkeien-momiji-large-bath-hotels-stay/",
+  },
+
   title: '秋の広島×格安：縮景園の紅葉ライトアップと旬の牡蠣・お好み焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」',
   description: '名勝「縮景園」の幻想的なもみじライトアップと平和記念公園の紅葉！広島名物のお好み焼きや秋に旬を迎える焼き牡蠣を満喫。大浴場やサウナ完備で1泊3,000円〜6,000円台で泊まれる広島のコスパ最強ホテル5選。アパホテル広島駅前大橋、トラストホテルなどを徹底比較！',
   keywords: '広島 格安 ホテル, 広島 大浴場 ホテル 安い, 縮景園 もみじまつり ライトアップ, 広島 お好み焼き 宿, アパホテル広島駅前大橋, トラストホテル 広島',

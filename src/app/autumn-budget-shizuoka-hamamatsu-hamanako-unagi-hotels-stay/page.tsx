@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-shizuoka-hamamatsu-hamanako-unagi-hotels-stay/",
+  },
+
   title: '浜松・浜名湖：秋の旬うなぎと湖畔の絶景夕陽！格安・高コスパホテル5選',
   description: '脂がのって一番旨い秋の「旬うなぎ」と浜名湖の感動的なサンセット！1泊2,000円台〜5,000円台で泊まれる浜松駅前＆浜名湖畔のコスパ抜群・高評価ホテル厳選5選。',
 };

@@ -3,6 +3,10 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-kochi-castle-hirome-market-onsen-hotels-stay/",
+  },
+
   title: '秋の高知×格安：高知城の紅葉とひろめ市場のカツオ藁焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」',
   description: '追手門と天守が一枚の写真に収まる名城・高知城の秋紅葉と、日曜市・ひろめ市場の戻りカツオ藁焼きタタキ！大浴場やサウナ完備で1泊3,000円〜6,000円台で泊まれる高知市内の格安ホテル5選。サウスブリーズホテル、ホテル高砂などを徹底比較！',
   keywords: '高知 格安 ホテル, 高知 大浴場 サウナ ホテル, 高知城 紅葉, ひろめ市場 カツオのタタキ, サウスブリーズホテル高知海月, ホテル高砂 高知',

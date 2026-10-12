@@ -5,6 +5,10 @@ import { ChevronRight, Star, MapPin, Tag, CheckCircle2, AlertCircle, Utensils, M
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/autumn-budget-nagano-zenkoji-momiji-shinshu-apple-hotels-stay/",
+  },
+
   title: '長野：国宝善光寺の秋紅葉と信州新そば・完熟リンゴ！5,000円台〜格安ホテル5選',
   description: '国宝善光寺本堂と仲見世通りを彩る秋モミジと、収穫を迎えたシャキシャキの信州リンゴ！戸隠の香り高い新そば。長野駅前・善光寺周辺で1泊5,000円台〜6,000円台で泊まれる格安・高評価ホテル厳選5選。',
 };
