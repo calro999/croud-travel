@@ -1,11 +1,24 @@
-'use client';
 
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
+import type { Metadata } from 'next';
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 
 const officialFurusatoAffUrl = "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F";
+
+export const metadata: Metadata = {
+  title: "日本三大銘石＆枯山水庭園・名湯宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+  description: "大自然の悠久の造形、日本庭園を格上げする奇跡の銘石！新潟「佐渡赤玉石」世界遺産佐渡金山と旅館かもめ荘、岐阜「揖斐川石」菊花石や水石の最高峰と養老温泉滝元館遊季の里、京都「鴨川真黒石」枯山水の侘び寂びと嵐山温泉彩四季の宿花筏。日本三大銘石が魅せる石と庭の美学を楽天ふるさと納税宿泊クーポンでお得に楽しむ...",
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-famous-stones-gardens-stay/",
+  },
+  openGraph: {
+    title: "日本三大銘石＆枯山水庭園・名湯宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    description: "大自然の悠久の造形、日本庭園を格上げする奇跡の銘石！新潟「佐渡赤玉石」世界遺産佐渡金山と旅館かもめ荘、岐阜「揖斐川石」菊花石や水石の最高峰と養老温泉滝元館遊季の里、京都「鴨川真黒石」枯山水の侘び寂びと嵐山温泉彩四季の宿花筏。日本三大銘石が魅せる石と庭の美学を楽天ふるさと納税宿泊クーポンでお得に楽しむ...",
+    url: "https://croud-travel.pages.dev/furusato-tax-three-great-famous-stones-gardens-stay/",
+  },
+};
 
 export default function Page() {
 
@@ -32,11 +45,6 @@ export default function Page() {
 
   return (
     <>
-            <head>
-        <title>日本三大銘石＆枯山水庭園・名湯宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</title>
-        <meta name="description" content="大自然の悠久の造形、日本庭園を格上げする奇跡の銘石！新潟「佐渡赤玉石」世界遺産佐渡金山と旅館かもめ荘、岐阜「揖斐川石」菊花石や水石の最高峰と養老温泉滝元館遊季の里、京都「鴨川真黒石」枯山水の侘び寂びと嵐山温泉彩四季の宿花筏。日本三大銘石が魅せる石と庭の美学を楽天ふるさと納税宿泊クーポンでお得に楽しむ..." />
-        <link rel="canonical" href="https://croud-travel.pages.dev/furusato-tax-three-great-famous-stones-gardens-stay/" />
-      </head>
     <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />

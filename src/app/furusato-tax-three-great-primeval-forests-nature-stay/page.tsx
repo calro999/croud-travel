@@ -1,11 +1,24 @@
-'use client';
 
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
+import type { Metadata } from 'next';
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 
 const officialFurusatoAffUrl = "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F";
+
+export const metadata: Metadata = {
+  title: "日本三大原生林＆世界遺産ネイチャーリゾート×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+  description: "人類の至宝、太古の息吹が宿る手つかずの森！北海道「知床原生林」オホーツク海を一望する知床第一ホテル、鹿児島「屋久島」樹齢数千年の縄文杉と白谷雲水峡・屋久島いわさきホテル、青森「白神山地」世界最大級のブナ原生林と日本海波打ち際の黄金崎不老ふ死温泉。日本三大原生林（世界自然遺産）の神秘を楽天ふるさと納税...",
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-primeval-forests-nature-stay/",
+  },
+  openGraph: {
+    title: "日本三大原生林＆世界遺産ネイチャーリゾート×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    description: "人類の至宝、太古の息吹が宿る手つかずの森！北海道「知床原生林」オホーツク海を一望する知床第一ホテル、鹿児島「屋久島」樹齢数千年の縄文杉と白谷雲水峡・屋久島いわさきホテル、青森「白神山地」世界最大級のブナ原生林と日本海波打ち際の黄金崎不老ふ死温泉。日本三大原生林（世界自然遺産）の神秘を楽天ふるさと納税...",
+    url: "https://croud-travel.pages.dev/furusato-tax-three-great-primeval-forests-nature-stay/",
+  },
+};
 
 export default function Page() {
 
@@ -32,11 +45,6 @@ export default function Page() {
 
   return (
     <>
-            <head>
-        <title>日本三大原生林＆世界遺産ネイチャーリゾート×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</title>
-        <meta name="description" content="人類の至宝、太古の息吹が宿る手つかずの森！北海道「知床原生林」オホーツク海を一望する知床第一ホテル、鹿児島「屋久島」樹齢数千年の縄文杉と白谷雲水峡・屋久島いわさきホテル、青森「白神山地」世界最大級のブナ原生林と日本海波打ち際の黄金崎不老ふ死温泉。日本三大原生林（世界自然遺産）の神秘を楽天ふるさと納税..." />
-        <link rel="canonical" href="https://croud-travel.pages.dev/furusato-tax-three-great-primeval-forests-nature-stay/" />
-      </head>
     <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />

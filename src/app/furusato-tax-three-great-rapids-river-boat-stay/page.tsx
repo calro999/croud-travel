@@ -1,11 +1,24 @@
-'use client';
 
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
+import type { Metadata } from 'next';
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 
 const officialFurusatoAffUrl = "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F";
+
+export const metadata: Metadata = {
+  title: "日本三大急流＆舟下り・リバーサイド宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+  description: "水しぶきを浴びて進む大迫力の舟旅！山形「最上川」芭蕉の舟唄と高見屋最上川別邸紅、山梨「富士川」武田信玄の隠し湯下部ホテル、熊本「球磨川」九州一の激流下りと人吉城下町の有形文化財芳野旅館。日本三大急流の豪快な舟下りと清流リバーサイド温泉を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。...",
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-rapids-river-boat-stay/",
+  },
+  openGraph: {
+    title: "日本三大急流＆舟下り・リバーサイド宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    description: "水しぶきを浴びて進む大迫力の舟旅！山形「最上川」芭蕉の舟唄と高見屋最上川別邸紅、山梨「富士川」武田信玄の隠し湯下部ホテル、熊本「球磨川」九州一の激流下りと人吉城下町の有形文化財芳野旅館。日本三大急流の豪快な舟下りと清流リバーサイド温泉を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。...",
+    url: "https://croud-travel.pages.dev/furusato-tax-three-great-rapids-river-boat-stay/",
+  },
+};
 
 export default function Page() {
 
@@ -32,11 +45,6 @@ export default function Page() {
 
   return (
     <>
-            <head>
-        <title>日本三大急流＆舟下り・リバーサイド宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</title>
-        <meta name="description" content="水しぶきを浴びて進む大迫力の舟旅！山形「最上川」芭蕉の舟唄と高見屋最上川別邸紅、山梨「富士川」武田信玄の隠し湯下部ホテル、熊本「球磨川」九州一の激流下りと人吉城下町の有形文化財芳野旅館。日本三大急流の豪快な舟下りと清流リバーサイド温泉を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。..." />
-        <link rel="canonical" href="https://croud-travel.pages.dev/furusato-tax-three-great-rapids-river-boat-stay/" />
-      </head>
     <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />

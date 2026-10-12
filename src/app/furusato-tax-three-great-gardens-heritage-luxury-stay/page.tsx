@@ -1,11 +1,24 @@
-'use client';
 
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
+import type { Metadata } from 'next';
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 
 const officialFurusatoAffUrl = "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F";
+
+export const metadata: Metadata = {
+  title: "日本三大名園＆大名庭園を愛でる名門宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+  description: "加賀・岡山・水戸藩主が築いた天下の庭園美！石川「兼六園」徽軫灯籠と雪吊りの雪景色・料理旅館金沢茶屋、岡山「後楽園」岡山城を借景とする延養亭の美とホテルグランヴィア岡山、茨城「偕楽園」三千本の梅林と千波湖を望むホテルザウエストヒルズ水戸。日本三大名園（三名園）の四季折々の絶景ステイを楽天ふるさと納税宿...",
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-gardens-heritage-luxury-stay/",
+  },
+  openGraph: {
+    title: "日本三大名園＆大名庭園を愛でる名門宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    description: "加賀・岡山・水戸藩主が築いた天下の庭園美！石川「兼六園」徽軫灯籠と雪吊りの雪景色・料理旅館金沢茶屋、岡山「後楽園」岡山城を借景とする延養亭の美とホテルグランヴィア岡山、茨城「偕楽園」三千本の梅林と千波湖を望むホテルザウエストヒルズ水戸。日本三大名園（三名園）の四季折々の絶景ステイを楽天ふるさと納税宿...",
+    url: "https://croud-travel.pages.dev/furusato-tax-three-great-gardens-heritage-luxury-stay/",
+  },
+};
 
 export default function Page() {
 
@@ -32,11 +45,6 @@ export default function Page() {
 
   return (
     <>
-            <head>
-        <title>日本三大名園＆大名庭園を愛でる名門宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</title>
-        <meta name="description" content="加賀・岡山・水戸藩主が築いた天下の庭園美！石川「兼六園」徽軫灯籠と雪吊りの雪景色・料理旅館金沢茶屋、岡山「後楽園」岡山城を借景とする延養亭の美とホテルグランヴィア岡山、茨城「偕楽園」三千本の梅林と千波湖を望むホテルザウエストヒルズ水戸。日本三大名園（三名園）の四季折々の絶景ステイを楽天ふるさと納税宿..." />
-        <link rel="canonical" href="https://croud-travel.pages.dev/furusato-tax-three-great-gardens-heritage-luxury-stay/" />
-      </head>
     <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />

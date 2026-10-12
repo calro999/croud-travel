@@ -1,11 +1,24 @@
-'use client';
 
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
+import type { Metadata } from 'next';
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 
 const officialFurusatoAffUrl = "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F";
+
+export const metadata: Metadata = {
+  title: "日本三大茅葺きの里＆原風景ノスタルジー宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+  description: "日本人の心のふるさと、茅葺き屋根が連なる奇跡の風景！京都「美山かやぶきの里」清流美山川と料理旅館枕川楼、福島「大内宿」江戸の宿場町とねぎそば・会津湯野上温泉ホテル大坂屋、岐阜「白川郷合掌造り集落」世界遺産の豪雪集落と天然温泉白川郷の湯。日本三大茅葺きの里（三大合掌・茅葺き集落）の温もりを楽天ふるさと...",
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/furusato-tax-three-thatched-roof-villages-heritage-stay/",
+  },
+  openGraph: {
+    title: "日本三大茅葺きの里＆原風景ノスタルジー宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    description: "日本人の心のふるさと、茅葺き屋根が連なる奇跡の風景！京都「美山かやぶきの里」清流美山川と料理旅館枕川楼、福島「大内宿」江戸の宿場町とねぎそば・会津湯野上温泉ホテル大坂屋、岐阜「白川郷合掌造り集落」世界遺産の豪雪集落と天然温泉白川郷の湯。日本三大茅葺きの里（三大合掌・茅葺き集落）の温もりを楽天ふるさと...",
+    url: "https://croud-travel.pages.dev/furusato-tax-three-thatched-roof-villages-heritage-stay/",
+  },
+};
 
 export default function Page() {
 
@@ -32,11 +45,6 @@ export default function Page() {
 
   return (
     <>
-            <head>
-        <title>日本三大茅葺きの里＆原風景ノスタルジー宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</title>
-        <meta name="description" content="日本人の心のふるさと、茅葺き屋根が連なる奇跡の風景！京都「美山かやぶきの里」清流美山川と料理旅館枕川楼、福島「大内宿」江戸の宿場町とねぎそば・会津湯野上温泉ホテル大坂屋、岐阜「白川郷合掌造り集落」世界遺産の豪雪集落と天然温泉白川郷の湯。日本三大茅葺きの里（三大合掌・茅葺き集落）の温もりを楽天ふるさと..." />
-        <link rel="canonical" href="https://croud-travel.pages.dev/furusato-tax-three-thatched-roof-villages-heritage-stay/" />
-      </head>
     <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />

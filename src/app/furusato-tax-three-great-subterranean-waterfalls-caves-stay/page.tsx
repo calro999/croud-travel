@@ -1,11 +1,24 @@
-'use client';
 
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
+import type { Metadata } from 'next';
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 
 const officialFurusatoAffUrl = "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F";
+
+export const metadata: Metadata = {
+  title: "日本三大地底滝鍾乳洞＆地底アドベンチャー宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+  description: "洞窟内に轟く大滝と数千万年の鍾乳石アート！岡山「井倉洞」高さ50mの地底滝と新見グランドホテルみよしや、福島「あぶくま洞」滝根御殿と東洋一の鍾乳石・磐梯熱海温泉ホテル華の湯、東京「日原鍾乳洞」奥多摩の巨大地下宮殿と奥多摩の風はとのす荘。日本三大地底滝鍾乳洞の冒険と名湯を楽天ふるさと納税宿泊クーポンで...",
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-subterranean-waterfalls-caves-stay/",
+  },
+  openGraph: {
+    title: "日本三大地底滝鍾乳洞＆地底アドベンチャー宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    description: "洞窟内に轟く大滝と数千万年の鍾乳石アート！岡山「井倉洞」高さ50mの地底滝と新見グランドホテルみよしや、福島「あぶくま洞」滝根御殿と東洋一の鍾乳石・磐梯熱海温泉ホテル華の湯、東京「日原鍾乳洞」奥多摩の巨大地下宮殿と奥多摩の風はとのす荘。日本三大地底滝鍾乳洞の冒険と名湯を楽天ふるさと納税宿泊クーポンで...",
+    url: "https://croud-travel.pages.dev/furusato-tax-three-great-subterranean-waterfalls-caves-stay/",
+  },
+};
 
 export default function Page() {
 
@@ -32,11 +45,6 @@ export default function Page() {
 
   return (
     <>
-            <head>
-        <title>日本三大地底滝鍾乳洞＆地底アドベンチャー宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</title>
-        <meta name="description" content="洞窟内に轟く大滝と数千万年の鍾乳石アート！岡山「井倉洞」高さ50mの地底滝と新見グランドホテルみよしや、福島「あぶくま洞」滝根御殿と東洋一の鍾乳石・磐梯熱海温泉ホテル華の湯、東京「日原鍾乳洞」奥多摩の巨大地下宮殿と奥多摩の風はとのす荘。日本三大地底滝鍾乳洞の冒険と名湯を楽天ふるさと納税宿泊クーポンで..." />
-        <link rel="canonical" href="https://croud-travel.pages.dev/furusato-tax-three-great-subterranean-waterfalls-caves-stay/" />
-      </head>
     <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />

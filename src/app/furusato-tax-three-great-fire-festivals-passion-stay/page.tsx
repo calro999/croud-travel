@@ -1,11 +1,24 @@
-'use client';
 
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
+import type { Metadata } from 'next';
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 
 const officialFurusatoAffUrl = "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F";
+
+export const metadata: Metadata = {
+  title: "日本三大火祭り＆燃え盛る情熱の伝統宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+  description: "夜空を焦がす大松明と飛び散る火の粉！和歌山「那智の火祭」世界遺産熊野那智大社の大松明と南紀勝浦温泉ホテル浦島、長野「野沢温泉の道祖神祭り」天下の奇祭と名門河一屋旅館、京都「鞍馬の火祭」街道を埋め尽くす炎の乱舞とザ・プリンス京都宝ヶ池。日本三大火祭りの圧倒的な迫力と熱気を楽天ふるさと納税宿泊クーポンで...",
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-fire-festivals-passion-stay/",
+  },
+  openGraph: {
+    title: "日本三大火祭り＆燃え盛る情熱の伝統宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    description: "夜空を焦がす大松明と飛び散る火の粉！和歌山「那智の火祭」世界遺産熊野那智大社の大松明と南紀勝浦温泉ホテル浦島、長野「野沢温泉の道祖神祭り」天下の奇祭と名門河一屋旅館、京都「鞍馬の火祭」街道を埋め尽くす炎の乱舞とザ・プリンス京都宝ヶ池。日本三大火祭りの圧倒的な迫力と熱気を楽天ふるさと納税宿泊クーポンで...",
+    url: "https://croud-travel.pages.dev/furusato-tax-three-great-fire-festivals-passion-stay/",
+  },
+};
 
 export default function Page() {
 
@@ -32,11 +45,6 @@ export default function Page() {
 
   return (
     <>
-            <head>
-        <title>日本三大火祭り＆燃え盛る情熱の伝統宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</title>
-        <meta name="description" content="夜空を焦がす大松明と飛び散る火の粉！和歌山「那智の火祭」世界遺産熊野那智大社の大松明と南紀勝浦温泉ホテル浦島、長野「野沢温泉の道祖神祭り」天下の奇祭と名門河一屋旅館、京都「鞍馬の火祭」街道を埋め尽くす炎の乱舞とザ・プリンス京都宝ヶ池。日本三大火祭りの圧倒的な迫力と熱気を楽天ふるさと納税宿泊クーポンで..." />
-        <link rel="canonical" href="https://croud-travel.pages.dev/furusato-tax-three-great-fire-festivals-passion-stay/" />
-      </head>
     <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />

@@ -1,11 +1,24 @@
-'use client';
 
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
+import type { Metadata } from 'next';
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 
 const officialFurusatoAffUrl = "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F";
+
+export const metadata: Metadata = {
+  title: "日本三大七夕まつり＆星空短冊散策宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+  description: "夏の夜空に揺れる色鮮やかな和紙の笹飾り！宮城「仙台七夕まつり」伊達政宗公の伝統と天然温泉スーパーホテル仙台駅東口、神奈川「湘南ひらつか七夕まつり」関東屈指の電飾竹飾りとホテルリブマックス平塚駅前、愛知「一宮七夕まつり」織物の神への感謝とアパホテル尾張一宮駅前。日本三大七夕まつりのロマンチックな夏旅を...",
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-tanabata-festivals-stay/",
+  },
+  openGraph: {
+    title: "日本三大七夕まつり＆星空短冊散策宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    description: "夏の夜空に揺れる色鮮やかな和紙の笹飾り！宮城「仙台七夕まつり」伊達政宗公の伝統と天然温泉スーパーホテル仙台駅東口、神奈川「湘南ひらつか七夕まつり」関東屈指の電飾竹飾りとホテルリブマックス平塚駅前、愛知「一宮七夕まつり」織物の神への感謝とアパホテル尾張一宮駅前。日本三大七夕まつりのロマンチックな夏旅を...",
+    url: "https://croud-travel.pages.dev/furusato-tax-three-great-tanabata-festivals-stay/",
+  },
+};
 
 export default function Page() {
 
@@ -32,11 +45,6 @@ export default function Page() {
 
   return (
     <>
-            <head>
-        <title>日本三大七夕まつり＆星空短冊散策宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</title>
-        <meta name="description" content="夏の夜空に揺れる色鮮やかな和紙の笹飾り！宮城「仙台七夕まつり」伊達政宗公の伝統と天然温泉スーパーホテル仙台駅東口、神奈川「湘南ひらつか七夕まつり」関東屈指の電飾竹飾りとホテルリブマックス平塚駅前、愛知「一宮七夕まつり」織物の神への感謝とアパホテル尾張一宮駅前。日本三大七夕まつりのロマンチックな夏旅を..." />
-        <link rel="canonical" href="https://croud-travel.pages.dev/furusato-tax-three-great-tanabata-festivals-stay/" />
-      </head>
     <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />

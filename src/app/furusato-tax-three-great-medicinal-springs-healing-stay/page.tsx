@@ -1,11 +1,24 @@
-'use client';
 
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
+import type { Metadata } from 'next';
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 
 const officialFurusatoAffUrl = "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F";
+
+export const metadata: Metadata = {
+  title: "日本三大薬湯＆濃厚生薬湯治宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+  description: "万病を癒やす奇跡の薬効成分！新潟「松之山温泉」太古の海水が湧出するジオプレッシャーの奇跡ひなの宿ちとせ、群馬「草津温泉」強酸性の圧倒的殺菌力と湯畑源泉かけ流しの名門望雲、兵庫「有馬温泉」豊臣秀吉が愛した鉄分・塩分超濃厚の金泉兵衛向陽閣。日本三大薬湯の本格湯治リトリートを楽天ふるさと納税宿泊クーポンで...",
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-medicinal-springs-healing-stay/",
+  },
+  openGraph: {
+    title: "日本三大薬湯＆濃厚生薬湯治宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    description: "万病を癒やす奇跡の薬効成分！新潟「松之山温泉」太古の海水が湧出するジオプレッシャーの奇跡ひなの宿ちとせ、群馬「草津温泉」強酸性の圧倒的殺菌力と湯畑源泉かけ流しの名門望雲、兵庫「有馬温泉」豊臣秀吉が愛した鉄分・塩分超濃厚の金泉兵衛向陽閣。日本三大薬湯の本格湯治リトリートを楽天ふるさと納税宿泊クーポンで...",
+    url: "https://croud-travel.pages.dev/furusato-tax-three-great-medicinal-springs-healing-stay/",
+  },
+};
 
 export default function Page() {
 
@@ -32,11 +45,6 @@ export default function Page() {
 
   return (
     <>
-            <head>
-        <title>日本三大薬湯＆濃厚生薬湯治宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</title>
-        <meta name="description" content="万病を癒やす奇跡の薬効成分！新潟「松之山温泉」太古の海水が湧出するジオプレッシャーの奇跡ひなの宿ちとせ、群馬「草津温泉」強酸性の圧倒的殺菌力と湯畑源泉かけ流しの名門望雲、兵庫「有馬温泉」豊臣秀吉が愛した鉄分・塩分超濃厚の金泉兵衛向陽閣。日本三大薬湯の本格湯治リトリートを楽天ふるさと納税宿泊クーポンで..." />
-        <link rel="canonical" href="https://croud-travel.pages.dev/furusato-tax-three-great-medicinal-springs-healing-stay/" />
-      </head>
     <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />

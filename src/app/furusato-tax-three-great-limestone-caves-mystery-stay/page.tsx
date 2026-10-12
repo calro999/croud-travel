@@ -1,11 +1,24 @@
-'use client';
 
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
+import type { Metadata } from 'next';
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 
 const officialFurusatoAffUrl = "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F";
+
+export const metadata: Metadata = {
+  title: "日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+  description: "悠久の時が創り出した地底の神秘！岩手「龍泉洞」世界有数の透明度を誇るドラゴンブルーの地底湖と三陸浄土ヶ浜パークホテル、高知「龍河洞」弥生土器と鍾乳石が一体化した神の壺とオーベルジュ土佐山、山口「秋芳洞」百枚皿・黄金柱の大パノラマと音信川の湯宿大谷山荘。日本三大鍾乳洞の冒険と名湯宿を楽天ふるさと納税宿...",
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-limestone-caves-mystery-stay/",
+  },
+  openGraph: {
+    title: "日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    description: "悠久の時が創り出した地底の神秘！岩手「龍泉洞」世界有数の透明度を誇るドラゴンブルーの地底湖と三陸浄土ヶ浜パークホテル、高知「龍河洞」弥生土器と鍾乳石が一体化した神の壺とオーベルジュ土佐山、山口「秋芳洞」百枚皿・黄金柱の大パノラマと音信川の湯宿大谷山荘。日本三大鍾乳洞の冒険と名湯宿を楽天ふるさと納税宿...",
+    url: "https://croud-travel.pages.dev/furusato-tax-three-great-limestone-caves-mystery-stay/",
+  },
+};
 
 export default function Page() {
 
@@ -32,11 +45,6 @@ export default function Page() {
 
   return (
     <>
-            <head>
-        <title>日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</title>
-        <meta name="description" content="悠久の時が創り出した地底の神秘！岩手「龍泉洞」世界有数の透明度を誇るドラゴンブルーの地底湖と三陸浄土ヶ浜パークホテル、高知「龍河洞」弥生土器と鍾乳石が一体化した神の壺とオーベルジュ土佐山、山口「秋芳洞」百枚皿・黄金柱の大パノラマと音信川の湯宿大谷山荘。日本三大鍾乳洞の冒険と名湯宿を楽天ふるさと納税宿..." />
-        <link rel="canonical" href="https://croud-travel.pages.dev/furusato-tax-three-great-limestone-caves-mystery-stay/" />
-      </head>
     <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />

@@ -1,11 +1,24 @@
-'use client';
 
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
+import type { Metadata } from 'next';
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 
 const officialFurusatoAffUrl = "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F";
+
+export const metadata: Metadata = {
+  title: "日本三大刃物の里＆職人クラフト宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+  description: "「折れず、曲がらず、よく切れる」日本のものづくり魂！岐阜「関市」世界三大刃物産地とホテルルートイン関、福井「越前打刃物」七百年の火造り鍛造タケフナイフビレッジとホテルクラウンヒルズ武生駅前、大阪「堺刃物」プロ料理人が選ぶ最高峰包丁とホテルアゴーラリージェンシー大阪堺。日本三大刃物の産地を楽天ふるさと...",
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-cutlery-towns-craft-stay/",
+  },
+  openGraph: {
+    title: "日本三大刃物の里＆職人クラフト宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    description: "「折れず、曲がらず、よく切れる」日本のものづくり魂！岐阜「関市」世界三大刃物産地とホテルルートイン関、福井「越前打刃物」七百年の火造り鍛造タケフナイフビレッジとホテルクラウンヒルズ武生駅前、大阪「堺刃物」プロ料理人が選ぶ最高峰包丁とホテルアゴーラリージェンシー大阪堺。日本三大刃物の産地を楽天ふるさと...",
+    url: "https://croud-travel.pages.dev/furusato-tax-three-great-cutlery-towns-craft-stay/",
+  },
+};
 
 export default function Page() {
 
@@ -32,11 +45,6 @@ export default function Page() {
 
   return (
     <>
-            <head>
-        <title>日本三大刃物の里＆職人クラフト宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</title>
-        <meta name="description" content="「折れず、曲がらず、よく切れる」日本のものづくり魂！岐阜「関市」世界三大刃物産地とホテルルートイン関、福井「越前打刃物」七百年の火造り鍛造タケフナイフビレッジとホテルクラウンヒルズ武生駅前、大阪「堺刃物」プロ料理人が選ぶ最高峰包丁とホテルアゴーラリージェンシー大阪堺。日本三大刃物の産地を楽天ふるさと..." />
-        <link rel="canonical" href="https://croud-travel.pages.dev/furusato-tax-three-great-cutlery-towns-craft-stay/" />
-      </head>
     <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />

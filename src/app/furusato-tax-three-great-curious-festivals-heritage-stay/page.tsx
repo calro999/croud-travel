@@ -1,11 +1,24 @@
-'use client';
 
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
+import type { Metadata } from 'next';
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 
 const officialFurusatoAffUrl = "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F";
+
+export const metadata: Metadata = {
+  title: "日本三大奇祭＆天下の熱狂カルチャー宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+  description: "日本人の情熱が爆発する奇想天外な祭典！長野「諏訪大社御柱祭」巨木が坂を駆け下る木落しと上諏訪温泉ホテル紅や、愛知「国府宮はだか祭」数万の裸男が厄を祓う熱気とお宿和陽館、秋田「男鹿のナマハゲ」ユネスコ無形文化遺産と男鹿温泉セイコーグランドホテル。日本三大奇祭の度肝を抜くエネルギーを楽天ふるさと納税宿泊...",
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-curious-festivals-heritage-stay/",
+  },
+  openGraph: {
+    title: "日本三大奇祭＆天下の熱狂カルチャー宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    description: "日本人の情熱が爆発する奇想天外な祭典！長野「諏訪大社御柱祭」巨木が坂を駆け下る木落しと上諏訪温泉ホテル紅や、愛知「国府宮はだか祭」数万の裸男が厄を祓う熱気とお宿和陽館、秋田「男鹿のナマハゲ」ユネスコ無形文化遺産と男鹿温泉セイコーグランドホテル。日本三大奇祭の度肝を抜くエネルギーを楽天ふるさと納税宿泊...",
+    url: "https://croud-travel.pages.dev/furusato-tax-three-great-curious-festivals-heritage-stay/",
+  },
+};
 
 export default function Page() {
 
@@ -32,11 +45,6 @@ export default function Page() {
 
   return (
     <>
-            <head>
-        <title>日本三大奇祭＆天下の熱狂カルチャー宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</title>
-        <meta name="description" content="日本人の情熱が爆発する奇想天外な祭典！長野「諏訪大社御柱祭」巨木が坂を駆け下る木落しと上諏訪温泉ホテル紅や、愛知「国府宮はだか祭」数万の裸男が厄を祓う熱気とお宿和陽館、秋田「男鹿のナマハゲ」ユネスコ無形文化遺産と男鹿温泉セイコーグランドホテル。日本三大奇祭の度肝を抜くエネルギーを楽天ふるさと納税宿泊..." />
-        <link rel="canonical" href="https://croud-travel.pages.dev/furusato-tax-three-great-curious-festivals-heritage-stay/" />
-      </head>
     <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />

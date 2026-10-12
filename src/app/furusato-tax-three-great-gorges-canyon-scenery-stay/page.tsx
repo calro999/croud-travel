@@ -1,11 +1,24 @@
-'use client';
 
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
+import type { Metadata } from 'next';
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 
 const officialFurusatoAffUrl = "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F";
+
+export const metadata: Metadata = {
+  title: "日本三大峡谷＆断崖絶壁・エメラルド渓谷宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+  description: "地球が創り出した壮大な造形美！新潟「清津峡」水鏡アートのトンネルと清津館、富山「黒部峡谷」トロッコ電車で行く大自然とホテル黒部、和歌山・奈良・三重「瀞峡」巨岩とエメラルドの深淵ウォータージェット船と里創人熊野倶楽部。日本三大峡谷の圧倒的パノラマと渓谷温泉宿を楽天ふるさと納税宿泊クーポンでお得に楽しむ...",
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-gorges-canyon-scenery-stay/",
+  },
+  openGraph: {
+    title: "日本三大峡谷＆断崖絶壁・エメラルド渓谷宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    description: "地球が創り出した壮大な造形美！新潟「清津峡」水鏡アートのトンネルと清津館、富山「黒部峡谷」トロッコ電車で行く大自然とホテル黒部、和歌山・奈良・三重「瀞峡」巨岩とエメラルドの深淵ウォータージェット船と里創人熊野倶楽部。日本三大峡谷の圧倒的パノラマと渓谷温泉宿を楽天ふるさと納税宿泊クーポンでお得に楽しむ...",
+    url: "https://croud-travel.pages.dev/furusato-tax-three-great-gorges-canyon-scenery-stay/",
+  },
+};
 
 export default function Page() {
 
@@ -32,11 +45,6 @@ export default function Page() {
 
   return (
     <>
-            <head>
-        <title>日本三大峡谷＆断崖絶壁・エメラルド渓谷宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</title>
-        <meta name="description" content="地球が創り出した壮大な造形美！新潟「清津峡」水鏡アートのトンネルと清津館、富山「黒部峡谷」トロッコ電車で行く大自然とホテル黒部、和歌山・奈良・三重「瀞峡」巨岩とエメラルドの深淵ウォータージェット船と里創人熊野倶楽部。日本三大峡谷の圧倒的パノラマと渓谷温泉宿を楽天ふるさと納税宿泊クーポンでお得に楽しむ..." />
-        <link rel="canonical" href="https://croud-travel.pages.dev/furusato-tax-three-great-gorges-canyon-scenery-stay/" />
-      </head>
     <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />

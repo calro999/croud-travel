@@ -1,11 +1,24 @@
-'use client';
 
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
+import type { Metadata } from 'next';
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 
 const officialFurusatoAffUrl = "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F";
+
+export const metadata: Metadata = {
+  title: "日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+  description: "日本離れした雄大な砂の世界！鳥取「鳥取砂丘」ラクダ遊歩と日本海パノラマ・鳥取温泉ホテルモナーク鳥取、鹿児島「吹上浜」47km続く白砂青松の砂丘美と吹上砂丘荘、静岡「中田島砂丘」遠州灘の潮風と美しい風紋アート・ホテルルートイン浜名湖。日本三大砂丘の非日常リゾートステイを楽天ふるさと納税宿泊クーポンでお...",
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-sand-dunes-coastal-stay/",
+  },
+  openGraph: {
+    title: "日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    description: "日本離れした雄大な砂の世界！鳥取「鳥取砂丘」ラクダ遊歩と日本海パノラマ・鳥取温泉ホテルモナーク鳥取、鹿児島「吹上浜」47km続く白砂青松の砂丘美と吹上砂丘荘、静岡「中田島砂丘」遠州灘の潮風と美しい風紋アート・ホテルルートイン浜名湖。日本三大砂丘の非日常リゾートステイを楽天ふるさと納税宿泊クーポンでお...",
+    url: "https://croud-travel.pages.dev/furusato-tax-three-great-sand-dunes-coastal-stay/",
+  },
+};
 
 export default function Page() {
 
@@ -32,11 +45,6 @@ export default function Page() {
 
   return (
     <>
-            <head>
-        <title>日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</title>
-        <meta name="description" content="日本離れした雄大な砂の世界！鳥取「鳥取砂丘」ラクダ遊歩と日本海パノラマ・鳥取温泉ホテルモナーク鳥取、鹿児島「吹上浜」47km続く白砂青松の砂丘美と吹上砂丘荘、静岡「中田島砂丘」遠州灘の潮風と美しい風紋アート・ホテルルートイン浜名湖。日本三大砂丘の非日常リゾートステイを楽天ふるさと納税宿泊クーポンでお..." />
-        <link rel="canonical" href="https://croud-travel.pages.dev/furusato-tax-three-great-sand-dunes-coastal-stay/" />
-      </head>
     <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />

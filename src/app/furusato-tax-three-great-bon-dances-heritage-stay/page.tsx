@@ -1,11 +1,24 @@
-'use client';
 
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
+import type { Metadata } from 'next';
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 
 const officialFurusatoAffUrl = "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F";
+
+export const metadata: Metadata = {
+  title: "日本三大盆踊り＆伝統文化・城下町宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+  description: "日本の夏の魂を揺さぶる伝統の祭典！秋田「西馬音内の盆踊」端縫い衣装と編笠の幽玄な舞と湯沢名湯川原田館、岐阜「郡上おどり」三十三夜続く熱気と郡上八幡の名水城下町ステイ、徳島「阿波おどり」四百年の情熱と阿波尾鶏・鳴門鯛を味わうJRホテルクレメント徳島。日本三大盆踊りの熱気と文化を楽天ふるさと納税宿泊クー...",
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-bon-dances-heritage-stay/",
+  },
+  openGraph: {
+    title: "日本三大盆踊り＆伝統文化・城下町宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    description: "日本の夏の魂を揺さぶる伝統の祭典！秋田「西馬音内の盆踊」端縫い衣装と編笠の幽玄な舞と湯沢名湯川原田館、岐阜「郡上おどり」三十三夜続く熱気と郡上八幡の名水城下町ステイ、徳島「阿波おどり」四百年の情熱と阿波尾鶏・鳴門鯛を味わうJRホテルクレメント徳島。日本三大盆踊りの熱気と文化を楽天ふるさと納税宿泊クー...",
+    url: "https://croud-travel.pages.dev/furusato-tax-three-great-bon-dances-heritage-stay/",
+  },
+};
 
 export default function Page() {
 
@@ -32,11 +45,6 @@ export default function Page() {
 
   return (
     <>
-            <head>
-        <title>日本三大盆踊り＆伝統文化・城下町宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</title>
-        <meta name="description" content="日本の夏の魂を揺さぶる伝統の祭典！秋田「西馬音内の盆踊」端縫い衣装と編笠の幽玄な舞と湯沢名湯川原田館、岐阜「郡上おどり」三十三夜続く熱気と郡上八幡の名水城下町ステイ、徳島「阿波おどり」四百年の情熱と阿波尾鶏・鳴門鯛を味わうJRホテルクレメント徳島。日本三大盆踊りの熱気と文化を楽天ふるさと納税宿泊クー..." />
-        <link rel="canonical" href="https://croud-travel.pages.dev/furusato-tax-three-great-bon-dances-heritage-stay/" />
-      </head>
     <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />

@@ -1,11 +1,24 @@
-'use client';
 
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
+import type { Metadata } from 'next';
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 
 const officialFurusatoAffUrl = "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F";
+
+export const metadata: Metadata = {
+  title: "日本三大港クルーズ＆夜景ディナークルーズ宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+  description: "洋上から望む1000万ドルのスカイライン！兵庫「神戸港クルーズ」コンチェルト＆ルミナス神戸2とホテルラ・スイート神戸ハーバーランド、神奈川「横浜港クルーズ」マリーンルージュと横浜ベイホテル東急、長崎「長崎港クルーズ」軍艦島上陸船とホテルモントレ長崎。日本三大クルーズ港の洋上贅沢ステイを楽天ふるさと納...",
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-harbor-cruises-luxury-stay/",
+  },
+  openGraph: {
+    title: "日本三大港クルーズ＆夜景ディナークルーズ宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    description: "洋上から望む1000万ドルのスカイライン！兵庫「神戸港クルーズ」コンチェルト＆ルミナス神戸2とホテルラ・スイート神戸ハーバーランド、神奈川「横浜港クルーズ」マリーンルージュと横浜ベイホテル東急、長崎「長崎港クルーズ」軍艦島上陸船とホテルモントレ長崎。日本三大クルーズ港の洋上贅沢ステイを楽天ふるさと納...",
+    url: "https://croud-travel.pages.dev/furusato-tax-three-great-harbor-cruises-luxury-stay/",
+  },
+};
 
 export default function Page() {
 
@@ -32,11 +45,6 @@ export default function Page() {
 
   return (
     <>
-            <head>
-        <title>日本三大港クルーズ＆夜景ディナークルーズ宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</title>
-        <meta name="description" content="洋上から望む1000万ドルのスカイライン！兵庫「神戸港クルーズ」コンチェルト＆ルミナス神戸2とホテルラ・スイート神戸ハーバーランド、神奈川「横浜港クルーズ」マリーンルージュと横浜ベイホテル東急、長崎「長崎港クルーズ」軍艦島上陸船とホテルモントレ長崎。日本三大クルーズ港の洋上贅沢ステイを楽天ふるさと納..." />
-        <link rel="canonical" href="https://croud-travel.pages.dev/furusato-tax-three-great-harbor-cruises-luxury-stay/" />
-      </head>
     <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />

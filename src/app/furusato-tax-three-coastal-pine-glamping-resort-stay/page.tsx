@@ -1,11 +1,24 @@
-'use client';
 
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
+import type { Metadata } from 'next';
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 
 const officialFurusatoAffUrl = "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F";
+
+export const metadata: Metadata = {
+  title: "日本三大松原・海岸グランピング宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+  description: "潮風と松の香りに包まれる極上アウトドアリゾート！佐賀「虹の松原」玄界灘オーシャンビューと唐津シーサイドホテル、福井「気比の松原」敦賀湾の白砂青松とホテルルートイン敦賀駅前、静岡「三保松原」富士山を仰ぐ風景美術館日本平ホテル。日本三大松原の海岸リゾート＆グランピングステイを楽天ふるさと納税宿泊クーポン...",
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/furusato-tax-three-coastal-pine-glamping-resort-stay/",
+  },
+  openGraph: {
+    title: "日本三大松原・海岸グランピング宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    description: "潮風と松の香りに包まれる極上アウトドアリゾート！佐賀「虹の松原」玄界灘オーシャンビューと唐津シーサイドホテル、福井「気比の松原」敦賀湾の白砂青松とホテルルートイン敦賀駅前、静岡「三保松原」富士山を仰ぐ風景美術館日本平ホテル。日本三大松原の海岸リゾート＆グランピングステイを楽天ふるさと納税宿泊クーポン...",
+    url: "https://croud-travel.pages.dev/furusato-tax-three-coastal-pine-glamping-resort-stay/",
+  },
+};
 
 export default function Page() {
 
@@ -32,11 +45,6 @@ export default function Page() {
 
   return (
     <>
-            <head>
-        <title>日本三大松原・海岸グランピング宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</title>
-        <meta name="description" content="潮風と松の香りに包まれる極上アウトドアリゾート！佐賀「虹の松原」玄界灘オーシャンビューと唐津シーサイドホテル、福井「気比の松原」敦賀湾の白砂青松とホテルルートイン敦賀駅前、静岡「三保松原」富士山を仰ぐ風景美術館日本平ホテル。日本三大松原の海岸リゾート＆グランピングステイを楽天ふるさと納税宿泊クーポン..." />
-        <link rel="canonical" href="https://croud-travel.pages.dev/furusato-tax-three-coastal-pine-glamping-resort-stay/" />
-      </head>
     <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
