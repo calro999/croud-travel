@@ -7,14 +7,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月香川：讃岐一ノ宮「田村神社」新春初！名宿5選',
-  description: '龍神信仰息づく讃岐国一ノ宮「田村神社（たむらじんじゃ）」が約20万人の新春参拝客を迎える11〜1月の冬旅特集。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '龍神信仰息づく讃岐国一ノ宮「田村神社（たむらじんじゃ）」が約20万人の新春参拝客を迎える11〜1月の冬旅特集。',
   keywords: '田村神社 初詣, 栗林公園 雪吊り, しっぽくうどん 香川, 塩江温泉 冬, 讃岐オリーブ牛, クレメント高松, ロイヤルパークホテル高松, 香川 初詣 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kagawa-takamatsu-tamura-shrine-hatsumode-shionoe-onsen-olivegyu-stay/"
   },
   openGraph: {
     title: '11・12・1月香川：讃岐一ノ宮「田村神社」新春初！名宿5選',
-    description: '龍神信仰息づく讃岐国一ノ宮「田村神社（たむらじんじゃ）」が約20万人の新春参拝客を迎える11〜1月の冬旅特集。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '龍神信仰息づく讃岐国一ノ宮「田村神社（たむらじんじゃ）」が約20万人の新春参拝客を迎える11〜1月の冬旅特集。',
     url: 'https://croud-travel.pages.dev/winter-kagawa-takamatsu-tamura-shrine-hatsumode-shionoe-onsen-olivegyu-stay',
     type: 'article',
     images: [
@@ -225,7 +225,7 @@ export default function KagawaTakamatsuWinterPage() {
               url: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7032%2F7032.html",
               story: "奈良時代に行基菩薩が開湯したと伝わる名湯・塩江温泉郷の歴史を今に伝える老舗宿「塩江温泉 新樺川観光ホテル」。香東川の清流沿いに建ち、自家源泉のぬめり感ある美肌の湯を緑豊かな渓流露天風呂で贅沢に楽しめます。冬は湯煙の向こうに山里の静寂が広がり、温泉情緒満点。夕食には讃岐牛の陶板焼きや川魚の塩焼き、冬の滋味あふれる猪鍋やしっぽく鍋が並び、どこか懐かしい温かなもてなしが心を満たします。",
               roomTip: "渓流側の和室12畳。川のせせらぎを聴きながら畳で足を伸ばし、冬の温泉情緒を心ゆくまで満喫。",
-              gourmetTip: "「讃岐冬の味覚・しっぽく鍋会席」。根菜の甘みとお出汁のコクが溶け合った熱々の鍋料理で体の芯からポカポカに。",
+              gourmetTip: "「讃岐冬の味覚・しっぽく鍋会席」。根菜の甘みとお出汁のコクが溶け合った熱々の鍋料理で体の芯からポカポカに位置し、観光拠点として親しまれています。",
               highlights: [
                 "行基開湯1300年の名湯・香東川の渓流露天風呂と冬のしっぽく鍋会席が心に染みる老舗宿" ,
                 "とろみのある美肌の自家源泉・畳敷きの純和室で足を伸ばして寛ぐ冬の湯治情趣" ,
@@ -595,7 +595,7 @@ export default function KagawaTakamatsuWinterPage() {
               </h3>
               <p className="text-slate-600 leading-relaxed">
                 <strong>11:00 高松空港またはJR高松駅に到着</strong><br />
-                高松市内の名店で熱々の「しっぽくうどん」を昼食に。根菜の出汁が染みた温かい一杯で旅の活力を充填。
+                高松市内の名店で熱々の「しっぽくうどん」を昼食に位置し、観光拠点として親しまれています。根菜の出汁が染みた温かい一杯で旅の活力を充填。
               </p>
               <p className="text-slate-600 leading-relaxed">
                 <strong>13:00 特別名勝「栗林公園」を散策</strong><br />

@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '白布温泉で過ごす冬の旅（11・12月）！西吾妻山の豪雪秘湯と開湯700年の名物湯滝！名宿5選',
-  description: '11月中旬から深い雪に包まれる山形県米沢市の秘境・西吾妻山山麓に位置する白布温泉（しらぶおんせん）と新高湯温泉。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月中旬から深い雪に包まれる山形県米沢市の秘境・西吾妻山山麓に位置する白布温泉（しらぶおんせん）と新高湯温泉。',
   keywords: '白布温泉 宿泊, 新高湯温泉 旅館, 白布温泉 東屋, 白布温泉 中屋別館 不動閣, 湯滝の宿 西屋, 吾妻屋旅館, 小野川温泉 吾妻荘, 米沢牛 すき焼き, 打たせ湯, 湯滝, 11月 12月 山形温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamagata-shirabu-onsen-snow-yonezawa-beef-stay/"
   },
   openGraph: {
     title: '白布温泉で過ごす冬の旅（11・12月）！西吾妻山の豪雪秘湯と開湯700年の名物湯滝！名宿5選',
-    description: '11月中旬から深い雪に包まれる山形県米沢市の秘境・西吾妻山山麓に位置する白布温泉（しらぶおんせん）と新高湯温泉。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月中旬から深い雪に包まれる山形県米沢市の秘境・西吾妻山山麓に位置する白布温泉（しらぶおんせん）と新高湯温泉。',
     url: 'https://croud-travel.pages.dev/winter-yamagata-shirabu-onsen-snow-yonezawa-beef-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

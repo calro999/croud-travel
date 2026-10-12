@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '加賀温泉郷で過ごす冬の旅（11・12月）！山代！名宿5選',
-  description: '11月6日の北陸冬の風物詩・ズワイガニ漁解禁とともに美食の最盛期を迎える石川県・加賀温泉郷（山代温泉・山中温泉）。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月6日の北陸冬の風物詩・ズワイガニ漁解禁とともに美食の最盛期を迎える石川県・加賀温泉郷（山代温泉・山中温泉）。',
   keywords: '加賀温泉郷 宿泊 11月 12月, 山代温泉 カニ 旅館, 山中温泉 加能ガニ 香箱ガニ, あらや滔々庵 ゆのくに天祥, 加賀温泉 おすすめ 宿, 九谷焼 温泉 会席, 加賀 冬 モデルコース',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-ishikawa-kaga-yamashiro-kano-crab-stay/",
   },
   openGraph: {
     title: '加賀温泉郷で過ごす冬の旅（11・12月）！山代！名宿5選',
-    description: '11月6日の北陸冬の風物詩・ズワイガニ漁解禁とともに美食の最盛期を迎える石川県・加賀温泉郷（山代温泉・山中温泉）。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月6日の北陸冬の風物詩・ズワイガニ漁解禁とともに美食の最盛期を迎える石川県・加賀温泉郷（山代温泉・山中温泉）。',
     url: 'https://croud-travel.pages.dev/winter-ishikawa-kaga-yamashiro-kano-crab-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
@@ -314,7 +314,7 @@ export default function KagaWinterPage() {
                 <span>11月・12月限定「香箱ガニ」の旬を逃さない！</span>
               </h3>
               <p className="text-xs sm:text-sm text-stone-600">
-                雌ガニ（香箱ガニ）の漁期は資源保護のため12月末まで。内子と外子を一度に味わえるのはこの時期だけの特権です。
+                雌ガニ（香箱ガニ）の漁期は資源保護のため12月末まで、ゆったりとした時間を過ごせます。内子と外子を一度に味わえるのはこの時期だけの特権です。
               </p>
             </div>
             <div className="px-4 py-2 bg-red-800 text-white rounded-xl text-xs font-bold whitespace-nowrap shadow-sm">

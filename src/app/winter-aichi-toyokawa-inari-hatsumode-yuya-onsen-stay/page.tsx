@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月愛知：霊狐塚の神秘と源泉かけ流し雪見露天！名宿5選',
-  description: '新春の祈りと奥三河の秘湯に癒やされる11〜1月の愛知・東三河旅行完全ガイド。日本三大稲荷として全国から信仰を集める「豊川稲荷（妙厳寺）」の新春初詣や。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '新春の祈りと奥三河の秘湯に癒やされる11〜1月の愛知・東三河旅行完全ガイド。日本三大稲荷として全国から信仰を集める「豊川稲荷（妙厳寺）」の新春初詣や。',
   keywords: '豊川稲荷 初詣, 湯谷温泉 雪見露天, 霊狐塚 パワースポット, 豊川いなり寿司, 奥三河 温泉, 鳳来牛 宿, 三河牛 すき焼き, 愛知 冬 旅行, 新城市 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-aichi-toyokawa-inari-hatsumode-yuya-onsen-stay/"
   },
   openGraph: {
     title: '11・12・1月愛知：霊狐塚の神秘と源泉かけ流し雪見露天！名宿5選',
-    description: '新春の祈りと奥三河の秘湯に癒やされる11〜1月の愛知・東三河旅行完全ガイド。日本三大稲荷として全国から信仰を集める「豊川稲荷（妙厳寺）」の新春初詣や。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '新春の祈りと奥三河の秘湯に癒やされる11〜1月の愛知・東三河旅行完全ガイド。日本三大稲荷として全国から信仰を集める「豊川稲荷（妙厳寺）」の新春初詣や。',
     url: 'https://croud-travel.pages.dev/winter-aichi-toyokawa-inari-hatsumode-yuya-onsen-stay',
     type: 'article',
     images: [

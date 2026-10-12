@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月福岡：鐘崎天然とらふぐと極上宗像牛！名宿5選',
-  description: '冬の福岡・宗像と岡垣は、世界文化遺産「神宿る島」宗像・沖ノ島と関連遺産群の中枢「宗像大社辺津宮」が新春開運祈願で賑わい。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '冬の福岡・宗像と岡垣は、世界文化遺産「神宿る島」宗像・沖ノ島と関連遺産群の中枢「宗像大社辺津宮」が新春開運祈願で賑わい。',
   keywords: '宗像 ホテル, 宗像大社 初詣, 鐘崎 とらふぐ, 宗像牛, メルキュール福岡宗像, ぶどうの樹 杜の七種, 宮地嶽神社, 11月 12月 1月 福岡 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukuoka-munakata-taisha-hatsumode-torafugu-munakatagyu-stay/"
   },
   openGraph: {
     title: '11・12・1月福岡：鐘崎天然とらふぐと極上宗像牛！名宿5選',
-    description: '冬の福岡・宗像と岡垣は、世界文化遺産「神宿る島」宗像・沖ノ島と関連遺産群の中枢「宗像大社辺津宮」が新春開運祈願で賑わい。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '冬の福岡・宗像と岡垣は、世界文化遺産「神宿る島」宗像・沖ノ島と関連遺産群の中枢「宗像大社辺津宮」が新春開運祈願で賑わい。',
     url: 'https://croud-travel.pages.dev/winter-fukuoka-munakata-taisha-hatsumode-torafugu-munakatagyu-stay',
     type: 'article',
     images: [{ url: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=630', width: 1200, height: 630, alt: '宗像大社と玄界灘の冬景色' }]
@@ -41,7 +41,7 @@ export default function FukuokaMunakataPage() {
               url: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9217%2F9217.html",
               story: "玄界灘を望むさつき松原のほとりに佇む「メルキュール福岡宗像リゾート＆スパ（旧：ロイヤルホテル 宗像）。」。世界遺産・宗像大社辺津宮まで車で約10分という好立地にあり、新春初詣や玄界灘観光の拠点として絶大な人気を誇ります。宿の大きな魅力は、松原の清々しい空気を感じながら湯浴みを楽しめる天然温泉「玄海さつき温泉」の露天岩風呂。敷地内から湧く弱アルカリ性の柔らかな湯が、冬の冷えた身体を芯からポカポカに温めてくれます。夕食は旬の玄界灘の海の幸や地元食材をふんだんに取り入れた豪華ビュッフェで、アルコールを含むオールインクルーシブスタイルで贅沢なリゾート時間を満喫できます。",
               roomTip: "オーシャンビューデラックスツイン。バルコニーから玄界灘の海原と松林を望む開放的な客室。洗練されたモダンインテリアでゆったり休息。",
-              gourmetTip: "「冬のオールインクルーシブ・ビュッフェ」。玄界灘の新鮮なお造りや郷土鍋、地元ブランド肉のグリルを多彩なワイン・地酒と共に。",
+              gourmetTip: "「冬のオールインクルーシブ・ビュッフェ」。玄界灘の新鮮なお造りや郷土鍋、地元ブランド肉のグリルを多彩なワイン・地酒と共に位置し、観光拠点として親しまれています。",
               highlights: [
                 "宗像大社まで車10分・玄海さつき温泉露天岩風呂・オールインクルーシブビュッフェ",
                 "玄界灘の新鮮刺身や地元食材ディナービュッフェ・アルコール飲み放題付きの優雅な夕宵",
@@ -334,7 +334,7 @@ export default function FukuokaMunakataPage() {
                 <span className="text-xs text-stone-300">平均気温 8.2℃</span>
               </div>
               <p className="text-stone-200 text-xs sm:text-sm leading-relaxed">
-                玄界灘からの北西風が強まり、冬の日本海らしい迫力ある白波が広がります。空気が澄んで夕暮れ時の水平線が美しく染まり、温泉と熱々のふぐちり鍋が極上の美味に。
+                玄界灘からの北西風が強まり、冬の日本海らしい迫力ある白波が広がります。空気が澄んで夕暮れ時の水平線が美しく染まり、温泉と熱々のふぐちり鍋が極上の美味に位置し、観光拠点として親しまれています。
               </p>
               <div className="text-xs text-blue-200">
                 おすすめ服装：防風性のあるダウンジャケット、マフラー、手袋、風対策の帽子

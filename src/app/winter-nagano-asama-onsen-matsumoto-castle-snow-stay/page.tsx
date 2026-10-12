@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '信州松本浅間温泉で過ごす冬の旅（11・12月）！開湯1300年アルカリ単純泉！名宿5選',
-  description: '11月から12月にかけて長野県・松本平は、雪化粧した北アルプスの山並みが澄み渡る初冬の青空にそびえ立ち。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて長野県・松本平は、雪化粧した北アルプスの山並みが澄み渡る初冬の青空にそびえ立ち。',
   keywords: '浅間温泉 宿泊, 松本 温泉 11月 12月, 国宝松本城 雪景色, 菊之湯 浅間温泉, ホテル玉之湯, 別亭一花, 梅の湯, 帰郷亭ゆもとや, 信州新そば 宿, 信州プレミアム牛 すき焼き, 松本城 イルミネーション',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagano-asama-onsen-matsumoto-castle-snow-stay/"
   },
   openGraph: {
     title: '信州松本浅間温泉で過ごす冬の旅（11・12月）！開湯1300年アルカリ単純泉！名宿5選',
-    description: '11月から12月にかけて長野県・松本平は、雪化粧した北アルプスの山並みが澄み渡る初冬の青空にそびえ立ち。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて長野県・松本平は、雪化粧した北アルプスの山並みが澄み渡る初冬の青空にそびえ立ち。',
     url: 'https://croud-travel.pages.dev/winter-nagano-asama-onsen-matsumoto-castle-snow-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',

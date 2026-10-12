@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月北海道：網走の冬絶景とオホーツク海鮮！名宿5選',
-  description: '11月から1月、世界自然遺産・知床ウトロとオホーツクの要衝・網走は、白銀に染まる知床連峰と凛と澄み渡るオホーツクブルーの海原が織りなす荘厳な。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から1月、世界自然遺産・知床ウトロとオホーツクの要衝・網走は、白銀に染まる知床連峰と凛と澄み渡るオホーツクブルーの海原が織りなす荘厳な。',
   keywords: '知床ウトロ 温泉宿, 網走 温泉 ホテル, 北こぶし知床, KIKI知床, 知床第一ホテル, 北天の丘あばしり湖鶴雅リゾート, ホテル網走湖荘, 11月 12月 1月 北海道旅行, めんめ 湯煮 知床牛 タラバガニ',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hokkaido-shiretoko-abashiri-onsen-crab-kinki-stay/"
   },
   openGraph: {
     title: '11・12・1月北海道：網走の冬絶景とオホーツク海鮮！名宿5選',
-    description: '11月から1月、世界自然遺産・知床ウトロとオホーツクの要衝・網走は、白銀に染まる知床連峰と凛と澄み渡るオホーツクブルーの海原が織りなす荘厳な。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から1月、世界自然遺産・知床ウトロとオホーツクの要衝・網走は、白銀に染まる知床連峰と凛と澄み渡るオホーツクブルーの海原が織りなす荘厳な。',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-shiretoko-abashiri-onsen-crab-kinki-stay',
     siteName: 'クラドトラベル',
     images: [
@@ -284,7 +284,7 @@ export default function HokkaidoShiretokoAbashiriWinterPage() {
           </div>
           <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">「11・12・1月北海道」知床ウトロ＆網走の冬絶景とオホーツク海鮮・極上知床牛＆冬タラバ・毛ガニ・高級魚めんめ湯煮を堪能する名宿5選</h1>
           <p className="text-slate-300 text-sm sm:text-base md:text-lg max-w-3xl leading-relaxed">
-            世界自然遺産・知床連峰の荘厳な雪嶺と、藍色に澄み渡るオホーツク海。深海の赤い宝石「めんめ（キンキ）」の湯煮、ぎっしり身の詰まった冬の活毛ガニ・タラバガニ、そして極上知床牛。オホーツク海を望む絶景サウナや美肌名湯に浸り、北方民族のロマン漂う至高の北国リゾートを厳選紹介します。
+            世界自然遺産・知床連峰の荘厳な雪嶺と、藍色に澄み渡るオホーツク海を一望できる絶景宿が人気です。深海の赤い宝石「めんめ（キンキ）」の湯煮、ぎっしり身の詰まった冬の活毛ガニ・タラバガニ、そして極上知床牛。オホーツク海を望む絶景サウナや美肌名湯に浸り、北方民族のロマン漂う至高の北国リゾートを厳選紹介します。
           </p>
           <div className="flex flex-wrap items-center gap-4 mt-6 text-xs sm:text-sm text-slate-300">
             <span className="flex items-center gap-1.5"><Calendar className="w-4 h-4 text-sky-400" /> 旬の時期：11月中旬〜1月下旬</span>

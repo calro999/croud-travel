@@ -7,14 +7,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月奈良：大和牛！名宿5選',
-  description: '初代神武天皇が即位した日本建国の聖地「橿原神宮（かしはらじんぐう）」が約100万人の新春参拝客を迎える11〜1月の冬旅特集。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '初代神武天皇が即位した日本建国の聖地「橿原神宮（かしはらじんぐう）」が約100万人の新春参拝客を迎える11〜1月の冬旅特集。',
   keywords: '橿原神宮 初詣, 橿原神宮 冬, 飛鳥鍋 奈良, 明日香村 冬, 大和牛 すき焼き, グランドメルキュール奈良橿原, カンデオホテルズ奈良橿原, 畝傍山, 奈良 初詣',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nara-kashihara-jingu-hatsumode-asuka-asukunabe-yamatogyu-stay/"
   },
   openGraph: {
     title: '11・12・1月奈良：大和牛！名宿5選',
-    description: '初代神武天皇が即位した日本建国の聖地「橿原神宮（かしはらじんぐう）」が約100万人の新春参拝客を迎える11〜1月の冬旅特集。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '初代神武天皇が即位した日本建国の聖地「橿原神宮（かしはらじんぐう）」が約100万人の新春参拝客を迎える11〜1月の冬旅特集。',
     url: 'https://croud-travel.pages.dev/winter-nara-kashihara-jingu-hatsumode-asuka-asukunabe-yamatogyu-stay',
     type: 'article',
     images: [
@@ -225,7 +225,7 @@ export default function NaraKashiharaWinterPage() {
               url: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182438%2F182438.html",
               story: "国の重要伝統的建造物群保存地区にも近い明日香村の中心、飛鳥寺のほど近くに佇む「国の登録有形文化財の宿 ブランシエラ ヴィラ 明日香。」。江戸末期から明治にかけての歴史的古民家を丹念に改修した一棟貸しスタイルの極上宿です。土間や梁の重厚な美しさを残しながら、最新の床暖房や檜風呂、快適なベッドルームを完備。冬の明日香村の静寂と星空を独り占めできるプライベート空間で、地元食材をふんだんに使った飛鳥鍋ケータリングや大和牛ディナーを味わう、唯一無二の贅沢な滞在が叶います。",
               roomTip: "歴史的母屋のスイート棟。床暖房完備の広々とした和モダン空間で、冬の冷え込みを感じることなく別格の静けさを満喫。",
-              gourmetTip: "「明日香村の恵み・大和牛と地野菜の飛鳥鍋セット。」。文化財の座敷で囲む熱々の飛鳥鍋が冬の旅の最高の思い出に。",
+              gourmetTip: "「明日香村の恵み・大和牛と地野菜の飛鳥鍋セット。」。文化財の座敷で囲む熱々の飛鳥鍋が冬の旅の最高の思い出に位置し、観光拠点として親しまれています。",
               highlights: [
                 "国の登録有形文化財古民家を一棟貸切・床暖房＆檜風呂で冬の明日香村の静寂を満喫" ,
                 "大和牛と明日香野菜を特製飛鳥鍋で味わうプライベートディナーが至高" ,

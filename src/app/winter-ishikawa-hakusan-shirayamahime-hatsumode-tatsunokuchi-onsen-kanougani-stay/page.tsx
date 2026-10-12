@@ -7,14 +7,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月石川：加賀一ノ宮「白山比咩神社」新！名宿5選',
-  description: '全国3,000余社の白山神社総本宮「白山比咩神社（しらやまひめじんじゃ）」が最も神聖な空気に包まれる11〜1月の冬旅特集。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '全国3,000余社の白山神社総本宮「白山比咩神社（しらやまひめじんじゃ）」が最も神聖な空気に包まれる11〜1月の冬旅特集。',
   keywords: '白山比咩神社 初詣, 辰口温泉 冬, 加能ガニ 石川, 加賀丸いも, まつさき 辰口温泉, たがわ龍泉閣, 白山 手取川 雪景色, 北陸 初詣 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-ishikawa-hakusan-shirayamahime-hatsumode-tatsunokuchi-onsen-kanougani-stay/"
   },
   openGraph: {
     title: '11・12・1月石川：加賀一ノ宮「白山比咩神社」新！名宿5選',
-    description: '全国3,000余社の白山神社総本宮「白山比咩神社（しらやまひめじんじゃ）」が最も神聖な空気に包まれる11〜1月の冬旅特集。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '全国3,000余社の白山神社総本宮「白山比咩神社（しらやまひめじんじゃ）」が最も神聖な空気に包まれる11〜1月の冬旅特集。',
     url: 'https://croud-travel.pages.dev/winter-ishikawa-hakusan-shirayamahime-hatsumode-tatsunokuchi-onsen-kanougani-stay',
     type: 'article',
     images: [

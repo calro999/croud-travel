@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '越前三国温泉で過ごす冬の旅（11・12月）！本場越前蟹フルコース！名宿5選',
-  description: '11月6日のズワイガニ漁解禁とともに、福井県・三国港は全国の美食家が押し寄せる「越前がに」の最高潮シーズンを迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月6日のズワイガニ漁解禁とともに、福井県・三国港は全国の美食家が押し寄せる「越前がに」の最高潮シーズンを迎えます。',
   keywords: '三国温泉 越前がに 宿泊, 越前三国 11月 12月, 東尋坊 冬 絶景, 越前がに 解禁 宿, 三国温泉 いそや, 三国オーシャンリゾート, 休暇村 越前三国, オーベルジュほまち 三國湊, 若狭牛 ステーキ, 福井 カニ 旅',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay/",
   },
   openGraph: {
     title: '越前三国温泉で過ごす冬の旅（11・12月）！本場越前蟹フルコース！名宿5選',
-    description: '11月6日のズワイガニ漁解禁とともに、福井県・三国港は全国の美食家が押し寄せる「越前がに」の最高潮シーズンを迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月6日のズワイガニ漁解禁とともに、福井県・三国港は全国の美食家が押し寄せる「越前がに」の最高潮シーズンを迎えます。',
     url: 'https://croud-travel.pages.dev/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',

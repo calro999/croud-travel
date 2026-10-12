@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '島根・松江しんじ湖温泉で過ごす冬の旅（11・12月）！解禁松葉ガニ！名宿5選',
-  description: '11月から12月にかけて、水の都・松江の宍道湖畔に湧く松江しんじ湖温泉は、澄み切った初冬の空に広がる「夕日百選」宍道湖の真紅のサンセットと。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、水の都・松江の宍道湖畔に湧く松江しんじ湖温泉は、澄み切った初冬の空に広がる「夕日百選」宍道湖の真紅のサンセットと。',
   keywords: '松江しんじ湖温泉 宿泊, なにわ一水, ホテル一畑, 松平閣, 大橋館, ニューアーバンホテル, 宍道湖 夕日, 松葉ガニ 宿, 寒シジミ, しまね和牛, 堀川遊覧船 こたつ船, 11月 12月 松江',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shimane-matsue-shinjiko-onsen-sunset-matsubagani-shijimi-stay/"
   },
   openGraph: {
     title: '島根・松江しんじ湖温泉で過ごす冬の旅（11・12月）！解禁松葉ガニ！名宿5選',
-    description: '11月から12月にかけて、水の都・松江の宍道湖畔に湧く松江しんじ湖温泉は、澄み切った初冬の空に広がる「夕日百選」宍道湖の真紅のサンセットと。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、水の都・松江の宍道湖畔に湧く松江しんじ湖温泉は、澄み切った初冬の空に広がる「夕日百選」宍道湖の真紅のサンセットと。',
     url: 'https://croud-travel.pages.dev/winter-shimane-matsue-shinjiko-onsen-sunset-matsubagani-shijimi-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

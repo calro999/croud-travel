@@ -6,14 +6,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月愛媛：日本総鎮守「大山祇神社」樹齢！名宿5選',
-  description: '瀬戸内海に浮かぶ神の島と多島美パノラマ！11〜1月のしまなみ海道は空気が澄み。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '瀬戸内海に浮かぶ神の島と多島美パノラマ！11〜1月のしまなみ海道は空気が澄み。',
   keywords: '大山祇神社 初詣, 大山祇神社 樹齢2600年, しまなみ海道 冬, 来島海峡大橋, 今治鯛めし, 鈍川温泉, 今治国際ホテル, 大三島 初詣, 亀老山展望公園, 愛媛 冬 旅行',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-ehime-imabari-shimanami-oyamazumi-shrine-hatsumode-taimeshi-stay'
   },
   openGraph: {
     title: '11・12・1月愛媛：日本総鎮守「大山祇神社」樹齢！名宿5選',
-    description: '瀬戸内海に浮かぶ神の島と多島美パノラマ！11〜1月のしまなみ海道は空気が澄み。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '瀬戸内海に浮かぶ神の島と多島美パノラマ！11〜1月のしまなみ海道は空気が澄み。',
     url: 'https://croud-travel.pages.dev/winter-ehime-imabari-shimanami-oyamazumi-shrine-hatsumode-taimeshi-stay',
     siteName: 'クラドトラベル',
     type: 'article',

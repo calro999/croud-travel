@@ -7,14 +7,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月三重：伊勢海老！名宿5選',
-  description: '二千年の歴史を誇る日本の心のふるさと・伊勢志摩を巡る11〜1月の冬紀行。冬至前後に宇治橋大鳥居の中央から昇る奇跡の朝光と「伊勢神宮（内宮・外。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '二千年の歴史を誇る日本の心のふるさと・伊勢志摩を巡る11〜1月の冬紀行。冬至前後に宇治橋大鳥居の中央から昇る奇跡の朝光と「伊勢神宮（内宮・外。',
   keywords: '伊勢神宮 初詣, 宇治橋 日の出 冬, 的矢かき 伊勢志摩, 伊勢海老 鳥羽, 鳥羽国際ホテル, 志摩観光ホテル, いにしえの宿 伊久, 三重 冬旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-mie-iseshima-jingu-hatsumode-toba-matoya-oyster-ise-ebi-stay/"
   },
   openGraph: {
     title: '11・12・1月三重：伊勢海老！名宿5選',
-    description: '二千年の歴史を誇る日本の心のふるさと・伊勢志摩を巡る11〜1月の冬紀行。冬至前後に宇治橋大鳥居の中央から昇る奇跡の朝光と「伊勢神宮（内宮・外。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '二千年の歴史を誇る日本の心のふるさと・伊勢志摩を巡る11〜1月の冬紀行。冬至前後に宇治橋大鳥居の中央から昇る奇跡の朝光と「伊勢神宮（内宮・外。',
     url: 'https://croud-travel.pages.dev/winter-mie-iseshima-jingu-hatsumode-toba-matoya-oyster-ise-ebi-stay',
     type: 'article',
     images: [
@@ -423,7 +423,7 @@ export default function MieIseshimaWinterPage() {
               </h3>
               <ul className="text-xs text-slate-600 space-y-1.5 leading-relaxed">
                 <li>・<strong>生牡蠣：</strong>渋みがなく絹のように滑らかな舌触り。清浄滅菌による圧倒的な安心感。</li>
-                <li>・<strong>焼き牡蠣：</strong>殻の中で煮立つ熱々の貝汁と、凝縮された旨味のジュースを最後の一滴まで。</li>
+                <li>・<strong>焼き牡蠣：</strong>殻の中で煮立つ熱々の貝汁と、凝縮された旨味のジュースを最後の一滴まで、ゆったりとした時間を過ごせます。</li>
                 <li>・<strong>牡蠣雑炊：</strong>牡蠣の濃厚なエキスが出汁に溶け込んだ、冬の身体を芯から温める締め。</li>
               </ul>
             </div>

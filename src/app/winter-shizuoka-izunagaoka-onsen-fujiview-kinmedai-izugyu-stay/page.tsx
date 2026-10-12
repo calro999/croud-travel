@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '伊豆長岡温泉で過ごす冬の旅（11・12月）！金目鯛姿煮を味わう！名宿5選',
-  description: '11月中旬から12月の初冬を迎えた中伊豆・伊豆の国市「伊豆長岡温泉」は、駿河湾からの温かな黒潮の風に守られた温暖な気候のもと。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月中旬から12月の初冬を迎えた中伊豆・伊豆の国市「伊豆長岡温泉」は、駿河湾からの温かな黒潮の風に守られた温暖な気候のもと。',
   keywords: '伊豆長岡温泉 宿泊, 富士山 見える 温泉宿, 金目鯛 姿煮 旅館, 伊豆牛 ステーキ, 三養荘 サンバレー 天坊, 伊豆パノラマパーク 碧テラス, 古奈温泉 アルカリ性単純温泉, 11月 12月 伊豆旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shizuoka-izunagaoka-onsen-fujiview-kinmedai-izugyu-stay/"
   },
   openGraph: {
     title: '伊豆長岡温泉で過ごす冬の旅（11・12月）！金目鯛姿煮を味わう！名宿5選',
-    description: '11月中旬から12月の初冬を迎えた中伊豆・伊豆の国市「伊豆長岡温泉」は、駿河湾からの温かな黒潮の風に守られた温暖な気候のもと。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月中旬から12月の初冬を迎えた中伊豆・伊豆の国市「伊豆長岡温泉」は、駿河湾からの温かな黒潮の風に守られた温暖な気候のもと。',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-izunagaoka-onsen-fujiview-kinmedai-izugyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

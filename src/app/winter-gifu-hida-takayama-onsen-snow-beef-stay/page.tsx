@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月飛騨高山：極上A5飛騨牛すき焼き！名宿5選',
-  description: '11月から1月、小京都と称される岐阜県・飛騨高山は、江戸の面影を色濃く残す「古い町並み（さんまち通り）」や朱塗りの中橋。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から1月、小京都と称される岐阜県・飛騨高山は、江戸の面影を色濃く残す「古い町並み（さんまち通り）」や朱塗りの中橋。',
   keywords: '飛騨高山 雪景色 冬, 古い町並み 高山 冬, 飛騨牛 すき焼き 宿泊, 飛騨高山温泉 露天風呂, 本陣平野屋 花兆庵, 飛騨亭 花扇, 高山グリーンホテル, 宝生閣, 飛騨高山 酒蔵めぐり, 11月 12月 1月 飛騨高山旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-gifu-hida-takayama-onsen-snow-beef-stay/"
   },
   openGraph: {
     title: '11・12・1月飛騨高山：極上A5飛騨牛すき焼き！名宿5選',
-    description: '11月から1月、小京都と称される岐阜県・飛騨高山は、江戸の面影を色濃く残す「古い町並み（さんまち通り）」や朱塗りの中橋。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から1月、小京都と称される岐阜県・飛騨高山は、江戸の面影を色濃く残す「古い町並み（さんまち通り）」や朱塗りの中橋。',
     url: 'https://croud-travel.pages.dev/winter-gifu-hida-takayama-onsen-snow-beef-stay',
     siteName: 'クラドトラベル',
     images: [

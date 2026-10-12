@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '愛知・三河湾蒲郡温泉郷で過ごす冬の旅（11・12月）！極上三河牛と冬イルミを愉しむ！名宿5選',
-  description: '11月から12月にかけて、愛知県・三河湾の風光明媚な海岸線に広がる蒲郡温泉郷（蒲郡・三谷・西浦温泉）は、冬の澄み渡る青空と穏やかな海。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、愛知県・三河湾の風光明媚な海岸線に広がる蒲郡温泉郷（蒲郡・三谷・西浦温泉）は、冬の澄み渡る青空と穏やかな海を一望できる絶景宿が人気です。',
   keywords: '蒲郡温泉 宿泊, 蒲郡クラシックホテル, ホテル明山荘, 銀波荘, 平野屋, 和のリゾートはづ, メヒカリ, アカザエビ, 三河牛, 竹島, ラグーナテンボス, 11月 12月 蒲郡',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-aichi-gamagori-onsen-mikawawan-mehikari-akazaebi-stay/"
   },
   openGraph: {
     title: '愛知・三河湾蒲郡温泉郷で過ごす冬の旅（11・12月）！極上三河牛と冬イルミを愉しむ！名宿5選',
-    description: '11月から12月にかけて、愛知県・三河湾の風光明媚な海岸線に広がる蒲郡温泉郷（蒲郡・三谷・西浦温泉）は、冬の澄み渡る青空と穏やかな海。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、愛知県・三河湾の風光明媚な海岸線に広がる蒲郡温泉郷（蒲郡・三谷・西浦温泉）は、冬の澄み渡る青空と穏やかな海を一望できる絶景宿が人気です。',
     url: 'https://croud-travel.pages.dev/winter-aichi-gamagori-onsen-mikawawan-mehikari-akazaebi-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

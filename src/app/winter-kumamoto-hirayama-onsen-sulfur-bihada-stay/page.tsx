@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '熊本・平山温泉で過ごす冬の旅（11・12月）！特選肥後あか牛！名宿5選',
-  description: '11月から12月にかけて熊本県北部・山鹿市の山あいに隠れる「平山温泉」は、冷涼な初冬の大気の中に立ち上る乳白色の湯けむりと。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて熊本県北部・山鹿市の山あいに隠れる「平山温泉」は、冷涼な初冬の大気の中に立ち上る乳白色の湯けむりと。',
   keywords: '平山温泉 宿泊, 平山温泉 11月 12月, ほたるの長屋 平山温泉, 一木一草 平山, 善屋 平山温泉, 奥山鹿温泉旅館, 上田屋 平山, 肥後あか牛 宿, 熊本 馬刺し 温泉, pH9.7 美肌 硫黄泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kumamoto-hirayama-onsen-sulfur-bihada-stay/"
   },
   openGraph: {
     title: '熊本・平山温泉で過ごす冬の旅（11・12月）！特選肥後あか牛！名宿5選',
-    description: '11月から12月にかけて熊本県北部・山鹿市の山あいに隠れる「平山温泉」は、冷涼な初冬の大気の中に立ち上る乳白色の湯けむりと。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて熊本県北部・山鹿市の山あいに隠れる「平山温泉」は、冷涼な初冬の大気の中に立ち上る乳白色の湯けむりと。',
     url: 'https://croud-travel.pages.dev/winter-kumamoto-hirayama-onsen-sulfur-bihada-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',

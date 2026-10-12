@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '福岡・原鶴温泉で過ごす冬の旅（11・12月）！博多和牛会席！名宿5選',
-  description: '11月から12月にかけて、福岡市内から高速で約60分、九州一の大河・筑後川のほとりに佇む「原鶴温泉（はらづるおんせん）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、福岡市内から高速で約60分、九州一の大河・筑後川のほとりに佇む「原鶴温泉（はらづるおんせん）」は、注目の旅宿が揃っています。',
   keywords: '原鶴温泉 宿泊, 福岡 温泉 11月 12月, 原鶴温泉 泰泉閣, 延命館, ホテルパーレンス小野屋, 原鶴グランドスカイホテル, 六峰舘, 博多和牛 宿, W美肌の湯, 筑後川 絶景露天',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay/"
   },
   openGraph: {
     title: '福岡・原鶴温泉で過ごす冬の旅（11・12月）！博多和牛会席！名宿5選',
-    description: '11月から12月にかけて、福岡市内から高速で約60分、九州一の大河・筑後川のほとりに佇む「原鶴温泉（はらづるおんせん）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、福岡市内から高速で約60分、九州一の大河・筑後川のほとりに佇む「原鶴温泉（はらづるおんせん）」は、注目の旅宿が揃っています。',
     url: 'https://croud-travel.pages.dev/winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',

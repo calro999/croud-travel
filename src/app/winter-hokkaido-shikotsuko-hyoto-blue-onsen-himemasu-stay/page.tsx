@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月北海道：千歳支笏湖ブルーの冬絶景！名宿5選',
-  description: '11月から1月、日本最北の不凍湖・支笏湖は、水質日本一に幾度も輝いた透明度が極限まで高まり。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から1月、日本最北の不凍湖・支笏湖は、水質日本一に幾度も輝いた透明度が極限まで高まり。',
   keywords: '支笏湖 冬 旅行, 支笏湖氷濤まつり ホテル, 支笏湖温泉 宿, しこつ湖鶴雅リゾートスパ 水の謌, 丸駒温泉旅館 足元湧出, 支笏湖第一寶亭留 翠山亭, レイクサイドヴィラ翠明閣, 休暇村 支笏湖, 支笏湖ブルー, ヒメマス チップ料理, 白老牛 ステーキ, 11月 12月 1月 北海道旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hokkaido-shikotsuko-hyoto-blue-onsen-himemasu-stay/"
   },
   openGraph: {
     title: '11・12・1月北海道：千歳支笏湖ブルーの冬絶景！名宿5選',
-    description: '11月から1月、日本最北の不凍湖・支笏湖は、水質日本一に幾度も輝いた透明度が極限まで高まり。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から1月、日本最北の不凍湖・支笏湖は、水質日本一に幾度も輝いた透明度が極限まで高まり。',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-shikotsuko-hyoto-blue-onsen-himemasu-stay',
     siteName: 'クラドトラベル',
     images: [

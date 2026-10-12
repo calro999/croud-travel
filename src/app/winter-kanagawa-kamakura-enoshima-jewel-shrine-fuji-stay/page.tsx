@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月神奈川：鶴岡八幡宮新春初詣！名宿5選',
-  description: '11月から1月、湘南・鎌倉・江の島は澄み切った冬空が広がり、相模湾の向こうに純白の冠雪を抱いた富士山が最もくっきりと美しく浮かび上がります。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から1月、湘南・鎌倉・江の島は澄み切った冬空が広がり、相模湾の向こうに純白の冠雪を抱いた富士山が最もくっきりと美しく浮かび上がります。',
   keywords: '鎌倉 江の島 冬 旅行, 湘南の宝石, 江の島シーキャンドル イルミネーション, 鶴岡八幡宮 初詣, 富士山 夕景 湘南, 鎌倉プリンスホテル, ホテルメトロポリタン鎌倉, 江の島ホテル, ブレスホテル, かいひん荘鎌倉, 寒平目 カワハギ 肝和え, 葉山牛, 11月 12月 1月 神奈川旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay/"
   },
   openGraph: {
     title: '11・12・1月神奈川：鶴岡八幡宮新春初詣！名宿5選',
-    description: '11月から1月、湘南・鎌倉・江の島は澄み切った冬空が広がり、相模湾の向こうに純白の冠雪を抱いた富士山が最もくっきりと美しく浮かび上がります。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から1月、湘南・鎌倉・江の島は澄み切った冬空が広がり、相模湾の向こうに純白の冠雪を抱いた富士山が最もくっきりと美しく浮かび上がります。',
     url: 'https://croud-travel.pages.dev/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay',
     siteName: 'クラドトラベル',
     images: [
@@ -302,7 +302,7 @@ export default function KanagawaKamakuraEnoshimaWinterPage() {
           <div className="border-b border-stone-100 pb-4">
             <span className="text-blue-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Introduction</span>
             <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の大気だけが魅せる富士山と光の海。古都の静寂と湘南の華やぎが交差する季節へ
+              冬の大気だけが魅せる富士山と光の海を一望できる絶景宿が人気です。古都の静寂と湘南の華やぎが交差する季節へ
             </h2>
           </div>
           
@@ -453,7 +453,7 @@ export default function KanagawaKamakuraEnoshimaWinterPage() {
               冬の鎌倉・江の島ステイを彩る厳選名宿5選
             </h2>
             <p className="text-stone-600 text-sm sm:text-base mt-1">
-              七里ヶ浜越しの富士山を望む名門ホテルから、若宮大路のモダンホテル、江の島島内スパ温泉宿まで。
+              七里ヶ浜越しの富士山を望む名門ホテルから、若宮大路のモダンホテル、江の島島内スパ温泉宿まで、ゆったりとした時間を過ごせます。
             </p>
           </div>
 

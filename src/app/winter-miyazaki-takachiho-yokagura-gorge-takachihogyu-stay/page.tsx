@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '宮崎・神話で過ごす冬の旅（11・12月）！名物A5高千穂牛ステーキ！名宿5選',
-  description: '11月中旬から翌年2月にかけて、日本神話「天孫降臨」の舞台である宮崎県高千穂町では。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月中旬から翌年2月にかけて、日本神話「天孫降臨」の舞台である宮崎県高千穂町では、注目の旅宿が揃っています。',
   keywords: '高千穂 宿泊, 旅館神仙, 離れの宿神隠れ, ホテル高千穂, ソレスト高千穂ホテル, 旅館大和屋, 高千穂の夜神楽, 高千穂峡 真名井の滝, 高千穂牛, かっぽ鶏, かっぽ酒, 11月 12月 高千穂',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-miyazaki-takachiho-yokagura-gorge-takachihogyu-stay/"
   },
   openGraph: {
     title: '宮崎・神話で過ごす冬の旅（11・12月）！名物A5高千穂牛ステーキ！名宿5選',
-    description: '11月中旬から翌年2月にかけて、日本神話「天孫降臨」の舞台である宮崎県高千穂町では。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月中旬から翌年2月にかけて、日本神話「天孫降臨」の舞台である宮崎県高千穂町では、注目の旅宿が揃っています。',
     url: 'https://croud-travel.pages.dev/winter-miyazaki-takachiho-yokagura-gorge-takachihogyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '島根・温泉津温泉で過ごす冬の旅（11・12月）！しまね和牛に心奪われる！名宿5選',
-  description: '11月中旬から初冬の島根・石見地方に位置する温泉津温泉（ゆのつおんせん）と有福温泉（ありふくおんせん）は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月中旬から初冬の島根・石見地方に位置する温泉津温泉（ゆのつおんせん）と有福温泉（ありふくおんせん）は、注目の旅宿が揃っています。',
   keywords: '温泉津温泉 宿泊, 有福温泉 旅館, 薬師湯 オール5, 輝雲荘, のがわや旅館, ますや 温泉津, のどぐろ 塩焼き, しまね和牛, 石見銀山 温泉宿, 11月 12月 島根旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shimane-yunotsu-onsen-iwamiginzan-nodoguro-wagyu-stay/"
   },
   openGraph: {
     title: '島根・温泉津温泉で過ごす冬の旅（11・12月）！しまね和牛に心奪われる！名宿5選',
-    description: '11月中旬から初冬の島根・石見地方に位置する温泉津温泉（ゆのつおんせん）と有福温泉（ありふくおんせん）は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月中旬から初冬の島根・石見地方に位置する温泉津温泉（ゆのつおんせん）と有福温泉（ありふくおんせん）は、注目の旅宿が揃っています。',
     url: 'https://croud-travel.pages.dev/winter-shimane-yunotsu-onsen-iwamiginzan-nodoguro-wagyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

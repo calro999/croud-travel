@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月広島：西条酒蔵通りの冬新酒仕込み！名宿5選',
-  description: '灘・伏見と並び称される日本三大銘醸地「西条酒蔵通り」が最も熱気を帯びる11〜1月の冬旅特集。赤レンガ煙突と白壁なまこ壁が連なる路地に立ち上る。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '灘・伏見と並び称される日本三大銘醸地「西条酒蔵通り」が最も熱気を帯びる11〜1月の冬旅特集。赤レンガ煙突と白壁なまこ壁が連なる路地に立ち上る。',
   keywords: '西条 酒蔵通り 冬, 美酒鍋 西条, 竹原 町並み保存地区, 峠下牛, 東広島 ホテル, グリーンスカイホテル竹原, モーリス 西条, 新酒仕込み 広島, 安芸の小京都',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hiroshima-saijo-takehara-sake-brewery-bikan-stay/"
   },
   openGraph: {
     title: '11・12・1月広島：西条酒蔵通りの冬新酒仕込み！名宿5選',
-    description: '灘・伏見と並び称される日本三大銘醸地「西条酒蔵通り」が最も熱気を帯びる11〜1月の冬旅特集。赤レンガ煙突と白壁なまこ壁が連なる路地に立ち上る。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '灘・伏見と並び称される日本三大銘醸地「西条酒蔵通り」が最も熱気を帯びる11〜1月の冬旅特集。赤レンガ煙突と白壁なまこ壁が連なる路地に立ち上る。',
     url: 'https://croud-travel.pages.dev/winter-hiroshima-saijo-takehara-sake-brewery-bikan-stay',
     type: 'article',
     images: [

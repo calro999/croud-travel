@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '湯瀬温泉＆鹿角で過ごす冬の旅（11・12月）！日本三大美人の湯と米代川雪渓谷！名宿5選',
-  description: '11月から12月にかけて、十和田八幡平国立公園の南麓に位置する秋田県鹿角市（かづのし）は、澄み切った冷気とともに初雪を迎え。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、十和田八幡平国立公園の南麓に位置する秋田県鹿角市（かづのし）は、澄み切った冷気とともに初雪を迎え。',
   keywords: '湯瀬温泉 旅館, 鹿角 温泉, 湯瀬ホテル, ホテル鹿角, 八幡平高原ホテル, 亀の井ホテル 秋田湯瀬, 岡部荘, 日本三大美人の湯, きりたんぽ鍋, 比内地鶏, 11月 12月 秋田温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-akita-yuze-onsen-towada-kiritanpo-hinaijidori-stay/"
   },
   openGraph: {
     title: '湯瀬温泉＆鹿角で過ごす冬の旅（11・12月）！日本三大美人の湯と米代川雪渓谷！名宿5選',
-    description: '11月から12月にかけて、十和田八幡平国立公園の南麓に位置する秋田県鹿角市（かづのし）は、澄み切った冷気とともに初雪を迎え。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、十和田八幡平国立公園の南麓に位置する秋田県鹿角市（かづのし）は、澄み切った冷気とともに初雪を迎え。',
     url: 'https://croud-travel.pages.dev/winter-akita-yuze-onsen-towada-kiritanpo-hinaijidori-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

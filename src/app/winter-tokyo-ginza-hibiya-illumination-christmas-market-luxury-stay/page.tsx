@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月東京：HIBIYA Magic Timeイルミ！名宿5選',
-  description: '11月中旬から1月にかけて、銀座・日比谷・有楽町は世界屈指の洗練と華やぎに満ちた冬の祝祭シーズンを迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月中旬から1月にかけて、銀座・日比谷・有楽町は世界屈指の洗練と華やぎに満ちた冬の祝祭シーズンを迎えます。',
   keywords: '銀座 ホテル, 日比谷 イルミネーション, 東京クリスマスマーケット 日比谷, 帝国ホテル 東京, ザ ペニンシュラ東京, 三井ガーデンホテル銀座プレミア, 銀座 美食 すき焼き, 11月 12月 1月 東京 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tokyo-ginza-hibiya-illumination-christmas-market-luxury-stay/"
   },
   openGraph: {
     title: '11・12・1月東京：HIBIYA Magic Timeイルミ！名宿5選',
-    description: '11月中旬から1月にかけて、銀座・日比谷・有楽町は世界屈指の洗練と華やぎに満ちた冬の祝祭シーズンを迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月中旬から1月にかけて、銀座・日比谷・有楽町は世界屈指の洗練と華やぎに満ちた冬の祝祭シーズンを迎えます。',
     url: 'https://croud-travel.pages.dev/winter-tokyo-ginza-hibiya-illumination-christmas-market-luxury-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
@@ -106,7 +106,7 @@ export default function TokyoGinzaHibiyaWinterPage() {
               url: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F41069%2F41069.html",
               story: "銀座八丁目のランドマーク「銀座ウォータータワー」の上層階（16〜25階）に位置する「三井ガーデンホテル銀座プレミア」。ロビーに降り立った瞬間、16階の吹き抜けパノラマウィンドウから眼下一面に広がる東京タワーと銀座・汐留の息を呑む摩天楼夜景が広がります。客室はすべて17階以上の高層階に配され、ビューバス仕様のお部屋では、湯船に浸かりながら冬の夜空に輝く東京タワーを独り占めする贅沢なバスタイムが叶います。レストラン「RISTORANTE E'VOLTA il cielo。」では、朝食からディナーまで、東京の絶景とともに厳選食材を用いた本格イタリアンを楽しめます。",
               roomTip: "デラックスキング（東京タワービュー・ビューバス）。浴槽からライトアップされた冬の東京タワーを望める、記念日やご褒美旅行の特等席。",
-              gourmetTip: "「RISTORANTE E'VOLTA il cielo（16F）。」。朝食ビュッフェでは焼き立てのガレットやフレッシュな野菜、温かいミネストローネを絶景とともに。",
+              gourmetTip: "「RISTORANTE E'VOLTA il cielo（16F）。」。朝食ビュッフェでは焼き立てのガレットやフレッシュな野菜、温かいミネストローネを絶景とともに位置し、観光拠点として親しまれています。",
               highlights: [
                 "全室17階以上の高層階・ビューバスから東京タワー夜景・16階ロビーからの息を呑むパノラマ",
                 "RISTORANTE E'VOLTA il cieloでの美食・銀座中央通りの光を見下ろす夜景",

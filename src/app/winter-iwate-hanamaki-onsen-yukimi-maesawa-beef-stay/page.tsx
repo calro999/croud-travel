@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '花巻温泉郷で過ごす冬の旅（11・12月）！極上前沢牛！名宿5選',
-  description: '童話作家・宮沢賢治が愛した理想郷「イーハトーブ」の地・岩手県花巻温泉郷。11月下旬の初雪から12月の白銀世界へと移ろう初冬。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '童話作家・宮沢賢治が愛した理想郷「イーハトーブ」の地・岩手県花巻温泉郷。11月下旬の初雪から12月の白銀世界へと移ろう初冬。',
   keywords: '花巻温泉郷 宿泊 11月 12月, 花巻温泉 佳松園 予約, 鉛温泉 藤三旅館 白猿の湯, 前沢牛 白金豚 旅館, 花巻温泉 雪見露天風呂, 宮沢賢治 イーハトーブ 花巻, 花巻温泉郷 冬 モデルコース',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay/",
   },
   openGraph: {
     title: '花巻温泉郷で過ごす冬の旅（11・12月）！極上前沢牛！名宿5選',
-    description: '童話作家・宮沢賢治が愛した理想郷「イーハトーブ」の地・岩手県花巻温泉郷。11月下旬の初雪から12月の白銀世界へと移ろう初冬。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '童話作家・宮沢賢治が愛した理想郷「イーハトーブ」の地・岩手県花巻温泉郷。11月下旬の初雪から12月の白銀世界へと移ろう初冬。',
     url: 'https://croud-travel.pages.dev/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',

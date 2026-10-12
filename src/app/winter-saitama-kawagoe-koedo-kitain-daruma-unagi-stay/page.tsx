@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月埼玉：喜多院初大師だるま市新春初詣！名宿5選',
-  description: '11月から1月、黒漆喰の重厚な蔵造り商家が軒を連ねる埼玉県川越市は、冬の澄み渡る青空と新春の活気あふれる初詣シーズンを迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から1月、黒漆喰の重厚な蔵造り商家が軒を連ねる埼玉県川越市は、冬の澄み渡る青空と新春の活気あふれる初詣シーズンを迎えます。',
   keywords: '川越 冬 観光, 小江戸川越, 喜多院 だるま市 初大師, 時の鐘, 川越うなぎ 老舗, 小江戸黒豚, 菓子屋横丁 いも恋, 川越東武ホテル, 川越プリンスホテル, スーパーホテル埼玉川越, ホテル三光, 川越第一ホテル, 11月 12月 1月 埼玉旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-saitama-kawagoe-koedo-kitain-daruma-unagi-stay/"
   },
   openGraph: {
     title: '11・12・1月埼玉：喜多院初大師だるま市新春初詣！名宿5選',
-    description: '11月から1月、黒漆喰の重厚な蔵造り商家が軒を連ねる埼玉県川越市は、冬の澄み渡る青空と新春の活気あふれる初詣シーズンを迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から1月、黒漆喰の重厚な蔵造り商家が軒を連ねる埼玉県川越市は、冬の澄み渡る青空と新春の活気あふれる初詣シーズンを迎えます。',
     url: 'https://croud-travel.pages.dev/winter-saitama-kawagoe-koedo-kitain-daruma-unagi-stay',
     siteName: 'クラドトラベル',
     images: [

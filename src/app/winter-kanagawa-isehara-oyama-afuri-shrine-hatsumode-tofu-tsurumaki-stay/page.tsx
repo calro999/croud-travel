@@ -7,14 +7,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月神奈川：「大山阿夫利神社」新春初詣と！名宿5選',
-  description: '江戸時代から庶民の信仰を集め日本遺産にも認定された「大山詣り」。11〜1月の冬シーズンは空気が研ぎ澄まされ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '江戸時代から庶民の信仰を集め日本遺産にも認定された「大山詣り」。11〜1月の冬シーズンは空気が研ぎ澄まされ。',
   keywords: '大山阿夫利神社 初詣, 大山詣り, 大山豆腐, 鶴巻温泉 元湯陣屋, 七沢温泉 福元館, 七扇, 玉翠楼, ルートイン伊勢原, ミシュラン 相模湾 絶景, 神奈川 冬温泉',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-kanagawa-isehara-oyama-afuri-shrine-hatsumode-tofu-tsurumaki-stay'
   },
   openGraph: {
     title: '11・12・1月神奈川：「大山阿夫利神社」新春初詣と！名宿5選',
-    description: '江戸時代から庶民の信仰を集め日本遺産にも認定された「大山詣り」。11〜1月の冬シーズンは空気が研ぎ澄まされ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '江戸時代から庶民の信仰を集め日本遺産にも認定された「大山詣り」。11〜1月の冬シーズンは空気が研ぎ澄まされ。',
     url: 'https://croud-travel.pages.dev/winter-kanagawa-isehara-oyama-afuri-shrine-hatsumode-tofu-tsurumaki-stay',
     type: 'article',
     images: [

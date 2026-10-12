@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '伊豆稲取温泉で過ごす冬の旅（11・12月）！オーシャンビュー展望露天風呂！名宿5選',
-  description: '11月から12月にかけて、伊豆半島東海岸の岬に広がる稲取温泉は、冬の味覚の最高峰「稲取一本釣り地金目鯛（きんめだい）」が年間で最も上質な脂を。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、伊豆半島東海岸の岬に広がる稲取温泉は、冬の味覚の最高峰「稲取一本釣り地金目鯛（きんめだい）」が年間で最も上質な脂を。',
   keywords: '稲取温泉 宿泊, 伊豆 温泉 11月 12月, 稲取銀水荘, 食べるお宿 浜の湯, 稲取東海ホテル湯苑, いなとり荘, 石花海, 稲取金目鯛 姿煮, 相模灘 絶景露天, 伊豆 避寒旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay/"
   },
   openGraph: {
     title: '伊豆稲取温泉で過ごす冬の旅（11・12月）！オーシャンビュー展望露天風呂！名宿5選',
-    description: '11月から12月にかけて、伊豆半島東海岸の岬に広がる稲取温泉は、冬の味覚の最高峰「稲取一本釣り地金目鯛（きんめだい）」が年間で最も上質な脂を。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、伊豆半島東海岸の岬に広がる稲取温泉は、冬の味覚の最高峰「稲取一本釣り地金目鯛（きんめだい）」が年間で最も上質な脂を。',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',

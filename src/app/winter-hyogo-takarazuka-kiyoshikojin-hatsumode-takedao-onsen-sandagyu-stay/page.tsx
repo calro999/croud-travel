@@ -7,14 +7,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月兵庫：武田尾温泉の秘湯雪見露天！名宿5選',
-  description: '夢の舞台が華やぐ宝塚大劇場と、武庫川渓谷の奥深くに隠された秘湯・武田尾温泉を巡る11〜1月の冬紀行。「火の神・台所の神」として関西一円から信。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '夢の舞台が華やぐ宝塚大劇場と、武庫川渓谷の奥深くに隠された秘湯・武田尾温泉を巡る11〜1月の冬紀行。「火の神・台所の神」として関西一円から信。',
   keywords: '宝塚大劇場 冬, 清荒神 初詣, 中山寺 初詣, 武田尾温泉 紅葉舘別庭あざれ, 宝塚ホテル, ホテル若水, 三田牛, 宝塚温泉, 兵庫 冬旅行, 隈研吾 温泉',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-hyogo-takarazuka-kiyoshikojin-hatsumode-takedao-onsen-sandagyu-stay'
   },
   openGraph: {
     title: '11・12・1月兵庫：武田尾温泉の秘湯雪見露天！名宿5選',
-    description: '夢の舞台が華やぐ宝塚大劇場と、武庫川渓谷の奥深くに隠された秘湯・武田尾温泉を巡る11〜1月の冬紀行。「火の神・台所の神」として関西一円から信。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '夢の舞台が華やぐ宝塚大劇場と、武庫川渓谷の奥深くに隠された秘湯・武田尾温泉を巡る11〜1月の冬紀行。「火の神・台所の神」として関西一円から信。',
     url: 'https://croud-travel.pages.dev/winter-hyogo-takarazuka-kiyoshikojin-hatsumode-takedao-onsen-sandagyu-stay',
     type: 'article',
     images: [

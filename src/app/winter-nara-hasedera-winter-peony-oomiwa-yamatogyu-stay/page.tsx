@@ -6,14 +6,14 @@ import { Star, MapPin, CheckCircle2, Sparkles, Calendar, Utensils, Compass, Exte
 
 export const metadata: Metadata = {
   title: '11・12・1月奈良：極上大和牛を味わう！名宿5選',
-  description: '11月から1月、古都・奈良の大和路は凛とした冬の澄んだ空気に包まれ、神話と歴史が息づく静謐な祈りの季節を迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から1月、古都・奈良の大和路は凛とした冬の澄んだ空気に包まれ、神話と歴史が息づく静謐な祈りの季節を迎えます。',
   keywords: '長谷寺 冬牡丹 寒牡丹 見頃, 大神神社 初詣 三輪山, 橿原神宮 初詣 混雑, 大和牛 すき焼き 宿, 長谷寺 温泉 井谷屋, 多武峰観光ホテル, カンデオホテルズ 奈良橿原, グランドメルキュール奈良橿原, ホテル奈良さくらいの郷, 11月 12月 1月 奈良旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nara-hasedera-winter-peony-oomiwa-yamatogyu-stay/"
   },
   openGraph: {
     title: '11・12・1月奈良：極上大和牛を味わう！名宿5選',
-    description: '11月から1月、古都・奈良の大和路は凛とした冬の澄んだ空気に包まれ、神話と歴史が息づく静謐な祈りの季節を迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から1月、古都・奈良の大和路は凛とした冬の澄んだ空気に包まれ、神話と歴史が息づく静謐な祈りの季節を迎えます。',
     url: 'https://croud-travel.pages.dev/winter-nara-hasedera-winter-peony-oomiwa-yamatogyu-stay',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/8550/8550.jpg', width: 1200, height: 630, alt: '長谷寺冬牡丹と大神神社初詣名宿' }]

@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '山形蔵王温泉で過ごす冬の旅（11・12月）！極上山形牛すき焼き！名宿5選',
-  description: '11月下旬から12月にかけて奥羽山脈の主峰・蔵王連峰に雪が降り積もり、冬の奇跡「樹氷（スノーモンスター）」が徐々に姿を現し始める山形「蔵王温泉」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月下旬から12月にかけて奥羽山脈の主峰・蔵王連峰に雪が降り積もり、冬の奇跡「樹氷（スノーモンスター）」が徐々に姿を現し始める山形「蔵王温泉」。',
   keywords: '蔵王温泉 宿泊, 蔵王温泉 11月 12月, 深山荘 高見屋, 蔵王国際ホテル, 蔵王四季のホテル, ルーセントタカミヤ, おおみや旅館, 蔵王 樹氷 ライトアップ, 蔵王ロープウェイ, 山形牛 すき焼き, 山形 芋煮',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay/",
   },
   openGraph: {
     title: '山形蔵王温泉で過ごす冬の旅（11・12月）！極上山形牛すき焼き！名宿5選',
-    description: '11月下旬から12月にかけて奥羽山脈の主峰・蔵王連峰に雪が降り積もり、冬の奇跡「樹氷（スノーモンスター）」が徐々に姿を現し始める山形「蔵王温泉」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月下旬から12月にかけて奥羽山脈の主峰・蔵王連峰に雪が降り積もり、冬の奇跡「樹氷（スノーモンスター）」が徐々に姿を現し始める山形「蔵王温泉」。',
     url: 'https://croud-travel.pages.dev/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
@@ -648,7 +648,7 @@ export default function ZaoOnsenWinterPage() {
               </div>
               <div className="text-xs sm:text-sm text-slate-700">
                 <strong className="text-slate-900 block mb-0.5">温泉街の高湯通り散策＆名物「稲花餅（いがもち）」</strong>
-                チェックアウト後、湯煙立ち上る温泉街のメインストリート「高湯通り」や上湯・下湯共同浴場を散策。笹の葉に載った名物「稲花餅」をお土産に。
+                チェックアウト後、湯煙立ち上る温泉街のメインストリート「高湯通り」や上湯・下湯共同浴場を散策。笹の葉に載った名物「稲花餅」をお土産に位置し、観光拠点として親しまれています。
               </div>
             </div>
           </div>

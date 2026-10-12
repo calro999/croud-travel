@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '函館湯で過ごす冬の旅（11・12月）！毛蟹会席！名宿5選',
-  description: '11月から12月にかけて津軽海峡にイカ釣り漁船の幻想的な漁火（いさりび）が瞬く北海道三大温泉郷「湯の川温泉」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて津軽海峡にイカ釣り漁船の幻想的な漁火（いさりび）が瞬く北海道三大温泉郷「湯の川温泉」。',
   keywords: '函館 湯の川温泉 宿泊, 湯の川温泉 11月 12月, 湯の川プリンスホテル渚亭, 望楼NOGUCHI函館, 割烹旅館 若松, 函館クリスマスファンタジー, 津軽海峡 漁火 露天風呂, 冬イカ 毛蟹 函館朝市',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay/",
   },
   openGraph: {
     title: '函館湯で過ごす冬の旅（11・12月）！毛蟹会席！名宿5選',
-    description: '11月から12月にかけて津軽海峡にイカ釣り漁船の幻想的な漁火（いさりび）が瞬く北海道三大温泉郷「湯の川温泉」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて津軽海峡にイカ釣り漁船の幻想的な漁火（いさりび）が瞬く北海道三大温泉郷「湯の川温泉」。',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',

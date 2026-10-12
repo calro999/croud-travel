@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '武雄温泉で過ごす冬の旅（11・12月）！国重文！名宿5選',
-  description: '1300年の歴史を誇り、東京駅を設計した辰野金吾が手がけた国重要文化財「朱塗りの楼門」がシンボルの名湯「武雄温泉」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '1300年の歴史を誇り、東京駅を設計した辰野金吾が手がけた国重要文化財「朱塗りの楼門」がシンボルの名湯「武雄温泉」。',
   keywords: '武雄温泉 宿泊, 武雄温泉 11月 12月, 御船山楽園ホテル, 懐石宿 扇屋, ホテル春慶屋, 京都屋 武雄, 風の森 奥武雄, 辰野金吾 朱塗り楼門, 佐賀牛 ステーキ, 御船山楽園 紅葉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-saga-takeo-onsen-romon-saga-beef-stay/",
   },
   openGraph: {
     title: '武雄温泉で過ごす冬の旅（11・12月）！国重文！名宿5選',
-    description: '1300年の歴史を誇り、東京駅を設計した辰野金吾が手がけた国重要文化財「朱塗りの楼門」がシンボルの名湯「武雄温泉」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '1300年の歴史を誇り、東京駅を設計した辰野金吾が手がけた国重要文化財「朱塗りの楼門」がシンボルの名湯「武雄温泉」。',
     url: 'https://croud-travel.pages.dev/winter-saga-takeo-onsen-romon-saga-beef-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',

@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月滋賀：彦根城雪化粧と日本三大和牛「！名宿5選',
-  description: '11月から1月、滋賀県・湖東エリア（近江八幡・彦根）は、白銀に染まる国宝・彦根城天守の荘厳な雪化粧と、八幡堀や水郷の静謐な冬景色に包まれます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から1月、滋賀県・湖東エリア（近江八幡・彦根）は、白銀に染まる国宝・彦根城天守の荘厳な雪化粧と、八幡堀や水郷の静謐な冬景色に包まれます。',
   keywords: '彦根城 雪景色, 近江八幡 水郷 冬, 近江牛 すき焼き, 彦根キャッスル リゾート＆スパ, 休暇村 近江八幡, 料亭旅館やす井, ホテルニューオウミ, ビワフロント彦根, 11月 12月 1月 滋賀旅行, 琵琶湖 冬 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay/"
   },
   openGraph: {
     title: '11・12・1月滋賀：彦根城雪化粧と日本三大和牛「！名宿5選',
-    description: '11月から1月、滋賀県・湖東エリア（近江八幡・彦根）は、白銀に染まる国宝・彦根城天守の荘厳な雪化粧と、八幡堀や水郷の静謐な冬景色に包まれます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から1月、滋賀県・湖東エリア（近江八幡・彦根）は、白銀に染まる国宝・彦根城天守の荘厳な雪化粧と、八幡堀や水郷の静謐な冬景色に包まれます。',
     url: 'https://croud-travel.pages.dev/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay',
     siteName: 'クラドトラベル',
     images: [

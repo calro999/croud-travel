@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月茨城：日本三名瀑！名宿5選',
-  description: '11月から1月、茨城県北部の奥久慈大子町は凛冽な冷気に包まれ、日本三名瀑「袋田の滝」が純白の氷壁へと変貌を遂げる「氷瀑（ひょうばく）」のシー。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から1月、茨城県北部の奥久慈大子町は凛冽な冷気に包まれ、日本三名瀑「袋田の滝」が純白の氷壁へと変貌を遂げる「氷瀑（ひょうばく）」のシー。',
   keywords: '袋田の滝 氷瀑, 袋田の滝 冬, 奥久慈軍鶏 鍋, 常陸牛 ステーキ, 袋田温泉 思い出浪漫館, 悠久の宿 滝美館, 大子温泉 やみぞ, 元祖しゃも弁当の宿 玉屋旅館, 四季の湯宿 梅屋山荘, 大子来人 ライトアップ, 常陸秋そば, 11月 12月 1月 茨城旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-ibaraki-fukuroda-waterfall-ice-onsen-shamo-stay/"
   },
   openGraph: {
     title: '11・12・1月茨城：日本三名瀑！名宿5選',
-    description: '11月から1月、茨城県北部の奥久慈大子町は凛冽な冷気に包まれ、日本三名瀑「袋田の滝」が純白の氷壁へと変貌を遂げる「氷瀑（ひょうばく）」のシー。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から1月、茨城県北部の奥久慈大子町は凛冽な冷気に包まれ、日本三名瀑「袋田の滝」が純白の氷壁へと変貌を遂げる「氷瀑（ひょうばく）」のシー。',
     url: 'https://croud-travel.pages.dev/winter-ibaraki-fukuroda-waterfall-ice-onsen-shamo-stay',
     siteName: 'クラドトラベル',
     images: [

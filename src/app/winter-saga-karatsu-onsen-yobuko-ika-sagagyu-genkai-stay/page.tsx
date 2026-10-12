@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '佐賀・唐津呼子温泉で過ごす冬の旅（11・12月）！極上佐賀牛ステーキ！名宿5選',
-  description: '11月から12月にかけて、佐賀県北西部に位置する城下町・唐津と港町・呼子は、玄界灘の冬の荒波が育む極上の海の幸と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、佐賀県北西部に位置する城下町・唐津と港町・呼子は、玄界灘の冬の荒波が育む極上の海の幸と。',
   keywords: '唐津 宿泊, 呼子 宿泊, 唐津シーサイドホテル, 洋々閣, 観光ホテル大望閣, 渚館きむら唐津茶屋, 旅館綿屋, 呼子の活イカ, 佐賀牛, 唐津焼, 唐津城, 11月 12月 唐津',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-saga-karatsu-onsen-yobuko-ika-sagagyu-genkai-stay/"
   },
   openGraph: {
     title: '佐賀・唐津呼子温泉で過ごす冬の旅（11・12月）！極上佐賀牛ステーキ！名宿5選',
-    description: '11月から12月にかけて、佐賀県北西部に位置する城下町・唐津と港町・呼子は、玄界灘の冬の荒波が育む極上の海の幸と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、佐賀県北西部に位置する城下町・唐津と港町・呼子は、玄界灘の冬の荒波が育む極上の海の幸と。',
     url: 'https://croud-travel.pages.dev/winter-saga-karatsu-onsen-yobuko-ika-sagagyu-genkai-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '熊本・杖立温泉で過ごす冬の旅（11・12月）！名物地獄蒸しと極上肥後あか牛！名宿5選',
-  description: '11月中旬から阿蘇・小国郷の山峡に冷涼な冬の気配が満ち、杖立川の川面から幾筋もの真っ白な湯けむりがダイナミックに立ち上る熊本県・杖立温泉（つ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月中旬から阿蘇・小国郷の山峡に冷涼な冬の気配が満ち、杖立川の川面から幾筋もの真っ白な湯けむりがダイナミックに立ち上る熊本県・杖立温泉（つ。',
   keywords: '杖立温泉 宿泊, わいた温泉郷 旅館, つえたて温泉ひぜんや, 純和風旅館 泉屋, 葉隠館, 旅館よろづや, 旅館 山翠, むし湯, 地獄蒸し, 肥後あか牛, 杖立プリン, 11月 12月 熊本温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kumamoto-tsuetate-waita-onsen-steaming-higogyu-stay/"
   },
   openGraph: {
     title: '熊本・杖立温泉で過ごす冬の旅（11・12月）！名物地獄蒸しと極上肥後あか牛！名宿5選',
-    description: '11月中旬から阿蘇・小国郷の山峡に冷涼な冬の気配が満ち、杖立川の川面から幾筋もの真っ白な湯けむりがダイナミックに立ち上る熊本県・杖立温泉（つ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月中旬から阿蘇・小国郷の山峡に冷涼な冬の気配が満ち、杖立川の川面から幾筋もの真っ白な湯けむりがダイナミックに立ち上る熊本県・杖立温泉（つ。',
     url: 'https://croud-travel.pages.dev/winter-kumamoto-tsuetate-waita-onsen-steaming-higogyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

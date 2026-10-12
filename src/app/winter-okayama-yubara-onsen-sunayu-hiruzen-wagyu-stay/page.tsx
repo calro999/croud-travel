@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '岡山・湯原温泉で過ごす冬の旅（11・12月）！pH9.3アルカリ美肌天然自噴泉！名宿5選',
-  description: '11月から12月にかけて、岡山県北部の旭川上流に佇む名湯「湯原温泉（ゆばらおんせん）」は、美作三湯の筆頭として。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、岡山県北部の旭川上流に佇む名湯「湯原温泉（ゆばらおんせん）」は、美作三湯の筆頭として。',
   keywords: '湯原温泉 宿泊, 岡山 温泉 11月 12月, 湯原温泉 八景, 我無らん, ゆばらの宿 米屋, 菊之湯, 輝乃湯, 湯原 砂湯, 蒜山ジャージー牛, 美作三湯 宿',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-okayama-yubara-onsen-sunayu-hiruzen-wagyu-stay/"
   },
   openGraph: {
     title: '岡山・湯原温泉で過ごす冬の旅（11・12月）！pH9.3アルカリ美肌天然自噴泉！名宿5選',
-    description: '11月から12月にかけて、岡山県北部の旭川上流に佇む名湯「湯原温泉（ゆばらおんせん）」は、美作三湯の筆頭として。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、岡山県北部の旭川上流に佇む名湯「湯原温泉（ゆばらおんせん）」は、美作三湯の筆頭として。',
     url: 'https://croud-travel.pages.dev/winter-okayama-yubara-onsen-sunayu-hiruzen-wagyu-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',

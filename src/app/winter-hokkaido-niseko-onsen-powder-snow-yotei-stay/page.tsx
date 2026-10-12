@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: 'ニセコ温泉郷で過ごす冬の旅（11・12月）！道産黒毛和牛！名宿5選',
-  description: '11月下旬から12月にかけて北海道・ニセコ山麓は、世界中のスキーヤーや旅人を魅了する超微粒子の初雪「パウダースノー（Japow）」に包まれ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月下旬から12月にかけて北海道・ニセコ山麓は、世界中のスキーヤーや旅人を魅了する超微粒子の初雪「パウダースノー（Japow）」に包まれ。',
   keywords: 'ニセコ温泉 宿泊, ニセコ 11月 12月, ニセコ パウダースノー, 羊蹄山 絶景 宿, 杢の抄, 木ニセコ, パークハイアットニセコ, ヒルトンニセコビレッジ, ニセコノーザンリゾート, 道産牛 ステーキ, 北海道 冬 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hokkaido-niseko-onsen-powder-snow-yotei-stay/",
   },
   openGraph: {
     title: 'ニセコ温泉郷で過ごす冬の旅（11・12月）！道産黒毛和牛！名宿5選',
-    description: '11月下旬から12月にかけて北海道・ニセコ山麓は、世界中のスキーヤーや旅人を魅了する超微粒子の初雪「パウダースノー（Japow）」に包まれ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月下旬から12月にかけて北海道・ニセコ山麓は、世界中のスキーヤーや旅人を魅了する超微粒子の初雪「パウダースノー（Japow）」に包まれ。',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-niseko-onsen-powder-snow-yotei-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
@@ -460,7 +460,7 @@ export default function NisekoOnsenWinterPage() {
                 <h3 className="font-bold text-slate-900 text-sm sm:text-base">ニセコ駅前温泉やカフェ巡り〜地酒・チーズのお土産選び</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
-                アクティビティ後はニセコ駅前のカフェで温かいスープカレーや自家焙煎珈琲をランチに。地元の酒蔵「二世古酒造」の純米大吟醸や、地元工房の熟成ナチュラルチーズ、越冬ジャガイモスイーツをお土産に買い求め、充実した思い出とともに帰路へ就きます。
+                アクティビティ後はニセコ駅前のカフェで温かいスープカレーや自家焙煎珈琲をランチに位置し、観光拠点として親しまれています。地元の酒蔵「二世古酒造」の純米大吟醸や、地元工房の熟成ナチュラルチーズ、越冬ジャガイモスイーツをお土産に買い求め、充実した思い出とともに帰路へ就きます。
               </p>
             </div>
           </div>

@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: 'ことひら温泉郷で過ごす冬の旅（11・12月）！初冬の金刀比羅宮門前名湯！名宿5選',
-  description: '11月から12月にかけて香川県・琴平町は、空気が澄み渡り讃岐富士（飯野山）や讃岐平野の美しい冬景色が広がる。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて香川県・琴平町は、空気が澄み渡り讃岐富士（飯野山）や讃岐平野の美しい冬景色が広がる。',
   keywords: 'ことひら温泉 宿泊, 金刀比羅宮 11月 12月, こんぴら温泉 宿, 紅梅亭, 桜の抄, 敷島館, 湯元八千代, 琴参閣, 讃岐オリーブ牛, 讃岐うどん, 香川 温泉 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kagawa-kotohira-onsen-konpira-olive-beef-stay/",
   },
   openGraph: {
     title: 'ことひら温泉郷で過ごす冬の旅（11・12月）！初冬の金刀比羅宮門前名湯！名宿5選',
-    description: '11月から12月にかけて香川県・琴平町は、空気が澄み渡り讃岐富士（飯野山）や讃岐平野の美しい冬景色が広がる。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて香川県・琴平町は、空気が澄み渡り讃岐富士（飯野山）や讃岐平野の美しい冬景色が広がる。',
     url: 'https://croud-travel.pages.dev/winter-kagawa-kotohira-onsen-konpira-olive-beef-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',

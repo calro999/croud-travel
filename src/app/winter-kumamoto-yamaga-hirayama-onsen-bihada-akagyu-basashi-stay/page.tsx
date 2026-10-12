@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '山鹿温泉＆平山温泉で過ごす冬の旅（11・12月）！熊本あか牛溶岩焼き！名宿5選',
-  description: '11月中旬から12月の初冬を迎えた火の国・熊本の北部に位置する「山鹿温泉」と、その山懐に抱かれた秘湯「平山温泉」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月中旬から12月の初冬を迎えた火の国・熊本の北部に位置する「山鹿温泉」と、その山懐に抱かれた秘湯「平山温泉」。',
   keywords: '山鹿温泉 宿泊, 平山温泉 旅館, 熊本あか牛 溶岩焼き, 本場馬刺し 熊本, 八千代座 観光, さくら湯 元湯, 強アルカリ性 美肌ぬる湯, 11月 12月 熊本旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kumamoto-yamaga-hirayama-onsen-bihada-akagyu-basashi-stay/"
   },
   openGraph: {
     title: '山鹿温泉＆平山温泉で過ごす冬の旅（11・12月）！熊本あか牛溶岩焼き！名宿5選',
-    description: '11月中旬から12月の初冬を迎えた火の国・熊本の北部に位置する「山鹿温泉」と、その山懐に抱かれた秘湯「平山温泉」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月中旬から12月の初冬を迎えた火の国・熊本の北部に位置する「山鹿温泉」と、その山懐に抱かれた秘湯「平山温泉」。',
     url: 'https://croud-travel.pages.dev/winter-kumamoto-yamaga-hirayama-onsen-bihada-akagyu-basashi-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

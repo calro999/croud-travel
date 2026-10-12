@@ -22,14 +22,14 @@ import {
 
 export const metadata: Metadata = {
   title: '旭川＆旭山動物園：冬のペンギンの散歩と美瑛青い池ライトアップ！名宿5選',
-  description: '冬の北海道・旭川観光の完全攻略ガイド。積雪期限定の旭山動物園「ペンギンの散歩」の実施時間や見学のコツ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '冬の北海道・旭川観光の完全攻略ガイド。積雪期限定の旭山動物園「ペンギンの散歩」の実施時間や見学のコツ。',
   keywords: '旭山動物園, ペンギンの散歩, 旭川観光, 美瑛 青い池 ライトアップ, 白ひげの滝, 旭川ラーメン, 旭川 ホテル 温泉, 冬 北海道 旅行, OMO7旭川, JRイン旭川',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-hokkaido-asahikawa-asahiyama-zoo-penguin-walk-stay',
   },
   openGraph: {
     title: '旭川＆旭山動物園：冬のペンギンの散歩と美瑛青い池ライトアップ！名宿5選',
-    description: '冬の北海道・旭川観光の完全攻略ガイド。積雪期限定の旭山動物園「ペンギンの散歩」の実施時間や見学のコツ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '冬の北海道・旭川観光の完全攻略ガイド。積雪期限定の旭山動物園「ペンギンの散歩」の実施時間や見学のコツ。',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-asahikawa-asahiyama-zoo-penguin-walk-stay',
     siteName: 'トラベルマップ - 日本の観光名所＆ホテル厳選ガイド',
     locale: 'ja_JP',

@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月長崎：冬の島原城初詣と名物「具雑煮」！名宿5選',
-  description: '有明海と雲仙普賢岳に抱かれた水の都・長崎県島原市。11〜1月は白亜の島原城が澄んだ冬空に映え、年末年始の初詣や武家屋敷散策で賑わいます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '有明海と雲仙普賢岳に抱かれた水の都・長崎県島原市。11〜1月は白亜の島原城が澄んだ冬空に映え、年末年始の初詣や武家屋敷散策で賑わいます。',
   keywords: '島原温泉 ホテル, 島原 ホテル南風楼, シーサイド島原, 島原城 初詣, 具雑煮 島原, 有明海 牡蠣, がんば料理 島原, 雲仙みかどホテル, 四明荘, 12月 1月 長崎 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagasaki-shimabara-onsen-guzoni-castle-ariake-stay/"
   },
   openGraph: {
     title: '11・12・1月長崎：冬の島原城初詣と名物「具雑煮」！名宿5選',
-    description: '有明海と雲仙普賢岳に抱かれた水の都・長崎県島原市。11〜1月は白亜の島原城が澄んだ冬空に映え、年末年始の初詣や武家屋敷散策で賑わいます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '有明海と雲仙普賢岳に抱かれた水の都・長崎県島原市。11〜1月は白亜の島原城が澄んだ冬空に映え、年末年始の初詣や武家屋敷散策で賑わいます。',
     url: 'https://croud-travel.pages.dev/winter-nagasaki-shimabara-onsen-guzoni-castle-ariake-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',

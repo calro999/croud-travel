@@ -7,14 +7,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月香川：四国随一の初詣「金刀比羅宮」！名宿5選',
-  description: '四国屈指のパワースポット「こんぴらさん」で迎える11〜1月の冬紀行。古くから「一生に一度はこんぴら参り」と親しまれる金刀比羅宮御本宮785段。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '四国屈指のパワースポット「こんぴらさん」で迎える11〜1月の冬紀行。古くから「一生に一度はこんぴら参り」と親しまれる金刀比羅宮御本宮785段。',
   keywords: '金刀比羅宮 初詣, こんぴらさん 温泉, 善通寺 初詣, こんぴら温泉郷 名宿, 讃岐オリーブ牛, 紅梅亭, 琴参閣, 敷島館, 香川 冬旅行, 琴平温泉 露天風呂',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-kagawa-kotohira-konpira-shrine-hatsumode-zentsuji-olivegyu-stay'
   },
   openGraph: {
     title: '11・12・1月香川：四国随一の初詣「金刀比羅宮」！名宿5選',
-    description: '四国屈指のパワースポット「こんぴらさん」で迎える11〜1月の冬紀行。古くから「一生に一度はこんぴら参り」と親しまれる金刀比羅宮御本宮785段。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '四国屈指のパワースポット「こんぴらさん」で迎える11〜1月の冬紀行。古くから「一生に一度はこんぴら参り」と親しまれる金刀比羅宮御本宮785段。',
     url: 'https://croud-travel.pages.dev/winter-kagawa-kotohira-konpira-shrine-hatsumode-zentsuji-olivegyu-stay',
     type: 'article',
     images: [

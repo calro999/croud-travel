@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '花巻南温泉郷で過ごす冬の旅（11・12月）！自噴立ち湯「白猿の湯」と極上前沢牛！名宿5選',
-  description: '11月中旬から初冬の白銀世界へと移ろう岩手県花巻市の奥座敷・花巻南温泉郷。豊沢川の清流に沿って点在する鉛温泉や大沢温泉は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月中旬から初冬の白銀世界へと移ろう岩手県花巻市の奥座敷・花巻南温泉郷。豊沢川の清流に沿って点在する鉛温泉や大沢温泉は、注目の旅宿が揃っています。',
   keywords: '花巻南温泉郷 宿泊, 鉛温泉 藤三旅館, 大沢温泉 山水閣, 結びの宿 愛隣館, ホテル志戸平, 山の神温泉 優香苑, 白猿の湯, 立ち湯, 前沢牛, 白金豚, 宮沢賢治 温泉, 11月 12月 岩手温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-iwate-hanamaki-minami-namari-osawa-snow-stay/"
   },
   openGraph: {
     title: '花巻南温泉郷で過ごす冬の旅（11・12月）！自噴立ち湯「白猿の湯」と極上前沢牛！名宿5選',
-    description: '11月中旬から初冬の白銀世界へと移ろう岩手県花巻市の奥座敷・花巻南温泉郷。豊沢川の清流に沿って点在する鉛温泉や大沢温泉は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月中旬から初冬の白銀世界へと移ろう岩手県花巻市の奥座敷・花巻南温泉郷。豊沢川の清流に沿って点在する鉛温泉や大沢温泉は、注目の旅宿が揃っています。',
     url: 'https://croud-travel.pages.dev/winter-iwate-hanamaki-minami-namari-osawa-snow-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

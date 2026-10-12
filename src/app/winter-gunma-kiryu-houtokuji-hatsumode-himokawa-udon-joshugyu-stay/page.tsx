@@ -7,14 +7,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月群馬：桐生新町と床もみじの名刹「宝徳寺」新春初詣！名宿5選',
-  description: '「西の西陣、東の桐生」と称された織物の都・桐生が最も静謐で趣深い表情を見せる11〜1月の冬旅特集。ピカピカに磨かれた本堂の漆床に雪景色や新春。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '「西の西陣、東の桐生」と称された織物の都・桐生が最も静謐で趣深い表情を見せる11〜1月の冬旅特集。ピカピカに磨かれた本堂の漆床に雪景色や新春。',
   keywords: '宝徳寺 床もみじ, 宝徳寺 初詣, ひもかわうどん 桐生, 桐生新町 重伝建, 上州牛 すき焼き, パークイン桐生, 梨木館, 桐生 グルメ 冬, 群馬 初詣 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-gunma-kiryu-houtokuji-hatsumode-himokawa-udon-joshugyu-stay/"
   },
   openGraph: {
     title: '11・12・1月群馬：桐生新町と床もみじの名刹「宝徳寺」新春初詣！名宿5選',
-    description: '「西の西陣、東の桐生」と称された織物の都・桐生が最も静謐で趣深い表情を見せる11〜1月の冬旅特集。ピカピカに磨かれた本堂の漆床に雪景色や新春。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '「西の西陣、東の桐生」と称された織物の都・桐生が最も静謐で趣深い表情を見せる11〜1月の冬旅特集。ピカピカに磨かれた本堂の漆床に雪景色や新春。',
     url: 'https://croud-travel.pages.dev/winter-gunma-kiryu-houtokuji-hatsumode-himokawa-udon-joshugyu-stay',
     type: 'article',
     images: [
@@ -595,7 +595,7 @@ export default function GunmaKiryuWinterPage() {
               </h3>
               <p className="text-slate-600 leading-relaxed">
                 <strong>11:30 東武特急りょうもう号で桐生エリアに到着</strong><br />
-                桐生市街の有名店で、幅十数センチの「ひもかわうどん」を昼食に。熱々の豚肉汁出汁で体の芯から温まる。
+                桐生市街の有名店で、幅十数センチの「ひもかわうどん」を昼食に位置し、観光拠点として親しまれています。熱々の豚肉汁出汁で体の芯から温まる。
               </p>
               <p className="text-slate-600 leading-relaxed">
                 <strong>13:00 重伝建「桐生新町」のこぎり屋根と町家散策</strong><br />

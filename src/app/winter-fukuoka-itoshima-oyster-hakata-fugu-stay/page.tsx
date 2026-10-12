@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月福岡：冬の糸島カキ小屋めぐりと玄界！名宿5選',
-  description: '11月から1月、福岡は玄界灘の冬の恵みが一斉に旬を迎える全国屈指の美食パラダイスとなります。福岡市民や全国の旅行者が心待ちにする冬の看板風物詩が。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から1月、福岡は玄界灘の冬の恵みが一斉に旬を迎える全国屈指の美食パラダイスとなります。福岡市民や全国の旅行者が心待ちにする冬の看板風物詩が。',
   keywords: '糸島 カキ小屋 冬, 博多 もつ鍋 宿泊, 玄界灘 とらふぐ, ヒルトン福岡シーホーク, 都ホテル博多, ザルイガンズ, ホテルマリノアリゾート福岡, ドーミーインPREMIUM博多, 11月 12月 1月 福岡旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukuoka-itoshima-oyster-hakata-fugu-stay/"
   },
   openGraph: {
     title: '11・12・1月福岡：冬の糸島カキ小屋めぐりと玄界！名宿5選',
-    description: '11月から1月、福岡は玄界灘の冬の恵みが一斉に旬を迎える全国屈指の美食パラダイスとなります。福岡市民や全国の旅行者が心待ちにする冬の看板風物詩が。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から1月、福岡は玄界灘の冬の恵みが一斉に旬を迎える全国屈指の美食パラダイスとなります。福岡市民や全国の旅行者が心待ちにする冬の看板風物詩が。',
     url: 'https://croud-travel.pages.dev/winter-fukuoka-itoshima-oyster-hakata-fugu-stay',
     siteName: 'クラドトラベル',
     images: [

@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '石川・粟津温泉で過ごす冬の旅（11・12月）！開湯1300年の白山霊泉！名宿5選',
-  description: '11月上旬、日本海に冬の訪れを告げる青いタグ付きブランドズワイガニ「加能ガニ」と、濃厚な内子と外子を抱えたメスガニ「香箱ガニ」の漁が解禁されると。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月上旬、日本海に冬の訪れを告げる青いタグ付きブランドズワイガニ「加能ガニ」と、濃厚な内子と外子を抱えたメスガニ「香箱ガニ」の漁が解禁されると。',
   keywords: '粟津温泉 旅館, 加賀温泉郷 宿泊, 粟津温泉 法師, のとや, 満天ノ 辻のや, 喜多八, 加能ガニ, 香箱ガニ, 能登牛, 11月 12月 石川温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-ishikawa-awazu-onsen-kanogani-notogyu-kaga-stay/"
   },
   openGraph: {
     title: '石川・粟津温泉で過ごす冬の旅（11・12月）！開湯1300年の白山霊泉！名宿5選',
-    description: '11月上旬、日本海に冬の訪れを告げる青いタグ付きブランドズワイガニ「加能ガニ」と、濃厚な内子と外子を抱えたメスガニ「香箱ガニ」の漁が解禁されると。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月上旬、日本海に冬の訪れを告げる青いタグ付きブランドズワイガニ「加能ガニ」と、濃厚な内子と外子を抱えたメスガニ「香箱ガニ」の漁が解禁されると。',
     url: 'https://croud-travel.pages.dev/winter-ishikawa-awazu-onsen-kanogani-notogyu-kaga-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

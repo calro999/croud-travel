@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '草津温泉で過ごす冬の旅（11・12月）！名物上州牛すき焼き！名宿5選',
-  description: '11月から12月にかけて、毎分3万2300リットル以上という日本一の自然湧出量を誇る東の横綱「草津温泉（くさつおんせん）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、毎分3万2300リットル以上という日本一の自然湧出量を誇る東の横綱「草津温泉（くさつおんせん）」は、注目の旅宿が揃っています。',
   keywords: '草津温泉 宿泊, ホテル櫻井, 望雲, 奈良屋, ホテル一井, 綿の湯, 上州牛 すき焼き, 湯畑 ライトアップ, 雪見露天, 湯もみ, 11月 12月 草津温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-gunma-kusatsu-onsen-yubatake-yukimi-joshugyu-stay/"
   },
   openGraph: {
     title: '草津温泉で過ごす冬の旅（11・12月）！名物上州牛すき焼き！名宿5選',
-    description: '11月から12月にかけて、毎分3万2300リットル以上という日本一の自然湧出量を誇る東の横綱「草津温泉（くさつおんせん）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、毎分3万2300リットル以上という日本一の自然湧出量を誇る東の横綱「草津温泉（くさつおんせん）」は、注目の旅宿が揃っています。',
     url: 'https://croud-travel.pages.dev/winter-gunma-kusatsu-onsen-yubatake-yukimi-joshugyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

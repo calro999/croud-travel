@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月三重：冬の極上伊勢海老！名宿5選',
-  description: '11月から1月、日本人の心の故郷・伊勢神宮（内宮・外宮）は凛とした神聖な冬の静寂に包まれます。五十鈴川に立ち込める幻想的な朝霧。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から1月、日本人の心の故郷・伊勢神宮（内宮・外宮）は凛とした神聖な冬の静寂に包まれます。五十鈴川に立ち込める幻想的な朝霧。',
   keywords: '伊勢神宮 初詣, 内宮 外宮, おかげ横丁 食べ歩き, 五十鈴川 朝霧, 冬至の日の出 宇治橋, いにしえの宿 伊久, 伊勢外宮参道 伊勢神泉, ホテルキャッスルイン伊勢夫婦岩, 三交イン伊勢市駅前, 伊勢シティホテル, 冬 伊勢海老, 松阪牛 すき焼き, 11月 12月 1月 三重旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay/"
   },
   openGraph: {
     title: '11・12・1月三重：冬の極上伊勢海老！名宿5選',
-    description: '11月から1月、日本人の心の故郷・伊勢神宮（内宮・外宮）は凛とした神聖な冬の静寂に包まれます。五十鈴川に立ち込める幻想的な朝霧。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から1月、日本人の心の故郷・伊勢神宮（内宮・外宮）は凛とした神聖な冬の静寂に包まれます。五十鈴川に立ち込める幻想的な朝霧。',
     url: 'https://croud-travel.pages.dev/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay',
     siteName: 'クラドトラベル',
     images: [

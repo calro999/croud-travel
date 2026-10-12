@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月大阪：日本の滝百選「箕面大滝」の冬！名宿5選',
-  description: '冬の静寂に包まれる日本の滝百選「箕面大滝」と、境内一面に無数の勝ちダルマが並ぶ勝運の寺「勝尾寺」での新春初詣を巡る11〜1月の大阪・箕面＆北。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '冬の静寂に包まれる日本の滝百選「箕面大滝」と、境内一面に無数の勝ちダルマが並ぶ勝運の寺「勝尾寺」での新春初詣を巡る11〜1月の大阪・箕面＆北。',
   keywords: '勝尾寺 初詣, 箕面大滝 冬, 箕面温泉 ホテル, 能勢 ぼたん鍋 宿, 伏尾温泉 不死王閣, もみじの天ぷら 箕面, 勝ちダルマ 勝尾寺, 11月 12月 1月 大阪 旅行, 箕面観光ホテル',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-osaka-minoo-katsuo-ji-daruma-botannabe-stay/"
   },
   openGraph: {
     title: '11・12・1月大阪：日本の滝百選「箕面大滝」の冬！名宿5選',
-    description: '冬の静寂に包まれる日本の滝百選「箕面大滝」と、境内一面に無数の勝ちダルマが並ぶ勝運の寺「勝尾寺」での新春初詣を巡る11〜1月の大阪・箕面＆北。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '冬の静寂に包まれる日本の滝百選「箕面大滝」と、境内一面に無数の勝ちダルマが並ぶ勝運の寺「勝尾寺」での新春初詣を巡る11〜1月の大阪・箕面＆北。',
     url: 'https://croud-travel.pages.dev/winter-osaka-minoo-katsuo-ji-daruma-botannabe-stay',
     type: 'article',
     images: [

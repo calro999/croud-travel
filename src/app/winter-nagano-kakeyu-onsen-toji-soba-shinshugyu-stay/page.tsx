@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '鹿教湯温泉で過ごす冬の旅（11・12月）！文殊菩薩の霊泉と渓流雪見露天！名宿5選',
-  description: '11月から12月にかけて、信州上田の奥座敷・内村川の渓流沿いに佇む「鹿教湯温泉（かけゆおんせん）」は、初冬の静けさと美しい初雪の情景に包まれます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、信州上田の奥座敷・内村川の渓流沿いに佇む「鹿教湯温泉（かけゆおんせん）」は、初冬の静けさと美しい初雪の情景に包まれます。',
   keywords: '鹿教湯温泉 旅館, 信州上田 宿泊, 斎藤ホテル, 三水館, 鹿乃屋旅館, 河鹿荘, 望山亭ことぶき, 国民保養温泉地, 投じ蕎麦, 信州牛, 11月 12月 長野温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagano-kakeyu-onsen-toji-soba-shinshugyu-stay/"
   },
   openGraph: {
     title: '鹿教湯温泉で過ごす冬の旅（11・12月）！文殊菩薩の霊泉と渓流雪見露天！名宿5選',
-    description: '11月から12月にかけて、信州上田の奥座敷・内村川の渓流沿いに佇む「鹿教湯温泉（かけゆおんせん）」は、初冬の静けさと美しい初雪の情景に包まれます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、信州上田の奥座敷・内村川の渓流沿いに佇む「鹿教湯温泉（かけゆおんせん）」は、初冬の静けさと美しい初雪の情景に包まれます。',
     url: 'https://croud-travel.pages.dev/winter-nagano-kakeyu-onsen-toji-soba-shinshugyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

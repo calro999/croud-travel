@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月和歌山加太：冬の日前神宮新春開運初詣！名宿5選',
-  description: '冬の和歌山・加太エリアは、紀淡海峡の彼方に沈む鮮やかな夕陽と友ヶ島のシルエットが旅情をかきたて。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '冬の和歌山・加太エリアは、紀淡海峡の彼方に沈む鮮やかな夕陽と友ヶ島のシルエットが旅情をかきたて。',
   keywords: '和歌山 ホテル, 加太温泉 旅館, 日前神宮 初詣, 紀淡海峡 夕日, 加太 鯛料理, 休暇村紀州加太, 加太海月, ダイワロイネットホテル和歌山, 11月 12月 1月 和歌山 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-wakayama-city-kada-onsen-hatsumode-taimeshi-kue-stay/"
   },
   openGraph: {
     title: '11・12・1月和歌山加太：冬の日前神宮新春開運初詣！名宿5選',
-    description: '冬の和歌山・加太エリアは、紀淡海峡の彼方に沈む鮮やかな夕陽と友ヶ島のシルエットが旅情をかきたて。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '冬の和歌山・加太エリアは、紀淡海峡の彼方に沈む鮮やかな夕陽と友ヶ島のシルエットが旅情をかきたて。',
     url: 'https://croud-travel.pages.dev/winter-wakayama-city-kada-onsen-hatsumode-taimeshi-kue-stay',
     type: 'article',
     images: [{ url: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80' }]

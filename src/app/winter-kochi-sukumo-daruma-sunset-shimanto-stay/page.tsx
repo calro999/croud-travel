@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月高知：冬が旬の「宿毛寒ブリ！名宿5選',
-  description: '冬の澄み切った大気と水平線が織りなす奇跡の光景を巡る11〜1月の高知西南・宿毛＆四万十特集。冬の宿毛湾を真っ赤に染め上げる蜃気楼の絶景「だる。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '冬の澄み切った大気と水平線が織りなす奇跡の光景を巡る11〜1月の高知西南・宿毛＆四万十特集。冬の宿毛湾を真っ赤に染め上げる蜃気楼の絶景「だる。',
   keywords: '宿毛 だるま夕日, 宿毛 寒ブリ 宿, 四万十川 冬 観光, 宿毛リゾート 椰子の湯, 宿毛 本マグロ, 四万十牛 宿, 沈下橋 ドライブ, 高知 冬 旅行, 四万十市 ホテル',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kochi-sukumo-daruma-sunset-shimanto-stay/"
   },
   openGraph: {
     title: '11・12・1月高知：冬が旬の「宿毛寒ブリ！名宿5選',
-    description: '冬の澄み切った大気と水平線が織りなす奇跡の光景を巡る11〜1月の高知西南・宿毛＆四万十特集。冬の宿毛湾を真っ赤に染め上げる蜃気楼の絶景「だる。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '冬の澄み切った大気と水平線が織りなす奇跡の光景を巡る11〜1月の高知西南・宿毛＆四万十特集。冬の宿毛湾を真っ赤に染め上げる蜃気楼の絶景「だる。',
     url: 'https://croud-travel.pages.dev/winter-kochi-sukumo-daruma-sunset-shimanto-stay',
     type: 'article',
     images: [

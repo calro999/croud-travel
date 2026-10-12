@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '北海道・阿寒湖温泉で過ごす冬の旅（11・12月）！極上道東海鮮蟹会席！名宿5選',
-  description: '11月から12月にかけて、道東・阿寒摩周国立公園の雄大な大自然に抱かれた阿寒湖温泉は、湖面が結氷を始める前の静謐な冬景色を迎え。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、道東・阿寒摩周国立公園の雄大な大自然に抱かれた阿寒湖温泉は、湖面が結氷を始める前の静謐な冬景色を迎え。',
   keywords: '阿寒湖温泉 宿泊, あかん遊久の里 鶴雅, 鄙の座, ニュー阿寒ホテル, フロストフラワー 11月 12月, 阿寒湖 アイヌコタン, オホーツク毛蟹, 阿寒湖 ワカサギ, 道東海鮮',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hokkaido-akanko-onsen-lakeview-frost-flower-hokkaido-beef-stay/"
   },
   openGraph: {
     title: '北海道・阿寒湖温泉で過ごす冬の旅（11・12月）！極上道東海鮮蟹会席！名宿5選',
-    description: '11月から12月にかけて、道東・阿寒摩周国立公園の雄大な大自然に抱かれた阿寒湖温泉は、湖面が結氷を始める前の静謐な冬景色を迎え。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、道東・阿寒摩周国立公園の雄大な大自然に抱かれた阿寒湖温泉は、湖面が結氷を始める前の静謐な冬景色を迎え。',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-akanko-onsen-lakeview-frost-flower-hokkaido-beef-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',

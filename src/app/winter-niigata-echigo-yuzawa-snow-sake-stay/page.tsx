@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '越後湯沢温泉で過ごす冬の旅（11・12月）！川端康成ゆかりの名湯！名宿5選',
-  description: '東京から新幹線で最速約70分、川端康成の小説『雪国』の舞台として名高い新潟・越後湯沢温泉。11月の収穫期を祝う日本一の南魚沼産コシヒカリ新米。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '東京から新幹線で最速約70分、川端康成の小説『雪国』の舞台として名高い新潟・越後湯沢温泉。11月の収穫期を祝う日本一の南魚沼産コシヒカリ新米。',
   keywords: '越後湯沢 宿泊 11月 12月, 越後湯沢 温泉 旅館, 南魚沼 コシヒカリ 新米 温泉, 越後湯沢 ぽんしゅ館 地酒, 越後湯沢 雪景色 露天風呂, 越後もち豚 温泉 宿, 越後湯沢 冬 モデルコース',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-niigata-echigo-yuzawa-snow-sake-stay/",
   },
   openGraph: {
     title: '越後湯沢温泉で過ごす冬の旅（11・12月）！川端康成ゆかりの名湯！名宿5選',
-    description: '東京から新幹線で最速約70分、川端康成の小説『雪国』の舞台として名高い新潟・越後湯沢温泉。11月の収穫期を祝う日本一の南魚沼産コシヒカリ新米。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '東京から新幹線で最速約70分、川端康成の小説『雪国』の舞台として名高い新潟・越後湯沢温泉。11月の収穫期を祝う日本一の南魚沼産コシヒカリ新米。',
     url: 'https://croud-travel.pages.dev/winter-niigata-echigo-yuzawa-snow-sake-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',

@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月岩手：三陸鉄道こたつ列車の冬絶景と浄土ヶ浜雪景色！名宿5選',
-  description: '11月から1月、岩手県三陸沿岸（宮古・釜石・大船渡・田野畑）は、太平洋の紺碧と雪化粧した白亜の奇岩が織りなす息を呑む絶景の季節を迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から1月、岩手県三陸沿岸（宮古・釜石・大船渡・田野畑）は、太平洋の紺碧と雪化粧した白亜の奇岩が織りなす息を呑む絶景の季節を迎えます。',
   keywords: '三陸鉄道 こたつ列車, 浄土ヶ浜 冬, 瓶ドン 宮古, 三陸あわび 宿泊, 三陸毛ガニ 宿, 浄土ヶ浜パークホテル, 大船渡温泉, ホテル羅賀荘, 11月 12月 1月 岩手旅行, リアス海岸 絶景温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-iwate-sanriku-kotatsu-train-kaisen-stay/"
   },
   openGraph: {
     title: '11・12・1月岩手：三陸鉄道こたつ列車の冬絶景と浄土ヶ浜雪景色！名宿5選',
-    description: '11月から1月、岩手県三陸沿岸（宮古・釜石・大船渡・田野畑）は、太平洋の紺碧と雪化粧した白亜の奇岩が織りなす息を呑む絶景の季節を迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から1月、岩手県三陸沿岸（宮古・釜石・大船渡・田野畑）は、太平洋の紺碧と雪化粧した白亜の奇岩が織りなす息を呑む絶景の季節を迎えます。',
     url: 'https://croud-travel.pages.dev/winter-iwate-sanriku-kotatsu-train-kaisen-stay',
     siteName: 'クラドトラベル',
     images: [

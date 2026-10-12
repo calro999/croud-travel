@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月静岡：冬限定「遠州灘天然とらふぐ」！名宿5選',
-  description: '11月から1月、静岡県・浜名湖＆舘山寺（かんざんじ）温泉は、遠州灘の荒波が育む幻の「天然とらふぐ」と、冬眠前に脂が極限まで乗る名物「浜名湖うなぎ」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から1月、静岡県・浜名湖＆舘山寺（かんざんじ）温泉は、遠州灘の荒波が育む幻の「天然とらふぐ」と、冬眠前に脂が極限まで乗る名物「浜名湖うなぎ」。',
   keywords: '浜名湖 うなぎ 温泉宿, 遠州灘 天然とらふぐ 宿, 舘山寺温泉 ホテル, ウェルシーズン浜名湖, ホテル鞠水亭, 浜名湖レークサイドプラザ, THE SCENE hamanako, ホテルグリーンプラザ浜名湖, 11月 12月 1月 静岡旅行, 牡蠣カバ丼 三ヶ日みかん風呂',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shizuoka-hamanako-kanzanji-torafugu-unagi-stay/"
   },
   openGraph: {
     title: '11・12・1月静岡：冬限定「遠州灘天然とらふぐ」！名宿5選',
-    description: '11月から1月、静岡県・浜名湖＆舘山寺（かんざんじ）温泉は、遠州灘の荒波が育む幻の「天然とらふぐ」と、冬眠前に脂が極限まで乗る名物「浜名湖うなぎ」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から1月、静岡県・浜名湖＆舘山寺（かんざんじ）温泉は、遠州灘の荒波が育む幻の「天然とらふぐ」と、冬眠前に脂が極限まで乗る名物「浜名湖うなぎ」。',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-hamanako-kanzanji-torafugu-unagi-stay',
     siteName: 'クラドトラベル',
     images: [

@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月佐賀：冬の有明海名物「竹崎カニ」と日本三大稲荷！名宿5選',
-  description: '11月から1月、佐賀県の有明海沿岸・太良町では、甲羅に濃厚な朱色の内子（卵巣）をぎっしりと蓄えた冬のメス「竹崎カニ」が最高潮の旬を迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から1月、佐賀県の有明海沿岸・太良町では、甲羅に濃厚な朱色の内子（卵巣）をぎっしりと蓄えた冬のメス「竹崎カニ」が最高潮の旬を迎えます。',
   keywords: '竹崎カニ 冬 旬, 太良町 カニ 宿泊, 祐徳稲荷神社 初詣, 嬉野温泉 宿泊, 和多屋別荘, 蟹御殿, 梅崎亭, 和楽園, ホテル華翠苑, 温泉湯豆腐 嬉野, 11月 12月 1月 佐賀旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-saga-tara-takezaki-crab-yutoku-inari-ureshino-stay/"
   },
   openGraph: {
     title: '11・12・1月佐賀：冬の有明海名物「竹崎カニ」と日本三大稲荷！名宿5選',
-    description: '11月から1月、佐賀県の有明海沿岸・太良町では、甲羅に濃厚な朱色の内子（卵巣）をぎっしりと蓄えた冬のメス「竹崎カニ」が最高潮の旬を迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から1月、佐賀県の有明海沿岸・太良町では、甲羅に濃厚な朱色の内子（卵巣）をぎっしりと蓄えた冬のメス「竹崎カニ」が最高潮の旬を迎えます。',
     url: 'https://croud-travel.pages.dev/winter-saga-tara-takezaki-crab-yutoku-inari-ureshino-stay',
     siteName: 'クラドトラベル',
     images: [

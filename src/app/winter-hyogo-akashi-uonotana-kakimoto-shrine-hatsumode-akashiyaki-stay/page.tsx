@@ -6,14 +6,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月兵庫：明石海峡大橋を望む人麿山「柿！名宿5選',
-  description: '世界最大級の吊橋・明石海峡大橋を間近に仰ぐ兵庫県明石・加古川・播磨灘エリア。11〜1月は澄み渡る冬晴れの下。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '世界最大級の吊橋・明石海峡大橋を間近に仰ぐ兵庫県明石・加古川・播磨灘エリア。11〜1月は澄み渡る冬晴れの下。',
   keywords: '柿本神社 初詣, 明石 魚の棚商店街, 本場 明石焼き 玉子焼, 明石海峡大橋 冬 ライトアップ, 加古川 かつめし, ホテルキャッスルプラザ 明石, シーサイドホテル舞子ビラ神戸, グリーンヒルホテル明石, 兵庫 冬 観光',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-hyogo-akashi-uonotana-kakimoto-shrine-hatsumode-akashiyaki-stay'
   },
   openGraph: {
     title: '11・12・1月兵庫：明石海峡大橋を望む人麿山「柿！名宿5選',
-    description: '世界最大級の吊橋・明石海峡大橋を間近に仰ぐ兵庫県明石・加古川・播磨灘エリア。11〜1月は澄み渡る冬晴れの下。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '世界最大級の吊橋・明石海峡大橋を間近に仰ぐ兵庫県明石・加古川・播磨灘エリア。11〜1月は澄み渡る冬晴れの下。',
     url: 'https://croud-travel.pages.dev/winter-hyogo-akashi-uonotana-kakimoto-shrine-hatsumode-akashiyaki-stay',
     siteName: 'クラドトラベル',
     type: 'article',

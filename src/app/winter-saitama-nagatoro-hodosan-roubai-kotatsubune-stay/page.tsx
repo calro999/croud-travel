@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '埼玉で過ごす冬の旅（12・1月）！武州和牛」！名宿5選',
-  description: '冬の凛とした空気の中に甘い香りを放つ関東屈指の早咲き美「宝登山ロウバイ園」と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '冬の凛とした空気の中に甘い香りを放つ関東屈指の早咲き美「宝登山ロウバイ園」と。',
   keywords: '宝登山ロウバイ園, 長瀞 こたつ舟, 宝登山神社 初詣, 長瀞 温泉 宿, 秩父 温泉 旅館, 武州和牛 宿, 秩父豚みそ丼, 12月 1月 埼玉 旅行, 花湯別邸 長瀞',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-saitama-nagatoro-hodosan-roubai-kotatsubune-stay/"
   },
   openGraph: {
     title: '埼玉で過ごす冬の旅（12・1月）！武州和牛」！名宿5選',
-    description: '冬の凛とした空気の中に甘い香りを放つ関東屈指の早咲き美「宝登山ロウバイ園」と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '冬の凛とした空気の中に甘い香りを放つ関東屈指の早咲き美「宝登山ロウバイ園」と。',
     url: 'https://croud-travel.pages.dev/winter-saitama-nagatoro-hodosan-roubai-kotatsubune-stay',
     type: 'article',
     images: [

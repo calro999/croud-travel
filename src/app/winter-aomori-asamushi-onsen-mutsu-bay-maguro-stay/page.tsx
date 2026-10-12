@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '浅虫温泉で過ごす冬の旅（11・12月）！津軽海峡冬本マグロ！名宿5選',
-  description: '11月から12月にかけて青森の奥座敷「浅虫温泉」は、初冠雪を戴く八甲田連峰を背に。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて青森の奥座敷「浅虫温泉」は、初冠雪を戴く八甲田連峰を背に位置し、観光拠点として親しまれています。',
   keywords: '浅虫温泉 宿泊, 浅虫温泉 11月 12月, 海扇閣 浅虫, 浅虫さくら観光ホテル, 椿館 浅虫, 割烹旅館さつき, 辰巳館 浅虫, 津軽海峡マグロ 宿, 陸奥湾ホタテ, 津軽三味線 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay/"
   },
   openGraph: {
     title: '浅虫温泉で過ごす冬の旅（11・12月）！津軽海峡冬本マグロ！名宿5選',
-    description: '11月から12月にかけて青森の奥座敷「浅虫温泉」は、初冠雪を戴く八甲田連峰を背に。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて青森の奥座敷「浅虫温泉」は、初冠雪を戴く八甲田連峰を背に位置し、観光拠点として親しまれています。',
     url: 'https://croud-travel.pages.dev/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
@@ -318,7 +318,7 @@ export default function AsamushiOnsenWinterFeature() {
             <div className="p-4 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2 text-center">
               <Eye className="w-5 h-5 text-blue-800 mx-auto" />
               <div className="font-bold text-slate-900 text-sm">陸奥湾と湯の島の絶景</div>
-              <div className="text-xs text-slate-600">海抜ゼロメートルから最上階展望風呂まで。冬の海原パノラマを満喫。</div>
+              <div className="text-xs text-slate-600">海抜ゼロメートルから最上階展望風呂まで、ゆったりとした時間を過ごせます。冬の海原パノラマを満喫。</div>
             </div>
             <div className="p-4 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2 text-center">
               <Utensils className="w-5 h-5 text-blue-800 mx-auto" />

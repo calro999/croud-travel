@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '大分・筋湯温泉で過ごす冬の旅（11・12月）！くじゅう連山初冬の霧氷雪景色！名宿5選',
-  description: '11月中旬から九州屈指の寒冷地である標高1000mの九重高原を初冬の冷気が包み込み。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月中旬から九州屈指の寒冷地である標高1000mの九重高原を初冬の冷気が包み込み。',
   keywords: '筋湯温泉 宿泊, 九重温泉 旅館, 筋湯温泉 旅館白滝, 宿房 花しのぶ, 九重悠々亭, たからや旅館, 季の郷 山の湯, うたせ大浴場, 豊後牛 すき焼き, 九重夢ポーク, 11月 12月 大分温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-oita-sujiyu-onsen-kuju-snow-bungo-beef-stay/"
   },
   openGraph: {
     title: '大分・筋湯温泉で過ごす冬の旅（11・12月）！くじゅう連山初冬の霧氷雪景色！名宿5選',
-    description: '11月中旬から九州屈指の寒冷地である標高1000mの九重高原を初冬の冷気が包み込み。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月中旬から九州屈指の寒冷地である標高1000mの九重高原を初冬の冷気が包み込み。',
     url: 'https://croud-travel.pages.dev/winter-oita-sujiyu-onsen-kuju-snow-bungo-beef-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

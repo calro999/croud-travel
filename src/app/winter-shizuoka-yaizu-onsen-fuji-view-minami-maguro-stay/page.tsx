@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '焼津温泉で過ごす冬の旅（11・12月）！深層水高張性美肌温まりの湯！名宿5選',
-  description: '11月から12月にかけて駿河湾に面した水産都市・静岡県焼津市は、一年の中で最も大気が澄み渡り。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて駿河湾に面した水産都市・静岡県焼津市は、一年の中で最も大気が澄み渡り。',
   keywords: '焼津温泉 宿泊, 焼津温泉 11月 12月, 焼津グランドホテル, ホテルアンビア松風閣, 月と鮪石上, 亀の井ホテル焼津, 焼津温泉やいづマリンパレス, 天然南マグロ 宿, 富士山 露天風呂 駿河湾, 焼津 避寒旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay/"
   },
   openGraph: {
     title: '焼津温泉で過ごす冬の旅（11・12月）！深層水高張性美肌温まりの湯！名宿5選',
-    description: '11月から12月にかけて駿河湾に面した水産都市・静岡県焼津市は、一年の中で最も大気が澄み渡り。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて駿河湾に面した水産都市・静岡県焼津市は、一年の中で最も大気が澄み渡り。',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',

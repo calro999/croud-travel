@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月三重鈴鹿桑名：椿大神社新春みちびき初詣！名宿5選',
-  description: '冬の三重北勢（鈴鹿・桑名・四日市）は、全国猿田彦神社総本宮・伊勢国一の宮「椿大神社」の清冽な神域で新春のみちびき開運を祈願し。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '冬の三重北勢（鈴鹿・桑名・四日市）は、全国猿田彦神社総本宮・伊勢国一の宮「椿大神社」の清冽な神域で新春のみちびき開運を祈願し。',
   keywords: '桑名 ホテル, 鈴鹿 ホテル, 椿大神社 初詣, なばなの里 イルミネーション, 桑名 蛤鍋, ホテル花水木, ガーデンホテルオリーブ, 都ホテル四日市, 11月 12月 1月 三重 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-mie-suzuka-tsubaki-shrine-nabana-kuwana-hamaguri-stay/"
   },
   openGraph: {
     title: '11・12・1月三重鈴鹿桑名：椿大神社新春みちびき初詣！名宿5選',
-    description: '冬の三重北勢（鈴鹿・桑名・四日市）は、全国猿田彦神社総本宮・伊勢国一の宮「椿大神社」の清冽な神域で新春のみちびき開運を祈願し。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '冬の三重北勢（鈴鹿・桑名・四日市）は、全国猿田彦神社総本宮・伊勢国一の宮「椿大神社」の清冽な神域で新春のみちびき開運を祈願し。',
     url: 'https://croud-travel.pages.dev/winter-mie-suzuka-tsubaki-shrine-nabana-kuwana-hamaguri-stay',
     type: 'article',
     images: [{ url: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80' }]

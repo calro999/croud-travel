@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月愛媛：宇和海寒ブリ！名宿5選',
-  description: '四国南予の歴史と海の幸に酔いしれる11〜1月の冬旅ガイド。日本に12基しか残らない現存天守「宇和島城」の冬の静寂と伊達十万石の城下町散策。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '四国南予の歴史と海の幸に酔いしれる11〜1月の冬旅ガイド。日本に12基しか残らない現存天守「宇和島城」の冬の静寂と伊達十万石の城下町散策。',
   keywords: '宇和島鯛めし 本場, 宇和島城 現存天守, 宇和海 寒ブリ, 八幡浜ちゃんぽん, 南予 ホテル, 宇和島 オリエンタルホテル, クレメント宇和島, だてまぐろ, 愛媛 冬 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-ehime-uwajima-yawatahama-taimeshi-kanburi-castle-stay/"
   },
   openGraph: {
     title: '11・12・1月愛媛：宇和海寒ブリ！名宿5選',
-    description: '四国南予の歴史と海の幸に酔いしれる11〜1月の冬旅ガイド。日本に12基しか残らない現存天守「宇和島城」の冬の静寂と伊達十万石の城下町散策。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '四国南予の歴史と海の幸に酔いしれる11〜1月の冬旅ガイド。日本に12基しか残らない現存天守「宇和島城」の冬の静寂と伊達十万石の城下町散策。',
     url: 'https://croud-travel.pages.dev/winter-ehime-uwajima-yawatahama-taimeshi-kanburi-castle-stay',
     type: 'article',
     images: [

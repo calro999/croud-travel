@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '熊野本宮で過ごす冬の旅（11・12月）！冬の風物詩！名宿5選',
-  description: '11月中旬から12月の初冬、世界遺産・熊野古道の聖地に抱かれた和歌山県田辺市本宮町は、霊峰熊野の山々が静けさに包まれ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月中旬から12月の初冬、世界遺産・熊野古道の聖地に抱かれた和歌山県田辺市本宮町は、霊峰熊野の山々が静けさに包まれ。',
   keywords: '川湯温泉 仙人風呂, 湯の峰温泉 つぼ湯 宿泊, 熊野本宮 温泉 旅館, 熊野牛 すき焼き, 温泉粥 湯の峰, 世界遺産 熊野古道 温泉, わたらせ温泉 露天風呂, 11月 12月 和歌山旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-wakayama-kawayu-yunomine-onsen-senninburo-kumanogyu-stay/"
   },
   openGraph: {
     title: '熊野本宮で過ごす冬の旅（11・12月）！冬の風物詩！名宿5選',
-    description: '11月中旬から12月の初冬、世界遺産・熊野古道の聖地に抱かれた和歌山県田辺市本宮町は、霊峰熊野の山々が静けさに包まれ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月中旬から12月の初冬、世界遺産・熊野古道の聖地に抱かれた和歌山県田辺市本宮町は、霊峰熊野の山々が静けさに包まれ。',
     url: 'https://croud-travel.pages.dev/winter-wakayama-kawayu-yunomine-onsen-senninburo-kumanogyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

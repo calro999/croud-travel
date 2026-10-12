@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '群馬で過ごす冬の旅（12・1月）！標高1800m極上白濁にごり！名宿5選',
-  description: '標高1,800mの上信越高原国立公園に位置する「星に一番近い温泉郷」万座温泉。日本一を誇る超高濃度硫黄泉の乳白色にごり湯は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '標高1,800mの上信越高原国立公園に位置する「星に一番近い温泉郷」万座温泉。日本一を誇る超高濃度硫黄泉の乳白色にごり湯は、注目の旅宿が揃っています。',
   keywords: '万座温泉 ホテル, 万座温泉 露天風呂, 万座プリンスホテル, 万座高原ホテル, 万座ホテルジュラク, 日進舘, 万座亭, 雪見温泉 にごり湯, 12月 1月 群馬 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-gunma-manza-onsen-snow-milky-sulfur-starry-joshugyu-stay/"
   },
   openGraph: {
     title: '群馬で過ごす冬の旅（12・1月）！標高1800m極上白濁にごり！名宿5選',
-    description: '標高1,800mの上信越高原国立公園に位置する「星に一番近い温泉郷」万座温泉。日本一を誇る超高濃度硫黄泉の乳白色にごり湯は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '標高1,800mの上信越高原国立公園に位置する「星に一番近い温泉郷」万座温泉。日本一を誇る超高濃度硫黄泉の乳白色にごり湯は、注目の旅宿が揃っています。',
     url: 'https://croud-travel.pages.dev/winter-gunma-manza-onsen-snow-milky-sulfur-starry-joshugyu-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',

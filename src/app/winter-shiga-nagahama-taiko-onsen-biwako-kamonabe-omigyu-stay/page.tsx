@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '滋賀・長浜太閤温泉で過ごす冬の旅（11・12月）！極上近江牛すき焼き！名宿5選',
-  description: '11月から12月にかけて、日本最大の湖・琵琶湖の東岸に位置する長浜は、シベリアから優美なコハクチョウや水鳥が飛来し。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、日本最大の湖・琵琶湖の東岸に位置する長浜は、シベリアから優美なコハクチョウや水鳥が飛来し。',
   keywords: '長浜太閤温泉 宿泊, 琵琶湖 温泉 11月 12月, 湖北 天然鴨鍋 かもすき, 近江牛 すき焼き, 浜湖月, 北ビワコホテルグラツィエ, 旅館紅鮎, レジーナリゾートびわ湖長浜, グランドメルキュール琵琶湖',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay/"
   },
   openGraph: {
     title: '滋賀・長浜太閤温泉で過ごす冬の旅（11・12月）！極上近江牛すき焼き！名宿5選',
-    description: '11月から12月にかけて、日本最大の湖・琵琶湖の東岸に位置する長浜は、シベリアから優美なコハクチョウや水鳥が飛来し。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、日本最大の湖・琵琶湖の東岸に位置する長浜は、シベリアから優美なコハクチョウや水鳥が飛来し。',
     url: 'https://croud-travel.pages.dev/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
@@ -494,7 +494,7 @@ export default function ShigaNagahamaWinterFeature() {
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="px-2 py-0.5 rounded bg-amber-100 text-amber-800 font-bold text-xs shrink-0 mt-0.5">18:30</span>
-                  <span><strong>湖北冬の至高・天然鴨すき会席：</strong>脂の乗った天然真鴨の鴨鍋と近江牛ロースの陶板焼きを滋賀の銘酒「七本鎗」とともに。</span>
+                  <span><strong>湖北冬の至高・天然鴨すき会席：</strong>脂の乗った天然真鴨の鴨鍋と近江牛ロースの陶板焼きを滋賀の銘酒「七本鎗」とともに位置し、観光拠点として親しまれています。</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="px-2 py-0.5 rounded bg-amber-100 text-amber-800 font-bold text-xs shrink-0 mt-0.5">20:30</span>

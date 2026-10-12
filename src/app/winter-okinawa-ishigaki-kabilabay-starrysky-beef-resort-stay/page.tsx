@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月沖縄：冬の石垣島！名宿5選',
-  description: '11月から1月、本州の真冬の寒さを逃れて平均気温20度前後の穏やかな暖かさに包まれる八重山諸島の玄関口・石垣島。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から1月、本州の真冬の寒さを逃れて平均気温20度前後の穏やかな暖かさに包まれる八重山諸島の玄関口・石垣島。',
   keywords: '石垣島 冬 旅行, 石垣島 南十字星, 川平湾 グラスボート, ANAインターコンチネンタル石垣リゾート, フサキビーチリゾート, グランヴィリオリゾート石垣島, アートホテル石垣島, 石垣シーサイドホテル, 石垣牛 焼肉, アーサ汁, 星空保護区, 11月 12月 1月 沖縄旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-okinawa-ishigaki-kabilabay-starrysky-beef-resort-stay/"
   },
   openGraph: {
     title: '11・12・1月沖縄：冬の石垣島！名宿5選',
-    description: '11月から1月、本州の真冬の寒さを逃れて平均気温20度前後の穏やかな暖かさに包まれる八重山諸島の玄関口・石垣島。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から1月、本州の真冬の寒さを逃れて平均気温20度前後の穏やかな暖かさに包まれる八重山諸島の玄関口・石垣島。',
     url: 'https://croud-travel.pages.dev/winter-okinawa-ishigaki-kabilabay-starrysky-beef-resort-stay',
     siteName: 'クラドトラベル',
     images: [

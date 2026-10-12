@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '下北半島下風呂温泉で過ごす冬の旅（11・12月）！津軽海峡冬景色と名物風間浦あ！名宿5選',
-  description: '11月から12月にかけて、本州最北端・下北半島の津軽海峡沿いに位置する風間浦村の「下風呂温泉（しもふろおんせん）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、本州最北端・下北半島の津軽海峡沿いに位置する風間浦村の「下風呂温泉（しもふろおんせん）」は、注目の旅宿が揃っています。',
   keywords: '下風呂温泉 宿泊, 風間浦鮟鱇, 大間マグロ, ホテルニュー下風呂, 下風呂観光ホテル 三浦屋, まるほん旅館, 薬研温泉 薬研荘, むつグランドホテル, 白濁硫黄泉, 11月 12月 下北半島温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-aomori-shimofuro-onsen-oma-maguro-ankou-tsugaru-stay/"
   },
   openGraph: {
     title: '下北半島下風呂温泉で過ごす冬の旅（11・12月）！津軽海峡冬景色と名物風間浦あ！名宿5選',
-    description: '11月から12月にかけて、本州最北端・下北半島の津軽海峡沿いに位置する風間浦村の「下風呂温泉（しもふろおんせん）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、本州最北端・下北半島の津軽海峡沿いに位置する風間浦村の「下風呂温泉（しもふろおんせん）」は、注目の旅宿が揃っています。',
     url: 'https://croud-travel.pages.dev/winter-aomori-shimofuro-onsen-oma-maguro-ankou-tsugaru-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

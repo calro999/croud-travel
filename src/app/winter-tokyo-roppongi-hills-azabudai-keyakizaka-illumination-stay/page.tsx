@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月東京：六本木けやき坂イルミネーション！名宿5選',
-  description: '冬の東京の代名詞・六本木けやき坂を彩る約80万球のLED「SNOW & BLUE」と、正面にそびえる真紅の東京タワー。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '冬の東京の代名詞・六本木けやき坂を彩る約80万球のLED「SNOW & BLUE」と、正面にそびえる真紅の東京タワー。',
   keywords: '六本木 ホテル, けやき坂 イルミネーション, 東京タワー 夜景 ホテル, グランドハイアット東京, ザ リッツ カールトン東京, アンダーズ東京, ザ プリンス パークタワー東京, 麻布台ヒルズ クリスマス, 11月 12月 1月 東京 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tokyo-roppongi-hills-azabudai-keyakizaka-illumination-stay/"
   },
   openGraph: {
     title: '11・12・1月東京：六本木けやき坂イルミネーション！名宿5選',
-    description: '冬の東京の代名詞・六本木けやき坂を彩る約80万球のLED「SNOW & BLUE」と、正面にそびえる真紅の東京タワー。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '冬の東京の代名詞・六本木けやき坂を彩る約80万球のLED「SNOW & BLUE」と、正面にそびえる真紅の東京タワー。',
     url: 'https://croud-travel.pages.dev/winter-tokyo-roppongi-hills-azabudai-keyakizaka-illumination-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
@@ -483,7 +483,7 @@ export default function TokyoRoppongiAzabudaiWinterPage() {
                 <span className="text-xs bg-purple-100 text-purple-700 px-2 py-0.5 rounded">平均 5℃ / 最低 1℃</span>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
-                澄み渡る青空が広がる一方で、夜間は氷点下に迫る冷え込みに。防風インナーや足元を温めるブーツが必須。初詣や東京タワー参拝の際は携帯カイロがあると心強いです。
+                澄み渡る青空が広がる一方で、夜間は氷点下に迫る冷え込みに位置し、観光拠点として親しまれています。防風インナーや足元を温めるブーツが必須。初詣や東京タワー参拝の際は携帯カイロがあると心強いです。
               </p>
             </div>
           </div>

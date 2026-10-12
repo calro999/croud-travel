@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '山口・萩温泉郷で過ごす冬の旅（11・12月）！長州黒毛和牛！名宿5選',
-  description: '11月から12月にかけて世界遺産の城下町・山口県萩市は、白壁の武家屋敷通りに初冬の柔らかな日差しが差し込み。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて世界遺産の城下町・山口県萩市は、白壁の武家屋敷通りに初冬の柔らかな日差しが差し込み。',
   keywords: '萩温泉 宿泊, 萩温泉郷 11月 12月, 北門屋敷 萩, 萩一輪, 萩小町, 常茂恵 萩, 萩本陣, 天然とらふぐ 萩 宿, 萩 甘鯛 温泉, 萩城下町 世界遺産 宿泊',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamaguchi-hagi-onsen-fugu-choshu-beef-stay/"
   },
   openGraph: {
     title: '山口・萩温泉郷で過ごす冬の旅（11・12月）！長州黒毛和牛！名宿5選',
-    description: '11月から12月にかけて世界遺産の城下町・山口県萩市は、白壁の武家屋敷通りに初冬の柔らかな日差しが差し込み。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて世界遺産の城下町・山口県萩市は、白壁の武家屋敷通りに初冬の柔らかな日差しが差し込み。',
     url: 'https://croud-travel.pages.dev/winter-yamaguchi-hagi-onsen-fugu-choshu-beef-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',

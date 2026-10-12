@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '松島温泉で過ごす冬の旅（11・12月）！日本三景日の出パノラマ展望露天！名宿5選',
-  description: '11月から12月にかけて、日本三景の一つに数えられる宮城県・松島湾は、初冬の澄み切った冷涼な空気によって260余りの島々が最も鮮やかに浮かび。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、日本三景の一つに数えられる宮城県・松島湾は、初冬の澄み切った冷涼な空気によって260余りの島々が最も鮮やかに浮かび。',
   keywords: '松島温泉 宿泊, 宮城 温泉 11月 12月, 松島一の坊, ホテル松島大観荘, 小松館 好風亭, 松島センチュリーホテル, ホテル絶景の館, 松島牡蠣 宿, 仙台牛 会席, 日本三景 日の出 露天風呂',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-miyagi-matsushima-onsen-kaki-matsushimawan-view-stay/"
   },
   openGraph: {
     title: '松島温泉で過ごす冬の旅（11・12月）！日本三景日の出パノラマ展望露天！名宿5選',
-    description: '11月から12月にかけて、日本三景の一つに数えられる宮城県・松島湾は、初冬の澄み切った冷涼な空気によって260余りの島々が最も鮮やかに浮かび。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、日本三景の一つに数えられる宮城県・松島湾は、初冬の澄み切った冷涼な空気によって260余りの島々が最も鮮やかに浮かび。',
     url: 'https://croud-travel.pages.dev/winter-miyagi-matsushima-onsen-kaki-matsushimawan-view-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',

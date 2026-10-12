@@ -6,14 +6,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月島根：幻の石見和牛厳選！名宿5選',
-  description: '周囲を山々に囲まれた山陰の小京都・島根県津和野。11〜1月は雪化粧した武家屋敷の白壁となまこ壁。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '周囲を山々に囲まれた山陰の小京都・島根県津和野。11〜1月は雪化粧した武家屋敷の白壁となまこ壁。',
   keywords: '太皷谷稲成神社 初詣 千本鳥居, 津和野 殿町通り 雪景色, うずめ飯 元祖 津和野, 石見和牛 冬, ゆとりろ津和野, 若槻 津和野, 島根 冬 旅行, 山陰の小京都 津和野 観光',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-shimane-tsuwano-taikodani-inari-hatsumode-uzumemeshi-iwamigyu-stay'
   },
   openGraph: {
     title: '11・12・1月島根：幻の石見和牛厳選！名宿5選',
-    description: '周囲を山々に囲まれた山陰の小京都・島根県津和野。11〜1月は雪化粧した武家屋敷の白壁となまこ壁。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '周囲を山々に囲まれた山陰の小京都・島根県津和野。11〜1月は雪化粧した武家屋敷の白壁となまこ壁。',
     url: 'https://croud-travel.pages.dev/winter-shimane-tsuwano-taikodani-inari-hatsumode-uzumemeshi-iwamigyu-stay',
     siteName: 'クラドトラベル',
     type: 'article',
@@ -183,7 +183,7 @@ export default function ShimaneTsuwanoWinterFeaturePage() {
               url: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52979%2F52979.html",
               story: "津和野から車またはJR山口線で結ばれた山陰の海の玄関口・益田駅前に位置する「益田グリーンホテルモーリス」。広々とした館内には男女別の大浴場と本格的な高温サウナ、水風呂を完備し、旅人の疲労回復に最高の設備を誇ります。清潔でモダンな客室にはシモンズ社製上質ベッドと加湿空気清浄機を完備。無料のマッサージチェアコーナーや充実の漫画コーナーなど、充実したリラクゼーションが魅力です。日本海で揚がる新鮮な地魚料理が楽しめる駅前の名店街へも徒歩数分でアクセスできます。",
               roomTip: "デラックスシングルまたはツインルーム。ワイドデスクと高速Wi-Fi完備で、機能的かつ上質なプライベート空間を確保。",
-              gourmetTip: "駅前割烹での日本海の冬魚グルメ。冬が旬の真鱈やアンコウ鍋、山陰名物のノドグロ塩焼きを地酒「扶桑鶴」とともに。",
+              gourmetTip: "駅前割烹での日本海の冬魚グルメ。冬が旬の真鱈やアンコウ鍋、山陰名物のノドグロ塩焼きを地酒「扶桑鶴」とともに位置し、観光拠点として親しまれています。",
               highlights: [
                 "益田駅前徒歩圏内・大浴場＆本格高温サウナ完備で高評価を獲得するモーリスホテル" ,
                 "シモンズ製ベッドと加湿空気清浄機完備・山陰の冬魚が味わえる駅前名店街へ至近" ,

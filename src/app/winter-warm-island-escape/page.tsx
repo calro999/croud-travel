@@ -7,7 +7,7 @@ import path from "path";
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/winter-warm-island-escape/" },
   title: '冬の避寒リゾート：寒さ知らず！名宿5選',
-  description: '真冬でも気温20度前後！沖縄本島（那覇・恩納村）、奄美大島、石垣島・宮古島など。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '真冬でも気温20度前後！沖縄本島（那覇・恩納村）、奄美大島、石垣島・宮古島など。',
   keywords: ["冬の避寒リゾート", "寒さ知らず！沖縄", "奄美大島ぽかぽか旅", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 

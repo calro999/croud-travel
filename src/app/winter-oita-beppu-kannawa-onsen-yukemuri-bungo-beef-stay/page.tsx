@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '別府・鉄輪温泉で過ごす冬の旅（11・12月）！初冬の別府湾絶景露天！名宿5選',
-  description: '11月から12月にかけて冷気により街一面の湯けむりが最も美しく立ち昇る日本一の湧出量を誇る大分「別府温泉郷」と湯治情緒漂う「鉄輪（かんなわ）温泉」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて冷気により街一面の湯けむりが最も美しく立ち昇る日本一の湧出量を誇る大分「別府温泉郷」と湯治情緒漂う「鉄輪（かんなわ）温泉」。',
   keywords: '別府温泉 宿泊, 鉄輪温泉 11月 12月, 杉乃井ホテル, 潮騒の宿 晴海, 山荘 神和苑, ホテル白菊, 花べっぷ, 鉄輪 湯けむり展望台, 豊後牛 ステーキ, 関アジ 関サバ 刺身, 地獄蒸し料理',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-oita-beppu-kannawa-onsen-yukemuri-bungo-beef-stay/",
   },
   openGraph: {
     title: '別府・鉄輪温泉で過ごす冬の旅（11・12月）！初冬の別府湾絶景露天！名宿5選',
-    description: '11月から12月にかけて冷気により街一面の湯けむりが最も美しく立ち昇る日本一の湧出量を誇る大分「別府温泉郷」と湯治情緒漂う「鉄輪（かんなわ）温泉」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて冷気により街一面の湯けむりが最も美しく立ち昇る日本一の湧出量を誇る大分「別府温泉郷」と湯治情緒漂う「鉄輪（かんなわ）温泉」。',
     url: 'https://croud-travel.pages.dev/winter-oita-beppu-kannawa-onsen-yukemuri-bungo-beef-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',

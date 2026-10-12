@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '鶯宿温泉＆雫石で過ごす冬の旅（11・12月）！開湯450年の名湯と小岩井農場雪景色！名宿5選',
-  description: '11月から12月にかけて、秀峰・岩手山の雄大な裾野に広がる岩手県雫石町（しずくいしちょう）は、澄み切った初冬の空と白銀の雪化粧に彩られます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、秀峰・岩手山の雄大な裾野に広がる岩手県雫石町（しずくいしちょう）は、澄み切った初冬の空と白銀の雪化粧に彩られます。',
   keywords: '鶯宿温泉 宿泊, 雫石プリンスホテル, ホテル森の風 鶯宿, 川長, ゆとりろ雫石, あけぼの荘, 雫石牛, 小岩井農場 イルミネーション, 盛岡冷麺, 11月 12月 岩手温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-iwate-oshuku-shizukuishi-onsen-koiwai-snow-shizukuishigyu-stay/"
   },
   openGraph: {
     title: '鶯宿温泉＆雫石で過ごす冬の旅（11・12月）！開湯450年の名湯と小岩井農場雪景色！名宿5選',
-    description: '11月から12月にかけて、秀峰・岩手山の雄大な裾野に広がる岩手県雫石町（しずくいしちょう）は、澄み切った初冬の空と白銀の雪化粧に彩られます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、秀峰・岩手山の雄大な裾野に広がる岩手県雫石町（しずくいしちょう）は、澄み切った初冬の空と白銀の雪化粧に彩られます。',
     url: 'https://croud-travel.pages.dev/winter-iwate-oshuku-shizukuishi-onsen-koiwai-snow-shizukuishigyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

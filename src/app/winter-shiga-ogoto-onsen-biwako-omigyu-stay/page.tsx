@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '滋賀・おごと温泉で過ごす冬の旅（11・12月）！特選近江牛！名宿5選',
-  description: '11月から12月にかけて、京都駅からJR湖西線でわずか20分という好立地にありながら、雄大な琵琶湖の湖畔に静かに佇む「おごと温泉（雄琴温泉）」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、京都駅からJR湖西線でわずか20分という好立地にありながら、雄大な琵琶湖の湖畔に静かに佇む「おごと温泉（雄琴温泉）」。',
   keywords: 'おごと温泉 宿泊, おごと温泉 11月 12月, びわこ緑水亭, びわ湖花街道, 暖灯館きくのや, 雄山荘, 湯の宿木もれび, 近江牛 宿, 琵琶湖 温泉 露天風呂, 比叡山 延暦寺 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shiga-ogoto-onsen-biwako-omigyu-stay/"
   },
   openGraph: {
     title: '滋賀・おごと温泉で過ごす冬の旅（11・12月）！特選近江牛！名宿5選',
-    description: '11月から12月にかけて、京都駅からJR湖西線でわずか20分という好立地にありながら、雄大な琵琶湖の湖畔に静かに佇む「おごと温泉（雄琴温泉）」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、京都駅からJR湖西線でわずか20分という好立地にありながら、雄大な琵琶湖の湖畔に静かに佇む「おごと温泉（雄琴温泉）」。',
     url: 'https://croud-travel.pages.dev/winter-shiga-ogoto-onsen-biwako-omigyu-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',

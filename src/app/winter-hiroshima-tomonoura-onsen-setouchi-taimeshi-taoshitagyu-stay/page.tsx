@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '鞆の浦温泉で過ごす冬の旅（11・12月）！瀬戸内海初冬の夕暮れと潮待ちの港情緒！名宿5選',
-  description: '11月中旬から12月の初冬、瀬戸内海の穏やかな潮風に包まれる広島県福山市・鞆の浦（とものうら）は、一年で最も空気が澄み渡り。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月中旬から12月の初冬、瀬戸内海の穏やかな潮風に包まれる広島県福山市・鞆の浦（とものうら）は、一年で最も空気が澄み渡り。',
   keywords: '鞆の浦温泉 宿泊, 鞆の浦 旅館, 寒真鯛 鯛めし, 峠下牛 広島牛, 保命酒 鞆の浦, 遠音近音 漣亭 鴎風亭, 潮待ちの港 日本遺産, 常夜燈 仙酔島, 11月 12月 瀬戸内海旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hiroshima-tomonoura-onsen-setouchi-taimeshi-taoshitagyu-stay/"
   },
   openGraph: {
     title: '鞆の浦温泉で過ごす冬の旅（11・12月）！瀬戸内海初冬の夕暮れと潮待ちの港情緒！名宿5選',
-    description: '11月中旬から12月の初冬、瀬戸内海の穏やかな潮風に包まれる広島県福山市・鞆の浦（とものうら）は、一年で最も空気が澄み渡り。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月中旬から12月の初冬、瀬戸内海の穏やかな潮風に包まれる広島県福山市・鞆の浦（とものうら）は、一年で最も空気が澄み渡り。',
     url: 'https://croud-travel.pages.dev/winter-hiroshima-tomonoura-onsen-setouchi-taimeshi-taoshitagyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

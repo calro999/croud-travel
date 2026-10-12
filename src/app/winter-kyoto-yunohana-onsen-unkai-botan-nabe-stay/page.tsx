@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '京都湯で過ごす冬の旅（11・12月）！初冬の京奥座敷露天！名宿5選',
-  description: '11月から12月にかけて京都の奥座敷・亀岡盆地は、冷え込みとともに盆地全体が真っ白な霧の海に沈む幻想的な「丹波霧（かめおか雲海）」のシーズンを迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて京都の奥座敷・亀岡盆地は、冷え込みとともに盆地全体が真っ白な霧の海に沈む幻想的な「丹波霧（かめおか雲海）」のシーズンを迎えます。',
   keywords: '湯の花温泉 宿泊, 京都 亀岡 温泉, 湯の花温泉 ぼたん鍋, すみや亀峰菴, 京都 烟河, 松園荘 保津川亭, 翠泉, 渓山閣, 丹波霧 雲海, 丹波牛, 京都 冬 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kyoto-yunohana-onsen-unkai-botan-nabe-stay/",
   },
   openGraph: {
     title: '京都湯で過ごす冬の旅（11・12月）！初冬の京奥座敷露天！名宿5選',
-    description: '11月から12月にかけて京都の奥座敷・亀岡盆地は、冷え込みとともに盆地全体が真っ白な霧の海に沈む幻想的な「丹波霧（かめおか雲海）」のシーズンを迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて京都の奥座敷・亀岡盆地は、冷え込みとともに盆地全体が真っ白な霧の海に沈む幻想的な「丹波霧（かめおか雲海）」のシーズンを迎えます。',
     url: 'https://croud-travel.pages.dev/winter-kyoto-yunohana-onsen-unkai-botan-nabe-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',

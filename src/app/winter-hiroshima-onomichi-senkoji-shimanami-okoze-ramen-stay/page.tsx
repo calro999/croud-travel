@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月広島：千光寺新春開運初詣！名宿5選',
-  description: '冬の広島・尾道は、箱庭のような尾道水道と島々のシルエットが夕日に黄金色に染まる年間最高峰の絶景シーズン。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '冬の広島・尾道は、箱庭のような尾道水道と島々のシルエットが夕日に黄金色に染まる年間最高峰の絶景シーズン。',
   keywords: '尾道 ホテル, 千光寺 初詣, 尾道水道 夕景, 尾道ラーメン, オコゼ 尾道, しまなみ海道 冬, グリーンヒルホテル尾道, HOTEL CYCLE, 11月 12月 1月 広島 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hiroshima-onomichi-senkoji-shimanami-okoze-ramen-stay/"
   },
   openGraph: {
     title: '11・12・1月広島：千光寺新春開運初詣！名宿5選',
-    description: '冬の広島・尾道は、箱庭のような尾道水道と島々のシルエットが夕日に黄金色に染まる年間最高峰の絶景シーズン。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '冬の広島・尾道は、箱庭のような尾道水道と島々のシルエットが夕日に黄金色に染まる年間最高峰の絶景シーズン。',
     url: 'https://croud-travel.pages.dev/winter-hiroshima-onomichi-senkoji-shimanami-okoze-ramen-stay',
     type: 'article',
     images: [{ url: 'https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=630', width: 1200, height: 630, alt: '尾道水道の夕景と千光寺' }]

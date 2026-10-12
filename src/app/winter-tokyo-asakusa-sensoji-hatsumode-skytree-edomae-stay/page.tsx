@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月浅草押上：浅草寺新春初詣！名宿5選',
-  description: '冬の東京・浅草＆押上は、1400年の歴史を誇る浅草寺の朱塗り本堂と雷門が新春初詣の祈りで満ち。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '冬の東京・浅草＆押上は、1400年の歴史を誇る浅草寺の朱塗り本堂と雷門が新春初詣の祈りで満ち。',
   keywords: '浅草 ホテル, 浅草寺 初詣, 東京スカイツリー 冬 夜景, 浅草 温泉, 御宿野乃浅草, ザゲートホテル雷門, 浅草ビューホテル, 浅草 すき焼き, 11月 12月 1月 東京 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tokyo-asakusa-sensoji-hatsumode-skytree-edomae-stay/"
   },
   openGraph: {
     title: '11・12・1月浅草押上：浅草寺新春初詣！名宿5選',
-    description: '冬の東京・浅草＆押上は、1400年の歴史を誇る浅草寺の朱塗り本堂と雷門が新春初詣の祈りで満ち。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '冬の東京・浅草＆押上は、1400年の歴史を誇る浅草寺の朱塗り本堂と雷門が新春初詣の祈りで満ち。',
     url: 'https://croud-travel.pages.dev/winter-tokyo-asakusa-sensoji-hatsumode-skytree-edomae-stay',
     type: 'article',
     images: [{ url: 'https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=80' }]

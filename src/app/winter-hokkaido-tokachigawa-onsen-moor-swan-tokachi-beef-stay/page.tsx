@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '北海道・十勝川温泉で過ごす冬の旅（11・12月）！極上十勝牛ステーキ！名宿5選',
-  description: '11月から12月にかけて、広大な十勝平野に位置する十勝川温泉は、シベリアから優雅なオオハクチョウが越冬のために飛来し。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、広大な十勝平野に位置する十勝川温泉は、シベリアから優雅なオオハクチョウが越冬のために飛来し。',
   keywords: '十勝川温泉 宿泊, 十勝川温泉 ホテル, モール温泉 北海道, 十勝牛 ステーキ, 十勝川 白鳥 飛来 11月 12月, 十勝川温泉 第一ホテル, 観月苑, 三余庵, ホテル大平原, 笹井ホテル',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hokkaido-tokachigawa-onsen-moor-swan-tokachi-beef-stay/"
   },
   openGraph: {
     title: '北海道・十勝川温泉で過ごす冬の旅（11・12月）！極上十勝牛ステーキ！名宿5選',
-    description: '11月から12月にかけて、広大な十勝平野に位置する十勝川温泉は、シベリアから優雅なオオハクチョウが越冬のために飛来し。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、広大な十勝平野に位置する十勝川温泉は、シベリアから優雅なオオハクチョウが越冬のために飛来し。',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-tokachigawa-onsen-moor-swan-tokachi-beef-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
@@ -519,7 +519,7 @@ export default function HokkaidoTokachigawaWinterFeature() {
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="px-2 py-0.5 rounded bg-amber-100 text-amber-800 font-bold text-xs shrink-0 mt-0.5">09:45</span>
-                  <span><strong>ガーデンスパ十勝川温泉：</strong>マルシェで十勝産チーズや特産品をお土産に購入し、無料のモール温泉足湯でポカポカに。</span>
+                  <span><strong>ガーデンスパ十勝川温泉：</strong>マルシェで十勝産チーズや特産品をお土産に購入し、無料のモール温泉足湯でポカポカに位置し、観光拠点として親しまれています。</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="px-2 py-0.5 rounded bg-amber-100 text-amber-800 font-bold text-xs shrink-0 mt-0.5">11:30</span>

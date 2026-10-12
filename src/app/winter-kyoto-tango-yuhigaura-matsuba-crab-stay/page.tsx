@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '京都丹後・夕日ヶ浦温泉で過ごす冬の旅（11・12月）！本場間人ガニ！名宿5選',
-  description: '11月6日のカニ漁解禁を迎えると、京都府北部・丹後半島の西端に位置する夕日ヶ浦温泉（浜詰温泉）は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月6日のカニ漁解禁を迎えると、京都府北部・丹後半島の西端に位置する夕日ヶ浦温泉（浜詰温泉）は、注目の旅宿が揃っています。',
   keywords: '夕日ヶ浦温泉 宿泊, 夕日ヶ浦温泉 カニ 11月 12月, 佳松苑 夕日ヶ浦, 海花亭 花御前, 旅亭 櫂, 静花扇, 海舟 夕日ヶ浦, 松葉ガニ 間人ガニ 宿, 丹後 温泉 露天風呂',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kyoto-tango-yuhigaura-matsuba-crab-stay/"
   },
   openGraph: {
     title: '京都丹後・夕日ヶ浦温泉で過ごす冬の旅（11・12月）！本場間人ガニ！名宿5選',
-    description: '11月6日のカニ漁解禁を迎えると、京都府北部・丹後半島の西端に位置する夕日ヶ浦温泉（浜詰温泉）は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月6日のカニ漁解禁を迎えると、京都府北部・丹後半島の西端に位置する夕日ヶ浦温泉（浜詰温泉）は、注目の旅宿が揃っています。',
     url: 'https://croud-travel.pages.dev/winter-kyoto-tango-yuhigaura-matsuba-crab-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',

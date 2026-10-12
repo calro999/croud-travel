@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月盛岡：冬の盛岡八幡宮新春開運初詣！名宿5選',
-  description: '冬の盛岡は、冠雪した霊峰・岩手山（南部片富士）が澄み渡る青空に凛とそびえ立ち。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '冬の盛岡は、冠雪した霊峰・岩手山（南部片富士）が澄み渡る青空に凛とそびえ立ち。',
   keywords: '盛岡 ホテル, 繋温泉 旅館, つなぎ温泉 宿泊, 盛岡八幡宮 初詣, 岩手山 絶景, 盛岡三大麺, ホテル紫苑, 愛真館, ドーミーイン盛岡, 11月 12月 1月 盛岡 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-iwate-morioka-tsunagi-onsen-hatsumode-wagyu-stay/"
   },
   openGraph: {
     title: '11・12・1月盛岡：冬の盛岡八幡宮新春開運初詣！名宿5選',
-    description: '冬の盛岡は、冠雪した霊峰・岩手山（南部片富士）が澄み渡る青空に凛とそびえ立ち。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '冬の盛岡は、冠雪した霊峰・岩手山（南部片富士）が澄み渡る青空に凛とそびえ立ち。',
     url: 'https://croud-travel.pages.dev/winter-iwate-morioka-tsunagi-onsen-hatsumode-wagyu-stay',
     type: 'article',
     images: [{ url: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80' }]

@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '信州 別所温泉で過ごす冬の旅（11・12月）！極上信州プレミアム牛！名宿5選',
-  description: '11月から12月にかけて、信州最古の温泉地として「信州の鎌倉」と称される長野県上田市の「別所温泉」は、山並みに初雪が冠し。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、信州最古の温泉地として「信州の鎌倉」と称される長野県上田市の「別所温泉」は、山並みに初雪が冠し。',
   keywords: '別所温泉 宿泊, 信州 温泉 11月 12月, 七草の湯, かしわや本店, 上松や, 玉屋旅館, 中松屋, 北向観音 参拝, 信州プレミアム牛, 源泉掛け流し 硫黄泉, 信州の鎌倉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagano-bessho-onsen-shinshu-beef-heritage-stay/"
   },
   openGraph: {
     title: '信州 別所温泉で過ごす冬の旅（11・12月）！極上信州プレミアム牛！名宿5選',
-    description: '11月から12月にかけて、信州最古の温泉地として「信州の鎌倉」と称される長野県上田市の「別所温泉」は、山並みに初雪が冠し。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、信州最古の温泉地として「信州の鎌倉」と称される長野県上田市の「別所温泉」は、山並みに初雪が冠し。',
     url: 'https://croud-travel.pages.dev/winter-nagano-bessho-onsen-shinshu-beef-heritage-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',

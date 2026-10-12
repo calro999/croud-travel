@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月京都：八坂神社新春初詣！名宿5選',
-  description: '冬の京都・東山は、観光の喧騒が落ち着き古都本来の静寂と雅な旅情が広がる特別な季節。大晦日の「をけら詣り」から新春の活気に包まれる八坂神社。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '冬の京都・東山は、観光の喧騒が落ち着き古都本来の静寂と雅な旅情が広がる特別な季節。大晦日の「をけら詣り」から新春の活気に包まれる八坂神社。',
   keywords: '京都 祇園 ホテル, 清水寺 ホテル, 八坂神社 初詣, 東山 旅館, ウェスティン都ホテル京都, セレスティン京都祇園, ハイアットリージェンシー京都, 京都グランベルホテル, ノーガホテル清水京都, 11月 12月 1月 京都 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kyoto-gion-higashiyama-yasaka-shrine-hatsumode-kiyomizu-stay/"
   },
   openGraph: {
     title: '11・12・1月京都：八坂神社新春初詣！名宿5選',
-    description: '冬の京都・東山は、観光の喧騒が落ち着き古都本来の静寂と雅な旅情が広がる特別な季節。大晦日の「をけら詣り」から新春の活気に包まれる八坂神社。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '冬の京都・東山は、観光の喧騒が落ち着き古都本来の静寂と雅な旅情が広がる特別な季節。大晦日の「をけら詣り」から新春の活気に包まれる八坂神社。',
     url: 'https://croud-travel.pages.dev/winter-kyoto-gion-higashiyama-yasaka-shrine-hatsumode-kiyomizu-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: "11・12・1月京都：八坂神社新春初詣＆雪の清水寺！冬の祇園白川の風情と老舗湯豆腐・京懐石の雅宿5選",
-    description: "冬の京都・東山は、観光の喧騒が落ち着き古都本来の静寂と雅な旅情が広がる特別な季節。大晦日の「をけら詣り」から新春の活気に包まれる八坂神社、雪化粧をまとう清水寺の舞台、格子戸が連なる祇園白川の石畳。冷えた体を芯から温める老舗の熱々湯豆腐や白味噌雑煮、繊細な冬の京懐石まで。楽天APIから最新取得したホテル ザ セレスティン京都祇園、ウェスティン都ホテル京都など厳選雅宿5選を徹底特集します。",
+    description: "冬の京都・東山は、観光の喧騒が落ち着き古都本来の静寂と雅な旅情が広がる特別な季節。大晦日の「をけら詣り」から新春の活気に包まれる八坂神社、雪化粧をまとう清水寺の舞台、格子戸が連なる祇園白川の石畳。冷えた体を芯から温める老舗の熱々湯豆腐や白味噌雑煮、繊細な冬の京懐石まで、ゆったりとした時間を過ごせます。楽天APIから最新取得したホテル ザ セレスティン京都祇園、ウェスティン都ホテル京都など厳選雅宿5選を徹底特集します。",
     images: ["https://img.travel.rakuten.co.jp/share/HOTEL/160991/160991.jpg"]
   }
 };
@@ -168,7 +168,7 @@ export default function KyotoGionHigashiyamaWinterPage() {
           "@id": "https://croud-travel.pages.dev/winter-kyoto-gion-higashiyama-yasaka-shrine-hatsumode-kiyomizu-stay"
         },
         "headline": "【11・12・1月京都】八坂神社新春初詣＆雪の清水寺！冬の祇園白川の風情と老舗湯豆腐・京懐石の雅宿5選",
-        "description": "冬の京都・東山は、観光の喧騒が落ち着き古都本来の静寂と雅な旅情が広がる特別な季節。大晦日の「をけら詣り」から新春の活気に包まれる八坂神社、雪化粧をまとう清水寺の舞台、格子戸が連なる祇園白川の石畳。冷えた体を芯から温める老舗の熱々湯豆腐や白味噌雑煮、繊細な冬の京懐石まで。楽天APIから最新取得したホテル ザ セレスティン京都祇園、ウェスティン都ホテル京都など厳選雅宿5選を徹底特集します。",
+        "description": "冬の京都・東山は、観光の喧騒が落ち着き古都本来の静寂と雅な旅情が広がる特別な季節。大晦日の「をけら詣り」から新春の活気に包まれる八坂神社、雪化粧をまとう清水寺の舞台、格子戸が連なる祇園白川の石畳。冷えた体を芯から温める老舗の熱々湯豆腐や白味噌雑煮、繊細な冬の京懐石まで、ゆったりとした時間を過ごせます。楽天APIから最新取得したホテル ザ セレスティン京都祇園、ウェスティン都ホテル京都など厳選雅宿5選を徹底特集します。",
         "datePublished": "T00:00:00+09:00",
         "dateModified": "T00:00:00+09:00",
         "inLanguage": "ja",
@@ -300,7 +300,7 @@ export default function KyotoGionHigashiyamaWinterPage() {
                 <span>八坂神社初詣＆をけら詣り</span>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
-                大晦日の厄除け神火から新春の初詣、1月の初ゑびすまで。千年の都に受け継がれる新春の祈りと伝統行事。
+                大晦日の厄除け神火から新春の初詣、1月の初ゑびすまで、ゆったりとした時間を過ごせます。千年の都に受け継がれる新春の祈りと伝統行事。
               </p>
             </div>
             <div className="bg-rose-50/60 rounded-xl p-5 border border-rose-100">

@@ -6,14 +6,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月千葉：房総伊勢海老！名宿5選',
-  description: '黒潮の影響で真冬でも温暖な気候に恵まれた常春の地・南房総と鋸南・館山。12月中旬〜1月は山肌を白く染める「江月水仙ロード」の約1000万本の。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '黒潮の影響で真冬でも温暖な気候に恵まれた常春の地・南房総と鋸南・館山。12月中旬〜1月は山肌を白く染める「江月水仙ロード」の約1000万本の。',
   keywords: '江月水仙ロード 見頃, 安房神社 初詣 金運, 野島埼灯台 初日の出, 房総伊勢海老 冬, 金目鯛 姿煮 南房総, 休暇村館山, 白浜オーシャンリゾート, 千葉 冬 旅行, 南房総 観光',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-chiba-minamiboso-kyonan-suisen-road-awa-shrine-hatsumode-iseebi-stay'
   },
   openGraph: {
     title: '11・12・1月千葉：房総伊勢海老！名宿5選',
-    description: '黒潮の影響で真冬でも温暖な気候に恵まれた常春の地・南房総と鋸南・館山。12月中旬〜1月は山肌を白く染める「江月水仙ロード」の約1000万本の。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '黒潮の影響で真冬でも温暖な気候に恵まれた常春の地・南房総と鋸南・館山。12月中旬〜1月は山肌を白く染める「江月水仙ロード」の約1000万本の。',
     url: 'https://croud-travel.pages.dev/winter-chiba-minamiboso-kyonan-suisen-road-awa-shrine-hatsumode-iseebi-stay',
     siteName: 'クラドトラベル',
     type: 'article',

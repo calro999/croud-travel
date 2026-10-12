@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月京都：雪化粧の伊根湾「伊根の舟屋」！名宿5選',
-  description: '11月から1月、京都府丹後半島・伊根町と宮津市は、日本海に浮かぶ約230軒の「伊根の舟屋群」が静かに雪をまとう水墨画のような絶景と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から1月、京都府丹後半島・伊根町と宮津市は、日本海に浮かぶ約230軒の「伊根の舟屋群」が静かに雪をまとう水墨画のような絶景と。',
   keywords: '伊根の舟屋 冬, 伊根ブリ, ブリしゃぶ, 天橋立 雪景色, 油屋別館和亭, 玄妙庵, 天橋立ホテル, 油屋本館, 茶六別館, 奥伊根温泉, 宮津温泉, 11月 12月 1月 京都旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kyoto-ine-funaya-ineburi-shabu-miyazu-stay/"
   },
   openGraph: {
     title: '11・12・1月京都：雪化粧の伊根湾「伊根の舟屋」！名宿5選',
-    description: '11月から1月、京都府丹後半島・伊根町と宮津市は、日本海に浮かぶ約230軒の「伊根の舟屋群」が静かに雪をまとう水墨画のような絶景と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から1月、京都府丹後半島・伊根町と宮津市は、日本海に浮かぶ約230軒の「伊根の舟屋群」が静かに雪をまとう水墨画のような絶景と。',
     url: 'https://croud-travel.pages.dev/winter-kyoto-ine-funaya-ineburi-shabu-miyazu-stay',
     siteName: 'クラドトラベル',
     images: [

@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '養老渓谷温泉郷で過ごす冬の旅（11・12月）！房総かずさ和牛！名宿5選',
-  description: '11月下旬から12月上旬にかけて「本州で最も遅い紅葉」のクライマックスを迎える千葉県・房総半島の養老渓谷温泉郷。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月下旬から12月上旬にかけて「本州で最も遅い紅葉」のクライマックスを迎える千葉県・房総半島の養老渓谷温泉郷。',
   keywords: '養老渓谷 宿泊, 養老渓谷 紅葉 温泉, 黒湯 モール泉 旅館, 房総かずさ和牛, 天然猪鍋 ぼたん鍋, 粟又の滝 ハイキング, 小湊鐵道 トロッコ, 11月 12月 千葉旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-chiba-yoro-keikoku-onsen-kuroyu-kazusagyu-jibier-stay/"
   },
   openGraph: {
     title: '養老渓谷温泉郷で過ごす冬の旅（11・12月）！房総かずさ和牛！名宿5選',
-    description: '11月下旬から12月上旬にかけて「本州で最も遅い紅葉」のクライマックスを迎える千葉県・房総半島の養老渓谷温泉郷。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月下旬から12月上旬にかけて「本州で最も遅い紅葉」のクライマックスを迎える千葉県・房総半島の養老渓谷温泉郷。',
     url: 'https://croud-travel.pages.dev/winter-chiba-yoro-keikoku-onsen-kuroyu-kazusagyu-jibier-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

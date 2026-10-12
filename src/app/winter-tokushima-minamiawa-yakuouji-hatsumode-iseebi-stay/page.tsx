@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月徳島：冬が旬の「天然伊勢海老！名宿5選',
-  description: '冬の黒潮が育む南阿波の絶景と豊かな冬の恵みを巡る11〜1月の徳島南部・美波町＆海陽町特集。四国霊場第23番札所として名高い厄除け大師「薬王寺。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '冬の黒潮が育む南阿波の絶景と豊かな冬の恵みを巡る11〜1月の徳島南部・美波町＆海陽町特集。四国霊場第23番札所として名高い厄除け大師「薬王寺。',
   keywords: '薬王寺 初詣, 徳島 厄除け 温泉, 美波町 観光, 南阿波 伊勢海老 宿, 海陽町 宍喰温泉, 徳島 冬 旅行, 日和佐 大浜海岸, アオリイカ 徳島, 阿波尾鶏 宿',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tokushima-minamiawa-yakuouji-hatsumode-iseebi-stay/"
   },
   openGraph: {
     title: '11・12・1月徳島：冬が旬の「天然伊勢海老！名宿5選',
-    description: '冬の黒潮が育む南阿波の絶景と豊かな冬の恵みを巡る11〜1月の徳島南部・美波町＆海陽町特集。四国霊場第23番札所として名高い厄除け大師「薬王寺。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '冬の黒潮が育む南阿波の絶景と豊かな冬の恵みを巡る11〜1月の徳島南部・美波町＆海陽町特集。四国霊場第23番札所として名高い厄除け大師「薬王寺。',
     url: 'https://croud-travel.pages.dev/winter-tokushima-minamiawa-yakuouji-hatsumode-iseebi-stay',
     type: 'article',
     images: [

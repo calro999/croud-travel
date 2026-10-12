@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '北海道・洞爺湖温泉で過ごす冬の旅（11・12月）！全室レイクビュー展望露天風呂！名宿5選',
-  description: '11月から12月にかけて、北海道有数のカルデラ湖畔に広がる「洞爺湖温泉（とうやこおんせん）」は、日本最北の不凍湖が魅せる静寂の湖面と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、北海道有数のカルデラ湖畔に広がる「洞爺湖温泉（とうやこおんせん）」は、日本最北の不凍湖が魅せる静寂の湖面と。',
   keywords: '洞爺湖 温泉 宿泊, 北海道 温泉 11月 12月, 湖の栖, 乃の風リゾート, 洞爺湖万世閣, 洞爺サンパレス, 洞爺観光ホテル, 羊蹄山 絶景 宿, 白老牛, 噴火湾ホタテ, 洞爺湖 イルミネーション',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hokkaido-toyako-onsen-lakeview-illumination-stay/"
   },
   openGraph: {
     title: '北海道・洞爺湖温泉で過ごす冬の旅（11・12月）！全室レイクビュー展望露天風呂！名宿5選',
-    description: '11月から12月にかけて、北海道有数のカルデラ湖畔に広がる「洞爺湖温泉（とうやこおんせん）」は、日本最北の不凍湖が魅せる静寂の湖面と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、北海道有数のカルデラ湖畔に広がる「洞爺湖温泉（とうやこおんせん）」は、日本最北の不凍湖が魅せる静寂の湖面と。',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-toyako-onsen-lakeview-illumination-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',

@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '兵庫・香住温泉で過ごす冬の旅（11・12月）！香住松葉ガニ！名宿5選',
-  description: '11月6日のカニ漁解禁を迎えると、兵庫県但馬地方の日本海に面した香住海岸（香住港・柴山港）は、一年で最も活気あふれる松葉ガニの最高峰シーズンを迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月6日のカニ漁解禁を迎えると、兵庫県但馬地方の日本海に面した香住海岸（香住港・柴山港）は、一年で最も活気あふれる松葉ガニの最高峰シーズンを迎えます。',
   keywords: '香住温泉 宿泊, 柴山温泉 カニ, 柴山がに 宿, 香住 松葉ガニ 11月 12月, さだ助, さどや, やまや 香住, 癒しの宿こえもん, 翠湖, 但馬牛 香住, 余部橋梁 冬',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay/"
   },
   openGraph: {
     title: '兵庫・香住温泉で過ごす冬の旅（11・12月）！香住松葉ガニ！名宿5選',
-    description: '11月6日のカニ漁解禁を迎えると、兵庫県但馬地方の日本海に面した香住海岸（香住港・柴山港）は、一年で最も活気あふれる松葉ガニの最高峰シーズンを迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月6日のカニ漁解禁を迎えると、兵庫県但馬地方の日本海に面した香住海岸（香住港・柴山港）は、一年で最も活気あふれる松葉ガニの最高峰シーズンを迎えます。',
     url: 'https://croud-travel.pages.dev/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',

@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '熱川温泉で過ごす冬の旅（11・12月）！名物地金目鯛姿煮！名宿5選',
-  description: '11月から12月にかけて、伊豆半島東海岸の熱川温泉（あたがわおんせん）は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、伊豆半島東海岸の熱川温泉（あたがわおんせん）は、注目の旅宿が揃っています。',
   keywords: '熱川温泉 宿泊, 熱川プリンスホテル, 熱川館, ホテルカターラ, 熱川ハイツ, 吉祥CAREN, 地金目鯛姿煮, 水平線日の出 11月 12月, 伊豆牛, 東伊豆',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shizuoka-atagawa-onsen-ocean-sunrise-kinmedai-stay/"
   },
   openGraph: {
     title: '熱川温泉で過ごす冬の旅（11・12月）！名物地金目鯛姿煮！名宿5選',
-    description: '11月から12月にかけて、伊豆半島東海岸の熱川温泉（あたがわおんせん）は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、伊豆半島東海岸の熱川温泉（あたがわおんせん）は、注目の旅宿が揃っています。',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-atagawa-onsen-ocean-sunrise-kinmedai-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',

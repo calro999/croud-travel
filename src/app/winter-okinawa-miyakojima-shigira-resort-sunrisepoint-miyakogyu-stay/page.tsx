@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月宮古島：冬の避寒リゾート！名宿5選',
-  description: '本州が真冬の寒波に包まれる11月・12月・1月、平均気温20度前後の心地よい温暖な気候が広がる南国の楽園・沖縄県宮古島。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '本州が真冬の寒波に包まれる11月・12月・1月、平均気温20度前後の心地よい温暖な気候が広がる南国の楽園・沖縄県宮古島。',
   keywords: '宮古島 ホテル, シギラリゾート, 宮古島 リゾート, シギラベイサイドスイート アラマンダ, ホテル シギラミラージュ, 宮古島東急ホテル＆リゾーツ, ヒルトン宮古島, 宮古牛, 東平安名崎 初日の出, 11月 12月 1月 沖縄 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-okinawa-miyakojima-shigira-resort-sunrisepoint-miyakogyu-stay/"
   },
   openGraph: {
     title: '11・12・1月宮古島：冬の避寒リゾート！名宿5選',
-    description: '本州が真冬の寒波に包まれる11月・12月・1月、平均気温20度前後の心地よい温暖な気候が広がる南国の楽園・沖縄県宮古島。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '本州が真冬の寒波に包まれる11月・12月・1月、平均気温20度前後の心地よい温暖な気候が広がる南国の楽園・沖縄県宮古島。',
     url: 'https://croud-travel.pages.dev/winter-okinawa-miyakojima-shigira-resort-sunrisepoint-miyakogyu-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',

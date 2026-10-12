@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '箱根仙石原温泉で過ごす冬の旅（11・12月）！富士山望む露天風呂！名宿5選',
-  description: '11月下旬から12月にかけて箱根・仙石原高原は、黄金色に波打つ一面のススキ草原が冬の銀白色へと移ろい、凛とした初冬の静寂に包まれます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月下旬から12月にかけて箱根・仙石原高原は、黄金色に波打つ一面のススキ草原が冬の銀白色へと移ろい、凛とした初冬の静寂に包まれます。',
   keywords: '箱根仙石原 温泉 宿泊, 仙石原 11月 12月, 箱根 ススキ草原 冬, 箱根 にごり湯 宿, ホテルグリーンプラザ箱根 富士山, きたの風茶寮, 箱根仙石原プリンスホテル, リカーヴ箱根, 箱根リトリート, 足柄牛 ステーキ, 箱根 美術館 旅',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kanagawa-hakone-sengokuhara-onsen-susuki-nigori-stay/",
   },
   openGraph: {
     title: '箱根仙石原温泉で過ごす冬の旅（11・12月）！富士山望む露天風呂！名宿5選',
-    description: '11月下旬から12月にかけて箱根・仙石原高原は、黄金色に波打つ一面のススキ草原が冬の銀白色へと移ろい、凛とした初冬の静寂に包まれます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月下旬から12月にかけて箱根・仙石原高原は、黄金色に波打つ一面のススキ草原が冬の銀白色へと移ろい、凛とした初冬の静寂に包まれます。',
     url: 'https://croud-travel.pages.dev/winter-kanagawa-hakone-sengokuhara-onsen-susuki-nigori-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',

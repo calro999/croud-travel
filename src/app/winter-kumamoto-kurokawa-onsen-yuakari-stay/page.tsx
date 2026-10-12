@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '黒川温泉で過ごす冬の旅（11・12月）！竹灯籠が彩る渓流露天風呂と阿蘇あか牛！名宿5選',
-  description: '11月から12月にかけて阿蘇外輪山の冷涼な風が吹き抜ける熊本・黒川温泉。12月中旬から田の原川の渓流に幻想的な竹灯籠が灯る冬の風物詩「湯あかり」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて阿蘇外輪山の冷涼な風が吹き抜ける熊本・黒川温泉。12月中旬から田の原川の渓流に幻想的な竹灯籠が灯る冬の風物詩「湯あかり」。',
   keywords: '黒川温泉 宿泊 11月 12月, 黒川温泉 湯あかり, 黒川温泉 入湯手形, あか牛 温泉 宿, 黒川温泉 おすすめ 旅館, 熊本 馬刺し 温泉, 黒川温泉 冬 モデルコース',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kumamoto-kurokawa-onsen-yuakari-stay/",
   },
   openGraph: {
     title: '黒川温泉で過ごす冬の旅（11・12月）！竹灯籠が彩る渓流露天風呂と阿蘇あか牛！名宿5選',
-    description: '11月から12月にかけて阿蘇外輪山の冷涼な風が吹き抜ける熊本・黒川温泉。12月中旬から田の原川の渓流に幻想的な竹灯籠が灯る冬の風物詩「湯あかり」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて阿蘇外輪山の冷涼な風が吹き抜ける熊本・黒川温泉。12月中旬から田の原川の渓流に幻想的な竹灯籠が灯る冬の風物詩「湯あかり」。',
     url: 'https://croud-travel.pages.dev/winter-kumamoto-kurokawa-onsen-yuakari-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',

@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月千葉：本州一早い初日の出「犬吠埼」！名宿5選',
-  description: '11月から1月、千葉県銚子・犬吠埼は、本州の平地で最も早く昇る神々しい初日の出と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から1月、千葉県銚子・犬吠埼は、本州の平地で最も早く昇る神々しい初日の出と。',
   keywords: '犬吠埼 初日の出, 銚子つりきんめ, 犬吠埼ホテル, 犬吠埼観光ホテル, 別邸 海と森, 銚子プラザホテル, 亀の井ホテル九十九里, 九十九里 焼きはまぐり, 犬吠埼温泉, 11月 12月 1月 千葉旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-chiba-choshi-inubosaki-sunrise-kinmedai-hamaguri-stay/"
   },
   openGraph: {
     title: '11・12・1月千葉：本州一早い初日の出「犬吠埼」！名宿5選',
-    description: '11月から1月、千葉県銚子・犬吠埼は、本州の平地で最も早く昇る神々しい初日の出と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から1月、千葉県銚子・犬吠埼は、本州の平地で最も早く昇る神々しい初日の出と。',
     url: 'https://croud-travel.pages.dev/winter-chiba-choshi-inubosaki-sunrise-kinmedai-hamaguri-stay',
     siteName: 'クラドトラベル',
     images: [

@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '作並温泉で過ごす冬の旅（11・12月）！極上A5仙台牛ステーキ！名宿5選',
-  description: '11月から12月にかけて、杜の都・仙台の奥座敷として古くから親しまれる作並温泉および秋保温泉エリアは、広瀬川や名取川の深い渓谷が初雪に彩られ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+  description: '11月から12月にかけて、杜の都・仙台の奥座敷として古くから親しまれる作並温泉および秋保温泉エリアは、広瀬川や名取川の深い渓谷が初雪に彩られ。',
   keywords: '作並温泉 宿泊, 作並温泉 一の坊, 岩松旅館, 仙台せり鍋, A5仙台牛, 美女づくりの湯, 作並温泉 雪見露天風呂, 秋保温泉 緑水亭, 11月 12月 宮城 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-miyagi-sakunami-onsen-yukimi-sendai-beef-serinabe-stay/"
   },
   openGraph: {
     title: '作並温泉で過ごす冬の旅（11・12月）！極上A5仙台牛ステーキ！名宿5選',
-    description: '11月から12月にかけて、杜の都・仙台の奥座敷として古くから親しまれる作並温泉および秋保温泉エリアは、広瀬川や名取川の深い渓谷が初雪に彩られ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
+    description: '11月から12月にかけて、杜の都・仙台の奥座敷として古くから親しまれる作並温泉および秋保温泉エリアは、広瀬川や名取川の深い渓谷が初雪に彩られ。',
     url: 'https://croud-travel.pages.dev/winter-miyagi-sakunami-onsen-yukimi-sendai-beef-serinabe-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
@@ -302,7 +302,7 @@ export default function MiyagiSakunamiWinterFeature() {
                 名物仙台せり鍋＆A5仙台牛
               </div>
               <p className="text-xs text-slate-600 leading-relaxed">
-                根っこまで甘い旬の仙台セリと地鶏出汁の鍋。さらにサシが見事な最高ランクA5仙台牛ステーキを地酒とともに。
+                根っこまで甘い旬の仙台セリと地鶏出汁の鍋。さらにサシが見事な最高ランクA5仙台牛ステーキを地酒とともに位置し、観光拠点として親しまれています。
               </p>
             </div>
             <div className="p-4 rounded-2xl bg-rose-50/60 border border-rose-100 space-y-2">
@@ -504,7 +504,7 @@ export default function MiyagiSakunamiWinterFeature() {
                 <ThermometerSun className="w-4 h-4" /> 気候・冬用タイヤの準備
               </h3>
               <p className="text-slate-200 text-xs leading-relaxed">
-                奥羽山脈の麓に位置するため仙台中心部より冷え込みます。11月下旬以降は降雪や夜間早朝の路面凍結があるため、マイカーやレンタカーはスタッドレスタイヤ必須です。防寒コートやマフラーも忘れずに。
+                奥羽山脈の麓に位置するため仙台中心部より冷え込みます。11月下旬以降は降雪や夜間早朝の路面凍結があるため、マイカーやレンタカーはスタッドレスタイヤ必須です。防寒コートやマフラーも忘れずに位置し、観光拠点として親しまれています。
               </p>
             </div>
             <div className="space-y-2 bg-white/10 p-5 rounded-2xl backdrop-blur-sm border border-white/10">
