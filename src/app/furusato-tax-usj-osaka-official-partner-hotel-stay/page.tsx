@@ -44,6 +44,18 @@ export default function FurusatoUSJOfficialPartnerHotelStayPage() {
 
   return (
     <article className="max-w-5xl mx-auto px-4 py-8 text-gray-800 leading-relaxed font-sans">
+
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [{"@type":"Question","name":"すでに予約している宿泊プランにもふるさと納税クーポンは使えますか？","acceptedAnswer":{"@type":"Answer","text":"はい！楽天トラベルの「あとからクーポン適用」機能に対応している施設であれば、予約後でもマイページから自治体クーポンを適用して割引を受けられます。"}},{"@type":"Question","name":"トラベルクーポンの有効期限はどれくらいですか？","acceptedAnswer":{"@type":"Answer","text":"楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。"}},{"@type":"Question","name":"複数人や家族での宿泊代金全体に対して割引されますか？","acceptedAnswer":{"@type":"Answer","text":"はい、1回の予約の「総宿泊代金」に対してクーポンが適用されますので、家族全員分やグループ旅行の宿泊費全体から割引を受けることが可能です。"}}]
+          })
+        }}
+      />
+
       {/* パンくずリスト */}
       <nav className="text-sm text-gray-500 mb-6 flex flex-wrap items-center gap-1.5" aria-label="Breadcrumb">
         <Link href="/" className="hover:underline hover:text-amber-700">ホーム</Link>

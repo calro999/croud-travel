@@ -44,6 +44,18 @@ export default function FurusatoWaterfallViewStreamStayPage() {
 
   return (
     <article className="max-w-5xl mx-auto px-4 py-8 text-gray-800 leading-relaxed font-sans">
+
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [{"@type":"Question","name":"すでに予約している宿泊プランにもふるさと納税クーポンは使えますか？","acceptedAnswer":{"@type":"Answer","text":"はい！楽天トラベルの「あとからクーポン適用」機能に対応している施設であれば、予約後でもマイページから自治体クーポンを適用して割引を受けられます。旅行直前でも諦めずに確認することをおすすめします。"}},{"@type":"Question","name":"トラベルクーポンの有効期限はどれくらいですか？","acceptedAnswer":{"@type":"Answer","text":"楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。年末の駆け込み寄付でクーポンを確保しておき、翌年以降の記念日や旅行シーズンにゆっくり利用できます。"}},{"@type":"Question","name":"現地での追加飲料代やマッサージ代にも使えますか？","acceptedAnswer":{"@type":"Answer","text":"トラベルクーポンは楽天トラベル上の「宿泊プラン代金（事前決済または現地決済の宿泊費）」に対して適用されます。現地での追加注文をお得にしたい場合は、夕食時のドリンクインクルーシブプランやエステ付き宿泊プランをあらかじめ選んで予約するのが賢い方法です。"}}]
+          })
+        }}
+      />
+
       {/* パンくずリスト */}
       <nav className="text-sm text-gray-500 mb-6 flex flex-wrap items-center gap-1.5" aria-label="Breadcrumb">
         <Link href="/" className="hover:underline hover:text-amber-700">ホーム</Link>

@@ -182,6 +182,25 @@ export default function FujiFiveLakesCarFreeBusGuidePage() {
 
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16 font-sans text-slate-800">
+
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": travelHacks.map(item => ({
+              "@type": "Question",
+              "name": item.q,
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": item.a
+              }
+            }))
+          })
+        }}
+      />
+
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション（Teal & Lake Green Palette） */}
