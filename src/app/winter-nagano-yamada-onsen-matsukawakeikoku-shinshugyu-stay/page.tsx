@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '高山村山田温泉で過ごす冬の旅（11・12月）！松川渓谷の雪見露天と信州牛！名宿5選',
-  description: '11月から12月にかけて、信州北部に位置する高山村・松川渓谷は、晩秋の彩りから息を呑む白銀の渓谷美へと劇的な移ろいを見せます。',
+  description: '11月から12月にかけて、信州北部に位置する高山村・松川渓谷は、晩秋の彩りから息を呑む白銀の渓谷美へと劇的な移ろいを見せます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '山田温泉 旅館, 松川渓谷 温泉, 心を整える宿 風景館, 平野屋旅館, 山田館, 旅館わらび野, 五色温泉 五色の湯旅館, 信州プレミアム牛, 小布施栗おこわ, 高山村ワイン, 雪見露天風呂, 11月 12月 長野温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagano-yamada-onsen-matsukawakeikoku-shinshugyu-stay/"
   },
   openGraph: {
     title: '高山村山田温泉で過ごす冬の旅（11・12月）！松川渓谷の雪見露天と信州牛！名宿5選',
-    description: '11月から12月にかけて、信州北部に位置する高山村・松川渓谷は、晩秋の彩りから息を呑む白銀の渓谷美へと劇的な移ろいを見せます。',
+    description: '11月から12月にかけて、信州北部に位置する高山村・松川渓谷は、晩秋の彩りから息を呑む白銀の渓谷美へと劇的な移ろいを見せます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-nagano-yamada-onsen-matsukawakeikoku-shinshugyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

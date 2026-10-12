@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '岡山・美作三湯奥津で過ごす冬の旅（11・12月）！清流奥津渓の初冬雪景色と美肌！名宿5選',
-  description: '11月から12月にかけて、中国山地の懐に抱かれた岡山県北部・美作（みまさか）地方は、澄み切った冬空と初雪の山並みに包まれる静寂の温泉シーズンを迎えます。',
+  description: '11月から12月にかけて、中国山地の懐に抱かれた岡山県北部・美作（みまさか）地方は、澄み切った冬空と初雪の山並みに包まれる静寂の温泉シーズンを迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '奥津温泉 宿泊, 湯郷温泉 旅館, 奥津荘, ポピースプリングス, 季譜の里, ゆのごう館, 米屋倶楽部, 作州牛, 津山そずり鍋, 美肌の湯, 11月 12月 岡山温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-okayama-mimasaka-okutsu-yunogo-onsen-sakushugyu-stay/"
   },
   openGraph: {
     title: '岡山・美作三湯奥津で過ごす冬の旅（11・12月）！清流奥津渓の初冬雪景色と美肌！名宿5選',
-    description: '11月から12月にかけて、中国山地の懐に抱かれた岡山県北部・美作（みまさか）地方は、澄み切った冬空と初雪の山並みに包まれる静寂の温泉シーズンを迎えます。',
+    description: '11月から12月にかけて、中国山地の懐に抱かれた岡山県北部・美作（みまさか）地方は、澄み切った冬空と初雪の山並みに包まれる静寂の温泉シーズンを迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-okayama-mimasaka-okutsu-yunogo-onsen-sakushugyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

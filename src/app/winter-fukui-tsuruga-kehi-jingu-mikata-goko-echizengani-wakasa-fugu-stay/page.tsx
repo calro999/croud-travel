@@ -7,14 +7,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月福井：「若狭ふぐ」極上会席！名宿5選',
-  description: '北陸新幹線敦賀開業で首都圏・関西からのアクセスが飛躍的に進化した福井・若狭路の11〜1月冬紀行。北陸道総鎮守「氣比神宮」で迎える厳粛な新春初詣。',
+  description: '北陸新幹線敦賀開業で首都圏・関西からのアクセスが飛躍的に進化した福井・若狭路の11〜1月冬紀行。北陸道総鎮守「氣比神宮」で迎える厳粛な新春初詣。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '氣比神宮 初詣, 敦賀 越前がに, 若狭ふぐ てっさ, 三方五湖 冬, 敦賀マンテンホテル駅前, 水月花, 福井 冬旅行, 越前蟹 名宿',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukui-tsuruga-kehi-jingu-mikata-goko-echizengani-wakasa-fugu-stay/"
   },
   openGraph: {
     title: '11・12・1月福井：「若狭ふぐ」極上会席！名宿5選',
-    description: '北陸新幹線敦賀開業で首都圏・関西からのアクセスが飛躍的に進化した福井・若狭路の11〜1月冬紀行。北陸道総鎮守「氣比神宮」で迎える厳粛な新春初詣。',
+    description: '北陸新幹線敦賀開業で首都圏・関西からのアクセスが飛躍的に進化した福井・若狭路の11〜1月冬紀行。北陸道総鎮守「氣比神宮」で迎える厳粛な新春初詣。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-fukui-tsuruga-kehi-jingu-mikata-goko-echizengani-wakasa-fugu-stay',
     type: 'article',
     images: [
@@ -432,7 +432,7 @@ export default function FukuiTsurugaWinterPage() {
                 <Wine className="w-4 h-4 text-amber-700" /> 若狭ふぐフルコースの醍醐味
               </h3>
               <ul className="text-xs text-slate-600 space-y-1.5 leading-relaxed">
-                <li>・<strong>てっさ（薄造り）：</strong>透き通る身の弾力と噛むほどに溢れる上品な甘み。自家製ポン酢で、ゆったりとした時間を過ごせます。</li>
+                <li>・<strong>てっさ（薄造り）：</strong>透き通る身の弾力と噛むほどに溢れる上品な甘み。自家製ポン酢で。</li>
                 <li>・<strong>てっちり（ふぐ鍋）：</strong>昆布出汁にふぐのアラと冬野菜を煮込み、コラーゲンたっぷりのスープ。</li>
                 <li>・<strong>ふぐ雑炊＆ひれ酒：</strong>ふぐの出汁を吸った極上雑炊と、炙りひれの香ばしい熱燗で至福の締めくくり。</li>
               </ul>

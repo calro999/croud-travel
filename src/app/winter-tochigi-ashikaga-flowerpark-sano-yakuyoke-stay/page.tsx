@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月栃木：佐野厄除け大師初詣！名宿5選',
-  description: '11月から1月、栃木県足利市と佐野市は、日本三大イルミネーション第1位「あしかがフラワーパーク 光の花の庭」の500万球が輝き。',
+  description: '11月から1月、栃木県足利市と佐野市は、日本三大イルミネーション第1位「あしかがフラワーパーク 光の花の庭」の500万球が輝き。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: 'あしかがフラワーパーク イルミネーション, 光の花の庭, 佐野厄除け大師 初詣, 佐野ラーメン, 青竹手打ち, ニューミヤコホテル足利本館, ホテルルートイン佐野藤岡インター, ホテルサンルート佐野, とちあいか 苺狩り, 11月 12月 1月 栃木旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay/"
   },
   openGraph: {
     title: '11・12・1月栃木：佐野厄除け大師初詣！名宿5選',
-    description: '11月から1月、栃木県足利市と佐野市は、日本三大イルミネーション第1位「あしかがフラワーパーク 光の花の庭」の500万球が輝き。',
+    description: '11月から1月、栃木県足利市と佐野市は、日本三大イルミネーション第1位「あしかがフラワーパーク 光の花の庭」の500万球が輝き。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay',
     siteName: 'クラドトラベル',
     images: [

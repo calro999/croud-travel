@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月山口：徳山の冬ふぐ紀行！名宿5選',
-  description: '新春の学業成就祈願と瀬戸内の極上冬フグを堪能する11〜1月の山口・周防（防府・周南・下松）旅行完全ガイド。',
+  description: '新春の学業成就祈願と瀬戸内の極上冬フグを堪能する11〜1月の山口・周防（防府・周南・下松）旅行完全ガイド。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '防府天満宮 初詣, 周南 とらふぐ 宿, 徳山 ふぐ延縄発祥, 笠戸ひらめ 国民宿舎大城, 高森牛 山口, 日本三大天神, 防府市 ホテル, 瀬戸内海 絶景 宿, 山口 冬 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamaguchi-hofu-tenmangu-hatsumode-shunan-fugu-stay/"
   },
   openGraph: {
     title: '11・12・1月山口：徳山の冬ふぐ紀行！名宿5選',
-    description: '新春の学業成就祈願と瀬戸内の極上冬フグを堪能する11〜1月の山口・周防（防府・周南・下松）旅行完全ガイド。',
+    description: '新春の学業成就祈願と瀬戸内の極上冬フグを堪能する11〜1月の山口・周防（防府・周南・下松）旅行完全ガイド。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-yamaguchi-hofu-tenmangu-hatsumode-shunan-fugu-stay',
     type: 'article',
     images: [

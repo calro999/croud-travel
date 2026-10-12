@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '徳島・鳴門温泉で過ごす冬の旅（11・12月）！大塚国際美術館アート鑑賞！名宿5選',
-  description: '11月から12月にかけて、四国の東の玄関口・徳島県鳴門市は、鳴門海峡を吹き抜ける心地よい冬の潮風と。',
+  description: '11月から12月にかけて、四国の東の玄関口・徳島県鳴門市は、鳴門海峡を吹き抜ける心地よい冬の潮風と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '鳴門温泉 宿泊, 鳴門 温泉 11月 12月, アオアヲナルトリゾート, モアナコースト, 鳴門グランドホテル海月, ベイリゾートホテル鳴門海月, 鯛丸海月, 鳴門鯛 宿, 大塚国際美術館 宿泊, 鳴門海峡 露天風呂',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay/"
   },
   openGraph: {
     title: '徳島・鳴門温泉で過ごす冬の旅（11・12月）！大塚国際美術館アート鑑賞！名宿5選',
-    description: '11月から12月にかけて、四国の東の玄関口・徳島県鳴門市は、鳴門海峡を吹き抜ける心地よい冬の潮風と。',
+    description: '11月から12月にかけて、四国の東の玄関口・徳島県鳴門市は、鳴門海峡を吹き抜ける心地よい冬の潮風と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',

@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '由布奥座敷で過ごす冬の旅（11・12月）！300個の赤提灯揺れる江戸石！名宿5選',
-  description: '11月中旬から12月の初冬、名峰・由布岳の裾野が静かな冬枯れの装いを見せる頃、由布院温泉から車でわずか15分ほど山あいに分け入った渓谷に位置し、観光拠点として親しまれています。',
+  description: '11月中旬から12月の初冬、名峰・由布岳の裾野が静かな冬枯れの装いを見せる頃、由布院温泉から車でわずか15分ほど山あいに分け入った渓谷に。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '湯平温泉 宿泊, 由布院 奥座敷 温泉, 湯平温泉 赤提灯 石畳, 豊後牛 すき焼き 宿, 合鴨鍋 湯平, 旅館 山城屋, 湯平 五大共同浴場, 11月 12月 大分温泉旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-oita-yunohira-onsen-ishidatami-bungogyu-kamonabe-stay/"
   },
   openGraph: {
     title: '由布奥座敷で過ごす冬の旅（11・12月）！300個の赤提灯揺れる江戸石！名宿5選',
-    description: '11月中旬から12月の初冬、名峰・由布岳の裾野が静かな冬枯れの装いを見せる頃、由布院温泉から車でわずか15分ほど山あいに分け入った渓谷に位置し、観光拠点として親しまれています。',
+    description: '11月中旬から12月の初冬、名峰・由布岳の裾野が静かな冬枯れの装いを見せる頃、由布院温泉から車でわずか15分ほど山あいに分け入った渓谷に。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-oita-yunohira-onsen-ishidatami-bungogyu-kamonabe-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

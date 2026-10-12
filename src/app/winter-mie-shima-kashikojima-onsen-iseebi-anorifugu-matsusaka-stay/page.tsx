@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '三重・志摩賢島温泉で過ごす冬の旅（11・12月）！本場伊勢海老！名宿5選',
-  description: '11月から12月にかけて、伊勢志摩国立公園の真珠の海「英虞湾（あごわん）」に浮かぶ賢島（かしこじま）周辺は、澄み渡る初冬の青空の下。',
+  description: '11月から12月にかけて、伊勢志摩国立公園の真珠の海「英虞湾（あごわん）」に浮かぶ賢島（かしこじま）周辺は、澄み渡る初冬の青空の下。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '志摩 賢島 温泉 宿泊, 志摩観光ホテル ザ クラシック, 賢島宝生苑, 汀渚 ばさら邸, 都リゾート 志摩 ベイサイドテラス, 志摩観光ホテル ザ ベイスイート, 伊勢海老, あのりふぐ, 的矢かき, 松阪牛, 11月 12月 伊勢志摩',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-mie-shima-kashikojima-onsen-iseebi-anorifugu-matsusaka-stay/"
   },
   openGraph: {
     title: '三重・志摩賢島温泉で過ごす冬の旅（11・12月）！本場伊勢海老！名宿5選',
-    description: '11月から12月にかけて、伊勢志摩国立公園の真珠の海「英虞湾（あごわん）」に浮かぶ賢島（かしこじま）周辺は、澄み渡る初冬の青空の下。',
+    description: '11月から12月にかけて、伊勢志摩国立公園の真珠の海「英虞湾（あごわん）」に浮かぶ賢島（かしこじま）周辺は、澄み渡る初冬の青空の下。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-mie-shima-kashikojima-onsen-iseebi-anorifugu-matsusaka-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
@@ -507,7 +507,7 @@ export default function WinterMieKashikojimaPage() {
                 海の王様「伊勢海老」
               </h3>
               <p className="text-xs leading-relaxed text-stone-300">
-                10月に漁が解禁され、水温が下がる11〜12月に身の締まりと甘みが最高潮に位置し、観光拠点として親しまれています。半透明のプリプリした活造り、香ばしい殻の香りが食欲をそそる鬼殻焼き、味噌のコクが溶け出す具足煮など、本場ならではの鮮度と圧倒的な美味しさを誇ります。
+                10月に漁が解禁され、水温が下がる11〜12月に身の締まりと甘みが最高潮に。半透明のプリプリした活造り、香ばしい殻の香りが食欲をそそる鬼殻焼き、味噌のコクが溶け出す具足煮など、本場ならではの鮮度と圧倒的な美味しさを誇ります。
               </p>
             </div>
 

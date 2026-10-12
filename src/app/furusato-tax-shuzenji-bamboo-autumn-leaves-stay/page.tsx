@@ -148,9 +148,9 @@ export default function FeatureArticlePage() {
 
           <div className="space-y-8">
             
-            <div key="shuzenji_sora" className="bg-white rounded-3xl border border-stone-200/90 shadow-md overflow-hidden hover:shadow-xl transition duration-300">
+            <div key="shuzenji_arairyoukan" className="bg-white rounded-3xl border border-stone-200/90 shadow-md overflow-hidden hover:shadow-xl transition duration-300">
               <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-amber-50 px-6 py-3 text-xs md:text-sm font-bold flex justify-between items-center">
-                <span>広大な日本庭園とモダンな贅沢空間！竹林の小径すぐそばに佇む絶景名宿</span>
+                <span>全館が国の登録有形文化財！文人墨客が愛した名建築と名湯「天平大浴堂」の老舗旅館</span>
                 <span className="bg-amber-500/30 text-amber-200 text-xs px-2.5 py-0.5 rounded-full border border-amber-400/40">厳選名宿 第1選</span>
               </div>
               <div className="p-6 md:p-8 space-y-6">
@@ -160,14 +160,14 @@ export default function FeatureArticlePage() {
                       ふるさと納税トラベルクーポン対象
                     </span>
                     <span className="text-amber-800 font-bold text-sm">
-                      ★ 4.62
+                      ★ 4.68 <span className="text-stone-400 text-xs">(266件)</span>
                     </span>
                   </div>
                   <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    修善寺温泉　宙ＳＯＲＡ　渡月荘金龍
+                    修善寺温泉　国の登録文化財の宿　新井旅館
                   </h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
-                    📍 静岡県伊豆市修善寺3455 ｜ 修善寺駅よりバスで約8分／東名沼津ICより伊豆縦貫道経由約35分
+                    📍 静岡県伊豆市修善寺970 ｜ 伊豆箱根鉄道線 修善寺駅よりバスまたはタクシーで10分／東名・新東名高速 沼津ICより伊豆縦貫道経由45分
                   </p>
                 </div>
 
@@ -175,8 +175,8 @@ export default function FeatureArticlePage() {
                   <div className="md:col-span-6">
                     <div className="relative aspect-video rounded-2xl overflow-hidden shadow-inner bg-stone-100 group">
                       <img
-                        src="https://img.travel.rakuten.co.jp/share/HOTEL/27983/27983.jpg"
-                        alt="修善寺温泉　宙ＳＯＲＡ　渡月荘金龍"
+                        src="https://img.travel.rakuten.co.jp/share/HOTEL/31865/31865.jpg"
+                        alt="修善寺温泉　国の登録文化財の宿　新井旅館"
                         className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
                         loading="lazy"
                       />
@@ -184,19 +184,19 @@ export default function FeatureArticlePage() {
                   </div>
                   <div className="md:col-span-6 space-y-4">
                     <p className="text-stone-700 text-sm md:text-base leading-relaxed">
-                      客室からは四季を感じられる広大な日本庭園が一望できます。月替りの創作会席と絶景露天風呂が人気の高級宿です。
+                      ミシュランで二つ星の竹林の小径まで徒歩2分、修善寺温泉の中心で観光に便利です
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 一万五千坪の日本庭園、光露天風呂、夕食はお部屋または個室で極上会席</div>
-                      <div><strong className="text-stone-800">🚗 アクセス：</strong> 伊豆箱根鉄道 修善寺駅よりタクシー約8分</div>
-                      <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 26,400円〜</span>（※クーポン利用で実質2,000円）</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> ミシュランで二つ星の竹林の小径まで徒歩2分、修善寺温泉の中心で観光に便利です...</div>
+                      <div><strong className="text-stone-800">🚗 アクセス：</strong> 伊豆箱根鉄道線 修善寺駅よりバスまたはタクシーで10分／東名・新東名高速 沼津ICより伊豆縦貫道経由45分</div>
+                      <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 24,420円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
                   </div>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row gap-3">
                   <a
-                    href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F27983%2F27983.html"
+                    href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31865%2F31865.html"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex-1 bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-700 hover:to-amber-800 text-white font-bold py-3.5 px-6 rounded-2xl shadow-md text-center transition flex items-center justify-center gap-2 text-sm"

@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月京都伏見宇治：伏見稲荷大社新春千本鳥居初詣！名宿5選',
-  description: '冬の京都南部（伏見・宇治）は、全国3万社を数える稲荷神社の総本宮「伏見稲荷大社」の朱塗り千本鳥居が冬の青空に鮮やかに映え、冬ならではの絶景が広がります。',
+  description: '冬の京都南部（伏見・宇治）は、全国3万社を数える稲荷神社の総本宮「伏見稲荷大社」の朱塗り千本鳥居が冬の青空に鮮やかに映え。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '伏見稲荷 ホテル, 宇治 旅館, 伏見稲荷大社 初詣, 平等院鳳凰堂 雪景色, 伏見 酒蔵巡り, 花やしき浮舟園, 都ホテル京都八条, アルモントホテル京都, 11月 12月 1月 京都 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kyoto-fushimi-inari-hatsumode-uji-sake-matcha-stay/"
   },
   openGraph: {
     title: '11・12・1月京都伏見宇治：伏見稲荷大社新春千本鳥居初詣！名宿5選',
-    description: '冬の京都南部（伏見・宇治）は、全国3万社を数える稲荷神社の総本宮「伏見稲荷大社」の朱塗り千本鳥居が冬の青空に鮮やかに映え、冬ならではの絶景が広がります。',
+    description: '冬の京都南部（伏見・宇治）は、全国3万社を数える稲荷神社の総本宮「伏見稲荷大社」の朱塗り千本鳥居が冬の青空に鮮やかに映え。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-kyoto-fushimi-inari-hatsumode-uji-sake-matcha-stay',
     type: 'article',
     images: [{ url: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80' }]

@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '加賀山中温泉で過ごす冬の旅（11・12月）！芭蕉ゆかりの美肌湯と青タグ加能蟹！名宿5選',
-  description: '松尾芭蕉が「有馬・草津と並ぶ扶桑三名湯」と称賛した石川・加賀の名湯「山中温泉」。11月6日のズワイガニ漁解禁で歓喜に沸く北陸の冬。',
+  description: '松尾芭蕉が「有馬・草津と並ぶ扶桑三名湯」と称賛した石川・加賀の名湯「山中温泉」。11月6日のズワイガニ漁解禁で歓喜に沸く北陸の冬。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '山中温泉 宿泊, 加賀山中温泉 11月 12月, 吉祥やまなか, かがり吉祥亭, 花紫, 厨八十八, こおろぎ楼, 加能ガニ 青タグ, 香箱ガニ 山中温泉, 能登牛, 鶴仙渓 雪景色',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-ishikawa-yamanaka-onsen-kakusenkei-kano-crab-stay/",
   },
   openGraph: {
     title: '加賀山中温泉で過ごす冬の旅（11・12月）！芭蕉ゆかりの美肌湯と青タグ加能蟹！名宿5選',
-    description: '松尾芭蕉が「有馬・草津と並ぶ扶桑三名湯」と称賛した石川・加賀の名湯「山中温泉」。11月6日のズワイガニ漁解禁で歓喜に沸く北陸の冬。',
+    description: '松尾芭蕉が「有馬・草津と並ぶ扶桑三名湯」と称賛した石川・加賀の名湯「山中温泉」。11月6日のズワイガニ漁解禁で歓喜に沸く北陸の冬。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-ishikawa-yamanaka-onsen-kakusenkei-kano-crab-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',

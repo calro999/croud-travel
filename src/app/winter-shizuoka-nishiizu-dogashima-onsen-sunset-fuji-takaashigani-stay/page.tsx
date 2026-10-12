@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '西伊豆堂ヶ島温泉で過ごす冬の旅（11・12月）！伊勢海老！名宿5選',
-  description: '11月から12月にかけて、西伊豆・堂ヶ島温泉は空気が澄み渡り、駿河湾の彼方に白雪を戴く雄大な富士山と。',
+  description: '11月から12月にかけて、西伊豆・堂ヶ島温泉は空気が澄み渡り、駿河湾の彼方に白雪を戴く雄大な富士山と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '堂ヶ島温泉 宿泊, 西伊豆 温泉, 堂ヶ島ニュー銀水, 海辺のかくれ湯清流, 堂ヶ島温泉ホテル, 西伊豆クリスタルビューホテル, 西伊豆今宵, 高足ガニ 宿, 金目鯛姿煮, 伊勢海老, 夕陽百選, 11月 12月 西伊豆',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shizuoka-nishiizu-dogashima-onsen-sunset-fuji-takaashigani-stay/"
   },
   openGraph: {
     title: '西伊豆堂ヶ島温泉で過ごす冬の旅（11・12月）！伊勢海老！名宿5選',
-    description: '11月から12月にかけて、西伊豆・堂ヶ島温泉は空気が澄み渡り、駿河湾の彼方に白雪を戴く雄大な富士山と。',
+    description: '11月から12月にかけて、西伊豆・堂ヶ島温泉は空気が澄み渡り、駿河湾の彼方に白雪を戴く雄大な富士山と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-nishiizu-dogashima-onsen-sunset-fuji-takaashigani-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

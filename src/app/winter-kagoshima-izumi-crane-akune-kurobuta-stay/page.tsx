@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月鹿児島：世界屈指のツル渡来地「一万羽！名宿5選',
-  description: 'シベリアから1万羽を超えるツルが越冬飛来する世界屈指の冬の奇跡「出水のツル渡来地」。薩摩武士の気風を今に伝える重要伝統的建造物群「出水麓武家。',
+  description: 'シベリアから1万羽を超えるツルが越冬飛来する世界屈指の冬の奇跡「出水のツル渡来地」。薩摩武士の気風を今に伝える重要伝統的建造物群「出水麓武家。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '出水のツル 渡来地, 出水麓武家屋敷群 初詣, 阿久根 華アジ, かごしま黒豚, 宮之城温泉 手塚ryokan, 紫尾温泉 しび荘, 出水赤鶏, 11月 12月 1月 鹿児島 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kagoshima-izumi-crane-akune-kurobuta-stay/"
   },
   openGraph: {
     title: '11・12・1月鹿児島：世界屈指のツル渡来地「一万羽！名宿5選',
-    description: 'シベリアから1万羽を超えるツルが越冬飛来する世界屈指の冬の奇跡「出水のツル渡来地」。薩摩武士の気風を今に伝える重要伝統的建造物群「出水麓武家。',
+    description: 'シベリアから1万羽を超えるツルが越冬飛来する世界屈指の冬の奇跡「出水のツル渡来地」。薩摩武士の気風を今に伝える重要伝統的建造物群「出水麓武家。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-kagoshima-izumi-crane-akune-kurobuta-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',

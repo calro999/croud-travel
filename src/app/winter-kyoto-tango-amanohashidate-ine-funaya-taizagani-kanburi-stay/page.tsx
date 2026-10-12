@@ -7,14 +7,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月京都：伊根寒ブリ！名宿5選',
-  description: '「海の京都」丹後地方が幻想的な雪化粧に包まれる11〜1月の冬紀行。日本三景・天橋立が白銀をまとう奇跡の絶景「幻雪の飛龍観」。',
+  description: '「海の京都」丹後地方が幻想的な雪化粧に包まれる11〜1月の冬紀行。日本三景・天橋立が白銀をまとう奇跡の絶景「幻雪の飛龍観」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '天橋立 雪景色, 飛龍観 冬, 伊根の舟屋 冬, 間人ガニ 丹後, 伊根 寒ブリしゃぶ, 元伊勢籠神社 初詣, 天橋立ホテル, 文珠荘, 玄妙庵',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kyoto-tango-amanohashidate-ine-funaya-taizagani-kanburi-stay/"
   },
   openGraph: {
     title: '11・12・1月京都：伊根寒ブリ！名宿5選',
-    description: '「海の京都」丹後地方が幻想的な雪化粧に包まれる11〜1月の冬紀行。日本三景・天橋立が白銀をまとう奇跡の絶景「幻雪の飛龍観」。',
+    description: '「海の京都」丹後地方が幻想的な雪化粧に包まれる11〜1月の冬紀行。日本三景・天橋立が白銀をまとう奇跡の絶景「幻雪の飛龍観」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-kyoto-tango-amanohashidate-ine-funaya-taizagani-kanburi-stay',
     type: 'article',
     images: [
@@ -432,7 +432,7 @@ export default function KyotoTangoWinterPage() {
                 <Wine className="w-4 h-4 text-emerald-700" /> 伊根寒ブリしゃぶしゃぶの極意
               </h3>
               <ul className="text-xs text-slate-600 space-y-1.5 leading-relaxed">
-                <li>・<strong>絶妙な湯通し：</strong>出汁に2〜3回くぐらせ、表面が白く中心がレアの状態で、ゆったりとした時間を過ごせます。</li>
+                <li>・<strong>絶妙な湯通し：</strong>出汁に2〜3回くぐらせ、表面が白く中心がレアの状態で。</li>
                 <li>・<strong>京都の薬味：</strong>香り高い九条ネギとすりおろし大根、さっぱりポン酢で極上の調和。</li>
                 <li>・<strong>丹後の地酒：</strong>木下酒造「玉川」の山廃純米や与謝娘のキレのある辛口と相性抜群。</li>
               </ul>

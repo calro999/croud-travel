@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '北海道・層雲峡温泉で過ごす冬の旅（11・12月）！名湯硫黄泉！名宿5選',
-  description: '11月から12月にかけて、北海道屋根・大雪山連峰の麓に位置する層雲峡温泉は、巨大な柱状節理の断崖絶壁が白銀に染まり。',
+  description: '11月から12月にかけて、北海道屋根・大雪山連峰の麓に位置する層雲峡温泉は、巨大な柱状節理の断崖絶壁が白銀に染まり。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '層雲峡温泉 宿泊, 北海道 温泉 11月 12月, ホテル大雪, 層雲峡 朝陽亭, 層雲閣, 朝陽リゾートホテル, 層雲峡マウントビューホテル, 大雪山 雪見露天, 上川十勝牛, オホーツク冬海鮮',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hokkaido-sounkyo-onsen-snow-gorge-stay/"
   },
   openGraph: {
     title: '北海道・層雲峡温泉で過ごす冬の旅（11・12月）！名湯硫黄泉！名宿5選',
-    description: '11月から12月にかけて、北海道屋根・大雪山連峰の麓に位置する層雲峡温泉は、巨大な柱状節理の断崖絶壁が白銀に染まり。',
+    description: '11月から12月にかけて、北海道屋根・大雪山連峰の麓に位置する層雲峡温泉は、巨大な柱状節理の断崖絶壁が白銀に染まり。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-sounkyo-onsen-snow-gorge-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',

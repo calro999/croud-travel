@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月山梨：冬の八ヶ岳ブルーと満天の星空観賞！名宿5選',
-  description: '11月から1月、山梨県北杜市の清里高原・八ヶ岳南麓は、晴天率80%超を誇る抜けるような冬晴れ「八ヶ岳ブルー」と。',
+  description: '11月から1月、山梨県北杜市の清里高原・八ヶ岳南麓は、晴天率80%超を誇る抜けるような冬晴れ「八ヶ岳ブルー」と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '清里 星空, 八ヶ岳ブルー, 萌木の村, 甲州ワインビーフ, 清里高原ホテル, 八ヶ岳グレイスホテル, ホテル風か, ハットウォールデン, 八ヶ岳 温泉, 11月 12月 1月 山梨旅行, サンメドウズ清里',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamanashi-kiyosato-yatsugatake-starry-sky-winebeef-stay/"
   },
   openGraph: {
     title: '11・12・1月山梨：冬の八ヶ岳ブルーと満天の星空観賞！名宿5選',
-    description: '11月から1月、山梨県北杜市の清里高原・八ヶ岳南麓は、晴天率80%超を誇る抜けるような冬晴れ「八ヶ岳ブルー」と。',
+    description: '11月から1月、山梨県北杜市の清里高原・八ヶ岳南麓は、晴天率80%超を誇る抜けるような冬晴れ「八ヶ岳ブルー」と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-yamanashi-kiyosato-yatsugatake-starry-sky-winebeef-stay',
     siteName: 'クラドトラベル',
     images: [

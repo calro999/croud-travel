@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '奥入瀬渓流温泉と八甲田山樹氷で過ごす冬の旅（11・12月）！幻想的な氷瀑ライトアップ！名宿5選',
-  description: '11月から12月にかけて青森県・十和田八甲田エリアは、奥入瀬渓流の滝が凍り始める神秘的な「氷瀑（ひょうばく）」や。',
+  description: '11月から12月にかけて青森県・十和田八甲田エリアは、奥入瀬渓流の滝が凍り始める神秘的な「氷瀑（ひょうばく）」や。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '奥入瀬渓流 温泉 宿泊, 八甲田 温泉 11月 12月, 奥入瀬 氷瀑, 酸ヶ湯温泉, 八甲田ホテル, 蔦温泉旅館, ホテル城ヶ倉, 青森 倉石牛, 陸奥湾 ホタテ, 青森 雪見露天',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-aomori-oirase-hakkoda-onsen-frozen-waterfall-stay/",
   },
   openGraph: {
     title: '奥入瀬渓流温泉と八甲田山樹氷で過ごす冬の旅（11・12月）！幻想的な氷瀑ライトアップ！名宿5選',
-    description: '11月から12月にかけて青森県・十和田八甲田エリアは、奥入瀬渓流の滝が凍り始める神秘的な「氷瀑（ひょうばく）」や。',
+    description: '11月から12月にかけて青森県・十和田八甲田エリアは、奥入瀬渓流の滝が凍り始める神秘的な「氷瀑（ひょうばく）」や。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-aomori-oirase-hakkoda-onsen-frozen-waterfall-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
@@ -460,7 +460,7 @@ export default function OiraseOnsenWinterPage() {
                 <h3 className="font-bold text-slate-900 text-sm sm:text-base">十和田湖畔と十和田バラ焼きランチ〜青森駅でお土産選び</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
-                十和田湖畔の休屋で静まり返った湖面を眺め、名物の「十和田牛バラ焼き」や温かい山菜そばをランチに位置し、観光拠点として親しまれています。青森駅前の「A-FACTORY」や「ねぶたの家 ワ・ラッセ」に立ち寄り、青森シードルやりんごパイ、地酒をお土産に購入して新幹線で帰路へ。
+                十和田湖畔の休屋で静まり返った湖面を眺め、名物の「十和田牛バラ焼き」や温かい山菜そばをランチに。青森駅前の「A-FACTORY」や「ねぶたの家 ワ・ラッセ」に立ち寄り、青森シードルやりんごパイ、地酒をお土産に購入して新幹線で帰路へ。
               </p>
             </div>
           </div>

@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '弥彦で過ごす冬の旅（11・12月）！越後一宮彌彦神社参詣！名宿5選',
-  description: '11月から12月にかけて、新潟県の日本海沿いに連なる弥彦山麓の弥彦温泉と岩室（いわむろ）温泉は、注目の旅宿が揃っています。',
+  description: '11月から12月にかけて、新潟県の日本海沿いに連なる弥彦山麓の弥彦温泉と岩室（いわむろ）温泉は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '岩室温泉 宿泊, 弥彦温泉 宿泊, 新潟 温泉 11月 12月, 穂々, ゆもとや, 四季の宿 みのや, 富士屋, 櫻家, 彌彦神社 参詣, 日本海 寒ブリ, のどぐろ 塩焼き, 岩室温泉 黒湯',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-niigata-iwamuro-yahiko-onsen-kanburi-nodoguro-stay/"
   },
   openGraph: {
     title: '弥彦で過ごす冬の旅（11・12月）！越後一宮彌彦神社参詣！名宿5選',
-    description: '11月から12月にかけて、新潟県の日本海沿いに連なる弥彦山麓の弥彦温泉と岩室（いわむろ）温泉は、注目の旅宿が揃っています。',
+    description: '11月から12月にかけて、新潟県の日本海沿いに連なる弥彦山麓の弥彦温泉と岩室（いわむろ）温泉は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-niigata-iwamuro-yahiko-onsen-kanburi-nodoguro-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
@@ -455,7 +455,7 @@ export default function NiigataIwamuroYahikoWinterFeature() {
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="px-2 py-0.5 rounded bg-indigo-100 text-indigo-800 font-bold text-xs shrink-0 mt-0.5">13:30</span>
-                  <span><strong>越後一宮 彌彦神社参拝：</strong>荘厳な杉並木の一の鳥居をくぐり、清々しい神域を参拝。門前の和菓子処で名物「玉兎」をお土産に位置し、観光拠点として親しまれています。</span>
+                  <span><strong>越後一宮 彌彦神社参拝：</strong>荘厳な杉並木の一の鳥居をくぐり、清々しい神域を参拝。門前の和菓子処で名物「玉兎」をお土産に。</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="px-2 py-0.5 rounded bg-indigo-100 text-indigo-800 font-bold text-xs shrink-0 mt-0.5">15:30</span>
@@ -526,7 +526,7 @@ export default function NiigataIwamuroYahikoWinterFeature() {
                 日本海の時化と冬魚の旨味
               </h3>
               <p className="leading-relaxed">
-                11月下旬以降、日本海は冬の季節風で海が荒れる日が増えますが、荒波を乗り越えた寒ブリやのどぐろは身が引き締まり脂が最高の状態に位置し、観光拠点として親しまれています。時化の合間の水揚げは至高の美味です。
+                11月下旬以降、日本海は冬の季節風で海が荒れる日が増えますが、荒波を乗り越えた寒ブリやのどぐろは身が引き締まり脂が最高の状態に。時化の合間の水揚げは至高の美味です。
               </p>
             </div>
 

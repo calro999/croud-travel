@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月金沢：兼六園の雪吊り冬景色と奥金沢！名宿5選',
-  description: '11月から1月、古都・金沢は日本三名園「兼六園」の雪吊りと白銀の金沢城、ひがし茶屋街の格子窓に舞い散る雪が息を呑む情緒を醸し出す最高の冬旅シ。',
+  description: '11月から1月、古都・金沢は日本三名園「兼六園」の雪吊りと白銀の金沢城、ひがし茶屋街の格子窓に舞い散る雪が息を呑む情緒を醸し出す最高の冬旅シ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '兼六園 雪吊り 冬, 金沢 香箱ガニ 宿泊, 湯涌温泉 百楽荘, 湯涌温泉 お宿やました, 湯涌温泉 湯の出旅館, 加能ガニ 旅館 金沢, 治部煮 金沢おでん, 11月 12月 1月 金沢旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-ishikawa-kanazawa-yuwaku-onsen-koubako-crab-stay/"
   },
   openGraph: {
     title: '11・12・1月金沢：兼六園の雪吊り冬景色と奥金沢！名宿5選',
-    description: '11月から1月、古都・金沢は日本三名園「兼六園」の雪吊りと白銀の金沢城、ひがし茶屋街の格子窓に舞い散る雪が息を呑む情緒を醸し出す最高の冬旅シ。',
+    description: '11月から1月、古都・金沢は日本三名園「兼六園」の雪吊りと白銀の金沢城、ひがし茶屋街の格子窓に舞い散る雪が息を呑む情緒を醸し出す最高の冬旅シ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-ishikawa-kanazawa-yuwaku-onsen-koubako-crab-stay',
     siteName: 'クラドトラベル',
     images: [

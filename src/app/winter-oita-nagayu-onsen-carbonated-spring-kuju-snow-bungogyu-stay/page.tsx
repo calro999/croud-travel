@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '大分・竹田長湯温泉で過ごす冬の旅（11・12月）！名物清流エノハ料理！名宿5選',
-  description: '11月から12月にかけて、大分県竹田市の芹川沿いに広がる長湯温泉は、初雪を冠した雄大なくじゅう連山のパノラマと。',
+  description: '11月から12月にかけて、大分県竹田市の芹川沿いに広がる長湯温泉は、初雪を冠した雄大なくじゅう連山のパノラマと。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '長湯温泉 宿泊, 大丸旅館, 丸長旅館, かじか庵, 紅葉館, クアパーク長湯, 天然炭酸泉, ラムネ温泉館, エノハ料理, 豊後牛, 11月 12月 長湯温泉, くじゅう連山',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-oita-nagayu-onsen-carbonated-spring-kuju-snow-bungogyu-stay/"
   },
   openGraph: {
     title: '大分・竹田長湯温泉で過ごす冬の旅（11・12月）！名物清流エノハ料理！名宿5選',
-    description: '11月から12月にかけて、大分県竹田市の芹川沿いに広がる長湯温泉は、初雪を冠した雄大なくじゅう連山のパノラマと。',
+    description: '11月から12月にかけて、大分県竹田市の芹川沿いに広がる長湯温泉は、初雪を冠した雄大なくじゅう連山のパノラマと。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-oita-nagayu-onsen-carbonated-spring-kuju-snow-bungogyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

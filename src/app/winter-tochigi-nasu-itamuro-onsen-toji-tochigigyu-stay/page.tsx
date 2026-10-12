@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '那須で過ごす冬の旅（11・12月）！名物立ち湯と極上那須黒毛和牛！名宿5選',
-  description: '11月中旬から12月の初冬、雄大な茶臼岳をはじめとする那須連山が白銀の初雪に覆われ、高原全体が静謐な冬の静けさに包まれる季節。',
+  description: '11月中旬から12月の初冬、雄大な茶臼岳をはじめとする那須連山が白銀の初雪に覆われ、高原全体が静謐な冬の静けさに包まれる季節。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '板室温泉 宿泊, 下野の薬湯, 板室温泉 大黒屋, 綱の湯, 那須黒毛和牛 宿, 板室温泉 山喜, 11月 12月 那須温泉, 那須塩原 湯治',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tochigi-nasu-itamuro-onsen-toji-tochigigyu-stay/"
   },
   openGraph: {
     title: '那須で過ごす冬の旅（11・12月）！名物立ち湯と極上那須黒毛和牛！名宿5選',
-    description: '11月中旬から12月の初冬、雄大な茶臼岳をはじめとする那須連山が白銀の初雪に覆われ、高原全体が静謐な冬の静けさに包まれる季節。',
+    description: '11月中旬から12月の初冬、雄大な茶臼岳をはじめとする那須連山が白銀の初雪に覆われ、高原全体が静謐な冬の静けさに包まれる季節。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-tochigi-nasu-itamuro-onsen-toji-tochigigyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

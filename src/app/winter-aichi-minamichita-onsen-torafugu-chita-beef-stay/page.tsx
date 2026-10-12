@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '南知多温泉郷で過ごす冬の旅（11・12月）！天然とらふぐフルコース！名宿5選',
-  description: '11月から12月にかけて愛知県・知多半島の最南端に位置する南知多温泉郷（内海・山海・師崎）は、注目の旅宿が揃っています。',
+  description: '11月から12月にかけて愛知県・知多半島の最南端に位置する南知多温泉郷（内海・山海・師崎）は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '南知多温泉 宿泊, 南知多 とらふぐ 宿, 南知多 11月 12月 温泉, 源氏香, 花乃丸, 粛海風, THE BEACH KUROTAKE, 山海館, 知多牛 ステーキ 宿, 日間賀島 たこ, 伊勢湾 夕日 露天風呂',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay/"
   },
   openGraph: {
     title: '南知多温泉郷で過ごす冬の旅（11・12月）！天然とらふぐフルコース！名宿5選',
-    description: '11月から12月にかけて愛知県・知多半島の最南端に位置する南知多温泉郷（内海・山海・師崎）は、注目の旅宿が揃っています。',
+    description: '11月から12月にかけて愛知県・知多半島の最南端に位置する南知多温泉郷（内海・山海・師崎）は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
@@ -323,7 +323,7 @@ export default function MinamichitaOnsenWinterFeature() {
             <div className="p-4 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2 text-center">
               <ThermometerSun className="w-5 h-5 text-teal-800 mx-auto" />
               <div className="font-bold text-slate-900 text-sm">濃厚な塩化物強塩温泉</div>
-              <div className="text-xs text-slate-600">太古の海水を抱く名湯。塩のパック効果で湯冷めせず、身体の芯までぽかぽかに位置し、観光拠点として親しまれています。</div>
+              <div className="text-xs text-slate-600">太古の海水を抱く名湯。塩のパック効果で湯冷めせず、身体の芯までぽかぽかに。</div>
             </div>
             <div className="p-4 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2 text-center">
               <Utensils className="w-5 h-5 text-teal-800 mx-auto" />

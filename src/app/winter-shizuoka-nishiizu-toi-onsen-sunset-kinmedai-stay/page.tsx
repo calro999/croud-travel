@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月静岡：伊勢海老！名宿5選',
-  description: '11月から1月、温暖な黒潮が洗う西伊豆最古の名湯「土肥（とい）温泉」は、駿河湾の彼方に雪化粧した富士山を望む絶景と。',
+  description: '11月から1月、温暖な黒潮が洗う西伊豆最古の名湯「土肥（とい）温泉」は、駿河湾の彼方に雪化粧した富士山を望む絶景と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '土肥温泉 宿泊, 土肥桜 宿, 西伊豆 夕日 富士山 ホテル, 寒金目鯛 姿煮 宿, 湯の花亭 土肥, 富岳群青, 粋松亭, 11月 12月 1月 静岡旅行, 西伊豆 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shizuoka-nishiizu-toi-onsen-sunset-kinmedai-stay/"
   },
   openGraph: {
     title: '11・12・1月静岡：伊勢海老！名宿5選',
-    description: '11月から1月、温暖な黒潮が洗う西伊豆最古の名湯「土肥（とい）温泉」は、駿河湾の彼方に雪化粧した富士山を望む絶景と。',
+    description: '11月から1月、温暖な黒潮が洗う西伊豆最古の名湯「土肥（とい）温泉」は、駿河湾の彼方に雪化粧した富士山を望む絶景と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-nishiizu-toi-onsen-sunset-kinmedai-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
@@ -149,7 +149,7 @@ export default function ShizuokaNishiizuToiOnsenWinterPage() {
               reviews: 956,
               price: "¥24,650〜",
               access: "東名高速沼津ICよりＲ1～Ｒ136で約65分",
-              special: "真っ赤に染まった海を望める露天付き客室が好評！お食事は朝・夕共に客室で、ゆったりとした時間を過ごせます。駿河の新鮮な魚介をご堪能♪",
+              special: "真っ赤に染まった海を望める露天付き客室が好評！お食事は朝・夕共に客室で。駿河の新鮮な魚介をご堪能♪",
               url: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7784%2F7784.html",
               story: "土肥海岸の最前列に位置し、全館を彩る数々の生花と心温まるおもてなしで「花と海に包まれる大人の宿」として高い人気を誇る「粋松亭」。全21室のうち多数の客室に海一望の露天風呂が備えられ、目の前に広がる駿河湾の雄大な水平線を眺めながら贅沢な湯浴みが叶います。源泉掛け流しの温泉は、肌をしっとり潤す優しい弱アルカリ性泉。夕食はお部屋食で気兼ねなく楽しめるスタイルで、冬の主役である脂の乗った金目鯛の姿煮、伊勢海老のお造り、戸田直送の高足ガニなど、西伊豆ならではの豪快な海の恵みを美しく盛り付けた本格会席を堪能できます。",
               roomTip: "海側に面した露天風呂付き和室。夕暮れ時には客室露天風呂に浸かりながら、駿河湾の水平線に夕日が沈む感動的なグラデーションを鑑賞できます。",

@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '男鹿温泉郷で過ごす冬の旅（11・12月）！日本海荒波雪見露天！名宿5選',
-  description: '11月から12月にかけて日本海に突き出た秋田県・男鹿半島は、初冬の雷鳴とともに大群で沿岸に押し寄せる秋田の県魚「ハタハタ（雷魚）」の漁獲シー。',
+  description: '11月から12月にかけて日本海に突き出た秋田県・男鹿半島は、初冬の雷鳴とともに大群で沿岸に押し寄せる秋田の県魚「ハタハタ（雷魚）」の漁獲シー。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '男鹿温泉 宿泊, 男鹿温泉郷 11月 12月, 別邸つばき 男鹿, 元湯雄山閣, セイコーグランドホテル 男鹿, 男鹿観光ホテル, 男鹿ホテル, ハタハタ 温泉 宿, 石焼き鍋 男鹿, なまはげ 宿泊',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-akita-oga-onsen-ishiyaki-namahage-snow-stay/"
   },
   openGraph: {
     title: '男鹿温泉郷で過ごす冬の旅（11・12月）！日本海荒波雪見露天！名宿5選',
-    description: '11月から12月にかけて日本海に突き出た秋田県・男鹿半島は、初冬の雷鳴とともに大群で沿岸に押し寄せる秋田の県魚「ハタハタ（雷魚）」の漁獲シー。',
+    description: '11月から12月にかけて日本海に突き出た秋田県・男鹿半島は、初冬の雷鳴とともに大群で沿岸に押し寄せる秋田の県魚「ハタハタ（雷魚）」の漁獲シー。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-akita-oga-onsen-ishiyaki-namahage-snow-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',

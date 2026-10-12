@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月愛媛：大洲城の冬霧とミシュラン名園「臥龍山荘」！名宿5選',
-  description: '肱川の清流と歴史情緒が息づく伊予の小京都、愛媛・大洲＆内子の11〜1月冬旅特集。江戸の古図面をもとに完全木造復元された名城「大洲城」と肱川あ。',
+  description: '肱川の清流と歴史情緒が息づく伊予の小京都、愛媛・大洲＆内子の11〜1月冬旅特集。江戸の古図面をもとに完全木造復元された名城「大洲城」と肱川あ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '大洲城 木造天守, 臥龍山荘 不老庵, 内子 町並み保存地区, 大洲 いもたき, 内子豚, NIPPONIA 大洲, オーベルジュ内子, 肱川あらし, 愛媛 冬 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-ehime-ozu-uchiko-castle-garyusanso-bikan-uchikobuta-stay/"
   },
   openGraph: {
     title: '11・12・1月愛媛：大洲城の冬霧とミシュラン名園「臥龍山荘」！名宿5選',
-    description: '肱川の清流と歴史情緒が息づく伊予の小京都、愛媛・大洲＆内子の11〜1月冬旅特集。江戸の古図面をもとに完全木造復元された名城「大洲城」と肱川あ。',
+    description: '肱川の清流と歴史情緒が息づく伊予の小京都、愛媛・大洲＆内子の11〜1月冬旅特集。江戸の古図面をもとに完全木造復元された名城「大洲城」と肱川あ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-ehime-ozu-uchiko-castle-garyusanso-bikan-uchikobuta-stay',
     type: 'article',
     images: [

@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '庄内あつみ温泉で過ごす冬の旅（11・12月）！名物寒鱈汁！名宿5選',
-  description: '11月から12月にかけて、山形県庄内地方の南端に位置する「あつみ温泉（温海温泉）」は、日本海の潮風と出羽の山並みが交錯する渓谷に位置し。',
+  description: '11月から12月にかけて、山形県庄内地方の南端に位置する「あつみ温泉（温海温泉）」は、日本海の潮風と出羽の山並みが交錯する渓谷に位置し。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: 'あつみ温泉 宿泊, 温海温泉 萬国屋, たちばなや, 高見屋別邸 久遠, 東屋旅館, かしわや旅館, 寒鱈汁, 庄内牛, 紅ズワイガニ, 温海川 雪見露天, 11月 12月 山形旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamagata-atsumi-onsen-kandara-shonaigyu-snow-stay/"
   },
   openGraph: {
     title: '庄内あつみ温泉で過ごす冬の旅（11・12月）！名物寒鱈汁！名宿5選',
-    description: '11月から12月にかけて、山形県庄内地方の南端に位置する「あつみ温泉（温海温泉）」は、日本海の潮風と出羽の山並みが交錯する渓谷に位置し。',
+    description: '11月から12月にかけて、山形県庄内地方の南端に位置する「あつみ温泉（温海温泉）」は、日本海の潮風と出羽の山並みが交錯する渓谷に位置し。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-yamagata-atsumi-onsen-kandara-shonaigyu-snow-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

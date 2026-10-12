@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '梅ヶ島温泉で過ごす冬の旅（11・12月）！しずおか和牛！名宿5選',
-  description: '11月中旬から12月の初冬、静岡市街から清流安倍川を北へ約1時間半遡った南アルプス前衛峰の最深部。',
+  description: '11月中旬から12月の初冬、静岡市街から清流安倍川を北へ約1時間半遡った南アルプス前衛峰の最深部。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '梅ヶ島温泉 宿泊, オクシズ 温泉 旅館, 駿河軍鶏 鍋 宿, しずおか和牛 ステーキ, とろとろ硫黄泉 美肌湯, 徳川家康 隠し湯, 有東木 本わさび, 11月 12月 静岡旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shizuoka-umegashima-onsen-okushizu-surugashamo-stay/"
   },
   openGraph: {
     title: '梅ヶ島温泉で過ごす冬の旅（11・12月）！しずおか和牛！名宿5選',
-    description: '11月中旬から12月の初冬、静岡市街から清流安倍川を北へ約1時間半遡った南アルプス前衛峰の最深部。',
+    description: '11月中旬から12月の初冬、静岡市街から清流安倍川を北へ約1時間半遡った南アルプス前衛峰の最深部。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-umegashima-onsen-okushizu-surugashamo-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

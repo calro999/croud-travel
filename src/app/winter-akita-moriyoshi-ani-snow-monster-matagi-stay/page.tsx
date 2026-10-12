@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月秋田：日本三大樹氷！名宿5選',
-  description: '11月から1月、秋田県北秋田市の秀峰・森吉山（標高1,454m）と阿仁地区は、東北屈指の白銀の世界へと変貌を遂げます。',
+  description: '11月から1月、秋田県北秋田市の秀峰・森吉山（標高1,454m）と阿仁地区は、東北屈指の白銀の世界へと変貌を遂げます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '森吉山 樹氷, 阿仁スキー場 スノーモンスター, 秋田内陸線 冬, 打当温泉 マタギの湯, 比内地鶏 きりたんぽ鍋, 熊鍋 阿仁, 森吉山荘, 11月 12月 1月 秋田旅行, 日本三大樹氷',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-akita-moriyoshi-ani-snow-monster-matagi-stay/"
   },
   openGraph: {
     title: '11・12・1月秋田：日本三大樹氷！名宿5選',
-    description: '11月から1月、秋田県北秋田市の秀峰・森吉山（標高1,454m）と阿仁地区は、東北屈指の白銀の世界へと変貌を遂げます。',
+    description: '11月から1月、秋田県北秋田市の秀峰・森吉山（標高1,454m）と阿仁地区は、東北屈指の白銀の世界へと変貌を遂げます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-akita-moriyoshi-ani-snow-monster-matagi-stay',
     siteName: 'クラドトラベル',
     images: [

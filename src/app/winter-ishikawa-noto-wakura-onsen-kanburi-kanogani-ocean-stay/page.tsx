@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '石川・能登和倉温泉で過ごす冬の旅（11・12月）！名物能登寒ぶり！名宿5選',
-  description: '11月から12月にかけて、能登半島の優美な内海「七尾湾」に抱かれた名湯「和倉温泉（わくらおんせん）」は、冬の日本海がもたらす最高峰の美食と。',
+  description: '11月から12月にかけて、能登半島の優美な内海「七尾湾」に抱かれた名湯「和倉温泉（わくらおんせん）」は、冬の日本海がもたらす最高峰の美食と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '和倉温泉 宿泊, 和倉温泉 のと楽, 美湾荘, ホテル海望, 宝仙閣, 宿守屋寿苑, 能登寒ぶり, 加能ガニ, 香箱ガニ, 能登牛, 11月 12月 和倉温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-ishikawa-noto-wakura-onsen-kanburi-kanogani-ocean-stay/"
   },
   openGraph: {
     title: '石川・能登和倉温泉で過ごす冬の旅（11・12月）！名物能登寒ぶり！名宿5選',
-    description: '11月から12月にかけて、能登半島の優美な内海「七尾湾」に抱かれた名湯「和倉温泉（わくらおんせん）」は、冬の日本海がもたらす最高峰の美食と。',
+    description: '11月から12月にかけて、能登半島の優美な内海「七尾湾」に抱かれた名湯「和倉温泉（わくらおんせん）」は、冬の日本海がもたらす最高峰の美食と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-ishikawa-noto-wakura-onsen-kanburi-kanogani-ocean-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

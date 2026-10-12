@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '静岡で過ごす冬の旅（12・1月）！下田港直送極上「一本釣り地金目鯛」！名宿5選',
-  description: '12月中旬から1月下旬、静岡県伊豆半島の南端・下田の須崎半島「爪木崎」では、注目の旅宿が揃っています。',
+  description: '12月中旬から1月下旬、静岡県伊豆半島の南端・下田の須崎半島「爪木崎」では。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '爪木崎 水仙まつり, 下田 地金目鯛 宿泊, 下田温泉 名宿, 下田東急ホテル, 下田大和館, 下田ビューホテル, 下田セントラルホテル, 下田プリンスホテル, ペリーロード 冬, 南伊豆 旅行, 12月 1月 静岡観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shizuoka-shimoda-tsumekizaki-suisen-kinmedai-stay/"
   },
   openGraph: {
     title: '静岡で過ごす冬の旅（12・1月）！下田港直送極上「一本釣り地金目鯛」！名宿5選',
-    description: '12月中旬から1月下旬、静岡県伊豆半島の南端・下田の須崎半島「爪木崎」では、注目の旅宿が揃っています。',
+    description: '12月中旬から1月下旬、静岡県伊豆半島の南端・下田の須崎半島「爪木崎」では。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-shimoda-tsumekizaki-suisen-kinmedai-stay',
     siteName: 'クラドトラベル',
     images: [

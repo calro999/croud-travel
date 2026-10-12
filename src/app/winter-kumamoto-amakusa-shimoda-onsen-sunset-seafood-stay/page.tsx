@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '天草・下田温泉で過ごす冬の旅（11・12月）！冬の伊勢海老！名宿5選',
-  description: '11月から12月にかけて東シナ海に沈む茜色の夕陽が最も美しく輝く熊本「天草」と開湯700年の名湯「下田温泉」。',
+  description: '11月から12月にかけて東シナ海に沈む茜色の夕陽が最も美しく輝く熊本「天草」と開湯700年の名湯「下田温泉」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '天草 下田温泉 宿泊, 下田温泉 11月 12月, 天草下田温泉 望洋閣, 天空の船, 五足のくつ, ホテル竜宮, アレグリアガーデンズ天草, 天草伊勢海老, 天草車海老, 東シナ海 夕陽 露天風呂, 﨑津集落 世界遺産',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kumamoto-amakusa-shimoda-onsen-sunset-seafood-stay/",
   },
   openGraph: {
     title: '天草・下田温泉で過ごす冬の旅（11・12月）！冬の伊勢海老！名宿5選',
-    description: '11月から12月にかけて東シナ海に沈む茜色の夕陽が最も美しく輝く熊本「天草」と開湯700年の名湯「下田温泉」。',
+    description: '11月から12月にかけて東シナ海に沈む茜色の夕陽が最も美しく輝く熊本「天草」と開湯700年の名湯「下田温泉」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-kumamoto-amakusa-shimoda-onsen-sunset-seafood-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',

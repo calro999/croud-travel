@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '山陰で過ごす冬の旅（11・12月）！11月解禁の本場鳥取松葉ガニ！名宿5選',
-  description: '毎年11月6日、日本海の荒波が冬の始まりを告げると同時に、山陰の海岸線は歓喜に包まれます。冬の味覚の絶対王者「松葉ガニ（ズワイガニの雄）」の。',
+  description: '毎年11月6日、日本海の荒波が冬の始まりを告げると同時に、山陰の海岸線は歓喜に包まれます。冬の味覚の絶対王者「松葉ガニ（ズワイガニの雄）」の。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '岩井温泉 宿泊, 鳥取 松葉ガニ 宿, 活松葉ガニ 解禁 11月 12月, 岩井屋 民藝, 湯かむり温泉, 浦富海岸 ジオパーク, 鳥取和牛オレイン55, 山陰最古の温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tottori-iwai-onsen-matsubagani-tottoriwagyu-stay/"
   },
   openGraph: {
     title: '山陰で過ごす冬の旅（11・12月）！11月解禁の本場鳥取松葉ガニ！名宿5選',
-    description: '毎年11月6日、日本海の荒波が冬の始まりを告げると同時に、山陰の海岸線は歓喜に包まれます。冬の味覚の絶対王者「松葉ガニ（ズワイガニの雄）」の。',
+    description: '毎年11月6日、日本海の荒波が冬の始まりを告げると同時に、山陰の海岸線は歓喜に包まれます。冬の味覚の絶対王者「松葉ガニ（ズワイガニの雄）」の。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-tottori-iwai-onsen-matsubagani-tottoriwagyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月長崎：稲佐山1000万ドルの冬夜景！名宿5選',
-  description: '11月から1月、大気が澄み渡る冬の長崎は、モナコ・上海と並び「世界新三大夜景」に認定された稲佐山からのパノラマ夜景が年間で最も美しく輝く最高。',
+  description: '11月から1月、大気が澄み渡る冬の長崎は、モナコ・上海と並び「世界新三大夜景」に認定された稲佐山からのパノラマ夜景が年間で最も美しく輝く最高。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '稲佐山 夜景 冬, 世界新三大夜景 長崎, グラバー園 イルミネーション, 長崎ちゃんぽん 新地中華街, 卓袱料理 長崎, 稲佐山観光ホテル, ガーデンテラス長崎, ルークプラザホテル, ホテルニュー長崎, 諏訪神社 初詣, 11月 12月 1月 長崎旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagasaki-city-inasayama-nightview-glover-champon-stay/"
   },
   openGraph: {
     title: '11・12・1月長崎：稲佐山1000万ドルの冬夜景！名宿5選',
-    description: '11月から1月、大気が澄み渡る冬の長崎は、モナコ・上海と並び「世界新三大夜景」に認定された稲佐山からのパノラマ夜景が年間で最も美しく輝く最高。',
+    description: '11月から1月、大気が澄み渡る冬の長崎は、モナコ・上海と並び「世界新三大夜景」に認定された稲佐山からのパノラマ夜景が年間で最も美しく輝く最高。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-nagasaki-city-inasayama-nightview-glover-champon-stay',
     siteName: 'クラドトラベル',
     images: [

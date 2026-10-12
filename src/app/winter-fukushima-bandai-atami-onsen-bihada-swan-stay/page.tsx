@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '磐梯熱海温泉で過ごす冬の旅（11・12月）！萩姫伝説の美人の湯！名宿5選',
-  description: '南北朝時代の萩姫伝説が息づく郡山の奥座敷「磐梯熱海温泉」。pH9を超えるアルカリ性単純泉と。',
+  description: '南北朝時代の萩姫伝説が息づく郡山の奥座敷「磐梯熱海温泉」。pH9を超えるアルカリ性単純泉と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '磐梯熱海温泉 宿泊, 磐梯熱海温泉 11月 12月, ホテル華の湯, 離れの宿 よもぎ埜, 四季彩 一力, 守田屋, 萩姫伝説 美人の湯, 猪苗代湖 白鳥 飛来, 福島牛 すき焼き, 会津新酒',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukushima-bandai-atami-onsen-bihada-swan-stay/",
   },
   openGraph: {
     title: '磐梯熱海温泉で過ごす冬の旅（11・12月）！萩姫伝説の美人の湯！名宿5選',
-    description: '南北朝時代の萩姫伝説が息づく郡山の奥座敷「磐梯熱海温泉」。pH9を超えるアルカリ性単純泉と。',
+    description: '南北朝時代の萩姫伝説が息づく郡山の奥座敷「磐梯熱海温泉」。pH9を超えるアルカリ性単純泉と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-fukushima-bandai-atami-onsen-bihada-swan-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',

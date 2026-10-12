@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '有馬温泉で過ごす冬の旅（11・12月）！日本最古の名湯で芯から温まる冬！名宿5選',
-  description: '日本三古湯・三名泉の筆頭として豊臣秀吉もこよなく愛した兵庫・有馬温泉。11月の瑞宝寺公園の紅葉の余韻から。',
+  description: '日本三古湯・三名泉の筆頭として豊臣秀吉もこよなく愛した兵庫・有馬温泉。11月の瑞宝寺公園の紅葉の余韻から。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '有馬温泉 宿泊 11月 12月, 有馬温泉 金泉 銀泉, 有馬温泉 神戸牛 旅館, 兵衛向陽閣 有馬グランドホテル, 有馬温泉 おすすめ 宿, 六甲山 夜景 有馬温泉, 有馬温泉 冬 モデルコース',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay/",
   },
   openGraph: {
     title: '有馬温泉で過ごす冬の旅（11・12月）！日本最古の名湯で芯から温まる冬！名宿5選',
-    description: '日本三古湯・三名泉の筆頭として豊臣秀吉もこよなく愛した兵庫・有馬温泉。11月の瑞宝寺公園の紅葉の余韻から。',
+    description: '日本三古湯・三名泉の筆頭として豊臣秀吉もこよなく愛した兵庫・有馬温泉。11月の瑞宝寺公園の紅葉の余韻から。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',

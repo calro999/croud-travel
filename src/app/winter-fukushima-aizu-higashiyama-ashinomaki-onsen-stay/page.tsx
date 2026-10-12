@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '会津東山温泉で過ごす冬の旅（11・12月）！名物会津牛！名宿5選',
-  description: '11月から12月にかけて、鶴ヶ城の武家文化と城下町情緒が息づく福島県会津若松市の「東山温泉（ひがしやまおんせん）」と「芦ノ牧温泉（あしのまき。',
+  description: '11月から12月にかけて、鶴ヶ城の武家文化と城下町情緒が息づく福島県会津若松市の「東山温泉（ひがしやまおんせん）」と「芦ノ牧温泉（あしのまき。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '会津東山温泉 宿泊, 芦ノ牧温泉 宿, 御宿東鳳, 大川荘, 原瀧, 今昔亭, 丸峰, 会津牛, 会津馬刺し, こづゆ, 11月 12月 東山温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay/"
   },
   openGraph: {
     title: '会津東山温泉で過ごす冬の旅（11・12月）！名物会津牛！名宿5選',
-    description: '11月から12月にかけて、鶴ヶ城の武家文化と城下町情緒が息づく福島県会津若松市の「東山温泉（ひがしやまおんせん）」と「芦ノ牧温泉（あしのまき。',
+    description: '11月から12月にかけて、鶴ヶ城の武家文化と城下町情緒が息づく福島県会津若松市の「東山温泉（ひがしやまおんせん）」と「芦ノ牧温泉（あしのまき。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

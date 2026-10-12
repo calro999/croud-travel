@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月愛知：三光稲荷神社新春初詣！名宿5選',
-  description: '冬の愛知・犬山は、木曽川の断崖にそびえる現存最古の木造天守「国宝犬山城」が凛とした青空と朝霧に映え、冬ならではの絶景が広がります。',
+  description: '冬の愛知・犬山は、木曽川の断崖にそびえる現存最古の木造天守「国宝犬山城」が凛とした青空と朝霧に映え。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '犬山 ホテル, 国宝犬山城 冬景色, 三光稲荷神社 初詣, 犬山温泉 白帝の湯, 名古屋コーチン 鍋, ホテルインディゴ犬山有楽苑, 灯屋迎帆楼, 11月 12月 1月 愛知 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-aichi-inuyama-castle-kiso-river-nagoya-cochin-stay/"
   },
   openGraph: {
     title: '11・12・1月愛知：三光稲荷神社新春初詣！名宿5選',
-    description: '冬の愛知・犬山は、木曽川の断崖にそびえる現存最古の木造天守「国宝犬山城」が凛とした青空と朝霧に映え、冬ならではの絶景が広がります。',
+    description: '冬の愛知・犬山は、木曽川の断崖にそびえる現存最古の木造天守「国宝犬山城」が凛とした青空と朝霧に映え。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-aichi-inuyama-castle-kiso-river-nagoya-cochin-stay',
     type: 'article',
     images: [{ url: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=630', width: 1200, height: 630, alt: '国宝犬山城と木曽川の冬景色' }]
@@ -334,7 +334,7 @@ export default function AichiInuyamaPage() {
                 <span className="text-xs text-stone-300">平均気温 6.8℃</span>
               </div>
               <p className="text-stone-200 text-xs sm:text-sm leading-relaxed">
-                空気が一段と澄み渡り、天守からの遠望が最高潮に位置し、観光拠点として親しまれています。早朝には木曽川から幻想的な川霧が立ち上ります。犬山温泉白帝の湯で温まる心地よさが身に染みる季節。
+                空気が一段と澄み渡り、天守からの遠望が最高潮に。早朝には木曽川から幻想的な川霧が立ち上ります。犬山温泉白帝の湯で温まる心地よさが身に染みる季節。
               </p>
               <div className="text-xs text-rose-200">
                 おすすめ服装：中綿・ダウンジャケット、マフラー、手袋、保温性のある靴

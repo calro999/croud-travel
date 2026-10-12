@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '千葉・南房総温泉郷で過ごす冬の旅（11・12月）！太平洋パノラマ絶景露天！名宿5選',
-  description: '11月から12月にかけて、東京湾アクアラインで都心からわずか90分で訪れることができる房総半島南部「南房総温泉郷（鴨川・小湊・千倉・館山・白浜）。」は、注目の旅宿が揃っています。',
+  description: '11月から12月にかけて、東京湾アクアラインで都心からわずか90分で訪れることができる房総半島南部「南房総温泉郷（鴨川・小湊・千倉・館山・白浜）。」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '南房総 温泉 宿泊, 千葉 温泉 11月 12月, 鴨川館, 満ちてくる心の宿 吉夢, 網元の宿 ろくや, 休暇村館山, 白浜オーシャンリゾート, 房州伊勢海老 宿, 房総 避寒旅行, 太平洋 絶景露天風呂 千葉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay/"
   },
   openGraph: {
     title: '千葉・南房総温泉郷で過ごす冬の旅（11・12月）！太平洋パノラマ絶景露天！名宿5選',
-    description: '11月から12月にかけて、東京湾アクアラインで都心からわずか90分で訪れることができる房総半島南部「南房総温泉郷（鴨川・小湊・千倉・館山・白浜）。」は、注目の旅宿が揃っています。',
+    description: '11月から12月にかけて、東京湾アクアラインで都心からわずか90分で訪れることができる房総半島南部「南房総温泉郷（鴨川・小湊・千倉・館山・白浜）。」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',

@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '長門湯本温泉で過ごす冬の旅（11・12月）！山口県産和牛！名宿5選',
-  description: '室町時代に住吉大明神の神託によって開かれた山口県最古の名湯「長門湯本温泉」。音信川のせせらぎと竹林の小径が冬の灯りに照らされる幻想的な温泉街。',
+  description: '室町時代に住吉大明神の神託によって開かれた山口県最古の名湯「長門湯本温泉」。音信川のせせらぎと竹林の小径が冬の灯りに照らされる幻想的な温泉街。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '長門湯本温泉 宿泊 11月 12月, 長門湯本温泉 ふぐ 下関とらふぐ, 音信川 川床 冬灯り, 大谷山荘 長門湯本, 別邸 音信, 恩湯 美肌の湯, 山口 冬 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamaguchi-nagato-yumoto-onsen-fugu-stay/",
   },
   openGraph: {
     title: '長門湯本温泉で過ごす冬の旅（11・12月）！山口県産和牛！名宿5選',
-    description: '室町時代に住吉大明神の神託によって開かれた山口県最古の名湯「長門湯本温泉」。音信川のせせらぎと竹林の小径が冬の灯りに照らされる幻想的な温泉街。',
+    description: '室町時代に住吉大明神の神託によって開かれた山口県最古の名湯「長門湯本温泉」。音信川のせせらぎと竹林の小径が冬の灯りに照らされる幻想的な温泉街。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-yamaguchi-nagato-yumoto-onsen-fugu-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',

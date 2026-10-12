@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '盛岡つなぎ温泉で過ごす冬の旅（11・12月）！秀峰岩手山雪見露天と極上前沢牛会席！名宿5選',
-  description: '11月下旬から12月にかけて東北最大級のウインターイルミネーション「小岩井農場 銀河農場の夜」が輝き。',
+  description: '11月下旬から12月にかけて東北最大級のウインターイルミネーション「小岩井農場 銀河農場の夜」が輝き。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '盛岡 つなぎ温泉 宿泊, つなぎ温泉 11月 12月, 小岩井農場 イルミネーション 銀河農場の夜, ホテル紫苑, 湯守ホテル大観, 愛真館, ホテル森の風鶯宿, 四季亭, 前沢牛 すき焼き, 御所湖 岩手山 雪景色',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-iwate-tsunagi-onsen-koiwai-illumination-stay/",
   },
   openGraph: {
     title: '盛岡つなぎ温泉で過ごす冬の旅（11・12月）！秀峰岩手山雪見露天と極上前沢牛会席！名宿5選',
-    description: '11月下旬から12月にかけて東北最大級のウインターイルミネーション「小岩井農場 銀河農場の夜」が輝き。',
+    description: '11月下旬から12月にかけて東北最大級のウインターイルミネーション「小岩井農場 銀河農場の夜」が輝き。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-iwate-tsunagi-onsen-koiwai-illumination-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',

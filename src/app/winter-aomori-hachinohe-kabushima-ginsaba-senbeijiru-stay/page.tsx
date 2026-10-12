@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月青森：蕪島神社初詣！名宿5選',
-  description: '11月から1月、青森県八戸市は日本一脂が乗る「八戸前沖銀鯖」の最盛期を迎え、出汁の染みた熱々の「八戸せんべい汁」が極上の美味を放ちます。',
+  description: '11月から1月、青森県八戸市は日本一脂が乗る「八戸前沖銀鯖」の最盛期を迎え、出汁の染みた熱々の「八戸せんべい汁」が極上の美味を放ちます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '八戸前沖さば, 銀鯖, 八戸せんべい汁, 八食センター, 七輪村, 蕪島神社 初詣, ドーミーイン本八戸, ダイワロイネットホテル八戸, グランドサンピア八戸, 八戸グランドホテル, コンフォートホテル八戸, みろく横丁, 11月 12月 1月 青森旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay/"
   },
   openGraph: {
     title: '11・12・1月青森：蕪島神社初詣！名宿5選',
-    description: '11月から1月、青森県八戸市は日本一脂が乗る「八戸前沖銀鯖」の最盛期を迎え、出汁の染みた熱々の「八戸せんべい汁」が極上の美味を放ちます。',
+    description: '11月から1月、青森県八戸市は日本一脂が乗る「八戸前沖銀鯖」の最盛期を迎え、出汁の染みた熱々の「八戸せんべい汁」が極上の美味を放ちます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay',
     siteName: 'クラドトラベル',
     images: [

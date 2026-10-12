@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '八幡平温泉郷で過ごす冬の旅（11・12月）！極上前沢牛と南部鉄器すき焼き！名宿5選',
-  description: '11月中旬から初冬の訪れとともに深い静寂と白銀の雪景色に包まれる岩手県・八幡平温泉郷と松川温泉。日本初の地熱発電所が稼働した自然のエネルギー。',
+  description: '11月中旬から初冬の訪れとともに深い静寂と白銀の雪景色に包まれる岩手県・八幡平温泉郷と松川温泉。日本初の地熱発電所が稼働した自然のエネルギー。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '八幡平温泉 旅館, 松川温泉 宿泊, 松川荘, 峡雲荘, 八幡平ハイツ, 八幡平ライジングサンホテル, 新安比温泉 静流閣, 乳白色温泉, 雪見露天風呂, 前沢牛, 南部鉄器すき焼き, 11月 12月 岩手温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-iwate-hachimantai-matsukawa-onsen-snow-maesawagyu-stay/"
   },
   openGraph: {
     title: '八幡平温泉郷で過ごす冬の旅（11・12月）！極上前沢牛と南部鉄器すき焼き！名宿5選',
-    description: '11月中旬から初冬の訪れとともに深い静寂と白銀の雪景色に包まれる岩手県・八幡平温泉郷と松川温泉。日本初の地熱発電所が稼働した自然のエネルギー。',
+    description: '11月中旬から初冬の訪れとともに深い静寂と白銀の雪景色に包まれる岩手県・八幡平温泉郷と松川温泉。日本初の地熱発電所が稼働した自然のエネルギー。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-iwate-hachimantai-matsukawa-onsen-snow-maesawagyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

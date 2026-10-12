@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '茨城・北茨城温泉郷で過ごす冬の旅（11・12月）！五浦！名宿5選',
-  description: '11月から12月にかけて、東京から常磐道やJR特急ひたちで約2時間の茨城県最北部「北茨城温泉郷（平潟・磯原・五浦）」は、注目の旅宿が揃っています。',
+  description: '11月から12月にかけて、東京から常磐道やJR特急ひたちで約2時間の茨城県最北部「北茨城温泉郷（平潟・磯原・五浦）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '北茨城 温泉 宿泊, 磯原温泉, 五浦温泉, 平潟港温泉, まるみつ旅館, としまや月浜の湯, 五浦観光ホテル, 二ツ島観光ホテル, 磯原シーサイドホテル, あんこう鍋 どぶ汁, 常陸牛 宿, 太平洋 日の出 露天風呂',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-ibaraki-kitaibaraki-isohara-onsen-ankou-dobujiru-stay/"
   },
   openGraph: {
     title: '茨城・北茨城温泉郷で過ごす冬の旅（11・12月）！五浦！名宿5選',
-    description: '11月から12月にかけて、東京から常磐道やJR特急ひたちで約2時間の茨城県最北部「北茨城温泉郷（平潟・磯原・五浦）」は、注目の旅宿が揃っています。',
+    description: '11月から12月にかけて、東京から常磐道やJR特急ひたちで約2時間の茨城県最北部「北茨城温泉郷（平潟・磯原・五浦）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-ibaraki-kitaibaraki-isohara-onsen-ankou-dobujiru-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',

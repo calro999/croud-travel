@@ -7,14 +7,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月和歌山：本州最南端「潮岬」冬の太平洋！名宿5選',
-  description: '黒潮が洗う本州最南端の温暖な楽園・和歌山県串本の11〜1月冬紀行。紺碧の太平洋が弧を描く「潮岬」から望む元旦初日の出。',
+  description: '黒潮が洗う本州最南端の温暖な楽園・和歌山県串本の11〜1月冬紀行。紺碧の太平洋が弧を描く「潮岬」から望む元旦初日の出。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '潮岬 初日の出, 橋杭岩 朝焼け, 近大マグロ 串本, 串本温泉 名宿, メルキュール和歌山串本, 大江戸温泉物語 南紀串本, フェアフィールド串本, 和歌山 冬旅行, 本州最南端 温泉',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-wakayama-kushimoto-shionomisaki-sunrise-hashiguiiwa-kindai-maguro-stay'
   },
   openGraph: {
     title: '11・12・1月和歌山：本州最南端「潮岬」冬の太平洋！名宿5選',
-    description: '黒潮が洗う本州最南端の温暖な楽園・和歌山県串本の11〜1月冬紀行。紺碧の太平洋が弧を描く「潮岬」から望む元旦初日の出。',
+    description: '黒潮が洗う本州最南端の温暖な楽園・和歌山県串本の11〜1月冬紀行。紺碧の太平洋が弧を描く「潮岬」から望む元旦初日の出。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-wakayama-kushimoto-shionomisaki-sunrise-hashiguiiwa-kindai-maguro-stay',
     type: 'article',
     images: [
@@ -183,7 +183,7 @@ export default function WakayamaKushimotoWinterPage() {
               reviews: 181,
               price: "¥5,899〜",
               access: "すさみ南ICより車で約37分、南紀白浜空港直通バスあり（空港から約75分）、JR「串本駅」から車で約5分。",
-              special: "和歌山の自然や食を巡る旅の拠点に位置し、観光拠点として親しまれています。洗練された心地よい空間で、ふっと肩の力が抜ける穏やかな滞在を。",
+              special: "和歌山の自然や食を巡る旅の拠点に。洗練された心地よい空間で、ふっと肩の力が抜ける穏やかな滞在を。",
               url: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182142%2F182142.html",
               story: "国の天然記念物「橋杭岩」の目の前に位置する道の駅「くしもと橋杭岩」に隣接し、マリオット基準の快適性と機能美を誇る「フェアフィールド・バイ・マリオット・和歌山串本。」。スタイリッシュで無駄のない客室には、シモンズ製特注ベッドと心地よいレインシャワーを完備。ホテルのロビーや客室から徒歩数分で橋杭岩の海岸へ出られるため、冬の早朝、朝焼けと奇岩が織りなす神秘的な絶景撮影や散策の拠点としてこれ以上ないロケーションを誇ります。地域の飲食店で近大マグロや紀州割烹を自由に味わうスマートな旅に最適です。",
               roomTip: "オーシャンビューキングまたはツイン。窓の向こうに整然と並ぶ橋杭岩の巨岩群が広がり、夜の月明かりに照らされる海面も幻想的。",

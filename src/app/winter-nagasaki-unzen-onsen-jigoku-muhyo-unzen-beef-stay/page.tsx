@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月長崎：立ち上る雲仙地獄の白煙と冬の奇跡「霧氷」！名宿5選',
-  description: '11月から1月、日本最初の国立公園に指定された標高700mの高原に広がる長崎県島原半島「雲仙（うんぜん）温泉」は、大地の息吹を感じる地獄の白煙と。',
+  description: '11月から1月、日本最初の国立公園に指定された標高700mの高原に広がる長崎県島原半島「雲仙（うんぜん）温泉」は、大地の息吹を感じる地獄の白煙と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '雲仙温泉 宿泊, 雲仙地獄 ホテル, 雲仙 霧氷 花ぼうろ, 雲仙牛 宿, 島原 具雑煮, 雲仙宮崎旅館, 雲仙福田屋, 雲仙観光ホテル, 11月 12月 1月 長崎旅行, 酸性硫黄泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagasaki-unzen-onsen-jigoku-muhyo-unzen-beef-stay/"
   },
   openGraph: {
     title: '11・12・1月長崎：立ち上る雲仙地獄の白煙と冬の奇跡「霧氷」！名宿5選',
-    description: '11月から1月、日本最初の国立公園に指定された標高700mの高原に広がる長崎県島原半島「雲仙（うんぜん）温泉」は、大地の息吹を感じる地獄の白煙と。',
+    description: '11月から1月、日本最初の国立公園に指定された標高700mの高原に広がる長崎県島原半島「雲仙（うんぜん）温泉」は、大地の息吹を感じる地獄の白煙と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-nagasaki-unzen-onsen-jigoku-muhyo-unzen-beef-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

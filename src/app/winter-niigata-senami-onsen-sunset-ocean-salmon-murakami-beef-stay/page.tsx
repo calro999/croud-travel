@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '瀬波温泉で過ごす冬の旅（11・12月）！名物塩引鮭！名宿5選',
-  description: '11月から12月にかけて、新潟県北部の日本海沿いに湧く「瀬波温泉」は、水平線に沈む茜色の夕日と荒波が織りなす息を呑むような初冬の絶景を迎えます。',
+  description: '11月から12月にかけて、新潟県北部の日本海沿いに湧く「瀬波温泉」は、水平線に沈む茜色の夕日と荒波が織りなす息を呑むような初冬の絶景を迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '瀬波温泉 宿泊, 瀬波温泉 夕日 露天風呂, 越後村上 鮭 はらこ飯, 塩引鮭, 村上牛 ステーキ 11月 12月, 汐美荘, 大観荘せなみの湯, 磐舟, 静雲荘, 瀬波グランドホテルはぎのや',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-niigata-senami-onsen-sunset-ocean-salmon-murakami-beef-stay/"
   },
   openGraph: {
     title: '瀬波温泉で過ごす冬の旅（11・12月）！名物塩引鮭！名宿5選',
-    description: '11月から12月にかけて、新潟県北部の日本海沿いに湧く「瀬波温泉」は、水平線に沈む茜色の夕日と荒波が織りなす息を呑むような初冬の絶景を迎えます。',
+    description: '11月から12月にかけて、新潟県北部の日本海沿いに湧く「瀬波温泉」は、水平線に沈む茜色の夕日と荒波が織りなす息を呑むような初冬の絶景を迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-niigata-senami-onsen-sunset-ocean-salmon-murakami-beef-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',

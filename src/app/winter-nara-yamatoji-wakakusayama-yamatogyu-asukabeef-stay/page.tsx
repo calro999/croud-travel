@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '奈良・大和路奈良町温泉で過ごす冬の旅（11・12月）！名物極上大和牛すき焼き！名宿5選',
-  description: '11月から12月にかけて、1300年の歴史を誇る古都・奈良は、秋の喧騒が落ち着きを取り戻し。',
+  description: '11月から12月にかけて、1300年の歴史を誇る古都・奈良は、秋の喧騒が落ち着きを取り戻し。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '奈良 宿泊, 奈良ホテル, ふふ奈良, むさし野, 春日ホテル, 飛鳥荘, 大和牛 すき焼き, 飛鳥鍋, ならまち, 東大寺 大仏殿, 若草山, 11月 12月 奈良',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nara-yamatoji-wakakusayama-yamatogyu-asukabeef-stay/"
   },
   openGraph: {
     title: '奈良・大和路奈良町温泉で過ごす冬の旅（11・12月）！名物極上大和牛すき焼き！名宿5選',
-    description: '11月から12月にかけて、1300年の歴史を誇る古都・奈良は、秋の喧騒が落ち着きを取り戻し。',
+    description: '11月から12月にかけて、1300年の歴史を誇る古都・奈良は、秋の喧騒が落ち着きを取り戻し。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-nara-yamatoji-wakakusayama-yamatogyu-asukabeef-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

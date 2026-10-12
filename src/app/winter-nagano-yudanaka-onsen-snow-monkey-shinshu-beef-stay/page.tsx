@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '信州湯田中渋温泉郷で過ごす冬の旅（11・12月）！登録有形文化財風呂！名宿5選',
-  description: '11月下旬から12月にかけて長野県・北信濃の志賀高原山麓に広がる湯田中渋温泉郷は、初雪が舞い始め。',
+  description: '11月下旬から12月にかけて長野県・北信濃の志賀高原山麓に広がる湯田中渋温泉郷は、初雪が舞い始め。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '湯田中温泉 宿泊, 渋温泉 11月 12月, 地獄谷 スノーモンキー 宿, よろづや 桃山風呂, あぶらや燈千, 清風荘, 湯田中 島屋, 春蘭の宿さかえや, 信州牛 ステーキ, 九湯めぐり, 長野 冬 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagano-yudanaka-onsen-snow-monkey-shinshu-beef-stay/",
   },
   openGraph: {
     title: '信州湯田中渋温泉郷で過ごす冬の旅（11・12月）！登録有形文化財風呂！名宿5選',
-    description: '11月下旬から12月にかけて長野県・北信濃の志賀高原山麓に広がる湯田中渋温泉郷は、初雪が舞い始め。',
+    description: '11月下旬から12月にかけて長野県・北信濃の志賀高原山麓に広がる湯田中渋温泉郷は、初雪が舞い始め。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-nagano-yudanaka-onsen-snow-monkey-shinshu-beef-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',

@@ -6,14 +6,14 @@ import { Star, MapPin, CheckCircle2, Sparkles, Calendar, Utensils, Compass, Exte
 
 export const metadata: Metadata = {
   title: '11・12・1月島根：松葉ガニ！名宿5選',
-  description: '11月から1月、山陰・島根の安来（やすぎ）は白銀の雪と静寂に包まれ、世界が称賛する日本美の最高峰が姿を現します。',
+  description: '11月から1月、山陰・島根の安来（やすぎ）は白銀の雪と静寂に包まれ、世界が称賛する日本美の最高峰が姿を現します。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '足立美術館 冬 雪景色, 足立美術館 日本庭園 一位, さぎの湯温泉 旅館, しまね和牛 宿, 松葉ガニ 安来 境港, さぎの湯温泉 さぎの湯荘, 安来苑, 竹葉 足立美術館, 皆生シーサイドホテル, ホテルアクシス, 11月 12月 1月 島根旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shimane-adachi-museum-snow-garden-saginoyu-wagyu-stay/"
   },
   openGraph: {
     title: '11・12・1月島根：松葉ガニ！名宿5選',
-    description: '11月から1月、山陰・島根の安来（やすぎ）は白銀の雪と静寂に包まれ、世界が称賛する日本美の最高峰が姿を現します。',
+    description: '11月から1月、山陰・島根の安来（やすぎ）は白銀の雪と静寂に包まれ、世界が称賛する日本美の最高峰が姿を現します。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-shimane-adachi-museum-snow-garden-saginoyu-wagyu-stay',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/17912/17912.jpg', width: 1200, height: 630, alt: '足立美術館雪景色とさぎの湯温泉名宿' }]

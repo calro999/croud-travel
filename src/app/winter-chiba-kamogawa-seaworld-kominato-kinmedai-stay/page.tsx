@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月千葉：房総伊勢海老！名宿5選',
-  description: '11月から1月、南房総・外房鴨川は温暖な黒潮の影響を受け、真冬でも穏やかな気候の中で冬の海絶景を満喫できる関東随一の避寒地です。',
+  description: '11月から1月、南房総・外房鴨川は温暖な黒潮の影響を受け、真冬でも穏やかな気候の中で冬の海絶景を満喫できる関東随一の避寒地です。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '鴨川 冬 旅行, 鴨川シーワールド ホテル, 小湊 鯛の浦 温泉, 鴨川館, 吉夢, 鴨川シーワールドホテル, 宿中屋, 海辺の宿 恵比寿, 外房 寒金目鯛 煮付け, 房総 伊勢海老, 誕生寺 初詣, 11月 12月 1月 千葉旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-chiba-kamogawa-seaworld-kominato-kinmedai-stay/"
   },
   openGraph: {
     title: '11・12・1月千葉：房総伊勢海老！名宿5選',
-    description: '11月から1月、南房総・外房鴨川は温暖な黒潮の影響を受け、真冬でも穏やかな気候の中で冬の海絶景を満喫できる関東随一の避寒地です。',
+    description: '11月から1月、南房総・外房鴨川は温暖な黒潮の影響を受け、真冬でも穏やかな気候の中で冬の海絶景を満喫できる関東随一の避寒地です。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-chiba-kamogawa-seaworld-kominato-kinmedai-stay',
     siteName: 'クラドトラベル',
     images: [

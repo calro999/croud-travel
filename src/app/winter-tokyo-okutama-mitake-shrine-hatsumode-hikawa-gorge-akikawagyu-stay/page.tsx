@@ -7,14 +7,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月東京：天空の古社「武蔵御嶽神社」新！名宿5選',
-  description: '都心から電車でわずか約90〜120分、東京都とは思えない大自然と霊峰が広がる奥多摩・青梅の11〜1月冬紀行。',
+  description: '都心から電車でわずか約90〜120分、東京都とは思えない大自然と霊峰が広がる奥多摩・青梅の11〜1月冬紀行。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '武蔵御嶽神社 初詣, 御岳山 冬, 氷川渓谷, 鳩ノ巣渓谷, 奥多摩わさび, 秋川牛, 奥多摩の風 はとのす荘, 亀の井ホテル 青梅, おくたま路, 瀬音の湯, 奥多摩温泉 宿泊',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-tokyo-okutama-mitake-shrine-hatsumode-hikawa-gorge-akikawagyu-stay'
   },
   openGraph: {
     title: '11・12・1月東京：天空の古社「武蔵御嶽神社」新！名宿5選',
-    description: '都心から電車でわずか約90〜120分、東京都とは思えない大自然と霊峰が広がる奥多摩・青梅の11〜1月冬紀行。',
+    description: '都心から電車でわずか約90〜120分、東京都とは思えない大自然と霊峰が広がる奥多摩・青梅の11〜1月冬紀行。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-tokyo-okutama-mitake-shrine-hatsumode-hikawa-gorge-akikawagyu-stay',
     type: 'article',
     images: [

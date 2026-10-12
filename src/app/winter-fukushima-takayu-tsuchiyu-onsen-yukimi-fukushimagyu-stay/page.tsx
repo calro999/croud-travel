@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '高湯温泉＆土湯温泉で過ごす冬の旅（11・12月）！吾妻連峰の雪見露天と白濁薬湯！名宿5選',
-  description: '11月から12月にかけて、福島県福島市の西部にそびえる吾妻連峰の山懐は、澄み渡る冷気と初雪に包まれます。',
+  description: '11月から12月にかけて、福島県福島市の西部にそびえる吾妻連峰の山懐は、澄み渡る冷気と初雪に包まれます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '高湯温泉 宿泊, 土湯温泉 旅館, 高湯温泉 花月ハイランドホテル, 旅館 玉子湯, 安達屋, 土湯温泉 山水荘, 土湯別邸 里の湯, 福島牛, 白濁硫黄泉, 11月 12月 福島温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukushima-takayu-tsuchiyu-onsen-yukimi-fukushimagyu-stay/"
   },
   openGraph: {
     title: '高湯温泉＆土湯温泉で過ごす冬の旅（11・12月）！吾妻連峰の雪見露天と白濁薬湯！名宿5選',
-    description: '11月から12月にかけて、福島県福島市の西部にそびえる吾妻連峰の山懐は、澄み渡る冷気と初雪に包まれます。',
+    description: '11月から12月にかけて、福島県福島市の西部にそびえる吾妻連峰の山懐は、澄み渡る冷気と初雪に包まれます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-fukushima-takayu-tsuchiyu-onsen-yukimi-fukushimagyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

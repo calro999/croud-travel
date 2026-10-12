@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '熱海温泉で過ごす冬の旅（11・12月）！インフィニティ温泉と極上金目鯛姿煮！名宿5選',
-  description: '11月から12月にかけて澄み切った冬の夜空に大輪の花火が咲き誇る伝統の「熱海海上花火大会」と、都心から新幹線で最速35分の名湯「熱海温泉」。',
+  description: '11月から12月にかけて澄み切った冬の夜空に大輪の花火が咲き誇る伝統の「熱海海上花火大会」と、都心から新幹線で最速35分の名湯「熱海温泉」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '熱海温泉 宿泊, 熱海 11月 12月, 熱海後楽園ホテル, 古屋旅館, ホテルニューアカオ, 熱海パールスターホテル, 秀花園湯の花膳, 熱海海上花火大会 冬, インフィニティ露天風呂, 金目鯛姿煮, 熱海 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay/",
   },
   openGraph: {
     title: '熱海温泉で過ごす冬の旅（11・12月）！インフィニティ温泉と極上金目鯛姿煮！名宿5選',
-    description: '11月から12月にかけて澄み切った冬の夜空に大輪の花火が咲き誇る伝統の「熱海海上花火大会」と、都心から新幹線で最速35分の名湯「熱海温泉」。',
+    description: '11月から12月にかけて澄み切った冬の夜空に大輪の花火が咲き誇る伝統の「熱海海上花火大会」と、都心から新幹線で最速35分の名湯「熱海温泉」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',

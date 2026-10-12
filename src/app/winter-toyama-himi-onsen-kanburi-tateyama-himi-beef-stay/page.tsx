@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '富山氷見温泉郷で過ごす冬の旅（11・12月）！寒ブリづくし会席！名宿5選',
-  description: '11月下旬から12月にかけて富山湾で水揚げのピークを迎える冬の味覚の王様「ひみ寒ぶり」と、海越しに白銀の3,000m級立山連峰を望む富山県・氷見温泉郷。',
+  description: '11月下旬から12月にかけて富山湾で水揚げのピークを迎える冬の味覚の王様「ひみ寒ぶり」と、海越しに白銀の3,000m級立山連峰を望む富山県・氷見温泉郷。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '氷見温泉 宿泊, 氷見 11月 12月, ひみ寒ぶり宣言, 寒ブリ ブリしゃぶ, 立山連峰 絶景, くつろぎの宿 うみあかり, 永芳閣, 磯はなび, イミグレ, 民宿 叶, 氷見牛, 富山 温泉 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-toyama-himi-onsen-kanburi-tateyama-himi-beef-stay/",
   },
   openGraph: {
     title: '富山氷見温泉郷で過ごす冬の旅（11・12月）！寒ブリづくし会席！名宿5選',
-    description: '11月下旬から12月にかけて富山湾で水揚げのピークを迎える冬の味覚の王様「ひみ寒ぶり」と、海越しに白銀の3,000m級立山連峰を望む富山県・氷見温泉郷。',
+    description: '11月下旬から12月にかけて富山湾で水揚げのピークを迎える冬の味覚の王様「ひみ寒ぶり」と、海越しに白銀の3,000m級立山連峰を望む富山県・氷見温泉郷。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-toyama-himi-onsen-kanburi-tateyama-himi-beef-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',

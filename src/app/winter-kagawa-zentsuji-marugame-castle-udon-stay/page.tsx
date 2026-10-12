@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月香川：総本山善通寺の雪の初詣と丸亀！名宿5選',
-  description: '真言宗開祖・弘法大師空海の御生誕の地であり四国霊場第75番札所の総本山善通寺での荘厳な初詣。日本一の石垣美を誇る現存十二天守・丸亀城の冬のラ。',
+  description: '真言宗開祖・弘法大師空海の御生誕の地であり四国霊場第75番札所の総本山善通寺での荘厳な初詣。日本一の石垣美を誇る現存十二天守・丸亀城の冬のラ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '総本山善通寺 初詣, 丸亀城 ライトアップ, しっぽくうどん 香川, 骨付鳥 丸亀, オークラホテル丸亀, 紅梅亭, レオマの森, 空海 生誕地, 11月 12月 1月 香川 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kagawa-zentsuji-marugame-castle-udon-stay/"
   },
   openGraph: {
     title: '11・12・1月香川：総本山善通寺の雪の初詣と丸亀！名宿5選',
-    description: '真言宗開祖・弘法大師空海の御生誕の地であり四国霊場第75番札所の総本山善通寺での荘厳な初詣。日本一の石垣美を誇る現存十二天守・丸亀城の冬のラ。',
+    description: '真言宗開祖・弘法大師空海の御生誕の地であり四国霊場第75番札所の総本山善通寺での荘厳な初詣。日本一の石垣美を誇る現存十二天守・丸亀城の冬のラ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-kagawa-zentsuji-marugame-castle-udon-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',

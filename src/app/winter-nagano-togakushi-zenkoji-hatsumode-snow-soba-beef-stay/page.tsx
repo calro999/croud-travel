@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月長野：国宝善光寺「お朝事」初詣！名宿5選',
-  description: '11月から1月、信州の冬は静謐と祈りに満ちた神聖な季節を迎えます。樹齢400年を超える杉並木が一面の雪化粧に包まれる日本屈指の聖地「戸隠神社。',
+  description: '11月から1月、信州の冬は静謐と祈りに満ちた神聖な季節を迎えます。樹齢400年を超える杉並木が一面の雪化粧に包まれる日本屈指の聖地「戸隠神社。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '戸隠神社 冬 奥社 杉並木, 戸隠そば 新そば 冬, 善光寺 お朝事 初詣, 善光寺 宿坊 淵之坊, ホテル国際21 長野, 長野ホテル犀北館, チサングランド長野, 長野東急REIホテル, 信州牛 すき焼き, 11月 12月 1月 長野旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagano-togakushi-zenkoji-hatsumode-snow-soba-beef-stay/"
   },
   openGraph: {
     title: '11・12・1月長野：国宝善光寺「お朝事」初詣！名宿5選',
-    description: '11月から1月、信州の冬は静謐と祈りに満ちた神聖な季節を迎えます。樹齢400年を超える杉並木が一面の雪化粧に包まれる日本屈指の聖地「戸隠神社。',
+    description: '11月から1月、信州の冬は静謐と祈りに満ちた神聖な季節を迎えます。樹齢400年を超える杉並木が一面の雪化粧に包まれる日本屈指の聖地「戸隠神社。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-nagano-togakushi-zenkoji-hatsumode-snow-soba-beef-stay',
     siteName: 'クラドトラベル',
     images: [

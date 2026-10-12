@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '戸倉上山田温泉で過ごす冬の旅（11・12月）！善光寺精進落としの美肌硫黄泉！名宿5選',
-  description: '11月中旬から12月の初冬を迎えた信州千曲川のほとり、戸倉上山田温泉は山々が初雪をまとい。',
+  description: '11月中旬から12月の初冬を迎えた信州千曲川のほとり、戸倉上山田温泉は山々が初雪をまとい。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '戸倉上山田温泉 宿泊, 善光寺 精進落とし 温泉, 信州プレミアム牛 旅館, サンふじ リンゴ 信州, おしぼりうどん 千曲市, 単純硫黄泉 美肌湯, 長野 初冬 温泉旅行, 笹屋ホテル 豊年虫, 11月 12月 長野旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagano-togura-kamiyamada-onsen-shinshugyu-apple-stay/"
   },
   openGraph: {
     title: '戸倉上山田温泉で過ごす冬の旅（11・12月）！善光寺精進落としの美肌硫黄泉！名宿5選',
-    description: '11月中旬から12月の初冬を迎えた信州千曲川のほとり、戸倉上山田温泉は山々が初雪をまとい。',
+    description: '11月中旬から12月の初冬を迎えた信州千曲川のほとり、戸倉上山田温泉は山々が初雪をまとい。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-nagano-togura-kamiyamada-onsen-shinshugyu-apple-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

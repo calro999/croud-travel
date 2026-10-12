@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '肘折温泉の豪雪秘湯で過ごす冬の旅（11・12月）！極上山形牛！名宿5選',
-  description: '11月から12月にかけて、山形県大蔵村の出羽山地に抱かれたカルデラ盆地「肘折温泉（ひじおりおんせん）」は、注目の旅宿が揃っています。',
+  description: '11月から12月にかけて、山形県大蔵村の出羽山地に抱かれたカルデラ盆地「肘折温泉（ひじおりおんせん）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '肘折温泉 宿泊, 肘折温泉 旅館, 湯宿 元河原湯, 丸屋, 優心の宿 観月, 三春屋, 亀屋旅館, 山形牛, 芋煮鍋, 豪雪秘湯, 11月 12月 肘折温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamagata-hijiori-onsen-heavy-snow-toji-yamagata-beef-stay/"
   },
   openGraph: {
     title: '肘折温泉の豪雪秘湯で過ごす冬の旅（11・12月）！極上山形牛！名宿5選',
-    description: '11月から12月にかけて、山形県大蔵村の出羽山地に抱かれたカルデラ盆地「肘折温泉（ひじおりおんせん）」は、注目の旅宿が揃っています。',
+    description: '11月から12月にかけて、山形県大蔵村の出羽山地に抱かれたカルデラ盆地「肘折温泉（ひじおりおんせん）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-yamagata-hijiori-onsen-heavy-snow-toji-yamagata-beef-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

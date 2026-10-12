@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '初冬で過ごす冬の旅（11・12月）！枕草子三名泉「七栗の湯」の極上美肌ぬる湯！名宿5選',
-  description: '11月中旬から12月の初冬、伊勢平野から布引山地へと連なる三重県津市榊原町は、山裾の紅葉が静かに散り敷き、凛とした澄んだ空気が漂う季節を迎えます。',
+  description: '11月中旬から12月の初冬、伊勢平野から布引山地へと連なる三重県津市榊原町は、山裾の紅葉が静かに散り敷き、凛とした澄んだ空気が漂う季節を迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '榊原温泉 宿泊, 枕草子 七栗の湯, 榊原館 ぬる湯, 伊賀牛 すき焼き 宿, 赤目四十八滝 温泉, 赤目温泉 対泉閣, 11月 12月 三重温泉旅行, ぬる湯 温冷交互浴',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-mie-sakakibara-onsen-akame-igagyu-bihada-stay/"
   },
   openGraph: {
     title: '初冬で過ごす冬の旅（11・12月）！枕草子三名泉「七栗の湯」の極上美肌ぬる湯！名宿5選',
-    description: '11月中旬から12月の初冬、伊勢平野から布引山地へと連なる三重県津市榊原町は、山裾の紅葉が静かに散り敷き、凛とした澄んだ空気が漂う季節を迎えます。',
+    description: '11月中旬から12月の初冬、伊勢平野から布引山地へと連なる三重県津市榊原町は、山裾の紅葉が静かに散り敷き、凛とした澄んだ空気が漂う季節を迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-mie-sakakibara-onsen-akame-igagyu-bihada-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

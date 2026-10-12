@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '法師温泉で過ごす冬の旅（11・12月）！三国峠の秘湯雪景色！名宿5選',
-  description: '11月中旬から初雪の知らせが届く群馬・新潟県境の三国峠。谷川連峰の裾野、ブナの原生林に抱かれた法師川のほとりに湧く法師温泉と。',
+  description: '11月中旬から初雪の知らせが届く群馬・新潟県境の三国峠。谷川連峰の裾野、ブナの原生林に抱かれた法師川のほとりに湧く法師温泉と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '法師温泉 宿泊, 猿ヶ京温泉 旅館, 法師温泉 長寿館, 法師乃湯, ル・ヴァンベール 湖郷, 猿ヶ京ホテル, 仁田屋旅館, 三国峠 温泉, 足元湧出, 上州牛 すき焼き, 豆富懐石, 11月 12月 群馬温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-gunma-houshi-sarugakyo-onsen-snow-joshu-beef-stay/"
   },
   openGraph: {
     title: '法師温泉で過ごす冬の旅（11・12月）！三国峠の秘湯雪景色！名宿5選',
-    description: '11月中旬から初雪の知らせが届く群馬・新潟県境の三国峠。谷川連峰の裾野、ブナの原生林に抱かれた法師川のほとりに湧く法師温泉と。',
+    description: '11月中旬から初雪の知らせが届く群馬・新潟県境の三国峠。谷川連峰の裾野、ブナの原生林に抱かれた法師川のほとりに湧く法師温泉と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-gunma-houshi-sarugakyo-onsen-snow-joshu-beef-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

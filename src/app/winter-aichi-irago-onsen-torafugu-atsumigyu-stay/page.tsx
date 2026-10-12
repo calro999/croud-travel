@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '愛知で過ごす冬の旅（11・12月）！伊良湖天然とらふぐと新源泉「！名宿5選',
-  description: '11月から12月、太平洋と三河湾の黒潮が交差する愛知県渥美半島の先端・伊良湖岬（田原市）は、冬の最高級美食「伊良湖天然とらふぐ」の最盛期を迎えます。',
+  description: '11月から12月、太平洋と三河湾の黒潮が交差する愛知県渥美半島の先端・伊良湖岬（田原市）は、冬の最高級美食「伊良湖天然とらふぐ」の最盛期を迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '伊良湖温泉 宿泊, 伊良湖 天然とらふぐ, 渥美牛 宿, 伊良湖岬 温泉宿, 伊良湖オーシャンリゾート, 角上楼 ふぐ, 11月 12月 愛知旅行, 渥美半島 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-aichi-irago-onsen-torafugu-atsumigyu-stay/"
   },
   openGraph: {
     title: '愛知で過ごす冬の旅（11・12月）！伊良湖天然とらふぐと新源泉「！名宿5選',
-    description: '11月から12月、太平洋と三河湾の黒潮が交差する愛知県渥美半島の先端・伊良湖岬（田原市）は、冬の最高級美食「伊良湖天然とらふぐ」の最盛期を迎えます。',
+    description: '11月から12月、太平洋と三河湾の黒潮が交差する愛知県渥美半島の先端・伊良湖岬（田原市）は、冬の最高級美食「伊良湖天然とらふぐ」の最盛期を迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-aichi-irago-onsen-torafugu-atsumigyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

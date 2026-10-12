@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月静岡：富士山本宮浅間大社新春初詣！名宿5選',
-  description: '冬の静岡・富士宮は、年間で最も空気が澄み渡り、純白の雪をまとった霊峰富士が真っ青な空に最も美しく映える奇跡のシーズン。',
+  description: '冬の静岡・富士宮は、年間で最も空気が澄み渡り、純白の雪をまとった霊峰富士が真っ青な空に最も美しく映える奇跡のシーズン。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '富士宮 ホテル, 富士山本宮浅間大社 初詣, 富士山 絶景 宿, 田貫湖 逆さ富士, 休暇村富士, 静岡そだち牛, 富士宮やきそば, 朝霧高原 冬, 11月 12月 1月 静岡 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shizuoka-fujinomiya-sengen-taisha-fuji-view-wagyu-stay/"
   },
   openGraph: {
     title: '11・12・1月静岡：富士山本宮浅間大社新春初詣！名宿5選',
-    description: '冬の静岡・富士宮は、年間で最も空気が澄み渡り、純白の雪をまとった霊峰富士が真っ青な空に最も美しく映える奇跡のシーズン。',
+    description: '冬の静岡・富士宮は、年間で最も空気が澄み渡り、純白の雪をまとった霊峰富士が真っ青な空に最も美しく映える奇跡のシーズン。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-fujinomiya-sengen-taisha-fuji-view-wagyu-stay',
     type: 'article',
     images: [{ url: 'https://images.unsplash.com/photo-1490806843957-31f4c9a91c65?auto=format&fit=crop&w=1200&q=630', width: 1200, height: 630, alt: '富士山本宮浅間大社と白雪富士山絶景' }]

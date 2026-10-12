@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '小安峡・秋の宮温泉で過ごす冬の旅（11・12月）！白い湯煙の大噴湯と渓谷初雪！名宿5選',
-  description: '11月中旬から12月の初冬を迎えた秋田県湯沢市の奥羽山脈の懐、小安峡温泉（おやすきょうおんせん）と秋の宮温泉郷（あきのみやおんせんきょう）は、注目の旅宿が揃っています。',
+  description: '11月中旬から12月の初冬を迎えた秋田県湯沢市の奥羽山脈の懐、小安峡温泉（おやすきょうおんせん）と秋の宮温泉郷（あきのみやおんせんきょう）は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '小安峡温泉 宿泊, 秋の宮温泉郷 旅館, 小安峡 大噴湯 冬, 皆瀬牛 ステーキ, 三関せり鍋 湯沢, 本場稲庭うどん 秋田, 秘湯 秋田 雪見風呂, 11月 12月 秋田旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-akita-oyasukyo-akinomiya-onsen-minasegyu-seri-stay/"
   },
   openGraph: {
     title: '小安峡・秋の宮温泉で過ごす冬の旅（11・12月）！白い湯煙の大噴湯と渓谷初雪！名宿5選',
-    description: '11月中旬から12月の初冬を迎えた秋田県湯沢市の奥羽山脈の懐、小安峡温泉（おやすきょうおんせん）と秋の宮温泉郷（あきのみやおんせんきょう）は、注目の旅宿が揃っています。',
+    description: '11月中旬から12月の初冬を迎えた秋田県湯沢市の奥羽山脈の懐、小安峡温泉（おやすきょうおんせん）と秋の宮温泉郷（あきのみやおんせんきょう）は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-akita-oyasukyo-akinomiya-onsen-minasegyu-seri-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

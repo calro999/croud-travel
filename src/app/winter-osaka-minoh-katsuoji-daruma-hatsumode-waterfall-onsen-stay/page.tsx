@@ -6,14 +6,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月大阪：勝ち運の寺「勝尾寺」新春初詣！名宿5選',
-  description: '大阪都心から電車で約30分の北摂に位置する箕面。11〜1月は晩秋の紅葉から冬の雪化粧へと移ろい。',
+  description: '大阪都心から電車で約30分の北摂に位置する箕面。11〜1月は晩秋の紅葉から冬の雪化粧へと移ろい。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '勝尾寺 初詣, 勝ちダルマ 勝尾寺, 箕面大滝 冬, 箕面大滝 氷瀑, もみじの天ぷら, 箕面温泉, 大江戸温泉物語 箕面観光ホテル, 不死王閣, 箕面萱野駅, 大阪 冬 旅行',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-osaka-minoh-katsuoji-daruma-hatsumode-waterfall-onsen-stay'
   },
   openGraph: {
     title: '11・12・1月大阪：勝ち運の寺「勝尾寺」新春初詣！名宿5選',
-    description: '大阪都心から電車で約30分の北摂に位置する箕面。11〜1月は晩秋の紅葉から冬の雪化粧へと移ろい。',
+    description: '大阪都心から電車で約30分の北摂に位置する箕面。11〜1月は晩秋の紅葉から冬の雪化粧へと移ろい。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-osaka-minoh-katsuoji-daruma-hatsumode-waterfall-onsen-stay',
     siteName: 'クラドトラベル',
     type: 'article',

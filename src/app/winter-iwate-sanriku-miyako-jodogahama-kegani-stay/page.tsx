@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月岩手：名物瓶ドン」と太平洋絶景オーシャンビュー！名宿5選',
-  description: '冬の澄み渡る群青の太平洋と白銀の奇岩美を巡る11〜1月の岩手・三陸海岸（宮古・田老・久慈）特集。国の名勝「浄土ヶ浜」の冬景色や。',
+  description: '冬の澄み渡る群青の太平洋と白銀の奇岩美を巡る11〜1月の岩手・三陸海岸（宮古・田老・久慈）特集。国の名勝「浄土ヶ浜」の冬景色や。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '浄土ヶ浜 冬, 三陸 毛ガニ 宿, 宮古 瓶ドン, 寒アワビ 岩手, 三陸復興国立公園 観光, 休暇村 陸中宮古, 浄土ヶ浜パークホテル, 三陸鉄道 こたつ列車, 宮古市 ホテル',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-iwate-sanriku-miyako-jodogahama-kegani-stay/"
   },
   openGraph: {
     title: '11・12・1月岩手：名物瓶ドン」と太平洋絶景オーシャンビュー！名宿5選',
-    description: '冬の澄み渡る群青の太平洋と白銀の奇岩美を巡る11〜1月の岩手・三陸海岸（宮古・田老・久慈）特集。国の名勝「浄土ヶ浜」の冬景色や。',
+    description: '冬の澄み渡る群青の太平洋と白銀の奇岩美を巡る11〜1月の岩手・三陸海岸（宮古・田老・久慈）特集。国の名勝「浄土ヶ浜」の冬景色や。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-iwate-sanriku-miyako-jodogahama-kegani-stay',
     type: 'article',
     images: [

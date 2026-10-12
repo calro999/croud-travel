@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '山梨・下部温泉で過ごす冬の旅（11・12月）！初冬富士山と甲州牛！名宿5選',
-  description: '11月から12月にかけて、山梨県南部・富士川の支流である下部川沿いに湯けむりを上げる「下部温泉」は、静謐な初冬の空気に包まれます。',
+  description: '11月から12月にかけて、山梨県南部・富士川の支流である下部川沿いに湯けむりを上げる「下部温泉」は、静謐な初冬の空気に包まれます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '下部温泉 旅館, 身延山久遠寺 宿泊, 下部ホテル, ホテル守田, 宿坊 山本坊, 元湯 橋本屋, 大黒屋, 武田信玄 隠し湯, ぬる湯治, 甲州牛, ほうとう, 11月 12月 山梨温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamanashi-shimobe-onsen-minobu-koshu-beef-stay/"
   },
   openGraph: {
     title: '山梨・下部温泉で過ごす冬の旅（11・12月）！初冬富士山と甲州牛！名宿5選',
-    description: '11月から12月にかけて、山梨県南部・富士川の支流である下部川沿いに湯けむりを上げる「下部温泉」は、静謐な初冬の空気に包まれます。',
+    description: '11月から12月にかけて、山梨県南部・富士川の支流である下部川沿いに湯けむりを上げる「下部温泉」は、静謐な初冬の空気に包まれます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-yamanashi-shimobe-onsen-minobu-koshu-beef-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

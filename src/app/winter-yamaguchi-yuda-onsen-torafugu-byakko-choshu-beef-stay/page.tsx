@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '山口・湯田温泉で過ごす冬の旅（11・12月）！やまぐち和牛燦！名宿5選',
-  description: '11月から12月にかけて、室町時代の雅な大内文化と幕末維新の胎動が息づく山口県山口市の「湯田温泉（ゆだおんせん）」は、注目の旅宿が揃っています。',
+  description: '11月から12月にかけて、室町時代の雅な大内文化と幕末維新の胎動が息づく山口県山口市の「湯田温泉（ゆだおんせん）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '湯田温泉 宿泊, 湯田温泉 古稀庵, 松田屋ホテル, 西の雅 常盤, ユウベルホテル松政, 防長苑, 下関 とらふぐ, やまぐち和牛 燦, 瑠璃光寺五重塔, 白狐の湯, 11月 12月 湯田温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamaguchi-yuda-onsen-torafugu-byakko-choshu-beef-stay/"
   },
   openGraph: {
     title: '山口・湯田温泉で過ごす冬の旅（11・12月）！やまぐち和牛燦！名宿5選',
-    description: '11月から12月にかけて、室町時代の雅な大内文化と幕末維新の胎動が息づく山口県山口市の「湯田温泉（ゆだおんせん）」は、注目の旅宿が揃っています。',
+    description: '11月から12月にかけて、室町時代の雅な大内文化と幕末維新の胎動が息づく山口県山口市の「湯田温泉（ゆだおんせん）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-yamaguchi-yuda-onsen-torafugu-byakko-choshu-beef-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

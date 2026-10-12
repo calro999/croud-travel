@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月宮崎：天岩戸神社初詣！名宿5選',
-  description: '11月中旬から2月上旬、神話の里・宮崎県高千穂町では、国の重要無形民俗文化財に指定されている「高千穂の夜神楽（よかぐら）」が奉納される冬の神。',
+  description: '11月中旬から2月上旬、神話の里・宮崎県高千穂町では、国の重要無形民俗文化財に指定されている「高千穂の夜神楽（よかぐら）」が奉納される冬の神。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '高千穂 夜神楽 冬, 高千穂峡 真名井の滝, 高千穂牛 宿泊, 天岩戸神社 初詣, 天安河原, 旅館 神仙, 神隠れ 高千穂, ソレスト高千穂ホテル, ホテル高千穂, ホテル グレイトフル高千穂, 11月 12月 1月 宮崎旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-miyazaki-takachiho-night-kagura-beef-onsen-stay/"
   },
   openGraph: {
     title: '11・12・1月宮崎：天岩戸神社初詣！名宿5選',
-    description: '11月中旬から2月上旬、神話の里・宮崎県高千穂町では、国の重要無形民俗文化財に指定されている「高千穂の夜神楽（よかぐら）」が奉納される冬の神。',
+    description: '11月中旬から2月上旬、神話の里・宮崎県高千穂町では、国の重要無形民俗文化財に指定されている「高千穂の夜神楽（よかぐら）」が奉納される冬の神。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-miyazaki-takachiho-night-kagura-beef-onsen-stay',
     siteName: 'クラドトラベル',
     images: [

@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '津軽で過ごす冬の旅（11・12月）！冬限定「大鰐温泉もやし」と開湯800年の名湯！名宿5選',
-  description: '11月中旬から12月の初冬、津軽富士・岩木山が白銀の雪化粧をまとい、津軽平野に凛とした冬の訪れを告げる季節。',
+  description: '11月中旬から12月の初冬、津軽富士・岩木山が白銀の雪化粧をまとい、津軽平野に凛とした冬の訪れを告げる季節。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '大鰐温泉 宿泊, 大鰐温泉もやし 宿, 津軽あっぷる牛, 弘前城 冬に咲くさくらライトアップ, 青森 ワイナリーホテル, ヤマニ仙遊館, 不二やホテル 大鰐, 11月 12月 青森温泉旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-aomori-owani-hirosaki-onsen-moyashi-tsugarugyu-stay/"
   },
   openGraph: {
     title: '津軽で過ごす冬の旅（11・12月）！冬限定「大鰐温泉もやし」と開湯800年の名湯！名宿5選',
-    description: '11月中旬から12月の初冬、津軽富士・岩木山が白銀の雪化粧をまとい、津軽平野に凛とした冬の訪れを告げる季節。',
+    description: '11月中旬から12月の初冬、津軽富士・岩木山が白銀の雪化粧をまとい、津軽平野に凛とした冬の訪れを告げる季節。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-aomori-owani-hirosaki-onsen-moyashi-tsugarugyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

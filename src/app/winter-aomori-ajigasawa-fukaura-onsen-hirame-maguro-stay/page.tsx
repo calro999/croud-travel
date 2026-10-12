@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '津軽西海岸で過ごす冬の旅（11・12月）！冬旬「鰺ヶ沢ヒラメ」！名宿5選',
-  description: '11月から12月の初冬、世界自然遺産・白神山地から吹き降ろす寒風と日本海の荒波が打ち寄せる青森県津軽西海岸（鰺ヶ沢町・深浦町）は、注目の旅宿が揃っています。',
+  description: '11月から12月の初冬、世界自然遺産・白神山地から吹き降ろす寒風と日本海の荒波が打ち寄せる青森県津軽西海岸（鰺ヶ沢町・深浦町）は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '鰺ヶ沢温泉 宿泊, 黄金崎不老ふ死温泉, 鰺ヶ沢 ヒラメのヅケ丼, 深浦マグロ 宿, ホテルグランメール山海荘, 水軍の宿 鰺ヶ沢, 11月 12月 青森西海岸, 五能線 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-aomori-ajigasawa-fukaura-onsen-hirame-maguro-stay/"
   },
   openGraph: {
     title: '津軽西海岸で過ごす冬の旅（11・12月）！冬旬「鰺ヶ沢ヒラメ」！名宿5選',
-    description: '11月から12月の初冬、世界自然遺産・白神山地から吹き降ろす寒風と日本海の荒波が打ち寄せる青森県津軽西海岸（鰺ヶ沢町・深浦町）は、注目の旅宿が揃っています。',
+    description: '11月から12月の初冬、世界自然遺産・白神山地から吹き降ろす寒風と日本海の荒波が打ち寄せる青森県津軽西海岸（鰺ヶ沢町・深浦町）は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-aomori-ajigasawa-fukaura-onsen-hirame-maguro-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
@@ -559,7 +559,7 @@ export default function AomoriAjigasawaFukauraWinterPage() {
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-teal-600 shrink-0 mt-1" />
-                  <span><strong>07:30 朝の強塩温泉露天風呂と郷土朝食：</strong>化石海水温泉の塩分でポカポカに位置し、観光拠点として親しまれています。イカメンチや貝焼き味噌で朝食。</span>
+                  <span><strong>07:30 朝の強塩温泉露天風呂と郷土朝食：</strong>化石海水温泉の塩分でポカポカに。イカメンチや貝焼き味噌で朝食。</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-teal-600 shrink-0 mt-1" />

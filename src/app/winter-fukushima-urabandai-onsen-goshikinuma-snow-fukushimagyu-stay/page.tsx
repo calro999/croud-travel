@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '裏磐梯温泉郷で過ごす冬の旅（11・12月）！極上福島牛ステーキ！名宿5選',
-  description: '11月から12月にかけて、標高約800mの磐梯高原に位置する福島県・裏磐梯温泉郷は、注目の旅宿が揃っています。',
+  description: '11月から12月にかけて、標高約800mの磐梯高原に位置する福島県・裏磐梯温泉郷は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '裏磐梯温泉 宿泊, 裏磐梯高原ホテル, 裏磐梯レイクリゾート, 猫魔離宮, 休暇村裏磐梯, 五色沼ホテル, 五色沼 雪景色, 桧原湖 ワカサギ釣り, 福島牛, 会津地鶏鍋, 11月 12月 裏磐梯',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay/"
   },
   openGraph: {
     title: '裏磐梯温泉郷で過ごす冬の旅（11・12月）！極上福島牛ステーキ！名宿5選',
-    description: '11月から12月にかけて、標高約800mの磐梯高原に位置する福島県・裏磐梯温泉郷は、注目の旅宿が揃っています。',
+    description: '11月から12月にかけて、標高約800mの磐梯高原に位置する福島県・裏磐梯温泉郷は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

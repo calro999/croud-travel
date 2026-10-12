@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '岐阜・下呂温泉で過ごす冬の旅（11・12月）！名物飛騨牛すき焼き！名宿5選',
-  description: '11月から12月にかけて、室町時代の儒学者・万里集九や江戸時代の儒学者・林羅山によって有馬・草津と並ぶ「日本三名泉」に称えられた岐阜県の下呂。',
+  description: '11月から12月にかけて、室町時代の儒学者・万里集九や江戸時代の儒学者・林羅山によって有馬・草津と並ぶ「日本三名泉」に称えられた岐阜県の下呂。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '下呂温泉 宿泊, 下呂温泉 水明館, 湯之島館, 小川屋, 紗々羅, みやこ, 飛騨牛 すき焼き, 朴葉味噌, 冬花火 下呂温泉, 美肌の湯, 11月 12月 下呂温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-gifu-gero-onsen-hidagyu-bihada-hanabi-stay/"
   },
   openGraph: {
     title: '岐阜・下呂温泉で過ごす冬の旅（11・12月）！名物飛騨牛すき焼き！名宿5選',
-    description: '11月から12月にかけて、室町時代の儒学者・万里集九や江戸時代の儒学者・林羅山によって有馬・草津と並ぶ「日本三名泉」に称えられた岐阜県の下呂。',
+    description: '11月から12月にかけて、室町時代の儒学者・万里集九や江戸時代の儒学者・林羅山によって有馬・草津と並ぶ「日本三名泉」に称えられた岐阜県の下呂。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-gifu-gero-onsen-hidagyu-bihada-hanabi-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

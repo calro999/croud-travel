@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '会津芦ノ牧温泉で過ごす冬の旅（11・12月）！会津馬刺し！名宿5選',
-  description: '11月から12月にかけて福島県・会津若松の奥座敷「会津芦ノ牧温泉」は、大川（阿賀川）が何万年もの歳月をかけて刻んだ深い渓谷美「大川羽鳥県立自。',
+  description: '11月から12月にかけて福島県・会津若松の奥座敷「会津芦ノ牧温泉」は、大川（阿賀川）が何万年もの歳月をかけて刻んだ深い渓谷美「大川羽鳥県立自。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '芦ノ牧温泉 宿泊, 会津 芦ノ牧 温泉 11月 12月, 大川荘, 丸峰観光ホテル, 仙峡閣, 芦ノ牧グランドホテル, 芦ノ牧プリンスホテル, 会津馬刺し 宿, 会津牛, 大川渓谷 雪景色',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukushima-ashinomaki-onsen-okawa-valley-snow-stay/"
   },
   openGraph: {
     title: '会津芦ノ牧温泉で過ごす冬の旅（11・12月）！会津馬刺し！名宿5選',
-    description: '11月から12月にかけて福島県・会津若松の奥座敷「会津芦ノ牧温泉」は、大川（阿賀川）が何万年もの歳月をかけて刻んだ深い渓谷美「大川羽鳥県立自。',
+    description: '11月から12月にかけて福島県・会津若松の奥座敷「会津芦ノ牧温泉」は、大川（阿賀川）が何万年もの歳月をかけて刻んだ深い渓谷美「大川羽鳥県立自。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-fukushima-ashinomaki-onsen-okawa-valley-snow-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',

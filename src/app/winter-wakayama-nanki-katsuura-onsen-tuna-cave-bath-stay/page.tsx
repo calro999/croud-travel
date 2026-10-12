@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '南紀勝浦温泉で過ごす冬の旅（11・12月）！勝浦港直送生マグロ尽くし！名宿5選',
-  description: '11月から12月にかけて和歌山県・紀伊半島の南端に位置する勝浦温泉は、澄み切った太平洋の水平線から昇る朝日の絶景と。',
+  description: '11月から12月にかけて和歌山県・紀伊半島の南端に位置する勝浦温泉は、澄み切った太平洋の水平線から昇る朝日の絶景と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '南紀勝浦温泉 宿泊, 勝浦温泉 11月 12月, 勝浦 忘帰洞 ホテル浦島, 熊野別邸 中の島, ホテルなぎさや, 休暇村南紀勝浦, 万清楼, 勝浦 生マグロ 宿, 熊野牛 ステーキ, 熊野古道 那智の滝 旅',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-wakayama-nanki-katsuura-onsen-tuna-cave-bath-stay/",
   },
   openGraph: {
     title: '南紀勝浦温泉で過ごす冬の旅（11・12月）！勝浦港直送生マグロ尽くし！名宿5選',
-    description: '11月から12月にかけて和歌山県・紀伊半島の南端に位置する勝浦温泉は、澄み切った太平洋の水平線から昇る朝日の絶景と。',
+    description: '11月から12月にかけて和歌山県・紀伊半島の南端に位置する勝浦温泉は、澄み切った太平洋の水平線から昇る朝日の絶景と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-wakayama-nanki-katsuura-onsen-tuna-cave-bath-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',

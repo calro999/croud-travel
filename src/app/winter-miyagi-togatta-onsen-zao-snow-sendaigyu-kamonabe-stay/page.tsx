@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '遠刈田温泉で過ごす冬の旅（11・12月）！初冠雪の蔵王連峰を望む開湯400年の名湯！名宿5選',
-  description: '11月中旬から12月の初冬を迎えた宮城蔵王の山麓、遠刈田温泉（とおがったおんせん）は、刈田岳や御釜周辺が白銀の初冠雪をまとい。',
+  description: '11月中旬から12月の初冬を迎えた宮城蔵王の山麓、遠刈田温泉（とおがったおんせん）は、刈田岳や御釜周辺が白銀の初冠雪をまとい。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '遠刈田温泉 宿泊, 宮城蔵王 温泉, 蔵王鴨せり鍋 旅館, A5仙台牛 ステーキ, 遠刈田こけし 観光, 蔵王 連峰 初冠雪, 硫酸塩泉 美肌湯, 11月 12月 宮城旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-miyagi-togatta-onsen-zao-snow-sendaigyu-kamonabe-stay/"
   },
   openGraph: {
     title: '遠刈田温泉で過ごす冬の旅（11・12月）！初冠雪の蔵王連峰を望む開湯400年の名湯！名宿5選',
-    description: '11月中旬から12月の初冬を迎えた宮城蔵王の山麓、遠刈田温泉（とおがったおんせん）は、刈田岳や御釜周辺が白銀の初冠雪をまとい。',
+    description: '11月中旬から12月の初冬を迎えた宮城蔵王の山麓、遠刈田温泉（とおがったおんせん）は、刈田岳や御釜周辺が白銀の初冠雪をまとい。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-miyagi-togatta-onsen-zao-snow-sendaigyu-kamonabe-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

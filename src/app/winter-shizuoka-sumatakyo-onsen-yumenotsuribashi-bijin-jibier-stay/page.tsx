@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月静岡：南アルプス秘境「夢の吊橋」冬！名宿5選',
-  description: '11月から1月、静岡県川根本町の奥大井・寸又峡は、大間ダム湖が年間で最も冴え渡るミルキーブルーに輝く「夢の吊橋」の絶景シーズン。',
+  description: '11月から1月、静岡県川根本町の奥大井・寸又峡は、大間ダム湖が年間で最も冴え渡るミルキーブルーに輝く「夢の吊橋」の絶景シーズン。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '夢の吊橋, 寸又峡温泉, 美女づくりの湯, 翠紅苑, 川根温泉ホテル, 湯屋飛龍の宿, 奥大井湖上駅, 大井川鐵道, 猪鍋, 11月 12月 1月 静岡旅行, 川根本町',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shizuoka-sumatakyo-onsen-yumenotsuribashi-bijin-jibier-stay/"
   },
   openGraph: {
     title: '11・12・1月静岡：南アルプス秘境「夢の吊橋」冬！名宿5選',
-    description: '11月から1月、静岡県川根本町の奥大井・寸又峡は、大間ダム湖が年間で最も冴え渡るミルキーブルーに輝く「夢の吊橋」の絶景シーズン。',
+    description: '11月から1月、静岡県川根本町の奥大井・寸又峡は、大間ダム湖が年間で最も冴え渡るミルキーブルーに輝く「夢の吊橋」の絶景シーズン。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-sumatakyo-onsen-yumenotsuribashi-bijin-jibier-stay',
     siteName: 'クラドトラベル',
     images: [

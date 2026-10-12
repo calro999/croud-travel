@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '鹿児島・妙見温泉で過ごす冬の旅（11・12月）！極上鹿児島黒豚しゃぶしゃぶと！名宿5選',
-  description: '11月から12月にかけて、霧島連山の麓を流れる清流・天降川（あもりがわ）沿いに湯けむりを上げる「妙見温泉」は、注目の旅宿が揃っています。',
+  description: '11月から12月にかけて、霧島連山の麓を流れる清流・天降川（あもりがわ）沿いに湯けむりを上げる「妙見温泉」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '妙見温泉 旅館, 妙見石原荘, 鳥遊ぶ森の宿 ふたり静, きらく温泉, 田島本館, 妙見温泉 ねむ, 自噴炭酸泉, 天降川 露天風呂, 鹿児島黒豚しゃぶしゃぶ, 鹿児島黒牛, 11月 12月 鹿児島温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kagoshima-myoken-onsen-amorigawa-black-pork-stay/"
   },
   openGraph: {
     title: '鹿児島・妙見温泉で過ごす冬の旅（11・12月）！極上鹿児島黒豚しゃぶしゃぶと！名宿5選',
-    description: '11月から12月にかけて、霧島連山の麓を流れる清流・天降川（あもりがわ）沿いに湯けむりを上げる「妙見温泉」は、注目の旅宿が揃っています。',
+    description: '11月から12月にかけて、霧島連山の麓を流れる清流・天降川（あもりがわ）沿いに湯けむりを上げる「妙見温泉」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-kagoshima-myoken-onsen-amorigawa-black-pork-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

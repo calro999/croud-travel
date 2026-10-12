@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月徳島：日本三大秘境！名宿5選',
-  description: '11月晩秋の紅葉から12月・1月の白銀の世界へと移り変わる徳島県・祖谷渓谷（いやけいこく）。岐阜県の白川郷。',
+  description: '11月晩秋の紅葉から12月・1月の白銀の世界へと移り変わる徳島県・祖谷渓谷（いやけいこく）。岐阜県の白川郷。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '祖谷のかずら橋 冬, 祖谷温泉 宿泊, ホテル祖谷温泉 ケーブルカー, 大歩危峡まんなか, ホテルかずら橋, サンリバー大歩危, ホテル秘境の湯, 大歩危 こたつ舟, 阿波尾鶏, 祖谷そば, 11月 12月 1月 徳島旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tokushima-iya-valley-kazurabashi-snow-onsen-stay/"
   },
   openGraph: {
     title: '11・12・1月徳島：日本三大秘境！名宿5選',
-    description: '11月晩秋の紅葉から12月・1月の白銀の世界へと移り変わる徳島県・祖谷渓谷（いやけいこく）。岐阜県の白川郷。',
+    description: '11月晩秋の紅葉から12月・1月の白銀の世界へと移り変わる徳島県・祖谷渓谷（いやけいこく）。岐阜県の白川郷。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-tokushima-iya-valley-kazurabashi-snow-onsen-stay',
     siteName: 'クラドトラベル',
     images: [

@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月長野：中山道！名宿5選',
-  description: '11月から1月、信州・木曽路（中山道）は、日本最長の宿場町「奈良井宿」や重要伝統的建造物群保存地区「妻籠宿」の木造千本格子に純白の雪が降り積もり。',
+  description: '11月から1月、信州・木曽路（中山道）は、日本最長の宿場町「奈良井宿」や重要伝統的建造物群保存地区「妻籠宿」の木造千本格子に純白の雪が降り積もり。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '木曽路 冬, 奈良井宿 雪景色, 妻籠宿, 投じ蕎麦, すんき鍋, ＢＹＡＫＵ Ｎａｒａｉ, 木曽路の宿いわや, ＴＡＯＹＡ木曽路, 木曽牛, 木曽温泉, 11月 12月 1月 長野旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagano-kisoji-narai-tsumago-snow-toujisoba-stay/"
   },
   openGraph: {
     title: '11・12・1月長野：中山道！名宿5選',
-    description: '11月から1月、信州・木曽路（中山道）は、日本最長の宿場町「奈良井宿」や重要伝統的建造物群保存地区「妻籠宿」の木造千本格子に純白の雪が降り積もり。',
+    description: '11月から1月、信州・木曽路（中山道）は、日本最長の宿場町「奈良井宿」や重要伝統的建造物群保存地区「妻籠宿」の木造千本格子に純白の雪が降り積もり。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-nagano-kisoji-narai-tsumago-snow-toujisoba-stay',
     siteName: 'クラドトラベル',
     images: [

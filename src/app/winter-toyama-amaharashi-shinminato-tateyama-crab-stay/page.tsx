@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月富山：氷見寒ブリ！名宿5選',
-  description: '11月から1月、富山湾沿岸（高岡・雨晴・射水新湊・富山市街）は、世界でも稀少な海越しに冠雪した標高3000m級立山連峰が浮かび上がる奇跡の冬絶景と。',
+  description: '11月から1月、富山湾沿岸（高岡・雨晴・射水新湊・富山市街）は、世界でも稀少な海越しに冠雪した標高3000m級立山連峰が浮かび上がる奇跡の冬絶景と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '雨晴海岸 立山連峰 冬, 新湊 昼セリ カニ, 氷見 寒ブリ, 富山湾鮨, 雨晴温泉 磯はなび, リバーリトリート雅樂倶, ホテルニューオータニ高岡, 御宿野乃富山, 第一イン新湊, 11月 12月 1月 富山旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-toyama-amaharashi-shinminato-tateyama-crab-stay/"
   },
   openGraph: {
     title: '11・12・1月富山：氷見寒ブリ！名宿5選',
-    description: '11月から1月、富山湾沿岸（高岡・雨晴・射水新湊・富山市街）は、世界でも稀少な海越しに冠雪した標高3000m級立山連峰が浮かび上がる奇跡の冬絶景と。',
+    description: '11月から1月、富山湾沿岸（高岡・雨晴・射水新湊・富山市街）は、世界でも稀少な海越しに冠雪した標高3000m級立山連峰が浮かび上がる奇跡の冬絶景と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-toyama-amaharashi-shinminato-tateyama-crab-stay',
     siteName: 'クラドトラベル',
     images: [

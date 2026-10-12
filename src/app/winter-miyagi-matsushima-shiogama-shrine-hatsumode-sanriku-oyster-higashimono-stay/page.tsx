@@ -7,14 +7,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月宮城：陸奥総鎮守「鹽竈神社」新春初！名宿5選',
-  description: '芭蕉も心奪われた日本三景・松島と、千二百年の歴史を刻む陸奥国一ノ宮・塩竈を巡る11〜1月の冬紀行。伊達政宗ゆかりの国宝「瑞巌寺」や五大堂が白。',
+  description: '芭蕉も心奪われた日本三景・松島と、千二百年の歴史を刻む陸奥国一ノ宮・塩竈を巡る11〜1月の冬紀行。伊達政宗ゆかりの国宝「瑞巌寺」や五大堂が白。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '鹽竈神社 初詣, 松島 雪景色, 松島かき 冬, 塩竈ひがしもの 鮪, 瑞巌寺 雪, 松島一の坊, 松島大観荘, 松島温泉 絶景宿, 宮城 冬旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-miyagi-matsushima-shiogama-shrine-hatsumode-sanriku-oyster-higashimono-stay/"
   },
   openGraph: {
     title: '11・12・1月宮城：陸奥総鎮守「鹽竈神社」新春初！名宿5選',
-    description: '芭蕉も心奪われた日本三景・松島と、千二百年の歴史を刻む陸奥国一ノ宮・塩竈を巡る11〜1月の冬紀行。伊達政宗ゆかりの国宝「瑞巌寺」や五大堂が白。',
+    description: '芭蕉も心奪われた日本三景・松島と、千二百年の歴史を刻む陸奥国一ノ宮・塩竈を巡る11〜1月の冬紀行。伊達政宗ゆかりの国宝「瑞巌寺」や五大堂が白。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-miyagi-matsushima-shiogama-shrine-hatsumode-sanriku-oyster-higashimono-stay',
     type: 'article',
     images: [
@@ -406,7 +406,7 @@ export default function MiyagiMatsushimaWinterPage() {
 
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm md:text-base">
             <p>
-              日本有数のリアス式海岸と豊かな森からの栄養塩が注ぎ込む三陸の海を一望できる絶景宿が人気です。その南端に位置する松島湾は、古くから日本を代表する真牡蠣（マガキ）の養殖場として知られています。松島の牡蠣漁は秋に始まりますが、海水温が下がり本格的な冬を迎える12月から1月、2月にかけて、牡蠣の身はグリコーゲンをたっぷりと蓄えて丸々と太り、旨味のピークに達します。
+              日本有数のリアス式海岸と豊かな森からの栄養塩が注ぎ込む三陸の海。その南端に位置する松島湾は、古くから日本を代表する真牡蠣（マガキ）の養殖場として知られています。松島の牡蠣漁は秋に始まりますが、海水温が下がり本格的な冬を迎える12月から1月、2月にかけて、牡蠣の身はグリコーゲンをたっぷりと蓄えて丸々と太り、旨味のピークに達します。
             </p>
             <p>
               松島海岸の「かき小屋」で鉄板の上に山盛りにされた殻付き牡蠣をスコップで豪快に蒸し焼きにすれば、殻が開いた瞬間に磯の香りの白い湯気が立ち込めます。熱々の殻からプリプリの身を取り出し口に運べば、濃厚なエキスのジュースが弾け、芳醇な海のミルクの甘みが口いっぱいに広がります。炭火焼きや熱々の牡蠣鍋、牡蠣フライ、牡蠣ご飯と、冬の松島はまさに牡蠣好きの天国です。
@@ -422,7 +422,7 @@ export default function MiyagiMatsushimaWinterPage() {
                 <Flame className="w-4 h-4 text-amber-700" /> 松島牡蠣の冬の贅沢
               </h3>
               <ul className="text-xs text-slate-600 space-y-1.5 leading-relaxed">
-                <li>・<strong>蒸し焼き牡蠣：</strong>鉄板の蒸気で旨味を閉じ込めたプリプリの身。レモン汁でシンプルに位置し、観光拠点として親しまれています。</li>
+                <li>・<strong>蒸し焼き牡蠣：</strong>鉄板の蒸気で旨味を閉じ込めたプリプリの身。レモン汁でシンプルに。</li>
                 <li>・<strong>仙台味噌牡蠣鍋：</strong>コク深い仙台赤味噌と牡蠣のエキスが根菜に染み渡る熱々鍋。</li>
                 <li>・<strong>牡蠣釜飯：</strong>宮城米「ひとめぼれ」に牡蠣の出汁が染み込んだ至福の炊き込みご飯。</li>
               </ul>
@@ -434,7 +434,7 @@ export default function MiyagiMatsushimaWinterPage() {
               <ul className="text-xs text-slate-600 space-y-1.5 leading-relaxed">
                 <li>・<strong>三陸塩竈ひがしもの握り：</strong>ねっとりとした極上中トロと赤身の食べ比べ寿司。</li>
                 <li>・<strong>仙台牛A5ステーキ：</strong>香ばしく焼き上げた最高級霜降りとワサビ醤油の絶品コンビ。</li>
-                <li>・<strong>宮城の銘酒ペアリング：</strong>塩竈の地酒「浦霞」「一ノ蔵」のキレのある辛口とともに位置し、観光拠点として親しまれています。</li>
+                <li>・<strong>宮城の銘酒ペアリング：</strong>塩竈の地酒「浦霞」「一ノ蔵」のキレのある辛口とともに。</li>
               </ul>
             </div>
           </div>

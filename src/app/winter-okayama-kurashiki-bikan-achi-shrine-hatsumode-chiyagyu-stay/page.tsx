@@ -6,14 +6,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月岡山：倉敷総鎮守「阿智神社」新春初詣！名宿5選',
-  description: '江戸情緒を色濃く残す白壁の蔵屋敷となまこ壁の町並み！11〜1月は柳並木の倉敷川沿いがしっとりとした静寂に包まれ。',
+  description: '江戸情緒を色濃く残す白壁の蔵屋敷となまこ壁の町並み！11〜1月は柳並木の倉敷川沿いがしっとりとした静寂に包まれ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '倉敷美観地区 冬, 倉敷美観地区 ライトアップ, 阿智神社 初詣, 下津井タコ, 千屋牛 ステーキ, 倉敷アイビースクエア, ドーミーイン倉敷, ロイヤルパークホテル倉敷, 岡山ばら寿司, 倉敷 冬 旅行',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-okayama-kurashiki-bikan-achi-shrine-hatsumode-chiyagyu-stay'
   },
   openGraph: {
     title: '11・12・1月岡山：倉敷総鎮守「阿智神社」新春初詣！名宿5選',
-    description: '江戸情緒を色濃く残す白壁の蔵屋敷となまこ壁の町並み！11〜1月は柳並木の倉敷川沿いがしっとりとした静寂に包まれ。',
+    description: '江戸情緒を色濃く残す白壁の蔵屋敷となまこ壁の町並み！11〜1月は柳並木の倉敷川沿いがしっとりとした静寂に包まれ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-okayama-kurashiki-bikan-achi-shrine-hatsumode-chiyagyu-stay',
     siteName: 'クラドトラベル',
     type: 'article',

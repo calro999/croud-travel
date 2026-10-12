@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '松之山温泉で過ごす冬の旅（11・12月）！日本三大薬湯の自噴化石海水と！名宿5選',
-  description: '11月下旬から12月にかけて、日本有数の豪雪地帯である新潟県十日町市・越後松之山の山峡は、静寂と降り積もる白銀の雪に包まれます。',
+  description: '11月下旬から12月にかけて、日本有数の豪雪地帯である新潟県十日町市・越後松之山の山峡は、静寂と降り積もる白銀の雪に包まれます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '松之山温泉 旅館, ひなの宿 ちとせ, 酒の宿 玉城屋, 凌雲閣, 白川屋, 醸す森, 日本三大薬湯, 美人林 雪景色, 妻有ポーク, 魚沼コシヒカリ, 11月 12月 新潟温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-niigata-matsunoyama-onsen-yakuto-snow-tsumari-pork-stay/"
   },
   openGraph: {
     title: '松之山温泉で過ごす冬の旅（11・12月）！日本三大薬湯の自噴化石海水と！名宿5選',
-    description: '11月下旬から12月にかけて、日本有数の豪雪地帯である新潟県十日町市・越後松之山の山峡は、静寂と降り積もる白銀の雪に包まれます。',
+    description: '11月下旬から12月にかけて、日本有数の豪雪地帯である新潟県十日町市・越後松之山の山峡は、静寂と降り積もる白銀の雪に包まれます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-niigata-matsunoyama-onsen-yakuto-snow-tsumari-pork-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

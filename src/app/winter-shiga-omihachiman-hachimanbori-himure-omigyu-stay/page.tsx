@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月滋賀：日本三大和牛「近江牛」極上すき焼き！名宿5選',
-  description: '白壁土蔵が立ち並ぶ八幡堀の風情ある雪景色と、近江商人の守護神「日牟禮八幡宮」での新春初詣を巡る11〜1月の滋賀・近江八幡＆東近江・安土特集。',
+  description: '白壁土蔵が立ち並ぶ八幡堀の風情ある雪景色と、近江商人の守護神「日牟禮八幡宮」での新春初詣を巡る11〜1月の滋賀・近江八幡＆東近江・安土特集。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '近江八幡 八幡堀 雪景色, 日牟禮八幡宮 初詣, 近江牛 宿 滋賀, 休暇村 近江八幡, 近江八幡 温泉 旅館, 安土城跡 冬, 赤こんにゃく 近江八幡, 11月 12月 1月 滋賀 旅行, ホテルニューオウミ',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shiga-omihachiman-hachimanbori-himure-omigyu-stay/"
   },
   openGraph: {
     title: '11・12・1月滋賀：日本三大和牛「近江牛」極上すき焼き！名宿5選',
-    description: '白壁土蔵が立ち並ぶ八幡堀の風情ある雪景色と、近江商人の守護神「日牟禮八幡宮」での新春初詣を巡る11〜1月の滋賀・近江八幡＆東近江・安土特集。',
+    description: '白壁土蔵が立ち並ぶ八幡堀の風情ある雪景色と、近江商人の守護神「日牟禮八幡宮」での新春初詣を巡る11〜1月の滋賀・近江八幡＆東近江・安土特集。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-shiga-omihachiman-hachimanbori-himure-omigyu-stay',
     type: 'article',
     images: [

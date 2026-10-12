@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月奈良：極上大和牛を味わう隠れ！名宿5選',
-  description: '11月から1月、奈良県吉野郡天川村・大峯山（八経ヶ岳・山上ヶ岳）の麓に位置する「洞川温泉（どろがわおんせん）」は、注目の旅宿が揃っています。',
+  description: '11月から1月、奈良県吉野郡天川村・大峯山（八経ヶ岳・山上ヶ岳）の麓に位置する「洞川温泉（どろがわおんせん）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '洞川温泉 宿泊, 洞川温泉 ぼたん鍋, 洞川温泉 雪景色, 角甚 洞川, 花屋徳兵衛 洞川, ごろごろ水 天川村, 大和牛 宿, 11月 12月 1月 奈良旅行, 陀羅尼助丸',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nara-dorogawa-onsen-snow-botannabe-stay/"
   },
   openGraph: {
     title: '11・12・1月奈良：極上大和牛を味わう隠れ！名宿5選',
-    description: '11月から1月、奈良県吉野郡天川村・大峯山（八経ヶ岳・山上ヶ岳）の麓に位置する「洞川温泉（どろがわおんせん）」は、注目の旅宿が揃っています。',
+    description: '11月から1月、奈良県吉野郡天川村・大峯山（八経ヶ岳・山上ヶ岳）の麓に位置する「洞川温泉（どろがわおんせん）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-nara-dorogawa-onsen-snow-botannabe-stay',
     siteName: 'クラドトラベル',
     images: [
@@ -420,7 +420,7 @@ export default function NaraDorogawaOnsenPage() {
                 </li>
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-red-600 shrink-0 mt-1" />
-                  <span><strong>17:30 夕暮れの赤提灯散策：</strong>各宿の軒先に吊るされた提灯が一斉に灯り、雪の街並みが息を呑むほど幻想的に位置し、観光拠点として親しまれています。</span>
+                  <span><strong>17:30 夕暮れの赤提灯散策：</strong>各宿の軒先に吊るされた提灯が一斉に灯り、雪の街並みが息を呑むほど幻想的に。</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-red-600 shrink-0 mt-1" />

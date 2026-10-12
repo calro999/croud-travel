@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '乳頭温泉郷で過ごす冬の旅（11・12月）！名物きりたんぽ鍋！名宿5選',
-  description: '11月から12月にかけて、十和田八幡平国立公園の乳頭山麓に抱かれた秋田県仙北市の「乳頭温泉郷（にゅうとうおんせんきょう）」は、注目の旅宿が揃っています。',
+  description: '11月から12月にかけて、十和田八幡平国立公園の乳頭山麓に抱かれた秋田県仙北市の「乳頭温泉郷（にゅうとうおんせんきょう）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '乳頭温泉郷 宿泊, 乳頭温泉 宿, 休暇村 乳頭温泉郷, 田沢湖レイクリゾート, 大釜温泉, セルリアンリゾートAONI, 駒ヶ岳温泉, きりたんぽ鍋, 比内地鶏, 鶴の湯 送迎, 11月 12月 乳頭温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-akita-nyuto-onsen-yukimi-kiritanpo-hinaijidori-stay/"
   },
   openGraph: {
     title: '乳頭温泉郷で過ごす冬の旅（11・12月）！名物きりたんぽ鍋！名宿5選',
-    description: '11月から12月にかけて、十和田八幡平国立公園の乳頭山麓に抱かれた秋田県仙北市の「乳頭温泉郷（にゅうとうおんせんきょう）」は、注目の旅宿が揃っています。',
+    description: '11月から12月にかけて、十和田八幡平国立公園の乳頭山麓に抱かれた秋田県仙北市の「乳頭温泉郷（にゅうとうおんせんきょう）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-akita-nyuto-onsen-yukimi-kiritanpo-hinaijidori-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月鳥取：山陰松葉ガニ解禁！名宿5選',
-  description: '11月6日の松葉ガニ漁解禁とともに、山陰・鳥取県は年間で最も美食と活気に満ちる冬の黄金期を迎えます。日本屈指のズワイガニ水揚げ量を誇る境港で、ゆったりとした時間を過ごせます。',
+  description: '11月6日の松葉ガニ漁解禁とともに、山陰・鳥取県は年間で最も美食と活気に満ちる冬の黄金期を迎えます。日本屈指のズワイガニ水揚げ量を誇る境港で。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '松葉ガニ 解禁 鳥取, 境港 松葉ガニ, 皆生温泉 蟹 宿泊, 水木しげるロード 冬, 皆生菊乃家, 湯喜望 白扇, 皆生温泉 華水亭, 御宿 野乃 境港, 皆生つるや, 大山 雪景色, 11月 12月 1月 鳥取旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tottori-sakaiminato-kaike-onsen-matsubagani-stay/"
   },
   openGraph: {
     title: '11・12・1月鳥取：山陰松葉ガニ解禁！名宿5選',
-    description: '11月6日の松葉ガニ漁解禁とともに、山陰・鳥取県は年間で最も美食と活気に満ちる冬の黄金期を迎えます。日本屈指のズワイガニ水揚げ量を誇る境港で、ゆったりとした時間を過ごせます。',
+    description: '11月6日の松葉ガニ漁解禁とともに、山陰・鳥取県は年間で最も美食と活気に満ちる冬の黄金期を迎えます。日本屈指のズワイガニ水揚げ量を誇る境港で。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-tottori-sakaiminato-kaike-onsen-matsubagani-stay',
     siteName: 'クラドトラベル',
     images: [

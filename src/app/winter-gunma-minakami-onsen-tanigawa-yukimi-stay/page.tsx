@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: 'みなかみ温泉郷で過ごす冬の旅（11・12月）！利根川渓谷露天と谷川岳初冠雪！名宿5選',
-  description: '11月下旬から12月にかけて谷川連峰が白銀の初冠雪を纏い、利根川源流の渓谷に初冬の静寂が広がる群馬「みなかみ温泉郷」。',
+  description: '11月下旬から12月にかけて谷川連峰が白銀の初冠雪を纏い、利根川源流の渓谷に初冬の静寂が広がる群馬「みなかみ温泉郷」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: 'みなかみ温泉 宿泊, 水上温泉 11月 12月, 松乃井 大江戸温泉, 別邸 仙寿庵, 宝川温泉 汪泉閣, あらたし みなかみ, みなかみホテルジュラク, 谷川岳 雪見露天風呂, 上州牛 すき焼き, 利根川 渓谷 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-gunma-minakami-onsen-tanigawa-yukimi-stay/",
   },
   openGraph: {
     title: 'みなかみ温泉郷で過ごす冬の旅（11・12月）！利根川渓谷露天と谷川岳初冠雪！名宿5選',
-    description: '11月下旬から12月にかけて谷川連峰が白銀の初冠雪を纏い、利根川源流の渓谷に初冬の静寂が広がる群馬「みなかみ温泉郷」。',
+    description: '11月下旬から12月にかけて谷川連峰が白銀の初冠雪を纏い、利根川源流の渓谷に初冬の静寂が広がる群馬「みなかみ温泉郷」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-gunma-minakami-onsen-tanigawa-yukimi-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',

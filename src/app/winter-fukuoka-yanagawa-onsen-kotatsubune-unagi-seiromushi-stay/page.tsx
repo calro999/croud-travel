@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '福岡・水郷柳川で過ごす冬の旅（11・12月）！博多和牛会席を味わう城下町！名宿5選',
-  description: '11月から12月にかけて、北原白秋の故郷として知られる水郷・福岡県柳川は、どんこ舟に温かい火鉢やこたつを乗せた冬の風物詩「こたつ舟」が運航を開始し。',
+  description: '11月から12月にかけて、北原白秋の故郷として知られる水郷・福岡県柳川は、どんこ舟に温かい火鉢やこたつを乗せた冬の風物詩「こたつ舟」が運航を開始し。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '柳川温泉 宿泊, 柳川藩主立花邸御花, 亀の井ホテル柳川, ホテルニューガイア柳川, 柳川白柳荘, 輝泉荘, こたつ舟 川下り, うなぎのせいろ蒸し, 11月 12月 柳川, 博多和牛',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukuoka-yanagawa-onsen-kotatsubune-unagi-seiromushi-stay/"
   },
   openGraph: {
     title: '福岡・水郷柳川で過ごす冬の旅（11・12月）！博多和牛会席を味わう城下町！名宿5選',
-    description: '11月から12月にかけて、北原白秋の故郷として知られる水郷・福岡県柳川は、どんこ舟に温かい火鉢やこたつを乗せた冬の風物詩「こたつ舟」が運航を開始し。',
+    description: '11月から12月にかけて、北原白秋の故郷として知られる水郷・福岡県柳川は、どんこ舟に温かい火鉢やこたつを乗せた冬の風物詩「こたつ舟」が運航を開始し。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-fukuoka-yanagawa-onsen-kotatsubune-unagi-seiromushi-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

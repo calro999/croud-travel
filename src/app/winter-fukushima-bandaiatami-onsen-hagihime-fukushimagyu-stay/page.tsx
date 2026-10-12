@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '磐梯熱海温泉で過ごす冬の旅（11・12月）！萩姫伝説の美肌ぬる湯！名宿5選',
-  description: '11月から12月にかけて、福島県の中央部・郡山市の奥座敷として清流五百川（ごひゃくがわ）沿いに広がる「磐梯熱海温泉（ばんだいあたみおんせん）」は、注目の旅宿が揃っています。',
+  description: '11月から12月にかけて、福島県の中央部・郡山市の奥座敷として清流五百川（ごひゃくがわ）沿いに広がる「磐梯熱海温泉（ばんだいあたみおんせん）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '磐梯熱海温泉 旅館, ホテル華の湯, 四季彩 一力, 守田屋, よもぎ埜, 栄楽館, 萩姫伝説, 美肌ぬる湯, 福島牛, 猪苗代湖 白鳥, 11月 12月 福島温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukushima-bandaiatami-onsen-hagihime-fukushimagyu-stay/"
   },
   openGraph: {
     title: '磐梯熱海温泉で過ごす冬の旅（11・12月）！萩姫伝説の美肌ぬる湯！名宿5選',
-    description: '11月から12月にかけて、福島県の中央部・郡山市の奥座敷として清流五百川（ごひゃくがわ）沿いに広がる「磐梯熱海温泉（ばんだいあたみおんせん）」は、注目の旅宿が揃っています。',
+    description: '11月から12月にかけて、福島県の中央部・郡山市の奥座敷として清流五百川（ごひゃくがわ）沿いに広がる「磐梯熱海温泉（ばんだいあたみおんせん）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-fukushima-bandaiatami-onsen-hagihime-fukushimagyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '愛媛・道後温泉で過ごす冬の旅（11・12月）！名物宇和島鯛めし！名宿5選',
-  description: '11月から12月にかけて、三千年の歴史を誇り『日本書紀』や『万葉集』にも記された日本三古湯の筆頭「愛媛・道後温泉（どうごおんせん）」は、注目の旅宿が揃っています。',
+  description: '11月から12月にかけて、三千年の歴史を誇り『日本書紀』や『万葉集』にも記された日本三古湯の筆頭「愛媛・道後温泉（どうごおんせん）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '道後温泉 宿泊, 茶玻瑠, 道後舘, ふなや, 大和屋本店, 古湧園遥, 宇和島鯛めし, 伊予牛, 道後温泉本館 全館営業再開, 11月 12月 道後温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay/"
   },
   openGraph: {
     title: '愛媛・道後温泉で過ごす冬の旅（11・12月）！名物宇和島鯛めし！名宿5選',
-    description: '11月から12月にかけて、三千年の歴史を誇り『日本書紀』や『万葉集』にも記された日本三古湯の筆頭「愛媛・道後温泉（どうごおんせん）」は、注目の旅宿が揃っています。',
+    description: '11月から12月にかけて、三千年の歴史を誇り『日本書紀』や『万葉集』にも記された日本三古湯の筆頭「愛媛・道後温泉（どうごおんせん）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

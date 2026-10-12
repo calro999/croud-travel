@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月香川：屋島寺新春初詣！名宿5選',
-  description: '冬の香川・高松は、一歩一景の美を誇る国の特別名勝「栗林公園」が静寂と凛とした風情に包まれる特別な季節。',
+  description: '冬の香川・高松は、一歩一景の美を誇る国の特別名勝「栗林公園」が静寂と凛とした風情に包まれる特別な季節。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '高松 ホテル, 栗林公園 冬, オリーブハマチ, オリーブ牛 すき焼き, 屋島寺 初詣, JRホテルクレメント高松, HOTEL花樹海, しっぽくうどん, 11月 12月 1月 香川 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kagawa-takamatsu-ritsurin-yashima-olive-hamachi-udon-stay/"
   },
   openGraph: {
     title: '11・12・1月香川：屋島寺新春初詣！名宿5選',
-    description: '冬の香川・高松は、一歩一景の美を誇る国の特別名勝「栗林公園」が静寂と凛とした風情に包まれる特別な季節。',
+    description: '冬の香川・高松は、一歩一景の美を誇る国の特別名勝「栗林公園」が静寂と凛とした風情に包まれる特別な季節。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-kagawa-takamatsu-ritsurin-yashima-olive-hamachi-udon-stay',
     type: 'article',
     images: [{ url: 'https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=630', width: 1200, height: 630, alt: '特別名勝栗林公園の冬景色とオリーブハマチ・オリーブ牛会席' }]
@@ -323,7 +323,7 @@ export default function KagawaTakamatsuYashimaPage() {
               <span className="inline-block px-3 py-1 bg-amber-500/20 text-amber-300 text-xs font-bold rounded-md">11月（初冬）</span>
               <h3 className="font-bold text-white text-base">栗林公園秋のライトアップとオリーブ収穫</h3>
               <p className="text-xs sm:text-sm text-slate-200 leading-relaxed">
-                11月下旬の紅葉ライトアップで庭園が光の回廊に位置し、観光拠点として親しまれています。オリーブハマチの出荷が本格化し、脂が乗り始める最高のスタート。日中は過ごしやすく観光に最適な気候です。
+                11月下旬の紅葉ライトアップで庭園が光の回廊に。オリーブハマチの出荷が本格化し、脂が乗り始める最高のスタート。日中は過ごしやすく観光に最適な気候です。
               </p>
             </div>
 

@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月岩手：猊鼻渓「雪見こたつ舟」と極上前沢牛を味わう！名宿5選',
-  description: '11月下旬から1月、岩手県南部の平泉と一関は、静寂と白銀の神秘に包まれます。奥州藤原氏が築いた世界遺産「中尊寺」では、注目の旅宿が揃っています。',
+  description: '11月下旬から1月、岩手県南部の平泉と一関は、静寂と白銀の神秘に包まれます。奥州藤原氏が築いた世界遺産「中尊寺」では。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '平泉 中尊寺 金色堂 冬, 猊鼻渓 こたつ舟 雪見, 前沢牛 すき焼き 宿, 平泉 温泉 ホテル, しづか亭, 山桜 桃の湯, ベリーノホテル一関, 亀の井ホテル 一関, 平泉ホテル武蔵坊, 11月 12月 1月 岩手 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-iwate-hiraizumi-chusonji-geibikei-maesawagyu-stay/"
   },
   openGraph: {
     title: '11・12・1月岩手：猊鼻渓「雪見こたつ舟」と極上前沢牛を味わう！名宿5選',
-    description: '11月下旬から1月、岩手県南部の平泉と一関は、静寂と白銀の神秘に包まれます。奥州藤原氏が築いた世界遺産「中尊寺」では、注目の旅宿が揃っています。',
+    description: '11月下旬から1月、岩手県南部の平泉と一関は、静寂と白銀の神秘に包まれます。奥州藤原氏が築いた世界遺産「中尊寺」では。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-iwate-hiraizumi-chusonji-geibikei-maesawagyu-stay',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/54928/54928.jpg', width: 1200, height: 630, alt: '平泉中尊寺と猊鼻渓こたつ舟・前沢牛名宿' }]

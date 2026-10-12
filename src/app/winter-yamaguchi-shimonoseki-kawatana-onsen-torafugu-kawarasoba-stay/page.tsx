@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '山口・下関と川棚温泉で過ごす冬の旅（11・12月）！関門海峡！名宿5選',
-  description: '11月から12月にかけて、本州最西端に位置する山口県下関市および響灘沿いの名湯「川棚温泉（かわたなおんせん）」は、注目の旅宿が揃っています。',
+  description: '11月から12月にかけて、本州最西端に位置する山口県下関市および響灘沿いの名湯「川棚温泉（かわたなおんせん）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '下関 温泉 宿泊, 川棚温泉, 下関 とらふぐ 宿, 川棚グランドホテル, 下関温泉 風の海, 割烹旅館 寿美礼, 関門の宿 源平荘, ホテル西長門リゾート, 瓦そば, 関門海峡 絶景 宿',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamaguchi-shimonoseki-kawatana-onsen-torafugu-kawarasoba-stay/"
   },
   openGraph: {
     title: '山口・下関と川棚温泉で過ごす冬の旅（11・12月）！関門海峡！名宿5選',
-    description: '11月から12月にかけて、本州最西端に位置する山口県下関市および響灘沿いの名湯「川棚温泉（かわたなおんせん）」は、注目の旅宿が揃っています。',
+    description: '11月から12月にかけて、本州最西端に位置する山口県下関市および響灘沿いの名湯「川棚温泉（かわたなおんせん）」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-yamaguchi-shimonoseki-kawatana-onsen-torafugu-kawarasoba-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',

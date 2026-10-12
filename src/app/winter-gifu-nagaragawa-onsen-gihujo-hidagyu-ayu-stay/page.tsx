@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '岐阜・長良川温泉で過ごす冬の旅（11・12月）！含鉄美肌の黄金赤湯と最高峰A！名宿5選',
-  description: '11月中旬から初冬の岐阜・長良川温泉は、夏の鵜飼の賑わいが去り、凛とした冬の澄んだ大気と歴史情緒が色濃く漂う大人の隠れ家へと姿を変えます。',
+  description: '11月中旬から初冬の岐阜・長良川温泉は、夏の鵜飼の賑わいが去り、凛とした冬の澄んだ大気と歴史情緒が色濃く漂う大人の隠れ家へと姿を変えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '長良川温泉 宿泊, 岐阜 旅館, 十八楼, ホテルパーク, 岐阜城 ライトアップ, 金華山 温泉, 飛騨牛 すき焼き, 子持ち鮎 甘露煮, 含鉄泉 赤湯, 11月 12月 岐阜旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-gifu-nagaragawa-onsen-gihujo-hidagyu-ayu-stay/"
   },
   openGraph: {
     title: '岐阜・長良川温泉で過ごす冬の旅（11・12月）！含鉄美肌の黄金赤湯と最高峰A！名宿5選',
-    description: '11月中旬から初冬の岐阜・長良川温泉は、夏の鵜飼の賑わいが去り、凛とした冬の澄んだ大気と歴史情緒が色濃く漂う大人の隠れ家へと姿を変えます。',
+    description: '11月中旬から初冬の岐阜・長良川温泉は、夏の鵜飼の賑わいが去り、凛とした冬の澄んだ大気と歴史情緒が色濃く漂う大人の隠れ家へと姿を変えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-gifu-nagaragawa-onsen-gihujo-hidagyu-ayu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',

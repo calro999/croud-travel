@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月京都：静寂の洛北！名宿5選',
-  description: '11月下旬から1月、観光客で賑わう京都市内の喧騒を離れ、静寂と清冽な大気に包まれる洛北・大原の里。天台宗の古刹「三千院」では、注目の旅宿が揃っています。',
+  description: '11月下旬から1月、観光客で賑わう京都市内の喧騒を離れ、静寂と清冽な大気に包まれる洛北・大原の里。天台宗の古刹「三千院」では。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '大原三千院 冬 雪景色, 宝泉院 額縁庭園, 大原温泉 宿, 地鶏味噌鍋 京都, お宿 芹生, 大原の里, 民宿大原山荘, ザ・プリンス京都宝ヶ池, 貴船ふじや, 11月 12月 1月 京都 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kyoto-ohara-sanzenin-snow-hosenin-misonabe-stay/"
   },
   openGraph: {
     title: '11・12・1月京都：静寂の洛北！名宿5選',
-    description: '11月下旬から1月、観光客で賑わう京都市内の喧騒を離れ、静寂と清冽な大気に包まれる洛北・大原の里。天台宗の古刹「三千院」では、注目の旅宿が揃っています。',
+    description: '11月下旬から1月、観光客で賑わう京都市内の喧騒を離れ、静寂と清冽な大気に包まれる洛北・大原の里。天台宗の古刹「三千院」では。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-kyoto-ohara-sanzenin-snow-hosenin-misonabe-stay',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/143368/143368.jpg', width: 1200, height: 630, alt: '大原三千院雪景色と大原温泉・地鶏味噌鍋名宿' }]

@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月金沢：寒ブリ！名宿5選',
-  description: '冬の金沢は、名勝・兼六園の唐崎松に施される雪吊りが冬空に優美な幾何学模様を描き。',
+  description: '冬の金沢は、名勝・兼六園の唐崎松に施される雪吊りが冬空に優美な幾何学模様を描き。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '金沢 ホテル, 金沢駅 宿, 兼六園 雪吊り, 尾山神社 初詣, 近江町市場 香箱ガニ, 金沢おでん, ホテル日航金沢, 御宿野乃金沢, 11月 12月 1月 金沢 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-ishikawa-kanazawa-city-kenrokuen-yukizuri-koubako-crab-stay/"
   },
   openGraph: {
     title: '11・12・1月金沢：寒ブリ！名宿5選',
-    description: '冬の金沢は、名勝・兼六園の唐崎松に施される雪吊りが冬空に優美な幾何学模様を描き。',
+    description: '冬の金沢は、名勝・兼六園の唐崎松に施される雪吊りが冬空に優美な幾何学模様を描き。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-ishikawa-kanazawa-city-kenrokuen-yukizuri-koubako-crab-stay',
     type: 'article',
     images: [{ url: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80' }]

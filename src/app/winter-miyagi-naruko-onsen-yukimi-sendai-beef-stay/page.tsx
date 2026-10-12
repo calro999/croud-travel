@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '宮城鳴子温泉郷で過ごす冬の旅（11・12月）！多彩な源泉めぐりと初冬の鳴子峡！名宿5選',
-  description: '11月から12月にかけて鳴子峡に初雪が舞い、奥羽山脈の山懐に静寂が訪れるみちのく随一の名湯「鳴子温泉郷」。',
+  description: '11月から12月にかけて鳴子峡に初雪が舞い、奥羽山脈の山懐に静寂が訪れるみちのく随一の名湯「鳴子温泉郷」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '鳴子温泉 宿泊, 鳴子温泉郷 11月 12月, 鳴子ホテル, 鳴子風雅, 湯元 吉祥, 旅館すがわら, 旅館大沼, 鳴子峡 冬景色, 鳴子こけし, 仙台牛 すき焼き, 鳴子 栗だんご',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-miyagi-naruko-onsen-yukimi-sendai-beef-stay/",
   },
   openGraph: {
     title: '宮城鳴子温泉郷で過ごす冬の旅（11・12月）！多彩な源泉めぐりと初冬の鳴子峡！名宿5選',
-    description: '11月から12月にかけて鳴子峡に初雪が舞い、奥羽山脈の山懐に静寂が訪れるみちのく随一の名湯「鳴子温泉郷」。',
+    description: '11月から12月にかけて鳴子峡に初雪が舞い、奥羽山脈の山懐に静寂が訪れるみちのく随一の名湯「鳴子温泉郷」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-miyagi-naruko-onsen-yukimi-sendai-beef-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',

@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月神戸：生田神社新春開運初詣！名宿5選',
-  description: '冬の港町・神戸は、澄み切った冷涼な空気が六甲山と神戸港の「1000万ドルの夜景」を最も眩しく煌めかせ。',
+  description: '冬の港町・神戸は、澄み切った冷涼な空気が六甲山と神戸港の「1000万ドルの夜景」を最も眩しく煌めかせ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '神戸 ホテル, 生田神社 初詣 ホテル, 神戸ルミナリエ, メリケンパーク 夜景, 神戸みなと温泉 蓮, ホテルオークラ神戸, ホテルラスイート神戸, 神戸牛 ステーキ, 11月 12月 1月 神戸 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hyogo-kobe-port-ikuta-shrine-luminarie-beef-stay/"
   },
   openGraph: {
     title: '11・12・1月神戸：生田神社新春開運初詣！名宿5選',
-    description: '冬の港町・神戸は、澄み切った冷涼な空気が六甲山と神戸港の「1000万ドルの夜景」を最も眩しく煌めかせ。',
+    description: '冬の港町・神戸は、澄み切った冷涼な空気が六甲山と神戸港の「1000万ドルの夜景」を最も眩しく煌めかせ。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-hyogo-kobe-port-ikuta-shrine-luminarie-beef-stay',
     type: 'article',
     images: [{ url: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80' }]

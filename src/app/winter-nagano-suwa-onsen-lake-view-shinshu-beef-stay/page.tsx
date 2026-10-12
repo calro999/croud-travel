@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '諏訪湖・上諏訪温泉で過ごす冬の旅（11・12月）！諏訪湖一望露天と千人風呂！名宿5選',
-  description: '11月から12月にかけて冷涼な澄み切った大気の中に冠雪の八ヶ岳と富士山がくっきりと浮かび上がる信州「諏訪湖」と「上諏訪温泉」。',
+  description: '11月から12月にかけて冷涼な澄み切った大気の中に冠雪の八ヶ岳と富士山がくっきりと浮かび上がる信州「諏訪湖」と「上諏訪温泉」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '諏訪湖 上諏訪温泉 宿泊, 上諏訪温泉 11月 12月, 双泉の宿 朱白, 浜の湯, ホテル紅や, ぬのはん, 萃sui諏訪湖, 片倉館 千人風呂, 諏訪五蔵 新酒 試飲, 信州プレミアム牛 すき焼き, ワカサギ釣り ドーム船',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagano-suwa-onsen-lake-view-shinshu-beef-stay/",
   },
   openGraph: {
     title: '諏訪湖・上諏訪温泉で過ごす冬の旅（11・12月）！諏訪湖一望露天と千人風呂！名宿5選',
-    description: '11月から12月にかけて冷涼な澄み切った大気の中に冠雪の八ヶ岳と富士山がくっきりと浮かび上がる信州「諏訪湖」と「上諏訪温泉」。',
+    description: '11月から12月にかけて冷涼な澄み切った大気の中に冠雪の八ヶ岳と富士山がくっきりと浮かび上がる信州「諏訪湖」と「上諏訪温泉」。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-nagano-suwa-onsen-lake-view-shinshu-beef-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',

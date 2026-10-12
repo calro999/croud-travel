@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '埼玉・秩父温泉郷で過ごす冬の旅（11・12月）！名物武州和牛すき焼き！名宿5選',
-  description: '11月から12月にかけて、都心から特急でわずか80分あまりの近さにありながら、奥武蔵の山々に抱かれた埼玉県「秩父・長瀞」は、注目の旅宿が揃っています。',
+  description: '11月から12月にかけて、都心から特急でわずか80分あまりの近さにありながら、奥武蔵の山々に抱かれた埼玉県「秩父・長瀞」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '秩父 温泉 宿泊, 和銅鉱泉 和どう, 宮本の湯, ちちぶ温泉 はなのや, 湯宿 羊山邸, ホテル美やま, 秩父夜祭 宿泊, 長瀞 こたつ舟, 武州和牛, 秩父みそ豚, 11月 12月 秩父旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay/"
   },
   openGraph: {
     title: '埼玉・秩父温泉郷で過ごす冬の旅（11・12月）！名物武州和牛すき焼き！名宿5選',
-    description: '11月から12月にかけて、都心から特急でわずか80分あまりの近さにありながら、奥武蔵の山々に抱かれた埼玉県「秩父・長瀞」は、注目の旅宿が揃っています。',
+    description: '11月から12月にかけて、都心から特急でわずか80分あまりの近さにありながら、奥武蔵の山々に抱かれた埼玉県「秩父・長瀞」は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
@@ -527,7 +527,7 @@ export default function WinterSaitamaChichibuPage() {
                 秩父の名水仕込み「新そば＆地酒」
               </h3>
               <p className="text-xs leading-relaxed text-stone-300">
-                武甲山や荒川源流の清冽な伏流水で打つ秩父の手打ち蕎麦は、11月から香り高い「新そば」の季節に位置し、観光拠点として親しまれています。創業寛延2年の老舗蔵元が醸す地酒「秩父錦」や、世界中のウイスキー愛好家を魅了する「イチローズモルト」とともに味わう贅沢は格別です。
+                武甲山や荒川源流の清冽な伏流水で打つ秩父の手打ち蕎麦は、11月から香り高い「新そば」の季節に。創業寛延2年の老舗蔵元が醸す地酒「秩父錦」や、世界中のウイスキー愛好家を魅了する「イチローズモルト」とともに味わう贅沢は格別です。
               </p>
             </div>
           </div>

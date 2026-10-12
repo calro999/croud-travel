@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '山陰で過ごす冬の旅（11・12月）！山陰の小京都！名宿5選',
-  description: '11月から12月の初冬、石州瓦の赤茶色の屋根と白い漆喰壁が美しいコントラストを描く島根県津和野町は、注目の旅宿が揃っています。',
+  description: '11月から12月の初冬、石州瓦の赤茶色の屋根と白い漆喰壁が美しいコントラストを描く島根県津和野町は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '津和野 宿泊, 津和野温泉, 石見牛 宿, 津和野 冬の旅, ゆとりろ津和野, 若槻 津和野, マスコスホテル, 荒磯館, 11月 12月 島根観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shimane-tsuwano-onsen-iwamigyu-jizake-stay/"
   },
   openGraph: {
     title: '山陰で過ごす冬の旅（11・12月）！山陰の小京都！名宿5選',
-    description: '11月から12月の初冬、石州瓦の赤茶色の屋根と白い漆喰壁が美しいコントラストを描く島根県津和野町は、注目の旅宿が揃っています。',
+    description: '11月から12月の初冬、石州瓦の赤茶色の屋根と白い漆喰壁が美しいコントラストを描く島根県津和野町は。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-shimane-tsuwano-onsen-iwamigyu-jizake-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
@@ -369,7 +369,7 @@ export default function ShimaneTsuwanoOnsenWinterPage() {
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold tracking-tight text-white leading-tight">{metadata.title as string}</h1>
           <p className="text-xs sm:text-sm text-stone-300 leading-relaxed pt-2">
-            赤瓦と白壁土塀の殿町通りに揺れる錦鯉と、津和野城跡から見下ろす早朝の朝霧雲海を一望できる絶景宿が人気です。
+            赤瓦と白壁土塀の殿町通りに揺れる錦鯉と、津和野城跡から見下ろす早朝の朝霧雲海。
             11月下旬からの新酒蔵開きと搾りたて地酒、幻の石見牛ステーキ＆津和野温泉の静謐な湯治へ。
           </p>
         </div>

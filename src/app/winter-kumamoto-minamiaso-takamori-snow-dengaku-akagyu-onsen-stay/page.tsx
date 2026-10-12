@@ -8,14 +8,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月熊本：極上あか牛！名宿5選',
-  description: '世界最大級の阿蘇カルデラが白銀に染まる11〜1月の冬旅完全ガイド。澄み渡る冬空にそびえる阿蘇五岳（根子岳・高岳）の雄大な雪景色パノラマと。',
+  description: '世界最大級の阿蘇カルデラが白銀に染まる11〜1月の冬旅完全ガイド。澄み渡る冬空にそびえる阿蘇五岳（根子岳・高岳）の雄大な雪景色パノラマと。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '南阿蘇 温泉 旅館, 高森田楽 囲炉裏, 阿蘇あか牛 ステーキ, 南阿蘇ルナ天文台, 竹楽亭 露天風呂, 休暇村南阿蘇, 亀の井ホテル阿蘇, 阿蘇五岳 雪景色, 熊本 冬 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kumamoto-minamiaso-takamori-snow-dengaku-akagyu-onsen-stay/"
   },
   openGraph: {
     title: '11・12・1月熊本：極上あか牛！名宿5選',
-    description: '世界最大級の阿蘇カルデラが白銀に染まる11〜1月の冬旅完全ガイド。澄み渡る冬空にそびえる阿蘇五岳（根子岳・高岳）の雄大な雪景色パノラマと。',
+    description: '世界最大級の阿蘇カルデラが白銀に染まる11〜1月の冬旅完全ガイド。澄み渡る冬空にそびえる阿蘇五岳（根子岳・高岳）の雄大な雪景色パノラマと。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-kumamoto-minamiaso-takamori-snow-dengaku-akagyu-onsen-stay',
     type: 'article',
     images: [
@@ -507,7 +507,7 @@ export default function KumamotoMinamiasoWinterPage() {
                 <span className="text-xs font-bold text-emerald-700 block mb-1">1日目 20:30 | 冬の夜空の天体観測</span>
                 <h4 className="font-bold text-slate-900 text-base mb-1">澄み切った阿蘇の夜空に瞬く満天の星々と冬の星座</h4>
                 <p className="text-slate-600 leading-relaxed">
-                  防寒具を着込み夜空を見上げると、こぼれ落ちそうな星の海を一望できる絶景宿が人気です。大型天体望遠鏡での星空観察ツアーに参加し、オリオン座や冬の天の川の神秘に触れる。
+                  防寒具を着込み夜空を見上げると、こぼれ落ちそうな星の海。大型天体望遠鏡での星空観察ツアーに参加し、オリオン座や冬の天の川の神秘に触れる。
                 </p>
               </div>
 

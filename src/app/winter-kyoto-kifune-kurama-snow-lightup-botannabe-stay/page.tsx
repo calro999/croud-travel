@@ -9,14 +9,14 @@ import {
 
 export const metadata: Metadata = {
   title: '11・12・1月京都：白銀の貴船神社！名宿5選',
-  description: '11月から1月、京都市街地の喧騒から離れた京都洛北の奥座敷「貴船・鞍馬」は、凛とした冬の澄んだ空気と幽玄の白銀世界に包まれます。',
+  description: '11月から1月、京都市街地の喧騒から離れた京都洛北の奥座敷「貴船・鞍馬」は、凛とした冬の澄んだ空気と幽玄の白銀世界に包まれます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '貴船神社 積雪ライトアップ, 貴船 ぼたん鍋, 貴船ふじや, 右源太 貴船, 貴船 ひろや, 京都奥座敷 宿泊, 叡山電鉄 きらら, 11月 12月 1月 京都旅行, 鞍馬寺 雪景色',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay/"
   },
   openGraph: {
     title: '11・12・1月京都：白銀の貴船神社！名宿5選',
-    description: '11月から1月、京都市街地の喧騒から離れた京都洛北の奥座敷「貴船・鞍馬」は、凛とした冬の澄んだ空気と幽玄の白銀世界に包まれます。',
+    description: '11月から1月、京都市街地の喧騒から離れた京都洛北の奥座敷「貴船・鞍馬」は、凛とした冬の澄んだ空気と幽玄の白銀世界に包まれます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay',
     siteName: 'クラドトラベル',
     images: [

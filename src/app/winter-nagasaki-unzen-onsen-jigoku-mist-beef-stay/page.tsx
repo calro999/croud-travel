@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '長崎雲仙温泉で過ごす冬の旅（11・12月）！雲仙地獄の湯煙！名宿5選',
-  description: '11月下旬から12月にかけて雲仙普賢岳や仁田峠を純白に染める自然の芸術「霧氷（花ぼうろ）」と。',
+  description: '11月下旬から12月にかけて雲仙普賢岳や仁田峠を純白に染める自然の芸術「霧氷（花ぼうろ）」と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '長崎 雲仙温泉 宿泊, 雲仙温泉 11月 12月, 雲仙宮崎旅館, 旅亭 半水盧, ゆやど 雲仙新湯, 雲仙福田屋, 青雲荘, 雲仙地獄 湯煙, 普賢岳 霧氷 花ぼうろ, 雲仙あかね牛 ステーキ, 島原具雑煮',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagasaki-unzen-onsen-jigoku-mist-beef-stay/",
   },
   openGraph: {
     title: '長崎雲仙温泉で過ごす冬の旅（11・12月）！雲仙地獄の湯煙！名宿5選',
-    description: '11月下旬から12月にかけて雲仙普賢岳や仁田峠を純白に染める自然の芸術「霧氷（花ぼうろ）」と。',
+    description: '11月下旬から12月にかけて雲仙普賢岳や仁田峠を純白に染める自然の芸術「霧氷（花ぼうろ）」と。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-nagasaki-unzen-onsen-jigoku-mist-beef-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',

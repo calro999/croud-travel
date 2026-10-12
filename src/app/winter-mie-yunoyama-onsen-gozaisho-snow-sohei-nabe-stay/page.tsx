@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '三重・湯で過ごす冬の旅（11・12月）！伊勢湾望む絶景露天！名宿5選',
-  description: '11月下旬から12月にかけて鈴鹿山脈の主峰・御在所岳（標高1,212m）は、山上公園に白銀の初雪が舞い降り。',
+  description: '11月下旬から12月にかけて鈴鹿山脈の主峰・御在所岳（標高1,212m）は、山上公園に白銀の初雪が舞い降り。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '湯の山温泉 宿泊, 御在所ロープウェイ 樹氷 11月 12月, 寿亭, ホテル湯の本, 鹿の湯ホテル, 三峯園, 彩向陽, 僧兵鍋 湯の山, 菰野豚, 湯の山温泉 露天風呂',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-mie-yunoyama-onsen-gozaisho-snow-sohei-nabe-stay/"
   },
   openGraph: {
     title: '三重・湯で過ごす冬の旅（11・12月）！伊勢湾望む絶景露天！名宿5選',
-    description: '11月下旬から12月にかけて鈴鹿山脈の主峰・御在所岳（標高1,212m）は、山上公園に白銀の初雪が舞い降り。',
+    description: '11月下旬から12月にかけて鈴鹿山脈の主峰・御在所岳（標高1,212m）は、山上公園に白銀の初雪が舞い降り。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-mie-yunoyama-onsen-gozaisho-snow-sohei-nabe-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',

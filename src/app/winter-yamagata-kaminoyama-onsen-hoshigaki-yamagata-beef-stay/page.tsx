@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: 'かみで過ごす冬の旅（11・12月）！特選山形牛すき焼き！名宿5選',
-  description: '11月から12月にかけて山形県上山市の奥座敷「かみのやま温泉」は、初冠雪を戴く蔵王連峰の雄大な稜線を背景に位置し、観光拠点として親しまれています。',
+  description: '11月から12月にかけて山形県上山市の奥座敷「かみのやま温泉」は、初冠雪を戴く蔵王連峰の雄大な稜線を背景に。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: 'かみのやま温泉 宿泊, かみのやま温泉 11月 12月, 名月荘 かみのやま, 日本の宿 古窯, 葉山舘, 月岡ホテル, 月の池, 山形牛 すき焼き 宿, 紅柿 干し柿 山形, 蔵王 雪見露天風呂',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamagata-kaminoyama-onsen-hoshigaki-yamagata-beef-stay/"
   },
   openGraph: {
     title: 'かみで過ごす冬の旅（11・12月）！特選山形牛すき焼き！名宿5選',
-    description: '11月から12月にかけて山形県上山市の奥座敷「かみのやま温泉」は、初冠雪を戴く蔵王連峰の雄大な稜線を背景に位置し、観光拠点として親しまれています。',
+    description: '11月から12月にかけて山形県上山市の奥座敷「かみのやま温泉」は、初冠雪を戴く蔵王連峰の雄大な稜線を背景に。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-yamagata-kaminoyama-onsen-hoshigaki-yamagata-beef-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',

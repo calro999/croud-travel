@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '天童温泉で過ごす冬の旅（11・12月）！A5山形牛すき焼き！名宿5選',
-  description: '将棋駒の生産量日本一を誇る山形の名湯「天童温泉」。11月から12月にかけて最盛期を迎える果物の女王「ラ・フランス」の芳醇な甘みと。',
+  description: '将棋駒の生産量日本一を誇る山形の名湯「天童温泉」。11月から12月にかけて最盛期を迎える果物の女王「ラ・フランス」の芳醇な甘みと。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '天童温泉 宿泊, 天童温泉 11月 12月, ほほえみの宿 滝の湯, 天童荘, 天童ホテル, ラフランス 山形, 山形牛 すき焼き 天童, 将棋の里, 山寺 立石寺 雪景色',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamagata-tendo-onsen-lafrance-yamagata-beef-stay/",
   },
   openGraph: {
     title: '天童温泉で過ごす冬の旅（11・12月）！A5山形牛すき焼き！名宿5選',
-    description: '将棋駒の生産量日本一を誇る山形の名湯「天童温泉」。11月から12月にかけて最盛期を迎える果物の女王「ラ・フランス」の芳醇な甘みと。',
+    description: '将棋駒の生産量日本一を誇る山形の名湯「天童温泉」。11月から12月にかけて最盛期を迎える果物の女王「ラ・フランス」の芳醇な甘みと。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-yamagata-tendo-onsen-lafrance-yamagata-beef-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',

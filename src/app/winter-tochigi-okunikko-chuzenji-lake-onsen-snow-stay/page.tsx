@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '奥日光中禅寺温泉で過ごす冬の旅（11・12月）！極上とちぎ和牛！名宿5選',
-  description: '11月から12月にかけて栃木県・奥日光は、標高2,486mの霊峰・男体山が初雪の白銀を纏い。',
+  description: '11月から12月にかけて栃木県・奥日光は、標高2,486mの霊峰・男体山が初雪の白銀を纏い。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '奥日光 中禅寺温泉 宿泊, 中禅寺湖 11月 12月, 中禅寺湖 雪 男体山, 中禅寺温泉 にごり湯, 中禅寺金谷ホテル, ザリッツカールトン日光, ホテル花庵, ホテル四季彩, 日光山水, とちぎ和牛 ステーキ, 日光 湯波 宿',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tochigi-okunikko-chuzenji-lake-onsen-snow-stay/",
   },
   openGraph: {
     title: '奥日光中禅寺温泉で過ごす冬の旅（11・12月）！極上とちぎ和牛！名宿5選',
-    description: '11月から12月にかけて栃木県・奥日光は、標高2,486mの霊峰・男体山が初雪の白銀を纏い。',
+    description: '11月から12月にかけて栃木県・奥日光は、標高2,486mの霊峰・男体山が初雪の白銀を纏い。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-tochigi-okunikko-chuzenji-lake-onsen-snow-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',

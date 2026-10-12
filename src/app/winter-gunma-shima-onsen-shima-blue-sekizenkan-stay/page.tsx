@@ -10,14 +10,14 @@ import {
 
 export const metadata: Metadata = {
   title: '四万温泉で過ごす冬の旅（11・12月）！清流雪見露天！名宿5選',
-  description: '11月から12月にかけて上州・群馬の奥座敷「四万温泉」は、四万川や奥四万湖が年間で最も澄み渡る奇跡のコバルトブルー「四万ブルー」を湛え。',
+  description: '11月から12月にかけて上州・群馬の奥座敷「四万温泉」は、四万川や奥四万湖が年間で最も澄み渡る奇跡のコバルトブルー「四万ブルー」を湛え。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '四万温泉 宿泊, 四万温泉 11月 12月, 積善館 四万温泉, 四万やまぐち館, 四万たむら, 柏屋旅館 四万, 豊島屋 四万温泉, 四万ブルー, 上州牛 すき焼き 宿, 群馬 温泉 冬旅',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-gunma-shima-onsen-shima-blue-sekizenkan-stay/"
   },
   openGraph: {
     title: '四万温泉で過ごす冬の旅（11・12月）！清流雪見露天！名宿5選',
-    description: '11月から12月にかけて上州・群馬の奥座敷「四万温泉」は、四万川や奥四万湖が年間で最も澄み渡る奇跡のコバルトブルー「四万ブルー」を湛え。',
+    description: '11月から12月にかけて上州・群馬の奥座敷「四万温泉」は、四万川や奥四万湖が年間で最も澄み渡る奇跡のコバルトブルー「四万ブルー」を湛え。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-gunma-shima-onsen-shima-blue-sekizenkan-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
