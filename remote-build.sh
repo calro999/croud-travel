@@ -68,9 +68,11 @@ ${SSH_CMD} "${REMOTE_USER}@${REMOTE_HOST}" "bash -lc 'cd ${REMOTE_DIR} && if [ -
 
 echo "==> [4/4] 成果物 (${BUILD_OUTPUT_DIR}) をMacへ同期・回収中..."
 mkdir -p "./${BUILD_OUTPUT_DIR}"
-rsync -av --delete --timeout=60 \
-  -e "${SSH_CMD}" \
-  "${REMOTE_USER}@${REMOTE_HOST}:${REMOTE_DIR}/${BUILD_OUTPUT_DIR}/" \
-  "./${BUILD_OUTPUT_DIR}/"
+ARCHIVE_NAME="build-output-${PROJECT_NAME}.tar.gz"
+${SSH_CMD} "${REMOTE_USER}@${REMOTE_HOST}" "tar -czf /tmp/${ARCHIVE_NAME} -C ${REMOTE_DIR} ${BUILD_OUTPUT_DIR}"
+scp -P "${REMOTE_PORT}" -i "${SSH_KEY}" -o StrictHostKeyChecking=accept-new "${REMOTE_USER}@${REMOTE_HOST}:/tmp/${ARCHIVE_NAME}" "/tmp/${ARCHIVE_NAME}"
+tar -xzf "/tmp/${ARCHIVE_NAME}" -C ./
+rm -f "/tmp/${ARCHIVE_NAME}"
+${SSH_CMD} "${REMOTE_USER}@${REMOTE_HOST}" "rm -f /tmp/${ARCHIVE_NAME}"
 
 echo "==> [完了] リモートビルドが正常に完了し、Macへ成果物を回収しました！"

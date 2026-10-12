@@ -6,6 +6,16 @@ export const metadata: Metadata = {
   title: "運営者情報・編集方針（E-E-A-T） ｜ 日本全国・旅宿クラウド",
   description: "「日本全国・旅宿クラウド」の運営者情報、コンテンツ編集方針、情報収集・検証ポリシー、および提携サービス（楽天トラベル等）に関する透明性ガイドライン。",
   alternates: { canonical: "https://croud-travel.pages.dev/about/" },
+  openGraph: {
+    title: "運営者情報・編集方針（E-E-A-T） ｜ 日本全国・旅宿クラウド",
+    description: "「日本全国・旅宿クラウド」の運営者情報、コンテンツ編集方針、情報収集・検証ポリシー、および提携サービス（楽天トラベル等）に関する透明性ガイドライン。",
+    type: "article",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "運営者情報・編集方針（E-E-A-T） ｜ 日本全国・旅宿クラウド",
+    description: "「日本全国・旅宿クラウド」の運営者情報、コンテンツ編集方針、情報収集・検証ポリシー、および提携サービス（楽天トラベル等）に関する透明性ガイドライン。",
+  }
 };
 
 export const dynamic = "force-static";

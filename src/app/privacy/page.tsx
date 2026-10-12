@@ -6,6 +6,16 @@ export const metadata: Metadata = {
   title: "プライバシーポリシー・免責事項 ｜ 日本全国・旅宿クラウド",
   description: "日本全国・旅宿クラウドの個人情報の取扱い、Cookie・アクセス解析ツールの利用、広告配信プログラムおよび免責事項について定めています。",
   alternates: { canonical: "https://croud-travel.pages.dev/privacy/" },
+  openGraph: {
+    title: "プライバシーポリシー・免責事項 ｜ 日本全国・旅宿クラウド",
+    description: "日本全国・旅宿クラウドの個人情報の取扱い、Cookie・アクセス解析ツールの利用、広告配信プログラムおよび免責事項について定めています。",
+    type: "article",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "プライバシーポリシー・免責事項 ｜ 日本全国・旅宿クラウド",
+    description: "日本全国・旅宿クラウドの個人情報の取扱い、Cookie・アクセス解析ツールの利用、広告配信プログラムおよび免責事項について定めています。",
+  }
 };
 
 export const dynamic = "force-static";
