@@ -122,7 +122,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/15962/15962.jpg"
                           alt="指宿温泉　いぶすき秀水園"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.7 (531+件)
                         </div>
@@ -168,7 +168,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/76346/76346.jpg"
                           alt="指宿温泉　こらんの湯　錦江楼"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.3 (620+件)
                         </div>
@@ -261,7 +261,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/10832/10832.jpg"
                           alt="指宿温泉　指宿ロイヤルホテル　～すべての女性へ美と健康を楽しむホテル～"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.5 (1611+件)
                         </div>
@@ -307,7 +307,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/31775/31775.jpg"
                           alt="指宿砂むし温泉　指宿シーサイドホテル"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 3.6 (776+件)
                         </div>
@@ -353,7 +353,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/147517/147517.jpg"
                           alt="ローズマリーホテル"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 2.7 (36+件)
                         </div>
@@ -399,7 +399,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/153299/153299.jpg"
                           alt="ＨＯＴＥＬ　ＡＺ　鹿児島喜入店"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 3.8 (226+件)
                         </div>
@@ -492,7 +492,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/10832/10832.jpg"
                           alt="指宿温泉　指宿ロイヤルホテル　～すべての女性へ美と健康を楽しむホテル～"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.5 (1611+件)
                         </div>
@@ -538,7 +538,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/14036/14036.jpg"
                           alt="指宿温泉　指宿フェニックスホテル"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.0 (1670+件)
                         </div>
@@ -584,7 +584,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/31775/31775.jpg"
                           alt="指宿砂むし温泉　指宿シーサイドホテル"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 3.6 (776+件)
                         </div>
@@ -630,7 +630,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/8580/8580.jpg"
                           alt="指宿温泉　休暇村　指宿"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.3 (1192+件)
                         </div>

@@ -181,7 +181,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/8838/8838.jpg"
                 alt="京都 嵐山温泉 渡月亭の外観・温泉風景"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="flex flex-col justify-between">
               <div>
@@ -250,7 +250,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/73923/73923.jpg"
                 alt="嵐山温泉彩四季の宿 花筏の外観・温泉風景"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="flex flex-col justify-between">
               <div>
@@ -319,7 +319,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/18908/18908.jpg"
                 alt="京都嵐山 花のいえの外観・温泉風景"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="flex flex-col justify-between">
               <div>

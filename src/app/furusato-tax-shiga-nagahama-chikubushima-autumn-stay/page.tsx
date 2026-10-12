@@ -208,7 +208,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/16047/16047.jpg"
                 alt="北ビワコホテル　グラツィエ"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="space-y-3">
               <h4 className="font-bold text-stone-900 text-sm">宿の魅力と秋の過ごし方</h4>
@@ -258,7 +258,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/13910/13910.jpg"
                 alt="びわ湖畔　おいしい湯の宿　長浜太閤温泉　浜湖月"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="space-y-3">
               <h4 className="font-bold text-stone-900 text-sm">宿の魅力と秋の過ごし方</h4>
@@ -308,7 +308,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/8796/8796.jpg"
                 alt="ＹＡＭＡＴＯ　ＴＨＥ　ＳＥＡＳＯＮＳ　須賀谷温泉"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="space-y-3">
               <h4 className="font-bold text-stone-900 text-sm">宿の魅力と秋の過ごし方</h4>

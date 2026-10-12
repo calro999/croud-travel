@@ -208,7 +208,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/9691/9691.jpg"
                 alt="登別温泉　ホテルゆもと登別"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="space-y-3">
               <h4 className="font-bold text-stone-900 text-sm">宿の魅力と秋の過ごし方</h4>
@@ -258,7 +258,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/39175/39175.jpg"
                 alt="登別温泉　登別グランドホテル"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="space-y-3">
               <h4 className="font-bold text-stone-900 text-sm">宿の魅力と秋の過ごし方</h4>
@@ -308,7 +308,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/12568/12568.jpg"
                 alt="登別温泉　ホテル　まほろば"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="space-y-3">
               <h4 className="font-bold text-stone-900 text-sm">宿の魅力と秋の過ごし方</h4>

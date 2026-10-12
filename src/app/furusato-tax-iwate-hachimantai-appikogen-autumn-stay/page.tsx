@@ -208,7 +208,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/1702/1702.jpg"
                 alt="八幡平マウンテンホテル"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="space-y-3">
               <h4 className="font-bold text-stone-900 text-sm">宿の魅力と秋の過ごし方</h4>
@@ -258,7 +258,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/16623/16623.jpg"
                 alt="ＡＮＡクラウンプラザリゾート安比高原　ｂｙ　ＩＨＧ"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="space-y-3">
               <h4 className="font-bold text-stone-900 text-sm">宿の魅力と秋の過ごし方</h4>
@@ -308,7 +308,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/31864/31864.jpg"
                 alt="八幡平ライジングサンホテル"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="space-y-3">
               <h4 className="font-bold text-stone-900 text-sm">宿の魅力と秋の過ごし方</h4>

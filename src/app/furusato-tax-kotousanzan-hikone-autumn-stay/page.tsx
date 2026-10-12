@@ -181,7 +181,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/76388/76388.jpg"
                 alt="ホテル ルートイン彦根の外観・温泉風景"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="flex flex-col justify-between">
               <div>
@@ -250,7 +250,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/145042/145042.jpg"
                 alt="彦根キャッスル リゾート＆スパの外観・温泉風景"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="flex flex-col justify-between">
               <div>
@@ -319,7 +319,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/42016/42016.jpg"
                 alt="亀の井ホテル 彦根の外観・温泉風景"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="flex flex-col justify-between">
               <div>

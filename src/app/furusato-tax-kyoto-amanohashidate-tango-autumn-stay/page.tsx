@@ -208,7 +208,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/6010/6010.jpg"
                 alt="天橋立温泉　ホテル北野屋"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="space-y-3">
               <h4 className="font-bold text-stone-900 text-sm">宿の魅力と秋の過ごし方</h4>
@@ -258,7 +258,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/16816/16816.jpg"
                 alt="天橋立温泉　天橋立ホテル"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="space-y-3">
               <h4 className="font-bold text-stone-900 text-sm">宿の魅力と秋の過ごし方</h4>
@@ -308,7 +308,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/76913/76913.jpg"
                 alt="天橋立温泉　和のリゾート　文珠荘"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="space-y-3">
               <h4 className="font-bold text-stone-900 text-sm">宿の魅力と秋の過ごし方</h4>

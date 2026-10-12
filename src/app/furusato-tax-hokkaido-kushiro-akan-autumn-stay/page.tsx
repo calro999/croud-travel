@@ -208,7 +208,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/40045/40045.jpg"
                 alt="あかん遊久の里鶴雅"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="space-y-3">
               <h4 className="font-bold text-stone-900 text-sm">宿の魅力と秋の過ごし方</h4>
@@ -258,7 +258,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/9568/9568.jpg"
                 alt="ニュー阿寒ホテル（グランベルホテルズ&amp;リゾーツ）"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="space-y-3">
               <h4 className="font-bold text-stone-900 text-sm">宿の魅力と秋の過ごし方</h4>
@@ -308,7 +308,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/41841/41841.jpg"
                 alt="ＴＨＥ　ＦＯＲＥＳＴ阿寒　ＴＳＵＲＵＧＡＲＥＳＯＲＴ（旧：阿寒の森鶴雅リゾート花ゆう香）"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="space-y-3">
               <h4 className="font-bold text-stone-900 text-sm">宿の魅力と秋の過ごし方</h4>

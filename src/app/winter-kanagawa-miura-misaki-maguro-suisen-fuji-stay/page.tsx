@@ -273,7 +273,7 @@ export default function KanagawaMiuraMisakiWinterPage() {
             src="https://img.travel.rakuten.co.jp/share/HOTEL/13569/13569.jpg" 
             alt="冬の三浦半島城ヶ島と相模湾越しの富士山夕景" 
             className="w-full h-full object-cover"
-          />
+          loading="lazy" decoding="async" />
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-900/60 to-transparent" />
         
@@ -466,7 +466,7 @@ export default function KanagawaMiuraMisakiWinterPage() {
                       src={h.img} 
                       alt={h.name} 
                       className="w-full h-full object-cover"
-                    />
+                    loading="lazy" decoding="async" />
                     <div className="absolute top-4 left-4 bg-slate-950/80 backdrop-blur-md text-white text-xs font-bold px-3 py-1.5 rounded-full border border-white/20">
                       厳選第 {h.id} 位
                     </div>

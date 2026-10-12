@@ -181,7 +181,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/141241/141241.jpg"
                 alt="白骨温泉 小梨の湯 笹屋の外観・温泉風景"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="flex flex-col justify-between">
               <div>
@@ -250,7 +250,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/38986/38986.jpg"
                 alt="白骨温泉 お宿つるや （旧：つるや旅館）の外観・温泉風景"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="flex flex-col justify-between">
               <div>
@@ -319,7 +319,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/128531/128531.jpg"
                 alt="白骨温泉 白船グランドホテルの外観・温泉風景"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="flex flex-col justify-between">
               <div>

@@ -273,7 +273,7 @@ export default function SaitamaKawagoeKoedoWinterPage() {
             src="https://img.travel.rakuten.co.jp/share/HOTEL/178703/178703.jpg" 
             alt="冬の小江戸川越の蔵造りの町並みと時の鐘" 
             className="w-full h-full object-cover"
-          />
+          loading="lazy" decoding="async" />
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-stone-950 via-stone-900/60 to-transparent" />
         
@@ -466,7 +466,7 @@ export default function SaitamaKawagoeKoedoWinterPage() {
                       src={h.img} 
                       alt={h.name} 
                       className="w-full h-full object-cover"
-                    />
+                    loading="lazy" decoding="async" />
                     <div className="absolute top-4 left-4 bg-stone-950/80 backdrop-blur-md text-white text-xs font-bold px-3 py-1.5 rounded-full border border-white/20">
                       厳選第 {h.id} 位
                     </div>

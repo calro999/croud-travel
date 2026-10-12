@@ -207,7 +207,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/151207/151207.jpg"
                 alt="霧島温泉　摘み草の宿　こまつ"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="space-y-3">
               <h4 className="font-bold text-stone-900 text-sm">宿の魅力と秋の過ごし方</h4>
@@ -257,7 +257,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/162921/162921.jpg"
                 alt="霧島温泉　夫婦露天風呂の宿　天テラス（あまてらす）"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="space-y-3">
               <h4 className="font-bold text-stone-900 text-sm">宿の魅力と秋の過ごし方</h4>
@@ -307,7 +307,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/30120/30120.jpg"
                 alt="霧島温泉　いで湯の宿　霧島花紫"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="space-y-3">
               <h4 className="font-bold text-stone-900 text-sm">宿の魅力と秋の過ごし方</h4>

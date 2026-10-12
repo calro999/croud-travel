@@ -273,7 +273,7 @@ export default function OkayamaKurashikiBikanWinterPage() {
             src="https://img.travel.rakuten.co.jp/share/HOTEL/8957/8957.jpg" 
             alt="冬の倉敷美観地区の白壁土蔵と夜間景観照明" 
             className="w-full h-full object-cover"
-          />
+          loading="lazy" decoding="async" />
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-900/60 to-transparent" />
         
@@ -466,7 +466,7 @@ export default function OkayamaKurashikiBikanWinterPage() {
                       src={h.img} 
                       alt={h.name} 
                       className="w-full h-full object-cover"
-                    />
+                    loading="lazy" decoding="async" />
                     <div className="absolute top-4 left-4 bg-slate-950/80 backdrop-blur-md text-white text-xs font-bold px-3 py-1.5 rounded-full border border-white/20">
                       厳選第 {h.id} 位
                     </div>

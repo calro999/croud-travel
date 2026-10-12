@@ -181,7 +181,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/71966/71966.jpg"
                 alt="養老温泉 滝元館 遊季の里の外観・温泉風景"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="flex flex-col justify-between">
               <div>
@@ -250,7 +250,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/40515/40515.jpg"
                 alt="養老温泉 ゆせんの里 ホテルなでしこの外観・温泉風景"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="flex flex-col justify-between">
               <div>
@@ -319,7 +319,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/19544/19544.jpg"
                 alt="ホテルルートイン大垣インターの外観・温泉風景"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="flex flex-col justify-between">
               <div>

@@ -207,7 +207,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/13482/13482.jpg"
                 alt="花巻温泉　佳松園"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="space-y-3">
               <h4 className="font-bold text-stone-900 text-sm">宿の魅力と秋の過ごし方</h4>
@@ -257,7 +257,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/13483/13483.jpg"
                 alt="花巻温泉　ホテル紅葉館"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="space-y-3">
               <h4 className="font-bold text-stone-900 text-sm">宿の魅力と秋の過ごし方</h4>
@@ -307,7 +307,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/10689/10689.jpg"
                 alt="花巻温泉　割烹旅館　廣美亭"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="space-y-3">
               <h4 className="font-bold text-stone-900 text-sm">宿の魅力と秋の過ごし方</h4>

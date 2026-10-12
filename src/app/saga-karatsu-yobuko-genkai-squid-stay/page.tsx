@@ -122,7 +122,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/28966/28966.jpg"
                           alt="日本料理　水野旅館＜唐津＞"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.9 (108+件)
                         </div>
@@ -168,7 +168,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/80547/80547.jpg"
                           alt="ＯＮＣＲＩ－ＫＡＲＡＴＳＵ（おんくり唐津）（旧：旅館魚半）"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.5 (314+件)
                         </div>
@@ -214,7 +214,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/14889/14889.jpg"
                           alt="からつ温泉　かぐや姫の湯　旅館　綿屋"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 3.6 (281+件)
                         </div>
@@ -260,7 +260,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/17650/17650.jpg"
                           alt="割烹旅館　長崎荘"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 5.0 (28+件)
                         </div>
@@ -353,7 +353,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/14889/14889.jpg"
                           alt="からつ温泉　かぐや姫の湯　旅館　綿屋"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 3.6 (281+件)
                         </div>
@@ -399,7 +399,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/78103/78103.jpg"
                           alt="割烹旅館　筑前屋"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.7 (110+件)
                         </div>
@@ -445,7 +445,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/28966/28966.jpg"
                           alt="日本料理　水野旅館＜唐津＞"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.9 (108+件)
                         </div>
@@ -491,7 +491,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/17650/17650.jpg"
                           alt="割烹旅館　長崎荘"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 5.0 (28+件)
                         </div>
@@ -584,7 +584,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/52129/52129.jpg"
                           alt="唐津シーサイドホテル"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.6 (2422+件)
                         </div>
@@ -630,7 +630,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/40300/40300.jpg"
                           alt="観光ホテル　大望閣"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.4 (554+件)
                         </div>
@@ -676,7 +676,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/187662/187662.jpg"
                           alt="ＴＨＥ　ＴＲＡＩＬＥＲＨＯＵＳＥ　ＶＩＬＬＡＧＥ　長崎　ＴＳＵＢＡＫＩ　ＰＲＥＭＩＵＭ"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.6 (27+件)
                         </div>

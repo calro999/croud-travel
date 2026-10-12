@@ -122,7 +122,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/151377/151377.jpg"
                           alt="裏磐梯レイクリゾート　迎賓館　猫魔離宮（旧：裏磐梯猫魔ホテル）"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.5 (827+件)
                         </div>
@@ -168,7 +168,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/149014/149014.jpg"
                           alt="裏磐梯レイクリゾート　本館　五色の森（旧：裏磐梯猫魔ホテル）"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.3 (2146+件)
                         </div>
@@ -214,7 +214,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/165779/165779.jpg"
                           alt="サイズリゾートホテル裏磐梯"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.2 (415+件)
                         </div>
@@ -260,7 +260,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/16676/16676.jpg"
                           alt="メルキュール裏磐梯リゾート＆スパ"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.1 (2463+件)
                         </div>
@@ -353,7 +353,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/4755/4755.jpg"
                           alt="磐梯熱海温泉　萩姫の湯　栄楽館"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.1 (1051+件)
                         </div>
@@ -399,7 +399,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/146112/146112.jpg"
                           alt="白布温泉　東屋（ひがしや）"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.6 (137+件)
                         </div>
@@ -492,7 +492,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/508/508.jpg"
                           alt="ＥＮ　ＲＥＳＯＲＴ　Ｇｒａｎｄｅｃｏ　Ｈｏｔｅｌ（エンリゾート　グランデコ）"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.4 (1642+件)
                         </div>
@@ -538,7 +538,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/44361/44361.jpg"
                           alt="裏磐梯五色沼ホテル"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.5 (23+件)
                         </div>
@@ -584,7 +584,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/13884/13884.jpg"
                           alt="猪苗代湖　ＬＡＫＥ　ＳＩＤＥ　ＨＯＴＥＬ　みなとや"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.0 (186+件)
                         </div>
@@ -630,7 +630,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/76824/76824.jpg"
                           alt="休暇村　裏磐梯"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.5 (345+件)
                         </div>

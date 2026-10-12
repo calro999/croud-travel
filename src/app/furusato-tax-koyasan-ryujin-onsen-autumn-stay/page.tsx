@@ -181,7 +181,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/43782/43782.jpg"
                 alt="龍神温泉 季楽里 龍神の外観・温泉風景"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="flex flex-col justify-between">
               <div>
@@ -250,7 +250,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/68138/68138.jpg"
                 alt="龍神温泉 下御殿の外観・温泉風景"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="flex flex-col justify-between">
               <div>
@@ -319,7 +319,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/130578/130578.jpg"
                 alt="龍神温泉 民宿旅館 ささゆりの外観・温泉風景"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="flex flex-col justify-between">
               <div>

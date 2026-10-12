@@ -122,7 +122,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/31749/31749.jpg"
                           alt="雲仙温泉　ゆやど　雲仙新湯"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.5 (701+件)
                         </div>
@@ -215,7 +215,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/4733/4733.jpg"
                           alt="島原温泉　旅館海望荘"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.5 (177+件)
                         </div>
@@ -261,7 +261,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/162772/162772.jpg"
                           alt="ビジネス旅館　梅崎"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 3.6 (56+件)
                         </div>
@@ -307,7 +307,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/31933/31933.jpg"
                           alt="雲仙温泉　雲仙スカイホテル"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 3.9 (397+件)
                         </div>
@@ -353,7 +353,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/20136/20136.jpg"
                           alt="ビジネスイン　うめさき"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.3 (516+件)
                         </div>
@@ -446,7 +446,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/54690/54690.jpg"
                           alt="小浜温泉　くつろぎの宿　旅館山田屋"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.2 (214+件)
                         </div>
@@ -492,7 +492,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/13421/13421.jpg"
                           alt="小浜温泉　つたや旅館"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.5 (449+件)
                         </div>

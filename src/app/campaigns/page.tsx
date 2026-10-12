@@ -150,7 +150,7 @@ export default function CampaignsPage() {
                 src={campaign.imageUrl}
                 alt={campaign.title}
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
               <span className="absolute top-3 left-3 bg-amber-600 text-white text-[9px] font-extrabold px-3 py-1 rounded-full shadow">
                 {campaign.category}
               </span>

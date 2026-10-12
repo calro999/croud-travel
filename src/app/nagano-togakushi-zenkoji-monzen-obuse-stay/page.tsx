@@ -122,7 +122,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/16296/16296.jpg"
                           alt="戸隠山宿坊　妙光院　武田旅館"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.3 (50+件)
                         </div>
@@ -168,7 +168,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/8447/8447.jpg"
                           alt="宿坊旅館　大西"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 3.3 (26+件)
                         </div>
@@ -214,7 +214,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/145373/145373.jpg"
                           alt="信州戸隠高原　越志旅館"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.5 (100+件)
                         </div>
@@ -260,7 +260,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/16171/16171.jpg"
                           alt="福岡旅館"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.3 (25+件)
                         </div>
@@ -353,7 +353,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/18232/18232.jpg"
                           alt="戸倉上山田温泉　梅むら旅館　うぐいす亭〈長野県〉"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.1 (162+件)
                         </div>
@@ -399,7 +399,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/7179/7179.jpg"
                           alt="松本　浅間温泉　ホテル玉之湯"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.5 (857+件)
                         </div>
@@ -445,7 +445,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/8638/8638.jpg"
                           alt="戸倉上山田温泉　ビジネスホテル　グリーンプラザ"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 3.6 (1011+件)
                         </div>
@@ -491,7 +491,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/8620/8620.jpg"
                           alt="天然温泉付　ホテル　プラトン"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 3.7 (1259+件)
                         </div>
@@ -584,7 +584,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/147046/147046.jpg"
                           alt="さらしな湯の里　八幡温泉　ホテルうづらや"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.0 (70+件)
                         </div>
@@ -630,7 +630,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/9172/9172.jpg"
                           alt="戸隠高原休暇村　シャレー戸隠"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 3.6 (92+件)
                         </div>

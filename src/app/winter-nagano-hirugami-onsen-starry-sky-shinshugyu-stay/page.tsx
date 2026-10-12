@@ -238,7 +238,7 @@ export default function NaganoHirugamiOnsenWinterPage() {
             src="https://img.travel.rakuten.co.jp/share/HOTEL/5624/5624.jpg" 
             alt="阿智村の満天の星空と冬の星座" 
             className="w-full h-full object-cover"
-          />
+          loading="lazy" decoding="async" />
         </div>
         <div className="relative max-w-4xl mx-auto space-y-4">
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-indigo-500/20 text-indigo-300 text-xs font-bold border border-indigo-400/30">
@@ -311,7 +311,7 @@ export default function NaganoHirugamiOnsenWinterPage() {
                       src={h.img} 
                       alt={h.name}
                       className="w-full h-full object-cover"
-                    />
+                    loading="lazy" decoding="async" />
                     <div className="absolute top-3 left-3 bg-stone-900/80 backdrop-blur-xs text-indigo-300 px-3 py-1 rounded-full text-xs font-bold border border-indigo-400/30">
                       第{h.id}位
                     </div>

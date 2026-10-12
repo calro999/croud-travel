@@ -177,7 +177,7 @@ export default function Page() {
               src="https://img.travel.rakuten.co.jp/share/HOTEL/110/110.jpg"
               alt="背景画像"
               className="w-full h-full object-cover blur-sm"
-            />
+            loading="lazy" decoding="async" />
           </div>
           <div className="max-w-4xl mx-auto relative z-10 space-y-4">
             <div className="flex flex-wrap items-center gap-2 text-xs">

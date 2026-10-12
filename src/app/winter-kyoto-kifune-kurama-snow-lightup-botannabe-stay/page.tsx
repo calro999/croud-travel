@@ -239,7 +239,7 @@ export default function KyotoKifuneKuramaPage() {
             src="https://img.travel.rakuten.co.jp/share/HOTEL/67265/67265.jpg" 
             alt="雪の貴船神社ライトアップ背景" 
             className="w-full h-full object-cover"
-          />
+          loading="lazy" decoding="async" />
         </div>
         <div className="relative max-w-4xl mx-auto space-y-4">
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-rose-500/20 text-rose-300 text-xs font-bold border border-rose-400/30">
@@ -313,7 +313,7 @@ export default function KyotoKifuneKuramaPage() {
                       src={h.img} 
                       alt={h.name}
                       className="absolute inset-0 w-full h-full object-cover"
-                    />
+                    loading="lazy" decoding="async" />
                     <div className="absolute top-3 left-3 bg-stone-900/80 backdrop-blur-xs text-white text-xs font-bold px-2.5 py-1 rounded-lg">
                       第{h.id}位
                     </div>

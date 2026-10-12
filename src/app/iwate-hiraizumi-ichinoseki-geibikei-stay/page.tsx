@@ -122,7 +122,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/196603/196603.jpg"
                           alt="奥州・平泉温泉旅館　ＩＴＳＵＭＵ"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.3 (90+件)
                         </div>
@@ -168,7 +168,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/142542/142542.jpg"
                           alt="千貫石温泉　湯元　東館"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.3 (234+件)
                         </div>
@@ -214,7 +214,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/13482/13482.jpg"
                           alt="花巻温泉　佳松園"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.7 (1091+件)
                         </div>
@@ -260,7 +260,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/172092/172092.jpg"
                           alt="旅館　舞鶴＜岩手県＞"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.5 (279+件)
                         </div>
@@ -353,7 +353,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/72032/72032.jpg"
                           alt="祭畤温泉　かみくら"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.7 (341+件)
                         </div>
@@ -399,7 +399,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/176968/176968.jpg"
                           alt="須川高原温泉"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.3 (82+件)
                         </div>
@@ -445,7 +445,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/15268/15268.jpg"
                           alt="伊豆・伊東温泉　お風呂ずきの宿　大東館"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.4 (3558+件)
                         </div>
@@ -491,7 +491,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/196603/196603.jpg"
                           alt="奥州・平泉温泉旅館　ＩＴＳＵＭＵ"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.3 (90+件)
                         </div>
@@ -584,7 +584,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/51221/51221.jpg"
                           alt="亀の井ホテル　一関"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.3 (852+件)
                         </div>
@@ -630,7 +630,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/54928/54928.jpg"
                           alt="奥州平泉温泉　そば庵　しづか亭"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.2 (433+件)
                         </div>
@@ -676,7 +676,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/147949/147949.jpg"
                           alt="陸前高田　キャピタルホテル１０００"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.2 (333+件)
                         </div>
@@ -722,7 +722,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/14678/14678.jpg"
                           alt="水沢　翠明荘＜岩手県＞"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
+                        loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 3.6 (958+件)
                         </div>

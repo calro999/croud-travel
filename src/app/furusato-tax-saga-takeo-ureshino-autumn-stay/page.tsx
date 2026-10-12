@@ -207,7 +207,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/13417/13417.jpg"
                 alt="武雄温泉　御船山楽園ホテル"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="space-y-3">
               <h4 className="font-bold text-stone-900 text-sm">宿の魅力と秋の過ごし方</h4>
@@ -257,7 +257,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/19713/19713.jpg"
                 alt="武雄温泉　ホテル春慶屋"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="space-y-3">
               <h4 className="font-bold text-stone-900 text-sm">宿の魅力と秋の過ごし方</h4>
@@ -307,7 +307,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/19923/19923.jpg"
                 alt="嬉野温泉　大正屋"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="space-y-3">
               <h4 className="font-bold text-stone-900 text-sm">宿の魅力と秋の過ごし方</h4>

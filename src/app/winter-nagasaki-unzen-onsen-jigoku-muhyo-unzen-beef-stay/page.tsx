@@ -238,7 +238,7 @@ export default function NagasakiUnzenOnsenWinterPage() {
             src="https://img.travel.rakuten.co.jp/share/HOTEL/28126/28126.jpg" 
             alt="雲仙地獄の白い噴気と山並み" 
             className="w-full h-full object-cover"
-          />
+          loading="lazy" decoding="async" />
         </div>
         <div className="relative max-w-4xl mx-auto space-y-4">
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-500/20 text-emerald-300 text-xs font-bold border border-emerald-400/30">
@@ -311,7 +311,7 @@ export default function NagasakiUnzenOnsenWinterPage() {
                       src={h.img} 
                       alt={h.name}
                       className="w-full h-full object-cover"
-                    />
+                    loading="lazy" decoding="async" />
                     <div className="absolute top-3 left-3 bg-stone-900/80 backdrop-blur-xs text-emerald-300 px-3 py-1 rounded-full text-xs font-bold border border-emerald-400/30">
                       第{h.id}位
                     </div>

@@ -273,7 +273,7 @@ export default function ShigaOmihachimanHikoneWinterPage() {
             src="https://img.travel.rakuten.co.jp/share/HOTEL/145042/145042.jpg" 
             alt="冬の雪化粧した国宝彦根城と琵琶湖" 
             className="w-full h-full object-cover"
-          />
+          loading="lazy" decoding="async" />
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-900/60 to-transparent" />
         

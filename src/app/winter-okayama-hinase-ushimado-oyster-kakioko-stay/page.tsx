@@ -273,7 +273,7 @@ export default function OkayamaHinaseOysterWinterPage() {
             src="https://img.travel.rakuten.co.jp/share/HOTEL/38473/38473.jpg" 
             alt="冬の瀬戸内海と日生諸島" 
             className="w-full h-full object-cover"
-          />
+          loading="lazy" decoding="async" />
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-900/60 to-transparent" />
         

@@ -273,7 +273,7 @@ export default function HokkaidoTomamuFuranoWinterPage() {
             src="https://img.travel.rakuten.co.jp/share/HOTEL/30110/30110.jpg" 
             alt="白銀の北海道トマムと雪山" 
             className="w-full h-full object-cover"
-          />
+          loading="lazy" decoding="async" />
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-stone-950 via-stone-900/60 to-transparent" />
         

@@ -207,7 +207,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/130095/130095.jpg"
                 alt="上諏訪温泉　しんゆ（親湯）"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="space-y-3">
               <h4 className="font-bold text-stone-900 text-sm">宿の魅力と秋の過ごし方</h4>
@@ -257,7 +257,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/52948/52948.jpg"
                 alt="信州上諏訪温泉　諏訪別邸　朱白（旧　双泉の宿　朱白）"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="space-y-3">
               <h4 className="font-bold text-stone-900 text-sm">宿の魅力と秋の過ごし方</h4>
@@ -307,7 +307,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/5209/5209.jpg"
                 alt="信州・上諏訪温泉　琥珀色の自家源泉を持つ宿【ホテル鷺乃湯】"
                 className="w-full h-full object-cover"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="space-y-3">
               <h4 className="font-bold text-stone-900 text-sm">宿の魅力と秋の過ごし方</h4>

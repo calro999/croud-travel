@@ -227,7 +227,7 @@ export default function KyotoNightsGuide() {
               {hotels.slice(0, 4).map((hotel: any, index: number) => (
                 <div key={index} className="flex border border-stone-200 rounded-xl overflow-hidden hover:shadow-md transition">
                   {hotel.imageUrl && (
-                    <img src={hotel.imageUrl} alt={hotel.hotelName} className="w-1/3 object-cover" />
+                    <img src={hotel.imageUrl} alt={hotel.hotelName} className="w-1/3 object-cover" loading="lazy" decoding="async" />
                   )}
                   <div className="p-3 flex flex-col justify-between w-full bg-white">
                     <div>

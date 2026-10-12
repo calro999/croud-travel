@@ -273,7 +273,7 @@ export default function YamanashiYamanakakoOshinoWinterPage() {
             src="https://img.travel.rakuten.co.jp/share/HOTEL/160833/160833.jpg" 
             alt="冬の山中湖とダイヤモンド富士" 
             className="w-full h-full object-cover"
-          />
+          loading="lazy" decoding="async" />
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-900/60 to-transparent" />
         
@@ -421,7 +421,7 @@ export default function YamanashiYamanakakoOshinoWinterPage() {
                         src={h.img} 
                         alt={h.name} 
                         className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-                      />
+                      loading="lazy" decoding="async" />
                       <div className="absolute top-3 left-3 bg-slate-900/85 backdrop-blur-md text-white text-xs font-bold px-3 py-1.5 rounded-full flex items-center gap-1.5 shadow-md">
                         <Star className="w-3.5 h-3.5 fill-amber-400 text-amber-400" />
                         <span>★ {h.rating}</span>

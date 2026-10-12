@@ -116,7 +116,7 @@ export default function BookmarksModal() {
                           src={b.image}
                           alt={b.hotelName}
                           className="w-full h-full object-cover"
-                        />
+                        loading="lazy" decoding="async" />
                       </div>
                     )}
                     <div className="flex-1 min-w-0">

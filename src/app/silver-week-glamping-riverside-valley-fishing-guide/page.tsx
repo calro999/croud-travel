@@ -273,7 +273,7 @@ export default function SilverWeekGlampingRiversideValleyFishingPage() {
                     src={hotel.hotelImageUrl}
                     alt={hotel.hotelName}
                     className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                  />
+                  loading="lazy" decoding="async" />
                   {hotel.reviewAverage && (
                     <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-sm text-white px-2.5 py-1 rounded-full text-xs font-bold flex items-center gap-1 shadow">
                       <span className="text-teal-400">★</span>

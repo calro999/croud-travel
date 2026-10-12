@@ -273,7 +273,7 @@ export default function ToyamaAmaharashiShinminatoWinterPage() {
             src="https://img.travel.rakuten.co.jp/share/HOTEL/108675/108675.jpg" 
             alt="冬の雨晴海岸と立山連峰" 
             className="w-full h-full object-cover"
-          />
+          loading="lazy" decoding="async" />
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-stone-950 via-stone-900/60 to-transparent" />
         

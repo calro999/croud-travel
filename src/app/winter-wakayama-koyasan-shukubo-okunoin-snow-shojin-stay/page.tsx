@@ -274,7 +274,7 @@ export default function WakayamaKoyasanShukuboWinterPage() {
             src="https://img.travel.rakuten.co.jp/share/HOTEL/107848/107848.jpg" 
             alt="冬の高野山・雪の壇上伽藍根本大塔と奥之院" 
             className="w-full h-full object-cover"
-          />
+          loading="lazy" decoding="async" />
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-900/60 to-transparent" />
         
@@ -485,7 +485,7 @@ export default function WakayamaKoyasanShukuboWinterPage() {
                       src={h.img} 
                       alt={h.name} 
                       className="w-full h-full object-cover"
-                    />
+                    loading="lazy" decoding="async" />
                     <div className="absolute top-4 left-4 bg-slate-950/80 backdrop-blur-md text-white text-xs font-bold px-3 py-1.5 rounded-full border border-white/20">
                       厳選第 {h.id} 位
                     </div>

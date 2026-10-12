@@ -273,7 +273,7 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
             src="https://img.travel.rakuten.co.jp/share/HOTEL/28379/28379.jpg" 
             alt="冬の清里八ヶ岳ブルーと満天の星空観賞" 
             className="w-full h-full object-cover"
-          />
+          loading="lazy" decoding="async" />
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-900/60 to-transparent" />
         
@@ -396,7 +396,7 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
                       src={hotel.img} 
                       alt={hotel.name} 
                       className="w-full h-full object-cover"
-                    />
+                    loading="lazy" decoding="async" />
                     <div className="absolute top-4 left-4 bg-indigo-900/90 text-white text-xs font-bold px-3 py-1.5 rounded-full shadow-md backdrop-blur-xs">
                       厳選第 {hotel.id} 位
                     </div>

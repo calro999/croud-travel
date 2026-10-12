@@ -269,7 +269,7 @@ export default function KanazawaBudgetGuide() {
               >
                 {hotel.imageUrl && (
                   <div className="h-48 overflow-hidden relative">
-                    <img src={hotel.imageUrl} alt={hotel.hotelName} className="w-full h-full object-cover" />
+                    <img src={hotel.imageUrl} alt={hotel.hotelName} className="w-full h-full object-cover" loading="lazy" decoding="async" />
                   </div>
                 )}
                 <div className="p-5">
