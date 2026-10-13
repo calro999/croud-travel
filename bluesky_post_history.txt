@@ -45,3 +45,4 @@ showcase_nara
 myoko-akakura-onsen-resort-hotels-guide
 showcase_hokkaido
 yamanashi-hotels-selection-guide
+showcase_shizuoka
