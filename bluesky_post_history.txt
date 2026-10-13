@@ -47,3 +47,4 @@ showcase_hokkaido
 yamanashi-hotels-selection-guide
 showcase_shizuoka
 october-travel-city-kanazawa-kids-family-guide
+showcase_miyagi
