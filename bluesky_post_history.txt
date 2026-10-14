@@ -52,3 +52,4 @@ rakuten-travel-sale-coupon-strategy-hotels-guide
 showcase_shizuoka
 shodoshima-olive-kankakei-hotels-guide
 showcase_kyoto
+atami-famous-things-gourmet-hotels-guide
