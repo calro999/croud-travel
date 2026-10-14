@@ -53,3 +53,4 @@ showcase_shizuoka
 shodoshima-olive-kankakei-hotels-guide
 showcase_kyoto
 atami-famous-things-gourmet-hotels-guide
+showcase_shizuoka
