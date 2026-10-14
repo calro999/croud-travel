@@ -55,3 +55,4 @@ showcase_kyoto
 atami-famous-things-gourmet-hotels-guide
 showcase_shizuoka
 river-sauna-stream-dive-nature-onsen-hotels-guide
+showcase_hyogo
