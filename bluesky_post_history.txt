@@ -63,3 +63,4 @@ showcase_hyogo
 autumn-shikoku-olive-beef-guide
 showcase_oita
 snow-sauna-winter-outdoor-resort-hotels-guide
+showcase_hyogo
