@@ -61,3 +61,4 @@ showcase_aomori
 october-travel-city-azumino-hakuba-kids-family-guide
 showcase_hyogo
 autumn-shikoku-olive-beef-guide
+showcase_oita
