@@ -65,3 +65,4 @@ showcase_oita
 snow-sauna-winter-outdoor-resort-hotels-guide
 showcase_hyogo
 yufuin-onsen-yunotsubo-hotels-guide
+showcase_miyagi
