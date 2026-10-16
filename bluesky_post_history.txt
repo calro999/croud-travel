@@ -74,3 +74,4 @@ firefly-viewing-stream-onsen-hotels-guide
 showcase_hiroshima
 silver-week-shinkansen-lastminute-guide
 showcase_nagano
+hot-spring-workation-resort-coworking-hotels-guide
