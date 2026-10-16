@@ -1,5 +1,15 @@
 # 全国・複数県の宿泊・観光記事（420件）
 
+## 絶景の雪見露天風呂おすすめ10選！白銀の世界と乳白色のにごり湯に包まれる全国屈指の名湯宿【2026年冬最新】
+- 記事: https://croud-travel.pages.dev/posts/winter-snow-viewing-open-air-bath-ski-resort-hotels-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-snow-viewing-open-air-bath-ski-resort-hotels-guide.md
+- 宿泊施設名: 白骨の名湯 泡の湯・宝川温泉 汪泉閣 ほか雪見露天厳選10宿
+- エリア: 万座・蔵王・野沢温泉・乳頭温泉
+- 参考価格: ¥8800〜
+- 評価: 4.03
+
+【2026年冬〜年末年始】シンシンと降る雪を眺めながら温まる全国の「雪見露天風呂」名宿10選！白骨温泉 泡の湯・新穂高 槍見館・宝川温泉 汪泉閣・万座プリンス・蔵王 高見屋・乳頭 鶴の湯・酸ヶ湯・草津 季の庭・定山渓 章月・登別 第一滝本館を徹底比較。無料送迎バス情報も網羅。
+
 ## A5ブランド和牛が凄い温泉宿10選！極上肉比較｜失敗しないおすすめ宿ガイド
 - 記事: https://croud-travel.pages.dev/posts/a5-brand-wagyu-beef-kaiseki-onsen-hotels-guide/
 - 全文Markdown: https://croud-travel.pages.dev/ai/a5-brand-wagyu-beef-kaiseki-onsen-hotels-guide.md
@@ -3609,16 +3619,6 @@
 - 評価: 4.09
 
 【2026年秋・冬特集】ぷりぷりの白子、濃厚あん肝、牡蠣やいくらを贅沢に盛った痛風鍋。寒い季節に身体の芯から温まる冬グルメの決定版。冬の寒さが深まる季節、無性に恋しくなるのが湯気立つ鍋料理。茨城・大洗や平潟港名物の「あんこう鍋・どぶ汁」、タラの白子や牡蠣、いくら、ウニをこれでもかと盛り付けた話題の「痛風鍋」など...楽天トラベル公式データ連携の最新おすすめ宿泊・観光ガイド。
-
-## 絶景の雪見露天風呂：白銀の世界に包まれる至福の湯浴み！全国屈指の雪景色が美しい温泉宿
-- 記事: https://croud-travel.pages.dev/posts/winter-snow-viewing-open-air-bath-ski-resort-hotels-guide/
-- 全文Markdown: https://croud-travel.pages.dev/ai/winter-snow-viewing-open-air-bath-ski-resort-hotels-guide.md
-- 宿泊施設名: シンシンと降る雪を眺めながら温まる非日常。乳白色のにごり湯や渓谷美が広がる幻想的な雪見風呂特集
-- エリア: 万座・蔵王・野沢温泉・乳頭温泉
-- 参考価格: ¥8800〜
-- 評価: 4.03
-
-シンシンと降る雪を眺めながら温まる非日常。乳白色のにごり湯や渓谷美が広がる幻想的な雪見風呂特集。冬の温泉旅行の醍醐味といえば、雪景色を眺めながら温かい湯船に浸かる「雪見露天風呂」。冷たく澄んだ冬の空気と、熱い源泉のコントラストが心地よく、真っ白に染まった木々や渓谷が水面に映り...楽天トラベル公式データ連携の最新おすすめ宿泊・観光ガイド。
 
 ## 薪サウナが凄いおすすめ温泉宿10選！極上ロウリュ
 - 記事: https://croud-travel.pages.dev/posts/wood-burning-sauna-maki-stove-hotels-guide/

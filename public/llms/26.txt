@@ -1,5 +1,15 @@
 # 京都府の宿泊・観光記事（48件）
 
+## 京都の紅葉ライトアップ夜間拝観に便利！清水寺・永観堂散策と天然温泉を味わう嵐山＆東山・京都駅の名旅館10選【2026年最新】
+- 記事: https://croud-travel.pages.dev/posts/autumn-kyoto-arashiyama-10selection/
+- 全文Markdown: https://croud-travel.pages.dev/ai/autumn-kyoto-arashiyama-10selection.md
+- 宿泊施設名: 京都 嵐山温泉 花伝抄 ほか嵐山・東山厳選10宿
+- エリア: 嵐山・嵯峨野
+- 参考価格: ¥9350〜
+- 評価: 4.36
+
+【2026年秋】京都の紅葉ライトアップ（清水寺・永観堂・高台寺・宝厳院・東寺）と早朝の嵐山・東福寺拝観で渋滞にハマらない厳選宿10選！花伝抄・渡月亭・翠嵐・ウェスティン都ホテル京都・御宿野乃京都七条など天然温泉＆京懐石が自慢の名宿を徹底比較。
+
 ## 京都府観光・モデルコース：宇川温泉　よし野の里に泊まるおすすめ周遊旅ガイド
 - 記事: https://croud-travel.pages.dev/posts/129608/
 - 全文Markdown: https://croud-travel.pages.dev/ai/129608.md
@@ -99,16 +109,6 @@
 - 評価: 5
 
 京都府・嵐山・嵯峨野・太秦に位置する人気宿「小さなホテル 花いかだ」。客室の快適さや温泉・大浴場の魅力、自慢の料理、アクセス情報を深掘りレポート。楽天トラベルの最新宿泊プランや空室状況を掲載しています。
-
-## 京都の紅葉ライトアップ夜間拝観に便利！清水寺・永観堂散策と温泉を味わう嵐山＆市内名旅館10選
-- 記事: https://croud-travel.pages.dev/posts/autumn-kyoto-arashiyama-10selection/
-- 全文Markdown: https://croud-travel.pages.dev/ai/autumn-kyoto-arashiyama-10selection.md
-- 宿泊施設名: 嵐山・嵯峨野おすすめ温泉宿10選
-- エリア: 嵐山・嵯峨野
-- 参考価格: ¥9350〜
-- 評価: 4.36
-
-京都 紅葉 ライトアップ 宿 おすすめ厳選ガイド：11月中旬〜12月上旬に見頃を迎える古都・京都の紅葉ライトアップ！清水寺舞台や永観堂、東福寺の絶景拝観に便利で、京懐石と名湯に癒やされる人気旅館10選。
 
 ## 宇治おすすめ温泉宿10選の宿泊体験レポート｜京都府の魅力と見どころ
 - 記事: https://croud-travel.pages.dev/posts/autumn-kyoto-ujiyodo-10selection/

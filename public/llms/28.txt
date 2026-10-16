@@ -1,5 +1,15 @@
 # 兵庫県の宿泊・観光記事（54件）
 
+## 城崎温泉カニ旅行ならここ！七つの外湯めぐりと冬の極上松葉ガニ会席を堪能する名旅館7選【2026年11月解禁】
+- 記事: https://croud-travel.pages.dev/posts/kinosaki-onsen-seven-baths-yukata-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/kinosaki-onsen-seven-baths-yukata-guide.md
+- 宿泊施設名: 城崎温泉 西村屋本館・料理旅館 よしはる ほか厳選7宿
+- エリア: 城崎温泉・豊岡・但馬・日本海沿岸
+- 参考価格: ¥17930〜
+- 評価: 4.91
+
+【2026年冬・11月6日松葉ガニ解禁】城崎温泉で七つの外湯めぐり（無料パス「ゆめぱ」付）と本場の活松葉ガニフルコース・但馬牛を満喫できる名旅館7選！西村屋本館・招月庭・よしはる・お宿白山・三木屋・大西屋水翔苑・泉翠を徹底比較。
+
 ## 【有馬温泉】御幸荘花結び宿泊ルポ！金泉・銀泉と絶品部屋食を堪能
 - 記事: https://croud-travel.pages.dev/posts/9576/
 - 全文Markdown: https://croud-travel.pages.dev/ai/9576.md
@@ -288,16 +298,6 @@
 - 評価: 4.7
 
 【2026年秋・冬特集】11月〜1月の城崎温泉を徹底解説！11月6日解禁の津居山港タグ付き活松葉ガニフルコース、大谿川の雪舞う柳並木と下駄で巡る七つの外湯めぐり、玄武洞の柱状節理、出石皿そば、名門西村屋ホテル招月庭ほか厳選宿と冬の1泊2日モデルコース。
-
-## 城崎温泉カニ旅行ならここ！七つの外湯めぐりと冬の極上松葉ガニ会席を堪能する名旅館7選
-- 記事: https://croud-travel.pages.dev/posts/kinosaki-onsen-seven-baths-yukata-guide/
-- 全文Markdown: https://croud-travel.pages.dev/ai/kinosaki-onsen-seven-baths-yukata-guide.md
-- 宿泊施設名: 城崎温泉 料理旅館 よしはる
-- エリア: 城崎温泉・豊岡・但馬・日本海沿岸
-- 参考価格: ¥17930〜
-- 評価: 4.91
-
-城崎温泉 カニ 旅行 おすすめ宿厳選ガイド：1300年の名湯「城崎温泉」で七つの外湯めぐり＆浴衣散策と、11月解禁の極上松葉ガニフルコースを満喫できる人気旅館7選！但馬牛ステーキや露天風呂付き客室情報も網羅。
 
 ## 神戸・三宮・ハーバーランドおすすめホテル10選！おすすめ宿泊比較
 - 記事: https://croud-travel.pages.dev/posts/kobe-sannomiya-harborland-hotels-guide/

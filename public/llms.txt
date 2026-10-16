@@ -309,6 +309,12 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [京都の紅葉ライトアップ夜間拝観に便利！清水寺・永観堂散策と天然温泉を味わう嵐山＆東山・京都駅の名旅館10選【2026年最新】](https://croud-travel.pages.dev/posts/autumn-kyoto-arashiyama-10selection): 京都 嵐山温泉 花伝抄 ほか嵐山・東山厳選10宿（京都府）
+- [城崎温泉カニ旅行ならここ！七つの外湯めぐりと冬の極上松葉ガニ会席を堪能する名旅館7選【2026年11月解禁】](https://croud-travel.pages.dev/posts/kinosaki-onsen-seven-baths-yukata-guide): 城崎温泉 西村屋本館・料理旅館 よしはる ほか厳選7宿（兵庫県）
+- [絶景の雪見露天風呂おすすめ10選！白銀の世界と乳白色のにごり湯に包まれる全国屈指の名湯宿【2026年冬最新】](https://croud-travel.pages.dev/posts/winter-snow-viewing-open-air-bath-ski-resort-hotels-guide): 白骨の名湯 泡の湯・宝川温泉 汪泉閣 ほか雪見露天厳選10宿（群馬県・山形県・長野県）
+- [【福岡県観光】ご当地絶品グルメと地酒巡りを満喫する旅！おすすめモデルコースと厳選宿](https://croud-travel.pages.dev/posts/80410): 原鶴温泉　延命館（福岡県）
+- [【奈良】洞川温泉・柳屋宿泊記｜名水と季節の草花が癒やす極上の隠れ家](https://croud-travel.pages.dev/posts/50899): 洞川温泉　花あかりの宿　柳屋（奈良県）
+- [【群馬県】知る人ぞ知る秘境と穴場スポットを満喫する旅！おすすめモデルコースと厳選宿3選](https://croud-travel.pages.dev/posts/11009): 奥軽井沢温泉　ホテルグリーンプラザ軽井沢（群馬県）
 - [【福井】花はす温泉そまやま宿泊ルポ！美肌の湯と名物はす料理に酔いしれる緑陰の隠れ宿](https://croud-travel.pages.dev/posts/161184): 花はす温泉　そまやま（福井県）
 - [【熊本県】温泉街の湯めぐりと風情に浸かる！極上の名湯旅](https://croud-travel.pages.dev/posts/184556): 山鹿温泉　眺山庭（熊本県）
 - [【倉敷】倉敷国際ホテル宿泊記！美観地区徒歩圏内で味わう歴史と美食の極上ステイ](https://croud-travel.pages.dev/posts/7584): 倉敷国際ホテル（岡山県）
@@ -353,9 +359,3 @@
 - [横浜平和プラザホテルのリアルな魅力に迫る！客室・お食事・サービス徹底解説](https://croud-travel.pages.dev/posts/11195): 横浜平和プラザホテル（富山県）
 - [ホテル つるや＜新潟県＞宿泊記＆滞在レビュー｜客室・温泉・料理のこだわり【新潟県】](https://croud-travel.pages.dev/posts/11299): ホテル つるや＜新潟県＞（新潟県）
 - [都シティ 大阪天王寺満喫ガイド｜温泉・美食・絶景で癒やされる極上の旅【大阪府】](https://croud-travel.pages.dev/posts/1145): 都シティ 大阪天王寺（大阪府）
-- [都ホテル 四日市に泊まる大人の休日｜おすすめポイント＆過ごし方ナビ](https://croud-travel.pages.dev/posts/1149): 都ホテル 四日市（三重県）
-- [滋賀県観光・モデルコース：アパホテル〈びわ湖　瀬田駅前〉に泊まるおすすめ周遊旅ガイド](https://croud-travel.pages.dev/posts/1175): アパホテル〈びわ湖　瀬田駅前〉（滋賀県）
-- [南房総白浜 割烹旅館 清都（きよと）満喫ガイド｜温泉・美食・絶景で癒やされる極上の旅【千葉県】](https://croud-travel.pages.dev/posts/1235): 南房総白浜 割烹旅館 清都（きよと）（千葉県）
-- [嬉野温泉 旅館大村屋宿泊記＆滞在レビュー｜客室・温泉・料理のこだわり【佐賀県】](https://croud-travel.pages.dev/posts/12624): 嬉野温泉 旅館大村屋（佐賀県）
-- [会津芦ノ牧温泉 大川荘満喫ガイド｜温泉・美食・絶景で癒やされる極上の旅【福島県】](https://croud-travel.pages.dev/posts/12682): 会津芦ノ牧温泉 大川荘（福島県）
-- [ホテル 松葉川温泉宿泊記＆滞在レビュー｜客室・温泉・料理のこだわり【高知県】](https://croud-travel.pages.dev/posts/128345): ホテル 松葉川温泉（高知県）
