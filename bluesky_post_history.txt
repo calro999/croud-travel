@@ -69,3 +69,4 @@ showcase_miyagi
 theme-sauna-totonou-hotspring-guide
 showcase_ishikawa
 uonuma-oyu-onsen-hakkaisan-sake-hotels-guide
+showcase_nara
