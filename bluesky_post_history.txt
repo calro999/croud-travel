@@ -71,3 +71,4 @@ showcase_ishikawa
 uonuma-oyu-onsen-hakkaisan-sake-hotels-guide
 showcase_nara
 firefly-viewing-stream-onsen-hotels-guide
+showcase_hiroshima
