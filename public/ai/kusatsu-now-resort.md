@@ -1,6 +1,6 @@
 # 草津温泉 草津ナウリゾートホテルに泊まる大人の休日｜おすすめポイント＆過ごし方ナビ
 
-- URL: https://croud-travel.pages.dev/posts/kusatsu_now_resort/
+- URL: https://croud-travel.pages.dev/posts/kusatsu-now-resort/
 - 宿泊施設名: 草津温泉 草津ナウリゾートホテル
 - 都道府県: 群馬県
 - エリア: 草津・尻焼・花敷

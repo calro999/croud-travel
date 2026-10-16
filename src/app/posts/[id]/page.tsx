@@ -354,8 +354,7 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
               {/* 背景の雰囲気を満たすブラーバックグラウンド */}
               <img
                 src={post.image}
-                alt=""
-                className="absolute inset-0 w-full h-full object-cover blur-md opacity-30 scale-105 pointer-events-none"
+                alt={`${post.hotel_name} 背景イメージ`} className="absolute inset-0 w-full h-full object-cover blur-md opacity-30 scale-105 pointer-events-none"
                 aria-hidden="true"
               loading="lazy" decoding="async" />
               {/* 全体が見切れないメイン画像 */}

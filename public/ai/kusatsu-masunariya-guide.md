@@ -1,6 +1,6 @@
 # 草津温泉 益成屋旅館宿泊レポート｜宿の魅力・アクセス・周辺観光まとめ
 
-- URL: https://croud-travel.pages.dev/posts/kusatsu-masunari ya-guide/
+- URL: https://croud-travel.pages.dev/posts/kusatsu-masunariya-guide/
 - 宿泊施設名: 草津温泉 益成屋旅館
 - 都道府県: 群馬県
 - エリア: 万座・草津・四万

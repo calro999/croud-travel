@@ -30,3 +30,55 @@
 /spots/:slug /spots/:slug/ 301
 /furusato/:slug /furusato/:slug/ 301
 /furusato-tax-:slug /furusato-tax-:slug/ 301
+
+# 3. Legacy theme redirects to full canonical winter guides
+/posts/theme_1_himi /posts/himi-onsen-kanburi-amaharashi-tateyama-winter-guide/ 301
+/posts/theme_1_himi/ /posts/himi-onsen-kanburi-amaharashi-tateyama-winter-guide/ 301
+/posts/theme_2_tango /posts/tango-taiza-crab-ine-funaya-amanohashidate-winter-guide/ 301
+/posts/theme_2_tango/ /posts/tango-taiza-crab-ine-funaya-amanohashidate-winter-guide/ 301
+/posts/theme_3_awajishima /posts/awajishima-3year-torafugu-suisenkyo-uzushio-winter-guide/ 301
+/posts/theme_3_awajishima/ /posts/awajishima-3year-torafugu-suisenkyo-uzushio-winter-guide/ 301
+/posts/theme_4_huistenbosch /posts/huistenbosch-winter-illumination-unzen-onsen-nagasaki-guide/ 301
+/posts/theme_4_huistenbosch/ /posts/huistenbosch-winter-illumination-unzen-onsen-nagasaki-guide/ 301
+/posts/theme_5_manza /posts/manza-onsen-milky-sulfur-snow-roten-winter-guide/ 301
+/posts/theme_5_manza/ /posts/manza-onsen-milky-sulfur-snow-roten-winter-guide/ 301
+/posts/theme_1_sounkyo /posts/sounkyo-onsen-hyobaku-festival-daisetsuzan-winter-guide/ 301
+/posts/theme_1_sounkyo/ /posts/sounkyo-onsen-hyobaku-festival-daisetsuzan-winter-guide/ 301
+/posts/theme_2_shirahone /posts/shirahone-onsen-milky-snow-roten-norikura-winter-guide/ 301
+/posts/theme_2_shirahone/ /posts/shirahone-onsen-milky-snow-roten-norikura-winter-guide/ 301
+/posts/theme_3_shuzenji /posts/shuzenji-onsen-bamboo-forest-snow-winter-plum-izu-guide/ 301
+/posts/theme_3_shuzenji/ /posts/shuzenji-onsen-bamboo-forest-snow-winter-plum-izu-guide/ 301
+/posts/theme_4_misasa /posts/misasa-onsen-radium-hotspring-matsuba-crab-winter-guide/ 301
+/posts/theme_4_misasa/ /posts/misasa-onsen-radium-hotspring-matsuba-crab-winter-guide/ 301
+/posts/theme_5_tendo /posts/tendo-onsen-snow-yamadera-risshakuji-yamagata-beef-guide/ 301
+/posts/theme_5_tendo/ /posts/tendo-onsen-snow-yamadera-risshakuji-yamagata-beef-guide/ 301
+
+# 4. Fallback legacy prefecture URL mappings
+/prefecture/:pref/ /prefectures/:pref/ 301
+/prefecture/:pref /prefectures/:pref/ 301
+/fukushima /prefectures/fukushima/ 301
+/mie /prefectures/mie/ 301
+/ishikawa /prefectures/ishikawa/ 301
+/gunma /prefectures/gunma/ 301
+/nagano /prefectures/nagano/ 301
+/akita /prefectures/akita/ 301
+/gifu /prefectures/gifu/ 301
+/shizuoka /prefectures/shizuoka/ 301
+/yamaguchi /prefectures/yamaguchi/ 301
+/tochigi /prefectures/tochigi/ 301
+/yamagata /prefectures/yamagata/ 301
+
+# 5. Features category aliases
+/features/gourmet /features/ 301
+/features/onsen /features/ 301
+/features/winter /features/ 301
+/features/luxury /features/ 301
+/features/ocean-view /features/ 301
+
+# 6. Normalized slug redirects (space and underscore cleanup)
+/posts/kusatsu-masunari%20ya-guide /posts/kusatsu-masunariya-guide/ 301
+/posts/kusatsu-masunari%20ya-guide/ /posts/kusatsu-masunariya-guide/ 301
+/posts/kusatsu_now_resort /posts/kusatsu-now-resort/ 301
+/posts/kusatsu_now_resort/ /posts/kusatsu-now-resort/ 301
+/spots/wakita-yunos%20eko /spots/wakita-yunoseko/ 301
+/spots/wakita-yunos%20eko/ /spots/wakita-yunoseko/ 301

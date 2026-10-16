@@ -591,8 +591,8 @@
 日本三名泉・草津温泉の湯畑源泉＆露天風呂満喫ガイド！「草津温泉 湯畑展望露天の宿 ぬ志勇旅館」をはじめとする名湯掛け流し、上州牛懐石、無料駐車場完備宿の最新公式写真・お得な宿泊プラン情報を掲載。
 
 ## 草津温泉 草津ナウリゾートホテルに泊まる大人の休日｜おすすめポイント＆過ごし方ナビ
-- 記事: https://croud-travel.pages.dev/posts/kusatsu_now_resort/
-- 全文Markdown: https://croud-travel.pages.dev/ai/kusatsu_now_resort.md
+- 記事: https://croud-travel.pages.dev/posts/kusatsu-now-resort/
+- 全文Markdown: https://croud-travel.pages.dev/ai/kusatsu-now-resort.md
 - 宿泊施設名: 草津温泉 草津ナウリゾートホテル
 - エリア: 草津・尻焼・花敷
 - 参考価格: ¥24000〜
@@ -761,8 +761,8 @@
 群馬県・草津温泉のおしゃれな素泊まり宿「草津温泉 佳乃や（よしのや）」の宿泊レビュー！湯畑まで徒歩約2分、北欧スタイリッシュな清潔館内、天然温泉大浴場、無料の焼き立てパン軽朝食、無料駐車場を深掘り特集。
 
 ## 草津温泉 益成屋旅館宿泊レポート｜宿の魅力・アクセス・周辺観光まとめ
-- 記事: https://croud-travel.pages.dev/posts/kusatsu-masunari ya-guide/
-- 全文Markdown: https://croud-travel.pages.dev/ai/kusatsu-masunari ya-guide.md
+- 記事: https://croud-travel.pages.dev/posts/kusatsu-masunariya-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/kusatsu-masunariya-guide.md
 - 宿泊施設名: 草津温泉 益成屋旅館
 - エリア: 万座・草津・四万
 - 参考価格: ¥19950〜

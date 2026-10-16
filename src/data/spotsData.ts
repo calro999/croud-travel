@@ -210,7 +210,7 @@ export const SPOTS_DATA: FamousSpotDetail[] = [
 
   // 福岡県・脇田温泉
   {
-    slug: "wakita-yunos eko",
+    slug: "wakita-yunoseko",
     prefSlug: "fukuoka",
     prefName: "福岡県",
     citySlug: "miyawaka",

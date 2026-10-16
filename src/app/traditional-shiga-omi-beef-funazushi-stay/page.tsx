@@ -232,13 +232,15 @@ export default function FeaturePage() {
                       <span className="text-xs text-stone-500 block">参考料金 (2名1室利用時/1名あたり)</span>
                       <span className="text-xl md:text-2xl font-black text-amber-600">{hotel.price}</span>
                     </div>
-                    <Link 
-                      href={`/hotels/${encodeURIComponent(hotel.name)}`}
+                    <a
+                      href={(() => { const id = hotel.img?.match(/HOTEL\/(\d+)/)?.[1]; return id ? `https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=${encodeURIComponent(`https://travel.rakuten.co.jp/HOTEL/${id}/${id}.html`)}` : `https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=${encodeURIComponent(`https://travel.rakuten.co.jp/`)}`; })()}
+                      target="_blank"
+                      rel="noopener noreferrer"
                       className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3 rounded-xl bg-amber-500 hover:bg-amber-600 text-white font-bold text-sm shadow-sm hover:shadow transition-all duration-200"
                     >
                       <span>宿泊プラン・空室を見る</span>
                       <ChevronRight className="w-4 h-4" />
-                    </Link>
+                    </a>
                   </div>
                 </div>
               </div>
