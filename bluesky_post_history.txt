@@ -73,3 +73,4 @@ showcase_nara
 firefly-viewing-stream-onsen-hotels-guide
 showcase_hiroshima
 silver-week-shinkansen-lastminute-guide
+showcase_nagano
