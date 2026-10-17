@@ -83,3 +83,4 @@ showcase_shizuoka
 kagoshima-city-sakurajima-tenmonkan-hotels-guide
 showcase_kyoto
 yatsugatake-kiyosato-kobuchisawa-hotels-guide
+showcase_aomori
