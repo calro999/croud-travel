@@ -107,7 +107,7 @@ export default function FeaturePage() {
               reviews: 74,
               price: "¥7,150〜",
               access: "秩父鉄道　浦山口駅から徒歩で１８分",
-              features: ["秩父の名所巡りに便利！岩風呂につかっ���疲れを癒す豊かな自然を存分に味わえる清流沿いの寛ぎの宿", "秩父市荒川上田野565", "楽天アワード受賞歴"]
+              features: ["秩父の名所巡りに便利！岩風呂につかって疲れを癒す豊かな自然を存分に味わえる清流沿いの寛ぎの宿", "秩父市荒川上田野565", "楽天アワード受賞歴"]
             }
   ];
 
@@ -274,14 +274,6 @@ export default function FeaturePage() {
             ))}
           </div>
         </section>
-
-        
-        
-        
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />

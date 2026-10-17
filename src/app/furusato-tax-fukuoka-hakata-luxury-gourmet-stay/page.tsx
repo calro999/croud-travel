@@ -513,11 +513,6 @@ export default function FurusatoArticlePage() {
           </ul>
         </section>
       </div>
-    
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -600,7 +595,22 @@ export default function FurusatoArticlePage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/autumn-budget-yamanashi-kofu-shosenkyo-koshu-wine-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">甲府：御岳昇仙峡の渓谷紅葉と甲州新酒ワイン！3,000円台〜格安ホテル5選</span>
+            </a>
+            <a href="/furusato-tax-shosenkyo-kofu-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">甲府・御岳昇仙峡の覚円峰奇岩紅葉＆仙娥滝！信玄の隠し湯・湯村温泉×ふるさと納税厳選ガイド山梨</span>
+            </a>
+            <a href="/winter-yamanashi-kawaguchiko-onsen-fuji-view-koshu-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">富士河口湖温泉郷で過ごす冬の旅（11・12月）！湖畔展望露天！名宿5選</span>
+            </a>
+            <a href="/yamanashi-fujigoko-kawaguchiko-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">山梨・富士五湖＆河口湖：逆さ富士・富士急ハイランド＆ほうとう極上宿 厳選ガイド</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

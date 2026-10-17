@@ -413,6 +413,256 @@ export default function AutumnBudgetHotelsPage() {
           </div>
         </div>
       </section>
-    </main>
+    
+        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
+          <div className="space-y-2 border-b border-stone-200 pb-4">
+            <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
+              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+            </span>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
+              📊 久留米駅前：高良大社の紅葉パノラマ＆元祖豚骨久留米ラーメン・焼き鳥！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+            </h2>
+            <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+              楽天トラベル公式APIより取得した「久留米駅前：高良大社の紅葉パノラマ＆元祖豚骨久留米ラーメン・焼き鳥！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+            </p>
+          </div>
+
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th>
+                  <th className="p-3">所在地</th>
+                  <th className="p-3">最寄り駅・交通</th>
+                  <th className="p-3">駐車場情報</th>
+                  <th className="p-3">楽天評価</th>
+                  <th className="p-3">最安目安</th>
+                  <th className="p-3">予約・詳細</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. いやし処ほてる寛楽　久留米駅前</td>
+                <td className="p-3 text-stone-600">福岡県久留米市通町108-4</td>
+                <td className="p-3 text-stone-600">西鉄久留米駅周辺</td>
+                <td className="p-3 text-stone-600">なし</td>
+                <td className="p-3 font-bold text-amber-600">★4.15（186件）</td>
+                <td className="p-3 font-bold text-rose-600">¥3,760〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F196704%2F196704.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. 東横ＩＮＮ西鉄久留米駅東口</td>
+                <td className="p-3 text-stone-600">福岡県久留米市天神町3-93-4</td>
+                <td className="p-3 text-stone-600">西鉄久留米駅周辺</td>
+                <td className="p-3 text-stone-600">５６台（立体駐車場）　　　５００円/泊　　先着順　　高さ制限あり（2ｍまで）</td>
+                <td className="p-3 font-bold text-amber-600">★4.01（756件）</td>
+                <td className="p-3 font-bold text-rose-600">¥4,883〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68686%2F68686.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. 久留米ホテルエスプリ</td>
+                <td className="p-3 text-stone-600">福岡県久留米市東町339</td>
+                <td className="p-3 text-stone-600">西鉄久留米駅周辺</td>
+                <td className="p-3 text-stone-600">有り　15台　1,000円（税込み／泊）　先着順　※提携駐車場も有り</td>
+                <td className="p-3 font-bold text-amber-600">★3.9（1384件）</td>
+                <td className="p-3 font-bold text-rose-600">¥3,400〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68074%2F68074.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">4. ホテルマリターレ創世　久留米</td>
+                <td className="p-3 text-stone-600">福岡県久留米市東櫛原町900</td>
+                <td className="p-3 text-stone-600">久留米駅周辺</td>
+                <td className="p-3 text-stone-600">有り　２００台　無料　予約不要</td>
+                <td className="p-3 font-bold text-amber-600">★4.33（254件）</td>
+                <td className="p-3 font-bold text-rose-600">¥5,900〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F79319%2F79319.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">5. ホテルニュープラザ久留米</td>
+                <td className="p-3 text-stone-600">福岡県久留米市六ッ門町16-1</td>
+                <td className="p-3 text-stone-600">久留米駅周辺</td>
+                <td className="p-3 text-stone-600">普通車200台　 550円（税込/泊）　/　大型車（バス･トラック）は事前にホテルへご確認下さい</td>
+                <td className="p-3 font-bold text-amber-600">★3.67（2628件）</td>
+                <td className="p-3 font-bold text-rose-600">¥3,500〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1373%2F1373.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div className="space-y-4">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
+              🏨 各宿の宿泊者リアルクチコミ・客室イメージ・項目別評価データ
+            </h3>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #1</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">いやし処ほてる寛楽　久留米駅前</h3>
+                  <span className="text-xs text-stone-400 ml-2">（いやしどころほてる かんらく くるめえきまえ）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,760〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/196704/196704.jpg" alt="いやし処ほてる寛楽　久留米駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>日本を感じる「和」の雰囲気と「洋」の快適さを持ち お客様に「寛ぎ」と「楽しさ」をお届けします。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 福岡県久留米市通町108-4 ／ 最寄り駅：西鉄久留米 ／ 交通案内：西鉄久留米駅より車で4分　徒歩7分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>なし</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.1 ／ 立地 ★3.86 ／ 部屋 ★4.16 ／ 設備 ★4.09 ／ 風呂 ★3.97 ／ 食事 ★4.08</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内は綺麗で朝食も混雑なく快適綺麗なホテルでした朝食も混んでなく、ゆっくり食べることができましたクチコミの詳細はこちらから　https://review.travel.rakuten.co…　2026-10-04 20:54:26投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #2</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">東横ＩＮＮ西鉄久留米駅東口</h3>
+                  <span className="text-xs text-stone-400 ml-2">（とうよこいんにしてつくるめえきひがしぐち）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥4,883〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/68686/68686_s.jpg" alt="東横ＩＮＮ西鉄久留米駅東口 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>西鉄久留米駅から徒歩2分で朝食・小学生以下添い寝無料のホテル！大砲ラーメン本店まで車で5分</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 福岡県久留米市天神町3-93-4 ／ 最寄り駅：西鉄久留米 ／ 交通案内：西鉄久留米駅中央東口（東口広場方面）からリベールの横を通って古賀病院方向へ徒歩２分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>５６台（立体駐車場）　　　５００円/泊　　先着順　　高さ制限あり（2ｍまで）</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4 ／ 立地 ★4.04 ／ 部屋 ★4.08 ／ 設備 ★3.96 ／ 風呂 ★3.96 ／ 食事 ★3.97</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境と清潔な部屋でぐっすり快眠周囲の騒音が全く気にならなかったので静かに過ごせました。部屋の嫌な臭いもなく清潔感が感じられたので良く眠れました。朝食会場は狭かったですが部屋で食べたい…　2026-10-05 22:57:46投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #3</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">久留米ホテルエスプリ</h3>
+                  <span className="text-xs text-stone-400 ml-2">（くるめほてるえすぷり）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,400〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/68074/68074_k1.jpg" alt="久留米ホテルエスプリ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>西鉄久留米駅徒歩1分の立地。広い客室、広いベッドとスタイリッシュなお部屋が自慢のビジネスホテルです。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 福岡県久留米市東町339 ／ 最寄り駅：西鉄久留米 ／ 交通案内：西鉄久留米駅から徒歩１分。JR久留米駅より車で5分。天神から電車で約30分。福岡空港より高速バスで約４５分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　15台　1,000円（税込み／泊）　先着順　※提携駐車場も有り</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.93 ／ 立地 ★3.96 ／ 部屋 ★3.9 ／ 設備 ★3.86 ／ 風呂 ★3.83 ／ 食事 ★3.94</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清掃が行き届き、喫煙室があるのはありがたい清掃が行き届いて良かった!喫煙が肩身が狭くなってご時世に喫煙室はホントにありがたいです!クチコミの詳細はこちらから　https://review.…　2026-10-03 22:49:14投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #4</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ホテルマリターレ創世　久留米</h3>
+                  <span className="text-xs text-stone-400 ml-2">（まりたーれそうせい　くるめ）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥5,900〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/79319/79319_b.jpg" alt="ホテルマリターレ創世　久留米 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>広々とした客室は全室ジャグジー付き！朝食はルームサービスなので、ごゆっくりお寛ぎいただけます。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 福岡県久留米市東櫛原町900 ／ 最寄り駅：久留米 ／ 交通案内：ＪＲ久留米駅・西鉄久留米駅から車で約１０分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　予約不要</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.2 ／ 部屋 ★4.33 ／ 設備 ★4.25 ／ 風呂 ★4.3 ／ 食事 ★4.52</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「上品で丁寧な接客に感動、部屋も広く清潔普段はビジネスホテルに宿泊していますが、たまたま空きがあったので初めて宿泊しました。結婚式も出来るホテルのようで、従業員の方の対応がビジネスホテルとは全く…　2026-10-10 11:28:13投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #5</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ホテルニュープラザ久留米</h3>
+                  <span className="text-xs text-stone-400 ml-2">（にゅーぷらざくるめ）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,500〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1373/1373_sgl.jpg" alt="ホテルニュープラザ久留米 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>全 264室 / 西鉄久留米駅より徒歩7分 / 駐車スペース200台</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 福岡県久留米市六ッ門町16-1 ／ 最寄り駅：久留米 ／ 交通案内：西鉄久留米駅から徒歩7分。JR久留米駅から車で5分。広又バス停まで徒歩２分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>普通車200台　 550円（税込/泊）　/　大型車（バス･トラック）は事前にホテルへご確認下さい</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.75 ／ 立地 ★3.66 ／ 部屋 ★3.59 ／ 設備 ★3.54 ／ 風呂 ★3.5 ／ 食事 ★3.75</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備が古くセキュリティや操作性に難あり設備が古過ぎですね。福岡市の繁華街に位置してるので、もう少しセキュリティ対策をして欲しいですね。エアコンのリモコンや目覚まし時計の表示が全く分かりませんでした…　2026-10-10 17:50:09投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="space-y-4 pt-6 border-t border-stone-200">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
+              🗺️ あわせて巡りたい！福岡県の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+            </h3>
+            <p className="text-xs text-stone-600 leading-relaxed">
+              宿泊前後の1泊2日・2泊3日モデルコースに組み込みたい、福岡県を代表する名所・絶景スポットの解説です。チェックイン前後の荷物預かりや駅周辺のレンタカー・周遊バスを活用すると効率よく巡ることができます。
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
+                <h3 className="text-base font-bold text-stone-900">太宰府天満宮</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">学問の神様・菅原道真公をお祀りする全国天満宮の総本社。境内の「飛梅」や参道の「名物梅ヶ枝餅」、建築家・隈研吾氏デザインのスターバックスが見所です。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Sakurai_Futamigaura.jpg/1280px-Sakurai_Futamigaura.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="糸島（桜井二見ヶ浦）" className="w-full h-full object-cover" loading="lazy" /></div>
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
+                <h3 className="text-base font-bold text-stone-900">糸島（桜井二見ヶ浦）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">福岡市から車で約40分のおしゃれな海岸リゾート。海中に佇む白い鳥居と夫婦岩が並ぶ「桜井二見ヶ浦」の夕日や海沿いのカフェテラスが大人気です。 糸島市（いとしまし）は、福岡県の最西部に位置する市。福岡地域（都市計画の圏域では福岡都市圏）に属する。…</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
+                <h3 className="text-base font-bold text-stone-900">門司港レトロ</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">明治から大正にかけて国際貿易港として栄えたノスタルジックな港町。木造の旧門司三井倶楽部や門司港駅舎、焼きカレーの名店が立ち並びます。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
+                <h3 className="text-base font-bold text-stone-900">中洲の屋台街</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">那珂川沿いに夕暮れとともに赤提灯が灯る博多名物の屋台街。とんこつラーメンや焼きラーメン、一口餃子を求めて夜な夜な観光客と地元客が集います。</p>
+              </div>
+            </div>
+            </div>
+          </div>
+
+          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-3 text-xs text-stone-700 leading-relaxed">
+            <h3 className="text-sm md:text-base font-bold text-amber-950">
+              💡 福岡県エリアの宿泊予約・シーズン別ベストタイミングと節約ノウハウ
+            </h3>
+            <p>
+              <strong>1. 早期予約と楽天トラベルクーポンの併用：</strong> 福岡県の人気温泉宿・リゾートホテルは、週末や連休・紅葉・年末年始の60日〜30日前から一気に予約が埋まります。毎月5と0のつく日やスーパーSALE期間中に配布される宿クーポン・自治体クーポンを併用すると、通常より最大10〜20%お得に予約可能です。
+            </p>
+            <p>
+              <strong>2. 夕食・朝食プランと部屋タイプの選び方：</strong> 地元産の旬魚介やブランド牛会席を味わうなら「夕朝食付きプラン」、周辺の屋台・老舗居酒屋・ご当地グルメを食べ歩くなら「朝食付き」または「素泊まり＋天然温泉大浴場付きホテル」を選ぶと予算と満足度のバランスが最適化されます。
+            </p>
+          </div>
+        </section>
+
+      </main>
   );
 }

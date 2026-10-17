@@ -432,11 +432,6 @@ export default function Page() {
             </Link>
           </div>
         </section>
-      
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -519,7 +514,22 @@ export default function Page() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/winter-iwate-oshuku-shizukuishi-onsen-koiwai-snow-shizukuishigyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">鶯宿温泉＆雫石で過ごす冬の旅（11・12月）！開湯450年の名湯と小岩井農場雪景色！名宿5選</span>
+            </a>
+            <a href="/furusato-tax-hachimantai-aspiteline-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">八幡平アスピーテラインの紅葉回廊ドライブ＆乳白色の秘湯・松川温泉！露天風呂宿×ふるさと納税厳選ガイド岩手</span>
+            </a>
+            <a href="/iwate-hanamaki-tono-ihatov-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">岩手・花巻温泉郷＆遠野：宮沢賢治イーハトーブ・カッパ淵＆大沢・台温泉宿 厳選ガイド</span>
+            </a>
+            <a href="/traditional-iwate-morioka-reimen-nanbu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">盛岡冷麺＆前沢牛・花巻温泉郷：南部鉄器の器美学と岩手最高峰の美食名湯宿5選</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
@@ -549,6 +559,194 @@ export default function Page() {
                 広島県の宿・温泉
               </Link>
             </div>
+          </div>
+        </section>
+
+      
+        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
+          <div className="space-y-2 border-b border-stone-200 pb-4">
+            <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
+              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+            </span>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
+              📊 日本三大名勝断崖海岸＆パノラマ海宿×ふるさと納税ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+            </h2>
+            <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+              楽天トラベル公式APIより取得した「日本三大名勝断崖海岸＆パノラマ海宿×ふるさと納税ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+            </p>
+          </div>
+
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th>
+                  <th className="p-3">所在地</th>
+                  <th className="p-3">最寄り駅・交通</th>
+                  <th className="p-3">駐車場情報</th>
+                  <th className="p-3">楽天評価</th>
+                  <th className="p-3">最安目安</th>
+                  <th className="p-3">予約・詳細</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. ホテル羅賀荘</td>
+                <td className="p-3 text-stone-600">岩手県下閉伊郡田野畑村羅賀60-1</td>
+                <td className="p-3 text-stone-600">田野畑駅周辺</td>
+                <td className="p-3 text-stone-600">有り　７０台　無料　予約不要</td>
+                <td className="p-3 font-bold text-amber-600">★4.34（521件）</td>
+                <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F141313%2F141313.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. 東尋坊温泉　三国オーシャンリゾート＆ホテル（旧：三国観光ホテル）</td>
+                <td className="p-3 text-stone-600">福井県坂井市三国町緑ヶ丘4-4-8</td>
+                <td className="p-3 text-stone-600">芦原温泉駅周辺</td>
+                <td className="p-3 text-stone-600">有り　２００台　無料</td>
+                <td className="p-3 font-bold text-amber-600">★4.2（644件）</td>
+                <td className="p-3 font-bold text-rose-600">¥7,000〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4898%2F4898.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. あしずり温泉郷　足摺サニーサイドホテル</td>
+                <td className="p-3 text-stone-600">高知県土佐清水市松尾19-2</td>
+                <td className="p-3 text-stone-600">中村駅周辺</td>
+                <td className="p-3 text-stone-600">有り　３０台　無料</td>
+                <td className="p-3 font-bold text-amber-600">★4.16（555件）</td>
+                <td className="p-3 font-bold text-rose-600">¥6,500〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14660%2F14660.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div className="space-y-4">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
+              🏨 各宿の宿泊者リアルクチコミ・客室イメージ・項目別評価データ
+            </h3>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #1</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ホテル羅賀荘</h3>
+                  <span className="text-xs text-stone-400 ml-2">（らがそう）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥6,000〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/141313/141313_kya.jpg" alt="ホテル羅賀荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>お天気が良ければ朝陽に出会え、部屋の窓からは紺碧の海と白亜紀断層を眺め日々の疲れを癒す海辺のホテル</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 岩手県下閉伊郡田野畑村羅賀60-1 ／ 最寄り駅：田野畑 ／ 交通案内：E４５三陸道「宮古市や久慈市」から車で約４５分。龍泉洞は約３０分。三陸鉄道、田野畑駅から車で約３分（予約で送迎ＯＫ）</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　予約不要</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.52 ／ 部屋 ★4.32 ／ 設備 ★4.17 ／ 風呂 ★4.31 ／ 食事 ★4.41</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理もロケーションも最高、隣の音が少し気になる得々プランでしたが、料理も満足でした。特にアワビの蒸し焼きが最高!海が近いのでロケーションも良かった!!ちょっと気になったのは、隣の部屋の音が聞こ…　2026-10-09 15:56:53投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #2</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">東尋坊温泉　三国オーシャンリゾート＆ホテル（旧：三国観光ホテル）</h3>
+                  <span className="text-xs text-stone-400 ml-2">（とうじんぼうおんせん　みくにおーしゃんりぞーとあんどほてる）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥7,000〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4898/4898_heya.jpg" alt="東尋坊温泉　三国オーシャンリゾート＆ホテル（旧：三国観光ホテル） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>全室オーシャンビュー！日本海に沈む美しい夕陽をお部屋から◆東尋坊まで車で10分＆“和畳の湯”も人気♪</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 福井県坂井市三国町緑ヶ丘4-4-8 ／ 最寄り駅：芦原温泉 ／ 交通案内：ＪＲ北陸新幹線・ハピライン芦原温泉下車　京福バス東尋坊経由　終点　龍翔博物館前下車</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「いいホテルです食事が思ったより残念でした。味とかは問題ではなく、こちらの過大な期待のせいだと思いますが..あと、夏休みの子供キャンプ?なのか子供が多すぎて、バイキング取りづらかった。更に引率の…　2026-08-18 16:20:11投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #3</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">あしずり温泉郷　足摺サニーサイドホテル</h3>
+                  <span className="text-xs text-stone-400 ml-2">（あしずりおんせんきょう　あしずりさにーさいどほてる）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥6,500〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14660/14660_heya.jpg" alt="あしずり温泉郷　足摺サニーサイドホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>水平線に沈む夕陽が一望出来るレストラン！黒潮の海鮮と土佐のならではの郷土料理をどうぞ♪</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 高知県土佐清水市松尾19-2 ／ 最寄り駅：中村 ／ 交通案内：中村駅よりバス１００分（足摺岬行き）　タクシー６０分／高知自動車道　四万十町中央ＩＣよりＲ５６、Ｒ３２１経由110分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「佳海景与温泉体,感允携犬入住。佳的地点,能看到景的海岸,月光,享受温泉和静。服人心周到,仔介,感能允狗狗一起入住,如果去柏玩,是个理想的住宿所。クチコミの詳細はこちらから　https://re…　2026-08-28 22:29:02投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="space-y-4 pt-6 border-t border-stone-200">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
+              🗺️ あわせて巡りたい！岩手県の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+            </h3>
+            <p className="text-xs text-stone-600 leading-relaxed">
+              宿泊前後の1泊2日・2泊3日モデルコースに組み込みたい、岩手県を代表する名所・絶景スポットの解説です。チェックイン前後の荷物預かりや駅周辺のレンタカー・周遊バスを活用すると効率よく巡ることができます。
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
+                <h3 className="text-base font-bold text-stone-900">中尊寺金色堂（平泉）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">世界遺産・平泉の象徴であり、奥州藤原氏の栄華を今に伝える極楽浄土の建築。堂全体が金箔で覆われ、螺鈿細工や象牙の装飾が施された国宝の美しさは言葉を失うほどです。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
+                <h3 className="text-base font-bold text-stone-900">浄土ヶ浜</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">三陸復興国立公園を代表する三陸海岸の景勝地。白い鋭利な岩肌と青松、穏やかで透明度の高いエメラルドグリーンの入江が「まるで極楽浄土のよう」と称えられています。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
+                <h3 className="text-base font-bold text-stone-900">龍泉洞</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">日本三大鍾乳洞の一つで、国の天然記念物。洞内に湧き出る地底湖は世界有数の透明度を誇り、「ドラゴンブルー」と呼ばれる神秘的な青い輝きに吸い込まれそうになります。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
+                <h3 className="text-base font-bold text-stone-900">小岩井農場</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">岩手山の雄大な山麓に広がる日本最大級の民間総合農場。美しい一本桜や歴史あるレンガサイロ、搾りたての牛乳を使った絶品アイスクリームなどが楽しめます。</p>
+              </div>
+            </div>
+            </div>
+          </div>
+
+          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-3 text-xs text-stone-700 leading-relaxed">
+            <h3 className="text-sm md:text-base font-bold text-amber-950">
+              💡 岩手県エリアの宿泊予約・シーズン別ベストタイミングと節約ノウハウ
+            </h3>
+            <p>
+              <strong>1. 早期予約と楽天トラベルクーポンの併用：</strong> 岩手県の人気温泉宿・リゾートホテルは、週末や連休・紅葉・年末年始の60日〜30日前から一気に予約が埋まります。毎月5と0のつく日やスーパーSALE期間中に配布される宿クーポン・自治体クーポンを併用すると、通常より最大10〜20%お得に予約可能です。
+            </p>
+            <p>
+              <strong>2. 夕食・朝食プランと部屋タイプの選び方：</strong> 地元産の旬魚介やブランド牛会席を味わうなら「夕朝食付きプラン」、周辺の屋台・老舗居酒屋・ご当地グルメを食べ歩くなら「朝食付き」または「素泊まり＋天然温泉大浴場付きホテル」を選ぶと予算と満足度のバランスが最適化されます。
+            </p>
           </div>
         </section>
 

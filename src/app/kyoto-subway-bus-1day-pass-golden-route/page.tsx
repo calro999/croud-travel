@@ -103,7 +103,7 @@ export default function KyotoSubwayBusPassPage() {
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「1,100円で元を取る黄金ルート＆市バス大渋滞を完全回避する裏ワザ」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「1,100円で元を取る黄金ルート＆市バス大渋滞を完全回避する裏ワザ」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"地下鉄・バス1日券で巡る京都観光：1,100円で元を取る黄金ルート＆市バス大渋滞を完全回避する裏ワザエリアでは、「ダイワロイネットホテル京都駅前　ＰＲＥＭＩＥＲ」（楽天評価★4.55・クチコミ700件、所在地：京都府京都市下京区烏丸通七条下る東塩小路町707-2）をはじめとする宿を拠点にし、最寄り駅（京都）やアクセス条件（JR「京都駅」中央口より徒歩約4分。「京都駅」地下道と直結（地下道からの入り口は夜間23:30～翌7:00閉鎖））に合わせて午前中に周辺観光名所を巡り、15時のチェックイン後に温泉や夕食会席を堪能するスケジュールが最も効率的です。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"宿泊予約時は最安料金目安（例：「ホテルテトラ京都駅前」は1名あたり¥4,700〜）や駐車場条件（当ホテルには駐車場、及び提携駐車場がございません。公共交通機関でご来館をお勧めいたします。）を事前に確認しましょう。連休や紅葉・年末年始シーズンは早期に満室となるため、楽天トラベルの早期割引プランやクーポンの活用がおすすめです。"}}]}) }}
       />
 
         {/* Section 1: なぜ市バスだけだと京都観光は破綻するのか */}
@@ -480,13 +480,6 @@ export default function KyotoSubwayBusPassPage() {
             </Link>
           </div>
         </section>
-
-      
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         
 
         {/* FAQ Section */}
@@ -504,7 +497,7 @@ export default function KyotoSubwayBusPassPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。
+                A. 地下鉄・バス1日券で巡る京都観光：1,100円で元を取る黄金ルート＆市バス大渋滞を完全回避する裏ワザでは、最寄り駅からの送迎バス運行時間やチェックイン時刻（通常15:00）から逆算し、午前中に主要な景勝地・寺社・市場を巡り、午後は宿の天然温泉や地元食材の会席料理をゆっくり堪能する行程が最も満足度の高い回り方です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -513,7 +506,7 @@ export default function KyotoSubwayBusPassPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。
+                A. 楽天トラベルで予約する際は、無料駐車場の台数・予約要否、露天風呂付き客室や部屋食プランの有無、そして5と0のつく日クーポンや早期割引プランの対象期間を事前に比較確認しておくと安心です。
               </p>
             </details>
           </div>
@@ -528,7 +521,22 @@ export default function KyotoSubwayBusPassPage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/silver-week-glamping-tohoku-sendai-fukushima-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">東北シルバーウィーク グランピング：宮城・福島・秋田の雄大な自然＆紅葉先取りステイ</span>
+            </a>
+            <a href="/winter-akita-oyasukyo-akinomiya-onsen-minasegyu-seri-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">小安峡・秋の宮温泉で過ごす冬の旅（11・12月）！白い湯煙の大噴湯と渓谷初雪！名宿5選</span>
+            </a>
+            <a href="/autumn-budget-akita-kakunodate-momiji-kiritanpo-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">秋田：抱返り渓谷・角館紅葉ときりたんぽ鍋！2,000円台〜泊まれる格安ホテル5選</span>
+            </a>
+            <a href="/furusato-tax-three-great-beautiful-forests-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">日本三大美林＆天然木アロマと森林浴・癒やしのリトリート温泉宿×ふるさと納税厳選ガイド青森ヒバ・秋田スギ・木曽ヒノキ</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

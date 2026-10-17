@@ -44,7 +44,7 @@ export default function FurusatoTaxArticle() {
     <main className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「有馬温泉 兵衛向陽閣」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「有馬温泉 兵衛向陽閣」へは、神戸より電車で約３０分／神戸電鉄有馬温泉駅・バス有馬温泉駅より徒歩約６分／阪神高速道路北神戸線有馬口出口より約５分。最寄りの有馬温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「有馬温泉 兵衛向陽閣」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「有馬温泉 兵衛向陽閣」は『創業700年の老舗旅館。有馬温泉の高台に位置し、有���最大級の悠々とした三大浴場でお寛ぎ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「有馬温泉 兵衛向陽閣」と「有馬温泉 月光園 鴻朧館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「有馬温泉 兵衛向陽閣」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「有馬温泉 兵衛向陽閣」へは、神戸より電車で約３０分／神戸電鉄有馬温泉駅・バス有馬温泉駅より徒歩約６分／阪神高速道路北神戸線有馬口出口より約５分。最寄りの有馬温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「有馬温泉 兵衛向陽閣」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「有馬温泉 兵衛向陽閣」は『創業700年の老舗旅館。有馬温泉の高台に位置し、有馬最大級の悠々とした三大浴場でお寛ぎ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「有馬温泉 兵衛向陽閣」と「有馬温泉 月光園 鴻朧館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       {/* ヒーローヘッダー */}
       <header className="relative bg-gradient-to-br from-stone-900 via-amber-950 to-stone-900 text-amber-50 py-16 px-4 md:px-8 border-b border-amber-900/50 shadow-2xl">
@@ -508,11 +508,6 @@ export default function FurusatoTaxArticle() {
           </ul>
         </section>
       </div>
-    
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -528,8 +523,8 @@ export default function FurusatoTaxArticle() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 有馬温泉駅よりアクセス。神戸より電車で約３０分／神戸電鉄有馬温泉駅・バス有馬温泉駅より徒歩約６分／阪神高速道路北神戸線有馬口出口より約５分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「有馬温泉 兵衛向陽閣」にチェックイン。創業700年の老舗旅館。有馬温泉の高台に位置し、有���最大級の悠々とした三大浴場でお寛ぎいただけまなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「有馬温泉 兵衛向陽閣」の湯処へ。創業700年の老舗旅館。有馬温泉の高台に位置し、有���最大級の悠々ととともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「有馬温泉 兵衛向陽閣」にチェックイン。創業700年の老舗旅館。有馬温泉の高台に位置し、有馬最大級の悠々とした三大浴場でお寛ぎいただけまなどの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「有馬温泉 兵衛向陽閣」の湯処へ。創業700年の老舗旅館。有馬温泉の高台に位置し、有馬最大級の悠々ととともに、夕暮れの特別な寛ぎを満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「有馬温泉 兵衛向陽閣」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -571,7 +566,7 @@ export default function FurusatoTaxArticle() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「有馬温泉 兵衛向陽閣」は『創業700年の老舗旅館。有馬温泉の高台に位置し、有���最大級の悠々とした三大浴場でお寛ぎ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「有馬温泉 兵衛向陽閣」は『創業700年の老舗旅館。有馬温泉の高台に位置し、有馬最大級の悠々とした三大浴場でお寛ぎ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -595,7 +590,22 @@ export default function FurusatoTaxArticle() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/winter-tochigi-nasu-onsen-shikanoyu-snow-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">那須温泉郷で過ごす冬の旅（11・12月）！茶臼岳雪化粧と開湯千三百年鹿の湯！名宿5選</span>
+            </a>
+            <a href="/winter-tochigi-yunishigawa-onsen-heike-irori-snow-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">栃木・日光湯西川温泉で過ごす冬の旅（11・12月）！とちぎ和牛！名宿5選</span>
+            </a>
+            <a href="/furusato-tax-kinugawa-ryuokyo-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">鬼怒川温泉の龍王峡紅葉ハイキング＆ライン下り！鬼怒川渓谷露天風呂宿×ふるさと納税厳選ガイド栃木</span>
+            </a>
+            <a href="/tochigi-nasu-highland-nature-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">栃木・那須高原：茶臼岳・御用邸の森＆ベーカリー・温泉リゾート 厳選ガイド</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

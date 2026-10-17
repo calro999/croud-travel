@@ -422,12 +422,6 @@ export default function Page() {
             
           </div>
         </section>
-
-      
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -510,7 +504,22 @@ export default function Page() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/furusato-tax-chichibu-nagatoro-line-kudari-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">長瀞ライン下りと岩畳の紅葉絵巻！秩父温泉郷の名湯・名物豚みそ丼＆わらじカツを味わう秋の埼玉旅</span>
+            </a>
+            <a href="/winter-saitama-hanno-naguri-onsen-moomin-illumination-bushugyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月埼玉：奥武蔵の薪火サウナと武州和牛！名宿5選</span>
+            </a>
+            <a href="/furusato-tax-nagatoro-iwadatami-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">長瀞ラインくだりの岩畳紅葉＆月の石もみじ公園ライトアップ！秩父温泉宿×ふるさと納税厳選ガイド埼玉</span>
+            </a>
+            <a href="/winter-saitama-kawagoe-koedo-kitain-daruma-unagi-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月埼玉：喜多院初大師だるま市新春初詣！名宿5選</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

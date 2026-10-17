@@ -351,6 +351,256 @@ export default function KochiBudgetAutumnPage() {
           </ul>
         </section>
       </div>
-    </article>
+    
+        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
+          <div className="space-y-2 border-b border-stone-200 pb-4">
+            <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
+              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+            </span>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
+              📊 秋の高知×格安：高知城の紅葉とひろめ市場のカツオ藁焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+            </h2>
+            <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+              楽天トラベル公式APIより取得した「秋の高知×格安：高知城の紅葉とひろめ市場のカツオ藁焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+            </p>
+          </div>
+
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th>
+                  <th className="p-3">所在地</th>
+                  <th className="p-3">最寄り駅・交通</th>
+                  <th className="p-3">駐車場情報</th>
+                  <th className="p-3">楽天評価</th>
+                  <th className="p-3">最安目安</th>
+                  <th className="p-3">予約・詳細</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. ホテル高砂＜高知県＞</td>
+                <td className="p-3 text-stone-600">高知県高知市駅前町2-1</td>
+                <td className="p-3 text-stone-600">高知駅周辺</td>
+                <td className="p-3 text-stone-600">先着順25台/駐車料金：1000円、大型・中型バス、ＲＶ車も可(バス等は料金が異なります)</td>
+                <td className="p-3 font-bold text-amber-600">★4.24（691件）</td>
+                <td className="p-3 font-bold text-rose-600">¥5,200〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16087%2F16087.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. サウスブリーズホテル　高知海月</td>
+                <td className="p-3 text-stone-600">高知県高知市農人町5-29</td>
+                <td className="p-3 text-stone-600">高知駅周辺</td>
+                <td className="p-3 text-stone-600">車５００円（トラック・大型車・キャンピングカー駐車不可）バイク３００円お車の鍵をお預かりし移動有り。</td>
+                <td className="p-3 font-bold text-amber-600">★4.22（2991件）</td>
+                <td className="p-3 font-bold text-rose-600">¥4,570〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8682%2F8682.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. ホテルベストプライス高知</td>
+                <td className="p-3 text-stone-600">高知県高知市南宝永町16-12</td>
+                <td className="p-3 text-stone-600">高知駅周辺</td>
+                <td className="p-3 text-stone-600">屋根付駐車場を【500円／1泊・先着順】でご利用いただけます。（台数に限りがございます）</td>
+                <td className="p-3 font-bold text-amber-600">★4.38（696件）</td>
+                <td className="p-3 font-bold text-rose-600">¥5,085〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182859%2F182859.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">4. 亀の井ホテル　高知</td>
+                <td className="p-3 text-stone-600">高知県吾川郡いの町波川1569</td>
+                <td className="p-3 text-stone-600">伊野駅周辺</td>
+                <td className="p-3 text-stone-600">有り（１５０台／無料）</td>
+                <td className="p-3 font-bold text-amber-600">★4.15（1118件）</td>
+                <td className="p-3 font-bold text-rose-600">¥11,770〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F44261%2F44261.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">5. スーパーホテル高知</td>
+                <td className="p-3 text-stone-600">高知県高知市北本町1-3-20</td>
+                <td className="p-3 text-stone-600">高知駅周辺</td>
+                <td className="p-3 text-stone-600">予約不可※1泊800円(15:00〜翌10：00)　ご到着順にフロントにて駐車場所を指定</td>
+                <td className="p-3 font-bold text-amber-600">★4.16（2963件）</td>
+                <td className="p-3 font-bold text-rose-600">¥6,500〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40671%2F40671.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div className="space-y-4">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
+              🏨 各宿の宿泊者リアルクチコミ・客室イメージ・項目別評価データ
+            </h3>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #1</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ホテル高砂＜高知県＞</h3>
+                  <span className="text-xs text-stone-400 ml-2">（たかさご＜こうちけん＞）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥5,200〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16087/16087_room.jpg" alt="ホテル高砂＜高知県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>高知駅徒歩３分繁華街まで徒歩５分圏内 とにかく立地が良い和モダンなホテルです。全室禁煙です。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 高知県高知市駅前町2-1 ／ 最寄り駅：高知 ／ 交通案内：高知駅より徒歩３分。繁華街まで５分圏内、高知IC車１０分。高知空港から車で３０分。</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>先着順25台/駐車料金：1000円、大型・中型バス、ＲＶ車も可(バス等は料金が異なります)</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの対応が最高、また泊まりたい!外壁の工事中で、駐車場の入口がわからずに電話してから伺いました。その電話対応からものすごくよくて、めちゃめちゃ期待しましたが、全くその通りでした。地下駐車…　2026-08-02 08:41:03投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #2</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">サウスブリーズホテル　高知海月</h3>
+                  <span className="text-xs text-stone-400 ml-2">（さうすぶりーずほてる　こうちかいげつ）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥4,570〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8682/8682_jpr.jpg" alt="サウスブリーズホテル　高知海月 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>朝ごはんフェス四国１位！女性経営らしい細やかな気配りが嬉しいホテル／展望大浴場／全室Wifi無料</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 高知県高知市農人町5-29 ／ 最寄り駅：高知 ／ 交通案内：文化プラザかるぽーと徒歩1分・はりまや橋観光バスターミナル徒歩３分・はりまや橋徒歩7分・高知駅車で5分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>車５００円（トラック・大型車・キャンピングカー駐車不可）バイク３００円お車の鍵をお預かりし移動有り。</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.07 ／ 部屋 ★4.06 ／ 設備 ★4.06 ／ 風呂 ★4.16 ／ 食事 ★4.47</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂はいいお風呂はよかったですクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/8682?reviewId=3312…　2026-10-10 09:16:55投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #3</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ホテルベストプライス高知</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ほてるべすとぷらいすこうち）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥5,085〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/182859/182859.jpg" alt="ホテルベストプライス高知 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>全室16平米以上の広々客室！大浴場＆サウナ完備！ファミリーや女子会向けの特別室もご用意！</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 高知県高知市南宝永町16-12 ／ 最寄り駅：高知 ／ 交通案内：JR高知駅より車で約7分／高知空港よりバスで約20分、バス停「宝永町駅」より徒歩約4分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>屋根付駐車場を【500円／1泊・先着順】でご利用いただけます。（台数に限りがございます）</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.22 ／ 部屋 ★4.44 ／ 設備 ★4.36 ／ 風呂 ★4.37</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とても快適で心地よい時間とても快適でした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/182859?revi…　2026-10-04 06:50:09投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #4</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">亀の井ホテル　高知</h3>
+                  <span className="text-xs text-stone-400 ml-2">（かめのいほてる　こうち）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥11,770〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/44261/44261_room.jpg" alt="亀の井ホテル　高知 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>清流仁淀川を見下ろす全室仁淀川ビューの温泉宿。絶景の露天風呂や高知の食材を使用した会席料理を堪能！</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 高知県吾川郡いの町波川1569 ／ 最寄り駅：伊野 ／ 交通案内：ＪＲ土讃線　伊野駅より車で約５分（約２．５キロ）／高知自動車道　伊野ＩＣより国道３３号線を松山方面へ約１５分（約６ｋｍ）</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り（１５０台／無料）</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.15 ／ 立地 ★4.32 ／ 部屋 ★4.13 ／ 設備 ★4.06 ／ 風呂 ★4.17 ／ 食事 ★4.23</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の中にゴキブリが出現ゴキが出てきたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/44261?reviewId=…　2026-10-11 00:20:26投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #5</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">スーパーホテル高知</h3>
+                  <span className="text-xs text-stone-400 ml-2">（すーぱーほてるこうち）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥6,500〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/40671/40671_si.jpg" alt="スーパーホテル高知 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>無料朝食＆男女入替制天然温泉のあるビジネスホテル♪</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 高知県高知市北本町1-3-20 ／ 最寄り駅：高知 ／ 交通案内：ＪＲ高知駅から徒歩約４分／高知ＩＣから車で約１０分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>予約不可※1泊800円(15:00〜翌10：00)　ご到着順にフロントにて駐車場所を指定</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.23 ／ 立地 ★4.03 ／ 部屋 ★4.14 ／ 設備 ★4.14 ／ 風呂 ★4.03 ／ 食事 ★4.2</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「檜の香りに包まれてぐっすり快眠できた睡眠特化のホテルだけあって自分の家よりぐっすり眠れました!檜のいい香りがしてリラックスできますしモクテルのドリンクサービスも嬉しかったです!初めての高知旅行がと…　2026-10-08 18:51:22投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="space-y-4 pt-6 border-t border-stone-200">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
+              🗺️ あわせて巡りたい！高知県の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+            </h3>
+            <p className="text-xs text-stone-600 leading-relaxed">
+              宿泊前後の1泊2日・2泊3日モデルコースに組み込みたい、高知県を代表する名所・絶景スポットの解説です。チェックイン前後の荷物預かりや駅周辺のレンタカー・周遊バスを活用すると効率よく巡ることができます。
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/ja/thumb/7/79/Kochi_Katsurahama_Daytime_2.JPG/1280px-Kochi_Katsurahama_Daytime_2.JPG?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="桂浜（坂本龍馬像）" className="w-full h-full object-cover" loading="lazy" /></div>
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
+                <h3 className="text-base font-bold text-stone-900">桂浜（坂本龍馬像）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">土佐民謡『よさこい節』にも詠まれた月の名所。太平洋を望む高台に立つ全高13.5mの幕末の志士・坂本龍馬の銅像と青い海、弓状の砂浜が美しい景勝地です。 桂浜（かつらはま）は、高知県高知市浦戸に位置し太平洋に臨む海岸。土佐民謡「よさこい節」にも詠われ、そして太平洋を望んで立つ坂本龍馬の銅像がある浜辺は、高知を代表する名所の一つとして知られる。日本の渚百選。四国八十八景26番。四国のみずべ八十八カ所。…</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
+                <h3 className="text-base font-bold text-stone-900">高知城</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">南海の名城と称され、日本で唯一天守と本丸御殿の両方が現存する極めて貴重な城郭。追手門から天守閣が一枚の写真に収まる絶好の撮影スポットです。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
+                <h3 className="text-base font-bold text-stone-900">四万十川（沈下橋）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">「日本最後の清流」と呼ばれる全長196kmの清流。増水時に川に沈む設計の「沈下橋」が点在し、屋形船での川下りやカヌー体験で大自然を満喫できます。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
+                <h3 className="text-base font-bold text-stone-900">柏島（かしわじま）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">船が宙に浮いて見えるほどの圧倒的な透明度を誇る「柏島ブルー」の海。熱帯魚やサンゴ礁が生息し、ダイビングやシュノーケリングのパラダイスです。</p>
+              </div>
+            </div>
+            </div>
+          </div>
+
+          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-3 text-xs text-stone-700 leading-relaxed">
+            <h3 className="text-sm md:text-base font-bold text-amber-950">
+              💡 高知県エリアの宿泊予約・シーズン別ベストタイミングと節約ノウハウ
+            </h3>
+            <p>
+              <strong>1. 早期予約と楽天トラベルクーポンの併用：</strong> 高知県の人気温泉宿・リゾートホテルは、週末や連休・紅葉・年末年始の60日〜30日前から一気に予約が埋まります。毎月5と0のつく日やスーパーSALE期間中に配布される宿クーポン・自治体クーポンを併用すると、通常より最大10〜20%お得に予約可能です。
+            </p>
+            <p>
+              <strong>2. 夕食・朝食プランと部屋タイプの選び方：</strong> 地元産の旬魚介やブランド牛会席を味わうなら「夕朝食付きプラン」、周辺の屋台・老舗居酒屋・ご当地グルメを食べ歩くなら「朝食付き」または「素泊まり＋天然温泉大浴場付きホテル」を選ぶと予算と満足度のバランスが最適化されます。
+            </p>
+          </div>
+        </section>
+
+      </article>
   );
 }

@@ -413,6 +413,256 @@ export default function AutumnBudgetHotelsPage() {
           </div>
         </div>
       </section>
-    </main>
+    
+        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
+          <div className="space-y-2 border-b border-stone-200 pb-4">
+            <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
+              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+            </span>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
+              📊 青森駅前：名物のっけ丼＆旬の津軽りんご・地酒！5,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+            </h2>
+            <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+              楽天トラベル公式APIより取得した「青森駅前：名物のっけ丼＆旬の津軽りんご・地酒！5,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+            </p>
+          </div>
+
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th>
+                  <th className="p-3">所在地</th>
+                  <th className="p-3">最寄り駅・交通</th>
+                  <th className="p-3">駐車場情報</th>
+                  <th className="p-3">楽天評価</th>
+                  <th className="p-3">最安目安</th>
+                  <th className="p-3">予約・詳細</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. ホテルルートイン青森駅前</td>
+                <td className="p-3 text-stone-600">青森県青森市新町1-1-24</td>
+                <td className="p-3 text-stone-600">青森駅周辺</td>
+                <td className="p-3 text-stone-600">車可500円/泊 先着順(高:2m,幅:1.8m,重:2,000kg以内)　バイク不可</td>
+                <td className="p-3 font-bold text-amber-600">★4.12（1514件）</td>
+                <td className="p-3 font-bold text-rose-600">¥5,925〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15969%2F15969.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. ホテルマイステイズ青森駅前</td>
+                <td className="p-3 text-stone-600">青森県青森市新町1-8-6</td>
+                <td className="p-3 text-stone-600">青森駅周辺</td>
+                <td className="p-3 text-stone-600">提携駐車場へご案内します。　駐車料金700円</td>
+                <td className="p-3 font-bold text-amber-600">★4.19（6325件）</td>
+                <td className="p-3 font-bold text-rose-600">¥4,350〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68192%2F68192.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. アパホテル〈青森駅東〉</td>
+                <td className="p-3 text-stone-600">青森県青森市安方1-11-2</td>
+                <td className="p-3 text-stone-600">青森駅周辺</td>
+                <td className="p-3 text-stone-600">1泊700円　※一部、車高1.6m　※バイク可/ 到着順 / 満車時は周辺コインパーキングへ</td>
+                <td className="p-3 font-bold text-amber-600">★3.96（1096件）</td>
+                <td className="p-3 font-bold text-rose-600">¥3,960〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F146141%2F146141.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">4. アパホテル〈青森駅県庁通〉</td>
+                <td className="p-3 text-stone-600">青森県青森市安方2丁目6-6</td>
+                <td className="p-3 text-stone-600">青森駅周辺</td>
+                <td className="p-3 text-stone-600">最大8台/1泊800円　※先着順/バイク駐車可　 / 他、周辺コインパーキングをご利用ください。</td>
+                <td className="p-3 font-bold text-amber-600">★3.98（748件）</td>
+                <td className="p-3 font-bold text-rose-600">¥4,950〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F149278%2F149278.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">5. 東横ＩＮＮ新青森駅東口</td>
+                <td className="p-3 text-stone-600">青森県青森市石江2-11-2</td>
+                <td className="p-3 text-stone-600">新青森駅周辺</td>
+                <td className="p-3 text-stone-600">先着順：48台・500円（税込／泊）</td>
+                <td className="p-3 font-bold text-amber-600">★4.13（808件）</td>
+                <td className="p-3 font-bold text-rose-600">¥4,883〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F178564%2F178564.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div className="space-y-4">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
+              🏨 各宿の宿泊者リアルクチコミ・客室イメージ・項目別評価データ
+            </h3>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #1</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ホテルルートイン青森駅前</h3>
+                  <span className="text-xs text-stone-400 ml-2">（るーといん　あおもりえきまえ）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥5,925〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15969/15969.jpg" alt="ホテルルートイン青森駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>★JR青森駅東口より徒歩1分★　大浴場完備でビジネス・観光に最適です。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 青森県青森市新町1-1-24 ／ 最寄り駅：青森 ／ 交通案内：★ＪＲ青森駅東口より徒歩1分★／東北自動車道青森インターよりお車にて12分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>車可500円/泊 先着順(高:2m,幅:1.8m,重:2,000kg以内)　バイク不可</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.17 ／ 立地 ★4.21 ／ 部屋 ★4.09 ／ 設備 ★4.06 ／ 風呂 ★4.08 ／ 食事 ★4.09</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で大浴場もあり、スタッフの対応も快適青森駅前で交通便利、繁華街から距離があるようですが、お酒飲まない自分には立地が優先なので問題ありません大浴場があるのはありがたいです、ゆったりできます…　2026-10-09 08:37:53投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #2</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ホテルマイステイズ青森駅前</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ほてるまいすていずあおもりえきまえ）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥4,350〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/68192/68192_s.jpg" alt="ホテルマイステイズ青森駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>青森駅から徒歩3分！個別空調完備！バス・トイレセパレート式！</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 青森県青森市新町1-8-6 ／ 最寄り駅：青森 ／ 交通案内：ＪＲ青森駅より徒歩３分  東北新幹線「新青森駅」より車で15分　青森中央ＩＣより車で１５分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>提携駐車場へご案内します。　駐車料金700円</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.21 ／ 部屋 ★4.2 ／ 設備 ★4.14 ／ 風呂 ★4.15 ／ 食事 ★4.36</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「青森駅の繁華街で観光にも便利な立地青森駅の繁華街にあり、観光地も近くにあるのでとても便利でした!クチコミの詳細はこちらから　https://review.travel.rakuten.co.j…　2026-09-24 11:58:06投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #3</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">アパホテル〈青森駅東〉</h3>
+                  <span className="text-xs text-stone-400 ml-2">（あぱほてる＜あおもりえきひがし＞）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,960〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/146141/146141_kan1.jpg" alt="アパホテル〈青森駅東〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>JR青森駅東口から徒歩5分。青森県観光物産館「アスパム」や 「ねぶたの家ワ・ラッセ」も徒歩圏内。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 青森県青森市安方1-11-2 ／ 最寄り駅：青森 ／ 交通案内：「JR青森駅」東口から徒歩約5分。</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>1泊700円　※一部、車高1.6m　※バイク可/ 到着順 / 満車時は周辺コインパーキングへ</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.04 ／ 立地 ★3.93 ／ 部屋 ★3.94 ／ 設備 ★3.89 ／ 風呂 ★3.78 ／ 食事 ★3.74</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近でアクセス抜群、コスパも最高駅からも近く、アクセス非常に便利でした。コスパがとても良かったです。クチコミの詳細はこちらから　https://review.travel.rakuten.co…　2026-10-05 19:58:59投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #4</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">アパホテル〈青森駅県庁通〉</h3>
+                  <span className="text-xs text-stone-400 ml-2">（あぱほてる＜あおもりえきけんちょうどおり＞）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥4,950〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/149278/149278.jpg" alt="アパホテル〈青森駅県庁通〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>青森駅からベイエリアまでの観光地・官公庁も徒歩圏内、全室禁煙（1Fに喫煙ブースあり）</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 青森県青森市安方2丁目6-6 ／ 最寄り駅：青森 ／ 交通案内：「JR青森駅」東口から徒歩約8分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>最大8台/1泊800円　※先着順/バイク駐車可　 / 他、周辺コインパーキングをご利用ください。</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.06 ／ 立地 ★3.92 ／ 部屋 ★4.01 ／ 設備 ★3.9 ／ 風呂 ★3.76 ／ 食事 ★3.85</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「拠点に最適、周辺のグルメも大満足ホテルに近い所で「鮨処あすか」で夕食。鮨ならここと言われて行ったけど、とても美味しかってです。昼御飯に「味の札幌大西」の味噌カレー牛乳ラーメンがソールフード…　2026-10-09 16:58:05投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #5</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">東横ＩＮＮ新青森駅東口</h3>
+                  <span className="text-xs text-stone-400 ml-2">（とうよこいんしんあおもりひがしぐち）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥4,883〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/178564/178564.jpg" alt="東横ＩＮＮ新青森駅東口 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>新青森駅から徒歩2分で朝食・小学生以下添い寝無料のホテル！三内丸山遺跡まで車で10分</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 青森県青森市石江2-11-2 ／ 最寄り駅：新青森 ／ 交通案内：新青森駅東口より徒歩にて約２分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>先着順：48台・500円（税込／泊）</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.14 ／ 立地 ★4.2 ／ 部屋 ★4.2 ／ 設備 ★4.13 ／ 風呂 ★4.05 ／ 食事 ★4.02</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「出張の前乗りで宿泊しましたが、駅チカでレンタカーも近くて便利、ベッドも大っきくて部屋もキレイで良かった...だけかな。インバウンドもあるし、国スポもあったから仕方ないとは思うけど、ビジネスマンの感…　2026-10-10 18:15:37投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=178564&quot; class=&quot;3click&quot;」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="space-y-4 pt-6 border-t border-stone-200">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
+              🗺️ あわせて巡りたい！青森県の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+            </h3>
+            <p className="text-xs text-stone-600 leading-relaxed">
+              宿泊前後の1泊2日・2泊3日モデルコースに組み込みたい、青森県を代表する名所・絶景スポットの解説です。チェックイン前後の荷物預かりや駅周辺のレンタカー・周遊バスを活用すると効率よく巡ることができます。
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
+                <h3 className="text-base font-bold text-stone-900">弘前公園（弘前城）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">日本屈指の桜の名所として知られる城郭公園。春には約2,600本の桜が咲き誇り、お堀を埋め尽くす「花いかだ」の幻想的な景色は世界中から絶賛されています。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Oirase-keiryu.jpg/1280px-Oirase-keiryu.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="奥入瀬渓流" className="w-full h-full object-cover" loading="lazy" /></div>
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
+                <h3 className="text-base font-bold text-stone-900">奥入瀬渓流</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">十和田湖から流れる約14kmの美しい清流。豊かな樹木と苔むした岩々、無数の滝が織りなすせせらぎに沿って遊歩道が整備されており、極上のネイチャーウォークを楽しめます。 奥入瀬渓流（おいらせけいりゅう）は、青森県十和田市の十和田湖東岸の子ノ口（ねのくち）から北東に、焼山（十和田市法量（大字）焼山（字））までの約14 kmにわたる奥入瀬川の渓流。十和田八幡平国立公園に属する。国指定の特別名勝及び天然記念物（天然保護区域）。…</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
+                <h3 className="text-base font-bold text-stone-900">ねぶたの家 ワ・ラッセ</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">青森夏の風物詩「青森ねぶた祭」の歴史と魅力を一年中体感できる大型展示施設。実際に祭りで運行された大型ねぶたの迫力を間近で鑑賞できます。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
+                <h3 className="text-base font-bold text-stone-900">仏ヶ浦（ほとけがうら）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">下北半島にある、白緑色の奇岩群が約2kmにわたって続く国の名勝。巨大な如来や観音に見立てられた壮大な自然の彫刻と、澄み渡る陸奥湾の青さが圧巻です。</p>
+              </div>
+            </div>
+            </div>
+          </div>
+
+          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-3 text-xs text-stone-700 leading-relaxed">
+            <h3 className="text-sm md:text-base font-bold text-amber-950">
+              💡 青森県エリアの宿泊予約・シーズン別ベストタイミングと節約ノウハウ
+            </h3>
+            <p>
+              <strong>1. 早期予約と楽天トラベルクーポンの併用：</strong> 青森県の人気温泉宿・リゾートホテルは、週末や連休・紅葉・年末年始の60日〜30日前から一気に予約が埋まります。毎月5と0のつく日やスーパーSALE期間中に配布される宿クーポン・自治体クーポンを併用すると、通常より最大10〜20%お得に予約可能です。
+            </p>
+            <p>
+              <strong>2. 夕食・朝食プランと部屋タイプの選び方：</strong> 地元産の旬魚介やブランド牛会席を味わうなら「夕朝食付きプラン」、周辺の屋台・老舗居酒屋・ご当地グルメを食べ歩くなら「朝食付き」または「素泊まり＋天然温泉大浴場付きホテル」を選ぶと予算と満足度のバランスが最適化されます。
+            </p>
+          </div>
+        </section>
+
+      </main>
   );
 }

@@ -513,11 +513,6 @@ export default function FurusatoArticlePage() {
           </ul>
         </section>
       </div>
-    
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -600,7 +595,22 @@ export default function FurusatoArticlePage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/furusato-tax-naruko-onsen-historic-cure-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">鳴子温泉郷をふるさと納税でお得に旅する！千年の湯治文化と多彩な源泉めぐり！美肌硫黄泉＆宮城美食ステイガイド</span>
+            </a>
+            <a href="/miyagi-naruko-autumn-solo-retreat-gorge-momiji-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷と日本一多彩な泉質おこもりで過ごす冬の旅（10月）！貸切庭園露天・重曹美肌湯・黒毛和牛！みちのく湯治リトリート厳選3宿</span>
+            </a>
+            <a href="/winter-miyagi-kesennuma-minamisanriku-mekajiki-ikuradon-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月宮城：南三陸キラキラいくら丼と気仙！名宿5選</span>
+            </a>
+            <a href="/winter-miyagi-togatta-onsen-zao-snow-sendaigyu-kamonabe-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">遠刈田温泉で過ごす冬の旅（11・12月）！初冠雪の蔵王連峰を望む開湯400年の名湯！名宿5選</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

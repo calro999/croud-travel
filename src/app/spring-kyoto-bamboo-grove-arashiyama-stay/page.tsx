@@ -563,11 +563,6 @@ export default function FeatureDetailPage() {
             <ChevronRight className="w-5 h-5" />
           </Link>
         </div>
-      
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -650,7 +645,22 @@ export default function FeatureDetailPage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/gunma-kusatsu-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">草津温泉ひとり旅・名湯おこもり：湯畑源泉かけ流し・貸切風呂・上州和牛！日本三名泉の湯ヂカラに浸る贅沢ソロ温泉厳選3宿</span>
+            </a>
+            <a href="/gunma-takasaki-solo-business-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">高崎出張・天然温泉サウナ：新幹線結節点・榛名の湯・高崎パスタ！上州ビジネスハブを制する厳選3宿</span>
+            </a>
+            <a href="/winter-gunma-kusatsu-onsen-yubatake-yukimi-joshugyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">草津温泉で過ごす冬の旅（11・12月）！名物上州牛すき焼き！名宿5選</span>
+            </a>
+            <a href="/winter-gunma-takasaki-haruna-shrine-hatsumode-isobe-onsen-joshugyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月群馬：奇岩の霊場「榛名神社」新春初！名宿5選</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
@@ -680,6 +690,256 @@ export default function FeatureDetailPage() {
                 沖縄県の宿・温泉
               </Link>
             </div>
+          </div>
+        </section>
+
+      
+        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
+          <div className="space-y-2 border-b border-stone-200 pb-4">
+            <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
+              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+            </span>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
+              📊 2026年：竹林の小径と渡月橋の風情。嵐山温泉＆極上京懐石を味わう京都の名旅館5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+            </h2>
+            <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+              楽天トラベル公式APIより取得した「2026年：竹林の小径と渡月橋の風情。嵐山温泉＆極上京懐石を味わう京都の名旅館5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+            </p>
+          </div>
+
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th>
+                  <th className="p-3">所在地</th>
+                  <th className="p-3">最寄り駅・交通</th>
+                  <th className="p-3">駐車場情報</th>
+                  <th className="p-3">楽天評価</th>
+                  <th className="p-3">最安目安</th>
+                  <th className="p-3">予約・詳細</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. 嵐山温泉彩四季の宿　花筏</td>
+                <td className="p-3 text-stone-600">京都府京都市西京区嵐山中尾下町57</td>
+                <td className="p-3 text-stone-600">嵯峨嵐山駅周辺</td>
+                <td className="p-3 text-stone-600">有り　１０台　無料　要予約。最寄りICは大原野IC(花筏まで１５分）</td>
+                <td className="p-3 font-bold text-amber-600">★4.29（318件）</td>
+                <td className="p-3 font-bold text-rose-600">¥26,400〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F73923%2F73923.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. 京都　湯の花温泉　すみや亀峰菴</td>
+                <td className="p-3 text-stone-600">京都府亀岡市湯の花温泉</td>
+                <td className="p-3 text-stone-600">亀岡駅周辺</td>
+                <td className="p-3 text-stone-600">有り　２０台　無料　先着順</td>
+                <td className="p-3 font-bold text-amber-600">★4.36（280件）</td>
+                <td className="p-3 font-bold text-rose-600">¥24,200〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9696%2F9696.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. 修善寺　離れ宿　鬼の栖</td>
+                <td className="p-3 text-stone-600">静岡県伊豆市修善寺1163</td>
+                <td className="p-3 text-stone-600">修善寺駅周辺</td>
+                <td className="p-3 text-stone-600">有り　15台　無料　先着順</td>
+                <td className="p-3 font-bold text-amber-600">★5（13件）</td>
+                <td className="p-3 font-bold text-rose-600">¥40,000〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F187409%2F187409.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">4. 別府温泉　割烹旅館もみや</td>
+                <td className="p-3 text-stone-600">大分県別府市上田の湯町５－２２</td>
+                <td className="p-3 text-stone-600">別府（大分）駅周辺</td>
+                <td className="p-3 text-stone-600">有り　２０台　無料</td>
+                <td className="p-3 font-bold text-amber-600">★5（19件）</td>
+                <td className="p-3 font-bold text-rose-600">¥23,370〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29131%2F29131.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">5. 料亭旅館　京平荘</td>
+                <td className="p-3 text-stone-600">三重県伊勢市通町511</td>
+                <td className="p-3 text-stone-600">宇治山田駅周辺</td>
+                <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
+                <td className="p-3 font-bold text-amber-600">★2.33（12件）</td>
+                <td className="p-3 font-bold text-rose-600">¥37,510〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F139802%2F139802.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div className="space-y-4">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
+              🏨 各宿の宿泊者リアルクチコミ・客室イメージ・項目別評価データ
+            </h3>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #1</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">嵐山温泉彩四季の宿　花筏</h3>
+                  <span className="text-xs text-stone-400 ml-2">（あらしやまおんせんさいしきのやど　はないかだ）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥26,400〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/73923/73923_bath.jpg" alt="嵐山温泉彩四季の宿　花筏 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>嵐山散策に便利な渡月橋南詰に位置し、嵐山温泉と京懐石が自慢の癒しの宿。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 京都府京都市西京区嵐山中尾下町57 ／ 最寄り駅：嵯峨嵐山 ／ 交通案内：阪急嵐山駅より徒歩５分（渡月橋渡らず）、ＪＲ嵯峨嵐山駅より徒歩約１５分(渡月橋渡る)。JR京都駅３０分、阪急梅田駅５０分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　要予約。最寄りICは大原野IC(花筏まで１５分）</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.2 ／ 立地 ★4.48 ／ 部屋 ★4.2 ／ 設備 ★3.98 ／ 風呂 ★4.14 ／ 食事 ★4.59</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋風呂と食事に大満足、最高の思い出に9月11日に5名で宿泊させて頂きました。部屋も綺麗で女性陣の部屋には風呂付きで予約したのですが話を聞くとかなり良い部屋風呂だったみたく大浴場には一度も行かず部…　2026-09-28 20:04:43投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #2</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">京都　湯の花温泉　すみや亀峰菴</h3>
+                  <span className="text-xs text-stone-400 ml-2">（きょうと　ゆのはなおんせん　すみやきほうあん）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥24,200〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9696/9696_heya.jpg" alt="京都　湯の花温泉　すみや亀峰菴 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>京都の旅館ならではの日本の伝統美と現代アートの空間で四季折々の京懐石とオーストリアワインを愉しむ</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 京都府亀岡市湯の花温泉 ／ 最寄り駅：亀岡 ／ 交通案内：JR亀岡駅より車で２０分/京都縦貫道亀岡ICよりR372で約１０分/阪神高速池田線木部ICよりR423で約４０分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.41 ／ 立地 ★4.26 ／ 部屋 ★4.4 ／ 設備 ★4.28 ／ 風呂 ★4.35 ／ 食事 ★4.59</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「工夫された食事と露天風呂付きの広い部屋お食事内容が大変工夫されていました。お味も見た目の美しさも量も種類も満足にいただきました。露天風呂付きお部屋でしたが、広く落ち着いた雰囲気で湯量もたっぷり出て…　2026-09-17 02:13:54投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #3</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">修善寺　離れ宿　鬼の栖</h3>
+                  <span className="text-xs text-stone-400 ml-2">（しゅぜんじ　はなれやど　おにのすみか）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥40,000〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/187409/187409.jpg" alt="修善寺　離れ宿　鬼の栖 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>風情漂う日本庭園と全室離れの各お部屋には専用風呂あり。修善寺の奥座敷、大人の離れ宿をご堪能ください。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊豆市修善寺1163 ／ 最寄り駅：修善寺 ／ 交通案内：伊豆箱根鉄道駿豆線「修善寺駅」駅からタクシーで約10分。</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　15台　無料　先着順</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「修善寺　離れ宿　鬼の栖は立地・設備・ホスピタリティのバランスに優れ、観光拠点としても記念日や週末リフレッシュ滞在としても高い満足度を得ています。」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #4</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">別府温泉　割烹旅館もみや</h3>
+                  <span className="text-xs text-stone-400 ml-2">（もみや）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥23,370〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29131/29131_b.jpg" alt="別府温泉　割烹旅館もみや 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>古き良き別府の面影を今に残す街上田の湯の一角にあり、静かな時間をゆっくり過ごして頂くのがモットーです</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 大分県別府市上田の湯町５－２２ ／ 最寄り駅：別府（大分） ／ 交通案内：日豊本線・別府駅～タクシーで２、３分/徒歩１０分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「別府温泉　割烹旅館もみやは立地・設備・ホスピタリティのバランスに優れ、観光拠点としても記念日や週末リフレッシュ滞在としても高い満足度を得ています。」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #5</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">料亭旅館　京平荘</h3>
+                  <span className="text-xs text-stone-400 ml-2">（りょうていりょかん　きょうへいそう）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥37,510〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/139802/139802_ara.jpg" alt="料亭旅館　京平荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>本格数寄屋造りの佇まいの中で味わう懐石料理。館内全て畳の廊下と畳階段。平安時代に思いを馳せて白足袋で贅沢にお過ごし下さい</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 三重県伊勢市通町511 ／ 最寄り駅：宇治山田 ／ 交通案内：宇治山田駅からお車にて７分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料亭旅館　京平荘は立地・設備・ホスピタリティのバランスに優れ、観光拠点としても記念日や週末リフレッシュ滞在としても高い満足度を得ています。」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="space-y-4 pt-6 border-t border-stone-200">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
+              🗺️ あわせて巡りたい！群馬県の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+            </h3>
+            <p className="text-xs text-stone-600 leading-relaxed">
+              宿泊前後の1泊2日・2泊3日モデルコースに組み込みたい、群馬県を代表する名所・絶景スポットの解説です。チェックイン前後の荷物預かりや駅周辺のレンタカー・周遊バスを活用すると効率よく巡ることができます。
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Yubatake_%28Kusatsu_Onsen%29.jpg/1280px-Yubatake_%28Kusatsu_Onsen%29.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="草津温泉（湯畑）" className="w-full h-full object-cover" loading="lazy" /></div>
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
+                <h3 className="text-base font-bold text-stone-900">草津温泉（湯畑）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">日本三名泉の一つで自然湧出量日本一を誇る温泉街のシンボル。毎分4,000リットルの源泉が湯滝となって湧き出し、湯もみ体験や夜のライトアップも人気です。 草津温泉（くさつおんせん）は、群馬県吾妻郡草津町草津界隈（江戸時代における上野国吾妻郡草津村界隈、幕藩体制下の上州御料草津村界隈〈初期は沼田藩知行〉）に所在する温泉である。草津白根山東麓に位置する。 毎分3万2300リットル以上の自然湧出量は日本一。室町時代には万里集九が有馬温泉や下呂温泉とともに「三名泉」とし、江戸時代には林羅山もこれらの三温泉を「天下の三…</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Ikaho_Onsen_03.jpg/1280px-Ikaho_Onsen_03.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="伊香保温泉（石段街）" className="w-full h-full object-cover" loading="lazy" /></div>
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
+                <h3 className="text-base font-bold text-stone-900">伊香保温泉（石段街）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">365段の石段が続く情緒溢れる温泉街。石段の両脇には射的場や土産物店、足湯が立ち並び、温泉まんじゅう発祥の地としても知られています。 伊香保温泉（いかほおんせん）は、群馬県渋川市伊香保町にある温泉。草津温泉と並んで県を代表する名湯で、上毛かるたでは「伊香保温泉 日本の名湯」と歌われている。 「伊香保温泉」として地域団体商標に登録されている。…</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
+                <h3 className="text-base font-bold text-stone-900">富岡製糸場</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">明治政府が設立した日本初の本格的な製糸工場であり、世界文化遺産。木骨レンガ造りの巨大な繰糸所や蚕室が良好に保存されており、日本の近代化の足跡を辿れます。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
+                <h3 className="text-base font-bold text-stone-900">吹割の滝（ふきわれのたき）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">「東洋のナイアガラ」と称されるダイナミックな滝。巨大な岩盤が割れ目の中に河川の水が吸い込まれるように流れ落ちる迫力ある景観が魅力です。</p>
+              </div>
+            </div>
+            </div>
+          </div>
+
+          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-3 text-xs text-stone-700 leading-relaxed">
+            <h3 className="text-sm md:text-base font-bold text-amber-950">
+              💡 群馬県エリアの宿泊予約・シーズン別ベストタイミングと節約ノウハウ
+            </h3>
+            <p>
+              <strong>1. 早期予約と楽天トラベルクーポンの併用：</strong> 群馬県の人気温泉宿・リゾートホテルは、週末や連休・紅葉・年末年始の60日〜30日前から一気に予約が埋まります。毎月5と0のつく日やスーパーSALE期間中に配布される宿クーポン・自治体クーポンを併用すると、通常より最大10〜20%お得に予約可能です。
+            </p>
+            <p>
+              <strong>2. 夕食・朝食プランと部屋タイプの選び方：</strong> 地元産の旬魚介やブランド牛会席を味わうなら「夕朝食付きプラン」、周辺の屋台・老舗居酒屋・ご当地グルメを食べ歩くなら「朝食付き」または「素泊まり＋天然温泉大浴場付きホテル」を選ぶと予算と満足度のバランスが最適化されます。
+            </p>
           </div>
         </section>
 

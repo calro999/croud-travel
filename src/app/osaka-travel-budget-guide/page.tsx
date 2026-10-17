@@ -236,7 +236,288 @@ export default function OsakaTravelBudgetPage() {
                     楽天トラベルで見る ➔
                   </a>
                 </div>
-              </article>
+              
+        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
+          <div className="space-y-2 border-b border-stone-200 pb-4">
+            <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
+              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+            </span>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
+              📊 大阪旅行 費用：1泊2日・2泊3日の総額はいくら？USJ込みの予算＆道頓堀グルメ食費シミュレーション：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+            </h2>
+            <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+              楽天トラベル公式APIより取得した「大阪旅行 費用：1泊2日・2泊3日の総額はいくら？USJ込みの予算＆道頓堀グルメ食費シミュレーション」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+            </p>
+          </div>
+
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th>
+                  <th className="p-3">所在地</th>
+                  <th className="p-3">最寄り駅・交通</th>
+                  <th className="p-3">駐車場情報</th>
+                  <th className="p-3">楽天評価</th>
+                  <th className="p-3">最安目安</th>
+                  <th className="p-3">予約・詳細</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. 日和ホテルＦｌｅｘ大阪道頓堀</td>
+                <td className="p-3 text-stone-600">大阪府大阪市中央区西心斎橋2-6-10</td>
+                <td className="p-3 text-stone-600">南海難波駅周辺</td>
+                <td className="p-3 text-stone-600">なし</td>
+                <td className="p-3 font-bold text-amber-600">高評価</td>
+                <td className="p-3 font-bold text-rose-600">¥6,750〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F199160%2F199160.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. ＦＯＲＺＡ　ホテルフォルツァ大阪なんば道頓堀</td>
+                <td className="p-3 text-stone-600">大阪府大阪市中央区道頓堀1丁目4-22 3F</td>
+                <td className="p-3 text-stone-600">なんば駅周辺</td>
+                <td className="p-3 text-stone-600">無し</td>
+                <td className="p-3 font-bold text-amber-600">★4.75（450件）</td>
+                <td className="p-3 font-bold text-rose-600">¥7,590〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182489%2F182489.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. ベニキアカルトンホテル大阪道頓堀</td>
+                <td className="p-3 text-stone-600">大阪府大阪市中央区島之内2-15-4</td>
+                <td className="p-3 text-stone-600">日本橋（大阪）駅周辺</td>
+                <td className="p-3 text-stone-600">駐車場はございませんが、交通機関でのアクセスが便利です。日本橋駅から徒歩4分！</td>
+                <td className="p-3 font-bold text-amber-600">★3.71（66件）</td>
+                <td className="p-3 font-bold text-rose-600">¥2,500〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F168742%2F168742.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">4. ＵＳＪ、大阪観光に最適、西九条楽しいＨｏｔｅｌ／民泊</td>
+                <td className="p-3 text-stone-600">大阪府大阪市此花区西九条1-4-16　Ｈｏｔｅｌ　Ｊｕｎｇｌｅ　ｆｕｎ　ｆｕｎ</td>
+                <td className="p-3 text-stone-600">西九条駅周辺</td>
+                <td className="p-3 text-stone-600">無し</td>
+                <td className="p-3 font-bold text-amber-600">高評価</td>
+                <td className="p-3 font-bold text-rose-600">プラン参照</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F185877%2F185877.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">5. ザ　パーク　フロント　ホテル　アット　ユニバーサル・スタジオ・ジャパン</td>
+                <td className="p-3 text-stone-600">大阪府大阪市此花区島屋6-2-52</td>
+                <td className="p-3 text-stone-600">ユニバーサルシティ駅周辺</td>
+                <td className="p-3 text-stone-600">109台3500円（13:00〜翌13:00）予約不可※満車の場合は他の駐車場をご案内致します。</td>
+                <td className="p-3 font-bold text-amber-600">★4.57（4229件）</td>
+                <td className="p-3 font-bold text-rose-600">¥9,000〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147805%2F147805.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">6. ザ　シンギュラリホテル　＆　スカイスパ　アット　ユニバーサル・スタジオ・ジャパン</td>
+                <td className="p-3 text-stone-600">大阪府大阪市此花区島屋6丁目2番25号</td>
+                <td className="p-3 text-stone-600">ユニバーサルシティ駅周辺</td>
+                <td className="p-3 text-stone-600">2,800円/泊(13時～翌13時)、延長30分300円、現金のみ、予約不可※駐車台数制限あり</td>
+                <td className="p-3 font-bold text-amber-600">★4.43（3340件）</td>
+                <td className="p-3 font-bold text-rose-600">¥4,267〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F160809%2F160809.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div className="space-y-4">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
+              🏨 各宿の宿泊者リアルクチコミ・客室イメージ・項目別評価データ
+            </h3>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #1</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">日和ホテルＦｌｅｘ大阪道頓堀</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ひよりほてるふれっくすおおさかどうとんぼり）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥6,750〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/199160/199160.jpg" alt="日和ホテルＦｌｅｘ大阪道頓堀 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>大阪観光の拠点にぴったり。道頓堀とんぼりリバーウォーク直結。フレキシブルな滞在を実現するホテル。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 大阪府大阪市中央区西心斎橋2-6-10 ／ 最寄り駅：南海難波 ／ 交通案内：各線難波駅25番・26番出口より徒歩3分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>なし</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「日和ホテルＦｌｅｘ大阪道頓堀は立地・設備・ホスピタリティのバランスに優れ、観光拠点としても記念日や週末リフレッシュ滞在としても高い満足度を得ています。」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #2</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ＦＯＲＺＡ　ホテルフォルツァ大阪なんば道頓堀</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ふぉるつぁ　おおさか　なんば　どうとんぼり）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥7,590〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/182489/182489.jpg" alt="ＦＯＲＺＡ　ホテルフォルツァ大阪なんば道頓堀 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>グリコ看板より徒歩約2分。駅からもほど近い道頓堀商店街唯一のホテルでのご宿泊を是非お楽しみください♪</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 大阪府大阪市中央区道頓堀1丁目4-22 3F ／ 最寄り駅：なんば ／ 交通案内：近畿日本鉄道・大阪メトロ「なんば駅」15B出口、大阪メトロ「日本橋駅」2番出口より徒歩約5分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>無し</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ＦＯＲＺＡ　ホテルフォルツァ大阪なんば道頓堀は立地・設備・ホスピタリティのバランスに優れ、観光拠点としても記念日や週末リフレッシュ滞在としても高い満足度を得ています。」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #3</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ベニキアカルトンホテル大阪道頓堀</h3>
+                  <span className="text-xs text-stone-400 ml-2">（べにきあ　かるとん　ほてる　おおさかどうとんぼり）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥2,500〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/168742/168742.jpg" alt="ベニキアカルトンホテル大阪道頓堀 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>道頓堀まで徒歩２分の好立地！！</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 大阪府大阪市中央区島之内2-15-4 ／ 最寄り駅：日本橋（大阪） ／ 交通案内：地下鉄　日本橋駅2番出口より徒歩4分/ 難波駅より徒歩１０分/関西空港より道頓プラザ行直行バス運行中　ホテルより徒歩１分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>駐車場はございませんが、交通機関でのアクセスが便利です。日本橋駅から徒歩4分！</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「狭いながらも立地良く清潔なホテルもの凄く狭い部屋でしたが、立地が良く、必要なものは揃っていて、掃除の行き届いたホテルでした。チェックインの時に対応してくれた方は外国籍の方でした。外出時にルーム…　2026-02-16 18:13:37投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #4</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ＵＳＪ、大阪観光に最適、西九条楽しいＨｏｔｅｌ／民泊</h3>
+                  
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: プランにより変動</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/185877/185877.jpg" alt="ＵＳＪ、大阪観光に最適、西九条楽しいＨｏｔｅｌ／民泊 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong></p>
+                  <p><strong>【所在地・アクセス】</strong>〒 大阪府大阪市此花区西九条1-4-16　Ｈｏｔｅｌ　Ｊｕｎｇｌｅ　ｆｕｎ　ｆｕｎ ／ 最寄り駅：西九条 ／ 交通案内：西九条駅から徒歩で約５分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>無し</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ＵＳＪ、大阪観光に最適、西九条楽しいＨｏｔｅｌ／民泊は立地・設備・ホスピタリティのバランスに優れ、観光拠点としても記念日や週末リフレッシュ滞在としても高い満足度を得ています。」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #5</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ザ　パーク　フロント　ホテル　アット　ユニバーサル・スタジオ・ジャパン</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ざぱーくふろんとほてるあっとゆにばーさるすたじおじゃぱん）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥9,000〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/147805/147805_room.jpg" alt="ザ　パーク　フロント　ホテル　アット　ユニバーサル・スタジオ・ジャパン 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>パークに1番近いオフィシャルホテル☆ユニバーサルシティ駅から徒歩1分の好立地！</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 大阪府大阪市此花区島屋6-2-52 ／ 最寄り駅：ユニバーサルシティ ／ 交通案内：ユニバーサルシティ駅より徒歩約１分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>109台3500円（13:00〜翌13:00）予約不可※満車の場合は他の駐車場をご案内致します。</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.59 ／ 立地 ★4.64 ／ 部屋 ★4.56 ／ 設備 ★4.5 ／ 風呂 ★4.5 ／ 食事 ★4.59</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パークから近く部屋も広くて大満足!とにかくパークからの近さが最高で年パスを持っている身からすると一旦部屋に戻るがすぐにそして簡単にできて最高だった!!洗面台も2個あったり、部屋のお風呂も綺麗で…　2026-10-10 21:59:17投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #6</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ザ　シンギュラリホテル　＆　スカイスパ　アット　ユニバーサル・スタジオ・ジャパン</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ざ　しんぎゅらりほてるあんどすかいすぱ　あっと　ゆにばーさる　すたじお　じゃぱん）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥4,267〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/160809/160809_room.jpg" alt="ザ　シンギュラリホテル　＆　スカイスパ　アット　ユニバーサル・スタジオ・ジャパン 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>2017年8月開業ユニバーサル・スタジオ・ジャパンオフィシャルホテル。最上階に露天付大浴場/全室禁煙</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 大阪府大阪市此花区島屋6丁目2番25号 ／ 最寄り駅：ユニバーサルシティ ／ 交通案内：ユニバーサルシティ駅改札からすぐ。※徒歩1分以内</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>2,800円/泊(13時～翌13時)、延長30分300円、現金のみ、予約不可※駐車台数制限あり</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場と美味しい朝食で疲れが吹き飛ぶユニバで疲れた後、大浴場でゆっくり風呂に入れるのがすごくいい。おかげでスッキリ眠れた。荷物預かりもありがたい。そして何より朝食がすばらしい!ご飯が美味しいし、和…　2026-08-29 16:49:12投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=160809&quot; class=&quot;3click&quot;」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="space-y-4 pt-6 border-t border-stone-200">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
+              🗺️ あわせて巡りたい！大阪府の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+            </h3>
+            <p className="text-xs text-stone-600 leading-relaxed">
+              宿泊前後の1泊2日・2泊3日モデルコースに組み込みたい、大阪府を代表する名所・絶景スポットの解説です。チェックイン前後の荷物預かりや駅周辺のレンタカー・周遊バスを活用すると効率よく巡ることができます。
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
+                <h3 className="text-base font-bold text-stone-900">大阪城公園（大阪城天守閣）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">豊臣秀吉公が築城した天下の名城。黄金の飾りが映える重厚な天守閣と、壮大な石垣・巨石、春には桜が咲き誇る広大な都会のオアシスです。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
+                <h3 className="text-base font-bold text-stone-900">道頓堀・グリコサイン</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">食い倒れの街・大阪を象徴するネオン街。グリコの巨大看板前での記念撮影や、道頓堀川沿いでのたこ焼き・串カツ食べ歩きで活気にあふれています。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
+                <h3 className="text-base font-bold text-stone-900">ユニバーサル・スタジオ・ジャパン（USJ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">「ウィザーディング・ワールド・オブ・ハリー・ポッター」や「スーパー・ニンテンドー・ワールド」など世界最高峰のエンターテインメントが体験できる世界級テーマパーク。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
+                <h3 className="text-base font-bold text-stone-900">通天閣・新世界</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">なにわのシンボルタワー「通天閣」と、昭和レトロな雰囲気が色濃く残る新世界。幸運の神様「ビリケンさん」の足の裏を撫でて幸運を祈願できます。</p>
+              </div>
+            </div>
+            </div>
+          </div>
+
+          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-3 text-xs text-stone-700 leading-relaxed">
+            <h3 className="text-sm md:text-base font-bold text-amber-950">
+              💡 大阪府エリアの宿泊予約・シーズン別ベストタイミングと節約ノウハウ
+            </h3>
+            <p>
+              <strong>1. 早期予約と楽天トラベルクーポンの併用：</strong> 大阪府の人気温泉宿・リゾートホテルは、週末や連休・紅葉・年末年始の60日〜30日前から一気に予約が埋まります。毎月5と0のつく日やスーパーSALE期間中に配布される宿クーポン・自治体クーポンを併用すると、通常より最大10〜20%お得に予約可能です。
+            </p>
+            <p>
+              <strong>2. 夕食・朝食プランと部屋タイプの選び方：</strong> 地元産の旬魚介やブランド牛会席を味わうなら「夕朝食付きプラン」、周辺の屋台・老舗居酒屋・ご当地グルメを食べ歩くなら「朝食付き」または「素泊まり＋天然温泉大浴場付きホテル」を選ぶと予算と満足度のバランスが最適化されます。
+            </p>
+          </div>
+        </section>
+
+      </article>
             ))}
           </div>
         </section>

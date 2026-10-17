@@ -317,11 +317,6 @@ export default function FeaturePage() {
             <ChevronRight className="w-4 h-4" />
           </Link>
         </section>
-      
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -404,7 +399,22 @@ export default function FeaturePage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">千葉・南房総温泉郷で過ごす冬の旅（11・12月）！太平洋パノラマ絶景露天！名宿5選</span>
+            </a>
+            <a href="/chiba-kamogawa-solo-retreat-ocean-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">南房総・鴨川温泉ひとり旅・太平洋水平線おこもり：波音の露天風呂・地魚舟盛り・里山棚田ウォーキング！都心特急特等席の海リトリート厳選3宿</span>
+            </a>
+            <a href="/winter-chiba-kamogawa-seaworld-kominato-kinmedai-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月千葉鴨川：シーワールド＆小湊金目鯛を味わう冬の名宿5選</span>
+            </a>
+            <a href="/winter-chiba-yoro-keikoku-onsen-kuroyu-kazusagyu-jibier-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">養老渓谷温泉郷で過ごす冬の旅（11・12月）！房総かずさ和牛！名宿5選</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

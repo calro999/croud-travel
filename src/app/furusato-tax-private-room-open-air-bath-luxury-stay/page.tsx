@@ -416,11 +416,6 @@ export default function FurusatoPrivateRoomOpenAirStayPage() {
           </p>
         </footer>
       </div>
-    
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -503,7 +498,22 @@ export default function FurusatoPrivateRoomOpenAirStayPage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/autumn-budget-tochigi-utsunomiya-station-gyoza-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">宇都宮駅前：熱々宇都宮餃子ハシゴ旅＆大谷石散策！2,000円台〜泊まれる格安ホテル5選</span>
+            </a>
+            <a href="/spring-tochigi-tochiotome-strawberry-spa-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">とちおとめ＆スカイベリー苺スイーツ：日光・鬼怒川温泉の贅沢ビュッフェと名湯宿5選</span>
+            </a>
+            <a href="/tochigi-okunikko-yumoto-nature-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">栃木・奥日光＆湯元温泉：男体山・戦場ヶ原＆乳白色硫黄泉・日光湯波宿 厳選ガイド</span>
+            </a>
+            <a href="/winter-tochigi-nikko-chuzenji-lake-luxury-ritz-carlton-kanaya-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【標高1200mの奥日光・中禅寺湖畔に佇む最高峰リゾート】2026-2027年11-12月初冬の栃木・日光中禅寺湖！「ザ・リッツ・カールトン日光」＆「中禅寺金谷ホテル」・男体山の初雪と日光湯元白濁硫黄泉・極上とちぎ和牛名宿5選</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

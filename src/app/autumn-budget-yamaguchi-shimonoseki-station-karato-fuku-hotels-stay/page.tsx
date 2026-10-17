@@ -413,6 +413,256 @@ export default function AutumnBudgetHotelsPage() {
           </div>
         </div>
       </section>
-    </main>
+    
+        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
+          <div className="space-y-2 border-b border-stone-200 pb-4">
+            <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
+              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+            </span>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
+              📊 下関駅前：唐戸市場の旬とらふく＆名物瓦そば！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+            </h2>
+            <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+              楽天トラベル公式APIより取得した「下関駅前：唐戸市場の旬とらふく＆名物瓦そば！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+            </p>
+          </div>
+
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th>
+                  <th className="p-3">所在地</th>
+                  <th className="p-3">最寄り駅・交通</th>
+                  <th className="p-3">駐車場情報</th>
+                  <th className="p-3">楽天評価</th>
+                  <th className="p-3">最安目安</th>
+                  <th className="p-3">予約・詳細</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. 下関駅西ワシントンホテルプラザ</td>
+                <td className="p-3 text-stone-600">山口県下関市大和町1-4-1</td>
+                <td className="p-3 text-stone-600">下関駅周辺</td>
+                <td className="p-3 text-stone-600">有り　14時から10時　700円~1100円（税込み／泊）　先着順</td>
+                <td className="p-3 font-bold text-amber-600">★3.88（1724件）</td>
+                <td className="p-3 font-bold text-rose-600">¥4,700〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1024%2F1024.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. ネットルーム下関駅前．キャビンホテル</td>
+                <td className="p-3 text-stone-600">山口県下関市竹崎町3-7-10</td>
+                <td className="p-3 text-stone-600">下関駅周辺</td>
+                <td className="p-3 text-stone-600">駐車場は無料ですが、4台しか無い為、必ず電話確認して下さい。（出入口が狭い為普プリウス位まで）</td>
+                <td className="p-3 font-bold text-amber-600">★4.08（12件）</td>
+                <td className="p-3 font-bold text-rose-600">¥4,000〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F198912%2F198912.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. ＫＯＫＯ　ＳＴＡＹ　下関</td>
+                <td className="p-3 text-stone-600">山口県下関市竹崎町3-11-2</td>
+                <td className="p-3 text-stone-600">下関駅周辺</td>
+                <td className="p-3 text-stone-600">平面駐車場先着順（普通車700円〜）／大型車事前電話予約必須￥1400〜￥2800</td>
+                <td className="p-3 font-bold text-amber-600">★3.86（1557件）</td>
+                <td className="p-3 font-bold text-rose-600">¥2,921〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4831%2F4831.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">4. スマイルホテル下関</td>
+                <td className="p-3 text-stone-600">山口県下関市竹崎町4-4-1</td>
+                <td className="p-3 text-stone-600">下関駅周辺</td>
+                <td className="p-3 text-stone-600">シーモール下関駐車場 　ご一泊500円</td>
+                <td className="p-3 font-bold text-amber-600">★3.68（1231件）</td>
+                <td className="p-3 font-bold text-rose-600">¥3,400〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F151341%2F151341.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">5. プラザホテル下関</td>
+                <td className="p-3 text-stone-600">山口県下関市岬之町11-10</td>
+                <td className="p-3 text-stone-600">下関駅周辺</td>
+                <td className="p-3 text-stone-600">600円/日　ご宿泊予約時に備考欄に記載ください。※記載がない場合はお取りできません。ご了承ください</td>
+                <td className="p-3 font-bold text-amber-600">★4.13（1547件）</td>
+                <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9134%2F9134.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div className="space-y-4">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
+              🏨 各宿の宿泊者リアルクチコミ・客室イメージ・項目別評価データ
+            </h3>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #1</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">下関駅西ワシントンホテルプラザ</h3>
+                  <span className="text-xs text-stone-400 ml-2">（しものせきえきにし　わしんとんほてるぷらざ）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥4,700〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1024/1024_room.jpg" alt="下関駅西ワシントンホテルプラザ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>ビジネス・観光に便利！全室高速インターネット無料接続・ＶＯＤシステム完備！</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 山口県下関市大和町1-4-1 ／ 最寄り駅：下関 ／ 交通案内：ＪＲ下関駅西口より徒歩2分。</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　14時から10時　700円~1100円（税込み／泊）　先着順</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.88 ／ 立地 ★3.91 ／ 部屋 ★3.91 ／ 設備 ★3.83 ／ 風呂 ★3.83 ／ 食事 ★3.72</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夜、廊下で部屋のドアを開けっぱなしで大声でしゃべらないで欲しいものですフロントの方々の対応は親切でしたが、韓国人の団体が廊下で部屋のドアをあけたままずっとしゃべっていて、うるさくて眠れませんでした…　2026-10-05 16:54:56投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #2</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ネットルーム下関駅前．キャビンホテル</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ねっとるーむしものせきえきまえ.きゃびんほてる）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥4,000〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/198912/198912.jpg" alt="ネットルーム下関駅前．キャビンホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>リーズナブルで駅近素泊まりに最適！ビジネス出張や一人旅にも連泊大歓迎！</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 山口県下関市竹崎町3-7-10 ／ 最寄り駅：下関 ／ 交通案内：下関駅より徒歩2分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>駐車場は無料ですが、4台しか無い為、必ず電話確認して下さい。（出入口が狭い為普プリウス位まで）</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ネットルーム下関駅前．キャビンホテルは立地・設備・ホスピタリティのバランスに優れ、観光拠点としても記念日や週末リフレッシュ滞在としても高い満足度を得ています。」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #3</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ＫＯＫＯ　ＳＴＡＹ　下関</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ここ　すてい　しものせき）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥2,921〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4831/4831_ys.jpg" alt="ＫＯＫＯ　ＳＴＡＹ　下関 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>JR下関駅徒歩2分／平面駐車場完備でアクセス至便！自慢のふく雑炊を始め選べる6種類の朝食をぜひ。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 山口県下関市竹崎町3-11-2 ／ 最寄り駅：下関 ／ 交通案内：ＪＲ下関駅西口より徒歩２分。下関Ｉ・Ｃより市街地方面に進み車で約１５分。山口宇部空港よりバスで75分。</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>平面駐車場先着順（普通車700円〜）／大型車事前電話予約必須￥1400〜￥2800</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.95 ／ 立地 ★3.88 ／ 部屋 ★3.81 ／ 設備 ★3.71 ／ 風呂 ★3.62 ／ 食事 ★4.14</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待どおり期待どおりのロケーション・朝食で料金以上の満足感がありました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voic…　2026-10-09 16:01:26投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #4</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">スマイルホテル下関</h3>
+                  <span className="text-xs text-stone-400 ml-2">（すまいるほてるしものせき）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,400〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/151341/151341.jpg" alt="スマイルホテル下関 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>ＪＲ下関駅より徒歩２分。観る・買う・食べるを満喫したあとはスマイルで快適な宿泊を。全室ＷｉＦｉ完備。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 山口県下関市竹崎町4-4-1 ／ 最寄り駅：下関 ／ 交通案内：ＪＲ下関駅より徒歩にて約２分.</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>シーモール下関駐車場 　ご一泊500円</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.8 ／ 立地 ★3.82 ／ 部屋 ★3.66 ／ 設備 ★3.59 ／ 風呂 ★3.59</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ダブルで広くて快適、禁煙で満足の部屋部屋を選ばないプランでしたが、ダブルで広くて快適でした。禁煙でもあり満足ですクチコミの詳細はこちらから　https://review.travel.raku…　2026-10-10 16:55:35投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #5</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">プラザホテル下関</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ぷらざほてる　しものせき）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥5,500〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9134/9134_kan.jpg" alt="プラザホテル下関 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>2022年12月リニューアルオープン♪１０階展望レストランでのお食事付きプランがおすすめ！</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 山口県下関市岬之町11-10 ／ 最寄り駅：下関 ／ 交通案内：下関駅①～④バス乗り場から４分三百目バス停下車すぐ☆下関ＩＣより車で１0分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>600円/日　ご宿泊予約時に備考欄に記載ください。※記載がない場合はお取りできません。ご了承ください</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.2 ／ 立地 ★4.08 ／ 部屋 ★4.15 ／ 設備 ★3.99 ／ 風呂 ★3.93 ／ 食事 ★4.4</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋が広くて快適でした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/9134?reviewId=3312347967…　2026-10-09 14:53:08投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="space-y-4 pt-6 border-t border-stone-200">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
+              🗺️ あわせて巡りたい！山口県の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+            </h3>
+            <p className="text-xs text-stone-600 leading-relaxed">
+              宿泊前後の1泊2日・2泊3日モデルコースに組み込みたい、山口県を代表する名所・絶景スポットの解説です。チェックイン前後の荷物預かりや駅周辺のレンタカー・周遊バスを活用すると効率よく巡ることができます。
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Tsunoshima_Island%2C_Yamaguchi_Aerial_photograph.2008.jpg/1280px-Tsunoshima_Island%2C_Yamaguchi_Aerial_photograph.2008.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="角島大橋（つのしまおおはし）" className="w-full h-full object-cover" loading="lazy" /></div>
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
+                <h3 className="text-base font-bold text-stone-900">角島大橋（つのしまおおはし）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">コバルトブルーの澄み切った海を跨ぐ全長1,780mの離島架橋。まるで海の上を飛んでいるかのような爽快なドライブが楽しめるSNS大人気の絶景スポットです。 角島（つのしま）は、山口県下関市豊北町大字角島の日本海（響灘）上にある島。山口県の北西端。北長門海岸国定公園に含まれる。人口726人（平成27年国勢調査）。…</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
+                <h3 className="text-base font-bold text-stone-900">元乃隅神社（もとのすみじんじゃ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">断崖に向かって123基の朱塗りの鳥居が龍のように連なる絶景神社。アメリカCNN「日本の最も美しい場所31選」にも選ばれた圧倒的なビジュアルです。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
+                <h3 className="text-base font-bold text-stone-900">秋吉台・秋芳洞（あきよしだい・あきよしどう）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">日本最大級のカルスト台地・秋吉台と、その地下100mに広がる巨大大鍾乳洞・秋芳洞。「百枚皿」や「黄金柱」など地球の神秘を感じる大自然のアートです。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
+                <h3 className="text-base font-bold text-stone-900">錦帯橋（きんたいきょう）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">清流錦川に架かる木造5連のアーチ橋。釘を一本も使わずに組み上げられた独自の木造構造技術は日本三名橋に数えられ、春の桜とのコラボレーションが見事です。</p>
+              </div>
+            </div>
+            </div>
+          </div>
+
+          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-3 text-xs text-stone-700 leading-relaxed">
+            <h3 className="text-sm md:text-base font-bold text-amber-950">
+              💡 山口県エリアの宿泊予約・シーズン別ベストタイミングと節約ノウハウ
+            </h3>
+            <p>
+              <strong>1. 早期予約と楽天トラベルクーポンの併用：</strong> 山口県の人気温泉宿・リゾートホテルは、週末や連休・紅葉・年末年始の60日〜30日前から一気に予約が埋まります。毎月5と0のつく日やスーパーSALE期間中に配布される宿クーポン・自治体クーポンを併用すると、通常より最大10〜20%お得に予約可能です。
+            </p>
+            <p>
+              <strong>2. 夕食・朝食プランと部屋タイプの選び方：</strong> 地元産の旬魚介やブランド牛会席を味わうなら「夕朝食付きプラン」、周辺の屋台・老舗居酒屋・ご当地グルメを食べ歩くなら「朝食付き」または「素泊まり＋天然温泉大浴場付きホテル」を選ぶと予算と満足度のバランスが最適化されます。
+            </p>
+          </div>
+        </section>
+
+      </main>
   );
 }

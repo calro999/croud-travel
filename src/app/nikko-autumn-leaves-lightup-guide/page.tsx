@@ -207,7 +207,7 @@ export default function NikkoAutumnLeavesGuidePage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「大渋滞回避の時間帯・中禅寺湖ライトアップ＆奥日光硫黄泉の宿」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「大渋滞回避の時間帯・中禅寺湖ライトアップ＆奥日光硫黄泉の宿」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"日光・いろは坂 紅葉2026見頃完全マップ：大渋滞回避の時間帯・中禅寺湖ライトアップ＆奥日光硫黄泉の宿エリアでは、「湯西川温泉　ホテル湯西川（伊東園ホテルズ）」（楽天評価★4.03・クチコミ969件、所在地：栃木県日光市湯西川597）をはじめとする宿を拠点にし、最寄り駅（湯西川温泉）やアクセス条件（湯西川温泉駅よりバスにて約20分（ホテル湯西川前下車））に合わせて午前中に周辺観光名所を巡り、15時のチェックイン後に温泉や夕食会席を堪能するスケジュールが最も効率的です。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"宿泊予約時は最安料金目安（例：「リッチモンドホテル宇都宮駅前」は1名あたり¥4,000〜）や駐車場条件（有り　７０台　無料）を事前に確認しましょう。連休や紅葉・年末年始シーズンは早期に満室となるため、楽天トラベルの早期割引プランやクーポンの活用がおすすめです。"}}]}) }}
       />
         
         {/* キャンペーンバナー */}
@@ -521,12 +521,6 @@ export default function NikkoAutumnLeavesGuidePage() {
             </Link>
           </div>
         </section>
-      
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         
 
         {/* FAQ Section */}
@@ -544,7 +538,7 @@ export default function NikkoAutumnLeavesGuidePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。
+                A. 日光・いろは坂 紅葉2026見頃完全マップ：大渋滞回避の時間帯・中禅寺湖ライトアップ＆奥日光硫黄泉の宿では、最寄り駅からの送迎バス運行時間やチェックイン時刻（通常15:00）から逆算し、午前中に主要な景勝地・寺社・市場を巡り、午後は宿の天然温泉や地元食材の会席料理をゆっくり堪能する行程が最も満足度の高い回り方です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -553,7 +547,7 @@ export default function NikkoAutumnLeavesGuidePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。
+                A. 楽天トラベルで予約する際は、無料駐車場の台数・予約要否、露天風呂付き客室や部屋食プランの有無、そして5と0のつく日クーポンや早期割引プランの対象期間を事前に比較確認しておくと安心です。
               </p>
             </details>
           </div>
@@ -568,7 +562,22 @@ export default function NikkoAutumnLeavesGuidePage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/tokyo-aomori-bus-vs-shinkansen-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">東京〜青森・弘前：新幹線はやぶさ vs 夜行バス徹底比較！料金半額以下の夜行旅＆奥入瀬渓流・弘前城1泊2日モデルコース</span>
+            </a>
+            <a href="/winter-aomori-owani-hirosaki-onsen-moyashi-tsugarugyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">津軽で過ごす冬の旅（11・12月）！冬限定「大鰐温泉もやし」と開湯800年の名湯！名宿5選</span>
+            </a>
+            <a href="/aomori-shimokita-osorezan-oma-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">青森・下北半島＆恐山・大間：本州最北端大間マグロ・日本三大霊場恐山宿 厳選ガイド</span>
+            </a>
+            <a href="/autumn-budget-aomori-station-nokkedon-apple-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">青森駅前：名物のっけ丼＆旬の津軽りんご・地酒！5,000円台〜泊まれる格安ホテル5選</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

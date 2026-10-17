@@ -191,7 +191,7 @@ export default function HakoneCoupleAnniversaryGuidePage() {
       <main className="max-w-4xl mx-auto px-4 py-10 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「客室露天風呂・フレンチ懐石ディナー＆記念日サプライズ宿」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「客室露天風呂・フレンチ懐石ディナー＆記念日サプライズ宿」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"箱根カップル温泉旅行 1泊2日モデルコース：客室露天風呂・フレンチ懐石ディナー＆記念日サプライズ宿エリアでは、「強羅温泉　強羅にごりの湯宿　のうのう箱根」（楽天評価★4.3・クチコミ2401件、所在地：神奈川県足柄下郡箱根町強羅1320-1080）をはじめとする宿を拠点にし、最寄り駅（主要駅）やアクセス条件（【無料送迎あり（15時～18時）】 早雲山駅より徒歩8分、強羅駅より車で5分）に合わせて午前中に周辺観光名所を巡り、15時のチェックイン後に温泉や夕食会席を堪能するスケジュールが最も効率的です。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"宿泊予約時は最安料金目安（例：「ラフォーレ箱根強羅　湯の棲」は1名あたり¥8,800〜）や駐車場条件（有り　１０台　無料　予約不要）を事前に確認しましょう。連休や紅葉・年末年始シーズンは早期に満室となるため、楽天トラベルの早期割引プランやクーポンの活用がおすすめです。"}}]}) }}
       />
         {/* 記念日旅行を成功させる3大ポイント */}
         <section className="bg-white rounded-3xl p-6 md:p-8 shadow-sm border border-rose-200/80 space-y-6">
@@ -468,12 +468,6 @@ export default function HakoneCoupleAnniversaryGuidePage() {
             <SpecialCouponBanner variant="inline" className="max-w-xl mx-auto" />
           </div>
         </section>
-      
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         
 
         {/* FAQ Section */}
@@ -491,7 +485,7 @@ export default function HakoneCoupleAnniversaryGuidePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。
+                A. 箱根カップル温泉旅行 1泊2日モデルコース：客室露天風呂・フレンチ懐石ディナー＆記念日サプライズ宿では、最寄り駅からの送迎バス運行時間やチェックイン時刻（通常15:00）から逆算し、午前中に主要な景勝地・寺社・市場を巡り、午後は宿の天然温泉や地元食材の会席料理をゆっくり堪能する行程が最も満足度の高い回り方です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -500,7 +494,7 @@ export default function HakoneCoupleAnniversaryGuidePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。
+                A. 楽天トラベルで予約する際は、無料駐車場の台数・予約要否、露天風呂付き客室や部屋食プランの有無、そして5と0のつく日クーポンや早期割引プランの対象期間を事前に比較確認しておくと安心です。
               </p>
             </details>
           </div>
@@ -515,7 +509,22 @@ export default function HakoneCoupleAnniversaryGuidePage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/winter-saitama-chichibu-hyochu-onouchi-ogano-onsen-jibier-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">尾ノ内百景氷柱と薬師の湯：2026-2027年冬の埼玉・秩父＆小鹿野！猪鹿ぼたん鍋と武州和牛名宿5選</span>
+            </a>
+            <a href="/winter-saitama-omiya-hikawa-shrine-hatsumode-keyaki-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月埼玉：武州和牛と天然温泉に寛ぐ！名宿5選</span>
+            </a>
+            <a href="/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">埼玉・秩父温泉郷で過ごす冬の旅（11・12月）！名物武州和牛すき焼き！名宿5選</span>
+            </a>
+            <a href="/furusato-tax-chichibu-nagatoro-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">国指定天然記念物・長瀞岩畳の紅葉舟下り！秩父夜祭・錦秋ハイキング＆秩父七湯温泉宿×ふるさと納税厳選ガイド埼玉</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

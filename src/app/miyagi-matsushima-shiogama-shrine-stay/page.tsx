@@ -692,11 +692,6 @@ export default function Page() {
             </Link>
           </div>
         </section>
-      
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -779,7 +774,22 @@ export default function Page() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/hokkaido-akanko-solo-retreat-lakeview-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">阿寒摩周・阿寒湖温泉ひとり旅・雄阿寒岳とマリモおこもり：全室温泉露天風呂・アイヌコタン木彫り文化・オホーツク会席！道東国立公園厳選3宿</span>
+            </a>
+            <a href="/hokkaido-noboribetsu-solo-retreat-hell-valley-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">北海道・登別温泉ひとり旅・地獄谷の多彩な泉質おこもり：9種類の湧出泉・白濁硫黄露天風呂・道産会席！名湯の王様厳選3宿</span>
+            </a>
+            <a href="/hokkaido-travel-budget-plan/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">北海道旅行 予算：2泊3日・3泊4日はいくら必要？レンタカーなしでも回れる費用計画ガイド</span>
+            </a>
+            <a href="/winter-hokkaido-akanko-onsen-lakeview-frost-flower-hokkaido-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">北海道・阿寒湖温泉で過ごす冬の旅（11・12月）！極上道東海鮮蟹会席！名宿5選</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

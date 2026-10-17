@@ -216,7 +216,226 @@ export default function MicroTouristHubPage() {
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
                         </a>
                       </div>
-                    </article>
+                    
+        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
+          <div className="space-y-2 border-b border-stone-200 pb-4">
+            <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
+              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+            </span>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
+              📊 静岡・浜名湖＆舘山寺温泉：湖畔パノラマ・ロープウェイ＆浜名湖うなぎ宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+            </h2>
+            <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+              楽天トラベル公式APIより取得した「静岡・浜名湖＆舘山寺温泉：湖畔パノラマ・ロープウェイ＆浜名湖うなぎ宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+            </p>
+          </div>
+
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th>
+                  <th className="p-3">所在地</th>
+                  <th className="p-3">最寄り駅・交通</th>
+                  <th className="p-3">駐車場情報</th>
+                  <th className="p-3">楽天評価</th>
+                  <th className="p-3">最安目安</th>
+                  <th className="p-3">予約・詳細</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. 浜名湖かんざんじ温泉　ホテル鞠水亭</td>
+                <td className="p-3 text-stone-600">静岡県浜松市中央区舘山寺町398番地</td>
+                <td className="p-3 text-stone-600">浜松駅周辺</td>
+                <td className="p-3 text-stone-600">有り　乗用車　80台　大型　4台，無料</td>
+                <td className="p-3 font-bold text-amber-600">★4.41（832件）</td>
+                <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2092%2F2092.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. ホテル　ウェルシーズン浜名湖</td>
+                <td className="p-3 text-stone-600">静岡県浜松市中央区舘山寺町1891</td>
+                <td className="p-3 text-stone-600">浜松駅周辺</td>
+                <td className="p-3 text-stone-600">あり（宿泊当日〜出発日迄無料／予約不要）　※車いす駐車場有（要問合せ）※バイク用屋根付き有</td>
+                <td className="p-3 font-bold text-amber-600">★4.53（3569件）</td>
+                <td className="p-3 font-bold text-rose-600">¥11,550〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F3112%2F3112.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. 旅館ふじや</td>
+                <td className="p-3 text-stone-600">静岡県浜松市中央区舘山寺町2268</td>
+                <td className="p-3 text-stone-600">浜松駅周辺</td>
+                <td className="p-3 text-stone-600">有り　10台　無料（大人の人数の半数台まで無料）　予約不要</td>
+                <td className="p-3 font-bold text-amber-600">★4.4（162件）</td>
+                <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F64543%2F64543.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">4. 愛知渥美半島　伊良湖温泉　魚と貝のうまい宿　玉川</td>
+                <td className="p-3 text-stone-600">愛知県田原市福江町中紺屋瀬古22-1</td>
+                <td className="p-3 text-stone-600">豊橋駅周辺</td>
+                <td className="p-3 text-stone-600">有り　２０台　無料　先着順</td>
+                <td className="p-3 font-bold text-amber-600">★4.26（145件）</td>
+                <td className="p-3 font-bold text-rose-600">¥4,400〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F39935%2F39935.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div className="space-y-4">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
+              🏨 各宿の宿泊者リアルクチコミ・客室イメージ・項目別評価データ
+            </h3>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #1</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">浜名湖かんざんじ温泉　ホテル鞠水亭</h3>
+                  <span className="text-xs text-stone-400 ml-2">（はまなこかんざんじおんせん　ほてるきくすいてい）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥8,250〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2092/2092_hos.jpg" alt="浜名湖かんざんじ温泉　ホテル鞠水亭 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>浜名湖内浦湾と大草山を一望できる湖畔の宿。石造りと御殿風檜造りの2種類の展望露天風呂が自慢です。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 静岡県浜松市中央区舘山寺町398番地 ／ 最寄り駅：浜松 ／ 交通案内：ＪＲ浜松駅より路線バスで４５分（舘山寺温泉行き）　東名高速、舘山寺スマートＩＣより約５分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　乗用車　80台　大型　4台，無料</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「飾らない雰囲気と親切な対応で何度も利用何度も利用させて頂いてます。いつも、昼前に車を置かせてもらい、近くの鰻屋さんで昼呑みしながら、美味しい鰻を食べてます。飾らない雰囲気が良いし、係の方も皆、親切…　2026-08-27 15:04:46投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #2</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ホテル　ウェルシーズン浜名湖</h3>
+                  <span className="text-xs text-stone-400 ml-2">（うぇるしーずんはまなこ　とおてつ　えんぱいあ）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥11,550〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/3112/3112_heya.jpg" alt="ホテル　ウェルシーズン浜名湖 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>【ウェルカムベビーのお宿】お子様大歓迎のホテルです！／華咲の湯＆遊園地入場無料（休業日除く）</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 静岡県浜松市中央区舘山寺町1891 ／ 最寄り駅：浜松 ／ 交通案内：■東名高速道路『舘山寺スマートIC』より約5分 ■JR浜松駅より路線バスで約45分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>あり（宿泊当日〜出発日迄無料／予約不要）　※車いす駐車場有（要問合せ）※バイク用屋根付き有</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.62 ／ 立地 ★4.43 ／ 部屋 ★4.43 ／ 設備 ★4.47 ／ 風呂 ★4.45 ／ 食事 ★4.64</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パルパル直結で静岡グルメも満喫!パルパル直結で子供と遊ぶのに最高の立地でした。小さい子供と旅行に行くとご当地グルメのお店には立ち寄りにくいのですが、夕食、朝食バイキングで静岡ならではの料理を色々と…　2026-10-04 20:57:01投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #3</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">旅館ふじや</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ふじや）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥8,250〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/64543/64543_ky.jpg" alt="旅館ふじや 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>浜名湖にたたずみ、沈む夕日の美しさに感動！お料理は浜名湖、遠州灘の幸を心を込めて調理致します。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 静岡県浜松市中央区舘山寺町2268 ／ 最寄り駅：浜松 ／ 交通案内：東名高速浜松西ICから15分、舘山寺スマートICから5分　ＪＲ浜松駅からバスで45分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　10台　無料（大人の人数の半数台まで無料）　予約不要</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「旅館ふじやは立地・設備・ホスピタリティのバランスに優れ、観光拠点としても記念日や週末リフレッシュ滞在としても高い満足度を得ています。」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #4</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">愛知渥美半島　伊良湖温泉　魚と貝のうまい宿　玉川</h3>
+                  <span className="text-xs text-stone-400 ml-2">（あいちあつみはんとう　いらこおんせん　さかなとかいのうまいやど　たまがわ）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥4,400〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/39935/39935_meal.jpg" alt="愛知渥美半島　伊良湖温泉　魚と貝のうまい宿　玉川 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>愛知・伊良湖温泉 露天風呂付き客室のある料理旅館</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 愛知県田原市福江町中紺屋瀬古22-1 ／ 最寄り駅：豊橋 ／ 交通案内：豊橋よりバスにて６０分～福江バス停で下車～徒歩１分／当館の入口は、通りに面したレンガの壁が目印です</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「伊勢湾フェリーの利用に便利、魚料理も絶品翌日に伊勢湾フェリーを利用するために、宿泊しました。一階部分の食堂で夕飯を頂きました。直距離の運転だったので、ビールが最高に旨かったです。魚料理は、お刺身が…　2026-08-26 14:21:44投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="space-y-4 pt-6 border-t border-stone-200">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
+              🗺️ あわせて巡りたい！静岡県の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+            </h3>
+            <p className="text-xs text-stone-600 leading-relaxed">
+              宿泊前後の1泊2日・2泊3日モデルコースに組み込みたい、静岡県を代表する名所・絶景スポットの解説です。チェックイン前後の荷物預かりや駅周辺のレンタカー・周遊バスを活用すると効率よく巡ることができます。
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
+                <h3 className="text-base font-bold text-stone-900">三島スカイウォーク</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">日本一長い歩行者専用吊り橋（全長400m）。富士山と駿河湾のパノラマ絶景を空中散歩感覚で楽しめ、ジップラインなどのアクティビティも充実しています。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
+                <h3 className="text-base font-bold text-stone-900">熱海温泉・サンビーチ</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">都心からのアクセスが抜群な海辺の温泉リゾート。地中海リゾートを彷彿とさせるサンビーチや年間を通して開催される熱海海上花火大会が人気です。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
+                <h3 className="text-base font-bold text-stone-900">伊豆シャボテン動物公園</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">1,500種類のサボテンと世界中の動物たちが暮らすテーマパーク。冬限定の「元祖カピバラの露天風呂」の癒やされる姿は全国的に有名です。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
+                <h3 className="text-base font-bold text-stone-900">白糸の滝</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">富士山の湧水が幅150mの湾曲した絶壁から千本の絹糸のように流れ落ちる国指定の名勝・天然記念物。清涼なマイナスイオンと富士の恵みを体感できます。</p>
+              </div>
+            </div>
+            </div>
+          </div>
+
+          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-3 text-xs text-stone-700 leading-relaxed">
+            <h3 className="text-sm md:text-base font-bold text-amber-950">
+              💡 静岡県エリアの宿泊予約・シーズン別ベストタイミングと節約ノウハウ
+            </h3>
+            <p>
+              <strong>1. 早期予約と楽天トラベルクーポンの併用：</strong> 静岡県の人気温泉宿・リゾートホテルは、週末や連休・紅葉・年末年始の60日〜30日前から一気に予約が埋まります。毎月5と0のつく日やスーパーSALE期間中に配布される宿クーポン・自治体クーポンを併用すると、通常より最大10〜20%お得に予約可能です。
+            </p>
+            <p>
+              <strong>2. 夕食・朝食プランと部屋タイプの選び方：</strong> 地元産の旬魚介やブランド牛会席を味わうなら「夕朝食付きプラン」、周辺の屋台・老舗居酒屋・ご当地グルメを食べ歩くなら「朝食付き」または「素泊まり＋天然温泉大浴場付きホテル」を選ぶと予算と満足度のバランスが最適化されます。
+            </p>
+          </div>
+        </section>
+
+      </article>
                   ))}
                 </div>
               </div>

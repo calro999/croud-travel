@@ -422,12 +422,6 @@ export default function Page() {
             
           </div>
         </section>
-
-      
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -510,7 +504,22 @@ export default function Page() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/winter-saitama-gyoda-oshi-castle-sakidama-kofun-tabigura-onsen-bushugyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">のぼうの城・行田忍城雪景色と足袋蔵の街重伝建：2026-2027年冬の埼玉・行田＆熊谷！行田天然温泉と武州牛・加須手打ちうどん名宿5選</span>
+            </a>
+            <a href="/furusato-tax-chichibu-nagatoro-line-kudari-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">長瀞ライン下りと岩畳の紅葉絵巻！秩父温泉郷の名湯・名物豚みそ丼＆わらじカツを味わう秋の埼玉旅</span>
+            </a>
+            <a href="/winter-saitama-hanno-naguri-onsen-moomin-illumination-bushugyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月埼玉：奥武蔵の薪火サウナと武州和牛！名宿5選</span>
+            </a>
+            <a href="/furusato-tax-nagatoro-iwadatami-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">長瀞ラインくだりの岩畳紅葉＆月の石もみじ公園ライトアップ！秩父温泉宿×ふるさと納税厳選ガイド埼玉</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
@@ -540,6 +549,194 @@ export default function Page() {
                 三重県の宿・温泉
               </Link>
             </div>
+          </div>
+        </section>
+
+      
+        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
+          <div className="space-y-2 border-b border-stone-200 pb-4">
+            <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
+              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+            </span>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
+              📊 日本三大そうめん＆手延べ極細麺の伝統技・名水と古都の湯宿×ふるさと納税厳選ガイド三輪・播州・小豆島：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+            </h2>
+            <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+              楽天トラベル公式APIより取得した「日本三大そうめん＆手延べ極細麺の伝統技・名水と古都の湯宿×ふるさと納税厳選ガイド三輪・播州・小豆島」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+            </p>
+          </div>
+
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th>
+                  <th className="p-3">所在地</th>
+                  <th className="p-3">最寄り駅・交通</th>
+                  <th className="p-3">駐車場情報</th>
+                  <th className="p-3">楽天評価</th>
+                  <th className="p-3">最安目安</th>
+                  <th className="p-3">予約・詳細</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. 大和橿原シティホテル</td>
+                <td className="p-3 text-stone-600">奈良県橿原市八木町1-8-16</td>
+                <td className="p-3 text-stone-600">大和八木駅周辺</td>
+                <td className="p-3 text-stone-600">１６台　無料　先着順　R２４『南八木』交差点東側　当館より徒歩２～３分　詳細はフロントにてご案内。</td>
+                <td className="p-3 font-bold text-amber-600">★3（716件）</td>
+                <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5407%2F5407.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. ＨＯＴＥＬ万葉岬</td>
+                <td className="p-3 text-stone-600">兵庫県相生市相生金ケ崎5321</td>
+                <td className="p-3 text-stone-600">相生（兵庫）駅周辺</td>
+                <td className="p-3 text-stone-600">有り　４０台　無料</td>
+                <td className="p-3 font-bold text-amber-600">★4.37（528件）</td>
+                <td className="p-3 font-bold text-rose-600">¥7,550〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F56745%2F56745.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. アクアホテル小豆島リゾート＜小豆島＞</td>
+                <td className="p-3 text-stone-600">香川県小豆郡小豆島町吉田乙276-2</td>
+                <td className="p-3 text-stone-600">高松空港駅周辺</td>
+                <td className="p-3 text-stone-600">有り　１６台　無料　予約不要</td>
+                <td className="p-3 font-bold text-amber-600">★4.62（34件）</td>
+                <td className="p-3 font-bold text-rose-600">¥10,659〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F192875%2F192875.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div className="space-y-4">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
+              🏨 各宿の宿泊者リアルクチコミ・客室イメージ・項目別評価データ
+            </h3>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #1</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">大和橿原シティホテル</h3>
+                  <span className="text-xs text-stone-400 ml-2">（やまとかしはら　してぃほてる）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥5,500〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5407/5407_twn.jpg" alt="大和橿原シティホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>四季折々の味覚と温泉・快適な客室が魅力の人気宿。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 奈良県橿原市八木町1-8-16 ／ 最寄り駅：大和八木 ／ 交通案内：★大和八木駅より徒歩４分★八木西口駅より徒歩３分★ＪＲ畝傍駅より徒歩４分★南阪奈道路葛城ICより約１５分★</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>１６台　無料　先着順　R２４『南八木』交差点東側　当館より徒歩２～３分　詳細はフロントにてご案内。</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「素泊まりには便利だが清掃と備品に難あり素泊まりには十分。駅周辺でもあり、飲食店は多いので困らない。無料駐車場は限られてて、若干狭い、少し歩く必要あり。有料も周辺にあるので困る事はない。部屋…　2026-07-13 20:43:47投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #2</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ＨＯＴＥＬ万葉岬</h3>
+                  <span className="text-xs text-stone-400 ml-2">（まんようみさき）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥7,550〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/56745/56745_dt.jpg" alt="ＨＯＴＥＬ万葉岬 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>瀬戸内絶景パノラマ！瀬戸の山頂にひっそりと佇む癒しの宿。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県相生市相生金ケ崎5321 ／ 最寄り駅：相生（兵庫） ／ 交通案内：ＪＲ　相生駅より送迎有り（予約制）</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「非日常景色が良い。建物も味があって内装も綺麗にされていて清掃もできているので良かったが、プラスアルファが欲しいかな。クチコミの詳細はこちらから　https://review.travel.ra…　2026-08-28 18:07:23投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #3</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">アクアホテル小豆島リゾート＜小豆島＞</h3>
+                  <span className="text-xs text-stone-400 ml-2">（あくあほてるしょうどしまりぞーと）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥10,659〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/192875/192875.jpg" alt="アクアホテル小豆島リゾート＜小豆島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>小豆島北東の閑静なエリアに佇むオーシャンビューホテル！日常から離れた開放的空間で何もしない贅沢を♪</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 香川県小豆郡小豆島町吉田乙276-2 ／ 最寄り駅：高松空港 ／ 交通案内：小豆島福田港よりお車で約８分、小豆島土庄港よりお車で約４０分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　１６台　無料　予約不要</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「周りには何もない所ですが窓からの景色がとても良く、部屋もきれいで広く最高でした。スタッフの方も親しみやすく、とてもくつろげました。また、行きたいです。クチコミの詳細はこちらから　https://r…　2026-09-02 16:06:18投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=192875&quot; class=&quot;3click&quot;」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="space-y-4 pt-6 border-t border-stone-200">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
+              🗺️ あわせて巡りたい！埼玉県の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+            </h3>
+            <p className="text-xs text-stone-600 leading-relaxed">
+              宿泊前後の1泊2日・2泊3日モデルコースに組み込みたい、埼玉県を代表する名所・絶景スポットの解説です。チェックイン前後の荷物預かりや駅周辺のレンタカー・周遊バスを活用すると効率よく巡ることができます。
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Kawagoe_Ichibangai1.jpg/1280px-Kawagoe_Ichibangai1.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="川越 小江戸（時の鐘）" className="w-full h-full object-cover" loading="lazy" /></div>
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
+                <h3 className="text-base font-bold text-stone-900">川越 小江戸（時の鐘）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">蔵造りの商家が並ぶ江戸の情緒を色濃く残す街並み。町のシンボル「時の鐘」や駄菓子屋横丁、縁結びで有名な川越氷川神社など見どころが満載です。 川越（かわごえ）は、武蔵国入間郡の地名。中世には河越とも表記されたが、現在は埼玉県川越で統一されている。 城下町として栄え、古くから小江戸と称された。古くからの「川越」は現在の川越市の中心部にあたり、旧町字名では「大字川越」とも呼ばれた。その地域には次々と町名が設定され、現在の川越市東部に大字川越が残っている。…</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
+                <h3 className="text-base font-bold text-stone-900">長瀞渓谷（ラインくだり）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">荒川の流れる美しい岩畳と新緑・紅葉の絶景が広がる国指定の名勝・天然記念物。木造の船で急流や静流を下る長瀞ラインくだりはスリルと爽快感にあふれています。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
+                <h3 className="text-base font-bold text-stone-900">鉄道博物館（てっぱく）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">JR東日本創立20周年事業として作られた実物車両30両以上を展示する巨大博物館。迫力のジオラマや運転シミュレータなど大人から子供まで楽しめます。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
+                <h3 className="text-base font-bold text-stone-900">羊山公園（芝桜の丘）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">秩父市街を一望する高台に位置し、春にはピンクや白、紫など9種類40万株以上の芝桜がデザインされた一面のパッチワーク模様を描き出します。</p>
+              </div>
+            </div>
+            </div>
+          </div>
+
+          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-3 text-xs text-stone-700 leading-relaxed">
+            <h3 className="text-sm md:text-base font-bold text-amber-950">
+              💡 埼玉県エリアの宿泊予約・シーズン別ベストタイミングと節約ノウハウ
+            </h3>
+            <p>
+              <strong>1. 早期予約と楽天トラベルクーポンの併用：</strong> 埼玉県の人気温泉宿・リゾートホテルは、週末や連休・紅葉・年末年始の60日〜30日前から一気に予約が埋まります。毎月5と0のつく日やスーパーSALE期間中に配布される宿クーポン・自治体クーポンを併用すると、通常より最大10〜20%お得に予約可能です。
+            </p>
+            <p>
+              <strong>2. 夕食・朝食プランと部屋タイプの選び方：</strong> 地元産の旬魚介やブランド牛会席を味わうなら「夕朝食付きプラン」、周辺の屋台・老舗居酒屋・ご当地グルメを食べ歩くなら「朝食付き」または「素泊まり＋天然温泉大浴場付きホテル」を選ぶと予算と満足度のバランスが最適化されます。
+            </p>
           </div>
         </section>
 

@@ -88,7 +88,7 @@ export default function FeaturePage() {
               rating: 4.3,
               reviews: 3060,
               price: "¥11,900〜",
-              access: "博多駅→特急約100分／長崎駅→快速約90分／長崎��港→高速船約45分・バス約60分",
+              access: "博多駅→特急約100分／長崎駅→快速約90分／長崎空港→高速船約45分・バス約60分",
               features: ["ハウステンボス直営／静かな海辺に建つ、オールインクルーシブホテル。添い寝のお子様はお食事無料！", "佐世保市ハウステンボス町7-9", "楽天アワード受賞歴"]
             },
             {
@@ -274,15 +274,6 @@ export default function FeaturePage() {
             ))}
           </div>
         </section>
-
-        
-        
-        
-        
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />

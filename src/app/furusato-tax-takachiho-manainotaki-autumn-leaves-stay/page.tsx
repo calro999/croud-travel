@@ -417,11 +417,6 @@ export default function FeatureArticlePage() {
           </div>
         </aside>
       </div>
-    
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -504,7 +499,22 @@ export default function FeatureArticlePage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/fukui-solo-business-echizen-soba-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">福井出張＆越前美食ひとり旅：北陸新幹線福井駅前・マリオット最新開業・天然温泉大浴場！越前おろしそばとソースカツ丼を満喫する極上宿 厳選3選</span>
+            </a>
+            <a href="/winter-fukui-eiheiji-snow-zen-echizen-oroshi-soba-wakasa-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月福井：曹洞宗大本山永平寺の雪静寂！名宿5選</span>
+            </a>
+            <a href="/autumn-budget-fukui-station-oroshisoba-castle-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">福井駅前：越前おろしそば＆ソースカツ丼・福井城跡！3,000円台〜泊まれる格安ホテル5選</span>
+            </a>
+            <a href="/furusato-tax-three-great-zen-temples-mindfulness-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">日本三大禅寺＆静寂の枯山水庭園・心洗われる坐禅・精進料理宿×ふるさと納税厳選ガイド京都南禅寺・鎌倉建長寺・福井永平寺</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

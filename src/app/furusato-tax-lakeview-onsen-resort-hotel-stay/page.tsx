@@ -416,11 +416,6 @@ export default function FurusatoLakeviewOnsenResortStayPage() {
           </p>
         </footer>
       </div>
-    
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -503,7 +498,22 @@ export default function FurusatoLakeviewOnsenResortStayPage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/furusato-tax-jozankei-hoheikyo-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">定山渓温泉の豊平峡ダム紅葉＆渓谷ネイチャールミナリエ！札幌奥座敷露天風呂宿×ふるさと納税厳選ガイド北海道</span>
+            </a>
+            <a href="/hokkaido-akan-mashu-kussharo-lake-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">北海道・阿寒湖＆摩周湖・屈斜路湖：神秘のカルデラ三湖・阿寒アイヌコタン＆まりも・硫黄山温泉宿 厳選ガイド</span>
+            </a>
+            <a href="/hokkaido-kawayu-solo-retreat-acid-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">道東・川湯温泉ひとり旅・硫黄山pH1.7強酸性泉おこもり：釘も溶かす日本屈指の酸性硫黄泉・摩周湖の霧・エゾ鹿料理！阿寒摩周の秘境厳選3宿</span>
+            </a>
+            <a href="/hokkaido-toyako-solo-retreat-lakeview-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">洞爺湖温泉ひとり旅・湖畔絶景おこもり：インフィニティ露天風呂・ロングラン花火・道産牛フレンチ会席！支笏洞爺国立公園厳選3宿</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

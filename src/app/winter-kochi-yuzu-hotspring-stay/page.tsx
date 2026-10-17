@@ -88,7 +88,7 @@ export default function FeaturePage() {
               rating: 3.3,
               reviews: 55,
               price: "¥5,300〜",
-              access: "徳島自動車道　井川���池田ＩＣより高知方面へ5.8ｋｍ   大歩危祖谷観光やラフティングにも最適です。",
+              access: "徳島自動車道　井川・池田ＩＣより高知方面へ5.8ｋｍ   大歩危祖谷観光やラフティングにも最適です。",
               features: ["林芙美子ゆかりの宿。芙美子も愛した吉野川と山々を眺めながら、山の幸を温泉でのんびり癒しのひと時を", "三好市池田町白地本名76-2", "楽天アワード受賞歴"]
             },
             {
@@ -274,10 +274,6 @@ export default function FeaturePage() {
             ))}
           </div>
         </section>
-
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />

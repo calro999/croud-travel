@@ -101,7 +101,7 @@ export default function FeaturePage() {
               features: ["湯畑まで徒歩１分♪　 全１０室の静かな大人宿♪　人気の露天風呂付和室は４部屋あり♪", "吾妻郡草津町草津155", "楽天アワード受賞歴"]
             },
             {
-              name: "草津温泉���益成屋旅館",
+              name: "草津温泉　益成屋旅館",
               img: "https://img.travel.rakuten.co.jp/share/HOTEL/147469/147469.jpg",
               rating: 4.7,
               reviews: 294,
@@ -274,14 +274,6 @@ export default function FeaturePage() {
             ))}
           </div>
         </section>
-
-        
-        
-        
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />

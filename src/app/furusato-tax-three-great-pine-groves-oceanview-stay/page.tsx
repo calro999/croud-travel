@@ -338,7 +338,125 @@ export default function FurusatoUpgradedPage() {
         </div>
       </section>
     
-      <HubRelatedPosts currentSlug="furusato-tax-three-great-pine-groves-oceanview-stay" />
+      
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-6 my-10 max-w-5xl mx-auto">
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900">📊 日本三大松原の白砂青松オーシャンビュー宿×ふるさと納税厳選ガイド三保の松原・虹の松原・気比の松原：楽天トラベル高評価宿スペック比較表＆クチコミ徹底解説</h2>
+          <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+            楽天トラベル公式APIから取得した全国の高評価宿データ（所在地・最寄り駅・駐車場・総合評価・参考最安料金）と実際の宿泊者レビューを整理しました。ふるさと納税の旅行クーポンや早期割引プランと併用することで、ワンランク上の滞在をお得に実現できます。
+          </p>
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th><th className="p-3">所在地</th><th className="p-3">アクセス</th><th className="p-3">駐車場</th><th className="p-3">評価</th><th className="p-3">最安目安</th><th className="p-3">予約</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. 都ホテル京都八条</td>
+                <td className="p-3 text-stone-600">京都府京都市南区西九条院町17</td>
+                <td className="p-3 text-stone-600">京都</td>
+                <td className="p-3 text-stone-600">1泊2000円(宿泊日13時〜翌12時迄）満車時はお客様ご負担で近隣パーキングをご利用下さい｡</td>
+                <td className="p-3 font-bold text-amber-600">★4.4（7582件）</td>
+                <td className="p-3 font-bold text-rose-600">¥13,200〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1160%2F1160.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. ウェスティン都ホテル京都</td>
+                <td className="p-3 text-stone-600">京都府京都市東山区粟田口華頂町1</td>
+                <td className="p-3 text-stone-600">蹴上</td>
+                <td className="p-3 text-stone-600">ご宿泊優待料金：1泊／1,500円＜ご出発日の16時まで入出庫可＞ここを起点に古都を散策＆温泉の旅</td>
+                <td className="p-3 font-bold text-amber-600">★4.71（2975件）</td>
+                <td className="p-3 font-bold text-rose-600">¥47,300〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1167%2F1167.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. 白馬東急ホテル</td>
+                <td className="p-3 text-stone-600">長野県北安曇郡白馬村北城4688</td>
+                <td className="p-3 text-stone-600">白馬</td>
+                <td className="p-3 text-stone-600">有り 約70台無料。EV充電器2台分ございます。</td>
+                <td className="p-3 font-bold text-amber-600">★4.65（478件）</td>
+                <td className="p-3 font-bold text-rose-600">¥13,590〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1173%2F1173.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">4. ホテル日航ノースランド帯広</td>
+                <td className="p-3 text-stone-600">北海道帯広市西2条南13丁目1番地</td>
+                <td className="p-3 text-stone-600">帯広</td>
+                <td className="p-3 text-stone-600">エリア最大級の駐車場２１０台　(1泊600円）※乗用車のみ。トラック、マイクロバス駐車できません</td>
+                <td className="p-3 font-bold text-amber-600">★4.49（2648件）</td>
+                <td className="p-3 font-bold text-rose-600">¥7,050〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1176%2F1176.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">5. スイスホテル南海大阪</td>
+                <td className="p-3 text-stone-600">大阪府大阪市中央区難波5-1-60</td>
+                <td className="p-3 text-stone-600">なんば</td>
+                <td className="p-3 text-stone-600">有り357台 利用料金￥3,300（1泊/宿泊者の優待料金 予告なく料金を変更する場合がございます）</td>
+                <td className="p-3 font-bold text-amber-600">★4.62（2143件）</td>
+                <td className="p-3 font-bold text-rose-600">¥16,801〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1181%2F1181.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+          <div className="space-y-3">
+            <h3 className="text-base font-bold text-stone-900">🏨 注目宿のクチコミ・アクセス詳細</h3>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">1. 都ホテル京都八条（京都府・★4.4）</h4>
+              <p><strong>【特徴】</strong>京都駅徒歩２分でアクセス抜群、 全室無料Wi-Fi完備、手荷物無料預かりサービスもあってとっても便利</p>
+              <p><strong>【交通・駐車場】</strong>京都駅八条口から徒歩約２分！ ／ 駐車場：1泊2000円(宿泊日13時〜翌12時迄）満車時はお客様ご負担で近隣パーキングをご利用下さい｡</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「新幹線が見れてとてもよい景色でしたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/1160?reviewId=33123…　2026-10-07 21:30:56投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=11」</p>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">2. ウェスティン都ホテル京都（京都府・★4.71）</h4>
+              <p><strong>【特徴】</strong>心地よいという新しいラグジュアリー。★魅惑なグルメの世界と天然温泉SPAでお寛ぎいただけます。</p>
+              <p><strong>【交通・駐車場】</strong>京都駅八条口より無料送迎バスあり / 地下鉄東西線＜蹴上駅＞から徒歩2分 / 南禅寺・哲学の道まですぐ ／ 駐車場：ご宿泊優待料金：1泊／1,500円＜ご出発日の16時まで入出庫可＞ここを起点に古都を散策＆温泉の旅</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「ここには残っているホスピタリティー宿泊前に備品追加の依頼・観光スポット、夕食に予約した瓢亭まで実際歩いて伺えるか等、何度かお電話でやりとり(女性の方の名前失念)ホテル館内の魅力や調べた観光スポ…　2026-10-06 11:25:26投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=1167」</p>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">3. 白馬東急ホテル（長野県・★4.65）</h4>
+              <p><strong>【特徴】</strong>広い客室と2つのレストラン、バー、エステ、温泉浴場完備の正統派山岳リゾート。駅やゲレンデ無料送迎あり</p>
+              <p><strong>【交通・駐車場】</strong>白馬駅からお車で約8分。白馬八方バスターミナルからお車で約3分。送迎はご到着の1時間前までにご依頼ください。 ／ 駐車場：有り 約70台無料。EV充電器2台分ございます。</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「温泉の泉質とゆったりとした暖炉が良かったです小雨が降る8月末の週末にお世話になりました。部屋から前庭越しに望める白馬の峰々を期待していたのですが、次回に持ち越しとなりました。楽しみにしてい…　2026-10-10 15:47:12投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=1173&quot;」</p>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">4. ホテル日航ノースランド帯広（北海道・★4.49）</h4>
+              <p><strong>【特徴】</strong>直前ポイント10倍キャンペーン実施中☆駅まで30秒☆駅前唯一のプレミアムホテル！ビジネス・観光に最適</p>
+              <p><strong>【交通・駐車場】</strong>◆帯広駅に一番近いホテル◆帯広空港からの連絡バス発着でらくらくアクセス◆ひろびろ平面駐車場 ／ 駐車場：エリア最大級の駐車場２１０台　(1泊600円）※乗用車のみ。トラック、マイクロバス駐車できません</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「とても居心地がよく快適な時間とても居心地がよかったですクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/1176?re…　2026-10-03 17:02:33投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=1176」</p>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">5. スイスホテル南海大阪（大阪府・★4.62）</h4>
+              <p><strong>【特徴】</strong>大阪「ミナミ」に位置する36階建ホテル。なんば駅直結・地下鉄1本で梅田・新大阪へもアクセス抜群!</p>
+              <p><strong>【交通・駐車場】</strong>南海なんば駅直結 地下鉄なんば駅からすぐ、関西空港から空港特急で約40分、 JR新大阪駅からは約15分 ／ 駐車場：有り357台 利用料金￥3,300（1泊/宿泊者の優待料金 予告なく料金を変更する場合がございます）</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「部屋の選定ミス、浴室の配慮が足りない毎年、連泊で利用してますが、部屋の選定を間違えました。浴室の気配りが無い。来年はこの部屋は利用しません。クチコミの詳細はこちらから　https://…　2026-08-20 17:22:08投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=1181&quot; cl」</p>
+            </div>
+          </div>
+          <div className="space-y-3 pt-4 border-t border-stone-200">
+            <h3 className="text-base font-bold text-stone-900">🗺️ 合わせて訪れたい日本の代表的観光名所ガイド</h3>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
+              <h4 className="text-sm font-bold text-stone-900">📍 清水寺</h4>
+              <p className="text-xs text-stone-600 leading-relaxed">「清水の舞台」で世界的に有名な古都京都の象徴。「清水の舞台から飛び下りる」の語源となった木造大舞台からの京都市街の眺望と音羽の滝が名高いです。</p>
+            </div>
+            <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
+              <h4 className="text-sm font-bold text-stone-900">📍 函館山（夜景）</h4>
+              <p className="text-xs text-stone-600 leading-relaxed">世界三大夜景の一つに数えられる絶景スポット。津軽海峡と函館湾に挟まれたくびれが生み出す、宝石をちりばめたような眩い夜景は一生に一度は見たい感動のロケーションです。</p>
+            </div>
+            <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
+              <h4 className="text-sm font-bold text-stone-900">📍 横浜みなとみらい21</h4>
+              <p className="text-xs text-stone-600 leading-relaxed">ランドマークタワーや大観覧車「コスモクロック21」、赤レンガ倉庫が立ち並ぶ近代都市リゾート。港町の海風を感じながらショッピングや夜景を楽しめます。</p>
+            </div>
+            <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
+              <h4 className="text-sm font-bold text-stone-900">📍 国宝 姫路城（白鷺城）</h4>
+              <p className="text-xs text-stone-600 leading-relaxed">鮮やかな白漆喰の城壁が羽ばたく白鷺のように美しい日本初のユネスコ世界文化遺産。大天守をはじめ保存状態が完璧な城郭建築の最高峰です。</p>
+            </div>
+            </div>
+          </div>
+        </section>
+
+<HubRelatedPosts currentSlug="furusato-tax-three-great-pine-groves-oceanview-stay" />
 </div>
   );
 }

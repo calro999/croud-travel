@@ -88,7 +88,7 @@ export default function FeaturePage() {
               rating: 4.2,
               reviews: 83,
               price: "¥8,500〜",
-              access: "氷見駅よりお車にて約２０分（６.０ｋｍ）/【車】北陸（東海北��）自動車道⇒能越自動車道　氷見北ＩＣより５分",
+              access: "氷見駅よりお車にて約２０分（６.０ｋｍ）/【車】北陸（東海北陸）自動車道⇒能越自動車道　氷見北ＩＣより５分",
               features: ["魚処・氷見の山里に佇む、癒しの宿。露天風呂が自慢です☆【全室Wi-Fi完備！ 】", "氷見市指崎1632　　　　　　　　　　　　　　　　　　　　　　　　　　", "楽天アワード受賞歴"]
             },
             {
@@ -274,13 +274,6 @@ export default function FeaturePage() {
             ))}
           </div>
         </section>
-
-        
-        
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />

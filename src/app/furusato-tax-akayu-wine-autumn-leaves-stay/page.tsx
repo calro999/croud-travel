@@ -405,11 +405,6 @@ export default function FeatureArticlePage() {
           <span>← 特集記事一覧に戻る</span>
         </Link>
       </footer>
-    
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -492,7 +487,22 @@ export default function FeatureArticlePage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/silver-week-glamping-hokkaido-sapporo-furano-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">北海道シルバーウィーク グランピング：札幌・富良野・トマム！秋晴れの爽快リゾートヴィラ</span>
+            </a>
+            <a href="/winter-hokkaido-jozankei-onsen-snow-keikoku-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">定山渓温泉で過ごす冬の旅（11・12月）！北海道冬の三大蟹会席！名宿5選</span>
+            </a>
+            <a href="/winter-hokkaido-otaru-canal-illumination-sushi-asarigawa-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">北海道・小樽で過ごす冬の旅（11・12月）！小樽前浜極上寿司！名宿5選</span>
+            </a>
+            <a href="/winter-hokkaido-sounkyo-onsen-snow-gorge-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">北海道・層雲峡温泉で過ごす冬の旅（11・12月）！名湯硫黄泉！名宿5選</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

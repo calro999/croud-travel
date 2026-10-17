@@ -63,7 +63,7 @@ const HOTEL_DATA = {
     reviews: 663,
     special: '【全室 鬼怒川沿い×74平米以上】お部屋食もあるハイクラス美食宿。多彩なおもてなしでお迎え致します。',
     address: '栃木県日光市鬼怒川温泉大原1060-399',
-    access: '電車◆鬼怒川温泉駅より徒歩10分（無料送迎有※ご到着時TEL）　���◆今市ICより鬼怒川方面に25分（無料駐車場80台）'
+    access: '電車◆鬼怒川温泉駅より徒歩10分（無料送迎有※ご到着時TEL）　車◆今市ICより鬼怒川方面に25分（無料駐車場80台）'
   }
 };
 
@@ -417,11 +417,6 @@ export default function FeatureArticlePage() {
           </div>
         </aside>
       </div>
-    
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -504,7 +499,22 @@ export default function FeatureArticlePage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/autumn-budget-hokkaido-kushiro-sunset-robata-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">釧路：世界三大夕陽の幣舞橋と釧路湿原紅葉！天然温泉・3,000円台〜格安ホテル5選</span>
+            </a>
+            <a href="/autumn-hokkaido-sapporo-jozankei-hoheikyo-momiji-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">上旬〜中旬！札幌定山渓＆豊平峡の紅葉で過ごす冬の旅（10月）！渓谷美と名湯に寛ぐおすすめ温泉旅館5選</span>
+            </a>
+            <a href="/furusato-tax-noboribetsu-onsen-buffet-gourmet-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">登別温泉をふるさと納税でお得に旅する！豪華バイキング＆名湯大浴場！北海道三大蟹と地獄谷の絶景を巡る宿ガイド</span>
+            </a>
+            <a href="/hokkaido-furano-biei-lavender-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">北海道・富良野＆美瑛：青い池・ファーム富田ラベンダー＆白金温泉・富良野牛宿 厳選ガイド</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

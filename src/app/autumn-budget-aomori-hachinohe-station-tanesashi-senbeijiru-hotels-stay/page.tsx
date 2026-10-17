@@ -413,6 +413,256 @@ export default function AutumnBudgetHotelsPage() {
           </div>
         </div>
       </section>
-    </main>
+    
+        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
+          <div className="space-y-2 border-b border-stone-200 pb-4">
+            <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
+              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+            </span>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
+              📊 八戸駅・本八戸：種差海岸の秋絶景＆館鼻岸壁朝市・せんべい汁！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+            </h2>
+            <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+              楽天トラベル公式APIより取得した「八戸駅・本八戸：種差海岸の秋絶景＆館鼻岸壁朝市・せんべい汁！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+            </p>
+          </div>
+
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th>
+                  <th className="p-3">所在地</th>
+                  <th className="p-3">最寄り駅・交通</th>
+                  <th className="p-3">駐車場情報</th>
+                  <th className="p-3">楽天評価</th>
+                  <th className="p-3">最安目安</th>
+                  <th className="p-3">予約・詳細</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. ホテルルートイン　本八戸駅前</td>
+                <td className="p-3 text-stone-600">青森県八戸市内丸1-51-16</td>
+                <td className="p-3 text-stone-600">本八戸駅周辺</td>
+                <td className="p-3 text-stone-600">有　６９台　料金無料　先着順。　２トン車以上の車、バス、２輪車、特殊車両は事前予約必要。</td>
+                <td className="p-3 font-bold text-amber-600">★4.16（830件）</td>
+                <td className="p-3 font-bold text-rose-600">¥6,750〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29897%2F29897.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. ホテルリブマックス本八戸駅前</td>
+                <td className="p-3 text-stone-600">青森県八戸市城下1丁目8-9</td>
+                <td className="p-3 text-stone-600">本八戸駅周辺</td>
+                <td className="p-3 text-stone-600">提携の駐車場はございません。 ホテル近隣のコインパーキングをご利用ください。</td>
+                <td className="p-3 font-bold text-amber-600">★4.04（116件）</td>
+                <td className="p-3 font-bold text-rose-600">¥2,550〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F193298%2F193298.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. 八戸プラザホテル</td>
+                <td className="p-3 text-stone-600">青森県八戸市柏崎1-6-6</td>
+                <td className="p-3 text-stone-600">八戸駅周辺</td>
+                <td className="p-3 text-stone-600">無料駐車場完備　（大型トラック・工事車両・バス駐車可能）</td>
+                <td className="p-3 font-bold text-amber-600">★3.76（809件）</td>
+                <td className="p-3 font-bold text-rose-600">¥2,800〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13464%2F13464.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">4. ホテルパールシティ八戸</td>
+                <td className="p-3 text-stone-600">青森県八戸市城下2-2-22</td>
+                <td className="p-3 text-stone-600">本八戸駅周辺</td>
+                <td className="p-3 text-stone-600">有り　30台　１泊330円（税込）　先着順となります</td>
+                <td className="p-3 font-bold text-amber-600">★3.82（622件）</td>
+                <td className="p-3 font-bold text-rose-600">¥3,700〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F70245%2F70245.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">5. ホテルセレクトイン八戸中央</td>
+                <td className="p-3 text-stone-600">青森県八戸市十一日町52</td>
+                <td className="p-3 text-stone-600">本八戸駅周辺</td>
+                <td className="p-3 text-stone-600">有り(先着順、出入れ不可）35台無料　満車時は八日町中央パーキングも無料（翌朝10時半迄）</td>
+                <td className="p-3 font-bold text-amber-600">★3.82（1897件）</td>
+                <td className="p-3 font-bold text-rose-600">¥2,450〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9626%2F9626.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div className="space-y-4">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
+              🏨 各宿の宿泊者リアルクチコミ・客室イメージ・項目別評価データ
+            </h3>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #1</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ホテルルートイン　本八戸駅前</h3>
+                  <span className="text-xs text-stone-400 ml-2">（るーといん　もとはちのへえきまえ）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥6,750〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29897/29897_h.jpg" alt="ホテルルートイン　本八戸駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>ＪＲ八戸線本八戸駅から徒歩1分。新鮮な魚介類が美味しい飲食店繁華街までは徒歩10分の距離です。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 青森県八戸市内丸1-51-16 ／ 最寄り駅：本八戸 ／ 交通案内：東北新幹線八戸駅経由　JR八戸線本八戸駅下車徒歩１分／八戸自動車道八戸ＩＣより車で１５分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有　６９台　料金無料　先着順。　２トン車以上の車、バス、２輪車、特殊車両は事前予約必要。</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.19 ／ 立地 ★4.15 ／ 部屋 ★4.05 ／ 設備 ★4.04 ／ 風呂 ★4.09 ／ 食事 ★4.09</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とても快適で過ごしやすかったたいへん過ごしやすかったですクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/29897?…　2026-10-07 16:33:27投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #2</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ホテルリブマックス本八戸駅前</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ほてるりぶまっくすあおもりはちのへえきまえ）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥2,550〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/193298/193298.jpg" alt="ホテルリブマックス本八戸駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>駅近で便利！ 本八戸駅ホームより徒歩1分</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 青森県八戸市城下1丁目8-9 ／ 最寄り駅：本八戸 ／ 交通案内：JR八戸線「本八戸駅」北口徒歩1分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>提携の駐車場はございません。 ホテル近隣のコインパーキングをご利用ください。</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4 ／ 立地 ★3.94 ／ 部屋 ★3.96 ／ 設備 ★4.04 ／ 風呂 ★4.16</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コスパ重視の旅に最適、大浴場とサウナが快適急遽思い立った旅行で利用しました。この系列はどこも壁が薄く、慣れない人には不満があるかもですが、知っていて泊まる分にはコスパ良く、利用しやすい宿だと思いま…　2026-09-30 10:12:01投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=193298&quot; class=&quot;3click&quot;」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #3</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">八戸プラザホテル</h3>
+                  <span className="text-xs text-stone-400 ml-2">（はちのへぷらざほてる）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥2,800〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13464/13464_room.jpg" alt="八戸プラザホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>■本八戸駅徒歩７分　■大型無料駐車場完備！　モーニングコーヒー無料！</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 青森県八戸市柏崎1-6-6 ／ 最寄り駅：八戸 ／ 交通案内：八戸駅より車で約１５分。本八戸駅より徒歩7分。三沢空港よりお車で約４０分。</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>無料駐車場完備　（大型トラック・工事車両・バス駐車可能）</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.89 ／ 立地 ★3.75 ／ 部屋 ★3.69 ／ 設備 ★3.62 ／ 風呂 ★3.54 ／ 食事 ★3.73</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ユニットバスの匂いが気になるがコーヒーは美味ユニットバスの酸っぱいような匂いが気になりました。ルームサービスのカップ用ドリップコーヒーはおいしかったです。クチコミの詳細はこちらから　h…　2026-10-01 02:54:28投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #4</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ホテルパールシティ八戸</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ぱーるしてぃはちのへ）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,700〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/70245/70245_kya.jpg" alt="ホテルパールシティ八戸 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>本八戸駅からすぐ。国道４５号線からもアクセス便利！</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 青森県八戸市城下2-2-22 ／ 最寄り駅：本八戸 ／ 交通案内：ＪＲ八戸線本八戸駅北口より徒歩5分。ＪＲ八戸新幹線八戸駅より車２０分。三沢空港より車４０分。フェリー埠頭より車２０分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　30台　１泊330円（税込）　先着順となります</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.9 ／ 立地 ★3.77 ／ 部屋 ★3.79 ／ 設備 ★3.69 ／ 風呂 ★3.67 ／ 食事 ★3.61</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「グラスの貸し出し対応が迅速で助かった部屋にグラスが常備されていればもっとよかった。缶ビールやお酒の氷割を飲むときに便利。しかしフロントに言ったら一つ用意してくれた。美味しく部屋で飲めました。ク…　2026-09-24 21:02:05投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #5</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ホテルセレクトイン八戸中央</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ほてるせれくといんはちのへちゅうおう）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥2,450〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9626/9626_room.jpg" alt="ホテルセレクトイン八戸中央 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>駐車場無料　地下駐輪場でバイクも安心　カレー、ご当地パン、コーヒーと味噌汁・お茶のサービスもご用意！</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 青森県八戸市十一日町52 ／ 最寄り駅：本八戸 ／ 交通案内：八戸自動車道「八戸ＩＣ」より車で１５分　最寄り「本八戸駅」より徒歩15分　東北新幹線「JR八戸駅」より車で14分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り(先着順、出入れ不可）35台無料　満車時は八日町中央パーキングも無料（翌朝10時半迄）</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.91 ／ 立地 ★3.82 ／ 部屋 ★3.72 ／ 設備 ★3.68 ／ 風呂 ★3.71 ／ 食事 ★3.42</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの対応が良く、ロケーションも最高フロント対応が良く、ロケーションも良いクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/v…　2026-10-08 04:14:17投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="space-y-4 pt-6 border-t border-stone-200">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
+              🗺️ あわせて巡りたい！青森県の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+            </h3>
+            <p className="text-xs text-stone-600 leading-relaxed">
+              宿泊前後の1泊2日・2泊3日モデルコースに組み込みたい、青森県を代表する名所・絶景スポットの解説です。チェックイン前後の荷物預かりや駅周辺のレンタカー・周遊バスを活用すると効率よく巡ることができます。
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
+                <h3 className="text-base font-bold text-stone-900">弘前公園（弘前城）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">日本屈指の桜の名所として知られる城郭公園。春には約2,600本の桜が咲き誇り、お堀を埋め尽くす「花いかだ」の幻想的な景色は世界中から絶賛されています。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Oirase-keiryu.jpg/1280px-Oirase-keiryu.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="奥入瀬渓流" className="w-full h-full object-cover" loading="lazy" /></div>
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
+                <h3 className="text-base font-bold text-stone-900">奥入瀬渓流</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">十和田湖から流れる約14kmの美しい清流。豊かな樹木と苔むした岩々、無数の滝が織りなすせせらぎに沿って遊歩道が整備されており、極上のネイチャーウォークを楽しめます。 奥入瀬渓流（おいらせけいりゅう）は、青森県十和田市の十和田湖東岸の子ノ口（ねのくち）から北東に、焼山（十和田市法量（大字）焼山（字））までの約14 kmにわたる奥入瀬川の渓流。十和田八幡平国立公園に属する。国指定の特別名勝及び天然記念物（天然保護区域）。…</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
+                <h3 className="text-base font-bold text-stone-900">ねぶたの家 ワ・ラッセ</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">青森夏の風物詩「青森ねぶた祭」の歴史と魅力を一年中体感できる大型展示施設。実際に祭りで運行された大型ねぶたの迫力を間近で鑑賞できます。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
+                <h3 className="text-base font-bold text-stone-900">仏ヶ浦（ほとけがうら）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">下北半島にある、白緑色の奇岩群が約2kmにわたって続く国の名勝。巨大な如来や観音に見立てられた壮大な自然の彫刻と、澄み渡る陸奥湾の青さが圧巻です。</p>
+              </div>
+            </div>
+            </div>
+          </div>
+
+          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-3 text-xs text-stone-700 leading-relaxed">
+            <h3 className="text-sm md:text-base font-bold text-amber-950">
+              💡 青森県エリアの宿泊予約・シーズン別ベストタイミングと節約ノウハウ
+            </h3>
+            <p>
+              <strong>1. 早期予約と楽天トラベルクーポンの併用：</strong> 青森県の人気温泉宿・リゾートホテルは、週末や連休・紅葉・年末年始の60日〜30日前から一気に予約が埋まります。毎月5と0のつく日やスーパーSALE期間中に配布される宿クーポン・自治体クーポンを併用すると、通常より最大10〜20%お得に予約可能です。
+            </p>
+            <p>
+              <strong>2. 夕食・朝食プランと部屋タイプの選び方：</strong> 地元産の旬魚介やブランド牛会席を味わうなら「夕朝食付きプラン」、周辺の屋台・老舗居酒屋・ご当地グルメを食べ歩くなら「朝食付き」または「素泊まり＋天然温泉大浴場付きホテル」を選ぶと予算と満足度のバランスが最適化されます。
+            </p>
+          </div>
+        </section>
+
+      </main>
   );
 }

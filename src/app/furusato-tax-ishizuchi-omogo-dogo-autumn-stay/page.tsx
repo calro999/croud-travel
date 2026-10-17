@@ -63,7 +63,7 @@ const HOTEL_DATA = {
     reviews: 2025,
     special: '★文人ゆかりの宿・道後一の老舗★　日本庭園には、自然の川が流れ四季折々の風情がお楽しみいただけます。',
     address: '愛媛県松山市道後湯之町1-33',
-    access: '道後温泉駅から徒歩3分 松山ＩＣより車��25分 ＪＲ松山駅前から市内電車で30分 空港からリムジンバスで35分'
+    access: '道後温泉駅から徒歩3分 松山ＩＣより車で25分 ＪＲ松山駅前から市内電車で30分 空港からリムジンバスで35分'
   }
 };
 
@@ -417,11 +417,6 @@ export default function FeatureArticlePage() {
           </div>
         </aside>
       </div>
-    
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -504,7 +499,22 @@ export default function FeatureArticlePage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/winter-gunma-oigami-onsen-fukiware-joshugyu-soba-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">老神温泉で過ごす冬の旅（11・12月）！赤城山北麓！名宿5選</span>
+            </a>
+            <a href="/furusato-tax-minakami-tanigawa-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">谷川岳の紅葉ロープウェイとみなかみ十八湯！利根川源流の渓谷美と上州牛・舞茸を味わう秋の群馬旅</span>
+            </a>
+            <a href="/gunma-ikaho-stairs-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">群馬・伊香保温泉：365段の石段街・黄金の湯＆水沢うどん極上宿 厳選ガイド</span>
+            </a>
+            <a href="/gunma-shima-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">四万温泉ひとり旅・四万ブルーおこもり：四万川清流露天・四万の病を癒す霊泉・上州牛会席！大自然に抱かれる奥群馬の秘湯厳選3宿</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

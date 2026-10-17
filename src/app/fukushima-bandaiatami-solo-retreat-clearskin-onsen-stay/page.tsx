@@ -150,7 +150,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="border-t border-stone-100 pt-4 flex flex-wrap items-center justify-between gap-3">
-              <span className="text-xs text-stone-500">アクセス：磐越自動車道　磐梯熱海ＩＣより7分　ＪＲ磐越西線　磐梯��海駅より車で５分</span>
+              <span className="text-xs text-stone-500">アクセス：磐越自動車道　磐梯熱海ＩＣより7分　ＪＲ磐越西線　磐梯熱海駅より車で５分</span>
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5844%2F5844.html"
                 target="_blank"
@@ -343,11 +343,6 @@ export default function ArticlePage() {
             一番人気の宿をチェックする（楽天トラベル）
           </a>
         </div>
-      
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -362,7 +357,7 @@ export default function ArticlePage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">14:00〜</strong> 磐越自動車道 磐梯熱海ＩＣより7分 ＪＲ磐越西線 磐梯��海駅より車で５分で現地へ到着。</li>
+                <li>・<strong className="text-stone-800">14:00〜</strong> 磐越自動車道 磐梯熱海ＩＣより7分 ＪＲ磐越西線 磐梯熱海駅より車で５分で現地へ到着。</li>
                 <li>・<strong className="text-stone-800">15:30〜</strong> 「磐梯熱海温泉 湯のやど楽山」にチェックイン。全20室のちいさなお宿～ふくしま恵みを活かした「かまど料理」と、肌に優しい「極上の温泉」を堪能などの宿の特徴に期待を高めつつ客室へ。</li>
                 <li>・<strong className="text-stone-800">17:00〜</strong> 「磐梯熱海温泉 湯のやど楽山」の湯処へ。全20室のちいさなお宿～ふくしま恵みを活かした「かまど料理」と、肌に優とともに、夕暮れの特別な寛ぎを満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「磐梯熱海温泉 湯のやど楽山」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
@@ -394,7 +389,22 @@ export default function ArticlePage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/winter-fukushima-aizu-ashinomaki-higashiyama-luxury-ookawaso-mukaitaki-snow-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">winter-fukushima-aizu-ashinomaki-higashiyama-luxury-ookawaso-mukaitaki-snow-stay</span>
+            </a>
+            <a href="/winter-fukushima-dake-onsen-adatara-milky-bath-fukushimagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">岳温泉で過ごす冬の旅（11・12月）！安達太良山初冬の雪景色と奇跡！名宿5選</span>
+            </a>
+            <a href="/autumn-budget-fukushima-bandai-azuma-momiji-gyoza-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">福島：磐梯吾妻スカイラインの絶景紅葉と円盤餃子！格安ホテル5選</span>
+            </a>
+            <a href="/fukushima-iwaki-yumoto-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">いわき湯本温泉ひとり旅・三函の名湯おこもり：日本三古湯・毎分5トン自噴硫黄泉・常磐もの海鮮！フラガール温泉郷厳選3宿</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
@@ -424,6 +434,194 @@ export default function ArticlePage() {
                 広島県の宿・温泉
               </Link>
             </div>
+          </div>
+        </section>
+
+      
+        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
+          <div className="space-y-2 border-b border-stone-200 pb-4">
+            <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
+              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+            </span>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
+              📊 会津郡山・磐梯熱海温泉ひとり旅・萩姫伝説の美肌湯おこもり：pH9超とろとろアルカリ泉・地酒王国ふくしま・清流五百川！郡山新幹線20分の隠れ里厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+            </h2>
+            <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+              楽天トラベル公式APIより取得した「会津郡山・磐梯熱海温泉ひとり旅・萩姫伝説の美肌湯おこもり：pH9超とろとろアルカリ泉・地酒王国ふくしま・清流五百川！郡山新幹線20分の隠れ里厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+            </p>
+          </div>
+
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th>
+                  <th className="p-3">所在地</th>
+                  <th className="p-3">最寄り駅・交通</th>
+                  <th className="p-3">駐車場情報</th>
+                  <th className="p-3">楽天評価</th>
+                  <th className="p-3">最安目安</th>
+                  <th className="p-3">予約・詳細</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. 磐梯熱海温泉　湯のやど楽山</td>
+                <td className="p-3 text-stone-600">福島県郡山市熱海町熱海5-39</td>
+                <td className="p-3 text-stone-600">磐梯熱海駅周辺</td>
+                <td className="p-3 text-stone-600">駐車場は、隣接するホテル華の湯の駐車場をご利用ください『無料』</td>
+                <td className="p-3 font-bold text-amber-600">★4.52（747件）</td>
+                <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5844%2F5844.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. 磐梯熱海温泉　ホテル華の湯</td>
+                <td className="p-3 text-stone-600">福島県郡山市熱海町熱海5丁目 8-60</td>
+                <td className="p-3 text-stone-600">磐梯熱海駅周辺</td>
+                <td className="p-3 text-stone-600">有り　400台　無料　先着順</td>
+                <td className="p-3 font-bold text-amber-600">★4.42（3338件）</td>
+                <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15988%2F15988.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. 磐梯熱海温泉　紅葉館きらくや</td>
+                <td className="p-3 text-stone-600">福島県郡山市熱海町熱海4-39</td>
+                <td className="p-3 text-stone-600">磐梯熱海駅周辺</td>
+                <td className="p-3 text-stone-600">有り　４０台　無料</td>
+                <td className="p-3 font-bold text-amber-600">★4.18（957件）</td>
+                <td className="p-3 font-bold text-rose-600">¥7,550〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2094%2F2094.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div className="space-y-4">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
+              🏨 各宿の宿泊者リアルクチコミ・客室イメージ・項目別評価データ
+            </h3>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #1</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">磐梯熱海温泉　湯のやど楽山</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ばんだいあたみおんせん　ゆのやど　らくざん）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥11,000〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5844/5844_kan.jpg" alt="磐梯熱海温泉　湯のやど楽山 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>全20室のちいさなお宿〜ふくしま恵みを活かした「かまど料理」と、肌に優しい「極上の温泉」を堪能</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 福島県郡山市熱海町熱海5-39 ／ 最寄り駅：磐梯熱海 ／ 交通案内：磐越自動車道　磐梯熱海ＩＣより7分　ＪＲ磐越西線　磐梯熱海駅より車で５分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>駐車場は、隣接するホテル華の湯の駐車場をご利用ください『無料』</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.59 ／ 立地 ★4.29 ／ 部屋 ★4.41 ／ 設備 ★4.4 ／ 風呂 ★4.53 ／ 食事 ★4.62</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイクを屋根下に停められ、食事と温泉に大満足バイクツーリングで利用させて頂きました。到着時は雨が降っていたのですがバイクも屋根下の安全な場所に停めさせてもらえました。食事も美味しく、温泉も…　2026-10-06 17:23:40投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #2</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">磐梯熱海温泉　ホテル華の湯</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ばんだいあたみおんせん　ほてる　はなのゆ）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥9,900〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15988/15988_kan.jpg" alt="磐梯熱海温泉　ホテル華の湯 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>ファミリーに人気のビュッフェダイニングや、露天風呂付客室でゆったり贅沢な大人旅を！</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 福島県郡山市熱海町熱海5丁目 8-60 ／ 最寄り駅：磐梯熱海 ／ 交通案内：磐越自動車道磐梯熱海ＩＣより車で8分、磐越西線磐梯熱海駅より送迎可能です。（要連絡）</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　400台　無料　先着順</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの接客が良く、清潔感があり大満足フロントの接客もすごく良かったです!ホテルも、立派で清潔感があり、大変満足しました。又、泊まりに行きます!クチコミの詳細はこちらから　https:/…　2026-09-05 21:57:15投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #3</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">磐梯熱海温泉　紅葉館きらくや</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ばんだいあたみおんせん　こうようかん　きらくや）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥7,550〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2094/2094_sgl.jpg" alt="磐梯熱海温泉　紅葉館きらくや 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>露天風呂、貸切風呂、マイナスイオンのぬる湯、と温泉三昧。無料貸切風呂が大人気。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 福島県郡山市熱海町熱海4-39 ／ 最寄り駅：磐梯熱海 ／ 交通案内：●磐梯熱海駅下車、徒歩２分。●磐越自動車道磐梯熱海ICから３Km</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.12 ／ 部屋 ★4.04 ／ 設備 ★3.96 ／ 風呂 ★4.42 ／ 食事 ★4.03</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「周辺に飲食店がなく郡山まで移動、お風呂は満足近隣に食事ができるところが見当たらず(宿でそれなりになら可能)電車で郡山まで出かけました。お風呂は良かったです。クチコミの詳細はこちらから　ht…　2026-10-06 19:06:50投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="space-y-4 pt-6 border-t border-stone-200">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
+              🗺️ あわせて巡りたい！福島県の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+            </h3>
+            <p className="text-xs text-stone-600 leading-relaxed">
+              宿泊前後の1泊2日・2泊3日モデルコースに組み込みたい、福島県を代表する名所・絶景スポットの解説です。チェックイン前後の荷物預かりや駅周辺のレンタカー・周遊バスを活用すると効率よく巡ることができます。
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
+                <h3 className="text-base font-bold text-stone-900">大内宿</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">江戸時代の宿場町の面影をそのまま残す国の重要伝統的建造物群保存地区。茅葺き屋根の民家が街道沿いに並び、名物の「高遠そば（一本ねぎそば）」を味わえます。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
+                <h3 className="text-base font-bold text-stone-900">鶴ヶ城（会津若松城）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">戊辰戦争の激戦に耐え抜いた難攻不落の名城。赤瓦を纏った天守閣は日本唯一であり、内部の歴史資料館や最上階からの城下町一望が見どころです。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
+                <h3 className="text-base font-bold text-stone-900">五色沼湖沼群（裏磐梯）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">磐梯山の噴火によって形成された無数の神秘的な沼群。水に含まれる鉱物や気象条件により、エメラルドグリーンやコバルトブルーに色彩が変わるハイキングコースです。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
+                <h3 className="text-base font-bold text-stone-900">猪苗代湖</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">「天鏡湖」とも称される日本第4位の面積を誇る美しい湖。雄大な磐梯山を水面に映し出し、冬には飛来するハクチョウやしぶき氷の絶景が見られます。</p>
+              </div>
+            </div>
+            </div>
+          </div>
+
+          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-3 text-xs text-stone-700 leading-relaxed">
+            <h3 className="text-sm md:text-base font-bold text-amber-950">
+              💡 福島県エリアの宿泊予約・シーズン別ベストタイミングと節約ノウハウ
+            </h3>
+            <p>
+              <strong>1. 早期予約と楽天トラベルクーポンの併用：</strong> 福島県の人気温泉宿・リゾートホテルは、週末や連休・紅葉・年末年始の60日〜30日前から一気に予約が埋まります。毎月5と0のつく日やスーパーSALE期間中に配布される宿クーポン・自治体クーポンを併用すると、通常より最大10〜20%お得に予約可能です。
+            </p>
+            <p>
+              <strong>2. 夕食・朝食プランと部屋タイプの選び方：</strong> 地元産の旬魚介やブランド牛会席を味わうなら「夕朝食付きプラン」、周辺の屋台・老舗居酒屋・ご当地グルメを食べ歩くなら「朝食付き」または「素泊まり＋天然温泉大浴場付きホテル」を選ぶと予算と満足度のバランスが最適化されます。
+            </p>
           </div>
         </section>
 

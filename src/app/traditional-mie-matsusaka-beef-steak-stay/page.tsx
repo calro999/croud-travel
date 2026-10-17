@@ -67,7 +67,7 @@ const hotels: any[] = [
     "access": "近畿日本鉄道大阪線「榊原温泉口駅」より車で約10分 送迎あり／伊勢自動車道ICより車で約15分",
     "parkingInformation": "有り　５０台　無料　先着順",
     "nearestStation": "榊原温泉口",
-    "hotelSpecial": "枕草子にも 【三大名泉】 と謳われた、湯治にも最適の湯宿。温��自慢！ 堂々の【クチコミ★4.0以上】",
+    "hotelSpecial": "枕草子にも 【三大名泉】 と謳われた、湯治にも最適の湯宿。温泉自慢！ 堂々の【クチコミ★4.0以上】",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F37898%2F37898.html"
   },
   {
@@ -89,7 +89,7 @@ const hotels: any[] = [
     "address1": "兵庫県",
     "address2": "姫路市夢前町塩田287",
     "telephoneNo": "020",
-    "access": "ＪＲ姫路→神姫バス塩田温泉～前之庄３５分　中国道福崎ＩＣ２０分　山陽道姫路西ＩＣ���５分  中国道夢前スマートＩＣ５分",
+    "access": "ＪＲ姫路→神姫バス塩田温泉～前之庄３５分　中国道福崎ＩＣ２０分　山陽道姫路西ＩＣ２５分  中国道夢前スマートＩＣ５分",
     "parkingInformation": "有り　50台",
     "nearestStation": "姫路",
     "hotelSpecial": "平成13年7月　心と身体の休まる宿として改装オープン",
@@ -335,7 +335,7 @@ export default function FeatureDetailPage() {
                       <span className="text-xs font-bold text-emerald-600 bg-emerald-50 px-2 py-0.5 rounded border border-emerald-100">楽天高評価</span>
                     </div>
                     <ul className="space-y-1 mb-4 text-xs text-slate-600 bg-slate-50 p-3 rounded-lg">
-                      <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>枕草子にも 【三大名泉】 と謳われた、湯治にも最適の湯宿。温��自慢！ 堂々の【クチコミ★4.0以上】…</span></li>
+                      <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>枕草子にも 【三大名泉】 と謳われた、湯治にも最適の湯宿。温泉自慢！ 堂々の【クチコミ★4.0以上】…</span></li>
                       <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>アクセス: 近畿日本鉄道大阪線「榊原温泉口駅」より車で約10分 送迎あり／伊勢自動車道ICより車で約15分</span></li>
                       <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>楽天トラベル総合評価: ★3.97（レビュー 769件）</span></li>
                     </ul>
@@ -395,7 +395,7 @@ export default function FeatureDetailPage() {
                     </div>
                     <ul className="space-y-1 mb-4 text-xs text-slate-600 bg-slate-50 p-3 rounded-lg">
                       <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>平成13年7月　心と身体の休まる宿として改装オープン…</span></li>
-                      <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>アクセス: ＪＲ姫路→神姫バス塩田温泉～前之庄３５分　中国道福崎ＩＣ２０分　山陽道姫路西ＩＣ���５分  中国道夢前スマートＩＣ５分</span></li>
+                      <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>アクセス: ＪＲ姫路→神姫バス塩田温泉～前之庄３５分　中国道福崎ＩＣ２０分　山陽道姫路西ＩＣ２５分  中国道夢前スマートＩＣ５分</span></li>
                       <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>楽天トラベル総合評価: ★4.50（レビュー 215件）</span></li>
                     </ul>
                   </div>
@@ -563,11 +563,6 @@ export default function FeatureDetailPage() {
             <ChevronRight className="w-5 h-5" />
           </Link>
         </div>
-      
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -650,7 +645,22 @@ export default function FeatureDetailPage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/winter-fukushima-iwaki-yumoto-onsen-ankou-jobanmono-fukushimagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">いわき湯本温泉で過ごす冬の旅（11・12月）！冬の味覚常磐もの寒アンコウ濃！名宿5選</span>
+            </a>
+            <a href="/fukushima-aizu-ashinomaki-ouchijuku-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">福島・会津若松＆芦ノ牧温泉：鶴ヶ城・大内宿ねぎそば＆渓谷露天・ねこ駅長宿 厳選ガイド</span>
+            </a>
+            <a href="/furusato-tax-aizu-urabandai-goshikinuma-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">福島・裏磐梯五色沼の錦秋紅葉＆桧原湖！磐梯山ジオパーク美肌温泉と会津郷土美食</span>
+            </a>
+            <a href="/nagano-kiso-fukushima-nezamenotoko-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">長野・木曽福島＆寝覚の床・御嶽山：中山道関所宿場町・木曽そば＆五平餅宿 厳選ガイド</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
@@ -680,6 +690,256 @@ export default function FeatureDetailPage() {
                 福島県の宿・温泉
               </Link>
             </div>
+          </div>
+        </section>
+
+      
+        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
+          <div className="space-y-2 border-b border-stone-200 pb-4">
+            <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
+              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+            </span>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
+              📊 2026年：肉の芸術品・特選松阪牛！炭火ステーキ・すき焼き会席＆伊勢志摩・鳥羽の極上宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+            </h2>
+            <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+              楽天トラベル公式APIより取得した「2026年：肉の芸術品・特選松阪牛！炭火ステーキ・すき焼き会席＆伊勢志摩・鳥羽の極上宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+            </p>
+          </div>
+
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th>
+                  <th className="p-3">所在地</th>
+                  <th className="p-3">最寄り駅・交通</th>
+                  <th className="p-3">駐車場情報</th>
+                  <th className="p-3">楽天評価</th>
+                  <th className="p-3">最安目安</th>
+                  <th className="p-3">予約・詳細</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. 湯の山温泉　旅館寿亭</td>
+                <td className="p-3 text-stone-600">三重県三重郡菰野町菰野8585</td>
+                <td className="p-3 text-stone-600">湯の山温泉駅周辺</td>
+                <td className="p-3 text-stone-600">有４０台無料　係員が駐車場までご案内します　Google map「寿亭専用駐車場」と検索してください</td>
+                <td className="p-3 font-bold text-amber-600">★4.61（1463件）</td>
+                <td className="p-3 font-bold text-rose-600">¥13,750〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F12599%2F12599.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. 榊原温泉　旅館　清少納言</td>
+                <td className="p-3 text-stone-600">三重県津市榊原町6010</td>
+                <td className="p-3 text-stone-600">榊原温泉口駅周辺</td>
+                <td className="p-3 text-stone-600">有り　５０台　無料　先着順</td>
+                <td className="p-3 font-bold text-amber-600">★3.95（782件）</td>
+                <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F37898%2F37898.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. 塩田温泉旅館　湯元　うえやま</td>
+                <td className="p-3 text-stone-600">兵庫県姫路市夢前町塩田287</td>
+                <td className="p-3 text-stone-600">姫路駅周辺</td>
+                <td className="p-3 text-stone-600">有り　50台</td>
+                <td className="p-3 font-bold text-amber-600">★4.49（218件）</td>
+                <td className="p-3 font-bold text-rose-600">¥15,950〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15042%2F15042.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">4. あわら温泉　伝統旅館のぬくもり　灰屋</td>
+                <td className="p-3 text-stone-600">福井県あわら市温泉2-205</td>
+                <td className="p-3 text-stone-600">芦原温泉駅周辺</td>
+                <td className="p-3 text-stone-600">有り　１００台　無料 （エントランスにはスロープもございます。係がご案内いたします。）</td>
+                <td className="p-3 font-bold text-amber-600">★4.42（756件）</td>
+                <td className="p-3 font-bold text-rose-600">¥15,950〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5677%2F5677.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">5. 風待ちの湯福寿荘　伊勢志摩の温泉旅館＜渡鹿野島＞</td>
+                <td className="p-3 text-stone-600">三重県志摩市磯部町渡鹿野517</td>
+                <td className="p-3 text-stone-600">鵜方駅周辺</td>
+                <td className="p-3 text-stone-600">有り　１００台　無料</td>
+                <td className="p-3 font-bold text-amber-600">★4.28（827件）</td>
+                <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15941%2F15941.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div className="space-y-4">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
+              🏨 各宿の宿泊者リアルクチコミ・客室イメージ・項目別評価データ
+            </h3>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #1</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">湯の山温泉　旅館寿亭</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ゆのやまおんせん　りょかんことぶきてい）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥13,750〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/12599/12599_war.jpg" alt="湯の山温泉　旅館寿亭 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>選べる6つの貸切風呂と部屋食で味わう三重の旬。大切な人と気兼ねなく過ごす湯の山温泉の老舗旅館</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 三重県三重郡菰野町菰野8585 ／ 最寄り駅：湯の山温泉 ／ 交通案内：【車】新名神：菰野ＩＣ（※ＥＴＣ専用）約１０分　東名阪：四日市ＩＣ約２５分【電車】湯の山温泉駅から無料送迎（約１０分）</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有４０台無料　係員が駐車場までご案内します　Google map「寿亭専用駐車場」と検索してください</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.69 ／ 立地 ★4.44 ／ 部屋 ★4.44 ／ 設備 ★4.31 ／ 風呂 ★4.51 ／ 食事 ★4.65</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「趣のある空間と美味しい食事でゆったりと旅館自体は古いですが趣のある感じで寛げました。お食事も美味しかったですし器も素敵でした貸切風呂は綺麗でのんびり過ごせました。クチコミの詳細はこちら…　2026-10-09 19:48:00投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #2</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">榊原温泉　旅館　清少納言</h3>
+                  <span className="text-xs text-stone-400 ml-2">（さかきばらおんせん　りょかん　せいしょうなごん）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥8,250〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/37898/37898_room.jpg" alt="榊原温泉　旅館　清少納言 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>枕草子にも 【三大名泉】 と謳われた、湯治にも最適の湯宿。温泉自慢！ 堂々の【クチコミ★4.0以上】</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 三重県津市榊原町6010 ／ 最寄り駅：榊原温泉口 ／ 交通案内：近畿日本鉄道大阪線「榊原温泉口駅」より車で約10分 送迎あり／伊勢自動車道ICより車で約15分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.93 ／ 立地 ★3.79 ／ 部屋 ★3.85 ／ 設備 ★3.61 ／ 風呂 ★4.26 ／ 食事 ★4.09</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「古さを感じさせない管理と温泉に満足古い施設と判断していたが古くてもきれいに管理され Goodに評価できました。温泉はうわさ通りで 良いお湯でした。      肌ざわり良くきれいで湯温も…　2026-10-07 19:31:51投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #3</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">塩田温泉旅館　湯元　うえやま</h3>
+                  <span className="text-xs text-stone-400 ml-2">（しおたおんせんりょかん　ゆもと　うえやま）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥15,950〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15042/15042_w.jpg" alt="塩田温泉旅館　湯元　うえやま 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>平成13年7月　心と身体の休まる宿として改装オープン</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県姫路市夢前町塩田287 ／ 最寄り駅：姫路 ／ 交通案内：ＪＲ姫路→神姫バス塩田温泉〜前之庄３５分　中国道福崎ＩＣ２０分　山陽道姫路西ＩＣ２５分  中国道夢前スマートＩＣ５分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　50台</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★4.37 ／ 部屋 ★4.33 ／ 設備 ★4.28 ／ 風呂 ★4.51 ／ 食事 ★4.67</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの大浴場と美味しいお粥大浴場の源泉掛け流しが良かったです。お粥は苦手なのですが、美味しくいただけました。クチコミの詳細はこちらから　https://review.travel.…　2026-09-20 17:13:13投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #4</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">あわら温泉　伝統旅館のぬくもり　灰屋</h3>
+                  <span className="text-xs text-stone-400 ml-2">（あわらおんせん　はいや）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥15,950〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5677/5677_heya1.jpg" alt="あわら温泉　伝統旅館のぬくもり　灰屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>【ガーデンサウナOPEN】明治１７年創業当時の趣を残す伝統旅館。奥深いおもてなしを提供いたします</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 福井県あわら市温泉2-205 ／ 最寄り駅：芦原温泉 ／ 交通案内：ＪＲ北陸本線芦原温泉駅から路線バスにて１５分/無料送迎あり。北陸道金津ＩＣより車で１５分。駐車場無料(係が案内します。)</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料 （エントランスにはスロープもございます。係がご案内いたします。）</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.16 ／ 部屋 ★4.3 ／ 設備 ★4.23 ／ 風呂 ★4.31 ／ 食事 ★4.5</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「NiceGood service.Onsen was great.Relaxing and comfortable!クチコミの詳細はこちらから　https://review.trave…　2026-10-05 14:14:13投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #5</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">風待ちの湯福寿荘　伊勢志摩の温泉旅館＜渡鹿野島＞</h3>
+                  <span className="text-xs text-stone-400 ml-2">（かぜまちのゆふくじゅそう　いせしまのおんせんりょかん）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥8,800〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15941/15941_bt1.jpg" alt="風待ちの湯福寿荘　伊勢志摩の温泉旅館＜渡鹿野島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>◆船で3分の温泉宿◆地下1,300メートルから湧く天然療養温泉と伊勢海老・松阪牛・旬の海の幸を満喫！</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 三重県志摩市磯部町渡鹿野517 ／ 最寄り駅：鵜方 ／ 交通案内：近鉄「鵜方駅」下車、送迎バス（予約制）１５分～船３分(有料）、伊勢自動車道　伊勢西ＩＣ～６０分～船３分(有料）</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.27 ／ 立地 ★4.33 ／ 部屋 ★4.28 ／ 設備 ★4.21 ／ 風呂 ★4.38 ／ 食事 ★4.4</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋からの景色と島への船旅が楽しい部屋からの景色もよく、島へ移動する時の船も3分くらいだが楽しめましたご飯も夕朝共にとても美味しく感動しましたクチコミの詳細はこちらから　https:/…　2026-10-08 18:17:57投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="space-y-4 pt-6 border-t border-stone-200">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
+              🗺️ あわせて巡りたい！福島県の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+            </h3>
+            <p className="text-xs text-stone-600 leading-relaxed">
+              宿泊前後の1泊2日・2泊3日モデルコースに組み込みたい、福島県を代表する名所・絶景スポットの解説です。チェックイン前後の荷物預かりや駅周辺のレンタカー・周遊バスを活用すると効率よく巡ることができます。
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
+                <h3 className="text-base font-bold text-stone-900">大内宿</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">江戸時代の宿場町の面影をそのまま残す国の重要伝統的建造物群保存地区。茅葺き屋根の民家が街道沿いに並び、名物の「高遠そば（一本ねぎそば）」を味わえます。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
+                <h3 className="text-base font-bold text-stone-900">鶴ヶ城（会津若松城）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">戊辰戦争の激戦に耐え抜いた難攻不落の名城。赤瓦を纏った天守閣は日本唯一であり、内部の歴史資料館や最上階からの城下町一望が見どころです。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
+                <h3 className="text-base font-bold text-stone-900">五色沼湖沼群（裏磐梯）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">磐梯山の噴火によって形成された無数の神秘的な沼群。水に含まれる鉱物や気象条件により、エメラルドグリーンやコバルトブルーに色彩が変わるハイキングコースです。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
+                <h3 className="text-base font-bold text-stone-900">猪苗代湖</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">「天鏡湖」とも称される日本第4位の面積を誇る美しい湖。雄大な磐梯山を水面に映し出し、冬には飛来するハクチョウやしぶき氷の絶景が見られます。</p>
+              </div>
+            </div>
+            </div>
+          </div>
+
+          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-3 text-xs text-stone-700 leading-relaxed">
+            <h3 className="text-sm md:text-base font-bold text-amber-950">
+              💡 福島県エリアの宿泊予約・シーズン別ベストタイミングと節約ノウハウ
+            </h3>
+            <p>
+              <strong>1. 早期予約と楽天トラベルクーポンの併用：</strong> 福島県の人気温泉宿・リゾートホテルは、週末や連休・紅葉・年末年始の60日〜30日前から一気に予約が埋まります。毎月5と0のつく日やスーパーSALE期間中に配布される宿クーポン・自治体クーポンを併用すると、通常より最大10〜20%お得に予約可能です。
+            </p>
+            <p>
+              <strong>2. 夕食・朝食プランと部屋タイプの選び方：</strong> 地元産の旬魚介やブランド牛会席を味わうなら「夕朝食付きプラン」、周辺の屋台・老舗居酒屋・ご当地グルメを食べ歩くなら「朝食付き」または「素泊まり＋天然温泉大浴場付きホテル」を選ぶと予算と満足度のバランスが最適化されます。
+            </p>
           </div>
         </section>
 

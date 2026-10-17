@@ -759,11 +759,6 @@ export default function FurusatoTaxPage() {
             </a>
           </div>
         </section>
-      
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -846,7 +841,22 @@ export default function FurusatoTaxPage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/furusato-tax-kawayu-akan-mashu-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">阿寒摩周の秋霧と屈斜路湖の紅葉！川湯温泉の強酸性硫黄泉・秋サケ・イクラ＆北海道和牛を味わう道東旅</span>
+            </a>
+            <a href="/hokkaido-family-trip-zoo-nature-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">子連れ北海道旅行 2泊3日モデルコース：旭山動物園＆美瑛富良野ドライブ！子供が喜ぶ体験型ホテルガイド</span>
+            </a>
+            <a href="/hokkaido-noboribetsu-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">登別温泉ひとり旅・地獄谷名湯おこもり：硫黄泉・食塩泉・白濁濁り湯！北海道一の巨大温泉郷で圧倒的湯巡りを満喫する厳選3宿</span>
+            </a>
+            <a href="/hokkaido-winter-shoes-clothing-mistakes-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">冬の北海道旅行 滑らない靴＆防寒着の失敗談：着膨れして室内で大汗！？氷道で転ばない完全防備マニュアル</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

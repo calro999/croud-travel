@@ -123,7 +123,7 @@ export default function ArticlePage() {
           <div className="p-6 sm:p-8">
             <div className="flex flex-wrap items-center gap-2 mb-2">
               <span className="bg-amber-800 text-white text-xs font-bold px-2.5 py-1 rounded">第1位</span>
-              <span className="text-xs text-stone-500 font-medium">群馬�� 高崎市東町3-5周辺</span>
+              <span className="text-xs text-stone-500 font-medium">群馬県 高崎市東町3-5周辺</span>
             </div>
             <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-2">
               ホテルココ・グラン高崎
@@ -160,7 +160,7 @@ export default function ArticlePage() {
             <div className="border-t border-stone-200 pt-4 mb-6">
               <dl className="grid grid-cols-1 sm:grid-cols-4 gap-y-2 text-xs sm:text-sm">
                 <dt className="text-stone-500 font-medium">所在地</dt>
-                <dd className="sm:col-span-3 text-stone-800">群馬��高崎市東町3-5</dd>
+                <dd className="sm:col-span-3 text-stone-800">群馬県 高崎市東町3-5</dd>
                 <dt className="text-stone-500 font-medium">アクセス</dt>
                 <dd className="sm:col-span-3 text-stone-800">高崎駅東口とデッキ直結徒歩３分（200ｍ）</dd>
               </dl>
@@ -374,11 +374,6 @@ export default function ArticlePage() {
           </a>
         </div>
       </section>
-    
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -425,7 +420,22 @@ export default function ArticlePage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/furusato-tax-hirosaki-castle-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">弘前城の天守と水鏡紅葉＆弘前城菊と紅葉まつり！津軽名湯ホテル×ふるさと納税厳選ガイド青森</span>
+            </a>
+            <a href="/traditional-aomori-nebuta-craft-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">2026年：勇壮なねぶたの熱気に包まれる！ねぶたアート空間＆青森ヒバ名湯と海鮮極上宿5選</span>
+            </a>
+            <a href="/winter-aomori-shimofuro-onsen-oma-maguro-ankou-tsugaru-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">下北半島下風呂温泉で過ごす冬の旅（11・12月）！津軽海峡冬景色と名物風間浦あ！名宿5選</span>
+            </a>
+            <a href="/aomori-solo-business-nokkedon-seafood-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">青森出張＆港町ひとり旅：青森駅近・のっけ丼・陸奥湾ホタテ・十和田牛！本州最北の拠点で整う極上ホテル 厳選3選</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

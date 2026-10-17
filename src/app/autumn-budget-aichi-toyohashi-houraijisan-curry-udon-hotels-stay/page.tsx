@@ -318,6 +318,256 @@ export default function AutumnBudgetToyohashiHotelsPage() {
           </div>
         </div>
       </section>
-    </main>
+    
+        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
+          <div className="space-y-2 border-b border-stone-200 pb-4">
+            <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
+              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+            </span>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
+              📊 豊橋：鳳来寺山・香嵐渓紅葉ドライブ拠点＆豊橋カレーうどん！2,000円台〜格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+            </h2>
+            <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+              楽天トラベル公式APIより取得した「豊橋：鳳来寺山・香嵐渓紅葉ドライブ拠点＆豊橋カレーうどん！2,000円台〜格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+            </p>
+          </div>
+
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th>
+                  <th className="p-3">所在地</th>
+                  <th className="p-3">最寄り駅・交通</th>
+                  <th className="p-3">駐車場情報</th>
+                  <th className="p-3">楽天評価</th>
+                  <th className="p-3">最安目安</th>
+                  <th className="p-3">予約・詳細</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. ＡＢホテル豊橋</td>
+                <td className="p-3 text-stone-600">愛知県豊橋市白河町85-1</td>
+                <td className="p-3 text-stone-600">豊橋駅周辺</td>
+                <td className="p-3 text-stone-600">提携駐車場：500円（1泊：15：00〜翌12：00）先着順・予約不可・出入別料金・台数制限有</td>
+                <td className="p-3 font-bold text-amber-600">★4.16（1848件）</td>
+                <td className="p-3 font-bold text-rose-600">¥2,400〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F149200%2F149200.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. 備長炭の湯　ホテルクラウンヒルズ豊橋（ＢＢＨホテルグループ）</td>
+                <td className="p-3 text-stone-600">愛知県豊橋市札木町66-1</td>
+                <td className="p-3 text-stone-600">豊橋駅周辺</td>
+                <td className="p-3 text-stone-600">先着順・予約不可の敷地外駐車場11台分有り。出庫後再確保は不可となります。提携コインPはありません</td>
+                <td className="p-3 font-bold text-amber-600">★4.08（510件）</td>
+                <td className="p-3 font-bold text-rose-600">¥3,700〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F178410%2F178410.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. ジャストインプレミアム豊橋駅新幹線口</td>
+                <td className="p-3 text-stone-600">愛知県豊橋市白河町31-2</td>
+                <td className="p-3 text-stone-600">豊橋駅周辺</td>
+                <td className="p-3 text-stone-600">提携のみ①グッドパーキング(15時〜翌11時1100円)②ダイワパーク(18時〜翌9時1000円)</td>
+                <td className="p-3 font-bold text-amber-600">★4.26（1846件）</td>
+                <td className="p-3 font-bold text-rose-600">¥4,300〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F168620%2F168620.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">4. 豊橋ビジネスホテル</td>
+                <td className="p-3 text-stone-600">愛知県豊橋市花園町12</td>
+                <td className="p-3 text-stone-600">豊橋駅周辺</td>
+                <td className="p-3 text-stone-600">隣接あお空駐車場有り　24台　普通車８００円　大型車１，６００〜３，２００円　最大12ｍまで</td>
+                <td className="p-3 font-bold text-amber-600">★4.17（523件）</td>
+                <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F109436%2F109436.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">5. ロワジールホテル豊橋</td>
+                <td className="p-3 text-stone-600">愛知県豊橋市藤沢町141</td>
+                <td className="p-3 text-stone-600">豊橋駅周辺</td>
+                <td className="p-3 text-stone-600">ホテル専用無料駐車場138台完備。　隣接施設共用駐車場も無料でご利用頂けます。</td>
+                <td className="p-3 font-bold text-amber-600">★4.41（2945件）</td>
+                <td className="p-3 font-bold text-rose-600">¥4,800〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7781%2F7781.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div className="space-y-4">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
+              🏨 各宿の宿泊者リアルクチコミ・客室イメージ・項目別評価データ
+            </h3>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #1</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ＡＢホテル豊橋</h3>
+                  <span className="text-xs text-stone-400 ml-2">（えーびーほてるとよはし）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥2,400〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/149200/149200_kan1.jpg" alt="ＡＢホテル豊橋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>和洋バイキング無料朝食・男女別大浴場・ネット接続無料</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 愛知県豊橋市白河町85-1 ／ 最寄り駅：豊橋 ／ 交通案内：ＪＲ・名鉄『豊橋駅』西口より徒歩3分。東名高速「豊川IC」より車で約25分。</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>提携駐車場：500円（1泊：15：00〜翌12：00）先着順・予約不可・出入別料金・台数制限有</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.14 ／ 立地 ★4.08 ／ 部屋 ★4.13 ／ 設備 ★4.07 ／ 風呂 ★4.13 ／ 食事 ★4.16</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「必要十分でコスパが良く、駐車場も安くて満足驚くようなことはないものの、全てが必要十分なので総じてコスパがよいと思います。駐車場が500円なのもうれしい。クチコミの詳細はこちらから　https:…　2026-10-10 19:34:53投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #2</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">備長炭の湯　ホテルクラウンヒルズ豊橋（ＢＢＨホテルグループ）</h3>
+                  <span className="text-xs text-stone-400 ml-2">（びんちょうたんのゆ　ほてるくらうんひるずとよはし（びーびーえいちほてる））</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,700〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/178410/178410.jpg" alt="備長炭の湯　ホテルクラウンヒルズ豊橋（ＢＢＨホテルグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>◆豊橋中心街に立地◆無料朝食バイキング、夜カレー、アルコール付きウェルカムドリンク、備長炭の湯が好評</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 愛知県豊橋市札木町66-1 ／ 最寄り駅：豊橋 ／ 交通案内：JR・名鉄「豊橋」駅東口より徒歩約１０分。　路面電車「札木」駅より徒歩約２分。豊鉄バス「本町」降車　徒歩０分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>先着順・予約不可の敷地外駐車場11台分有り。出庫後再確保は不可となります。提携コインPはありません</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.14 ／ 立地 ★3.98 ／ 部屋 ★3.97 ／ 設備 ★4.04 ／ 風呂 ★4.03 ／ 食事 ★4.14</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「漫画や大浴場も楽しめた豊橋公園に行くのにアクセスもいいし、フロントの方も感じよく、無料ドリンクや漫画コーナーがあったり、大浴場があったり、思いのほか、楽しく滞在できました。近くの老舗のうなぎ屋さん…　2026-10-05 15:35:48投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=178410&quot; class=&quot;3click&quot;」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #3</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ジャストインプレミアム豊橋駅新幹線口</h3>
+                  <span className="text-xs text-stone-400 ml-2">（じゃすといんぷれみあむとよはしえきしんかんせんぐち）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥4,300〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/168620/168620_kan1.jpg" alt="ジャストインプレミアム豊橋駅新幹線口 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>豊橋駅西口（新幹線口）徒歩１分、地元名産品を取り揃えた朝食、世界のベッド「シモンズ」で超快眠！</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 愛知県豊橋市白河町31-2 ／ 最寄り駅：豊橋 ／ 交通案内：豊橋駅西口（新幹線口）より徒歩１分、東名豊川インターより約25分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>提携のみ①グッドパーキング(15時〜翌11時1100円)②ダイワパーク(18時〜翌9時1000円)</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.31 ／ 部屋 ★4.28 ／ 設備 ★4.21 ／ 風呂 ★4.11 ／ 食事 ★4.24</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が豪華で最高、豊橋ならここ!お部屋はコンパクトながら眺望もよく、朝食バイキングが最高でした!  2度目の宿泊です。前回はコロナ禍だったため簡素な朝食でしたが、数年ぶりに再訪すると、ネギトロ…　2026-10-07 21:20:06投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #4</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">豊橋ビジネスホテル</h3>
+                  <span className="text-xs text-stone-400 ml-2">（とよはしびじねすほてる）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥4,500〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/109436/109436_meal.jpg" alt="豊橋ビジネスホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>2022年6月リニューアルオープン◎朝食無料　駅より徒歩8分コンビニ2分　静かな環境　隣接駐車場</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 愛知県豊橋市花園町12 ／ 最寄り駅：豊橋 ／ 交通案内：ＪＲ豊橋駅より徒歩8分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>隣接あお空駐車場有り　24台　普通車８００円　大型車１，６００〜３，２００円　最大12ｍまで</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.17 ／ 立地 ★3.96 ／ 部屋 ★4.08 ／ 設備 ★4 ／ 風呂 ★3.93 ／ 食事 ★4.3</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「豚汁が美味しい朝食と便利な立地豚汁の朝ご飯が美味しかったです。ウエルカムドリンクは毎日いただけました。歩いてすぐのところにスーパーがあるので便利です。19時閉店に注意ですが。クチコミの詳細はこ…　2026-10-10 17:39:01投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #5</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ロワジールホテル豊橋</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ろわじーるほてるとよはし）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥4,800〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7781/7781_sgl.jpg" alt="ロワジールホテル豊橋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>ロワジールホテル豊橋は、地上30階・高さ120ｍのスケールを誇る、豊橋のランドマークホテルです。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 愛知県豊橋市藤沢町141 ／ 最寄り駅：豊橋 ／ 交通案内：「豊橋駅」より車で約10分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>ホテル専用無料駐車場138台完備。　隣接施設共用駐車場も無料でご利用頂けます。</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.4 ／ 部屋 ★4.45 ／ 設備 ★4.31 ／ 風呂 ★4.24 ／ 食事 ★4.46</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「周辺の食事場所は豊富ホテルが大きいので、となりのメガドン・キホーテに行くのが、少し不便に感じた。ホテルの回りは食事場所が豊富ですクチコミの詳細はこちらから　https://revi…　2026-10-10 22:38:42投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="space-y-4 pt-6 border-t border-stone-200">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
+              🗺️ あわせて巡りたい！愛知県の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+            </h3>
+            <p className="text-xs text-stone-600 leading-relaxed">
+              宿泊前後の1泊2日・2泊3日モデルコースに組み込みたい、愛知県を代表する名所・絶景スポットの解説です。チェックイン前後の荷物預かりや駅周辺のレンタカー・周遊バスを活用すると効率よく巡ることができます。
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Atsuta_Shrine.jpg/1280px-Atsuta_Shrine.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="名古屋城" className="w-full h-full object-cover" loading="lazy" /></div>
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
+                <h3 className="text-base font-bold text-stone-900">名古屋城</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">徳川家康公が築城した城塞。天守閣に輝く「金のしゃちほこ」と、本瓦葺きや漆塗りの極美を現代に復元した絢欄豪華な「本丸御殿」が見どころです。 名古屋（なごや、英: Nagoya）は、愛知県西部の地名。濃尾平野の中央部にあり、伊勢湾に臨む。もとは尾張徳川氏の城下町で、尾張国にあった。古くは那古野とも書き、その後名護屋とも書くようになっていた（表記ゆれがあった）。…</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
+                <h3 className="text-base font-bold text-stone-900">国宝 犬山城</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">木曽川沿いの小高い山の上に建つ、現存する日本最古の木造天守（国宝）。最上階の廻縁からの木曽川と城下町の絶景パノラマは一見の価値があります。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
+                <h3 className="text-base font-bold text-stone-900">熱田神宮</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">三種の神器の一つ「草薙神剣」をお祀りする伊勢神宮に次ぐ尊貴な大社。都会の喧騒を忘れさせる樹齢千年の大楠と静寂な森に強いパワーが満ちています。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
+                <h3 className="text-base font-bold text-stone-900">オアシス21・中日ビル</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">栄の中心に佇む立体型公園「水の宇宙船」。ガラスの大屋根の上を水が流れる未来的なデザインで、夜間には栄の夜景と名古屋テレビタワーが幻想的に映えます。</p>
+              </div>
+            </div>
+            </div>
+          </div>
+
+          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-3 text-xs text-stone-700 leading-relaxed">
+            <h3 className="text-sm md:text-base font-bold text-amber-950">
+              💡 愛知県エリアの宿泊予約・シーズン別ベストタイミングと節約ノウハウ
+            </h3>
+            <p>
+              <strong>1. 早期予約と楽天トラベルクーポンの併用：</strong> 愛知県の人気温泉宿・リゾートホテルは、週末や連休・紅葉・年末年始の60日〜30日前から一気に予約が埋まります。毎月5と0のつく日やスーパーSALE期間中に配布される宿クーポン・自治体クーポンを併用すると、通常より最大10〜20%お得に予約可能です。
+            </p>
+            <p>
+              <strong>2. 夕食・朝食プランと部屋タイプの選び方：</strong> 地元産の旬魚介やブランド牛会席を味わうなら「夕朝食付きプラン」、周辺の屋台・老舗居酒屋・ご当地グルメを食べ歩くなら「朝食付き」または「素泊まり＋天然温泉大浴場付きホテル」を選ぶと予算と満足度のバランスが最適化されます。
+            </p>
+          </div>
+        </section>
+
+      </main>
   );
 }

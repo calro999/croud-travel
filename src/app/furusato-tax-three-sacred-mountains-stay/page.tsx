@@ -338,7 +338,125 @@ export default function FurusatoUpgradedPage() {
         </div>
       </section>
     
-      <HubRelatedPosts currentSlug="furusato-tax-three-sacred-mountains-stay" />
+      
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-6 my-10 max-w-5xl mx-auto">
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900">📊 日本三大霊峰の神気満ちる聖地と雲海・高山温泉宿×ふるさと納税厳選ガイド富士山・立山・白山：楽天トラベル高評価宿スペック比較表＆クチコミ徹底解説</h2>
+          <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+            楽天トラベル公式APIから取得した全国の高評価宿データ（所在地・最寄り駅・駐車場・総合評価・参考最安料金）と実際の宿泊者レビューを整理しました。ふるさと納税の旅行クーポンや早期割引プランと併用することで、ワンランク上の滞在をお得に実現できます。
+          </p>
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th><th className="p-3">所在地</th><th className="p-3">アクセス</th><th className="p-3">駐車場</th><th className="p-3">評価</th><th className="p-3">最安目安</th><th className="p-3">予約</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. ホテルニューオータニ幕張</td>
+                <td className="p-3 text-stone-600">千葉県千葉市美浜区ひび野2-120-3</td>
+                <td className="p-3 text-stone-600">海浜幕張</td>
+                <td className="p-3 text-stone-600">有り/ 屋外平面300台（宿泊者無料）</td>
+                <td className="p-3 font-bold text-amber-600">★4.4（4344件）</td>
+                <td className="p-3 font-bold text-rose-600">¥4,600〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1609%2F1609.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. 山代温泉　ゆのくに天祥</td>
+                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">【車】北陸自動車道加賀IC、片山津ICより約15分【電車】JR・IRいしかわ鉄道加賀温泉駅より無料送迎 予約制</td>
+                <td className="p-3 text-stone-600">有り</td>
+                <td className="p-3 font-bold text-amber-600">★4.5（3744件）</td>
+                <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1616%2F1616.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. ホテルオークラ神戸</td>
+                <td className="p-3 text-stone-600">兵庫県神戸市中央区波止場町2-1  メリケンパーク内</td>
+                <td className="p-3 text-stone-600">元町（兵庫）</td>
+                <td className="p-3 text-stone-600">1泊1500円 ※予約不要</td>
+                <td className="p-3 font-bold text-amber-600">★4.57（8846件）</td>
+                <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1648%2F1648.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">4. 熱海温泉　熱海後楽園ホテル</td>
+                <td className="p-3 text-stone-600">静岡県熱海市和田浜南町10-1</td>
+                <td className="p-3 text-stone-600">熱海</td>
+                <td className="p-3 text-stone-600">有り／120台　※2025年5月8日(木)より1泊につき500円/台(チェックアウト日の12時まで)</td>
+                <td className="p-3 font-bold text-amber-600">★4.4（3218件）</td>
+                <td className="p-3 font-bold text-rose-600">¥12,320〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1656%2F1656.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">5. 洲本温泉　夢海游　淡路島</td>
+                <td className="p-3 text-stone-600">兵庫県洲本市山手1-1-50</td>
+                <td className="p-3 text-stone-600">舞子</td>
+                <td className="p-3 text-stone-600">有り　１００台収容可・無料</td>
+                <td className="p-3 font-bold text-amber-600">★4.43（2443件）</td>
+                <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1657%2F1657.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+          <div className="space-y-3">
+            <h3 className="text-base font-bold text-stone-900">🏨 注目宿のクチコミ・アクセス詳細</h3>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">1. ホテルニューオータニ幕張（千葉県・★4.4）</h4>
+              <p><strong>【特徴】</strong>美しい海と幕張の市街地を望む絶好のロケーションでリゾート気分を満喫♪</p>
+              <p><strong>【交通・駐車場】</strong>JR京葉線海浜幕張駅徒歩5分 蘇我駅約12分 幕張メッセ直結 東京ディズニーリゾート（R）グッドネイバーホテル ／ 駐車場：有り/ 屋外平面300台（宿泊者無料）</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「謎解きと美味しい食事でいつも大満足謎解きもあり、ご飯も最高に美味しくていつも楽しんでます。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/h…　2026-10-08 20:14:13投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=1609」</p>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">2. 山代温泉　ゆのくに天祥（・★4.5）</h4>
+              <p><strong>【特徴】</strong></p>
+              <p><strong>【交通・駐車場】</strong>【車】北陸自動車道加賀IC、片山津ICより約15分【電車】JR・IRいしかわ鉄道加賀温泉駅より無料送迎 予約制 ／ 駐車場：有り</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「食事も温泉も接客も最高、また来たい旅館大変満足した1日でした。夕食、朝食共に見栄えに味申し分ありません。朝食は胃にとてもやさしい味付け。お風呂もとても素敵でした。担当に付いてくれた…　2026-09-19 13:47:08投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=1616&quot; clas」</p>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">3. ホテルオークラ神戸（兵庫県・★4.57）</h4>
+              <p><strong>【特徴】</strong>神戸ポートタワーのとなり、35階建てホテル。夜景が自慢。ホテル～三宮間無料シャトルバス毎日運行</p>
+              <p><strong>【交通・駐車場】</strong>ＪＲ神戸線・阪神線 元町駅から徒歩で10分。 新幹線 新神戸駅から 車で15分。 ／ 駐車場：1泊1500円 ※予約不要</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「LIVE後の利用に最適、清潔で親切な対応LIVE終わりの宿泊に利便性を考慮して選んだホテルですが最高のホテルでした三宮や元町方面にも徒歩可能ですが...暑い夏には少し距離感ありましたホテル…　2026-08-21 17:47:55投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=1648&quot;」</p>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">4. 熱海温泉　熱海後楽園ホテル（静岡県・★4.4）</h4>
+              <p><strong>【特徴】</strong>熱海の夜景と相模灘を眼前に望める絶好のロケーション！源泉を使用した大展望風呂で、ゆっくりと温泉三昧。</p>
+              <p><strong>【交通・駐車場】</strong>東京から新幹線で50分！熱海駅よりタクシーで約10分。送迎バス　9:40～19:00まで40分毎 ／ 駐車場：有り／120台　※2025年5月8日(木)より1泊につき500円/台(チェックアウト日の12時まで)</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「オーシャンビューと美味しい料理に大満足オーシャンビューでバルコニーから海が良く見えました。料理も美味しくて沢山食べてしましました。クチコミの詳細はこちらから　https://revie…　2026-10-10 10:35:13投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=1656&quot; cl」</p>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">5. 洲本温泉　夢海游　淡路島（兵庫県・★4.43）</h4>
+              <p><strong>【特徴】</strong>2020年7月リニューアルの大浴場「森のSPA」や離れスパ海音の森など多彩な湯処と島の山海の幸を堪能</p>
+              <p><strong>【交通・駐車場】</strong>車：洲本ICから10分／高速バス：大阪120分・三宮80分で洲本BCへ ／ 駐車場：有り　１００台収容可・無料</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「料理も接客も素晴らしく、子供も大満足部屋も綺麗だったし接客も丁寧で夕食時の担当してくれた女性が子供にも優しくいい人でした。料理も美味しく7歳には子供会席、5歳にはお子様ランチで子供も美味しいと言っ…　2026-10-10 19:48:56投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=16」</p>
+            </div>
+          </div>
+          <div className="space-y-3 pt-4 border-t border-stone-200">
+            <h3 className="text-base font-bold text-stone-900">🗺️ 合わせて訪れたい日本の代表的観光名所ガイド</h3>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
+              <h4 className="text-sm font-bold text-stone-900">📍 清水寺</h4>
+              <p className="text-xs text-stone-600 leading-relaxed">「清水の舞台」で世界的に有名な古都京都の象徴。「清水の舞台から飛び下りる」の語源となった木造大舞台からの京都市街の眺望と音羽の滝が名高いです。</p>
+            </div>
+            <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
+              <h4 className="text-sm font-bold text-stone-900">📍 函館山（夜景）</h4>
+              <p className="text-xs text-stone-600 leading-relaxed">世界三大夜景の一つに数えられる絶景スポット。津軽海峡と函館湾に挟まれたくびれが生み出す、宝石をちりばめたような眩い夜景は一生に一度は見たい感動のロケーションです。</p>
+            </div>
+            <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
+              <h4 className="text-sm font-bold text-stone-900">📍 横浜みなとみらい21</h4>
+              <p className="text-xs text-stone-600 leading-relaxed">ランドマークタワーや大観覧車「コスモクロック21」、赤レンガ倉庫が立ち並ぶ近代都市リゾート。港町の海風を感じながらショッピングや夜景を楽しめます。</p>
+            </div>
+            <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
+              <h4 className="text-sm font-bold text-stone-900">📍 国宝 姫路城（白鷺城）</h4>
+              <p className="text-xs text-stone-600 leading-relaxed">鮮やかな白漆喰の城壁が羽ばたく白鷺のように美しい日本初のユネスコ世界文化遺産。大天守をはじめ保存状態が完璧な城郭建築の最高峰です。</p>
+            </div>
+            </div>
+          </div>
+        </section>
+
+<HubRelatedPosts currentSlug="furusato-tax-three-sacred-mountains-stay" />
 </div>
   );
 }

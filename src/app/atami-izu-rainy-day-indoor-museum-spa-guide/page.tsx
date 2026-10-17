@@ -226,7 +226,7 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
       <main className="max-w-4xl mx-auto px-4 sm:px-6 mt-14 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「MOA美術館・起雲閣・昭和レトロ喫茶＆インフィニティ露天風呂」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「MOA美術館・起雲閣・昭和レトロ喫茶＆インフィニティ露天風呂」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"熱海 雨の日の観光＆温泉：MOA美術館・起雲閣・昭和レトロ喫茶＆インフィニティ露天風呂エリアでは、「熱海温泉　ホテル　サンミ倶楽部」（楽天評価★3.92・クチコミ969件、所在地：静岡県熱海市和田浜南町5-8）をはじめとする宿を拠点にし、最寄り駅（熱海）やアクセス条件（JR東海道線『熱海駅』より東海バス『マリンスパあたみ』下車　徒歩1分）に合わせて午前中に周辺観光名所を巡り、15時のチェックイン後に温泉や夕食会席を堪能するスケジュールが最も効率的です。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"宿泊予約時は最安料金目安（例：「熱海温泉　ホテル　サンミ倶楽部」は1名あたり¥6,352〜）や駐車場条件（50台　有料（1100円）※ご利用時間はご宿泊日の12時からチェックアウト日の10時までとなります。）を事前に確認しましょう。連休や紅葉・年末年始シーズンは早期に満室となるため、楽天トラベルの早期割引プランやクーポンの活用がおすすめです。"}}]}) }}
       />
         {/* セクション1: 熱海 雨の日の4大インドアハイライト */}
         <section className="space-y-6">
@@ -456,12 +456,6 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
             </Link>
           </div>
         </section>
-      
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         
 
         {/* FAQ Section */}
@@ -479,7 +473,7 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。
+                A. 熱海 雨の日の観光＆温泉：MOA美術館・起雲閣・昭和レトロ喫茶＆インフィニティ露天風呂では、最寄り駅からの送迎バス運行時間やチェックイン時刻（通常15:00）から逆算し、午前中に主要な景勝地・寺社・市場を巡り、午後は宿の天然温泉や地元食材の会席料理をゆっくり堪能する行程が最も満足度の高い回り方です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -488,7 +482,7 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。
+                A. 楽天トラベルで予約する際は、無料駐車場の台数・予約要否、露天風呂付き客室や部屋食プランの有無、そして5と0のつく日クーポンや早期割引プランの対象期間を事前に比較確認しておくと安心です。
               </p>
             </details>
           </div>
@@ -503,7 +497,22 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/winter-kanagawa-hakone-yumoto-ashinoko-shrine-fuji-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月箱根：箱根神社新春初詣！名宿5選</span>
+            </a>
+            <a href="/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">湯河原温泉で過ごす冬の旅（11・12月）！相模湾の伊勢海老！名宿5選</span>
+            </a>
+            <a href="/kanagawa-hakone-ashinoko-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">箱根・芦ノ湖＆元箱根：湖畔鳥居・海賊船＆富士ビュー極上宿 厳選ガイド</span>
+            </a>
+            <a href="/kanagawa-yugawara-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">湯河原温泉ひとり旅・万葉集ゆかり名湯おこもり：相模湾一望・自家源泉かけ流し・伊豆の旬懐石！都心60分の文豪リトリート厳選3宿</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
@@ -533,6 +542,256 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
                 神奈川県の宿・温泉
               </Link>
             </div>
+          </div>
+        </section>
+
+      
+        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
+          <div className="space-y-2 border-b border-stone-200 pb-4">
+            <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
+              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+            </span>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
+              📊 熱海 雨の日の観光＆温泉：MOA美術館・起雲閣・昭和レトロ喫茶＆インフィニティ露天風呂：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+            </h2>
+            <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+              楽天トラベル公式APIより取得した「熱海 雨の日の観光＆温泉：MOA美術館・起雲閣・昭和レトロ喫茶＆インフィニティ露天風呂」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+            </p>
+          </div>
+
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th>
+                  <th className="p-3">所在地</th>
+                  <th className="p-3">最寄り駅・交通</th>
+                  <th className="p-3">駐車場情報</th>
+                  <th className="p-3">楽天評価</th>
+                  <th className="p-3">最安目安</th>
+                  <th className="p-3">予約・詳細</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. 熱海温泉　ホテル　サンミ倶楽部</td>
+                <td className="p-3 text-stone-600">静岡県熱海市和田浜南町5-8</td>
+                <td className="p-3 text-stone-600">熱海駅周辺</td>
+                <td className="p-3 text-stone-600">50台　有料（1100円）※ご利用時間はご宿泊日の12時からチェックアウト日の10時までとなります。</td>
+                <td className="p-3 font-bold text-amber-600">★3.92（969件）</td>
+                <td className="p-3 font-bold text-rose-600">¥6,352〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15680%2F15680.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. ホテル法華クラブ湘南藤沢</td>
+                <td className="p-3 text-stone-600">神奈川県藤沢市鵠沼石上1-6-1</td>
+                <td className="p-3 text-stone-600">藤沢駅周辺</td>
+                <td className="p-3 text-stone-600">車高1.9ｍ長さ5.1ｍ重さ2ｔ以内は先着順にて駐車可能。1泊1,100円。その他の場合は要問合せ。</td>
+                <td className="p-3 font-bold text-amber-600">★4.14（3715件）</td>
+                <td className="p-3 font-bold text-rose-600">¥3,750〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F123%2F123.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. ホテルプラム（ＨＯＴＥＬ　ＰＬＵＭＭ）横浜</td>
+                <td className="p-3 text-stone-600">神奈川県横浜市西区北幸2-9-1</td>
+                <td className="p-3 text-stone-600">横浜駅周辺</td>
+                <td className="p-3 text-stone-600">有 （1600円/泊、先着順、車種制限有）出入庫時間 7:00〜22:00   近隣駐車場も有</td>
+                <td className="p-3 font-bold text-amber-600">★4.39（3930件）</td>
+                <td className="p-3 font-bold text-rose-600">¥3,900〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1428%2F1428.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">4. 横浜ベイシェラトンホテル＆タワーズ</td>
+                <td className="p-3 text-stone-600">神奈川県横浜市西区北幸1-3-23</td>
+                <td className="p-3 text-stone-600">横浜駅周辺</td>
+                <td className="p-3 text-stone-600">有り（駐車台数には限りがあります）　１９００円／泊（税込）</td>
+                <td className="p-3 font-bold text-amber-600">★4.58（2182件）</td>
+                <td className="p-3 font-bold text-rose-600">¥16,588〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1598%2F1598.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">5. 鎌倉プリンスホテル</td>
+                <td className="p-3 text-stone-600">神奈川県鎌倉市七里ヶ浜東1-2-18</td>
+                <td className="p-3 text-stone-600">七里ヶ浜駅周辺</td>
+                <td className="p-3 text-stone-600">あり、有料（入庫より24時間￥1,000）。</td>
+                <td className="p-3 font-bold text-amber-600">★4.37（1801件）</td>
+                <td className="p-3 font-bold text-rose-600">¥11,236〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1679%2F1679.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div className="space-y-4">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
+              🏨 各宿の宿泊者リアルクチコミ・客室イメージ・項目別評価データ
+            </h3>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #1</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">熱海温泉　ホテル　サンミ倶楽部</h3>
+                  <span className="text-xs text-stone-400 ml-2">（あたみおんせん　さんみくらぶ）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥6,352〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15680/15680_r.jpg" alt="熱海温泉　ホテル　サンミ倶楽部 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>オーシャンビュー客室に海一望の温泉も人気！館内には24 Hコンビニ有り♪</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 静岡県熱海市和田浜南町5-8 ／ 最寄り駅：熱海 ／ 交通案内：JR東海道線『熱海駅』より東海バス『マリンスパあたみ』下車　徒歩1分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>50台　有料（1100円）※ご利用時間はご宿泊日の12時からチェックアウト日の10時までとなります。</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「三世代で熱海を満喫、景色と親切な対応に感動孫と三世代で 初めての熱海で ホテルの従業員の方は 親切で また 部屋から海が見えて景色よく感動しましたマリンスパ熱海のプールへ 目の前すぐ行ける…　2026-08-26 00:07:22投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #2</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ホテル法華クラブ湘南藤沢</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ほっけくらぶ　ふじさわ）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,750〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/123/123_room.jpg" alt="ホテル法華クラブ湘南藤沢 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>大好評、男・女別浴場あり！旅・ビジネスの疲れを癒してくれます。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県藤沢市鵠沼石上1-6-1 ／ 最寄り駅：藤沢 ／ 交通案内：ＪＲ・小田急・江ノ電「藤沢駅」南口より徒歩５分。繁華街の中心に位置し、江ノ島、鎌倉観光に最適♪</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>車高1.9ｍ長さ5.1ｍ重さ2ｔ以内は先着順にて駐車可能。1泊1,100円。その他の場合は要問合せ。</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場のシャンプーバーとコーヒーが魅力大浴場が嬉しかった。ドラストで買えるようなシャントリが4種類くらい(ボタニストなど)選べてよかったです。ウェルカムドリンクのコーヒーもカプセル式で美味しか…　2026-08-28 23:52:41投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #3</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ホテルプラム（ＨＯＴＥＬ　ＰＬＵＭＭ）横浜</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ほてる　ぷらむ　よこはま）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,900〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1428/1428_tu.jpg" alt="ホテルプラム（ＨＯＴＥＬ　ＰＬＵＭＭ）横浜 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>選べる朝食&amp;パン食べ放題が大人気！「暮らすように泊まる」時間を充実させる大浴場が5/15新規オープン</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県横浜市西区北幸2-9-1 ／ 最寄り駅：横浜 ／ 交通案内：【ＪＲ・私鉄／横浜駅】西口出口より徒歩7分。  【横浜市営地下鉄／横浜駅】９番出口より徒歩５分。</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有 （1600円/泊、先着順、車種制限有）出入庫時間 7:00〜22:00   近隣駐車場も有</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.15 ／ 部屋 ★4.37 ／ 設備 ★4.34 ／ 風呂 ★4.35</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの交通案内が不十分で残念土地勘がなかったので行きたいところへのバス経路を確認したかったが、フロントデスクの方は周辺の交通事情に詳しくなかった。問い合わせる時間が無駄になった。滞在は快適…　2026-10-09 05:43:48投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #4</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">横浜ベイシェラトンホテル＆タワーズ</h3>
+                  <span className="text-xs text-stone-400 ml-2">（よこはま　べいしぇらとんほてる　あんど　たわーず）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥16,588〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1598/1598_twn.jpg" alt="横浜ベイシェラトンホテル＆タワーズ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>横浜駅西口から徒歩１分。添い寝12歳まで無料！ビジネス・観光・コンサートへ最適／マリオットグループ</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県横浜市西区北幸1-3-23 ／ 最寄り駅：横浜 ／ 交通案内：JR・私鉄 横浜駅徒歩1分(直結)。新横浜駅から地下鉄11分、品川駅からＪＲ20分。羽田空港よりリムジンYCAT迄30分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り（駐車台数には限りがあります）　１９００円／泊（税込）</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅直結で便利、朝食も美味しくまた利用したい15時チェックインが遅れて17時になりましたとっても残念でした沢山歩いていたので 少し横になって休みたかったから仕方ないのかもしれないですが。…　2026-08-17 15:52:55投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #5</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">鎌倉プリンスホテル</h3>
+                  <span className="text-xs text-stone-400 ml-2">（かまくら　ぷりんすほてる）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥11,236〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1679/1679_twn.jpg" alt="鎌倉プリンスホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>相模湾を望む、七里ヶ浜の丘に建つホテル。すべてのお部屋から相模湾の風景が望めます。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県鎌倉市七里ヶ浜東1-2-18 ／ 最寄り駅：七里ヶ浜 ／ 交通案内：江ノ島電鉄七里ヶ浜駅～徒歩約8分。無料送迎バスあり。または有料バスにて潮騒通り下車徒歩約1分。</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>あり、有料（入庫より24時間￥1,000）。</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静寂が保たれた空間で連泊してゆっくり過ごす高いレベルのスタッフの多い高級リゾートホテル正規のレートで利用するのはかなりツラいがこまめに探せば納得いくレートが探せるはずシャトルバスの…」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="space-y-4 pt-6 border-t border-stone-200">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
+              🗺️ あわせて巡りたい！神奈川県の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+            </h3>
+            <p className="text-xs text-stone-600 leading-relaxed">
+              宿泊前後の1泊2日・2泊3日モデルコースに組み込みたい、神奈川県を代表する名所・絶景スポットの解説です。チェックイン前後の荷物預かりや駅周辺のレンタカー・周遊バスを活用すると効率よく巡ることができます。
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
+                <h3 className="text-base font-bold text-stone-900">横浜みなとみらい21</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">ランドマークタワーや大観覧車「コスモクロック21」、赤レンガ倉庫が立ち並ぶ近代都市リゾート。港町の海風を感じながらショッピングや夜景を楽しめます。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
+                <h3 className="text-base font-bold text-stone-900">鎌倉大仏（高徳院）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">高さ約11.3mを誇る鎌倉のシンボル的な国宝銅造阿弥陀如来坐像。四季折々の花々や歴史ある古刹巡り、小町通りの食べ歩きとともに鎌倉散策の定番です。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Lake_Ashi_from_Mt.Komagatake_03-2.jpg/1280px-Lake_Ashi_from_Mt.Komagatake_03-2.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="箱根 芦ノ湖・大涌谷" className="w-full h-full object-cover" loading="lazy" /></div>
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
+                <h3 className="text-base font-bold text-stone-900">箱根 芦ノ湖・大涌谷</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">富士山を望む箱根海賊船クルーズが人気の芦ノ湖と、現在も硫黄煙が噴き出す火山地帯・大涌谷。名物の「黒たまご」を食べると寿命が延びると伝えられます。 箱根（はこね、古くは「函根」、「函嶺」とも呼ばれた）は、静岡県に近い神奈川県南西部の一角、箱根カルデラ近辺の一帯を指す地名。…</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
+                <h3 className="text-base font-bold text-stone-900">江の島</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">湘南海岸に浮かぶ美しい島。江島神社への参道散策やシーキャンドル（展望灯台）からの太平洋の絶景、新鮮な生しらす丼など魅力が詰まっています。</p>
+              </div>
+            </div>
+            </div>
+          </div>
+
+          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-3 text-xs text-stone-700 leading-relaxed">
+            <h3 className="text-sm md:text-base font-bold text-amber-950">
+              💡 神奈川県エリアの宿泊予約・シーズン別ベストタイミングと節約ノウハウ
+            </h3>
+            <p>
+              <strong>1. 早期予約と楽天トラベルクーポンの併用：</strong> 神奈川県の人気温泉宿・リゾートホテルは、週末や連休・紅葉・年末年始の60日〜30日前から一気に予約が埋まります。毎月5と0のつく日やスーパーSALE期間中に配布される宿クーポン・自治体クーポンを併用すると、通常より最大10〜20%お得に予約可能です。
+            </p>
+            <p>
+              <strong>2. 夕食・朝食プランと部屋タイプの選び方：</strong> 地元産の旬魚介やブランド牛会席を味わうなら「夕朝食付きプラン」、周辺の屋台・老舗居酒屋・ご当地グルメを食べ歩くなら「朝食付き」または「素泊まり＋天然温泉大浴場付きホテル」を選ぶと予算と満足度のバランスが最適化されます。
+            </p>
           </div>
         </section>
 

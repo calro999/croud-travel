@@ -400,12 +400,6 @@ export default function ArticlePage() {
           </a>
         </div>
       </section>
-    
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -476,6 +470,194 @@ export default function ArticlePage() {
                 A. 「天然温泉関門の湯 ドーミーインＰＲＥＭＩＵＭ下関」では季節ごとに異なる宿泊プランや料理プランが用意されています。ご旅行の人数や滞在スタイルに合わせて最適なプランをお選びいただけます。
               </p>
             </details>
+          </div>
+        </section>
+
+      
+        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
+          <div className="space-y-2 border-b border-stone-200 pb-4">
+            <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
+              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+            </span>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
+              📊 下関出張・男一人旅：天然温泉関門の湯・関門海峡パノラマ・本場下関ふく料理！本州最西端の海峡拠点でととのう厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+            </h2>
+            <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+              楽天トラベル公式APIより取得した「下関出張・男一人旅：天然温泉関門の湯・関門海峡パノラマ・本場下関ふく料理！本州最西端の海峡拠点でととのう厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+            </p>
+          </div>
+
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th>
+                  <th className="p-3">所在地</th>
+                  <th className="p-3">最寄り駅・交通</th>
+                  <th className="p-3">駐車場情報</th>
+                  <th className="p-3">楽天評価</th>
+                  <th className="p-3">最安目安</th>
+                  <th className="p-3">予約・詳細</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. 天然温泉関門の湯　ドーミーインＰＲＥＭＩＵＭ下関（ドーミーイン・御宿野乃　ホテルズグループ）</td>
+                <td className="p-3 text-stone-600">山口県下関市細江新町3-40</td>
+                <td className="p-3 text-stone-600">下関駅周辺</td>
+                <td className="p-3 text-stone-600">1泊1500円先着順。満車時は提携先を案内(1泊1,300円）※ご連泊利用は、アウト日まで取り置き可</td>
+                <td className="p-3 font-bold text-amber-600">★4.52（2957件）</td>
+                <td className="p-3 font-bold text-rose-600">¥7,875〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F104702%2F104702.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. ヴィアイン下関＜維新の湯＞（ＪＲ西日本グループ）</td>
+                <td className="p-3 text-stone-600">山口県下関市竹崎町4丁目2番33号</td>
+                <td className="p-3 text-stone-600">下関駅周辺</td>
+                <td className="p-3 text-stone-600">近隣の提携駐車場をご案内させていただきます</td>
+                <td className="p-3 font-bold text-amber-600">★4.19（1014件）</td>
+                <td className="p-3 font-bold text-rose-600">¥3,010〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F178561%2F178561.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. 下関ステーションホテル</td>
+                <td className="p-3 text-stone-600">山口県下関市竹崎町2-8-11</td>
+                <td className="p-3 text-stone-600">下関駅周辺</td>
+                <td className="p-3 text-stone-600">ホテル専用P＝600円（16台）二輪車300円※先着順／タイムズ下関駅西口駐車場500円＝約120台</td>
+                <td className="p-3 font-bold text-amber-600">★3.83（2270件）</td>
+                <td className="p-3 font-bold text-rose-600">¥3,950〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F104619%2F104619.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div className="space-y-4">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
+              🏨 各宿の宿泊者リアルクチコミ・客室イメージ・項目別評価データ
+            </h3>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #1</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">天然温泉関門の湯　ドーミーインＰＲＥＭＩＵＭ下関（ドーミーイン・御宿野乃　ホテルズグループ）</h3>
+                  <span className="text-xs text-stone-400 ml-2">（てんねんおんせんかんもんのゆ　どーみーいんぷれみあむしものせき）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥7,875〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/104702/104702_kya.jpg" alt="天然温泉関門の湯　ドーミーインＰＲＥＭＩＵＭ下関（ドーミーイン・御宿野乃　ホテルズグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>最上階にサウナ付・天然温泉大浴場★全館無料Wi-Fi完備★夜鳴きそば無料サービス実施</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 山口県下関市細江新町3-40 ／ 最寄り駅：下関 ／ 交通案内：ＪＲ下関駅より徒歩にて8分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>1泊1500円先着順。満車時は提携先を案内(1泊1,300円）※ご連泊利用は、アウト日まで取り置き可</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.42 ／ 部屋 ★4.46 ／ 設備 ★4.48 ／ 風呂 ★4.56 ／ 食事 ★4.63</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングのビーフシチューはお肉が大きく、量も多くまた、スープ共々味も濃く美味しかったです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/…　2026-10-09 20:00:49投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #2</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ヴィアイン下関＜維新の湯＞（ＪＲ西日本グループ）</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ヴぃあいんしものせき　いしんのゆ　じぇいあーるにしにほんぐるーぷ）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,010〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/178561/178561_kan1.jpg" alt="ヴィアイン下関＜維新の湯＞（ＪＲ西日本グループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>時ーＴＯＫＩ－日本の歴史が動いた舞台で やすらぎのひととき　◇ＪＲ下関駅東口より徒歩にて約３分◇</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 山口県下関市竹崎町4丁目2番33号 ／ 最寄り駅：下関 ／ 交通案内：［鉄道］JR山陽本線下関駅（東口）より徒歩約３分 / ［車］中国自動車道下関ICより約１０分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>近隣の提携駐車場をご案内させていただきます</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.2 ／ 立地 ★4.25 ／ 部屋 ★4.17 ／ 設備 ★4.15 ／ 風呂 ★4.18 ／ 食事 ★4.06</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「綺麗なお部屋と美味しいふぐ料理に大満足お部屋は綺麗でふぐを使ったお料理も美味しく満足できました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.j…　2026-10-08 20:10:45投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #3</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">下関ステーションホテル</h3>
+                  <span className="text-xs text-stone-400 ml-2">（しものせきすてーしょんほてる）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,950〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/104619/104619.jpg" alt="下関ステーションホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>ＪＲ下関駅より１分。全室無線LAN完備／朝食付／サウナ付人工温泉あり</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 山口県下関市竹崎町2-8-11 ／ 最寄り駅：下関 ／ 交通案内：ＪＲ下関駅東口より徒歩１分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>ホテル専用P＝600円（16台）二輪車300円※先着順／タイムズ下関駅西口駐車場500円＝約120台</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.89 ／ 立地 ★3.95 ／ 部屋 ★3.77 ／ 設備 ★3.71 ／ 風呂 ★3.86 ／ 食事 ★3.78</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と朝食は最高、サウナの改善を希望久しぶりに利用させてもらいました。いつも1ヶ月に1回は行かしてもらってたのですが、今回は半年ぶりくらいでした。相変わらずフロントやスタ…　2026-10-10 19:20:33投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="space-y-4 pt-6 border-t border-stone-200">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
+              🗺️ あわせて巡りたい！山口県の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+            </h3>
+            <p className="text-xs text-stone-600 leading-relaxed">
+              宿泊前後の1泊2日・2泊3日モデルコースに組み込みたい、山口県を代表する名所・絶景スポットの解説です。チェックイン前後の荷物預かりや駅周辺のレンタカー・周遊バスを活用すると効率よく巡ることができます。
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Tsunoshima_Island%2C_Yamaguchi_Aerial_photograph.2008.jpg/1280px-Tsunoshima_Island%2C_Yamaguchi_Aerial_photograph.2008.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="角島大橋（つのしまおおはし）" className="w-full h-full object-cover" loading="lazy" /></div>
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
+                <h3 className="text-base font-bold text-stone-900">角島大橋（つのしまおおはし）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">コバルトブルーの澄み切った海を跨ぐ全長1,780mの離島架橋。まるで海の上を飛んでいるかのような爽快なドライブが楽しめるSNS大人気の絶景スポットです。 角島（つのしま）は、山口県下関市豊北町大字角島の日本海（響灘）上にある島。山口県の北西端。北長門海岸国定公園に含まれる。人口726人（平成27年国勢調査）。…</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
+                <h3 className="text-base font-bold text-stone-900">元乃隅神社（もとのすみじんじゃ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">断崖に向かって123基の朱塗りの鳥居が龍のように連なる絶景神社。アメリカCNN「日本の最も美しい場所31選」にも選ばれた圧倒的なビジュアルです。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
+                <h3 className="text-base font-bold text-stone-900">秋吉台・秋芳洞（あきよしだい・あきよしどう）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">日本最大級のカルスト台地・秋吉台と、その地下100mに広がる巨大大鍾乳洞・秋芳洞。「百枚皿」や「黄金柱」など地球の神秘を感じる大自然のアートです。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
+                <h3 className="text-base font-bold text-stone-900">錦帯橋（きんたいきょう）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">清流錦川に架かる木造5連のアーチ橋。釘を一本も使わずに組み上げられた独自の木造構造技術は日本三名橋に数えられ、春の桜とのコラボレーションが見事です。</p>
+              </div>
+            </div>
+            </div>
+          </div>
+
+          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-3 text-xs text-stone-700 leading-relaxed">
+            <h3 className="text-sm md:text-base font-bold text-amber-950">
+              💡 山口県エリアの宿泊予約・シーズン別ベストタイミングと節約ノウハウ
+            </h3>
+            <p>
+              <strong>1. 早期予約と楽天トラベルクーポンの併用：</strong> 山口県の人気温泉宿・リゾートホテルは、週末や連休・紅葉・年末年始の60日〜30日前から一気に予約が埋まります。毎月5と0のつく日やスーパーSALE期間中に配布される宿クーポン・自治体クーポンを併用すると、通常より最大10〜20%お得に予約可能です。
+            </p>
+            <p>
+              <strong>2. 夕食・朝食プランと部屋タイプの選び方：</strong> 地元産の旬魚介やブランド牛会席を味わうなら「夕朝食付きプラン」、周辺の屋台・老舗居酒屋・ご当地グルメを食べ歩くなら「朝食付き」または「素泊まり＋天然温泉大浴場付きホテル」を選ぶと予算と満足度のバランスが最適化されます。
+            </p>
           </div>
         </section>
 

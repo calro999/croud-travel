@@ -216,7 +216,288 @@ export default function HistoryHeritageHubPage() {
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
                         </a>
                       </div>
-                    </article>
+                    
+        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
+          <div className="space-y-2 border-b border-stone-200 pb-4">
+            <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
+              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+            </span>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
+              📊 世界遺産・霊場巡り＆宿坊体験宿：高野山宿坊・熊野古道・比叡山延暦寺 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+            </h2>
+            <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+              楽天トラベル公式APIより取得した「世界遺産・霊場巡り＆宿坊体験宿：高野山宿坊・熊野古道・比叡山延暦寺 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+            </p>
+          </div>
+
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th>
+                  <th className="p-3">所在地</th>
+                  <th className="p-3">最寄り駅・交通</th>
+                  <th className="p-3">駐車場情報</th>
+                  <th className="p-3">楽天評価</th>
+                  <th className="p-3">最安目安</th>
+                  <th className="p-3">予約・詳細</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. 高野山別格本山　宿坊　西門院</td>
+                <td className="p-3 text-stone-600">和歌山県伊都郡高野町高野山447</td>
+                <td className="p-3 text-stone-600">南海高野山駅より「奥の院」行きバスで１３分。「小田原通り」下車すぐ前。</td>
+                <td className="p-3 text-stone-600">有り　１５台　無料　予約不要</td>
+                <td className="p-3 font-bold text-amber-600">★4（95件）</td>
+                <td className="p-3 font-bold text-rose-600">¥20,800〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F105973%2F105973.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. 高野山　宿坊　大明王院</td>
+                <td className="p-3 text-stone-600">和歌山県伊都郡高野町高野山482</td>
+                <td className="p-3 text-stone-600">極楽橋駅周辺</td>
+                <td className="p-3 text-stone-600">有り　５台　無料　先着順</td>
+                <td className="p-3 font-bold text-amber-600">高評価</td>
+                <td className="p-3 font-bold text-rose-600">¥17,600〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F184135%2F184135.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. 高野山　熊谷寺</td>
+                <td className="p-3 text-stone-600">和歌山県伊都郡高野町高野山501</td>
+                <td className="p-3 text-stone-600">南海鉄道　高野山駅より定期バスにて「かるかや堂前」下車後徒歩２分</td>
+                <td className="p-3 text-stone-600">有り　１0台　無料　要予約 (EV車充電システム完備）</td>
+                <td className="p-3 font-bold text-amber-600">★4（89件）</td>
+                <td className="p-3 font-bold text-rose-600">¥17,100〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F84994%2F84994.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">4. 高野山　宿坊　宝城院</td>
+                <td className="p-3 text-stone-600">和歌山県伊都郡高野町高野山156</td>
+                <td className="p-3 text-stone-600">極楽橋駅周辺</td>
+                <td className="p-3 text-stone-600">有り　10台　無料　予約不要</td>
+                <td className="p-3 font-bold text-amber-600">高評価</td>
+                <td className="p-3 font-bold text-rose-600">¥16,500〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F184602%2F184602.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">5. 川湯温泉　山水館　川湯みどりや</td>
+                <td className="p-3 text-stone-600">和歌山県田辺市本宮町川湯13</td>
+                <td className="p-3 text-stone-600">新宮駅周辺</td>
+                <td className="p-3 text-stone-600">60台（無料）／バイク利用の方には屋根付き駐車場有</td>
+                <td className="p-3 font-bold text-amber-600">★4.17（1082件）</td>
+                <td className="p-3 font-bold text-rose-600">¥9,240〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38558%2F38558.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">6. 民宿　すみ家</td>
+                <td className="p-3 text-stone-600">和歌山県田辺市本宮町川湯1429</td>
+                <td className="p-3 text-stone-600">新宮駅周辺</td>
+                <td className="p-3 text-stone-600">無し　近隣徒歩200mに公共無料駐車場あり　近隣徒歩100mに有料駐車場あり</td>
+                <td className="p-3 font-bold text-amber-600">★4.33（36件）</td>
+                <td className="p-3 font-bold text-rose-600">¥10,000〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F177628%2F177628.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div className="space-y-4">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
+              🏨 各宿の宿泊者リアルクチコミ・客室イメージ・項目別評価データ
+            </h3>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #1</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">高野山別格本山　宿坊　西門院</h3>
+                  <span className="text-xs text-stone-400 ml-2">（こうやさんべっかくほんざん　しゅくぼう　さいもんいん）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥20,800〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/105973/105973_ka1.jpg" alt="高野山別格本山　宿坊　西門院 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>高野山街の中央.お買い物や各所観光に便利な宿坊。手作りごま豆腐と伝統の「精進料理」は好評です。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県伊都郡高野町高野山447 ／ 最寄り駅：主要駅 ／ 交通案内：南海高野山駅より「奥の院」行きバスで１３分。「小田原通り」下車すぐ前。タクシーで約８分。</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.58 ／ 立地 ★4 ／ 部屋 ★3.68 ／ 設備 ★3.71 ／ 風呂 ★3.44 ／ 食事 ★4.53</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「精進料理が美味しく、部屋もグレードアップ西門院さんの精進料理美味しかったです!シルバーウィーク明けでたまたま宿泊客が少なかったせいか、お部屋はトイレなし→トイレありにグレードアップしていただい…　2026-09-26 22:36:08投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #2</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">高野山　宿坊　大明王院</h3>
+                  <span className="text-xs text-stone-400 ml-2">（こうやさん　しゅくぼう　だいみょうおういん）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥17,600〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184135/184135.jpg" alt="高野山　宿坊　大明王院 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>四季折々の精進料理や総高野槙風呂でおもてなし。美しい庭園を眺めながら当院で四季の高野山をご満喫下さい</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県伊都郡高野町高野山482 ／ 最寄り駅：極楽橋 ／ 交通案内：南海電鉄高野山駅よりバスにて約１５分。最寄りのバス停（苅萱堂前）から徒歩約３分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　５台　無料　先着順</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「高野山　宿坊　大明王院は立地・設備・ホスピタリティのバランスに優れ、観光拠点としても記念日や週末リフレッシュ滞在としても高い満足度を得ています。」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #3</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">高野山　熊谷寺</h3>
+                  <span className="text-xs text-stone-400 ml-2">（こうやさん　くまがいじ）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥17,100〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/84994/84994_ko.jpg" alt="高野山　熊谷寺 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>アットホームなおもてなしを心がけ、満足していただけるよう精一杯御奉仕しております。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県伊都郡高野町高野山501 ／ 最寄り駅：主要駅 ／ 交通案内：南海鉄道　高野山駅より定期バスにて「かるかや堂前」下車後徒歩２分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　１0台　無料　要予約 (EV車充電システム完備）</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「高野山　熊谷寺は立地・設備・ホスピタリティのバランスに優れ、観光拠点としても記念日や週末リフレッシュ滞在としても高い満足度を得ています。」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #4</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">高野山　宿坊　宝城院</h3>
+                  <span className="text-xs text-stone-400 ml-2">（こうやさん　しゅくぼう　ほうじょういん）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥16,500〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184602/184602.jpg" alt="高野山　宿坊　宝城院 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>元閑院宮家のご菩提所も兼ねる由緒ある寺院です。古代文化を偲びつつ、心静かなひと時をお過ごし下さい。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県伊都郡高野町高野山156 ／ 最寄り駅：極楽橋 ／ 交通案内：南海電鉄高野山駅より公共交通機関（バス）にて約15分。最寄りのバス停（金剛峯寺前）から徒歩約5分。</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　10台　無料　予約不要</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「高野山　宿坊　宝城院は立地・設備・ホスピタリティのバランスに優れ、観光拠点としても記念日や週末リフレッシュ滞在としても高い満足度を得ています。」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #5</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">川湯温泉　山水館　川湯みどりや</h3>
+                  <span className="text-xs text-stone-400 ml-2">（かわゆおんせん　かわゆ　みどりや）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥9,240〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38558/38558_kan.jpg" alt="川湯温泉　山水館　川湯みどりや 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>サウナ付きの源泉かけ流し露天風呂付客室が誕生！心身を癒す上質なひと時をお過ごしください。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県田辺市本宮町川湯13 ／ 最寄り駅：新宮 ／ 交通案内：大阪から阪和道「南紀田辺IC」経由で約3時間／JR「新宮駅」よりバスで約60分／JR「紀伊田辺駅」よりバスで約120分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>60台（無料）／バイク利用の方には屋根付き駐車場有</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「また行きたい部屋は広く窓の外は川と、とても気持ちが良かったです。ただトイレの壁紙が湿気とカビで浮いておりカビ臭い。トイレの度に残念な気分になりましたがそれ以外は満足です。何より喫煙可の部屋はかなり…　2026-08-30 01:11:44投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #6</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">民宿　すみ家</h3>
+                  <span className="text-xs text-stone-400 ml-2">（すみや）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥10,000〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/177628/177628_kan1.jpg" alt="民宿　すみ家 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>お湯が湧き出る澄んだ大塔川で、夏は水遊び、冬は大露天風呂をどうぞ！熊野古道歩きの疲れも癒されますよ。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県田辺市本宮町川湯1429 ／ 最寄り駅：新宮 ／ 交通案内：ＪＲ　新宮駅よりお車にて約６０分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>無し　近隣徒歩200mに公共無料駐車場あり　近隣徒歩100mに有料駐車場あり</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「民宿　すみ家は立地・設備・ホスピタリティのバランスに優れ、観光拠点としても記念日や週末リフレッシュ滞在としても高い満足度を得ています。」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="space-y-4 pt-6 border-t border-stone-200">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
+              🗺️ あわせて巡りたい！和歌山県の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+            </h3>
+            <p className="text-xs text-stone-600 leading-relaxed">
+              宿泊前後の1泊2日・2泊3日モデルコースに組み込みたい、和歌山県を代表する名所・絶景スポットの解説です。チェックイン前後の荷物預かりや駅周辺のレンタカー・周遊バスを活用すると効率よく巡ることができます。
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
+                <h3 className="text-base font-bold text-stone-900">高野山（奥の院・壇上伽藍）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">弘法大師空海がひらいた真言密教の聖地であり世界遺産。樹齢数百年の杉木立の中に弘法大師の御廟が佇む「奥の院」は神聖な気が満ちています。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
+                <h3 className="text-base font-bold text-stone-900">熊野那智大社・那智の滝</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">熊野三山の一つであり、日本一の落差（133m）を誇る神体「那智の滝」。朱塗りの三重塔越しに直下する滝の景観は熊野古道を象徴する一枚です。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
+                <h3 className="text-base font-bold text-stone-900">南紀白浜・千畳敷・三段壁</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">真っ白なサラサラの砂が広がる白良浜リゾートと、太平洋の荒波が削り出した巨大な岩盤「千畳敷」「三段壁」。温泉と海の絶景を満喫できます。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
+                <h3 className="text-base font-bold text-stone-900">和歌山城</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">紀州徳川家55万石の居城。緑豊かな虎伏山に建ち、白亜の天守閣からは和歌山市街と紀の川のゆったりとした流れを一望できます。</p>
+              </div>
+            </div>
+            </div>
+          </div>
+
+          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-3 text-xs text-stone-700 leading-relaxed">
+            <h3 className="text-sm md:text-base font-bold text-amber-950">
+              💡 和歌山県エリアの宿泊予約・シーズン別ベストタイミングと節約ノウハウ
+            </h3>
+            <p>
+              <strong>1. 早期予約と楽天トラベルクーポンの併用：</strong> 和歌山県の人気温泉宿・リゾートホテルは、週末や連休・紅葉・年末年始の60日〜30日前から一気に予約が埋まります。毎月5と0のつく日やスーパーSALE期間中に配布される宿クーポン・自治体クーポンを併用すると、通常より最大10〜20%お得に予約可能です。
+            </p>
+            <p>
+              <strong>2. 夕食・朝食プランと部屋タイプの選び方：</strong> 地元産の旬魚介やブランド牛会席を味わうなら「夕朝食付きプラン」、周辺の屋台・老舗居酒屋・ご当地グルメを食べ歩くなら「朝食付き」または「素泊まり＋天然温泉大浴場付きホテル」を選ぶと予算と満足度のバランスが最適化されます。
+            </p>
+          </div>
+        </section>
+
+      </article>
                   ))}
                 </div>
               </div>

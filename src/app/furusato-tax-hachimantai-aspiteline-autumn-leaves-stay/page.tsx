@@ -405,11 +405,6 @@ export default function FeatureArticlePage() {
           <span>← 特集記事一覧に戻る</span>
         </Link>
       </footer>
-    
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -492,7 +487,22 @@ export default function FeatureArticlePage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/autumn-budget-iwate-morioka-castle-momiji-noodles-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">盛岡：盛岡城跡公園の紅葉絵巻と三大麺巡り！格安・高コスパホテル5選</span>
+            </a>
+            <a href="/furusato-tax-rare-wagyu-tankaku-akagyu-gourmet-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">幻の極上赤身肉「短角牛・あか牛」美食温泉宿×ふるさと納税厳選ガイド岩手・熊本阿蘇・高知土佐</span>
+            </a>
+            <a href="/iwate-tono-folklore-kappa-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">岩手・遠野＆カッパ淵：遠野物語の民話の里・南部曲り家＆ジンギスカン・暮坪かぶ宿 厳選ガイド</span>
+            </a>
+            <a href="/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">花巻温泉郷で過ごす冬の旅（11・12月）！極上前沢牛！名宿5選</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

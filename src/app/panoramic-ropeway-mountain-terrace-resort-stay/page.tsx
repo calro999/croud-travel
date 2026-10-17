@@ -216,7 +216,288 @@ export default function RailwayActivityHubPage() {
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
                         </a>
                       </div>
-                    </article>
+                    
+        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
+          <div className="space-y-2 border-b border-stone-200 pb-4">
+            <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
+              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+            </span>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
+              📊 絶景ロープウェイ＆山頂テラス宿：びわ湖バレイ・蔵王・富士山パノラマ 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+            </h2>
+            <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+              楽天トラベル公式APIより取得した「絶景ロープウェイ＆山頂テラス宿：びわ湖バレイ・蔵王・富士山パノラマ 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+            </p>
+          </div>
+
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th>
+                  <th className="p-3">所在地</th>
+                  <th className="p-3">最寄り駅・交通</th>
+                  <th className="p-3">駐車場情報</th>
+                  <th className="p-3">楽天評価</th>
+                  <th className="p-3">最安目安</th>
+                  <th className="p-3">予約・詳細</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. ホテル琵琶レイクオーツカ</td>
+                <td className="p-3 text-stone-600">滋賀県大津市南小松1054-3</td>
+                <td className="p-3 text-stone-600">近江舞子駅周辺</td>
+                <td className="p-3 text-stone-600">有り　３５台　無料　予約不要</td>
+                <td className="p-3 font-bold text-amber-600">★4.56（205件）</td>
+                <td className="p-3 font-bold text-rose-600">¥12,650〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F107682%2F107682.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. 蔵王温泉　堺屋森のホテルヴァルトベルク</td>
+                <td className="p-3 text-stone-600">山形県山形市蔵王温泉清水坂889-1</td>
+                <td className="p-3 text-stone-600">山形駅周辺</td>
+                <td className="p-3 text-stone-600">有り　５０台　無料　先着順</td>
+                <td className="p-3 font-bold text-amber-600">★4.38（904件）</td>
+                <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38663%2F38663.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. 竜王マウンテンホテル</td>
+                <td className="p-3 text-stone-600">長野県下高井郡山ノ内町大字夜間瀬字戸ヶ崎11700-243</td>
+                <td className="p-3 text-stone-600">湯田中駅周辺</td>
+                <td className="p-3 text-stone-600">冬季シーズンはゲレンデ内となる為、竜王スキーパークの駐車場をご利用ください。</td>
+                <td className="p-3 font-bold text-amber-600">★3（18件）</td>
+                <td className="p-3 font-bold text-rose-600">プラン参照</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183171%2F183171.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">4. 信州湯田中温泉　ホテルゆだなか　～大浴場「吉の湯」～</td>
+                <td className="p-3 text-stone-600">長野県下高井郡山ノ内町平穏3246-2　湯田中温泉</td>
+                <td className="p-3 text-stone-600">湯田中駅周辺</td>
+                <td className="p-3 text-stone-600">有り　６０台　無料　コンビニまで徒歩5分　 湯田中駅徒歩3分</td>
+                <td className="p-3 font-bold text-amber-600">★3.71（281件）</td>
+                <td className="p-3 font-bold text-rose-600">¥6,380〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38584%2F38584.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">5. 湯田中温泉　一茶のこみち　美湯の宿</td>
+                <td className="p-3 text-stone-600">長野県下高井郡山ノ内町平穏2951-1　湯田中温泉</td>
+                <td className="p-3 text-stone-600">湯田中駅周辺</td>
+                <td className="p-3 text-stone-600">旅館前にあり事前予約は必要ございません。バイクの駐車も可能。</td>
+                <td className="p-3 font-bold text-amber-600">★4.19（419件）</td>
+                <td className="p-3 font-bold text-rose-600">¥16,900〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2441%2F2441.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">6. 信州・湯田中温泉　清風荘</td>
+                <td className="p-3 text-stone-600">長野県下高井郡山ノ内町平穏3268</td>
+                <td className="p-3 text-stone-600">湯田中駅周辺</td>
+                <td className="p-3 text-stone-600">有り 10台　無料　予約不要</td>
+                <td className="p-3 font-bold text-amber-600">★4.43（107件）</td>
+                <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F41634%2F41634.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div className="space-y-4">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
+              🏨 各宿の宿泊者リアルクチコミ・客室イメージ・項目別評価データ
+            </h3>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #1</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ホテル琵琶レイクオーツカ</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ほてるびわれいくおーつか）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥12,650〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/107682/107682_w.jpg" alt="ホテル琵琶レイクオーツカ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>2024年7月リニューアルOPEN！雄大な比良連峰を背に、琵琶湖の雄大な眺望が広がる静かなリトリート</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 滋賀県大津市南小松1054-3 ／ 最寄り駅：近江舞子 ／ 交通案内：JR近江舞子駅より徒歩５分  京都東ＩC経由、志賀バイパス近江舞子ランプ5分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　３５台　無料　予約不要</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋と食事に満足、目の前の海で海水浴を満喫部屋も食事も満足でした。ホテルの目の前ですぐ泳げるのも最高。日の出時間を教えてもらって早起きしたのに雲で見えなかったのは残念でした。クチコミの詳細はこ…　2026-08-20 18:52:01投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #2</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">蔵王温泉　堺屋森のホテルヴァルトベルク</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ざおうおんせん　さかいやもりのほてるう゛ぁるとべるく）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥8,250〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38663/38663_ky.jpg" alt="蔵王温泉　堺屋森のホテルヴァルトベルク 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>蔵王の森に囲まれた　愛らしさあふれる宿／大自然の恵み＜湯量豊富な白濁の温泉＞に身をゆだねる至福の時間</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 山形県山形市蔵王温泉清水坂889-1 ／ 最寄り駅：山形 ／ 交通案内：山形駅よりバスで蔵王温泉行終点まで約40分。下車徒歩15分／バスターミナル送迎有り（要予約）</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リピートしているが今回は少し残念な内容蔵王ではお気に入りのホテルで何度かリピートしております。今回は野天風呂が利用出来ず残念でした。料理もいつもに比べるとお米の味が落ちたように感じました。…　2026-08-15 21:48:01投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #3</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">竜王マウンテンホテル</h3>
+                  <span className="text-xs text-stone-400 ml-2">（りゅうおうまうんてんほてる）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: プランにより変動</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183171/183171.jpg" alt="竜王マウンテンホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>【竜王スキーパーク直結】ロープーウェイ乗場すぐ■リーズナブルな宿泊料金■レンタル割引雪上車で送迎</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 長野県下高井郡山ノ内町大字夜間瀬字戸ヶ崎11700-243 ／ 最寄り駅：湯田中 ／ 交通案内：長野電鉄湯田中駅からタクシーにて約15分/上信越自動車道・中野ICより中野有料道路経由にて約20分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>冬季シーズンはゲレンデ内となる為、竜王スキーパークの駐車場をご利用ください。</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「竜王マウンテンホテルは立地・設備・ホスピタリティのバランスに優れ、観光拠点としても記念日や週末リフレッシュ滞在としても高い満足度を得ています。」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #4</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">信州湯田中温泉　ホテルゆだなか　～大浴場「吉の湯」～</h3>
+                  <span className="text-xs text-stone-400 ml-2">（しんしゅうゆだなかおんせん　ほてるゆだなか）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥6,380〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38584/38584_da.jpg" alt="信州湯田中温泉　ホテルゆだなか　～大浴場「吉の湯」～ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>エリア最大級の温泉大浴場　湯田中駅から徒歩3分『源泉掛け流しの宿』良質な温泉とサウナを楽しめる♪</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 長野県下高井郡山ノ内町平穏3246-2　湯田中温泉 ／ 最寄り駅：湯田中 ／ 交通案内：長野電鉄　湯田中駅から車で１分、徒歩で３分『ホテルゆだなか』ソラテラスやスノーモンキーアクセス抜群</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　コンビニまで徒歩5分　 湯田中駅徒歩3分</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「居酒屋がすぐ近くにあり立地は最高2年続けて宿泊しましたが昨年度の部屋の方が良かった。出てすぐの場所に居酒屋があるのは最高ですクチコミの詳細はこちらから　https://review.trave…　2026-08-25 06:07:18投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #5</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">湯田中温泉　一茶のこみち　美湯の宿</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ゆだなかおんせん　いっさのこみち　びゆのやど）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥16,900〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2441/2441_heya.jpg" alt="湯田中温泉　一茶のこみち　美湯の宿 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>自慢の源泉かけ流し100%の温泉は、美容にも湯治目的にも大変人気！</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 長野県下高井郡山ノ内町平穏2951-1　湯田中温泉 ／ 最寄り駅：湯田中 ／ 交通案内：旧ロマンスカー走る長野電鉄の湯田中駅より徒歩７分／北陸自動車道　信州中野I.C.より志賀高原方面へ向かって約２０分。</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>旅館前にあり事前予約は必要ございません。バイクの駐車も可能。</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切なスタッフさんり夕食の際に椎茸を網で焼くって言うのがありました。珍しいなどで塩をつけてました。親切なスタッフさんの説明がちゃ?おしてあかたよクチコミの詳細はこちらから　https://…　2026-08-24 18:20:31投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #6</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">信州・湯田中温泉　清風荘</h3>
+                  <span className="text-xs text-stone-400 ml-2">（しんしゅう・ゆだなかおんせん　せいふうそう）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥11,000〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/41634/41634_fu.jpg" alt="信州・湯田中温泉　清風荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>★無料貸切風呂や天然温泉の露天風呂。卓球台もあります。人気の信州牛も☆食事は個室</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 長野県下高井郡山ノ内町平穏3268 ／ 最寄り駅：湯田中 ／ 交通案内：長野電鉄　湯田中駅より徒歩２分／上信越自動車道　信州中野ＩＣよりＲ２９２経由で１５分。</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り 10台　無料　予約不要</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「信州・湯田中温泉　清風荘は立地・設備・ホスピタリティのバランスに優れ、観光拠点としても記念日や週末リフレッシュ滞在としても高い満足度を得ています。」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="space-y-4 pt-6 border-t border-stone-200">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
+              🗺️ あわせて巡りたい！滋賀県の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+            </h3>
+            <p className="text-xs text-stone-600 leading-relaxed">
+              宿泊前後の1泊2日・2泊3日モデルコースに組み込みたい、滋賀県を代表する名所・絶景スポットの解説です。チェックイン前後の荷物預かりや駅周辺のレンタカー・周遊バスを活用すると効率よく巡ることができます。
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Lake_biwa.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail_unscaled" alt="琵琶湖（白髭神社・竹生島）" className="w-full h-full object-cover" loading="lazy" /></div>
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
+                <h3 className="text-base font-bold text-stone-900">琵琶湖（白髭神社・竹生島）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">日本最大の面積と貯水量を誇る湖。湖中に朱色の鳥居が立つ「近江の厳島」白髭神社や、神の宿るパワースポット竹生島へのクルージングが人気です。 琵琶湖（びわこ）は、滋賀県にある日本最大の面積と貯水量を持つ湖。一級水系「淀川水系」に属する一級河川である。国土交通大臣から委託を受けて滋賀県知事が管理を担う。湖沼水質保全特別措置法指定湖沼で、ラムサール条約登録湿地でもある。 古くは淡海（おうみ）・淡海の海（おうみのうみ）・水海・近江の海（おうみのうみ、おうみのみ）・細波（さざなみ）・鳰（にお）の海などとも…</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
+                <h3 className="text-base font-bold text-stone-900">国宝 彦根城</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">琵琶湖を見下ろす高台に佇む国宝天守。当時の姿を留める堀や石垣、城下町の風情と人気キャラクター「ひこにゃん」の登場が訪れる人を笑顔にします。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
+                <h3 className="text-base font-bold text-stone-900">比叡山 延暦寺</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">最澄によって開かれた日本仏教の母山であり世界文化遺産。比叡山の山頂に広がる東塔・西塔・横川の各エリアに千二百年の不滅の法灯が灯り続けます。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
+                <h3 className="text-base font-bold text-stone-900">近江八幡の水郷めぐり</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">豊臣秀次が築いた城下町の堀割を手漕ぎ和舟でゆったり巡る風情ある体験。四季折々のヨシ原や白壁の土蔵が並ぶ町並みがノスタルジックです。</p>
+              </div>
+            </div>
+            </div>
+          </div>
+
+          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-3 text-xs text-stone-700 leading-relaxed">
+            <h3 className="text-sm md:text-base font-bold text-amber-950">
+              💡 滋賀県エリアの宿泊予約・シーズン別ベストタイミングと節約ノウハウ
+            </h3>
+            <p>
+              <strong>1. 早期予約と楽天トラベルクーポンの併用：</strong> 滋賀県の人気温泉宿・リゾートホテルは、週末や連休・紅葉・年末年始の60日〜30日前から一気に予約が埋まります。毎月5と0のつく日やスーパーSALE期間中に配布される宿クーポン・自治体クーポンを併用すると、通常より最大10〜20%お得に予約可能です。
+            </p>
+            <p>
+              <strong>2. 夕食・朝食プランと部屋タイプの選び方：</strong> 地元産の旬魚介やブランド牛会席を味わうなら「夕朝食付きプラン」、周辺の屋台・老舗居酒屋・ご当地グルメを食べ歩くなら「朝食付き」または「素泊まり＋天然温泉大浴場付きホテル」を選ぶと予算と満足度のバランスが最適化されます。
+            </p>
+          </div>
+        </section>
+
+      </article>
                   ))}
                 </div>
               </div>

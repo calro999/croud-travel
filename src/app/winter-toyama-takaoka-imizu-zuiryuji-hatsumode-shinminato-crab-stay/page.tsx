@@ -467,8 +467,6 @@ export default function ToyamaTakaokaImizuWinterPage() {
               ))}
             </div>
           </section>
-
-          {/* Model Course Section */}
           <section className="bg-white rounded-3xl p-6 md:p-10 border border-slate-200 shadow-sm space-y-6">
             <div className="border-l-4 border-blue-600 pl-4">
               <span className="text-xs font-bold text-blue-600 uppercase tracking-widest block">RECOMMENDED ITINERARY</span>

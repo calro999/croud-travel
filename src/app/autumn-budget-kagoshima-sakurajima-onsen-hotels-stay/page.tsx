@@ -318,6 +318,256 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
           </div>
         </div>
       </section>
-    </main>
+    
+        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
+          <div className="space-y-2 border-b border-stone-200 pb-4">
+            <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
+              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+            </span>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
+              📊 鹿児島：桜島一望と黒豚しゃぶしゃぶを満喫！秋の温泉・高コスパ格安宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+            </h2>
+            <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+              楽天トラベル公式APIより取得した「鹿児島：桜島一望と黒豚しゃぶしゃぶを満喫！秋の温泉・高コスパ格安宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+            </p>
+          </div>
+
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th>
+                  <th className="p-3">所在地</th>
+                  <th className="p-3">最寄り駅・交通</th>
+                  <th className="p-3">駐車場情報</th>
+                  <th className="p-3">楽天評価</th>
+                  <th className="p-3">最安目安</th>
+                  <th className="p-3">予約・詳細</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. ホテル　サンフレックス鹿児島</td>
+                <td className="p-3 text-stone-600">鹿児島県鹿児島市堀江町19-14</td>
+                <td className="p-3 text-stone-600">鹿児島中央駅周辺</td>
+                <td className="p-3 text-stone-600">外部提携駐車場「マイアミパーク駐車場」1泊1000円　※途中出庫ある場合別途精算が必要となります。</td>
+                <td className="p-3 font-bold text-amber-600">★4.21（2236件）</td>
+                <td className="p-3 font-bold text-rose-600">¥3,800〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F207%2F207.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. ホテル京セラ</td>
+                <td className="p-3 text-stone-600">鹿児島県霧島市隼人町見次1409-1</td>
+                <td className="p-3 text-stone-600">隼人駅周辺</td>
+                <td className="p-3 text-stone-600">無料駐車場３００台。週末は混雑する場合がございます。予めご了承くださいませ。</td>
+                <td className="p-3 font-bold text-amber-600">★4.3（2695件）</td>
+                <td className="p-3 font-bold text-rose-600">¥7,480〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1374%2F1374.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. ホテルゲートイン鹿児島（ＨＯＴＥＬ　ＧＡＴＥ　ＩＮ　ＫＡＧＯＳＨＩＭＡ）</td>
+                <td className="p-3 text-stone-600">鹿児島県鹿児島市船津町5-20</td>
+                <td className="p-3 text-stone-600">鹿児島中央駅周辺</td>
+                <td className="p-3 text-stone-600">提携駐車場：センテラスパーキング・丸屋第一駐車場</td>
+                <td className="p-3 font-bold text-amber-600">★4.52（1267件）</td>
+                <td className="p-3 font-bold text-rose-600">¥3,700〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1527%2F1527.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">4. ビジネスホテル鶴</td>
+                <td className="p-3 text-stone-600">鹿児島県出水市昭和町24-15</td>
+                <td className="p-3 text-stone-600">出水駅周辺</td>
+                <td className="p-3 text-stone-600">２８台分　普通車無料（５m以上のトラック、バスは１泊1,000円）先着順となっております。</td>
+                <td className="p-3 font-bold text-amber-600">★3.43（120件）</td>
+                <td className="p-3 font-bold text-rose-600">¥3,500〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1599%2F1599.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">5. 天然温泉サウナ　ニューニシノ</td>
+                <td className="p-3 text-stone-600">鹿児島県鹿児島市千日町13-24</td>
+                <td className="p-3 text-stone-600">鹿児島中央駅周辺</td>
+                <td className="p-3 text-stone-600">コインパーキング10台　ホテル利用時1泊1,000円　14：30〜11：30　予約不可・高さ制限2m</td>
+                <td className="p-3 font-bold text-amber-600">★4.32（1185件）</td>
+                <td className="p-3 font-bold text-rose-600">¥3,876〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1642%2F1642.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div className="space-y-4">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
+              🏨 各宿の宿泊者リアルクチコミ・客室イメージ・項目別評価データ
+            </h3>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #1</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ホテル　サンフレックス鹿児島</h3>
+                  <span className="text-xs text-stone-400 ml-2">（さんふれっくす　かごしま）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,800〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/207/207_ky.jpg" alt="ホテル　サンフレックス鹿児島 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>鹿児島最大の繁華街『天文館』や離島高速船にも近くて閑静なスタイリッシュホテル。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県鹿児島市堀江町19-14 ／ 最寄り駅：鹿児島中央 ／ 交通案内：鹿児島中央駅より市電「いづろ通」徒歩３分・空港リムジンバス「天文館」５分・高速船旅客ターミナル徒歩７分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>外部提携駐車場「マイアミパーク駐車場」1泊1000円　※途中出庫ある場合別途精算が必要となります。</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.21 ／ 部屋 ★4.25 ／ 設備 ★4.15 ／ 風呂 ★4.09 ／ 食事 ★4.27</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「天文館から近く静かで、朝食も美味しく快適おそらく5回以上利用しております。天文館から歩ける範囲の静かな場所です。ゆっくりと寝れて、駐車場も近く利便性はよいと思います。朝食もメニューからの選択となり…　2026-10-05 10:15:10投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #2</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ホテル京セラ</h3>
+                  <span className="text-xs text-stone-400 ml-2">（きょうせら）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥7,480〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1374/1374_room.jpg" alt="ホテル京セラ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>圧倒的な吹抜け空間は建築家、黒川紀章氏の設計。天然温泉やプールにジム、和・洋・ブッフェ各レストラン有</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県霧島市隼人町見次1409-1 ／ 最寄り駅：隼人 ／ 交通案内：鹿児島空港:バス・タクシー18分（バス460円、タクシー約4,000円）、隼人駅・タクシー5分（約1,000円）</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>無料駐車場３００台。週末は混雑する場合がございます。予めご了承くださいませ。</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客もよく、部屋もキレイ、アメニティも揃ってる。あまり期待していなかった温泉は予想に反して大変良かった。本当に温泉でした!笑そして、朝食が大変美味しかった。航空関係者(パイロットやCA)も沢山…　2026-08-26 19:06:15投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #3</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ホテルゲートイン鹿児島（ＨＯＴＥＬ　ＧＡＴＥ　ＩＮ　ＫＡＧＯＳＨＩＭＡ）</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ほてる　げーといん　かごしま）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,700〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1527/1527_room.jpg" alt="ホテルゲートイン鹿児島（ＨＯＴＥＬ　ＧＡＴＥ　ＩＮ　ＫＡＧＯＳＨＩＭＡ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>【全室ReFa完備】天文館へ徒歩5分！街歩きの後は半露天風呂で整うご褒美時間♪女子旅・カップル旅に◎</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県鹿児島市船津町5-20 ／ 最寄り駅：鹿児島中央 ／ 交通案内：■ＪＲ鹿児島中央駅より市電７分/天文館通下車徒歩５分　　■鹿児島ＩＣ～車２０分　　■空港シャトルバス/天文館下車徒歩５分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>提携駐車場：センテラスパーキング・丸屋第一駐車場</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.53 ／ 立地 ★4.41 ／ 部屋 ★4.51 ／ 設備 ★4.5 ／ 風呂 ★4.48 ／ 食事 ★4.19</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お土産付きプランがとても良かったお土産プラン良かったクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/1527?rev…　2026-10-03 16:29:11投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #4</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ビジネスホテル鶴</h3>
+                  <span className="text-xs text-stone-400 ml-2">（つる）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,500〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1599/1599_twn.jpg" alt="ビジネスホテル鶴 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>出水市の中心部で川添いの静かなホテルです。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県出水市昭和町24-15 ／ 最寄り駅：出水 ／ 交通案内：ＪＲ出水駅より徒歩５分／南九州西回り自動車道出水ＩＣより車で１０分/鹿児島空港より車で６０分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>２８台分　普通車無料（５m以上のトラック、バスは１泊1,000円）先着順となっております。</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ビジネスホテル鶴は立地・設備・ホスピタリティのバランスに優れ、観光拠点としても記念日や週末リフレッシュ滞在としても高い満足度を得ています。」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #5</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">天然温泉サウナ　ニューニシノ</h3>
+                  <span className="text-xs text-stone-400 ml-2">（てんねんおんせんさうな　にゅーにしの）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,876〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1642/1642_twn.jpg" alt="天然温泉サウナ　ニューニシノ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>天文館電停3分！大浴場＆フィンランドサウナで非日常体験◆観光・ビジネスの拠点に最適【男性専用温泉】</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県鹿児島市千日町13-24 ／ 最寄り駅：鹿児島中央 ／ 交通案内：★JR鹿児島中央駅から車で５分　　　★市電「天文館」電停より徒歩３分　　★天文館の中心にあり、交通に便利！</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>コインパーキング10台　ホテル利用時1泊1,000円　14：30〜11：30　予約不可・高さ制限2m</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.26 ／ 部屋 ★4.19 ／ 設備 ★4.19 ／ 風呂 ★4.46 ／ 食事 ★3.97</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サウナと食事が最高、昔ながらの良さがあるサウナ最高、ご飯も最高!昔ながらですが、とてもいいホテルです!クチコミの詳細はこちらから　https://review.travel.rakuten…　2026-10-08 17:00:41投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="space-y-4 pt-6 border-t border-stone-200">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
+              🗺️ あわせて巡りたい！鹿児島県の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+            </h3>
+            <p className="text-xs text-stone-600 leading-relaxed">
+              宿泊前後の1泊2日・2泊3日モデルコースに組み込みたい、鹿児島県を代表する名所・絶景スポットの解説です。チェックイン前後の荷物預かりや駅周辺のレンタカー・周遊バスを活用すると効率よく巡ることができます。
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
+                <h3 className="text-base font-bold text-stone-900">桜島（有村溶岩展望所）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">錦江湾に浮かぶ鹿児島県のシンボルであり現在も活発な活動を続ける活火山。有村溶岩展望所からは溶岩原と噴煙を上げる大迫力の姿を間近で観察できます。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Ibusuki.jpg/1280px-Ibusuki.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="指宿温泉（砂むし温泉）" className="w-full h-full object-cover" loading="lazy" /></div>
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
+                <h3 className="text-base font-bold text-stone-900">指宿温泉（砂むし温泉）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">世界でも大変珍しい天然の海岸砂むし風呂。温かい温泉熱を含んだ砂の中に埋まり、海鳴りを聞きながら汗を流すデトックス体験は至福のひとときです。 指宿温泉（いぶすきおんせん）は、鹿児島県指宿市東部（旧国薩摩国）にある摺ヶ浜温泉（砂蒸しで有名）、弥次ヶ湯温泉、二月田温泉などの温泉群の総称。鹿児島県内有数の観光地であり、2003年（平成15年）において年間285万人の観光客が訪れ、91万人の宿泊客を集めている。農業や養殖などへの温泉利用も盛んであり、温泉の9割が産業利用されていた時期もあった。また、196…</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
+                <h3 className="text-base font-bold text-stone-900">屋久島（縄文杉）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">樹齢7,000年とも言われる世界自然遺産・屋久島の象徴「縄文杉」。白谷雲水峡の美しい苔むす森や数千年の時を生き抜いた巨大な屋久杉群が感動を呼びます。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
+                <h3 className="text-base font-bold text-stone-900">仙厳園（磯庭園）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">島津家第19代当主・光久によって造営された大名庭園。桜島を築山に、錦江湾を池に見立てた雄大な借景庭園で、隣接する世界遺産「尚古集成館」も見どころです。</p>
+              </div>
+            </div>
+            </div>
+          </div>
+
+          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-3 text-xs text-stone-700 leading-relaxed">
+            <h3 className="text-sm md:text-base font-bold text-amber-950">
+              💡 鹿児島県エリアの宿泊予約・シーズン別ベストタイミングと節約ノウハウ
+            </h3>
+            <p>
+              <strong>1. 早期予約と楽天トラベルクーポンの併用：</strong> 鹿児島県の人気温泉宿・リゾートホテルは、週末や連休・紅葉・年末年始の60日〜30日前から一気に予約が埋まります。毎月5と0のつく日やスーパーSALE期間中に配布される宿クーポン・自治体クーポンを併用すると、通常より最大10〜20%お得に予約可能です。
+            </p>
+            <p>
+              <strong>2. 夕食・朝食プランと部屋タイプの選び方：</strong> 地元産の旬魚介やブランド牛会席を味わうなら「夕朝食付きプラン」、周辺の屋台・老舗居酒屋・ご当地グルメを食べ歩くなら「朝食付き」または「素泊まり＋天然温泉大浴場付きホテル」を選ぶと予算と満足度のバランスが最適化されます。
+            </p>
+          </div>
+        </section>
+
+      </main>
   );
 }

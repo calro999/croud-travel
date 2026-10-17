@@ -399,11 +399,6 @@ export default function ArticlePage() {
           </a>
         </div>
       </section>
-    
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -450,7 +445,22 @@ export default function ArticlePage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/traditional-shiga-omi-beef-funazushi-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">極上近江牛ステーキ＆伝統鮒ずし：琵琶湖の恵みと名湯！おごと温泉の絶景美食宿5選</span>
+            </a>
+            <a href="/winter-shiga-ogoto-onsen-biwako-omigyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">滋賀・おごと温泉で過ごす冬の旅（11・12月）！特選近江牛！名宿5選</span>
+            </a>
+            <a href="/winter-shizuoka-nishiizu-dogashima-onsen-sunset-fuji-takaashigani-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">西伊豆堂ヶ島温泉で過ごす冬の旅（11・12月）！伊勢海老！名宿5選</span>
+            </a>
+            <a href="/furusato-tax-omihachiman-suigo-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">近江八幡の水郷めぐり手漕ぎ舟紅葉＆八幡堀の白壁土蔵！近江牛会席の宿×ふるさと納税厳選ガイド滋賀</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

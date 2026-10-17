@@ -372,8 +372,6 @@ export default function SaitamaKawagoeKoedoWinterPage() {
             </div>
           </div>
         </section>
-
-        {/* Model Course Section */}
         <section className="bg-stone-900 text-white rounded-3xl p-6 sm:p-10 space-y-8">
           <div className="border-b border-stone-800 pb-4">
             <span className="text-amber-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Course</span>

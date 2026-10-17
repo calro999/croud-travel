@@ -351,6 +351,256 @@ export default function HiroshimaBudgetAutumnPage() {
           </ul>
         </section>
       </div>
-    </article>
+    
+        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
+          <div className="space-y-2 border-b border-stone-200 pb-4">
+            <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
+              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+            </span>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
+              📊 秋の広島×格安：縮景園の紅葉ライトアップと旬の牡蠣・お好み焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+            </h2>
+            <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+              楽天トラベル公式APIより取得した「秋の広島×格安：縮景園の紅葉ライトアップと旬の牡蠣・お好み焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+            </p>
+          </div>
+
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th>
+                  <th className="p-3">所在地</th>
+                  <th className="p-3">最寄り駅・交通</th>
+                  <th className="p-3">駐車場情報</th>
+                  <th className="p-3">楽天評価</th>
+                  <th className="p-3">最安目安</th>
+                  <th className="p-3">予約・詳細</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. アパホテル〈広島駅前大橋〉</td>
+                <td className="p-3 text-stone-600">広島県広島市南区京橋町2-26</td>
+                <td className="p-3 text-stone-600">広島駅周辺</td>
+                <td className="p-3 text-stone-600">先着順　入庫から24時間で1500円　入出庫：7：00-22：00　大きさ制限あり　詳細はホテルへ</td>
+                <td className="p-3 font-bold text-amber-600">★4.25（5088件）</td>
+                <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F153290%2F153290.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. トラストホテル</td>
+                <td className="p-3 text-stone-600">広島県広島市東区光町1-14-10</td>
+                <td className="p-3 text-stone-600">広島駅周辺</td>
+                <td className="p-3 text-stone-600">最大2台まで。電話予約受付（082-569-6433）高さ制限2ｍ以下　1泊1100円</td>
+                <td className="p-3 font-bold text-amber-600">★4.2（753件）</td>
+                <td className="p-3 font-bold text-rose-600">¥3,600〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183824%2F183824.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. 広島パシフィックホテル</td>
+                <td className="p-3 text-stone-600">広島県広島市中区上八丁堀8-16</td>
+                <td className="p-3 text-stone-600">広島駅周辺</td>
+                <td className="p-3 text-stone-600">鯉城ガレージ1泊1,200円税込(15時〜翌11時出入れなし）</td>
+                <td className="p-3 font-bold text-amber-600">★4.13（2859件）</td>
+                <td className="p-3 font-bold text-rose-600">¥4,075〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F3145%2F3145.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">4. アパホテル〈広島駅前新幹線口〉</td>
+                <td className="p-3 text-stone-600">広島県広島市東区上大須賀町2-29</td>
+                <td className="p-3 text-stone-600">広島駅周辺</td>
+                <td className="p-3 text-stone-600">16台（先着順、予約不可）、【料金】入庫から24時間 1,500円【時間外】 30分につき200円</td>
+                <td className="p-3 font-bold text-amber-600">★4.15（636件）</td>
+                <td className="p-3 font-bold text-rose-600">¥4,275〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F191892%2F191892.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">5. 天然温泉　芸州の湯　ドーミーイン広島ＡＮＮＥＸ（ドーミーイン・御宿野乃　ホテルズグループ）</td>
+                <td className="p-3 text-stone-600">広島県広島市中区田中町5-9</td>
+                <td className="p-3 text-stone-600">広島駅周辺</td>
+                <td className="p-3 text-stone-600">【先着順】機械式立体駐車場18台 平面車椅子利用者用駐車場1台（1泊15時－翌11時 2,300円）</td>
+                <td className="p-3 font-bold text-amber-600">★4.41（965件）</td>
+                <td className="p-3 font-bold text-rose-600">¥6,384〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183389%2F183389.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div className="space-y-4">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
+              🏨 各宿の宿泊者リアルクチコミ・客室イメージ・項目別評価データ
+            </h3>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #1</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">アパホテル〈広島駅前大橋〉</h3>
+                  <span className="text-xs text-stone-400 ml-2">（あぱほてる　ひろしまえきまえおおはし）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥4,500〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/153290/153290.jpg" alt="アパホテル〈広島駅前大橋〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>ご宿泊者様専用露天風呂付大浴殿完備！おいしい朝食ビュッフェ付きプランあり！</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 広島県広島市南区京橋町2-26 ／ 最寄り駅：広島 ／ 交通案内：［山陽新幹線＋JR各線］広島駅南口8番出口から徒歩4分［市内電車］広島電停から徒歩6分　［空港］広島駅から直通バス50分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>先着順　入庫から24時間で1500円　入出庫：7：00-22：00　大きさ制限あり　詳細はホテルへ</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で迷わず到着、事前チェックインでスムーズ駅から見える場所にあったので、迷わず辿り着けました。午前中に荷物を預けに行ったのですがその際、「今日は予約が多いから事前チェックインを」と進めてくだ…　2026-08-29 21:09:10投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #2</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">トラストホテル</h3>
+                  <span className="text-xs text-stone-400 ml-2">（とらすとほてる）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,600〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183824/183824.jpg" alt="トラストホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>個室とカプセルが充実のビジネスホテル、朝食無料、大浴場、広島駅より徒歩6分</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 広島県広島市東区光町1-14-10 ／ 最寄り駅：広島 ／ 交通案内：広島駅より徒歩6分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>最大2台まで。電話予約受付（082-569-6433）高さ制限2ｍ以下　1泊1100円</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.2 ／ 部屋 ★4.21 ／ 設備 ★4.12 ／ 風呂 ★4.09 ／ 食事 ★4.21</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「荷物を預けて身軽に観光、部屋のアメニティ希望チェックイン前でしたが、荷物を預かっていただいたおかげで予定の場所へ身軽で行くことができ、楽しい時間を過ごすことができました。大浴場にはありましたが…　2026-10-10 18:27:17投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #3</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">広島パシフィックホテル</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ひろしま　ぱしふぃっくほてる）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥4,075〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/3145/3145_sr.jpg" alt="広島パシフィックホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>【男性専用サウナ亀の家】100℃の熱気×オートロウリュで整う。宿泊者無料。心身をリセットし再起動！</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 広島県広島市中区上八丁堀8-16 ／ 最寄り駅：広島 ／ 交通案内：JR広島駅からタクシー約5分。路面電車なら「女学院前」徒歩1分。迷わず着ける好立地。</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>鯉城ガレージ1泊1,200円税込(15時〜翌11時出入れなし）</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.04 ／ 部屋 ★3.99 ／ 設備 ★4.03 ／ 風呂 ★4.27 ／ 食事 ★3.82</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美術館へのアクセス良中心部が近く、県立美術館に歩いて行くのに便利な立地でした。朝ごはんからカキフライあり満足でしたクチコミの詳細はこちらから　https://review.travel.rak…　2026-10-08 13:39:22投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #4</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">アパホテル〈広島駅前新幹線口〉</h3>
+                  <span className="text-xs text-stone-400 ml-2">（あぱほてるひろしまえきまえしんかんせんぐち）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥4,275〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/191892/191892.jpg" alt="アパホテル〈広島駅前新幹線口〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>大浴殿・露天風呂完備！観光・ビジネスの拠点ホテルにおすすめです。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 広島県広島市東区上大須賀町2-29 ／ 最寄り駅：広島 ／ 交通案内：山陽新幹線・JR各線「広島駅」新幹線口（北口）徒歩4分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>16台（先着順、予約不可）、【料金】入庫から24時間 1,500円【時間外】 30分につき200円</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、大浴場とコンパクトな部屋が快適部屋はキレイでアパホテルらしくコンパクトにまとまっている。大浴場があるのは嬉しくてホテルを選ぶ選択肢になるのですが、ホテルの大きさの割に少し小さいかな…　2026-08-28 15:50:55投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #5</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">天然温泉　芸州の湯　ドーミーイン広島ＡＮＮＥＸ（ドーミーイン・御宿野乃　ホテルズグループ）</h3>
+                  <span className="text-xs text-stone-400 ml-2">（てんねんおんせんげいしゅうのゆ　どーみーいんひろしまあねっくす）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥6,384〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183389/183389.jpg" alt="天然温泉　芸州の湯　ドーミーイン広島ＡＮＮＥＸ（ドーミーイン・御宿野乃　ホテルズグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>広島県に2店舗目OPEN！最上階には天然温泉と男女共に高温サウナを完備。水風呂も完備</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 広島県広島市中区田中町5-9 ／ 最寄り駅：広島 ／ 交通案内：バス：広島電鉄　エキまちループ線「田中町」下車1分、路面電車：広島電鉄「銀山町(かなやまちょう）」電停より徒歩約10分。</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>【先着順】機械式立体駐車場18台 平面車椅子利用者用駐車場1台（1泊15時－翌11時 2,300円）</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.41 ／ 立地 ★4.24 ／ 部屋 ★4.39 ／ 設備 ★4.39 ／ 風呂 ★4.46 ／ 食事 ★4.46</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋や設備自体は素晴らしいんですが...。チェックインして最上階の温泉に直行して身体を洗っていると、全身タトゥーの男が身体を洗いもせずに浴槽に直行しており、気持ち悪くなって退散しました。…　2026-10-04 16:26:47投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="space-y-4 pt-6 border-t border-stone-200">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
+              🗺️ あわせて巡りたい！広島県の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+            </h3>
+            <p className="text-xs text-stone-600 leading-relaxed">
+              宿泊前後の1泊2日・2泊3日モデルコースに組み込みたい、広島県を代表する名所・絶景スポットの解説です。チェックイン前後の荷物預かりや駅周辺のレンタカー・周遊バスを活用すると効率よく巡ることができます。
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Miyajima_From_The_Ferry_%2830093845%29.jpeg/1280px-Miyajima_From_The_Ferry_%2830093845%29.jpeg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="厳島神社（宮島）" className="w-full h-full object-cover" loading="lazy" /></div>
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
+                <h3 className="text-base font-bold text-stone-900">厳島神社（宮島）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">世界文化遺産に登録された安芸の宮島。海上に浮かぶ鮮やかな朱塗りの大鳥居と社殿は潮の満ち引きで表情を変え、日本三景に相応しい神秘の美しさです。 厳島（いつくしま）は、広島県廿日市市宮島町にある島。瀬戸内海西部、広島湾の北西部に位置する。通称は安芸の宮島（あきのみやじま）、または宮島。かつて島全体が佐伯郡宮島町と一致していたが、2005年（平成17年）に廿日市市と合併した。 古代より、島そのものが自然崇拝の対象であったと考えられる。平安時代末期以降は、厳島神社の影響力の強さや海上交通の拠点としての重要…</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
+                <h3 className="text-base font-bold text-stone-900">原爆ドーム・平和記念公園</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">世界へ恒久平和を訴え続ける負の遺産・世界文化遺産。元産業奨励館の被爆した姿が今も残され、平和記念資料館には世界中から多くの人が訪れます。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
+                <h3 className="text-base font-bold text-stone-900">尾道（千光寺公園）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">坂と猫と映画の街として愛される港町。千光寺山の山頂からロープウェイで登れば、尾道水道と造船所、瀬戸内海の島々を一望するノスタルジックな風景が広がります。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
+                <h3 className="text-base font-bold text-stone-900">呉・大和ミュージアム</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">かつて東洋一の軍港・造船の街として栄えた呉の歴史を伝える博物館。館内中央に鎮座する10分の1スケールの戦艦「大和」の精巧な復元モデルは圧巻です。</p>
+              </div>
+            </div>
+            </div>
+          </div>
+
+          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-3 text-xs text-stone-700 leading-relaxed">
+            <h3 className="text-sm md:text-base font-bold text-amber-950">
+              💡 広島県エリアの宿泊予約・シーズン別ベストタイミングと節約ノウハウ
+            </h3>
+            <p>
+              <strong>1. 早期予約と楽天トラベルクーポンの併用：</strong> 広島県の人気温泉宿・リゾートホテルは、週末や連休・紅葉・年末年始の60日〜30日前から一気に予約が埋まります。毎月5と0のつく日やスーパーSALE期間中に配布される宿クーポン・自治体クーポンを併用すると、通常より最大10〜20%お得に予約可能です。
+            </p>
+            <p>
+              <strong>2. 夕食・朝食プランと部屋タイプの選び方：</strong> 地元産の旬魚介やブランド牛会席を味わうなら「夕朝食付きプラン」、周辺の屋台・老舗居酒屋・ご当地グルメを食べ歩くなら「朝食付き」または「素泊まり＋天然温泉大浴場付きホテル」を選ぶと予算と満足度のバランスが最適化されます。
+            </p>
+          </div>
+        </section>
+
+      </article>
   );
 }

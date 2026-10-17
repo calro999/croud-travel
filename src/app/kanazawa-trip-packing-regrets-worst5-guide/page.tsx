@@ -167,7 +167,7 @@ export default function KanazawaTripPackingRegretsWorst5Page() {
     <main className="min-h-screen bg-[#fffdfa] text-stone-800 antialiased pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「月曜定休トラップ＆21美予約忘れ！海鮮丼行列を回避する持ち物＆知恵袋」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「月曜定休トラップ＆21美予約忘れ！海鮮丼行列を回避する持ち物＆知恵袋」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"金沢旅行で後悔したことワースト5：月曜定休トラップ＆21美予約忘れ！海鮮丼行列を回避する持ち物＆知恵袋エリアでは、「ホテルルートイン金沢駅前」（楽天評価★4.09・クチコミ1990件、所在地：石川県金沢市昭和町22-5）をはじめとする宿を拠点にし、最寄り駅（金沢）やアクセス条件（ＪＲ北陸本線・新幹線　金沢駅より徒歩５分／北陸自動車道　金沢西ＩＣより５．５ｋｍ）に合わせて午前中に周辺観光名所を巡り、15時のチェックイン後に温泉や夕食会席を堪能するスケジュールが最も効率的です。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"宿泊予約時は最安料金目安（例：「ガーデンホテル金沢」は1名あたり¥3,000〜）や駐車場条件（有り　１６６台　１，０００円（税込み／泊）　先着順・高さ制限２．１M迄）を事前に確認しましょう。連休や紅葉・年末年始シーズンは早期に満室となるため、楽天トラベルの早期割引プランやクーポンの活用がおすすめです。"}}]}) }}
       />
       {/* ヒーローヘッダー */}
       <header className="relative bg-gradient-to-b from-amber-950 via-stone-900 to-amber-900 text-white pt-16 pb-24 px-4 overflow-hidden">
@@ -397,12 +397,6 @@ export default function KanazawaTripPackingRegretsWorst5Page() {
           </div>
         </div>
       </div>
-    
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         
 
         {/* FAQ Section */}
@@ -420,7 +414,7 @@ export default function KanazawaTripPackingRegretsWorst5Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。
+                A. 金沢旅行で後悔したことワースト5：月曜定休トラップ＆21美予約忘れ！海鮮丼行列を回避する持ち物＆知恵袋では、最寄り駅からの送迎バス運行時間やチェックイン時刻（通常15:00）から逆算し、午前中に主要な景勝地・寺社・市場を巡り、午後は宿の天然温泉や地元食材の会席料理をゆっくり堪能する行程が最も満足度の高い回り方です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -429,7 +423,7 @@ export default function KanazawaTripPackingRegretsWorst5Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。
+                A. 楽天トラベルで予約する際は、無料駐車場の台数・予約要否、露天風呂付き客室や部屋食プランの有無、そして5と0のつく日クーポンや早期割引プランの対象期間を事前に比較確認しておくと安心です。
               </p>
             </details>
           </div>
@@ -444,7 +438,22 @@ export default function KanazawaTripPackingRegretsWorst5Page() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">会津東山温泉で過ごす冬の旅（11・12月）！名物会津牛！名宿5選</span>
+            </a>
+            <a href="/winter-fukushima-iizaka-onsen-sabakoyu-enban-gyoza-fukushimagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【奥州三名湯・飯坂温泉の熱湯共同浴場と名物円盤餃子】2026-2027年11-12月初冬の福島・飯坂！芭蕉ゆかりの鯖湖湯と波来湯・熱気あふれる湯めぐり、パリパリ焼き立て「名物円盤餃子」ととろける福島牛すき焼き・露天風呂名宿5選</span>
+            </a>
+            <a href="/autumn-budget-fukushima-iwaki-hawaiians-joban-seafood-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">いわき：常磐ものの秋魚グルメ＆ハワイアンズ拠点！2,000円台〜格安ホテル5選</span>
+            </a>
+            <a href="/fukushima-iwaki-yumoto-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">いわき湯本温泉ひとり旅・三函の名湯おこもり：日本三古湯・毎分5トン自噴硫黄泉・常磐もの海鮮！フラガール温泉郷厳選3宿</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

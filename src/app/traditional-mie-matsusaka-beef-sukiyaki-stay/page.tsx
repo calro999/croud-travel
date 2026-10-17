@@ -317,11 +317,6 @@ export default function FeaturePage() {
             <ChevronRight className="w-4 h-4" />
           </Link>
         </section>
-      
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -404,7 +399,22 @@ export default function FeaturePage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/furusato-tax-three-great-glass-craft-towns-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">日本三大ガラス工芸の町＆光の芸術・切子の輝きと風雅名宿×ふるさと納税厳選ガイド小樽・東京・鹿児島</span>
+            </a>
+            <a href="/kusatsu-onsen-travel-budget-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">草津温泉旅行 費用：1泊2日いくらかかる？東京からの交通費＆湯畑周辺の宿泊費を完全計算</span>
+            </a>
+            <a href="/tokyo-departure-daytrip-bus-tour-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">東京・新宿発 日帰りバスツアーおすすめ2026：季節のフルーツ狩り・絶景温泉・食べ放題の最強プラン徹底比較</span>
+            </a>
+            <a href="/tokyo-izu-atami-bus-vs-train-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">東京から熱海・伊豆 安く行く方法：新幹線・特急踊り子・普通電車を徹底比較！温泉1泊2日モデルコース</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

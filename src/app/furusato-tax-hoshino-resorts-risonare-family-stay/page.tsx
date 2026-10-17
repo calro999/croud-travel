@@ -243,7 +243,7 @@ export default function FurusatoHoshinoRisonareStayPage() {
           <div className="hotel-special-wrapper">
             <div className="bg-amber-50 border-l-4 border-amber-600 p-4 rounded-r-xl mb-6 text-sm text-amber-950">
               <strong className="block mb-1 font-bold">宿のこだわり・特徴:</strong>
-              那���の自然豊かな敷地で地域の風景に親しみふれあいながら暮らすように過ごすアグリツーリズモリゾート
+              那須の自然豊かな敷地で地域の風景に親しみふれあいながら暮らすように過ごすアグリツーリズモリゾート
             </div>
           </div>
           <div className="pt-2">

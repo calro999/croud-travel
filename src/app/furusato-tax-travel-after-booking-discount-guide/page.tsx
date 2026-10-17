@@ -529,11 +529,6 @@ export default function Page() {
           </div>
         </section>
       </div>
-    
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -616,7 +611,22 @@ export default function Page() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/winter-kanagawa-kamakura-tsurugaoka-hachimangu-hatsumode-enoshima-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">鎌倉・鶴岡八幡宮初詣：冬牡丹咲く古都の祈りと江の島！名宿5選</span>
+            </a>
+            <a href="/furusato-tax-firefly-viewing-hotaru-night-stream-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">闇夜に舞う無数の光の幻想！初夏のホタル観賞＆清流のせせらぎ温泉宿×ふるさと納税厳選ガイド熊本菊池・兵庫神鍋・神奈川湯河原</span>
+            </a>
+            <a href="/kanagawa-hakone-sengokuhara-solo-retreat-pampas-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">箱根仙石原温泉ひとり旅・ススキ草原白濁おこもり：黄金色のススキ・大涌谷引湯白濁露天・極上フレンチ！標高700mの高原アートリゾート厳選3宿</span>
+            </a>
+            <a href="/winter-kanagawa-hakone-sengokuhara-onsen-susuki-nigori-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">箱根仙石原温泉で過ごす冬の旅（11・12月）！富士山望む露天風呂！名宿5選</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

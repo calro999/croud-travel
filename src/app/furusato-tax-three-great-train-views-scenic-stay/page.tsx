@@ -338,7 +338,125 @@ export default function FurusatoUpgradedPage() {
         </div>
       </section>
     
-      <HubRelatedPosts currentSlug="furusato-tax-three-great-train-views-scenic-stay" />
+      
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-6 my-10 max-w-5xl mx-auto">
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900">📊 日本三大車窓を望む絶景鉄道旅と名湯リゾート宿×ふるさと納税厳選ガイド姨捨・肥薩線・旧狩勝峠：楽天トラベル高評価宿スペック比較表＆クチコミ徹底解説</h2>
+          <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+            楽天トラベル公式APIから取得した全国の高評価宿データ（所在地・最寄り駅・駐車場・総合評価・参考最安料金）と実際の宿泊者レビューを整理しました。ふるさと納税の旅行クーポンや早期割引プランと併用することで、ワンランク上の滞在をお得に実現できます。
+          </p>
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th><th className="p-3">所在地</th><th className="p-3">アクセス</th><th className="p-3">駐車場</th><th className="p-3">評価</th><th className="p-3">最安目安</th><th className="p-3">予約</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. ホテルオークラ東京ベイ</td>
+                <td className="p-3 text-stone-600">千葉県浦安市舞浜1-8</td>
+                <td className="p-3 text-stone-600">舞浜</td>
+                <td className="p-3 text-stone-600">1泊3100円（以降1日毎1600円追加）※延長料金：ご出発日13：30以降30分毎に300円</td>
+                <td className="p-3 font-bold text-amber-600">★4.41（10986件）</td>
+                <td className="p-3 font-bold text-rose-600">¥7,528〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1304%2F1304.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. 京都センチュリーホテル</td>
+                <td className="p-3 text-stone-600">京都府京都市下京区東塩小路町680</td>
+                <td className="p-3 text-stone-600">京都</td>
+                <td className="p-3 text-stone-600">1泊￥2000(15：00-翌日12：00)(収容台数50台まで・予約不可) 時間外30分￥800</td>
+                <td className="p-3 font-bold text-amber-600">★4.48（4827件）</td>
+                <td className="p-3 font-bold text-rose-600">¥11,680〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1369%2F1369.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. ホテル金沢</td>
+                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">金沢駅の兼六園口（東口）から徒歩約１分。小松空港からリムジンバスで４０分。北陸自動車道の金沢東インターから車で１０分。</td>
+                <td className="p-3 text-stone-600">有り</td>
+                <td className="p-3 font-bold text-amber-600">★4.47（1681件）</td>
+                <td className="p-3 font-bold text-rose-600">¥4,450〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1371%2F1371.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">4. 伊東温泉　青山やまと</td>
+                <td className="p-3 text-stone-600">静岡県伊東市岡203</td>
+                <td className="p-3 text-stone-600">伊東</td>
+                <td className="p-3 text-stone-600">有り：30台・無料</td>
+                <td className="p-3 font-bold text-amber-600">★4.58（635件）</td>
+                <td className="p-3 font-bold text-rose-600">¥14,300〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1376%2F1376.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">5. ヒルトン東京ベイ</td>
+                <td className="p-3 text-stone-600">千葉県浦安市舞浜1-8</td>
+                <td className="p-3 text-stone-600">舞浜</td>
+                <td className="p-3 text-stone-600">1泊 3,100円、 2泊 4,700円、3泊以上 6,300円</td>
+                <td className="p-3 font-bold text-amber-600">★4.4（13311件）</td>
+                <td className="p-3 font-bold text-rose-600">¥6,923〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1405%2F1405.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+          <div className="space-y-3">
+            <h3 className="text-base font-bold text-stone-900">🏨 注目宿のクチコミ・アクセス詳細</h3>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">1. ホテルオークラ東京ベイ（千葉県・★4.41）</h4>
+              <p><strong>【特徴】</strong>最寄りのモノレールの駅から徒歩約３分に位置する、東京ディズニーリゾート(R)オフィシャルホテルです。</p>
+              <p><strong>【交通・駐車場】</strong>舞浜駅から車で5分／ディズニーリゾートラインにてベイサイドステーション下車。送迎バスまたは徒歩約3分。 ／ 駐車場：1泊3100円（以降1日毎1600円追加）※延長料金：ご出発日13：30以降30分毎に300円</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「清掃が行き届いておらず、設備も古く残念朝食は美味しかったが、種類が少ない気がします。それよりも、デラックスジュニアスイートルームを今回利用させて頂きました。すみません、どの辺がデラック…　2026-10-10 18:36:06投稿」</p>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">2. 京都センチュリーホテル（京都府・★4.48）</h4>
+              <p><strong>【特徴】</strong>旅するように過ごす、京都駅前より新しい「旅」が始まります</p>
+              <p><strong>【交通・駐車場】</strong>JR京都駅中央口＜ニデック京都タワー＞より徒歩約2分。地下（JR烏丸東口・地下鉄京都駅）から”出口5”をご利用ください。 ／ 駐車場：1泊￥2000(15：00-翌日12：00)(収容台数50台まで・予約不可) 時間外30分￥800</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「親切な対応は満足ですが設備が少し残念ホテルの方はとても親切で感じが良かったただお部屋は出入り口が狭く靴を置きにくく少し不便なのと 便座に暖房が入らない点が残念でしたクチコミの詳細はこち…　2026-10-08 12:12:31投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=1369&quot; cl」</p>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">3. ホテル金沢（・★4.47）</h4>
+              <p><strong>【特徴】</strong></p>
+              <p><strong>【交通・駐車場】</strong>金沢駅の兼六園口（東口）から徒歩約１分。小松空港からリムジンバスで４０分。北陸自動車道の金沢東インターから車で１０分。 ／ 駐車場：有り</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「駅前でロケーション最高、朝食も絶品名門ホテルという感じです。スタッフの皆さんは対応はいいと思います。駅前なのでロケーションは最高でした。外観とは違い部屋内も綺麗なため過ごしやすいと思います。朝食ビ…　2026-09-17 08:09:30投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=13」</p>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">4. 伊東温泉　青山やまと（静岡県・★4.58）</h4>
+              <p><strong>【特徴】</strong>100%源泉掛け流し温泉とこだわりの部屋食が魅力。伊東エリア屈指のプレミアム宿。</p>
+              <p><strong>【交通・駐車場】</strong>JR伊東駅より車で10分。13:30～17:30は30分間隔で送迎有り（予約不要） ／ 駐車場：有り：30台・無料</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「露天風呂付きのお部屋を使わせて頂きました。夕食後、部屋へ戻り湯船に浸かり、そのまま布団でゴロゴロ出来るのは最高です。夕食は美味しくとてもボリュームがあります。お昼ご飯は控えめにする、もしくは抜…　2026-09-05 12:54:35投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=1376」</p>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">5. ヒルトン東京ベイ（千葉県・★4.4）</h4>
+              <p><strong>【特徴】</strong>最大6名定員★お子様アメニティ★コンビニ★東京ディズニーリゾート(R)オフィシャルホテル</p>
+              <p><strong>【交通・駐車場】</strong>舞浜駅→ディズニーリゾートライン「ベイサイドステーション」下車　バス／徒歩1分。 舞浜駅→無料送迎バスで約7分。 ／ 駐車場：1泊 3,100円、 2泊 4,700円、3泊以上 6,300円</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「事前の要望が反映されず朝食も期待外れ添い寝がいるのでベッドをくっつけて欲しいと事前にメッセージを送り、チェックインでフロントさんからもくっつけときました!と言われたのに部屋に行ったら全部離れていま…　2026-09-05 22:22:02投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=14」</p>
+            </div>
+          </div>
+          <div className="space-y-3 pt-4 border-t border-stone-200">
+            <h3 className="text-base font-bold text-stone-900">🗺️ 合わせて訪れたい日本の代表的観光名所ガイド</h3>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
+              <h4 className="text-sm font-bold text-stone-900">📍 清水寺</h4>
+              <p className="text-xs text-stone-600 leading-relaxed">「清水の舞台」で世界的に有名な古都京都の象徴。「清水の舞台から飛び下りる」の語源となった木造大舞台からの京都市街の眺望と音羽の滝が名高いです。</p>
+            </div>
+            <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
+              <h4 className="text-sm font-bold text-stone-900">📍 函館山（夜景）</h4>
+              <p className="text-xs text-stone-600 leading-relaxed">世界三大夜景の一つに数えられる絶景スポット。津軽海峡と函館湾に挟まれたくびれが生み出す、宝石をちりばめたような眩い夜景は一生に一度は見たい感動のロケーションです。</p>
+            </div>
+            <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
+              <h4 className="text-sm font-bold text-stone-900">📍 横浜みなとみらい21</h4>
+              <p className="text-xs text-stone-600 leading-relaxed">ランドマークタワーや大観覧車「コスモクロック21」、赤レンガ倉庫が立ち並ぶ近代都市リゾート。港町の海風を感じながらショッピングや夜景を楽しめます。</p>
+            </div>
+            <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
+              <h4 className="text-sm font-bold text-stone-900">📍 国宝 姫路城（白鷺城）</h4>
+              <p className="text-xs text-stone-600 leading-relaxed">鮮やかな白漆喰の城壁が羽ばたく白鷺のように美しい日本初のユネスコ世界文化遺産。大天守をはじめ保存状態が完璧な城郭建築の最高峰です。</p>
+            </div>
+            </div>
+          </div>
+        </section>
+
+<HubRelatedPosts currentSlug="furusato-tax-three-great-train-views-scenic-stay" />
 </div>
   );
 }

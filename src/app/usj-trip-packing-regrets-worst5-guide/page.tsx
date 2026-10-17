@@ -169,7 +169,7 @@ export default function UsjTripPackingRegretsWorst5Page() {
     <main className="min-h-screen bg-[#f5f7ff] text-slate-800 antialiased pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「エクスプレスパスなしで大絶望！ニンテンドー入場整理券＆必須持ち物」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「エクスプレスパスなしで大絶望！ニンテンドー入場整理券＆必須持ち物」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"USJ旅行で後悔したことワースト5：エクスプレスパスなしで大絶望！？ニンテンドー入場整理券＆必須持ち物エリアでは、「ザ　パーク　フロント　ホテル　アット　ユニバーサル・スタジオ・ジャパン」（楽天評価★4.57・クチコミ4229件、所在地：大阪府大阪市此花区島屋6-2-52）をはじめとする宿を拠点にし、最寄り駅（ユニバーサルシティ）やアクセス条件（ユニバーサルシティ駅より徒歩約１分）に合わせて午前中に周辺観光名所を巡り、15時のチェックイン後に温泉や夕食会席を堪能するスケジュールが最も効率的です。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"宿泊予約時は最安料金目安（例：「ホテルコンソルト新大阪」は1名あたり¥3,477〜）や駐車場条件（109台3500円（13:00〜翌13:00）予約不可※満車の場合は他の駐車場をご案内致します。）を事前に確認しましょう。連休や紅葉・年末年始シーズンは早期に満室となるため、楽天トラベルの早期割引プランやクーポンの活用がおすすめです。"}}]}) }}
       />
       {/* ヒーローヘッダー */}
       <header className="relative bg-gradient-to-b from-indigo-950 via-indigo-900 to-slate-900 text-white pt-16 pb-24 px-4 overflow-hidden">
@@ -392,12 +392,6 @@ export default function UsjTripPackingRegretsWorst5Page() {
           </div>
         </div>
       </div>
-    
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         
 
         {/* FAQ Section */}
@@ -415,7 +409,7 @@ export default function UsjTripPackingRegretsWorst5Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。
+                A. USJ旅行で後悔したことワースト5：エクスプレスパスなしで大絶望！？ニンテンドー入場整理券＆必須持ち物では、最寄り駅からの送迎バス運行時間やチェックイン時刻（通常15:00）から逆算し、午前中に主要な景勝地・寺社・市場を巡り、午後は宿の天然温泉や地元食材の会席料理をゆっくり堪能する行程が最も満足度の高い回り方です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -424,7 +418,7 @@ export default function UsjTripPackingRegretsWorst5Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。
+                A. 楽天トラベルで予約する際は、無料駐車場の台数・予約要否、露天風呂付き客室や部屋食プランの有無、そして5と0のつく日クーポンや早期割引プランの対象期間を事前に比較確認しておくと安心です。
               </p>
             </details>
           </div>
@@ -439,7 +433,22 @@ export default function UsjTripPackingRegretsWorst5Page() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/winter-hokkaido-sapporo-white-illumination-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">！さっぽろホワイトイルミネーションで過ごす冬の旅（11・12月）！光の祭典と定山渓・小樽雪見温泉宿5選</span>
+            </a>
+            <a href="/winter-hokkaido-tokachigawa-onsen-moor-swan-tokachi-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">北海道・十勝川温泉で過ごす冬の旅（11・12月）！極上十勝牛ステーキ！名宿5選</span>
+            </a>
+            <a href="/autumn-budget-hokkaido-hakodate-bay-kanemori-yakei-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">函館ベイエリア：函館山世界三大夜景＆金森赤レンガ倉庫・海鮮！2,000円台〜泊まれる格安ホテル5選</span>
+            </a>
+            <a href="/autumn-budget-hokkaido-obihiro-tokachi-butadon-onsen-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">帯広：十勝平野の実りの秋と名物豚丼！植物性モール温泉・2,000円台〜ホテル5選</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

@@ -372,8 +372,6 @@ export default function KanagawaKamakuraEnoshimaWinterPage() {
             </div>
           </div>
         </section>
-
-        {/* Model Course Section */}
         <section className="bg-slate-900 text-white rounded-3xl p-6 sm:p-10 space-y-8">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-blue-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Course</span>

@@ -242,7 +242,7 @@ export default function AutumnBudgetHotelsPage() {
                 </h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
-                  水���
+                  水戸
                 </p>
                 <p className="text-sm text-slate-600 leading-relaxed">
                   水戸駅南口すぐの好アクセス。清潔で使い勝手の良い客室設計と、毎朝無料で提供されるバラエティ豊かな朝食バイキングが魅力。出張利用はもちろん秋の茨城一人旅や気軽な週末トリップに最適です。
@@ -413,6 +413,256 @@ export default function AutumnBudgetHotelsPage() {
           </div>
         </div>
       </section>
-    </main>
+    
+        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
+          <div className="space-y-2 border-b border-stone-200 pb-4">
+            <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
+              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+            </span>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
+              📊 水戸駅前：国指定特別史跡弘道館＆名物あんこう鍋！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+            </h2>
+            <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+              楽天トラベル公式APIより取得した「水戸駅前：国指定特別史跡弘道館＆名物あんこう鍋！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+            </p>
+          </div>
+
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th>
+                  <th className="p-3">所在地</th>
+                  <th className="p-3">最寄り駅・交通</th>
+                  <th className="p-3">駐車場情報</th>
+                  <th className="p-3">楽天評価</th>
+                  <th className="p-3">最安目安</th>
+                  <th className="p-3">予約・詳細</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. アパホテル〈水戸駅前〉</td>
+                <td className="p-3 text-stone-600">茨城県水戸市桜川1-1-6</td>
+                <td className="p-3 text-stone-600">水戸駅周辺</td>
+                <td className="p-3 text-stone-600">無し（近隣のコインパーキングのご案内になります。</td>
+                <td className="p-3 font-bold text-amber-600">★3.88（722件）</td>
+                <td className="p-3 font-bold text-rose-600">¥3,300〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F151370%2F151370.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. アパホテル〈水戸駅北〉</td>
+                <td className="p-3 text-stone-600">茨城県水戸市南町1-3-18</td>
+                <td className="p-3 text-stone-600">水戸駅周辺</td>
+                <td className="p-3 text-stone-600">先着18台500円　満車時は提携駐車場ご案内(条件により)　提携駐車場満車時は近隣コインパーキングへ</td>
+                <td className="p-3 font-bold text-amber-600">★3.89（2606件）</td>
+                <td className="p-3 font-bold text-rose-600">¥3,300〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2736%2F2736.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. 東横ＩＮＮ水戸駅南口</td>
+                <td className="p-3 text-stone-600">茨城県水戸市桜川2-3-40</td>
+                <td className="p-3 text-stone-600">水戸駅周辺</td>
+                <td className="p-3 text-stone-600">78台先着順にて1泊500〜1200円　満車の場合は近隣コインパーキング</td>
+                <td className="p-3 font-bold text-amber-600">★4（574件）</td>
+                <td className="p-3 font-bold text-rose-600">¥5,198〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52989%2F52989.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">4. コンフォートホテル水戸</td>
+                <td className="p-3 text-stone-600">茨城県水戸市桜川1-1-23</td>
+                <td className="p-3 text-stone-600">水戸駅周辺</td>
+                <td className="p-3 text-stone-600">敷地内駐車場　4台　先着順　1泊（14時〜翌11時）800円（時間外100円/1時間）　※車種制限有</td>
+                <td className="p-3 font-bold text-amber-600">★4.4（433件）</td>
+                <td className="p-3 font-bold text-rose-600">¥3,800〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F196793%2F196793.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">5. スマイルホテル水戸</td>
+                <td className="p-3 text-stone-600">茨城県水戸市桜川1-5-6</td>
+                <td className="p-3 text-stone-600">水戸駅周辺</td>
+                <td className="p-3 text-stone-600">有料駐車場〜先着順、2021/12/31日まで1泊500円〜2022/1/1日より1泊800円</td>
+                <td className="p-3 font-bold text-amber-600">★3.68（2223件）</td>
+                <td className="p-3 font-bold text-rose-600">¥2,850〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28434%2F28434.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div className="space-y-4">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
+              🏨 各宿の宿泊者リアルクチコミ・客室イメージ・項目別評価データ
+            </h3>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #1</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">アパホテル〈水戸駅前〉</h3>
+                  <span className="text-xs text-stone-400 ml-2">（あぱほてる＜みとえきまえ＞）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,300〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/151370/151370_kan1.jpg" alt="アパホテル〈水戸駅前〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>ＪＲ水戸駅（南口）徒歩3分【全室有線ＬＡＮ＆Ｗｉ－Ｆｉ接続無料】</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 茨城県水戸市桜川1-1-6 ／ 最寄り駅：水戸 ／ 交通案内：JR常磐線　水戸駅から徒歩3分！★☆ビジネス利用・観光利用にも便利！！☆★</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>無し（近隣のコインパーキングのご案内になります。</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.01 ／ 立地 ★3.92 ／ 部屋 ★3.89 ／ 設備 ★3.73 ／ 風呂 ★3.55 ／ 食事 ★3.82</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リクエスト以上の配慮で快適に過ごせたいびきがひどいので角部屋をリクエストしました。チェックインするとシングル喫煙がダブルの喫煙室にアップグレードされていて、かつ角部屋でした。リクエストの上…　2026-10-09 20:32:37投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #2</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">アパホテル〈水戸駅北〉</h3>
+                  <span className="text-xs text-stone-400 ml-2">（あぱほてる＜みとえききた＞）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,300〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2736/2736_si.jpg" alt="アパホテル〈水戸駅北〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>日替わり海鮮・ローストビーフ・農園直送野菜など人気全30品目朝食ビュッフェ／Wi-Fi完備</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 茨城県水戸市南町1-3-18 ／ 最寄り駅：水戸 ／ 交通案内：◆JR水戸駅北口から国道50号を大工町方面へ徒歩8分♪　◆常磐自動車道水戸ICから水戸市街方面へ車で約20分♪</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>先着18台500円　満車時は提携駐車場ご案内(条件により)　提携駐車場満車時は近隣コインパーキングへ</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.01 ／ 立地 ★3.7 ／ 部屋 ★3.78 ／ 設備 ★3.81 ／ 風呂 ★3.55 ／ 食事 ★4.3</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ビジホでは上位の設備とサービス、朝食も満足安価なビジネスホテルの中では、設備/サービスが上位であると感じた。朝食も美味しく頂いた。↑カレーはアパカレーだったのかな?(普通でした)クチコ…　2026-10-01 16:12:05投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #3</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">東横ＩＮＮ水戸駅南口</h3>
+                  <span className="text-xs text-stone-400 ml-2">（とうよこいんみとえきみなみぐち）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥5,198〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/52989/52989_s.jpg" alt="東横ＩＮＮ水戸駅南口 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>ＪＲ水戸駅から徒歩5分で朝食・小学生以下添い寝無料のホテル！ひたち海浜公園までJRで20分</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 茨城県水戸市桜川2-3-40 ／ 最寄り駅：水戸 ／ 交通案内：ＪＲ　水戸駅より徒歩５分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>78台先着順にて1泊500〜1200円　満車の場合は近隣コインパーキング</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.98 ／ 立地 ★3.77 ／ 部屋 ★4.14 ／ 設備 ★3.93 ／ 風呂 ★3.88 ／ 食事 ★4</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エアコンの埃が蜘蛛の巣状態で、清掃不足部屋はこ綺麗にはされている...と思ったらエアコン見てびっくり!エアコン上部にかなり立派な埃が蜘蛛の巣状態!!エアコンフィルターなどを掃除…　2026-09-20 00:43:50投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #4</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">コンフォートホテル水戸</h3>
+                  <span className="text-xs text-stone-400 ml-2">（こんふぉーとほてるみと）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,800〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/196793/196793.jpg" alt="コンフォートホテル水戸 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>2025年11月5日開業◆JR水戸駅より徒歩約4分◆水戸南ICより車で約12分◆彩り豊かな無料朝食付</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 茨城県水戸市桜川1-1-23 ／ 最寄り駅：水戸 ／ 交通案内：JR「水戸駅」より徒歩4分、北関東自動車道「水戸南IC」より車で約12分。</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>敷地内駐車場　4台　先着順　1泊（14時〜翌11時）800円（時間外100円/1時間）　※車種制限有</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.31 ／ 部屋 ★4.45 ／ 設備 ★4.37 ／ 風呂 ★4.27 ／ 食事 ★4.23</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で快適、本棚のセレクトもセンス抜群駅から近く、客室もカフェスペースも快適でした。また書架スペースの本のセレクトがセンスよく気に入りました。チェックイン前にも利用できる施錠ロッカーがあり…　2026-10-06 23:03:15投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #5</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">スマイルホテル水戸</h3>
+                  <span className="text-xs text-stone-400 ml-2">（すまいるほてる　みと）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥2,850〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28434/28434_s.jpg" alt="スマイルホテル水戸 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>■全室無料ＬＡＮ接続可能■セミダブルサイズベッド（幅1230mm）仕様■シャワートイレ付</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 茨城県水戸市桜川1-5-6 ／ 最寄り駅：水戸 ／ 交通案内：ＪＲ常磐線・水戸駅南口徒歩3分/北関東自動車道・水戸南ICより15分/常磐自動車道・水戸ＩＣ～20分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有料駐車場〜先着順、2021/12/31日まで1泊500円〜2022/1/1日より1泊800円</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.57 ／ 立地 ★3.84 ／ 部屋 ★3.64 ／ 設備 ★3.59 ／ 風呂 ★3.53 ／ 食事 ★3.66</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で静かな環境、朝食も満足のクオリティ駅からも近いが、静かなところで良かった。朝食もしっかり食べる事ができた。他の地域ても、また利用したい。クチコミの詳細はこちらから　https:/…　2026-10-01 09:34:02投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="space-y-4 pt-6 border-t border-stone-200">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
+              🗺️ あわせて巡りたい！茨城県の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+            </h3>
+            <p className="text-xs text-stone-600 leading-relaxed">
+              宿泊前後の1泊2日・2泊3日モデルコースに組み込みたい、茨城県を代表する名所・絶景スポットの解説です。チェックイン前後の荷物預かりや駅周辺のレンタカー・周遊バスを活用すると効率よく巡ることができます。
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
+                <h3 className="text-base font-bold text-stone-900">国営ひたち海浜公園</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">春のネモフィラ、秋のコキアをはじめ、四季折々の広大な花畑が美しい国営公園。みはらしの丘一面が青や赤に染まる光景は世界中から絶賛される絶景です。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
+                <h3 className="text-base font-bold text-stone-900">水戸偕楽園</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">金沢兼六園・岡山後楽園と並ぶ日本三名園の一つ。徳川斉昭公によって造園され、春には約100品種3,000本の梅が咲き誇る歴史ある回遊式庭園です。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
+                <h3 className="text-base font-bold text-stone-900">袋田の滝</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">日本三名瀑に数えられる高さ120m・幅73mのダイナミックな4段の滝。四季ごとに全く異なる表情を見せ、冬には滝全体が凍結する「氷瀑」が見事です。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
+                <h3 className="text-base font-bold text-stone-900">筑波山</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">「西の富士、東の筑波」と称される紫峰。男体山と女体山の2峰からなり、ケーブルカーやロープウェイで気軽に山頂へ登れ、関東平野の一望を楽しめます。</p>
+              </div>
+            </div>
+            </div>
+          </div>
+
+          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-3 text-xs text-stone-700 leading-relaxed">
+            <h3 className="text-sm md:text-base font-bold text-amber-950">
+              💡 茨城県エリアの宿泊予約・シーズン別ベストタイミングと節約ノウハウ
+            </h3>
+            <p>
+              <strong>1. 早期予約と楽天トラベルクーポンの併用：</strong> 茨城県の人気温泉宿・リゾートホテルは、週末や連休・紅葉・年末年始の60日〜30日前から一気に予約が埋まります。毎月5と0のつく日やスーパーSALE期間中に配布される宿クーポン・自治体クーポンを併用すると、通常より最大10〜20%お得に予約可能です。
+            </p>
+            <p>
+              <strong>2. 夕食・朝食プランと部屋タイプの選び方：</strong> 地元産の旬魚介やブランド牛会席を味わうなら「夕朝食付きプラン」、周辺の屋台・老舗居酒屋・ご当地グルメを食べ歩くなら「朝食付き」または「素泊まり＋天然温泉大浴場付きホテル」を選ぶと予算と満足度のバランスが最適化されます。
+            </p>
+          </div>
+        </section>
+
+      </main>
   );
 }

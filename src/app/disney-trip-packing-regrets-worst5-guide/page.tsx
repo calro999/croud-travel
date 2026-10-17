@@ -169,7 +169,7 @@ export default function DisneyTripPackingRegretsWorst5Page() {
     <main className="min-h-screen bg-[#fff5f5] text-stone-800 antialiased pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「スマホ電池切れ・開園待ち寒暖差・靴擦れで地獄を見たリアル失敗談」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「スマホ電池切れ・開園待ち寒暖差・靴擦れで地獄を見たリアル失敗談」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"ディズニー旅行で後悔したことワースト5：スマホ電池切れ・開園待ち寒暖差・靴擦れで地獄を見たリアル失敗談エリアでは、「東京ベイ潮見プリンスホテル」（楽天評価★4.53・クチコミ1005件、所在地：東京都江東区潮見2-8-16）をはじめとする宿を拠点にし、最寄り駅（潮見）やアクセス条件（JR京葉線潮見駅より徒歩約1分。舞浜駅より9分、東京駅より7分！東京ディズニーリゾート(R)や観光・ビジネスの拠点に♪）に合わせて午前中に周辺観光名所を巡り、15時のチェックイン後に温泉や夕食会席を堪能するスケジュールが最も効率的です。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"宿泊予約時は最安料金目安（例：「市川グランドホテル（ＢＢＨホテルグループ）」は1名あたり¥2,960〜）や駐車場条件（有り：100台　1泊につき￥ 2, 200（入庫後24時間ご利用いただけます））を事前に確認しましょう。連休や紅葉・年末年始シーズンは早期に満室となるため、楽天トラベルの早期割引プランやクーポンの活用がおすすめです。"}}]}) }}
       />
       {/* ヒーローヘッダー */}
       <header className="relative bg-gradient-to-b from-rose-950 via-rose-900 to-rose-800 text-white pt-16 pb-24 px-4 overflow-hidden">
@@ -392,12 +392,6 @@ export default function DisneyTripPackingRegretsWorst5Page() {
           </div>
         </div>
       </div>
-    
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         
 
         {/* FAQ Section */}
@@ -415,7 +409,7 @@ export default function DisneyTripPackingRegretsWorst5Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。
+                A. ディズニー旅行で後悔したことワースト5：スマホ電池切れ・開園待ち寒暖差・靴擦れで地獄を見たリアル失敗談では、最寄り駅からの送迎バス運行時間やチェックイン時刻（通常15:00）から逆算し、午前中に主要な景勝地・寺社・市場を巡り、午後は宿の天然温泉や地元食材の会席料理をゆっくり堪能する行程が最も満足度の高い回り方です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -424,7 +418,7 @@ export default function DisneyTripPackingRegretsWorst5Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。
+                A. 楽天トラベルで予約する際は、無料駐車場の台数・予約要否、露天風呂付き客室や部屋食プランの有無、そして5と0のつく日クーポンや早期割引プランの対象期間を事前に比較確認しておくと安心です。
               </p>
             </details>
           </div>
@@ -439,7 +433,22 @@ export default function DisneyTripPackingRegretsWorst5Page() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/autumn-hokkaido-sapporo-jozankei-hoheikyo-momiji-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">上旬〜中旬！札幌定山渓＆豊平峡の紅葉で過ごす冬の旅（10月）！渓谷美と名湯に寛ぐおすすめ温泉旅館5選</span>
+            </a>
+            <a href="/furusato-tax-noboribetsu-onsen-buffet-gourmet-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">登別温泉をふるさと納税でお得に旅する！豪華バイキング＆名湯大浴場！北海道三大蟹と地獄谷の絶景を巡る宿ガイド</span>
+            </a>
+            <a href="/hokkaido-furano-biei-lavender-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">北海道・富良野＆美瑛：青い池・ファーム富田ラベンダー＆白金温泉・富良野牛宿 厳選ガイド</span>
+            </a>
+            <a href="/hokkaido-otaru-yoichi-canal-distillery-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">北海道・小樽＆余市：小樽運河・ニッカウヰスキー蒸溜所＆寿司海鮮丼宿 厳選ガイド</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

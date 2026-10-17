@@ -134,7 +134,7 @@ export default function KyotoRainyDayTempleCafeGuidePage() {
     <main className="min-h-screen bg-rose-950/20 text-stone-800 selection:bg-rose-600 selection:text-white pb-24">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「緑鮮やかな苔寺・瑠璃光院・三千院＆おこもり温泉宿」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「緑鮮やかな苔寺・瑠璃光院・三千院＆おこもり温泉宿」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"京都 雨の日こそ行きたい名所＆町家カフェ：緑鮮やかな苔寺・瑠璃光院・三千院＆おこもり温泉宿エリアでは、「京都竹の郷温泉　万葉の湯　ホテル京都エミナース」（楽天評価★4.15・クチコミ888件、所在地：京都府京都市西京区大原野東境谷町2-4）をはじめとする宿を拠点にし、最寄り駅（桂）やアクセス条件（最寄駅（ＪＲ桂川、阪急洛西口）から無料送迎バス有。阪急「桂駅」西口より市バス西１、２、５で１５分「境谷大橋」下車すぐ。）に合わせて午前中に周辺観光名所を巡り、15時のチェックイン後に温泉や夕食会席を堪能するスケジュールが最も効率的です。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"宿泊予約時は最安料金目安（例：「天然温泉　花蛍の湯　ドーミーインＰＲＥＭＩＵＭ京都駅前（ドーミーイン・御宿野乃　ホテルズグループ）」は1名あたり¥7,875〜）や駐車場条件（有り　250台　無料）を事前に確認しましょう。連休や紅葉・年末年始シーズンは早期に満室となるため、楽天トラベルの早期割引プランやクーポンの活用がおすすめです。"}}]}) }}
       />
       {/* ヒーローセクション（Rose / 和モダン緋色系統） */}
       <section className="relative overflow-hidden bg-gradient-to-b from-stone-900 via-rose-950 to-stone-900 text-stone-100 py-16 sm:py-24 border-b border-rose-900/40">
@@ -364,12 +364,6 @@ export default function KyotoRainyDayTempleCafeGuidePage() {
           </div>
         </div>
       </div>
-    
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         
 
         {/* FAQ Section */}
@@ -387,7 +381,7 @@ export default function KyotoRainyDayTempleCafeGuidePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。
+                A. 京都 雨の日こそ行きたい名所＆町家カフェ：緑鮮やかな苔寺・瑠璃光院・三千院＆おこもり温泉宿では、最寄り駅からの送迎バス運行時間やチェックイン時刻（通常15:00）から逆算し、午前中に主要な景勝地・寺社・市場を巡り、午後は宿の天然温泉や地元食材の会席料理をゆっくり堪能する行程が最も満足度の高い回り方です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -396,7 +390,7 @@ export default function KyotoRainyDayTempleCafeGuidePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。
+                A. 楽天トラベルで予約する際は、無料駐車場の台数・予約要否、露天風呂付き客室や部屋食プランの有無、そして5と0のつく日クーポンや早期割引プランの対象期間を事前に比較確認しておくと安心です。
               </p>
             </details>
           </div>
@@ -411,7 +405,22 @@ export default function KyotoRainyDayTempleCafeGuidePage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/miyagi-akiu-sakunami-sendai-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">宮城・秋保温泉＆作並温泉：仙台奥座敷・磊々峡＆ニッカウヰスキー・仙台牛宿 厳選ガイド</span>
+            </a>
+            <a href="/silver-week-glamping-tohoku-sendai-fukushima-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">東北シルバーウィーク グランピング：宮城・福島・秋田の雄大な自然＆紅葉先取りステイ</span>
+            </a>
+            <a href="/winter-miyagi-matsushima-shiogama-shrine-hatsumode-sanriku-oyster-higashimono-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月宮城：陸奥総鎮守「鹽竈神社」新春初！名宿5選</span>
+            </a>
+            <a href="/autumn-budget-miyagi-sendai-station-zuihoden-gyutan-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">仙台駅前：瑞鳳殿紅葉ライトアップ＆名物牛たん炭火焼き！2,000円台〜泊まれる格安ホテル5選</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

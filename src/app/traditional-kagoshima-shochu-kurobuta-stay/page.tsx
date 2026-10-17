@@ -204,7 +204,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」へは、鹿児島空港より車で約15分 19時までなら鹿児島空港・国分駅まで無料送迎（要予約）。最寄りの日当山駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」は『温泉宿・グラン���ング全室で源泉掛け流しの天然炭酸泉が満喫できます。ペットOKの客室もご。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」と「旅館 薩摩の里」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」へは、鹿児島空港より車で約15分 19時までなら鹿児島空港・国分駅まで無料送迎（要予約）。最寄りの日当山駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」は『温泉宿・グランピング全室で源泉掛け流しの天然炭酸泉が満喫できます。ペットOKの客室もご。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」と「旅館 薩摩の里」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -563,11 +563,6 @@ export default function FeatureDetailPage() {
             <ChevronRight className="w-5 h-5" />
           </Link>
         </div>
-      
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -583,8 +578,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 日当山駅よりアクセス。鹿児島空港より車で約15分 19時までなら鹿児島空港・国分駅まで無料送迎（要予約）。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」にチェックイン。温泉宿・グラン���ング全室で源泉掛け流しの天然炭酸泉が満喫できます。ペットOKの客室もございます。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」の湯処へ。温泉宿・グラン���ング全室で源泉掛け流しの天然炭酸泉が満喫できます。とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」にチェックイン。温泉宿・グランピング全室で源泉掛け流しの天然炭酸泉が満喫できます。ペットOKの客室もございます。などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」の湯処へ。温泉宿・グランピング全室で源泉掛け流しの天然炭酸泉が満喫できます。とともに、夕暮れの特別な寛ぎを満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -626,7 +621,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」は『温泉宿・グラン���ング全室で源泉掛け流しの天然炭酸泉が満喫できます。ペットOKの客室もご。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」は『温泉宿・グランピング全室で源泉掛け流しの天然炭酸泉が満喫できます。ペットOKの客室もご。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -650,7 +645,22 @@ export default function FeatureDetailPage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/winter-iwate-hachimantai-matsukawa-onsen-snow-maesawagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">八幡平温泉郷で過ごす冬の旅（11・12月）！極上前沢牛と南部鉄器すき焼き！名宿5選</span>
+            </a>
+            <a href="/winter-iwate-sanriku-miyako-jodogahama-kegani-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月岩手：名物瓶ドン」と太平洋絶景オーシャンビュー！名宿5選</span>
+            </a>
+            <a href="/furusato-tax-hiraizumi-chusonji-hanamaki-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">世界遺産・平泉中尊寺の月見坂紅葉＆花巻温泉郷の名湯！佳松園・藤三旅館・廣美亭×ふるさと納税厳選ガイド岩手</span>
+            </a>
+            <a href="/iwate-hiraizumi-ichinoseki-geibikei-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">岩手・平泉＆一関・猊鼻渓：中尊寺金色堂・舟下り＆前沢牛・もち食宿 厳選ガイド</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
@@ -680,6 +690,256 @@ export default function FeatureDetailPage() {
                 大分県の宿・温泉
               </Link>
             </div>
+          </div>
+        </section>
+
+      
+        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
+          <div className="space-y-2 border-b border-stone-200 pb-4">
+            <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
+              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+            </span>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
+              📊 2026年：極上黒豚しゃぶしゃぶ＆百種プレミアム焼酎BAR！指宿・霧島温泉の名旅館5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+            </h2>
+            <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+              楽天トラベル公式APIより取得した「2026年：極上黒豚しゃぶしゃぶ＆百種プレミアム焼酎BAR！指宿・霧島温泉の名旅館5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+            </p>
+          </div>
+
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th>
+                  <th className="p-3">所在地</th>
+                  <th className="p-3">最寄り駅・交通</th>
+                  <th className="p-3">駐車場情報</th>
+                  <th className="p-3">楽天評価</th>
+                  <th className="p-3">最安目安</th>
+                  <th className="p-3">予約・詳細</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. 全室源泉かけ流し温泉付き旅館＆グランピング　美肌の湯　こしかの温泉</td>
+                <td className="p-3 text-stone-600">鹿児島県霧島市隼人町松永2625</td>
+                <td className="p-3 text-stone-600">日当山駅周辺</td>
+                <td className="p-3 text-stone-600">有り（無料）</td>
+                <td className="p-3 font-bold text-amber-600">★4.58（525件）</td>
+                <td className="p-3 font-bold text-rose-600">¥4,620〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F171946%2F171946.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. 旅館　薩摩の里</td>
+                <td className="p-3 text-stone-600">鹿児島県薩摩川内市樋脇町市比野4134</td>
+                <td className="p-3 text-stone-600">川内（鹿児島）駅周辺</td>
+                <td className="p-3 text-stone-600">有り　６０台　先着順　無料　　バイクの場合は屋根付きスペースを確保します（要連絡）</td>
+                <td className="p-3 font-bold text-amber-600">★4.23（630件）</td>
+                <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13872%2F13872.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. 離れのある囲炉裏温泉旅館　早水荘</td>
+                <td className="p-3 text-stone-600">鹿児島県伊佐市菱刈川北2280-14</td>
+                <td className="p-3 text-stone-600">栗野駅周辺</td>
+                <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
+                <td className="p-3 font-bold text-amber-600">★4.5（93件）</td>
+                <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F53420%2F53420.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">4. 温泉ホテル中原別荘（客室禁煙・耐震改修済）</td>
+                <td className="p-3 text-stone-600">鹿児島県鹿児島市照国町15-19</td>
+                <td className="p-3 text-stone-600">鹿児島中央駅周辺</td>
+                <td className="p-3 text-stone-600">３０台有料（普通車 1,100円）先着順により満車の場合、提携駐車場にご案内致します。</td>
+                <td className="p-3 font-bold text-amber-600">★4.3（693件）</td>
+                <td className="p-3 font-bold text-rose-600">¥6,050〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4873%2F4873.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">5. 霧島温泉郷　霧島みやまホテル</td>
+                <td className="p-3 text-stone-600">鹿児島県霧島市牧園町高千穂3900-3</td>
+                <td className="p-3 text-stone-600">霧島神宮駅周辺</td>
+                <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
+                <td className="p-3 font-bold text-amber-600">★4.36（551件）</td>
+                <td className="p-3 font-bold text-rose-600">¥10,350〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F44034%2F44034.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div className="space-y-4">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
+              🏨 各宿の宿泊者リアルクチコミ・客室イメージ・項目別評価データ
+            </h3>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #1</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">全室源泉かけ流し温泉付き旅館＆グランピング　美肌の湯　こしかの温泉</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ぜんしつげんせんかけながしおんせんつきりょかん　あんど　ぐらんぴんぐ　びはだのゆ　こしかのおんせん）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥4,620〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/171946/171946_kan1.jpg" alt="全室源泉かけ流し温泉付き旅館＆グランピング　美肌の湯　こしかの温泉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>温泉宿・グランピング全室で源泉掛け流しの天然炭酸泉が満喫できます。ペットOKの客室もございます。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県霧島市隼人町松永2625 ／ 最寄り駅：日当山 ／ 交通案内：鹿児島空港より車で約15分【19時までなら鹿児島空港・国分駅まで無料送迎（要予約）】</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り（無料）</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.55 ／ 立地 ★4.38 ／ 部屋 ★4.47 ／ 設備 ★4.51 ／ 風呂 ★4.68 ／ 食事 ★4.55</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉がついているのでいつでも入浴できるのは良いサウナも良かったリフレッシュ出来るので良いクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/…　2026-10-08 21:45:09投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #2</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">旅館　薩摩の里</h3>
+                  <span className="text-xs text-stone-400 ml-2">（さつまのさと）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥5,500〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13872/13872_room.jpg" alt="旅館　薩摩の里 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>『天下の名泉』市比野温泉☆平静な環境の中で、源泉掛流し１００％天然温泉が楽しめる純和風温泉旅館♪</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県薩摩川内市樋脇町市比野4134 ／ 最寄り駅：川内（鹿児島） ／ 交通案内：ＪＲ川内駅より車で２０分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　先着順　無料　　バイクの場合は屋根付きスペースを確保します（要連絡）</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「昭和の雰囲気とラドン湯で湯治気分を満喫昭和の雰囲気漂う山里の宿で、ゆっくり温泉に浸かり味わい深い手料理を堪能するのに格好の場所です。周辺に飲み歩く場所やコンビニはありません。ラドン湯の泉質…　2026-07-18 07:14:32投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #3</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">離れのある囲炉裏温泉旅館　早水荘</h3>
+                  <span className="text-xs text-stone-400 ml-2">（はなれのあるいろりおんせんりょかん　はやみずそう）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥8,800〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/53420/53420_da.jpg" alt="離れのある囲炉裏温泉旅館　早水荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>囲炉裏があり、、昔懐かしい雰囲気の静かな温泉宿です。離れはペットも一緒に泊まれます。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県伊佐市菱刈川北2280-14 ／ 最寄り駅：栗野 ／ 交通案内：肥薩線　栗野駅より南国交通バスで１２～１３分／鹿児島本線　水俣駅より南国交通バスで１時間</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬と一緒に離れに泊まりました。直前に人数変更があったり、当日、到着予定時刻がズレて夕食開始時間も変更していただきましたが、笑顔で対応してくださいました。ありがとうございました。ご飯は、量もあ…　2026-07-30 10:45:44投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #4</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">温泉ホテル中原別荘（客室禁煙・耐震改修済）</h3>
+                  <span className="text-xs text-stone-400 ml-2">（おんせんほてる　なかはらべっそう（きゃくしつきんえん・たいしんかいしゅうずみ））</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥6,050〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4873/4873_heya.jpg" alt="温泉ホテル中原別荘（客室禁煙・耐震改修済） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>市の中心にあり温泉と料理と気配りのサービスが自慢。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県鹿児島市照国町15-19 ／ 最寄り駅：鹿児島中央 ／ 交通案内：ＪＲ鹿児島中央駅よりタクシーで７分。空港リムジンで天文館バス停下車、徒歩５分。</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>３０台有料（普通車 1,100円）先着順により満車の場合、提携駐車場にご案内致します。</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「黒豚鍋と源泉かけ流しの温泉に大満足夕食はすぐ近くの居酒屋さんでメインは黒豚のお鍋、お刺身もあり妻も大変満足しておりました。温泉も鹿児島市内では珍しい源泉かけ流しで体もとても癒されました。照国神…　2026-07-23 09:49:31投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #5</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">霧島温泉郷　霧島みやまホテル</h3>
+                  <span className="text-xs text-stone-400 ml-2">（きりしまおんせんきょう　きりしまみやま）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥10,350〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/44034/44034_da.jpg" alt="霧島温泉郷　霧島みやまホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>【貸切風呂★無料】リピーターが多い調理長の創作料理と、無料貸切できる3つの露天、2つの内湯が大好評！</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県霧島市牧園町高千穂3900-3 ／ 最寄り駅：霧島神宮 ／ 交通案内：JR霧島神宮駅より車で15分/霧島温泉駅より車で15分　横川ICより車で20分/溝辺鹿児島空港ICより車で25分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「貸切温泉と美味しい朝食、立地も最高貸切温泉風呂が最高でした!犬飼の湯は広々していて星空、青空を見ながらゆったり浸かることができました。朝食もご飯が進むおいしいおかずばかりでおかわりいただきました。…　2026-07-16 15:10:20投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="space-y-4 pt-6 border-t border-stone-200">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
+              🗺️ あわせて巡りたい！岩手県の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+            </h3>
+            <p className="text-xs text-stone-600 leading-relaxed">
+              宿泊前後の1泊2日・2泊3日モデルコースに組み込みたい、岩手県を代表する名所・絶景スポットの解説です。チェックイン前後の荷物預かりや駅周辺のレンタカー・周遊バスを活用すると効率よく巡ることができます。
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
+                <h3 className="text-base font-bold text-stone-900">中尊寺金色堂（平泉）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">世界遺産・平泉の象徴であり、奥州藤原氏の栄華を今に伝える極楽浄土の建築。堂全体が金箔で覆われ、螺鈿細工や象牙の装飾が施された国宝の美しさは言葉を失うほどです。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
+                <h3 className="text-base font-bold text-stone-900">浄土ヶ浜</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">三陸復興国立公園を代表する三陸海岸の景勝地。白い鋭利な岩肌と青松、穏やかで透明度の高いエメラルドグリーンの入江が「まるで極楽浄土のよう」と称えられています。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
+                <h3 className="text-base font-bold text-stone-900">龍泉洞</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">日本三大鍾乳洞の一つで、国の天然記念物。洞内に湧き出る地底湖は世界有数の透明度を誇り、「ドラゴンブルー」と呼ばれる神秘的な青い輝きに吸い込まれそうになります。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
+                <h3 className="text-base font-bold text-stone-900">小岩井農場</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">岩手山の雄大な山麓に広がる日本最大級の民間総合農場。美しい一本桜や歴史あるレンガサイロ、搾りたての牛乳を使った絶品アイスクリームなどが楽しめます。</p>
+              </div>
+            </div>
+            </div>
+          </div>
+
+          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-3 text-xs text-stone-700 leading-relaxed">
+            <h3 className="text-sm md:text-base font-bold text-amber-950">
+              💡 岩手県エリアの宿泊予約・シーズン別ベストタイミングと節約ノウハウ
+            </h3>
+            <p>
+              <strong>1. 早期予約と楽天トラベルクーポンの併用：</strong> 岩手県の人気温泉宿・リゾートホテルは、週末や連休・紅葉・年末年始の60日〜30日前から一気に予約が埋まります。毎月5と0のつく日やスーパーSALE期間中に配布される宿クーポン・自治体クーポンを併用すると、通常より最大10〜20%お得に予約可能です。
+            </p>
+            <p>
+              <strong>2. 夕食・朝食プランと部屋タイプの選び方：</strong> 地元産の旬魚介やブランド牛会席を味わうなら「夕朝食付きプラン」、周辺の屋台・老舗居酒屋・ご当地グルメを食べ歩くなら「朝食付き」または「素泊まり＋天然温泉大浴場付きホテル」を選ぶと予算と満足度のバランスが最適化されます。
+            </p>
           </div>
         </section>
 

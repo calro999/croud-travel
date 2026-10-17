@@ -88,7 +88,7 @@ export default function FeaturePage() {
               rating: 3.9,
               reviews: 215,
               price: "¥8,250〜",
-              access: "JR奥羽線川部駅～JR五能線深浦駅下車後、車で5分／東北自動��道浪岡ICより国道101号経由、車で120分",
+              access: "JR奥羽線川部駅～JR五能線深浦駅下車後、車で5分／東北自動車道浪岡ICより国道101号経由、車で120分",
               features: ["国道101号線沿いの高台に建ち、日本海に面したお部屋からは冬の荒波、夏の漁火が一望いただけます", "西津軽郡深浦町深浦岡崎338-42", "楽天アワード受賞歴"]
             },
             {
@@ -317,11 +317,6 @@ export default function FeaturePage() {
             <ChevronRight className="w-4 h-4" />
           </Link>
         </section>
-      
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -404,7 +399,22 @@ export default function FeaturePage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">会津東山温泉で過ごす冬の旅（11・12月）！名物会津牛！名宿5選</span>
+            </a>
+            <a href="/winter-fukushima-iizaka-onsen-sabakoyu-enban-gyoza-fukushimagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【奥州三名湯・飯坂温泉の熱湯共同浴場と名物円盤餃子】2026-2027年11-12月初冬の福島・飯坂！芭蕉ゆかりの鯖湖湯と波来湯・熱気あふれる湯めぐり、パリパリ焼き立て「名物円盤餃子」ととろける福島牛すき焼き・露天風呂名宿5選</span>
+            </a>
+            <a href="/autumn-budget-fukushima-iwaki-hawaiians-joban-seafood-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">いわき：常磐ものの秋魚グルメ＆ハワイアンズ拠点！2,000円台〜格安ホテル5選</span>
+            </a>
+            <a href="/fukushima-iwaki-yumoto-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">いわき湯本温泉ひとり旅・三函の名湯おこもり：日本三古湯・毎分5トン自噴硫黄泉・常磐もの海鮮！フラガール温泉郷厳選3宿</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

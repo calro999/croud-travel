@@ -450,11 +450,6 @@ export default function FurusatoTakachihoAutumnLeavesGorgeStayPage() {
           </p>
         </footer>
       </div>
-    
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -537,7 +532,22 @@ export default function FurusatoTakachihoAutumnLeavesGorgeStayPage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/silver-week-glamping-tokai-shizuoka-aichi-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">東海シルバーウィーク グランピング：静岡・伊豆・愛知おすすめ！海鮮BBQ＆みかん狩り体験</span>
+            </a>
+            <a href="/winter-aichi-nagoya-atsuta-jingu-hatsumode-hitsumabushi-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月愛知：三種の神器を祀る「熱田神宮」新春初詣！名宿5選</span>
+            </a>
+            <a href="/autumn-budget-aichi-nagoya-momiji-large-bath-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">秋の名古屋×格安：東山動植物園の紅葉ライトアップと名古屋めし！大浴場付き1泊3,000円台〜のコスパ最強ホテル5選「2026最新」</span>
+            </a>
+            <a href="/furusato-tax-torafugu-kaiseki-luxury-gourmet-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">本場天然とらふぐ尽くし会席＆名湯温泉宿×ふるさと納税厳選ガイド下関・愛知日間賀島・若狭湾</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

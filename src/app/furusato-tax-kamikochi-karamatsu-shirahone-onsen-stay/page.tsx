@@ -417,11 +417,6 @@ export default function FeatureArticlePage() {
           </div>
         </aside>
       </div>
-    
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -504,7 +499,22 @@ export default function FeatureArticlePage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/tokyo-iwate-morioka-bus-vs-shinkansen-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">東京〜盛岡・花巻：新幹線はやぶさ vs 夜行バス徹底比較！片道3,500円〜行く三大麺爆食＆花巻温泉郷1泊2日モデルコース</span>
+            </a>
+            <a href="/tokyo-nagano-karuizawa-bus-vs-shinkansen/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">東京から長野・軽井沢 安く行く方法：新幹線 vs 高速バス徹底比較！片道1,500円〜の1泊2日モデルコース</span>
+            </a>
+            <a href="/tokyo-shirahama-kumano-bus-vs-train-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">東京・大阪〜南紀白浜・熊野古道：夜行バス vs 特急くろしお徹底比較！白良浜ビーチ＆世界遺産熊野古道1泊2日モデルコース</span>
+            </a>
+            <a href="/winter-chiba-tokyo-disney-resort-maihama-christmas-hotel-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月舞浜：東京ディズニーリゾート冬のクリスマス！名宿5選</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

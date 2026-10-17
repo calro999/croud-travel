@@ -487,7 +487,7 @@ export default function FurusatoTaxPage() {
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
                               <span>📍</span>
-                              <span className="truncate">山梨県北杜市高根町清里３５４５－９４３　コートドゥヴ���ール内</span>
+                              <span className="truncate">山梨県北杜市高根町清里３５４５－９４３　コートドゥヴェール内</span>
                             </p>
                           </div>
                         </div>
@@ -759,11 +759,6 @@ export default function FurusatoTaxPage() {
             </a>
           </div>
         </section>
-      
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -846,7 +841,22 @@ export default function FurusatoTaxPage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/winter-fukushima-takayu-tsuchiyu-onsen-yukimi-fukushimagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">高湯温泉＆土湯温泉で過ごす冬の旅（11・12月）！吾妻連峰の雪見露天と白濁薬湯！名宿5選</span>
+            </a>
+            <a href="/fukushima-ashinomaki-solo-retreat-gorge-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">会津・芦ノ牧温泉ひとり旅・大川渓谷絶景おこもり：浮き舞台三味線・渓流露天風呂・大内宿ねぎそば！会津鉄道ネコ駅長の渓谷厳選3宿</span>
+            </a>
+            <a href="/furusato-tax-kiso-valley-magome-tsumago-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">木曽路・馬籠宿と妻籠宿の石畳紅葉！木曽福島温泉の清流露天・信州新そば＆木曽牛を味わう秋の中仙道旅</span>
+            </a>
+            <a href="/traditional-fukushima-aizu-urushi-craft-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">会津漆器の艶やかな器と郷土会席：伝統美学！東山温泉・芦ノ牧温泉の歴史名湯宿5選</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

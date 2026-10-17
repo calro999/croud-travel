@@ -343,11 +343,6 @@ export default function ArticlePage() {
             一番人気の宿をチェックする（楽天トラベル）
           </a>
         </div>
-      
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -394,7 +389,22 @@ export default function ArticlePage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/furusato-tax-japanese-garden-view-luxury-ryokan-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">客室から名園を愛でる贅沢！日本庭園ビュー＆伝統数寄屋造り名門温泉旅館×ふるさと納税厳選ガイド島根玉造・佐賀武雄・石川加賀</span>
+            </a>
+            <a href="/ishikawa-yamanaka-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">山中温泉ひとり旅・鶴仙渓おこもり：芭蕉も称賛の名湯・あやとり橋・加賀会席！大聖寺川の渓谷美と山中漆器の街でととのう厳選3宿</span>
+            </a>
+            <a href="/winter-ishikawa-kaga-yamashiro-luxury-araya-totoan-kanogani-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【魯山人の美意識が宿る数寄屋造りの名門と加能ガニ極上フルコース】2026-2027年11-12月初冬の石川・加賀温泉郷！名門「あらや滔々庵」＆「山中温泉 花紫」・源泉掛け流し客室露天風呂と初冬解禁のズワイガニ・能登牛名宿5選</span>
+            </a>
+            <a href="/autumn-budget-ishikawa-kanazawa-station-kenrokuen-tsuzumimon-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">金沢駅前：兼六園秋の雪吊り＆のどぐろ・金沢おでん！2,000円台〜泊まれる格安ホテル5選</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
@@ -424,6 +434,256 @@ export default function ArticlePage() {
                 福岡県の宿・温泉
               </Link>
             </div>
+          </div>
+        </section>
+
+      
+        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
+          <div className="space-y-2 border-b border-stone-200 pb-4">
+            <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
+              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+            </span>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
+              📊 加賀温泉郷・片山津温泉ひとり旅・柴山潟パノラマおこもり：白山連峰一望・湖畔絶景露天風呂・加賀会席＆ズワイガニ！北陸新幹線加賀温泉駅厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+            </h2>
+            <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+              楽天トラベル公式APIより取得した「加賀温泉郷・片山津温泉ひとり旅・柴山潟パノラマおこもり：白山連峰一望・湖畔絶景露天風呂・加賀会席＆ズワイガニ！北陸新幹線加賀温泉駅厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+            </p>
+          </div>
+
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th>
+                  <th className="p-3">所在地</th>
+                  <th className="p-3">最寄り駅・交通</th>
+                  <th className="p-3">駐車場情報</th>
+                  <th className="p-3">楽天評価</th>
+                  <th className="p-3">最安目安</th>
+                  <th className="p-3">予約・詳細</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. 加賀片山津温泉　佳水郷（アパホテルズ＆リゾーツ）</td>
+                <td className="p-3 text-stone-600">石川県加賀市潮津町イ72-1</td>
+                <td className="p-3 text-stone-600">加賀温泉駅周辺</td>
+                <td className="p-3 text-stone-600">250台　無料　予約不要</td>
+                <td className="p-3 font-bold text-amber-600">★4.43（1604件）</td>
+                <td className="p-3 font-bold text-rose-600">¥11,250〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28355%2F28355.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. 片山津温泉　源泉元湯の宿　かのや光楽苑</td>
+                <td className="p-3 text-stone-600">石川県加賀市片山津温泉乙64-1</td>
+                <td className="p-3 text-stone-600">加賀温泉駅周辺</td>
+                <td className="p-3 text-stone-600">有り　６０台　無料</td>
+                <td className="p-3 font-bold text-amber-600">★4.14（746件）</td>
+                <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4997%2F4997.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. ＡＮＡクラウンプラザホテル金沢　ｂｙ　ＩＨＧ</td>
+                <td className="p-3 text-stone-600">石川県金沢市昭和町16-3 JR金沢駅前</td>
+                <td className="p-3 text-stone-600">金沢駅周辺</td>
+                <td className="p-3 text-stone-600">有（45台）　料金1500円(1泊15:00～翌11:00)</td>
+                <td className="p-3 font-bold text-amber-600">★4.32（3259件）</td>
+                <td className="p-3 font-bold text-rose-600">¥6,392〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F263%2F263.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">4. ガーデンホテル金沢</td>
+                <td className="p-3 text-stone-600">石川県金沢市本町2-16-16</td>
+                <td className="p-3 text-stone-600">金沢駅周辺</td>
+                <td className="p-3 text-stone-600">平地駐車場（7台）がホテル裏手にございます。1泊1,000円で先着順でございます。</td>
+                <td className="p-3 font-bold text-amber-600">★4.06（2145件）</td>
+                <td className="p-3 font-bold text-rose-600">¥3,000〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F362%2F362.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">5. アパホテル〈金沢駅前〉</td>
+                <td className="p-3 text-stone-600">石川県金沢市広岡1-9-28</td>
+                <td className="p-3 text-stone-600">金沢駅周辺</td>
+                <td className="p-3 text-stone-600">78台 1泊/1,300円【車高1.9ｍ　先着順・予約不可】提携P：立体1,500台 1泊/800円</td>
+                <td className="p-3 font-bold text-amber-600">★4.08（8583件）</td>
+                <td className="p-3 font-bold text-rose-600">¥5,940〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F547%2F547.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div className="space-y-4">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
+              🏨 各宿の宿泊者リアルクチコミ・客室イメージ・項目別評価データ
+            </h3>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #1</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">加賀片山津温泉　佳水郷（アパホテルズ＆リゾーツ）</h3>
+                  <span className="text-xs text-stone-400 ml-2">（かがかたやまづおんせん　かすいきょう（あぱほてるあんどりぞーつ））</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥11,250〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28355/28355_kw.jpg" alt="加賀片山津温泉　佳水郷（アパホテルズ＆リゾーツ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>全室絶景湖畔を望む割烹温泉旅館。霊峰白山と柴山潟を一望できる大浴殿、サウナ、旬の逸品会席が好評！！</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 石川県加賀市潮津町イ72-1 ／ 最寄り駅：加賀温泉 ／ 交通案内：【電車】JR加賀温泉駅から車で10分（無料送迎有、要予約）【車】片山津ICから5分【飛行機】小松空港から車で20分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>250台　無料　予約不要</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.44 ／ 立地 ★4.52 ／ 部屋 ★4.46 ／ 設備 ★4.32 ／ 風呂 ★4.39</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「優しい味付けの食事と絶景の風呂に癒やされる食事の味付けが薄目で優しく、とても美味しかったと思います。風呂からの景色もよく、気持ち良い時間を過ごすことができました。クチコミの詳細はこちらから…　2026-10-10 21:57:58投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #2</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">片山津温泉　源泉元湯の宿　かのや光楽苑</h3>
+                  <span className="text-xs text-stone-400 ml-2">（かたやまづおんせん　げんせんもとゆのやど　かのやこうらくえん）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥8,800〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4997/4997_rm.jpg" alt="片山津温泉　源泉元湯の宿　かのや光楽苑 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>柴山潟に面し、客室からは湖が望めます。源泉を流し込む湯量豊富な温泉と加賀料理が自慢の元湯の宿</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 石川県加賀市片山津温泉乙64-1 ／ 最寄り駅：加賀温泉 ／ 交通案内：JR加賀温泉駅より車で10分（無料送迎有／定時運行／要事前予約）、北陸自動車道片山津ＩＣより10分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.13 ／ 立地 ★4.13 ／ 部屋 ★4.11 ／ 設備 ★3.94 ／ 風呂 ★4.16 ／ 食事 ★4.34</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と温泉に大満足、また利用したい食事は色々な料理も大変美味しくいただきました温泉も大満足でした露天風呂の眺望が有ればもっと良いかな機会が有ればまた利用したいですクチコミの詳細はこ…　2026-10-08 10:31:46投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #3</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ＡＮＡクラウンプラザホテル金沢　ｂｙ　ＩＨＧ</h3>
+                  <span className="text-xs text-stone-400 ml-2">（えーえぬえーくらうんぷらざほてるかなざわ）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥6,392〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/263/263_kyk.jpg" alt="ＡＮＡクラウンプラザホテル金沢　ｂｙ　ＩＨＧ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>金沢駅隣接、全館Wi-Fi接続無料！ワンランク上のご滞在を</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 石川県金沢市昭和町16-3 JR金沢駅前 ／ 最寄り駅：金沢 ／ 交通案内：ＪＲ「金沢駅」東口より徒歩1分。もてなしドームから雨に濡れずにホテル到着。小松空港から車で４０分。コンビニ徒歩１分。</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有（45台）　料金1500円(1泊15:00～翌11:00)</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感のある部屋とライブキッチンの朝食歴史があるホテルですが、お部屋も清潔感があり快適に過ごせました。朝食もライブキッチンがあり、できたてのオムレツが食べれたり内容も充分でした。駅近でとても便…　2026-08-26 13:37:37投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #4</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ガーデンホテル金沢</h3>
+                  <span className="text-xs text-stone-400 ml-2">（がーでんほてる　かなざわ）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,000〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/362/362_sgl.jpg" alt="ガーデンホテル金沢 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>金沢駅正面というフットワークの良さが自慢。兼六園・ひがし茶屋街などへの観光の拠点に最適。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 石川県金沢市本町2-16-16 ／ 最寄り駅：金沢 ／ 交通案内：ＪＲ金沢駅東口ガラスドーム正面－駅舎より横断歩道を１つ渡るだけ 徒歩1分です。金沢が初めての方でも迷わずご来館頂けます。</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>平地駐車場（7台）がホテル裏手にございます。1泊1,000円で先着順でございます。</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食付きで格安、駅前でチェックアウトも遅め朝食もついて、めっちゃお安く泊まれました。駅前で場所も分かりやすく、チェックアウトが11時なのも良かったです。金沢に行く際は、泊まりたいホテルです…　2026-08-25 07:34:51投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #5</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">アパホテル〈金沢駅前〉</h3>
+                  <span className="text-xs text-stone-400 ml-2">（あぱほてる＜かなざわえきまえ＞）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥5,940〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/547/547_sgl.jpg" alt="アパホテル〈金沢駅前〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>コンパクトながらも機能性を追求した金沢駅目前の大浴殿付ホテル！ビジネス、観光に最適な駅前立地！</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 石川県金沢市広岡1-9-28 ／ 最寄り駅：金沢 ／ 交通案内：「金沢駅」西口を出て左手すぐ（徒歩1分）小松空港から金沢駅直通バスで40分　東京駅⇔金沢駅間 北陸新幹線にて2時間30分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>78台 1泊/1,300円【車高1.9ｍ　先着順・予約不可】提携P：立体1,500台 1泊/800円</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.14 ／ 立地 ★4.22 ／ 部屋 ★4.03 ／ 設備 ★4.04 ／ 風呂 ★4.13 ／ 食事 ★4.33</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの接客も丁寧でお部屋も清潔感があってよかったのですがベッドのマットレスが柔らか過ぎて私には、少し寝ずらかったです。その他は、大満足でした。クチコミの詳細はこちらから　htt…　2026-10-10 23:00:16投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="space-y-4 pt-6 border-t border-stone-200">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
+              🗺️ あわせて巡りたい！石川県の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+            </h3>
+            <p className="text-xs text-stone-600 leading-relaxed">
+              宿泊前後の1泊2日・2泊3日モデルコースに組み込みたい、石川県を代表する名所・絶景スポットの解説です。チェックイン前後の荷物預かりや駅周辺のレンタカー・周遊バスを活用すると効率よく巡ることができます。
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
+                <h3 className="text-base font-bold text-stone-900">兼六園</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">水戸偕楽園・岡山後楽園と並ぶ日本三名園の一つ。四季折々の庭園美が見事で、冬には雪の重みから枝を守る「雪吊り」が金沢の冬の風物詩として知られています。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
+                <h3 className="text-base font-bold text-stone-900">金沢21世紀美術館</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">「まちに開かれた公園のような美術館」をコンセプトとした現代アートの殿堂。レアンドロ・エルリッヒの「スイミング・プール」など体感型アートが世界的人気です。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
+                <h3 className="text-base font-bold text-stone-900">ひがし茶屋街</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">キムスコ（細い格子）と呼ばれる出格子がある美しい木造茶屋建築が並ぶ重要伝統的建造物群保存地区。金箔体験やカフェ巡りを着物姿で楽しめます。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
+                <h3 className="text-base font-bold text-stone-900">白米千枚田（しろよねせんまいだ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">日本海に面した急斜面に1,004枚の小さな田んぼが重なり合う棚田の絶景。黄金色に輝く稲穂やイルミネーションイベント「あぜのきらめき」が幻想的です。</p>
+              </div>
+            </div>
+            </div>
+          </div>
+
+          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-3 text-xs text-stone-700 leading-relaxed">
+            <h3 className="text-sm md:text-base font-bold text-amber-950">
+              💡 石川県エリアの宿泊予約・シーズン別ベストタイミングと節約ノウハウ
+            </h3>
+            <p>
+              <strong>1. 早期予約と楽天トラベルクーポンの併用：</strong> 石川県の人気温泉宿・リゾートホテルは、週末や連休・紅葉・年末年始の60日〜30日前から一気に予約が埋まります。毎月5と0のつく日やスーパーSALE期間中に配布される宿クーポン・自治体クーポンを併用すると、通常より最大10〜20%お得に予約可能です。
+            </p>
+            <p>
+              <strong>2. 夕食・朝食プランと部屋タイプの選び方：</strong> 地元産の旬魚介やブランド牛会席を味わうなら「夕朝食付きプラン」、周辺の屋台・老舗居酒屋・ご当地グルメを食べ歩くなら「朝食付き」または「素泊まり＋天然温泉大浴場付きホテル」を選ぶと予算と満足度のバランスが最適化されます。
+            </p>
           </div>
         </section>
 

@@ -78,7 +78,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 mt-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ホテルルートイン苅田駅前」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ホテルルートイン苅田駅前」へは、ＪＲ日豊本線 苅田駅徒歩0分��北九州空港より車で約１5分。最寄りの苅田駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ホテルルートイン苅田駅前」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ホテルルートイン苅田駅前」は『ＷＯＷＯＷ全室で無料視聴可■VODルームシアター無料視聴可能（一般映画のみ：コンフォートル。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ホテルルートイン苅田駅前」と「ホテルルートインコート甲府石和」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ホテルルートイン苅田駅前」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ホテルルートイン苅田駅前」へは、ＪＲ日豊本線 苅田駅徒歩0分／北九州空港より車で約１5分。最寄りの苅田駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ホテルルートイン苅田駅前」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ホテルルートイン苅田駅前」は『ＷＯＷＯＷ全室で無料視聴可■VODルームシアター無料視聴可能（一般映画のみ：コンフォートル。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ホテルルートイン苅田駅前」と「ホテルルートインコート甲府石和」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         {/* Intro Lead */}
         <section className="bg-slate-900/90 border border-slate-800 rounded-3xl p-6 sm:p-8 backdrop-blur shadow-2xl">
@@ -315,7 +315,7 @@ export default function Page() {
                       <span>奈良県奈良市北半田東町1</span>
                     </p>
                     <p className="text-slate-300 text-xs sm:text-sm leading-relaxed mb-4 bg-slate-900/60 p-3.5 rounded-xl border border-slate-800/60">
-                      奈良公��・東大寺まで徒歩5分！世界遺産を見渡せる屋上庭園や華やかな懐石料理で奈良をたっぷり味わえる宿
+                      奈良公園・東大寺まで徒歩5分！世界遺産を見渡せる屋上庭園や華やかな懐石料理で奈良をたっぷり味わえる宿
                     </p>
                   </div>
 
@@ -432,11 +432,6 @@ export default function Page() {
             </Link>
           </div>
         </section>
-      
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -451,7 +446,7 @@ export default function Page() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">14:00〜</strong> 苅田駅よりアクセス。ＪＲ日豊本線 苅田駅徒歩0分��北九州空港より車で約１5分。</li>
+                <li>・<strong className="text-stone-800">14:00〜</strong> 苅田駅よりアクセス。ＪＲ日豊本線 苅田駅徒歩0分／北九州空港より車で約１5分。</li>
                 <li>・<strong className="text-stone-800">15:30〜</strong> 「ホテルルートイン苅田駅前」にチェックイン。ＷＯＷＯＷ全室で無料視聴可■VODルームシアター無料視聴可能（一般映画のみ：コンフォートルーム特典）などの宿の特徴に期待を高めつつ客室へ。</li>
                 <li>・<strong className="text-stone-800">17:00〜</strong> 「ホテルルートイン苅田駅前」の湯処へ。ＷＯＷＯＷ全室で無料視聴可■VODルームシアター無料視聴可能（一般映画とともに、夕暮れの特別な寛ぎを満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「ホテルルートイン苅田駅前」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
@@ -486,7 +481,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「ホテルルートイン苅田駅前」へは、ＪＲ日豊本線 苅田駅徒歩0分��北九州空港より車で約１5分。最寄りの苅田駅からの経路案内も充実しています。
+                A. 「ホテルルートイン苅田駅前」へは、ＪＲ日豊本線 苅田駅徒歩0分／北九州空港より車で約１5分。最寄りの苅田駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -519,7 +514,22 @@ export default function Page() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/yamagata-yunohama-solo-retreat-sunset-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">山形・湯野浜温泉ひとり旅・日本海夕陽おこもり：日本の夕陽百選・オーシャン露天・庄内浜鮮魚！波音に包まれる海辺のソロリトリート厳選3宿</span>
+            </a>
+            <a href="/furusato-tax-akayu-wine-grape-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">山形ワイン＆ぶどうの郷「南陽・赤湯温泉」開湯920年の名湯と米沢牛ステーキ・ワイナリー巡り</span>
+            </a>
+            <a href="/furusato-tax-yamagata-zao-onsen-okama-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">エメラルドの火口湖「御釜」と冬の樹氷スノーモンスター！山形蔵王温泉の乳白色強酸性硫黄泉＆極上山形牛名門宿×ふるさと納税極上旅ガイド蔵王国際・四季のホテル・高見屋</span>
+            </a>
+            <a href="/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">赤湯温泉で過ごす冬の旅（11・12月）！特選米沢牛すき焼き！名宿5選</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
@@ -549,6 +559,194 @@ export default function Page() {
                 福井県の宿・温泉
               </Link>
             </div>
+          </div>
+        </section>
+
+      
+        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
+          <div className="space-y-2 border-b border-stone-200 pb-4">
+            <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
+              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+            </span>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
+              📊 新日本三大夜景＆天空スカイパノラマ宿×ふるさと納税ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+            </h2>
+            <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+              楽天トラベル公式APIより取得した「新日本三大夜景＆天空スカイパノラマ宿×ふるさと納税ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+            </p>
+          </div>
+
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th>
+                  <th className="p-3">所在地</th>
+                  <th className="p-3">最寄り駅・交通</th>
+                  <th className="p-3">駐車場情報</th>
+                  <th className="p-3">楽天評価</th>
+                  <th className="p-3">最安目安</th>
+                  <th className="p-3">予約・詳細</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. ホテルルートイン苅田駅前</td>
+                <td className="p-3 text-stone-600">福岡県京都郡苅田町神田町1-8-1</td>
+                <td className="p-3 text-stone-600">苅田駅周辺</td>
+                <td className="p-3 text-stone-600">有り　83台　無料　先着順（予約不可）</td>
+                <td className="p-3 font-bold text-amber-600">★4.06（604件）</td>
+                <td className="p-3 font-bold text-rose-600">¥5,350〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68680%2F68680.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. ホテルルートインコート甲府石和</td>
+                <td className="p-3 text-stone-600">山梨県笛吹市石和町広瀬1195</td>
+                <td className="p-3 text-stone-600">石和温泉駅周辺</td>
+                <td className="p-3 text-stone-600">無料駐車場完備　８５台</td>
+                <td className="p-3 font-bold text-amber-600">★3.69（697件）</td>
+                <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5336%2F5336.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. ホテルニューわかさ</td>
+                <td className="p-3 text-stone-600">奈良県奈良市北半田東町1</td>
+                <td className="p-3 text-stone-600">近鉄奈良駅周辺</td>
+                <td className="p-3 text-stone-600">有り　車40台バス6台　15時から１０時無料（時間外有料）</td>
+                <td className="p-3 font-bold text-amber-600">★4.6（691件）</td>
+                <td className="p-3 font-bold text-rose-600">¥13,200〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8692%2F8692.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div className="space-y-4">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
+              🏨 各宿の宿泊者リアルクチコミ・客室イメージ・項目別評価データ
+            </h3>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #1</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ホテルルートイン苅田駅前</h3>
+                  <span className="text-xs text-stone-400 ml-2">（るーといんかんだえきまえ）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥5,350〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/68680/68680_k.jpg" alt="ホテルルートイン苅田駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>ＷＯＷＯＷ全室で無料視聴可■VODルームシアター無料視聴可能（一般映画のみ：コンフォートルーム特典）</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 福岡県京都郡苅田町神田町1-8-1 ／ 最寄り駅：苅田 ／ 交通案内：ＪＲ日豊本線　苅田駅徒歩0分／北九州空港より車で約１5分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　83台　無料　先着順（予約不可）</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.12 ／ 立地 ★4.04 ／ 部屋 ★4.01 ／ 設備 ★3.97 ／ 風呂 ★4.01 ／ 食事 ★4.11</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が豊富で割引や特典も充実朝食バイキングが豊富ですね。ホテル公式アプリから予約なら、ソフトドリンク無料コインが頂けます。JAF会員なので割引を活用してポンタポイントもありがたいですね…　2026-09-19 19:37:17投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #2</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ホテルルートインコート甲府石和</h3>
+                  <span className="text-xs text-stone-400 ml-2">（るーといんこーと　こうふいさわ）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥6,000〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5336/5336.jpg" alt="ホテルルートインコート甲府石和 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>国道20号側でアクセス抜群！近隣には観光施設・レジャー施設・飲食店等豊富◎</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 山梨県笛吹市石和町広瀬1195 ／ 最寄り駅：石和温泉 ／ 交通案内：中央道一宮御坂ＩＣより国道137号経由→国道20号甲府・諏訪方面に向かって車で10分・ＪＲ中央本線石和温泉駅より車で５分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>無料駐車場完備　８５台</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.79 ／ 立地 ★3.62 ／ 部屋 ★3.68 ／ 設備 ★3.65 ／ 風呂 ★3.79 ／ 食事 ★3.67</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「眺望は残念だが清潔で朝食も満足部屋は一階の部屋で眺望は良くなかったですが、清掃が行き届いていて清潔でした。フロントの女性の対応も親切丁寧でした。朝食を和食洋食など満足でした。クチコミの詳細はこ…　2026-09-29 20:46:26投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #3</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ホテルニューわかさ</h3>
+                  <span className="text-xs text-stone-400 ml-2">（にゅーわかさ）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥13,200〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8692/8692_rm.jpg" alt="ホテルニューわかさ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>奈良公園・東大寺まで徒歩5分！世界遺産を見渡せる屋上庭園や華やかな懐石料理で奈良をたっぷり味わえる宿</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 奈良県奈良市北半田東町1 ／ 最寄り駅：近鉄奈良 ／ 交通案内：車：名神高速道路京都南ICより60分　電車：近鉄奈良線近鉄奈良駅</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　車40台バス6台　15時から１０時無料（時間外有料）</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.5 ／ 部屋 ★4.62 ／ 設備 ★4.57 ／ 風呂 ★4.54 ／ 食事 ★4.52</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応とイベントに大満足、また来たいスタッフさんの対応がすべて心地よく、楽しいイベントも用意されていて、施設もきれいでした。子どもが大喜びしていて、奈良にまた遊びに行くときはこのホテル…　2026-10-07 22:48:58投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="space-y-4 pt-6 border-t border-stone-200">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
+              🗺️ あわせて巡りたい！山形県の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+            </h3>
+            <p className="text-xs text-stone-600 leading-relaxed">
+              宿泊前後の1泊2日・2泊3日モデルコースに組み込みたい、山形県を代表する名所・絶景スポットの解説です。チェックイン前後の荷物預かりや駅周辺のレンタカー・周遊バスを活用すると効率よく巡ることができます。
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
+                <h3 className="text-base font-bold text-stone-900">宝珠山 立石寺（山寺）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">松尾芭蕉が「閑さや岩にしみ入る蝉の声」と詠んだことで名高い名刹。1015段の石段を登りきった五大堂からは、山形の大自然と里山を一望する壮大な絶景が広がります。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Evening_twilight_in_Ginzan_Onsen_town_January_2022_A.jpg/1280px-Evening_twilight_in_Ginzan_Onsen_town_January_2022_A.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="銀山温泉" className="w-full h-full object-cover" loading="lazy" /></div>
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
+                <h3 className="text-base font-bold text-stone-900">銀山温泉</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">銀山川の両岸に木造多層の温泉旅館が立ち並ぶ、大正ロマンあふれる温泉街。夕暮れ時にガス灯の温かな光が雪景色や大正建築を照らし出す風景は感動的です。 銀山温泉（ぎんざんおんせん）は、山形県尾花沢市（旧国出羽国、明治以降は羽前国）にある温泉である。 NHK連続テレビ小説『おしん』の舞台となったことで一躍脚光を浴び、全国的にその名を知られることになった。…</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Zaou_Gongen_Circumstancial_appearance_of_Mount_Yoshino.jpg/1280px-Zaou_Gongen_Circumstancial_appearance_of_Mount_Yoshino.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="蔵王の樹氷" className="w-full h-full object-cover" loading="lazy" /></div>
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
+                <h3 className="text-base font-bold text-stone-900">蔵王の樹氷</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">冬の蔵王連峰で見られる自然の芸術「アイスモンスター」。アオモリトドマツに雪と氷が吹き付けられて巨大化した樹氷群を、ロープウェイやナイターライトアップで楽しめます。 蔵王、藏王（ざ-おう） 読みとしては、「蔵王」の本来の読み、旧仮名づかい「ざう-わう(ぞう-おう)」（音読み）が連声化したもの。 修験道の神である蔵王権現のこと。日本各地にみられる「蔵王」という名称は、後述の地名を含め、その大半が蔵王権現（奈良県吉野の発祥）に由来している（蔵王権現を参照）。 上述の蔵王権現を祭っている神社（蔵王権現社、御嶽神社（御岳神社）、…</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
+                <h3 className="text-base font-bold text-stone-900">羽黒山 三重塔</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">出羽三山神社への参道杉木立の中に佇む、東北最古の国宝木造塔。樹齢数百年の巨大な老杉に囲まれた静寂な空間は、強いパワースポットとして知られています。</p>
+              </div>
+            </div>
+            </div>
+          </div>
+
+          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-3 text-xs text-stone-700 leading-relaxed">
+            <h3 className="text-sm md:text-base font-bold text-amber-950">
+              💡 山形県エリアの宿泊予約・シーズン別ベストタイミングと節約ノウハウ
+            </h3>
+            <p>
+              <strong>1. 早期予約と楽天トラベルクーポンの併用：</strong> 山形県の人気温泉宿・リゾートホテルは、週末や連休・紅葉・年末年始の60日〜30日前から一気に予約が埋まります。毎月5と0のつく日やスーパーSALE期間中に配布される宿クーポン・自治体クーポンを併用すると、通常より最大10〜20%お得に予約可能です。
+            </p>
+            <p>
+              <strong>2. 夕食・朝食プランと部屋タイプの選び方：</strong> 地元産の旬魚介やブランド牛会席を味わうなら「夕朝食付きプラン」、周辺の屋台・老舗居酒屋・ご当地グルメを食べ歩くなら「朝食付き」または「素泊まり＋天然温泉大浴場付きホテル」を選ぶと予算と満足度のバランスが最適化されます。
+            </p>
           </div>
         </section>
 

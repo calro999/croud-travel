@@ -216,7 +216,288 @@ export default function ThemeParkActivityHubPage() {
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
                         </a>
                       </div>
-                    </article>
+                    
+        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
+          <div className="space-y-2 border-b border-stone-200 pb-4">
+            <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
+              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+            </span>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
+              📊 ハウステンボス直営＆オフィシャルホテル：ヨーロッパの街並み＆イルミネーション宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+            </h2>
+            <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+              楽天トラベル公式APIより取得した「ハウステンボス直営＆オフィシャルホテル：ヨーロッパの街並み＆イルミネーション宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+            </p>
+          </div>
+
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th>
+                  <th className="p-3">所在地</th>
+                  <th className="p-3">最寄り駅・交通</th>
+                  <th className="p-3">駐車場情報</th>
+                  <th className="p-3">楽天評価</th>
+                  <th className="p-3">最安目安</th>
+                  <th className="p-3">予約・詳細</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. ホテルヨーロッパ　ハウステンボス</td>
+                <td className="p-3 text-stone-600">長崎県佐世保市ハウステンボス町7-7</td>
+                <td className="p-3 text-stone-600">ハウステンボス駅周辺</td>
+                <td className="p-3 text-stone-600">フロントにて無料券を発行しますので「宿泊者専用駐車場」をご利用ください。必ず出庫前にご精算ください。</td>
+                <td className="p-3 font-bold text-amber-600">★4.62（2434件）</td>
+                <td className="p-3 font-bold text-rose-600">¥16,400〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9159%2F9159.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. ホテルアムステルダム　ハウステンボス</td>
+                <td className="p-3 text-stone-600">長崎県佐世保市ハウステンボス町7-7</td>
+                <td className="p-3 text-stone-600">ハウステンボス駅周辺</td>
+                <td className="p-3 text-stone-600">フロントにて無料券を発行しますので「宿泊者専用駐車場」をご利用ください。必ず出庫前にご精算ください。</td>
+                <td className="p-3 font-bold text-amber-600">★4.6（2569件）</td>
+                <td className="p-3 font-bold text-rose-600">¥16,200〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9157%2F9157.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. フォレストヴィラ　ハウステンボス</td>
+                <td className="p-3 text-stone-600">長崎県佐世保市ハウステンボス町7-7</td>
+                <td className="p-3 text-stone-600">ハウステンボス駅周辺</td>
+                <td className="p-3 text-stone-600">フロントにて無料券を発行しますので「宿泊者専用駐車場」をご利用ください。必ず出庫前にご精算ください。</td>
+                <td className="p-3 font-bold text-amber-600">★4.41（1075件）</td>
+                <td className="p-3 font-bold text-rose-600">¥8,900〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9156%2F9156.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">4. ホテルオークラＪＲハウステンボス</td>
+                <td className="p-3 text-stone-600">長崎県佐世保市ハウステンボス町10</td>
+                <td className="p-3 text-stone-600">ハウステンボス駅周辺</td>
+                <td className="p-3 text-stone-600">有、1泊1台あたり1000円 *到着日の朝から翌日正午まで。*2027年4月1日より1500円</td>
+                <td className="p-3 font-bold text-amber-600">★4.59（3289件）</td>
+                <td className="p-3 font-bold text-rose-600">¥5,750〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9057%2F9057.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">5. 弓張の丘ホテル</td>
+                <td className="p-3 text-stone-600">長崎県佐世保市鵜渡越町510</td>
+                <td className="p-3 text-stone-600">佐世保駅周辺</td>
+                <td className="p-3 text-stone-600">有り：１００台（無料）</td>
+                <td className="p-3 font-bold text-amber-600">★4.43（1716件）</td>
+                <td className="p-3 font-bold text-rose-600">¥7,336〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7808%2F7808.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">6. 長崎スカイホテル</td>
+                <td className="p-3 text-stone-600">長崎県長崎市江の浦町18-1</td>
+                <td className="p-3 text-stone-600">長崎（長崎）駅周辺</td>
+                <td className="p-3 text-stone-600">有り　20台　お車１台につき、普通車800円/中型車1,600円/大型車2,000円（税込）</td>
+                <td className="p-3 font-bold text-amber-600">★4.16（417件）</td>
+                <td className="p-3 font-bold text-rose-600">¥3,980〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15312%2F15312.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div className="space-y-4">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
+              🏨 各宿の宿泊者リアルクチコミ・客室イメージ・項目別評価データ
+            </h3>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #1</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ホテルヨーロッパ　ハウステンボス</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ほてるよーろっぱ　はうすてんぼす）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥16,400〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9159/9159_twn.jpg" alt="ホテルヨーロッパ　ハウステンボス 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>ハウステンボス直営／ハウステンボス最上位ホテル。クラシカルな世界観と専用クルーズで贅沢なひと時を。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 長崎県佐世保市ハウステンボス町7-7 ／ 最寄り駅：ハウステンボス ／ 交通案内：博多駅→特急約100分／長崎駅→快速約90分／長崎空港→高速船約45分・バス約60分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>フロントにて無料券を発行しますので「宿泊者専用駐車場」をご利用ください。必ず出庫前にご精算ください。</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「重厚感ある空間で夢のような特別な思い出すべてが素敵なお宿でキラキラしていて、特別な思い出になりました。お部屋もフロントも重厚感があり夢の国のようでした。ありがとうございます。クチコミの…　2026-08-29 12:22:23投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #2</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ホテルアムステルダム　ハウステンボス</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ほてるあむすてるだむ　はうすてんぼす）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥16,200〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9157/9157_twn.jpg" alt="ホテルアムステルダム　ハウステンボス 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>ハウステンボス直営／ハウステンボステーマパーク内に位置する唯一のホテルで、抜群の立地と癒しの滞在を。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 長崎県佐世保市ハウステンボス町7-7 ／ 最寄り駅：ハウステンボス ／ 交通案内：博多駅→特急約100分／長崎駅→快速約90分／長崎空港→高速船約45分・バス約60分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>フロントにて無料券を発行しますので「宿泊者専用駐車場」をご利用ください。必ず出庫前にご精算ください。</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.68 ／ 部屋 ★4.6 ／ 設備 ★4.42 ／ 風呂 ★4.28 ／ 食事 ★4.55</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ハウステンボス出入り自由で利便性も最高ハウステンボス出入り自由で今まで泊まったホテルの中でも一番良かったです子供達もおお喜びとにかく利便性がよくスタッフの方の対応もよかったですクチコミ…　2026-10-09 23:24:57投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #3</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">フォレストヴィラ　ハウステンボス</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ふぉれすとう゛ぃら　はうすてんぼす）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥8,900〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9156/9156_twr.jpg" alt="フォレストヴィラ　ハウステンボス 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>ハウステンボス直営／別荘感覚のメゾネットコテージで、家族や仲間と自由に賑やかなハウステンボス滞在を。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 長崎県佐世保市ハウステンボス町7-7 ／ 最寄り駅：ハウステンボス ／ 交通案内：博多駅→特急約100分／長崎駅→快速約90分／長崎空港→高速船約45分・バス約60分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>フロントにて無料券を発行しますので「宿泊者専用駐車場」をご利用ください。必ず出庫前にご精算ください。</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家族5人で広々、朝食も満足の美味しさ大人5人家族で宿泊。リビングも広く、ベッドルームも2部屋あったので、ゆっくり休む事ができました。朝食のクチコミがあまり良くなかったですが、そんなことなかった…　2026-08-28 17:17:11投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #4</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ホテルオークラＪＲハウステンボス</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ほてるおーくらじぇいあーるはうすてんぼす）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥5,750〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9057/9057_twn.jpg" alt="ホテルオークラＪＲハウステンボス 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>スタッフのおもてなしに心和らぎ、天然温泉が疲れを癒す魅力あるリゾートホテルです。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 長崎県佐世保市ハウステンボス町10 ／ 最寄り駅：ハウステンボス ／ 交通案内：西九州自動車道　佐世保大塔ICより車で15分/長崎空港よりバスで70分／JR博多駅より特急ハウステンボス号で110分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有、1泊1台あたり1000円 *到着日の朝から翌日正午まで。*2027年4月1日より1500円</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.65 ／ 部屋 ★4.61 ／ 設備 ★4.53 ／ 風呂 ★4.47 ／ 食事 ★4.65</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「さすがオークラ、全てが完璧で大満足!娘と孫との利用でした。全てにおいて完璧で、さすがオークラって感じでした!ハイキングも種類が多く3泊しましたが、食べてない物もありました、とても美味しかっ…　2026-10-10 19:48:12投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #5</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">弓張の丘ホテル</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ゆみはりのおかほてる）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥7,336〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7808/7808_room.jpg" alt="弓張の丘ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>【全客室リニューアル】◆佐世保の絶景を愉しむ贅沢な時間◆温泉・サウナ・駐車場完備◆朝食もさらに充実！</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 長崎県佐世保市鵜渡越町510 ／ 最寄り駅：佐世保 ／ 交通案内：佐世保中央ＩＣよりお車で約10分　 佐世保駅より無料シャトルバス運行</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り：１００台（無料）</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色は最高だが設備やサービスに不満あり綺麗なホテルでした。売店もお菓子から焼き物まで種類が多く、佐世保駅で買う予定を変更したほど満足しました。朝食2970円は高いお部屋にティッシュ…　2026-08-26 05:49:51投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #6</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">長崎スカイホテル</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ながさき　すかいほてる）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,980〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15312/15312_w.jpg" alt="長崎スカイホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>長崎1,000万＄の夜景を一望できる料理自慢のお宿</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 長崎県長崎市江の浦町18-1 ／ 最寄り駅：長崎（長崎） ／ 交通案内：JR長崎駅より車で10分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　20台　お車１台につき、普通車800円/中型車1,600円/大型車2,000円（税込）</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「長崎を一望できる絶景、部屋はリフォーム済み長崎が一望できるホテル 稲佐山展望台に行く必要がないレベル。施設は少し時間が経ってるようだが、今回泊まらせて頂いた部屋はリフォーム済みで素敵な空間で泊まれ…　2026-08-17 01:16:14投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="space-y-4 pt-6 border-t border-stone-200">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
+              🗺️ あわせて巡りたい！長崎県の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+            </h3>
+            <p className="text-xs text-stone-600 leading-relaxed">
+              宿泊前後の1泊2日・2泊3日モデルコースに組み込みたい、長崎県を代表する名所・絶景スポットの解説です。チェックイン前後の荷物預かりや駅周辺のレンタカー・周遊バスを活用すると効率よく巡ることができます。
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Huis_Ten_Bosch_-_01.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail_unscaled" alt="ハウステンボス" className="w-full h-full object-cover" loading="lazy" /></div>
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
+                <h3 className="text-base font-bold text-stone-900">ハウステンボス</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">オランダの街並みを忠実に再現した日本最大級のテーマパーク。四季折々の花々とヨーロッパ風建築、日本最大級のイルミネーションが年間を通じて輝きます。 ハウステンボス（蘭: Huis Ten Bosch）は、長崎県佐世保市にあるテーマパーク。略称は「HTB」、テンボス。オランダの街並みを再現し、ヨーロッパ全体をテーマとしている。東京ディズニーリゾートの1.5倍の敷地面積で、単独テーマパークとしては日本最大。ドラマ・映画・CMなどのロケ地としても使われている。佐世保市の町にもなっており、所在地の住所は「佐世保…</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
+                <h3 className="text-base font-bold text-stone-900">長崎原爆資料館・平和公園</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">1945年8月9日の被爆の惨状と核兵器廃絶の願いを世界に伝える静聖な場所。天を指す高さ9.7mの平和祈念像の前で平和を祈念します。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
+                <h3 className="text-base font-bold text-stone-900">グラバー園・大浦天主堂</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">長崎港を見下ろす南山手の丘に立つ世界遺産。旧グラバー住宅をはじめとする幕末の西洋館と、現存する日本最古の木造教会「大浦天主堂」が異国情緒を醸します。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
+                <h3 className="text-base font-bold text-stone-900">軍艦島（端島）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">かつて海底炭鉱の島として世界一の人口密度を誇った廃墟の離島・世界文化遺産。高層鉄筋コンクリートアパートがひしめく独特の遺構を上陸クルーズで見学できます。</p>
+              </div>
+            </div>
+            </div>
+          </div>
+
+          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-3 text-xs text-stone-700 leading-relaxed">
+            <h3 className="text-sm md:text-base font-bold text-amber-950">
+              💡 長崎県エリアの宿泊予約・シーズン別ベストタイミングと節約ノウハウ
+            </h3>
+            <p>
+              <strong>1. 早期予約と楽天トラベルクーポンの併用：</strong> 長崎県の人気温泉宿・リゾートホテルは、週末や連休・紅葉・年末年始の60日〜30日前から一気に予約が埋まります。毎月5と0のつく日やスーパーSALE期間中に配布される宿クーポン・自治体クーポンを併用すると、通常より最大10〜20%お得に予約可能です。
+            </p>
+            <p>
+              <strong>2. 夕食・朝食プランと部屋タイプの選び方：</strong> 地元産の旬魚介やブランド牛会席を味わうなら「夕朝食付きプラン」、周辺の屋台・老舗居酒屋・ご当地グルメを食べ歩くなら「朝食付き」または「素泊まり＋天然温泉大浴場付きホテル」を選ぶと予算と満足度のバランスが最適化されます。
+            </p>
+          </div>
+        </section>
+
+      </article>
                   ))}
                 </div>
               </div>

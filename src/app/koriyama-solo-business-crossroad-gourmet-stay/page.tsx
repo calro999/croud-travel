@@ -48,7 +48,7 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「新幹線駅前すぐ・天然温泉大浴場・ご当地郡山ブラックラーメン！東北の交通要所で整う極上ホテル 厳選3選」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「新幹線駅前すぐ・天然温泉大浴場・ご当地郡山ブラックラーメン！東北の交通要所で整う極上ホテル 厳選3選」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"郡山出張＆中通りひとり旅：新幹線駅前すぐ・天然温泉大浴場・ご当地郡山ブラックラーメン！東北の交通要所で整う極上ホテル 厳選3選では、最寄り駅からの送迎バス運行時間やチェックイン時刻（通常15:00）から逆算し、午前中に主要な景勝地・寺社・市場を巡り、午後は宿の天然温泉や地元食材の会席料理をゆっくり堪能する行程が最も満足度の高い回り方です。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"楽天トラベルで予約する際は、無料駐車場の台数・予約要否、露天風呂付き客室や部屋食プランの有無、そして5と0のつく日クーポンや早期割引プランの対象期間を事前に比較確認しておくと安心です。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -416,12 +416,6 @@ export default function ArticlePage() {
           </Link>
         </div>
       </div>
-    
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         
 
         {/* FAQ Section */}
@@ -439,7 +433,7 @@ export default function ArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。
+                A. 郡山出張＆中通りひとり旅：新幹線駅前すぐ・天然温泉大浴場・ご当地郡山ブラックラーメン！東北の交通要所で整う極上ホテル 厳選3選では、最寄り駅からの送迎バス運行時間やチェックイン時刻（通常15:00）から逆算し、午前中に主要な景勝地・寺社・市場を巡り、午後は宿の天然温泉や地元食材の会席料理をゆっくり堪能する行程が最も満足度の高い回り方です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -448,9 +442,259 @@ export default function ArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。
+                A. 楽天トラベルで予約する際は、無料駐車場の台数・予約要否、露天風呂付き客室や部屋食プランの有無、そして5と0のつく日クーポンや早期割引プランの対象期間を事前に比較確認しておくと安心です。
               </p>
             </details>
+          </div>
+        </section>
+
+      
+        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
+          <div className="space-y-2 border-b border-stone-200 pb-4">
+            <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
+              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+            </span>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
+              📊 郡山出張＆中通りひとり旅：新幹線駅前すぐ・天然温泉大浴場・ご当地郡山ブラックラーメン！東北の交通要所で整う極上ホテル 厳選3選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+            </h2>
+            <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+              楽天トラベル公式APIより取得した「郡山出張＆中通りひとり旅：新幹線駅前すぐ・天然温泉大浴場・ご当地郡山ブラックラーメン！東北の交通要所で整う極上ホテル 厳選3選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+            </p>
+          </div>
+
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th>
+                  <th className="p-3">所在地</th>
+                  <th className="p-3">最寄り駅・交通</th>
+                  <th className="p-3">駐車場情報</th>
+                  <th className="p-3">楽天評価</th>
+                  <th className="p-3">最安目安</th>
+                  <th className="p-3">予約・詳細</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. チサンホテル郡山</td>
+                <td className="p-3 text-stone-600">福島県郡山市駅前1-8-18</td>
+                <td className="p-3 text-stone-600">郡山（福島）駅周辺</td>
+                <td className="p-3 text-stone-600">駐車場につきましては【駐車場のご案内】ページをご参照下さい</td>
+                <td className="p-3 font-bold text-amber-600">★3.88（3385件）</td>
+                <td className="p-3 font-bold text-rose-600">¥3,500〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F397%2F397.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. ＥＮ　ＲＥＳＯＲＴ　Ｇｒａｎｄｅｃｏ　Ｈｏｔｅｌ（エンリゾート　グランデコ）</td>
+                <td className="p-3 text-stone-600">福島県耶麻郡北塩原村桧原荒砂沢山1082〔会津裏磐梯〕</td>
+                <td className="p-3 text-stone-600">猪苗代駅周辺</td>
+                <td className="p-3 text-stone-600">有り　100台　無料</td>
+                <td className="p-3 font-bold text-amber-600">★4.43（1642件）</td>
+                <td className="p-3 font-bold text-rose-600">¥7,400〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F508%2F508.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. 会津若松ワシントンホテル</td>
+                <td className="p-3 text-stone-600">福島県会津若松市白虎町201</td>
+                <td className="p-3 text-stone-600">会津若松駅周辺</td>
+                <td className="p-3 text-stone-600">※駐車場は先着順でのご利用をお願いします。 近隣に有料駐車場（一晩500円）あり.※大型車は駐車不可</td>
+                <td className="p-3 font-bold text-amber-600">★3.95（2713件）</td>
+                <td className="p-3 font-bold text-rose-600">¥6,100〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F651%2F651.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">4. 磐梯熱海温泉　紅葉館きらくや</td>
+                <td className="p-3 text-stone-600">福島県郡山市熱海町熱海4-39</td>
+                <td className="p-3 text-stone-600">磐梯熱海駅周辺</td>
+                <td className="p-3 text-stone-600">有り　４０台　無料</td>
+                <td className="p-3 font-bold text-amber-600">★4.18（957件）</td>
+                <td className="p-3 font-bold text-rose-600">¥7,550〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2094%2F2094.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">5. セントラルホテル＜福島県＞</td>
+                <td className="p-3 text-stone-600">福島県郡山市本町1-10-13</td>
+                <td className="p-3 text-stone-600">郡山（福島）駅周辺</td>
+                <td className="p-3 text-stone-600">有り　４０台　５００円</td>
+                <td className="p-3 font-bold text-amber-600">★3.88（1090件）</td>
+                <td className="p-3 font-bold text-rose-600">¥7,000〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4669%2F4669.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div className="space-y-4">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
+              🏨 各宿の宿泊者リアルクチコミ・客室イメージ・項目別評価データ
+            </h3>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #1</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">チサンホテル郡山</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ちさんほてる　こおりやま）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,500〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/397/397_sig.jpg" alt="チサンホテル郡山 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>JR郡山駅西口より徒歩2分の好立地、ホテル1階にセブンイレブンあり</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 福島県郡山市駅前1-8-18 ／ 最寄り駅：郡山（福島） ／ 交通案内：JR郡山駅西口より徒歩2分、郡山ＩＣより車で約20分。</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>駐車場につきましては【駐車場のご案内】ページをご参照下さい</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.02 ／ 立地 ★4.05 ／ 部屋 ★3.82 ／ 設備 ★3.73 ／ 風呂 ★3.73 ／ 食事 ★4.18</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バスタブの蛇口バスタブの水専用蛇口の水圧が足りず修理が必要です。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/39…　2026-10-10 20:03:13投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #2</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ＥＮ　ＲＥＳＯＲＴ　Ｇｒａｎｄｅｃｏ　Ｈｏｔｅｌ（エンリゾート　グランデコ）</h3>
+                  <span className="text-xs text-stone-400 ml-2">（えんりぞーと　ぐらんでこ　ほてる）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥7,400〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/508/508_kan.jpg" alt="ＥＮ　ＲＥＳＯＲＴ　Ｇｒａｎｄｅｃｏ　Ｈｏｔｅｌ（エンリゾート　グランデコ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>標高１,０００ｍの高原リゾート！手が届きそうな星空とあふれる四季折々の大自然をお楽しみください！</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 福島県耶麻郡北塩原村桧原荒砂沢山1082〔会津裏磐梯〕 ／ 最寄り駅：猪苗代 ／ 交通案内：磐越道「猪苗代磐梯高原ＩＣ」より、裏磐梯方面へお車で約２０分後、五色沼交差点より約１５分★ＪＲ猪苗代駅直通シャトルバス有</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「足腰の弱い方でも過ごしやすいホテルです。今回は、母と母の幼なじみの方をお連れしての旅行でした。80を過ぎ、歳と共に足腰が悪くなってきましたが、ここは急な階段などが少なく、とても過ごし易いそうで、私…　2026-08-28 13:43:03投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #3</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">会津若松ワシントンホテル</h3>
+                  <span className="text-xs text-stone-400 ml-2">（あいずわかまつ　わしんとんほてる）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥6,100〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/651/651_heya.jpg" alt="会津若松ワシントンホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>駅徒歩3分｜14時IN／11時OUT｜会津産コシヒカリや郷土料理を味わう朝食｜会津を愉しむ旅の拠点</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 福島県会津若松市白虎町201 ／ 最寄り駅：会津若松 ／ 交通案内：JR磐越西線会津若松駅より徒歩約３分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>※駐車場は先着順でのご利用をお願いします。 近隣に有料駐車場（一晩500円）あり.※大型車は駐車不可</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4 ／ 立地 ★3.99 ／ 部屋 ★3.83 ／ 設備 ★3.77 ／ 風呂 ★3.77 ／ 食事 ★4.39</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「地のもの尽くしのバイキングと便利な立地バイキングが地のものばかりです。馬肉の肉じゃが、牛乳・野菜・ヨーグルト・納豆・蕎麦・・・どれも満足です。また、全部手間暇かけて作っているんだなぁと思える食事ば…　2026-10-08 15:44:27投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #4</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">磐梯熱海温泉　紅葉館きらくや</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ばんだいあたみおんせん　こうようかん　きらくや）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥7,550〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2094/2094_sgl.jpg" alt="磐梯熱海温泉　紅葉館きらくや 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>露天風呂、貸切風呂、マイナスイオンのぬる湯、と温泉三昧。無料貸切風呂が大人気。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 福島県郡山市熱海町熱海4-39 ／ 最寄り駅：磐梯熱海 ／ 交通案内：●磐梯熱海駅下車、徒歩２分。●磐越自動車道磐梯熱海ICから３Km</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.12 ／ 部屋 ★4.04 ／ 設備 ★3.96 ／ 風呂 ★4.42 ／ 食事 ★4.03</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「周辺に飲食店がなく郡山まで移動、お風呂は満足近隣に食事ができるところが見当たらず(宿でそれなりになら可能)電車で郡山まで出かけました。お風呂は良かったです。クチコミの詳細はこちらから　ht…　2026-10-06 19:06:50投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #5</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">セントラルホテル＜福島県＞</h3>
+                  <span className="text-xs text-stone-400 ml-2">（せんとらるほてる＜ふくしまけん＞）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥7,000〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4669/4669_sgl.jpg" alt="セントラルホテル＜福島県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>ローコスト・ロープライス且つ高品質をモットーにしております。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 福島県郡山市本町1-10-13 ／ 最寄り駅：郡山（福島） ／ 交通案内：郡山駅より徒歩１２．３分、郡山Ｉ．Ｃから約２０分。</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　５００円</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.86 ／ 立地 ★3.73 ／ 部屋 ★3.86 ／ 設備 ★3.87 ／ 風呂 ★3.78 ／ 食事 ★3.83</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近でコスパ良好、寝るだけなら十分寝るだけのためでの宿泊でしたが、フロントの対応も必要不可欠な部分に対してチャンと説明があり分かりやすかった。また、朝食については事前に軽食との説明があったので…　2026-09-23 13:21:07投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="space-y-4 pt-6 border-t border-stone-200">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
+              🗺️ あわせて巡りたい！福島県の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+            </h3>
+            <p className="text-xs text-stone-600 leading-relaxed">
+              宿泊前後の1泊2日・2泊3日モデルコースに組み込みたい、福島県を代表する名所・絶景スポットの解説です。チェックイン前後の荷物預かりや駅周辺のレンタカー・周遊バスを活用すると効率よく巡ることができます。
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
+                <h3 className="text-base font-bold text-stone-900">大内宿</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">江戸時代の宿場町の面影をそのまま残す国の重要伝統的建造物群保存地区。茅葺き屋根の民家が街道沿いに並び、名物の「高遠そば（一本ねぎそば）」を味わえます。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
+                <h3 className="text-base font-bold text-stone-900">鶴ヶ城（会津若松城）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">戊辰戦争の激戦に耐え抜いた難攻不落の名城。赤瓦を纏った天守閣は日本唯一であり、内部の歴史資料館や最上階からの城下町一望が見どころです。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
+                <h3 className="text-base font-bold text-stone-900">五色沼湖沼群（裏磐梯）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">磐梯山の噴火によって形成された無数の神秘的な沼群。水に含まれる鉱物や気象条件により、エメラルドグリーンやコバルトブルーに色彩が変わるハイキングコースです。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
+                <h3 className="text-base font-bold text-stone-900">猪苗代湖</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">「天鏡湖」とも称される日本第4位の面積を誇る美しい湖。雄大な磐梯山を水面に映し出し、冬には飛来するハクチョウやしぶき氷の絶景が見られます。</p>
+              </div>
+            </div>
+            </div>
+          </div>
+
+          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-3 text-xs text-stone-700 leading-relaxed">
+            <h3 className="text-sm md:text-base font-bold text-amber-950">
+              💡 福島県エリアの宿泊予約・シーズン別ベストタイミングと節約ノウハウ
+            </h3>
+            <p>
+              <strong>1. 早期予約と楽天トラベルクーポンの併用：</strong> 福島県の人気温泉宿・リゾートホテルは、週末や連休・紅葉・年末年始の60日〜30日前から一気に予約が埋まります。毎月5と0のつく日やスーパーSALE期間中に配布される宿クーポン・自治体クーポンを併用すると、通常より最大10〜20%お得に予約可能です。
+            </p>
+            <p>
+              <strong>2. 夕食・朝食プランと部屋タイプの選び方：</strong> 地元産の旬魚介やブランド牛会席を味わうなら「夕朝食付きプラン」、周辺の屋台・老舗居酒屋・ご当地グルメを食べ歩くなら「朝食付き」または「素泊まり＋天然温泉大浴場付きホテル」を選ぶと予算と満足度のバランスが最適化されます。
+            </p>
           </div>
         </section>
 

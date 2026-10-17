@@ -207,7 +207,7 @@ export default function NagoyaDepartureDaytripBusTourPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-10 md:py-14 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「下呂温泉・伊勢神宮参拝・飛騨牛食べ放題プラン徹底解説」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「下呂温泉・伊勢神宮参拝・飛騨牛食べ放題プラン徹底解説」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"名古屋発 日帰りバスツアー＆温泉ランチおすすめ：下呂温泉・伊勢神宮参拝・飛騨牛食べ放題プラン深掘り特集エリアでは、「下呂温泉　源泉かけ流しのおやど　菊半旅館」（楽天評価★4.44・クチコミ224件、所在地：）をはじめとする宿を拠点にし、最寄り駅（主要駅）やアクセス条件（ＪＲ高山線　下呂駅より徒歩１２分）に合わせて午前中に周辺観光名所を巡り、15時のチェックイン後に温泉や夕食会席を堪能するスケジュールが最も効率的です。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"宿泊予約時は最安料金目安（例：「グランドメルキュール伊勢志摩リゾート＆スパ」は1名あたり¥5,120〜）や駐車場条件（無料・有料駐車場あり）を事前に確認しましょう。連休や紅葉・年末年始シーズンは早期に満室となるため、楽天トラベルの早期割引プランやクーポンの活用がおすすめです。"}}]}) }}
       />
         {/* 🌟 Official Banner Section */}
         <section className="bg-gradient-to-r from-amber-600 via-amber-700 to-yellow-800 rounded-3xl p-6 md:p-8 text-white shadow-xl shadow-amber-950/10 flex flex-col items-center justify-between gap-6 border border-amber-400/30">
@@ -491,12 +491,6 @@ export default function NagoyaDepartureDaytripBusTourPage() {
             </Link>
           </div>
         </section>
-      
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         
 
         {/* FAQ Section */}
@@ -514,7 +508,7 @@ export default function NagoyaDepartureDaytripBusTourPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。
+                A. 名古屋発 日帰りバスツアー＆温泉ランチおすすめ：下呂温泉・伊勢神宮参拝・飛騨牛食べ放題プラン深掘り特集では、最寄り駅からの送迎バス運行時間やチェックイン時刻（通常15:00）から逆算し、午前中に主要な景勝地・寺社・市場を巡り、午後は宿の天然温泉や地元食材の会席料理をゆっくり堪能する行程が最も満足度の高い回り方です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -523,7 +517,7 @@ export default function NagoyaDepartureDaytripBusTourPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。
+                A. 楽天トラベルで予約する際は、無料駐車場の台数・予約要否、露天風呂付き客室や部屋食プランの有無、そして5と0のつく日クーポンや早期割引プランの対象期間を事前に比較確認しておくと安心です。
               </p>
             </details>
           </div>
@@ -538,7 +532,22 @@ export default function NagoyaDepartureDaytripBusTourPage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/winter-kanagawa-hakone-sengokuhara-luxury-hanare-roten-suite-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【全室露天風呂付き極上離れと白濁硫黄泉】2026-2027年11-12月初冬の箱根・仙石原！大人の隠れ家高級宿で味わう極上相州牛＆冬懐石・大涌谷にごり湯スイート名宿5選</span>
+            </a>
+            <a href="/winter-kanagawa-miura-misaki-maguro-suisen-fuji-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月神奈川：城ヶ島30万本の水仙まつりと富士山絶景！名宿5選</span>
+            </a>
+            <a href="/furusato-tax-hakone-gora-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">箱根強羅温泉の登山鉄道紅葉トンネル＆箱根美術館苔庭！白濁にごり湯宿×ふるさと納税厳選ガイド神奈川</span>
+            </a>
+            <a href="/kanagawa-kamakura-shonan-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">古都鎌倉＆湘南江の島：鶴岡八幡宮・江ノ電・富士夕景ホテル 厳選ガイド</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

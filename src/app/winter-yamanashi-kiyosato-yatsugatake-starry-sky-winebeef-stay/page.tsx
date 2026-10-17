@@ -474,8 +474,6 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
             ))}
           </div>
         </section>
-
-        {/* Model Course Section */}
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200 space-y-8">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-indigo-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Course</span>

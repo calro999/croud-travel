@@ -367,7 +367,7 @@ export default function Page() {
                         ハーブに囲まれた閑静な小さなお宿。手作りの家庭料理とアットホームなおもてなしでお出迎え。。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
-                        📍 鹿児島県指宿市��4-4-16
+                        📍 鹿児島県指宿市湯の浜4-4-16
                       </div>
                     </div>
                   </div>
@@ -692,11 +692,6 @@ export default function Page() {
             </Link>
           </div>
         </section>
-      
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -779,7 +774,22 @@ export default function Page() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/yamagata-kaminoyama-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">かみのやま温泉ひとり旅・蔵王連峰パノラマおこもり：城下町足湯・山形牛会席・ワイン王国！奥羽三楽郷の名湯に癒やされる厳選3宿</span>
+            </a>
+            <a href="/yamagata-tsuruoka-hagurosan-dewasanzan-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">山形・鶴岡＆羽黒山・出羽三山：国宝羽黒山五重塔・杉並木＆精進料理・庄内浜宿 厳選ガイド</span>
+            </a>
+            <a href="/furusato-tax-akayu-wine-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">開湯930年の赤湯温泉と南陽スカイパーク南陽盆地紅葉！米沢牛と名湯宿×ふるさと納税厳選ガイド山形</span>
+            </a>
+            <a href="/furusato-tax-yamagata-yonezawa-onogawa-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">山形・米沢牛のふるさと小野川温泉＆白布温泉！小野小町開湯の美肌湯と天元台紅葉</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

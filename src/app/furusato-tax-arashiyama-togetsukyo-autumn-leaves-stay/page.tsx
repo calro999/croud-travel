@@ -46,7 +46,7 @@ const HOTEL_DATA = {
     minCharge: 15200,
     rating: 4.41,
     reviews: 1961,
-    special: '渡月橋まで徒歩約5分！目の前の阪急嵐山駅より��都の中心街まですぐ！天然温泉と5つの貸切風呂が無料！',
+    special: '渡月橋まで徒歩約5分！目の前の阪急嵐山駅より京都の中心街まですぐ！天然温泉と5つの貸切風呂が無料！',
     address: '京都府京都市西京区嵐山西一川町5-4',
     access: '阪急嵐山線「嵐山駅」より徒歩１分。JR「京都駅」より約30分、阪急「梅田駅」より約50分。'
   },
@@ -63,7 +63,7 @@ const HOTEL_DATA = {
     reviews: 253,
     special: '【料亭旅館】嵐山・嵯峨野散策に最適な京都・嵐山温泉の宿。',
     address: '京都府京都市西京区嵐山中尾下町54-4（渡月橋南詰め）',
-    access: '京都駅よりＪＲ嵯峨野線嵯峨嵐山駅下車徒歩１５分。阪急京都���桂駅より嵐山線嵐山駅下車徒歩５分。名神京都南ＩＣより約４０分'
+    access: '京都駅よりＪＲ嵯峨野線嵯峨嵐山駅下車徒歩１５分。阪急京都線桂駅より嵐山線嵐山駅下車徒歩５分。名神京都南ＩＣより約４０分'
   }
 };
 
@@ -417,11 +417,6 @@ export default function FeatureArticlePage() {
           </div>
         </aside>
       </div>
-    
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -504,7 +499,22 @@ export default function FeatureArticlePage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/tokyo-izu-atami-bus-vs-train-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">東京から熱海・伊豆 安く行く方法：新幹線・特急踊り子・普通電車を徹底比較！温泉1泊2日モデルコース</span>
+            </a>
+            <a href="/tokyo-nagoya-bus-vs-shinkansen-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">東京〜名古屋：新幹線 vs 高速バス徹底比較！片道2,000円〜行く名古屋めし爆食1泊2日モデルコース</span>
+            </a>
+            <a href="/tokyo-shizuoka-hamamatsu-bus-vs-shinkansen-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">東京〜静岡・浜松：新幹線こだま vs 高速バス徹底比較！片道1,800円〜行く浜松うなぎ＆浜名湖1泊2日モデルコース</span>
+            </a>
+            <a href="/winter-tokyo-asakusa-sensoji-hatsumode-skytree-edomae-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月浅草押上：浅草寺新春初詣！名宿5選</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

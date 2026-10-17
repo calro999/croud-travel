@@ -403,8 +403,6 @@ export default function FukuokaMunakataPage() {
             </div>
           </div>
         </section>
-
-        {/* Model Course Section */}
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-blue-600 pl-4">
             <span className="text-blue-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Itinerary</span>

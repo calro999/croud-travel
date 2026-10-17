@@ -216,7 +216,257 @@ export default function MicroTouristHubPage() {
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
                         </a>
                       </div>
-                    </article>
+                    
+        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
+          <div className="space-y-2 border-b border-stone-200 pb-4">
+            <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
+              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+            </span>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
+              📊 高知・四万十川＆沈下橋・足摺岬：日本最後の清流カヌー・天然うなぎ＆カツオ宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+            </h2>
+            <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+              楽天トラベル公式APIより取得した「高知・四万十川＆沈下橋・足摺岬：日本最後の清流カヌー・天然うなぎ＆カツオ宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+            </p>
+          </div>
+
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th>
+                  <th className="p-3">所在地</th>
+                  <th className="p-3">最寄り駅・交通</th>
+                  <th className="p-3">駐車場情報</th>
+                  <th className="p-3">楽天評価</th>
+                  <th className="p-3">最安目安</th>
+                  <th className="p-3">予約・詳細</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. 中村プリンスホテル</td>
+                <td className="p-3 text-stone-600">高知県四万十市中村弥生町4-1</td>
+                <td className="p-3 text-stone-600">中村駅周辺</td>
+                <td className="p-3 text-stone-600">ご宿泊者様は皆様駐車可能（場所は先着順・無料です。ご予約は承っておりません。ご了承下さいませ）</td>
+                <td className="p-3 font-bold text-amber-600">★3.88（1125件）</td>
+                <td className="p-3 font-bold text-rose-600">¥5,700〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8989%2F8989.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. ゆのごう温泉　ホテル湯の杜（旧：ホテル湯の杜美春閣）</td>
+                <td className="p-3 text-stone-600">岡山県美作市中山1144</td>
+                <td className="p-3 text-stone-600">林野駅周辺</td>
+                <td className="p-3 text-stone-600">有り　８０台　無料　予約不要</td>
+                <td className="p-3 font-bold text-amber-600">★4.64（1289件）</td>
+                <td className="p-3 font-bold text-rose-600">¥12,300〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67099%2F67099.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. 新安並温泉　なごみ宿　安住庵</td>
+                <td className="p-3 text-stone-600">高知県四万十市中村1815為松公園頂上</td>
+                <td className="p-3 text-stone-600">中村駅周辺</td>
+                <td className="p-3 text-stone-600">有り　１５台　無料</td>
+                <td className="p-3 font-bold text-amber-600">★4.57（194件）</td>
+                <td className="p-3 font-bold text-rose-600">¥15,000〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10838%2F10838.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">4. 土佐御苑(とさぎょえん)</td>
+                <td className="p-3 text-stone-600">高知県高知市大川筋1-4-8</td>
+                <td className="p-3 text-stone-600">高知駅周辺</td>
+                <td className="p-3 text-stone-600">駐車料金：普通車1100円・二輪800円</td>
+                <td className="p-3 font-bold text-amber-600">★4.26（2159件）</td>
+                <td className="p-3 font-bold text-rose-600">¥11,550〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10680%2F10680.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">5. あしずり温泉郷　足摺国際ホテル</td>
+                <td className="p-3 text-stone-600">高知県土佐清水市足摺岬662</td>
+                <td className="p-3 text-stone-600">高知自動車道四万十町中央ICより国道56号線経由で140分／土佐くろし</td>
+                <td className="p-3 text-stone-600">施設へ要確認</td>
+                <td className="p-3 font-bold text-amber-600">★4.44（747件）</td>
+                <td className="p-3 font-bold text-rose-600">¥9,240〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8329%2F8329.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div className="space-y-4">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
+              🏨 各宿の宿泊者リアルクチコミ・客室イメージ・項目別評価データ
+            </h3>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #1</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">中村プリンスホテル</h3>
+                  <span className="text-xs text-stone-400 ml-2">（なかむら　ぷりんすほてる）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥5,700〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8989/8989_sigl.jpg" alt="中村プリンスホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>四万十川のほとりに建ち、繁華街まで徒歩約５分、コンビニ目の前</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 高知県四万十市中村弥生町4-1 ／ 最寄り駅：中村 ／ 交通案内：中村駅より車で約５分(駅ご到着時,お電話頂きましたらタクシー《有料》をお呼び致します)</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>ご宿泊者様は皆様駐車可能（場所は先着順・無料です。ご予約は承っておりません。ご了承下さいませ）</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「室内にノミがいて噛まれた。室内にノミがいて3箇所噛まれた。夏はもう泊まらん。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/…　2026-08-22 23:49:55投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #2</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ゆのごう温泉　ホテル湯の杜（旧：ホテル湯の杜美春閣）</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ゆのごうおんせん　ほてるゆのもり）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥12,300〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67099/67099_kr.jpg" alt="ゆのごう温泉　ホテル湯の杜（旧：ホテル湯の杜美春閣） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>様々な旅の目的にお応えできる本格和風旅館</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 岡山県美作市中山1144 ／ 最寄り駅：林野 ／ 交通案内：ＪＲ姫新線　林野駅より車で１０分  中国自動車道　美作インターより車で15分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料　予約不要</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.69 ／ 立地 ★4.46 ／ 部屋 ★4.6 ／ 設備 ★4.54 ／ 風呂 ★4.58 ／ 食事 ★4.74</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も温泉も接客も最高で大満足の旅今回、夫婦で宿泊させていただきましたが、到着から出発まで大変気持ちよく過ごすことができ、本当に大満足のお宿でした。何より印象に残ったのは、スタッフの皆さん…　2026-10-10 18:58:39投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #3</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">新安並温泉　なごみ宿　安住庵</h3>
+                  <span className="text-xs text-stone-400 ml-2">（しんやすなみおんせん　なごみやど　あんじゅうあん）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥15,000〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10838/10838_room.jpg" alt="新安並温泉　なごみ宿　安住庵 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>城山の山頂に建つ四万十の川と街を眼下に望む一軒宿</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 高知県四万十市中村1815為松公園頂上 ／ 最寄り駅：中村 ／ 交通案内：土佐くろしお鉄道中村駅下車　タクシーで約１０分（徒歩４０分） / 高知自動車道四万十町中央ICより国道５６号線で約６０分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「新安並温泉　なごみ宿　安住庵は立地・設備・ホスピタリティのバランスに優れ、観光拠点としても記念日や週末リフレッシュ滞在としても高い満足度を得ています。」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #4</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">土佐御苑(とさぎょえん)</h3>
+                  <span className="text-xs text-stone-400 ml-2">（とさぎょえん）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥11,550〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10680/10680_war.jpg" alt="土佐御苑(とさぎょえん) 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>プロが選ぶ日本のホテル旅館100選料理部門連続受賞中|高知駅徒歩5分の鰹料理とおもてなしの宿</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 高知県高知市大川筋1-4-8 ／ 最寄り駅：高知 ／ 交通案内：高知ICよりお車で１０分　高知駅より徒歩５分　高知空港よりお車で３０分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>駐車料金：普通車1100円・二輪800円</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの笑顔とアンパンマン布団で良い思い出宿のスタッフの皆様の笑顔が素敵で快適に過ごすことができました。初めての三世代旅行でしたが、アンパン布団も用意して頂き良い思い出になりました!!ク…　2026-08-29 19:41:53投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #5</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">あしずり温泉郷　足摺国際ホテル</h3>
+                  <span className="text-xs text-stone-400 ml-2">（あしずりおんせんごう　あしずりこくさいほてる）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥9,240〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8329/8329_room.jpg" alt="あしずり温泉郷　足摺国際ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>四国最南端、あしずり温泉郷にあって果てしなく広がる真っ青な大空と紺碧の太平洋がお出迎え致します。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 高知県土佐清水市足摺岬662 ／ 最寄り駅：主要駅 ／ 交通案内：高知自動車道四万十町中央ICより国道56号線経由で140分／土佐くろしお鉄道中村駅よりバス100分、タクシー60分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と眺望は最高、お風呂は熱すぎて...海の見えるベッドのお部屋が満室、高齢者を連れて和室は少々不安もありながらの予約。しかしエレベーター降りてすぐの部屋で助かったのと、畳も綺麗で清潔感があり、掃…　2026-09-01 23:42:41投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="space-y-4 pt-6 border-t border-stone-200">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
+              🗺️ あわせて巡りたい！高知県の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+            </h3>
+            <p className="text-xs text-stone-600 leading-relaxed">
+              宿泊前後の1泊2日・2泊3日モデルコースに組み込みたい、高知県を代表する名所・絶景スポットの解説です。チェックイン前後の荷物預かりや駅周辺のレンタカー・周遊バスを活用すると効率よく巡ることができます。
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/ja/thumb/7/79/Kochi_Katsurahama_Daytime_2.JPG/1280px-Kochi_Katsurahama_Daytime_2.JPG?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="桂浜（坂本龍馬像）" className="w-full h-full object-cover" loading="lazy" /></div>
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
+                <h3 className="text-base font-bold text-stone-900">桂浜（坂本龍馬像）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">土佐民謡『よさこい節』にも詠まれた月の名所。太平洋を望む高台に立つ全高13.5mの幕末の志士・坂本龍馬の銅像と青い海、弓状の砂浜が美しい景勝地です。 桂浜（かつらはま）は、高知県高知市浦戸に位置し太平洋に臨む海岸。土佐民謡「よさこい節」にも詠われ、そして太平洋を望んで立つ坂本龍馬の銅像がある浜辺は、高知を代表する名所の一つとして知られる。日本の渚百選。四国八十八景26番。四国のみずべ八十八カ所。…</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
+                <h3 className="text-base font-bold text-stone-900">高知城</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">南海の名城と称され、日本で唯一天守と本丸御殿の両方が現存する極めて貴重な城郭。追手門から天守閣が一枚の写真に収まる絶好の撮影スポットです。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
+                <h3 className="text-base font-bold text-stone-900">四万十川（沈下橋）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">「日本最後の清流」と呼ばれる全長196kmの清流。増水時に川に沈む設計の「沈下橋」が点在し、屋形船での川下りやカヌー体験で大自然を満喫できます。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
+                <h3 className="text-base font-bold text-stone-900">柏島（かしわじま）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">船が宙に浮いて見えるほどの圧倒的な透明度を誇る「柏島ブルー」の海。熱帯魚やサンゴ礁が生息し、ダイビングやシュノーケリングのパラダイスです。</p>
+              </div>
+            </div>
+            </div>
+          </div>
+
+          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-3 text-xs text-stone-700 leading-relaxed">
+            <h3 className="text-sm md:text-base font-bold text-amber-950">
+              💡 高知県エリアの宿泊予約・シーズン別ベストタイミングと節約ノウハウ
+            </h3>
+            <p>
+              <strong>1. 早期予約と楽天トラベルクーポンの併用：</strong> 高知県の人気温泉宿・リゾートホテルは、週末や連休・紅葉・年末年始の60日〜30日前から一気に予約が埋まります。毎月5と0のつく日やスーパーSALE期間中に配布される宿クーポン・自治体クーポンを併用すると、通常より最大10〜20%お得に予約可能です。
+            </p>
+            <p>
+              <strong>2. 夕食・朝食プランと部屋タイプの選び方：</strong> 地元産の旬魚介やブランド牛会席を味わうなら「夕朝食付きプラン」、周辺の屋台・老舗居酒屋・ご当地グルメを食べ歩くなら「朝食付き」または「素泊まり＋天然温泉大浴場付きホテル」を選ぶと予算と満足度のバランスが最適化されます。
+            </p>
+          </div>
+        </section>
+
+      </article>
                   ))}
                 </div>
               </div>

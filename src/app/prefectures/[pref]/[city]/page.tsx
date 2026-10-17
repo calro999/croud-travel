@@ -21,6 +21,11 @@ interface Post {
   area: string;
   price?: string | number;
   rating?: string | number;
+  parking_info?: string;
+  hot_spring_info?: string;
+  editor_tip?: string;
+  recommended_for?: string[];
+  nearby_tourist_spots?: string[];
 }
 
 export const dynamicParams = false;
@@ -247,6 +252,11 @@ export default async function CityDetailPage({ params }: { params: Promise<{ pre
                   <span className="absolute top-2 left-2 text-[9px] font-extrabold bg-teal-800 text-white px-2.5 py-0.5 rounded-full shadow">
                     {cityInfo.cityName}
                   </span>
+                  {post.price && (
+                    <span className="absolute bottom-2 right-2 text-[9px] font-black bg-slate-900/90 text-amber-300 px-2 py-0.5 rounded">
+                      目安: ¥{Number(post.price).toLocaleString()}〜
+                    </span>
+                  )}
                 </div>
 
                 <div className="p-4 space-y-2">
@@ -259,6 +269,22 @@ export default async function CityDetailPage({ params }: { params: Promise<{ pre
                   <h3 className="text-xs md:text-sm font-black font-journal-serif text-emerald-950 line-clamp-2">
                     {post.hotel_name}
                   </h3>
+                  {post.description && (
+                    <p className="text-[11px] text-stone-600 leading-relaxed line-clamp-3">
+                      {post.description}
+                    </p>
+                  )}
+                  {(post.hot_spring_info || post.parking_info) && (
+                    <div className="text-[10px] text-stone-600 bg-stone-50 p-2.5 rounded-xl space-y-1 border border-stone-200/60">
+                      {post.hot_spring_info && <p>♨️ <strong>温泉・風呂:</strong> {post.hot_spring_info}</p>}
+                      {post.parking_info && <p>🚗 <strong>駐車場:</strong> {post.parking_info}</p>}
+                    </div>
+                  )}
+                  {post.editor_tip && (
+                    <p className="text-[10px] text-teal-900 bg-teal-50/70 p-2 rounded-lg leading-relaxed">
+                      💡 {post.editor_tip}
+                    </p>
+                  )}
                 </div>
               </div>
 
@@ -279,6 +305,60 @@ export default async function CityDetailPage({ params }: { params: Promise<{ pre
                 </Link>
               </div>
             </article>
+          ))}
+        </div>
+
+        {/* 宿泊スペック一覧比較表 */}
+        {finalPosts.length > 0 && (
+          <div className="pt-6 border-t border-emerald-950/10 space-y-4">
+            <h3 className="text-base md:text-lg font-black font-journal-serif text-emerald-950">
+              📊 {cityInfo.cityName}・{cityInfo.prefName}エリア 厳選宿スペック＆料金比較表
+            </h3>
+            <div className="overflow-x-auto">
+              <table className="w-full text-left text-xs border-collapse bg-white rounded-2xl overflow-hidden border border-stone-200">
+                <thead>
+                  <tr className="bg-emerald-950 text-white font-bold">
+                    <th className="p-3">宿泊施設名</th>
+                    <th className="p-3">エリア / 評価</th>
+                    <th className="p-3">参考料金目安</th>
+                    <th className="p-3">温泉・駐車場・滞在の特徴</th>
+                    <th className="p-3">詳細・予約</th>
+                  </tr>
+                </thead>
+                <tbody className="divide-y divide-stone-200">
+                  {finalPosts.slice(0, 6).map((post) => (
+                    <tr key={post.id} className="hover:bg-emerald-50/40 transition">
+                      <td className="p-3 font-bold text-emerald-950">{post.hotel_name}</td>
+                      <td className="p-3 text-stone-700">{post.area || cityInfo.cityName} {post.rating ? `（★${post.rating}）` : ""}</td>
+                      <td className="p-3 font-bold text-amber-700">{post.price ? `¥${Number(post.price).toLocaleString()}〜` : "プラン参照"}</td>
+                      <td className="p-3 text-stone-600">{post.hot_spring_info || post.editor_tip || post.description?.slice(0, 60)} {post.parking_info ? `／駐車場: ${post.parking_info}` : ""}</td>
+                      <td className="p-3">
+                        <Link href={`/posts/${post.id}`} className="text-teal-800 font-bold underline">詳細ルポ</Link>
+                      </td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </div>
+        )}
+      </section>
+
+      {/* 🗺️ 広域観光・エリア別比較＆モデルコースガイド */}
+      <section className="bg-white border border-emerald-950/10 rounded-3xl p-6 md:p-10 space-y-6 shadow-sm">
+        <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950">
+          🧭 {cityInfo.cityName}（{cityInfo.prefName}）1泊2日モデルコース＆広域観光・グルメ周遊ガイド
+        </h2>
+        <p className="text-xs md:text-sm text-stone-700 leading-relaxed">
+          {cityInfo.cityName}では、{cityInfo.highlights.join("・")}といった主要観光スポットと、{cityInfo.gourmet.join("・")}などのご当地グルメを組み合わせることで、日帰りでは味わえない充実した1泊2日ステイが叶います。午前中に中心部の名所を巡り、昼食に名物料理を堪能したあと、夕方に温泉宿やシティホテルへチェックインしてゆっくり旅の疲れを癒やす行程が王道です。また、{cityInfo.prefName}内の主要エリア（{prefInfo.subAreas.map(s => s.areaName).join("・")}）や、銘菓・地酒スポットと組み合わせた周遊ルートも人気を集めています。
+        </p>
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-xs">
+          {prefInfo.subAreas.slice(0, 3).map((sub, i) => (
+            <div key={i} className="p-4 rounded-2xl bg-stone-50 border border-stone-200 space-y-1.5">
+              <h3 className="font-bold text-emerald-950 text-sm">📍 {sub.areaName}</h3>
+              <p className="text-stone-600 leading-relaxed">{sub.feature}</p>
+              <p className="text-teal-800 font-semibold">主な見どころ: {sub.mainSpots}</p>
+            </div>
           ))}
         </div>
       </section>

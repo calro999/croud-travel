@@ -357,7 +357,257 @@ export default function HighwayBusArticlePage() {
                     ✈️ 楽天トラベルで宿泊プラン・空室を見る
                   </a>
                 </div>
-              </article>
+              
+        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
+          <div className="space-y-2 border-b border-stone-200 pb-4">
+            <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
+              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+            </span>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
+              📊 大阪から金沢 高速バス 新幹線 どっち？：安く行く方法＆乗り換えなし1泊2日モデルコース：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+            </h2>
+            <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+              楽天トラベル公式APIより取得した「大阪から金沢 高速バス 新幹線 どっち？：安く行く方法＆乗り換えなし1泊2日モデルコース」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+            </p>
+          </div>
+
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th>
+                  <th className="p-3">所在地</th>
+                  <th className="p-3">最寄り駅・交通</th>
+                  <th className="p-3">駐車場情報</th>
+                  <th className="p-3">楽天評価</th>
+                  <th className="p-3">最安目安</th>
+                  <th className="p-3">予約・詳細</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. ＡＢホテル金沢</td>
+                <td className="p-3 text-stone-600">石川県金沢市広岡１丁目９番２５号</td>
+                <td className="p-3 text-stone-600">金沢駅周辺</td>
+                <td className="p-3 text-stone-600">有料　1,000円/泊(１５：００～１０：００)　ホテル隣接の『名鉄協商パーキング』　※出し入別料金</td>
+                <td className="p-3 font-bold text-amber-600">★4.16（3911件）</td>
+                <td className="p-3 font-bold text-rose-600">¥2,400〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147638%2F147638.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. 三井ガーデンホテル金沢</td>
+                <td className="p-3 text-stone-600">石川県金沢市上堤町1-22</td>
+                <td className="p-3 text-stone-600">金沢駅周辺</td>
+                <td className="p-3 text-stone-600">ホテルに専用駐車場はございません。提携駐車場はホテル公式HP「館内利用案内」の駐車場をご覧ください。</td>
+                <td className="p-3 font-bold text-amber-600">★4.58（829件）</td>
+                <td className="p-3 font-bold text-rose-600">¥5,040〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F167963%2F167963.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. ホテルインターゲート金沢</td>
+                <td className="p-3 text-stone-600">石川県金沢市高岡町2-5</td>
+                <td className="p-3 text-stone-600">金沢駅周辺</td>
+                <td className="p-3 text-stone-600">ホテルには駐車場がございません。周辺コインパーキング（ホテルから徒歩5～10分程）をご利用ください。</td>
+                <td className="p-3 font-bold text-amber-600">★4.48（1380件）</td>
+                <td className="p-3 font-bold text-rose-600">¥4,000〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F168622%2F168622.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">4. ホテルルートイン金沢駅前</td>
+                <td className="p-3 text-stone-600">石川県金沢市昭和町22-5</td>
+                <td className="p-3 text-stone-600">金沢駅周辺</td>
+                <td className="p-3 text-stone-600">有り　１６６台　１，０００円（税込み／泊）　先着順・高さ制限２．１M迄</td>
+                <td className="p-3 font-bold text-amber-600">★4.09（1990件）</td>
+                <td className="p-3 font-bold text-rose-600">¥5,825〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54537%2F54537.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">5. 備長炭の湯　ホテルクラウンヒルズ金沢香林坊（ＢＢＨホテルグループ）</td>
+                <td className="p-3 text-stone-600">石川県金沢市片町1-2-44</td>
+                <td className="p-3 text-stone-600">金沢駅周辺</td>
+                <td className="p-3 text-stone-600">提携のセントラルパーキングを、一泊１０００円(１５：００－翌１０：００)にて利用可能。出し入れ不可。</td>
+                <td className="p-3 font-bold text-amber-600">★3.76（867件）</td>
+                <td className="p-3 font-bold text-rose-600">¥3,350〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F141319%2F141319.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div className="space-y-4">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
+              🏨 各宿の宿泊者リアルクチコミ・客室イメージ・項目別評価データ
+            </h3>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #1</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ＡＢホテル金沢</h3>
+                  <span className="text-xs text-stone-400 ml-2">（えーびーほてるかなざわ）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥2,400〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/147638/147638_kan.jpg" alt="ＡＢホテル金沢 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>男女別浴場完備・ネット接続無料。金沢駅より徒歩１分の好アクセス♪</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 石川県金沢市広岡１丁目９番２５号 ／ 最寄り駅：金沢 ／ 交通案内：『北陸新幹線・ＪＲ金沢駅』西口より徒歩1分。北陸自動車道『金沢西・東インター』より車で約１５分の好アクセス！</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有料　1,000円/泊(１５：００～１０：００)　ホテル隣接の『名鉄協商パーキング』　※出し入別料金</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅前でアクセス抜群、駐車場も近く快適駅の目の前でアクセス良好。駐車場を利用しましたが、提携しているところとほぼ直結していました。リーズナブルで快適でした。クチコミの詳細はこちらから　https…　2026-08-27 06:34:11投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #2</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">三井ガーデンホテル金沢</h3>
+                  <span className="text-xs text-stone-400 ml-2">（みついがーでんほてるかなざわ）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥5,040〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/167963/167963.jpg" alt="三井ガーデンホテル金沢 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>観光名所が身近に揃うロケーション。加賀友禅をあしらった客室や最上階の大浴場でおくつろぎください。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 石川県金沢市上堤町1-22 ／ 最寄り駅：金沢 ／ 交通案内：ＪＲ　金沢駅よりお車にて約8分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>ホテルに専用駐車場はございません。提携駐車場はホテル公式HP「館内利用案内」の駐車場をご覧ください。</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事なしのプランでも大満足!食事は付けませんでしたが、とても満足でした!クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voic…　2026-08-28 17:45:35投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #3</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ホテルインターゲート金沢</h3>
+                  <span className="text-xs text-stone-400 ml-2">（いんたーげーとかなざわ）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥4,000〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/168622/168622_kan1.jpg" alt="ホテルインターゲート金沢 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>ハッピーアワーからお茶漬けバイキングまで無料ラウンジサービスが充実・大浴場完備・朝食高評価</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 石川県金沢市高岡町2-5 ／ 最寄り駅：金沢 ／ 交通案内：JR金沢駅から北鉄バス「南町・尾山神社」迄7分下車1分｜小松空港からバスで「武蔵ヶ辻・近江町市場」迄50分下車7分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>ホテルには駐車場がございません。周辺コインパーキング（ホテルから徒歩5～10分程）をご利用ください。</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食やサービスが充実、部屋も快適で最高朝食バイキングの種類が豊富でこの価格でウェルカムドリンクやお茶漬けサービスなど有りで更に大浴場は夜は混んでいそうだったので部屋のお風呂に入ったが洗い場…　2026-08-29 20:35:40投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #4</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ホテルルートイン金沢駅前</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ほてるるーといんかなざわえきまえ）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥5,825〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/54537/54537_ky.jpg" alt="ホテルルートイン金沢駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>ＷＯＷＯＷ全室で無料視聴可■VODルームシアター(一般映画のみ)無料視聴可（コンフォート特典）</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 石川県金沢市昭和町22-5 ／ 最寄り駅：金沢 ／ 交通案内：ＪＲ北陸本線・新幹線　金沢駅より徒歩５分／北陸自動車道　金沢西ＩＣより５．５ｋｍ</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　１６６台　１，０００円（税込み／泊）　先着順・高さ制限２．１M迄</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格以上の満足感、安定のクオリティルートインさん、間違いないです。価格対比、すべてレベル以上です。クチコミの詳細はこちらから　https://review.travel.rakuten.co.…　2026-08-19 08:04:09投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #5</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">備長炭の湯　ホテルクラウンヒルズ金沢香林坊（ＢＢＨホテルグループ）</h3>
+                  <span className="text-xs text-stone-400 ml-2">（びんちょうたんのゆ　ほてるくらうんひるずかなざわこうりんぼう（びーびーえいちほてるぐるーぷ））</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,350〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/141319/141319.jpg" alt="備長炭の湯　ホテルクラウンヒルズ金沢香林坊（ＢＢＨホテルグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>金沢の繁華街香林坊・兼六園に隣接した地にありながら静かな環境。教会の鐘の音に包まれます♪</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 石川県金沢市片町1-2-44 ／ 最寄り駅：金沢 ／ 交通案内：金沢駅よりお車にて８分 東口バス乗り場6・８・９・10番から香林坊下車徒歩２分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>提携のセントラルパーキングを、一泊１０００円(１５：００－翌１０：００)にて利用可能。出し入れ不可。</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「壁のカビと換気扇の不備、大浴場の管理に不安部屋のカーテンの裏の壁がカビだらけなのと、部屋の浴室の換気扇が動いておらず、トイレのにおいが充満していました。大浴場も男女入れ替え制で、入り口に鍵もな…　2026-08-29 11:53:12投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="space-y-4 pt-6 border-t border-stone-200">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
+              🗺️ あわせて巡りたい！大阪府の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+            </h3>
+            <p className="text-xs text-stone-600 leading-relaxed">
+              宿泊前後の1泊2日・2泊3日モデルコースに組み込みたい、大阪府を代表する名所・絶景スポットの解説です。チェックイン前後の荷物預かりや駅周辺のレンタカー・周遊バスを活用すると効率よく巡ることができます。
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
+                <h3 className="text-base font-bold text-stone-900">大阪城公園（大阪城天守閣）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">豊臣秀吉公が築城した天下の名城。黄金の飾りが映える重厚な天守閣と、壮大な石垣・巨石、春には桜が咲き誇る広大な都会のオアシスです。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
+                <h3 className="text-base font-bold text-stone-900">道頓堀・グリコサイン</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">食い倒れの街・大阪を象徴するネオン街。グリコの巨大看板前での記念撮影や、道頓堀川沿いでのたこ焼き・串カツ食べ歩きで活気にあふれています。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
+                <h3 className="text-base font-bold text-stone-900">ユニバーサル・スタジオ・ジャパン（USJ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">「ウィザーディング・ワールド・オブ・ハリー・ポッター」や「スーパー・ニンテンドー・ワールド」など世界最高峰のエンターテインメントが体験できる世界級テーマパーク。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
+                <h3 className="text-base font-bold text-stone-900">通天閣・新世界</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">なにわのシンボルタワー「通天閣」と、昭和レトロな雰囲気が色濃く残る新世界。幸運の神様「ビリケンさん」の足の裏を撫でて幸運を祈願できます。</p>
+              </div>
+            </div>
+            </div>
+          </div>
+
+          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-3 text-xs text-stone-700 leading-relaxed">
+            <h3 className="text-sm md:text-base font-bold text-amber-950">
+              💡 大阪府エリアの宿泊予約・シーズン別ベストタイミングと節約ノウハウ
+            </h3>
+            <p>
+              <strong>1. 早期予約と楽天トラベルクーポンの併用：</strong> 大阪府の人気温泉宿・リゾートホテルは、週末や連休・紅葉・年末年始の60日〜30日前から一気に予約が埋まります。毎月5と0のつく日やスーパーSALE期間中に配布される宿クーポン・自治体クーポンを併用すると、通常より最大10〜20%お得に予約可能です。
+            </p>
+            <p>
+              <strong>2. 夕食・朝食プランと部屋タイプの選び方：</strong> 地元産の旬魚介やブランド牛会席を味わうなら「夕朝食付きプラン」、周辺の屋台・老舗居酒屋・ご当地グルメを食べ歩くなら「朝食付き」または「素泊まり＋天然温泉大浴場付きホテル」を選ぶと予算と満足度のバランスが最適化されます。
+            </p>
+          </div>
+        </section>
+
+      </article>
             ))}
           </div>
         ) : (

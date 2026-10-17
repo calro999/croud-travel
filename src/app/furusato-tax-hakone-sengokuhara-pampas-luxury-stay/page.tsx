@@ -508,11 +508,6 @@ export default function FurusatoTaxArticle() {
           </ul>
         </section>
       </div>
-    
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -528,7 +523,7 @@ export default function FurusatoTaxArticle() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 箱根湯本駅より箱根登山バスで約40分、新宿駅より高速バスで約2時間、「仙郷楼前」徒歩1分で現地へ到着。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「仙石原温泉 きたの風茶寮」にチェックイン。北海道より箱根に吹き込む和のオーベルジュ。北海道と箱根の食材が織成す和会席を心行くまでご堪能下さい�などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「仙石原温泉 きたの風茶寮」にチェックイン。北海道より箱根に吹き込む和のオーベルジュ。北海道と箱根の食材が織成す和会席を心行くまでご堪能下さい」などの宿の特徴に期待を高めつつ客室へ。</li>
                 <li>・<strong className="text-stone-800">17:00〜</strong> 「仙石原温泉 きたの風茶寮」の湯処へ。北海道より箱根に吹き込む和のオーベルジュ。北海道と箱根の食材が織成す和とともに、夕暮れの特別な寛ぎを満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「仙石原温泉 きたの風茶寮」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
@@ -595,7 +590,22 @@ export default function FurusatoTaxArticle() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/traditional-hokkaido-furano-lavender-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">2026年：紫の絨毯が広がる夏の富良野！ラベンダー畑パノラマ＆ふらの和牛ディナーの宿5選</span>
+            </a>
+            <a href="/winter-hokkaido-kawayu-onsen-mashu-kussharo-crab-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">北海道・川湯温泉で過ごす冬の旅（11・12月）！pH1.7極上強酸性硫黄泉と！名宿5選</span>
+            </a>
+            <a href="/winter-hokkaido-sapporo-odori-illumination-jozankei-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月北海道：定山渓雪見露天！名宿5選</span>
+            </a>
+            <a href="/winter-hokkaido-tokachi-jewelry-ice-mall-onsen-sauna-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">極寒の奇跡ジュエリーアイスとモール温泉：2026-2027年冬の十勝川温泉＆極上サウナ宿5選</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

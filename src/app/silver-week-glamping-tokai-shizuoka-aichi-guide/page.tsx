@@ -406,12 +406,6 @@ export default function SilverWeekGlampingTokaiShizuokaAichiPage() {
             ))}
           </div>
         </section>
-      
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         
 
         {/* FAQ Section */}
@@ -429,7 +423,7 @@ export default function SilverWeekGlampingTokaiShizuokaAichiPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。
+                A. 東海シルバーウィーク グランピング：静岡・伊豆・愛知おすすめ！海鮮BBQ＆みかん狩り体験エリアでは、「奏の森リゾート　フォレストグランピング」（楽天評価★4.34・クチコミ71件、所在地：静岡県伊東市十足325-1）をはじめとする宿を拠点にし、最寄り駅（伊豆高原）やアクセス条件（伊豆急行線伊豆高原駅より車で約１５分（宿泊者送迎あり）、東名高速道路厚木ＩＣより約１時間約４５分、沼津ＩＣより約１時間）に合わせて午前中に周辺観光名所を巡り、15時のチェックイン後に温泉や夕食会席を堪能するスケジュールが最も効率的です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -438,7 +432,7 @@ export default function SilverWeekGlampingTokaiShizuokaAichiPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。
+                A. 宿泊予約時は最安料金目安（例：「奏の森リゾート　フォレストグランピング」は1名あたり¥10,500〜）や駐車場条件（約250台・無料・予約不要（グランピング利用者は2階建て建物近くに駐車が近くておススメ））を事前に確認しましょう。連休や紅葉・年末年始シーズンは早期に満室となるため、楽天トラベルの早期割引プランやクーポンの活用がおすすめです。
               </p>
             </details>
           </div>
@@ -453,7 +447,22 @@ export default function SilverWeekGlampingTokaiShizuokaAichiPage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/winter-fukushima-takayu-tsuchiyu-onsen-yukimi-fukushimagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">高湯温泉＆土湯温泉で過ごす冬の旅（11・12月）！吾妻連峰の雪見露天と白濁薬湯！名宿5選</span>
+            </a>
+            <a href="/fukushima-ashinomaki-solo-retreat-gorge-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">会津・芦ノ牧温泉ひとり旅・大川渓谷絶景おこもり：浮き舞台三味線・渓流露天風呂・大内宿ねぎそば！会津鉄道ネコ駅長の渓谷厳選3宿</span>
+            </a>
+            <a href="/furusato-tax-kiso-valley-magome-tsumago-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">木曽路・馬籠宿と妻籠宿の石畳紅葉！木曽福島温泉の清流露天・信州新そば＆木曽牛を味わう秋の中仙道旅</span>
+            </a>
+            <a href="/traditional-fukushima-aizu-urushi-craft-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">会津漆器の艶やかな器と郷土会席：伝統美学！東山温泉・芦ノ牧温泉の歴史名湯宿5選</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

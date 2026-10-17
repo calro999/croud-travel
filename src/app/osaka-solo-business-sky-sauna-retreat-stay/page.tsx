@@ -48,7 +48,7 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「地上130mスカイスパ・展望サウナ・夜景クラブラウンジ完備！ビジネス＆ソロステイ 厳選3選」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「地上130mスカイスパ・展望サウナ・夜景クラブラウンジ完備！ビジネス＆ソロステイ 厳選3選」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"大阪出張・梅田ご褒美泊：地上130mスカイスパ・展望サウナ・夜景クラブラウンジ完備！ビジネス＆ソロステイ 厳選3選エリアでは、「ＣＡＮＤＥＯ　ＨＯＴＥＬＳ（カンデオホテルズ）大阪ザ・タワー」（楽天評価★4.5・クチコミ387件、所在地：大阪府大阪市北区堂島浜1-1-27）をはじめとする宿を拠点にし、最寄り駅（淀屋橋）やアクセス条件（御堂筋線淀屋橋駅から徒歩約 5 分、JR 北新地駅から徒歩約 10 分、大阪駅へも徒歩圏内）に合わせて午前中に周辺観光名所を巡り、15時のチェックイン後に温泉や夕食会席を堪能するスケジュールが最も効率的です。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"宿泊予約時は最安料金目安（例：「天然温泉　朝霧の湯　ドーミーインＰＲＥＭＩＵＭなんばＡＮＮＥＸ（ドーミーイン・御宿野乃　グループ）」は1名あたり¥9,040〜）や駐車場条件（敷地内駐車場有、24時間最大2,500円（一般2,800円から300円引き）、夜間出入庫不可）を事前に確認しましょう。連休や紅葉・年末年始シーズンは早期に満室となるため、楽天トラベルの早期割引プランやクーポンの活用がおすすめです。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -416,12 +416,6 @@ export default function ArticlePage() {
           </Link>
         </div>
       </div>
-    
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         
 
         {/* FAQ Section */}
@@ -439,7 +433,7 @@ export default function ArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。
+                A. 大阪出張・梅田ご褒美泊：地上130mスカイスパ・展望サウナ・夜景クラブラウンジ完備！ビジネス＆ソロステイ 厳選3選では、最寄り駅からの送迎バス運行時間やチェックイン時刻（通常15:00）から逆算し、午前中に主要な景勝地・寺社・市場を巡り、午後は宿の天然温泉や地元食材の会席料理をゆっくり堪能する行程が最も満足度の高い回り方です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -448,7 +442,7 @@ export default function ArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。
+                A. 楽天トラベルで予約する際は、無料駐車場の台数・予約要否、露天風呂付き客室や部屋食プランの有無、そして5と0のつく日クーポンや早期割引プランの対象期間を事前に比較確認しておくと安心です。
               </p>
             </details>
           </div>

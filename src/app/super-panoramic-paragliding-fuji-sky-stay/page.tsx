@@ -88,7 +88,7 @@ export default function FeaturePage() {
               rating: 4.4,
               reviews: 454,
               price: "¥9,500〜",
-              access: "富士急行・河口湖駅より車で約26分（路線バスで約40分）、中央高速道路・河口���ICより車で約25分",
+              access: "富士急行・河口湖駅より車で約26分（路線バスで約40分）、中央高速道路・河口湖ICより車で約25分",
               features: ["富士山を正面に望む絶好のロケーション。四季折々に表情を変える富士山と精進湖の景色を間近に感じられる宿", "南都留郡富士河口湖町精進301", "楽天アワード受賞歴"]
             },
             {
@@ -317,11 +317,6 @@ export default function FeaturePage() {
             <ChevronRight className="w-4 h-4" />
           </Link>
         </section>
-      
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -404,7 +399,22 @@ export default function FeaturePage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/winter-yamagata-ginzan-onsen-snow-taisho-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">銀山温泉で過ごす冬の旅（11・12月）！白銀の温泉街に灯るガス灯と尾花沢牛会席！名宿5選</span>
+            </a>
+            <a href="/winter-yamagata-shirabu-onsen-snow-yonezawa-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">白布温泉で過ごす冬の旅（11・12月）！西吾妻山の豪雪秘湯と開湯700年の名物湯滝！名宿5選</span>
+            </a>
+            <a href="/yamagata-ginzan-solo-retreat-taisho-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">山形・銀山温泉ひとり旅・大正浪漫ガス灯おこもり：木造多層建築群・銀山川の雪景色・山形牛と尾花沢蕎麦！大正タイムスリップの美湯厳選3宿</span>
+            </a>
+            <a href="/yamagata-tendo-yamadera-cherry-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">山形・天童温泉＆山寺立石寺：将棋の街・千段の石段絶景＆山形牛・さくらんぼ宿 厳選ガイド</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

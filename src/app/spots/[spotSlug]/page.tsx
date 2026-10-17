@@ -20,6 +20,11 @@ interface Post {
   area: string;
   price?: string | number;
   rating?: string | number;
+  parking_info?: string;
+  hot_spring_info?: string;
+  editor_tip?: string;
+  recommended_for?: string[];
+  nearby_tourist_spots?: string[];
 }
 
 export const dynamicParams = false;
@@ -248,6 +253,11 @@ export default async function SpotDetailPage({ params }: { params: Promise<{ spo
                   <span className="absolute top-2 left-2 text-[9px] font-extrabold bg-amber-600 text-white px-2.5 py-0.5 rounded-full shadow">
                     {spot.name} 近隣
                   </span>
+                  {post.price && (
+                    <span className="absolute bottom-2 right-2 text-[9px] font-black bg-slate-900/90 text-amber-300 px-2 py-0.5 rounded">
+                      目安: ¥{Number(post.price).toLocaleString()}〜
+                    </span>
+                  )}
                 </div>
 
                 <div className="p-4 space-y-2">
@@ -260,6 +270,22 @@ export default async function SpotDetailPage({ params }: { params: Promise<{ spo
                   <h3 className="text-xs md:text-sm font-black font-journal-serif text-emerald-950 line-clamp-2">
                     {post.hotel_name}
                   </h3>
+                  {post.description && (
+                    <p className="text-[11px] text-stone-600 leading-relaxed line-clamp-3">
+                      {post.description}
+                    </p>
+                  )}
+                  {(post.hot_spring_info || post.parking_info) && (
+                    <div className="text-[10px] text-stone-600 bg-stone-50 p-2.5 rounded-xl space-y-1 border border-stone-200/60">
+                      {post.hot_spring_info && <p>♨️ <strong>温泉・風呂:</strong> {post.hot_spring_info}</p>}
+                      {post.parking_info && <p>🚗 <strong>駐車場:</strong> {post.parking_info}</p>}
+                    </div>
+                  )}
+                  {post.editor_tip && (
+                    <p className="text-[10px] text-teal-900 bg-teal-50/70 p-2 rounded-lg leading-relaxed">
+                      💡 {post.editor_tip}
+                    </p>
+                  )}
                 </div>
               </div>
 
@@ -282,6 +308,40 @@ export default async function SpotDetailPage({ params }: { params: Promise<{ spo
             </article>
           ))}
         </div>
+
+        {finalHotelPosts.length > 0 && (
+          <div className="pt-6 border-t border-emerald-950/10 space-y-4">
+            <h3 className="text-base md:text-lg font-black font-journal-serif text-emerald-950">
+              📊 {spot.name}周辺 おすすめホテル・温泉宿スペック＆料金比較表
+            </h3>
+            <div className="overflow-x-auto">
+              <table className="w-full text-left text-xs border-collapse bg-white rounded-2xl overflow-hidden border border-stone-200">
+                <thead>
+                  <tr className="bg-emerald-950 text-white font-bold">
+                    <th className="p-3">宿泊施設名</th>
+                    <th className="p-3">エリア / 評価</th>
+                    <th className="p-3">参考料金目安</th>
+                    <th className="p-3">温泉・駐車場・滞在の特徴</th>
+                    <th className="p-3">詳細・予約</th>
+                  </tr>
+                </thead>
+                <tbody className="divide-y divide-stone-200">
+                  {finalHotelPosts.slice(0, 6).map((post) => (
+                    <tr key={post.id} className="hover:bg-emerald-50/40 transition">
+                      <td className="p-3 font-bold text-emerald-950">{post.hotel_name}</td>
+                      <td className="p-3 text-stone-700">{post.area || spot.cityName} {post.rating ? `（★${post.rating}）` : ""}</td>
+                      <td className="p-3 font-bold text-amber-700">{post.price ? `¥${Number(post.price).toLocaleString()}〜` : "プラン参照"}</td>
+                      <td className="p-3 text-stone-600">{post.hot_spring_info || post.editor_tip || post.description?.slice(0, 60)} {post.parking_info ? `／駐車場: ${post.parking_info}` : ""}</td>
+                      <td className="p-3">
+                        <Link href={`/posts/${post.id}`} className="text-teal-800 font-bold underline">詳細ルポ</Link>
+                      </td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </div>
+        )}
       </section>
 
       {/* 🧭 3. ユーザーの回遊を爆発させる「併せて巡りたい周辺の観光名所」 */}

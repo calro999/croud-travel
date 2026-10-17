@@ -390,8 +390,6 @@ export default function KanagawaOyamaWinterPage() {
           </div>
         </div>
       </section>
-
-      {/* Model Course Section */}
       <section className="max-w-5xl mx-auto px-4 py-12 md:py-16">
         <div className="mb-10">
           <span className="text-teal-600 font-bold text-sm tracking-widest uppercase">RECOMMENDED ITINERARY</span>

@@ -88,7 +88,7 @@ export default function FeaturePage() {
               rating: 4.6,
               reviews: 519,
               price: "¥12,300〜",
-              access: "JR西九州新幹線「嬉野温泉駅��よりお車で約5分 / 長崎自動車道 嬉野ICより５分",
+              access: "JR西九州新幹線「嬉野温泉駅」よりお車で約5分 / 長崎自動車道 嬉野ICより５分",
               features: ["【自家源泉保有】源泉100％かけ流しの貸切湯と音楽を愉しめる老舗宿。露天・半露天付客室有", "嬉野市嬉野町大字下宿乙848", "楽天アワード受賞歴"]
             },
             {
@@ -317,11 +317,6 @@ export default function FeaturePage() {
             <ChevronRight className="w-4 h-4" />
           </Link>
         </section>
-      
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -404,7 +399,22 @@ export default function FeaturePage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月栃木：佐野厄除け大師初詣！名宿5選</span>
+            </a>
+            <a href="/winter-tochigi-okunikko-kegon-falls-ice-yumoto-snow-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">奥日光華厳の滝ブルーアイス氷瀑と乳白色硫黄泉：2026-2027年冬の日光湯元温泉！雪見露天ととちぎ和牛名宿5選</span>
+            </a>
+            <a href="/autumn-budget-tochigi-utsunomiya-station-gyoza-oya-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">宇都宮駅前：日光紅葉前泊＆名物宇都宮餃子・大谷石地下宮殿！2,000円台〜泊まれる格安ホテル5選</span>
+            </a>
+            <a href="/tochigi-itamuro-solo-retreat-therapeutic-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">那須塩原・板室温泉ひとり旅・下野の薬湯立ち湯おこもり：開湯1050年杖いらずの名湯・那珂川上流自然林・保養とアート！現代湯治リトリート厳選3宿</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

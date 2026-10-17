@@ -413,6 +413,256 @@ export default function AutumnBudgetHotelsPage() {
           </div>
         </div>
       </section>
-    </main>
+    
+        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
+          <div className="space-y-2 border-b border-stone-200 pb-4">
+            <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
+              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+            </span>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
+              📊 長崎駅前：グラバー園秋散歩＆本場長崎ちゃんぽん！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+            </h2>
+            <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+              楽天トラベル公式APIより取得した「長崎駅前：グラバー園秋散歩＆本場長崎ちゃんぽん！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+            </p>
+          </div>
+
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th>
+                  <th className="p-3">所在地</th>
+                  <th className="p-3">最寄り駅・交通</th>
+                  <th className="p-3">駐車場情報</th>
+                  <th className="p-3">楽天評価</th>
+                  <th className="p-3">最安目安</th>
+                  <th className="p-3">予約・詳細</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. Ｃｏｒｕｓｃａｎｔ　Ｈｏｔｅｌ　長崎駅３</td>
+                <td className="p-3 text-stone-600">長崎県長崎市筑後町1-1</td>
+                <td className="p-3 text-stone-600">長崎（長崎）駅周辺</td>
+                <td className="p-3 text-stone-600">1日1室限定の駐車場付きプランをご用意しております。◆◇ご予約はお早めに◇◆</td>
+                <td className="p-3 font-bold text-amber-600">★4.5（139件）</td>
+                <td className="p-3 font-bold text-rose-600">¥3,600〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182770%2F182770.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. Ｃｏｒｕｓｃａｎｔ　Ｈｏｔｅｌ　長崎駅１（コルサントホテル）</td>
+                <td className="p-3 text-stone-600">長崎県長崎市大黒町7-15</td>
+                <td className="p-3 text-stone-600">長崎駅から徒歩約6分</td>
+                <td className="p-3 text-stone-600">無し</td>
+                <td className="p-3 font-bold text-amber-600">★4.05（157件）</td>
+                <td className="p-3 font-bold text-rose-600">¥2,640〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180388%2F180388.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. Ｃｏｒｕｓｃａｎｔ　Ｈｏｔｅｌ　長崎駅２（コルサントホテル）</td>
+                <td className="p-3 text-stone-600">長崎県長崎市大黒町5-10</td>
+                <td className="p-3 text-stone-600">長崎駅より徒歩約 8 分</td>
+                <td className="p-3 text-stone-600">1階はコインパーキング(普通車3台・小型2台・軽1台)　※管理外ですので空車情報は不明。有料です。</td>
+                <td className="p-3 font-bold text-amber-600">★4.36（184件）</td>
+                <td className="p-3 font-bold text-rose-600">¥3,600〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180565%2F180565.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">4. グランドベース長崎駅前</td>
+                <td className="p-3 text-stone-600">長崎県長崎市西坂町7-1</td>
+                <td className="p-3 text-stone-600">長崎（長崎）駅周辺</td>
+                <td className="p-3 text-stone-600">無し。近隣の有料コインパーキングをご利用ください。</td>
+                <td className="p-3 font-bold text-amber-600">★4.13（46件）</td>
+                <td className="p-3 font-bold text-rose-600">¥2,600〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F178621%2F178621.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">5. アパホテル〈長崎駅前〉</td>
+                <td className="p-3 text-stone-600">長崎県長崎市大黒町2-1</td>
+                <td className="p-3 text-stone-600">長崎（長崎）駅周辺</td>
+                <td className="p-3 text-stone-600">駐車場なし。周辺有料駐車場の場所をご案内対応となります。</td>
+                <td className="p-3 font-bold text-amber-600">★3.91（1217件）</td>
+                <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F70894%2F70894.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div className="space-y-4">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
+              🏨 各宿の宿泊者リアルクチコミ・客室イメージ・項目別評価データ
+            </h3>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #1</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">Ｃｏｒｕｓｃａｎｔ　Ｈｏｔｅｌ　長崎駅３</h3>
+                  <span className="text-xs text-stone-400 ml-2">（こるさんとほてるながさきえきさん）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,600〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/182770/182770.jpg" alt="Ｃｏｒｕｓｃａｎｔ　Ｈｏｔｅｌ　長崎駅３ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>◆◇長崎駅より徒歩約9分◇◆全室Wi-Fi完備／全室トイレ風呂別／家具家電付きのレジデンスホテル！</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 長崎県長崎市筑後町1-1 ／ 最寄り駅：長崎（長崎） ／ 交通案内：長崎駅より徒歩約9分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>1日1室限定の駐車場付きプランをご用意しております。◆◇ご予約はお早めに◇◆</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.37 ／ 立地 ★4.43 ／ 部屋 ★4.51 ／ 設備 ★4.49 ／ 風呂 ★4.32</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「洗濯機と浴室乾燥機が便利、ゆっくり寛げた仕事の出張で利用しました。会社の同僚や先輩から、オススメとのことでしたので利用しました。他のホテルだと洗濯にちょっと悩みますが、洗濯機と浴室乾燥機があっ…　2026-10-02 18:38:11投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #2</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">Ｃｏｒｕｓｃａｎｔ　Ｈｏｔｅｌ　長崎駅１（コルサントホテル）</h3>
+                  <span className="text-xs text-stone-400 ml-2">（こるさんとほてる　ながさきえき　いち）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥2,640〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/180388/180388_kan1.jpg" alt="Ｃｏｒｕｓｃａｎｔ　Ｈｏｔｅｌ　長崎駅１（コルサントホテル） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>◆◇長崎駅より徒歩６分の好立地◇◆お仕事・観光に最適【全室Wi-Fi完備／全室トイレ風呂別】</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 長崎県長崎市大黒町7-15 ／ 最寄り駅：主要駅 ／ 交通案内：長崎駅から徒歩約6分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>無し</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.95 ／ 立地 ★4.13 ／ 部屋 ★3.98 ／ 設備 ★3.97 ／ 風呂 ★3.81</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で飲食店も多く、立地が最高に便利立地が最高駅近でコンビニ、吉野家、居酒屋多数有り滞在することに全く困らないクチコミの詳細はこちらから　https://review.travel.rak…　2026-09-07 23:26:45投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #3</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">Ｃｏｒｕｓｃａｎｔ　Ｈｏｔｅｌ　長崎駅２（コルサントホテル）</h3>
+                  <span className="text-xs text-stone-400 ml-2">（こるさんとほてる　ながさきえき　に）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,600〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/180565/180565.jpg" alt="Ｃｏｒｕｓｃａｎｔ　Ｈｏｔｅｌ　長崎駅２（コルサントホテル） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>◆◇長崎駅より徒歩約 8 分◇◆お仕事・観光に最適【全室Wi-Fi完備／全室トイレ風呂別】</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 長崎県長崎市大黒町5-10 ／ 最寄り駅：主要駅 ／ 交通案内：長崎駅より徒歩約 8 分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>1階はコインパーキング(普通車3台・小型2台・軽1台)　※管理外ですので空車情報は不明。有料です。</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.38 ／ 部屋 ★4.4 ／ 設備 ★4.38 ／ 風呂 ★4.3</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「長期滞在にも最適、設備が充実して快適ワンルームマンションのようなお部屋でした。キッチン(簡単なフライパンや食器もあり)、洗濯機、独立した洗面台と、洗い場付きのお風呂。快適でした。1泊だと勿…　2026-10-04 15:22:42投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #4</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">グランドベース長崎駅前</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ぐらんどべーすながさきえきまえ）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥2,600〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/178621/178621.jpg" alt="グランドベース長崎駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>２０１９年冬オープン！長崎駅から徒歩5分のアパートタイプ新築スマートホテル「グランドベース長崎駅前」</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 長崎県長崎市西坂町7-1 ／ 最寄り駅：長崎（長崎） ／ 交通案内：JR長崎駅から徒歩5分。新地中華街からはバスで5分、長崎空港からはリムジンバスで43分で到着。</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>無し。近隣の有料コインパーキングをご利用ください。</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.8 ／ 立地 ★3.53 ／ 部屋 ★4.53 ／ 設備 ★4.13 ／ 風呂 ★4.2</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「案内が不十分でチェックインに苦戦した無人ホテルだが、案内が不十分でチェックインが出来なかったり、無料Wi-Fiの接続方法が分からずに困った。電話で問い合わせてなんとかなったが、遅い時間にチェックイ…　2026-09-24 21:31:52投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=178621&quot; class=&quot;3click&quot;」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #5</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">アパホテル〈長崎駅前〉</h3>
+                  <span className="text-xs text-stone-400 ml-2">（あぱほてる　ながさきえきまえ）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥4,500〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/70894/70894_sin.jpg" alt="アパホテル〈長崎駅前〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>長崎駅から最も近いアパホテル。人気観光地へ好アクセス。便利な駅前ロケーション。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 長崎県長崎市大黒町2-1 ／ 最寄り駅：長崎（長崎） ／ 交通案内：JR「長崎駅」（東口）徒歩4分、路面電車・空港バス「長崎駅前」徒歩2分、県営バスターミナル隣</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>駐車場なし。周辺有料駐車場の場所をご案内対応となります。</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.96 ／ 立地 ★4.12 ／ 部屋 ★3.83 ／ 設備 ★3.85 ／ 風呂 ★3.75 ／ 食事 ★3.73</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「こちらのミスにも最後まで丁寧な対応に感謝チェックイン時の対応等こちらのミスもありながら最後まで丁寧に対応していただきました。ありがとうございました!!!クチコミの詳細はこちらから　https:…　2026-10-06 06:45:56投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="space-y-4 pt-6 border-t border-stone-200">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
+              🗺️ あわせて巡りたい！長崎県の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+            </h3>
+            <p className="text-xs text-stone-600 leading-relaxed">
+              宿泊前後の1泊2日・2泊3日モデルコースに組み込みたい、長崎県を代表する名所・絶景スポットの解説です。チェックイン前後の荷物預かりや駅周辺のレンタカー・周遊バスを活用すると効率よく巡ることができます。
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Huis_Ten_Bosch_-_01.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail_unscaled" alt="ハウステンボス" className="w-full h-full object-cover" loading="lazy" /></div>
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
+                <h3 className="text-base font-bold text-stone-900">ハウステンボス</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">オランダの街並みを忠実に再現した日本最大級のテーマパーク。四季折々の花々とヨーロッパ風建築、日本最大級のイルミネーションが年間を通じて輝きます。 ハウステンボス（蘭: Huis Ten Bosch）は、長崎県佐世保市にあるテーマパーク。略称は「HTB」、テンボス。オランダの街並みを再現し、ヨーロッパ全体をテーマとしている。東京ディズニーリゾートの1.5倍の敷地面積で、単独テーマパークとしては日本最大。ドラマ・映画・CMなどのロケ地としても使われている。佐世保市の町にもなっており、所在地の住所は「佐世保…</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
+                <h3 className="text-base font-bold text-stone-900">長崎原爆資料館・平和公園</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">1945年8月9日の被爆の惨状と核兵器廃絶の願いを世界に伝える静聖な場所。天を指す高さ9.7mの平和祈念像の前で平和を祈念します。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
+                <h3 className="text-base font-bold text-stone-900">グラバー園・大浦天主堂</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">長崎港を見下ろす南山手の丘に立つ世界遺産。旧グラバー住宅をはじめとする幕末の西洋館と、現存する日本最古の木造教会「大浦天主堂」が異国情緒を醸します。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
+                <h3 className="text-base font-bold text-stone-900">軍艦島（端島）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">かつて海底炭鉱の島として世界一の人口密度を誇った廃墟の離島・世界文化遺産。高層鉄筋コンクリートアパートがひしめく独特の遺構を上陸クルーズで見学できます。</p>
+              </div>
+            </div>
+            </div>
+          </div>
+
+          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-3 text-xs text-stone-700 leading-relaxed">
+            <h3 className="text-sm md:text-base font-bold text-amber-950">
+              💡 長崎県エリアの宿泊予約・シーズン別ベストタイミングと節約ノウハウ
+            </h3>
+            <p>
+              <strong>1. 早期予約と楽天トラベルクーポンの併用：</strong> 長崎県の人気温泉宿・リゾートホテルは、週末や連休・紅葉・年末年始の60日〜30日前から一気に予約が埋まります。毎月5と0のつく日やスーパーSALE期間中に配布される宿クーポン・自治体クーポンを併用すると、通常より最大10〜20%お得に予約可能です。
+            </p>
+            <p>
+              <strong>2. 夕食・朝食プランと部屋タイプの選び方：</strong> 地元産の旬魚介やブランド牛会席を味わうなら「夕朝食付きプラン」、周辺の屋台・老舗居酒屋・ご当地グルメを食べ歩くなら「朝食付き」または「素泊まり＋天然温泉大浴場付きホテル」を選ぶと予算と満足度のバランスが最適化されます。
+            </p>
+          </div>
+        </section>
+
+      </main>
   );
 }

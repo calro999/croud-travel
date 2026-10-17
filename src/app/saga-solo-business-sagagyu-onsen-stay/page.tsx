@@ -401,12 +401,6 @@ export default function ArticlePage() {
           </a>
         </div>
       </section>
-    
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -477,6 +471,256 @@ export default function ArticlePage() {
                 A. 「ホテルニューオータニ佐賀」では季節ごとに異なる宿泊プランや料理プランが用意されています。ご旅行の人数や滞在スタイルに合わせて最適なプランをお選びいただけます。
               </p>
             </details>
+          </div>
+        </section>
+
+      
+        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
+          <div className="space-y-2 border-b border-stone-200 pb-4">
+            <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
+              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+            </span>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
+              📊 佐賀出張・男一人旅：お濠の水辺ビュー・佐賀牛グルメ・駅前快適ビジネス！城下町の静けさで整う厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+            </h2>
+            <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+              楽天トラベル公式APIより取得した「佐賀出張・男一人旅：お濠の水辺ビュー・佐賀牛グルメ・駅前快適ビジネス！城下町の静けさで整う厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+            </p>
+          </div>
+
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th>
+                  <th className="p-3">所在地</th>
+                  <th className="p-3">最寄り駅・交通</th>
+                  <th className="p-3">駐車場情報</th>
+                  <th className="p-3">楽天評価</th>
+                  <th className="p-3">最安目安</th>
+                  <th className="p-3">予約・詳細</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. ホテルニューオータニ佐賀</td>
+                <td className="p-3 text-stone-600">佐賀県佐賀市与賀町1-2</td>
+                <td className="p-3 text-stone-600">佐賀駅周辺</td>
+                <td className="p-3 text-stone-600">有り　100台　無料</td>
+                <td className="p-3 font-bold text-amber-600">★4.22（956件）</td>
+                <td className="p-3 font-bold text-rose-600">¥6,300〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5830%2F5830.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. コンフォートホテル佐賀</td>
+                <td className="p-3 text-stone-600">佐賀県佐賀市駅前中央1-14-38</td>
+                <td className="p-3 text-stone-600">佐賀駅周辺</td>
+                <td className="p-3 text-stone-600">提携駐車場20台◆1泊800円・先着順◆入出庫不可◆幅2.0m　長さ5.0m　※大型不可</td>
+                <td className="p-3 font-bold text-amber-600">★4.13（3525件）</td>
+                <td className="p-3 font-bold text-rose-600">¥4,200〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67850%2F67850.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. アパホテル〈佐賀駅南口〉</td>
+                <td className="p-3 text-stone-600">佐賀県佐賀市駅前中央1-164</td>
+                <td className="p-3 text-stone-600">佐賀駅周辺</td>
+                <td className="p-3 text-stone-600">平面駐車場25台　1000円/1泊　大型車要予約　マイクロ2000円〜/1泊</td>
+                <td className="p-3 font-bold text-amber-600">★4.01（2417件）</td>
+                <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F448%2F448.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">4. 武雄温泉　大正浪漫の宿　京都屋</td>
+                <td className="p-3 text-stone-600">佐賀県武雄市武雄町大字武雄7266-7</td>
+                <td className="p-3 text-stone-600">武雄温泉駅周辺</td>
+                <td className="p-3 text-stone-600">有り　60台　無料</td>
+                <td className="p-3 font-bold text-amber-600">★4.31（493件）</td>
+                <td className="p-3 font-bold text-rose-600">¥6,480〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5552%2F5552.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">5. 竹崎かにと日本酒の宿　鶴荘</td>
+                <td className="p-3 text-stone-600">佐賀県藤津郡太良町大浦丙928</td>
+                <td className="p-3 text-stone-600">肥前大浦駅周辺</td>
+                <td className="p-3 text-stone-600">有　３０台(無料)　先着順＊満車の場合、近くの無料駐車場にご案内します</td>
+                <td className="p-3 font-bold text-amber-600">★4.64（303件）</td>
+                <td className="p-3 font-bold text-rose-600">¥10,450〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F6006%2F6006.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div className="space-y-4">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
+              🏨 各宿の宿泊者リアルクチコミ・客室イメージ・項目別評価データ
+            </h3>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #1</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ホテルニューオータニ佐賀</h3>
+                  <span className="text-xs text-stone-400 ml-2">（にゅーおーたに　さが）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥6,300〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5830/5830_twn.jpg" alt="ホテルニューオータニ佐賀 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>佐賀県唯一のシティホテル。歴史とモダンが調和する上質なひとときを。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 佐賀県佐賀市与賀町1-2 ／ 最寄り駅：佐賀 ／ 交通案内：JR佐賀駅より車にて8分、空港バス利用～県庁前バス停下車～徒歩にて約10分、佐賀空港より車にて20分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.32 ／ 立地 ★4.26 ／ 部屋 ★4.11 ／ 設備 ★4.08 ／ 風呂 ★3.99 ／ 食事 ★4.38</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広くて清潔な部屋と丁寧な接客に大満足素泊まりで利用させていただきました。お部屋は広くて清潔感があり、とても快適に過ごすことができました。また、フロントのスタッフの方々も非常に丁寧で親切にご対応…　2026-10-10 10:13:34投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #2</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">コンフォートホテル佐賀</h3>
+                  <span className="text-xs text-stone-400 ml-2">（こんふぉーとほてるさが）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥4,200〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67850/67850_d.jpg" alt="コンフォートホテル佐賀 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>日替わりスムージーが人気★無料朝食サービスがイチオシのコスパ最強ホテル◆小学6年生まで添い寝無料</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 佐賀県佐賀市駅前中央1-14-38 ／ 最寄り駅：佐賀 ／ 交通案内：ＪＲ「佐賀駅」徒歩１分◆佐賀空港からバスにて佐賀駅バスセンター下車徒歩３分◆長崎自動車道「佐賀大和ＩＣ」約１０分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>提携駐車場20台◆1泊800円・先着順◆入出庫不可◆幅2.0m　長さ5.0m　※大型不可</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.15 ／ 立地 ★4.15 ／ 部屋 ★4.13 ／ 設備 ★4.01 ／ 風呂 ★3.94 ／ 食事 ★4.07</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感があり朝食も種類豊富で大満足清潔感あり朝食も数品多くとてもおいしかったです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hot…　2026-10-08 17:56:12投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #3</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">アパホテル〈佐賀駅南口〉</h3>
+                  <span className="text-xs text-stone-400 ml-2">（あぱほてる　さがえきみなみぐち）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥4,500〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/448/448_room.jpg" alt="アパホテル〈佐賀駅南口〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>佐賀駅より徒歩3分。福岡空港より車で65分。博多駅より列車で約35分。北部九州の拠点に最適なホテル。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 佐賀県佐賀市駅前中央1-164 ／ 最寄り駅：佐賀 ／ 交通案内：ＪＲ佐賀駅南口から徒歩３分、 博多駅から列車で約35分、福岡空港からバスで65分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>平面駐車場25台　1000円/1泊　大型車要予約　マイクロ2000円〜/1泊</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4 ／ 立地 ★4.03 ／ 部屋 ★3.98 ／ 設備 ★3.93 ／ 風呂 ★3.82 ／ 食事 ★3.98</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ウォーターサーバー設置が大変助かるいつも利用しております。ウォーターサパー設置は、大変助かります。クチコミの詳細はこちらから　https://review.travel.rakuten.c…　2026-10-03 07:40:16投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #4</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">武雄温泉　大正浪漫の宿　京都屋</h3>
+                  <span className="text-xs text-stone-400 ml-2">（たけおおんせん　たいしょうろまんのやど　きょうとや）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥6,480〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5552/5552_heya.jpg" alt="武雄温泉　大正浪漫の宿　京都屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>古き良き大正時代を思わせる宿。無料モーニングサービスあり。25年6月男女大浴場にドライサウナ新設</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 佐賀県武雄市武雄町大字武雄7266-7 ／ 最寄り駅：武雄温泉 ／ 交通案内：JR佐世保線武雄温泉駅下車徒歩8分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　60台　無料</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景観と温泉に癒やされ、部屋も広く快適景観もよく、温泉も泉質がよくリラックスできて良かったです!空室があったからか、部屋もアップグレードしてもらえたみたいです。部屋も思ったより広く快適に過ご…　2026-09-09 23:03:53投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #5</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">竹崎かにと日本酒の宿　鶴荘</h3>
+                  <span className="text-xs text-stone-400 ml-2">（つるそう）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥10,450〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/6006/6006_heya.jpg" alt="竹崎かにと日本酒の宿　鶴荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>前菜ビュッフェと日本酒サーバー&amp;貸切サウナは竹崎では当館だけ！</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 佐賀県藤津郡太良町大浦丙928 ／ 最寄り駅：肥前大浦 ／ 交通案内：ＪＲ長崎線肥前大浦駅下車無料送迎あり（要予約）／九州自動車道長崎武雄北方ＩＣ下車国道２０７を塩田、鹿島へ1時間</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有　３０台(無料)　先着順＊満車の場合、近くの無料駐車場にご案内します</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.74 ／ 立地 ★4.46 ／ 部屋 ★4.66 ／ 設備 ★4.54 ／ 風呂 ★4.42 ／ 食事 ★4.72</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「有明海を望む静かな宿、食事も温泉も大満足有明海を望む好立地にも関わらず静かで穏やかな宿です。最近リニューアルされた内装は木材の良さを生かした落ち着きがありそれでいて明るく快適でした。客室には独特な…　2026-09-30 11:15:22投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="space-y-4 pt-6 border-t border-stone-200">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
+              🗺️ あわせて巡りたい！佐賀県の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+            </h3>
+            <p className="text-xs text-stone-600 leading-relaxed">
+              宿泊前後の1泊2日・2泊3日モデルコースに組み込みたい、佐賀県を代表する名所・絶景スポットの解説です。チェックイン前後の荷物預かりや駅周辺のレンタカー・周遊バスを活用すると効率よく巡ることができます。
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
+                <h3 className="text-base font-bold text-stone-900">吉野ヶ里歴史公園</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">弥生時代の日本最大の環濠集落遺跡。物見櫓や竪穴住居、巨大な墳丘墓が広大な敷地に復元され、縄文から弥生への古代のロマンを体感できます。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
+                <h3 className="text-base font-bold text-stone-900">御船山楽園（武雄温泉）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">武雄領主・鍋島茂義公が造営した15万坪の庭園。切り立った御船山を背に、春のツツジや秋の紅葉ライトアップ、チームラボのアート展覧会が圧巻です。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
+                <h3 className="text-base font-bold text-stone-900">呼子の朝市・七ツ釜</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">日本三大朝市の一つ「呼子の朝市」での活気溢れる鮮魚・干物買い出しと、玄界灘の荒波が造った玄武岩の奇岩洞窟「七ツ釜」の遊覧船クルーズが楽しめます。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
+                <h3 className="text-base font-bold text-stone-900">有田ポーセリンパーク</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">有田焼の歴史と美を伝える磁器のテーマパーク。ツヴィンガー宮殿をリアルに再現した絢欄豪華な建築と有田焼の作品展示、作陶体験が体験できます。</p>
+              </div>
+            </div>
+            </div>
+          </div>
+
+          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-3 text-xs text-stone-700 leading-relaxed">
+            <h3 className="text-sm md:text-base font-bold text-amber-950">
+              💡 佐賀県エリアの宿泊予約・シーズン別ベストタイミングと節約ノウハウ
+            </h3>
+            <p>
+              <strong>1. 早期予約と楽天トラベルクーポンの併用：</strong> 佐賀県の人気温泉宿・リゾートホテルは、週末や連休・紅葉・年末年始の60日〜30日前から一気に予約が埋まります。毎月5と0のつく日やスーパーSALE期間中に配布される宿クーポン・自治体クーポンを併用すると、通常より最大10〜20%お得に予約可能です。
+            </p>
+            <p>
+              <strong>2. 夕食・朝食プランと部屋タイプの選び方：</strong> 地元産の旬魚介やブランド牛会席を味わうなら「夕朝食付きプラン」、周辺の屋台・老舗居酒屋・ご当地グルメを食べ歩くなら「朝食付き」または「素泊まり＋天然温泉大浴場付きホテル」を選ぶと予算と満足度のバランスが最適化されます。
+            </p>
           </div>
         </section>
 

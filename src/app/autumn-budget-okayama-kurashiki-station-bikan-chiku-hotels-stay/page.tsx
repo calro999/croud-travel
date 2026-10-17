@@ -413,6 +413,225 @@ export default function AutumnBudgetHotelsPage() {
           </div>
         </div>
       </section>
-    </main>
+    
+        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
+          <div className="space-y-2 border-b border-stone-200 pb-4">
+            <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
+              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+            </span>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
+              📊 倉敷駅前：美観地区白壁の町並み＆名物ままかり！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+            </h2>
+            <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+              楽天トラベル公式APIより取得した「倉敷駅前：美観地区白壁の町並み＆名物ままかり！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+            </p>
+          </div>
+
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th>
+                  <th className="p-3">所在地</th>
+                  <th className="p-3">最寄り駅・交通</th>
+                  <th className="p-3">駐車場情報</th>
+                  <th className="p-3">楽天評価</th>
+                  <th className="p-3">最安目安</th>
+                  <th className="p-3">予約・詳細</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. アパホテル〈倉敷駅前〉</td>
+                <td className="p-3 text-stone-600">岡山県倉敷市阿知1-7-2 JR倉敷駅前西ビル9階-12階</td>
+                <td className="p-3 text-stone-600">倉敷駅周辺</td>
+                <td className="p-3 text-stone-600">提携駐車場『カモ井パーキング』24時間1,000円（フロント精算）※途中出庫不可・到着順案内</td>
+                <td className="p-3 font-bold text-amber-600">★3.96（3369件）</td>
+                <td className="p-3 font-bold text-rose-600">¥3,591〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F75332%2F75332.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. ホテルリブマックス岡山倉敷駅前</td>
+                <td className="p-3 text-stone-600">岡山県倉敷市阿知1-5-13</td>
+                <td className="p-3 text-stone-600">倉敷駅周辺</td>
+                <td className="p-3 text-stone-600">近隣にコインパーキングあり</td>
+                <td className="p-3 font-bold text-amber-600">★4（230件）</td>
+                <td className="p-3 font-bold text-rose-600">¥3,188〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F179392%2F179392.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. 東横ＩＮＮ倉敷駅南口</td>
+                <td className="p-3 text-stone-600">岡山県倉敷市阿知2-10-20</td>
+                <td className="p-3 text-stone-600">倉敷駅周辺</td>
+                <td className="p-3 text-stone-600">駐車場有　1泊￥700　立体駐車場（32台）　先着順　高さ制限有：155cmまで</td>
+                <td className="p-3 font-bold text-amber-600">★4.09（580件）</td>
+                <td className="p-3 font-bold text-rose-600">¥5,040〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108342%2F108342.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">4. 倉敷駅前ユニバーサルホテル（ユニバーサルホテルチェーン）</td>
+                <td className="p-3 text-stone-600">岡山県倉敷市中央2-1-15</td>
+                <td className="p-3 text-stone-600">倉敷駅周辺</td>
+                <td className="p-3 text-stone-600">有り　1泊1,100円（税込　16時〜翌日10時）　予約不可先着順　※10時〜16時は」別途料金発生</td>
+                <td className="p-3 font-bold text-amber-600">★3.89（1913件）</td>
+                <td className="p-3 font-bold text-rose-600">¥4,155〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F130504%2F130504.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div className="space-y-4">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
+              🏨 各宿の宿泊者リアルクチコミ・客室イメージ・項目別評価データ
+            </h3>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #1</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">アパホテル〈倉敷駅前〉</h3>
+                  <span className="text-xs text-stone-400 ml-2">（あぱほてる＜くらしきえきまえ＞）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,591〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/75332/75332_room.jpg" alt="アパホテル〈倉敷駅前〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>倉敷駅南口隣接の徒歩1分！美観地区・三井アウトレットへも便利です。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 岡山県倉敷市阿知1-7-2 JR倉敷駅前西ビル9階-12階 ／ 最寄り駅：倉敷 ／ 交通案内：倉敷駅南口から徒歩1分！駅1階からお越しになれば雨の日も快適チェックイン。</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>提携駐車場『カモ井パーキング』24時間1,000円（フロント精算）※途中出庫不可・到着順案内</p>
+                  
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光地での荷物預かりサービスが助かる観光地倉敷でチェックイン前後で荷物を預かってくださるのがとても助かりました。クチコミの詳細はこちらから　https://review.travel.raku…　2026-09-15 13:01:40投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #2</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ホテルリブマックス岡山倉敷駅前</h3>
+                  <span className="text-xs text-stone-400 ml-2">（りぶまっくすおかやまくらしきえきまえ）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,188〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/179392/179392.jpg" alt="ホテルリブマックス岡山倉敷駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>【おかやま旅応援割】加盟店舗☆2020年5月ＯＰＥＮ☆電子レンジ＆空気清浄機充実のルームアイテム♪</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 岡山県倉敷市阿知1-5-13 ／ 最寄り駅：倉敷 ／ 交通案内：ＪＲ山陽本線　倉敷駅より徒歩2分♪</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>近隣にコインパーキングあり</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.86 ／ 立地 ★4 ／ 部屋 ★4.02 ／ 設備 ★3.87 ／ 風呂 ★3.77</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で観光にも便利、出張の定宿に最適倉敷駅から近く、スーパー、商店街とも近く飲食に困りません。美観地区までも徒歩圏内ですので観光にも最適です。出張時にはまた利用させてもらいます。クチコミの詳細…　2026-09-06 18:37:39投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #3</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">東横ＩＮＮ倉敷駅南口</h3>
+                  <span className="text-xs text-stone-400 ml-2">（とうよこいんくらしきえきみなみぐち）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥5,040〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/108342/108342.jpg" alt="東横ＩＮＮ倉敷駅南口 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>JR倉敷駅から徒歩5分で朝食・小学生以下添い寝無料のホテル！倉敷美観地区まで徒歩5分</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 岡山県倉敷市阿知2-10-20 ／ 最寄り駅：倉敷 ／ 交通案内：JR倉敷駅より美観地区方面に徒歩5分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>駐車場有　1泊￥700　立体駐車場（32台）　先着順　高さ制限有：155cmまで</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.08 ／ 立地 ★4.03 ／ 部屋 ★4.03 ／ 設備 ★4.02 ／ 風呂 ★3.93 ／ 食事 ★4.04</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光に便利な立地、エレベーター音は少し気になる倉敷の馬関地区に近く、観光目的の方にはおすすめです。また飲食店も近隣に多数あり、便利です。宿泊当日に最後の1室を予約したためか、エレベーターの…　2026-09-28 12:13:46投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #4</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">倉敷駅前ユニバーサルホテル（ユニバーサルホテルチェーン）</h3>
+                  <span className="text-xs text-stone-400 ml-2">（くらしきえきまえゆにばーさるほてる（ゆにばーさるほてるちぇーん））</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥4,155〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/130504/130504_kya.jpg" alt="倉敷駅前ユニバーサルホテル（ユニバーサルホテルチェーン） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>倉敷駅より800ｍ／美観地区徒歩1分／朝食夕食無料!／大浴場＆サウナ!／WiFi全室完備！</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 岡山県倉敷市中央2-1-15 ／ 最寄り駅：倉敷 ／ 交通案内：倉敷駅より800ｍ</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　1泊1,100円（税込　16時〜翌日10時）　予約不可先着順　※10時〜16時は」別途料金発生</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.86 ／ 立地 ★3.9 ／ 部屋 ★3.76 ／ 設備 ★3.72 ／ 風呂 ★3.79 ／ 食事 ★3.88</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「充電設備が便利で、お風呂も良かった朝夕食付き、部屋にはUSB、Type-C充電ポートあり。大浴場は脱衣所狭いけど、お風呂は良かったです。次も利用したいです!クチコミの詳細はこちらから　http…　2026-10-09 22:17:23投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="space-y-4 pt-6 border-t border-stone-200">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
+              🗺️ あわせて巡りたい！岡山県の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+            </h3>
+            <p className="text-xs text-stone-600 leading-relaxed">
+              宿泊前後の1泊2日・2泊3日モデルコースに組み込みたい、岡山県を代表する名所・絶景スポットの解説です。チェックイン前後の荷物預かりや駅周辺のレンタカー・周遊バスを活用すると効率よく巡ることができます。
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Kurasiki_morning01.JPG/1280px-Kurasiki_morning01.JPG?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="倉敷美観地区" className="w-full h-full object-cover" loading="lazy" /></div>
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
+                <h3 className="text-base font-bold text-stone-900">倉敷美観地区</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">白壁の土蔵や柳並木が倉敷川沿いに続く歴史情緒あふれる美景地区。倉敷川での川舟流しや古民家カフェ、大原美術館の近代絵画鑑賞が魅力です。 倉敷美観地区（くらしきびかんちく、Kurashiki Bikan historical quarter）は、岡山県倉敷市にある町並保存地区・観光地区である。 当エリアは倉敷市の美観地区景観条例にもとづき定められたもので、同市本町全域、中央1丁目北部（前神町など）、東町・阿知2丁目・鶴形2丁目の各一部が含まれる。広義の美観地区の面積は21.0ヘクタールで、うち…</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
+                <h3 className="text-base font-bold text-stone-900">岡山後楽園</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">水戸偕楽園・金沢兼六園と並ぶ日本三名園。岡山藩主・池田綱政公が造営した回遊式大名庭園で、広い芝生と池、岡山城を背にした景観が優美です。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
+                <h3 className="text-base font-bold text-stone-900">国宝 岡山城（烏城）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">黒い板張りの外観から「烏城（うじょう）」と呼ばれる名城。令和の大改修を経て美しく生まれ変わり、旭川越しに見る黄金のシャチホコと漆黒のコントラストが秀逸です。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
+                <h3 className="text-base font-bold text-stone-900">瀬戸大橋（鷲羽山）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">本州と四国を結ぶ世界最大級の二本構成橋梁。鷲羽山（わしうざん）展望台からは瀬戸内海に浮かぶ多島美と橋が織りなす壮大なパノラマを一望できます。</p>
+              </div>
+            </div>
+            </div>
+          </div>
+
+          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-3 text-xs text-stone-700 leading-relaxed">
+            <h3 className="text-sm md:text-base font-bold text-amber-950">
+              💡 岡山県エリアの宿泊予約・シーズン別ベストタイミングと節約ノウハウ
+            </h3>
+            <p>
+              <strong>1. 早期予約と楽天トラベルクーポンの併用：</strong> 岡山県の人気温泉宿・リゾートホテルは、週末や連休・紅葉・年末年始の60日〜30日前から一気に予約が埋まります。毎月5と0のつく日やスーパーSALE期間中に配布される宿クーポン・自治体クーポンを併用すると、通常より最大10〜20%お得に予約可能です。
+            </p>
+            <p>
+              <strong>2. 夕食・朝食プランと部屋タイプの選び方：</strong> 地元産の旬魚介やブランド牛会席を味わうなら「夕朝食付きプラン」、周辺の屋台・老舗居酒屋・ご当地グルメを食べ歩くなら「朝食付き」または「素泊まり＋天然温泉大浴場付きホテル」を選ぶと予算と満足度のバランスが最適化されます。
+            </p>
+          </div>
+        </section>
+
+      </main>
   );
 }

@@ -416,11 +416,6 @@ export default function ArticlePage() {
           </Link>
         </div>
       </div>
-    
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -467,7 +462,22 @@ export default function ArticlePage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/winter-niigata-sado-island-kanburi-crab-snow-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月佐渡：冬の王者「佐渡寒ブリ」と活本ズワイガニ！名宿5選</span>
+            </a>
+            <a href="/furusato-tax-echigo-yuzawa-naeba-dragondola-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">苗場ドラゴンドラの紅葉空中散歩と越後湯沢温泉！南魚沼産新米コシヒカリと地酒を味わう秋の新潟旅</span>
+            </a>
+            <a href="/niigata-echigo-yuzawa-solo-retreat-snow-country-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">新潟・越後湯沢温泉ひとり旅・川端康成『雪国』の文学湯治おこもり：新幹線直結・谷川連峰一望の露天風呂・魚沼産コシヒカリ会席！白銀の温泉郷厳選3宿</span>
+            </a>
+            <a href="/winter-niigata-matsunoyama-onsen-yakuto-snow-tsumari-pork-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">松之山温泉で過ごす冬の旅（11・12月）！日本三大薬湯の自噴化石海水と！名宿5選</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

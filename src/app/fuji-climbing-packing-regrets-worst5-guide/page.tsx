@@ -248,7 +248,7 @@ export default function FujiClimbingPackingRegretsPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「高山病・下山時の爪割れ・ヘッドライト忘れ！登頂成功の持ち物チェックリスト」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「高山病・下山時の爪割れ・ヘッドライト忘れ！登頂成功の持ち物チェックリスト」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"富士登山で後悔したことワースト5：高山病・下山時の爪割れ・ヘッドライト忘れ！登頂成功の持ち物チェックリストエリアでは、「庭園と感動の宿　富士山温泉　ホテル鐘山苑」（楽天評価★4.69・クチコミ1165件、所在地：山梨県富士吉田市上吉田東9-1-18）をはじめとする宿を拠点にし、最寄り駅（富士吉田）やアクセス条件（富士急行線富士山駅より１３時～１８時の間無料送迎あり／車８分／駅到着時にお電話下さい／翌日のお送りは８：００より３０分毎）に合わせて午前中に周辺観光名所を巡り、15時のチェックイン後に温泉や夕食会席を堪能するスケジュールが最も効率的です。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"宿泊予約時は最安料金目安（例：「ビジネスホテル芙蓉」は1名あたり¥4,100〜）や駐車場条件（有り　5００台　無料）を事前に確認しましょう。連休や紅葉・年末年始シーズンは早期に満室となるため、楽天トラベルの早期割引プランやクーポンの活用がおすすめです。"}}]}) }}
       />
         <SpecialCouponBanner variant="prominent" />
 
@@ -570,12 +570,6 @@ export default function FujiClimbingPackingRegretsPage() {
             </div>
           </div>
         </section>
-      
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         
 
         {/* FAQ Section */}
@@ -593,7 +587,7 @@ export default function FujiClimbingPackingRegretsPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。
+                A. 富士登山で後悔したことワースト5：高山病・下山時の爪割れ・ヘッドライト忘れ！登頂成功の持ち物チェックリストでは、最寄り駅からの送迎バス運行時間やチェックイン時刻（通常15:00）から逆算し、午前中に主要な景勝地・寺社・市場を巡り、午後は宿の天然温泉や地元食材の会席料理をゆっくり堪能する行程が最も満足度の高い回り方です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -602,7 +596,7 @@ export default function FujiClimbingPackingRegretsPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。
+                A. 楽天トラベルで予約する際は、無料駐車場の台数・予約要否、露天風呂付き客室や部屋食プランの有無、そして5と0のつく日クーポンや早期割引プランの対象期間を事前に比較確認しておくと安心です。
               </p>
             </details>
           </div>
@@ -617,7 +611,22 @@ export default function FujiClimbingPackingRegretsPage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/ishikawa-kaga-onsen-valley-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">石川・加賀温泉郷：山中温泉・山代温泉＆鶴仙渓川床・加能ガニ極上宿 厳選ガイド</span>
+            </a>
+            <a href="/traditional-ishikawa-wajima-nuri-lacquer-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">2026年：輪島塗の器で味わう能登前寿司！能登復興応援＆和倉温泉・七尾湾オーシャン宿5選</span>
+            </a>
+            <a href="/winter-ishikawa-katayamazu-onsen-hakusan-kano-crab-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">石川・加賀片山津温泉で過ごす冬の旅（11・12月）！11月解禁加能ガニ！名宿5選</span>
+            </a>
+            <a href="/furusato-tax-ishikawa-yamashiro-yamanaka-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">石川・加賀温泉郷 山代温泉の総湯文化と紅葉！三湯めぐり＆11月加能ガニ・橋立港寒魚</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

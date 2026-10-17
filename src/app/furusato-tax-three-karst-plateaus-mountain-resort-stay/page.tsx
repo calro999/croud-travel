@@ -639,7 +639,7 @@ export default function Page() {
                     📍 福岡県京都郡苅田町神田町1-8-1
                   </p>
                   <p className="text-xs text-slate-500 mt-0.5">
-                    🚆 ＪＲ日豊本線　苅田駅徒歩0分��北九州空港より車で約１5分
+                    🚆 ＪＲ日豊本線　苅田駅徒歩0分／北九州空港より車で約１5分
                   </p>
                   <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
                     ＷＯＷＯＷ全室で無料視聴可■VODルームシアター無料視聴可能（一般映画のみ：コンフォートルーム特典）
@@ -751,11 +751,6 @@ export default function Page() {
             
           </div>
         </section>
-      
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -838,7 +833,22 @@ export default function Page() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/winter-iwate-tsunagi-onsen-koiwai-illumination-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">盛岡つなぎ温泉で過ごす冬の旅（11・12月）！秀峰岩手山雪見露天と極上前沢牛会席！名宿5選</span>
+            </a>
+            <a href="/furusato-tax-iwate-hachimantai-appikogen-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">岩手・八幡平アスピーテラインの紅葉パノラマ＆安比高原！秘湯名湯と前沢牛・杜陵ポーク</span>
+            </a>
+            <a href="/iwate-morioka-tsunagi-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">盛岡つなぎ温泉ひとり旅・御所湖畔と岩手山おこもり：源泉かけ流し単純硫黄泉・前沢牛＆盛岡冷麺・南部鉄器文化！新幹線盛岡駅25分の名湯厳選3宿</span>
+            </a>
+            <a href="/winter-iwate-hachimantai-matsukawa-onsen-snow-maesawagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">八幡平温泉郷で過ごす冬の旅（11・12月）！極上前沢牛と南部鉄器すき焼き！名宿5選</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

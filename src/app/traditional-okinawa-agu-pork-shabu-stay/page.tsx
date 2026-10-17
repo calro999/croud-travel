@@ -204,7 +204,7 @@ export default function FeatureDetailPage() {
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ウォーターマークホテル沖縄 宮古島＜伊良部島＞」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ウォーターマークホテル沖縄 宮古島＜伊良部島＞」へは、宮古島空港より車で約35分、みやこ下地島空港より車で約5分。最寄りの宮古空港駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ウォーターマークホテル沖縄 宮古島＜伊良部島＞」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ウォーターマークホテル沖縄 宮古島＜伊良部島＞」は『日本の渚100選に選ばれた美しいビーチで、夕陽の名所ホテルより青い海も、夕陽も一望でき��。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ウォーターマークホテル沖縄 宮古島＜伊良部島＞」では季節ごとに異なる宿泊プランや料理プランが用意されています。ご旅行の人数や滞在スタイルに合わせて最適なプランをお選びいただけます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ウォーターマークホテル沖縄 宮古島＜伊良部島＞」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ウォーターマークホテル沖縄 宮古島＜伊良部島＞」へは、宮古島空港より車で約35分、みやこ下地島空港より車で約5分。最寄りの宮古空港駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ウォーターマークホテル沖縄 宮古島＜伊良部島＞」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ウォーターマークホテル沖縄 宮古島＜伊良部島＞」は『日本の渚100選に選ばれた美しいビーチで、夕陽の名所ホテルより青い海も、夕陽も一望できます。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ウォーターマークホテル沖縄 宮古島＜伊良部島＞」では季節ごとに異なる宿泊プランや料理プランが用意されています。ご旅行の人数や滞在スタイルに合わせて最適なプランをお選びいただけます。"}}]}) }}
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
@@ -563,11 +563,6 @@ export default function FeatureDetailPage() {
             <ChevronRight className="w-5 h-5" />
           </Link>
         </div>
-      
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -583,7 +578,7 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 宮古空港駅よりアクセス。宮古島空港より車で約35分、みやこ下地島空港より車で約5分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「ウォーターマークホテル沖縄 宮古島＜伊良部島＞」にチェックイン。日本の渚100選に選ばれた美しいビーチで、夕陽の名所ホテルより青い海も、夕陽も一望でき���す。などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「ウォーターマークホテル沖縄 宮古島＜伊良部島＞」にチェックイン。日本の渚100選に選ばれた美しいビーチで、夕陽の名所ホテルより青い海も、夕陽も一望できます。などの宿の特徴に期待を高めつつ客室へ。</li>
                 <li>・<strong className="text-stone-800">17:00〜</strong> 「ウォーターマークホテル沖縄 宮古島＜伊良部島＞」の湯処へ。日本の渚100選に選ばれた美しいビーチで、夕陽の名所ホテルより青い海もとともに、夕暮れの特別な寛ぎを満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「ウォーターマークホテル沖縄 宮古島＜伊良部島＞」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
@@ -626,7 +621,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「ウォーターマークホテル沖縄 宮古島＜伊良部島＞」は『日本の渚100選に選ばれた美しいビーチで、夕陽の名所ホテルより青い海も、夕陽も一望でき��。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「ウォーターマークホテル沖縄 宮古島＜伊良部島＞」は『日本の渚100選に選ばれた美しいビーチで、夕陽の名所ホテルより青い海も、夕陽も一望できます。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -650,7 +645,22 @@ export default function FeatureDetailPage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/winter-chiba-tokyo-disney-resort-maihama-christmas-hotel-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月舞浜：東京ディズニーリゾート冬のクリスマス！名宿5選</span>
+            </a>
+            <a href="/furusato-tax-chiba-boso-kamogawa-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">千葉・南房総 鴨川の太平洋オーシャンビュー温泉＆秋の鯛の浦！伊勢海老・金目鯛と里山棚田</span>
+            </a>
+            <a href="/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">千葉・南房総温泉郷で過ごす冬の旅（11・12月）！太平洋パノラマ絶景露天！名宿5選</span>
+            </a>
+            <a href="/chiba-kamogawa-solo-retreat-ocean-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">南房総・鴨川温泉ひとり旅・太平洋水平線おこもり：波音の露天風呂・地魚舟盛り・里山棚田ウォーキング！都心特急特等席の海リトリート厳選3宿</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
@@ -680,6 +690,256 @@ export default function FeatureDetailPage() {
                 鳥取県の宿・温泉
               </Link>
             </div>
+          </div>
+        </section>
+
+      
+        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
+          <div className="space-y-2 border-b border-stone-200 pb-4">
+            <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
+              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+            </span>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
+              📊 2026年：旨味と甘み極まる幻の島豚！あぐー豚しゃぶしゃぶ＆美ら海・古宇利島リゾート5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+            </h2>
+            <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+              楽天トラベル公式APIより取得した「2026年：旨味と甘み極まる幻の島豚！あぐー豚しゃぶしゃぶ＆美ら海・古宇利島リゾート5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+            </p>
+          </div>
+
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th>
+                  <th className="p-3">所在地</th>
+                  <th className="p-3">最寄り駅・交通</th>
+                  <th className="p-3">駐車場情報</th>
+                  <th className="p-3">楽天評価</th>
+                  <th className="p-3">最安目安</th>
+                  <th className="p-3">予約・詳細</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. ウォーターマークホテル沖縄　宮古島＜伊良部島＞</td>
+                <td className="p-3 text-stone-600">沖縄県宮古島市伊良部佐和田前原1725</td>
+                <td className="p-3 text-stone-600">宮古空港駅周辺</td>
+                <td className="p-3 text-stone-600">有り　50台　1室につき1台無料　（予約不要）</td>
+                <td className="p-3 font-bold text-amber-600">★4.41（249件）</td>
+                <td className="p-3 font-bold text-rose-600">¥8,265〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F184118%2F184118.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. ホテル沖縄　ｗｉｔｈ　サンリオキャラクターズ</td>
+                <td className="p-3 text-stone-600">沖縄県那覇市安里1-2-25</td>
+                <td className="p-3 text-stone-600">ゆいレール　牧志駅より徒歩にて約1分</td>
+                <td className="p-3 text-stone-600">駐車場なし。近くのコインパーキングをご案内中。</td>
+                <td className="p-3 font-bold text-amber-600">★4.26（169件）</td>
+                <td className="p-3 font-bold text-rose-600">¥6,500〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F177099%2F177099.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. ホテルグランビューガーデン沖縄</td>
+                <td className="p-3 text-stone-600">沖縄県豊見城市豊崎3-82</td>
+                <td className="p-3 text-stone-600">那覇空港から車で約１５分</td>
+                <td className="p-3 text-stone-600">有り　７７台　無料　予約不要</td>
+                <td className="p-3 font-bold text-amber-600">★4.01（654件）</td>
+                <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F75371%2F75371.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">4. グランドメルキュール沖縄残波岬リゾート</td>
+                <td className="p-3 text-stone-600">沖縄県中頭郡読谷村宇座1575</td>
+                <td className="p-3 text-stone-600">那覇空港駅周辺</td>
+                <td className="p-3 text-stone-600">有(無料）</td>
+                <td className="p-3 font-bold text-amber-600">★4.19（2121件）</td>
+                <td className="p-3 font-bold text-rose-600">¥8,075〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30045%2F30045.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">5. ホーム・ステイ・ユミハ沖縄　ｂｙバンヤン・グループ</td>
+                <td className="p-3 text-stone-600">沖縄県国頭郡恩納村字山田2455-1</td>
+                <td className="p-3 text-stone-600">那覇空港駅周辺</td>
+                <td className="p-3 text-stone-600">有り　18台　無料　先着順</td>
+                <td className="p-3 font-bold text-amber-600">★4.67（24件）</td>
+                <td className="p-3 font-bold text-rose-600">¥9,000〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F184140%2F184140.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div className="space-y-4">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
+              🏨 各宿の宿泊者リアルクチコミ・客室イメージ・項目別評価データ
+            </h3>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #1</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ウォーターマークホテル沖縄　宮古島＜伊良部島＞</h3>
+                  <span className="text-xs text-stone-400 ml-2">（うぉーたーまーくほてるおきなわ　みやこじま）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥8,265〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184118/184118.jpg" alt="ウォーターマークホテル沖縄　宮古島＜伊良部島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>日本の渚100選に選ばれた美しいビーチで、夕陽の名所ホテルより青い海も、夕陽も一望できます。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県宮古島市伊良部佐和田前原1725 ／ 最寄り駅：宮古空港 ／ 交通案内：宮古島空港より車で約35分、みやこ下地島空港より車で約5分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　50台　1室につき1台無料　（予約不要）</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.57 ／ 部屋 ★4.42 ／ 設備 ★4.26 ／ 風呂 ★4.39 ／ 食事 ★4.48</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「窓から宮古島の景色を感じられて最高窓からの眺めは宮古島を感じられてよかったですクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/v…　2026-10-09 10:50:11投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #2</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ホテル沖縄　ｗｉｔｈ　サンリオキャラクターズ</h3>
+                  <span className="text-xs text-stone-400 ml-2">（おきなわ　うぃず　さんりおきゃらくたーず）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥6,500〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/177099/177099.jpg" alt="ホテル沖縄　ｗｉｔｈ　サンリオキャラクターズ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>全室サンリオ仕様♪推しキャラと過ごす夢かわホテル！</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県那覇市安里1-2-25 ／ 最寄り駅：主要駅 ／ 交通案内：ゆいレール　牧志駅より徒歩にて約1分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>駐車場なし。近くのコインパーキングをご案内中。</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.4 ／ 部屋 ★4.27 ／ 設備 ★4.07 ／ 風呂 ★3.88 ／ 食事 ★3.95</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「クロミちゃんの部屋は快適、椅子があれば完璧おまかせプランでクロミちゃんの部屋に案内していただきました。総じて清潔感があり、現代的な部屋で満足です。 お風呂場にはバスタブがなかったので旅の疲…　2026-10-01 10:15:36投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #3</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ホテルグランビューガーデン沖縄</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ぐらんびゅーがーでんおきなわ）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥7,700〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/75371/75371_kya.jpg" alt="ホテルグランビューガーデン沖縄 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>那覇空港から車で約１５分のアクセス。キレイな海、最高の夕日が楽しめます。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県豊見城市豊崎3-82 ／ 最寄り駅：主要駅 ／ 交通案内：那覇空港から車で約１５分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　７７台　無料　予約不要</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.05 ／ 立地 ★4.09 ／ 部屋 ★4.07 ／ 設備 ★3.96 ／ 風呂 ★3.96 ／ 食事 ★4</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2泊とまりました。今回は、レンタカーを利用したので、駐車場が無料でとめられてありがたかったです。朝食バイキングも、適量で美味しかったです。ホテル目の前に、散歩できるような公園があって私も散…　2026-10-08 18:14:44投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #4</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">グランドメルキュール沖縄残波岬リゾート</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ぐらんどめるきゅーるおきなわざんぱみさきりぞーと）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥8,075〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/30045/30045_s.jpg" alt="グランドメルキュール沖縄残波岬リゾート 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>県内最大級スライダー付プール／全客室ラウンジ付／ホテル日航アリビラとの相互利用あり</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県中頭郡読谷村宇座1575 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港より国道５８号線を名護方面へ読谷村伊良皆交差点を残波岬方面へ。車で70分。</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有(無料）</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.11 ／ 立地 ★4.28 ／ 部屋 ★4.26 ／ 設備 ★4.05 ／ 風呂 ★4.16 ／ 食事 ★4.23</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ドリンクやおつまみの食べ飲み放題に大満足家族旅行で初めて宿泊しました。お酒含めたドリンクやおつまみ、お菓子の食べ飲み放題の時間があって、子供と一緒に楽しめました。特に申し分のないホテルでした。、…　2026-10-09 16:32:32投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #5</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ホーム・ステイ・ユミハ沖縄　ｂｙバンヤン・グループ</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ほーむ・すてい・ゆみはおきなわ ばい ばんやん・ぐるーぷ）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥9,000〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184140/184140.jpg" alt="ホーム・ステイ・ユミハ沖縄　ｂｙバンヤン・グループ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>全棟ヴィラタイプ、プライベートな空間で過ごす休日。人、自然、すべてに優しいホテル。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県国頭郡恩納村字山田2455-1 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港よりお車にて60分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　18台　無料　先着順</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.67 ／ 部屋 ★4.8 ／ 設備 ★4.8 ／ 風呂 ★4.6</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広々とした部屋と迅速な対応で快適な時間部屋も広々していて、清掃も行き届いていて、ゆっくりとくつろげました!ウォーターサーバーの水が足りなくなると、フロントに電話するとすぐに補充してもらえて…　2026-10-02 17:13:18投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="space-y-4 pt-6 border-t border-stone-200">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
+              🗺️ あわせて巡りたい！千葉県の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+            </h3>
+            <p className="text-xs text-stone-600 leading-relaxed">
+              宿泊前後の1泊2日・2泊3日モデルコースに組み込みたい、千葉県を代表する名所・絶景スポットの解説です。チェックイン前後の荷物預かりや駅周辺のレンタカー・周遊バスを活用すると効率よく巡ることができます。
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Menton-C%C3%B4te_d%27Azur.jpg/1280px-Menton-C%C3%B4te_d%27Azur.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="東京ディズニーリゾート" className="w-full h-full object-cover" loading="lazy" /></div>
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
+                <h3 className="text-base font-bold text-stone-900">東京ディズニーリゾート</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">夢と魔法の王国「東京ディズニーランド」と冒険とイマジネーションの海「東京ディズニーシー」からなる日本最高峰のテーマパークリゾート。 リゾート（Resort）とは、大勢の人が休暇・余暇を過ごす場所のこと。行楽地。保養地。 行楽や保養、観光が地元の文化や経済の主要な要素となっている都市を、リゾート都市またはリゾートタウンと呼ぶ（en:Resort town）。…</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
+                <h3 className="text-base font-bold text-stone-900">鴨川シーワールド</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">太平洋をバックに繰り広げられる豪快なシャチのパフォーマンスが有名な総合海洋レジャーセンター。イルカやベルーガのショーも見応え抜群です。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
+                <h3 className="text-base font-bold text-stone-900">成田山新勝寺</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">千年以上の日数を数える全国屈指の大本山。参道には老舗のうなぎ店や土産物屋がひしめき、正月や節分には大勢の参拝客で賑わいます。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
+                <h3 className="text-base font-bold text-stone-900">鋸山（日本寺・地獄のぞき）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">房総半島からの絶景が広がる山。山頂近くの断崖絶壁から突き出した「地獄のぞき」からのスリル満点の眺望や日本一の大きさを誇る石仏の大仏様が有名です。</p>
+              </div>
+            </div>
+            </div>
+          </div>
+
+          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-3 text-xs text-stone-700 leading-relaxed">
+            <h3 className="text-sm md:text-base font-bold text-amber-950">
+              💡 千葉県エリアの宿泊予約・シーズン別ベストタイミングと節約ノウハウ
+            </h3>
+            <p>
+              <strong>1. 早期予約と楽天トラベルクーポンの併用：</strong> 千葉県の人気温泉宿・リゾートホテルは、週末や連休・紅葉・年末年始の60日〜30日前から一気に予約が埋まります。毎月5と0のつく日やスーパーSALE期間中に配布される宿クーポン・自治体クーポンを併用すると、通常より最大10〜20%お得に予約可能です。
+            </p>
+            <p>
+              <strong>2. 夕食・朝食プランと部屋タイプの選び方：</strong> 地元産の旬魚介やブランド牛会席を味わうなら「夕朝食付きプラン」、周辺の屋台・老舗居酒屋・ご当地グルメを食べ歩くなら「朝食付き」または「素泊まり＋天然温泉大浴場付きホテル」を選ぶと予算と満足度のバランスが最適化されます。
+            </p>
           </div>
         </section>
 

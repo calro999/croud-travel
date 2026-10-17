@@ -185,7 +185,7 @@ export default function KanazawaEarlyMorningBreakfastPage() {
     <main className="min-h-screen bg-slate-950 text-slate-100 selection:bg-amber-500 selection:text-slate-950 font-sans pb-24">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「朝7時から開いている海鮮丼・絶品おにぎり・純喫茶モーニング」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「朝7時から開いている海鮮丼・絶品おにぎり・純喫茶モーニング」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"金沢駅・近江町市場 早朝朝食おすすめ7選：朝7時から開いている海鮮丼・絶品おにぎり・純喫茶モーニングエリアでは、「ガーデンホテル金沢」（楽天評価★4.06・クチコミ2145件、所在地：石川県金沢市本町2-16-16）をはじめとする宿を拠点にし、最寄り駅（金沢）やアクセス条件（ＪＲ金沢駅東口ガラスドーム正面－駅舎より横断歩道を１つ渡るだけ 徒歩1分です。金沢が初めての方でも迷わずご来館頂けます。）に合わせて午前中に周辺観光名所を巡り、15時のチェックイン後に温泉や夕食会席を堪能するスケジュールが最も効率的です。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"宿泊予約時は最安料金目安（例：「ガーデンホテル金沢」は1名あたり¥3,000〜）や駐車場条件（平地駐車場（7台）がホテル裏手にございます。1泊1,000円で先着順でございます。）を事前に確認しましょう。連休や紅葉・年末年始シーズンは早期に満室となるため、楽天トラベルの早期割引プランやクーポンの活用がおすすめです。"}}]}) }}
       />
       {/* ヒーローセクション（アンバーゴールド調） */}
       <section className="relative overflow-hidden bg-gradient-to-b from-amber-950/60 via-slate-900 to-slate-950 pt-16 pb-20 border-b border-amber-500/20">
@@ -469,12 +469,6 @@ export default function KanazawaEarlyMorningBreakfastPage() {
           </div>
         </section>
       </div>
-    
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         
 
         {/* FAQ Section */}
@@ -492,7 +486,7 @@ export default function KanazawaEarlyMorningBreakfastPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。
+                A. 金沢駅・近江町市場 早朝朝食おすすめ7選：朝7時から開いている海鮮丼・絶品おにぎり・純喫茶モーニングでは、最寄り駅からの送迎バス運行時間やチェックイン時刻（通常15:00）から逆算し、午前中に主要な景勝地・寺社・市場を巡り、午後は宿の天然温泉や地元食材の会席料理をゆっくり堪能する行程が最も満足度の高い回り方です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -501,7 +495,7 @@ export default function KanazawaEarlyMorningBreakfastPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。
+                A. 楽天トラベルで予約する際は、無料駐車場の台数・予約要否、露天風呂付き客室や部屋食プランの有無、そして5と0のつく日クーポンや早期割引プランの対象期間を事前に比較確認しておくと安心です。
               </p>
             </details>
           </div>
@@ -516,7 +510,22 @@ export default function KanazawaEarlyMorningBreakfastPage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/tochigi-shiobara-eleven-hotsprings-valley-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">栃木・那須塩原：塩原十一湯・もみじ谷大吊橋＆箒川渓谷露天宿 厳選ガイド</span>
+            </a>
+            <a href="/winter-tochigi-nikko-toshogu-hatsumode-yuba-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月日光：とちぎ和牛！名宿5選</span>
+            </a>
+            <a href="/autumn-budget-tochigi-utsunomiya-gyoza-nikko-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">宇都宮：日光紅葉の玄関口＆本場餃子食べ比べ！格安・高コスパホテル5選</span>
+            </a>
+            <a href="/furusato-tax-nasu-kougen-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">那須ロープウェイ茶臼岳の絨毯紅葉＆那須高原リゾート！開湯1300年名湯旅館×ふるさと納税厳選ガイド栃木</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

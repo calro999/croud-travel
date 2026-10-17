@@ -338,7 +338,125 @@ export default function FurusatoUpgradedPage() {
         </div>
       </section>
     
-      <HubRelatedPosts currentSlug="furusato-tax-three-great-valleys-riverside-stay" />
+      
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-6 my-10 max-w-5xl mx-auto">
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900">📊 日本三大渓流の清澄を愛でる渓谷美露天風呂宿×ふるさと納税厳選ガイド奥入瀬・三段峡・御岳の絶景宿：楽天トラベル高評価宿スペック比較表＆クチコミ徹底解説</h2>
+          <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+            楽天トラベル公式APIから取得した全国の高評価宿データ（所在地・最寄り駅・駐車場・総合評価・参考最安料金）と実際の宿泊者レビューを整理しました。ふるさと納税の旅行クーポンや早期割引プランと併用することで、ワンランク上の滞在をお得に実現できます。
+          </p>
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th><th className="p-3">所在地</th><th className="p-3">アクセス</th><th className="p-3">駐車場</th><th className="p-3">評価</th><th className="p-3">最安目安</th><th className="p-3">予約</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. 寛ぎの宿　輝雲荘</td>
+                <td className="p-3 text-stone-600">島根県大田市温泉津町温泉津ロ202-1</td>
+                <td className="p-3 text-stone-600">温泉津</td>
+                <td className="p-3 text-stone-600">有り　無料14台</td>
+                <td className="p-3 font-bold text-amber-600">★4.42（910件）</td>
+                <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1417%2F1417.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. シーサイドホテル舞子ビラ神戸</td>
+                <td className="p-3 text-stone-600">兵庫県神戸市垂水区東舞子町18-11</td>
+                <td className="p-3 text-stone-600">舞子</td>
+                <td className="p-3 text-stone-600">有り　300台　1泊24時間　800円（2025年4月1日より）</td>
+                <td className="p-3 font-bold text-amber-600">★4.45（5429件）</td>
+                <td className="p-3 font-bold text-rose-600">¥5,700〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1421%2F1421.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. 金沢東急ホテル</td>
+                <td className="p-3 text-stone-600">石川県金沢市香林坊2-1-1</td>
+                <td className="p-3 text-stone-600">金沢</td>
+                <td className="p-3 text-stone-600">ホテル隣【香林坊地下駐車場】200台　1泊1,500円(14時-翌11時)左記以外は30分150円</td>
+                <td className="p-3 font-bold text-amber-600">★4.56（2359件）</td>
+                <td className="p-3 font-bold text-rose-600">¥6,100〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1426%2F1426.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">4. プレミアホテル－ＴＳＵＢＡＫＩ－札幌</td>
+                <td className="p-3 text-stone-600">北海道札幌市豊平区豊平4条1丁目1-1</td>
+                <td className="p-3 text-stone-600">札幌</td>
+                <td className="p-3 text-stone-600">地下駐車場200台◇1泊1台1000円◇高さ制限2.1m◇24時間出し入れ自由</td>
+                <td className="p-3 font-bold text-amber-600">★4.45（2189件）</td>
+                <td className="p-3 font-bold text-rose-600">¥4,400〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1432%2F1432.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">5. ザ・プリンス　京都宝ヶ池、オートグラフコレクション</td>
+                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">【地下鉄烏丸線】京都駅から国際会館駅まで乗り換えなし20分。④-2出入口より徒歩3分【車】京都東I.C.から平常時35分</td>
+                <td className="p-3 text-stone-600">有り</td>
+                <td className="p-3 font-bold text-amber-600">★4.43（2277件）</td>
+                <td className="p-3 font-bold text-rose-600">¥8,017〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1471%2F1471.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+          <div className="space-y-3">
+            <h3 className="text-base font-bold text-stone-900">🏨 注目宿のクチコミ・アクセス詳細</h3>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">1. 寛ぎの宿　輝雲荘（島根県・★4.42）</h4>
+              <p><strong>【特徴】</strong>1300年の歴史がある温泉の昔の趣を持つ温泉街にある真心込めたおもてなしで落ちつける宿。</p>
+              <p><strong>【交通・駐車場】</strong>ＪＲ温泉津駅下車 ／ 駐車場：有り　無料14台</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「サービスと食事内容に対し割高に感じた世界遺産登録の温泉街との事でしたが、街並みはともかく、宿は競合も少ないのか「サービス+食事」に比べて高額に感じました。 何度も緊急性の無い電話がかかってきた…　2026-10-05 08:03:16投稿」</p>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">2. シーサイドホテル舞子ビラ神戸（兵庫県・★4.45）</h4>
+              <p><strong>【特徴】</strong>【1月ポイント10倍！得旅キャンペーンエントリー必須】25年5月新館リニューアル！大浴場/サウナ無料</p>
+              <p><strong>【交通・駐車場】</strong>ＪＲ神戸線「舞子駅」から徒歩で7分。ＪＲ舞子駅はＪＲ三宮駅から約１９分。 ／ 駐車場：有り　300台　1泊24時間　800円（2025年4月1日より）</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「明石海峡大橋の絶景と新しい施設に感動朝夕と部屋の窓から見える明石海峡大橋が迫力があり、美しかったです。今回は息子と一緒に宿泊しました。実家から近く、幼い頃からよくお邪魔していたのですが、久しぶ…　2026-08-28 12:49:31投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=1421」</p>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">3. 金沢東急ホテル（石川県・★4.56）</h4>
+              <p><strong>【特徴】</strong>武家文化の風雅さと和モダンの上質な空間で金沢のおもてなしを。。ビジネス・観光にも最適な市内中心に立地</p>
+              <p><strong>【交通・駐車場】</strong>ＪＲ金沢駅からタクシーで約8分、バスで約10分。北陸道金沢西又は東ＩＣより車15分。 ／ 駐車場：ホテル隣【香林坊地下駐車場】200台　1泊1,500円(14時-翌11時)左記以外は30分150円</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「部屋は広くて快適だが、説明不足でモヤモヤお部屋がとても広くて快適に過ごせました。大人5人でも充分な広さで開放感もあり、2泊ではもったいないくらいでした。トイレが2つ、お風呂も独立していて広く、また…　2026-08-20 20:34:15投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=14」</p>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">4. プレミアホテル－ＴＳＵＢＡＫＩ－札幌（北海道・★4.45）</h4>
+              <p><strong>【特徴】</strong>ご宿泊者様専用サウナ＆フィットネス◇すすきの徒歩圏内◇ご宿泊者様専用ラウンジ（利用条件有り）</p>
+              <p><strong>【交通・駐車場】</strong>《新千歳空港から》空港連絡バス「プレミアホテルTSUBAKI」下車 《お車》地下駐車場有《JR札幌駅から》シャトルバス有 ／ 駐車場：地下駐車場200台◇1泊1台1000円◇高さ制限2.1m◇24時間出し入れ自由</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「建物は古いが手入れが行き届いている建物は古いですが、広くて良いホテルだと思います。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel…　2026-10-06 18:44:12投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=1432」</p>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">5. ザ・プリンス　京都宝ヶ池、オートグラフコレクション（・★4.43）</h4>
+              <p><strong>【特徴】</strong></p>
+              <p><strong>【交通・駐車場】</strong>【地下鉄烏丸線】京都駅から国際会館駅まで乗り換えなし20分。④-2出入口より徒歩3分【車】京都東I.C.から平常時35分 ／ 駐車場：有り</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「祇園祭の丁寧な案内と静かな環境でリラックスたまたま祇園祭の期間にとまりました。フロントにお祭りの説明があり、フロントの方がとても丁寧に説明してくれました。京都市なのにしずかな場所にあるので、の… 2026-09-05 09:54:25投稿」</p>
+            </div>
+          </div>
+          <div className="space-y-3 pt-4 border-t border-stone-200">
+            <h3 className="text-base font-bold text-stone-900">🗺️ 合わせて訪れたい日本の代表的観光名所ガイド</h3>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
+              <h4 className="text-sm font-bold text-stone-900">📍 清水寺</h4>
+              <p className="text-xs text-stone-600 leading-relaxed">「清水の舞台」で世界的に有名な古都京都の象徴。「清水の舞台から飛び下りる」の語源となった木造大舞台からの京都市街の眺望と音羽の滝が名高いです。</p>
+            </div>
+            <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
+              <h4 className="text-sm font-bold text-stone-900">📍 函館山（夜景）</h4>
+              <p className="text-xs text-stone-600 leading-relaxed">世界三大夜景の一つに数えられる絶景スポット。津軽海峡と函館湾に挟まれたくびれが生み出す、宝石をちりばめたような眩い夜景は一生に一度は見たい感動のロケーションです。</p>
+            </div>
+            <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
+              <h4 className="text-sm font-bold text-stone-900">📍 横浜みなとみらい21</h4>
+              <p className="text-xs text-stone-600 leading-relaxed">ランドマークタワーや大観覧車「コスモクロック21」、赤レンガ倉庫が立ち並ぶ近代都市リゾート。港町の海風を感じながらショッピングや夜景を楽しめます。</p>
+            </div>
+            <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
+              <h4 className="text-sm font-bold text-stone-900">📍 国宝 姫路城（白鷺城）</h4>
+              <p className="text-xs text-stone-600 leading-relaxed">鮮やかな白漆喰の城壁が羽ばたく白鷺のように美しい日本初のユネスコ世界文化遺産。大天守をはじめ保存状態が完璧な城郭建築の最高峰です。</p>
+            </div>
+            </div>
+          </div>
+        </section>
+
+<HubRelatedPosts currentSlug="furusato-tax-three-great-valleys-riverside-stay" />
 </div>
   );
 }

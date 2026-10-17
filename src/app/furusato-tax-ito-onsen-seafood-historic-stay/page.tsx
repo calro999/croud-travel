@@ -508,11 +508,6 @@ export default function FurusatoTaxArticle() {
           </ul>
         </section>
       </div>
-    
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -595,7 +590,22 @@ export default function FurusatoTaxArticle() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/shizuoka-shimoda-solo-retreat-ocean-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">南伊豆・下田温泉ひとり旅・ペリー黒船と白砂ビーチおこもり：自家源泉掛け流し・下田金目鯛づくし・海一望露天風呂！特急サフィール直通の港町厳選3宿</span>
+            </a>
+            <a href="/shizuoka-toi-solo-retreat-sunset-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">西伊豆・土肥温泉ひとり旅・駿河湾茜色夕日おこもり：全館畳敷き露天風呂・駿河湾地魚舟盛り・黄金の湯治場！駿河湾フェリーで行く西海岸厳選3宿</span>
+            </a>
+            <a href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">熱海温泉で過ごす冬の旅（11・12月）！インフィニティ温泉と極上金目鯛姿煮！名宿5選</span>
+            </a>
+            <a href="/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">伊豆稲取温泉で過ごす冬の旅（11・12月）！オーシャンビュー展望露天風呂！名宿5選</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

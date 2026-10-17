@@ -177,7 +177,7 @@ export default function KyotoAutumnLeavesNightLightupPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「夜間特別拝観・永観堂・東寺・清水寺＆混雑回避の夜回り宿」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「夜間特別拝観・永観堂・東寺・清水寺＆混雑回避の夜回り宿」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"京都 紅葉ライトアップ2026おすすめ7選：夜間特別拝観・永観堂・東寺・清水寺＆混雑回避の夜回り宿エリアでは、「変なホテルプレミア京都　五条烏丸（旧ウォーターマークホテル京都）」（楽天評価★4.45・クチコミ464件、所在地：京都府京都市下京区室町通五条下る大黒町195）をはじめとする宿を拠点にし、最寄り駅（五条（京都市営））やアクセス条件（地下鉄烏丸線「五条」駅4番出口より徒歩約２分）に合わせて午前中に周辺観光名所を巡り、15時のチェックイン後に温泉や夕食会席を堪能するスケジュールが最も効率的です。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"宿泊予約時は最安料金目安（例：「旅館あづまや　＜京都府＞」は1名あたり¥2,970〜）や駐車場条件（駐車場はございません。近隣のコインパーキングをご利用ください。）を事前に確認しましょう。連休や紅葉・年末年始シーズンは早期に満室となるため、楽天トラベルの早期割引プランやクーポンの活用がおすすめです。"}}]}) }}
       />
         {/* 🏮 厳選7大ライトアップ名所詳細 */}
         <section className="space-y-8">
@@ -436,12 +436,6 @@ export default function KyotoAutumnLeavesNightLightupPage() {
             </Link>
           </div>
         </nav>
-      
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         
 
         {/* FAQ Section */}
@@ -459,7 +453,7 @@ export default function KyotoAutumnLeavesNightLightupPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。
+                A. 京都 紅葉ライトアップ2026おすすめ7選：夜間特別拝観・永観堂・東寺・清水寺＆混雑回避の夜回り宿では、最寄り駅からの送迎バス運行時間やチェックイン時刻（通常15:00）から逆算し、午前中に主要な景勝地・寺社・市場を巡り、午後は宿の天然温泉や地元食材の会席料理をゆっくり堪能する行程が最も満足度の高い回り方です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -468,7 +462,7 @@ export default function KyotoAutumnLeavesNightLightupPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。
+                A. 楽天トラベルで予約する際は、無料駐車場の台数・予約要否、露天風呂付き客室や部屋食プランの有無、そして5と0のつく日クーポンや早期割引プランの対象期間を事前に比較確認しておくと安心です。
               </p>
             </details>
           </div>
@@ -483,7 +477,22 @@ export default function KyotoAutumnLeavesNightLightupPage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/niigata-echigo-yuzawa-solo-retreat-snow-country-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">新潟・越後湯沢温泉ひとり旅・川端康成『雪国』の文学湯治おこもり：新幹線直結・谷川連峰一望の露天風呂・魚沼産コシヒカリ会席！白銀の温泉郷厳選3宿</span>
+            </a>
+            <a href="/winter-niigata-iwamuro-yahiko-onsen-kanburi-nodoguro-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">弥彦で過ごす冬の旅（11・12月）！越後一宮彌彦神社参詣！名宿5選</span>
+            </a>
+            <a href="/autumn-budget-niigata-station-echigo-sake-shinmai-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">新潟駅前：新米コシヒカリ＆越後地酒利き酒・万代橋！2,000円台〜泊まれる格安ホテル5選</span>
+            </a>
+            <a href="/furusato-tax-radium-radon-hotspring-healing-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">奇跡のホルミシス効果！世界屈指のラジウム・ラドン名湯温泉＆本格湯治名旅館×ふるさと納税厳選ガイド鳥取三朝・愛知猿投・新潟村杉</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

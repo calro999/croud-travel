@@ -88,7 +88,7 @@ export default function FeaturePage() {
               rating: 4.5,
               reviews: 509,
               price: "¥6,600〜",
-              access: "近鉄奈良駅より徒歩で８分 JR奈良駅より徒歩15分　関西国際空���よりバス60分　駐車場無料（最大24時間）",
+              access: "近鉄奈良駅より徒歩で８分 JR奈良駅より徒歩15分　関西国際空港よりバス60分　駐車場無料（最大24時間）",
               features: ["興福寺まで徒歩1分☆鹿さんの行進とかまど炊きごはんで朝が始まる、猿沢池の美しい夕焼けを一望できる宿", "奈良市高畑町２４６", "楽天アワード受賞歴"]
             },
             {
@@ -317,11 +317,6 @@ export default function FeaturePage() {
             <ChevronRight className="w-4 h-4" />
           </Link>
         </section>
-      
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -404,7 +399,22 @@ export default function FeaturePage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/tochigi-nasu-shiobara-itamuro-kuroiso-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">栃木・那須塩原＆板室・黒磯：茶臼岳・板室立ち湯＆黒磯カフェ・那須牛宿 厳選ガイド</span>
+            </a>
+            <a href="/winter-tochigi-nasu-itamuro-onsen-toji-tochigigyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">那須で過ごす冬の旅（11・12月）！名物立ち湯と極上那須黒毛和牛！名宿5選</span>
+            </a>
+            <a href="/winter-tochigi-shiobara-onsen-yukimi-tochigi-beef-radish-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">栃木・塩原温泉で過ごす冬の旅（11・12月）！極上とちぎ和牛会席！名宿5選</span>
+            </a>
+            <a href="/autumn-tochigi-nikko-chuzenji-lake-momiji-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">中旬〜下旬！日光中禅寺湖の紅葉で過ごす冬の旅（10月）！いろは坂・男体山ビューと奥日光名湯宿5選</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

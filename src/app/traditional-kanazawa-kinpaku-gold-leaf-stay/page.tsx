@@ -89,7 +89,7 @@ export default function FeaturePage() {
               reviews: 352,
               price: "¥8,800〜",
               access: "◆JR加賀温泉駅より車で10分◆JR金沢駅より車で55分◆小松空港より車で25分",
-              features: ["18部屋の料理自慢の宿　新しくなった「くろ」と「しろ」を基調とした天然温泉が心と体を癒します", "加���市山代温泉16-162-5", "楽天アワード受賞歴"]
+              features: ["18部屋の料理自慢の宿　新しくなった「くろ」と「しろ」を基調とした天然温泉が心と体を癒します", "加賀市山代温泉16-162-5", "楽天アワード受賞歴"]
             },
             {
               name: "山代温泉　吉田屋　山王閣",
@@ -317,11 +317,6 @@ export default function FeaturePage() {
             <ChevronRight className="w-4 h-4" />
           </Link>
         </section>
-      
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -404,7 +399,22 @@ export default function FeaturePage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/autumn-budget-fukushima-bandai-azuma-momiji-gyoza-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">福島：磐梯吾妻スカイラインの絶景紅葉と円盤餃子！格安ホテル5選</span>
+            </a>
+            <a href="/fukushima-iizaka-solo-retreat-hotspring-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">奥州三名湯・飯坂温泉ひとり旅・摺上川渓谷あつ湯おこもり：松尾芭蕉ゆかりの古湯・摺上川のせせらぎ・円盤餃子＆福島地酒！福島交通飯坂線直通厳選3宿</span>
+            </a>
+            <a href="/furusato-tax-tatsusawa-inawashiro-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">猪苗代・達沢不動滝の名瀑紅葉＆猪苗代湖！萩姫伝説の磐梯熱海温泉美肌宿×ふるさと納税厳選ガイド福島</span>
+            </a>
+            <a href="/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">会津東山温泉で過ごす冬の旅（11・12月）！名物会津牛！名宿5選</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

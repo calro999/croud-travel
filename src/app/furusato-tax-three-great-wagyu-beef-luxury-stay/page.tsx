@@ -338,7 +338,125 @@ export default function FurusatoUpgradedPage() {
         </div>
       </section>
     
-      <HubRelatedPosts currentSlug="furusato-tax-three-great-wagyu-beef-luxury-stay" />
+      
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-6 my-10 max-w-5xl mx-auto">
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900">📊 日本三大銘牛の極上鉄板焼き＆すき焼き名湯宿×ふるさと納税厳選ガイド松阪牛・神戸牛・米沢牛：楽天トラベル高評価宿スペック比較表＆クチコミ徹底解説</h2>
+          <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+            楽天トラベル公式APIから取得した全国の高評価宿データ（所在地・最寄り駅・駐車場・総合評価・参考最安料金）と実際の宿泊者レビューを整理しました。ふるさと納税の旅行クーポンや早期割引プランと併用することで、ワンランク上の滞在をお得に実現できます。
+          </p>
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th><th className="p-3">所在地</th><th className="p-3">アクセス</th><th className="p-3">駐車場</th><th className="p-3">評価</th><th className="p-3">最安目安</th><th className="p-3">予約</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. ホテルグランヴィア京都</td>
+                <td className="p-3 text-stone-600">京都府京都市下京区烏丸通塩小路下ル　ＪＲ京都駅中央口</td>
+                <td className="p-3 text-stone-600">京都</td>
+                <td className="p-3 text-stone-600">有り　約1000台(駅ビル共有)　1泊2,000円（以降30分ごとに400円）</td>
+                <td className="p-3 font-bold text-amber-600">★4.47（4296件）</td>
+                <td className="p-3 font-bold text-rose-600">¥8,308〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1487%2F1487.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. 神戸ベイシェラトンホテル＆タワーズ</td>
+                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">ＪＲ「住吉駅」→六甲ライナー「アイランドセンター駅」から徒歩1分。ＪＲ「三ノ宮駅」から直通バスで２０分。駐車場無料。</td>
+                <td className="p-3 text-stone-600">有り</td>
+                <td className="p-3 font-bold text-amber-600">★4.47（4867件）</td>
+                <td className="p-3 font-bold text-rose-600">¥7,040〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1524%2F1524.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. ホテルゲートイン鹿児島（ＨＯＴＥＬ　ＧＡＴＥ　ＩＮ　ＫＡＧＯＳＨＩＭＡ）</td>
+                <td className="p-3 text-stone-600">鹿児島県鹿児島市船津町5-20</td>
+                <td className="p-3 text-stone-600">鹿児島中央</td>
+                <td className="p-3 text-stone-600">提携駐車場：センテラスパーキング・丸屋第一駐車場</td>
+                <td className="p-3 font-bold text-amber-600">★4.52（1267件）</td>
+                <td className="p-3 font-bold text-rose-600">¥3,700〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1527%2F1527.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">4. 横浜ベイシェラトンホテル＆タワーズ</td>
+                <td className="p-3 text-stone-600">神奈川県横浜市西区北幸1-3-23</td>
+                <td className="p-3 text-stone-600">横浜</td>
+                <td className="p-3 text-stone-600">有り（駐車台数には限りがあります）　１９００円／泊（税込）</td>
+                <td className="p-3 font-bold text-amber-600">★4.58（2182件）</td>
+                <td className="p-3 font-bold text-rose-600">¥16,588〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1598%2F1598.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">5. 北茨城ロハス　磯原シーサイドホテル</td>
+                <td className="p-3 text-stone-600">茨城県北茨城市磯原町磯原二ッ島2550</td>
+                <td className="p-3 text-stone-600">磯原</td>
+                <td className="p-3 text-stone-600">有り６０台 無料（普通車）　大型バス可(要予約)　＊不法改造車の駐車はお断りさせて頂きます。</td>
+                <td className="p-3 font-bold text-amber-600">★4.46（2020件）</td>
+                <td className="p-3 font-bold text-rose-600">¥8,700〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1605%2F1605.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+          <div className="space-y-3">
+            <h3 className="text-base font-bold text-stone-900">🏨 注目宿のクチコミ・アクセス詳細</h3>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">1. ホテルグランヴィア京都（京都府・★4.47）</h4>
+              <p><strong>【特徴】</strong>＊京都駅直結(新幹線・JR・地下鉄・近鉄)で観光にビジネスに最高の立地＊インターネットアクセス無料</p>
+              <p><strong>【交通・駐車場】</strong>新幹線・JR・近鉄・地下鉄京都駅に直結。名神高速道路・京都南ICから車で約20分 ／ 駐車場：有り　約1000台(駅ビル共有)　1泊2,000円（以降30分ごとに400円）</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「京都駅直結で荷物預かりも便利、また泊まりたい初めて宿泊しました。京都駅直結はとても便利でした。京都駅到着後荷物を預け、チェックアウト後も荷物を預かってもらえるのは想像以上に楽でした。京都は大好きな…」</p>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">2. 神戸ベイシェラトンホテル＆タワーズ（・★4.47）</h4>
+              <p><strong>【特徴】</strong></p>
+              <p><strong>【交通・駐車場】</strong>ＪＲ「住吉駅」→六甲ライナー「アイランドセンター駅」から徒歩1分。ＪＲ「三ノ宮駅」から直通バスで２０分。駐車場無料。 ／ 駐車場：有り</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「温泉と食事、スタッフの対応に大満足温泉があり、食事も美味しく、スタッフ皆さんのホスピタリティも抜群でした。家族でゆっくり滞在できて大変良かったです。クチコミの詳細はこちらから　https://…　2026-09-19 21:23:24投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=1524」</p>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">3. ホテルゲートイン鹿児島（ＨＯＴＥＬ　ＧＡＴＥ　ＩＮ　ＫＡＧＯＳＨＩＭＡ）（鹿児島県・★4.52）</h4>
+              <p><strong>【特徴】</strong>【全室ReFa完備】天文館へ徒歩5分！街歩きの後は半露天風呂で整うご褒美時間♪女子旅・カップル旅に◎</p>
+              <p><strong>【交通・駐車場】</strong>■ＪＲ鹿児島中央駅より市電７分/天文館通下車徒歩５分　　■鹿児島ＩＣ～車２０分　　■空港シャトルバス/天文館下車徒歩５分 ／ 駐車場：提携駐車場：センテラスパーキング・丸屋第一駐車場</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「お土産付きプランがとても良かったお土産プラン良かったクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/1527?rev…　2026-10-03 16:29:11投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=1527」</p>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">4. 横浜ベイシェラトンホテル＆タワーズ（神奈川県・★4.58）</h4>
+              <p><strong>【特徴】</strong>横浜駅西口から徒歩１分。添い寝12歳まで無料！ビジネス・観光・コンサートへ最適／マリオットグループ</p>
+              <p><strong>【交通・駐車場】</strong>JR・私鉄 横浜駅徒歩1分(直結)。新横浜駅から地下鉄11分、品川駅からＪＲ20分。羽田空港よりリムジンYCAT迄30分 ／ 駐車場：有り（駐車台数には限りがあります）　１９００円／泊（税込）</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「駅直結で便利、朝食も美味しくまた利用したい15時チェックインが遅れて17時になりましたとっても残念でした沢山歩いていたので 少し横になって休みたかったから仕方ないのかもしれないですが。…　2026-08-17 15:52:55投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=1598&quot; cl」</p>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">5. 北茨城ロハス　磯原シーサイドホテル（茨城県・★4.46）</h4>
+              <p><strong>【特徴】</strong>常陸灘と星空パノラマの癒し　屋上露天風呂オープン！早朝の日の出、夜は満天星空をお楽しみいただけます♪</p>
+              <p><strong>【交通・駐車場】</strong>北茨城ＩＣ車10分・磯原駅車で約5分・高萩駅車で約20分・大津港駅より車で約10分。東京から約2.5時間 ／ 駐車場：有り６０台 無料（普通車）　大型バス可(要予約)　＊不法改造車の駐車はお断りさせて頂きます。</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「オーシャンビューと絶品料理に大満足!オーシャンビューのお部屋で、朝日もバッチリ見れました!展望風呂にも窓があり、海が見えます。屋上のお風呂からも海が見え、夜には星も。夕食はフュージョン料理っていう…　2026-09-25 23:29:14投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=16」</p>
+            </div>
+          </div>
+          <div className="space-y-3 pt-4 border-t border-stone-200">
+            <h3 className="text-base font-bold text-stone-900">🗺️ 合わせて訪れたい日本の代表的観光名所ガイド</h3>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
+              <h4 className="text-sm font-bold text-stone-900">📍 清水寺</h4>
+              <p className="text-xs text-stone-600 leading-relaxed">「清水の舞台」で世界的に有名な古都京都の象徴。「清水の舞台から飛び下りる」の語源となった木造大舞台からの京都市街の眺望と音羽の滝が名高いです。</p>
+            </div>
+            <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
+              <h4 className="text-sm font-bold text-stone-900">📍 函館山（夜景）</h4>
+              <p className="text-xs text-stone-600 leading-relaxed">世界三大夜景の一つに数えられる絶景スポット。津軽海峡と函館湾に挟まれたくびれが生み出す、宝石をちりばめたような眩い夜景は一生に一度は見たい感動のロケーションです。</p>
+            </div>
+            <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
+              <h4 className="text-sm font-bold text-stone-900">📍 横浜みなとみらい21</h4>
+              <p className="text-xs text-stone-600 leading-relaxed">ランドマークタワーや大観覧車「コスモクロック21」、赤レンガ倉庫が立ち並ぶ近代都市リゾート。港町の海風を感じながらショッピングや夜景を楽しめます。</p>
+            </div>
+            <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
+              <h4 className="text-sm font-bold text-stone-900">📍 国宝 姫路城（白鷺城）</h4>
+              <p className="text-xs text-stone-600 leading-relaxed">鮮やかな白漆喰の城壁が羽ばたく白鷺のように美しい日本初のユネスコ世界文化遺産。大天守をはじめ保存状態が完璧な城郭建築の最高峰です。</p>
+            </div>
+            </div>
+          </div>
+        </section>
+
+<HubRelatedPosts currentSlug="furusato-tax-three-great-wagyu-beef-luxury-stay" />
 </div>
   );
 }

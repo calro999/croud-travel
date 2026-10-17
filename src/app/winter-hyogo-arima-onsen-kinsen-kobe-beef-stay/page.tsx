@@ -470,8 +470,6 @@ export default function ArimaWinterPage() {
             ))}
           </div>
         </section>
-
-        {/* Model Course Section */}
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-stone-200/80 space-y-8">
           <div className="flex items-center gap-3 pb-3 border-b border-stone-200">
             <div className="p-2.5 rounded-2xl bg-amber-50 text-amber-800">

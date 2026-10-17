@@ -393,6 +393,256 @@ export default function AutumnBudgetTokushimaStationHotelsPage() {
           </ul>
         </div>
       </section>
-    </main>
+    
+        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
+          <div className="space-y-2 border-b border-stone-200 pb-4">
+            <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
+              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+            </span>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
+              📊 徳島駅前：秋の徳島ラーメン＆鳴門鯛・眉山パノラマ！4,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+            </h2>
+            <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+              楽天トラベル公式APIより取得した「徳島駅前：秋の徳島ラーメン＆鳴門鯛・眉山パノラマ！4,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+            </p>
+          </div>
+
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th>
+                  <th className="p-3">所在地</th>
+                  <th className="p-3">最寄り駅・交通</th>
+                  <th className="p-3">駐車場情報</th>
+                  <th className="p-3">楽天評価</th>
+                  <th className="p-3">最安目安</th>
+                  <th className="p-3">予約・詳細</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. アパホテル〈徳島駅前〉</td>
+                <td className="p-3 text-stone-600">徳島県徳島市一番町2-21</td>
+                <td className="p-3 text-stone-600">徳島駅周辺</td>
+                <td className="p-3 text-stone-600">敷地内有料駐車場: 4台　先着順サイズ制限有</td>
+                <td className="p-3 font-bold text-amber-600">★3.96（2116件）</td>
+                <td className="p-3 font-bold text-rose-600">¥3,950〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7503%2F7503.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. スマイルホテル徳島</td>
+                <td className="p-3 text-stone-600">徳島県徳島市元町1-24</td>
+                <td className="p-3 text-stone-600">徳島駅周辺</td>
+                <td className="p-3 text-stone-600">15時〜翌日10時…1,000円／18時〜翌日9時…500円／時間外・途中出入1時間…300円</td>
+                <td className="p-3 font-bold text-amber-600">★4.03（2325件）</td>
+                <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F532%2F532.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. 東横ＩＮＮ徳島駅眉山口</td>
+                <td className="p-3 text-stone-600">徳島県徳島市東大工町2-7</td>
+                <td className="p-3 text-stone-600">徳島駅周辺</td>
+                <td className="p-3 text-stone-600">立体駐車場80台先着順１泊500円。満車の際は近隣の駐車場へご案内。詳しくは注意事項へ。</td>
+                <td className="p-3 font-bold text-amber-600">★3.96（1260件）</td>
+                <td className="p-3 font-bold text-rose-600">¥4,935〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68537%2F68537.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">4. 東横ＩＮＮ徳島駅前</td>
+                <td className="p-3 text-stone-600">徳島県徳島市両国本町１－５</td>
+                <td className="p-3 text-stone-600">徳島駅周辺</td>
+                <td className="p-3 text-stone-600">立体駐車場先着30台1泊500円(15時〜翌10時)満車時は近隣の契約駐車場ご案内。バイクの駐輪不可</td>
+                <td className="p-3 font-bold text-amber-600">★4.07（548件）</td>
+                <td className="p-3 font-bold text-rose-600">¥5,040〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108376%2F108376.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">5. ダイワロイネットホテル徳島駅前</td>
+                <td className="p-3 text-stone-600">徳島県徳島市寺島本町東3丁目8番地</td>
+                <td className="p-3 text-stone-600">徳島駅周辺</td>
+                <td className="p-3 text-stone-600">提携駐車場 先着順1泊(14時〜翌11時)1,000円／税込※車高2.0m以下・22時〜7時入庫不可</td>
+                <td className="p-3 font-bold text-amber-600">★4.35（1996件）</td>
+                <td className="p-3 font-bold text-rose-600">¥5,700〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F149130%2F149130.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div className="space-y-4">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
+              🏨 各宿の宿泊者リアルクチコミ・客室イメージ・項目別評価データ
+            </h3>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #1</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">アパホテル〈徳島駅前〉</h3>
+                  <span className="text-xs text-stone-400 ml-2">（あぱほてるとくしまえきまえ）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,950〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7503/7503_room.jpg" alt="アパホテル〈徳島駅前〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>全室50型液晶テレビ・有線LAN・無線LAN（Wi-Fi）・VOD（ビデオオンデマンド）全客室完備</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 徳島県徳島市一番町2-21 ／ 最寄り駅：徳島 ／ 交通案内：ＪＲ徳島駅より徒歩3分、徳島阿波踊り空港から車で20分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>敷地内有料駐車場: 4台　先着順サイズ制限有</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.06 ／ 立地 ★4.01 ／ 部屋 ★3.93 ／ 設備 ★3.86 ／ 風呂 ★3.77 ／ 食事 ★3.94</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利だが部屋が狭く期待外れ駅から近いのはわかっていたのでアパホテルの看板?探してついつい上を見上げましたが見えずGoogleマップを使って辿り着きました 駅からすぐでよかったのですが部屋がと…　2026-10-08 16:47:14投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #2</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">スマイルホテル徳島</h3>
+                  <span className="text-xs text-stone-400 ml-2">（すまいるほてるとくしま）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥4,500〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/532/532_room.jpg" alt="スマイルホテル徳島 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>ＪＲ徳島駅から徒歩5分。ビジネスのお客様はもちろん、レジャーの拠点に最適立地</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 徳島県徳島市元町1-24 ／ 最寄り駅：徳島 ／ 交通案内：JR徳島駅より徒歩約5分／徳島ICより約15分／徳島阿波おどり空港よりリムジンバスにて徳島駅まで約30分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>15時〜翌日10時…1,000円／18時〜翌日9時…500円／時間外・途中出入1時間…300円</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.02 ／ 立地 ★4.11 ／ 部屋 ★3.98 ／ 設備 ★3.86 ／ 風呂 ★3.84 ／ 食事 ★4</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で観光に便利、南国感ある景色も素敵徳島駅もから近く繁華街も阿波踊り会館も徒歩圏内で利便性も良かった。窓からも南国間を感じれる風景が印象的クチコミの詳細はこちらから　https://revi…　2026-10-10 19:41:52投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #3</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">東横ＩＮＮ徳島駅眉山口</h3>
+                  <span className="text-xs text-stone-400 ml-2">（とうよこいんとくしまえきびざんぐち）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥4,935〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/68537/68537_si.jpg" alt="東横ＩＮＮ徳島駅眉山口 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>JR徳島駅から徒歩9分で朝食・小学生以下添い寝無料のホテル！阿波おどり会館まで車で2分</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 徳島県徳島市東大工町2-7 ／ 最寄り駅：徳島 ／ 交通案内：JR徳島駅より徒歩9分。R11号を徳島駅方面へ右折後元町交差点を左折、阿波踊り会館手前を左折</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>立体駐車場80台先着順１泊500円。満車の際は近隣の駐車場へご案内。詳しくは注意事項へ。</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.02 ／ 立地 ★3.92 ／ 部屋 ★4.02 ／ 設備 ★3.94 ／ 風呂 ★3.87 ／ 食事 ★3.96</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は綺麗で快適、朝食会場は混雑気味部屋はとても綺麗にしてくれていました。また是非利用したいです。朝食は可もなく不可もなくです。私が宿泊先した時は宿泊者が多くて混雑していたのでゆっくり食事って感じ…　2026-10-10 18:40:38投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #4</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">東横ＩＮＮ徳島駅前</h3>
+                  <span className="text-xs text-stone-400 ml-2">（とうよこいんとくしまえきまえ）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥5,040〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/108376/108376room1.jpg" alt="東横ＩＮＮ徳島駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>JR徳島駅から徒歩4分で朝食・小学生以下添い寝無料のホテル！阿波踊り会館まで車で3分</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 徳島県徳島市両国本町１－５ ／ 最寄り駅：徳島 ／ 交通案内：JR徳島駅より徒歩４分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>立体駐車場先着30台1泊500円(15時〜翌10時)満車時は近隣の契約駐車場ご案内。バイクの駐輪不可</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.06 ／ 立地 ★4.01 ／ 部屋 ★4.07 ／ 設備 ★4.02 ／ 風呂 ★3.92 ／ 食事 ★3.96</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「急な予約でも親切な対応で快適に過ごせた当日の夕方に急遽予約をしましたが問題なく泊まることができました。チェックイン時には親切にご説明していただき快適に過ごすことができました。ありがとうございました…　2026-09-24 20:44:59投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=108376&quot; class=&quot;3click&quot;」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #5</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ダイワロイネットホテル徳島駅前</h3>
+                  <span className="text-xs text-stone-400 ml-2">（だいわろいねっとほてるとくしまえきまえ）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥5,700〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/149130/149130.jpg" alt="ダイワロイネットホテル徳島駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>JR「徳島駅」より徒歩約1分■1階コンビニ有■バス・トイレ別客室有■徳島産素材使用の朝食メニュー有</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 徳島県徳島市寺島本町東3丁目8番地 ／ 最寄り駅：徳島 ／ 交通案内：JR「徳島駅」より徒歩約1分 。「徳島阿波おどり空港」よりリムジンバスで（約30分）「徳島駅」下車、徒歩約1分。</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>提携駐車場 先着順1泊(14時〜翌11時)1,000円／税込※車高2.0m以下・22時〜7時入庫不可</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.35 ／ 立地 ★4.39 ／ 部屋 ★4.38 ／ 設備 ★4.31 ／ 風呂 ★4.29 ／ 食事 ★4.16</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地は最高だがチェックインの説明が難解駅の眼の前で立地は最高でした。チェックイン時の説明が分かりづらかった。ホテル利用に慣れていない人には伝わらないかも...お部屋や設備はよかったです。…　2026-10-10 14:13:43投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="space-y-4 pt-6 border-t border-stone-200">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
+              🗺️ あわせて巡りたい！徳島県の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+            </h3>
+            <p className="text-xs text-stone-600 leading-relaxed">
+              宿泊前後の1泊2日・2泊3日モデルコースに組み込みたい、徳島県を代表する名所・絶景スポットの解説です。チェックイン前後の荷物預かりや駅周辺のレンタカー・周遊バスを活用すると効率よく巡ることができます。
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
+                <h3 className="text-base font-bold text-stone-900">鳴門の渦潮（大鳴門橋）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">播磨灘と紀伊水道の干満差によって発生する世界最大級の渦潮。「渦の道」の海上遊歩道ガラス床から見下ろす激しい潮流と渦巻きは大迫力です。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
+                <h3 className="text-base font-bold text-stone-900">祖谷のかずら橋（秘境・祖谷）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">日本三大秘境・祖谷渓谷に架かるシラクチカズラで作られたスリル満点の吊り橋。一歩踏みだすたびにギシギシと揺れ、足下の隙間から見える吉野川が爽快です。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
+                <h3 className="text-base font-bold text-stone-900">大塚国際美術館</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">世界初の陶板名画美術館。レオナルド・ダ・ヴィンチの『最後の晩餐』やフェルメールの『真珠の耳飾りの少女』など1,000点以上の西洋名画が原寸大で完全再現されています。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
+                <h3 className="text-base font-bold text-stone-900">眉山（びざん）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">徳島市街の中心に位置し「眉の如く雲居に見ゆる」と万葉集にも詠まれた徳島のシンボル。ロープウェイで登る山頂からは吉野川と徳島平野を一望できます。</p>
+              </div>
+            </div>
+            </div>
+          </div>
+
+          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-3 text-xs text-stone-700 leading-relaxed">
+            <h3 className="text-sm md:text-base font-bold text-amber-950">
+              💡 徳島県エリアの宿泊予約・シーズン別ベストタイミングと節約ノウハウ
+            </h3>
+            <p>
+              <strong>1. 早期予約と楽天トラベルクーポンの併用：</strong> 徳島県の人気温泉宿・リゾートホテルは、週末や連休・紅葉・年末年始の60日〜30日前から一気に予約が埋まります。毎月5と0のつく日やスーパーSALE期間中に配布される宿クーポン・自治体クーポンを併用すると、通常より最大10〜20%お得に予約可能です。
+            </p>
+            <p>
+              <strong>2. 夕食・朝食プランと部屋タイプの選び方：</strong> 地元産の旬魚介やブランド牛会席を味わうなら「夕朝食付きプラン」、周辺の屋台・老舗居酒屋・ご当地グルメを食べ歩くなら「朝食付き」または「素泊まり＋天然温泉大浴場付きホテル」を選ぶと予算と満足度のバランスが最適化されます。
+            </p>
+          </div>
+        </section>
+
+      </main>
   );
 }

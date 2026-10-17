@@ -450,11 +450,6 @@ export default function FurusatoLakeBiwaMetasequoiaAutumnLeavesStayPage() {
           </p>
         </footer>
       </div>
-    
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -537,7 +532,22 @@ export default function FurusatoLakeBiwaMetasequoiaAutumnLeavesStayPage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/gifu-gero-onsen-heritage-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">岐阜・下呂温泉：日本三名泉・美肌の湯＆飛騨牛トマト丼・温泉街湯めぐり 厳選ガイド</span>
+            </a>
+            <a href="/gifu-shirakawago-gokayama-gassho-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">岐阜・白川郷＆五箇山：世界遺産合掌造り集落・荻町展望台＆飛騨牛・すったて汁宿 厳選ガイド</span>
+            </a>
+            <a href="/winter-gifu-gujo-hachiman-snow-castle-hidagyu-keichan-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月岐阜：名物鶏ちゃんと極上飛騨牛すき焼きを味わう！名宿5選</span>
+            </a>
+            <a href="/furusato-tax-gero-gassho-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">下呂温泉合掌村のもみじライトアップ＆美肌の日本三名泉！飛騨牛づくし宿×ふるさと納税厳選ガイド岐阜</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

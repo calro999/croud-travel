@@ -151,7 +151,7 @@ export default function FeaturePage() {
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」へは、鹿児島空港より車で約15分 19時までなら鹿児島空港・国分駅まで無料送迎（要予約）。最寄りの日当山駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」は『温泉宿・グラン���ング全室で源泉掛け流しの天然炭酸泉が満喫できます。ペットOKの客室もご。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」と「プレジャーリゾート伊豆赤沢温泉」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」へは、鹿児島空港より車で約15分 19時までなら鹿児島空港・国分駅まで無料送迎（要予約）。最寄りの日当山駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」は『温泉宿・グランピング全室で源泉掛け流しの天然炭酸泉が満喫できます。ペットOKの客室もご。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」と「プレジャーリゾート伊豆赤沢温泉」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script
         type="application/ld+json"
@@ -317,11 +317,6 @@ export default function FeaturePage() {
             <ChevronRight className="w-4 h-4" />
           </Link>
         </section>
-      
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -337,8 +332,8 @@ export default function FeaturePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 日当山駅よりアクセス。鹿児島空港より車で約15分 19時までなら鹿児島空港・国分駅まで無料送迎（要予約）。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」にチェックイン。温泉宿・グラン���ング全室で源泉掛け流しの天然炭酸泉が満喫できます。ペットOKの客室もございます。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」の湯処へ。温泉宿・グラン���ング全室で源泉掛け流しの天然炭酸泉が満喫できます。とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」にチェックイン。温泉宿・グランピング全室で源泉掛け流しの天然炭酸泉が満喫できます。ペットOKの客室もございます。などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」の湯処へ。温泉宿・グランピング全室で源泉掛け流しの天然炭酸泉が満喫できます。とともに、夕暮れの特別な寛ぎを満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -380,7 +375,7 @@ export default function FeaturePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」は『温泉宿・グラン���ング全室で源泉掛け流しの天然炭酸泉が満喫できます。ペットOKの客室もご。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」は『温泉宿・グランピング全室で源泉掛け流しの天然炭酸泉が満喫できます。ペットOKの客室もご。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -404,7 +399,22 @@ export default function FeaturePage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/traditional-miyagi-sendai-zunda-sweets-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">仙台ずんだスイーツ＆三陸海鮮：香り高い枝豆スイーツと秋保・作並・松島の名湯宿5選</span>
+            </a>
+            <a href="/winter-miyagi-naruko-onsen-yukimi-sendai-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">宮城鳴子温泉郷で過ごす冬の旅（11・12月）！多彩な源泉めぐりと初冬の鳴子峡！名宿5選</span>
+            </a>
+            <a href="/autumn-miyagi-naruko-gorge-onsen-momiji-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">下旬〜11月上旬！宮城鳴子峡の紅葉で過ごす冬の旅（10月）！大深沢橋列車ビューと名湯鳴子温泉郷の宿5選</span>
+            </a>
+            <a href="/miyagi-akiu-sakunami-sendai-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">宮城・秋保温泉＆作並温泉：仙台奥座敷・磊々峡＆ニッカウヰスキー・仙台牛宿 厳選ガイド</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

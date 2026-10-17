@@ -338,7 +338,125 @@ export default function FurusatoUpgradedPage() {
         </div>
       </section>
     
-      <HubRelatedPosts currentSlug="furusato-tax-three-great-night-cherry-blossoms-stay" />
+      
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-6 my-10 max-w-5xl mx-auto">
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900">📊 日本三大夜桜の名所と春の宵を彩る名門ホテル×ふるさと納税厳選ガイド弘前・高田城・上野：楽天トラベル高評価宿スペック比較表＆クチコミ徹底解説</h2>
+          <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+            楽天トラベル公式APIから取得した全国の高評価宿データ（所在地・最寄り駅・駐車場・総合評価・参考最安料金）と実際の宿泊者レビューを整理しました。ふるさと納税の旅行クーポンや早期割引プランと併用することで、ワンランク上の滞在をお得に実現できます。
+          </p>
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th><th className="p-3">所在地</th><th className="p-3">アクセス</th><th className="p-3">駐車場</th><th className="p-3">評価</th><th className="p-3">最安目安</th><th className="p-3">予約</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. 森のスパリゾート　北海道ホテル</td>
+                <td className="p-3 text-stone-600">北海道帯広市西7条南19丁目１</td>
+                <td className="p-3 text-stone-600">帯広</td>
+                <td className="p-3 text-stone-600">有（180台）無料　大型バス・トラックも駐車可（要問い合わせ）</td>
+                <td className="p-3 font-bold text-amber-600">★4.64（2667件）</td>
+                <td className="p-3 font-bold text-rose-600">¥7,480〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1019%2F1019.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. 今治国際ホテル</td>
+                <td className="p-3 text-stone-600">愛媛県今治市旭町2-3-4</td>
+                <td className="p-3 text-stone-600">今治</td>
+                <td className="p-3 text-stone-600">有料　１泊　　800円（車高2.1Ｍまで。250台収容可能。車イス専用駐車場完備）</td>
+                <td className="p-3 font-bold text-amber-600">★4.45（2048件）</td>
+                <td className="p-3 font-bold text-rose-600">¥7,830〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1036%2F1036.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. 定山渓温泉　ぬくもりの宿　ふる川</td>
+                <td className="p-3 text-stone-600">北海道札幌市南区定山渓温泉西4-353</td>
+                <td className="p-3 text-stone-600">真駒内</td>
+                <td className="p-3 text-stone-600">有り　　50台　１泊　無料</td>
+                <td className="p-3 font-bold text-amber-600">★4.62（1397件）</td>
+                <td className="p-3 font-bold text-rose-600">¥16,800〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1037%2F1037.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">4. 奈良ホテル</td>
+                <td className="p-3 text-stone-600">奈良県奈良市高畑町1096</td>
+                <td className="p-3 text-stone-600">近鉄奈良</td>
+                <td className="p-3 text-stone-600">有り　100台　１泊　無料</td>
+                <td className="p-3 font-bold text-amber-600">★4.67（1736件）</td>
+                <td className="p-3 font-bold text-rose-600">¥17,800〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1148%2F1148.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">5. 志摩観光ホテル　ザ　クラシック</td>
+                <td className="p-3 text-stone-600">三重県志摩市阿児町神明731</td>
+                <td className="p-3 text-stone-600">賢島</td>
+                <td className="p-3 text-stone-600">屋外、無料、66台</td>
+                <td className="p-3 font-bold text-amber-600">★4.72（959件）</td>
+                <td className="p-3 font-bold text-rose-600">¥16,005〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1150%2F1150.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+          <div className="space-y-3">
+            <h3 className="text-base font-bold text-stone-900">🏨 注目宿のクチコミ・アクセス詳細</h3>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">1. 森のスパリゾート　北海道ホテル（北海道・★4.64）</h4>
+              <p><strong>【特徴】</strong>セルフロウリュ可能なサウナと北海道遺産のモール温泉浴場を備えた緑に囲まれたシティホテル</p>
+              <p><strong>【交通・駐車場】</strong>根室本線ＪＲ帯広駅南口から車で5分。帯広空港より車で30分。 ／ 駐車場：有（180台）無料　大型バス・トラックも駐車可（要問い合わせ）</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「モール温泉と美味しい和食膳でゆったりと満喫以前から宿泊したいと思っていて今回実現。モール温泉でゆったりのんびり温まり,朝食も3種類から選べて美味しい和食膳をいただけました。レストランから見えるお庭…　2026-08-20 09:37:24投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=10」</p>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">2. 今治国際ホテル（愛媛県・★4.45）</h4>
+              <p><strong>【特徴】</strong>ビジネス・観光に好立地・館内WIFI・全室インタ－ネット利用可能（ＬＡＮケ－ブル対応可）</p>
+              <p><strong>【交通・駐車場】</strong>予讃線今治駅から徒歩で10分。 ／ 駐車場：有料　１泊　　800円（車高2.1Ｍまで。250台収容可能。車イス専用駐車場完備）</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「プールとジムを満喫、朝食の鯛茶漬けも絶品プールやジムが綺麗で満喫できました。今治城がすぐ近くに見え、瀬戸内海からの日の出が綺麗に見えて感動しました。朝食の鯛茶漬けが特に美味しかったのと、ポンジ…　2026-08-30 02:05:45投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=1036」</p>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">3. 定山渓温泉　ぬくもりの宿　ふる川（北海道・★4.62）</h4>
+              <p><strong>【特徴】</strong>道内では珍しい民芸調の宿屋、館内には囲炉裏があり、田舎情緒たっぷり。</p>
+              <p><strong>【交通・駐車場】</strong>じょうてつバス定山渓線定山渓湯の町下車すぐ。無料送迎バス毎日１便運行／大通西１丁目テレビ塔北向かい出発。事前予約制。 ／ 駐車場：有り　　50台　１泊　無料</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「接客も食事も温泉も最高、また紹介したい宿シニア夫婦で 色々な温泉宿に泊まってますが、定山渓のふる川さんは大満足でした まず、従業員の方々が非常に感じがよく そしてお食事もお風呂も最高でした。強いて…　2026-09-12 17:25:42投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=10」</p>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">4. 奈良ホテル（奈良県・★4.67）</h4>
+              <p><strong>【特徴】</strong>関西の迎賓館として1909年創業。伝統のおもてなしで心に残る旅を。</p>
+              <p><strong>【交通・駐車場】</strong>近鉄奈良駅東改札口B出口より徒歩約15分。タクシーで5分。路線バス（天理方面行き3番のりば）約7分 ／ 駐車場：有り　100台　１泊　無料</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「皇室や偉人の歴史を感じる最高のひととき母と2人で宿泊しました。以前から泊まりたかったホテルで、皇室の方々の写真や偉人の痕跡を感じられて最高の滞在でした。ぜひまた泊まりたいと思います。クチコミの…　2026-10-04 09:13:42投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=1148」</p>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">5. 志摩観光ホテル　ザ　クラシック（三重県・★4.72）</h4>
+              <p><strong>【特徴】</strong>伊勢志摩サミット開催ホテル。落ち着いた空間で時を過ごせるリゾートホテル。</p>
+              <p><strong>【交通・駐車場】</strong>近鉄「賢島駅」から徒歩約5分、シャトルバス2分。（定時運行・予約不要） ／ 駐車場：屋外、無料、66台</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「サミットの歴史ありサミットの歴史を感じました静かな場所でくつろぎの時間を満喫できます食事やラウンジもよかったですお風呂は部屋のみですが展望ができるのが嬉しいですクチコミの詳細はこち…　2026-10-04 10:03:17投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=1150&quot; clas」</p>
+            </div>
+          </div>
+          <div className="space-y-3 pt-4 border-t border-stone-200">
+            <h3 className="text-base font-bold text-stone-900">🗺️ 合わせて訪れたい日本の代表的観光名所ガイド</h3>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
+              <h4 className="text-sm font-bold text-stone-900">📍 清水寺</h4>
+              <p className="text-xs text-stone-600 leading-relaxed">「清水の舞台」で世界的に有名な古都京都の象徴。「清水の舞台から飛び下りる」の語源となった木造大舞台からの京都市街の眺望と音羽の滝が名高いです。</p>
+            </div>
+            <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
+              <h4 className="text-sm font-bold text-stone-900">📍 函館山（夜景）</h4>
+              <p className="text-xs text-stone-600 leading-relaxed">世界三大夜景の一つに数えられる絶景スポット。津軽海峡と函館湾に挟まれたくびれが生み出す、宝石をちりばめたような眩い夜景は一生に一度は見たい感動のロケーションです。</p>
+            </div>
+            <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
+              <h4 className="text-sm font-bold text-stone-900">📍 横浜みなとみらい21</h4>
+              <p className="text-xs text-stone-600 leading-relaxed">ランドマークタワーや大観覧車「コスモクロック21」、赤レンガ倉庫が立ち並ぶ近代都市リゾート。港町の海風を感じながらショッピングや夜景を楽しめます。</p>
+            </div>
+            <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
+              <h4 className="text-sm font-bold text-stone-900">📍 国宝 姫路城（白鷺城）</h4>
+              <p className="text-xs text-stone-600 leading-relaxed">鮮やかな白漆喰の城壁が羽ばたく白鷺のように美しい日本初のユネスコ世界文化遺産。大天守をはじめ保存状態が完璧な城郭建築の最高峰です。</p>
+            </div>
+            </div>
+          </div>
+        </section>
+
+<HubRelatedPosts currentSlug="furusato-tax-three-great-night-cherry-blossoms-stay" />
 </div>
   );
 }

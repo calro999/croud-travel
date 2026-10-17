@@ -189,7 +189,7 @@ export default function HakoneAutumnLeavesHotspringGuidePage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「箱根登山鉄道・強羅公園・美術館の紅葉巡り＆にごり湯旅館」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「箱根登山鉄道・強羅公園・美術館の紅葉巡り＆にごり湯旅館」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"箱根 紅葉露天風呂＆ライトアップ2026：箱根登山鉄道・強羅公園・美術館の紅葉巡り＆にごり湯旅館エリアでは、「箱根湯本温泉　離れ山家荘」（楽天評価★4.38・クチコミ53件、所在地：神奈川県足柄下郡箱根町湯本592）をはじめとする宿を拠点にし、最寄り駅（箱根湯本）やアクセス条件（箱根湯本駅より徒歩にて約１０分）に合わせて午前中に周辺観光名所を巡り、15時のチェックイン後に温泉や夕食会席を堪能するスケジュールが最も効率的です。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"宿泊予約時は最安料金目安（例：「蔵のや」は1名あたり¥8,800〜）や駐車場条件（有り（本館仙景の駐車場をご利用ください。水車が目印です。無料　予約不要））を事前に確認しましょう。連休や紅葉・年末年始シーズンは早期に満室となるため、楽天トラベルの早期割引プランやクーポンの活用がおすすめです。"}}]}) }}
       />
 
         {/* クーポンバナー */}
@@ -479,12 +479,6 @@ export default function HakoneAutumnLeavesHotspringGuidePage() {
             </Link>
           </div>
         </section>
-      
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         
 
         {/* FAQ Section */}
@@ -502,7 +496,7 @@ export default function HakoneAutumnLeavesHotspringGuidePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。
+                A. 箱根 紅葉露天風呂＆ライトアップ2026：箱根登山鉄道・強羅公園・美術館の紅葉巡り＆にごり湯旅館では、最寄り駅からの送迎バス運行時間やチェックイン時刻（通常15:00）から逆算し、午前中に主要な景勝地・寺社・市場を巡り、午後は宿の天然温泉や地元食材の会席料理をゆっくり堪能する行程が最も満足度の高い回り方です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -511,7 +505,7 @@ export default function HakoneAutumnLeavesHotspringGuidePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。
+                A. 楽天トラベルで予約する際は、無料駐車場の台数・予約要否、露天風呂付き客室や部屋食プランの有無、そして5と0のつく日クーポンや早期割引プランの対象期間を事前に比較確認しておくと安心です。
               </p>
             </details>
           </div>
@@ -526,7 +520,22 @@ export default function HakoneAutumnLeavesHotspringGuidePage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/winter-ibaraki-mito-kasama-inari-hatsumode-ankou-hitachigyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月茨城：笠間稲荷神社新春開運初詣！名宿5選</span>
+            </a>
+            <a href="/furusato-tax-daigo-fukuroda-falls-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">袋田の滝の四段紅葉と奥久慈大子温泉！名物奥久慈軍鶏・常陸牛と秋蕎麦を味わう茨城の奥座敷旅</span>
+            </a>
+            <a href="/winter-ibaraki-oarai-nakaminato-ankou-sunrise-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月茨城：大洗磯前神社「神磯の鳥居」初！名宿5選</span>
+            </a>
+            <a href="/ibaraki-oarai-solo-retreat-ocean-seafood-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">茨城・大洗ひとり旅・大洗磯前神社神磯鳥居おこもり：太平洋の荒波朝日・冬のアンコウ鍋・常陸牛！水戸駅直通鹿島臨海鉄道の海辺厳選3宿</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

@@ -489,7 +489,7 @@ export default function Page() {
                       <div className="relative h-48 sm:h-52 w-full overflow-hidden">
                         <img
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/18687/18687.jpg"
-                          alt="��宿旅館　里のやど　川尻"
+                          alt="指宿旅館　里のやど　川尻"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
                         loading="lazy" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
@@ -499,7 +499,7 @@ export default function Page() {
                     
                     <div className="p-5">
                       <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        ��宿旅館　里のやど　川尻
+                        指宿旅館　里のやど　川尻
                       </h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         天橋立の海水浴場まで徒歩数分！家族で営む古くて小さな温泉民宿です！＜ペット宿泊OK＞
@@ -784,11 +784,6 @@ export default function Page() {
             </Link>
           </div>
         </section>
-      
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -871,7 +866,22 @@ export default function Page() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/autumn-toyama-kurobe-gorge-torokko-unazuki-onsen-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">下旬〜11月！黒部峡谷トロッコ電車紅葉で過ごす冬の旅（10月）！日本一のV字峡谷と宇奈月温泉おすすめ宿5選</span>
+            </a>
+            <a href="/furusato-tax-toyama-himi-amaharashi-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">富山・氷見温泉郷と雨晴海岸！富山湾越しの立山連峰初冠雪＆氷見寒ブリ・紅ズワイガニ</span>
+            </a>
+            <a href="/toyama-solo-business-tateyama-sauna-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">富山出張＆立山連峰ビュー：富山駅近・天然温泉サウナ・白えび美食！「天然の生簀」富山湾を味わう極上宿 厳選3選</span>
+            </a>
+            <a href="/winter-hot-pot-gibier-wild-game-satoyama-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">2026年：滋味あふれる天然猪肉と特製味噌出汁！名宿5選</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

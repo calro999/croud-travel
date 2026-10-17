@@ -48,7 +48,7 @@ const hotels = [
     "reviewCount": 6326,
     "address": "和歌山県東牟婁郡那智勝浦町勝浦1165-2",
     "access": "ＪＲ紀勢線　紀伊勝浦駅から徒歩6分で桟橋へ。更に専用ボート又は、シャトルバスで５分　詳しくは交通案内ページをご覧ください",
-    "userReview": "リニューアルで一新、来年もまた訪れたい浦島さんへは十数年前くらいから、毎年訪問しております。今年は特に、70周年でリニューアル���れているという事で楽しみにしておりました。感想は、結構落ち着。",
+    "userReview": "リニューアルで一新、来年もまた訪れたい浦島さんへは十数年前くらいから、毎年訪問しております。今年は特に、70周年でリニューアルされているという事で楽しみにしておりました。感想は、結構落ち着。",
     "label": "和歌山県那智勝浦町ふるさと納税・大門坂と那智の滝・絶景洞窟露天風呂「南紀勝浦温泉 ホテル浦島」",
     "spotTitle": "和歌山県那智勝浦町ふるさと納税：大門坂・那智の滝巡礼拠点・天然洞窟温泉忘帰洞「南紀勝浦温泉 ホテル浦島」",
     "spotDesc": "勝浦港から専用船で渡る巨大リゾートホテル。波が打ち寄せる大洞窟温泉「忘帰洞」をはじめ、館内で多彩な温泉湯巡りが楽しめ、勝浦名物のマグロ解体ショーやバイキングが人気を集めています。",
@@ -338,7 +338,125 @@ export default function FurusatoUpgradedPage() {
         </div>
       </section>
     
-      <HubRelatedPosts currentSlug="furusato-tax-kumano-kodo-world-heritage-stay" />
+      
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-6 my-10 max-w-5xl mx-auto">
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900">📊 世界遺産・熊野古道の祈りの巡礼路と名湯宿×ふるさと納税厳選ガイド湯の峰・那智勝浦・白浜：楽天トラベル高評価宿スペック比較表＆クチコミ徹底解説</h2>
+          <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+            楽天トラベル公式APIから取得した全国の高評価宿データ（所在地・最寄り駅・駐車場・総合評価・参考最安料金）と実際の宿泊者レビューを整理しました。ふるさと納税の旅行クーポンや早期割引プランと併用することで、ワンランク上の滞在をお得に実現できます。
+          </p>
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th><th className="p-3">所在地</th><th className="p-3">アクセス</th><th className="p-3">駐車場</th><th className="p-3">評価</th><th className="p-3">最安目安</th><th className="p-3">予約</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. ホテル日航大阪</td>
+                <td className="p-3 text-stone-600">大阪府大阪市中央区西心斎橋1-3-3</td>
+                <td className="p-3 text-stone-600">心斎橋</td>
+                <td className="p-3 text-stone-600">有り　 ご宿泊のお客様は１泊 3000円（12：00～翌12：00まで）にて利用可能！　１６０台</td>
+                <td className="p-3 font-bold text-amber-600">★4.51（5584件）</td>
+                <td className="p-3 font-bold text-rose-600">¥5,525〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F167%2F167.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. 湯元「花乃井」スーパーホテル大阪天然温泉</td>
+                <td className="p-3 text-stone-600">大阪府大阪市西区江戸堀3-6-35</td>
+                <td className="p-3 text-stone-600">阿波座</td>
+                <td className="p-3 text-stone-600">近隣の一般コインパーキングのご案内となります。</td>
+                <td className="p-3 font-bold text-amber-600">★4.4（7012件）</td>
+                <td className="p-3 font-bold text-rose-600">¥3,900〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F217%2F217.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. 関空温泉ホテルガーデンパレス</td>
+                <td className="p-3 text-stone-600">大阪府泉佐野市中町1-3-51</td>
+                <td className="p-3 text-stone-600">泉佐野</td>
+                <td className="p-3 text-stone-600">普通車550円／トラック7mまで1100円／中型バス8mまで2200円／中・大型バス9m～3300円</td>
+                <td className="p-3 font-bold text-amber-600">★4.46（2176件）</td>
+                <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F222%2F222.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">4. 道後温泉　ホテルパティオ・ドウゴ</td>
+                <td className="p-3 text-stone-600">愛媛県松山市道後湯之町20-12</td>
+                <td className="p-3 text-stone-600">松山空港</td>
+                <td className="p-3 text-stone-600">■先着順（予約不可）隣接の立体と屋外平面（かなり急な坂の上）約50台。1泊1台に付き800円。</td>
+                <td className="p-3 font-bold text-amber-600">★4.4（2020件）</td>
+                <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F226%2F226.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">5. ホテルメトロポリタン</td>
+                <td className="p-3 text-stone-600">東京都豊島区西池袋1-6-１</td>
+                <td className="p-3 text-stone-600">池袋</td>
+                <td className="p-3 text-stone-600">有　1泊につき1台  3,000円</td>
+                <td className="p-3 font-bold text-amber-600">★4.4（4348件）</td>
+                <td className="p-3 font-bold text-rose-600">¥10,250〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F388%2F388.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+          <div className="space-y-3">
+            <h3 className="text-base font-bold text-stone-900">🏨 注目宿のクチコミ・アクセス詳細</h3>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">1. ホテル日航大阪（大阪府・★4.51）</h4>
+              <p><strong>【特徴】</strong>大阪メトロ「心斎橋駅」直結！道頓堀まで徒歩約9分！観光・ビジネスに大変便利な立地です。</p>
+              <p><strong>【交通・駐車場】</strong>大阪メトロ御堂筋線、長堀鶴見緑地線「心斎橋駅」8番出口直結、梅田、難波、京セラドームなど主要エリアへ抜群のアクセスです。 ／ 駐車場：有り　 ご宿泊のお客様は１泊 3000円（12：00～翌12：00まで）にて利用可能！　１６０台</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「お部屋のグレードアップに感激!とても良いお部屋にグレードアップして下さって夢のようでしたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/…　2026-08-21 22:10:54投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=167&quot; c」</p>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">2. 湯元「花乃井」スーパーホテル大阪天然温泉（大阪府・★4.4）</h4>
+              <p><strong>【特徴】</strong>【2024年2月14日】リニューアルオープン！本物の天然温泉とオートロウリュ付きサウナをご体感下さい</p>
+              <p><strong>【交通・駐車場】</strong>地下鉄中央線・千日前線【阿波座駅】出口⑨右へ徒歩約5分/JR【大阪駅】大阪市営バス88系天保山行「土佐堀三丁目」下車 ／ 駐車場：近隣の一般コインパーキングのご案内となります。</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「清潔な部屋と温泉、大阪観光の常宿に決定部屋綺麗。温泉、サウナもあって、価格も良心的。去年の万博に続き利用しました。大阪観光の時は常宿認定してます。クチコミの詳細はこちらから　htt…　2026-10-11 00:21:07投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=217&quot; class」</p>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">3. 関空温泉ホテルガーデンパレス（大阪府・★4.46）</h4>
+              <p><strong>【特徴】</strong>天然温泉大浴場と旬の食材で季節を彩る食事～あなたの思い出、大切な人、記憶に心の軌跡に</p>
+              <p><strong>【交通・駐車場】</strong>関西空港からホテル（運休中）　ホテルから関西空港（無料バスあり）　最寄り駅からホテル間（無料送迎バスあり：～２０時まで） ／ 駐車場：普通車550円／トラック7mまで1100円／中型バス8mまで2200円／中・大型バス9m～3300円</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「ホテルの接客が最高です。早い時間に関西空港まで行かなければならなく、1人でもあたたかいご対応で、関西空港まで送迎していただきました。感謝です。温泉も広く旅の疲れがとれる最高の温泉でした。枕元にコンセン…　2026-08-16 20:49:58投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=」</p>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">4. 道後温泉　ホテルパティオ・ドウゴ（愛媛県・★4.4）</h4>
+              <p><strong>【特徴】</strong>道後温泉本館に一番近いヨーロピアンホテル　”HOTEL PATIO DOGO”</p>
+              <p><strong>【交通・駐車場】</strong>先ずは道後温泉本館を目指して下さい。ホテルは道後温泉本館の北側真向かい。温泉とホテルの間にある石畳の道へお入り下さい。 ／ 駐車場：■先着順（予約不可）隣接の立体と屋外平面（かなり急な坂の上）約50台。1泊1台に付き800円。</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「建物は古いが掃除が行き届きリラックスできたホテルは古いが、掃除が行き届いていて良かったリラックス出来たクチコミの詳細はこちらから　https://review.travel.rakuten…　2026-10-09 09:38:16投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=226&quot; c」</p>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">5. ホテルメトロポリタン（東京都・★4.4）</h4>
+              <p><strong>【特徴】</strong>～やすらぎと華やぎが出会う場所～JR東日本グループのホテルとして、皆さまお越しをお待ちしております。</p>
+              <p><strong>【交通・駐車場】</strong>池袋駅西口より徒歩３分、東京駅より地下鉄で17分、羽田空港へのリムジンバス（有料）がホテル正面玄関にて発着します。 ／ 駐車場：有　1泊につき1台  3,000円</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「マットレスが快適すぎて早々に寝落ち女子会で利用しました。ホテルのお部屋もベッドも寝心地よく最高でした。そして遅くまでゆっくり話そうと約束していた私なのに...。21時半にマットレスの気…　2026-08-28 18:10:34投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=388&quot; cla」</p>
+            </div>
+          </div>
+          <div className="space-y-3 pt-4 border-t border-stone-200">
+            <h3 className="text-base font-bold text-stone-900">🗺️ 合わせて訪れたい日本の代表的観光名所ガイド</h3>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
+              <h4 className="text-sm font-bold text-stone-900">📍 清水寺</h4>
+              <p className="text-xs text-stone-600 leading-relaxed">「清水の舞台」で世界的に有名な古都京都の象徴。「清水の舞台から飛び下りる」の語源となった木造大舞台からの京都市街の眺望と音羽の滝が名高いです。</p>
+            </div>
+            <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
+              <h4 className="text-sm font-bold text-stone-900">📍 函館山（夜景）</h4>
+              <p className="text-xs text-stone-600 leading-relaxed">世界三大夜景の一つに数えられる絶景スポット。津軽海峡と函館湾に挟まれたくびれが生み出す、宝石をちりばめたような眩い夜景は一生に一度は見たい感動のロケーションです。</p>
+            </div>
+            <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
+              <h4 className="text-sm font-bold text-stone-900">📍 横浜みなとみらい21</h4>
+              <p className="text-xs text-stone-600 leading-relaxed">ランドマークタワーや大観覧車「コスモクロック21」、赤レンガ倉庫が立ち並ぶ近代都市リゾート。港町の海風を感じながらショッピングや夜景を楽しめます。</p>
+            </div>
+            <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
+              <h4 className="text-sm font-bold text-stone-900">📍 国宝 姫路城（白鷺城）</h4>
+              <p className="text-xs text-stone-600 leading-relaxed">鮮やかな白漆喰の城壁が羽ばたく白鷺のように美しい日本初のユネスコ世界文化遺産。大天守をはじめ保存状態が完璧な城郭建築の最高峰です。</p>
+            </div>
+            </div>
+          </div>
+        </section>
+
+<HubRelatedPosts currentSlug="furusato-tax-kumano-kodo-world-heritage-stay" />
 </div>
   );
 }

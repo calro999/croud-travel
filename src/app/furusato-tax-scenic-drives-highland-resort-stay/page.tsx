@@ -338,7 +338,125 @@ export default function FurusatoUpgradedPage() {
         </div>
       </section>
     
-      <HubRelatedPosts currentSlug="furusato-tax-scenic-drives-highland-resort-stay" />
+      
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-6 my-10 max-w-5xl mx-auto">
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900">📊 日本百名道の絶景ドライブルートと高原温泉宿×ふるさと納税厳選ガイドビーナスライン・志賀草津・やまなみ：楽天トラベル高評価宿スペック比較表＆クチコミ徹底解説</h2>
+          <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+            楽天トラベル公式APIから取得した全国の高評価宿データ（所在地・最寄り駅・駐車場・総合評価・参考最安料金）と実際の宿泊者レビューを整理しました。ふるさと納税の旅行クーポンや早期割引プランと併用することで、ワンランク上の滞在をお得に実現できます。
+          </p>
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th><th className="p-3">所在地</th><th className="p-3">アクセス</th><th className="p-3">駐車場</th><th className="p-3">評価</th><th className="p-3">最安目安</th><th className="p-3">予約</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. ＥＮ　ＲＥＳＯＲＴ　Ｇｒａｎｄｅｃｏ　Ｈｏｔｅｌ（エンリゾート　グランデコ）</td>
+                <td className="p-3 text-stone-600">福島県耶麻郡北塩原村桧原荒砂沢山1082〔会津裏磐梯〕</td>
+                <td className="p-3 text-stone-600">猪苗代</td>
+                <td className="p-3 text-stone-600">有り　100台　無料</td>
+                <td className="p-3 font-bold text-amber-600">★4.43（1642件）</td>
+                <td className="p-3 font-bold text-rose-600">¥7,400〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F508%2F508.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. 宮古島東急ホテル＆リゾーツ＜宮古島＞</td>
+                <td className="p-3 text-stone-600">沖縄県宮古島市下地与那覇914</td>
+                <td className="p-3 text-stone-600">宮古空港</td>
+                <td className="p-3 text-stone-600">有り　215台　　無料</td>
+                <td className="p-3 font-bold text-amber-600">★4.57（594件）</td>
+                <td className="p-3 font-bold text-rose-600">¥12,416〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F540%2F540.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. 京都ブライトンホテル</td>
+                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">地下鉄「今出川駅」より徒歩８分、 地下鉄「烏丸御池」 2番出口付近よりシャトルバスにて約７分。</td>
+                <td className="p-3 text-stone-600">有り</td>
+                <td className="p-3 font-bold text-amber-600">★4.78（4015件）</td>
+                <td className="p-3 font-bold text-rose-600">¥7,200〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F685%2F685.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">4. グランドプリンスホテル大阪ベイ</td>
+                <td className="p-3 text-stone-600">大阪府大阪市住之江区南港北１丁目１３－１１</td>
+                <td className="p-3 text-stone-600">中ふ頭（大阪）</td>
+                <td className="p-3 text-stone-600">有り　約330台　2025年4月7日より　宿泊者有料１泊1000円（15：00まで）</td>
+                <td className="p-3 font-bold text-amber-600">★4.59（2887件）</td>
+                <td className="p-3 font-bold text-rose-600">¥6,464〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F690%2F690.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">5. 京王プラザホテル札幌</td>
+                <td className="p-3 text-stone-600">北海道札幌市中央区北5条西7丁目</td>
+                <td className="p-3 text-stone-600">札幌</td>
+                <td className="p-3 text-stone-600">有（1泊1台2000円）</td>
+                <td className="p-3 font-bold text-amber-600">★4.44（5583件）</td>
+                <td className="p-3 font-bold text-rose-600">¥4,870〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F724%2F724.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+          <div className="space-y-3">
+            <h3 className="text-base font-bold text-stone-900">🏨 注目宿のクチコミ・アクセス詳細</h3>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">1. ＥＮ　ＲＥＳＯＲＴ　Ｇｒａｎｄｅｃｏ　Ｈｏｔｅｌ（エンリゾート　グランデコ）（福島県・★4.43）</h4>
+              <p><strong>【特徴】</strong>標高１,０００ｍの高原リゾート！手が届きそうな星空とあふれる四季折々の大自然をお楽しみください！</p>
+              <p><strong>【交通・駐車場】</strong>磐越道「猪苗代磐梯高原ＩＣ」より、裏磐梯方面へお車で約２０分後、五色沼交差点より約１５分★ＪＲ猪苗代駅直通シャトルバス有 ／ 駐車場：有り　100台　無料</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「足腰の弱い方でも過ごしやすいホテルです。今回は、母と母の幼なじみの方をお連れしての旅行でした。80を過ぎ、歳と共に足腰が悪くなってきましたが、ここは急な階段などが少なく、とても過ごし易いそうで、私…　2026-08-28 13:43:03投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=50」</p>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">2. 宮古島東急ホテル＆リゾーツ＜宮古島＞（沖縄県・★4.57）</h4>
+              <p><strong>【特徴】</strong>東京（羽田空港）より直行便が就航しております。</p>
+              <p><strong>【交通・駐車場】</strong>宮古空港より車で13分 ／ 駐車場：有り　215台　　無料</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「ハイハイできる畳の部屋とプールが最高畳のお部屋で、7ヶ月時がハイハイできる場所があってよかったです。お兄ちゃんたちもプール、ビーチが近くてチェックアウトギリギリまで楽しめましたクチコミの詳細は…　2026-09-30 15:16:40投稿」</p>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">3. 京都ブライトンホテル（・★4.78）</h4>
+              <p><strong>【特徴】</strong></p>
+              <p><strong>【交通・駐車場】</strong>地下鉄「今出川駅」より徒歩８分、 地下鉄「烏丸御池」 2番出口付近よりシャトルバスにて約７分。 ／ 駐車場：有り</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「GOODでした。ホテルの方の対応、大変心地よく素晴らしかったです。朝食付きプランで、和食懐石を選んでみました。物足りなかったらどうしよう、と思っていましたが、1つ1つに拘りが感じられて… 2026-09-05 17:32:45投稿」</p>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">4. グランドプリンスホテル大阪ベイ（大阪府・★4.59）</h4>
+              <p><strong>【特徴】</strong>大阪市街やベイエリアの眺望。大阪駅⇔ホテル無料シャトルバスが毎日運行！人気テーマパークへも好アクセス</p>
+              <p><strong>【交通・駐車場】</strong>ニュートラムポートタウン線「中ふ頭駅」徒歩３分。無料送迎バスの運行有。 ／ 駐車場：有り　約330台　2025年4月7日より　宿泊者有料１泊1000円（15：00まで）</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「梅田からのシャトルバスが便利で快適梅田からのシャトルバスが便利でした部屋から海が見えてよかったです朝食も美味しかった又利用したいでしはクチコミの詳細はこちらから　https://r…　2026-10-10 16:13:25投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=690&quot; class」</p>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">5. 京王プラザホテル札幌（北海道・★4.44）</h4>
+              <p><strong>【特徴】</strong>札幌駅西口徒歩5分。全室禁煙、Wi-Fi完備。道産食材を豊富に使った朝食ブッフェは実演コーナーも充実</p>
+              <p><strong>【交通・駐車場】</strong>【JR札幌駅西口】から徒歩5分。西口を出てJR高架沿いに3ブロック直進。新千歳空港からホテル行きバス利用で約80分 ／ 駐車場：有（1泊1台2000円）</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「丁寧な接客と美味しい朝食に大満足ホテルに入るとすぐに声をかけていただき、チエックイン後も部屋まで丁寧に案内をしていただきました。お部屋も綺麗でアメニティも行き届いていて、どのスタッフもとても丁…　2026-10-10 22:19:26投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=724&quot;」</p>
+            </div>
+          </div>
+          <div className="space-y-3 pt-4 border-t border-stone-200">
+            <h3 className="text-base font-bold text-stone-900">🗺️ 合わせて訪れたい日本の代表的観光名所ガイド</h3>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
+              <h4 className="text-sm font-bold text-stone-900">📍 清水寺</h4>
+              <p className="text-xs text-stone-600 leading-relaxed">「清水の舞台」で世界的に有名な古都京都の象徴。「清水の舞台から飛び下りる」の語源となった木造大舞台からの京都市街の眺望と音羽の滝が名高いです。</p>
+            </div>
+            <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
+              <h4 className="text-sm font-bold text-stone-900">📍 函館山（夜景）</h4>
+              <p className="text-xs text-stone-600 leading-relaxed">世界三大夜景の一つに数えられる絶景スポット。津軽海峡と函館湾に挟まれたくびれが生み出す、宝石をちりばめたような眩い夜景は一生に一度は見たい感動のロケーションです。</p>
+            </div>
+            <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
+              <h4 className="text-sm font-bold text-stone-900">📍 横浜みなとみらい21</h4>
+              <p className="text-xs text-stone-600 leading-relaxed">ランドマークタワーや大観覧車「コスモクロック21」、赤レンガ倉庫が立ち並ぶ近代都市リゾート。港町の海風を感じながらショッピングや夜景を楽しめます。</p>
+            </div>
+            <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
+              <h4 className="text-sm font-bold text-stone-900">📍 国宝 姫路城（白鷺城）</h4>
+              <p className="text-xs text-stone-600 leading-relaxed">鮮やかな白漆喰の城壁が羽ばたく白鷺のように美しい日本初のユネスコ世界文化遺産。大天守をはじめ保存状態が完璧な城郭建築の最高峰です。</p>
+            </div>
+            </div>
+          </div>
+        </section>
+
+<HubRelatedPosts currentSlug="furusato-tax-scenic-drives-highland-resort-stay" />
 </div>
   );
 }

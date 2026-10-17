@@ -318,6 +318,256 @@ export default function AutumnBudgetFukuyamaHotelsPage() {
           </div>
         </div>
       </section>
-    </main>
+    
+        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
+          <div className="space-y-2 border-b border-stone-200 pb-4">
+            <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
+              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+            </span>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
+              📊 福山・尾道：鞆の浦の秋夕陽と尾道水道紅葉！3,000円台〜格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+            </h2>
+            <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+              楽天トラベル公式APIより取得した「福山・尾道：鞆の浦の秋夕陽と尾道水道紅葉！3,000円台〜格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+            </p>
+          </div>
+
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th>
+                  <th className="p-3">所在地</th>
+                  <th className="p-3">最寄り駅・交通</th>
+                  <th className="p-3">駐車場情報</th>
+                  <th className="p-3">楽天評価</th>
+                  <th className="p-3">最安目安</th>
+                  <th className="p-3">予約・詳細</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. グリーンビジネスホテル</td>
+                <td className="p-3 text-stone-600">広島県福山市野上町1-4-22</td>
+                <td className="p-3 text-stone-600">福山駅周辺</td>
+                <td className="p-3 text-stone-600">有り〔10台まで（普通車）／先着順・無料〕※高さ：制限なし</td>
+                <td className="p-3 font-bold text-amber-600">★4.3（345件）</td>
+                <td className="p-3 font-bold text-rose-600">¥3,000〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5313%2F5313.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. サンホテル福山</td>
+                <td className="p-3 text-stone-600">広島県福山市城見町1-2-33</td>
+                <td className="p-3 text-stone-600">福山駅周辺</td>
+                <td className="p-3 text-stone-600">有：71台／敷地内30台※先着順・提携41台※満車時のご案内■￥600／泊■2ｔ車以上は要問合せ</td>
+                <td className="p-3 font-bold text-amber-600">★4.32（4267件）</td>
+                <td className="p-3 font-bold text-rose-600">¥3,850〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F11123%2F11123.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. 福山ローズガーデンホテル</td>
+                <td className="p-3 text-stone-600">広島県福山市丸之内1-4-8</td>
+                <td className="p-3 text-stone-600">福山駅周辺</td>
+                <td className="p-3 text-stone-600">15:00〜翌11:00料金500円/1台※チェックイン先着順。普通車以上の場合はお問合せください。</td>
+                <td className="p-3 font-bold text-amber-600">★4（934件）</td>
+                <td className="p-3 font-bold text-rose-600">¥3,750〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10986%2F10986.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">4. ベッセルホテル福山（国道２号線・福山１号店）</td>
+                <td className="p-3 text-stone-600">広島県福山市南本庄三丁目4-37</td>
+                <td className="p-3 text-stone-600">福山駅周辺</td>
+                <td className="p-3 text-stone-600">有り　116台　無料（大型車は一部有料）福山ＳＡスマートＩＣから１０分！</td>
+                <td className="p-3 font-bold text-amber-600">★4.5（3982件）</td>
+                <td className="p-3 font-bold text-rose-600">¥3,780〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4788%2F4788.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">5. リッチモンドホテル福山駅前</td>
+                <td className="p-3 text-stone-600">広島県福山市東桜町1-1</td>
+                <td className="p-3 text-stone-600">福山駅周辺</td>
+                <td className="p-3 text-stone-600">専用、提携駐車場なし（提携ではございませんが最寄有料Pは【NPC24H福山駅前第２パーキング】です）</td>
+                <td className="p-3 font-bold text-amber-600">★4.34（3416件）</td>
+                <td className="p-3 font-bold text-rose-600">¥4,160〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F109493%2F109493.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div className="space-y-4">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
+              🏨 各宿の宿泊者リアルクチコミ・客室イメージ・項目別評価データ
+            </h3>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #1</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">グリーンビジネスホテル</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ぐりーんびじねすほてる）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,000〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5313/5313_sgl.jpg" alt="グリーンビジネスホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>宿泊代を抑えたい方に！この価格で高速インターネット接続無料。静かな立地で疲れをお取り下さい。</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 広島県福山市野上町1-4-22 ／ 最寄り駅：福山 ／ 交通案内：車：福山東ICから約20分／電車：JR福山駅から徒歩20分（※中国バスへ乗換、「商工中金前」下車 徒歩3分）</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り〔10台まで（普通車）／先着順・無料〕※高さ：制限なし</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.31 ／ 立地 ★4.21 ／ 部屋 ★4.24 ／ 設備 ★4.23 ／ 風呂 ★4.22</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な案内と十分な設備で快適な空間フロントの方に丁寧に案内いただきました。車で伺ったので、場所は特に気になりませんでした。お部屋には宿泊するには十分な設備と広さでした。クチコミの詳細は…　2026-08-22 22:47:26投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #2</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">サンホテル福山</h3>
+                  <span className="text-xs text-stone-400 ml-2">（さんほてる　ふくやま）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,850〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/11123/11123_sin.jpg" alt="サンホテル福山 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>福山駅徒歩3分■全客室：個別Wi-Fi無料/加湿機能付き空気清浄機■朝食フェスティバル入賞</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 広島県福山市城見町1-2-33 ／ 最寄り駅：福山 ／ 交通案内：福山駅北口から東へ徒歩3分■福山東ＩＣから車で15分■福山西ICから車で20分■福山SAスマートICから車で15分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有：71台／敷地内30台※先着順・提携41台※満車時のご案内■￥600／泊■2ｔ車以上は要問合せ</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.38 ／ 立地 ★4.24 ／ 部屋 ★4.31 ／ 設備 ★4.18 ／ 風呂 ★4.09 ／ 食事 ★4.26</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「快適、便利でお勧めです。部屋は広くないものの、清潔で快適でした。ネットで予約した時は、朝食付きプランが無かったのですが、チェックインの際、朝食も追加予約できたのでありがたかったです。…　2026-10-04 01:37:48投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #3</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">福山ローズガーデンホテル</h3>
+                  <span className="text-xs text-stone-400 ml-2">（ふくやま　ろーずがーでんほてる）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,750〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10986/10986_sgl.jpg" alt="福山ローズガーデンホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>ＪＲ福山駅から徒歩5分、お城の見える客室あり、尾道・鞆の浦・倉敷観光の拠点として便利、お洒落な外観</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 広島県福山市丸之内1-4-8 ／ 最寄り駅：福山 ／ 交通案内：『JR福山駅』北口より徒歩5分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>15:00〜翌11:00料金500円/1台※チェックイン先着順。普通車以上の場合はお問合せください。</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.12 ／ 立地 ★3.93 ／ 部屋 ★3.98 ／ 設備 ★3.96 ／ 風呂 ★3.83</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利だが、部屋の臭いが気になった福山駅と福山城に近いので、アクセスは良かったです。部屋のお風呂が臭う。具体的にいうと、お風呂とトイレを仕切るカーテンが、生臭い、生乾き臭がします。…　2026-10-10 17:11:35投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #4</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ベッセルホテル福山（国道２号線・福山１号店）</h3>
+                  <span className="text-xs text-stone-400 ml-2">（べっせるほてるふくやま）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,780〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4788/4788_sgl.jpg" alt="ベッセルホテル福山（国道２号線・福山１号店） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>広い客室に全室クィーンサイズベッドで、機能的で快適さを提供します。福山ＳＡスマートＩＣから１０分！</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 広島県福山市南本庄三丁目4-37 ／ 最寄り駅：福山 ／ 交通案内：ＪＲ福山駅から車で５分　山陽自動車道福山東ＩＣから１５分　福山西ＩＣから２６分　福山ＳＡスマートＩＣから１０分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　116台　無料（大型車は一部有料）福山ＳＡスマートＩＣから１０分！</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★4.22 ／ 部屋 ★4.58 ／ 設備 ★4.45 ／ 風呂 ★4.37 ／ 食事 ★4.44</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「福山のお気に入り、靴を脱いで寛げる空間福山のホテルのお気にいりになりました。ウェルカムドリンクが遅くまであり、ホッとできました。靴を脱いでのんびりできるのがいい。クチコミの詳細はこちらから　h…　2026-10-06 12:38:54投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
+                <div>
+                  <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #5</span>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">リッチモンドホテル福山駅前</h3>
+                  <span className="text-xs text-stone-400 ml-2">（りっちもんどほてるふくやまえきまえ）</span>
+                </div>
+                <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥4,160〜</span>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/109493/109493_ru.jpg" alt="リッチモンドホテル福山駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
+                  <p><strong>【宿の特徴・魅力】</strong>ご宿泊者様無料ドリンクバーあり◆フロント8階、客室は9階以上◆ＪＲ福山駅近で飲食店、コンビニ徒歩圏内</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 広島県福山市東桜町1-1 ／ 最寄り駅：福山 ／ 交通案内：福山駅南口（ばら公園口）より徒歩約3分◆福山東ＩＣより車で約20分</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>専用、提携駐車場なし（提携ではございませんが最寄有料Pは【NPC24H福山駅前第２パーキング】です）</p>
+                  <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.38 ／ 部屋 ★4.36 ／ 設備 ★4.29 ／ 風呂 ★4.22 ／ 食事 ★4.43</p>
+                  <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待以上に満足できる内容とても良かったですクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/109493?review…　2026-10-10 19:27:14投稿」
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="space-y-4 pt-6 border-t border-stone-200">
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
+              🗺️ あわせて巡りたい！広島県の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+            </h3>
+            <p className="text-xs text-stone-600 leading-relaxed">
+              宿泊前後の1泊2日・2泊3日モデルコースに組み込みたい、広島県を代表する名所・絶景スポットの解説です。チェックイン前後の荷物預かりや駅周辺のレンタカー・周遊バスを活用すると効率よく巡ることができます。
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Miyajima_From_The_Ferry_%2830093845%29.jpeg/1280px-Miyajima_From_The_Ferry_%2830093845%29.jpeg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="厳島神社（宮島）" className="w-full h-full object-cover" loading="lazy" /></div>
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
+                <h3 className="text-base font-bold text-stone-900">厳島神社（宮島）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">世界文化遺産に登録された安芸の宮島。海上に浮かぶ鮮やかな朱塗りの大鳥居と社殿は潮の満ち引きで表情を変え、日本三景に相応しい神秘の美しさです。 厳島（いつくしま）は、広島県廿日市市宮島町にある島。瀬戸内海西部、広島湾の北西部に位置する。通称は安芸の宮島（あきのみやじま）、または宮島。かつて島全体が佐伯郡宮島町と一致していたが、2005年（平成17年）に廿日市市と合併した。 古代より、島そのものが自然崇拝の対象であったと考えられる。平安時代末期以降は、厳島神社の影響力の強さや海上交通の拠点としての重要…</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
+                <h3 className="text-base font-bold text-stone-900">原爆ドーム・平和記念公園</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">世界へ恒久平和を訴え続ける負の遺産・世界文化遺産。元産業奨励館の被爆した姿が今も残され、平和記念資料館には世界中から多くの人が訪れます。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
+                <h3 className="text-base font-bold text-stone-900">尾道（千光寺公園）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">坂と猫と映画の街として愛される港町。千光寺山の山頂からロープウェイで登れば、尾道水道と造船所、瀬戸内海の島々を一望するノスタルジックな風景が広がります。</p>
+              </div>
+            </div>
+            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
+              
+              <div className="p-5 space-y-2 flex-1">
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
+                <h3 className="text-base font-bold text-stone-900">呉・大和ミュージアム</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">かつて東洋一の軍港・造船の街として栄えた呉の歴史を伝える博物館。館内中央に鎮座する10分の1スケールの戦艦「大和」の精巧な復元モデルは圧巻です。</p>
+              </div>
+            </div>
+            </div>
+          </div>
+
+          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-3 text-xs text-stone-700 leading-relaxed">
+            <h3 className="text-sm md:text-base font-bold text-amber-950">
+              💡 広島県エリアの宿泊予約・シーズン別ベストタイミングと節約ノウハウ
+            </h3>
+            <p>
+              <strong>1. 早期予約と楽天トラベルクーポンの併用：</strong> 広島県の人気温泉宿・リゾートホテルは、週末や連休・紅葉・年末年始の60日〜30日前から一気に予約が埋まります。毎月5と0のつく日やスーパーSALE期間中に配布される宿クーポン・自治体クーポンを併用すると、通常より最大10〜20%お得に予約可能です。
+            </p>
+            <p>
+              <strong>2. 夕食・朝食プランと部屋タイプの選び方：</strong> 地元産の旬魚介やブランド牛会席を味わうなら「夕朝食付きプラン」、周辺の屋台・老舗居酒屋・ご当地グルメを食べ歩くなら「朝食付き」または「素泊まり＋天然温泉大浴場付きホテル」を選ぶと予算と満足度のバランスが最適化されます。
+            </p>
+          </div>
+        </section>
+
+      </main>
   );
 }

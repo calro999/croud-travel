@@ -338,7 +338,125 @@ export default function FurusatoUpgradedPage() {
         </div>
       </section>
     
-      <HubRelatedPosts currentSlug="furusato-tax-three-great-rivers-riverside-stay" />
+      
+        <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-6 my-10 max-w-5xl mx-auto">
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900">📊 日本三大河川の雄大な流れを望むリバーサイド名湯宿×ふるさと納税厳選ガイド利根川・筑後川・吉野川：楽天トラベル高評価宿スペック比較表＆クチコミ徹底解説</h2>
+          <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+            楽天トラベル公式APIから取得した全国の高評価宿データ（所在地・最寄り駅・駐車場・総合評価・参考最安料金）と実際の宿泊者レビューを整理しました。ふるさと納税の旅行クーポンや早期割引プランと併用することで、ワンランク上の滞在をお得に実現できます。
+          </p>
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">
+              <thead>
+                <tr className="bg-stone-900 text-white font-bold">
+                  <th className="p-3">宿名</th><th className="p-3">所在地</th><th className="p-3">アクセス</th><th className="p-3">駐車場</th><th className="p-3">評価</th><th className="p-3">最安目安</th><th className="p-3">予約</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-200">
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">1. フルーツパーク富士屋ホテル</td>
+                <td className="p-3 text-stone-600">山梨県山梨市江曽原1388　笛吹川フルーツ公園内</td>
+                <td className="p-3 text-stone-600">ＪＲ中央線山梨市駅から車で7分。</td>
+                <td className="p-3 text-stone-600">有り</td>
+                <td className="p-3 font-bold text-amber-600">★4.59（779件）</td>
+                <td className="p-3 font-bold text-rose-600">¥10,065〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1221%2F1221.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">2. 熱川温泉　熱川プリンスホテル</td>
+                <td className="p-3 text-stone-600">静岡県賀茂郡東伊豆町奈良本1248-3</td>
+                <td className="p-3 text-stone-600">伊豆熱川</td>
+                <td className="p-3 text-stone-600">有り　　50台　　1泊　　無料</td>
+                <td className="p-3 font-bold text-amber-600">★4.51（1264件）</td>
+                <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1222%2F1222.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">3. 南房総白浜　割烹旅館　清都（きよと）</td>
+                <td className="p-3 text-stone-600">千葉県南房総市白浜町滝口6241</td>
+                <td className="p-3 text-stone-600">館山</td>
+                <td className="p-3 text-stone-600">有り　12台　無料</td>
+                <td className="p-3 font-bold text-amber-600">★4.52（208件）</td>
+                <td className="p-3 font-bold text-rose-600">¥24,500〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1235%2F1235.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">4. オリエンタルホテル東京ベイ</td>
+                <td className="p-3 text-stone-600">千葉県浦安市美浜1-8-2　※お電話のご連絡はこちら⇒【ホテルコード01】0570-051-153</td>
+                <td className="p-3 text-stone-600">新浦安</td>
+                <td className="p-3 text-stone-600">IN日正午〜OUT日正午まで1泊3000円〜※2泊目以降1泊1000円毎追加。その他時間500円/h</td>
+                <td className="p-3 font-bold text-amber-600">★4.42（11551件）</td>
+                <td className="p-3 font-bold text-rose-600">¥6,320〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1238%2F1238.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              <tr className="hover:bg-amber-50/40 transition">
+                <td className="p-3 font-bold text-stone-900">5. 天津小湊温泉　城崎の源泉の湯　宿中屋</td>
+                <td className="p-3 text-stone-600">千葉県鴨川市天津3287</td>
+                <td className="p-3 text-stone-600">安房小湊</td>
+                <td className="p-3 text-stone-600">有り　４０台 宿泊のお客様は無料です</td>
+                <td className="p-3 font-bold text-amber-600">★4.54（1025件）</td>
+                <td className="p-3 font-bold text-rose-600">¥14,000〜</td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1258%2F1258.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+          <div className="space-y-3">
+            <h3 className="text-base font-bold text-stone-900">🏨 注目宿のクチコミ・アクセス詳細</h3>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">1. フルーツパーク富士屋ホテル（山梨県・★4.59）</h4>
+              <p><strong>【特徴】</strong>小高い丘のホテルからは富士山などの山々を望む大パノラマと、宝石のような夜景・星空を四季折々楽しめます</p>
+              <p><strong>【交通・駐車場】</strong>ＪＲ中央線山梨市駅から車で7分。 ／ 駐車場：有り</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「また訪れたい場所ワイナリー巡り目的で家族と宿泊しました。残念ながら当日は曇りで、富士山は一部しか眺められませんでしたが、ホテルからの夜景は素晴らしく、周辺も自然豊かで、リラックスした時間を過ごせま…　2026-08-31 16:32:58投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=12」</p>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">2. 熱川温泉　熱川プリンスホテル（静岡県・★4.51）</h4>
+              <p><strong>【特徴】</strong>【星4.5】個性豊かな12の湯船と天空露天風呂、 空と海との一体感が味わえる魅力が光る贅沢宿！</p>
+              <p><strong>【交通・駐車場】</strong>東京駅から乗換なしでスムーズ♪直通電車「踊り子号」を利用すれば、最短1時間40分で到着！伊豆熱川駅徒歩10分。送迎有 ／ 駐車場：有り　　50台　　1泊　　無料</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「温泉とプールを満喫、金目の煮付けも最高湯量が豊富でお風呂の種類も多く温泉自体は良いと思います。食事も味付けが濃くなくて最後まで楽しめました。(金目の煮付けが最高でした)お風呂の設備に不備があり…　2026-08-29 13:21:58投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=1222」</p>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">3. 南房総白浜　割烹旅館　清都（きよと）（千葉県・★4.52）</h4>
+              <p><strong>【特徴】</strong>雄大な太平洋の水平線を一望。南房総の新鮮な山海の幸を使った味覚自慢の宿。夕・朝食ともお部屋食でどうぞ</p>
+              <p><strong>【交通・駐車場】</strong>JR内房線館山駅から車で20分。車の場合、首都圏からはアクアライン＆富津館山道路経由で約100分 ／ 駐車場：有り　12台　無料</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「割烹旅館の絶品料理と温泉に大満足2023年から今回で3回目の宿泊です。毎回、主人の誕生日のお祝いで利用させて頂いております。(こちらの宿はとても良かったのですが、昨年は浮気性な私が別の宿を予約して…　2026-08-21 20:11:45投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=12」</p>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">4. オリエンタルホテル東京ベイ（千葉県・★4.42）</h4>
+              <p><strong>【特徴】</strong>東京ディズニーリゾート(R)へ１駅３分。パートナーホテル・シャトルも常時運行！館内にローソンもあり</p>
+              <p><strong>【交通・駐車場】</strong>JR京葉線新浦安駅直結徒歩約1分。東京ディズニーリゾート(R)へはパートナーホテル・シャトル【予約不要】で約15分。 ／ 駐車場：IN日正午〜OUT日正午まで1泊3000円〜※2泊目以降1泊1000円毎追加。その他時間500円/h</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「広い部屋と子供向け施設が充実、リピ決定!とても広い部屋で過ごしやすかったです。孫たちはフロント横の動くスクリーン(スペースラボのような)にはまってしまい大喜びでした。ウェルカムラウンジのお菓子にも…　2026-10-10 21:34:42投稿」</p>
+            </div>
+            <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
+              <h4 className="text-sm font-bold text-stone-900">5. 天津小湊温泉　城崎の源泉の湯　宿中屋（千葉県・★4.54）</h4>
+              <p><strong>【特徴】</strong>2024年3月リニューアル</p>
+              <p><strong>【交通・駐車場】</strong>ＪＲ外房線安房小湊駅から車で５分。 ／ 駐車場：有り　４０台 宿泊のお客様は無料です</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「おもてなしと美味しい魚料理に感激!女将の直筆のお手紙、チェックインの時にお茶とお菓子が出るなどおもてなしが行き届いていて心地よいです。お食事が夕食朝食ともにお魚をふんだんに使ったとても美味しいお料…　2026-09-30 13:59:44投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=12」</p>
+            </div>
+          </div>
+          <div className="space-y-3 pt-4 border-t border-stone-200">
+            <h3 className="text-base font-bold text-stone-900">🗺️ 合わせて訪れたい日本の代表的観光名所ガイド</h3>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
+              <h4 className="text-sm font-bold text-stone-900">📍 清水寺</h4>
+              <p className="text-xs text-stone-600 leading-relaxed">「清水の舞台」で世界的に有名な古都京都の象徴。「清水の舞台から飛び下りる」の語源となった木造大舞台からの京都市街の眺望と音羽の滝が名高いです。</p>
+            </div>
+            <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
+              <h4 className="text-sm font-bold text-stone-900">📍 函館山（夜景）</h4>
+              <p className="text-xs text-stone-600 leading-relaxed">世界三大夜景の一つに数えられる絶景スポット。津軽海峡と函館湾に挟まれたくびれが生み出す、宝石をちりばめたような眩い夜景は一生に一度は見たい感動のロケーションです。</p>
+            </div>
+            <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
+              <h4 className="text-sm font-bold text-stone-900">📍 横浜みなとみらい21</h4>
+              <p className="text-xs text-stone-600 leading-relaxed">ランドマークタワーや大観覧車「コスモクロック21」、赤レンガ倉庫が立ち並ぶ近代都市リゾート。港町の海風を感じながらショッピングや夜景を楽しめます。</p>
+            </div>
+            <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
+              <h4 className="text-sm font-bold text-stone-900">📍 国宝 姫路城（白鷺城）</h4>
+              <p className="text-xs text-stone-600 leading-relaxed">鮮やかな白漆喰の城壁が羽ばたく白鷺のように美しい日本初のユネスコ世界文化遺産。大天守をはじめ保存状態が完璧な城郭建築の最高峰です。</p>
+            </div>
+            </div>
+          </div>
+        </section>
+
+<HubRelatedPosts currentSlug="furusato-tax-three-great-rivers-riverside-stay" />
 </div>
   );
 }

@@ -63,7 +63,7 @@ const HOTEL_DATA = {
     reviews: 721,
     special: '全20室のちいさなお宿～ふくしま恵みを活かした「かまど料理」と、肌に優しい「極上の温泉」を堪能',
     address: '福島県郡山市熱海町熱海5-39',
-    access: '磐越自動車道　磐梯熱海ＩＣより7分　ＪＲ磐越西線　磐梯��海駅より車で５分'
+    access: '磐越自動車道　磐梯熱海ＩＣより7分　ＪＲ磐越西線　磐梯熱海駅より車で５分'
   }
 };
 
@@ -417,11 +417,6 @@ export default function FeatureArticlePage() {
           </div>
         </aside>
       </div>
-    
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -504,7 +499,22 @@ export default function FeatureArticlePage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/winter-hokkaido-niseko-onsen-powder-snow-yotei-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">ニセコ温泉郷で過ごす冬の旅（11・12月）！道産黒毛和牛！名宿5選</span>
+            </a>
+            <a href="/winter-hokkaido-shikotsuko-luxury-aonoza-suizantei-shiraogyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【支笏湖ブルーの初冬静寂と全室温泉露天付きラグジュアリースイート】2026-2027年11-12月の北海道・支笏湖！最高峰「碧の座」＆レイクサイド名宿・北海道産白老牛と冬の極上毛ガニ名宿5選</span>
+            </a>
+            <a href="/winter-hokkaido-wakkanai-soya-cape-sunrise-tako-shabu-soya-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月北海道：日本最北端「宗谷岬」冬の初日！名宿5選</span>
+            </a>
+            <a href="/autumn-budget-hokkaido-hakodate-station-goryokaku-asaichi-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">函館駅前：五稜郭紅葉＆函館朝市・活イカ・塩ラーメン！2,000円台〜泊まれる格安ホテル5選</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>

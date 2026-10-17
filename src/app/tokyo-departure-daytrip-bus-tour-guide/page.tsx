@@ -202,7 +202,7 @@ export default function TokyoDepartureDaytripBusTourPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-10 md:py-14 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「季節のフルーツ狩り・絶景温泉・食べ放題の最強プラン徹底比較」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「季節のフルーツ狩り・絶景温泉・食べ放題の最強プラン徹底比較」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"東京・新宿発 日帰りバスツアーおすすめ2026：季節のフルーツ狩り・絶景温泉・食べ放題の最強プラン徹底比較エリアでは、「アパホテル〈東新宿駅前〉」（楽天評価★4.08・クチコミ705件、所在地：東京都新宿区大久保1-1-48）をはじめとする宿を拠点にし、最寄り駅（主要駅）やアクセス条件（●副都心線・大江戸線「東新宿駅」B2/A2出口徒歩1分、JR新宿駅東口徒歩20分）に合わせて午前中に周辺観光名所を巡り、15時のチェックイン後に温泉や夕食会席を堪能するスケジュールが最も効率的です。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"宿泊予約時は最安料金目安（例：「石和温泉　ホテル君佳（伊東園ホテルズ）」は1名あたり¥7,898〜）や駐車場条件（コインパーキング併設。）を事前に確認しましょう。連休や紅葉・年末年始シーズンは早期に満室となるため、楽天トラベルの早期割引プランやクーポンの活用がおすすめです。"}}]}) }}
       />
         {/* 🌟 Official Banner Section */}
         <section className="bg-gradient-to-r from-emerald-600 via-teal-600 to-emerald-700 rounded-3xl p-6 md:p-8 text-white shadow-xl shadow-emerald-900/10 flex flex-col items-center justify-between gap-6 border border-emerald-400/30">
@@ -512,12 +512,6 @@ export default function TokyoDepartureDaytripBusTourPage() {
             </Link>
           </div>
         </section>
-      
-        {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
-                {/* Model Course Section */}
         
 
         {/* FAQ Section */}
@@ -535,7 +529,7 @@ export default function TokyoDepartureDaytripBusTourPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。
+                A. 東京・新宿発 日帰りバスツアーおすすめ2026：季節のフルーツ狩り・絶景温泉・食べ放題の最強プラン徹底比較では、最寄り駅からの送迎バス運行時間やチェックイン時刻（通常15:00）から逆算し、午前中に主要な景勝地・寺社・市場を巡り、午後は宿の天然温泉や地元食材の会席料理をゆっくり堪能する行程が最も満足度の高い回り方です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -544,7 +538,7 @@ export default function TokyoDepartureDaytripBusTourPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。
+                A. 楽天トラベルで予約する際は、無料駐車場の台数・予約要否、露天風呂付き客室や部屋食プランの有無、そして5と0のつく日クーポンや早期割引プランの対象期間を事前に比較確認しておくと安心です。
               </p>
             </details>
           </div>
@@ -559,7 +553,22 @@ export default function TokyoDepartureDaytripBusTourPage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-
+            <a href="/hokkaido-akan-mashu-kussharo-lake-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">北海道・阿寒湖＆摩周湖・屈斜路湖：神秘のカルデラ三湖・阿寒アイヌコタン＆まりも・硫黄山温泉宿 厳選ガイド</span>
+            </a>
+            <a href="/hokkaido-kawayu-solo-retreat-acid-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">道東・川湯温泉ひとり旅・硫黄山pH1.7強酸性泉おこもり：釘も溶かす日本屈指の酸性硫黄泉・摩周湖の霧・エゾ鹿料理！阿寒摩周の秘境厳選3宿</span>
+            </a>
+            <a href="/hokkaido-toyako-solo-retreat-lakeview-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">洞爺湖温泉ひとり旅・湖畔絶景おこもり：インフィニティ露天風呂・ロングラン花火・道産牛フレンチ会席！支笏洞爺国立公園厳選3宿</span>
+            </a>
+            <a href="/traditional-hokkaido-kaisen-don-morning-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+              <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">2026年：朝からいくら・ウニ・ホタテかけ放題！北海道の海鮮勝手丼朝食が凄すぎるホテル5選</span>
+            </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
