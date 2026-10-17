@@ -85,3 +85,4 @@ showcase_kyoto
 yatsugatake-kiyosato-kobuchisawa-hotels-guide
 showcase_aomori
 infinity-hot-spring-ocean-view-baths-hotels-guide
+showcase_shizuoka
