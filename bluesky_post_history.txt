@@ -81,3 +81,4 @@ showcase_nara
 october-travel-city-otaru-yoichi-kids-family-guide
 showcase_shizuoka
 kagoshima-city-sakurajima-tenmonkan-hotels-guide
+showcase_kyoto
