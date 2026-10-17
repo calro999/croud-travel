@@ -77,3 +77,4 @@ showcase_nagano
 hot-spring-workation-resort-coworking-hotels-guide
 showcase_nagano
 yatsugatake-kiyosato-starry-sky-highland-hotels-guide
+showcase_nara
