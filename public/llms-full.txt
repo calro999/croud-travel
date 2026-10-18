@@ -40,7 +40,7 @@
 - [山口県（36件）](https://croud-travel.pages.dev/llms/35.txt)
 - [徳島県（31件）](https://croud-travel.pages.dev/llms/36.txt)
 - [香川県（38件）](https://croud-travel.pages.dev/llms/37.txt)
-- [愛媛県（46件）](https://croud-travel.pages.dev/llms/38.txt)
+- [愛媛県（47件）](https://croud-travel.pages.dev/llms/38.txt)
 - [高知県（41件）](https://croud-travel.pages.dev/llms/39.txt)
 - [福岡県（52件）](https://croud-travel.pages.dev/llms/40.txt)
 - [佐賀県（47件）](https://croud-travel.pages.dev/llms/41.txt)

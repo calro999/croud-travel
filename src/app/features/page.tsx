@@ -19,17 +19,15 @@ export const metadata: Metadata = {
 export const dynamic = 'force-static';
 
 async function getFeaturePosts(): Promise<FeaturePost[]> {
-  const postsDir = path.join(process.cwd(), "src", "data", "posts");
-  if (!fs.existsSync(postsDir)) {
-    return [];
-  }
-  const files = fs.readdirSync(postsDir).filter(f => f.endsWith(".json"));
-  const posts: FeaturePost[] = [];
+  try {
+    const postsJsonPath = path.join(process.cwd(), "public", "data", "posts.json");
+    if (!fs.existsSync(postsJsonPath)) {
+      return [];
+    }
+    const allPosts = JSON.parse(fs.readFileSync(postsJsonPath, "utf-8"));
+    const posts: FeaturePost[] = [];
 
-  for (const file of files) {
-    try {
-      const data = JSON.parse(fs.readFileSync(path.join(postsDir, file), "utf-8"));
-      // is_special_feature === true のもののみ抽出
+    for (const data of allPosts) {
       if (data.is_special_feature === true) {
         posts.push({
           id: data.id,
@@ -41,16 +39,16 @@ async function getFeaturePosts(): Promise<FeaturePost[]> {
           prefecture: data.prefecture || "全国",
         });
       }
-    } catch (e) {
-      console.error(`Error reading ${file}:`, e);
     }
+    posts.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+    return posts;
+  } catch (e) {
+    console.error("Error reading feature posts from posts.json:", e);
+    return [];
   }
-
-  // 新しい順（降順）にソート
-  posts.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
-
-  return posts;
 }
+
+
 
 export default async function FeaturesPage() {
   const posts = await getFeaturePosts();
