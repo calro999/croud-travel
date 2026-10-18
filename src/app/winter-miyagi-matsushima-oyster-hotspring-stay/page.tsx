@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【11月解禁！松島・三陸の極上生牡蠣＆焼き牡蠣】日本三景パノラマと海の幸会席名湯宿5選",
     "description": "11月から本格シーズンを迎える日本三景・松島の冬の名物「松島かき」！大粒で濃厚なクリーミーさを誇る生牡蠣、香ばしい焼き牡蠣、熱々の牡蠣鍋と、松島湾に昇る絶景の朝日を望む展望露天風呂を堪能する宮城の冬旅。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/5114/5114.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

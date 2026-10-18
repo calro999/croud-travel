@@ -67,8 +67,8 @@ export default function NasuWinterPage() {
         "headline": "【11・12月那須温泉郷の初冬高原美と名湯】茶臼岳雪化粧と開湯千三百年鹿の湯・最高峰那須与一牛＆高原温泉会席の宿5選",
         "description": "舒明天皇の御代、白鹿の傷を癒やした伝説から千三百年。那須連山茶臼岳の山懐に湧く栃木県最古の名湯「那須温泉郷」。11月中旬の冠雪から12月の白銀パノラマへと移ろう初冬のロイヤルリゾート。名湯「鹿の湯」源泉を引く白濁露天と、最高峰ブランド「那須与一牛」を味わう名宿ガイド。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/56935/56935.jpg",
-        "datePublished": "T00:00:00+09:00",
-        "dateModified": "T00:00:00+09:00",
+        "datePublished": "2026-10-18T00:00:00+09:00",
+        "dateModified": "2026-10-18T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

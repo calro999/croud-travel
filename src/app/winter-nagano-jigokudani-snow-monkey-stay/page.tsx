@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【12月開幕！地獄谷スノーモンキー＆渋温泉郷】温泉に入る猿鑑賞と九湯めぐりレトロ宿5選",
     "description": "世界中から観光客が訪れる冬の世界的名所「地獄谷野猿公苑のスノーモンキー」！雪のなかで気持ちよさそうに天然温泉に浸かる猿たちを観察し、石畳の風情ある渋温泉街で厄除け「九湯めぐり」を楽しむ冬の信州旅。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/134773/134773.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

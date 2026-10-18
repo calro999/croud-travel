@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【大激流ラフティング】吉野川・球磨川で挑む白波アドベンチャー＆天然温泉リゾート宿5選",
     "description": "日本屈指の激流ポイント吉野川や球磨川、利根川で楽しむエキサイティングなラフティング！白波を乗り越える大興奮のアドベンチャーと、疲れた体を癒やす天然温泉大浴場・絶景サウナを備えた宿を厳選。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/1614/1614.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

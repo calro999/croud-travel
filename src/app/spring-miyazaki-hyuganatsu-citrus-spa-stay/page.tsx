@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【宮崎日向夏スイーツ＆宮崎牛】爽やか柑橘と南国リゾート青島温泉の美食名湯宿5選",
     "description": "黄色い皮と白皮の甘みが絶妙な宮崎特産「日向夏（ひゅうがなつ）」の特製パフェと、日本一の栄冠に輝く「宮崎牛」！青島神社や鬼の洗濯板を望む青島温泉のトロトロ美肌湯で、南国の光と風を感じる癒やしステイ。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/17916/17916.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

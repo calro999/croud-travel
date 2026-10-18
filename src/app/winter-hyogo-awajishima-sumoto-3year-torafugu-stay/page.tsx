@@ -71,8 +71,8 @@ export default function AwajishimaWinterPage() {
         "headline": "【11・12月淡路島洲本温泉の初冬海景と淡路島3年とらふぐ】紀淡海峡パノラマ露天と冬の絶品3年とらふぐ＆淡路牛会席の宿5選",
         "description": "鳴門海峡の激流が育む冬の最高峰ブランド「淡路島3年とらふぐ」。通常2年のところ3年もの歳月をかけてじっくり育て上げた極上の身の締まりと濃厚白子。紀淡海峡の水平線から昇る朝日を望む洲本温泉のインフィニティ露天風呂と、淡路牛・とらふぐフルコースを堪能する名宿5選。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/7956/7956.jpg",
-        "datePublished": "T00:00:00+09:00",
-        "dateModified": "T00:00:00+09:00",
+        "datePublished": "2026-10-18T00:00:00+09:00",
+        "dateModified": "2026-10-18T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

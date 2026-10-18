@@ -48,8 +48,8 @@ export default function IsawaWinterPage() {
         "headline": "【11・12月石和温泉の新酒ワインと美肌湯】富士を望む甲州名湯と甲州牛ステーキ・冬のほうとう会席宿5選",
         "description": "11月3日の山梨ヌーボー解禁とともに華やぐ甲州・石和温泉。雪化粧した富士山や南アルプスを望み、毎分湧出する豊富な美肌アルカリ単純温泉に身を浸す贅沢。最高峰A5ランク甲州牛のステーキと熱々の甲州かぼちゃほうとう、できたての新酒甲州ワインを味わい尽くす初冬の美食湯宿ガイド。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/19894/19894.jpg",
-        "datePublished": "T00:00:00+09:00",
-        "dateModified": "T00:00:00+09:00",
+        "datePublished": "2026-10-18T00:00:00+09:00",
+        "dateModified": "2026-10-18T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

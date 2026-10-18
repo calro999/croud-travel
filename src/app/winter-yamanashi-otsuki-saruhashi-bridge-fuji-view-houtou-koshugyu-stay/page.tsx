@@ -69,7 +69,7 @@ export default function FeaturePage() {
           itemOffered: {
             '@type': 'LodgingBusiness',
             name: '山梨泊まれる温泉　より道の湯',
-            url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F167096%2F167096.html',
+            url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183891%2F183891.html',
             image: 'https://img.travel.rakuten.co.jp/share/HOTEL/167096/167096.jpg',
             address: '山梨県 都留市つる1-13-31',
             aggregateRating: {
@@ -83,7 +83,7 @@ export default function FeaturePage() {
           itemOffered: {
             '@type': 'LodgingBusiness',
             name: '庭園と感動の宿　富士山温泉　ホテル鐘山苑',
-            url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19206%2F19206.html',
+            url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F167096%2F167096.html',
             image: 'https://img.travel.rakuten.co.jp/share/HOTEL/19206/19206.jpg',
             address: '山梨県 富士吉田市上吉田東9-1-18',
             aggregateRating: {
@@ -97,7 +97,7 @@ export default function FeaturePage() {
           itemOffered: {
             '@type': 'LodgingBusiness',
             name: 'ホテルマイステイズ富士山　展望温泉',
-            url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F158471%2F158471.html',
+            url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19206%2F19206.html',
             image: 'https://img.travel.rakuten.co.jp/share/HOTEL/158471/158471.jpg',
             address: '山梨県 富士吉田市新倉2654',
             aggregateRating: {
@@ -111,7 +111,7 @@ export default function FeaturePage() {
           itemOffered: {
             '@type': 'LodgingBusiness',
             name: '富士山と湖を望むリゾート　ホテル　マウント富士',
-            url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F75376%2F75376.html',
+            url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F158471%2F158471.html',
             image: 'https://img.travel.rakuten.co.jp/share/HOTEL/75376/75376.jpg',
             address: '山梨県 南都留郡山中湖村山中1360-83',
             aggregateRating: {

@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【極上近江牛ステーキ＆伝統鮒ずし】琵琶湖の恵みと名湯！おごと温泉の絶景美食宿5選",
     "description": "日本三大和牛「近江牛」のとろける霜降りステーキやしゃぶしゃぶ、そして千年の歴史を誇る伝統発酵食「鮒ずし」！琵琶湖を一望する名湯・おごと温泉で、滋賀の豊かな食文化とレイクビュー露天風呂を堪能。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/3165/3165.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

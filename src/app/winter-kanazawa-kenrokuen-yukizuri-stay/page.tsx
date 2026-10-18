@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【11月雪吊り開幕！金沢兼六園＆加賀百万石美食】冬の風物詩と近江町市場・山代名湯宿5選",
     "description": "11月1日から始まる日本三名園・兼六園の冬の風物詩「雪吊り（ゆきづり）」！幾何学模様のように美しい円錐形の縄張りと紅葉・初雪の情景を愛で、解禁直後の加能ガニやのどぐろ、金沢温泉郷の名湯に寛ぐ雅な北陸旅。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/109160/109160.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

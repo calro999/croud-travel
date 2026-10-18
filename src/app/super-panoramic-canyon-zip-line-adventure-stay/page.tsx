@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【爽快アクティビティ】森と渓谷を空中滑走ジップライン！自然体験＆温泉が楽しめる大自然リゾート宿5選",
     "description": "大自然の渓谷や森林の上空を一気に滑走するメガジップライン！爽快なアドベンチャー体験と、疲れた体を癒やす天然温泉・絶景露天風呂を兼ね備えた人気リゾートホテルを厳選紹介。カップルやファミリーにも最適！",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/164639/164639.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

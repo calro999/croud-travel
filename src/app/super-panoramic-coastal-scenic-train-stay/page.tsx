@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【絶景観光列車と温泉旅】五能線・リゾートしらかみ沿線！日本海パノラマ夕日と不老ふ死温泉宿5選",
     "description": "日本一の人気ローカル線「JR五能線」や観光列車「リゾートしらかみ」で行く憧れの鉄道旅！波打ち際のひょうたん露天風呂で有名な黄金崎不老ふ死温泉や、日本海の夕日を望む名湯宿を徹底解説。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/143326/143326.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

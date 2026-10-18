@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【冬が一番脂がのる！稲取・下田の極上金目鯛】しゃぶしゃぶ＆姿煮と伊豆絶景温泉宿5選",
     "description": "11月〜12月の初冬に脂の乗りが最高潮を迎える伊豆名物「地金目鯛」！鮮やかな紅色の身をサッと出汁にくぐらせる金目鯛しゃぶしゃぶや、秘伝のタレで煮付けた丸ごと姿煮、そして相模湾一望の絶景露天風呂を堪能する旅。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/13557/13557.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【大館曲げわっぱと比内地鶏きりたんぽ】秋田の伝統工芸と乳頭温泉郷の秘湯宿5選",
     "description": "秋田杉の美しい木目と香りが際立つ伝統工芸「大館曲げわっぱ」の器と、炭火で焼いた名物「比内地鶏きりたんぽ鍋」！全国の温泉ファンが憧れる秘湯・乳頭温泉郷の乳白色の露天風呂に癒やされる旅。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/70772/70772.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

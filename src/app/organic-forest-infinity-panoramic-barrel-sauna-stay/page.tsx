@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【絶景ガラス張りバレルサウナ】天空のパノラマビュー＆天然湧水水風呂の温泉宿5選",
     "description": "前面が総ガラス張りの最新木製バレルサウナ！サウナ室の中から絶景の山並みや湖、星空を眺めながらのアロマロウリュ。地下水かけ流しの水風呂と天空デッキでの外気浴が自慢の全国屈指のサウナ宿を厳選。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/147856/147856.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

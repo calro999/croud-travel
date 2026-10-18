@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【九谷焼の鮮やかな器と加賀懐石】五彩の美学！山代・山中・片山津の加賀温泉郷名湯宿5選",
     "description": "「ジャパン・クタニ」として世界を魅了する伝統工芸「九谷焼（くたにやき）」！緑・黄・赤・紫・紺青の五彩が美しい器で味わう日本海の極上海鮮会席と、開湯1300年の歴史を誇る加賀温泉郷の名湯に寛ぐ雅な旅。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/5174/5174.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

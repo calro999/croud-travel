@@ -48,8 +48,8 @@ export default function FukuokaChristmasPage() {
         "headline": "【11・12月福岡クリスマスアドベント】博多駅・天神の光の街と本場もつ鍋・水炊き極上宿5選",
         "description": "11月中旬から博多駅・天神・中洲が煌めく日本最大級の祭典「福岡クリスマスアドベント」！限定マグカップで楽しむホットワインと冬の博多名物（もつ鍋・水炊き）、冷えた体を芯から温める天然温泉・大浴場付きの厳選ホテルステイ。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/65439/65439.jpg",
-        "datePublished": "T00:00:00+09:00",
-        "dateModified": "T00:00:00+09:00",
+        "datePublished": "2026-10-18T00:00:00+09:00",
+        "dateModified": "2026-10-18T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

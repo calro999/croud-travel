@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【11・12月ゆず湯＆冬至の香り】日本一の高知ゆず温泉と戻りカツオ塩たたき宿5選",
     "description": "11月から収穫最盛期を迎え、12月冬至の風物詩となる「ゆず湯」！日本一の生産量を誇る高知・北川村や物部川水系の爽やかなゆずを浮かべた天然温泉と、脂がのった極上の戻りカツオ塩たたきを堪能する温もり旅。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/14883/14883.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

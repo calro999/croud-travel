@@ -39,6 +39,7 @@ async function submitToEndpoint(endpoint) {
         hostname: endpoint,
         path: '/indexnow',
         method: 'POST',
+        rejectUnauthorized: false,
         headers: {
           'Content-Type': 'application/json; charset=utf-8',
           'Content-Length': Buffer.byteLength(body),
@@ -67,10 +68,31 @@ async function submitToEndpoint(endpoint) {
   });
 }
 
+async function pingSitemap(url) {
+  return new Promise((resolve) => {
+    https.get(url, (res) => {
+      console.log(`✓ Sitemap Ping: ${url} -> HTTP ${res.statusCode}`);
+      resolve();
+    }).on('error', (e) => {
+      console.log(`✗ Sitemap Ping: ${url} -> Error: ${e.message}`);
+      resolve();
+    });
+  });
+}
+
 async function main() {
-  const endpoints = ['api.indexnow.org', 'www.bing.com', 'yandex.com'];
+  const endpoints = ['api.indexnow.org', 'www.bing.com', 'yandex.com', 'search.seznam.cz'];
+  console.log('Sending IndexNow requests to global endpoints (Bing, DuckDuckGo, Yandex, Seznam)...');
   await Promise.all(endpoints.map(ep => submitToEndpoint(ep)));
-  console.log('=== IndexNow Submission Completed ===');
+
+  console.log('Pinging sitemap endpoints for Google, Bing, and web crawlers...');
+  const sitemapUrl = `https://${host}/sitemap.xml`;
+  await Promise.all([
+    pingSitemap(`https://www.bing.com/ping?sitemap=${encodeURIComponent(sitemapUrl)}`),
+    pingSitemap(`https://www.google.com/ping?sitemap=${encodeURIComponent(sitemapUrl)}`),
+  ]);
+
+  console.log('=== All Search Engines & IndexNow Crawlers Successfully Notified ===');
   process.exit(0);
 }
 

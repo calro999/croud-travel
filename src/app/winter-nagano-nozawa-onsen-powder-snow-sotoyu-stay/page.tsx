@@ -48,8 +48,8 @@ export default function NozawaWinterPage() {
         "headline": "【12月開幕！野沢温泉パウダースノー】天然雪100%ゲレンデと名物13外湯めぐり＆信州牛美食宿5選",
         "description": "12月上旬オープン！天然雪100%の極上パウダースノーと総滑走距離44kmを誇る「野沢温泉スキー場」！江戸時代から湯仲間が大切に守り継ぐ名物「13の外湯めぐり」と、冬の風物詩・野沢菜本漬け、信州牛会席に寛ぐ老舗温泉宿ステイ。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/8186/8186.jpg",
-        "datePublished": "T00:00:00+09:00",
-        "dateModified": "T00:00:00+09:00",
+        "datePublished": "2026-10-18T00:00:00+09:00",
+        "dateModified": "2026-10-18T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

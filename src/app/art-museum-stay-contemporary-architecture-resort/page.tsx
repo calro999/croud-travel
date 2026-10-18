@@ -72,8 +72,8 @@ export default function Page() {
   {
     "hotelNo": 40045,
     "hotelName": "あかん遊久の里鶴雅",
-    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D40045",
-    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D40045%26f_flg%3DPLAN",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40045%2F40045.html",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40045%2F40045.html%26f_flg%3DPLAN",
     "hotelMinCharge": 19541,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40045/40045.jpg",
     "userReview": "バイキングも温泉も混雑知らずで快適バイキングが和洋折衷よりどりみどりですお盆で違うホテルの場合ですと激混みだわ...席待ちするわ...料理取るのも一苦労でしたが、こちらのホテルは座席数も多くバイキ。",
@@ -86,8 +86,8 @@ export default function Page() {
   {
     "hotelNo": 41416,
     "hotelName": "夕凪の湯　ＨＯＴＥＬ花樹海",
-    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D41416",
-    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D41416%26f_flg%3DPLAN",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F41416%2F41416.html",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F41416%2F41416.html%26f_flg%3DPLAN",
     "hotelMinCharge": 15950,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/41416/41416.jpg",
     "userReview": "高台からの絶景と丁寧な接客に満足ちょっと高台にあるホテルで、駐車場から見える景色がきれいでした。ホテルに到着してすぐに係の方がお出迎えしてくださり、荷物を部屋まで運んでいただきました。景色。",
@@ -100,8 +100,8 @@ export default function Page() {
   {
     "hotelNo": 193212,
     "hotelName": "Ｈｉｎｚａｎ",
-    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D193212",
-    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D193212%26f_flg%3DPLAN",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F193212%2F193212.html",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F193212%2F193212.html%26f_flg%3DPLAN",
     "hotelMinCharge": 12310,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/193212/193212.jpg",
     "userReview": "絶景のロケーションとおもてなしに心から癒やされました。",

@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【最高峰神戸牛＆香住紅ズワイガニ】有馬・城崎で味わう兵庫二大贅沢グルメと名湯宿5選",
     "description": "世界に誇る最高峰ブランド牛「神戸ビーフ」と、日本海の冬・春の味覚「香住ガニ（紅ズワイガニ）」！日本三古湯・有馬温泉の金泉・銀泉や城崎温泉の外湯めぐりとともに、兵庫が誇る究極の美食を堪能する極上旅。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/1206/1206.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

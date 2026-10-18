@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【但馬牛ステーキ＆香住ガニ】兵庫・城崎温泉の七湯めぐりと極上グルメ宿5選",
     "description": "すべての黒毛和牛のルーツ「但馬牛」の極上サーロインステーキと、春の味覚「香住ガニ」！柳並木が美しい城崎温泉の外湯めぐり（七湯）を浴衣と下駄で楽しみ、関西最高峰の美食と温泉情緒に浸る贅沢ステイ。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/8642/8642.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

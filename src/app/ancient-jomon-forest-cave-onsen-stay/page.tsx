@@ -72,8 +72,8 @@ export default function Page() {
   {
     "hotelNo": 1971,
     "hotelName": "富山の奥座敷、秘湯の一軒宿　小川温泉元湯　ホテルおがわ",
-    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D1971",
-    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D1971%26f_flg%3DPLAN",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1971%2F1971.html",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1971%2F1971.html%26f_flg%3DPLAN",
     "hotelMinCharge": 7700,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1971/1971.jpg",
     "userReview": "料理も温泉も最高、スタッフの対応も親切お料理も美味しく、お風呂も最高。お部屋も掃除が行き届き、とても綺麗でした!スタッフの方もとても親切で、とても良かったです。",
@@ -86,8 +86,8 @@ export default function Page() {
   {
     "hotelNo": 31988,
     "hotelName": "奥天竜不動温泉　佐和屋",
-    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D31988",
-    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D31988%26f_flg%3DPLAN",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31988%2F31988.html",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31988%2F31988.html%26f_flg%3DPLAN",
     "hotelMinCharge": 8140,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31988/31988.jpg",
     "userReview": "部屋からの景色と洞窟風呂が面白い部屋もきれいで景色もよかったです。また、洞窟風呂は、なかなか面白かったです。",
@@ -100,8 +100,8 @@ export default function Page() {
   {
     "hotelNo": 39306,
     "hotelName": "越後大湯温泉　源泉湯の宿　かいり",
-    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D39306",
-    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D39306%26f_flg%3DPLAN",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F39306%2F39306.html",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F39306%2F39306.html%26f_flg%3DPLAN",
     "hotelMinCharge": 12870,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/39306/39306.jpg",
     "userReview": "バリアフリールームは快適、車椅子利用に改善の余地あり【良かった点】バリアフリールームのお部屋はとても快適で過ごしやすかったです。夕食の食堂では個室にご案内いただき、落ち着いて美味しい食事を楽し。",

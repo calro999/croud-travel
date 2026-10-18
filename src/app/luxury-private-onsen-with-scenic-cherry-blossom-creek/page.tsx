@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【渓流桜の特等席】清流沿いに咲き誇る満開の桜とプライベート露天風呂！春の絶景温泉宿5選",
     "description": "清流のせせらぎと、川沿いに咲き誇る淡いピンクの桜並木！客室専用の露天風呂から舞い散る花びらを眺め、夜はライトアップされた夜桜を独占できる、春限定の贅沢なお花見隠れ宿を徹底解説。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/181693/181693.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

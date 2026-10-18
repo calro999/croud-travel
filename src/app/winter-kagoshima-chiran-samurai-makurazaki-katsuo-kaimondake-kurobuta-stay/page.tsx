@@ -69,7 +69,7 @@ export default function FeaturePage() {
           itemOffered: {
             '@type': 'LodgingBusiness',
             name: '鹿児島　砂むし温泉　指宿白水館',
-            url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F12529%2F12529.html',
+            url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F50792%2F50792.html',
             image: 'https://img.travel.rakuten.co.jp/share/HOTEL/12529/12529.jpg',
             address: '鹿児島県 指宿市東方12126-12',
             aggregateRating: {
@@ -83,7 +83,7 @@ export default function FeaturePage() {
           itemOffered: {
             '@type': 'LodgingBusiness',
             name: '指宿温泉　夫婦露天風呂の宿　吟松（ぎんしょう）',
-            url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F49347%2F49347.html',
+            url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F12529%2F12529.html',
             image: 'https://img.travel.rakuten.co.jp/share/HOTEL/49347/49347.jpg',
             address: '鹿児島県 指宿市湯の浜5-26-29',
             aggregateRating: {
@@ -97,7 +97,7 @@ export default function FeaturePage() {
           itemOffered: {
             '@type': 'LodgingBusiness',
             name: '指宿温泉　休暇村　指宿',
-            url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8580%2F8580.html',
+            url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F49347%2F49347.html',
             image: 'https://img.travel.rakuten.co.jp/share/HOTEL/8580/8580.jpg',
             address: '鹿児島県 指宿市東方10445',
             aggregateRating: {
@@ -111,7 +111,7 @@ export default function FeaturePage() {
           itemOffered: {
             '@type': 'LodgingBusiness',
             name: '吹上砂丘荘',
-            url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F198633%2F198633.html',
+            url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8580%2F8580.html',
             image: 'https://img.travel.rakuten.co.jp/share/HOTEL/198633/198633.jpg',
             address: '鹿児島県 日置市吹上町今田1004-3',
             aggregateRating: {

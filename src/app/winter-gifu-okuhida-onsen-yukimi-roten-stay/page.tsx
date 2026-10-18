@@ -67,8 +67,8 @@ export default function OkuhidaWinterPage() {
         "headline": "【11・12月奥飛騨温泉郷の雪見露天と北アルプス絶景】圧倒的湯量と雄大な山岳美・飛騨牛朴葉味噌焼き会席の宿5選",
         "description": "北アルプス穂高連峰の懐に抱かれた日本屈指の温泉天国・岐阜県奥飛騨温泉郷。11月下旬の初冠雪から12月の白銀世界へと移ろう初冬、毎分44,000リットルを超える圧倒的な湯量を誇る雪見大露天風呂と、極上A5等級飛騨牛の香ばしい朴葉味噌焼き・囲炉裏会席を五感で堪能する冬の名宿ガイド。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/65440/65440.jpg",
-        "datePublished": "T00:00:00+09:00",
-        "dateModified": "T00:00:00+09:00",
+        "datePublished": "2026-10-18T00:00:00+09:00",
+        "dateModified": "2026-10-18T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

@@ -69,7 +69,7 @@ export default function FeaturePage() {
           itemOffered: {
             '@type': 'LodgingBusiness',
             name: '筑波山京成ホテル',
-            url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F128427%2F128427.html',
+            url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10637%2F10637.html',
             image: 'https://img.travel.rakuten.co.jp/share/HOTEL/128427/128427.jpg',
             address: '茨城県 つくば市筑波1',
             aggregateRating: {
@@ -83,7 +83,7 @@ export default function FeaturePage() {
           itemOffered: {
             '@type': 'LodgingBusiness',
             name: 'ホテルベストランド',
-            url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68560%2F68560.html',
+            url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F128427%2F128427.html',
             image: 'https://img.travel.rakuten.co.jp/share/HOTEL/68560/68560.jpg',
             address: '茨城県 つくば市研究学園五丁目8番地4',
             aggregateRating: {
@@ -97,7 +97,7 @@ export default function FeaturePage() {
           itemOffered: {
             '@type': 'LodgingBusiness',
             name: 'ダイワロイネットホテルつくば',
-            url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F79343%2F79343.html',
+            url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68560%2F68560.html',
             image: 'https://img.travel.rakuten.co.jp/share/HOTEL/79343/79343.jpg',
             address: '茨城県 つくば市吾妻1-5-7',
             aggregateRating: {
@@ -111,7 +111,7 @@ export default function FeaturePage() {
           itemOffered: {
             '@type': 'LodgingBusiness',
             name: 'ホテル日航つくば',
-            url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1302%2F1302.html',
+            url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F79343%2F79343.html',
             image: 'https://img.travel.rakuten.co.jp/share/HOTEL/1302/1302.jpg',
             address: '茨城県 つくば市吾妻1-1364-1',
             aggregateRating: {

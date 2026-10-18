@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【極上A5伊万里牛＆武雄温泉美肌湯】1300年の名湯と佐賀の最高峰グルメを堪能する名宿5選",
     "description": "澄んだ空気と清らかな水が育んだ最高級黒毛和牛「伊万里牛」！辰野金吾設計の楼門で有名な歴史ある武雄温泉のトロトロ美肌湯と、佐賀牛・伊万里牛の極上ステーキに舌鼓を打つ雅な九州温泉旅。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/188055/188055.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

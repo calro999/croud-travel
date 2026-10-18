@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【満天の星降る夜】客室専用星空テラス＆寝湯露天風呂！阿智村・八ヶ岳の夜空独占温泉宿5選",
     "description": "日本一の星空と称される長野県阿智村や八ヶ岳の高原リゾート。客室専用の星空テラスや寝湯露天風呂から、誰にも邪魔されず夜空いっぱいに広がる天の川を鑑賞できるロマンチックな隠れ宿を厳選。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/153619/153619.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

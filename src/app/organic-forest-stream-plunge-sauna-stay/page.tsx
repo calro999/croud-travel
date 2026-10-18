@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【清流ダイブ＆天然ととのい】目の前の川へ直接飛び込む清流サウナ！渓流グランピング＆温泉宿5選",
     "description": "薪サウナでアツアツに蒸された後、そのまま透き通る天然の清流へダイブ！マイナスイオン溢れる渓谷の風を浴びながらの外気浴は究極のととのい体験。天然温泉とサウナ飯も充実した大自然リゾートを厳選。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/2937/2937.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

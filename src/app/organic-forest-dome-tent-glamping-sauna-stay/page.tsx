@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【星空ドームテント×テントサウナ】大自然に包まれる贅沢グランピング＆自家源泉温泉宿5選",
     "description": "開放感あふれる大型ドームテント、プライベートなテントサウナ＆セルフロウリュ、そして夜空に輝く満天の星！天然温泉の大浴場も併設された、贅沢で快適な最新アウトドアリゾートを厳選紹介。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/171946/171946.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

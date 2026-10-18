@@ -147,7 +147,7 @@ export default function AutumnBudgetTokushimaStationHotelsPage() {
             </div>
             <div className="pt-2">
               <a
-                href="https://hb.afl.rakuten.co.jp/hgc/g0190dd6.2qbwy9f5.g0190dd6.2qbwzc3e/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7503%2F7503.html"
+                href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7503%2F7503.html"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-500 hover:to-purple-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
@@ -202,7 +202,7 @@ export default function AutumnBudgetTokushimaStationHotelsPage() {
             </div>
             <div className="pt-2">
               <a
-                href="https://hb.afl.rakuten.co.jp/hgc/g0190dd6.2qbwy9f5.g0190dd6.2qbwzc3e/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F532%2F532.html"
+                href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F532%2F532.html"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-500 hover:to-purple-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
@@ -257,7 +257,7 @@ export default function AutumnBudgetTokushimaStationHotelsPage() {
             </div>
             <div className="pt-2">
               <a
-                href="https://hb.afl.rakuten.co.jp/hgc/g0190dd6.2qbwy9f5.g0190dd6.2qbwzc3e/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68537%2F68537.html"
+                href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68537%2F68537.html"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-500 hover:to-purple-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
@@ -312,7 +312,7 @@ export default function AutumnBudgetTokushimaStationHotelsPage() {
             </div>
             <div className="pt-2">
               <a
-                href="https://hb.afl.rakuten.co.jp/hgc/g0190dd6.2qbwy9f5.g0190dd6.2qbwzc3e/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108376%2F108376.html"
+                href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108376%2F108376.html"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-500 hover:to-purple-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
@@ -367,7 +367,7 @@ export default function AutumnBudgetTokushimaStationHotelsPage() {
             </div>
             <div className="pt-2">
               <a
-                href="https://hb.afl.rakuten.co.jp/hgc/g0190dd6.2qbwy9f5.g0190dd6.2qbwzc3e/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F149130%2F149130.html"
+                href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F149130%2F149130.html"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-500 hover:to-purple-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"

@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【12月開幕！蔵王樹氷スノーモンスター】幻想的な白銀世界と白濁硫黄泉のにごり湯宿5選",
     "description": "12月から姿を現す世界的に有名な冬の奇跡「蔵王の樹氷（スノーモンスター）」！ナイトクルーザーで行く樹氷ライトアップ鑑賞と、開湯1900年の歴史を誇るpH1.3強酸性・白濁硫黄泉の源泉かけ流しで温まる感動の冬旅。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/5722/5722.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

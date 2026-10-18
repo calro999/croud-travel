@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【冬こそ温まる！別府八湯地獄めぐり＆地獄蒸し】日本一の湧出量と湯けむり展望露天宿5選",
     "description": "湧出量・源泉数ともに日本一を誇るおんせん県おおいたの象徴「別府温泉郷」！立ち上る白い湯けむりが冬空に映える鉄輪（かんなわ）温泉の「地獄蒸し料理」や、海地獄・血の池地獄などの地獄めぐり、そして極上にごり湯を満喫する旅。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/30969/30969.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

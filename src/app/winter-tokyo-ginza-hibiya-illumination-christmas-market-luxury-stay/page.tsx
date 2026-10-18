@@ -169,8 +169,8 @@ export default function TokyoGinzaHibiyaWinterPage() {
         },
         "headline": "【11・12・1月東京】銀座＆日比谷！HIBIYA Magic Timeイルミ＆東京クリスマスマーケットと銀座美食・最高峰ホテル名宿5選",
         "description": "11月中旬から1月にかけて、銀座・日比谷・有楽町は世界屈指の洗練と華やぎに満ちた冬の祝祭シーズンを迎えます。日比谷ステップ広場を幻想的なオーロラカラーで染め上げる「HIBIYA Magic Time Illumination」、日比谷公園の伝統的な「東京クリスマスマーケット」、そして銀座中央通りに輝くラグジュアリーメゾンのウインターディスプレイ。歌舞伎座の初春興行や極上の江戸前鮨・老舗すき焼きとともに味わう大人の東京冬滞在。楽天APIから最新取得した世界最高峰のホテル5選を徹底特集します。",
-        "datePublished": "T00:00:00+09:00",
-        "dateModified": "T00:00:00+09:00",
+        "datePublished": "2026-10-18T00:00:00+09:00",
+        "dateModified": "2026-10-18T00:00:00+09:00",
         "inLanguage": "ja",
         "publisher": {
           "@type": "Organization",

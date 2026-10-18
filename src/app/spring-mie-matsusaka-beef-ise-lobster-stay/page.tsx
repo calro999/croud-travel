@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【極上松阪牛＆伊勢海老会席】伊勢志摩・鳥羽の豪華二大味覚とオーシャンビュー名湯宿5選",
     "description": "日本最高峰のブランド和牛「松阪牛」と、プリプリの甘みが弾ける「伊勢海老」！伊勢志摩のリアス海岸を望む絶景展望露天風呂と、三重が誇る贅沢極まりない美食を心ゆくまで堪能する極上宿。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/4761/4761.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

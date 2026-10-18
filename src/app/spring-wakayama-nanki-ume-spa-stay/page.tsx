@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【南高梅スイーツ＆梅酒BAR】紀州特産南高梅のフルコースと白浜名湯！和歌山・南紀白浜の癒やし宿5選",
     "description": "ふっくらジューシーな最高級「紀州南高梅」を使った特製デザートや、数十種類の梅酒を飲み比べる梅酒BAR！太平洋を望む南紀白浜温泉の名湯と、クエや伊勢海老の海鮮会席を満喫する贅沢ステイ。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/130578/130578.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

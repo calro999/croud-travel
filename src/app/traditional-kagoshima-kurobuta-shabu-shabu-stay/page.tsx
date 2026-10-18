@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【鹿児島黒豚＆黒毛和牛】極上しゃぶしゃぶ会席と指宿砂むし温泉！霧島・指宿の美食名湯宿5選",
     "description": "甘みと旨味が凝縮した「かごしま黒豚」の極上出汁しゃぶしゃぶと、とろける鹿児島黒毛和牛！世界唯一の「指宿天然砂むし温泉」や神話息づく霧島温泉で、南九州最高峰の肉美食と名湯に癒やされる旅。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/8940/8940.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

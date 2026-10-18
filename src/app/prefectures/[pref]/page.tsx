@@ -53,19 +53,27 @@ export async function generateMetadata({ params }: { params: Promise<{ pref: str
 
   const subAreaNames = (prefInfo.subAreas || []).map(s => s.areaName).join("・");
   const cleanName = prefInfo.name.replace(/(県|府|東京都)$/, "").replace("東京都", "東京");
+  const spotNames = (prefInfo.famousSpots || []).slice(0, 2).map(s => s.name.split("（")[0]);
+  const spotHook = spotNames.length > 0 ? spotNames.join("・") : subAreaNames;
+  const gourmetHook = (prefInfo.gourmet || []).slice(0, 2).join("・");
+  const souvenirHook = (prefInfo.souvenirs || []).slice(0, 2).map(s => s.name.split("（")[0]).join("・");
 
   return {
-    title: `【2026】${prefInfo.name}の有名なもの・観光名所＆おすすめ温泉ホテル・お土産・地酒ガイド ｜ 日本全国・旅宿クラウド`,
-    description: `「${prefInfo.name}で有名なものは何？」「おすすめ観光名所やお土産・名湯は？」${prefInfo.name}（${subAreaNames}）の見どころ、ご当地グルメ、人気お土産、日本酒酒蔵、露天風呂付き温泉宿を完全網羅。`,
+    title: `【${cleanName}の有名なもの＆観光名所】${spotHook}・名物グルメ（${gourmetHook}）・人気温泉ホテル＆お土産完全ガイド`,
+    description: `「${prefInfo.name}で有名なものは何？」「絶対外せない観光スポットや名物グルメ・日持ちするお土産・人気温泉宿は？」${spotHook}などの王道名所から、${gourmetHook}、定番お土産（${souvenirHook}）、銘醸地酒、楽天トラベル高評価の温泉旅館・ホテルまで徹底網羅。2026年秋冬（10月〜1月）の紅葉・冬味覚・年末年始旅行にも最適！`,
     keywords: [
       prefInfo.name,
       `${prefInfo.name} 有名なもの`,
       `${cleanName} 有名なもの`,
+      `${cleanName} 名物`,
       `${prefInfo.name} 観光`,
       `${cleanName} 観光`,
       `${prefInfo.name} 温泉 おすすめ`,
+      `${cleanName} ホテル おすすめ`,
       `${prefInfo.name} お土産 定番 日持ち`,
       `${prefInfo.name} 日本酒 おすすめ`,
+      ...spotNames,
+      ...(prefInfo.gourmet || []),
       subAreaNames,
       "観光ガイド", "絶景カフェ", "トレンドお土産", "地酒日本酒", "温泉宿", "ホテル予約", "楽天トラベル"
     ].join(", "),
@@ -73,7 +81,7 @@ export async function generateMetadata({ params }: { params: Promise<{ pref: str
       canonical: `${baseUrl}/prefectures/${prefInfo.slug}/`,
     },
     openGraph: {
-      title: `${prefInfo.name} 国内最高峰 観光ポータルガイド`,
+      title: `【${cleanName}の有名なもの＆観光名所】${spotHook}・${gourmetHook}・人気温泉ホテル完全ガイド`,
       description: prefInfo.description,
       url: `${baseUrl}/prefectures/${prefInfo.slug}`,
       siteName: "日本全国・旅宿クラウド",
@@ -309,6 +317,105 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
           </div>
         </div>
       </section>
+
+      {/* 🏆 ファーストビュー直下：楽天トラベル公式データによる都道府県トップ3名宿＆3大特集ピラー導線 */}
+      {prefInfo.subAreas && prefInfo.subAreas.length > 0 && (() => {
+        const topHeroes = getRealPostsForSubArea(prefInfo.subAreas[0], allPosts, prefInfo.name, prefInfo.slug);
+        if (!topHeroes || topHeroes.length === 0) return null;
+        return (
+          <section className="bg-gradient-to-br from-amber-50/90 via-white to-orange-50/60 border-2 border-amber-300/70 rounded-3xl p-6 md:p-8 shadow-md space-y-6">
+            <div className="flex flex-col md:flex-row md:items-center justify-between gap-3 border-b border-amber-200 pb-4">
+              <div className="space-y-1">
+                <span className="inline-block text-[10px] font-black text-white bg-gradient-to-r from-red-600 to-amber-600 px-3 py-0.5 rounded-full uppercase tracking-widest shadow-2xs">
+                  🔥 2026年10月〜2027年1月（紅葉・冬味覚・年末年始）予約人気トップ3
+                </span>
+                <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900">
+                  🏆 {prefInfo.name}で今泊まるべき高評価ホテル・温泉旅館ベスト3
+                </h2>
+                <p className="text-xs text-stone-600 font-medium">
+                  楽天トラベル公式APIのクチコミ評価・宿泊満足度データから、{prefInfo.name}観光の拠点に間違いのない名宿を厳選しました。
+                </p>
+              </div>
+              <div className="flex flex-wrap gap-2">
+                <Link
+                  href={`/posts/${prefInfo.slug}-onsen-ranking-hotels-guide`}
+                  className="text-xs font-black text-amber-950 bg-amber-200/80 hover:bg-amber-300 px-3.5 py-2 rounded-xl transition shadow-2xs"
+                >
+                  ♨️ {cleanPref}の温泉ランキング10選 →
+                </Link>
+                <Link
+                  href={`/posts/${prefInfo.slug}-hotels-selection-guide`}
+                  className="text-xs font-black text-teal-950 bg-teal-100 hover:bg-teal-200 px-3.5 py-2 rounded-xl transition shadow-2xs"
+                >
+                  🏨 {cleanPref}の厳選名宿10選 →
+                </Link>
+                <Link
+                  href={`/posts/${prefInfo.slug}-famous-things-gourmet-spots-guide`}
+                  className="text-xs font-black text-rose-950 bg-rose-100 hover:bg-rose-200 px-3.5 py-2 rounded-xl transition shadow-2xs"
+                >
+                  🍱 {cleanPref}の有名なもの・名物 →
+                </Link>
+              </div>
+            </div>
+
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
+              {topHeroes.map((h, i) => (
+                <div
+                  key={h.id || i}
+                  className="bg-white rounded-2xl border border-amber-200/80 shadow-sm hover:shadow-md transition overflow-hidden flex flex-col justify-between"
+                >
+                  <div>
+                    <div className="aspect-video relative overflow-hidden bg-stone-100">
+                      {h.image && (
+                        <img
+                          src={h.image}
+                          alt={h.hotel_name}
+                          className="w-full h-full object-cover"
+                          loading="lazy"
+                        />
+                      )}
+                      <span className="absolute top-2 left-2 text-[10px] font-black bg-gradient-to-r from-amber-600 to-orange-600 text-white px-2.5 py-0.5 rounded-full shadow">
+                        人気 第{i + 1}位
+                      </span>
+                      {h.price && (
+                        <span className="absolute bottom-2 right-2 text-[10px] font-black bg-stone-950/90 text-amber-300 px-2.5 py-0.5 rounded-md">
+                          目安 ¥{Number(h.price).toLocaleString()}〜
+                        </span>
+                      )}
+                    </div>
+                    <div className="p-4 space-y-1.5">
+                      <div className="flex items-center justify-between text-[11px] font-bold">
+                        <span className="text-stone-500">{h.area || prefInfo.name}</span>
+                        {h.rating && (
+                          <span className="text-amber-600 font-black">⭐ {h.rating}</span>
+                        )}
+                      </div>
+                      <h3 className="text-sm font-black text-stone-900 line-clamp-2 leading-snug">
+                        {h.hotel_name}
+                      </h3>
+                      {h.hotelSpecial && (
+                        <p className="text-[11px] text-stone-600 line-clamp-2 leading-relaxed">
+                          {h.hotelSpecial}
+                        </p>
+                      )}
+                    </div>
+                  </div>
+                  <div className="p-4 pt-0">
+                    <a
+                      href={h.affiliate_url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-red-600 to-amber-600 hover:opacity-95 rounded-xl shadow transition"
+                    >
+                      楽天トラベルで空室・プランを見る ≫
+                    </a>
+                  </div>
+                </div>
+              ))}
+            </div>
+          </section>
+        );
+      })()}
 
       {/* 目次アンカーナビゲーション */}
       <section className="bg-white border border-emerald-950/10 rounded-2xl p-6 shadow-sm space-y-4">

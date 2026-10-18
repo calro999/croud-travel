@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【黄色い絨毯ひまわり畑】客室テラスから望む一面のひまわりと絶景露天風呂！夏秋のパノラマ宿5選",
     "description": "青空の下に広がる何十万本もの満開のひまわり畑！客室専用ウッドデッキや展望露天風呂から黄色い花の絨毯を一望できる、開放感と元気に満ちた全国屈指のフラワーカーペット温泉宿を厳選紹介。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/16240/16240.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

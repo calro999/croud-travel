@@ -44,8 +44,8 @@ export default function SaitamaHannoNaguriWinterPage() {
         "headline": "【11・12・1月埼玉】ムーミンバレーパーク冬イルミ＆名栗温泉の秘湯！奥武蔵の薪火サウナと武州和牛名宿5選",
         "description": "都心から特急でわずか40分、北欧の冬情趣と豊かな山林が広がる埼玉・飯能＆奥武蔵の11〜1月冬旅特集。宮沢湖畔を光と音で包むムーミンバレーパークの幻想的イルミネーション「ウィンターワンダーランド」、入間川上流・名栗渓谷に湧く老舗の名湯「名栗温泉」、フィンランド式薪火サウナ、極上の肉質を誇る埼玉の銘柄牛「武州和牛」と奥武蔵ジビエ鍋。冬の贅沢な休息に最適な厳選ホテル・温泉宿5選を徹底解説します。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/32035/32035.jpg",
-        "datePublished": "T00:00:00+09:00",
-        "dateModified": "T00:00:00+09:00",
+        "datePublished": "2026-10-18T00:00:00+09:00",
+        "dateModified": "2026-10-18T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "旅クラウド編集部",

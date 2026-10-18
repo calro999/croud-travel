@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【幽玄の苔庭テラス】青苔と石灯籠を望むプライベート露天風呂！京都・箱根の侘び寂び隠れ宿5選",
     "description": "雨上がりにひときわ輝く美しい青苔の絨毯と、静かに佇む石灯籠。客室の専用露天風呂やテラスから手入れの行き届いた日本庭園を眺め、静寂と侘び寂びの世界に浸る至高の隠れ家旅館を厳選紹介。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/106139/106139.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

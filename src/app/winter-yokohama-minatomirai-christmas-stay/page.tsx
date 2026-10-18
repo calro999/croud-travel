@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【11・12月！横浜みなとみらいクリスマス夜景】赤レンガ倉庫マーケットとベイビュー宿5選",
     "description": "11月下旬から開幕する本場ドイツの雰囲気を再現した「横浜赤レンガ倉庫クリスマスマーケット」！巨大モミの木ツリーやイルミネーションを鑑賞し、みなとみらいの煌めく夜景を一望する高層階バルコニー付きホテルで過ごす特別な夜。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/184792/184792.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

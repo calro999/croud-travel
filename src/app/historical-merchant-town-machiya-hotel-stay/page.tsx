@@ -72,8 +72,8 @@ export default function Page() {
   {
     "hotelNo": 166492,
     "hotelName": "町家ホテル　おやどｂａｉｓｏｎ",
-    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D166492",
-    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D166492%26f_flg%3DPLAN",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F166492%2F166492.html",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F166492%2F166492.html%26f_flg%3DPLAN",
     "hotelMinCharge": 8800,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/166492/166492.jpg",
     "userReview": "絶景のロケーションとおもてなしに心から癒やされました。",
@@ -86,8 +86,8 @@ export default function Page() {
   {
     "hotelNo": 161061,
     "hotelName": "ＩＯＲＩ　ＳＴＡＹ　ＨＩＤＡ",
-    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D161061",
-    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D161061%26f_flg%3DPLAN",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F161061%2F161061.html",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F161061%2F161061.html%26f_flg%3DPLAN",
     "hotelMinCharge": 12000,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/161061/161061.jpg",
     "userReview": "絶景のロケーションとおもてなしに心から癒やされました。",
@@ -100,8 +100,8 @@ export default function Page() {
   {
     "hotelNo": 158784,
     "hotelName": "近江八幡　まちや倶楽部（旧名称：ＭＡＣＨＩＹＡ　ＩＮＮ近江八幡）",
-    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D158784",
-    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D158784%26f_flg%3DPLAN",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F158784%2F158784.html",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F158784%2F158784.html%26f_flg%3DPLAN",
     "hotelMinCharge": 11560,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/158784/158784.jpg",
     "userReview": "蔵を改装した落ち着く空間と街全体のおもてなしまちや倶楽部の別邸KOLMIOに泊まりました。大正時代のお屋敷の中に明治時代の蔵があり、そこが部屋でした。とても落ち着いた空間でのんびりすることができま。",

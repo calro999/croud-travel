@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【11月下旬の晩秋紅葉ライトアップ】散り紅葉の名庭園と嵐山・東山・貴船の風雅名宿5選",
     "description": "11月中旬〜12月上旬にかけてクライマックスを迎える京都の紅葉！真っ赤なモミジの絨毯が広がる散り紅葉や、寺院の幻想的な夜間特別拝観ライトアップを楽しみ、嵐山温泉の湯と冬の京懐石に寛ぐ極上旅。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/130702/130702.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

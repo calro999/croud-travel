@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【清流せせらぎデッキ】川の音を間近に聴くプライベート露天風呂！癒やしの渓流隠れ宿5選",
     "description": "客室の専用ウッドデッキから清流を間近に望み、せせらぎの音と澄んだ空気に包まれるプライベート露天風呂。誰にも邪魔されない離れの客室で、大自然のマイナスイオンに癒やされる贅沢な休日を。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/165731/165731.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

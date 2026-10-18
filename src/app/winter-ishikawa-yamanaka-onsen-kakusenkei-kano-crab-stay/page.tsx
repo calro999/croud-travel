@@ -72,8 +72,8 @@ export default function YamanakaWinterPage() {
         "headline": "【11・12月加賀山中温泉の冬名湯と加能ガニ】鶴仙渓雪景色・芭蕉ゆかりの美肌湯と青タグ加能蟹＆能登牛会席の宿5選",
         "description": "松尾芭蕉が「有馬・草津と並ぶ扶桑三名湯」と称賛した石川・加賀の名湯「山中温泉」。11月6日のズワイガニ漁解禁で歓喜に沸く北陸の冬。石川県産水揚げの証である「青いタグ」付き極上加能ガニや、内子外子をたっぷり抱えた香箱ガニ（セイコガニ）、極上能登牛を山中漆器の器で堪能。名勝・鶴仙渓の初冬雪景色と露天風呂を満喫する厳選名宿5選を徹底解説。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/67124/67124.jpg",
-        "datePublished": "T00:00:00+09:00",
-        "dateModified": "T00:00:00+09:00",
+        "datePublished": "2026-10-18T00:00:00+09:00",
+        "dateModified": "2026-10-18T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

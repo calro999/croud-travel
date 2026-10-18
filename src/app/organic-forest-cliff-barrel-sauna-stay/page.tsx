@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【絶壁バレルサウナ】天空の崖上に佇む円形サウナ＆湧水水風呂！息をのむ絶景パノラマ宿5選",
     "description": "大自然の断崖や天空の丘に設置された北欧木製バレルサウナ！パノラマガラス越しに広がる大パノラマ、天然湧水の冷水風呂、そして心地よい風に包まれる天空外気浴。唯一無二のととのいを体感できる宿を厳選。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/16099/16099.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

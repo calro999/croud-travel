@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【11・12月！なばなの里イルミネーション】光のトンネルと湯の山温泉・長島リゾート宿5選",
     "description": "日本最大級のスケールを誇る「なばなの里イルミネーション」！長さ200メートルの光のトンネルや水上イルミネーションを鑑賞し、開湯1300年の名湯・湯の山温泉の美肌湯や伊勢湾の海の幸に寛ぐ極上旅。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/12599/12599.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【阿波藍と鳴門鯛】藍染め体験＆鳴門の渦潮オーシャンビュー！徳島・鳴門の絶景温泉リゾート5選",
     "description": "世界三大潮流・鳴門の渦潮を間近に望むオーシャンビュー温泉と、引き締まった身が絶品の「鳴門鯛」会席！日本の伝統文化「阿波藍染め」体験や、大塚国際美術館への観光にも便利な人気リゾート宿を厳選。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/17766/17766.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

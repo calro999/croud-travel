@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【金沢金箔エステ＆加賀会席】純金箔の贅沢スパ体験と山中・山代・粟津温泉の名宿5選",
     "description": "金沢が誇る伝統工芸「金箔」を贅沢に使った黄金の金箔フェイシャルエステ＆金箔酒！開湯1300年の歴史を誇る加賀温泉郷（山中・山代・粟津）で、九谷焼の器で味わう極上加賀会席と名湯に浸る贅沢旅。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/54103/54103.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

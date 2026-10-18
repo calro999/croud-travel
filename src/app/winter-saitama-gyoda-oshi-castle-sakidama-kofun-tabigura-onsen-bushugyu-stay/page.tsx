@@ -69,7 +69,7 @@ export default function FeaturePage() {
           itemOffered: {
             '@type': 'LodgingBusiness',
             name: 'キングアンバサダーホテル熊谷',
-            url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F72808%2F72808.html',
+            url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18683%2F18683.html',
             image: 'https://img.travel.rakuten.co.jp/share/HOTEL/72808/72808.jpg',
             address: '埼玉県 熊谷市筑波1-99-1',
             aggregateRating: {
@@ -83,7 +83,7 @@ export default function FeaturePage() {
           itemOffered: {
             '@type': 'LodgingBusiness',
             name: 'ホテルルートイン熊谷',
-            url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F161022%2F161022.html',
+            url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F72808%2F72808.html',
             image: 'https://img.travel.rakuten.co.jp/share/HOTEL/161022/161022.jpg',
             address: '埼玉県 熊谷市石原1193番地1',
             aggregateRating: {
@@ -97,7 +97,7 @@ export default function FeaturePage() {
           itemOffered: {
             '@type': 'LodgingBusiness',
             name: 'サウナ付鉱泉浴大浴場付『ホテルグランワイズ熊谷駅前プレミア』',
-            url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F181831%2F181831.html',
+            url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F161022%2F161022.html',
             image: 'https://img.travel.rakuten.co.jp/share/HOTEL/181831/181831.jpg',
             address: '埼玉県 熊谷市桜木町1-77',
             aggregateRating: {
@@ -111,7 +111,7 @@ export default function FeaturePage() {
           itemOffered: {
             '@type': 'LodgingBusiness',
             name: 'スマイルホテル熊谷',
-            url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1486%2F1486.html',
+            url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F181831%2F181831.html',
             image: 'https://img.travel.rakuten.co.jp/share/HOTEL/1486/1486.jpg',
             address: '埼玉県 熊谷市筑波1-138',
             aggregateRating: {

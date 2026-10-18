@@ -67,8 +67,8 @@ export default function YugawaraWinterPage() {
         "headline": "【11・12月湯河原温泉の名湯と奥湯河原晩秋紅葉】文豪が愛した万葉の隠れ家・相模湾の伊勢海老＆地魚会席の宿5選",
         "description": "万葉集に唯一詠まれた関東最古の名湯・神奈川県湯河原温泉。11月下旬から12月上旬にかけて奥湯河原やもみじの郷を彩る関東で最も遅い錦秋の紅葉。夏目漱石や芥川龍之介ら文豪が愛した静寂の数寄屋宿、肌を柔らかく包む弱アルカリ性源泉、そして相模湾の冬の味覚・伊勢海老や寒金目鯛の贅沢会席を堪能する極上冬旅ガイド。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/31980/31980.jpg",
-        "datePublished": "T00:00:00+09:00",
-        "dateModified": "T00:00:00+09:00",
+        "datePublished": "2026-10-18T00:00:00+09:00",
+        "dateModified": "2026-10-18T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

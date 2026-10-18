@@ -169,8 +169,8 @@ export default function YokohamaMinatomiraiWinterPage() {
         },
         "headline": "【11・12・1月横浜】赤レンガ倉庫クリスマスマーケット＆ヨルノヨ夜景！中華街熱々点心と絶景港宿5選",
         "description": "冬の横浜は澄み渡る夜空にみなとみらい21の摩天楼と大観覧車が輝き、横浜赤レンガ倉庫「クリスマスマーケット」や都心臨海部の大規模光アート「ヨルノヨ」、横浜中華街の熱々点心＆春節ランタンが街を彩る年間最美のシーズン。楽天APIから最新取得した横浜ベイホテル東急、インターコンチネンタル、ホテルニューグランドなど絶景ホテル5選を徹底特集します。",
-        "datePublished": "T00:00:00+09:00",
-        "dateModified": "T00:00:00+09:00",
+        "datePublished": "2026-10-18T00:00:00+09:00",
+        "dateModified": "2026-10-18T00:00:00+09:00",
         "inLanguage": "ja",
         "publisher": {
           "@type": "Organization",

@@ -67,8 +67,8 @@ export default function HanamakiWinterPage() {
         "headline": "【11・12月花巻温泉郷の白銀雪見露天と宮沢賢治の世界】奥羽山脈の名湯巡り・極上前沢牛＆白金豚しゃぶしゃぶの宿5選",
         "description": "童話作家・宮沢賢治が愛した理想郷「イーハトーブ」の地・岩手県花巻温泉郷。11月下旬の初雪から12月の白銀世界へと移ろう初冬、赤松林に囲まれた美肌の湯や日本一深い自噴立ち湯で愉しむ雪見露天風呂。霜降り極上の前沢牛すき焼きとブランド豚「白金豚」のしゃぶしゃぶ、南部杜氏が醸す寒造り地酒を堪能する名宿ガイド。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/13482/13482.jpg",
-        "datePublished": "T00:00:00+09:00",
-        "dateModified": "T00:00:00+09:00",
+        "datePublished": "2026-10-18T00:00:00+09:00",
+        "dateModified": "2026-10-18T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

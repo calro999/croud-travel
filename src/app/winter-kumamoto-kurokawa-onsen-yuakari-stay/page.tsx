@@ -48,8 +48,8 @@ export default function KurokawaWinterPage() {
         "headline": "【11・12月黒川温泉の湯あかりと秘湯情緒】竹灯籠が彩る渓流露天風呂と阿蘇あか牛・肥後会席の名宿5選",
         "description": "11月から12月にかけて阿蘇外輪山の冷涼な風が吹き抜ける熊本・黒川温泉。12月中旬から田の原川の渓流に幻想的な竹灯籠が灯る冬の風物詩「湯あかり」、名物「入湯手形」で巡る湯量豊かな野趣あふれる露天風呂。阿蘇あか牛の溶岩焼きステーキや本場極上馬刺しの美食に酔いしれる冬旅ガイド。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/151280/151280.jpg",
-        "datePublished": "T00:00:00+09:00",
-        "dateModified": "T00:00:00+09:00",
+        "datePublished": "2026-10-18T00:00:00+09:00",
+        "dateModified": "2026-10-18T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

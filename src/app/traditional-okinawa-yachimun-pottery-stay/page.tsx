@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【やちむんの温もり】沖縄伝統の陶器で味わう琉球フレンチ＆美ら海オーシャンビューリゾート宿5選",
     "description": "ぽってりとした温かみのある沖縄伝統陶器「やちむん」に美しく盛り付けられた琉球フレンチや創作料理。読谷村や恩納村のエメラルドグリーンの海を望む極上リゾートで、沖縄の文化と美食に浸る旅を。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/172439/172439.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【信州スイーツ＆名湯】焼きたて信州アップルパイ＆果実の香るりんご風呂！長野の美食温泉宿5選",
     "description": "甘酸っぱい香りに包まれる名物「りんご風呂」と、サクサクの自家製焼きたてアップルパイ！信州サーモンや信州牛とともに、長野の豊かな果実と美肌温泉を丸ごと味わえる魅力あふれる宿を徹底解説。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/14559/14559.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

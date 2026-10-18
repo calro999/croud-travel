@@ -67,8 +67,8 @@ export default function JozankeiWinterPage() {
         "headline": "【11・12月定山渓温泉の雪渓谷美と名湯】札幌の奥座敷・ナトリウム塩化物泉と道産和牛＆北海道冬の三大蟹会席の宿5選",
         "description": "修験僧・美泉定山がアイヌの人々に導かれ拓いた札幌の奥座敷「定山渓温泉」。11月下旬の初雪から12月の白銀雪景色へと移ろう豊平川渓谷。冷え切った身体の芯から温もる純生の塩化物泉と、道産和牛＆北海道冬の三大蟹（毛ガニ・ズワイ・タラバ）を堪能する名宿ガイド。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/875/875.jpg",
-        "datePublished": "T00:00:00+09:00",
-        "dateModified": "T00:00:00+09:00",
+        "datePublished": "2026-10-18T00:00:00+09:00",
+        "dateModified": "2026-10-18T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

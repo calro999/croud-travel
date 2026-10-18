@@ -44,8 +44,8 @@ export default function IwateSanrikuMiyakoWinterPage() {
         "headline": "【11・12・1月岩手】白銀の浄土ヶ浜と冬の三陸海鮮紀行！旬を迎える「三陸毛ガニ・寒アワビ・名物瓶ドン」と太平洋絶景オーシャンビュー名宿5選",
         "description": "冬の澄み渡る群青の太平洋と白銀の奇岩美を巡る11〜1月の岩手・三陸海岸（宮古・田老・久慈）特集。国の名勝「浄土ヶ浜」の冬景色や、冬に最も甘みとカニ味噌が詰まる「三陸宮古の毛ガニ」、11〜12月限定の伝統「寒アワビ」、宮古発祥の名物「瓶ドン」。三陸復興国立公園のダイナミックな海岸美と水平線を望む絶景オーシャンビュー名宿5選を完全ガイドします。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/64789/64789.jpg",
-        "datePublished": "T00:00:00+09:00",
-        "dateModified": "T00:00:00+09:00",
+        "datePublished": "2026-10-18T00:00:00+09:00",
+        "dateModified": "2026-10-18T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "旅クラウド編集部",

@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【愛媛みかん＆柑橘の癒やし】爽やかな生搾り柑橘ジュースと果実風呂！道後温泉の極上癒やし宿5選",
     "description": "湯上がりに味わう蛇口から出る生搾りみかんジュースや、甘酸っぱい香りの柑橘露天風呂！日本最古の名湯・道後温泉で、瀬戸内の豊かな恵みと温かいおもてなしに心ほどける極上旅館を厳選紹介。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/6001/6001.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

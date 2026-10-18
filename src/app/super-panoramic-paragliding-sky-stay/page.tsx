@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【大空を舞う空中散歩】爽快パラグライダー体験＆絶景パノラマ露天風呂！高原アクティビティ宿5選",
     "description": "インストラクターと二人乗りで大空へテイクオフ！鳥になったような感動のフライト体験と、フライト後に山々を眺めながら入る絶景パノラマ露天風呂が自慢の全国屈指の高原リゾートホテルを厳選。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/13890/13890.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

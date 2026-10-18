@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【12月オープン！ニセコ極上パウダースノー】世界が称賛するJAPOWと羊蹄山ビュー宿5選",
     "description": "12月上旬からスキー場が続々オープン！世界中のスキーヤー・スノーボーダーが憧れる最高峰の粉雪「JAPOW（ジャパン・パウダー）」を体験し、羊蹄山（蝦夷富士）を一望するインフィニティ温泉露天風呂と国際色豊かな極上リゾート。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/20219/20219.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

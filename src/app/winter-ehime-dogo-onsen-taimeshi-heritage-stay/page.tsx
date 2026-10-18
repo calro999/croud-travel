@@ -48,8 +48,8 @@ export default function DogoWinterPage() {
         "headline": "【11・12月道後温泉の冬情緒と瀬戸内美味】日本最古の名湯と極上真鯛鯛めし・伊予牛会席の名宿5選",
         "description": "保存修理工事を終えて完全復活した日本最古の名湯・道後温泉本館。11月・12月の澄み切った瀬戸内の風を感じる湯めぐりと、冬に最も脂が乗る瀬戸内真鯛の「極上鯛めし」、とろける伊予牛会席を堪能する大人の贅沢冬旅ガイド。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/11332/11332.jpg",
-        "datePublished": "T00:00:00+09:00",
-        "dateModified": "T00:00:00+09:00",
+        "datePublished": "2026-10-18T00:00:00+09:00",
+        "dateModified": "2026-10-18T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

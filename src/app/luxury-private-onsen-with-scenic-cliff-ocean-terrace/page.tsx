@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【断崖絶壁オーシャンテラス】荒波と水平線を一望するプライベート温泉！伊豆・南紀の絶景隠れ宿5選",
     "description": "海に突き出た断崖のプライベートウッドテラスに設えられた客室露天風呂！目の前に広がる青い太平洋のパノラマと、夕暮れに茜色に染まる水平線を独占できる、圧倒的絶景を誇る大人のラグジュアリー隠れ宿。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/136008/136008.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

@@ -72,8 +72,8 @@ export default function UnzenOnsenWinterPage() {
         "headline": "【11・12月長崎雲仙温泉の冬名湯と普賢岳霧氷】雲仙地獄の湯煙・乳白色の硫黄泉露天と極上雲仙あかね牛・島原郷土会席の宿5選",
         "description": "11月下旬から12月にかけて雲仙普賢岳や仁田峠を純白に染める自然の芸術「霧氷（花ぼうろ）」と、冬の冷気の中で白い湯煙を轟音とともに噴き上げる「雲仙地獄」。日本最初の国立公園に位置する歴史ある高原温泉街で、冷えた体を芯から解き放つ濃厚な乳白色の強酸性硫黄泉、幻の極上黒毛和牛「雲仙あかね牛」、島原伝統の具雑煮会席を満喫する厳選名宿5選を徹底解説。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/28126/28126.jpg",
-        "datePublished": "T00:00:00+09:00",
-        "dateModified": "T00:00:00+09:00",
+        "datePublished": "2026-10-18T00:00:00+09:00",
+        "dateModified": "2026-10-18T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

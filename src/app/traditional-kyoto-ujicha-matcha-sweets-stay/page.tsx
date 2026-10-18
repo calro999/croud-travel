@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【宇治抹茶スイーツ＆京懐石】老舗茶寮の贅沢甘味と嵐山・東山・宇治の風雅名湯宿5選",
     "description": "香り高く濃厚な本場「宇治抹茶パフェ」「特製抹茶フォンデュ」と、洗練された京懐石！嵐山温泉の湯けむりや竹林の小径、東山の歴史ある町並みを散策し、京都の伝統美と茶の湯文化に癒やされる極上の旅。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/130702/130702.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

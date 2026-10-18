@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【甲州ワインビーフ＆勝沼ワイナリー】芳醇ワインペアリングと石和温泉の美食宿5選",
     "description": "ワインの搾りかすを食べて育った柔らかくジューシーな「甲州ワインビーフ」と、世界が認める日本ワイン「甲州」の贅沢マリアージュ！首都圏からアクセスの良い石和温泉で、美食と美肌湯に酔いしれる週末旅。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/20033/20033.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

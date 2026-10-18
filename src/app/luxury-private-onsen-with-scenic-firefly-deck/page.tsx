@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【初夏の幻想蛍夜】客室露天・専用テラスから舞う蛍を鑑賞！清流沿いの隠れ家名湯宿5選",
     "description": "初夏の夜、静寂な清流沿いのプライベートデッキや客室露天風呂から、淡く光りながら舞い飛ぶ天然のゲンジボタルを鑑賞。喧騒を離れ、自然の光と水のせせらぎに包まれる風雅な温泉旅館を厳選紹介。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/41834/41834.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

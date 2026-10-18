@@ -48,8 +48,8 @@ export default function ArashiyamaWinterPage() {
         "headline": "【11・12月冬の嵐山と静寂の名刹】嵯峨野の竹林雪景色と嵐山温泉・熱々湯豆腐宿5選",
         "description": "11月下旬の紅葉から12月の澄み切った冬景色へと表情を変える京都・嵐山と嵯峨野。渡月橋の幻想的な朝霧や竹林の小径の静寂を歩き、冷えた身体を嵐山温泉の湯けむりで癒やす。職人仕込みの嵯峨湯豆腐と京懐石に舌鼓を打つ珠玉の冬旅ガイド。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/130702/130702.jpg",
-        "datePublished": "T00:00:00+09:00",
-        "dateModified": "T00:00:00+09:00",
+        "datePublished": "2026-10-18T00:00:00+09:00",
+        "dateModified": "2026-10-18T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

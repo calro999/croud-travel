@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【12月開幕！黒川温泉「湯あかり」竹灯籠】渓流を照らす幻想の竹あかりと名湯宿5選",
     "description": "12月下旬から温泉街を流れる田の原川沿いを幻想的に彩る黒川温泉の冬の風物詩「湯あかり」！数百個の竹灯籠が放つ優しい光と、名物・入湯手形で行く露天風呂めぐり、熊本あか牛を堪能する温もり旅。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/67258/67258.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

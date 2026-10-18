@@ -48,8 +48,8 @@ export default function GeroWinterPage() {
         "headline": "【11・12月下呂温泉の冬花火ミュージカル】日本三名泉の美肌湯ととろける飛騨牛会席宿5選",
         "description": "12月の毎週土曜夜に冬空を華麗に染める「下呂温泉花火ミュージカル冬公演」。日本三名泉が誇るpH9超えのとろとろ美肌の湯に浸かり、冬の飛騨川のせせらぎを聴きながら最高ランクの飛騨牛朴葉味噌焼きや会席料理に舌鼓を打つ、心温まる冬の岐阜温泉旅。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/56778/56778.jpg",
-        "datePublished": "T00:00:00+09:00",
-        "dateModified": "T00:00:00+09:00",
+        "datePublished": "2026-10-18T00:00:00+09:00",
+        "dateModified": "2026-10-18T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

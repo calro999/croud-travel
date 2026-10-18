@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【超軽量パックラフト冒険】清流の静水と急流を漕ぎ抜ける！奥多摩・みなかみ渓谷温泉宿5選",
     "description": "折りたたんで持ち運べる超軽量ボート「パックラフト」で楽しむ新感覚リバーアクティビティ！エメラルドグリーンの清流を自分のパドルで下った後は、渓谷美を一望する露天風呂とサウナで極上のととのいを。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/6999/6999.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

@@ -48,8 +48,8 @@ export default function KinosakiWinterPage() {
         "headline": "【11月解禁！城崎温泉の青タグ津居山ガニ】名物7つの外湯めぐりと極上活ズワイガニ会席宿5選",
         "description": "11月6日のカニ漁解禁で熱狂に包まれる関西随一の名湯・城崎温泉！地元・津居山港直送の青いタグ付き活松葉ガニ（カニ刺し・焼きガニ・茹で姿ガニ・カニすき・甲羅酒）フルコースと、雪舞う柳並木を浴衣と下駄で歩く名物「7つの外湯めぐり」を堪能する至福の冬旅。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/147534/147534.jpg",
-        "datePublished": "T00:00:00+09:00",
-        "dateModified": "T00:00:00+09:00",
+        "datePublished": "2026-10-18T00:00:00+09:00",
+        "dateModified": "2026-10-18T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

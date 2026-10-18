@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【12月豪雪の秘湯！八甲田酸ヶ湯温泉＆奥入瀬】千人風呂と幻想的な氷瀑・雪見露天宿5選",
     "description": "日本有数の豪雪地帯・八甲田山に佇む国民保養温泉地第1号「酸ヶ湯（すかゆ）温泉」！160畳の総ヒバ造り大浴場「ヒバ千人風呂」の白濁硫黄泉と、12月から凍り始める奥入瀬渓流の氷瀑を鑑賞する本物の雪国秘湯旅。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/79432/79432.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

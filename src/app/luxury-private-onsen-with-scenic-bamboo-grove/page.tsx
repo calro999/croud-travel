@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【静寂の竹林ライトアップ＆客室露天】風にそよぐ笹の音と美肌名湯に癒やされる隠れ宿5選",
     "description": "美しく手入れされた青竹の林に囲まれる静謐な空間！客室専用露天風呂やテラスから、夜の幻想的な竹林ライトアップを眺めながら極上の湯浴みを楽しめる風雅な名旅館を厳選紹介。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/10706/10706.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

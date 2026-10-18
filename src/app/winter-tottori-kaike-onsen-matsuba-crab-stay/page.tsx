@@ -67,8 +67,8 @@ export default function KaikeWinterPage() {
         "headline": "【11・12月皆生温泉の大山雪景色とカニ漁解禁】日本海の美肌塩湯・11月解禁境港活松葉ガニ＆鳥取和牛の宿5選",
         "description": "日本海美保湾と秀峰・大山の白銀雪景色を望む「海の温泉」鳥取県・皆生温泉。11月6日のズワイガニ漁解禁とともに、隣接する境港から直送される一級品のタグ付き活松葉ガニ会席が開幕。ミネラル豊富な塩化物泉の美肌湯と、鳥取和牛オレイン55を堪能する冬の山陰美食宿ガイド。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/168732/168732.jpg",
-        "datePublished": "T00:00:00+09:00",
-        "dateModified": "T00:00:00+09:00",
+        "datePublished": "2026-10-18T00:00:00+09:00",
+        "dateModified": "2026-10-18T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

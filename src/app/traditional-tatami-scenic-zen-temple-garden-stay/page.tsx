@@ -72,8 +72,8 @@ export default function Page() {
   {
     "hotelNo": 15772,
     "hotelName": "原鶴温泉　ホテルパーレンス小野屋",
-    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D15772",
-    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D15772%26f_flg%3DPLAN",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15772%2F15772.html",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15772%2F15772.html%26f_flg%3DPLAN",
     "hotelMinCharge": 8415,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15772/15772.jpg",
     "userReview": "最高夕食は少なめで料理の質を上げていて満足でした。部屋の風呂も見晴らしがよく最高でした。",
@@ -86,8 +86,8 @@ export default function Page() {
   {
     "hotelNo": 129984,
     "hotelName": "湯田温泉　名勝　山水園",
-    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D129984",
-    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D129984%26f_flg%3DPLAN",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F129984%2F129984.html",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F129984%2F129984.html%26f_flg%3DPLAN",
     "hotelMinCharge": 19800,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/129984/129984.jpg",
     "userReview": "丁寧なおもてなしでしたお部屋は、文化財ということで、趣きがありました。古いけど、必要な設備はきちんとあり、清潔にされてました。温泉も気持ちよかったです。肌もツルツルになりました。お抹茶と外。",
@@ -100,8 +100,8 @@ export default function Page() {
   {
     "hotelNo": 15962,
     "hotelName": "指宿温泉　いぶすき秀水園",
-    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D15962",
-    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D15962%26f_flg%3DPLAN",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15962%2F15962.html",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15962%2F15962.html%26f_flg%3DPLAN",
     "hotelMinCharge": 25300,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15962/15962.jpg",
     "userReview": "丁寧な接客と美味しい食事、立地も最高到着すぐ、ウェルカムドリンクのサービスがあり、館内の説明からとても丁寧でした。砂蒸し温泉まで徒歩5分程度で、場所もいいです。お食事はちょうどいい量で、お。",

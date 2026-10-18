@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【11・12月限定！光の祭典＆クリスマスイルミネーション】幻想的な夜景リゾート宿5選",
     "description": "11月からスタートする日本最大級のクリスマスイルミネーション＆光の王国！ハウステンボスの世界最大1300万球の輝きや、なばなの里、東京ベイエリアの絶景夜景を客室やバルコニーから独占できるプレミアムリゾート。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/9159/9159.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

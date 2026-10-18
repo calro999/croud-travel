@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【シングル氷水風呂＆森サウナ】極限の冷水とアロマロウリュで覚醒するととのい宿5選",
     "description": "水温10℃未満のグルシン（シングル）極冷水風呂と、100℃超の本格フィンランド薪サウナ！熱気と冷気の強烈なコントラストで一気にディープなトランス状態へ導く、全国屈指のハードサウナー特化型リゾートを厳選。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/109464/109464.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【有田焼・伊万里焼の雅】人間国宝の器で味わう佐賀牛会席！嬉野・武雄の美肌温泉宿5選",
     "description": "日本が世界に誇る陶磁器「有田焼」「伊万里焼」の優美な器でいただく、極上佐賀牛のステーキと日本三大美肌の湯！歴史ある嬉野温泉・武雄温泉で、やきものの美と極上肉グルメに浸る大人の温泉旅。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/40786/40786.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

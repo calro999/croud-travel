@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【本場長崎カステラ＆極上卓袱会席】雲仙・小浜・平戸の異国情緒と美肌名湯宿5選",
     "description": "創業数百年の伝統が息づく長崎カステラや異国情緒あふれる卓袱（しっぽく）料理！大地のエネルギーが噴き出す雲仙地獄の名湯や橘湾の夕日を望む小浜温泉で、長崎の文化と極上温泉に浸る旅。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/6000/6000.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

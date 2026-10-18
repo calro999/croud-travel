@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【初夏のホタル乱舞＆清流露天】客室デッキや庭園から幻想的な光を愛でる名湯宿5選",
     "description": "清らかな小川のほとりで優美に光を放つ初夏のホタル！宿の敷地内を流れる小川や客室露天風呂から、闇夜に舞う幻想的なホタルの光を鑑賞できる全国屈指の情緒あふれる温泉宿を厳選紹介。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/190671/190671.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

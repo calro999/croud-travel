@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【日本一のバンジージャンプ】竜神大吊橋・みなかみ渓谷の絶叫体験と名湯温泉宿5選",
     "description": "高さ100mの橋から大自然の渓谷へ飛び込む究極のスリル！バンジージャンプで度胸試し＆大興奮した後は、水上温泉や奥久慈温泉の渓谷露天風呂とサウナで心身をじんわりほぐす人気アクティビティ宿を厳選。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/9340/9340.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

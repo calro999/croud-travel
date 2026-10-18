@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【12月開幕！三十槌の氷柱＆秩父温泉】大自然の氷のアートと秩父名物グルメ宿5選",
     "description": "12月中旬から奥秩父の渓谷に姿を現す天然の氷の芸術「三十槌の氷柱（みそつちのつらら）」！夜の幻想的なライトアップ鑑賞と、秩父温泉の柔らかな美肌湯、名物・豚みそ漬け焼きや手打ち蕎麦を堪能する冬旅。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/14195/14195.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

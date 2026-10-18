@@ -69,7 +69,7 @@ export default function FeaturePage() {
           itemOffered: {
             '@type': 'LodgingBusiness',
             name: '嬉野温泉　和多屋別荘',
-            url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40527%2F40527.html',
+            url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F6006%2F6006.html',
             image: 'https://img.travel.rakuten.co.jp/share/HOTEL/40527/40527.jpg',
             address: '佐賀県 嬉野市嬉野町下宿乙738',
             aggregateRating: {
@@ -83,7 +83,7 @@ export default function FeaturePage() {
           itemOffered: {
             '@type': 'LodgingBusiness',
             name: '嬉野温泉　大正屋',
-            url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19923%2F19923.html',
+            url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40527%2F40527.html',
             image: 'https://img.travel.rakuten.co.jp/share/HOTEL/19923/19923.jpg',
             address: '佐賀県 嬉野市嬉野町下宿乙2276-1　',
             aggregateRating: {
@@ -97,7 +97,7 @@ export default function FeaturePage() {
           itemOffered: {
             '@type': 'LodgingBusiness',
             name: '嬉野温泉　茶心の宿　和楽園',
-            url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52858%2F52858.html',
+            url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19923%2F19923.html',
             image: 'https://img.travel.rakuten.co.jp/share/HOTEL/52858/52858.jpg',
             address: '佐賀県 嬉野市嬉野町下野甲33',
             aggregateRating: {
@@ -111,7 +111,7 @@ export default function FeaturePage() {
           itemOffered: {
             '@type': 'LodgingBusiness',
             name: '武雄温泉　御船山楽園ホテル',
-            url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13417%2F13417.html',
+            url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52858%2F52858.html',
             image: 'https://img.travel.rakuten.co.jp/share/HOTEL/13417/13417.jpg',
             address: '佐賀県 武雄市武雄町武雄4100',
             aggregateRating: {

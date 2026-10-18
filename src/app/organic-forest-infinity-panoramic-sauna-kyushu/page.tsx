@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【九州名峰パノラマサウナ＆阿蘇湧水】由布院・黒川・霧島！大自然の外気浴サウナ宿5選",
     "description": "由布岳や阿蘇外輪山、霧島連峰の雄大な山並みを望む絶景サウナ！セルフロウリュ完備の本格フィンランド式サウナと、阿蘇・霧島の超軟水天然湧水水風呂で究極のディープリラックスを叶える宿。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/28502/28502.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

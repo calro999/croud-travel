@@ -72,8 +72,8 @@ export default function Page() {
   {
     "hotelNo": 193275,
     "hotelName": "Ｐｒｉｖａｔｅ　ｖｉｌｌａ　ＹＵＨＩＭＩ　夕日見の丘",
-    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D193275",
-    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D193275%26f_flg%3DPLAN",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F193275%2F193275.html",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F193275%2F193275.html%26f_flg%3DPLAN",
     "hotelMinCharge": 17250,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/193275/193275.jpg",
     "userReview": "絶景のロケーションとおもてなしに心から癒やされました。",
@@ -86,8 +86,8 @@ export default function Page() {
   {
     "hotelNo": 183872,
     "hotelName": "ＫＲ　ｂａｓｅ　ｖｉｌｌａ　ＩｚｕＳｈｉｒａｈａｍａ　Ｒｅｓｏｒｔ",
-    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D183872",
-    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D183872%26f_flg%3DPLAN",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183872%2F183872.html",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183872%2F183872.html%26f_flg%3DPLAN",
     "hotelMinCharge": 7700,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183872/183872.jpg",
     "userReview": "絶景のロケーションとおもてなしに心から癒やされました。",
@@ -100,8 +100,8 @@ export default function Page() {
   {
     "hotelNo": 193486,
     "hotelName": "Ｓｅａｓｉｄｅ　Ｖｉｌｌａ　Ｎ＋",
-    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D193486",
-    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D193486%26f_flg%3DPLAN",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F193486%2F193486.html",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F193486%2F193486.html%26f_flg%3DPLAN",
     "hotelMinCharge": 2125,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/193486/193486.jpg",
     "userReview": "絶景のロケーションとおもてなしに心から癒やされました。",
@@ -114,8 +114,8 @@ export default function Page() {
   {
     "hotelNo": 183904,
     "hotelName": "ＵＮＯ　ＨＯＴＥＬ",
-    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D183904",
-    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D183904%26f_flg%3DPLAN",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183904%2F183904.html",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183904%2F183904.html%26f_flg%3DPLAN",
     "hotelMinCharge": 8740,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183904/183904.jpg",
     "userReview": "おしゃれな部屋と美味しい食事に大満足女二人旅で1泊しました。おしゃれなお部屋で、オリジナルのドリップコーヒーが置いてあったり、アメニティーも雪肌精で嬉しかったです。24時間あいているラウンジで。",

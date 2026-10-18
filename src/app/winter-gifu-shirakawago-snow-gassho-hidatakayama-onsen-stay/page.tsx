@@ -169,8 +169,8 @@ export default function ShirakawagoHidaTakayamaWinterPage() {
         },
         "headline": "【11・12・1月岐阜】世界遺産白川郷雪景色＆飛騨高山古い町並み！奥飛騨雪見露天と極上飛騨牛会席の名宿5選",
         "description": "冬の飛騨路は、日本の原風景が雪化粧に包まれる年間最高の旅情シーズン。世界遺産・白川郷合掌造り集落の白銀の絶景、新酒の杉玉が掲げられる飛騨高山の風情ある「古い町並み」、そして奥飛騨温泉郷の原生林に抱かれた雪見露天風呂。とろける極上A5飛騨牛の炭火焼きや朴葉味噌とともに、冬の日本の美を極める旅へ。楽天APIから最新取得した本陣平野屋、深山桜庵など厳選宿5選を徹底特集します。",
-        "datePublished": "T00:00:00+09:00",
-        "dateModified": "T00:00:00+09:00",
+        "datePublished": "2026-10-18T00:00:00+09:00",
+        "dateModified": "2026-10-18T00:00:00+09:00",
         "inLanguage": "ja",
         "publisher": {
           "@type": "Organization",

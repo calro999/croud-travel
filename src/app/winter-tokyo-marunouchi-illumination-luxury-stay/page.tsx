@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【11・12月！丸の内シャンパンゴールド夜景】大手町・銀座の煌めきと極上クラブラウンジ宿5選",
     "description": "11月中旬から有楽町〜大手町を結ぶ丸の内仲通りが約120万球のシャンパンゴールドに輝く「丸の内イルミネーション」！東京駅の歴史的赤レンガ駅舎や皇居の緑を望むラグジュアリーホテルで過ごす特別なクリスマスステイ。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/37946/37946.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

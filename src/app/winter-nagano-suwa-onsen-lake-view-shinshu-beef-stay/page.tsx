@@ -72,8 +72,8 @@ export default function SuwaOnsenWinterPage() {
         "headline": "【11・12月諏訪湖・上諏訪温泉の冬名湯と信州美食】諏訪湖一望露天と千人風呂・諏訪五蔵新酒＆信州プレミアム牛の宿5選",
         "description": "11月から12月にかけて冷涼な澄み切った大気の中に冠雪の八ヶ岳と富士山がくっきりと浮かび上がる信州「諏訪湖」と「上諏訪温泉」。毎分万リットル級の圧倒的な湯量を誇る自家源泉や国重文・片倉館千人風呂、諏訪湖冬の風物詩ワカサギ釣り、甲州街道に佇む諏訪五蔵の搾りたて初冬新酒めぐり、極上の信州プレミアム牛肉すき焼き会席を満喫する厳選名宿5選を徹底解説。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/52948/52948.jpg",
-        "datePublished": "T00:00:00+09:00",
-        "dateModified": "T00:00:00+09:00",
+        "datePublished": "2026-10-18T00:00:00+09:00",
+        "dateModified": "2026-10-18T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

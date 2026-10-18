@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【冬の熱海海上花火大会＆客室露天】澄み切った冬空に咲く大輪の花火！絶景オーシャンビュー宿5選",
     "description": "11月・12月にも開催される伝統の「熱海海上花火大会」！空気が澄んでいるため夏以上に鮮やかに夜空と海面を染める花火を、客室専用露天風呂やバルコニーから大迫力で鑑賞できる特等席の温泉旅館。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/16668/16668.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

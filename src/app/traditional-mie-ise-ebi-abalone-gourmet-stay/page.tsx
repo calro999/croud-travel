@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【伊勢志摩の王道美食】活伊勢海老お造り＆極上あわび踊り焼き！鳥羽・賢島オーシャンビュー温泉宿5選",
     "description": "ぷりっぷりの活伊勢海老お造りと、磯の香り豊かで柔らかな極上あわび踊り焼き！伊勢神宮参拝と合わせて訪れたい、鳥羽・志摩・賢島のオーシャンビュー絶景露天風呂と最高峰の海鮮美食旅館を厳選紹介。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/27735/27735.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

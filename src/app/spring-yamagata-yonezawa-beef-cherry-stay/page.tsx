@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【A5米沢牛すき焼き＆佐藤錦さくらんぼ】山形名物グルメと小野川・天童・かみのやま温泉宿5選",
     "description": "日本三大和牛「米沢牛」のとろける極上すき焼き・ステーキと、初夏の赤い宝石「佐藤錦」さくらんぼスイーツ！将棋の街・天童温泉や美肌のかみのやま温泉で、フルーツ王国山形の美食と名湯を堪能する旅。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/52812/52812.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

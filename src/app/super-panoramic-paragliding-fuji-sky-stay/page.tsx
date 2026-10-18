@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【富士山を望む空中飛行】朝霧高原タンデムパラグライダー＆富士パノラマ温泉宿5選",
     "description": "霊峰・富士山を真正面に望みながら大空を滑空する感動のタンデムパラグライダー！風に乗って飛ぶ空中散歩を満喫した後は、富士山ビューの展望露天風呂とサウナで極上のととのいを叶える人気リゾートを厳選。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/19206/19206.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

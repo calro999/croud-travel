@@ -48,8 +48,8 @@ export default function YuzawaWinterPage() {
         "headline": "【11・12月越後湯沢温泉の雪国情緒と地酒巡り】川端康成ゆかりの名湯・南魚沼産コシヒカリ新米と越後もち豚会席の宿5選",
         "description": "東京から新幹線で最速約70分、川端康成の小説『雪国』の舞台として名高い新潟・越後湯沢温泉。11月の収穫期を祝う日本一の南魚沼産コシヒカリ新米と新酒の季節、12月に入ると始まる息をのむ白銀の雪国世界。越後地酒の利き酒や名物日本酒風呂、越後もち豚しゃぶしゃぶに舌鼓を打つ極上の初冬温泉旅ガイド。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/40019/40019.jpg",
-        "datePublished": "T00:00:00+09:00",
-        "dateModified": "T00:00:00+09:00",
+        "datePublished": "2026-10-18T00:00:00+09:00",
+        "dateModified": "2026-10-18T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

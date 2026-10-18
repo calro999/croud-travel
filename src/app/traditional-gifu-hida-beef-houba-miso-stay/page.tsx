@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【A5飛騨牛朴葉味噌焼き＆すき焼き】高山・下呂温泉の香ばしい郷土美食と日本三名泉宿5選",
     "description": "香ばしい自家製味噌の香りが食欲をそそる名物「飛騨牛の朴葉味噌焼き」と、とろける極上すき焼き！日本三名泉・下呂温泉の滑らかな美肌湯や飛騨高山の古い町並み散策を満喫できる最高峰の美食旅館を厳選。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/38508/38508.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

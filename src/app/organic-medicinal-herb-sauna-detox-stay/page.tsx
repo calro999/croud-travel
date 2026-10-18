@@ -72,8 +72,8 @@ export default function Page() {
   {
     "hotelNo": 183550,
     "hotelName": "板室別邸リトリート　SPA和薬草",
-    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D183550",
-    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D183550%26f_flg%3DPLAN",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183550%2F183550.html",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183550%2F183550.html%26f_flg%3DPLAN",
     "hotelMinCharge": 21440,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183550/183550.jpg",
     "userReview": "自分を労わる体験とヘルシーな食事に満足瞑想や自分でできるお灸など、自分を労わる体験がとてもよかったです。また自分の状況に合わせたお茶も自由にブレンドして飲めたり、バスタオルやお水も自分もペースで頂。",
@@ -86,8 +86,8 @@ export default function Page() {
   {
     "hotelNo": 44948,
     "hotelName": "定山渓温泉　女性のための宿　翠蝶館（旧：定山渓温泉　Ｓｐａ＆Ｅｓｔｈｅｔｉｑｕｅ　翠蝶館）",
-    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D44948",
-    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D44948%26f_flg%3DPLAN",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F44948%2F44948.html",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F44948%2F44948.html%26f_flg%3DPLAN",
     "hotelMinCharge": 12590,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/44948/44948.jpg",
     "userReview": "細やかな配慮と温かいおもてなしに感動温泉宿でおいしいものが食べたいけど、病み上がりで食事の量に不安があり、なかなか宿泊できずにいました。丁寧なHPと36時間ステイ、夕食少量が決め手で予約。当日。",
@@ -100,8 +100,8 @@ export default function Page() {
   {
     "hotelNo": 28586,
     "hotelName": "杖立温泉　葉隠館",
-    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D28586",
-    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D28586%26f_flg%3DPLAN",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28586%2F28586.html",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28586%2F28586.html%26f_flg%3DPLAN",
     "hotelMinCharge": 14300,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28586/28586.jpg",
     "userReview": "絶景のロケーションとおもてなしに心から癒やされました。",
@@ -114,8 +114,8 @@ export default function Page() {
   {
     "hotelNo": 38783,
     "hotelName": "びわ湖畔　味覚の宿　双葉荘",
-    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D38783",
-    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D38783%26f_flg%3DPLAN",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38783%2F38783.html",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38783%2F38783.html%26f_flg%3DPLAN",
     "hotelMinCharge": 10450,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38783/38783.jpg",
     "userReview": "お客様ファーストで食事も美味しい90点の宿家族経営の旅館は、基本?って思う所が多い中なか、双葉荘はちゃんとお客様ファーストのいい旅館でした。夜は近江牛、朝は地元の佃煮や温泉玉子、海苔、点数をつける。",

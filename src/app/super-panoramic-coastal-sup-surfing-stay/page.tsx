@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【絶景SUP＆マリンリゾート】海を一望するインフィニティ温泉とオーシャンフロント宿5選",
     "description": "透明度抜群の海で楽しむスタンドアップパドルボード（SUP）体験！海上に立って海上散歩を楽しんだ後は、水平線と一体になるインフィニティ露天風呂と獲れたて海の幸ディナーを満喫する爽快リゾート旅。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/28426/28426.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

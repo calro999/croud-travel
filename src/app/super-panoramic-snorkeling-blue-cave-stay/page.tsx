@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【青の洞窟シュノーケリング】神秘のブルー＆ウミガメ遭遇体験！沖縄・恩納村のビーチリゾート宿5選",
     "description": "太陽の光が海底に反射して青く輝く神秘の「青の洞窟」シュノーケリング！色鮮やかな熱帯魚やウミガメと泳ぐ感動体験と、全室オーシャンビュー＆展望スパ・インフィニティプールを備えた極上リゾートを厳選。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/17845/17845.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

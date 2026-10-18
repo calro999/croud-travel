@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【極上かごしま黒豚しゃぶしゃぶ＆砂むし温泉】指宿・霧島の美肌湯と鹿児島美食宿5選",
     "description": "きめ細やかな肉質と上品な甘みを持つ最高峰「かごしま黒豚」のしゃぶしゃぶ！世界唯一の天然砂むし温泉で知られる指宿や、坂本龍馬ゆかりの霧島温泉郷で、鹿児島の滋味あふれる美味と名湯を満喫する旅。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/15962/15962.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

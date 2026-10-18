@@ -67,8 +67,8 @@ export default function KinugawaWinterPage() {
         "headline": "【11・12月鬼怒川温泉の初冬渓谷美と名湯】雪化粧の奇岩とアルカリ性美肌泉・とちぎ和牛＆日光生ゆば会席の宿5選",
         "description": "江戸時代は日光詣での大名や僧侶のみに許された関東屈指の名湯・鬼怒川温泉。11月中旬の晩秋の残り香から12月の初雪へと移ろう初冬、清流と奇岩が織りなす鬼怒川渓谷の絶景を望む露天風呂と、肉汁溢れるA5とちぎ和牛や伝統の日光生ゆば懐石を心ゆくまで堪能する名宿ガイド。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/28440/28440.jpg",
-        "datePublished": "T00:00:00+09:00",
-        "dateModified": "T00:00:00+09:00",
+        "datePublished": "2026-10-18T00:00:00+09:00",
+        "dateModified": "2026-10-18T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

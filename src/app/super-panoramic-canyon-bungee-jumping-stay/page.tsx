@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【絶景バンジー＆渓谷アドベンチャー】日本屈指の高さから大ジャンプ！みなかみ温泉宿5選",
     "description": "エメラルドグリーンの渓谷に向かって飛び込むスリル満点バンジージャンプ！アドレナリン全開のアクティビティを体験した後は、利根川源流のせせらぎを聴く露天風呂とサウナで極上のととのいを。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/9340/9340.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

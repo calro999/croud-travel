@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【大和牛すき焼き＆名物茶粥】古都奈良の歴史浪漫と飛鳥・吉野・奈良町の名湯美食宿5選",
     "description": "鎌倉時代からの銘牛の血統を継ぐ「大和牛」の極上すき焼きと、ほうじ茶香る伝統の「奈良茶粥」！東大寺や春日大社、ならまち散策と合わせて楽しむ、古都の風情あふれる名湯美食旅館を厳選紹介。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/7941/7941.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

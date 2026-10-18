@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【森と空に溶け込む】絶景インフィニティ温泉プール＆天然スパ！極上フォレストリゾート宿5選",
     "description": "原生林のパノラマと一体化する温水インフィニティ温泉プール！水着で入れる絶景スパやサウナ、ラグジュアリーなラウンジを備えた、非日常のリフレッシュを約束する最高峰フォレストリゾートを厳選紹介。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/30048/30048.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【滝壺ダイブ＆テントサウナ】天然滝の水風呂で極限のととのい！大自然アドベンチャースパ宿5選",
     "description": "轟く名瀑のすぐそばに設置された薪テントサウナで限界まで体を温め、天然の滝壺水風呂へダイブ！マイナスイオンのミストと森のフィトンチッドに包まれる、究極のアウトドアサウナ体験ができる宿を厳選。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/167546/167546.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

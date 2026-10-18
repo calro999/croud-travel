@@ -133,7 +133,7 @@ export default function AutumnBudgetYamagataHotelsPage() {
               </div>
             </div>
             <div className="pt-2">
-              <a href="https://hb.afl.rakuten.co.jp/hgc/g0190dd6.2qbvd826.g0190dd6.2qbve0a2/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1492%2F1492.html" target="_blank" rel="noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-red-600 to-rose-600 hover:from-red-700 hover:to-rose-700 text-white font-bold text-center rounded-xl transition shadow-sm">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1492%2F1492.html" target="_blank" rel="noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-red-600 to-rose-600 hover:from-red-700 hover:to-rose-700 text-white font-bold text-center rounded-xl transition shadow-sm">
                 楽天トラベルでプラン・空室を見る
               </a>
             </div>
@@ -173,7 +173,7 @@ export default function AutumnBudgetYamagataHotelsPage() {
               </div>
             </div>
             <div className="pt-2">
-              <a href="https://hb.afl.rakuten.co.jp/hgc/g0190dd6.2qbvd826.g0190dd6.2qbve0a2/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F169970%2F169970.html" target="_blank" rel="noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-red-600 to-rose-600 hover:from-red-700 hover:to-rose-700 text-white font-bold text-center rounded-xl transition shadow-sm">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F169970%2F169970.html" target="_blank" rel="noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-red-600 to-rose-600 hover:from-red-700 hover:to-rose-700 text-white font-bold text-center rounded-xl transition shadow-sm">
                 楽天トラベルでプラン・空室を見る
               </a>
             </div>
@@ -213,7 +213,7 @@ export default function AutumnBudgetYamagataHotelsPage() {
               </div>
             </div>
             <div className="pt-2">
-              <a href="https://hb.afl.rakuten.co.jp/hgc/g0190dd6.2qbvd826.g0190dd6.2qbve0a2/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1684%2F1684.html" target="_blank" rel="noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-red-600 to-rose-600 hover:from-red-700 hover:to-rose-700 text-white font-bold text-center rounded-xl transition shadow-sm">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1684%2F1684.html" target="_blank" rel="noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-red-600 to-rose-600 hover:from-red-700 hover:to-rose-700 text-white font-bold text-center rounded-xl transition shadow-sm">
                 楽天トラベルでプラン・空室を見る
               </a>
             </div>
@@ -253,7 +253,7 @@ export default function AutumnBudgetYamagataHotelsPage() {
               </div>
             </div>
             <div className="pt-2">
-              <a href="https://hb.afl.rakuten.co.jp/hgc/g0190dd6.2qbvd826.g0190dd6.2qbve0a2/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F178263%2F178263.html" target="_blank" rel="noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-red-600 to-rose-600 hover:from-red-700 hover:to-rose-700 text-white font-bold text-center rounded-xl transition shadow-sm">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F178263%2F178263.html" target="_blank" rel="noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-red-600 to-rose-600 hover:from-red-700 hover:to-rose-700 text-white font-bold text-center rounded-xl transition shadow-sm">
                 楽天トラベルでプラン・空室を見る
               </a>
             </div>
@@ -293,7 +293,7 @@ export default function AutumnBudgetYamagataHotelsPage() {
               </div>
             </div>
             <div className="pt-2">
-              <a href="https://hb.afl.rakuten.co.jp/hgc/g0190dd6.2qbvd826.g0190dd6.2qbve0a2/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68482%2F68482.html" target="_blank" rel="noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-red-600 to-rose-600 hover:from-red-700 hover:to-rose-700 text-white font-bold text-center rounded-xl transition shadow-sm">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68482%2F68482.html" target="_blank" rel="noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-red-600 to-rose-600 hover:from-red-700 hover:to-rose-700 text-white font-bold text-center rounded-xl transition shadow-sm">
                 楽天トラベルでプラン・空室を見る
               </a>
             </div>

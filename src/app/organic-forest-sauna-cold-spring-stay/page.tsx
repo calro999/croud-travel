@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【極上のととのい】森の薪サウナ＆天然冷鉱泉水風呂！大自然の中で深呼吸する森のリトリート宿5選",
     "description": "パチパチと薪がはぜる音、白樺のアロマロウリュ、そして地下から湧き出るシングル〜15℃の極上天然水風呂！森の外気浴でディープリラックスできる、サウナー絶賛の全国リトリート温泉宿を厳選紹介。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/12548/12548.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

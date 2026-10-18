@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【12月白馬スキー場オープン！北アルプス雪山リゾート】八方尾根＆白馬八方美肌温泉宿5選",
     "description": "12月上旬から順次シーズンインする日本屈指のビッグゲレンデ・白馬八方尾根＆エイブル白馬五竜！極上のパウダースノーで爽快クルージングを楽しんだ後は、日本屈指の強アルカリ性美肌湯・白馬八方温泉と信州グルメを満喫。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/16773/16773.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

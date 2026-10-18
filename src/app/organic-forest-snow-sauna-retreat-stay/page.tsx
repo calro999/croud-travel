@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【雪原ダイブ＆極寒外気浴】白銀の世界でととのう北欧薪サウナ＆雪見温泉宿5選",
     "description": "薪ストーブの熱気で限界まで体を温めた後、一面のふかふか新雪へダイブ！氷点下の澄み切った空気の中で深呼吸する究極の冬サウナ体験。雪見露天風呂と郷土鍋料理で心も体も温まるスノーリトリートを厳選。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/54007/54007.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

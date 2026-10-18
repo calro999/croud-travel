@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【日本屈指の満天星空＆南十字星】石垣・西表・小浜島！大自然とプライベートヴィラ極上宿5選",
     "description": "国内初の星空保護区に認定された八重山諸島の圧倒的な星空！全室プライベートプールやテラスを備えたリゾートヴィラから、天の川や南十字星を独占鑑賞できる極上のアイランドステイ。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/160889/160889.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

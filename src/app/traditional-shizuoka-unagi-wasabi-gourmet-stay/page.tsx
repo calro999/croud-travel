@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【極上うなぎ炭火焼き＆生わさび丼】静岡・伊豆修善寺の名水美食と名湯宿5選",
     "description": "天城連山の清流が育む香り高い伊豆本わさびと、職人が秘伝のタレでふっくら香ばしく焼き上げる名物うなぎ！文学と歴史の薫る修善寺温泉や中伊豆で、名水美食と風雅な温泉に心癒やされる贅沢ステイ。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/31865/31865.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

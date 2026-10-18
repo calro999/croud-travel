@@ -71,8 +71,8 @@ export default function TamatsukuriWinterPage() {
         "headline": "【11・12月玉造温泉の初冬美肌湯と松葉がに】出雲大社神在月参拝と日本最古の化粧水温泉・山陰松葉蟹＆しまね和牛の宿5選",
         "description": "全国の八百万の神々が集う11月の出雲「神在月」。奈良時代の風土記に「神の湯」と記された日本最古の美肌温泉・玉造温泉で潤い、11月解禁の山陰松葉がに会席としまね和牛を堪能。玉湯川沿いの初冬風情と出雲大社参拝を叶える厳選名宿5選。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/7798/7798.jpg",
-        "datePublished": "T00:00:00+09:00",
-        "dateModified": "T00:00:00+09:00",
+        "datePublished": "2026-10-18T00:00:00+09:00",
+        "dateModified": "2026-10-18T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【らくだライド＆砂丘夕日】エキゾチックな砂丘体験と三朝・皆生温泉の海鮮美食宿5選",
     "description": "鳥取砂丘でらくだに乗って砂の丘を巡る異国情緒あふれるトレッキング体験！砂丘の美しい夕日と風紋を堪能した後は、弓ヶ浜のパノラマ海景を望む皆生温泉の塩化物泉と日本海の活魚会席に舌鼓。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/12537/12537.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

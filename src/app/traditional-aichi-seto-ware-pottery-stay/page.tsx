@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【瀬戸焼とうなぎ会席】伝統のやきもの美と三河一色産うなぎ！愛知・蒲郡・南知多の名湯宿5選",
     "description": "日本の陶磁器の代名詞「瀬戸焼」の器で供される、名物「三河一色産うなぎ」の蒲焼きやひつまぶし！三河湾・伊勢湾のオーシャンビュー温泉と、愛知が誇る食文化・伝統工芸を贅沢に味わう宿を徹底紹介。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/31249/31249.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【A5松阪牛すき焼き＆網焼き】本場三重の最高峰肉会席！湯の山温泉・榊原温泉の名湯宿5選",
     "description": "「肉の芸術品」と称される最高峰A5ランク松阪牛を本場のすき焼き・網焼き・炙り寿司で堪能！鈴鹿山脈の麓に佇む湯の山温泉や、清少納言ゆかりの名湯・榊原温泉で、至高の肉美食ステイを。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/12599/12599.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

@@ -48,8 +48,8 @@ export default function NoboribetsuWinterPage() {
         "headline": "【11・12月登別温泉の白銀地獄谷と極上名湯】圧倒的湯量と9つの泉質・冬の北海道毛ガニ＆白老牛を堪能する名宿5選",
         "description": "11月下旬の初雪から12月の白銀世界へと移ろう北海道・登別温泉。荒涼とした岩肌からもうもうと白煙を上げる雪化粧の地獄谷、世界でも稀な9種類もの多彩な泉質を誇る名湯巡り。冬に身がぎっしり詰まる北海道産毛ガニと地元胆振の最高峰ブランド白老牛ステーキに舌鼓を打つ冬の極上北国旅ガイド。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/30109/30109.jpg",
-        "datePublished": "T00:00:00+09:00",
-        "dateModified": "T00:00:00+09:00",
+        "datePublished": "2026-10-18T00:00:00+09:00",
+        "dateModified": "2026-10-18T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

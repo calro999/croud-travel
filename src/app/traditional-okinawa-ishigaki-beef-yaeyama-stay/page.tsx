@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【A5石垣牛ステーキ＆八重山そば】南国石垣島の島素材美食と美ら海リゾート宿5選",
     "description": "澄んだ空気と豊かな牧草で育つ最高峰「石垣牛」のとろける炭火焼きステーキや握り、そして出汁香る名物八重山そば！川平湾やマエサトビーチの絶景オーシャンビューを望む南国ラグジュアリーホテルを厳選。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/160889/160889.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

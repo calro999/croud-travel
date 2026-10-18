@@ -44,8 +44,8 @@ export default function YamaguchiHofuShunanWinterPage() {
         "headline": "【11・12・1月山口】防府天満宮初詣と周南・徳山の冬ふぐ紀行！延縄発祥の地で味わう「本場とらふぐ・笠戸ひらめ・高森牛」と瀬戸内海展望名宿5選",
         "description": "新春の学業成就祈願と瀬戸内の極上冬フグを堪能する11〜1月の山口・周防（防府・周南・下松）旅行完全ガイド。「日本最初の天満宮」として名高い防府天満宮の新春初詣や、ふぐ延縄漁発祥の地・周南徳山が誇る本場の「天然＆養殖とらふぐ会席」、下松・笠戸島名物「笠戸ひらめ」、幻の銘柄牛「高森牛」。瀬戸内海の多島美を一望する絶景宿など厳選名宿5選を詳しくご紹介します。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/1139/1139.jpg",
-        "datePublished": "T00:00:00+09:00",
-        "dateModified": "T00:00:00+09:00",
+        "datePublished": "2026-10-18T00:00:00+09:00",
+        "dateModified": "2026-10-18T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "旅クラウド編集部",

@@ -67,8 +67,8 @@ export default function UnazukiWinterPage() {
         "headline": "【11・12月宇奈月温泉の初冬黒部峡谷美と名湯】雪化粧の峡谷露天と日本一の透明度・富山湾寒ブリ＆紅ズワイガニの宿5選",
         "description": "北アルプス最深部を穿つ黒部川の清流と断崖絶壁に抱かれた名湯・宇奈月温泉。11月中旬の晩秋から12月の初雪へと移ろう初冬、日本一の透明度を誇る弱アルカリ性美肌泉と、富山湾の冬の王者「寒ブリ」＆獲れたて紅ズワイガニ会席を堪能する名宿ガイド。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/9591/9591.jpg",
-        "datePublished": "T00:00:00+09:00",
-        "dateModified": "T00:00:00+09:00",
+        "datePublished": "2026-10-18T00:00:00+09:00",
+        "dateModified": "2026-10-18T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

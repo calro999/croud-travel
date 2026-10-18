@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【球体ドームサウナ＆湧水インフィニティ】森の静寂に溶け込むデザイナーズサウナ宿5選",
     "description": "近未来的な球体パノラマドームサウナと、天然湧水がオーバーフローするインフィニティ水風呂！木々のざわめきと小鳥の声をBGMに、建築美と大自然が融合した最高峰のデザイナーズスパリゾートを厳選紹介。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/171946/171946.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

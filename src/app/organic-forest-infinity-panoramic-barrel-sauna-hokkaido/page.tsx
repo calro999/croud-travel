@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【北海道大自然バレルサウナ】十勝・ニセコ・富良野！白樺原生林と極上雪解け湧水水風呂宿5選",
     "description": "雄大な北の大地に佇む本格木製バレルサウナ！十勝のアヴァントやニセコの羊蹄山ビュー、富良野の白樺林に囲まれながらのセルフロウリュと、氷点下シングルの天然水風呂・雪ダイブで異次元のととのい体験。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/30970/30970.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

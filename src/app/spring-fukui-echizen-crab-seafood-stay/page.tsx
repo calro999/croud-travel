@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【越前がにと若狭ふぐ】日本海の冬春極上味覚！福井・あわら温泉と三方五湖の美食名湯宿5選",
     "description": "黄色いタグ付き最高級「越前がに」の茹でたてアツアツと、ぷりぷりの歯ごたえがたまらない「若狭ふぐ」！関西の奥座敷・あわら温泉の風情あふれる庭園旅館で、北陸最高峰の冬春グルメを堪能する旅。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/160944/160944.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

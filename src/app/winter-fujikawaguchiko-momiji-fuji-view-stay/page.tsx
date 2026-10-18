@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【11月河口湖紅葉まつり＆初冠雪富士】もみじ回廊ライトアップと富士山ビュー客室露天宿5選",
     "description": "11月に見頃を迎える河口湖紅葉まつり！約60本の巨木モミジが約1.5kmにわたって深紅に染まる「もみじ回廊」ライトアップと、雪化粧した初冠雪の富士山を客室専用露天風呂から真正面に望む贅沢ステイ。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/2946/2946.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

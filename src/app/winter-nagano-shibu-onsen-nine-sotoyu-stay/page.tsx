@@ -67,8 +67,8 @@ export default function ShibuWinterPage() {
         "headline": "【11・12月渋温泉の厄除巡浴九湯めぐりと石畳情緒】木造建築が彩る冬のノスタルジー・信州プレミアム牛と地酒の宿5選",
         "description": "開湯1300年、下駄の音がカランコロンと響く長野県・信州渋温泉。11月の晩秋の冷気から12月の雪舞う石畳の温泉街へ。宿泊者限定のマスターキーで巡る名物「厄除巡浴九湯めぐり」、登録有形文化財の木造建築・歴史の宿金具屋を照らす灯り、そして極上の信州プレミアム牛肉と地酒を味わう冬の風情あふれる名宿ガイド。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/32044/32044.jpg",
-        "datePublished": "T00:00:00+09:00",
-        "dateModified": "T00:00:00+09:00",
+        "datePublished": "2026-10-18T00:00:00+09:00",
+        "dateModified": "2026-10-18T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

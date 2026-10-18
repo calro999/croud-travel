@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【客室専用お花見露天風呂】舞い散る桜を湯船から独占！春限定の極上プライベート温泉宿5選",
     "description": "満開の桜並木や庭園のしだれ桜を客室露天風呂から独り占め！湯面に浮かぶ桜の花びらと心地よい春風に包まれながら、誰にも気兼ねなく花見酒と旬の春会席を楽しめる贅沢な隠れ宿。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/106139/106139.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

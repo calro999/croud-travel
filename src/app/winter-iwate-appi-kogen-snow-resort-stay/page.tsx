@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【12月オープン！安比高原シルキースノー】東北随一のビッグゲレンデと白樺美肌温泉宿5選",
     "description": "12月上旬から東北屈指の極上シルキースノーが楽しめる「安比（あっぴ）高原スキー場」！全21コース・総滑走距離43kmの広大なゲレンデを満喫した後は、白樺林に囲まれた天然温泉大浴場と前沢牛ディナーに寛ぐ極上リゾート。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/181484/181484.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

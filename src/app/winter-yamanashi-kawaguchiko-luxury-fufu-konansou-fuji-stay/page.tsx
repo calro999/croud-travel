@@ -393,7 +393,7 @@ export default function LuxuryStayPage() {
 
               <div className="pt-2">
                 <a
-                  href="https://hb.afl.rakuten.co.jp/hgc/4bf14a1a.2085cf55.4bf14a1b.469cb8e9/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F76942%2F76942.html"
+                  href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F76942%2F76942.html"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block w-full text-center bg-gradient-to-r from-rose-600 to-amber-600 hover:from-rose-700 hover:to-amber-700 text-white font-extrabold text-lg py-4 rounded-xl shadow-lg hover:shadow-xl transition-all duration-200 transform hover:-translate-y-0.5"
@@ -531,7 +531,7 @@ export default function LuxuryStayPage() {
 
               <div className="pt-2">
                 <a
-                  href="https://hb.afl.rakuten.co.jp/hgc/4bf14a1a.2085cf55.4bf14a1b.469cb8e9/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29755%2F29755.html"
+                  href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29755%2F29755.html"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block w-full text-center bg-gradient-to-r from-rose-600 to-amber-600 hover:from-rose-700 hover:to-amber-700 text-white font-extrabold text-lg py-4 rounded-xl shadow-lg hover:shadow-xl transition-all duration-200 transform hover:-translate-y-0.5"

@@ -44,8 +44,8 @@ export default function GunmaTakasakiHarunaWinterPage() {
         "headline": "【11・12・1月群馬】奇岩の霊場「榛名神社」新春初詣と温泉記号発祥「磯部温泉」！下仁田ネギ・上州牛すき焼き名宿5選",
         "description": "上州の山岳信仰と文豪が愛した名湯に温まる11〜1月の冬旅ガイド。奇岩と巨木がそびえ立つ関東屈指のパワースポット「榛名神社」の新春初詣や、縁起だるま発祥の地「少林山達磨寺」でのだるま市。温泉マーク（♨）発祥の地として知られる安中・磯部温泉のナトリウム・塩化物炭酸水素塩泉で美肌湯浴み。冬に糖度が極まる本場「下仁田ネギ」と極上「上州牛」のすき焼き会席を堪能する名宿5選を詳しく解説します。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/29194/29194.jpg",
-        "datePublished": "T00:00:00+09:00",
-        "dateModified": "T00:00:00+09:00",
+        "datePublished": "2026-10-18T00:00:00+09:00",
+        "dateModified": "2026-10-18T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "旅クラウド編集部",

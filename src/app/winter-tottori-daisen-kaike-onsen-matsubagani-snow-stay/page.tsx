@@ -169,8 +169,8 @@ export default function TottoriDaisenKaikeWinterPage() {
         },
         "headline": "【11・12・1月鳥取】伯耆大山＆皆生温泉！白銀の「伯耆富士」絶景と大神山神社初詣・日本海の塩湯露天＆冬旬の松葉ガニ名宿5選",
         "description": "中国地方最高峰・伯耆大山が白銀に輝く11〜1月。ブナの原生林を巡るスノーシューや大神山神社奥宮への雪の初詣、そして日本海の海中から湧く美肌の「塩湯」皆生温泉。境港直送のブランドタグ付き松葉ガニのフルコースや鳥取和牛オレイン55、大山どりの極上グルメを堪能できる厳選名宿5選を徹底解説します。",
-        "datePublished": "T00:00:00+09:00",
-        "dateModified": "T00:00:00+09:00",
+        "datePublished": "2026-10-18T00:00:00+09:00",
+        "dateModified": "2026-10-18T00:00:00+09:00",
         "inLanguage": "ja",
         "publisher": {
           "@type": "Organization",

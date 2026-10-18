@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【11月解禁！越前ガニ＆間人ガニ】黄色いタグ付き最高峰ブランド蟹を味わう名湯宿5選",
     "description": "11月6日のカニ漁解禁とともに訪れる冬の至福！福井県が誇る黄色いタグ付き「越前がに」や、京都・丹後半島の幻の「間人（たいざ）ガニ」を、刺身・焼き・茹で・カニ味噌甲羅焼きのフルコースで堪能する冬の贅沢温泉旅。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/160944/160944.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

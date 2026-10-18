@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【12月雪化粧の世界遺産！白川郷合掌造り＆飛騨高山】白銀の原風景と飛騨牛・下呂名湯宿5選",
     "description": "12月から一面の雪景色に包まれる世界遺産・白川郷の合掌造り集落！茅葺き屋根に積もる白雪と温かい灯りが織りなす日本の原風景を散策し、飛騨高山の古い町並みや日本三名泉・下呂温泉のトロトロ美肌湯で寛ぐ冬旅。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/177425/177425.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

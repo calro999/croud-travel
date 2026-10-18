@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【竹林の静寂美】夜のライトアップとプライベート竹林露天！京都・伊豆の風雅な離れ隠れ宿5選",
     "description": "風にそよぐ笹の音と幽玄なライトアップに包まれる竹林露天風呂。客室専用ウッドデッキや離れの露天風呂から美しい竹林庭園を独占できる、贅沢で静寂に満ちた隠れ宿を厳選紹介。大人の極上休日を。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/10706/10706.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

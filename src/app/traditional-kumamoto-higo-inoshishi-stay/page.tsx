@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【極上馬刺し＆あか牛炭火焼き】火の国熊本の豪快肉グルメと黒川温泉・阿蘇の秘湯宿5選",
     "description": "とろける霜降り「熊本特選馬刺し」と、ヘルシーで赤身の旨味が凝縮した「阿蘇あか牛」！全国屈指の人気温泉地・黒川温泉の風情ある露天風呂めぐり（入湯手形）と、阿蘇の大自然に抱かれる至高の美食宿を厳選。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/67258/67258.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

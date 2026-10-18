@@ -71,8 +71,8 @@ export default function TsukiokaWinterPage() {
         "headline": "【11・12月月岡温泉のエメラルド美肌名湯と初冬味覚】国内屈指の硫黄泉雪見露天と村上牛・初冬寒ブリ＆新潟地酒の宿5選",
         "description": "国内第2位の硫黄含有量を誇り、神秘のエメラルドグリーンに輝く越後の名湯「月岡温泉」。「もっと美人になれる温泉」と謳われる美肌の湯に浸かり、11月下旬の初雪から12月の白銀雪景色を望む雪見露天風呂、A5ランク村上牛と日本海の寒ブリ、新潟新酒地酒を味わう名宿5選。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/32388/32388.jpg",
-        "datePublished": "T00:00:00+09:00",
-        "dateModified": "T00:00:00+09:00",
+        "datePublished": "2026-10-18T00:00:00+09:00",
+        "dateModified": "2026-10-18T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

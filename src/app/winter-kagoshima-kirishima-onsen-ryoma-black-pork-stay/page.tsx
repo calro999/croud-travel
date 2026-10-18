@@ -71,8 +71,8 @@ export default function KirishimaWinterPage() {
         "headline": "【11・12月霧島温泉郷の冬パノラマと坂本龍馬ゆかりの名湯】湯煙立ち上る霧島連山と乳白色泥湯・鹿児島黒豚しゃぶしゃぶ＆黒毛和牛の宿5選",
         "description": "坂本龍馬とおりょうが日本初の新婚旅行で訪れた九州屈指の名湯「霧島温泉郷」。初冬の澄み渡る空気の中に立ち上る雄大な湯煙と、霧島連山を望む絶景露天風呂、天然泥パックの美肌泥湯。極上の甘みを誇る「かごしま黒豚」しゃぶしゃぶと黒毛和牛、国宝・霧島神宮参拝を堪能する名宿5選。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/38553/38553.jpg",
-        "datePublished": "T00:00:00+09:00",
-        "dateModified": "T00:00:00+09:00",
+        "datePublished": "2026-10-18T00:00:00+09:00",
+        "dateModified": "2026-10-18T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

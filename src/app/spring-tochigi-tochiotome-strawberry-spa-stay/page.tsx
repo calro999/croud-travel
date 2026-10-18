@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【とちおとめ＆スカイベリー苺スイーツ】日光・鬼怒川温泉の贅沢ビュッフェと名湯宿5選",
     "description": "いちご王国・栃木が誇る「とちおとめ」「スカイベリー」「とちあいか」の食べ比べスイーツ！日光東照宮や鬼怒川渓谷の絶景を楽しみながら、豪華ディナービュッフェと美肌温泉を満喫する大満足ステイ。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/31366/31366.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",

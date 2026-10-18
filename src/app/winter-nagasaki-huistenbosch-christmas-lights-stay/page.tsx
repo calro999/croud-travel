@@ -48,8 +48,8 @@ export default function HuistenboschChristmasPage() {
         "headline": "【11・12月長崎ハウステンボス】日本一1300万球「光の街のクリスマス」とヨーロッパ風リゾート宿5選",
         "description": "11月上旬から開幕する世界最大級1300万球の祭典「光の街のクリスマス」！高さ12mの巨大ツリー群、日本初の運河アイススケート、夜空を彩るクリスマス花火を堪能。直営クラシックホテルや源泉温泉付きリゾートで過ごす特別な冬休み。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/9057/9057.jpg",
-        "datePublished": "T00:00:00+09:00",
-        "dateModified": "T00:00:00+09:00",
+        "datePublished": "2026-10-18T00:00:00+09:00",
+        "dateModified": "2026-10-18T00:00:00+09:00",
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",

@@ -42,8 +42,8 @@ export default function FeaturePage() {
     "headline": "【湖上アクティビティ】爽快ウェイクボード＆絶景SUPクルーズ！富士五湖・浜名湖のリゾート温泉宿5選",
     "description": "富士山を背景に水上を滑走するウェイクボードや、穏やかな湖面を進むSUPクルージング！ウォーターアクティビティを満喫した後は、レイクビュー温泉とサウナで極上のととのいを叶える人気リゾートを厳選。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/7824/7824.jpg",
-    "datePublished": "T00:00:00+09:00",
-    "dateModified": "T00:00:00+09:00",
+    "datePublished": "2026-10-18T00:00:00+09:00",
+    "dateModified": "2026-10-18T00:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",
