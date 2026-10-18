@@ -93,3 +93,4 @@ showcase_miyagi
 october-travel-city-kotohira-kids-family-guide
 showcase_nagano
 dolphin-swim-encounter-ocean-resort-hotels-guide
+showcase_miyagi
