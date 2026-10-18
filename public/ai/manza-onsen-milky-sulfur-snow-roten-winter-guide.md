@@ -1,17 +1,28 @@
+---
+title: "万座温泉の標高1800m白銀乳白色秘湯と日本一の濃厚硫黄泉！満天の冬星空・パウダースノー雪見大露天風呂名宿ガイド"
+url: "https://croud-travel.pages.dev/posts/manza-onsen-milky-sulfur-snow-roten-winter-guide/"
+hotel_name: "万座温泉　万座亭"
+prefecture: "群馬県"
+area: "万座・嬬恋"
+price_from: 5500
+rating: 4.39
+review_count: 941
+last_modified: "2026-10-13"
+---
+
 # 万座温泉の標高1800m白銀乳白色秘湯と日本一の濃厚硫黄泉！満天の冬星空・パウダースノー雪見大露天風呂名宿ガイド
 
-- URL: https://croud-travel.pages.dev/posts/manza-onsen-milky-sulfur-snow-roten-winter-guide/
-- 宿泊施設名: 万座温泉　万座亭
-- 都道府県: 群馬県
-- エリア: 万座・嬬恋
-- 参考価格: ¥5500〜
-- 評価: 4.39
-- 更新日: 2026-10-13
+- **URL**: https://croud-travel.pages.dev/posts/manza-onsen-milky-sulfur-snow-roten-winter-guide/
+- **宿泊施設・特集名**: 万座温泉　万座亭
+- **所在地**: 群馬県（万座・嬬恋）
+- **参考最安料金**: ¥5,500〜
+- **楽天トラベル評価**: ★4.39（口コミ 941件）
+- **最終更新日**: 2026-10-13
 
-## 概要
+## 要約（TL;DR）
 【2026年秋・冬特集】群馬県・万座温泉の11月・12月・1月冬特集！日本一の硫黄含有量を誇る標高1,800mの白銀乳白色秘湯、雪見大野天風呂と満天の星空、極上シルキースノー万座スキー場と上州牛会席名宿ガイド。
 
-## 詳細
+## 詳細解説
 ❄️2026年 冬〜年末年始旅行の予約速報
 
  冬の味覚解禁（カニ・ふぐ・寒ブリ）や雪見露天・年末年始の宿泊枠は例年10月中旬〜11月上旬で満室が急増します。空室状況はお早めに確認を。

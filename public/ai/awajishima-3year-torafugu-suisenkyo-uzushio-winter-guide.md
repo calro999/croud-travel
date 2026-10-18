@@ -1,17 +1,27 @@
+---
+title: "淡路島温泉の冬の極上味覚「淡路島3年とらふぐ」と灘黒岩水仙郷！鳴門海峡の冬渦潮とうずしお温泉美肌の湯・絶景名宿ガイド"
+url: "https://croud-travel.pages.dev/posts/awajishima-3year-torafugu-suisenkyo-uzushio-winter-guide/"
+hotel_name: "休暇村　南淡路　＜淡路島＞"
+prefecture: "兵庫県"
+area: "淡路島・南あわじ"
+price_from: 12500
+rating: 4.47
+last_modified: "2026-10-13"
+---
+
 # 淡路島温泉の冬の極上味覚「淡路島3年とらふぐ」と灘黒岩水仙郷！鳴門海峡の冬渦潮とうずしお温泉美肌の湯・絶景名宿ガイド
 
-- URL: https://croud-travel.pages.dev/posts/awajishima-3year-torafugu-suisenkyo-uzushio-winter-guide/
-- 宿泊施設名: 休暇村　南淡路　＜淡路島＞
-- 都道府県: 兵庫県
-- エリア: 淡路島・南あわじ
-- 参考価格: ¥12500〜
-- 評価: 4.47
-- 更新日: 2026-10-13
+- **URL**: https://croud-travel.pages.dev/posts/awajishima-3year-torafugu-suisenkyo-uzushio-winter-guide/
+- **宿泊施設・特集名**: 休暇村　南淡路　＜淡路島＞
+- **所在地**: 兵庫県（淡路島・南あわじ）
+- **参考最安料金**: ¥12,500〜
+- **楽天トラベル評価**: ★4.47
+- **最終更新日**: 2026-10-13
 
-## 概要
+## 要約（TL;DR）
 【2026年秋・冬特集】兵庫県・淡路島温泉（南あわじ）の11月・12月・1月冬特集！激流で育つ最高峰「淡路島3年とらふぐ」のてっさ・焼き白子・てっちり、約500万本の灘黒岩水仙郷絶景、とろとろ美肌重曹泉うずしお温泉名宿ガイド。
 
-## 詳細
+## 詳細解説
 ❄️2026年 冬〜年末年始旅行の予約速報
 
  冬の味覚解禁（カニ・ふぐ・寒ブリ）や雪見露天・年末年始の宿泊枠は例年10月中旬〜11月上旬で満室が急増します。空室状況はお早めに確認を。

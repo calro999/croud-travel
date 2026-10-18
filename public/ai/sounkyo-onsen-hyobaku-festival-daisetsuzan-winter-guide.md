@@ -1,17 +1,28 @@
+---
+title: "層雲峡温泉の氷瀑まつりと大雪山白銀大渓谷！七色ライトアップ氷の宮殿と旭山動物園雪景色・源泉かけ流し名宿ガイド"
+url: "https://croud-travel.pages.dev/posts/sounkyo-onsen-hyobaku-festival-daisetsuzan-winter-guide/"
+hotel_name: "層雲峡温泉　湯元　銀泉閣（ＢＢＨホテルグループ）"
+prefecture: "北海道"
+area: "層雲峡・大雪山"
+price_from: 4800
+rating: 4.12
+review_count: 607
+last_modified: "2026-10-13"
+---
+
 # 層雲峡温泉の氷瀑まつりと大雪山白銀大渓谷！七色ライトアップ氷の宮殿と旭山動物園雪景色・源泉かけ流し名宿ガイド
 
-- URL: https://croud-travel.pages.dev/posts/sounkyo-onsen-hyobaku-festival-daisetsuzan-winter-guide/
-- 宿泊施設名: 層雲峡温泉　湯元　銀泉閣（ＢＢＨホテルグループ）
-- 都道府県: 北海道
-- エリア: 層雲峡・大雪山
-- 参考価格: ¥4800〜
-- 評価: 4.12
-- 更新日: 2026-10-13
+- **URL**: https://croud-travel.pages.dev/posts/sounkyo-onsen-hyobaku-festival-daisetsuzan-winter-guide/
+- **宿泊施設・特集名**: 層雲峡温泉　湯元　銀泉閣（ＢＢＨホテルグループ）
+- **所在地**: 北海道（層雲峡・大雪山）
+- **参考最安料金**: ¥4,800〜
+- **楽天トラベル評価**: ★4.12（口コミ 607件）
+- **最終更新日**: 2026-10-13
 
-## 概要
+## 要約（TL;DR）
 北海道・大雪山麓に位置する層雲峡温泉の11月・12月・1月冬特集！七色に輝く氷瀑まつりと銀河・流星の滝の巨大氷壁、旭山動物園の雪中ペンギン散歩、極上源泉かけ流し雪見露天風呂と名物大雪高原牛を徹底解説。
 
-## 詳細
+## 詳細解説
 ❄️2026年 冬〜年末年始旅行の予約速報
 
  冬の味覚解禁（カニ・ふぐ・寒ブリ）や雪見露天・年末年始の宿泊枠は例年10月中旬〜11月上旬で満室が急増します。空室状況はお早めに確認を。

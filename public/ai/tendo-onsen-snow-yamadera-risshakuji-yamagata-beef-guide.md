@@ -1,17 +1,28 @@
+---
+title: "天童温泉の雪の山寺（立石寺）水墨画絶景と将棋駒の街！弱アルカリ美肌の湯と極上山形牛すき焼き・寒中さくらんぼ名宿ガイド"
+url: "https://croud-travel.pages.dev/posts/tendo-onsen-snow-yamadera-risshakuji-yamagata-beef-guide/"
+hotel_name: "天童温泉　松伯亭　あづま荘"
+prefecture: "山形県"
+area: "天童・山形"
+price_from: 12980
+rating: 4.64
+review_count: 616
+last_modified: "2026-10-13"
+---
+
 # 天童温泉の雪の山寺（立石寺）水墨画絶景と将棋駒の街！弱アルカリ美肌の湯と極上山形牛すき焼き・寒中さくらんぼ名宿ガイド
 
-- URL: https://croud-travel.pages.dev/posts/tendo-onsen-snow-yamadera-risshakuji-yamagata-beef-guide/
-- 宿泊施設名: 天童温泉　松伯亭　あづま荘
-- 都道府県: 山形県
-- エリア: 天童・山形
-- 参考価格: ¥12980〜
-- 評価: 4.64
-- 更新日: 2026-10-13
+- **URL**: https://croud-travel.pages.dev/posts/tendo-onsen-snow-yamadera-risshakuji-yamagata-beef-guide/
+- **宿泊施設・特集名**: 天童温泉　松伯亭　あづま荘
+- **所在地**: 山形県（天童・山形）
+- **参考最安料金**: ¥12,980〜
+- **楽天トラベル評価**: ★4.64（口コミ 616件）
+- **最終更新日**: 2026-10-13
 
-## 概要
+## 要約（TL;DR）
 山形県・天童温泉の11月・12月・1月冬特集！松尾芭蕉ゆかりの雪の山寺（立石寺）1015段の雪景色と五大堂水墨画パノラマ、将棋駒彫り体験、弱アルカリ性美肌の湯と極上山形牛すき焼き・寒中さくらんぼ名宿ガイド。
 
-## 詳細
+## 詳細解説
 ❄️2026年 冬〜年末年始旅行の予約速報
 
  冬の味覚解禁（カニ・ふぐ・寒ブリ）や雪見露天・年末年始の宿泊枠は例年10月中旬〜11月上旬で満室が急増します。空室状況はお早めに確認を。

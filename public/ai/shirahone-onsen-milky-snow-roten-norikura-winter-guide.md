@@ -1,17 +1,28 @@
+---
+title: "白骨温泉の白銀乳白色秘湯と名物野天風呂！「三日入れば三年風邪をひかぬ」名湯と乗鞍高原氷瀑・信州投じ蕎麦名宿ガイド"
+url: "https://croud-travel.pages.dev/posts/shirahone-onsen-milky-snow-roten-norikura-winter-guide/"
+hotel_name: "白骨温泉　小梨の湯　笹屋"
+prefecture: "長野県"
+area: "白骨・乗鞍"
+price_from: 21945
+rating: 4.65
+review_count: 127
+last_modified: "2026-10-13"
+---
+
 # 白骨温泉の白銀乳白色秘湯と名物野天風呂！「三日入れば三年風邪をひかぬ」名湯と乗鞍高原氷瀑・信州投じ蕎麦名宿ガイド
 
-- URL: https://croud-travel.pages.dev/posts/shirahone-onsen-milky-snow-roten-norikura-winter-guide/
-- 宿泊施設名: 白骨温泉　小梨の湯　笹屋
-- 都道府県: 長野県
-- エリア: 白骨・乗鞍
-- 参考価格: ¥21945〜
-- 評価: 4.65
-- 更新日: 2026-10-13
+- **URL**: https://croud-travel.pages.dev/posts/shirahone-onsen-milky-snow-roten-norikura-winter-guide/
+- **宿泊施設・特集名**: 白骨温泉　小梨の湯　笹屋
+- **所在地**: 長野県（白骨・乗鞍）
+- **参考最安料金**: ¥21,945〜
+- **楽天トラベル評価**: ★4.65（口コミ 127件）
+- **最終更新日**: 2026-10-13
 
-## 概要
+## 要約（TL;DR）
 長野県・北アルプス山麓の白骨温泉11月・12月・1月冬特集！「三日入れば三年風邪をひかぬ」乳白色のまろやかな秘湯と雪見野天風呂、乗鞍高原善五郎の滝のブルーアイス氷瀑、信州投じ蕎麦と温泉粥の極上冬旅ガイド。
 
-## 詳細
+## 詳細解説
 ❄️2026年 冬〜年末年始旅行の予約速報
 
  冬の味覚解禁（カニ・ふぐ・寒ブリ）や雪見露天・年末年始の宿泊枠は例年10月中旬〜11月上旬で満室が急増します。空室状況はお早めに確認を。

@@ -16,13 +16,13 @@ export const metadata: Metadata = {
   metadataBase: new URL(url),
   title: {
     default: siteName,
-    template: `%s | ${siteName}`,
+    template: `%s ｜ 旅宿クラウド`,
   },
   description: description,
   keywords: [
     "旅行", "観光", "温泉", "露天風呂", "高級宿", "リゾート", "ホテル", "グルメ", "女子旅", "ファミリー旅行", "楽天トラベル", "47都道府県", "キャンペーン", "5と0のつく日", "ふるさと納税"
   ],
-  authors: [{ name: "旅宿クラウド編集部" }],
+  authors: [{ name: "旅宿クラウド編集部", url: `${url}/about/` }],
   creator: "旅宿クラウド編集部",
   publisher: "旅宿クラウド",
   formatDetection: {
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: siteName,
     description: description,
-    url: url,
+    url: `${url}/`,
     siteName: siteName,
     images: [
       {
@@ -119,21 +119,21 @@ export default function RootLayout({
             <nav className="flex items-center flex-wrap justify-center gap-4 md:gap-6 text-xs font-bold text-teal-900/80">
               <Link href="/" className="hover:text-amber-700 transition">ホーム</Link>
               <span className="text-emerald-950/20">/</span>
-              <Link href="/prefectures" className="hover:text-amber-700 transition flex items-center gap-1">
+              <Link href="/prefectures/" className="hover:text-amber-700 transition flex items-center gap-1">
                 <span>🗾 47都道府県の見所</span>
               </Link>
               <span className="text-emerald-950/20">/</span>
-              <Link href="/features" className="text-teal-800 hover:text-teal-600 transition flex items-center gap-1 font-black">
+              <Link href="/features/" className="text-teal-800 hover:text-teal-600 transition flex items-center gap-1 font-black">
                 <span>✨ 特集・まとめ</span>
               </Link>
               <span className="text-emerald-950/20">/</span>
-              <Link href="/campaigns" className="text-amber-700 hover:text-amber-600 transition flex items-center gap-1 font-black">
+              <Link href="/campaigns/" className="text-amber-700 hover:text-amber-600 transition flex items-center gap-1 font-black">
                 <span>🎁 お得キャンペーン</span>
               </Link>
               <span className="text-emerald-950/20">/</span>
               <BookmarksModal />
               <span className="text-emerald-950/20">/</span>
-              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F" target="_blank" rel="noopener noreferrer" className="hover:text-teal-700 transition flex items-center gap-1 text-teal-900/60">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F" target="_blank" rel="sponsored noopener noreferrer" className="hover:text-teal-700 transition flex items-center gap-1 text-teal-900/60">
                 楽天トラベル公式 ✈️
               </a>
             </nav>
@@ -168,8 +168,8 @@ export default function RootLayout({
                   { label: "🍜 グルメ・美食", href: "/?category=gourmet" },
                   { label: "🏔️ アクティビティ・自然", href: "/?category=activity" },
                   { label: "👨‍👩‍👧 ファミリー・女子旅", href: "/?category=family" },
-                  { label: "✨ 特集・まとめ", href: "/features" },
-                  { label: "🎁 お得キャンペーン", href: "/campaigns" },
+                  { label: "✨ 特集・まとめ", href: "/features/" },
+                  { label: "🎁 お得キャンペーン", href: "/campaigns/" },
                 ].map(item => (
                   <Link
                     key={item.href}
@@ -189,7 +189,7 @@ export default function RootLayout({
                 <h3 className="font-bold text-emerald-950 text-sm font-journal-serif flex items-center gap-1.5">
                   <span>🗾</span> <span>全国47都道府県の見所ガイド＆宿特集から探す</span>
                 </h3>
-                <Link href="/prefectures" className="text-[11px] font-bold text-teal-800 hover:underline">
+                <Link href="/prefectures/" className="text-[11px] font-bold text-teal-800 hover:underline">
                   一覧ページを見る →
                 </Link>
               </div>
@@ -207,7 +207,7 @@ export default function RootLayout({
                         return (
                           <Link
                             key={pInfo.slug}
-                            href={`/prefectures/${pInfo.slug}`}
+                            href={`/prefectures/${pInfo.slug}/`}
                             className="hover:text-teal-800 hover:underline text-emerald-950/80 font-medium"
                           >
                             {pInfo.name}
@@ -231,21 +231,21 @@ export default function RootLayout({
               <div className="flex flex-wrap justify-center gap-4 text-[11px] font-bold text-teal-900/80">
                 <Link href="/" className="hover:text-teal-800">ホーム</Link>
                 <span>•</span>
-                <Link href="/about" className="hover:text-teal-800 text-teal-800">運営者情報・編集方針</Link>
+                <Link href="/about/" className="hover:text-teal-800 text-teal-800">運営者情報・編集方針</Link>
                 <span>•</span>
-                <Link href="/privacy" className="hover:text-teal-800">プライバシーポリシー</Link>
+                <Link href="/privacy/" className="hover:text-teal-800">プライバシーポリシー</Link>
                 <span>•</span>
-                <Link href="/contact" className="hover:text-teal-800">お問い合わせ</Link>
+                <Link href="/contact/" className="hover:text-teal-800">お問い合わせ</Link>
                 <span>•</span>
-                <Link href="/prefectures" className="hover:text-teal-800">都道府県一覧</Link>
+                <Link href="/prefectures/" className="hover:text-teal-800">都道府県一覧</Link>
                 <span>•</span>
-                <Link href="/features" className="hover:text-teal-800 text-teal-800">特集一覧</Link>
+                <Link href="/features/" className="hover:text-teal-800 text-teal-800">特集一覧</Link>
                 <span>•</span>
-                <Link href="/campaigns" className="hover:text-teal-800 text-amber-700">お得キャンペーン</Link>
+                <Link href="/campaigns/" className="hover:text-teal-800 text-amber-700">お得キャンペーン</Link>
                 <span>•</span>
-                <Link href="/sitemap" className="hover:text-teal-800">サイトマップ</Link>
+                <Link href="/sitemap/" className="hover:text-teal-800">サイトマップ</Link>
                 <span>•</span>
-                <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F" target="_blank" rel="noopener noreferrer" className="hover:text-teal-800">楽天トラベル公式</a>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F" target="_blank" rel="sponsored noopener noreferrer" className="hover:text-teal-800">楽天トラベル公式</a>
               </div>
             </div>
           </div>

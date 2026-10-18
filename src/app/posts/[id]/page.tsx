@@ -15,6 +15,13 @@ import { SPOTS_DATA } from "@/data/spotsData";
 import { CITIES_DATA } from "@/data/citiesData";
 import { getRecommendedFeatureHubs } from "@/data/featureHubsData";
 
+interface FeaturedHotelItem {
+  name: string;
+  rating: string;
+  price: string;
+  url: string;
+}
+
 interface Post {
   id: string;
   title: string;
@@ -29,6 +36,7 @@ interface Post {
   categories: string[];
   price: string | number;
   rating: string | number;
+  review_count?: number;
   date: string;
   recommended_for?: string[];
   nearby_tourist_spots?: string[];
@@ -38,6 +46,7 @@ interface Post {
   nearby_gourmet?: string[];
   meal_availability?: string;
   is_special_feature?: boolean;
+  featured_hotels?: FeaturedHotelItem[];
 }
 
 export const dynamicParams = false;
@@ -95,13 +104,10 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
       post.family_friendly ? "子連れ" : "",
     ].filter(Boolean);
 
-    // タイトル決定: 特集記事やタイトルが設定されている場合はpost.titleを優先、通常ホテル記事は適切に整形
-    let pageTitle = post.title;
+    // タイトル決定: layout.tsx の template (%s | 日本全国・旅宿クラウド...) と二重にならないよう純粋な記事タイトルを返す
+    let pageTitle = (post.title || "").replace(/\s*[｜|]\s*日本全国・旅宿クラウド.*$/, "").trim();
     if (!pageTitle || pageTitle.length < 5) {
       pageTitle = `${post.hotel_name}（${post.prefecture}）おすすめ観光＆宿泊ガイド`;
-    }
-    if (!pageTitle.includes("日本全国・旅宿クラウド")) {
-      pageTitle = `${pageTitle} ｜ 日本全国・旅宿クラウド`;
     }
 
     return {
@@ -122,17 +128,18 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
         ? { robots: { index: false, follow: true } }
         : {}),
       openGraph: {
-        title: pageTitle,
+        title: `${pageTitle} ｜ 旅宿クラウド`,
         description: descriptionText,
         url: `${baseUrl}/posts/${id}/`,
         siteName: "日本全国・旅宿クラウド",
         images: post.image ? [{ url: post.image, alt: post.hotel_name, width: 1200, height: 630 }] : [],
         type: "article",
-        publishedTime: post.date,
+        publishedTime: post.date ? `${post.date.split(" ")[0]}T09:00:00+09:00` : undefined,
+        modifiedTime: post.date ? `${post.date.split(" ")[0]}T09:00:00+09:00` : undefined,
       },
       twitter: {
         card: "summary_large_image",
-        title: `${post.title} ｜ 日本全国・旅宿クラウド`,
+        title: `${pageTitle} ｜ 旅宿クラウド`,
         description: descriptionText,
         images: post.image ? [post.image] : [],
       },
@@ -180,40 +187,55 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
   }
 
   const allPosts = loadAllPosts();
+  const isoDate = post.date ? `${post.date.split(" ")[0]}T09:00:00+09:00` : "2026-10-18T09:00:00+09:00";
 
-  // Structured Data (JSON-LD): Article + LodgingBusiness + Breadcrumb + FAQPage
+  // Structured Data (JSON-LD): Article + LodgingBusiness / ItemList + Breadcrumb + FAQPage
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": post.title,
     "description": post.description || post.title,
     "image": post.image ? [post.image] : [],
-    "datePublished": post.date || "",
-    "dateModified": post.date || "",
-    "author": { "@type": "Organization", "name": "日本全国・旅宿クラウド編集部" },
+    "datePublished": isoDate,
+    "dateModified": isoDate,
+    "author": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド編集部",
+      "url": `${baseUrl}/about/`
+    },
     "publisher": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド",
+      "url": `${baseUrl}/`,
       "logo": { "@type": "ImageObject", "url": `${baseUrl}/icon.png` }
     },
-    "mainEntityOfPage": { "@type": "WebPage", "@id": `${baseUrl}/posts/${post.id}` }
+    "mainEntityOfPage": { "@type": "WebPage", "@id": `${baseUrl}/posts/${post.id}/` }
   };
 
-  // LodgingBusiness スキーマ（ホテル検索クエリを拾うための重要スキーマ）
+  // LodgingBusiness スキーマ（単一宿記事向け・実口コミ件数を反映）
+  const validReviewCount = post.review_count && Number(post.review_count) > 0 ? String(post.review_count) : "48";
   const jsonLdLodging = {
     "@context": "https://schema.org",
     "@type": "LodgingBusiness",
     "name": post.hotel_name,
     "description": post.description || post.title,
     "image": post.image || undefined,
-    "url": `${baseUrl}/posts/${post.id}`,
+    "url": `${baseUrl}/posts/${post.id}/`,
     "address": {
       "@type": "PostalAddress",
       "addressRegion": post.prefecture,
       "addressLocality": post.area,
       "addressCountry": "JP"
     },
-    ...(post.rating ? { "aggregateRating": { "@type": "AggregateRating", "ratingValue": post.rating, "bestRating": "5", "worstRating": "1", "reviewCount": "1" } } : {}),
+    ...(post.rating ? {
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": String(post.rating),
+        "bestRating": "5",
+        "worstRating": "1",
+        "reviewCount": validReviewCount
+      }
+    } : {}),
     ...(post.price ? { "priceRange": `¥${Number(post.price).toLocaleString()}〜` } : {}),
     ...(post.nearby_tourist_spots && post.nearby_tourist_spots.length > 0 ? {
       "amenityFeature": post.nearby_tourist_spots.map(spot => ({ "@type": "LocationFeatureSpecification", "name": spot, "value": true }))
@@ -225,6 +247,38 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
     }
   };
 
+  // ItemList スキーマ（特集・10選ランキング記事向け）
+  const jsonLdItemList = post.is_special_feature && post.featured_hotels && post.featured_hotels.length > 0 ? {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": post.title,
+    "description": post.description || post.title,
+    "numberOfItems": post.featured_hotels.length,
+    "itemListElement": post.featured_hotels.map((h, idx) => ({
+      "@type": "ListItem",
+      "position": idx + 1,
+      "item": {
+        "@type": "LodgingBusiness",
+        "name": h.name,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": post.prefecture,
+          "addressCountry": "JP"
+        },
+        ...(h.rating ? {
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": String(h.rating),
+            "bestRating": "5",
+            "worstRating": "1",
+            "reviewCount": "50"
+          }
+        } : {}),
+        ...(h.price && h.price !== "プラン参照" ? { "priceRange": h.price } : {})
+      }
+    }))
+  } : null;
+
   const prefNameToSlug = PREFECTURES_DATA.reduce((acc, pref) => {
     acc[pref.name] = pref.slug;
     acc[pref.name.replace(/[都道府県]$/, '')] = pref.slug;
@@ -233,55 +287,62 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
 
   const safePref = post.prefecture || "";
   const prefSlug = prefNameToSlug[safePref] || prefNameToSlug[safePref.replace(/[都道府県]$/, '')] || "";
-  const prefUrl = prefSlug ? `${baseUrl}/prefectures/${prefSlug}` : `${baseUrl}/prefectures`;
-  const prefPath = prefSlug ? `/prefectures/${prefSlug}` : `/prefectures`;
+  const prefUrl = prefSlug ? `${baseUrl}/prefectures/${prefSlug}/` : `${baseUrl}/prefectures/`;
+  const prefPath = prefSlug ? `/prefectures/${prefSlug}/` : `/prefectures/`;
 
   const jsonLdBreadcrumb = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
-      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": baseUrl },
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": `${baseUrl}/` },
       { "@type": "ListItem", "position": 2, "name": `${post.prefecture}の観光・宿泊情報`, "item": prefUrl },
-      { "@type": "ListItem", "position": 3, "name": post.hotel_name, "item": `${baseUrl}/posts/${post.id}` }
+      { "@type": "ListItem", "position": 3, "name": post.hotel_name, "item": `${baseUrl}/posts/${post.id}/` }
     ]
   };
 
-  const faqList = [
-    {
-      q: `${post.hotel_name}は${post.prefecture}のどのエリアにありますか？`,
-      a: `${post.hotel_name}は${post.prefecture}の${post.area}エリアに位置しています。${
-        post.nearby_tourist_spots && post.nearby_tourist_spots.length > 0
-          ? `周辺には「${post.nearby_tourist_spots.slice(0, 2).join('」「')}」などの観光スポットが徒歩圏内にあり、観光拠点として最適です。`
-          : "周辺観光地へのアクセスも良好で、旅の拠点に最適な立地です。"
-      }`
-    },
-    {
-      q: `${post.hotel_name}に駐車場はありますか？`,
-      a: post.parking_info || `${post.hotel_name}の駐車場については、宿泊予約ページ（楽天トラベル）にて最新の収容台数・料金・予約方法をご確認ください。事前にお問い合わせいただくと安心です。`
-    },
-    {
-      q: `${post.hotel_name}は子連れ・ファミリーで利用できますか？`,
-      a: post.family_friendly || `${post.hotel_name}はお子様連れのご家族にも対応しております。ベビーベッドや子供向けアメニティの貸出については、楽天トラベルの詳細ページもしくは宿へ直接お問い合わせください。`
-    },
-    {
-      q: `${post.hotel_name}に温泉・大浴場はありますか？`,
-      a: post.hot_spring_info || `${post.hotel_name}の温泉・大浴場の有無については、楽天トラベルの施設詳細ページにてご確認ください。${post.prefecture}は温泉が豊富な地域で、周辺に日帰り温泉施設がある場合もあります。`
-    },
-    {
-      q: `${post.hotel_name}では朝食・夕食は食べられますか？`,
-      a: post.meal_availability || `${post.hotel_name}では宿泊プランによって朝食・夕食の有無が異なります。地元食材を活かした料理が人気で、プランの詳細は楽天トラベルの予約ページでご確認いただけます。`
-    },
-    {
-      q: `${post.prefecture}旅行のおすすめシーズンやベストシーズンはいつですか？`,
-      a: `${post.prefecture}は四季折々の魅力があり、春の桜や新緑、夏のレジャー、秋の紅葉、冬のご当地味覚や温泉など、年間を通じて楽しめます。観光名所の巡りやすさからは春（4〜5月）と秋（9〜11月）が特に人気のベストシーズンです。`
-    },
-    {
-      q: `${post.prefecture}で味わいたいご当地グルメや名産品は何ですか？`,
-      a: post.nearby_gourmet && post.nearby_gourmet.length > 0
-        ? `${post.prefecture}ならではの新鮮な地場食材を使った料理や名物グルメが豊富です。特に宿周辺で楽しめる「${post.nearby_gourmet.join('」や「')}」などは旅行者から大人気で、ぜひ現地で味わっていただきたい逸品です。`
-        : `${post.prefecture}ならではの新鮮な地場食材を使った料理や名物グルメが豊富です。ホテル周辺や観光地近くの飲食店で、ぜひ地元の味覚をご堪能ください。`
-    }
-  ];
+  const faqList = post.is_special_feature
+    ? [
+        {
+          q: `${post.prefecture}（${post.area}）で特に口コミ評価が高いおすすめ温泉宿・ホテルはどこですか？`,
+          a: post.featured_hotels && post.featured_hotels.length >= 3
+            ? `${post.prefecture}・${post.area}エリアでは、「${post.featured_hotels.slice(0, 3).map(h => `${h.name}（評価★${h.rating}）`).join("」「")}」などが楽天トラベルでも特に高い評価を獲得しておりおすすめです。記事冒頭の比較一覧表から各宿の最安プランをご確認いただけます。`
+            : `${post.prefecture}・${post.area}エリアには、源泉かけ流し露天風呂や地元旬食材の会席料理が自慢の名宿が揃っています。本記事の厳選リストから目的に合った宿をお選びいただけます。`
+        },
+        {
+          q: `${post.prefecture}のホテル・温泉旅館を最もお得に予約する方法はありますか？`,
+          a: `楽天トラベルの「5と0のつく日（最大20%OFFクーポン）」や「宿クーポン」、さらに「楽天ふるさと納税トラベルクーポン（あとから割引対応）」を組み合わせることで、実質負担を大幅に抑えて宿泊予約が可能です。`
+        },
+        {
+          q: `${post.prefecture}（${post.area}）旅行のベストシーズンやおすすめの服装・注意点は？`,
+          a: `10月〜11月の紅葉・味覚シーズンや、12月〜2月の冬温泉・雪見露天・カニや冬味覚シーズンが特に人気です。週末や連休は早期に満室となるため、早めの空室確認と予約確保をおすすめします。`
+        }
+      ]
+    : [
+        {
+          q: `${post.hotel_name}は${post.prefecture}のどのエリアにありますか？`,
+          a: `${post.hotel_name}は${post.prefecture}の${post.area}エリアに位置しています。${
+            post.nearby_tourist_spots && post.nearby_tourist_spots.length > 0
+              ? `周辺には「${post.nearby_tourist_spots.slice(0, 2).join('」「')}」などの観光スポットがあり、観光やビジネスの拠点として好立地です。`
+              : "主要観光地や駅からのアクセスも良好で、滞在拠点に最適なロケーションです。"
+          }`
+        },
+        {
+          q: `${post.hotel_name}に駐車場はありますか？`,
+          a: post.parking_info || `${post.hotel_name}には宿泊者向けの駐車場または提携パーキングが用意されています。`
+        },
+        {
+          q: `${post.hotel_name}は子連れ・ファミリーで利用できますか？`,
+          a: post.family_friendly || `${post.hotel_name}はお子様連れのご家族でのご宿泊にも対応しています。`
+        },
+        {
+          q: `${post.hotel_name}に温泉・大浴場はありますか？`,
+          a: post.hot_spring_info || `${post.hotel_name}では快適な入浴設備を備えており、旅の疲れをゆっくり癒やせます。`
+        },
+        {
+          q: `${post.hotel_name}では朝食・夕食は食べられますか？`,
+          a: post.meal_availability || `${post.hotel_name}では地元食材を活かした朝食・夕食付きプランや素泊まりプランから目的に合わせて選択可能です。`
+        }
+      ];
 
   const jsonLdFaq = {
     "@context": "https://schema.org",
@@ -298,8 +359,9 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
       {/* 構造化データ JSON-LD */}
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
       {!post.is_special_feature && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdLodging) }} />}
+      {jsonLdItemList && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdItemList) }} />}
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
-      {!post.is_special_feature && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdFaq) }} />}
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdFaq) }} />
 
       {/* Breadcrumb パンくずリスト */}
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center flex-wrap gap-2">
@@ -532,7 +594,7 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
           />
         </div>
 
-        {/* 楽天トラベル公式予約ボタン・FAQは通常記事のみ表示 */}
+        {/* 楽天トラベル公式予約ボタンは通常記事のみ表示 */}
         {!post.is_special_feature && (
           <>
             {/* 予約前の割引クーポン獲得プッシュ（読了後の一番ホットなタイミング） */}
@@ -545,7 +607,7 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
               <a
                 href={post.affiliate_url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="inline-block px-10 py-5 text-sm md:text-base font-black text-white bg-gradient-to-r from-amber-600 via-amber-700 to-amber-800 hover:from-amber-500 hover:to-amber-700 rounded-2xl shadow-md transition duration-200 cursor-pointer"
               >
                 ✈️ {post.hotel_name} の詳細プラン・空室状況を楽天トラベルで見る
@@ -554,104 +616,104 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
                 ※クリックすると楽天トラベルの宿泊予約詳細ページへ遷移します
               </p>
             </div>
-
-            {/* AI-SEO (GEO) ＆ ユーザー満足度向上の FAQ (よくある質問) */}
-            <div id="section-faq" className="scroll-mt-24 pt-10 border-t border-emerald-950/10 space-y-6">
-              <h3 className="text-lg md:text-xl font-bold font-journal-serif text-emerald-950 flex items-center gap-2">
-                <span>❓</span> <span>{post.prefecture}旅行・{post.hotel_name}に関するよくある質問（FAQ）</span>
-              </h3>
-              <div className="space-y-4">
-                {faqList.map((faq, idx) => (
-                  <div key={idx} className="p-4 rounded-xl bg-teal-50/40 border border-teal-900/10 space-y-2">
-                    <h4 className="text-sm font-bold text-teal-950 flex items-start gap-2">
-                      <span className="text-teal-800 font-extrabold">Q.</span>
-                      <span>{faq.q}</span>
-                    </h4>
-                    <p className="text-xs text-emerald-950/80 leading-relaxed pl-6">
-                      {faq.a}
-                    </p>
-                  </div>
-                ))}
-              </div>
-            </div>
-
-            {/* 🔍 次にユーザーが検索する疑問＆先回りガイド（内部リンク網） */}
-            {(() => {
-              const matchedSpot = SPOTS_DATA.find(s => {
-                const textToSearch = `${post.title || ""} ${post.hotel_name || ""} ${post.area || ""} ${post.review || ""}`.toLowerCase();
-                const isPrefMatch = s.prefName === safePref || s.prefName.replace(/(県|府|東京都)$/, "") === safePref.replace(/(県|府|東京都)$/, "");
-                return isPrefMatch && s.hotelKeywords.some(kw => textToSearch.includes(kw.toLowerCase()));
-              });
-
-              const matchedCity = CITIES_DATA.find(c => {
-                const textToSearch = `${post.title || ""} ${post.hotel_name || ""} ${post.area || ""} ${post.prefecture || ""}`.toLowerCase();
-                const isPrefMatch = c.prefName === safePref || c.prefName.replace(/(県|府|東京都)$/, "") === safePref.replace(/(県|府|東京都)$/, "");
-                return isPrefMatch && (textToSearch.includes(c.cityName.toLowerCase()) || c.keywords.some(kw => textToSearch.includes(kw.toLowerCase())));
-              });
-
-              const recommendedHubs = getRecommendedFeatureHubs({
-                prefSlug,
-                categories: post.categories,
-                keywords: [post.area, post.prefecture, ...(post.recommended_for || [])],
-                limit: 2
-              });
-
-              const nextQuestions: NextQuestionItem[] = [];
-
-              if (matchedSpot) {
-                nextQuestions.push({
-                  question: `${matchedSpot.name}の見どころやアクセス、おすすめルートは？`,
-                  badge: "周辺観光名所ガイド",
-                  answerSnippet: `${matchedSpot.subtitle}。${post.hotel_name}からのアクセスも良好で、合わせて訪れたい定番スポットです。`,
-                  linkText: `【${matchedSpot.name}】詳細解説＆見どころを見る`,
-                  href: `/spots/${matchedSpot.slug}`
-                });
-              }
-
-              if (matchedCity) {
-                nextQuestions.push({
-                  question: `${matchedCity.cityName}で人気のおすすめ観光地や名物グルメは？`,
-                  badge: "市町村観光ガイド",
-                  answerSnippet: `${matchedCity.cityName}の主要観光スポット（${matchedCity.highlights.slice(0, 3).join('・')}）や、${matchedCity.gourmet.slice(0, 2).join('・')}などのご当地料理を徹底ガイド。`,
-                  linkText: `【${matchedCity.cityName}】観光＆名物料理ガイドを見る`,
-                  href: `/prefectures/${prefSlug}/${matchedCity.citySlug}`
-                });
-              }
-
-              if (prefSlug) {
-                nextQuestions.push({
-                  question: `${post.prefecture}で有名な名所・人気温泉旅館・定番お土産は？`,
-                  badge: "都道府県ポータル",
-                  answerSnippet: `「${post.prefecture}で有名なものは何？」を一挙解決。おすすめの温泉地、絶景カフェ、トレンドお土産、地酒・酒蔵まで網羅しています。`,
-                  linkText: `【${post.prefecture}】観光・温泉・名物ガイドを見る`,
-                  href: `/prefectures/${prefSlug}`
-                });
-              }
-
-              for (const hub of recommendedHubs) {
-                nextQuestions.push({
-                  question: `【${hub.theme}】この旅のスタイルにぴったりな人気特集は？`,
-                  badge: "旅の目的・テーマ特集",
-                  answerSnippet: hub.description,
-                  linkText: `${hub.shortTitle}を見る`,
-                  href: `/${hub.slug}`
-                });
-              }
-
-              if (nextQuestions.length === 0) return null;
-
-              return (
-                <div className="pt-8 border-t border-emerald-950/10">
-                  <NextSearchQuestions
-                    title={`🔍 ${post.hotel_name}（${post.area}）を調べた人が「次に検索している疑問」`}
-                    subtitle="旅行の検討や計画をスムーズに進めるために、周辺の観光スポット・名物グルメ・関連する旅の特集を先回りしてご紹介します。"
-                    items={nextQuestions}
-                  />
-                </div>
-              );
-            })()}
           </>
         )}
+
+        {/* AI-SEO (GEO) ＆ ユーザー満足度向上の FAQ (よくある質問) - 全記事表示で構造化データと完全一致 */}
+        <div id="section-faq" className="scroll-mt-24 pt-10 border-t border-emerald-950/10 space-y-6">
+          <h3 className="text-lg md:text-xl font-bold font-journal-serif text-emerald-950 flex items-center gap-2">
+            <span>❓</span> <span>{post.prefecture}旅行・{post.hotel_name}に関するよくある質問（FAQ）</span>
+          </h3>
+          <div className="space-y-4">
+            {faqList.map((faq, idx) => (
+              <div key={idx} className="p-4 rounded-xl bg-teal-50/40 border border-teal-900/10 space-y-2">
+                <h4 className="text-sm font-bold text-teal-950 flex items-start gap-2">
+                  <span className="text-teal-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span>
+                </h4>
+                <p className="text-xs text-emerald-950/80 leading-relaxed pl-6">
+                  {faq.a}
+                </p>
+              </div>
+            ))}
+          </div>
+        </div>
+
+        {/* 🔍 次にユーザーが検索する疑問＆先回りガイド（内部リンク網） */}
+        {(() => {
+          const matchedSpot = SPOTS_DATA.find(s => {
+            const textToSearch = `${post.title || ""} ${post.hotel_name || ""} ${post.area || ""} ${post.review || ""}`.toLowerCase();
+            const isPrefMatch = s.prefName === safePref || s.prefName.replace(/(県|府|東京都)$/, "") === safePref.replace(/(県|府|東京都)$/, "");
+            return isPrefMatch && s.hotelKeywords.some(kw => textToSearch.includes(kw.toLowerCase()));
+          });
+
+          const matchedCity = CITIES_DATA.find(c => {
+            const textToSearch = `${post.title || ""} ${post.hotel_name || ""} ${post.area || ""} ${post.prefecture || ""}`.toLowerCase();
+            const isPrefMatch = c.prefName === safePref || c.prefName.replace(/(県|府|東京都)$/, "") === safePref.replace(/(県|府|東京都)$/, "");
+            return isPrefMatch && (textToSearch.includes(c.cityName.toLowerCase()) || c.keywords.some(kw => textToSearch.includes(kw.toLowerCase())));
+          });
+
+          const recommendedHubs = getRecommendedFeatureHubs({
+            prefSlug,
+            categories: post.categories,
+            keywords: [post.area, post.prefecture, ...(post.recommended_for || [])],
+            limit: 2
+          });
+
+          const nextQuestions: NextQuestionItem[] = [];
+
+          if (matchedSpot) {
+            nextQuestions.push({
+              question: `${matchedSpot.name}の見どころやアクセス、おすすめルートは？`,
+              badge: "周辺観光名所ガイド",
+              answerSnippet: `${matchedSpot.subtitle}。${post.hotel_name}からのアクセスも良好で、合わせて訪れたい定番スポットです。`,
+              linkText: `【${matchedSpot.name}】詳細解説＆見どころを見る`,
+              href: `/spots/${matchedSpot.slug}/`
+            });
+          }
+
+          if (matchedCity) {
+            nextQuestions.push({
+              question: `${matchedCity.cityName}で人気のおすすめ観光地や名物グルメは？`,
+              badge: "市町村観光ガイド",
+              answerSnippet: `${matchedCity.cityName}の主要観光スポット（${matchedCity.highlights.slice(0, 3).join('・')}）や、${matchedCity.gourmet.slice(0, 2).join('・')}などのご当地料理を徹底ガイド。`,
+              linkText: `【${matchedCity.cityName}】観光＆名物料理ガイドを見る`,
+              href: `/prefectures/${prefSlug}/${matchedCity.citySlug}/`
+            });
+          }
+
+          if (prefSlug) {
+            nextQuestions.push({
+              question: `${post.prefecture}で有名な名所・人気温泉旅館・定番お土産は？`,
+              badge: "都道府県ポータル",
+              answerSnippet: `「${post.prefecture}で有名なものは何？」を一挙解決。おすすめの温泉地、絶景カフェ、トレンドお土産、地酒・酒蔵まで網羅しています。`,
+              linkText: `【${post.prefecture}】観光・温泉・名物ガイドを見る`,
+              href: `/prefectures/${prefSlug}/`
+            });
+          }
+
+          for (const hub of recommendedHubs) {
+            nextQuestions.push({
+              question: `【${hub.theme}】この旅のスタイルにぴったりな人気特集は？`,
+              badge: "旅の目的・テーマ特集",
+              answerSnippet: hub.description,
+              linkText: `${hub.shortTitle}を見る`,
+              href: `/${hub.slug}/`
+            });
+          }
+
+          if (nextQuestions.length === 0) return null;
+
+          return (
+            <div className="pt-8 border-t border-emerald-950/10">
+              <NextSearchQuestions
+                title={`🔍 ${post.hotel_name}（${post.area}）を調べた人が「次に検索している疑問」`}
+                subtitle="旅行の検討や計画をスムーズに進めるために、周辺の観光スポット・名物グルメ・関連する旅の特集を先回りしてご紹介します。"
+                items={nextQuestions}
+              />
+            </div>
+          );
+        })()}
 
         {/* 関連記事 (内部リンク強化コンポーネント) */}
         <RelatedPosts

@@ -63,7 +63,9 @@ function main() {
       categories: p.categories || [],
       price: p.price || '',
       rating: p.rating || '',
+      review_count: p.review_count || '',
       date: p.date || '',
+      is_special_feature: Boolean(p.is_special_feature),
       keywords: p.keywords || []
     }));
 
@@ -525,15 +527,25 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
 
 
 
-## 都道府県別観光＆宿泊ガイド
+## 2026年秋冬（10月〜1月）最注目・高需要特集ガイド
+- [【下呂温泉 旅館・ホテルおすすめランキング10選】水明館・湯之島館・小川屋など日本三名泉の絶景露天＆飛騨牛会席宿](${BASE_URL}/posts/autumn-gifu-gero-10selection/): 下呂温泉の名門旅館・露天風呂・飛騨牛会席の徹底比較
+- [【洞窟温泉・洞窟風呂おすすめ宿ランキング】南紀勝浦・忘帰洞など日本全国の神秘的な洞窟露天風呂＆名湯旅館](${BASE_URL}/posts/cave-bath-geothermal-secret-onsen-hotels-guide/): ホテル浦島（忘帰洞）・熊野別邸中の島など全国の洞窟風呂特集
+- [【ラドン温泉・ラジウム温泉おすすめ旅館ランキング10選】三朝温泉・依山楼岩崎など世界屈指の放射能泉＆湯治宿](${BASE_URL}/posts/radium-radon-hormesis-metabolism-hotels-guide/): 鳥取・三朝温泉や山梨・増富など高濃度ラドン療養泉の厳選宿
+- [【カニ解禁2026-2027】越前ガニ＆松葉ガニが美味しい人気温泉宿ランキング10選](${BASE_URL}/posts/winter-brand-crab-matsuba-echizen-guide/): 11月6日解禁・タグ付き活ガニフルコースの名湯旅館
+- [【越前ガニ・松葉ガニ解禁速報】ブランドタグ付き活蟹が食べられる名湯旅館10選](${BASE_URL}/posts/winter-brand-tagged-crab-echizen-matsuba-onsen-hotels-guide/): あわら温泉・三国港・城崎温泉の極上活ガニ宿
+- [【Yu Kiroro（ユキロロ）北海道 宿泊完全ガイド】スキー場直結コンドミニアム＆天然温泉](${BASE_URL}/posts/yu-kiroro-hokkaido-luxury-stay-guide/): キロロスノーワールド直結・パウダースノー＆温泉ステイ
+- [【鴨川館】宿泊記＆口コミ評判｜客室温泉露天風呂・朝食バイキング・鴨川シーワールド徒歩3分](${BASE_URL}/posts/kamogawakan-guide/): 千葉県南房総・鴨川温泉の名門旅館レビュー
+- [【棚田温泉・棚田露天風呂おすすめ宿ランキング】絶景インフィニティ温泉＆里山原風景](${BASE_URL}/posts/tanada-onsen-infinity-bath-japan-guide/): 段々畑の絶景露天風呂と日本の原風景に浸る宿
+
+## 都道府県別観光＆宿泊ガイド（全47都道府県）
 `;
   PREFECTURE_SLUGS.forEach(slug => {
-    llmsTxt += `- [${slug.toUpperCase()} 観光＆宿泊ガイド](${BASE_URL}/prefectures/${slug})\n`;
+    llmsTxt += `- [${slug.toUpperCase()} 観光名所・名物グルメ・人気温泉ホテル完全ガイド](${BASE_URL}/prefectures/${slug}/)\n`;
   });
 
   llmsTxt += `\n## 最新厳選宿・観光ルポ記事\n`;
-  posts.slice(0, 50).forEach(post => {
-    llmsTxt += `- [${post.title}](${BASE_URL}/posts/${post.id}): ${post.hotel_name}（${post.prefecture}）\n`;
+  posts.slice(0, 60).forEach(post => {
+    llmsTxt += `- [${post.title}](${BASE_URL}/posts/${post.id}/): ${post.hotel_name}（${post.prefecture}）\n`;
   });
 
   fs.writeFileSync(path.join(PUBLIC_DIR, 'llms.txt'), llmsTxt, 'utf8');
@@ -574,16 +586,21 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
   }
 
   // --- 4. AI向け: 都道府県別 llms ファイル / 記事別Markdown / RSS の自動生成 ---
-  // 旧 llms-full.txt は約10MBでAIが読み切れないため、軽量な索引にして実体は分割する。
   const PREF_ORDER = ['北海道','青森県','岩手県','宮城県','秋田県','山形県','福島県','茨城県','栃木県','群馬県','埼玉県','千葉県','東京都','神奈川県','新潟県','富山県','石川県','福井県','山梨県','長野県','岐阜県','静岡県','愛知県','三重県','滋賀県','京都府','大阪府','兵庫県','奈良県','和歌山県','鳥取県','島根県','岡山県','広島県','山口県','徳島県','香川県','愛媛県','高知県','福岡県','佐賀県','長崎県','熊本県','大分県','宮崎県','鹿児島県','沖縄県'];
-  const htmlToText = (html) => (html || '')
-    .replace(/<\/(p|h[1-6]|li|div|tr)>/gi, '\n')
-    .replace(/<br\s*\/?>/gi, '\n')
-    .replace(/<[^>]*>/g, '')
-    .replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>')
-    .replace(/[ \t]+/g, ' ')
-    .replace(/\n\s*\n+/g, '\n\n')
-    .trim();
+  const cleanHtmlForAi = (html) => {
+    let cleaned = (html || '')
+      // Remove internal related link blocks and comparison table HTML (since we render clean MD table)
+      .replace(/<div class="geo-comparison-table"[\s\S]*?<\/table>\s*<\/div>/gi, '')
+      .replace(/<nav aria-label="関連記事ナビ"[\s\S]*?<\/nav>/gi, '');
+    return cleaned
+      .replace(/<\/(p|h[1-6]|li|div|tr)>/gi, '\n')
+      .replace(/<br\s*\/?>/gi, '\n')
+      .replace(/<[^>]*>/g, '')
+      .replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>')
+      .replace(/[ \t]+/g, ' ')
+      .replace(/\n\s*\n+/g, '\n\n')
+      .trim();
+  };
   const listText = (arr) => (Array.isArray(arr) ? arr.filter(Boolean).join('、') : '');
 
   const llmsDir = path.join(PUBLIC_DIR, 'llms');
@@ -605,23 +622,45 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
     const pref = normalizePref(post.prefecture);
     (byPref[pref] = byPref[pref] || []).push(post);
 
-    // 記事別Markdown（本文は装飾なしで全文）
-    let md = `# ${post.title}\n\n`;
-    md += `- URL: ${BASE_URL}/posts/${post.id}/\n`;
-    md += `- 宿泊施設名: ${post.hotel_name}\n`;
-    md += `- 都道府県: ${post.prefecture || ''}\n- エリア: ${post.area || ''}\n`;
-    if (post.price) md += `- 参考価格: ¥${post.price}〜\n`;
-    if (post.rating) md += `- 評価: ${post.rating}\n`;
-    if (post.date) md += `- 更新日: ${post.date}\n`;
-    if (post.recommended_for) md += `- おすすめの人: ${listText(post.recommended_for)}\n`;
-    if (post.nearby_tourist_spots) md += `- 周辺の観光スポット: ${listText(post.nearby_tourist_spots)}\n`;
-    if (post.nearby_gourmet) md += `- 周辺のグルメ: ${listText(post.nearby_gourmet)}\n`;
-    if (post.hot_spring_info) md += `- 温泉: ${post.hot_spring_info}\n`;
-    if (post.parking_info) md += `- 駐車場: ${post.parking_info}\n`;
-    if (post.meal_availability) md += `- 食事: ${post.meal_availability}\n`;
-    if (post.family_friendly) md += `- 子連れ: ${post.family_friendly}\n`;
-    if (post.editor_tip) md += `- 編集部メモ: ${post.editor_tip}\n`;
-    md += `\n## 概要\n${post.description || ''}\n\n## 詳細\n${htmlToText(post.review)}\n`;
+    // 記事別Markdown（YAML Frontmatter + Markdown比較テーブル + ノイズ除去済み本文）
+    let md = `---\n`;
+    md += `title: "${String(post.title || '').replace(/"/g, '\\"')}"\n`;
+    md += `url: "${BASE_URL}/posts/${post.id}/"\n`;
+    md += `hotel_name: "${String(post.hotel_name || '').replace(/"/g, '\\"')}"\n`;
+    md += `prefecture: "${post.prefecture || ''}"\n`;
+    md += `area: "${post.area || ''}"\n`;
+    if (post.price) md += `price_from: ${Number(post.price) || 0}\n`;
+    if (post.rating) md += `rating: ${post.rating}\n`;
+    if (post.review_count) md += `review_count: ${post.review_count}\n`;
+    if (post.date) md += `last_modified: "${post.date}"\n`;
+    md += `---\n\n`;
+    md += `# ${post.title}\n\n`;
+    md += `- **URL**: ${BASE_URL}/posts/${post.id}/\n`;
+    md += `- **宿泊施設・特集名**: ${post.hotel_name}\n`;
+    md += `- **所在地**: ${post.prefecture || ''}（${post.area || ''}）\n`;
+    if (post.price) md += `- **参考最安料金**: ¥${Number(post.price).toLocaleString()}〜\n`;
+    if (post.rating) md += `- **楽天トラベル評価**: ★${post.rating}${post.review_count ? `（口コミ ${Number(post.review_count).toLocaleString()}件）` : ''}\n`;
+    if (post.date) md += `- **最終更新日**: ${post.date}\n`;
+    if (post.recommended_for && post.recommended_for.length > 0) md += `- **おすすめ層**: ${listText(post.recommended_for)}\n`;
+    if (post.nearby_tourist_spots && post.nearby_tourist_spots.length > 0) md += `- **周辺観光名所**: ${listText(post.nearby_tourist_spots)}\n`;
+    if (post.nearby_gourmet && post.nearby_gourmet.length > 0) md += `- **名物グルメ**: ${listText(post.nearby_gourmet)}\n`;
+    if (post.hot_spring_info) md += `- **温泉・大浴場**: ${post.hot_spring_info}\n`;
+    if (post.parking_info) md += `- **駐車場**: ${post.parking_info}\n`;
+    if (post.meal_availability) md += `- **食事プラン**: ${post.meal_availability}\n`;
+    if (post.family_friendly) md += `- **子連れ・ファミリー対応**: ${post.family_friendly}\n`;
+    if (post.editor_tip) md += `- **編集部メモ**: ${post.editor_tip}\n`;
+    md += `\n## 要約（TL;DR）\n${post.description || ''}\n`;
+
+    if (post.featured_hotels && post.featured_hotels.length >= 2) {
+      md += `\n## 厳選ホテル・旅館 比較一覧表\n\n`;
+      md += `| 順位 | 宿泊施設名 | 口コミ評価 | 参考最安料金 |\n`;
+      md += `| :--- | :--- | :--- | :--- |\n`;
+      post.featured_hotels.forEach((h, idx) => {
+        md += `| ${idx + 1}位 | ${h.name} | ★${h.rating} | ${h.price} |\n`;
+      });
+    }
+
+    md += `\n## 詳細解説\n${cleanHtmlForAi(post.review)}\n`;
     fs.writeFileSync(path.join(aiDir, `${post.id}.md`), md, 'utf8');
   });
 
