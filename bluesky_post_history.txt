@@ -89,3 +89,4 @@ showcase_shizuoka
 autumn-kyushu-beppu-seafood-guide
 showcase_kagoshima
 shirahone-onsen-milky-snow-roten-norikura-winter-guide
+showcase_miyagi
